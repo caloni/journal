@@ -1,0 +1,7 @@
+LIBRARY ConfigUpd
+
+EXPORTS
+RsStartService
+RsSendMsg
+RsStopService
+InvUpdFile_SendFile

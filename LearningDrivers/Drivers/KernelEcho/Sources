@@ -1,0 +1,7 @@
+TARGETNAME=KernelEcho
+TARGETPATH=obj
+TARGETTYPE=DRIVER
+
+SOURCES= \
+	KernelEcho.c \
+	Common.c

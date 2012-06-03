@@ -1,0 +1,6 @@
+LIBRARY	"gpahook"
+
+EXPORTS
+GpaHookInitialize
+OnGetProcAddressOutputDebugString
+OnGetProcAddressWriteFile

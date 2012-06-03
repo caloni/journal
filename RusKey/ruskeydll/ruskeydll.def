@@ -1,0 +1,4 @@
+LIBRARY	RusKey
+
+EXPORTS
+HookProc
