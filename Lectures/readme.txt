@@ -1,0 +1,1 @@
+Conteúdo das palestras (que encontrei) que podem ajudar quem já participou de alguma.

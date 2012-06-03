@@ -1,0 +1,13 @@
+Debug
+Release
+objchk*
+objfre*
+*.ncb
+ipch
+*.user
+*.aps
+*.sdf
+*.suo
+*.opensdf
+*.scc
+*.log
