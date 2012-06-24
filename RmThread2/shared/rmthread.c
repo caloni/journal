@@ -59,6 +59,27 @@ HANDLE CreateAndGetProcessGodHandle(
 }
 
 
+/** 
+ * Try to open process with rights for running remote threads.
+ */
+HANDLE OpenProcessGodHandle(
+    DWORD dwProcessId
+    )
+{
+    HANDLE hRet;
+
+    hRet = OpenProcess(PROCESS_CREATE_THREAD | 
+        PROCESS_QUERY_INFORMATION |
+        PROCESS_VM_OPERATION |
+        PROCESS_VM_WRITE |
+        PROCESS_VM_READ,
+        TRUE,
+        dwProcessId);
+
+    return hRet;
+}
+
+
 
 /**
  * Load DLL in another process.

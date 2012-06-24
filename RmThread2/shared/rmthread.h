@@ -20,6 +20,9 @@
 HANDLE CreateAndGetProcessGodHandle(LPCTSTR lpApplicationName, 
    LPTSTR lpCommandLine);
 
+/** Try to open process with rights for running remote threads. */
+HANDLE OpenProcessGodHandle(DWORD dwProcessId);
+
 /** Load DLL in another process. */
 HMODULE RemoteLoadLibrary(HANDLE hProcess, LPCTSTR lpFileName);
 

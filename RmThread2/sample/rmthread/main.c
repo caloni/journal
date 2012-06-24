@@ -38,7 +38,7 @@ VOID PrintHelp(
    _T("RmThread v. %s ")
    _T("Sample by Wanderley Caloni Jr. <wanderley@caloni.com.br>\n")
    _T("How to use: %s [-options]\n")
-   _T("  -pxxx   Program Path (default: %%ComSpec%%)\n")
+   _T("  -pxxx   Program Path (default: %%ComSpec%%) or PID\n")
    _T("  -dxxx   DLL File Name (default: RmThread.dll)\n")
    _T("  -axxx   Program Arguments (default: \"\")\n")
    ;
@@ -81,6 +81,7 @@ int _tmain(int argc, TCHAR *argv[])
 {
    int iRet = 0;
    TCHAR tzProgPath[MAX_PATH] = _T("%ComSpec%");
+   DWORD dwProcessId = 0;
    TCHAR tzProgArgs[MAX_PATH] = _T("");
    TCHAR tzDllPath[MAX_PATH] = _T("RmThread.dll");
    int opt;
@@ -91,7 +92,7 @@ int _tmain(int argc, TCHAR *argv[])
    {
       switch( opt )
       {
-         case _T('p'): _tcscpy(tzProgPath, optarg); break;
+         case _T('p'): _tcscpy(tzProgPath, optarg); dwProcessId = _ttoi(tzProgPath); break;
          case _T('a'): _tcscpy(tzProgArgs, optarg); break;
          case _T('d'): _tcscpy(tzDllPath, optarg);  break;
          case _T('\0'): break;
@@ -107,17 +108,23 @@ int _tmain(int argc, TCHAR *argv[])
    {
       HANDLE hProc;
 
-      // Start process and get handle with powers.
-      hProc = CreateAndGetProcessGodHandle(tzProgPath, tzProgArgs);
+      if( dwProcessId ) // if user specified PID instead of program path
+      {
+          // Open process and get handle with powers.
+          hProc = OpenProcessGodHandle(dwProcessId);
+      }
+      else
+      {
+          // Start process and get handle with powers.
+          hProc = CreateAndGetProcessGodHandle(tzProgPath, tzProgArgs);
+      }
 
       if( hProc != NULL )
       {
          // Load DLL in the create process context.
          HMODULE hDll = RemoteLoadLibrary(hProc, tzDllPath);
 
-         if( hDll != NULL )
-            RemoteFreeLibrary(hProc, hDll);
-         else
+         if( hDll == NULL )
             _ftprintf(stderr, _T("Error trying to load %s in process %s"), 
                       tzDllPath, tzProgPath);
 

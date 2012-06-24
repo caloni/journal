@@ -1,0 +1,3 @@
+LIBRARY EvenOdd6
+EXPORTS
+IsEven
