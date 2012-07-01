@@ -20,6 +20,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EvenOdd5", "EvenOdd5\EvenOd
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EvenOdd6", "EvenOdd6\EvenOdd6.vcxproj", "{73290712-F227-4BF5-AD1D-D0BA44F742A7}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DynamicPatch", "DynamicPatch\DynamicPatch.vcxproj", "{051957E9-60B4-4160-83AD-2FCF7F0979AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -58,6 +60,10 @@ Global
 		{73290712-F227-4BF5-AD1D-D0BA44F742A7}.Debug|Win32.Build.0 = Debug|Win32
 		{73290712-F227-4BF5-AD1D-D0BA44F742A7}.Release|Win32.ActiveCfg = Release|Win32
 		{73290712-F227-4BF5-AD1D-D0BA44F742A7}.Release|Win32.Build.0 = Release|Win32
+		{051957E9-60B4-4160-83AD-2FCF7F0979AF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{051957E9-60B4-4160-83AD-2FCF7F0979AF}.Debug|Win32.Build.0 = Debug|Win32
+		{051957E9-60B4-4160-83AD-2FCF7F0979AF}.Release|Win32.ActiveCfg = Release|Win32
+		{051957E9-60B4-4160-83AD-2FCF7F0979AF}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
