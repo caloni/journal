@@ -22,7 +22,7 @@ bool IsEven(int number)
     else
         ++OddTotal;
 
-    printf("FINAL VERSION: %d par, %d impar, % total\n", EvenTotal, OddTotal, EvenTotal + OddTotal);
+    printf("FINAL VERSION: %d par, %d impar, %d total\n", EvenTotal, OddTotal, EvenTotal + OddTotal);
 
     return even;
 }
