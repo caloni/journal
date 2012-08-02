@@ -23,7 +23,8 @@ def opendoc(cvmcode, year):
                 break
         else: raise KeyError
         reglines = [re.match(r'^(.{6})(.{4})(.{2})(.{2})(.{13})(.{40})(.{15})(.{15})(.{15})(.{1})', x) for x in doc.splitlines()]
-        return (year, [[x.strip() for x in reglines[i].groups()] for i in range(len(reglines))])
+        lines = [[x.strip() for x in reglines[i].groups()] for i in range(len(reglines))]
+        return [lines[x][4:-3] for x in range(len(lines))]
     except zipfile.BadZipfile:
         print 'Zip invalido para ' + pubdata
     except KeyError:
