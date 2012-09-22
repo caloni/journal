@@ -1,4 +1,4 @@
-import urllib2, zipfile, StringIO, re
+import urllib2, zipfile, StringIO, re, datetime
 
 def geturl(cvmcode, pubdata):
     return 'http://www.bmfbovespa.com.br/dxw/Download.asp?moeda=L&site=B&mercado=18&ccvm=' + str(cvmcode) + '&data=' + pubdata + '&tipo=2'
@@ -29,15 +29,18 @@ def opendoc(cvmcode, year):
         lines = [[x.strip() for x in reglines[i].groups()] for i in range(len(reglines))]
         return [lines[x][4:-3] for x in range(len(lines))]
     except zipfile.BadZipfile:
-        print 'Zip invalido para ' + pubdata
+        print 'Zip invalido para ', pubdata
     except KeyError:
-        print 'Documento nao encontrado em ' + pubdata
+        print 'Documento nao encontrado em ', pubdata
     return None
 
 def getquotedocname(year):
-    if int(year) <= 2001:
+    if int(year) == 2001:
         return 'COTAHIST_A' + str(year)
-    return 'COTAHIST_A' + str(year) + '.TXT'
+    elif int(year) < 2001:
+        return 'COTAHIST.A' + str(year)
+    else:
+        return 'COTAHIST_A' + str(year) + '.TXT'
 
 def openquotedoc(year):
     """Carrega cotacao historica do site da Bovespa
@@ -51,10 +54,10 @@ def openquotedoc(year):
         if docname in zip.namelist():
             return zip.read(docname)
     except zipfile.BadZipfile:
-        print 'Zip invalido para ' + year
+        print 'Zip invalido para ', year
     except KeyError:
-        print 'Documento nao encontrado em ' + year
-    return None
+        print 'Documento nao encontrado em ', year
+    print 'Erro ao abrir documento do ano ', year
     
 def openquotedocbyfile(path):
     """Carrega cotacao historica de arquivo ZIP baixado do site da Bovespa.
@@ -67,7 +70,6 @@ def openquotedocbyfile(path):
         print 'Zip invalido'
     except KeyError:
         print 'Documento nao encontrado'
-    return None
     
 def printquoteheader():
     print 'Data Pregao;Abertura;Minima;Maxima;Fechamento'
@@ -80,11 +82,30 @@ def printquoteline(line):
     close = float(line[108:121]) / 100
     print date + ';' + str(open) + ';' + str(min) + ';' + str(max) + ';' + str(close)
 
-def printquote(code, year):
-    doc = openquotedoc(year)
-    lines = doc.split('\n')
+def printquotelinesbydate(code, lines, beginDate, endDate):
+    printquoteheader()
+    for line in lines:
+        if line[12:23].strip() == code:
+            lineDate = datetime.date(int(line[2:6]), int(line[6:8]), int(line[8:10]))
+            if lineDate >= beginDate and lineDate <= endDate:
+                printquoteline(line)
+
+def printquotelines(code, lines):
     printquoteheader()
     for line in lines:
         if line[12:23].strip() == code:
             printquoteline(line)
+
+def printquote(code, year):
+    doc = openquotedoc(year)
+    lines = doc.split('\n')
+    printquotelines(code, lines)
+
+def loadquotelines(beginYear, endYear):
+    totalLines = []
+    for year in range(beginYear, endYear + 1):
+        doc = openquotedoc(year)
+        lines = doc.split('\n')
+        totalLines = totalLines + lines
+    return totalLines
 
