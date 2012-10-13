@@ -90,6 +90,18 @@ def printquotelinesbydate(code, lines, beginDate, endDate):
             if lineDate >= beginDate and lineDate <= endDate:
                 printquoteline(line)
 
+def getquotecodes(lines):
+    """ Obtem lista de codigos dos papeis que foram operados.
+
+    Passe o resultado da chamada de loadquotelines.
+    """
+    codelist = []
+    for line in lines:
+        code = line[12:23].strip()
+        if code not in codelist:
+            codelist += code
+    return codelist
+
 def printquotelines(code, lines):
     printquoteheader()
     for line in lines:
