@@ -8,7 +8,7 @@
 // This file is licensed as part of the Silverlight 2 SDK, for details look here: http://go.microsoft.com/fwlink/?LinkID=111970&clcid=0x409
 //
 ///////////////////////////////////////////////////////////////////////////////
-namespace wp7chess
+namespace ChessQuestions
 {
 	using System;
 	using System.IO;
@@ -24,7 +24,7 @@ namespace wp7chess
 
 		public Piece(string resourceName)
 		{
-            StreamResourceInfo res = Application.GetResourceStream(new Uri("wp7chess;component/Pieces/" + resourceName, UriKind.Relative));
+            StreamResourceInfo res = Application.GetResourceStream(new Uri("ChessQuestions;component/Pieces/" + resourceName, UriKind.Relative));
             StreamReader reader = new StreamReader(res.Stream);
 
 			//Stream stream = this.GetType().Assembly.GetManifestResourceStream(resourceName);

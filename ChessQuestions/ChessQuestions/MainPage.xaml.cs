@@ -13,12 +13,12 @@ using Microsoft.Phone.Controls;
 using System.Windows.Threading;
 using Microsoft.Phone.Shell;
 
-namespace wp7chess
+namespace ChessQuestions
 {
     public partial class MainPage : PhoneApplicationPage
     {
-        private string player_one = "";
-        private string player_two = "";
+        //private string player_one = "";
+        //private string player_two = "";
 
         private Position position = new Position();
         private Searcher searcher;
@@ -137,15 +137,15 @@ namespace wp7chess
 
             ApplicationBar.Buttons.Add(refresh);
 
-            human_vs_phone = new ApplicationBarMenuItem("» human vs phone");
+            human_vs_phone = new ApplicationBarMenuItem("» humano vs telefone");
             human_vs_phone.Click += new EventHandler(human_vs_phone_Click);
             ApplicationBar.MenuItems.Add(human_vs_phone);
 
-            human_vs_human = new ApplicationBarMenuItem("human vs human");
+            human_vs_human = new ApplicationBarMenuItem("humano versus humano");
             human_vs_human.Click += new EventHandler(human_vs_human_Click);
             ApplicationBar.MenuItems.Add(human_vs_human);
 
-            phone_phone = new ApplicationBarMenuItem("phone vs phone");
+            phone_phone = new ApplicationBarMenuItem("telefone vs telefone");
             phone_phone.Click += new EventHandler(phone_phone_Click);
             ApplicationBar.MenuItems.Add(phone_phone);
 
@@ -154,15 +154,15 @@ namespace wp7chess
 
         void blankMenu()
         {
-            phone_phone.Text = "phone vs phone";
-            human_vs_phone.Text = "human vs phone";
-            human_vs_human.Text = "human vs human";
+            phone_phone.Text = "telefone vs telefone";
+            human_vs_phone.Text = "humano vs telefone";
+            human_vs_human.Text = "humano vs humano";
         }
 
         void phone_phone_Click(object sender, EventArgs e)
         {
             blankMenu();
-            phone_phone.Text = "» phone vs phone";
+            phone_phone.Text = "» telefone vs telefone";
 
             blackSelector.setPlayer(1);
             whiteSelector.setPlayer(1);
@@ -171,7 +171,7 @@ namespace wp7chess
         void human_vs_phone_Click(object sender, EventArgs e)
         {
             blankMenu();
-            human_vs_phone.Text = "» human vs phone";
+            human_vs_phone.Text = "» humano vs telefone";
             blackSelector.setPlayer(1);
             whiteSelector.setPlayer(0);
         }
@@ -179,7 +179,7 @@ namespace wp7chess
         void human_vs_human_Click(object sender, EventArgs e)
         {
             blankMenu();
-            human_vs_human.Text = "» human vs human";
+            human_vs_human.Text = "» humano vs humano";
             blackSelector.setPlayer(0);
             whiteSelector.setPlayer(0);
         }
@@ -251,8 +251,8 @@ namespace wp7chess
                 //winner.Height = 250;
                 //this.LayoutRoot.Children.Add(winner);
 
-                string winnerColor = this.position.ToMove == 0 ? "White" : "Black";
-                MessageBox.Show(winnerColor + " wins!");
+                string winnerColor = this.position.ToMove == 0 ? "As brancas" : "As pretas";
+                MessageBox.Show(winnerColor + " ganharam!");
 
             }
             else

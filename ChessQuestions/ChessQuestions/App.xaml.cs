@@ -13,7 +13,7 @@ using System.Windows.Shapes;
 using Microsoft.Phone.Controls;
 using Microsoft.Phone.Shell;
 
-namespace wp7chess
+namespace ChessQuestions
 {
     public partial class App : Application
     {

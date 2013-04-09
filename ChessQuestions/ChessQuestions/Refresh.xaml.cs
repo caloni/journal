@@ -11,7 +11,7 @@ using System.Windows.Media.Animation;
 using System.Windows.Shapes;
 using Microsoft.Phone.Controls;
 
-namespace wp7chess
+namespace ChessQuestions
 {
     public partial class Refresh : PhoneApplicationPage
     {

@@ -9,7 +9,7 @@
 //
 ///////////////////////////////////////////////////////////////////////////////
 
-namespace wp7chess
+namespace ChessQuestions
 {
 	using System;
 	using System.Collections.Generic;
@@ -115,7 +115,7 @@ namespace wp7chess
 					return move;
 				}
 			}
-			throw new Exception("Didn't find a valid move");
+			throw new Exception("Não encontrei um lance válido");
 		}
 		public static string GetUCIString(ushort move)
 		{

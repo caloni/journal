@@ -20,7 +20,7 @@ using System.Windows.Shapes;
 using System.Collections.Generic;
 using System.Windows.Controls.Primitives;
 
-namespace wp7chess
+namespace ChessQuestions
 {
 	public partial class PlayerSelector : UserControl
 	{

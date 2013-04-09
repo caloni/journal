@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Deployment xmlns="http://schemas.microsoft.com/windowsphone/2009/deployment" AppPlatformVersion="7.1">
-  <App xmlns="" ProductID="{D66A33FE-1918-4BCB-A5E8-72426571DA4B}" Title="ChessQuestions" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal" Author="Wanderley Caloni" Description="A chess analysis program." Publisher="Caloni Company">
+  <App xmlns="" ProductID="{EDCBDADF-18E0-4FC3-8C9C-50910C5A353C}" Title="ChessQuestions" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal" Author="Wanderley Caloni" Description="A chess analysis program." Publisher="Caloni Company">
     <IconPath IsRelative="true" IsResource="false">ApplicationIcon.png</IconPath>
     <Capabilities>
       <Capability Name="ID_CAP_GAMERSERVICES" />
@@ -19,7 +19,7 @@
       <DefaultTask Name="_default" NavigationPage="MainPage.xaml" />
     </Tasks>
     <Tokens>
-      <PrimaryToken TokenID="wp7chessToken" TaskName="_default">
+      <PrimaryToken TokenID="ChessQuestionsToken" TaskName="_default">
         <TemplateType5>
           <BackgroundImageURI IsRelative="true" IsResource="false">ApplicationIcon.png</BackgroundImageURI>
           <Count>0</Count>
