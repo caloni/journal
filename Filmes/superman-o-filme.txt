@@ -1,0 +1,12 @@
+Superman. Reino Unido, 1978. Director: Richard Donner. Writers: Jerry Siegel (creator: Superman), Joe Shuster (creator: Superman). Stars: Christopher Reeve, Margot Kidder and Gene Hackman.
+
+Um clássico de filmes de super-heróis muito antes dos grandes efeitos digitais.
+
+Cercado de evocações épicas em seus quadros, no tom solene da partida de Krypton (protagonizada por ninguém menos que Marlon Brando) e até mesmo na fotografia dos diversos ambientes em que vemos o personagem-título, o fato é que "Superman — O Filme" funciona bem exatamente por tudo isso junto, ainda alidado às convincentes interpretações dos personagens, uniformes em suas representações do mundo fantasioso vivido pelo homem de aço, que estranhamente não soa piegas ou exagerado, mas possui o tom cartunesco corretíssimo para manter a lenda e ao mesmo tempo não se levar a sério demais.
+
+Ambientado na época "contemporânea", acompanhamos através de diversos momentos-chave a infância e adolescência do herói até atingir a maturidade e conseguir um emprego de repórter no jornal Planeta Diário, da cidade grande Metrópolis. Seu nome humano é Clark Kent (Christopher Reeve), e ele possui uma queda por uma repórter efusiva, Lois Lane (Margot Kidder), que parece caçar grandes notícias, mas não enxerga um palmo diante do seu nariz, onde o agora conhecido super-herói da cidade se mantém disfarçado apenas pelos seus óculos e um jeito atrapalhado que contracena com toda a pose e atitude de Kar-El.
+
+Como seu vilão, o igualmente equilibrado (ou deveria dizer desequilibrado?) Lex Luthor (Gene Hackman) oscila confortavelmente entre o picaretismo e a megalomania. Seu plano é obter um pedaço de terra do tamanho da Califórnia e ficar milionário às custas da morte de milhões. A conversa com Superman adquire tons de cavalheirismo desconhecidos ainda do Kryptoniano, que parece querer desvendar o que há por trás da loucura de alguns humanos.
+
+A solução do conflito toma um contorno totalmente diferente do imaginado, o que é ótimo. Os sentimentos de Superman são pessoais, mas indiretamente ele acaba por firmar um pacto com os seres humanos e o seu destino. Uma bela mensagem de esperança sem soar religioso ou filosófico demais. No entanto, há algo de divino na interpretação de Reeve que ecoará para sempre na figura do carismático personagem.
+2010-08-12-superman-o-filme.txt                                                                                
