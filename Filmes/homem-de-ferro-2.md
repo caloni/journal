@@ -16,4 +16,4 @@ Porém, não contentes com dois conflitos - e essa é uma continuação decente da hi
 
 Para finalizar, a receita básica aprendida em O Homem-Aranha de Sam Reimi. Você não mantém mais a tensão sexual entre heróis e mocinhas, mas deixa fluir. No caso do mulherengo Tony Stark, uma péssima ideia, pois tira a força ou imunidade ou influência que sua secretária aparentemente tinha sobre ele, como se fosse a única conquista inalcançável do herói. Aparentemente, o novo poder dos heróis dessa época é conseguirem o que quiserem sem muito esforço, nem arranhões, e muito menos sangue.
 
-Tags: #anos 2000, #quadrinhos, #marvel, #super-heróis
+Tags: #filme 1, #anos 2000, #quadrinhos, #marvel, #super-heróis
