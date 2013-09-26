@@ -2,7 +2,7 @@ _Se Puder... Dirija! (Idem). Brasil, 2013. Directors: Anita Barbosa, Paulo Fonte
 
 <iframe src="http://caloni.com.br/mms/mm.php?mm=se-puder-dirija" height="420" width="860" frameborder="0"></iframe>
 
-<a href="http://www.flickr.com/photos/caloni/9707851209/" title="Se Puder... Dirija! por caloni, no Flickr"><img src="http://farm8.staticflickr.com/7429/9707851209_dd16626302_o.jpg" alt="Se Puder... Dirija!"></a>
+<a href="http://www.flickr.com/photos/caloni/9707851209/" title="Se Puder... Dirija! por caloni, no Flickr"><img src="http://farm8.staticflickr.com/7429/9707851209_20d3fc22cf_o.jpg" alt="Se Puder... Dirija!"></a>
 
 2013-09-07 2/5
 Mediocridade do público hoje é exposta pelas "globochanchadas" 
