@@ -6,4 +6,4 @@ _Flying Padre (Flying Padre: An RKO-Pathe Screenliner). EUA, 1951. Director: Sta
 
 Um documentário feito no início da carreira do diretor já sinaliza em alto e bom som sua capacidade de brincar com a câmera buscando o melhor ângulo e a melhor forma de representar a história que quer contar. É hilário detectar tão facilmente a dramatização barata de uma história supostamente real. Será que já estávamos diante de todo aquele sarcasmo construído pela justaposição de imagens?
 
-Tags: curta 2, mostrasp
+Tags: curta 2, mostrasp, documentário

@@ -6,4 +6,4 @@ _The Seafarers (The Seafarers). EUA, 1953. Director: Stanley Kubrick. Writer: Wi
 
 Menos um documentário e mais um vídeo promocional, aqui voltamos a nos deparar com aquele sarcasmo de Flying Padre, mas sem exageros. O controle sobre a produção parece quase que absoluto, e o resultado é que não é possível distinguir traços de estilo do futuro mega-diretor de toda a propaganda comunista em torno de todos os benefícios aparentemente inesgotáveis - e ainda que pareçam a todo o momento terem sido conquistados de graça - dos marinheiros e seu sempre presente sindicato, pronto para defender e nivelar a qualidade individual dos seus trabalhadores em um grupo descaracterizado de seus talentos e habilidades únicas em prol de uma divisão supostamente igualitária e justa do trabalho. Difícil não se enojar durante a exibição.
 
-Tags: curta 4, mostrasp
+Tags: curta 4, mostrasp, documentário, propaganda
