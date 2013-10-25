@@ -4,7 +4,7 @@ _Barry Lyndon (Barry Lyndon). Reino Unido/EUA, 1975. Director: Stanley Kubrick. 
 
 <a href="http://www.flickr.com/photos/caloni/10404042113/" title="Barry Lyndon por caloni, no Flickr"><img src="http://farm8.staticflickr.com/7297/10404042113_8744c51d48_o.jpg" alt="Barry Lyndon"></a>
 
-2013-10-18 5/5
+2013-10-18
 Quando a fotografia vira uma máquina do tempo
 
 Stanley Kubrick era conhecido pela dedicação sobre-humana em seus projetos, fazendo com que vários deles se estendesse por anos a fio. Esse preciosismo é o que gerou trabalhos debatidos até hoje como se tivessem sido lançados nessa semana, denotando a aparente imortalidade de suas obras. Em Barry Lyndon, ao pretender contar a história do personagem-título, mas que está inserido em uma época sem eletricidade, resolve utilizar apenas a luz natural em suas tomadas, incluindo cenas noturnas iluminadas por velas. Por conta disso precisa de um filme ultrassensível, algo inédito e inovador. Além de desenvolver a tecnologia da fotografia para o Cinema consegue então um efeito surpreendente: os personagens parecem se mover por quadros pintados da época. É o fenômeno de uma arte estática ganhando vida através da arte do movimento.
@@ -17,4 +17,4 @@ Curioso começa a ser a opinião do narrador, que entrega o mérito da escalada de 
 
 O que dizer de sua visão cruel da guerra, ou das consequencias de um tiro para aquela medicina trqgicamente precária? Nada pode ser mais cínico do que a visão afastada desse anti-herói, que prefere não julgar, pois prefere contar suas aventuras tal como o leríamos nos livros de história. Se isso por si só não é o maior sarcasmo do filme, não sei o que é.
 
-Tags: filme 588, drama, sarcasmo, épico, figurino, direção de arte, fotografia, mostrasp
+Tags: drama, sarcasmo, épico, figurino, direção de arte, fotografia, mostrasp

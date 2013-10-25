@@ -4,7 +4,7 @@ _Preenchendo o Vazio (Lemale et ha'halal/Fill the Void). Israel, 2012. Director:
 
 <a href="http://www.flickr.com/photos/caloni/10328609953/" title="Preenchendo o Vazio por caloni, no Flickr"><img src="http://farm4.staticflickr.com/3668/10328609953_d769d41681_o.jpg" alt="Preenchendo o Vazio"></a>
 
-2013-10-16 3/5
+2013-10-16
 A bizarra cultura judia e o drama humano de qualquer um de nós
 
 Uma fuga de nossa cultura vigente às vezes faz bem. Curioso constatar que, mesmo imersos na rotina, crenças e cânticos da religião judia ortodoxa, os mesmos dramas humanos se configuram.
@@ -17,4 +17,4 @@ Sim, ela morre, e deixa a família inteira órfã de um casamento. Seu filho recém-
 
 O drama é forte, mas conduzido de forma fraca. O tedioso fica tenso, mas nunca se transforma em outra coisa. Pela repetição, Burshtein compromete sua eficácia. Mesmo assim, um trabalho que cumpre sua imersão em uma cultura radicalmente diferente ao mesmo tempo que comprova que humanos são humanos em qualquer condição de vida desse planeta.
 
-Tags: filme 587, drama, religião, sociedade, estreias de diretores, em cartaz
+Tags: drama, religião, sociedade, estreias de diretores, em cartaz

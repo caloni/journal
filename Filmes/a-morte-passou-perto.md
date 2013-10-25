@@ -2,7 +2,7 @@ _A Morte Passou Perto (Killer's Kiss). EUA, 1955. Director: Stanley Kubrick. Wri
 
 <a href="http://www.flickr.com/photos/caloni/10403861164/" title="A Morte Passou Perto por caloni, no Flickr"><img src="http://farm4.staticflickr.com/3716/10403861164_76b6ff5d95_o.jpg" alt="A Morte Passou Perto"></a>
 
-2013-10-19 3/5
+2013-10-19
 Primeiro longa de Kubrick é noir de linha de produção
 
 Não uma tentativa de noir e suspense de Kubrick, essa produção lembra muito mais os filmes encomendados pelas grandes produtoras procurando explorar um nicho crescente (exatamente como é feito hoje). É quase que a mesma experiência em Spartacus, onde o diretor pegou o barco andando e tocou o projeto megalomaníaco de Kirk Douglas com maestria e entregou todo o potencial da história para as telas. No entanto, aqui não há grande potencial, e apesar de ter sido escrito pelo próprio Kubrick, demonstra um amadorismo latente em sua construção de narrativa, usando por exemplo o velho artifício de iniciar pelo protagonista no fim narrando os acontecimentos.
@@ -11,4 +11,4 @@ Mesmo assim, há que se dar créditos por detalhes que divertem enquanto criam uma
 
 Não um grande filme, mas longe de ser um desastre.
 
-Tags: filme 589, mostrasp, drama, suspense, noir
+Tags: mostrasp, drama, suspense, noir

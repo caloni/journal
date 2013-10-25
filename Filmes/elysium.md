@@ -4,7 +4,7 @@ _Elysium (Elysium). EUA, 2013. Director: Neill Blomkamp. Writer: Neill Blomkamp.
 
 <a href="http://www.flickr.com/photos/caloni/9858288085/" title="Elysium por caloni, no Flickr"><img src="http://farm4.staticflickr.com/3700/9858288085_0878954ec3_o.png" alt="Elysium"></a>
 
-2013-09-21 3/5
+2013-09-21
 Futuro distópico estilizado enfraquece o drama da história que pretende contar
 
 Com o mesmo diretor do ótimo Distrito 9, poderíamos esperar mais uma ficção científica que honre o gênero, apresentando um futuro distópico que remeta diretamente a questões sociais do mundo atual. De certa forma, isso acontece, abordando mais uma vez o abismo existente entre pobres e ricos em um mundo pós-crise. No cenário do filme, a superpopulação/superpoluição/supercaos fazem com que a elite econômica do mundo se reúna e se isole em uma espécie de estação espacial que reproduz com fidelidade os nobres bairros de subúrbio da hoje (2150 e tra-lá-lá) caótica Los Angeles (que é a tal Elysium do título).
@@ -19,4 +19,4 @@ E por falar em excesso, as repetidas menções que o diretor Neill Blomkamp faz ao
 
 Tentando homenagear todos os filmes que compartilham pouco ou muito do enredo (Matrix, Aliens, filmes Favela Pop como Cidade de Deus, etc), não funciona exatamente por não estar à altura de suas comparações. Da metade para o final, o filme sai dos trilhos por justamente diminuir seu ritmo e nos fazer pensar que um futuro naqueles moldes tem muito que ser desenvolvido para parecer mais real. Fora os esforços de Jodie Foster e Alice Braga neste papel, Elysium carece de um universo complexo o suficiente para impactar não apenas com os momentos "faça-me chorar", mas principalmente pelo destino de seus semi-dimensionais personagens.
 
-Tags: filme 581, drama, sci-fi, futurista, distopia
+Tags: drama, sci-fi, futurista, distopia

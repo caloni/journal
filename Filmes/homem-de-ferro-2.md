@@ -3,7 +3,7 @@ _Homem de Ferro 2 (Iron Man 2). EUA, 2010. Director: Jon Favreau. Writers: Justi
 <iframe frameborder="0" height="420" width="860" src="http://caloni.com.br/mms/mm.php?mm=homem-de-ferro-2"></iframe>
 <a href="http://www.flickr.com/photos/caloni/9687730298/" title="Homem de Ferro 2 por caloni, no Flickr"><img src="http://farm4.staticflickr.com/3676/9687730298_4f2a1ba634_o.jpg" alt="Homem de Ferro 2"></a>
 
-2010-04-03 3/5
+2010-04-03
 Segundo Homem de Ferro perde seu realismo e aposta em vilão quase genérico
 
 Se a primeira aventura do até então desconhecido Homem de Ferro impressionou o público, a crítica e a própria Marvel, essa continuação morna é a consolidação de Tony Stark como garoto-propaganda dessa fase. Não só isso, mas serve como o gancho que os produtores precisavam para inserir novos personagens secundários que serão mais ou menos relevantes na teia de eventos (ou colcha de retalhos) criada em torno da tão esperada estreia de Os Vingadores, filme que pretende unir uma série de heróis que terão cada um seus trabalhos solo. Uma aposta inédita que parece ter ganhado força justamente por conta da atuação surpreendente de Robert Downey Jr.
@@ -16,4 +16,4 @@ Porém, não contentes com dois conflitos - e essa é uma continuação decente da hi
 
 Para finalizar, a receita básica aprendida em O Homem-Aranha de Sam Reimi. Você não mantém mais a tensão sexual entre heróis e mocinhas, mas deixa fluir. No caso do mulherengo Tony Stark, uma péssima ideia, pois tira a força ou imunidade ou influência que sua secretária aparentemente tinha sobre ele, como se fosse a única conquista inalcançável do herói. Aparentemente, o novo poder dos heróis dessa época é conseguirem o que quiserem sem muito esforço, nem arranhões, e muito menos sangue.
 
-Tags: filme 1, anos 2000, quadrinhos, marvel, super-heróis
+Tags: anos 2000, quadrinhos, marvel, super-heróis

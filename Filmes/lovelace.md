@@ -4,7 +4,7 @@ _Lovelace (Lovelace). EUA, 2013. Directors: Rob Epstein, Jeffrey Friedman. Write
 
 <a href="http://www.flickr.com/photos/caloni/9821052506/" title="Lovelace por caloni, no Flickr"><img src="http://farm8.staticflickr.com/7383/9821052506_e18383b7e0_o.jpg" alt="Lovelace"></a>
 
-2013-09-18 3/5
+2013-09-18
 Filme puritano traça biografia de atriz pornô como drama casual
 
 Aquele tipo de filme que não caminha para o melhor nem para o pior. Sua falta de ambição e sensualidade destoam completamente dos burburinhos e do sucesso escandaloso do único trabalho pornográfico protagonizado por Linda Lovelace (Amanda Seyfried), Garganta Profunda, que representou para muitos um marco na revolução sexual da época, enquanto para outros o renascimento do pornô como "Cinema".
@@ -15,4 +15,4 @@ Ainda assim a crítica moral (para alguns, religiosa) sobrevive e meio que compen
 
 Mesmo com seus problemas estruturais, é uma narrativa ágil e que merece créditos por prender nossa atenção constantemente. Diga-se de passagem, compete com uma direção de arte e figurino que parecem querer chamar a atenção para si mesmos a todo momento (a exceção é um divertido reflexo de um enfeite no espelho que simula pernas abertas). De certa forma até a irregular fotografia parece fazer isso ao mudar constantemente o tamanho do seu grão, que inicia muito maior (ou seja, o filme fica com um aspecto caseiro) e vai aos poucos desistindo do efeito em pró da boniteza dos cenários. Sem contar que é ela que exibe as cores gritantes e óbvias das roupas dos personagens, um artifício que dá realismo histórico e tira todo o peso de um drama que parece querer aparecer.
 
-Tags: filme 580, drama
+Tags: drama

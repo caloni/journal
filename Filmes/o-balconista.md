@@ -4,7 +4,7 @@ _O Balconista (Clerks). EUA, 1994. Director: Kevin Smith. Writer: Kevin Smith. S
 
 <a href="http://www.flickr.com/photos/caloni/10403864234/" title="O Balconista por caloni, no Flickr"><img src="http://farm6.staticflickr.com/5530/10403864234_a0048fa6ab_o.jpg" alt="O Balconista"></a>
 
-2013-10-20 3/5
+2013-10-20
 Diálogos semi-inteligentes que empolgam semi-moderadamente
 
 Primeiro longa do diretor Kevin Smith, O Balconista não poderia deixar de ter algo a mais dos outros filmes que o trouxesse para os holofotes. No entanto, quase 20 anos depois, ele permanece como um dos filmes esquecidos que não merece ser revisitado.
@@ -13,4 +13,4 @@ Trazendo uma fotografia preto e branca sem qualquer motivo aparente, o filme gir
 
 O que é impressionante mesmo é que o filme tenha uma continuação. Dá pra acreditar?
 
-Tags: filme 593, comédia
+Tags: comédia

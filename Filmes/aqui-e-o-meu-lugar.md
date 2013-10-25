@@ -4,7 +4,7 @@ _Aqui é o Meu Lugar (This Must Be the Place). Director: Paolo Sorrentino. Writer
 
 <a href="http://www.flickr.com/photos/caloni/10404037933/" title="Aqui é o Meu Lugar por caloni, no Flickr"><img src="http://farm4.staticflickr.com/3730/10404037933_b3e0f8d6f3_o.jpg" alt="Aqui é o Meu Lugar"></a>
 
-2013-10-20 3/5
+2013-10-20
 Quando o "ser cool" não significa nada, mesmo
 
 Sean Penn é um excelente ator, diga-se de passagem. Mas nesse trabalho em que ele coloca uma peruca (que insiste em assoprar) e fala como se fosse desmaiar a qualquer momento é daqueles típicos casos de vergonha alheia.
@@ -15,4 +15,4 @@ O que o filme não consegue é estipular os motivos do seu protagonista em realiza
 
 Iniciando com um plot piorado do excelente Flores Partidas e continuando como uma versão trash de Transamérica, Aqui é o Meu Lugar se estabelece de vez na categoria dos filmes nonsense ao emplacar numa investigação e busca de Cheyenne pelo torturador de seu recém-falecido pai.
 
-Tags: filme 591, drama, cool, road movie
+Tags: drama, cool, road movie

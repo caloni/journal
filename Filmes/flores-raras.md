@@ -3,7 +3,7 @@ _Flores Raras (Reaching for the Moon). Brasil, 2013. Director: Bruno Barreto. Wr
 <iframe frameborder="0" height="420" width="860" src="http://caloni.com.br/mms/mm.php?mm=flores-raras"></iframe>
 <a href="http://www.flickr.com/photos/caloni/9672155345/" title="Flores Raras por caloni, no Flickr"><img src="http://farm6.staticflickr.com/5497/9672155345_369d5feedb_o.jpg" alt="Flores Raras"></a>
 
-2013-08-26 4/5
+2013-08-26
 Drama-romance sensível e sutil, tal qual poesia
 
 O tema "polêmico" de Flores Raras não existe há muito tempo, e apenas as mentes reduzidas de nossa época, que infelizmente não são poucas, irão enxergar qualquer anomalia no fato da história girar em torno de um triângulo amoroso entre três mulheres: Mary (Tracy Middendorf), a arquiteta Lota (Glória Pires) e a poetisa Elizabeth Bishop (Miranda Otto), todas encapsuladas em tramas tridimensionais. Sensível e inteligente, Bruno Barreto demonstra que a principal anomalia desse relacionamento é o ego controlador e descontrolado de Lota, uma arquiteta que através das influências políticas e dinheiro consegue manter em sua isolada casa no campo a ilusão de um mundo tolerante e tranquilo.
@@ -14,4 +14,4 @@ Iniciando nos anos 50, passando pelo golpe militar brasileiro e avançando os ano
 
 Mesmo assim, é admirável constatar que, baseado em fatos, o hábil roteiro derivado de um romance consegue entregar uma história se não verossímil, degustável através da própria visão literária de sua protagonista. Isso por si só o equipara a [Swimming Pool](http://www.imdb.com/title/tt0324133), uma ficção que faz rima inversa ao realismo da obra de Barreto.
 
-Tags: #filme 578, #anos 2010, #história, #lesbianismo, #homossexualidade, #poesia
+Tags: anos 2010, história, lesbianismo, homossexualidade, poesia

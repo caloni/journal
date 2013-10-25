@@ -2,9 +2,9 @@ _Kung-Fusão (Kung fu/Kung Fu Hustle). Hong Kong/China, 2004. Director: Stephen C
 
 <iframe src="http://caloni.com.br/mms/mm.php?mm=kung-fusao" height="600" width="860" frameborder="0"></iframe>
 
-<a href="http://www.flickr.com/photos/caloni/10139144833/" title="Kung-Fusão por caloni, no Flickr"><img src="http://farm4.staticflickr.com/3735/10139144833_3c45f4f548_o.jpg" alt="Kung-Fusão"></a>
+<a href="http://www.flickr.com/photos/caloni/10476056163/" title="Kung-Fusão por caloni, no Flickr"><img src="http://farm8.staticflickr.com/7407/10476056163_9e84ee17a1_o.jpg" alt="Kung-Fusão"></a>
 
-2013-10-06 4/5
+2013-10-06
 Tem porrada tensa, mas o humor compensa
 
 Após uma revisita ao filme-gêmeo de Shaolin Soccer, ambos exploram esse conceito do Kung-fu extrapolado ao cotidiano, a sensação é de um frescor de ingenuidade e violência comparados a Kick Ass (e não me admiraria que este fosse inspirado naquele). Só pelo fato da violência existir com mortes e essas mortes serem relevantes para estabelecer o peso da tensão em um filme que obviamente é uma comédia já mereceria créditos de sobra.
@@ -15,4 +15,4 @@ Mas havia falado de ingenuidade, e esse que pode ser o ponto fraco nas cenas que
 
 Por fim, as habilidades crescentes dos opositores ligam tudo junto em um manifesto pró-kung fu que possui seus deslizes, mas em sua alma, mantém sua grandeza intacta.
 
-Tags: filme 586, comédia, comédia do absurdo, efeitos visuais, lutas, artes marciais, filosofia, comédia pastelão
+Tags: comédia, comédia do absurdo, efeitos visuais, lutas, artes marciais, filosofia, comédia pastelão

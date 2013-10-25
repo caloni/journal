@@ -4,7 +4,7 @@ _A Família (The Family/Malavita). EUA/França, 2013. Director: Luc Besson. Writer
 
 <a href="http://www.flickr.com/photos/caloni/10103241294/" title="A Família por caloni, no Flickr"><img src="http://farm8.staticflickr.com/7394/10103241294_f68611440e_o.jpg" alt="A Família"></a>
 
-2013-10-04 3/5
+2013-10-04
 Comédia sobre mafiosos daquelas só boas no papel
 
 Aquele filme esquecível que até que tem uma ideia interessante: proteger uma família de mafiosos. Protagonizada por Robert de Niro. Encabeçada por Michelle Pfeiffer. Assessorada por Tommy Lee Jones. O que poderia dar errado?
@@ -17,4 +17,4 @@ Com atuações que beiram o automático, o pouco que se salva são as participações 
 
 A contagem de mortos final é o que chega mais próximo de não convencer, mas toda a experiência em geral possui episódios isolados demais para estabelecer uma identidade para essas pessoas. Eu mesmo já esqueci de metade delas. 
 
-Tags: filme 585, comédia, máfia, scorsese
+Tags: comédia, máfia, scorsese

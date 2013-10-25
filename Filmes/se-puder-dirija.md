@@ -4,7 +4,7 @@ _Se Puder... Dirija! (Idem). Brasil, 2013. Directors: Anita Barbosa, Paulo Fonte
 
 <a href="http://www.flickr.com/photos/caloni/9707851209/" title="Se Puder... Dirija! por caloni, no Flickr"><img src="http://farm8.staticflickr.com/7429/9707851209_20d3fc22cf_o.jpg" alt="Se Puder... Dirija!"></a>
 
-2013-09-07 2/5
+2013-09-07
 Mediocridade do público hoje é exposta pelas "globochanchadas" 
 
 Muitas vezes as comédias televisivas que passam no Cinema, às vezes, nem antes da própria TV, atraem o público pelas boas piadas e pelo ótimo (e desperdiçado) elenco. No caso de "Se Puder... Dirija!" o único foco parece ter sido fazer um filme com uma história suficiente para prencher um bloco do Zorra Total e utilizar a propaganda de ser o primeiro live-action em 3D, e o fato de que será lembrado por isso torna as coisas ainda mais desagradáveis.
@@ -15,4 +15,4 @@ Disse no início que esses tipos de filmes atraem público pela piada e pelo elenc
 
 No entanto, sejamos justos: há uma história nisso tudo. Ela é mínimamente coerente e consegue não se despedaçar durante todo o trajeto. É manipuladora, previsível e careta. Porém, ela existe, o que por ironia torna-se mais estruturada que trabalhos mais caóticos como Vai Que Dá Certo. Se isso serve como consolo, só o tempo dirá.
 
-Tags: filme 579, globochanchada, comédia
+Tags: globochanchada, comédia

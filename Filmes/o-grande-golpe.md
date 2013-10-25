@@ -4,7 +4,7 @@ _O Grande Golpe (The Killing). EUA, 1956. Director: Stanley Kubrick. Writers: St
 
 <a href="http://www.flickr.com/photos/caloni/10467801884/" title="O Grande Golpe por caloni, no Flickr"><img src="http://farm4.staticflickr.com/3686/10467801884_4a3555dc97_o.jpg" alt="O Grande Golpe"></a>
 
-2013-10-24 4/5
+2013-10-24
 Tenso, divertido, e casual
 
 A partir da apresentação dos personagens de O Grande Golpe, o diretor Stanley Kubrick vai aos poucos revelando que a "operação" em torno da qual gira o filme está muito bem arquitetada e vem sendo planejada cuidadosamente por todas as partes envolvidas: um tira corrupto, um apostador de cavalos, um barman, um caixa do guichê de apostas, entre tantos outros.
@@ -19,4 +19,4 @@ Porém, se as coisas vão ou não até o fim, apenas quem assistiu ficou sabendo. O 
 
 Um exercício de estilo, tanto na direção quanto no roteiro. Divertido do começo ao fim, a partir de um humor muito, muito peculiar.
 
-Tags: filme 595, p&b
+Tags: p&b

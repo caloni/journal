@@ -4,7 +4,7 @@ _2001 — Uma Odisséia no Espaço (2001: A Space Odyssey). EUA/Reino Unido, 1968. D
 
 <a href="http://www.flickr.com/photos/caloni/10457689033/" title="2001 - Uma Odisseia no Espaço (5) por caloni, no Flickr"><img src="http://farm3.staticflickr.com/2836/10457689033_e94b303faf_o.jpg" alt="2001 - Uma Odisseia no Espaço (5)"></a>
 
-2013-10-23 5/5
+2013-10-23
 A maior aventura espacial de todos os tempos
 
 A obra maior de Stanley Kubrick - ou pelo menos a mais ambiciosa e enigmática - permanece em seu auge mesmo mais de 45 anos depois da estreia. Diferente de filmes que podem ser compreendidos no conforto de sua casa, este é dos que deve ser degustado no espaço sagrado do Cinema. Aliás, ele funciona tão bem nessas condições que assinaria uma petição para que fosse exibido eternamente em uma sala tombada pelo patrimônio da humanidade.
@@ -17,4 +17,4 @@ A discussão envolve menos diálogos e mais sensações. As formas arredondadas que 
 
 Por esses motivos não consigo deixar de considerar 2001 uma obra de arte que puxa ao máximo o seu meio - o Cinema - para uma discussão profunda e deliciosa sobre o que estamos fazendo aqui.
 
-Tags: filme 594, sci-fi, ficção científica, direção, efeitos visuais, direção de arte, trilha sonora, fotografia
+Tags: sci-fi, ficção científica, direção, efeitos visuais, direção de arte, trilha sonora, fotografia
