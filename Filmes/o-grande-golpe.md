@@ -1,4 +1,4 @@
-_O Grande Golpe (The Killing). EUA, 1956. Director: Stanley Kubrick. Writers: Stanley Kubrick (screenplay), Jim Thompson (dialogue), Lionel White (novel "Clean Break"). Stars: Sterling Hayden, Coleen Gray, Vince Edwards.
+_O Grande Golpe (The Killing). EUA, 1956. Director: Stanley Kubrick. Writers: Stanley Kubrick (screenplay), Jim Thompson (dialogue), Lionel White (novel "Clean Break"). Stars: Sterling Hayden, Coleen Gray, Vince Edwards._
 
 <iframe src="http://caloni.com.br/mms/mm.php?mm=o-grande-golpe" height="400" width="860" frameborder="0"></iframe>
 
