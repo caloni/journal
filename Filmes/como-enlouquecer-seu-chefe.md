@@ -1,5 +1,7 @@
 Office Space. EUA, 1999. Direção e Roteiro: Mike Judge. Elenco: Ron Livingston (Peter Gibbons), Jennifer Aniston (Joanna), David Herman (Michael Bolton), Ajay Naidu (Samir Nagheenanajar), Diedrich Bader (Lawrence), Stephen Root (Milton Waddams), Gary Cole (Bill Lumbergh), Richard Riehle (Tom Smykowski). 
 
+2011-08-22-como-enlouquecer-seu-chefe.txt                                                            
+
 Depois de ter visto Como Matar seu Chefe, resolvi rever o que eu considero uma versão melhorada (ou mais profunda) da questão do "Dilbert Life Style", que é esse Como Enlouquecer seu Chefe, ou mais corretamente no original, Office Space (Ambiente de Escritório?).
 
 Dirigido e escrito há mais de 10 anos por Mike Judge (que, mais ator que diretor, atua no longa), Office Space é uma tentativa divertida de recriar as figuras que povoam um ambiente de escritório em personagens absurdos e caricatos. Temos os tipos mais comuns da selva de cubículos: o chefe folgado que nada faz senão importunar seu subordinados com pedidos burocráticos (Gary Cole, como Bill Lumbergh), o funcionário subalterno que possui uma função descartável e que treme sempre que a empresa está prestes enxugar seu quadro, e, em resumo, praticamente todas as figuras que ou não trabalham porque estão ocupados importunando seus subordinados ou porque precisam seguir as exigências burocráticas destes.
@@ -22,4 +24,4 @@ O escritório visto como uma selva.
 Criado como uma espécie de experiência acidental ao The Office — seriado que virou sucesso na T.V. britânica e posteriormente na norte-americana —, o filme de Mike Judge, acostumado com produções para a televisão, como Beavis e Butt-Head, estabelece os clichês de uma fauna cada vez mais crescente hoje em dia: o dos cubículos Dibertdianos e sua indissociável gerência incompetente.
 
 O curioso aqui é a maneira inventiva que Judge utiliza para que seus personagens unidimensionais interajam em uma espécie de ecossistema da ignorância. Os únicos que conseguem enxergar o todo somos nós, espectadores. E os únicos que conseguem elencar Peter Gibbons (Ron Livingston) como o herói que nasce debaixo da pilha de relatórios inúteis ao fazer o que todos que trabalham nesse meio quiseram um dia, em seus sonhos, de fato fazer: nada.
- 2011-08-22-como-enlouquecer-seu-chefe.txt                                                            
+

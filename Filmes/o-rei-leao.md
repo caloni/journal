@@ -4,6 +4,8 @@ Elenco original: Matthew Broderick (Simba Adulto), Niketa Calame (Jovem Nala), J
 
 Elenco brasileiro: Garcia Júnior (Simba Adulto), Patrick de Oliveira (Simba criança), Jorgeh Ramos (Scar), Carla Pompilho (Nala), Paulo Flores (Mufasa), Mauro Ramos (Pumba), Pedro Lopes (Timão), Pádua Moreira (Zazu).
 
+2011-09-05-o-rei-leao.txt                                                                                            
+
 Acabei de voltar da sessão 3D (leia-se: mutilada) do clássico dos clássicos da Disney, mas ainda me custa a entender por que esse desenho, em detrimento de tantas produções mais criativas, é tão supervalorizado pelas plateias.
 
 É óbvio que a trilha sonora é magnífica, e consegue oscilar perfeitamente entre as cenas dramáticas, de ação e de humor, como podemos ver pela leveza da música-lema de Timão e Pumba, em detrimento ao clima sombrio e ameaçador dos toques sufocantes da fuga para os espinheiros. Da mesma forma, a sequência do estouro dos antílopes consegue unir de maneira completamente orgânica o trotar das centenas de animais em disparada e o tema composto por Hans Zimmer para a cena, que evoca um misto de urgência e perigo, caindo no final, para um melancólico destoar.
@@ -31,4 +33,4 @@ Quando eu digo íntegro quero dizer que até mesmo temas que hoje em dia são covar
 Criando personagens de maneira econômica, mas que se firmam na narrativa pelo que representam — o macaco sábio, os palhaços salvadores de Simba, a princesa como elo com o passado, o criado fiel —, a história se entrelaça de maneira simples o suficiente para que os espectadores infantis entendam o destino de Simba, mas de forma complexa o suficiente para que entendamos toda a filosofia por trás da alegoria com animais, como o reino decadente e o significado da nobreza.
 
 Com uma conclusão que aspira por aplausos em pé, o uso da metáfora do círculo da vida nunca foi tão significativo e poderoso.
- 2011-09-05-o-rei-leao.txt                                                                                            
+

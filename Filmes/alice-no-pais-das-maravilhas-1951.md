@@ -1,5 +1,7 @@
 Alice in Wonderland. EUA, 1951. Direção: Clyde Geronimi, Wilfred Jackson, Hamilton Luske. Roteiro: Lewis Carroll (romances "Alice's Adventures in Wonderland" e "Through the Looking Glass"), Winston Hibler, Ted Sears, Bill Peet, Erdman Penner, Joe Rinaldi, Milt Banta, William Cottrell, Dick Kelsey, Joe Grant, Dick Huemer, Del Connell, Tom Oreb, John Walbridge, Aldous Huxley.
 
+2011-11-13-alice-no-pais-das-maravilhas-1951.txt                                              
+
 Tantos roteiristas, tantos adiamentos e tanta dúvida sobre se esse projeto seria viável valeram a pena. A versão de Alice de 1951, conduzida por perto pelo próprio Walt Disney, é irretocável do começo ao fim. É o tipo de filme que encanta por nunca ter envelhecido, de fato, e pela sua riqueza nos detalhes visíveis e invisíveis.
 
 A história todos conhecem: Alice é uma menina que encontra um coelho de relógio e entra em sua toca. Lá dentro, conhece todo o tipo de criaturas bizarras e aparentemente insanas. A condução é feita através de muitas rimas, poesia e música. As rimas não ficam apenas nos diálogos: há rimas visuais, criadas nos contornos dos seus personagens ou no uso significativo de suas cores, ou até mesmo em sua natureza.
@@ -17,4 +19,4 @@ Alice in Wonderland. EUA, 1951. Direção: Clyde Geronimi, Wilfred Jackson, Hamilt
 Depois de tantos atrasos e revisitas, o projeto de Disney de filmar o clássico de Lewis Carroll finalmente saiu do papel em grande estilo. Mesmo visto diversas vezes, sempre é possível aprender novas ideias e estabelecer novos conceitos sobre o que é Alice e o mundo onde ela foi parar. E, mesmo que não, só as cantorias, os movimentos, as cores e a forma de apresentar os seus personagens vale a revisita.
 
 Alice é o filme favorito de minha sobrinha, e um dos meus favoritos da cinegrafia Disney. Suas cores, seu humor, seu movimento e sua música formam um conjunto completo de experiências que conseguem sempre nos puxar mais e mais para dentro do seu mundo. Não é à toa que adultos e crianças concordem com isso.
- 2011-11-13-alice-no-pais-das-maravilhas-1951.txt                                              
+

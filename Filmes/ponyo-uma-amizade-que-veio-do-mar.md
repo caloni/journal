@@ -1,5 +1,7 @@
 Ponyo: Uma Amizade que Veio do Mar (Gake no ue no Ponyo). Japão, 2008. Director: Hayao Miyazaki. Writer: Hayao Miyazaki. Stars: Cate Blanchett, Matt Damon, Liam Neeson (versão em inglês).
 
+2010-06-30-ponyo-uma-amizade-que-veio-do-mar.txt
+
 O início se dá com criaturas marinhas predominantemente brancas, o que para mim indica o estado de paz, sem movimento, pois o que se dará depois é uma mistura de cores e formas.
 
 Com uma trilha inicial solene, representando a vida, a orquestra nunca deixa de dar o tom certo a cada cena, e a usamos principalmente como guia sentimental.
@@ -41,4 +43,4 @@ Até uma animação infantil e ingênua como Ponyo, de Hayao Miyazaki, consegue nos 
 Independente de qual interpretação que damos, o trabalho de animação se torna primososo pela obsessão detalhista dos estúdios Ghibli em retratar as forças da natureza de uma maneira humanizada, mas ao mesmo tempo, sobrenatural. As ondas formam desenhos imensos, as montanhas das ilhas da região onde se passa o filme abrem curvas sob o céu. A trilha sonora, inspirada na grandiosidade do próprio tema, emociona a cada novo acorde, acompanhando a aventura de perto (e muitas vezes a ultrapassando).
 
 Não há nada repreensível em Ponyo senão talvez um pouco de falta de cuidado ao desenvolver os personagens secundários e como eles interagem com Ponyo. Se em A Viagem de Chihiro e O Castelo Animado o sobrenatural está bem situado entre os adultos, aqui há uma definição tão simplista que banaliza um pouco todo esse encantamento com a história do peixe que vira criança. Da mesma forma, o conflito final parece ter sido criado apenas como uma mera formalidade que tenta estender uma narrativa simples com desfecho previsível. Não fosse isso, teríamos mais um trabalho do diretor tão emocionante quanto complexo.
- 2010-06-30-ponyo-uma-amizade-que-veio-do-mar.txt                                              
+

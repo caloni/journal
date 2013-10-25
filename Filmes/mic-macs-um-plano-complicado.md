@@ -1,3 +1,5 @@
+2010-12-20-mic-macs-um-plano-complicado.txt                          
+
 A fotografia desde o começo vira personagem. No funeral do pai de Bazil temos um tom austero, assim como nos QGs de ambas as fabricantes de armamentos. Na morada da nova família dele temos cores saturadas que nos lembra um sonho.
 
 Os ângulos inusitados e criativos também contribuem para o clima utópico do longa, como na fila da escola vista em diagonal, ou a aparente altura impossível do negro que pára Bazil quando este tenta adentrar na empresa de armamentos.
@@ -43,10 +45,10 @@ Até detalhes aparentemente insignificantes criam vida no longa de Jean Jeunet, c
 Mais um tom de economia nos cortes é a forma como a câmera gira em determinados momentos para mudar de quadro, como quando mostra os caixas eletrônicos um virado para cada lado, ou a câmera que se levanta do chão para revelar uma colméia presa do lado de um despertador (e note como parte desse plano já é mostrado no começo da história).
 
 Mas é o ritmo certo do filme que nos traz tantas surpresas, pois coloca cada revelação com o timing cômico correto. Prova disso é o final-clímax, em que a maior revelação é escondida de maneira exemplar pela montagem, além do cenário final ter voltado à cena inicial do filme, em uma espécie de charada escondida.
-2010-12-20-mic-macs-um-plano-complicado.txt                                                        
+                              
 
 
- 2012-06-04-micmacs-um-plano-complicado.txt 
+2012-06-04-micmacs-um-plano-complicado.txt 
 
 Micmacs à tire-larigot. França, 2009. Direção: Jean-Pierre Jeunet. Roteiro: Jean-Pierre Jeunet (cenário), Guillaume Laurant (cenário e diálogos). Elenco: Dany Boon, André Dussollier e Nicolas Marié.
 

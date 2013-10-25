@@ -1,3 +1,5 @@
+2010-12-20-meu-malvado-favorito.txt
+
 No início percebemos uma certa plasticidade nos personagens e cenários, parecendo mais um jogo de videogame que um filme com movimentos próprios. Mas aos poucos vamos nos acostumando com esse estilo de animação, em que a física não é muito realista.
 
 Piada sobre o "banco do mal" (antigo Lehman Brothers) pode ser considerada sob vários ângulos, pois eles realizam empréstimos de um negócio geralmente sem futuro, e é curioso notar as estátuas segurando as colunas da entrada do banco, com algumas esmagadas pelo peso.
@@ -136,4 +138,4 @@ Além da piada fora de contexto do Poderoso Chefão (cabeça-da-barbie) temos o do 
 Fora algumas cenas muito piegas como "eu vou te pegar e não vou te soltar nunca mais", o filme não é tão clichê quanto aventuras (apenas) para crianças como Chicken Little.
 
 O final, que termina com com todos dançando (inclusive seu vilão) lembra filmes no estilo "poderiam ser um pouco melhor": Quem Quer ser Milionário?
- 2010-12-20-meu-malvado-favorito.txt                                                                        
+
