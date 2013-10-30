@@ -1,3 +1,8 @@
+/* Versão disponível no GitHub 
+
+https://github.com/Caloni/Caloni.com.br
+*/
+
 #include <windows.h>
 #include <iostream>
 #include <list>
