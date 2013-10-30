@@ -31,4 +31,4 @@ int UseFile2()
 	config.Close(); // resource released
 
 	return 0;
-}
+}// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 

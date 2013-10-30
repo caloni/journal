@@ -16,3 +16,4 @@ CreateWindowEx(0, WC_LINK,
 			{
 				// codigo util
 			}
+// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 

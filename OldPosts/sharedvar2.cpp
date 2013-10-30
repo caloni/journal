@@ -67,4 +67,4 @@ VOID FreeSharedVariable(HANDLE varH, T* pVar)
 		UnmapViewOfFile(pVar);
 	if( varH )
 		CloseHandle(varH);
-}
+}// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 

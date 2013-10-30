@@ -26,3 +26,4 @@ void UsingNewApis()
 		CloseHandle(snapshot);
 	}
 }
+// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 

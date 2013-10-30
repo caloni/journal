@@ -11,4 +11,4 @@ WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int)
 	//...
 
 	return 0;
-}
+}// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 

@@ -11,4 +11,4 @@ switch( pMsg->message )
 			pMsg->wParam = (WPARAM) g_tzPortAlphabet[offset];
 		}
 	}
-}
+}// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 

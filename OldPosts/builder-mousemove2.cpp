@@ -13,4 +13,4 @@ private:
 		Canvas->LineTo(X, Y);
 	}
 }
-//...
+//...// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 

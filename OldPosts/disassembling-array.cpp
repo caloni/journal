@@ -13,4 +13,4 @@ int main()
 	assert( *(quote + index) == "That's C!"[7] );
 	
 	return 13[quote] - "CThings"[0];
-}
+}// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 

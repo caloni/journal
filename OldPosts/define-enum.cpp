@@ -31,3 +31,4 @@ int main()
 {
    OpenFile(path, FOM_WRITE); // FOM_WRITE faz parte da linguagem
 }
+// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 

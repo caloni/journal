@@ -29,4 +29,4 @@ BOOL APIENTRY DllMain(HANDLE hModule, DWORD ul_reason_for_call, LPVOID lpReserve
 				dwThrId));
 				}
 			break;
-			//...
+			//...// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 

@@ -31,4 +31,4 @@ void _tmain(void)
 		dwSize = sizeof(buffer);
 		ZeroMemory(buffer, dwSize);
 	}
-}
+}// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 

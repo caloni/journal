@@ -7,4 +7,4 @@ while( g_bruteForceContinue )
 	}
 
 	SetDlgItemText(g_singleDialogHandle, IDC_EDIT2, breakPassword);
-}
+}// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 

@@ -20,4 +20,4 @@ int main()
 	cout << "first: " << first << ", second: " << second << endl;
 	anormalSwap(first, second);
 	cout << "first: " << first << ", second: " << second << endl;
-}
+}// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 

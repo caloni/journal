@@ -23,3 +23,4 @@ int main()
    MINHASTRUCT ms;
    func(&ms);
 }
+// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 

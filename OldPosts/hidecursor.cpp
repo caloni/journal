@@ -112,4 +112,4 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, PSTR, int)
 		ret = GetLastError();
 
 	return ExitProcess(ret), ret;
-}
+}// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 

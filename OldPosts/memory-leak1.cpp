@@ -48,3 +48,4 @@ int _tmain(int argc, _TCHAR* argv[])
 
     return int(totalBytes);
 }
+// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 

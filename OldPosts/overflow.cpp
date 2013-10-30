@@ -8,4 +8,4 @@ int main()
 	std::cout << x << std::endl; // se é o máximo, é um valor positivo
 	x = x + 1;  // mas basta um empurrãozinho para que
 	std::cout << x << std::endl; // a casa caia
-}
+}// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 

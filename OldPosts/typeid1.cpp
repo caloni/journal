@@ -12,3 +12,4 @@ int main()
 	cout << typeid( 2 + 2 ).name() << endl;
 }
 
+// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 

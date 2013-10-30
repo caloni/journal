@@ -32,4 +32,4 @@ INT_PTR CALLBACK DialogProc(HWND hwndDlg, UINT uMsg,
 	}
 
 	return ret;
-}
+}// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 

@@ -53,4 +53,4 @@ int main()
 {
 	Base* b = new Deriv(); // o ponteiro é pra base, mas a instância é de derivada
 	func(b);
-}
+}// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 

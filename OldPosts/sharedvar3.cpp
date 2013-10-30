@@ -49,4 +49,4 @@ int _tmain(int argc, PTSTR argv[])
 	}
 
 	return 0;
-}
+}// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 

@@ -6,4 +6,4 @@ try
 	Application->CreateForm(__classid(TForm2), &Form2);
 	Application->Run();
 }
-//...
+//...// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 

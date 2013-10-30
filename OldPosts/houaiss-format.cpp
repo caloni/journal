@@ -53,3 +53,4 @@ void format(string& str)
 	}
 }
 
+// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 

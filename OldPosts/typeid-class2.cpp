@@ -24,3 +24,4 @@ int main()
 	myc2->MyMethod();
 }
 
+// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 

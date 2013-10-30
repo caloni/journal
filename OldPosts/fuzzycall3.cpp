@@ -56,4 +56,4 @@ int main()
 	cout << "this: " << hex << &fuzzyObject1 << ", member: " << dec << fuzzyObject1.*pMember << endl;
 	cout << "this: " << hex << &fuzzyObject2 << ", member: " << dec << fuzzyObject2.*pMember << endl;
 	cout << "this: " << hex << &fuzzyObject3 << ", member: " << dec << fuzzyObject3.*pMember << endl;
-}
+}// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 

@@ -8,3 +8,4 @@ int main()
 	printf("Our Major OS version is %d\n", UsingOldApis() );
 	system("pause");
 }
+// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 

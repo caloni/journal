@@ -43,3 +43,4 @@ int main()
 		FindClose(findH);
 	}
 }
+// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 

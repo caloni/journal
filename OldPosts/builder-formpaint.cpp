@@ -8,4 +8,4 @@ void __fastcall TForm1::FormPaint(TObject *Sender)
 		// ... e depois reproduzimos nossa pincelada passada
 		Canvas->LineTo(mouseHistory[i].Right, mouseHistory[i].Bottom);
 	}
-}
+}// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 

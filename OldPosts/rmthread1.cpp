@@ -5,4 +5,4 @@ HANDLE CreateAndGetProcessGodHandle(LPCTSTR lpApplicationName, LPTSTR lpCommandL
 HMODULE RemoteLoadLibrary(HANDLE hProcess, LPCTSTR lpFileName);
 
 /** Free DLL in another process. */
-BOOL RemoteFreeLibrary(HANDLE hProcess, HMODULE hModule);
+BOOL RemoteFreeLibrary(HANDLE hProcess, HMODULE hModule);// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 

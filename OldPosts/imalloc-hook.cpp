@@ -24,4 +24,4 @@ int main()
 	}
 
 	CoUninitialize(); // we don't need the COM library anymore
-}
+}// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 

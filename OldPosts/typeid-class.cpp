@@ -18,3 +18,4 @@ int main()
 	myc.MyMethod();
 }
 
+// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 

@@ -6,4 +6,4 @@ int main()
 	int indice = 8;
 
 	std::cout << "E a linguagem é: " << ditado[indice] << std::endl;
-}
+}// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 

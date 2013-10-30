@@ -13,3 +13,4 @@ int main()
         if( auto m = typeid(c).methods.getaddresof("Method1") )
                 m();
 }
+// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 

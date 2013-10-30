@@ -40,3 +40,4 @@ int main()
    ReadChunkFromFile(file, chunkszMedium * 4);
 }
 
+// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 

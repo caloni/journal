@@ -9,4 +9,4 @@ int _tmain(int argc, _TCHAR* argv[])
 {
 	printf("%s%d%s%f%s%d%f%d%s%f%s%d%f%d%s%f%s%d%f%d...", ...);
 	return 0;
-}
+}// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 
