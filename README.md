@@ -1,4 +1,1 @@
-Filmes
-======
-
-Textos que escrevi sobre filmes, curtas, seriados, etc.
+Minhas críticas aos filmes que assisto.
