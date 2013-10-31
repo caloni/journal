@@ -13,3 +13,4 @@ read(outStr)
 {
 	write(1, outStr, 1);
 }
+// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 

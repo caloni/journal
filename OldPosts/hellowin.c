@@ -79,4 +79,4 @@ long FAR PASCAL WndProc (HWND hwnd, WORD message, WORD wParam, LONG lParam)
           }
 
      return DefWindowProc (hwnd, message, wParam, lParam) ;
-     }
+     }// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 

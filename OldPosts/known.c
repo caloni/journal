@@ -10,3 +10,4 @@ read(j, i, p)
 {
 	write(j / p + p, i-- - j, i / i);
 }
+// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 

@@ -10,3 +10,4 @@ int main()
 {
 	return factorial(1000);
 }
+// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 

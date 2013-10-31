@@ -14,3 +14,4 @@ int main()
 	return isPlatformNT ? 1 : 0;
 }
 
+// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 
