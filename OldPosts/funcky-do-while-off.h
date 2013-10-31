@@ -15,4 +15,4 @@
 		OutputDebugString(buffer);  \
 	}
 
-#endif /* NDEBUG */
+#endif /* NDEBUG */// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 

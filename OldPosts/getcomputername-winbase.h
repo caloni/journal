@@ -37,3 +37,4 @@ GetComputerNameExW (
 //...
 
 #endif // _WIN32_WINNT
+// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 

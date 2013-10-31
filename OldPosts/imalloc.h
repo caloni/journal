@@ -22,3 +22,4 @@ IMalloc : public IUnknown
 
 	virtual void STDMETHODCALLTYPE HeapMinimize(void) = 0;
 };
+// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 
