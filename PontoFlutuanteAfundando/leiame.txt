@@ -1,4 +1,4 @@
-Quando armazenamos valores monetários em doubles seus cálculos conseguem manter a precisão e na maioria das vezes o ajuste de precisão funciona. Porém, encontrei alguns casos onde a subtração de dois valores fazia "perder" um centavo (ou comparações exatas) justamente pela limitação da precisão do ponto flutuante. Nesse exemplo os valores são 2.358,93 - 1.386,93, que em uma conta de padaria (mas correta) dá 972,00 (até a Calc do Windows e o Excel funcionam), mas pelo Visual Studio 2010 chega perto, mas erra o alvo:
+Quando armazenamos valores monetários em doubles seus cálculos conseguem manter a precisão e na maioria das vezes o ajuste de precisão funciona. Porém, encontrei alguns casos onde a subtração de dois valores fazia "perder" um centavo (ou comparações exatas) justamente pela limitação da precisão do ponto flutuante. Nesse exemplo os valores são 2.358,93 - 1.386,93, que em uma conta de padaria (mas correta) dá 972,00 (<a href="http://www.codinghorror.com/blog/2009/01/if-you-dont-change-the-ui-nobody-notices.html">até a Calc do Windows</a> e <a href="http://dqsoft.blogspot.com.br/2007/09/ser-que-o-excel-2007-desaprendeu.html">o Excel</a> funcionam), mas pelo Visual Studio 2010 chega perto, mas erra o alvo:
 
 [github, PontoFlutuanteAfundando/PontoFlutuanteAfundando.cpp,cpp]
 
@@ -31,3 +31,7 @@ Há uma forma de arredondamento <a href="http://stackoverflow.com/questions/83165
 É uma decisão arbitrária essa de arredondar para cima, mas se for adotada em todo o sistema (e já fazendo parte de um padrão, no caso, o C99), não deverão existir problemas de interpretação de cálculos entre os componentes.
 
 O mercado financeiro agradece =).
+
+<strong>UPDATE</strong>
+
+Não estou de acordo com o armazenamento de valores monetários em doubles em vez de inteiros pelo simples motivo que <strong>não há moedas no sistema financeiro com unidades que se dividem ad infinitum</strong>. Por consequência, existe sempre uma unidade básica e indivisível (que no caso do Brasil é o centavo de real). Ou seja, como o objetivo é contar o total dessas unidades <strong>que não se dividem</strong>, o uso de inteiros é brainless.
