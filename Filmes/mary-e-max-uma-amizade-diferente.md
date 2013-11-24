@@ -17,4 +17,4 @@ Porém, fora a descrição contemplativa, a versão animada da imaginação de ambos é
 
 O que nos leva ao excelente terceiro ato, que depois de nos conquistar completamente pelos seus personagens tão verossímeis quanto qualquer drama live action tem a proeza de criar momentos tensos e dramáticos entre os dois mesmo mantendo a distância física que os separa. "Mary e Max" não consegue explicar do que são formadas as amizades, mas consegue descrever com perfeição a amizade desse dois, o que para mim já vale por todos nós.
 
-Tags: p&b, animação, drama, fotografia, direção, montagem, roteiro
+Tags: p&b, animação, drama, fotografia, direção, montagem, roteiro, trilha sonora
