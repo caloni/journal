@@ -55,23 +55,23 @@ int main()
     for( auto it = g_ticks.begin(); it != g_ticks.end(); ++it )
     {
         DWORD tick = *it;
-        size_t incrementOccurrence = count(g_increments.begin(), g_increments.end(), tick);
+        size_t tickOccurrence = count(g_ticks.begin(), g_ticks.end(), tick);
 
-        if( incrementOccurrence )
+        if( tickOccurrence > 1 )
         {
-            cout << "Ocorrencia de incremento duplicado!\n";
+            cout << "Ocorrencia de tick duplicado!\n";
             break;
         }
     }
 
-    for( auto it = g_ticks.begin(); it != g_ticks.end(); ++it )
+    for( auto it = g_increments.begin(); it != g_increments.end(); ++it )
     {
         DWORD tick = *it;
-        size_t tickOccurrence = count(g_ticks.begin(), g_ticks.end(), tick);
+        size_t incrementOccurrence = count(g_increments.begin(), g_increments.end(), tick);
 
-        if( tickOccurrence )
+        if( incrementOccurrence > 1 )
         {
-            cout << "Ocorrencia de tick duplicado!\n";
+            cout << "Ocorrencia de incremento duplicado!\n";
             break;
         }
     }
