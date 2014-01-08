@@ -1,3 +1,4 @@
+_Output
 Debug
 Release
 DebugCTP
@@ -15,3 +16,7 @@ ipch
 *.log
 *.swp
 *.pyc
+*.obj
+*.exe
+*.ilk
+*.tlog
