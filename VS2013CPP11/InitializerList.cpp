@@ -9,7 +9,6 @@ using namespace std;
 struct DaysOfDoom
 {
 	DaysOfDoom(int x);
-	DaysOfDoom(
 };
 
 void InitializerList()

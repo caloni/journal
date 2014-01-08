@@ -1,5 +1,7 @@
 Debug
 Release
+DebugCTP
+ReleaseCTP
 objchk*
 objfre*
 *.ncb

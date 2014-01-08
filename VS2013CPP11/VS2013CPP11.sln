@@ -8,13 +8,19 @@ EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
+		DebugCTP|Win32 = DebugCTP|Win32
 		Release|Win32 = Release|Win32
+		ReleaseCTP|Win32 = ReleaseCTP|Win32
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{DB759CCA-98B6-4AA9-BD61-06BCADD71193}.Debug|Win32.ActiveCfg = Debug|Win32
 		{DB759CCA-98B6-4AA9-BD61-06BCADD71193}.Debug|Win32.Build.0 = Debug|Win32
+		{DB759CCA-98B6-4AA9-BD61-06BCADD71193}.DebugCTP|Win32.ActiveCfg = DebugCTP|Win32
+		{DB759CCA-98B6-4AA9-BD61-06BCADD71193}.DebugCTP|Win32.Build.0 = DebugCTP|Win32
 		{DB759CCA-98B6-4AA9-BD61-06BCADD71193}.Release|Win32.ActiveCfg = Release|Win32
 		{DB759CCA-98B6-4AA9-BD61-06BCADD71193}.Release|Win32.Build.0 = Release|Win32
+		{DB759CCA-98B6-4AA9-BD61-06BCADD71193}.ReleaseCTP|Win32.ActiveCfg = ReleaseCTP|Win32
+		{DB759CCA-98B6-4AA9-BD61-06BCADD71193}.ReleaseCTP|Win32.Build.0 = ReleaseCTP|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
