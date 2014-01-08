@@ -1,5 +1,7 @@
 Eu não sou apenas um programador: sou um especulador. Ou, para quem ficou com medo, um investidor. Ficou bonito, agora? Trocando em miúdos, isso quer dizer que muitas vezes aposto na bolsa de valores, aquela onde as pessoas ganham e perdem dinheiro loucamente. Porém, assim como faço com minha carreira de desenvolvedor, não deixo de estudar e aprimorar minhas habilidades. Tirando alguns anos de estudo com livros de finanças, economia e contabilidade, foi com base nisso que eu fiz uma série de scripts que realiza operações de backtesting nos papéis da Bovespa.
 
+<a href="http://www.flickr.com/photos/caloni/11837267176/" title="Gordon Gecko por caloni, no Flickr"><img src="http://farm8.staticflickr.com/7450/11837267176_953a1a6a4e_z.jpg" alt="Gordon Gecko"></a>
+
 Que mané backtesting?
 
 Backtesting é uma maneira dos especuladores terem uma noção de quão bom ou ruim é sua estratégia de compra e venda. É uma maneira profissional de se aproximar do mercado caótico das ações. Basicamente um backtesting simula o que o especulador faria na vida real com um histórico razoável de variação de preços das ações que pretende operar. Se esse monte de palavras novas neste blogue está te deixando com medo, recomendo dar uma passada no [Senhor Mercado](http://www.senhormercado.com.br/) (lá você irá também aprender mais sobre técnicas de backtesting).
@@ -11,6 +13,8 @@ OK, esse assunto já está ficando bem monótono para quem acompanha um blogue de p
 GitHub na veia
 
 O [projeto que mantenho no GitHub](https://github.com/Caloni/BovespaBacktesting) possui algumas ideias que gostaria de compartilhar com todos que estão interessados em realizar um backtesting, independente de sua estratégia. A primeira delas seria de onde baixar o histórico de preços de maneira simples e barata. Eu recomendo e uso o software [Grafix](http://www.grafix2.com/), que consegue baixar as informações diretamente do saite da Bovespa e realizar os ajustes necessários para montar e exibir as informações. Com base no banco de dados do Grafix é que o BovespaBacktesting (meu projeto) importa as informações que ele precisa. Ele irá importar apenas os códigos que estiverem em uma lista disponível no arquivo data/filterCodes relativo de onde o script estiver rodando. Esse arquivo é apenas texto com um código por linha.
+
+<a href="http://www.flickr.com/photos/caloni/11837266166/" title="BovespaBacktesting por caloni, no Flickr"><img src="http://farm3.staticflickr.com/2874/11837266166_0fc61be70f_o.png" alt="BovespaBacktesting"></a>
 
 [github,BovespaBacktesting/import-quote.py]
 
