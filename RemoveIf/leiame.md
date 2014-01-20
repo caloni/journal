@@ -18,6 +18,14 @@ Isso ocorre porque o comportamento do remove_if é copiar todos os elementos que 
 
 <a href="http://www.flickr.com/photos/caloni/12056450103/" title="RemoveIfComportamento por caloni, no Flickr"><img src="http://farm6.staticflickr.com/5485/12056450103_9cc50c00e2_o.png" alt="RemoveIfComportamento"></a>
 
+De acordo com o [saite cplusplus.com](http://www.cplusplus.com/reference/algorithm/remove_if/), o algoritmo STL é previsível, simples, e por isso mesmo sujeito a otimizações do compilador:
+
+[github,RemoveIf/RemoveIfAlgorithm.cpp,cpp]
+
 Para obtermos qual seria o "novo end()", precisamos obter esse valor do retorno de remove_if. Com base nisso, podemos alterar o tamanho do contêiner ajustado:
 
 [github,RemoveIf/RemoveIf.cpp,cpp]
+
+<a href="http://www.flickr.com/photos/caloni/12059866914/" title="RemoveIfFunciona por caloni, no Flickr"><img src="http://farm8.staticflickr.com/7383/12059866914_0a75cb036a_o.png" width="672" height="337" alt="RemoveIfFunciona"></a>
+
+Esse C++... intuitivo como nunca!

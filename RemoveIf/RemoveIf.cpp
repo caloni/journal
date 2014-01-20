@@ -8,11 +8,13 @@ using namespace std;
 int RemoveIfLolita(int* ages, int size)
 {
 	auto newEnd = remove_if(ages, ages + size, [&](int age) { return age < 18; } );
+	return newEnd - ages;
 }
 
 void RemoveIfLolita(vector<int>& ages)
 {
-	remove_if(ages.begin(), ages.end(), [&](int age) { return age < 18; } );
+	auto newEnd = remove_if(ages.begin(), ages.end(), [&](int age) { return age < 18; } );
+	ages.resize(distance(ages.begin(), newEnd));
 }
 
 
@@ -38,8 +40,8 @@ int main()
 	for_each(ages.begin(), ages.end(), [&](int age) { cout << age << endl; });
 
 	int newAges[] = { 10, 21, 66, 18, 16, 15, 8, 24, 12, 20, 13, 13 };
-	const int newAgesSz = (int) ( sizeof(newAges) / sizeof(int) );
-	RemoveIfLolita(newAges, newAgesSz);
+	int newAgesSz = (int) ( sizeof(newAges) / sizeof(int) );
+	newAgesSz = RemoveIfLolita(newAges, newAgesSz);
 	cout << "\n\nArray (" << newAgesSz << "):\n";
 	for_each(newAges, newAges + newAgesSz, [&] (int age) { cout << age << endl; } );
 }
