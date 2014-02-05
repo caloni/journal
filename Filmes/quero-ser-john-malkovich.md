@@ -7,4 +7,4 @@ Usando como pano de fundo o universo de um titereiro e explodindo esse tema para
 Mais inacreditável, porém, é que os conceitos cabem como uma luva em seus personagens, cujos conflitos são introduzidos de maneira simplista, que é exatamente a forma como o roteiro os encara. Aliás, não só o roteiro, como todo o trabalho de arte, notadamente a maquiagem, se esforça para apresentar as pessoas como verdadeiros títeres de carne-e-osso, vazios por dentro e toscos por fora. Quando isso fica claro para o espectador, o que ocorre depois da descoberta do portal que leva a pessoa para a consciência de John Malkovich, por mais absurda que seja a premissa, soa natural para aqueles personagens.
 
 O roteiro de Charlie Kaufman é tão original que toda cena é empolgante por trazer algo nunca visto no Cinema. Apenas por isso, já mereceria constar na lista de filmes a se ver e estudar.
-2012-01-02-quero-ser-john-malkovich.txt 
+

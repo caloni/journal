@@ -11,4 +11,4 @@ Confiança esta que é desafiada por uma visão distópica da faxineira. Não podemos
 Szabó não perde tempo em estabelecer uma dinâmica entre as duas. A passagem do tempo, embora dure anos, é acelerada para o mesmo ritmo frenético das varridas da vassoura da faxineira na calçada, conforme essa muda de cor e textura com o passar das estações. A história ensaia uma relação entre a amizade das duas e seu livro de sucesso, mas deixa em segundo plano junto de muitos outros detalhes que, conforme chegamos no final, começam a deixar de ter importância.
 
 Com uma conclusão trivial e boba, toda a empatia nutrida por aquelas pessoas se esvai pelo vento e pela chuva. Talvez nunca conquistaram nossa confiança durante esse tempo, nem deixaram marcas ao mostrar-nos sua história. Mal dá tempo de lembrá-las ao sair da sala de projeção. Assim como as nuvens do filme, a impressão marcada de leve se esvai com o vento.
-2013-03-11-atras-da-porta.txt                                                                                    
+

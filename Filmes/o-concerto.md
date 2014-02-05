@@ -40,4 +40,4 @@ A comunicação então funciona plenamente, pois passa a ser baseada na música, que
 
 Como se não bastasse, ainda um raccord entre o futuro e presente, já monstrando a conclusão da trama durante o concerto, respeitando a inteligência do espectador.
 
-2010-12-24-o-concerto.txt                                                                                            
+

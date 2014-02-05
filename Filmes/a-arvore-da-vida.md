@@ -19,4 +19,4 @@ Porém, não é a morte o fim de tudo. A vida está sempre fluindo e se transformand
 Enfim, existe muito para se refletir e aproveitar em A Árvore da Vida. Se você pretende se aventurar em uma sessão, recomendo abrir sua mente, seus olhos e sua imaginação. Fique atento, pois muitas coisas podem ser comunicadas através de imagens estáticas exibidas em sequência.
 
 Dica cultural: curiosamente, o Cine Cultura da Paulista está exibindo tanto Melancolia quanto A Árvore da Vida, que eu considero uma dobradinha mais que apropriada (nessa mesma ordem).
-2011-08-17-a-arvore-da-vida.txt                                                                                
+

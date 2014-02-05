@@ -25,4 +25,4 @@ Trivia
 É irônico o fato dos produtores do filme trabalharem realmente com gunrunners de armas ilegais para conseguir as armas, e ser mais barato as armas reais do que se falsificassem.
 
 O filme foi financiado por instituições internacionais (nenhuma produtora dos Estados Unidos bancaram o filme).
-2011-04-07-o-senhor-das-armas.txt                                                                            
+

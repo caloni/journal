@@ -5,4 +5,4 @@ Pontos fortes: a participação completa de Mathieu Amalric faz da experiência um 
 Pontos fracos: uma conclusão um tanto precipitada.
 
 
-2011-04-27-turne.txt                                                                                                      
+

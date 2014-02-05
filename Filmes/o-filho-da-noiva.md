@@ -9,4 +9,4 @@ O problema talvez seja essa mudança de tom repentina. Quando esperamos algo toca
 Quando de repente surge a figura de sua mãe e seu pai — que decide se casar com ela depois de ter evitado a cerimônia religiosa por 44 anos — surge o problema de sua mulher estar com Alzheimer, e sua decisão de dizer sim é tão forçada quando a do próprio Darín em dizer sim para sua nova vida. A parte mais interessante dessa história é o paralelo criado entre os dois personagens, ambos impedidos de seguir suas próprias vidas pelas amarras de seu destino.
 
 Mesmo com esse enredo caótico, Campanella consegue extrair essa lógica para nos entregar uma visão menos que perfeita de uma comédia romântica argentina, mas mais que apropriada para um personagem tão contraditório quanto qualquer ser humano que vive para o trabalho.
-2013-01-21-o-filho-da-noiva.txt                                                                                
+

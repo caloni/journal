@@ -5,4 +5,4 @@ Reunindo várias filmagens que se assemelham a video-clipes e desenhos psicodélid
 Uma câmera gira em torno do sofá, mostrando as cinzas de um cigarro que não foi fumado segurado pelas mãos do protagonista em catarse assistindo à TV. Tantos os símbolos mais óbvios quanto os mais íntimos se juntam para compor algo além. A faxineira abre a porta de seu quarto, ao bater a corrente, com as portas acorrentadas e de jovens em debandada, com paralelo com soldados correndo na guerra. Tudo parece se juntar em apenas uma harmônica.
 
 Um filme para degustar com os olhos e ouvidos sintonizados.
-2010-11-06-pink-floyd-the-wall.txt                                                                          
+

@@ -17,4 +17,4 @@ O elo fraco do elenco acaba sendo Hayley Atwell como Peggy Carter, o interesse a
 Mas o que parece se tornar um prelúdio para a verdadeira ação acaba se tornando o melhor momento do longa, que nunca consegue sair do morno, e as tentativas (sempre falhas) de solenizar as ações do herói sempre soam forçadas. O primeiro encontro com Johann Schmidt, que deveria estabelecer a relação herói/anti-herói, acaba apenas por estabelecer ambos como cobaias do mesmo experimento, e só. Todo o esforço em representar a luta do bem contra o mal é sabotada e deixada em segundo plano em detrimento dos efeitos especiais, que são, no último ato, de tirar o fôlego.
 
 Após o terceiro ato fica muito clara a construção do filme como catapulta para o lançamento do esperado Primeiro Vingador. Todo esse frisson de meses (anos?), aliás, acaba por elevar as expectativas sobre Os Vingadores em níveis acima do normal. Apenas esperamos que o lançamento de tantos resultados medianos faça valer a pena essa tão esperada produção.
-2011-08-09-capital-america-o-primeiro-vingador.txt                                          
+

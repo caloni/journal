@@ -47,4 +47,4 @@ Explicação de Bill sobre o alter-ego do Superman ser na verdade uma farça e uma 
 E o segundo anti-clímax é a luta com Bill, que termina antes de começar com os cinco golpes que explodem o coração.
 
 O final com os nomes principais é feito de duas formas: mostrando onde os personagens apareceram e seus nomes, e depois juntando o início do filme (ela no carro P&B) e os nomes passando enquanto vemos diversos angulos dela dirigindo.
-2010-09-09-kill-bill-volume-2.txt                                                                            
+

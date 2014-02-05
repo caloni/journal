@@ -13,4 +13,4 @@ Aos poucos notamos uma certa necessidade do roteiro em tentar encarar mais profu
 Se, por um lado, é possível dar boas risadas com as situações e piadas criadas especialmente para nos fazer rir, o desfecho pediria um pouco mais de dramatização (com cenas forçosamente emotivas, como a conversa de Aninha sobre seu aniversário com a bargay e suas frase de auto-ajuda seguida de música faça-chorar). Esse drama não existe; nem no filme, nem no espectador, que não está preocupado com o destino das jovens, mas envolto nas piadinhas espalhadas em episódicas cenas.
 
 E se não existe essa necessidade de dramatizar uma comédia despretenciosa, pra que se preocupar? O bom mesmo é rir e se divertir com as partes boas, e deixar todo esse lero-lero de pseudo-conflitos existenciais no saquinho de pipoca.
-2010-11-20-muita-calma-nessa-hora.txt                                                                    
+

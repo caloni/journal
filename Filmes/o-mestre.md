@@ -15,4 +15,4 @@ Surgindo como um reflexo obscuro do carisma que esbanja Philip Seymour Hoffman a
 Quase todas as cenas carecem de trilha sonora, o que torna a introspecção dos atores muito mais realista. No entanto, quando surge, a trilha sonora revela o aspecto obscuro de Lancaster Dodd ao delinear uma série de sons incidentais, que conseguem ilustrar o lado místico e caótico de uma crença que tenta desviar o nosso olhar para o real.
 
 Em detrimento de todos os esforços, e mMesmo sendo nobre a tentativa de ridicularizar a obviamente parodiada Cientologia é preciso assumir que o diretor exagerou por demais em seu ódio. Ou talvez não. Quando uma nova religião forma à sua volta as contas bancárias mais pomposas de Hollywood talvez uma crítica ácida e cinematográfica seja a única coisa honrosa a se fazer para salvarmo-nos da insanidade de um mundo gerido pela ilusão do conhecimento.
-2013-02-20-o-mestre.txt                                                                                                
+

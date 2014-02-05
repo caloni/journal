@@ -13,4 +13,4 @@ Vivendo em um mundo onde os filmes fazem graça de si mesmos e as animações recic
 Suportado por um elenco não apenas de peso, mas que fazem a combinação perfeita para suas caricaturas, a única decepção é vermos apenas uma fração de cada história em um determinado momento. Dessa forma é um sentimento cíclico a decepção pela troca de personagens e a empolgação pelo enriquecimento da história atual.
 
 Felizmente, Allen consegue fechar com chave de ouro cada uma das situações, deixando apenas uma situação de quero mais. Não me cansaria de assistir por duas horas novamente acontecimentos nA Cidade Eterna.
-2012-07-03-para-roma-com-amor.txt                                                                            
+

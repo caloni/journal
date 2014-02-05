@@ -11,4 +11,4 @@ A série de acontecimentos que se seguem são primorosamente capturadas e editadas
 Porém, o que impressiona mesmo durante todo o filme é a versatilidade dos atores-mirins, pois cada um desenvolve sua própria personalidade de maneira completamente encantadora, sendo difícil escolher apenas um como favorito. As cenas protagonizadas por cada um deles fascina pela individualidade apresentada em seus personagens, com seus traços mais marcantes (e nesse caso merece menção honrosa a divertidíssima atuação de Jeff Cohen como Chunk e a cena em que ele é interrogado pelos irmãos Fratelli).
 
 Aliás, a liberdade entregue aos atores é fruto da inteligência de todos os idealizadores, que perceberam algo que muitos produtores sequer se lembram quando estão fazendo um filme de crianças: não há nada mais mágico e empolgante que o espírito de uma criança solta em uma aventura, qualquer que ela seja.
-2011-10-13-os-goonies.txt                                                                                            
+

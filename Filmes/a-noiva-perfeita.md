@@ -9,4 +9,4 @@ Com muitos erros de continuidade no ritmo da narrativa (além de deslizes bobos c
 Pontos fortes: os diálogos e as atuações conseguem manter o nível até o final.
 
 Ponto fraco: as muitas mudanças em pouco tempo fazem perder a eficácia do realismo da situação, mesmo com boas atuações.
-2011-02-20-a-noiva-perfeita.txt                                                                                
+

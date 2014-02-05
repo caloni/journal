@@ -11,4 +11,4 @@ Ao mesmo tempo que torcemos pelo protagonista, por termos acompanhado seu plano,
 Já não é tão importante no final se ela é culpada ou não, pois sequer nos importamos com isso. Porém, para efeito de conclusão, a última visita ao local do crime tem um caráter simbólico, pois o botão que comprovaria a inocência do réu fica preso na tampa do bueiro, e escapa aos olhos atentos do investigador, igualzinho, da mesma forma com que os fugitivos conseguiram a escapada que parecia impossível.
 
 E se o beijo do filho no final do filme soa piegas, é por pura necessidade de fechar os arcos lançados no decorrer do filme.
-2011-01-14-72-horas.txt                                                                                                
+

@@ -11,4 +11,4 @@ A questão a ser notada é que, mesmo sem a certeza do que está fazendo, o filme d
 Embora o figurino muitas vezes seja risível (como a cena em que Streep escolhe seu melhor vestido), não há como negar a força narrativa da trilha sonora de Dave Grusin (A Primeira Noite de Um Homem), que inicia com um tom burlesco do natal (pelo menos visto hoje) e termina no próximo natal com um poder contemplativo admirável (embora flerte perigosamente perto do mesmo tom aplicado por Ennio Morricone em Cinema Paradiso).
 
 Piegas ou não, o romance aqui existe de uma maneira não-convencional, o que para um filme de 84 merece pelo menos uma revisita.
-2013-01-23-amor-a-primeira-vista.txt                                                                      
+

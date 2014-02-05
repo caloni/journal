@@ -1,6 +1,6 @@
 <a href="http://www.flickr.com/photos/caloni/11606781243/" title="Toda Forma de Amor por caloni, no Flickr"><img src="http://farm4.staticflickr.com/3827/11606781243_9349d57172_o.jpg" alt="Toda Forma de Amor"></a>
 
-2013-12-22
+
 
 Um filme que retrata um solteirão em busca do amor após o falecimento do pai, que se assumiu gay aos 70 anos após a morte da esposa. O elo entre esses dois seres é um cachorro deixado de herança que se comunica por pensamento.
 

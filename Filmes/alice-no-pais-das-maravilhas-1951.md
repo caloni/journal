@@ -1,6 +1,6 @@
 Alice in Wonderland. EUA, 1951. Direção: Clyde Geronimi, Wilfred Jackson, Hamilton Luske. Roteiro: Lewis Carroll (romances "Alice's Adventures in Wonderland" e "Through the Looking Glass"), Winston Hibler, Ted Sears, Bill Peet, Erdman Penner, Joe Rinaldi, Milt Banta, William Cottrell, Dick Kelsey, Joe Grant, Dick Huemer, Del Connell, Tom Oreb, John Walbridge, Aldous Huxley.
 
-2011-11-13-alice-no-pais-das-maravilhas-1951.txt                                              
+
 
 Tantos roteiristas, tantos adiamentos e tanta dúvida sobre se esse projeto seria viável valeram a pena. A versão de Alice de 1951, conduzida por perto pelo próprio Walt Disney, é irretocável do começo ao fim. É o tipo de filme que encanta por nunca ter envelhecido, de fato, e pela sua riqueza nos detalhes visíveis e invisíveis.
 
@@ -13,7 +13,7 @@ Os personagens e as situações, dessa forma, nunca cansam, mas apenas agregam mai
 Com uma conclusão precipitada, mas que ainda condiz com a lógica interna do seu roteiro, Alice o seu mundo podem ser revisitados diversas vezes, e não soará por demais repetitivo ou até velho. Considerando que estamos falando de um filme da metade do século passado, isso é muito significativo para o Cinema.
 
 
-2013-07-10-alice-no-pais-das-maravilhas-1951
+
 Alice in Wonderland. EUA, 1951. Direção: Clyde Geronimi, Wilfred Jackson, Hamilton Luske. Roteiro: Lewis Carroll (romances “Alice’s Adventures in Wonderland” e “Through the Looking Glass”), Winston Hibler, Ted Sears, Bill Peet, Erdman Penner, Joe Rinaldi, Milt Banta, William Cottrell, Dick Kelsey, Joe Grant, Dick Huemer, Del Connell, Tom Oreb, John Walbridge, Aldous Huxley.
 
 Depois de tantos atrasos e revisitas, o projeto de Disney de filmar o clássico de Lewis Carroll finalmente saiu do papel em grande estilo. Mesmo visto diversas vezes, sempre é possível aprender novas ideias e estabelecer novos conceitos sobre o que é Alice e o mundo onde ela foi parar. E, mesmo que não, só as cantorias, os movimentos, as cores e a forma de apresentar os seus personagens vale a revisita.

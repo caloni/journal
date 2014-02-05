@@ -12,4 +12,4 @@ Talvez a mudança do discurso do comprador de dólar para vendedor de caneta, assi
 
 E, por fim, voltamos ao castigo da sala-de-aula, momento em que ficamos suspensos por todo o filme, todas aquelas décadas, tentando nos achar, mais ainda quando vemos o menino correndo para o outro lado, voltando de comprar o cigarro (seria uma alusão a uma Itália adormecida pela época fascista?).
 
-2010-09-17-baaria-a-porta-do-vento.txt                                                                  
+

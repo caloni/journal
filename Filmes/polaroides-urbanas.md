@@ -9,4 +9,4 @@ O final, contudo, não só define, como desmascara, literalmente, a origem teatral
 Pontos fortes: as interpretações afiadas montam cenas com uma facilidade impressionante.
 
 Pontos fracos: as mesmas cenas, se imaginava-se dramáticas, soam sempre artificiais pelo seu tom humorístico.
-2011-04-27-polaroides-urbanas.txt                                                                            
+

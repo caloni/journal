@@ -25,4 +25,4 @@ Com uma fotografia pálida, amarelada, talvez prenunciando o fim dos dias do escr
 Mais uma cena igualmente emocionante, Meirelles e ele vendo o filme juntos.
 
 
-2010-11-05-jose-e-pilar.txt                                                                                        
+

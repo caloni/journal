@@ -11,4 +11,4 @@ Fotografado de uma maneira encantadora, que favorece as luzes quentes do Sul dos
 Entre eles, a estrela do filme, Raymond (Jim Cummings), ou Ray, um vagalume que acredita que seu grande amor seja uma estrela brilhante no céu, a mesma estrela usada para ligar as histórias, pois ela é usada tanto por Tiana quanto por Charlotte para satisfazerem seus desejos através de um pedido.
 
 Ressalto mais uma vez que Ray é a grande estrela do filme, pois protagoniza a cena mais dramática e a mais poderosa de toda a trama, uma cena capaz de resgatar toda a mágica da hoje gigante Disney. Quando isso acontece dentro de um enredo onde a protagonista vira mera espectadora de seu maior desejo, há algo muito errado nessa história.
-2012-12-09-a-princesa-e-o-sapo.txt                                                                          
+

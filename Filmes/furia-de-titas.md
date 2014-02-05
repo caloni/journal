@@ -22,4 +22,4 @@ O efeito visual das bruxas, do barqueiro e da Medusa, por outro lado, são muito 
 
 Mania hoolywoodiana de sempre mostrar tudo ao espectador, até a simples simbologia de morte de sua seguidora. Mas, mesmo tendo tanto apelo visual por causa dos efeitos, carece de diálogos para explicar coisas óbvias, como quando um dos bichos voadores pega a bolsa com a cabeça da Medusa.
 
-2010-05-21-furia-de-titas.txt                                                                                    
+

@@ -4,7 +4,7 @@ _O Lugar Onde Tudo Termina (The Place Beyond the Pines). EUA, 2012. Direção: Der
 
 <a href="http://www.flickr.com/photos/caloni/11036737875/" title="O Lugar Onde Tudo Termina (3) por caloni, no Flickr"><img src="http://farm6.staticflickr.com/5496/11036737875_8f2ec52d5a_o.jpg" alt="O Lugar Onde Tudo Termina (3)"></a>
 
-2013-11-22
+
 O lugar (no Cinema) onde tudo é relevante
 
 É uma satisfação imensa presenciar tantas virtudes técnicas juntas em um filme ambicioso também em seu lado narrativo e temático. Há muitas ideias a serem interpretadas e sentidas em O Lugar Onde Tudo Termina, sendo a principal delas é: até que ponto nossas escolhas conseguem influenciar de alguma forma o futuro? Há uma justiça (divina ou não) em algum lugar ou tudo é uma questão de interpretação?

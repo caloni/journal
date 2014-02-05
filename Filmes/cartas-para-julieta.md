@@ -7,4 +7,4 @@ A interpretação costuma ser a base para o sucesso de filmes desse gênero, o que 
 No entanto, a trilha sonora está disposta a estragar o que foi alcançado com uma seleção no mínimo inesperada (para não dizer inadequada). E por que não criticar a direção, que se esforça inultilmente em tentar criar algo mais para a nossa querida Sophie, mas que nunca é correspondida pela atuação de Seyfried.
 
 Porém, o forte acaba sendo mesmo a atuação de Vanessa Redgrave que constrói, ainda que como coadjuvante, uma história muito mais tocante para ser seguida de perto.
-2011-10-10-cartas-para-julieta.txt                                                                          
+

@@ -16,4 +16,4 @@ Aliás, a forma como Burton enfoca a óbvia falta de talento do diretor de maneira
 
 Tendo dias para rodar filmes inteiros, a culpa pelos seus fracasos parece não residir apenas em Wood, mas na industria cinematográfica como um todo, e quase o coloca como posição vítima de um negócio lucrativo que coloca a arte em último lugar das suas prioridades (e não é difícil de imaginar que se estivesse vivo hoje ele se mataria com as atrocidades criadas pela tecnologia 3D, embora pudesse criar infinitos filmes com o baixo custo das produções digitais).
 
-2013-08-23-ed-wood.txt                                                                                                  
+

@@ -17,4 +17,4 @@ E não é apenas o som que impressiona, apesar deste ser ponto forte e acertadamen
 Dessa forma, se no começo a animação soa estranhamente estilizada, o costume dos nossos olhos e a sua sofisticação crescente a cada história faz o artifício se tornar cada vez mais necessário. Um trabalho de produção digno de nota por harmonizar esforços de tão escassos desenhistas em uma história envolvente pela própria natureza do ser humano de torcer pelo lado mais fraco.  
 
 "Meus heróis nunca tiveram uma estátua, mas morreram lutando contra os que tinham", lamenta o nosso protagonista. Não podemos culpá-lo de lutar sempre pelo lado mais fraco, se está claro que ao menos parece o lado certo.
-2013-04-11-uma-historia-de-amor-e-furia.txt                                                        
+

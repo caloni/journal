@@ -9,4 +9,4 @@ Quando os dois se encontram, o que é mais notável é a rápida transformação de Al
 Com uma trilha sonora e movimentos de câmera que privilegiam a contemplação, o filme é recheado de diálogos que pareceriam piegas se não saíssem da boca de dois simpáticos velhinhos, mas que exatamente por isso se tornam momentos inesquecíveis. E nada mais apropriado que o filme de Fellini, A Doce Vida, para que fossem resgatados os sentimentos de juventude e a valorização da vida, imperfeita como ela é, eternizada na relação amorosa entre os dois.
 
 Nesse sentido, a cena final do casal, imortalizada com a troca de cores da sensível fotografia, representa muito mais que um momento. O "Obrigada" de Elsa dito a Fred simboliza a gratidão por tornar este momento especial, mesmo que o gato não seja branco, e mesmo que não dure para sempre.
-2010-12-30-elsa-e-fred.txt                                                                                          
+

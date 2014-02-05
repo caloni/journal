@@ -9,4 +9,4 @@ Para tentar obter rapidamente o retorno do que foi perdido, o patriarca da famil
 Se, por um lado, mostrar a pobreza e a malandragem de uma família que tenta fazer de tudo para se dar bem rende boas e divertidas risadas (mais graças às interpretações do que às próprias piadas, que em geral soam de mal gosto e despropositadas), por outro lado não conseguir se firmar como comédia ou drama (ou até mesmo romance!?) durante o terceiro ato transforma a cambaleante experiência em um desastre total.
 
 É uma pena, portanto, que Lima Duarte, Vera Holtz e tantos outros se vejam vendidos em um projeto como esse, que mais uma vez demonstra o despreparo de idealizadores influenciados muitas vezes pelas nossas famigeradas novelas em abordar temas tão sensíveis com tanto despudor.
-2011-10-16-familia-vende-tudo.txt                                                                            
+

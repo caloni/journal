@@ -19,4 +19,4 @@ Outras cenas são pura diversão, como a corrida de podracers, que faz uma discret
 Pontos fortes: as interpretações pontuais e competentes de Pernilla August e Ian Mciarmid, perto do resto do elenco, são eficientes. Os efeitos especiais em sua maioria ajudam na construção da atmosfera mais fantasiosa e menos sci-fi.
 
 Pontos fracos: Jake Lloyd é um garoto charmoso e faz um belo par de continuidade com Hayden Christensen (o que não é um elogio).
-2011-05-27-star-wars-episodio-i-a-ameaca-fantasma.txt                                    
+

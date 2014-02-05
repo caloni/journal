@@ -19,4 +19,4 @@ Muitas cenas clichês, como o beijo na luz, funcionam até certo ponto pela maneir
 O modo de andar do Sr. Han demonstra que Chan busca criar um personagem com mais dimensões que seus filmes de ação costumam ter, e se sai razoavelmente bem, como podemos notar na cena em que ele revela o que aconteceu com sua família.
 
 O estilo das lutas finais assume uma caricatura de vídeo-game, com os pontos sendo contados em um telão no estilo jogos de luta, talvez para tentar amenizar a violência com as "crianças" como protagonistas.
-2010-08-27-karate-kid-2010.txt                                                                                  
+

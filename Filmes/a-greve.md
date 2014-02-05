@@ -8,4 +8,4 @@ Ainda que fosse mestre no drama, o filme consegue extrair momentos cômicos que c
 
 Pontos fortes: montagem, sequências dramáticas, música.
 Pontos fracos: propagandista, sensacionalismo da época.
-2012-04-02-a-greve.txt                                                                                                  
+

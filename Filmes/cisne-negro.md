@@ -16,4 +16,4 @@ O que disse a Crítica
 
 Pablo Villaça percebeu o excelente design de som, que consegue manifestar com mais ênfase alguns aspectos do longa, como o esforço descomunal das bailarinas em seus treinos. Ele também dividiu a crítica em dois, demonstrando que continua fazendo experimentos de reflexão do filme no texto. Excelente.
 
-2011-02-23-cisne-negro.txt                                                                                          
+

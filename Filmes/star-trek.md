@@ -9,4 +9,4 @@ Star Trek não é ainda um "Star Wars para adultos" porque seu foco não se localiz
 Nesse sentido, é justificável que Abrams decida investir tanto tempo no primeiro filme justificando as escolhas de cada elemento da tripulação. E não estou falando apenas de Kirk e Spock, mas cada cena com um dos participantes da série clássica ganha um ar de substituição à altura, o que garante o imenso prazer do fã e evita que o espectador iniciante se aborreça ao ter que conhecer tantas pessoas diferentes de uma só vez (que, diga-se de passagem, aqui são tratados como seres de carne e osso, ainda que menos dramáticos que os protagonistas).
 
 Pelo contrário. Se há algo que vai na contramão da obra de George Lucas é a criação de personagens. Para Lucas, são todas figuras icônicas que merecem ser reverenciadas (quando a maioria não merece mais do que uma olhada). Para Abrams, são pessoas comuns tentando dar o máximo de si na aventura singular de exploração do espaço. As comparações são descabidas, mas ensinam a nos pensar o que distingue Star Trek como série.
-2013-06-17-star-trek.txt                                                                                              
+

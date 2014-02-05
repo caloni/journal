@@ -1,6 +1,6 @@
 <a href="http://www.flickr.com/photos/caloni/12181483294/" title="Ninfomaníaca - Volume I por caloni, no Flickr"><img src="http://farm4.staticflickr.com/3752/12181483294_3d5e1975c7_o.jpg" alt="Ninfomaníaca - Volume I"></a>
 
-2014-01-27
+
 
 Antes mesmo de ser anunciado, a ideia de um filme sobre uma ninfomaníaca dirigido pelo pessimista Lars von Trier (Dogville, Melancolia, Dançando no Escuro) já fazia todo o sentido: experimentando uma vida vazia de significado, mas cheia de sexo por todos os lados, a história de Joe (Charlotte Gainsbourg) atravessa todos os períodos da sua vida e aparentemente não há qualquer resquício nela de prazer, paixão ou saudade. Tendo que ser dividido em volumes por causa de sua longa duração, a experiência ainda recebe toques metalinguísticos, pois "Ninfomaníaca, Volume I" é uma experiência tão incompleta e inacabada quanto a sintomática personagem, vivida por Charlotte Gainsbourg de maneira amargurada ao calcular todo o mal que já fez para o mundo.
 

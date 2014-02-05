@@ -12,4 +12,4 @@ A forma como Micky ganha sua última luta antes de disputar o título com ajuda da
 
 O passado de Dicky sempre é mostrado com o que restou na vida real: relatos do próprio Dicky e o VT da luta.
 
-2011-04-02-o-vencedor.txt                                                                                            
+

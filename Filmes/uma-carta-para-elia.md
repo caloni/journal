@@ -10,4 +10,4 @@ O filme acaba revelando muito mais sobre o próprio Scorcese, sua visão estilísti
 
 Interessante notar, por exemplo, como todo cinéfilo, Scorcese aprendeu primeiro a apreciar a arte por ela mesma, para depois se dedicar aos estudos técnicos, como é bem mostrado na descrição das cenas e da história de Vidas Amargas, quando ao final ele descreve tecnicamente uma cena no cenário que ele chama de "O" corredor.
 
-2010-10-04-uma-carta-para-elia.txt                                                                          
+

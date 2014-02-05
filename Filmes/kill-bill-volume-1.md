@@ -23,4 +23,4 @@ Apesar da cor se extinguir na cena dos 88 loucos, é um P&B saturadíssimo, o mesm
 Em alguns momentos a trilha sonora também nos remete aos filmes de época.
 
 Quando vemos a luta dos 88 loucos percebemos o porquê da noiva estar de amarelo, uma homenagem mais que explícita a Bruce Lee e seus filmes do mesmo estilo.
-2010-09-09-kill-bill-volume-1.txt                                                                            
+

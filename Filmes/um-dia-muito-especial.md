@@ -19,4 +19,4 @@ O tapa que ela dá na face dele também é dado na mesma contraluz do terraço. E ac
 Um corte preciso e orgânico; depois que ele prepara seu omelete, o vemos cortando no seu prato. Logo após esse corte o plano aumenta e vemos outro prato com outro omelete; ela está comendo ao seu lado.
 
 A câmera sempre escolhe os melhores ângulos; quando ela avança a mão para cima dele na cena de sexo, por exemplo, a mão que faz isso é a que contém a aliança. Temos câmeras mostrando ele por baixo e ela por cima, com representações significativas de ambos, mais dele, pela sua experiência heterossexual.
-2010-12-20-um-dia-muito-especial.txt                                                                      
+

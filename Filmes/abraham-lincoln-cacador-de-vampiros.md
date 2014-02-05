@@ -15,4 +15,4 @@ Da mesma forma com que a narrativa soa artificial a todo o momento o uso excessi
 Mas talvez o problema incurável do filme seja se levar a sério demais, colocando uma dramatização absurda em cima de um filme de monstros. É certo que diretores como George Romero faziam suas críticas sociais com zumbis utilizando a mesma receita do ad absurdum, mas ele nunca se levou tão a sério (afinal de contas, é um filme de zumbis!). Veja bem, a questão não é que todo esse discurso anti-escravidão não faça sentido com a metáfora de vampiros. É que simplesmente não há densidade o suficiente para haver um filme inteiro que explore isso. Ou, pelo menos, apenas isso.
 
 No entanto, é o que parece sobrar no final. Pelo visto, cada vez mais a coreografia e os efeitos digitais (incluindo o 3D) prevalecem sobre uma história minimamente apresentável.
-2012-12-24-abraham-lincoln-cacador-de-vampiros.txt                                          
+

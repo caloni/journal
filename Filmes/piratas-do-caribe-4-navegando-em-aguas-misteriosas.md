@@ -13,4 +13,4 @@ Como se as coisas não pudessem piorar a partir daqui, dessa vez o inimigo do ant
 Porém, pelo menos essa nova versão de Jack Sparrow se entrega novamente ao auto-deboche, o que acaba sendo o único sinal de melhora desde o fastidioso No Fim do Mundo. A própria cena final confirma o que já estava nas entrelinhas da confusa narrativa. Em um filme cujos pontos de tensão não conduzem a trama alguma e, se tentam, desistem no meio do caminho, não há, de fato, uma motivação principal por trás do desfile vazio de roupas de pirata e da mesma trilha sonora irritante invadindo toda e qualquer cenazinha de ação, sob o pretexto de, aí sim, tentar encaixar uma unidade: a de história de pirata com Jack Sparrow e muita aventura.
 
 Infelizmente, apenas isso não sustenta uma narrativa no mínimo interessante.
-2011-06-01-piratas-do-caribe-4-navegando-em-aguas-misteriosas.txt            
+

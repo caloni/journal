@@ -12,4 +12,4 @@ Jogo de câmera (hand) adequado à atmosfera eergencial da arrativa.
 Quadros que combinam o semti.emto desorientaçao dos personages, além de ser sempre fiel ao pomto de vista dos personages (nao na tomadas fora do predio onde estao).
 
 
-2010-12-03-skyline-a-invasao.txt 
+

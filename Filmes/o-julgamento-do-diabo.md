@@ -11,4 +11,4 @@ Contanto a história em um misto de drama, ficção e comédia moderada nos moldes d
 Pontos fortes: relação sucesso/felicidade e best selling/crítica são de longe a melhor coisa do longa.
 
 Ponto fraco: a indecisão da direção de conseguir se posicionar como drama ou comédia interfere na maneira do espectador se relacionar com o protagonista e, muitas vezes, frusta cenas que poderiam muito bem funcionar em ambos os gêneros, se tivéssemos apenas um.
-2011-03-28-o-julgamento-do-diabo.txt                                                                      
+

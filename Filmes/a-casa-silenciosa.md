@@ -2,7 +2,7 @@
 
 <a href="http://www.flickr.com/photos/caloni/12020746706/" title="A Casa Silenciosa (7) por caloni, no Flickr"><img src="http://farm4.staticflickr.com/3763/12020746706_6e13b30374_o.jpg" alt="A Casa Silenciosa (7)"></a>
 
-2014-01-13
+
 
 Quando eu digo que os falsos documentários já atingiram seu nível de saturação e o ultrapassaram, como o recente Atividade Paranormal conseguiu provar pela falta de justificativas para o uso de câmera em tantas situações diferentes, eis que surge o remake franco-americano de 2011 (de uma produção uruguaia de 2010) filmado inteiramente em um plano-sequência de arrebentar os nervos.
 

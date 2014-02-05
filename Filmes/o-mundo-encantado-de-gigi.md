@@ -12,4 +12,4 @@ Lembrando quase sempre um videogame, e não seria exagero supor que a intenção do
 
 Por fim, se até crianças chegaram a dormir em um filme desses, o que dirá os adultos, que não têm opção melhor do que tentar se colocar na posição de uma criança de 4 anos; e mesmo isso não é garantidor de diversão.
 
-2010-12-24-o-mundo-encantado-de-gigi.txt                                                              
+

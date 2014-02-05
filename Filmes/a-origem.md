@@ -64,4 +64,4 @@ Outra pista-recompensa sugestiva é o fato de usarem o catavento da foto que acha
 Não sei se entendi direito, mas pensei que, muito sedados, eles não poderiam se matar nos sonhos, mas é exatamente isso que faz a arquiteta para sair da última camada de sonhos para sair dali. Por outro lado, talvez essa regra valesse apenas para a primeira camada do sonho.
 
 Há um salto considerável entre sonhos quando di Caprio, com o aceite de seu contratador dentro da última camada do sonho, vai voltar no avião onde tudo começou, em um belo arco de realidade que somos levados a experimentar, digno de noção tanto quanto o sentimento de perda de memória em Amnésia.
-2010-08-06-a-origem.txt                                                                                                
+

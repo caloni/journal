@@ -13,4 +13,4 @@ Porém, basta alguma novidade acontecer para aparecer à superfície o nosso lado c
 Mesmo que no filme exista uma sub-explicação pesquisada pela filha do casal, que imagina existir um demônio na casa perseguindo o irmão mais novo, nada disso importa nos momentos de maior tensão, quando descobrir a origem de tudo é irrelevante, e essencial é saber onde se encontra o sobrenatural, busca essa demonstrada tão bem  em uma cena no porão, onde tentamos inultilmente achar lógica nos contornos bizarros das tranqueiras que ali repousam.
 
 E mesmo que a conclusão (que não vou revelar aqui) talvez peque pelo excesso, ela consegue convencer ao ponto de encontrarmos ligações com o primeiro filme, em uma espécie de lupa que não aumenta apenas o significado da história, mas a sensação de desconforto em sair da sala de projeção.
-2010-11-07-atividade-paranormal-2.txt                                                                    
+

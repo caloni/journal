@@ -15,4 +15,4 @@ Até mesmo o humor está presente, de maneira pontual e que funciona perfeitamente
 Porém, o que chega realmente a dar um nó na garganta é a maneira orgânica com que o novo Jornada consegue explorar e homenagear a série antiga. Mesmo para quem não conheça quase nada sobre o original, será difícil passar ileso da maestria com que a história consegue explicar uma improvável relação. (Quem dirá o que os fãs devem pensar.)
 
 Conseguindo criar um desfecho satisfatório e que ao mesmo tempo abre o leque de possibilidades para continuações, o novo Star Trek é uma notícia muito positiva para os cinéfilos, pois consegue através de decisões inteligentes e bem orquestradas agradar gregos e troianos, algo que, diga-se de passagem, não é tão fácil em outras galáxias tão tão distantes.
-2012-04-16-star-trek-2009.txt                                                                                    
+

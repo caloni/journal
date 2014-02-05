@@ -13,4 +13,4 @@ Pontos fracos: a história, por sua vez, fica em um pano de fundo, inerte, sem mu
 Filmes com mulheres no comando
 
 Sin City. Na cidade do pecado, o maior deles é contrariar as damas.
-2011-03-29-sucker-punch-mundo-surreal.txt                                                            
+

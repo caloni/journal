@@ -9,4 +9,4 @@ Repetindo a fórmula do trabalho anterior colocando mais uma vez o Capitão Kirk (
 Outro benefício desse filme em relação ao anterior é o seu vilão, vivido por um Benedict Cumterbatch (Sherlock Holmes) que possui a cara inconfundível do seriado que protagoniza, mas acaba criando trejeitos de uma raça estranha e amargurada que serve justamente como reflexo para que Kirk finalmente perceba a importância da sua equipe. Tendo seus reais motivos encobertos por uma névoa, Cumterbatch cria um personagem eficiente que surpreenderá muitas pessoas.
 
 Por fim, o que garante mais uma vez o sucesso na empreitada não são os excelentes (ainda que virtuais) efeitos visuais, mas um elenco afiado e harmônico que a cada passagem ressalta sua função. Impossível não relacionar a Enterprise com uma empresa de sucesso, ou uma família, ou uma nação. Mais uma vez, a iminência de guerra e terrorismo são combustíveis para a Enterprise.
-2013-06-17-alem-da-escuridao-star-trek.txt                                                          
+

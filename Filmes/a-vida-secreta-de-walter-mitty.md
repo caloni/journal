@@ -1,6 +1,6 @@
 <a href="http://www.flickr.com/photos/caloni/11611107636/" title="A Vida Secreta de Walter Mitty (2) por caloni, no Flickr"><img src="http://farm4.staticflickr.com/3751/11611107636_b4065a85a5_o.jpg" alt="A Vida Secreta de Walter Mitty (2)"></a>
 
-2013-12-26
+
 
 Uma história batida, com um ator (e diretor) batido, mas com um argumento instigante e um desenvolvimento que fascina desde o começo: a revista Life ("vida") está no seu fim físico, e um dos fotógrafos mais conceituados envia sua obra-prima para o revelador de películas, que faz isso há uns 15 anos, ou seja, revelar as fotos dos lugares e pessoas mais exóticas. Curiosamente, Walter Mitty (Ben Stiller) nunca viajou para qualquer lugar que mereça ser citado em seu perfil online do eHarmony, onde tenta enviar uma "piscada" para sua colega de trabalho (de vista) Cheryl (Kristen Wiig, linda). Coincidentemente, o negativo da foto é perdido, e o único que sabe seu paradeiro está, como sempre, em uma viagem exótica pela Groenlândia, Islândia e o Selvagem Afeganistão.
 

@@ -9,4 +9,4 @@ Divertido por dentro e por fora. Aprecie com moderação.
 Pontos fortes: Natalie Portman e a direção impecável de Ivan Reitman (Amor sem Escalas) consegue a proeza de tornar uma comédia romântica mais que uma... comédia romântica.
 
 Pontos fracos: Vou considerar que a duração do longa se estende um pouco a mais do que deveria, pois tenta fechar pontas de personagens secundários de uma maneira artificial e desnecessária.
-2011-03-21-sexo-sem-compromisso.txt                                                                        
+

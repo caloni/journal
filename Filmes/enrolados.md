@@ -11,4 +11,4 @@ Algumas cenas forçadas, que tentam livrar  a cara do roteirista que chegou em si
 Destaque para a movimentação dos personagens e suas expressões, uma marca Disney, mas ainda cada vez melhor.
 
 A cena dos balões é a mais emocionante, e tem uma equiparação com a da morte do vagalume no trabalho anterior (A Princesa e o Sapo), embora Enrolados seja muito superior em termos de narrativa.
-2011-01-30-enrolados.txt                                                                                              
+

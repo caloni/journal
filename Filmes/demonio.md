@@ -9,4 +9,4 @@ A ideia central da trama é que os personagens, uma vez presos no elevador, vão f
 A única coisa que resta, então, é seguirmos os passos da direção, que pelo menos mantém ângulos sempre interessantes, tanto dentro do elevador quanto ao descrever a ação que ocorre fora dele para manter o prédio sob controle e para resgatá-los. É interessante porque, ainda que os personagens nunca representem pessoas de carne e osso, mas sim estereótipos prontos para serem abatidos pela força-sobrenatural-título, a tensão acaba funcionando, pois, de uma forma ou de outra, não é uma situação que qualquer pessoa gostaria de estar, sendo até natural o filme nos deixar compenetrados.
 
 Com uma conclusão boba, que sequer era esperada pelo espectador, Demônio acaba representando apenas um bom exercício de linguagem cinematográfica, exercício esse desempenhado muitas vezes melhor em obras inspiradas pelas mesmas "limitações técnicas", como O Cubo e Enterrado Vivo.
-2011-10-30-demonio.txt                                                                                                  
+

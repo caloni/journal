@@ -7,4 +7,4 @@ Michael Haneke explora através de uma doença a degradação de Anne (Emmanuelle Ri
 Mesmo que não o diga verbalmente, a rotina do casal logo após a cirurgia mal sucedida muda completamente para se tornar insuportável para ambos, pois o "casal" paulatinamente deixa de existir. Conforma Anne aos poucos perde seu passado e seu futuro, Haneke não nos poupa qualquer constrangimento da pessoa e dos cuidados do seu marido, transformando todo o processo em um filme longo e arrastado. Quando chegamos na cena mais impactante do longa, ela com certeza só dividirá opiniões entre quem sentiu a rotina dos dois até agora e os que não viram (e, claro, os religiosos não-pensantes, defensores da tortura por um bem extra-terreno inacessível).
 
 Amor, pelo seu título, consegue inverter a expectativa dos ingênuos espectadores, mas se torna prova de um amor imaterial, que transcende a própria forma e as convenções da época. Haneke nos faz pensar nisso o tempo todo, o que em filme já é um ótimo sinal.
-2013-02-13-amor.txt                                                                                                        
+

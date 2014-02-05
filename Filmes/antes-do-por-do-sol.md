@@ -9,4 +9,4 @@ Mais uma vez usando de diálogos que soam naturais aos dois personagens e a nós m
 Com uma entrega incondicional de Ethan Hawke e Julie Delpy, as interpretações envelhecidas de Jesse e Celine nos permitem lembrar de ambos mais jovens e ao mesmo tempo perceber as mudanças que podem ocorrer com o tempo, mesmo que o cinismo (agora refinado) de Jesse constate que, no fundo, as pessoas não mudam, mantendo sua essência por toda a vida.
 
 Ironicamente, torcemos pelo mesmo, permitindo que o casal se encontre novamente mais vezes, e permita que experenciemos a beleza de compartilhar nossas vidas com o próximo, não importando que isso se resuma a uma bela tarde em uma cidade qualquer.
-2012-01-03-antes-do-por-do-sol.txt                                                                          
+

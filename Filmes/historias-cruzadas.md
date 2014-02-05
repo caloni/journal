@@ -9,4 +9,4 @@ Partindo do princípio que apenas um branco poderia resgatar a dignidade das empr
 Recheado de futilidades, o diretor parece se esforçar para explicar tudo pelo menos duas vezes, destruindo boa parte da sutileza de suas próprias tomadas. Se em determinado momento uma menina exclama para a empregada que ela é sua mãe de verdade, o fato de termos visto diversas vezes a empregada cuidando da menina e nunca termos visto a própria mãe carregando a filha parece não querer dizer nada para nós, espectadores. O que Taylor está nos ensinando, humanos estúpidos, é que essas mulheres são exploradas pelos brancos mesmo sendo as verdadeiras mães de toda a comunidade. Não aprendeu, ainda?
 
 Mesmo com essa premissa boba e ingênua, o filme passa ileso pelo seu ritmo sempre cadenciado e uma história leve e interessante todo o momento. O que não é possível é conseguir resgatar a humanidade por trás da história de "The Help", pois ela foi esmagada constantemente pela lembrança de que, se os negros conseguiram seu lugar ao sol, foi graças à compaixão de brancos revolucionários como Skeeter. Ainda bem que Tate Taylor está aí para nos dizer isso.
-2012-12-18-historias-cruzadas.txt 
+

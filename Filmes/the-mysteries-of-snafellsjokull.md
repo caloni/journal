@@ -10,4 +10,4 @@ Parecendo um pouco canalhesco em suas opiniões unilaterais, no fundo pode ser co
 
 Pontos fortes: paisagem do próprio ambiente, músicas da cultura local.
 Pontos fracos: opiniões enviesadas, modo desonesto de conduzir o ponto de vista do espectador.
-2012-04-02-the-mysteries-of-snafellsjokull.txt                                                  
+

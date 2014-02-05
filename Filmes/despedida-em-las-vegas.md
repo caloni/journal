@@ -13,4 +13,4 @@ Ben, ao contrário, é um ser totalmente exposto, exposição essa que por conta da 
 O clima depressivo do filme é ajustado (leia-se aumentado) através de uma seleção inspiradíssima de músicas que evocam ritmos mais lentos e reflexivos (aliás o próprio diretor e Cage participam na confecção de algumas trilhas). Os ângulos da câmera e a fotografia distorcida gera tanto a sensação que a bebida causa em Ben quanto a concepção artística de Las Vegas como uma cidade que vive de dejetos humanos e de falsidades. A relação de ambos com as outras pessoas também é sempre baseada nessas assumpções, o que reforça mais ainda o sentimento de excluídos e às margens da sociedade).
 
 É trivial falar que ambos os atores fizeram sua lição de casa para viveram personagens tão marcantes, chegando Cage a frequentar os AAs e Shue a ter conversas de campo com garotas de programa. Porém, ainda sou levado a acreditar naqueles casos de filmes que são feitos no lugar certo pelas pessoas certas. O resultado nesse caso não poderia ter sido melhor.
-2011-10-22-despedida-em-las-vegas.txt                                                                    
+

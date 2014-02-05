@@ -1,6 +1,6 @@
 <a href="http://www.flickr.com/photos/caloni/11816732525/" title="Blue Jasmine por caloni, no Flickr"><img src="http://farm8.staticflickr.com/7451/11816732525_7d985890e8_o.jpg" alt="Blue Jasmine"></a>
 
-2014-01-07
+
 
 Os créditos iniciais mais uma vez aparecem e com eles mais um filme de Woody Allen: neurose, traição, problemas financeiros. Não há dessa vez a questão existencialista (quando irei morrer?) e essa ausência é por si só uma novidade. A personagem de Cate Blanchett (a Jasmine do título) está mais preocupada em se recompor de sua vida passada como uma madame sem preocupações, o que ironicamente a faz ter constantemente ataques de pânico. Ela está em busca de um novo marido, fortuna e mimos.
 

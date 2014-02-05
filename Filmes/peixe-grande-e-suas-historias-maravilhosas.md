@@ -1,6 +1,6 @@
 <a href="http://www.flickr.com/photos/caloni/11668850126/" title="Peixe Grande e Suas Histórias Maravilhosas por caloni, no Flickr"><img src="http://farm3.staticflickr.com/2858/11668850126_cd76ddb1fc_o.jpg" alt="Peixe Grande e Suas Histórias Maravilhosas"></a>
 
-2013-12-30
+
 
 Mais um da série "filmes fofos para ver com a família", Peixe Grande explora o conceito da Verdade (que não existe sem uma versão) com um argumento dos mais sensacionais: o que distingue os fatos dos "causos" contados por nossos pais, tios, avós? Um causo é uma série de fatos contada com emoção?
 

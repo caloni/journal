@@ -43,4 +43,4 @@ Quando este liga para ela, o escritor pergunta "ele sempre pede seus conselhos".
 O opositor do governo sugere que "uma mulher tão inteligente quanto a primeira-dama descobriria qualquer coisa sobre o marido, se existisse".
 
 No fundo, quem é o escritor fantasma de quem?
-2010-05-28-o-escritor-fantasma.txt                                                                          
+

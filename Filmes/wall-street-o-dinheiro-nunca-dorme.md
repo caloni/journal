@@ -7,4 +7,4 @@ O movimento de câmera, aliás, busca frequentemente tentar inovar, como na sequên
 Aliás, previsibilidade pode ser descrita de duas formas nesse filme: de um lado sabemos várias coisas que aconteceram na crise e que são reproduzidas uma a uma na narrativa, e por outro, o destino dos personagens é imprevisível seja pelo caos que vira o roteiro de ponta-cabeça, colocando uma filha que não se decide se gosta do pai, se gosta de dinheiro e quais suas motivações.
 
 Com boas cenas que mantém a tensão na primeira metade do filme (como as reuniões de negócio já citadas), o filme vai se esvaindo da sua premissa e vai perdendo seus personagens que tanto desejam caracterizar essa passagem de história econômica. Chegamos ao terceiro ato cansados de tantas reviravoltas sem sentido, já não sentindo mais pelo destino dos personagens, pois já não sabemos ao certo seus anseios.
-2010-09-24-wall-street-o-dinheiro-nunca-dorme.txt                                            
+

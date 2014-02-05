@@ -11,4 +11,4 @@ O que pode ser um problema recente na filmografia de terrores hollywoodianos, e 
 Comprometido apenas pela fraca história, o design de arte impressiona, principalmente na casa onde desenrola-se a maior parte da história. Os elementos que lembram a figura infantil, ironica e de forma significativa, são os que dão mais medo, e é tão cômico quanto trágico (um traço curiosamente de Stephen King) a forma como a dona da casa substitui a ausência de crianças em sua vida.
 
 Me fez pensar que as cenas de susto forçado não devem funcionar mesmo sem o aumento do som, pois é um recurso batido usado até mesmo nesse filme que pode-se considerar mais drama que terror. Por outro lado, olhe em volta e perceba a qualidade dos espectadores dos dias de hoje para perceber como cada vez mais o terror deve ficar mais óbvio e, portanto, menos aterrorizante.
-2012-03-04-a-mulher-de-preto.txt 
+

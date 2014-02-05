@@ -2,7 +2,7 @@ _Missão Madrinha de Casamento (Bridesmaids). EUA, 2011. Direção: Paul Feig. Rote
 
 <a href="http://www.flickr.com/photos/caloni/11401995506/" title="Missão Madrinha de Casamento (3) por caloni, no Flickr"><img src="https://farm3.staticflickr.com/2811/11401995506_3b643783e9_o.jpg" alt="Missão Madrinha de Casamento (3)"></a>
 
-2013-12-14
+
 Uma esperança feminina entre as comédias românticas machistas
 
 Bridesmaids poderia ser citado na cinematografia atual apenas por ser uma comédia romântica que tem o foco unicamente nas mulheres e em seu universo feminino. Não há em seu núcleo a busca pelo marido perfeito, pois nossa protagonista não é aquela mocinha inocente que costuma aparecer nesses filmes (e, francamente, depois dos 21 anos seria forçar demais a barra acreditar que uma mulher dessas existiria hoje em dia salvo produções da Disney — como o próprio longa ironiza). No entanto, ser diferente é o que menos importa quando o resultado final é tão bem explorado e conduzido, tornando-o também o filme que dá esperanças a esse gênero tão batido e surrado.

@@ -9,4 +9,4 @@ A atuação do casal principal, Antoine (Jean-Pierre Léaud) e Christine (Claude Ja
 A direção de Truffaut age e merece nota por sempre se utilizar dos enquadramentos que minimize o número de cortes e maximize as informações por quadro, como é facilmente visto nas cenas que se passa no quintal do domicílio, com várias pessoas interagindo e se movendo pelo campo visível.
 
 Mais que uma bela história, aqui podemos notar o que seria uma pitada de comédia francesa, com seus absurdos ao quadrado, porém sem perder nunca o tom da narrativa.
-2010-08-17-domicilio-conjugal.txt                                                                            
+

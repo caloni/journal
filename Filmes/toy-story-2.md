@@ -7,4 +7,4 @@ Dessa vez o drama entra no universo dos brinquedos de coleção, aqueles que nunca
 Com piadas que tentam fazer alguma homenagem a grandes ícones do cinema (como 2001, Jurassic Park e até mesmo a frase mais famosa da série Star Wars), vemos um roteiro um pouco mais maduro, que tenta enfrentar questões que serão abordadas de maneira ainda mais madura no fechamento da trilogia, como a questão inicial se o importante é satisfazer a infância de uma criança e ser seu melhor amigo até que inevitavelmente ela deixe de brincar e o jogue no canto, ou a tentadora possibilidade de existir para sempre em uma redoma de museu, observada por crianças do mundo inteiro, eternizado.
 
 De forma inteligente, o filme aborda isso mostrando a Woody que ele era parte de algo maior, uma coleção de brinquedos com temas variados que dariam inveja a George Lucas, com ioiôs, desenho animado com bonecos animados, solta-bolhas, e tantos outros souvenirs da mania que era o protagonista.
-2010-06-25-toy-story-2.txt                                                                                          
+

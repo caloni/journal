@@ -1,6 +1,6 @@
 <a href="http://www.flickr.com/photos/caloni/12020257654/" title="Ted (2) por caloni, no Flickr"><img src="http://farm3.staticflickr.com/2857/12020257654_da0718d234_o.jpg" alt="Ted (2)"></a>
 
-2012-10-03
+
 Comédia politicamente incorreta com urso de pelúcia prova estar acima de besteiróis do gênero.
 
 Quando assistimos à introdução que marca o início da amizade entre John, um garoto de 8 anos (Bretton Manley), e Ted, um ursinho de pelúcia que começa a falar a partir de um desejo que o garoto faz para uma estrela cadente, entendemos ser essa amizade o núcleo da história dirigida e escrita por Seth MacFarlane, do desenho politicamente incorreto Family Guy, e que aqui além de dirigir dubla o ursinho com sua voz. Apenas o fato do filme acreditar nessa relação entre os dois é o suficiente para fazer com que o espectador faça o mesmo, e desista de assistir mais um besteirol com piadas envolvendo ursinhos de pelúcia falantes. Ted é tão ou mais real do que John, e depois que ele e John "crescem" (Mark Wahlberg) nunca deixam de honrar a promessa que fizeram quando crianças: que seriam companheiros inseparáveis.
@@ -12,7 +12,7 @@ A produção abraça os anos 80 e toda a nostalgia da época através de uma fotograf
 Nesse sentido, a comédia politicamente incorreta é inteligente o suficiente para não cair na batidíssima gafe da auto-paródia, se mantendo na superfície com uma história tão sensível quanto cômica, e ainda conseguindo manter uma saudável dose de humor negro (e, sim, isso é possível). Seus personagens são cativantes, por parecerem reais, e a sensação final é de que deveríamos passar mais tempo com esses caras. Não importa que um deles seja um urso de 30 centímetros se ainda consegue ser divertido.
 
 
-2014-01-14
+
 
 Vendo dois anos depois, Ted me parece um filme extremamente coeso e coerente com sua proposta, algo quase que imprevisível na época visto que seu diretor e roteirista Seth MacFarlane é conhecido pela série de animação com piadas sem contexto formada por gags que produzem risos pelo absurdo e pela repetição de piadas: Family Guy.
 

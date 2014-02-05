@@ -11,4 +11,4 @@ Porém, não me leve a mal: o filme possui sequências de tirar o fôlego, e mesmo i
 Infelizmente, o filme parece mais longo do que é, justamente pela maioria das cenas focar em personagens que por mais que tentem não possuem maior profundidade do que merecem. Dessa forma, a figura de John Miller bêbado não evoca sua angústia, e durante quase todo o filme é apenas uma pessoa que gosta de beber, exageradamente. Ao mesmo tempo, Yu Mo, mesmo sendo a mais bela das meretrizes, não convence como sua líder, pois não possui características em sua personalidade que a diferenciem do resto do grupo. O mesmo pode-se dizer do grupo de meninas. Enfim, se não há nada que justifique convivermos tanto tempo com essas pessoas presas em um convento, por mais que a solução final da história seja dramática, por que não investir em mais explosões?
 
 Teria sido mais divertido.
-2012-08-06-flores-do-oriente.txt                                                                              
+

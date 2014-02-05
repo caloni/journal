@@ -1,6 +1,6 @@
 <a href="http://www.flickr.com/photos/caloni/11630010636/" title="Contato por caloni, no Flickr"><img src="http://farm4.staticflickr.com/3795/11630010636_2af64dd3d3_o.png" alt="Contato"></a>
 
-2013-12-28
+
 
 Adoro o livro que Carl Sagan escreveu imaginando como seria, em um mundo realista e atual, nossa primeira comunicação com uma civilização extraterrestre. Ele não apenas fez isso como abriu um pouco mais nosso leque filosófico ao ensaiar uma explicação que unisse ciência e religião, matemática e sentimentos.
 

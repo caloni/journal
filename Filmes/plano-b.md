@@ -32,4 +32,4 @@ Essa mesma técnica é usada para a declaração final de amor e mais declarações du
 
 O final dela vomitando novamente nos remete às cenas humorísticas que visam tentar dar uma pausa na comédia de situação investindo no desapego do drama que ali se forma, com é visto em diversas partes do longa.
 
-2010-06-11-plano-b.txt                                                                                                  
+

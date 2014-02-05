@@ -17,4 +17,4 @@ Sem saber o que falar durante a entrevista com a agente que detém os direitos do
 Porém, talvez o maior exemplo de sua capacidade artística esteja em fazer com que sintamos pelo destino de um personagem que sabemos ser fictício. Não Kaulfman, mas seu irmão-gêmeo. Usando mais uma vez metalinguagem, Kaulfman está nos convidando a experimentar o sentimento de perda que ele próprio poderia sentir pelos seus personagens.
 
 Se antes o conceito genial de entrar na mente de um sujeito como John Malkovich era espetacular, é com grande satisfação que podemos afirmar que a ideia e concepção de entrarmos na cabeça de seu roteirista é ainda mais brilhante. Charlie Kaulfman ainda é um nome que devemos sempre procurar no meio dos créditos de uma produção hollywoodiana.
-2012-06-18-adaptacao.txt 
+

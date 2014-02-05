@@ -13,4 +13,4 @@ Ainda acende novamente a velha discussão da segurança pública e o papel da socie
 Mais uma coisa que tinha esquecido: o fato da narração ser em off e aparentemente onisciente (Cap. Nascimento) dá a impressão que o protagonista já foi dessa para melhor, como Beleza Americana, e como é zoado em Kick Ass. Por eu ter visto o trailer da sequência, não havia como me enganar, mas a intenção aparentemente do longa era exatamente essa, apesar dele não ter se envolvido em nenhuma encrenca.
 
 Fora alguns detalhes mal resolvidos que parecem aberturas exatamente para deixar o filme mais aberto a conclusões diferentes, abordagens diversificadas e até mesmo para o realismo da história, o filme é um primor de lógica e continuidade, com ênfase na cena inicial que é resgatada no momento-chave em que Cap. Nascimento precisa de um substituto e está remoído de remorso pela morte do fogueteiro.
-2010-09-25-tropa-de-elite.txt                                                                                    
+

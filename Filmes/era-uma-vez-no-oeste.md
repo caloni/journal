@@ -15,4 +15,4 @@ Aliás o uso do som "natural" no filme é digno de um maestro, pois este colabora 
 No entanto o mestre Leone quer deixar sua marca, e para isso tenta transformar seu bangue-bangue em uma alegoria do progresso - representado pelo trem. No fundo, a visão de Leone é um tanto ácida e talvez pessimista, pois em ambos "Era uma Vez..." os heróis e heroínas nunca representam a visão idealizada do bem, possuem falhas de caráter e conseguimos enxergar bondade em seus atos meramente pela situação onde se encontram.
 
 Se bem que, de certa forma, a trilogia dos dólares dança no mesmo ritmo: fico feliz pelo músico ser o mestre Morricone.
-2012-10-31-era-uma-vez-no-oeste.txt 
+

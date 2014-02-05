@@ -21,4 +21,4 @@ Como é triste quando a humanidade se perde em criar jogos onde nossos jovens são
 Triste saber que o único motivo de existência de muitas pessoas é conseguir ver o final do capítulo a tempo, e saber quem ganhou, quem foi o vencedor do jogo da manipulação.
 
 Feliz fico, somente, com o fato de tudo ser um filme, fruto da imaginação de produtores e que nada possuem de igual na vida real.
-2012-04-01-jogos-vorazes.txt                                                                                      
+

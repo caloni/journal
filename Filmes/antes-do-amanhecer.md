@@ -7,4 +7,4 @@ Contudo, é preciso notar que a história nunca tira o pé do chão, e tanto os diál
 E por falar em tempo, o ato mais notável da direção/montagem é fornecer indícios de passagem temporal que nos permitam contar o ritmo do dia de maneira inquestionável, o que, mais uma vez, aumenta o realismo (pois fornece pistas confiáveis para o espectador).
 
 Não poupando-nos do realismo nem em seu doce final, Linklater ainda flerta com uma possível continuação, não sem fechar o arco aberto nesse filme, e nem fechando essa possibilidade por completo.
-2011-12-04-antes-do-amanhecer.txt                                                                            
+

@@ -11,4 +11,4 @@ E a sequência de perseguição em volta do Rio Sena, por outro lado, é o que melho
 A figura de Anton Ego, antes de ser uma ofensa, acaba se tornando uma homenagem aos críticos que, assim como Ego, amam o que analisam. Isso não impede, no entanto, que o roteiro (e a direção de arte) o considerem a maior ameaça à sobrevivência do Gusteau's.
 
 Por outro lado, Remy simboliza todas as pessoas que, independente de sua origem, tornam-se muito boas no que fazem.
-2011-11-20-ratatouille.txt                                                                                          
+

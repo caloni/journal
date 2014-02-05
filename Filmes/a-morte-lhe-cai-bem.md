@@ -4,7 +4,7 @@ _A Morte lhe Cai Bem (Death Becomes Her). EUA, 1992. Director: Robert Zemeckis. 
 
 <a href="http://www.flickr.com/photos/caloni/10669503715/" title="A Morte lhe Cai Bem por caloni, no Flickr"><img src="http://farm6.staticflickr.com/5513/10669503715_721f7db956_o.jpg" alt="A Morte lhe Cai Bem"></a>
 
-2013-11-02
+
 Comédias usadas como críticas - Parte 2
 
 Comédia da sessão da tarde feita nos anos 90, era um filme engraçadinho com efeitos visuais de espantar. Hoje se transformou em uma surpreendente crítica aos cosméticos e uma direção extremamente inspirada de Robert Zemeckis (O Voo), que já naquela época prezava pelo controle e expressão do tom do filme através dos nada sutil enquadramentos.

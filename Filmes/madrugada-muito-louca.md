@@ -1,6 +1,6 @@
 <a href="http://www.flickr.com/photos/caloni/12019911945/" title="Madrugada Muito Louca (3) por caloni, no Flickr"><img src="http://farm6.staticflickr.com/5499/12019911945_a4703432ac_o.jpg" alt="Madrugada Muito Louca (3)"></a>
 
-2014-01-17
+
 
 Tenho ressalvas para criticar um filme que simula de forma tão fidedigna as comédias dos anos 80 que se voltavam para os jovens despretenciosos em busca de sexo e diversão. Nesse caso, a diversão de Harold (John Cho) e Billy (Ethan Embry) se resume a maconha. E, além do sexo ocasional, o que eles mais almejam nessa madrugada são os deliciosos hambúrgueres de uma lanchonete que está difícil de encontrar: é o holy grail dos Mc Donalds.
 

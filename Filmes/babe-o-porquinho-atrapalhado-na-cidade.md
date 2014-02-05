@@ -11,4 +11,4 @@ A falta de solidariedade entre as pessoas em um ambiente como esse é retratado d
 Porém, dessa vez o resultado não é tão bonitinho quando assistimos a planos que remetem diretamente ao caos que se forma nesse ambiente desarmonizado e onde atos de crueldade, como deixar um cão à mercê da morte, parece ser uma condição natural daquela selva. "Babe na Cidade" pode ser visto como trágico na maioria dos seus momentos, e inesperadamente singelo em outras. De qualquer forma, o ponto forte do filme continua sendo a dinâmica entre os animais, e o fato de ali a dinâmica ser diferente é prova da inteligência de seus idealizadores, que perceberam como o ambiente molda o caráter de seus habitantes.
 
 Ainda que com um roteiro não tão redondo ou criativo quanto o original, "Babe 2" com certeza é digno de nota.
-2012-01-30-babe-o-porquinho-atrapalhado-na-cidade.txt                                    
+

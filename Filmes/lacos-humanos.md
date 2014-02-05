@@ -17,4 +17,4 @@ Porém, é preciso notar que o roteiro nunca parte para o maniqueísmo do choro fác
 O final, que também aparentemente leva o caminho fácil quando na verdade está usando da praticidade e até da realidade plausível, entrega de bandeja a conclusão inteligente de que, sejamos otimistas ou pessimistas, basta vivermos com o nosso melhor, que a vida fará o resto para nos ajudar.
 
 E eu até gostaria de terminar este texto com uma das muitas frases memoráveis do filme, mas é tarefa ingrata escolher entre tantos exemplos tão ricos quanto cada cena cuidadosamente planejada desse clássico precoce de Elia Kazan.
-2011-10-27-lacos-humanos.txt 
+

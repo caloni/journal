@@ -11,4 +11,4 @@ O final, pausado e reflexivo, remete a uma dramatização criada em filmes de ficç
 Por fim, mesmo que a direção e montagem apenas mantivessem o pulso firme na construção da narrativa, teríamos no máximo um relato histórico bem feito. No entanto, existe ainda um esforço consciente e elaborado em construir ao mesmo tempo a psique do seu personagem-título, acompanhar seus erros e acertos que irão culminar na evolução do seu próprio caráter. É na busca incessante pelo seus objetivosque documentário converge para drama, que personagem vira protagonista, que protagonista torna-se herói.
 
 E é na rima final, quando perguntado qual piloto com quem havia corrido que admirava mais, que Senna realmente prova ter sido digno de todos os seus feitos em vida e dos méritos que recebeu, pois nunca, durante toda a carreira, havia abandonado os princípios que o guiaram do começo ao fim em busca do que faz um verdadeiro piloto, esteja ele onde estiver: correr o mais rápido que puder.
-2010-11-26-senna.txt                                                                                                      
+

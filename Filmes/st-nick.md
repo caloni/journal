@@ -11,4 +11,4 @@ A menina, em seus gestos e andar tímidos entre as crianças de uma festa de anive
 Cortes certeiros e um ritmo mais que correto dão o tom milimetricamente planejado com uma embalagem indie, mas sem soar clichê/oportunista. É o cinema puro e singelo construído em torno de duas criaturas que aos poucos se tornam adoráveis e melancólicas. Seus motivos não nos interessam, mas o fato de estarem lá, sim. Compartilhamos com elas esse pensamentosinho maldoso de qualquer adulto medroso: como será o amanhã? Haverá mais marshmallows?
 
 Traçando um pouco das influências que Terrence Malick teve para criar sua Árvore da Vida, a fotografia naturalista e os movimentos involuntários ao sabor do vento criam uma poesia involuntária incapaz de ser atingida por qualquer filtro fotográfico qualquer, embora as paisagens do horizonte sejam de encher o coração. É a poesia da vida real, da dura realidade de duas crianças que, ainda que passem seus sufocos, ainda podem sonhar.
-2012-05-04-st-nick.txt                                                                                                  
+

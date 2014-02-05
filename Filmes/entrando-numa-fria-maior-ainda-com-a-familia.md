@@ -2,4 +2,4 @@ Filme um pouco mais recatado que os outros da série, traz piadas mais contidas, 
 
 Ainda sai de tom com conflitos montados e desmontados na mesma hora, como a participação "especial" de Hoffman encontrando sua mulher com o simpático Kevin (e o beijo entre eles logo se desfaz), ou a luta final entre Jack e Greg, quando, ao entrar na ambulância, Jack confessa ter notado ele falar a verdade quando disse sobre a noite passada pela pulsação (e por que continuaram brigando?)
 
-2011-07-01-entrando-numa-fria-maior-ainda-com-a-familia.txt                        
+

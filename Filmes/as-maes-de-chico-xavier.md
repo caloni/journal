@@ -9,4 +9,4 @@ Mas é inegável que a qualidade na construção da narrativa decai em vários moment
 Pontos fortes: apenas a presença de Nelson Xavier ilumina o set.
 
 Pontos fracos: filme feito para a televisão, ignora a qualidade de seu antecessor.
-2011-04-27-as-maes-de-chico-xavier.txt                                                                  
+

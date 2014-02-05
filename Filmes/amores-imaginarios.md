@@ -15,4 +15,4 @@ O que nos remete a um pequeno problema de postura no filme, pois, ainda que func
 Exagerado no visual, é econômico nas palavras, não sendo necessários muitos diálogos, pois a história se conta a si mesma, ajudada, é claro, pelas entrevistas que fortalecem o sentimento interno dos dois e ao mesmo tempo tentam tornar a história dos dois universal.
 
 Consegue. E, ainda que traga uma certa ansiedade o fato de nunca caminharmos para lugar algum na história, é exatamente esse o sentimento que o filme tenta transmitir. Então consegue em dobro.
-2011-11-20-amores-imaginarios.txt                                                                            
+

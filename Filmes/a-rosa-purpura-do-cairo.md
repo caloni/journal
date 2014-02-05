@@ -2,7 +2,7 @@ _A Rosa Púrpura do Cairo (The Purple Rose of Cairo). EUA, 1985. Direção: Woody A
 
 <a href="http://www.flickr.com/photos/caloni/11416882565/" title="A Rosa Púrpura do Cairo por caloni, no Flickr"><img src="http://farm4.staticflickr.com/3715/11416882565_cf0a420059_o.jpg" alt="A Rosa Púrpura do Cairo"></a>
 
-2013-12-16
+
 A magia para Woody Allen não é tão Disney
 
 Woody Allen parece dirigir tantos filmes que seus temas começam a girar em torno do seu próprio processo criativo. Se isso fica óbvio no excelente "Desconstruindo Harry", fica fascinante a manipulação e as críticas desse processo em "A Rosa Púrpura do Cairo", onde um dos personagens de um filme sai da tela ao se apaixonar por uma espectadora que viu o mesmo filme por várias vezes.

@@ -13,4 +13,4 @@ Porém, isso não importa. O roteiro de Cheryl McKay consegue estragar praticament
 Conseguindo aliar um roteiro previsível com situações improváveis, o diretor Michael O. Sajbel sequer consegue trazer coerência à passagem do tempo, pois até a barba do rapaz cresce de maneira inimaginável durante uma semana preso, nem se comparando à sua mudança em um mês como mendigo: nenhuma.
 
 Ao transformar o avô de Jason em um vidente-defunto com o desfecho do seu testamento-vídeo, a lição de moral de Jim Stovall consegue ser ainda mais doutrinária, chegando a rivalizar com Um Conto de Natal, de Charles Dickens. Infelizmente estamos a milhas de distância do poder da mensagem de Dickens com o seu Ebenezer Scrooge.
-2013-01-06-o-presente.txt                                                                                            
+

@@ -37,4 +37,4 @@ O controle da dramaticidade do personagem de Brad Pitt é visível quando este pre
 Por outro lado, a timidez da filha encaixa perfeitamente como um contraponto e um reflexo do próprio pai, como pode-se perceber em uma cena onde ela canta para ele e termina em um raccord com aplausos do estádio, como se o pai também evitasse os aplausos ou o público pelo que ele faz.
 
 O filme brilhantemente não dá uma resposta se foi um golpe de sorte ou houve habilidade como causa da vitória consecutiva, mas deixa claro que qualquer mudança fará com que o dinheiro se mova para onde a mudança flui.
-2012-03-06-o-homem-que-mudou-o-jogo.txt                                                                
+

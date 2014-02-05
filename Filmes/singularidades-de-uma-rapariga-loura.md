@@ -11,4 +11,4 @@ Ainda assim, se apenas isso significasse algo mais na surpresa final do "conto d
 Pontos fortes: uma fotografia adequada ao período que deseja retratar, com mesclagens entre o conteporâneo (e a atual crise de Portugal) e o período do conto de Eça.
 
 Pontos fracos: marcação do tempo não acompanha a evolução da história, e a narrativa acaba por se tornar episódica.
-2011-05-29-singularidades-de-uma-rapariga-loura.txt                                        
+

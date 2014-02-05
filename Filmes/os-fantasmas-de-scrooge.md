@@ -9,4 +9,4 @@ Para os fãs do livro, a caracterização das cenas não perde em nada no aspecto de
 Pontos fortes: caracterização de Scrooge em Motion Capture ficou fabuloso.
 
 Pontos fracos: a infantilização da trama faz perder a curva de aprendizado que Scrooge passa naquela fatídica noite.
-2011-03-21-os-fantasmas-de-scrooge.txt                                                                  
+

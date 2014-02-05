@@ -15,4 +15,4 @@ Ainda que siga coerência interna e construa uma lógica sutil alimentada por cada
 Dessa forma, é ponto positivo que a relação entre os membros da família mostrada na tela soe natural e ajude a fortalecer esse realismo e a nos identificar um pouco com cada um. Da mesma forma, os sustos gratuitos existem, mas a boa notícia é que são acidentais, e ainda possuem a função de aumentar a tensão nas cenas mais prolongadas e próximas do final.
 
 Apesar das novas invencionices o novo exemplar mais uma vez cai no conceito ao apresentar um plano final totalmente inspirado nos longas anteriores, o que praticamente revela seu desfecho. É digno de nota como, ao mesmo tempo que se beneficia do fruto de projetos experimentais anteriores como A Bruxa de Blair (até na hora de apresentar ruídos quase inaudíveis para aguçar a imaginação), ainda assim falta coragem artística (ou amarras comerciais?) para que seja apresentada uma conclusão tão corajosa quanto a dessa produção de 12 anos atrás.
-2011-11-24-atividade-paranormal-3.txt 
+

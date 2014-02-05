@@ -13,4 +13,4 @@ Travis entende que há algo a fazer, mas não sabe exatamente o quê. Está afim de 
 Somo levados desde o começo dentro do carro de Travis, mais para observar a realidade em sua volta. Sua narração em off determina apenas seu raciocínio, mas podemos ver por nós mesmos o que faz uma pessoa tomar as decisões que ele toma. Não há muito o que dizer quando se trata de entrar na mente de um lunático, a não ser vermos por nós mesmos. Talvez o Cinema, como visual, sirva como uma luva para filmes desse tipo. Conseguimos pelos enquadramentos e movimentos de câmera de Scorsese enxergar além do cenário óbvio de dentro de um Táxi. Conseguimos acompanhar o passar do tempo e nenhuma mudança. Essa falta de mudança, essa ausência de um rumo, é exatamente o que move Travis.
 
 Enfim, não há muito o que apontar em uma primeira revisão de Taxi Driver. Apenas constatar, estático, que há muito o que ver antes de conseguir verbalizar. O filme muda as pessoas. E cada época é um filme diferente.
-2012-05-14-taxi-driver.txt                                                                                          
+

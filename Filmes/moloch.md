@@ -13,4 +13,4 @@ Nesse sentido Moloch é uma redescoberta e ao mesmo tempo reinterpretação desses 
 Hitler está, mais do que nunca, fora do seu eixo. O trabalho de Leonid Mozgovoy parte do correto pressuposto que pessoas são pessoas, independente de serem ditadores sanguinários ou camponeses. A partir dessa universalização ele insere elementos únicos da psique do ditador alemão que poderiam existir em uma figura histórica e controversa como ele. Portanto, faz pleno sentido os diálogos do Führer oscilarem entre patéticos e brilhantes.
 
 Porém, muito diferente do que vemos no brilhante "A Queda!", aqui há uma introspecção que ao mesmo tempo que nos revela muito, ainda abre um leque ainda maior de nuances, principalmente na relação entre Hitler e Goebbels e as respectivas esposas Eva Braun e Magda Goebbels. Talvez isso alerte para o fato que, não importa o quanto estudemos sobre essas figuras históricas, elas são e continuarão sendo imensos poços de mistério, e nunca conseguiremos entendê-los, mesmo que conseguíssemos observá-los na privacidade de seus lares.
-2012-04-20-moloch.txt                                                                                                    
+

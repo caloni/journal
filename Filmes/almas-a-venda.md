@@ -34,4 +34,4 @@ Como que ele, de repente, estava lendo uma revista escrita em russo?
 
 No final das contas, assistimos à uma apresentação parcial do que seria uma extração de alma e as peripécias do ator buscando obtê-la de volta. Nada mais.
 
-2010-06-09-almas-a-venda.txt                                                                                      
+

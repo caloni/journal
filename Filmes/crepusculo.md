@@ -21,4 +21,4 @@ Bom, confuso do jeito que é, dificilmente a história poderia ficar menos dispers
 Pois é, fascinante, não? Não posso perder o resto dessa saga e entender finalmente o que deu na cabeça de Bella para se meter nessa história. Se bem que já imagino: uma garota que mexe os lábios como um tique nervoso e que parece achar isso sensual de fato não mereceria um destino melhor do que se apaixonar por um psicopata.
 
 Mapa de Forks: http://goo.gl/maps/scYg
-2012-06-10-crepusculo.txt                                                                                            
+

@@ -9,4 +9,4 @@ Sinceramente, mesmo sabendo da revelação maior do filme (que, apesar de mais de 
 Darth Vader está mais maldoso e presente do que no primeiro filme, provavelmente fruto de seu sucesso como vilão, e o Imperador Palpatine vira um mentor mais distante. Claro, isso é fruto de sua obsessão pelo jovem Skywalker, como bem diz o letreiro inicial e sua tolerância zero para os comandantes da nave principal, que vão caindo um a um.
 
 Mais uma vez com uma precipitada conclusão, o filme passa a ideia de ser apenas um exemplo de um universo inteiro sendo criado aos poucos, com muitas coisas ainda pendentes, e outras um tanto contraditórias. Para muitos fãs, uma religião estava nascendo nesse momento.
-2011-12-31-o-imperio-contra-ataca.txt                                                                    
+

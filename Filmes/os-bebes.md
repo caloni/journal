@@ -11,4 +11,4 @@ Fora isso, o filme merece ser visto porque é muito fofinho.
 Pontos fortes: detalhes de angulação, e a fotografia e trilha sonoras sublimes (esta última parece escolhida a dedo).
 
 Pontos fracos: acaba tão cedo...
-2011-05-01-os-bebes.txt                                                                                                
+

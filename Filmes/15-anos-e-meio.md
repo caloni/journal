@@ -7,4 +7,4 @@ Essa é daquelas comédias francesas que esperam arrancar risadas criando expectat
 Por outro lado, a química pai-filha de Daniel Auteuil (Caché) e Juliette Lamboley funciona praticamente todas as vezes que os vemos juntos em cena. Auteuil, desnecessário dizer, se sai tão bem em um drama de Haneke quanto em uma comédia adolescente de François Desagnat e Thomas Sorriaux (que não fizeram mais nenhum longa desde então).
 
 Enfim, um filme sessão da tarde que diverte moderadamente e faz o tempo passar. Mas nada mais que isso.
-2010-07-07-15-anos-e-meio.txt                                                                                    
+

@@ -23,4 +23,4 @@ Interessante que ela usa a arma de choque para que o guarda no volante acelere o
 Apesar de continuar a ação, quando ela "vira a casaca" e mata todo mundo vemos isso em câmera lenta.
 
 Pista e recompensa: aranha (o veneno dela é usada para paralisar o presidente).
-2010-07-30-salt.txt                                                                                                        
+

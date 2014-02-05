@@ -11,4 +11,4 @@ Para os brasileiros que venham a assistir o depoimento dos fãs de Pinochet, vale
 O momento mais icônico, onde o filme se encontra, é quando uma das fãs do ditador se revolta após descobrir que após a sua morte sua licença para trabalhar como comerciante fora cassada. Alegando ser esse o sustento de sua família, brada em frente à camera, exigindo seus direitos e se perguntando onde estão os direitos humanos.
 
 Pois é. A realidade, de fato, muitas vezes está nos olhos do que apenas queremos ver.
-2011-10-24-a-morte-de-pinochet.txt                                                                          
+

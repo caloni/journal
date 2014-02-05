@@ -11,4 +11,4 @@ O que nos dá um divertido contraponto, uma vez que, inserida em um filme de teor
 E embrulhar estômagos sem partir para o humor escatológico é a maior virtude do trabalho dos Coen, um trabalho que já vai contando décadas de Cinema sadio e com um estilo próprio que sempre parece trazer novidades.
 
 A mostra Irmãos Coen — Duas Mentes Brilhantes termina dia 23.
-2012-08-16-fargo.txt                                                                                                      
+

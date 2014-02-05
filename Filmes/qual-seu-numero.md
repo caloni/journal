@@ -13,4 +13,4 @@ Consciente da espécie de "road-movie metafórico" produzido, o diretor tenta esco
 Ciente da falta de emoção na maioria do longa, a trilha investe então na cena do casamento, apostando articifialmente em músicas românticas e consagradas em um volume nitidamente mais alto, tornando óbvio o desespero para que prestemos atenção ao destino de Ally (e é gritante a lição de moral "seja você mesma" jogada às pressas no terceiro ato, tanto que se aproveita da irmã, que até então era um simples adorno do roteiro, tanto que uma das músicas é de um cantor favorito de Ally).
 
 Bobo e infantil do começo ao fim, ao menos possui coerência interna, e uma seleção de músicas simpática. Mas é só.
-2011-10-17-qual-seu-numero.txt 
+

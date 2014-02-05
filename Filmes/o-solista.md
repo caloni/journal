@@ -9,4 +9,4 @@ Para essa conexão com o sem-teto, a interpretação de Downey Jr. é primordial, po
 Como Nathaniel é obcecado por Beethoven, temos no longa belíssimas passagens que são fruto de uma escolha discreta da "discografia" de seu ídolo, rivalizando com o belo mas inócuo Ao Som do Coração, que tem um drama semelhante, mas caracterizado por um rapaz órfão (Freedie Highmore, de A Fantástica Fábrica de Chocolate, entre outros).De certa forma, a ideia de conceber o estado de espírito do protagonista com as músicas do longa funcionam pela beleza das composições (de quadro) e pela interpretação competente de Jamie Foxx. Mesmo assim, o diretor acertadamente tira Foxx de foco em um momento-chave, em que utiliza cores para representar a música que está tocando.
 
 Patinando em vários momentos, e sem ter muito o que contar, o longa se segura nas interpretações consistentes da dupla. Mais um exemplo, assim como Um Parto de Viagem, onde a interpretação eleva o fraco roteiro ao nível de filme agradável pela história.
-2011-08-22-o-solista.txt                                                                                              
+

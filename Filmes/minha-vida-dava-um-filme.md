@@ -1,6 +1,6 @@
 <a href="http://www.flickr.com/photos/caloni/12020259164/" title="Minha Vida Dava um Filme (2) por caloni, no Flickr"><img src="http://farm4.staticflickr.com/3674/12020259164_66636d45e7_o.jpg" alt="Minha Vida Dava um Filme (2)"></a>
 
-2014-01-18
+
 
 Kristen Wiig, distante de A Vida Secreta de Walter Mitty e próxima de Missão Madrinha de Casamento, protagoniza essa comédia em que faz o papel de Imogene, uma escritora fracassada que é literalmente obrigada a voltar a morar pelas próximas 72 horas com a sua mãe e família após ter maquiado seu suicídio. O fato da carta de despedida de Imogene ter sido tão bem escrita é o que consegue unir seu passado de potencial glorioso e o seu eminente fracasso.
 

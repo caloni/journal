@@ -9,4 +9,4 @@ O mais incrível é que Loeb acredita realmente que apenas a piada recorrente dess
 Pontos fracos: narrativa enfadonha e que aposta na estupidez do espectador, com premissas que claramente não funcionam em algo mais que uma comédia.
 
 Pontos fortes: nem Jenifer Aninston salva.
-2011-05-16-coincidencias-do-amor.txt                                                                      
+

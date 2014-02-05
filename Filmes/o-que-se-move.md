@@ -11,4 +11,4 @@ Ao ligar os episódios de maneira mais metafísica do que orgânica, a segunda hist
 Mesmo assim o diretor/roteirista insiste em sua temática, o que revela em seu terceiro ato os momentos mais tensos e propositadamente desconcertantes de todo o filme. Boa parte desse efeito pode ser atribuído à revelação do longa, Fernanda Vianna, a atriz que faz a terceira mãe. Ela quase rouba a nossa atenção completa se a situação já não nos forçasse a isso: o primeiro encontro com o filho roubado da maternidade.
 
 Enquanto tentamos juntar as peças derrubadas pela catarse gerada pela evolução de personagens e situações, o que mais fica na mente é o tema proposto, o que há de comum naquelas histórias. Nos esquecemos do resto e, assim como o cisne do primeiro episódio, vemos o tempo passar sem muito o que fazer.
-2013-05-17-o-que-se-move.txt                                                                                      
+

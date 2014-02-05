@@ -7,4 +7,4 @@ O fato é que, interpretando duas figuras problemáticas (Zach, mais explícito, Do
 Dirigido e coescrito por Todd Phillips, o filme se concentra basicamente nas reviravoltas que essa viagem ao estilo road movie proporciona para ambos os integrantes. Nunca tentando soar absurdo, a história se foca nos problemas pessoais de ambos os personagens, e faz com que o drama de ambos ganhe um certo peso, mesmo se tratando de uma comédia.
 
 Não há muito o que falar do roteiro em si, que sempre se aproveita de um ou outro defeito de caráter de um dos dois, e embora soe maniqueísta em vários momentos, ao lembrarmos do plot inicial, tudo faz mais sentido.
-2011-08-22-um-parto-de-viagem.txt                                                                            
+

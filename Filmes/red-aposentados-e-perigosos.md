@@ -3,4 +3,4 @@ O encontro de astros que não deu certo em Mercenários aqui fez um trabalho diver
 Há transições inteligentes e tentativas de tornar o filme coeso através de cartões postais que fazem a troca de local.
 
 Já a participação de Mary-Louise Parker é igualmente divertida até o meio, quando ela desaparece do longa para dar espaço para a ação, que é boa, tem ritmo, mas quebra muito quando em alguns momentos, nunca dando a chance de nos envolvermos com a narrativa.
-2010-11-12-red-aposentados-e-perigosos.txt                                                          
+

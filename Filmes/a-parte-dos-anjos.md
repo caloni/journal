@@ -9,4 +9,4 @@ Por outro lado essa mesma capacidade de síntese é bem-vinda na apresentação dos 
 Já a dinâmica do grupo que se une para aplicar um golpe baseado nos conhecimentos de Robbie (Paul Brannigan), o protagonista casual, perde justamente por se fixar unicamente no drama deste, empenhando-se para mostrar como a vida do sujeito não pode mudar de rumo caso ele não tome uma medida drástica. O roteiro de Paul Laverty nesse sentido flerta com a desonestidade ao evitar a todo o custo uma solução menos arriscada.
 
 Ainda do ponto de vista narrativo Ken Lock trilha o caminho que dos rapazes pintando-o de dourado, entregando pistas no meio do caminho que permitem que vejamos seus atos muito antes delas acontecerem. E o pior é que não há obstáculos o suficiente para que o desenrolar saia um pouco dos trilhos. Mesmo assim acompanhamos imersos, aguardando que algo dê errado. O imprevisível aqui é que não há obstáculos previsíveis. É o suficiente para nos deixar interessados.
-2013-04-01-a-parte-dos-anjos.txt                                                                              
+

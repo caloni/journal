@@ -1,6 +1,6 @@
 Office Space. EUA, 1999. Direção e Roteiro: Mike Judge. Elenco: Ron Livingston (Peter Gibbons), Jennifer Aniston (Joanna), David Herman (Michael Bolton), Ajay Naidu (Samir Nagheenanajar), Diedrich Bader (Lawrence), Stephen Root (Milton Waddams), Gary Cole (Bill Lumbergh), Richard Riehle (Tom Smykowski). 
 
-2011-08-22-como-enlouquecer-seu-chefe.txt                                                            
+
 
 Depois de ter visto Como Matar seu Chefe, resolvi rever o que eu considero uma versão melhorada (ou mais profunda) da questão do "Dilbert Life Style", que é esse Como Enlouquecer seu Chefe, ou mais corretamente no original, Office Space (Ambiente de Escritório?).
 
@@ -15,7 +15,7 @@ Porém, de maneira inteligente, o roteiro cria os personagens estereotipados e os
 Com um final menor, que resolve de maneira muito maniqueísta um dilema apresentado já no terceiro ato, Office Space ganha atenção mesmo pela remontagem de um ambiente de trabalho que, infelizmente, muitos de nós vive seu dia-a-dia.
 
 
-2012-09-19-como-enlouquecer-seu-chefe
+
 Office Space. EUA, 1999. Direção e Roteiro: Mike Judge. Elenco: Ron Livingston, Jennifer Aniston, David Herman, Ajay Naidu, Diedrich Bader, Stephen Root, Gary Cole, Richard Riehle.
 [rating:4/5]
 

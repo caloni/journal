@@ -15,4 +15,4 @@ Porém, não é só a música clássica que aqui tem espaço pra crescer. Começando com
 Para isso a figura do vilão Silva, um lunático levemente afetado encarnado por Javier Bardem cai como uma luva de gênio do mal. Ele está hilário e ao mesmo tempo letal e vulnerável pela sua própria megalomania. Representa não apenas o antagonista do momento, mas a discussão sobre agentes old style. É realmente necessário tudo isso quando consegue-se controlar o mundo ? no universo do filme ? pelo computador? A questão é colocada tão bem que gera dúvidas sobre a real eficácia de uma MI6 frente a um lunático como esses, que de qualquer lugar do mundo conseguiria causar desastres.
 
 O que nos leva ao ato final que se ilumina pela glória das gerações passadas de agentes. Não há nada de especial na história, mas o local e as circunstâncias em que ela é montada a torna especial. O próprio desfecho final e as suas perdas não mereceriam menos do que toda essa reverência.
-2012-11-08-007-operacao-skyfall.txt 
+

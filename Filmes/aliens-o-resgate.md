@@ -13,4 +13,4 @@ Depois, a confiança da nova equipe, militares, e a perda progressiva dessa confi
 Parte desse desespero encontra reflexo na continuidade de expansão do universo Alien até então, com mais closes e planos detalhes das criaturas e o desenvolvimento da ninhada e a forma utilizada por eles para usar os humanos como invólucros de parasitas.
 
 A própria psique do alienígena é posta na hora de queimar os ovos, quando a rainha fica enfurecida e vai atrás (e note como a inteligência dos seres é mostrada quando ela consegue usar o elevador para subir). Da mesma forma, a psique de Ripley é apresentada de maneira visual através de Newt, com quem estabelece uma relação de identificação, pois Newt, assim como ela no filme original, é uma sobrevivente.
-2011-12-08-aliens-o-resgate.txt                                                                                
+

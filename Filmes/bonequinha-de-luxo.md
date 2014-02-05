@@ -9,4 +9,4 @@ Escrito por George Axelrod (O Pecado Mora ao Lado, Sob o Domínio do Mal) a parti
 Talvez o principal atrativo do filme seja Audrey Hepburn, que encarna Holly Golightly (mas que nome deslumbroso) sem o menor pudor, o que enriquece em muito a história. Existem cenas célebres do Cinema também no filme, como quando ela canta em frente à janela de seu apartamento. Particularmente, gostei mais da visita dos dois à Tiffany's, quando fazem um pedido inusitado a um dos funcionários.
 
 Apesar de venerado, fica óbvio que possui várias partes datadas, mas felizmente isso não atrapalha o desenvolvimento central da história. Dessa forma, vale a pena uma revisita de vez em quando.
-2011-11-29-bonequinha-de-luxo.txt                                                                            
+

@@ -13,4 +13,4 @@ O uso do 3D, embora com propensão a dores de cabeça nas cenas movimentadas, é in
 Mas nem tudo são robôs, e os cientistas engraçadinhos se saem bem mais ou menos, ainda que façam parte da tal homenagem. Também não é razoável dizer que a história pessoal dos personagens, assim como os próprios personagens, exercem qualquer tipo de influência positiva ou negativa no resultado final.
 
 No fundo o que importa mesmo são as lutas corpo a corpo (ou lata). As máquinas criadas pelo homem são estupidamente grandes e fortes, mas seus movimentos gigantescos são coreografados de forma lenta, dando a sensação de fragilidade em frente aos monstros, que parecem dotados de uma rapidez natural e orgânica. O resultado na maioria das vezes é que, mesmo com cenas memoráveis de ação, é fácil se confundir (e não é pra menos: na chuva, no escuro, envolto por criaturas mais escuras ainda).
-2013-08-10-circulo-de-fogo.txt                                                                                  
+

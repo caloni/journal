@@ -17,4 +17,4 @@ Maior prova disso é o envelhecimento de Bernward e Ensslin, que nunca é convince
 Portanto, quando vemos um Bernward enlouquecido, ou uma Ensslin determinada a agir, ambos soam forçados, pois não possuem explicação narrativa o suficiente para que expliquem ao espectador suas reais motivações.
 
 De certa forma, o filme cumpre o que se propõe ao desenvolver uma estrutura irregular que reflete na mesma falta de perspectiva daquelas pessoas que viveram uma época conturbada na história de seu país. Infelizmente, a mesma estrutura falha não cumpre a ambição de contar de fato a história dessas pessoas, o que torna o filme tão difuso quanto o que de fato ocorreu nas décadas passadas.
-2011-11-17-se-nao-nos-quem.txt                                                                                  
+

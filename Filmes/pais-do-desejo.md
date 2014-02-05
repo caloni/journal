@@ -11,4 +11,4 @@ Já Padre José é aquela figura carismática que faz o bem aos seus fiéis pela bond
 Se todos esses elementos não precisassem ser mastigados pelo espectador perdidos e sem pistas em uma novela de caráter global e que nunca permite que seus personagens digam a que vieram (com a possível exceção do bispo, unidimensional à rica) o trabalho de Paulo Caldas e do roteirista Pedro Severien seria infinitamente mais ambicioso.
 
 Porém, pelo visto, o diretor não quis entregar nada mais que os eventos enfileirados, o que parece mais material de pesquisa do que uma história pensada e trabalhada para comunicar ideias que ousam desafiar a narrativa clássica do cinema.
-2013-02-04-pais-do-desejo.txt                                                                                    
+

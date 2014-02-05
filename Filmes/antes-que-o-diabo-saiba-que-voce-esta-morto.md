@@ -9,4 +9,4 @@ Esse é o caso de seu último filme, Antes que o Diabo Saiba que Você Está Morto, 
 Essa estrutura é necessária para o que Lumet e o roteirista estreante Kelly Masterson têm em mente: com uma visão mais intimista da história, o filme vai aos poucos nos revelando quem são realmente aquelas pessoas em torno do assalto, e o que aconteceria na vida real caso essas pessoas e seus temperamentos de fato tivessem que interagir frente ao inevitável?
 
 Por fim, o título sugere o que a montagem nos mostra: enquanto não conhecemos o suficiente sobre os fatos, todos são inocentes.
-2012-05-02-antes-que-o-diabo-saiba-que-voce-esta-morto.txt                          
+

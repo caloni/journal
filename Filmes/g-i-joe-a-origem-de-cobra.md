@@ -7,4 +7,4 @@ Existem dois recursos usados durante o todo filme que são particularmente irrita
 Pior do que se limitar a recursos burocráticos em quase todas as cenas, é o roteiro perceber que ele precisa colocar falas artificiais para tentar fechar sua lógica na história e nos flashbacks, como porque certo personagem fez voto de silêncio.
 
 Porém, mesmo assim, o diretor Stephen Sommers (A Múmia, Van Helsing) e seu habitual montador Bob Ducsay conseguem impor um ritmo interessante no ataque a Paris, utilizando para isso o corte paralelo entre duas perseguições distintas. Pena que essa não é a sequência final, muito mais problemática, tanto no comprimento quanto no problema já citado de fechar as histórias dos personagens.
-2011-08-14-g-i-joe-a-origem-de-cobra.txt                                                              
+

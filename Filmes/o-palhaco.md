@@ -21,4 +21,4 @@ Claro, é aí que reside a força da agora presente trilha sonora, que é tão orgâni
 A conclusão, catártica pela própria natureza da história, consegue deslanchar todas as construções de roteiro criadas desde o início com calma e disciplina, a mesma competência vista durante todo o longa.
 
 Ao final, o que resta é a lembrança e a satisfação de conseguir perceber as tantas sutilezas presentes na história. A graça de contar uma história visualmente sem depender de nenhuma muleta narrativa. A arte maior que a vida do próprio artista.
-2011-11-06-o-palhaco.txt                                                                                              
+

@@ -4,7 +4,7 @@ _Fora de Controle (Changing Lanes). EUA, 2002. Direção: Roger Michell. Roteiro: 
 
 <a href="http://www.flickr.com/photos/caloni/10894835124/" title="Fora de Controle por caloni, no Flickr"><img src="http://farm6.staticflickr.com/5500/10894835124_757518cac4_o.jpg" alt="Fora de Controle"></a>
 
-2013-11-15
+
 A falta de controle moral esmiuçada em thriller mediano
 
 Um drama moral tão bem construído não deveria ser conduzido de forma tão insegura como é feito aqui. A direção de Roger Michell (Um Lugar Chamado Notting Hill, Uma Manhã Gloriosa) combina uma atmosfera de thriller policial com filme de ação e peca justamente ao não nos aproximar dos seus dois personagens quando essa abordagem seria merecida ou necessária.

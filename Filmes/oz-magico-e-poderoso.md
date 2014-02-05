@@ -13,4 +13,4 @@ Mesmo que a história já seja conhecida, ou para aqueles que não se lembram, a re
 Embora parta de um roteiro confuso que parece se esquecer que não estamos mais na década de 60 e o que parece imprevisível muitas vezes se revela banal, é admirável o que os trailers conseguiram, mantendo a discrição de uma história simples e que não poderia terminar diferente.
 
 Assim como Arthur C. Clarke imaginava a evolução da sociedade, que, apresentada a um povo suficientemente primitivo, se torna indistinguível de mágica. Aqui ironicamente um povo onde a mágica é comum não conseguiria distingui-la de tecnologia. Nesse sentido, a mensagem de "Oz" não poderia ser mais eficiente.
-2013-03-14-oz-magico-e-poderoso.txt                                                                        
+

@@ -17,4 +17,4 @@ Por fim, com o uso das habilidosas expressões de James Franco, que consegue traç
 É nessa hora que a sensibilidade de direção consegue tornar um final que poderia ser enfadonho, mas necessário, em um desabado silencioso, deflagrado pela mudança de tom na trilha sonora e planos mais abertos, que acompanha os últimos passos do herói de uma maneira mais que adequada: simbólica.
 
 Ponto forte: direção mantém um bom ritmo entre os pensamentos de Aaron e a própria ação acontecendo em um mesmo cenário.
-2011-02-23-127-horas.txt                                                                                              
+

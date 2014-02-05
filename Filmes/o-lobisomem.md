@@ -11,4 +11,4 @@ A situação se complica exponencialmente quando o próprio Lawrence é vítima da fe
 Infelizmente, tanta pomposidade não corresponde à história e nem aos seus personagens, que são obrigados a seguir linhas absurdas do roteiro de Andrew Kevin (A Lenda do Cavaleiro Sem Cabeça) e David Self (A Casa Amaldiçoada, o que diz muito). Há uma necessidade perene, por exemplo, em tentar criar um romance entre Lawrence e Gwen que simplesmente não funciona e não faz sentido. Ao mesmo tempo os motivos de seu pai John de ter feito alguns atos do passado de qual não se arrepende são pedestres e cheiram a decisões tomadas próximas do final das filmagens.
 
 Baseado no longa de 1941, escrito por Curt Siodmak, essa refilmagem, embora plasticamente impecável, carece de uma alma que a acompanhe, lhe defina e que consiga fazer parte do imaginário do espectador, que não sabe se espera por cenas de ação, um drama pessoal ou simples terror gore no "melhor" estilo de Robert Rodriguez ou Guy Ritchie.
-2012-11-25-o-lobisomem.txt                                                                                          
+

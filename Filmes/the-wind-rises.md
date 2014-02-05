@@ -4,7 +4,7 @@ _The Wind Rises (Kaze tachinu). Japão, 2013. Director: Hayao Miyazaki. Writer: H
 
 <a href="http://www.flickr.com/photos/caloni/10558084493/" title="The Wind Rises por caloni, no Flickr"><img src="https://farm4.staticflickr.com/3777/10558084493_2059c9b18c_o.jpg" alt="The Wind Rises"></a>
 
-2013-10-28
+
 "Tudo que eu quis foi fazer algo lindo"
 
 Não há o que criticar da perfeição técnica dos estúdios Ghibli. Acostumados a entregar desenhos que já seriam motivo de prazer e satisfação só de olhar, os filmes dirigidos pelo mestre Hayao Miyazaki prezam também por uma história completa, uma trilha sonora, uma fotografia, direção de arte, efeitos sonoros que representam juntos sempre o ápice daquele estilo.

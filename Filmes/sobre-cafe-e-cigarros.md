@@ -107,4 +107,4 @@ Vemos diálogos e ideias cruzadas de novo (Nikola Tesla e sua ideia da Terra ress
 
 No final, temos a sensação de algo muito deprimente. Talvez o efeito do filme como um todo seja de fato o efeito que o café e os cigarros fazem em nossa vida. Eles vão e vêm, passam despercebidos, mas possuem importantes mensagens de vida e morte.
 
-2010-12-20-sobre-cafe-e-cigarros.txt                                                                      
+

@@ -1,6 +1,6 @@
 <a href="http://www.flickr.com/photos/caloni/11614629776/" title="Scott Pilgrim Contra o Mundo (5) por caloni, no Flickr"><img src="http://farm8.staticflickr.com/7357/11614629776_a91e9d714e_o.jpg" alt="Scott Pilgrim Contra o Mundo (5)"></a>
 
-2011-05-16
+
 Anotações sobre Scott Pilgrim
 
 Com o tema de abertura da Universal Pictures aparecendo pixelada e com efeitos sonoros de 8 bits, antes mesmo de conhecermos os personagens sabemos que existe algo de diferente no universo de Scott Pilgrim.
@@ -38,7 +38,7 @@ Junta cenas com finais de diálogos, mas sempre deturpando o tradicional (qdo ele
 O que dizer dos movimentos laterais com as barras do ônibus que Pilgrim está conduzindo-nos diretamente para o emocional do personagem, através apenas de uma imagem, o que comprova também a eficácia do figurino e na maquiagem na caracterização do que é importante em cada personagem.
 
 
-2013-12-28
+
 
 Scott Pilgrim é o tipo de filme que abraça um conceito até o fim. Melhor: começa como um filme comum, mas vai apresentando o seu conceito de forma orgânica e cada vez mais intensa. E intensidade é uma palavra que resume muito bem toda a experiência que esse filme proporciona.
 

@@ -7,4 +7,4 @@ Apresentando-nos uma visão irônica e arrebatadora dos matadores em série, o film
 Pontos fortes: interpretação mais que incômoda de Costner e Hurt praticamente garantem a tensão e diversão por todo o longa.
 
 Pontos fracos: o exagero no papel de Dane Cook quase estraga seu persona, apesar de ter seus bons momentos de equilíbrio em sua aparente ingenuidade.
-2011-04-27-instinto-secreto.txt                                                                                
+

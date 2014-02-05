@@ -11,4 +11,4 @@ O fato é que "Loucos por Nada" muitas vezes nos arrebata pela criatividade das c
 Pontos fortes: A interpretação de Loren Horsley, embora lembre vagamente a Amélie Poulain de de Andrey Tatou, possui uma identidade própria e adequada às pretensões de sua Lily, perdida no mundo, mas sabendo exatamente onde está.
 
 Ponto fraco: Ainda que simpático, o filme não consegue alçar voos maiores do que simplesmente contar a história a que se propõe com toques de criatividade. Nesse sentido, está séculos atrás de produções muito mais ambiciosas como Pequena Miss Sunshine.
-2011-03-24-loucos-por-nada.txt                                                                                  
+

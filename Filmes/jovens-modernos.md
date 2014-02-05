@@ -11,4 +11,4 @@ A resposta é simples: o saudosismo de um tempo em que a criatividade estava a to
 Dotado de uma ótima edição de vídeo e som, lembrando o igualmente ótimo Pink Floyd (Another Brick in the Wall), o filme desfila facilmente por diversas vertentes sem nunca soar repetitivo, mas acaba embutindo um sentimento que, ao mesmo tempo que soa anacrônico, é visivelmente datado, o que acaba por invalidar o fato de que este foi produzido nos tempos atuais.
 
 O único resquício de atualizade repousa no último ato, onde crítico e seguidores pousam em Pequim, possível nova fonte artística, ou pelo menos de influência, dos artistas futuristas que Yves Adrien tanto estuda. A queda das torres gêmeas e o declínio econômico são citados en passant, em uma clara alusão à virada socio-econômica mundial, e como isso deve afetar o que será produzido desde então.
-2011-10-29-jovens-modernos.txt                                                                                  
+

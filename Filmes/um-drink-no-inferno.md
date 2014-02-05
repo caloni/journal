@@ -8,4 +8,4 @@ Um filme da década de 90 com George Clooney e Quentin Tarantino como protagonist
 Tarantino está assustadoramente trash como o psicopata estuprador Richard Gecko, irmão mais novo do frio e calculista Seth (Clooney), que está tentando fugir para o México com o resultado de um assalto a banco. No caminho acabam sequestrando a família do ex-pastor Jacob Fuller (Harvey Keitel) que no momento sofre de uma crise de fé. Essa crise, como poderemos ver a partir do segundo ato, possui um significado maior do que inicialmente elaborado.
 
 Com cenas tensas construídas desde o início (como a explosão da loja de conveniência), Rodriguez só não perde o controle do absurdo graças ao roteiro coeso e redondo de Tarantino, que consegue extrair desse absurdo um pouco para refletirmos sobre o que não fazer quando estiver cercado por vampiros demoníacos.
-2012-09-19-um-drink-no-inferno.txt                                                                          
+

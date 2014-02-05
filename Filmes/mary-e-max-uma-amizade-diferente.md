@@ -4,7 +4,7 @@ _Mary e Max: Uma Amizade Diferente (Mary and Max). Austrália, 2009. Direção: Ada
 
 <a href="http://www.flickr.com/photos/caloni/10854175073/" title="Mary and Max - Uma Amizade Diferente (3) por caloni, no Flickr"><img src="http://farm6.staticflickr.com/5509/10854175073_9cb3999848_o.jpg" alt="Mary and Max - Uma Amizade Diferente (3)"></a>
 
-2010-04-16
+
 Animação para adultos
 
 Tudo em "Mary e Max" é construído para tentar responder uma das perguntas emocionalmente mais ambiciosas e filosoficamente mais intrigantes que nós, passageiros desse planeta em direção à morte, nos fazemos de vez em quando: o que é a amizade?

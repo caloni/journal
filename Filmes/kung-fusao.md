@@ -4,7 +4,7 @@ _Kung-Fusão (Kung fu/Kung Fu Hustle). Hong Kong/China, 2004. Director: Stephen C
 
 <a href="http://www.flickr.com/photos/caloni/10476056163/" title="Kung-Fusão por caloni, no Flickr"><img src="http://farm8.staticflickr.com/7407/10476056163_9e84ee17a1_o.jpg" alt="Kung-Fusão"></a>
 
-2013-10-06
+
 Tem porrada tensa, mas o humor compensa
 
 Após uma revisita ao filme-gêmeo de Shaolin Soccer, ambos exploram esse conceito do Kung-fu extrapolado ao cotidiano, a sensação é de um frescor de ingenuidade e violência comparados a Kick Ass (e não me admiraria que este fosse inspirado naquele). Só pelo fato da violência existir com mortes e essas mortes serem relevantes para estabelecer o peso da tensão em um filme que obviamente é uma comédia já mereceria créditos de sobra.

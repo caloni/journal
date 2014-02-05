@@ -13,4 +13,4 @@ Aliás, a presença de Yoda é o que realmente dá tom ao clima da história como um 
 Pontos fortes: a presença do Yoda renovado, as cenas de batalha do final.
 
 Pontos fracos: o romancezinho galáctivo deixa a desejar.
-2011-05-29-star-wars-episodio-ii-ataque-dos-clones.txt                                  
+

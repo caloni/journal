@@ -7,4 +7,4 @@ Filme flerta com um evento interessante ocorrido na França dos anos 60 e que cur
 Com um ritmo agradável e piadas que apelam para o absurdo de situações, o filme se beneficia imensamente pelo carisma e simpatia de seus personagens, notadamente um grupo de mulheres que vivem para satisfazer seus empregadores com tarefas domésticas, mas que, assim como todos, sonham com melhores condições de vida em sua terra natal, a Espanha.
 
 Com um final mais longo do que deveria, As Mulheres do 6o. Andar é um filme agradável e ao mesmo tempo esquecível, apesar de conter em sua história elementos inseridos de forma sutil o suficiente para chamar a atenção para si mesmo.
-2012-03-01-as-mulheres-do-sexto-andar.txt                                                            
+

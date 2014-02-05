@@ -9,4 +9,4 @@ Com praticamente todos os diálogos cantados, não há números de dança, mas uma tr
 No entanto, mesmo assim há surpresas pontuais que revigoram a história, mas que não necessariamente são conduzidos com a grandiosidade com que foram concebidos originalmente. A batalha entre os jovens revolucionários e os soldados, forte apenas pelo seu simbolismo, perde a mão na indecisão de Tom Hooper, que consegue a proeza de suavizá-la (e até mesmo banalizá-la) mesmo com a morte de uma criança.
 
 Se não é o elenco empenhando em resgatar o filme do desastre de direção, o estrago com certeza seria irreparável.
-2013-02-07-os-miseraveis-2013.txt                                                                            
+

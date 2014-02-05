@@ -13,4 +13,4 @@ A interpretação sóbria de Gael García Bernal (Má Educação, O Passado), nunca nos
 Quando ambas as campanhas vão avançando e aprimorando-se é inegável a força que o hino criado a favor do "Não" possui uma força incomparável com o apelo patético e repetitivo do Sim, cada vez mais caricato e vestindo suas tradicionais vestes acusadoras da oposição. Isso chega a ser sintomático nos dias de hoje, pois a democracia vendida pela campanha do Não possui um formato que não passa, de acordo com seu idealizador, de uma cópia barata de outras cópias.
 
 E de certa forma a própria democracia é posta em xeque quando ela pode vencer através não da coragem do seu povo, mas pela visão de pessoas felizes que poderiam estar votando pela sua liberdade e felicidade ou por qualquer outro motivo. Como comprar coca-cola, por exemplo.
-2013-01-02-no.txt                                                                                                            
+

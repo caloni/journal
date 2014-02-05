@@ -11,4 +11,4 @@ Oportunista porque se aproveita do fato dos pinguins estarem na moda (nada contr
 E, enfim, é Covarde porque simplesmente parece não conseguir finalizar a história sem deixar todos felizes (e acompanhados). E se na cena final eu até consigo fazer um paralelo com as novelas globais, tenho certeza de que não há mais nada abaixo desse nível que mereça ser visto.
 
 Dito isto, que venha Happy Feet 2.
-2011-07-04-os-pinguins-do-papai.txt                                                                        
+

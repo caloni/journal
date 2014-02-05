@@ -13,4 +13,4 @@ Tomemos o sexo como exemplo. Nunca deixa de ser sensual. Aqui fica até mais, com
 A comparação com A Febre do Rato é inevitável: a mesma Recife vista pela mesma sensação de estranhamento vinda não da rotina, que não poderia ser mais ordinária, mas da ambição dos seus personagens. No caso aqui dA personagem, única, sozinha. Tão sozinha que se auto-diagnostica através dos seus pensamentos e gravações, meio como uma auto-cura ao escutar de dentro.
 
 O grande conflito, talvez, seja entender que a Felicidade pode ser muitas coisas. Menos banal.
-2013-01-10-era-uma-vez-eu-veronica.txt                                                                  
+

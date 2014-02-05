@@ -32,4 +32,4 @@ Há muitos momentos previsíveis, é verdade (como quando ela salva pela última vez
 
 O filme é extenso além do que devia, mas cumpre bem o que promete: uma caça entre humanos e predadores e toda suas consequências.
 
-2010-06-23-predadores.txt                                                                                            
+

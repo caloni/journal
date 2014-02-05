@@ -11,4 +11,4 @@ A nova dona da caixa é Em (Natasha Calls), que é filha de pais divorciados, o de
 Cozinhando em forno brando, a criação de suspense sem o uso dos artifícios já batidos como aumento do volume do som ou o corte repentino merece algum crédito. No entanto, não é difícil perceber que tudo se trata de mais uma tentativa de evocar O Exorcismo em tons mais familiares. A família MacNeil não andava bem, e essa família está suportando um divórcio. Há inúmeras passagens que incluem uma rua noturna deserta e molhada (clichê em qualquer filme, mas em terror mais clichê ainda).
 
 De qualquer forma, criando uma ou duas cenas marcantes, a conclusão possui ótimas sequências que se tornam mais aterrorizantes pelo artifício da urgência. Dessa forma, vemos seus personagens correndo de um canto a outro tentando de todas as maneiras evitar o mal que os assola. Uma linda metáfora de uma família que luta junto para superar um episódio que gostariam de evitar (o divórcio).
-2012-11-07-possessao.txt                                                                                              
+

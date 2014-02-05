@@ -11,4 +11,4 @@ Acompanhamos a transição da agente, ainda assustada pelos métodos usados pelo co
 Por fim, quando Kathryn Bigelow mostra a que veio e relata de maneira exemplar a missão que dá nome ao título original, se aproveita da trilha de Alexandre Desplat para ressaltar tanto a grandiosidade do evento quando esse misto de sentimentos que rodeia o desejo agora já frio e distante da vingança. Aliás, a música do filme é o unico elemento que diz algo sobre o humor do filme que gira em torno de diálogos longos e burocráticos e que ilustram bem o ritmo de trabalho no decorrer de tantos anos.
 
 Encontrando a cadência exata entre os breves momentos que vemos Maya, os soldados e sua visão noturna piorada por movimentos bruscos constantes, a montagem transforma a contemporaneidade dos eventos em uma experiência única, servindo de metalinguagem da vida real para o que está acontecendo nesse momento. As feridas abertas do povo americano ainda permeiam a cena final com o potencial mais dramático de todos: a frágil humanidade de nossas escolhas.
-2013-02-21-a-hora-mais-escura.txt                                                                            
+

@@ -21,4 +21,4 @@ E por falar em créditos, ele contém uma massa gigantesca de pessoas que é a equi
 Por fim, Tony Stark continuará sendo o mesmo Tony Stark de sempre. Talvez seja a hora, sem trocadilhos, de reciclar o personagem para algo mais ecologicamente correto (e viável): um personagem orgânico.
 
 Obs.: Após os créditos há uma breve, mas espirituosa cena que explica a narrativa da história, e que, sim, mais uma vez remete aos Vingadores.
-2013-05-03-homem-de-ferro-3.txt                                                                                
+

@@ -13,4 +13,4 @@ No decorrer de uma noite de muitos significados a lealdade entre colegas é exalt
 No fundo, a maior proeza do filme é a sua história que bate o coração devagar, como se estivesse a parar, para logo depois começar a bater mais forte. Nosso reconhecimento da amizade entre os envolvidos só aumenta. Embora seja repetitivo no terceiro ato em sua solenidade pelo "ato final" — e a câmera cada vez mais distante dos personagens pareça embaraçada (ou com medo do que vai acontecer).
 
 Em um dado momento do longa Arkin pergunta se os atos dos três amigos serão "como nos velhos tempos", no que Pacino responde que "será melhor". Por quê? "Dessa vez podemos apreciar nossos atos." Eis a definição do poder da experiência em nossas vidas, onde a repetição de velhos hábitos nunca é uma simples repetição. Da mesma forma, o simples fato de já termos visto esse filme trinta anos atrás com os mesmos caras não significa nada, mas a comparação entre as eras, sim.
-2013-03-12-amigos-inseparaveis.txt                                                                          
+

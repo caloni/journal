@@ -4,7 +4,7 @@ _Lovelace (Lovelace). EUA, 2013. Directors: Rob Epstein, Jeffrey Friedman. Write
 
 <a href="http://www.flickr.com/photos/caloni/9821052506/" title="Lovelace por caloni, no Flickr"><img src="http://farm8.staticflickr.com/7383/9821052506_e18383b7e0_o.jpg" alt="Lovelace"></a>
 
-2013-09-18
+
 Filme puritano traça biografia de atriz pornô como drama casual
 
 Aquele tipo de filme que não caminha para o melhor nem para o pior. Sua falta de ambição e sensualidade destoam completamente dos burburinhos e do sucesso escandaloso do único trabalho pornográfico protagonizado por Linda Lovelace (Amanda Seyfried), Garganta Profunda, que representou para muitos um marco na revolução sexual da época, enquanto para outros o renascimento do pornô como "Cinema".

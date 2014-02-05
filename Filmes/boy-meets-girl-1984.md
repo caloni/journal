@@ -1,6 +1,6 @@
 <a href="http://www.flickr.com/photos/caloni/12116337983/" title="Boy Meets Girl (3) por caloni, no Flickr"><img src="http://farm8.staticflickr.com/7388/12116337983_bca48d3579_o.jpg" alt="Boy Meets Girl (3)"></a>
 
-2014-01-23
+
 
 São filmes assim que me revelam como um cinéfilo ainda burro. Mesmo assim, tenho a ousadia de gostar de alguns deles, mesmo sem saber muito bem por quê.
 

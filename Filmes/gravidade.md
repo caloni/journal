@@ -4,7 +4,7 @@ _Gravidade (Gravity). EUA, 2013. Director: Alfonso Cuarón. Writers: Alfonso Cuar
 
 <a href="http://www.flickr.com/photos/caloni/10345770653/" title="Gravidade por caloni, no Flickr"><img src="http://farm6.staticflickr.com/5541/10345770653_96c5b47f5f_o.jpg" alt="Gravidade"></a>
 
-2013-10-17
+
 A angustiante sensação de vagar sozinho no Universo
 
 Alfonso Cuarón (Filhos da Esperança) mostra mais uma vez saber usar os planos-sequência — longas cenas sem corte — como uma ferramenta narrativa em vez de um mero estilo exibicionista. Usando o movimento giratório da câmera para impor o ritmo e precisando de pouquíssimos cortes — e ainda assim extremamente orgânicos — somos levados a uma experiência angustiante em torno da órbita da Terra, o que me pegou despreparado e a ponto de vomitar, me segurando na cadeira da sala I-MAX como se pudesse sair flutuando de lá.

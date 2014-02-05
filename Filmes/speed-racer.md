@@ -4,7 +4,7 @@ _Speed Racer (Speed Racer). EUA/Austrália/Alemanha, 2008. Direção: Andy Wachowsk
 
 <a href="http://www.flickr.com/photos/caloni/11116032466/" title="Speed Racer por caloni, no Flickr"><img src="http://farm4.staticflickr.com/3776/11116032466_86a021a88a_o.jpg" alt="Speed Racer"></a>
 
-2013-28-11
+
 Um universo delicioso que vale a pena visitar
 
 Speed Racer está para os animes infantis assim como Scott Pilgrim está para o mundo dos vídeo-games: dois filmes que homenageiam seu universo abraçando-o sem limites e que por isso são rechaçados pelo público em geral. Uma linguagem tão inovadora pode causar medo e desconforto, mas é o ponto de virada de todo cinéfilo que se preze e que que deseja sentir mais pelos filmes que assiste.

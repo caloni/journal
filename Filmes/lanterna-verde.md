@@ -9,4 +9,4 @@ Por outro lado, a explicação mais interessante é o uso da cor verde como o repre
 Hal Jordan (Reynolds), nesse contexto, vira um reles instrumento dessa força, mas, mesmo assim, é a sua motivação pessoal (?) e sua imaginação a força motriz que irá lhe dar os verdadeiros poderes de um super-herói: a capacidade de materializar qualquer coisa com essa força.
 
 Infelizmente, nem o anel conseguiu materializar uma história que o valha. A trajetória do herói não convence, ou pelo menos não o suficiente para acreditar que o esforço de um representante dos paladinos do Universo em sua espécie mais fraca (os humanos) consegue combater a maior ameaça que já tiveram que enfrentar em toda a sua história (perceba como o uso solene das palavras apenas enfraquece mais a história e a sabota, que tem que ser enriquecida com diálogos expositivos dessa forma).
-2011-08-29-lanterna-verde.txt                                                                                    
+

@@ -7,4 +7,4 @@ Projeto menor do diretor Marcos Carnevale (Elsa e Fred), Viúvas possui o seu núc
 O que é uma pena, pois o curioso plot coloca a questão dos sentimentos acima dos rótulos em pauta, e apesar do roteiro do próprio diretor deixar o tema morno e frequentemente revisto, o fato é que Viúvas não consegue se desvencilhar da óbvia rivalidade entre as duas desconsoladas para criar algo além de situações controversas e cômicas.
 
 De qualquer forma é notável que o núcleo de personagens seja formado apenas por mulheres, sendo que possíveis pretendentes, quando aparecem, são simples adornos para o ego das duas atraentes mulheres. Recriando situações engraçadas no vai-e-vem da história, Carnevale parece não beneficiar nem a comédia nem o drama, pois não há espaço para que as situações cresçam e se tornem a que vieram.
-2013-01-14-viuvas.txt                                                                                                    
+

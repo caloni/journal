@@ -9,4 +9,4 @@ A rapidez do filme se contrapõe à leve e inspirada música-tema, entre as minhas 
 Toda grandiosidade em torno da missão do agente britânico logo se explica ao descobrirmos que o chefão da SPECTRO está por trás da abdução dos foguetes russos e americanos. A série Austin Powers foi inteiramente baseada no vilão Ernst Blofeld, interpretado de maneira icônica por Donald Pleasence, e esse fascínio pelo personagem é inteiramente justificado: sua versão megalomaníaca do mal, caracterizado pelos seus traços calculistas e de certa forma cômicos são a alavanca necessária para uma série que se pauta em uma visão fantasiosa do espião: o que investiga e luta usando suas artimanhas tecnológicas.
 
 O Cinema merecia um herói como esse. Depois de "You Only Live Twice" esse mito se solidifica e se mantém por décadas a fio.
-2012-11-28-com-007-so-se-vive-duas-vezes.txt 
+

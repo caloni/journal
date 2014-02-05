@@ -9,4 +9,4 @@ Além disso, também temos a primososa direção de arte, que abraça junto da fotogr
 Ao mesmo tempo, a trilha sonora, competente até nos momentos mais exagerados (mais uma vez, estamos falando de uma fábula), não torna a música-tema repetitiva, mas a encaixa nos momentos-chave, e não há momento de maior significado e profundidade do que quando um certo personagem precisa alegrar o confuso porquinho.
 
 Com uma das sequências mais memoráveis, terminando em um plano-detalhe das mãos de um homem fechando uma cerca, Babe ficará para sempre nas mentes dos que entenderam que a história não é apenas sobre um porquinho bonitinho que fala com os outros animais, mas sobre a nossa própria visão de mundo, e das pessoas que muitas vezes de origem humilde nunca damos o necessário valor ou consideração.
-2012-01-30-babe-o-porquinho-atrapalhado.txt                                                        
+

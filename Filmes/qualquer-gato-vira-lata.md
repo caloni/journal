@@ -15,4 +15,4 @@ Todos esses tropeços fazem com que fique fácil ignorar a amadora fotografia, que
 O fato é que, mesmo que o ritmo da história seja agradável apesar de todos os poréns, não há nada que nos leve a ser atraídos pelos personas de Tati e Marcelo, que são fúteis e antipáticos (ainda que seus corpos digam o contrário). Nesse sentido, além da trajetória de suas vidas não nos levarem a lugar algum, seus destinos pouco importam, desde que a projeção acabe logo.
 
 O que, felizmente, é um dos poucos acertos do filme.
-2012-05-10-qualquer-gato-vira-lata.txt                                                                  
+

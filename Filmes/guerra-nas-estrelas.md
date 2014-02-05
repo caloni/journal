@@ -5,4 +5,4 @@ Quando um filme consegue criar um universo tão rico quanto em Star Wars (ou Guer
 E, de certa forma, o "criar do nada" tem todo o sentido em um filme como esse. Estamos falando de uma história que se passa em uma galáxia muito distante, o que, ao mesmo tempo que dá a liberdade ao seu autor de criar virtualmente qualquer tipo de cenário, dá a responsabilidade de conseguir com que sua criação tenha algum sentido para quem assiste.
 
 Nesse quesito, Star Wars consegue não só criar planetas, raças e as relações diplomáticas entre eles, mas recriar dentro desse mundo conceitos filosóficos do nosso próprio mundo, servindo de um espelho da própria raça humana, escancarando nossas virtudes e defeitos em seres que, mesmo que fruto da fantasia de George Lucas, conseguem transmitir sua "humanidade" em sua melhor e pior formas.
-2011-06-23-guerra-nas-estrelas.txt                                                                          
+

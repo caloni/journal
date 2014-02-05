@@ -7,4 +7,4 @@ De qualquer forma, o uso de preto e branco para a face dos participantes daquela
 Por outro lado, o próprio design de arte do ambiente "real" onde a primeira metade da história passa também remete para a construção de blocos e figuras geométricas. Não é à toa que o protagonista acessa o Master Control de cima de uma construção de tubos brancos que lembram alguma arte abstrata, ou que os corredores do império do mal são diagonais com tons de cinza. Até a cidade, no final do filme, se assemelha aos mesmos circuitos de computadores, em uma passagem rápida de tempo com os carros circulando.
 
 Se houver alguma tentativa de traçar um paralelo entre os programas que são mostrados dentro do sistema e os seres humanos que lá estão fora, isso ficou bem óbvio.
-2010-12-04-tron.txt                                                                                                        
+

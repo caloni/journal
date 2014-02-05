@@ -66,4 +66,4 @@ O aparecimento do protagonista voando do lado de fora do prédio, em vez de soar 
 
 Existem, pra variar, inúmeras brincadeiras previsíveis no final, como o batidíssimo confronto final.
 
-2010-06-18-kick-ass.txt                                                                                                
+

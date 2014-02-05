@@ -13,4 +13,4 @@ Porém, mais do que um filme que homenageia o Cinema, Hugo pretende contar uma hi
 Além do mais, os conflitos principais da história não se sustentam, virando em vez disso meras distrações. O próprio inspetor que persegue Hugo pela estação ferroviária, o sempre eficiente Sasha Baron Cohen, vem em uma versão reduzida, limitada, e não consegue fazer rir como em seus personagens habituais. E se a interpretação de Asa Butterfield como Hugo soa apática e sem quaisquer atrativos, sua companheira Isabelle (Chloë Grace Moretz, de Kick-Ass) se sai infinitamente melhor, mas ainda assim o conceito de filme infantil parece perturbar a cabeça do diretor.
 
 Por fim, mesmo com esses óbvios problemas de caráter burocrático para que o filme conte sua grande história, o fato é que, chegando lá, ele funciona impecavelmente bem, levando facilmente o espectador a esquecer que está em uma sala de projeção e a viajar pela história de um dos criadores da arte de contar histórias. Essas sim, deliciosamente fantasiosas.
-2012-02-25-a-invencao-de-hugo-cabret.txt                                                              
+

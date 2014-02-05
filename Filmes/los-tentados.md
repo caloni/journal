@@ -2,7 +2,7 @@ _Los Tentados (Los Tentados). Argentina, 2013. Direção: Mariano Blanco. Roteiro:
 
 <a href="http://www.flickr.com/photos/caloni/10535610115/" title="Los Tentados por caloni, no Flickr"><img src="http://farm8.staticflickr.com/7294/10535610115_bfcb6cea4e_o.jpg" alt="Los Tentados"></a>
 
-2013-10-26
+
 Da série "Um longa que deveria ser curta"
 
 Primeiro longa do diretor Mariano Blanco, não existem muitas ideias a serem seguidas em Los Tentados, ou elas estão tão sutilmente colocadas ali que fica difícil encontrar base para qualquer tipo de interpretação.

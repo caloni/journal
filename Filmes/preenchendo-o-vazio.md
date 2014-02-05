@@ -4,7 +4,7 @@ _Preenchendo o Vazio (Lemale et ha'halal/Fill the Void). Israel, 2012. Director:
 
 <a href="http://www.flickr.com/photos/caloni/10328609953/" title="Preenchendo o Vazio por caloni, no Flickr"><img src="http://farm4.staticflickr.com/3668/10328609953_d769d41681_o.jpg" alt="Preenchendo o Vazio"></a>
 
-2013-10-16
+
 A bizarra cultura judia e o drama humano de qualquer um de nós
 
 Uma fuga de nossa cultura vigente às vezes faz bem. Curioso constatar que, mesmo imersos na rotina, crenças e cânticos da religião judia ortodoxa, os mesmos dramas humanos se configuram.

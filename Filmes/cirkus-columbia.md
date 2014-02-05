@@ -7,4 +7,4 @@ A primeira coisa que nota-se em Cirkus Columbia é a deslumbrante fotografia. Cri
 Logo notamos que os enquadramentos são sempre econômicos e o diretor sempre escolhe os que melhor consegue retratar a interação entre todos os personagens da cena.
 
 O filme é uma composição complexa, tanto dos personagens envolvidos quanto a situação da própria cidade após a queda do muro de Berlim. Por abordar tudo isso utilizando a visão intimista dos personagens, contudo, o diretor Danis Tanovic consegue transpor a barreira histórica e criar mais do que uma descrição do momento da Bósnia: esse momento vivido por pessoas comuns.
-2010-11-01-cirkus-columbia.txt                                                                                  
+

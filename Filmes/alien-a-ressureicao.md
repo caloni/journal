@@ -15,4 +15,4 @@ De certa forma, a nova Ripley contém um pouco de alienígena, o que é ilustrado d
 A criatura final, por sua vez, assusta pela novidade em seu design e pela forma com que vem ao mundo e acaba se relacionando com sua "mãe-alien". De certa forma, acaba sendo a única ameaça global de fato durante toda a história, um péssimo sinal considerando que ela só aparece no final do terceiro ato.
 
 O significado da chegada ao planeta Terra, enquanto remete à esperança, também dá a ideia de renascimento. Talvez o próprio renascimento do título sirva não apenas para seu começo, mas também o seu final. Talvez a forma escolhida para dar abertura à franquia que, apesar de promissora, nunca conseguiu vingar.
-2011-12-12-alien-a-ressureicao.txt                                                                          
+

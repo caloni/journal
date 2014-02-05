@@ -22,4 +22,4 @@ Risada nervosa dele, duas vezes, nervoso/ironia?
 
 Final irônico, Mark White, corajoso.
 
-2010-12-10-enterrado-vivo.txt                                                                                    
+

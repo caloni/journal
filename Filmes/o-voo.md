@@ -23,4 +23,4 @@ No caso de O Voo, o piloto Whip Whitaker não possui controle sobre sua vida, e é
 A partir do momento em que Whip Whitaker decide contar a verdade a respeito da bebida em sua vida e passa a ter responsabilidade sobre seus atos o diretor Robert Zemeckis faz uma belíssima transição girando a câmera em torno de Whip Whitaker e o colocando já na prisão, anos depois, falando aos presos. A câmera continua a enfocar o ex-piloto, só que nesse momento ele está no centro da tela. Daí ocorre algo que considero tão emocionante quanto brilhante: a câmera ao se aproximar do protagonista vai lentamente o colocando à direita da tela, em um claro reajuste da própria postura do sujeito a partir de então para com sua vida. Também no diálogo final com seu filho ele está pela primeira vez totalmente à direita da tela, quando fecha a última cena.
 
 Repito a pergunta feita no texto sem spoilers: como não gostar de um filme desses?
-2013-02-10-o-voo.txt                                                                                                      
+

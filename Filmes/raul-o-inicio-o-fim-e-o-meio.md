@@ -21,4 +21,4 @@ A conversa ainda levanta a questão da censura de maneira quase poética ao enfoca
 Nesse sentido, o próprio filme é uma homenagem e uma resposta para esse contestador que foi Raulzito, como que houvesse um contato extraterreno a dizer para ele:"Está vendo? Hoje podemos fazer o que quisermos, pois há de tudo ser da lei".
 
 Acredito, sinceramente, que Raul esteja escutando.
-2012-03-28-raul-o-inicio-o-fim-e-o-meio.txt                                                        
+

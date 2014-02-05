@@ -9,4 +9,4 @@ Já ganhando a atenção do público, as coisas começam a ficar mais interessante ai
 Usando um ritmo sem pressa, econômico e competente em esboçar visualmente o seu objetivo, a reproximação daquela família que há tempos não tinha uma conversa como essa irá ? como nos filmes do gênero ? abrir algumas feridas e paulatinamente fechá-las. O passado de ausências que acabou por moldar o caráter desses jovens é revisitado, e tudo fica mais empolgante com a troca de farpas.
 
 Nunca desinteressante em seu desenrolar um tanto óbvio, mas que com seu timing perfeito e o desempenho competente de todo o elenco o torna, Os Visitantes conclui seus conflitos com uma visão encantadoramente otimista caso seja essa também sua impressão. Contudo, o filme prefere não se intrometer mais ainda na vida daquela família, o que é admirável se considerarmos que já a tomamos como pessoas de carne e osso durante todo esse tempo.
-2012-11-01-os-visitantes.txt 
+

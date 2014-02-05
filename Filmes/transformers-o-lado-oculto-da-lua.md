@@ -7,4 +7,4 @@ Transformer: Dark Side of the Moon. EUA, 2011. Direção: Michael Bay. Roteiro: Eh
 Olhando dessa forma o filme (e ele nos faz enxergar assim), temos a sua trama patética desmascarada, o que faz perder toda a graça nas cenas de tensão. Porém, dessa vez temos uma obra de maestria técnica de encher os olhos em 3D. É possível perceber a profundidade de campo na maioria das cenas de ação, e quando isso ocorre dentro de um prédio em movimento angular porque está se despedaçando, é espetacular. De verdade!
 
 Só que não é só de imagens que vive o cinema. Sim, um filme é uma sequência de imagens inicialmente desconexas, mas que, ao serem editadas, se transformam em linguagem, possuem respiração própria e contam a história que quiser. Aqui há apenas as imagens desconexas e só. Sozinhas, elas possuem o efeito vitrine que comentei, mas juntas, elas não revelam nada. Apenas uma longa, e angustiante, experiência.
-2011-07-06-transformers-o-lado-oculto-da-lua.txt                                              
+

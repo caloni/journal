@@ -7,4 +7,4 @@ Há filmes que possuem uma catarse tão forte e fluida durante a narrativa que par
 Baseado em livro homônimo de X, o filme de Y narra as aventuras de um garoto cujo pai faz parte do exército nazista e precisa se mudar com sua família para uma casa extremamente próxima de um campo de concentração. Nele vive um menino de mesma idade e por isso forma-se uma amizade inusitada. O roteiro de Z consegue oscilar do frívolo ao cruel sem com isso perder o fio da meada, que é enxergar os horrores do holocausto através dos olhos ingênuos de uma criança.
 
 Além de em pouquíssimo tempo de projeção conseguir a proeza de impactar-nos não só com a "solução final" de Hitler como também com os pequenos detalhes, como a convívio com um serviça judeu na casa. Como se isso não bastasse, a história possui uma coragem fora do comum em sua conclusão, mas que com um pequeno gesto de reflexão é possível entender como era também inevitável. O impacto de um momento horroroso na história da humanidade não deve ser amenizado para irmos para casa tranquilos.
-2012-10-21-o-menino-do-pijama-listrado.txt                                                          
+

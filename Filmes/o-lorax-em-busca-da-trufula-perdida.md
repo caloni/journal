@@ -12,4 +12,4 @@ De qualquer forma, é sempre bom poder ver ideias novas de uma outra produtora qu
 
 Pontos fortes: efeitos visuais.
 Pontos fracos: história, sequências musicais, lógica interna.
-2012-04-02-o-lorax-em-busca-da-trufula-perdida.txt                                          
+

@@ -9,4 +9,4 @@ Tanto é assim que as novas criaturas que vemos não apresentam o mesmo lampejo de
 Mesmo com tantas limitações inexistentes nas criações originais da Pixar, justiça seja feita: a história se sustenta até o fim. O que não se sustenta é a paciência das crianças, que precisam aguardar poucos momentos de humor físico ou mesmo aqueles momentos tocantes que exploram de maneira magnífica a essência humana. Aqui a Pixar parece querer atingir a puberdade, mas com isso se esquece dos pequeninos.
 
 Uma pena, pois essa dualidade era marca registrada dos estúdios de John Lasseter.
-2013-07-01-universidade-monstros.txt                                                                      
+

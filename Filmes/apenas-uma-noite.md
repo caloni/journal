@@ -13,4 +13,4 @@ Já Sam Worthington parece disposto a arrancar um pouco mais de complexidade, e s
 Já a direção não é intrusiva mas ao mesmo tempo eficiente, pois consegue atrair a atenção do que está acontecendo na tela com o uso de rimas inteligentes, como o relógio de Michael sendo tirado e colocado, ou o cachorro de seu melhor amigo, que ocupa dois lugares distintos no banco do carro em dois momentos diferentes. Também invest em raccords com cortes entre diálogos, para deixar claro que ambos estão acontecendo ao mesmíssimo tempo, e que de certa forma há uma comunicação entre o espectador e ambas as situações, pois uma decisão em um lugar pode afetar diretamente a visão do outro. O diretor brinca com isso o tempo todo.
 
 E, no fundo, a noite descrita no longa não passa de uma agradável e lúdica brincadeira com os sentimentos de personagens que lembram de relance o que faz qualquer ser humano ocidental fixar suas emoções em torno de uma só pessoa.
-2012-06-18-apenas-uma-noite.txt                                                                                
+

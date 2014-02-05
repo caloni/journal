@@ -9,4 +9,4 @@ A fotografia é bem cuidada no sentido que divide bem o clima anos 70 (barrento, 
 O fato é que não há muito o que falar sobre nenhum personagem em específico, e a narrativa faz questão de não desenvolver nenhum deles. Pecando pela falta de localização na história, o tom articifial da maioria dos atores não ajuda.
 
 Por fim, o ato final ganha mais ação, exatamente por ter encontrado a década de ouro da narrativa, e o tal 400 x 1 é um dos momentos mais empolgantes de toda a narrativa, mas não se sabe pela pasmaceira em que estávamos mergulhados até então ou pelo próprio mérito da sequência.
-2010-08-06-400-contra-1-a-historia-do-comando-vermelho.txt                          
+

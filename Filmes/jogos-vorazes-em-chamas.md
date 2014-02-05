@@ -4,7 +4,7 @@ _Jogos Vorazes: Em Chamas (The Hunger Games: Catching Fire). EUA, 2013. Direção:
 
 <a href="http://www.flickr.com/photos/caloni/11289445834/" title="Jogos Vorazes Em Chamas por caloni, no Flickr"><img src="http://farm4.staticflickr.com/3677/11289445834_f6c256aebe_o.jpg" alt="Jogos Vorazes Em Chamas"></a>
 
-2013-12-09
+
 O mundo de Katniss Everdeen ainda ótimo
 
 É curioso que quase uma década depois a estrutura narrativa de Catching Fire nos faça lembrar do ótimo Matrix Reloaded. Apesar de também ser uma continuação, Jogos Vorazes pelo menos sabia que não terminaria no primeiro. No entanto, ambos tratam de esperança surgida em meio a uma guerra eterna, e embora a escravidão consentida pelos Distritos à Capital por tantas gerações soe às vezes meio forçada, o fato é que o aspecto político e social é o que mais cativa na história.

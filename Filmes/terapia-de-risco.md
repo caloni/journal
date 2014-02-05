@@ -1,6 +1,6 @@
 <a href="http://www.flickr.com/photos/caloni/11610526466/" title="Terapia de Risco por caloni, no Flickr"><img src="http://farm4.staticflickr.com/3759/11610526466_7dfd76224f_o.jpg" alt="Terapia de Risco"></a>
 
-2013-12-24
+
 
 Me impressionei pela atuação de Rooney Mara (a Lisbeth Salander de Os Homens que Não Amavam as Mulheres) e sua construção de um personagem frágil mesmo que insensível. Os problemas de depressão de Emily são tão óbvios em seus olhares abaixados, esguios, em sua fala mansa e cansada, que tudo isso parece convincente demais.
 

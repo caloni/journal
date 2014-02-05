@@ -13,4 +13,4 @@ Se por um lado a premissa é interessante, por outro podemos notar durante toda a
 Tendo dois personagens duvidosos para o papel de alívio cômico (uma corujinha meio epilética das ideias, um plagiozinho do esquilo de Deu a Louca na Chapeuzinho, e uma coruja que tenta cantar suas falas, um plagiozinho do bode do mesmo filme).
 
 Se a lição de moral não pode soar mais "óbvia" no final, é notável que o filme não poupe algumas corujinhas, inclusive o irmão do protagonista, de parecer em mortes trágicas. Um filme de caráter adulto que ainda não amadureceu a ponto de contar uma história de verdade.
-2010-08-08-a-lenda-dos-guardioes.txt                                                                      
+

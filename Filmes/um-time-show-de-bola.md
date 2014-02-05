@@ -2,7 +2,7 @@ _Um Time Show de Bola (Metegol). Argentina/Espanha, 2013. Direção: Juan José Cam
 
 <a href="http://www.flickr.com/photos/caloni/11236096716/" title="Um Time Show de Bola por caloni, no Flickr"><img src="http://farm4.staticflickr.com/3759/11236096716_e23ccff277_o.jpg" alt="Um Time Show de Bola"></a>
 
-2013-12-04
+
 Hipocrisia criticar o futebol-comércio com um filme comercial?
 
 Um Time Show de Bola possui a grande vantagem de ser dirigido por Campanella, que consegue impregnar uma emoção desproporcionalmente divertida nas cenas "em campo", conseguindo, por ser uma animação, a fluidez completa de suas longas sequências de ação. Por outro lado, acaba sendo uma desvantagem que o controle da produção esteja nas mãos do auto-inflado e oscarizado diretor de O Segredo dos Seus Olhos, que adota um roteiro misto que não consegue contar bem uma única história e vira uma miscelânea de sentimentos a respeito de como o futebol atual é mais um jogo de negócios do que da paixão antiga e nostálgica.

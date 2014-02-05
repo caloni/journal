@@ -17,4 +17,4 @@ Pontos fortes: a ponta de Ken Watanabe no início cria uma das melhores sequência
 Pontos fracos: o roteiro sabota um filme com potencial de desvencilhar-se do lugar comum.
 
 Prefira: As 7 Faces do Dr. Lao, um clássico da Sessão da Tarde.
-2011-06-20-cirque-du-freak-o-assistente-de-vampiro.txt                                  
+

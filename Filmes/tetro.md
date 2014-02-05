@@ -29,4 +29,4 @@ O salão fúnebre do pai deles, envolto pela orquestra e várias pessoas e a foto d
 Ambos, pai e filho, são sensíveis à luz.
 
 
-2010-12-10-tetro.txt                                                                                                      
+

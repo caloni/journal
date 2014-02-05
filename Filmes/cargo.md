@@ -11,4 +11,4 @@ No início desse texto dizia que o filme lembrava Aliens. A própria autópsia do c
 A despeito dos cortes incessantes que repetem a fórmula do suspense durante toda a narrativa, não há na história um senso simples de continuidade, deixando o espectador mais perdido que interessado nos cortes ríspidos de câmera. Cada sub-conclusão é fechada pelo mesmo fade-out, outro recurso repetido à exaustão até à revelação da verdade, onde há uma mudança radical que poderia ser o trampolim para um pouco de ação intelectual.
 
 Infelizmente o final se importa mais em muitas delongas e o batidíssimo artifício do tempo se esgotando. Ainda bem que eventualmente acaba.
-2010-11-01-cargo.txt                                                                                                      
+

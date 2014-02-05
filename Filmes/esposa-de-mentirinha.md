@@ -13,4 +13,4 @@ Com a participação de Jenifer Aniston como sua secretária, é possível comparar o
 Pontos fortes: carisma e interpretação de Jenifer Aniston tornam a experiência toda menos enfadonha.
 
 Pontos fracos: as piadas que apelam para a aparência das pessoas demoram além da conta, dando a sensação que o diretor achou realmente que as piadas eram tão boas que fariam rir por si só.
-2011-03-09-esposa-de-mentirinha.txt                                                                        
+

@@ -25,4 +25,4 @@ Não contente com tamanha falta de originalidade, colocam o senador justamente na
 No final ainda dá indícios (mesmo que cômicos) de ter duas continuações. Tomara que não.
 
 
-2010-10-10-machete.txt                                                                                                  
+

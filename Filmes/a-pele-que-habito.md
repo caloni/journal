@@ -19,4 +19,4 @@ A partir daí acompanhamos o que parece ser, do ponto de vista da câmera, fruto d
 Ao mesmo tempo, a direção não é indiferente aos acontecimentos, e adota como foco não a crueldade dos atos do médico, mas, mais importante, a transformação que está ocorrendo, pois é com essa metamorfose que Almodóvar mais uma vez aborda as dores e injustiças contra a mulher. Na verdade, mais do que isso: transcende o próprio gênero, criando, com isso, um hino contra as injustiças inflingidas contra qualquer ser humano. Por esse ponto de vista, os meios (de contar a história) acabam se justificando para que se alcancem os fins.
 
 Não fica claro se o plano plongée do ato final passa a usar o ponto de vista Divino de fato, se questionando até que ponto os humanos chegariam se não houvesse a ética e a moral. Fica claro, porém, que Almodóvar não está conformado ainda com seu avanço no meio cinematográfico, e essa nova alçada confirma, de forma supreeendente, que um dos maiores cirurgiões do Cinema está de volta à sua boa forma.
-2011-11-18-a-pele-que-habito.txt 
+

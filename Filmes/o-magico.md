@@ -9,4 +9,4 @@ E se nos encantamos com os pequenos e precisos movimentos dos personagens (como 
 Ultrapassados por bandinhas de rock recém-chegadas (como hilariamente demonstrado no número do pseudo-Beatles), os artistas das antigas se vêm enclausurados em palcos obscuros ou até mesmo vitrines de lojas anunciando produtos. É o mundo moderno que dá as costas aos expatriados que antes eram gloriosos e aplaudidos, algo muito parecido com a visão das trigêmeas de Bicicletas.
 
 Mas é injusto comparar a complexidade dos estereótipos criados em Bicicletas com madame Souza, as trigêmeas, o próprio Champion e até o cachorro! Porém, mesmo nos mantendo no universo de O Mágico, do segundo para o terceiro ato vamos perdendo esse deslumbramento e aos poucos perdemos o sentido de estarmos ali assistindo à vida desses personagens, pois já não importa mais. Tudo começa a ficar confuso, pois já não nos interessamos mais pelos personagens que no início nos encantamos. E isso talvez seja, ou não, o reflexo do próprio mágico que as pessoas já não querem mais.
-2010-10-27-o-magico.txt                                                                                                
+

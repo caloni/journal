@@ -11,4 +11,4 @@ Abaixo minhas observações iniciais.
  - Ao mesmo tempo, tenta ser abrangente ao máximo, evidenciando a experiência dos outros países no problema das drogas pela voz das pessoas envolvidas em todos os âmbitos, dos líderes dessas nações até o usuario final, passando pelos criminosos e a força policial envolvida no processo de combate generalizado da cadeia mercadológica.
 
  - Fernando Henrique é visto conversando praticamente com todas essas pessoas, o que ao mesmo tempo que serve de testemunho ao seu engajamento no assunto aos poucos estampa em sua testa o rótulo de, se não especialista, o representante no Brasil por essa causa.
-2011-06-23-quebrando-o-tabu.txt                                                                                
+

@@ -15,4 +15,4 @@ Contudo, não se pode falar o mesmo do roteiro, que manipula a história sem a mes
 O que não se pode dizer do sistema de pistas e recompensas com que o filme sabiamente salpica em torno dessas mesmas cenas.
 
 Dessa forma, podemos dizer que o esforço narrativo sobre o absurdo da história, assim como a eterna batalha entre o bem e o mal, prevalece.
-2012-06-14-encantada.txt 
+

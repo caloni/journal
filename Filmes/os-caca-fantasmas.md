@@ -9,4 +9,4 @@ Mais importante do que os fantasmas, porém, é acreditarmos em um serviço que os 
 Com a participação inspirada de todo o elenco — incluindo aí a "musa" Sigourney Weaver (série Aliens) e o sempre ótimo Rick Moranis (S.O.S. Tem um Maluco Solto no Espaço) — o roteiro escrito por Dan Aykroyd (um dos caça-fantasmas) e Harold Ramis não deixa pontas soltas e privilegia o fortalecimento do grupo e sua inserção no universo nova-iorquino. Um espírito maligo deseja retornar de seu descanso milenar e utiliza o acúmulo de espíritos capturados pelos rapazes para conseguir se materializar. A mitologia antiga é tratada de maneira irreverente — onde até um monstro de marshmallow pode ser assustador — e funciona tão bem. Mesmo os efeitos especiais datados conseguem segurar as sequências de Ivan Reitman facilmente.
 
 Não há essa história de sucesso na época para Ghostbusters. Suas virtudes se mantém mesmo quase 30 anos depois.
-2013-01-24-os-caca-fantasmas.txt                                                                              
+

@@ -13,4 +13,4 @@ Os problemas de Quaid começam quando ele decide realizar um implante e "fingir" 
 Brincando com o próprio conceito cinematográfico de não conhecermos (ou não vermos) o passado dos personagens, mesmo que eles sejam vitais para a história, o roteiro possibilita uma viagem ambígua e inspirada que envolve perseguições e paranóias de espiões. É difícil saber o que é certeza em Marte quando Quaid chega nele. Tanto para ele quanto para nós.
 
 Competente em seu desenvolvimento e empolgante tanto pelas cenas de ação quando pelos efeitos extremamente verossímeis para a época — além dos efeitos de maquiagem que tornam a violência gráfica de Verhoeven um ótimo motivo para revisitar os filmes dos anos 80/90 e suas mortes "de verdade". No entanto, arrebatador em seu ato final, quando percebemos a grandeza dos acontecimentos com nossos próprios olhos. Quer dizer, talvez sim, talvez não. A conclusão fica por conta do espectador.
-2012-11-04-o-vingador-do-futuro-1990.txt                                                              
+

@@ -75,4 +75,4 @@ Os créditos finais ainda são, além de engraçados, também eficientes, pois fecham
 
 Na dança espanhola final, os tradutores ainda usaram uma versão espanhola da canção principal.
 
-2010-06-18-toy-story-3.txt                                                                                          
+

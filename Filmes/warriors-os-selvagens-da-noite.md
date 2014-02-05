@@ -9,4 +9,4 @@ O uso de diálogos que remetem a esse universo (como aquele sobre diplomacia) e o
 Mas repare que não é um filme de interpretações, embora os rostos, as expressões e até o tom de voz colabora com a criação de personas quase estereotipadas, mas que em conjunto funcionam, que é o que importa. Até o despretencioso vilão, sinônimo  do mal encarnado, se torna um ícone e protagoniza a cena que imortalizou o filme no mundo pop e cinematográfico("Warriors, come out to play" é usado ad infinitum por inúmeros filmes, até Strippers Zumbi).
 
 E mesmo com tantos estereótipos e o mergulho no épico a questão social daqueles meninos (e menina) é levantada de forma orgânica e que nos faz questionar, como os próprios garotos fazem, se o destino final deles vale tanto à pena.
-2013-08-02-warriors-os-selvagens-da-noite.txt                                                    
+

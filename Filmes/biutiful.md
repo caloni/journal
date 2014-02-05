@@ -4,4 +4,4 @@ Com um dom em ouvir os mortos logo antes deles passarem dessa pra melhor, ele pr
 
 Com uma fotografia tensa, câmera tremida e um estudo de personagem que poderia ser melhor, Biutiful termina com uma semi-tensão que afoga suas premissas inicias em um semi-marasmo que prejudica sua conclusão; mas seu estilo, nunca.
 
-2011-02-13-biutiful.txt                                                                                                
+

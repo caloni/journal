@@ -9,4 +9,4 @@ A sensação inicial é a de estar acumulando informações sobre três grupos: evento
 Para quem começa e termina o filme tendo essa sensação o final não ajuda muito. O saldo, porém, é positivo. Sabemos que a narrativa é visualmente coesa, com planos que se ligam de maneira elegante e uma direção de arte competente que consegue, com a ajuda da fotografia sempre escura (mesmo em planos à luz do sol), reproduzir o que seria o fim de um jogo de troca de informações que por duas décadas manteve duas potências em regime de guerra não declarada.
 
 É fato que existe algo a ser desvendado na estrutura narrativa do filme. Contudo, como bom cinéfilo, jogo humildemente a toalha e afirmo não ter a mínima ideia do que aconteceu.
-2012-01-17-o-espiao-que-sabia-demais.txt                                                              
+

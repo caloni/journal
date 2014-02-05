@@ -7,4 +7,4 @@ Nessa comédia de humor negro francesa é difícil identificar-se com os protagonis
 Porém, independente disso, é complicado achar a maioria das tiradas engraçadas pelo simples fato que o fenômeno da identificação não ocorre, e, mais prejudicial ainda, pela quase completa falta de timing cômico empregada pelo diretor Florence Quentin, que aparentemente não consegue diferenciar comédia de situação com comédia pastelão, pois mistura cenas de ambas sem qualquer discrepância e ritmo.
 
 Mesmo assim é possível sairmos quase ilesos dessa pequena experiência de comédia de costumes francesa. Talvez o "francesa" da minha descrição tenha algo a ver com minha estranheza.
-2012-03-04-leur-morale-et-la-notre.txt                                                                  
+

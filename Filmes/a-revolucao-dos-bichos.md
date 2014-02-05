@@ -7,4 +7,4 @@ De forma que temos, no exemplo de 99, uma aparente deformação na forma de contar
 Pontos fortes: a adaptação escolhe acertadamente representar algumas coisas visualmente, e outras, dentro de diálogos.
 
 Pontos fracos: o final se intimida em mostrar o lado irônico que Orwell tanto se empenhou em ilustrar na história original.
-2011-04-27-a-revolucao-dos-bichos.txt                                                                    
+

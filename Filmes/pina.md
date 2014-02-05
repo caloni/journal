@@ -14,4 +14,4 @@ Apesar de haver talvez um abuso aqui e ali envolvendo um trem suspenso e não hav
 
 Pontos fortes: coreografia das danças, uso do 3D, fotografia.
 Pontos fracos: pequenos abusos no movimento de câmera, que atrapalha em filmes 3D, e o batido artifício de caminhar "nos trilhos".
-2012-04-04-pina.txt 
+

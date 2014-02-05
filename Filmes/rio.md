@@ -5,4 +5,4 @@ O mesmo não se pode dizer do filme. Rio, se empolga em alguns momentos, possui a
 Pontos fortes: a direção de arte é fabulosa, empregando as cores de uma forma alegre e empolgante.
 
 Pontos fracos: não ocorre aqui a empatia tão comum nos filmes da Pixar; somos vítimas de piadas engraçadinhas.
-2011-04-27-rio.txt                                                                                                          
+

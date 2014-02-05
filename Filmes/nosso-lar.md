@@ -24,4 +24,4 @@ No final do tempo diz-se que passaram-se vários anos, quando na verdade o sentim
 
 O tom de documentário e de apologia ao espiritimos é bem óbvio, não sendo tão forte, talvez, quando o Encouraçado Potenkim de Eisentein, mas, ei, o que é uma religião perto de um movimento político social como o comunismo, não?
 
-2010-09-03-nosso-lar.txt                                                                                              
+

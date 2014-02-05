@@ -16,4 +16,4 @@ Pontos fracos: já tínhamos metade desse filme em sua versão original, de forma q
 
 Cuidado! Existem bandos de crianças de 12 a 18 anos que podem ocupar a sala de projeção e tornar quase insuportável a experiência de assistir um filme como esse, sem trilha sonora nem muitas cenas de ação que os façam parar de falar por pelo menos 10 segundos. É fato que o consumidor final de um produto desses devam ser pessoas que são crédulas a ponto de achar tudo aquilo real. Portanto, caso venha a assistir no cinema, tente achar sessões mais vazias ou cuja idade média passe dos 25.
 
-2011-03-28-atividade-paranormal-em-toquio.txt                                                    
+

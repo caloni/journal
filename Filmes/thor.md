@@ -14,4 +14,4 @@ As tomadas abertas, por fim, acabam comprovando que os efeitos visuais do filme 
 
 Pontos Fortes: Efeitos visuais.
 Pontos Fracos: Atuações, história, design de arte.
-2012-04-02-thor.txt                                                                                                        
+

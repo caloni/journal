@@ -4,4 +4,4 @@ Com paisagens largas e esbeltas, a fotografia sempre impressiona pela limpeza da
 
 E a cena da escadaria é, além de uma homenagem a Eiseinsten, outra belíssima cena.
 
-2010-11-20-os-intocaveis.txt                                                                                      
+

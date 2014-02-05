@@ -25,4 +25,4 @@ Epílogo
 Não é fácil se separar de personagens que acompanhamos de longa data. Para os mais jovens, então, o impacto do desprendimento deve ser tão grande quanto a perda real de um ente querido. Não acredito que o universo de Harry Potter fique esquecido por muito tempo. Porém, até aqui, foi muito frutífero para o cinema.
 
 A ideia de um epílogo já existia no livro original, e no filme ficou com a impressão não muito discreta da possibilidade de novas histórias baseadas em uma suposta segunda geração. Mesmo não sendo uma promessa, há o apelo comercial, e se vier, não terá sido uma má ideia. Quando se cria um universo tão rico como esse, a sensação que fica é a de que a mágica desse mundo nunca pode acabar.
-2011-07-22-harry-potter-e-as-reliquias-da-morte-parte-2.txt                        
+

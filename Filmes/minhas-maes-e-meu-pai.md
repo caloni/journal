@@ -15,4 +15,4 @@ O que tristemente constatamos é que o roteiro prefere usar sua única premissa-tí
 Pontos fortes: Annette Bening continua em boa forma, enquanto Julianne Moore se diferencia completamente de sua posição determinante em Ensaio Sobre a Cegueira. Mark Ruffalo também está muito convincente no papel de garanhão descompromissado.
 
 Pontos fracos: Apesar de ser um colírio para os olhos, Mia Wasikowska não consegue evoluir seu personagem.
-2011-06-08-minhas-maes-e-meu-pai.txt                                                                      
+

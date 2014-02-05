@@ -1,4 +1,4 @@
-2011-09-11
+
 
 Estreia de Gustavo Taretto na direção de longas, Medianeras inicia já com uma proposta criativa e que funciona muito bem: com dois narradores em off, temos a impressão de assistir a dois filmes interlaçados que aos poucos se aproximam, o que por si só já revela muito sobre as ideias por trás da história. 
 
@@ -11,7 +11,7 @@ E ainda que a história gire em torno do casal interesse romântico, em muitos mom
 É curioso que o filme consiga transmitir a empatia dos dois personagens, o que nos faz gostar deles como um casal antes mesmo que eles se encontrem (e a torcida para que isso ocorra parece aumentar a cada "encontro casual"). Também é significativo que, enquanto pouco falam, suas descrições soam quase sempre poéticas (como a visão romântica das medianeras como parte de nossa personalidade que preferimos esconder).
 
 
-2013-12-30
+
 
 Assistindo pela segunda vez (agora na Netflix) por esta estreia do diretor Gustavo Taretto duas coisas ficam mais claras: 1) é um filme fofo, casual e bem amarrado; 2) é um filme óbvio, descritivo à exaustão. Não me senti tão incomodado na primeira vez de ter que ouvir as descrições repetitivas de como a cidade é caótica, de como a internet nos tornou mais distantes, de como o planejamento das grandes cidades está cada vez mais nos espremendo em uma vida sem sentido, blá-blá-blá, etc.
 

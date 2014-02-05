@@ -1,6 +1,6 @@
 <a href="http://www.flickr.com/photos/caloni/11647480764/" title="O Pequeno Nicolau (4) por caloni, no Flickr"><img src="http://farm4.staticflickr.com/3808/11647480764_ba768593e4_o.jpg" alt="O Pequeno Nicolau (4)"></a>
 
-2010-06-02
+
 Anotações sobre O Pequeno Nicolau
 
 Uma sala de aula clássica com mesas antigas, quadro-negro amplo e uma cor de sujeira, porém com ar impecável.
@@ -52,7 +52,7 @@ Na segunda cena dele com a menina, há um pouco mais de preparo no sorriso que el
 Para terminar, o roteiro mais uma vez ingenuamente junta a ponta de onde ele inicia a narrativa, o tema da redação que a professora havia escrito no começo.
 
 
-2013-12-29
+
 
 Taí um filme que confia quase que 100% na identificação do público com uma infância lúdica da escola. Confia tanto que o mais impressionante de todo o filme é a direção de arte completamente voltada para o universo de Nicolau (e seu reduzido tamanho, como diz no título), assim como uma escolha de elenco feita a dedo e que provavelmente tomou mais tempo da produção do que as próprias filmagens.
 

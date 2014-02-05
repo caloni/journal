@@ -9,4 +9,4 @@ O que é uma pena, pois a intenção é muito louvável, pois graças ao sempre atrapa
 Com uma série de homenagens (algumas sutis) que não poderiam faltar aos filmes do gênero (em especial, Cassino Royale e o antigo A Pantera Cor de Rosa), os efeitos visuais possuem suas limitações óbvias, mas são compensados pela sua criatividade, que funciona, por exemplo, na perseguição de navio, mas que soa artificial na cadeira de rodas.
 
 O importante aqui é evitar se levar a sério demais, coisa que o diretor Parker consegue em um certo nível, mas que infelizmente sabota o pouco inspirado roteiro.
-2011-11-13-o-retorno-de-johnny-english.txt                                                          
+

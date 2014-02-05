@@ -1,4 +1,4 @@
-2010-12-20-mic-macs-um-plano-complicado.txt                          
+
 
 A fotografia desde o começo vira personagem. No funeral do pai de Bazil temos um tom austero, assim como nos QGs de ambas as fabricantes de armamentos. Na morada da nova família dele temos cores saturadas que nos lembra um sonho.
 
@@ -48,7 +48,7 @@ Mas é o ritmo certo do filme que nos traz tantas surpresas, pois coloca cada rev
                               
 
 
-2012-06-04-micmacs-um-plano-complicado.txt 
+
 
 Micmacs à tire-larigot. França, 2009. Direção: Jean-Pierre Jeunet. Roteiro: Jean-Pierre Jeunet (cenário), Guillaume Laurant (cenário e diálogos). Elenco: Dany Boon, André Dussollier e Nicolas Marié.
 

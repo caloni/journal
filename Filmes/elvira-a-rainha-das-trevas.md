@@ -4,7 +4,7 @@ _Elvira - A Rainha das Trevas (Elvira: Mistress of the Dark). EUA, 1988. Direção
 
 <a href="http://www.flickr.com/photos/caloni/10818184384/" title="Elvira - A Rainha das Trevas por caloni, no Flickr"><img src="http://farm8.staticflickr.com/7305/10818184384_f1472529e4_o.jpg" alt="Elvira - A Rainha das Trevas"></a>
 
-2013-11-08
+
 Gabriela censura livre versão dark
 
 Aquela comédia sessão da tarde, leve e despretensiosa, que consegue ser digerida passo-a-passo sem maiores problemas. Esse modo inofensivo de Elvira é provavelmente seu ponto mais fraco.

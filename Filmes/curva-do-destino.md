@@ -9,4 +9,4 @@ Como um dos primeiros filmes noir, a experiência de Detour é intensa dentro de u
 Usando de alguns movimentos atípicos, como quando a câmera passeia pelo quarto da mulher após ser acidentalmente assassinada, o foco é usado para dar um efeito de perdido ao mesmo tempo em que observa as provas espalhadas pelo quarto. A situação vai se complicando aos poucos, até chegarmos no beco sem saída que a vida desse homem simples que não tinha nada de errado começar a desmoronar. Vemos isso com uma grande empatia pelo sujeito, que é um simples mortal sendo levado pela enxurrada de acontecimentos.
 
 Poderia acontecer com qualquer um.
-2010-10-13-curva-do-destino.txt                                                                                
+

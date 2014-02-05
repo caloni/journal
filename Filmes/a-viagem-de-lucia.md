@@ -7,4 +7,4 @@ Ao estabelecer as mudanças de atitude de Lúcia através das cores de sua roupa e 
 E a direção, por sua vez, ainda que consiga usar os planos-detalhe de ambas quando estão juntas para representar a intimidade crescente (em detrimento do marido), por vezes o ritmo da história cai para o contemplativo sem razão alguma a não ser ocupar minutos necessários para o filme se transforme em um longa, e por mais que a paisagem seja belíssima, em nada corresponde ao desenvolvimento de ambas as personagens. (Melhor se sai ao focar seus respectivos namorado e marido pós-reviravolta, com o uso de ambientes escuros e ângulos baixos.)
 
 Enfim, um filme que valoriza as atuações não-tão-inspiradas das desconhecidas (para mim) Sancra Ceccarelli e Francesca Inaudi, e que ao mesmo tempo não acrescenta muito como experiência cinematográfica. Seguindo adiante.
-2011-09-07-a-viagem-de-lucia.txt                                                                              
+

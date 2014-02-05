@@ -11,4 +11,4 @@ Esse casal, com suas idas e vindas, ainda assim parece ter algo a mais do que o 
 Aqui como em Árvore o uso dos sons, da música e principalmente da luz é vital para compreendermos o que se passa. Os atores são meros objetos em cena, ainda que em algum momento esses objetos exprimam alguma emoção significativa em meio a tanta repetição.
 
 Não é difícil contemplar as obras de Mallick. A não ser que você precise racionalizar isso de alguma forma.
-2013-08-01-amor-pleno.txt                                                                                            
+

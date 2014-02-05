@@ -10,4 +10,4 @@ Sem revelar spoilers fica difícil falar sobre a trama, mas podemos dizer que a r
 
 Pontos fortes: direção, roteiro, trilha sonora, atuações, fotografia.
 Pontos fracos: praticamente nenhum.
-2012-04-02-insonia.txt                                                                                                  
+

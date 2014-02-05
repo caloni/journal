@@ -23,4 +23,4 @@ Infelizmente aqui não existe um perigo tão real como a possibilidade de um confl
 E muito embora a visão idealizada de um hacker esteja bem distante da realidade, isso no fundo não importa. Apenas a versão romantizada e inserida em nossas ruas, prédios e sistemas telefônicos é o suficiente para que tenhamos o gostinho de sermos vigiados por pessoas invisíveis. São as pessoas virtuais da nova era.
 
 E que possuem um nickname.
-2011-11-19-hackers.txt                                                                                                  
+

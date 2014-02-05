@@ -9,4 +9,4 @@ Não é preciso comentar que ambos os atores são talentosos o suficiente para traz
 Exatamente por causa disso, a direção de Joel Schumacher (Batman Eternamente) erra a mão ao não tornar o encontro entre esses dois em algo intimista. A visão geral é que pessoas bizarras existem, e não são exatamente ou apenas drag queens. Talvez seja até o oposto.
 
 Nesse sentido, talvez valha a pena uma revisita a este filme daqui uns anos.
-2013-07-14-ninguem-e-perfeito.txt                                                                            
+

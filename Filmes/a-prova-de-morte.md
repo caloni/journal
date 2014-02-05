@@ -50,4 +50,4 @@ São escolhidos sempre os melhores ângulos dos carros para dar movimento à cena. 
 
 Há surpresa em cada cena, por mais previsível que seja, como na batida final entre os carros, e no final, que liga as duas pontas (início da primeira parte homenageando os filmes lado B).
 
-2010-07-16-a-prova-de-morte.txt                                                                                
+

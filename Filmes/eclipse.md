@@ -9,4 +9,4 @@ O que distingue esse terceiro capítulo dos dois anteriores, além de efeitos digi
 E quando digo "um pelo outro" incluo aqui também os sentimentos do lobisomem descamisado Jacob, que deixam de ser completamente platônicos, em relação a Bella. O triângulo finalmente se completa em uma inspirada cena em uma barraca gelada, quando Edward finalmente confessa que seria capaz gostar de Jacob. Os diálogos, como sempre, são bem atrapalhados, mas note o olhar dos dois rapazes e entenderá a mensagem muito melhor. Olhe em seus lábios e... bem, deixo o resto das conclusões para um próximo encontro do casal/trio no alto de uma montanha, quando precisarem armar novamente a barraca e se proteger da intolerância e do preconceito lá fora.
 
 Começo a achar agradável a tragicomédia que aqui se configura.
-2012-10-21-eclipse.txt 
+

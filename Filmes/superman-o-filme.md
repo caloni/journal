@@ -4,7 +4,7 @@ _Superman: O Filme (Superman). Reino Unido, 1978. Director: Richard Donner. Writ
 
 <a href="http://www.flickr.com/photos/caloni/10977327653/" title="Superman - O Filme (4) por caloni, no Flickr"><img src="http://farm8.staticflickr.com/7297/10977327653_d66c5ee6b4_o.jpg" alt="Superman - O Filme (4)"></a>
 
-2010-08-12
+
 Um clássico de filmes de super-heróis muito antes dos grandes efeitos digitais
 
 Cercado de evocações épicas em seus quadros, no tom solene da partida de Krypton (protagonizada por ninguém menos que Marlon Brando) e até mesmo na fotografia dos diversos ambientes em que vemos o personagem-título, o fato é que "Superman — O Filme" funciona bem exatamente por tudo isso junto, ainda alidado às convincentes interpretações dos personagens, uniformes em suas representações do mundo fantasioso vivido pelo homem de aço, que estranhamente não soa piegas ou exagerado, mas possui o tom cartunesco corretíssimo para manter a lenda e ao mesmo tempo não se levar a sério demais.
@@ -15,7 +15,7 @@ Como seu vilão, o igualmente equilibrado (ou deveria dizer desequilibrado?) Lex 
 
 A solução do conflito toma um contorno totalmente diferente do imaginado, o que é ótimo. Os sentimentos de Superman são pessoais, mas indiretamente ele acaba por firmar um pacto com os seres humanos e o seu destino. Uma bela mensagem de esperança sem soar religioso ou filosófico demais. No entanto, há algo de divino na interpretação de Reeve que ecoará para sempre na figura do carismático personagem.
 
-2013-11-21
+
 O épico do homem com cueca por cima das calças
 
 Eu concordaria com qualquer pessoa que dissesse que "Superman - O Filme" é um filme complicado de se defender. Esse momento em que os efeitos visuais mais vistosos combatem entre si (e tão somente os efeitos) definitivamente não é a época para humor cartunesco, romantismo e um clima épico em torno de um ser que veste suas cuecas por cima das calças.

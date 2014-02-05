@@ -18,4 +18,4 @@ Embora com algumas piadas pontuais que fazem rir muito (ela com cara de brava ou
 
 Como se não bastasse, o fato de toda a vizinhança começar a tentar matá-los torna-se repetitivo depois de certo ponto, até isso perdendo o interesse.
 
-2010-08-27-par-perfeito.txt                                                                                        
+

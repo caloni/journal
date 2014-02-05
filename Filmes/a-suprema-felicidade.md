@@ -15,4 +15,4 @@ Igualmente interessante é perceber como na época pouco existia a noção do politi
 Dessa formaPorém, mesmo a história principal, do casal apaixonado que forma uma família e se deixa aprisionar com o passar dos anos na armadilha da rotina, não vendo nunca seus sonhos serem realizados, é charmosa até um certo ponto. Porém, logo decai para a repetição e o clichê, sem nunca vermos uma conclusão do pensamento, apenas pretenciosamente sendo transferida essa responsabilidade para o filho do casal.
 
 Mesmo com todos seus defeitos narrativos, A Suprema Felicidade poderia muito bem ter sido uma Baarìa nacional, representando no Rio de Janeiro o coração de todos os habitantes do Brasil. Infelizmente, para Jabor, nada restou para unir suas pontas, e a rima final de Tornatore faz a falta merecida em uma conclusão que desmerece em muito todas as belíssimas construções artísticas que vimos durante a projeção.
-2010-10-29-a-suprema-felicidade.txt                                                                        
+

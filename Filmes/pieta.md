@@ -15,4 +15,4 @@ Esse choque de realidades é o ponto forte do primeiro ato, e a identificação pel
 Ao chegarmos no ponto de virada da história, igualmente impactante, a narrativa esmoece um pouco. Problemas na estrutura enfraquecem os acontecimentos logo após a nossa descoberta principal, mas enquanto tentamos captar o significado do que está na tela muita informação parece ser jogada na nossa frente apenas para que não percebamos os próximos movimentos. É uma pena que início e conclusão possuam um encaixe irregular, pois as qualidades da história até então parecem ter encontrado o seu ápice minutos antes do seu desfecho, indicando que estamos assistindo uma obra de quem sabe o que está fazendo.
 
 Kim Ki-duk continua sendo um dos meus diretores favoritos. Por mais que às vezes peque na economia narrativa, um filme irregular dele é dezenas de vezes melhor que a média "do mercado".
-2013-03-19-pieta.txt                                                                                                      
+

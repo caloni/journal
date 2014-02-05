@@ -20,4 +20,4 @@ Fora isso, do começo ao fim do filme todos os membros dos Mercenários parecem lu
 
 A violência gratuita é tamanho que chega a parecer que estamos vendo um filme do Mel Gibson.
 
-2010-08-13-os-mercenarios.txt                                                                                    
+

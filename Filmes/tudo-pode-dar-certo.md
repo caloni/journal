@@ -19,4 +19,4 @@ O paralelo crenças x razão é muito bem exemplificado na cena em que a mãe da men
 Allen continua obviamente ainda obcecado pelo tema caos e sorte, lançando-se em uma outra perspectiva do que seria essa tal sorte, mas de maneira cômica, diferente do dramático e tenso, e excelente, Match Point.
 
 Infelizmente é difícil ter melhor discernimento do tema diante de uma comédia, mas percebe-se através das piadas explícitas sobre o conhecimento que temos da condição caótica do Universo.
-2010-04-30-tudo-pode-dar-certo.txt                                                                          
+

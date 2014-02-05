@@ -1,6 +1,6 @@
 <a href="http://www.flickr.com/photos/caloni/11647485864/" title="Frances Ha (3) por caloni, no Flickr"><img src="http://farm6.staticflickr.com/5543/11647485864_2267ca45e6_o.jpg" alt="Frances Ha (3)"></a>
 
-2013-12-29
+
 
 Nunca vi um filme tão alto astral com uma personagem tão... errada. E fascinante. O mundo de Frances é medíocre. Ela é uma dançarina (ou gostaria de ser) e como todo artista que se preza, tenta viver em Nova Iorque. Porém, como sua amiga bem observa, só um artista rico para se manter próximo da Broadway. Acompanhamos, então, suas vissicitudes, inicialmente com sua melhor amiga, que parece ser a única que lhe resta. Ela é "inamorável", como um amigo costuma dizer. Pegamos partes de sua personalidade de seu convívio com as pessoas.
 

@@ -13,4 +13,4 @@ Porém, e aí entra a genialidade de Sorín, essa "vida normal" que vemos é exposta
 E diferente de um filme recente que vi (o péssimo Roubando Vidas), onde o óbvio chega a ser uma ofensa ao espectador, nesse caso sabemos que muitos elementos do longa são previsíveis, mas entramos de tal forma na atmosfera paranóica da esposa que um simples saco de lixo pode se transformar de uma hora pra outra em algo mais. Isso funciona tão bem porque, assim como ela, nós também temos nossas dúvidas sobre a sanidade de Luis.
 
 Mantendo o controle absoluto da história, a conclusão tensa enriquece novamente toda a experiência, pois detalhes menos importantes passam a corresponder ao nosso entendimento (como as férias para o Brasil). E isso faz toda a diferença em uma história de qualidade.
-2011-10-24-o-desaparecimento-do-gato.txt                                                              
+

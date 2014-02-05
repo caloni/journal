@@ -17,4 +17,4 @@ Apostando na intimidade dos personagens (assim como Lost in Translation) o filme
 Temos mais uma transposição de "vidas" quando o protagonista visita os tios da menina, que vivem em uma região tão paradisíaca quanto a criada pelos usuários do Second Life e que eles ficam quando querem relaxar. Note que a mesma luz é usada em ambos os ambientes.
 
 Além da primeira pessoa outro artifício é a perda de foco, para duas funções: acordando e timidez.
-2010-11-01-vc-ta-ai.txt                                                                                                
+

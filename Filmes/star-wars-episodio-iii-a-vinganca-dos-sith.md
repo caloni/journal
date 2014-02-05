@@ -11,4 +11,4 @@ Apostando em movimentos de câmera mais intensos, mesmo em simples diálogos, como
 Com uma conclusão que infelizmente exclui o público mais infantil, ao escancarar a própria materialização do mal, o diretor decide por uma aceleração dos eventos, mas mesmo assim não perde as rédeas de sua narrativa, que consegue fechar todas as pontas de maneira primordial.
 
 E se, por fim, a maioria do filme prever o final não-feliz é uma atitude corajosa, a decisão de colocar o destino dos filhos de Anakin em foco nas últimas cenas é admirável, pois consegue sucintamente anunciar a vinda de uma nova trilogia que, aí sim, elevará Star Wars na categoria das melhores histórias de aventura espacial já contada de todos os tempos.
-2011-06-12-star-wars-episodio-iii-a-vinganca-dos-sith.txt                            
+

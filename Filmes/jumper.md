@@ -11,4 +11,4 @@ Sem contar a falta de imaginação, pois os dramas dos dois únicos Jumpers vistos 
 Pontos fortes: a montagem é envolvente e inovadora, dadas as características da história, e temos portanto diversas cenas de ação extremamente efetivas.
 
 Pontos fracos: toda essa ação, contudo, está recheada de uma história insossa, que nos fazer bocejar enquanto o protagonista viaja pelos lugares mais distantes em um piscar de olhos.
-2011-04-27-jumper.txt                                                                                                    
+

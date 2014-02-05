@@ -13,4 +13,4 @@ No campo das boas ideias, uma delas é quando Andrew começa a controlar sua câmer
 Eu diria um pouco mais: a presença da câmera na vida de Andrew é uma ideia tão poderosa que começou a delinear algo que seria próximo de um vilão da vida real com marca registrada. Pena que suas motivações estejam longe do peso dramático necessário.
 
 É triste, portanto, constatar que essa mistura realidade/ficção perde mais nas tentativas de construir narrativas mais fáceis para o espectador comum acompanhar a história. Cria também a sensação que a tendência dos falsos documentários começa a caminhar em direção a um novo patamar: os falsos documentários que também são falsos.
-2012-03-14-poder-sem-limites.txt                                                                              
+

@@ -7,4 +7,4 @@ Filmado com um orçamento apertado, mas empenhado na construção da tensão e do im
 Aliás, Romero aqui já cria uma fascinante simbologia em cima da figura dos mortos-vivos: quem, realmente, é o vivo e quem é o morto? Quem possui um objetivo bem definido em sua rota (caçar e comer carne humana) e quem está perdido, desesperançoso e desunido como um grupo? Seria um humano desses um ser vivo completo ou mais carne humana para ser atingida pelo ódio coletivo?
 
 Conseguiremos sobreviver aos zumbis da vida real? Romero, desde o começo, é atual.
-2012-05-07-a-noite-dos-mortos-vivos-1968.txt                                                      
+

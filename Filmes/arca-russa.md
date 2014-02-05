@@ -11,4 +11,4 @@ Atrevo-me, até, a tentar ver mais vezes esse delírio cinematográfico contado em 
 Pontos fortes: a técnica usada, além de orgânica, é uma obra de arte por si só, pois consegue unir sequências gigantescas com ritmo e perfeição.
 
 Pontos fracos: é difícil acompanhar uma história cheia de pausas momentâneas no movimento da câmera e diálogos sem sentido.
-2011-03-28-arca-russa.txt                                                                                            
+

@@ -39,4 +39,4 @@ Se a confecção das cenas é competente, o mesmo não se pode dizer de alguns efeit
 É fato que a transformação da personagem em uma pessoa acuada para uma pessoa auto-confiante é gradual e mostrada em um ritmo que conseguimos entender essa mudança, mas é fato também que, sem a ajuda da atriz na composição, não seria possível termos essa visão final da top model e ainda assim termos empatia pela sua história e pelo seu jeito de ser original.
 
 É interessante como eles sempre colocam a câmera em ângulo baixo quando mostram a fachada do prédio da ONU e suas quinhentas mil bandeiras, dando um ar digno em uma entidade que já perdeu muito de sua moral durante a guerra do Iraque, entre outras questões polêmicas atuais.
-2010-06-25-flor-do-deserto.txt                                                                                  
+

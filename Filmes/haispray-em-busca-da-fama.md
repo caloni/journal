@@ -9,4 +9,4 @@ Ao empolgar pelas performances saudosas e vigorosas de personagens vindos de um 
 Não sei se é a figura ingênua encarnada por Nikki Blonsky que não consegue transmitir a emoção real da adolescência da época, ou até mesmo do original dos anos 80. Tudo é muito teatral. Isso não costuma ser ruim em filmes como A Noviça Rebelde, que virou um clássico exatamente por conseguir transpor facilmente a realidade e a ilusão. Porém, aqui tudo é muito difícil de engolir. Aqui a velha crítica das pessoas que os musicais são chatos porque as pessoas saem de qualquer lugar e começam a cantar e a dançar faz sentido. Até a figura de Queen Latifah como a idealista Motormouth Maybelle é excessiva e desmeresse a dramática luta para a aceitação do negro na sociedade americana da década de 60.
 
 Se há algo que conseguimos tirar de hairspray, são ótimas danças com sentimentos mistos de magia e decepção. A viagem para os anos 60 ficou incompleta nesse caso.
-2012-05-14-haispray-em-busca-da-fama.txt                                                              
+

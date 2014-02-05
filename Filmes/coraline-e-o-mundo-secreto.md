@@ -11,4 +11,4 @@ Em um ambiente nada infantil, com uma fotografia acizentada e triste, e um clima
 Elementos recriados no mundo real (como um porta-retratos no formato e grilo) viram elementos fantasiosos no segundo. Ângulos forçados, em plongé ou contra, aumentam o tom fantasioso da história e a aparente desconexão entre os mundos. Aos poucos torna-se evidente que é muito difícil recomendar esse filme para crianças muito jovens, pois ele se torna assustador em determinados momentos.
 
 De qualquer forma, a moral implícita na história é válida independente da idade. Uma obra que merece a atenção de todos, criança ou não: sinais tanto de um bom livro quanto de um bom filme.
-2011-11-29-coraline-e-o-mundo-secreto.txt                                                            
+

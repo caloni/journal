@@ -13,4 +13,4 @@ O que ocorre em seguida é resultado de um tratamento realista, mas fictício o su
 De qualquer forma, o que nos segura nas cadeiras ainda é a certeza de que essas pessoas passaram muito próximo do que é retratado na tela, e que por isso mesmo sua história é digna de ser mostrada com grandiosidade e até com um certo tom teatral. Não que isso seja ruim. Tanto que um dos momentos mais sublimes do longa envolvendo story boards não é apenas realista, mas visceral e surreal ao mesmo tempo. Da mesma forma, um enquadramento que focalize Tony Mendes e carros de polícia mereceria entrar para a história do Cinema como uma construção de fuga tão bem planejada como foi a da vida real.
 
 Nesse momento, a arte se torna maior que a vida. E o que é mais irônico: graças à vida.
-2012-11-18-argo.txt                                                                                                        
+

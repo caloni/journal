@@ -4,4 +4,4 @@ Uma profunda introspecção na luta entre os dois povos, árabes e judeus, sob o ân
 
 Não há final feliz.
 
-2011-12-20-munique.txt                                                                                                  
+

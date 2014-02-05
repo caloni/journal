@@ -7,4 +7,4 @@ Retratando o período desde a invasão de Berlim pelo exército russo até a rendiçã
 Quase ignorando o lado do inimigo vencedor, o filme se foca principalmente nas pessoas, civis ou não, que estão testemunhando os últimos momentos de uma política militar que, segundo seu próprio delírio, existiria para sempre, ou mais, seria a única maneira decente de viver para o povo germânico.
 
 Dentro dessa ótica surreal é possível entender a desilusão nos olhos das crianças, e a crença inesgotável das pessoas na fé de seu líder, inabalável até o último segundo, mérito incontestável de Bruno Ganz, que aqui constrói um Hitler renascido das cinzas e do deboche de toda uma geração que abominou o saldo horrorizante da Segunda Grande Guerra.
-2011-06-12-a-queda-as-ultimas-horas-de-hitler.txt                                            
+

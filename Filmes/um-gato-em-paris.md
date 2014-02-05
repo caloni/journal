@@ -11,4 +11,4 @@ Além disso, o filme conta com um bando de gângsters que conseguem divertir na me
 Pontos fortes: o uso sempre comunicativo das cores consegue nos envolver mesmo sem muitos diálogos, e a sequência na casa sem luz é uma das maiores provas disso.
 
 Pontos fracos: a versão brasileira das dublagens não é uniforme e consegue estragar muitas das cenas apenas pelas falas. Um pecadilho, no entanto, se considerarmos que é um filme, sim, que o público infantil pode participar.
-2011-06-12-um-gato-em-paris.txt                                                                                
+

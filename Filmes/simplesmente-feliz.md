@@ -7,4 +7,4 @@ Aparentemente, a ideia do longa era passar o valor de toda essa felicidade atrav
 Pontos fortes: um trabalho interessante de direção, que maneja a câmera sem parecer invasivo demais, mas que constrói um ritmo agradável apenas com elegantes transições de cena.
 
 Ponto fraco: um filme que poderia apresentar algum argumento mais enfático para sua premissão de felicidade e otimismo acaba como um exercício narrativo que se fecha em si mesmo.
-2011-02-20-simplesmente-feliz.txt                                                                            
+

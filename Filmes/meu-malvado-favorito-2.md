@@ -7,4 +7,4 @@ Apesar de suas fraquezas expostas por uma trama simplista, Meu Malvado Favorito 
 Com cortes elegantes entre inesgotáveis cenas de ação e piadas que criam uma surpresa fluidez inexistente no filme original, a história de Gru, antes um vilão e agora o pai adotivo das três órfãs do filme anterior, evolui agora para um "espião consultor" do bem que tenta descobrir o autor de um crime megalomaníaco envolvendo uma substância que altera radicalmente o comportamento de criaturas antes inofensivas.
 
 Há muito para se divertir na segunda aventura para podermos nos preocupar em demasiado com alguns elementos inseridos em demasia, como a insistência da parceira de Gru em parecer legal e as incontáveis situações em que a adorável Agnes nos faz chorar sem querer.
-2013-07-09-meu-malvado-favorito-2.txt                                                                    
+

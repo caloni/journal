@@ -46,4 +46,4 @@ A única complexidade interessante é a coexistência de uma versão anterior de si 
 
 Construções dinâmicas dos transportes em 3D é totalmente diferente e estilizado.
 
-2010-12-17-tron-o-legado.txt                                                                                      
+

@@ -11,4 +11,4 @@ Porém, diferente dos trabalhos anteriores do diretor/roteirista que analisam ess
 Sokurov encanta por sua simplicidade, embora às vezes apenas isso não baste para nossos olhos ansiosos.
 
 O evento Retrospectiva Alexander Sokurov vai de 22 de maio a 16 de junho de 2013 no CCBB SP.
-2013-05-23-alexandra.txt                                                                                              
+

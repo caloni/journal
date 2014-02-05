@@ -15,4 +15,4 @@ Porém, não é só a ditadura que é vítima de escracho. Estamos na América a maior 
 Não que o filme seja pró-Estado, muito pelo contrário. Melhor do que isso, as situações na maioria das vezes fazem pensar e refletir como alguns conceitos tão enraizados em nossa cabeça, como a visão dos EUA como o símbolo mágico de liberdade, consegue aos poucos ir se desfazendo pela força do ridículo e chegar ao ponto máximo de um discurso irretocável no terceiro ato, digno de extrair lágrimas no meio dos risos.
 
 É esse tipo de detalhe que consegue fazer valer a pena ignorar as bobagens e cenas descartáveis do filme. E é esse tipo de comédia que faz valer a pena sempre revisitar os personagens estereotipados e extremizados que Cohen consegue como ninguém apresentar em seu pequeno universo.
-2012-09-06-o-ditador.txt                                                                                              
+

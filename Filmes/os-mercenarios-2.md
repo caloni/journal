@@ -9,4 +9,4 @@ A história começa com um resgate genérico de um bilionário asiático, mas se tran
 O que vimos é uma sucessão de mais do mesmo de Mercenários, só que melhor orquestrado. Há sequências de ação realmente eficientes, como a introdutória. É uma pena que se torna algo blasé justamente quando o filme resolve homenagear aqueles ícones com sequências onde pequenos mitos guerreiam e lutam juntos. De qualquer forma, fica o gostinho de reassistir aos clássicos onde essa galera fazia o que havia de melhor e com o bônus de um roteiro melhor qualificado (algumas vezes).
 
 Podem falar o que quiser do novo filme do Stallone, mas não podem negar o óbvio: a aposta de juntar o maior número possível de peças de musel de filmes de ação de décadas passadas parece estar ganha. Quer dizer, pelo menos até Mercenários 3.
-2012-09-03-os-mercenarios-2.txt                                                                                
+

@@ -4,4 +4,4 @@ Logo no segundo encontro do casal já temos uma trilha sonora forçada que tenta n
 
 Assim como a divisão da tela em duas mostrando dois momentos distintos da vivência deles antes de se separarem fisicamente. Há alguma interpretação nisso com pequenos gestcos de carinhos que se aproximam mais, e o casal não apenas beija, mas se toca, se abraça, etc. Com isso já podemos afirmar que o filme tenta se estabelecer como um romance-comédia, mas peca pela comédia ser muito ruim, com piadas e personagens coadjuvantes fracos.
 
-2010-09-10-amor-a-distancia.txt                                                                                
+

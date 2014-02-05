@@ -28,4 +28,4 @@ A ação está na mente de quem assiste, como num toque realista (ela com a mão den
 
 E, finalmente livre, ele consegue chegar no rio, onde sua amada o espera, e lá padece; o último corte chega a ser poético, pois foca, mas bem de leve, a borboleta de outra cena subindo no céu.
 
-2010-11-19-um-homem-misterioso.txt                                                                          
+

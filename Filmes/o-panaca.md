@@ -4,7 +4,7 @@ _O Panaca (The Jerk). EUA, 1979. Direção: Carl Reiner. Roteiro: Steve Martin, Ca
 
 <a href="http://www.flickr.com/photos/caloni/11100328174/" title="O Panaca por caloni, no Flickr"><img src="http://farm8.staticflickr.com/7367/11100328174_aca5a404e2_o.jpg" alt="O Panaca"></a>
 
-2013-11-27
+
 O idiota como alvo da sociedade
 
 Uma comédia pode fazer rir pelo absurdo de suas situações e/ou personagens, como bem lembramos de Debi e Lóide. No entanto, a comédia estrelada por Jim Carrey está longe de ser a precursora dessa ideias do personagem idiota. Há algo muito mais essencial, didático e até filosófico nO Panaca de Steve Martin.

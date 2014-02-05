@@ -9,4 +9,4 @@ Esse é apenas um exemplo da capacidade aparentemente sem limites para a fluidez 
 Não importa as piadas potencialmente ofensivas que Driss dispara contra Philippe, já que sabemos que ele não o faz por mal e, se o fizesse, aí sim o filme seria um desastre. Porém, é exatamente pela ingenuidade ou vivença de Driss que entendemos sua posição diante dos caprichos de uma vida suntuosa mas trágica. Da mesma forma, o bom humor constante de François Cluzet nos traz um Philippe que já se acostumou ao seu estado de dependência, não sendo este o maior problema. Sua curva de aprendizado será em outro setor, bem mais delicado e igualmente satisfatório na narrativa.
 
 Intocáveis poderia ser um desastre completo em outras mãos. Porém, com o roteiro, direção e atuação das três duplas de profissionais se transforma em um exercício hábil e convincente dos desejos humanos.
-2012-09-03-intocaveis.txt                                                                                            
+

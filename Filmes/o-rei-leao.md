@@ -4,7 +4,7 @@ Elenco original: Matthew Broderick (Simba Adulto), Niketa Calame (Jovem Nala), J
 
 Elenco brasileiro: Garcia Júnior (Simba Adulto), Patrick de Oliveira (Simba criança), Jorgeh Ramos (Scar), Carla Pompilho (Nala), Paulo Flores (Mufasa), Mauro Ramos (Pumba), Pedro Lopes (Timão), Pádua Moreira (Zazu).
 
-2011-09-05-o-rei-leao.txt                                                                                            
+
 
 Acabei de voltar da sessão 3D (leia-se: mutilada) do clássico dos clássicos da Disney, mas ainda me custa a entender por que esse desenho, em detrimento de tantas produções mais criativas, é tão supervalorizado pelas plateias.
 
@@ -19,7 +19,7 @@ Porém, ainda que tenham passados meros 17 anos de sua estreia (pouco para se tra
 Mas quem sou eu para criticar um filme tão bem feito e tão amado por crianças e adultos de todas as idades.
 
 
-2012-12-25-o-rei-leao
+
 The Lion King. EUA, 1994. Direção: Roger Allers e Rob Minkoff. Roteiro: Irene Mecchi, Jonathan Roberts e Linda Woolverton.
 
 Elenco original: Matthew Broderick (Simba Adulto), Niketa Calame (Jovem Nala), Jim Cummings (Ed), James Earl Jones (Mufasa), Nathan Lane (Timão), Ernie Sabella (Pumba), Jeremy Irons (Scar), Robert Guillaume (Rafiki), Rowan Atkinson (Zazu), Moira Kelly (Nala Adulta), Whoopi Goldberg (Shenzi), Cheech Marin (Banzai), Madge Sinclair (Sarabi), Jonathan Taylor Thomas (Jovem Simba).

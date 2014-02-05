@@ -16,4 +16,4 @@ Com algumas reviravoltar a mais, a narrativa estabelece de forma competente o au
 
 E se é crível a antipatia e praticidade demonstrada pela protagonista quando descobre que seu esconderijo foi profanado por uma renca de fotógrafos sedentos por escândalo, alterando totalmente seu comportamento com seu afeto, é tocante a cena em que ela tenta reatar o relacionamento se colocando não mais como uma atriz que deve defender sua imagem perante as câmeras, mas uma simples garota que deseja que alguém a ame.
 
-2010-08-27-um-lugar-chamado-notting-hill.txt                                                      
+

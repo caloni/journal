@@ -13,4 +13,4 @@ Heleno, mulherengo inveterado, mas jogador acima de tudo, é interpretado como qu
 Curioso constatar que o próprio futebol fica em segundo plano, e nunca sabemos de fato quem foi Heleno jogador. O que sabemos saiu na mídia ou da boca do próprio Heleno. E ambos, é preciso lembrar, antes de 1950 estavam criando deuses do futebol, indestrutíveis e inabaláveis. Até um templo — o Maracanã — acabou sendo construído para os rituais de adoração. A indignação do próprio Heleno de não ter jogado ainda nesse templo ilustra bem a visão que existia na época pré-futebol-arte.
 
 Ao nos mostrar o fim e o ápice de Heleno, acompanhamos apenas sua trajetória em direção ao buraco do esquecimento. Sua lenta descaracterização merece aplausos, principalmente pela sua última frase, seu último pensamento, a respeito de si mesmo, e, por que não, a respeito de todo ídolo honrado do esporte nacional.
-2013-01-20-heleno.txt                                                                                                    
+

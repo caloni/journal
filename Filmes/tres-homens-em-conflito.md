@@ -38,4 +38,4 @@ Exemplo de diálogo brilhante: "Existem dois tipos de pessoas com armas: descarre
 
 O enquadramento da forca, quando Tuco olha para cima, é hilária e simples, pois coloca a cabeça de Tuco já dentro da corda.
 
-2010-12-20-tres-homens-em-conflito.txt                                                                  
+

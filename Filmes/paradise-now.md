@@ -11,4 +11,4 @@ Conforme acompanhamos o planejamento do ataque, tanto no "plano terreno" como de
 Dando-nos a oportunidade de conhecer as relações do homem-suicida (família, amigos, afeto) conseguimos manter uma proximidade, essa sim inédita e digna de nota, das pessoas que se sacrificam por um ato terrorista. Nesse sentido, o filme tem o mérito de conseguir transmitir essa importante mensagem de que ideologias podem sim ser perigosas não apenas para indivíduos, mas para povos e gerações a fio. Seja religioso ou meramente político, a ideia consegue nos mover para o melhor ou para o pior do ser humano.
 
 Nesse sentido, fazer um filme sobre homens-bomba é sim bem-vindo e digno de nota.
-2012-05-09-paradise-now.txt                                                                                        
+

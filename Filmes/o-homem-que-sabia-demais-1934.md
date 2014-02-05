@@ -15,4 +15,4 @@ Aliás, um detalhe artístico que merece nota é o uso de câmeras que tentam reprod
 Pontos fortes: A direção e o roteiro conseguem criar um filme coeso e tenso do começo ao fim.
 
 Pontos fracos: Apesar das montagens iniciais e algumas sequências terem o ar amadorístico e caseiro, não se deixe intimidar por esses delizes. O resultado final da obra é revigorante o suficiente, ainda mais em uma época em que vemos diversos Transformer por aí, com muito formato e pouquíssimo conteúdo.
-2011-06-16-o-homem-que-sabia-demais-1934.txt                                                      
+

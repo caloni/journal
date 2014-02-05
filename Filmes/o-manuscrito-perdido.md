@@ -11,4 +11,4 @@ Através de uma narração em off, somos levados a crer que o documentarista está s
 Dessa forma, acompanhamos descendentes das tribos quilombolas, os primeiros escravos refugiados, assim como as tribos indígenas que, diferente da Amazônia, por estarem situados na costa do continente, sofreram influência direta por 500 anos.
 
 E para terminar o caldo, indígenas e sem-terra disputam a posse de terras na mesma região, em um triste reflexo do que era naqueles tempos primitivos e que vem se repetindo de geração em geração, em um povo que pode carecer de muitos lazeres da vida moderna, mas que nunca deveria sentir falta do bem mais abundante no país: a própria terra.
-2011-10-23-o-manuscrito-perdido.txt                                                                        
+

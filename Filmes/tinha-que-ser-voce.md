@@ -11,4 +11,4 @@ Já Emma Thompson desenvolve uma solteirona sem os dramas existenciais. Alguém qu
 Os detalhes periféricos invadem nossa noção de realidade sem pedir licença. A trilha sonora, bonita, se coloca várias vezes para forçar a mudança de humor do quadro formado. Uma pena, pois enquanto Hoffman e Thompson nos aproximam do seu drama, a música nos afasta pelo seu melodrama barato. A insegurança do diretor quanto ao desempenho desses dois atores veteranos (ou do público mal formado) é risível.
 
 Mesmo assim, seu primeiro desfecho é eficiente demais para não gostarmos dele. Tanto que poderíamos aceitar a tristeza e dor de uma partida repentina sem crise (pelo bem e integridade daquele casal). Não é o que acontece, contudo, o que gera o desapontamento do primeiro parágrafo desse texto.
-2013-07-19-tinha-que-ser-voce.txt                                                                            
+

@@ -1,9 +1,9 @@
-2012-01-08-dumbo.txt 
+
 
 Movimentos dos elefantes dão sensação de peso, trilha sonora que hoje é clássica, mas que na época foi criada para o filme. 1941, Disney passava por apuros, Fantasia tinha dado prejuízo e precisavam salvar o estúdio com um novo sucesso. Sequência surrealista de elefantes rosas e Salvador Dali. Uso de influências no Cinema (como a sombra do ratinho emprestada de Nosferatu ou o simbolismo entre a mãe presa e as listras da lona do circo).
 
 
-2013-07-09-dumbo
+
 Idem. EUA, 1941. Direção: Samuel Armstrong, Norman Ferguson, Wilfred Jackson, Jack Kinney, Bill Roberts, Ben Sharpsteen, John Elliotte. Roteiro: Helen Aberson, Harold Pearl, Joe Grant, Dick Huemer, Otto Englander, Bill Peet, Aurelius Battaglia, Joe Rinaldi, Vernon Stallings, Webb Smith. Elenco: James Baskett, Herman Bing, Billy Bletcher, Edward Brophy, Jim Carmichael, Hall Johnson Choir, Cliff Edwards, Verna Felton, Noreen Gammill, Eddie Holden, Sterling Holloway, Malcolm Hutton, The King's Men, Harold Manley, John McLeish. Elenco Brasileiro 1941: Aristoteles Pena, Sara Nobre, Sônia Barreto, Dalva de Oliveira, Estelita Bell, Sara Nobre. Elenco Brasileiro 1986: Manolo Rey, Selma Lopes, Helena Samara, Nair Silva, Patrícia Scalvi. Elenco Brasileiro 1998: Sérgio Stern, Mariângela Cantú, Miriam Ficher, Andréa Murucci, Mabel Cézar, Telma Costa (Diálogos) / Regina Elena Mesquita (Canções).
 
 Uma das minhas animações favoritas do estúdio.

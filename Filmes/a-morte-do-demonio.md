@@ -23,4 +23,4 @@ Talvez seja uma ilusão essa de controle. Ele pode muito bem não existir nunca. A
 Quanto à lógica. Se a única questão em debate seria o livro (que poderia ter sido destruído) ele se resolve sozinho. O resto não merece maiores pensamentos. É uma força oculta e que pode se materializar de diferentes formas.
 
 As interpretações dos atores não é nada demais, mas não prejudica. No entanto, se quiser ter em mente o que assolava tanto o grupo durante todo o tempo, lembre-se da cara de Mia ao retornar da floresta. Essa é a expressão do terror que felizmente ficou do outro lado da tela (espero).
-2013-05-09-a-morte-do-demonio.txt                                                                            
+

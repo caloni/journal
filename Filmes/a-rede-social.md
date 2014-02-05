@@ -19,4 +19,4 @@ A situação da fama chega a ser tão ridícula que o próprio fato deles serem os cr
 O tom do processo também tem seus momentos ridículos, como o detalhe de um trote envolvendo uma galinha ter ido parar nos autos de defesa .
 
 
-2010-12-03-a-rede-social.txt                                                                                      
+

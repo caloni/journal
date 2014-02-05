@@ -8,4 +8,4 @@ Rango é verde, enquanto todos os outros lembram a poeira e sujeira, pela cor e m
 
 O próprio nome dele vem de Durango, uma clara referência a Durango Kid.
 
-2011-09-03-rango.txt                                                                                                      
+

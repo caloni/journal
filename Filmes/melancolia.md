@@ -27,4 +27,4 @@ Trivia
  - O cavalo de Justine se chama Abraão, um personagem bíblioco, em uma suposta referência ao trabalho anterior do diretor.
 
  - Talvez seja coincidência, mas o fato do personagem de Jack Bauer, tão acostumado a salvar o mundo no seriado 24 Horas, se matar no final, estabelece uma dessas ironias cinematográficas impagáveis.
-2011-08-07-melancolia.txt                                                                                            
+

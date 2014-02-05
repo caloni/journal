@@ -9,4 +9,4 @@ Que vem, infelizmente, da pior maneira possível. As tristes escolhas de trilha s
 Porém, para encaixar duas histórias complexas por natureza o roteiro forçosamente empurra personagens a fazer o que nunca fariam se fossem reais, e para entender isso basta ter o mínimo de atenção nos personagens secundários, como o bando de policiais confusos ou as vizinhas boas samaritanas.
 
 A conclusão óbvia é que, para conseguir a segunda reviravolta, não há outra saída menos elegante do que colocar os culpados em situação completamente expositiva, com falas que denotam exatamente o que ocorreu cinco anos atrás, época dos assassinatos, o tipo de coisa que, convenhamos, entrega uma resposta fácil para um problema complexo, desfalecendo todas nossas expectativas por um final inteligente.
-2011-11-16-a-casa-dos-sonhos.txt                                                                              
+

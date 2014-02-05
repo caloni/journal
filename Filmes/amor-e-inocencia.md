@@ -9,4 +9,4 @@ Com uma participação inspirada de James McAvoy, que interpreta o interesse roman
 Pontos fortes: O que impressiona mais é a direção fluida das cenas, que consegue usar os melhores ângulos que se juntam nos melhores cortes, como, por exemplo, o enquadramento de Tom Lefroy pela fresta da carruagem por onde Jane olha durante sua partida final, ou as cenas de dança, quando ambos estão um de costas para o outro.
 
 Pontos fracos: É uma pena que não haja uma tentativa ainda que superficial de traçar mais firmemente as características de sua protagonista, pois é a maior virtude não explorada no decorrer de todo o longa.
-2011-04-27-amor-e-inocencia.txt                                                                                
+

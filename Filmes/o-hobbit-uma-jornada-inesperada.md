@@ -25,4 +25,4 @@ Da mesma forma, a mesma nitidez em vermos o dobro de quadros por segundo permite
 Agora, os defeitos (sim, eles existem): quando usado em cenas com a luz do dia, os atores parecem exatamente o que são: atores. Ou seja, não há aquela suspensão de realidade criada pelo filtro fotográfico aplicado na pós-produção nem pela perda de silhueta quando os personagens se movem. O que vemos é a performance muito próxima a de um teatro. Isso pode quebrar em um primeiro momento para os cinéfilos mais atentos o que chamamos de imersão cinematográfica. O risco é que para o espectador comum, acostumado a televisores que já utilizam esse efeito "estragando" a visão original de diretores como James Cameron em Avatar fazendo o filme se parecer com um telejornal.
 
 Se esse espectador médio, não-exigente por padrão, começar a apreciar esse novo formato na sétima arte, poderemos ter mais um dilema indústria x arte no Cinema.
-2012-12-17-o-hobbit-uma-jornada-inesperada.txt                                                  
+

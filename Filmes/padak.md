@@ -11,4 +11,4 @@ No entanto, há algumas virtudes interessantes, que poderiam talvez existir apena
 Há números musicais, e são inspirados. A animação criada para eles é criativa, mas não consegue realizar uma transição do "mundo real" sem quebrar o seu ritmo. Se sai melhor os inúmeros flashbacks, que apesar de confundir presente e passado, passam uma imagem vívida da mente dos personagens, em especial uma cena envolvendo uma criatura à espera de sua morte.
 
 O uso competente de uma "pista e recompensa" especial e o ritmo milimétrico da última cena consegue criar o clima angustiante no último momento, que faz quase valer os rodeios que a história passou até então.
-2012-10-23-padak.txt                                                                                                      
+

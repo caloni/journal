@@ -1,6 +1,6 @@
 <a href="http://www.flickr.com/photos/caloni/12048859815/" title="Natureza Quase Humana por caloni, no Flickr"><img src="http://farm4.staticflickr.com/3737/12048859815_09a753f15b_o.jpg" alt="Natureza Quase Humana"></a>
 
-2014-01-19
+
 
 Os roteiros de Charlie Kaufman (Adaptação, Quero ser John Malkovich) dirigidos por Michel Gondry (Brilho Eterno de uma Mente sem Lembrança) nunca parecem deixar de explorar a fundo seus temas. Aqui o formato de testemunho com flashbacks é essencial para compreendermos a real dimensão dos relacionamentos entre os quatro personagens — inclusive o que morreu no processo — nessa comédia absurda que flerta com a natureza instintiva e animalesca do ser humano em detrimento à rígidas e, muitas vezes, sem sentido, regras de etiqueta e convívio social.
 

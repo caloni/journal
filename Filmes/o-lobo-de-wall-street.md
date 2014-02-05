@@ -1,6 +1,6 @@
 <a href="http://www.flickr.com/photos/caloni/12228945173/" title="O Lobo de Wall Street (6) por caloni, no Flickr"><img src="http://farm4.staticflickr.com/3832/12228945173_c9b6561eae_o.jpg" alt="O Lobo de Wall Street (6)"></a>
 
-2014-01-30
+
 
 Assistir um filme do Scorsese, mesmo que acabou de estrear, é ser convidado para os anos 70. O que eu quero dizer com isso é que sexo, drogas, violência e moral serão mostradas sem aquele filtro horrível que infantiliza a nossa época. Curiosamente, se há uma característica que os "heróis" de O Lobo de Wall Street carregam em comum é a imaturidade. Porém, uma maturidade animalesca, que faz jus ao personagem-título.
 

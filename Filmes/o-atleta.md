@@ -17,4 +17,4 @@ Cena que representa bem o espírito do ex-corredor, quando ele vê o homem na cade
 Quando chegamos à corrida na neve, que é de onde é tirado o close da cara de Bikila.
 
 Mais interessante é que, ao final da corrida na neve, temos mais uma transição, dessa vez para a sala de exibição onde o filme está passando, com todos aplaudindo o corredor ao final. É de lá que vem a luz do projetor do início do filme, e o arco se completa.
-2010-11-04-o-atleta.txt                                                                                                
+

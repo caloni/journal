@@ -5,4 +5,4 @@ As duas primeiras coisas que sobressaem é a determinação da protagonista e a fot
 Com muitos diálogos e pouco movimento, a história se desenvolve em cima das descobertas que fazemos a cada nova visita que <o nome dela> faz em cada casa vizinha.
 
 Com dois momentos de tensão não muito arrebatadores, somos levados à conclusão da história sob o mesmo clima de desilusão, sendo que, no final das contas, o filme é deprimente do começo ao fim.
-2011-01-30-inverno-da-alma.txt                                                                                  
+

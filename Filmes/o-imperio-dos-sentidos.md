@@ -7,4 +7,4 @@ Um senhor cheio de gueixas, uma esposa generosa e uma amante ninfomaníaca fazem 
 Com uma personalidade estilo femme-fatale do sexo, Sada caracteriza uma mulher ninfomaníaca e impulsiva, possessiva ao extremo, ao ponto de proibir seu senhor de possuir sua própria esposa.
 
 De resto, temos alguns usos peculiares, mas nada de novidade, na fotografia. O vermelho, por exemplo, começa a ser usado por Sada quando esta começa suas tendências sado-masoquistas (e o que acaba levando à morte o seu senhor).
-2010-11-13-o-imperio-dos-sentidos.txt                                                                    
+

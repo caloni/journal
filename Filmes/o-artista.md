@@ -10,4 +10,4 @@ Brincando o tempo todo com o Cinema como metalinguagem — como, por exemplo, dura
 
 Com uma muitas vezes tediosa peregrinação à decadência de nosso herói, o maior feito do filme é conseguir nos inserir na atmosfera daqueles tempos, cuja evolução visual tenha sido possível justamente pela ausência técnica de diálogos longos. Talvez devamos realmente essa evolução ao cinema mudo. Pelo sim, pelo não, O Artista faz uma homenagem mais do que apropriada ao nascimento de uma arte.
 Revendo mais uma vez O Artista (terceira vez em menos de um ano) é possível perceber duas coisas distintas e de certa forma paradoxais: 1) as pessoas não entendem mais por que assistir um filme com atores fazendo caretas, sem som algum e uma fotografia monocromática; 2) a academia não tinha como não dar o Oscar para um filme que abraça sem reservas a metalinguagem de todas as formas possíveis e imagináveis, uma declaração de amor sincera e profunda sobre o Cinema, não necessariamente apenas o mudo.
-2012-02-16-o-artista.txt                                                                                              
+

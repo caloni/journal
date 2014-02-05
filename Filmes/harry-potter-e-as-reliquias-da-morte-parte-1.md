@@ -28,4 +28,4 @@ A mesma exposição das ambições dos detentores do anel no filme de Peter Jackson 
 
 Há uma passagem que tenta isolar um pouco aquele mundo com o uso de uma animação feita apenas com imagens de sombras representando os personagens.
 
-2010-11-19-harry-potter-e-as-reliquias-da-morte-parte-1.txt                        
+

@@ -1,6 +1,6 @@
 <a href="http://www.flickr.com/photos/caloni/12049158433/" title="Sonhando Acordado (2) por caloni, no Flickr"><img src="http://farm3.staticflickr.com/2854/12049158433_ac980a9df0_o.jpg" alt="Sonhando Acordado (2)"></a>
 
-2014-01-19
+
 
 Martin Freeman, da saga do Hobbit e do novo Watson, também consegue fazer um drama, ainda que hilário. Aqui ele vive um músico tão frustrado com seu emprego e namorada ( Gwyneth Paltrow, quem não estaria). Tentando encontrar algo de bom na vida quando está dormindo, compartilha seus sonhos com a estonteante Anna (Penélope Cruz), uma figura diametralmente oposta a seu próprio ego.
 

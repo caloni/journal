@@ -7,4 +7,4 @@ A história é interessante, pois estamos falando de um casal que acabou de termin
 Como um exercício de diálogos, o filme se sai extremamente bem, pois as frases criam sempre situações, lembranças e pensamentos que nunca se tornam enfadonhos. Mesmo assim, a situação mostrada não parece muito verossímel: um casal geralmente não termina seu relacionamento de forma tão educada. Porém, o próprio casal reconhece isso em alguns momentos, e é isso que torna a experiência mais humana e paupável.
 
 Por outro lado, são visíveis as tentativas inseguras do diretor de nunca manter a câmera parada por muito tempo, o que é um truque "capturável" em vários momentos. Um pecadilho, é verdade, se considerarmos que, de uma maneira essencial, a história passa livre de muletas, e entretem e faz pensar na medida certa.
-2011-07-31-apenas-o-fim.txt                                                                                        
+

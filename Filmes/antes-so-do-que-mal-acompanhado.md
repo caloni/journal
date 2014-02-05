@@ -2,7 +2,7 @@ _Antes Só do Que Mal Acompanhado (Planes, Trains & Automobiles). EUA, 1987. Dire
 
 <a href="http://www.flickr.com/photos/caloni/10895003056/" title="Antes Só do que Mal Acompanhado por caloni, no Flickr"><img src="http://farm6.staticflickr.com/5492/10895003056_850614bbcd_o.png" alt="Antes Só do que Mal Acompanhado"></a>
 
-2013-11-16
+
 Comédias que nos fazem ser mais humanos
 
 Filmes do John Hughes animavam a sessão da tarde com suas comédias fáceis e leves, mas sempre escondiam uma sub-trama sutil que, revisitada, constituía o conteúdo que o torna tão imortal. Em "Antes Só do Que Mal Acompanhado" é a amizade, empatia, compaixão, ou tudo isso junto, que forma a base da narrativa tão coesa da história de um homem tentando voltar para casa e sua família em um momento especial. O que ele encontra pelo caminho é um pacote de infortúnios, embalado por um estranho que cai em sua vida de pára-quedas e não consegue mais sair desde então. Quais são as mensagens que esse estranho tem sobre todos esses sentimentos que citei no início?

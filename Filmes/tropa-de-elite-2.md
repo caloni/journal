@@ -41,4 +41,4 @@ Mais uma sequência econômica pode ser vista quando o capitão pega o gravador do 
 A sequência da moto também é econômica, mas não tão tensa e coesa quanto a emboscada ao capitão nascimento, que volta com muito mais vigor até seu final.
 
 Por fim, mais um ato final de coragem, terminando a narrativa levantando mais uma vez o comando, com a aérea de Brasília, deixando o planalto e a bandeira do Brasil para trás.
-2010-10-08-tropa-de-elite-2.txt                                                                                
+

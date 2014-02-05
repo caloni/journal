@@ -7,4 +7,4 @@ Porém, foi uma grata surpresa perceber que o roteiro de J. David Stem (e mais ou
 Satisfeito em apenas retratar os Smurfs exatamente como eles sempre foram, resta ao diretor enfocar as cenas divertídas da atuação mais inpirada do longa: Hanz Azaria, na pele de Gargamel, o feiticeiro que tenta eternamente extrair a essência dos pequenos seres azuis e se tornar poderoso para dominar o mundo. Da mesma forma com que Mike Myers se diverte ao encenar o anti-herói de Austin Powers, da mesma forma Gargamel é um vilão clássico, que está aí exatamente para se dar mal.
 
 Portanto, dadas as devidas proporções, e ignorando uma ou outra falha de roteiro (como o uso artificial de um cachorro ou a relação "macabra" entre Gargamel e a chefe do pai-de-família do filme), Os Smurfs cumpre o que promete sem maiores voos. E faz muito bem.
-2011-09-11-os-smurfs.txt                                                                                              
+

@@ -9,4 +9,4 @@ Do elenco principal, o único que merece alguma atenção é Robert Pattinson (Jacob
 A direção compassada de Francis Lawrence (Eu Sou a Lenda, Constantine) consegue resgatar a mensagem lúdica daquele passado irregular, assim como as eficientes direção de arte e fotografia penumbram boa parte das cenas e horizontes como que a embaçar a nossa visão realista da Grande Depressão e se atentar mais ao pequeno drama que se estabelece sob as arenas de um circo, para onde as pessoas vão justamente para se esquecerem das agúrias da economia.
 
 Mesmo assim, parece que falta algo nesse Água para Elefantes. Não há um voo muito alto. Ficamos à mercê dos acontecimentos e não conseguimos cuidar corretamente dos sentimentos envolvidos. Talvez fruto disso seja mesmo o elenco competente mas em filme errado.
-2012-08-27-agua-para-elefantes.txt                                                                          
+

@@ -11,4 +11,4 @@ Spartacus, como é visto no filme e interpretado de forma brilhante no início lev
 E do outro lado, o senado romano e suas estruturas de guerra eterna são mostradas da maneira mais vívida e realista possível, bem melhor que qualquer livro de história que alguém possa ler sobre esse evento. E a figura de Charles Laughton como senador Gracchus é imprescindível para que tenhamos a exata noção do nível de politicagem que corria solta pelo pano de fundo do senado. Ao mesmo tempo, Laurence Olivier encarna o imperador-general Crassus representando, assim como Júlio César e Caio, aquela parte da elite romana que não entendeu bem ainda o que aconteceu com o império.
 
 
-2010-07-20-spartacus.txt                                                                                              
+

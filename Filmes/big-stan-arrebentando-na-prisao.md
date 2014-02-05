@@ -4,7 +4,7 @@ _Big Stan: Arrebentando na Prisão (Big Stan). EUA, 2007. Direção: Rob Schneider.
 
 <a href="http://www.flickr.com/photos/caloni/10836525955/" title="Big Stan - Arrebentando na Prisão por caloni, no Flickr"><img src="http://farm8.staticflickr.com/7361/10836525955_3c0466c234_o.jpg" alt="Big Stan - Arrebentando na Prisão"></a>
 
-2010-04-04
+
 Quando comer sua bunda vira tema de filme
 
 Se algumas pessoas possuem preconceitos (bobos) de não ver Rob Schneider atuar, o que diriam a respeito de um filme em que ele não apenas atua, como dirige!

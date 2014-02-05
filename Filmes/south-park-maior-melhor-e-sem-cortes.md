@@ -4,7 +4,7 @@ _South Park: Maior, Melhor e Sem Cortes (South Park: Bigger Longer & Uncut). EUA
 
 <a href="http://www.flickr.com/photos/caloni/10669504785/" title="South Park - Maior, Melhor e sem Cortes por caloni, no Flickr"><img src="http://farm8.staticflickr.com/7341/10669504785_9bfc4d48a8_o.jpg" alt="South Park - Maior, Melhor e sem Cortes"></a>
 
-2013-11-02
+
 Comédias usadas como críticas - Parte 1
 
 Não é nenhuma novidade que South Park preza pelo irreverente e polêmico em prol da comédia e, principalmente, na análise da estupidez humana (espectadores inclusos). No seu longa-metragem, portanto, nada muda. O diferencial é um frescor de piadas sobre os últimos acontecimentos no mundo que seriam feitas na versão televisiva de uma forma ou outra.

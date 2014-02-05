@@ -25,4 +25,4 @@ Romance entre a filha do morto e o auxiliar do delegado soa artificial e se dese
 A câmera insiste em tremer em situações de comédia onde algo deveria tremer no cenário, mas soa artficial demais, como no caso em que o personagem principal bebe água sem querer ao tentar roubar um pouco de pinga do dono do bar onde ele frequentava.
 
 Os efeitos especiais da cena da tempestade em alto-mar merece nota, mas não estou certo se por causa do esforço ou pela sensação que precisamos melhorar nesse ponto.
-2010-05-21-quincas-berro-dagua.txt                                                                          
+

@@ -11,4 +11,4 @@ A partir daí, somos levados para uma infinidade de situações engraçadas que entr
 A ação e o absurdos crescem em uníssono, a ponto de em dado momento ser inserido no filme uma gangue de mutantes arruaceiros em cima de motos (Mad Max?). Nesse momento, somos capazes de perceber a mente tresloucada de John Hughes, que assina a direção e o roteiro do filme. O próprio Hughes diridiu na época Curtindo a Vida Adoidado e o Clube dos Cinco, o que me faz desconfiar que este era um projeto bem mais experimental.
 
 Apesar de não passar do teste dos 15 anos, fica claro que este era o exemplo de filmes de "desligar o cérebro". E se serviu para a efervescência criativa de John Hughes, que depois escreveria grandes aventuras como Esqueceram de Mim, Beethoven, Dennis - O Pimentinha e 101 Dálmatas, podemos estar certos de que este era o primeiro de muitos.
-2011-08-22-mulher-nota-mil.txt                                                                                  
+

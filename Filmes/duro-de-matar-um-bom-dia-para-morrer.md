@@ -13,4 +13,4 @@ Não satisfeitos em criar um filme de ação menor apenas utilizando o personagem d
 Por fim, a arrogância ensaiada no iníco e citada no diálogo de um dos bandidos russos a respeito aos poucos se assemelha a um exercício de metalinguagem, pois John Moore insiste em inserir um encontro familiar final que beira o clichê (e termina como um) que ainda aposta em uma trilha grandiosa digna dos filmes de grandes aventuras e provações dos personagens.
 
 Com certeza esse filme deve estar em algum lugar na sala de montagem, mas ficou irreconhecível na sala de projeção.
-2013-03-06-duro-de-matar-um-bom-dia-para-morrer.txt                                        
+

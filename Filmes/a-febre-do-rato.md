@@ -9,4 +9,4 @@ Para essa imersão foi vital a decisão de rodar a experiência em P&B e com uma gr
 As virtudes técnicas, porém, não conseguiriam atingir tamanha naturalidade se não fosse a completa entrega do elenco aos seus controversos personagens. Matheus Nachtergaele, ícone de filmes cômicos como O Auto da Compadecida, consegue se conter e criar um personagem dramático até ou por causa de sua extrema simplicidade e visão de vida, ainda mais comparado ao seu amigo poeta, Zizo, interpretado por Irandhir Santos de maneira solena, mas ao mesmo tempo entregando seu corpo e alma ao projeto. Em paralelo, Nanda Costa cria uma Eneira misteriosa e sensual à altura do protagonista.
 
 De tomada em tomada, o espectador consegue se acostumar a tudo que passa, e entender não pelas palavras, mas pelos atos, o que poeta (e, por tabela, o filme), enfim, queria dizer.
-2012-08-03-a-febre-do-rato.txt                                                                                  
+

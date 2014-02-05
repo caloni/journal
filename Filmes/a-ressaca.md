@@ -24,4 +24,4 @@ O senso de ridículo se ausenta por breves momentos, como na referência à Bilho E
 
 
 
-2010-09-10-a-ressaca.txt                                                                                              
+

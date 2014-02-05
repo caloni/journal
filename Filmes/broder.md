@@ -25,4 +25,4 @@ A ira de Macu tentando obter a arma de novo dentro do carro demonstra o poder de
 Uma das falas bordões, dita por Macu após o padrastro tentar usar a linguagem dos manos: "Não é bróder que fala: é manu, manu!"
 
 No final do drama, a câmera foge do foco em Macu agonizando, fazendo uma voadora pelo Capão Redondo: essa história poderia acontecer em qualquer lugar, com qualquer um; ninguém ficou sabendo, e ninguém nunca sabe.
-2010-10-26-broder.txt                                                                                                    
+

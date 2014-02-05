@@ -9,4 +9,4 @@ Para os que acham que o filme é lento e contém partes desnecessárias de sua hist
 Pontos fortes: O trabalho de maquiagem envelhecendo o casal principal consegue convencer e não soar invasivo demais nas interpretações.
 
 Pontos fracos: nenhum.
-2011-04-27-a-minha-versao-do-amor.txt                                                                    
+

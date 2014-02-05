@@ -9,4 +9,4 @@ Dirigido e escrito por Jim Jarmusch (Sobre Café e Cigarros, Estranhos no Paraíso
 Sem muitos detalhes sobre quem é aquele homem ou do que vive, a evolução de um relacionamento é ilustrado com cada visita que ele faz, começando super-bem com uma ex-amante que possui uma ninfeta, ambas atraentes e convidativas (de uma maneira exagerada, pois é a ilusão ainda fazendo valer). No entanto, conforme vamos avançando começamos a entender coisas sobre o passado de Don que seria melhor se fosse deixado de lado. A jornada, no entanto, nunca perde o interesse, apresentando transições inteligentes que sempre estão em harmonia com o estado de espírito de nosso incansável protagonista.
 
 Ao final, um giro de 360 graus nos revela o homem completo e ao mesmo tempo faltando partes. As ideias não encaixam perfeitamente, como a vida muitas vezes é.
-2012-05-07-flores-partidas.txt                                                                                  
+

@@ -15,4 +15,4 @@ O saco de lixo que Patrick usa para correr e o preto usado por Tiffany harmonios
 Por fim, se o uso de uma aposta final que una todos os finais soe a princípio forçado essa é a metáfora mais poderosa de todas, quando a estratégia de Patrick de catalisar as energias negativas em uma fagulha de esperança é posta à prova. A exposição de ambos com o uso da dança encontra uma belíssima rima com Pequena Miss Sunshine.  
 
 Dito isto, O Lado Bom da Vida não se esforça como uma produção Indie em tornar os seus personagens queridinhos por terem uma plantação de produtos orgânicos e namorarem uma negra (vide Minhas Mães e Meu Pai). Os personagens já são fascinantes apenas por existirem, e o filme apenas nos faz conhecê-los de corpo e alma em duas horas. E o faz muito bem.
-2013-02-07-o-lado-bom-da-vida.txt                                                                            
+

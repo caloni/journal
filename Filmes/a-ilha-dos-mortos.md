@@ -32,4 +32,4 @@ A moral mais uma vez é criticada e esmagada nas cenas finais, em que o inimigo n
 
 O final não poderia ser mais irônico, pois o mesmo patriarca que nos parecia enlouquecido no início e que, graças à publicidade na internet, pareceu-nos mais simpático no meio pro final, agora, depois de matar a filha, volta a ser o cara doentio que havíamos visto no início, e, nós sabendo que agora existe uma maneira de alimentar os zumbis sem que seja com carne humana torna os objetivos da família inimiga mais louváveis e até justificáveis, fazendo descaradamente com que troquemos de lado mais uma vez em prol da família inimiga. No fundo a conclusão, genial e imbatível, é que não importa o lado que estamos, pois sempre haverão lados que erguirão bandeiras, e mais pra frente suas causas são esquecidas, e tudo o que resta é "brigar pela bandeira", em uma outra síntese alegórica perfeita sobre a guerra no Iraque.
 
-2010-12-20-a-ilha-dos-mortos.txt                                                                              
+

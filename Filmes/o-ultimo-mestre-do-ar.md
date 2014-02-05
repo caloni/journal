@@ -33,4 +33,4 @@ O filme todo é bem episódico, o que nos dá a chance de começar a assisti-lo de q
 E por falar de novo nele, nunca é dado peso suficiente ao que seria um Avatar, e nem nos damos conta disso nos minutos da projeção.
 
 A própria história, por fim, é episódica, e pelo jeito teremos (teremos?) que suportar mais continuações dessa nova "saga".
-2010-08-20-o-ultimo-mestre-do-ar.txt                                                                      
+

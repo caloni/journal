@@ -5,4 +5,4 @@ Dirigido por Tony Scott, com um currículo considerável (Top Gun, Inimigo do Esta
 Já o que realmente faz o filme funcionar são as cenas de ação do último ato. Vemos cortes rápidos, mas sincronizados o suficiente para que fiquemos tensos na cadeira a cada movimento novo dos personagens, e, diferente de Transformers 2, aqui conseguimos enxergá-los.
 
 Uma experiência interessante, se você não se importar em esquecer do enredo assim que sair da cadeira do cinema.
-2011-01-19-incontrolavel.txt                                                                                      
+

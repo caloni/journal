@@ -7,4 +7,4 @@ Da safra dos anos 80 onde havia aos montes aventuras de garotos vivendo em cidad
 Uma estrutura ágil disfarça a aparente desconexão com a realidade quando o computador de Wolffang descobre que ele consegue criar uma esfera perfeita de energia em qualquer ponto tridimensional que quiser e movê-la a velocidades absurdas. Como em um filme que brinca com sonhos e tecnologia tudo parece possível. Consequência, nao questionamos muito o que acontece na tela, mas escolhemos vivenciar o mesmo que os garotos estão vivenciando, e experimentando a mesma sensação de estar descobrindo um mundo novo.
 
 Nesse clima de tudo é possível nasce uma bela metáfora sobre a infância, os humanos e nossa existência. Estamos no meio de uma crise econômica, o que explica de certa forma a figura recorrente do pai desempregado ? obviamente, nunca com uma profissão de destaque ? e a narrativa fantasiosa. Os efeitos engasgam nas limitações da época, mas assim como Tron, a crença pesa mais, ainda que tenha que abrir ressalvas e compreender o momento.
-2012-06-04-viagem-ao-mundo-dos-sonhos.txt 
+

@@ -9,4 +9,4 @@ Caminhando pela mesma estratégica, somos também apresentados a uma truque (de an
 Já o ar deprimido e de poucos amigos do tigre russo (reforçanco seu estereótipo) e a sua triste, mas brilhantemente conduzida, história de sua fama passada por atravessar anéis tão menores que si mesmo que desafiam as leis da física conseguem criar conflito suficiente para que o circo como um todo vá muito mal (uma referência, ainda que indireta e distante, ao recente longa O Palhaço, que brinca um pouco com depressão circense).
 
 Mesmo assim, o filme não dá muito espaço para drama, reconhecendo seu público infantil (e sua própria superficial história) e acelerando drasticamente em direção ao seu desfecho. Porém o faz maravilhosamente bem, conseguindo unir com harmonia épocas tão distintas de Dumbo e Cirque di Soleu, tudo misturado com música pop em voga, o que aumenta o appealing comercial, mas que pode ser um tiro no próprio pé ao revisitarmos sua história daqui uns 10 anos, e Katy Perry ser uma curiosidade tão conhecida quanto The Monkeys.
-2012-06-13-madagascar-3-os-procurados.txt 
+

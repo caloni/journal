@@ -11,4 +11,4 @@ Da mesma forma a bebida. O protagonista, muçulmano, está proibido de beber pelas
 E como estamos falando de racismo, nada mais irônico do que colocar capuzes brancos na gangue de africanos que comanda o tráfico de drogas da região, liderados pelo tio do protagonista. Mais ironicamente ainda, a gangue rival, formada por brancos, se veste de preto em seus ataques.
 
 No final, toda essa simbologia de cores se esvai em um terno branco esquecido na floresta. Representando a subida de status do nosso herói, agora representa sua liberdade, e por consequência sua salvação. O protagonista renasce, como veio ao mundo e como é visto pelo filme como símbolo de pureza: negro.
-2011-10-25-la-bas-educacao-criminal.txt                                                                
+

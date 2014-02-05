@@ -15,4 +15,4 @@ Isso quer dizer que fica muito difícil defender um filme que abre planos para co
 Pontos fracos: roteiro com diálogos terrivelmente fracos, produção pedestre que insinua um "trash" sem de fato assumi-lo.
 
 Pontos fortes: Megan Fox e seus shortinhos?
-2011-05-21-garota-infernal.txt                                                                                  
+

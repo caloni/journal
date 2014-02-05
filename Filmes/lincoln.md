@@ -11,4 +11,4 @@ A discussão da escravidão — tema central e presente em todo o momento — é coloca
 E por isso Spielberg investe em tomadas sempre grandiosas, com muitos figurantes, construções e figurinos. Detalhe: sempre em movimento. Um trabalho de encher os olhos para um filme tão cheio de diálogos. A câmera costuma navegar em torno dos seus personagens, levemente, tendo aparentemente o único motivo de apresentar o cenário, uma reconstrução digna de ser vista na telona, com o mesmo capricho fotográfico do igualmente empolgante Na Estrada.
 
 A trilha sonora acompanha a morosidade da evolução sobre a emenda que poderá vencer a guerra e acabar com a escravidão (e a economia) do sul. Porém, com todo o respeito a John Williams, a única que parece querer dizer de maneira mais expressiva o que está acontecendo é a fotografia, que encobre Lincoln de sombras dentro de sua casa, para apenas depois o vermos sob uma luz forte e renovadora. Não é nenhum segredo o que isso significa e por que acontece, mas continua sempre lindo de se ver.
-2013-01-31-lincoln.txt                                                                                                  
+

@@ -4,4 +4,4 @@ Ainda que Johnny Depp perceba que seu personagem não é mais do que uma pista-rec
 
 Ponto fraco: história que desaba em uma revisita, mesmo quem mental, depois de ter assistido.
 Ponto forte: Angeline Jolie.
-2011-02-20-o-turista.txt                                                                                              
+

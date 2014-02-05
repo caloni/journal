@@ -9,4 +9,4 @@ Os discursos que são interrompidos pela gagueira nunca continuam, e são cortados
 O próprio enquadramento do rei fica predominantemente do lado esquerdo da tela (menos visada), mesmo que ele esteja sozinho no quadro. Já o Dr. fica predominantemente à direita do quadro.
 
 
-2011-11-02-o-discurso-do-rei.txt                                                                              
+

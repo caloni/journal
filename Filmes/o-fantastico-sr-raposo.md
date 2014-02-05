@@ -5,4 +5,4 @@ Ainda que mantenha a simplicidade em suas premissas, e divirta por causa disso, 
 Pontos fortes: direção de arte completamente enfocada nos objetivos da narrativa.
 
 Pontos fracos: nada a declarar.
-2011-04-27-o-fantastico-sr-raposo.txt                                                                    
+

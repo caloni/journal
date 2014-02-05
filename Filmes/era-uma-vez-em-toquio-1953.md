@@ -4,7 +4,7 @@ _Viagem a Tóquio (Tôkyô monogatari/Tokyo Story/Era uma Vez em Tóquio). Japão, 19
 
 <a href="http://www.flickr.com/photos/caloni/10612268595/" title="Era Uma Vez em Tóquio (4) por caloni, no Flickr"><img src="http://farm8.staticflickr.com/7437/10612268595_f35279dbe3_o.jpg" alt="Era Uma Vez em Tóquio (4)"></a>
 
-2013-10-31
+
 A morte da família através dos olhos dos japoneses
 
 Tokyo Story, ou Era Uma Vez em Tóquio, como seus títulos ocidentais sugerem, é um conto, que se constrói no Japão pós-guerra e faz uma dura crítica à sociedade ocidentalista da época, mas como todo grande filme se torna atual mesmo 50 anos depois pelas suas mensagens eternas sobre vida e família.

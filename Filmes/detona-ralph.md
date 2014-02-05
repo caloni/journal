@@ -11,4 +11,4 @@ E é aí que a expansão desse universo merece aplausos pelos espasmos de criativid
 O constante drama de Ralph de ser um vilão eterno por definição consegue criar os melhores momentos do longa, e encontra o seu ápice em um momento particularmente tenso e brilhante onde a discussão sobre o destino dos personagens de jogo é extrapolada ao nível filosófico e onde infelizmente a produção Disney parece enxergar a necessidade de criar mais um mecanismo de fazer chorar envolvendo uma medalha artesanal e que estraga a natural emotividade do momento.
 
 Aliás, essa necessidade de se moldar ao arco dramático padrão com o terceiro ato representando uma óbvia perda de ritmo prejudica levemente a conclusão do filme. De qualquer forma, Detona Ralph se revela uma ótima notícia dos estúdios que começavam a diminuir seu ímpeto criativo após a fusão com a Pixar, o que acabou gerando produções menores como Carros 2 e Valente. Há ótimos motivos, portanto, para comemorar.
-2012-12-30-detona-ralph.txt                                                                                        
+

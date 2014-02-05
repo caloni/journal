@@ -15,4 +15,4 @@ Da mesma forma, o núcleo da história, o plano de Plâncton para obter a receita s
 Mesmo assim, a "curva dramática" de Calça Quadrada, impedido de ser o gerente da filial do Siri Cascudo por ser um mero garoto, é uma surpresa agradável na aventura dos dois amigos, pois enfoca ao mesmo tempo uma aventura adolescente e a incongruência que isso gera ao percebermos que, no fundo, os dois não passam de crianças se divertindo com as situações.
 
 Com uma conclusão que diverte pelo inusitado — voltando a fazer humor da forma que Bob Esponja faz melhor — "O Filme" ganha pontos por colocar uma corja de piratas indo ao cinema assistir ao filme e por mesclar ainda mundo real e desenho.
-2012-08-01-bob-esponja-o-filme.txt                                                                          
+

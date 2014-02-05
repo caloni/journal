@@ -15,4 +15,4 @@ Por fim, sua conclusão arrastada criada a partir de uma elipse de uma vida intei
 Epílogo
 
 
-2012-08-19-coracoes-sujos.txt                                                                                    
+

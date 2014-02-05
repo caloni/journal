@@ -14,4 +14,4 @@ Pontos fortes: a direção de arte que economiza diálogos, a fotografia e trilha s
 
 Ponto fraco: Não há a mesma abertura de ideias como no original; por exemplo, Owen nunca chega a descobrir porque Abby diz que ela "não é menina".
 
-2011-02-17-deixe-me-entrar.txt                                                                                  
+

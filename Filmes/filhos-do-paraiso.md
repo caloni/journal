@@ -11,4 +11,4 @@ Porém, quando temos essa chance, ela não é desperdiçada. Todos aqueles dias de t
 O importante a notar é que nem uma vitória seria motivo de orgulho ou felicidade. Não! O primeiro lugar representa tristeza e derrota. É nesses moldes que a mente daquelas pessoas trabalham. E é por isso que, se existe algum vencedor nessa história, é o próprio tênis.
 
 Esse teve garra e aguentou até o fim.
-2012-03-11-filhos-do-paraiso.txt                                                                              
+

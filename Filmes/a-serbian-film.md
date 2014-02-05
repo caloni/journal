@@ -9,4 +9,4 @@ Mesmo com a percepção moral já racionalizada na visão de Milos, porém, como que 
 Dentro desse ponto de vista, Vukmir considera Milos o expoente máximo dentro dessa arte que, literalmente, e com o perdão da palavra, fode as mulheres com um instinto animal. Disposto a realizar sua obra-prima usando Milos como protagonista, paga a este uma quantia exorbitante para que este participe da produção sem conhecer os pormenores do seu projeto.
 
 E não por coincidência, o trabalho do diretor iniciante Srdjan Spasojevic carrega a nacionalidade de sua obra já no título, o que já traz uma dica importante sobre o que o filme tenta nos transmitir em sua controversa história. Chega a ser uma provocação, aliás, pois ao constatarmos a sua gravidade, o que sobra é apenas o título, como um triste reflexo de uma realidade que o mundo fora da Sérvia, muitas vezes, preferiu ignorar.
-2011-07-31-a-serbian-film.txt                                                                                    
+

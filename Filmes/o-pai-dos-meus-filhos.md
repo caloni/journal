@@ -9,4 +9,4 @@ Porém, covarde não é o filme pela falta de certezas pelas quais podemos nos guia
 Pontos fortes: mesmo com seus defeitos, O Pai... consegue entreter, e isso se deve mais à capacidade de direção do que ao roteiro em si, o que não deixa de ser curioso, pois estamos falando da mesma criadora de ambos.
 
 Pontos fracos: um deux-ex-machina ao contrário no mínimo curioso, mas que acaba por não representar reviravolta o suficiente para retirar o aspecto de desgastado que já consumia o filme em seu meio ato.
-2011-06-12-o-pai-dos-meus-filhos.txt 
+

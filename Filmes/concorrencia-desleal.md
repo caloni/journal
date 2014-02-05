@@ -25,4 +25,4 @@ Mais que mostrar o lado repudiado, é interessante ver o lado "vencedor", como em
 Scola sempre usa o melhor quadro para mostrar a ação. Em visita ao seu concorrente, a cena mostra ele frente à cama do ângulo da fachada. Para uma cena final em que ele se aproxima da janela, ele inverte o ângulo, para economizar a caminhada da visita até a janela.
 
 Por fim, quando o quadro final está completo, com a despedida da família judia, o último quadro é de um menino no meio da rua, vestido com camisas listradas, olhando para o vazio: uma vez que você toma óleo de bacalhau junto com uma pessoa, ela se torna seu amigo para sempre.
-2010-12-20-concorrencia-desleal.txt                                                                        
+

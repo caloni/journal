@@ -1,6 +1,6 @@
 <a href="http://www.flickr.com/photos/caloni/12214102914/" title="Abra os Olhos (2) por caloni, no Flickr"><img src="http://farm3.staticflickr.com/2810/12214102914_d65a72c72d_o.jpg" alt="Abra os Olhos (2)"></a>
 
-2014-01-29
+
 
 Acabei de ver o original de Vanilla Sky, aquele com o Tom Cruise correndo como um louco. Uma produção espanhola/italiana/francesa, o filme de 1997 conta também com a participação de Penélope Cruz como Sofia, mas diferente do tom experimental em 2001 dado pelo diretor Cameron Crowe (Jerry Maguire - A Grande Virada), a direção madura de Alejandro Amenábar (Os Outros), por incrível que pareça, transforma completamente a narrativa de dois filmes que foram filmados praticamente quadro a quadro.
 

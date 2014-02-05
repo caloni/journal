@@ -9,4 +9,4 @@ O problema é que a partir da divertida sequência inicial, o filme perde fôlego e
 Porém, pior que isso são as atuações que, em vez de manterem pelo menos a coerência interna dos seus personagens precisam distorcer toda hora seus já debilitados estereótipos (alguns até ofensivos, como a chacota com os assaltantes caipiras ou frases como "você é a vergonha de todos os assaltantes negros" que, em vez de soar engraçada, acaba gerando uma repulsa cada vez maior).
 
 Com uma conclusão que provavelmente irá se gabar de imprevisível, de fato a história é construída em cima de uma narrativa caótica onde virtualmente tudo pode acontecer, e logo não há de fato um mistério a ser resolvido. De fato, o roteiro chega a ser tão confuso perto de seu final que podemos perceber pela mudança de humor dos reféns e dos assaltantes, que parecem muitas vezes tão perdidos quanto nós mesmos.
-2011-11-28-assalto-em-dose-dupla.txt 
+

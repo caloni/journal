@@ -7,4 +7,4 @@ Supostamente idealizado para narrar a relação entre o futuro líder argentino, Ju
 Porém, difícil dizer que o problema é menos de roteiro e mais de direção, pois esta, vigorosa do começo ao fim, possui boas ideias, como mesclar gravações da época com a dramatização dos fatos, além de em momentos pontuais adequadamente alternar entre o colorido e o p&b, o que insere e associa os registros históricos diretamente com a visão mais intimista e intepretativa dos atos solenes.
 
 De forma que é uma pena que falte ousadia no roteiro, pois a direção merecia mais, além de atuações convincentes, mas infelizmente estéreis.
-2012-02-15-juan-y-eva.txt                                                                                            
+

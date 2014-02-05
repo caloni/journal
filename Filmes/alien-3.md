@@ -15,4 +15,4 @@ Esse não seria um problema maior (como não foi no original, de 79) caso a histór
 Para "medir" a falta de ritmo e história no projeto, basta sentir a reação do espectador após saber de algo impactante a respeito de Ripley. A própria conclusão do impasse criado, apesar de coerente, não chega a ser mais impactante do que o próprio ato que ocorre depois.
 
 Enfim, um filme mediano que pode ter seus méritos próprios, mas que, por aqui se tratar de mais um da série Alien, fica muito aquém dos trabalhos anteriores sobre esse universo tão rico e ainda não totalmente explorado.
-2011-12-10-alien-3.txt                                                                                                  
+

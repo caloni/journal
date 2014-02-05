@@ -19,4 +19,4 @@ E é tocante notar que uma coisa aparentemente tão simples, como mentalizar a ami
 Ou quando o amigo dela na Índia revela porque ficou tão amargurado (sobre o atropelamento do filho voltando para casa embriagado). Note como a câmera fica por trás, tanto de Liz, que escuta a confissão, como a cara virada dele, obviamente encabulado.
 
 Por fim, uma conclusão artificial de um relacionamento que ela inicia na Índia por um atropelamento concluir de forma mais ou menos essa jornada da protagonista, que, pelo que parece, convenceu mais a si mesma que o espectador que houve alguma mudança nessa personagem ao longo da história.
-2010-10-01-comer-rezar-amar.txt                                                                                
+

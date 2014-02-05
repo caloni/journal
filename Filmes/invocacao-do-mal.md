@@ -4,7 +4,7 @@ _Invocação do Mal (The Conjuring). EUA, 2013. Director: James Wan. Writers: Chad
 
 <a href="http://www.flickr.com/photos/caloni/9951987193/" title="Invocação do Mal por caloni, no Flickr"><img src="http://farm6.staticflickr.com/5503/9951987193_d6753a5aaf_o.jpg" alt="Invocação do Mal"></a>
 
-2013-09-26
+
 Uma surpresa aterrorizante que revive anos 70
 
 Diferente do que poderíamos imaginar, a direção precisa, acelerada e gore de James Wan em Jogos Mortais não apresenta comparações neste Invocação do Mal, que se insere no gênero de horror realizando pequenas homenagens de obras icônicas enquanto ensaia um estilo visual mais agradável ao público de hoje.

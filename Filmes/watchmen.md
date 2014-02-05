@@ -15,4 +15,4 @@ E o que dizer do personagem mais complexo, o físico Jon Osterman. Ao sofrer um a
 Por sua própria condição, Dr. Manhatan passa a ser braço direito do governo de Nixon, à época atual presidente dos Estados Unidos, e os constantes abusos de poder do estadista o tornam uma arma letal e motivo de cautela dos outros países, o que acaba por alterar o curso da história como a conhecemos. Dr. Manhattan é o mais próximo que o filme chega de um super-herói tradicional, mas que não está a serviço da humanidade, como é bem colocado pelo roteiro através da frase "O super-homem existe, e ele é americano".
 
 Apenas pela descrição dos personagens e de suas relações o filme já se distanciaria milhas de seus pares. No entanto, o próprio conceito de heroísmo nos dias de hoje é discutido em sua trama maior, e as razões do antagonista conseguem deturpar ainda mais esse conceito.
-2011-09-04-watchmen.txt                                                                                                
+

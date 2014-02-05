@@ -11,4 +11,4 @@ Nunca revelando um teor sobrenatural de fato, o filme brinca muitas vezes com o 
 Por fim, temos uma conclusão de que de fato a menina está traumatizada e fantasiando, pois ficou grávida de um rapaz que trabalha em uma lanchonete de estrada e está com vergonha de si mesma. O que seria, na minha opinião, o final mais que aceitável, depois de tanto medo e tensão.
 
 No entanto, o filme revela-se mais um da série "Atividade Paranormal" ao exagerar na narrativa, ao mostrar os personagens descobrindo ser esta explicação do menino forjada (ele é gay) e encontram a menina sendo vítima de um ritual anti-satânico que aborta seu filho ("isso não é humano", de acordo com o padre, e dando um ar de bebê de rosemary em que o bebê aparece). Por fim o trio é descoberto com o padre indo de encontro à fogueira onde o demônio é queimado (revelando uma mudança drástica em sua forma de pensar), a apresentadora é assassinada e o câmera-man é pego pelo irmão da garota.
-2010-09-24-o-ultimo-exorcismo.txt                                                                            
+

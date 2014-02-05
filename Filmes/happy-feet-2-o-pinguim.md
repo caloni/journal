@@ -9,4 +9,4 @@ O filme começa bem, ressaltando a importância do ecossistema como um todo, com t
 Já o problema do longa se instaura no seu meio, seu desenvolvimento. Nunca conseguindo focar em um tema específico, o drama principal dos pinguins presos entre as geleiras fica esmaecido, quase esquecido em alguns momentos, pois não existe ritmo ou até mesmo coerência em contar essa história, dando maior importância às brincadeiras visuais (que funcionam metade do tempo) e falas completamente descartáveis (nem a antes figura carismática de Ramon consegue salvar).
 
 Porém, esse deve ser o filme que vai impressionar mais as plateias pela maneira impecável que ele junta suas duas pontas extremas, mesmo se despreocupando totalmente em como desenvolvê-las de maneira no mínimo interessante.
-2011-12-04-happy-feet-2-o-pinguim.txt                                                                    
+

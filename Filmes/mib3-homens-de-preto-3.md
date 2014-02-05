@@ -13,4 +13,4 @@ Aliás, não é apenas nos aspectos técnicos que o filme declina seu humor, mas nas
 Como todo filme de viagem no tempo, existem seus paradoxos, mas eles não atingem o roteiro, que não desenvolve ou não precisa de reviravoltas além da inicial viagem ao passado, pois talvez confie excessivamente na força do seu desfecho. Tanto é verdade que quando Bóris tenta de alguma forma estragar os planos em torno de sua destruição não passam minutos até que alguém resolva de alguma forma simplista ou esquemática, nunca fazendo provar a expectativa inicial de que ele poderia de fato representar uma ameaça digna dos Homens de Preto.
 
 De certa forma, apesar do excelente clímax final, não deixa de soar como a única ideia verdadeiramente digna de uma continuação, pois durante todo o tempo somos levados de cá pra lá sem uma ideia clara de desenvolvimento da história. Dessa forma, a conclusão continua forte e impactante, mas não se pode dizer que leva o resto do filme para o mesmo caminho.
-2012-06-04-mib3-homens-de-preto-3.txt 
+

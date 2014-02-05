@@ -13,4 +13,4 @@ Igualmente aprimorado em seus detalhes técnicos, como o brilho dos vampiros e su
 E o amor, por falar nele, possui uma interpretação especial e irônica na maneira com que os Cullen resolvem batalhar pelas suas vidas e da pequena Renesmee. Embora as cenas de luta do final sejam empolgantes, viscerais e de certa forma, até cruéis demais — pelo menos uma crueldade nunca mostrada nos filmes anteriores — a sua simples, mas poderosa, conclusão é que de fato impressiona pelo uso inteligente de um artifício até então esquecido ou ignorado, e arriscaria dizer que é o momento mais empolgante e instigante de toda a série.
 
 Nunca se esquecendo de sua origem, mas aproveitando os últimos momentos para melhorar todas as impressões anteriores, "Amanhecer: Parte Final" deixa uma impressão bem positiva de sua história, o que por si só já é um mérito e tanto se recordarmos cada momento em que nosso desejo era desistir de acompanhar o amor impossível entre um vampiro agressivo e covarde e sua humana sem sal.
-2012-11-20-a-saga-crepusculo-amanhecer-parte-final.txt                                  
+

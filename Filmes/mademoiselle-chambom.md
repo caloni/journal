@@ -31,4 +31,4 @@ O ritmo do filme vai de lento a quase parando. Há uma necessidade maior de movim
 Ao final, o último quadro, a câmera se distancia lentamente, como que a denunciar que fizemos parte rapidamente da vida destes personagens e agora estamos indo embora.
 
 O ritmo e a sutileza são fascinantes durante o filme (aguçam o interesse), e funcionam bem até um limite. Depois como fica enfadonho, apesar de seguir o ritmo sempre decrescente da trama em que ele se propõe a dar.
-2010-05-14-mademoiselle-chambom.txt                                                                        
+

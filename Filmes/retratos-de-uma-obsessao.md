@@ -11,4 +11,4 @@ Já o trabalho do diretor/roteirista Mark Romanek constrói um thriller que oscila
 Ainda assim, com todas as desculpas possíveis, é difícil ignorar que o diretor de fotografia Jeff Cronenweth não tenha exagerado um pouco. Mas só um pouco. Todo o resto é útil para a construção do personagem e das situações. A medida do exagero é quando todas essas cores insistem em nos jogar para fora do filme. Ou talvez o ritmo às vezes descompassado, que gera um efeito episódico sem necessidade.
 
 De qualquer forma, nada nos prepara para o final anti-climático, revelador e elegante em sua sutileza (e gritante em seu diálogo final, justo em um filme que na maior parte do tempo não precisa disso). Há algo de inocente nesse thriller enquanto thriller, mas algo de maravilhoso sendo construído com cores e enquadramentos enquanto exercício de estilo. Uma pena que ambos não consigam coexistir com total harmonia.
-2013-07-21-retratos-de-uma-obsessao.txt                                                                
+

@@ -4,7 +4,7 @@ _Aqui é o Meu Lugar (This Must Be the Place). Director: Paolo Sorrentino. Writer
 
 <a href="http://www.flickr.com/photos/caloni/10404037933/" title="Aqui é o Meu Lugar por caloni, no Flickr"><img src="http://farm4.staticflickr.com/3730/10404037933_b3e0f8d6f3_o.jpg" alt="Aqui é o Meu Lugar"></a>
 
-2013-10-20
+
 Quando o "ser cool" não significa nada, mesmo
 
 Sean Penn é um excelente ator, diga-se de passagem. Mas nesse trabalho em que ele coloca uma peruca (que insiste em assoprar) e fala como se fosse desmaiar a qualquer momento é daqueles típicos casos de vergonha alheia.

@@ -7,4 +7,4 @@ O filme inicia com um longo e famoso plano-sequência na introdução, ainda durant
 Mais uma vez com o uso de enquadramentos inusitados, sombras que passeiam com os personagens e o ângulo baixo, que evidencia, por exemplo, a ameaça de Quinlan sempre que ele aparece à tela, Welles não se intimida de soar graficamente expositivo em sua história, o que se por um lado funciona em muitas cenas, em outras lembra apenas um diretor brincando com técnicas de filmagem. A cena em que Vargas precisa usar um receptor de um microfone para uma "escuta ambulante" merece destaque, pois nota-se o preparo de mise en scène sem soar expositivo, mas orgânico.
 
 Com uma conclusão ainda impactante, de uma coisa não podemos reclamar de Welles: seu perfeccionismo quase obsessivo gera trabalhos constantes e muitas vezes originais, mesmo que vez ou outra repetitivos em sua própria obsessão.
-2012-01-31-a-marca-da-maldade.txt                                                                            
+

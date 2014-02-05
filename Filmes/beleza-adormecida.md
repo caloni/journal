@@ -10,4 +10,4 @@ Quem sabe, talvez, estar dormindo não seja o estado normal de Lucy, e nós é que 
 
 Pontos fortes: atuação de Emily Browning, fotografia, direção.
 Pontos fracos: roteiro.
-2012-04-07-beleza-adormecida.txt                                                                              
+

@@ -4,7 +4,7 @@ _Reino dos Gatos (The Cat Returns/Neko on ongaeshi). Japão, 2002. Direção: Hiroy
 
 <a href="http://www.flickr.com/photos/caloni/10818326193/" title="Reino dos Gatos por caloni, no Flickr"><img src="http://farm8.staticflickr.com/7359/10818326193_14608c49ae_o.jpg" alt="Reino dos Gatos"></a>
 
-2013-09-11
+
 Animações menores pode ter conteúdo adulto
 
 Assim como em Mundo dos Pequeninos, aqui os estúdios Ghibli fazem o que a Disney/Pixar começa a copiar: pequenas produções sem história desenvolvida para Cinema, mas que ganha a simpatia por usar os mesmos traços conhecidos de produções mais pomposas, como as dirigidas por Miyazaki.

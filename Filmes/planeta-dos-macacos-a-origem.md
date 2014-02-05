@@ -17,4 +17,4 @@ Infelizmente, por falta de confiança no espectador, os diferentes símios que con
 Contudo, mesmo que a trama não seja o ponto forte, o filme ganha um impulso extra ao explorar seu lado filosófico, quando, por exemplo, César consegue fazer valer sua inteligência em detrimento à força e ao prestígio dos símios dominantes no grupo em que é obrigado a conviver, o que, de forma irônica, acaba nos remetendo à nossa própria evolução, o que nos faz pensar: quem somos nós para subjugar espécies que consideramos inferiores, se nós mesmos estamos à mercê muitas vezes de nossos próprios caprichos instintivos e de moral duvidosa? Qual aspecto da sociedade moderna nos torna especiais em relação a uma sociedade de qualquer outra espécie?
 
 São questões que o filme nunca enfoca, e também nunca tenta solucionar. Mas, só pelo fato de nos submeter à essa reflexão em suas entrelinhas, já ganha uma posição de destaque no Cinema Pensante desse novo século.
-2011-08-31-planeta-dos-macacos-a-origem.txt                                                        
+

@@ -12,4 +12,4 @@ Usando de sustos bobos, sempre aumentando o som, o filme atedta que  não consegu
 Como um noviço consegue fazee um ezorcismo?
 A figura de Alice Braga é total.ente dispenszvel, pois o papel de michael na visita da menina tb era.
 Caracterizações nada marcantes, mas a de michael chega a ser patético no exorcismo, nunca conseguindo convencer de suas reais intenções, fraquezas.
-2011-11-02-o-ritual.txt                                                                                                
+

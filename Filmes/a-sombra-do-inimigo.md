@@ -11,4 +11,4 @@ Após se encontrar cara-a-cara com o assassino (Matthew Fox) que foi apelidado de
 No entanto, esses pequenos furos de lógica são pecadilhos perto dos diálogos completamente pedestres que somos obrigados a ouvir, entre eles "está doendo", "te pegamos", "isto é um estacionamento" (quando todos em volta já sabem disso) e por aí vai a valsa. Tudo isso contribui para a fragilização cada vez maior da história, que não consegue em momento algum criar um nível de tensão eficiente, pois com esses deslizes aliado ao uso de uma câmera que insiste em tremer em toda cena de ação torna muito difícil acompanharmos qualquer coisa.
 
 Se bem que, ainda que conseguíssemos entender o que há por trás de uma trama tão básica, previsível e incoerente em todos os seus detalhes, não haveria prazer algum em constatar o óbvio.
-2012-12-22-a-sombra-do-inimigo.txt                                                                          
+

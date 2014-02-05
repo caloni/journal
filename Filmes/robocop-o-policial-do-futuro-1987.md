@@ -4,7 +4,7 @@ _RoboCop — O Policial do Futuro (RoboCop). EUA, 1987. Director: Paul Verhoeven. 
 
 <a href="http://www.flickr.com/photos/caloni/9981421593/" title="RoboCop - O Policial do Futuro por caloni, no Flickr"><img src="http://farm4.staticflickr.com/3729/9981421593_9757eb0e37_o.png" alt="RoboCop - O Policial do Futuro"></a>
 
-2013-09-27
+
 O clássico mais violento da sessão da tarde
 
 RoboCop, de Paul Verhoeven, foi um marco dos anos 80 e fixação dos jovens amantes da Sessão da Tarde nos anos 90. A violência exacerbada chocava, mas tinha seu propósito: fixar sua mensagem sobre poder, corrupção e justiça; esses objetivos, diga-se de passagem, cabiam como uma luva nas consequências funestas dos seus personagens. Até o próprio RoboCop, que começa como o policial Alex J. Murphy (Peter Weller, o Marcus de Star Trek — Além da Escuridão), recebe sua dose de realidade em uma chuva de balas culminando com um tiro em sua cabeça, cabeça essa cujo mistério póstumo é o grande tema a respeito da humanidade dos cidadãos de Detroit, uma cidade corrompida do seu topo à base.

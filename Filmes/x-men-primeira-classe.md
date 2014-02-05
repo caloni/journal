@@ -32,4 +32,4 @@ Ainda que a comunicação visual seja vital para o filme, os diálogos são funciona
 
 O que nos faz voltar ao mais dramático dos personagens, em uma participação admirável de Michael Fassbender, que consegue, ao mesmo tempo, evocar o Magneto que se tornará obcecado por suas ideias, e enriquecer um personagem que já era fascinante pela construção anterior de Ian McKellen. Se a cena que o coloca, com um toque de genialidade, em xeque pelas suas própria convicções, e o força a encarar um destino tão dramático e irônico que só pode ser comparado às obras de Shakespeare, não é algo digno de aplausos, não sei mais o que seria em um filme com tantas virtudes.
 
-2011-06-07-x-men-primeira-classe.txt                                                                      
+

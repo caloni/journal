@@ -9,4 +9,4 @@ Essa mesma dualidade do linguajar ele irá resgatar quando Joe (Luke Wilson), o o
 Mais assustador do que se estivesse exagerando, o futuro utópico do filme também apresenta uma outra linha tênue entre a população formada inteiramente por idiotas e pela comparação que Mike Judge faz com boa parte das pessoas que hoje vivem entre nós. As próprias marcas e lojas ainda existem, embora tivessem sido cada vez mais descaracterizadas para atender cada vez melhor o seu único público-alvo.
 
 A melhor ficção é a que consegue te distanciar da realidade para te fazer pensar exatamente nela. Nesse sentido, Idiocracia, infelizmente, é um excelente espécime.
-2013-06-07-idiocracia.txt                                                                                            
+

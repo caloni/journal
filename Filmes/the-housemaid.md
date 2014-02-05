@@ -12,4 +12,4 @@ Quando a housemaid a se vestir de preto, tudo começa a se acelerar em direção ao
 Trivia
 
 O roteirista-diretor Ki-young Kim, que fez  esse filme de 1960, participa nos nomes do remake de 2010 como roteirista, junto do novo diretor Sang-Soo Im.
-2011-07-08-the-housemaid.txt                                                                                      
+

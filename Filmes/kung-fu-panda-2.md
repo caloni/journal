@@ -9,4 +9,4 @@ Com um trabalho criativo em alguns detalhes da trama (como a forma encontrada pe
 Pontos fortes: capacidade de fazer rir mesmo na reciclagem de piadas e personagens.
 
 Pontos fracos: a narrativa pouco se esforça para explicar de maneira efetiva a real motivação dos personagens, e por isso compromete de forma irreversível sua magnífica conclusão.
-2011-06-12-kung-fu-panda-2.txt                                                                                  
+

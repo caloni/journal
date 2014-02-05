@@ -5,4 +5,4 @@ E continuo assim. Poderia afirmar inocuamente que a fotografia é lindíssima, mas
 Também poderia bater na mesma tecla da edição de som, que orquestra, na cena do chuveiro, um verdadeiro repertório de técnica e harmonia. Sem falar, é claro, nos diversos ângulos e cortes que a cena de 3 minutos contém que, juntos com o zoom intermitente, aumentam a tensão. E junto, também, da trilha sonora, é claro. A magnífica composição de Bernard Herrmann, ou até mesmo o significativo raccord entre o ralo e o olho de Janet Leight. Aliás, eu poderia divagar por parágrafos a fio em torno apenas da cena do chuveiro. Tudo seria muito enfadonho e repetitivo, pois tudo que havia para ser dito já foi.
 
 Meu único pensamento é o testemunho de que, mesmo hoje vista como supervalorizada, a produção de Psicose continua sendo, sem sombra de dúvida, um clássico a ser visto e revisto por qualquer pessoa que ame e se interesse por cinema. É passagem obrigatória, com certeza.
-2011-06-30-psicose.txt                                                                                                  
+

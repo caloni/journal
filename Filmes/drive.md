@@ -9,4 +9,4 @@ A história gira em torno da figura emblemática ou problemática do "Motorista", o
 Mesmo inserindo cortes na trilha e falhas de transição a la Death Proof, assim como a obra de Tarantino o filme não é em nada amador, e os enquadramentos perfeitos dentro do carro do motorista — onde viramos praticamente passageiros oniscientes, consequência também da razão de tela mais alargada — ou as belas transições com a cidade vista de cima, além, é claro, da incrível seleção de músicas que se encaixam perfeitamente nas cenas, a direção segura e arriscada (pela breguice) de Nicolas Winding Refn acaba criando uma obra enigmática que nos leva do estranhamento ao deslumbramento em cinco minutos, mas que ao mesmo tempo que emula uma outra época cria uma atmosfera multifacetada e sem data ou lugar definidos.
 
 Porém, definitivamente algo novo e digno de assistir na telona.
-2012-03-13-drive.txt                                                                                                      
+

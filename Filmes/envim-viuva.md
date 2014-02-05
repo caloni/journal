@@ -11,4 +11,4 @@ Por outro lado, alguns detalhes revelam um pensamento um pouco além do convencio
 E se enquanto somos infestados com piadinhas de gosto duvidoso e caricaturas que não contribuem  muito para o desenvolvimento da história, quando a narrativa ganha o tom dramático do encontro dos personagens mais presentes (a esposa, o amante e o filho), a curva que vemos da comédia para uma filosofia um pouco mais "profunda" ("agora estou verdadeiramente de luto, pois perdi o homem que eu amo") contrasta de forma significativa, mas não de forma abrupta, pois somos levados aos poucos a entender o drama por trás da comédia de situação.
 
 Por fim, uma conclusão óbvia e bobinha (os dois se reencontram onde ela gostaria de morar, nas montanhas), mas que não tira o mérito de termos experenciado uma história um pouco mais realista que uma comédia comum.
-2010-09-03-envim-viuva.txt                                                                                          
+

@@ -11,4 +11,4 @@ Hanami é o costume dos japoneses de observar a beleza das flores. Esse custome p
 Esse simbolismo, aliás, também é usado na ideia de que é raro que o Monte Fuji apareça aos olhos humanos, devido à névoa que cobre toda a região em volta. Poém, quando isso acontece, devemos aproveitar essa oportunidade, e fazer tudo que devemos fazer.
 
 Não é assim com a própria vida, tão efêmera, mas tão valiosa?
-2011-10-29-hanami-cerejeiras-em-flor.txt 
+

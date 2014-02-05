@@ -11,4 +11,4 @@ A fotografia não poderia ser mais óbvia: cores frias no mundo branco e cores que
 Quando os soldados da rainha vão em busca da Alice seu braço direito está com o tapão preto do valete, enquanto nas cenas em que ele está ao lado da rainha veste o tapão vermelho, de copas.
 
 Ao final, o barco onde Alice está prestes a viajar para mundos "diferentes" chama-se wonder, em alusão à própria terra de maravilhas e ao aspecto intrínseco da história dentro do ego da protagonista, sua visão de mundo e como o mundo é transformado pela sua própria imaginação.
-2010-04-23-alice-no-pais-das-maravilhas-2010.txt                                              
+

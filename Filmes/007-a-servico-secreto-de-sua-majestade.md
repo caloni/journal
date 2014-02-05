@@ -11,4 +11,4 @@ A inesquecível Bond Girl deste filme desde o início nasce para ser sua parceira,
 O roteiro de Richard Maibaum, livre dessa vez do formato clássico imposto nos filmes anteriores, ganha mais organicidade e faz com que os eventos pareçam seguir um fluxo ininterrupto e coeso. É o filme de maior duração até agora, mas parece ser o que oferece uma maior imersão no arriscado universo de um agente secreto.
 
 Sean Connery será sempre eternizado por iniciar e estabelecer a adaptação do personagem literário para as telas. A troca de atores, porém, faz um bem enorme para o agente 007 no cinema, pois o torna maleável e eternizável para as futuras gerações, como não podemos negar nos dias de hoje com os filmes de Daniel Craig.
-2013-02-01-007-a-servico-secreto-de-sua-majestade.txt                                    
+

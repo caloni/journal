@@ -15,4 +15,4 @@ Pois bem. Quem defenderia a inocência dessa mulher, de que ela não sabia que ess
 E isso é apenas um exemplo, mas existem vários que, apesar de não serem escancarados, o fato de serem sutis é mais um sintoma de que talvez tenhamos chegado em um nível de degradação moral que, haja o que houver, faríamos o mesmo. O fato de inconscientemente sabermos que se trata de um filme, ou seja, produto de fantasia, faz tudo parecer devidamente encaixado em uma realidade que não nos pertence.
 
 Será mesmo. E é aí que entra o espelho, acusando o espectador sem apontar para ele. Somos responsáveis por esse filme, ou pelo menos o que ele significa. Nesse sentido, O Som ao Redor tem muito a dizer como um filme para uma sociedade que acha tudo isso normal.
-2013-01-14-o-som-ao-redor.txt                                                                                    
+

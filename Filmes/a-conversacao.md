@@ -4,7 +4,7 @@ _A Conversação (The Conversation). EUA, 1974. Direção: Francis Ford Coppola. Rot
 
 <a href="http://www.flickr.com/photos/caloni/10924882825/" title="A Conversação por caloni, no Flickr"><img src="http://farm3.staticflickr.com/2806/10924882825_439aa0c196_o.png" alt="A Conversação"></a>
 
-2013-16-11
+
 A edição de som como protagonista
 
 Geralmente quando o Cinema se volta para si mesmo (rendendo boa parte das vezes filmes memoráveis) ele nunca pensa em descrever como o som é importante. Direção, atores, fotografia, trilha sonora, tudo isso parece relevante para o público médio. Mas o som, esse pobre coitado, é renegado à posição de "quanto mais invisível, melhor".

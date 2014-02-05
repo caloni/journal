@@ -19,4 +19,4 @@ E se a "surpresa" final seria um deus ex machina se houvesse um conflito constru
 Pontos fortes: é um filme de ação, e, felizmente, é nela que a história se foca. A trilha sonora, como sempre, escolhida a dedo.
 
 Pontos fracos: precisamos de boas histórias que façam a ação valer a pena. E que tal um pouco de presença feminina de presença?
-2011-05-25-velozes-e-furiosos-5-operacao-rio.txt                                              
+
