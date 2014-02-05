@@ -1,6 +1,6 @@
 
 
-<iframe src="http://caloni.com.br/mms/mm.php?mm=wajma" height="400" width="860" frameborder="0"></iframe>
+
 
 <a href="http://www.flickr.com/photos/caloni/10404038683/" title="Wajma por caloni, no Flickr"><img src="http://farm4.staticflickr.com/3760/10404038683_457a163f56_o.jpg" alt="Wajma"></a>
 

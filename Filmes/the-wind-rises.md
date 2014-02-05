@@ -1,6 +1,6 @@
 
 
-<iframe src="http://caloni.com.br/mms/mm.php?mm=the-wind-rises" height="400" width="860" frameborder="0"></iframe>
+
 
 <a href="http://www.flickr.com/photos/caloni/10558084493/" title="The Wind Rises por caloni, no Flickr"><img src="https://farm4.staticflickr.com/3777/10558084493_2059c9b18c_o.jpg" alt="The Wind Rises"></a>
 

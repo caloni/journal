@@ -1,6 +1,6 @@
 
 
-<iframe src="http://caloni.com.br/mms/mm.php?mm=elysium" height="600" width="860" frameborder="0"></iframe>
+
 
 <a href="http://www.flickr.com/photos/caloni/9858288085/" title="Elysium por caloni, no Flickr"><img src="http://farm4.staticflickr.com/3700/9858288085_0878954ec3_o.png" alt="Elysium"></a>
 

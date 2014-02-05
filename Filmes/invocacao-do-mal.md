@@ -1,6 +1,6 @@
 
 
-<iframe src="http://caloni.com.br/mms/mm.php?mm=invocacao-do-mal" height="600" width="860" frameborder="0"></iframe>
+
 
 <a href="http://www.flickr.com/photos/caloni/9951987193/" title="Invocação do Mal por caloni, no Flickr"><img src="http://farm6.staticflickr.com/5503/9951987193_d6753a5aaf_o.jpg" alt="Invocação do Mal"></a>
 

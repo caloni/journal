@@ -1,6 +1,6 @@
 
 
-<iframe src="http://caloni.com.br/mms/mm.php?mm=gravidade" height="800" width="860" frameborder="0"></iframe>
+
 
 <a href="http://www.flickr.com/photos/caloni/10345770653/" title="Gravidade por caloni, no Flickr"><img src="http://farm6.staticflickr.com/5541/10345770653_96c5b47f5f_o.jpg" alt="Gravidade"></a>
 

@@ -1,6 +1,6 @@
 _A Conversação (The Conversation). EUA, 1974. Direção: Francis Ford Coppola. Roteiro: Francis Ford Coppola. Elenco: Gene Hackman, John Cazale, Allen Garfield, Harrison Ford. Montagem: Richard Chew. Trilha Sonora: David Shire. Fotografia: Bill Butler, Haskell Wexler. Edição de Som: Walter Murch._
 
-<iframe src="http://caloni.com.br/mms/mm.php?mm=a-conversacao" height="400" width="860" frameborder="0"></iframe>
+
 
 <a href="http://www.flickr.com/photos/caloni/10924882825/" title="A Conversação por caloni, no Flickr"><img src="http://farm3.staticflickr.com/2806/10924882825_439aa0c196_o.png" alt="A Conversação"></a>
 

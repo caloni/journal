@@ -1,4 +1,4 @@
-<iframe src="http://caloni.com.br/mms/mm.php?mm=invasores" height="400" width="860" frameborder="0"></iframe>
+
 
 <a href="http://www.flickr.com/photos/caloni/12020262464/" title="Invasores (2) por caloni, no Flickr"><img src="http://farm8.staticflickr.com/7376/12020262464_d4bfd80163_o.jpg" alt="Invasores (2)"></a>
 

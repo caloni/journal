@@ -1,6 +1,6 @@
 _O Balconista (Clerks). EUA, 1994. Director: Kevin Smith. Writer: Kevin Smith. Stars: Brian O'Halloran, Jeff Anderson, Marilyn Ghigliotti._
 
-<iframe src="http://caloni.com.br/mms/mm.php?mm=o-balconista" height="400" width="860" frameborder="0"></iframe>
+
 
 <a href="http://www.flickr.com/photos/caloni/10403864234/" title="O Balconista por caloni, no Flickr"><img src="http://farm6.staticflickr.com/5530/10403864234_a0048fa6ab_o.jpg" alt="O Balconista"></a>
 

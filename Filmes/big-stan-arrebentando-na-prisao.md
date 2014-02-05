@@ -1,6 +1,6 @@
 
 
-<iframe src="http://caloni.com.br/mms/mm.php?mm=big-stan-arrebentando-na-prisao" height="400" width="860" frameborder="0"></iframe>
+
 
 <a href="http://www.flickr.com/photos/caloni/10836525955/" title="Big Stan - Arrebentando na Prisão por caloni, no Flickr"><img src="http://farm8.staticflickr.com/7361/10836525955_3c0466c234_o.jpg" alt="Big Stan - Arrebentando na Prisão"></a>
 

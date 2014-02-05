@@ -1,6 +1,6 @@
 
 
-<iframe src="http://caloni.com.br/mms/mm.php?mm=kung-fusao" height="600" width="860" frameborder="0"></iframe>
+
 
 <a href="http://www.flickr.com/photos/caloni/10476056163/" title="Kung-Fusão por caloni, no Flickr"><img src="http://farm8.staticflickr.com/7407/10476056163_9e84ee17a1_o.jpg" alt="Kung-Fusão"></a>
 

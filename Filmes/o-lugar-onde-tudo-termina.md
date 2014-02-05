@@ -1,6 +1,6 @@
 
 
-<iframe src="http://caloni.com.br/mms/mm.php?mm=o-lugar-onde-tudo-termina" height="400" width="860" frameborder="0"></iframe>
+
 
 <a href="http://www.flickr.com/photos/caloni/11036737875/" title="O Lugar Onde Tudo Termina (3) por caloni, no Flickr"><img src="http://farm6.staticflickr.com/5496/11036737875_8f2ec52d5a_o.jpg" alt="O Lugar Onde Tudo Termina (3)"></a>
 

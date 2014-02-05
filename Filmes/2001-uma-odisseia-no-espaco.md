@@ -1,6 +1,6 @@
 
 
-<iframe src="http://caloni.com.br/mms/mm.php?mm=2001-uma-odisseia-no-espaco" height="800" width="860" frameborder="0"></iframe>
+
 
 <a href="http://www.flickr.com/photos/caloni/10457689033/" title="2001 - Uma Odisseia no Espaço (5) por caloni, no Flickr"><img src="http://farm3.staticflickr.com/2836/10457689033_e94b303faf_o.jpg" alt="2001 - Uma Odisseia no Espaço (5)"></a>
 

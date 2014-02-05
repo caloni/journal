@@ -1,4 +1,4 @@
-<iframe src="http://caloni.com.br/mms/mm.php?mm=atividade-paranormal-marcados-pelo-mal" height="400" width="860" frameborder="0"></iframe>
+
 
 <a href="http://www.flickr.com/photos/caloni/12020206403/" title="Atividade Paranormal Marcados pelo Mal por caloni, no Flickr"><img src="http://farm6.staticflickr.com/5524/12020206403_b433a0814e_o.jpg" alt="Atividade Paranormal Marcados pelo Mal"></a>
 

@@ -1,6 +1,6 @@
 _O Show de Truman (The Truman Show). EUA, 1998. Director: Peter Weir. Writer: Andrew Niccol. Stars: Jim Carrey, Ed Harris, Laura Linney._
 
-<iframe src="http://caloni.com.br/mms/mm.php?mm=o-show-de-truman" height="400" width="860" frameborder="0"></iframe>
+
 
 <a href="http://www.flickr.com/photos/caloni/10404040023/" title="O Show de Truman por caloni, no Flickr"><img src="http://farm3.staticflickr.com/2852/10404040023_b54ffeee22_o.jpg" alt="O Show de Truman"></a>
 

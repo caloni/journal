@@ -1,4 +1,4 @@
-<iframe src="http://caloni.com.br/mms/mm.php?mm=a-casa-silenciosa" height="400" width="860" frameborder="0"></iframe>
+
 
 <a href="http://www.flickr.com/photos/caloni/12020746706/" title="A Casa Silenciosa (7) por caloni, no Flickr"><img src="http://farm4.staticflickr.com/3763/12020746706_6e13b30374_o.jpg" alt="A Casa Silenciosa (7)"></a>
 

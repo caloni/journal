@@ -1,6 +1,6 @@
 _RoboCop — O Policial do Futuro (RoboCop). EUA, 1987. Director: Paul Verhoeven. Writers: Edward Neumeier, Michael Miner. Stars: Peter Weller, Nancy Allen, Dan O'Herlihy, Ronny Cox, Kurtwood Smith, Miguel Ferrer, Robert DoQui._
 
-<iframe src="http://caloni.com.br/mms/mm.php?mm=robocop-o-policial-do-futuro-1987" height="600" width="860" frameborder="0"></iframe>
+
 
 <a href="http://www.flickr.com/photos/caloni/9981421593/" title="RoboCop - O Policial do Futuro por caloni, no Flickr"><img src="http://farm4.staticflickr.com/3729/9981421593_9757eb0e37_o.png" alt="RoboCop - O Policial do Futuro"></a>
 

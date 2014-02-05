@@ -1,6 +1,6 @@
 _Superman: O Filme (Superman). Reino Unido, 1978. Director: Richard Donner. Writers: Jerry Siegel (creator: Superman), Joe Shuster (creator: Superman), Mario Puzo, David Newman, Leslie Newman, Robert Benton. Stars: Marlon Brando, Christopher Reeve, Margot Kidder and Gene Hackman._
 
-<iframe src="http://caloni.com.br/mms/mm.php?mm=superman-o-filme" height="400" width="860" frameborder="0"></iframe>
+
 
 <a href="http://www.flickr.com/photos/caloni/10977327653/" title="Superman - O Filme (4) por caloni, no Flickr"><img src="http://farm8.staticflickr.com/7297/10977327653_d66c5ee6b4_o.jpg" alt="Superman - O Filme (4)"></a>
 

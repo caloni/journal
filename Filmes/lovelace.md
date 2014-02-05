@@ -1,6 +1,6 @@
 
 
-<iframe src="http://caloni.com.br/mms/mm.php?mm=lovelace" height="420" width="860" frameborder="0"></iframe>
+
 
 <a href="http://www.flickr.com/photos/caloni/9821052506/" title="Lovelace por caloni, no Flickr"><img src="http://farm8.staticflickr.com/7383/9821052506_e18383b7e0_o.jpg" alt="Lovelace"></a>
 

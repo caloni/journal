@@ -1,6 +1,6 @@
 
 
-<iframe src="http://caloni.com.br/mms/mm.php?mm=fora-de-controle" height="400" width="860" frameborder="0"></iframe>
+
 
 <a href="http://www.flickr.com/photos/caloni/10894835124/" title="Fora de Controle por caloni, no Flickr"><img src="http://farm6.staticflickr.com/5500/10894835124_757518cac4_o.jpg" alt="Fora de Controle"></a>
 

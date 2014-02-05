@@ -1,6 +1,6 @@
 
 
-<iframe src="http://caloni.com.br/mms/mm.php?mm=os-suspeitos-2013" height="400" width="860" frameborder="0"></iframe>
+
 
 <a href="http://www.flickr.com/photos/caloni/10535477076/" title="Os Prisioneiros (3) por caloni, no Flickr"><img src="http://farm8.staticflickr.com/7322/10535477076_fd7c8e4096_o.jpg" alt="Os Prisioneiros (3)"></a>
 

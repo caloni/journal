@@ -1,6 +1,6 @@
 
 
-<iframe src="http://caloni.com.br/mms/mm.php?mm=se-puder-dirija" height="420" width="860" frameborder="0"></iframe>
+
 
 <a href="http://www.flickr.com/photos/caloni/9707851209/" title="Se Puder... Dirija! por caloni, no Flickr"><img src="http://farm8.staticflickr.com/7429/9707851209_20d3fc22cf_o.jpg" alt="Se Puder... Dirija!"></a>
 

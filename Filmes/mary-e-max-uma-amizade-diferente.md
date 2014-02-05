@@ -1,6 +1,6 @@
 
 
-<iframe src="http://caloni.com.br/mms/mm.php?mm=mary-e-max-uma-amizade-diferente" height="600" width="860" frameborder="0"></iframe>
+
 
 <a href="http://www.flickr.com/photos/caloni/10854175073/" title="Mary and Max - Uma Amizade Diferente (3) por caloni, no Flickr"><img src="http://farm6.staticflickr.com/5509/10854175073_9cb3999848_o.jpg" alt="Mary and Max - Uma Amizade Diferente (3)"></a>
 

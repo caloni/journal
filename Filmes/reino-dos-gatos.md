@@ -1,6 +1,6 @@
 
 
-<iframe src="http://caloni.com.br/mms/mm.php?mm=reino-dos-gatos" height="400" width="860" frameborder="0"></iframe>
+
 
 <a href="http://www.flickr.com/photos/caloni/10818326193/" title="Reino dos Gatos por caloni, no Flickr"><img src="http://farm8.staticflickr.com/7359/10818326193_14608c49ae_o.jpg" alt="Reino dos Gatos"></a>
 

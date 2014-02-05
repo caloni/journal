@@ -1,6 +1,6 @@
 _A Morte lhe Cai Bem (Death Becomes Her). EUA, 1992. Director: Robert Zemeckis. Writers: Martin Donovan, David Koepp. Stars: Meryl Streep, Bruce Willis, Goldie Hawn._
 
-<iframe src="http://caloni.com.br/mms/mm.php?mm=a-morte-lhe-cai-bem" height="400" width="860" frameborder="0"></iframe>
+
 
 <a href="http://www.flickr.com/photos/caloni/10669503715/" title="A Morte lhe Cai Bem por caloni, no Flickr"><img src="http://farm6.staticflickr.com/5513/10669503715_721f7db956_o.jpg" alt="A Morte lhe Cai Bem"></a>
 

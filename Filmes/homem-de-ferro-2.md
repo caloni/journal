@@ -1,6 +1,6 @@
 
 
-<iframe frameborder="0" height="420" width="860" src="http://caloni.com.br/mms/mm.php?mm=homem-de-ferro-2"></iframe>
+
 <a href="http://www.flickr.com/photos/caloni/9687730298/" title="Homem de Ferro 2 por caloni, no Flickr"><img src="http://farm4.staticflickr.com/3676/9687730298_4f2a1ba634_o.jpg" alt="Homem de Ferro 2"></a>
 
 

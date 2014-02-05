@@ -1,6 +1,6 @@
 _Elvira - A Rainha das Trevas (Elvira: Mistress of the Dark). EUA, 1988. Direção: James Signorelli. Roteiro: Sam Egan, John Paragon. Elenco: Cassandra Peterson, Phil Rubenstein, Larry Flash Jenkins. Direção de Arte: Bruce A. Gibeson. Figurino: Betsy Heimann. Maquiagem: Robin Beauchesne, Lisa Meyers._
 
-<iframe src="http://caloni.com.br/mms/mm.php?mm=elvira-a-rainha-das-trevas" height="400" width="860" frameborder="0"></iframe>
+
 
 <a href="http://www.flickr.com/photos/caloni/10818184384/" title="Elvira - A Rainha das Trevas por caloni, no Flickr"><img src="http://farm8.staticflickr.com/7305/10818184384_f1472529e4_o.jpg" alt="Elvira - A Rainha das Trevas"></a>
 

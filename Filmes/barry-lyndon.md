@@ -1,6 +1,6 @@
 _Barry Lyndon (Barry Lyndon). Reino Unido/EUA, 1975. Director: Stanley Kubrick. Writers: Stanley Kubrick (written for the screen by), William Makepeace Thackeray (novel). Stars: Ryan O'Neal, Marisa Berenson, Patrick Magee. Cinematography: John Alcott. Art Direction: Roy Walker._
 
-<iframe src="http://caloni.com.br/mms/mm.php?mm=barry-lyndon" height="800" width="860" frameborder="0"></iframe>
+
 
 <a href="http://www.flickr.com/photos/caloni/10404042113/" title="Barry Lyndon por caloni, no Flickr"><img src="http://farm8.staticflickr.com/7297/10404042113_8744c51d48_o.jpg" alt="Barry Lyndon"></a>
 

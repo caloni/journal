@@ -1,6 +1,6 @@
 
 
-<iframe src="http://caloni.com.br/mms/mm.php?mm=speed-racer" height="400" width="860" frameborder="0"></iframe>
+
 
 <a href="http://www.flickr.com/photos/caloni/11116032466/" title="Speed Racer por caloni, no Flickr"><img src="http://farm4.staticflickr.com/3776/11116032466_86a021a88a_o.jpg" alt="Speed Racer"></a>
 

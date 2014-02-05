@@ -1,6 +1,6 @@
 _O Panaca (The Jerk). EUA, 1979. Direção: Carl Reiner. Roteiro: Steve Martin, Carl Gottlieb, Michael Elias. Elenco: Steve Martin, Bernadette Peters, Catlin Adams._
 
-<iframe src="http://caloni.com.br/mms/mm.php?mm=o-panaca" height="400" width="860" frameborder="0"></iframe>
+
 
 <a href="http://www.flickr.com/photos/caloni/11100328174/" title="O Panaca por caloni, no Flickr"><img src="http://farm8.staticflickr.com/7367/11100328174_aca5a404e2_o.jpg" alt="O Panaca"></a>
 

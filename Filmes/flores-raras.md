@@ -1,6 +1,6 @@
 
 
-<iframe frameborder="0" height="420" width="860" src="http://caloni.com.br/mms/mm.php?mm=flores-raras"></iframe>
+
 <a href="http://www.flickr.com/photos/caloni/9672155345/" title="Flores Raras por caloni, no Flickr"><img src="http://farm6.staticflickr.com/5497/9672155345_369d5feedb_o.jpg" alt="Flores Raras"></a>
 
 

@@ -1,6 +1,6 @@
 
 
-<iframe src="http://caloni.com.br/mms/mm.php?mm=a-familia" height="600" width="860" frameborder="0"></iframe>
+
 
 <a href="http://www.flickr.com/photos/caloni/10103241294/" title="A Família por caloni, no Flickr"><img src="http://farm8.staticflickr.com/7394/10103241294_f68611440e_o.jpg" alt="A Família"></a>
 

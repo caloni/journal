@@ -1,6 +1,6 @@
 _Viagem a Tóquio (Tôkyô monogatari/Tokyo Story/Era uma Vez em Tóquio). Japão, 1953. Director: Yasujirô Ozu. Writers: Kôgo Noda (scenario), Yasujirô Ozu (scenario). Stars: Chishû Ryû, Chieko Higashiyama, Sô Yamamura._
 
-<iframe src="http://caloni.com.br/mms/mm.php?mm=era-uma-vez-em-toquio-1953" height="400" width="860" frameborder="0"></iframe>
+
 
 <a href="http://www.flickr.com/photos/caloni/10612268595/" title="Era Uma Vez em Tóquio (4) por caloni, no Flickr"><img src="http://farm8.staticflickr.com/7437/10612268595_f35279dbe3_o.jpg" alt="Era Uma Vez em Tóquio (4)"></a>
 

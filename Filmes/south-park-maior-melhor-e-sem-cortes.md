@@ -1,6 +1,6 @@
 _South Park: Maior, Melhor e Sem Cortes (South Park: Bigger Longer & Uncut). EUA, 1999. Director: Trey Parker. Writers: Trey Parker (television series South Park), Matt Stone (television series South Park), Pam Brady (written by). Stars: Trey Parker, Matt Stone, Mary Kay Bergman._
 
-<iframe src="http://caloni.com.br/mms/mm.php?mm=south-park-maior-melhor-e-sem-cortes" height="400" width="860" frameborder="0"></iframe>
+
 
 <a href="http://www.flickr.com/photos/caloni/10669504785/" title="South Park - Maior, Melhor e sem Cortes por caloni, no Flickr"><img src="http://farm8.staticflickr.com/7341/10669504785_9bfc4d48a8_o.jpg" alt="South Park - Maior, Melhor e sem Cortes"></a>
 

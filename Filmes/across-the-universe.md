@@ -1,6 +1,6 @@
 
 
-<iframe src="http://caloni.com.br/mms/mm.php?mm=across-the-universe" height="600" width="860" frameborder="0"></iframe>
+
 
 <a href="http://www.flickr.com/photos/caloni/10011133786/" title="Across the Universe por caloni, no Flickr"><img src="http://farm3.staticflickr.com/2850/10011133786_6a0fce9e5d_o.jpg" alt="Across the Universe"></a>
 

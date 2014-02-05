@@ -1,6 +1,6 @@
 
 
-<iframe src="http://caloni.com.br/mms/mm.php?mm=jogos-vorazes-em-chamas" height="400" width="860" frameborder="0"></iframe>
+
 
 <a href="http://www.flickr.com/photos/caloni/11289445834/" title="Jogos Vorazes Em Chamas por caloni, no Flickr"><img src="http://farm4.staticflickr.com/3677/11289445834_f6c256aebe_o.jpg" alt="Jogos Vorazes Em Chamas"></a>
 

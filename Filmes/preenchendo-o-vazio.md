@@ -1,6 +1,6 @@
 
 
-<iframe src="http://caloni.com.br/mms/mm.php?mm=preenchendo-o-vazio" height="400" width="860" frameborder="0"></iframe>
+
 
 <a href="http://www.flickr.com/photos/caloni/10328609953/" title="Preenchendo o Vazio por caloni, no Flickr"><img src="http://farm4.staticflickr.com/3668/10328609953_d769d41681_o.jpg" alt="Preenchendo o Vazio"></a>
 

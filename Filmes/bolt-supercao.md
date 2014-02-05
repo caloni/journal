@@ -1,6 +1,6 @@
 
 
-<iframe src="http://caloni.com.br/mms/mm.php?mm=bolt-supercao" height="400" width="860" frameborder="0"></iframe>
+
 
 <a href="http://www.flickr.com/photos/caloni/11401498506/" title="Bolt - Supercão por caloni, no Flickr"><img src="https://farm8.staticflickr.com/7460/11401498506_a12c062022_o.png" alt="Bolt - Supercão"></a>
 

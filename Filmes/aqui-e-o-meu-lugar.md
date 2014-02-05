@@ -1,6 +1,6 @@
 _Aqui é o Meu Lugar (This Must Be the Place). Director: Paolo Sorrentino. Writers: Paolo Sorrentino (screenplay), Umberto Contarello (screenplay). Stars: Sean Penn, Frances McDormand, Judd Hirsch._
 
-<iframe src="http://caloni.com.br/mms/mm.php?mm=aqui-e-o-meu-lugar" height="400" width="860" frameborder="0"></iframe>
+
 
 <a href="http://www.flickr.com/photos/caloni/10404037933/" title="Aqui é o Meu Lugar por caloni, no Flickr"><img src="http://farm4.staticflickr.com/3730/10404037933_b3e0f8d6f3_o.jpg" alt="Aqui é o Meu Lugar"></a>
 
