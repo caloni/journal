@@ -21,4 +21,4 @@ E por falar em atmosfera, a fotografia de John R. Leonetti é precisa e significa
 
 Enfim, um trabalho de atmosfera que compensa demais trabalhos menores do gênero. O fato de aos poucos entendermos e nos importarmos com aquelas pessoas (tanto a família quanto os especialistas) é que torna seus momentos finais mais angustiantes e desagradáveis (no bom sentido). A tensão de termos que encarar aquelas pessoas sofrendo no máximo de suas capacidades é uma catarse muitas vezes mais poderosa do que qualquer outro show de pirotecnia nos efeitos visuais seria. O melhor efeito visual sempre é o que se desenvolve em parte dentro da mente do espectador.
 
-Tags: terror, horror, drama, fotografia
+

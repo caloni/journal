@@ -21,4 +21,4 @@ Se a beleza das imagens dizem quase tudo, é uma pena que o roteiro não seja nem 
 
 Mesmo com seu pecadilhos, Jogos Vorazes mantém o interesse constante em seu 140 minutos de duração.
 
-Tags: música-tema, direção de arte, figurino
+

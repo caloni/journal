@@ -13,4 +13,4 @@ E magia é o que acontece quando é quebrada a quarta parede desse mundo ideal, fa
 
 Mais curioso do que o próprio acontecimento é a maneira como aquele mundo o trata, como um problema a ser resolvido e como uma rebeldia que poderia muito bem ter vindo de algum comunista/anarquista maluco. Quando os personagens do filme dentro do filme começam a se questionar a necessidade de um roteirista e direção os dizendo o que fazer, podemos entender como uma crítica direta à máquina ininterrupta de fabricar filmes que Hollywood se transformou. Uma máquina de ilusões, como o próprio nostálgico e necessário final conclui sem qualquer diálogo.
 
-Tags: direção, fotografia.
+

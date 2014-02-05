@@ -15,4 +15,4 @@ Embora tenham lá seus momentos agradáveis e nunca transpareça que seus filhos no
 
 E parece ser isso a força invisível desse filme. Muitos excelentes trabalhos posteriores usaram a mesma receita - onde se encaixa com certeza o tocante Hanami - mas Tokyo Story tem aquele ingrediente mágico de fazer as pessoas pensarem por si sós o que tudo isso significa. Essa leveza de cores pode transformar a vida de muita gente por muitas décadas ainda.
 
-Tags: família, contos, clássicos, mostrasp
+

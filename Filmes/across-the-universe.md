@@ -21,4 +21,4 @@ Toda essa miscelânea de contextos é regada, claro, com letras e músicas da banda
 
 Encontrando espaço suficiente para desenvolver seus personagens, o forte do longa parece residir mesmo nessa capacidade de reorganizar as letras da banda de maneira a contar uma história simplista, muitas vezes desconexa, mas que sobretudo honra as mensagens que suas letras tão cheias de amor sempre quiseram passar. Com isso, Across the Universe não apenas reinterpreta Beatles, mas cria um verdadeiro universo paralelo cheio de música, cores e ideais.
 
-Tags: musical
+

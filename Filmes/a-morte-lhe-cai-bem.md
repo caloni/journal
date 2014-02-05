@@ -15,4 +15,4 @@ Meryl Streep e Bruce Willis estão bem deslocados de suas personas clássicas, e s
 
 A crítica aos cosméticos não poderia ter sido melhor desenvolvida. A comédia sempre pode ser usada como uma lupa para os nossos erros.
 
-Tags: comédia, direção, enquadramentos
+

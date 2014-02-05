@@ -17,4 +17,4 @@ Esta é uma história de um idiota só, e o ato de pararmos uma hora e meia para as
 
 O fato de alguém ganhar muito dinheiro o torna um gênio do dia para a noite? Talvez você precise fazer uma revisita ao conto do panaca para repensar os valores que temos hoje em dia.
 
-Tags: comédia, direção, roteiro, metáforas, sociedade
+

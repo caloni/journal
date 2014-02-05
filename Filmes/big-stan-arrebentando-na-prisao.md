@@ -17,4 +17,4 @@ Como a maioria dos filmes do ator, as sacadas e narrativa são pouco originais, o
 
 É de certa forma notável o esforço de Schneider em alterar seu personagem do início, um milionário fresco, para o Big Stan do título que chega na prisão com uma auto-estima bem melhor. O caminho para se chegar a esse momento é que é de gosto duvidável.
 
-Tags: comédia
+

@@ -13,4 +13,4 @@ Trazendo uma fotografia preto e branca sem qualquer motivo aparente, o filme gir
 
 O que é impressionante mesmo é que o filme tenha uma continuação. Dá pra acreditar?
 
-Tags: comédia
+

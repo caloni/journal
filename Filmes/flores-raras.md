@@ -14,4 +14,4 @@ Iniciando nos anos 50, passando pelo golpe militar brasileiro e avançando os ano
 
 Mesmo assim, é admirável constatar que, baseado em fatos, o hábil roteiro derivado de um romance consegue entregar uma história se não verossímil, degustável através da própria visão literária de sua protagonista. Isso por si só o equipara a [Swimming Pool](http://www.imdb.com/title/tt0324133), uma ficção que faz rima inversa ao realismo da obra de Barreto.
 
-Tags: anos 2010, história, lesbianismo, homossexualidade, poesia
+

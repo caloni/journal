@@ -15,4 +15,4 @@ Por fim, a introdução frenética dá lugar a um cãozinho abandonado que terá que s
 
 O que "Bolt" procura todo o tempo e na maioria das vezes consegue é comparar nossa imaginação com a dura realidade, quase que brincando com a própria experiência cinematográfica em que toda peripécia arriscada sempre dá certo. Tenta também emocionar em vários momentos, mas acaba o fazendo de fato pelo arco que a história proporciona. Um lindo exemplo de como inspirar crianças (e adultos) sem apelar para a velha farofa melodramática.
 
-Tags: música, animação, enredo, efeitos visuais, fotografia.
+

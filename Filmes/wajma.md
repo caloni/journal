@@ -11,4 +11,4 @@ Mais um daqueles filmes que exploram de maneira corriqueira, quase novelística, 
 
 Feito de propósito ou não, a falta de um desfecho mais incisivo e cruel poderia gerar um efeito muito mais efetivo, já que o objetivo é claramente criticar o status quo. Me impressiona que ainda que em defesa legítima de suas vítimas, o longa não consiga utilizar o mesmo final impactante de filmes como O Menino de Pijama Listrado, por exemplo. Pelo visto, o abuso e injustiças contra a mulher ainda viva está longe de ser um drama tão grave quanto os milhões de judeus massacrados pela guerra.
 
-Tags: mostrasp, drama, independente, novela
+

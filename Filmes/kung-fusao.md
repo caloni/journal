@@ -15,4 +15,4 @@ Mas havia falado de ingenuidade, e esse que pode ser o ponto fraco nas cenas que
 
 Por fim, as habilidades crescentes dos opositores ligam tudo junto em um manifesto pró-kung fu que possui seus deslizes, mas em sua alma, mantém sua grandeza intacta.
 
-Tags: comédia, comédia do absurdo, efeitos visuais, lutas, artes marciais, filosofia, comédia pastelão
+

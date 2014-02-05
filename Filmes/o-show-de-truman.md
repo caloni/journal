@@ -11,4 +11,4 @@ Daria para escrever um livro sobre O Show de Truman, do sempre interessante rote
 
 E nesse sentido The Big Brother, o filme permanece mais do que atual: terrivelmente profético. Assistimos programas de TV pela possibilidade de acompanhar a vida de outras pessoas. Séries nos mantém curiosos a respeito do destino de seus fictícios personagens. Tudo isso, no entanto, está longe do fascínio das pessoas pela vida alheia. E nada mais compreensível que um show que explore essa vida alheia em proporções megalomaníacas fosse o maior sucesso de todos os tempos.
 
-Tags: drama, comédia, símbolos, filosofia, metalinguagem, grandes filmes
+

@@ -21,4 +21,4 @@ O que nos leva mais uma vez a uma "troca de foco". Dessa vez, quinze anos se pas
 
 Ao final, o destino daquelas pessoas já não é mais tão particular. A transição que completa a trama e fecha o ciclo representa a sobrevivência de algo maior que transcende o mero estudo de personagens. O filme se torna o estudo do Cinema como arte de narrar histórias.
 
-Tags: drama, direção, fotografia, montagem, figurino, atuação
+

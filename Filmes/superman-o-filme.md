@@ -28,4 +28,4 @@ Olhe atentamente para Clark Kent e me diga o seguinte: mesmo sabendo que ele é o
 
 Em contraparte, não há como negar os esforços do diretor Richard Donner em tentar tornar as cenas de voo (a chamada principal para o filme na época era "Você vai acreditar que o homem pode voar") e torná-las leves e poéticas. É um marco nos efeitos visuais, mesmo hoje tendo sido ultrapassado. Já a lenda, essa parece que está longe de ser. Todos os trabalhos futuros devem se render à sombra de Christopher Reeve.
 
-Tags: efeitos visuais, direção, roteiro, atuação
+

@@ -13,4 +13,4 @@ O maior problema do filme é criar conflitos onde não existe (se Colosso estava p
 
 Com seus prós e contras, a animação de Campanella diverte moderadamente. Tal como um jogo de cartas marcadas que estamos acostumados a assistir hoje em dia.
 
-Tags: animação, direção de arte
+

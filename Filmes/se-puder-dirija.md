@@ -15,4 +15,4 @@ Disse no início que esses tipos de filmes atraem público pela piada e pelo elenc
 
 No entanto, sejamos justos: há uma história nisso tudo. Ela é mínimamente coerente e consegue não se despedaçar durante todo o trajeto. É manipuladora, previsível e careta. Porém, ela existe, o que por ironia torna-se mais estruturada que trabalhos mais caóticos como Vai Que Dá Certo. Se isso serve como consolo, só o tempo dirá.
 
-Tags: globochanchada, comédia
+

@@ -13,4 +13,4 @@ No entanto, há momentos engraçados em Bridesmaids. Caso não houvesse, morreríamo
 
 Tudo isso devido a uma interpretação sem ressalvas de Kristen Wiig, que também assina o roteiro e derruba como poucas o delírio que as mulheres são objetos manipulativos sem livre arbítrio. O filme (e ela) as humaniza, mas não em detrimento de um homem, mas como um ser humano dotado de emoções e que não precisa de ninguém para se tornar completa. É ela sozinha que destrói sua vida por todos os lados, e é ela sozinha que terá que reavê-la. Esse arco dramático funciona tão bem no filme porque não há nenhum diálogo que nos explica o que está acontecendo. Apenas observe os acontecimentos e se coloque na sua posição. Não é algo muito difícil de fazer se você tirar o machismo da sua frente.
 
-Tags: drama, atuação, comédia-romântica.
+

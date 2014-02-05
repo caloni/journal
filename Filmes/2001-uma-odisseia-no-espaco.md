@@ -17,4 +17,4 @@ A discussão envolve menos diálogos e mais sensações. As formas arredondadas que 
 
 Por esses motivos não consigo deixar de considerar 2001 uma obra de arte que puxa ao máximo o seu meio - o Cinema - para uma discussão profunda e deliciosa sobre o que estamos fazendo aqui.
 
-Tags: sci-fi, ficção científica, direção, efeitos visuais, direção de arte, trilha sonora, fotografia
+

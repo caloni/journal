@@ -15,4 +15,4 @@ Porém, disse "sexual" sem a devida proporção. Essa é uma sessão matinê com censu
 
 É nessa gana de obter dinheiro e sucesso que a apresentadora de filmes ruins acaba fazendo parte de um. Essa ironia, ainda que tímida, é o que torna Elvira um espécime pelo menos interessante.
 
-Tags: comédia, trash, figurino, efeitos visuais
+

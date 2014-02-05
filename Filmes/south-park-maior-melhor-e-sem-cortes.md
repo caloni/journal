@@ -17,4 +17,4 @@ Desenvolvendo a história através de números musicais - mais uma alfinetada na mo
 
 Por tudo isso, "South Park - maior, melhor e sem cortes" é imperdível. Quem perder é um filho da puta fodedor de tios.
 
-Tags: animação, comédia, sátira
+

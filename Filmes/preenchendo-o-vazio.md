@@ -17,4 +17,4 @@ Sim, ela morre, e deixa a família inteira órfã de um casamento. Seu filho recém-
 
 O drama é forte, mas conduzido de forma fraca. O tedioso fica tenso, mas nunca se transforma em outra coisa. Pela repetição, Burshtein compromete sua eficácia. Mesmo assim, um trabalho que cumpre sua imersão em uma cultura radicalmente diferente ao mesmo tempo que comprova que humanos são humanos em qualquer condição de vida desse planeta.
 
-Tags: drama, religião, sociedade, estreias de diretores, em cartaz
+

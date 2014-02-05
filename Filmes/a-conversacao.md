@@ -17,4 +17,4 @@ A fascinação que surge diante de um profissional desses apenas rivaliza com sua 
 
 Sua vida parecia inerte por anos, até que suas dúvidas a respeito de que seus atos podem estar prejudicando seriamente a vida do casal que escutou o faz repensar seus atos. Sua moral religiosa também faz parte do repertório de métodos para não enlouquecer sozinho. Suas decisões a partir daí também são silenciosas. Conforme seu mundo vai mudando, percebemos seu desmoronamento apenas em seu olhar e seu jeito de andar. Todo o resto fica por conta dos sons ao redor. Que trabalho mais fascinante o de trabalhar com ecos invisíveis!
 
-Tags: drama, edição de som, direção, montagem, atuação
+

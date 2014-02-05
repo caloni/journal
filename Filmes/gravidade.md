@@ -15,4 +15,4 @@ Mas como nos levar a suportar tudo aquilo por tanto tempo? Primeiramente com a e
 
 Parte da sensação angustiante/nauseante existe por causa do uso da câmera, que nos coloca em primeira pessoa a cada novo desafio. A outra parte reside em nós mesmos e à nossa construção de um ambiente sem muitas referências em volta, e portanto, paradoxalmente claustofóbico. O que faríamos numa situação dessas? Provavelmente a construção desse suspense reside no próprio Cinema e sua capacidade de simular a vontade humana de sobreviver.
 
-Tags: drama, terror, espaço, em cartaz, solidão, plano-sequência
+

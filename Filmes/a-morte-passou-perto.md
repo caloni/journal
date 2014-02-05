@@ -11,4 +11,4 @@ Mesmo assim, há que se dar créditos por detalhes que divertem enquanto criam uma
 
 Não um grande filme, mas longe de ser um desastre.
 
-Tags: mostrasp, drama, suspense, noir
+

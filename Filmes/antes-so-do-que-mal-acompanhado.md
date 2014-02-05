@@ -11,4 +11,4 @@ Aparentemente, nada. Mas Hughes nos faz olhar mais de perto, em cada reação, fal
 
 Martin aprende sua lição depois de uma longa e cansativa viagem. Sua última reflexão é a mensagem que gostaríamos de ter percebido, e o fato de ninguém nos falar explicitamente sobre isso é o que torna o momento tão encantador. E, por último, seu último ato é o que gostaríamos de ter tido se estivéssemos naquela situação e aprendêssemos com ela. Infelizmente, não é todo ser humano que tem o privilégio de aprender com seus erros e infortúnios. O filme nos escancara exatamente para que estejamos mais atentos às oportunidades da vida para sermos gentis e mais humanos com os outros e com nós mesmos.
 
-Tags: direção, roteiro, montagem, edição de som, atuação
+
