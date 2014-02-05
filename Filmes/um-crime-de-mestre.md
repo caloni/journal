@@ -1,4 +1,4 @@
-Fracture. EUA/Alemanha, 2007. Director: Gregory Hoblit. Writers: Daniel Pyne (screenplay), Glenn Gers (screenplay). Stars: Anthony Hopkins, Ryan Gosling, David Strathairn.
+
 
 Suposto thriller é análise fria e pessimista do sistema judiciário norte-americano.
 

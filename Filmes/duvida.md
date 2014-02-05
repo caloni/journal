@@ -1,4 +1,4 @@
-Doubt. EUA, 2008. Direção: John Patrick Shanley. Roteiro: John Patrick Shanley (screenplay), John Patrick Shanley (play). Elenco: Meryl Streep, Philip Seymour Hoffman and Amy Adams.
+
 
 Quando a dúvida abrange o âmago de todas as religiões do mundo.
 

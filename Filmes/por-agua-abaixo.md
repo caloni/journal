@@ -1,4 +1,4 @@
-Flushed Away. EUA/Reino Unido, 2006. Direção: David Bowers, Sam Fell. Roteiro: Sam Fell, Peter Loyd e outros. Elenco original:  Hugh Jackman, Kate Winslet e Ian McKellen.
+
 
 A irreverente Dreamworks não se preocupa com o primor, mas diverte.
 

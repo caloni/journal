@@ -1,4 +1,4 @@
-Idem. EUA, 2012. Director: Steven Spielberg. Writers: Tony Kushner (screenplay), Doris Kearns Goodwin (book). Stars: Daniel Day-Lewis, Sally Field, David Strathairn, Joseph Gordon-Levitt, James Spader, Hal Holbrook, Tommy Lee Jones, John Hawkes, Jackie Earle Haley, Bruce McGill. Original Music: John Williams. Cinematography: Janusz Kaminski. Art Direction: Curt Beech, David Crank, Leslie McDonald. Set Decoration: Jim Erickson, Peter T. Frank. Costume Design: Joanna Johnston.
+
 
 A reconstrução do Mito e da História é de encher os olhos a cada momento.
 

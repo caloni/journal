@@ -1,4 +1,4 @@
-Idem. Suíça, 2010. Direção: Ivan Engler, Ralph Etter. Roteiro: Ivan Engler, Arnold H. Bucher, Patrick Steinmann, Johnny. Elenco: Anna Katharina Schwabroh, Martin Rapold, Michael Finger.
+
 
 Se fosse resumir essa ficção-científica, diria que ela começa como Aliens - O Resgate e termina como Matrix. De fato, muitas características do longa nos lembra esses dois filmes. Porém, longe de se igualar em qualidade narrativa, este cai no lugar comum de passeios contemplativos pelo cenário com trilhas sonoras igualmente batidas.
 

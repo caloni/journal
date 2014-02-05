@@ -1,4 +1,4 @@
-The Help. EUA/Índia/Emirados Árabes, 2011. Director: Tate Taylor. Writers: Tate Taylor (screenplay), Kathryn Stockett (novel). Stars: Emma Stone, Viola Davis and Octavia Spencer.
+
 
 Fábula da branquinha libertadora dos negros oprimidos.
 

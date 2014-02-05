@@ -1,4 +1,4 @@
-Before the Devil Knows You're Dead. EUA, 2007. Direção: Sidney Lumet. Roteiro: Kelly Masterson. Elenco: Philip Seymour Hoffman, Ethan Hawke e Albert Finney.
+
 
 Último filme de Sydney Lumet deve deixar uma saudade imensa.
 

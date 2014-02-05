@@ -1,4 +1,4 @@
-Despicable Me 2. EUA, 2013. Directors: Pierre Coffin, Chris Renaud. Writers: Ken Daurio (screenplay), Cinco Paul (screenplay). Stars: Steve Carell, Kristen Wiig, Benjamin Bratt.
+
 
 Continuação envolve mais que o original.
 

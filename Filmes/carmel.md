@@ -1,4 +1,4 @@
-Idem. Israel/França/Itália, 2009. Direção: Amos Gitai. Roteiro(?): Amos Gitai. Montagem(?): Isabelle Ingold. Elenco: Amitai Ashkenazi, Amos Lavie, Ben Eide, Ben Gitai, Efratia Gitai, Jeanne Moreau.
+
 
 36a. Mostra de São Paulo.
 

@@ -1,4 +1,4 @@
-Dirty Pretty Things. UK, 2002. Direção: Stephen Frears. Roteiro: Steven Knight. Elenco: Chiwetel Ejiofor, Audrey Tautou e Sophie Okonedo.
+
 
 Alegoria eficiente sobre o mundo dos imigrantes ilegais.
 

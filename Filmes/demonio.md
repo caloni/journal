@@ -1,4 +1,4 @@
-Devil. EUA, 2010. Direção: John Erick Dowdle. Roteiro: Brian Nelson e M. Night Shyamalan (história). Elenco: Chris Messina (Detective Bowden), Logan Marshall-Green (Mechanic), Jenny O'Hara (Old Woman), Bojana Novakovic (Young Woman), Bokeem Woodbine (Guard), Geoffrey Arend (Salesman), Jacob Vargas (Ramirez), Matt Craven (Lustig), Joshua Peace (Detective Markowitz (as Josh Peace)), Caroline Dhavernas (Elsa Nahai), Joe Cobden (Dwight), Zoie Palmer (Cheryl), Vincent Laresca (Henry).
+
 
 O filme começa com uma narração em off (que nunca é revelada) a respeito de uma história contada pela avó do sujeito que dizia que o demônio, às vezes, "sobe à superfície" para pegar algumas almas desprevenidas. De acordo com a mesma avó, o demônio segue algumas regras, que se iniciam com um suicídio (nunca explicado no filme), que permite que ele entre e apronte mais uma das suas.
 

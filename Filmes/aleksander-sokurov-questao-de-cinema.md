@@ -1,4 +1,4 @@
-Alexandre Sokurov, Question de Cinéma. Rússia, 2008. Direção e Roteiro: Anne Imbert.
+
 
 Quando o diretor de A Arca Russa tem algo a falar sobre movimento e sonoridade no cinema, ou da própria questão do cinema em si, deve haver algo de importante, ou até mesmo essencial, para se captar. No entanto, Alexandre Sokurov (ou a montagem de Anne Gigleux) não é exatamente didática. É necessário, assim como o trabalho do próprio diretor-tema, sentir a ação antes dela acontecer. O resultado, como um todo, é no mínimo inspirador.
 

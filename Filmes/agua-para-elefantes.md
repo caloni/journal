@@ -1,4 +1,4 @@
-Water for Elephants. EUA, 2011. Direção: Francis Lawrence. Roteiro: Richard LaGravenese, Sara Gruen (romance). Elenco: Robert Pattinson, Reese Witherspoon e Christoph Waltz.
+
 
 Romance-drama com pano de fundo em circo comete o pecado da escolha do elenco.
 

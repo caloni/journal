@@ -1,4 +1,4 @@
-Idem. EUA/China, 2012. Direção e Roteiro: Rian Johnson. Elenco: Joseph Gordon-Levitt, Bruce Willis e Emily Blunt.
+
 [rating:4/5]
 
 Uma boa dose (necessária) de originalidade em Hollywood.

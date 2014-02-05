@@ -1,4 +1,4 @@
-Everything Is Illuminated. EUA, 2005. Direção: Liev Schreiber. Roteiro: Jonathan Safran Foer (romance), Liev Schreiber. Elenco: Elijah Wood, Eugene Hutz and Boris Leskin. Fotografia: Matthew Libatique.
+
 
 Hobbit de Senhor do Aneis em comédia-drama mais linda que empolgante.
 

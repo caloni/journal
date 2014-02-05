@@ -1,4 +1,4 @@
-The Dictator. EUA, 2012. Direção: Larry Charles. Roteiro: Sacha Baron Cohen, Alec Berg, David Mandel, Jeff Schaffer. Elenco: Sacha Baron Cohen, Anna Faris, Ben Kingsley e Aasif Mandvi.
+
 
 Sátira e pastelão, mesmo exagerados, são melhor que pseudo-paródias.
 

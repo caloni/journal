@@ -1,4 +1,4 @@
-Idem. Brasil/França, 2012. Director: Marcelo Gomes. Writer: Marcelo Gomes. Stars: Hermila Guedes, Maeve Jinkings and João Miguel.
+
 
 Marcelo Gomes volta com novo e fascinante estudo de personagem.
 

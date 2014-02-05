@@ -1,4 +1,4 @@
-Idem. Brasil, 2012. Director: Kleber Mendonça Filho. Stars: Irma Brown, Sebastião Formiga and Gustavo Jahn.
+
 
 Filme sem roteiro definido é reflexo de nossa sociedade em estado de putrefação moral.
 

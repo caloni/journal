@@ -1,4 +1,4 @@
-Killing Them Softly. EUA, 2012. Director: Andrew Dominik. Writers: Andrew Dominik (screenplay), George V. Higgins (novel). Stars: Brad Pitt, Ray Liotta, Richard Jenkins, Ben Mendelsohn, Scoot McNairy, James Gandolfini, Trevor Long, Max Casella, Sam Shepard.
+
 
 Quando um filme de gângsters não é só um filme de gângsters.
 

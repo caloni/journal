@@ -1,4 +1,4 @@
-Idem. EUA, 2011. Direção: Kenneth Branagh. Roteiro: Ashley Miller, Zack Stentz e Don Payne. Elenco: Chris Hemsworth, Anthony Hopkins e Natalie Portman.
+
 
 Mais um herói insípido da Marvel aguardando Os Vingadores.
 

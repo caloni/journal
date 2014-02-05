@@ -1,4 +1,4 @@
-Idem. Brasil, 2013. Director: Maurício Farias. Writers: Maurício Farias, Alexandre Morcilo, Fábio Porchat. Stars: Felipe Abib, Gregório Duvivier, Natália Lage.
+
 
 Mais um humor afetado pelo nosso mau gosto pelo Cinema.
 

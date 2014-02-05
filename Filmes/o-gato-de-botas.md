@@ -1,4 +1,4 @@
-Puss in Boots. EUA, 2011. Direção: Chris Miller. Roteiro: Tom Wheeler, David H. Steinberg e Jon Zack. Elenco: Antonio Banderas (Puss in Boots (voice)), Salma Hayek (Kitty Softpaws (voice)), Zach Galifianakis (Humpty Dumpty (voice)).
+
 
 Gato de Shrek se equilibra melhor sozinho que Tom Math.
 

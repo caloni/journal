@@ -1,4 +1,4 @@
-Idem. Brasil, 2007. Direção: Laís Bodanzky. Roteiro: Laís Bodanzky e Luiz Bolognesi. Elenco: Leonardo Villar, Tônia Carrero e Cássia Kiss. Montagem: Paulo Sacramento.
+
 
 Um baile-filme com ritmo, música e alma.
 

@@ -1,4 +1,4 @@
-Fur: An Imaginary Portrait of Diane Arbus. EUA, 2006. Director: Steven Shainberg. Writers: Erin Cressida Wilson, Patricia Bosworth. Stars: Nicole Kidman, Robert Downey Jr. and Ty Burrell.
+
 
 Ensaio promissor na vida da fotógrafa desvanece através dos pelos.
 

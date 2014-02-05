@@ -1,4 +1,4 @@
-Golakani Kirkuk. Suíça/Itália, 2010. Direção: Fariborz Kamkari. Roteiro: Fariborz Kamkari e Naseh Kamkari. Elenco: Morjana Alaoui (Najla), Mohammed Bakri (Old Sherko), Darbaz Dara (Rizgar), Ertem Eser (Sherko).
+
 
 A aparente originalidade desse filme situado na história do Iraque sob o comando do ditador Saddam Hussein, que promoveu uma matança de povos que não apoiavam seu regime, reside no seu diretor italiano e em sua estrutura formulaica, que lembra romances novelescos, mas que aparece erroneamente embutido em uma atmosfera de drama e desolação.
 

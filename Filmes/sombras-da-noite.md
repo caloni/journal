@@ -1,4 +1,4 @@
-Dark Shadows. EUA, 2012. Direção: Tim Burton. Roteiro: Seth Grahame-Smith, John August (história), Dan Curtis (série). Elenco:  Johnny Depp, Michelle Pfeiffer, Eva Green, Helena Bonham Carter, Jackie Earle Haley, Jonny Lee Miller, Bella Heathcote, Chloë Grace Moretz, Gulliver McGrath.
+
 
 Drácula de Tim Burton decepciona em seu desenvolvimento.
 

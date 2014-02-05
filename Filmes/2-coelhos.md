@@ -1,4 +1,4 @@
-Idem. Brasil, 2012. Direção e Roteiro: Afonso Poyart. Elenco: Alessandra Negrini, Caco Ciocler, Fernando Alves Pinto, Marat Descartes, Neco Vila Lobos, Roberto Marchese, Norival Rizzo, Thogun, Thaíde, Yoram Blaschkauer, Roson Nunes.
+
 
 A pseudo-engenhoca roteirística estilizada nacional.
 

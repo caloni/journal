@@ -1,4 +1,4 @@
-Ruby Sparks. EUA, 2012. Direção: Jonathan Dayton, Valerie Faris. Roteiro: Zoe Kazan. Elenco: Paul Dano, Zoe Kazan e Annette Bening.
+
 
 Depois de Pequena Miss Sunshine, comédia romântica original e fresca.
 

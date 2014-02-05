@@ -1,4 +1,4 @@
-Et si on vivait tous ensemble?. França/Alemanha, 2011. Direção: Stéphane Robelin. Roteiro: Stéphane Robelin. Elenco: Guy Bedos, Daniel Brühl e Geraldine Chaplin.
+
 
 Comédia francesa é leve, mas poderia ser um pouco menos.
 

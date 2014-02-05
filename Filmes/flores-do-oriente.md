@@ -1,4 +1,4 @@
-Jin líng shí san chai. China/Hong Kong, 2011. Direção: Yimou Zhang. Roteiro: Heng Liu, Geling Yan. Elenco: Christian Bale, Ni Ni e Xinyi Zhang.
+
 
 Diretor de ação força dramaticidade inexistente em personagens.
 

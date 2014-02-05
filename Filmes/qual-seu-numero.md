@@ -1,4 +1,4 @@
-What's Your Number? EUA, 2011. Direção: Mark Mylod. Roteiro: Gabrielle Allan, Jennifer Crittenden. Elenco: Anna Faris (Ally Darling), Chris Evans (Colin Shea), Ari Graynor (Daisy Darling), Blythe Danner (Ava Darling), Ed Begley Jr. (Mr. Darling), Oliver Jackson-Cohen (Eddie Vogel), Heather Burns (Eileen), Eliza Coupe (Sheila), Kate Simses (Katie), Tika Sumpter (Jamie), Joel McHale (Roger the Boss), Jacquelyn Doucette (Sheila's Mom), Chris Pratt (Disgusting Donald), Denise Vasi (Cara), Sondra James (Plant Lady).
+
 
 Aparentemente não há limites para a "criatividade" de Hollywood para comédias românticas. Quem diria que a Cindy (Anna Faris), da franquia Todo Mundo em Pânico, seria par romântico com o Capitão América (Chris Evans)? Um desafio interessante para ambos, visto que seus respectivos currículos de "menina fácil (e alvo de socos) em comédia-paródia" e "super-herói simpático" são ligeiramente diferentes nesse novo longa de Mark Mylod (Quem é Morto Sempre Aparece).
 

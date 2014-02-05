@@ -1,4 +1,4 @@
-Super 8. EUA, 2011. Direção e Roteiro: J.J. Abrams. Elenco: Elle Fanning (Alice Dainard), Joel Courtney (Joe Lamb), Kyle Chandler (Jackson Lamb), Riley Griffiths (Charles), Ryan Lee (Cary), Gabriel Basso (Martin), Zach Mills (Preston), Amanda Michalka (Jen Kaznyk/AJ Michalka).
+
 
 É tarefa injusta falar de Super 8 de J.J. Abrams (Lost, Missão: Impossível III , Star Trek) sem ter que enumerar todas as semelhanças/referência/homenagens que este faz para a obra de Spielberg (que aqui - coincidência? - é um dos produtores). Desde o ponto de vista das crianças até a escolha de um vilarejo com características semelhantes à cidade de E.T., somos levados por um grupo de jovens que está produzindo um filme de zumbis e acaba presenciando um acontecimento catastrófico que atinge proporções maiores que eles imaginavam a princípio, e que vai aos poucos tomando conta de toda a cidade.
 

@@ -1,4 +1,4 @@
-Idem. Território Ocupado da Palestina/França/Alemanha/Holanda/Israel, 2005. Direção: Hany Abu-Assad. Roteiro: Hany Abu-Assad, Bero Beyer. Elenco: Ali Suliman, Amer Hlehel, Hamza Abu-Aiaash e Lotuf Neusser.
+
 
 Quando é melhor o paraíso na mente do que o inferno na vida.
 

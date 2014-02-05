@@ -1,4 +1,4 @@
-Ying xiong. China/Hong Kong, 2002. Direção: Yimou Zhang. Roteiro: Feng Li, Bin Wang e Yimou Zhang. Elenco: Jet Li, Tony Leung Chiu Wai, Maggie Cheung, Daoming Chen, Donnie Yen e Ziyi Zhang. Fotografia: Christopher Doyle. Trilha Sonora: Tan Dun. Montagem: Angie Lam e Ru Zhai.
+
 
 Como as lendas do antigo Oriente merecem ser contadas.
 

@@ -1,4 +1,4 @@
-Underworld. Reino Unido/Alemanha/Hungria/EUA, 2003. Director: Len Wiseman. Writers: Kevin Grevioux (story), Len Wiseman (story). Stars: Kate Beckinsale, Scott Speedman, Shane Brolly.
+
 
 O primeiro filme da saga dos vampiros e lobisomens (não estou falando de Crepúsculo) pode conter um pano de fundo curioso e com potencial dramático para um ótimo filme. Infelizmente não é isso que acontece em Anjos da Noite, que se esforça como filme de drama e ação sem conseguir se sair bem em nenhum dos dois.
 

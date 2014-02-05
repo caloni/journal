@@ -1,4 +1,4 @@
-Idem. Brasil, 2011. Direção e Roteiro: Marco Dutra e Juliana Rojas. Elenco: Helena Albergaria (Helena), Marat Descartes (Otávio), Naloana Lima (Paula), Gilda Nomacce (Gilda), Marina Flores (Vanessa), Lilian Blanc (Inês), Thiago Carreira (Ricardo), Hugo Villavicenzio (Jorge).
+
 
 Esse drama-terror concebido e dirigido por Juliana Rojas e Marco Dutra (esse, um dos roteiristas do recente Meu País) busca evitar se posicionar claramente no sobrenatural, mas dá uma gélida impressão durante toda a trama que é extamente com isso que estamos lidando, ainda que não seja dito ou declarado. E é esse o detalhe mais aterrorizante de todo o longa.
 

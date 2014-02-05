@@ -1,4 +1,4 @@
-Les Misérables. Reino Unido, 2012. Director: Tom Hooper. Writers: William Nicholson (screenplay), Alain Boublil (screenplay). Stars: Hugh Jackman, Russell Crowe, Anne Hathaway.
+
 
 Musical de Tom Hooper esbarra em direção caótica.
 

@@ -50,7 +50,7 @@ Mas é o ritmo certo do filme que nos traz tantas surpresas, pois coloca cada rev
 
 
 
-Micmacs à tire-larigot. França, 2009. Direção: Jean-Pierre Jeunet. Roteiro: Jean-Pierre Jeunet (cenário), Guillaume Laurant (cenário e diálogos). Elenco: Dany Boon, André Dussollier e Nicolas Marié.
+
 
 Inspirado no universo de Amélie Poulain, novo longa de Jean-Pierre Jeunet é inventivo e curioso.
 

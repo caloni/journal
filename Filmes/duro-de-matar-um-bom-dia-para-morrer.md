@@ -1,4 +1,4 @@
-A Good Day to Die Hard. EUA, 2013. Director: John Moore. Writers: Skip Woods, Roderick Thorp (certain original characters). Stars: Bruce Willis, Jai Courtney, Sebastian Koch.
+
 
 Novo duro de matar também é duro de assistir.
 

@@ -1,4 +1,4 @@
-The Twilight Saga: Eclipse. EUA, 2010. Direção: David Slade. Roteiro: Melissa Rosenberg, Stephenie Meyer (romance). Elenco: Kristen Stewart, Robert Pattinson e Taylor Lautner.
+
 
 A Saga Molusco mais uma vez.
 

@@ -1,4 +1,4 @@
-Bad Teacher. EUA, 2011. Direção: Jake Kasdan. Roteiro: Gene Stupinisky, Lee Eisenberg. Elenco: Cameron Diaz, Jason Segel, Justim Timberlake.
+
 
 Bad, bad movie.
 

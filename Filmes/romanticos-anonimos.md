@@ -1,4 +1,4 @@
-Les émotifs anonymes. França/Bélgica, 2010. Direção: Jean-Pierre Améris. Roteiro: Jean-Pierre Améris, Philippe Blasband. Elenco: Benoît Poelvoorde (Jean-René Van Den Hugde), Isabelle Carré (Angélique Delange).
+
 
 O encantador romance entre os acanhados compulsivos.
 

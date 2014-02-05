@@ -1,4 +1,4 @@
-_The Wind Rises (Kaze tachinu). Japão, 2013. Director: Hayao Miyazaki. Writer: Hayao Miyazaki (comic). Stars: Hideaki Anno, Jun Kunimura, Mirai Shida._
+
 
 <iframe src="http://caloni.com.br/mms/mm.php?mm=the-wind-rises" height="400" width="860" frameborder="0"></iframe>
 

@@ -1,4 +1,4 @@
-To Rome with Love. EUA/Itália/Espanha, 2012. Direção e Roteiro: Woody Allen. Elenco: Flavio Parenti, Roberto Benigni, Alison Pill, Alessandro Tiberi, Judy Davis, Alessandra Mastronardi, Alec Baldwin, Carol Alt, David Pasquesi, Antonio Albanese, Lynn Swanson, Fabio Armiliato, Penélope Cruz, Jesse Eisenberg, Woody Allen, Greta Gerwig, Simona Caparrini, Ellen Page, Vinicio Marchioni.
+
 
 Comédia de absurdos revela que Allen, felizmente, está mais vivo que nunca.
 

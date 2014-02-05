@@ -1,4 +1,4 @@
-Idem. EUA, 2012. Direção: Ridley Scott. Roteiro: Jon Spaihts, Damon Lindelof. Elenco: Noomi Rapace, Logan Marshall-Green, Michael Fassbender, Charlize Theron, Idris Elba, Guy Pearce, Logan Marshall-Green, Sean Harris.
+
 
 Quem Prometheus cumpre: Ridley Scott estraga a série Alien.
 

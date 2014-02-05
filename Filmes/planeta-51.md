@@ -1,4 +1,4 @@
-Planet 51. EUA, 2009. Direção: Jorge Blanco, Javier Abad (co-diretor) e Marcos Martínez (co-diretor). Roteiro: Joe Stillman. Elenco: Jessica Biel (Neera (voice)), John Cleese (Professor Kipple (voice)), Gary Oldman (General Grawl (voice)), Dwayne Johnson (Captain Charles T. Baker (voice)), Justin Long (Lem (voice)), Seann William Scott (Skiff (voice)), Freddie Benedict (Eckle (voice)), Alan Marriott (Glar (voice)).
+
 
 A grande impressão ao assistir a introdução e o desenvolvimento de Planeta 51 é que, enquanto argumento, alguém lá no fundo pensou que poderia dar certo (talvez Joe Stillman, que aqui assina apenas como escritor, não roteirista). Talvez o fato de ter sido feito por uma produtora ainda sem veios artísticos (= experiência) para a animação e dirigido e co-dirigido por três pessoas sem muito currículo talvez tenha influenciado um pouco nos tropeços do desenvolvimento criativo da ideia e no uso funesto de trilhas sonoras batidas em sequências claramente não-merecedoras.
 

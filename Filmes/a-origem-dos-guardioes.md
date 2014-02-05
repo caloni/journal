@@ -1,4 +1,4 @@
-Rise of the Guardians. EUA, 2012. Direção: Peter Ramsey. Roteiro: David Lindsay-Abaire (screenplay), William Joyce (book). Elenco:  Hugh Jackman, Alec Baldwin and Isla Fisher.
+
 
 Encantador pelo universo criado, mantém em forno brando sua bela história.
 

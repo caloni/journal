@@ -1,4 +1,4 @@
-_Invocação do Mal (The Conjuring). EUA, 2013. Director: James Wan. Writers: Chad Hayes, Carey Hayes. Stars: Patrick Wilson, Vera Farmiga, Ron Livingston, Lili Taylor, Shanley Caswell, Hayley McFarland, Joey King, Mackenzie Foy, Kyla Deaver, Shannon Kook, John Brotherton, Sterling Jerins, Marion Guyot, Morganna Bridgers, Amy Tipton. Cinematography: John R. Leonetti._
+
 
 <iframe src="http://caloni.com.br/mms/mm.php?mm=invocacao-do-mal" height="600" width="860" frameborder="0"></iframe>
 

@@ -1,4 +1,4 @@
-The Woman in Black. Reino Unido/Canadá/Suécia, 2012. Direção: James Watkins. Roteiro: Susan Hill. Elenco: Daniel Radcliffe, Janet McTeer e Ciarán Hinds.
+
 
 Harry Potter em um drama/terror com excelente direção de arte/fotografia e péssimos sustos.
 

@@ -1,4 +1,4 @@
-Idem. Brasil, 2013. Director: Antonio Carlos da Fontoura. Writers: Victor Atherino (collaborating writer), Marcos Bernstein. Stars: Thiago Mendonça, Laila Zaid, Bruno Torres.
+
 
 Semi-biografia do cantor-poeta ganha vida graças a atuação ímpar de Thiago Mendonça.
 

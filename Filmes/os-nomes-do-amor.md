@@ -1,4 +1,4 @@
-Le nom des gens. França, 2010. Direção: Michel Leclerc. Roteiro: Michel Leclerc, Baya Kasmi. Elenco: Jacques Gamblin (Arthur Martin), Sara Forestier (Baya Benmahmoud), Zinedine Soualem (Mohamed Benhmamoud), Carole Franck (Cécile Delivet Benmahmoud), Jacques Boudet (Lucien Martin), Michèle Moretti (Annette Martin).
+
 
 Ele, um esquerdista especialista em epidemias nos animais. Ela, uma libertária tão libertária que às vezes se esquece de colocar a roupa para sair de casa. Ambos, uma relação que mescla tanto as visões políticas quanto sexuais da França atual. Porém, mais importante, levanta a sensível questão da imigração, que vem engrossando caldo desde o movimento anti-terrorista liderado pelo governo Bush e evidenciado na crise europeia.
 

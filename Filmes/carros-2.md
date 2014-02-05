@@ -1,4 +1,4 @@
-Cars 2. EUA, 2011. Direção: John Lasseter e Brad Lewis. Roteiro: Ben Queen e John Lasseter (história). Elenco: Larry the Cable Guy (Mater), Owen Wilson (Lightning McQueen), Michael Caine (Finn McMissile), Emily Mortimer (Holley Shiftwell). No Brasil: Mário Jorge (Mate), Marcelo Garcia (Relâmpago McQueen).
+
 
 O ponto mais forte no longa original eram as ideias por trás do conceito de carros se comportando como humanos. E até os pequenos detalhes de produção, como o fato dos mosquitos voando serem pequenos carrinhos com asas, contribuíam para tornar aquele universo todo especial.
 

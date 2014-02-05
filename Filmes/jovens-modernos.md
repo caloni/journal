@@ -1,4 +1,4 @@
-Des jeunes gens mödernes. França, 2011. Direção: Jérôme de Missolz. Roteiro: Jérôme de Missolz e Jean Francois Sanz. Elenco: Yves Adrien, Mathieu Chausseron, Lio, Edwige, Anne-Sophie Le Creurer.
+
 
 Qual a visão de um crítico musical sobre a música contemporânea de vanguarda? Ou, uma pergunta ainda melhor, o que esse crítico pensa sobre os jovens dessa nova era, tão acomodados a ouvirem músicas de diversas correntes (muitas delas auto-proclamadas futuristas) e se limitarem a apertar o botão Like de seu Facebook?
 

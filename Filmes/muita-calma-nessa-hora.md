@@ -1,4 +1,4 @@
-Brasil, 2010. Direção: Felipe Joffily. Roteiro: Bruno Mazzeo. Com Gianne Albertoni (Mari), Andréia Horta (Tita) e Fernanda Souza (Aninha).
+
 
 Mari é constantemente assediada por seu chefe na agência publicitária onde trabalha; cansada de ser confundida com uma mulher fácil, decide não ficar mais com homem nenhum. Tita é a mulher certinha, virgem de um (o marido) homem só, mas que encontra seu noivo com outra em seu apartamento e, desacreditada, decide esquecer esse negócio de monogamia e partir pra tirar o atraso. Aninha, uma eterna indecisa, já trancou sete vezes a faculdade por nunca ter certeza do que quer fazer; sim, ela concorda com ambas as amigas; ao mesmo tempo.
 

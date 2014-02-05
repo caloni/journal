@@ -1,4 +1,4 @@
-The Twilight Saga: Breaking Dawn - Part 2. EUA, 2012. Direção: Bill Condon. Roteiro: Melissa Rosenberg (screenplay), Stephenie Meyer (novel). Elenco: Kristen Stewart, Robert Pattinson and Taylor Lautner.
+
 
 A saga molusco termina muito superior ao conjunto da obra.
 

@@ -1,4 +1,4 @@
-Johnny English Reborn. EUA, 2011. Direção: Oliver Parker. Roteiro: William Davies, Hamish McColl, Neal Purvis (personagens) e Robert Wade (personagens). Elenco: Roger Barclay (Agent Two), Eric Carte (Agent One), Rowan Atkinson (Johnny English), Togo Igawa (Ting Wang), Eleanor Wyld (Receptionist 1), Mandi Sidhu (Receptionist 2), Margaret Clunie (Receptionist 3), Gillian Anderson (Pamela), Rosamund Pike (Kate), Dominic West (Ambrose), Tim McInnerny (Quartermain), Mariella Frostrup (Royce (voice)), Daniel Kaluuya (Agent Tucker), Miles Jupp (Technician), Pik Sen Lim (Killer Cleaner).
+
 
 Não assisti o original, mas a impressão geral desse novo trabalho de Rowan Atkinson, que aqui veste a pele de mais uma paródia de filmes do 007, é que, apesar do roteiro não se importar quase nada com a lógica da sua trama, esse não é motivo que impeça que o longa tenha momentos inspirados, criados principalmente pela boa performance do ator, que consegue flexibilidade para criar outro personagen caricato além de seu mundialmente famoso Mr. Bean.
 

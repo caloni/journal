@@ -1,4 +1,4 @@
-¿De quién es el portaligas? Argentina, 2007. Direção: María Cecilia López, Fito Páez. Roteiro: Fito Páez. Elenco:  Gonzalo Aloras, Leonora Balcarce e Cristina Banegas.
+
 [rating:2/5]
 
 Pretensa paródia do cinema de Almodóvar cai no ridículo perante o caos.

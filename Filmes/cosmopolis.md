@@ -1,4 +1,4 @@
-Cosmopolis. França/Canadá/Portugal/Itália, 2012. Direção: David Cronenberg. Roteiro: David Cronenberg, Don DeLillo (romance). Elenco: Robert Pattinson, Juliette Binoche, Sarah Gadon, Kevin Durand.
+
 
 O Charles Foster Kane de nossa era não é ninguém mais do que qualquer um.
 

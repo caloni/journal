@@ -1,4 +1,4 @@
-Io sono l'amore. Itália, 2009. Direção e Roteiro: Luca Guadagnino. Elenco: Tilda Swinton (Emma Recchi), Flavio Parenti (Edoardo Recchi Jr.), Edoardo Gabbriellini (Antonio Biscaglia).
+
 
 Essa história sobre a mudança dos valores sob vários aspectos é uma abordagem quase idílica do novo cinema italiano. Assistimos com certa solenidade o sisudo jantar em família (evidenciado pelo exagero de sombras) em que o patriarca, já debilitado, transfere o controle da empresa para seu filho e neto. O inusitado e refrescante dessa nova história é que nos bastidores (ou para ser mais direto, na cozinha) encontra-se a origem de mudanças radicais naquela forma de funcionar o mundo.
 

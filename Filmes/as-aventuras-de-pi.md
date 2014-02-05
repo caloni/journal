@@ -1,4 +1,4 @@
-Life of Pi. EUA/Taiwan, 2012. Director: Ang Lee. Writers: David Magee (screenplay), Yann Martel (novel). Stars: Suraj Sharma, Irrfan Khan and Adil Hussain.
+
 
 Parábola religiosa de Ang Lee é espetáculo visual vazio.
 

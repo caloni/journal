@@ -1,4 +1,4 @@
-Zombie Strippers! EUA, 2008. Director: Jay Lee. Writer: Jay Lee. Stars: Jenna Jameson, Robert Englund, Roxy Saint.
+
 
 Trash zumbi chega até ao sexo (finalmente!)
 

@@ -1,4 +1,4 @@
-Nueve Reinas. Argentina, 2000. Direção e Roteiro: Fabián Bielinsky. Elenco: Ricardo Darín, Gastón Pauls and Leticia Brédice.
+
 
 Para deixar Criminal e Ocean's Eleven no chinelo.
 

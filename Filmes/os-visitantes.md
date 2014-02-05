@@ -1,4 +1,4 @@
-Die Besucher. Alemanha, 2012. Direção: Constanze Knoche. Roteiro: Leis Bagdach. Fotografia: Kirsten Weingarten. Elenco: Uwe Kockisch, Corinna Kirchhoff, Anjorka Strechel, Irina Potapenko, Jakob Diehl, Anne Müller, Andreas Leupold.
+
 
 36a. Mostra de São Paulo.
 

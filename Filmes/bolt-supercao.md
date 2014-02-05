@@ -1,4 +1,4 @@
-_Bolt: Supercão (Bolt). EUA, 2008. Direção: Byron Howard, Chris Williams. Roteiro: Dan Fogelman (screenplay), Chris Williams (screenplay). Elenco: John Travolta, Miley Cyrus, Susie Essman._
+
 
 <iframe src="http://caloni.com.br/mms/mm.php?mm=bolt-supercao" height="400" width="860" frameborder="0"></iframe>
 

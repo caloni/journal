@@ -1,4 +1,4 @@
-Kari-gurashi no Arietti. Japão, 2010. Direção: Hiromasa Yonebayashi. Roteiro: Hayao Miyazaki e Keiko Niwa.
+
 
 Animação do estúdio Ghibli é humanista, apesar de defender natureza.
 

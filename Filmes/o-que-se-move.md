@@ -1,4 +1,4 @@
-Idem. Brasil, 2013. Direção: Caetano Gotardo. Roteiro: Caetano Gotardo. Elenco: Cida Moreira, Andrea Marquee, Fernanda Vianna.
+
 
 Estreia do montador de Trabalhar Cansa na direção e roteiro não decepciona.
 

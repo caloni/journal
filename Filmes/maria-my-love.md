@@ -1,4 +1,4 @@
-Idem. EUA, 2011. Direção: Jasmine McGlade Chazelle. Roteiro: Jasmine McGlade Chazelle e Lauren Fales (história). Elenco: Judy Marte (Ana), Karen Black (Maria), Brian Rieger (Ben), Lauren Fales (Grace).
+
 
 Geralmente um filme costuma martelar constantemente um conceito qualquer por um motivo qualquer. No caso desse Maria My Love, projeto independente filmado em um discutível digital (mas assistível), o amadorismo no uso do foco aparentemente é o tal conceito, pois pode-se perceber na insistência irritante de nunca manter a lente focada em qualquer que seja o motivo, personagem ou objeto.
 

@@ -1,4 +1,4 @@
-Arthur Christmas. EUA, 2011. Direção: Sarah Smith. Roteiro: Sarah Smith e Peter Baynham. Elenco: James McAvoy (Arthur (voice)), Hugh Laurie (Steve (voice)), Bill Nighy (Grandsanta (voice)), Jim Broadbent (Santa (voice)), Imelda Staunton (Mrs. Santa (voice)), Ashley Jensen (Bryony (voice)), Marc Wootton (Peter (voice)), Laura Linney (North Pole Computer (voice)), Eva Longoria (Chief De Silva (voice)), Ramona Marquez (Gwen (voice)), Michael Palin (Ernie Clicker (voice)).
+
 
 A nova animação da Sony parte para o óbvio gênero de filmes natalinos dessa época, mas faz bonito: Operação Presente subverte nossos conceitos do que é atualmente o natal, parte do ponto de vista do Papai Noel e seus elfos e acusa de maneira inteligente o modo superficial pelo qual muitos de nós enxergamos essa data que um dia foi muito especial.
 

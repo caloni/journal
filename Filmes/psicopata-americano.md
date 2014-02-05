@@ -1,4 +1,4 @@
-American Psycho. EUA, 2000. Direção e Roteiro: Mary Harron. Elenco:  Christian Bale, Justin Theroux, Josh Lucas.
+
 
 Christian Bale matou um monte de gente. E isso é ótimo!
 

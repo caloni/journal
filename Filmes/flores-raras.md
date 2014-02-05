@@ -1,4 +1,4 @@
-_Flores Raras (Reaching for the Moon). Brasil, 2013. Director: Bruno Barreto. Writers: Matthew Chapman (screenplay), Julie Sayres (screenplay), Carmen L. Oliveira (romance), Carolina Kotscho (primeiro roteiro). Stars: Glória Pires, Miranda Otto, Tracy Middendorf._
+
 
 <iframe frameborder="0" height="420" width="860" src="http://caloni.com.br/mms/mm.php?mm=flores-raras"></iframe>
 <a href="http://www.flickr.com/photos/caloni/9672155345/" title="Flores Raras por caloni, no Flickr"><img src="http://farm6.staticflickr.com/5497/9672155345_369d5feedb_o.jpg" alt="Flores Raras"></a>

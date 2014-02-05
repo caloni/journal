@@ -1,4 +1,4 @@
-Idem. Alemanha/França/Reino Unido, 2011. Direção e Roteiro: Wim Wenders. Elenco: Pina Bausch, Regina Advento e Malou Airaudo.
+
 
 O experimentalismo do 3D no Cinema e de Pina na Dança; ambos são guiados pela alma.
 

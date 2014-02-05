@@ -1,4 +1,4 @@
-Der Untergang. Alemanha/Itália/Áustria, 2004. Direção: Oliver Hirschbiegel. Roteiro: Bernt Eichinger (baseado no livro de Joachim Fest e outros). Elenco: Bruno Ganz (Adolf Hitler), Alexandra Maria Lara (Traudi Junge), Corinna Harfouch	 (Magda Goebbels), Ulrich Matthes (Joseph Goebbels), Juliane Köhler (Eva Braun).
+
 
 A proposta de evitar criar-se um microcosmos do ambiente onde Hitler passou seus últimos dias, enclausurado em um bunker com seu alto escalão e suas pessoas mais próximas, é digno de nota, pois, no decorrer da projeção, temos a sensação que muitas coisas estão acontecendo com o povo da Alemanha, não apenas em suas crescentes baixas de exércitos e civis, mas, principalmente, em sua moral.
 

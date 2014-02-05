@@ -1,4 +1,4 @@
-Salinui chueok. Coreia do Sul, 2003. Director: Joon-ho Bong. Writers: Joon-ho Bong, Kwang-rim Kim. Stars: Kang-ho Song, Sang-kyung Kim and Roe-ha Kim.
+
 
 Um filme de investigação policial com uma dose de realismo sádico.
 

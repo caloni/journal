@@ -1,4 +1,4 @@
-_Kung-Fusão (Kung fu/Kung Fu Hustle). Hong Kong/China, 2004. Director: Stephen Chow. Writers: Man Keung Chan, Stephen Chow, Xin Huo, Kan-Cheung Tsang. Stars: Stephen Chow, Wah Yuen, Qiu Yuen._
+
 
 <iframe src="http://caloni.com.br/mms/mm.php?mm=kung-fusao" height="600" width="860" frameborder="0"></iframe>
 

@@ -1,4 +1,4 @@
-_Giuseppe Tornatore: Todo Filme é Meu Primeiro Filme (Giuseppe Tornatore - Ogni film un'opera prima). Itália, 2012. Directors: Luciano Barcaroli, Gerardo Panichi. Writers: Luciano Barcaroli, Gerardo Panichi. Stars: Monica Bellucci, Sergio Castellitto, Vittorio Cecchi Gori._
+
 
 <a href="http://www.flickr.com/photos/caloni/10535722885/" title="Giuseppe Tornatore - Todo Filme é Meu Primeiro Filme por caloni, no Flickr"><img src="http://farm8.staticflickr.com/7454/10535722885_0f7d23af5d_o.jpg" alt="Giuseppe Tornatore - Todo Filme é Meu Primeiro Filme"></a>
 

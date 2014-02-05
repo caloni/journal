@@ -1,4 +1,4 @@
-15 ans et demi... França, 2008. Directors: François Desagnat, Thomas Sorriaux. Writers: Vincent Ravalec (novel), François Desagnat (adaptation). Stars: Daniel Auteuil, Juliette Lamboley, François Damiens.
+
 
 Daniel Auteuil em comédia adolescente.
 

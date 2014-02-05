@@ -1,4 +1,4 @@
-Funny People. EUA, 2009. Direção e Roteiro: Judd Apatow. Elenco: Adam Sandler, Seth Rogen e Leslie Mann.
+
 
 Adam Sandler o mais próximo possível de não parecer Adam Sandler.
 

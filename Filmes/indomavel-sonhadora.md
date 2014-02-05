@@ -1,4 +1,4 @@
-Beasts of the Southern Wild. EUA, 2012. Director: Benh Zeitlin. Writers: Lucy Alibar (screenplay), Benh Zeitlin (screenplay). Stars: Quvenzhané Wallis, Dwight Henry, Levy Easterly.
+
 
 Um triste mundo visto pelos olhos precocemente amadurecidos de uma criança.
 

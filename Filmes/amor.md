@@ -1,4 +1,4 @@
-Amour. França/Alemanha/Áustria, 2012. Director: Michael Haneke. Writer: Michael Haneke. Stars: Jean-Louis Trintignant, Emmanuelle Riva, Isabelle Huppert.
+
 
 O amor visto de uma maneira nunca antes explorada.
 

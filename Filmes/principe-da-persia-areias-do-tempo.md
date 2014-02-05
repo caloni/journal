@@ -1,4 +1,4 @@
-Prince of Persia: The Sands of Time. EUA, 2010. Direção: Mike Newell. Roteiro: Boaz Yakin (screenplay), Doug Miro (screenplay). Elenco: Jake Gyllenhaal, Alfred Molina, Gemma Arterton and Ben Kingsley.
+
 
 Novo projeto Disneyniano fadado ao fracasso.
 

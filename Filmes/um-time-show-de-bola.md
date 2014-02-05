@@ -1,4 +1,4 @@
-_Um Time Show de Bola (Metegol). Argentina/Espanha, 2013. Direção: Juan José Campanella. Roteiro: Juan José Campanella, Gastón Gorali, Eduardo Sacheri, Roberto Fontanarrosa (short story). Elenco: Rupert Grint, Anthony Head, Peter Serafinowicz. Direção de Arte: Mariano Epelbaum, Nelson Noel Luty._
+
 
 <a href="http://www.flickr.com/photos/caloni/11236096716/" title="Um Time Show de Bola por caloni, no Flickr"><img src="http://farm4.staticflickr.com/3759/11236096716_e23ccff277_o.jpg" alt="Um Time Show de Bola"></a>
 

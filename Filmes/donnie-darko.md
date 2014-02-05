@@ -1,4 +1,4 @@
-Idem. EUA, 2001. Director: Richard Kelly. Writer: Richard Kelly. Stars: Jake Gyllenhaal, Jena Malone and Mary McDonnell.
+
 
 Diretor estreante subverte gênero de suspense fazendo o espectador pensar.
 

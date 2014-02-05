@@ -1,4 +1,4 @@
-Idem. EUA/Reino Unido/Índia, 2012. Direção: Pete Travis. Roteiro: Alex Garland, Carlos Ezquerra (personagens), John Wagner (personagens). Elenco: Karl Urban, Olivia Thirlby e Lena Headey.
+
 [rating:4/5]
 
 A justiça se enxerga no espelho, e em 3D.

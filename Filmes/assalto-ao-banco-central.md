@@ -1,4 +1,4 @@
-Idem. Brasil, 2011. Direção: Marcos Paulo. Roteiro: Rene Belmonte (escrito), Lucio Manfredi (colaborador) e Tais Moreno (pesquisa). Elenco: Juliano Cazarré (Décio), Milton Gonçalves (Pastor), Milhem Cortaz (Barão), Hermila Guedes (Carla), Lima Duarte (Amorin), Vinícius de Oliveira (Denivaldo), Gero Camilo (Tatu), Cássio Gabus Mendes (Martinho), Giulia Gam (Telma), Eriberto Leão (Mineiro), Heitor Martinez Mello (Léo), Fábio Lago (Caetano), Antônia Fontenelle (Regina), Antonio Abujamra (Moacir), Tonico Pereira (Doutor), Paulo César Grande (Glauber), Ilva Niño (Neighbor), Duda Ribeiro (Miro), Créo Kellab (Saulo), Cadu Fávero (Firmino), Marcello Gonçalves (Róbson), Jorge Medina (Vágner).
+
 
 Assalto ao Banco Central está longe de ser o filme insuportável pintado pela crítica. Porém, o que é mais importante: Assalto é um filme que decepciona em todos os gêneros que tenta se inserir.
 

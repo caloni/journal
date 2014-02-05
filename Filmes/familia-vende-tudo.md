@@ -1,4 +1,4 @@
-Idem. Brasil, 2011. Direção e Roteiro: Alain Fresnot. Elenco: Caco Ciocler (Ivan Cláudio), Lima Duarte, Ailton Graça, Vera Holtz, Luana Piovani (Jennifer), Marisol Ribeiro (Lindinha).
+
 
 É fato que Lima Duarte está no estado de gênio, e cada novela que participa é um desperdício do Cinema. Semelhantes comparações podem ser feitas em boa parte do elenco de Família Vende Tudo, novo longa de Alain Fresnot, que é muito afiada na interpretação de seus personagens, por mais que estes não façam sentido ou soem deslocados. E é aí que temos outro indício de desperdício, dessa vez no próprio Cinema: a capacidade de vender uma ideia divertida e fácil em uma história que sequer consegue chegar a uma conclusão sobre seu assunto central, e que desperdiça interpretações primososas em um projeto sem pé nem cabeça.
 

@@ -1,4 +1,4 @@
-Item. Coreia do Sul, 2012. Direção: Lee Dae Hee. Roteiro: Lee Dae Hee, Gilho Kang. Produção: E-Dehi Animation Studio.
+
 
 36a. Mostra de São Paulo.
 

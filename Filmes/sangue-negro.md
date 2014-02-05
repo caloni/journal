@@ -1,4 +1,4 @@
-There Will Be Blood. EUA, 2008. Direção: Paul Thomas Anderson. Roteiro: Paul Thomas Anderson e Upton Sinclair (romance). Elenco: Daniel Day-Lewis, Paul Dano e Ciarán Hinds.
+
 
 Os limites de uma sociedade imediatista.
 

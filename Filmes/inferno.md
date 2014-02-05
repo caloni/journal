@@ -1,4 +1,4 @@
-Hell. Alemanha/Suíca, 2011. Direção: Tim Fehlbaum. Roteiro: Tim Fehlbaum, Thomas Wöbke, Oliver Kahl. Fotografia: Markus Förderer. Elenco: Hannah Herzsprung, Stipe Erceg, Lars Eidinger.
+
 
 36a. Mostra São Paulo
 

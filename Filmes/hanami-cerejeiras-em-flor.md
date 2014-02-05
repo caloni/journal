@@ -1,4 +1,4 @@
-Kirschblüten - Hanami. Alemanha, 2008. Direção e Roteiro: Doris Dörrie. Elenco: Elmar Wepper (Rudi Angermeier), Hannelore Elsner (Trudi Angermeier), Aya Irizuki (Yu), Maximilian Brückner (Karl Angermeier), Nadja Uhl (Franzi), Birgit Minichmayr (Karolin Angermeier), Felix Eitner (Klaus Angermeier), Floriane Daniel (Emma Angermeier), Celine Tanneberger (Celine Angermeier), Robert Döhlert (Robert Angermeier), Tadashi Endo (Butoh Dancer).
+
 
 Hanami conta a história de um casal que mantém uma vida pacata no interior da Alemanha, enquanto mantém uma relação distante com seus três filhos, especialmente o caçula, que vive em Tóquio.
 

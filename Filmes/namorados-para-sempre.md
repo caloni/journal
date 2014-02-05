@@ -1,4 +1,4 @@
-Blue Valentine. EUA, 2010. Direção: Derek Cianfrance. Roteiro: Derek Cianfrance, Joey Curtis e Cami Delavigne. Elenco: Ryan Gosling, Michelle Williams, Faith Wladyka e John Doman.
+
 
 Romance realista atinge o coração de maneira melancólica.
 

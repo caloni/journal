@@ -1,4 +1,4 @@
-Zero Dark Thirty. EUA, 2012. Director: Kathryn Bigelow. Writer: Mark Boal. Stars: Jessica Chastain, Joel Edgerton, Chris Pratt.
+
 
 Ficção atinge clímax pela proximidade dos eventos na vida real.
 

@@ -1,4 +1,4 @@
-Silver Linings Playbook. EUA, 2012. Director: David O. Russell. Writers: David O. Russell (screenplay), Matthew Quick (novel). Stars: Bradley Cooper, Jennifer Lawrence, Robert De Niro.
+
 
 Comédia-romântica abraça esquisitices dos personagens sem ressalvas.
 

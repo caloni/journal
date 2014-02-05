@@ -1,4 +1,4 @@
-_Jogos Vorazes: Em Chamas (The Hunger Games: Catching Fire). EUA, 2013. Direção: Francis Lawrence. Roteiro: Simon Beaufoy (screenplay), Michael Arndt (screenplay). Elenco: Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth, Donald Sutherland, Elizabeth Banks, Stanley Tucci, Philip Seymour Hoffman. Trilha Sonora: James Newton Howard. Direção de Arte: John Collins, Adam Davis, Robert Fechtman. Figurino: Trish Summerville._
+
 
 <iframe src="http://caloni.com.br/mms/mm.php?mm=jogos-vorazes-em-chamas" height="400" width="860" frameborder="0"></iframe>
 

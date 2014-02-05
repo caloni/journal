@@ -1,4 +1,4 @@
-Side by Side. EUA, 2012. Direção: Chris Kenneally. Roteiro: Chris Kenneally. Montagem: Malcolm Hearn, Mike Long. Elenco: Keanu Reeves, Steven Soderbergh, James Cameron, David Lynch, Richard Linklater, Martin Scorsese, Christopher Nolan.
+
 
 36a. Mostra de São Paulo.
 

@@ -67,7 +67,7 @@ O final, com todos dançando (inclusive o Vetor preso na lua) lembra muito outro 
 
 
 
-Despicable Me. EUA, 2010. Direção: Pierre Coffin, Chris Renaud. Roteiro: Cinco Paul, Ken Daurio, Sergio Pablos (história). Elenco: Steve Carell (Gru (voice)), Jason Segel (Vector (voice)), Russell Brand (Dr. Nefario (voice)), Julie Andrews (Gru's Mom (voice)), Will Arnett (Mr. Perkins (voice)), Kristen Wiig (Miss Hattie (voice)), Miranda Cosgrove (Margo (voice)), Dana Gaier (Edith (voice)), Elsie Fisher (Agnes (voice)).
+
 
 Meu Malvado Favorito é um ótimo exemplo de filme que divide opiniões, assim como Transformers: de um lado as pessoas que veem claramente uma péssima construção de história em conjunto com péssimas sequências para esta história. De outro, as pessoas que enxergam seus méritos no projeto ou 1) por gostarem do argumento desde o início ou 2) por entenderem sua proposta de uma maneira menos... crítica?
 

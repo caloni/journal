@@ -1,4 +1,4 @@
-Papurika. Japão, 2006. Direção: Satoshi Kon. Roteiro: Seishi Minakami.
+
 
 Encubadora de A Origem é viagem sem compromisso ao mundo dos sonhos.
 

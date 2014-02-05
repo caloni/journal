@@ -1,4 +1,4 @@
-La piel que habito. Espanha, 2011. Direção: Pedro Almodóvar. Roteiro: Pedro Almodóvar, Thierry Jonquet(romance). Elenco: Antonio Banderas (Robert Ledgard), Elena Anaya (Vera Cruz), Marisa Paredes (Marilia), Jan Cornet (Vicente), Roberto Álamo (Zeca), Eduard Fernández (Fulgencio), José Luis Gómez (Presidente del Instituto de Biotecnología), Blanca Suárez (Norma Ledgard), Susi Sánchez (Vicente's Mother), Bárbara Lennie (Cristina), Fernando Cayo (Médico).
+
 
 É fascinante acompanhar a carreira de um diretor habilidoso como Almodóvar. Ele possui aquela flexibilidade rara que permite que entre em qualquer projeto mantendo a sua marca, mas ao mesmo tempo contribuindo positivamente para a narrativa, sem torná-la autoral. Ou pelo menos tenta.
 

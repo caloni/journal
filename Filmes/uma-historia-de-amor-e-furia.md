@@ -1,4 +1,4 @@
-Idem. Brasil, 2013. Director: Luiz Bolognesi. Writer: Luiz Bolognesi. Stars: Selton Mello, Camila Pitanga.
+
 
 A Viagem brasileira por nossa história de opressão, amor e medo.
 

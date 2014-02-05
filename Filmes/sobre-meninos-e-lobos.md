@@ -1,4 +1,4 @@
-Mystic River. EUA/Austrália, 2003. Direção: Clint Eastwood. Roteiro: Brian Helgeland, Dennis Lehane (romance). Elenco: Sean Penn, Tim Robbins e Kevin Bacon. Trilha Sonora: Clint Eastwood. Fotografia: Tom Stern.
+
 [rating:5/5]
 
 Eastwoo de Menina de Ouro e A Troca se formando.

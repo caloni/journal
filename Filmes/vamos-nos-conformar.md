@@ -1,4 +1,4 @@
-Adat Mikonim. Irã, 2010. Direção: Mohsen Ostad Ali Makhmalbaf.
+
 
 Esse documentário conta a história de quatro amigas que estão internadas em uma espécie de abrigo para filhas que foram abandonadas por suas famílias. Cada uma delas fala na sua vez sobre sua história, e conseguimos identificar facilmente a personalidade de cada uma: a que tem pena de si, a durona e irritada, a complicada e, por fim, a conformada. É ela que veremos frente a frente com os pais.
 

@@ -1,4 +1,4 @@
-Pirates of the Caribean: On Stranger Tides. EUA, 2011. Direção: Bob Marshall. Roteiro: Ted Elliott, Terry Rossio e muitos outros. Elenco: Johnny Depp, Penélope Cruz, Ian McShane.
+
 
 Passamos ilesos por Piratas do Caribe 4. No bom e no mau sentido.
 

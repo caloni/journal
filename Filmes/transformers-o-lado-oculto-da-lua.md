@@ -1,4 +1,4 @@
-Transformer: Dark Side of the Moon. EUA, 2011. Direção: Michael Bay. Roteiro: Ehren Kruger. Elenco: Shia LaBeouf, Rosie Huntington-Whiteley e Tyrese Gibson.
+
 
 É muito difícil para quem começa a estudar aos poucos os segredos do cinema descobrir o que faz um filme ruim. Apenas o fato de não gostar do que se vê não é argumento satisfatório para entender quais mecanismos estão ali (ou não) para sabotar por completo uma experiência cinematográfica tão bem sucedida tecnicamente, como para mim foi esse Transformers 3.
 

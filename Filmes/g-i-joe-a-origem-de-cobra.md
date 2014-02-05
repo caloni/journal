@@ -1,4 +1,4 @@
-G.I. Joe: The Rise of Cobra. EUA, República Tcheca, 2009. Direção: Stephen Sommers. Roteiro: Stuart Beattie e David Elliot. Elenco: Dennis Quaid (General Hawk), Channing Tatum (Duke), Marlon Wayans (Ripcord), Joseph Gordon-Levitt (Rex), Christopher Eccleston (McCullen / Destro), Sienna Miller (Baroness).
+
 
 G.I. Joe é um filme tão ruim assim como muitos têm falado? Talvez sim. O fato é que, baseado em uma franquia de action figure produzida pela empresa de brinquedos Hasbro (e vendido no Brasil sob o codinome Comandos em Ação), o filme tenta se firmar nessa superfície frágil e infantil usando conceitos mais infantis ainda que acabam por estabelecer relações entre os personagens absurdamente ilógicas e pedestres.
 

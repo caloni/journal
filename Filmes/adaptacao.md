@@ -1,4 +1,4 @@
-Adaptation. EUA, 2002. Direção: Spike Jonze. Roteiro: Susan Orlean (livro "The Orchid Thief"), Charlie Kaufman, Donald Kaufman. Elenco: Nicolas Cage, Meryl Streep, Chris Cooper.
+
 
 Quando a discussão sobre adaptação de uma arte se eleva a todos os seres vivos.
 

@@ -1,4 +1,4 @@
-We Need to Talk About Kevin. Reino Unido/EUA, 2011. Director: Lynne Ramsay. Writers: Lynne Ramsay (screenplay), Rory Kinnear (screenplay). Stars: Tilda Swinton, John C. Reilly and Ezra Miller.
+
 
 Entrega de Tilda Swinton e direção/montagem arrebatadoras tornam o filme um exemplo na arte de contar histórias.
 

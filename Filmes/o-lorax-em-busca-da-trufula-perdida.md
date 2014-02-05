@@ -1,4 +1,4 @@
-Dr. Seuss' The Lorax. EUA, 2012. Direção: Chris Renaud, Kyle Balda. Roteiro: Ken Daurio. Elenco: Zac Efron, Taylor Swift e Danny DeVito.
+
 
 Dos produtores de Meu Malvado Favorito, história não empolga tanto quanto o visual.
 

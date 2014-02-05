@@ -1,4 +1,4 @@
-The Kids Are All Right. EUA, 2010. Direção: Lisa Cholodenko. Roteiro: Lisa Cholodenko, Stuart Blumberg. Elenco: Annette Bening (Nic), Julianne Moore (Jules), Mark Ruffalo (Paul), Mia Wasikowska (Joni) e Josh Hutcherson (Laser).
+
 
 Annete Bening é uma atriz talentosa. Seu único trabalho que acompanhei de perto, Beleza Americana, foi um exercício de neurose formidável, ainda que equivocado em sua exagerada conclusão final (culpa do roteiro?). Porém, através dele é possível ter uma noção muito boa das capacidades de interpretação de Bening tendo como personagem pessoas com algum descontrole emocional que a leve a influenciar negativamente a vida dos seus próximos.
 

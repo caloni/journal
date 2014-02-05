@@ -1,4 +1,4 @@
-Idem. Brasil, 2011. Director: José Henrique Fonseca. Writers: Fernando Castets (screenplay), Roberto Ceuninck (collaborating writer). Stars: Rodrigo Santoro, Angie Cepeda and Aline Moraes. Cinematography: Walter Carvalho.
+
 
 Uma trágica lenda do nosso futebol é pano verde de fundo para discussão mais ampla.
 

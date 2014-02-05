@@ -1,4 +1,4 @@
-Idem. Brasil, 2005. Direção: Breno Silveira. Roteiro: Carolina Kotscho, Patrícia Andrade. Montagem: Vicente Kubrusly. Elenco: Ângelo Antônio, Dira Paes e Márcio Kieling.
+
 
 Exemplo inusitado e primoroso de cinema em filme com bela mas complexa história.
 

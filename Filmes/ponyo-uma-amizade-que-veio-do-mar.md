@@ -1,4 +1,4 @@
-Ponyo: Uma Amizade que Veio do Mar (Gake no ue no Ponyo). Japão, 2008. Director: Hayao Miyazaki. Writer: Hayao Miyazaki. Stars: Cate Blanchett, Matt Damon, Liam Neeson (versão em inglês).
+
 
 
 

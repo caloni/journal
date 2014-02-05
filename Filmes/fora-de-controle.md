@@ -1,4 +1,4 @@
-_Fora de Controle (Changing Lanes). EUA, 2002. Direção: Roger Michell. Roteiro: Chap Taylor (story), Michael Tolkin (screenplay). Elenco: Ben Affleck, Samuel L. Jackson, Kim Staunton, Toni Collette, Sydney Pollack, Richard Jenkins._
+
 
 <iframe src="http://caloni.com.br/mms/mm.php?mm=fora-de-controle" height="400" width="860" frameborder="0"></iframe>
 

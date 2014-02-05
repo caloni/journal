@@ -1,4 +1,4 @@
-Victim. EUA, 2010. Directors: Matt Eskandari, Michael A. Pierce. Writers: Michael Hultquist, Robert Martinez. Stars: Stephen Weigand, Bob Bancroft, Brendan Kelly.
+
 
 Thriller fantástico levanta questões relevantes de maneira quase que inocente.
 

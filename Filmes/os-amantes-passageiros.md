@@ -1,4 +1,4 @@
-Los amantes pasajeros. Espanha, 2013. Director: Pedro Almodóvar. Writer: Pedro Almodóvar. Stars: Javier Cámara, Lola Dueñas, Cecilia Roth.
+
 
 Retorno de Almodóvar para a comédia é sadio, mas nada inovador.
 

@@ -1,4 +1,4 @@
-_Gravidade (Gravity). EUA, 2013. Director: Alfonso Cuarón. Writers: Alfonso Cuarón, Jonás Cuarón, George Clooney. Stars: Sandra Bullock, George Clooney, Ed Harris._
+
 
 <iframe src="http://caloni.com.br/mms/mm.php?mm=gravidade" height="800" width="860" frameborder="0"></iframe>
 

@@ -1,4 +1,4 @@
-Alex Cross. EUA, 2012. Director: Rob Cohen. Writers: Marc Moss (screenplay), Kerry Williamson (screenplay). Stars: Tyler Perry, Matthew Fox and Rachel Nichols.
+
 
 Policial clichê decide se afastar do espectador para soar inteligente.
 

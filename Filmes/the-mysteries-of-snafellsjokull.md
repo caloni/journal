@@ -1,4 +1,4 @@
-Le mystère du Snæfellsjökull. França/Islândia, 2009. Direção e Roteiro: Jean-Michel Roux.
+
 
 Forçando a barra para o oculto em 46 minutos.
 

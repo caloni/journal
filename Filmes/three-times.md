@@ -1,4 +1,4 @@
-Zui hao de shi guang. França/Taiwan, 2005. Direção: Hsiao-hsien Hou. Roteiro: T'ien-wen Chu, Hsiao-hsien Hou. Elenco: Qi Shu, Chen Chang e Fang Mei.
+
 
 "Dê seu preço. Eu quero vender minha alma. Sem passado. Sem futuro. Apenas um ganancioso presente."
 

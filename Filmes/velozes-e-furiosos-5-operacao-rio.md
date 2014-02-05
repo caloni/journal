@@ -1,4 +1,4 @@
-Fast Five. EUA, 2011. Direção: Justin Lin. Roteiro: Chris Morgan e Gary Scott Thompson. Elenco: Vin Diesel, Paul Walker, Dwayne Johnson, Tyrese Gibson, Ludacris, Matt Schulze, Sung Kang, Jordana Brewster, etc, etc, etc.
+
 
 O Rio de Janeiro está em alta no cinema mundial esse ano: palco de duas produções internacionais de prestígio, a uma vez chamada Cidade Maravilhosa começa a mostrar aos poucos sua nova cara para o mundo, mesmo que sob a ótica distorcida das produções de Hollywood.
 

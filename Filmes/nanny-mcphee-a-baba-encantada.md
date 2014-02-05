@@ -1,4 +1,4 @@
-Nanny McPhee. EUA, 2005. Direção: Kirk Jones. Roteiro: Emma Thompson, Christianna Brand. Elenco: Emma Thompson, Colin Firth, Angela Lansbury.
+
 
 Uma Matilda versão babá-bruxa.
 

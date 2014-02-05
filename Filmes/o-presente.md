@@ -1,4 +1,4 @@
-The Ultimate Gift. EUA, 2006. Director: Michael O. Sajbel. Writers: Cheryl McKay (screenplay), Jim Stovall (book). Stars: Drew Fuller, James Garner and Abigail Breslin.
+
 
 Lição de moral envolta em filme alegórico para fazer chorar.
 

@@ -1,4 +1,4 @@
-Nanny McPhee and the Big Bang. Reino Unido/França/EUA, 2010. Direção: Susanna White. Roteiro: Emma Thompson e Christianna Brand (personagens). Elenco:  Emma Thompson, Maggie Gyllenhaal, Oscar Steer, Asa Butterfield, Lil Woods, Eros Vlahos, Rosie Taylor-Ritson, Daniel Mays, Rhys Ifans e Ralph Fiennes.
+
 
 A babá mais famosa da Inglaterra está de volta.
 

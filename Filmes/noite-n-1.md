@@ -1,4 +1,4 @@
-Nuit #1. Canadá, 2012. Direção: Anne Émond. Roteiro: Anne Émond. Elenco: Catherine Le Léan, Dimitri Storoge, Véronique Rebizov.
+
 
 36a. Mostra de São Paulo
 

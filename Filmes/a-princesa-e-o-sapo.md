@@ -1,4 +1,4 @@
-The Princess and the Frog. EUA, 2009. Directors: Ron Clements, John Musker. Writers: Ron Clements (story), John Musker (story). Stars: Anika Noni Rose, Keith David and Oprah Winfrey.
+
 
 Disney passando a régua nos projetos 2D?
 

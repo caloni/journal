@@ -1,4 +1,4 @@
-Idem. EUA, 2007. Direção: Brad Bird, Jan Pinkava (co-direção). Roteiro: Brad Bird (roteiro), Jan Pinkava (história), Jim Capobianco (história), Brad Bird (história), Emily Cook (material adicional), Kathy Greenberg (material adicional), Bob Peterson (material adicional).
+
 
 Ratatouille na época representou a capacidade grandiosa que um bom roteiro e uma exceptional produção conseguiam fazer, na animação computadorizada, como limite máximo de expressão na arte cinematográfica.
 

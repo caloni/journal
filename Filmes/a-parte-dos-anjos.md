@@ -1,4 +1,4 @@
-The Angels' Share. Reino Unido/França/Bélgica/Itália, 2012. Director: Ken Loach. Writer: Paul Laverty (screenplay). Stars: Paul Brannigan, John Henshaw, Gary Maitland.
+
 
 Dramédia britânica flerta com roteiro tendencioso, mas diverte em experiência etílica.
 

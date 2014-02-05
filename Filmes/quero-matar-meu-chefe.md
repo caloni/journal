@@ -1,4 +1,4 @@
-Horrible Bosses. EUA, 2011. Direção: Seth Gordon. Roteiro: Michael Markowitz, John Francis Daley e outros. Elenco: Jason Bateman (Nick), Charlie Day (Dale), Jason Sudeikis (Kurt), Jenifer Aniston (Dra. Julia), Kevin Spacey (Dave Harken), Colin Farrel (Bobby Pellit), Donald Suterland (Jack Pellit), P.J. Byrne (Kenny Sommerfeld).
+
 
 Muitas pessoas com certeza rirão das piadas sobre trabalho, sexo e racismo de Quero Matar Meu Chefe, tradução não-literal de Horrible Bosses (Chefes Horríveis, o que não melhora muito as coisas). Novo trabalho de Seth Gordon (Surpresas do Amor e umas pontas em The Office e Community), o longa reúne mais talentos cômicos do que supostamente ele conseguirá no resto de sua vida como diretor.
 

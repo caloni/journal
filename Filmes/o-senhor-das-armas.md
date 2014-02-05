@@ -1,4 +1,4 @@
-Lor of War. França, EUA, Alemanha, 2005. Direção e Roteiro: Andrew Niccol. Elenco: Nicolas Cage (Yuri Orlov), Ethan Hawke (Jack Valentine), Jared Leto (Vitaly Orlov), Eamonn Walker (Andre Baptiste) e Sammi Rotibi (Andre Baptiste Junior).
+
 
 Sinopse: Um negociante de armas confronta a moralidade de seu trabalho enquanto é perseguido por um agente da Interpol.
 

@@ -1,4 +1,4 @@
-Idem. Chile/França/EUA, 2012. Director: Pablo Larraín. Writer: Pedro Peirano (screenplay). Stars: Gael García Bernal, Jane Fonda and Richard Dreyfuss.
+
 
 Ficção sobre ditadura chilena explora o hiper-realismo de forma estilizada.
 

@@ -1,4 +1,4 @@
-Green Lantern. EUA, 2011. Direção: Martin Campbell. Roteiro: Greg Berlanti, Michael Green, Marc Guggenheim, Michael Goldenberg, Greg Berlanti, Michael Green, Marc Guggenheim. Elenco:  Ryan Reynolds (Hal Jordan / Lanterna Verde), Blake Lively (Carol Ferris), Peter Sarsgaard (Hector Hammond), Mark Strong (Sinestro), Tim Robbins (Hammond), Jay O. Sanders (Carl Ferris), Taika Waititi (Tom Kalmaku), Angela Bassett (Doctor Waller), Mike Doyle (Jack Jordan), Nick Jandl (Jim Jordan).
+
 
 Cada vez mais começo a acreditar que o uso de muitos roteiristas (nesse temos incríveis 7 pessoas colaborando!) acaba por nivelar por baixo uma história até com um certo potencial. Nesse novo filme de super-herói, a impressão geral que fica é que, ao tentar explicar tudo detalhadamente, para não restar dúvidas aos espectadores, foi feito um filme cuja chatice é inversamente proporcional ao número de efeitos visuais.
 

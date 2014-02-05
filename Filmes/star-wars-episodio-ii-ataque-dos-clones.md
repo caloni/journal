@@ -1,4 +1,4 @@
-Star Wars: Episode II - Attack of the Clones. EUA, 2002. Direção e Roteiro: George Lucas. Elenco: Ewan McGregor (Obi-Wan Kenobi), Natalie Portman (Padmé), Hayden Christensen (Anakin Skywalker), Christopher Lee (Cound Dooku), Ian McDiarmid (Chanceler Supremo Palpatine).
+
 
 A República começa a perder a força, e o desespero pela resolução da crise no Senado faz com que forças especiais sejam entregues ao Chanceler Palpatine. Como podemos ver, a história caminha em ritmo adequado para o ponto de encontro com o antes chamado Guerra nas Estrelas e rebatizado para Episódio IV.
 

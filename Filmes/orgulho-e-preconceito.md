@@ -1,4 +1,4 @@
-Pride & Prejudice. França/Reino Unido, 2005. Direção: Joe Wright. Roteiro: Jane Austen (romance), Deborah Moggach. Elenco: Keira Knightley, Matthew Macfadyen e Brenda Blethyn.
+
 
 Programa cinéfilo em forma de novela de época.
 

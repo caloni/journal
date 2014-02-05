@@ -1,4 +1,4 @@
-Idem. Brasil, 2011. Direção: Tomas Portella, Daniela De Carlo. Roteiro: Daniela De Carlo, Juca de Oliveira, Claudia Levay (adaptação), Júlia Spadaccini (adaptação). Elenco: Cléo Pires, Dudu Azevedo, Malvino Salvador, Rita Guedes e Álamo Facó.
+
 
 Comédia romântica machista e incoerente tem como protagonista uma não-atriz.
 

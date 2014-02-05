@@ -1,4 +1,4 @@
-Viudas. Argentina, 2011. Director: Marcos Carnevale. Writers: Marcos Carnevale (screenplay), Bernarda Pagés. Stars: Graciela Borges, Valeria Bertuccelli and Rita Cortese.
+
 
 Dramédia falha em não acertar o tom e o assunto.
 

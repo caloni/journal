@@ -1,4 +1,4 @@
-Harry Potter and the Deathly Hallows: Part 2. EUA e Reino Unido, 2011. Direção: David Yates. Roteiro: Steve Kloves (do romance de J.K. Rowling). Elenco: Daniel Radcliffe (Harry Potter), Ralph Fiennes (Lord Voldemort), Emma Watson (Hermione Granger), Rupert Grint (Ron Weasley), Alan Richman (Professor Severus Snape), Michael Gambon (Professor Alvo Dumbledore), Helena Bonham Carter (Bellatrix Lestrange).
+
 Prólogo
 Um filme que carrega o peso de uma saga que dura quase dez anos merece um final, no mínimo, apropriado. Felizmente, nas mãos do visualmente habilidoso David Yates, essa premissa é cumprida com louvor.
 

@@ -1,4 +1,4 @@
-Man of Steel. EUA/Canadá/Reino Unido, 2013. Director: Zack Snyder. Writers: David S. Goyer, Christopher Nolan, Jerry Siegel, Joe Shuster. Stars: Henry Cavill, Amy Adams, Michael Shannon, Russell Crowe, Diane Lane, Antje Traue, Harry Lennix, Kevin Costner, Laurence Fishburne. Música: Hans Zimmer. Direção de Arte: Chris Farmer, Kim Sinclair.
+
 
 Reboot empolga pelos efeitos, decepciona em sua força dramática.
 

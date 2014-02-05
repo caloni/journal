@@ -1,4 +1,4 @@
-The Raven. EUA/Hungria/Espanha, 2012. Direção: James McTeigue. Roteiro: Ben Livingston, Hannah Shakespeare. Elenco: John Cusack, Alice Eve e Luke Evans.
+
 
 Thriller sobre as obras de Edgar Allan Poe não fazem jus à obra do escritor.
 

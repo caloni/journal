@@ -1,4 +1,4 @@
-_Reino dos Gatos (The Cat Returns/Neko on ongaeshi). Japão, 2002. Direção: Hiroyuki Morita. Roteiro: Aoi Hiiragi (comic "Neko no Danshaku, Baron"), Reiko Yoshida (screenplay). Elenco: Chizuru Ikewaki, Yoshihiko Hakamada, Aki Maeda._
+
 
 <iframe src="http://caloni.com.br/mms/mm.php?mm=reino-dos-gatos" height="400" width="860" frameborder="0"></iframe>
 

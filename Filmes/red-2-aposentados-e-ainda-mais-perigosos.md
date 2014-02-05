@@ -1,4 +1,4 @@
-Red 2. EUA/França/Canadá, 2013. Director: Dean Parisot. Writers: Jon Hoeber, Erich Hoeber. Stars: Bruce Willis, John Malkovich, Helen Mirren.
+
 
 Continuação dos velhinhos espiões é mais do mesmo (um pouco menos).
 

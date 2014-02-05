@@ -1,4 +1,4 @@
-Alvin and the Chipmunks: Chipwrecked. EUA, 2011. Direção: Mike Mitchel. Roteiro: Jonathan Aibel, Glenn Berger. Elenco: Justin Long, Matthew Gray Gubler, Jesse McCartney.
+
 
 Eles são tão fofinhos que dá até pra assistir filme com eles.
 

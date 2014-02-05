@@ -1,4 +1,4 @@
-Idem. França, 2008. Direção: Florence Quentin. Roteiro: Florence Quentin e Alexis Quentin. Elenco: André Dussollier, Victoria Abril e Samir Guesmi.
+
 
 Comédia de humor negro tropeça no timing e na identificação.
 

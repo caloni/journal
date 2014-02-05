@@ -1,4 +1,4 @@
-Brasil, 2008. Direção: Matheus Souza. Elenco: Nathalia Dill, Gregório Duvivier (Tom) e Álamo Facó (Lincoln).
+
 
 Geralmente as condições em que ocorrem a produção de um filme não importam muito, e servem somente a título de curiosidade. Nesse caso, o diretor (e roteirista?) Matheus Souza, estudante de cinema ainda, conseguiu com a ajuda dos colegas o dinheiro necessário para realizar este longa ainda com 19 anos, o que se tornou um exercício de cinema no mínimo competente.
 

@@ -1,4 +1,4 @@
-To the Wonder. EUA, 2012. Director: Terrence Malick. Writer: Terrence Malick. Stars: Ben Affleck, Olga Kurylenko, Rachel McAdams, Javier Bardem.
+
 
 Diretor de Árvore da Vida respira em filme menos pretencioso.
 

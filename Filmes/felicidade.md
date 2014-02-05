@@ -1,4 +1,4 @@
-Glück. Alemanha, 2012. Direção: Doris Dörrie. Roteiro: Doris Dörrie. Fotografia: Hanno Lentz. Elenco: Alba Rohrwacher, Andrea Sawatzki and Vinzenz Kiefer.
+
 
 36a. Mostra de São Paulo
 

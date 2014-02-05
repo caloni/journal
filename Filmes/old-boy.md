@@ -1,4 +1,4 @@
-Oldeuboi. Coreia do Sul, 2003. Direção: Chan-wook Park. Roteiro: Jo-yun Hwang, Chun-hyeong Lim, Joon-hyung Lim e Chan-wook Park. Montagem: Sang-beom Kim. Fotografia: Chung-hoon Chung. Elenco: Min-sik Choi, Ji-tae Yu e Hye-jeong Kang.
+
 
 Chan-wook nos apresenta a psique da vingança em tons de vermelho e verde.
 

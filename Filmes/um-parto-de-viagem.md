@@ -1,4 +1,4 @@
-Duo Date. EUA, 2010. Direção: Todd Phillips. Roteiro: Alan R. Cohen, Alan Freedland, Adam Sztykiel, Todd Phillips. Elenco: Robert Downey Jr. (Peter Highman), Zach Galifianakis (Ethan Tremblay / Ethan Chase / Stu), Michelle Monaghan (Sarah Highman), Jamie Foxx (Darryl).
+
 
 Aparentemente, alguém achou engraçado colocar Robert Downey Jr. (Homem de Ferro, Sherlock Holmes) e Zach Galifianakis (Se Beber, Não Case 1 e 2) contracenando um filme inteiro. De fato, o resultado foi, no mínimo, interessante. Engraçado, é discutível.
 

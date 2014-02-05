@@ -1,4 +1,4 @@
-_Lovelace (Lovelace). EUA, 2013. Directors: Rob Epstein, Jeffrey Friedman. Writer: Andy Bellin. Stars: Amanda Seyfried, James Franco, Peter Sarsgaard._
+
 
 <iframe src="http://caloni.com.br/mms/mm.php?mm=lovelace" height="420" width="860" frameborder="0"></iframe>
 

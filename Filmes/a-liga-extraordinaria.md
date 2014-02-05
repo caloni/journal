@@ -1,4 +1,4 @@
-The League of Extraordinary Gentleman. EUA, 2003. Direção: Stephen Norrington. Roteiro: Alan Moore (quadrinhos), Kevin O'Neill (quadrinhos), James Robinson (roteiro). Elenco: Sean Connery (Allan Quatermain), Naseeruddin Shah (Captain Nemo), Peta Wilson (Mina Harker), Tony Curran (Rodney Skinner (The Invisible Man)), Stuart Townsend (Dorian Gray), Shane West (Tom Sawyer), Jason Flemyng (Dr. Henry Jekyll / Edward Hyde), Richard Roxburgh (M), Max Ryan (Dante).
+
 
 Sean Connery merecia um último filme melhor.
 

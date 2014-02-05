@@ -1,4 +1,4 @@
-Idem. Brasil/Portugal, 2012. Director: Paulo Caldas. Writers: Paulo Caldas, Pedro Severien. Stars: Fábio Assunção, Gabriel Braga Nunes, Nicolau Breyner.
+
 
 Narrativa tem falta de ritmo para expor o óbvio conflito entre bondade e igreja.
 

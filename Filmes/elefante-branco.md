@@ -1,4 +1,4 @@
-Elefante blanco. Argentina/Espanha/França, 2012. Director: Pablo Trapero. Writers: Alejandro Fadel, Martín Mauregui. Stars: Ricardo Darín, Jérémie Renier, Martina Gusman.
+
 
 Cine Cult Cinemark
 

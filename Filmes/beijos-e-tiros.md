@@ -1,4 +1,4 @@
-Kiss Kiss Bang Bang. EUA, 2005. Direção e Roteiro: Shane Black. Montagem: Jim Page. Elenco: Robert Downey Jr., Val Kilmer e Michelle Monaghan.
+
 
 Policial bem-humorado e metalinguístico é ponto acima da média.
 

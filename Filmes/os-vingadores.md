@@ -1,4 +1,4 @@
-The Avengers. EUA, 2012. Direação: Joss Whedon. Roteiro: Joss Whedon, Zak Penn (história), Stan Lee (quadrinhos), Jack Kirby (quadrinhos). Elenco: Robert Downey Jr., Chris Evans, Scarlett Johansson, Mark Ruffalo, Chris Hemsworth, Jeremy Renner, Tom Hiddleston, Clark Gregg, Samuel L. Jackson.
+
 
 Marvel: Smash!
 

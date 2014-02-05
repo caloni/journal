@@ -2,7 +2,7 @@ Bobinho, mas divertido. Possui lição de moral e elementos já manjados da própria
 
 
 2a vez
-The SpongeBob SquarePants Movie. EUA, 2004. Directors: Stephen Hillenburg, Mark Osborne. Writers: Stephen Hillenburg (television series SpongeBob SquarePants), Stephen Hillenburg (story). Stars: Jeffrey Tambor, Rodger Bumpass and Carolyn Lawrence.
+
 
 Bob Esponja para crianças e adultos.
 

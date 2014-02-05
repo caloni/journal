@@ -1,4 +1,4 @@
-Idem. Coreia do Sul, 2012. Director: Ki-duk Kim. Writer: Ki-duk Kim. Stars: Min-soo Jo, Eunjin Kang, Jae-rok Kim.
+
 
 Visceral como sempre, diretor coreano traz mais uma história original e intensa.
 

@@ -1,4 +1,4 @@
-Letters to Juliet. EUA, 2010. Direção: Gary Winick. Roteiro: Jose Rivera, Tim Sullivan. Elenco: Amanda Seyfried (Sophie), Marcia DeBonis (Lorraine), Gael García Bernal (Victor), Christopher Egan (Charlie), Vanessa Redgrave (Claire).
+
 
 Sophie e Victor estão noivos e vão passar uma "pré-lua-de-mel" na Itália, onde Victor (Garcpia Bernal) pretende conseguir contatos com fornecedores para o restaurante que pretende abrir. Enquanto isso, Sophie (Seyfried) se desilude com as supostas férias e procura algo melhor para fazer: escrever respostas para as mulheres que lotam a muro da Casa de Julieta (a mesma de Shakespeare) com cartas românticas.
 

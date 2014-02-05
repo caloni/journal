@@ -1,4 +1,4 @@
-Idem. EUA, 2012. Direção: Tim Burton. Roteiro: Leonard Ripps, Tim Burton (ideia original), John August. Elenco: Winona Ryder, Charlie Tahan, Catherine O'Hara, Martin Short, Martin Landau.
+
 
 Tim Burton volta à boa forma em animação que revisita seu passado e homenageia o Terror.
 

@@ -1,4 +1,4 @@
-El Gato Desaparece. Argentina, 2011. Direção e Roteiro: Carlos Sorin. Elenco: Maria Abadi (Verónica Romero), Norma Argentina (Ángela), Gisela Aringoli (Gisela Aringoli Empleada Agencia Viajes), Alejandro Javier Bures (Alumno), Emma Jayne Carlton (Elizabeth), Kiko Cerone (Secretario Juzgado), Tristán Colombo (Hijo), Gabriel Flores González (Guardia Shopping), Damián Guitián (Rodolfo), Guillermo Hönig (Psiquiatra Forense), Rodrigo Lamoreaux (Malabarista), Lucas Laurens (Esteban), Luis Luque (Luis), Mario Mahler (Veterinario), Anahí Martella (Voz Peluquera).
+
                                                         
 Diferente da ótica tão comum nos filmes de encarar a loucura como uma doença trágica, Carlos Sorín dedica seus esforços em sua nova película para entreter o espectador e deixá-lo ver com seus próprios olhos que a loucura, de uma maneira geral, pode estar em todos nós, da maneira mais corriqueira e cotidiana que for. De maneira brilhante, O Desaparecimento do Gato consegue transmitir essa sensação através de inúmeras facetas.
 

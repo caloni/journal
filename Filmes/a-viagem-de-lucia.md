@@ -1,4 +1,4 @@
-Il richiamo. Itália/Argentina, 2009. Direção: Stefano Pasetto. Roteiro: Stefano Pasetto e Veronica Cascelli. Elenco: César Bordón  (César Bordón), Sandra Ceccarelli  (Lucía), Francesca Inaudi  (Lea). 
+
 
 Uma produção ítalo-argentina obscura que conta a história de Lúcia e Lea, duas mulheres com visões completamente diferentes da vida que acabam se encontrando e compartilham momentos que irão transformar a vida de uma delas.
 

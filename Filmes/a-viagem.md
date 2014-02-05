@@ -1,4 +1,4 @@
-Cloud Atlas. Alemanha/EUA/Hong Kong/Cingapura, 2012. Directors: Tom Tykwer, Andy Wachowski, Lana Wachowski. Writers: David Mitchell (novel), Lana Wachowski, Tom Tykwer, Andy Wachowski. Stars: Tom Hanks, Halle Berry, Hugh Grant, Jim Broadbent, Hugo Weaving, Jim Sturgess, Doona Bae, Ben Whishaw, Keith David, James D'Arcy, Xun Zhou, David Gyasi, Susan Sarandon, Robert Fyfe, Martin Wuttke.
+
 
 Cloud Atlas transcende espaço, tempo e religião.
 

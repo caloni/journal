@@ -1,4 +1,4 @@
-_Wajma (Wajma). Afeganistão/França, 2013. Director: Barmak Akram. Writer: Barmak Akram. Stars: Wajma Bahar, Mustafa Abdulsatar, Haji Gul Aser._
+
 
 <iframe src="http://caloni.com.br/mms/mm.php?mm=wajma" height="400" width="860" frameborder="0"></iframe>
 

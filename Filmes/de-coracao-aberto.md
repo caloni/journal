@@ -1,4 +1,4 @@
-À coeur ouvert. França/Argentina, 2012. Director: Marion Laine. Writers: Marion Laine, Mathias Énard (novel). Stars: Juliette Binoche, Édgar Ramírez, Hippolyte Girardot.
+
 
 Drama visceral sobre maturidade é coeso, simples e direto.
 

@@ -1,4 +1,4 @@
-Idem. Brasil, 2011. Direção: Selton Mello. Roteiro: Selton Mello e Marcelo Vindicato. Elenco: Teuda Bara (Dona Zaira), Moacyr Franco (Delegado Justo), Paulo José (Valdemar / Puro Sangue), Fabiana Karla (Tonha), Renato Macedo (Borrachinha), Larissa Manoela (Guilhermina), Selton Mello (Benjamim / Pangaré), Giselle Motta (Lola), Tony (Meio-Quilo).
+
 
 É muito difícil escrever sobre filmes ruins, atacando às vezes sem sentido (aparente) e muitas vezes com uma visão precipitada ou exarcebada. Por outro lado, falar de um filme virtuoso em tantos aspectos como é o caso de O Palhaço pode ser ao mesmo tempo que uma atividade prazeirosa um ato de injustiça, por deixar tantos detalhes do lado de fora.
 

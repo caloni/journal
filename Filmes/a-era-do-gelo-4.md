@@ -1,4 +1,4 @@
-Ice Age: Continental Drift. EUA, 2012. Direção: Steve Martino, Mike Thurmeier. Roteiro: Michael Berg, Jason Fuchs. Elenco:  Ray Romano, Denis Leary e John Leguizamo.
+
 
 Nova aventura no gelo; quer dizer, na Pangeia; quer dizer...
 

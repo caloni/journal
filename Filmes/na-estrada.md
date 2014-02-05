@@ -1,4 +1,4 @@
-On the Road. França/Reino Unido/EUA/Brasil, 2012. Direção: Walter Salles. Roteiro: Jack Kerouac (livro), Jose Rivera. Elenco: Garrett Hedlund, Sam Riley, Viggo Mortensen, Kirsten Dunst, Amy Adams, Alice Braga e Kristen Stewart. Fotografia: Eric Gautier.
+
 
 Novo filme de Walter Salles é road movie cansativo e com gosto de quero mais.
 

@@ -1,4 +1,4 @@
-L’illusioniste. França/Reino Unido, 2010. Direção: Sylvain Chomet. Roteiro: Sylvain Chomet, Jacques Tati. Elenco: Vozes de: Jean-Claude Donda, Edith Rankin, Tom Urie.
+
 
 Esse é o novo longa de Sylvain Chomet, o mesmo diretor de "As Biciletas de Belleville". Foi baseado em um roteiro de Jacques Tati (Meu Tio). Ou seja, temos aqui um roteiro de algo belo em sua pureza sendo dirigido por alguém com o controle nato do surreal. Não bom.
 

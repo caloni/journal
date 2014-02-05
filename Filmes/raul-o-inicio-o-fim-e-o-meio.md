@@ -1,4 +1,4 @@
-Idem. Brasil, 2012. Direção: Walter Carvalho. Roteiro: Leonardo Gudel. Montagem: Pablo Ribeiro. Elenco: Paulo Coelho, Daniel de Oliveira e Tárik de Souza.
+
 
 O meio, o início e o fim do rock verdadeiramente revolucionário.
 

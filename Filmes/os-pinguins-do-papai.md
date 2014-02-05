@@ -1,4 +1,4 @@
-Mr. Popper's Penguins. EUA, 2011. Direção: Mark Waters. Roteiro: Sean Anders e John Morris. Elenco: Jim Carrey (Mr. Popper), Carla Gugino (Amanda) e Angela Lansbury (Mrs. Van Gundy).
+
 
 Sinopse: A vida de um homem de negócios começar a mudar após ele herdar de seu pai seis pinguins. Conforme ele avança em sua vida pessoal, sua vida profissional começa a despencar.
 

@@ -1,4 +1,4 @@
-Quarantine. EUA, 2008. Direção: John Erick Dowdle. Roteiro: John Erick Dowdle (screenplay), Drew Dowdle (screenplay). Elenco: Jennifer Carpenter, Steve Harris and Columbus Short.
+
 
 Quarentena não consegue ser um filme ruim. Claro, isso depende de como você está olhando para ele.
 

@@ -1,4 +1,4 @@
-Stand Up Guys. EUA, 2012. Director: Fisher Stevens. Writer: Noah Haidle. Stars: Al Pacino, Alan Arkin, Christopher Walken.
+
 
 Cinema old school é usado para exercício fascinante de metalinguagem.
 

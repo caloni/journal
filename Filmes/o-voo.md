@@ -1,4 +1,4 @@
-Flight. EUA, 2012. Director: Robert Zemeckis. Writer: John Gatins. Stars: Denzel Washington, Nadine Velazquez, Don Cheadle, Tamara Tunie, Brian Geraghty, Kelly Reilly, Charlie E. Schmidt, Bruce Greenwood, E. Roger Mitchell, John Goodman, Don Cheadle.
+
 
 Acidente de avião é pano de fundo para estudo de personagem fascinante.
 

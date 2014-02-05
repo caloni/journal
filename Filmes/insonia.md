@@ -1,4 +1,4 @@
-Insomnia. EUA, 2002. Direção: Christopher Nolan. Roteiro: Hillary Seitz. Elenco: Al Pacino, Robin Williams e Hilary Swank.
+
 
 Sempre é possível fazer um belo filme em gêneros desgastados pela indústria.
 

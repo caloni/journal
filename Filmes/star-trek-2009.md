@@ -1,4 +1,4 @@
-Idem. EUA/Alemanha, 2009. Direção: J.J. Abrams. Roteiro: Roberto Orci, Alex Kurtzman e Gene Roddenberry (série de TV). Montagem: Maryann Brandon e Mary Jo Markey. Elenco: Chris Pine, Zachary Quinto e Simon Pegg.
+
 
 Um filme que foi onde a série antiga de filmes jamais esteve.
 

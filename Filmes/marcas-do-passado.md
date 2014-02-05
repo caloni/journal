@@ -1,4 +1,4 @@
-First Snow. Alemanha/EUA, 2006. Director: Mark Fergus. Writers: Mark Fergus, Hawk Ostby. Stars: Guy Pearce, Piper Perabo and William Fichtner.
+
 
 Tentativa de drama psicológico em um road movie dá voltas para o mesmo lugar.
 

@@ -1,4 +1,4 @@
-Hope Springs. EUA, 2012. Direção: David Frankel. Roteiro: Vanessa Taylor. Elenco: Meryl Streep, Tommy Lee Jones e Steve Carell.
+
 
 Drama romântico aposta na cumplicidade do espectador para quebrar a rotina.
 

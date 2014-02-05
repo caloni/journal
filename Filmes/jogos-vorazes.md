@@ -1,4 +1,4 @@
-The Hunger Games. EUA, 2012. Direção: Gary Ross. Roteiro: Gary Ross, Suzanne Collins. Elenco: Jennifer Lawrence, Josh Hutcherson e Liam Hemsworth.
+
 
 A estrutura social e política como pano de fundo para o entretenimento macabro.
 
@@ -12,7 +12,7 @@ Ainda que o foco da história fosse justamente os tais jogos é o acompanhamento d
 
 Pontos fortes: idéias por trás da história, design de arte, fotografia.
 Pontos fracos: lacunas na história, passagem do tempo durante os jogos.
-The Hunger Games. EUA, 2012. Direção: Gary Ross. Roteiro: Gary Ross, Suzanne Collins. Elenco: Jennifer Lawrence, Josh Hutcherson e Liam Hemsworth.
+
 
 O jogo da manipulação da mente, cada vez mais fraca.
 

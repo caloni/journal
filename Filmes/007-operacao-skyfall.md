@@ -1,4 +1,4 @@
-Skyfall. Reino Unido/EUA, 2012. Direção: Sam Mendes. Roteiro: Neal Purvis, Robert Wade, John Logan e Ian Fleming (personagens). Elenco: Daniel Craig, Judi Dench, Javier Bardem, Ralph Fiennes, Naomie Harris, Bérénice Marlohe, Ben Whishaw. Trilha Sonora: Thomas Newman. Fotografia: Roger Deakins.
+
 
 James Bond volta aos velhos tempos nos tempos atuais.
 

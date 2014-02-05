@@ -1,4 +1,4 @@
-Moneyball. EUA, 2011. Direção: Bennett Miller. Roteiro: Steven Zaillian e Aaron Sorkin. Elenco: Brad Pitt, Jonah Hill, Philip Seymour Hoffman, Chris Pratt, Stephen Bishop.
+
 
 Como definir um perdedor através de suas vitórias.
 

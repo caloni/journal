@@ -1,4 +1,4 @@
-_Missão Madrinha de Casamento (Bridesmaids). EUA, 2011. Direção: Paul Feig. Roteiro: Kristen Wiig, Annie Mumolo. Elenco: Kristen Wiig, Maya Rudolph, Rose Byrne._
+
 
 <a href="http://www.flickr.com/photos/caloni/11401995506/" title="Missão Madrinha de Casamento (3) por caloni, no Flickr"><img src="https://farm3.staticflickr.com/2811/11401995506_3b643783e9_o.jpg" alt="Missão Madrinha de Casamento (3)"></a>
 

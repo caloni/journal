@@ -1,4 +1,4 @@
-Wreck-It Ralph. EUA, 2012. Director: Rich Moore. Writers: Rich Moore (story), Phil Johnston (story). Stars: John C. Reilly, Jack McBrayer and Jane Lynch.
+
 
 Homenagem saudosista aos fliperamas eleva nível Disney/Pixar novamente.
 

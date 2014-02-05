@@ -1,4 +1,4 @@
-Brave. EUA, 2012. Direção: Mark Andrews, Brenda Chapman e Steve Purcell (co-diretor). Roteiro: Brenda Chapman, Mark Andrews, Steve Purcell, Brenda Chapman, Irene Mecchi. Elenco: Kelly Macdonald, Billy Connolly e Emma Thompson.
+
 
 Breve explanação sobre novo trabalho da Pixar.
 

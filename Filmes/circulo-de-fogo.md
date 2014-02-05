@@ -1,4 +1,4 @@
-Pacific Rim. EUA, 2013. Director: Guillermo del Toro. Writers: Travis Beacham (screenplay), Guillermo del Toro (screenplay), Travis Beacham (story). Stars: Charlie Hunnam, Idris Elba, Rinko Kikuchi.
+
 
 Monstros e robôs gigantes homenageiam o poder da imaginação.
 

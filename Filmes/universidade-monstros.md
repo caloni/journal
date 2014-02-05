@@ -1,4 +1,4 @@
-Monsters University. EUA, 2013. Director: Dan Scanlon. Writers: Dan Scanlon, Daniel Gerson, Robert L. Baird. Stars: Billy Crystal, John Goodman, Steve Buscemi.
+
 
 Expansão do universo empolga mesmo com pouca energia.
 

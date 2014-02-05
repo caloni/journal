@@ -1,4 +1,4 @@
-Hugo. EUA, 2011. Direção: Martin Scorsese. Roteiro: John Logan. Elenco: Asa Butterfield, Chloë Grace Moretz, Ben Kingsley, Sasha Baron Cohen.
+
 
 O novo filme de Scorsese brinca com outro gênero em outra linguagem. 
 

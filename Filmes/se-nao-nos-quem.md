@@ -1,4 +1,4 @@
-Wer wenn nicht wir. Alemanha, 2011. Direção: Andres Veiel. Roteiro: Andres Veiel e Gerd Koenen (história). Elenco: August Diehl (Bernward Vesper), Lena Lauzemis (Gudrun Ensslin), Alexander Fehling (Andreas Baader), Thomas Thieme (Willi Vesper - Vater), Imogen Kogge (Rose Vesper - Mutter), Michael Wittenborn (Helmut Ensslin - Vater), Susanne Lothar (Ilse Ensslin - Mutter), Maria-Victoria Dragus (Ruth Ensslin), Vicky Krieps (Dörte).
+
 
 Na primeira cena do filme, vemos um gato comendo um filhote que põe o ninho muito baixo. Logo depois, um menino tenta esconder o gato. Na visão de seu pai, o gato é o judeu do mundo animal, e deve ser eliminado sem dó.
 

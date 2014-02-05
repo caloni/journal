@@ -1,4 +1,4 @@
-Idem. Brasil, 2011. Direção: Cláudio Assis. Roteiro: Hilton Lacerda. Elenco: Irandhir Santos, Matheus Nachtergaele, Nanda Costa. Fotografia: Walter Carvalho.
+
 
 Travestido de filme amador revolucionário dos anos 70, Febre encanta mais que choca.
 

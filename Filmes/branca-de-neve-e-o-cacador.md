@@ -1,4 +1,4 @@
-Snow White and the Huntsman. EUA, 2012. Direção: Rupert Sanders. Roteiro: Evan Daugherty, John Lee Hancock. Elenco: Kristen Stewart, Chris Hemsworth e Charlize Theron.
+
 
 Versão realista do conto popular resgata o lado sombrio da história.
 

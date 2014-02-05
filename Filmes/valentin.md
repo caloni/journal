@@ -1,4 +1,4 @@
-Idem. Argentina/Holanda/França/Espanha/Itália, 2002. Direção e Roteiro: Alejandro Agresti. Elenco: Rodrigo Noya, Alejandro Agresti e Julieta Cardinali.
+
 
 Drama de garoto de 8 anos é bem dirigido.
 

@@ -1,4 +1,4 @@
-Lo imposible. Espanha, 2012. Director: Juan Antonio Bayona. Writers: Sergio G. Sánchez (screenplay), María Belón (story). Stars: Naomi Watts, Ewan McGregor and Tom Holland.
+
 
 O tsunami de 2004 visto pela lente atenta e sensível de Juan Antonio Bayona.
 

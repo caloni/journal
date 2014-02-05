@@ -1,4 +1,4 @@
-The Soloist. EUA, 2009. Direção: Joe Wright. Roteiro: Susannah Grant e Steve Lopez. Elenco: Jamie Foxx (Nathaniel Ayers), Robert Downey Jr. (Steve Lopez), Catherine Keener (Mary Weston), Tom Hollander (Graham Claydon), Lisa Gay Hamilton (Jennifer Ayers (as Lisagay Hamilton)), Nelsan Ellis (David Carter), Rachael Harris (Leslie Bloom), Stephen Root (Curt Reynolds), Lorraine Toussaint (Flo Ayers), Justin Martin (Young Nathaniel). 
+
 
 Seguindo o filme de duplas, dessa vez com Robert Downey Jr. e Jamie Foxx, o drama O Solista é baseado em livro homônimo escrito pelo jornalista-personagem Steve Lopez, que se torna obcecado pela vida de Nathaniel Ayers, um sem-teto que tinha tudo para ser um grande músico, mas devido aos seus problemas mentais, acaba se refugiando da sociedade nas ruas.
 

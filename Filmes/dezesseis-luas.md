@@ -1,4 +1,4 @@
-Beautiful Creatures. EUA, 2013. Director: Richard LaGravenese. Writers: Richard LaGravenese (screenplay). Stars: Alden Ehrenreich, Alice Englert, Viola Davis, Jeremy Irons, Emmy Rossum, Thomas Mann, Emma Thompson, Eileen Atkins, Margo Martindale.
+
 
 Dramédia com casalsinho se sai pior que o vampiresco anterior.
 

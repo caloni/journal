@@ -1,4 +1,4 @@
-Salmon Fishing in the Yemen. Reino Unido, 2011. Direção: Lasse Hallström. Roteiro: Simon Beaufoy, Paul Torday (romance). Elenco: Ewan McGregor, Emily Blunt e Amr Waked.
+
 
 Drama com Ewan McGregor vira comédia romântica para fins comerciais.
 

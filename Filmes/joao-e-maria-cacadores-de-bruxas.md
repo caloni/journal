@@ -1,4 +1,4 @@
-Hansel & Gretel: Witch Hunters. Alemanha/EUA, 2013. Director: Tommy Wirkola. Writers: Tommy Wirkola, Dante Harper. Stars: Jeremy Renner, Gemma Arterton and Peter Stormare.
+
 
 Filme pseudo-trash sobre dupla de crianças psicopatas é diversão moderada.
 

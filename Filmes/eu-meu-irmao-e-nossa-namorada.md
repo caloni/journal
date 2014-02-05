@@ -1,4 +1,4 @@
-Dan in Real Life. EUA, 2007. Direção: Peter Hedges. Roteiro: Pierce Gardner, Peter Hedges. Elenco: Steve Carell, Juliette Binoche e Dane Cook.
+
 
 Comédia pé-no-chão estrela Carell e Binoche.
 

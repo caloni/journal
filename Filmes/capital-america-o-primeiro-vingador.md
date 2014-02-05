@@ -1,4 +1,4 @@
-Captain America: The First Avenger. EUA, 2011. Direção: Joe Johnston. Roteiro: Christopher Markus e Stephen McFeely. Elenco: Chris Evans (Capitão América/Steve Rogers), Hayley Atwell (Peggy Carter), Tommy Lee Jones (Coronel Chester Phillips), Hugo Weaving (Johann Schmidt/Caveira Vermelha), Dominic Cooper (Howard Stark).
+
 
 A Marvel parece que resolveu esquecer de vez a construção de histórias com profundidade dramática para dar vazão aos seus heróis secundários. O objetivo maior é o lançamento dos Vingadores, seu ambicioso projeto que exigiu a criação de diversos filmes, cada um retratando um personagem diferente que fará parte dessa equipe de super-heróis.
 

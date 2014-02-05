@@ -1,4 +1,4 @@
-Broken Flowers. EUA, França, 2005. Direção: Jim Jarmusch. Roteiro: Jim Jarmusch (inspirado nas ideias de Bill Raden e Sara Driver). Elenco: Bill Murray, Jeffrey Wright, Jessica Lange, Julie Delpy e Sharon Stone.
+
 
 Folclore do homem moderno e bem-sucedido rende história metafísica.
 

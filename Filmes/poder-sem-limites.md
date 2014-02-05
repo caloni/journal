@@ -1,4 +1,4 @@
-Chronicle. EUA, 2012. Direção: Josh Trank. Roteiro: Max Landis. Elenco: Dane DeHaan, Alex Russell e Michael B. Jordan.
+
 
 Pseudo-documentário fantástico é nova forma de híbrido do gênero.
 

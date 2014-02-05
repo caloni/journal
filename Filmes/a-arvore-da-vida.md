@@ -1,4 +1,4 @@
-The Tree of Life. EUA, 2011. Direção e Roteiro: Terrence Malick. Elenco: Brad Pitt (Sr. O'Brien), Sean Penn (Jack), Jessica Chastain (Sra. O'Brien), Hunter McCracken (Jack mais novo).
+
 
 O início de "O Filme: Um Estudo Psicológico (1916)" (http://www.gutenberg.org/files/15383/15383-h/15383-h.htm), de Hugo Münsterberg, primeiro livro sobre crítica da história do cinema, coloca o fenômeno da percepção do movimento nos olhos de quem vê. A interpretação que fazemos das imagens estáticas em sequência é subjetiva, de forma que, mesmo que o autor da obra tenha escolhido o que filmar, é o espectador que irá extrair da imagem o significado. Dessa forma, um filme, como toda obra de arte, apenas se comunica quando houver um espectador, que irá se relacionar diretamente com a obra e a filtrar pelas nossas experiências de vida e como enxergamos a realidade à nossa volta.
 

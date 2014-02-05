@@ -1,4 +1,4 @@
-Last Chance Harvey. EUA, 2008. Director: Joel Hopkins. Writer: Joel Hopkins. Stars: Dustin Hoffman, Emma Thompson, Eileen Atkins.
+
 
 Um drama dentro de um formol comédia-romântica (e britânica).
 

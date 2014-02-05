@@ -1,4 +1,4 @@
-Sleeping Beauty. Australia, 2011. Direção e Roteiro: Julia Leigh. Elenco: Emily Browning, Rachael Blake e Ewen Leslie.
+
 
 Sonhos de uma noite de sexo não-selvagem.
 

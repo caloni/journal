@@ -1,4 +1,4 @@
-Madagascar 3: Europe's Most Wanted. EUA, 2012. Direção: Eric Darnell, Tom McGrath, Conrad Vernon. Roteiro: Eric Darnell e Noah Baumbach.
+
 
 Piadas sem graça e em alguns momentos visualmente empolgante/emocionante.
 

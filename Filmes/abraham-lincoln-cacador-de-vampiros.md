@@ -1,4 +1,4 @@
-Abraham Lincoln: Vampire Hunter. EUA, 2012. Director: Timur Bekmambetov. Writers: Seth Grahame-Smith (screenplay), Seth Grahame-Smith (novel). Stars: Benjamin Walker, Rufus Sewell and Dominic Cooper.
+
 
 Filme mostra que Lincoln, antes de ser bom com palavras, era bom mesmo é com o machado.
 

@@ -1,4 +1,4 @@
-Idem. Brasil, 2010. Direção e Roteiro: Cesar Raphael. Elenco: Jeferson Alves (Traficante), Maria Mourão (Stripper), Cesar Raphael (Filho), Carlos Magno Ribeiro (Pastor), Paulo Udi (Vendedor De Armas), Harley Winter (Pai Policial).
+
 
 Esse curta de 18 minutos fez sua publicidade internacional com o uso inteligente da narração fluida (quase um plano-sequência completo, encoberto por cortes de cenário), ausência de diálogos (para evitar legendas) e, o mais importante, a ausência de identidade. Não é possível afirmar ou até mesmo sugerir onde a história do filme é passada. Sabemos que tudo o que acontece na narrativa existe no Brasil, e sabemos do triste círculo vicioso da violência através de trabalhos mais cerebrais como Tropa de Elite.
 

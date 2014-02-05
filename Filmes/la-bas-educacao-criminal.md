@@ -1,4 +1,4 @@
-La Bàs — Educazione Criminale. Itália, 2011. Direção e Roteiro: Guido Lombardi. 
+
 
 Um filme não necessariamente precisa ter um excelente roteiro para levar o espectador a pensar muito a respeito. Algumas vezes, bastam pequenos detalhes que levem em consideração: 1) a inteligência de quem assiste e 2) a motivação narrativa por trás da informação, que o filme fluirá e trará algo de novo para a gaveta de conhecimentos do cinéfilo.
 

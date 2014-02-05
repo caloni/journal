@@ -1,4 +1,4 @@
-X-Men First Class. EUA, 2011. Direção: Matthew Vaughn. Roteiro: Ashley Miller, Zack Stenz e outros. Elenco: James McAvoy (Charles Xavier), Michael Fassbender (Erik Lehnsherr/Magneto), Kevin Bacon (Sebastian Shaw), Jennifer Lawrence (Raven/Mística).
+
 
 Quando se fala de X-Men no cinema é sempre bom relembrar que uma ficção científica, assim como qualquer filme, é um documentário da época em que foi filmado. No caso do gênero Sci-Fi, as liberdades são signifivamente maiores, e por isso mesmo permitem alegorias/caracterizações que nos levam a viajar para outro universo e debater temas tão presentes no mundo de hoje quanto o preconceito e a intolerância.
 

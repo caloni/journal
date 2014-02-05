@@ -1,4 +1,4 @@
-Warm Bodies. EUA, 2013. Director: Jonathan Levine. Writers: Jonathan Levine (screenplay), Isaac Marion (novel). Stars: Nicholas Hoult, Teresa Palmer, John Malkovich.
+
 
 Braaaaaaaainnnsss...
 

@@ -1,4 +1,4 @@
-Rise of the Planet of the Apes. EUA, 2011. Direção: Rupert Wyatt. Roteiro: Rick Jaffa e Amanda Silver. Elenco: James Franco (Will Rodman), Freida Pinto (Caroline Aranha), John Lithgow (Charles Rodman), Brian Cox (John Landon), Tom Felton (Dodge Landon), David Oyelowo (Steven Jacobs), Tyler Labine (Robert Franklin), Jamie Harris (Rodney). 
+
 
 Esse texto não é indicado para os que já viram algum filme da série Planeta dos Macacos, iniciada em 68. (Na verdade, nem o atual de 2011: leia depois de assistir.)
 

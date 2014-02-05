@@ -1,4 +1,4 @@
-Keeping Mum. Reino Unido, 2005. Direção: Niall Johnson. Roteiro: Richard Russo, Niall Johnson. Elenco: Rowan Atkinson, Kristin Scott Thomas e Maggie Smith.
+
 
 Uma comédia nos moldes britânicos com piadas envolvendo cadáveres.
 

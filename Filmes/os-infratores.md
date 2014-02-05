@@ -1,4 +1,4 @@
-Lawless. EUA, 2012. Direção: John Hillcoat. Roteiro: Nick Cave), Matt Bondurant (romance). Elenco:  Tom Hardy, Shia LaBeouf e Guy Pearce.
+
 
 Compilação cuidadosa da opressão como combustível para a alma.
 

@@ -1,4 +1,4 @@
-The Boy in the Striped Pyjamas. Reino Unido/EUA, 2008. Direção: Mark Herman. Roteiro: John Boyne (romance), Mark Herman. Elenco: Asa Butterfield, David Thewlis e Rupert Friend.
+
 
 (Muito) Mais corajoso que A Lista e Schindler.
 

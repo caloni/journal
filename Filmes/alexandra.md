@@ -1,4 +1,4 @@
-Aleksandra. Rússia/França, 2007. Director: Aleksandr Sokurov. Writer: Aleksandr Sokurov. Stars: Galina Vishnevskaya, Vasily Shevtsov, Raisa Gichaeva.
+
 
 Retrospectiva Alexander Sokurov – Poeta
 

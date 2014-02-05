@@ -1,4 +1,4 @@
-Idem. Argentina, 2011. Direção e Roteiro: Adrían García Bogliano, Ramiro García Bogliano. Elenco: Cristina Brondo, Camila Bordonaba, Berta Muñiz.
+
 
 Um ótimo exemplo de roteiro para sabotar seus espectadores.
 

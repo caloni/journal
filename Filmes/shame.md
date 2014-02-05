@@ -1,4 +1,4 @@
-Idem. Reino Unido, 2011. Direção: Steve McQueen. Roteiro: Abi Morgan e Steve McQueen. Elenco: Michael Fassbender, Carey Mulligan e James Badge Dale.
+
 
 O sexo no formato de barreira social.
 

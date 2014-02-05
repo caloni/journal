@@ -1,4 +1,4 @@
-Les femmes du 6ème étage. França, 2010. Direção: Philippe Le Guay. Roteiro: Philippe Le Guay e Jérôme Tonnerre. Elenco: Fabrice Luchini, Sandrine Kiberlain e Natalia Verbeke.
+
 
 Histórias Cruzadas francês encanta pela simpatia e diverte pelas piadas do absurdo.
 

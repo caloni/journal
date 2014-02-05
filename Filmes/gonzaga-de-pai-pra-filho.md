@@ -1,4 +1,4 @@
-Idem. Brasil, 2012. Direção: Breno Silveira. Roteiro: Patrícia Andrade. Elenco: Júlio Andrade, Olivia Araújo, Cecília Dassi, Nivaldo Expedito de Carvalho, Giancarlo di Tomazzio, Giancarlo Di Tommaso, Chambinho do Acordeon, Ana Roberta Gualda, Claudio Jaborandy, Adelio Lima, Alison Santos, Land Vieira and Sílvia Buarque.
+
 
 Carrossel de emoções no sertão brasileiro desprovido de uma história para contar.
 

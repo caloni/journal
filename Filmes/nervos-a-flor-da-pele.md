@@ -1,4 +1,4 @@
-Órói. Islândia, 2010. Direção: Baldvin Zophoníasson. Roteiro: Ingibjörg Reynisdóttir e Baldvin Zophoníasson. Elenco: Atli Oskar Fjalarsson (Gabríel), Hreindís Ylva Garðarsdóttir (Stella), Gísli Örn Garðarsson (Haraldur), Birna Rún Eiríksdóttir (Gréta), Lilja Guðrún Þorvaldsdóttir (Guðbjörg amma), Elías Helgi Kofoed-Hansen (Teddi), Haraldur Ari Stefánsson (Markús), María Birta (Júdit), Ingibjörg Reynisdóttir (Hulda), Þorsteinn Bachmann (Benedikt), Vilhelm Þór Neto (Mitrovik), Kristín Pétursdóttir (Tara), Árni Gestur Sigfússon (Hallur), Saga Líf Friðriksdóttir (Freyja).
+
 
 Da minha limitada (põe limitada nisso) experiência, o que já vi do cinema islandês é que ele foca muito na relação e nas descobertas dos seus jovens, e este, acredite, não foge nem um pouco da fórmula. Apresentando desde o início a descoberta de um jovem de ser gay, esse pequeno segredo dele permeia todo o longa, servindo de contraponto com a relação dos outros personagens e seus anseios. Por exemplo, a melhor amiga desse jovem, encontra suporte em seu jeito doce, mas, equivocada, não sabe se está afim dele ou não.
 

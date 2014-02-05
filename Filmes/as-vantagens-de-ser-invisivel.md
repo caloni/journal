@@ -1,4 +1,4 @@
-The Perks of Being a Wallflower. EUA, 2012. Direção: Stephen Chbosky. Roteiro: Stephen Chbosky (novel), Stephen Chbosky (screenplay). Elenco: Logan Lerman, Emma Watson and Ezra Miller.
+
 
 A adolescência e o seu drama humano visto com a leveza que merece.
 

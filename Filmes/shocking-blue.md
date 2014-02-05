@@ -1,4 +1,4 @@
-Idem. Holanda, 2010. Direção: Mark de Cloe. Roteiro: Céline Linssen. Elenco: Lisa Smit (Manou), Dragan Bakema (Wojtek), Niels Gomperts (Jaques), Jim van der Panne (Chris), Sarah Bannier (Femke), Ruben van Weelden (Thomas), Thijs Feenstra (Vader Thomas en Chantal), Tsilla Voet (Patty), Nienke Westerhof (Moeder Thomas en Chantal), Caro de Jonge (Chantal), Casper Wijers (Vader van Manou), Jos Sneekes (Vader van Chris).
+
 
 Com um elenco coeso e uma direção segura, o filme holandês da safra do ano passado conseguem empolgar demasiadamente correto em seus 82 minutos de projeção. A única limitação acaba sendo a própria narrativa, que ganha ares despretenciosos, mas que evoca exatamente isso em sua maioria, tornando-se enfadonho, embora nunca desinteressante.
 

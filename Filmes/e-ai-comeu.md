@@ -1,4 +1,4 @@
-Idem. Brasil, 2012. Direção: Felipe Joffily. Roteiro: Marcelo Rubens Paiva (peça e roteiro), Lusa Silvestre. Elenco: Bruno Mazzeo, Marcos Palmeira, Emilio Orciollo Netto, Seu Jorge, Dira Paes, Tainá Müller, Laura Neiva, Juliana Schalch, Alex Sander.
+
 
 Noites mágicas em bar do Rio é tema do homem sexista frustrado.
 

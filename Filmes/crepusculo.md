@@ -1,4 +1,4 @@
-Twilight. EUA, 2008. Direção: Catherine Hardwicke. Roteiro: Melissa Rosenberg, Stephenie Meyer (romance). Elenco: Kristen Stewart, Robert Pattinson e Billy Burke.
+
 
 Nova raça de vampiros é pano de fundo em romance desinteressante.
 

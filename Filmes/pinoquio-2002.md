@@ -1,4 +1,4 @@
-Pinocchio. Itália/EUA, 2002. Direção: Roberto Benigni. roteiro: Roberto Benigni, Vincenzo Cerami. Elenco: Roberto Benigni, Nicoletta Braschi, Carlo Giuffrè.
+
 
 Benigni depois de A Vida é Bela perde o foco readaptação de obra infantil.
 

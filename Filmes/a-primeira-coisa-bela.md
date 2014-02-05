@@ -1,4 +1,4 @@
-Idem. Itália, 2010. Direção: Paolo Virzì. Roteiro: Paolo Virzì, Francesco Bruni. Elenco: Valerio Mastandrea, Micaela Ramazzotti, Stefania Sandrelli.
+
 
 A Itália volta despontando em filmes dramáticos.
 

@@ -1,4 +1,4 @@
-Deadfall. EUA, 2012. Director: Stefan Ruzowitzky. Writer: Zach Dean. Stars: Eric Bana, Olivia Wilde, Charlie Hunnam.
+
 
 Policial sem empolgação, drama sem tridimensionalidade.
 

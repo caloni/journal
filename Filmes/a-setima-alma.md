@@ -1,4 +1,4 @@
-My Soul to Take. EUA, 2010. Director: Wes Craven. Writer: Wes Craven. Stars: Max Thieriot, John Magaro, Denzel Whitaker.
+
 
 Aquela velha maldição que atordoa as pessoas de um vilarejo.
 

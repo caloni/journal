@@ -1,4 +1,4 @@
-Up. EUA, 2009. Directors: Pete Docter, Bob Peterson. Writers: Pete Docter (story), Bob Peterson (story). Stars: Edward Asner, Jordan Nagai, John Ratzenberger.
+
 
 Pixar emociona tanto pela sua história quanto pela sua arte.
 

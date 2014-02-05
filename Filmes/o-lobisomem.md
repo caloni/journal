@@ -1,4 +1,4 @@
-The Wolfman. EUA, 2010. Direção: Joe Johnston. Roteiro: Andrew Kevin Walker (screenplay), David Self (screenplay). Elenco: Benicio Del Toro, Anthony Hopkins and Emily Blunt.
+
 
 Benicio del Toro, Antony Hopkins e Emily Blunt em um projeto desperdiçado.
 

@@ -1,4 +1,4 @@
-Srpski film. Sérvia, 2011. Direção: Srdjan Spasojevic. Roteiro: Aleksandar Radivojevic e Srdjan Spasojevic. Elenco: Srdjan Todorovic (Milos), Sergej Trifunovic (Vukmir) e Jelena Gavrilovic (Marija).
+
 
 Segundo um relatório sobre a Guerra da Bósnia feito pela Agência Central de Inteligência americana, 90% dos crimes de guerra foram cometidos pelos sérvios. Em uma região conturbada política e religiosamente por mais de um século, o povo sérvio se acostumou a um ambiente instável. A grande questão é como isso afeta a moral dessas pessoas.
 

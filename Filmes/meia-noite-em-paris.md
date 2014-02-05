@@ -1,4 +1,4 @@
-Midnight in Paris. Espanha, EUA, 2011. Direção e Roteiro: Woody Allen. Elenco: Owen Wilson (Gil), Marion cottilard (Adriana), Rachel McAdams (Inez), Kurt Fuller (John), Mimi Kennedy (Helen), Corey Stoll (Ernest Hemingway), Tom Hiddleston (F. Scott Fitzgerald), Alison Pill (Zelda Fitzgerald), Yves Heck (Cole Porter), Kathy Bates (Gertrude Stein), Adrien Brody (Salvador Dalí).
+
 
 Quando sabemos estar admirando o último enquadramento de meia-noite em Paris, é de doer o coração. O longa de Allen não só empolga, e muito, no início, como mantém suspenso o interesse pelos personagens (que não são poucos). Acredito que, se fosse possível, assistiríamos mais duas, três, ou até quatro horas de filmagem nesse universo criado por Allen.
 

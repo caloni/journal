@@ -1,4 +1,4 @@
-Un amour de jeunesse. França/Alemanha, 2011. Direção e Roteiro: Mia Hansen-Løve. Elenco: Lola Créton (Camille), Sebastian Urzendowsky (Sullivan), Magne-Håvard Brekke (Lorenz (as Magne Håvard Brekke)).
+
 
 Um "Crepúsculo" esteticamente impecável e perigosamente vazio.
 

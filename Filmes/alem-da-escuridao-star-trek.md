@@ -1,4 +1,4 @@
-Star Trek Into Darkness. EUA, 2013. Director: J.J. Abrams. Writers: Roberto Orci, Alex Kurtzman, Damon Lindelof. Stars: Chris Pine, Zachary Quinto, Zoe Saldana, Benedict Cumberbatch, John Cho, Simon Pegg, Karl Urban, Anton Yelchin, Bruce Greenwood, Peter Weller, Alice Eve.
+
 
 Sequência ultrapassa seu predecessor, ainda que na velocidade normal.
 

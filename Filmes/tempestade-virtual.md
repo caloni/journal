@@ -1,4 +1,4 @@
-Storm Watch. EUA, 2002. Direção e Roteiro: Terry Cunningham. Elenco:  Nick Cornish, Vanessa Marcil e Adrian Paul.
+
 
 Hackers pirateado.
 

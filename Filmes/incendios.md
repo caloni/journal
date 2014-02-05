@@ -1,4 +1,4 @@
-Incendies. Canadá, 2010. Direção e Roteiro: Denis Villeneuve. Baseado na peça de Wajdi Mouawad. Elenco: Lubna Azabal (Nawal Marwan), Mélissa Désormeaux-Poulin (Jeanne Marwan), Maxim Gaudette (Simon Marwan), Rémy Girard (Notário Jean Lebel), Abdelghafour Elaaziz (Abou Tarek).
+
 
 Os melhores filmes, ou os que merecem revisitas mesmo depois de conhecermos o seu desfecho, geralmente são aqueles que permitem múltiplas interpretações e que conseguem impressionar pela sua engenhosa criação. Ou seja, ao mesmo tempo emocionam e possuem um prazer intelectual implícito em sua estrutura. Esse é sem dúvida o caso de Incêndios, que não apenas apresenta uma história arrebatadora do começo ao fim em seu nível emocional (personagens) como também permite análises em camadas mais racionais, sem com isso diminuir o impacto de sua história.
 

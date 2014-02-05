@@ -1,4 +1,4 @@
-Idem. Brasil, 2011. Direção e Roteiro: Paulo Pélico.
+
 
 Às vezes um filme pode ajudar a consolidar um conhecimento que fica na cabeça das pessoas, flutuando, inconsciente, mas que nem nos damos conta de que ele existe. Por exemplo: quantas vezes ao comprar uma peça de roupa (ou calçado) não nos damos conta que o tamanho anteriormente escolhido já não serve mais? Esse pequeno detalhe, que parece tão corriqueiro, no fundo é resultado de uma falta de padronização nas medidas do vestuário do brasileiro, e à adaptação (errada) do uso de medidas feitas com base no corpo de pessoas completamente diferentes, como um europeu ou um norte-americano.
 

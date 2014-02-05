@@ -1,4 +1,4 @@
-R U There. Holanda/Taiwan, 2010. Direção: David Verbeek. Roteiro: Rogier de Blok. Elenco: Stijn Koomen, Ke Huan-Ru.
+
 
 Começamos essa história sobre um jogador de víde-games profissional dentro do jogo que este é especialista. Esse artifício será usado mais uma ou duas vezes e transportado para o pseudo-romance que este viverá com uma oriental da cidade para onde vão disputar o campeonato, só que dessa vez o ambiente virtual é o Second Life, lugar feito para conhecer pessoas.
 

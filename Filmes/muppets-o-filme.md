@@ -1,4 +1,4 @@
-The Muppets. EUA, 2011. Direção: James Robin. Roteiro: Jason Segel, Nicholas Stoller. Elenco: Amy Adams, Jason Segel, Chris Cooper.
+
 
 Bonecos sabem dançar; humanos não.
 

@@ -1,4 +1,4 @@
-Tinker Tailor Soldier Spy. EUA, 2011. Direção: Tomas Alfredson. Roteiro: Bridget O'Connor e Peter Straughan.
+
 
 Confuso, confuso, confuso.
 

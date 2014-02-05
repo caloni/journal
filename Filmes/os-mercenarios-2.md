@@ -1,4 +1,4 @@
-The Expendables 2. EUA, 2012. Direção: Simon West. Roteiro: Richard Wenk e Sylvester Stallone. Elenco: Sylvester Stallone, Jason Statham, Jet Li, Dolph Lundgren, Chuck Norris, Jean-Claude Van Damme, Bruce Willis, Arnold Schwarzenegger, Terry Crews, Randy Couture, Liam Hemsworth, Scott Adkins, Nan Yu.
+
 
 Ação por ação não é fenômeno exclusivo de Michael Bay.
 

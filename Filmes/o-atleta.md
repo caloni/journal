@@ -1,4 +1,4 @@
-Atletu. EUA/Alemanha/Etiópia, 2009. Direção: Davey Frankel, Rasselas Lakew. Roteiro: Rasselas Lakew, Davey Frankel, Mikael Amerio Awake. Música: Christian Meyer. Elenco: Rasselas Lakew, Dag Malmberg, Ruta Gedmintas.
+
 
 O filme começa com a luz do sol, tão presente durante o longa, se transformando na luz do projetor de cinema. Esse projetor fará parte do final, quando voltamos para o mesmo close no início.
 

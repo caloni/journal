@@ -1,4 +1,4 @@
-Last Night. EUA/França, 2010. Direção e Roteiro: Massy Tadjedin. Elenco: Keira Knightley, Sam Worthington, Eva Mendes, Guillaume Canet.
+
 
 Romance leve e drama sutil harmonizam história simples, mas cativante sobre sentimentos e traição.
 

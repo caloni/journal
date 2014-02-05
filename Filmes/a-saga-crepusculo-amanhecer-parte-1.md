@@ -1,4 +1,4 @@
-The Twilight Saga: Breaking Dawn - Part 1. EUA. 2011. Direção: Bill Condon. Roteiro: Melissa Rosenberg (screenplay), Stephenie Meyer (novel). Elenco: Kristen Stewart, Robert Pattinson and Taylor Lautner.
+
 
 Finalmente entramos na reta final: que alívio!
 

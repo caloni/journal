@@ -1,4 +1,4 @@
-Cirkus Columbia. Bósnia, 2010. Direção: Danis Tanovic. Roteiro: Danis Tanovic, Ivica Dikic. Elenco: Miki Manojlovic, Boris Ler, Mira Furlan, Jelena Stupljanin.
+
 
 (Sinopse copiada): Após anos sob o regime comunista, as coisas parecem ter se aquietado em uma cidadezinha ao sul de Herzegovina, onde Lucija e seu filho Martin vivem uma vida pacata. Isso até Divko, seu marido sumido por vinte anos, reaparecer na cidade com um brilhante Mercedes, uma namorada jovem e sexy, muito dinheiro e um gato preto asqueroso chamado Bonny. Após ir para a Alemanha, Divko está de volta e procura marcar alguns pontos neste satírico jogo dos sexos. Analisando o fim de um casamento e o começo de uma nova era nos Bálcãs, o filme mostra o crescimento do nacionalismo e do fascismo e o surgimento do amor e do perdão.
 

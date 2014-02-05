@@ -1,4 +1,4 @@
-New Moon. EUA, 2009. Direção: Chris Weitz. Roteiro: Melissa Rosenberg (roteiro), Stephenie Meyer (romance). Elenco: Kristen Stewart, Robert Pattinson e Taylor Lautner.
+
 
 Romance-paródia se reafirma como filme sério e perde uma estrela.
 

@@ -1,4 +1,4 @@
-Cirque du Freak: The Vampire's Assistant. USA, 2011. Direção: Paul Weitz. Roteiro: Paul Weitz e Brian Helgeland. Elenco: John C. Reilly (Larten Crepsley), Josh Hutcherson (Steve), Chris Massoglia (Darren Shan), Jessica Carlson (Rebecca), Michael Cerveris (Mr. Tiny), Ken Watanabe (Mr. Tall), Salma Hayek (Madame Truska).
+
 
 Darren (Massoglia) é um garoto estilo certinho, mas é amigo do problemático Steve (Hutcherson). Ambos acabam indo a um circo de horrores e lá conhecem um homem misterioro, Lasten Crepsley (Reilly), que se revela um vampiro secular. Após uma série de eventos, como o título já denuncia, Darren será obrigado a deixar sua vida normal e se tornar seu assistente. Porém, para complicar as coisas, ele irá descobrir que existem algumas escolhas a ser feitas no mundo dos vampiros.
 

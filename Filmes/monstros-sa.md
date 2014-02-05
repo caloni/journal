@@ -1,4 +1,4 @@
-Monsters, Inc. EUA, 2001. Direção: Pete Docter (co-diretores David Silverman e Lee Unkrich. Roteiro: Pete Docter, Jill Culton, Jeff Pidgeon, Ralph Eggleston.
+
 
 Os princípios da Pixar fizeram um filme que anda envelhecendo bem.
 

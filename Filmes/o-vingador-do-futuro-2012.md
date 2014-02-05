@@ -1,4 +1,4 @@
-Total Recall. EUA/Canada, 2012. Direção: Len Wiseman. Roteiro: Kurt Wimmer, Mark Bomback. Elenco: Colin Farrell, Bokeem Woodbine e Bryan Cranston.
+
 
 Quando a ficção da ficção brinca com nosso sistema de crenças.
 

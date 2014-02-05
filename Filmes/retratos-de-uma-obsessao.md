@@ -1,4 +1,4 @@
-One Hour Photo. EUA, 2002. Director: Mark Romanek. Writer: Mark Romanek. Stars: Robin Williams, Connie Nielsen, Michael Vartan.
+
 
 A fotografia como elemento narrativo de um suspense exemplar.
 

@@ -1,4 +1,4 @@
-The Pirates! In an Adventure with Scientists! Reino Unido/EUA, 2012. Direção: Peter Lord, Jeff Newitt. Roteiro: Gideon Defoe. Elenco: Hugh Grant, Salma Hayek e Jeremy Piven. Direção de Arte: Sarah Hauldren, Phil Lewis, Matt Perry, Matt Sanders. Fotografia: Charles Copping e Frank Passingham.
+
 
 Tecnicamente impecável e com uma história de dar dó.
 

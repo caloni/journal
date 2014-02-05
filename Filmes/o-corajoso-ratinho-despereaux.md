@@ -1,4 +1,4 @@
-The Tale of Despereaux. Reino Unido/EUA, 2008. Direção: Sam Fell e Robert Stevenhagen. Roteiro: Gary Ross.
+
 
 Direção de arte notável em mais um filme de ratinho.
 

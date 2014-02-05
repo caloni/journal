@@ -1,4 +1,4 @@
-Sinister. EUA, 2012. Director: Scott Derrickson. Writers: Scott Derrickson, C. Robert Cargill. Stars: Ethan Hawke, Juliet Rylance and James Ransone.
+
 
 Estamos sabotando nossa própria diversão no terror?
 

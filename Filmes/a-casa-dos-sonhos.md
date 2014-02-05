@@ -1,4 +1,4 @@
-Dream House. EUA, 2011. Direção: Jim Sheridan. Roteiro: David Loucka. Elenco: Daniel Craig (Will Atenton), Naomi Watts (Ann Patterson), Rachel Weisz (Libby), Elias Koteas (Boyce), Marton Csokas (Jack Patterson), Taylor Geare (Trish), Claire Geare (Dee Dee), Rachel G. Fox (Chloe Patterson (as Rachel Fox)), Jane Alexander (Dr. Greeley), Brian Murray (Dr. Medlin), Bernadette Quigley (Heather Keeler), Sarah Gadon (Cindi), Gregory Smith (Artie), Mark Wilson (Capt. Conklin), David Huband (Officer Nelson).
+
 
 Vendido como uma história de terror/suspense, a história gira em torno de Will Atenton (Craig) que, depois de anos dedicado ao seu emprego, se aposenta e volta a morar junto de sua família em um bairro afastado, onde terá todo o tempo para, além de curtir sua amada esposa (Weisz) e suas adoráveis filhas (ambas irmãs na vida real, que já fizeram ponta em A Origem), terminar o romance que vinha escrevendo nas horas vagas.
 

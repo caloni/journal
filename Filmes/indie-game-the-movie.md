@@ -1,4 +1,4 @@
-Idem. Canada, 2012. Directors: Lisanne Pajot, James Swirsky. Stars: Jonathan Blow, Phil Fish, Edmund McMillen.
+
 
 Documentário explora a nerdisse da criação de jogos de computador como expressão de arte.
 

@@ -1,4 +1,4 @@
-Taking Lives. EUA e Austrália, 2004. Direção: D. J. Caruso. Roteiro: Michael Pye (romance) e Jon Bokenkamp. Elenco: Angelina Jolie (Illeana), Ethan Hawke (Costa), Kiefer Sutherland (Hart), Gena Rowlands (Mrs. Asher), Olivier Martinez (Paquette), Tchéky Karyo (Leclair), Jean-Hugues Anglade (Duval), Paul Dano (Young Asher), Justin Chatwin (Matt Soulsby).
+
 
 Esse é mais um thriller policial que envolve uma dupla de elementos que vem se tornando frequente: histórias previsíveis e Angelina Jolie. Nesse caso, Jolie é uma agente do FBI que precisa capturar um serial killer que rouba a identidade de suas vítimas.
 

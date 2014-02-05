@@ -1,4 +1,4 @@
-Eagle vs Shark. Nova Zelândia, 2007. Direção: Taika Waititi. Elenco: Loren Horsley (Lily) e Jemaine Clement (Jarrod).
+
 
 O primeiro trabalho de longa metragem cinematográfico (já havia feito trabalhos para a TV) de Taika Waititi é simpático e divertido de assistir. Talvez pelo fato de uma produção Indie ser simpática pela própria natureza de agradar pelo diferente e pela quebra das amarras Hoolywoodianas que demarcam o terreno onde as produções dignas de pipoca devem ser produzidas.
 

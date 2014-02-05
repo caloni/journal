@@ -1,4 +1,4 @@
-Idem. EUA, 2009. Direção: Zack Snyder. Roteiro: David Hayter e Alex Tse. Graphic Novel: Dave Gibbons e Alan Moore. Elenco: Malin Akerman (Laurie Jupiter / Silk Spectre II), Billy Crudup (Dr. Manhattan / Jon Osterman), Matthew Goode (Adrian Veidt / Ozymandias), Jackie Earle Haley (Rorschach), Jeffrey Dean Morgan (Edward Blake / Comedian), Patrick Wilson (Dan Dreiberg / Nite Owl), Carla Gugino (Sally Jupiter / Silk Spectre), Matt Frewer (Moloch), Stephen McHattie (Hollis Mason), Laura Mennell (Janey Slater), Rob LaBelle (Wally Weaver). 
+
 
 Watchmen seria uma história sobre anti-heróis ou heróis como eles seriam no mundo real? Desde o começo do filme, nos vemos embarcados nestes pensamentos, ajudados pela magnífica introdução que mostra, em câmera lenta, os vigilantes do filme posando para fotos jornalísticas, em uma fotografia super-sensível que, utilizando tons de sépia para identificar o passado, demonstra, desde já, o apuro estético de uma produção que está claramente acima do gênero "adaptação de quadrinhos".
 

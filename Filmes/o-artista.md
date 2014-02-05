@@ -1,4 +1,4 @@
-The Artis. França/Bélgica, 2011. Direção e Roteiro: Michel Hazanavicius. Elenco: Jean Dujardin, Berenice Bejo e John Goodman.
+
 
 O cinema mudo está de volta em sua melhor forma: visual.
 

@@ -1,4 +1,4 @@
-The Master. EUA, 2012. Director: Paul Thomas Anderson. Writer: Paul Thomas Anderson. Stars: Philip Seymour Hoffman, Joaquin Phoenix, Amy Adams.
+
 
 Cientologia posta no ridículo com um exagero visceral.
 

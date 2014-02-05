@@ -1,4 +1,4 @@
-The Road. EUA, 2009. Director: John Hillcoat. Writers: Cormac McCarthy (novel), Joe Penhall (screenplay). Stars: Viggo Mortensen, Charlize Theron and Kodi Smit-McPhee.
+
 
 Jornada moral revestida de filme de fim do mundo.
 

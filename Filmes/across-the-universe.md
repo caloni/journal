@@ -1,4 +1,4 @@
-_Across The Universe (Across The Universe). EUA/Reino Unido, 2007. Director: Julie Taymor. Writers: Dick Clement (screenplay), Ian La Frenais (screenplay), Julie Taymor. Stars: Evan Rachel Wood, Jim Sturgess, Joe Anderson, Dana Fuchs, Martin Luther, T.V. Carpio, Spencer Liff, Lisa Hogg, Nicholas Lumley, Michael Ryan, Angela Mounsey. Cinematography: Bruno Delbonnel. Film Editing: Françoise Bonnot. Art Director: Peter Rogness._
+
 
 <iframe src="http://caloni.com.br/mms/mm.php?mm=across-the-universe" height="600" width="860" frameborder="0"></iframe>
 

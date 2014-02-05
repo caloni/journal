@@ -1,4 +1,4 @@
-Django Unchained. EUA, 2012. Director: Quentin Tarantino. Writer: Quentin Tarantino. Stars: Jamie Foxx, Christoph Waltz, Leonardo DiCaprio.
+
 
 Western mistura culturas e empolga pelo seu estilo.
 

@@ -1,4 +1,4 @@
-Before Midnight. EUA, 2013. Director: Richard Linklater. Writers: Richard Linklater, Julie Delpy, Ethan Hawke, Kim Krizan (personagens). Stars: Ethan Hawke, Julie Delpy, Seamus Davey-Fitzpatrick.
+
 
 A passagem do tempo analisada pelo meu casal favorito do Cinema.
 

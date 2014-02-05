@@ -1,4 +1,4 @@
-Intouchables. França, 2011. Direção e Roteiro: Olivier Nakache e Eric Toledano. Elenco: François Cluzet, Omar Sy e Anne Le Ny.
+
 
 Dramédia francês trata do delicado tema dos tetraplégicos com leveza e otimismo.
 

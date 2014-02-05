@@ -1,4 +1,4 @@
-Coraline. EUA, 2009. Direção: Henry Selick. Roteiro: Henry Selick (roteiro) e Neil Gaiman (livro). Elenco: Dakota Fanning (Coraline Jones (voice)), Teri Hatcher (Mel Jones / Other Mother / Beldam (voice)), Jennifer Saunders (Miss April Spink / Other Spink (voice)), Dawn French (Miss Miriam Forcible / Other Forcible (voice)), Keith David (The Cat (voice)), John Hodgman (Charlie Jones / Other Father (voice)), Robert Bailey Jr. (Wyborne 'Wybie' Lovat (voice)), Ian McShane (Mr. Sergei Alexander Bobinsky / Other Bobinsky (voice)).
+
 
 Existem filmes que encantam apenas pelo seus esforços periféricos (direção de arte, música, fotografia) e existem os que apenas chamam a atenção pelo seu desenvolvimento central (roteiro e direção). No caso de Coraline é difícil não ficar deslumbrado com o apuro técnico de todo um mundo criado e que ganhou movimento graças ao tradicional uso do stop motion, onde a ação é montada quadro-a-quadro. Além disso, é o primeiro filme desse estilo ao ser rodado em 3D, o que levanta alguns aspectos interessantes da sua narrativa, como o uso das agulhas.
 

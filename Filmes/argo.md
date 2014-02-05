@@ -1,4 +1,4 @@
-Idem. EUA, 2012. Direção: Ben Affleck. Roteiro: Chris Terrio (screenplay), Joshuah Bearman (article). Elenco: Ben Affleck, Bryan Cranston and John Goodman.
+
 
 Como um filme de ação consegue emocionar pelo seu realismo?
 

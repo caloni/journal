@@ -1,4 +1,4 @@
-The Girl with the Dragon Tattoo. EUA, 2011. Direção: David Fincher. Roteiro: Steven Zaillian. Elenco: Rooney Mara, Daniel Craig, Christopher Plummer.
+
 
 Fincher mais uma vez conta uma história complexa com maestria.
 

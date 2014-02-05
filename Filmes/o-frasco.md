@@ -1,4 +1,4 @@
-El Frasco. Argentina/Espanha, 2008. Direção: Alberto Lecchi. Roteiro: Pablo Solarz. Elenco: Darío Grandinetti, Leticia Brédice e Rubén Altamirano.
+
 
 Comédia se baseia apenas na timidez para fazer rir.
 

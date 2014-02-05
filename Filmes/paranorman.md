@@ -1,4 +1,4 @@
-Idem. EUA, 2012. Directors: Chris Butler, Sam Fell. Writer: Chris Butler. Stars: Kodi Smit-McPhee, Anna Kendrick and Christopher Mintz-Plasse.
+
 
 Animação com temática adulta permanece com idade mental infantil.
 

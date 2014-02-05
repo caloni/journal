@@ -1,4 +1,4 @@
-Idem. Argentina, 2011. Direção e Roteiro: Paula de Luque. Elenco: Osmar Núñez, Julieta Díaz, Alfredo Casero.
+
 
 O romance mais famoso da Argentina sabotado pelos registros históricos.
 

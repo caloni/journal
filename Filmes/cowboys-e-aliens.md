@@ -1,4 +1,4 @@
-Cownboys & Aliens. EUA, 2011. Direção: Jon Favreau. Roteiro: Roberto Orci, Alex Kurtzman e outros. Elenco: Daniel Craig (Jake Lonergan), Harrison Ford (Woodrow Dolarhyde), Abigail Spencer (Alice), Buck Taylor (Wes Claiborne), Olivia Wilde (Ella Swenson), Sam Rockwell (Doc), Keith Carradine (Sheriff John Taggart).
+
 
 Não há muito o que falar da história em Cowboys & Aliens, novo filme de Jon Favreau (dos dois O Homem de Ferro e Zathura - Uma Aventura Espacial). O título já torna tudo muito óbvio, por mais bizarro que isso seja. No entanto, acredito que a definição desse gênero misto acabe sendo o principal motivo do filme não conseguir "decolar" em nenhum momento, sendo constantemente cozinhado em forno brando.
 

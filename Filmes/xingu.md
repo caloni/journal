@@ -1,4 +1,4 @@
-Idem. Brasil, 2012. Direção: Cao Hamburguer. Produção: Fernando Meirelles, Andrea Barata Ribeiro, Bel Berlinck. Roteiro: Elena Soarez, Cao Hamburger, Anna Muylaert. Fotografia: Adriano Goldman, ABC. Elenco: João Miguel, Felipe Camargo, Caio Blat.
+
 
 A idealização do mundo índio ameaçando a verdadeira aventura no Centro-Oeste brasileiro.
 

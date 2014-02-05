@@ -1,4 +1,4 @@
-The Dark Knight Rises. EUA/Reino Unido, 2012. Direção: Christopher Nolan. Roteiro: Jonathan Nolan e Christopher Nolan. Elenco: Christian Bale, Tom Hardy e Anne Hathaway. Música: Hans Zimmer. Fotografia: Wally Pfister.
+
 
 O círculo vicioso e angustiante da violência na Gotham de todos nós.
 

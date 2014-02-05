@@ -1,4 +1,4 @@
-Hairspray. EUA, 2007. Direção: Adam Shankman. Roteiro: Leslie Dixon, John Waters (de 1988), Mark O'Donnell (peça), Thomas Meehan (peça). Elenco: John Travolta, Queen Latifah, Nikki Blonsky, Michelle Pfeiffer, Christopher Walken.
+
 
 John Travolta de vestido e com duzentos quilos até que dança bem.
 

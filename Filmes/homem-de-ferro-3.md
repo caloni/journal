@@ -1,4 +1,4 @@
-Iron Man 3. EUA/China, 2013. Director: Shane Black. Writers: Drew Pearce (screenplay), Shane Black (screenplay). Stars: Robert Downey Jr., Gwyneth Paltrow, Don Cheadle.
+
 
 Terceira aventura é mais densa, mas possui os velhos problemas do segundo filme.
 

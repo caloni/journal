@@ -1,4 +1,4 @@
-The Adjustment Bureau. EUA, 2011. Direção: George Nolfi. Roteiro: George Nolfi. Com: Matt Damon (David Norris), Emily Blunt (Elise Sellas), John Slattery (Richardson), Anthony Mackie (Harry Mitchell) e Terence Stamp (Thompson).
+
 
 Em uma época em que religião e economia precisam ser reinventadas, a visão mesclada de ambas em uma organização fria e calculista não deixa de ser no mínimo curiosa. Porém, mais do que isso é constatarmos que os homens sisudos do filme têm por função coordenar algo que para nós, seres humanos, especialmente em tempos de crise, é sabidamente a única coisa de que realmente somos donos: o livre arbítrio.
 

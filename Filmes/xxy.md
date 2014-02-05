@@ -1,4 +1,4 @@
-Idem. Argentina, 2007. Direção: Lucía Puenzo. Roteiro: Sergio Bizzio. Elenco: Ricardo Darín, Valeria Bertuccelli e Germán Palacios.
+
 
 Mais um conflito sexual entregue a ele mesmo.
 

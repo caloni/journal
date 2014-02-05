@@ -1,4 +1,4 @@
-Faust. Rússia, 2011. Direção: Aleksandr Sokurov. Roteiro: Yuri Arabov (livro), Aleksandr Sokurov e Marina Koreneva. Elenco: Johannes Zeiler, Isolda Dychauk, Anton Adasinsky.
+
 
 A lenda e o romance vistos em sua essência.
 

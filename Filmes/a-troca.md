@@ -1,4 +1,4 @@
-Changeling. EUA, 2011. Direção: Clint Eastwood. Roteiro: J. Michael Straczynski. Elenco: Angelina Jolie, Colm Feore, Amy Ryan, John Malkovich, Michael Kelly, Jason Butler Harner.
+
 
 Eastwood em drama épico com conotações políticas.
 

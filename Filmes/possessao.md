@@ -1,4 +1,4 @@
-The Possession. EUA/Canadá, 2012. Direção: Ole Bornedal. Roteiro: Juliet Snowden, Stiles White. Elenco: Natasha Calis, Jeffrey Dean Morgan e Kyra Sedgwick.
+
 
 Uma trilha sonora divertida e um terror que tenta resgatar clássicos.
 

@@ -1,4 +1,4 @@
-Idem. EUA, 2009. Direção, Roteiro e Montagem: David Lowery. Fotografia: Clay Liford. Elenco: Savanna Sears e Tucker Sears.
+
 
 O mundo que a gente vê mas não sente.
 

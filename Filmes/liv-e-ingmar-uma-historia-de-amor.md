@@ -1,4 +1,4 @@
-Liv & Ingmar. Noruega/Reino Unido/Índia, 2012. Director: Dheeraj Akolkar. Writer: Dheeraj Akolkar. Stars: Ingmar Bergman and Liv Ullmann.
+
 
 Documentário sobre relação de diretor sueco não decola nos sentimentos humanos.
 

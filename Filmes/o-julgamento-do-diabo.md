@@ -1,4 +1,4 @@
-Shortcut to Happiness. EUA, 2007. Direção: Alec Baldwin. Elenco: Anthony Hopkins, Alec Baldwin, Jennifer Love Hewitt.
+
 
 Existe uma relação entre esse primeiro (e único) longa de Baldwin e um filme de 1941 chamado "The Devil and Daniel Webster": o protagonista é o mesmo Daniel Webster. Ambos possuem dois títulos: são chamados "The Devil and Daniel Webster", porém o de 1941 também possui o título "All That Money Can Buy", enquanto esse de 2007 é chamado também de "Shortcut to Happiness".
 

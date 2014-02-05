@@ -1,4 +1,4 @@
-_Los Tentados (Los Tentados). Argentina, 2013. Direção: Mariano Blanco. Roteiro: Mariano Blanco. Fotografia: Ian Feld. Montagem: Mariano Blanco. Elenco: Fany Palmieri, Lucía Romero, Javier Abril Rotger._
+
 
 <a href="http://www.flickr.com/photos/caloni/10535610115/" title="Los Tentados por caloni, no Flickr"><img src="http://farm8.staticflickr.com/7294/10535610115_bfcb6cea4e_o.jpg" alt="Los Tentados"></a>
 

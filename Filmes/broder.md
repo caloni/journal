@@ -1,4 +1,4 @@
-Idem. Brasil, 2010. Direção: Jeferson De. Roteiro: Newton Cannito, Jeferson De. Elenco: Caio Blat, Jonathan Haagensen, Silvio Guindane.
+
 
 A história do estreante diretor Jeferson De, cuja sessão em que estava presente tive o privilégio de participar, inicia com um plano-sequência em que Macu desce a ladeira de sua casa pelos becos e ruas do bairro; uma cena que, além de nos mostrar o nível de intimidade do protagonista com seus vizinhos, ainda dá uma ideia muito boa da extensão desse ambiente. A música de abertura, inicialmente não fazendo parte do ambiente, se transforma em música de rádio. Podemos ver essa brincadeira acontecer em quase toda a trilha sonora, que corajosamente escolhe não salpicar as cenas de música, criando tensão em várias cenas simplesmente por diálogos exaltados e movimentos de câmera.
 

@@ -1,4 +1,4 @@
-Jennifer's Body. EUA, 2009. Direção: Karyn Kusama. Roteiro: Diablo Cody. Elenco: Megan Fox, Amanda Seyfried.
+
 
 Aprendemos duas coisas assistindo Garota Infernal: que não se dá Oscar de melhor roteiro para uma estreante com delírios de grandeza (Diablo Cody, de Juno) e não se coloca atrizes como Megan Fox (Transformers e... argh! Transformers 2), que rivaliza com Kristen Stewart em atuação, em um papel principal.
 

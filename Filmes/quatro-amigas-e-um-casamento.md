@@ -1,4 +1,4 @@
-Bachelorette. EUA, 2012. Director: Leslye Headland. Writer: Leslye Headland (screenplay). Stars: Kirsten Dunst, Isla Fisher and Lizzy Caplan.
+
 
 Comédia romântica segue tendência de mulheres no comando.
 

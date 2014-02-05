@@ -1,4 +1,4 @@
-Schuld Sind Immer Die Anderen. Alemanha, 2012. Direção: Lars-Gunnar Lotz. Roteiro: Anna Maria Prassler. Elenco: Edin Hasanovic, Julia Brendler, Marc Ben Puch, Pit Bukowski, Natalia Rudziewicz.
+
 
 36a. Mostra São Paulo
 

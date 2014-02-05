@@ -1,4 +1,4 @@
-Idem. EUA, 2011. Direção: Nicolas Winding Refn. Roteiro: Hossein Amini, James Sallis (livro). Elenco: Ryan Gosling, Carey Mulligan e Bryan Cranston.
+
 
 Anos 80 em ritmo uniformemente variado.
 

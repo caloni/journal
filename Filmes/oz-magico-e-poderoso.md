@@ -1,4 +1,4 @@
-Oz the Great and Powerful. EUA, 2013. Director: Sam Raimi. Writers: Mitchell Kapner (screenplay), David Lindsay-Abaire (screenplay). Stars: James Franco, Michelle Williams, Rachel Weisz, Mila Kunis, Tony Cox.
+
 
 Iniciando timidamente, Oz resgata parte da inocência do longa original.
 

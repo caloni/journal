@@ -1,4 +1,4 @@
-El secreto de sus ojos. Argentina e Espanha, 2009. Direção: Juan José Campanella. Roteiro: Eduardo Sacheri e Juan José Campanella. Elenco: Soledad Villamil (Irene Menéndez Hastings), Ricardo Darín (Benjamín Esposito), Carla Quevedo (Liliana Coloto), Pablo Rago (Ricardo Morales) e Javier Godino (Isidoro Gómez).
+
 
 Sinopse: Um conselheiro legal aposentado escreve um romance procurando encontrar um encerramento para um de seus casos de homicídio não resolvido e para seu amor não correspondido com sua superiora. Ambos, ele perseguiu décadas a fio.
 

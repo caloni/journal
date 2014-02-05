@@ -1,4 +1,4 @@
-The Iron Lady. Reino Unido/França, 2011. Direção: Phyllida Lloyd. Roteiro: Abi Morgan. Elenco: Meryl Streep, Jim Broadbent e Richard E. Grant.
+
 
 Diferente de Tudo Pelo Poder, um filme politicamente covarde.
 

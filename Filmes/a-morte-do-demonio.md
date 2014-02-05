@@ -1,4 +1,4 @@
-Evil Dead. EUA, 2013. Director: Fede Alvarez. Writers: Fede Alvarez (screenplay), Rodo Sayagues (screenplay), Sam Raimi. Stars: Jane Levy, Shiloh Fernandez, Lou Taylor Pucci.
+
 
 Uma experiência para ser saboreada mais pelos sentidos do que pelo lógica.
 

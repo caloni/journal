@@ -1,4 +1,4 @@
-Idem. EUA, 2003. Direção: Danny DeVito. Roteiro: Larry Doyle. Elenco: Ben Stiller, Drew Barrymore e Eileen Essell.
+
 
 Comédia não-tão-romântica sobre o limite da educação. Até com as velhinhas.
 

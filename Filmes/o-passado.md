@@ -1,4 +1,4 @@
-El Pasado. Argentina/Brasil, 2007. Direção: Hector Babenco. Roteiro: Hector Babenco, Marta Goes, Alan Paulis (romance). Fotografia: Ricardo Della Rosa. Elenco: Gael García Bernal, Analía Couceyro, Mariana Anghileri, Ana Celentano, Marta Lubos.
+
 
 Novo longa de Babenco explora a separação sob o ponto de vista futuro.
 

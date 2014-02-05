@@ -1,4 +1,4 @@
-_Os Suspeitos (Prisoners). EUA, 2013. Director: Denis Villeneuve. Writer: Aaron Guzikowski. Stars: Hugh Jackman, Jake Gyllenhaal, Viola Davis, Paul Dano._
+
 
 <iframe src="http://caloni.com.br/mms/mm.php?mm=os-suspeitos-2013" height="400" width="860" frameborder="0"></iframe>
 

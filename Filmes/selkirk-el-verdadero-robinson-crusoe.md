@@ -1,4 +1,4 @@
-Idem. Argentina/Uruguai/Chile, 2012. Direção: Walter Tournier.
+
 
 O espírito do livro intacto em película argentina.
 

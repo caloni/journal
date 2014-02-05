@@ -1,4 +1,4 @@
-Io Sono Li. Itália/França, 2011. Direção: Andrea Segre. Roteiro: Marco Pettenello, Andrea Segre. Fotografia: Luca Bigazzi. Elenco: Zhao Tao, Rade Sherbedgia, Marco Paolini.
+
 
 36a. Mostra de São Paulo.
 

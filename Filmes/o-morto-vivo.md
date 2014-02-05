@@ -1,4 +1,4 @@
-The Revenant. EUA, 2009. Director: D. Kerry Prior. Writer: D. Kerry Prior. Stars: David Anders, Chris Wylde, Louise Griffiths.
+
 
 Drama realista embutido em comédia absurda.
 

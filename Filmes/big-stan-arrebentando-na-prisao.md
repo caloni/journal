@@ -1,4 +1,4 @@
-_Big Stan: Arrebentando na Prisão (Big Stan). EUA, 2007. Direção: Rob Schneider. Roteiro: Josh Lieb. Elenco: Rob Schneider, David Carradine and Sally Kirkland._
+
 
 <iframe src="http://caloni.com.br/mms/mm.php?mm=big-stan-arrebentando-na-prisao" height="400" width="860" frameborder="0"></iframe>
 

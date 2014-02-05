@@ -1,4 +1,4 @@
-Star Wars: Episode III - Revenge of the Sith. EUA, 2005. Direção e Roteiro: George Lucas. Elenco: Hayden Christensen (Anakin Skywalker), Natalie Portman (Padmé), Ewan McGregor (Obi-Wan Kenobi), Ian McDiarmid (Supremo Chanceler Palpatine).
+
 
 A impressão que temos ao assistir o último capítulo da nova saga criada por George Lucas é que este preparou os dois filmes iniciais tão somente para ter a chance de produzir este terceiro, tamanho o peso narrativo que o diferencia dos seus iguais.
 

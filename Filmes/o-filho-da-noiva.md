@@ -1,4 +1,4 @@
-El hijo de la novia. Argentina/Espanha, 2001. Director: Juan José Campanella. Writers: Juan José Campanella, Fernando Castets. Stars: Ricardo Darín, Héctor Alterio and Norma Aleandro.
+
 
 Primeiro grande sucesso de Campanella é contraditório e ao mesmo tempo atual.
 

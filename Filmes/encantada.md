@@ -1,4 +1,4 @@
-Enchanted. EUA, 2007. Direção: Kevin Lima. Roteiro: Bill Kelly. Elenco: Amy Adams, Patrick Dempsey, Susan Sarandon, Timothy Spall e James Marsden.
+
 
 Live action da Disney encontra nos seus desenhos clássicos a inspiração para conto de fadas urbano.
 

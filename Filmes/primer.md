@@ -1,4 +1,4 @@
-Idem. EUA, 2004. Direção e Roteiro: Shane Carruth. Elenco:  Shane Carruth, David Sullivan e Casey Gooden.
+
 
 Assim como Solaris, ficção científica de gente grande.
 

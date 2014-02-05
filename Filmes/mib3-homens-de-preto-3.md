@@ -1,4 +1,4 @@
-Men in Black III. EUA, 2012. Direção: Barry Sonnenfeld. Roteiro: Etan Cohen, Lowell Cunningham (quadrinhos). Elenco: Will Smith, Tommy Lee Jones, Josh Brolin, Jemaine Clement, Emma Thompson, Michael Stuhlbarg.
+
 
 Cozinhado em fogo morno e sem grandes criações, continuação fica no empate técnico.
 

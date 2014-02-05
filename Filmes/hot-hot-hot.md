@@ -1,4 +1,4 @@
-Item. Luxemburgo, 2012. Direção: Beryl Koltz. Roteiro: Beryl Koltz. Fotografia: Jako Raybaut. Elenco: Rob Stanley, Joanna Scanlan, Gary Cady.
+
 
 36a. Mostra de São Paulo
 

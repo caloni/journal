@@ -1,4 +1,4 @@
-The Door. Hungria/Alemanha, 2012. Director: István Szabó. Writers: Magda Szabó (novel), István Szabó (screenplay). Stars: Helen Mirren, Martina Gedeck, Károly Eperjes.
+
 
 Relação entre escritora e faxineira é simpática e só.
 

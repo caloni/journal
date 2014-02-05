@@ -1,4 +1,4 @@
-_Mary e Max: Uma Amizade Diferente (Mary and Max). Austrália, 2009. Direção: Adam Elliot. Roteiro: Adam Elliot. Elenco: Toni Collette, Philip Seymour Hoffman, Eric Bana. Montagem: Bill Murphy. Trilha Sonora: Dale Cornelius. Fotografia: Gerald Thompson. Direção de Arte: Craig Fison._
+
 
 <iframe src="http://caloni.com.br/mms/mm.php?mm=mary-e-max-uma-amizade-diferente" height="600" width="860" frameborder="0"></iframe>
 

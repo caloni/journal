@@ -1,4 +1,4 @@
-_Homem de Ferro 2 (Iron Man 2). EUA, 2010. Director: Jon Favreau. Writers: Justin Theroux (screenplay), Stan Lee (Marvel comic book). Stars: Robert Downey Jr., Mickey Rourke, Gwyneth Paltrow, Don Cheadle, Scarlett Johansson, Samuel L. Jackson._
+
 
 <iframe frameborder="0" height="420" width="860" src="http://caloni.com.br/mms/mm.php?mm=homem-de-ferro-2"></iframe>
 <a href="http://www.flickr.com/photos/caloni/9687730298/" title="Homem de Ferro 2 por caloni, no Flickr"><img src="http://farm4.staticflickr.com/3676/9687730298_4f2a1ba634_o.jpg" alt="Homem de Ferro 2"></a>

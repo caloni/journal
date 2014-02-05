@@ -1,4 +1,4 @@
-Idem. Brasil, 2011. Direção: Vicente Amorim. Roteiro: David França Mendes (roteiro), Fernando Morais (livro). Elenco:  Tsuyoshi Ihara, Takako Tokiwa e Eiji Okuda.
+
 
 Como auto-indulgência e um roteiro pedestre destroem uma boa ideia.
 

@@ -1,4 +1,4 @@
-The Amazing Spider-Man. EUA, 2012. Direção: Marc Webb. Roteiro: James Vanderbilt, Alvin Sargent, Steve Kloves. Elenco: Andrew Garfield, Emma Stone e Rhys Ifans.
+
 
 Com grandes reboots vêm grandes responsabilidades; o novo Aranha ainda não sabe disso.
 

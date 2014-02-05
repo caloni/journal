@@ -1,4 +1,4 @@
-_2001 — Uma Odisséia no Espaço (2001: A Space Odyssey). EUA/Reino Unido, 1968. Director: Stanley Kubrick. Writers: Stanley Kubrick (screenplay), Arthur C. Clarke (screenplay). Stars: Keir Dullea, Gary Lockwood, William Sylvester. Cinematography: Geoffrey Unsworth. Art Direction: John Hoesli._
+
 
 <iframe src="http://caloni.com.br/mms/mm.php?mm=2001-uma-odisseia-no-espaco" height="800" width="860" frameborder="0"></iframe>
 

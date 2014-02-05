@@ -1,4 +1,4 @@
-Flypaper. EUA, 2011. Direção: Rob Minkoff. Roteiro: Jon Lucas e Scott Moore. Elenco: Patrick Dempsey (Tripp), Ashley Judd (Kaitlin), Octavia Spencer (Madge Wiggins), Jeffrey Tambor (Gordon Blythe), Pruitt Taylor Vince (Jelly), Mekhi Phifer (Darrien), Tim Blake Nelson (Peanut Butter), Curtis Armstrong (Rob Huebel), John Ventimiglia (Weinstein), Beau Brasseaux (E.M.T. (as Beau Brasso)), Matt Ryan (Gates), Monica Acosta (Bank Customer), Kasey Emas (Bank Customer (as Kasey Amanda)), Adrian Martinez (Mr. Clean).
+
 
 Apenas o fato da direção de arte de Assalto em Dose Dupla tentar fazer lembrar os detalhes do banco de Um Dia de Cão chega a parecer uma ofensa, pois enquanto o clássico de Sidney Lumet tenta fazer rir através do inusitado em um assalto, mas sempre se lembrando que todos os envolvidos são seres humanos, o roteiro de Jon Lucas e Scott Moore (ambos de Se Beber Não Case) cria constrangimentos a partir de estereótipos que cria, como se apenas isso fosse motivo de risadas, o que de fato se comprova, pois a maioria das piadas se limita a apenas isso.
 

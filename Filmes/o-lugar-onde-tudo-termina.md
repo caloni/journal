@@ -1,4 +1,4 @@
-_O Lugar Onde Tudo Termina (The Place Beyond the Pines). EUA, 2012. Direção: Derek Cianfrance. Roteiro: Derek Cianfrance, Ben Coccio, Derek Cianfrance, Darius Marder. Elenco: Ryan Gosling, Bradley Cooper, Eva Mendes, Dane DeHaan, Ben Mendelsohn. Montagem: Jim Helton, Ron Patane. Trilha Sonora: Mike Patton. Fotografia: Sean Bobbitt. Direção de Arte: Michael Ahern. Figurino: Erin Benach._
+
 
 <iframe src="http://caloni.com.br/mms/mm.php?mm=o-lugar-onde-tudo-termina" height="400" width="860" frameborder="0"></iframe>
 

@@ -1,4 +1,4 @@
-The Hobbit: An Unexpected Journey. EUA/Nova Zelância, 2012. Director: Peter Jackson. Writers: Fran Walsh (screenplay), Philippa Boyens (screenplay). Stars: Martin Freeman, Ian McKellen, Elijah Wood, Hugo Weaving, Cate Blanchett, Andy Serkis, Christopher Lee and Richard Armitage.
+
 
 Uma nova jornada se inicia sem a riqueza épica da trilogia anterior.
 

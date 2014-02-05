@@ -1,4 +1,4 @@
-In Time. EUA, 2011. Direção e Roteiro: Andrew Niccol. Elenco: Cillian Murphy (Raymond Leon), Justin Timberlake (Will Salas), Amanda Seyfried (Sylvia Weis), Shyloh Oostwald (Maya), Johnny Galecki (Borel), Colin McGurk (Citizen), Olivia Wilde (Rachel Salas).
+
 
 A grande sacada do gênero de ficção-científica, tanto no cinema quanto na literatura, é conseguir discutir alguma questão da sociedade atual sob a ótica de um mundo fantasioso. Para isso, as pessoas são colocadas em situações em que normalmente não existiriam, mas que lembram ou simbolizam uma questão do mundo real, ainda que encoberto de uma aura futurista.
 

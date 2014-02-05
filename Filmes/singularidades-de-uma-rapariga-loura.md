@@ -1,4 +1,4 @@
-Idem. Portugal, Espanha, França 2009. Direção: Manoel de Oliveira. Roteiro: Eça de Queirós (conto) e Manoel de Oliveira (adaptação).
+
 
 O filme 9 - A Salvação se baseia em um curta anteriormente produzido. O resultado é que temos uma história curta o suficiente para ser contada em 10 minutos ser espandida em tediosos 79 minutos.
 
