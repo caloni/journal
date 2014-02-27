@@ -75,6 +75,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="BasicString.cpp" />
+    <ClCompile Include="basic_string.cpp" />
+    <ClCompile Include="string.cpp" />
+    <ClCompile Include="String_Val.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="readme.md" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
