@@ -1,7 +1,4 @@
-Idem. Brasil, 1985. Direção: Eduardo Coutinho. Roteiro: Eduardo Coutinho. Elenco: Eduardo Coutinho, Ferreira Gullar e Tite de Lemos.
-[rating:4/5]
-
-O retrato do Brasil oprimido ainda hoje é bruto demais para degustar.
+<a href="https://www.flickr.com/photos/caloni/13560002564/" title="Cabra Marcado Para Morrer por caloni, no Flickr"><img src="https://farm8.staticflickr.com/7329/13560002564_289013756d_o.jpg" alt="Cabra Marcado Para Morrer"></a>
 
 O documentário que Eduardo Coutinho começou a produzir nos anos 60 e que foi interrompido após o golpe militar — tendo 40% do roteiro filmado e apreendido pela polícia como material subversivo — vira um filme completo só na década de 80, com a reabertura política e o reencontro do diretor e sua película. E não apenas isso: o reencontro da história de Elizabeth Teixeira, a viúva de João Pedro, líder dos camponeses assassinado brutalmente na época, e do cinema revolucionário de Glauber Rocha que havia ficado no esquecimento.
 
@@ -10,4 +7,3 @@ O filme possui uma das maiores virtudes de um documentário: partir de uma histór
 Para contar essa história através de lembranças os colegas de João Pedro são chamados, pessoas que haviam feito as filmagens de Cabra de 60 e interpretavam eles mesmos. O filme viaja de passado a presente com o uso da fotografia cinza e colorida de um Brasil que mudou apenas de cor. Cada personagem realiza a função de interpretar um papel do evento particular, mas também representa a função de cada um de nós em uma sociedade partida, multifacetada e que não consegue mais se reunir para reinvidicar seus fundamentais direitos.
 
 A partir do drama pessoal de cada participante daquela história Coutinho abre uma lupa através do seu gigantesco microfone e sua equipe peregrina, que consegue arrancar frases de efeito a partir de manifestações espontâneas, e que por isso mesmo ganham uma força ainda maior. É o Brasil falando. Coutinho apenas dá o caminho.
-
