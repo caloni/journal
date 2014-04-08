@@ -30,9 +30,13 @@
     <ClCompile Include="ModaLambdaEsqueleto.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="LambdaReturn.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="leiame.md" />
+    <None Include="leiame2.md" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Common.h">
