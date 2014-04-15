@@ -1,4 +1,4 @@
-#include "Common.h"
+ï»¿#include "Common.h"
 #include <algorithm>
 #include <vector>
 #include <string>
@@ -9,7 +9,7 @@ int main()
 	std::vector<Employee> employees; // um bando de empregados
 	std::string currentDate = GetCurrentDate();
 
-	// definindo uma função, como quem não quer nada, dentro de uma função
+	// definindo uma funÃ§Ã£o, como quem nÃ£o quer nada, dentro de uma funÃ§Ã£o
 	auto FindByBithDate = [&](Employee& employee)->bool // <-- tipo de retorno
 	{
 		return employee.birthDate == currentDate;
