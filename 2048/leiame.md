@@ -1,3 +1,5 @@
+<a href="https://www.flickr.com/photos/120157483@N04/13989736784/" title="2048 por wanderleycaloni, no Flickr"><img src="https://farm8.staticflickr.com/7167/13989736784_92d49267fe_o.jpg" width="590" height="520" alt="2048"></a>
+
 Pronto, posso programar em paz. O jogo 2048 é uma lástima para todos os trabalhadores intelectuais que dependem de suas mentes para produzir algo que preste. Ele gerou mais posts no Hacker News do que a moda dos bitcoins (talvez não) e mais projetos no GitHub do que a busca para a cura do câncer (talvez não). (Obviamente que este post vai gerar [mais um commit Python no repositório de artigos](https://github.com/Caloni/Caloni.com.br).)
 
 Não sou fã de jogos, e dos poucos que participei logo parei (exceções honrosas: Portal e Portal 2, esses malditos). Posso dizer o mesmo de 2048, a versão de uma espécie de jogo já conhecido feita pelo italiano [Gabriele Cirulli](http://gabrielecirulli.github.io/2048/) em um fds para ele descobrir se seria capaz de fazê-lo. Ele fez e o jogo e de quebra o índice de produtividade mundial cair.
