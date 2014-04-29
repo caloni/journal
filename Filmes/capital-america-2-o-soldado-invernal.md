@@ -10,4 +10,4 @@ No entanto, mesmo que alguns maniqueísmos previsíveis acabem funcionando até mai
 
 E se o plot twist a respeito do tal Soldado Invernal seja um dos melhores ganchos da história — e algo que só ocorre na terceira parte do filme — ele é subaproveitado. Tanto que há uma cena pós-crédito (não a primeira, a segunda) que parece que não assistiu ao filme.
 
-Bom, eu assisti, mas não lembro de muita coisa. Só que Capitão América estará de volta em Os Diamantes Têm Mais de 70 Anos.
+Bom, eu assisti, mas não lembro de muita coisa. Só que Capitão América estará de volta em Os Diamantes Têm Mais de 100 Anos.
