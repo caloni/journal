@@ -217,19 +217,19 @@ void TestCase(std::istream& is, std::ostream& os)
 
 		os << "\nAlg " << a << endl;
 
-		for( int i =0 ; i < 120; ++i )
+		for( int i =0 ; i < 10000; ++i )
 		{
 			vector<int> seq = Sequence;
 			algs[a](seq);
 			double a = CheckAlg(seq);
 			cmpAvgs.push_back(a);
 			a >= 0 ? ++good : ++bad;
-			os << a << endl;
+			//os << a << endl;
 			//os << (b ? ("GOOD") : ("BAD")) << ' ';
 			//badAvgs.push_back(AvgTest(seq));
 			for( int j = 0; j < (int) seq.size(); ++j )
 			{
-				//freq[j] += seq[j];
+				freq[j] += seq[j];
 				//os << seq[j] << ' ';
 			}
 			//os << endl;
@@ -241,10 +241,10 @@ void TestCase(std::istream& is, std::ostream& os)
 			//os << freq[i] - totalAvg << ' ';
 		//os << endl;
 	
-		//os << "TotalSum: ";
-		//for( int i = 0; i < (int) freq.size(); ++i )
-		//	os << freq[i] << ' ';
-		//os << endl;
+		os << "TotalSum: ";
+		for( int i = 0; i < (int) freq.size(); ++i )
+			os << freq[i] << ' ';
+		os << endl;
 
 		//os << "CmpAvgs: ";
 		//for( int i = 0; i < (int) cmpAvgs.size(); ++i )
@@ -257,5 +257,5 @@ void TestCase(std::istream& is, std::ostream& os)
 		//for( int i = 0; i < (int)badAvgs.size(); ++i )
 			//os << badAvgs[i] << ' ';
 		//os << endl;
-	}	
+	}
 }

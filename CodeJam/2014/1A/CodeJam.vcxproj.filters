@@ -42,7 +42,7 @@
     <ClCompile Include="ProperShuffleTest.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="koreia.cpp">
+    <ClCompile Include="Kaizero.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
