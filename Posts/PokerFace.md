@@ -1,8 +1,10 @@
+#Poker Face
+
 O segundo round da segunda fase do Code Jam passou nesse sábado. Disléxico que sou, consegui fazer apenas 8 pontos — como todo mundo — no teste small do problema B, que envolvia apenas dois loops aninhados (a versão large fica para outro post). Na verdade, estou aqui para expressar minha gratidão ao campeonato por ter aprendido mais uma bela lição vendo o código do primeiro colocado do primeiro round, vulgo [Kaizero](https://code.google.com/codejam/contest/2984486/scoreboard?c=2984486#vf=1), um coreano que deu uma solução simples, rápida e prática para um problema de probabilidade tão error-prone que até os juízes do Google deram uma lambuja de alguns testes errados (sem contar que houve apenas a categoria small), e me fez pensar em quantas vezes pensamos em demasiado tentando encontrar a solução perfeita para algo que simplesmente... não precisa.
 
 Basta um hack e [commit](http://pcottle.github.io/learnGitBranching/?NODEMO&defaultTab=remote&command=levels).
 
-# É a incerteza, idiota!
+## É a incerteza, idiota!
 
 <a href="https://www.flickr.com/photos/120157483@N04/14095237046/" title="Poker Jam"><img src="https://farm8.staticflickr.com/7344/14095237046_60ec978760_z.jpg" alt="Poker Jam"></a>
 
@@ -16,4 +18,10 @@ A diferença entre o bom e o ruim é que o bom pega aleatoriamente apenas os eleme
 
 O que eu tentei fazer durante meu fim-de-semana retrasado e o feriado foi encontrar um detector de aleatoriedade (aliás, encontrei um bem interessante chamado [ent](http://www.fourmilab.ch/random/)), tanto "na mão" quanto pesquisando. O que eu não imaginava foi que o teste que eu tinha feito no início usando uma simples planilha Excel era a solução óbvia (naquelas de é óbvio só depois que você vê). E foi essa a solução adotada por Kaizero.
 
+[github,Code/CodeJam/2014/1A/Kaizero.cpp,cpp]
 
+O que ele basicamente faz é acumular os resultados de três milhões de embaralhamentos feitos pelo algoritmo ruim e inferir através dos resultados que metade é bom e metade é ruim. O ruim fica do lado desbalanceado da sequência.
+
+<a href="https://www.flickr.com/photos/120157483@N04/14120104212/" title="Tabelona por wanderleycaloni, no Flickr"><img src="https://farm8.staticflickr.com/7399/14120104212_ff14e9fca1_n.jpg" alt="Tabelona"></a>
+
+Tão óbvio, tão simples, tão elegante.

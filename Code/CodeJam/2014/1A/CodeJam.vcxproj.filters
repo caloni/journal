@@ -45,6 +45,9 @@
     <ClCompile Include="Kaizero.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="KaizeroTest.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CodeJam.h">

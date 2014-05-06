@@ -1,18 +1,13 @@
-/** @author Kaizero
-@desc Versão comentada (em português) e desofuscada do código do 
-Code Jam 2014, 1A, problema 3 (Proper Shuffle)
-por Wanderley Caloni (wanderley@caloni.com.br).
-*/
-#pragma warning(disable:4996) // warning, pra que te quero...
+#pragma warning(disable:4996)
 #include<stdio.h>
 #include<algorithm>
 #include<vector>
 #include<time.h>
+#include<iostream>
 
 using namespace std;
 
 
-// as variáveis monossilábicas...
 int w[1001], C[1001][1001], O[1001];
 
 
@@ -72,32 +67,12 @@ int main()
 		}
 	}
 
-	// agora a parte "fácil"...
-
-	// ler número de casos de teste (sempre 120)
-	scanf("%d", &TC);
-	for (T = 1; T <= TC; T++) // iterar por cada linha
+	for( i = 0; i < 1001; ++i )
 	{
-		scanf("%d", &n);
-		p[T].ord = T; // guardando sua posição
-
-		// lendo os números de todos os casos
-		for (i = 0; i < n; i++)
+		for( j = 0; j < 1001; ++j )
 		{
-			scanf("%d", &O[i]);
-			p[T].R += C[i][O[i]]; // mas gravando o peso de cada posição (cálculo de 3M)
+			printf("%d;", C[j][i]);
 		}
-	}
-
-	// ordenando pelo peso de cada posição
-	sort(p + 1, p + TC + 1);
-	for (i = 1; i <= 60; i++)
-		v[p[i].ord] = true; // metade tem que ser bom (a melhor metade)
-
-	for (i = 1; i <= TC; i++)
-	{
-		printf("Case #%d: ", i);
-		if (v[i])printf("GOOD\n");
-		else printf("BAD\n");
+		printf("\n");
 	}
 }
