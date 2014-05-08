@@ -10,11 +10,11 @@ Basta um hack e [commit](http://pcottle.github.io/learnGitBranching/?NODEMO&defa
 
 O problema reza que existem dois algoritmos para embaralhar uma sequência numérica (de 0 a N): o bom e o ruim. Ambos traçam um loop do iníco ao fim pegando aleatoriamente um elemento da lista e trocando de lugar com o elemento que está sendo varrido no momento.
 
-<a href="https://www.flickr.com/photos/120157483@N04/14118925924/" title="ProperShuffle por wanderleycaloni, no Flickr"><img src="https://farm3.staticflickr.com/2897/14118925924_300b85ff4c_n.jpg" alt="ProperShuffle"></a>
+<a href="https://www.flickr.com/photos/120157483@N04/14118925924/" title="ProperShuffle por wanderleycaloni, no Flickr"><img src="https://farm3.staticflickr.com/2897/14118925924_300b85ff4c_z.jpg" alt="ProperShuffle"></a>
 
 A diferença entre o bom e o ruim é que o bom pega aleatoriamente apenas os elementos DEPOIS do elemento que está sendo varrido, enquanto o algoritmo ruim pega qualquer um dos elementos SEMPRE. Isso aparentemente e intuitivamente não parece interferir na aleatoriedade do embaralhamento, mas se levarmos ao extremo de embaralhar repetidas vezes somando a lista resultante percebemos uma tendência gritante do algoritmo ruim em manter o ordenamento inicial, ou pelo menos na média sempre tender para números menores no início e números maiores no fim, como pode ser visto nesse teste que fiz, gerado pelo Excel:
 
-<a href="https://www.flickr.com/photos/120157483@N04/14142661623/" title="Gráfico dos Algoritmos de Embaralhamento por wanderleycaloni, no Flickr"><img src="https://farm8.staticflickr.com/7313/14142661623_f58729a795_n.jpg" alt="Gráfico dos Algoritmos de Embaralhamento"></a>
+<a href="https://www.flickr.com/photos/120157483@N04/14142661623/" title="Gráfico dos Algoritmos de Embaralhamento por wanderleycaloni, no Flickr"><img src="https://farm8.staticflickr.com/7313/14142661623_f58729a795_z.jpg" alt="Gráfico dos Algoritmos de Embaralhamento"></a>
 
 O que eu tentei fazer durante meu fim-de-semana retrasado e o feriado foi encontrar um detector de aleatoriedade (aliás, encontrei um bem interessante chamado [ent](http://www.fourmilab.ch/random/)), tanto "na mão" quanto pesquisando. O que eu não imaginava foi que o teste que eu tinha feito no início usando uma simples planilha Excel era a solução óbvia (naquelas de é óbvio só depois que você vê). E foi essa a solução adotada por Kaizero.
 
@@ -22,6 +22,6 @@ O que eu tentei fazer durante meu fim-de-semana retrasado e o feriado foi encont
 
 O que ele basicamente faz é acumular os resultados de três milhões de embaralhamentos feitos pelo algoritmo ruim e inferir através dos resultados que metade é bom e metade é ruim. O ruim fica do lado desbalanceado da sequência.
 
-<a href="https://www.flickr.com/photos/120157483@N04/14120104212/" title="Tabelona por wanderleycaloni, no Flickr"><img src="https://farm8.staticflickr.com/7399/14120104212_ff14e9fca1_n.jpg" alt="Tabelona"></a>
+<a href="https://www.flickr.com/photos/120157483@N04/14123599874/" title="Tabelona por wanderleycaloni, no Flickr"><img src="https://farm8.staticflickr.com/7456/14123599874_2f3c14a3f6_z.jpg" alt="Tabelona"></a>
 
 Tão óbvio, tão simples, tão elegante.
