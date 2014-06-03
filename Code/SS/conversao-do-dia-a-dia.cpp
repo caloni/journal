@@ -4,7 +4,7 @@
 
 std::string FuncaoCorriqueira(int x, int y)
 {
-    std::ostringstream ss; // credo, que tipo é esse?
+    std::ostringstream ss; // credo, que tipo eh esse?
     ss << (x + y);
     return ss.str();
 }
