@@ -2,7 +2,7 @@
 
 Eu nem acredito que estou escrevendo sobre desenvolvimento web, mas como foi algo que me fez dedicar algumas horas do meu fim-de-semana, e não encontrei facilmente uma solução já feita, acredito que pode ser útil para mais alguém que usa Trello e GitHub (ou BitBucket).
 
-Mas o que é Trello? Basicamente é um TodoList feito da maneira mais inteligente possível: uma lista de listas de listas! Os espaços, ou desktops, onde você organiza suas tarefas são chamados de Boards. Em cada board vivem L listas, e em cada lista vivem C cards. Cada card pode conter comentários, histórico de mudanças, labels, checklists, due dates e todas as tranqueiras que geralmente existe em uma lista de tarefas. É um sistema online, desenvolvido pela empresa do Joel Spolsky (o mesmo do excelente blogue de programador [Joel on Software](http://www.joelonsoftware.com/) (ou em [português](http://brazil.joelonsoftware.com/), e que contém algo que eu adoro em sistemas web: atalhos!
+Mas o que é [Trello](www.trello.com)? Basicamente é um TodoList feito da maneira mais inteligente possível: uma lista de listas de listas! Os espaços, ou desktops, onde você organiza suas tarefas são chamados de Boards. Em cada board vivem L listas, e em cada lista vivem C cards. Cada card pode conter comentários, histórico de mudanças, labels, checklists, due dates e todas as tranqueiras que geralmente existe em uma lista de tarefas. É um sistema online, desenvolvido pela empresa do Joel Spolsky (o mesmo do excelente blogue de programador [Joel on Software](http://www.joelonsoftware.com/) (ou em [português](http://brazil.joelonsoftware.com/), e que contém algo que eu adoro em sistemas web: atalhos!
 
 <a href="https://www.flickr.com/photos/120157483@N04/14518444517/" title="Atalhos do Trello"><img src="https://farm6.staticflickr.com/5579/14518444517_f550bb7bcb_o.png" alt="Atalhos do Trello"></a>
 
@@ -14,21 +14,21 @@ E por que PHP? Bom, PHP é uma linguagem fácil de mexer (se parece com C, mas é u
 
 Vamos começar pelo mais difícil que o resto vai fácil: comentar pela API do Trello. Sua [API é beta](https://trello.com/docs/), assim como sua documentação, então tive arrancar significado inexistente em seu help, mas acabou funcionando. Como qualquer API web, você precisa de uma chave, segredo e a permissão do usuário. Com essa permissão é possível comentar em todas as boards que esse usuário específico tem acesso.
 
-Pelo menos a parte de [geração de chave/segredo](é simples). Se você clicou nesse linque, já conseguiu gerar uma =).
+Pelo menos a parte de [geração de chave/segredo é simples](https://trello.com/1/appKey/generate), tanto que se você clicou nesse linque, já conseguiu gerar uma =).
 
 Depois disso, mesmo nessa página já é possível conseguir uma chave de acesso para o seu usuário.
 
 <a href="https://www.flickr.com/photos/120157483@N04/14704960285/" title="Pedindo autorização para o Trello"><img src="https://farm4.staticflickr.com/3880/14704960285_af9a772c2e_o.png" alt="Pedindo autorização para o Trello"></a>
 
-Para comentar em PHP, basta usar alguns métodos:
+Por fim, para fazer o código que irá comentar dentro de um card no Trello, basta usar dois ou três métodos que lidam com enviar coisas pela web (não me pergunte mais que isso):
 
-..\Code\GitHubBitBucketTrelloIntegration\commentOnTrello.php
+[github,Code/GitHubBitBucketTrelloIntegration/commentOnTrello.php,php]
 
 As informações _AQUI_VAI_SUA_CHAVE_ e _AQUI_VAI_SEU_TOKEN_DE_ACESSO_ você já obteve no linque de geração de key/secret. Já o _ID_DO_CARD_ é algo que depende de em qual lista seu card está, mas felizmente também existe um shortlink único e imutável para cada card no sistema:
 
 <a href="https://www.flickr.com/photos/120157483@N04/14518342338/" title="ID único de um Card"><img src="https://farm4.staticflickr.com/3858/14518342338_6f134a993d_o.png" alt="ID único de um Card"></a>
 
-Basta usar o ID em Base64-ou-o-que-o-valha no lugar de _ID_DO_CARD_ que já estamos OK.
+Basta usar o ID em Base64-ou-o-que-o-valha no lugar de _ID_DO_CARD_ que já estamos OK. Depois que este código conseguir ser executado, basta ter acesso à internet que ele irá escrever "Hello, World" no cartão referenciado:
 
 <a href="https://www.flickr.com/photos/120157483@N04/14724898543/" title="Hello, World!"><img src="https://farm3.staticflickr.com/2927/14724898543_8b758cc7ac_o.png" alt="Hello, World!"></a>
 
@@ -36,7 +36,7 @@ Muito bem. Primeira parte da missão concluída.
 
 ## Terminando com GitHub
 
-Como o GitHub é um dos serviços de repositório de fontes mais famoso, vamos começar por ele. Basicamente você deve ir no seu repositório do coração (essa é a parte ruim: se você tem mais de um coração, vai ter que repetir esse mesmo procedimento para todos os outros repositórios dos seus outros corações), Settings, Webhooks & Services.
+Como o [GitHub](www.github.com) é um dos serviços de repositório de fontes mais famoso, vamos torná-lo nosso caso de sucesso. Basicamente você deve ir no seu repositório do coração (essa é a parte ruim: se você tem mais de um coração, vai ter que repetir esse mesmo procedimento para todos os outros repositórios dos seus outros corações), Settings, Webhooks & Services.
 
 <a href="https://www.flickr.com/photos/120157483@N04/14724974103/" title="Adicionando um WebHook ao GitHub"><img src="https://farm3.staticflickr.com/2915/14724974103_f8f8fb7e78_o.png" alt="Adicionando um WebHook ao GitHub"></a>
 
@@ -44,7 +44,7 @@ Lembre-se de colocar seu código PHP em um servidor visível na web. Lembre-se tam
 
 Pois bem. No código que irá receber o payload do GitHub precisamos de duas coisas: saber qual [a estrutura que vai ser recebida](https://developer.github.com/webhooks/) e _como localizar o id do card onde iremos enviar a informação_. Nesse caso, mais uma vez, para simplificar, vamos procurar pelo próprio linque permanente do cartão na mensagem do commit. Aliás, doS commitS (sendo um push, é provável que o evento seja gerado com diversos commits aninhados).
 
-..\Code\GitHubBitBucketTrelloIntegration\onGitHubCommit.php
+[github,Code/GitHubBitBucketTrelloIntegration/onGitHubCommit.php,php]
 
 Agora é só testar. Posso pegar esse mesmo artigo e comitá-lo no [repositório do blogue](https://github.com/Caloni/Caloni.com.br) usando o linque único do card da tarefa de escrever este artigo. Ou seja, aqui é Inception na veia, mermão!
 
@@ -56,3 +56,10 @@ O que vai deixar você perplexo é entender como esse texto está sendo comitado an
 
 E o negócio é rápido, viu?
 
+<a href="https://www.flickr.com/photos/120157483@N04/14518796667/" title="E o negócio é rápido, viu?"><img src="https://farm4.staticflickr.com/3887/14518796667_9d4bcc159e_o.png" alt="E o negócio é rápido, viu?"></a>
+
+## _Adendo: BitBucket_
+
+A única coisa que muda no caso do [BitBucket](www.bitbucket.org) é a tela onde deve ser inserido seu webhook (método POST, sempre) e a estrutura JSon que é enviada. De lambuja, eis o que deve ser feito com esse payload:
+
+[github,Code/GitHubBitBucketTrelloIntegration/onBitBucketCommit.php,php]
