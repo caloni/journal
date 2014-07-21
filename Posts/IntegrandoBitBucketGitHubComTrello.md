@@ -51,3 +51,8 @@ Agora é só testar. Posso pegar esse mesmo artigo e comitá-lo no [repositório do 
 <a href="https://www.flickr.com/photos/120157483@N04/14702001611/" title="Comitando o artigo para gerar evento que irá comentar no Trello para continuar este artigo que estou comitando.."><img src="https://farm6.staticflickr.com/5595/14702001611_acb9318ba7_o.png" alt="Comitando o artigo para gerar evento que irá comentar no Trello para continuar este artigo que estou comitando.."></a>
 
 O que vai deixar você perplexo é entender como esse texto está sendo comitado antes mesmo de eu comitar este texto ;).
+
+<a href="https://www.flickr.com/photos/120157483@N04/14518530070/" title="Resultado do meu commit"><img src="https://farm4.staticflickr.com/3880/14518530070_25f639d741_o.png" alt="Resultado do meu commit"></a>
+
+E o negócio é rápido, viu?
+
