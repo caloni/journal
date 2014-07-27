@@ -24,8 +24,7 @@ font-family: '{text:GoogleWebFont}', Georgia, serif;
 </head>
 <body>
 <?php
-//$spreadsheet_url="https://docs.google.com/spreadsheet/pub?key=0Apraq27YbkvOdF83cmp5OWM5blRYUU1udm9BNURNTEE&single=true&gid=0&output=csv";
-$spreadsheet_url="list.csv";
+$spreadsheet_url="https://github.com/Caloni/CineTenisVerde/blob/master/lists/index.csv";
 $jsTarget = ' onclick="return ! window.open(this.href);"';
 
 function usestar($rating)
@@ -58,7 +57,7 @@ if(($handle = fopen($spreadsheet_url, "r")) !== FALSE)
             echo '<tr>';
             $number = $data[0];
             $tenis = $data[1];
-            $tenisLink = 'https://github.com/Caloni/CineTenisVerde/blob/master/Filmes/' . $data[1] . '.md' ;
+            $tenisLink = 'https://github.com/Caloni/CineTenisVerde/blob/master/reviews/' . $data[1] . '.md' ;
             $imdb = $data[2];
             $imdbLink = 'http://www.imdb.com/title/' . $data[2];
             $title = $data[3];
