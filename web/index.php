@@ -62,7 +62,7 @@ if(($handle = fopen($spreadsheet_url, "r")) !== FALSE)
             $imdb = $data[1];
             $imdbLink = 'http://www.imdb.com/title/' . $data[1];
             $title = $data[2];
-			$dt = $data[3];
+			$dt = $data[4];
             $rating = $data[6];
             $star = usestar(intval($rating));
             //echo '<th>' . $number . '</th>';
