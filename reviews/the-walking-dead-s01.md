@@ -1,9 +1,3 @@
-Idem. EUA, 2010. Creator: Frank Darabont. Stars: Andrew Lincoln, Steven Yeun, Sarah Wayne Callies.
-
-Direção: Ernest R. Dickerson (7 episodes, 2010-2013), Guy Ferland (5 episodes, 2010-2012), Gwyneth Horder-Payton (2 episodes, 2010-2011), Michelle MacLaren (2 episodes, 2010-2011).
-
-Roteiro: Charlie Adlard (43 episodes, 2010-2013), Frank Darabont (43 episodes, 2010-2013), Robert Kirkman (43 episodes, 2010-2013), Tony Moore (43 episodes, 2010-2013), Glen Mazzara (8 episodes, 2010-2013).
-
 Finalmente, por livre e espontânea pressão, decidi começar minha peregrinação por essa série que parece encantar pela dramatização do que antes era visto como piada: um apocalipse zumbi. Tive boas surpresas, principalmente na parte técnica, como a fotografia, que lembra tons de sépia e caracteriza esse ambiente sem qualquer rastro de esperança (além de conseguir se contrapor às cenas com sangue), e o som, que aposta em um em realismo inebriante ao estilizar os ruídos produzidos pelos “errantes”, humanos que morreram e que ressucitaram como criaturas sedentos por carne viva (humana e animal). Já o uso de Matte Paintings — cenários pintados ao fundo —, se em um primeiro momento exalta a solidão daquele mundo com precisão dramática, usado à exaustão revela mais sua artificialidade do que reforça a situação vivida por aquelas pessoas.
 
 A parte dramática também começa bem. Acordamos em um hospital junto de Rick Grimes (Andrew Lincoln), um policial que foi baleado e que encontrava-se desacordado em recuperação. Já delineando os rumos da história a partir do seu melhor amigo/colega e a sua família formada por esposa e filho, acompanhamos sua peregrinação em busca de respostas e que culmina em uma Atlanta devastada e um acampamento com pouquíssimos humanos que sobrevivem de saquear os restos de comida da cidade deserta.

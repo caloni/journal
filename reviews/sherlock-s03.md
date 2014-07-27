@@ -1,7 +1,5 @@
 <a href="http://www.flickr.com/photos/caloni/12173812563/" title="Sherlock por caloni, no Flickr"><img src="http://farm6.staticflickr.com/5545/12173812563_3324702ba2_o.jpg" alt="Sherlock"></a>
 
-2014-01-26
-
 Como li em algum lugar, ser fã da série Sherlock é aguardar ansiosamente por um ano três episódios que terminam em um fim-de-semana. Depois disso, mais um ano (ou dois) de espera interminável.
 
 Mas que episódios!
