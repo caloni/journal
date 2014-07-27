@@ -41,10 +41,10 @@ if(($handle = fopen($spreadsheet_url, "r")) !== FALSE)
     if(($data = fgetcsv($handle, 1000, ",")) !== FALSE)
     {
         echo '<tr class="header">';
-        $tenis = $data[1];
-        $imdb = $data[2];
-        $title = $data[3];
-        $rating = $data[7];
+        $tenis = $data[0];
+        $imdb = $data[1];
+        $title = $data[2];
+        $rating = $data[6];
         //echo '<th>' . '#' . '</th>';
 		echo '<th>' . 'Data' . '</th>';
         echo '<th>' . $title . '</th>';
