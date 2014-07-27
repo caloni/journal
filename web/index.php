@@ -24,7 +24,7 @@ font-family: '{text:GoogleWebFont}', Georgia, serif;
 </head>
 <body>
 <?php
-$spreadsheet_url="https://github.com/Caloni/CineTenisVerde/blob/master/lists/index.csv";
+$spreadsheet_url="https://raw.githubusercontent.com/Caloni/CineTenisVerde/master/lists/index.csv";
 $jsTarget = ' onclick="return ! window.open(this.href);"';
 
 function usestar($rating)
@@ -38,34 +38,38 @@ if(!ini_set('default_socket_timeout', 15)) echo "<!-- unable to change socket ti
 if(($handle = fopen($spreadsheet_url, "r")) !== FALSE)
 {
     echo '<table border="0" class="sortable">';
-    if(($data = fgetcsv($handle, 1000, ";")) !== FALSE)
+    if(($data = fgetcsv($handle, 1000, ",")) !== FALSE)
     {
         echo '<tr class="header">';
         $tenis = $data[1];
         $imdb = $data[2];
         $title = $data[3];
         $rating = $data[7];
-        echo '<th>' . '#' . '</th>';
+        //echo '<th>' . '#' . '</th>';
+		echo '<th>' . 'Data' . '</th>';
         echo '<th>' . $title . '</th>';
-        echo '<th>' . $tenis . '</th>';
+        //echo '<th>' . $tenis . '</th>';
         echo '<th>' . $rating . '</th>';
         echo '<th>' . $imdb . '</th>';
         echo '</tr>';
 
-        while(($data = fgetcsv($handle, 1000, ";")) !== FALSE)
+        while(($data = fgetcsv($handle, 1000, ",")) !== FALSE)
         {
             echo '<tr>';
-            $number = $data[0];
-            $tenis = $data[1];
-            $tenisLink = 'https://github.com/Caloni/CineTenisVerde/blob/master/reviews/' . $data[1] . '.md' ;
-            $imdb = $data[2];
-            $imdbLink = 'http://www.imdb.com/title/' . $data[2];
-            $title = $data[3];
-            $rating = $data[7];
+            //$number = $data[0];
+            $tenis = $data[0];
+            $tenisLink = 'https://github.com/Caloni/CineTenisVerde/blob/master/reviews/' . $data[0] . '.md' ;
+            $imdb = $data[1];
+            $imdbLink = 'http://www.imdb.com/title/' . $data[1];
+            $title = $data[2];
+			$dt = $data[3];
+            $rating = $data[6];
             $star = usestar(intval($rating));
-            echo '<th>' . $number . '</th>';
-            echo '<th>' . $title . '</th>';
-            echo '<th><a href="' . $tenisLink . '"' . $jsTarget . '>' . $tenis . '</a></th>';
+            //echo '<th>' . $number . '</th>';
+			echo '<th>' . $dt . '</th>';
+            //echo '<th>' . $title . '</th>';
+			echo '<th><a href="' . $tenisLink . '"' . $jsTarget . '>' . $title . '</a></th>';
+            //echo '<th><a href="' . $tenisLink . '"' . $jsTarget . '>' . $tenis . '</a></th>';
             echo '<th><b><font color="#fcd200" size="5">' . $star . '</font></b></th>';
             echo '<th><a href="' . $imdbLink . '"' . $jsTarget . '>' . $imdb. '</a></th>';
             echo '</tr>';
