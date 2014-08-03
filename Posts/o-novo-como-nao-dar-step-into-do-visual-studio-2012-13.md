@@ -15,3 +15,5 @@ A boa nova, pelo menos para o Visual Studio 2013, é que agora é possível, se qui
 <a href="https://www.flickr.com/photos/120157483@N04/14786101612/" title="Step Into Specific no Visual Studio 2013"><img src="https://farm3.staticflickr.com/2933/14786101612_688e12a363_c.jpg" alt="Step Into Specific no Visual Studio 2013"></a>
 
 Eu não sei qual vai ser a próxima novidade do step into, mas para mim, já está bem ótimo.
+
+_(Fonte da informação: [Andy Pennell's Blog](http://blogs.msdn.com/b/andypennell/archive/2004/02/06/69004.aspx))._
