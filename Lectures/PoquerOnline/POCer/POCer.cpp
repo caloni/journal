@@ -52,9 +52,10 @@ void PrintRawCards(const CardsDeque& cards)
 
 void ShuffleCards(CardsDeque& cards)
 {
-	size_t seed = (size_t)time(nullptr);
-	//cout << "Seed: " << seed << endl;
+	size_t seed = (size_t)time(nullptr); // <-- ESSA PARTE É A MAIS IMPORTANTE (FALHA #4)
+
 	srand(seed);
+
 	for (size_t cardPos = 0; cardPos < cards.size(); ++cardPos)
 	{
 		int& card = cards[cardPos];
@@ -116,4 +117,6 @@ int _tmain(int argc, _TCHAR* argv[])
 
 	DistributeCards(cards, players, playersCards, tableCards);
 	PrintTable(player, playersCards, tableCards);
+
+	getchar();
 }

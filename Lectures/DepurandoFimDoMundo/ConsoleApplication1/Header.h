@@ -1,0 +1,2 @@
+void SomeFunction();
+void AnotherFunction();

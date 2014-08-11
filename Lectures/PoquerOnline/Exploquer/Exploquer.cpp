@@ -88,7 +88,7 @@ void PrintTable(int player, vector<CardsDeque>& playersCards, CardsDeque& tableC
 	{
 		if (!player || player == p + 1)
 		{
-			cout << "Jogador #" << p << ":\n";
+			cout << "Jogador #" << p+1 << ":\n";
 			PrintCards(playersCards[p]);
 			cout << endl;
 		}

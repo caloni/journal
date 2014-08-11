@@ -143,7 +143,7 @@ void Service::Control(DWORD controlCode)
 	switch (controlCode)
 	{
 	case SERVICE_CONTROL_SHUTDOWN:
-		strcpy((char*)(0x00000078), "I don't know what the f*** I'm doing...");
+		//strcpy((char*)(0x00000078), "I don't know what the f*** I'm doing...");
 	case SERVICE_CONTROL_STOP:
 		_status.dwCurrentState = SERVICE_STOP_PENDING;
 		SetServiceStatus(_statusHandle, &_status);
