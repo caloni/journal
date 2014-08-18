@@ -1,11 +1,4 @@
-
-
-
-
 <a href="http://www.flickr.com/photos/caloni/11289445834/" title="Jogos Vorazes Em Chamas por caloni, no Flickr"><img src="http://farm4.staticflickr.com/3677/11289445834_f6c256aebe_o.jpg" alt="Jogos Vorazes Em Chamas"></a>
-
-
-O mundo de Katniss Everdeen ainda ótimo
 
 É curioso que quase uma década depois a estrutura narrativa de Catching Fire nos faça lembrar do ótimo Matrix Reloaded. Apesar de também ser uma continuação, Jogos Vorazes pelo menos sabia que não terminaria no primeiro. No entanto, ambos tratam de esperança surgida em meio a uma guerra eterna, e embora a escravidão consentida pelos Distritos à Capital por tantas gerações soe às vezes meio forçada, o fato é que o aspecto político e social é o que mais cativa na história.
 
@@ -20,5 +13,3 @@ Esse filme já adota uma postura melhor adequada de violência. Se no original Kat
 Se a beleza das imagens dizem quase tudo, é uma pena que o roteiro não seja nem um pouco sutil no desenrolar da história, quase nos fazendo crer em uma reviravolta completamente articulada pelo criador do jogo (o sempre ótimo ator). A trilha sonora não se sai muito melhor, com exceção da música tema, que já se tornou memorável.
 
 Mesmo com seu pecadilhos, Jogos Vorazes mantém o interesse constante em seu 140 minutos de duração.
-
-
