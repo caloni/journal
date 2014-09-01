@@ -1,4 +1,4 @@
-<a href="https://www.flickr.com/photos/120157483@N04/14949534131" title="Bronies by Wanderley Caloni, on Flickr"><img src="https://farm4.staticflickr.com/3836/14949534131_d6b784aafa_o.jpg" width="1920" height="1080" alt="Bronies"></a>
+<a href="https://www.flickr.com/photos/120157483@N04/14949534131" title="Bronies by Wanderley Caloni, on Flickr"><img src="https://farm4.staticflickr.com/3836/14949534131_d6b784aafa_o.jpg" alt="Bronies"></a>
 
 Fiquei curioso a respeito desses fãs adultos de My Little Pony por dois motivos: primeiro um amigo meu (adulto, até mais velho) confessou sua adoração pelo desenho dos pôneis fofinhos. Ele assistiu pela primeira vez por conta de seu filho, mas ele mesmo conseguiu enxergar virtudes inimagináveis em um desenho para crianças. O segundo fato foi o lançamento da Netflix de um filme que já nomeia essa comunidade inusitada em um título à altura com "Bronies: The Extremely Unexpected Adult Fans of My Little Pony", o que praticamente explica todo o teor deste documentário de Laurent Malaquais (Men from Nowhere).
 
