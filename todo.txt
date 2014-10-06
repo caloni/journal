@@ -1,0 +1,6 @@
+ - Alocação de memória em high addresses.
+ - Analogia do Aska com alinhamento de memória ou alocação na heap.
+ - Python e C++.
+   - Vídeo da m$: http://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Python-Tools-for-Visual-Studio?utm_source=dlvr.it&utm_medium=twitter
+ - Artigo para ganhar licença do VisualAssist.
+ - Static site.
