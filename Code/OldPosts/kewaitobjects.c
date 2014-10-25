@@ -19,4 +19,4 @@
 	ExFreePool(dpcVect);
 	ExFreePool(eventVect);
 	ExFreePool(waitObjects);
-//...// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 
+//... 

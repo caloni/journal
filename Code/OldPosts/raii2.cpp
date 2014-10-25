@@ -13,4 +13,4 @@ int UseFileEx()
 	// using config.txt
 
 	return 0; // the aquired resource  (config.txt) is released automagically
-}// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 
+} 

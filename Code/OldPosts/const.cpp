@@ -21,4 +21,4 @@ int func2(int y)
 	char path[PathSize];
 	//...
 }
-// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 
+ 

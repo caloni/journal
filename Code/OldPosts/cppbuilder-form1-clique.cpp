@@ -3,4 +3,4 @@
 void __fastcall TForm1::Button1Click(TObject *Sender)
 {
 	Form2->Show();
-}// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 
+} 

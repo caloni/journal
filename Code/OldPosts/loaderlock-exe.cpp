@@ -13,4 +13,4 @@ int main()
 		Sleep(5000);
 		FreeLibrary(lockDll), lockDll  = NULL;
 	}
-}// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 
+} 

@@ -77,4 +77,4 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, PSTR cmdLine, int)
 
 	return 0;
 }
-// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 
+ 

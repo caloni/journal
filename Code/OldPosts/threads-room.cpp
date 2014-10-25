@@ -52,4 +52,4 @@ int main()
 	DeleteCriticalSection(&g_globalCounterCS);
 }
 
-// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 
+ 

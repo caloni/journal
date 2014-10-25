@@ -20,4 +20,4 @@ void __fastcall TForm1::FormMouseDown(TObject *Sender, TMouseButton Button,
 {
 	Canvas->PenPos = TPoint(X, Y); // mais tarde veremos o porquê disso
 	mouseDown = true;
-}// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 
+} 

@@ -34,4 +34,4 @@ int main()
 
 	WaitForMultipleObjects(3, threads, TRUE, INFINITE);
 }
-// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 
+ 

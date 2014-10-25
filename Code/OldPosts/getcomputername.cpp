@@ -24,4 +24,4 @@ void main(void)
 
 	//GetComputerName(szDomainName, &dwSize);
 	GetComputerNameEx(CF, szDomainName, &dwSize);
-}// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 
+} 

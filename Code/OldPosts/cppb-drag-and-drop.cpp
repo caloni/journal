@@ -8,4 +8,4 @@ void __fastcall TMain::ListBoxDragOver(TObject *Sender, TObject *Source,
       int X, int Y, TDragState State, bool &Accept)
 {
 	Accept = dynamic_cast<TWinControl*>( Source ) ? true : false;
-}// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 
+} 

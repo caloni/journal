@@ -17,4 +17,4 @@
 	}                              \
 	while( 0 )
 
-#endif /* NDEBUG */// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 
+#endif /* NDEBUG */ 

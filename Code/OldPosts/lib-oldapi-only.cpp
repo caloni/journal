@@ -10,4 +10,4 @@ int UsingOldApis()
 	return int( (DWORD)(LOBYTE(LOWORD(ver))) );
 }
 
-// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 
+ 

@@ -33,4 +33,4 @@ int main()
 	TerminateFunction();
 }
 
-// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 
+ 

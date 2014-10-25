@@ -14,4 +14,4 @@ void MessageError(DWORD err, PCSTR msg, ...)
 	MessageBox(NULL, msgBuffer, STR_PROJECT_NAME, MB_OK | MB_ICONERROR);
 }
 
-// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 
+ 

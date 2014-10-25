@@ -33,4 +33,4 @@ int main()
 	cout << "str1: " << str1 << ", str2: " << str2 << '\n';
 
 	return 0;
-}// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 
+} 

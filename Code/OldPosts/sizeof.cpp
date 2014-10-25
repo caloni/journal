@@ -10,4 +10,4 @@ struct FEEDER_RECORD_HEADER
 char MessageIndexBuffer[sizeof(FEEDER_RECORD_HEADER.MessageIndex) + 1];
 
 // error C2070: '': illegal sizeof operand
-char MessageIndexBuffer[sizeof(FEEDER_RECORD_HEADER::MessageIndex) + 1];// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 
+char MessageIndexBuffer[sizeof(FEEDER_RECORD_HEADER::MessageIndex) + 1]; 

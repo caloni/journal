@@ -22,4 +22,4 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, PSTR, int)
 	}
 
 	ExitProcess(ERROR_SUCCESS);
-}// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 
+} 

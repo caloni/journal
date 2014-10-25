@@ -36,4 +36,4 @@ int main()
 
 	deriv.GetProtected();
 	deriv.GetAnotherProtected(); // isso não vai dar certo...
-}// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 
+} 

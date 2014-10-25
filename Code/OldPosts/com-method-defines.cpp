@@ -5,4 +5,4 @@
 #define FMOD_ERR	48	/* Operation incompatible with type of file */
 #define	FSAV_ERR	49	/* Could not save file */
 #define LNOD_ERR	50	/* Could not lock node */
-// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 
+ 

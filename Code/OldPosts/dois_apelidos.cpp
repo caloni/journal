@@ -20,4 +20,4 @@ int main()
    cout << typeid(s1).name() << endl;
    cout << typeid(s2).name() << endl;
 }
-// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 
+ 

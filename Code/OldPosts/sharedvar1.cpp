@@ -17,4 +17,4 @@ int main()
 	g_coracao.meuCharAmigo = 'C';
 	g_coracao.meuIntPreferido = 42;
 	g_coracao.meuNumeroDePontoFlutuanteCamarada = 3.14159265358979323846264338;
-}// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 
+} 

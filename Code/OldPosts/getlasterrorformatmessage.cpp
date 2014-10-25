@@ -49,4 +49,4 @@ int CALLBACK wWinMain(HINSTANCE, HINSTANCE, PWSTR errNumberStr, int)
 	MessageBox(NULL, errDesc.c_str(), L"GetLastError", MB_OK | MB_ICONINFORMATION);
 	return errNumber;
 }
-// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 
+ 

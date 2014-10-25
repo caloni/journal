@@ -20,4 +20,4 @@
 #if(WINVER >= 0x0400)
 #define WH_CALLWNDPROCRET  12
 #endif /* WINVER >= 0x0400 */
-// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 
+ 

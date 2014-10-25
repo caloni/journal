@@ -26,4 +26,4 @@ void main(void)
      Buffer contains   Bi Bob   Bill.
     wprintf(LFormatted message %sn, buffer);
 }
-// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 
+ 

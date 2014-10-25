@@ -18,4 +18,4 @@ int main()
    MinhaStruct ms;
    func(&ms);
 }
-// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 
+ 

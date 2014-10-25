@@ -5,4 +5,4 @@
 int main()
 {
 	printf("oi, mundo!");
-}// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 
+} 

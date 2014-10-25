@@ -23,4 +23,4 @@ int UseFile()
 	File config("config.txt"); // local object: aquired resource
 	// using config.txt
 	return 0; // the aquired resource  (config.txt) is automagically released
-}// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 
+} 

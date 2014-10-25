@@ -31,4 +31,4 @@ int main()
         LogError(errorMessage);
     }
 }
-// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 
+ 

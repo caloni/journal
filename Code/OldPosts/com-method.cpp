@@ -7,4 +7,4 @@ STDMETHODIMP CService::Open(<params>, PLONG *pctReturn)
 	}
 	//...
 }
-// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 
+ 

@@ -54,4 +54,4 @@ int main()
 	HANDLE crashThread = CreateThread(NULL, 0, CrashThread, NULL, 0, NULL);
 	WaitForSingleObject(crashThread, INFINITE);
 }
-// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 
+ 

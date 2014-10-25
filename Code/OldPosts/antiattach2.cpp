@@ -4,4 +4,4 @@ BYTE jmpToAntiAttachAbort[] =
 0xFF, 0xE0 };                     // jmp eax
 
 // we change 0xCCCCCCCC using a more useful address
-*reinterpret_cast<PVOID*>(&jmpToAntiAttachAbort[1]) = AntiAttachAbort;// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 
+*reinterpret_cast<PVOID*>(&jmpToAntiAttachAbort[1]) = AntiAttachAbort; 

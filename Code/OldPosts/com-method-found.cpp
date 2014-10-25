@@ -20,4 +20,4 @@ STDMETHODIMP CService::Open(BYTE *fileName, COUNT keyNo, COUNT *pctReturn)
 	}
 	//...
 }
-// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 
+ 

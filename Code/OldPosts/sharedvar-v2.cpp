@@ -32,4 +32,4 @@ private:
 
 	T* m_memPointer;
 	HANDLE m_memHandle;
-};// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 
+}; 

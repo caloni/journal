@@ -29,4 +29,4 @@ int main()
         func(&d); // passa endereço de C "dentro de D"
 }
 
-// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 
+ 

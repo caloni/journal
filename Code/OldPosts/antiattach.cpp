@@ -59,4 +59,4 @@ int main()
 	InstallAntiAttach();
 	cout << "Try to attach, if you can...";
 	cin.get();
-}// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 
+} 

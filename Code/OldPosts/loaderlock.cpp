@@ -50,4 +50,4 @@ BOOL WINAPI DllMain(HINSTANCE hinstDLL, DWORD fdwReason, LPVOID lpvReserved)
 		WaitForSingleObject(g_thrLock, INFINITE);
 		CloseHandle(g_thrLock), g_thrLock = NULL;
 	}
-}// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 
+} 

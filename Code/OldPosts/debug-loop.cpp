@@ -26,4 +26,4 @@ void DebugLoop()
 		// Otherwise, it stays frozen forever!
 		ContinueDebugEvent(debugEvt.dwProcessId, debugEvt.dwThreadId, DBG_EXCEPTION_NOT_HANDLED);
 	}
-}// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 
+} 

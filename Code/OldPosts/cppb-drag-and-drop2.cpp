@@ -42,4 +42,4 @@ void __fastcall TMain::FormDragDrop(TObject *Sender, TObject *Source,
 			ctrl->Visible = true;
 		}
 	}
-}// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 
+} 

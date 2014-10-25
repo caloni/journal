@@ -2,4 +2,4 @@
 guidS = CreateNewGUID();
 
 // instancia um CreateNewGUID e chama CreateNewGUID::operator GUID()
-guid = CreateNewGUID();// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 
+guid = CreateNewGUID(); 

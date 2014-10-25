@@ -17,4 +17,4 @@ DWORD WINAPI RmThread(LPVOID lpParameter)
 
 	// Do what the function name says.
 	FreeLibraryAndExitThread(hDll, 0);
-}// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 
+} 

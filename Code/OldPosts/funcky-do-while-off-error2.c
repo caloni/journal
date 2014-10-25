@@ -18,4 +18,4 @@ else
 			"That's right");
 		OutputDebugString(buffer);
 	};
-// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 
+ 

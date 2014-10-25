@@ -6,4 +6,4 @@ void __fastcall TForm1::Button1Click(TObject *Sender)
 	btn2->SetBounds(10, 10, 150, 25); // definindo as fronteiras dentro do form
 	btn2->Caption = "Prazer! Sou dinâmico!";
 	btn2->Visible = true;
-}// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 
+} 

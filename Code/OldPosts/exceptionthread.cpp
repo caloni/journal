@@ -28,4 +28,4 @@ void ExecutionThread()
 
 		Sleep( someTime ); // give some time
 	}
-}// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 
+} 

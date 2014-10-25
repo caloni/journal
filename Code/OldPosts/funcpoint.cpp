@@ -10,4 +10,4 @@ int main()
    void* pf = func;
    ( ( void (*)(int, int) ) pf )(3, 14);
 }
-// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 
+ 

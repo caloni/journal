@@ -16,4 +16,4 @@ void CommandPrompt::Interact(ostream& os, istream& is)
                 }
         }
 }
-// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 
+ 

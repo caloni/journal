@@ -28,4 +28,4 @@ void OpenFile(DWORD fileOpenMode);
 main()
 {
    OpenFile(fomRead | fomWrite);
-}// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 
+} 

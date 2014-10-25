@@ -14,4 +14,4 @@ void CallFunc()
 		Func();
 
 	int x = 10; // 4. Next instruction.
-}// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 
+} 

@@ -66,4 +66,4 @@ int main(int argc, char* argv[]) // No princípio havia a pilha, quando Deus diss
     WaitForMultipleObjects(QUEUES_SIZE * 2, queueThreads, TRUE, INFINITE); // espera a 'gaguera'
     return 0; // "tá tudo certo!" (by Starcraft 2)
 }
-// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 
+ 

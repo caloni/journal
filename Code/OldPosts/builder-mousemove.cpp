@@ -5,4 +5,4 @@ void __fastcall TForm1::FormMouseMove(TObject *Sender, TShiftState Shift,
 	{
 		Canvas->LineTo(X, Y);
 	}
-}// Codigo-fonte disponivel no GitHub (Caloni/Caloni.com.br) 
+} 
