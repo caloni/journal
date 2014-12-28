@@ -24,10 +24,7 @@ A trilha da nossa(s) linguagem(ns) querida(s) do coração(ões) desse ano foi b
 
 
 
-
-
-** [Depurando até o fim do mundo: técnicas e truques de WinDbg](https://www.slideshare.net/WanderleyCaloni/depurando-at-o-fim-do-mundo-tcnicas-e-truques-de-windbg) ** from **[Wanderley Caloni](http://www.slideshare.net/WanderleyCaloni)**
-
+<iframe src="//www.slideshare.net/slideshow/embed_code/37854469" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//pt.slideshare.net/WanderleyCaloni/depurando-at-o-fim-do-mundo-tcnicas-e-truques-de-windbg" title="Depurando até o fim do mundo: técnicas e truques de WinDbg" target="_blank">Depurando até o fim do mundo: técnicas e truques de WinDbg</a> </strong> from <strong><a href="//www.slideshare.net/WanderleyCaloni" target="_blank">Wanderley Caloni</a></strong> </div>
 
 
 
