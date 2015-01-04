@@ -1,6 +1,7 @@
 ---
 title: Entendendo a Compilação
 ---
+<a href="https://www.flickr.com/photos/120157483@N04/16012084700" title="Entendendo a Compilação by Wanderley Caloni, on Flickr"><img src="https://farm9.staticflickr.com/8634/16012084700_545179bfde_z.jpg" alt="Entendendo a Compilação"></a>
 
 Esses slides foram compilados a pedido dos organizadores do TDC 2014, já que a palestra que ministrei com esse tema foi para ajudar meu amigo-sócio Rodrigo Strauss que não havia preparado nenhum slide a respeito.
 
@@ -8,7 +9,7 @@ Felizmente eu já havia explicado alguns conceitos-chave para quem programa em C
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/43190892" width="640" height="480" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
-Como havia [explicado anteriormente]({% post_url 2008-02-15-os-diferentes-erros-na-linguagem-c.md %}), existem três processos principais e clássicos (pode haver mais, dependendo do compilador, ambiente, etc) na formação de um código de máquina a partir de arquivos-fontes escritos em C ou C++ (ou ambos, são intercambiáveis). São eles:
+Como havia [explicado anteriormente]({http://blog.caloni.com.br/os-diferentes-erros-na-linguagem-c/}), existem três processos principais e clássicos (pode haver mais, dependendo do compilador, ambiente, etc) na formação de um código de máquina a partir de arquivos-fontes escritos em C ou C++ (ou ambos, são intercambiáveis). São eles:
 
  1. __Preprocessamento__
  2. __Compilação__
