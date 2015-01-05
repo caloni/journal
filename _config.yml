@@ -20,7 +20,7 @@ author:
 
 pages_list:       
   Archive: '/archive.html'
-  Feed: '/atom.xml'
+  Feed: 'http://feeds.feedburner.com/caloni'
   Author: '/author.html'
 
 # Custom vars
