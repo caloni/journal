@@ -9,7 +9,7 @@ Felizmente eu já havia explicado alguns conceitos-chave para quem programa em C
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/43190892" width="640" height="480" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
-Como havia [explicado anteriormente]({http://blog.caloni.com.br/os-diferentes-erros-na-linguagem-c/}), existem três processos principais e clássicos (pode haver mais, dependendo do compilador, ambiente, etc) na formação de um código de máquina a partir de arquivos-fontes escritos em C ou C++ (ou ambos, são intercambiáveis). São eles:
+Como havia [explicado anteriormente](../os-diferentes-erros-na-linguagem-c), existem três processos principais e clássicos (pode haver mais, dependendo do compilador, ambiente, etc) na formação de um código de máquina a partir de arquivos-fontes escritos em C ou C++ (ou ambos, são intercambiáveis). São eles:
 
  1. __Preprocessamento__
  2. __Compilação__
