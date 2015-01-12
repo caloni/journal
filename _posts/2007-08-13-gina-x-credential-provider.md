@@ -63,9 +63,9 @@ Já que fomos brindados com um exemplo de GINA _stub_ do Ferdinando, também ire
 <blockquote>_É claro que para utilizar essa GINA, você deve possuir direitos de administração, ou conhecer alguma brecha de segurança. Eu optei pela segunda opção, já que não tinha a primeira. Podemos dizer apenas que o [artigo sobre falhas de segurança relacionadas a usuários avançados](http://blogs.technet.com/markrussinovich/archive/2006/05/01/the-power-in-power-users.aspx) do Russinovich pôde resolver meu problema._</blockquote>
 
 
-E é isso aí. Como é que aquele cara do DriverEntry diz mesmo? Ah, sim: [have fun](http://www.caloni.com.br/blog/wp-content/uploads/mscindy.7z)! =P
+E é isso aí. Como é que aquele cara do DriverEntry diz mesmo? Ah, sim: [have fun](../public/uploads/mscindy.7z)! =P
 
-[![“Saída” de nossa GINA stub](http://www.caloni.com.br/blog/wp-content/uploads/mscindy.png)](http://www.caloni.com.br/blog/wp-content/uploads/mscindy.png)
+[![“Saída” de nossa GINA stub](../public/uploads/mscindy.png)](../public/uploads/mscindy.png)
 
 **Para saber mais sobre Credential Providers (e o que fazer com sua GINA)
 **

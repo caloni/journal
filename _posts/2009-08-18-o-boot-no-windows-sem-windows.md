@@ -10,7 +10,7 @@ categories:
 - Sistema Operacional
 ---
 
-![raios-torre-eiffel.jpg](http://www.caloni.com.br/blog/wp-content/uploads/raios-torre-eiffel.jpg)Desde quando o usuário liga o computador até o momento em que ele vê a barra de tarefas e aqueles [fundos lindos de papel de parede](http://www.baixaki.com.br/download/windows-7-rc-official-wallpapers.htm) existem diversas coisas sendo feitas por debaixo do pano. Essa série de artigos irá explicar essas diversas coisas, ou seja, como funciona e quais as fases do _[boot](http://pt.wikipedia.org/wiki/Boot) _de uma máquina que possui Windows instalado ([plataforma NT](http://pt.wikipedia.org/wiki/Windows_NT)).
+![raios-torre-eiffel.jpg](../public/uploads/raios-torre-eiffel.jpg)Desde quando o usuário liga o computador até o momento em que ele vê a barra de tarefas e aqueles [fundos lindos de papel de parede](http://www.baixaki.com.br/download/windows-7-rc-official-wallpapers.htm) existem diversas coisas sendo feitas por debaixo do pano. Essa série de artigos irá explicar essas diversas coisas, ou seja, como funciona e quais as fases do _[boot](http://pt.wikipedia.org/wiki/Boot) _de uma máquina que possui Windows instalado ([plataforma NT](http://pt.wikipedia.org/wiki/Windows_NT)).
 
 O que esses artigos **não vão fazer muito bem** é explicar o lado do _kernel mode_ funcionando, até porque temos [artigos melhores](http://www.driverentry.com.br/blog/2009/08/notificando-eventos-aplicacao.html) explicando esse ponto de vista. Essa é uma abordagem mais _"high level_", apesar de _"low enough_". No entanto, espero que seja divertido. É esse o mais importante requisito em qualquer aprendizado, certo? Let's go!
 
@@ -83,7 +83,7 @@ Agora chegamos em todos os passos iniciais realizados antes de entrar em cena o 
 
 Todos os componentes principais desse boot podem ser visualizados de uma forma bem macro na figura abaixo.
 
-![boot.png](http://www.caloni.com.br/blog/wp-content/uploads/boot.png)
+![boot.png](../public/uploads/boot.png)
 
 Alguns detalhes sórdidos que podem fazer alguma diferença para você, desenvolvedor de sistemas operacionais, um dia desses:
 

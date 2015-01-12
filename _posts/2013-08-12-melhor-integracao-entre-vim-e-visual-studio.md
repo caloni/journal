@@ -16,15 +16,15 @@ tags:
 
 Pelo menos é a mais rápida:
 
-[![VisualStudioWithVim1-3](http://www.caloni.com.br/blog/wp-content/uploads/VisualStudioWithVim1-3.png)](http://www.caloni.com.br/blog/wp-content/uploads/VisualStudioWithVim1-3.png)
+[![VisualStudioWithVim1-3](../public/uploads/VisualStudioWithVim1-3.png)](../public/uploads/VisualStudioWithVim1-3.png)
 
 
 
-[![VisualStudioWithVim2-3](http://www.caloni.com.br/blog/wp-content/uploads/VisualStudioWithVim2-31.png)](http://www.caloni.com.br/blog/wp-content/uploads/VisualStudioWithVim2-31.png)
+[![VisualStudioWithVim2-3](../public/uploads/VisualStudioWithVim2-31.png)](../public/uploads/VisualStudioWithVim2-31.png)
 
 
 
-[![VisualStudioWithVim3-3](http://www.caloni.com.br/blog/wp-content/uploads/VisualStudioWithVim3-3.png)](http://www.caloni.com.br/blog/wp-content/uploads/VisualStudioWithVim3-3.png)
+[![VisualStudioWithVim3-3](../public/uploads/VisualStudioWithVim3-3.png)](../public/uploads/VisualStudioWithVim3-3.png)
 
 
 

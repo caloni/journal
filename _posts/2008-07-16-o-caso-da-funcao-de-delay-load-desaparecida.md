@@ -26,11 +26,11 @@ Para verificar a existência de todas as DLLs e funções necessárias para noss
     depends meu_executa<strike></strike>vel.exe
 
 
-![depends_meu_executavel.PNG](http://www.caloni.com.br/blog/wp-content/uploads/depends_meu_executavel.PNG)
+![depends_meu_executavel.PNG](../public/uploads/depends_meu_executavel.PNG)
 
 Se a função ou DLL não existe no sistema, o seguinte erro costuma ocorrer (isso depende da versão do Sistema Operacional):
 
-![loader_erro.PNG](http://www.caloni.com.br/blog/wp-content/uploads/loader_erro.PNG)
+![loader_erro.PNG](../public/uploads/loader_erro.PNG)
 
 Mas nem tudo está perdido!
 
@@ -63,7 +63,7 @@ Isso costuma sempre funcionar, sendo que tive uma grande surpresa com os seguint
 
 Isso, é claro, depois de ter checado e rechecado a existência da LIB de Delay Load na lista de LIBs a serem lincadas:
 
-![delayimp.PNG](http://www.caloni.com.br/blog/wp-content/uploads/delayimp.PNG)
+![delayimp.PNG](../public/uploads/delayimp.PNG)
 
 
 #### E agora, José?
@@ -73,7 +73,7 @@ Acontece que eu conheço algumas ferramentas que podem sempre me ajudar em situa
 
 O Process Monitor pode ser usado para obter exatamente a localização da LIB que estamos tentando verificar:
 
-![delayimpprocmon.PNG](http://www.caloni.com.br/blog/wp-content/uploads/delayimpprocmon.PNG)
+![delayimpprocmon.PNG](../public/uploads/delayimpprocmon.PNG)
 
 Após localizar o local, podemos listar seus símbolos, mais precisamente a função "delayLoadHelper":
 

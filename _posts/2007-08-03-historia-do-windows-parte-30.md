@@ -97,7 +97,7 @@ WndProc
 
 Uma mensagem é um evento que ocorre relativo à sua janela ou o que está acontecendo ao redor dela no mundo Windows. Por exemplo, as janelas recebem eventos a respeito dos cliques do usuário, redesenho da janela, etc. Quem envia essas mensagens é o próprio Windows, e ele espera uma resposta da sua função de janela. Agora a parte esquisita: quem envia essas mensagens para o Windows é o seu próprio aplicativo!
 
-[![Função de janela](http://www.caloni.com.br/blog/wp-content/uploads/window-proc.gif)](http://www.caloni.com.br/blog/wp-content/uploads/window-proc.gif)
+[![Função de janela](../public/uploads/window-proc.gif)](../public/uploads/window-proc.gif)
 
 O aplicativo fica aguardando por eventos em um _loop_ conhecido como **_loop_ de mensagens**. A função do _loop_ basicamente é chamar a função [GetMessage](http://msdn2.microsoft.com/en-us/library/ms644936.aspx) e redirecionar as mensagens obtidas para as respectivas funções de janela.
 

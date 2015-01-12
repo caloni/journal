@@ -10,7 +10,7 @@ categories:
 - C++
 ---
 
-[![seminario.jpg](http://www.caloni.com.br/blog/wp-content/uploads/seminario.thumbnail.jpg)](http://www.caloni.com.br/blog/wp-content/uploads/seminario.jpg)Aconteceu nesse fim-de-semana, como era previsto, o nosso primeiro [Seminário CCPP Brasil](http://www.temporealeventos.com.br/?area=101), com direito a pessoas de todas as idades e origens, mas todas com algo em comum: a paixão e o interesse pelas linguagens-mestre do mundo da programação.
+[![seminario.jpg](../public/uploads/seminario.thumbnail.jpg)](../public/uploads/seminario.jpg)Aconteceu nesse fim-de-semana, como era previsto, o nosso primeiro [Seminário CCPP Brasil](http://www.temporealeventos.com.br/?area=101), com direito a pessoas de todas as idades e origens, mas todas com algo em comum: a paixão e o interesse pelas linguagens-mestre do mundo da programação.
 
 Começo esse artigo agradecendo a todos os que direta e indiretamente participaram para o sucesso do evento, entre eles [os organizadores](http://www.temporealeventos.com.br/), o [carro-chefe](http://techberto.wordpress.com/) responsável por acordar o espírito C++ da galera no início do ano, os palestrantes e, claro, **óbvio**, toda a [comunidade C++](http://www.ccppbrasil.org) que participou em corpo (vulgo _hardware_) e alma (vulgo _software_).
 
@@ -25,7 +25,7 @@ Wanderley Caloni
 
 Apresentação para baixar em [PDF](http://www.caloni.com.br/docs/Portabilidade%20-%20Wanderley%20Caloni.pdf), [PPT ](http://www.caloni.com.br/docs/Portabilidade%20-%20Wanderley%20Caloni.ppt)e [ODP](http://www.caloni.com.br/docs/Portabilidade%20-%20Wanderley%20Caloni.odp).
 
-[![seminario-caloni.jpg](http://www.caloni.com.br/blog/wp-content/uploads/seminario-caloni.thumbnail.jpg)](http://www.caloni.com.br/blog/wp-content/uploads/seminario-caloni.jpg)É muito difícil analisar uma palestra feita por você mesmo. É mais difícil ainda quando essa palestra é a primeira de uma batelada de argumentações de alto nível técnico que seguiram o dia. Posso dizer, no entanto, que consegui o que queria quando fui para o evento: demonstrar as dificuldades e as facilidades de tornar um código portável, independente se entre sistemas operacionais, ambientes ou compiladores.
+[![seminario-caloni.jpg](../public/uploads/seminario-caloni.thumbnail.jpg)](../public/uploads/seminario-caloni.jpg)É muito difícil analisar uma palestra feita por você mesmo. É mais difícil ainda quando essa palestra é a primeira de uma batelada de argumentações de alto nível técnico que seguiram o dia. Posso dizer, no entanto, que consegui o que queria quando fui para o evento: demonstrar as dificuldades e as facilidades de tornar um código portável, independente se entre sistemas operacionais, ambientes ou compiladores.
 
 Foi visto primeiramente o que faz da portabilidade uma coisa difícil. Detalhes como sintaxe e gramática fazem toda a diferença quando o que se almeja é um código limpo de imperfeições trazidas pelo ambiente de desenvolvimento. Também foi dada especial atenção às famigeradas extensões de compiladores, que fazem a linguagem parecer uma coisa que não é.
 
@@ -36,7 +36,7 @@ Fábio Galuppo
 
 [Artigo sobre apresentação](http://fabiogaluppo.spaces.live.com/Blog/cns!B671A4645AF2F2F4!176.entry)
 
-[![seminario-galuppo.jpg](http://www.caloni.com.br/blog/wp-content/uploads/seminario-galuppo.thumbnail.jpg)](http://www.caloni.com.br/blog/wp-content/uploads/seminario-galuppo.jpg)Para quem está acostumado com os temas geralmente "gerenciados" de Fábio Galuppo com certeza deve ter se surpreendido com a descrição teórica dos inúmeros problemas que cercam a vida do programador _multithreading_. O palestrante partiu do mais simples, o conceito de _threads_, conceito que, segundo ele mesmo, pode ser explicado em 15 minutos, para algo mais sutil e que gera muitos erros escondidos: o conceito de _locks _(semáforos, _mutexes_, etc).
+[![seminario-galuppo.jpg](../public/uploads/seminario-galuppo.thumbnail.jpg)](../public/uploads/seminario-galuppo.jpg)Para quem está acostumado com os temas geralmente "gerenciados" de Fábio Galuppo com certeza deve ter se surpreendido com a descrição teórica dos inúmeros problemas que cercam a vida do programador _multithreading_. O palestrante partiu do mais simples, o conceito de _threads_, conceito que, segundo ele mesmo, pode ser explicado em 15 minutos, para algo mais sutil e que gera muitos erros escondidos: o conceito de _locks _(semáforos, _mutexes_, etc).
 
 Os programadores em nível de sistema devem ter adorado o contexto histórico dos problemas (você sabia que o primeiro _lock _inventado foi o semáforo?) tanto quanto o contexto teórico (explicação sobre modelo de memória).
 
@@ -51,7 +51,7 @@ Rodrigo Strauss
 
 [Artigo sobre apresentação](http://www.1bit.com.br/content.1bit/weblog/de_volta)
 
-[![seminari-strauss.jpg](http://www.caloni.com.br/blog/wp-content/uploads/seminari-strauss.thumbnail.jpg)](http://www.caloni.com.br/blog/wp-content/uploads/seminari-strauss.jpg)Como sempre, Strauss está apaixonado pelo [Boost](http://www.boost.org/) (e a [STL](http://www.dinkumware.com/cpp.aspx)). Descrevendo as partes mais importantes que todo programador C++ moderno deve saber sobre essas bibliotecas, ambas modernas, a palestra focou principalmente no uso do dia-a-dia, e as vantagens produtivas que o C++ atual pode ter sobre o velho e tradicional programa em C com listas encadeadas artesanais.
+[![seminari-strauss.jpg](../public/uploads/seminari-strauss.thumbnail.jpg)](../public/uploads/seminari-strauss.jpg)Como sempre, Strauss está apaixonado pelo [Boost](http://www.boost.org/) (e a [STL](http://www.dinkumware.com/cpp.aspx)). Descrevendo as partes mais importantes que todo programador C++ moderno deve saber sobre essas bibliotecas, ambas modernas, a palestra focou principalmente no uso do dia-a-dia, e as vantagens produtivas que o C++ atual pode ter sobre o velho e tradicional programa em C com listas encadeadas artesanais.
 
 Entre as coisas mais importantes citadas, que todo programador do novo século deveria saber, estão:
 
@@ -71,9 +71,9 @@ Enfim, para quem pôde ver, a palestra focou nos princípios que farão hoje em 
 **Técnicas de Otimização de Código**
 Rodrigo Kumpera & André Tupinambá
 
-[![seminario-otimizacao1.jpg](http://www.caloni.com.br/blog/wp-content/uploads/seminario-otimizacao1.thumbnail.jpg)](http://www.caloni.com.br/blog/wp-content/uploads/seminario-otimizacao1.jpg)Aparentemente o que pensei que seria, em minha sincera opinião, um desastre (dois palestrantes falando sobre a mesma coisa) se transformou em uma combinação estupenda de teoria e prática aplicadas à arte de otimização de código. Rodrigo e André conseguiram destrinchar o tema harmoniosamente, sempre dividido entre técnicas avançadas (algumas demonstradas pela experiência dos palestrantes) e teoria disciplinar, que visa alertar o _wannabe_ que otimizar pode ser uma coisa boa; porém, preste atenção aos que já fizeram isso têm a dizer.
+[![seminario-otimizacao1.jpg](../public/uploads/seminario-otimizacao1.thumbnail.jpg)](../public/uploads/seminario-otimizacao1.jpg)Aparentemente o que pensei que seria, em minha sincera opinião, um desastre (dois palestrantes falando sobre a mesma coisa) se transformou em uma combinação estupenda de teoria e prática aplicadas à arte de otimização de código. Rodrigo e André conseguiram destrinchar o tema harmoniosamente, sempre dividido entre técnicas avançadas (algumas demonstradas pela experiência dos palestrantes) e teoria disciplinar, que visa alertar o _wannabe_ que otimizar pode ser uma coisa boa; porém, preste atenção aos que já fizeram isso têm a dizer.
 
-[![seminario-otimizacao2.jpg](http://www.caloni.com.br/blog/wp-content/uploads/seminario-otimizacao2.thumbnail.jpg)](http://www.caloni.com.br/blog/wp-content/uploads/seminario-otimizacao2.jpg)Com uma didática impecável, o novato nesse tema (como eu) pôde ver as dificuldades de conseguir determinar o objetivo de todo otimizador de código que, segundo eles, deve estar sempre atento na máxima de que "toda otimização é na verdade uma troca". Ou seja, se o programador quer melhor processamento, pagará com memória, se quiser otimizar espaço na RAM, irá gastar mais com processamento e/ou disco, e assim por diante.
+[![seminario-otimizacao2.jpg](../public/uploads/seminario-otimizacao2.thumbnail.jpg)](../public/uploads/seminario-otimizacao2.jpg)Com uma didática impecável, o novato nesse tema (como eu) pôde ver as dificuldades de conseguir determinar o objetivo de todo otimizador de código que, segundo eles, deve estar sempre atento na máxima de que "toda otimização é na verdade uma troca". Ou seja, se o programador quer melhor processamento, pagará com memória, se quiser otimizar espaço na RAM, irá gastar mais com processamento e/ou disco, e assim por diante.
 
 Foram apresentados exemplos reais de otimização, além de dicas muito importantes sobre o comportamento das compilaçõe de cada dia.  Você sabia, por exemplo, que ao declarar em escopos mais locais suas variáveis usadas apenas em pequenos trechos de código, estará dando uma poderosa dica ao compilador para que ele consiga usar os registradores no máximo de sua capacidade?
 

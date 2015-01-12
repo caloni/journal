@@ -20,7 +20,7 @@ Até que veio o dia de juntar.
 
 O processo de _merge _de um controle de fonte supõe que os _branches _começaram em algum **ponto em comum**; do contrário não há como o controlador saber as coisas que mudaram em paralelo. Pois é achando a modificação **ancestral**, pai de ambos os _branches_, que ele irá medir a dificuldade de juntar as versões novamente. Se não existe ancestral, não existe análise. Como exemplificado na figura:
 
-[![branches-sem-ancestral.gif](http://www.caloni.com.br/blog/wp-content/uploads/branches-sem-ancestral.gif)](http://www.caloni.com.br/blog/wp-content/uploads/branches-sem-ancestral.gif)
+[![branches-sem-ancestral.gif](../public/uploads/branches-sem-ancestral.gif)](../public/uploads/branches-sem-ancestral.gif)
 
 
 #### Se baseando no rebase
@@ -181,4 +181,4 @@ O processo que usei foi de usar esse comando n vezes para buscar revisões de um
     C:\Tests\linux>
 
 
-![branches-com-replay.gif](http://www.caloni.com.br/blog/wp-content/uploads/branches-com-replay.gif)
+![branches-com-replay.gif](../public/uploads/branches-com-replay.gif)

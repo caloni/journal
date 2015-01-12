@@ -11,7 +11,7 @@ categories:
 - Ferramentas
 ---
 
-![Boiola quem usa esses comandos pink do Bazaar…](http://www.caloni.com.br/blog/wp-content/uploads/boiola-pic.jpg)Bom, já que por enquanto os assuntos de macho estão em falta (acabei de voltar de férias), apresento-lhes o maravilhoso mundo do [Bazaar](http://www.caloni.com.br/blog/archives/guia-basico-de-repositorios-no-bazaar) <strike>para boiolas</strike> _user-friendly_!
+![Boiola quem usa esses comandos pink do Bazaar…](../public/uploads/boiola-pic.jpg)Bom, já que por enquanto os assuntos de macho estão em falta (acabei de voltar de férias), apresento-lhes o maravilhoso mundo do [Bazaar](http://www.caloni.com.br/blog/archives/guia-basico-de-repositorios-no-bazaar) <strike>para boiolas</strike> _user-friendly_!
 
 Ele é leve, vem <strike>enrustido</strike> embutido na última versão e pode economizar alguns _page ups/downs_ no _prompt_ do DOS. Ah, sim, antes que comentem, eu não uso o [Tortoise for Bazaar](http://wiki.bazaar.canonical.com/TortoiseBzr) porque instalar [_shell extensions_](http://en.wikipedia.org/wiki/Shell_extension#Extensibility), só os muito bem feitos. (Do contrário, bem-feito para quem instalou.)
 
@@ -48,15 +48,15 @@ Os que eu mais uso no dia-a-dia são:
 #### qlog e qbrowse
 
 
-![Comando qlog do Bazaar](http://www.caloni.com.br/blog/wp-content/uploads/qlog.png)
+![Comando qlog do Bazaar](../public/uploads/qlog.png)
 
 Diversão garantida. Por meio destes simples comandos podemos ver o histórico de commits e navegar pela árvore de pastas e arquivos com a anotação do último commit para cada elemento. Só para ter uma ideia de quanto uso isso, transformei-os em opções do Explorer.
 
-![Bazaar Shell Extension na Mão](http://www.caloni.com.br/blog/wp-content/uploads/bzr-shell-extension.png)
+![Bazaar Shell Extension na Mão](../public/uploads/bzr-shell-extension.png)
 
 Além da utilidade básica, de quebra, o qbrowse pode te levar para um qlog filtrado, e o qlog pode te levar a um diff gráfico, que é o próximo comando que eu iria mostrar.
 
-![Comando qbrowse do Bazaar](http://www.caloni.com.br/blog/wp-content/uploads/qbrowse.png)
+![Comando qbrowse do Bazaar](../public/uploads/qbrowse.png)
 
 
 #### qdiff
@@ -64,14 +64,14 @@ Além da utilidade básica, de quebra, o qbrowse pode te levar para um qlog filt
 
 Coisa linda de Deus. Existem dois modos de exibição, mas o padrão já é show de bola, mostrando as mudanças em todos os arquivos de um commit de uma só vez ou do arquivo/pasta especificado pelo comando. É lógico que é possível especificar qualquer faixa de commits que você quiser ver.
 
-![Comando qdiff do Bazaar](http://www.caloni.com.br/blog/wp-content/uploads/qdiff.png)
+![Comando qdiff do Bazaar](../public/uploads/qdiff.png)
 
 Uma desvantagem desse comando é que ele oculta o resto das linhas do fonte e não mostra de jeito nenhum (pelo menos não descobri ainda como fazer isso). Sendo assim, para uma análise mais detalhada das diferenças no código-fonte sempre use um editor externo que consiga comparar arquivos inteiros (eu uso o WinMerge). Você pode colocar esse comando na forma de um diff personalizado, com o uso do qconfig.
 
-![Comando qconfig do Bazaar](http://www.caloni.com.br/blog/wp-content/uploads/qconfig.png)
+![Comando qconfig do Bazaar](../public/uploads/qconfig.png)
 
 
 ####  Bônus
 
 
-Para quem não sabe fazer comandos de contexto no Explorer sem instalar Shell Extensions, deem uma olhada no [REG exportado](http://www.caloni.com.br/blog/wp-content/uploads/bzr.txt).  Bom proveito.
+Para quem não sabe fazer comandos de contexto no Explorer sem instalar Shell Extensions, deem uma olhada no [REG exportado](../public/uploads/bzr.txt).  Bom proveito.

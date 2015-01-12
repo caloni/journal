@@ -20,7 +20,7 @@ tags:
 
 
 
-[caption id="attachment_1211" align="aligncenter" width="150" caption="Brendan Eich, Pai do JavaScript"][![](http://www.caloni.com.br/blog/wp-content/uploads/1202470502643-150x150.jpg)](http://www.caloni.com.br/blog/wp-content/uploads/1202470502643.jpg)[/caption]
+[caption id="attachment_1211" align="aligncenter" width="150" caption="Brendan Eich, Pai do JavaScript"][![](../public/uploads/1202470502643-150x150.jpg)](../public/uploads/1202470502643.jpg)[/caption]
 
 
 Esse pequeno trecho da entrevista de Brendan Eich, de [Coders at Work](http://www.codersatwork.com/brendan-eich.html), revela parte das frustações que os programadores de linha de frente sofrem com os ambientes de depuração, muitas vezes aquém dos desafios atuais. Sinceramente, não sinto isso em meu dia-a-dia, e acho o Visual Studio um excelente depurador com interface (mas que perde feio para o WinDbg em casos mais hardcore). Porém, fica a percepção curiosa do criador do JavaScript.
@@ -32,7 +32,7 @@ _"Diagnosing it was hard because it was timing-sensitive. It had to do with thes
 
 Ferramentas de Depuração Avançadas
 
-[caption id="attachment_1212" align="aligncenter" width="129" caption="Logo da Valgrind"][![](http://www.caloni.com.br/blog/wp-content/uploads/ValgrindLogo.png)](http://www.caloni.com.br/blog/wp-content/uploads/ValgrindLogo.png)[/caption]
+[caption id="attachment_1212" align="aligncenter" width="129" caption="Logo da Valgrind"][![](../public/uploads/ValgrindLogo.png)](../public/uploads/ValgrindLogo.png)[/caption]
 
 _"Instrumenting and having a checked model of the entire memory hierarchy is big. Robert O’Callahan, our big brain in New Zealand, did his own debugger based on the Valgrind framework, which efficiently logs every instruction so he can re-create the entire program state at any point. It’s not just a time-traveling debugger. It’s a full database so you see a data structure and there’s a field with a scrogged value and you can say, “Who wrote to that last?” and you get the full stack. You can reason from effects back to causes. Which is the whole game in debugging. So it’s very slow. It’s like a hundred times slower than real time, but there’s hope."_
 
@@ -42,7 +42,7 @@ Depuradores da Indústria
 
 _"Debugging technology has been sadly underresearched. That’s another example where there’s a big gulf between industry and academia: the academics are doing proofs, sometimes by hand, more and more mechanized thanks to the POPLmark challenge and things like that. But in the real world we’re all in debuggers and they’re pieces of shit from the ’70s like GDB."_
 
-[caption id="attachment_1213" align="aligncenter" width="200" caption="Mascote do GDB"][![](http://www.caloni.com.br/blog/wp-content/uploads/mascot.jpg)](http://www.caloni.com.br/blog/wp-content/uploads/mascot.jpg)[/caption]
+[caption id="attachment_1213" align="aligncenter" width="200" caption="Mascote do GDB"][![](../public/uploads/mascot.jpg)](../public/uploads/mascot.jpg)[/caption]
 
 
 

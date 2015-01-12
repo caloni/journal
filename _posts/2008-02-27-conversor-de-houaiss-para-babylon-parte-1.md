@@ -23,7 +23,7 @@ Assim como adquiri o Houaiss, também comprei o Babylon, um programa-dicionário
 
 O Babylon possui um mecanismo para criação de dicionários chamado [Babylon Builder](http://www.babylon.com/display.php?id=15&tree=3&level=2). É muito simples e fácil de usar (além de ser gratuito). Sabendo que possuo ambas as licenças desses dois programas me sinto mais aliviado em tentar desencriptar a base de dados do primeiro para construir um dicionário para o segundo, e assim realizar meu sonho de consumo: um Babylon com um dicionário de peso!
 
-[![Licença do Houaiss](http://www.caloni.com.br/blog/wp-content/uploads/houaiss-license.png)](http://www.caloni.com.br/blog/wp-content/uploads/houaiss-license.png)
+[![Licença do Houaiss](../public/uploads/houaiss-license.png)](../public/uploads/houaiss-license.png)
 
 
 
@@ -33,7 +33,7 @@ O Babylon possui um mecanismo para criação de dicionários chamado [Babylon Bu
 
 É necessário que, na hora da instalação, seja escolhida a opção de copiar os arquivos para o disco. Estarei utilizando o path padrão de um Windows em português, que é "C:\Arquivos de Programas\Houaiss".
 
-[![Instalação do Houaiss](http://www.caloni.com.br/blog/wp-content/uploads/houaiss-install.png)](http://www.caloni.com.br/blog/wp-content/uploads/houaiss-install.png)
+[![Instalação do Houaiss](../public/uploads/houaiss-install.png)](../public/uploads/houaiss-install.png)
 
 A estrutura de diretórios interna da instalação é bem simples:
 
@@ -59,7 +59,7 @@ Se analisarmos o conteúdo dos arquivos dentro da pasta Dicionario vamos descobr
 
 
 
-[![Saída dos arquivos do dicionário](http://www.caloni.com.br/blog/wp-content/uploads/cmd.gif)](http://www.caloni.com.br/blog/wp-content/uploads/cmd.gif)
+[![Saída dos arquivos do dicionário](../public/uploads/cmd.gif)](../public/uploads/cmd.gif)
 
 
 

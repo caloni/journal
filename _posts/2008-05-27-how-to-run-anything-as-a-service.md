@@ -53,4 +53,4 @@ As would say my friend [Thiago](http://codebehind.wordpress.com/), "not good".
 
 Now, when we start Msvcmon service, the process cmd.exe will be create, that on the other hand will run the msvcmon.exe target process. Cmd in this case will only wait for its imminent death.
 
-[![MsvcMon Service](http://www.caloni.com.br/blog/wp-content/uploads/msvcmon-service.png)](http://www.caloni.com.br/blog/wp-content/uploads/msvcmon-service.png)
+[![MsvcMon Service](../public/uploads/msvcmon-service.png)](../public/uploads/msvcmon-service.png)

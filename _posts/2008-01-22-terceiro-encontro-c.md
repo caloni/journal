@@ -58,7 +58,7 @@ Para quem se interessou pelo tema e pretende estudar um pouco mais sobre as novi
 
 O foco principal desse tema foi dividido entre a interface, óbvia, para suportar programas _multithreading_ em C++, incluindo abstrações de sincronismo e variáveis de condição, e a mudança significativa no padrão para definir um modelo de memória consistente com programas _multithreading_, a grande vantagem dessa biblioteca ter sido votada, pois tendo as bases para o que eles estão chamando de "execução consistente", a interface é mera conseqüência.
 
-Durante a apresentação foi mostrado um exemplo de uso das classes thread e mutex. O código foi melhorado (mas não completado), e está disponível para [download aqui](http://www.caloni.com.br/blog/wp-content/uploads/stdthreads.7z), juntamente com a apresentação (em formato OpenOffice).
+Durante a apresentação foi mostrado um exemplo de uso das classes thread e mutex. O código foi melhorado (mas não completado), e está disponível para [download aqui](../public/uploads/stdthreads.7z), juntamente com a apresentação (em formato OpenOffice).
 
 Ao final da palestra, fiquei devendo os links. Bem, aqui estão eles:
 

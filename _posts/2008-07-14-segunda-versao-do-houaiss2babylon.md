@@ -16,7 +16,7 @@ Depois de [vários comentários](http://www.caloni.com.br/blog/archives/converso
 
 Agora a maioria dos erros que houver será descrita por uma mensagem no seguinte formato:
 
-![houaiss2babylonerror.PNG](http://www.caloni.com.br/blog/wp-content/uploads/houaiss2babylonerror.PNG)
+![houaiss2babylonerror.PNG](../public/uploads/houaiss2babylonerror.PNG)
 
 O primeiro erro acima ocorre principalmente se não houver algum Houaiss instalado que o programa possa detectar. Resolva este problema [fazendo uma busca no Buscapé](http://compare.buscape.com.br/categoria?id=30&lkout=1&kw=Dicionario+Houaiss&site_origem=1293522).
 

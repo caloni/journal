@@ -13,7 +13,7 @@ tags:
 - windows
 ---
 
-[![Windows 2000 Logo](http://www.caloni.com.br/blog/wp-content/uploads/win2k-logo.png)](http://en.wikipedia.org/wiki/Windows_2000)**Windows 2000**
+[![Windows 2000 Logo](../public/uploads/win2k-logo.png)](http://en.wikipedia.org/wiki/Windows_2000)**Windows 2000**
 
 Em novembro de 1998 (apenas para parceiros Microsoft) é lançada a versão 5.0 do Windows NT, conhecida como Windows 2000. Melhorias significativas foram feitas no acesso à internet, intranet e extranet. Aplicações de gerenciamento se integram fortemente e a grande novidade em termos de estruturação de dados é o Active Directory, uma tecnologia compatível com o conceito de _Distributed File System_, que viabiliza uma nova forma das empresas organizarem seus dados de maneira mais transparente à rede.
 
@@ -27,7 +27,7 @@ Vamos aproveitar que a versão NT foi melhorada para dar uma recapitulada geral 
 
 A ilustração abaixo divide os módulos que fazem parte do sistema operacional. É importante sempre ter essa imagem indelével em nossa mente para entender como as coisas funcionam.
 
-[![Windows Architecture](http://www.caloni.com.br/blog/wp-content/uploads/windows-architecture.png)](http://en.wikipedia.org/wiki/Image:Windows_2000_architecture.svg)
+[![Windows Architecture](../public/uploads/windows-architecture.png)](http://en.wikipedia.org/wiki/Image:Windows_2000_architecture.svg)
 
 É importante notar que essa distribuição já existia desde a primeira versão do NT, sendo que apenas alguns itens foram adicionados (como o Gerenciador de _Plug & Play_ e o Gerenciador de Energia).
 

@@ -28,7 +28,7 @@ No entanto, não entremos em mais detalhes financeiros. Os detalhes técnicos s�
 #### Segundo passo: instalar (agora sim!)
 
 
-![newvm.PNG](http://www.caloni.com.br/blog/wp-content/uploads/newvm.PNG)
+![newvm.PNG](../public/uploads/newvm.PNG)
 
 A instalação é simples e indolor, sendo constituída de cinco ou seis botões de _next_. O resto, e mais importante, é a instalação de um sistema operacional dentro de sua primeira máquina virtual. Outro assistente existe nessa fase para guiá-lo através de suas escolhas que irão configurar sua futura máquina.
 
@@ -52,7 +52,7 @@ Os HDs que criamos para nossas VMs são arquivos lógicos localizados em nosso H
 
 Se você dispõe do CD de instalação de um sistema operacional, por exemplo, Windows XP, basta inseri-lo no CD virtual de sua VM. Ela aceita também imagens ISO, se for o caso. Lembre-se apenas que ele terá que ser "bootável", do contrário é necessário um disquete de _boot_.
 
-![vmdevices.PNG](http://www.caloni.com.br/blog/wp-content/uploads/vmdevices.PNG)
+![vmdevices.PNG](../public/uploads/vmdevices.PNG)
 
 
 <blockquote>Um pouco sobre BIOS</blockquote>
@@ -65,7 +65,7 @@ Se você dispõe do CD de instalação de um sistema operacional, por exemplo, W
 
 A instalação do sistema operacional segue os mesmos passos que a instalação do sistema operacional de qualquer máquina de verdade.
 
-[![xpinstall.PNG](http://www.caloni.com.br/blog/wp-content/uploads/xpinstall.PNG)](http://www.caloni.com.br/blog/wp-content/uploads/xpinstall.PNG)
+[![xpinstall.PNG](../public/uploads/xpinstall.PNG)](../public/uploads/xpinstall.PNG)
 
 
 <blockquote>As teclas mágicas
@@ -79,7 +79,7 @@ A instalação do sistema operacional segue os mesmos passos que a instalação 
 
 Após feita a instalação, você terá um sistema operacional rodando dentro de um sistema operacional. Isso não é legal?
 
-[![xpvm.PNG](http://www.caloni.com.br/blog/wp-content/uploads/xpvm.PNG)](http://www.caloni.com.br/blog/wp-content/uploads/xpvm.PNG)
+[![xpvm.PNG](../public/uploads/xpvm.PNG)](../public/uploads/xpvm.PNG)
 
 
 <blockquote>_Snapshots_

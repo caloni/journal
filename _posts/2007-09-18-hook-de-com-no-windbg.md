@@ -19,7 +19,7 @@ Antes de começar, se você não sabe nada sobre COM, não deveria estar aqui, m
 
 Pra começar, vamos dar uma olhada na representação da interface IUnknown em UML e em memória:
 
-[![Layout da VTable](http://www.caloni.com.br/blog/wp-content/uploads/vtable_layout.png)](http://www.caloni.com.br/blog/wp-content/uploads/vtable_layout.png)
+[![Layout da VTable](../public/uploads/vtable_layout.png)](../public/uploads/vtable_layout.png)
 
 Como podemos ver, para implementar o polimorfismo, os endereços das funções virtuais de uma classe são colocados em uma tabela, a chamada _vtable_, famosa tanto no COM quanto no C++. Existe uma tabela para cada classe-base polimórfica, e não para cada objeto. Se fosse para cada objeto não faria sentido deixar esses endereços "do lado de fora" do leiaute. E não seria nada simples e elegante fazer uma cópia desse objeto.
 
@@ -27,7 +27,7 @@ Assim, quando você chama uma função virtual de um objeto, o código em _assem
 
 Sabendo de tudo isso, agora sabemos como teoricamente proceder para colocar uns _breakpoints_ nessas chamadas:
 
-[![Breakpoints na VTable](http://www.caloni.com.br/blog/wp-content/uploads/vtable_breakpoints.png)](http://www.caloni.com.br/blog/wp-content/uploads/vtable_breakpoints.png)
+[![Breakpoints na VTable](../public/uploads/vtable_breakpoints.png)](../public/uploads/vtable_breakpoints.png)
 
 Note que o _breakpoint_ não é colocado dentro da tabela, o que seria absurdo. Uma tabela são dados e dados geralmente não são executados (eu disse geralmente). Porém, usamos a tabela para saber onde está o começo da função para daí colocar a parada nesse endereço, que por fazer parte do código da função é (quem diria!) executado.
 

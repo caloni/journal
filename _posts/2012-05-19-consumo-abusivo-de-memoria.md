@@ -93,15 +93,15 @@ int main(int argc, char* argv[]) // No princípio havia a pilha, quando Deus dis
 
 Se olharmos de perto o processamento e a memória consumida por esse processo, veremos que no início existe um boom de ambos, mas após um momento de pico, o processamento praticamente pára, mas a memória se mantém:
 
-[![](http://www.caloni.com.br/blog/wp-content/uploads/MemoryGraph.png)](http://www.caloni.com.br/blog/wp-content/uploads/MemoryGraph.png)
+[![](../public/uploads/MemoryGraph.png)](../public/uploads/MemoryGraph.png)
 
 Depois de pesquisar [por meus tweets favoritos](https://twitter.com/#!/caloni/status/138632431765954560), fica fácil ter a receita para verificarmos isso usando nosso depurador favorito: <del>Visual Studio</del> WinDbg!
 
-[![](http://www.caloni.com.br/blog/wp-content/uploads/TweetHeap.png)](http://www.caloni.com.br/blog/wp-content/uploads/TweetHeap.png)
+[![](../public/uploads/TweetHeap.png)](../public/uploads/TweetHeap.png)
 
 windbg -pn MemoryConsumption.exe
 
-[![](http://www.caloni.com.br/blog/wp-content/uploads/MemorySummary.png)](http://www.caloni.com.br/blog/wp-content/uploads/MemorySummary.png)
+[![](../public/uploads/MemorySummary.png)](../public/uploads/MemorySummary.png)
 
 Achamos onde está a memória consumida. Agora precisamos de dicas do que pode estar consumindo essa memória. Vamos começar por listar os chunks alocados por tamanho de alocação:
 
@@ -151,7 +151,7 @@ O Top 3 é de tamanhos conhecidos pelo código, de 1024 a 1024 + QUEUES_SIZE - 
 
 A listagem do depurador nos dá o endereço onde o chunk foi alocado no heap e o endereço devolvido para o usuário, onde colocamos nossas tralhas. Através de ambos é possível trackear a pilha da chamada que alocou cada pedaço de memória. Isso, claro, se previamente tivermos habilitado essa informação através do [GFlags](http://msdn.microsoft.com/en-us/library/windows/hardware/ff549596(v=vs.85).aspx):
 
-[![](http://www.caloni.com.br/blog/wp-content/uploads/GFlagsMemoryStack.png)](http://www.caloni.com.br/blog/wp-content/uploads/GFlagsMemoryStack.png)
+[![](../public/uploads/GFlagsMemoryStack.png)](../public/uploads/GFlagsMemoryStack.png)
 
 
     

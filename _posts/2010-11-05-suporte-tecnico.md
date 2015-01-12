@@ -13,7 +13,7 @@ categories:
 
 Máquina com parte do registro corrompida, notadamente alguma sub-chave de HKEY_CLASSES_ROOT. Resultado: ao rodar um script que abre uma segunda janela e tenta usar seu método focus é exibida a seguinte mensagem:
 
-![Erro de automação?](http://www.caloni.com.br/blog/wp-content/uploads/automation-error-msg.png)
+![Erro de automação?](../public/uploads/automation-error-msg.png)
 _"<Mensagem do cliente> - A classe não dá suporte para automação"_
 Abaixo um exemplo simples para ter uma ideia em JS:
 
@@ -71,7 +71,7 @@ Partindo disso, imaginei que o que ocorria era que havia algo faltando no regist
   * Importei ambos os registros no esquema "apaga tudo cria tudo de novo".
 
 
-![Exportando e importando registro](http://www.caloni.com.br/blog/wp-content/uploads/regedit-import-export.png)
+![Exportando e importando registro](../public/uploads/regedit-import-export.png)
 
 Problema reproduzido.
 
@@ -102,7 +102,7 @@ Foi esse o procedimento seguido:
   6. Se não deu erro, testar os passos 3 e 4 com a outra metade.
 
 
-![Snapshots da VMWare](http://www.caloni.com.br/blog/wp-content/uploads/snapshots-regedit-vmware.png)
+![Snapshots da VMWare](../public/uploads/snapshots-regedit-vmware.png)
 
 Essa série de passos foi reproduzida em menos de uma hora até chegarmos a apenas uma linha no registro:
 

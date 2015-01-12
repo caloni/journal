@@ -47,7 +47,7 @@ Esse é um detalhe que pode passar despercebido da maioria da população Borlan
 	
   8. Em Remote Host especifique o nome ou o IP da máquina remota.
 
-[![Builder Remote Debugger](http://www.caloni.com.br/blog/wp-content/uploads/builder-remote-debug.png)](http://www.caloni.com.br/blog/wp-content/uploads/builder-remote-debug.png)
+[![Builder Remote Debugger](../public/uploads/builder-remote-debug.png)](../public/uploads/builder-remote-debug.png)
 	
   9. Execute o aplicativo através do Builder (certifique-se que o cliente do Builder está rodando na máquina remota).
 

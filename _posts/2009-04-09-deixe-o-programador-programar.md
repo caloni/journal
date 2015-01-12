@@ -10,11 +10,11 @@ categories:
 - Devaneando
 ---
 
-![O Tempo Voa](http://www.caloni.com.br/blog/wp-content/uploads/o-tempo-voa.png) Seis meses se passaram desde que defini o cronograma para um projeto importante (mas não urgente) que deveria ser entregue cinco meses atrás. O tempo em dias que estimei na época não havia mudado nada, mas uma [série de desventuras](http://www.imdb.com/title/tt0339291/) (tarefas brotando do chão e umas férias bem merecidas) fizeram com que quase nenhuma linha de código tivesse sido produzida para aquele projeto. No entanto, tenho a consciência tranquila, já que estou em uma de minhas fases mais produtivas e inovadoras.
+![O Tempo Voa](../public/uploads/o-tempo-voa.png) Seis meses se passaram desde que defini o cronograma para um projeto importante (mas não urgente) que deveria ser entregue cinco meses atrás. O tempo em dias que estimei na época não havia mudado nada, mas uma [série de desventuras](http://www.imdb.com/title/tt0339291/) (tarefas brotando do chão e umas férias bem merecidas) fizeram com que quase nenhuma linha de código tivesse sido produzida para aquele projeto. No entanto, tenho a consciência tranquila, já que estou em uma de minhas fases mais produtivas e inovadoras.
 
 Então eis que surge na porta do templo sagrado (a sala de desenvolvimento) um dos mortais que costuma acreditar que "dirige" seus funcionários. Vira-se para mim e "define" que esse projeto não poderá passar desse mês. E todas aquelas tarefas urgentes que estavam furando a fila de prioridades, como a última da semana passada, devem ser postergadas. É lógico que nada disso foi surpresa, visto que outros discursos desse tipo e outras tarefas urgentes já haviam aparecido no decorrer desses seis meses; mas, enfim, esse foi o primeiro _deadline _oficialmente_ _definido.
 
-![Férias na Praia](http://www.caloni.com.br/blog/wp-content/uploads/ferias-na-praia.png) Por isso mesmo, com uma preocupação constante em minha cabeça, decido desestressar um pouco e ter um almoço bem alargado (quatro horas) em um outro bairro, em outro ambiente, com uns velhos amigos para jogar alguma conversa fora. Nada como a vida fluindo devagar para fazer esquecer detalhes menos essenciais, como trabalho e estresse no trabalho. Sou obrigado nessa hora a parafrasear o sócio mais espirituoso de nossa empresa, que coincidentemente estava presente no almoço: "mas, afinal de contas, quem foi que definiu que a vida tem que ter trabalho e estresse?".
+![Férias na Praia](../public/uploads/ferias-na-praia.png) Por isso mesmo, com uma preocupação constante em minha cabeça, decido desestressar um pouco e ter um almoço bem alargado (quatro horas) em um outro bairro, em outro ambiente, com uns velhos amigos para jogar alguma conversa fora. Nada como a vida fluindo devagar para fazer esquecer detalhes menos essenciais, como trabalho e estresse no trabalho. Sou obrigado nessa hora a parafrasear o sócio mais espirituoso de nossa empresa, que coincidentemente estava presente no almoço: "mas, afinal de contas, quem foi que definiu que a vida tem que ter trabalho e estresse?".
 
 Eu assino embaixo.
 
@@ -22,7 +22,7 @@ Porém, terminado o almoço, volto a pensar em como resolverei o impasse do cron
 
 
 
-[![Santo Expedito](http://www.caloni.com.br/blog/wp-content/uploads/santo-expedito.jpg)](http://www.caloni.com.br/blog/wp-content/uploads/santo-expedito.jpg)[![Oração do Santo Expedito](http://www.caloni.com.br/blog/wp-content/uploads/oracao-santo-expedito.jpg)](http://www.caloni.com.br/blog/wp-content/uploads/oracao-santo-expedito.jpg)
+[![Santo Expedito](../public/uploads/santo-expedito.jpg)](../public/uploads/santo-expedito.jpg)[![Oração do Santo Expedito](../public/uploads/oracao-santo-expedito.jpg)](../public/uploads/oracao-santo-expedito.jpg)
 
 
 <blockquote>_Se você está com algum PROBLEMA DE DIFÍCIL SOLUÇÃO e precisa de AJUDA URGENTE, peça esta ajuda a Santo Expedito que é o Santo dos Negócios que precisam de Pronta Solução e cuja invocação nunca é tardia. (Abaixo segue a oração ao Santo)._</blockquote>

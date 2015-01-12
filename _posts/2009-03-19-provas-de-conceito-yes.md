@@ -10,7 +10,7 @@ categories:
 - Devaneando
 ---
 
-![Cientista Feliz](http://www.caloni.com.br/blog/wp-content/uploads/cientistafeliz.png)Uma [prova de conceito](http://en.wikipedia.org/wiki/Proof_of_concept) bem feita segue todos os passos em uma **forma micro** para entender e provar como as coisas irão funcionar no código de produção: a **forma macro**.
+![Cientista Feliz](../public/uploads/cientistafeliz.png)Uma [prova de conceito](http://en.wikipedia.org/wiki/Proof_of_concept) bem feita segue todos os passos em uma **forma micro** para entender e provar como as coisas irão funcionar no código de produção: a **forma macro**.
 
 .
 

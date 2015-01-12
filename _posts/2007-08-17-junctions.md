@@ -12,7 +12,7 @@ categories:
 
 Semana passada baixei uma nova imagem para minha máquina de desenvolvimento. Esse esquema do pessoal da engenharia instalar as coisas para você facilita muito as coisas, mas existe o risco de algo ser instalado no lugar errado, que foram os casos do DDK e do SDK do Windows. Aqui no desenvolvimento, para efeito de padronização, utilizamos a seguinte estrutura de diretórios para esses dois aplicativos:
 
-[![Diretórios de bibliotecas](http://www.caloni.com.br/blog/wp-content/uploads/library-directories.png)](http://www.caloni.com.br/blog/wp-content/uploads/library-directories.png)
+[![Diretórios de bibliotecas](../public/uploads/library-directories.png)](../public/uploads/library-directories.png)
 
 Porém, por algum motivo desconhecido os instaladores da Microsoft não seguem o nosso padrão: o SDK é instalado em "**%programfiles%\Microsoft Platform SDK**" e o DDK em "**C:\WINDDK\3790.1830**". Para corrigir este pequeno ato relapso eu até poderia reinstalar ambos os aplicativos no local correto, gastanto algumas horas do dia, mas existe uma outra solução mais rápida e simpática chamada de _junction_.
 
@@ -37,7 +37,7 @@ E é isso aí. A partir de agora tanto as pastas originais quanto os _junctions_
 
 No Vista os _junctions _também funcionam para arquivos e possuem seu próprio aplicativo nativo, o **mklink.exe**. Porém, ele chama os _links_ para diretórios de _junctions_ (em português, junções) e os _links_ para arquivos de _links_ mesmo. Você pode notar uma pequena gamb.. adaptação técnica ao mudarem o nome da pasta "Documents and Settings" para "Users" (ou "Usuários", na versão em português).
 
-[![Junctions no Windows Vista](http://www.caloni.com.br/blog/wp-content/uploads/documents-and-settings-vista.png)](http://www.caloni.com.br/blog/wp-content/uploads/documents-and-settings-vista.png)
+[![Junctions no Windows Vista](../public/uploads/documents-and-settings-vista.png)](../public/uploads/documents-and-settings-vista.png)
 
 Esse _link_ é extremamente necessário para a compatibilidade daqueles aplicativos feitos às pressas que não se importam em [perguntar para o sistema](http://msdn2.microsoft.com/en-us/library/ms647814.aspx) onde está a pasta de documentos do usuário, fixando o _path_ como se ele fosse estar sempre lá.
 

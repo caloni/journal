@@ -15,7 +15,7 @@ Muitas vezes uma solução intuitiva não é exatamente o que esperamos que seja
 
 
 
-[![](http://www.caloni.com.br/blog/wp-content/uploads/TimeTravel.jpg)](http://www.caloni.com.br/blog/wp-content/uploads/TimeTravel.jpg)
+[![](../public/uploads/TimeTravel.jpg)](../public/uploads/TimeTravel.jpg)
 
 
 

@@ -82,7 +82,7 @@ int main()
 
 
 
-[![oncrash.png](http://www.caloni.com.br/blog/wp-content/uploads/oncrash.png)](http://www.caloni.com.br/blog/wp-content/uploads/finddump.htm)
+[![oncrash.png](../public/uploads/oncrash.png)](../public/uploads/finddump.htm)
 
 
 

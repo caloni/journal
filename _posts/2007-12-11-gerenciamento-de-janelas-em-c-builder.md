@@ -91,11 +91,11 @@ Pronto! Agora você decide onde termina e onde acaba sua aplicação.
 
 
 
-[![C++ Builder Forms](http://www.caloni.com.br/blog/wp-content/uploads/cppbuilder-forms.png)](http://www.caloni.com.br/blog/wp-content/uploads/cppbuilder-forms.png)
+[![C++ Builder Forms](../public/uploads/cppbuilder-forms.png)](../public/uploads/cppbuilder-forms.png)
 
 Se dermos uma olhada bem de perto no que acontece por dentro de um aplicativo que usa a VCL descobriremos que o método Run de Application nada mais é que o _loop_ de mensagens que [já conhecemos](http://www.caloni.com.br/blog/archives/historia-do-windows-parte-30).
 
-Para analisarmos melhor o que ocorre nos _internals_ da coisa, criei um [projeto simplista](http://www.caloni.com.br/blog/wp-content/uploads/cppbuilder-forms.7z) que possui dois _forms_, ambos com quatro botões: 1) mostrar o outro _form_, 2) esconder a si mesmo, 3) fechar a si mesmo e 4) terminar aplicação. Os dois formulários são tão parecidos que desconfio que sejam gêmeos.
+Para analisarmos melhor o que ocorre nos _internals_ da coisa, criei um [projeto simplista](../public/uploads/cppbuilder-forms.7z) que possui dois _forms_, ambos com quatro botões: 1) mostrar o outro _form_, 2) esconder a si mesmo, 3) fechar a si mesmo e 4) terminar aplicação. Os dois formulários são tão parecidos que desconfio que sejam gêmeos.
 
 Além disso, iremos precisar do nosso velho e fiel amigo WinDbg, o que o trás de volta à cena do crime depois de alguns artigos de jejum.
 
@@ -229,9 +229,9 @@ _Normalmente esses dois rodando juntos podem causar alguns conflitos internos. P
 
 
 
-[![Spy++ Window Search](http://www.caloni.com.br/blog/wp-content/uploads/spyxx-window-search.png)](http://www.caloni.com.br/blog/wp-content/uploads/spyxx-window-search.png)
+[![Spy++ Window Search](../public/uploads/spyxx-window-search.png)](../public/uploads/spyxx-window-search.png)
 
-[![Spy++ Window Search Result](http://www.caloni.com.br/blog/wp-content/uploads/spyxx-window-search-result.png)](http://www.caloni.com.br/blog/wp-content/uploads/spyxx-window-search-result.png)
+[![Spy++ Window Search Result](../public/uploads/spyxx-window-search-result.png)](../public/uploads/spyxx-window-search-result.png)
 
 Como podemos ver, nesse caso a janela encontrada foi justamente a que não aparece: TApplication! Sim, a classe principal da VCL é representada em _runtime_ por uma janela escondida, que controla algumas mensagens específicas da aplicação.
 

@@ -19,7 +19,7 @@ O Visual Studio é uma ótima ferramenta para depurar rapidamente programas send
 
 Vamos supor que você crie seu super-projeto ZeroMQ e no meio dele acabe evoluindo uma nova forma de vida inútil e descartável, que aqui iremos chamar de HeaderInutil e seu fiel companheiro CppInutil:
 
-[![](http://www.caloni.com.br/blog/wp-content/uploads/header-inutil.png)](http://www.caloni.com.br/blog/wp-content/uploads/header-inutil.png)
+[![](../public/uploads/header-inutil.png)](../public/uploads/header-inutil.png)
 
 OK. Ele não está fazendo nada, mas e daí? Compilo meu projeto normalmente e depuro ele como se nada estivesse acontecendo.
 
@@ -60,7 +60,7 @@ Mas o que acontece se eu precisar no momento do refactory (**que deve, sim, exis
 
 Continuo compilando normalmente o projeto, mas na hora de depurar...
 
-[![](http://www.caloni.com.br/blog/wp-content/uploads/header-inutil2.png)](http://www.caloni.com.br/blog/wp-content/uploads/header-inutil2.png)
+[![](../public/uploads/header-inutil2.png)](../public/uploads/header-inutil2.png)
 
 Mas o que ocorre? Eu acabei de compilar o projeto! E se eu compilar novamente e pressionar F5, ele continua apresentando o mesmo problema!
 
@@ -76,12 +76,12 @@ O que pode ser feito nesse caso (além do que os personagens de The Walking Dead
 </switches>
 </system.diagnostics>
 
-[![](http://www.caloni.com.br/blog/wp-content/uploads/header-inutil3.png)](http://www.caloni.com.br/blog/wp-content/uploads/header-inutil3.png)
+[![](../public/uploads/header-inutil3.png)](../public/uploads/header-inutil3.png)
 
 Depois de modificar o arquivo, reinicie o Visual Studio e tente novamente apertar F5 no mesmo projeto, **mas com o [DebugView ](http://technet.microsoft.com/en-us/sysinternals/bb896647)aberto**.
 
 
-[![](http://www.caloni.com.br/blog/wp-content/uploads/header-inutil4.png)](http://www.caloni.com.br/blog/wp-content/uploads/header-inutil4.png)
+[![](../public/uploads/header-inutil4.png)](../public/uploads/header-inutil4.png)
 
 
 Como um amigo meu diria: "**AHÁ!!**". Descobrimos o culpado.

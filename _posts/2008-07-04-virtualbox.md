@@ -10,7 +10,7 @@ categories:
 - Testes
 ---
 
-[![virtualbox_about_screen.png](http://www.caloni.com.br/blog/wp-content/uploads/virtualbox_about_screen.png)](http://en.wikipedia.org/wiki/VirtualBox)O [VirtualBox](http://www.virtualbox.org) parece ser o concorrente mais próximo atualmente da [VMWare](http://www.vmware.com). Descobrimos ele essa semana e resolvemos fazer alguns testes. O resultado foi bem animador.
+[![virtualbox_about_screen.png](../public/uploads/virtualbox_about_screen.png)](http://en.wikipedia.org/wiki/VirtualBox)O [VirtualBox](http://www.virtualbox.org) parece ser o concorrente mais próximo atualmente da [VMWare](http://www.vmware.com). Descobrimos ele essa semana e resolvemos fazer alguns testes. O resultado foi bem animador.
 
 Desenvolvido pela Sun Microsystems, as características do VirtualBox impressionam pelo cuidado que houve em torná-lo muito parecido com sua concorrente paga. Apenas para começar, ela suporta dispositivos USB, possui múltiplos snapshots e já suporta o modo do [VMWare Fusion](www.vmware.com/download/fusion) - chamado de _"seamless mode_" - , que estará integrado na versão 7 da VMWare.
 

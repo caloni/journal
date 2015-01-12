@@ -58,4 +58,4 @@ E o melhor de tudo: não há segredo. Tudo que precisa fazer é instalar o Bazaa
     C:\Projetos\caloni>bzr qlog
 
 
-[![](http://www.caloni.com.br/blog/wp-content/uploads/bazaar-subversion.png)](http://www.caloni.com.br/blog/wp-content/uploads/bazaar-subversion.png)
+[![](../public/uploads/bazaar-subversion.png)](../public/uploads/bazaar-subversion.png)

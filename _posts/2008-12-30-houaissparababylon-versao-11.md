@@ -12,7 +12,7 @@ tags:
 - houaiss2babylon
 ---
 
-![HouaissParaBabylon versão 1.1](http://www.caloni.com.br/blog/wp-content/uploads/houaissparababylon-v11.png) Saindo mais um do forno.
+![HouaissParaBabylon versão 1.1](../public/uploads/houaissparababylon-v11.png) Saindo mais um do forno.
 
 Essa nova versão do conversor do dicionário Houaiss para Babylon corrige o problema de não encontrar o **Houaiss 1.0**. O problema ocorria porque o conversor se baseava na localização do **desinstalador** para encontrar o dicionário. Na primeira versão do dicionário o desinstalador fica na pasta c:\Windows, onde obviamente não estava o dicionário.
 
@@ -21,7 +21,7 @@ Nessa nova versão, além de procurar o caminho do dicionário no registro (desi
 
 
 	
-  *  [Download da nova versão](http://www.caloni.com.br/blog/wp-content/uploads/houaissparababylon-v11.zip)
+  *  [Download da nova versão](../public/uploads/houaissparababylon-v11.zip)
 
 
 

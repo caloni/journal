@@ -20,11 +20,11 @@ Desde uns tempos para cá o Visual Studio tem se tornado uma das ferramentas mai
 
 O problema é ter que "andar" do diretório padrão de início até a pasta onde está o código-fonte que desejo compilar. Porém, isso é facilmente resolvido com uma linha (no registro):
 
-[![Shell Folder Command](http://www.caloni.com.br/blog/wp-content/uploads/shel-folder-command.png)](http://www.caloni.com.br/blog/wp-content/uploads/shel-folder-command.png)
+[![Shell Folder Command](../public/uploads/shel-folder-command.png)](../public/uploads/shel-folder-command.png)
 
 A partir daí, o comando "Console" existe no menu de contexto de qualquer pasta que clicarmos no Windows Explorer.
 
-[![Shell Context Menu](http://www.caloni.com.br/blog/wp-content/uploads/shell-context-menu.png)](http://www.caloni.com.br/blog/wp-content/uploads/shell-context-menu.png)
+[![Shell Context Menu](../public/uploads/shell-context-menu.png)](../public/uploads/shell-context-menu.png)
 
 Note que é possível criar outros comandos, como é o meu caso, onde preciso de vez em quando compilar utilizando o Visual Studio 2005 (o comando Console) e o Visual Studio 2003 (o comando VS2003). Ao escolher a opção, um _prompt_ de comando é aberto com o ambiente de compilação montado e (adivinhe) com a pasta padrão sendo a que foi clicada no explorer.
 
@@ -73,6 +73,6 @@ Porém, se você prefere algo mais amigável, mais ainda que o [WinDbg](http://w
 
 Daí não tem jeito: você economiza no _start_, mas o Visual Studio vai acabar subindo. Ou um ou outro.
 
-[![VSJitDebugger](http://www.caloni.com.br/blog/wp-content/uploads/vsjitdebugger.png)](http://www.caloni.com.br/blog/wp-content/uploads/vsjitdebugger.png)
+[![VSJitDebugger](../public/uploads/vsjitdebugger.png)](../public/uploads/vsjitdebugger.png)
 
 Por isso eu recomendo aprender a usar o WinDbg ou até o NTSD. Quer dizer, é muito melhor do que esperar por uma versão mais _light_ do Visual Studio no próximo ano.

@@ -42,11 +42,11 @@ Vou explicar aqui os principais passos para começar a utilizar um controle de c
 
 Antes de qualquer coisa é necessário criar uma base de dados onde estarão os fontes. Para isso a primeira execução do programa irá exibir um assistente que irá guiá-lo pelos poucos e simples passos para a criação de uma nova base.
 
-[![VSS criando base](http://www.caloni.com.br/blog/wp-content/uploads/vss-create.png)](http://www.caloni.com.br/blog/wp-content/uploads/vss-create.png)
+[![VSS criando base](../public/uploads/vss-create.png)](../public/uploads/vss-create.png)
 
 O processo é bem simples, baseado em _Next, Next_, até que você chega em momento de decisão, onde deve escolher qual dos dois métodos de controle de fonte irá utilizar:
 
-[![Controle de fonte](http://www.caloni.com.br/blog/wp-content/uploads/vss-control.png)](http://www.caloni.com.br/blog/wp-content/uploads/vss-control.png)
+[![Controle de fonte](../public/uploads/vss-control.png)](../public/uploads/vss-control.png)
 
 
 
@@ -72,7 +72,7 @@ Após esse processo de integração, os usuários podem começar a usar o Source
 
 Antes de começar a mexer nos fontes, o Source Safe pede que você defina um diretório raiz onde começa a ramificação de pastas dos seus fontes. Isso pode ser feito pela opção File, Set Working Folder (Ctrl + D). A partir daí, cada pasta é chamada de projeto (_project_) no Source Safe. Para criar novos projetos/pastas, use a opção "File, Create Project". Para adicionar novos arquivos, "File, Add Files". Cada usuário pode definir seu próprio diretório de trabalho por máquina, mas geralmente é uma boa idéia mantê-los todos utilizando a mesma pasta.
 
-[![Working folder](http://www.caloni.com.br/blog/wp-content/uploads/vss-working-folder.png)](http://www.caloni.com.br/blog/wp-content/uploads/vss-working-folder.png)
+[![Working folder](../public/uploads/vss-working-folder.png)](../public/uploads/vss-working-folder.png)
 
 
 #### Quarto passo: check-IN, check-OUT
@@ -80,9 +80,9 @@ Antes de começar a mexer nos fontes, o Source Safe pede que você defina um dir
 
 Após adicionar os arquivos do projeto, é possível fazer modificações usando a opção _check-out_. O _check-out_ quer dizer que os fontes **saem (OUT)** da base e são copiados com direito de escrita para seu disco local. Após feitas as modificações, usa-se a opção _check-in_ para subir as modificações para o banco. O _check-in_ quer dizer que as modificações feitas no disco local **entram (IN)** na base. Cada operação feita com esses dois passos é armazenada no histórico do Source Safe, e podem ser utilizadas para voltar versões antigas, comparar versões antigas novas, etc.
 
-[![Check-out](http://www.caloni.com.br/blog/wp-content/uploads/vss-check-out.png)](http://www.caloni.com.br/blog/wp-content/uploads/vss-check-out.png)
+[![Check-out](../public/uploads/vss-check-out.png)](../public/uploads/vss-check-out.png)
 
-[![Check-in](http://www.caloni.com.br/blog/wp-content/uploads/vss-check-in.png)](http://www.caloni.com.br/blog/wp-content/uploads/vss-check-in.png)
+[![Check-in](../public/uploads/vss-check-in.png)](../public/uploads/vss-check-in.png)
 
 
 #### Quinto passo: crie seus labels
@@ -90,9 +90,9 @@ Após adicionar os arquivos do projeto, é possível fazer modificações usando
 
 Quando todos os fontes que subirem constituirem uma **alteração madura**, compilável, testada pelo desenvolvedor e pronta para ser repassada para os testadores, deve-se criar um rótulo, ou _label_, para que futuramente essa versão possa ser facilmente identificada entre os milhões de modificações de fonte que sua equipe irá fazer ao longo do tempo. Se essa versão se tornar uma "entregável", pode-se utilizar o rótulo para obter exatamente a versão entregue a qualquer momento, independente de quantas modificações terem sido feitas depois. Essa marcação de fontes pode ser muito útil na ocorrência de incêndios, e todos sabemos que eles ocorrem com mais freqüência do que gostaríamos. Por isso é importante estar preparado.
 
-[![Label](http://www.caloni.com.br/blog/wp-content/uploads/vss-label.png)](http://www.caloni.com.br/blog/wp-content/uploads/vss-label.png)
+[![Label](../public/uploads/vss-label.png)](../public/uploads/vss-label.png)
 
-[![History](http://www.caloni.com.br/blog/wp-content/uploads/vss-history.png)](http://www.caloni.com.br/blog/wp-content/uploads/vss-history.png)
+[![History](../public/uploads/vss-history.png)](../public/uploads/vss-history.png)
 
 
 #### Sexto passo: valorize seu controle de fonte!

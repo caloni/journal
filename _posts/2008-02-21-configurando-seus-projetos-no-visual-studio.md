@@ -22,15 +22,15 @@ Porém, seus "poroberemas se acabaram-se". Com o inovador configurador de projet
 
 Inicialmente, se compilarmos um programa em Debug no Visual Studio 2005 teremos as seguintes dependências:
 
-[![Dependências do Hello, World](http://www.caloni.com.br/blog/wp-content/uploads/hello-world-depends.png)](http://www.caloni.com.br/blog/wp-content/uploads/hello-world-depends.png)
+[![Dependências do Hello, World](../public/uploads/hello-world-depends.png)](../public/uploads/hello-world-depends.png)
 
 A DLL **kernel32** é nativa e sempre estará presente no Windows. Porém, a **msvcr80d** não. Ela veio junto com o pacote do Visual Studio, e se não for distribuída em outras máquinas, você não conseguirá rodar seu programa, pois isso gerará o seguinte erro:
 
-[![Erro de dependência por causa da DLL do Visual Studio](http://www.caloni.com.br/blog/wp-content/uploads/hello-world-error-depends.png)](http://www.caloni.com.br/blog/wp-content/uploads/hello-world-error-depends.png)
+[![Erro de dependência por causa da DLL do Visual Studio](../public/uploads/hello-world-error-depends.png)](../public/uploads/hello-world-error-depends.png)
 
 Bem, para resolver isso, a partir da IDE, temos que ir em Project, Properties, Configuration Properties, C/C++, Code Generation, Runtime Library.
 
-[![Code Generation](http://www.caloni.com.br/blog/wp-content/uploads/vs-code-generation.png)](http://www.caloni.com.br/blog/wp-content/uploads/vs-code-generation.png)
+[![Code Generation](../public/uploads/vs-code-generation.png)](../public/uploads/vs-code-generation.png)
 
 Existem atualmente quatro tipos de _runtime_ que você pode escolher:
 
@@ -58,11 +58,11 @@ Note que, por padrão, existem dois tipos de configuração em seu projeto: Debu
 
 Pois bem. Para tirar a dependência da maldita DLL, tudo que temos que fazer é alterar a configuração, nesse caso Debug, de /MDd para /MTd. E recompilar.
 
-[![Dependências do Hello, World - parte 2](http://www.caloni.com.br/blog/wp-content/uploads/hello-world-depends2.png)](http://www.caloni.com.br/blog/wp-content/uploads/hello-world-depends2.png)
+[![Dependências do Hello, World - parte 2](../public/uploads/hello-world-depends2.png)](../public/uploads/hello-world-depends2.png)
 
 E testar.
 
-[![Execução do Hello World com sucesso, sem dependências.](http://www.caloni.com.br/blog/wp-content/uploads/hello-world-success.png)](http://www.caloni.com.br/blog/wp-content/uploads/hello-world-success.png)
+[![Execução do Hello World com sucesso, sem dependências.](../public/uploads/hello-world-success.png)](../public/uploads/hello-world-success.png)
 
 
 #### Problemas com manifesto
@@ -70,7 +70,7 @@ E testar.
 
 Além da dependência de DLLs, alguns casos especiais vão chiar por causa dos dados do manifesto embutidos no programa compilado. Por algum motivo que eu desconheço, o programa necessita que as DLLs estejam instaladas mesmo que no Dependency Walker não mostre nada. Nesses casos, uma arrancada do manifesto na versão Debug não fará mal algum.
 
-[![Manifesto Settings](http://www.caloni.com.br/blog/wp-content/uploads/manifesto-settings.png)](http://www.caloni.com.br/blog/wp-content/uploads/manifesto-settings.png)
+[![Manifesto Settings](../public/uploads/manifesto-settings.png)](../public/uploads/manifesto-settings.png)
 
 
 #### Mais problemas?

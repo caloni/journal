@@ -121,7 +121,7 @@ int main()
 ```
 
 
-![jurassicpark.PNG](http://www.caloni.com.br/blog/wp-content/uploads/jurassicpark.PNG)
+![jurassicpark.PNG](../public/uploads/jurassicpark.PNG)
 
 
 

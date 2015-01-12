@@ -32,13 +32,13 @@ Porém, ainda utilizo o Google Reader por uma série de motivos:
   * Posso organizar os feeds por categorias.
 
 
-[![](http://www.caloni.com.br/blog/wp-content/uploads/reorganizando-meus-feeds-de-novo-300x234.png)](http://www.caloni.com.br/blog/wp-content/uploads/reorganizando-meus-feeds-de-novo.png)
+[![](../public/uploads/reorganizando-meus-feeds-de-novo-300x234.png)](../public/uploads/reorganizando-meus-feeds-de-novo.png)
 
 Minha organização de feeds, até semana passada, usava categorias específicas (programação, cinema, economia) e tinha duas categorias no topo que organizava por frequência (diário, semanal), seguindo uma dica de um leitor do Efetividade. Porém, meu maior problema sempre fora os feeds que cospem milhares de entradas por dia, e que sempre ficava para ler no meu fim-de-semana, consumindo às vezes o dia inteiro!
 
 Por isso, para evitar ser abarrotado de notícias, mantenho a seguinte organização de categorias:
 
-[![](http://www.caloni.com.br/blog/wp-content/uploads/reorganizando-meus-feeds-de-novo2.png)](http://www.caloni.com.br/blog/wp-content/uploads/reorganizando-meus-feeds-de-novo2.png)
+[![](../public/uploads/reorganizando-meus-feeds-de-novo2.png)](../public/uploads/reorganizando-meus-feeds-de-novo2.png)
 
 
 

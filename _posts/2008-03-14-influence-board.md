@@ -10,7 +10,7 @@ categories:
 - Projetos
 ---
 
-[![Chess Board](http://www.caloni.com.br/blog/wp-content/uploads/board.png)](http://www.caloni.com.br/blog/wp-content/uploads/board.png)Há muito tempo sou enxadrista não-praticante. Acho que os anos de programação me deixaram mais viciado em codar do que pensar no xeque-mate. No entanto, sempre que posso, dou uma escapulida do Visual Studio e jogo uma partida ou duas na rede, quase sempre, é claro, tomando um piau psicológico.
+[![Chess Board](../public/uploads/board.png)](../public/uploads/board.png)Há muito tempo sou enxadrista não-praticante. Acho que os anos de programação me deixaram mais viciado em codar do que pensar no xeque-mate. No entanto, sempre que posso, dou uma escapulida do Visual Studio e jogo uma partida ou duas na rede, quase sempre, é claro, tomando um piau psicológico.
 
 A falta de prática e estudos pesa muito para um enxadrista amador, já que facilmente esquecemos das combinações mortíferas que podemos aplicar e levar. É muito difícil ter em mente aquelas três dúzias de aberturas que já são batidas (e suas variantes), ou então as regrinhas de praxe de como detonar nas finais com um cavalo e um bispo.
 
@@ -28,26 +28,26 @@ Por isso mesmo aprendi em um [livro](http://www.traca.com.br/?mod=LV180839&orige
 
 Vamos supor que a posição no tabuleiro em um dado momento seja a seguinte:
 
-[](http://www.caloni.com.br/blog/wp-content/uploads/winboard-mate.png)
+[](../public/uploads/winboard-mate.png)
 
 
-[![Winboard Mate](http://www.caloni.com.br/blog/wp-content/uploads/winboard-mate.png)](http://www.caloni.com.br/blog/wp-content/uploads/winboard-mate.png)
+[![Winboard Mate](../public/uploads/winboard-mate.png)](../public/uploads/winboard-mate.png)
 
 
 Ora, é um mate inevitável, não é? Agora imagine por um momento que você não tenha percebido isso, e precise de uma ajudinha para saber onde cada peça pode ir ou atacar no próximo lance.
 
-[](http://www.caloni.com.br/blog/wp-content/uploads/winboard-mate-influence.png)
+[](../public/uploads/winboard-mate-influence.png)
 
 
-[![Winboard Mate (com influências)](http://www.caloni.com.br/blog/wp-content/uploads/winboard-mate-influence.png)](http://www.caloni.com.br/blog/wp-content/uploads/winboard-mate-influence.png)
+[![Winboard Mate (com influências)](../public/uploads/winboard-mate-influence.png)](../public/uploads/winboard-mate-influence.png)
 
 
 Agora ficou muito mais fácil de perceber que a única saída do rei não possui nenhuma proteção, já que tanto o peão quanto o próprio rei não podem fazer muita coisa se a dama atacar a diagonal vulnerável. E ela pode fazer isso.
 
-[](http://www.caloni.com.br/blog/wp-content/uploads/winboard-mate-final.png)
+[](../public/uploads/winboard-mate-final.png)
 
 
-[![Winboard Mate Final](http://www.caloni.com.br/blog/wp-content/uploads/winboard-mate-final.png)](http://www.caloni.com.br/blog/wp-content/uploads/winboard-mate-final.png)
+[![Winboard Mate Final](../public/uploads/winboard-mate-final.png)](../public/uploads/winboard-mate-final.png)
 
 
 
@@ -62,7 +62,7 @@ Essa maneira de mostrar as influências em um tabuleiro de xadrez eu apelidei de
 #### Como usar
 
 
-Basicamente a única coisa que o futuro usuário das influências deve fazer é baixar o [projeto WinBoard](http://ftp.gnu.org/gnu/winboard/winboard-4_2_7b.exe), a versão disponível [aqui](http://www.caloni.com.br/blog/wp-content/uploads/xboard%20infboard.7z) (obs.: já contém o WinBoard completo) e compilar. Caso queira uma versão nova do programa terá que fazer o merge entre as duas versões, e por isso deixei disponívei também um [patch](http://www.caloni.com.br/blog/wp-content/uploads/infboard.7z) que instala o "_plugin_" (obs.: a versão usada foi a 2.4.7).
+Basicamente a única coisa que o futuro usuário das influências deve fazer é baixar o [projeto WinBoard](http://ftp.gnu.org/gnu/winboard/winboard-4_2_7b.exe), a versão disponível [aqui](../public/uploads/xboard%20infboard.7z) (obs.: já contém o WinBoard completo) e compilar. Caso queira uma versão nova do programa terá que fazer o merge entre as duas versões, e por isso deixei disponívei também um [patch](../public/uploads/infboard.7z) que instala o "_plugin_" (obs.: a versão usada foi a 2.4.7).
 
     
     C:\Projects\xboard infboard\winboard>nmake msvc.mak
@@ -81,12 +81,12 @@ Basicamente a única coisa que o futuro usuário das influências deve fazer é 
 
 Após compilado, basta copiar na pasta de instalação do programa, rodá-lo e habilitar a opção "Show Influence" do menu General. Voilà! É possível até jogar às cegas com esse brinquedinho (opção Blindfold).
 
-[![WinBoard Options](http://www.caloni.com.br/blog/wp-content/uploads/winboard-options3.png)](http://www.caloni.com.br/blog/wp-content/uploads/winboard-options3.png)
+[![WinBoard Options](../public/uploads/winboard-options3.png)](../public/uploads/winboard-options3.png)
 
-[](http://www.caloni.com.br/blog/wp-content/uploads/winboard-blindfold.png)
+[](../public/uploads/winboard-blindfold.png)
 
 
-[![Winboard Blindfold e Influence](http://www.caloni.com.br/blog/wp-content/uploads/winboard-blindfold.png)](http://www.caloni.com.br/blog/wp-content/uploads/winboard-blindfold.png)
+[![Winboard Blindfold e Influence](../public/uploads/winboard-blindfold.png)](../public/uploads/winboard-blindfold.png)
 
 
 Bom divertimento!

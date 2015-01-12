@@ -17,7 +17,7 @@ O [último comentário no meu último artigo](http://www.caloni.com.br/blog/arch
 
 
 	
-  * [HouaissParaBabylon](http://www.caloni.com.br/blog/wp-content/uploads/houaissparababylon12.7z)
+  * [HouaissParaBabylon](../public/uploads/houaissparababylon12.7z)
 
 
 Essa é a versão 1.2 descrita no meu [último artigo sobre o projeto](http://www.caloni.com.br/blog/archives/houaiss-para-babylon-12).

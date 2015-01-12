@@ -422,7 +422,7 @@ E, agora sim, encontramos o culpado!
 
 
 
-[![](http://www.caloni.com.br/blog/wp-content/uploads/thats-a-bingo.jpg)](http://annahinks.tumblr.com/post/176676889)
+[![](../public/uploads/thats-a-bingo.jpg)](http://annahinks.tumblr.com/post/176676889)
 
 
 

@@ -16,7 +16,7 @@ tags:
 - reports
 ---
 
-[![](http://www.caloni.com.br/blog/wp-content/uploads/tagcloud.png)](http://www.caloni.com.br/blog/wp-content/uploads/tagcloud.png)
+[![](../public/uploads/tagcloud.png)](../public/uploads/tagcloud.png)
 
 
 
@@ -44,7 +44,7 @@ Segue minha palestra e meu código-fonte sobre Move Semantics devidamente compac
 
 
 	
-  * [MoveSemantics](http://www.caloni.com.br/blog/wp-content/uploads/MoveSemantics.7z)
+  * [MoveSemantics](../public/uploads/MoveSemantics.7z)
 
 
 

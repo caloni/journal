@@ -40,13 +40,13 @@ Antigamente, as pessoas mandavam cartas umas para as outras. Carta, para você, 
 
 Para mandar um e-mail, usamos o nome da pessoa e o domínio em que seu e-mail é endereçado, ex: nome-da-pessoa@dominio.com.br. Para mandar uma carta usamos duas informações básicas: o nome da rua e o número da casa.
 
-[![Endereço de uma carta](http://www.caloni.com.br/blog/wp-content/uploads/endereco-da-carta.png)](http://www.caloni.com.br/blog/wp-content/uploads/endereco-da-carta.png)
+[![Endereço de uma carta](../public/uploads/endereco-da-carta.png)](../public/uploads/endereco-da-carta.png)
 
 Consequentemente enviamos dois comandos ao carteiro: meu amigo, vá para a rua tal. Chegando lá, encontre o número 1065.
 
 Considere que estamos falando do mesmo bairro ou cidade, o que na minha analogia seria um computador e sua memória. Para enviar cartas para outros bairros em outras cidades (outros computadores em outras redes) teríamos que informar também outros dados, como nome da cidade e CEP.
 
-[![Encontrando o caminho](http://www.caloni.com.br/blog/wp-content/uploads/getting-right-on-street.png)](http://www.caloni.com.br/blog/wp-content/uploads/getting-right-on-street.png)
+[![Encontrando o caminho](../public/uploads/getting-right-on-street.png)](../public/uploads/getting-right-on-street.png)
 
 Nesse exemplo também podemos usar o Juquinha do bairro para entregar a carta e economizarmos 10 centavos.
 
@@ -54,7 +54,7 @@ Agora, repare que interessante: em uma rua, cabem no máximo N casas. Se você t
 
 E, já que estamos falando do endereço do destinatário, já podemos relevar que esse endereço constitui um ponteiro em nossa analogia. Se você está usando dois dados para informar o endereço, então estamos falando de um ponteiro longo, long pointer, ou LP!
 
-[![Relação Segmento x Offset com Rua x Número](http://www.caloni.com.br/blog/wp-content/uploads/relacao-endereco-carta-segmento-offset.png)](http://www.caloni.com.br/blog/wp-content/uploads/relacao-endereco-carta-segmento-offset.png)
+[![Relação Segmento x Offset com Rua x Número](../public/uploads/relacao-endereco-carta-segmento-offset.png)](../public/uploads/relacao-endereco-carta-segmento-offset.png)
 
 
 #### Long Pointers
@@ -68,7 +68,7 @@ Ora, se seu destinatário está na mesma rua que você, tudo que você tem a diz
 
 Porém, no exemplo que demos, o destinatário está em outra rua. Se o Juquinha entregar a carta no número 1065, mas na rua errada, estará errando o destinatário. Por isso é que você deve usar um long pointer e falar para o Juquinha do segmento!
 
-[![Se perdendo nas ruas](http://www.caloni.com.br/blog/wp-content/uploads/getting-lost-on-streets.png)](http://www.caloni.com.br/blog/wp-content/uploads/getting-lost-on-streets.png)
+[![Se perdendo nas ruas](../public/uploads/getting-lost-on-streets.png)](../public/uploads/getting-lost-on-streets.png)
 
 "Juquinha, seu moleque safado, entrega essa carta no Segmento 0xAC89, Offset 0x496E. E vê se anda logo!"
 

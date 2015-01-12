@@ -25,7 +25,7 @@ Por outro lado, e mais importante ainda, é ela que permite que as funções sej
 
 
 
-[![cdepends.gif](http://www.caloni.com.br/blog/wp-content/uploads/cdepends.gif)](http://www.caloni.com.br/blog/wp-content/uploads/cdepends.gif)
+[![cdepends.gif](../public/uploads/cdepends.gif)](../public/uploads/cdepends.gif)
 
 Existem diversas formas de entender esses dois conceitos. Eu prefiro explicar pela mesma experiência que temos quando descobrimos a divisão _hardware/software_:
 

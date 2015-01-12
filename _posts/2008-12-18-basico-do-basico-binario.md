@@ -12,7 +12,7 @@ tags:
 - básico do básico
 ---
 
-[![Número um e zero caindo do computador.](http://www.caloni.com.br/blog/wp-content/uploads/numeros-um-e-zero-caindo-do-computador.png)](http://www.illustrationsof.com/details/clipart/8741.html)Apesar do tema binário, o assunto de hoje no fundo remete-nos a todo e qualquer tipo de **representação**. É o faz-de-conta um pouco mais intenso, vindo das profundezas da matemática e dominado com maestria pela nossa mente e sua capacidade lógica de abstrair.
+[![Número um e zero caindo do computador.](../public/uploads/numeros-um-e-zero-caindo-do-computador.png)](http://www.illustrationsof.com/details/clipart/8741.html)Apesar do tema binário, o assunto de hoje no fundo remete-nos a todo e qualquer tipo de **representação**. É o faz-de-conta um pouco mais intenso, vindo das profundezas da matemática e dominado com maestria pela nossa mente e sua capacidade lógica de abstrair.
 
 Como todos sabemos, nós, seres humanos, somos dotados de dez dedos: cinco em cada mão. Isso influenciou fortemente nosso sistema de contagem de coisas, e, como consequência, nossa forma de representar números.
 
@@ -79,7 +79,7 @@ Para nos comunicarmos com a raça alienígena que usa dois símbolos poderíamos
     ...
 
 
-[![Os bichos-preguiça possuem dois dedos!](http://www.caloni.com.br/blog/wp-content/uploads/bicho-preguica.gif)](http://www.colegiosaofrancisco.com.br/alfa/animais/bicho-preguica.php)O valor do número, como sabemos, depende de sua posição. Mas, calma lá! O 111 logo acima não é idêntico ao 111 que vimos anteriormente, pois **mudamos a base**! Agora só temos dois símbolos para representar números, quando antes tínhamos dez.
+[![Os bichos-preguiça possuem dois dedos!](../public/uploads/bicho-preguica.gif)](http://www.colegiosaofrancisco.com.br/alfa/animais/bicho-preguica.php)O valor do número, como sabemos, depende de sua posição. Mas, calma lá! O 111 logo acima não é idêntico ao 111 que vimos anteriormente, pois **mudamos a base**! Agora só temos dois símbolos para representar números, quando antes tínhamos dez.
 
 O "segredo" do valor posicional também está na base, pois o zero, apesar de não possuir valor, marca a quantidade de símbolos que foram utilizados para se esgotar uma posição qualquer. Dessa forma, enquanto o nosso conhecido 10 (dez) vale todos os símbolos não-nulos (nove) mais um (nove + um = dez), o outro 10 (um-zero) da raça alienígena de dois dedos também vale todos os símbolos deles nã-nulos (um) mais um (um + um = dois).
 

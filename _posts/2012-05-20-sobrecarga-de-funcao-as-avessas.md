@@ -10,7 +10,7 @@ categories:
 - Devaneando
 ---
 
-[![](http://www.caloni.com.br/blog/wp-content/uploads/logo.png)](http://www.caloni.com.br/blog/wp-content/uploads/logo.png)
+[![](../public/uploads/logo.png)](../public/uploads/logo.png)
 
 
 
@@ -156,4 +156,4 @@ int _tmain(int argc, _TCHAR* argv[])
 
 Voltando à pergunta original: penso que, com criatividade e C++, nada é impossível =)
 
-[![](http://www.caloni.com.br/blog/wp-content/uploads/hr.png)](http://www.caloni.com.br/blog/wp-content/uploads/hr.png)
+[![](../public/uploads/hr.png)](../public/uploads/hr.png)

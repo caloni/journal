@@ -57,11 +57,11 @@ int main()
 
 Quando chamamos func, ele lança uma exceção que é capturada no main que, por sua vez, formata uma stream e obtém sua string (através do método str) e através dessa string obtém o ponteiro da string em C puro (através do método c_str). Porém, a mensagem resultante na saída-padrão de erro não era o esperado:
 
-[![](http://www.caloni.com.br/blog/wp-content/uploads/ExceptionSStreamConsoleOutput.png)](http://www.caloni.com.br/blog/wp-content/uploads/ExceptionSStreamConsoleOutput.png)
+[![](../public/uploads/ExceptionSStreamConsoleOutput.png)](../public/uploads/ExceptionSStreamConsoleOutput.png)
 
 Depurando diretamente, vemos que a stream, de fato, contém o que esperávamos. O único elemento errante é justamente o ponteiro obtido através da chamada dupla de métodos.
 
-[![](http://www.caloni.com.br/blog/wp-content/uploads/ExceptionSStreamDebugWatch.png)](http://www.caloni.com.br/blog/wp-content/uploads/ExceptionSStreamDebugWatch.png)
+[![](../public/uploads/ExceptionSStreamDebugWatch.png)](../public/uploads/ExceptionSStreamDebugWatch.png)
 
 O porquê isso ocorre só fica óbvio quando vemos [a ajuda](http://www.cplusplus.com/reference/iostream/stringstream/str/) (ou a assinatura) da função str da classe stringstream:
 
@@ -122,7 +122,7 @@ Obviamente ele fica inválido após o fim da expressão!
 
 Vamos ver em câmera lenta:
 
-[![](http://www.caloni.com.br/blog/wp-content/uploads/ExceptionSStreamDebugWatch2.png)](http://www.caloni.com.br/blog/wp-content/uploads/ExceptionSStreamDebugWatch2.png)
+[![](../public/uploads/ExceptionSStreamDebugWatch2.png)](../public/uploads/ExceptionSStreamDebugWatch2.png)
 
 Nada como assembly fresquinho para refrescar os conceitos de C++ por baixo dos panos.
 

@@ -12,7 +12,7 @@ tags:
 - houaiss2babylon
 ---
 
-![HouaissParaBabylon 1.2](http://www.caloni.com.br/blog/wp-content/uploads/houaiss-para-babylon-v12.png) Os [últimos comentários de Henrique Esteves](http://www.caloni.com.br/blog/archives/houaissparababylon-versao-beta#comment-16846) sobre o HouaissParaBabylon me fizeram dar mais uma fuçada nele e ver se tento deixá-lo compatível com o [Houaiss 3](http://www.dicionariohouaiss.com.br/index2.asp). Foram apenas algumas horas e acho que resolvi os probleminhas relacionados com a troca do registro de instalação e o nome dos arquivos que armazenam os verbetes.
+![HouaissParaBabylon 1.2](../public/uploads/houaiss-para-babylon-v12.png) Os [últimos comentários de Henrique Esteves](http://www.caloni.com.br/blog/archives/houaissparababylon-versao-beta#comment-16846) sobre o HouaissParaBabylon me fizeram dar mais uma fuçada nele e ver se tento deixá-lo compatível com o [Houaiss 3](http://www.dicionariohouaiss.com.br/index2.asp). Foram apenas algumas horas e acho que resolvi os probleminhas relacionados com a troca do registro de instalação e o nome dos arquivos que armazenam os verbetes.
 
 
 
@@ -43,13 +43,13 @@ Isso me faz lembrar que uma das motivações do programador, fora programar, é 
 
 
 	
-  * [Download da versão 1.2](http://www.caloni.com.br/blog/wp-content/uploads/houaissparababylon12.zip)
+  * [Download da versão 1.2](../public/uploads/houaissparababylon12.zip)
 
 	
-  * [Download da versão 1.1](http://www.caloni.com.br/blog/wp-content/uploads/houaissparababylon-v11.zip)
+  * [Download da versão 1.1](../public/uploads/houaissparababylon-v11.zip)
 
 	
-  * [Download da versão 1.0](http://www.caloni.com.br/blog/wp-content/uploads/houaissparababylon.zip)
+  * [Download da versão 1.0](../public/uploads/houaissparababylon.zip)
 
 
 _Obs.: Essa versão foi testada em um Windows XP com o Houaiss 3, Babylon 8 e o Babylon Builder mais atual._
