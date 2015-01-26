@@ -1,5 +1,0 @@
- - Importar comentários do saite antigo.
- - Exibir corretamente palestras embutidas nos posts.
- - Verificar outras construções que podem não estar funcionando.
- - Redirecionar endereços dos posts antigos para os novos.
- - Redirecionar o domínio (ou a pasta do blog) para novo github (ou configurar domínio).
