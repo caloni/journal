@@ -35,3 +35,6 @@ defaults:
     values:
       layout: post
 
+exclude:
+  - posts
+
