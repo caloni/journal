@@ -16,7 +16,7 @@ Após algumas semanas de suspense, chegamos finalmente à nossa segunda e últim
 
 
 
-Como devem [estar lembrados](http://www.caloni.com.br/blog/archives/conversor-de-houaiss-para-babylon-parte-1), a primeira parte se dispôs a desmontar a ofuscação usada nos arquivos do dicionário para permitir nossa posterior análise, com o simples e justo objetivo de importá-lo para o Babylon, cujas funcionalidades de busca são bem superiores.
+Como devem [estar lembrados](http://www.caloni.com.br/blog/conversor-de-houaiss-para-babylon-parte-1), a primeira parte se dispôs a desmontar a ofuscação usada nos arquivos do dicionário para permitir nossa posterior análise, com o simples e justo objetivo de importá-lo para o Babylon, cujas funcionalidades de busca são bem superiores.
 
 Feito isso, agora nos resta entender a estrutura interna do Houaiss para montar um conversor que irá ajudar o Babylon Builder a construir nosso Houaiss-Babylon. Simples, não?
 

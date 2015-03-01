@@ -44,7 +44,7 @@ Se não for exatamente o que você precisa, basta fazer uma [pesquisa de quinze 
     exit /b %errorlevel%
 
 
-Note que meu script usa a [estrutura padronizada dos diretórios de um projeto](http://www.caloni.com.br/blog/archives/projeto-modelo), onde cada tipo de componente tem sua pasta e solução.
+Note que meu script usa a [estrutura padronizada dos diretórios de um projeto](http://www.caloni.com.br/blog/projeto-modelo), onde cada tipo de componente tem sua pasta e solução.
 
 Aos poucos você pode ir colocando "frescurinhas" em seu build (executa Debug e Release, roda automatizado no servidor, faz testes unitários, incrementa o número da versão, ...), mas algumas premissas sempre se mantêm:
 

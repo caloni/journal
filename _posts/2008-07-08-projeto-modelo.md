@@ -18,7 +18,7 @@ categories:
 #### Primeira coisa: controle de código
 
 
-Antes de começar a pensar em como as pastas estarão alinhadas, é importante saber como funcionará o controle de código do seu projeto. Como [eu disse sobre o Bazaar](http://www.caloni.com.br/blog/archives/como-estou-trabalhando-com-o-bazaar), a estrutura inicial permitirá a junção de dois projetos distintos se estes compartilharem do mesmo commit no começo de suas vidas.
+Antes de começar a pensar em como as pastas estarão alinhadas, é importante saber como funcionará o controle de código do seu projeto. Como [eu disse sobre o Bazaar](http://www.caloni.com.br/blog/como-estou-trabalhando-com-o-bazaar), a estrutura inicial permitirá a junção de dois projetos distintos se estes compartilharem do mesmo commit no começo de suas vidas.
 
 Portanto, trate de iniciar a estruturação em um projeto-modelo que já contenha pelo menos um commit: o das pastas vazias já estruturadas.
 

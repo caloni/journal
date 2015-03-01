@@ -10,7 +10,7 @@ categories:
 - C++
 ---
 
-Nesse último sábado aconteceu, [como previsto](http://www.caloni.com.br/blog/archives/cppcon-iii), o terceiro encontro de usuários/programadores C++. Foi um sucesso bem maior que o esperado, pelo menos por mim e pelas pessoas com quem conversei. A organização foi fantástica, e o [patrocínio](http://www.agit.com.br/) muito importante, o que deu abertura para pensamentos mais ousados sobre o futuro de C++ no Brasil. Foi gerada uma [lista de resoluções](http://groups.google.com/group/ccppbrasil/msg/f1e17573399e11d9) para o futuro (que começa hoje), onde pretendemos, inclusive, fazer reuniões no mesmo estilo trimestralmente.
+Nesse último sábado aconteceu, [como previsto](http://www.caloni.com.br/blog/cppcon-iii), o terceiro encontro de usuários/programadores C++. Foi um sucesso bem maior que o esperado, pelo menos por mim e pelas pessoas com quem conversei. A organização foi fantástica, e o [patrocínio](http://www.agit.com.br/) muito importante, o que deu abertura para pensamentos mais ousados sobre o futuro de C++ no Brasil. Foi gerada uma [lista de resoluções](http://groups.google.com/group/ccppbrasil/msg/f1e17573399e11d9) para o futuro (que começa hoje), onde pretendemos, inclusive, fazer reuniões no mesmo estilo trimestralmente.
 
 Aqui segue um breve relato sobre as palestras que ocorreram no evento.
 

@@ -10,7 +10,7 @@ categories:
 - Programação
 ---
 
-Aproveitando que está se aproximando meu prazo final para minhas resoluções de [seis meses atrás](http://www.caloni.com.br/blog/archives/como-ser-um-melhor-desenvolvedor-nos-proximos-seis-meses), e o DQ já fez o [_checklist _dele](http://dqsoft.blogspot.com/2008/01/resolues-de-ano-novo-2008-edition.html), vou dar uma espiada na minha lista de desejos atual e fazer uma nova lista para 2008.
+Aproveitando que está se aproximando meu prazo final para minhas resoluções de [seis meses atrás](http://www.caloni.com.br/blog/como-ser-um-melhor-desenvolvedor-nos-proximos-seis-meses), e o DQ já fez o [_checklist _dele](http://dqsoft.blogspot.com/2008/01/resolues-de-ano-novo-2008-edition.html), vou dar uma espiada na minha lista de desejos atual e fazer uma nova lista para 2008.
 
 
 

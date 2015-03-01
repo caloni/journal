@@ -81,7 +81,7 @@ Tudo depende do uso que você fizer desde comando. Algumas peculiaridades existe
 #### Brincando com a pilha (de novo)
 
 
-Lembram-se de nossa peregrinação pela pilha de chamadas quando fizemos um [_hook_ na função MessageBox](http://www.caloni.com.br/blog/archives/brincando-com-o-windbg) pelo WinDbg? Aqui é a mesma coisa, pois estou analisando um parâmetro passado na pilha (esp): o ID da _thread_ para onde vai o _hook_:
+Lembram-se de nossa peregrinação pela pilha de chamadas quando fizemos um [_hook_ na função MessageBox](http://www.caloni.com.br/blog/brincando-com-o-windbg) pelo WinDbg? Aqui é a mesma coisa, pois estou analisando um parâmetro passado na pilha (esp): o ID da _thread_ para onde vai o _hook_:
 
     
     HHOOK <a href="http://msdn2.microsoft.com/en-us/library/ms644990.aspx" title="SetWindowsHookEx no MSDN">SetWindowsHookEx</a>(

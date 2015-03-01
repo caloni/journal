@@ -10,13 +10,13 @@ categories:
 - Devaneando
 ---
 
-[![caloni-first-year.png](../public/uploads/caloni-first-year.thumbnail.png)](../public/uploads/caloni-first-year.png)Melhor que ter feito aniversário de dois anos no antigo blogue foi ter feito o primeiro aninho nesse novo formato, mais atualizado, mais diversificado e mais antenado com o [meu dia-a-dia real](http://www.caloni.com.br/blog/archives/csi-crashed-server-investigation).
+[![caloni-first-year.png](../public/uploads/caloni-first-year.thumbnail.png)](../public/uploads/caloni-first-year.png)Melhor que ter feito aniversário de dois anos no antigo blogue foi ter feito o primeiro aninho nesse novo formato, mais atualizado, mais diversificado e mais antenado com o [meu dia-a-dia real](http://www.caloni.com.br/blog/csi-crashed-server-investigation).
 
-No dia 14 de junho de 2007 foram publicadas as [boas vindas](http://www.caloni.com.br/blog/archives/hello-world), e desde então o número de artigos tem se mantido sempre no formato três por semana, dois por semana, consecutivamente, distribuídos na segunda, quarta e sexta, terça e quinta. Esse [jogo de xadrez](http://www.caloni.com.br/blog/archives/influence-board) tem me mantido bem ocupado, admito, mas no final até que vale a pena. Chegamos à marca de **130 artigos e 182 comentários dentro de 29 categorias**.
+No dia 14 de junho de 2007 foram publicadas as [boas vindas](http://www.caloni.com.br/blog/hello-world), e desde então o número de artigos tem se mantido sempre no formato três por semana, dois por semana, consecutivamente, distribuídos na segunda, quarta e sexta, terça e quinta. Esse [jogo de xadrez](http://www.caloni.com.br/blog/influence-board) tem me mantido bem ocupado, admito, mas no final até que vale a pena. Chegamos à marca de **130 artigos e 182 comentários dentro de 29 categorias**.
 
 
 
-E por falar em variedade, falamos de vários assuntos desde o início. Entre um [devaneio](http://www.caloni.com.br/blog/archives/category/nop) e outro, conseguimos explorar algumas [particularidades das linguagens C/C++](http://www.caloni.com.br/blog/archives/category/c), o [funcionamento obscuro do Windows](http://www.caloni.com.br/blog/archives/category/windows), algumas [dicas sobre programação e ferramentas](http://www.caloni.com.br/blog/archives/category/tips), e até tivemos tempo de explorar coisas mais específicas, como [depuração](http://www.caloni.com.br/blog/archives/category/debug), [engenharia reversa](http://www.caloni.com.br/blog/archives/category/reversing), [controle de fonte](http://www.caloni.com.br/blog/archives/category/scm) e [C++ Builder](http://www.caloni.com.br/blog/archives/category/cppbuilder).
+E por falar em variedade, falamos de vários assuntos desde o início. Entre um [devaneio](http://www.caloni.com.br/blog/category/nop) e outro, conseguimos explorar algumas [particularidades das linguagens C/C++](http://www.caloni.com.br/blog/category/c), o [funcionamento obscuro do Windows](http://www.caloni.com.br/blog/category/windows), algumas [dicas sobre programação e ferramentas](http://www.caloni.com.br/blog/category/tips), e até tivemos tempo de explorar coisas mais específicas, como [depuração](http://www.caloni.com.br/blog/category/debug), [engenharia reversa](http://www.caloni.com.br/blog/category/reversing), [controle de fonte](http://www.caloni.com.br/blog/category/scm) e [C++ Builder](http://www.caloni.com.br/blog/category/cppbuilder).
 
 No placar, as coisas ficaram mais ou menos distribuídas:
 
@@ -45,8 +45,8 @@ Por outro lado, alguns dados são muito interessantes, pois podem moldar o futur
 
 [![caloni-busca-no-google2.png](../public/uploads/caloni-busca-no-google2.png)](../public/uploads/caloni-busca-no-google2.png)
 
-No entanto, saber que o topo da lista é formado por buscas por "softice" não irá me fazer escrever mais artigos sobre esse depurador mais do [que eu escrevi](http://www.caloni.com.br/blog/archives/introducao-ao-softice), até porque já é um depurador morto usado hoje em dia em raríssimos casos (no meu caso). Se você quer craquear um programa, mesmo que isso seja contra a lei, aprenda WinDbg que [você ganha mais](http://www.caloni.com.br/blog/archives/category/windbg)!
+No entanto, saber que o topo da lista é formado por buscas por "softice" não irá me fazer escrever mais artigos sobre esse depurador mais do [que eu escrevi](http://www.caloni.com.br/blog/introducao-ao-softice), até porque já é um depurador morto usado hoje em dia em raríssimos casos (no meu caso). Se você quer craquear um programa, mesmo que isso seja contra a lei, aprenda WinDbg que [você ganha mais](http://www.caloni.com.br/blog/category/windbg)!
 
-Das novidades que aconteceram durante esse ano, a maior e mais interessante foi o renascimento do [nosso grupo de C++](http://www.caloni.com.br/blog/archives/category/ccpp-brasil), que talvez continue dessa vez a sua vida normal. Ou não. Esperemos que sim =)
+Das novidades que aconteceram durante esse ano, a maior e mais interessante foi o renascimento do [nosso grupo de C++](http://www.caloni.com.br/blog/category/ccpp-brasil), que talvez continue dessa vez a sua vida normal. Ou não. Esperemos que sim =)
 
 Eu fico sinceramente muito feliz em saber que existem muito mais pessoas interessadas em C++ do que eu mesmo, até porque isso me dá muito mais tempo para escrever sobre outras coisas que não seja C++ que, admiro humildemente, não chego a usar 20% no meu dia-a-dia.

@@ -27,22 +27,22 @@ Como não consigo mais ter ideias para artigos, resolvi catalogar todas as coisa
   * História
 
     
-    * [A linguagem BCPL](http://www.caloni.com.br/blog/archives/historia-da-linguagem-c-parte-1)
+    * [A linguagem BCPL](http://www.caloni.com.br/blog/historia-da-linguagem-c-parte-1)
 
     
-    * [O código-objeto](http://www.caloni.com.br/blog/archives/historia-da-linguagem-c-parte-1)
+    * [O código-objeto](http://www.caloni.com.br/blog/historia-da-linguagem-c-parte-1)
 
     
-    * [A linguagem B](http://www.caloni.com.br/blog/archives/historia-da-linguagem-c-parte-2)
+    * [A linguagem B](http://www.caloni.com.br/blog/historia-da-linguagem-c-parte-2)
 
     
-    * [A "função" char](http://www.caloni.com.br/blog/archives/historia-da-linguagem-c-parte-2)
+    * [A "função" char](http://www.caloni.com.br/blog/historia-da-linguagem-c-parte-2)
 
     
-    * [O primeiro printf da história](http://www.caloni.com.br/blog/archives/historia-da-linguagem-c-parte-2)
+    * [O primeiro printf da história](http://www.caloni.com.br/blog/historia-da-linguagem-c-parte-2)
 
     
-    * [A linguagem C](http://www.caloni.com.br/blog/archives/the-c-programming-language)
+    * [A linguagem C](http://www.caloni.com.br/blog/the-c-programming-language)
 
     
     * A linguagem C++
@@ -57,46 +57,46 @@ Como não consigo mais ter ideias para artigos, resolvi catalogar todas as coisa
   * Conceitos
 
     
-    * [O conceito programa](http://www.caloni.com.br/blog/archives/guia-basico-para-programadores-de-primeiro-int-main)
+    * [O conceito programa](http://www.caloni.com.br/blog/guia-basico-para-programadores-de-primeiro-int-main)
 
     
-    * [O código-objeto](http://www.caloni.com.br/blog/archives/historia-da-linguagem-c-parte-1)
+    * [O código-objeto](http://www.caloni.com.br/blog/historia-da-linguagem-c-parte-1)
 
     
-    * [Processo de compilação](http://www.caloni.com.br/blog/archives/os-diferentes-erros-na-linguagem-c)
+    * [Processo de compilação](http://www.caloni.com.br/blog/os-diferentes-erros-na-linguagem-c)
 
     
-    * [Declaração x definição](http://www.caloni.com.br/blog/archives/declaracao-x-definicao)
+    * [Declaração x definição](http://www.caloni.com.br/blog/declaracao-x-definicao)
 
     
-    * [Tipos](http://www.caloni.com.br/blog/archives/basico-do-basico-tipos)
+    * [Tipos](http://www.caloni.com.br/blog/basico-do-basico-tipos)
 
     
-    * [Lvalue x Rvalue](http://www.caloni.com.br/blog/archives/rvalue-e-o-novo-lvalue)
+    * [Lvalue x Rvalue](http://www.caloni.com.br/blog/rvalue-e-o-novo-lvalue)
 
     
-    * [A passagem por valor](http://www.caloni.com.br/blog/archives/passagem-por-valor-e-emails-com-anexo)
+    * [A passagem por valor](http://www.caloni.com.br/blog/passagem-por-valor-e-emails-com-anexo)
 
     
-    * [Ponteiros](http://www.caloni.com.br/blog/archives/basico-do-basico-ponteiros)
+    * [Ponteiros](http://www.caloni.com.br/blog/basico-do-basico-ponteiros)
 
     
-    * [Estruturas e classes](http://www.caloni.com.br/blog/archives/estruturas-vs-classes-fight)
+    * [Estruturas e classes](http://www.caloni.com.br/blog/estruturas-vs-classes-fight)
 
     
     * Espaços de nomes
 
     
-    * [Polimorfismo estático](http://www.caloni.com.br/blog/archives/polimorfismo-estatico)
+    * [Polimorfismo estático](http://www.caloni.com.br/blog/polimorfismo-estatico)
 
     
     * Herança
 
     
-    * [Polimorfismo dinâmico](http://www.caloni.com.br/blog/archives/vtable)
+    * [Polimorfismo dinâmico](http://www.caloni.com.br/blog/vtable)
 
     
-    * [Iteradores](http://www.caloni.com.br/blog/archives/se-iterando-com-os-pseudo-ponteiros-uma-breve-introducao)
+    * [Iteradores](http://www.caloni.com.br/blog/se-iterando-com-os-pseudo-ponteiros-uma-breve-introducao)
 
     
     * Função-objeto
@@ -111,7 +111,7 @@ Como não consigo mais ter ideias para artigos, resolvi catalogar todas as coisa
     * Qualificadores (traits)
 
     
-    * [O conceito RAII](http://www.caloni.com.br/blog/archives/aquisicao-de-recurso-e-inicializacao)
+    * [O conceito RAII](http://www.caloni.com.br/blog/aquisicao-de-recurso-e-inicializacao)
 
 
 
@@ -120,28 +120,28 @@ Como não consigo mais ter ideias para artigos, resolvi catalogar todas as coisa
   * Linguagem
 
     
-    * [O operador de subscrito](http://www.caloni.com.br/blog/archives/curiosidades-inuteis-o-operador-de-subscrito-em-c)
+    * [O operador de subscrito](http://www.caloni.com.br/blog/curiosidades-inuteis-o-operador-de-subscrito-em-c)
 
     
-    * [A proteção protected](http://www.caloni.com.br/blog/archives/protecao-dos-membros-protected)
+    * [A proteção protected](http://www.caloni.com.br/blog/protecao-dos-membros-protected)
 
     
-    * [Sizeof e strings literais](http://www.caloni.com.br/blog/archives/sizeof-de-novo)
+    * [Sizeof e strings literais](http://www.caloni.com.br/blog/sizeof-de-novo)
 
     
-    * [Uso de reflexão com typeid](http://www.caloni.com.br/blog/archives/reflexao-em-c)
+    * [Uso de reflexão com typeid](http://www.caloni.com.br/blog/reflexao-em-c)
 
     
-    * [Typeid e o polimorfismo](http://www.caloni.com.br/blog/archives/typeid-e-os-perigos-do-nao-polimorfismo)
+    * [Typeid e o polimorfismo](http://www.caloni.com.br/blog/typeid-e-os-perigos-do-nao-polimorfismo)
 
     
-    * [Ponteiros de método](http://www.caloni.com.br/blog/archives/ponteiros-de-metodo-conceito-fundamental)
+    * [Ponteiros de método](http://www.caloni.com.br/blog/ponteiros-de-metodo-conceito-fundamental)
 
     
-    * [Ponteiros de método e o this](http://www.caloni.com.br/blog/archives/ponteiro-de-metodo-qual-this-e-usado)
+    * [Ponteiros de método e o this](http://www.caloni.com.br/blog/ponteiro-de-metodo-qual-this-e-usado)
 
     
-    * [Try-catch fora do corpo da função](http://www.caloni.com.br/blog/archives/try-catch-flutuante)
+    * [Try-catch fora do corpo da função](http://www.caloni.com.br/blog/try-catch-flutuante)
 
     
     * Sobrecarga de operadores
@@ -153,13 +153,13 @@ Como não consigo mais ter ideias para artigos, resolvi catalogar todas as coisa
   * Biblioteca
 
     
-    * [Biblioteca C no Windows](http://www.caloni.com.br/blog/archives/usando-a-libc-nativa-do-windows)
+    * [Biblioteca C no Windows](http://www.caloni.com.br/blog/usando-a-libc-nativa-do-windows)
 
     
-    * [Mobilidade da pilha com prinff](http://www.caloni.com.br/blog/archives/a-mobilidade-das-variaveis-no-printf)
+    * [Mobilidade da pilha com prinff](http://www.caloni.com.br/blog/a-mobilidade-das-variaveis-no-printf)
 
     
-    * [Erros comuns de iteradores](http://www.caloni.com.br/blog/archives/iteradores-nao-sao-constantes)
+    * [Erros comuns de iteradores](http://www.caloni.com.br/blog/iteradores-nao-sao-constantes)
 
     
     * STL
@@ -174,22 +174,22 @@ Como não consigo mais ter ideias para artigos, resolvi catalogar todas as coisa
   * Dicas
 
     
-    * [Erros comuns de iniciantes](http://www.caloni.com.br/blog/archives/os-diferentes-erros-na-linguagem-c)
+    * [Erros comuns de iniciantes](http://www.caloni.com.br/blog/os-diferentes-erros-na-linguagem-c)
 
     
-    * [Ponteiro nulo em entrevistas](http://www.caloni.com.br/blog/archives/codigos-de-entrevista-o-ponteiro-nulo)
+    * [Ponteiro nulo em entrevistas](http://www.caloni.com.br/blog/codigos-de-entrevista-o-ponteiro-nulo)
 
     
-    * [Nem todo ponteiro nulo é inválido](http://www.caloni.com.br/blog/archives/quando-o-ponteiro-nulo-nao-e-invalido)
+    * [Nem todo ponteiro nulo é inválido](http://www.caloni.com.br/blog/quando-o-ponteiro-nulo-nao-e-invalido)
 
     
-    * [Decifrando código obscuro](http://www.caloni.com.br/blog/archives/desconstruindo-ioccc)
+    * [Decifrando código obscuro](http://www.caloni.com.br/blog/desconstruindo-ioccc)
 
     
-    * [Usando do-while para evitar erros de macro](http://www.caloni.com.br/blog/archives/aquele-do-while-engracado)
+    * [Usando do-while para evitar erros de macro](http://www.caloni.com.br/blog/aquele-do-while-engracado)
 
     
-    * [Sobrecarga por tipo de retorno](http://www.caloni.com.br/blog/archives/sobrecarga-de-funcao-as-avessas)
+    * [Sobrecarga por tipo de retorno](http://www.caloni.com.br/blog/sobrecarga-de-funcao-as-avessas)
 
 
 

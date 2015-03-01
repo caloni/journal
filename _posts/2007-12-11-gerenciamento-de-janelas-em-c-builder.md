@@ -70,7 +70,7 @@ void __fastcall TForm2::Button1Click(TObject *Sender)
 ```
 
 
-Agora, no evento de **OnClose** (acho que você conhece o Object Inspector, não? Bom, se não conhece, talvez isso mereça um [artigo à parte](http://www.caloni.com.br/blog/archives/introducao-ao-c-builderturbo-c)) do **TForm1** insira o seguinte código:
+Agora, no evento de **OnClose** (acho que você conhece o Object Inspector, não? Bom, se não conhece, talvez isso mereça um [artigo à parte](http://www.caloni.com.br/blog/introducao-ao-c-builderturbo-c)) do **TForm1** insira o seguinte código:
 
 ```cpp
 void __fastcall TForm1::FormClose(TObject *Sender, TCloseAction &Action)
@@ -93,7 +93,7 @@ Pronto! Agora você decide onde termina e onde acaba sua aplicação.
 
 [![C++ Builder Forms](../public/uploads/cppbuilder-forms.png)](../public/uploads/cppbuilder-forms.png)
 
-Se dermos uma olhada bem de perto no que acontece por dentro de um aplicativo que usa a VCL descobriremos que o método Run de Application nada mais é que o _loop_ de mensagens que [já conhecemos](http://www.caloni.com.br/blog/archives/historia-do-windows-parte-30).
+Se dermos uma olhada bem de perto no que acontece por dentro de um aplicativo que usa a VCL descobriremos que o método Run de Application nada mais é que o _loop_ de mensagens que [já conhecemos](http://www.caloni.com.br/blog/historia-do-windows-parte-30).
 
 Para analisarmos melhor o que ocorre nos _internals_ da coisa, criei um [projeto simplista](../public/uploads/cppbuilder-forms.7z) que possui dois _forms_, ambos com quatro botões: 1) mostrar o outro _form_, 2) esconder a si mesmo, 3) fechar a si mesmo e 4) terminar aplicação. Os dois formulários são tão parecidos que desconfio que sejam gêmeos.
 

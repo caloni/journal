@@ -21,7 +21,7 @@ Hoje foi um belo dia para engenharia reversa e análise de proteções. Dois ót
 
 
 
-O objetivo dessa proteção é detectar se, após o executável ter sido iniciado, algum depurador metido a besta tentou _atachar_-se no processo criado, ou seja, tentou iniciar o processo de depuração após o aplicativo já ter iniciada a execução. Isso é possível - de certa forma trivial - na maioria dos depuradores (se não todos), como o Visual Studio e o WinDbg. Diferente da [técnica de ocupar a DebugPort](http://www.caloni.com.br/blog/archives/antidebug-ocupando-a-debugport), que impede a ação de _attach_, a proteção nesse caso não protege diretamente; apenas permite que o processo saiba do suposto ataque antes de entregar o controle ao processo depurador.
+O objetivo dessa proteção é detectar se, após o executável ter sido iniciado, algum depurador metido a besta tentou _atachar_-se no processo criado, ou seja, tentou iniciar o processo de depuração após o aplicativo já ter iniciada a execução. Isso é possível - de certa forma trivial - na maioria dos depuradores (se não todos), como o Visual Studio e o WinDbg. Diferente da [técnica de ocupar a DebugPort](http://www.caloni.com.br/blog/antidebug-ocupando-a-debugport), que impede a ação de _attach_, a proteção nesse caso não protege diretamente; apenas permite que o processo saiba do suposto ataque antes de entregar o controle ao processo depurador.
 
 O código que eu encontrei nada mais faz do que se aproveitar de uma peculiaridade do processo de _attach_: ao disparar o evento, a função **ntdll!DbgUiRemoteBreakin** é chamada. Ora, se é chamada, é lá que devemos estar, certo? E isso, como vemos abaixo, é relativamente fácil:
 

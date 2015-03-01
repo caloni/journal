@@ -12,7 +12,7 @@ categories:
 - Projetos
 ---
 
-The next article about bits is still in the oven. Taking vacation (40 days) had drop me out of ideas! At the moment, I can explain the tips and tricks using  [TodoList](http://www.caloni.com.br/blog/archives/todolist) to manage my team and synchronize my tasks in a **Microsoft Project**** **timesheet.
+The next article about bits is still in the oven. Taking vacation (40 days) had drop me out of ideas! At the moment, I can explain the tips and tricks using  [TodoList](http://www.caloni.com.br/blog/todolist) to manage my team and synchronize my tasks in a **Microsoft Project**** **timesheet.
 
 The reasons why I am using TodoList are kind of obvious: it does everything I need to organize my day to day tasks and it is portable. Meanwhile, the Project, besides not being portable (I need to carry on with me a 200 MB installer? And do install?) it uses a hard to change format and it was made to project the world, and not to be [easily shared](http://pt.wikipedia.org/wiki/XML).
 

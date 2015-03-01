@@ -35,10 +35,10 @@ Segue um pequeno roteiro do funcionamento do programa, que é bem simples, aliá
 Tudo isso verificado, basta então clicar no botão de Iniciar Conversão, sentar e esperar. A primeira fase envolve três passos:
 
 	
-  * **Desencriptação do dicionário original**. Isso é feito baseando-se em nossa [análise de engenharia reversa](http://www.caloni.com.br/blog/archives/conversor-de-houaiss-para-babylon-parte-1).
+  * **Desencriptação do dicionário original**. Isso é feito baseando-se em nossa [análise de engenharia reversa](http://www.caloni.com.br/blog/conversor-de-houaiss-para-babylon-parte-1).
 
 	
-  * **Montagem do projeto de dicionário Babylon**. Para isso existe um processo de [interpretação do formato Houaiss](http://www.caloni.com.br/blog/archives/conversor-de-houaiss-para-babylon-parte-2), agora desencriptado, e sucessivas traduções para um projeto que o Babylon Builder irá entender.
+  * **Montagem do projeto de dicionário Babylon**. Para isso existe um processo de [interpretação do formato Houaiss](http://www.caloni.com.br/blog/conversor-de-houaiss-para-babylon-parte-2), agora desencriptado, e sucessivas traduções para um projeto que o Babylon Builder irá entender.
 
 	
   * **Construção do dicionário Babylon**. Essa parte é feita pelo Babylon Builder. Por ser o maior dicionário de português da atualidade, esse processo pode demorar bastante, e com certeza irá se tornar o maior dicionário já instalado na sua lista de dicionários do Babylon.

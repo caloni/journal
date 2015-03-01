@@ -12,7 +12,7 @@ tags:
 - houaiss2babylon
 ---
 
-Depois de [vários comentários](http://www.caloni.com.br/blog/archives/conversor-de-houaiss-para-babylon-parte-2#comment-757) de pessoas tendo problemas em converter seus dicionários Houaiss para o formato Babylon, resolvi criar vergonha na cara e dar uma pequena melhora na versão beta do conversor.
+Depois de [vários comentários](http://www.caloni.com.br/blog/conversor-de-houaiss-para-babylon-parte-2#comment-757) de pessoas tendo problemas em converter seus dicionários Houaiss para o formato Babylon, resolvi criar vergonha na cara e dar uma pequena melhora na versão beta do conversor.
 
 Agora a maioria dos erros que houver será descrita por uma mensagem no seguinte formato:
 

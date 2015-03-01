@@ -10,7 +10,7 @@ categories:
 - Controle de Fonte
 ---
 
-O problema foi o seguinte: Nós iniciamos o controle de fonte pelo [Bazaar](http://bazaar-vcs.org/) na parte Linux do projeto, já que ela não iria funcionar pelo [Source Safe](http://www.caloni.com.br/blog/archives/guia-basico-de-controle-de-codigo-source-safe), mesmo. Dessa forma apenas um braço do projeto estava no controle de fonte e o resto não.
+O problema foi o seguinte: Nós iniciamos o controle de fonte pelo [Bazaar](http://bazaar-vcs.org/) na parte Linux do projeto, já que ela não iria funcionar pelo [Source Safe](http://www.caloni.com.br/blog/guia-basico-de-controle-de-codigo-source-safe), mesmo. Dessa forma apenas um braço do projeto estava no controle de fonte e o resto não.
 
 No segundo momento da evolução decidimos começar a migrar os projetos para o Bazaar, inclusive a parte daquele projeto que compila no Windows. Maravilha. Ambos sendo controlados é uma beleza, não é mesmo?
 

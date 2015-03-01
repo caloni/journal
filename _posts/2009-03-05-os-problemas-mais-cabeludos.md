@@ -14,7 +14,7 @@ categories:
 
 Um exemplo: um _hook _global do Windows que quando ativado em determinados eventos envia mensagens para uma única janela que cataloga informações sobre diversas janelas e processos no sistema. Esse procedimento é uma subfunção do programa principal, que já possui seus próprios problemas e idiossincrasias. Em momentos aparentemente aleatórios algumas funcionalidades não parecem estar de acordo com o que se espera.
 
-Para esse tipo de situação que envolve 1. o sistema como um todo, 2. processos de terceiros e 3. comportamento obscuro por parte do resto do código, vale a pena seguir um **checklist mais rigoroso**, colocar seu [bonezinho de CSI](http://www.caloni.com.br/blog/archives/csi-crashed-server-investigation) e partir para desmembrar o funcionamento do código problemático:
+Para esse tipo de situação que envolve 1. o sistema como um todo, 2. processos de terceiros e 3. comportamento obscuro por parte do resto do código, vale a pena seguir um **checklist mais rigoroso**, colocar seu [bonezinho de CSI](http://www.caloni.com.br/blog/csi-crashed-server-investigation) e partir para desmembrar o funcionamento do código problemático:
 
 
 

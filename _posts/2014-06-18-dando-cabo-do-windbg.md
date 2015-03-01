@@ -30,7 +30,7 @@ Na semana passada falei sobre a ideia de comentar algumas mudanças entre o Wind
 
 
 
-Na verdade, pouca coisa mudou, mas foi o suficiente para [dar problemas na hora de usar o WinDbg](http://driverentry.com.br/blog/?p=943). Tradicionalmente, o boot era gerenciado no Windows através de um arquivo localizado na raiz da partição ativa (configuração da [MBR](http://www.caloni.com.br/blog/archives/o-boot-no-windows-sem-windows)) chamado bootini. Dentro dele temos uma estrutura semelhante a um .INI (duh), onde a informação que vemos lá podia ser configurada nas configurações do Computador no Windows XP.
+Na verdade, pouca coisa mudou, mas foi o suficiente para [dar problemas na hora de usar o WinDbg](http://driverentry.com.br/blog/?p=943). Tradicionalmente, o boot era gerenciado no Windows através de um arquivo localizado na raiz da partição ativa (configuração da [MBR](http://www.caloni.com.br/blog/o-boot-no-windows-sem-windows)) chamado bootini. Dentro dele temos uma estrutura semelhante a um .INI (duh), onde a informação que vemos lá podia ser configurada nas configurações do Computador no Windows XP.
 
 
 

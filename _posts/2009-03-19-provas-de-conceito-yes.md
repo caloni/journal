@@ -40,7 +40,7 @@ Além de serem extremamente divertidas e disputadas entre os programadores, dese
   * Torna o desenvolvimento algo **ainda mais divertido**, pois tira a parte chata a respeito de comentar código, testar código, mensurar código, rever código, etc.
 
 	
-  * Consegue tornar o milagre do [cronograma realista](http://www.caloni.com.br/blog/archives/cronograma) mais perto do provável.
+  * Consegue tornar o milagre do [cronograma realista](http://www.caloni.com.br/blog/cronograma) mais perto do provável.
 
 
 Apenas essas vantagens já praticamente obrigam o profissional do software a pensar em produtos novos em termos de como pode-se testar tudo o que se está dizendo antes de realmente começar a trabalhar pra valer.

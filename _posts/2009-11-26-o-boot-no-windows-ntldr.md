@@ -15,7 +15,7 @@ categories:
 
 O nosso amigo NT Loader pode ser entendido através da leitura do já citado **Windows Internals** ou através de uma outra leitura que estou fazendo atualmente e que [pouquíssimos amigos blogueiros](http://www.driverentry.com.br) irão se lembrar: o [livro da galinha preta](http://www.amazon.com/Windows-File-System-Internals-Developers/dp/1565922492); formalmente conhecido como **Windows Nt File System Internals**.
 
-Para os sabichões de plantão, inclusive os que me criticaram (?) no meu [último texto humorístico](http://www.caloni.com.br/blog/archives/programadores-de-verdade-nao-usam-java) sobre como Java é podre, eu sei que o bicho da capa não é uma galinha, mas um urubu. A troca de urubu por galinha vem do requisito básico para você fazer trabalhos esotéricos, como macumba e desenvolvimento de drivers: uma galinha preta na encruzilhada. Alguns usam [um papel dentro da boca de um sapo](http://www.driverentry.com.br/blog/2006/10/serial-killers.html), mas vai do gosto de cada um. =)
+Para os sabichões de plantão, inclusive os que me criticaram (?) no meu [último texto humorístico](http://www.caloni.com.br/blog/programadores-de-verdade-nao-usam-java) sobre como Java é podre, eu sei que o bicho da capa não é uma galinha, mas um urubu. A troca de urubu por galinha vem do requisito básico para você fazer trabalhos esotéricos, como macumba e desenvolvimento de drivers: uma galinha preta na encruzilhada. Alguns usam [um papel dentro da boca de um sapo](http://www.driverentry.com.br/blog/2006/10/serial-killers.html), mas vai do gosto de cada um. =)
 
 E, para os que leram o livro, devem entender que para explicar sobre o funcionamento do sistema de arquivos do Windows, parte intrínseca do funcionamento do próprio kernel, foi necessário ao autor explicar várias partes do kernel, inclusive **sua inicialização**; e é nessa parte que podemos aprender algo mais sobre o NT Loader.
 
@@ -51,7 +51,7 @@ A partir daí vários componentes do kernel serão carregados progressivamente. 
 
     
     windbg notepad
-    $$>a<<a href="http://www.caloni.com.br/blog/archives/carregando-dlls-arbitrarias-pelo-windbg-parte-2">scripts\loadlibrary.txt</a> <strong>ntoskrnl.exe</strong>
+    $$>a<<a href="http://www.caloni.com.br/blog/carregando-dlls-arbitrarias-pelo-windbg-parte-2">scripts\loadlibrary.txt</a> <strong>ntoskrnl.exe</strong>
 
 
 

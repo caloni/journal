@@ -19,46 +19,46 @@ De memória (ou buscando no meu blogue) consigo lembrar alguns tópicos e a form
 
 
 	
-  * [Ponteiros 16 bits](http://www.caloni.com.br/blog/archives/por-que-long-pointer). Rua e número de uma casa.
+  * [Ponteiros 16 bits](http://www.caloni.com.br/blog/por-que-long-pointer). Rua e número de uma casa.
 
 	
-  * [Typedefs](http://www.caloni.com.br/blog/archives/typedef-arcaico). Apelidos para nomes de pessoas.
+  * [Typedefs](http://www.caloni.com.br/blog/typedef-arcaico). Apelidos para nomes de pessoas.
 
 	
-  * [Depuração](http://www.caloni.com.br/blog/archives/house). A ciência médica de House.
+  * [Depuração](http://www.caloni.com.br/blog/house). A ciência médica de House.
 
 	
-  * [Passagem de argumentos por valor e por referência](http://www.caloni.com.br/blog/archives/passagem-por-valor-e-emails-com-anexo). E-mails com anexo e com linques.
+  * [Passagem de argumentos por valor e por referência](http://www.caloni.com.br/blog/passagem-por-valor-e-emails-com-anexo). E-mails com anexo e com linques.
 
 	
-  * [Ponteiros](http://www.caloni.com.br/blog/archives/basico-do-basico-ponteiros). Armário de gavetas.
+  * [Ponteiros](http://www.caloni.com.br/blog/basico-do-basico-ponteiros). Armário de gavetas.
 
 	
-  * [Programadores](http://www.caloni.com.br/blog/archives/programadores-de-verdade-nao-usam-java). Programadores de verdade não usam Java (brincadeira).
+  * [Programadores](http://www.caloni.com.br/blog/programadores-de-verdade-nao-usam-java). Programadores de verdade não usam Java (brincadeira).
 
 	
-  * [Agendamento de threads](http://www.caloni.com.br/blog/archives/a-fila-das-threads). Guichê de CPUs.
+  * [Agendamento de threads](http://www.caloni.com.br/blog/a-fila-das-threads). Guichê de CPUs.
 
 	
-  * [Seções críticas](http://www.caloni.com.br/blog/archives/a-sala-da-fila-das-threads). Fila de threads dentro de uma sala.
+  * [Seções críticas](http://www.caloni.com.br/blog/a-sala-da-fila-das-threads). Fila de threads dentro de uma sala.
 
 	
-  * [Funções com retorno booleano](http://www.caloni.com.br/blog/archives/as-funcoes-polegar). O dedo polegar dos romanos.
+  * [Funções com retorno booleano](http://www.caloni.com.br/blog/as-funcoes-polegar). O dedo polegar dos romanos.
 
 	
-  * [Pilha](http://www.caloni.com.br/blog/archives/basico-do-basico-assembly). Pilha! (de pratos).
+  * [Pilha](http://www.caloni.com.br/blog/basico-do-basico-assembly). Pilha! (de pratos).
 
 	
-  * [Binário](http://www.caloni.com.br/blog/archives/basico-do-basico-binario). Bichos-preguiça contando.
+  * [Binário](http://www.caloni.com.br/blog/basico-do-basico-binario). Bichos-preguiça contando.
 
 	
-  * [Tipos](http://www.caloni.com.br/blog/archives/basico-do-basico-tipos). Forma de bolo
+  * [Tipos](http://www.caloni.com.br/blog/basico-do-basico-tipos). Forma de bolo
 
 	
-  * [Definições x declarações de variáveis](http://www.caloni.com.br/blog/archives/declaracao-x-definicao). Hardware e software (isso deve se chamar **meta-analogia** =)
+  * [Definições x declarações de variáveis](http://www.caloni.com.br/blog/declaracao-x-definicao). Hardware e software (isso deve se chamar **meta-analogia** =)
 
 	
-  * [Depuração 2](http://www.caloni.com.br/blog/archives/declaracao-x-definicao). CSI! (já deu pra ver que tenho fascínio por analisar séries, não?).
+  * [Depuração 2](http://www.caloni.com.br/blog/declaracao-x-definicao). CSI! (já deu pra ver que tenho fascínio por analisar séries, não?).
 
 
 Acredito ser essa a melhor forma de desmistificar esse pequeno mundinho que parece incompreensível aos outros mortais. Até porque tudo que é criado no mundo dos computadores são abstrações do mundo real, que por sua vez são abstrações da mente humana.

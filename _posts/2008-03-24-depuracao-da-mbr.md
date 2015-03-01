@@ -10,7 +10,7 @@ categories:
 - Depuração
 ---
 
-Dando continuidade a um artigo beeeem antigo sobre [depuração da BIOS usando SoftIce](http://www.caloni.com.br/blog/archives/debug-da-bios-com-o-softice-16-bits), como já vimos, podemos igualmente depurar a MBR após a chamada da INT13. Porém, devo atentar para o fato que, em algumas VMs, e sob determinadas condições do tempo e quantidade de [ectoplasma](http://pt.wikipedia.org/wiki/Ectoplasma_%28parapsicologia%29) na atmosfera, é possível que a máquina trave após o _hot boot_ iniciado pelo depurador. Isso provavelmente tem cura usando o espaço de endereçamento alto da memória com a ajuda de aplicativos como LH e UMB.
+Dando continuidade a um artigo beeeem antigo sobre [depuração da BIOS usando SoftIce](http://www.caloni.com.br/blog/debug-da-bios-com-o-softice-16-bits), como já vimos, podemos igualmente depurar a MBR após a chamada da INT13. Porém, devo atentar para o fato que, em algumas VMs, e sob determinadas condições do tempo e quantidade de [ectoplasma](http://pt.wikipedia.org/wiki/Ectoplasma_%28parapsicologia%29) na atmosfera, é possível que a máquina trave após o _hot boot_ iniciado pelo depurador. Isso provavelmente tem cura usando o espaço de endereçamento alto da memória com a ajuda de aplicativos como LH e UMB.
 
 Porém, estou aqui para contar uma nova forma de depurar essa partezinha do código que pode se tornar um tormento se você só se basear em _tracing_ na tela (ou na COM1): usando o aplicativo **debug** do DOS.
 

@@ -10,7 +10,7 @@ categories:
 - Depuração
 ---
 
-Como pudemos ver no [artigo anterior](http://www.caloni.com.br/blog/archives/carregando-dlls-arbitrarias-pelo-windbg), o processo para carregar uma DLL pelo WinDbg é muito extenso, enfadonho e sujeito a erros. Por esse motivo, e para tornar as coisas mais divertidas, resolvi transformar tudo aquilo em um simples _script_ que pode ser executado digitando apenas uma linha.
+Como pudemos ver no [artigo anterior](http://www.caloni.com.br/blog/carregando-dlls-arbitrarias-pelo-windbg), o processo para carregar uma DLL pelo WinDbg é muito extenso, enfadonho e sujeito a erros. Por esse motivo, e para tornar as coisas mais divertidas, resolvi transformar tudo aquilo em um simples _script_ que pode ser executado digitando apenas uma linha.
 
 Se trata do meu primeiro _script_ grande para o WinDbg, por isso, peço que tenham dó de mim =).
 

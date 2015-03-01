@@ -84,7 +84,7 @@ Você os verá em 90% das ocasiões em que desassemblar seu código C, pois a ro
 #### Flags?
 
 
-Ah, sim, as flags! Elas são importantíssimas para o funcionamento sadio de nossos programas. Sem as flags, não teríamos coisas maravilhosas e fundamentais na programação moderna, tais como o [salto condicional](http://www.caloni.com.br/blog/archives/a-inteligencia-do-if-parte-1).
+Ah, sim, as flags! Elas são importantíssimas para o funcionamento sadio de nossos programas. Sem as flags, não teríamos coisas maravilhosas e fundamentais na programação moderna, tais como o [salto condicional](http://www.caloni.com.br/blog/a-inteligencia-do-if-parte-1).
 
 As flags são bits que **mudam de acordo com algumas instruções**, principalmente as de **comparação** (vide cmp). Após a execução de comparação, o estado de determinadas flags junto da próxima instrução (que deverá ser um salto condicional) irá dizer para onde o programa irá pular sua execução. É assim que temos o if:
 

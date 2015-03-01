@@ -11,7 +11,7 @@ categories:
 - Sistema Operacional
 ---
 
-![Telling Stories](../public/uploads/telling-stories.png) Em um ambiente _multithreading_, diversas threads disputam "a tapas" a atenção do processador (CPU). Certo? Podemos dizer que, em um ambiente com muito processamento a realizar, de certa forma é isso que acontece. São threads e mais threads rodando um [pedacinho de código](http://www.caloni.com.br/blog/archives/historia-do-windows-parte-40) cada vez que passam pelo processador.
+![Telling Stories](../public/uploads/telling-stories.png) Em um ambiente _multithreading_, diversas threads disputam "a tapas" a atenção do processador (CPU). Certo? Podemos dizer que, em um ambiente com muito processamento a realizar, de certa forma é isso que acontece. São threads e mais threads rodando um [pedacinho de código](http://www.caloni.com.br/blog/historia-do-windows-parte-40) cada vez que passam pelo processador.
 
 Um ambiente complexo como esse é repleto de pequenos detalhes que podem fazer o iniciante logo desanimar quando tentar depurar um programa com mais de uma thread. De fato, eu já percebi que muitos não vão saber nem como começar a mastigar o problema.
 
@@ -256,4 +256,4 @@ Esse problema ocorre pelo seguinte motivo: quando uma thread guarda o valor do c
 
 O exemplo acima forçou essa situação, mas é preciso lembrar que isso pode acontecer mesmo sem o Sleep. É possível que o tempo da thread se esgote e ela pare de ser atendida  justo na hora que iria salvar a variável temp no contador global. Dessa forma, ela vai para o final da fila à força e, quando voltar a ser atendida, uma outra thread já terá incrementado o mesmo valor.
 
-Esse problema pode ser facilmente resolvido se utilizarmos um **sistema de bloqueio** entre threads do mesmo processo. Uma [outra história](http://www.caloni.com.br/blog/archives/a-sala-da-fila-das-threads) para contar da próxima vez.
+Esse problema pode ser facilmente resolvido se utilizarmos um **sistema de bloqueio** entre threads do mesmo processo. Uma [outra história](http://www.caloni.com.br/blog/a-sala-da-fila-das-threads) para contar da próxima vez.

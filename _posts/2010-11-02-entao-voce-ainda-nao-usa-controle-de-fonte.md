@@ -22,7 +22,7 @@ Os três comandos simples não são nada do outro mundo: criar o repositório, a
 <blockquote>_Dica: Um commit é uma maneira de dizer ao controle de fonte: "já modifiquei o que tinha pra modificar, então mande tudo que tenho de novo para o controle". _</blockquote>
 
 
-Tanto faz qual controle você pretende usar. No meu exemplo usarei o Bazaar, que é a ferramenta que [uso no dia-a-dia](http://www.caloni.com.br/blog/archives/como-estou-trabalhando-com-o-bazaar) com minha pequena equipe e serve bem para programadores solitários também. Basicamente para ter o Bazzar instalado basta [baixá-lo](http://wiki.bazaar.canonical.com/Download), next next e finish.
+Tanto faz qual controle você pretende usar. No meu exemplo usarei o Bazaar, que é a ferramenta que [uso no dia-a-dia](http://www.caloni.com.br/blog/como-estou-trabalhando-com-o-bazaar) com minha pequena equipe e serve bem para programadores solitários também. Basicamente para ter o Bazzar instalado basta [baixá-lo](http://wiki.bazaar.canonical.com/Download), next next e finish.
 
 
 
@@ -30,7 +30,7 @@ Tanto faz qual controle você pretende usar. No meu exemplo usarei o Bazaar, que
 
 _Marcar para usar o PATH pode ser uma boa pra quem é fã de linha de comando._
 
-Apesar de existirem [firulas gráficas](http://www.caloni.com.br/blog/archives/bazaar-grafico), gosto de usar o Bazaar na linha de comando porque faz você pensar direito antes de fazer commits, mas esteja livre para experimentar a maneira que achar melhor.
+Apesar de existirem [firulas gráficas](http://www.caloni.com.br/blog/bazaar-grafico), gosto de usar o Bazaar na linha de comando porque faz você pensar direito antes de fazer commits, mas esteja livre para experimentar a maneira que achar melhor.
 
 
 #### Botando a mão na massa

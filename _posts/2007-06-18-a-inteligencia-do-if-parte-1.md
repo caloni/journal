@@ -30,4 +30,4 @@ Os saltos condicionais, vulgarmente conhecidos como _ifs_, permitiram às lingua
 
 [![Construções de programação](../public/uploads/programming-constructions.png)](../public/uploads/programming-constructions.png)
 
-Em um [próximo artigo](http://www.caloni.com.br/blog/archives/a-inteligencia-do-if-parte-2) veremos como o salto condicional pode ser implementado apenas com operações matemáticas (afinal, é só isso que temos).
+Em um [próximo artigo](http://www.caloni.com.br/blog/a-inteligencia-do-if-parte-2) veremos como o salto condicional pode ser implementado apenas com operações matemáticas (afinal, é só isso que temos).

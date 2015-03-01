@@ -31,7 +31,7 @@ Despite the fact the result is a strong candidate to "[The International Obfusca
 
 
 
-Asked to solve the problem, given my congenital inclination to [random subjects involving C++](http://www.caloni.com.br/blog/archives/disassembling-the-array-operator), I decided to fix the things up in my old-n-good **Visual Studio 2003**. Nonetheless, it compiles C source code as well. We just need to rename the file from **.cpp** to **.c**. It was doing this that I found the following compiler error:
+Asked to solve the problem, given my congenital inclination to [random subjects involving C++](http://www.caloni.com.br/blog/disassembling-the-array-operator), I decided to fix the things up in my old-n-good **Visual Studio 2003**. Nonetheless, it compiles C source code as well. We just need to rename the file from **.cpp** to **.c**. It was doing this that I found the following compiler error:
 
 **_error C2106: '=' : left operand must be l-value_**
 

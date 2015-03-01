@@ -11,9 +11,9 @@ categories:
 - Projetos
 ---
 
-O próximo artigo sobre escovação de bits ainda está no forno. Tirar férias (de 40 dias) é uma escassez de ideias! No momento, posso explicar a facilidade que tive para continuar usando o [TodoList](http://www.caloni.com.br/blog/archives/todolist) para gerenciar minha equipe e ainda assim sincronizar nossas tarefas em um cronograma do **Microsoft Project**.
+O próximo artigo sobre escovação de bits ainda está no forno. Tirar férias (de 40 dias) é uma escassez de ideias! No momento, posso explicar a facilidade que tive para continuar usando o [TodoList](http://www.caloni.com.br/blog/todolist) para gerenciar minha equipe e ainda assim sincronizar nossas tarefas em um cronograma do **Microsoft Project**.
 
-As razões de eu usar o TodoList são meio óbvias: ele faz tudo que eu preciso para organizar minhas tarefas do dia-a-dia e é [portátil](http://www.caloni.com.br/blog/archives/sdelete). Enquanto isso, o Project, além de não ser portátil (eu preciso levar comigo o instalador de 200 MB? E Instalar?) possui um formato difícil de mudar, já que foi feito para projetar o mundo e não para ser [compartilhado facilmente](http://pt.wikipedia.org/wiki/XML).
+As razões de eu usar o TodoList são meio óbvias: ele faz tudo que eu preciso para organizar minhas tarefas do dia-a-dia e é [portátil](http://www.caloni.com.br/blog/sdelete). Enquanto isso, o Project, além de não ser portátil (eu preciso levar comigo o instalador de 200 MB? E Instalar?) possui um formato difícil de mudar, já que foi feito para projetar o mundo e não para ser [compartilhado facilmente](http://pt.wikipedia.org/wiki/XML).
 
 
 

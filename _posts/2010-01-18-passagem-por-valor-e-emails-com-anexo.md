@@ -10,7 +10,7 @@ categories:
 - Programação
 ---
 
-Mais uma [analogia vencedora para ponteiros](http://www.caloni.com.br/blog/archives/basico-do-basico-ponteiros), chamadas por valor e chamadas por referência: e-mails.
+Mais uma [analogia vencedora para ponteiros](http://www.caloni.com.br/blog/basico-do-basico-ponteiros), chamadas por valor e chamadas por referência: e-mails.
 
 Quando passamos um parâmetro por valor, estamos enviando um e-mail com um arquivo em anexo. Não importa o que o destinatário faça com o arquivo: nós não vamos saber o que foi mudado se ele não enviar uma outra cópia.
 

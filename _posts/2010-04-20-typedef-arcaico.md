@@ -435,6 +435,6 @@ int main()
 
 
 
-De acordo com o leitor  [Adriano dos Santos Fernandes](http://www.caloni.com.br/blog/archives/typedef-arcaico#comment-17016), a obrigatoriedade do nome struct após seu nome continua valendo para a linguagem C padrão, assim como no compilador GCC ocorre um erro ao tentar omiti-la. Apenas na linguagem C++ essa obrigatoriedade não existe mais.
+De acordo com o leitor  [Adriano dos Santos Fernandes](http://www.caloni.com.br/blog/typedef-arcaico#comment-17016), a obrigatoriedade do nome struct após seu nome continua valendo para a linguagem C padrão, assim como no compilador GCC ocorre um erro ao tentar omiti-la. Apenas na linguagem C++ essa obrigatoriedade não existe mais.
 
 Eu não fiz meus testes, mas confio no diagnóstico de nosso amigo. A maior falha do artigo, no entanto, é usar a linguagem C como base, quando na verdade ele deveria falar sobre o uso desses typedefs em C++. Esse erro também foi corrigido no original.

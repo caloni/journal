@@ -78,4 +78,4 @@ Esse artigo é só para constar em minha lista de referência para o aprendizado
 #### Mais assuntos?
 
 
-A internet brasileira cresceu como um todo. Mesmo que você deseje saber mais sobre [microprocessadores](http://dqsoft.blogspot.com/search/label/Processadores) ou [drivers para Windows](http://www.driverentry.com.br), em português, hoje isso é possível. É claro que o que não é possível é você se dedicar profissionalmente a essas áreas [sem saber inglês](http://www.caloni.com.br/blog/archives/developer-you-need-to-know-english). Mas é uma muito bem-vinda manifestação das pessoas que fazem acontecer todas essas coisas em nosso país.
+A internet brasileira cresceu como um todo. Mesmo que você deseje saber mais sobre [microprocessadores](http://dqsoft.blogspot.com/search/label/Processadores) ou [drivers para Windows](http://www.driverentry.com.br), em português, hoje isso é possível. É claro que o que não é possível é você se dedicar profissionalmente a essas áreas [sem saber inglês](http://www.caloni.com.br/blog/developer-you-need-to-know-english). Mas é uma muito bem-vinda manifestação das pessoas que fazem acontecer todas essas coisas em nosso país.

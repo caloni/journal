@@ -88,7 +88,7 @@ Ora, sabendo que a variável "i" inicialmente tem o valor zero, o que estamos ve
 
 
 
-E uma vez que aprendemos algumas [peculiaridades sobre o operador de subscrito](http://www.caloni.com.br/blog/archives/curiosidades-inuteis-o-operador-de-subscrito-em-c) em C, sabemos que a linha acima é equivalente a essa linha abaixo:
+E uma vez que aprendemos algumas [peculiaridades sobre o operador de subscrito](http://www.caloni.com.br/blog/curiosidades-inuteis-o-operador-de-subscrito-em-c) em C, sabemos que a linha acima é equivalente a essa linha abaixo:
 
 
     
@@ -180,7 +180,7 @@ Também devemos lembrar que o caractere de controle '\n' é representado apenas 
 
 
 
-Em um passado bem longínquo, o padrão ANSI C não existia, e outras funções dominavam o ambiente UNIX. Muitas dessas funções foram adaptadas, e outras completamente copiadas para a formação do padrão. No entanto, ainda que o padrão não tenha colocado algumas funções clássicas, elas continuaram sendo usadas e suportadas. Um bom exemplo disso são as funções read e write, que, apesar de não estarem no padrão, estão no [livro de K&R](http://www.caloni.com.br/blog/archives/the-c-programming-language), no capítulo sobre fluxos (_streams_) em UNIX, provando que são bem populares.
+Em um passado bem longínquo, o padrão ANSI C não existia, e outras funções dominavam o ambiente UNIX. Muitas dessas funções foram adaptadas, e outras completamente copiadas para a formação do padrão. No entanto, ainda que o padrão não tenha colocado algumas funções clássicas, elas continuaram sendo usadas e suportadas. Um bom exemplo disso são as funções read e write, que, apesar de não estarem no padrão, estão no [livro de K&R](http://www.caloni.com.br/blog/the-c-programming-language), no capítulo sobre fluxos (_streams_) em UNIX, provando que são bem populares.
 
 Dentro desse mundo paralelo, existem identificadores de fluxos padrões para a entrada e a saída padrão. Melhor ainda, esses identificadores são inteiros que estão especificados da seguinte maneira (tirado da [referência GNU](http://www.gnu.org/software/libc/manual/html_node/Descriptors-and-Streams.html#index-STDIN_005fFILENO-1235) da linguagem C, meu grifo):
 

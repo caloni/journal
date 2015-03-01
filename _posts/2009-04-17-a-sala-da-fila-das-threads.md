@@ -11,7 +11,7 @@ categories:
 - Sistema Operacional
 ---
 
-Quando [falei sobre a fila das threads](http://www.caloni.com.br/blog/archives/a-fila-das-threads), e como cada thread espera pacientemente em uma fila até chegar sua vez de ser atendida no guichê das CPUs, também vimos como é fácil fazer caquinhas em um programa que roda paralelamente duas threads ou mais.
+Quando [falei sobre a fila das threads](http://www.caloni.com.br/blog/a-fila-das-threads), e como cada thread espera pacientemente em uma fila até chegar sua vez de ser atendida no guichê das CPUs, também vimos como é fácil fazer caquinhas em um programa que roda paralelamente duas threads ou mais.
 
 Também falei que iríamos resolver esse problema, afinal de contas, temos que salvar todos aqueles programas que usam dezenas de threads trabalhando ao mesmo tempo para contar números de um até dez.
 

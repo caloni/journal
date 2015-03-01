@@ -12,7 +12,7 @@ categories:
 
 Eu já sabia, mas é lógico que não ia falar.
 
-Há um tempo atrás um [rapaz me pediu](http://www.caloni.com.br/blog/archives/entrevista-com-o-caloni-no-do-zero-ao-mestre) para responder [uma série de questões](http://dozeroaomestre.blogspot.com/2008/07/entrevista-wanderlei-caloni.html) sobre a carreira de programador C++. Era um rapaz empolgado com a idéia de aprender a linguagem em seis meses, com um roteiro, cronograma e um [blogue](http://dozeroaomestre.blogspot.com/) recém-criados.
+Há um tempo atrás um [rapaz me pediu](http://www.caloni.com.br/blog/entrevista-com-o-caloni-no-do-zero-ao-mestre) para responder [uma série de questões](http://dozeroaomestre.blogspot.com/2008/07/entrevista-wanderlei-caloni.html) sobre a carreira de programador C++. Era um rapaz empolgado com a idéia de aprender a linguagem em seis meses, com um roteiro, cronograma e um [blogue](http://dozeroaomestre.blogspot.com/) recém-criados.
 
 Como quase toda uma geração do imediatismo, aconteceu o inevitável: o blogue já não é atualizado há quase dois meses e toda aquela empolgação do começo deve ter virado fumaça assim que a pessoa vira a esquina e aparece uma coisa nova para fazer. E daí surgem as desculpas, o blá-blá-blá de todos aqueles que nunca têm tempo.
 

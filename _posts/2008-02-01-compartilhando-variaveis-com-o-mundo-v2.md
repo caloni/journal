@@ -14,7 +14,7 @@ categories:
 
 
 
-Como todas as coisas que fazemos e pensamos depois, descobrimos que **sempre existe uma outra maneira de fazer a mesma coisa**. Se é melhor ou não, pode ser uma questão de gosto, estética, objetivos de vida, etc. Com a [implementação das variáveis mapeadas globais](http://www.caloni.com.br/blog/archives/compartilhando-variaveis-com-o-mundo) não foi diferente. Bem, é isso que se espera fazer com código experimental: experimentos. E deu no que deu: SharedVar versão 2.0 alpha Enterprise Edition.
+Como todas as coisas que fazemos e pensamos depois, descobrimos que **sempre existe uma outra maneira de fazer a mesma coisa**. Se é melhor ou não, pode ser uma questão de gosto, estética, objetivos de vida, etc. Com a [implementação das variáveis mapeadas globais](http://www.caloni.com.br/blog/compartilhando-variaveis-com-o-mundo) não foi diferente. Bem, é isso que se espera fazer com código experimental: experimentos. E deu no que deu: SharedVar versão 2.0 alpha Enterprise Edition.
 
 
 
