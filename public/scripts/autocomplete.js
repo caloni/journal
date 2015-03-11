@@ -6,6 +6,9 @@ $(function() {
 var availableTitles = [
 {% for post in site.posts %}
   { value: "{{ post.url }}",
+    label: "{% for tag in post.tags %}{{ tag }} {% endfor %}"
+  },
+  { value: "{{ post.url }}",
     label: "{{ post.title }}"
   },
 {% endfor %}
