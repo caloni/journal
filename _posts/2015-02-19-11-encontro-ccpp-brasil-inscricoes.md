@@ -1,5 +1,6 @@
 ---
 title: CCPPBrasil11 Brasil -- Call for Papers
+tags: [ eventos, ccpbrasil, c/c++, papers, reuniões, palestras, encontros, grupo ]
 ---
 [Agora é pra valer!](http://www.ccppbrasil.org/encontro11/)
 

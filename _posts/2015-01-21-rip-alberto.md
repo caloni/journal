@@ -1,5 +1,6 @@
 ---
 title: RIP, Alberto
+tags: [ pessoal, alberto fabiano, rip, programadores, coders, amigos ]
 ---
 <a href="http://imgur.com/srgrWiv"><img src="http://i.imgur.com/srgrWiv.png" title="source: imgur.com" /></a>
 

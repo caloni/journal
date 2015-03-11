@@ -1,5 +1,6 @@
 ---
 title: "MVP C++ Summit e/ou Visual C++ ressurgindo das cinzas."
+tags: [ mvp, c++ summit, visual c++, microsoft ]
 ---
 <a href="https://www.flickr.com/photos/120157483@N04/15658259358" title="building-1-at-microsoft-campus by Wanderley Caloni, on Flickr"><img src="https://farm9.staticflickr.com/8675/15658259358_e564826fc9_z.jpg" alt="building-1-at-microsoft-campus"></a>
 

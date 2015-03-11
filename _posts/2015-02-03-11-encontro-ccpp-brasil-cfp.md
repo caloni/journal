@@ -1,5 +1,6 @@
 ---
 title: CCPPBrasil11 Brasil -- Call for Papers
+tags: [ eventos, ccpbrasil, c/c++, papers, reuniões, palestras, encontros, grupo ]
 ---
 Acho que já está na hora de nos reencontrarmos, né?
 

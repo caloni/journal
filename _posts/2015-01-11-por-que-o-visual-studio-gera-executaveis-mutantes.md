@@ -1,5 +1,6 @@
 ---
 title: Por que o Visual Studio gera executáveis mutantes
+tags: [ bugs, visual studio, erros, código ]
 ---
 <a href="https://www.flickr.com/photos/120157483@N04/15583929474" title="Mutantes by Wanderley Caloni, on Flickr"><img src="https://farm8.staticflickr.com/7545/15583929474_c598e4cd08_o.jpg" alt="Mutantes"></a>
 

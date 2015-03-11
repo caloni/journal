@@ -1,5 +1,6 @@
 ---
 title: Guia de alocação (nos clientes)
+tags: [ devaneando, clientes, consultoria, negócios, empresas, startup ]
 ---
 <a href="http://imgur.com/4E8feEx"><img src="http://i.imgur.com/4E8feEx.jpg" title="source: imgur.com" /></a>
 
