@@ -10,7 +10,7 @@ permalink:        :title
 encoding:         utf-8
 
 # Setup
-title:            Caloni.com.br
+title:            Blogue do Caloni.com.br
 tagline:          C++, Windows, Programação, Depuração e Transpiração
 url:              http://blog.caloni.com.br
 paginate:         5
