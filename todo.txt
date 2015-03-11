@@ -1,2 +1,0 @@
- - Mesclar projeto dos fontes do Caloni (incluindo apresentações, etc; pode ser ideias para novos artigos).
- - Criar nova página na home. Pode ser até hospedada localmente (gerado pelo Jenkins), pois não deve mudar muito.

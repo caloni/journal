@@ -7,9 +7,9 @@
 
   <title>
     {% if page.title == "Home" %}
-      {{ site.title }} &middot; {{ site.tagline }}
+      {{ site.title }} -- {{ site.tagline }}
     {% else %}
-      {% include title.html %} &middot; {{ site.title }}
+      {% include title.html %} -- {{ site.title }}
     {% endif %}
   </title>
 
@@ -28,6 +28,6 @@
   <!-- Scripts -->
   <script src="http://code.jquery.com/jquery-1.10.2.js"></script>
   <script src="http://code.jquery.com/ui/1.11.1/jquery-ui.js"></script>
-  {% include autocomplete.html %}
+  <script src="{{ site.baseurl }}public/scripts/autocomplete.js"></script>
   {% include social.html %}
 </head>

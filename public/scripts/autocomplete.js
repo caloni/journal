@@ -1,4 +1,6 @@
-<script>
+---
+layout: nil
+---
 $(function() {
 
 var availableTitles = [
@@ -17,6 +19,4 @@ select: function(event, ui) {
 });
 
 });
-
-</script>
 

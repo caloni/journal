@@ -21,9 +21,9 @@ author:
   email:          wanderley@caloni.com.br
 
 pages_list:       
-  Archive: '/archive.html'
-  Feed: 'http://feeds.feedburner.com/caloni'
-  Author: '/author.html'
+  Que: '/'
+  Quem: '/author.html'
+  Quando: 'http://feeds.feedburner.com/caloni'
 
 # Custom vars
 version:          1.0.0
