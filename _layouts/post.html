@@ -2,6 +2,19 @@
 layout: default
 ---
 
+<div class="pagination">
+{% if page.previous != null %}
+    <a class="pagination-item older" href="{{ page.previous.url }}">&lt;&lt;</a>
+{% else %}
+    <span class="pagination-item older">&lt;&lt;</span>
+{% endif %}
+{% if page.next != null %}
+    <a class="pagination-item newer" href="{{ page.next.url }}">&gt;&gt;</a>
+{% else %}
+    <span class="pagination-item newer">&gt;&gt;</span>
+{% endif %}
+</div>
+
 <div class="post">
   <h1 class="post-title">
   {% include title.html %}
@@ -19,12 +32,12 @@ layout: default
 {% if page.previous != null %}
     <a class="pagination-item older" href="{{ page.previous.url }}">&lt;&lt;</a>
 {% else %}
-    <span class="pagination-item older">Anterior</span>
+    <span class="pagination-item older">&lt;&lt;</span>
 {% endif %}
 {% if page.next != null %}
     <a class="pagination-item newer" href="{{ page.next.url }}">&gt;&gt;</a>
 {% else %}
-    <span class="pagination-item newer">Próximo</span>
+    <span class="pagination-item newer">&gt;&gt;</span>
 {% endif %}
 </div>
 
