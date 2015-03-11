@@ -1,5 +1,5 @@
 ---
-title: 11&deg;. Encontro C/C++ Brasil -- Inscrições
+title: CCPPBrasil11 Brasil -- Call for Papers
 ---
 [Agora é pra valer!](http://www.ccppbrasil.org/encontro11/)
 

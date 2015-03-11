@@ -1,5 +1,5 @@
 ---
-title: 11&deg;. Encontro C/C++ Brasil -- Call for Papers
+title: CCPPBrasil11 Brasil -- Call for Papers
 ---
 Acho que já está na hora de nos reencontrarmos, né?
 
