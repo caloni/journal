@@ -11,22 +11,21 @@ layout: default
   {{ content }}
 </div>
 
-
-  <div class="pagination">
-    {% if page.previous != null %}
-      <a class="pagination-item older" href="{{ page.previous.url }}">Anterior</a>
-    {% else %}
-      <span class="pagination-item older">Anterior</span>
-    {% endif %}
-    {% if page.next != null %}
-      <a class="pagination-item newer" href="{{ page.next.url }}">Próximo</a>
-    {% else %}
-      <span class="pagination-item newer">Próximo</span>
-    {% endif %}
-  </div>
-
 <div class="comments">
   {% include comments.html %}
+</div>
+
+<div class="pagination">
+{% if page.previous != null %}
+    <a class="pagination-item older" href="{{ page.previous.url }}">&lt;&lt;</a>
+{% else %}
+    <span class="pagination-item older">Anterior</span>
+{% endif %}
+{% if page.next != null %}
+    <a class="pagination-item newer" href="{{ page.next.url }}">&gt;&gt;</a>
+{% else %}
+    <span class="pagination-item newer">Próximo</span>
+{% endif %}
 </div>
 
 
