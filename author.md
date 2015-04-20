@@ -3,11 +3,13 @@ layout: default
 title: Author
 ---
 
+```cpp
 -----BEGIN GEEK CODE BLOCK-----
 Version: 3.1
 GCS/PA d-(++) s-:(+) a C++$ UL->$ P? L+>$ !E- W++(+++)>$ N(++) o? K--? w+++$ O? M? V? 
 PS(+++) PE++()>$ !Y? !PGP !t 5? !X !R tv? b(+) DI+(++) D G(+) e+ h--- r+++ y+* 
 ------END GEEK CODE BLOCK------
+```
 
 <a href="https://www.flickr.com/photos/120157483@N04/15628259265" title="eu-mesmo by Wanderley Caloni, on Flickr"><img src="https://farm4.staticflickr.com/3956/15628259265_e402536d8a_q.jpg" alt="eu-mesmo" style="float: left; margin: 15px"></a> Wanderley Caloni é um programador C/C++ especializado em backend para Windows que
 decidiu ter seu próprio blogue técnico. Tenta mantê-lo atualizado com
@@ -19,7 +21,7 @@ por dez anos na área de Segurança da Informação, principalmente no
 [Controle de Acesso a Usuários](http://www.scua.com.br) e [Análise de
 Trojans](http://www.opencs.com.br/site/). Atualmente tem trabalhado em
 projetos de desenvolvimento para a [Área
-Financeira](http://www.ezmarket.com.br/), se tornando sócio da [Intelitrader](www.intelitrader.com.br).
+Financeira](http://www.ezmarket.com.br/), se tornando sócio da [Intelitrader](http://www.intelitrader.com.br).
 
 Uma informação importante: é [cinéfilo
 inveterado](http://cinetenisverde.github.com/) nas horas vagas, o que faz com que ele escreva muito mais sobre filmes (requer pouca pesquisa).
@@ -35,9 +37,11 @@ Microsoft](http://mvp.microsoft.com/pt-br/mvp/Wanderley%20Caloni-5000295).
 Se, mesmo com esse resumo, você tiver mais alguma dúvida a respeito de
 algo que eu conheça, não hesite em falar comigo! Abaixo temos uma breve
 lista das coisas que eu andei fazendo na minha breve vida de
-programador. Para uma visão mais formal, eis os linques para meu
-[currículo](http://www.caloni.com.br/docs/cv.pdf "Currículo do autor do blogue")
-(ou em [inglês](http://www.caloni.com.br/docs/cv-en.pdf "Curriculum")).
+programador. 
+
+```cpp
+.dump /ma curriculo.dmp
+```
 
 -   Inventário de hardware (WMI/SMBIOS) e software (registro)
 -   Proteção da área de transferência e PrintScreen através de hook de
