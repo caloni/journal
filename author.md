@@ -3,6 +3,12 @@ layout: default
 title: Author
 ---
 
+-----BEGIN GEEK CODE BLOCK-----
+Version: 3.1
+GCS/PA d-(++) s-:(+) a C++$ UL->$ P? L+>$ !E- W++(+++)>$ N(++) o? K--? w+++$ O? M? V? 
+PS(+++) PE++()>$ !Y? !PGP !t 5? !X !R tv? b(+) DI+(++) D G(+) e+ h--- r+++ y+* 
+------END GEEK CODE BLOCK------
+
 <a href="https://www.flickr.com/photos/120157483@N04/15628259265" title="eu-mesmo by Wanderley Caloni, on Flickr"><img src="https://farm4.staticflickr.com/3956/15628259265_e402536d8a_q.jpg" alt="eu-mesmo" style="float: left; margin: 15px"></a> Wanderley Caloni é um programador C/C++ especializado em backend para Windows que
 decidiu ter seu próprio blogue técnico. Tenta mantê-lo atualizado com
 suas peripécias do dia-a-dia. Colaborador frequente do Grupo C/C++
