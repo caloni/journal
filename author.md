@@ -11,7 +11,7 @@ PS(+++) PE++()>$ !Y? !PGP !t 5? !X !R tv? b(+) DI+(++) D G(+) e+ h--- r+++ y+*
 ------END GEEK CODE BLOCK------
 ```
 
-<a href="https://www.flickr.com/photos/120157483@N04/15628259265" title="eu-mesmo by Wanderley Caloni, on Flickr"><img src="https://farm4.staticflickr.com/3956/15628259265_e402536d8a_q.jpg" alt="eu-mesmo" style="float: left; margin: 15px"></a> Wanderley Caloni é um programador C/C++ especializado em backend para Windows que
+<img src="public/images/myself.jpg" alt="eu-mesmo" style="float: left; margin: 15px">Wanderley Caloni é um programador C/C++ especializado em backend para Windows que
 decidiu ter seu próprio blogue técnico. Tenta mantê-lo atualizado com
 suas peripécias do dia-a-dia. Colaborador frequente do Grupo C/C++
 Brasil, foi junto de [Rodrigo Strauss](http://www.1bit.com.br/) um dos
