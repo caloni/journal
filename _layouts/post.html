@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+{% include social-body.html %}
 
 <div class="pagination">
 {% if page.previous != null %}
@@ -22,6 +23,10 @@ layout: default
   <a href="https://github.com/caloni/caloni.github.io/edit/master/{{ page.path }}">
   <span class="post-date">{{ page.date | date_to_string }}</span></a>
   {{ content }}
+</div>
+
+<div class="social">
+  {% include social.html %}
 </div>
 
 <div class="comments">
