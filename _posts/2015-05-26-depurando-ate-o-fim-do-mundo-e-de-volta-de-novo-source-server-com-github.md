@@ -33,4 +33,5 @@ Como esse ainda é um projeto muito cru, mas gostaria de compartilhar com vocês
 
 Abaixo um vídeo do funcionamento através do WinDbg. O PDB já está indexado. No vídeo eu mostro como a pasta src (que é onde o WinDbg baixa os fontes) está vazia, e como após rodar o comando "g wmain" os símbolos são carregados e o WinDbg inicia o curl passando os parâmetros de um ponto em que ele sabe que vai precisar de um certo código-fonte. Para você realizar o mesmo com essa versão esteja ciente que você precisa do curl!
 
-<iframe src="http://gifyoutube.com/gif/vbwZaq?mute=true" frameborder="0" scrolling="no" width="440" height="400" style="-webkit-backface-visibility: hidden;-webkit-transform: scale(1);" ></iframe>
+<iframe width="960" height="720" src="https://www.youtube.com/embed/mZewxqlFShA" frameborder="0" allowfullscreen></iframe>
+
