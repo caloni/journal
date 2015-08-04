@@ -23,7 +23,7 @@ layout: default
   <a href="https://github.com/caloni/caloni.github.io/edit/master/{{ page.path }}">
   <span class="post-date">{{ page.date }}</span></a>
 
-  <img src="{{ site.baseurl }}public/images/screenshots/{{ page.url | remove:'/' }}.jpg" onError="this.style.display = 'none';"/>
+  <img src="/images/{{ page.url | remove:'/' }}.jpg" onError="this.style.display = 'none';"/>
   {{ content }}
 </div>
 
