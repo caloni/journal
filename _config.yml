@@ -4,7 +4,7 @@ redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
 
 # Permalinks
-permalink:        :title
+permalink:        blog/:title
 
 # Encoding
 encoding:         utf-8
