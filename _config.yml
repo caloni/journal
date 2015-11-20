@@ -12,7 +12,7 @@ encoding:         utf-8
 # Setup
 title:            Blogue do Caloni
 tagline:          C++, Windows, Programação, Depuração e Transpiração
-url:              http://blog.caloni.com.br
+url:              http://caloni.com.br
 paginate:         5
 baseurl:          /
 author:
