@@ -38,5 +38,5 @@ defaults:
       layout: post
 
 exclude:
-  - _posts/archive
+  - _posts/archive_
 
