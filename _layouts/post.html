@@ -24,6 +24,7 @@ layout: default
   <span class="post-date">{{ page.date }}</span></a>
 
   <img src="/images/{{ page.url | remove:'/' }}.jpg" onError="this.style.display = 'none';"/>
+  <img src="/images/{{ page.url | remove:'/' }}.png" onError="this.style.display = 'none';"/>
   {{ content }}
 </div>
 
