@@ -53,7 +53,7 @@ int main()
 }
 ```
 
-![](/public/uploads/vtable11.png)
+![](/images/vtable11.png)
 
 Como você deve imaginar, é possível também fazer isso em C. Basta mudar os endereços das variáveis do tipo ponteiro de função que estão na struct usada como contexto. Para ficar o mais próximo possível do "modo C++" de fazer polimorfirmo, podemos escrever _hardcoded_ a tal _vtable_ para os diferentes tipos de "classe":
 

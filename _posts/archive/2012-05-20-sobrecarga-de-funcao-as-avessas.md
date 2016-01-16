@@ -10,7 +10,7 @@ categories:
 - Devaneando
 ---
 
-[![](../public/uploads/logo.png)](../public/uploads/logo.png)
+[![](images/logo.png)](/public/logo.png)
 
 
 

@@ -50,7 +50,7 @@ Windows Registry Editor Version 5.00
 @="cmd.exe /c c:\\tools\\indexsymbols.bat  \"%1\""
 ```
 
-Você pode baixar um arquivo reg [aqui](/public/uploads/index-symbols.reg), copiar as linhas acima em um .reg que você gerar, ou simplesmente seguir o passo-a-passo dessas linhas e gerar seu próprio registro. Após feito isso, surgirá um novo comando para qualquer DLL que você clicar com o outro botão do mouse:
+Você pode baixar um arquivo reg [aqui](/download/index-symbols.reg), copiar as linhas acima em um .reg que você gerar, ou simplesmente seguir o passo-a-passo dessas linhas e gerar seu próprio registro. Após feito isso, surgirá um novo comando para qualquer DLL que você clicar com o outro botão do mouse:
 
 ![](/images/index-symbols-context-menu.png)
 
