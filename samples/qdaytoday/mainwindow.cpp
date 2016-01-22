@@ -2,6 +2,7 @@
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
 #include "\bitforge\samples\ss.h"
+#include "\bitforge\samples\Files\Files.h"
 #include <fstream>
 #include <string>
 #include <regex>
@@ -245,6 +246,18 @@ void ParseTitle(string& title, string& category)
 }
 
 
+string FindCategoryPath(const string& category)
+{
+    string ret = ss() << "_posts\\" << GetCurrentDT("%Y-%m-%d") << "-" << category << ".md";
+
+    vector<string> files;
+    if (FindFiles(ss() << "_posts\\*" << category << ".md", files) && files.size())
+        ret = ss() << "_posts\\" << files[0];
+
+    return ret;
+}
+
+
 void MainWindow::on_input(const QString &line)
 {
     ofstream ofs("daytoday.txt", ios::app);
@@ -327,7 +340,7 @@ void MainWindow::on_input(const QString &line)
             break;
 
         default:
-            m_lastPath = ss() << "_posts\\" << GetCurrentDT("%Y-%m-%d") << "-" << category << ".md";
+            m_lastPath = FindCategoryPath(category);
 
             if (PathFileExistsA(m_lastPath.c_str()))
             {
