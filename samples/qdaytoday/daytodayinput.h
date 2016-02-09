@@ -65,11 +65,13 @@ protected:
         }
         else
         {
+            keyenter(e->key());
             QPlainTextEdit::keyPressEvent(e);
         }
     }
 
 signals:
+    void keyenter(int key);
     void input(const QString& line);
     void enter(const QString& line);
     void open();

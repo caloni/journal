@@ -19,6 +19,10 @@
 using namespace std;
 
 
+static const int MIN_COUNT_TIME = 60;
+static const int IDLE_SECONDS = 30;
+
+
 string GetCurrentDT(const char *format = "%Y-%m-%d %H:%M:%S")
 {
     char szDT[100] = "0000-00-00 00:00:00";
@@ -57,13 +61,15 @@ MainWindow::MainWindow(QWidget *parent) :
 {
     ui->setupUi(this);
     timerLabel = new QLabel();
+    timerLabel->setText("00:00:00");
     categoryLabel = new QLabel();
     statusBar()->addPermanentWidget(categoryLabel);
     statusBar()->addPermanentWidget(timerLabel);
 
     m_lastTitle = "qdaytoday";
     m_lastCategoryS = "v. " __DATE__;
-    m_startTime = 0;
+    m_startTime = m_restartTime = m_lastKeyTime = time(0);
+    m_seconds = 0;
 
     ChangeTitle();
     timer = new QTimer(this);
@@ -72,6 +78,7 @@ MainWindow::MainWindow(QWidget *parent) :
     timer->setSingleShot(false);
     timer->start(1000);
 
+    connect(ui->plainTextEdit, &DayToDayInput::keyenter, this, &MainWindow::on_keyenter);
     connect(ui->plainTextEdit, &DayToDayInput::input, this, &MainWindow::on_input);
     connect(ui->plainTextEdit, &DayToDayInput::enter, this, &MainWindow::on_enter);
     connect(ui->plainTextEdit, &DayToDayInput::stop, this, &MainWindow::on_stop);
@@ -258,17 +265,23 @@ string FindCategoryPath(const string& category)
 }
 
 
+void MainWindow::on_keyenter(int /*key*/)
+{
+    m_lastKeyTime = time(0);
+}
+
+
 void MainWindow::on_input(const QString &line)
 {
     ofstream ofs("daytoday.txt", ios::app);
     time_t tNow = time(0);
     string startDt = GetDT(m_startTime);
     string currDt = GetDT(tNow);
-    size_t seconds = tNow - m_startTime;
+    size_t seconds = tNow - m_restartTime + m_seconds;
 
     QStringList lines = line.split("\n");
 
-    if (seconds > 60)
+    if (seconds > MIN_COUNT_TIME)
         ofs << startDt << ' ' << currDt << ' ' << FormatTimeElapsed(seconds) << endl;
     for(int i = 0; i < lines.size(); ++i)
     {
@@ -367,6 +380,9 @@ void MainWindow::on_input(const QString &line)
             ofs << line << endl;
         }
     }
+
+    m_startTime = m_restartTime = time(0);
+    m_seconds = 0;
 }
 
 void MainWindow::on_enter(const QString &line)
@@ -413,19 +429,28 @@ void MainWindow::on_tick()
 
 void MainWindow::ChangeTitle()
 {
-    if (m_startTime)
+    time_t tNow = time(0);
+
+    if (tNow - m_lastKeyTime > IDLE_SECONDS) // ficou tantos segundos sem digitar
     {
-        time_t tNow = time(0);
-        QString timeElapsed = FormatTimeElapsed(tNow - m_startTime).c_str();
-        setWindowTitle(QString(m_lastTitle.c_str()) + " - qdaytoday");
-        timerLabel->setText(timeElapsed);
-        categoryLabel->setText(QString(m_lastCategoryS.c_str()));
+        if (m_restartTime)
+        {
+            m_seconds += tNow - m_restartTime;
+            m_restartTime = 0;
+        }
     }
     else
     {
-        m_startTime = time(0);
-        setWindowTitle(QString(m_lastTitle.c_str()) + " - qdaytoday");
-        timerLabel->setText("00:00:00");
-        categoryLabel->setText(QString(m_lastCategoryS.c_str()));
+        if (m_restartTime)
+        {
+            QString timeElapsed = FormatTimeElapsed(tNow - m_restartTime + m_seconds).c_str();
+            setWindowTitle(QString(m_lastTitle.c_str()) + " - qdaytoday");
+            timerLabel->setText(timeElapsed);
+            categoryLabel->setText(QString(m_lastCategoryS.c_str()));
+        }
+        else
+        {
+            m_restartTime = time(0);
+        }
     }
 }

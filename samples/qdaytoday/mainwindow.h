@@ -36,6 +36,7 @@ public:
     ~MainWindow();
 
 private slots:
+    void on_keyenter(int key);
     void on_input(const QString& line);
     void on_enter(const QString& line);
     void on_stop();
@@ -52,7 +53,8 @@ private:
     KnownCategories ParseCategory(const std::string& category);
 
 private:
-    time_t m_startTime;
+    time_t m_startTime, m_restartTime, m_lastKeyTime;
+    int m_seconds;
     std::string m_lastPath;
     std::string m_lastTitle;
     std::string m_lastCategoryS;
