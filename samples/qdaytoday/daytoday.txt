@@ -1,0 +1,16 @@
+2016-02-13 12:14:47 bitforge: Um teste
+2016-02-13 12:14:47 Será que eu peguei o jeito certo?
+2016-02-13 12:15:31 bitforge: Erro de abertura
+2016-02-13 12:15:31 Vamos ver se é isso
+2016-02-13 12:16:03 bitforge: Mais um teste
+2016-02-13 12:16:03 O que aconteceu?
+2016-02-13 12:16:28 bitforge: Teste final
+2016-02-13 12:16:28 Agora vai!
+2016-02-13 12:16:43 bitforge: Tomar no cu
+2016-02-13 12:16:43 Será que é tão difícil assim?
+2016-02-13 12:19:05 bitforge: Muito mais completo
+2016-02-13 12:19:05 E com muitos campos para preencher!
+2016-02-13 12:21:15 bitforge: Tratando o slug
+2016-02-13 12:21:15 Vamos ver se vai.
+2016-02-13 12:22:38 bitforge: Tratando layout
+2016-02-13 12:22:38 Vamos ver de novo.

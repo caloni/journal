@@ -229,6 +229,8 @@ KnownCategories MainWindow::ParseCategory(const string& category)
         ret = kcSeries;
     else if (category == "blog" || category == "caloni")
         ret = kcBlog;
+    else if (category == "bitforge" )
+        ret = kcBitForge;
     else
         ret = kcUnknown;
 
@@ -331,6 +333,7 @@ void MainWindow::on_input(const QString &line)
             ofs.open(m_lastPath);
             ofs << "---\n"
                 << "title: \"" << title << "\"\n"
+                << "imdb: \"0000000\"\n"
                 << "---\n";
             break;
 
@@ -350,6 +353,23 @@ void MainWindow::on_input(const QString &line)
                 << "title: \"" << title << "\"\n"
                 << "tags: [ ]\n"
                 << "---\n";
+            break;
+
+        case kcBitForge:
+        {
+            string slug = Slug(title.c_str());
+            slug.erase(0, 1);
+            m_lastPath = ss() << "c:\\bitforge\\bitforge.com.br\\bitforgebr.github.io\\_posts\\blog\\" << GetCurrentDT("%Y-%m-%d") << "-" << slug << ".md";
+            ofs.open(m_lastPath);
+            ofs << "---\n"
+                << "layout: \"" << "post" << "\"\n"
+                << "title: \"" << title << "\"\n"
+                << "author: \"" << "Wanderley Caloni" << "\"\n"
+                << "categories: \"" << "blog" << "\"\n"
+                << "header-img: \"img/blog/" << slug << "\"\n"
+                << "tags: [ ]\n"
+                << "---\n";
+        }
             break;
 
         default:
@@ -409,6 +429,7 @@ void MainWindow::on_stop()
     case kcCinema:
     case kcCinemaqui:
     case kcBlog:
+    case kcBitForge:
         ShellExecuteA(NULL, "edit", m_lastPath.c_str(), NULL, NULL, SW_SHOWNORMAL);
         break;
     }

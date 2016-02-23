@@ -24,6 +24,7 @@ enum KnownCategories
     kcCinemaqui,
     kcSeries,
     kcBlog,
+    kcBitForge,
 };
 
 
