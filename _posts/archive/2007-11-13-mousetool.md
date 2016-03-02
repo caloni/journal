@@ -15,7 +15,7 @@ Well, as most of you already know, I really don't like mice. Nevertheless I resp
 
 
 
-[![MouseTool no tray](../public/uploads/mousetool-tray.png)](../public/uploads/mousetool-tray.png)The program main purpose is to avoid clicking the mouse, simulating a click every time the user stops to move the cursor. Just this: simple, efficient and mouseless =).
+[![MouseTool no tray](/images/mousetool-tray.png)](/images/mousetool-tray.png)The program main purpose is to avoid clicking the mouse, simulating a click every time the user stops to move the cursor. Just this: simple, efficient and mouseless =).
 
 There are some options like drag-and-drop and double-click, both available through the program. You can choose to use a keyboard shortcut or the mode state, where you can switch the program default among simple-click, double-click and drag-and-drop.
 
@@ -38,10 +38,10 @@ Click the links above to download the program, and make good use of it.
 
 
 	
-  * [MouseTool Source Code](../public/uploads/src-mtool-v31.7z)
+  * [MouseTool Source Code](/images/src-mtool-v31.7z)
 
 	
-  * [MouseTool Binaries](../public/uploads/bin-mtool-v31.7z)
+  * [MouseTool Binaries](/images/bin-mtool-v31.7z)
 
 
 

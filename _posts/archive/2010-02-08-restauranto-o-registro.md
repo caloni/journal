@@ -25,15 +25,15 @@ O problema consistia basicamente em usar a saída do [RegMon](http://technet.mic
 
 Para iniciar, filtramos os resultados do RegMon para apenas capturar escritas no registro, não importando se falharam ou deram resultado.
 
-![Filtro no RegMon](../public/uploads/regmon-filter.png)
+![Filtro no RegMon](/images/regmon-filter.png)
 
 A partir disso executamos o registro e desregistro do componente, além da restauração do IE6, responsável por limpar a bagunça. O processo responsável por registrar componentes é o **regsvr32** e o responsável por limpar a bagunça, **rundll32**.
 
-![Restauração do IExplore](../public/uploads/iexplore-restore.png)
+![Restauração do IExplore](/images/iexplore-restore.png)
 
 Tendo a saída do RegMon exportada para formato texto, abrimos no Excel e filtramos o conteúdo pelo nome do processo. Note que existem duas instâncias de regsvr32 para usar, pois não sabemos em qual delas é danificado o registro.
 
-![Filtro no Excel](../public/uploads/excel-filter.png)
+![Filtro no Excel](/images/excel-filter.png)
 
 Para cada um dos filtros copiamos apenas o endereço da chave alterada para dois arquivos texto: regsvr32.txt e ierestore.txt. Usaremos esse primeiro para encontrar ocorrências no segundo, provando que um modifica o que o outro consertou.
 
@@ -64,13 +64,13 @@ find, espaço, abre aspas, end, fecha aspas, espaço, ierestore.txt, linha abaix
 
 Pronto. Parar macro. Terei que repetir isso dois milhões de vezes até o final do arquivo. Ora, então mando o Notepad++ repetir a minha macro até o final do arquivo e adio minha tendinite para os próximos anos.
 
-![Filtro no Notepad++](../public/uploads/notepadpp-filter.png)
+![Filtro no Notepad++](/images/notepadpp-filter.png)
 
 Só preciso agora renomear meu arquivo para .bat e executar. Posso redirecionar a saída da tela para um terceiro arquivo, de onde irei formatar minha lista de entradas no registro que foram adulteradas por ambos os programas (o registro do componente COM e a restauração do Internet Explorer).
 
 Nesse momento podemos ir tomar café. Bem melhor do que ficar horas e horas dando localizar, copiar, colar em todas as entradas do regsvr.
 
-[![Tomando café](../public/uploads/taking-coffee-notepadpp.jpg)](http://www.caloni.com.br/blog/restauranto-o-registro/tomando-cafe/)
+[![Tomando café](/images/taking-coffee-notepadpp.jpg)](http://www.caloni.com.br/blog/restauranto-o-registro/tomando-cafe/)
 
 Terminada a operação, abrimos o terceiro arquivo, retiramos as entradas insignificantes (por exemplo, o gerador de sementes de números randômicos) e os cabeçalhos do comando, algo bem fácil já que se trata do mesmo arquivo.
 

@@ -17,7 +17,7 @@ O [último comentário no meu último artigo](http://www.caloni.com.br/blog/houa
 
 
 	
-  * [HouaissParaBabylon](../public/uploads/houaissparababylon12.7z)
+  * [HouaissParaBabylon](/images/houaissparababylon12.7z)
 
 
 Essa é a versão 1.2 descrita no meu [último artigo sobre o projeto](http://www.caloni.com.br/blog/houaiss-para-babylon-12).

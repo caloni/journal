@@ -12,7 +12,7 @@ tags:
 - vim
 ---
 
-[![](../public/uploads/Vim_Tips_Wiki.png)](../public/uploads/Vim_Tips_Wiki.png)
+[![](/images/Vim_Tips_Wiki.png)](/images/Vim_Tips_Wiki.png)
 
 Sempre é bom reler as referências e tentar melhorar o que já está bom. No momento minha inspiração é o excelente [Vim: From Essentials to Mastery](http://www.infoq.com/presentations/Vim-From-Essentials-to-Mastery), uma coleção de slides bem-humorada que a cada releitura fornece dicas importantes para aprimorar o dia-a-dia com um dos editores mais poderosos do planeta.
 

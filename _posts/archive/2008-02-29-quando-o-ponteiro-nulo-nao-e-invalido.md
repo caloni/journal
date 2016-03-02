@@ -10,7 +10,7 @@ categories:
 - C++
 ---
 
-[![Coding Horror](../public/uploads/coding-horror2.png)](http://www.codinghorror.com/blog/)Existe coisa mais prazerosa do que admitir um erro que foi cometido na mesma semana? Existe: quando você sabia que estava certo, mas resolveu usar o senso comum por falta de provas.
+[![Coding Horror](/images/coding-horror2.png)](http://www.codinghorror.com/blog/)Existe coisa mais prazerosa do que admitir um erro que foi cometido na mesma semana? Existe: quando você sabia que estava certo, mas resolveu usar o senso comum por falta de provas.
 
 Pois bem. O mesmo amigo que me recomendou que escrevesse sobre o assunto do ponteiro nulo achou um livro sobre [armadilhas em C](http://www.literateprogramming.com/ctraps.pdf) com um exemplo que demonstra exatamente o contrário: dependendo da plataforma, **ponteiros nulos são sim válidos**.
 

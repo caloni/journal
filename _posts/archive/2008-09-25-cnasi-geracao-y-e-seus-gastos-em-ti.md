@@ -10,7 +10,7 @@ categories:
 - Devaneando
 ---
 
-[![Eu invadindo o sistema da Cnasi e me auto-promovendo gerente!](../public/uploads/cnasi-2008.jpg)](../public/uploads/cnasi-2008.jpg)Hoje descemos a rua para almoçar no shopping e aproveitamos para dar uma passada no último dia da feirinha de empresas de segurança, vulgo [Cnasi](http://www.cnasi.com.br/), para "prestigiar" a nossa participação nesse evento singular.
+[![Eu invadindo o sistema da Cnasi e me auto-promovendo gerente!](/images/cnasi-2008.jpg)](/images/cnasi-2008.jpg)Hoje descemos a rua para almoçar no shopping e aproveitamos para dar uma passada no último dia da feirinha de empresas de segurança, vulgo [Cnasi](http://www.cnasi.com.br/), para "prestigiar" a nossa participação nesse evento singular.
 
 Nosso crachá de visitantes dava direito a uma palestra. E haviam muitas. Porém, logo após a hora do almoço, das disponíveis uma era particularmente interessante, pois citava uma expressão que eu e minha colega nunca havíamos escutado: um senhor iria nos falar sobre como lidar com essas novas pessoas que estão cada vez mais invadindo nossas casas e nossos escritórios, pertencentes a esse grupinho, a tão famosa chamada **geração Y**.
 

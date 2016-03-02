@@ -156,4 +156,4 @@ int _tmain(int argc, _TCHAR* argv[])
 
 Voltando à pergunta original: penso que, com criatividade e C++, nada é impossível =)
 
-[![](../public/uploads/hr.png)](../public/uploads/hr.png)
+[![](/images/hr.png)](/images/hr.png)

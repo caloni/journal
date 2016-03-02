@@ -121,7 +121,7 @@ int main()
 ```
 
 
-![jurassicpark.PNG](../public/uploads/jurassicpark.PNG)
+![jurassicpark.PNG](/images/jurassicpark.PNG)
 
 
 

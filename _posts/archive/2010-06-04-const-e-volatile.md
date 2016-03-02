@@ -75,13 +75,13 @@ No exemplo acima, o valor de pi não pode mais ser alterado. Só que repare que 
 
 
 
-![const-memory.png](../public/uploads/const-memory.png)
+![const-memory.png](/images/const-memory.png)
 
 
 
 Teoricamente a região da memória que contiver uma variável const pode ser qualificada pelo sistema operacional como somente-leitura, mas isso não é uma obrigação. É obrigação do compilador avisar sobre tentativas de alteração da variável no meio do programa, mas nem sempre é possível enxergar que a memória não é alterável. Dessa forma, resultados imprevisíveis podem ocorrer.
 
-![const-gpf.png](../public/uploads/const-gpf.png)
+![const-gpf.png](/images/const-gpf.png)
 
 
 
@@ -130,13 +130,13 @@ O significado do volatile teoricamente muda de implementação para implementaç
 
 
 
-![Se concentre! Não é esse tipo de volatile!](../public/uploads/volatile-girl.jpg)
+![Se concentre! Não é esse tipo de volatile!](/images/volatile-girl.jpg)
 
 
 
 O exemplo clássico da API Win32 é o [InterlockedIncrement](http://msdn.microsoft.com/en-us/library/ms683614%28VS.85%29.aspx), que realiza operações atômicas em valores inteiros. Para fazer isso é necessário usar um recurso interno disponível pelo processador que irá modificar a memória sem intrusão de outras threads/processadores.
 
-![interlocked-increment.png](../public/uploads/interlocked-increment.png)
+![interlocked-increment.png](/images/interlocked-increment.png)
 
 
 
@@ -165,7 +165,7 @@ Variáveis volatile geralmente interagem de alguma forma com o sistema em que ro
 
 
 
-[![mutante.jpg](../public/uploads/mutante.jpg) ](http://fotos-videos-incriveis.blogspot.com/2009/04/tubarao-mutante.html)
+[![mutante.jpg](/images/mutante.jpg) ](http://fotos-videos-incriveis.blogspot.com/2009/04/tubarao-mutante.html)
 
 
 

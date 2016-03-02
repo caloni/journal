@@ -25,7 +25,7 @@ Por outro lado, e mais importante ainda, é ela que permite que as funções sej
 
 
 
-[![cdepends.gif](../public/uploads/cdepends.gif)](../public/uploads/cdepends.gif)
+[![cdepends.gif](/images/cdepends.gif)](/images/cdepends.gif)
 
 Existem diversas formas de entender esses dois conceitos. Eu prefiro explicar pela mesma experiência que temos quando descobrimos a divisão _hardware/software_:
 

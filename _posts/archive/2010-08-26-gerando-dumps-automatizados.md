@@ -82,7 +82,7 @@ int main()
 
 
 
-[![oncrash.png](../public/uploads/oncrash.png)](../public/uploads/finddump.htm)
+[![oncrash.png](/images/oncrash.png)](/images/finddump.htm)
 
 
 

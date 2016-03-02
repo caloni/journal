@@ -145,7 +145,7 @@ Criar um novo _branch_ totalmente duplicado pode se tornar um desperdício enorm
 
 Se compararmos o tamanho, veremos que o repositório compartilhado é que detém a maior parte dos arquivos, enquanto agora o ".bzr" que está na pasta do projeto possui apenas dados de controle. A mesma coisa irá acontecer com qualquer branch criado dentro da pasta de repositório compartilhado.
 
-![bzr-space-tests.png](../public/uploads/bzr-space-tests.png)![bzr-space-project1.png](../public/uploads/bzr-space-project1.png)
+![bzr-space-tests.png](/images/bzr-space-tests.png)![bzr-space-project1.png](/images/bzr-space-project1.png)
 
 Mas já criamos nossos dois branches cheios de arquivos, certo? Certo. Como já fizemos isso, devemos criar uma nova pasta como repositório compartilhado e criar dois novos branches dentro dessa pasta, cópias dos dois branches gordinhos:
 

@@ -35,7 +35,7 @@ Resumidamente, um critical section é um recurso que **apenas uma thread por vez
 
 
 
-[![Threads Room](../public/uploads/threads-room.png)](../public/uploads/threads-room.png)
+[![Threads Room](/images/threads-room.png)](/images/threads-room.png)
 
 
 

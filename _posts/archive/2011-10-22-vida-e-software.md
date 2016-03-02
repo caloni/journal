@@ -14,7 +14,7 @@ tags:
 - vida
 ---
 
-[caption id="attachment_1229" align="alignleft" width="168" caption="Fonte: semichaotic.spreadshirt.com"][![](../public/uploads/life-code_design.png)](../public/uploads/life-code_design.png)[/caption]
+[caption id="attachment_1229" align="alignleft" width="168" caption="Fonte: semichaotic.spreadshirt.com"][![](/images/life-code_design.png)](/images/life-code_design.png)[/caption]
 
 Desenvolver software está bem longe de ser uma ciência exata e muito próxima de ser uma ciência humana. Eu, pessoalmente, considero um ramo esotérico, onde vale muito mais ter a atitude de reconhecer que não temos muito controle sobre como as coisas funcionam do que querer ter as rédeas de algo desgovernado.
 

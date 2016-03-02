@@ -20,7 +20,7 @@ Para entender por inteiro o que acontece quando uma chamada ou acesso utilizando
 
 
 
-#### Versão 3 de fuzzycall ([baixe aqui](../public/uploads/fuzzycall3.cpp))
+#### Versão 3 de fuzzycall ([baixe aqui](/images/fuzzycall3.cpp))
 
 
 
@@ -110,7 +110,7 @@ O novo código chama através do mesmo ponteiro o mesmo método (duh), mas atrav
 
 Cada compilador e plataforma tem a liberdade de implementar o padrão C++ da maneira que quiser, mas o conceito no final acaba ficando quase a mesma coisa. No caso de ponteiros de métodos, o ponteiro guarda realmente o endereço da função que pertence à classe. Porém, como todo método não-estático em C++, para chamá-lo é necessário possuir um **_this_**, ou seja, o ponteiro para a instância:
 
-[![Fuzzy Call](../public/uploads/fuzzycall.gif)](../public/uploads/fuzzycall.gif)
+[![Fuzzy Call](/images/fuzzycall.gif)](/images/fuzzycall.gif)
 
 Em _assembly_ (comando "**cl /Fafuzzycall3.asm fuzzycall3.cpp**" para gerar a listagem), teremos algo assim:
 

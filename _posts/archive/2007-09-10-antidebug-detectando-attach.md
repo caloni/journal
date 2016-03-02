@@ -92,7 +92,7 @@ int main()
 ```
 
 
-Para compilar o [código acima](../public/uploads/antiattach.cpp), basta chamar o compilador seguido do ligador. Obs.: precisamos da user32.lib para chamar a função API MessageBox:
+Para compilar o [código acima](/images/antiattach.cpp), basta chamar o compilador seguido do ligador. Obs.: precisamos da user32.lib para chamar a função API MessageBox:
 
 
     
@@ -118,7 +118,7 @@ Após o programa ter sido executado, qualquer tentativa de _attach_ irá exibir 
 
 
     
-    <a href="../public/uploads/antiattach.png" title="Detecção de attach"><img src="http://www.caloni.com.br/blog/wp-content/uploads/antiattach.png" alt="Detecção de attach"></img></a>
+    <a href="/images/antiattach.png" title="Detecção de attach"><img src="http://www.caloni.com.br/blog/wp-content/uploads/antiattach.png" alt="Detecção de attach"></img></a>
 
 
 

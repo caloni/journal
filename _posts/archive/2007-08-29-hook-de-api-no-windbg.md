@@ -11,7 +11,7 @@ categories:
 - Engenharia Reversa
 ---
 
-[![MiniBSOD - Pequena tela azul](../public/uploads/minibsod.png)](../public/uploads/minibsod.png)Basicamente existem duas maneiras de um executável obter o endereço de uma função API do Windows: ou ele usa uma lib de interface com a DLL (o chamado "_link_ estático") ou ele chama a função [kernel32!GetProcAddress](http://msdn2.microsoft.com/en-us/library/ms683212.aspx) explicitamente [1].
+[![MiniBSOD - Pequena tela azul](/images/minibsod.png)](/images/minibsod.png)Basicamente existem duas maneiras de um executável obter o endereço de uma função API do Windows: ou ele usa uma lib de interface com a DLL (o chamado "_link_ estático") ou ele chama a função [kernel32!GetProcAddress](http://msdn2.microsoft.com/en-us/library/ms683212.aspx) explicitamente [1].
 
 Para conseguir saber as funções das quais um executável obtém o endereço através da primeira técnica podemos utilizar o mundialmente famoso [Dependency Walker](http://www.dependencywalker.com/). Ele nos mostrará quais DLLs ele utiliza e quais funções por DLL ele quer o endereço. Ele também nos avisa sobre as DLLs que estão utilizando _delay load_, uma técnica inventada no Visual Studio para que os executáveis não dependam estaticamente de APIs muito novas que podem não existir em versões do Windows mais antigas. Com o Depends também é possível fazer _hook_ de chamadas de API utilizando a opção _profiling_ (F7), mas não costuma funcionar muito bem com _trojans_, pois eles capotam antes que alguma coisa interessante ocorra.
 
@@ -104,4 +104,4 @@ Essa é uma maneira rústica, porém eficaz e rápida de obter a lista de execu�
 #### Exemplo para testar
 
 
-Desenvolvi um exemplo didático que procura por acessos a bancos nacionais conhecidos, exibindo seu endereço caso encontre. Você pode [baixar o executável](../public/uploads/trojan-bin.7z) e fazer sua análise. Se conseguir descobrir o que o programa faz, não deixe de comentar neste artigo o método por você empregado, de preferência com o máximo de dados obtidos. Boa sorte =)
+Desenvolvi um exemplo didático que procura por acessos a bancos nacionais conhecidos, exibindo seu endereço caso encontre. Você pode [baixar o executável](/images/trojan-bin.7z) e fazer sua análise. Se conseguir descobrir o que o programa faz, não deixe de comentar neste artigo o método por você empregado, de preferência com o máximo de dados obtidos. Boa sorte =)

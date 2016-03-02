@@ -10,7 +10,7 @@ categories:
 - Programação
 ---
 
-[![driverentry-com-br.PNG](../public/uploads/driverentry-com-br.PNG)](http://www.driverentry.com.br/blog/)A mensagem anterior deixou bem claro que tenho um roteiro de leituras bem _hardcore_ a fazer nos próximos 20 anos. Pretendo, enquanto isso, programar alguma coisinha rodando em ring0, porque nem só de teoria vive o programador-escovador-de-bits. Pensando nisso, esse fim-de-semana comecei a me aventurar nos ótimos exemplos e explicações do [DriverEntry.com.br](http://www.driverentry.com.br/blog/), nossa referência _kernel mode_ tupiniquim.
+[![driverentry-com-br.PNG](/images/driverentry-com-br.PNG)](http://www.driverentry.com.br/blog/)A mensagem anterior deixou bem claro que tenho um roteiro de leituras bem _hardcore_ a fazer nos próximos 20 anos. Pretendo, enquanto isso, programar alguma coisinha rodando em ring0, porque nem só de teoria vive o programador-escovador-de-bits. Pensando nisso, esse fim-de-semana comecei a me aventurar nos ótimos exemplos e explicações do [DriverEntry.com.br](http://www.driverentry.com.br/blog/), nossa referência _kernel mode_ tupiniquim.
 
 
 
@@ -67,4 +67,4 @@ Pelo que eu vi, no geral, acredito que aos poucos irei voltar para os tópicos q
 
 Tudo isso aliado aos exemplos e à teoria latente do Windows 2000 Device Driver Book (minha primeira leitura) irá dar um upgrade forçado aos meus neurônios. Espero sobreviver para contar o final da história.
 
-O resultado dos meus exercícios atuais, com alguns poucos comentários, pode ser baixado [aqui](../public/uploads/learningdrivers.zip).
+O resultado dos meus exercícios atuais, com alguns poucos comentários, pode ser baixado [aqui](/images/learningdrivers.zip).

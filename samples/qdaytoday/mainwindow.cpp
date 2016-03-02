@@ -1,8 +1,8 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
-#include "\bitforge\samples\ss.h"
-#include "\bitforge\samples\Files\Files.h"
+#include "\bitforge\samples\util\ss.h"
+#include "\bitforge\samples\samples\Files\Files.h"
 #include <fstream>
 #include <string>
 #include <regex>
@@ -328,21 +328,23 @@ void MainWindow::on_input(const QString &line)
                 << "---\n";
             break;
 
+        case kcSeries:
+            m_lastPath = ss() << "..\\cinetenisverde.github.io\\_posts\\" << GetCurrentDT("%Y-%m-%d") << Slug(title.c_str()) << ".md";
+            ofs.open(m_lastPath);
+            ofs << "---\n"
+                << "title: \"" << title << "\"\n"
+                << "imdb: \"0000000\"\n"
+                << "category: \"" << "series" << "\"\n"
+                << "stars: \"3/5\"\n"
+                << "---\n";
+            break;
+
         case kcCinemaqui:
             m_lastPath = ss() << "..\\cinetenisverde.github.io\\cinemaqui\\" << GetCurrentDT("%Y-%m-%d") << Slug(title.c_str()) << ".md";
             ofs.open(m_lastPath);
             ofs << "---\n"
                 << "title: \"" << title << "\"\n"
                 << "imdb: \"0000000\"\n"
-                << "---\n";
-            break;
-
-        case kcSeries:
-            m_lastPath = ss() << "..\\cinetenisverde.github.io\\_posts\\series\\" << GetCurrentDT("%Y-%m-%d") << Slug(title.c_str()) << ".md";
-            ofs.open(m_lastPath);
-            ofs << "---\n"
-                << "title: \"" << title << "\"\n"
-                << "category: \"" << "series" << "\"\n"
                 << "---\n";
             break;
 
@@ -427,6 +429,7 @@ void MainWindow::on_stop()
     switch (m_lastCategory)
     {
     case kcCinema:
+    case kcSeries:
     case kcCinemaqui:
     case kcBlog:
     case kcBitForge:

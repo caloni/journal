@@ -56,6 +56,6 @@ Como meus leitores são muito espertos foi partir para o momento após rodarmos 
 
 O screenshot diz tudo:
 
-[![Debug do notepad pelo kernel](../public/uploads/debug-notepad-kernel.png)](../public/uploads/debug-notepad-kernel.png)
+[![Debug do notepad pelo kernel](/images/debug-notepad-kernel.png)](/images/debug-notepad-kernel.png)
 
 Agora a parte mais divertida: experimente com outro notepad, ou com o explorer =)

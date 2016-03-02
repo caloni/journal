@@ -116,7 +116,7 @@ int _tmain(int argc, _TCHAR* argv[])
 
 É mais sutil, também costuma confundir no meio de vários parâmetros, e pode ser detectado utilizando a técnica de transformar tudo em assembly:
 
-[![Assembly With Source Code](../public/uploads/vc-asm-output.png)](../public/uploads/vc-asm-output.png)
+[![Assembly With Source Code](/images/vc-asm-output.png)](/images/vc-asm-output.png)
 
 Com isso temos uma dica legal na saída do arquivo ASM:
 
@@ -153,7 +153,7 @@ Com isso temos uma dica legal na saída do arquivo ASM:
 
 Conforme o printf interpreta a string de formatação, ele vai "comendo" (no bom sentido) os argumentos passados na pilha. Se a string informa que existe um int de 32 bits, mas na verdade existe um de 64, ele vai comer apenas 32 bits da pilha, deixando os próximos 32 para o desastre iminente:
 
-[![Pilha na entrada do printf](../public/uploads/printf-stack.png)](../public/uploads/printf-stack.png)
+[![Pilha na entrada do printf](/images/printf-stack.png)](/images/printf-stack.png)
 
 Como os próximos 32 bits de nosso int64 estão zerados, faz sentido o printf imprimir (null) no lugar da string, pois este é o comportamento padrão da função quando o ponteiro é nulo. Agora, se tivéssemos um int realmente grande - vulgo "intão" - daí as coisas seriam diferentes:
 
@@ -178,4 +178,4 @@ int _tmain(int argc, _TCHAR* argv[])
     
     Saída:
     =====
-    <a href="../public/uploads/vc-debug-av.png" title="Access Violation dentro do VC"><img src="http://www.caloni.com.br/blog/wp-content/uploads/vc-debug-av.png" alt="Access Violation dentro do VC"></img></a>
+    <a href="/images/vc-debug-av.png" title="Access Violation dentro do VC"><img src="http://www.caloni.com.br/blog/wp-content/uploads/vc-debug-av.png" alt="Access Violation dentro do VC"></img></a>

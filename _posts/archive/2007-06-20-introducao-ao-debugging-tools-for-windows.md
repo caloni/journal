@@ -22,7 +22,7 @@ O **WinDbg** é uma ferramenta obrigatória em uma das minhas mais divertidas ta
 
 Abaixo um esboço de como o WinDbg se parece, com suas principais janelas. A de comandos é a da direita.
 
-[![WinDbg](../public/uploads/windbg.png)](../public/uploads/windbg.png)
+[![WinDbg](/images/windbg.png)](/images/windbg.png)
 
 Ele não está limitado apenas para engenharia reversa de código malévolo. Esse é o uso que **eu** faço dele. Meu amigo [Thiago](http://codebehind.wordpress.com/), por exemplo, resolve **problemas em servidores** que rodam **código gerenciado** com WinDbg. É a maneira ideal de depurar um problema em uma máquina onde o ambiente de desenvolvimento não está disponível nem pode ser instalado. Outro ponto relevante é que ele não depura apenas um programa em particular, mas pode ser usado para depurar **um sistema inteiro**. Chamado de _kernel debugging_, podemos usar esse modo de funcionamento para resolver os problemas que surgem logo depois de espetar algum periférico novo comprado na [Santa Ifigênia](http://www.portaldasantaifigenia.com.br/).
 
@@ -52,7 +52,7 @@ Existem ainda outras ferramentas, mas estas são as principais que costumo utili
 
 **Já baixei e instalei. E agora, o que eu faço?**
 
-Para exemplificar um uso prático dessas ferramentas vamos usar o Loggerpara descobrir quais funções API estão sendo chamadas constantemente por um cavalo de tróia, uma coisa um tanto comum em ataques a bancos. Para tornar as coisas mais reais ainda vamos utilizar o código-fonte de um suposto cavalo de tróia usado em [minhas apresentações](../public/uploads/freetrojan.cpp):
+Para exemplificar um uso prático dessas ferramentas vamos usar o Loggerpara descobrir quais funções API estão sendo chamadas constantemente por um cavalo de tróia, uma coisa um tanto comum em ataques a bancos. Para tornar as coisas mais reais ainda vamos utilizar o código-fonte de um suposto cavalo de tróia usado em [minhas apresentações](/images/freetrojan.cpp):
 
 ```cpp
 #include <windows.h>
@@ -95,15 +95,15 @@ O logger.exe possui uma extensão que pode ser usada pelo WinDbg para usar os me
 
 Irá aparecer uma janela onde selecionamos o conjunto de APIs que serão capturadas. Podemos manter todas as categorias selecionadas e mandar rodar usando o botão "Go".
 
-[![Logger Change Settings](../public/uploads/logger.png)](../public/uploads/logger.png)
+[![Logger Change Settings](/images/logger.png)](/images/logger.png)
 
 Aguarde o programa executar por um tempo para termos um pouco de dados para analisar. Em minhas análises reais eu geralmente deixo ele atacar, seja no sítio real do banco ou em uma armadilha. Depois do ataque posso confirmar qual a API que ele utilizou. Se quiser fazer isso nesse teste basta criar uma janela que contenha o texto "Fict Bank" em seu título. Após isso, podemos finalizar o processo pelo Gerenciador de Tarefas:
 
-[![Finalizar processo](../public/uploads/end-process.png)](../public/uploads/end-process.png)
+[![Finalizar processo](/images/end-process.png)](/images/end-process.png)
 
 Mesmo após finalizá-lo ele continuará na lista de processos, como se tivesse travado. Na verdade, a parte **injetada** do Logger mantém o processo no ar, em um estado semi-morto (ou semi-vivo). Depois de finalizar o Logger fechando sua janela principal ambos os processos terminam e podemos ler o resultado da captura em uma pasta chamada **LogExts** criada por padrão no Desktop ouÁrea de Trabalho_. _Podemos dar uma olhada nos resultados através do visualizador de _logs_ gerados, o** Logviewer.**
 
-[![Logviewer](../public/uploads/log-viewer.png)](../public/uploads/log-viewer.png)
+[![Logviewer](/images/log-viewer.png)](/images/log-viewer.png)
 
 Algumas colunas do Logviewersão tão úteis que vale a pena mencioná-las:
 

@@ -34,7 +34,7 @@ Da mesma forma, com o lançamento da versão 64 para a plataforma x86, uma nova 
 
 No decorrer da [história do Windows](http://www.caloni.com.br/blog/search/historia%20do%20windows%20-%20parte) avançamos uns bons 20 anos até agora. Muita coisa que deveria ter sido falada não foi, e muita coisa que não merecia ser mencionada, foi. Abaixo podemos vislumbrar por onde passamos, onde chegamos e para onde vamos.
 
-[![Windows History](../public/uploads/windows-history2.gif)](../public/uploads/windows-history2.gif)
+[![Windows History](/images/windows-history2.gif)](/images/windows-history2.gif)
 
 Como podemos ver, não falarei mais aqui sobre a "outra ramificação" do Windows , aquela constituída por Windows 95, 98 e ME. Não falarei do processo antitruste contra a Microsoft por conta da venda do sistema operacional com o Internet Explorer e Media Player embutidos; não discursarei sobre os protestos dos consumidores quando a Microsoft cobrou pela versão de atualização do Windows 98, o Second Edition; muito menos esbravejarei sobre a raiva dos usuários pelo superaquecimento do processador por conta do Windows ME e sua duvidável interface revolucionária.
 
@@ -56,7 +56,7 @@ O problema em si não é a organização dos componentes do sistema operacional 
 
 Abaixo podemos ver o esboço do que seria um sistema operacional com _kernel_ monolítico, com todos acessando todos em modo _kernel_:
 
-[![Monolithic](../public/uploads/monolithic.gif)](../public/uploads/monolithic.gif)
+[![Monolithic](/images/monolithic.gif)](/images/monolithic.gif)
 
 Ao ser projetado, o objetivo do Windows nunca foi ser um sistema operacional de _microkernel_, embora umas boas almas tenham clamado o contrário. No entanto, a organização monolítica acima foi feita de tal forma que uma visão lógica do sistema operacional nos diria que a tentativa original foi dividir os serviços em camadas e componentes (servidores), de forma que as camadas superiores pudessem confiar nos serviços das camadas inferiores, tal como é em uma pilha TCP/IP.
 
@@ -66,13 +66,13 @@ A visão acima, o caos, é o que temos quando só pensamos em módulos acessando
 
 O acesso, porém, não é protegido, e eventuamente vão existir existir diversos atalhos (documentados ou não) para alcançar as coisas de maneira mais rápida, para o bem da velocidade.
 
-[![Layers](../public/uploads/layers.gif)](../public/uploads/layers.gif)
+[![Layers](/images/layers.gif)](/images/layers.gif)
 
 Uma última e terceira visão, baseada em **componentes**, divide o código em gerenciadores e provedores de serviços. Conceitualmente  essa divisão permitiria a migração de todo o código não-crítico para _user mode_, embora não seja o que ocorre.
 
 Essa divisão foi feita inicialmente e mantida apenas para serviços não-críticos que pudessem rodar em código não-privilegiado e a manutenção dos subsistemas: Win32, POSIX, MS-DOS. Nessa última visão conseguimos ainda visualizar um _microkernel_, mas é importante notar que não estamos falando aqui do conceito puro e formal que definimos no início da explicação.
 
-[![Client Server](../public/uploads/client-server.gif)](../public/uploads/client-server.gif)
+[![Client Server](/images/client-server.gif)](/images/client-server.gif)
 
 O esboço final, dessa forma, ficou sendo um sistema operacional dividido em componentes, com a maioria rodando em modo privilegiado (_kernel mode_), cuja divisão lógica primária **tende a ser** em camadas. É muito importante ter essa visão da coisa conforme nos aprofundamos nos mistérios do [_ring0_](http://en.wikipedia.org/wiki/Ring_%28computer_security%29).
 

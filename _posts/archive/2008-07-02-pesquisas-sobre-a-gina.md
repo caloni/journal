@@ -10,7 +10,7 @@ categories:
 - Sistema Operacional
 ---
 
-[![250px-xp_windows_security.png](../public/uploads/250px-xp_windows_security.thumbnail.png)](../public/uploads/250px-xp_windows_security.png)Já sabemos o que é uma [GINA](http://www.caloni.com.br/blog/gina-x-credential-provider). Afinal, todo mundo já viu uma antes. E sabemos que hoje em dia ela está morta.
+[![250px-xp_windows_security.png](/images/250px-xp_windows_security.thumbnail.png)](/images/250px-xp_windows_security.png)Já sabemos o que é uma [GINA](http://www.caloni.com.br/blog/gina-x-credential-provider). Afinal, todo mundo já viu uma antes. E sabemos que hoje em dia ela está morta.
 
 No entanto, algumas pequenas mudanças foram feitas nela no Windows XP que ainda almaldiçoam o código de quem tenta reproduzir a famosa GINA da Microsoft. Nem todos chegam no final e morrem tentando.
 

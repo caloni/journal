@@ -12,7 +12,7 @@ tags:
 - source code
 ---
 
-[![](../public/uploads/assembla-stream-caloni-300x166.png)](../public/uploads/assembla-stream-caloni.png)
+[![](/images/assembla-stream-caloni-300x166.png)](/images/assembla-stream-caloni.png)
 
 Reestruturei meus projetos caseiros e coloquei todos em um branch no repositório do Assembla. A partir dele começarei a reestruturas os códigos de exemplo do saite, o deve facilitar o acesso. Para usuários do Bazaar, como eu, basta puxar o branch usando seu endereço:
 

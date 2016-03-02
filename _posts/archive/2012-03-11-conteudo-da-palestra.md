@@ -16,7 +16,7 @@ tags:
 - reports
 ---
 
-[![](../public/uploads/tagcloud.png)](../public/uploads/tagcloud.png)
+[![](/images/tagcloud.png)](/images/tagcloud.png)
 
 
 
@@ -44,7 +44,7 @@ Segue minha palestra e meu código-fonte sobre Move Semantics devidamente compac
 
 
 	
-  * [MoveSemantics](../public/uploads/MoveSemantics.7z)
+  * [MoveSemantics](/images/MoveSemantics.7z)
 
 
 

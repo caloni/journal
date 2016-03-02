@@ -26,7 +26,7 @@ Tanto faz qual controle você pretende usar. No meu exemplo usarei o Bazaar, que
 
 
 
-![Marcar para usar o PATH pode ser uma boa pra quem é fã de linha de comando.](../public/uploads/bazaar-wizard-mark-path.png)
+![Marcar para usar o PATH pode ser uma boa pra quem é fã de linha de comando.](/images/bazaar-wizard-mark-path.png)
 
 _Marcar para usar o PATH pode ser uma boa pra quem é fã de linha de comando._
 

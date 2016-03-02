@@ -47,7 +47,7 @@ Por exemplo, chamamos a função ReadFile para ler um arquivo. Ela retorna FALSE
 [](http://en.wikipedia.org/wiki/Thumbs_up)
 
 
-[![Thumbs Down](../public/uploads/thumbs-down.jpg)](http://en.wikipedia.org/wiki/Thumbs_up)
+[![Thumbs Down](/images/thumbs-down.jpg)](http://en.wikipedia.org/wiki/Thumbs_up)
 
 
 Em funções nessas condições, geralmente existe uma **segunda função (ou variável)** que retorna o último erro que ocorreu na API, ou seja, o erro que fez com que última função chamada retornasse que algo não deu certo. Nas funções de exemplo, são usados três métodos distintos, pois estamos falando de três APIs distintas:

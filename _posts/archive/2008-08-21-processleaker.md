@@ -36,10 +36,10 @@ int main()
 
 Para usá-lo, basta abrir um Gerenciador de Tarefas com opção de exibir o PID dos processos.
 
-[![taskmanagerpid.PNG](../public/uploads/taskmanagerpid.PNG)](../public/uploads/taskmanagerpid.PNG)
+[![taskmanagerpid.PNG](/images/taskmanagerpid.PNG)](/images/taskmanagerpid.PNG)
 
 A partir daí, é só criar e matar várias instâncias do explorer.exe. Antes de matar um, digite o PID do novo processo no ProcessLeaker.
 
-![processleaker.PNG](../public/uploads/processleaker.PNG)
+![processleaker.PNG](/images/processleaker.PNG)
 
 Para listar os processos perdidos, basta usar o comando "!process 0 0" no WinDbg depurando em kernel. O resto você já sabe.

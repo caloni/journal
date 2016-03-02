@@ -28,7 +28,7 @@ Os depuradores do pacote Debugging Tools (especialmente o ntsd e o cdb) suportam
 
 Para isso podemos nos utilizar do parâmetro **-d**, que manda o depurador redirecionar toda saída e controle para o depurador de _kernel_. Para que isso funcione o depurador já deve estar atachado no sistema-alvo. A coisa funciona mais ou menos assim:
 
-![windbg-user-kernel.png](../public/uploads/windbg-user-kernel.png)
+![windbg-user-kernel.png](/images/windbg-user-kernel.png)
 
 Com essa configuração temos a vantagem de ter o sistema congelado só pra nós, ao mesmo tempo que conseguimos depurar nosso processo fujão, passo-a-passo.
 
@@ -47,7 +47,7 @@ Para ativar qualquer programa que irá rodar nesse modo, basta usar o aplicativo
 
 É preciso dar uma lida bem profunda na ajuda do Debugging Tools para entender como as coisas estão funcionando nessa configuração milagrosa que estamos usando. Procure por "Controlling the User-Mode Debugger from the Kernel Debugger". Também é possível ouvir falar parcamente sobre isso no livro Advanced Windows Debugging na parte "Redirecting a User Mode Debugger Through a Kernel". A vantagem é que vem de brinde uma bela figura para pendurar em um quadro no escritório (embora eu possa jurar que já vi essa figura na ajuda do WinDbg):
 
-[![windbg-user-kernel2.png](../public/uploads/windbg-user-kernel2.png)](../public/uploads/windbg-user-kernel2.png)
+[![windbg-user-kernel2.png](/images/windbg-user-kernel2.png)](/images/windbg-user-kernel2.png)
 
 Como podemos notar, o controlador de tudo é o _kernel debugger. _Assim que o depurador de processo entra em ação, ele se comunica com o depurador de _kernel _que entra no modo _user mode prompt, _pedindo entrada para ser redirecionada ao depurador de processo. Existem alguns caminhos para sair de um estado e entrar em outro, como o comando **.breakin** e o **.sleep**.
 

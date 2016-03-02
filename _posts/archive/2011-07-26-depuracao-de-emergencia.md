@@ -23,7 +23,7 @@ O programa está rodando no servidor do cliente, que é acessível por sessão r
   2. Depurar localmente o problema.
 
 
-[![](../public/uploads/CrashOnServerCrash.png)](../public/uploads/CrashOnServerCrash.png)
+[![](/images/CrashOnServerCrash.png)](/images/CrashOnServerCrash.png)
 
 
 ### Analisar um dump gerado
@@ -31,7 +31,7 @@ O programa está rodando no servidor do cliente, que é acessível por sessão r
 
 Para a primeira opção, basta abrir o Gerenciador de Tarefas, localizar o processo e gerar o dump através do menu de contexto.
 
-[![](../public/uploads/GenerateCrashDumpTaskManager.png)](../public/uploads/GenerateCrashDumpTaskManager.png)
+[![](/images/GenerateCrashDumpTaskManager.png)](/images/GenerateCrashDumpTaskManager.png)
 
 Com o dump e o Windbg em mãos, basta analisá-lo. Porém, se o seu processo é 32 bits e o servidor é 64 bits (geralmente é), o dump gerado será de 64 bits, EMBORA seja de um process 32. Ou seja, ao abri-lo, o sistema vai mostrar as threads de manipulação do SO para sistemas 32 (todos com o nosso amigo wow64cpu).
 
@@ -132,7 +132,7 @@ Supondo que temos tudo isso, só precisamos executar alguns passos básicos para
 #### 1. Abrir o WinDbg e escolher File, Open Executable. Escolha o executável e pare por aí.
 
 
-[![](../public/uploads/OpeningWinDbgOpenExecutable.png)](../public/uploads/OpeningWinDbgOpenExecutable.png)
+[![](/images/OpeningWinDbgOpenExecutable.png)](/images/OpeningWinDbgOpenExecutable.png)
 
 
 #### 2. Na tela de comando do WinDbg (View, Command, ou Alt + 1) execute os comandos abaixo:

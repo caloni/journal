@@ -10,7 +10,7 @@ categories:
 - Código
 ---
 
-[![C++ Builder Control](../public/uploads/cppbuilder-controls.png)](../public/uploads/cppbuilder-controls.png)Como próxima lição da nossa jornada Borland, vamos aprender a fazer os controles de um _form_ interagirem entre si com a força do pensamento.
+[![C++ Builder Control](/images/cppbuilder-controls.png)](/images/cppbuilder-controls.png)Como próxima lição da nossa jornada Borland, vamos aprender a fazer os controles de um _form_ interagirem entre si com a força do pensamento.
 
 Para essa proeza precisaremos de:
 
@@ -66,4 +66,4 @@ void __fastcall TForm1::Button1Click(TObject *Sender)
 
 Mais simples, impossível. E com um pouco de imaginação, o mais besta dos aplicativos pode se tornar uma utilidade do dia a dia. Até sua mãe vai adorar.
 
-[![Lista de Compras](../public/uploads/listadecompras.gif)](../public/uploads/listadecompras.gif)
+[![Lista de Compras](/images/listadecompras.gif)](/images/listadecompras.gif)

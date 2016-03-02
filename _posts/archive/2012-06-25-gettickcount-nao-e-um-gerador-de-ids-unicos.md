@@ -15,7 +15,7 @@ Muitas vezes uma solução intuitiva não é exatamente o que esperamos que seja
 
 
 
-[![](../public/uploads/TimeTravel.jpg)](../public/uploads/TimeTravel.jpg)
+[![](/images/TimeTravel.jpg)](/images/TimeTravel.jpg)
 
 
 

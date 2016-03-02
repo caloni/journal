@@ -422,7 +422,7 @@ E, agora sim, encontramos o culpado!
 
 
 
-[![](../public/uploads/thats-a-bingo.jpg)](http://annahinks.tumblr.com/post/176676889)
+[![](/images/thats-a-bingo.jpg)](http://annahinks.tumblr.com/post/176676889)
 
 
 

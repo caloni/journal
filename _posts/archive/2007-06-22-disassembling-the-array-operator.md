@@ -46,7 +46,7 @@ int main()
 ```
 
 
-The quote[index] bellow shows that we can use both orders and the code will compile successfully ([try it](../public/uploads/2007/06/disassembling-array.cpp)!).
+The quote[index] bellow shows that we can use both orders and the code will compile successfully ([try it](/images/2007/06/disassembling-array.cpp)!).
 
 _**std::cout << "And the language is: " << index [ quote ] << std::endl;**_
 

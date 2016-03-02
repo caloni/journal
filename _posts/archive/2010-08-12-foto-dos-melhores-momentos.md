@@ -10,7 +10,7 @@ categories:
 - Depuração
 ---
 
-[![Tela azul de recordação](../public/uploads/telaazul_0309.thumbnail.jpg)](../public/uploads/telaazul_0309.jpg) Mais um quebra-cabeças antes da nossa palestra, esse "baseado em fatos reais".
+[![Tela azul de recordação](/images/telaazul_0309.thumbnail.jpg)](/images/telaazul_0309.jpg) Mais um quebra-cabeças antes da nossa palestra, esse "baseado em fatos reais".
 
 A história é a seguinte: o cliente instalou uma versão nova do produto em algumas máquinas que, ato contínuo, começaram a apresentar telas azuis constantemente. Como essas máquinas tinham que ser usadas pelos funcionários, a administradora rapidamente desinstalou essa versão buguenta, e logo em seguida pediu por uma correção.
 

@@ -11,7 +11,7 @@ categories:
 - Sistema Operacional
 ---
 
-![Telling Stories](../public/uploads/telling-stories.png) Em um ambiente _multithreading_, diversas threads disputam "a tapas" a atenção do processador (CPU). Certo? Podemos dizer que, em um ambiente com muito processamento a realizar, de certa forma é isso que acontece. São threads e mais threads rodando um [pedacinho de código](http://www.caloni.com.br/blog/historia-do-windows-parte-40) cada vez que passam pelo processador.
+![Telling Stories](/images/telling-stories.png) Em um ambiente _multithreading_, diversas threads disputam "a tapas" a atenção do processador (CPU). Certo? Podemos dizer que, em um ambiente com muito processamento a realizar, de certa forma é isso que acontece. São threads e mais threads rodando um [pedacinho de código](http://www.caloni.com.br/blog/historia-do-windows-parte-40) cada vez que passam pelo processador.
 
 Um ambiente complexo como esse é repleto de pequenos detalhes que podem fazer o iniciante logo desanimar quando tentar depurar um programa com mais de uma thread. De fato, eu já percebi que muitos não vão saber nem como começar a mastigar o problema.
 
@@ -95,7 +95,7 @@ Pelo jeito, a primeira thread não deu chance para as outras. Isso acontece por 
 
 Quando uma thread quer realizar algum processamento, ela precisa entrar na** fila das threads ativas**, que aguardam pela CPU que irá atendê-las. Nessa fila ela pega uma senha e aguarda a sua vez. Só que cada um que é atendido pela CPU tem um **tempo máximo de atendimento**, que nós chamamos de [quantum, ou time slice](http://en.wikipedia.org/wiki/Preemptive_multitasking#Time_slice). Se o tempo máximo estoura, ou a thread não tem mais nada pra fazer, ela sai do guichê de atendimento e volta a ficar inativa, ou volta para o final da fila, aguardando por mais processamento.
 
-[![Fila das threads](../public/uploads/fila-das-threads.gif)](../public/uploads/fila-das-threads.gif)
+[![Fila das threads](/images/fila-das-threads.gif)](/images/fila-das-threads.gif)
 
 Uma thread pode opcionalmente ir para o final da fila por conta própria. Para isso, basta que ela chame a função [Sleep](http://msdn.microsoft.com/en-us/library/ms686298(VS.85).aspx) da API passando qualquer valor em milissegundos; até mesmo zero. Se passar um valor diferente de zero, ela irá para outra fila de espera, a **fila das inativas**, até o tempo determinado estourar. Depois ela volta para a fila das threads ativas. Se passar zero, ela vai direto para a fila das ativas.
 

@@ -14,7 +14,7 @@ Bem, como a maioria de você já sabe, eu realmente não gosto de _mouses_. Apes
 
 
 
-[![MouseTool no tray](../public/uploads/mousetool-tray.png)](../public/uploads/mousetool-tray.png)O principal objetivo do programa é evitar de clicar no _mouse, _simulando um clique toda vez que o usuário pára de mover o ponteiro. E é só isso: simples, eficiente e _mouseless_ =).
+[![MouseTool no tray](/images/mousetool-tray.png)](/images/mousetool-tray.png)O principal objetivo do programa é evitar de clicar no _mouse, _simulando um clique toda vez que o usuário pára de mover o ponteiro. E é só isso: simples, eficiente e _mouseless_ =).
 
 Existem algumas outras opções como arrastar-e-soltar e clique-duplo, ambas disponíveis pelo próprio programa através de atalhos do teclado ou mudança de estado, situação onde o usuário antes pousa o ponteiro sobre a ação desejada e depois pousa o ponteiro sobre o alvo, dessa forma alternando entre os três modos.
 
@@ -37,10 +37,10 @@ Clique nos liques abaixo para baixar o programa, e faça bom uso dele.
 
 
 	
-  * [Código-fonte do MouseTool ](../public/uploads/src-mtool-v31.7z)
+  * [Código-fonte do MouseTool ](/images/src-mtool-v31.7z)
 
 	
-  * [Binários do MouseTool ](../public/uploads/bin-mtool-v31.7z)
+  * [Binários do MouseTool ](/images/bin-mtool-v31.7z)
 
 
 

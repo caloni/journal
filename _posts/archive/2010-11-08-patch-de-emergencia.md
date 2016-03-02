@@ -16,7 +16,7 @@ Após um projeto muito bem sucedido, entregue no prazo e homologado em tempo rec
 
 Mas eis que liga o seu gerente para o celular vermelho que te entregou no caso de emergências críticas e te avisa que um problema crítico foi detectado em um serviço crítico: o detector de pares. Consegue ver o erro?
 
-![Detector de Pares](../public/uploads/detector-de-pares.png)
+![Detector de Pares](/images/detector-de-pares.png)
 
 
 
@@ -66,7 +66,7 @@ Mais uma vez calmo da vida, você diz que isso é coisa de criança. Tudo que pr
 
 Tudo que você precisa é abrir o processo pelo WinDbg, encontrar a versão defeituosa e substituir os bytes certos.
 
-![Corrigindo versão](../public/uploads/critical-service-patched.png)
+![Corrigindo versão](/images/critical-service-patched.png)
 
 
 
@@ -108,7 +108,7 @@ Podemos começar escrevendo a função nova da memória do processo de teste par
 
 Em seguida iremos sobrescrever a função antiga no processo em execução. Para evitar crashes é vital que tenhamos certeza que a função não estará sendo executada nesse momento. No nosso caso basta aguardar a entrada na função Sleep da API, que dorme por 3 segundos, tempo suficiente para a atualização.
 
-![Live Patch!](../public/uploads/live-patch-detector-de-pares.png)
+![Live Patch!](/images/live-patch-detector-de-pares.png)
 
 
     

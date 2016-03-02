@@ -10,7 +10,7 @@ categories:
 - Depuração
 ---
 
-![dimm.gif](../public/uploads/dimm.gif)
+![dimm.gif](/images/dimm.gif)
 
 Como muitos devem saber, acessar memória virtual no WinDbg é coisa de criança, assim como em todo depurador decente. Se estamos falando de _kernel mode_ então, nem se fala! A memória virtual é parte integrante do sistema operacional. Podemos saber mais sobre isso lendo o artigo do Strauss sobre [gerenciamento de memória no Windows](http://www.1bit.com.br/content.1bit/weblog/borcon_talk).
 

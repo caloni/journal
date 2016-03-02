@@ -10,7 +10,7 @@ categories:
 - Devaneando
 ---
 
-[![Mulher confusa após arrancar a maçaneta de uma porta.](../public/uploads/9477_confused_woman_holding_a_door_knob_after_it_disconnects_from_a_door.png)](../public/uploads/9477_confused_woman_holding_a_door_knob_after_it_disconnects_from_a_door.png)Estava folheando um [livro fenomenal](http://www.amazon.com/exec/obidos/ASIN/155615481X/shelfari-20) que meu amigo havia pedido emprestado para ler quando me deparei com algumas traduções (o livro estava em português) no mínimo curiosas.
+[![Mulher confusa após arrancar a maçaneta de uma porta.](/images/9477_confused_woman_holding_a_door_knob_after_it_disconnects_from_a_door.png)](/images/9477_confused_woman_holding_a_door_knob_after_it_disconnects_from_a_door.png)Estava folheando um [livro fenomenal](http://www.amazon.com/exec/obidos/ASIN/155615481X/shelfari-20) que meu amigo havia pedido emprestado para ler quando me deparei com algumas traduções (o livro estava em português) no mínimo curiosas.
 
 Se trata do primeiro Windows Internals publicado após o lançamento da primeira versão do Windows NT, uma plataforma escrita (quase) inteiramente do zero para suplantar as versões 9x, que herdaram do DOS algumas partes indesejáveis em sistemas operacionais modernos.
 
@@ -89,13 +89,13 @@ Apesar de não ter nada contra traduzir termos do inglês para português (e vic
 <blockquote>_Esses exemplos, salvo o exemplo do livro de algoritmos, foram criados para ilustrar os tipos de erros mais comuns em traduções de livros técnicos, e não estão relacionados com qualquer livro em específico._</blockquote>
 
 
-[![Homem tentando enfiar um fio na agulha.](../public/uploads/9349_man_trying_to_thread_a_sewing_needle.png)](../public/uploads/9349_man_trying_to_thread_a_sewing_needle.png)Então o que era inicialmente para ajudar as pessoas que estão iniciando alguns conceitos acaba por prejudicar ainda mais o aprendizado, gerando aquele tipo de confusão que só com ajuda extra (internet, professor, colega) pode ser resolvida.
+[![Homem tentando enfiar um fio na agulha.](/images/9349_man_trying_to_thread_a_sewing_needle.png)](/images/9349_man_trying_to_thread_a_sewing_needle.png)Então o que era inicialmente para ajudar as pessoas que estão iniciando alguns conceitos acaba por prejudicar ainda mais o aprendizado, gerando aquele tipo de confusão que só com ajuda extra (internet, professor, colega) pode ser resolvida.
 
 Assim como no vocabulário comum corrente, em que existem palavras dificilmente adaptáveis ou traduzíveis em um termo comum, como _shopping_ e _show_,  no meio técnico desabrocham as mais variadas expressões estrangeirísticas. Algumas são muito difíceis de encontrar seu primo lusófono, como _link_ e _login_. Outros, no entanto, exageram um pouco as coisas, a ponto de conjugarmos um verbo em inglês usando nosso sistema gramatical ("se você *stopar* o *debugador* vai *crashear* todo o sistema, porque esse _software_ tá *bugado*!").
 
 O fato é que não há escapatória para quem trabalha nessa área, e no fundo isso é uma coisa boa, pois é da leitura técnica em inglês que podemos estender o nosso conhecimento além das barreiras do .br e encontrar conteúdo extremamente interessante (e inédito em nossa língua) para aprender. Se não estivéssemos abarrotados de estrangeirismos talvez fosse um pouco mais difícil fazer o _switch_ entre essas duas linguagens.
 
-[](../public/uploads/3673_businessman_linking_a_chain_together.png)
+[](/images/3673_businessman_linking_a_chain_together.png)
 
 
-[![Homem de negócios juntando os dois elos de uma corrente gigante.](../public/uploads/3673_businessman_linking_a_chain_together.png)](../public/uploads/3673_businessman_linking_a_chain_together.png)
+[![Homem de negócios juntando os dois elos de uma corrente gigante.](/images/3673_businessman_linking_a_chain_together.png)](/images/3673_businessman_linking_a_chain_together.png)

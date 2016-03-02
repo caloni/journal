@@ -15,14 +15,14 @@ A [sobrecarga estática](http://www.caloni.com.br/blog/polimorfismo-estatico) po
 Em dois projetos usando Visual C++ 2008 e Borland C++ Builder 5 (última versão que funciona direito) eu fiz uma exportação da função soma em linguagem C (o fonte é um .c). Veja o resultado:
 
 
-![name-mangling-borland-c.png](../public/uploads/name-mangling-borland-c.png)
+![name-mangling-borland-c.png](/images/name-mangling-borland-c.png)
 
-![name-mangling-vcpp-c.png](../public/uploads/name-mangling-vcpp-c.png)
+![name-mangling-vcpp-c.png](/images/name-mangling-vcpp-c.png)
 
 Já usando a linguagem C++ (o fonte é um .cpp) temos outro resultado totalmente diferente para nossas duas funções soma descritas [no artigo anterior](http://www.caloni.com.br/blog/polimorfismo-estatico):
 
-![name-mangling-borland-cpp.png](../public/uploads/name-mangling-borland-cpp.png)
+![name-mangling-borland-cpp.png](/images/name-mangling-borland-cpp.png)
 
-![name-mangling-vcpp-cpp.png](../public/uploads/name-mangling-vcpp-cpp.png)
+![name-mangling-vcpp-cpp.png](/images/name-mangling-vcpp-cpp.png)
 
-Se quiser tentar entender essas letrinhas bizarras, recomendo baixar [projetos de exemplo](../public/uploads/name-mangling.7z). Se apenas entender que você não conseguirá juntar classes VC++ e Builder usando **[dllexport](http://msdn.microsoft.com/en-us/library/a90k134d(VS.80).aspx)** para tudo quanto é lado, então terminamos por aqui.
+Se quiser tentar entender essas letrinhas bizarras, recomendo baixar [projetos de exemplo](/images/name-mangling.7z). Se apenas entender que você não conseguirá juntar classes VC++ e Builder usando **[dllexport](http://msdn.microsoft.com/en-us/library/a90k134d(VS.80).aspx)** para tudo quanto é lado, então terminamos por aqui.

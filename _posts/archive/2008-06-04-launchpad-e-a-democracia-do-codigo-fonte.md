@@ -107,7 +107,7 @@ Dessa forma os passos são os seguintes:
 
 3. Criar um par de chaves através do [PuTTYgen](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html)
 
-![puttygen.png](../public/uploads/puttygen.png)
+![puttygen.png](/images/puttygen.png)
 
 
 <blockquote>_ATENÇÃO
@@ -118,7 +118,7 @@ Devido a alguns problemas, recomendo que use o texto exibido na tela do gerador 
 
 5. Usar o [**Pageant** ](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html)para carregar a chave privada na memória
 
-![pageant.png](../public/uploads/pageant.png)
+![pageant.png](/images/pageant.png)
 
 6. Use os comandos do Bazaar passando o usuário e o branch:
 

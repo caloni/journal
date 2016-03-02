@@ -70,7 +70,7 @@ O Windows NT é um sistema operacional de 32 bits. Isso quer dizer, entre outras
 
 Além disso, foi criada uma camada de abstração do _hardware_ (HAL, _Hardware Abstraction Layer_)_ _que livrou boa parte do código de ter sido escrito em _assembly_, fazendo assim que ele fosse facilmente portável. A figura abaixo demonstra a divisão básica entre os componentes do sistema, tanto do _kernel mode _quanto do _user mode_:
 
-[![Arquitetura do Windows NT](../public/uploads/windows-nt-architecture.gif)](../public/uploads/windows-nt-architecture.gif)
+[![Arquitetura do Windows NT](/images/windows-nt-architecture.gif)](/images/windows-nt-architecture.gif)
 
 **Para conhecer mais**
 
