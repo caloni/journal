@@ -11,28 +11,16 @@ PS(+++) PE++()>$ !Y? !PGP !t 5? !X !R tv? b(+) DI+(++) D G(+) e+ h--- r+++ y+*
 ------END GEEK CODE BLOCK------
 ```
 
-<img src="images/myself.jpg" alt="eu-mesmo" style="float: left; margin: 15px">Wanderley Caloni é um programador C/C++ especializado em backend para Windows que
-decidiu ter seu próprio blogue técnico. Tenta mantê-lo atualizado com
-suas peripécias do dia-a-dia. Colaborador frequente do Grupo C/C++
-Brasil, foi junto de [Rodrigo Strauss](http://www.1bit.com.br/) um dos
-fundadores e participante do primeiro encontro de [programadores
-C++](http://groups.google.com/group/ccppbrasil) de São Paulo. Trabalhou
-por dez anos na área de Segurança da Informação, principalmente no
-[Controle de Acesso a Usuários](http://www.scua.com.br) e [Análise de
-Trojans](http://www.opencs.com.br/site/). Atualmente tem trabalhado em
-projetos de desenvolvimento para a [Área
-Financeira](http://www.ezmarket.com.br/), se tornando sócio da [Intelitrader](http://www.intelitrader.com.br).
+<img src="images/myself.jpg" alt="eu-mesmo" style="float: left; margin: 15px"> Wanderley Caloni é um programador C/C++ especializado em backend para Windows que decidiu ter seu próprio blogue técnico. Tenta mantê-lo atualizado com suas peripécias do dia-a-dia. Colaborador frequente do Grupo C/C++ Brasil, foi junto de [Rodrigo Strauss](http://www.1bit.com.br/) um dos fundadores e participante do primeiro encontro de [programadores C++](http://groups.google.com/group/ccppbrasil) de São Paulo. Trabalhou por dez anos na área de Segurança da Informação, principalmente no [Controle de Acesso a Usuários](http://www.scua.com.br) e [Análise de Trojans](http://www.opencs.com.br/site/). Atualmente tem trabalhado em projetos de desenvolvimento para a [Área Financeira](http://www.ezmarket.com.br/) e consultoria, se tornando sócio da [BitForge](http://www.bitforge.com.br), uma empresa que auxilia equipes de desenvolvimento em problemas complexos, seja em arquitetura, procedimento ou escovação de bits, mesmo.
 
-Uma informação importante: é [cinéfilo
-inveterado](http://cinetenisverde.github.com/) nas horas vagas, o que faz com que ele escreva muito mais sobre filmes (requer pouca pesquisa).
+Uma informação importante: é [cinéfilo inveterado](http://cinetenisverde.com.br) nas horas vagas, o que faz com que ele escreva muito mais sobre filmes (requer pouca pesquisa).
 
-Também costuma dar pitacos sobre todos esses temas e outros mais em seu
-[twitter pessoal](http://twitter.com/#!/caloni).
+Também costuma dar pitacos sobre todos esses temas e outros mais em seu [twitter pessoal](http://twitter.com/#!/caloni).
 
 Nas horas vagas, ele também programa. Mais.
 
-<a href="https://www.flickr.com/photos/120157483@N04/15007582904" title="mvp by Wanderley Caloni, on Flickr"><img src="https://farm6.staticflickr.com/5608/15007582904_a3857c5ef4_o.gif" alt="mvp" style="float: left; margin: 15px"></a> Em 2013 e 2014 foi nomeado [MVP (Most Valued Professional) pela
-Microsoft](http://mvp.microsoft.com/pt-br/mvp/Wanderley%20Caloni-5000295).
+<a href="https://www.flickr.com/photos/120157483@N04/15007582904" title="mvp by Wanderley Caloni, on Flickr"><img src="https://farm6.staticflickr.com/5608/15007582904_a3857c5ef4_o.gif" alt="mvp" style="float: left; margin: 15px"></a> De 2013 a 2015 foi nomeado [MVP (Most Valued Professional) pela
+Microsoft](http://mvp.microsoft.com/pt-br/mvp/Wanderley%20Caloni-5000295), um prêmio em consideração pelas colaborações à comunidade C/C++.
 
 Se, mesmo com esse resumo, você tiver mais alguma dúvida a respeito de
 algo que eu conheça, não hesite em falar comigo! Abaixo temos uma breve
