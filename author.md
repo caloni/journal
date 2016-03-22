@@ -11,7 +11,7 @@ PS(+++) PE++()>$ !Y? !PGP !t 5? !X !R tv? b(+) DI+(++) D G(+) e+ h--- r+++ y+*
 ------END GEEK CODE BLOCK------
 ```
 
-<img src="public/images/myself.jpg" alt="eu-mesmo" style="float: left; margin: 15px">Wanderley Caloni é um programador C/C++ especializado em backend para Windows que
+<img src="images/myself.jpg" alt="eu-mesmo" style="float: left; margin: 15px">Wanderley Caloni é um programador C/C++ especializado em backend para Windows que
 decidiu ter seu próprio blogue técnico. Tenta mantê-lo atualizado com
 suas peripécias do dia-a-dia. Colaborador frequente do Grupo C/C++
 Brasil, foi junto de [Rodrigo Strauss](http://www.1bit.com.br/) um dos
