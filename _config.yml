@@ -1,13 +1,13 @@
 # Site wide configuration
 
-title:            Site Title
-locale:           en_US
-url:
+title:            Blogue do Caloni
+locale:           pb_BR
+url:              
 
 
 # Jekyll configuration
 
-permalink:   /:categories/:title/
+permalink:        :title
 markdown:    kramdown
 highlighter: rouge
 sass:
