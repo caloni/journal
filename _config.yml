@@ -41,23 +41,23 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Your Name
+  name: Wanderley Caloni
   avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email:
-  disqus-shortname:
-  twitter: #username
-  facebook: #username
+  bio: "Dev CCPP, Microsoft MVP and Personal CCF (Capitalista que Curte Filmes)."
+  email: wanderley@caloni.com.br
+  disqus-shortname: caloni
+  twitter: caloni
+  facebook: wanderleycaloni
   google:
-    plus: #username
+    plus: wanderleycaloni
     analytics:
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: caloni
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  linkedin: wanderleycaloni
   xing: #username
   instagram: #username
   lastfm: #username
