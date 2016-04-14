@@ -1,3 +1,7 @@
 name: Flex
 markdown: redcarpet
-pygments: true
+permalink: /:title/
+defaults:
+  -
+    values:
+      layout: post

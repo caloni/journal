@@ -24,25 +24,16 @@
       <div class="sidebar" id="sidebar">
         <div class="header">
           <h1 class="title"><a href="/"><img id="logo" src="/images/logo.png"></a></h1>
-          <span class="tagline">A responsive Jekyll theme</span>
+          <span class="tagline">A melhor forma de ver um filme é com o cérebro.</span>
         </div>
-        <div class="posts">
-          <ul class="posts-list">
-            {% for post in site.posts %}
-              <li class="post-link">
-                <a class="post-title" href="{{ post.url }}">
-                  <span class="post-date">{{ post.date | date_to_string }}</span>
-                  {{ post.title }}
-                </a>
-              </li>
-            {% endfor %}
-          </ul>
-        </div>
+       <div>
+       <p style="font-size: 0.8em;"><i>{% if page._title %}{{ page._title }}. {% endif %}{% if page._countries %}{{ page._countries | join: ', ' }}. {% endif %}{% if page._year %}{{ page._year }}. {% else %}{% endif %}{% if page._director %} Direção: {{ page._director | join: ', ' }}.{% endif %}{% if page._writer %} Roteiro: {{ page._writer | join: ', ' }}.{% endif %}{% if page._cast %} Elenco: {{ page._cast | join: ', ' }}.{% endif %}{% if page._editor %} Edição: {{ page._editor | join: ', ' }}.{% endif %}{% if page._cinematographer %} Fotografia: {{ page._cinematographer | join: ', ' }}.{% endif %}{% if page._music %} Trilha Sonora: {{ page._music | join: ', ' }}.{% endif %}{% if page._runtimes %} Duração: {{ page._runtimes | join: ', ' }}.{% endif %}{% if page._ratio %} Aspecto: {{ page._ratio }}.{% endif %}{% if page._genres %} {{ page._genres | join: ', ' }}.{% endif %}</i></p>
+       </div>
         <div class="footer">
           <span id="footer-links">
-            <a href="" class="footer-link">About</a> <span class="separator">&bull;</span>
-            <a href="" class="footer-link">Twitter</a> <span class="separator">&bull;</span>
-            <a href="" class="footer-link">GitHub</a>
+            <a href="/posts" class="footer-link">Posts</a> <span class="separator">&bull;</span>
+            <a href="https://twitter.com/cinetenisverde" class="footer-link">Twitter</a> <span class="separator">&bull;</span>
+            <a href="https://www.facebook.com/cinetenisverde" class="footer-link">Facebook</a>
           </span>
         </div>
       </div>
