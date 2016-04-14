@@ -1,5 +1,4 @@
 name: Flex
-markdown: redcarpet
 permalink: /:title/
 defaults:
   -
