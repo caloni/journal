@@ -4,3 +4,5 @@ defaults:
   -
     values:
       layout: post
+exclude:
+  - cinemaqui
