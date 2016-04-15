@@ -110,7 +110,7 @@ def PushChanges(postInfo):
 
 
 def FindPostImageAndPrepare(postInfo):
-    ScreenshotBaseWidth = 1200
+    ScreenshotBaseWidth = 725
     imgs = glob.glob('*.jpg')
     if len(imgs) > 0 :
         origPath = imgs[0]
