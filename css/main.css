@@ -25,7 +25,7 @@ body {
 }
 
 a {
-  color: #8085C1;
+  color: #80C19B;
   text-decoration: none;
   border: none;
 }
@@ -155,11 +155,6 @@ a:hover {
   margin-top: 1.25em;
   margin-left: -0.5em;
   margin-bottom: 1.25em;
-}
-
-.post a,
-#about a {
-  border-bottom: 1px solid #8085C1;
 }
 
 .post a:hover {
