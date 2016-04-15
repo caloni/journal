@@ -1,7 +1,22 @@
 ---
-title: "O Que Eu Fiz Para Merecer Isso?"
 imdb: "3667648"
 stars: "5/5"
+title: "O Que Eu Fiz Para Merecer Isso?"
+_title: "Une heure de tranquillité"
+_year: "2014"
+_director: ["Patrice Leconte", ]
+_writer: ["Patrice Leconte", "Florian Zeller", ]
+_cast: ["Christian Clavier", "Carole Bouquet", "Valérie Bonneton", "Rossy de Palma", "Stéphane De Groodt", "Sébastien Castro", "Christian Charmetant", "Arnaud Henriet", "Ricardo Arciaga", ]
+_countries: ["France", ]
+_languages: ["French", ]
+_editor: ["Joëlle Hache", ]
+_cinematographer: ["Jean-Marie Dreujou", ]
+_music: ["Éric Neveux", ]
+_genres: ["Comedy", ]
+_runtimes: ["79", ]
+_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTYxMDQ4OTg3NV5BMl5BanBnXkFtZTgwMjE3NzA4NjE@.jpg"
+_kind: "movie"
+_cover: "http://ia.media-imdb.com/images/M/MV5BMTYxMDQ4OTg3NV5BMl5BanBnXkFtZTgwMjE3NzA4NjE@._V1._SX100_SY133_.jpg"
 ---
 Eis uma comédia que aproveita clichês consagrados não para discuti-los, mas usá-los como ferramenta narrativa e atingir o cerne de uma questão: em que momento viver com pessoas se torna um empecilho para viver?
 
