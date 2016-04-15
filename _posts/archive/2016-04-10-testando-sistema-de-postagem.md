@@ -2,7 +2,7 @@
 title: "Testando sistema de postagem"
 tags: [ ]
 ---
-Bom, depois de criar um script para basicamente apenas escrever o texto dos filmes que assisto e buscar uma imagem agradável para meu [blogue de Cinema](www.cinetenisverde.com.br), o próximo passo foi portar esse mesmo método para meus dois outros blogues: o da minha empresa, a [BitForge](www.bitforge.com.br/blog-pt) e esse aqui. O processo envolve algo a mais: buscar as imagens usadas (que muitas vezes não é só uma). Porém, nada mais que isso.
+Bom, depois de criar um script para basicamente apenas escrever o texto dos filmes que assisto e buscar uma imagem agradável para meu [blogue de Cinema](http://www.cinetenisverde.com.br), o próximo passo foi portar esse mesmo método para meus dois outros blogues: o da minha empresa, a [BitForge](http://www.bitforge.com.br/blog-pt) e esse aqui. O processo envolve algo a mais: buscar as imagens usadas (que muitas vezes não é só uma). Porém, nada mais que isso.
 
 **O problema mesmo é publicar nas redes sociais.**
 
