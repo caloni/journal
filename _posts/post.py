@@ -97,7 +97,7 @@ def FindPostImageAndPrepare(postInfo):
         img = Image.open(origPath)
         wpercent = (ScreenshotBaseWidth/float(img.size[0]))
         hsize = int((float(img.size[1])*float(wpercent)))
-        img = img.resize((ScreenshotBaseWidth, hsize), Image.ANTIALIAS)
+        #img = img.resize((ScreenshotBaseWidth, hsize), Image.ANTIALIAS)
         img.save(newPath)
         if origPath != newPath:
             os.remove(origPath)
