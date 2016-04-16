@@ -1,5 +1,5 @@
-name: Flex
-permalink: /:title/
+name: Cine Tênis Verde
+permalink: :title
 defaults:
   -
     values:
