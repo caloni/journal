@@ -81,7 +81,7 @@ def GetPostInfo(post):
 
 def PushChanges(postInfo):
     subprocess.call(['git', 'add', 'archive' + '/' + postInfo['file']])
-    subprocess.call(['git', 'add', '..\\images\\' + postInfo['permalink'] + '.jpg'])
+    #subprocess.call(['git', 'add', '..\\images\\' + postInfo['permalink'] + '.jpg'])
     #todo: fix encoding thing
     #subprocess.call(['git', 'commit', '-m', '\"' + postInfo['tagline'].encode(sys.stdout.encoding) + '\"'])
     subprocess.call(['git', 'commit', '-m', 'One More Post'])
@@ -115,7 +115,7 @@ def PublishToSocialMedia(post):
         print '*** Preparing image'
         FindPostImageAndPrepare(postInfo)
         print '*** Moving files'
-        shutil.move(postInfo['permalink'] + '.jpg', r'..\images')
+        shutil.move(postInfo['permalink'] + '.jpg', r'\screenshots')
         shutil.move(post, 'archive')
         afterMove = True
         print '*** Pushing changes'
@@ -136,7 +136,7 @@ def PublishToSocialMedia(post):
     except Exception as e:
         print '*** Something gone wrong!'
         if afterMove == True:
-            shutil.move('..\\images\\' + postInfo['permalink'] + '.jpg', '.')
+            shutil.move('\\images\\' + postInfo['permalink'] + '.jpg', '.')
             shutil.move('archive\\' + post, '.')
         raise
 
