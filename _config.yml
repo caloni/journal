@@ -6,3 +6,4 @@ defaults:
       layout: post
 exclude:
   - cinemaqui
+  - _posts/movies_
