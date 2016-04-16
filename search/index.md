@@ -2,6 +2,10 @@
 layout: page
 title: "Search"
 sitemap: false
+image:
+  feature: google.jpg
+  credit: unknown
+  creditlink: 
 ---
 <script type="text/javascript">
   var GOOG_FIXURL_LANG = 'en';

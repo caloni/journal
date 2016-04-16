@@ -1,5 +1,9 @@
 ---
 layout: post-index
-title: All Posts
-excerpt: "A List of Posts"
+title: Posts
+excerpt: "All the posts"
+image:
+  feature: writing.jpg
+  credit: jazzwriteandsingsforyou
+  creditlink: http://www.jazzwritesandsingsforyou.com
 ---
