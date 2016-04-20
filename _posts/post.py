@@ -36,7 +36,7 @@ def PublishToTwitter(postInfo):
     """
     t = twitter.Twitter(auth=twitter_credentials.auth)
     
-    with open("C:\\daytoday\\caloni.github.io\\images\\" + postInfo["permalink"] + ".jpg", "rb") as imagefile:
+    with open("C:\\project\\daytoday\\caloni.github.io\\images\\" + postInfo["permalink"] + ".jpg", "rb") as imagefile:
     	imagedata = imagefile.read()
     t_up = twitter.Twitter(domain='upload.twitter.com', auth=twitter_credentials.auth)
     id_img1 = t_up.media.upload(media=imagedata)["media_id_string"]
@@ -50,7 +50,7 @@ def PublishToFacebook(postInfo):
     """
     http://nodotcom.org/python-facebook-tutorial.html
     """
-    with open("C:\\daytoday\\caloni.github.io\\images\\" + postInfo["permalink"] + ".jpg", "rb") as imagefile:
+    with open("C:\\project\\daytoday\\caloni.github.io\\images\\" + postInfo["permalink"] + ".jpg", "rb") as imagefile:
     	imagedata = imagefile.read()
 
     st = postInfo['title'] + '\n\n' + postInfo['paragraph'] + '\n\n' + baseUrl + postInfo['permalink']
@@ -109,13 +109,13 @@ def PublishToSocialMedia(post):
         print '*** Getting post info'
         postInfo = GetPostInfo(post)
         webbrowser.open_new_tab('https://www.google.com.br/search?q=' + postInfo['title'] + '&tbm=isch')
-        subprocess.Popen('explorer "C:\\daytoday\\caloni.github.io\\_posts"')
+        subprocess.Popen('explorer "C:\\project\\daytoday\\caloni.github.io\\_posts"')
         print 'press any key to continue...'
         m.getch()
         print '*** Preparing image'
         FindPostImageAndPrepare(postInfo)
         print '*** Moving files'
-        shutil.move(postInfo['permalink'] + '.jpg', r'\screenshots')
+        shutil.move(postInfo['permalink'] + '.jpg', '..\\images')
         shutil.move(post, 'archive')
         afterMove = True
         print '*** Pushing changes'
@@ -133,6 +133,7 @@ def PublishToSocialMedia(post):
         webbrowser.open_new_tab(link)
         webbrowser.open_new_tab('https://www.facebook.com/bloguedocaloni/')
         webbrowser.open_new_tab('https://tweetdeck.twitter.com/')
+        shutil.move('\\images\\' + postInfo['permalink'] + '.jpg', '\\screenshots')
     except Exception as e:
         print '*** Something gone wrong!'
         if afterMove == True:
