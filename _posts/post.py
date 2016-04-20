@@ -48,7 +48,7 @@ def PublishToTwitter(postInfo):
     """
     t = twitter.Twitter(auth=twitter_credentials.auth)
     
-    with open("C:\\daytoday\\cinetenisverde.github.io\\images\\screenshots\\" + postInfo["permalink"] + ".jpg", "rb") as imagefile:
+    with open("C:\\project\\daytoday\\cinetenisverde.github.io\\images\\screenshots\\" + postInfo["permalink"] + ".jpg", "rb") as imagefile:
     	imagedata = imagefile.read()
     t_up = twitter.Twitter(domain='upload.twitter.com', auth=twitter_credentials.auth)
     id_img1 = t_up.media.upload(media=imagedata)["media_id_string"]
@@ -63,7 +63,7 @@ def PublishToFacebook(postInfo):
     """
     http://nodotcom.org/python-facebook-tutorial.html
     """
-    with open("C:\\daytoday\\cinetenisverde.github.io\\images\\screenshots\\" + postInfo["permalink"] + ".jpg", "rb") as imagefile:
+    with open("C:\\project\\daytoday\\cinetenisverde.github.io\\images\\screenshots\\" + postInfo["permalink"] + ".jpg", "rb") as imagefile:
     	imagedata = imagefile.read()
 
     stars = PrintStars(postInfo['stars'])
@@ -130,7 +130,7 @@ def PublishToSocialMedia(post):
         print '*** Getting post info'
         postInfo = GetPostInfo(post)
         webbrowser.open_new_tab('https://www.google.com.br/search?q=' + postInfo['title'] + '&tbm=isch')
-        subprocess.Popen('explorer "C:\\daytoday\\cinetenisverde.github.io\\_posts"')
+        subprocess.Popen('explorer "C:\\project\\daytoday\\cinetenisverde.github.io\\_posts"')
         print 'press any key to continue...'
         m.getch()
         print '*** Preparing image'
