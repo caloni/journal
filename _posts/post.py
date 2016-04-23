@@ -12,7 +12,7 @@ import webbrowser
 import msvcrt as m
 from pyshorteners import Shortener
 
-sys.path.append(r'C:\Users\Caloni\OneDrive\Backup\Docs\Pwd')
+sys.path.append(r'C:\Users\Wanderley\OneDrive\Backup\Docs\Pwd')
 import twitter_caloni as twitter_credentials
 import facebook_caloni as facebook_credentials
 
@@ -36,7 +36,7 @@ def PublishToTwitter(postInfo):
     """
     t = twitter.Twitter(auth=twitter_credentials.auth)
     
-    with open("C:\\project\\daytoday\\caloni.github.io\\images\\" + postInfo["permalink"] + ".jpg", "rb") as imagefile:
+    with open("C:\\project\\caloni.github.io\\images\\" + postInfo["permalink"] + ".jpg", "rb") as imagefile:
     	imagedata = imagefile.read()
     t_up = twitter.Twitter(domain='upload.twitter.com', auth=twitter_credentials.auth)
     id_img1 = t_up.media.upload(media=imagedata)["media_id_string"]
@@ -50,7 +50,7 @@ def PublishToFacebook(postInfo):
     """
     http://nodotcom.org/python-facebook-tutorial.html
     """
-    with open("C:\\project\\daytoday\\caloni.github.io\\images\\" + postInfo["permalink"] + ".jpg", "rb") as imagefile:
+    with open("C:\\project\\caloni.github.io\\images\\" + postInfo["permalink"] + ".jpg", "rb") as imagefile:
     	imagedata = imagefile.read()
 
     st = postInfo['title'] + '\n\n' + postInfo['paragraph'] + '\n\n' + baseUrl + postInfo['permalink']
@@ -109,7 +109,7 @@ def PublishToSocialMedia(post):
         print '*** Getting post info'
         postInfo = GetPostInfo(post)
         webbrowser.open_new_tab('https://www.google.com.br/search?q=' + postInfo['title'] + '&tbm=isch')
-        subprocess.Popen('explorer "C:\\project\\daytoday\\caloni.github.io\\_posts"')
+        subprocess.Popen('explorer "C:\\project\\caloni.github.io\\_posts"')
         print 'press any key to continue...'
         m.getch()
         print '*** Preparing image'
