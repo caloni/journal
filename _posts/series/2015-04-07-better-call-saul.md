@@ -3,6 +3,7 @@ imdb: "3032476"
 stars: "5/5"
 category: "series"
 title: "Better Call Saul"
+date: "2016-04-22"
 _title: "Better Call Saul"
 _year: "2015"
 _director: ["Colin Bucksey", ]
