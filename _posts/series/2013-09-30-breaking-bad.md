@@ -3,6 +3,7 @@ imdb: "0903747"
 title: "Breaking Bad"
 stars: "5/5"
 category: "series"
+date: "2016-05-01"
 _title: "Breaking Bad"
 _year: "2008"
 _director: ["Michelle MacLaren", "Adam Bernstein", "Vince Gilligan", "Colin Bucksey", "Michael Slovis", "Bryan Cranston", "Terry McDonough", "Johan Renck", "Rian Johnson", ]
