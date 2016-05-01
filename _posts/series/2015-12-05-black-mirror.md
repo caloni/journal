@@ -24,9 +24,14 @@ _cover: "http://ia.media-imdb.com/images/M/MV5BMTk5NTk1Mzg3Ml5BMl5BanBnXkFtZTcwN
 ---
 Black Mirror é uma série que explora o que há de pior em nossa era da comunicação instantânea e da tecnologia crescente. Na verdade, eles vão um pouco além da nossa realidade atual, avançando alguns anos/décadas, onde algumas novidades brincam com nosso conceito de humanidade e relacionamentos, mídia e governos.
 
-<div id="s01e01" class="stars" style="font-size: 2em;">
-The National Anthem
-</div>
+- [Primeira Temporada](#s01)
+- [Segunda Temporada](#s02)
+- [Terceira Temporada](#s03)
+
+<div id="s01"/>
+# Primeira Temporada
+
+## The National Anthem
 
 Essa série britânica parece ter como tema mostrar o que há de pior na globalização da mídia através da internet, além de sua velocidade quase instantânea de compartilhamento, permitindo com que um conteúdo proibido na mídia tradicional (televisão, rádio) por governos se espalhe irrestritamente por esta rede mundial descentralizada.
 
@@ -38,10 +43,7 @@ Veterano também no Cinema, Rory Kinnear pode ser visto nos últimos 007, além 
 
 Dirigido pelo televisivo Otto Bathurst, a fotografia lembra o de telejornais, e eles aparecem em boa parte do tempo, empregando ainda mais realismo ao acontecimento, chegando em um momento em que até fiquei um pouco desconfiado que o sequestro talvez tivesse sido real e eu não fiquei sabendo por não ter passado muito na mídia tradicional (como se ainda acompanhasse isso). Os movimentos de câmera, ou melhor, a decupagem de Bathurst, demonstra sua sensibilidade em capturar quais os melhores personagens para vermos em cada momento, o que explica a lindíssima sequência em que vemos representantes do povo britânito estupefatos diante das TVs de onde assistem o show de horrores, que nada mais é que a materialização do significado real de um estado.
 
-
-<div id="s01e02" class="stars" style="font-size: 2em;">
-Fifteen Million Merits
-</div>
+## Fifteen Million Merits
 
 Alguém poderia acusar o segundo episódio da primeira temporada de Black Mirror de inocente, ou de dizer apenas obviedades. Esse alguém estaria correto. Porém, mesmo assim, o dizer obviedades em "Fifteen Million Merits" também faz parte do show de talentos futurístico que insere, assim como o episódio anterior, a eterna questão do coletivo definir e subordinar cada indivíduo a seus desejos. Nesse caso, o desejo de sucesso de cada um interfere no que é sucesso para o indivíduo: sucesso é não ser como os outros.
 
@@ -55,9 +57,7 @@ A questão é que, reviravoltas à parte, Bing decide questionar o sistema, e é
 
 Uma virtude presente apenas nas ótimas ficções científicas. Essa, tristemente, está mais próxima do nosso presente do que nunca.
 
-<div id="s01e03" class="stars" style="font-size: 2em;">
-The Entire History of You 
-</div>
+## The Entire History of You 
 
 Talvez o episódio mais fraco dessa temporada, mas ainda muito bom pela tensão que cria. Em mais uma versão futurista do mundo -- mas nem tanto -- as pessoas usam um gravador de tudo o que veem e escutam em seu dia-a-dia, podendo voltar rapidamente às suas memórias áudio-visuais através de um controle, e até realizar um _playback_ na tela mais próxima para as pessoas presentes.
 
@@ -68,9 +68,10 @@ A história é óbvia mais uma vez, e percorre uma típica história de traiçã
 No entanto, é justamente isso o que está em jogo em "The Entire History of You". O que são nossas memórias, senão parte de um intricado video-game biológico com que tentamos nos relacionar e criar laços com os humanos em nossa volta?
 
 
-<div id="s02e01" class="stars" style="font-size: 2em;">
-Be Right Back
-</div>
+<div id="s02"/>
+# Segunda Temporada
+
+## Be Right Back
 
 As nossas vidas estão irremediavelmente conectadas ao mundo virtual da internet. Alguns não se importam muito com isso, outros praticamente vivem boa parte do seu tempo nisso. O que acontece no primeiro episódio da segunda temporada de Black Mirror é poeticamente tortuoso e trágico. Estou falando da cena em que uma viúva conversa ao telefone com uma versão digital de seu marido.
 
@@ -82,9 +83,7 @@ O que realmente incomoda nesse episódio é o que vem a seguir: uma versão plá
 
 Conseguindo explorar esse conceito de uma maneira narrativamente coesa, o roteiro tem pouco tempo de tela. O "problema" em Black Mirror parece começar a ser conceitos tão interessantes que mereceriam um longa-metragem para explorá-los. E esse é o melhor dos problemas para uma série televisiva.
 
-<div id="s02e02" class="stars" style="font-size: 2em;">
-White Bear
-</div>
+## White Bear
 
 
 Catártico, esse episódio consegue criticar ao mesmo tempo o coletivo que observa inerte a realidade cruel do mundo em sua volta, os selfies em enterros e no meio de desgraças, e ao mesmo tempo reverte essa expectativa punindo um indivíduo justamente por este comportamento. Rápido e sagaz, não há muito espaço para reflexão neste que é a história mais movimentada e circular da série, que já me conquistou desde seu primeiro episódio.
@@ -93,9 +92,7 @@ Ele conta a história de uma mulher que acorda no que parece ser a sua casa, e c
 
 Além dos alvos da crítica já citadas, acho que posso incluir aí também as "apresentações" que são feitas em algumas penintenciárias norte-americanas durante as execuções de presos condenados à morte. Pena que, pelo que me parece, nenhum deles ainda consegue gravar para colocar no YouTube.
 
-<div id="s02e03" class="stars" style="font-size: 2em;">
-The Waldo Moment
-</div>
+## The Waldo Moment
 
 O primeiro episódio de Black Mirror chantageia o primeiro-ministro britânico e o obriga a fazer sexo com um porco em uma transmissão nacional na TV. Aqui a política volta a ser o tema através da figura de Waldo, um boneco virtual manipulado pelo dublador Jamie (Daniel Rigby), que como todo humorista está à beira de uma depressão.
 
@@ -103,9 +100,10 @@ Fazendo sucesso ao fazer um político candidato às próximas eleições perder 
 
 Sem conhecimento algum de política, "Waldo" se limita a xingar os oponentes durante um debate, e chama a atenção não apenas do dono da emissora de TV, que enxerga no urso azul uma forma de deixar os políticos de escanteio, mas também de outras nações, delineando um possível futuro distópico onde bonecos são vistos pela população como uma versão menos imbecil de líderes políticos. Como culpá-los por isso?
 
-<div id="s03e01" class="stars" style="font-size: 2em;">
-White Christmas
-</div>
+<div id="s03"/>
+# Terceira Temporada
+
+## White Christmas
 
 Esse episódio, quase um especial, é o mais longo da série até o momento e o primeiro da terceira temporada. Ele referencia vários episódios utilizando sua tecnologia futurista e suas interações no futuro. Protagonizada pelo ótimo Jon Hamm (Mad Men) acompanhado pelo igualmente eficiente Rafe Spall, ambos estão aparentemente presos em uma casa por algo que cometeram. O personagem de Rafe não fala muito, e sendo natal, o personagem de Jon prepara uma refeição especial e tenta fazer o colega conversar um pouco. O ritmo empregado pelo diretor Carl Tibbetts ao excelente roteiro de Charlie Brooker é lento na medida certa, e as ideias por trás das histórias que Jon Hamm vai descrevendo funcionam como uma espécie de conjunto de pistas-recompensas para o que irá acontecer em seguida. Não é preciso prestar muita atenção para enxergar que ambos os personagens estão ligados de alguma forma.
 
