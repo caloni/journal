@@ -158,7 +158,7 @@ def PublishToSocialMedia(post):
         print '*** Something gone wrong!'
         if afterMove == True:
             shutil.move('..\\images\\screenshots\\' + postInfo['permalink'] + '.jpg', '.')
-            shutil.move('movies\\' + post, '.')
+            shutil.move(postInfo['category'] + '\\' + post, '.')
         raise
 
 for post in sys.argv[1:]:
