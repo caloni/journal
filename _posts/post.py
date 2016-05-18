@@ -126,11 +126,17 @@ def FindPostImageAndPrepare(postInfo):
 def PublishToSocialMedia(post):
     print 'Publishing ' + post + '...'
     afterMove = False
+    republish = False
     try:
         print '*** Getting post info'
         postInfo = GetPostInfo(post)
+        if os.path.isfile('..\\images\\screenshots\\' + postInfo['permalink'] + '.jpg'):
+            print '*** Existig image archived!'
+            shutil.move('..\\images\\screenshots\\' + postInfo['permalink'] + '.jpg', '.')
+            republish = True
+        else:
+            subprocess.Popen('explorer "C:\\projects\\cinetenisverde.github.io\\_posts"')
         webbrowser.open_new_tab('https://www.google.com.br/search?q=' + postInfo['title'] + '&tbm=isch')
-        subprocess.Popen('explorer "C:\\projects\\cinetenisverde.github.io\\_posts"')
         print 'press any key to continue...'
         m.getch()
         print '*** Preparing image'
@@ -142,16 +148,22 @@ def PublishToSocialMedia(post):
         print '*** Pushing changes'
         PushChanges(postInfo)
         link = baseUrl + postInfo['permalink']
-        print '*** Waiting page ' + link
-        while WebPageExists(link) == False:
-            time.sleep(10)
+        if republish == True:
+            webbrowser.open_new_tab(link)
+            print 'press any key to continue and publish...'
+            m.getch()
+        else:
+            print '*** Waiting page ' + link
+            while WebPageExists(link) == False:
+                time.sleep(10)
         postInfo['shortlink'] = Shortener('Tinyurl').short(baseUrl + postInfo['permalink']).encode('utf-8')
         print '*** Publishing to Twitter'
         PublishToTwitter(postInfo)
         print '*** Publishing to Facebook'
         PublishToFacebook(postInfo)
         print '*** Done!'
-        webbrowser.open_new_tab(link)
+        if republish == False:
+            webbrowser.open_new_tab(link)
         webbrowser.open_new_tab('https://www.facebook.com/cinetenisverde/')
         webbrowser.open_new_tab('https://tweetdeck.twitter.com/')
     except Exception as e:
