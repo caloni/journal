@@ -4,6 +4,8 @@ CineTenisVerde é um projeto de um futuro crítico de Cinema (eu) que, após se ded
 
 ## TodoList
  - Foco do teclado primeiro no texto principal.
+ - Melhorar navegação entre anterior, próximo (quiçá ter um relacionados).
+ - Corrigir a bagunça no leiaute que o Disquis faz (e melhorar botão de comentar).
  - Listar filmes por tags ou categories.
  - Filtro mais rebuscado do que a versão anterior (estilo o saite do RogetEbert, mas mais style).
  - Linkar um filme no outro (automagicamente).
