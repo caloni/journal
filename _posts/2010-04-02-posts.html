@@ -1,0 +1,106 @@
+---
+title: Posts
+---
+<script src="{{ site.baseurl }}/scripts/jquery-2.1.3.min.js"></script>
+<script>
+$(document).ready(function(){
+    $("#filter").keyup(function(event){
+
+        query = $(this).val();
+        query = $.trim(query); //trim white space
+        query = query.split('&');
+
+        if( query.length == 1 )
+        {
+            regex = new RegExp(query[0], "i");
+            hides = 0;
+            shows = 0;
+
+            $.each( $('.sortable'), function(i, sortable) {
+              $('td', sortable).each(function() {
+                var srch = $(this).text() + $(this).find('a').prop('title');
+                if( srch.search(regex) < 0 )
+                {
+                    $(this).hide()
+                    hides++;
+                }
+                else
+                {
+                    $(this).show();
+                    shows++;
+                }
+                });
+            });
+
+            total = shows + hides;
+            $('#filter').prop('title', shows + ' de ' + total);
+        }
+        else 
+        {
+            total = 0;
+            // mostra todo mundo
+            $.each( $('.sortable'), function(i, sortable) {
+              $('td', sortable).each(function() {
+                $(this).show()
+                total++;
+                });
+            });
+            shows = total;
+
+            // agora vai escondendo
+            for( var i = 0; i < query.length; ++i )
+            {
+                regex = new RegExp(query[i], "i");
+
+                $.each( $('.sortable'), function(i, sortable) {
+                  $('td', sortable).each(function() {
+                    var srch = $(this).text() + $(this).find('a').prop('title');
+                    if( srch.search(regex) < 0 )
+                    {
+                        if( $(this).is(":visible") )
+                        {
+                            shows--;
+                            $(this).hide()
+                        }
+                    }
+                    });
+                });
+            }
+
+            $('#filter').prop('title', shows + ' de ' + total);
+        }
+    });
+    $('#filter').focus();
+});
+</script>
+
+  <table class="sortable">
+  <input type="text" name="filter" value="" id="filter" style="width: 100%; font-size: 22px;" title=""/>
+  {% for post in site.posts %}
+  <tr><td>
+        <a href="{{ post.url }}" 
+        title="Post Title: {{ post.title }}
+Post Date: {{ post.date | date: '%Y%m%d' }}
+Post Category: {{ post.category }}
+Post Stars: {{ post.stars }}
+Movie Revision: {% if post.revision %}{{ post.revision | join: ', ' }}{% else %}{{ post.date | date: '%Y%m%d' }}{% endif %}
+Revision Count: {% if post.revision %}{{ post.revision.size | plus: 1 }}{% else %}1{% endif %}
+Original Title: {{ post._title }}
+Year: {{ post._year }}
+Director: {{ post._director | join: ', ' }}
+Writer: {{ post._writer | join: ', ' }}
+Cast: {{ post._cast | join: ', ' }}
+Country: {{ post._countries | join: ', ' }}
+Editor: {{ post._editor | join: ', ' }}
+Cinematographer: {{ post._cinematographer | join: ', ' }}
+Music: {{ post._music | join: ', ' }}
+Genres: {{ post._genres | join: ', ' }}
+Runtime: {{ post._runtimes | join: ', ' }}
+Kind: {{ post._kind }}
+Ratio: {{ post._ratio }}"
+>
+        {{ post.title }}
+        </a>
+  </td></tr>
+  {% endfor %}
+  </table>
