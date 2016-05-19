@@ -2,6 +2,7 @@
 imdb: "2403029"
 stars: "3/5"
 title: "Jogos Famintos"
+tags: [ "hungergames" ]
 _title: "The Starving Games"
 _year: "2013"
 _director: ["Jason Friedberg", "Aaron Seltzer", ]

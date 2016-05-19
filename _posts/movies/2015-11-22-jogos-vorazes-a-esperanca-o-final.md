@@ -2,6 +2,7 @@
 imdb: "1951266"
 stars: "5/5"
 title: "Jogos Vorazes: A Esperança - O Final"
+tags: [ "hungergames" ]
 _title: "The Hunger Games: Mockingjay - Part 2"
 _year: "2015"
 _director: ["Francis Lawrence", ]
