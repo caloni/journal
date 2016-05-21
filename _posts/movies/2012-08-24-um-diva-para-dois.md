@@ -2,6 +2,7 @@
 imdb: "1535438"
 title: "Um Divã para Dois"
 stars: "4/5"
+category: "movies"
 _title: "Hope Springs"
 _year: "2012"
 _director: ["David Frankel", ]

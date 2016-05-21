@@ -2,6 +2,7 @@
 imdb: "1690953"
 title: "Meu Malvado Favorito 2"
 stars: "4/5"
+category: "movies"
 _title: "Despicable Me 2"
 _year: "2013"
 _director: ["Pierre Coffin", "Chris Renaud", ]

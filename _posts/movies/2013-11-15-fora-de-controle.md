@@ -2,6 +2,7 @@
 imdb: "0264472"
 title: "Fora de Controle"
 stars: "3/5"
+category: "movies"
 _title: "Changing Lanes"
 _year: "2002"
 _director: ["Roger Michell", ]

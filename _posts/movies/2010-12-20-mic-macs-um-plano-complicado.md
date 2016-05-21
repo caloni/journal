@@ -3,6 +3,7 @@ imdb: "1149361"
 revision: [2012-06-04]
 title: "Micmacs Um Plano Complicado"
 stars: "4/5"
+category: "movies"
 _title: "Micmacs à tire-larigot"
 _year: "2009"
 _director: ["Jean-Pierre Jeunet", ]

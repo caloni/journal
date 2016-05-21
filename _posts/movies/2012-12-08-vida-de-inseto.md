@@ -2,6 +2,7 @@
 imdb: "0120623"
 title: "Vida de Inseto"
 stars: "3/5"
+category: "movies"
 _title: "A Bug's Life"
 _year: "1998"
 _director: ["John Lasseter", "Andrew Stanton", ]

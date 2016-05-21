@@ -1,6 +1,7 @@
 ---
 imdb: "3014866"
 stars: "4/5"
+category: "movies"
 title: "Mente Criminosa"
 _title: "Criminal"
 _year: "2016"

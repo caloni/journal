@@ -2,6 +2,7 @@
 imdb: "0095444"
 title: "Palhaços Assassinos"
 stars: "3/5"
+category: "movies"
 _title: "Killer Klowns from Outer Space"
 _year: "1988"
 _director: ["Stephen Chiodo", ]

@@ -2,6 +2,7 @@
 imdb: "1748122"
 title: "Moonrise Kingdom"
 stars: "3/5"
+category: "movies"
 _title: "Moonrise Kingdom"
 _year: "2012"
 _director: ["Wes Anderson", ]

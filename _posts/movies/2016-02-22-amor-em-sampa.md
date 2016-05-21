@@ -1,6 +1,7 @@
 ---
 imdb: "3411572"
 stars: "3/5"
+category: "movies"
 title: "Amor em Sampa"
 _title: "Amor em Sampa"
 _year: "2016"

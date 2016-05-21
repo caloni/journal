@@ -2,6 +2,7 @@
 imdb: "0450405"
 title: "Cirque du Freak O Aprendiz de Vampiro"
 stars: "3/5"
+category: "movies"
 _title: "Cirque du Freak: The Vampire's Assistant"
 _year: "2009"
 _director: ["Paul Weitz", ]

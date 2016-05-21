@@ -2,6 +2,7 @@
 imdb: "1127877"
 title: "Almas à venda"
 stars: "2/5"
+category: "movies"
 _title: "Cold Souls"
 _year: "2009"
 _director: ["Sophie Barthes", ]

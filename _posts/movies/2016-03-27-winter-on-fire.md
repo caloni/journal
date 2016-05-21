@@ -1,6 +1,7 @@
 ---
 imdb: "4908644"
 stars: "5/5"
+category: "movies"
 title: "Winter on Fire"
 _title: "Winter on Fire: Ukraine's Fight for Freedom"
 _year: "2015"

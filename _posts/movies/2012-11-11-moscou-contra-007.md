@@ -2,6 +2,7 @@
 imdb: "0057076"
 title: "Moscou Contra 007"
 stars: "4/5"
+category: "movies"
 _title: "From Russia with Love"
 _year: "1963"
 _director: ["Terence Young", ]

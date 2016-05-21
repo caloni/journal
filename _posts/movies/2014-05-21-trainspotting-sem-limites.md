@@ -2,6 +2,7 @@
 imdb: "0117951"
 title: "Trainspotting Sem Limites"
 stars: "5/5"
+category: "movies"
 _title: "Trainspotting"
 _year: "1996"
 _director: ["Danny Boyle", ]

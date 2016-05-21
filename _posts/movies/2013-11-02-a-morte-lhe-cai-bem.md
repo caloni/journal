@@ -2,6 +2,7 @@
 imdb: "0104070"
 title: "A Morte lhe Cai Bem"
 stars: "4/5"
+category: "movies"
 _title: "Death Becomes Her"
 _year: "1992"
 _director: ["Robert Zemeckis", ]

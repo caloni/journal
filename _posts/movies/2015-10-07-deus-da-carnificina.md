@@ -1,6 +1,7 @@
 ---
 imdb: "1692486"
 stars: "4/5"
+category: "movies"
 title: "Deus da Carnificina"
 _title: "Carnage"
 _year: "2011"

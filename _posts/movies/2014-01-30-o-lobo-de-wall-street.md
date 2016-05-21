@@ -2,6 +2,7 @@
 imdb: "0993846"
 title: "O Lobo de Wall Street"
 stars: "5/5"
+category: "movies"
 _title: "The Wolf of Wall Street"
 _year: "2013"
 _director: ["Martin Scorsese", ]

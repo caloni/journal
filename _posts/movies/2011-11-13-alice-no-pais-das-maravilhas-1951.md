@@ -3,6 +3,7 @@ imdb: "0043274"
 revision: [2013-07-10]
 title: "Alice no País das Maravilhas"
 stars: "5/5"
+category: "movies"
 _title: "Alice in Wonderland"
 _year: "1951"
 _director: ["Clyde Geronimi", "Wilfred Jackson", "Hamilton Luske", ]

@@ -2,6 +2,7 @@
 imdb: "1532503"
 title: "Toda Forma de Amor"
 stars: "3/5"
+category: "movies"
 _title: "Beginners"
 _year: "2010"
 _director: ["Mike Mills", ]

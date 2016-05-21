@@ -2,6 +2,7 @@
 imdb: "1821694"
 title: "Red 2 Aposentados e Ainda Mais Perigosos"
 stars: "3/5"
+category: "movies"
 _title: "RED 2"
 _year: "2013"
 _director: ["Dean Parisot", ]

@@ -2,6 +2,7 @@
 imdb: "1504320"
 title: "O Discurso do Rei"
 stars: "3/5"
+category: "movies"
 _title: "The King's Speech"
 _year: "2010"
 _director: ["Tom Hooper", ]

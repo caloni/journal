@@ -2,6 +2,7 @@
 imdb: "0084503"
 title: "Pink Floyd The Wall"
 stars: "4/5"
+category: "movies"
 _title: "Pink Floyd The Wall"
 _year: "1982"
 _director: ["Alan Parker", ]

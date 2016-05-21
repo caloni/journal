@@ -2,6 +2,7 @@
 imdb: "0458413"
 title: "Uma Longa Queda"
 stars: "2/5"
+category: "movies"
 _title: "A Long Way Down"
 _year: "2014"
 _director: ["Pascal Chaumeil", ]

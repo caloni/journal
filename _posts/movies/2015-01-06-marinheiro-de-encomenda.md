@@ -2,6 +2,7 @@
 imdb: "0019421"
 title: "Marinheiro de Encomenda"
 stars: "4/5"
+category: "movies"
 _title: "Steamboat Bill, Jr."
 _year: "1928"
 _director: ["Charles Reisner", "Buster Keaton", ]

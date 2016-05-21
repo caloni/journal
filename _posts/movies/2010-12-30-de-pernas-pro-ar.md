@@ -2,6 +2,7 @@
 imdb: "1564916"
 title: "De Pernas pro Ar"
 stars: "3/5"
+category: "movies"
 _title: "De Pernas pro Ar"
 _year: "2010"
 _director: ["Roberto Santucci", ]

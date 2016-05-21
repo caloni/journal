@@ -2,6 +2,7 @@
 imdb: "1618447"
 title: "Adeus Primeiro Amor"
 stars: "3/5"
+category: "movies"
 _title: "Un amour de jeunesse"
 _year: "2011"
 _director: ["Mia Hansen-Løve", ]

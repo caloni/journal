@@ -1,6 +1,7 @@
 ---
 imdb: "2406252"
 stars: "4/5"
+category: "movies"
 title: "A Pele de Vênus"
 _title: "La Vénus à la fourrure"
 _year: "2013"

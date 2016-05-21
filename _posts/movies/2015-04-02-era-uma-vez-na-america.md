@@ -1,6 +1,7 @@
 ---
 imdb: "0087843"
 stars: "5/5"
+category: "movies"
 title: "Era Uma Vez na América"
 _title: "Once Upon a Time in America"
 _year: "1984"

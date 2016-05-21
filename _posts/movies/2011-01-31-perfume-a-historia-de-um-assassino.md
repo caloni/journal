@@ -2,6 +2,7 @@
 imdb: "0396171"
 title: "Perfume A História de um Assassino"
 stars: "5/5"
+category: "movies"
 _title: "Perfume: The Story of a Murderer"
 _year: "2006"
 _director: ["Tom Tykwer", ]

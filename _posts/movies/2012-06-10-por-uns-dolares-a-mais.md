@@ -2,6 +2,7 @@
 imdb: "0059578"
 title: "Por uns Dólares a Mais"
 stars: "5/5"
+category: "movies"
 _title: "Per qualche dollaro in più"
 _year: "1965"
 _director: ["Sergio Leone", ]

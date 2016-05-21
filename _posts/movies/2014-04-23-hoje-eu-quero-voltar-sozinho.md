@@ -2,6 +2,7 @@
 imdb: "1702014"
 title: "Hoje Eu Quero Voltar Sozinho"
 stars: "4/5"
+category: "movies"
 _title: "Hoje Eu Quero Voltar Sozinho"
 _year: "2014"
 _director: ["Daniel Ribeiro", ]

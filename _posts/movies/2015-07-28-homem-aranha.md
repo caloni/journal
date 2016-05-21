@@ -1,6 +1,7 @@
 ---
 imdb: "0145487"
 stars: "4/5"
+category: "movies"
 title: "Homem-Aranha"
 _title: "Spider-Man"
 _year: "2002"

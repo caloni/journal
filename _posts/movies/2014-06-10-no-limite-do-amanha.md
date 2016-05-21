@@ -2,6 +2,7 @@
 imdb: "1631867"
 title: "No Limite do Amanhã"
 stars: "4/5"
+category: "movies"
 _title: "Edge of Tomorrow"
 _year: "2014"
 _director: ["Doug Liman", ]

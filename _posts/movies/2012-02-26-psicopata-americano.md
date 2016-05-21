@@ -2,6 +2,7 @@
 imdb: "0144084"
 title: "Psicopata Americano"
 stars: "5/5"
+category: "movies"
 _title: "American Psycho"
 _year: "2000"
 _director: ["Mary Harron", ]

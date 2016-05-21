@@ -2,6 +2,7 @@
 imdb: "2132285"
 title: "Bling Ring A Gangue de Hollywood"
 stars: "4/5"
+category: "movies"
 _title: "The Bling Ring"
 _year: "2013"
 _director: ["Sofia Coppola", ]

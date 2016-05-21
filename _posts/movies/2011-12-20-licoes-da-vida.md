@@ -2,6 +2,7 @@
 imdb: "0446687"
 title: "Lições de Vida"
 stars: "3/5"
+category: "movies"
 _title: "Driving Lessons"
 _year: "2006"
 _director: ["Jeremy Brock", ]

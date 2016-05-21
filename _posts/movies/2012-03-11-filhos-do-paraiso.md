@@ -2,6 +2,7 @@
 imdb: "0118849"
 title: "Filhos do Paraíso"
 stars: "4/5"
+category: "movies"
 _title: "Bacheha-Ye aseman"
 _year: "1997"
 _director: ["Majid Majidi", ]

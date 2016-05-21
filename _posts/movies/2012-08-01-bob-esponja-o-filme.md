@@ -2,6 +2,7 @@
 imdb: "0345950"
 title: "Bob Esponja O Filme"
 stars: "4/5"
+category: "movies"
 _title: "The SpongeBob SquarePants Movie"
 _year: "2004"
 _director: ["Stephen Hillenburg", "Mark Osborne", ]

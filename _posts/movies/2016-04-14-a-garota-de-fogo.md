@@ -1,6 +1,7 @@
 ---
 imdb: "3089326"
 stars: "5/5"
+category: "movies"
 title: "A Garota de Fogo"
 _title: "Magical Girl"
 _year: "2014"

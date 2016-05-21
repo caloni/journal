@@ -1,6 +1,7 @@
 ---
 imdb: "2382298"
 stars: "4/5"
+category: "movies"
 title: "Life Itself"
 _title: "Life Itself"
 _year: "2014"

@@ -2,6 +2,7 @@
 imdb: "1565958"
 title: "Românticos Anônimos"
 stars: "4/5"
+category: "movies"
 _title: "Les émotifs anonymes"
 _year: "2010"
 _director: ["Jean-Pierre Améris", ]

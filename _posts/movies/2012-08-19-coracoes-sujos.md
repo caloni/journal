@@ -2,6 +2,7 @@
 imdb: "1653653"
 title: "Corações Sujos"
 stars: "1/5"
+category: "movies"
 _title: "Corações Sujos"
 _year: "2011"
 _director: ["Vicente Amorim", ]

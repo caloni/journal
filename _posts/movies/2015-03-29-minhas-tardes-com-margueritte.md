@@ -1,6 +1,7 @@
 ---
 imdb: "1455151"
 stars: "4/5"
+category: "movies"
 title: "Minhas Tardes com Margueritte"
 _title: "La tête en friche"
 _year: "2010"

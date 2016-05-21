@@ -1,6 +1,7 @@
 ---
 imdb: "2180411"
 stars: "2/5"
+category: "movies"
 title: "Caminhos da Floresta"
 _title: "Into the Woods"
 _year: "2014"

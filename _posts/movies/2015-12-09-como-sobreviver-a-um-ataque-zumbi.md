@@ -1,6 +1,7 @@
 ---
 imdb: "1727776"
 stars: "3/5"
+category: "movies"
 title: "Como Sobreviver a Um Ataque Zumbi"
 _title: "Scouts Guide to the Zombie Apocalypse"
 _year: "2015"

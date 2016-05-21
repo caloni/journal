@@ -2,6 +2,7 @@
 imdb: "2381941"
 title: "Golpe Duplo"
 stars: "4/5"
+category: "movies"
 _title: "Focus"
 _year: "2015"
 _director: ["Glenn Ficarra", "John Requa", ]

@@ -2,6 +2,7 @@
 imdb: "1646974"
 title: "Os Nomes do Amor"
 stars: "4/5"
+category: "movies"
 _title: "Le nom des gens"
 _year: "2010"
 _director: ["Michel Leclerc", ]

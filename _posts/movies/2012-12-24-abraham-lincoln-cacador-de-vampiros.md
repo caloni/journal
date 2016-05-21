@@ -2,6 +2,7 @@
 imdb: "1611224"
 title: "Abraham Lincoln Caçador de Vampiros"
 stars: "2/5"
+category: "movies"
 _title: "Abraham Lincoln: Vampire Hunter"
 _year: "2012"
 _director: ["Timur Bekmambetov", ]

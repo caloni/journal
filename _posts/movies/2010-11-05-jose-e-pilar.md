@@ -3,6 +3,7 @@ imdb: "1789810"
 count: 2
 title: "José e Pilar"
 stars: "5/5"
+category: "movies"
 _title: "José e Pilar"
 _year: "2010"
 _director: ["Miguel Gonçalves Mendes", ]

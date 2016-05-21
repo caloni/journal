@@ -2,6 +2,7 @@
 imdb: "0450278"
 title: "O Albergue"
 stars: "3/5"
+category: "movies"
 _title: "Hostel"
 _year: "2005"
 _director: ["Eli Roth", ]

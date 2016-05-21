@@ -2,6 +2,7 @@
 imdb: "0015324"
 title: "Sherlock Jr."
 stars: "5/5"
+category: "movies"
 _title: "Sherlock Jr."
 _year: "1924"
 _director: ["Buster Keaton", ]

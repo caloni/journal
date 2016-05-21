@@ -2,6 +2,7 @@
 imdb: "0101272"
 title: "A Família Addams"
 stars: "3/5"
+category: "movies"
 _title: "The Addams Family"
 _year: "1991"
 _director: ["Barry Sonnenfeld", ]

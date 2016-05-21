@@ -2,6 +2,7 @@
 imdb: "2630336"
 review-title: "Mordomo de Preto é animê disfarçado de filme"
 stars: "2/5"
+category: "movies"
 title: "O Mordomo de Preto"
 _title: "Kuroshitsuji"
 _year: "2014"

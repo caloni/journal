@@ -2,6 +2,7 @@
 title: "Actores S.A."
 imdb: "3336632"
 stars: "2/5"
+category: "movies"
 _title: "Actores S.A."
 _year: "2013"
 _director: ["Carlos Sariñana", ]

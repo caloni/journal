@@ -2,6 +2,7 @@
 imdb: "2084970"
 title: "O Jogo da Imitação"
 stars: "3/5"
+category: "movies"
 _title: "The Imitation Game"
 _year: "2014"
 _director: ["Morten Tyldum", ]

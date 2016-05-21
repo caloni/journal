@@ -1,6 +1,7 @@
 ---
 imdb: "0313792"
 stars: "2/5"
+category: "movies"
 title: "Igual a Tudo na Vida"
 _title: "Anything Else"
 _year: "2003"

@@ -1,6 +1,7 @@
 ---
 imdb: "0337926"
 stars: "1/5"
+category: "movies"
 title: "Chatô - O Rei do Brasil"
 _title: "Chatô - O Rei do Brasil"
 _year: "2015"

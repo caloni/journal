@@ -2,6 +2,7 @@
 imdb: "0369610"
 review-title: "Criamos dinossauros para sentir o prazer de nossa futilidade como espécie"
 stars: "4/5"
+category: "movies"
 title: "Jurassic World: O Mundo dos Dinossauros"
 _title: "Jurassic World"
 _year: "2015"

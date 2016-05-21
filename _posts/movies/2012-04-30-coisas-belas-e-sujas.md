@@ -2,6 +2,7 @@
 imdb: "0301199"
 title: "Coisas Belas E Sujas"
 stars: "4/5"
+category: "movies"
 _title: "Dirty Pretty Things"
 _year: "2002"
 _director: ["Stephen Frears", ]

@@ -2,6 +2,7 @@
 imdb: "1054606"
 title: "O Mundo Imaginário do Doutor Parnassus"
 stars: "2/5"
+category: "movies"
 _title: "The Imaginarium of Doctor Parnassus"
 _year: "2009"
 _director: ["Terry Gilliam", ]

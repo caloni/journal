@@ -2,6 +2,7 @@
 imdb: "0116683"
 title: "James e o Pêssego Gigante"
 stars: "4/5"
+category: "movies"
 _title: "James and the Giant Peach"
 _year: "1996"
 _director: ["Henry Selick", ]

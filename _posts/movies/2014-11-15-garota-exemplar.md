@@ -2,6 +2,7 @@
 imdb: "2267998"
 title: "Garota Exemplar"
 stars: "5/5"
+category: "movies"
 _title: "Gone Girl"
 _year: "2014"
 _director: ["David Fincher", ]

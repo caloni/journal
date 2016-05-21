@@ -2,6 +2,7 @@
 imdb: "1646971"
 title: "Como Treinar o Seu Dragão 2"
 stars: "5/5"
+category: "movies"
 _title: "How to Train Your Dragon 2"
 _year: "2014"
 _director: ["Dean DeBlois", ]

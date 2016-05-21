@@ -1,6 +1,7 @@
 ---
 imdb: "2194499"
 stars: "3/5"
+category: "movies"
 title: "About Time"
 _title: "About Time"
 _year: "2013"

@@ -2,6 +2,7 @@
 imdb: "1579361"
 title: "Chasing Ice"
 stars: "4/5"
+category: "movies"
 _title: "Chasing Ice"
 _year: "2012"
 _director: ["Jeff Orlowski", ]

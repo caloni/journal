@@ -2,6 +2,7 @@
 imdb: "0431021"
 title: "Possessão"
 stars: "3/5"
+category: "movies"
 _title: "The Possession"
 _year: "2012"
 _director: ["Ole Bornedal", ]

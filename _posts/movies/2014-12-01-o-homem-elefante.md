@@ -2,6 +2,7 @@
 imdb: "0080678"
 title: "O Homem Elefante"
 stars: "4/5"
+category: "movies"
 _title: "The Elephant Man"
 _year: "1980"
 _director: ["David Lynch", ]

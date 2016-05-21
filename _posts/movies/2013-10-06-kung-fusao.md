@@ -2,6 +2,7 @@
 imdb: "0373074"
 title: "Kung-Fusão"
 stars: "4/5"
+category: "movies"
 _title: "Kung fu"
 _year: "2004"
 _director: ["Stephen Chow", ]

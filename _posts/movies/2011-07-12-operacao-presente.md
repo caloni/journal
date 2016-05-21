@@ -2,6 +2,7 @@
 imdb: "1430607"
 title: "Operação Presente"
 stars: "4/5"
+category: "movies"
 _title: "Arthur Christmas"
 _year: "2011"
 _director: ["Sarah Smith", "Barry Cook", ]

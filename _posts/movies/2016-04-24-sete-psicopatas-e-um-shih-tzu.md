@@ -1,6 +1,7 @@
 ---
 imdb: "1931533"
 stars: "4/5"
+category: "movies"
 title: "Sete Psicopatas e um Shih Tzu"
 _title: "Seven Psychopaths"
 _year: "2012"

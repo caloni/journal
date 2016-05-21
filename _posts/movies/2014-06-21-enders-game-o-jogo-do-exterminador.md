@@ -2,6 +2,7 @@
 imdb: "1731141"
 title: "Enders Game O Jogo do Exterminador"
 stars: "3/5"
+category: "movies"
 _title: "Ender's Game"
 _year: "2013"
 _director: ["Gavin Hood", ]

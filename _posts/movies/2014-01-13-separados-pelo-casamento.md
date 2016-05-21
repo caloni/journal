@@ -2,6 +2,7 @@
 imdb: "0452594"
 title: "Separados pelo Casamento"
 stars: "4/5"
+category: "movies"
 _title: "The Break-Up"
 _year: "2006"
 _director: ["Peyton Reed", ]

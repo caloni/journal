@@ -2,6 +2,7 @@
 imdb: "0185125"
 title: "Tudo Sobre Minha Mãe"
 stars: "5/5"
+category: "movies"
 _title: "Todo sobre mi madre"
 _year: "1999"
 _director: ["Pedro Almodóvar", ]

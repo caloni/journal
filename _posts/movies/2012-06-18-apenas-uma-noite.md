@@ -2,6 +2,7 @@
 imdb: "1294688"
 title: "Apenas uma Noite"
 stars: "4/5"
+category: "movies"
 _title: "Last Night"
 _year: "2010"
 _director: ["Massy Tadjedin", ]

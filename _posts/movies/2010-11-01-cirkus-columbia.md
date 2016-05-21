@@ -2,6 +2,7 @@
 imdb: "1417067"
 title: "Circus Columbia"
 stars: "5/5"
+category: "movies"
 _title: "Cirkus Columbia"
 _year: "2010"
 _director: ["Danis Tanovic", ]

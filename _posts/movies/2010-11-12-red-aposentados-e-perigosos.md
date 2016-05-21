@@ -2,6 +2,7 @@
 imdb: "1245526"
 title: "Red Aposentados e Perigosos"
 stars: "3/5"
+category: "movies"
 _title: "RED"
 _year: "2010"
 _director: ["Robert Schwentke", ]

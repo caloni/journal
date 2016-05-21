@@ -2,6 +2,7 @@
 imdb: "1067106"
 title: "Os Fantasmas de Scrooge"
 stars: "4/5"
+category: "movies"
 _title: "A Christmas Carol"
 _year: "2009"
 _director: ["Robert Zemeckis", ]

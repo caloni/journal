@@ -2,6 +2,7 @@
 imdb: "1219342"
 title: "A Lenda dos Guardiões"
 stars: "2/5"
+category: "movies"
 _title: "Legend of the Guardians: The Owls of Ga'Hoole"
 _year: "2010"
 _director: ["Zack Snyder", ]

@@ -1,6 +1,7 @@
 ---
 imdb: "1365050"
 stars: "5/5"
+category: "movies"
 title: "Beasts of No Nation"
 _title: "Beasts of No Nation"
 _year: "2015"

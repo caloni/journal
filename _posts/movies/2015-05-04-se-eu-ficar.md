@@ -1,6 +1,7 @@
 ---
 imdb: "1355630"
 stars: "1/5"
+category: "movies"
 title: "Se Eu Ficar"
 _title: "If I Stay"
 _year: "2014"

@@ -2,6 +2,7 @@
 imdb: "1674057"
 title: "E se Vivêssemos Todos Juntos?"
 stars: "3/5"
+category: "movies"
 _title: "Et si on vivait tous ensemble?"
 _year: "2011"
 _director: ["Stéphane Robelin", ]

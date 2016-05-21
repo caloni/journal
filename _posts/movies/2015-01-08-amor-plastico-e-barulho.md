@@ -2,6 +2,7 @@
 imdb: "2650414"
 title: "Amor, Plástico e Barulho"
 stars: "4/5"
+category: "movies"
 _title: "Amor, Plástico e Barulho"
 _year: "2013"
 _director: ["Renata Pinheiro", ]

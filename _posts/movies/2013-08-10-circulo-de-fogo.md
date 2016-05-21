@@ -2,6 +2,7 @@
 imdb: "1663662"
 title: "Círculo de Fogo"
 stars: "4/5"
+category: "movies"
 _title: "Pacific Rim"
 _year: "2013"
 _director: ["Guillermo del Toro", ]

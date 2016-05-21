@@ -1,6 +1,7 @@
 ---
 imdb: "2179136"
 stars: "3/5"
+category: "movies"
 title: "Sniper Americano"
 _title: "American Sniper"
 _year: "2014"

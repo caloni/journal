@@ -2,6 +2,7 @@
 imdb: "0427229"
 title: "Armações do Amor"
 stars: "3/5"
+category: "movies"
 _title: "Failure to Launch"
 _year: "2006"
 _director: ["Tom Dey", ]

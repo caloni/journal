@@ -2,6 +2,7 @@
 imdb: "0093870"
 title: "RoboCop O Policial do Futuro"
 stars: "5/5"
+category: "movies"
 _title: "RoboCop"
 _year: "1987"
 _director: ["Paul Verhoeven", ]

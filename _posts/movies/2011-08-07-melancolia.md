@@ -2,6 +2,7 @@
 imdb: "1527186"
 title: "Melancolia"
 stars: "5/5"
+category: "movies"
 _title: "Melancholia"
 _year: "2011"
 _director: ["Lars von Trier", ]

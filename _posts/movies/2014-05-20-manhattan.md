@@ -2,6 +2,7 @@
 imdb: "0079522"
 title: "Manhattan"
 stars: "4/5"
+category: "movies"
 _title: "Manhattan"
 _year: "1979"
 _director: ["Woody Allen", ]

@@ -2,6 +2,7 @@
 imdb: "3148834"
 title: "A Mansão Mágica"
 stars: "4/5"
+category: "movies"
 _title: "The House of Magic"
 _year: "2013"
 _director: ["Jeremy Degruson", "Ben Stassen", ]

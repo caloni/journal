@@ -2,6 +2,7 @@
 imdb: "0083798"
 title: "Cliente Morto Não Paga"
 stars: "4/5"
+category: "movies"
 _title: "Dead Men Don't Wear Plaid"
 _year: "1982"
 _director: ["Carl Reiner", ]

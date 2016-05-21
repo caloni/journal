@@ -2,6 +2,7 @@
 imdb: "1705786"
 title: "Um Conto Chinês"
 stars: "4/5"
+category: "movies"
 _title: "Un cuento chino"
 _year: "2011"
 _director: ["Sebastián Borensztein", ]

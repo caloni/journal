@@ -2,6 +2,7 @@
 imdb: "1423894"
 title: "A Minha Versão do Amor"
 stars: "5/5"
+category: "movies"
 _title: "Barney's Version"
 _year: "2010"
 _director: ["Richard J. Lewis", ]

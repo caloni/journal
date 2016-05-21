@@ -2,6 +2,7 @@
 imdb: "2278388"
 title: "O Grande Hotel Budapeste"
 stars: "4/5"
+category: "movies"
 _title: "The Grand Budapest Hotel"
 _year: "2014"
 _director: ["Wes Anderson", ]

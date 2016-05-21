@@ -2,6 +2,7 @@
 imdb: "0424095"
 title: "Por Água Abaixo"
 stars: "4/5"
+category: "movies"
 _title: "Flushed Away"
 _year: "2006"
 _director: ["David Bowers", "Sam Fell", ]

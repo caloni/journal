@@ -2,6 +2,7 @@
 imdb: "1268204"
 title: "Lixo Extraordinário"
 stars: "5/5"
+category: "movies"
 _title: "Waste Land"
 _year: "2010"
 _director: ["Lucy Walker", "Karen Harley", "João Jardim", ]

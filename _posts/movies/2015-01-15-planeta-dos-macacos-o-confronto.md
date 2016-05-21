@@ -2,6 +2,7 @@
 imdb: "2103281"
 title: "Planeta dos Macacos: O Confronto"
 stars: "4/5"
+category: "movies"
 _title: "Dawn of the Planet of the Apes"
 _year: "2014"
 _director: ["Matt Reeves", ]

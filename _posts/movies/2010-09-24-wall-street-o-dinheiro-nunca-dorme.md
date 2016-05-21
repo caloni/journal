@@ -2,6 +2,7 @@
 imdb: "1027718"
 title: "Wall Street O Dinheiro Nunca Dorme"
 stars: "4/5"
+category: "movies"
 _title: "Wall Street: Money Never Sleeps"
 _year: "2010"
 _director: ["Oliver Stone", ]

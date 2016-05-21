@@ -2,6 +2,7 @@
 imdb: "1440728"
 title: "Um Homem Misterioso"
 stars: "5/5"
+category: "movies"
 _title: "The American"
 _year: "2010"
 _director: ["Anton Corbijn", ]

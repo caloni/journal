@@ -2,6 +2,7 @@
 imdb: "0063350"
 title: "A Noite dos Mortos-Vivos"
 stars: "4/5"
+category: "movies"
 _title: "Night of the Living Dead"
 _year: "1968"
 _director: ["George A. Romero", ]

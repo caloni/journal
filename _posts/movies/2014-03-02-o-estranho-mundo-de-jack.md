@@ -2,6 +2,7 @@
 imdb: "0107688"
 title: "O Estranho Mundo de Jack"
 stars: "4/5"
+category: "movies"
 revision: [2015-05-29]
 _title: "The Nightmare Before Christmas"
 _year: "1993"

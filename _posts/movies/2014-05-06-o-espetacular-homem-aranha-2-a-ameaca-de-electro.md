@@ -3,6 +3,7 @@ imdb: "1872181"
 count: 2
 title: "O Espetacular Homem-Aranha 2 A Ameaça de Electro"
 stars: "3/5"
+category: "movies"
 revision: [2014-12-20]
 _title: "The Amazing Spider-Man 2"
 _year: "2014"

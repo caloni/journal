@@ -3,6 +3,7 @@ imdb: "0378194"
 count: 2
 title: "Kill Bill Volume 2"
 stars: "5/5"
+category: "movies"
 _title: "Kill Bill: Vol. 2"
 _year: "2004"
 _director: ["Quentin Tarantino", ]

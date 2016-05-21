@@ -2,6 +2,7 @@
 imdb: "0081534"
 title: "Em Algum Lugar do Passado"
 stars: "5/5"
+category: "movies"
 _title: "Somewhere in Time"
 _year: "1980"
 _director: ["Jeannot Szwarc", ]

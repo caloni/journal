@@ -2,6 +2,7 @@
 imdb: "0478724"
 title: "A Noiva Perfeita"
 stars: "3/5"
+category: "movies"
 _title: "Prête-moi ta main"
 _year: "2006"
 _director: ["Eric Lartigau", ]

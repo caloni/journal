@@ -1,6 +1,7 @@
 ---
 imdb: "2381249"
 stars: "5/5"
+category: "movies"
 title: "Missão: Impossível - Nação Secreta"
 _title: "Mission: Impossible - Rogue Nation"
 _year: "2015"

@@ -2,6 +2,7 @@
 imdb: "0977642"
 title: "Chega de Saudade"
 stars: "4/5"
+category: "movies"
 _title: "Chega de Saudade"
 _year: "2007"
 _director: ["Laís Bodanzky", ]

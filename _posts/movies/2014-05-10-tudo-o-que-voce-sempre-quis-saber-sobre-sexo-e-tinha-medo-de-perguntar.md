@@ -2,6 +2,7 @@
 imdb: "0068555"
 title: "Tudo o Que Você Sempre Quis Saber Sobre Sexo E Tinha Medo de Perguntar"
 stars: "3/5"
+category: "movies"
 _title: "Everything You Always Wanted to Know About Sex * But Were Afraid to Ask"
 _year: "1972"
 _director: ["Woody Allen", ]

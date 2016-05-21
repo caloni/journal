@@ -1,6 +1,7 @@
 ---
 imdb: "2625598"
 stars: "4/5"
+category: "movies"
 title: "Living on One Dollar"
 _title: "Living on One Dollar"
 _year: "2013"

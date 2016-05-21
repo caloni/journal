@@ -1,6 +1,7 @@
 ---
 imdb: "1279935"
 stars: "3/5"
+category: "movies"
 title: "Uma Noite Fora de Série"
 _title: "Date Night"
 _year: "2010"

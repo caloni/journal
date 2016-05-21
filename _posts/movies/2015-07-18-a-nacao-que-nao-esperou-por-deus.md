@@ -2,6 +2,7 @@
 imdb: "4659524"
 review-title: "Documentário de diretora de Brava Gente Brasileira revisita o povo indígena que perdeu sua cultura para a TV e para a Bíblia"
 stars: "4/5"
+category: "movies"
 title: "A Nação Que Não Esperou Por Deus"
 _title: "A Nação Que Não Esperou Por Deus: The Nation That Didn't Wait for God"
 _year: "2015"

@@ -2,6 +2,7 @@
 imdb: "1559547"
 title: "Dezesseis Luas"
 stars: "1/5"
+category: "movies"
 _title: "Beautiful Creatures"
 _year: "2013"
 _director: ["Richard LaGravenese", ]

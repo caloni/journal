@@ -2,6 +2,7 @@
 imdb: "1769383"
 title: "A Big Love Story"
 stars: "3/5"
+category: "movies"
 _title: "A Big Love Story"
 _year: "2012"
 _director: ["Ryan Sage", ]

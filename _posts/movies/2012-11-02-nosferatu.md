@@ -2,6 +2,7 @@
 imdb: "0013442"
 title: "Nosferatu"
 stars: "4/5"
+category: "movies"
 _title: "Nosferatu, eine Symphonie des Grauens"
 _year: "1922"
 _director: ["F.W. Murnau", ]

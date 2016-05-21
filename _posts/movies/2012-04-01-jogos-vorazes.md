@@ -2,6 +2,7 @@
 imdb: "1392170"
 title: "Jogos Vorazes"
 stars: "4/5"
+category: "movies"
 tags: [ "hungergames" ]
 _title: "The Hunger Games"
 _year: "2012"

@@ -2,6 +2,7 @@
 imdb: "1054580"
 title: "Flor do Deserto"
 stars: "4/5"
+category: "movies"
 _title: "Desert Flower"
 _year: "2009"
 _director: ["Sherry Hormann", ]

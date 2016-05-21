@@ -1,6 +1,7 @@
 ---
 imdb: "0060675"
 stars: "4/5"
+category: "movies"
 title: "Masculino-Feminino"
 _title: "Masculin féminin"
 _year: "1966"

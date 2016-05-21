@@ -2,6 +2,7 @@
 imdb: "1034427"
 title: "Alexandra"
 stars: "3/5"
+category: "movies"
 _title: "Aleksandra"
 _year: "2007"
 _director: ["Aleksandr Sokurov", ]

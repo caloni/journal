@@ -1,6 +1,7 @@
 ---
 imdb: "0056172"
 stars: "5/5"
+category: "movies"
 title: "Lawrence da Arábia"
 _title: "Lawrence of Arabia"
 _year: "1962"

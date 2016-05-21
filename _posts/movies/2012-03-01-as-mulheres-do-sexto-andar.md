@@ -2,6 +2,7 @@
 imdb: "1805297"
 title: "As Mulheres do Sexto Andar"
 stars: "4/5"
+category: "movies"
 _title: "Les femmes du 6e étage"
 _year: "2010"
 _director: ["Philippe Le Guay", ]

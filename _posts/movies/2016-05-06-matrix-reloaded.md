@@ -1,6 +1,7 @@
 ---
 imdb: "0234215"
 stars: "4/5"
+category: "movies"
 title: "Matrix Reloaded"
 _title: "The Matrix Reloaded"
 _year: "2003"

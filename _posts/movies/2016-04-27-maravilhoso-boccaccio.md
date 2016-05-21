@@ -1,6 +1,7 @@
 ---
 imdb: "3596952"
 stars: "3/5"
+category: "movies"
 title: "Maravilhoso Boccaccio"
 _title: "Maraviglioso Boccaccio"
 _year: "2015"

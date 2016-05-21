@@ -1,6 +1,7 @@
 ---
 imdb: "3194410"
 stars: "3/5"
+category: "movies"
 title: "O Preço da Fama"
 _title: "La rançon de la gloire"
 _year: "2014"

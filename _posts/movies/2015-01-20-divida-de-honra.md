@@ -2,6 +2,7 @@
 imdb: "2398231"
 title: "Dívida de Honra"
 stars: "4/5"
+category: "movies"
 _title: "The Homesman"
 _year: "2014"
 _director: ["Tommy Lee Jones", ]

@@ -2,6 +2,7 @@
 imdb: "0247586"
 title: "Nove Rainhas"
 stars: "5/5"
+category: "movies"
 _title: "Nueve reinas"
 _year: "2000"
 _director: ["Fabián Bielinsky", ]

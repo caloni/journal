@@ -4,6 +4,7 @@ revision: [2014-03-03, 2015-10-04]
 date: "2015-10-04"
 title: "Uma Aventura LEGO"
 stars: "5/5"
+category: "movies"
 _title: "The Lego Movie"
 _year: "2014"
 _director: ["Phil Lord", "Christopher Miller", ]

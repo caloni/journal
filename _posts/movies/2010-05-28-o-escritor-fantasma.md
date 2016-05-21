@@ -2,6 +2,7 @@
 imdb: "1139328"
 title: "O Escritor Fantasma"
 stars: "5/5"
+category: "movies"
 _title: "The Ghost Writer"
 _year: "2010"
 _director: ["Roman Polanski", ]

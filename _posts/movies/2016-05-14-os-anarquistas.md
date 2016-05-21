@@ -1,6 +1,7 @@
 ---
 imdb: "4466336"
 stars: "3/5"
+category: "movies"
 title: "Os Anarquistas"
 _title: "Les anarchistes"
 _year: "2015"

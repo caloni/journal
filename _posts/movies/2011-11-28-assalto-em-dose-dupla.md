@@ -2,6 +2,7 @@
 imdb: "1541160"
 title: "Assalto em Dose Dupla"
 stars: "3/5"
+category: "movies"
 _title: "Flypaper"
 _year: "2011"
 _director: ["Rob Minkoff", ]

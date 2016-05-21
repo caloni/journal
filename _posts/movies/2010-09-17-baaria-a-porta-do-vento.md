@@ -2,6 +2,7 @@
 imdb: "1081935"
 title: "Baarìa A Porta do Vento"
 stars: "3/5"
+category: "movies"
 _title: "Baarìa"
 _year: "2009"
 _director: ["Giuseppe Tornatore", ]

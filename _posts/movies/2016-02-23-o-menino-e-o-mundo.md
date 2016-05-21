@@ -1,6 +1,7 @@
 ---
 imdb: "3183630"
 stars: "3/5"
+category: "movies"
 title: "O Menino e o Mundo"
 _title: "O Menino e o Mundo"
 _year: "2013"

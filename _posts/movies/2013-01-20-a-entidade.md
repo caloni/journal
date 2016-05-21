@@ -2,6 +2,7 @@
 imdb: "1922777"
 title: "A Entidade"
 stars: "3/5"
+category: "movies"
 _title: "Sinister"
 _year: "2012"
 _director: ["Scott Derrickson", ]

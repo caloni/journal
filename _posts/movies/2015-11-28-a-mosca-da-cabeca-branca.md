@@ -1,6 +1,7 @@
 ---
 imdb: "0051622"
 stars: "5/5"
+category: "movies"
 title: "A Mosca da Cabeça Branca"
 _title: "The Fly"
 _year: "1958"

@@ -2,6 +2,7 @@
 imdb: "1675434"
 title: "Intocáveis"
 stars: "4/5"
+category: "movies"
 revision: [2015-10-11]
 _title: "Intouchables"
 _year: "2011"

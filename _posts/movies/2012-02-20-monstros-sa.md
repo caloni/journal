@@ -2,6 +2,7 @@
 imdb: "0198781"
 title: "Monstros S/A"
 stars: "4/5"
+category: "movies"
 _title: "Monsters, Inc."
 _year: "2001"
 _director: ["Pete Docter", "David Silverman", "Lee Unkrich", ]

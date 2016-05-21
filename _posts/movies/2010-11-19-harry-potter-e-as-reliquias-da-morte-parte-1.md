@@ -2,6 +2,7 @@
 imdb: "0926084"
 title: "Harry Potter e as Relíquias da Morte Parte 1"
 stars: "5/5"
+category: "movies"
 _title: "Harry Potter and the Deathly Hallows: Part 1"
 _year: "2010"
 _director: ["David Yates", ]

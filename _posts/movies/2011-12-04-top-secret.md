@@ -2,6 +2,7 @@
 imdb: "0088286"
 title: "Top Secret! Super Confidencial"
 stars: "4/5"
+category: "movies"
 _title: "Top Secret!"
 _year: "1984"
 _director: ["Jim Abrahams", "David Zucker", "Jerry Zucker", ]

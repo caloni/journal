@@ -1,6 +1,7 @@
 ---
 imdb: "2933474"
 stars: "3/5"
+category: "movies"
 title: "Super Velozes, Mega Furiosos"
 _title: "Superfast!"
 _year: "2015"

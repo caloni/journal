@@ -2,6 +2,7 @@
 imdb: "0088930"
 title: "Os 7 Suspeitos"
 stars: "3/5"
+category: "movies"
 _title: "Clue"
 _year: "1985"
 _director: ["Jonathan Lynn", ]

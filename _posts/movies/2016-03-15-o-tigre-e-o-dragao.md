@@ -1,6 +1,7 @@
 ---
 imdb: "0190332"
 stars: "5/5"
+category: "movies"
 title: "O Tigre e o Dragão"
 _title: "Wo hu cang long"
 _year: "2000"

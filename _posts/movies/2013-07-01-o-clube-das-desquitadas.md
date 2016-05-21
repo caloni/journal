@@ -2,6 +2,7 @@
 imdb: "0116313"
 title: "O Clube das Desquitadas"
 stars: "3/5"
+category: "movies"
 _title: "The First Wives Club"
 _year: "1996"
 _director: ["Hugh Wilson", ]

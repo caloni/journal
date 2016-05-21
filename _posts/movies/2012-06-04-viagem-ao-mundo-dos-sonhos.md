@@ -2,6 +2,7 @@
 imdb: "0089114"
 title: "Viagem ao Mundo dos Sonhos"
 stars: "3/5"
+category: "movies"
 _title: "Explorers"
 _year: "1985"
 _director: ["Joe Dante", ]

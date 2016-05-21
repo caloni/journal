@@ -2,6 +2,7 @@
 imdb: "1596365"
 title: "A Mulher de Preto"
 stars: "3/5"
+category: "movies"
 _title: "The Woman in Black"
 _year: "2012"
 _director: ["James Watkins", ]

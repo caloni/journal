@@ -2,6 +2,7 @@
 imdb: "1649419"
 title: "O Impossível"
 stars: "4/5"
+category: "movies"
 _title: "Lo imposible"
 _year: "2012"
 _director: ["J.A. Bayona", ]

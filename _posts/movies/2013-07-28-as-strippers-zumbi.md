@@ -2,6 +2,7 @@
 imdb: "0960890"
 title: "As Strippers Zumbi"
 stars: "2/5"
+category: "movies"
 _title: "Zombie Strippers!"
 _year: "2008"
 _director: ["Jay Lee", ]

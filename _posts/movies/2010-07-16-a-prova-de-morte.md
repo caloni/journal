@@ -2,6 +2,7 @@
 imdb: "1028528"
 title: "À Prova de Morte"
 stars: "4/5"
+category: "movies"
 _title: "Death Proof"
 _year: "2007"
 _director: ["Quentin Tarantino", ]

@@ -2,6 +2,7 @@
 imdb: "0120382"
 title: "O Show de Truman"
 stars: "5/5"
+category: "movies"
 _title: "The Truman Show"
 _year: "1998"
 _director: ["Peter Weir", ]

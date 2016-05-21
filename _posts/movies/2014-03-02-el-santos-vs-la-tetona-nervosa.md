@@ -2,6 +2,7 @@
 imdb: "2243275"
 title: "El Santos VS la Tetona Mendoza"
 stars: "3/5"
+category: "movies"
 _title: "El Santos VS la Tetona Mendoza"
 _year: "2012"
 _director: ["Alejandro Lozano", "Andrés Couturier", "Álvaro Curiel", ]

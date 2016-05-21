@@ -2,6 +2,7 @@
 title: "Branco Sai, Preto Fica"
 imdb: "4287610"
 stars: "3/5"
+category: "movies"
 _title: "Branco sai preto fica"
 _year: "2015"
 _director: ["Adirley Queirós", ]

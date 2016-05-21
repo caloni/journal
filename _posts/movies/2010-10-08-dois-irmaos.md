@@ -2,6 +2,7 @@
 imdb: "1576382"
 title: "Dois Irmãos"
 stars: "4/5"
+category: "movies"
 _title: "Dos hermanos"
 _year: "2010"
 _director: ["Daniel Burman", ]

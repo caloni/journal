@@ -2,6 +2,7 @@
 imdb: "0318034"
 title: "Arca Russa"
 stars: "3/5"
+category: "movies"
 _title: "Russkiy kovcheg"
 _year: "2002"
 _director: ["Aleksandr Sokurov", ]

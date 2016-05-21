@@ -1,6 +1,7 @@
 ---
 imdb: "2975590"
 stars: "3/5"
+category: "movies"
 title: "Batman vs Superman: A Origem da Justiça"
 _title: "Batman v Superman: Dawn of Justice"
 _year: "2016"

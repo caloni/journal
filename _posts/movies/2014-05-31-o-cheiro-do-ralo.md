@@ -2,6 +2,7 @@
 imdb: "0489458"
 title: "O Cheiro do Ralo"
 stars: "5/5"
+category: "movies"
 _title: "O Cheiro do Ralo"
 _year: "2006"
 _director: ["Heitor Dhalia", ]

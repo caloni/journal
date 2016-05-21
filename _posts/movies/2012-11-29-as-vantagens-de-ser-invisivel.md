@@ -2,6 +2,7 @@
 imdb: "1659337"
 title: "As Vantagens de Ser Invisível"
 stars: "5/5"
+category: "movies"
 _title: "The Perks of Being a Wallflower"
 _year: "2012"
 _director: ["Stephen Chbosky", ]

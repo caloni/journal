@@ -2,6 +2,7 @@
 imdb: "1480656"
 title: "Cosmópolis"
 stars: "4/5"
+category: "movies"
 _title: "Cosmopolis"
 _year: "2012"
 _director: ["David Cronenberg", ]

@@ -2,6 +2,7 @@
 imdb: "0075148"
 title: "Rocky - Um Lutador"
 stars: "5/5"
+category: "movies"
 _title: "Rocky"
 _year: "1976"
 _director: ["John G. Avildsen", ]

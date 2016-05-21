@@ -1,6 +1,7 @@
 ---
 imdb: "1754656"
 stars: "5/5"
+category: "movies"
 title: "O Pequeno Príncipe"
 _title: "The Little Prince"
 _year: "2015"

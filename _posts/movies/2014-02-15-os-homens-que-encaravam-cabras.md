@@ -2,6 +2,7 @@
 imdb: "1234548"
 title: "Os Homens que Encaravam Cabras"
 stars: "4/5"
+category: "movies"
 _title: "The Men Who Stare at Goats"
 _year: "2009"
 _director: ["Grant Heslov", ]

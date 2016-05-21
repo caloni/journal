@@ -1,6 +1,7 @@
 ---
 imdb: "1323594"
 stars: "3/5"
+category: "movies"
 title: "Meu Malvado Favorito"
 revision: [2011-11-13]
 _title: "Despicable Me"

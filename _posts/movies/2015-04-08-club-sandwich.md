@@ -1,6 +1,7 @@
 ---
 imdb: "3118696"
 stars: "5/5"
+category: "movies"
 title: "Club Sandwich"
 _title: "Club Sándwich"
 _year: "2013"

@@ -2,6 +2,7 @@
 imdb: "0089461"
 title: "O Último Dragão"
 stars: "2/5"
+category: "movies"
 _title: "The Last Dragon"
 _year: "1985"
 _director: ["Michael Schultz", ]

@@ -2,6 +2,7 @@
 imdb: "1134854"
 title: "A Ilha dos Mortos"
 stars: "4/5"
+category: "movies"
 _title: "Survival of the Dead"
 _year: "2009"
 _director: ["George A. Romero", ]

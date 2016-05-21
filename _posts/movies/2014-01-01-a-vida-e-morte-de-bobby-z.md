@@ -2,6 +2,7 @@
 imdb: "0473188"
 title: "A Vida e a Morte De Bobby Z"
 stars: "1/5"
+category: "movies"
 _title: "The Death and Life of Bobby Z"
 _year: "2007"
 _director: ["John Herzfeld", ]

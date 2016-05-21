@@ -2,6 +2,7 @@
 imdb: "0414387"
 title: "Orgulho e Preconceito"
 stars: "5/5"
+category: "movies"
 _title: "Pride & Prejudice"
 _year: "2005"
 _director: ["Joe Wright", ]

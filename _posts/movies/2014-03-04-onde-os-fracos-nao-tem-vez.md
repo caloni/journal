@@ -2,6 +2,7 @@
 imdb: "0477348"
 title: "Onde os Fracos não Têm Vez"
 stars: "4/5"
+category: "movies"
 _title: "No Country for Old Men"
 _year: "2007"
 _director: ["Ethan Coen", "Joel Coen", ]

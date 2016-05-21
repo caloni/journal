@@ -2,6 +2,7 @@
 imdb: "0097757"
 title: "A Pequena Sereia"
 stars: "4/5"
+category: "movies"
 _title: "The Little Mermaid"
 _year: "1989"
 _director: ["Ron Clements", "John Musker", ]

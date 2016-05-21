@@ -1,6 +1,7 @@
 ---
 imdb: "3715406"
 stars: "4/5"
+category: "movies"
 title: "Atari: Game Over"
 _title: "Atari: Game Over"
 _year: "2014"

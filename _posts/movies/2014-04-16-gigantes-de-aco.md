@@ -2,6 +2,7 @@
 imdb: "0433035"
 title: "Gigantes de Aço"
 stars: "4/5"
+category: "movies"
 _title: "Real Steel"
 _year: "2011"
 _director: ["Shawn Levy", ]

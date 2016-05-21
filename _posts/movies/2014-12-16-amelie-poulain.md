@@ -2,6 +2,7 @@
 imdb: "0211915"
 title: "O Fabuloso Destino de Amélie Poulain"
 stars: "5/5"
+category: "movies"
 _title: "Le fabuleux destin d'Amélie Poulain"
 _year: "2001"
 _director: ["Jean-Pierre Jeunet", ]

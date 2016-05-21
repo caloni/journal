@@ -3,6 +3,7 @@ imdb: "1951264"
 revision: [2014-08-11]
 title: "Jogos Vorazes Em Chamas"
 stars: "4/5"
+category: "movies"
 tags: [ "hungergames" ]
 _title: "The Hunger Games: Catching Fire"
 _year: "2013"

@@ -2,6 +2,7 @@
 imdb: "0067690"
 title: "Escravas do Desejo"
 stars: "3/5"
+category: "movies"
 _title: "Les lèvres rouges"
 _year: "1971"
 _director: ["Harry Kümel", ]

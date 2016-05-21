@@ -2,6 +2,7 @@
 imdb: "1440345"
 title: "Aqui é o Meu Lugar"
 stars: "3/5"
+category: "movies"
 _title: "This Must Be the Place"
 _year: "2011"
 _director: ["Paolo Sorrentino", ]

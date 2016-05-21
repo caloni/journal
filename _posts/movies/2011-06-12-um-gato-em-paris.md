@@ -2,6 +2,7 @@
 imdb: "1673702"
 title: "Um Gato em Paris"
 stars: "4/5"
+category: "movies"
 _title: "Une vie de chat"
 _year: "2010"
 _director: ["Jean-Loup Felicioli", "Alain Gagnol", ]

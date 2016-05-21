@@ -2,6 +2,7 @@
 imdb: "0074102"
 title: "O Império dos Sentidos"
 stars: "4/5"
+category: "movies"
 _title: "Ai no korîda"
 _year: "1976"
 _director: ["Nagisa Ôshima", ]

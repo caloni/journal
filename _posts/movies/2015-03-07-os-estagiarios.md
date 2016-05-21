@@ -2,6 +2,7 @@
 imdb: "2234155"
 title: "Os Estagiários"
 stars: "3/5"
+category: "movies"
 _title: "The Internship"
 _year: "2013"
 _director: ["Shawn Levy", ]

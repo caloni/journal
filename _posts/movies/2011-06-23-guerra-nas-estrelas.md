@@ -2,6 +2,7 @@
 imdb: "0076759"
 title: "Star Wars IV - Uma Nova Esperança"
 stars: "5/5"
+category: "movies"
 _title: "Star Wars"
 _year: "1977"
 _director: ["George Lucas", ]

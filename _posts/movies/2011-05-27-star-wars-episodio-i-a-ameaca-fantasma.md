@@ -2,6 +2,7 @@
 imdb: "0120915"
 title: "Star Wars Episódio I A Ameaça Fantasma"
 stars: "3/5"
+category: "movies"
 _title: "Star Wars: Episode I - The Phantom Menace"
 _year: "1999"
 _director: ["George Lucas", ]

@@ -2,6 +2,7 @@
 imdb: "0469494"
 title: "Sangue Negro"
 stars: "5/5"
+category: "movies"
 _title: "There Will Be Blood"
 _year: "2007"
 _director: ["Paul Thomas Anderson", ]

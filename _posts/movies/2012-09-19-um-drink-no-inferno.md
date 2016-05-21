@@ -2,6 +2,7 @@
 imdb: "0116367"
 title: "Um Drink no Inferno"
 stars: "4/5"
+category: "movies"
 _title: "From Dusk Till Dawn"
 _year: "1996"
 _director: ["Robert Rodriguez", ]

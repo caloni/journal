@@ -3,6 +3,7 @@ imdb: "0970179"
 revision: [2014-06-10]
 title: "A Invenção de Hugo Cabret"
 stars: "3/5"
+category: "movies"
 _title: "Hugo"
 _year: "2011"
 _director: ["Martin Scorsese", ]

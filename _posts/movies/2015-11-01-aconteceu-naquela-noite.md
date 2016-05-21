@@ -1,6 +1,7 @@
 ---
 imdb: "0025316"
 stars: "4/5"
+category: "movies"
 title: "Aconteceu Naquela Noite"
 _title: "It Happened One Night"
 _year: "1934"

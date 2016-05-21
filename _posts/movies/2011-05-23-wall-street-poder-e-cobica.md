@@ -2,6 +2,7 @@
 imdb: "0094291"
 title: "Wall Street Poder e Cobiça"
 stars: "5/5"
+category: "movies"
 _title: "Wall Street"
 _year: "1987"
 _director: ["Oliver Stone", ]

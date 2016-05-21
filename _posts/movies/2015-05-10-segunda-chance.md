@@ -1,6 +1,7 @@
 ---
 imdb: "3305316"
 stars: "5/5"
+category: "movies"
 title: "Segunda Chance"
 _title: "En chance til"
 _year: "2014"

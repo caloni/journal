@@ -2,6 +2,7 @@
 imdb: "0062622"
 title: "2001 Uma Odisséia no Espaço"
 stars: "5/5"
+category: "movies"
 _title: "2001: A Space Odyssey"
 _year: "1968"
 _director: ["Stanley Kubrick", ]

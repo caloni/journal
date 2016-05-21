@@ -2,6 +2,7 @@
 imdb: "0347618"
 title: "Reino dos Gatos"
 stars: "3/5"
+category: "movies"
 _title: "Neko no ongaeshi"
 _year: "2002"
 _director: ["Hiroyuki Morita", ]

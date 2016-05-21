@@ -2,6 +2,7 @@
 imdb: "1013856"
 title: "Singularidades de uma Rapariga Loura"
 stars: "2/5"
+category: "movies"
 _title: "Singularidades de uma Rapariga Loura"
 _year: "2009"
 _director: ["Manoel de Oliveira", ]

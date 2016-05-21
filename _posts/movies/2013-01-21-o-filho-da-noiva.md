@@ -2,6 +2,7 @@
 imdb: "0292542"
 title: "O Filho da Noiva"
 stars: "3/5"
+category: "movies"
 _title: "El hijo de la novia"
 _year: "2001"
 _director: ["Juan José Campanella", ]

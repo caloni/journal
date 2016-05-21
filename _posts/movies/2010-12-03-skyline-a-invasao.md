@@ -2,6 +2,7 @@
 imdb: "1564585"
 title: "Skyline A Invasão"
 stars: "4/5"
+category: "movies"
 _title: "Skyline"
 _year: "2010"
 _director: ["Colin Strause", "Greg Strause", ]

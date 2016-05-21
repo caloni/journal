@@ -2,6 +2,7 @@
 imdb: "0113670"
 title: "A Princesinha"
 stars: "5/5"
+category: "movies"
 _title: "A Little Princess"
 _year: "1995"
 _director: ["Alfonso Cuarón", ]

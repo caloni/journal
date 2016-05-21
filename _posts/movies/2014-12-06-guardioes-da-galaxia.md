@@ -2,6 +2,7 @@
 imdb: "2015381"
 title: "Guardiões da Galáxia"
 stars: "2/5"
+category: "movies"
 _title: "Guardians of the Galaxy"
 _year: "2014"
 _director: ["James Gunn", ]

@@ -2,6 +2,7 @@
 imdb: "2925942"
 title: "O Que Se Move"
 stars: "4/5"
+category: "movies"
 _title: "O Que Se Move"
 _year: "2013"
 _director: ["Caetano Gotardo", ]

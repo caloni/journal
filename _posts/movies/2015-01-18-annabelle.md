@@ -2,6 +2,7 @@
 imdb: "3322940"
 title: "Annabelle"
 stars: "3/5"
+category: "movies"
 _title: "Annabelle"
 _year: "2014"
 _director: ["John R. Leonetti", ]

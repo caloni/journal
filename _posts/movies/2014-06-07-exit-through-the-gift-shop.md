@@ -2,6 +2,7 @@
 imdb: "1587707"
 title: "Exit Through the Gift Shop"
 stars: "5/5"
+category: "movies"
 _title: "Exit Through the Gift Shop"
 _year: "2010"
 _director: ["Banksy", ]

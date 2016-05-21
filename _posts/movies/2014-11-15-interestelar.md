@@ -3,6 +3,7 @@ imdb: "0816692"
 count: 2
 title: "Interestelar"
 stars: "3/5"
+category: "movies"
 _title: "Interstellar"
 _year: "2014"
 _director: ["Christopher Nolan", ]

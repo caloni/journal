@@ -2,6 +2,7 @@
 imdb: "0097239"
 title: "Conduzindo Miss Daisy"
 stars: "4/5"
+category: "movies"
 _title: "Driving Miss Daisy"
 _year: "1989"
 _director: ["Bruce Beresford", ]

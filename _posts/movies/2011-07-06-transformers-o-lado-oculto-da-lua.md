@@ -2,6 +2,7 @@
 imdb: "1399103"
 title: "Transformers O Lado Oculto da Lua"
 stars: "1/5"
+category: "movies"
 _title: "Transformers: Dark of the Moon"
 _year: "2011"
 _director: ["Michael Bay", ]

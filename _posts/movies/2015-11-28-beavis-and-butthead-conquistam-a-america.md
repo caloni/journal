@@ -1,6 +1,7 @@
 ---
 imdb: "0115641"
 stars: "3/5"
+category: "movies"
 title: "Beavis and Butt-head Conquistam a América"
 _title: "Beavis and Butt-Head Do America"
 _year: "1996"

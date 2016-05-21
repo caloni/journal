@@ -2,6 +2,7 @@
 imdb: "1637688"
 title: "O Preço do Amanhã"
 stars: "3/5"
+category: "movies"
 _title: "In Time"
 _year: "2011"
 _director: ["Andrew Niccol", ]

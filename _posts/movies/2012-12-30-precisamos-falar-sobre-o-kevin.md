@@ -2,6 +2,7 @@
 imdb: "1242460"
 title: "Precisamos Falar Sobre o Kevin"
 stars: "5/5"
+category: "movies"
 _title: "We Need to Talk About Kevin"
 _year: "2011"
 _director: ["Lynne Ramsay", ]

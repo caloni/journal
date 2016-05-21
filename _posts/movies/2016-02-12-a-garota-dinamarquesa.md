@@ -1,6 +1,7 @@
 ---
 imdb: "0810819"
 stars: "3/5"
+category: "movies"
 title: "A Garota Dinamarquesa"
 _title: "The Danish Girl"
 _year: "2015"

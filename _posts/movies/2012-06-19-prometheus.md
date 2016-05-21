@@ -2,6 +2,7 @@
 imdb: "1446714"
 title: "Prometheus"
 stars: "3/5"
+category: "movies"
 _title: "Prometheus"
 _year: "2012"
 _director: ["Ridley Scott", ]

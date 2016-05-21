@@ -1,6 +1,7 @@
 ---
 imdb: "0120201"
 stars: "4/5"
+category: "movies"
 title: "Tropas Estelares"
 _title: "Starship Troopers"
 _year: "1997"

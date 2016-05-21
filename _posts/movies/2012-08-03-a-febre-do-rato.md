@@ -2,6 +2,7 @@
 imdb: "2200908"
 title: "A Febre do Rato"
 stars: "5/5"
+category: "movies"
 _title: "A Febre do Rato"
 _year: "2011"
 _director: ["Cláudio Assis", ]

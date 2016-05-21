@@ -2,6 +2,7 @@
 imdb: "1452628"
 title: "Mistério da Rua 7"
 stars: "3/5"
+category: "movies"
 _title: "Vanishing on 7th Street"
 _year: "2010"
 _director: ["Brad Anderson", ]

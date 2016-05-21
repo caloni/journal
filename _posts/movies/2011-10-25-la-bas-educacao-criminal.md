@@ -2,6 +2,7 @@
 imdb: "2087864"
 title: "Là-bas A Criminal Education"
 stars: "3/5"
+category: "movies"
 _title: "Là-bas"
 _year: "2011"
 _director: ["Guido Lombardi", ]

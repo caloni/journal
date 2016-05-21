@@ -2,6 +2,7 @@
 imdb: "1605783"
 title: "Meia-Noite em Paris"
 stars: "4/5"
+category: "movies"
 _title: "Midnight in Paris"
 _year: "2011"
 _director: ["Woody Allen", ]

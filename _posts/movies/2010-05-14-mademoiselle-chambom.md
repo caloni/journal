@@ -2,6 +2,7 @@
 imdb: "1285246"
 title: "Mademoiselle Chambon"
 stars: "4/5"
+category: "movies"
 _title: "Mademoiselle Chambon"
 _year: "2009"
 _director: ["Stéphane Brizé", ]

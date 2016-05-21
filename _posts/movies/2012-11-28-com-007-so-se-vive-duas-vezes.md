@@ -2,6 +2,7 @@
 imdb: "0062512"
 title: "Com 007 Só Se Vive Duas Vezes"
 stars: "4/5"
+category: "movies"
 _title: "You Only Live Twice"
 _year: "1967"
 _director: ["Lewis Gilbert", ]

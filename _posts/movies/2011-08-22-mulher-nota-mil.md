@@ -2,6 +2,7 @@
 imdb: "0090305"
 title: "Mulher Nota Mil"
 stars: "2/5"
+category: "movies"
 _title: "Weird Science"
 _year: "1985"
 _director: ["John Hughes", ]

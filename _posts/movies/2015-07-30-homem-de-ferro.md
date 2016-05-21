@@ -1,6 +1,7 @@
 ---
 imdb: "0371746"
 stars: "4/5"
+category: "movies"
 title: "Homem de Ferro"
 _title: "Iron Man"
 _year: "2008"

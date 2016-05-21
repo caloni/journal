@@ -2,6 +2,7 @@
 imdb: "3263614"
 review-title: "E se alguém fosse em busca do tesouro perdido de Fargo?"
 stars: "3/5"
+category: "movies"
 title: "Kumiko, a Caçadora de Tesouros"
 _title: "Kumiko, the Treasure Hunter"
 _year: "2014"

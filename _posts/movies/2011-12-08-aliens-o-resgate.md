@@ -2,6 +2,7 @@
 imdb: "0090605"
 title: "Aliens O Resgate"
 stars: "5/5"
+category: "movies"
 _title: "Aliens"
 _year: "1986"
 _director: ["James Cameron", ]

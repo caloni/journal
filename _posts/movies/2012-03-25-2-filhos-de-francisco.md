@@ -2,6 +2,7 @@
 imdb: "0439547"
 title: "2 Filhos De Francisco A História De Zezé Di Camargo e Luciano"
 stars: "5/5"
+category: "movies"
 _title: "2 Filhos de Francisco: A História de Zezé di Camargo & Luciano"
 _year: "2005"
 _director: ["Breno Silveira", ]

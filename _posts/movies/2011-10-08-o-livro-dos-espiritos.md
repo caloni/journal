@@ -2,6 +2,7 @@
 title: "O Filme dos Espíritos"
 imdb: "2210871"
 stars: "1/5"
+category: "movies"
 _title: "O Filme dos Espíritos"
 _year: "2011"
 _director: ["Michel Dubret", "André Marouço", ]

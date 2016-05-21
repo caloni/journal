@@ -2,6 +2,7 @@
 imdb: "0064757"
 title: "007 A Serviço Secreto de Sua Majestade"
 stars: "5/5"
+category: "movies"
 _title: "On Her Majesty's Secret Service"
 _year: "1969"
 _director: ["Peter R. Hunt", ]

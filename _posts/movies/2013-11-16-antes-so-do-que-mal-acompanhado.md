@@ -2,6 +2,7 @@
 imdb: "0093748"
 title: "Antes Só do que Mal Acompanhado"
 stars: "5/5"
+category: "movies"
 _title: "Planes, Trains & Automobiles"
 _year: "1987"
 _director: ["John Hughes", ]

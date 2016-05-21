@@ -2,6 +2,7 @@
 imdb: "2096672"
 title: "Debi e Lóide 2"
 stars: "3/5"
+category: "movies"
 _title: "Dumb and Dumber To"
 _year: "2014"
 _director: ["Bobby Farrelly", "Peter Farrelly", ]

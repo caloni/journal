@@ -2,6 +2,7 @@
 imdb: "0798732"
 title: "Polaróides Urbanas"
 stars: "4/5"
+category: "movies"
 _title: "Polaróides Urbanas"
 _year: "2008"
 _director: ["Miguel Falabella", ]

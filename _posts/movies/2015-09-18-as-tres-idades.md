@@ -1,6 +1,7 @@
 ---
 imdb: "0014538"
 stars: "4/5"
+category: "movies"
 title: "As Três Idades"
 _title: "Three Ages"
 _year: "1923"

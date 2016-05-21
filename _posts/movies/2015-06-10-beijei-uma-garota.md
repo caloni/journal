@@ -2,6 +2,7 @@
 imdb: "4255626"
 review-title: "Beijei uma Garota"
 stars: "3/5"
+category: "movies"
 title: "Beijei uma Garota"
 _title: "Toute première fois"
 _year: "2015"

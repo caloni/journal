@@ -2,6 +2,7 @@
 imdb: "1392190"
 review-title: "Mad Max, Estrada da Fúria: agora sim um filme de ação obrigatório para 2015!"
 stars: "5/5"
+category: "movies"
 title: "Mad Max: Estrada da Fúria"
 revision: [2015-06-03]
 _title: "Mad Max: Fury Road"

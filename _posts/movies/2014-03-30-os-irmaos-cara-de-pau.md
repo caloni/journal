@@ -2,6 +2,7 @@
 imdb: "0080455"
 title: "Os Irmãos Cara de Pau"
 stars: "5/5"
+category: "movies"
 _title: "The Blues Brothers"
 _year: "1980"
 _director: ["John Landis", ]

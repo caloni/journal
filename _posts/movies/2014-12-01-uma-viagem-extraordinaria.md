@@ -2,6 +2,7 @@
 imdb: "1981107"
 title: "Uma Viagem Extraordinária"
 stars: "3/5"
+category: "movies"
 _title: "The Young and Prodigious T.S. Spivet"
 _year: "2013"
 _director: ["Jean-Pierre Jeunet", ]

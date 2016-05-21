@@ -2,6 +2,7 @@
 imdb: "1324999"
 title: "A Saga Crepúsculo Amanhecer Parte 1"
 stars: "2/5"
+category: "movies"
 _title: "The Twilight Saga: Breaking Dawn - Part 1"
 _year: "2011"
 _director: ["Bill Condon", ]

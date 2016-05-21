@@ -2,6 +2,7 @@
 imdb: "0457510"
 title: "Nacho Libre"
 stars: "2/5"
+category: "movies"
 _title: "Nacho Libre"
 _year: "2006"
 _director: ["Jared Hess", ]

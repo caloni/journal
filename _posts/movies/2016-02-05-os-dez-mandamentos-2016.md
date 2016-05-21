@@ -1,6 +1,7 @@
 ---
 imdb: "5431016"
 stars: "3/5"
+category: "movies"
 title: "Os Dez Mandamentos - O Filme (2016)"
 _title: "Os Dez Mandamentos"
 _year: "2016"

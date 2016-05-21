@@ -2,6 +2,7 @@
 imdb: "1840309"
 title: "Divergente"
 stars: "3/5"
+category: "movies"
 _title: "Divergent"
 _year: "2014"
 _director: ["Neil Burger", ]

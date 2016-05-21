@@ -2,6 +2,7 @@
 imdb: "0120533"
 title: "Celebridades"
 stars: "4/5"
+category: "movies"
 _title: "Celebrity"
 _year: "1998"
 _director: ["Woody Allen", ]

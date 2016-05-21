@@ -2,6 +2,7 @@
 imdb: "0948530"
 title: "Moscow Belgium"
 stars: "5/5"
+category: "movies"
 _title: "Aanrijding in Moscou"
 _year: "2008"
 _director: ["Christophe Van Rompaey", ]

@@ -2,6 +2,7 @@
 imdb: "0067185"
 title: "Ensina-me a Viver"
 stars: "4/5"
+category: "movies"
 _title: "Harold and Maude"
 _year: "1971"
 _director: ["Hal Ashby", ]

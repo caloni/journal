@@ -2,6 +2,7 @@
 imdb: "0096734"
 title: "Meus Vizinhos São um Terror"
 stars: "3/5"
+category: "movies"
 _title: "The 'Burbs"
 _year: "1989"
 _director: ["Joe Dante", ]

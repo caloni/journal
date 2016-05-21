@@ -1,6 +1,7 @@
 ---
 imdb: "0058182"
 stars: "4/5"
+category: "movies"
 title: "Os Reis do Ié-Ié-Ié"
 _title: "A Hard Day's Night"
 _year: "1964"

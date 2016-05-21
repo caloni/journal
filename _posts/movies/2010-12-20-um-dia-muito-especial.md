@@ -2,6 +2,7 @@
 imdb: "0076085"
 title: "Um Dia Muito Especial"
 stars: "4/5"
+category: "movies"
 _title: "Una giornata particolare"
 _year: "1977"
 _director: ["Ettore Scola", ]

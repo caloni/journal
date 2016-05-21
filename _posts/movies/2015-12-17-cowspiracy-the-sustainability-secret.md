@@ -1,6 +1,7 @@
 ---
 imdb: "3302820"
 stars: "3/5"
+category: "movies"
 title: "Cowspiracy: The Sustainability Secret"
 _title: "Cowspiracy: The Sustainability Secret"
 _year: "2014"

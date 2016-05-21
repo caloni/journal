@@ -2,6 +2,7 @@
 imdb: "0461770"
 title: "Encantada"
 stars: "4/5"
+category: "movies"
 _title: "Enchanted"
 _year: "2007"
 _director: ["Kevin Lima", ]

@@ -1,6 +1,7 @@
 ---
 imdb: "0119528"
 stars: "4/5"
+category: "movies"
 title: "O Mentiroso"
 _title: "Liar Liar"
 _year: "1997"

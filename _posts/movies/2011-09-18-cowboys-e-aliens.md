@@ -2,6 +2,7 @@
 imdb: "0409847"
 title: "Cowboys e Aliens"
 stars: "3/5"
+category: "movies"
 _title: "Cowboys & Aliens"
 _year: "2011"
 _director: ["Jon Favreau", ]

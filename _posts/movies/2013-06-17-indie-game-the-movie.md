@@ -2,6 +2,7 @@
 imdb: "1942884"
 title: "Indie Game The Movie"
 stars: "3/5"
+category: "movies"
 _title: "Indie Game: The Movie"
 _year: "2012"
 _director: ["Lisanne Pajot", "James Swirsky", ]

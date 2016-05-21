@@ -2,6 +2,7 @@
 imdb: "1667889"
 title: "A Era do Gelo 4"
 stars: "2/5"
+category: "movies"
 _title: "Ice Age: Continental Drift"
 _year: "2012"
 _director: ["Steve Martino", "Mike Thurmeier", ]

@@ -2,6 +2,7 @@
 imdb: "0043778"
 title: "O Homem do Planeta X"
 stars: "2/5"
+category: "movies"
 _title: "The Man from Planet X"
 _year: "1951"
 _director: ["Edgar G. Ulmer", ]

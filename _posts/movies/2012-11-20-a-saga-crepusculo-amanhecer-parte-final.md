@@ -2,6 +2,7 @@
 imdb: "1673434"
 title: "A Saga Crepúsculo Amanhecer Parte 2"
 stars: "4/5"
+category: "movies"
 _title: "The Twilight Saga: Breaking Dawn - Part 2"
 _year: "2012"
 _director: ["Bill Condon", ]

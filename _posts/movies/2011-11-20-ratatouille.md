@@ -2,6 +2,7 @@
 imdb: "0382932"
 title: "Ratatouille"
 stars: "5/5"
+category: "movies"
 _title: "Ratatouille"
 _year: "2007"
 _director: ["Brad Bird", "Jan Pinkava", ]

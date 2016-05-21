@@ -2,6 +2,7 @@
 imdb: "2334873"
 title: "Blue Jasmine"
 stars: "3/5"
+category: "movies"
 _title: "Blue Jasmine"
 _year: "2013"
 _director: ["Woody Allen", ]

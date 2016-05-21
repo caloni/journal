@@ -2,6 +2,7 @@
 imdb: "1001526"
 title: "Megamente"
 stars: "3/5"
+category: "movies"
 _title: "Megamind"
 _year: "2010"
 _director: ["Tom McGrath", ]

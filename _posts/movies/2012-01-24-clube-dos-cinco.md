@@ -2,6 +2,7 @@
 imdb: "0088847"
 title: "Clube dos Cinco"
 stars: "5/5"
+category: "movies"
 _title: "The Breakfast Club"
 _year: "1985"
 _director: ["John Hughes", ]

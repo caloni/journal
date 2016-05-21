@@ -1,6 +1,7 @@
 ---
 imdb: "2528814"
 stars: "2/5"
+category: "movies"
 title: "Deus Não Está Morto"
 _title: "God's Not Dead"
 _year: "2014"

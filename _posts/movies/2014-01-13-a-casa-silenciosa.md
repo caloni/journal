@@ -2,6 +2,7 @@
 imdb: "1767382"
 title: "A Casa Silenciosa"
 stars: "4/5"
+category: "movies"
 _title: "Silent House"
 _year: "2011"
 _director: ["Chris Kentis", "Laura Lau", ]

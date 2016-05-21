@@ -2,6 +2,7 @@
 imdb: "0098635"
 title: "Harry e Sally"
 stars: "5/5"
+category: "movies"
 _title: "When Harry Met Sally..."
 _year: "1989"
 _director: ["Rob Reiner", ]

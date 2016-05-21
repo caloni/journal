@@ -2,6 +2,7 @@
 imdb: "0780521"
 title: "A princesa e o sapo"
 stars: "3/5"
+category: "movies"
 _title: "The Princess and the Frog"
 _year: "2009"
 _director: ["Ron Clements", "John Musker", ]

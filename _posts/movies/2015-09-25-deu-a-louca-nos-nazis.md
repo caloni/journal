@@ -1,6 +1,7 @@
 ---
 imdb: "1034314"
 stars: "3/5"
+category: "movies"
 title: "Deu a Louca nos Nazis"
 _title: "Iron Sky"
 _year: "2012"

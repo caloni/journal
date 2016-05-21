@@ -2,6 +2,7 @@
 imdb: "1835980"
 title: "Felicidade"
 stars: "4/5"
+category: "movies"
 _title: "Glück"
 _year: "2012"
 _director: ["Doris Dörrie", ]

@@ -2,6 +2,7 @@
 imdb: "0478304"
 title: "A Árvore da Vida"
 stars: "5/5"
+category: "movies"
 _title: "The Tree of Life"
 _year: "2011"
 _director: ["Terrence Malick", ]

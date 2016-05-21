@@ -2,6 +2,7 @@
 imdb: "1386703"
 title: "O Vingador do Futuro"
 stars: "3/5"
+category: "movies"
 _title: "Total Recall"
 _year: "2012"
 _director: ["Len Wiseman", ]

@@ -2,6 +2,7 @@
 imdb: "1568343"
 title: "O Último Ato"
 stars: "3/5"
+category: "movies"
 _title: "The Humbling"
 _year: "2014"
 _director: ["Barry Levinson", ]

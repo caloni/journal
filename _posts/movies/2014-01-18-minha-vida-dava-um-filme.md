@@ -2,6 +2,7 @@
 imdb: "1698648"
 title: "Minha Vida Dava um Filme"
 stars: "3/5"
+category: "movies"
 _title: "Girl Most Likely"
 _year: "2012"
 _director: ["Shari Springer Berman", "Robert Pulcini", ]

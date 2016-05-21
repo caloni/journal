@@ -2,6 +2,7 @@
 imdb: "0119715"
 title: "Um Ratinho Encrenqueiro"
 stars: "4/5"
+category: "movies"
 _title: "Mousehunt"
 _year: "1997"
 _director: ["Gore Verbinski", ]

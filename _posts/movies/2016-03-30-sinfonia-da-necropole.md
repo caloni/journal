@@ -1,6 +1,7 @@
 ---
 imdb: "3906650"
 stars: "3/5"
+category: "movies"
 title: "Sinfonia da Necrópole"
 _title: "Sinfonia da Necrópole"
 _year: "2014"

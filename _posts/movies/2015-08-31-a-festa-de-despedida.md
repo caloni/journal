@@ -1,6 +1,7 @@
 ---
 imdb: "3163304"
 stars: "4/5"
+category: "movies"
 title: "A Festa de Despedida"
 _title: "Mita Tova"
 _year: "2014"

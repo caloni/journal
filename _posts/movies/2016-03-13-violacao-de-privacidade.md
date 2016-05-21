@@ -1,6 +1,7 @@
 ---
 imdb: "0364343"
 stars: "4/5"
+category: "movies"
 title: "Violação de Privacidade"
 _title: "The Final Cut"
 _year: "2004"

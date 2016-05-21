@@ -2,6 +2,7 @@
 imdb: "1954379"
 title: "Kids of Töday"
 stars: "3/5"
+category: "movies"
 _title: "Des jeunes gens mödernes"
 _year: "2011"
 _director: ["Jérôme de Missolz", ]

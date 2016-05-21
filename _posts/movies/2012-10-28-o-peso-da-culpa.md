@@ -2,6 +2,7 @@
 imdb: "2069985"
 title: "O Peso da Culpa"
 stars: "3/5"
+category: "movies"
 _title: "Schuld sind immer die Anderen"
 _year: "2012"
 _director: ["Lars-Gunnar Lotz", ]

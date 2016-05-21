@@ -2,6 +2,7 @@
 imdb: "2245084"
 title: "Operação Big Hero"
 stars: "3/5"
+category: "movies"
 _title: "Big Hero 6"
 _year: "2014"
 _director: ["Don Hall", "Chris Williams", ]

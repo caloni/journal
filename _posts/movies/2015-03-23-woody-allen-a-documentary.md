@@ -1,6 +1,7 @@
 ---
 imdb: "2397619"
 stars: "3/5"
+category: "movies"
 title: "Woody Allen: A Documentary"
 _title: "Woody Allen: A Documentary"
 _year: "2012"

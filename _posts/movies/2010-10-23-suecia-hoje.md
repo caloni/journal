@@ -2,6 +2,7 @@
 imdb: "1594460"
 title: "Suécia Hoje"
 stars: "3/5"
+category: "movies"
 _title: "Den nya tiden"
 _year: "2010"
 _director: ["Peter Magnusson", ]

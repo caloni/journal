@@ -2,6 +2,7 @@
 imdb: "0099487"
 title: "Edward Mãos de Tesoura"
 stars: "3/5"
+category: "movies"
 _title: "Edward Scissorhands"
 _year: "1990"
 _director: ["Tim Burton", ]

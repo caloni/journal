@@ -1,6 +1,7 @@
 ---
 imdb: "0837156"
 stars: "2/5"
+category: "movies"
 title: "Pee-wee's Big Holiday"
 _title: "Pee-wee's Big Holiday"
 _year: "2016"

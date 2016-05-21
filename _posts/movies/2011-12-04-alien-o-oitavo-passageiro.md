@@ -2,6 +2,7 @@
 imdb: "0078748"
 title: "Alien o Oitavo Passageiro"
 stars: "5/5"
+category: "movies"
 revision: [2015-11-03]
 _title: "Alien"
 _year: "1979"

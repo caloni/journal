@@ -2,6 +2,7 @@
 imdb: "0377981"
 title: "Gnomeu e Julieta"
 stars: "3/5"
+category: "movies"
 _title: "Gnomeo & Juliet"
 _year: "2011"
 _director: ["Kelly Asbury", ]

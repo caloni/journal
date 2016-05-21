@@ -2,6 +2,7 @@
 imdb: "0054698"
 title: "Bonequinha de Luxo"
 stars: "3/5"
+category: "movies"
 _title: "Breakfast at Tiffany's"
 _year: "1961"
 _director: ["Blake Edwards", ]

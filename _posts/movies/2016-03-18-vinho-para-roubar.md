@@ -1,6 +1,7 @@
 ---
 imdb: "2625270"
 stars: "2/5"
+category: "movies"
 title: "Vinho para Roubar"
 _title: "Vino Para Robar"
 _year: "2013"

@@ -2,6 +2,7 @@
 imdb: "0080339"
 title: "Apertem os Cintos... O Piloto Sumiu"
 stars: "5/5"
+category: "movies"
 _title: "Airplane!"
 _year: "1980"
 _director: ["Jim Abrahams", "David Zucker", "Jerry Zucker", ]

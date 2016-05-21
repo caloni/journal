@@ -2,6 +2,7 @@
 imdb: "1671496"
 title: "Se Não Nós Quem?"
 stars: "3/5"
+category: "movies"
 _title: "Wer wenn nicht wir"
 _year: "2011"
 _director: ["Andres Veiel", ]

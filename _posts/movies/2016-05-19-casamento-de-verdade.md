@@ -1,6 +1,7 @@
 ---
 imdb: "3289712"
 stars: "3/5"
+category: "movies"
 title: "Casamento de Verdade"
 _title: "Jenny's Wedding"
 _year: "2015"

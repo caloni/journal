@@ -2,6 +2,7 @@
 imdb: "0046438"
 title: "Era uma Vez em Tóquio"
 stars: "5/5"
+category: "movies"
 _title: "Tôkyô monogatari"
 _year: "1953"
 _director: ["Yasujirô Ozu", ]

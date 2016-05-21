@@ -2,6 +2,7 @@
 imdb: "0374546"
 title: "Primavera Verão Outono Inverno e Primavera"
 stars: "4/5"
+category: "movies"
 _title: "Bom yeoreum gaeul gyeoul geurigo bom"
 _year: "2003"
 _director: ["Ki-duk Kim", ]

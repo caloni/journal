@@ -2,6 +2,7 @@
 title: "Somos Tão Jovens"
 imdb: "2215537"
 stars: "3/5"
+category: "movies"
 _title: "Somos Tão Jovens"
 _year: "2013"
 _director: ["Antonio Carlos da Fontoura", ]

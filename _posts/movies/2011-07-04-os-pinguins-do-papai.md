@@ -2,6 +2,7 @@
 imdb: "1396218"
 title: "Os Pinguins do Papai"
 stars: "3/5"
+category: "movies"
 _title: "Mr. Popper's Penguins"
 _year: "2011"
 _director: ["Mark Waters", ]

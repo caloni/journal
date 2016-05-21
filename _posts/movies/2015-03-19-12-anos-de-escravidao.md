@@ -1,6 +1,7 @@
 ---
 imdb: "2024544"
 stars: "5/5"
+category: "movies"
 title: "12 Anos de Escravidão"
 _title: "12 Years a Slave"
 _year: "2013"

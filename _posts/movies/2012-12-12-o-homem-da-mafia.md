@@ -2,6 +2,7 @@
 imdb: "1764234"
 title: "O Homem da Máfia"
 stars: "5/5"
+category: "movies"
 _title: "Killing Them Softly"
 _year: "2012"
 _director: ["Andrew Dominik", ]

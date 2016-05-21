@@ -2,6 +2,7 @@
 imdb: "0839995"
 title: "Superman II (Richard Donner, 2006)"
 stars: "5/5"
+category: "movies"
 _title: "Superman II"
 _year: "2006"
 _director: ["Richard Donner", "Richard Lester", ]

@@ -1,6 +1,7 @@
 ---
 imdb: "1361313"
 stars: "3/5"
+category: "movies"
 title: "Os Acompanhantes"
 _title: "The Extra Man"
 _year: "2010"

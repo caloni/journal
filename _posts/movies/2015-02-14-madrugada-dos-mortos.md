@@ -2,6 +2,7 @@
 imdb: "0363547"
 title: "Madrugada dos Mortos"
 stars: "5/5"
+category: "movies"
 _title: "Dawn of the Dead"
 _year: "2004"
 _director: ["Zack Snyder", ]

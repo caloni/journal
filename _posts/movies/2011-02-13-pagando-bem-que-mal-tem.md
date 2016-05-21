@@ -2,6 +2,7 @@
 imdb: "1007028"
 title: "Pagando Bem Que Mal Tem"
 stars: "2/5"
+category: "movies"
 _title: "Zack and Miri Make a Porno"
 _year: "2008"
 _director: ["Kevin Smith", ]

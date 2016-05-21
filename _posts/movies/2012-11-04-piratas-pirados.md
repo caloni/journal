@@ -2,6 +2,7 @@
 imdb: "1430626"
 title: "Piratas Pirados!"
 stars: "2/5"
+category: "movies"
 _title: "The Pirates! In an Adventure with Scientists!"
 _year: "2012"
 _director: ["Peter Lord", "Jeff Newitt", ]

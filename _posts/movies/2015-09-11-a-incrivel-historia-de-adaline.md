@@ -1,6 +1,7 @@
 ---
 imdb: "1655441"
 stars: "3/5"
+category: "movies"
 title: "A Incrível História de Adaline"
 _title: "The Age of Adaline"
 _year: "2015"

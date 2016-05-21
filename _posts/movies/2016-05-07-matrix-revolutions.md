@@ -1,6 +1,7 @@
 ---
 imdb: "0242653"
 stars: "5/5"
+category: "movies"
 title: "Matrix Revolutions"
 _title: "The Matrix Revolutions"
 _year: "2003"

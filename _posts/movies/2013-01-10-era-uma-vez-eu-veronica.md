@@ -2,6 +2,7 @@
 imdb: "1663661"
 title: "Era Uma Vez Eu Verônica"
 stars: "3/5"
+category: "movies"
 _title: "Era Uma Vez Eu, Verônica"
 _year: "2012"
 _director: ["Marcelo Gomes", ]

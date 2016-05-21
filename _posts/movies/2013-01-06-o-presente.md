@@ -2,6 +2,7 @@
 imdb: "0482629"
 title: "O Presente"
 stars: "2/5"
+category: "movies"
 _title: "The Ultimate Gift"
 _year: "2006"
 _director: ["Michael O. Sajbel", ]

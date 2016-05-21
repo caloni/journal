@@ -2,6 +2,7 @@
 imdb: "1045670"
 title: "Simplesmente Feliz"
 stars: "2/5"
+category: "movies"
 _title: "Happy-Go-Lucky"
 _year: "2008"
 _director: ["Mike Leigh", ]

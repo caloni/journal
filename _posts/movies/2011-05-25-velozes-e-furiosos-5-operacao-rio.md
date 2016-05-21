@@ -2,6 +2,7 @@
 imdb: "1596343"
 title: "Velozes e Furiosos 5 Operação Rio"
 stars: "4/5"
+category: "movies"
 _title: "Fast Five"
 _year: "2011"
 _director: ["Justin Lin", ]

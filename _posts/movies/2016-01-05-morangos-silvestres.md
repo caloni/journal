@@ -1,6 +1,7 @@
 ---
 imdb: "0050986"
 stars: "4/5"
+category: "movies"
 title: "Morangos Silvestres"
 _title: "Smultronstället"
 _year: "1957"

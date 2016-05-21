@@ -2,6 +2,7 @@
 imdb: "0399295"
 title: "O Senhor das Armas"
 stars: "5/5"
+category: "movies"
 _title: "Lord of War"
 _year: "2005"
 _director: ["Andrew Niccol", ]

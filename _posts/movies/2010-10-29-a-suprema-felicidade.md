@@ -2,6 +2,7 @@
 title: "A Suprema Felicidade"
 imdb: "1720038"
 stars: "3/5"
+category: "movies"
 _title: "A Suprema Felicidade"
 _year: "2010"
 _director: ["Arnaldo Jabor", ]

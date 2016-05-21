@@ -2,6 +2,7 @@
 imdb: "1302011"
 title: "Kung Fu Panda 2"
 stars: "4/5"
+category: "movies"
 _title: "Kung Fu Panda 2"
 _year: "2011"
 _director: ["Jennifer Yuh", ]

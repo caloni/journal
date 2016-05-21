@@ -2,6 +2,7 @@
 imdb: "1133985"
 title: "Lanterna Verde"
 stars: "3/5"
+category: "movies"
 _title: "Green Lantern"
 _year: "2011"
 _director: ["Martin Campbell", ]

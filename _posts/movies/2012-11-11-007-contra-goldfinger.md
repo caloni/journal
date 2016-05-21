@@ -2,6 +2,7 @@
 imdb: "0058150"
 title: "007 Contra Goldfinger"
 stars: "4/5"
+category: "movies"
 _title: "Goldfinger"
 _year: "1964"
 _director: ["Guy Hamilton", ]

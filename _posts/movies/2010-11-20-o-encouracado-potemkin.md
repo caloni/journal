@@ -2,6 +2,7 @@
 imdb: "0015648"
 title: "O Couraçado Potemkin"
 stars: "4/5"
+category: "movies"
 _title: "Bronenosets Potemkin"
 _year: "1925"
 _director: ["Sergei M. Eisenstein", ]

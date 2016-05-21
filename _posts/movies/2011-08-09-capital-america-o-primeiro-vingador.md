@@ -2,6 +2,7 @@
 imdb: "0458339"
 title: "Capitão América O Primeiro Vingador"
 stars: "3/5"
+category: "movies"
 _title: "Captain America: The First Avenger"
 _year: "2011"
 _director: ["Joe Johnston", ]

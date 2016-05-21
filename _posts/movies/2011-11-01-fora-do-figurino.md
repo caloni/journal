@@ -1,6 +1,7 @@
 ---
 title: "Fora do Figurino"
 stars: 3/5
+category: "movies"
 _director: ["Paulo Pélico", ]
 _writer: ["Paulo Pélico", ]
 _year: "2012"

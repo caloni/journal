@@ -1,6 +1,7 @@
 ---
 imdb: "2510894"
 stars: "3/5"
+category: "movies"
 title: "Hotel Transilvânia 2"
 _title: "Hotel Transylvania 2"
 _year: "2015"

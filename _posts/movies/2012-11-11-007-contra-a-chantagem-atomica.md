@@ -2,6 +2,7 @@
 imdb: "0059800"
 title: "007 Contra a Chantagem Atômica"
 stars: "3/5"
+category: "movies"
 _title: "Thunderball"
 _year: "1965"
 _director: ["Terence Young", ]

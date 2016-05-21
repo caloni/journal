@@ -2,6 +2,7 @@
 imdb: "0889573"
 title: "Coincidências do Amor"
 stars: "3/5"
+category: "movies"
 _title: "The Switch"
 _year: "2010"
 _director: ["Josh Gordon", "Will Speck", ]

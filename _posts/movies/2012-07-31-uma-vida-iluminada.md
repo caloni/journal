@@ -2,6 +2,7 @@
 imdb: "0404030"
 title: "Uma Vida Iluminada"
 stars: "4/5"
+category: "movies"
 _title: "Everything Is Illuminated"
 _year: "2005"
 _director: ["Liev Schreiber", ]

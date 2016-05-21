@@ -2,6 +2,7 @@
 imdb: "1951090"
 title: "Quebrando o Tabu"
 stars: "3/5"
+category: "movies"
 _title: "Quebrando o Tabu"
 _year: "2011"
 _director: ["Fernando Grostein Andrade", "Cosmo Feilding-Mellen", ]

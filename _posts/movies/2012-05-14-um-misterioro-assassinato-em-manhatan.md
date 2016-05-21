@@ -2,6 +2,7 @@
 imdb: "0107507"
 title: "Um Misterioso Assassinato em Manhattan"
 stars: "3/5"
+category: "movies"
 _title: "Manhattan Murder Mystery"
 _year: "1993"
 _director: ["Woody Allen", ]

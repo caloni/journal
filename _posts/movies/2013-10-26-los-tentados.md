@@ -2,6 +2,7 @@
 title: "Los tentados"
 imdb: "2805584"
 stars: "2/5"
+category: "movies"
 _title: "Los tentados"
 _year: "2013"
 _director: ["Mariano Blanco", ]

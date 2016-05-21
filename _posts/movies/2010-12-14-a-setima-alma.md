@@ -2,6 +2,7 @@
 imdb: "0872230"
 title: "A Sétima Alma"
 stars: "3/5"
+category: "movies"
 _title: "My Soul to Take"
 _year: "2010"
 _director: ["Wes Craven", ]

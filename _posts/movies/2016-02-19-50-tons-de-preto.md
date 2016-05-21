@@ -1,6 +1,7 @@
 ---
 imdb: "4667094"
 stars: "3/5"
+category: "movies"
 title: "50 Tons de Preto"
 _title: "Fifty Shades of Black"
 _year: "2016"

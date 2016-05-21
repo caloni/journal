@@ -2,6 +2,7 @@
 imdb: "0254235"
 title: "Concorrência Desleal"
 stars: "3/5"
+category: "movies"
 _title: "Concorrenza sleale"
 _year: "2001"
 _director: ["Ettore Scola", ]

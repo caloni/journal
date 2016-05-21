@@ -2,6 +2,7 @@
 imdb: "1645109"
 title: "Maria My Love"
 stars: "3/5"
+category: "movies"
 _title: "Maria My Love"
 _year: "2011"
 _director: ["Jasmine McGlade", ]

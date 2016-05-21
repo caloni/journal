@@ -2,6 +2,7 @@
 imdb: "0808245"
 title: "A Letter to Elia"
 stars: "3/5"
+category: "movies"
 _title: "A Letter to Elia"
 _year: "2010"
 _director: ["Kent Jones", "Martin Scorsese", ]

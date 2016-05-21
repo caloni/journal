@@ -2,6 +2,7 @@
 imdb: "0444653"
 title: "De Bico Calado"
 stars: "3/5"
+category: "movies"
 _title: "Keeping Mum"
 _year: "2005"
 _director: ["Niall Johnson", ]

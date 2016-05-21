@@ -2,6 +2,7 @@
 imdb: "1615918"
 title: "Alvin e os Esquilos 3"
 stars: "3/5"
+category: "movies"
 _title: "Alvin and the Chipmunks: Chipwrecked"
 _year: "2011"
 _director: ["Mike Mitchell", ]

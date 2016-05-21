@@ -1,6 +1,7 @@
 ---
 imdb: "2241605"
 stars: "3/5"
+category: "movies"
 title: "Tese Sobre um Homicídio"
 _title: "Tesis sobre un homicidio"
 _year: "2013"

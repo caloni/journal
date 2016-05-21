@@ -1,6 +1,7 @@
 ---
 imdb: "1979319"
 stars: "2/5"
+category: "movies"
 title: "Samurai X 1: O Filme"
 _title: "Rurôni Kenshin: Meiji kenkaku roman tan"
 _year: "2012"

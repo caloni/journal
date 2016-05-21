@@ -2,6 +2,7 @@
 imdb: "1276104"
 title: "Looper Assassinos do Futuro"
 stars: "4/5"
+category: "movies"
 _title: "Looper"
 _year: "2012"
 _director: ["Rian Johnson", ]

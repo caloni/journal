@@ -2,6 +2,7 @@
 imdb: "1253863"
 title: "300 A Ascensão do Império"
 stars: "2/5"
+category: "movies"
 _title: "300: Rise of an Empire"
 _year: "2014"
 _director: ["Noam Murro", ]

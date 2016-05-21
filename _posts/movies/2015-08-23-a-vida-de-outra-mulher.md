@@ -1,6 +1,7 @@
 ---
 imdb: "1817191"
 stars: "4/5"
+category: "movies"
 title: "A Vida de Outra Mulher"
 _title: "La vie d'une autre"
 _year: "2012"

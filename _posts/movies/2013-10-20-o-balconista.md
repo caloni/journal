@@ -2,6 +2,7 @@
 imdb: "0109445"
 title: "O Balconista"
 stars: "3/5"
+category: "movies"
 _title: "Clerks"
 _year: "1994"
 _director: ["Kevin Smith", ]

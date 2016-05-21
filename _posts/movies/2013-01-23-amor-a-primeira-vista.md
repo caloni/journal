@@ -2,6 +2,7 @@
 imdb: "0087233"
 title: "Amor à Primeira Vista"
 stars: "4/5"
+category: "movies"
 _title: "Falling in Love"
 _year: "1984"
 _director: ["Ulu Grosbard", ]

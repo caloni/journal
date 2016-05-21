@@ -2,6 +2,7 @@
 imdb: "0490086"
 title: "Big Stan Arrebentando na Prisão"
 stars: "3/5"
+category: "movies"
 _title: "Big Stan"
 _year: "2007"
 _director: ["Rob Schneider", ]

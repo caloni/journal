@@ -3,6 +3,7 @@ imdb: "2125435"
 count: 2
 title: "Indomável Sonhadora"
 stars: "4/5"
+category: "movies"
 _title: "Beasts of the Southern Wild"
 _year: "2012"
 _director: ["Benh Zeitlin", ]

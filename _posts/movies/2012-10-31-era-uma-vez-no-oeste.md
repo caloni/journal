@@ -2,6 +2,7 @@
 imdb: "0064116"
 title: "Era Uma Vez no Oeste"
 stars: "5/5"
+category: "movies"
 _title: "C'era una volta il West"
 _year: "1968"
 _director: ["Sergio Leone", ]

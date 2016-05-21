@@ -1,6 +1,7 @@
 ---
 imdb: "0075686"
 stars: "5/5"
+category: "movies"
 title: "Noivo Neurótico, Noiva Nervosa"
 _title: "Annie Hall"
 _year: "1977"

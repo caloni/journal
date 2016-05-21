@@ -2,6 +2,7 @@
 imdb: "0359950"
 title: "A Vida Secreta de Walter Mitty"
 stars: "4/5"
+category: "movies"
 _title: "The Secret Life of Walter Mitty"
 _year: "2013"
 _director: ["Ben Stiller", ]

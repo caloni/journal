@@ -1,6 +1,7 @@
 ---
 imdb: "0052077"
 stars: "2/5"
+category: "movies"
 title: "Plano 9 do Espaço Sideral"
 _title: "Plan 9 from Outer Space"
 _year: "1959"

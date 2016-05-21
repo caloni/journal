@@ -2,6 +2,7 @@
 imdb: "1665412"
 title: "Hot Hot Hot"
 stars: "4/5"
+category: "movies"
 _title: "Hot Hot Hot"
 _year: "2011"
 _director: ["Beryl Koltz", ]

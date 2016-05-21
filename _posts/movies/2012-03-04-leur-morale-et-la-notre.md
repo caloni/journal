@@ -2,6 +2,7 @@
 imdb: "1064964"
 title: "Leur morale... et la nôtre"
 stars: "2/5"
+category: "movies"
 _title: "Leur morale... et la nôtre"
 _year: "2008"
 _director: ["Florence Quentin", ]

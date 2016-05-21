@@ -2,6 +2,7 @@
 imdb: "1155592"
 title: "O Equilibrista"
 stars: "5/5"
+category: "movies"
 _title: "Man on Wire"
 _year: "2008"
 _director: ["James Marsh", ]

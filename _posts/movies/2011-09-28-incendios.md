@@ -2,6 +2,7 @@
 imdb: "1255953"
 title: "Incêndios"
 stars: "5/5"
+category: "movies"
 _title: "Incendies"
 _year: "2010"
 _director: ["Denis Villeneuve", ]

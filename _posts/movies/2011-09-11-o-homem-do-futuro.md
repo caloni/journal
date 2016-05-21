@@ -2,6 +2,7 @@
 imdb: "2027178"
 title: "O Homem do Futuro"
 stars: "4/5"
+category: "movies"
 _title: "O Homem do Futuro"
 _year: "2011"
 _director: ["Cláudio Torres", ]

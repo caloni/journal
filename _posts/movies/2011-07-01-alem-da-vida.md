@@ -2,6 +2,7 @@
 imdb: "1212419"
 title: "Além da Vida"
 stars: "3/5"
+category: "movies"
 _title: "Hereafter"
 _year: "2010"
 _director: ["Clint Eastwood", ]

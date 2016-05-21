@@ -2,6 +2,7 @@
 imdb: "2473682"
 title: "Atividade Paranormal Marcados pelo Mal"
 stars: "2/5"
+category: "movies"
 _title: "Paranormal Activity: The Marked Ones"
 _year: "2014"
 _director: ["Christopher Landon", ]

@@ -2,6 +2,7 @@
 imdb: "1284575"
 title: "Professora Sem Classe"
 stars: "2/5"
+category: "movies"
 _title: "Bad Teacher"
 _year: "2011"
 _director: ["Jake Kasdan", ]

@@ -2,6 +2,7 @@
 imdb: "1280011"
 title: "No Impact Man"
 stars: "3/5"
+category: "movies"
 _title: "No Impact Man: The Documentary"
 _year: "2009"
 _director: ["Laura Gabbert", "Justin Schein", ]

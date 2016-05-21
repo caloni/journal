@@ -2,6 +2,7 @@
 imdb: "1440161"
 title: "Pronta Para Amar"
 stars: "3/5"
+category: "movies"
 _title: "A Little Bit of Heaven"
 _year: "2011"
 _director: ["Nicole Kassell", ]

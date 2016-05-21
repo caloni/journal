@@ -2,6 +2,7 @@
 imdb: "0113627"
 title: "Despedida em Las Vegas"
 stars: "5/5"
+category: "movies"
 _title: "Leaving Las Vegas"
 _year: "1995"
 _director: ["Mike Figgis", ]

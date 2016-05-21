@@ -2,6 +2,7 @@
 imdb: "1288558"
 title: "A Morte do Demônio"
 stars: "4/5"
+category: "movies"
 _title: "Evil Dead"
 _year: "2013"
 _director: ["Fede Alvarez", ]

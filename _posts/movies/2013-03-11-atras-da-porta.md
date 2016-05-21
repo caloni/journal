@@ -2,6 +2,7 @@
 title: "Atrás da Porta"
 imdb: "1194577"
 stars: "3/5"
+category: "movies"
 _title: "The Door"
 _year: "2012"
 _director: ["István Szabó", ]

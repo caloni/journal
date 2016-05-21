@@ -2,6 +2,7 @@
 imdb: "0365376"
 title: "Medo"
 stars: "2/5"
+category: "movies"
 _title: "Janghwa, Hongryeon"
 _year: "2003"
 _director: ["Jee-Woon Kim", ]

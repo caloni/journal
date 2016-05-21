@@ -2,6 +2,7 @@
 imdb: "1477855"
 title: "Um Final de Semana em Hyde Park"
 stars: "3/5"
+category: "movies"
 _title: "Hyde Park on Hudson"
 _year: "2012"
 _director: ["Roger Michell", ]

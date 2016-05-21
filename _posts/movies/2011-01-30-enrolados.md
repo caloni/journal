@@ -2,6 +2,7 @@
 imdb: "0398286"
 title: "Enrolados"
 stars: "3/5"
+category: "movies"
 revision: [2014-06-18]
 _title: "Tangled"
 _year: "2010"

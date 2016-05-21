@@ -2,6 +2,7 @@
 imdb: "1385826"
 title: "Os Agentes do Destino"
 stars: "4/5"
+category: "movies"
 _title: "The Adjustment Bureau"
 _year: "2011"
 _director: ["George Nolfi", ]

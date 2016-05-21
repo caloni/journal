@@ -2,6 +2,7 @@
 imdb: "1212450"
 title: "Os Infratores"
 stars: "4/5"
+category: "movies"
 _title: "Lawless"
 _year: "2012"
 _director: ["John Hillcoat", ]

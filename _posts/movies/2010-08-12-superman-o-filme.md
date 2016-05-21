@@ -3,6 +3,7 @@ imdb: "0078346"
 revision: [2013-11-20]
 title: "Superman O Filme"
 stars: "5/5"
+category: "movies"
 _title: "Superman"
 _year: "1978"
 _director: ["Richard Donner", ]

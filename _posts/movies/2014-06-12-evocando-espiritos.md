@@ -2,6 +2,7 @@
 imdb: "0492044"
 title: "Evocando Espíritos"
 stars: "3/5"
+category: "movies"
 _title: "The Haunting in Connecticut"
 _year: "2009"
 _director: ["Peter Cornwell", ]

@@ -1,6 +1,7 @@
 ---
 imdb: "0238380"
 stars: "3/5"
+category: "movies"
 title: "Equilibrium"
 _title: "Equilibrium"
 _year: "2002"

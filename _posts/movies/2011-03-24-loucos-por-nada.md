@@ -2,6 +2,7 @@
 imdb: "0494222"
 title: "Loucos por Nada"
 stars: "3/5"
+category: "movies"
 _title: "Eagle vs Shark"
 _year: "2007"
 _director: ["Taika Waititi", ]

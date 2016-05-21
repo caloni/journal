@@ -2,6 +2,7 @@
 imdb: "1454910"
 title: "Copacabana"
 stars: "5/5"
+category: "movies"
 _title: "Copacabana"
 _year: "2010"
 _director: ["Marc Fitoussi", ]

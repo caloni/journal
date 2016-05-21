@@ -1,6 +1,7 @@
 ---
 imdb: "0291988"
 stars: "4/5"
+category: "movies"
 title: "Historias mínimas"
 _title: "Historias mínimas"
 _year: "2002"

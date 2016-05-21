@@ -2,6 +2,7 @@
 imdb: "0416236"
 title: "As Crônicas de Spiderwick"
 stars: "3/5"
+category: "movies"
 _title: "The Spiderwick Chronicles"
 _year: "2008"
 _director: ["Mark Waters", ]

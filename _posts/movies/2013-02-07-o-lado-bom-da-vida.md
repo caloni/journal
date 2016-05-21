@@ -2,6 +2,7 @@
 imdb: "1045658"
 title: "O Lado Bom da Vida"
 stars: "5/5"
+category: "movies"
 _title: "Silver Linings Playbook"
 _year: "2012"
 _director: ["David O. Russell", ]

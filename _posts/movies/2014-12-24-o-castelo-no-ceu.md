@@ -2,6 +2,7 @@
 imdb: "0092067"
 title: "O Castelo no Céu"
 stars: "5/5"
+category: "movies"
 _title: "Tenkû no shiro Rapyuta"
 _year: "1986"
 _director: ["Hayao Miyazaki", ]

@@ -2,6 +2,7 @@
 imdb: "1410297"
 title: "O Bem Amado"
 stars: "4/5"
+category: "movies"
 _title: "O Bem Amado"
 _year: "2010"
 _director: ["Guel Arraes", ]

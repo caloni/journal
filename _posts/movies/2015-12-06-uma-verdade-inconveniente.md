@@ -1,6 +1,7 @@
 ---
 imdb: "0497116"
 stars: "4/5"
+category: "movies"
 title: "Uma Verdade Inconveniente"
 _title: "An Inconvenient Truth"
 _year: "2006"

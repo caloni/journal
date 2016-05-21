@@ -2,6 +2,7 @@
 imdb: "2318092"
 title: "Amor Sem Fim"
 stars: "4/5"
+category: "movies"
 _title: "Endless Love"
 _year: "2014"
 _director: ["Shana Feste", ]

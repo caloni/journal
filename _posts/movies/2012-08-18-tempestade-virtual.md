@@ -2,6 +2,7 @@
 imdb: "0311866"
 title: "Tempestade Virtual"
 stars: "2/5"
+category: "movies"
 _title: "Storm Watch"
 _year: "2002"
 _director: ["Terry Cunningham", ]

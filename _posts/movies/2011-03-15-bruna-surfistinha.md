@@ -2,6 +2,7 @@
 imdb: "1587828"
 title: "Bruna Surfistinha"
 stars: "3/5"
+category: "movies"
 _title: "Bruna Surfistinha"
 _year: "2011"
 _director: ["Marcus Baldini", ]

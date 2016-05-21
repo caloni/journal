@@ -1,6 +1,7 @@
 ---
 imdb: "0019760"
 stars: "5/5"
+category: "movies"
 title: "Um Homem com uma Câmera"
 _title: "Chelovek s kino-apparatom"
 _year: "1929"

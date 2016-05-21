@@ -1,6 +1,7 @@
 ---
 imdb: "2224026"
 stars: "4/5"
+category: "movies"
 title: "Cada Um Na Sua Casa"
 _title: "Home"
 _year: "2015"

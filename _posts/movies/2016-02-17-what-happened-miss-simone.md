@@ -1,6 +1,7 @@
 ---
 imdb: "4284010"
 stars: "5/5"
+category: "movies"
 title: "What Happened, Miss Simone?"
 _title: "What Happened, Miss Simone?"
 _year: "2015"

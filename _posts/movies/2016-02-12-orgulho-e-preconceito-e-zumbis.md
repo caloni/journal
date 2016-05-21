@@ -1,6 +1,7 @@
 ---
 imdb: "1374989"
 stars: "3/5"
+category: "movies"
 title: "Orgulho e Preconceito e Zumbis"
 _title: "Pride and Prejudice and Zombies"
 _year: "2016"

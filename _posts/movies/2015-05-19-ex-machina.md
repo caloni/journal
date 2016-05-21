@@ -2,6 +2,7 @@
 imdb: "0470752"
 review-title: "Por que Ex Machina é uma defesa competente do feminismo"
 stars: "4/5"
+category: "movies"
 title: "Ex Machina"
 _title: "Ex Machina"
 _year: "2015"

@@ -2,6 +2,7 @@
 imdb: "0060196"
 title: "Três Homens em Conflito"
 stars: "5/5"
+category: "movies"
 _title: "Il buono, il brutto, il cattivo."
 _year: "1966"
 _director: ["Sergio Leone", ]

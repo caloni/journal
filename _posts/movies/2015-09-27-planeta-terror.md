@@ -1,6 +1,7 @@
 ---
 imdb: "1077258"
 stars: "3/5"
+category: "movies"
 title: "Planeta Terror"
 _title: "Planet Terror"
 _year: "2007"

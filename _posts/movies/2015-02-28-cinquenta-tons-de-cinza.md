@@ -2,6 +2,7 @@
 imdb: "2322441"
 title: "Cinquenta Tons de Cinza"
 stars: "2/5"
+category: "movies"
 _title: "Fifty Shades of Grey"
 _year: "2015"
 _director: ["Sam Taylor-Johnson", ]

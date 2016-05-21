@@ -1,6 +1,7 @@
 ---
 imdb: "2981768"
 stars: "4/5"
+category: "movies"
 title: "Patema Inverted"
 _title: "Sakasama no Patema"
 _year: "2013"

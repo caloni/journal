@@ -2,6 +2,7 @@
 imdb: "0125659"
 title: "Abra os Olhos"
 stars: "5/5"
+category: "movies"
 _title: "Abre los ojos"
 _year: "1997"
 _director: ["Alejandro Amenábar", ]

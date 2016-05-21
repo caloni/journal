@@ -1,6 +1,7 @@
 ---
 imdb: "1602098"
 stars: "4/5"
+category: "movies"
 title: "Albert Nobbs"
 _title: "Albert Nobbs"
 _year: "2011"

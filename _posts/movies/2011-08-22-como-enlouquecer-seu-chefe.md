@@ -3,6 +3,7 @@ imdb: "0151804"
 revision: [2012-09-19]
 title: "Como Enlouquecer seu Chefe"
 stars: "3/5"
+category: "movies"
 _title: "Office Space"
 _year: "1999"
 _director: ["Mike Judge", ]

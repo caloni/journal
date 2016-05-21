@@ -2,6 +2,7 @@
 imdb: "1424746"
 title: "Apenas o Fim"
 stars: "3/5"
+category: "movies"
 _title: "Apenas o Fim"
 _year: "2008"
 _director: ["Matheus Souza", ]

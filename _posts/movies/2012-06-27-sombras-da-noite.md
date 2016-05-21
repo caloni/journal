@@ -2,6 +2,7 @@
 imdb: "1077368"
 title: "Sombras da Noite"
 stars: "3/5"
+category: "movies"
 _title: "Dark Shadows"
 _year: "2012"
 _director: ["Tim Burton", ]

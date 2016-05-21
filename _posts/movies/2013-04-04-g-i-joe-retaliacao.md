@@ -2,6 +2,7 @@
 imdb: "1583421"
 title: "G.I. Joe Retaliação"
 stars: "3/5"
+category: "movies"
 _title: "G.I. Joe: Retaliation"
 _year: "2013"
 _director: ["Jon M. Chu", ]

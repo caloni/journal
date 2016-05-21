@@ -2,6 +2,7 @@
 imdb: "0938283"
 title: "O Último Mestre do Ar"
 stars: "1/5"
+category: "movies"
 _title: "The Last Airbender"
 _year: "2010"
 _director: ["M. Night Shyamalan", ]

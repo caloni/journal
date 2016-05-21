@@ -2,6 +2,7 @@
 imdb: "0154506"
 title: "Following"
 stars: "4/5"
+category: "movies"
 _title: "Following"
 _year: "1998"
 _director: ["Christopher Nolan", ]

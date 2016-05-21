@@ -2,6 +2,7 @@
 imdb: "2096673"
 review-title: "Divertida Mente é Ela infanto-juvenil da Pixar e renova criatividade da produtora."
 stars: "4/5"
+category: "movies"
 title: "Divertida Mente"
 _title: "Inside Out"
 _year: "2015"

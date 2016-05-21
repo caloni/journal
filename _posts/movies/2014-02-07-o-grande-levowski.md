@@ -2,6 +2,7 @@
 imdb: "0118715"
 title: "O Grande Lebowski"
 stars: "5/5"
+category: "movies"
 _title: "The Big Lebowski"
 _year: "1998"
 _director: ["Joel Coen", "Ethan Coen", ]

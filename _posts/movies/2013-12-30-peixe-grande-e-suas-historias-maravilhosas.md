@@ -2,6 +2,7 @@
 imdb: "0319061"
 title: "Peixe Grande e Suas Histórias Maravilhosas"
 stars: "4/5"
+category: "movies"
 _title: "Big Fish"
 _year: "2003"
 _director: ["Tim Burton", ]

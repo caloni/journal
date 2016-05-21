@@ -2,6 +2,7 @@
 imdb: "0448694"
 title: "O Gato de Botas"
 stars: "3/5"
+category: "movies"
 _title: "Puss in Boots"
 _year: "2011"
 _director: ["Chris Miller", ]

@@ -1,6 +1,7 @@
 ---
 imdb: "0362270"
 stars: "4/5"
+category: "movies"
 title: "A Vida Marinha com Steve Zissou"
 _title: "The Life Aquatic with Steve Zissou"
 _year: "2004"

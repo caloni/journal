@@ -2,6 +2,7 @@
 imdb: "0420238"
 title: "O Corajoso Ratinho Despereaux"
 stars: "3/5"
+category: "movies"
 _title: "The Tale of Despereaux"
 _year: "2008"
 _director: ["Sam Fell", "Robert Stevenhagen", ]

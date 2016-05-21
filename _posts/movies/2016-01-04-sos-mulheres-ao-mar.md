@@ -1,6 +1,7 @@
 ---
 imdb: "3035582"
 stars: "2/5"
+category: "movies"
 title: "S.O.S.: Mulheres ao Mar"
 _title: "S.O.S.: Mulheres ao Mar"
 _year: "2014"

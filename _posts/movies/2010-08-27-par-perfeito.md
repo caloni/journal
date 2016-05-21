@@ -2,6 +2,7 @@
 imdb: "1103153"
 title: "Par Perfeito"
 stars: "3/5"
+category: "movies"
 _title: "Killers"
 _year: "2010"
 _director: ["Robert Luketic", ]

@@ -1,6 +1,7 @@
 ---
 imdb: "0113568"
 stars: "5/5"
+category: "movies"
 title: "O Fantasma do Futuro"
 _title: "Kôkaku Kidôtai"
 _year: "1995"

@@ -2,6 +2,7 @@
 imdb: "1843866"
 title: "Capitão América 2 O Soldado Invernal"
 stars: "3/5"
+category: "movies"
 _title: "Captain America: The Winter Soldier"
 _year: "2014"
 _director: ["Anthony Russo", "Joe Russo", ]

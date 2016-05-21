@@ -2,6 +2,7 @@
 imdb: "2758890"
 title: "Bem-Vindo a Nova York"
 stars: "4/5"
+category: "movies"
 _title: "Welcome to New York"
 _year: "2014"
 _director: ["Abel Ferrara", ]

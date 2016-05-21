@@ -1,6 +1,7 @@
 ---
 imdb: "3742378"
 stars: "5/5"
+category: "movies"
 title: "Que Horas Ela Volta?"
 _title: "Que Horas Ela Volta?"
 _year: "2015"

@@ -2,6 +2,7 @@
 imdb: "0770703"
 title: "Qual Seu Número?"
 stars: "3/5"
+category: "movies"
 _title: "What's Your Number?"
 _year: "2011"
 _director: ["Mark Mylod", ]

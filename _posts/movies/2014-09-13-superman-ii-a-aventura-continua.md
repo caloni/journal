@@ -2,6 +2,7 @@
 imdb: "0081573"
 title: "Superman II - A Aventura Continua"
 stars: "4/5"
+category: "movies"
 _title: "Superman II"
 _year: "1980"
 _director: ["Richard Lester", "Richard Donner", ]

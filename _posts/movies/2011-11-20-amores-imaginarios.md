@@ -2,6 +2,7 @@
 imdb: "1600524"
 title: "Amores Imaginários"
 stars: "4/5"
+category: "movies"
 _title: "Les amours imaginaires"
 _year: "2010"
 _director: ["Xavier Dolan", ]

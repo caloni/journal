@@ -1,6 +1,7 @@
 ---
 imdb: "2282016"
 stars: "4/5"
+category: "movies"
 title: "A Possessão do Mal"
 _title: "The Possession of Michael King"
 _year: "2014"

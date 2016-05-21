@@ -2,6 +2,7 @@
 imdb: "0037638"
 title: "A Curva do Destino"
 stars: "4/5"
+category: "movies"
 _title: "Detour"
 _year: "1945"
 _director: ["Edgar G. Ulmer", ]

@@ -1,6 +1,7 @@
 ---
 imdb: "2576852"
 stars: "5/5"
+category: "movies"
 title: "O Conto da Princesa Kaguya"
 _title: "Kaguyahime no monogatari"
 _year: "2013"

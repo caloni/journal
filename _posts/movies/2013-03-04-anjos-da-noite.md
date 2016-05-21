@@ -2,6 +2,7 @@
 imdb: "0320691"
 title: "Anjos da Noite"
 stars: "1/5"
+category: "movies"
 _title: "Underworld"
 _year: "2003"
 _director: ["Len Wiseman", ]

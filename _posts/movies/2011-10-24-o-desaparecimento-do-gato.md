@@ -2,6 +2,7 @@
 imdb: "1841584"
 title: "El gato desaparece"
 stars: "4/5"
+category: "movies"
 _title: "El gato desaparece"
 _year: "2011"
 _director: ["Carlos Sorin", ]

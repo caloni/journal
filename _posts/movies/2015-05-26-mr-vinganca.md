@@ -2,6 +2,7 @@
 imdb: "0310775"
 review-title: "Porque Mr. Vingança não é tão bom quanto Old Boy"
 stars: "4/5"
+category: "movies"
 title: "Mr. Vingança"
 _title: "Boksuneun naui geot"
 _year: "2002"

@@ -2,6 +2,7 @@
 imdb: "0816442"
 title: "A Menina que Roubava Livros"
 stars: "4/5"
+category: "movies"
 _title: "The Book Thief"
 _year: "2013"
 _director: ["Brian Percival", ]

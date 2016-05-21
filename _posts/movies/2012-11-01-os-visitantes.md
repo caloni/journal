@@ -2,6 +2,7 @@
 title: "Os Visitantes"
 imdb: "2208192"
 stars: "4/5"
+category: "movies"
 _title: "Die Besucher"
 _year: "2012"
 _director: ["Constanze Knoche", ]

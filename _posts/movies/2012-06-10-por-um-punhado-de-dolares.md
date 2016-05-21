@@ -2,6 +2,7 @@
 imdb: "0058461"
 title: "Por Um Punhado de Dólares"
 stars: "5/5"
+category: "movies"
 _title: "Per un pugno di dollari"
 _year: "1964"
 _director: ["Sergio Leone", ]

@@ -1,6 +1,7 @@
 ---
 imdb: "1213663"
 stars: "3/5"
+category: "movies"
 title: "Heróis de Ressaca"
 _title: "The World's End"
 _year: "2013"

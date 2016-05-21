@@ -1,6 +1,7 @@
 ---
 imdb: "1791528"
 stars: "4/5"
+category: "movies"
 title: "Vício Inerente"
 _title: "Inherent Vice"
 _year: "2014"

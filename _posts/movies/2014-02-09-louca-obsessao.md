@@ -2,6 +2,7 @@
 imdb: "0100157"
 title: "Louca Obsessão"
 stars: "5/5"
+category: "movies"
 _title: "Misery"
 _year: "1990"
 _director: ["Rob Reiner", ]

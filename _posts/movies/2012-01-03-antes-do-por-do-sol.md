@@ -2,6 +2,7 @@
 imdb: "0381681"
 title: "Antes do Pôr-do-Sol"
 stars: "5/5"
+category: "movies"
 _title: "Before Sunset"
 _year: "2004"
 _director: ["Richard Linklater", ]

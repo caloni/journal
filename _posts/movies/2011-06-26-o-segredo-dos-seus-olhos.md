@@ -2,6 +2,7 @@
 imdb: "1305806"
 title: "O Segredo dos Seus Olhos"
 stars: "5/5"
+category: "movies"
 _title: "El secreto de sus ojos"
 _year: "2009"
 _director: ["Juan José Campanella", ]

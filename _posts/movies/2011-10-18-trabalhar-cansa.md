@@ -2,6 +2,7 @@
 imdb: "1686328"
 title: "Trabalhar Cansa"
 stars: "5/5"
+category: "movies"
 _title: "Trabalhar Cansa"
 _year: "2011"
 _director: ["Marco Dutra", "Juliana Rojas", ]

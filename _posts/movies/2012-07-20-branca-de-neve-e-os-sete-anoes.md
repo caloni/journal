@@ -2,6 +2,7 @@
 imdb: "0029583"
 title: "Branca de Neve e os Sete Anões"
 stars: "5/5"
+category: "movies"
 _title: "Snow White and the Seven Dwarfs"
 _year: "1937"
 _director: ["William Cottrell", "David Hand", "Wilfred Jackson", "Larry Morey", "Perce Pearce", "Ben Sharpsteen", ]

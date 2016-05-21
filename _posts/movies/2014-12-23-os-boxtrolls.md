@@ -2,6 +2,7 @@
 imdb: "0787474"
 title: "Os Boxtrolls"
 stars: "4/5"
+category: "movies"
 _title: "The Boxtrolls"
 _year: "2014"
 _director: ["Graham Annable", "Anthony Stacchi", ]

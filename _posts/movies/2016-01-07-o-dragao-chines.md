@@ -1,6 +1,7 @@
 ---
 imdb: "0067824"
 stars: "3/5"
+category: "movies"
 title: "O Dragão Chinês"
 _title: "Tang shan da xiong"
 _year: "1971"

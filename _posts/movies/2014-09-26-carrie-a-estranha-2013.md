@@ -2,6 +2,7 @@
 imdb: "1939659"
 title: "Carrie, a Estranha (2013)"
 stars: "3/5"
+category: "movies"
 _title: "Carrie"
 _year: "2013"
 _director: ["Kimberly Peirce", ]

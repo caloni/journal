@@ -2,6 +2,7 @@
 imdb: "1389096"
 title: "Amigos Inseparáveis"
 stars: "4/5"
+category: "movies"
 _title: "Stand Up Guys"
 _year: "2012"
 _director: ["Fisher Stevens", ]

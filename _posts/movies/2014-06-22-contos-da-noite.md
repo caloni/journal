@@ -2,6 +2,7 @@
 imdb: "1828229"
 title: "Contos da Noite"
 stars: "3/5"
+category: "movies"
 _title: "Les contes de la nuit"
 _year: "2011"
 _director: ["Michel Ocelot", ]

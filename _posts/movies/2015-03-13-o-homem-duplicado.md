@@ -2,6 +2,7 @@
 imdb: "2316411"
 title: "O Homem Duplicado"
 stars: "4/5"
+category: "movies"
 revision: [ 2016-03-13 ]
 _title: "Enemy"
 _year: "2013"

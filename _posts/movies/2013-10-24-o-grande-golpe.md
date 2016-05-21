@@ -2,6 +2,7 @@
 imdb: "0049406"
 title: "O Grande Golpe"
 stars: "4/5"
+category: "movies"
 _title: "The Killing"
 _year: "1956"
 _director: ["Stanley Kubrick", ]

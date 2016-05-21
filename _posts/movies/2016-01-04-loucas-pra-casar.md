@@ -1,6 +1,7 @@
 ---
 imdb: "3948438"
 stars: "1/5"
+category: "movies"
 title: "Loucas pra Casar"
 _title: "Loucas pra Casar"
 _year: "2015"

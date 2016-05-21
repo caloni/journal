@@ -1,6 +1,7 @@
 ---
 imdb: "2379713"
 stars: "2/5"
+category: "movies"
 title: "007 Contra Spectre"
 _title: "Spectre"
 _year: "2015"

@@ -2,6 +2,7 @@
 imdb: "0292963"
 title: "Antes que o Diabo Saiba que Você Está Morto"
 stars: "5/5"
+category: "movies"
 _title: "Before the Devil Knows You're Dead"
 _year: "2007"
 _director: ["Sidney Lumet", ]

@@ -1,6 +1,7 @@
 ---
 imdb: "3090670"
 stars: "2/5"
+category: "movies"
 title: "Advantageous"
 _title: "Advantageous"
 _year: "2015"

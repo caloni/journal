@@ -1,6 +1,7 @@
 ---
 imdb: "2217859"
 stars: "4/5"
+category: "movies"
 title: "Mais Forte Que Bombas"
 _title: "Louder Than Bombs"
 _year: "2015"

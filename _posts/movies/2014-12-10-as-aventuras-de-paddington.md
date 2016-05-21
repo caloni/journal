@@ -2,6 +2,7 @@
 imdb: "1109624"
 title: "As Aventuras de Paddington"
 stars: "4/5"
+category: "movies"
 revision: [ 2016-03-25 ]
 _title: "Paddington"
 _year: "2014"

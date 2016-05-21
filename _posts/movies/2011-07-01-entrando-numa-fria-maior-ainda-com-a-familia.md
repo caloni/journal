@@ -2,6 +2,7 @@
 imdb: "0970866"
 title: "Entrando Numa Fria Maior Ainda com a Família"
 stars: "3/5"
+category: "movies"
 _title: "Little Fockers"
 _year: "2010"
 _director: ["Paul Weitz", ]

@@ -2,6 +2,7 @@
 imdb: "1920849"
 title: "Quatro Amigas e um Casamento"
 stars: "3/5"
+category: "movies"
 _title: "Bachelorette"
 _year: "2012"
 _director: ["Leslye Headland", ]

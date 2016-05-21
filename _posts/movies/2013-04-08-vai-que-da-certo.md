@@ -2,6 +2,7 @@
 title: "Vai que dá Certo"
 imdb: "2220408"
 stars: "3/5"
+category: "movies"
 _title: "Vai que dá Certo"
 _year: "2013"
 _director: ["Maurício Farias", ]

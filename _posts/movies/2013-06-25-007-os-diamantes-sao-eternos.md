@@ -2,6 +2,7 @@
 imdb: "0066995"
 title: "007 Os Diamantes São Eternos"
 stars: "3/5"
+category: "movies"
 _title: "Diamonds Are Forever"
 _year: "1971"
 _director: ["Guy Hamilton", ]

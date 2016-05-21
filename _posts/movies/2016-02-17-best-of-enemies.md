@@ -1,6 +1,7 @@
 ---
 imdb: "3518012"
 stars: "3/5"
+category: "movies"
 title: "Best of Enemies"
 _title: "Best of Enemies"
 _year: "2015"

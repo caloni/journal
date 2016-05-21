@@ -1,6 +1,7 @@
 ---
 imdb: "0041959"
 stars: "5/5"
+category: "movies"
 title: "O Terceiro Homem"
 _title: "The Third Man"
 _year: "1949"

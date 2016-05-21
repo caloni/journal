@@ -2,6 +2,7 @@
 imdb: "0396752"
 title: "Nanny McPhee A Babá Encantada"
 stars: "3/5"
+category: "movies"
 _title: "Nanny McPhee"
 _year: "2005"
 _director: ["Kirk Jones", ]

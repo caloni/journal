@@ -2,6 +2,7 @@
 imdb: "0364045"
 title: "Roubando Vidas"
 stars: "2/5"
+category: "movies"
 _title: "Taking Lives"
 _year: "2004"
 _director: ["D.J. Caruso", ]

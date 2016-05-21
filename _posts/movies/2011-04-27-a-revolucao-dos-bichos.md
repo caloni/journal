@@ -2,6 +2,7 @@
 imdb: "0204824"
 title: "A Revolução dos Bichos"
 stars: "5/5"
+category: "movies"
 _title: "Animal Farm"
 _year: "1999"
 _director: ["John Stephenson", ]

@@ -2,6 +2,7 @@
 imdb: "0357413"
 title: "O Âncora A Lenda de Ron Burgundy"
 stars: "3/5"
+category: "movies"
 _title: "Anchorman: The Legend of Ron Burgundy"
 _year: "2004"
 _director: ["Adam McKay", ]

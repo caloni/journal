@@ -3,6 +3,7 @@ imdb: "0075314"
 revision: [2012-06-04]
 title: "Taxi Driver"
 stars: "5/5"
+category: "movies"
 _title: "Taxi Driver"
 _year: "1976"
 _director: ["Martin Scorsese", ]

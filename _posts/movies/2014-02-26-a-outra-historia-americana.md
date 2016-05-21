@@ -2,6 +2,7 @@
 imdb: "0120586"
 title: "A Outra História Americana"
 stars: "4/5"
+category: "movies"
 _title: "American History X"
 _year: "1998"
 _director: ["Tony Kaye", ]

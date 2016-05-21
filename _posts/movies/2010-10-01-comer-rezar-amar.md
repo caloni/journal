@@ -2,6 +2,7 @@
 imdb: "0879870"
 title: "Comer Rezar Amar"
 stars: "3/5"
+category: "movies"
 _title: "Eat Pray Love"
 _year: "2010"
 _director: ["Ryan Murphy", ]

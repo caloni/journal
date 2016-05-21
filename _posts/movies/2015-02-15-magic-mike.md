@@ -2,6 +2,7 @@
 imdb: "1915581"
 title: "Magic Mike"
 stars: "5/5"
+category: "movies"
 _title: "Magic Mike"
 _year: "2012"
 _director: ["Steven Soderbergh", ]

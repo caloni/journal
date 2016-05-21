@@ -1,6 +1,7 @@
 ---
 imdb: "2141773"
 stars: "1/5"
+category: "movies"
 title: "Hell and Back"
 _title: "Hell and Back"
 _year: "2015"

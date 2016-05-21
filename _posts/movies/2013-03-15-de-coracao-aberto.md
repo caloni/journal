@@ -2,6 +2,7 @@
 title: "De Coração Aberto"
 imdb: "2088962"
 stars: "4/5"
+category: "movies"
 _title: "À coeur ouvert"
 _year: "2012"
 _director: ["Marion Laine", ]

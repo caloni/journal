@@ -1,6 +1,7 @@
 ---
 imdb: "1895587"
 stars: "4/5"
+category: "movies"
 title: "Spotlight: Segredos Revelados"
 _title: "Spotlight"
 _year: "2015"

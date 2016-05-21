@@ -2,6 +2,7 @@
 imdb: "1046173"
 title: "G.I. Joe A Origem de Cobra"
 stars: "1/5"
+category: "movies"
 _title: "G.I. Joe: The Rise of Cobra"
 _year: "2009"
 _director: ["Stephen Sommers", ]

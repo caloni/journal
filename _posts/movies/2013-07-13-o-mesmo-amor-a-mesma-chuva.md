@@ -2,6 +2,7 @@
 imdb: "0210843"
 title: "El Mismo Amor La Misma Lluvia"
 stars: "3/5"
+category: "movies"
 _title: "El mismo amor, la misma lluvia"
 _year: "1999"
 _director: ["Juan José Campanella", ]

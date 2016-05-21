@@ -1,6 +1,7 @@
 ---
 imdb: "2917388"
 stars: "3/5"
+category: "movies"
 title: "Jogada de Mestre"
 _title: "Kidnapping Mr. Heineken"
 _year: "2015"

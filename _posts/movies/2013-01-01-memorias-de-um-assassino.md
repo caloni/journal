@@ -2,6 +2,7 @@
 imdb: "0353969"
 title: "Memórias de um Assassino"
 stars: "4/5"
+category: "movies"
 _title: "Salinui chueok"
 _year: "2003"
 _director: ["Joon-ho Bong", ]

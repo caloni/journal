@@ -2,6 +2,7 @@
 imdb: "0055928"
 title: "O Satânico Dr. No"
 stars: "4/5"
+category: "movies"
 _title: "Dr. No"
 _year: "1962"
 _director: ["Terence Young", ]

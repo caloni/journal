@@ -2,6 +2,7 @@
 imdb: "0811080"
 title: "Speed Racer"
 stars: "5/5"
+category: "movies"
 _title: "Speed Racer"
 _year: "2008"
 _director: ["Andy Wachowski", "Lana Wachowski", ]

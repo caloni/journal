@@ -2,6 +2,7 @@
 imdb: "1228987"
 title: "Deixe-me Entrar"
 stars: "4/5"
+category: "movies"
 _title: "Let Me In"
 _year: "2010"
 _director: ["Matt Reeves", ]

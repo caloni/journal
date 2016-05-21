@@ -2,6 +2,7 @@
 imdb: "0087800"
 title: "A Hora do Pesadelo"
 stars: "4/5"
+category: "movies"
 _title: "A Nightmare on Elm Street"
 _year: "1984"
 _director: ["Wes Craven", ]

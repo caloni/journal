@@ -2,6 +2,7 @@
 imdb: "3063516"
 title: "Jackass Apresenta: Vovô Sem Vergonha"
 stars: "3/5"
+category: "movies"
 _title: "Jackass Presents: Bad Grandpa"
 _year: "2013"
 _director: ["Jeff Tremaine", ]

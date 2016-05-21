@@ -3,6 +3,7 @@ imdb: "0446029"
 revision: [2013-12-28]
 title: "Scott Pilgrim Contra o Mundo"
 stars: "5/5"
+category: "movies"
 _title: "Scott Pilgrim vs. the World"
 _year: "2010"
 _director: ["Edgar Wright", ]

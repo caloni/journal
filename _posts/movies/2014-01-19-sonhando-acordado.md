@@ -2,6 +2,7 @@
 imdb: "0484111"
 title: "Sonhando Acordado"
 stars: "4/5"
+category: "movies"
 _title: "The Good Night"
 _year: "2007"
 _director: ["Jake Paltrow", ]

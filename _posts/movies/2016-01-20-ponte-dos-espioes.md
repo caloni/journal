@@ -1,6 +1,7 @@
 ---
 imdb: "3682448"
 stars: "4/5"
+category: "movies"
 title: "Ponte dos Espiões"
 _title: "Bridge of Spies"
 _year: "2015"

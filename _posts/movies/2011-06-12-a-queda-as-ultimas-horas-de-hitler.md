@@ -2,6 +2,7 @@
 imdb: "0363163"
 title: "A Queda! As Últimas Horas de Hitler"
 stars: "4/5"
+category: "movies"
 _title: "Der Untergang"
 _year: "2004"
 _director: ["Oliver Hirschbiegel", ]

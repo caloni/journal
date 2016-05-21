@@ -2,6 +2,7 @@
 imdb: "0150980"
 title: "The Housemaid"
 stars: "4/5"
+category: "movies"
 _title: "Hanyo"
 _year: "1960"
 _director: ["Ki-young Kim", ]

@@ -1,6 +1,7 @@
 ---
 imdb: "0095705"
 stars: "3/5"
+category: "movies"
 title: "Corra que a Polícia Vem Aí!"
 _title: "The Naked Gun: From the Files of Police Squad!"
 _year: "1988"

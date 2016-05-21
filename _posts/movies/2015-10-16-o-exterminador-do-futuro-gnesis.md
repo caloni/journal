@@ -1,6 +1,7 @@
 ---
 imdb: "1340138"
 stars: "3/5"
+category: "movies"
 title: "O Exterminador do Futuro: Gênesis"
 _title: "Terminator Genisys"
 _year: "2015"

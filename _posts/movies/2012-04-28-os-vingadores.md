@@ -2,6 +2,7 @@
 imdb: "0848228"
 title: "The Avengers Os Vingadores"
 stars: 3/5
+category: "movies"
 _title: "The Avengers"
 _year: "2012"
 _director: ["Joss Whedon", ]

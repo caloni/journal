@@ -1,6 +1,7 @@
 ---
 imdb: "1429430"
 stars: "3/5"
+category: "movies"
 title: "A Casa dos Contos de Fadas"
 _title: "Kérity, la maison des contes"
 _year: "2009"

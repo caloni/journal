@@ -1,6 +1,7 @@
 ---
 imdb: "0119396"
 stars: "4/5"
+category: "movies"
 title: "Jackie Brown"
 _title: "Jackie Brown"
 _year: "1997"

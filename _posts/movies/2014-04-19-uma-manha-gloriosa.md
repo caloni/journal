@@ -2,6 +2,7 @@
 imdb: "1126618"
 title: "Uma Manhã Gloriosa"
 stars: "4/5"
+category: "movies"
 _title: "Morning Glory"
 _year: "2010"
 _director: ["Roger Michell", ]

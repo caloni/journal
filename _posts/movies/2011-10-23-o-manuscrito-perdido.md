@@ -2,6 +2,7 @@
 title: "O Manuscrito Perdido"
 imdb: "2166420"
 stars: "3/5"
+category: "movies"
 _title: "O Manuscrito Perdido"
 _year: "2010"
 _director: ["José Barahona", ]

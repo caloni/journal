@@ -2,6 +2,7 @@
 imdb: "0119310"
 title: "Querida, Encolhi a Gente"
 stars: "2/5"
+category: "movies"
 _title: "Honey, We Shrunk Ourselves"
 _year: "1997"
 _director: ["Dean Cundey", ]

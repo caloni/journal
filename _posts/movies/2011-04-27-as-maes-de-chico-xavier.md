@@ -2,6 +2,7 @@
 title: "As Mães de Chico Xavier"
 imdb: "1882041"
 stars: "2/5"
+category: "movies"
 _title: "As Mães de Chico Xavier"
 _year: "2011"
 _director: ["Glauber Filho", "Halder Gomes", ]

@@ -2,6 +2,7 @@
 title: "Quincas Berro d'Água"
 imdb: "1068962"
 stars: "3/5"
+category: "movies"
 _title: "Quincas Berro d'Água"
 _year: "2010"
 _director: ["Sérgio Machado", ]

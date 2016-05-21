@@ -2,6 +2,7 @@
 imdb: "0080120"
 title: "Warriors Os Selvagens da Noite"
 stars: "5/5"
+category: "movies"
 _title: "The Warriors"
 _year: "1979"
 _director: ["Walter Hill", ]

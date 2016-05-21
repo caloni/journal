@@ -2,6 +2,7 @@
 imdb: "0980970"
 title: "As Crônicas de Nárnia A Viagem do Peregrino da Alvorada"
 stars: "3/5"
+category: "movies"
 _title: "The Chronicles of Narnia: The Voyage of the Dawn Treader"
 _year: "2010"
 _director: ["Michael Apted", ]

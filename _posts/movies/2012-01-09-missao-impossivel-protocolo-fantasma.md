@@ -2,6 +2,7 @@
 imdb: "1229238"
 title: "Missão Impossível Protocolo Fantasma"
 stars: "4/5"
+category: "movies"
 _title: "Mission: Impossible - Ghost Protocol"
 _year: "2011"
 _director: ["Brad Bird", ]

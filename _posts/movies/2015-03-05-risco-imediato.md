@@ -2,6 +2,7 @@
 imdb: "1361318"
 title: "Risco Imediato"
 stars: "3/5"
+category: "movies"
 _title: "Good People"
 _year: "2014"
 _director: ["Henrik Ruben Genz", ]

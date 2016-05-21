@@ -1,6 +1,7 @@
 ---
 imdb: "3268030"
 stars: "4/5"
+category: "movies"
 title: "Advanced Style"
 _title: "Advanced Style"
 _year: "2014"

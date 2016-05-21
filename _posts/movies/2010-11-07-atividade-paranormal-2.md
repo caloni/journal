@@ -2,6 +2,7 @@
 imdb: "1536044"
 title: "Atividade Paranormal 2"
 stars: "3/5"
+category: "movies"
 _title: "Paranormal Activity 2"
 _year: "2010"
 _director: ["Tod Williams", ]

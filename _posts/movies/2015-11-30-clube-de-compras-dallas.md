@@ -1,6 +1,7 @@
 ---
 imdb: "0790636"
 stars: "5/5"
+category: "movies"
 title: "Clube de Compras Dallas"
 _title: "Dallas Buyers Club"
 _year: "2013"

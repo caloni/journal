@@ -3,6 +3,7 @@ imdb: "2980516"
 count: 2
 title: "A Teoria de Tudo"
 stars: "3/5"
+category: "movies"
 _title: "The Theory of Everything"
 _year: "2014"
 _director: ["James Marsh", ]

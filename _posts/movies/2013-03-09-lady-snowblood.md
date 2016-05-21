@@ -2,6 +2,7 @@
 imdb: "0158714"
 title: "Lady Snowblood"
 stars: "4/5"
+category: "movies"
 _title: "Shurayukihime"
 _year: "1973"
 _director: ["Toshiya Fujita", ]

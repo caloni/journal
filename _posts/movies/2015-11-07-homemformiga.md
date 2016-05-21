@@ -1,6 +1,7 @@
 ---
 imdb: "0478970"
 stars: "3/5"
+category: "movies"
 title: "Homem-Formiga"
 _title: "Ant-Man"
 _year: "2015"

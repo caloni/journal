@@ -2,6 +2,7 @@
 imdb: "0119488"
 title: "L.A. Confidential"
 stars: "5/5"
+category: "movies"
 _title: "L.A. Confidential"
 _year: "1997"
 _director: ["Curtis Hanson", ]

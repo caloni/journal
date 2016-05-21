@@ -2,6 +2,7 @@
 title: "País do Desejo"
 imdb: "2156927"
 stars: "2/5"
+category: "movies"
 _title: "País do Desejo"
 _year: "2012"
 _director: ["Paulo Caldas", ]

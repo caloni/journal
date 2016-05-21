@@ -2,6 +2,7 @@
 imdb: "0084516"
 title: "Poltergeist O Fenômeno"
 stars: "4/5"
+category: "movies"
 _title: "Poltergeist"
 _year: "1982"
 _director: ["Tobe Hooper", ]

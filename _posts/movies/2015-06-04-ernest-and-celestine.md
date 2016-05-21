@@ -2,6 +2,7 @@
 imdb: "1816518"
 review-title: "Desenhinho francês indicado ao Oscar por ser bonitinho"
 stars: "3/5"
+category: "movies"
 title: "Ernest and Célestine"
 _title: "Ernest et Célestine"
 _year: "2012"

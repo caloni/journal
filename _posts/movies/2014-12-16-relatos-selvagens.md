@@ -2,6 +2,7 @@
 imdb: "3011894"
 title: "Relatos Selvagens"
 stars: "5/5"
+category: "movies"
 _title: "Relatos salvajes"
 _year: "2014"
 _director: ["Damián Szifrón", ]

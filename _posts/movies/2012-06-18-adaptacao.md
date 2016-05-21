@@ -2,6 +2,7 @@
 imdb: "0268126"
 title: "Adaptação"
 stars: "5/5"
+category: "movies"
 _title: "Adaptation."
 _year: "2002"
 _director: ["Spike Jonze", ]

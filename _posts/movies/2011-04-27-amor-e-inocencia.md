@@ -2,6 +2,7 @@
 imdb: "0416508"
 title: "Amor e Inocência"
 stars: "5/5"
+category: "movies"
 _title: "Becoming Jane"
 _year: "2007"
 _director: ["Julian Jarrold", ]

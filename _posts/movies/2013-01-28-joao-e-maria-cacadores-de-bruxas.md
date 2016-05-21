@@ -2,6 +2,7 @@
 imdb: "1428538"
 title: "João e Maria Caçadores de Bruxas"
 stars: "3/5"
+category: "movies"
 _title: "Hansel & Gretel: Witch Hunters"
 _year: "2013"
 _director: ["Tommy Wirkola", ]

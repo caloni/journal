@@ -2,6 +2,7 @@
 imdb: "0246578"
 title: "Donnie Darko"
 stars: "4/5"
+category: "movies"
 _title: "Donnie Darko"
 _year: "2001"
 _director: ["Richard Kelly", ]

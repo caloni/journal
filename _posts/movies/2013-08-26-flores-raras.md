@@ -2,6 +2,7 @@
 imdb: "2217458"
 title: "Flores Raras"
 stars: "4/5"
+category: "movies"
 _title: "Flores Raras"
 _year: "2013"
 _director: ["Bruno Barreto", ]

@@ -2,6 +2,7 @@
 title: "Raul O Início o Fim e o Meio"
 imdb: "1784599"
 stars: "5/5"
+category: "movies"
 _title: "Raul - O Início, o Fim e o Meio"
 _year: "2012"
 _director: ["Walter Carvalho", "Leonardo Gudel", ]

@@ -1,6 +1,7 @@
 ---
 imdb: "2395427"
 stars: "3/5"
+category: "movies"
 title: "Vingadores: Era de Ultron"
 _title: "Avengers: Age of Ultron"
 _year: "2015"

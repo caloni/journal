@@ -2,6 +2,7 @@
 title: "La muerte de Pinochet"
 imdb: "1817190"
 stars: "3/5"
+category: "movies"
 _title: "La muerte de Pinochet"
 _year: "2011"
 _director: ["Iván Osnovikoff", "Bettina Perut", ]

@@ -2,6 +2,7 @@
 imdb: "1135503"
 title: "Julie e Julia"
 stars: "3/5"
+category: "movies"
 _title: "Julie & Julia"
 _year: "2009"
 _director: ["Nora Ephron", ]

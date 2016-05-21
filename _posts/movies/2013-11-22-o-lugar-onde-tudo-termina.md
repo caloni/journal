@@ -2,6 +2,7 @@
 imdb: "1817273"
 title: "O Lugar Onde Tudo Termina"
 stars: "5/5"
+category: "movies"
 _title: "The Place Beyond the Pines"
 _year: "2012"
 _director: ["Derek Cianfrance", ]

@@ -1,6 +1,7 @@
 ---
 imdb: "0048545"
 stars: "4/5"
+category: "movies"
 title: "Juventude Transviada"
 _title: "Rebel Without a Cause"
 _year: "1955"

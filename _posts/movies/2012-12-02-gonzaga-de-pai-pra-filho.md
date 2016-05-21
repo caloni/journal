@@ -2,6 +2,7 @@
 imdb: "2478746"
 title: "Gonzaga De Pai pra Filho"
 stars: "3/5"
+category: "movies"
 _title: "Gonzaga: De Pai pra Filho"
 _year: "2012"
 _director: ["Breno Silveira", ]

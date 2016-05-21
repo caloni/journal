@@ -2,6 +2,7 @@
 imdb: "1104001"
 title: "Tron O Legado"
 stars: "3/5"
+category: "movies"
 _title: "TRON: Legacy"
 _year: "2010"
 _director: ["Joseph Kosinski", ]

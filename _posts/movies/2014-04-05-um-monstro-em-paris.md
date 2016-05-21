@@ -2,6 +2,7 @@
 imdb: "0961097"
 title: "Um Monstro em Paris"
 stars: "3/5"
+category: "movies"
 _title: "Un monstre à Paris"
 _year: "2011"
 _director: ["Bibo Bergeron", ]

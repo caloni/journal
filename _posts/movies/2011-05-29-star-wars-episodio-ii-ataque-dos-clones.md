@@ -2,6 +2,7 @@
 imdb: "0121765"
 title: "Star Wars Episódio II Ataque dos Clones"
 stars: "5/5"
+category: "movies"
 _title: "Star Wars: Episode II - Attack of the Clones"
 _year: "2002"
 _director: ["George Lucas", ]

@@ -2,6 +2,7 @@
 imdb: "0388473"
 title: "Tokyo Godfathers"
 stars: "3/5"
+category: "movies"
 _title: "Tokyo Godfathers"
 _year: "2003"
 _director: ["Satoshi Kon", "Shôgo Furuya", ]

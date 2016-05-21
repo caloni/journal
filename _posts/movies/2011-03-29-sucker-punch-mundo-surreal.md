@@ -2,6 +2,7 @@
 imdb: "0978764"
 title: "Sucker Punch Mundo Surreal"
 stars: "3/5"
+category: "movies"
 _title: "Sucker Punch"
 _year: "2011"
 _director: ["Zack Snyder", ]

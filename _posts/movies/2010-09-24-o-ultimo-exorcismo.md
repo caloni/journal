@@ -2,6 +2,7 @@
 imdb: "1320244"
 title: "O Último Exorcismo"
 stars: "4/5"
+category: "movies"
 _title: "The Last Exorcism"
 _year: "2010"
 _director: ["Daniel Stamm", ]

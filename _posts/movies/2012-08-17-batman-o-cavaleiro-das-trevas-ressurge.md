@@ -2,6 +2,7 @@
 imdb: "1345836"
 title: "Batman O Cavaleiro das Trevas Ressurge"
 stars: "4/5"
+category: "movies"
 _title: "The Dark Knight Rises"
 _year: "2012"
 _director: ["Christopher Nolan", ]

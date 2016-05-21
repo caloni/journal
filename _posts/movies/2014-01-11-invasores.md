@@ -2,6 +2,7 @@
 imdb: "0427392"
 title: "Invasores"
 stars: "4/5"
+category: "movies"
 _title: "The Invasion"
 _year: "2007"
 _director: ["Oliver Hirschbiegel", "James McTeigue", ]

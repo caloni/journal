@@ -2,6 +2,7 @@
 title: "De Quem é a Cinta Liga?"
 imdb: "0797093"
 stars: "2/5"
+category: "movies"
 _title: "¿De quién es el portaligas?"
 _year: "2007"
 _director: ["María Cecilia López", "Fito Páez", ]

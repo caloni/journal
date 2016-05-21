@@ -2,6 +2,7 @@
 imdb: "1226236"
 title: "Um Sonho de Amor"
 stars: "3/5"
+category: "movies"
 _title: "Io sono l'amore"
 _year: "2009"
 _director: ["Luca Guadagnino", ]

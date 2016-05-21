@@ -2,6 +2,7 @@
 imdb: "0099685"
 title: "Os Bons Companheiros"
 stars: "5/5"
+category: "movies"
 _title: "Goodfellas"
 _year: "1990"
 _director: ["Martin Scorsese", ]

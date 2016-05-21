@@ -2,6 +2,7 @@
 imdb: "1832288"
 title: "Aparecida O Milagre"
 stars: "3/5"
+category: "movies"
 _title: "Aparecida - O Milagre"
 _year: "2010"
 _director: ["Tizuka Yamasaki", ]

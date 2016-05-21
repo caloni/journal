@@ -1,6 +1,7 @@
 ---
 imdb: "0054198"
 stars: "3/5"
+category: "movies"
 title: "Nunca Aos Domingos"
 _title: "Pote tin Kyriaki"
 _year: "1960"

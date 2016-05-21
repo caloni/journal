@@ -2,6 +2,7 @@
 imdb: "1307068"
 title: "Procura-se um Amigo para o Fim do Mundo"
 stars: "1/5"
+category: "movies"
 _title: "Seeking a Friend for the End of the World"
 _year: "2012"
 _director: ["Lorene Scafaria", ]

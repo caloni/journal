@@ -2,6 +2,7 @@
 imdb: "0057012"
 title: "Dr. Fantástico"
 stars: "5/5"
+category: "movies"
 _title: "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb"
 _year: "1964"
 _director: ["Stanley Kubrick", ]

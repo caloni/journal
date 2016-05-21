@@ -2,6 +2,7 @@
 imdb: "0129167"
 title: "O Gigante de Ferro"
 stars: "4/5"
+category: "movies"
 _title: "The Iron Giant"
 _year: "1999"
 _director: ["Brad Bird", ]

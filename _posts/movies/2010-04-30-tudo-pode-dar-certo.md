@@ -2,6 +2,7 @@
 imdb: "1178663"
 title: "Tudo Pode Dar Certo"
 stars: "4/5"
+category: "movies"
 _title: "Whatever Works"
 _year: "2009"
 _director: ["Woody Allen", ]

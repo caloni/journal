@@ -2,6 +2,7 @@
 imdb: "0092605"
 title: "Presente de Grego"
 stars: "4/5"
+category: "movies"
 _title: "Baby Boom"
 _year: "1987"
 _director: ["Charles Shyer", ]

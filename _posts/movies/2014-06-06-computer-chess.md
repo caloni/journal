@@ -2,6 +2,7 @@
 imdb: "2007360"
 title: "Computer Chess"
 stars: "3/5"
+category: "movies"
 _title: "Computer Chess"
 _year: "2013"
 _director: ["Andrew Bujalski", ]

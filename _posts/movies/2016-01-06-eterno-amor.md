@@ -1,6 +1,7 @@
 ---
 imdb: "0344510"
 stars: "4/5"
+category: "movies"
 title: "Eterno Amor"
 _title: "Un long dimanche de fiançailles"
 _year: "2004"

@@ -1,6 +1,7 @@
 ---
 imdb: "3317522"
 stars: "3/5"
+category: "movies"
 title: "The Nightmare"
 _title: "The Nightmare"
 _year: "2015"

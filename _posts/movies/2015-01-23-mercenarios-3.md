@@ -2,6 +2,7 @@
 imdb: "2333784"
 title: "Os Mercenários 3"
 stars: "3/5"
+category: "movies"
 _title: "The Expendables 3"
 _year: "2014"
 _director: ["Patrick Hughes", ]

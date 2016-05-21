@@ -2,6 +2,7 @@
 imdb: "1067583"
 title: "Água para Elefantes"
 stars: "3/5"
+category: "movies"
 _title: "Water for Elephants"
 _year: "2011"
 _director: ["Francis Lawrence", ]

@@ -1,6 +1,7 @@
 ---
 imdb: "1200060"
 stars: "4/5"
+category: "movies"
 title: "The English Surgeon"
 _title: "The English Surgeon"
 _year: "2007"

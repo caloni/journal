@@ -2,6 +2,7 @@
 imdb: "0052893"
 title: "Hiroshima Meu Amor"
 stars: "3/5"
+category: "movies"
 _title: "Hiroshima mon amour"
 _year: "1959"
 _director: ["Alain Resnais", ]

@@ -2,6 +2,7 @@
 imdb: "0166924"
 title: "Cidade dos Sonhos"
 stars: "5/5"
+category: "movies"
 _title: "Mulholland Dr."
 _year: "2001"
 _director: ["David Lynch", ]

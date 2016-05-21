@@ -2,6 +2,7 @@
 imdb: "2397535"
 title: "O Predestinado"
 stars: "5/5"
+category: "movies"
 _title: "Predestination"
 _year: "2014"
 _director: ["Michael Spierig", "Peter Spierig", ]

@@ -1,6 +1,7 @@
 ---
 imdb: "0096283"
 stars: "5/5"
+category: "movies"
 title: "Meu Amigo Totoro"
 _title: "Tonari no Totoro"
 _year: "1988"

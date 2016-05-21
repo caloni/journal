@@ -1,6 +1,7 @@
 ---
 imdb: "3118874"
 stars: "2/5"
+category: "movies"
 title: "Back in Time"
 _title: "Back in Time"
 _year: "2015"

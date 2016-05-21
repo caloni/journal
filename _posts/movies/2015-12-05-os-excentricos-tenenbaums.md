@@ -1,6 +1,7 @@
 ---
 imdb: "0265666"
 stars: "4/5"
+category: "movies"
 title: "Os Excêntricos Tenenbaums"
 _title: "The Royal Tenenbaums"
 _year: "2001"

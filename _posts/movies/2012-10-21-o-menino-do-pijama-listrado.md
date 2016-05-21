@@ -2,6 +2,7 @@
 imdb: "0914798"
 title: "O Menino do Pijama Listrado"
 stars: "4/5"
+category: "movies"
 _title: "The Boy in the Striped Pyjamas"
 _year: "2008"
 _director: ["Mark Herman", ]

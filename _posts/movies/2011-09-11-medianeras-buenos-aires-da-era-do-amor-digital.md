@@ -3,6 +3,7 @@ imdb: "1235841"
 revision: [2013-12-30]
 title: "Medianeras Buenos Aires da Era do Amor Virtual"
 stars: "3/5"
+category: "movies"
 _title: "Medianeras"
 _year: "2011"
 _director: ["Gustavo Taretto", ]

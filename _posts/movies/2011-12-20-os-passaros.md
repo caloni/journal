@@ -2,6 +2,7 @@
 imdb: "0056869"
 title: "Os Pássaros"
 stars: "5/5"
+category: "movies"
 _title: "The Birds"
 _year: "1963"
 _director: ["Alfred Hitchcock", ]

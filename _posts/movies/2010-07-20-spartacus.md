@@ -2,6 +2,7 @@
 imdb: "0054331"
 title: "Spartacus"
 stars: "5/5"
+category: "movies"
 _title: "Spartacus"
 _year: "1960"
 _director: ["Stanley Kubrick", ]

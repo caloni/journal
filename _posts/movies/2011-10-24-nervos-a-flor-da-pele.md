@@ -2,6 +2,7 @@
 imdb: "1634524"
 title: "Jitters"
 stars: "3/5"
+category: "movies"
 _title: "Órói"
 _year: "2010"
 _director: ["Baldvin Zophoníasson", ]

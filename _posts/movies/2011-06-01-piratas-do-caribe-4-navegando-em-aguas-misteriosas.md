@@ -2,6 +2,7 @@
 imdb: "1298650"
 title: "Piratas do Caribe Navegando em Águas Misteriosas"
 stars: "2/5"
+category: "movies"
 _title: "Pirates of the Caribbean: On Stranger Tides"
 _year: "2011"
 _director: ["Rob Marshall", ]

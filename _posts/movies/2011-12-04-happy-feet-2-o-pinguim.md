@@ -2,6 +2,7 @@
 imdb: "1402488"
 title: "Happy Feet 2 O Pinguim"
 stars: "2/5"
+category: "movies"
 _title: "Happy Feet Two"
 _year: "2011"
 _director: ["George Miller", "Gary Eck", "David Peers", ]

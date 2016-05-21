@@ -2,6 +2,7 @@
 imdb: "0454876"
 title: "As Aventuras de Pi"
 stars: "3/5"
+category: "movies"
 _title: "Life of Pi"
 _year: "2012"
 _director: ["Ang Lee", ]

@@ -2,6 +2,7 @@
 imdb: "0041998"
 title: "Sede de Paixões"
 stars: "3/5"
+category: "movies"
 _title: "Törst"
 _year: "1949"
 _director: ["Ingmar Bergman", ]

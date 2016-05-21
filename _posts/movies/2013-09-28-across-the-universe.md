@@ -2,6 +2,7 @@
 imdb: "0445922"
 title: "Across the Universe"
 stars: "5/5"
+category: "movies"
 _title: "Across the Universe"
 _year: "2007"
 _director: ["Julie Taymor", ]

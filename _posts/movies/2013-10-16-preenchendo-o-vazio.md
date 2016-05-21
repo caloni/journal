@@ -2,6 +2,7 @@
 imdb: "2219514"
 title: "Preenchendo o Vazio"
 stars: "3/5"
+category: "movies"
 _title: "Lemale et ha'halal"
 _year: "2012"
 _director: ["Rama Burshtein", ]

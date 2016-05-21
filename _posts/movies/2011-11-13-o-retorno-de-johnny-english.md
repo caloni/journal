@@ -2,6 +2,7 @@
 imdb: "1634122"
 title: "O Retorno de Johnny English"
 stars: "3/5"
+category: "movies"
 _title: "Johnny English Reborn"
 _year: "2011"
 _director: ["Oliver Parker", ]

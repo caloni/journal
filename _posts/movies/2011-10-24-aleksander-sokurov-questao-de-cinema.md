@@ -2,6 +2,7 @@
 imdb: 4296736
 title: "Aleksander Sokurov Uma Questão de Cinema"
 stars: "3/5"
+category: "movies"
 _title: "Alexandre Sokurov: Questions de cinéma"
 _year: "2008"
 _director: ["Anne Imbert", ]

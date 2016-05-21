@@ -1,6 +1,7 @@
 ---
 imdb: "0061811"
 stars: "4/5"
+category: "movies"
 title: "No Calor da Noite"
 _title: "In the Heat of the Night"
 _year: "1967"

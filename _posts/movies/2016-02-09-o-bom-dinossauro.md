@@ -1,6 +1,7 @@
 ---
 imdb: "1979388"
 stars: "4/5"
+category: "movies"
 title: "O Bom Dinossauro"
 _title: "The Good Dinosaur"
 _year: "2015"

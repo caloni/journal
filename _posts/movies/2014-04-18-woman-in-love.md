@@ -2,6 +2,7 @@
 imdb: "1802810"
 title: "Woman in Love"
 stars: "3/5"
+category: "movies"
 _title: "Rubbeldiekatz"
 _year: "2011"
 _director: ["Detlev Buck", ]

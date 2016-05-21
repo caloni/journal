@@ -2,6 +2,7 @@
 imdb: "0047396"
 title: "Janela Indiscreta"
 stars: "4/5"
+category: "movies"
 _title: "Rear Window"
 _year: "1954"
 _director: ["Alfred Hitchcock", ]

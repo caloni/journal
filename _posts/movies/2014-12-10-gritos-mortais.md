@@ -2,6 +2,7 @@
 imdb: "0455760"
 title: "Gritos Mortais"
 stars: "3/5"
+category: "movies"
 _title: "Dead Silence"
 _year: "2007"
 _director: ["James Wan", ]

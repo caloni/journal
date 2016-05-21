@@ -1,6 +1,7 @@
 ---
 imdb: "2268016"
 stars: "3/5"
+category: "movies"
 title: "Magic Mike XXL"
 _title: "Magic Mike XXL"
 _year: "2015"

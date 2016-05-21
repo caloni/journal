@@ -2,6 +2,7 @@
 imdb: "0110912"
 title: "Pulp Fiction Tempo de Violência"
 stars: "5/5"
+category: "movies"
 _title: "Pulp Fiction"
 _year: "1994"
 _director: ["Quentin Tarantino", ]

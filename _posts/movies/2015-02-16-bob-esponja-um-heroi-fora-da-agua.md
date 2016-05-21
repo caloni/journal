@@ -2,6 +2,7 @@
 imdb: "2279373"
 title: "Bob Esponja: Um Herói Fora d'Água"
 stars: "4/5"
+category: "movies"
 _title: "The SpongeBob Movie: Sponge Out of Water"
 _year: "2015"
 _director: ["Paul Tibbitt", ]

@@ -2,6 +2,7 @@
 imdb: "1074638"
 title: "007 Operação Skyfall"
 stars: "5/5"
+category: "movies"
 _title: "Skyfall"
 _year: "2012"
 _director: ["Sam Mendes", ]

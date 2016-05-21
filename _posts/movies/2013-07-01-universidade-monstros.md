@@ -2,6 +2,7 @@
 imdb: "1453405"
 title: "Universidade Monstros"
 stars: "4/5"
+category: "movies"
 _title: "Monsters University"
 _year: "2013"
 _director: ["Dan Scanlon", ]

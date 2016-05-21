@@ -1,6 +1,7 @@
 ---
 imdb: "00054067"
 stars: "4/5"
+category: "movies"
 title: "A Maldição do Demônio"
 _title: "La maschera del demonio"
 _year: "1960"

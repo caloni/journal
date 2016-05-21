@@ -1,6 +1,7 @@
 ---
 imdb: "1024899"
 stars: "4/5"
+category: "movies"
 title: "Enfim Viúva"
 _title: "Enfin veuve"
 _year: "2007"

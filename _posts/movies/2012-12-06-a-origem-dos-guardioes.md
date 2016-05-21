@@ -2,6 +2,7 @@
 imdb: "1446192"
 title: "A Origem dos Guardiões"
 stars: "4/5"
+category: "movies"
 _title: "Rise of the Guardians"
 _year: "2012"
 _director: ["Peter Ramsey", ]

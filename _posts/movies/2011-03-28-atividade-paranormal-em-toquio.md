@@ -2,6 +2,7 @@
 title: "Atividade Paranormal Tóquio"
 imdb: "1728179"
 stars: "3/5"
+category: "movies"
 _title: "Paranômaru akutibiti: Dai-2-shô - Tokyo Night"
 _year: "2010"
 _director: ["Toshikazu Nagae", ]

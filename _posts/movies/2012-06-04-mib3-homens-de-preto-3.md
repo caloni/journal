@@ -2,6 +2,7 @@
 imdb: "1409024"
 title: "MIB Homens de Preto 3"
 stars: "3/5"
+category: "movies"
 _title: "Men in Black 3"
 _year: "2012"
 _director: ["Barry Sonnenfeld", ]

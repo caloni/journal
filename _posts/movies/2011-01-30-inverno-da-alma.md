@@ -2,6 +2,7 @@
 imdb: "1399683"
 title: "Inverno da Alma"
 stars: "4/5"
+category: "movies"
 _title: "Winter's Bone"
 _year: "2010"
 _director: ["Debra Granik", ]

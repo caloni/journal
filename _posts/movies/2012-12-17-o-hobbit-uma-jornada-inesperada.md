@@ -2,6 +2,7 @@
 imdb: "0903624"
 title: "O Hobbit Uma Jornada Inesperada"
 stars: "3/5"
+category: "movies"
 _title: "The Hobbit: An Unexpected Journey"
 _year: "2012"
 _director: ["Peter Jackson", ]

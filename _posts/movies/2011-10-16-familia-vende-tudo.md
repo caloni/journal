@@ -2,6 +2,7 @@
 title: "Família Vende Tudo"
 imdb: "2006109"
 stars: "2/5"
+category: "movies"
 _title: "Família Vende Tudo"
 _year: "2011"
 _director: ["Alain Fresnot", ]

@@ -2,6 +2,7 @@
 imdb: "1646975"
 title: "As Quatro Voltas"
 stars: "3/5"
+category: "movies"
 _title: "Le quattro volte"
 _year: "2010"
 _director: ["Michelangelo Frammartino", ]

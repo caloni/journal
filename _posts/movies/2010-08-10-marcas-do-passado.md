@@ -2,6 +2,7 @@
 imdb: "0432289"
 title: "Marcas do Passado"
 stars: "2/5"
+category: "movies"
 _title: "First Snow"
 _year: "2006"
 _director: ["Mark Fergus", ]

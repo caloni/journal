@@ -1,6 +1,7 @@
 ---
 imdb: "2800240"
 stars: "3/5"
+category: "movies"
 title: "Que Mal Eu Fiz a Deus?"
 _title: "Qu'est-ce qu'on a fait au Bon Dieu?"
 _year: "2014"

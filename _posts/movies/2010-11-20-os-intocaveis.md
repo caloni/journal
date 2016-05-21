@@ -2,6 +2,7 @@
 imdb: "0094226"
 title: "Os Intocáveis"
 stars: "5/5"
+category: "movies"
 _title: "The Untouchables"
 _year: "1987"
 _director: ["Brian De Palma", ]

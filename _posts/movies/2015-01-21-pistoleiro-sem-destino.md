@@ -2,6 +2,7 @@
 imdb: "0067204"
 title: "Pistoleiro Sem Destino"
 stars: "4/5"
+category: "movies"
 _title: "The Hired Hand"
 _year: "1971"
 _director: ["Peter Fonda", ]

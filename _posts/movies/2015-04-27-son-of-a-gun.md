@@ -1,6 +1,7 @@
 ---
 imdb: "2452200"
 stars: "3/5"
+category: "movies"
 title: "Son of a Gun"
 _title: "Son of a Gun"
 _year: "2014"

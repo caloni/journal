@@ -2,6 +2,7 @@
 imdb: "1277953"
 title: "Madagascar 3 Os Procurados"
 stars: "3/5"
+category: "movies"
 _title: "Madagascar 3: Europe's Most Wanted"
 _year: "2012"
 _director: ["Eric Darnell", "Tom McGrath", "Conrad Vernon", ]

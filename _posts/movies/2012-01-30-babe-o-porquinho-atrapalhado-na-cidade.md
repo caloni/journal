@@ -2,6 +2,7 @@
 imdb: "0120595"
 title: "Babe O Porquinho Atrapalhado na Cidade"
 stars: "4/5"
+category: "movies"
 _title: "Babe: Pig in the City"
 _year: "1998"
 _director: ["George Miller", ]

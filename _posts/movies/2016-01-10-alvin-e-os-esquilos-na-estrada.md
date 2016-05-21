@@ -1,6 +1,7 @@
 ---
 imdb: "2974918"
 stars: "2/5"
+category: "movies"
 title: "Alvin e os Esquilos: Na Estrada"
 _title: "Alvin and the Chipmunks: The Road Chip"
 _year: "2015"

@@ -2,6 +2,7 @@
 imdb: "1266029"
 title: "O Garoto de Liverpool"
 stars: "3/5"
+category: "movies"
 _title: "Nowhere Boy"
 _year: "2009"
 _director: ["Sam Taylor-Johnson", ]

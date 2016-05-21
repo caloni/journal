@@ -1,6 +1,7 @@
 ---
 imdb: "3956754"
 stars: "4/5"
+category: "movies"
 title: "A Vida Privada dos Hipopótamos"
 _title: "A vida privada dos hipopótamos"
 _year: "2014"

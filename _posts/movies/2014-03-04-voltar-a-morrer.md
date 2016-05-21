@@ -2,6 +2,7 @@
 imdb: "0101669"
 title: "Voltar a Morrer"
 stars: "3/5"
+category: "movies"
 _title: "Dead Again"
 _year: "1991"
 _director: ["Kenneth Branagh", ]

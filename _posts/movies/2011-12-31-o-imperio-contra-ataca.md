@@ -2,6 +2,7 @@
 imdb: "0080684"
 title: "Star Wars Episódio V O Império Contra-Ataca"
 stars: "4/5"
+category: "movies"
 _title: "Star Wars: Episode V - The Empire Strikes Back"
 _year: "1980"
 _director: ["Irvin Kershner", ]

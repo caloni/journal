@@ -2,6 +2,7 @@
 imdb: "0947798"
 title: "Cisne Negro"
 stars: "5/5"
+category: "movies"
 _title: "Black Swan"
 _year: "2010"
 _director: ["Darren Aronofsky", ]

@@ -2,6 +2,7 @@
 imdb: "2327430"
 title: "Liv e Igmar Uma História de Amor"
 stars: "3/5"
+category: "movies"
 _title: "Liv & Ingmar"
 _year: "2012"
 _director: ["Dheeraj Akolkar", ]

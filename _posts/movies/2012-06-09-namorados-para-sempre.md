@@ -2,6 +2,7 @@
 imdb: "1120985"
 title: "Namorados Para Sempre"
 stars: "5/5"
+category: "movies"
 _title: "Blue Valentine"
 _year: "2010"
 _director: ["Derek Cianfrance", ]

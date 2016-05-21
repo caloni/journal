@@ -2,6 +2,7 @@
 imdb: "1318514"
 title: "Planeta dos Macacos A Origem"
 stars: "5/5"
+category: "movies"
 revision: [2016-01-23]
 _title: "Rise of the Planet of the Apes"
 _year: "2011"

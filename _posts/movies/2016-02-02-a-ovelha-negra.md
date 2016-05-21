@@ -1,6 +1,7 @@
 ---
 imdb: "3296658"
 stars: "4/5"
+category: "movies"
 title: "A Ovelha Negra"
 _title: "Hrútar"
 _year: "2015"

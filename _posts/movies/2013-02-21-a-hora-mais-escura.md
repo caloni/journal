@@ -2,6 +2,7 @@
 imdb: "1790885"
 title: "A Hora Mais Escura"
 stars: "4/5"
+category: "movies"
 _title: "Zero Dark Thirty"
 _year: "2012"
 _director: ["Kathryn Bigelow", ]

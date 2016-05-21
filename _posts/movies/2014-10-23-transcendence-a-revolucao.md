@@ -2,6 +2,7 @@
 imdb: "2209764"
 title: "Transcendence: A Revolução"
 stars: "4/5"
+category: "movies"
 _title: "Transcendence"
 _year: "2014"
 _director: ["Wally Pfister", ]

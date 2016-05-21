@@ -2,6 +2,7 @@
 title: "Minúsculos O Filme"
 imdb: "2368672"
 stars: "5/5"
+category: "movies"
 _title: "Minuscule - La vallée des fourmis perdues"
 _year: "2013"
 _director: ["Hélène Giraud", "Thomas Szabo", ]

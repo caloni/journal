@@ -2,6 +2,7 @@
 imdb: "0366551"
 title: "Madrugada Muito Louca"
 stars: "3/5"
+category: "movies"
 _title: "Harold & Kumar Go to White Castle"
 _year: "2004"
 _director: ["Danny Leiner", ]

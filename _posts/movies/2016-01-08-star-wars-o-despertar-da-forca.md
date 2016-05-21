@@ -1,6 +1,7 @@
 ---
 imdb: "2488496"
 stars: "4/5"
+category: "movies"
 title: "Star Wars: O Despertar da Força"
 revision: ["2016-01-15"]
 _title: "Star Wars: The Force Awakens"

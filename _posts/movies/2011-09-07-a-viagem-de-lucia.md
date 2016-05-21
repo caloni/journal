@@ -2,6 +2,7 @@
 imdb: "1463167"
 title: "A Viagem de Lucia"
 stars: "3/5"
+category: "movies"
 _title: "Il richiamo"
 _year: "2009"
 _director: ["Stefano Pasetto", ]

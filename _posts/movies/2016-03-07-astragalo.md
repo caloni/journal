@@ -1,6 +1,7 @@
 ---
 imdb: "3712088"
 stars: "3/5"
+category: "movies"
 title: "Astrágalo"
 _title: "L'astragale"
 _year: "2015"

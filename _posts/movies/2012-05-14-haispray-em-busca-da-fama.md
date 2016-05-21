@@ -2,6 +2,7 @@
 imdb: "0427327"
 title: "Hairspray Em Busca da Fama"
 stars: "3/5"
+category: "movies"
 _title: "Hairspray"
 _year: "2007"
 _director: ["Adam Shankman", ]

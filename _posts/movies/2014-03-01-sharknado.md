@@ -2,6 +2,7 @@
 imdb: "2724064"
 title: "Sharknado"
 stars: "1/5"
+category: "movies"
 _title: "Sharknado"
 _year: "2013"
 _director: ["Anthony C. Ferrante", ]

@@ -2,6 +2,7 @@
 imdb: "0112431"
 title: "Babe O Porquinho Atrapalhado"
 stars: "5/5"
+category: "movies"
 _title: "Babe"
 _year: "1995"
 _director: ["Chris Noonan", ]

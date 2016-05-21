@@ -2,6 +2,7 @@
 imdb: "1259521"
 title: "O Segredo da Cabana"
 stars: "4/5"
+category: "movies"
 _title: "The Cabin in the Woods"
 _year: "2012"
 _director: ["Drew Goddard", ]

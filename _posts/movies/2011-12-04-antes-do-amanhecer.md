@@ -2,6 +2,7 @@
 imdb: "0112471"
 title: "Antes do Amanhecer"
 stars: "5/5"
+category: "movies"
 _title: "Before Sunrise"
 _year: "1995"
 _director: ["Richard Linklater", ]

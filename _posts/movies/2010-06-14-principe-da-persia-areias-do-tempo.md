@@ -2,6 +2,7 @@
 imdb: "0473075"
 title: "Príncipe da Pérsia As Areias do Tempo"
 stars: "3/5"
+category: "movies"
 _title: "Prince of Persia: The Sands of Time"
 _year: "2010"
 _director: ["Mike Newell", ]

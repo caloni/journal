@@ -2,6 +2,7 @@
 imdb: "0091042"
 title: "Curtindo a Vida Adoidado"
 stars: "5/5"
+category: "movies"
 _title: "Ferris Bueller's Day Off"
 _year: "1986"
 _director: ["John Hughes", ]

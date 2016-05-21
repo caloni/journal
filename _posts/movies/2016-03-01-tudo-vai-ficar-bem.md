@@ -1,6 +1,7 @@
 ---
 imdb: "1707380"
 stars: "4/5"
+category: "movies"
 title: "Tudo Vai Ficar Bem"
 _title: "Every Thing Will Be Fine"
 _year: "2015"

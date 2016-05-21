@@ -2,6 +2,7 @@
 imdb: "2582846"
 title: "A Culpa é das Estrelas"
 stars: "5/5"
+category: "movies"
 _title: "The Fault in Our Stars"
 _year: "2014"
 _director: ["Josh Boone", ]

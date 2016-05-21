@@ -2,6 +2,7 @@
 imdb: "1307010"
 title: "Shocking Blue"
 stars: "3/5"
+category: "movies"
 _title: "Shocking Blue"
 _year: "2010"
 _director: ["Mark de Cloe", ]

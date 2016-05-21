@@ -2,6 +2,7 @@
 imdb: "0337909"
 title: "Garotas do Calendário"
 stars: "2/5"
+category: "movies"
 _title: "Calendar Girls"
 _year: "2003"
 _director: ["Nigel Cole", ]

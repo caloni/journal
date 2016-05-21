@@ -1,6 +1,7 @@
 ---
 imdb: "0066765"
 stars: "3/5"
+category: "movies"
 title: "E Agora para Algo Completamente Diferente"
 _title: "And Now for Something Completely Different"
 _year: "1971"

@@ -1,6 +1,7 @@
 ---
 imdb: "5026038"
 stars: "4/5"
+category: "movies"
 title: "Reza a Lenda"
 _title: "Reza a Lenda"
 _year: "2016"

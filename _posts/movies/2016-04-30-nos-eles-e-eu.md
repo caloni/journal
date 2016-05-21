@@ -1,6 +1,7 @@
 ---
 imdb: "4598764"
 stars: "3/5"
+category: "movies"
 title: "Nós, Eles e Eu"
 _title: "NEY: Nosotros, ellos y yo"
 _year: "2015"

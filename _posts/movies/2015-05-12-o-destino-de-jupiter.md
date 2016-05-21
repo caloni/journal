@@ -1,6 +1,7 @@
 ---
 imdb: "1617661"
 stars: "3/5"
+category: "movies"
 title: "O Destino de Júpiter"
 _title: "Jupiter Ascending"
 _year: "2015"

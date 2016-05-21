@@ -1,6 +1,7 @@
 ---
 imdb: "0185431"
 stars: "3/5"
+category: "movies"
 title: "Little Nick - Um Diabo Diferente"
 _title: "Little Nicky"
 _year: "2000"

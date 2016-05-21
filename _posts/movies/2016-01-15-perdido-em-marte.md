@@ -1,6 +1,7 @@
 ---
 imdb: "3659388"
 stars: "5/5"
+category: "movies"
 title: "Perdido em Marte"
 _title: "The Martian"
 _year: "2015"

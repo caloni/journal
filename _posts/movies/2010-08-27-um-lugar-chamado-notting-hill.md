@@ -2,6 +2,7 @@
 imdb: "0125439"
 title: "Um Lugar Chamado Notting Hill"
 stars: "4/5"
+category: "movies"
 _title: "Notting Hill"
 _year: "1999"
 _director: ["Roger Michell", ]

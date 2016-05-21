@@ -2,6 +2,7 @@
 imdb: "0059742"
 title: "A Noviça Rebelde"
 stars: "5/5"
+category: "movies"
 _title: "The Sound of Music"
 _year: "1965"
 _director: ["Robert Wise", ]

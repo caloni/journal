@@ -1,6 +1,7 @@
 ---
 imdb: "2027140"
 stars: "5/5"
+category: "movies"
 title: "A Espuma dos Dias"
 _title: "L'écume des jours"
 _year: "2013"

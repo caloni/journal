@@ -2,6 +2,7 @@
 imdb: "1340800"
 title: "O Espião Que Sabia Demais"
 stars: "4/5"
+category: "movies"
 _title: "Tinker Tailor Soldier Spy"
 _year: "2011"
 _director: ["Tomas Alfredson", ]

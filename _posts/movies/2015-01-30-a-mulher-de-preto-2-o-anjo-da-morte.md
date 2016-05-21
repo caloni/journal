@@ -2,6 +2,7 @@
 imdb: "2339741"
 title: "A Mulher de Preto 2: O Anjo da Morte"
 stars: "2/5"
+category: "movies"
 _title: "The Woman in Black 2: Angel of Death"
 _year: "2014"
 _director: ["Tom Harper", ]

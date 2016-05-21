@@ -2,6 +2,7 @@
 imdb: "1320253"
 title: "Os Mercenários"
 stars: "2/5"
+category: "movies"
 _title: "The Expendables"
 _year: "2010"
 _director: ["Sylvester Stallone", ]

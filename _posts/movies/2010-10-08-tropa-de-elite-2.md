@@ -2,6 +2,7 @@
 imdb: "1555149"
 title: "Tropa de Elite 2 O Inimigo Agora É Outro"
 stars: "5/5"
+category: "movies"
 _title: "Tropa de Elite 2: O Inimigo Agora é Outro"
 _year: "2010"
 _director: ["José Padilha", ]

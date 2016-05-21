@@ -2,6 +2,7 @@
 imdb: "1621039"
 title: "Free Birds"
 stars: "3/5"
+category: "movies"
 _title: "Free Birds"
 _year: "2013"
 _director: ["Jimmy Hayward", ]

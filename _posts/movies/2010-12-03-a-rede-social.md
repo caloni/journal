@@ -2,6 +2,7 @@
 imdb: "1285016"
 title: "A Rede Social"
 stars: "4/5"
+category: "movies"
 _title: "The Social Network"
 _year: "2010"
 _director: ["David Fincher", ]

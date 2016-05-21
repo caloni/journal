@@ -2,6 +2,7 @@
 imdb: "0092005"
 title: "Conta Comigo"
 stars: "5/5"
+category: "movies"
 _title: "Stand by Me"
 _year: "1986"
 _director: ["Rob Reiner", ]

@@ -2,6 +2,7 @@
 imdb: "0085407"
 title: "A Hora da Zona Morta"
 stars: "4/5"
+category: "movies"
 _title: "The Dead Zone"
 _year: "1983"
 _director: ["David Cronenberg", ]

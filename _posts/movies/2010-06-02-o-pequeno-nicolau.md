@@ -3,6 +3,7 @@ imdb: "1264904"
 revision: [2013-12-29]
 title: "O Pequeno Nicolau"
 stars: "3/5"
+category: "movies"
 _title: "Le petit Nicolas"
 _year: "2009"
 _director: ["Laurent Tirard", ]

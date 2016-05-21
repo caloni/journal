@@ -2,6 +2,7 @@
 imdb: "1131734"
 title: "Garota Infernal"
 stars: "2/5"
+category: "movies"
 _title: "Jennifer's Body"
 _year: "2009"
 _director: ["Karyn Kusama", ]

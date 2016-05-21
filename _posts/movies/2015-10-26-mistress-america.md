@@ -1,6 +1,7 @@
 ---
 imdb: "2872462"
 stars: "5/5"
+category: "movies"
 title: "Mistress America"
 _title: "Mistress America"
 _year: "2015"

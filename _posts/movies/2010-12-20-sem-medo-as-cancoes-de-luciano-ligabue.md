@@ -2,6 +2,7 @@
 imdb: "1694539"
 title: "Sem Medo As Canções De Luciano Ligabue"
 stars: "3/5"
+category: "movies"
 _title: "Niente paura"
 _year: "2010"
 _director: ["Piergiorgio Gay", ]

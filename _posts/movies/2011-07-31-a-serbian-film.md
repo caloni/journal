@@ -2,6 +2,7 @@
 imdb: "1273235"
 title: "A Serbian Film Terror sem Limites"
 stars: "4/5"
+category: "movies"
 _title: "Srpski film"
 _year: "2010"
 _director: ["Srdjan Spasojevic", ]

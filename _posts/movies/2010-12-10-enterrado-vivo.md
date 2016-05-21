@@ -1,6 +1,7 @@
 ---
 imdb: "1462758"
 stars: "4/5"
+category: "movies"
 title: "Enterrado vivo"
 _title: "Buried"
 _year: "2010"

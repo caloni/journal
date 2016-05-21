@@ -2,6 +2,7 @@
 imdb: "1124035"
 title: "Tudo pelo Poder"
 stars: "5/5"
+category: "movies"
 _title: "The Ides of March"
 _year: "2011"
 _director: ["George Clooney", ]

@@ -2,6 +2,7 @@
 imdb: "2545118"
 title: "Blackfish: Fúria Animal"
 stars: "5/5"
+category: "movies"
 _title: "Blackfish"
 _year: "2013"
 _director: ["Gabriela Cowperthwaite", ]

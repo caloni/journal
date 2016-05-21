@@ -2,6 +2,7 @@
 imdb: "0963966"
 title: "O Aprendiz de Feiticeiro"
 stars: "3/5"
+category: "movies"
 _title: "The Sorcerer's Apprentice"
 _year: "2010"
 _director: ["Jon Turteltaub", ]

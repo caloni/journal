@@ -2,6 +2,7 @@
 imdb: "2788710"
 title: "A Entrevista"
 stars: "2/5"
+category: "movies"
 _title: "The Interview"
 _year: "2014"
 _director: ["Evan Goldberg", "Seth Rogen", ]

@@ -2,6 +2,7 @@
 imdb: "2076220"
 title: "Holy Motors"
 stars: "5/5"
+category: "movies"
 _title: "Holy Motors"
 _year: "2012"
 _director: ["Leos Carax", ]

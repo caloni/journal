@@ -2,6 +2,7 @@
 imdb: "0219822"
 title: "Natureza Quase Humana"
 stars: "4/5"
+category: "movies"
 _title: "Human Nature"
 _year: "2001"
 _director: ["Michel Gondry", ]

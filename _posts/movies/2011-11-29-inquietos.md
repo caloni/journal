@@ -2,6 +2,7 @@
 imdb: "1498569"
 title: "Inquietos"
 stars: "4/5"
+category: "movies"
 _title: "Restless"
 _year: "2011"
 _director: ["Gus Van Sant", ]

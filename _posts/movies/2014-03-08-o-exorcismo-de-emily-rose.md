@@ -2,6 +2,7 @@
 imdb: "0404032"
 title: "O Exorcismo de Emily Rose"
 stars: "4/5"
+category: "movies"
 _title: "The Exorcism of Emily Rose"
 _year: "2005"
 _director: ["Scott Derrickson", ]

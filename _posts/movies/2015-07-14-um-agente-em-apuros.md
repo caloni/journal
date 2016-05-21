@@ -2,6 +2,7 @@
 imdb: "0283534"
 review-title: "Lembra dessa comédia que passou no SBT essas noites?"
 stars: "3/5"
+category: "movies"
 title: "Um Agente em Apuros"
 _title: "The Parole Officer"
 _year: "2001"

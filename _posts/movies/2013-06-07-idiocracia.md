@@ -2,6 +2,7 @@
 imdb: "0387808"
 title: "Idiocracia"
 stars: "4/5"
+category: "movies"
 _title: "Idiocracy"
 _year: "2006"
 _director: ["Mike Judge", ]

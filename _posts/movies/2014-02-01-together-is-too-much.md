@@ -2,6 +2,7 @@
 title: "Together Is Too Much"
 imdb: "1570577"
 stars: "3/5"
+category: "movies"
 _title: "Ensemble, c'est trop"
 _year: "2010"
 _director: ["Léa Fazer", ]

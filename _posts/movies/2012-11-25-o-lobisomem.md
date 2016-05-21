@@ -2,6 +2,7 @@
 imdb: "0780653"
 title: "O Lobisomem"
 stars: "3/5"
+category: "movies"
 _title: "The Wolfman"
 _year: "2010"
 _director: ["Joe Johnston", ]

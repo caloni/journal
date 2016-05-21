@@ -2,6 +2,7 @@
 imdb: "0480687"
 title: "Passe Livre"
 stars: "4/5"
+category: "movies"
 _title: "Hall Pass"
 _year: "2011"
 _director: ["Bobby Farrelly", "Peter Farrelly", ]

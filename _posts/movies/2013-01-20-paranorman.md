@@ -2,6 +2,7 @@
 imdb: "1623288"
 title: "ParaNorman"
 stars: "3/5"
+category: "movies"
 _title: "ParaNorman"
 _year: "2012"
 _director: ["Chris Butler", "Sam Fell", ]

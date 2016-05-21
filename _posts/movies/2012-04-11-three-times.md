@@ -2,6 +2,7 @@
 imdb: "0459666"
 title: "Three Times"
 stars: "4/5"
+category: "movies"
 _title: "Zui hao de shi guang"
 _year: "2005"
 _director: ["Hsiao-Hsien Hou", ]

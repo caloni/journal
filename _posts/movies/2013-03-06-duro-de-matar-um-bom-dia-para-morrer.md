@@ -2,6 +2,7 @@
 imdb: "1606378"
 title: "Duro de Matar Um Bom Dia para Morrer"
 stars: "2/5"
+category: "movies"
 _title: "A Good Day to Die Hard"
 _year: "2013"
 _director: ["John Moore", ]

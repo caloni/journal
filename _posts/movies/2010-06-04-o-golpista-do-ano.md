@@ -2,6 +2,7 @@
 imdb: "1045772"
 title: "O Golpista do Ano"
 stars: "4/5"
+category: "movies"
 _title: "I Love You Phillip Morris"
 _year: "2009"
 _director: ["Glenn Ficarra", "John Requa", ]

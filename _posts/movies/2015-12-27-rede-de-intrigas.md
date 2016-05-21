@@ -1,6 +1,7 @@
 ---
 imdb: "0074958"
 stars: "5/5"
+category: "movies"
 title: "Rede de Intrigas"
 _title: "Network"
 _year: "1976"

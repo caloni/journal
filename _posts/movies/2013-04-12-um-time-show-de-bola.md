@@ -2,6 +2,7 @@
 imdb: "1634003"
 title: "Um Time Show de Bola"
 stars: "3/5"
+category: "movies"
 _title: "Metegol"
 _year: "2013"
 _director: ["Juan José Campanella", ]

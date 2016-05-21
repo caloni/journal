@@ -2,6 +2,7 @@
 imdb: "2639344"
 title: "O Amor é Estranho"
 stars: "4/5"
+category: "movies"
 _title: "Love Is Strange"
 _year: "2014"
 _director: ["Ira Sachs", ]

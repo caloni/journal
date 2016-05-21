@@ -2,6 +2,7 @@
 imdb: "2446192"
 title: "Bronies The Extremely Unexpected Adult Fans of My Little Pony"
 stars: "3/5"
+category: "movies"
 _title: "Bronies: The Extremely Unexpected Adult Fans of My Little Pony"
 _year: "2012"
 _director: ["Laurent Malaquais", ]

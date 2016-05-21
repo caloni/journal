@@ -2,6 +2,7 @@
 title: "Vamos nos Conformar"
 imdb: "2186866"
 stars: "3/5"
+category: "movies"
 _title: "Adat mikonim"
 _year: "2009"
 _director: ["Mohsen Ostad ali Makhmalbaf", ]

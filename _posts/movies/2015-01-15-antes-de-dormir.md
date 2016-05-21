@@ -2,6 +2,7 @@
 imdb: "1726592"
 title: "Antes de Dormir"
 stars: "3/5"
+category: "movies"
 _title: "Before I Go to Sleep"
 _year: "2014"
 _director: ["Rowan Joffe", ]

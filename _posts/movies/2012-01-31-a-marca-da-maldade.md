@@ -2,6 +2,7 @@
 imdb: "0052311"
 title: "A Marca da Maldade"
 stars: "4/5"
+category: "movies"
 _title: "Touch of Evil"
 _year: "1958"
 _director: ["Orson Welles", ]

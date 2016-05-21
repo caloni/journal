@@ -2,6 +2,7 @@
 imdb: "0864835"
 title: "Mr. Peabody e Sherman"
 stars: "4/5"
+category: "movies"
 _title: "Mr. Peabody & Sherman"
 _year: "2014"
 _director: ["Rob Minkoff", ]

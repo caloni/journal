@@ -1,6 +1,7 @@
 ---
 imdb: "2200144"
 stars: "4/5"
+category: "movies"
 title: "Demi-soeur"
 _title: "Demi-soeur"
 _year: "2013"

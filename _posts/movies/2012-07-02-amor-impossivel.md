@@ -2,6 +2,7 @@
 imdb: "1441952"
 title: "Amor Impossível"
 stars: "3/5"
+category: "movies"
 _title: "Salmon Fishing in the Yemen"
 _year: "2011"
 _director: ["Lasse Hallström", ]

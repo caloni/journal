@@ -2,6 +2,7 @@
 imdb: "1778304"
 title: "Atividade Paranormal 3"
 stars: "3/5"
+category: "movies"
 _title: "Paranormal Activity 3"
 _year: "2011"
 _director: ["Henry Joost", "Ariel Schulman", ]

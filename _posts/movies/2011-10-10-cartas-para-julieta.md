@@ -2,6 +2,7 @@
 imdb: "0892318"
 title: "Cartas Para Julieta"
 stars: "2/5"
+category: "movies"
 _title: "Letters to Juliet"
 _year: "2010"
 _director: ["Gary Winick", ]

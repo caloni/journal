@@ -2,6 +2,7 @@
 imdb: "0805564"
 title: "A Garota Ideal"
 stars: "4/5"
+category: "movies"
 _title: "Lars and the Real Girl"
 _year: "2007"
 _director: ["Craig Gillespie", ]

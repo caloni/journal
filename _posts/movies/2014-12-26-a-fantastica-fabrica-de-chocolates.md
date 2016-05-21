@@ -2,6 +2,7 @@
 imdb: "0067992"
 title: "A Fantástica Fábrica de Chocolate"
 stars: "5/5"
+category: "movies"
 _title: "Willy Wonka & the Chocolate Factory"
 _year: "1971"
 _director: ["Mel Stuart", ]

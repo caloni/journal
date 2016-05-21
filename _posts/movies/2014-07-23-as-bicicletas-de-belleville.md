@@ -2,6 +2,7 @@
 imdb: "0286244"
 title: "As Bicicletas de Belleville"
 stars: "5/5"
+category: "movies"
 _title: "Les triplettes de Belleville"
 _year: "2003"
 _director: ["Sylvain Chomet", ]

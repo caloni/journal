@@ -2,6 +2,7 @@
 imdb: "0042546"
 title: "Meu Amigo Harvey"
 stars: "5/5"
+category: "movies"
 _title: "Harvey"
 _year: "1950"
 _director: ["Henry Koster", ]

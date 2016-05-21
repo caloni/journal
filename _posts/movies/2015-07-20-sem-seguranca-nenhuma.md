@@ -1,6 +1,7 @@
 ---
 imdb: "1862079"
 stars: "3/5"
+category: "movies"
 title: "Sem Segurança Nenhuma"
 _title: "Safety Not Guaranteed"
 _year: "2012"

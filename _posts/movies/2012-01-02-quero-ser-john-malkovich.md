@@ -2,6 +2,7 @@
 imdb: "0120601"
 title: "Quero Ser John Malkovich"
 stars: "5/5"
+category: "movies"
 _title: "Being John Malkovich"
 _year: "1999"
 _director: ["Spike Jonze", ]

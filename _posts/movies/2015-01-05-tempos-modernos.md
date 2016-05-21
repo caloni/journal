@@ -2,6 +2,7 @@
 imdb: "0027977"
 title: "Tempos Modernos"
 stars: "5/5"
+category: "movies"
 _title: "Modern Times"
 _year: "1936"
 _director: ["Charles Chaplin", ]

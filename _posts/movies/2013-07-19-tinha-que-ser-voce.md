@@ -2,6 +2,7 @@
 imdb: "1046947"
 title: "Tinha Que Ser Você"
 stars: "4/5"
+category: "movies"
 _title: "Last Chance Harvey"
 _year: "2008"
 _director: ["Joel Hopkins", ]

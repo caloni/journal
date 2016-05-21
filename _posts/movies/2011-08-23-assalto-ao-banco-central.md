@@ -2,6 +2,7 @@
 title: "Assalto ao Banco Central"
 imdb: "1579223"
 stars: "2/5"
+category: "movies"
 _title: "Assalto ao Banco Central"
 _year: "2011"
 _director: ["Marcos Paulo", ]

@@ -2,6 +2,7 @@
 imdb: "0091188"
 title: "A Difícil Arte de Amar"
 stars: "3/5"
+category: "movies"
 _title: "Heartburn"
 _year: "1986"
 _director: ["Mike Nichols", ]

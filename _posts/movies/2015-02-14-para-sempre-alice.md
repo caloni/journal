@@ -2,6 +2,7 @@
 imdb: "3316960"
 title: "Para Sempre Alice"
 stars: "4/5"
+category: "movies"
 _title: "Still Alice"
 _year: "2014"
 _director: ["Richard Glatzer", "Wash Westmoreland", ]

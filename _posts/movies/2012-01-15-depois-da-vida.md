@@ -2,6 +2,7 @@
 imdb: "0165078"
 title: "Depois da Vida"
 stars: "3/5"
+category: "movies"
 _title: "Wandâfuru raifu"
 _year: "1998"
 _director: ["Hirokazu Koreeda", ]

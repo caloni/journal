@@ -2,6 +2,7 @@
 imdb: "0445620"
 title: "Paradise Now"
 stars: "3/5"
+category: "movies"
 _title: "Paradise Now"
 _year: "2005"
 _director: ["Hany Abu-Assad", ]

@@ -4,6 +4,7 @@ title: "De Volta para o Futuro Parte III"
 date: 2016-03-20
 revision: [2016-03-18]
 stars: "5/5"
+category: "movies"
 _title: "Back to the Future Part III"
 _year: "1990"
 _director: ["Robert Zemeckis", ]

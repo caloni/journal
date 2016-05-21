@@ -2,6 +2,7 @@
 imdb: "0087755"
 title: "Os Muppets Conquistam Nova Iorque"
 stars: "4/5"
+category: "movies"
 _title: "The Muppets Take Manhattan"
 _year: "1984"
 _director: ["Frank Oz", ]

@@ -2,6 +2,7 @@
 imdb: "0479997"
 title: "Caça às Bruxas"
 stars: "3/5"
+category: "movies"
 _title: "Season of the Witch"
 _year: "2011"
 _director: ["Dominic Sena", ]

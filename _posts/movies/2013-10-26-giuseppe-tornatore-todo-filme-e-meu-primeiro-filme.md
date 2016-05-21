@@ -2,6 +2,7 @@
 imdb: "3031762"
 title: "Giuseppe Tornatore Todo Filme é Meu Primeiro Filme"
 stars: "3/5"
+category: "movies"
 _title: "Giuseppe Tornatore - Ogni film un'opera prima"
 _year: "2012"
 _director: ["Luciano Barcaroli", "Gerardo Panichi", ]

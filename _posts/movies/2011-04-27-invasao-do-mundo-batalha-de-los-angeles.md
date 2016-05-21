@@ -2,6 +2,7 @@
 imdb: "1217613"
 title: "Invasão do Mundo Batalha de Los Angeles"
 stars: "3/5"
+category: "movies"
 _title: "Battle Los Angeles"
 _year: "2011"
 _director: ["Jonathan Liebesman", ]

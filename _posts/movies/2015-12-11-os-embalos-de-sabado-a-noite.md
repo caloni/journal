@@ -1,6 +1,7 @@
 ---
 imdb: "0076666"
 stars: "5/5"
+category: "movies"
 title: "Os Embalos de Sábado à Noite"
 _title: "Saturday Night Fever"
 _year: "1977"

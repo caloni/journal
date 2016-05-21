@@ -2,6 +2,7 @@
 imdb: "0104815"
 title: "O Mariachi"
 stars: "4/5"
+category: "movies"
 _title: "El mariachi"
 _year: "1992"
 _director: ["Robert Rodriguez", ]

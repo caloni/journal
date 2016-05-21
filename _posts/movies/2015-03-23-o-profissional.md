@@ -1,6 +1,7 @@
 ---
 imdb: "0110413"
 stars: "5/5"
+category: "movies"
 title: "O Profissional"
 _title: "Léon"
 _year: "1994"

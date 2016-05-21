@@ -2,6 +2,7 @@
 imdb: "1588398"
 title: "Beleza Adormecida"
 stars: "4/5"
+category: "movies"
 _title: "Sleeping Beauty"
 _year: "2011"
 _director: ["Julia Leigh", ]

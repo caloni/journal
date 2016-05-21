@@ -2,6 +2,7 @@
 imdb: "0758752"
 title: "Amor e Outras Drogas"
 stars: "3/5"
+category: "movies"
 _title: "Love & Other Drugs"
 _year: "2010"
 _director: ["Edward Zwick", ]

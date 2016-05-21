@@ -1,6 +1,7 @@
 ---
 imdb: "0082912"
 stars: "5/5"
+category: "movies"
 title: "Pixote: A Lei do Mais Fraco"
 _title: "Pixote: A Lei do Mais Fraco"
 _year: "1981"

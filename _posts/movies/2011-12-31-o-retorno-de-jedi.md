@@ -2,6 +2,7 @@
 imdb: "0086190"
 title: "Star Wars Episódio VI O Retorno do Jedi"
 stars: "4/5"
+category: "movies"
 _title: "Star Wars: Episode VI - Return of the Jedi"
 _year: "1983"
 _director: ["Richard Marquand", ]

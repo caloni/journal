@@ -2,6 +2,7 @@
 imdb: "1568346"
 title: "Millennium Os Homens que Não Amavam as Mulheres"
 stars: "5/5"
+category: "movies"
 _title: "The Girl with the Dragon Tattoo"
 _year: "2011"
 _director: ["David Fincher", ]

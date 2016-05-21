@@ -1,6 +1,7 @@
 ---
 imdb: "0090756"
 stars: "5/5"
+category: "movies"
 title: "Veludo Azul"
 _title: "Blue Velvet"
 _year: "1986"

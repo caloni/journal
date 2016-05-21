@@ -2,6 +2,7 @@
 imdb: "1411238"
 title: "Sexo Sem Compromisso"
 stars: "3/5"
+category: "movies"
 _title: "No Strings Attached"
 _year: "2011"
 _director: ["Ivan Reitman", ]

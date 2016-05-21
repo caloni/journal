@@ -2,6 +2,7 @@
 imdb: "1730133"
 title: "Qualquer Gato Vira-Lata"
 stars: "2/5"
+category: "movies"
 _title: "Qualquer Gato Vira-Lata"
 _year: "2011"
 _director: ["Tomas Portella", "Daniela De Carlo", ]

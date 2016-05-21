@@ -1,6 +1,7 @@
 ---
 imdb: "2241116"
 stars: "3/5"
+category: "movies"
 title: "White Rabbit"
 _title: "White Rabbit"
 _year: "2013"

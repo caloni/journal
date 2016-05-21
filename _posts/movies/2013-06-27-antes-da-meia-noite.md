@@ -2,6 +2,7 @@
 imdb: "2209418"
 title: "Antes da Meia-Noite"
 stars: "5/5"
+category: "movies"
 _title: "Before Midnight"
 _year: "2013"
 _director: ["Richard Linklater", ]

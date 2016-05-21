@@ -2,6 +2,7 @@
 imdb: "0397892"
 title: "Bolt Supercão"
 stars: "4/5"
+category: "movies"
 _title: "Bolt"
 _year: "2008"
 _director: ["Byron Howard", "Chris Williams", ]

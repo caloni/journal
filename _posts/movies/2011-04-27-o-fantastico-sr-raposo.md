@@ -2,6 +2,7 @@
 imdb: "0432283"
 title: "O Fantástico Sr. Raposo"
 stars: "4/5"
+category: "movies"
 _title: "Fantastic Mr. Fox"
 _year: "2009"
 _director: ["Wes Anderson", ]

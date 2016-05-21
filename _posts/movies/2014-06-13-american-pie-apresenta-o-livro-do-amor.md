@@ -2,6 +2,7 @@
 imdb: "1407050"
 title: "American Pie Apresenta O Livro do Amor"
 stars: "3/5"
+category: "movies"
 _title: "American Pie Presents: The Book of Love"
 _year: "2009"
 _director: ["John Putch", ]

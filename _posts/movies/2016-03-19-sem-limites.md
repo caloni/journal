@@ -1,6 +1,7 @@
 ---
 imdb: "1219289"
 stars: "3/5"
+category: "movies"
 title: "Sem Limites"
 _title: "Limitless"
 _year: "2011"

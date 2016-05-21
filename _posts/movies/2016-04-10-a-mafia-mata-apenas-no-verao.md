@@ -1,6 +1,7 @@
 ---
 imdb: "3374966"
 stars: "3/5"
+category: "movies"
 title: "A Máfia Mata Apenas no Verão"
 _title: "La mafia uccide solo d'estate"
 _year: "2013"

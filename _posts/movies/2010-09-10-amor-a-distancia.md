@@ -2,6 +2,7 @@
 imdb: "1322312"
 title: "Amor à Distância"
 stars: "3/5"
+category: "movies"
 _title: "Going the Distance"
 _year: "2010"
 _director: ["Nanette Burstein", ]

@@ -1,6 +1,7 @@
 ---
 imdb: "0016332"
 stars: "5/5"
+category: "movies"
 title: "Sete Oportunidades"
 _title: "Seven Chances"
 _year: "1925"

@@ -2,6 +2,7 @@
 imdb: "0138596"
 title: "A Marvada Carne"
 stars: "3/5"
+category: "movies"
 _title: "A Marvada Carne"
 _year: "1985"
 _director: ["André Klotzel", ]

@@ -2,6 +2,7 @@
 imdb: "0089218"
 title: "Os Goonies"
 stars: "5/5"
+category: "movies"
 _title: "The Goonies"
 _year: "1985"
 _director: ["Richard Donner", ]

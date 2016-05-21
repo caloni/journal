@@ -1,6 +1,7 @@
 ---
 imdb: "0137363"
 stars: "4/5"
+category: "movies"
 title: "O Suspeito da Rua Arlington"
 _title: "Arlington Road"
 _year: "1999"

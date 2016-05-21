@@ -2,6 +2,7 @@
 imdb: "1781866"
 title: "Muita Calma Nessa Hora"
 stars: "4/5"
+category: "movies"
 _title: "Muita Calma Nessa Hora"
 _year: "2010"
 _director: ["Felipe Joffily", ]

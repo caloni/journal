@@ -2,6 +2,7 @@
 imdb: "2190367"
 title: "O Som ao Redor"
 stars: "4/5"
+category: "movies"
 _title: "O Som ao Redor"
 _year: "2012"
 _director: ["Kleber Mendonça Filho", ]

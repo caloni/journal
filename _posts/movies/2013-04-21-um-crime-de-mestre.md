@@ -2,6 +2,7 @@
 imdb: "0488120"
 title: "Um Crime de Mestre"
 stars: "4/5"
+category: "movies"
 _title: "Fracture"
 _year: "2007"
 _director: ["Gregory Hoblit", ]

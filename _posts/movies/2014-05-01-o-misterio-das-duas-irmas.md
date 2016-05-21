@@ -2,6 +2,7 @@
 imdb: "0815245"
 title: "O Mistério das Duas Irmãs"
 stars: "3/5"
+category: "movies"
 _title: "The Uninvited"
 _year: "2009"
 _director: ["Charles Guard", "Thomas Guard", ]

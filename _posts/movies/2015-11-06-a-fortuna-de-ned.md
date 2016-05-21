@@ -1,6 +1,7 @@
 ---
 imdb: "0166396"
 stars: "4/5"
+category: "movies"
 title: "A Fortuna de Ned"
 _title: "Waking Ned"
 _year: "1998"

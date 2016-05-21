@@ -2,6 +2,7 @@
 imdb: "1228705"
 title: "Homem de Ferro 2"
 stars: "3/5"
+category: "movies"
 _title: "Iron Man 2"
 _year: "2010"
 _director: ["Jon Favreau", ]

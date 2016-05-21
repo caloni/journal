@@ -2,6 +2,7 @@
 imdb: "2109248"
 title: "Transformers: A Era da Extinção"
 stars: "1/5"
+category: "movies"
 _title: "Transformers: Age of Extinction"
 _year: "2014"
 _director: ["Michael Bay", ]

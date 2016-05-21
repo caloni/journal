@@ -1,6 +1,7 @@
 ---
 imdb: "0280760"
 stars: "4/5"
+category: "movies"
 title: "A Estranha Famíllia de Igby"
 _title: "Igby Goes Down"
 _year: "2002"

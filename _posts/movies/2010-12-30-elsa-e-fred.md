@@ -2,6 +2,7 @@
 imdb: "0453047"
 title: "Elsa e Fred (2005)"
 stars: "4/5"
+category: "movies"
 _title: "Elsa y Fred"
 _year: "2005"
 _director: ["Marcos Carnevale", ]

@@ -2,6 +2,7 @@
 imdb: "0072684"
 title: "Barry Lyndon"
 stars: "5/5"
+category: "movies"
 _title: "Barry Lyndon"
 _year: "1975"
 _director: ["Stanley Kubrick", ]

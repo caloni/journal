@@ -1,6 +1,7 @@
 ---
 imdb: "0107207"
 stars: "5/5"
+category: "movies"
 title: "Em Nome do Pai"
 _title: "In the Name of the Father"
 _year: "1993"

@@ -1,6 +1,7 @@
 ---
 imdb: "3667648"
 stars: "5/5"
+category: "movies"
 title: "O Que Eu Fiz Para Merecer Isso?"
 _title: "Une heure de tranquillité"
 _year: "2014"

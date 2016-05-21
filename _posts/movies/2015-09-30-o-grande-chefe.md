@@ -1,6 +1,7 @@
 ---
 imdb: "0469754"
 stars: "5/5"
+category: "movies"
 title: "O Grande Chefe"
 _title: "Direktøren for det hele"
 _year: "2006"

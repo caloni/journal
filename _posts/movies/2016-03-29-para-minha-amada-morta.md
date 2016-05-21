@@ -1,6 +1,7 @@
 ---
 imdb: "3806654"
 stars: "4/5"
+category: "movies"
 title: "Para Minha Amada Morta"
 _title: "Para Minha Amada Morta"
 _year: "2015"

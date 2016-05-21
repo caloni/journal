@@ -2,6 +2,7 @@
 imdb: "2386278"
 title: "A Face do Mal"
 stars: "4/5"
+category: "movies"
 _title: "Haunt"
 _year: "2013"
 _director: ["Mac Carter", ]

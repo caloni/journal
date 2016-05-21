@@ -2,6 +2,7 @@
 imdb: "1568921"
 title: "O Mundo dos Pequeninos"
 stars: "3/5"
+category: "movies"
 _title: "Kari-gurashi no Arietti"
 _year: "2010"
 _director: ["Hiromasa Yonebayashi", ]

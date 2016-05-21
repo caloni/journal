@@ -2,6 +2,7 @@
 imdb: "0155711"
 title: "Ninguém é Perfeito"
 stars: "3/5"
+category: "movies"
 _title: "Flawless"
 _year: "1999"
 _director: ["Joel Schumacher", ]

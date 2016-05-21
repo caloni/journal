@@ -1,6 +1,7 @@
 ---
 imdb: "1424797"
 stars: "5/5"
+category: "movies"
 title: "Eu Matei Minha Mãe"
 _title: "J'ai tué ma mère"
 _year: "2009"

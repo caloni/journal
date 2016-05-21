@@ -2,6 +2,7 @@
 imdb: "2258345"
 title: "Amante a Domicílio"
 stars: "3/5"
+category: "movies"
 _title: "Fading Gigolo"
 _year: "2013"
 _director: ["John Turturro", ]

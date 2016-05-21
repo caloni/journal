@@ -2,6 +2,7 @@
 imdb: "1231583"
 title: "Um Parto de Viagem"
 stars: "3/5"
+category: "movies"
 _title: "Due Date"
 _year: "2010"
 _director: ["Todd Phillips", ]

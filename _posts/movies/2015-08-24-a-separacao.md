@@ -1,6 +1,7 @@
 ---
 imdb: "1832382"
 stars: "5/5"
+category: "movies"
 title: "A Separação"
 _title: "Jodaeiye Nader az Simin"
 _year: "2011"

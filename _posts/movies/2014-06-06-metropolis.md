@@ -2,6 +2,7 @@
 imdb: "0017136"
 title: "Metrópolis"
 stars: "5/5"
+category: "movies"
 _title: "Metropolis"
 _year: "1927"
 _director: ["Fritz Lang", ]

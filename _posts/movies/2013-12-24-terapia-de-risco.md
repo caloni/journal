@@ -2,6 +2,7 @@
 imdb: "2053463"
 title: "Terapia de Risco"
 stars: "4/5"
+category: "movies"
 _title: "Side Effects"
 _year: "2013"
 _director: ["Steven Soderbergh", ]

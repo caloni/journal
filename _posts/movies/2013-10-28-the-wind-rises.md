@@ -2,6 +2,7 @@
 imdb: "2013293"
 title: "O Vento Está Soprando"
 stars: "4/5"
+category: "movies"
 _title: "Kaze tachinu"
 _year: "2013"
 _director: ["Hayao Miyazaki", ]

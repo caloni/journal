@@ -2,6 +2,7 @@
 imdb: "0100530"
 title: "A Casa da Rússia"
 stars: "3/5"
+category: "movies"
 _title: "The Russia House"
 _year: "1990"
 _director: ["Fred Schepisi", ]

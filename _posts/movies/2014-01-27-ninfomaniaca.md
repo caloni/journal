@@ -2,6 +2,7 @@
 imdb: "1937390"
 title: "Ninfomaníaca"
 stars: "4/5"
+category: "movies"
 _title: "Nymphomaniac: Vol. I"
 _year: "2013"
 _director: ["Lars von Trier", ]

@@ -2,6 +2,7 @@
 imdb: "0263265"
 title: "O Julgamento do Diabo"
 stars: "3/5"
+category: "movies"
 _title: "The Devil and Daniel Webster"
 _year: "2003"
 _director: ["Alec Baldwin", ]

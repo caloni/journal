@@ -1,6 +1,7 @@
 ---
 imdb: "3595966"
 stars: "4/5"
+category: "movies"
 title: "Numa Escola de Havana"
 _title: "Conducta"
 _year: "2014"

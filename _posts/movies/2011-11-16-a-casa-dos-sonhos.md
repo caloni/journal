@@ -2,6 +2,7 @@
 imdb: "1462041"
 title: "A Casa dos Sonhos"
 stars: "3/5"
+category: "movies"
 _title: "Dream House"
 _year: "2011"
 _director: ["Jim Sheridan", ]

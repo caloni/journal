@@ -1,6 +1,7 @@
 ---
 imdb: "2172584"
 stars: "4/5"
+category: "movies"
 title: "Mapas para as Estrelas"
 _title: "Maps to the Stars"
 _year: "2014"

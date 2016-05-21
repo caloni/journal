@@ -1,6 +1,7 @@
 ---
 imdb: "0837562"
 stars: "2/5"
+category: "movies"
 title: "Hotel Transilvânia"
 _title: "Hotel Transylvania"
 _year: "2012"

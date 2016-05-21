@@ -2,6 +2,7 @@
 imdb: "0099077"
 title: "Tempo de Despertar"
 stars: "4/5"
+category: "movies"
 _title: "Awakenings"
 _year: "1990"
 _director: ["Penny Marshall", ]

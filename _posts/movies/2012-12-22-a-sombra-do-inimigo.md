@@ -2,6 +2,7 @@
 imdb: "1712170"
 title: "A Sombra do Inimigo"
 stars: "1/5"
+category: "movies"
 _title: "Alex Cross"
 _year: "2012"
 _director: ["Rob Cohen", ]

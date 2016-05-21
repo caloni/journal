@@ -2,6 +2,7 @@
 imdb: "2713180"
 review-title: "Um filme de guerra tenso, mas ao mesmo tempo complexo como análise humana"
 stars: "4/5"
+category: "movies"
 title: "Corações de Ferro"
 _title: "Fury"
 _year: "2014"

@@ -2,6 +2,7 @@
 imdb: "1478338"
 title: "Missão Madrinha de Casamento"
 stars: "5/5"
+category: "movies"
 _title: "Bridesmaids"
 _year: "2011"
 _director: ["Paul Feig", ]

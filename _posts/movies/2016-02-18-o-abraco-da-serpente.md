@@ -1,6 +1,7 @@
 ---
 imdb: "4285496"
 stars: "4/5"
+category: "movies"
 title: "O Abraço da Serpente"
 _title: "El abrazo de la serpiente"
 _year: "2015"

@@ -2,6 +2,7 @@
 imdb: "1924394"
 title: "A Parte dos Anjos"
 stars: "3/5"
+category: "movies"
 _title: "The Angels' Share"
 _year: "2012"
 _director: ["Ken Loach", ]

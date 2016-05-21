@@ -2,6 +2,7 @@
 imdb: "0061722"
 review-title: "Por que 'A Primeira Noite de um Homem' ainda é relevante como Cinema?"
 stars: "5/5"
+category: "movies"
 title: "A Primeira Noite de um Homem"
 _title: "The Graduate"
 _year: "1967"

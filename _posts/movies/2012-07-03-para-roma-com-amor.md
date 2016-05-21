@@ -2,6 +2,7 @@
 imdb: "1859650"
 title: "Para Roma com Amor"
 stars: "4/5"
+category: "movies"
 _title: "To Rome with Love"
 _year: "2012"
 _director: ["Woody Allen", ]

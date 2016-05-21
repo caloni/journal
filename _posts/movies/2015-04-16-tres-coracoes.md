@@ -1,6 +1,7 @@
 ---
 imdb: "2822742"
 stars: "5/5"
+category: "movies"
 title: "Três Corações"
 _title: "3 coeurs"
 _year: "2014"

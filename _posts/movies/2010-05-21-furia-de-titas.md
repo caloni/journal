@@ -2,6 +2,7 @@
 imdb: "0800320"
 title: "Fúria de Titãs"
 stars: "3/5"
+category: "movies"
 _title: "Clash of the Titans"
 _year: "2010"
 _director: ["Louis Leterrier", ]

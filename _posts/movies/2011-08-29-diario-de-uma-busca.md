@@ -2,6 +2,7 @@
 title: "Diario de Uma Busca"
 imdb: "1827391"
 stars: "3/5"
+category: "movies"
 _title: "Diario de Uma Busca"
 _year: "2010"
 _director: ["Flavia Castro", ]

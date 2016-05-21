@@ -2,6 +2,7 @@
 imdb: "0121766"
 title: "Star Wars Episódio III A Vingança dos Sith"
 stars: "4/5"
+category: "movies"
 _title: "Star Wars: Episode III - Revenge of the Sith"
 _year: "2005"
 _director: ["George Lucas", ]

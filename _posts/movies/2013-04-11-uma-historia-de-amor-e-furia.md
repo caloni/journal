@@ -2,6 +2,7 @@
 imdb: "2231208"
 title: "Uma História de Amor e Fúria"
 stars: "4/5"
+category: "movies"
 _title: "Uma História de Amor e Fúria"
 _year: "2013"
 _director: ["Luiz Bolognesi", ]

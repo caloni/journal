@@ -1,6 +1,7 @@
 ---
 imdb: "1865505"
 stars: "5/5"
+category: "movies"
 title: "Song of the Sea"
 _title: "Song of the Sea"
 _year: "2014"

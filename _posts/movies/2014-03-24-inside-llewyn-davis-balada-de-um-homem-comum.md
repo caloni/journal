@@ -2,6 +2,7 @@
 imdb: "2042568"
 title: "Inside Llewyn Davis Balada de Um Homem Comum"
 stars: "5/5"
+category: "movies"
 _title: "Inside Llewyn Davis"
 _year: "2013"
 _director: ["Ethan Coen", "Joel Coen", ]

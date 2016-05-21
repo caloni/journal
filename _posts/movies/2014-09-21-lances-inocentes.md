@@ -2,6 +2,7 @@
 imdb: "0108065"
 title: "Lances Inocentes"
 stars: "5/5"
+category: "movies"
 _title: "Searching for Bobby Fischer"
 _year: "1993"
 _director: ["Steven Zaillian", ]

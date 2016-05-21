@@ -2,6 +2,7 @@
 imdb: "1454468"
 title: "Gravidade"
 stars: "5/5"
+category: "movies"
 _title: "Gravity"
 _year: "2013"
 _director: ["Alfonso Cuarón", ]

@@ -2,6 +2,7 @@
 imdb: "2294629"
 revision: [2015-05-02]
 stars: "4/5"
+category: "movies"
 title: "Frozen Uma Aventura Congelante"
 _title: "Frozen"
 _year: "2013"

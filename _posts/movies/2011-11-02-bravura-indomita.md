@@ -2,6 +2,7 @@
 imdb: "1403865"
 title: "Bravura Indômita"
 stars: "5/5"
+category: "movies"
 _title: "True Grit"
 _year: "2010"
 _director: ["Ethan Coen", "Joel Coen", ]

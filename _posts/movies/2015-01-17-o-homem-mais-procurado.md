@@ -2,6 +2,7 @@
 imdb: "1972571"
 title: "O Homem Mais Procurado"
 stars: "3/5"
+category: "movies"
 _title: "A Most Wanted Man"
 _year: "2014"
 _director: ["Anton Corbijn", ]

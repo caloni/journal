@@ -2,6 +2,7 @@
 imdb: "0071360"
 title: "A Conversação"
 stars: "5/5"
+category: "movies"
 _title: "The Conversation"
 _year: "1974"
 _director: ["Francis Ford Coppola", ]

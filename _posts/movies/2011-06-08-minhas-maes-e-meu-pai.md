@@ -2,6 +2,7 @@
 imdb: "0842926"
 title: "Minhas Mães e Meu Pai"
 stars: "3/5"
+category: "movies"
 _title: "The Kids Are All Right"
 _year: "2010"
 _director: ["Lisa Cholodenko", ]

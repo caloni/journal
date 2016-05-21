@@ -3,6 +3,7 @@ imdb: "0978762"
 revision: [2010-04-16]
 title: "Mary e Max uma Amizade Diferente"
 stars: "5/5"
+category: "movies"
 _title: "Mary and Max"
 _year: "2009"
 _director: ["Adam Elliot", ]

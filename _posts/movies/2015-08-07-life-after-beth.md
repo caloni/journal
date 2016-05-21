@@ -1,6 +1,7 @@
 ---
 imdb: "2581244"
 stars: "3/5"
+category: "movies"
 title: "Life After Beth"
 _title: "Life After Beth"
 _year: "2014"

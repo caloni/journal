@@ -2,6 +2,7 @@
 imdb: "1415283"
 title: "Nanny McPhee e as Lições Mágicas"
 stars: "3/5"
+category: "movies"
 _title: "Nanny McPhee and the Big Bang"
 _year: "2010"
 _director: ["Susanna White", ]

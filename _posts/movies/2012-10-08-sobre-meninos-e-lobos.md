@@ -2,6 +2,7 @@
 imdb: "0327056"
 title: "Sobre Meninos e Lobos"
 stars: "5/5"
+category: "movies"
 _title: "Mystic River"
 _year: "2003"
 _director: ["Clint Eastwood", ]

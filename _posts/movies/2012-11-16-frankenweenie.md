@@ -2,6 +2,7 @@
 imdb: "1142977"
 title: "Frankenweenie"
 stars: "4/5"
+category: "movies"
 _title: "Frankenweenie"
 _year: "2012"
 _director: ["Tim Burton", ]

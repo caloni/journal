@@ -2,6 +2,7 @@
 imdb: "0079588"
 title: "Muppets O Filme"
 stars: "3/5"
+category: "movies"
 _title: "The Muppet Movie"
 _year: "1979"
 _director: ["James Frawley", ]

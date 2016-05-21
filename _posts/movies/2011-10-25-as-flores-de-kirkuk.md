@@ -2,6 +2,7 @@
 imdb: "1781820"
 title: "As Flores de Kirkuk"
 stars: "3/5"
+category: "movies"
 _title: "Golakani Kirkuk - The Flowers of Kirkuk"
 _year: "2010"
 _director: ["Fariborz Kamkari", ]

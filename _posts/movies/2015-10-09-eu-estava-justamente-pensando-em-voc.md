@@ -1,6 +1,7 @@
 ---
 imdb: "2965412"
 stars: "3/5"
+category: "movies"
 title: "Eu Estava Justamente Pensando em Você"
 _title: "Comet"
 _year: "2014"

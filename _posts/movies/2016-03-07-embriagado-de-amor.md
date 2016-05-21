@@ -1,6 +1,7 @@
 ---
 imdb: "0272338"
 stars: "5/5"
+category: "movies"
 title: "Embriagado de Amor"
 _title: "Punch-Drunk Love"
 _year: "2002"

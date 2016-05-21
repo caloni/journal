@@ -2,6 +2,7 @@
 imdb: "0412019"
 title: "Flores Partidas"
 stars: "5/5"
+category: "movies"
 _title: "Broken Flowers"
 _year: "2005"
 _director: ["Jim Jarmusch", ]

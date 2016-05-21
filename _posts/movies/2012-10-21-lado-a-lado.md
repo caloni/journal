@@ -2,6 +2,7 @@
 imdb: "2014338"
 title: "Lado a Lado"
 stars: "3/5"
+category: "movies"
 _title: "Side by Side"
 _year: "2012"
 _director: ["Christopher Kenneally", ]

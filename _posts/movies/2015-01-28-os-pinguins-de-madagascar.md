@@ -2,6 +2,7 @@
 imdb: "1911658"
 title: "Os Pinguins de Madagascar"
 stars: "2/5"
+category: "movies"
 _title: "Penguins of Madagascar"
 _year: "2014"
 _director: ["Eric Darnell", "Simon J. Smith", ]

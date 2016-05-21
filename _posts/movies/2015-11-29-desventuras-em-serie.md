@@ -1,6 +1,7 @@
 ---
 imdb: "0339291"
 stars: "4/5"
+category: "movies"
 title: "Desventuras em Série"
 _title: "Lemony Snicket's A Series of Unfortunate Events"
 _year: "2004"

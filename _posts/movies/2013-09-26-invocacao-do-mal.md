@@ -3,6 +3,7 @@ imdb: "1457767"
 count: 2
 title: "Invocação do Mal"
 stars: "4/5"
+category: "movies"
 _title: "The Conjuring"
 _year: "2013"
 _director: ["James Wan", ]

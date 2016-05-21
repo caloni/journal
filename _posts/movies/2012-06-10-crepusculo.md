@@ -2,6 +2,7 @@
 imdb: "1099212"
 title: "Crepúsculo"
 stars: "2/5"
+category: "movies"
 _title: "Twilight"
 _year: "2008"
 _director: ["Catherine Hardwicke", ]

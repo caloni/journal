@@ -2,6 +2,7 @@
 imdb: "0099785"
 title: "Esqueceram de Mim"
 stars: "5/5"
+category: "movies"
 _title: "Home Alone"
 _year: "1990"
 _director: ["Chris Columbus", ]

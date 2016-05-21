@@ -2,6 +2,7 @@
 imdb: "1424381"
 title: "Predadores"
 stars: "3/5"
+category: "movies"
 _title: "Predators"
 _year: "2010"
 _director: ["Nimród Antal", ]

@@ -1,6 +1,7 @@
 ---
 imdb: "0022100"
 stars: "5/5"
+category: "movies"
 title: "M, O Vampiro de Dusseldorf"
 _title: "M"
 _year: "1931"

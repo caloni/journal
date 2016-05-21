@@ -1,6 +1,7 @@
 ---
 imdb: "0072431"
 stars: "4/5"
+category: "movies"
 title: "O Jovem Frankenstein"
 _title: "Young Frankenstein"
 _year: "1974"

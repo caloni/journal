@@ -2,6 +2,7 @@
 imdb: "2278871"
 title: "Azul é a Cor Mais Quente"
 stars: "3/5"
+category: "movies"
 _title: "La vie d'Adèle"
 _year: "2013"
 _director: ["Abdellatif Kechiche", ]

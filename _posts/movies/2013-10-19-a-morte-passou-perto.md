@@ -2,6 +2,7 @@
 imdb: "0048254"
 title: "A Morte Passou Perto"
 stars: "3/5"
+category: "movies"
 _title: "Killer's Kiss"
 _year: "1955"
 _director: ["Stanley Kubrick", ]

@@ -1,6 +1,7 @@
 ---
 imdb: "2503944"
 stars: "4/5"
+category: "movies"
 title: "Pegando Fogo"
 _title: "Burnt"
 _year: "2015"

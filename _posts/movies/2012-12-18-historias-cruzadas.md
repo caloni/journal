@@ -2,6 +2,7 @@
 imdb: "1454029"
 title: "Histórias Cruzadas"
 stars: "3/5"
+category: "movies"
 _title: "The Help"
 _year: "2011"
 _director: ["Tate Taylor", ]

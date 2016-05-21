@@ -2,6 +2,7 @@
 imdb: "1839492"
 title: "Ruby Sparks A Namorada Perfeita"
 stars: "4/5"
+category: "movies"
 _title: "Ruby Sparks"
 _year: "2012"
 _director: ["Jonathan Dayton", "Valerie Faris", ]

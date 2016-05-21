@@ -1,6 +1,7 @@
 ---
 imdb: "0317248"
 stars: "5/5"
+category: "movies"
 title: "Cidade de Deus"
 _title: "Cidade de Deus"
 _year: "2002"

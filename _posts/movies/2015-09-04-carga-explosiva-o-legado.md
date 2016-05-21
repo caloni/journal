@@ -1,6 +1,7 @@
 ---
 imdb: "2938956"
 stars: "3/5"
+category: "movies"
 title: "Carga Explosiva: o Legado"
 _title: "The Transporter Refueled"
 _year: "2015"

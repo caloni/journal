@@ -2,6 +2,7 @@
 imdb: "0964517"
 title: "O Vencedor"
 stars: "4/5"
+category: "movies"
 _title: "The Fighter"
 _year: "2010"
 _director: ["David O. Russell", ]

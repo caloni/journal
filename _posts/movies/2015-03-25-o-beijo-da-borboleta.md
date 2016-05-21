@@ -1,6 +1,7 @@
 ---
 imdb: "0112604"
 stars: "5/5"
+category: "movies"
 title: "O Beijo da Borboleta"
 _title: "Butterfly Kiss"
 _year: "1995"

@@ -2,6 +2,7 @@
 imdb: "1781755"
 title: "400 contra 1 A História do Comando Vermelho"
 stars: "1/5"
+category: "movies"
 _title: "400 Contra 1 - Uma História do Crime Organizado"
 _year: "2010"
 _director: ["Caco Souza", ]

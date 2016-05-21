@@ -2,6 +2,7 @@
 imdb: "0379217"
 title: "Sobre Café e Cigarros"
 stars: "3/5"
+category: "movies"
 _title: "Coffee and Cigarettes"
 _year: "2003"
 _director: ["Jim Jarmusch", ]

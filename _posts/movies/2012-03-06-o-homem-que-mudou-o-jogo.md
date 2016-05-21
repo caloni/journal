@@ -2,6 +2,7 @@
 imdb: "1210166"
 title: "O Homem Que Mudou o Jogo"
 stars: "5/5"
+category: "movies"
 _title: "Moneyball"
 _year: "2011"
 _director: ["Bennett Miller", ]

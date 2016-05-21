@@ -1,6 +1,7 @@
 ---
 imdb: "4428814"
 stars: "4/5"
+category: "movies"
 title: "O Valor de um Homem"
 _title: "La loi du marché"
 _year: "2015"

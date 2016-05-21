@@ -2,6 +2,7 @@
 imdb: "2243389"
 title: "Os Amantes Passageiros"
 stars: "3/5"
+category: "movies"
 _title: "Los amantes pasajeros"
 _year: "2013"
 _director: ["Pedro Almodóvar", ]

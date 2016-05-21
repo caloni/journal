@@ -2,6 +2,7 @@
 imdb: "1564367"
 title: "Esposa de Mentirinha"
 stars: "3/5"
+category: "movies"
 _title: "Just Go with It"
 _year: "2011"
 _director: ["Dennis Dugan", ]

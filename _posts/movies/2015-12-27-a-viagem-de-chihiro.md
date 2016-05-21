@@ -1,6 +1,7 @@
 ---
 imdb: "0245429"
 stars: "4/5"
+category: "movies"
 title: "A Viagem de Chihiro"
 _title: "Sen to Chihiro no kamikakushi"
 _year: "2001"

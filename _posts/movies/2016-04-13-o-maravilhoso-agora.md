@@ -1,6 +1,7 @@
 ---
 imdb: "1714206"
 stars: "3/5"
+category: "movies"
 title: "O Maravilhoso Agora"
 _title: "The Spectacular Now"
 _year: "2013"

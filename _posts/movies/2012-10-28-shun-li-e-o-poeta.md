@@ -2,6 +2,7 @@
 imdb: "2036388"
 title: "Shun Li e o Poeta"
 stars: "3/5"
+category: "movies"
 _title: "Io sono Li"
 _year: "2011"
 _director: ["Andrea Segre", ]

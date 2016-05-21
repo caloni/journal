@@ -1,6 +1,7 @@
 ---
 imdb: "2652118"
 stars: "2/5"
+category: "movies"
 title: "O Tigre e o Dragão: A Espada do Destino"
 _title: "Crouching Tiger, Hidden Dragon: Sword of Destiny"
 _year: "2016"

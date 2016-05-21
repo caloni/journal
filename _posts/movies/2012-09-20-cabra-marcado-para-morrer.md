@@ -2,6 +2,7 @@
 imdb: "0134402"
 title: "Cabra Marcado Para Morrer"
 stars: "4/5"
+category: "movies"
 _title: "Cabra Marcado Para Morrer"
 _year: "1985"
 _director: ["Eduardo Coutinho", ]

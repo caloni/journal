@@ -2,6 +2,7 @@
 title: "O Mundo Encantado de Gigi"
 imdb: "1039651"
 stars: "2/5"
+category: "movies"
 _title: "Yonayona pengin"
 _year: "2009"
 _director: ["Rintaro", ]

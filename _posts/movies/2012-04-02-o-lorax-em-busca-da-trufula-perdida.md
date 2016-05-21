@@ -2,6 +2,7 @@
 imdb: "1482459"
 title: "O Lorax Em Busca da Trúfula Perdida"
 stars: "3/5"
+category: "movies"
 _title: "The Lorax"
 _year: "2012"
 _director: ["Chris Renaud", "Kyle Balda", ]

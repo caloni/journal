@@ -1,6 +1,7 @@
 ---
 imdb: "1411697"
 stars: "3/5"
+category: "movies"
 title: "Se Beber, Não Case! Parte II"
 _title: "The Hangover Part II"
 _year: "2011"

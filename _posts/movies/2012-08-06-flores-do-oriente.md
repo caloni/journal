@@ -2,6 +2,7 @@
 imdb: "1410063"
 title: "Flores do Oriente"
 stars: "3/5"
+category: "movies"
 _title: "Jin líng shí san chai"
 _year: "2011"
 _director: ["Yimou Zhang", ]

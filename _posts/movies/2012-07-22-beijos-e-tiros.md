@@ -2,6 +2,7 @@
 imdb: "0373469"
 title: "Beijos e Tiros"
 stars: "4/5"
+category: "movies"
 _title: "Kiss Kiss Bang Bang"
 _year: "2005"
 _director: ["Shane Black", ]

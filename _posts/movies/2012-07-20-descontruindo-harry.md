@@ -2,6 +2,7 @@
 imdb: "0118954"
 title: "Desconstruindo Harry"
 stars: "4/5"
+category: "movies"
 _title: "Deconstructing Harry"
 _year: "1997"
 _director: ["Woody Allen", ]

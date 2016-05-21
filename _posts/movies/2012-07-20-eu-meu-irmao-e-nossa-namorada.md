@@ -2,6 +2,7 @@
 imdb: "0480242"
 title: "Eu Meu Irmão e Nossa Namorada"
 stars: "3/5"
+category: "movies"
 _title: "Dan in Real Life"
 _year: "2007"
 _director: ["Peter Hedges", ]

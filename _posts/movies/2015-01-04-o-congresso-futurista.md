@@ -2,6 +2,7 @@
 imdb: "1821641"
 title: "O Congresso Futurista"
 stars: "3/5"
+category: "movies"
 _title: "The Congress"
 _year: "2013"
 _director: ["Ari Folman", ]

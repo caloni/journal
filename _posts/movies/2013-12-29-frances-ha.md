@@ -2,6 +2,7 @@
 imdb: "2347569"
 title: "Frances Ha"
 stars: "4/5"
+category: "movies"
 _title: "Frances Ha"
 _year: "2012"
 _director: ["Noah Baumbach", ]

@@ -2,6 +2,7 @@
 imdb: "0286112"
 title: "Kung-Fu Futebol Clube"
 stars: "4/5"
+category: "movies"
 _title: "Siu lam juk kau"
 _year: "2001"
 _director: ["Stephen Chow", ]

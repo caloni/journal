@@ -1,6 +1,7 @@
 ---
 imdb: "4176826"
 stars: "2/5"
+category: "movies"
 title: "Ele Está de Volta"
 _title: "Er ist wieder da"
 _year: "2015"

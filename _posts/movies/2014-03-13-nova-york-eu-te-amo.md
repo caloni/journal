@@ -2,6 +2,7 @@
 imdb: "0808399"
 title: "Nova York Eu Te Amo"
 stars: "5/5"
+category: "movies"
 _title: "New York, I Love You"
 _year: "2008"
 _director: ["Fatih Akin", "Yvan Attal", "Randall Balsmeyer", "Allen Hughes", "Shunji Iwai", "Wen Jiang", "Shekhar Kapur", "Joshua Marston", "Mira Nair", ]

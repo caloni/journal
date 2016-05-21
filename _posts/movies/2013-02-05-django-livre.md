@@ -2,6 +2,7 @@
 imdb: "1853728"
 title: "Django Livre"
 stars: "4/5"
+category: "movies"
 _title: "Django Unchained"
 _year: "2012"
 _director: ["Quentin Tarantino", ]

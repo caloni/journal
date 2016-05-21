@@ -2,6 +2,7 @@
 imdb: "0961108"
 title: "Um Segredo entre Nós"
 stars: "2/5"
+category: "movies"
 _title: "Fireflies in the Garden"
 _year: "2008"
 _director: ["Dennis Lee", ]

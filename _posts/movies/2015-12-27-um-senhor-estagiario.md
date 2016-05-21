@@ -1,6 +1,7 @@
 ---
 imdb: "2361509"
 stars: "3/5"
+category: "movies"
 title: "Um Senhor Estagiário"
 _title: "The Intern"
 _year: "2015"

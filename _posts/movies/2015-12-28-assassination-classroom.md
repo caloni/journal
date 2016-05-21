@@ -1,6 +1,7 @@
 ---
 imdb: "3853452"
 stars: "3/5"
+category: "movies"
 title: "Assassination Classroom"
 _title: "Ansatsu kyôshitsu"
 _year: "2015"

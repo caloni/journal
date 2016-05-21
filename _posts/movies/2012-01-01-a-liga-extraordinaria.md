@@ -2,6 +2,7 @@
 imdb: "0311429"
 title: "A Liga Extraordinária"
 stars: "1/5"
+category: "movies"
 _title: "The League of Extraordinary Gentlemen"
 _year: "2003"
 _director: ["Stephen Norrington", ]

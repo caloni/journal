@@ -2,6 +2,7 @@
 imdb: "1014759"
 title: "Alice no País das Maravilhas (Tim Burton, 2010)"
 stars: "3/5"
+category: "movies"
 _title: "Alice in Wonderland"
 _year: "2010"
 _director: ["Tim Burton", ]

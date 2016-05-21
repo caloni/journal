@@ -2,6 +2,7 @@
 imdb: "1588173"
 title: "Meu Namorado é um Zumbi"
 stars: "4/5"
+category: "movies"
 _title: "Warm Bodies"
 _year: "2013"
 _director: ["Jonathan Levine", ]

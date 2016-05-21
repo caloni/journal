@@ -2,6 +2,7 @@
 imdb: "3324494"
 review-title: "Um serial killer que é também um policial. E isso aconteceu na vida real!"
 stars: "4/5"
+category: "movies"
 title: "Na Próxima, Acerto no Coração"
 _title: "La prochaine fois je viserai le coeur"
 _year: "2014"

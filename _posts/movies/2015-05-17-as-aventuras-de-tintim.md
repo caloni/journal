@@ -2,6 +2,7 @@
 imdb: "0983193"
 review-title: "As Aventuras de Tintim é mais adulto que filmes de super-heróis"
 stars: "4/5"
+category: "movies"
 title: "As Aventuras de Tintim"
 _title: "The Adventures of Tintin"
 _year: "2011"

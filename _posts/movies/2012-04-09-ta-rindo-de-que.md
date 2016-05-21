@@ -2,6 +2,7 @@
 imdb: "1201167"
 title: "Tá Rindo de Que?"
 stars: "4/5"
+category: "movies"
 _title: "Funny People"
 _year: "2009"
 _director: ["Judd Apatow", ]

@@ -2,6 +2,7 @@
 imdb: "1082868"
 title: "Quarentena"
 stars: "2/5"
+category: "movies"
 _title: "Quarantine"
 _year: "2008"
 _director: ["John Erick Dowdle", ]

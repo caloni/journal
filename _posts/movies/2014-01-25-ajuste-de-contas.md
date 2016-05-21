@@ -2,6 +2,7 @@
 imdb: "1661382"
 title: "Ajuste de Contas"
 stars: "4/5"
+category: "movies"
 _title: "Grudge Match"
 _year: "2013"
 _director: ["Peter Segal", ]

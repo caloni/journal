@@ -2,6 +2,7 @@
 imdb: "0065651"
 title: "Domicilio Conjugal"
 stars: "4/5"
+category: "movies"
 _title: "Domicile conjugal"
 _year: "1970"
 _director: ["François Truffaut", ]

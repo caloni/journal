@@ -2,6 +2,7 @@
 imdb: "1300854"
 title: "Homem de Ferro 3"
 stars: "3/5"
+category: "movies"
 _title: "Iron Man 3"
 _year: "2013"
 _director: ["Shane Black", ]

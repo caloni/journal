@@ -2,6 +2,7 @@
 imdb: "0100802"
 title: "O Vingador do Futuro"
 stars: "4/5"
+category: "movies"
 _title: "Total Recall"
 _year: "1990"
 _director: ["Paul Verhoeven", ]

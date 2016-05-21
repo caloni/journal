@@ -2,6 +2,7 @@
 imdb: "1201607"
 title: "Harry Potter e as Relíquias da Morte Parte 2"
 stars: "5/5"
+category: "movies"
 _title: "Harry Potter and the Deathly Hallows: Part 2"
 _year: "2011"
 _director: ["David Yates", ]

@@ -2,6 +2,7 @@
 imdb: "0089853"
 title: "A Rosa Púrpura do Cairo"
 stars: "4/5"
+category: "movies"
 _title: "The Purple Rose of Cairo"
 _year: "1985"
 _director: ["Woody Allen", ]

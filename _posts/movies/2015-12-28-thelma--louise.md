@@ -1,6 +1,7 @@
 ---
 imdb: "0103074"
 stars: "5/5"
+category: "movies"
 title: "Thelma & Louise"
 _title: "Thelma & Louise"
 _year: "1991"

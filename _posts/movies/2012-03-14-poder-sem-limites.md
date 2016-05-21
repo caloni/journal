@@ -2,6 +2,7 @@
 imdb: "1706593"
 title: "Poder sem Limites"
 stars: "4/5"
+category: "movies"
 _title: "Chronicle"
 _year: "2012"
 _director: ["Josh Trank", ]

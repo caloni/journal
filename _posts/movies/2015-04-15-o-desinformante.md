@@ -1,6 +1,7 @@
 ---
 imdb: "1130080"
 stars: "4/5"
+category: "movies"
 title: "O Desinformante!"
 _title: "The Informant!"
 _year: "2009"

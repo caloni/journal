@@ -2,6 +2,7 @@
 imdb: "0088128"
 title: "Gatinhas e Gatões"
 stars: "4/5"
+category: "movies"
 _title: "Sixteen Candles"
 _year: "1984"
 _director: ["John Hughes", ]

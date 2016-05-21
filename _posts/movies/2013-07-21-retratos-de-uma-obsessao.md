@@ -2,6 +2,7 @@
 imdb: "0265459"
 title: "Retratos de uma Obsessão"
 stars: "4/5"
+category: "movies"
 _title: "One Hour Photo"
 _year: "2002"
 _director: ["Mark Romanek", ]

@@ -2,6 +2,7 @@
 imdb: "0423294"
 title: "Tá Dando Onda"
 stars: "3/5"
+category: "movies"
 _title: "Surf's Up"
 _year: "2007"
 _director: ["Ash Brannon", "Chris Buck", ]

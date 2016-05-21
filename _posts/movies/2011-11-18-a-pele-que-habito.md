@@ -2,6 +2,7 @@
 imdb: "1189073"
 title: "A Pele que Habito"
 stars: "5/5"
+category: "movies"
 _title: "La piel que habito"
 _year: "2011"
 _director: ["Pedro Almodóvar", ]

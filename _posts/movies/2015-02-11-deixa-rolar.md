@@ -2,6 +2,7 @@
 imdb: "2139555"
 title: "Deixa Rolar"
 stars: "3/5"
+category: "movies"
 _title: "Playing It Cool"
 _year: "2014"
 _director: ["Justin Reardon", ]

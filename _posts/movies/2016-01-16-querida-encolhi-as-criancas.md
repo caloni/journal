@@ -1,6 +1,7 @@
 ---
 imdb: "0097523"
 stars: "3/5"
+category: "movies"
 title: "Querida, Encolhi as Crianças"
 _title: "Honey, I Shrunk the Kids"
 _year: "1989"

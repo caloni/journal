@@ -3,6 +3,7 @@ imdb: "0266697"
 count: 2
 title: "Kill Bill Volume 1"
 stars: "5/5"
+category: "movies"
 _title: "Kill Bill: Vol. 1"
 _year: "2003"
 _director: ["Quentin Tarantino", ]

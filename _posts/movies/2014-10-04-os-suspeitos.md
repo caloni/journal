@@ -2,6 +2,7 @@
 imdb: "0114814"
 title: "Os Suspeitos"
 stars: "5/5"
+category: "movies"
 _title: "The Usual Suspects"
 _year: "1995"
 _director: ["Bryan Singer", ]

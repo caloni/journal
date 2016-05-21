@@ -2,6 +2,7 @@
 imdb: "0092890"
 title: "Dirty Dancing Ritmo Quente"
 stars: "4/5"
+category: "movies"
 _title: "Dirty Dancing"
 _year: "1987"
 _director: ["Emile Ardolino", ]

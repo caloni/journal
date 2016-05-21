@@ -2,6 +2,7 @@
 imdb: "0052357"
 title: "Um Corpo Que Cai"
 stars: "5/5"
+category: "movies"
 _title: "Vertigo"
 _year: "1958"
 _director: ["Alfred Hitchcock", ]

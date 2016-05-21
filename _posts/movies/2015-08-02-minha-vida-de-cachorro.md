@@ -1,6 +1,7 @@
 ---
 imdb: "0089606"
 stars: "4/5"
+category: "movies"
 title: "Minha Vida de Cachorro"
 _title: "Mitt liv som hund"
 _year: "1985"

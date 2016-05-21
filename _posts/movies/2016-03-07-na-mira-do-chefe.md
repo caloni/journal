@@ -1,6 +1,7 @@
 ---
 imdb: "0780536"
 stars: "4/5"
+category: "movies"
 title: "Na Mira do Chefe"
 _title: "In Bruges"
 _year: "2008"

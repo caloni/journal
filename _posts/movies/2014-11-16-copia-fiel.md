@@ -2,6 +2,7 @@
 imdb: "1020773"
 title: "Cópia Fiel"
 stars: "5/5"
+category: "movies"
 _title: "Copie conforme"
 _year: "2010"
 _director: ["Abbas Kiarostami", ]

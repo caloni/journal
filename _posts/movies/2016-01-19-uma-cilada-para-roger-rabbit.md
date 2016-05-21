@@ -1,6 +1,7 @@
 ---
 imdb: "0096438"
 stars: "5/5"
+category: "movies"
 title: "Uma Cilada para Roger Rabbit"
 _title: "Who Framed Roger Rabbit"
 _year: "1988"

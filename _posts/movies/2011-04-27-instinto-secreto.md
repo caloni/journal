@@ -2,6 +2,7 @@
 imdb: "0780571"
 title: "Instinto Secreto"
 stars: "5/5"
+category: "movies"
 _title: "Mr. Brooks"
 _year: "2007"
 _director: ["Bruce A. Evans", ]

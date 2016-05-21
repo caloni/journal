@@ -1,6 +1,7 @@
 ---
 imdb: "3808342"
 stars: "4/5"
+category: "movies"
 title: "O Filho de Saul"
 _title: "Saul fia"
 _year: "2015"

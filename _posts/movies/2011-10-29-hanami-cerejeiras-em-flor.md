@@ -3,6 +3,7 @@ imdb: "0910559"
 revision: [2014-05-25]
 title: "Hanami Cerejeiras em Flor"
 stars: "5/5"
+category: "movies"
 _title: "Kirschblüten - Hanami"
 _year: "2008"
 _director: ["Doris Dörrie", ]

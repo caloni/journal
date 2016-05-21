@@ -2,6 +2,7 @@
 imdb: "2636522"
 title: "The Unbelievers"
 stars: "2/5"
+category: "movies"
 _title: "The Unbelievers"
 _year: "2013"
 _director: ["Gus Holwerda", ]

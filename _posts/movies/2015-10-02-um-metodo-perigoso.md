@@ -1,6 +1,7 @@
 ---
 imdb: "1571222"
 stars: "3/5"
+category: "movies"
 title: "Um Método Perigoso"
 _title: "A Dangerous Method"
 _year: "2011"

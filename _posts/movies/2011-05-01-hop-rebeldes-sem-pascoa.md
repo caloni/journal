@@ -2,6 +2,7 @@
 imdb: "1411704"
 title: "Hop Rebeldes sem Páscoa"
 stars: "3/5"
+category: "movies"
 _title: "Hop"
 _year: "2011"
 _director: ["Tim Hill", ]

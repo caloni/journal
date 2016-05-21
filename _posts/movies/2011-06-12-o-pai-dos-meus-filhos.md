@@ -2,6 +2,7 @@
 imdb: "1356928"
 title: "O Pai dos Meus Filhos"
 stars: "3/5"
+category: "movies"
 _title: "Le père de mes enfants"
 _year: "2009"
 _director: ["Mia Hansen-Løve", ]

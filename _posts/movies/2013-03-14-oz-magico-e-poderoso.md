@@ -2,6 +2,7 @@
 imdb: "1623205"
 title: "Oz Mágico e Poderoso"
 stars: "3/5"
+category: "movies"
 _title: "Oz the Great and Powerful"
 _year: "2013"
 _director: ["Sam Raimi", ]

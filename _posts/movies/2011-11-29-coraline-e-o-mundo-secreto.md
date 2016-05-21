@@ -2,6 +2,7 @@
 imdb: "0327597"
 title: "Coraline e o Mundo Secreto"
 stars: "4/5"
+category: "movies"
 _title: "Coraline"
 _year: "2009"
 _director: ["Henry Selick", ]

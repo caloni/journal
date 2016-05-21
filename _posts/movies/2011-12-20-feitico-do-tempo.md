@@ -2,6 +2,7 @@
 imdb: "0107048"
 title: "Feitiço do Tempo"
 stars: "5/5"
+category: "movies"
 _title: "Groundhog Day"
 _year: "1993"
 _director: ["Harold Ramis", ]

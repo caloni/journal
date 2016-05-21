@@ -2,6 +2,7 @@
 imdb: "1408101"
 title: "Além da Escuridão Star Trek"
 stars: "5/5"
+category: "movies"
 _title: "Star Trek Into Darkness"
 _year: "2013"
 _director: ["J.J. Abrams", ]

@@ -1,6 +1,7 @@
 ---
 imdb: "3488710"
 stars: "5/5"
+category: "movies"
 title: "A Travessia"
 _title: "The Walk"
 _year: "2015"

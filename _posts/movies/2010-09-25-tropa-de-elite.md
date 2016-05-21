@@ -2,6 +2,7 @@
 imdb: "0861739"
 title: "Tropa de Elite"
 stars: "5/5"
+category: "movies"
 _title: "Tropa de Elite"
 _year: "2007"
 _director: ["José Padilha", ]

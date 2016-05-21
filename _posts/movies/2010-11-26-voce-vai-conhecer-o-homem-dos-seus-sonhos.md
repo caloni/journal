@@ -2,6 +2,7 @@
 imdb: "1182350"
 title: "Você Vai Conhecer o Homem dos Seus Sonhos"
 stars: "3/5"
+category: "movies"
 _title: "You Will Meet a Tall Dark Stranger"
 _year: "2010"
 _director: ["Woody Allen", ]

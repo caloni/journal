@@ -2,6 +2,7 @@
 imdb: "2058107"
 title: "Uma Longa Viagem"
 stars: "3/5"
+category: "movies"
 _title: "The Railway Man"
 _year: "2013"
 _director: ["Jonathan Teplitzky", ]

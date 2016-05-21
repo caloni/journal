@@ -2,6 +2,7 @@
 imdb: "1375670"
 title: "Gente Grande"
 stars: "3/5"
+category: "movies"
 _title: "Grown Ups"
 _year: "2010"
 _director: ["Dennis Dugan", ]

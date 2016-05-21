@@ -2,6 +2,7 @@
 imdb: "0095088"
 title: "Elvira A Rainha das Trevas"
 stars: "3/5"
+category: "movies"
 _title: "Elvira: Mistress of the Dark"
 _year: "1988"
 _director: ["James Signorelli", ]

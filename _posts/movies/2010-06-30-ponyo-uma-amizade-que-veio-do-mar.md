@@ -3,6 +3,7 @@ imdb: "0876563"
 revision: [2013-09-02]
 title: "Ponyo Uma Amizade que Veio do Mar"
 stars: "4/5"
+category: "movies"
 _title: "Gake no ue no Ponyo"
 _year: "2008"
 _director: ["Hayao Miyazaki", ]

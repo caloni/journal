@@ -2,6 +2,7 @@
 title: "Le mystère du Snæfellsjökull"
 imdb: "1508304"
 stars: "3/5"
+category: "movies"
 _title: "Le mystère du Snæfellsjökull"
 _year: "2009"
 _director: ["Jean-Michel Roux", ]

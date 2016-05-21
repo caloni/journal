@@ -2,6 +2,7 @@
 imdb: "0038190"
 title: "Laços Humanos"
 stars: "5/5"
+category: "movies"
 _title: "A Tree Grows in Brooklyn"
 _year: "1945"
 _director: ["Elia Kazan", ]

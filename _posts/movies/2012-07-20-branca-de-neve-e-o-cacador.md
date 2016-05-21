@@ -2,6 +2,7 @@
 imdb: "1735898"
 title: "Branca de Neve e o Caçador"
 stars: "4/5"
+category: "movies"
 _title: "Snow White and the Huntsman"
 _year: "2012"
 _director: ["Rupert Sanders", ]

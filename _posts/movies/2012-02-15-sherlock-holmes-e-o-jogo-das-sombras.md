@@ -2,6 +2,7 @@
 imdb: "1515091"
 title: "Sherlock Holmes e o Jogo das Sombras"
 stars: "4/5"
+category: "movies"
 _title: "Sherlock Holmes: A Game of Shadows"
 _year: "2011"
 _director: ["Guy Ritchie", ]

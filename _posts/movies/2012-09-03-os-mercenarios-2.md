@@ -2,6 +2,7 @@
 imdb: "1764651"
 title: "Os Mercenários 2"
 stars: "3/5"
+category: "movies"
 _title: "The Expendables 2"
 _year: "2012"
 _director: ["Simon West", ]

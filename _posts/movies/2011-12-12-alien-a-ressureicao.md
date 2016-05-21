@@ -2,6 +2,7 @@
 imdb: "0118583"
 title: "Aliens A Ressueição"
 stars: "4/5"
+category: "movies"
 _title: "Alien: Resurrection"
 _year: "1997"
 _director: ["Jean-Pierre Jeunet", ]

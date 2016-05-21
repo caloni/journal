@@ -2,6 +2,7 @@
 imdb: "2132324"
 title: "Elefante Branco"
 stars: "4/5"
+category: "movies"
 _title: "Elefante blanco"
 _year: "2012"
 _director: ["Pablo Trapero", ]

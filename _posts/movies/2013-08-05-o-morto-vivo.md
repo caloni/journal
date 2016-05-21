@@ -2,6 +2,7 @@
 imdb: "1336006"
 title: "O Morto Vivo"
 stars: "4/5"
+category: "movies"
 _title: "The Revenant"
 _year: "2009"
 _director: ["D. Kerry Prior", ]

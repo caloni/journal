@@ -3,6 +3,7 @@ imdb: "2262227"
 count: 2
 title: "O Livro da Vida"
 stars: "4/5"
+category: "movies"
 revision: [2014-12-10]
 _title: "The Book of Life"
 _year: "2014"

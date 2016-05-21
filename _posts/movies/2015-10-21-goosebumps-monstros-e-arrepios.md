@@ -1,6 +1,7 @@
 ---
 imdb: "1051904"
 stars: "3/5"
+category: "movies"
 title: "Goosebumps: Monstros e Arrepios"
 _title: "Goosebumps"
 _year: "2015"

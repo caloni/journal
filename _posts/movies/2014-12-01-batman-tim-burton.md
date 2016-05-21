@@ -2,6 +2,7 @@
 imdb: "0096895"
 title: "Batman de Tim Burton"
 stars: "3/5"
+category: "movies"
 _title: "Batman"
 _year: "1989"
 _director: ["Tim Burton", ]

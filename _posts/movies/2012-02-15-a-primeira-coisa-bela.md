@@ -2,6 +2,7 @@
 imdb: "1467273"
 title: "La prima cosa bella"
 stars: "5/5"
+category: "movies"
 _title: "La prima cosa bella"
 _year: "2010"
 _director: ["Paolo Virzì", ]

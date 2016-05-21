@@ -2,6 +2,7 @@
 imdb: "0085959"
 title: "Monty Python O Sentido da Vida"
 stars: "5/5"
+category: "movies"
 _title: "The Meaning of Life"
 _year: "1983"
 _director: ["Terry Jones", "Terry Gilliam", ]

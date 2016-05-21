@@ -2,6 +2,7 @@
 imdb: "1007029"
 title: "A Dama de Ferro"
 stars: "2/5"
+category: "movies"
 _title: "The Iron Lady"
 _year: "2011"
 _director: ["Phyllida Lloyd", ]

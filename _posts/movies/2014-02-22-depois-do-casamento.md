@@ -2,6 +2,7 @@
 imdb: "0457655"
 title: "Depois do Casamento"
 stars: "5/5"
+category: "movies"
 _title: "Efter brylluppet"
 _year: "2006"
 _director: ["Susanne Bier", ]

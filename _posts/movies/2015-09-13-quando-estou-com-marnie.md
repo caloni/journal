@@ -1,6 +1,7 @@
 ---
 imdb: "3398268"
 stars: "4/5"
+category: "movies"
 title: "Quando Estou Com Marnie"
 revision: [2015-11-22]
 _title: "Omoide no Mânî"

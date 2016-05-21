@@ -2,6 +2,7 @@
 imdb: "0441773"
 title: "Kung Fu Panda"
 stars: "5/5"
+category: "movies"
 _title: "Kung Fu Panda"
 _year: "2008"
 _director: ["Mark Osborne", "John Stevenson", ]

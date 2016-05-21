@@ -2,6 +2,7 @@
 imdb: "2174934"
 review-title: "Casadentro"
 stars: "3/5"
+category: "movies"
 title: "Casadentro"
 _title: "Casadentro"
 _year: "2013"

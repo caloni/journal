@@ -2,6 +2,7 @@
 imdb: "0332280"
 title: "Diário de uma Paixão"
 stars: "4/5"
+category: "movies"
 _title: "The Notebook"
 _year: "2004"
 _director: ["Nick Cassavetes", ]

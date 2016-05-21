@@ -1,6 +1,7 @@
 ---
 imdb: "1964418"
 stars: "3/5"
+category: "movies"
 title: "Tomorrowland: Um Lugar Onde Nada é Impossível"
 _title: "Tomorrowland"
 _year: "2015"

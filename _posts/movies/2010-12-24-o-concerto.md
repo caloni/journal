@@ -2,6 +2,7 @@
 imdb: "1320082"
 title: "O concerto"
 stars: "4/5"
+category: "movies"
 _title: "Le concert"
 _year: "2009"
 _director: ["Radu Mihaileanu", ]

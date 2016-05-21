@@ -2,6 +2,7 @@
 imdb: "0094012"
 title: "SOS Tem um Louco Solto no Espaço"
 stars: "4/5"
+category: "movies"
 _title: "Spaceballs"
 _year: "1987"
 _director: ["Mel Brooks", ]

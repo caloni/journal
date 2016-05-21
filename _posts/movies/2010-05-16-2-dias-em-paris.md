@@ -2,6 +2,7 @@
 imdb: "0841044"
 title: "2 Dias em Paris"
 stars: "2/5"
+category: "movies"
 _title: "2 Days in Paris"
 _year: "2007"
 _director: ["Julie Delpy", ]

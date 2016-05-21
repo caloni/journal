@@ -2,6 +2,7 @@
 imdb: "1772341"
 title: "Detona Ralph"
 stars: "4/5"
+category: "movies"
 _title: "Wreck-It Ralph"
 _year: "2012"
 _director: ["Rich Moore", ]

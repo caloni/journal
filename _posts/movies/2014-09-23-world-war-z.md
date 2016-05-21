@@ -2,6 +2,7 @@
 imdb: "0816711"
 title: "World War Z"
 stars: "4/5"
+category: "movies"
 _title: "World War Z"
 _year: "2013"
 _director: ["Marc Forster", ]

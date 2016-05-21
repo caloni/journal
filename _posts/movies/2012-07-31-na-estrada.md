@@ -2,6 +2,7 @@
 imdb: "0337692"
 title: "Na Estrada"
 stars: "4/5"
+category: "movies"
 _title: "On the Road"
 _year: "2012"
 _director: ["Walter Salles", ]

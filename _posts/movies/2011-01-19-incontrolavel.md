@@ -2,6 +2,7 @@
 imdb: "0477080"
 title: "Incontrolável"
 stars: "3/5"
+category: "movies"
 _title: "Unstoppable"
 _year: "2010"
 _director: ["Tony Scott", ]

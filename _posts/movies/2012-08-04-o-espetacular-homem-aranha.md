@@ -2,6 +2,7 @@
 imdb: "0948470"
 title: "O Espetacular Homem-Aranha"
 stars: "3/5"
+category: "movies"
 _title: "The Amazing Spider-Man"
 _year: "2012"
 _director: ["Marc Webb", ]

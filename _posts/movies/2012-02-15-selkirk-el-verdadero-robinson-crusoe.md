@@ -2,6 +2,7 @@
 title: "Selkirk el verdadero Robinson Crusoe"
 imdb: "2231505"
 stars: "3/5"
+category: "movies"
 _title: "Selkirk, el verdadero Robinson Crusoe"
 _year: "2012"
 _director: ["Walter Tournier", ]

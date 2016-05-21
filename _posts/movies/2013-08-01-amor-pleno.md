@@ -2,6 +2,7 @@
 imdb: "1595656"
 title: "Amor Pleno"
 stars: "4/5"
+category: "movies"
 _title: "To the Wonder"
 _year: "2012"
 _director: ["Terrence Malick", ]

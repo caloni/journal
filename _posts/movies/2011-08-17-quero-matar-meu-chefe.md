@@ -2,6 +2,7 @@
 imdb: "1499658"
 title: "Quero Matar Meu Chefe"
 stars: "3/5"
+category: "movies"
 _title: "Horrible Bosses"
 _year: "2011"
 _director: ["Seth Gordon", ]

@@ -2,6 +2,7 @@
 imdb: "0372588"
 title: "Team America Detonando o Mundo"
 stars: "4/5"
+category: "movies"
 _title: "Team America: World Police"
 _year: "2004"
 _director: ["Trey Parker", ]

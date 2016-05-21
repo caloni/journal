@@ -2,6 +2,7 @@
 imdb: "0388419"
 title: "Um Natal Muito Muito Louco"
 stars: "3/5"
+category: "movies"
 _title: "Christmas with the Kranks"
 _year: "2004"
 _director: ["Joe Roth", ]

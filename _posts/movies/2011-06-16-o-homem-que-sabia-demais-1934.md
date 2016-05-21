@@ -2,6 +2,7 @@
 imdb: "0025452"
 title: "O Homem que Sabia Demais"
 stars: "4/5"
+category: "movies"
 _title: "The Man Who Knew Too Much"
 _year: "1934"
 _director: ["Alfred Hitchcock", ]

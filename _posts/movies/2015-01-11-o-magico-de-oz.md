@@ -2,6 +2,7 @@
 imdb: "0032138"
 title: "O Mágico de Oz"
 stars: "4/5"
+category: "movies"
 _title: "The Wizard of Oz"
 _year: "1939"
 _director: ["Victor Fleming", "George Cukor", "Mervyn LeRoy", "Norman Taurog", "King Vidor", ]
