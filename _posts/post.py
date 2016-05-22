@@ -148,6 +148,7 @@ def PublishToSocialMedia(post):
         print '*** Pushing changes'
         PushChanges(postInfo)
         link = baseUrl + postInfo['permalink']
+
         if republish == True:
             webbrowser.open_new_tab(link)
             print 'press any key to continue and publish...'
@@ -156,7 +157,16 @@ def PublishToSocialMedia(post):
             print '*** Waiting page ' + link
             while WebPageExists(link) == False:
                 time.sleep(10)
-        postInfo['shortlink'] = Shortener('Tinyurl').short(baseUrl + postInfo['permalink']).encode('utf-8')
+
+        shortenerOk = False
+        while shortenerOk == False:
+            time.sleep(3)
+            try:
+                postInfo['shortlink'] = Shortener('Tinyurl', apikey='AIzaSyCuDCcM1utV1zbkiRDd-TX_8FrYT9ApISw').short(baseUrl + postInfo['permalink']).encode('utf-8')
+                shortenerOk = True
+            except Exception as e:
+                print "Exception in shortener, waiting: ", str(e)
+
         print '*** Publishing to Twitter'
         PublishToTwitter(postInfo)
         print '*** Publishing to Facebook'
