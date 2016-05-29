@@ -20,6 +20,15 @@ import facebook_cinetenisverde as facebook_credentials
 baseUrl = 'http://www.cinetenisverde.com.br/' 
 
 
+def GetShortener(shortener):
+    ret = None
+    if shortener == 'Google':
+        ret = Shortener(shortener, api_key= 'AIzaSyCuDCcM1utV1zbkiRDd-TX_8FrYT9ApISw')
+    else:
+        ret = Shortener(shortener)
+    return ret
+
+
 def WebPageExists(url):
     try:
         urllib2.urlopen(url)
@@ -158,14 +167,17 @@ def PublishToSocialMedia(post):
             while WebPageExists(link) == False:
                 time.sleep(10)
 
+        lastShortener = 'Google'
         shortenerOk = False
         while shortenerOk == False:
             time.sleep(3)
             try:
-                postInfo['shortlink'] = Shortener('Tinyurl', apikey='AIzaSyCuDCcM1utV1zbkiRDd-TX_8FrYT9ApISw').short(baseUrl + postInfo['permalink']).encode('utf-8')
+                shortener = GetShortener(lastShortener)
+                postInfo['shortlink'] = shortener.short(baseUrl + postInfo['permalink']).encode('utf-8')
                 shortenerOk = True
             except Exception as e:
                 print "Exception in shortener, waiting: ", str(e)
+                lastShortener = 'Google' if lastShortener != 'Google' else 'Tinyurl'
 
         print '*** Publishing to Twitter'
         PublishToTwitter(postInfo)
