@@ -1,7 +1,7 @@
 ---
 category: "movies"
 imdb: "2168180"
-stars: "3/5"
+stars: "4/5"
 title: "Nise: O Coração da Loucura"
 _title: "Nise: O Coração da Loucura"
 _year: "2015"
