@@ -47,7 +47,7 @@ def PublishToTwitter(postInfo):
     """
     t = twitter.Twitter(auth=twitter_credentials.auth)
     
-    with open("C:\\project\\caloni.github.io\\images\\" + postInfo["permalink"] + ".jpg", "rb") as imagefile:
+    with open("C:\\projects\\caloni.github.io\\images\\" + postInfo["permalink"] + ".jpg", "rb") as imagefile:
     	imagedata = imagefile.read()
     t_up = twitter.Twitter(domain='upload.twitter.com', auth=twitter_credentials.auth)
     id_img1 = t_up.media.upload(media=imagedata)["media_id_string"]
@@ -61,7 +61,7 @@ def PublishToFacebook(postInfo):
     """
     http://nodotcom.org/python-facebook-tutorial.html
     """
-    with open("C:\\project\\caloni.github.io\\images\\" + postInfo["permalink"] + ".jpg", "rb") as imagefile:
+    with open("C:\\projects\\caloni.github.io\\images\\" + postInfo["permalink"] + ".jpg", "rb") as imagefile:
     	imagedata = imagefile.read()
 
     st = postInfo['title'] + '\n\n' + postInfo['paragraph'] + '\n\n' + baseUrl + postInfo['permalink']
