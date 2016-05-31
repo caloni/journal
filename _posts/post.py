@@ -20,6 +20,17 @@ import facebook_caloni as facebook_credentials
 baseUrl = 'http://www.caloni.com.br/' 
 
 
+def GetShortener(shortener):
+    ret = None
+    if shortener == 'Google':
+        ret = Shortener('Tinyurl')
+        #todo get api key for caloni
+        #ret = Shortener(shortener, api_key= 'AIzaSyCuDCcM1utV1zbkiRDd-TX_8FrYT9ApISw')
+    else:
+        ret = Shortener(shortener)
+    return ret
+
+
 def WebPageExists(url):
     try:
         urllib2.urlopen(url)
@@ -80,10 +91,7 @@ def GetPostInfo(post):
 
 
 def PushChanges(postInfo):
-    subprocess.call(['git', 'add', 'archive' + '/' + postInfo['file']])
-    #subprocess.call(['git', 'add', '..\\images\\' + postInfo['permalink'] + '.jpg'])
-    #todo: fix encoding thing
-    #subprocess.call(['git', 'commit', '-m', '\"' + postInfo['tagline'].encode(sys.stdout.encoding) + '\"'])
+    subprocess.call(['git', 'add', '..'])
     subprocess.call(['git', 'commit', '-m', 'One More Post'])
     subprocess.call(['git', 'push'])
 
@@ -109,7 +117,7 @@ def PublishToSocialMedia(post):
         print '*** Getting post info'
         postInfo = GetPostInfo(post)
         webbrowser.open_new_tab('https://www.google.com.br/search?q=' + postInfo['title'] + '&tbm=isch')
-        subprocess.Popen('explorer "C:\\project\\caloni.github.io\\_posts"')
+        subprocess.Popen('explorer "C:\\projects\\caloni.github.io\\_posts"')
         print 'press any key to continue...'
         m.getch()
         print '*** Preparing image'
@@ -124,7 +132,19 @@ def PublishToSocialMedia(post):
         print '*** Waiting page ' + link
         while WebPageExists(link) == False:
             time.sleep(10)
-        postInfo['shortlink'] = Shortener('Tinyurl').short(baseUrl + postInfo['permalink']).encode('utf-8')
+
+        lastShortener = 'Google'
+        shortenerOk = False
+        while shortenerOk == False:
+            time.sleep(3)
+            try:
+                shortener = GetShortener(lastShortener)
+                postInfo['shortlink'] = shortener.short(baseUrl + postInfo['permalink']).encode('utf-8')
+                shortenerOk = True
+            except Exception as e:
+                print "Exception in shortener, waiting: ", str(e)
+                lastShortener = 'Google' if lastShortener != 'Google' else 'Tinyurl'
+
         print '*** Publishing to Twitter'
         PublishToTwitter(postInfo)
         print '*** Publishing to Facebook'
@@ -133,11 +153,11 @@ def PublishToSocialMedia(post):
         webbrowser.open_new_tab(link)
         webbrowser.open_new_tab('https://www.facebook.com/bloguedocaloni/')
         webbrowser.open_new_tab('https://tweetdeck.twitter.com/')
-        shutil.move('\\images\\' + postInfo['permalink'] + '.jpg', '\\screenshots')
+        shutil.copyfile('..\\images\\' + postInfo['permalink'] + '.jpg', '\\screenshots')
     except Exception as e:
         print '*** Something gone wrong!'
         if afterMove == True:
-            shutil.move('\\images\\' + postInfo['permalink'] + '.jpg', '.')
+            shutil.move('..\\images\\' + postInfo['permalink'] + '.jpg', '.')
             shutil.move('archive\\' + post, '.')
         raise
 
