@@ -15,6 +15,10 @@ O conteúdo e a palestra está no [GitHub](https://github.com/Caloni/StackOverfl
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/qRb4TSKjnf8Wx" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/WanderleyCaloni/stack-overflow-61945232" title="Stack overflow" target="_blank">Stack overflow</a> </strong> from <strong><a href="//www.slideshare.net/WanderleyCaloni" target="_blank">Wanderley Caloni</a></strong> </div>
 
+_PS: Ah, esqueci. Também fiz um vídeo para complementar o conteúdo da palestra. Segue:_
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kSKQQDTBRXQ?list=PLa0QVTprDkHBz6fjuzy4kU1iTLUnRWkeW" frameborder="0" allowfullscreen></iframe>
+
 # Sobre ataques que mexem com a pilha
 
 Um StackOverflow é definido pela escrita em uma região não autorizada de memória. Stack overflow, overrun, etc, não interessando a nomenclatura "oficial", o importante aqui é como um bug de acesso à memória pode permitir acesso exclusivo a regiões de memória que não estariam disponíveis para um atacante se não fosse por esse bug.
