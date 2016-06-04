@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Search"
+title: "Busca"
 sitemap: false
 image:
   feature: google.jpg

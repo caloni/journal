@@ -1,7 +1,7 @@
 ---
 layout: post-index
 title: Posts
-excerpt: "All the posts"
+excerpt: "Todos os posts"
 image:
   feature: posts.jpg
 ---

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the Guy
+title: Sobre o autor
 tags: [about, author]
 modified: 2016-04-03
 comments: true

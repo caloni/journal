@@ -1,7 +1,7 @@
 ---
-layout: post-index
-title: Lectures
-excerpt: "Lectures"
+layout: lecture-index
+title: Palestras
+excerpt: "Todas as palestras"
 image:
   feature: lectures.jpg
   credit: caloni
