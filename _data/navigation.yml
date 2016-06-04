@@ -3,11 +3,11 @@
 - title: Posts
   url: /posts/
 
+- title: Lectures
+  url: /lectures/
+
 - title: Search
   url: /search/
 
 - title: About
   url: /about/
-
-- title: Setup
-  url: /theme-setup/

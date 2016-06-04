@@ -5,7 +5,7 @@ tags: [about, author]
 modified: 2016-04-03
 comments: true
 image:
-  feature: sample-image-2.jpg
+  feature: about.jpg
   credit: Caloni
   creditlink:
 ---
