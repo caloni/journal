@@ -1,6 +1,7 @@
 ---
 title: "Depurando até o fim do mundo e de volta de novo: source server com GitHub"
 tags: [windbg, source symbol, symbols, srcsrv, depuração, debug, pdb, pdbstr, dbgtools, debugging tools]
+category: [ videos ]
 ---
 <a href="http://imgur.com/5AIJUZM"><img src="http://i.imgur.com/5AIJUZM.jpg" title="Hobbit também usa Git" /></a>
 
