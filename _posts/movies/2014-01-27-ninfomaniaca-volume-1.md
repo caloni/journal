@@ -1,8 +1,10 @@
 ---
 imdb: "1937390"
-title: "Ninfomaníaca"
+title: "Ninfomaníaca Vol. 1"
 stars: "4/5"
 category: "movies"
+date: 2016-06-06
+tags: [ "nymphomaniac" ]
 _title: "Nymphomaniac: Vol. I"
 _year: "2013"
 _director: ["Lars von Trier", ]
@@ -19,9 +21,6 @@ _ratio: "1.85 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMjA3Njc5MjI5Ml5BMl5BanBnXkFtZTgwNTY3Mjg3MDE@._V1._SX94_SY140_.jpg"
 ---
-
-
-
 Antes mesmo de ser anunciado, a ideia de um filme sobre uma ninfomaníaca dirigido pelo pessimista Lars von Trier (Dogville, Melancolia, Dançando no Escuro) já fazia todo o sentido: experimentando uma vida vazia de significado, mas cheia de sexo por todos os lados, a história de Joe (Charlotte Gainsbourg) atravessa todos os períodos da sua vida e aparentemente não há qualquer resquício nela de prazer, paixão ou saudade. Tendo que ser dividido em volumes por causa de sua longa duração, a experiência ainda recebe toques metalinguísticos, pois "Ninfomaníaca, Volume I" é uma experiência tão incompleta e inacabada quanto a sintomática personagem, vivida por Charlotte Gainsbourg de maneira amargurada ao calcular todo o mal que já fez para o mundo.
 
 Por outro lado, o lado mais inesperado do filme é seu humor, e me admirei por estar rindo em um filme desse diretor. Conseguindo equilibrar a narrativa através de episódios bem definidos e tendo como interlocutor um homem culto (Stellan Skarsgård) e dotado de conhecimentos dos mais diversos que permitem que ele faça inúmeras analogias entre sexo e atividades aparentemente sem relação (como pescaria), o roteiro, também assinado por von Trier, pula entre períodos da vida de Joe com extrema facilidade e leveza, tornando a nossa percepção de sua vida menos impactante do que poderíamos esperar.
