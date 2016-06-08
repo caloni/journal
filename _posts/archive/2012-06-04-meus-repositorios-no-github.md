@@ -8,6 +8,7 @@ wordpress_id: 1403
 categories:
 - Blogging
 - Código
+- palestras
 ---
 
 Depois de vacilar por alguns meses, incentivado pelo meu amigo [Chico Pimenta](http://oblita.com/Welcome.html), resolvi experimentar o tal do GitHub, e consequentemente o sistema de controle de fontes distribuído Git, que antes era meio exclusivo do Linux (continua meio sendo, mas com suporte um pouco melhor para Windows).

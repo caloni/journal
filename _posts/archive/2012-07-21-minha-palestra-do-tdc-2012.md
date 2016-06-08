@@ -10,6 +10,7 @@ categories:
 - Código
 tags:
 - eventos
+- palestras
 ---
 
 [![](/images/Palestra-TDC2012.jpg)](/images/Palestra-TDC2012.jpg)

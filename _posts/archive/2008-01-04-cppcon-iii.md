@@ -7,6 +7,7 @@ title: CppCon III
 wordpress_id: 322
 categories:
 - C++
+- palestras
 ---
 
 O ano de 2008 promete. Pelo menos no começo.

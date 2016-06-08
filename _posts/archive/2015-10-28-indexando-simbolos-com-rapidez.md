@@ -1,6 +1,6 @@
 ---
 title: "Indexando símbolos com rapidez"
-tags: [controle de fonte, git, mercurial, bazaar, binários, símbolos, debugging tools, windbg, symstore, visual studio, procedimento, boas práticas, bitforge]
+tags: [palestras, controle de fonte, git, mercurial, bazaar, binários, símbolos, debugging tools, windbg, symstore, visual studio, procedimento, boas práticas, bitforge]
 ---
 Trabalhar com inúmeros projetos de diferentes clientes e diferentes binários pode ser uma loucura. Quando o mundo é Windows, algumas medidas precisam ser padronizadas para evitar a perda de informação durante todo o processo de desenvolvimento, testes, deploy e manutenção.
 

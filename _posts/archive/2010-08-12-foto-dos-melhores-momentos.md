@@ -7,6 +7,7 @@ title: Foto dos melhores momentos
 wordpress_id: 928
 categories:
 - Depuração
+- palestras
 ---
 
 [![Tela azul de recordação](/images/telaazul_0309.thumbnail.jpg)](/images/telaazul_0309.jpg) Mais um quebra-cabeças antes da nossa palestra, esse "baseado em fatos reais".
