@@ -14,8 +14,6 @@ Nesse último sábado aconteceu, [como previsto](http://www.caloni.com.br/blog/c
 Aqui segue um breve relato sobre as palestras que ocorreram no evento.
 
 
-
-
 #### C++ com wxWidgets - Ivo Nascimento
 
 
@@ -61,23 +59,12 @@ Durante a apresentação foi mostrado um exemplo de uso das classes thread e mut
 
 Ao final da palestra, fiquei devendo os links. Bem, aqui estão eles:
 
-
-
-	
   * [ISO C++ Strategic Plan for Multithreading](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1815.html)
-
-	
   * [Thoughts on a Thread Library for C++](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2006/n2139.html)
-
-	
   * [A Memory Model for C++: Strawman Proposal](http://www.hpl.hp.com/personal/Hans_Boehm/c++mm/mm.html)
-
-	
   * [Multi-threading Library for Standard C++](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2447.htm)
 
-
 Para ver mais
-
 	
   * Segue o [álbum de fotos](http://picasaweb.google.com.br/alberto.fabiano/3EncontroDoGrupoCCBrasil1ReuniOTCnica/) disponibilizado pelo [Alberto Fabiano](http://techberto.wordpress.com/), organizador-mor do evento.
 

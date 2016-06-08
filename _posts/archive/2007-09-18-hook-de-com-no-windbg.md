@@ -8,11 +8,9 @@ wordpress_id: 179
 categories:
 - Depuração
 - Engenharia Reversa
+- palestras
 ---
-
-Continuando com o tema [_hooks_ no WinDbg](http://www.caloni.com.br/blog/?s=hook+WinDbg), vamos aqui "hookear" e analisar as chamadas de métodos de um objeto COM. O que será feito aqui é o mesmo experimento feito para uma palestra de engenharia reversa que apresentei há um tempo atrás, mas com as opções de _pause_, _rewind_, _replay_ e câmera lenta habilitadas.
-
-
+Continuando com o tema [_hooks_ no WinDbg](http://www.caloni.com.br/blog/?s=hook+WinDbg), vamos aqui "hookear" e analisar as chamadas de métodos de um objeto COM. O que será feito aqui é o mesmo experimento feito para uma palestra de engenharia reversa que apresentei há um tempo atrás [1], mas com as opções de _pause_, _rewind_, _replay_ e câmera lenta habilitadas.
 
 Antes de começar, se você não sabe nada sobre COM, não deveria estar aqui, mas [aqui](http://search.msdn.microsoft.com/search/Default.aspx?brand=msdn&locale=en-us&query=component+object+model), [aqui](http://www.1bit.com.br/content.1bit/weblog/sopa_de_letrinhas_com) e [aqui](http://compare.buscape.com.br/categoria?id=3482&lkout=1&kw=COM+Don+Box&site_origem=1293522).
 
@@ -251,3 +249,8 @@ E não é que tudo deu certo? A variável foi preenchida, e partir dela demos um
 Note que a função pode eventualmente ser chamada internamente (pelo próprio objeto) ou até por outro objeto que não estamos interessados em interceptar (lembre-se que os métodos de uma classe são compartilhados por todos os objetos). Por isso é importante sempre dar uma olhada no primeiro parâmetro, que é o **_this_** que obtemos primeiramente.
 
 Com isso termina o nosso pequeno experimento de como é possível interceptar chamadas COM simplesmente contando e usando o WinDbg. OK, talvez um pouquinho a mais, mas nada de quebrar a cabeça.
+
+[1] Engenharia Reversa para Principiantes:
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/cgeTnnM8pSIG0O" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/WanderleyCaloni/engenharia-reversa-para-principiantes" title="Engenharia Reversa para Principiantes" target="_blank">Engenharia Reversa para Principiantes</a> </strong> from <strong><a href="//www.slideshare.net/WanderleyCaloni" target="_blank">Wanderley Caloni</a></strong> </div>
+
