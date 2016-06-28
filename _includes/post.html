@@ -17,17 +17,20 @@
   </div>
   <div class="colophon">
     <p style="font-size: 1.5em;">
-        <span id="pub-date">Wanderley Caloni, {{ page.date | date_to_string }}</span> <span class="separator"></span>
         <span>
         {% if page.next.url %}
-        <a class="next" href="{{page.next.url}}">&lt;&lt;</a>
+        <a class="next" href="{{page.next.url}}"><b>&lt;&lt;</b></a>
+        {% endif %}
+        {% if page.previous.url %}
+        <a class="prev" href="{{page.previous.url}}"><b>&gt;&gt;</b></a>
         {% endif %}
         </span>
-        <span id="social"><a href="#" onclick="document.getElementById('disqus_thread').style.visibility = 'visible';">&#9997;</a></span>
+        <span id="pub-date">Wanderley Caloni, {{ page.date | date_to_string }}</span>
         <span>
-        {% if page.previous.url %}
-        <a class="prev" href="{{page.previous.url}}">&gt;&gt;</a>
-        {% endif %}
+        {% if page._title %}<span id="social"><a title="Rotten Tomatoes" href="http://www.rottentomatoes.com/search/?search={{ page._title }}">&#x1f345;</a></span>{% endif %}
+        {% if page.imdb != null %}<span id="social"><a title="IMDB: Internet Movie DataBase" href="http://www.imdb.com/title/tt{{ page.imdb }}">&#x1f3a6;</a></span>{% endif %}
+        {% if page.title %}<span id="social"><a title="Netflix" href="http://www.netflix.com/search/{{ page.title }}">&#x25b6;</a></span>{% endif %}
+        {% if page.title %}<span id="social"><a title="Adoro Cinema" href="http://www.adorocinema.com/busca/?q={{ page.title }}">&#x1f4ac;</a></span>{% endif %}
         </span>
 
 <div id="disqus_thread" style="visibility: hidden;"></div>
