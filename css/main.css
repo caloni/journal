@@ -134,13 +134,14 @@ a:hover {
 }
 
 #info-container {
-  margin-top: 3em;
+  margin-top: 2em;
+  margin-bottom: 2em;
 }
 
 #title {
   color: #4a4a4a;
   margin-bottom: 0.35em;
-  font-size: 3em;
+  font-size: 2em;
   line-height: 40px;
   text-transform: uppercase;
 }
