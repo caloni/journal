@@ -19,10 +19,10 @@
     <p style="font-size: 1.5em;">
         <span>
         {% if page.next.url %}
-        <a class="next" href="{{page.next.url}}"><b>&lt;&lt;</b></a>
+        <a class="next" title="Próximo" href="{{page.next.url}}"><b>&lt;&lt;</b></a>
         {% endif %}
         {% if page.previous.url %}
-        <a class="prev" href="{{page.previous.url}}"><b>&gt;&gt;</b></a>
+        <a class="prev" title="Anterior" href="{{page.previous.url}}"><b>&gt;&gt;</b></a>
         {% endif %}
         </span>
         <span id="pub-date">Wanderley Caloni, {{ page.date | date_to_string }}</span>
