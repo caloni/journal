@@ -1,26 +1,26 @@
 ---
 category: "movies"
-imdb: "0120903"
+imdb: "3385516"
 stars: "3/5"
 title: "X-Men: Apocalipse"
-_title: "X-Men"
-_year: "2000"
+_title: "X-Men: Apocalypse"
+_year: "2016"
 _director: ["Bryan Singer", ]
-_writer: ["Tom DeSanto", "Bryan Singer", "David Hayter", ]
-_cast: ["Hugh Jackman", "Patrick Stewart", "Ian McKellen", "Famke Janssen", "James Marsden", "Halle Berry", "Anna Paquin", "Tyler Mane", "Ray Park", ]
+_writer: ["Simon Kinberg", "Bryan Singer", "Simon Kinberg", "Michael Dougherty", "Dan Harris", ]
+_cast: ["James McAvoy", "Michael Fassbender", "Jennifer Lawrence", "Nicholas Hoult", "Oscar Isaac", "Rose Byrne", "Evan Peters", "Josh Helman", "Sophie Turner", ]
 _countries: ["USA", ]
 _languages: ["English", ]
-_editor: ["Steven Rosenblum", "Kevin Stitt", "John Wright", ]
+_editor: ["Michael Louis Hill", "John Ottman", ]
 _cinematographer: ["Newton Thomas Sigel", ]
-_music: ["Michael Kamen", ]
-_artdirection: ["Paul D. Austerberry", "Tamara Deverell", "Greg Papalia", ]
+_music: ["John Ottman", ]
+_artdirection: ["Ravi Bansal", "Michele Laliberte", "Veronique Meunier", ]
 _costume designer: ["Louise Mingenbach", ]
 _genres: ["Action", ]
-_runtimes: ["104", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BOTU3MzA3ODYyM15BMl5BanBnXkFtZTgwMDgwNzc3NjE@.jpg"
+_runtimes: ["144", ]
+_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjU1ODM1MzYxN15BMl5BanBnXkFtZTgwOTA4NDE2ODE@.jpg"
 _ratio: "2.35 : 1"
 _kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BOTU3MzA3ODYyM15BMl5BanBnXkFtZTgwMDgwNzc3NjE@._V1._SX94_SY140_.jpg"
+_cover: "http://ia.media-imdb.com/images/M/MV5BMjU1ODM1MzYxN15BMl5BanBnXkFtZTgwOTA4NDE2ODE@._V1._SX95_SY140_.jpg"
 ---
 O clássico problema da ótima direção não salvar um roteiro ruim. E, neste caso, o roteiro consegue construir a história mais fraca desde que "X-Men: O Filme" (do mesmo Bryan Singer, em 2000) deu à luz à série.
 
