@@ -12,12 +12,13 @@ $(document).ready(function(){
 
         if( query.length == 1 )
         {
-            regex = new RegExp(query[0], "i");
+            queryRegex = $.trim(query[0]);
+            regex = new RegExp(queryRegex, "i");
             hides = 0;
             shows = 0;
 
             $.each( $('.sortable'), function(i, sortable) {
-              $('td', sortable).each(function() {
+              $('tr', sortable).each(function() {
                 var srch = $(this).text() + $(this).find('a').prop('title');
                 if( srch.search(regex) < 0 )
                 {
@@ -40,7 +41,7 @@ $(document).ready(function(){
             total = 0;
             // mostra todo mundo
             $.each( $('.sortable'), function(i, sortable) {
-              $('td', sortable).each(function() {
+              $('tr', sortable).each(function() {
                 $(this).show()
                 total++;
                 });
@@ -50,10 +51,11 @@ $(document).ready(function(){
             // agora vai escondendo
             for( var i = 0; i < query.length; ++i )
             {
-                regex = new RegExp(query[i], "i");
+                queryRegex = $.trim(query[i]);
+                regex = new RegExp(queryRegex, "i");
 
                 $.each( $('.sortable'), function(i, sortable) {
-                  $('td', sortable).each(function() {
+                  $('tr', sortable).each(function() {
                     var srch = $(this).text() + $(this).find('a').prop('title');
                     if( srch.search(regex) < 0 )
                     {
