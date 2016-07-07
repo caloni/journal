@@ -1,6 +1,6 @@
 ---
 imdb: "0453047"
-title: "Elsa e Fred (2005)"
+title: "Elsa e Fred"
 stars: "4/5"
 category: "movies"
 _title: "Elsa y Fred"

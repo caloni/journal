@@ -1,6 +1,6 @@
 ---
 imdb: "0839995"
-title: "Superman II (Richard Donner, 2006)"
+title: "Superman II"
 stars: "5/5"
 category: "movies"
 _title: "Superman II"

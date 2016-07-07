@@ -2,7 +2,7 @@
 category: "movies"
 imdb: "3577624"
 stars: "4/5"
-title: "Um Dia Perfeito (2015)"
+title: "Um Dia Perfeito"
 _title: "A Perfect Day"
 _year: "2015"
 _director: ["Fernando León de Aranoa", ]

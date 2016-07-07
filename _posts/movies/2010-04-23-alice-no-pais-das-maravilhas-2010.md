@@ -1,6 +1,6 @@
 ---
 imdb: "1014759"
-title: "Alice no País das Maravilhas (Tim Burton, 2010)"
+title: "Alice no País das Maravilhas"
 stars: "3/5"
 category: "movies"
 _title: "Alice in Wonderland"
@@ -27,7 +27,7 @@ Dessa forma, o que dizer do estilizado Tim Burton e seu remake live-action do li
 
 Já o roteiro de Linda Woolverton, conhecida por clássicos contemporâneos de animação da Disney como O Rei Leão e A Bela e a Fera, dessa vez tropeça em uma trama tão repetida em romances no estilo Desejo e Reparação e seu casamento forçado por convenções sociais que ficamos tão entediados quanto a entendiante protagonista. Em compensação, podemos nos divertir nessa festa inicial no mundo real ao encontrarmos características dos personagens que irão ser comparáveis ao mundo fantasioso que Alice está prestes a conhecer, o que é um dos poucos pontos originais e interessantes da história. Para citar um exemplo facilmente reconhecível observe o comportamento das suas amigas, ambas de branco e com diálogos opostos, mas parecidos, e os gêmeos da terra das fantasias.
 
-Seria o tom exagerado das cenas do mundo real fruto da própria imaginação da protagonista, visto que o resto do filme passa dentro de seu próprio “sonho”? Talvez Burton tenha se aproveitado desse ponto de vista para aguçar a visão do espectador para o que estamos vendo é meramente uma caricatura da sociedade da época, assim como vimos em seu muito melhor A Noite Cadáver.
+Seria o tom exagerado das cenas do mundo real fruto da própria imaginação da protagonista, visto que o resto do filme passa dentro de seu próprio ¿sonho¿? Talvez Burton tenha se aproveitado desse ponto de vista para aguçar a visão do espectador para o que estamos vendo é meramente uma caricatura da sociedade da época, assim como vimos em seu muito melhor A Noite Cadáver.
 
 Isso pode ser deduzido inclusive das informações visuais durante o longa, na maioria das vezes com mensagens mais poderosas que seus diálogos (como é comum nos filmes do diretor). Por exemplo, quando seu pretendido pede-a em casamento, a câmera foca em seu sorriso e em seus dentes defeituosos, ao mesmo tempo em que a rainha branca fala sobre seu voto de nunca machucar nenhum ser vivo e uma mosca reluzente passa por ela, quando ela a desfere movimentos com a mão. Nota-se nessa última cena em específico que a intenção de denotar hipocrisia não se restringe apenas ao mundo do mal, mas todos os seres daquele mundo possuem seus lados irônicos de ser.
 

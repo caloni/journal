@@ -1,6 +1,6 @@
 ---
 imdb: "1939659"
-title: "Carrie, a Estranha (2013)"
+title: "Carrie, a Estranha"
 stars: "3/5"
 category: "movies"
 _title: "Carrie"
