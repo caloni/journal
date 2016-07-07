@@ -102,7 +102,14 @@ Runtime: {{ post._runtimes | join: ', ' }}
 Kind: {{ post._kind }}
 Ratio: {{ post._ratio }}"
 >
+        {% if post.stars == "5/5" or stars == "5/5" %}&#x2605;&#x2605;&#x2605;&#x2605;&#x2605;{% elsif post.stars == "4/5" or stars == "4/5" %}&#x2605;&#x2605;&#x2605;&#x2605;&#x2606;{% elsif post.stars == "3/5" or stars == "3/5" %}&#x2605;&#x2605;&#x2605;&#x2606;&#x2606;{% elsif post.stars == "2/5" or stars == "2/5" %}&#x2605;&#x2605;&#x2606;&#x2606;&#x2606;{% elsif post.stars == "1/5" or stars == "1/5" %}&#x2605;&#x2606;&#x2606;&#x2606;&#x2606;{% endif %}
+
         {{ post.title }}
+
+        {% if post._director or post._year %}
+        ({% if post._director %}{{ post._director | join: ', ' }}, {% endif %}{% if post._year %}{{ post._year }}{% endif %})
+        {% endif %}
+
         </a>
   </td></tr>
   {% endfor %}
