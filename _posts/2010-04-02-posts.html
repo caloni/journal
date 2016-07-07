@@ -83,6 +83,7 @@ $(document).ready(function(){
 Post Date: {{ post.date | date: '%Y%m%d' }}
 Post Category: {{ post.category }}
 Post Stars: {{ post.stars }}
+Tags: {{ post.tags }}
 Movie Revision: {% if post.revision %}{{ post.revision | join: ', ' }}{% else %}{{ post.date | date: '%Y%m%d' }}{% endif %}
 Revision Count: {% if post.revision %}{{ post.revision.size | plus: 1 }}{% else %}1{% endif %}
 Original Title: {{ post._title }}
