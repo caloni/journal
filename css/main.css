@@ -146,6 +146,10 @@ a:hover {
   text-transform: uppercase;
 }
 
+#post-info {
+  max-width: 725px;
+}
+
 .post {
   line-height: 24px;
   max-width: 725px;
