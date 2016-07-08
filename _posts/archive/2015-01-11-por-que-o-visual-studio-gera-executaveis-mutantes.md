@@ -2,8 +2,6 @@
 title: Por que o Visual Studio gera executáveis mutantes
 tags: [ bugs, visual studio, erros, código ]
 ---
-<a href="https://www.flickr.com/photos/120157483@N04/15583929474" title="Mutantes by Wanderley Caloni, on Flickr"><img src="https://farm8.staticflickr.com/7545/15583929474_c598e4cd08_o.jpg" alt="Mutantes"></a>
-
 > _Esse é um post antigo que encontrei no meio dos meus emails de 2006, mas que contém uma boa dica para quem já entendeu o [passo-a-passo da compilação](../entendendo-a-compilacao), mas ainda tem sérios problemas quando os projetos ficam gigantes._
 
 Essa é a segunda vez que encontro esse mesmo problema. Como acredito que outras almas podem estar sofrendo do mesmo mal, coloco aqui uma breve descrição de como o VC8 faz para gerar um executável que, mesmo não dependendo das DLLs de runtime, não são executados em sistemas que suportam a interpretação do ".manifest". De canja, um pequeno programa que exibe a lista dos programas instalados no sistema.
