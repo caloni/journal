@@ -150,6 +150,10 @@ a:hover {
   max-width: 725px;
 }
 
+.comments {
+  max-width: 725px;
+}
+
 .post {
   line-height: 24px;
   max-width: 725px;
