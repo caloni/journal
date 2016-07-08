@@ -76,7 +76,7 @@ def GetPostInfo(post):
     firstParagraph = False
     for l in f.readlines():
         if endHeader == 2:
-            m = re.search('^([^.]*.)', l)
+            m = re.search('^([^.?!]*.)', l)
             if m:
                 postInfo['tagline'] = m.group(1)
                 postInfo['paragraph'] = l

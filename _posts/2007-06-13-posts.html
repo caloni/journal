@@ -1,0 +1,95 @@
+---
+title: "Digite algo relacionado ao que procura"
+---
+<script src="{{ site.baseurl }}/scripts/jquery-2.1.3.min.js"></script>
+<script>
+$(document).ready(function(){
+    $("#filter").keyup(function(event){
+
+        query = $(this).val();
+        query = $.trim(query); //trim white space
+        query = query.split('&');
+
+        if( query.length == 1 )
+        {
+            queryRegex = $.trim(query[0]);
+            regex = new RegExp(queryRegex, "i");
+            hides = 0;
+            shows = 0;
+
+            $.each( $('.sortable'), function(i, sortable) {
+              $('tr', sortable).each(function() {
+                var srch = $(this).text() + $(this).find('a').prop('title');
+                if( srch.search(regex) < 0 )
+                {
+                    $(this).hide()
+                    hides++;
+                }
+                else
+                {
+                    $(this).show();
+                    shows++;
+                }
+                });
+            });
+
+            total = shows + hides;
+            $('#filter').prop('title', shows + ' de ' + total);
+        }
+        else 
+        {
+            total = 0;
+            // mostra todo mundo
+            $.each( $('.sortable'), function(i, sortable) {
+              $('tr', sortable).each(function() {
+                $(this).show()
+                total++;
+                });
+            });
+            shows = total;
+
+            // agora vai escondendo
+            for( var i = 0; i < query.length; ++i )
+            {
+                queryRegex = $.trim(query[i]);
+                regex = new RegExp(queryRegex, "i");
+
+                $.each( $('.sortable'), function(i, sortable) {
+                  $('tr', sortable).each(function() {
+                    var srch = $(this).text() + $(this).find('a').prop('title');
+                    if( srch.search(regex) < 0 )
+                    {
+                        if( $(this).is(":visible") )
+                        {
+                            shows--;
+                            $(this).hide()
+                        }
+                    }
+                    });
+                });
+            }
+
+            $('#filter').prop('title', shows + ' de ' + total);
+        }
+    });
+    $('#filter').focus();
+});
+</script>
+
+  <table class="sortable">
+  <input type="text" name="filter" value="" id="filter" style="width: 100%; font-size: 22px;" title=""/>
+  {% for post in site.posts %}
+  <tr><td>
+        <a href="{{ post.url }}" 
+        title="Post Title: {{ post.title }}
+Post Date: {{ post.date | date: '%Y%m%d' }}
+Post Category: {{ post.category }}
+Post Stars: {{ post.stars }}
+Tags: {{ post.tags | join: ', ' }}"
+>
+        {{ post.title }}
+
+        </a>
+  </td></tr>
+  {% endfor %}
+  </table>
