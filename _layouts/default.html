@@ -24,7 +24,8 @@
       <div class="sidebar" id="sidebar">
         <div class="header">
           <h1 class="title"><a href="/">Blogue do Caloni<img id="logo" src="/images/logo.png"></a></h1>
-          <h2>{% if page._title %}{{ page._title }}{% else %}{{ page.title }}{% endif %}</h2>
+          <h2>{{ page.title }}</h2>
+          <h5>{% if page.date %}{{ page.date | date_to_string }}{% endif %}</h5>
         </div>
        <div>
        <h2 style="text-align: center; margin-bottom: 20px;">
