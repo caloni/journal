@@ -22,8 +22,6 @@ Tudo começou em 1981, quando chegou às lojas o primeiro **IBM PC**, uma podero
 
 No mesmo ano uma empresa chamada Xerox pôs ao mundo uma estação de trabalho gráfica chamada [Star](http://en.wikipedia.org/wiki/Xerox_Star). Do Star vieram os conceitos de **janelas**, **ícones**, e o uso de um **hardware apontador** de tela chamado de mouse. De lá foram tiradas, portanto, as principais idéias que moldaram a criação dos futuros sistemas operacionais que revolucionaram o conceito de interação computador/usuário, como o [LISA](http://en.wikipedia.org/wiki/Apple_Lisa), da Apple - que mais tarde também deu origem ao **Macintosh** - e o sistema gráfico da Microsoft chamado **Windows**.
 
-![](/images/windows1.0.jpg)
-
 Em novembro de 1983 a Microsoft Corporation anuncia oficialmente, no Plaza Hotel em Nova York, o Microsoft Windows, a próxima geração de sistemas operacionais que irá ter uma **interface gráfica para o usuário** (GUI) e ambiente **multitarefa**. É possível que o nome original do sistema tivesse sido **Interface Manager** se um dos gênios do departamento de marketing da Microsoft, Rowland Hanson, não tivesse convencido o fundador da empresa, Bill Gates, que Windows seria um nome melhor por ser mais intuitivo. A promessa inicial dizia que o sistema iria ser lançado em abril do próximo ano.
 
 No início daquele ano, então, foi mostrada uma versão beta aos chefões da IBM, que não se mostraram muito entusiamados. Na verdade, a criadora do Personal Computer estava trabalhando num novo projeto que substituiria o sistema original da Microsoft, o MS-DOS.
