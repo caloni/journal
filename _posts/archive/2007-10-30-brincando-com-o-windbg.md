@@ -9,7 +9,7 @@ categories:
 - Depuração
 ---
 
-No [primeiro artigo sobre o WinDbg](http://www.caloni.com.br/blog/introducao-ao-debugging-tools-for-windows) usamos o aplicativo Logger para verificar as funções APIs que são chamadas por um determinado programa. Agora iremos dar um passo adiante e depurar de fato um aplicativo qualquer, com o detalhe que não teremos o código-fonte.
+No [primeiro artigo sobre o WinDbg](http://www.caloni.com.br/introducao-ao-debugging-tools-for-windows) usamos o aplicativo Logger para verificar as funções APIs que são chamadas por um determinado programa. Agora iremos dar um passo adiante e depurar de fato um aplicativo qualquer, com o detalhe que não teremos o código-fonte.
 
 
 

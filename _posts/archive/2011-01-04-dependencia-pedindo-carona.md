@@ -21,7 +21,7 @@ Foi o caso da ToolHelp32 no Windows NT 4.
 
 
 
-Quando compilamos, cada CPP vira uma coleção de funções que serão usadas, mais tarde, pelo linker, para juntar a bagunça. Para mais detalhes dessa fascinante história, recomendo o fantástico artigo sobre [Os diferentes erros na linguagem C](http://www.caloni.com.br/blog/os-diferentes-erros-na-linguagem-c), seção **Linkedição**.
+Quando compilamos, cada CPP vira uma coleção de funções que serão usadas, mais tarde, pelo linker, para juntar a bagunça. Para mais detalhes dessa fascinante história, recomendo o fantástico artigo sobre [Os diferentes erros na linguagem C](http://www.caloni.com.br/os-diferentes-erros-na-linguagem-c), seção **Linkedição**.
 
 Para as dependências localizadas fora do executável final, por exemplo, as DLLs do sistema, o linker cria uma entrada no formato padrão de executável que adiciona essa dependência extra que será resolvida na hora do programa rodar, quando o loader do sistema operacional terá que fazer um linker on-the-fly, catando todas as DLLs e funções necessárias para colocar o bichinho no ar.
 

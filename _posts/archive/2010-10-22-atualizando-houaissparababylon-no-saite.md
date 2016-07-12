@@ -19,7 +19,7 @@ O [último comentário no meu último artigo](http://www.caloni.com.br/blog/houa
   * [HouaissParaBabylon](/images/houaissparababylon12.7z)
 
 
-Essa é a versão 1.2 descrita no meu [último artigo sobre o projeto](http://www.caloni.com.br/blog/houaiss-para-babylon-12).
+Essa é a versão 1.2 descrita no meu [último artigo sobre o projeto](http://www.caloni.com.br/houaiss-para-babylon-12).
 
 De qualquer forma, qual não foi minha surpresa quando tentei recompilar o projeto e ocorreram erros no atlcom. Depois de uma [breve pesquisa](http://social.msdn.microsoft.com/Forums/en-US/vclanguage/thread/ad698507-d62c-4e7b-bb7a-12a03b939594) descobri que precisava rodar alguns "patches" para o include funcionar direito. Então, provavelmente, Willians, era esse o problema. Tente de novo.
 

@@ -16,7 +16,7 @@ tags:
 - nodejs
 ---
 
-O projeto Houaiss2Babylon, iniciado [há mais de 6 anos](http://www.caloni.com.br/blog/conversor-de-houaiss-para-babylon-parte-1), já devia estar ultrapassado. Porém, cada vez mais pessoas compartilham seus usos e desusos do que foi um dia uma base de dados ofuscada e presa a apenas uma interface Windows. Agora, além de já ter sido convertido para Kindle, em Python e agora através do nodejs para o MySql!
+O projeto Houaiss2Babylon, iniciado [há mais de 6 anos](http://www.caloni.com.br/conversor-de-houaiss-para-babylon-parte-1), já devia estar ultrapassado. Porém, cada vez mais pessoas compartilham seus usos e desusos do que foi um dia uma base de dados ofuscada e presa a apenas uma interface Windows. Agora, além de já ter sido convertido para Kindle, em Python e agora através do nodejs para o MySql!
 
 
 

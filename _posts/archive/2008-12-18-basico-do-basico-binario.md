@@ -152,7 +152,7 @@ Bom, acho que é isso. Já ultrapassei o limite do teórico, porque na verdade o
   * Conte em binário quando não estiver fazendo nada. É simples e ajuda a fixar. Dessa forma: um, um-zero, um-um, um-zero-zero, um-um-zero, um-um-um, ...
 
 	
-  * Decore a relação entre os números hexadecimal e binário. Você pode até esquecer isso depois, mas o esforço para decorar será útil para fixar. E nunca se sabe quando você terá que [reaver a MBR](http://www.caloni.com.br/blog/depuracao-da-mbr) de um cliente seu.
+  * Decore a relação entre os números hexadecimal e binário. Você pode até esquecer isso depois, mas o esforço para decorar será útil para fixar. E nunca se sabe quando você terá que [reaver a MBR](http://www.caloni.com.br/depuracao-da-mbr) de um cliente seu.
 
 	
   * Estude a lógica por trás da tabela ASCII e seus valores binários. Irá descobrir que existem relações muito óbvias entre letras, números (maíusculos e minúsculos) e sinais. Tente decorar.

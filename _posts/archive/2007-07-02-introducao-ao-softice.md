@@ -16,7 +16,7 @@ tags:
 
 O que acontece quando você precisa depurar um programa e não tem o Visual Studio instalado na máquina onde o problema está ocorrendo? Ora, para isso que existe o [Remote Debugging](http://msdn2.microsoft.com/en-us/library/bt727f1t(vs.80).aspx). Eu uso direto. Você só precisa rodar um pequeno programa na máquina que vai ser depurada e abrir uma porta ou duas. O resto o Visual Studio da máquina que vai depurar faz.
 
-Tudo bem, mas e se estamos falando de depuração em _kernel mode_? Bem, nesse caso o mais indicado é o nosso já conhecido [WinDbg](http://www.caloni.com.br/blog/introducao-ao-debugging-tools-for-windows). Só precisamos de um cabo serial, _firewire_ ou USB conectando as duas máquinas.
+Tudo bem, mas e se estamos falando de depuração em _kernel mode_? Bem, nesse caso o mais indicado é o nosso já conhecido [WinDbg](http://www.caloni.com.br/introducao-ao-debugging-tools-for-windows). Só precisamos de um cabo serial, _firewire_ ou USB conectando as duas máquinas.
 
 **Tá certo. Só que eu estou depurando o _kernel-mode_ de um ****Windows 95/98/ME.**
 

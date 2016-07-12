@@ -28,7 +28,7 @@ Para ter acesso aos meus projetos iniciais é simples: basta usar o mesmo comand
 
 
 	
-  * [MouseTool](http://www.caloni.com.br/blog/mousetool) - Simulador de clique de mouse
+  * [MouseTool](http://www.caloni.com.br/mousetool) - Simulador de clique de mouse
 
 	
     * 
@@ -43,7 +43,7 @@ Para ter acesso aos meus projetos iniciais é simples: basta usar o mesmo comand
 
 
 	
-  * [Influence Board](http://www.caloni.com.br/blog/influence-board) - Complemento ao Winboard que mostra a influência das peças
+  * [Influence Board](http://www.caloni.com.br/influence-board) - Complemento ao Winboard que mostra a influência das peças
 
 	
     * 
@@ -58,7 +58,7 @@ Para ter acesso aos meus projetos iniciais é simples: basta usar o mesmo comand
 
 
 	
-  * [Conversor Houaiss Babylon](http://www.caloni.com.br/blog/conversor-de-houaiss-para-babylon-parte-2) - Converte de um dicionário para o outro
+  * [Conversor Houaiss Babylon](http://www.caloni.com.br/conversor-de-houaiss-para-babylon-parte-2) - Converte de um dicionário para o outro
 
 	
     * 

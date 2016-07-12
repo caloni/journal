@@ -95,7 +95,7 @@ De fato, a lista de respostas é tudo que encontramos.
 #### Usando o .foreach (e uma nova busca)
 
 
-Assim como no [artigo sobre carregamento de DLLs arbitrárias](http://www.caloni.com.br/blog/carregando-dlls-arbitrarias-pelo-windbg-parte-2),  vamos usar o muito útil comando **.foreach**, que caminha em uma lista de resultados de um comando para executar uma lista secundária de comandos. Apenas para relembrar, a sintaxe do foreach é a seguinte:
+Assim como no [artigo sobre carregamento de DLLs arbitrárias](http://www.caloni.com.br/carregando-dlls-arbitrarias-pelo-windbg-parte-2),  vamos usar o muito útil comando **.foreach**, que caminha em uma lista de resultados de um comando para executar uma lista secundária de comandos. Apenas para relembrar, a sintaxe do foreach é a seguinte:
 
     
     .foreach [Options] ( <font color="#ff0000">Variable</font>  { <font color="#0000ff">InCommands</font> } ) { <font color="#008000">OutCommands</font> }

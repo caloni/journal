@@ -13,7 +13,7 @@ Houve um bom motivo para que, semana passada, eu estivesse caçando inúmeras ve
 
 
 
-Já [escrevi a respeito](http://www.caloni.com.br/blog/guia-basico-de-controle-de-codigo-source-safe) da importância de controlar e gerenciar o código-fonte para que a falta de um histórico exato das alterações não seja motivo de recorreções de problemas, binários no cliente sem contraparte para ajustes, além de uma série de dores de cabeça que costumam começar a ocorrer assim que nos damos conta que nosso software está uma bagunça que dói.
+Já [escrevi a respeito](http://www.caloni.com.br/guia-basico-de-controle-de-codigo-source-safe) da importância de controlar e gerenciar o código-fonte para que a falta de um histórico exato das alterações não seja motivo de recorreções de problemas, binários no cliente sem contraparte para ajustes, além de uma série de dores de cabeça que costumam começar a ocorrer assim que nos damos conta que nosso software está uma bagunça que dói.
 
 Na época, discursei brevemente sobre alguns exemplos de gerenciadores de fonte que utilizam **modelo centralizado**, e nos exemplos práticos usamos o famigerado **Source Safe**, velho amigo de quem já programa ou programou Windows por alguns anos. Além dele, temos os conhecidíssimos [CVS](http://www.nongnu.org/cvs/) e [Subversion](http://subversion.tigris.org/), ambos largamente utilizados no mundo todo.
 

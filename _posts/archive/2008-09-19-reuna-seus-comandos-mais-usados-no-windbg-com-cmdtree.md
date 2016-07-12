@@ -17,7 +17,7 @@ E não é pra menos. É de longe o melhor comando não-documentado do ano. Tão 
 #### Comandos repetitivos
 
 
-E eu estava justamente falando sobre essa [mania dos programadores](http://www.caloni.com.br/blog/todo-programador-e-um-filosofo-em-potencial) sempre acharem soluções para tarefas repetitivas e monótonas que o computador possa fazer sozinho.O comando .**cmdtree **é uma dessas soluções, pois possibilita ao depurador profissional juntar em uma só guia o conjunto de comandos mais usados por ele no dia-a-dia, por mais bizarros e com mais parâmetros que eles sejam, já que é possível representá-los por um _alias_ (apelido):
+E eu estava justamente falando sobre essa [mania dos programadores](http://www.caloni.com.br/todo-programador-e-um-filosofo-em-potencial) sempre acharem soluções para tarefas repetitivas e monótonas que o computador possa fazer sozinho.O comando .**cmdtree **é uma dessas soluções, pois possibilita ao depurador profissional juntar em uma só guia o conjunto de comandos mais usados por ele no dia-a-dia, por mais bizarros e com mais parâmetros que eles sejam, já que é possível representá-los por um _alias_ (apelido):
 
     
     windbg ANSI Command Tree 1.0

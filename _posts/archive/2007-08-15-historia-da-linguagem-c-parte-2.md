@@ -100,6 +100,6 @@ Como podemos ver, vários elementos (se não todos) da linguagem C já estão pr
   * [Users' Reference to B](http://cm.bell-labs.com/cm/cs/who/dmr/kbman.html), by Ken Thompson
 
     
-  * [Outros artigos sobre a história da linguagem C ](http://www.caloni.com.br/blog/search/historia%20da%20linguagem%20c%20-%20parte)
+  * [Outros artigos sobre a história da linguagem C ](http://www.caloni.com.br/search/historia%20da%20linguagem%20c%20-%20parte)
 
 

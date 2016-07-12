@@ -57,6 +57,6 @@ Para saber mais:[](http://cm.bell-labs.com/cm/cs/who/dmr/bcpl.html)
   * [BCPL Reference Manual](http://cm.bell-labs.com/cm/cs/who/dmr/bcpl.html) by Martin Richards
 
 	
-  * [Outros artigos sobre a história da linguagem C](http://www.caloni.com.br/blog/search/historia%20da%20linguagem%20c%20-%20parte)
+  * [Outros artigos sobre a história da linguagem C](http://www.caloni.com.br/search/historia%20da%20linguagem%20c%20-%20parte)
 
 

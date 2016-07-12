@@ -137,4 +137,4 @@ Sendo assim, abaixo segue um resumo da minha vida profissional, com as coisas qu
   * Desenvolvimento de artigos através de blogue técnico e comunidade Code Project (esse você já sabia, não é?)
 
 
-Talvez eu [atualize isso constantemente](http://www.caloni.com.br/blog/autor). Se bem que o mais certo a fazer é atualizar essa lista com artigos sobre o meu dia-a-dia escovando bits. Afinal de contas, eu tenho um blogue técnico!
+Talvez eu [atualize isso constantemente](http://www.caloni.com.br/autor). Se bem que o mais certo a fazer é atualizar essa lista com artigos sobre o meu dia-a-dia escovando bits. Afinal de contas, eu tenho um blogue técnico!

@@ -10,7 +10,7 @@ categories:
 - Programação
 ---
 
-Aproveitando um dos últimos artigos que fala sobre [conceitos básicos de programação](http://www.caloni.com.br/blog/guia-basico-para-programadores-de-primeiro-int-main), lembro que, tão importante quanto, é possuir habilidades básicas de depuração, uma arte por muitos programadores ignorada.
+Aproveitando um dos últimos artigos que fala sobre [conceitos básicos de programação](http://www.caloni.com.br/guia-basico-para-programadores-de-primeiro-int-main), lembro que, tão importante quanto, é possuir habilidades básicas de depuração, uma arte por muitos programadores ignorada.
 
 É interessante notar como muitos programadores e instituições de ensino ignoram a utilidade e conveniência das tradicionais e poderosas ferramentas de depuração passo-a-passo. O motivo pode ser puro desdém ou ignorância (no sentido de desconhecimento). Se for pelo segundo, aí vão algumas dicas para dar uma passada geral no seu programa e, quem sabe, encontrar um ou outro _bug_ pelo caminho.
 

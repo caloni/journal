@@ -85,6 +85,6 @@ Além disso, foi criada uma camada de abstração do _hardware_ (HAL, _Hardware 
   * [Windows Internals](http://compare.buscape.com.br/categoria?lkout=1&id=3482&kw=Windows+Internals+Russinovich&site_origem=1293522), by Mark Russinovich
 
 	
-  * [Outros artigos sobre a história do windows](http://www.caloni.com.br/blog/search/historia%20do%20windows%20-%20parte)
+  * [Outros artigos sobre a história do windows](http://www.caloni.com.br/search/historia%20do%20windows%20-%20parte)
 
 

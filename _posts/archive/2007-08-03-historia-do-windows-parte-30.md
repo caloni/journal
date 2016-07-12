@@ -211,7 +211,7 @@ Esse exemplo é bem velho, mas compila e funciona até hoje, depois de passados 
 
 **Travamentos no Windows 16 bits**
 
-O Windows 3.x tinha uma particularidade nefasta: qualquer aplicativo poderia travar o sistema como um todo. Se lembrarmos que o Windows antigamente era multitarefa e não-preemptivo, podemos deduzir que enquanto é executada a função de janela de um aplicativo o sistema aguarda por esse aplicativo indefinidamente. Se o aplicativo trava, ele nunca retorna. Se ele nunca retorna, o sistema fica eternamente esperando pelo retorno da função de janela. Alguns travamentos conseguiam ser resolvidos por interrupção, mas a maioria não. [No próximo capítulo da série](http://www.caloni.com.br/blog/historia-do-windows-parte-40) veremos como os sistemas de 32 bits resolveram esse pequeno problema.
+O Windows 3.x tinha uma particularidade nefasta: qualquer aplicativo poderia travar o sistema como um todo. Se lembrarmos que o Windows antigamente era multitarefa e não-preemptivo, podemos deduzir que enquanto é executada a função de janela de um aplicativo o sistema aguarda por esse aplicativo indefinidamente. Se o aplicativo trava, ele nunca retorna. Se ele nunca retorna, o sistema fica eternamente esperando pelo retorno da função de janela. Alguns travamentos conseguiam ser resolvidos por interrupção, mas a maioria não. [No próximo capítulo da série](http://www.caloni.com.br/historia-do-windows-parte-40) veremos como os sistemas de 32 bits resolveram esse pequeno problema.
 
 **Problemas para resolver**
 
@@ -234,6 +234,6 @@ Já que agora você sabe o que são funções de janela, mensagens e afins, por 
   * [Sítio de Charles Petzold](http://www.charlespetzold.com/)
 
     
-  * [Outros artigos sobre a história do windows](http://www.caloni.com.br/blog/search/historia%20do%20windows%20-%20parte)
+  * [Outros artigos sobre a história do windows](http://www.caloni.com.br/search/historia%20do%20windows%20-%20parte)
 
 

@@ -23,7 +23,7 @@ O [Fabio Montefuscolo](https://gist.github.com/fabiomontefuscolo) expandiu mais 
 #
 
 #
-# Segui o tutorial em http://www.caloni.com.br/blog/conversor-de-houaiss-para-babylon-parte-1
+# Segui o tutorial em http://www.caloni.com.br/conversor-de-houaiss-para-babylon-parte-1
 #
 
 import os

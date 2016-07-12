@@ -158,7 +158,7 @@ while( g_bruteForceContinue )
 
 
     
-  * [Outros artigos sobre a história do windows](http://www.caloni.com.br/blog/search/historia%20do%20windows%20-%20parte)
+  * [Outros artigos sobre a história do windows](http://www.caloni.com.br/search/historia%20do%20windows%20-%20parte)
 
     
   * [Windows 95: quinze anos de grandes feitos e telas azuis](http://www.geek.com.br/posts/13665-windows-95-quinze-anos-de-grandes-feitos-e-telas-azuis)

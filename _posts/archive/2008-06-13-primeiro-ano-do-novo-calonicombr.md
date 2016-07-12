@@ -9,9 +9,9 @@ categories:
 - Devaneando
 ---
 
-[![caloni-first-year.png](/images/caloni-first-year.thumbnail.png)](/images/caloni-first-year.png)Melhor que ter feito aniversário de dois anos no antigo blogue foi ter feito o primeiro aninho nesse novo formato, mais atualizado, mais diversificado e mais antenado com o [meu dia-a-dia real](http://www.caloni.com.br/blog/csi-crashed-server-investigation).
+[![caloni-first-year.png](/images/caloni-first-year.thumbnail.png)](/images/caloni-first-year.png)Melhor que ter feito aniversário de dois anos no antigo blogue foi ter feito o primeiro aninho nesse novo formato, mais atualizado, mais diversificado e mais antenado com o [meu dia-a-dia real](http://www.caloni.com.br/csi-crashed-server-investigation).
 
-No dia 14 de junho de 2007 foram publicadas as [boas vindas](http://www.caloni.com.br/blog/hello-world), e desde então o número de artigos tem se mantido sempre no formato três por semana, dois por semana, consecutivamente, distribuídos na segunda, quarta e sexta, terça e quinta. Esse [jogo de xadrez](http://www.caloni.com.br/blog/influence-board) tem me mantido bem ocupado, admito, mas no final até que vale a pena. Chegamos à marca de **130 artigos e 182 comentários dentro de 29 categorias**.
+No dia 14 de junho de 2007 foram publicadas as [boas vindas](http://www.caloni.com.br/hello-world), e desde então o número de artigos tem se mantido sempre no formato três por semana, dois por semana, consecutivamente, distribuídos na segunda, quarta e sexta, terça e quinta. Esse [jogo de xadrez](http://www.caloni.com.br/influence-board) tem me mantido bem ocupado, admito, mas no final até que vale a pena. Chegamos à marca de **130 artigos e 182 comentários dentro de 29 categorias**.
 
 
 
@@ -44,7 +44,7 @@ Por outro lado, alguns dados são muito interessantes, pois podem moldar o futur
 
 [![caloni-busca-no-google2.png](/images/caloni-busca-no-google2.png)](/images/caloni-busca-no-google2.png)
 
-No entanto, saber que o topo da lista é formado por buscas por "softice" não irá me fazer escrever mais artigos sobre esse depurador mais do [que eu escrevi](http://www.caloni.com.br/blog/introducao-ao-softice), até porque já é um depurador morto usado hoje em dia em raríssimos casos (no meu caso). Se você quer craquear um programa, mesmo que isso seja contra a lei, aprenda WinDbg que [você ganha mais](http://www.caloni.com.br/blog/category/windbg)!
+No entanto, saber que o topo da lista é formado por buscas por "softice" não irá me fazer escrever mais artigos sobre esse depurador mais do [que eu escrevi](http://www.caloni.com.br/introducao-ao-softice), até porque já é um depurador morto usado hoje em dia em raríssimos casos (no meu caso). Se você quer craquear um programa, mesmo que isso seja contra a lei, aprenda WinDbg que [você ganha mais](http://www.caloni.com.br/blog/category/windbg)!
 
 Das novidades que aconteceram durante esse ano, a maior e mais interessante foi o renascimento do [nosso grupo de C++](http://www.caloni.com.br/blog/category/ccpp-brasil), que talvez continue dessa vez a sua vida normal. Ou não. Esperemos que sim =)
 

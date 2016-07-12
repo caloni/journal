@@ -113,10 +113,10 @@ Se for detectar algum problema no sistema de boot baseado em MBR, então você t
 
 
 	
-  * Usar o **SoftICE 16 bits** e [depurar o carregamento da MBR pela BIOS](http://www.caloni.com.br/blog/debug-da-bios-com-o-softice-16-bits)
+  * Usar o **SoftICE 16 bits** e [depurar o carregamento da MBR pela BIOS](http://www.caloni.com.br/debug-da-bios-com-o-softice-16-bits)
 
 	
-  * Usar o **Debug 16 bits** do MS-DOS (ou similar) e [depurar diretamente o código de boot da MBR](http://www.caloni.com.br/blog/depuracao-da-mbr), reproduzindo os passos anteriores da BIOS.
+  * Usar o **Debug 16 bits** do MS-DOS (ou similar) e [depurar diretamente o código de boot da MBR](http://www.caloni.com.br/depuracao-da-mbr), reproduzindo os passos anteriores da BIOS.
 
 
 Se o problema for durante o carregamento do próprio sistema operacional, as mensagens de erro do loader são significativas. No entanto, pode-se usar o Debug mais uma vez e depurar essa parte, logo antes, é claro, do sistema entrar em modo protegido de 32 bits, o que daí já é outra história (que pretendo contar em breve).

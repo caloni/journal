@@ -12,7 +12,7 @@ tags:
 - windows
 ---
 
-_Devido à grande procura através de mecanismos de busca (vulgo Google), estarei republicando esse artigo dividido em [partes](http://www.caloni.com.br/blog/search/historia%20do%20windows%20-%20parte) (até porque existem partes não acabadas), cada parte descrevendo um conceito geral do que representou cada versão do sistema operacional._
+_Devido à grande procura através de mecanismos de busca (vulgo Google), estarei republicando esse artigo dividido em [partes](http://www.caloni.com.br/search/historia%20do%20windows%20-%20parte) (até porque existem partes não acabadas), cada parte descrevendo um conceito geral do que representou cada versão do sistema operacional._
 
 
 
@@ -47,7 +47,7 @@ O novo sistema não fez muito sucesso de imediato. Pelo contrário, foi consider
   * [História do Windows pela Wikipedia](http://en.wikipedia.org/wiki/History_of_Microsoft_Windows)
 
 	
-  * [Outros artigos sobre a história do windows](http://www.caloni.com.br/blog/search/historia%20do%20windows%20-%20parte) (Caloni.com.br)
+  * [Outros artigos sobre a história do windows](http://www.caloni.com.br/search/historia%20do%20windows%20-%20parte) (Caloni.com.br)
 
 	
   * [Outros artigos sobre a história do windows](http://www.google.com/search?q=historia%20do%20windows) (na Internet)

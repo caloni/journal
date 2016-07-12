@@ -14,7 +14,7 @@ tags:
 - programação
 ---
 
-Vimos na [primeira parte](http://www.caloni.com.br/blog/a-inteligencia-do-if-parte-1) desse artigo como o _if_ revolucionou o mundo da computação trazendo um salto que **depende de condições anteriores** e, portanto, depende do estado do programa. A ele chamamos de **salto condicional**. Agora veremos como implementar uma condição baseando-se no fato de que o computador pode apenas realizar operações matemáticas.
+Vimos na [primeira parte](http://www.caloni.com.br/a-inteligencia-do-if-parte-1) desse artigo como o _if_ revolucionou o mundo da computação trazendo um salto que **depende de condições anteriores** e, portanto, depende do estado do programa. A ele chamamos de **salto condicional**. Agora veremos como implementar uma condição baseando-se no fato de que o computador pode apenas realizar operações matemáticas.
 
 
 

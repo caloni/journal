@@ -113,7 +113,7 @@ Por exemplo, para mim foi urgente escrever este artigo, já que estou compromiss
 
 Bons cronogramas!
 
-PS: _para começar a medir seu desempenho ao realizar tarefas tente usar [este programa](http://www.caloni.com.br/blog/todolist)._
+PS: _para começar a medir seu desempenho ao realizar tarefas tente usar [este programa](http://www.caloni.com.br/todolist)._
 
 
 #### Para aprender a ser mais efetivo

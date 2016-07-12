@@ -23,7 +23,7 @@ Nessas horas o único que pode nos ajudar é o _kernel debugger_.
 #### Conversinha entre depuradores
 
 
-Os depuradores do pacote Debugging Tools (especialmente o ntsd e o cdb) suportam o funcionamento em modo _proxy, _ou seja, eles apenas redirecionam a saída e os comandos entre as duas pontas da depuração (o depurador e o depurado). Isso é comumente usado em [depuração remota](http://www.caloni.com.br/blog/windbg-a-distancia) e [depuração de _kernel_](http://www.driverentry.com.br), quando o sistema inteiro está congelado. O objetivo aqui é conseguir os dois: **depurar remotamente um processo em um sistema que está travado**.
+Os depuradores do pacote Debugging Tools (especialmente o ntsd e o cdb) suportam o funcionamento em modo _proxy, _ou seja, eles apenas redirecionam a saída e os comandos entre as duas pontas da depuração (o depurador e o depurado). Isso é comumente usado em [depuração remota](http://www.caloni.com.br/windbg-a-distancia) e [depuração de _kernel_](http://www.driverentry.com.br), quando o sistema inteiro está congelado. O objetivo aqui é conseguir os dois: **depurar remotamente um processo em um sistema que está travado**.
 
 Para isso podemos nos utilizar do parâmetro **-d**, que manda o depurador redirecionar toda saída e controle para o depurador de _kernel_. Para que isso funcione o depurador já deve estar atachado no sistema-alvo. A coisa funciona mais ou menos assim:
 

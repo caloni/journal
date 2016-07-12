@@ -19,7 +19,7 @@ Para os que não sabem, o VMware é um _software _de virtualização que permite
 #### Primeiro passo: instalar (ou seria comprar?)
 
 
-O VMware, diferente de [alguns](http://www.microsoft.com/windows/downloads/virtualpc/default.mspx) [outros](http://www.caloni.com.br/blog/virtualbox) [programas de virtualização](http://www.cl.cam.ac.uk/research/srg/netos/xen/), não é gratuito. No entanto, o tempo despendido pela equipe da VMware em tornar esta a solução a de melhor qualidade (opinião pessoal de quem já mexeu com Virtual PC e pouco de VirtualBox) está bem cotado, sendo que seu preço é acessível pelo desenvolvedor médio. Pior que o preço da VMware com certeza será o dos sistemas operacionais convidados, se estes forem da Microsoft, que obriga cada instância do Windows, seja hospedeiro ou convidado, a possuir uma licença separada. Se rodar um Windows XP como hospedeiro e um Vista e 2000 como convidados vai desembolsar pelo menos o quíntuplo da licença da VMware.
+O VMware, diferente de [alguns](http://www.microsoft.com/windows/downloads/virtualpc/default.mspx) [outros](http://www.caloni.com.br/virtualbox) [programas de virtualização](http://www.cl.cam.ac.uk/research/srg/netos/xen/), não é gratuito. No entanto, o tempo despendido pela equipe da VMware em tornar esta a solução a de melhor qualidade (opinião pessoal de quem já mexeu com Virtual PC e pouco de VirtualBox) está bem cotado, sendo que seu preço é acessível pelo desenvolvedor médio. Pior que o preço da VMware com certeza será o dos sistemas operacionais convidados, se estes forem da Microsoft, que obriga cada instância do Windows, seja hospedeiro ou convidado, a possuir uma licença separada. Se rodar um Windows XP como hospedeiro e um Vista e 2000 como convidados vai desembolsar pelo menos o quíntuplo da licença da VMware.
 
 No entanto, não entremos em mais detalhes financeiros. Os detalhes técnicos são mais interessantes.
 
@@ -69,7 +69,7 @@ A instalação do sistema operacional segue os mesmos passos que a instalação 
 
 <blockquote>As teclas mágicas
 
-**Entrar o foco na VM. Digite Ctrl + G.** Todos seus movimentos de teclado e mouse só irão funcionar dentro da máquina virtual, exceto o Ctrl + Alt + Del, exclusividade do [sistema de autenticação do Windows](http://www.caloni.com.br/blog/gina-x-credential-provider).
+**Entrar o foco na VM. Digite Ctrl + G.** Todos seus movimentos de teclado e mouse só irão funcionar dentro da máquina virtual, exceto o Ctrl + Alt + Del, exclusividade do [sistema de autenticação do Windows](http://www.caloni.com.br/gina-x-credential-provider).
 
 **Tirar o foco da VM. Digite Ctrl + Alt.** Todos seus movimentos de teclado e mouse passam a ser do SO hospedeiro.
 
@@ -98,7 +98,7 @@ A primeira coisa a fazer em sua VM com SO recém-instalado é criar um _snapshot
   * Abrir os seus e-mails suspeitos. Não tenha mais medo de sujar seu computador com e-mails de conteúdo duvidoso. Crie um estado seguro em sua VM através de um snapshot (fotografia de estado da máquina virtual) e execute os anexos mais absurdos. Depois basta voltar para o estado seguro.
 
 	
-  * Testes que costumam alterar o estado da máquina. Driver, [GINA](http://www.caloni.com.br/blog/gina-x-credential-provider) ou [serviço](http://www.caloni.com.br/blog/como-rodar-qualquer-coisa-como-servico) novo? Que tal usar uma VM para fazer os testes iniciais e parar de reformatar o Windows?
+  * Testes que costumam alterar o estado da máquina. Driver, [GINA](http://www.caloni.com.br/gina-x-credential-provider) ou [serviço](http://www.caloni.com.br/como-rodar-qualquer-coisa-como-servico) novo? Que tal usar uma VM para fazer os testes iniciais e parar de reformatar o Windows?
 
 
 As VMs possibilitam um mundo de utilidades que o mundo ainda está descobrindo. Para nós, desenvolvedores, a maior vantagem de tudo isso é termos nossos ambientes de testes mais bizarros facilmente configurados no conforto de uma caixinha de areia.

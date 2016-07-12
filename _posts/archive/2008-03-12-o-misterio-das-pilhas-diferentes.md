@@ -25,7 +25,7 @@ Vamos acompanhar alguns momentos de tortura alheia?
 #### Era uma vez
 
 
-Tudo aconteceu quando inesperadamente perdi metade do [artigo que estava escrevendo](http://www.caloni.com.br/blog/conversor-de-houaiss-para-babylon-parte-1) para explicar o processo de engenharia reversa no dicionário Houaiss. Tive que refazer todos os meus testes que havia feito no _laptop_. Como a preguiça é a mãe de todas as descobertas, não estava com ele ligado no momento do "reteste" e por isso acabei usando a máquina _desktop_, mesmo.
+Tudo aconteceu quando inesperadamente perdi metade do [artigo que estava escrevendo](http://www.caloni.com.br/conversor-de-houaiss-para-babylon-parte-1) para explicar o processo de engenharia reversa no dicionário Houaiss. Tive que refazer todos os meus testes que havia feito no _laptop_. Como a preguiça é a mãe de todas as descobertas, não estava com ele ligado no momento do "reteste" e por isso acabei usando a máquina _desktop_, mesmo.
 
 A análise inicial consistia simplesmente em verificar as entradas e saídas da função **ReadFile**, na esperança de entender a formatação interna do dicionário. Repetindo a seqüência:
 

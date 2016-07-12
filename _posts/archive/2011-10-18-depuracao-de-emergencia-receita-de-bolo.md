@@ -13,7 +13,7 @@ tags:
 - windbg
 ---
 
-Continuando o papo sobre [o que fazer para analisar rapidamente um crash no servidor com o pacote WinDbg](http://www.caloni.com.br/blog/depuracao-de-emergencia), na maioria das vezes a exceção lançada pelo processo está diretamente relacionada com um acesso indevido à memória, o que tem diversas vantagens sobre problemas mais complexos:
+Continuando o papo sobre [o que fazer para analisar rapidamente um crash no servidor com o pacote WinDbg](http://www.caloni.com.br/depuracao-de-emergencia), na maioria das vezes a exceção lançada pelo processo está diretamente relacionada com um acesso indevido à memória, o que tem diversas vantagens sobre problemas mais complexos:
 
 
 

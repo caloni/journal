@@ -14,7 +14,7 @@ tags:
 - windows
 ---
 
-Não fui convidado a participar do tema, mas como já faz algum tempo que o rascunho deste artigo está no molho, e aproveitando que meu amigo Ferdinando resolveu [escrever sobre nossa amiga em comum](http://www.driverentry.com.br/blog/2007/08/personal-gina-tabajara.html), darei continuidade à minha empolgação sobre o [_tagging_](http://www.caloni.com.br/blog/como-ser-um-melhor-desenvolvedor-nos-proximos-seis-meses) e largarei aqui este pequeno adendo.
+Não fui convidado a participar do tema, mas como já faz algum tempo que o rascunho deste artigo está no molho, e aproveitando que meu amigo Ferdinando resolveu [escrever sobre nossa amiga em comum](http://www.driverentry.com.br/blog/2007/08/personal-gina-tabajara.html), darei continuidade à minha empolgação sobre o [_tagging_](http://www.caloni.com.br/como-ser-um-melhor-desenvolvedor-nos-proximos-seis-meses) e largarei aqui este pequeno adendo.
 
 
 

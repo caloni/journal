@@ -9,7 +9,7 @@ categories:
 - Programação
 ---
 
-Como já havia dito, não há nada mais prazeroso do que [ensinar a alguém](http://www.caloni.com.br/blog/basico-do-basico-ponteiros) os velhos truques da profissão e relembrar o porquê de tantas coisas que guardamos na cabeça sobre programação. Hoje tive a oportunidade de explicar como funcionam as funções-polegar.
+Como já havia dito, não há nada mais prazeroso do que [ensinar a alguém](http://www.caloni.com.br/basico-do-basico-ponteiros) os velhos truques da profissão e relembrar o porquê de tantas coisas que guardamos na cabeça sobre programação. Hoje tive a oportunidade de explicar como funcionam as funções-polegar.
 
 A função-polegar, uma categoria de função muito peculiar em várias APIs, possui um comportamento padrão de retorno de erros. Entre as diversas funções-polegar que conheço e uso, eis algumas que lembro de cor:
 

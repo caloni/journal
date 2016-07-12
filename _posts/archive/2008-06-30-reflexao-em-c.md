@@ -147,4 +147,4 @@ int main()
 
 class MyDerivatedClass1::MyMethod class MyDerivatedClass2::MyMethod
 
-Apenas se lembre de ter de fato uma classe polimórfica (eu consegui isso tornando MyMethod uma função virtual). Do contrário você pode [ter problemas](http://www.caloni.com.br/blog/typeid-e-os-perigos-do-nao-polimorfismo).
+Apenas se lembre de ter de fato uma classe polimórfica (eu consegui isso tornando MyMethod uma função virtual). Do contrário você pode [ter problemas](http://www.caloni.com.br/typeid-e-os-perigos-do-nao-polimorfismo).

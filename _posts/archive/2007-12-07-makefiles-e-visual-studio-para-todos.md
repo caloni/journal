@@ -9,7 +9,7 @@ categories:
 - Programação
 ---
 
-O Visual Studio é um ambiente de programação incrível, mesmo. Ele possui _auto-complete_ quase instantâneo, navegação de tipos, ajuda de contexto e flexibilidade em seus projetos. Existem [pessoas que evitam usá-lo](http://www.caloni.com.br/blog/desenvolvendo-em-linha-de-comando) porque ele ocupa mais de 150 MB de memória virtual e 20 MB de _working set_ sem abrir nenhum projeto, mas, francamente, ele acaba sendo mais produtivo que o Bloco de Notas (exceto para testes).
+O Visual Studio é um ambiente de programação incrível, mesmo. Ele possui _auto-complete_ quase instantâneo, navegação de tipos, ajuda de contexto e flexibilidade em seus projetos. Existem [pessoas que evitam usá-lo](http://www.caloni.com.br/desenvolvendo-em-linha-de-comando) porque ele ocupa mais de 150 MB de memória virtual e 20 MB de _working set_ sem abrir nenhum projeto, mas, francamente, ele acaba sendo mais produtivo que o Bloco de Notas (exceto para testes).
 
 Devido a pedidos de amigos, resolvi dar uma pausa nos [artigos sobre o Builder](http://www.caloni.com.br/blog/search/c++%20builder) para explicar o nível que flexibilidade que podemos obter dentro da IDE do Visual Studio para compilar qualque tipo de projeto, para qualquer plataforma e sistema operacional. Temos na verdade até a liberdade para não compilar nada! De brinde veremos o básico sobre os _makefiles_, aqueles famigerados arquivos de configuração que nossos avôs usavam em seus _mainframes_.
 
