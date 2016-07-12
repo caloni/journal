@@ -36,6 +36,10 @@ a img {
   max-height: 100%;
 }
 
+img {
+  max-width: 100%;
+}
+
 a:hover {
   color: #555;
   border: none;
