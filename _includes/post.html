@@ -27,11 +27,6 @@
         {% endif %}
         </span>
         <span id="pub-date">Wanderley Caloni, {{ page.date | date_to_string }}</span>
-        <span>
-        {% if page._title %}<span id="social"><a title="Rotten Tomatoes" href="http://www.rottentomatoes.com/search/?search={{ page._title }}">&#x1f345;</a></span>{% endif %}
-        {% if page.imdb != null %}<span id="social"><a title="IMDB: Internet Movie DataBase" href="http://www.imdb.com/title/tt{{ page.imdb }}">&#x1f3a6;</a></span>{% endif %}
-        {% if page.title %}<span id="social"><a title="Netflix" href="http://www.netflix.com/search/{{ page.title }}">&#x25b6;</a></span>{% endif %}
-        {% if page.title %}<span id="social"><a title="Adoro Cinema" href="http://www.adorocinema.com/busca/?q={{ page.title }}">&#x1f4ac;</a></span>{% endif %}
         </span>
     </p>
   </div>
