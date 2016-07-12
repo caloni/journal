@@ -83,9 +83,7 @@ $(document).ready(function(){
         <a href="{{ post.url }}" 
         title="Post Title: {{ post.title }}
 Post Date: {{ post.date | date: '%Y%m%d' }}
-Post Category: {{ post.category }}
-Post Stars: {{ post.stars }}
-Tags: {{ post.tags | join: ', ' }}"
+Post Tags: {{ post.tags | join: ', ' }}"
 >
         {{ post.title }}
 
