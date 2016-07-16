@@ -1,7 +1,7 @@
 ---
 category: "movies"
 imdb: "2400463"
-stars: "3/5"
+stars: "4/5"
 title: "the Invitation"
 _title: "The Invitation"
 _year: "2015"
