@@ -1,6 +1,7 @@
 ---
 imdb: "0903747"
 title: "Breaking Bad"
+revision: [2016-07-17]
 stars: "5/5"
 category: "series"
 date: "2016-07-16"
