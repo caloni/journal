@@ -23,10 +23,21 @@
     <div class="site">
       <div class="sidebar" id="sidebar">
         <div class="header">
-          <h1 class="title"><a href="/">Cine Tênis Verde<img id="logo" src="/images/logo.png"></a></h1>
-          <h2>{% if page._title %}{{ page._title }}{% else %}{{ page.title }}{% endif %}</h2>
+        <div class="header-navigation">
+        <div><img id="logo" src="/favicon.png"></div>
+    <span>
+         {% if page.next.url %}
+         <a class="next" style="color: black; font-size: 1.5em" title="Próximo" href="{{page.next.url}}"><b>&lt;&lt;</b></a>
+         {% endif %}
+    <a href="/posts" style="font-size: 1.5em;">Cine Tênis Verde</a>
+         {% if page.previous.url %}
+         <a class="prev" style="color: black; font-size: 1.5em" title="Anterior" href="{{page.previous.url}}"><b>&gt;&gt;</b></a>
+         {% endif %}
+    </span>
+        </div>
         </div>
        <div>
+          <h2>{% if page._title %}{{ page._title }}{% else %}{{ page.title }}{% endif %}</h2>
        <h2 style="text-align: center; margin-bottom: 20px;">
 {% if page.stars == "5/5" or stars == "5/5" %}&#x2605;&#x2605;&#x2605;&#x2605;&#x2605;{% elsif page.stars == "4/5" or stars == "4/5" %}&#x2605;&#x2605;&#x2605;&#x2605;&#x2606;{% elsif page.stars == "3/5" or stars == "3/5" %}&#x2605;&#x2605;&#x2605;&#x2606;&#x2606;{% elsif page.stars == "2/5" or stars == "2/5" %}&#x2605;&#x2605;&#x2606;&#x2606;&#x2606;{% elsif page.stars == "1/5" or stars == "1/5" %}&#x2605;&#x2606;&#x2606;&#x2606;&#x2606;{% endif %}
        </h2>
@@ -35,17 +46,6 @@
         {% if page.imdb != null %}<span id="social"><a title="IMDB: Internet Movie DataBase" href="http://www.imdb.com/title/tt{{ page.imdb }}"><img src="/images/imdb.png"/></a></span>{% endif %}
        </div>
        <div style="margin-top: 20px; text-align: right; font-size: 1.5em;">
-         {% if page.next.url %}
-         <a class="next" style="color: black;" title="Próximo" href="{{page.next.url}}"><b>&lt;&lt;</b></a>
-         {% endif %}
-
-         <a title="Posts" href="/posts" style="color: black; font-size: 1.5em;">
-         <img src="/favicon.ico" width="16" height="16" title="Busca"/></a>
-
-         {% if page.previous.url %}
-         <a class="prev" style="color: black;" title="Anterior" href="{{page.previous.url}}"><b>&gt;&gt;</b></a>
-         {% endif %}
-
          <span style="margin: 3px;">
          <a href="https://www.facebook.com/cinetenisverde" class="footer-link">
          <img src="/images/facebook.png" title="Facebook"/></a></span>
