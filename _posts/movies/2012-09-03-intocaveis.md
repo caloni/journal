@@ -3,7 +3,8 @@ imdb: "1675434"
 title: "Intocáveis"
 stars: "4/5"
 category: "movies"
-revision: [2015-10-11]
+revision: [2015-10-11, 2016-07-28]
+date: 2016-07-28
 _title: "Intouchables"
 _year: "2011"
 _director: ["Olivier Nakache", "Eric Toledano", ]
@@ -27,4 +28,6 @@ Esse é apenas um exemplo da capacidade aparentemente sem limites para a fluidez
 
 Não importa as piadas potencialmente ofensivas que Driss dispara contra Philippe, já que sabemos que ele não o faz por mal e, se o fizesse, aí sim o filme seria um desastre. Porém, é exatamente pela ingenuidade ou vivença de Driss que entendemos sua posição diante dos caprichos de uma vida suntuosa mas trágica. Da mesma forma, o bom humor constante de François Cluzet nos traz um Philippe que já se acostumou ao seu estado de dependência, não sendo este o maior problema. Sua curva de aprendizado será em outro setor, bem mais delicado e igualmente satisfatório na narrativa.
 
-Intocáveis poderia ser um desastre completo em outras mãos. Porém, com o roteiro, direção e atuação das três duplas de profissionais se transforma em um exercício hábil e convincente dos desejos humanos.
+Curiosamente é a tentativa de tornar Driss como o salvador da pátria que mais prejudica o longa. Dessa forma, em nada acrescenta o vermos resolver os problemas da filha de Philippe ou sugerir que a governanta tenha um relacionamento com o jardineiro. Driss não consegue resolver os problemas da própria família, mas se mete na vida dos outros e se sai muito melhor. De qualquer forma, essa tentativa de humanizar um ser humano muito mais completo sem seu lado bondoso seria algo realmente mais digno de se ver.
+
+No entanto, sob as mesmas condições de temperatura e pressão, Intocáveis como argumento poderia ser um desastre completo em outras mãos. Porém, com o roteiro, direção e atuação das três duplas de profissionais se transforma em um exercício hábil e convincente dos desejos humanos. Não torna tudo simples, mas difícil no ponto certo. Dificilmente uma outra produção conseguirá dar o tom exato às dificuldades que essas pessoas têm para sobreviver (e isso porque só estamos falando das ricas).
