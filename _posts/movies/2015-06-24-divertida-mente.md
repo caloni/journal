@@ -1,9 +1,9 @@
 ---
 imdb: "2096673"
-review-title: "Divertida Mente é Ela infanto-juvenil da Pixar e renova criatividade da produtora."
 stars: "4/5"
 category: "movies"
 title: "Divertida Mente"
+revision: [2016-07-28]
 _title: "Inside Out"
 _year: "2015"
 _director: ["Pete Docter", "Ronaldo Del Carmen", ]
@@ -32,4 +32,4 @@ No entanto, há um dinamismo nas transições entre o mundo real e o da mente de
 
 Mesmo assim, com todos seus clichês óbvios e frases de efeito, Divertida Mente consegue se elevar do patamar do medíocre entregando tudo isso em uma aventura que se passa unicamente na mente de sua protagonista, e elaborando todos esses conceitos óbvios, mas necessários para que exista um conflito interno (trocadilho proposital) na personagem o suficiente para que ele fosse algo impactante. Paradoxalmente de novo, o conflito não é daqueles muito criativos.
 
-E é dessa forma com que Divertida Mente, falhando miseravelmente no quesito direção de arte, se sobressai em suas ideias, e sua tentativa de explicar conceitos complexos para crianças/jovens. Apenas essa virtude, única e constante por todo o roteiro, merece aplausos e faz com todo o trabalho valer a pena.
+E é dessa forma com que Divertida Mente, falhando pontualmente no quesito direção de arte, se sobressai em suas ideias, e sua tentativa de explicar conceitos complexos para crianças/jovens. Apenas essa virtude, única e constante por todo o roteiro, merece aplausos e faz com todo o trabalho valer a pena.
