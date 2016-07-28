@@ -86,7 +86,7 @@ Post Date: {{ post.date | date: '%Y%m%d' }}
 Post Category: {{ post.category }}
 Post Stars: {{ post.stars }}
 Post Tags: {{ post.tags | join: ', ' }}
-Movie Revision: {% if post.revision %}{{ post.revision | join: ', ' }}{% else %}{{ post.date | date: '%Y%m%d' }}{% endif %}
+Revision Dates: {% if post.revision %}{{ post.revision | join: ', ' }}{% else %}{{ post.date | date: '%Y%m%d' }}{% endif %}
 Revision Count: {% if post.revision %}{{ post.revision.size | plus: 1 }}{% else %}1{% endif %}
 Original Title: {{ post._title }}
 Year: {{ post._year }}
