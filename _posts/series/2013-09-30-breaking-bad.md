@@ -21,6 +21,8 @@ _fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQ0ODYzODc0OV5BMl5BanBnXkFtZ
 _kind: "tv series"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTQ0ODYzODc0OV5BMl5BanBnXkFtZTgwMDk3OTcyMDE@._V1._SX95_SY140_.jpg"
 ---
+Sabemos desde o início do seriado que há algo de novo, muito novo, na televisão. Através da figura de um pacato professor de química que descobre ter câncer e que será pai novamente enxergamos aos poucos a relativação da moral quando Walter White decide produzir drogas usando seu conhecimento e sua recém necessidade de zelar pelo futuro de sua família. Através dessa história inicial somos levados ao mundo do crime e como ele pode ser bem menos glamoroso do que imaginamos, mas também bem menos assustador do que nos contam. O mais fascinante durante todo o ciclo de ascensão e decadência de um ser humano qualquer é que percebemos como a força motriz que move o homem não necessariamente precisa passar pela aprovação do bem moral vigente. Isso não existe na cabeça dos que fazem o que admiramos. Apenas os fins são capazes de justificar seus mais loucos atos. Fins esses que começaram de forma nobre.
+
 - [Primeira Temporada](#s01)
 - [Segunda Temporada](#s02)
 - [Terceira Temporada](#s03)
