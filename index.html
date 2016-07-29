@@ -19,9 +19,12 @@ title: "A melhor forma de ver um filme é com o cérebro."
       <div id="title"><a href="{{ post.url }}">{{ page.title }}</a></div>
       <span id="details">{% if page._director %}{{ page._director | join: ', ' }}, {% endif %}{% if page._year %}{{ page._year }}{% endif %}</span>
     </div>
-  </div>
-  <div class="post">
-    {{ content }}
+    <div class="post">
+      {{ content }}
+    </div>
+    <div class="separator">
+      <img src="/images/separator.png"/>
+    </div>
   </div>
 {% endfor %}
 <div style="text-align: right;">Cine Tênis Verde - {{ site.time | date_to_rfc822 }}</div>
