@@ -1,9 +1,9 @@
 ---
 imdb: "3019796"
-count: 2
 title: "As Férias do Pequeno Nicolau"
 stars: "4/5"
 category: "movies"
+revision: [2015-07-28]
 _title: "Les vacances du petit Nicolas"
 _year: "2014"
 _director: ["Laurent Tirard", ]

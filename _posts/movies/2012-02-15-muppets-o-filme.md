@@ -20,10 +20,6 @@ _ratio: "1.85 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTgzOTg2MTM3M15BMl5BanBnXkFtZTcwMzgxMzEzMQ@@._V1._SX99_SY140_.jpg"
 ---
-
-
-Bonecos sabem dançar; humanos não.
-
 O potencial dos bonecos é evidente no filme, pois todos possuem personalidades marcantes que geram diversas situações ingenuamente engraçadas. E é de modo ingênuo que a história inicia, e a forma de narrar a vida dos irmãos, em que um deles é um boneco que portanto nunca cresce, já denota de modo inconsciente que a interação entre humanos e muppets é algo completamente comum naquele universo fabuloso.
 
 Mesmo assim, a fraca história (incluo aí o conflito batido em que há, acredite ou não, um magnata do petróleo) compromete os não tão inspirados números musicais, que na maioria das vezes apenas torna os defeitos do filme mais evidentes. Porém, não há como negar que a sequência do show final é admiravelmente engraçada, nostálgica e com números bem melhores por estarem inseridos apenas no mundo dos próprios Muppets.

@@ -1,6 +1,5 @@
 ---
 imdb: "2457282"
-review-title: "Impressionante como esse povo do Madoka puxa uma nervoso..."
 stars: "4/5"
 category: "movies"
 title: "Puella Magi Madoka Magica the Movie Part III: Rebellion"

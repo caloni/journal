@@ -20,8 +20,6 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTI5NTc1NjU2NF5BMl5BanBnXkFtZTcwNzkyNDAyMQ@@._V1._SX98_SY140_.jpg"
 ---
-A Bug's Life. EUA, 1998. Direção: John Lasseter, Andrew Stanton. Roteiro: John Lasseter (original story), Andrew Stanton (original story). Elenco:  Kevin Spacey, Dave Foley and Julia Louis-Dreyfus.
-
 Historinha politicamente correta e chata da Pixar.
 
 Conta a história de um formigueiro que é ameaçado por gafanhotos e assim é obrigado a colher todos os alimentos da pequena ilha em que moram para oferecer aos insetos voadores, maiores e feiosos. A fábula, que se assemelha a um conto infantil, possui momentos inspirados em épicos mais adultos (Spartacus), onde um grupo opressor é o que separa os heróis de sua liberdade e consequente felicidade/prosperidade.

@@ -15,10 +15,6 @@ _genres: ["Documentary", ]
 _runtimes: ["France:46", ]
 _kind: "movie"
 ---
-
-
-Forçando a barra para o oculto em 46 minutos.
-
 Esse média-metragem islandês procura mostrar a história de uma região no país em que, de acordo com "relatos" e com a declaração e Júlio Verne de que ali seria o ponto de entrada para o centro da Terra, é um lugar de concentração de energias e poderia muito bem ser o ponto de contato com extraterrestres.
 
 Oscilando relatos com canções da cultura, somos guiados sempre pela visão de pessoas que, de uma forma ou de outra, querem acreditar que o local é mais do que parece, escondendo seus segredos para os céticos e se abrindo para os que verdadeiramente veneram o que a região representa.

@@ -20,7 +20,5 @@ _ratio: "1.85 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BOTc4Mjk4MDA0OV5BMl5BanBnXkFtZTcwNDkxMTUyMQ@@._V1._SX98_SY140_.jpg"
 ---
-Os Muppets reais, de carne e... pano.
-
 Para quem viu o novo trabalho dos Muppets ano passado deve ter percebido que a magia das trucagens dos anos 80 para fazer com que os bonecos de pano parecessem reais havia dado lugar para o uso sem imaginação da computação gráfica. É uma pena. Porém, ainda existe como colírio os musicais antigos, e da safra esse é o que melhor consegue transmitir essa magia com números protagonizados praticamente pelos bonecos! De brinde, é curioso notar toda a criatividade que Frank Oz aplica para conseguir tornar os personagens de Jim Henson tão carismáticos e multidimensionais quanto qualquer ser humano de carne e osso.
 

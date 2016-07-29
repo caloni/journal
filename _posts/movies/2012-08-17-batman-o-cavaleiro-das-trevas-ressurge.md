@@ -20,10 +20,6 @@ _ratio: "1.44 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1._SX94_SY140_.jpg"
 ---
-
-
-O círculo vicioso e angustiante da violência na Gotham de todos nós.
-
 O Batman de Nolan possui uma virtude cada vez mais ausente em produções Hollywoodianas de super-heróis: a capacidade de fazer pensar. O que é uma pena, já que o universo fantasioso em que se passam essas histórias tem potencial para ser o pano de fundo de questões filosóficas das mais diversas. No caso de Batman, O Cavaleiro das Trevas, a grande discussões que Nolan se propõe a fazer é com respeito à violência nas grandes cidades e como essa violência transforma o destino das pessoas que nela vivem.
 
 No caso do órfão Bruce Wayne (Christian Bale), que é o protagonista, é fácil identificar que, além de representar o justiceiro na fictícia cidade de Gotham  mas que lembra muito Nova Iorque e outras megalópoles do mundo , é também fruto da mesma violência que se dispõe a combater. E o medo dos habitantes dessa cidade tomam a forma de um morcego para Wayne, mas aos poucos percebemos que os outros personagens secundários, inclusive os vilões, tomam cada um para si uma maneira de conviver com esse medo. Até a "inocente" Selina (Anne Hathaway) arruma para si um disfarce que a transforma em uma sombra felina qualquer nos becos sujos da cidade, ignorada tanto pelo submundo do crime quanto da lei e da ordem.

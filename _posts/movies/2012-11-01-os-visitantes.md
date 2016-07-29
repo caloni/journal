@@ -17,10 +17,6 @@ _runtimes: ["88", ]
 _ratio: "1.85 : 1"
 _kind: "movie"
 ---
-
-
-36a. Mostra de São Paulo.
-
 Os Visitantes é o primeiro longa do alemão Contudo Knoche e talvez por disso mesmo com o tema dramático possui uma leveza e ingenuidade que o torna particularmente cômico. Iniciando com a visita inesperada do pai Jacob (Uwe Kockisch) aos seus três filhos Arnolt, Sonni e Karla (Jakob Diehl, Anne Müller e Anjorka Strechel), o atípico convívio com eles é usado para desvendar mais sobre aquelas pessoas do que sobre a visita em si. (Note como apenas os primeiros nomes são usados, levando automaticamente nossa relação com os personagens a um nível familiar.)
 
 Já ganhando a atenção do público, as coisas começam a ficar mais interessante ainda ao descobrirmos que existem na verdade dois acontecimentos a serem discutidos: um trazido pelo pai e outro (Andreas Leupold, como Hans) pela mãe, Hanna (Corinna Kirchhoff). A maneira como ambos se relacionam e como isso revela mais sobre os filhos do que sobre os pais é o que move a história através de diálogos sutis cujo pano de fundo sempre será a estrutura patriarcal clássica na incompatível vida contemporânea e o que ela formou como visão de mundo dos filhos.

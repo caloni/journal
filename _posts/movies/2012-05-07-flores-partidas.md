@@ -20,10 +20,6 @@ _ratio: "1.85 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTQ4OTk1MTYxM15BMl5BanBnXkFtZTcwMTYwNjAzMQ@@._V1._SX94_SY140_.jpg"
 ---
-
-
-Folclore do homem moderno e bem-sucedido rende história metafísica.
-
 Don Johnston (Bill Murray, impagável) tem seu nome frequentemente confundido com seu quasi-homônimo Don Johnson ("o meu é com T"). No entanto, o que intimamente gostaria de ser é seu outro homônimo, Don Juan, conquistador inveterado de corações femininos. Um belo dia recebe uma carta rosa que menciona a existência de um filho já crescido, fruto de uma de suas inúmeras amantes. Crente de ter as qualidades de um verdadeiro conquistador, Don parte em uma jornada pelo país para verificar qual das quatro mulheres que consegue se lembrar de seu passado possuem vínculo com a suposta carta.
 
 Dirigido e escrito por Jim Jarmusch (Sobre Café e Cigarros, Estranhos no Paraíso) baseado em ideias de seus colegas Bill Radem e Sara Driver, Flores Partidas parte de um pressuposto personagem e realiza um arco dramático que diz muito sobre a visão do homem moderno sobre suas conquistas femininas e sobre a auto-imagem que fazemos de nós mesmos e que na esmagadora maioria das vezes não passa de uma ilusão bem construída com a ajuda da opinião de amigos e conhecidos. No caso de Don, o conhecido é seu vizinho Winston (Jeffrey Wright), que, aparentando monotonia de sua própria vida, frequentemente se mete nos detalhes da vida íntima de seu amigo.

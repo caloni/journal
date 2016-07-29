@@ -1,6 +1,5 @@
 ---
 imdb: "0120903"
-review-title: "Podemos considerar X-Men o início de uma Era o Cinema em grande estilo?"
 stars: "4/5"
 category: "movies"
 title: "X-Men: O Filme"

@@ -20,8 +20,6 @@ _ratio: "1.85 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTk1MDExMTA5NF5BMl5BanBnXkFtZTcwOTMzNTIyMQ@@._V1._SX97_SY140_.jpg"
 ---
-História fraca consegue envolver pelos aspectos técnicos.
-
 Com uma história típica da sessão da tarde, talvez fosse impossível tentar realizar algo acima de medíocre. Porém, quando o roteiro abraça o absurdo das situações com competente propriedade, nunca nos permitindo questionar se alguma coisa é verossímil ou não, pois é a história que dita isso, aí temos um ótimo exemplo de que, independente da história, é possível criar Cinema através de quase nada.
 
 Já com essa postura é ditado o caminho da história, que gira sobre a herança que um empresário do ramo de fios deixa a seus dois filhos e suas condições (como não vender a familiar fábrica), além de uma insuspeita herança de uma casa, que graças a um ratinho descobre-se fazer parte do último trabalho de um arquiteto famoso.

@@ -20,10 +20,6 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BNTQ3OTkwNTgyN15BMl5BanBnXkFtZTcwNTAzOTAzOQ@@._V1._SX94_SY140_.jpg"
 ---
-
-
-Uma experiência para ser saboreada mais pelos sentidos do que pelo lógica.
-
 Um remake e uma revisita ao clássico trash da década de 80 (antes dirigido por Sam Raimi, o mesmo da trilogia Homem-Aranha), o longa de estreia de Fede Alvarez deixa a razão em segundo plano, mas por um motivo dos mais louváveis: tudo acontece tão rápido que se preocupar demais com isso tornaria a experiência intelectual demais. No fundo, queremos acreditar que tudo não passa de alucinações coletivas que logo irão se revelar uma fraude. Na verdade, rezamos por isso, pois a imersão ao horror da história é feito com tal profundidade que em determinados momentos fica difícil focalizar na tela o que está acontecendo.
 
 A introdução rápida e eficaz mostra uma garota queimada pelo próprio pai (que logo em seguida atira em sua cabeça) em torno de pessoas que parecem pertencer a uma seita satânica. Através das palavras da que seria a feiticeira do grupo, no entanto, ficamos sabendo que o que de fato está ocorrendo é um exorcismo dos mais radicais. Esse pequeno prólogo já revela a que veio o filme, sem pudores de mostrar graficamente tudo o que acontece na tela, miolo por miolo.

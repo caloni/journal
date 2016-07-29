@@ -20,8 +20,6 @@ _ratio: "1.37 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BNDAyNjM5NzQ0OF5BMl5BanBnXkFtZTcwMjEwMjMyMQ@@._V1._SX95_SY140_.jpg"
 ---
-
-
 Primeiro longa de Kubrick é noir de linha de produção
 
 Não uma tentativa de noir e suspense de Kubrick, essa produção lembra muito mais os filmes encomendados pelas grandes produtoras procurando explorar um nicho crescente (exatamente como é feito hoje). É quase que a mesma experiência em Spartacus, onde o diretor pegou o barco andando e tocou o projeto megalomaníaco de Kirk Douglas com maestria e entregou todo o potencial da história para as telas. No entanto, aqui não há grande potencial, e apesar de ter sido escrito pelo próprio Kubrick, demonstra um amadorismo latente em sua construção de narrativa, usando por exemplo o velho artifício de iniciar pelo protagonista no fim narrando os acontecimentos.

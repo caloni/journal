@@ -20,8 +20,6 @@ _ratio: "1.85 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTc3MDY3ODQ2OV5BMl5BanBnXkFtZTgwOTQ2NTYxMTE@._V1._SX95_SY140_.jpg"
 ---
-Uma revolução social de duas gerações contada através da dança.
-
 Para os filhos da década de 50/60 a era Disco representou uma mudança radical de apreciar música. Essa mudança não ocorreu obviamente apenas na música, mas na maneira de pensar e agir, sobretudo na adolescência, época conturbada tão bem representada nos trabalhos de John Hughes (Curtindo a Vida Adoidado, O Clube dos Cinco).
 
 É nessa atmosfera que surge esse trabalho tão diferente quanto representativo do seu momento. Além de abordar temas polêmicos como o aborto, ainda que perifericamente, consegue mostrar essa revolução de pensamentos e músicas dos anos 80 como um reflexo das mudanças que ocorreram antes, nos anos 60, onde a história se passa.

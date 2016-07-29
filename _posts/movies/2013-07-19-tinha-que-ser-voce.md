@@ -20,10 +20,6 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTU1MDM5OTMwM15BMl5BanBnXkFtZTcwMTAzOTAwMg@@._V1._SX94_SY140_.jpg"
 ---
-
-
-Um drama dentro de um formol comédia-romântica (e britânica).
-
 Eu sei que o desfecho final possui vários defeitos. É esquemático porque segue à risca a cartilha das comédias românticas, o que acaba prejudicando demais aqueles dois personagens até então bem construídos. Está longe do clima depressivo de todo o resto, onde o diretor tenta amenizar com músicas bonitinhas e um pouco do desconcertante humor britânico (mas a partir de um dado momento, acompanhar a mãe paranoica nem é mais interessante).
 
 Porém, e coloco um grande porém agora, sua introdução e desenvolvimento são exemplares. A colocação do personagem de Dustin Hoffman como pai deslocado de uma família e de um emprego aos quais já não pertence mais é tocante por vir aos poucos e com certo ritmo. Tanto o desempenho de Hoffman quanto os enquadramentos ressaltando seu isolamento do mundo contribuem para a criação de um ser humano tão complexo quanto Bill Murray em Encontros e Desencontros.

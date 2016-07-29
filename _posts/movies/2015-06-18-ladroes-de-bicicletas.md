@@ -1,6 +1,5 @@
 ---
 imdb: "0040522"
-review-title: "Ladrões de Bicicletas, infelizmente, ainda é super-atual na América Latina"
 stars: "5/5"
 category: "movies"
 title: "Ladrões de Bicicletas"

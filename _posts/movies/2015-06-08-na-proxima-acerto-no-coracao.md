@@ -1,6 +1,5 @@
 ---
 imdb: "3324494"
-review-title: "Um serial killer que é também um policial. E isso aconteceu na vida real!"
 stars: "4/5"
 category: "movies"
 title: "Na Próxima, Acerto no Coração"

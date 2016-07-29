@@ -14,10 +14,6 @@ _genres: ["Animation", ]
 _runtimes: ["80", ]
 _kind: "movie"
 ---
-
-
-O espírito do livro intacto em película argentina.
-
 Impressionante essa animação argentina sobre o livro de Robinson Crusoé que, salvo alguns momentos difíceis tecnicamente, possui efeitos e direção dignos de outras produções mas conhecidas, como Wallace e Gromit (que também estreia recentemente com um filme de piratas).
 
 Porém, melhor que os efeitos é a história, que além de seguir fielmente o espírito do livro não apela para piadas fora de contexto tão comuns em filmes infantis, além de não tentar suavizar por demasiado temas potencialmente impactantes, como morte (incluindo suicídio) e motim.

@@ -21,9 +21,6 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTgwOTc4OTk3NV5BMl5BanBnXkFtZTcwMzc0MjMzMw@@._V1._SX94_SY140_.jpg"
 ---
-
-Inspirado no universo de Amélie Poulain, novo longa de Jean-Pierre Jeunet é inventivo e curioso.
-
 A fotografia fabulosa de Amélie Poulain também cabe nessa fábula em que um homem, Bazil (Dany Boon), sofre uma dupla injúria em sua vida  a morte do seu pai por uma mina terrestre e uma bala em sua cabeça durante um tiroteio  e resolve se vingar de ambas com o mesmo plano.
 
 Com os mesmos enquadramentos exagerados como em Amélie, mas sem a sua graça, Jean Pierre parece acreditar que o mesmo modelo pode servir a mais de um filme, e nesse caso parece acertar parcialmente. Digo parcialmente pois, enquanto em Amélie sua infância explique suas constantes fugas da realidade e seu caráter idealista, aqui o herói assume essas características sem possuir um passado que o justifique. Pior, ao ser adotado posteriormente por uma trupe de moradores de rua que parecem ter saído da mente criativa da protagonista do outro filme.

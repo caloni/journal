@@ -19,8 +19,6 @@ _ratio: "1.33 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMzgwNzQ3NDM4N15BMl5BanBnXkFtZTgwODU1MDM5MTE@._V1._SX100_SY134_.jpg"
 ---
-36a. Mostra de São Paulo
-
 Mesmo 90 anos depois, Nosferatu consegue impressionar em suas pontuais cenas clássicas. O resto, resquícios do expressionismo alemão, mas de onde até hoje se emprestam algumas técnicas (como o jogo de sombras), pode ser engraçado pela bizarrice, mas define muito bem a loucura e a doença em torno do desconhecido, do sobrenatural.
 
 A nova trilha sonora composta em homenagem aos 100 anos do autor de Drácula faz dueto com a versão restaurada pelo instituto Murnau a partir das películas originais, e atualiza o horror para os tempos atuais, incluindo lembranças de outros clássicos, como o coral (A Profecia) e os toques frenéticos e repetitivos (Hitchcock). Para Nosferatu é solene, lhe dá dignidade e ao mesmo tempo mantém a tensão de sua tenebrosa história.

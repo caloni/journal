@@ -19,10 +19,6 @@ _ratio: "1.85 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTU1MTAwMjk1NF5BMl5BanBnXkFtZTcwMDI5NDc4Ng@@._V1._SX94_SY140_.jpg"
 ---
-
-
-Dos produtores de Meu Malvado Favorito, história não empolga tanto quanto o visual.
-
 O Lorax parte de uma premissa bonitinha e se esquece que em um roteiro, mesmo de animação, há muito mais do que piadinhas isoladas e ótimos efeitos visuais. Tudo começa quando Ted, um jovem de 12 anos que mora em uma cidade feliz por ter conseguido dominar o plástico como solucionador de todos os problemas e evitar assim qualquer forma de vida exceto seus moradores, incluindo gatos e cachorros. Querendo conquistar a garota dos seus sonhos, ele parte em busca de uma jornada fora da cidade para conseguir o que não existe mais na paisagem de sua cidade: uma árvore.
 
 O garoto precisa ouvir a história que um velho que mora isolado em um lugar inóspito a respeito do que aconteceu com ele e com as árvores que outrora encantavam o vale, assim como criaturas fofinhas e ignorantes da presença humana no mundo.

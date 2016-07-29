@@ -20,8 +20,6 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTQzMjIzOTEzMF5BMl5BanBnXkFtZTcwMTUzNTk3NA@@._V1._SX93_SY140_.jpg"
 ---
-Filme do meio da trilogia de Leone é curva para a grande virada do velho oeste.
-
 Continuação de Por um Punhado de Dólares e apenas um ano após a produção original, Por uns Dólares a Mais concebe o universo do faroeste de uma maneira mais aventureira e empolgante que seu precursor. Dessa vez há duas figuras principais. O Homem Misterioso de antes já não é mais tão misterioso assim. Possui um nome: Manco. E possui uma função: é caçador de recompensas. Aliás, uma consequência mais que natural do que vimos no primeiro filme, pois se há tantos fora-da-lei espalhados pelo oeste faz sentido que a polícia precise de oportunistas para capturá-los.
 
 Agora existem prisões, onde os que ainda não foram mortos aguardam. Um deles, Índio, é além de um cruel assassino, líder de uma gangue de assaltantes. Seu estilo doentio revela o crescente em cima da persona dos vilões, assim como com o Coronel Douglas Mortimer e seus apetrechos de caça. Ele também captura e mata procurados, apesar de aparentemente não precisar de dinheiro. Ambos são caricaturas desse universo, por isso seus nomes são tão "cool". E por isso ambos carregam um significativo relógio. Uma cena de duelo é anunciada por uma música singela que sai desse relógio; seu fim é o sinal para sacar as armas. Não há nada mais surreal para um filme de brutamontes atirando uns nos outros.

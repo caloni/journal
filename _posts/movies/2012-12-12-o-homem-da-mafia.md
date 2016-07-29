@@ -19,10 +19,6 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BODk3MDg2NDk5M15BMl5BanBnXkFtZTcwMjcxMjMzOA@@._V1._SX96_SY140_.jpg"
 ---
-
-
-Quando um filme de gângsters não é só um filme de gângsters.
-
 Esse é um ótimo filme sobre as ações e decisões de um grupo de mafiosos a respeito do destino do seu negócio de jogatina. Basicamente o que se coloca em jogo é a confiança dos donos dessas casas depois que um deles, Markie Trattman (Ray Liotta), rouba seu próprio negócio. O que o torna um filme excepcional é que essa manutenção da confiança no sistema ilegal de jogos de azar traça um paralelo direto com a crise econômica nos Estados Unidos iniciada em 2007 e que até hoje ecoa pelas casas vazias e massas de desempregados cheios de dívidas. A confiança no sistema financeiro também foi abalada naquele momento e algo teve que ser feito.
 
 O que o governo fez e faz para resolver o rombo em suas estruturas é o tema-recheio que se expande através dos olhos aguçados do roteirista Andrew Dominik, baseado no romance de George V. Higgins. No entanto, o que é mais impressionante é que o romance de Higgins, Cogan's Trade, foi publicado em 1974, e o que resta hoje são os vários diálogos que fazem parte de capítulos inteiros do livro, que preferem ruminar sobre a psicologia dos seus criminososos do que a ação em si.

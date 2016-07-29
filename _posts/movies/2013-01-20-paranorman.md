@@ -20,10 +20,6 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMjA1OTU1NDM3N15BMl5BanBnXkFtZTcwMjYxNTg0Nw@@._V1._SX94_SY140_.jpg"
 ---
-
-
-Animação com temática adulta permanece com idade mental infantil.
-
 A única proposta original em Paranorman é que o seu protagonista consegue ver e falar com os mortos. Aliado a isso, a proposta infantil de lidar com o além-vida envolvendo um mundo de zumbis e bruxas, embora interessante enquanto desenvolve esse conceito atrelado à visão primitiva e violenta que as pessoas tinham em relação ao desconhecido, está envolta em mais e mais clichês que vão enfraquecendo o núcleo da sua original ideia.
 
 O que é uma pena. Assim como Frankenweenie, as animações tem ganhado em expandir discussões geralmente restrita ao mundo dos adultos em forma de aventuras despretenciosas envolvendo crianças e animais de estimação. No entanto, diferente deste, nem a estilização curiosa de seus personagens consegue impressionar. Norman é um garoto normal e não possui nada especial exceto sua comunicabilidade com os mortos. Esse "dom" é usado para enganchar um draminha particularmente desinteressante a respeito do garoto ainda conversar com a falecida avó, que insiste em continuar na sala assistindo TV, e o desconforto dos seus pais de que o seu modo diferente de encarar a morte possa prejudicar seu desenvolvimento enquanto criança e covardemente temem que eles próprios sejam expostos às diferenças do seu filho.

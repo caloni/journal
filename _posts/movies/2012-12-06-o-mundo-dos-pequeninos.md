@@ -20,10 +20,6 @@ _ratio: "1.85 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTAxNjk3OTYyODReQTJeQWpwZ15BbWU3MDgyODY2OTY@._V1._SX94_SY140_.jpg"
 ---
-
-
-Animação do estúdio Ghibli é humanista, apesar de defender natureza.
-
 Não é nenhuma novidade a virtuosidade técnica do estúdio de animação Ghibli  do diretor Hayao Miyazaki  que, entre outros, já produziu pequenas obras-primas como A Viagem de Chihiro, O Castelo Animado e Princesa Mononoke (sem contar outros igualmente interessantes, como Meu Amigo Totoro, O Serviço de Entregas da Kiki e Ponyo - Uma Amizade que Veio do Mar). Nesse sentido não é nenhuma novidade descobrir nesse primeiro trabalho de direção de Hiromasa Yonebayashi as mesmas características técnicas que tornaram os filmes do estúdio comparáveis à fábrica de sonhos de Walt Disney.
 
 A história, baseada no romance da escritora inglesa Mary Norton, gira em torno de Arrietty, uma menina que faz parte de uma família de minúsculos humanóides que vivem debaixo de uma casa de campo e que se denominam Mutuários, ou seja, emprestam coisas dos humanos para sobreviver. Sua mãe Homily está sempre preocupada com a segurança de sua filha e seu marido, enquando este, Pod, é quem faz as buscas pela casa por mantimentos e objetos úteis em sua vida miniatuarizada. A maior preocupação da família é não serem vistos pelos humanos, já que isso significaria a necessária migração destes para outra morada. A casa costuma ser tranquila, mas a chegada de um novo hóspede, Sho, um garoto com uma saúde frágil que o impede de brincar normalmente, torna as explorações dos pequenos humanos mais arriscadas.

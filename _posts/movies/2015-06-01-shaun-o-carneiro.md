@@ -1,6 +1,5 @@
 ---
 imdb: "2872750"
-review-title: "Será que Shaun, o Carneiro, sobrevive como longa-metragem?"
 stars: "4/5"
 category: "movies"
 title: "Shaun: O Carneiro"

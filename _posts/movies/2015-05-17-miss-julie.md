@@ -3,7 +3,6 @@ imdb: "2667960"
 stars: "3/5"
 category: "movies"
 title: "Miss Julie"
-review-title: "Miss Julie ou Por que adaptações de teatro ficam tão ruins no Cinema"
 _title: "Miss Julie"
 _year: "2014"
 _director: ["Liv Ullmann", ]

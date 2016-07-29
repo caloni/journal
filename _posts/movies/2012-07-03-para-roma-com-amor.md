@@ -19,10 +19,6 @@ _ratio: "1.85 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTcwNTg4MDMxM15BMl5BanBnXkFtZTcwNjAzMzY3Nw@@._V1._SX94_SY140_.jpg"
 ---
-
-
-Comédia de absurdos revela que Allen, felizmente, está mais vivo que nunca.
-
 Quais diretores você conhece que conseguem fazer o velho chichê da "pessoa engasgando com o copo na mão ao ver cena inusitada" funcionar novamente? Eu conheço um: Woody Allen.
 
 Cada vez mais se reinventando em seus últimos filmes, apesar de incluir quase sempre seus temas favoritos, como a angústia da terceira idade e adultérios, Allen investe aqui em uma comédia tradicional dividida em diferentes começos de histórias que, diferente do usual hoje em dia, praticamente não se encontram: os pais que visitam a filha para conhecer a família de seu namorado, o jovem e ingênuo casal italiano em busca de uma vida melhor na capital, o batidíssimo triângulo amoroso encabeçado por uma femme fatale e, como não poderia deixar de ser, a vida típica e pacata de um cidadão italiano.

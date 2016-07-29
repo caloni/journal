@@ -1,6 +1,5 @@
 ---
 imdb: "0451094"
-review-title: "A Vingança de Chan-wook Park, mais uma vez"
 stars: "4/5"
 category: "movies"
 title: "Lady Vingança"

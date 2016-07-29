@@ -20,10 +20,6 @@ _ratio: "1.85 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTU5NDUxMzkyMF5BMl5BanBnXkFtZTcwODI4MDk0Mg@@._V1._SX99_SY140_.jpg"
 ---
-
-
-Retrospectiva Alexander Sokurov  Poeta
-
 Sokurov parece sempre voltar às relações familiares, especialmente a entre mãe e filho, tão importante na Rússia. Aqui acompanhamos Alexandra, a mãe de um dos oficiais de um grupo de soldados que acampa próximo à fronteira com os eslavos. Não é um filme de guerra, mas sobre a guerra.
 
 Alexandra passeia entre os soldados sem parecer sentir medo ou tensão, que está nos olhos de quem a vê manipular uma arma dentro de um tanque. Desde o início não é possível separar aquela personagem em um cenário tão estranho a ela da figura sempre presente no folclore: a mãe russa, que preza pelos seus filhos, um a um. Há gestos de bondade entre ela, os soldados e os "inimigos", moradores de um vilarejo que, vejam só, dependem do escambo dos próprios soldados. Mas a ironia não é o foco das lentes de Sokurov, e sim a beleza, onde quer que ela apareça. Nesse filme essa beleza se materializa por onde quer que Alexandra caminhe. Mesmo os escombros dos edifícios onde moram os sobreviventes possui sim sua beleza, uma beleza triste. Já acostumados ao lirismo de Mat y Sin, voltamos a contemplar a beleza dos seus enquadramentos e movimentos elegantes.

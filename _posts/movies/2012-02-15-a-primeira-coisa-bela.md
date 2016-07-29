@@ -20,10 +20,6 @@ _ratio: "1.85 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTg2Mzc1MjYyMV5BMl5BanBnXkFtZTcwMDk1MDQ4NA@@._V1._SX94_SY140_.jpg"
 ---
-
-
-A Itália volta despontando em filmes dramáticos.
-
 Esse filme, junto com o recente cult Um Sonho de Amor, evidencia um Cinema Italiano mais interessante e inovador, ainda que mantenha sua clássica dramaticidade de novelão, estilo que paradoxalmente o acaba engrandecendo.
 
 E, convenhamos, há muitíssimo dramalhão na história da família do filme e de sua matrona, a protagonista absoluta, mas que conta com a ajuda de seu problemático primogênito durante as décadas de história. Ambos criam um interessantíssimo contraponto durante toda a narrativa, dotada de idas e vindas no tempo que enriquecem ambos os momentos.

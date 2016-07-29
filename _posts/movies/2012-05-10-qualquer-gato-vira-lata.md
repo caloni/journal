@@ -18,10 +18,6 @@ _fullcover: "http://ia.media-imdb.com/images/M/MV5BMTg0NDE5MDIzNl5BMl5BanBnXkFtZ
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTg0NDE5MDIzNl5BMl5BanBnXkFtZTcwMjQwODYzNw@@._V1._SX94_SY140_.jpg"
 ---
-
-
-Comédia romântica machista e incoerente tem como protagonista uma não-atriz.
-
 A influência norte-americana e suas comédias românticas de caráter duvidoso trouxeram uma produção com elenco brasileiro que não é apenas covarde em sua premissa, mas retrógrada e oportunista. Dirigido por Tomas Portella e Daniela de Carlo, ambos já envolvidos em produções hollywoodianas, o filme gira em torno do roteiro de uma peça de teatro (muito ruim, por sinal) em que a jovem e fisicamente atraente Tati (Cléo Pires) briga com seu namorado Marcelo (Dudu Azevedo) em seu aniversário por conta de suas aventuras fora do relacionamento; ao tentar procurar uma solução para seu relacionamento descobre através das teorias de um professor de biologia, Conrado (Malvino Salvador), que talvez estivesse usando a abordagem errada para seduzir homens.
 
 Tendo como premissa a ideia retrógrada e extremamente machista de que as mulheres não podem ir à caça de seus partidos, mas sim seduzirem seus homens de forma velada aguardando por uma iniciativa destes, Qualquer Gato Vira-Lata já começa, nos seus primeiros 15 minutos, a ser insuportável apenas pelas ideias que defende. Ideias essas colocadas na cabeça do tal professor de biologia, que apesar de ser fã da teoria da Seleção Natural (possui um cachorro com o nome de Darwin) reage de maneira extremamente contraditória ao constatar que não só os humanos, mas o animais devem sempre se comportar da mesma maneira pelos milhões de anos de sua existência como espécie, ignorando, por exemplo, que 15 milhões de anos atrás não existiam quase nenhuma espécie viva hoje em dia, ou, ainda pior, que a consciência e raciocínio humanos, que criaram a moral e a filosofia, por exemplo, não conseguissem nos levar por caminhos diferentes do que reza nosso código genético.

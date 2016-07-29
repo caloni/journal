@@ -19,8 +19,6 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMjE0ODk2NjczOV5BMl5BanBnXkFtZTYwNDQ0NDg4._V1._SX98_SY140_.jpg"
 ---
-Filme de gângsters é expressivo pelas suas parábolas em uma realidade escabrosa.
-
 Segundo trabalho de Quentin Tarantino (Cães de Aluguel, Kill Bill), Pulp Fiction é seu filme com o roteiro mais intenso, e talvez um dos melhores representantes do seu gênero no quesito introduzir perigosos criminosos em seu dia-a-dia.
 
 Mas qual é o significado de Pulp Fiction? Ora, o próprio Tarantino explica no início, colocando a descrição literal do dicionário American Heritage após acompanharmos um diálogo de um casal que decide assaltar o restaurante onde estão tomando café-da-manhã:

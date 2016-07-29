@@ -1,6 +1,5 @@
 ---
 imdb: "0283534"
-review-title: "Lembra dessa comédia que passou no SBT essas noites?"
 stars: "3/5"
 category: "movies"
 title: "Um Agente em Apuros"

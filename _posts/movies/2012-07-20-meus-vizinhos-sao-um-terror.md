@@ -20,7 +20,5 @@ _ratio: "1.85 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTMwOTYzMTkzMl5BMl5BanBnXkFtZTcwMDI0OTUxMQ@@._V1._SX97_SY140_.jpg"
 ---
-Comédia de Tom Hanks sobrevive na categoria "bizarrices da época".
-
 Especializado em comédias do absurdo, como Um Dia a Casa Cai e Quero Ser Grande, Tom Hanks aqui vive a paranoia e a maldição que acomete todo americano que tenta mudar algum hábito nativo de sua cultura, como bisbilhotar a vida dos vizinhos. Nesse sentido, faz um par curioso com Tim Allen em Um Natal Muito, Muito Louco. Contudo, a maluquice é ainda maior do que as comédias natalinas de Allen, pois estamos nos anos 80 e tudo, literalmente, pode acontecer.
 

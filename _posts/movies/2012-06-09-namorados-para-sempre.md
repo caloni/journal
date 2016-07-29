@@ -20,10 +20,6 @@ _ratio: "1.66 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTU4MTQ2MzA1Ml5BMl5BanBnXkFtZTcwODE3NTgwNA@@._V1._SX95_SY140_.jpg"
 ---
-
-
-Romance realista atinge o coração de maneira melancólica.
-
 O relacionamento entre Dean e Cindy mostrado pelas lentes de Derek Cianfrance oscila entre o peso da rotina do dia-a-dia e a leveza de quando se conheceram, tudo mais ou menos se equilibrando em um retrato intimista e não-romantizado de como é a relação de qualquer casal na vida real.
 
 Uma fotografia triste, voltada para o azul e a falta de cores quentes, aliada com movimentos de câmera praticamente em close, privilegiam as expressões dos personagens diante de cada episódio de suas vidas e faz com que as atuações de peso de Ryan Gosling (Drive) e Michelle Williams (Sete Dias com Marylin) se sobressaiam ainda mais, nos levando a conhecê-los em suas expressões e diálogos minimalistas e ao mesmo tempo significativos. No fundo, o que esses dois fazem quase todo o tempo é nos fazer crer que aquele casal, apesar dos percalços que a vida geralmente coloca na nossa frente, fazem o melhor de si para levar suas histórias adiante.

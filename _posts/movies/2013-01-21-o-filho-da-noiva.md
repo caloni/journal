@@ -20,10 +20,6 @@ _ratio: "1.85 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BNjM2NzY2NzE5Nl5BMl5BanBnXkFtZTYwNzg5NTc5._V1._SX96_SY140_.jpg"
 ---
-
-
-Primeiro grande sucesso de Campanella é contraditório e ao mesmo tempo atual.
-
 O Filho da Noiva se esforça para soar tão engraçado quanto dramático e impede que ambos os lados evoluam. Ancorando sua experiência em um personagem que vive para o trabalho que construiu em torno do restaurante que herdou dos pais (um Ricardo Darín ainda jovem) o objetivo do roteiro do diretor Juan José Campanella (O Segredo dos Seus Olhos) e de Fernando Castets (Clube da Lua, Heleno) é mostrar a curva de mudança desse personagem depois de sofrer um ataque cardíaco.
 
 O problema talvez seja essa mudança de tom repentina. Quando esperamos algo tocante, surge uma piada sem ser anunciada. O amigo de infância dele é um chato de galocha que faz o papel do bom moço que agrada a todos (sem entendermos muito bem como isso espontaneamente ocorre). Sua namorada e sua filha são igualmente infantis, e o que mais irrita em tudo isso é que, mesmo que o personagem de Ricado Darín tenha seus motivos, consegue ser o mais irritante de todos por não tomar suas próprias decisões, mas ser levado por essa torrente de opiniões.

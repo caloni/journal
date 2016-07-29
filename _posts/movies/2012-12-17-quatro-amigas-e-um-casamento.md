@@ -20,10 +20,6 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BNzk3MjA1NzE5OV5BMl5BanBnXkFtZTcwNTQ0NTcxOA@@._V1._SX94_SY140_.jpg"
 ---
-
-
-Comédia romântica segue tendência de mulheres no comando.
-
 Parece que a "moda" iniciada por Missão Madrinha de Casamento (Paul Feig, 2011) está gerando seus primeiros frutos. Esse "Quatro Amigas..." possui o que faltava nas comédias românticas e que pode reinventar o gênero nos próximos anos: mulheres independentes e protagonistas.
 
 Nesse caso o filme gira em torno de quatro amigas: Regan (Kirsten Dunst), Katie (Isla Fisher), Gena (Lizzy Caplan) e Becky (Rebel Wilson), a única que não vive para sua aparência, está com uns quilinhos a mais e também a única que arrumou um pretendente de primeira linha. Para casar. Agora.

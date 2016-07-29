@@ -20,9 +20,7 @@ _ratio: "1.85 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTM3Mzg0Mzc2NF5BMl5BanBnXkFtZTcwNDEwNTk0NA@@._V1._SX93_SY140_.jpg"
 ---
-Mel Brooks cria mais uma vez um universo tão interessante quanto o parodiado.
-
- Entendendo o ridículo em potencial da saga idolatrada de George Lucas (Star Wars, para quem não sabe), a história de Spaceballs contém o mesmo pano de fundo só que trazendo à tona o mesmo padrão já visto centenas de vezes: uma princesa sequestrada, um casamento forçado, o anti-herói que se torna digno de seu amor e por aí vai a valsa. Economizando o personagem de Luke Skywalker colocando-o no papel do próprio anti-herói (o alter-ego de Hans Solo) fica fácil enxergar que já há gorduras no próprio roteiro do filme original.
+Entendendo o ridículo em potencial da saga idolatrada de George Lucas (Star Wars, para quem não sabe), a história de Spaceballs contém o mesmo pano de fundo só que trazendo à tona o mesmo padrão já visto centenas de vezes: uma princesa sequestrada, um casamento forçado, o anti-herói que se torna digno de seu amor e por aí vai a valsa. Economizando o personagem de Luke Skywalker colocando-o no papel do próprio anti-herói (o alter-ego de Hans Solo) fica fácil enxergar que já há gorduras no próprio roteiro do filme original.
 
 Não que Guerra nas Estrelas esteja perto de ser ruim. Longe disso. No fundo, qualquer obra de ficção, se vista com uma lupa sarcástica, tende para o ridículo, como vemos tantas vezes hoje em dia nos canais do You Tube que homenageiam filmes contemporâneos em trailers ridicularizados de cinco minutos. A comédia existe em qualquer lugar, e o grande trunfo do diretor aqui foi localizar os elementos que pareceriam mais absurdos sem prejudicar o ritmo de um longa-metragem.
 

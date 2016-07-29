@@ -20,10 +20,6 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTQzODkwNDQxNV5BMl5BanBnXkFtZTcwNTQ1ODAxOA@@._V1._SX93_SY140_.jpg"
 ---
-
-
-Ação por ação não é fenômeno exclusivo de Michael Bay.
-
 Mercenários 2 já começa sua história querendo arrebentar o maior número de muros, cabeças e corpos humanos por centímetro cinematográfico quadrado. O som das armas parece verdadeiro, ou melhor: parece surreal. Não há nada pode deter o maior arrebatamento de heróis de ação de um passado já distante, mas que é aqui comemorado de uma maneira perigosamente indulgente.
 
 A história começa com um resgate genérico de um bilionário asiático, mas se transforma assim que o agente Churh (Bruce Willis) faz uma ligação para Barney Ross (Stallone) para um acerto de contas em troca da segurança de uma pequena caixa que contém o mapa de uma mina de toneladas de plutônio que, se cair nas mãos erradas, pode acabar explodindo com o mundo centenas de vezes (como se fosse necessário plutônio para explodir pessoas pelos ares).

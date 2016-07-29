@@ -20,10 +20,6 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTQ2NzUxMTAxN15BMl5BanBnXkFtZTcwMzEyMTIwMg@@._V1._SX94_SY140_.jpg"
 ---
-
-
-Nova raça de vampiros é pano de fundo em romance desinteressante.
-
 Existe uma linha tênue entre Crepúsculo e dois tipos de filmes: no primeiro tipo existem as paródias, onde tudo que aparece na tela soa irreal e quase que completamente absurdo, quase sempre fazendo referência a filmes mais sérios; nessa categoria a saga dos vampiros não se sai tão mal, sendo o único grande problema ele insistir em levar a sério um romance que consegue ser, no melhor dos casos, risível e superficial (e eu já citei absurdo?). No segundo tipo de filme existem os romances e dramas sérios, que conseguem extrair um pouco de empatia do público, por pior que seja a história. Infelizmente, se for esse o caso, Crepúsculo consegue ser o anti-exemplo completo, pois não consegue extrair a mínima reação a partir do improvável casal formado pela antipática Bella Swan e o seu stalker psicopata vampiresco Edward Cullen.
 
 Senão, vejamos: pelo fato de seu padrastro viajar muito, Isabella Swan (Kristen Stewart, O Quarto do Pânico) precisa ir morar com o pai afim de cursar o colégio normalmente. Ele é um policial de uma cidadezinha de Washington com seus 1230 habitantes (a maioria formada por jovens, pois o colégio da cidade aparentemente vive lotado). Ela, não acostumada a se relacionar com pessoas, faz em seu primeiro dia de escola apenas 2, 3... 4 amigos. Eles conversam sobre os estranhos Cullen, uma família cujos jovens frequentam esporadicamente o mesmo colégio (menos em dias de sol), e normalmente maqueiam suas faces de branco, ou possuem uma característica genética rara que deixa seus rostos esbranquecidos, menos seus pescoços. Aliás, há dias que nem os rostos ficam tão brancos assim.

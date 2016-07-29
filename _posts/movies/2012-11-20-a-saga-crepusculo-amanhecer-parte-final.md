@@ -20,10 +20,6 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTcyMzUyMzY1OF5BMl5BanBnXkFtZTcwNDQ4ODk1OA@@._V1._SX94_SY140_.jpg"
 ---
-
-
-A saga molusco termina muito superior ao conjunto da obra.
-
 Ao analisar um filme, mesmo que já existam preconceitos envolvendo a produção  como terríveis e risíveis produções anteriores   é preciso saber dar o braço a torcer quando o que vemos na tela é resultado de uma interpretação do diretor que não apenas melhora as premissas criadas nos filmes anteriores como consegue ainda corrigir impressões deixadas pelos erros do passado. Foi assim que me senti ao assistir ao último capítulo da novela Crepúsculo.
 
 Colocar "apenas" a vida da recém-nascida Renesmee (Mackenzie Foy) em jogo, fruto de um amor entre um vampiro  Edward Cullen (Robert Pattinson)  e uma humana  Bella Swan (Kristen Stewart)  , tornaria o confronto final entre o clã dos Volturi e a família Cullen e seus amigos vampiros e lobos por demais banal e mais uma vez previsível. Porém, além disso, é revelado o plano macabro de Aro (Michael Sheen), o líder do clã, em tomar para si os vampiros mais poderosos inventando qualquer desculpa razoável para guerrear com as famílias onde eles se encontram. Uma estratégia, diga-se de passagem, que cria uma analogia, ainda que fraca, com a estratégia de guerra norte-americana dos últimos 30 anos (se não mais), e apenas o fato dessa analogia estar em uma obra de romance meloso consegue inexplicavelmente elevar a trama vários pontos acima.

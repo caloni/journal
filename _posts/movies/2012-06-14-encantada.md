@@ -20,10 +20,6 @@ _ratio: "1.85 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMjE4NDQ2Mjc0OF5BMl5BanBnXkFtZTcwNzQ2NDE1MQ@@._V1._SX95_SY140_.jpg"
 ---
-
-
-Live action da Disney encontra nos seus desenhos clássicos a inspiração para conto de fadas urbano.
-
 Encantada inicia com um desenho de conto de fadas genérico, cuja introdução apenas serve para nos habituarmos com aquele mundo e a sua dinâmica. A largura da tela diminui sutilmente e faz-se a transição para o mundo real, mais amplo, na própria visão da princesa Giselle.
 
 É preciso dar créditos às verossímeis interpretações de Amy Adams (O Vencedor, Os Muppets), James Marsden (H.O.P. - Rebeldes sem Páscoa) e Timothy Spall (da série Harry Potter), que caracterizam perfeitamente suas contrapartes em desenho (ou vice-versa), além, é claro, de efeitos extremamente eficientes com os animais, que oferecem um encantamento adicional necessário para que compremos, de fato, a história que vai se passar.

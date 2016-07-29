@@ -20,8 +20,6 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTk5NzI2MTg2Nl5BMl5BanBnXkFtZTcwNjc5NDUyMQ@@._V1._SX98_SY140_.jpg"
 ---
-Mostra Mondo Tarantino.
-
 Originalmente um mangá da década de 70, Lady Snowblood (sem título nacional, provavelmente nunca lançado no Brasil) contém uma verdadeira miscelânia que com certeza foi fonte de inspiração de Quentin Tarantino na confecção de sua Noiva em Kill Bill. Fica até difícil listar todos os tipos de influências, referências e cópia descarada (como a música-tema). Porém, diferente de um plágio barato, ambos são trabalhos impecáveis de composição, e hoje em dia emprestam diversos significados um ao outro, formando uma perfeita sessão dupla (ou tripla, se considerarmos que Kill Bill possui dois "volumes").
 
 Tendo por tema central a vingança, representada pela figura de Yuki Kashima (Meiko Kaji), uma jovem espadachim que assumiu a vingança de sua família, destroçada por um grupo de assassinos, o vermelho é marca registrada da morte e presente em toda a história. Porém, branco e vemelho trabalham juntos para encontrar os assassinos um a um e completar sua missão.

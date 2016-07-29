@@ -20,10 +20,6 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BODgxNDE0OTAzOF5BMl5BanBnXkFtZTcwNzcwODE2Ng@@._V1._SX94_SY140_.jpg"
 ---
-
-
-Finalmente entramos na reta final: que alívio!
-
 Se pudéssemos abstrair o fato de que desde seu início a "saga" Crepúsculo não teve uma única linha narrativa que conseguisse manter de fato uma história com começo, meio e fim, seria possível dizer que "Amanhecer: Parte 1"   penúltimo filme da série  ganha em ritmo próximo ao seu final e consegue nos fazer esquecer, através do seu design de arte mais aprimorado que seus antecessores, os vampiros brilhantes de Stephenie Meyer, que subiam em árvores como macaquinhos excitados.
 
 Mesmo assim, é necessário adentrar na história. Vemos o casamento entre Bella Swan e Edward Cullen, envolto em uma aura de acontecimentos futuros nefastos, traduzidos por delírios de Bella, e que já cumpre parte desse futuro já na lua-de-mel do casal, quando Bella é covardemente agredida pelo seu recém-marido. E pede mais! O sexo existe e não o vemos, apenas agressão. Chega a ser sintomático: o único tema constante em todos os filmes  a tensão sexual do casal/trio  nunca se desenvolve de fato. Fica morno, e continua morno até mesmo depois do próprio ato! Um feito e tanto, se considerarmos que Kristen Stewart consegue ser sensual, como pôde ser visto na cena de dança de Na Estrada.

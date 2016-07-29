@@ -20,10 +20,6 @@ _ratio: "1.85 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMjM0MDY2OTEzNl5BMl5BanBnXkFtZTcwMjI5ODU0OQ@@._V1._SX94_SY140_.jpg"
 ---
-
-
-Retorno de Almodóvar para a comédia é sadio, mas nada inovador.
-
 Almodóvar volta às suas origens das divertidas comédias dramáticas voltadas para personagens homossexuais, videntes e todo o tipo de intriga novelesca. Aliás, a diferença vital entre novelas televisivas e Almodóvar é que este conta uma história como ninguém (e geralmente assina o roteiro).
 
 Outros aspectos da cinegrafia que o fez famoso se mantêm, ainda que ausente em penúltimo trabalho (A Pele que Habito)  o que demonstra que o diretor sabe se livrar de suas "marcas" quando o filme precisa  e que aqui volta com tudo: vermelho, amarelo, azul, roxo... tudo no Cinema de Almodóvar é exagerado, nada sutil e, hoje em dia, pouco polêmico.

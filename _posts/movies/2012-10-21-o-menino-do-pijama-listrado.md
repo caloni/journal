@@ -20,10 +20,6 @@ _ratio: "1.85 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTMzMTc3MjA5NF5BMl5BanBnXkFtZTcwOTk3MDE5MQ@@._V1._SX95_SY140_.jpg"
 ---
-
-
-(Muito) Mais corajoso que A Lista e Schindler.
-
 Há filmes que possuem uma catarse tão forte e fluida durante a narrativa que parece fácil produzir isso no espectador. No entanto, muitas vezes tudo isso é fruto da nossa imaginação, e há um trabalho grande do início ao fim para que esse efeito seja criado da maneira com que ocorre. Ora, como explicar que um amontoado de bonecas consiga ser tão impactante para os nossos olhos?
 
 Baseado em livro homônimo de X, o filme de Y narra as aventuras de um garoto cujo pai faz parte do exército nazista e precisa se mudar com sua família para uma casa extremamente próxima de um campo de concentração. Nele vive um menino de mesma idade e por isso forma-se uma amizade inusitada. O roteiro de Z consegue oscilar do frívolo ao cruel sem com isso perder o fio da meada, que é enxergar os horrores do holocausto através dos olhos ingênuos de uma criança.

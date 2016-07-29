@@ -20,10 +20,6 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMjE1MDE0NjUyMV5BMl5BanBnXkFtZTcwNjQzNjg5Nw@@._V1._SX94_SY140_.jpg"
 ---
-
-
-Policial clichê decide se afastar do espectador para soar inteligente.
-
 Alex Cross, aqui chamado de [A Sombra do Inimigo](/a-sombra-do-inimigo), é daqueles filmes que apostam em sua própria esperteza. Como não poderia deixar de ser, cai em sua própria auto-indulgência e como consequência é incapaz sequer de trilhar uma narrativa decente que nos faça acompanhar o drama vivido pelo seu personagem-título.
 
 Vivido pelo ator/diretor/roteirista Tyler Perry, o policial Alex Cross é dotado aparentemente de faculdades dedutivas que lembram Sherlock Holmes -- artifício demonstrado apenas no anúncio da gravidez de sua mulher e abandonado logo depois. Junto com seu companheiro Thomas (Edward Burns) precisa investigar a origem de um quádruplo assassinato ocorrido em uma casa de um bairro milionário. Ao mesmo tempo, decide se candidatar a um cargo burocrático em outra cidade para ter mais tempo para sua família, o que o coloca na mesma situação de tantos outros policiais come seu último caso "na ativa".

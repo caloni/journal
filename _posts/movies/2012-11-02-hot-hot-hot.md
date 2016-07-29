@@ -19,10 +19,6 @@ _fullcover: "http://ia.media-imdb.com/images/M/MV5BMjA2MjQ1NDM0OV5BMl5BanBnXkFtZ
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMjA2MjQ1NDM0OV5BMl5BanBnXkFtZTcwNDY5NTI1NQ@@._V1._SX99_SY140_.jpg"
 ---
-
-
-36a. Mostra de São Paulo
-
 A maior virtude criativa de Hot Hot Hot ? primeiro longa do cineasta Beryl Koltz ? é abordar o arco dramático de Ferdinand (Rob Stanley) do ponto de vista de um pequeno peixe e o seu processo migratório das águas frias de um aquário solitário para o ambiente quente - no sentido sexual e térmico - de uma sauna e a sua tão peculiar fauna.
 
 Gastando o tempo necessário para apresentar os seus personagens secundários sob o ponto de vista do deslocado protagonista, a direção faz uma aposta certeira em demonstrar sempre com ângulos altos a pequenez do nosso heroi, não sem antes ganhar a nossa empatia com uma atuação acertadamente exagerada de Rob Stanley, em sintonia com a proposta fabulesca do roteiro, que investe ainda em inventivos sonhos e representações visuais do seu deslocamente. E exatamente pela sua timidez exagerada é que outra decisão acertada do roteiro é ouvirmos seus pensamentos, pois do contrário seria impossível identificar suas reações internas.

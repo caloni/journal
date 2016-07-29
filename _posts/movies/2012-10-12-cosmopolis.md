@@ -20,10 +20,6 @@ _ratio: "1.85 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTY1NjI0MDYyNV5BMl5BanBnXkFtZTcwNDIzMDEyOA@@._V1._SX95_SY140_.jpg"
 ---
-
-
-O Charles Foster Kane de nossa era não é ninguém mais do que qualquer um.
-
 Se visto como um filme com começo, meio e fim, Cosmópolis pode se transformar em uma decepção. No entanto, se percebermos o padrão utilizado em seus caóticos diálogos, será possível destrinchar ao menos o tema da história: um dia na vida de Eric Packer (Robert Pattinson), um bilionário resultado da soma da especulação financeira com sua inteligência fora do comum ao transformar em dinheiro a commoditiy mais importante da nossa era: a informação. Sintetizando a frase anterior, como o próprio Eric o faria: um dia na era da informação.
 
 Aliás, o uso ou desuso de padrões é uma constante na jornada do bilionário dentro de sua limusine em direção à única coisa que sabemos de concreto que ele deseja: um corte de cabelo. Para isso, participaremos de uma visão extremamente peculiar de Cronenberg a respeito do que ele pensa desses senhores donos das pessoas e suas vidas, visionários que se misturam com a população com a única exceção de não fazerem parte dela. É uma jornada de ego, onde o melhor exemplo que pude encontrar foi quando o próprio Eric conta uma passagem de sua infância: contando quatro anos de idade, calculava quanto pesaria em cada planeta do sistema solar. Como sua recente esposa conclui: o exemplo perfeito entre ciência e ego. Digo mais: temos nesse único exemplo referências à sua inteligência (tão jovem), o uso da informação comum (gravidade nos planetas) e a detecção de padrões (gravidade vs peso). A sua descoberta de criança será sua própria recompensa, o que mais uma vez é icônico: como se sabe, o que faz "traders" ganharem mais dinheiro que todos não é o foco em ganhar dinheiro, mas o desejo insaciável de estar certo. Estar certo e antes de todos.

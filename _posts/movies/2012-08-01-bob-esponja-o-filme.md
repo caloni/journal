@@ -22,12 +22,6 @@ _cover: "http://ia.media-imdb.com/images/M/MV5BMTU4OTg2NzA0Nl5BMl5BanBnXkFtZTcwO
 ---
 Bobinho, mas divertido. Possui lição de moral e elementos já manjados da própria série. Hoje assistindo pela quarta (quinta?) vez vejo que no fundo é um episódio espandido, e não possui pretensões muito... cinematográficas. Mas, dizer o quê de uma esponja quadrada que fala e seu amigo estrela-do-mar de bermuda? Ainda acho mais divertido que os Rugrats.
 
-
-2a vez
-
-
-Bob Esponja para crianças e adultos.
-
 Bob Esponja é um fenômeno temporário que possui elementos mistos que acabam agradando tanto crianças quando adultos. Para as crianças, uma dublagem divertida e uma comédia física que deixa seus personagens serem alterados quase como massinhas de modelar. Para os adultos, a subversão do gênero com a inserção de elementos estranhos ao "mise en scène" de desenhos. Em determinado momento de "Bob Esponja  O Filme", por exemplo, quando Bob Esponja realiza uma performance admirável de cantor de rock com efeitos especiais, como ser erguido até o teto e se vestir como um mago, após o final do show o vemos pendurado por cordas e sem as luzes que antes o iluminavam. E isso é engraçado por infringir a própria natureza da confecção das animações.
 
 No entanto, é preciso dizer, alguns truques do longa metragem já estão passados, e são colocados simplesmente por preguiça de criar gags criativas. Exemplos são a batidíssima cena do elevador e sua música relaxante no meio de uma cena de ação, ou o eco de uma ravina que se revela o próprio Patrick Estrela repetindo a mesma palavra várias vezes.

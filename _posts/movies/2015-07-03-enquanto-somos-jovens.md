@@ -1,6 +1,5 @@
 ---
 imdb: "1791682"
-review-title: "Documentários vistos como bebês (e vice-versa) em filme Woody Allen wanna-be"
 stars: "4/5"
 category: "movies"
 title: "Enquanto Somos Jovens"

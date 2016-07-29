@@ -20,10 +20,6 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTcyODkyNDIyNV5BMl5BanBnXkFtZTcwNjUxNjY4Ng@@._V1._SX94_SY140_.jpg"
 ---
-
-
-Como auto-indulgência e um roteiro pedestre destroem uma boa ideia.
-
 Quando fui apresentado no início do filme à história  a zona de tensão entre os imigrantes japoneses no Brasil ao final da WWII, pois muitos ainda acreditavam que a guerra havia sido ganha pelo lado nipônico  fiquei extremamente entusiasmado, principalmente por dois motivos: 1) se tratar de um primeiro movimento do Cinema Nacional de resgatar o passado histórico e exorcizar seus demônios e 2) pelo tratamento aparentemente dedicado da produção, que utiliza o japonês como idioma-base, desafiando uma realidade crescente de salas populares que priorizam a comodidade da dublagem em detrimento à mutilação da sétima arte.
 
 No entanto, todas minhas esperanças foram sugadas paulatinamente conforme o filme prosseguia. Além da introdução pedestre e excessivamente didática do conflito inicial  quando um letreiro inicial explica exatamente a situação mostrada na primeira cena, com direito a diálogos que repetem o que o letreiro já sintetizava  um roteiro pedestre estraga boa parte da experiência, com diálogos, quando existentes, artificiais demais para sair das bocas de seus personagens, interpretados por um elenco excessivamente amador e que, salvo raras exceções, não consegue sequer diferenciar os dois grupos em conflito, quanto mais suas personalidades.

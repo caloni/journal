@@ -1,6 +1,5 @@
 ---
 imdb: "1528071"
-review-title: "Harry Potter está com chifres. Você imagina o porquê?"
 stars: "3/5"
 category: "movies"
 title: "Amaldiçoado"

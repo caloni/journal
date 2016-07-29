@@ -20,10 +20,6 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMjEzNDM2OTgzN15BMl5BanBnXkFtZTcwMzU3MTIzMQ@@._V1._SX94_SY140_.jpg"
 ---
-
-
-Sinopse: Um negociante de armas confronta a moralidade de seu trabalho enquanto é perseguido por um agente da Interpol.
-
 O roteirista-diretor Andrew Niccol, que esteve nessa função dupla nas produções Gattaca e S1mone, além de ter escrito O Show de Truman e O Terminal, dessa vez parte para uma imersão no real, tratando do submundo do comércio ilegal de armas.
 
 Nicholas Cage faz Yuri Orlov, um negociante de armas ilegais, durante sua ascenção em uma carreira mais que controversa. Narrado em off, insere-se no papel por completo, e ao mesmo tempo que narra as atrocidades que seus clientes fazem com as armas e toda a podridão que existe por trás de sua profissão, parece nunca fazer parte disso, alheio aos problemas locais das várias partes do mundo que visita. Mesmo sua mulher, tão desejada em sua adolescência, não o preenche tanto quanto sua profissão, e nisso é relevador que o momento em que seu filho dá seus primeiros passos é o mesmo momento em que ele fica em êxtase, não pelo filho, mas sim pelo fim da Guerra Fria, significando mais possibilidades de comércio de armas para ele.

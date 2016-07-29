@@ -20,8 +20,6 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BNzk5ODM0OTQ0N15BMl5BanBnXkFtZTcwODg2ODE4OA@@._V1._SX91_SY140_.jpg"
 ---
-Brincadeira de criança é prejudicada por delírio de filme sério mais uma vez.
-
 Na cena inicial de "G.I. Joe: Retaliação" (que nomezinho) o comandante de uma missão (Dwayne Johnson) que precisa adentrar uma zona militar da Coreia do Norte ao lado de uma guarita vigiada em uma quase total escuridão resolve derreter a cerca de arame e formar um círculo de fogo que provavelmente poderia ser avistado a uns dois quilômetros. Essa introdução espetacular do grupo de operações especiais secreta do governo norte-americano  os chamados G.I. Joes  é o bastante para termos certeza que nada do que aparecer diante de nós deve ser levado a sério.
 
 Como um dos representantes do gênero "filmes baseados em brinquedos"  assim como Transformers e Battleship  a saga protagonizada por bonecos de plástico e carrinhos irados da Hasbro consegue ao menos contar uma história simples com começo, (longo) meio e fim enquanto exibe no meio do caminho um conjunto de armas e veículos completamente desvinculados da realidade (meu exemplo favorito e menção honrosa é um tanque que parece querer voar). A graça da coisa reside em pensar nos seus heróis musculosos e com coragem suicida como os próprios bonecos de plástico que os inspiraram, manipulados por um garoto megalomaníaco de comercial de TV.

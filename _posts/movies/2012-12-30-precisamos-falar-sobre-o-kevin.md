@@ -20,10 +20,6 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMjE0NDE0MjYxNF5BMl5BanBnXkFtZTcwNjM2NTY5Ng@@._V1._SX96_SY140_.jpg"
 ---
-
-
-Entrega de Tilda Swinton e direção/montagem arrebatadoras tornam o filme um exemplo na arte de contar histórias.
-
 [Precisamos Falar Sobre o Kevin](/precisamos-falar-sobre-o-kevin) aborda de maneira surpreendente e inovadora o ponto de vista não de Kevin, um menino problemático que se tornará na sua adolescência autor de uma tragédia, mas o drama de sua mãe, evocadamente chamada Eva  a que deu à luz Caim, o primeiro assassino do mundo bíblico  e interpretada por Tilda Swinton de maneira brilhante e sem qualquer reservas.
 
 Não se privando de esconder os acontecimentos futuros que irão ocasionar uma mudança radical na vida de toda a família, mas principalmente de Eva, a direção de Lynne Ramsay e a montagem de Joe Bini preferem "brincar" com um jogo de causa e consequência que consegue de maneira impressionante potencializar ainda mais a tensão, o suspense e o drama que se estabelece na vida de Eva a partir do nascimento de Kevin (Jasper Newell e Ezra Miller), seu primeiro filho e que parece não desenvolver suas habilidades morais e emocionais como as outras crianças. Note que eu disse "parece", e um outro elemento intensificador de tensão usado pela diretora é exatamente nunca deixar clara essa relação de causalidade, preferindo utilizar as percepções e sentimentos da mãe, esta que talvez possua um destino tão trágico quanto uma deusa grega que conhece o seu destino, mas não consegue evitá-lo.

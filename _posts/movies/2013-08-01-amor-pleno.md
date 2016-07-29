@@ -20,10 +20,6 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTAwNzk1NjM2ODZeQTJeQWpwZ15BbWU3MDE1MjQwMjk@._V1._SX94_SY140_.jpg"
 ---
-
-
-Diretor de Árvore da Vida respira em filme menos pretencioso.
-
 É difícil analisar os filmes de Terrence Malick através da abordagem tradicional de "historinha". O que é possível observar nesse seu novo trabalho é sua semelhança com Árvore da Vida (semelhança narrativa) com muito menos glamour. Assim como a reflexão de Almodóvar em Amantes Passageiros (depois do tenso A Pele que Habito), Malick parece querer não se aprofundar demais em temas existenciais como fez anteriormente, mas mesmo assim não consegue evitar de ligar as referências, como em determinado momento sua câmera foge para o mundo subaquático, quase como uma tentativa de conectar-se com seu predecessor no melhor estilo continuação dos grande temas.
 
 E o amor é o grande tema dessa vez, e mais uma vez a religião é a lupa usada em sua análise, na figura de um padre questionando repetidamente sua fé e a inexistência do amor do casal principal em sua relação com um ser supremo.

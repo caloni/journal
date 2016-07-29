@@ -16,10 +16,6 @@ _genres: ["Drama", ]
 _runtimes: ["87", ]
 _kind: "movie"
 ---
-
-
-Narrativa tem falta de ritmo para expor o óbvio conflito entre bondade e igreja.
-
 Filmes como Febre do Rato e O Som ao Redor possuem narrativas pouco convencionais, mas seus temas são tão bem explorados e ensinados ao espectador que não conseguimos imaginar maneira melhor de contar uma história. Que é exatamente o que não existe em País do Desejo, que articula temas complexos e polêmicos como o aborto e a castidade dos padres sem a mínima intenção de explorá-los como mereceriam.
 
 Roberta (Maria Padilha, linda como sempre) é uma famosa artista que utiliza a música para se expressar. O passado trágico envolvendo sua mãe a torna enclausurada em sentimentos mórbidos (quer até usar um requiem, uma espécie de música mórbida, para seu próximo show). Sua relação de amizade com o Padre José (Fábio Assunção) indica sua necessidade de comunicação com o seu lado mais místico, e a fotografia que transita entre as sombras escuras de sua casa e a luz branca do sol e do quarto de hospital onde se encontra após um evento a transforma metaforicamente na figura angelical. Como contraparte, a enfermeira japonesa (Juliana Kametani) que vem cuidar da mãe do padre se veste de maneira sensual, se comporta sensualmente e gosta de provocar deixando a porta aberta do seu quarto enquanto passa creme seminua em seu corpo. Note como seu cabelo no ônibus que chega à passargada possui um aspecto de chifres. Qualquer relação dualidade anjo/diabo, por mais absurdo que possa parecer, está contido nas confusas mensagens do filme.

@@ -20,10 +20,6 @@ _ratio: "1.85 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMjc0NzAyMzI1MF5BMl5BanBnXkFtZTcwMTE0NDQ1Nw@@._V1._SX95_SY140_.jpg"
 ---
-
-
-Drácula de Tim Burton decepciona em seu desenvolvimento.
-
 Em minha cabeça há um filme muito bonito que reconstrói Drácula com um apuro técnico que apenas um diretor como Tim Burton poderia conceber com sua singular visão gótica do mundo. Se transportarmos esse mundo para os coloridos anos 70 teremos então um divertido e promissor choque cultural entre épocas separadas por nada menos do que duzentos anos.
 
 Não se pode negar que havia um ótimo potencial em Sombras da Noite, novo longa do diretor em sua secular parceria com o sempre interessante Johnny Deep. Nessa história ele interpreta Barnabas Collins, o filho de um empreendedor inglês que decide partir para a América e construir um imponente castelo para firmar o que ele considera a única riqueza que sobrevive ao tempo: a família. Quando seu filho, porém, ainda jovem, acaba desiludindo uma moça (Eva Green) que acaba se revelando uma bruxa (literalmente), ela lança uma maldição que não apenas mata sua verdadeira amada (Bella Heathcote) como impede que este se junte a ela, pois é transformado em um vampiro que, imortal, sofre a fúria da população local, que o enterra preso em um caixão.

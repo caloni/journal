@@ -20,10 +20,6 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMjEwMzIxOTg3N15BMl5BanBnXkFtZTcwMjI4ODUzNw@@._V1._SX94_SY140_.jpg"
 ---
-
-
-Harry Potter em um drama/terror com excelente direção de arte/fotografia e péssimos sustos.
-
 Vamos falar primeiro sobre a fotografia: ela é escura, até demais, mas consegue criar tomadas internas que estabelecem com primor um clima tanto de luz natural (muito pouca), quanto de fantasia. E mesmo com tão pouca luz, conseguimos enxergar toda a ação ou falta dela. Existem tomadas, por exemplo, onde só dá pra ver a face do protagonista, mas graças à ótima lógica geográfica da casa é possível entender a dinâmica da cena.
 
 A história gira em torno de um advogado que precisa preparar os papéis para a venda de uma casa conhecida na região como amaldiçoada (ou seus antigos moradores). Um tema clichê, portanto. Mesmo assim Daniel Radcliffe, dessa vez livre das amarras de seu Harry Potter, consegue uma interpretação dramática que confere peso ao seu não tão complexo personagem. Porém, mesmo assim conseguimos perceber toda a angústia de Arthur Kipps e sua vida de viúvo após sua mulher ter morrido durante o parto de seu único filhos. Mesmo assim sua caracterização me pareceu talvez dramático demais para o projeto, que brinca com sustos forçados e exposições além do razoável.

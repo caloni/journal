@@ -20,8 +20,6 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMjIxNDExNDEyMV5BMl5BanBnXkFtZTcwODY1OTkxMw@@._V1._SX95_SY140_.jpg"
 ---
-
-
 O primeiro filme da saga dos vampiros e lobisomens (não estou falando de Crepúsculo) pode conter um pano de fundo curioso e com potencial dramático para um ótimo filme. Infelizmente não é isso que acontece em Anjos da Noite, que se esforça como filme de drama e ação sem conseguir se sair bem em nenhum dos dois.
 
 Ambientado sempre no escuro e no subsolo, a história gira em torno de dois clãs que guerreiam por séculos. Os vampiros, imortais por sua natureza, durante 500 anos vivem um período de hegemonia por terem exterminado quase toda a espécie rival. Uma nova suspeita de que pode estar havendo uma busca por uma arma letal contra os vampiros, porém, faz com que Selena, uma vampira assassina, se envolva com um humano que pode ser a chave desse mistério.

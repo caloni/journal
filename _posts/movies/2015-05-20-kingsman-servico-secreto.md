@@ -1,6 +1,5 @@
 ---
 imdb: "2802144"
-review-title: "Se só pode ver um filme de ação em 2015, esse filme é Kingsman"
 stars: "5/5"
 category: "movies"
 title: "Kingsman: Serviço Secreto"

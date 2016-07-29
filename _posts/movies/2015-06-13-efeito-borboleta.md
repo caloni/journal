@@ -1,6 +1,5 @@
 ---
 imdb: "0289879"
-review-title: "Efeito Borboleta tem muito mais a mostrar do que um thriller dramático de viagem no tempo"
 stars: "4/5"
 category: "movies"
 title: "Efeito Borboleta"

@@ -20,10 +20,6 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTEyODQzNDkzNjVeQTJeQWpwZ15BbWU4MDgyODk1NDEx._V1._SX99_SY140_.jpg"
 ---
-C'era una volta il West. Itália/EUA, 1968. Direção: Sergio Leone. Roteiro: Sergio Leone, Sergio Donati. Elenco: Henry Fonda, Charles Bronson, Jason Robards, Gabriele Ferzetti e Claudia Cardinale. Fotografia: Tonino Delli Colli. Montagem: Nino Baragli. Trilha Sonora: Ennio Morricone. Direção de Arte: Carlo Simi.
-
-36a. Mostra de São Paulo.
-
 Era Uma Vez no Oeste parece ser a tentativa de Sergio Leone de fazer o "Grande Cinema", tornando todas as cenas costumeiras de seu faroeste mais solenes, lentas e cerimoniosas. Isso explica a trilha-comentário do músico Ennio Morricone, que oscila elegantemente entre toda essa solenidade e o pitoresco, com direito a pausa em uma música que lembra o cavalgar e que serve de tom cômico.
 
 Essa ambição de Leone talvez fosse apenas um ledo engano, pois precisou filmar este épico para chegar em sua continuação temática em Era Uma Vez na América, que poderia muito bem ser exibido em uma sessão dupla. 

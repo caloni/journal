@@ -20,10 +20,6 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BNTk1Nzc5OTkwN15BMl5BanBnXkFtZTcwNjEyMTA4NA@@._V1._SX94_SY140_.jpg"
 ---
-
-
-Romance leve e drama sutil harmonizam história simples, mas cativante sobre sentimentos e traição.
-
 Primeiro filme ao mesmo tempo dirigido e escrito por Massy Tadjedin (roteirista de Camisa de Força) dois anos atrás, o casamento entre Joanna e Michael poderia ser o de qualquer pessoa (talvez por isso nunca sabemos seus sobrenomes). Quem nunca aspirou mudar suas escolhas baseado tão somente em seus sentimentos passados? Quando Michael (Sam Worthington) faz uma viagem a negócios, logo após uma pequena briga de casal, ele e Joanna (Keira Knightley) experimentam a velha sensação de desejo de mudança junto de um velho amigo/companheiro e uma colega de trabalho.
 
 Trilha sonora agradável que segue o compasse de uma noite que parece não terminar pela indecisão de marido e esposa diante de suas respectivas tentações. Filme não é hipócrita a respeito dos votos de fidelidade de um casamento, tampouco é sujo a ponto de jogar as fraquezas óbvias dos seres humanos na situação que se encontram. No fundo, a história caminha mais para uma auto-descoberta de ambos do que na tensão crescente a respeito do que farão com suas oportunidades.

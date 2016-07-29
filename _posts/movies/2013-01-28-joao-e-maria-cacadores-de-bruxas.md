@@ -20,10 +20,6 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMjA4MDQwODg2NV5BMl5BanBnXkFtZTcwNTc5ODc2OA@@._V1._SX89_SY140_.jpg"
 ---
-
-
-Filme pseudo-trash sobre dupla de crianças psicopatas é diversão moderada.
-
 João e Maria, como pode-se notar pelo título e sub-título, é uma reinterpretação do conto infantil dos dois irmãos que, perdidos na floresta, acabam entrando em contato com uma bruxa que mora em uma casa feita de doces. Esse é o único detalhe de toda a trama que nos faz lembrar da história clássica. A partir do momento em que eles se livram da bruxa e a queimam viva a história muda completamente de tom. Naquelas duas faces jovens e satisfeitas por assistirem ao seu precoce primeiro assassinato podemos constatar impressionados que a história não é mais de duas crianças indefesas, mas de dois psicopatas.
 
 Em uma criação de arte interessante ao conceber um antigo vilarejo com uma mitura de realismo e fábula vemos agora o já crescido casal de irmãos equipados com uma tecnologia tão avançada que se assemelha à mesma mágica usada pelas bruxas que estes se especializaram em eliminar. No fundo, podemos dizer que para aquelas pessoas simples do campo os exterminadores de bruxas possuem os mesmos poderes que estas, mas os usam para o "bem": eliminar essas criaturas horrendas em troca de recompensas em dinheiro.

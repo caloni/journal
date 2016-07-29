@@ -1,6 +1,5 @@
 ---
 imdb: "2639254"
-review-title: "Kate Winslet e Alan Rickman juntos de novo fazem filme trivial de época"
 stars: "3/5"
 category: "movies"
 title: "Um Pouco de Caos"

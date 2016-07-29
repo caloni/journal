@@ -20,10 +20,6 @@ _ratio: "1.44 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTk2NzczOTgxNF5BMl5BanBnXkFtZTcwODQ5ODczOQ@@._V1._SX94_SY140_.jpg"
 ---
-
-
-Sequência ultrapassa seu predecessor, ainda que na velocidade normal.
-
 Vendo a nova aventura dos Trekkers e revendo o genial reboot de J. J. Abrams (2008/9) fica claro que cada um é a metade de um todo maior, que poderiam ser mais enxutos (assim como Kill Bill) e que juntos seriam um excelente estudo de personagem. Ainda assim, separados, se transformam em duas aventuras físicas e mentais (essa nem tanto) ótimas em si mesmo, embora perigosamente esquecíveis para os não-fãs.
 
 Repetindo a fórmula do trabalho anterior colocando mais uma vez o Capitão Kirk (Chris Pine) fora de sua nave, um ataque terrorista surpreende a Confederação e a força a ir buscar o culpado na parte menos desejável para os humanos: o mundo dos Klingons, o equivalente a um país inimigo em estado de ebulição (e o 11 de setembro ainda é um eco forte na cultura americana). A parte boa dessa nova saga é que as decisões da nave USS Enterprise nem sempre são fáceis e óbvias, e nem sempre a lógica insofismável de Dr. Spock (Zachary Quinto) servirá aos propósitos da tripulação (mas mesmo assim Quinto rouba a cena, dessa vez de forma mais intensa, protagonizando ironicamente duas das cenas mais emocionantes e ocupando de vez a cadeira que uma vez pertencia à Leonard Nimoy, que aqui faz mais uma participação especial).

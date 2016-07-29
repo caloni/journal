@@ -20,10 +20,6 @@ _ratio: "1.85 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BOTUyODEyMDIyM15BMl5BanBnXkFtZTcwNTYxMzg5Mg@@._V1._SX95_SY140_.jpg"
 ---
-
-
-Benicio del Toro, Antony Hopkins e Emily Blunt em um projeto desperdiçado.
-
 Desde o início é possível perceber que a fotografia e a direção de arte usadas para narrar a lenda do homem que se transforma em "lobo", ou fera, é de uma beleza ímpar, estetizada ao máximo e que cobre os cenários de maneira quase onírica, já lembrando do caráter lendário do monstro em questão. No entanto, toda essa beleza acaba sendo desperdiçada em uma história pedestre, que transforma os personagens em meras caricaturas, e suas relações absurdas fazem cair abaixo o teor realista da trama.
 
 Narrando o drama de Lawrence Talbot (del Toro), que deve retornar à sua terra natal para o enterro do irmão Ben (Simon Merrells) e consequentemente rever o há muito visto pai John (Hopkins) e de maneira surpreendente sua cunhada Gwen (Blunt), a causa da morte brutal pode ter sido um ser que os nativos acreditam ser um monstro mítico que surge em noites de lua cheia e só pode ser abatido por uma bala de prata (durante quase todo o tempo o nome "lobisomen" não é pronunciado). Assustados pelo visitante daquela família já amaldiçoada pela morte da matriarca (um evento narrado rapidamente nos pensamentos de Lawrence), além da má-vinda comunidade de ciganos, que acampa próximo do vilarejo e cuja cultura alimenta a natureza do suposto monstro.
