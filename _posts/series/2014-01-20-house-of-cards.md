@@ -21,6 +21,7 @@ _ratio: "2.00 : 1"
 _kind: "tv series"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTY1NDcwMDcxN15BMl5BanBnXkFtZTgwMDI1NTQzNDE@._V1._SX95_SY140_.jpg"
 ---
+Até a sua segunda temporada, __House of Cards__ se beneficiava dos movimentos estratégicos de Frank Underwood (Kevin Spacey) para chegar ao topo e assim mover a história. Agora que ele ocupa o cargo máximo da nação mais poderosa do mundo sobra pouco espaço para subir, mas um longo caminho para descer. A recuperação de Doug Stamper (Michael Kelly) e sua genialidade resumida em pouquíssimos movimentos faz reflexo com a fraqueza de Underwood em um cargo público, como tão bem define as incessantes entrevistas com a imprensa e os ataques dos jornalistas, que parecem ter surgido de um panfleto comunista. Eles agora são poeticamente patrióticos. Faz até enganar por alguns momentos que há pessoas bem-intencionadas em torno desse lamaçal que ironicamente se chama Casa Branca.
 
 - [Primeira Temporada](#s01)
 - [Segunda Temporada](#s02)
