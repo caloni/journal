@@ -1,5 +1,7 @@
 name: Blogue do Caloni
 permalink: :title
+gems:
+  - jekyll-feed
 defaults:
   -
     values:
