@@ -55,18 +55,35 @@
        <p style="font-size: 1.0em;"><i>{% if page._countries %}{{ page._countries | join: ', ' }}. {% endif %}{% if page._year %}{{ page._year }}. {% else %}{% endif %}{% if page._director %} Direção: {{ page._director | join: ', ' }}.{% endif %}{% if page._writer %} Roteiro: {{ page._writer | join: ', ' }}.{% endif %}{% if page._cast %} Elenco: {{ page._cast | join: ', ' }}.{% endif %}{% if page._editor %} Edição: {{ page._editor | join: ', ' }}.{% endif %}{% if page._cinematographer %} Fotografia: {{ page._cinematographer | join: ', ' }}.{% endif %}{% if page._music %} Trilha Sonora: {{ page._music | join: ', ' }}.{% endif %}{% if page._runtimes %} Duração: {{ page._runtimes | join: ', ' }}.{% endif %}{% if page._ratio %} Aspecto: {{ page._ratio }}.{% endif %}{% if page._genres %} {{ page._genres | join: ', ' }}.{% endif %}</i></p>
        </div>
        <div style="margin-top: 20px; text-align: right; font-size: 1.5em;">
-         {% if page._title %}<span id="social"><a title="Rotten Tomatoes" href="http://www.rottentomatoes.com/search/?search={{ page._title }}"><img src="/images/rotten_tomatoes.png"/></a></span>{% endif %}
-         {% if page.imdb != null %}<span id="social"><a title="IMDB: Internet Movie DataBase" href="http://www.imdb.com/title/tt{{ page.imdb }}"><img src="/images/imdb.png"/></a></span>{% endif %}
+
+         {% if page._title %}<span id="social"><a title="Rotten Tomatoes" href="http://www.rottentomatoes.com/search/?search={{ page._title }}">
+         <img src="/images/rotten_tomatoes.png"/></a></span>{% endif %}
+
+         {% if page.imdb != null %}<span id="social"><a title="IMDB: Internet Movie DataBase" href="http://www.imdb.com/title/tt{{ page.imdb }}">
+         <img src="/images/imdb.png"/></a></span>{% endif %}
+
+         <span style="margin: 0px;">
+         {% if page.main %}
+         <a href="https://www.facebook.com/cinetenisverde" class="footer-link">
+         <img src="/images/facebook.png" title="Facebook"/></a></span>
+         {% else %}
+         <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}" class="footer-link" target="_blank">
+         <img src="/images/facebook.png" title="Compartilhar no Facebook"/></a></span>
+         {% endif %}
+
+         <span style="margin: 0px;">
+         {% if page.main %}
+         <a href="https://twitter.com/cinetenisverde" class="footer-link">
+         <img src="/images/twitter.png" title="Twitter"/></a></span>
+         {% else %}
+         <a href="https://twitter.com/intent/tweet?text={{ site.url }}{{ page.url }}" class="footer-link" target="_blank">
+         <img src="/images/twitter.png" title="Tweet"/></a></span>
+         {% endif %}
+
          <span style="margin: 0px;">
          <a href="http://feeds.feedburner.com/cinetenisverde" class="footer-link">
          <img src="/images/feed.png" title="Feed"/></a></span>
 
-         <a href="https://www.facebook.com/cinetenisverde" class="footer-link">
-         <img src="/images/facebook.png" title="Facebook"/></a></span>
-
-         <span style="margin: 0px;">
-         <a href="https://twitter.com/cinetenisverde" class="footer-link">
-         <img src="/images/twitter.png" title="Twitter"/></a></span>
         </div>
       </div>
 
