@@ -54,16 +54,27 @@
          <a class="prev" style="color: black;" title="Anterior" href="{{page.previous.url}}"><b>&gt;&gt;</b></a>
          {% endif %}
 
+         <span style="margin: 0px;">
+         {% if page.main %}
+         <a href="https://www.facebook.com/caloni" class="footer-link">
+         <img src="/images/facebook.png" title="Facebook"/></a></span>
+         {% else %}
+         <a href="https://www.facebook.com/sharer/sharer.php?u=http://www.caloni.com.br{{ page.url }}" class="footer-link" target="_blank">
+         <img src="/images/facebook.png" title="Compartilhar no Facebook"/></a></span>
+         {% endif %}
+
+         <span style="margin: 0px;">
+         {% if page.main %}
+         <a href="https://twitter.com/caloni" class="footer-link">
+         <img src="/images/twitter.png" title="Twitter"/></a></span>
+         {% else %}
+         <a href="https://twitter.com/intent/tweet?text={{ page.title }}: http://www.caloni.com.br{{ page.url }}" class="footer-link" target="_blank">
+         <img src="/images/twitter.png" title="Tweet"/></a></span>
+         {% endif %}
+
          <span style="margin: 3px;">
          <a href="http://feeds.feedburner.com/caloni" class="footer-link">
          <img src="/images/feed.png" title="Feed"/></a></span>
-
-         <a href="https://www.facebook.com/bloguedocaloni" class="footer-link">
-         <img src="/images/facebook.png" title="Facebook"/></a></span>
-
-         <span style="margin: 3px;">
-         <a href="https://twitter.com/caloni" class="footer-link">
-         <img src="/images/twitter.png" title="Twitter"/></a></span>
         </div>
       </div>
 
