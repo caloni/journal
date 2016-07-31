@@ -17,7 +17,7 @@ html, body {
 
 body {
   color: #4a4a4a;
-  background-color: #fafbfc;
+  background-color: white;
   font-family: 'Raleway', Arial, sans-serif;
   font-weight: 400;
   font-size: 0.85em;
@@ -244,10 +244,17 @@ a:hover {
   padding-left: 2.125em;
 }
 
+.separator {
+  text-align: center;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
 .header {
   text-align: center;
   padding-top: 2.5em;
   font-size: 1.1em;
+  padding-bottom: 2.5em;
 }
 
 .post-link {
