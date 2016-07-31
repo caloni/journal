@@ -1,5 +1,7 @@
 name: Cine Tênis Verde
 permalink: :title
+gems:
+  - jekyll-feed
 defaults:
   -
     values:
