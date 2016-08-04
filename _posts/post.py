@@ -98,10 +98,18 @@ def PushChanges(postInfo):
 
 def FindPostImageAndPrepare(postInfo):
     ScreenshotBaseWidth = 725
-    imgs = glob.glob('*.jpg')
-    if len(imgs) > 0 :
-        origPath = imgs[0]
-        newPath = postInfo['permalink'] + '.jpg'
+    def GetImgPath():
+        imgs = glob.glob('*.jpg')
+        if len(imgs) > 0:
+            return imgs[0]
+        imgs = glob.glob('*.png')
+        if len(imgs) > 0:
+            return imgs[0]
+        return None
+
+    origPath = GetImgPath()
+    if origPath:
+        newPath = postInfo['permalink'] + origPath[-4:]
         img = Image.open(origPath)
         wpercent = (ScreenshotBaseWidth/float(img.size[0]))
         hsize = int((float(img.size[1])*float(wpercent)))
@@ -122,8 +130,7 @@ def PublishToSocialMedia(post):
         m.getch()
         print '*** Preparing image'
         FindPostImageAndPrepare(postInfo)
-        print '*** Moving files'
-        shutil.move(postInfo['permalink'] + '.jpg', '..\\images')
+        print '*** Archiving file'
         shutil.move(post, 'archive')
         afterMove = True
         print '*** Pushing changes'
@@ -145,19 +152,23 @@ def PublishToSocialMedia(post):
                 print "Exception in shortener, waiting: ", str(e)
                 lastShortener = 'Google' if lastShortener != 'Google' else 'Tinyurl'
 
+        print 'press any key to continue and publish...'
+        m.getch()
         print '*** Publishing to Twitter'
-        PublishToTwitter(postInfo)
-        print '*** Publishing to Facebook'
-        PublishToFacebook(postInfo)
-        print '*** Done!'
-        webbrowser.open_new_tab(link)
-        webbrowser.open_new_tab('https://www.facebook.com/bloguedocaloni/')
-        webbrowser.open_new_tab('https://tweetdeck.twitter.com/')
-        shutil.copyfile('..\\images\\' + postInfo['permalink'] + '.jpg', '\\screenshots')
+        #PublishToTwitter(postInfo)
+        #print '*** Publishing to Facebook'
+        #PublishToFacebook(postInfo)
+        #print '*** Done!'
+        #webbrowser.open_new_tab(link)
+        #webbrowser.open_new_tab('https://www.facebook.com/bloguedocaloni/')
+        #webbrowser.open_new_tab('https://tweetdeck.twitter.com/')
+        for i in glob.glob('*.jpg'):
+            os.remove(i)
+        for i in glob.glob('*.png'):
+            os.remove(i)
     except Exception as e:
         print '*** Something gone wrong!'
         if afterMove == True:
-            shutil.move('..\\images\\' + postInfo['permalink'] + '.jpg', '.')
             shutil.move('archive\\' + post, '.')
         raise
 
