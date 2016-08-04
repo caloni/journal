@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2009-01-26 15:17:42+00:00
-layout: post
-slug: basico-do-basico-assembly
 title: 'Básico do básico: assembly'
-wordpress_id: 740
 categories:
 - Programação
 tags:

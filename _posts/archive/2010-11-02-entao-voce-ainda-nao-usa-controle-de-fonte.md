@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2010-11-02 15:51:47+00:00
-layout: post
-slug: entao-voce-ainda-nao-usa-controle-de-fonte
 title: Então você ainda não usa controle de fonte?
-wordpress_id: 957
 categories:
 - Controle de Fonte
 ---

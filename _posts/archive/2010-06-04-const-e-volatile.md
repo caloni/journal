@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2010-06-04 17:26:33+00:00
-layout: post
-slug: const-e-volatile
 title: Const e Volatile
-wordpress_id: 897
 categories:
 - C++
 ---

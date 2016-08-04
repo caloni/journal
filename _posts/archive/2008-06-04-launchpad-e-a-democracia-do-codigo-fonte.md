@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-06-04 03:33:30+00:00
-layout: post
-slug: launchpad-e-a-democracia-do-codigo-fonte
 title: Launchpad e a democracia do código-fonte
-wordpress_id: 573
 categories:
 - Controle de Fonte
 ---

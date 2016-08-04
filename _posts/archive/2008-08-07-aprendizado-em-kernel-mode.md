@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-08-07 09:00:49+00:00
-layout: post
-slug: aprendizado-em-kernel-mode
 title: Aprendizado em kernel mode
-wordpress_id: 666
 categories:
 - Sistema Operacional
 ---

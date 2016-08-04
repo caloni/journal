@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2012-03-27 14:57:01+00:00
-layout: post
-slug: header-inutil
 title: Header Inútil
-wordpress_id: 1257
 categories:
 - Ferramentas
 tags:

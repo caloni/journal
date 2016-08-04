@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2013-10-02 14:56:21+00:00
-layout: post
-slug: mais-um-cpp-mvp
 title: Mais um CPP MVP
-wordpress_id: 1499
 categories:
 - Blogging
 ---

@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2012-07-21 04:19:15+00:00
-layout: post
-slug: minha-palestra-do-tdc-2012
 title: Minha palestra do TDC 2012
-wordpress_id: 1416
 categories:
 - Blogging
 - Código

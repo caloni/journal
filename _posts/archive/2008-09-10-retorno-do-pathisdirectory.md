@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-09-10 04:04:39+00:00
-layout: post
-slug: retorno-do-pathisdirectory
 title: Retorno do PathIsDirectory
-wordpress_id: 681
 categories:
 - Depuração
 - Engenharia Reversa

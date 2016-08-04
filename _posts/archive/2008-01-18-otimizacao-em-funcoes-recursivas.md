@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-01-18 13:04:45+00:00
-layout: post
-slug: otimizacao-em-funcoes-recursivas
 title: Otimização em funções recursivas
-wordpress_id: 399
 categories:
 - Programação
 ---

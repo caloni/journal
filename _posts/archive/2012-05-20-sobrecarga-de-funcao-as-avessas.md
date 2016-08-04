@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2012-05-20 03:19:47+00:00
-layout: post
-slug: sobrecarga-de-funcao-as-avessas
 title: Sobrecarga de função às avessas
-wordpress_id: 1316
 categories:
 - Devaneando
 ---

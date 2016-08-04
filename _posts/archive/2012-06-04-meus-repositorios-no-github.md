@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2012-06-04 14:50:54+00:00
-layout: post
-slug: meus-repositorios-no-github
 title: Meus repositórios no GitHub
-wordpress_id: 1403
 categories:
 - Blogging
 - Código

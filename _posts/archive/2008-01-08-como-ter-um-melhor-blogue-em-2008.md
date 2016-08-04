@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-01-08 12:26:54+00:00
-layout: post
-slug: como-ter-um-melhor-blogue-em-2008
 title: Como ter um melhor blogue em 2008
-wordpress_id: 400
 categories:
 - Devaneando
 ---

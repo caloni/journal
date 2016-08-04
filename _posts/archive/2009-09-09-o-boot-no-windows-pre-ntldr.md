@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2009-09-09 00:59:44+00:00
-layout: post
-slug: o-boot-no-windows-pre-ntldr
 title: 'O boot no Windows: pré-NTLDR'
-wordpress_id: 813
 categories:
 - Engenharia Reversa
 - Sistema Operacional

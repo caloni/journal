@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2007-12-21 12:58:31+00:00
-layout: post
-slug: banco-de-dados-no-c-builder
 title: Banco de dados no C++ Builder
-wordpress_id: 377
 categories:
 - Código
 ---

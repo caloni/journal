@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2011-05-29 23:59:24+00:00
-layout: post
-slug: novo-branch-para-projetos-do-caloni-com-br
 title: Novo branch para projetos do Caloni.com.br
-wordpress_id: 1091
 categories:
 - Blogging
 tags:

@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-02-29 18:01:48+00:00
-layout: post
-slug: quando-o-ponteiro-nulo-nao-e-invalido
 title: Quando o ponteiro nulo não é inválido
-wordpress_id: 478
 categories:
 - C++
 ---

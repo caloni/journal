@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2010-12-27 13:44:49+00:00
-layout: post
-slug: trabalhando-em-multiplos-ambientes
 title: Trabalhando em múltiplos ambientes
-wordpress_id: 975
 categories:
 - Controle de Fonte
 ---

@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2010-10-22 01:26:20+00:00
-layout: post
-slug: atualizando-houaissparababylon-no-saite
 title: Atualizando HouaissParaBabylon no saite
-wordpress_id: 952
 categories:
 - Projetos
 tags:

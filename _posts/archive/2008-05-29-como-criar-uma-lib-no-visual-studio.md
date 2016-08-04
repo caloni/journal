@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-05-29 03:07:56+00:00
-layout: post
-slug: como-criar-uma-lib-no-visual-studio
 title: Como criar uma LIB no Visual Studio
-wordpress_id: 561
 categories:
 - Programação
 ---

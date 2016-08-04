@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2012-09-27 03:16:15+00:00
-layout: post
-slug: extreme-go-horse
 title: eXtreme Go Horse
-wordpress_id: 1445
 categories:
 - Blogging
 tags:

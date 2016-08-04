@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-01-22 04:00:17+00:00
-layout: post
-slug: terceiro-encontro-c
 title: Terceiro encontro C++
-wordpress_id: 429
 categories:
 - C++
 - palestras

@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2009-04-07 00:41:51+00:00
-layout: post
-slug: a-fila-das-threads
 title: A fila das threads
-wordpress_id: 762
 categories:
 - Código
 - Sistema Operacional

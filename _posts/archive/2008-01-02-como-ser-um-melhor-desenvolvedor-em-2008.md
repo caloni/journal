@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-01-02 10:55:20+00:00
-layout: post
-slug: como-ser-um-melhor-desenvolvedor-em-2008
 title: Como ser um melhor desenvolvedor em 2008
-wordpress_id: 395
 categories:
 - Programação
 ---

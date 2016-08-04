@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-06-06 12:27:33+00:00
-layout: post
-slug: declaracao-x-definicao
 title: Declaração x definição
-wordpress_id: 585
 categories:
 - C++
 ---

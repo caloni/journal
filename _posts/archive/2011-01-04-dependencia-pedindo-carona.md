@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2011-01-04 15:01:48+00:00
-layout: post
-slug: dependencia-pedindo-carona
 title: Dependência pedindo carona
-wordpress_id: 979
 categories:
 - Sistema Operacional
 ---

@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2010-01-18 09:00:22+00:00
-layout: post
-slug: passagem-por-valor-e-emails-com-anexo
 title: Passagem por valor e emails com anexo
-wordpress_id: 838
 categories:
 - Programação
 ---

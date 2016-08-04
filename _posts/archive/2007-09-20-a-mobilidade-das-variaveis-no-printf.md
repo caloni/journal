@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2007-09-20 14:24:11+00:00
-layout: post
-slug: a-mobilidade-das-variaveis-no-printf
 title: A mobilidade das variáveis no printf
-wordpress_id: 185
 categories:
 - C++
 ---

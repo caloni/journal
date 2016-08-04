@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2007-08-17 10:23:07+00:00
-layout: post
-slug: junctions
 title: Junctions
-wordpress_id: 113
 categories:
 - Ferramentas
 ---

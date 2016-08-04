@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2011-05-22 23:58:48+00:00
-layout: post
-slug: comparando-strings-no-windbg
 title: Comparando strings no WinDbg
-wordpress_id: 1083
 categories:
 - Engenharia Reversa
 tags:

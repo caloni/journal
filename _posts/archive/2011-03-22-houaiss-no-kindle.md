@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2011-03-22 12:26:39+00:00
-layout: post
-slug: houaiss-no-kindle
 title: Houaiss no Kindle
-wordpress_id: 1028
 categories:
 - Projetos
 tags:

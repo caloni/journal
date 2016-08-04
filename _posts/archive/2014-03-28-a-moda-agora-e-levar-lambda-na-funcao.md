@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2014-03-28 16:29:05+00:00
-layout: post
-slug: a-moda-agora-e-levar-lambda-na-funcao
 title: A moda agora é levar lambda na função
-wordpress_id: 1725
 categories:
 - C++
 tags:

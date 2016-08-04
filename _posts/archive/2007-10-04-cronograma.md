@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2007-10-04 15:23:54+00:00
-layout: post
-slug: cronograma
 title: Cronogramas
-wordpress_id: 218
 categories:
 - Devaneando
 tags:

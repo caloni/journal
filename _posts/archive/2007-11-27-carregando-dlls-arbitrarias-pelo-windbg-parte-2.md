@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2007-11-27 12:54:32+00:00
-layout: post
-slug: carregando-dlls-arbitrarias-pelo-windbg-parte-2
 title: Carregando DLLs arbitrárias pelo WinDbg - parte 2
-wordpress_id: 304
 categories:
 - Depuração
 ---

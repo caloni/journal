@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2007-08-09 14:01:25+00:00
-layout: post
-slug: antidebug-interpretacao-baseada-em-excecao-parte-2
 title: 'Antidebug: interpretação baseada em exceção (parte 2)'
-wordpress_id: 104
 categories:
 - Código
 - Engenharia Reversa

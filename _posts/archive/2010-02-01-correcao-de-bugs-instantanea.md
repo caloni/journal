@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2010-02-01 09:00:53+00:00
-layout: post
-slug: correcao-de-bugs-instantanea
 title: Correção de bugs instantânea
-wordpress_id: 840
 categories:
 - Depuração
 ---

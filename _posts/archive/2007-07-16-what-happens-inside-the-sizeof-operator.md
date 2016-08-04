@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2007-07-16 12:12:17+00:00
-layout: post
-slug: what-happens-inside-the-sizeof-operator
 title: What happens inside the sizeof operator
-wordpress_id: 9
 categories:
 - C++
 - English

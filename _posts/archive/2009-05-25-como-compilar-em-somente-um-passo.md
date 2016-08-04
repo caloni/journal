@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2009-05-25 09:00:04+00:00
-layout: post
-slug: como-compilar-em-somente-um-passo
 title: Como compilar em somente um passo
-wordpress_id: 779
 categories:
 - Controle de Fonte
 ---

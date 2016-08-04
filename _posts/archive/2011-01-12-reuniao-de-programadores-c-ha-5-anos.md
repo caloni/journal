@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2011-01-12 19:17:25+00:00
-layout: post
-slug: reuniao-de-programadores-c-ha-5-anos
 title: Reunião de programadores C++ (há 5 anos)
-wordpress_id: 988
 categories:
 - C++
 - Devaneando

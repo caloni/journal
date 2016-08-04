@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-01-28 12:00:03+00:00
-layout: post
-slug: rmthread-rode-codigo-em-processo-vizinho
 title: 'RmThread: rode código em processo vizinho'
-wordpress_id: 287
 categories:
 - Projetos
 ---

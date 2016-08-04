@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2007-11-09 15:30:24+00:00
-layout: post
-slug: detectando-hooks-globais-no-windbg
 title: Detectando hooks globais no WinDbg
-wordpress_id: 268
 categories:
 - Depuração
 ---

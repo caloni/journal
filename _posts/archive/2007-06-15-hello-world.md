@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2007-06-15 00:54:55+00:00
-layout: post
-slug: hello-world
 title: O bom filho à casa retorna
-wordpress_id: 1
 categories:
 - Devaneando
 - palestras

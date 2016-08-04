@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-02-01 09:00:57+00:00
-layout: post
-slug: compartilhando-variaveis-com-o-mundo-v2
 title: Compartilhando variáveis com o mundo v2
-wordpress_id: 286
 categories:
 - Código
 ---

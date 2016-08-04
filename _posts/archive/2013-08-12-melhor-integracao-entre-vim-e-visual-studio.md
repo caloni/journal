@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2013-08-12 13:43:42+00:00
-layout: post
-slug: melhor-integracao-entre-vim-e-visual-studio
 title: Melhor integração entre Vim e Visual Studio
-wordpress_id: 1488
 categories:
 - Blogging
 tags:

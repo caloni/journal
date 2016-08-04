@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2014-05-06 15:40:04+00:00
-layout: post
-slug: poker-face
 title: Poker Face
-wordpress_id: 1913
 categories:
 - Código
 tags:

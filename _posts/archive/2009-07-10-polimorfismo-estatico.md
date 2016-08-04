@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2009-07-10 17:44:34+00:00
-layout: post
-slug: polimorfismo-estatico
 title: Polimorfismo estático
-wordpress_id: 789
 categories:
 - C++
 ---

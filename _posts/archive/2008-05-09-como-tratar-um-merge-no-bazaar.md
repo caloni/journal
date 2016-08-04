@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-05-09 09:20:28+00:00
-layout: post
-slug: como-tratar-um-merge-no-bazaar
 title: Como tratar um merge no Bazaar
-wordpress_id: 549
 categories:
 - Controle de Fonte
 ---

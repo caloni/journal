@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2009-08-03 09:00:39+00:00
-layout: post
-slug: o-que-andei-fazendo-nos-ultimos-10-anos
 title: O que andei fazendo nos últimos 10 anos
-wordpress_id: 802
 categories:
 - Devaneando
 ---

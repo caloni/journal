@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2007-07-30 13:46:27+00:00
-layout: post
-slug: c-and-c-operators-precedence-table
 title: C and C++ Operators Precedence Table
-wordpress_id: 1359
 categories:
 - C++
 - English

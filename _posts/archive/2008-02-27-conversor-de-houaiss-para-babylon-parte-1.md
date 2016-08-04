@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-02-27 09:00:30+00:00
-layout: post
-slug: conversor-de-houaiss-para-babylon-parte-1
 title: Conversor de Houaiss para Babylon - parte 1
-wordpress_id: 59
 categories:
 - Engenharia Reversa
 - Projetos

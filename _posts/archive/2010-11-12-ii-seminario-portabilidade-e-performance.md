@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2010-11-12 13:46:26+00:00
-layout: post
-slug: ii-seminario-portabilidade-e-performance
 title: II Seminário Portabilidade e Performance
-wordpress_id: 971
 categories:
 - C++
 - palestras

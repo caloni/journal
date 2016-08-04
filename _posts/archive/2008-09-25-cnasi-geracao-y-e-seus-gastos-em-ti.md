@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-09-25 03:40:02+00:00
-layout: post
-slug: cnasi-geracao-y-e-seus-gastos-em-ti
 title: Cnasi, geração Y e seus gastos em TI
-wordpress_id: 696
 categories:
 - Devaneando
 ---

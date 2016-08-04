@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2014-09-03 03:41:53+00:00
-layout: post
-slug: shareando-ponteiros
 title: Shareando Ponteiros
-wordpress_id: 2040
 categories:
 - C++
 tags:

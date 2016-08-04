@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2010-02-08 09:00:17+00:00
-layout: post
-slug: restauranto-o-registro
 title: Restaurando o registro
-wordpress_id: 841
 categories:
 - Depuração
 - Ferramentas

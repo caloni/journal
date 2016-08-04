@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2010-08-30 01:49:27+00:00
-layout: post
-slug: como-ofuscar-strings
 title: Como ofuscar strings
-wordpress_id: 940
 categories:
 - Programação
 ---

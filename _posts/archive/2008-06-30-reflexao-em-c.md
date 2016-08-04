@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-06-30 04:02:38+00:00
-layout: post
-slug: reflexao-em-c
 title: Reflexão em C++
-wordpress_id: 618
 categories:
 - C++
 ---

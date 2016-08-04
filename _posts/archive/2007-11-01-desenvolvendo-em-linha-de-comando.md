@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2007-11-01 16:17:38+00:00
-layout: post
-slug: desenvolvendo-em-linha-de-comando
 title: Desenvolvendo em linha de comando
-wordpress_id: 257
 categories:
 - Programação
 ---

@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2007-08-21 14:56:45+00:00
-layout: post
-slug: erro-de-compilacao-funcoes-muito-novas-na-win32-api
 title: 'Erro de compilação: funções muito novas na Win32 API'
-wordpress_id: 122
 categories:
 - Programação
 ---

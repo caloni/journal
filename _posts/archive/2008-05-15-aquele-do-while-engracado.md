@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-05-15 03:35:31+00:00
-layout: post
-slug: aquele-do-while-engracado
 title: Aquele do-while engraçado
-wordpress_id: 554
 categories:
 - C++
 ---

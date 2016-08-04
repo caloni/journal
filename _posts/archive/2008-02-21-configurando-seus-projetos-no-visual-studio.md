@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-02-21 11:03:31+00:00
-layout: post
-slug: configurando-seus-projetos-no-visual-studio
 title: Configurando seus projetos no Visual Studio
-wordpress_id: 465
 categories:
 - Programação
 ---

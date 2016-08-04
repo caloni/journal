@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2010-05-19 12:30:17+00:00
-layout: post
-slug: analogicamente-perfeito
 title: Analogicamente perfeito
-wordpress_id: 888
 categories:
 - Devaneando
 ---

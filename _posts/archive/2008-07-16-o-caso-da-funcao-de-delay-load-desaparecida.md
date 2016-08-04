@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-07-16 09:00:55+00:00
-layout: post
-slug: o-caso-da-funcao-de-delay-load-desaparecida
 title: O caso da função de Delay Load desaparecida
-wordpress_id: 631
 categories:
 - Depuração
 ---

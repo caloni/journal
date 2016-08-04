@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2007-10-24 13:45:02+00:00
-layout: post
-slug: typeid-e-os-perigos-do-nao-polimorfismo
 title: Typeid e os perigos do não-polimorfismo
-wordpress_id: 245
 categories:
 - C++
 ---

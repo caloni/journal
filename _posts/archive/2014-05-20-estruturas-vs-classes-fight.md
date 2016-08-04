@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2014-05-20 15:55:00+00:00
-layout: post
-slug: estruturas-vs-classes-fight
 title: 'Estruturas VS Classes: fight!'
-wordpress_id: 1921
 categories:
 - C++
 tags:

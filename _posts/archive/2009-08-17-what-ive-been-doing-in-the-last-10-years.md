@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2009-08-17 10:00:26+00:00
-layout: post
-slug: what-ive-been-doing-in-the-last-10-years
 title: What I've been doing in the last 10 years
-wordpress_id: 1361
 categories:
 - Devaneando
 - English

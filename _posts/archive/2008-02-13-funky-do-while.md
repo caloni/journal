@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-02-13 16:34:29+00:00
-layout: post
-slug: funky-do-while
 title: Funky do-while
-wordpress_id: 14
 categories:
 - C++
 - English

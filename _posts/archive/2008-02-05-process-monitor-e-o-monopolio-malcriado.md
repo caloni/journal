@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-02-05 10:35:45+00:00
-layout: post
-slug: process-monitor-e-o-monopolio-malcriado
 title: Process Monitor e o monopólio malcriado
-wordpress_id: 433
 categories:
 - Engenharia Reversa
 ---

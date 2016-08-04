@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2009-02-10 10:27:32+00:00
-layout: post
-slug: windbginfo
 title: WinDbg.info
-wordpress_id: 753
 categories:
 - Depuração
 ---

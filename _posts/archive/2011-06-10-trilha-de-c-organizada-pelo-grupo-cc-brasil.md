@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2011-06-10 19:51:44+00:00
-layout: post
-slug: trilha-de-c-organizada-pelo-grupo-cc-brasil
 title: Trilha de C++ organizada pelo grupo C/C++ Brasil
-wordpress_id: 1104
 categories:
 - Blogging
 tags:

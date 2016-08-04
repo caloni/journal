@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2010-10-26 14:37:28+00:00
-layout: post
-slug: formatmessage-para-dumies
 title: FormatMessage para... dumies?
-wordpress_id: 949
 categories:
 - Código
 - Sistema Operacional

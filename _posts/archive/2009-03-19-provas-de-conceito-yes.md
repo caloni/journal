@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2009-03-19 01:24:13+00:00
-layout: post
-slug: provas-de-conceito-yes
 title: Provas de conceito... yes!
-wordpress_id: 759
 categories:
 - Devaneando
 ---

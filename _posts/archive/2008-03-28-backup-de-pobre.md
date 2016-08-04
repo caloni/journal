@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-03-28 09:50:18+00:00
-layout: post
-slug: backup-de-pobre
 title: Backup de pobre
-wordpress_id: 514
 categories:
 - Controle de Fonte
 ---

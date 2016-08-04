@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2010-05-28 12:06:29+00:00
-layout: post
-slug: modificadores-e-qualificadores-de-tipo
 title: Modificadores e qualificadores de tipo
-wordpress_id: 889
 categories:
 - C++
 ---

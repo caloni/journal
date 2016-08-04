@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2007-11-21 13:09:47+00:00
-layout: post
-slug: usando-a-libc-nativa-do-windows
 title: Usando a LIBC nativa do Windows
-wordpress_id: 256
 categories:
 - C++
 ---

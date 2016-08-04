@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-12-30 14:46:46+00:00
-layout: post
-slug: houaissparababylon-versao-11
 title: HouaissParaBabylon versão 1.1
-wordpress_id: 745
 categories:
 - Projetos
 tags:

@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2014-07-01 09:00:49+00:00
-layout: post
-slug: introducao-a-introducao-a-computacao
 title: Introdução à Introdução à Computação
-wordpress_id: 1977
 categories:
 - Devaneando
 tags:

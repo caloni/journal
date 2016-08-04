@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2007-10-18 11:48:35+00:00
-layout: post
-slug: por-que-minha-dll-travou
 title: Por que minha DLL travou?
-wordpress_id: 235
 categories:
 - Sistema Operacional
 ---

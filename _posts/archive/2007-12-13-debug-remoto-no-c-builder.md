@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2007-12-13 12:58:22+00:00
-layout: post
-slug: debug-remoto-no-c-builder
 title: Debug remoto no C++ Builder
-wordpress_id: 283
 categories:
 - Depuração
 ---

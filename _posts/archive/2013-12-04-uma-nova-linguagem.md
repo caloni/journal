@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2013-12-04 14:47:21+00:00
-layout: post
-slug: uma-nova-linguagem
 title: Uma nova linguagem
-wordpress_id: 1637
 categories:
 - Blogging
 - C++

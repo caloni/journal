@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2011-05-18 02:00:47+00:00
-layout: post
-slug: sem-reflection
 title: Sem reflection
-wordpress_id: 1076
 categories:
 - C++
 tags:

@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-03-04 20:00:22+00:00
-layout: post
-slug: iteradores-nao-sao-constantes
 title: Iteradores não são constantes
-wordpress_id: 481
 categories:
 - C++
 ---

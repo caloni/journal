@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-02-19 09:00:03+00:00
-layout: post
-slug: creative-commons
 title: Creative Commons
-wordpress_id: 457
 categories:
 - Devaneando
 ---

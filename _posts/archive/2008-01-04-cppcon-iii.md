@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-01-04 11:05:47+00:00
-layout: post
-slug: cppcon-iii
 title: CppCon III
-wordpress_id: 322
 categories:
 - C++
 - palestras

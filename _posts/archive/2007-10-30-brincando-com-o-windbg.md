@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2007-10-30 13:06:33+00:00
-layout: post
-slug: brincando-com-o-windbg
 title: Brincando com o WinDbg
-wordpress_id: 261
 categories:
 - Depuração
 ---

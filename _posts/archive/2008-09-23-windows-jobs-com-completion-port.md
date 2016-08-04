@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-09-23 09:00:25+00:00
-layout: post
-slug: windows-jobs-com-completion-port
 title: Windows Jobs com Completion Port
-wordpress_id: 686
 categories:
 - Código
 - Sistema Operacional

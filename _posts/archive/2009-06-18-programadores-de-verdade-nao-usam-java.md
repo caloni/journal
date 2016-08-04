@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2009-06-18 11:21:15+00:00
-layout: post
-slug: programadores-de-verdade-nao-usam-java
 title: Programadores de verdade não usam Java
-wordpress_id: 782
 categories:
 - Devaneando
 ---

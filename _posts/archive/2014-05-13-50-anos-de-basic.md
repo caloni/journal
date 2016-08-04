@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2014-05-13 12:00:41+00:00
-layout: post
-slug: 50-anos-de-basic
 title: 50 Anos de BASIC
-wordpress_id: 1918
 categories:
 - Devaneando
 ---

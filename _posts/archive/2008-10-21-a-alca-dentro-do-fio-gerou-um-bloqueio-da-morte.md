@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-10-21 01:04:58+00:00
-layout: post
-slug: a-alca-dentro-do-fio-gerou-um-bloqueio-da-morte
 title: A alça dentro do fio gerou um bloqueio da morte
-wordpress_id: 674
 categories:
 - Devaneando
 ---

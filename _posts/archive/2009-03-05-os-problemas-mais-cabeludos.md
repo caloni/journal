@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2009-03-05 15:02:47+00:00
-layout: post
-slug: os-problemas-mais-cabeludos
 title: Os problemas mais cabeludos
-wordpress_id: 758
 categories:
 - Depuração
 ---

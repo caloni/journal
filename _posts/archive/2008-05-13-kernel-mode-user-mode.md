@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-05-13 13:45:51+00:00
-layout: post
-slug: kernel-mode-user-mode
 title: Kernel Mode >> User Mode
-wordpress_id: 551
 categories:
 - Depuração
 ---

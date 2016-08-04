@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-05-21 14:46:54+00:00
-layout: post
-slug: mousetool-clique-automatico-do-seu-rato
 title: 'MouseTool: clique automático do seu rato'
-wordpress_id: 557
 categories:
 - Projetos
 ---

@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2010-07-28 02:02:10+00:00
-layout: post
-slug: twitter-eu
 title: Twitter, eu?
-wordpress_id: 910
 categories:
 - Devaneando
 ---

@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2007-09-04 11:12:28+00:00
-layout: post
-slug: historia-do-windows-parte-40
 title: História do Windows - parte 4.0
-wordpress_id: 47
 categories:
 - Sistema Operacional
 ---

@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2011-09-19 02:10:02+00:00
-layout: post
-slug: oitavo-encontro-do-grupo-cc-brasil
 title: Oitavo Encontro do Grupo C/C++ Brasil
-wordpress_id: 1159
 categories:
 - Blogging
 tags:

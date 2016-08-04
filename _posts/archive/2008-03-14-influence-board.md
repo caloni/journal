@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-03-14 09:00:37+00:00
-layout: post
-slug: influence-board
 title: Influence Board
-wordpress_id: 484
 categories:
 - Projetos
 ---

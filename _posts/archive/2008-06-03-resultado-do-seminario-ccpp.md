@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-06-03 00:17:05+00:00
-layout: post
-slug: resultado-do-seminario-ccpp
 title: Resultado do Seminário CCPP
-wordpress_id: 574
 categories:
 - C++
 - palestras

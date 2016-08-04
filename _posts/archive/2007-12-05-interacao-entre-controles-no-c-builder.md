@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2007-12-05 11:26:34+00:00
-layout: post
-slug: interacao-entre-controles-no-c-builder
 title: Interação entre controles no C++ Builder
-wordpress_id: 289
 categories:
 - Código
 ---

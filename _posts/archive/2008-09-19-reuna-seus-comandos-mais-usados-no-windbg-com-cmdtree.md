@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-09-19 01:30:48+00:00
-layout: post
-slug: reuna-seus-comandos-mais-usados-no-windbg-com-cmdtree
 title: Reúna seus comandos mais usados no WinDbg com .cmdtree
-wordpress_id: 688
 categories:
 - Depuração
 ---

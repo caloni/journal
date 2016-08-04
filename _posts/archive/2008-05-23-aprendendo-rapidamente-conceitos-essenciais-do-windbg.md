@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-05-23 09:00:54+00:00
-layout: post
-slug: aprendendo-rapidamente-conceitos-essenciais-do-windbg
 title: Aprendendo rapidamente conceitos essenciais do WinDbg
-wordpress_id: 558
 categories:
 - Depuração
 ---

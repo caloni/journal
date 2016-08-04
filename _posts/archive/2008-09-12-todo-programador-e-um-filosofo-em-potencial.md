@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-09-12 04:08:46+00:00
-layout: post
-slug: todo-programador-e-um-filosofo-em-potencial
 title: Todo programador é um filósofo em potencial
-wordpress_id: 683
 categories:
 - Devaneando
 ---

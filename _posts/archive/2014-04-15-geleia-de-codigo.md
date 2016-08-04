@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2014-04-15 19:11:14+00:00
-layout: post
-slug: geleia-de-codigo
 title: Geleia de Código
-wordpress_id: 1732
 categories:
 - Código
 - Eventos

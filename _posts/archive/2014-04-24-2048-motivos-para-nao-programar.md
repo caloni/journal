@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2014-04-24 00:37:36+00:00
-layout: post
-slug: 2048-motivos-para-nao-programar
 title: 2048 motivos para não programar
-wordpress_id: 1736
 categories:
 - Código
 - Devaneando

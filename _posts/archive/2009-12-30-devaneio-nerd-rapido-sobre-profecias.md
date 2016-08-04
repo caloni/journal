@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2009-12-30 18:24:35+00:00
-layout: post
-slug: devaneio-nerd-rapido-sobre-profecias
 title: Devaneio nerd rápido sobre profecias
-wordpress_id: 829
 categories:
 - Depuração
 - Devaneando

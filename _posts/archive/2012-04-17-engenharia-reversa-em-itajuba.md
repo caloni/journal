@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2012-04-17 23:24:16+00:00
-layout: post
-slug: engenharia-reversa-em-itajuba
 title: Engenharia Reversa em Itajubá
-wordpress_id: 1282
 categories:
 - Engenharia Reversa
 tags:

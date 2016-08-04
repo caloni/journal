@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-03-24 09:00:27+00:00
-layout: post
-slug: depuracao-da-mbr
 title: Depuração da MBR
-wordpress_id: 501
 categories:
 - Depuração
 ---

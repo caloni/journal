@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2011-07-26 13:12:29+00:00
-layout: post
-slug: depuracao-de-emergencia
 title: Depuração de emergência
-wordpress_id: 1139
 categories:
 - Depuração
 tags:

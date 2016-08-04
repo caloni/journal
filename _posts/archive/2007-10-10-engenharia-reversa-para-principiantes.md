@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2007-10-10 18:25:45+00:00
-layout: post
-slug: engenharia-reversa-para-principiantes
 title: Engenharia reversa para principiantes
-wordpress_id: 225
 categories:
 - Engenharia Reversa
 tags:

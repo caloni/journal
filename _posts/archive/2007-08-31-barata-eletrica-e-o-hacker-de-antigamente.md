@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2007-08-31 10:26:13+00:00
-layout: post
-slug: barata-eletrica-e-o-hacker-de-antigamente
 title: Barata Elétrica e o hacker de antigamente
-wordpress_id: 144
 categories:
 - Devaneando
 ---

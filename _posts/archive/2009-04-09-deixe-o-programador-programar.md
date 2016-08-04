@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2009-04-09 23:58:19+00:00
-layout: post
-slug: deixe-o-programador-programar
 title: Deixe o programador programar
-wordpress_id: 772
 categories:
 - Devaneando
 ---

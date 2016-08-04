@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-07-18 09:00:53+00:00
-layout: post
-slug: o-conhecido-unresolved-external
 title: O conhecido unresolved external
-wordpress_id: 652
 categories:
 - Depuração
 ---

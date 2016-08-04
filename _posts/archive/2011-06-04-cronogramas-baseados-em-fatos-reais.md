@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2011-06-04 23:12:36+00:00
-layout: post
-slug: cronogramas-baseados-em-fatos-reais
 title: Cronogramas baseados em fatos reais
-wordpress_id: 1099
 categories:
 - Blogging
 tags:

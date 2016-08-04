@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2011-10-14 01:52:03+00:00
-layout: post
-slug: coders-at-work-brendan-eich-threads-e-depuracao
 title: 'Coders at Work: Brendan Eich, threads e depuração'
-wordpress_id: 1208
 categories:
 - Blogging
 tags:

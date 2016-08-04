@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2014-08-11 02:01:45+00:00
-layout: post
-slug: tdc2014-trilha-de-cc-teve-palestras-para-todos-os-gostos
 title: 'TDC2014: Trilha de C/C++ teve palestras para todos os gostos'
-wordpress_id: 2036
 categories:
 - Blogging
 - C++

@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-05-27 09:00:05+00:00
-layout: post
-slug: how-to-run-anything-as-a-service
 title: How to run anything as a service
-wordpress_id: 1360
 categories:
 - English
 - Ferramentas

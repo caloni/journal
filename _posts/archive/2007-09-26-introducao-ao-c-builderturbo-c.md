@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2007-09-26 17:38:59+00:00
-layout: post
-slug: introducao-ao-c-builderturbo-c
 title: Introdução ao C++ Builder...Turbo C++
-wordpress_id: 184
 categories:
 - Programação
 ---

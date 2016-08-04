@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-03-18 09:00:21+00:00
-layout: post
-slug: quarto-encontro-c
 title: Quarto encontro C++
-wordpress_id: 498
 categories:
 - C++
 - palestras

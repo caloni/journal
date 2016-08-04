@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-03-20 09:00:05+00:00
-layout: post
-slug: como-rodar-qualquer-coisa-como-servico
 title: Como rodar qualquer coisa como serviço
-wordpress_id: 499
 categories:
 - Ferramentas
 ---

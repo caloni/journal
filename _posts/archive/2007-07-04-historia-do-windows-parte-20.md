@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2007-07-04 11:04:27+00:00
-layout: post
-slug: historia-do-windows-parte-20
 title: História do Windows - parte 2.0
-wordpress_id: 45
 categories:
 - Sistema Operacional
 tags:

@@ -1,9 +1,5 @@
 ---
-date: 2014-10-25 13:44:24+00:00
-layout: post
-slug: houaiss-para
 title: Houaiss Para *
-wordpress_id: 2046
 categories:
 - Código
 - Projetos

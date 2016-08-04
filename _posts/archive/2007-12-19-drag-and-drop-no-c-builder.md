@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2007-12-19 14:13:12+00:00
-layout: post
-slug: drag-and-drop-no-c-builder
 title: Drag and drop no C++ Builder
-wordpress_id: 297
 categories:
 - Código
 ---

@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2011-10-09 16:57:56+00:00
-layout: post
-slug: coders-at-work-jamie-zawinski-e-douglas-crockford
 title: 'Coders at Work: Jamie Zawinski e Douglas Crockford'
-wordpress_id: 1201
 categories:
 - Blogging
 tags:

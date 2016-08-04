@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2009-07-27 09:00:36+00:00
-layout: post
-slug: cuidado-com-a-copia-de-arquivos-na-vmware
 title: Cuidado com a cópia de arquivos na VMWare
-wordpress_id: 801
 categories:
 - Depuração
 - Ferramentas

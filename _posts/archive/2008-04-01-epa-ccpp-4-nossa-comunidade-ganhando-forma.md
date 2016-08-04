@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-04-01 09:00:44+00:00
-layout: post
-slug: epa-ccpp-4-nossa-comunidade-ganhando-forma
 title: 'EPA-CCPP 4: nossa comunidade ganhando forma'
-wordpress_id: 515
 categories:
 - C++
 - palestras

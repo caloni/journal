@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2009-07-10 18:16:32+00:00
-layout: post
-slug: static-polymorphism
 title: Static Polymorphism
-wordpress_id: 23
 categories:
 - C++
 - English

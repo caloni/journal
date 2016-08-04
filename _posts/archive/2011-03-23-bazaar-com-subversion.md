@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2011-03-23 12:49:14+00:00
-layout: post
-slug: bazaar-com-subversion
 title: Bazaar com Subversion
-wordpress_id: 1034
 categories:
 - Controle de Fonte
 tags:

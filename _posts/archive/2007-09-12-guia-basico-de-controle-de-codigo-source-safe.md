@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2007-09-12 16:10:55+00:00
-layout: post
-slug: guia-basico-de-controle-de-codigo-source-safe
 title: Guia básico de controle de código (Source Safe)
-wordpress_id: 157
 categories:
 - Controle de Fonte
 ---

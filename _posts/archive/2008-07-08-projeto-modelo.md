@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-07-08 09:00:01+00:00
-layout: post
-slug: projeto-modelo
 title: Projeto-modelo
-wordpress_id: 626
 categories:
 - Controle de Fonte
 ---

@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-08-01 09:00:12+00:00
-layout: post
-slug: antidebugging-using-the-debugport
 title: Antidebugging using the DebugPort
-wordpress_id: 18
 categories:
 - Código
 - Engenharia Reversa

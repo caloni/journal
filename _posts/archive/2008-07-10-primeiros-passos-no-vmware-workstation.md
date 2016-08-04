@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-07-10 09:00:47+00:00
-layout: post
-slug: primeiros-passos-no-vmware-workstation
 title: Primeiros passos no VMware Workstation
-wordpress_id: 632
 categories:
 - Testes
 ---

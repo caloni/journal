@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2007-07-24 16:05:59+00:00
-layout: post
-slug: c0x-parcial-no-novo-gcc-43
 title: C++0x parcial no novo GCC 4.3
-wordpress_id: 54
 categories:
 - C++
 tags:

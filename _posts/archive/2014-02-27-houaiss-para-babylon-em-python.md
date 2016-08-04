@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2014-02-27 16:38:18+00:00
-layout: post
-slug: houaiss-para-babylon-em-python
 title: Houaiss para Babylon em Python!
-wordpress_id: 1716
 categories:
 - Projetos
 tags:

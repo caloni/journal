@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2009-05-09 04:57:05+00:00
-layout: post
-slug: english-posts
 title: English posts
-wordpress_id: 778
 categories:
 - Devaneando
 ---

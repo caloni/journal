@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-06-18 23:38:39+00:00
-layout: post
-slug: alinhamento-de-memoria-portavel
 title: Alinhamento de memória portável
-wordpress_id: 587
 categories:
 - Código
 ---

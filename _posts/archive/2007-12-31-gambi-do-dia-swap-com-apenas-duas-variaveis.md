@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2007-12-31 11:08:39+00:00
-layout: post
-slug: gambi-do-dia-swap-com-apenas-duas-variaveis
 title: 'Gambi do dia: swap com apenas duas variáveis'
-wordpress_id: 298
 categories:
 - Código
 ---

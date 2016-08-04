@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2007-06-20 20:03:04+00:00
-layout: post
-slug: introducao-ao-debugging-tools-for-windows
 title: Introdução ao Debugging Tools for Windows
-wordpress_id: 3
 categories:
 - Depuração
 - Engenharia Reversa

@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2009-12-11 09:00:39+00:00
-layout: post
-slug: aprendendo-um-terceiro-idioma
 title: Aprendendo um terceiro idioma
-wordpress_id: 827
 categories:
 - Devaneando
 ---

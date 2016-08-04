@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2014-07-30 01:27:54+00:00
-layout: post
-slug: vestindo-a-camisa-da-minha-empresa
 title: Vestindo a Camisa da Minha Empresa
-wordpress_id: 2021
 categories:
 - Blogging
 tags:

@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-10-07 16:57:05+00:00
-layout: post
-slug: impressoes-do-quinto-encontro-de-ccpp
 title: Impressões do quinto encontro de CCPP
-wordpress_id: 700
 categories:
 - Devaneando
 ---

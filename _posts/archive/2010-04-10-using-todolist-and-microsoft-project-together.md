@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2010-04-10 14:31:50+00:00
-layout: post
-slug: using-todolist-and-microsoft-project-together
 title: Using TodoList and Microsoft Project together
-wordpress_id: 36
 categories:
 - English
 - Ferramentas

@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-03-10 16:36:35+00:00
-layout: post
-slug: sed-grep-e-afins
 title: Sed, Grep e afins
-wordpress_id: 497
 categories:
 - Ferramentas
 ---

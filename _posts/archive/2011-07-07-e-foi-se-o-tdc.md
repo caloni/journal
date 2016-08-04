@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2011-07-07 17:15:05+00:00
-layout: post
-slug: e-foi-se-o-tdc
 title: E foi-se o TDC
-wordpress_id: 1126
 categories:
 - Blogging
 tags:

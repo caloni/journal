@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2010-11-05 18:59:41+00:00
-layout: post
-slug: suporte-tecnico
 title: Suporte técnico
-wordpress_id: 960
 categories:
 - Depuração
 - Devaneando

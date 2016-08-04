@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2007-07-02 10:53:59+00:00
-layout: post
-slug: introducao-ao-softice
 title: Introdução ao SoftICE
-wordpress_id: 55
 categories:
 - Depuração
 - Ferramentas

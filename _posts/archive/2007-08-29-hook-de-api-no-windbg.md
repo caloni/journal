@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2007-08-29 21:00:30+00:00
-layout: post
-slug: hook-de-api-no-windbg
 title: Hook de API no WinDbg
-wordpress_id: 140
 categories:
 - Depuração
 - Engenharia Reversa

@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2009-12-14 10:10:45+00:00
-layout: post
-slug: devaneio-nerd-rapido-sobre-aniversarios
 title: Devaneio nerd rápido sobre aniversários
-wordpress_id: 828
 categories:
 - Devaneando
 ---

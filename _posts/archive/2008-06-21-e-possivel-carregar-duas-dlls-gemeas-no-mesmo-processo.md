@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-06-21 02:05:45+00:00
-layout: post
-slug: e-possivel-carregar-duas-dlls-gemeas-no-mesmo-processo
 title: É possível carregar duas DLLs gêmeas no mesmo processo?
-wordpress_id: 608
 categories:
 - Sistema Operacional
 ---

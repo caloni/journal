@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-07-14 09:00:20+00:00
-layout: post
-slug: segunda-versao-do-houaiss2babylon
 title: Segunda versão do Houaiss2Babylon
-wordpress_id: 637
 categories:
 - Projetos
 tags:

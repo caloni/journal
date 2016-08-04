@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-04-09 10:39:38+00:00
-layout: post
-slug: linux-e-o-dhcp
 title: Linux e o DHCP
-wordpress_id: 528
 categories:
 - Devaneando
 ---

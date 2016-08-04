@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2011-03-18 12:49:22+00:00
-layout: post
-slug: loucuras-multithreading
 title: Loucuras multithreading
-wordpress_id: 1024
 categories:
 - Depuração
 tags:

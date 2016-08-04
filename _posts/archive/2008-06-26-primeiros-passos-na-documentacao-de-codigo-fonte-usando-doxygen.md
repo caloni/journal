@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-06-26 09:00:35+00:00
-layout: post
-slug: primeiros-passos-na-documentacao-de-codigo-fonte-usando-doxygen
 title: Primeiros passos na documentação de código-fonte usando Doxygen
-wordpress_id: 617
 categories:
 - Programação
 ---

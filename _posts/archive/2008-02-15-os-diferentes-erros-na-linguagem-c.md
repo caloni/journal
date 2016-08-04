@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-02-15 09:00:06+00:00
-layout: post
-slug: os-diferentes-erros-na-linguagem-c
 title: Os diferentes erros na linguagem C
-wordpress_id: 439
 categories:
 - C++
 ---

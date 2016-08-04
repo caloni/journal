@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2007-09-28 19:05:48+00:00
-layout: post
-slug: developer-you-need-to-know-english
 title: 'Developer: you need to know English!'
-wordpress_id: 213
 categories:
 - Devaneando
 ---

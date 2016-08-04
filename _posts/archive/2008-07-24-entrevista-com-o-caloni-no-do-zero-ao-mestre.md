@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-07-24 09:00:08+00:00
-layout: post
-slug: entrevista-com-o-caloni-no-do-zero-ao-mestre
 title: Entrevista com o Caloni no "Do ZERO ao MESTRE"
-wordpress_id: 658
 categories:
 - Devaneando
 ---

@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2007-06-18 21:15:29+00:00
-layout: post
-slug: a-inteligencia-do-if-parte-1
 title: A inteligência do if - parte 1
-wordpress_id: 10
 categories:
 - Programação
 tags:

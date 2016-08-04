@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-04-03 09:00:20+00:00
-layout: post
-slug: try-catch-flutuante
 title: Try-catch flutuante
-wordpress_id: 516
 categories:
 - C++
 ---

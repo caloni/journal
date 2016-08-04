@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2011-10-22 02:05:27+00:00
-layout: post
-slug: vida-e-software
 title: Vida e Software
-wordpress_id: 1228
 categories:
 - Devaneando
 tags:

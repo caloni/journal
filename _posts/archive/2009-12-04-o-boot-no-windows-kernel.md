@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2009-12-04 18:13:57+00:00
-layout: post
-slug: o-boot-no-windows-kernel
 title: 'O boot no Windows: Kernel'
-wordpress_id: 826
 categories:
 - Engenharia Reversa
 - Sistema Operacional

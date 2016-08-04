@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2009-07-20 09:00:01+00:00
-layout: post
-slug: a-procura-de-vida-extraterrestre
 title: À procura de vida extraterrestre
-wordpress_id: 787
 categories:
 - Devaneando
 ---

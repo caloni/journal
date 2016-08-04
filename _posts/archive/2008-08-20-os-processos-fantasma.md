@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-08-20 02:57:17+00:00
-layout: post
-slug: os-processos-fantasma
 title: Os processos-fantasma
-wordpress_id: 675
 categories:
 - Depuração
 ---

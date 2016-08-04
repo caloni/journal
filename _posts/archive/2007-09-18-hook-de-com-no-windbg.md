@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2007-09-18 10:56:37+00:00
-layout: post
-slug: hook-de-com-no-windbg
 title: Hook de COM no WinDbg
-wordpress_id: 179
 categories:
 - Depuração
 - Engenharia Reversa

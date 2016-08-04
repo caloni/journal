@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2007-12-25 22:11:44+00:00
-layout: post
-slug: o-que-acontece-quando-o-contador-estoura
 title: O que acontece quando o contador estoura
-wordpress_id: 299
 categories:
 - Programação
 ---

@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2009-04-17 01:37:49+00:00
-layout: post
-slug: a-sala-da-fila-das-threads
 title: A sala da fila das threads
-wordpress_id: 773
 categories:
 - Código
 - Sistema Operacional

@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-08-11 09:00:15+00:00
-layout: post
-slug: guia-para-iniciantes-no-driverentry
 title: Guia para iniciantes no DriverEntry
-wordpress_id: 667
 categories:
 - Programação
 ---

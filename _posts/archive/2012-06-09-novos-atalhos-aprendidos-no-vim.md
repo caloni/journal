@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2012-06-09 15:40:11+00:00
-layout: post
-slug: novos-atalhos-aprendidos-no-vim
 title: Novos atalhos aprendidos no Vim
-wordpress_id: 1407
 categories:
 - Ferramentas
 tags:

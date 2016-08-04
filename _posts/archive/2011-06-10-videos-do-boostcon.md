@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2011-06-10 19:59:45+00:00
-layout: post
-slug: videos-do-boostcon
 title: Vídeos do boostcon
-wordpress_id: 1108
 categories:
 - Blogging
 tags:

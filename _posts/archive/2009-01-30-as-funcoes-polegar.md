@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2009-01-30 15:12:22+00:00
-layout: post
-slug: as-funcoes-polegar
 title: As funções-polegar
-wordpress_id: 751
 categories:
 - Programação
 ---

@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-12-12 17:26:01+00:00
-layout: post
-slug: basico-do-basico-tipos
 title: 'Básico do básico: tipos'
-wordpress_id: 734
 categories:
 - C++
 - Programação

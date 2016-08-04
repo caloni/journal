@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2007-12-17 12:12:35+00:00
-layout: post
-slug: sizeof-de-novo
 title: Sizeof (de novo)
-wordpress_id: 374
 categories:
 - C++
 ---

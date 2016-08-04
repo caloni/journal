@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-04-25 13:32:32+00:00
-layout: post
-slug: seminario-ccpp-portabilidade-e-performance
 title: Seminário CCPP Portabilidade e Performance
-wordpress_id: 538
 categories:
 - C++
 - palestras

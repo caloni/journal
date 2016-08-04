@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-08-21 09:00:16+00:00
-layout: post
-slug: processleaker
 title: ProcessLeaker
-wordpress_id: 677
 categories:
 - Depuração
 ---

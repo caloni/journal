@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2014-07-22 11:00:05+00:00
-layout: post
-slug: integrando-bitbucketgithub-com-trello
 title: Integrando BitBucket/GitHub com Trello
-wordpress_id: 2001
 categories:
 - Código
 - Devaneando

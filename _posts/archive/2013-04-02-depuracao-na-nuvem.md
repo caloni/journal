@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2013-04-02 01:36:17+00:00
-layout: post
-slug: depuracao-na-nuvem
 title: Depuração na nuvem com o novo Visual Studio
-wordpress_id: 1475
 categories:
 - Blogging
 ---

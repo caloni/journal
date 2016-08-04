@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-12-06 04:42:22+00:00
-layout: post
-slug: basico-do-basico-ponteiros
 title: 'Básico do básico: ponteiros'
-wordpress_id: 706
 categories:
 - C++
 - Programação

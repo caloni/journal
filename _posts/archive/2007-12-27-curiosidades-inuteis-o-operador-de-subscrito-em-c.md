@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2007-12-27 10:54:12+00:00
-layout: post
-slug: curiosidades-inuteis-o-operador-de-subscrito-em-c
 title: 'Curiosidades inúteis: o operador de subscrito em C++'
-wordpress_id: 293
 categories:
 - C++
 ---

@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-04-17 09:00:28+00:00
-layout: post
-slug: crash-dump-analysis-o-livro
 title: 'Crash Dump Analysis: o livro'
-wordpress_id: 536
 categories:
 - Depuração
 - Engenharia Reversa

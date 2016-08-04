@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-04-23 09:00:35+00:00
-layout: post
-slug: csi-crashed-server-investigation
 title: 'CSI: Crashed Server Investigation?'
-wordpress_id: 537
 categories:
 - Devaneando
 ---

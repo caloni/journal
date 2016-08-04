@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2010-03-15 09:00:14+00:00
-layout: post
-slug: convivendo-entre-todolist-e-microsoft-project
 title: Convivendo entre TodoList e Microsoft Project
-wordpress_id: 858
 categories:
 - Ferramentas
 - Projetos

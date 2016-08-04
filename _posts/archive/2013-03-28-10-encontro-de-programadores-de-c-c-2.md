@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2013-03-28 22:01:37+00:00
-layout: post
-slug: 10-encontro-de-programadores-de-c-c-2
 title: Décimo Encontro de Programadores de C e C++
-wordpress_id: 1466
 categories:
 - Blogging
 - C++

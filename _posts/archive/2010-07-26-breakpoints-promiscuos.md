@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2010-07-26 19:57:32+00:00
-layout: post
-slug: breakpoints-promiscuos
 title: Breakpoints promíscuos
-wordpress_id: 908
 categories:
 - Depuração
 ---

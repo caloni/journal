@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2010-08-04 12:47:13+00:00
-layout: post
-slug: novas-diferencas-no-bazaar
 title: Novas diferenças no Bazaar
-wordpress_id: 920
 categories:
 - Controle de Fonte
 ---

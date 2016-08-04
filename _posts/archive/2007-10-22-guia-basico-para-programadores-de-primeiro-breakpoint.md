@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2007-10-22 22:17:29+00:00
-layout: post
-slug: guia-basico-para-programadores-de-primeiro-breakpoint
 title: Guia básico para programadores de primeiro breakpoint
-wordpress_id: 236
 categories:
 - Depuração
 - Programação

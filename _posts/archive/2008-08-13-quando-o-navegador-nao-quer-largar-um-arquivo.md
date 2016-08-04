@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-08-13 09:00:13+00:00
-layout: post
-slug: quando-o-navegador-nao-quer-largar-um-arquivo
 title: Quando o navegador não quer largar um arquivo
-wordpress_id: 670
 categories:
 - Depuração
 - Engenharia Reversa

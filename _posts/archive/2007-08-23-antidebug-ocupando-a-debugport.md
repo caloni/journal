@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2007-08-23 14:53:50+00:00
-layout: post
-slug: antidebug-ocupando-a-debugport
 title: 'Antidebug: ocupando a DebugPort'
-wordpress_id: 116
 categories:
 - Código
 - Engenharia Reversa

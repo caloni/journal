@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2009-03-31 11:16:43+00:00
-layout: post
-slug: depurando-ate-o-ultimo-segundo
 title: Depurando até o último segundo
-wordpress_id: 761
 categories:
 - Depuração
 ---

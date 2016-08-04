@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-05-07 09:37:07+00:00
-layout: post
-slug: read-the-functional-manual
 title: Read The Functional Manual
-wordpress_id: 548
 categories:
 - Devaneando
 ---

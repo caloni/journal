@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2007-07-18 16:10:09+00:00
-layout: post
-slug: como-ser-um-melhor-desenvolvedor-nos-proximos-seis-meses
 title: Como ser um melhor desenvolvedor nos próximos seis meses
-wordpress_id: 74
 categories:
 - Devaneando
 tags:

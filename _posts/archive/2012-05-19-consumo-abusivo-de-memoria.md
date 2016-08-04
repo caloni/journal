@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2012-05-19 18:27:36+00:00
-layout: post
-slug: consumo-abusivo-de-memoria
 title: Consumo abusivo de memória
-wordpress_id: 1294
 categories:
 - Depuração
 tags:

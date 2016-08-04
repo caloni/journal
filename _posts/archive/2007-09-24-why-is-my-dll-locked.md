@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2007-09-24 20:26:33+00:00
-layout: post
-slug: why-is-my-dll-locked
 title: Why is my DLL locked?
-wordpress_id: 11
 categories:
 - English
 - Sistema Operacional

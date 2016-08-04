@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2010-04-21 14:58:24+00:00
-layout: post
-slug: por-que-long-pointer
 title: Por que Long Pointer
-wordpress_id: 881
 categories:
 - Sistema Operacional
 ---

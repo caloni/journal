@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2014-01-08 14:05:18+00:00
-layout: post
-slug: bovespabacktesting
 title: BovespaBacktesting
-wordpress_id: 1692
 categories:
 - Projetos
 tags:

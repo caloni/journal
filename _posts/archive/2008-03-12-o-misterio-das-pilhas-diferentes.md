@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-03-12 09:00:08+00:00
-layout: post
-slug: o-misterio-das-pilhas-diferentes
 title: O mistério das pilhas diferentes
-wordpress_id: 477
 categories:
 - Depuração
 ---

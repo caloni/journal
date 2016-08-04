@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2013-11-07 16:02:04+00:00
-layout: post
-slug: ponto-flutuante-afundando
 title: Ponto Flutuante Afundando
-wordpress_id: 1619
 categories:
 - Código
 tags:

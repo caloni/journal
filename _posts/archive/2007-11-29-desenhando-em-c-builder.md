@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2007-11-29 11:56:49+00:00
-layout: post
-slug: desenhando-em-c-builder
 title: Desenhando em C++ Builder
-wordpress_id: 294
 categories:
 - Código
 ---

@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-07-04 21:17:47+00:00
-layout: post
-slug: virtualbox
 title: VirtualBox
-wordpress_id: 624
 categories:
 - Testes
 ---

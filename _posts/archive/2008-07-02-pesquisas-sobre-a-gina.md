@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-07-02 21:08:15+00:00
-layout: post
-slug: pesquisas-sobre-a-gina
 title: Pesquisas sobre a GINA
-wordpress_id: 622
 categories:
 - Sistema Operacional
 ---

@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-08-15 09:00:25+00:00
-layout: post
-slug: duas-pequenas-dicas-para-programar-no-caos
 title: Duas pequenas dicas para programar no caos
-wordpress_id: 663
 categories:
 - Programação
 ---

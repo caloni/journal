@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2007-11-05 16:04:45+00:00
-layout: post
-slug: ponteiros-de-metodo-conceito-fundamental
 title: 'Ponteiros de método: conceito fundamental'
-wordpress_id: 254
 categories:
 - C++
 ---

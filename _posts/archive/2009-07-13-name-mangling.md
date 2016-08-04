@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2009-07-13 09:00:32+00:00
-layout: post
-slug: name-mangling
 title: Name mangling
-wordpress_id: 794
 categories:
 - C++
 ---

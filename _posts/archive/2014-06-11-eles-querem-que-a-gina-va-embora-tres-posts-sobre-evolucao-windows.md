@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2014-06-11 01:07:02+00:00
-layout: post
-slug: eles-querem-que-a-gina-va-embora-tres-posts-sobre-evolucao-windows
 title: 'Eles querem que a GINA vá embora: três posts sobre evolução Windows'
-wordpress_id: 1949
 categories:
 - Sistema Operacional
 tags:

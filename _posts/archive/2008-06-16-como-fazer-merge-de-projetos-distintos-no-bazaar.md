@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-06-16 10:20:56+00:00
-layout: post
-slug: como-fazer-merge-de-projetos-distintos-no-bazaar
 title: Como fazer merge de projetos distintos no Bazaar
-wordpress_id: 597
 categories:
 - Controle de Fonte
 ---

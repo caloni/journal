@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2014-08-11 01:34:00+00:00
-layout: post
-slug: tdc2014-trilhas-de-seguranca-o-que-e-ser-hacker
 title: 'TDC2014: Trilhas de Segurança: o que é ser hacker?'
-wordpress_id: 2030
 categories:
 - Blogging
 tags:

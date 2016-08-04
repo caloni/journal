@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-06-10 09:09:50+00:00
-layout: post
-slug: guia-basico-de-repositorios-no-bazaar
 title: Guia básico de repositórios no Bazaar
-wordpress_id: 588
 categories:
 - Controle de Fonte
 ---

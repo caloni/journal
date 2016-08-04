@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2010-08-12 02:37:12+00:00
-layout: post
-slug: foto-dos-melhores-momentos
 title: Foto dos melhores momentos
-wordpress_id: 928
 categories:
 - Depuração
 - palestras

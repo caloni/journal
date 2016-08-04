@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2007-10-12 20:57:34+00:00
-layout: post
-slug: the-c-programming-language
 title: The C Programming Language
-wordpress_id: 222
 categories:
 - C++
 ---

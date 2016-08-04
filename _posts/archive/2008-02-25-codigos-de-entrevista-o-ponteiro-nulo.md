@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-02-25 14:01:39+00:00
-layout: post
-slug: codigos-de-entrevista-o-ponteiro-nulo
 title: Códigos de entrevista - o ponteiro nulo
-wordpress_id: 475
 categories:
 - C++
 ---

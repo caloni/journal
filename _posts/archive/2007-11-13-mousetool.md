@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2007-11-13 21:28:03+00:00
-layout: post
-slug: mousetool
 title: MouseTool
-wordpress_id: 12
 categories:
 - English
 - Projetos

@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2009-05-08 10:50:40+00:00
-layout: post
-slug: ultimas-pesquisas-na-blogosfera-nacional
 title: Últimas pesquisas na blogosfera nacional
-wordpress_id: 776
 categories:
 - C++
 - Devaneando

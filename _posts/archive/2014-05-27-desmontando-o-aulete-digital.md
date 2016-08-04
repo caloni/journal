@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2014-05-27 13:00:56+00:00
-layout: post
-slug: desmontando-o-aulete-digital
 title: Desmontando o Aulete Digital
-wordpress_id: 1934
 categories:
 - Engenharia Reversa
 tags:

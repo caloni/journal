@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2007-11-07 21:51:08+00:00
-layout: post
-slug: ponteiro-de-metodo-qual-this-e-usado
 title: 'Ponteiro de método: qual this é usado?'
-wordpress_id: 269
 categories:
 - C++
 ---

@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2007-06-22 03:12:30+00:00
-layout: post
-slug: disassembling-the-array-operator
 title: Disassembling the array operator
-wordpress_id: 6
 categories:
 - C++
 - English

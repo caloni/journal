@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2009-08-10 09:00:02+00:00
-layout: post
-slug: adplus-no-cliente-nao-voce
 title: AdPlus no cliente, não você!
-wordpress_id: 805
 categories:
 - Depuração
 - Ferramentas

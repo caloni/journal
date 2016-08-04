@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2010-02-25 17:33:46+00:00
-layout: post
-slug: bazaar-grafico
 title: Bazaar gráfico
-wordpress_id: 847
 categories:
 - Controle de Fonte
 - Ferramentas

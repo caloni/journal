@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2014-04-29 16:53:52+00:00
-layout: post
-slug: que-geleia-de-mocoto
 title: Que geleia de mocotó
-wordpress_id: 1745
 categories:
 - Código
 - Devaneando

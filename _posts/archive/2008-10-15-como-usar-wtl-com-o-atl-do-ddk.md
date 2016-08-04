@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-10-15 12:15:55+00:00
-layout: post
-slug: como-usar-wtl-com-o-atl-do-ddk
 title: Como usar WTL com o ATL do DDK
-wordpress_id: 693
 categories:
 - Programação
 ---

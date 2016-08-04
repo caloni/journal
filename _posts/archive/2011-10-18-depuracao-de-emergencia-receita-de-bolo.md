@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2011-10-18 20:31:29+00:00
-layout: post
-slug: depuracao-de-emergencia-receita-de-bolo
 title: 'Depuração de emergência: receita de bolo'
-wordpress_id: 1220
 categories:
 - Depuração
 tags:

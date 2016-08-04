@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2014-08-01 11:00:49+00:00
-layout: post
-slug: o-novo-como-nao-dar-step-into-do-visual-studio-201213
 title: O novo "como não dar step into" do Visual Studio 2012/13
-wordpress_id: 2025
 categories:
 - Depuração
 tags:

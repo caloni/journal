@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2007-08-07 19:43:05+00:00
-layout: post
-slug: historia-do-windows-parte-351
 title: História do Windows - parte 3.51
-wordpress_id: 82
 categories:
 - Sistema Operacional
 tags:

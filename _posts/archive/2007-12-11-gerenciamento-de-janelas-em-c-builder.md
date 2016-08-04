@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2007-12-11 12:44:20+00:00
-layout: post
-slug: gerenciamento-de-janelas-em-c-builder
 title: Gerenciamento de janelas em C++ Builder
-wordpress_id: 291
 categories:
 - Engenharia Reversa
 ---

@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-07-28 09:00:50+00:00
-layout: post
-slug: antidebugging-using-exceptions-part-one
 title: Antidebugging using exceptions (part one)
-wordpress_id: 16
 categories:
 - Código
 - Engenharia Reversa

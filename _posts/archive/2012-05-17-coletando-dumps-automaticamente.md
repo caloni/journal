@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2012-05-17 19:55:13+00:00
-layout: post
-slug: coletando-dumps-automaticamente
 title: Coletando dumps automaticamente
-wordpress_id: 1291
 categories:
 - Blogging
 tags:

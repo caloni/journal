@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2007-10-26 10:49:54+00:00
-layout: post
-slug: protecao-dos-membros-protected
 title: Proteção dos membros protected
-wordpress_id: 246
 categories:
 - C++
 ---

@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2007-10-08 20:57:16+00:00
-layout: post
-slug: historia-do-windows-parte-50
 title: História do Windows - parte 5.0
-wordpress_id: 48
 categories:
 - Sistema Operacional
 tags:

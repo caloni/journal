@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-06-24 15:45:46+00:00
-layout: post
-slug: como-estou-trabalhando-com-o-bazaar
 title: Como estou trabalhando com o Bazaar
-wordpress_id: 613
 categories:
 - Controle de Fonte
 ---

@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-09-07 21:00:14+00:00
-layout: post
-slug: de-volta-a-tona
 title: De volta à tona
-wordpress_id: 682
 categories:
 - Devaneando
 ---

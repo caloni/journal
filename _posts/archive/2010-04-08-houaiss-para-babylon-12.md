@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2010-04-08 02:37:52+00:00
-layout: post
-slug: houaiss-para-babylon-12
 title: Houaiss Para Babylon!
-wordpress_id: 869
 categories:
 - Projetos
 tags:

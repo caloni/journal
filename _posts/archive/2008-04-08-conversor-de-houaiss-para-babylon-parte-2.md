@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-04-08 00:39:34+00:00
-layout: post
-slug: conversor-de-houaiss-para-babylon-parte-2
 title: Conversor de Houaiss para Babylon - parte 2
-wordpress_id: 518
 categories:
 - Projetos
 tags:

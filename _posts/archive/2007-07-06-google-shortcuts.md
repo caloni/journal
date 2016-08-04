@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2007-07-06 10:31:50+00:00
-layout: post
-slug: google-shortcuts
 title: Google shortcuts
-wordpress_id: 7
 categories:
 - English
 - Ferramentas

@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-02-07 10:30:06+00:00
-layout: post
-slug: silly-regex-trick-finding-the-project-who-failed-inside-a-vs-big-solution
 title: 'Silly regex trick: finding the project who failed inside a big VS solution'
-wordpress_id: 13
 categories:
 - Devaneando
 - English

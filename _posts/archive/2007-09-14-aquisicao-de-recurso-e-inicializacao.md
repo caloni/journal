@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2007-09-14 18:04:49+00:00
-layout: post
-slug: aquisicao-de-recurso-e-inicializacao
 title: Aquisição de recurso é inicialização
-wordpress_id: 175
 categories:
 - C++
 ---

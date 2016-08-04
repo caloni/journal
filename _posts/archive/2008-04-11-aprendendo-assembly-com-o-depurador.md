@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-04-11 11:30:44+00:00
-layout: post
-slug: aprendendo-assembly-com-o-depurador
 title: Aprendendo assembly com o depurador
-wordpress_id: 529
 categories:
 - Depuração
 - Engenharia Reversa

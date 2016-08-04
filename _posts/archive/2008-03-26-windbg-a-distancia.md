@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-03-26 09:00:31+00:00
-layout: post
-slug: windbg-a-distancia
 title: WinDbg a distância
-wordpress_id: 495
 categories:
 - Depuração
 ---

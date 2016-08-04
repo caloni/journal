@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2010-11-08 18:25:19+00:00
-layout: post
-slug: patch-de-emergencia
 title: Patch de emergência
-wordpress_id: 965
 categories:
 - Depuração
 ---

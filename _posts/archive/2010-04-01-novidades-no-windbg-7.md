@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2010-04-01 18:36:02+00:00
-layout: post
-slug: novidades-no-windbg-7
 title: Novidades no Windbg 7
-wordpress_id: 866
 categories:
 - Depuração
 - Devaneando

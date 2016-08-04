@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2012-05-27 05:14:23+00:00
-layout: post
-slug: problemas-comuns-no-windbg-e-suas-solucoes
 title: Problemas comuns no WinDbg e suas soluções
-wordpress_id: 1399
 categories:
 - Blogging
 - Depuração

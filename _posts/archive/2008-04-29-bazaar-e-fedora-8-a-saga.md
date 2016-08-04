@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-04-29 11:44:37+00:00
-layout: post
-slug: bazaar-e-fedora-8-a-saga
 title: 'Bazaar e Fedora 8: a saga'
-wordpress_id: 544
 categories:
 - Devaneando
 ---

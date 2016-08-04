@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2011-01-17 21:25:20+00:00
-layout: post
-slug: esse-ponteiro-vai-ate-onde
 title: Esse ponteiro vai até onde?
-wordpress_id: 989
 categories:
 - Sistema Operacional
 ---

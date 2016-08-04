@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-11-15 19:36:25+00:00
-layout: post
-slug: houaissparababylon-versao-beta
 title: HouaissParaBabylon versão beta
-wordpress_id: 718
 categories:
 - Projetos
 tags:

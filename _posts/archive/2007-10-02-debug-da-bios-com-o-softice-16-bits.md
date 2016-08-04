@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2007-10-02 17:17:49+00:00
-layout: post
-slug: debug-da-bios-com-o-softice-16-bits
 title: Debug da BIOS com o SoftIce 16 bits
-wordpress_id: 215
 categories:
 - Depuração
 - Engenharia Reversa

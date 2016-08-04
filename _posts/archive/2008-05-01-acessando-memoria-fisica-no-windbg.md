@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-05-01 11:33:38+00:00
-layout: post
-slug: acessando-memoria-fisica-no-windbg
 title: Acessando memória física no WinDbg
-wordpress_id: 546
 categories:
 - Depuração
 ---

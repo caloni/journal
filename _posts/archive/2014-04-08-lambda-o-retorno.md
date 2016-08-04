@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2014-04-08 14:15:31+00:00
-layout: post
-slug: lambda-o-retorno
 title: 'Lambda: o Retorno!'
-wordpress_id: 1729
 categories:
 - C++
 tags:

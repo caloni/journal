@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2013-12-01 19:33:26+00:00
-layout: post
-slug: mvp-showcast
 title: 'MVP ShowCast 2013: C++11 e C++14 no Visual Studio 2013'
-wordpress_id: 1632
 categories:
 - Blogging
 - C++

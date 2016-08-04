@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2007-11-19 14:40:45+00:00
-layout: post
-slug: historia-do-windows-parte-51
 title: História do Windows - parte 5.1
-wordpress_id: 50
 categories:
 - Sistema Operacional
 ---

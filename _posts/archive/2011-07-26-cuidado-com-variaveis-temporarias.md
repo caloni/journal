@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2011-07-26 02:05:14+00:00
-layout: post
-slug: cuidado-com-variaveis-temporarias
 title: Cuidado com variáveis temporárias
-wordpress_id: 1131
 categories:
 - C++
 tags:

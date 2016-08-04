@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2007-08-13 12:13:31+00:00
-layout: post
-slug: gina-x-credential-provider
 title: GINA x Credential Provider
-wordpress_id: 62
 categories:
 - Código
 - Sistema Operacional

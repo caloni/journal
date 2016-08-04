@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-01-14 13:17:32+00:00
-layout: post
-slug: temas-no-windbg
 title: Temas no WinDbg
-wordpress_id: 396
 categories:
 - Depuração
 ---

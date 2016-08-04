@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-01-24 12:00:15+00:00
-layout: post
-slug: keychanger-de-crianca
 title: Keychanger de criança
-wordpress_id: 295
 categories:
 - Projetos
 ---

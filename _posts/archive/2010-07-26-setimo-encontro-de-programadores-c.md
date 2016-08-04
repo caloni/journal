@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2010-07-26 02:44:31+00:00
-layout: post
-slug: setimo-encontro-de-programadores-c
 title: Sétimo Encontro de Programadores C++
-wordpress_id: 905
 categories:
 - C++
 - Depuração

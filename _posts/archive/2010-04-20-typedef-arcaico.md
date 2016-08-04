@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2010-04-20 12:26:03+00:00
-layout: post
-slug: typedef-arcaico
 title: Typedef arcaico
-wordpress_id: 872
 categories:
 - C++
 ---

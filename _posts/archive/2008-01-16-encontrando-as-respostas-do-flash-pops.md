@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-01-16 13:00:05+00:00
-layout: post
-slug: encontrando-as-respostas-do-flash-pops
 title: Encontrando as respostas do Flash Pops
-wordpress_id: 406
 categories:
 - Engenharia Reversa
 ---

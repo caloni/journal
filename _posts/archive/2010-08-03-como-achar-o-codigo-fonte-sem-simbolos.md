@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2010-08-03 11:30:13+00:00
-layout: post
-slug: como-achar-o-codigo-fonte-sem-simbolos
 title: Como achar o código-fonte sem símbolos
-wordpress_id: 912
 categories:
 - Depuração
 - Engenharia Reversa

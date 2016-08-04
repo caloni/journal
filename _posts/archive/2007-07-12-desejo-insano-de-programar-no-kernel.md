@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2007-07-12 11:23:20+00:00
-layout: post
-slug: desejo-insano-de-programar-no-kernel
 title: Desejo insano de programar no kernel
-wordpress_id: 65
 categories:
 - Devaneando
 tags:

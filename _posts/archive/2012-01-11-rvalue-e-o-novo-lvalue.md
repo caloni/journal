@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2012-01-11 12:51:05+00:00
-layout: post
-slug: rvalue-e-o-novo-lvalue
 title: RValue é o novo LValue
-wordpress_id: 1244
 categories:
 - Blogging
 - C++

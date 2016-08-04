@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-06-13 00:46:29+00:00
-layout: post
-slug: primeiro-ano-do-novo-calonicombr
 title: Primeiro ano do novo Caloni.com.br
-wordpress_id: 591
 categories:
 - Devaneando
 ---

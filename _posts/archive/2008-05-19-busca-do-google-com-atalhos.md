@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-05-19 14:14:23+00:00
-layout: post
-slug: busca-do-google-com-atalhos
 title: Busca do Google com atalhos
-wordpress_id: 556
 categories:
 - Ferramentas
 ---

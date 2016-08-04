@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-10-05 16:00:53+00:00
-layout: post
-slug: o-que-acontece-com-um-programador-com-pressa
 title: O que acontece com um programador com pressa
-wordpress_id: 699
 categories:
 - Devaneando
 ---

@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2009-05-20 11:13:27+00:00
-layout: post
-slug: meu-roteiro-c
 title: Meu roteiro C++
-wordpress_id: 780
 categories:
 - Devaneando
 ---

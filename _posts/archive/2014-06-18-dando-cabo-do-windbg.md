@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2014-06-18 01:08:19+00:00
-layout: post
-slug: dando-cabo-do-windbg
 title: Dando cabo do WinDbg
-wordpress_id: 1954
 categories:
 - Depuração
 tags:

@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2007-07-10 16:11:04+00:00
-layout: post
-slug: precedence-difference
 title: Precedence difference
-wordpress_id: 8
 categories:
 - C++
 - English

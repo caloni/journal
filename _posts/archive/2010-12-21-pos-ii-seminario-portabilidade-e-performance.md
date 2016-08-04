@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2010-12-21 03:44:52+00:00
-layout: post
-slug: pos-ii-seminario-portabilidade-e-performance
 title: Pós-"II Seminário Portabilidade e Performance"
-wordpress_id: 972
 categories:
 - C++
 - palestras

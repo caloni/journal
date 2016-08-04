@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2014-02-20 00:28:09+00:00
-layout: post
-slug: real-programmers-dont-use-java
 title: Real Programmers Don't Use Java
-wordpress_id: 1710
 categories:
 - Devaneando
 - English

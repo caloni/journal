@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-04-15 12:27:22+00:00
-layout: post
-slug: guia-basico-de-controle-de-codigo-mercurial
 title: Guia básico de controle de código (Mercurial)
-wordpress_id: 533
 categories:
 - Controle de Fonte
 ---

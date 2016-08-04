@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2007-09-10 14:50:02+00:00
-layout: post
-slug: antidebug-detectando-attach
 title: 'Antidebug: detectando attach'
-wordpress_id: 158
 categories:
 - Código
 - Engenharia Reversa

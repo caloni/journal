@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2007-10-16 16:49:32+00:00
-layout: post
-slug: guia-basico-para-programadores-de-primeiro-int-main
 title: Guia básico para programadores de primeiro int main
-wordpress_id: 230
 categories:
 - C++
 - Programação

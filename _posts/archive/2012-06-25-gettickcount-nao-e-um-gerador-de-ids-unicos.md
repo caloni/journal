@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2012-06-25 14:39:06+00:00
-layout: post
-slug: gettickcount-nao-e-um-gerador-de-ids-unicos
 title: GetTickCount não é um gerador de IDs únicos
-wordpress_id: 1410
 categories:
 - Depuração
 - Testes

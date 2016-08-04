@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2010-08-26 11:53:00+00:00
-layout: post
-slug: gerando-dumps-automatizados
 title: Gerando dumps automatizados
-wordpress_id: 934
 categories:
 - Depuração
 ---

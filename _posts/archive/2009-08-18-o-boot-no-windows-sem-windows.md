@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2009-08-18 15:00:41+00:00
-layout: post
-slug: o-boot-no-windows-sem-windows
 title: 'O boot no Windows: sem Windows'
-wordpress_id: 809
 categories:
 - Sistema Operacional
 ---

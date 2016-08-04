@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-02-11 15:31:00+00:00
-layout: post
-slug: desconstruindo-ioccc
 title: Desconstruindo IOCCC
-wordpress_id: 445
 categories:
 - C++
 - Engenharia Reversa

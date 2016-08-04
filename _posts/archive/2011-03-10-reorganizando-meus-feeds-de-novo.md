@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2011-03-10 20:16:23+00:00
-layout: post
-slug: reorganizando-meus-feeds-de-novo
 title: Reorganizando meus feeds (de novo)
-wordpress_id: 1020
 categories:
 - Devaneando
 tags:

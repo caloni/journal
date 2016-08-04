@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-07-22 20:09:24+00:00
-layout: post
-slug: aprenda-a-usar-sua-api
 title: Aprenda a usar sua API
-wordpress_id: 653
 categories:
 - Programação
 ---

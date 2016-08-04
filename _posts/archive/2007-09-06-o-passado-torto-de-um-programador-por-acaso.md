@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2007-09-06 09:57:50+00:00
-layout: post
-slug: o-passado-torto-de-um-programador-por-acaso
 title: O passado torto de um programador por acaso
-wordpress_id: 91
 categories:
 - Devaneando
 ---

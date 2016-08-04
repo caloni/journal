@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-12-18 10:48:01+00:00
-layout: post
-slug: basico-do-basico-binario
 title: 'Básico do básico: binário'
-wordpress_id: 738
 categories:
 - Programação
 tags:

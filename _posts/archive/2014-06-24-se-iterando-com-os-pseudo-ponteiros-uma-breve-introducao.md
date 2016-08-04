@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2014-06-24 12:00:42+00:00
-layout: post
-slug: se-iterando-com-os-pseudo-ponteiros-uma-breve-introducao
 title: 'Se iterando com os pseudo-ponteiros: uma breve introdução'
-wordpress_id: 1971
 categories:
 - C++
 tags:

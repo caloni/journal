@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2014-01-21 00:01:58+00:00
-layout: post
-slug: remove_if-ate-remove-so-que-diferente
 title: remove_if até remove, só que diferente
-wordpress_id: 1702
 categories:
 - C++
 ---

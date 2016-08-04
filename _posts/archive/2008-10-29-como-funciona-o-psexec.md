@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-10-29 11:33:15+00:00
-layout: post
-slug: como-funciona-o-psexec
 title: Como funciona o PsExec
-wordpress_id: 712
 categories:
 - Engenharia Reversa
 tags:

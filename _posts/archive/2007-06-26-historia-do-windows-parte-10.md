@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2007-06-26 12:03:46+00:00
-layout: post
-slug: historia-do-windows-parte-10
 title: História do Windows - parte 1.0
-wordpress_id: 44
 categories:
 - Sistema Operacional
 tags:

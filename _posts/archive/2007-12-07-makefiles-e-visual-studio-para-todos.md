@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2007-12-07 11:29:56+00:00
-layout: post
-slug: makefiles-e-visual-studio-para-todos
 title: Makefiles (e Visual Studio para todos)
-wordpress_id: 340
 categories:
 - Programação
 ---

@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2011-01-18 20:26:04+00:00
-layout: post
-slug: atividades-extracurriculares
 title: Atividades extracurriculares
-wordpress_id: 991
 categories:
 - Programação
 ---

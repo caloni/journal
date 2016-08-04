@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2008-08-05 09:00:21+00:00
-layout: post
-slug: antidebugging-during-the-process-attach
 title: Antidebugging during the process attach
-wordpress_id: 19
 categories:
 - Código
 - Engenharia Reversa

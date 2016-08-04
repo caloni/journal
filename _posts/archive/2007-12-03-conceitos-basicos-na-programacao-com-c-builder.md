@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2007-12-03 11:57:49+00:00
-layout: post
-slug: conceitos-basicos-na-programacao-com-c-builder
 title: Conceitos básicos na programação com C++ Builder
-wordpress_id: 290
 categories:
 - Programação
 ---

@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2010-01-11 13:07:37+00:00
-layout: post
-slug: importando-tipos-de-outros-projetos
 title: Importando tipos de outros projetos
-wordpress_id: 831
 categories:
 - Depuração
 - Engenharia Reversa

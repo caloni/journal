@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2007-08-01 16:36:03+00:00
-layout: post
-slug: historia-da-linguagem-c-parte-1
 title: História da linguagem C - parte 1
-wordpress_id: 22
 categories:
 - C++
 tags:

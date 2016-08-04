@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2012-03-11 21:24:14+00:00
-layout: post
-slug: conteudo-da-palestra
 title: Conteúdo da Palestra
-wordpress_id: 1252
 categories:
 - Blogging
 - C++

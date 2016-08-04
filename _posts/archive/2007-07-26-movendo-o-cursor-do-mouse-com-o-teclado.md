@@ -1,10 +1,5 @@
 ---
-comments: true
-date: 2007-07-26 21:26:09+00:00
-layout: post
-slug: movendo-o-cursor-do-mouse-com-o-teclado
 title: Movendo o cursor do mouse com o teclado
-wordpress_id: 83
 categories:
 - Código
 tags:
