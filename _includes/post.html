@@ -8,6 +8,15 @@
     </div>
     <div id="info-container">
       <div id="title">{{ page.title }}</div>
+      <span id="pub-date">Wanderley Caloni, {{ page.date | date_to_string }}</span>
+    </div>
+  </div>
+
+  <div class="post" tabindex="2">
+    {{ content }}
+  </div>
+
+  <div class="navigation">
       <p style="font-size: 1.5em;">
           <span>
           {% if page.next.url %}
@@ -42,16 +51,10 @@
           <a href="http://feeds.feedburner.com/caloni" class="footer-link">
           <img src="/images/feed.png" title="Feed"/></a></span>
           </span>
-
-          </span>
-          <span id="pub-date">Wanderley Caloni, {{ page.date | date_to_string }}</span>
+        </span>
       </p>
-    </div>
   </div>
 
-  <div class="post" tabindex="2">
-    {{ content }}
-  </div>
   <div class="comments">
     <!-- todo: Fazer funcionar a flag de comentario do config no GitHub (ver historico desse arquivo). -->
     <script type="text/javascript">
@@ -78,4 +81,5 @@
     <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
     <section id="disqus_thread"></section><!-- /#disqus_thread -->
   </div>
+
 </div>
