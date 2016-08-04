@@ -1,7 +1,6 @@
 ---
 title: Backup de pobre
-categories:
-- Controle de Fonte
+tags: [ "controle de fonte" ]
 ---
 
 O _backup_ - ato de fazer cópia(s) de segurança de dados considerados importantes -, como tudo na vida, para se tornar efetivo e transformador deve antes se tornar um hábito.

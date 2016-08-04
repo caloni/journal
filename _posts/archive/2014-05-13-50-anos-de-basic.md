@@ -1,7 +1,6 @@
 ---
 title: 50 Anos de BASIC
-categories:
-- Devaneando
+tags: [ "devaneando" ]
 ---
 
 [![Introdução Ilustrada à Computação](https://farm3.staticflickr.com/2912/14172567934_032b55ff79_o.jpg)](https://www.flickr.com/photos/120157483@N04/14172567934/)
@@ -16,7 +15,7 @@ Minha primeira linguagem de programação foi o BASIC. Aprendi durante minhas fr
 
 
 
-Enfim, um dos melhores livros que já li na minha vida não foi um cheio de letras, mas muito mais figuras: a Introdução Ilustrada à Computação, de Larry Gonick. Ele foi traduzido e publicado no Brasil pela Itautec e é um clássico absoluto sobre a história da computação, explicada de uma maneira que até um leigo completo conseguiria entender. E quando eu digo "computação" não estou me referindo a noções vagas sobre como o computador processa a entrada e gera saída. O ilustrador Larry Gonick fez um excelente trabalho em capturar a essência de cada inventor da história — como Alan Turing, John Von Newmann, Charles Babbage e Ada Lovelace — e cada conceito básico aplicado à invenção do computador, desde saldos condicionais (Lovelace), lógica booleana (George Boole), codificação binária e, pasmem... flip-flops!
+Enfim, um dos melhores livros que já li na minha vida não foi um cheio de letras, mas muito mais figuras: a Introdução Ilustrada à Computação, de Larry Gonick. Ele foi traduzido e publicado no Brasil pela Itautec e é um clássico absoluto sobre a história da computação, explicada de uma maneira que até um leigo completo conseguiria entender. E quando eu digo "computação" não estou me referindo a noções vagas sobre como o computador processa a entrada e gera saída. O ilustrador Larry Gonick fez um excelente trabalho em capturar a essência de cada inventor da história ¿ como Alan Turing, John Von Newmann, Charles Babbage e Ada Lovelace ¿ e cada conceito básico aplicado à invenção do computador, desde saldos condicionais (Lovelace), lógica booleana (George Boole), codificação binária e, pasmem... flip-flops!
 
 
 

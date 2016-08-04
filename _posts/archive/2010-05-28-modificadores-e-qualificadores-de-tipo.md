@@ -1,7 +1,6 @@
 ---
 title: Modificadores e qualificadores de tipo
-categories:
-- C++
+tags: [ "c++" ]
 ---
 
 

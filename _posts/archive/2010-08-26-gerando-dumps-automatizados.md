@@ -1,7 +1,6 @@
 ---
 title: Gerando dumps automatizados
-categories:
-- Depuração
+tags: [ "depuração" ]
 ---
 
 Agora que a temporada das telas azuis passou estou às voltas com o nosso sistema de detecção de crashes, além de alguns dumps e logs pra relaxar de vez em quando.

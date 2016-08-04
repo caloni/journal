@@ -1,7 +1,6 @@
 ---
 title: Não é minha culpa
-categories:
-- Depuração
+tags: [ "depuração" ]
 ---
 
 Recebi a dica de meu [amigo kernel-mode](http://www.driverentry.com.br) sobre o aplicativo [NotMyFault](http://download.sysinternals.com/Files/Notmyfault.zip), escrito como ferramenta do livro [Windows Internals](http://technet.microsoft.com/en-us/sysinternals/bb963901.aspx) e que basicamente gera telas azuis para análise.

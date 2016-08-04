@@ -1,7 +1,6 @@
 ---
 title: Analogicamente perfeito
-categories:
-- Devaneando
+tags: [ "devaneando" ]
 ---
 
 É possível explicar tudo no mundo da informática através de analogias?

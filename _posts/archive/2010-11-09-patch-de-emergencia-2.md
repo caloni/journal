@@ -1,7 +1,6 @@
 ---
 title: Patch de emergência 2
-categories:
-- Depuração
+tags: [ "depuração" ]
 ---
 
 No artigo anterior fizemos um patch rapidinho na memória se aproveitando de um Sleep nojento que o código nos forneceu.

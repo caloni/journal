@@ -1,15 +1,6 @@
 ---
 title: 'Eles querem que a GINA vá embora: três posts sobre evolução Windows'
-categories:
-- Sistema Operacional
-tags:
-- credential provider
-- evolução windows
-- gina
-- logon
-- mvp
-- windows
-- windows vista
+tags: [ "sistema operacional", "credential provider", "evolução windows", "gina", "logon", "mvp", "windows", "windows vista" ]
 ---
 
 Fui convidado pela Fernanda Saraiva do programa de MVPs da Microsoft Brasil a falar sobre alguma história a respeito da evolução do Windows e como isso impactou minha experiência profissional. Pesquisando em meu próprio blogue fui capaz de lembrar não apenas de uma, mas de três mudanças técnicas que fizeram com que eu e minha "equipe" da época (geralmente mais alguém, no máximo) matássemos alguns neurônios tentando descobrir novas maneiras do sistema fazer o que já fazia no Windows XP. Irei compartilhar uma por vez no que tem sido o meu post semanal que eu apelidei carinhosamente de Post da Terça. Já faz mais de um mês que consigo publicar pelo menos na terça algo de novo, e espero manter esse ritmo.
@@ -30,13 +21,13 @@ A primeira mudança técnica entre o Windows XP para o Windows Vista/7/8 que me 
 
 
 
-Seja no formato Home Computer (a telinha de boas vindas) ou no tradicional "Pressione Ctrl+Alt+Del" do Windows NT — quando a máquina está no domínio — quem gerencia essa tela é o processo de sistema iniciado a partir do WinLogon.exe. O WINLOGON carrega a nossa amiga gina.dll que é quem realiza a autenticação dos usuários.
+Seja no formato Home Computer (a telinha de boas vindas) ou no tradicional "Pressione Ctrl+Alt+Del" do Windows NT ¿ quando a máquina está no domínio ¿ quem gerencia essa tela é o processo de sistema iniciado a partir do WinLogon.exe. O WINLOGON carrega a nossa amiga gina.dll que é quem realiza a autenticação dos usuários.
 
 
 
 
 
-Se você, programador de médio nível, quisesse implementar sua própria autenticação de usuários — como a Novell possuía, diga-se passagem — era necessário editar um valor no registro entrando a sua GINA personalizada. Lógico que ela deveria ter todas as funções documentadas implementadas e exportadas para que o WINLOGON conseguisse se comunicar, como a famigerada [WlxInitialize](http://msdn.microsoft.com/en-us/library/windows/desktop/aa380567%28v=vs.85%29.aspx), que recebia a lista de ponteiros de funções para os outros eventos a ser tratados.
+Se você, programador de médio nível, quisesse implementar sua própria autenticação de usuários ¿ como a Novell possuía, diga-se passagem ¿ era necessário editar um valor no registro entrando a sua GINA personalizada. Lógico que ela deveria ter todas as funções documentadas implementadas e exportadas para que o WINLOGON conseguisse se comunicar, como a famigerada [WlxInitialize](http://msdn.microsoft.com/en-us/library/windows/desktop/aa380567%28v=vs.85%29.aspx), que recebia a lista de ponteiros de funções para os outros eventos a ser tratados.
 
 
 
@@ -91,7 +82,7 @@ My_WlxLoggedOutSAS
 
 
 
-Com a vinda do Windows Vista, o WINLOGON continuou gerenciando as sessões e autenticações dos usuários, mas para evitar que a GINA monopolizasse novamente os métodos de autenticação, e com a vinda de métodos concorrentes — como retina e impressão digital — a Microsoft desevolveu uma nova interface chamada de _Credential Provider_. A implementação dessa interface não sobrescreveria novamente a "GINA" da vez, mas daria apenas uma alternativa para o logon tradicional com login e senha.
+Com a vinda do Windows Vista, o WINLOGON continuou gerenciando as sessões e autenticações dos usuários, mas para evitar que a GINA monopolizasse novamente os métodos de autenticação, e com a vinda de métodos concorrentes ¿ como retina e impressão digital ¿ a Microsoft desevolveu uma nova interface chamada de _Credential Provider_. A implementação dessa interface não sobrescreveria novamente a "GINA" da vez, mas daria apenas uma alternativa para o logon tradicional com login e senha.
 
 
 

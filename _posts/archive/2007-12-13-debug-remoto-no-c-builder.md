@@ -1,7 +1,6 @@
 ---
 title: Debug remoto no C++ Builder
-categories:
-- Depuração
+tags: [ "depuração" ]
 ---
 
 Esse é um detalhe que pode passar despercebido da maioria da população Borland, mas o Builder, assim como o Visual Studio, possui sua suíte para depuração remota. E tudo o que você precisa fazer é instalar um pacote no cliente.

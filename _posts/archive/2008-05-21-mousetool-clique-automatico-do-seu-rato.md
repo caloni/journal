@@ -1,7 +1,6 @@
 ---
 title: 'MouseTool: clique automático do seu rato'
-categories:
-- Projetos
+tags: [ "projetos" ]
 ---
 
 Bem, como a maioria de você já sabe, eu realmente não gosto de _mouses_. Apesar disso respeito os usuário que usam-no e até gostam dele. Essa é a razão por que estou escrevendo mais uma vez sobre isso. Dessa vez, irei mostrar um programa que eu uso todos os dias: MouseTool, para os usuários [que  não usam o ](http://www.codinghorror.com/blog/000825.html)_[mouse](http://www.codinghorror.com/blog/000825.html), _mas gostam dele.

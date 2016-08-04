@@ -1,7 +1,6 @@
 ---
 title: Banco de dados no C++ Builder
-categories:
-- Código
+tags: [ "código" ]
 ---
 
 [![CPPB Database](/images/cppb-database.png)](/images/cppb-database.png)

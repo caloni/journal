@@ -1,8 +1,6 @@
 ---
 title: 'O boot no Windows: Kernel'
-categories:
-- Engenharia Reversa
-- Sistema Operacional
+tags: [ "engenharia reversa", "sistema operacional" ]
 ---
 
 Finalmente chegamos em um pouco onde podemos usar o WinDbg.

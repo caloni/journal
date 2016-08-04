@@ -1,7 +1,6 @@
 ---
 title: Deixe o programador programar
-categories:
-- Devaneando
+tags: [ "devaneando" ]
 ---
 
 ![O Tempo Voa](/images/o-tempo-voa.png) Seis meses se passaram desde que defini o cronograma para um projeto importante (mas não urgente) que deveria ser entregue cinco meses atrás. O tempo em dias que estimei na época não havia mudado nada, mas uma [série de desventuras](http://www.imdb.com/title/tt0339291/) (tarefas brotando do chão e umas férias bem merecidas) fizeram com que quase nenhuma linha de código tivesse sido produzida para aquele projeto. No entanto, tenho a consciência tranquila, já que estou em uma de minhas fases mais produtivas e inovadoras.

@@ -1,7 +1,6 @@
 ---
 title: Creative Commons
-categories:
-- Devaneando
+tags: [ "devaneando" ]
 ---
 
 Talvez a maioria das pessoas ignore o fato que, ao publicarem algum conteúdo, qualquer conteúdo, na internet, estarão criando algo, e esse algo tem um autor, e portanto, de acordo com [nossa lei](http://www.planalto.gov.br/CCIVIL/Leis/L9610.htm) (Brasil) e [alguns tratados internacionais](http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0100-19651998000200011), está protegida pelo **direito autoral**.

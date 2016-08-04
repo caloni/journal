@@ -1,11 +1,6 @@
 ---
 title: Problemas comuns no WinDbg e suas soluções
-categories:
-- Blogging
-- Depuração
-tags:
-- soluções
-- windbg
+tags: [ "blogging", "depuração", "soluções", "windbg" ]
 ---
 
 Depois de uma agradável manhã e tarde acompanhando o [curso de desenvolvimento de drivers do meu amigo Ferdinando](http://driverentry.com.br/blog/?page_id=16) voltei para a casa para brincar um pouco mais com o mundo kernel e voltar a encontrar problemas com o WinDbg & Cia que há mais ou menos 1 ano atrás não tinha.

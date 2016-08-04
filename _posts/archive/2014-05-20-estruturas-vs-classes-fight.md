@@ -1,11 +1,6 @@
 ---
 title: 'Estruturas VS Classes: fight!'
-categories:
-- C++
-tags:
-- c++
-- linguagem
-- sintaxe
+tags: [ "c++", "c++", "linguagem", "sintaxe" ]
 ---
 
 [![EpicRapBattleStructVcClass](https://farm6.staticflickr.com/5118/14250890913_37a06bf7a2_o.jpg)](https://www.flickr.com/photos/120157483@N04/14250890913/)
@@ -110,7 +105,7 @@ Mas, então, posso criar todas minhas classes usando a palavra-chave struct?
 
 
 
-Isso mesmo! Nada lhe obriga tecnicamente a usar class. Porém, assim como nada lhe obriga a usar uma linha para cada comando na linguagem — afinal, todos poderiam estar na mesma linha separados por ponto-e-vírgula — o uso da palavra _struct_ para classes no sentido de "objetos que possuem inteligência, métodos, herança, polimorfismo e outras firulas" não se enquadra nas boas práticas dos programadores C++.
+Isso mesmo! Nada lhe obriga tecnicamente a usar class. Porém, assim como nada lhe obriga a usar uma linha para cada comando na linguagem ¿ afinal, todos poderiam estar na mesma linha separados por ponto-e-vírgula ¿ o uso da palavra _struct_ para classes no sentido de "objetos que possuem inteligência, métodos, herança, polimorfismo e outras firulas" não se enquadra nas boas práticas dos programadores C++.
 
 
 

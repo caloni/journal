@@ -1,8 +1,6 @@
 ---
 title: Why is my DLL locked?
-categories:
-- English
-- Sistema Operacional
+tags: [ "english", "sistema operacional" ]
 ---
 
 There is a [document](http://www.microsoft.com/whdc/driver/kernel/DLL_bestprac.mspx) from Microsoft alerting about the hazards in putting your code inside a DllMain function. what is more comprehensive and easier to read than the [MSDN observations](http://msdn.microsoft.com/library/en-us/dllproc/base/dllmain.asp). It is worth reading, even because the explanations about the loader lock and its side effects can do very good for your code health.

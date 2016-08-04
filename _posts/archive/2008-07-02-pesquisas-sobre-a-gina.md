@@ -1,7 +1,6 @@
 ---
 title: Pesquisas sobre a GINA
-categories:
-- Sistema Operacional
+tags: [ "sistema operacional" ]
 ---
 
 [![250px-xp_windows_security.png](/images/250px-xp_windows_security.thumbnail.png)](/images/250px-xp_windows_security.png)Já sabemos o que é uma [GINA](http://www.caloni.com.br/gina-x-credential-provider). Afinal, todo mundo já viu uma antes. E sabemos que hoje em dia ela está morta.

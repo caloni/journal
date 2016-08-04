@@ -1,9 +1,6 @@
 ---
 title: Novo branch para projetos do Caloni.com.br
-categories:
-- Blogging
-tags:
-- source code
+tags: [ "blogging", "source code" ]
 ---
 
 [![](/images/assembla-stream-caloni-300x166.png)](/images/assembla-stream-caloni.png)

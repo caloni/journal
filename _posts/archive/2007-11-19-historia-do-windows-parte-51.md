@@ -1,7 +1,6 @@
 ---
 title: História do Windows - parte 5.1
-categories:
-- Sistema Operacional
+tags: [ "sistema operacional" ]
 ---
 
 **Windows e_XP_erience**

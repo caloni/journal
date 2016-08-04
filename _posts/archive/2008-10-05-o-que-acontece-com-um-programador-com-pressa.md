@@ -1,7 +1,6 @@
 ---
 title: O que acontece com um programador com pressa
-categories:
-- Devaneando
+tags: [ "devaneando" ]
 ---
 
 Eu já sabia, mas é lógico que não ia falar.

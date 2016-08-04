@@ -1,8 +1,6 @@
 ---
 title: Uma nova linguagem
-categories:
-- Blogging
-- C++
+tags: [ "blogging", "c++" ]
 ---
 
 

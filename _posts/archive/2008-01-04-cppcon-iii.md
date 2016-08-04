@@ -1,8 +1,6 @@
 ---
 title: CppCon III
-categories:
-- C++
-- palestras
+tags: [ "c++", "palestras" ]
 ---
 
 O ano de 2008 promete. Pelo menos no começo.

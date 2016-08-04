@@ -1,11 +1,6 @@
 ---
 title: Melhor integração entre Vim e Visual Studio
-categories:
-- Blogging
-tags:
-- dicas
-- ferramentas
-- vim
+tags: [ "blogging", "dicas", "ferramentas", "vim" ]
 ---
 
 Pelo menos é a mais rápida:

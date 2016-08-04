@@ -1,8 +1,6 @@
 ---
 title: A sala da fila das threads
-categories:
-- Código
-- Sistema Operacional
+tags: [ "código", "sistema operacional" ]
 ---
 
 Quando [falei sobre a fila das threads](http://www.caloni.com.br/a-fila-das-threads), e como cada thread espera pacientemente em uma fila até chegar sua vez de ser atendida no guichê das CPUs, também vimos como é fácil fazer caquinhas em um programa que roda paralelamente duas threads ou mais.

@@ -1,11 +1,6 @@
 ---
 title: Engenharia reversa para principiantes
-categories:
-- Engenharia Reversa
-tags:
-- fundamentos
-- hacking
-- palestras
+tags: [ "engenharia reversa", "fundamentos", "hacking", "palestras" ]
 ---
 Dei uma reformada em minha última palestra sobre engenharia reversa e resolvi disponibilizá-la aqui:
 

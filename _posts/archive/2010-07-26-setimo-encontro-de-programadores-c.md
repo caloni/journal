@@ -1,10 +1,6 @@
 ---
 title: Sétimo Encontro de Programadores C++
-categories:
-- C++
-- Depuração
-- Devaneando
-- palestras
+tags: [ "c++", "depuração", "devaneando", "palestras" ]
 ---
 
 Mais um fim-de-semana no ócio e na vadiagem. Tenho que manter minhas [qualidades de bom programador](http://c2.com/cgi/wiki?LazinessImpatienceHubris) que sou: preguiçoso, impaciente e pretensioso.

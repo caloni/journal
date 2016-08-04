@@ -1,9 +1,6 @@
 ---
 title: Antidebugging using exceptions (part one)
-categories:
-- Código
-- Engenharia Reversa
-- English
+tags: [ "código", "engenharia reversa", "english" ]
 ---
 
 A debugger puts breakpoints to stop for a moment the debuggee execution. In order to do this it makes use of a well known instruction: **int 3**. This instruction throws an exception - the breakpoint exception - that is caught by the operating system and bypassed to the handling code for this exception. For debuggee processes this code is inside the debugger. For free processes this code normally doesn't exist and the application simply crashs.

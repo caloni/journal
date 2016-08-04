@@ -1,7 +1,6 @@
 ---
 title: A alça dentro do fio gerou um bloqueio da morte
-categories:
-- Devaneando
+tags: [ "devaneando" ]
 ---
 
 [![Mulher confusa após arrancar a maçaneta de uma porta.](/images/9477_confused_woman_holding_a_door_knob_after_it_disconnects_from_a_door.png)](/images/9477_confused_woman_holding_a_door_knob_after_it_disconnects_from_a_door.png)Estava folheando um [livro fenomenal](http://www.amazon.com/exec/obidos/ASIN/155615481X/shelfari-20) que meu amigo havia pedido emprestado para ler quando me deparei com algumas traduções (o livro estava em português) no mínimo curiosas.

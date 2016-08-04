@@ -1,7 +1,6 @@
 ---
 title: Sobrecarga de função às avessas
-categories:
-- Devaneando
+tags: [ "devaneando" ]
 ---
 
 [![](images/logo.png)](/public/logo.png)

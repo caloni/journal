@@ -1,7 +1,6 @@
 ---
 title: Programadores de verdade não usam Java
-categories:
-- Devaneando
+tags: [ "devaneando" ]
 ---
 
 ![Real Programmer](/images/real-programmer.png)Quando era um [_newbie_](http://www.caloni.com.br/o-passado-torto-de-um-programador-por-acaso) (e um [_wanna-be_](http://www.caloni.com.br/barata-eletrica-e-o-hacker-de-antigamente)) gostava de ler o "[Real Programmers Don't Use Pascal](http://rixstep.com/2/2/20071015,00.shtml)", um texto humorístico que mais me influenciou e encorajou a caminho da iluminação C/C++ do que o [livro de K&R](http://www.caloni.com.br/the-c-programming-language). A partir dele, supunha eu, ser um "programador de verdade" era ser tudo. Ser um Quiche Eater (Comedor de Torta) não era nada. Programadores de verdade é que resolvem os problemas de verdade! Quiche Eaters são os losers que estudam os conceitos acadêmicos da ciência da computação e nunca fazem um maldito programa que preste (conhece alguém assim?).

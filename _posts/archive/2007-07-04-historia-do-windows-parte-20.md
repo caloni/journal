@@ -1,10 +1,6 @@
 ---
 title: História do Windows - parte 2.0
-categories:
-- Sistema Operacional
-tags:
-- história
-- windows
+tags: [ "sistema operacional", "história", "windows" ]
 ---
 
 

@@ -1,7 +1,6 @@
 ---
 title: 'Gambi do dia: swap com apenas duas variáveis'
-categories:
-- Código
+tags: [ "código" ]
 ---
 
 <blockquote>_Este artigo é uma reedição de meu blogue antigo, guardado para ser republicado durante minhas miniférias. Esteja à vontade para sugerir outros temas obscuros sobre a linguagem C ou C++ de sua preferência no [formulário de contato](http://www.caloni.com.br/contato) do sítio. Boa leitura!_</blockquote>

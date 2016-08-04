@@ -1,11 +1,6 @@
 ---
 title: Como ser um melhor desenvolvedor nos próximos seis meses
-categories:
-- Devaneando
-tags:
-- novidades
-- produtividade
-- profissão
+tags: [ "devaneando", "novidades", "produtividade", "profissão" ]
 ---
 
 Graças ao meu amigo Thiago estive acompanhando [uma](http://codebetter.com/blogs/scott.bellware/archive/2007/07/14/165610.aspx) [série](http://codebetter.com/blogs/jeffrey.palermo/archive/2007/07/09/6-months-to-become-a-better-developer.aspx) [de](http://graysmatter.codivation.com/HowIAmBecomingABetterDeveloperPart1OfInfinity.aspx) [_posts_](http://weblogs.asp.net/bsimser/archive/2007/07/05/being-a-better-developer-in-6-months.aspx) de gente renomada sobre o tema deste artigo. Eles fazem parte de uma nova modalidade entre os blogueiros (pelo menos para mim) chamada de _tagging._ Funciona assim: você escreve sobre algo (por exemplo, "como ser um melhor cozinheiro em 6 meses") e manda uma _tag_ para que outras pessoas também escrevam sobre o mesmo assunto, o que pode ser feito referenciando o [sítio](http://www.sualingua.com.br/06/06_site_saite_sitio.htm) dessas pessoas.

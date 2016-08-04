@@ -1,7 +1,6 @@
 ---
 title: Breakpoints promíscuos
-categories:
-- Depuração
+tags: [ "depuração" ]
 ---
 
 Ontem falei sobre como "brincar" com os breakpoints promíscuos, ou seja, aqueles que topam qualquer processo. Isso

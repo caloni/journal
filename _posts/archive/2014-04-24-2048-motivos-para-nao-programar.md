@@ -1,13 +1,6 @@
 ---
 title: 2048 motivos para não programar
-categories:
-- Código
-- Devaneando
-tags:
-- '2048'
-- inteligência artificial
-- jogos
-- ócio
+tags: [ "código", "devaneando", "'2048'", "inteligência artificial", "jogos", "ócio" ]
 ---
 
 [![2048](https://farm8.staticflickr.com/7167/13989736784_92d49267fe_o.jpg)](https://www.flickr.com/photos/120157483@N04/13989736784/)

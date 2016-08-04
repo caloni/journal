@@ -1,7 +1,6 @@
 ---
 title: Keychanger de criança
-categories:
-- Projetos
+tags: [ "projetos" ]
 ---
 
 Às vezes na vida a vontade de fazer alguma coisa besta acaba sendo mais forte do que o senso de ridículo. Então, resolvi ressuscitar o quase apodrecido **RusKey**, um programa que fiz para trocar letras digitadas no teclado. A idéia é muito simples: o sujeito digita 'i' e sai um 'c', digita um 'f' e sai um 'u', e assim por diante. Se estiver programando e for criar um **if**, por exemplo, no lugar da palavra if vai aparecer... bom, não é exatamente um if que vai aparecer na tela =).
@@ -16,10 +15,10 @@ Assim sendo, embora o alfabeto russo seja diferente do alfabeto latino muitos fo
 
 
     
-    Б == B
-    В == V
-    Ж == G
-    Д == D
+    ¿ == B
+    ¿ == V
+    ¿ == G
+    ¿ == D
     ...
 
 

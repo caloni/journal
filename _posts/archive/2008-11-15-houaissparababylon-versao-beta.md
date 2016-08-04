@@ -1,9 +1,6 @@
 ---
 title: HouaissParaBabylon versão beta
-categories:
-- Projetos
-tags:
-- houaiss2babylon
+tags: [ "projetos", "houaiss2babylon" ]
 ---
 
 [![Tela principal do conversor Houaiss para Babylon](/images/houaissparababylon.thumbnail.png)](/images/houaissparababylon.png)Depois de muitos fins-de-semana divididos em horas picadinhas de programação de lazer, está disponível em vosso saite a primeira versão para usuários do **conversor do dicionário Houaiss para o aplicativo Babylon**.
@@ -50,7 +47,7 @@ Na segunda fase, após toda essa movimentação de HD, existe apenas uma coisa a
 
 Se não for encontrado o dicionário Houaiss devidamente instalado no disco rígido, será exibida uma mensagem de erro pedindo que a instalação seja feita dessa maneira. Se, contudo, não for possível localizar a instalação do dicionário, será pedido ao usuário que diga onde ela se encontra, ou aponte para a pasta "Houaiss" em seu CD de instalação,** uma dica suficiente para que a operação seja bem-sucedida**.
 
-![Seleção da pasta “Houaiss” dentro do CD de instalação.](/images/selecaodocdhouaiss.png)
+![Seleção da pasta ¿Houaiss¿ dentro do CD de instalação.](/images/selecaodocdhouaiss.png)
 
 Outros erros comuns, como o Babylon Builder não instalado, serão obviamente avisados ao usuário. Erros mais raros terão um tratamento mais genérico. No entanto, nem por isso ele está livre de solução. Ao sair de uma conversão mal-sucedida, o usuário tem a opção de **exportar o log de operações que foram realizadas durante a malfadada operação**. Dessa forma, ele próprio conseguirá diagnosticar o problema ou, em casos mais sérios, me enviar o resultado de suas tentativas.
 

@@ -1,12 +1,6 @@
 ---
 title: Header Inútil
-categories:
-- Ferramentas
-tags:
-- bugs
-- dicas
-- ide
-- visual studio
+tags: [ "ferramentas", "bugs", "dicas", "ide", "visual studio" ]
 ---
 
 O Visual Studio é uma ótima ferramenta para depurar rapidamente programas sendo desenvolvidos e <del>para editar vários arquivos ao mesmo tempo</del> para o resto usamos Vim. No entanto, a versão 2010 do ambiente (ainda não testei a 2011 beta) possui um pequeno deslize com sua árvore de dependências que não chega a prejudica o desenvolvedor, mas o deixa com um bug atrás da orelha.

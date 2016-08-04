@@ -1,11 +1,6 @@
 ---
 title: A moda agora é levar lambda na função
-categories:
-- C++
-tags:
-- c++11
-- lambda
-- visual studio
+tags: [ "c++", "c++11", "lambda", "visual studio" ]
 ---
 
 [![moda-lambda](https://farm3.staticflickr.com/2932/13469488213_d22f6b1e92_o.jpg)](https://www.flickr.com/photos/caloni/13469488213/)

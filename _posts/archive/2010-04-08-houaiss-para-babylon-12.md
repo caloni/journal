@@ -1,9 +1,6 @@
 ---
 title: Houaiss Para Babylon!
-categories:
-- Projetos
-tags:
-- houaiss2babylon
+tags: [ "projetos", "houaiss2babylon" ]
 ---
 
 ![HouaissParaBabylon 1.2](/images/houaiss-para-babylon-v12.png) Os [últimos comentários de Henrique Esteves](http://www.caloni.com.br/houaissparababylon-versao-beta#comment-16846) sobre o HouaissParaBabylon me fizeram dar mais uma fuçada nele e ver se tento deixá-lo compatível com o [Houaiss 3](http://www.dicionariohouaiss.com.br/index2.asp). Foram apenas algumas horas e acho que resolvi os probleminhas relacionados com a troca do registro de instalação e o nome dos arquivos que armazenam os verbetes.

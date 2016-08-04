@@ -1,7 +1,6 @@
 ---
 title: Como ser um melhor desenvolvedor em 2008
-categories:
-- Programação
+tags: [ "programação" ]
 ---
 
 Aproveitando que está se aproximando meu prazo final para minhas resoluções de [seis meses atrás](http://www.caloni.com.br/como-ser-um-melhor-desenvolvedor-nos-proximos-seis-meses), e o DQ já fez o [_checklist _dele](http://dqsoft.blogspot.com/2008/01/resolues-de-ano-novo-2008-edition.html), vou dar uma espiada na minha lista de desejos atual e fazer uma nova lista para 2008.

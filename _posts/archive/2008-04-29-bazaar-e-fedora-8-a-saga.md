@@ -1,7 +1,6 @@
 ---
 title: 'Bazaar e Fedora 8: a saga'
-categories:
-- Devaneando
+tags: [ "devaneando" ]
 ---
 
 Seria bom se as coisas simples da vida fossem simples, não é mesmo?

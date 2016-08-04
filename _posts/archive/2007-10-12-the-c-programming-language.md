@@ -1,7 +1,6 @@
 ---
 title: The C Programming Language
-categories:
-- C++
+tags: [ "c++" ]
 ---
 
 **

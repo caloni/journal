@@ -1,7 +1,6 @@
 ---
 title: O conhecido unresolved external
-categories:
-- Depuração
+tags: [ "depuração" ]
 ---
 
 O [artigo anterior](http://www.caloni.com.br/o-caso-da-funcao-de-delay-load-desaparecida) mostrou que nem sempre as coisas são simples de resolver, mas que sempre existe um caminho a seguir e que, eventualmente, todos os problemas se solucionarão.

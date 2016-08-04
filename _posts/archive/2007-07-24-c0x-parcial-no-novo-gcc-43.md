@@ -1,11 +1,6 @@
 ---
 title: C++0x parcial no novo GCC 4.3
-categories:
-- C++
-tags:
-- compiladores
-- gcc
-- novidades
+tags: [ "c++", "compiladores", "gcc", "novidades" ]
 ---
 
 A [nova versão do GCC](http://gcc.gnu.org/gcc-4.3/cxx0x_status.html) implementa em caráter de teste algumas novas características da [nova versão da linguagem C++](http://www.artima.com/cppsource/cpp0x.html), que será lançada ainda nesta década (provavelmente em 2009). As novas funcionalidades são empolgantes e já fazem parte do imaginário dos programadores C++ já há algum tempo.

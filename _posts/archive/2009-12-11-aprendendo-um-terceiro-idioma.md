@@ -1,7 +1,6 @@
 ---
 title: Aprendendo um terceiro idioma
-categories:
-- Devaneando
+tags: [ "devaneando" ]
 ---
 
 Inspirado pelo [texto](http://www.chadfowler.com/2009/8/2/how-learning-a-second-language-changed-my-life) de Chad Fowler que explica como o aprendizado de um segundo idioma mudou sua vida (sua língua-mãe é o inglês americano), resolvi descrever brevemente o que foi o momento da minha vida que decidi que iria tentar aprender Russo. Lógico, sem todo o folclore e a experiência de vida do autor do original.
@@ -29,4 +28,4 @@ O cinema e a BBC russa também representaram um instrumento de aprimoramento do 
 
 Infelizmente, essa fase esmaeceu. Agora estou muito interessado em finanças e isso fez com que o russo ficasse cada vez mais para trás. Se me pedir hoje para falar algo em russo vou conseguir apenas balbuciar as mais "comunzinhas", pois esqueci todo o resto. Foi perda de tempo? Claro que não! Foi uma experiência que mostra que podemos aprender qualquer coisa a qualquer hora, independente do quão estranho ou bizarro isso seja.
 
-до свидание!
+¿¿ ¿¿¿¿¿¿¿¿!

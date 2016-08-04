@@ -1,9 +1,6 @@
 ---
 title: Importando tipos de outros projetos
-categories:
-- Depuração
-- Engenharia Reversa
-- Sistema Operacional
+tags: [ "depuração", "engenharia reversa", "sistema operacional" ]
 ---
 
 A engenharia reversa das entranhas do kernel não tem limites se você sabe o que está fazendo. No entanto, algumas facilidades do depurador podem ajudar a minimizar o tempo que gastamos para analisar uma simples estrutura. Por exemplo, o [Process Environment Block](http://msdn.microsoft.com/en-us/library/aa813706%28VS.85%29.aspx) de um processo específico.
@@ -41,7 +38,7 @@ O comando [!peb](http://windbg.info/doc/1-common-cmds.html#11_process) traz inú
 
 
 
-![PEB “não-documentado”](/images/peb-undocumented.png)
+![PEB ¿não-documentado¿](/images/peb-undocumented.png)
 
 Nesse caso, podemos criar um projeto vazio que contenha a definição da estrutura **como acreditamos** que esteja na versão do kernel que estamos depurando.
 

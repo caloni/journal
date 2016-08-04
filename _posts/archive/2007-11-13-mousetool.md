@@ -1,8 +1,6 @@
 ---
 title: MouseTool
-categories:
-- English
-- Projetos
+tags: [ "english", "projetos" ]
 ---
 
 Well, as most of you already know, I really don't like mice. Nevertheless I respect the users who use it and like it. That is the reason why I am writing a little more about it. This time, I going to show a program I use every day: **MouseTool**, for the users who does not use the mouse and like it.

@@ -1,13 +1,6 @@
 ---
 title: Real Programmers Don't Use Java
-categories:
-- Devaneando
-- English
-tags:
-- brincadeiras
-- humor
-- java
-- sátira
+tags: [ "devaneando", "english", "brincadeiras", "humor", "java", "sátira" ]
 ---
 
 [![real-programmer](https://farm8.staticflickr.com/7319/12645504174_342d92250f_o.png)](http://www.flickr.com/photos/caloni/12645504174/)

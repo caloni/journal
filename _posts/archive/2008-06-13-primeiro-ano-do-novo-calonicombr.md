@@ -1,7 +1,6 @@
 ---
 title: Primeiro ano do novo Caloni.com.br
-categories:
-- Devaneando
+tags: [ "devaneando" ]
 ---
 
 [![caloni-first-year.png](/images/caloni-first-year.thumbnail.png)](/images/caloni-first-year.png)Melhor que ter feito aniversário de dois anos no antigo blogue foi ter feito o primeiro aninho nesse novo formato, mais atualizado, mais diversificado e mais antenado com o [meu dia-a-dia real](http://www.caloni.com.br/csi-crashed-server-investigation).

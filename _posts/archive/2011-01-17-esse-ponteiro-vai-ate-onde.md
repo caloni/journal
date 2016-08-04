@@ -1,7 +1,6 @@
 ---
 title: Esse ponteiro vai até onde?
-categories:
-- Sistema Operacional
+tags: [ "sistema operacional" ]
 ---
 
 Brincando com obtenções e conversões de SIDs, tive uma pequena dificuldade de usar a função [ConvertStringSidToSid](http://msdn.microsoft.com/en-us/library/aa376402%28v=vs.85%29.aspx), de Sddl.h. Seu objetivo é receber uma string-SID no formato usado pela ferramenta [PsGetSid ](http://technet.microsoft.com/en-us/sysinternals/bb897417)e retornar uma sequência de bytes de tamanho arbitrário, que é o SID como o sistema o enxerga. Como ela retorna apenas o ponteiro final, do tipo PSID, o que parece fácil pode se tornar _tricky_ se quisermos copiar o SID binário para algum buffer na pilha, já que não sabemos o número de bytes no buffer de origem. Tudo que sabemos é que, após o uso, devemos desalocar essa memória retornada pela API com outra API: [LocalFree](http://msdn.microsoft.com/en-us/library/aa366730%28v=vs.85%29.aspx).

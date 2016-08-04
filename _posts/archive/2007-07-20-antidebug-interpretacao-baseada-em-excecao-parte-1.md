@@ -1,12 +1,6 @@
 ---
 title: 'Antidebug: interpretação baseada em exceção (parte 1)'
-categories:
-- Código
-- Engenharia Reversa
-tags:
-- debug
-- hacking
-- técnicas
+tags: [ "código", "engenharia reversa", "debug", "hacking", "técnicas" ]
 ---
 
 Um depurador utiliza _breakpoints_ para "paralisar" momentaneamente a execução do programa sendo depurado. Para isso ele se utiliza de uma bem conhecida instrução conhecida como **int 3**. Essa instrução gera uma exceção - exceção de _breakpoint_ - que é capturada pelo sistema operacional e repassada para o **código de tratamento** dessa exceção. Em programas sendo depurados esse código está localizado no depurador. Em programas "livres" esse código normalmente não existe e ao acontecer essa exceção o aplicativo simplesmente "capota".

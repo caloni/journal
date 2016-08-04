@@ -1,16 +1,6 @@
 ---
 title: 'MVP ShowCast 2013: C++11 e C++14 no Visual Studio 2013'
-categories:
-- Blogging
-- C++
-- Eventos
-tags:
-- c++
-- eventos
-- interatividade
-- microsoft
-- mvp
-- palestras
+tags: [ "blogging", "c++", "eventos", "c++", "eventos", "interatividade", "microsoft", "mvp", "palestras" ]
 ---
 
 [![ShowCast](http://farm4.staticflickr.com/3747/11157410456_0e97faa417_o.png)](http://www.flickr.com/photos/caloni/11157410456/)

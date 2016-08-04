@@ -1,13 +1,6 @@
 ---
 title: Desmontando o Aulete Digital
-categories:
-- Engenharia Reversa
-tags:
-- binário
-- hexadecimal
-- houaiss2babylon
-- reversing
-- wireshark
+tags: [ "engenharia reversa", "binário", "hexadecimal", "houaiss2babylon", "reversing", "wireshark" ]
 ---
 
 Este post não estará mais disponível devido ao mau uso de pessoas que se aproveitaram das minhas explicações didáticas a respeito do funcionamento da versão Desktop do dicionário e, agindo de má-fé, começaram a baixar a base de dados indiscriminadamente, fazendo com que o serviço que é disponibilizado gratuitamente aos usuários tivesse que ser desligado. É uma lástima que isso tenha ocorrido, e peço desculpas às pessoas que prejudiquei direta ou indiretamente.

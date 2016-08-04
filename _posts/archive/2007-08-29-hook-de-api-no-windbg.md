@@ -1,8 +1,6 @@
 ---
 title: Hook de API no WinDbg
-categories:
-- Depuração
-- Engenharia Reversa
+tags: [ "depuração", "engenharia reversa" ]
 ---
 
 [![MiniBSOD - Pequena tela azul](/images/minibsod.png)](/images/minibsod.png)Basicamente existem duas maneiras de um executável obter o endereço de uma função API do Windows: ou ele usa uma lib de interface com a DLL (o chamado "_link_ estático") ou ele chama a função [kernel32!GetProcAddress](http://msdn2.microsoft.com/en-us/library/ms683212.aspx) explicitamente [1].

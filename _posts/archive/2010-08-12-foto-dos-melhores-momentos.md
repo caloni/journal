@@ -1,8 +1,6 @@
 ---
 title: Foto dos melhores momentos
-categories:
-- Depuração
-- palestras
+tags: [ "depuração", "palestras" ]
 ---
 
 [![Tela azul de recordação](/images/telaazul_0309.thumbnail.jpg)](/images/telaazul_0309.jpg) Mais um quebra-cabeças antes da nossa palestra, esse "baseado em fatos reais".

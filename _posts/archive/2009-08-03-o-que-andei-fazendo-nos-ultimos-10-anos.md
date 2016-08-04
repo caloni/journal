@@ -1,7 +1,6 @@
 ---
 title: O que andei fazendo nos últimos 10 anos
-categories:
-- Devaneando
+tags: [ "devaneando" ]
 ---
 
 Essa semana me dediquei a atualizar meu currículo e tive a brilhante ideia de colocar um histórico técnico, o que resumindo é uma lista de coisas que fiz ou estive relacionado com durante minha breve estadia de dez anos no mundo da programação.

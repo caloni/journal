@@ -1,9 +1,6 @@
 ---
 title: HouaissParaBabylon versão 1.1
-categories:
-- Projetos
-tags:
-- houaiss2babylon
+tags: [ "projetos", "houaiss2babylon" ]
 ---
 
 ![HouaissParaBabylon versão 1.1](/images/houaissparababylon-v11.png) Saindo mais um do forno.

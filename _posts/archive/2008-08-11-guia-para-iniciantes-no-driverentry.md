@@ -1,7 +1,6 @@
 ---
 title: Guia para iniciantes no DriverEntry
-categories:
-- Programação
+tags: [ "programação" ]
 ---
 
 [![driverentry-com-br.PNG](/images/driverentry-com-br.PNG)](http://www.driverentry.com.br/blog/)A mensagem anterior deixou bem claro que tenho um roteiro de leituras bem _hardcore_ a fazer nos próximos 20 anos. Pretendo, enquanto isso, programar alguma coisinha rodando em ring0, porque nem só de teoria vive o programador-escovador-de-bits. Pensando nisso, esse fim-de-semana comecei a me aventurar nos ótimos exemplos e explicações do [DriverEntry.com.br](http://www.driverentry.com.br/blog/), nossa referência _kernel mode_ tupiniquim.

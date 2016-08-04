@@ -1,8 +1,6 @@
 ---
 title: What happens inside the sizeof operator
-categories:
-- C++
-- English
+tags: [ "c++", "english" ]
 ---
 
 The question: how to get the size of a struct member without declaring it as a variable in memory? In pseudocode:

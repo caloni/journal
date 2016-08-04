@@ -1,8 +1,6 @@
 ---
 title: 'EPA-CCPP 4: nossa comunidade ganhando forma'
-categories:
-- C++
-- palestras
+tags: [ "c++", "palestras" ]
 ---
 
 Nesse último sábado ocorreu mais uma vez, como [todos sabem](http://www.caloni.com.br/quarto-encontro-c), o [Encontro de Programadores e Aficionados por C++](http://picasaweb.google.com/ccppmeetings/4oEncontroDeProgramadoresEAficcionadosDoGrupoCCBrasilSampa), (in)formalmente apelidado de EPA-CCPP, de acordo com [algumas conversas](http://groups.google.com/group/ccppbrasil/browse_thread/thread/10b370b5b2bd85d5/eabf850054cfc5c9?lnk=gst&q=EPA#eabf850054cfc5c9) da nossa lista de discussão.

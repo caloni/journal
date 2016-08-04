@@ -1,13 +1,6 @@
 ---
 title: RValue é o novo LValue
-categories:
-- Blogging
-- C++
-tags:
-- c++11
-- discussões
-- eventos
-- palestras
+tags: [ "blogging", "c++", "c++11", "discussões", "eventos", "palestras" ]
 ---
 
 [![](/images/The-C-Programming-Language.jpg)](/images/The-C-Programming-Language.jpg)

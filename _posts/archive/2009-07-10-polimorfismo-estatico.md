@@ -1,7 +1,6 @@
 ---
 title: Polimorfismo estático
-categories:
-- C++
+tags: [ "c++" ]
 ---
 
 Para explicar polimorfismo, nada como ver as coisas como elas eram. Se você fosse um programador C de vinte anos atrás e criasse as seguintes funções:

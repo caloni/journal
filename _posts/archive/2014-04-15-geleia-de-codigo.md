@@ -1,14 +1,6 @@
 ---
 title: Geleia de Código
-categories:
-- Código
-- Eventos
-tags:
-- campeonatos
-- code jam
-- eventos
-- google
-- programação
+tags: [ "código", "eventos", "campeonatos", "code jam", "eventos", "google", "programação" ]
 ---
 
 [![jam2014](https://farm4.staticflickr.com/3776/13878076723_dc8556a364_o.jpg)](https://www.flickr.com/photos/120157483@N04/13878076723/)

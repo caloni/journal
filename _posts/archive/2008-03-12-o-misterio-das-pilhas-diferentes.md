@@ -1,7 +1,6 @@
 ---
 title: O mistério das pilhas diferentes
-categories:
-- Depuração
+tags: [ "depuração" ]
 ---
 
 Mal comecei a leitura do meu mais novo ["mother-fucker" livro](http://advancedwindowsdebugging.com/) e já encontrei a solução para nunca mais viver o terror que vivi quando tive que testar minha engenharia reversa do artigo sobre o Houaiss. Se trata de uma simples questão que não sei por que não sigo todas as vezes religiosamente: **configure seus símbolos corretamente**.

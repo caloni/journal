@@ -1,8 +1,6 @@
 ---
 title: FormatMessage para... dumies?
-categories:
-- Código
-- Sistema Operacional
+tags: [ "código", "sistema operacional" ]
 ---
 
 [![Peixe Gelatinoso Bizarro do Brasil (conhece esse país?)](/images/bizarre-gelatinous-fish-brazil.jpg)](http://www.caloni.com.br/blog/formatmessage-para-dumies/peixe-gelatinoso-bizarro-do-brasil-conhece-esse-pais/)

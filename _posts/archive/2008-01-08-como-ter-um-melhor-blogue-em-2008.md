@@ -1,7 +1,6 @@
 ---
 title: Como ter um melhor blogue em 2008
-categories:
-- Devaneando
+tags: [ "devaneando" ]
 ---
 
 Não é exatamente uma receita de bolo, tampouco uma lista de regras imutáveis. Na verdade, apenas [algumas dicas](http://www.wired.com/culture/lifestyle/news/2007/12/blog_advice) que o criador do termo _(we)blog _deu sobre como ele imagina que os blogueiros deveriam se comportar em relação aos seus blogues. Entre os toques, ele inicialmente comenta que o princípio de um weblog é ser um histórico dos sítios que navegamos, e que eventualmente podemos publicar conteúdo original. Bem, esse humilde blogue faz exatamente o oposto, acreditando que o conteúdo publicado aqui em português dificilmente será encontrado na web, além de que me sinto um inútil se não colaborar com o mundo usando o conhecimento que aprendi e aprendo no dia-a-dia.

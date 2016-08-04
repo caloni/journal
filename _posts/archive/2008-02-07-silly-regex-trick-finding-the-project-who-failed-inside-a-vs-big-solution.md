@@ -1,8 +1,6 @@
 ---
 title: 'Silly regex trick: finding the project who failed inside a big VS solution'
-categories:
-- Devaneando
-- English
+tags: [ "devaneando", "english" ]
 ---
 
 I know what you going to think about this one: "silly trick". That's why I just put it in the title. Anyway, that is something I use everyday, so I thought it might be useful to who cares about productivity.

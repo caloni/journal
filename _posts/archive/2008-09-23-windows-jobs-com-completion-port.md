@@ -1,8 +1,6 @@
 ---
 title: Windows Jobs com Completion Port
-categories:
-- Código
-- Sistema Operacional
+tags: [ "código", "sistema operacional" ]
 ---
 
 Ou "Como esperar o término de todos os processos-filho criados a partir de um conjunto de processos".

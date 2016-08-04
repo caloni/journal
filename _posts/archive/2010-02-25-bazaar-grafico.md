@@ -1,11 +1,9 @@
 ---
 title: Bazaar gráfico
-categories:
-- Controle de Fonte
-- Ferramentas
+tags: [ "controle de fonte", "ferramentas" ]
 ---
 
-![Boiola quem usa esses comandos pink do Bazaar…](/images/boiola-pic.jpg)Bom, já que por enquanto os assuntos de macho estão em falta (acabei de voltar de férias), apresento-lhes o maravilhoso mundo do [Bazaar](http://www.caloni.com.br/guia-basico-de-repositorios-no-bazaar) <strike>para boiolas</strike> _user-friendly_!
+![Boiola quem usa esses comandos pink do Bazaar¿](/images/boiola-pic.jpg)Bom, já que por enquanto os assuntos de macho estão em falta (acabei de voltar de férias), apresento-lhes o maravilhoso mundo do [Bazaar](http://www.caloni.com.br/guia-basico-de-repositorios-no-bazaar) <strike>para boiolas</strike> _user-friendly_!
 
 Ele é leve, vem <strike>enrustido</strike> embutido na última versão e pode economizar alguns _page ups/downs_ no _prompt_ do DOS. Ah, sim, antes que comentem, eu não uso o [Tortoise for Bazaar](http://wiki.bazaar.canonical.com/TortoiseBzr) porque instalar [_shell extensions_](http://en.wikipedia.org/wiki/Shell_extension#Extensibility), só os muito bem feitos. (Do contrário, bem-feito para quem instalou.)
 

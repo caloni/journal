@@ -1,7 +1,6 @@
 ---
 title: O passado torto de um programador por acaso
-categories:
-- Devaneando
+tags: [ "devaneando" ]
 ---
 
 

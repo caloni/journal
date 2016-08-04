@@ -1,11 +1,6 @@
 ---
 title: Minha palestra do TDC 2012
-categories:
-- Blogging
-- Código
-tags:
-- eventos
-- palestras
+tags: [ "blogging", "código", "eventos", "palestras" ]
 ---
 
 [![](/images/Palestra-TDC2012.jpg)](/images/Palestra-TDC2012.jpg)

@@ -1,7 +1,6 @@
 ---
 title: WinDbg.info
-categories:
-- Depuração
+tags: [ "depuração" ]
 ---
 
 Para os perdidos e desatualizados como eu, notei hoje que [Robert Kuster possui um saite](http://windbg.info/) onde mantém diversas informações sobre o WinDbg; uma espécie de continuação de sua famosa transparência "[WinDbg. From A to Z](http://www.caloni.com.br/blog/aprendendo-rapidamente-conceitos-essenciais-do-windbg)".

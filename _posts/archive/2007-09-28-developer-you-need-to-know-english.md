@@ -1,7 +1,6 @@
 ---
 title: 'Developer: you need to know English!'
-categories:
-- Devaneando
+tags: [ "devaneando" ]
 ---
 
 Eu realmente gostei desse negócio de [_tagging_](http://www.google.com/search?q=caloni%20tagging). =)

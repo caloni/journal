@@ -1,8 +1,6 @@
 ---
 title: Precedence difference
-categories:
-- C++
-- English
+tags: [ "c++", "english" ]
 ---
 
 Once upon a time my old friend [Kabloc](http://www.kabloc.com.br) wrote this little and "harmless" function in order to print the multiplication table:

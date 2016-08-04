@@ -1,8 +1,6 @@
 ---
 title: Últimas pesquisas na blogosfera nacional
-categories:
-- C++
-- Devaneando
+tags: [ "c++", "devaneando" ]
 ---
 
 ![Mapa do Brasil com o código do filme Matrix](/images/brasil-matrix.png) É um imenso prazer constatar que hoje, mais de dez anos depois de eu ter iniciado minha caminhada pelo mundo da programação C/C++, temos uma reação de blogues e saites prontos para elucidar questões simples e avançadas dessas duas linguagens que ainda não morreram e, se depender de como as coisas andam, ainda vão durar pelo menos mais uns dez anos (sim, não sou tão otimista assim).

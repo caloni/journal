@@ -1,7 +1,6 @@
 ---
 title: O que acontece quando o contador estoura
-categories:
-- Programação
+tags: [ "programação" ]
 ---
 
 Dois conceitos de programação relacionados a limites computacionais são bem conhecidos do programador: o famigerado _overflow_ e o não-tão-famoso _underflow_ (embora seja fácil imaginar que ele é o oposto do primeiro). O primeiro ocorre quando somamos a uma variável inteira não-nula um valor cujo resultado não consegue ser representado pelo tamanho de memória usado para armazenar esse tipo inteiro (que pode ser um caractere, um inteiro curto, inteiro longo e por aí vai). O _underflow_, por outro lado (outro lado mesmo), é o resultado de uma subtração que não pode ser representado pelo número de bits do seu tipo inteiro.

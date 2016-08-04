@@ -1,8 +1,6 @@
 ---
 title: 'O boot no Windows: pré-NTLDR'
-categories:
-- Engenharia Reversa
-- Sistema Operacional
+tags: [ "engenharia reversa", "sistema operacional" ]
 ---
 
 Conforme fui estudando para recordar os momentos sublimes do boot do Windows me deparei com o artigo mais "espetaculoso" de todos os tempos sobre esse assunto, parte integrante do livro [Windows Internals](http://compare.buscape.com.br/categoria?id=3482&lkout=1&kw=Windows+Internals&site_origem=1293522) e escrito pelo nada mais nada menos Mark Russinovich: **Boot Process**, no capítulo 5, "Startup and Shutdown".
@@ -101,9 +99,9 @@ A segunda forma de análise que exixte é para os preguiçosos que não consegue
     
     00000000           4E 54 46 53 20 20 20 20 00 02 08 00 00     NTFS    .....
     00000010  00 00 00 00 00 F8 00 00 3F 00 FF 00 00 20 3F 01  .....ø..?.ÿ.. ?.
-    00000020  00 00 00 00 80 00 80 00 FF 1F 03 00 00 00 00 00  ....€.€.ÿ.......
+    00000020  00 00 00 00 80 00 80 00 FF 1F 03 00 00 00 00 00  ....¿.¿.ÿ.......
     00000030  55 21 00 00 00 00 00 00 02 00 00 00 00 00 00 00  U!..............
-    00000040  F6 00 00 00 01 00 00 00 8E 4F 78 94 71 78 94 5C  ö.......ŽOx”qx”\
+    00000040  F6 00 00 00 01 00 00 00 8E 4F 78 94 71 78 94 5C  ö.......¿Ox¿qx¿\
     00000050  00 00 00 00                                      ....
     
     ; Inicializa pilha e registradores

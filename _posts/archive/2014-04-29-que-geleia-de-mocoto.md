@@ -1,12 +1,6 @@
 ---
 title: Que geleia de mocotó
-categories:
-- Código
-- Devaneando
-tags:
-- campeonatos
-- code jam
-- eventos
+tags: [ "código", "devaneando", "campeonatos", "code jam", "eventos" ]
 ---
 
 [![cowblet-cover](https://farm3.staticflickr.com/2921/14065766204_532438eaed_n.jpg)](https://www.flickr.com/photos/120157483@N04/14065766204/)

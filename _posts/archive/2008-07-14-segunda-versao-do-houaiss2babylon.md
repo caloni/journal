@@ -1,9 +1,6 @@
 ---
 title: Segunda versão do Houaiss2Babylon
-categories:
-- Projetos
-tags:
-- houaiss2babylon
+tags: [ "projetos", "houaiss2babylon" ]
 ---
 
 Depois de [vários comentários](http://www.caloni.com.br/conversor-de-houaiss-para-babylon-parte-2#comment-757) de pessoas tendo problemas em converter seus dicionários Houaiss para o formato Babylon, resolvi criar vergonha na cara e dar uma pequena melhora na versão beta do conversor.

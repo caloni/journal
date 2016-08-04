@@ -1,7 +1,6 @@
 ---
 title: Impressões do quinto encontro de CCPP
-categories:
-- Devaneando
+tags: [ "devaneando" ]
 ---
 
 Pois é, [passou](http://www.caloni.com.br/v), acabou... e foi muito bom!

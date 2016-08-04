@@ -1,13 +1,6 @@
 ---
 title: Conteúdo da Palestra
-categories:
-- Blogging
-- C++
-- Código
-tags:
-- eventos
-- palestras
-- reports
+tags: [ "blogging", "c++", "código", "eventos", "palestras", "reports" ]
 ---
 
 [![](/images/tagcloud.png)](/images/tagcloud.png)

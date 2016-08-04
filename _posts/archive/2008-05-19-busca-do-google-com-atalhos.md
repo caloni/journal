@@ -1,7 +1,6 @@
 ---
 title: Busca do Google com atalhos
-categories:
-- Ferramentas
+tags: [ "ferramentas" ]
 ---
 
 Eu adoro atalhos de teclado. Desde meus primeiros anos usando computadores, atalhos têm se tornado minha obsessão. Sempre faço minha pesquisa pessoal de tempos em tempos, colecionando e usando novos atalhos descobertos. Por um bom tempo eu evitei ter que usar o _mouse_, treinando-me para lembrar de todas as seqüências de teclas que conhecia.

@@ -1,12 +1,6 @@
 ---
 title: Coletando dumps automaticamente
-categories:
-- Blogging
-tags:
-- crashes
-- dicas
-- dumps
-- suporte técnico
+tags: [ "blogging", "crashes", "dicas", "dumps", "suporte técnico" ]
 ---
 
 **HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Windows Error Reporting\LocalDumps** key.

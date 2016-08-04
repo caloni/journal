@@ -1,10 +1,6 @@
 ---
 title: História do Windows - parte 1.0
-categories:
-- Sistema Operacional
-tags:
-- história
-- windows
+tags: [ "sistema operacional", "história", "windows" ]
 ---
 
 _Devido à grande procura através de mecanismos de busca (vulgo Google), estarei republicando esse artigo dividido em [partes](http://www.caloni.com.br/search/historia%20do%20windows%20-%20parte) (até porque existem partes não acabadas), cada parte descrevendo um conceito geral do que representou cada versão do sistema operacional._

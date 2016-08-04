@@ -1,7 +1,6 @@
 ---
 title: 'CSI: Crashed Server Investigation?'
-categories:
-- Devaneando
+tags: [ "devaneando" ]
 ---
 
 O [artigo de Jeff Dailey](http://blogs.msdn.com/ntdebugging/archive/2008/04/15/the-digital-dna-of-bugs-dump-analysis-as-forensic-science.aspx) em que ele compara a nossa atividade de "cientistas do _debugging_" com a atividade dos profissionais da análise forense é exatamente o que eu penso sobre nossa profissão. Freqüentemente assisto ao [CSI: Las Vegas](http://www.imdb.com/title/tt0247082/) e mais freqüentemente ainda uso os métodos científicos empregados pela equipe de Gil Grissom para resolver os problemas mais escabrosos que podem ocorrer em um sistema.

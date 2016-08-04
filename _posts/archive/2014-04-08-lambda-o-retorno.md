@@ -1,10 +1,6 @@
 ---
 title: 'Lambda: o Retorno!'
-categories:
-- C++
-tags:
-- c++11
-- lambda
+tags: [ "c++", "c++11", "lambda" ]
 ---
 
 [![Lambda: o Retorno](https://farm4.staticflickr.com/3796/13717451604_33225e217c_o.jpg)](https://www.flickr.com/photos/120157483@N04/13717451604/)

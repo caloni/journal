@@ -1,9 +1,6 @@
 ---
 title: Depuração de emergência
-categories:
-- Depuração
-tags:
-- windbg
+tags: [ "depuração", "windbg" ]
 ---
 
 O programa está rodando no servidor do cliente, que é acessível por sessão remota do Windows, mas de repente ele capota. Existem aí duas possibilidades fora o debug remoto (que, nesse caso, não é possível):

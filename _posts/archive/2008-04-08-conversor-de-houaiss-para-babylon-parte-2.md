@@ -1,9 +1,6 @@
 ---
 title: Conversor de Houaiss para Babylon - parte 2
-categories:
-- Projetos
-tags:
-- houaiss2babylon
+tags: [ "projetos", "houaiss2babylon" ]
 ---
 
 Após algumas semanas de suspense, chegamos finalmente à nossa segunda e última parte da saga do dicionário Houaiss.

@@ -1,11 +1,6 @@
 ---
 title: Vida e Software
-categories:
-- Devaneando
-tags:
-- auto-ajuda
-- filosofia
-- vida
+tags: [ "devaneando", "auto-ajuda", "filosofia", "vida" ]
 ---
 
 [caption id="attachment_1229" align="alignleft" width="168" caption="Fonte: semichaotic.spreadshirt.com"][![](/images/life-code_design.png)](/images/life-code_design.png)[/caption]
@@ -30,7 +25,7 @@ De uma forma ou de outra, como toda atividade humana, escrever código nos defin
 
 
 	
-  * [Para quê filosofia?](http://www.verdadestraumaticas.com/2011/08/para-que-filosofia-marilena-chaui.html) – Marilena Chauí
+  * [Para quê filosofia?](http://www.verdadestraumaticas.com/2011/08/para-que-filosofia-marilena-chaui.html) ¿ Marilena Chauí
 
 
 

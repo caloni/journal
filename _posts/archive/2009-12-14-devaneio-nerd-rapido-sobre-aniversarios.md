@@ -1,7 +1,6 @@
 ---
 title: Devaneio nerd rápido sobre aniversários
-categories:
-- Devaneando
+tags: [ "devaneando" ]
 ---
 
 Hoje não é aniversário do blogue. É meu. Há exatos ([sic](http://pt.wikipedia.org/wiki/Ano)) trinta anos nascia eu, essa pessoa que vos fala. Legal, não?

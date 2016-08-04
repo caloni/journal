@@ -1,12 +1,6 @@
 ---
 title: Introdução ao SoftICE
-categories:
-- Depuração
-- Ferramentas
-tags:
-- depuradores
-- ferramentas
-- hacking
+tags: [ "depuração", "ferramentas", "depuradores", "ferramentas", "hacking" ]
 ---
 
 O que acontece quando você precisa depurar um programa e não tem o Visual Studio instalado na máquina onde o problema está ocorrendo? Ora, para isso que existe o [Remote Debugging](http://msdn2.microsoft.com/en-us/library/bt727f1t(vs.80).aspx). Eu uso direto. Você só precisa rodar um pequeno programa na máquina que vai ser depurada e abrir uma porta ou duas. O resto o Visual Studio da máquina que vai depurar faz.

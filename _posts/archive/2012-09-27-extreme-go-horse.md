@@ -1,9 +1,6 @@
 ---
 title: eXtreme Go Horse
-categories:
-- Blogging
-tags:
-- metodologias
+tags: [ "blogging", "metodologias" ]
 ---
 
 O Go Horse Power (GHP) foi criado por um blogue hoje extinto. As premissas dessa nova metodologia de desenvolvimento era que o projeto fosse feito da maneira mais rápida possível.
@@ -44,7 +41,7 @@ Se der merda, a sua parte estará sempre correta.. E seus colegas que se fodam.
 
 Os prazos passados pelo seu cliente são meros detalhes. Você SEMPRE conseguirá implementar TUDO no tempo necessário (nem que isso implique em acessar o BD por um script malaco)
 
-**8- Esteja preparado para pular fora quando o barco começar a afundar…**
+**8- Esteja preparado para pular fora quando o barco começar a afundar¿**
 
 Ou coloque a culpa em alguém ou algo. Pra quem usa XGH, um dia o barco afunda. Quanto mais o tempo passa, mais o sistema vira um monstro. O dia que a casa cair, é melhor seu curriculum estar cadastrado na APInfo, ou ter algo pra colocar a culpa
 
@@ -66,15 +63,15 @@ Colocar TUDO no código como uma promessa de melhoria ajuda o desenvolvedor XGH 
 
 **13- XGH é absoluto, não se prende à coisas relativas**
 
-Prazo e custo são absolutos, qualidade é totalmente relativa. Jamais pense na qualidade e sim no menor tempo que a solução será implementada, aliás… não pense, faça!
+Prazo e custo são absolutos, qualidade é totalmente relativa. Jamais pense na qualidade e sim no menor tempo que a solução será implementada, aliás¿ não pense, faça!
 
 **14- XGH é atemporal**
 
-Scrum, XP…Tudo isso é modinha. O XGH não se prende às modinhas do momento, isso é coisa de viado. XGH sempre foi e sempre será usado por aqueles que desprezam a qualidade
+Scrum, XP¿Tudo isso é modinha. O XGH não se prende às modinhas do momento, isso é coisa de viado. XGH sempre foi e sempre será usado por aqueles que desprezam a qualidade
 
 **15- XGH nem sempre é POG**
 
-Muitas POG’s exigem um raciocínio muito elevado, XGH não raciocina (Vide Axioma 1).
+Muitas POG¿s exigem um raciocínio muito elevado, XGH não raciocina (Vide Axioma 1).
 
 **16- Não tente remar contra a maré**
 

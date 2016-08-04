@@ -1,7 +1,6 @@
 ---
 title: Novas diferenças no Bazaar
-categories:
-- Controle de Fonte
+tags: [ "controle de fonte" ]
 ---
 
 Novidade incrível nas novas versões do Bazaar. Dando continuidade à sua versão <strike>boiola</strike> gráfica, agora é possível configurar quantos visualizadores de diferenças você quiser. Na hora de ver a diferença em algum código-fonte, você pode optar pelo <strike>enrustido</strike> embutido ou, no caso, o meu favorito, WinMerge.

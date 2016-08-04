@@ -1,7 +1,6 @@
 ---
 title: Cnasi, geração Y e seus gastos em TI
-categories:
-- Devaneando
+tags: [ "devaneando" ]
 ---
 
 [![Eu invadindo o sistema da Cnasi e me auto-promovendo gerente!](/images/cnasi-2008.jpg)](/images/cnasi-2008.jpg)Hoje descemos a rua para almoçar no shopping e aproveitamos para dar uma passada no último dia da feirinha de empresas de segurança, vulgo [Cnasi](http://www.cnasi.com.br/), para "prestigiar" a nossa participação nesse evento singular.

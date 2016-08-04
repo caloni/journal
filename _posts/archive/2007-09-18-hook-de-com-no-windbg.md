@@ -1,9 +1,6 @@
 ---
 title: Hook de COM no WinDbg
-categories:
-- Depuração
-- Engenharia Reversa
-- palestras
+tags: [ "depuração", "engenharia reversa", "palestras" ]
 ---
 Continuando com o tema [_hooks_ no WinDbg](http://www.caloni.com.br/blog/?s=hook+WinDbg), vamos aqui "hookear" e analisar as chamadas de métodos de um objeto COM. O que será feito aqui é o mesmo experimento feito para uma palestra de engenharia reversa que apresentei há um tempo atrás [1], mas com as opções de _pause_, _rewind_, _replay_ e câmera lenta habilitadas.
 

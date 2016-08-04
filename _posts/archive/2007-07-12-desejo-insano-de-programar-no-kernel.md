@@ -1,12 +1,6 @@
 ---
 title: Desejo insano de programar no kernel
-categories:
-- Devaneando
-tags:
-- kernel mode
-- profissão
-- programação
-- soluções
+tags: [ "devaneando", "kernel mode", "profissão", "programação", "soluções" ]
 ---
 
 Muitas vezes meus amigos (um em particular) me perguntam por que não me interesso em programar em _kernel mode_, como se isso fosse um objetivo a ser alcançado por qualquer programador em _user mode_. Bom, não é.

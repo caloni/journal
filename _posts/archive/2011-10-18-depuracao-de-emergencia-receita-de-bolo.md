@@ -1,11 +1,6 @@
 ---
 title: 'Depuração de emergência: receita de bolo'
-categories:
-- Depuração
-tags:
-- caso real
-- hands-on
-- windbg
+tags: [ "depuração", "caso real", "hands-on", "windbg" ]
 ---
 
 Continuando o papo sobre [o que fazer para analisar rapidamente um crash no servidor com o pacote WinDbg](http://www.caloni.com.br/depuracao-de-emergencia), na maioria das vezes a exceção lançada pelo processo está diretamente relacionada com um acesso indevido à memória, o que tem diversas vantagens sobre problemas mais complexos:
