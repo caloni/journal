@@ -3,7 +3,7 @@ title: 'MVP ShowCast 2013: C++11 e C++14 no Visual Studio 2013'
 tags: [ "blogging", "c++", "eventos", "c++", "eventos", "interatividade", "microsoft", "mvp", "palestras" ]
 ---
 
-[![ShowCast](http://farm4.staticflickr.com/3747/11157410456_0e97faa417_o.png)](http://www.flickr.com/photos/caloni/11157410456/)
+[![ShowCast](/images/11157410456_0e97faa417_o.png)](/images/11157410456_0e97faa417_o.png)
 
 Uma notícia meio relâmpago (leia "publicada tarde demais"): amanhã (Segunda-Feira, 02/12/2013) às 17:00 (horário de Brasília) será exibida uma web-palestra web-ao vivo pelo web-Strauss e moderada por web-mim. O assunto é: **todas as bugingangas novas que o recém-chegado Visual Studio 2013 suporta da (praticamente) nova linguagem C++11 (e seu amigo do futuro, C++14)**.
 
@@ -22,7 +22,7 @@ O evento foi realizado e gravado e em breve tanto o áudio quanto os slides esta
 Não foi uma palestra muito popular, talvez pelo dia/horário, mas tivemos a participação de cerca de 7 pessoas. A avaliação final não reflete isso, mas pudemos contar com uma série de perguntas pertinentes do participante Andre.
 
 
-[![PoolVS2013CPP11](http://farm4.staticflickr.com/3777/11187940606_b66ed27fc6_o.png)](http://www.flickr.com/photos/caloni/11187940606/)
+[![PoolVS2013CPP11](/images/11187940606_b66ed27fc6_o.png)](/images/11187940606_b66ed27fc6_o.png)
 
 
 

@@ -3,7 +3,7 @@ title: 2048 motivos para não programar
 tags: [ "código", "devaneando", "'2048'", "inteligência artificial", "jogos", "ócio" ]
 ---
 
-[![2048](https://farm8.staticflickr.com/7167/13989736784_92d49267fe_o.jpg)](https://www.flickr.com/photos/120157483@N04/13989736784/)
+[![2048](/images/13989736784_92d49267fe_o.jpg)](/images/13989736784_92d49267fe_o.jpg)
 
 Pronto, posso programar em paz. O jogo 2048 é uma lástima para todos os trabalhadores intelectuais que dependem de suas mentes para produzir algo que preste. Ele gerou mais posts no Hacker News do que a moda dos bitcoins (talvez não) e mais projetos no GitHub do que a busca para a cura do câncer (talvez não). (Obviamente que este post vai gerar [mais um commit Python no repositório de artigos](https://github.com/Caloni/Caloni.com.br).)
 

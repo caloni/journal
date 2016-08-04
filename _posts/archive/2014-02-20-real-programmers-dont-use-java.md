@@ -3,7 +3,7 @@ title: Real Programmers Don't Use Java
 tags: [ "devaneando", "english", "brincadeiras", "humor", "java", "sátira" ]
 ---
 
-[![real-programmer](https://farm8.staticflickr.com/7319/12645504174_342d92250f_o.png)](http://www.flickr.com/photos/caloni/12645504174/)
+[![real-programmer](/images/12645504174_342d92250f_o.png)](/images/12645504174_342d92250f_o.png)
 
 When I was a [newbie](http://www.caloni.com.br/o-passado-torto-de-um-programador-por-acaso) (and a [wanna-be](http://www.caloni.com.br/barata-eletrica-e-o-hacker-de-antigamente)) I enjoyed reading "[Real Programmers Don't Use Pascal](http://rixstep.com/2/2/20071015,00.shtml)", a satiric text that influenced and encouraged me into the path of "C/C++ enlightenment", most even than K&R's book. Since then I thought that being a "Real Programmer" was something close to everything one needs to know to get (hard) things done (quickly). Being a "Quiche Eater" was, in couterpart, comparable to nothing. Real Programmers solve real problems! Quiche Eaters are losers who study the academic concepts of computer science and never do a damn useful and/or working program (maybe you know some guy like this).
 

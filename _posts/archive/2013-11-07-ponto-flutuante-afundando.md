@@ -31,7 +31,7 @@ int main()
 
 Isso ocorre porque sua representação dentro da variável double é diferente de 272.0 do outro double. Depurando vemos mais claramente:
 
-[![Ponto Flutuante Afundando](http://farm4.staticflickr.com/3787/10726640115_76bdf8a8eb_o.png)](http://www.flickr.com/photos/caloni/10726640115/)
+[![Ponto Flutuante Afundando](/images/10726640115_76bdf8a8eb_o.png)](/images/10726640115_76bdf8a8eb_o.png)
 
 Ou seja, quando fazemos a subtração de d2 em d1, nossa precisão raspa um pouquinho e escapa pela beirada:
 
@@ -48,7 +48,7 @@ Ou seja, quando fazemos a subtração de d2 em d1, nossa precisão raspa um pouq
 
 Na comparação com o valor redondo aparece a falha, mas note que isso não ocorre com os outros valores d1 e d2, já que o armazenamento adquire o mesmo formato:
 
-[![Ponto Flutuante Afundando (2)](http://farm4.staticflickr.com/3692/10726739335_b353225b51_o.png)](http://www.flickr.com/photos/caloni/10726739335/)
+[![Ponto Flutuante Afundando (2)](/images/10726739335_b353225b51_o.png)](/images/10726739335_b353225b51_o.png)
 
 
 

@@ -3,7 +3,7 @@ title: 'Estruturas VS Classes: fight!'
 tags: [ "c++", "c++", "linguagem", "sintaxe" ]
 ---
 
-[![EpicRapBattleStructVcClass](https://farm6.staticflickr.com/5118/14250890913_37a06bf7a2_o.jpg)](https://www.flickr.com/photos/120157483@N04/14250890913/)
+[![EpicRapBattleStructVcClass](/images/14250890913_37a06bf7a2_o.jpg)](/images/14250890913_37a06bf7a2_o.jpg)
 
 
 
@@ -44,7 +44,7 @@ Ele compila e roda sem problemas:
 
 
 
-[![StructVsClass](https://farm3.staticflickr.com/2918/14230192924_fd9c2fb490_z.jpg)](https://www.flickr.com/photos/120157483@N04/14230192924/)
+[![StructVsClass](/images/14230192924_fd9c2fb490_z.jpg)](/images/14230192924_fd9c2fb490_z.jpg)
 
 
 
@@ -87,7 +87,7 @@ int main()
 
 
 
-[![StructVsClass-Construtor](https://farm6.staticflickr.com/5073/14230273964_89e37e2487_z.jpg)](https://www.flickr.com/photos/120157483@N04/14230273964/)
+[![StructVsClass-Construtor](/images/14230273964_89e37e2487_z.jpg)](/images/14230273964_89e37e2487_z.jpg)
 
 
 
@@ -148,7 +148,7 @@ int main()
 
 
 
-[![StructVsClassStructConstructor](https://farm6.staticflickr.com/5274/14207416246_60675f681a_z.jpg)](https://www.flickr.com/photos/120157483@N04/14207416246/)
+[![StructVsClassStructConstructor](/images/14207416246_60675f681a_z.jpg)](/images/14207416246_60675f681a_z.jpg)
 
 
 
@@ -189,7 +189,7 @@ int main()
 
 
 
-[![StructVsClassStreams](https://farm3.staticflickr.com/2934/14043966560_422ae353d9_z.jpg)](https://www.flickr.com/photos/120157483@N04/14043966560/)
+[![StructVsClassStreams](/images/14043966560_422ae353d9_z.jpg)](/images/14043966560_422ae353d9_z.jpg)
 
 
 

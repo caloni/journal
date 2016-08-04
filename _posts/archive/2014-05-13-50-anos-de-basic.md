@@ -3,7 +3,7 @@ title: 50 Anos de BASIC
 tags: [ "devaneando" ]
 ---
 
-[![Introdução Ilustrada à Computação](https://farm3.staticflickr.com/2912/14172567934_032b55ff79_o.jpg)](https://www.flickr.com/photos/120157483@N04/14172567934/)
+[![Introdução Ilustrada à Computação](/images/14172567934_032b55ff79_o.jpg)](/images/14172567934_032b55ff79_o.jpg)
 
 
 
@@ -33,7 +33,7 @@ A modalidade mais popular do BASIC quando me interessei pelo assunto rodava no W
 
 
 
-[![QuickBASIC](https://farm8.staticflickr.com/7400/13985881480_5efbd740fd_o.png)](https://www.flickr.com/photos/120157483@N04/13985881480/)
+[![QuickBASIC](/images/13985881480_5efbd740fd_o.png)](/images/13985881480_5efbd740fd_o.png)
 
 
 

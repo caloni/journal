@@ -97,11 +97,11 @@ tags: [ "blogging", "crashes", "dicas", "dumps", "suporte técnico" ]
 </table>
 Isso quer dizer que se:
 
-[![crash-me-build-and-run](http://farm6.staticflickr.com/5526/11346140275_d325e64ae9_o.png)](http://www.flickr.com/photos/caloni/11346140275/)
+[![crash-me-build-and-run](/images/11346140275_d325e64ae9_o.png)](/images/11346140275_d325e64ae9_o.png)
 
 Então:
 
-[![crash-me-run-and-dump](http://farm8.staticflickr.com/7414/11346236114_41457fcc65_o.png)](http://www.flickr.com/photos/caloni/11346236114/)
+[![crash-me-run-and-dump](/images/11346236114_41457fcc65_o.png)](/images/11346236114_41457fcc65_o.png)
 
 Fonte: [Collecting User-Mode Dumps (Windows)](http://msdn.microsoft.com/en-us/library/bb787181).
 

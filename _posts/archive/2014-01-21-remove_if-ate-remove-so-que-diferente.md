@@ -77,11 +77,11 @@ int main()
 ```
 
 
-[![RemoveIfErrado](http://farm4.staticflickr.com/3720/12056971746_f5852acde2_o.png)](http://www.flickr.com/photos/caloni/12056971746/)
+[![RemoveIfErrado](/images/12056971746_f5852acde2_o.png)](/images/12056971746_f5852acde2_o.png)
 
 Isso ocorre porque o comportamento do remove_if é copiar todos os elementos que retornem false (não remova) e pular elementos que retornem true (remova). No entanto, o tamanho do contêiner, e consequentemente seu ponteiro end(), permanecem o mesmo.
 
-[![RemoveIfComportamento](http://farm6.staticflickr.com/5485/12056450103_9cc50c00e2_o.png)](http://www.flickr.com/photos/caloni/12056450103/)
+[![RemoveIfComportamento](/images/12056450103_9cc50c00e2_o.png)](/images/12056450103_9cc50c00e2_o.png)
 
 De acordo com [o saite cplusplus.com](http://www.cplusplus.com/reference/algorithm/remove_if/), o algoritmo STL é previsível, simples, e por isso mesmo sujeito a otimizações do compilador:
 
@@ -158,6 +158,6 @@ int main()
 ```
 
 
-[![RemoveIfFunciona](http://farm8.staticflickr.com/7383/12059866914_0a75cb036a_o.png)](http://www.flickr.com/photos/caloni/12059866914/)
+[![RemoveIfFunciona](/images/12059866914_0a75cb036a_o.png)](/images/12059866914_0a75cb036a_o.png)
 
 Esse C++... intuitivo como nunca!

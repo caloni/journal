@@ -21,7 +21,7 @@ Basta um hack e [commit](http://pcottle.github.io/learnGitBranching/?NODEMO&defa
 
 
 
-[![Poker Jam](https://farm8.staticflickr.com/7344/14095237046_60ec978760_z.jpg)](https://www.flickr.com/photos/120157483@N04/14095237046/)
+[![Poker Jam](/images/14095237046_60ec978760_z.jpg)](/images/14095237046_60ec978760_z.jpg)
 
 
 
@@ -33,7 +33,7 @@ O problema reza que existem dois algoritmos para embaralhar uma sequência numé
 
 
 
-[![ProperShuffle](https://farm3.staticflickr.com/2897/14118925924_300b85ff4c_z.jpg)](https://www.flickr.com/photos/120157483@N04/14118925924/)
+[![ProperShuffle](/images/14118925924_300b85ff4c_z.jpg)](/images/14118925924_300b85ff4c_z.jpg)
 
 
 
@@ -45,7 +45,7 @@ A diferença entre o bom e o ruim é que o bom pega aleatoriamente apenas os ele
 
 
 
-[![Gráfico dos Algoritmos de Embaralhamento](https://farm8.staticflickr.com/7313/14142661623_f58729a795_z.jpg)](https://www.flickr.com/photos/120157483@N04/14142661623/)
+[![Gráfico dos Algoritmos de Embaralhamento](/images/14142661623_f58729a795_z.jpg)](/images/14142661623_f58729a795_z.jpg)
 
 
 
@@ -175,7 +175,7 @@ O que ele basicamente faz é acumular os resultados de três milhões de embaral
 
 
 
-[![Tabelona](https://farm8.staticflickr.com/7456/14123599874_2f3c14a3f6_z.jpg)](https://www.flickr.com/photos/120157483@N04/14123599874/)
+[![Tabelona](/images/14123599874_2f3c14a3f6_z.jpg)](/images/14123599874_2f3c14a3f6_z.jpg)
 
 
 

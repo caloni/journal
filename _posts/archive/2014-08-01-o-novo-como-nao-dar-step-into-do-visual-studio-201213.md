@@ -79,7 +79,7 @@ A boa nova, pelo menos para o Visual Studio 2013, é que agora é possível, se 
 
 
 
-[![Step Into Specific no Visual Studio 2013](https://farm3.staticflickr.com/2933/14786101612_688e12a363_c.jpg)](https://www.flickr.com/photos/120157483@N04/14786101612/)
+[![Step Into Specific no Visual Studio 2013](/images/14786101612_688e12a363_c.jpg)](/images/14786101612_688e12a363_c.jpg)
 
 
 

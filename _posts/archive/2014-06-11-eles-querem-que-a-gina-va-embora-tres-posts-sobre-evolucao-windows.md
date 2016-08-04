@@ -15,7 +15,7 @@ A primeira mudança técnica entre o Windows XP para o Windows Vista/7/8 que me 
 
 
 
-[![Windows XP dá as boas vindas](https://farm4.staticflickr.com/3871/14354351486_a296ee1352_z.jpg)](https://www.flickr.com/photos/120157483@N04/14354351486/)
+[![Windows XP dá as boas vindas](/images/14354351486_a296ee1352_z.jpg)](/images/14354351486_a296ee1352_z.jpg)
 
 
 
@@ -94,7 +94,7 @@ O problema que nossa equipe enfrentou era que toda a autenticação do sistema d
 
 
 
-[![gina](https://farm3.staticflickr.com/2919/14377533845_095c2016ec_m.jpg)](https://www.flickr.com/photos/120157483@N04/14377533845/)
+[![gina](/images/14377533845_095c2016ec_m.jpg)](/images/14377533845_095c2016ec_m.jpg)
 
 
 

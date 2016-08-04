@@ -26,7 +26,7 @@ Mas o que é [Trello](www.trello.com)? Basicamente é um TodoList feito da manei
 
 
 
-[![Atalhos do Trello](https://farm6.staticflickr.com/5579/14518444517_f550bb7bcb_o.png)](https://www.flickr.com/photos/120157483@N04/14518444517/)
+[![Atalhos do Trello](/images/14518444517_f550bb7bcb_o.png)](/images/14518444517_f550bb7bcb_o.png)
 
 
 
@@ -68,7 +68,7 @@ Depois disso, mesmo nessa página já é possível conseguir uma chave de acesso
 
 
 
-[![Pedindo autorização para o Trello](https://farm4.staticflickr.com/3880/14704960285_af9a772c2e_o.png)](https://www.flickr.com/photos/120157483@N04/14704960285/)
+[![Pedindo autorização para o Trello](/images/14704960285_af9a772c2e_o.png)](/images/14704960285_af9a772c2e_o.png)
 
 
 
@@ -121,7 +121,7 @@ As informações _AQUI_VAI_SUA_CHAVE_ e _AQUI_VAI_SEU_TOKEN_DE_ACESSO_ você já
 
 
 
-[![ID único de um Card](https://farm4.staticflickr.com/3858/14518342338_6f134a993d_o.png)](https://www.flickr.com/photos/120157483@N04/14518342338/)
+[![ID único de um Card](/images/14518342338_6f134a993d_o.png)](/images/14518342338_6f134a993d_o.png)
 
 
 
@@ -133,7 +133,7 @@ Basta usar o ID em Base64-ou-o-que-o-valha no lugar de _ID_DO_CARD_ que já esta
 
 
 
-[![Hello, World!](https://farm3.staticflickr.com/2927/14724898543_8b758cc7ac_o.png)](https://www.flickr.com/photos/120157483@N04/14724898543/)
+[![Hello, World!](/images/14724898543_8b758cc7ac_o.png)](/images/14724898543_8b758cc7ac_o.png)
 
 
 
@@ -157,7 +157,7 @@ Como o [GitHub](www.github.com) é um dos serviços de repositório de fontes ma
 
 
 
-[![Adicionando um WebHook ao GitHub](https://farm3.staticflickr.com/2915/14724974103_f8f8fb7e78_o.png)](https://www.flickr.com/photos/120157483@N04/14724974103/)
+[![Adicionando um WebHook ao GitHub](/images/14724974103_f8f8fb7e78_o.png)](/images/14724974103_f8f8fb7e78_o.png)
 
 
 
@@ -223,7 +223,7 @@ Agora é só testar. Posso pegar esse mesmo artigo e comitá-lo no [repositório
 
 
 
-[![Comitando o artigo para gerar evento que irá comentar no Trello para continuar este artigo que estou comitando..](https://farm6.staticflickr.com/5595/14702001611_acb9318ba7_o.png)](https://www.flickr.com/photos/120157483@N04/14702001611/)
+[![Comitando o artigo para gerar evento que irá comentar no Trello para continuar este artigo que estou comitando..](/images/14702001611_acb9318ba7_o.png)](/images/14702001611_acb9318ba7_o.png)
 
 
 
@@ -235,7 +235,7 @@ O que vai deixar você perplexo é entender como esse texto está sendo comitado
 
 
 
-[![Resultado do meu commit](https://farm4.staticflickr.com/3880/14518530070_25f639d741_o.png)](https://www.flickr.com/photos/120157483@N04/14518530070/)
+[![Resultado do meu commit](/images/14518530070_25f639d741_o.png)](/images/14518530070_25f639d741_o.png)
 
 
 
@@ -247,7 +247,7 @@ E o negócio é rápido, viu?
 
 
 
-[![E o negócio é rápido, viu?](https://farm4.staticflickr.com/3887/14518796667_9d4bcc159e_o.png)](https://www.flickr.com/photos/120157483@N04/14518796667/)
+[![E o negócio é rápido, viu?](/images/14518796667_9d4bcc159e_o.png)](/images/14518796667_9d4bcc159e_o.png)
 
 
 

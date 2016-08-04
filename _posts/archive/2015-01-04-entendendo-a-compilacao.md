@@ -4,7 +4,7 @@ tags: [ c++, código, compilação, preprocessamento, linkedição, linker, comp
 ---
 Esses slides foram compilados a pedido dos organizadores do TDC 2014, já que a palestra que ministrei com esse tema foi para ajudar meu amigo-sócio Rodrigo Strauss que não havia preparado nenhum slide a respeito.
 
-<a href="https://www.flickr.com/photos/120157483@N04/16012084700" title="Entendendo a Compilação by Wanderley Caloni, on Flickr"><img src="https://farm9.staticflickr.com/8634/16012084700_545179bfde_z.jpg" alt="Entendendo a Compilação"></a>
+<a href="/images/16012084700_545179bfde_z.jpg" title="Entendendo a Compilação by Wanderley Caloni, on Flickr"><img src="/images/16012084700_545179bfde_z.jpg" alt="Entendendo a Compilação"></a>
 
 Felizmente eu já havia explicado alguns conceitos-chave para quem programa em C/C++ e precisa -- eu disse: PRECISA -- conhecer todo o passo-a-passo que leva o seu código-fonte a gerar um executável com código de máquina pronto para rodar.
 

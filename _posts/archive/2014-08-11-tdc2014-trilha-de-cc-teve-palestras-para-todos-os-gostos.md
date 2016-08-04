@@ -29,7 +29,7 @@ O negócio é que tivemos um dia bem atípico, com direito a lotação (!) de no
 
 
 
-[![Dando um push_back nos vetores da sala](https://farm6.staticflickr.com/5589/14901894403_ae4e4fba9b_z.jpg)](https://www.flickr.com/photos/120157483@N04/14901894403)
+[![Dando um push_back nos vetores da sala](/images/14901894403_ae4e4fba9b_z.jpg)](/images/14901894403_ae4e4fba9b_z.jpg)
 
 
 
