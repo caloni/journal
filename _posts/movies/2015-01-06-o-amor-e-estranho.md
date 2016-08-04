@@ -1,4 +1,5 @@
 ---
+tags: [ "cabine" ]
 imdb: "2639344"
 title: "O Amor é Estranho"
 stars: "4/5"

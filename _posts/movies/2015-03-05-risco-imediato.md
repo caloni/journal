@@ -1,4 +1,5 @@
 ---
+tags: [ "cabine" ]
 imdb: "1361318"
 title: "Risco Imediato"
 stars: "3/5"

@@ -1,4 +1,5 @@
 ---
+tags: [ "cabine" ]
 imdb: "2650414"
 title: "Amor, Plástico e Barulho"
 stars: "4/5"

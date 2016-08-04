@@ -1,4 +1,5 @@
 ---
+tags: [ "cabine" ]
 imdb: "3019796"
 title: "As Férias do Pequeno Nicolau"
 stars: "4/5"

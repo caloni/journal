@@ -1,4 +1,5 @@
 ---
+tags: [ "cabine" ]
 imdb: "2139555"
 title: "Deixa Rolar"
 stars: "3/5"

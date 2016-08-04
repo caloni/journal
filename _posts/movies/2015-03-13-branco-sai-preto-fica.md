@@ -1,4 +1,5 @@
 ---
+tags: [ "cabine" ]
 title: "Branco Sai, Preto Fica"
 imdb: "4287610"
 stars: "3/5"

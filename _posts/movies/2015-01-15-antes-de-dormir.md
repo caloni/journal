@@ -1,4 +1,5 @@
 ---
+tags: [ "cabine" ]
 imdb: "1726592"
 title: "Antes de Dormir"
 stars: "3/5"

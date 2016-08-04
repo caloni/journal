@@ -1,4 +1,5 @@
 ---
+tags: [ "cabine" ]
 imdb: "4667094"
 stars: "3/5"
 category: "movies"
