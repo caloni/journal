@@ -17,7 +17,10 @@ O conteúdo e a palestra está no [GitHub](https://github.com/Caloni/StackOverfl
 
 _PS: Ah, esqueci. Também fiz um vídeo para complementar o conteúdo da palestra. Segue:_
 
-<iframe width="100%" src="https://www.youtube.com/embed/kSKQQDTBRXQ?list=PLa0QVTprDkHBz6fjuzy4kU1iTLUnRWkeW" frameborder="0" allowfullscreen></iframe>
+<div class="video_container" style="position:relative;width:100%;height:0;padding-bottom:56.25%">
+<iframe src="https://www.youtube.com/embed/kSKQQDTBRXQ?list=PLa0QVTprDkHBz6fjuzy4kU1iTLUnRWkeW" frameborder="0" allowfullscreen class="video_youtube"></iframe>
+</div>
+
 
 # Sobre ataques que mexem com a pilha
 
