@@ -152,16 +152,16 @@ def PublishToSocialMedia(post):
                 print "Exception in shortener, waiting: ", str(e)
                 lastShortener = 'Google' if lastShortener != 'Google' else 'Tinyurl'
 
+        webbrowser.open_new_tab(link)
         print 'press any key to continue and publish...'
         m.getch()
         print '*** Publishing to Twitter'
-        #PublishToTwitter(postInfo)
-        #print '*** Publishing to Facebook'
-        #PublishToFacebook(postInfo)
-        #print '*** Done!'
-        #webbrowser.open_new_tab(link)
-        #webbrowser.open_new_tab('https://www.facebook.com/bloguedocaloni/')
-        #webbrowser.open_new_tab('https://tweetdeck.twitter.com/')
+        PublishToTwitter(postInfo)
+        print '*** Publishing to Facebook'
+        PublishToFacebook(postInfo)
+        print '*** Done!'
+        webbrowser.open_new_tab('https://www.facebook.com/bloguedocaloni/')
+        webbrowser.open_new_tab('https://tweetdeck.twitter.com/')
         for i in glob.glob('*.jpg'):
             os.remove(i)
         for i in glob.glob('*.png'):
