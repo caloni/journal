@@ -1,5 +1,5 @@
 ---
-category: "series"
+category: "blog"
 imdb: "3190448"
 stars: "4/5"
 title: "Metástasis"

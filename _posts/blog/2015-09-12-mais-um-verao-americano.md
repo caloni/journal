@@ -1,5 +1,5 @@
 ---
-category: "series"
+category: "blog"
 imdb: "4341500"
 stars: "2/5"
 title: "Mais um Verão Americano"

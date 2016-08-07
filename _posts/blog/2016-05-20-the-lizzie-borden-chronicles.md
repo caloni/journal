@@ -1,5 +1,5 @@
 ---
-category: "series"
+category: "blog"
 imdb: "4145760"
 stars: "2/5"
 title: "The Lizzie Borden Chronicles"

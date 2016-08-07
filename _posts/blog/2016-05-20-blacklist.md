@@ -2,7 +2,7 @@
 imdb: "2741602"
 stars: "3/5"
 title: "Blacklist"
-category: "series"
+category: "blog"
 _title: "The Blacklist"
 _year: "2013"
 _director: ["Michael W. Watkins", "Steven A. Adelson", "Andrew McCarthy", "Karen Gaviola", "Joe Carnahan", "Donald E. Thorin Jr.", "Vincent Misiano", "David Platt", "Paul A. Edwards", ]

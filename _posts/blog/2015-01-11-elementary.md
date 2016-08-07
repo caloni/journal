@@ -1,5 +1,5 @@
 ---
-category: "series"
+category: "blog"
 imdb: "2191671"
 stars: "3/5"
 title: "Elementary"

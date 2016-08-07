@@ -1,5 +1,5 @@
 ---
-category: "series"
+category: "blog"
 imdb: "1442437"
 stars: "3/5"
 title: "Modern Family"

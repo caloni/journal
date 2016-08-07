@@ -2,7 +2,7 @@
 imdb: "3205802"
 stars: "3/5"
 title: "How to Get Away with Murder"
-category: "series"
+category: "blog"
 _title: "How to Get Away with Murder"
 _year: "2014"
 _director: ["Bill D'Elia", "Mike Listo", "Laura Innes", "Michael Offer", "Stephen Williams", ]
