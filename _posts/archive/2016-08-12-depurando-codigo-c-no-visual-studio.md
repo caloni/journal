@@ -12,4 +12,4 @@ Pra começo de conversa, é importante ressaltar que este é um vídeo introdut�
 
 Acho que não foi o caso. De qualquer forma, o vídeo acima tem o potencial de funcionar em quase qualquer versão do Visual Studio. Portanto, não se acanhe se ainda está mexendo em projetinhos jurássicos com o .NET 2003 (eu estou, mas só abro em emergência). Tudo deve funcionar exatamente como está no vídeo.
 
-Ou não. Nesse caso, ![RTFM](https://en.wikipedia.org/wiki/RTFM) ou comente aqui =)
+Ou não. Nesse caso, ![https://en.wikipedia.org/wiki/RTFM](RTFM) ou comente aqui =)
