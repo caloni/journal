@@ -47,7 +47,7 @@ def PublishToTwitter(postInfo):
     """
     t = twitter.Twitter(auth=twitter_credentials.auth)
     
-    with open("C:\\projects\\caloni.github.io\\_posts\\" + postInfo["screenshot"], "rb") as imagefile:
+    with open(postInfo["screenshot"], "rb") as imagefile:
     	imagedata = imagefile.read()
     t_up = twitter.Twitter(domain='upload.twitter.com', auth=twitter_credentials.auth)
     id_img1 = t_up.media.upload(media=imagedata)["media_id_string"]
@@ -61,7 +61,7 @@ def PublishToFacebook(postInfo):
     """
     http://nodotcom.org/python-facebook-tutorial.html
     """
-    with open("C:\\projects\\caloni.github.io\\_posts\\" + postInfo["screenshot"], "rb") as imagefile:
+    with open(postInfo["screenshot"], "rb") as imagefile:
     	imagedata = imagefile.read()
 
     st = postInfo['title'] + '\n\n' + postInfo['paragraph'] + '\n\n' + baseUrl + postInfo['permalink']
@@ -97,6 +97,8 @@ def PushChanges(postInfo):
 
 
 def FindPostImageAndPrepare(postInfo):
+    lastDir = os.getcwd()
+    os.chdir("c:\screenshots")
     ScreenshotBaseWidth = 725
     def GetImgPath():
         imgs = glob.glob('*.jpg')
@@ -117,7 +119,8 @@ def FindPostImageAndPrepare(postInfo):
         img.save(newPath)
         if origPath != newPath:
             os.remove(origPath)
-        postInfo['screenshot'] = newPath
+        postInfo['screenshot'] = os.getcwd() + '\\' + newPath
+    os.chdir(lastDir)
 
 def PublishToSocialMedia(post):
     print 'Publishing ' + post + '...'
@@ -126,7 +129,7 @@ def PublishToSocialMedia(post):
         print '*** Getting post info'
         postInfo = GetPostInfo(post)
         webbrowser.open_new_tab('https://www.google.com.br/search?q=' + postInfo['title'] + '&tbm=isch')
-        subprocess.Popen('explorer "C:\\projects\\caloni.github.io\\_posts"')
+        subprocess.Popen('explorer "C:\\screenshots"')
         print 'press any key to continue...'
         m.getch()
         print '*** Preparing image'
@@ -160,12 +163,11 @@ def PublishToSocialMedia(post):
         #PublishToTwitter(postInfo)
         print '*** Publishing to Facebook'
         #PublishToFacebook(postInfo)
-        with open("C:\\projects\\caloni.github.io\\_posts\\" + postInfo["screenshot"], "rb") as imagefile:
+        with open(postInfo["screenshot"], "rb") as imagefile:
         	imagedata = imagefile.read()
         print '*** Done!'
         webbrowser.open_new_tab('https://www.facebook.com/bloguedocaloni/')
         webbrowser.open_new_tab('https://tweetdeck.twitter.com/')
-        shutil.move(postInfo['screenshot'], 'c:\screenshots')
     except Exception as e:
         print '*** Something gone wrong!'
         if afterMove == True:
