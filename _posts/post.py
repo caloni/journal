@@ -47,7 +47,7 @@ def PublishToTwitter(postInfo):
     """
     t = twitter.Twitter(auth=twitter_credentials.auth)
     
-    with open("C:\\projects\\caloni.github.io\\images\\" + postInfo["screenshot"], "rb") as imagefile:
+    with open("C:\\projects\\caloni.github.io\\_posts\\" + postInfo["screenshot"], "rb") as imagefile:
     	imagedata = imagefile.read()
     t_up = twitter.Twitter(domain='upload.twitter.com', auth=twitter_credentials.auth)
     id_img1 = t_up.media.upload(media=imagedata)["media_id_string"]
@@ -61,7 +61,7 @@ def PublishToFacebook(postInfo):
     """
     http://nodotcom.org/python-facebook-tutorial.html
     """
-    with open("C:\\projects\\caloni.github.io\\images\\" + postInfo["screenshot"], "rb") as imagefile:
+    with open("C:\\projects\\caloni.github.io\\_posts\\" + postInfo["screenshot"], "rb") as imagefile:
     	imagedata = imagefile.read()
 
     st = postInfo['title'] + '\n\n' + postInfo['paragraph'] + '\n\n' + baseUrl + postInfo['permalink']
@@ -165,7 +165,7 @@ def PublishToSocialMedia(post):
         print '*** Done!'
         webbrowser.open_new_tab('https://www.facebook.com/bloguedocaloni/')
         webbrowser.open_new_tab('https://tweetdeck.twitter.com/')
-        os.remove(postInfo['screenshot'])
+        shutil.move(postInfo['screenshot'], 'c:\screenshots')
     except Exception as e:
         print '*** Something gone wrong!'
         if afterMove == True:
