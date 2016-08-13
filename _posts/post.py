@@ -142,12 +142,13 @@ def PublishToSocialMedia(post):
         webbrowser.open_new_tab(link)
         print 'press any key to continue and publish...'
         m.getch()
-        print '*** Publishing to Twitter'
-        #PublishToTwitter(postInfo)
-        print '*** Publishing to Facebook'
-        #PublishToFacebook(postInfo)
+        # Testing image first
         with open(postInfo["screenshot"], "rb") as imagefile:
         	imagedata = imagefile.read()
+        print '*** Publishing to Twitter'
+        PublishToTwitter(postInfo)
+        print '*** Publishing to Facebook'
+        PublishToFacebook(postInfo)
         print '*** Done!'
         webbrowser.open_new_tab('https://www.facebook.com/bloguedocaloni/')
         webbrowser.open_new_tab('https://tweetdeck.twitter.com/')
