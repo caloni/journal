@@ -97,30 +97,12 @@ def PushChanges(postInfo):
 
 
 def FindPostImageAndPrepare(postInfo):
-    lastDir = os.getcwd()
-    os.chdir("c:\screenshots")
+    img = Image.open(postInfo['screenshot'])
     ScreenshotBaseWidth = 725
-    def GetImgPath():
-        imgs = glob.glob('*.jpg')
-        if len(imgs) > 0:
-            return imgs[0]
-        imgs = glob.glob('*.png')
-        if len(imgs) > 0:
-            return imgs[0]
-        return None
-
-    origPath = GetImgPath()
-    if origPath:
-        newPath = postInfo['permalink'] + origPath[-4:]
-        img = Image.open(origPath)
-        wpercent = (ScreenshotBaseWidth/float(img.size[0]))
-        hsize = int((float(img.size[1])*float(wpercent)))
-        img = img.resize((ScreenshotBaseWidth, hsize), Image.ANTIALIAS)
-        img.save(newPath)
-        if origPath != newPath:
-            os.remove(origPath)
-        postInfo['screenshot'] = os.getcwd() + '\\' + newPath
-    os.chdir(lastDir)
+    wpercent = (ScreenshotBaseWidth/float(img.size[0]))
+    hsize = int((float(img.size[1])*float(wpercent)))
+    img = img.resize((ScreenshotBaseWidth, hsize), Image.ANTIALIAS)
+    img.save(postInfo['screenshot'])
 
 def PublishToSocialMedia(post):
     print 'Publishing ' + post + '...'
@@ -130,7 +112,8 @@ def PublishToSocialMedia(post):
         postInfo = GetPostInfo(post)
         webbrowser.open_new_tab('https://www.google.com.br/search?q=' + postInfo['title'] + '&tbm=isch')
         subprocess.Popen('explorer "C:\\screenshots"')
-        print 'press any key to continue...'
+        postInfo['screenshot'] = r'c:\screenshots\screenshot.jpg'
+        print 'rename your screenshot image as c:\\screenshots\\screenshot.jpg and press any key to continue...'
         m.getch()
         print '*** Preparing image'
         FindPostImageAndPrepare(postInfo)
