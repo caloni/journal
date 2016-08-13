@@ -47,7 +47,7 @@ def PublishToTwitter(postInfo):
     """
     t = twitter.Twitter(auth=twitter_credentials.auth)
     
-    with open("C:\\projects\\caloni.github.io\\images\\" + postInfo["permalink"] + ".jpg", "rb") as imagefile:
+    with open("C:\\projects\\caloni.github.io\\images\\" + postInfo["screenshot"], "rb") as imagefile:
     	imagedata = imagefile.read()
     t_up = twitter.Twitter(domain='upload.twitter.com', auth=twitter_credentials.auth)
     id_img1 = t_up.media.upload(media=imagedata)["media_id_string"]
@@ -61,7 +61,7 @@ def PublishToFacebook(postInfo):
     """
     http://nodotcom.org/python-facebook-tutorial.html
     """
-    with open("C:\\projects\\caloni.github.io\\images\\" + postInfo["permalink"] + ".jpg", "rb") as imagefile:
+    with open("C:\\projects\\caloni.github.io\\images\\" + postInfo["screenshot"], "rb") as imagefile:
     	imagedata = imagefile.read()
 
     st = postInfo['title'] + '\n\n' + postInfo['paragraph'] + '\n\n' + baseUrl + postInfo['permalink']
@@ -117,6 +117,7 @@ def FindPostImageAndPrepare(postInfo):
         img.save(newPath)
         if origPath != newPath:
             os.remove(origPath)
+        postInfo['screenshot'] = newPath
 
 def PublishToSocialMedia(post):
     print 'Publishing ' + post + '...'
@@ -156,16 +157,15 @@ def PublishToSocialMedia(post):
         print 'press any key to continue and publish...'
         m.getch()
         print '*** Publishing to Twitter'
-        PublishToTwitter(postInfo)
+        #PublishToTwitter(postInfo)
         print '*** Publishing to Facebook'
-        PublishToFacebook(postInfo)
+        #PublishToFacebook(postInfo)
+        with open("C:\\projects\\caloni.github.io\\images\\" + postInfo["screenshot"], "rb") as imagefile:
+        	imagedata = imagefile.read()
         print '*** Done!'
         webbrowser.open_new_tab('https://www.facebook.com/bloguedocaloni/')
         webbrowser.open_new_tab('https://tweetdeck.twitter.com/')
-        for i in glob.glob('*.jpg'):
-            os.remove(i)
-        for i in glob.glob('*.png'):
-            os.remove(i)
+        os.remove(postInfo['screenshot'])
     except Exception as e:
         print '*** Something gone wrong!'
         if afterMove == True:
