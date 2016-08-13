@@ -160,7 +160,7 @@ def PublishToSocialMedia(post):
         #PublishToTwitter(postInfo)
         print '*** Publishing to Facebook'
         #PublishToFacebook(postInfo)
-        with open("C:\\projects\\caloni.github.io\\images\\" + postInfo["screenshot"], "rb") as imagefile:
+        with open("C:\\projects\\caloni.github.io\\_posts\\" + postInfo["screenshot"], "rb") as imagefile:
         	imagedata = imagefile.read()
         print '*** Done!'
         webbrowser.open_new_tab('https://www.facebook.com/bloguedocaloni/')
