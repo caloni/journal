@@ -172,6 +172,6 @@ def PublishToSocialMedia(post):
             shutil.move('archive\\' + post, '.')
         raise
 
-for post in sys.argv[1:]:
-    PublishToSocialMedia(post)
-
+if __name__ == "__main__":
+    for post in sys.argv[1:]:
+        PublishToSocialMedia(post)
