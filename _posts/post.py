@@ -12,7 +12,7 @@ import webbrowser
 import msvcrt as m
 from pyshorteners import Shortener
 
-sys.path.append(r'C:\Users\Wanderley\OneDrive\Backup\Docs\Pwd')
+sys.path.append(r'c:\users\wanderley\.pwd')
 import twitter_cinetenisverde as twitter_credentials
 import facebook_cinetenisverde as facebook_credentials
 

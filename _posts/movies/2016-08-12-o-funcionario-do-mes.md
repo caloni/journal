@@ -3,6 +3,7 @@ category: "movies"
 imdb: "5290524"
 stars: "4/5"
 title: "O Funcionário do Mês"
+tags: [ "cabine" ]
 _title: "Quo vado?"
 _year: "2016"
 _director: ["Gennaro Nunziante", ]
