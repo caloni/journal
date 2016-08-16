@@ -34,7 +34,8 @@
     <div class="site">
       <div class="sidebar" id="sidebar">
         <div class="header">
-          <h1 class="title"><a href="/posts">Blogue do Caloni</a><a href="/"><img id="logo" src="/images/logo.png"></a></h1>
+          <h1 class="title"><a href="/posts">Blogue do Caloni</a><a href="/"></h1>
+          <div style="margin-top: 5px;"><img id="logo" src="/images/logo.png"></a></div>
           <h2>{{ page.title }}</h2>
           <h5>{% if page.date %}{{ page.date | date_to_string }}{% endif %}</h5>
         </div>
@@ -48,7 +49,7 @@
          {% endif %}
 
          <a title="Posts" href="/posts" style="color: black; font-size: 1.5em;">
-         <img src="/favicon.png" width="16" height="16" title="Busca"/></a>
+         <img src="/images/search.png" width="16" height="16" title="Busca"/></a>
 
          {% if page.previous.url %}
          <a class="prev" style="color: black;" title="Anterior" href="{{page.previous.url}}"><b>&gt;&gt;</b></a>
@@ -75,6 +76,12 @@
          <span style="margin: 3px;">
          <a href="http://feeds.feedburner.com/caloni" class="footer-link">
          <img src="/images/feed.png" title="Feed"/></a></span>
+
+         <span style="margin: 3px;">
+         <a title="BitForge" href="/bitforge" style="color: black; font-size: 1.5em;">
+         <img src="/images/bitforge.png" width="16" height="16" title="Sobre a BitForge"/></a>
+         </span>
+
         </div>
       </div>
 
