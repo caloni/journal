@@ -37,13 +37,7 @@
         <div class="header-navigation">
         <div><a href="/"><img id="logo" src="/favicon.png"></a></div>
     <span>
-         {% if page.next.url %}
-         <a class="next" style="color: black; font-size: 1.5em" title="Próximo" href="{{page.next.url}}"><b>&lt;&lt;</b></a>
-         {% endif %}
     <a href="/posts" style="font-size: 1.5em;">Cine Tênis Verde</a>
-         {% if page.previous.url %}
-         <a class="prev" style="color: black; font-size: 1.5em" title="Anterior" href="{{page.previous.url}}"><b>&gt;&gt;</b></a>
-         {% endif %}
     </span>
         </div>
         </div>
@@ -55,6 +49,22 @@
        <p style="font-size: 1.0em;"><i>{% if page._countries %}{{ page._countries | join: ', ' }}. {% endif %}{% if page._year %}{{ page._year }}. {% else %}{% endif %}{% if page._director %} Direção: {{ page._director | join: ', ' }}.{% endif %}{% if page._writer %} Roteiro: {{ page._writer | join: ', ' }}.{% endif %}{% if page._cast %} Elenco: {{ page._cast | join: ', ' }}.{% endif %}{% if page._editor %} Edição: {{ page._editor | join: ', ' }}.{% endif %}{% if page._cinematographer %} Fotografia: {{ page._cinematographer | join: ', ' }}.{% endif %}{% if page._music %} Trilha Sonora: {{ page._music | join: ', ' }}.{% endif %}{% if page._runtimes %} Duração: {{ page._runtimes | join: ', ' }}.{% endif %}{% if page._ratio %} Aspecto: {{ page._ratio }}.{% endif %}{% if page._genres %} {{ page._genres | join: ', ' }}.{% endif %}</i></p>
        </div>
        <div style="margin-top: 20px; text-align: right; font-size: 1.5em;">
+
+         {% if page.next.url %}
+         <span style="margin: 0px;">
+         <a class="next" style="color: black; font-size: 1em" title="Próximo" href="{{page.next.url}}"><b>&lt;&lt;</b></a>
+         </span>
+         {% endif %}
+
+         <span style="margin: 3px;">
+         <a href="/posts" class="footer-link">
+         <img src="/images/search.png" title="Busca"/></a></span>
+
+         {% if page.previous.url %}
+         <span style="margin: 0px;">
+         <a class="prev" style="color: black; font-size: 1em" title="Anterior" href="{{page.previous.url}}"><b>&gt;&gt;</b></a>
+         </span>
+         {% endif %}
 
          {% if page._title %}<span id="social"><a title="Rotten Tomatoes" href="http://www.rottentomatoes.com/search/?search={{ page._title }}">
          <img src="/images/rotten_tomatoes.png"/></a></span>{% endif %}
