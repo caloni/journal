@@ -1,5 +1,5 @@
 ---
-category: "movies"
+category: "series"
 imdb: "2357547"
 stars: "3/5"
 title: "Jessica Jones"
