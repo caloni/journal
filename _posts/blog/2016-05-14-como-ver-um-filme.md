@@ -2,6 +2,7 @@
 category: "blog"
 title: "Como Ver Um Filme"
 stars: "4/5"
+tags: [ "livro" ]
 _director: ["Ana Maria Bahiana", ]
 _year: "2012"
 ---
