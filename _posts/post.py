@@ -13,8 +13,8 @@ import msvcrt as m
 from pyshorteners import Shortener
 
 sys.path.append(r'c:\users\wanderley\.pwd')
-import twitter_caloni as twitter_credentials
-import facebook_caloni as facebook_credentials
+import twitter_bitforge as twitter_bitforge_credentials
+import facebook_bitforge as facebook_bitforge_credentials
 
 
 baseUrl = 'http://www.caloni.com.br/' 
@@ -41,15 +41,15 @@ def WebPageExists(url):
     return True
 
 
-def PublishToTwitter(postInfo):
+def PublishToTwitter(postInfo, credentials = twitter_bitforge_credentials):
     """
     https://pypi.python.org/pypi/twitter
     """
-    t = twitter.Twitter(auth=twitter_credentials.auth)
+    t = twitter.Twitter(auth=credentials.auth)
     
     with open(postInfo["screenshot"], "rb") as imagefile:
     	imagedata = imagefile.read()
-    t_up = twitter.Twitter(domain='upload.twitter.com', auth=twitter_credentials.auth)
+    t_up = twitter.Twitter(domain='upload.twitter.com', auth=credentials.auth)
     id_img1 = t_up.media.upload(media=imagedata)["media_id_string"]
     st = postInfo['title'] + '\n' + postInfo['shortlink'].encode('utf-8')
     if len(st) > 120: # giving space to image attachment
@@ -57,7 +57,7 @@ def PublishToTwitter(postInfo):
     t.statuses.update(status=st, media_ids=",".join([id_img1]))
 
 
-def PublishToFacebook(postInfo):
+def PublishToFacebook(postInfo, credentials = facebook_bitforge_credentials):
     """
     http://nodotcom.org/python-facebook-tutorial.html
     """
@@ -65,7 +65,7 @@ def PublishToFacebook(postInfo):
     	imagedata = imagefile.read()
 
     st = postInfo['title'] + '\n\n' + postInfo['paragraph'] + '\n\n' + baseUrl + postInfo['permalink']
-    post = facebook_credentials.auth.put_photo(image=imagedata, message=st)
+    post = credentials.auth.put_photo(image=imagedata, message=st)
 
 
 def GetPostInfo(post):
@@ -146,11 +146,11 @@ def PublishToSocialMedia(post):
         with open(postInfo["screenshot"], "rb") as imagefile:
         	imagedata = imagefile.read()
         print '*** Publishing to Twitter'
-        PublishToTwitter(postInfo)
+        PublishToTwitter(postInfo, twitter_bitforge_credentials)
         print '*** Publishing to Facebook'
-        PublishToFacebook(postInfo)
+        PublishToFacebook(postInfo, facebook_bitforge_credentials)
         print '*** Done!'
-        webbrowser.open_new_tab('https://www.facebook.com/bloguedocaloni/')
+        webbrowser.open_new_tab('https://www.facebook.com/bitforge/')
         webbrowser.open_new_tab('https://tweetdeck.twitter.com/')
     except Exception as e:
         print '*** Something gone wrong!'
