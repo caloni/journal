@@ -1,12 +1,12 @@
 <div class="content" id="home">
   <div id="sidebar-button">
     <span><img id="logo" src="/favicon.png">
-         {% if page.next.url %}
-         <a class="next" style="color: black; font-size: 2em" title="Próximo" href="{{page.next.url}}"><b>&lt;&lt;</b></a>
+         {% if page.previous.url %}
+         <a class="prev" style="color: black; font-size: 2em" title="Anterior" href="{{page.previous.url}}"><b>&lt;&lt;</b></a>
          {% endif %}
     <a href="/posts" style="font-size: 2em;">Cine Tênis Verde</a>
-         {% if page.previous.url %}
-         <a class="prev" style="color: black; font-size: 2em" title="Anterior" href="{{page.previous.url}}"><b>&gt;&gt;</b></a>
+         {% if page.next.url %}
+         <a class="next" style="color: black; font-size: 2em" title="Próximo" href="{{page.next.url}}"><b>&gt;&gt;</b></a>
          {% endif %}
     </span>
   </div>
