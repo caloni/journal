@@ -68,8 +68,8 @@ CineTenisVerde é um projeto de um futuro crítico de Cinema (eu) que, após se 
    - "Mapas para as Estrelas"
    - "Super Velozes, Mega Furiosos"
    - "O Homem Que Elas Amavam Demais"
- - Listar filmes por tags ou categories.
  - Filtro mais rebuscado do que a versão anterior (estilo o saite do RogetEbert, mas mais style).
- - Linkar um filme no outro (automagicamente).
+ - Linkar um filme no outro (automagicamente?).
  - Criar páginas para cineastas (e linká-los através do nome).
+ - Criar páginas para conceitos da sétima arte (e linká-los através do nome).
  - Suporte a buscas mais refinadas que as do Google (ex: qual filme que contracenam fulano e beltrano juntos?)
