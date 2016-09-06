@@ -27,18 +27,18 @@ testSuite(DayToDayTests)
 // Se eu digito uma linha, ela deve estar no arquivo daytoday.txt.
 testCase(GetUmaLinha, DayToDayTests)
 {
-     //...
-	bool lineOk = TestAlgumaCoisa();
-	assertTrue(lineOk);
+    //...
+    bool lineOk = TestAlgumaCoisa();
+    assertTrue(lineOk);
 }
 
 
 // Se eu digito duas linhas, ambas devem estar no arquivo daytoday.txt.
 testCase(GeraDuasLinhas, DayToDayTests)
 {
-     //...
-	bool lineOk = TestOutraCoisa();
-	assertTrue(lineOk);
+    //...
+    bool lineOk = TestOutraCoisa();
+    assertTrue(lineOk);
 }
 ```
 
