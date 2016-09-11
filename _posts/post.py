@@ -61,7 +61,7 @@ def PublishToTwitter(postInfo):
     	imagedata = imagefile.read()
     t_up = twitter.Twitter(domain='upload.twitter.com', auth=twitter_credentials.auth)
     id_img1 = t_up.media.upload(media=imagedata)["media_id_string"]
-    stars = PrintStars(postInfo['stars'])
+    stars = PrintStars(postInfo['stars']) if postInfo.has_key('stars') else ''
     st = stars + ' ' + postInfo['title'] + ' ' + postInfo['shortlink'].encode('utf-8')
     t.statuses.update(status=st, media_ids=",".join([id_img1]))
 
@@ -73,7 +73,7 @@ def PublishToFacebook(postInfo):
     with open("C:\\projects\\cinetenisverde.github.io\\images\\screenshots\\" + postInfo["permalink"] + ".jpg", "rb") as imagefile:
     	imagedata = imagefile.read()
 
-    stars = PrintStars(postInfo['stars'])
+    stars = PrintStars(postInfo['stars']) if postInfo.has_key('stars') else ''
     st = stars + ' ' + postInfo['title'] + '\n\n' + postInfo['paragraph'] + '\n\n' + 'http://www.cinetenisverde.com.br/' + postInfo['permalink']
     post = facebook_credentials.auth.put_photo(image=imagedata, message=st)
 
