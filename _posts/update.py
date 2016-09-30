@@ -97,6 +97,15 @@ def writereview(filePath, header, review, imdbData):
       if cl == l: break
     f.write(']\n')
 
+  def writecastarray(f, a, n, l = 10):
+    cl = 1
+    f.write(n + ': [')
+    for i in a:
+      f.write('"' + i['name'].encode('utf-8') + ' (' + i.currentRole['name'].encode('utf-8') + ')", ')
+      cl = cl + 1
+      if cl == l: break
+    f.write(']\n')
+
   f = open(filePath, 'w')
   f.write('---\n')
   for k, v in header.iteritems():
@@ -113,7 +122,7 @@ def writereview(filePath, header, review, imdbData):
   if imdbData.has_key('year'): write(f, imdbData['year'], '_year')
   if imdbData.has_key('director'): writearray(f, imdbData['director'], '_director')
   if imdbData.has_key('writer'): writearray(f, imdbData['writer'], '_writer')
-  if imdbData.has_key('cast'): writearray(f, imdbData['cast'], '_cast')
+  if imdbData.has_key('cast'): writecastarray(f, imdbData['cast'], '_cast')
   if imdbData.has_key('countries'): writesimplearray(f, imdbData['countries'], '_countries')
   if imdbData.has_key('languages'): writesimplearray(f, imdbData['languages'], '_languages')
   if imdbData.has_key('editor'): writearray(f, imdbData['editor'], '_editor')
