@@ -160,5 +160,6 @@ def _resizeimage(imgPath):
   img.save(imgPath)
 
 
-updatereviews()
+if __name__ == "__main__":
+    updatereviews()
 
