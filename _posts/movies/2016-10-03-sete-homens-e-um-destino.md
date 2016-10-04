@@ -33,4 +33,4 @@ Os tiroteios são decentes, e alguns momentos possuem uma visão estratégica co
 
 O pilar de todos é o inusitado, careca e de preto Yul Brynner, que faz um atirador que escolta junto de seu amigo um carro funerário para dar um enterro digno a um índio no meio de uma população brutalmente ignorante e racista. Essa sequência inicial é o que precisamos para a iconografia desses meninos, que herdam de John Wayne a figura do bom mocinho americano, mas que possuem em suas testas a marca das consequências dos seus atos.
 
-Ganhando pontos pelo realismo de personagens que remetem a estereótipos do gênero, Sete Homens e um Destino merece figurar como adaptação que deu certo. Possui toda a farofa norte-americana, é claro, mas quem disse que histórias com samurais também não é farofa com arroz?
+Ganhando pontos pelo realismo de personagens que remetem a estereótipos do gênero, mas ainda com uma conclusão que torna um pouco confuso entender qual a moral dessa história, Sete Homens e um Destino merece figurar como adaptação que deu certo. Possui toda a farofa norte-americana, é claro, mas quem disse que histórias com samurais também não é farofa com arroz?
