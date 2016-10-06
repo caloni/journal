@@ -146,7 +146,7 @@ def PublishToSocialMedia(post):
         with open(postInfo["screenshot"], "rb") as imagefile:
         	imagedata = imagefile.read()
         print '*** Publishing to Twitter'
-        PublishToTwitter(postInfo, twitter_bitforge_credentials)
+        #PublishToTwitter(postInfo, twitter_bitforge_credentials)
         print '*** Publishing to Facebook'
         PublishToFacebook(postInfo, facebook_bitforge_credentials)
         print '*** Done!'
