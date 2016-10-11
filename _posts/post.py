@@ -185,7 +185,7 @@ def PublishToSocialMedia(post):
         if republish == False:
             webbrowser.open_new_tab(link)
         webbrowser.open_new_tab('https://www.facebook.com/cinetenisverde/')
-        webbrowser.open_new_tab('https://tweetdeck.twitter.com/')
+        webbrowser.open_new_tab('https://twitter.com/')
     except Exception as e:
         print '*** Something gone wrong!'
         if afterMove == True:
