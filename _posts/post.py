@@ -146,12 +146,12 @@ def PublishToSocialMedia(post):
         with open(postInfo["screenshot"], "rb") as imagefile:
         	imagedata = imagefile.read()
         print '*** Publishing to Twitter'
-        #PublishToTwitter(postInfo, twitter_bitforge_credentials)
+        PublishToTwitter(postInfo, twitter_bitforge_credentials)
         print '*** Publishing to Facebook'
         PublishToFacebook(postInfo, facebook_bitforge_credentials)
         print '*** Done!'
         webbrowser.open_new_tab('https://www.facebook.com/bitforge/')
-        webbrowser.open_new_tab('https://tweetdeck.twitter.com/')
+        webbrowser.open_new_tab('https://twitter.com/')
     except Exception as e:
         print '*** Something gone wrong!'
         if afterMove == True:
