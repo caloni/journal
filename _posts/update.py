@@ -101,7 +101,12 @@ def writereview(filePath, header, review, imdbData):
     cl = 1
     f.write(n + ': [')
     for i in a:
-      f.write('"' + i['name'].encode('utf-8') + ' (' + i.currentRole['name'].encode('utf-8') + ')", ')
+      person = str(i).encode('utf-8')
+      character = str(i.currentRole).encode('utf-8')
+      if len(character) > 0:
+        f.write('"' + person + ' (' + character + ')", ')
+      else:
+        f.write('"' + person + '", ')
       cl = cl + 1
       if cl == l: break
     f.write(']\n')
