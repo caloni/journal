@@ -1,7 +1,7 @@
 ---
 imdb: "0087332"
 title: "Os Caça-Fantasmas"
-stars: "5/5"
+stars: "4/5"
 category: "movies"
 _title: "Ghost Busters"
 _year: "1984"
