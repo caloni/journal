@@ -5,9 +5,9 @@ body {
 margin: 0 auto !important;
 float: none !important;
 color: #4a4a4a;
-       font-family: 'Raleway', Arial, sans-serif;
-       font-weight: 400;
-       font-size: 0.85em;
+font-family: 'Raleway', Arial, sans-serif;
+font-weight: 400;
+font-size: 1em;
 }
 
 a {
