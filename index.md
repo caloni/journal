@@ -1,0 +1,60 @@
+---
+layout: default
+title: "A melhor forma de ver um filme é com o cérebro."
+main: true
+---
+  <div class="search">
+    <form id="cse-search-box" action="">
+      <input type="hidden" name="cx" value="005399618489749432245:uxhode2mus4" />
+      <input type="hidden" name="cof" value="FORID:9" />
+      <input type="hidden" name="ie" value="UTF-8" />
+      <span class="fa fa-search"></span>
+      <input id="from-query" type="text" name="q" style="width: 100%; font-size: 22px; margin-bottom: 6px;" />
+    </form>
+  <div id="cse" style="width: 100%;">Loading</div>
+  </div>
+<script type="text/javascript" src="http://www.google.com/jsapi"></script>
+<script type="text/javascript">// <![CDATA[
+function parseQueryFromUrl () {
+        var queryParamName = "q";
+        var search = window.location.search.substr(1);
+        var parts = search.split('&');
+        for (var i = 0; i < parts.length; i++) {
+          var keyvaluepair = parts[i].split('=');
+          if (decodeURIComponent(keyvaluepair[0]) == queryParamName) {
+            return decodeURIComponent(keyvaluepair[1].replace(/\+/g, ' '));
+          }
+        }
+        return '';
+      }
+      google.load('search', '1', {language : 'en'});
+      google.setOnLoadCallback(function() {
+        var customSearchControl = new google.search.CustomSearchControl('005399618489749432245:uxhode2mus4');
+        customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+        var options = new google.search.DrawOptions();
+        options.enableSearchResultsOnly();
+        customSearchControl.draw('cse', options);
+        var queryFromUrl = parseQueryFromUrl();
+        if (queryFromUrl) {
+          customSearchControl.execute(queryFromUrl);
+        }
+      }, true);
+// ]]></script>
+
+{% for post in site.posts limit:20  %}
+{% assign page = post %}
+{% assign content = post.excerpt %}
+  <div id="post-info">
+    <div id="cover-photo-container">
+      <img id="cover-photo" src="/images/screenshots{{ page.id }}.jpg">
+    </div>
+    <div id="info-container">
+      <div id="title"><a href="{{ post.url }}">{{ page.title }}</a></div>
+      <span id="details">{% if page._director %}{{ page._director | join: ', ' }}, {% endif %}{% if page._year %}{{ page._year }}{% endif %}</span>
+    </div>
+    <div class="post">
+      {{ content }}
+    </div>
+  </div>
+{% endfor %}
+_Cine Tênis Verde - {{ site.time | date_to_rfc822 }}_
