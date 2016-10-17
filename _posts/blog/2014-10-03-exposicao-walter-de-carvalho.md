@@ -1,6 +1,6 @@
 ---
 title: "Walter de Carvalho"
-category: blog
+category: "blog"
 ---
 
 Está acontecendo até a metade de outubro o [festival Luz](http://caixabelasartes.com.br/em-cartaz/mostra-walter-carvalho/), homenageando Walter de Carvalho, um diretor de fotografia sensacional no nosso Cinema. Dois dos três filmes que assisti com ele manipulando a luz são em preto e branco e são maravilhosos (também vi Central do Brasil, mas faz tanto tempo...):
