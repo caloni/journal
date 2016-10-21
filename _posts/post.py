@@ -11,6 +11,7 @@ import os
 import webbrowser
 import msvcrt as m
 from pyshorteners import Shortener
+import frontmatter
 
 sys.path.append(r'c:\users\wanderley\.pwd')
 import twitter_cinetenisverde as twitter_credentials
@@ -62,7 +63,7 @@ def PublishToTwitter(postInfo):
     t_up = twitter.Twitter(domain='upload.twitter.com', auth=twitter_credentials.auth)
     id_img1 = t_up.media.upload(media=imagedata)["media_id_string"]
     stars = PrintStars(postInfo['stars']) if postInfo.has_key('stars') else ''
-    st = stars + ' ' + postInfo['title'] + ' ' + postInfo['shortlink'].encode('utf-8')
+    st = stars + ' ' + postInfo['title'] + ' ' + postInfo['shortlink'].encode('utf-8') + postInfo['tags']
     t.statuses.update(status=st, media_ids=",".join([id_img1]))
 
 
@@ -74,7 +75,7 @@ def PublishToFacebook(postInfo):
     	imagedata = imagefile.read()
 
     stars = PrintStars(postInfo['stars']) if postInfo.has_key('stars') else ''
-    st = stars + ' ' + postInfo['title'] + '\n\n' + postInfo['paragraph'] + '\n\n' + 'http://www.cinetenisverde.com.br/' + postInfo['permalink']
+    st = stars + ' ' + postInfo['title'] + '\n\n' + postInfo['paragraph'] + '\n\n' + 'http://www.cinetenisverde.com.br/' + postInfo['permalink'] + postInfo['tags']
     post = facebook_credentials.auth.put_photo(image=imagedata, message=st)
 
 
@@ -104,6 +105,12 @@ def GetPostInfo(post):
         m = re.match('^category: \"(.*)\"', l)
         if m:
             postInfo['category'] = m.group(1)
+    postInfo['tags'] = ''
+    with open(post) as f:
+        metadata, content = frontmatter.parse(f.read())
+        if metadata.has_key('tags'):
+            for t in metadata['tags']:
+                postInfo['tags'] = postInfo['tags'] + ' #' + t
     return postInfo
 
 
