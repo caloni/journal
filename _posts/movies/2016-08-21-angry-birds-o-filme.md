@@ -3,7 +3,6 @@ category: "movies"
 title: "Angry Birds: O Filme"
 imdb: "1985949"
 stars: "4/5"
-tags: ['jogos']
 _title: "Angry Birds"
 _year: "2016"
 _director: ["Clay Kaytis", "Fergal Reilly", ]

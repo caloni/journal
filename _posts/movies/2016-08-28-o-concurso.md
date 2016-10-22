@@ -3,7 +3,7 @@ category: "movies"
 title: "O Concurso"
 imdb: "2616114"
 stars: "1/5"
-tags: ['netflix', 'globochanchadas']
+tags: ['netflix']
 _title: "O Concurso"
 _year: "2013"
 _director: ["Pedro Vasconcelos", ]

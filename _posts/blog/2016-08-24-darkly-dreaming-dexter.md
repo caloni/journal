@@ -2,7 +2,7 @@
 title: "Darkly Dreaming Dexter"
 category: "blog"
 stars: "4/5"
-tags: [ "livro" ]
+tags: [ "livros" ]
 _director: ["Jeff Lindsay" ]
 _year: "2004"
 ---

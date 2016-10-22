@@ -3,7 +3,6 @@ category: "movies"
 title: "Homem-Aranha 2"
 imdb: "0316654"
 stars: "5/5"
-tags: ['homem-aranha', 'azul', 'vermelho', 'super-heróis', 'clássicos', 'intenso', 'iluminação']
 _title: "Spider-Man 2"
 _year: "2004"
 _director: ["Sam Raimi", ]

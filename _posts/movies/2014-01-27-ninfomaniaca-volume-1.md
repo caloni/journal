@@ -4,7 +4,6 @@ title: "Ninfomaníaca Vol. 1"
 stars: "4/5"
 category: "movies"
 date: 2016-06-06
-tags: [ "nymphomaniac" ]
 _title: "Nymphomaniac: Vol. I"
 _year: "2013"
 _director: ["Lars von Trier", ]

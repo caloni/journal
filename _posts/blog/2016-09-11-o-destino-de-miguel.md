@@ -2,7 +2,7 @@
 title: "O Destino de Miguel"
 category: "blog"
 stars: "2/5"
-tags: [ "youtube" ]
+tags: [ "youtube", "curtas" ]
 _cast: [ "Aramis Trindade", "Wagner Moura", "Zéu Britto", "Tadeu Mello", "João Falcão", "Caetano Veloso", "Mario Martinelli", "Derrick Green", "Daniel Oliveira", "Bruno Garcia", "Lázaro Ramos", "Sidney Magal" ]
 _editor: [ "Mario Martinelli", "Hugo Gurgel" ]
 _languages: ["English", ]

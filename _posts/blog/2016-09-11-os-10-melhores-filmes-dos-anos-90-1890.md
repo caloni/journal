@@ -1,7 +1,7 @@
 ---
 title: "Os 10 melhores filmes dos anos 90... 1890!"
 category: "blog"
-tags: [ "história do cinema", "1890", "aprendizado", "curtas", "youtube" ]
+tags: [ "historia", "aprendizado", "curtas", "youtube" ]
 ---
 Esta é uma ótima seleção feita pelo saite A.V. Club, que contém para variar vários trabalhos do genial Georges Méliès, além também dos trabalhos mais técnicos de Thomas Edison. É preciso lembrar que a sétima arte estava apenas engatinhando.
 

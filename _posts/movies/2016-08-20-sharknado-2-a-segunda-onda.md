@@ -3,7 +3,7 @@ category: "movies"
 title: "Sharknado 2: A Segunda Onda"
 imdb: "3062074"
 stars: "1/5"
-tags: ['netflix', 'trash']
+tags: ['netflix']
 _title: "Sharknado 2: The Second One"
 _year: "2014"
 _director: ["Anthony C. Ferrante", ]

@@ -3,7 +3,6 @@ category: "blog"
 title: "Ninfomaníaca Vols 1 e 2"
 imdb: "1937390"
 stars: "4/5"
-tags: ['nymphomaniac']
 _title: "Nymphomaniac: Vol. I"
 _year: "2013"
 _director: ["Lars von Trier", ]

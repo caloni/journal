@@ -3,7 +3,6 @@ imdb: "3138104"
 stars: "1/5"
 category: "movies"
 title: "Se Beber, Não Entre no Jogo"
-tags: ["hungergames" ]
 _title: "The Hungover Games"
 _year: "2014"
 _director: ["Josh Stolberg", ]

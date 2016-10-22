@@ -3,7 +3,7 @@ category: "blog"
 title: "South Park Temporada 20 (Episódios 1 a 4)"
 imdb: "0121955"
 stars: "4/5"
-tags: ['streaming']
+tags: ['streaming', 'series']
 _title: "South Park"
 _year: "1997"
 _director: ["Trey Parker", "Eric Stough", "Matt Stone", ]

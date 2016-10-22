@@ -3,7 +3,7 @@ category: "movies"
 title: "Conexão Escobar"
 imdb: "1355631"
 stars: "5/5"
-tags: ['cabine', 'cinema']
+tags: ['cabine']
 _title: "The Infiltrator"
 _year: "2016"
 _director: ["Brad Furman", ]

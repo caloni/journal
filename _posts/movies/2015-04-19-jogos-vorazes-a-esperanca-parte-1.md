@@ -3,7 +3,6 @@ imdb: "1951265"
 stars: "5/5"
 category: "movies"
 title: "Jogos Vorazes: A Esperança - Parte 1"
-tags: [ "hungergames" ]
 _title: "The Hunger Games: Mockingjay - Part 1"
 _year: "2014"
 _director: ["Francis Lawrence", ]

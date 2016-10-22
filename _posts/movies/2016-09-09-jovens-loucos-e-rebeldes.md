@@ -3,7 +3,7 @@ category: "movies"
 title: "Jovens, Loucos e Rebeldes"
 imdb: "0106677"
 stars: "5/5"
-tags: ['streamio']
+tags: ['streaming']
 _title: "Dazed and Confused"
 _year: "1993"
 _director: ["Richard Linklater", ]

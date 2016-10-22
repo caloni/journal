@@ -3,7 +3,7 @@ category: "movies"
 title: "Caça-Fantasmas"
 imdb: "1289401"
 stars: "3/5"
-tags: ['popcorn']
+tags: ['popcorntime']
 _title: "Ghostbusters"
 _year: "2016"
 _director: ["Paul Feig", ]

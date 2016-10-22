@@ -3,7 +3,7 @@ category: "movies"
 title: "O Silêncio do Céu"
 imdb: "5125930"
 stars: "5/5"
-tags: ['cabine', 'som diegético' ]
+tags: ['cabine' ]
 _title: "Era el Cielo"
 _year: "2016"
 _director: ["Marco Dutra", ]

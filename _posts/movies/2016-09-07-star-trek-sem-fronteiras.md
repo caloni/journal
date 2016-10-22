@@ -3,7 +3,7 @@ category: "movies"
 title: "Star Trek: Sem Fronteiras"
 imdb: "2660888"
 stars: "3/5"
-tags: ['cinema', '3d']
+tags: ['cinema']
 _title: "Star Trek Beyond"
 _year: "2016"
 _director: ["Justin Lin", ]

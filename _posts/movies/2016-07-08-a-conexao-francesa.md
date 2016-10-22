@@ -4,7 +4,6 @@ category: "movies"
 imdb: "2935564"
 stars: "4/5"
 title: "A Conexão Francesa"
-tags: [ "tráfico de drogas", "breaking bad", "operação frança", "gene hackman", "fatos reais" ]
 _title: "La French"
 _year: "2014"
 _director: ["Cédric Jimenez", ]
