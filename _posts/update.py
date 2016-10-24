@@ -97,6 +97,23 @@ def writereview(filePath, header, review, imdbData):
       if cl == l: break
     f.write(']\n')
 
+  def writepersonarray(f, a, n, l = 10):
+    cl = 1
+    f.write(n + ': [')
+    a2 = []
+    for i in a:
+      repeated = False
+      for i2 in a2:
+        if i.isSamePerson(i2) == 1:
+          repeated = True
+          break
+      if repeated == False:
+        a2.append(i)
+        f.write('"' + i['name'].encode('utf-8') + '", ')
+        cl = cl + 1
+        if cl == l: break
+    f.write(']\n')
+
   def writecastarray(f, a, n, l = 10):
     cl = 1
     f.write(n + ': [')
@@ -136,7 +153,7 @@ def writereview(filePath, header, review, imdbData):
     #downloadscreenshots(imdbData['title'] + ' movie screenshot', fileName)
   if imdbData.has_key('year'): write(f, imdbData['year'], '_year')
   if imdbData.has_key('director'): writearray(f, imdbData['director'], '_director')
-  if imdbData.has_key('writer'): writearray(f, imdbData['writer'], '_writer')
+  if imdbData.has_key('writer'): writepersonarray(f, imdbData['writer'], '_writer')
   if imdbData.has_key('cast'): writecastarray(f, imdbData['cast'], '_cast')
   if imdbData.has_key('countries'): writesimplearray(f, imdbData['countries'], '_countries')
   if imdbData.has_key('languages'): writesimplearray(f, imdbData['languages'], '_languages')

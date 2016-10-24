@@ -1,6 +1,6 @@
 ---
 category: "movies"
-title: "Sete Homens e um Destino (2016)"
+title: "Sete Homens e um Destino"
 imdb: "2404435"
 stars: "3/5"
 tags: ['cinema']
