@@ -5,9 +5,6 @@ main: true
 ---
   <div class="search">
     <form id="cse-search-box" action="">
-      <input type="hidden" name="cx" value="005399618489749432245:uxhode2mus4" />
-      <input type="hidden" name="cof" value="FORID:9" />
-      <input type="hidden" name="ie" value="UTF-8" />
       <span class="fa fa-search"></span>
       <input id="from-query" type="text" name="q" style="width: 100%; font-size: 22px; margin-bottom: 6px;" />
     </form>
@@ -27,7 +24,7 @@ function parseQueryFromUrl () {
         }
         return '';
       }
-      google.load('search', '1', {language : 'en'});
+      google.load('search', '1', {language : 'pt'});
       google.setOnLoadCallback(function() {
         var customSearchControl = new google.search.CustomSearchControl('005399618489749432245:uxhode2mus4');
         customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
