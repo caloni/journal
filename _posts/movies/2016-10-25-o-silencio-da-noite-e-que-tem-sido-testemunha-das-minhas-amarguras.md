@@ -2,7 +2,7 @@
 category: "movies"
 title: "O Silêncio da Noite É Que Tem Sido Testemunha das Minhas Amarguras"
 stars: "4/5"
-tags: ["motrasp"]
+tags: ["mostrasp"]
 _title: "O Silêncio da Noite É Que Tem Sido Testemunha das Minhas Amarguras"
 _year: "2016"
 _director: ["Petrônio Lorena", ]
