@@ -54,4 +54,6 @@ function parseQueryFromUrl () {
     </div>
   </div>
 {% endfor %}
-_Cine Tênis Verde - {{ site.time | date_to_rfc822 }}_
+<div style="text-align: right; font-size: small; margin-bottom: 25px;">
+    <a href="/all" title="Ver todos os posts (isso pode ser looooooooooongo)"><i>Cine Tênis Verde - {{ site.time | date: "%Y-%m-%d %H:%M:%S" }}</i></a>
+</div>
