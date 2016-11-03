@@ -1,12 +1,12 @@
 ---
-title: "Digite algo relacionado ao que procura"
+layout: default
+title: "Pesquise na lista de todos os posts"
 ---
 <script src="{{ site.baseurl }}/scripts/jquery-2.1.3.min.js"></script>
 <script>
-$(document).ready(function(){
-    $("#filter").keyup(function(event){
-
-        query = $(this).val();
+function ApplyFilter(filter)
+{
+        query = filter
         query = $.trim(query); //trim white space
         query = query.split('&');
 
@@ -71,9 +71,42 @@ $(document).ready(function(){
 
             $('#filter').prop('title', shows + ' de ' + total);
         }
+}
+
+var QueryString = function () {
+  // This function is anonymous, is executed immediately and 
+  // the return value is assigned to QueryString!
+  var query_string = {};
+  var query = window.location.search.substring(1);
+  var vars = query.split("&");
+  for (var i=0;i<vars.length;i++) {
+    var pair = vars[i].split("=");
+        // If first entry with this name
+    if (typeof query_string[pair[0]] === "undefined") {
+      query_string[pair[0]] = decodeURIComponent(pair[1]);
+        // If second entry with this name
+    } else if (typeof query_string[pair[0]] === "string") {
+      var arr = [ query_string[pair[0]],decodeURIComponent(pair[1]) ];
+      query_string[pair[0]] = arr;
+        // If third or later entry with this name
+    } else {
+      query_string[pair[0]].push(decodeURIComponent(pair[1]));
+    }
+  } 
+  return query_string;
+}();
+
+$(document).ready(function(){
+    $("#filter").keyup(function(event){
+        query = $(this).val();
+        ApplyFilter(query);
     });
+    var query = QueryString['q'];
+    $('#filter').val(query);
     $('#filter').focus();
+    ApplyFilter(query);
 });
+
 </script>
 
   <table class="sortable">
@@ -82,7 +115,8 @@ $(document).ready(function(){
   <tr><td>
         <a href="{{ post.url }}" 
         title="Post Title: {{ post.title }}
-Post Date: {{ post.date | date: '%Y%m%d' }}
+Post Date: {{ post.date | date: '%Y-%m-%d' }}
+Post Category: {{ post.category }}
 Post Tags: {{ post.tags | join: ', ' }}"
 >
         {{ post.title }}
@@ -91,3 +125,6 @@ Post Tags: {{ post.tags | join: ', ' }}"
   </td></tr>
   {% endfor %}
   </table>
+<div style="text-align: right; font-size: small; margin-bottom: 25px;">
+    <a href="/" title="Voltar para Home"><i>Blogue do Caloni - {{ site.time | date: "%Y-%m-%d %H:%M:%S" }}</i></a>
+</div>
