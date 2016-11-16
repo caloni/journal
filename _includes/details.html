@@ -1,4 +1,3 @@
 <p style="font-size: 1.0em;">
-  {% if page._title %}{{ page._title }}{% else %}{{ page.title }}{% endif %}.
   <i>{% if page.tags %}{% for tag in page.tags %} {{ tag | join: ' ' | prepend: '#' }}{% endfor %}{% endif %}</i>
 </p>

@@ -3,15 +3,12 @@
     <div id="info-container">
       <div id="title">{{ page.title }}</div>
       <span id="details">Wanderley Caloni, {{ page.date | date: '%Y-%m-%d' }}</span>
+       {% include details.html %}
     </div>
   </div>
 
   <div class="post" >
     {{ content }}
-    <div>
-       {% include details.html %}
-  </div>
-
   <div class="navigation">
       <div style="margin-bottom: 10px; margin-top: 10px;">
       <i>Gostou desse artigo? Pague-me uma cerveja:</i> <b>14GuqGQAzTJXqCBgUESmYXRHfe5kicMiGh</b> <a href="https://bitcoin.org/pt_BR/"><img src="/images/bitcoin.png" title="Pague-me uma cerveja: "/></a>
