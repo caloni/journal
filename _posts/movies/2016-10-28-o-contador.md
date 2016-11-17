@@ -4,6 +4,7 @@ title: "O Contador"
 imdb: "2140479"
 stars: "4/5"
 tags: ['cinema']
+revision: ["2016-11-17"]
 _title: "The Accountant"
 _year: "2016"
 _director: ["Gavin O'Connor", ]
