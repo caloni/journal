@@ -2,7 +2,7 @@
 category: "movies"
 title: "O Filho Eterno"
 imdb: "5341098"
-stars: "2/5"
+stars: "3/5"
 tags: ['cabine']
 _title: "O Filho Eterno"
 _year: "2016"
