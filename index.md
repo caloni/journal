@@ -40,14 +40,10 @@ function parseQueryFromUrl () {
 
 {% for post in site.posts limit:20  %}
 {% assign page = post %}
-{% assign content = post.excerpt %}
+{% assign content = post.excerpt | remove: '<p>' | remove: '</p>' %}
   <div id="post-info">
-    <div id="info-container">
-      <div id="title"><a href="{{ post.url }}">{{ page.title }}</a></div>
-
-    </div>
     <div class="post">
-      {{ content }}
+      <span>{{ content }}<span><a href="{{ post.url }}">{{ page.title }}</a></span></span>
     </div>
   </div>
 {% endfor %}
