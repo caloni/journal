@@ -1,5 +1,5 @@
 ---
-title: Seminário CCPP Portabilidade e Performance
+title: "Seminário CCPP Portabilidade e Performance"
 tags: [ "c++", "palestras" ]
 ---
 
