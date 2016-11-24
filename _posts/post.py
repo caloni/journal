@@ -20,8 +20,9 @@ import facebook_bitforge
 Credentials['facebook_bitforge'] = facebook_bitforge
 import twitter_caloni
 Credentials['twitter_caloni'] = twitter_caloni
-import facebook_caloni
-Credentials['facebook_caloni'] = facebook_caloni
+#not working
+#import facebook_caloni
+#Credentials['facebook_caloni'] = facebook_caloni
 import twitter_ccppbrasil
 Credentials['twitter_ccppbrasil'] = twitter_ccppbrasil
 import facebook_ccppbrasil
@@ -121,7 +122,6 @@ def PublishToSocialMedia(post):
     try:
         print '*** Getting post info'
         postInfo = GetPostInfo(post)
-        print postInfo
         webbrowser.open_new_tab('https://www.google.com.br/search?q=' + postInfo['title'] + '&tbm=isch')
         subprocess.Popen('explorer "C:\\screenshots"')
         postInfo['screenshot'] = r'c:\screenshots\screenshot.jpg'
