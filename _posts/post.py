@@ -25,8 +25,9 @@ Credentials['twitter_caloni'] = twitter_caloni
 #Credentials['facebook_caloni'] = facebook_caloni
 import twitter_ccppbrasil
 Credentials['twitter_ccppbrasil'] = twitter_ccppbrasil
-import facebook_ccppbrasil
-Credentials['facebook_ccppbrasil'] = facebook_ccppbrasil
+#not working
+#import facebook_ccppbrasil
+#Credentials['facebook_ccppbrasil'] = facebook_ccppbrasil
 
 
 baseUrl = 'http://www.caloni.com.br/' 
