@@ -1,5 +1,5 @@
 ---
-title: A inteligência do if - parte 1
+title: "A inteligência do if - parte 1"
 tags: [ "programação", "filosofia", "fundamentos" ]
 ---
 

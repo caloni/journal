@@ -14,18 +14,18 @@ from pyshorteners import Shortener
 
 Credentials = {}
 sys.path.append(r'c:\users\wanderley\.pwd')
-import twitter_bitforge_credentials
-Credentials['bitforge_twitter'] = twitter_bitforge_credentials
-import facebook_bitforge_credentials
-Credentials['bitforge_facebook'] = facebook_bitforge_credentials
-import twitter_caloni_credentials
-Credentials['caloni_twitter'] = twitter_caloni_credentials
-import facebook_caloni_credentials
-Credentials['caloni_facebook'] = facebook_caloni_credentials
-import twitter_ccppbrasil_credentials
-Credentials['ccppbrasil_twitter'] = twitter_ccppbrasil_credentials
-import facebook_ccppbrasil_credentials
-Credentials['ccppbrasil_facebook'] = facebook_ccppbrasil_credentials
+import twitter_bitforge
+Credentials['twitter_bitforge'] = twitter_bitforge
+import facebook_bitforge
+Credentials['facebook_bitforge'] = facebook_bitforge
+import twitter_caloni
+Credentials['twitter_caloni'] = twitter_caloni
+import facebook_caloni
+Credentials['facebook_caloni'] = facebook_caloni
+import twitter_ccppbrasil
+Credentials['twitter_ccppbrasil'] = twitter_ccppbrasil
+import facebook_ccppbrasil
+Credentials['facebook_ccppbrasil'] = facebook_ccppbrasil
 
 
 baseUrl = 'http://www.caloni.com.br/' 
@@ -52,7 +52,7 @@ def WebPageExists(url):
     return True
 
 
-def PublishToTwitter(postInfo, credentials = twitter_bitforge_credentials):
+def PublishToTwitter(postInfo, credentials):
     """
     https://pypi.python.org/pypi/twitter
     """
@@ -68,7 +68,7 @@ def PublishToTwitter(postInfo, credentials = twitter_bitforge_credentials):
     t.statuses.update(status=st, media_ids=",".join([id_img1]))
 
 
-def PublishToFacebook(postInfo, credentials = facebook_bitforge_credentials):
+def PublishToFacebook(postInfo, credentials):
     """
     http://nodotcom.org/python-facebook-tutorial.html
     """
@@ -121,6 +121,7 @@ def PublishToSocialMedia(post):
     try:
         print '*** Getting post info'
         postInfo = GetPostInfo(post)
+        print postInfo
         webbrowser.open_new_tab('https://www.google.com.br/search?q=' + postInfo['title'] + '&tbm=isch')
         subprocess.Popen('explorer "C:\\screenshots"')
         postInfo['screenshot'] = r'c:\screenshots\screenshot.jpg'
@@ -157,12 +158,12 @@ def PublishToSocialMedia(post):
         with open(postInfo["screenshot"], "rb") as imagefile:
         	imagedata = imagefile.read()
         credential = input('What credential use to social media?')
-        if Credentials.has_key(credential + '_twitter'):
+        if Credentials.has_key('twitter_' + credential):
             print '*** Publishing to Twitter'
-            PublishToTwitter(postInfo, Credentials[credential + '_twitter'])
-        if Credentials.has_key(credential + '_facebook'):
+            PublishToTwitter(postInfo, Credentials['twitter_' + credential])
+        if Credentials.has_key('facebook_' + credential):
             print '*** Publishing to Facebook'
-            PublishToFacebook(postInfo, Credentials[credential + '_facebook'])
+            PublishToFacebook(postInfo, Credentials['facebook_' + credential])
         print '*** Done!'
         webbrowser.open_new_tab('https://www.facebook.com/search/top/?q=' + credential)
         webbrowser.open_new_tab('https://twitter.com/')
