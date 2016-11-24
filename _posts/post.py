@@ -159,15 +159,21 @@ def PublishToSocialMedia(post):
         with open(postInfo["screenshot"], "rb") as imagefile:
         	imagedata = imagefile.read()
         credential = input('What credential use to social media?')
+        facebook = False
+        twitter = False
         if Credentials.has_key('twitter_' + credential):
             print '*** Publishing to Twitter'
             PublishToTwitter(postInfo, Credentials['twitter_' + credential])
+            twitter = True
         if Credentials.has_key('facebook_' + credential):
             print '*** Publishing to Facebook'
             PublishToFacebook(postInfo, Credentials['facebook_' + credential])
+            facebook = True
         print '*** Done!'
-        webbrowser.open_new_tab('https://www.facebook.com/search/top/?q=' + credential)
-        webbrowser.open_new_tab('https://twitter.com/')
+        if facebook:
+            webbrowser.open_new_tab('https://www.facebook.com/search/top/?q=' + credential)
+        if twitter:
+            webbrowser.open_new_tab('https://twitter.com/')
     except Exception as e:
         print '*** Something gone wrong!'
         if afterMove == True:
