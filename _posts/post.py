@@ -12,9 +12,20 @@ import webbrowser
 import msvcrt as m
 from pyshorteners import Shortener
 
+Credentials = {}
 sys.path.append(r'c:\users\wanderley\.pwd')
-import twitter_bitforge as twitter_bitforge_credentials
-import facebook_bitforge as facebook_bitforge_credentials
+import twitter_bitforge_credentials
+Credentials['bitforge_twitter'] = twitter_bitforge_credentials
+import facebook_bitforge_credentials
+Credentials['bitforge_facebook'] = facebook_bitforge_credentials
+import twitter_caloni_credentials
+Credentials['caloni_twitter'] = twitter_caloni_credentials
+import facebook_caloni_credentials
+Credentials['caloni_facebook'] = facebook_caloni_credentials
+import twitter_ccppbrasil_credentials
+Credentials['ccppbrasil_twitter'] = twitter_ccppbrasil_credentials
+import facebook_ccppbrasil_credentials
+Credentials['ccppbrasil_facebook'] = facebook_ccppbrasil_credentials
 
 
 baseUrl = 'http://www.caloni.com.br/' 
@@ -145,12 +156,15 @@ def PublishToSocialMedia(post):
         # Testing image first
         with open(postInfo["screenshot"], "rb") as imagefile:
         	imagedata = imagefile.read()
-        print '*** Publishing to Twitter'
-        PublishToTwitter(postInfo, twitter_bitforge_credentials)
-        print '*** Publishing to Facebook'
-        PublishToFacebook(postInfo, facebook_bitforge_credentials)
+        credential = input('What credential use to social media?')
+        if Credentials.has_key(credential + '_twitter'):
+            print '*** Publishing to Twitter'
+            PublishToTwitter(postInfo, Credentials[credential + '_twitter'])
+        if Credentials.has_key(credential + '_facebook'):
+            print '*** Publishing to Facebook'
+            PublishToFacebook(postInfo, Credentials[credential + '_facebook'])
         print '*** Done!'
-        webbrowser.open_new_tab('https://www.facebook.com/bitforge/')
+        webbrowser.open_new_tab('https://www.facebook.com/search/top/?q=' + credential)
         webbrowser.open_new_tab('https://twitter.com/')
     except Exception as e:
         print '*** Something gone wrong!'
