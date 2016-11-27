@@ -1,6 +1,6 @@
 ---
 category: "blog"
-title: "Como Ver Um Filme"
+title: "Livro: Como Ver Um Filme"
 stars: "4/5"
 tags: [ "livros" ]
 _director: ["Ana Maria Bahiana", ]

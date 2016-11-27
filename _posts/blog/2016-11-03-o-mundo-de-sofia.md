@@ -1,6 +1,6 @@
 ---
 category: "blog"
-title: "O Mundo de Sofia"
+title: "Livro: O Mundo de Sofia"
 stars: "4/5"
 tags: ["livros"]
 _director: ["Jostein Gaarder" ]
