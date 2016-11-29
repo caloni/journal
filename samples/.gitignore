@@ -26,3 +26,5 @@ download
 *.bat
 build-*/
 *.pyc
+*.opendb
+*.VC.db
