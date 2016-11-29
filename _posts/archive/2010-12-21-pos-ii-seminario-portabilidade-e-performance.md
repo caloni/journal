@@ -1,5 +1,5 @@
 ---
-title: Pós-"II Seminário Portabilidade e Performance"
+title: "Pós-II Seminário Portabilidade e Performance"
 tags: [ "c++", "palestras" ]
 ---
 
