@@ -1,5 +1,5 @@
 ---
-title: "Quandos handles sua aplicação está abrindo?"
+title: "Quantos handles sua aplicação está abrindo?"
 tags: [ "windows", "ferramentas", "api", "leak" ]
 
 ---
