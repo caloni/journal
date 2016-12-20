@@ -1,5 +1,7 @@
 ---
 title: "Classe, objeto, contexto, método"
+tags: [ "c++", "linguagem" ]
+
 ---
 No [post anterior](/classe-objeto-contexto) falamos como a passagem de um endereço de uma struct consegue nos passar o contexto de um "objeto", seja em C (manualmente) ou em C++ (automagicamente pelo operador implícito __this__). Trocamos uma propriedade desse "objeto" em C, mas ainda não chamamos um método.
 

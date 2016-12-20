@@ -1,5 +1,7 @@
 ---
 title: "Classe, objeto, contexto, método, polimorfismo"
+tags: [ "c++", "linguagem", "herança" ]
+
 ---
 No [post anterior](/classe-objeto-contexto-metodo) implementamos "métodos" em C usando ponteiros de função dentro de structs que eram passadas como parâmetro. Tudo isso embutido por um compilador que gera o que chamamos de instância de uma classe, ou objeto, em C++. Isso é possível graças ao contexto que é passado para uma função (que no caso de C++ é o operador implícito __this__, que sempre existe dentro de um método não-estático).
 
