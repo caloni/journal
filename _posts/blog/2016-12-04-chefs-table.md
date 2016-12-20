@@ -1,5 +1,5 @@
 ---
-category: "movies"
+category: "blog"
 title: "Chef's Table"
 imdb: "4295140"
 stars: "4/5"
