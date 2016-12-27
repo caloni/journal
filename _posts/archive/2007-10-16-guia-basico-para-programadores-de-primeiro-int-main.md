@@ -6,15 +6,7 @@ tags: [ "c++", "programação" ]
 
 
 
-<blockquote>_Vou aproveitar que meu amigo DQ publicou um artigo muito bom sobre [como fazer programas fáceis de manter](http://dqsoft.blogspot.com/2007/10/desenvolvendo-softwares-agradveis-de.html) (merece ser lido!) e vou republicar um artigo do blogue antigo sobre o básico do básico para quem deseja entender como os programas funcionam. Não é nada sofisticado, apenas alguns conceitos comuns que, se você deseja ser programador, deveria procurar saber._</blockquote>
-
-
-
-
-
-<blockquote></blockquote>
-
-
+> _Vou aproveitar que meu amigo DQ publicou um artigo muito bom sobre [como fazer programas fáceis de manter](http://dqsoft.blogspot.com/2007/10/desenvolvendo-softwares-agradveis-de.html) (merece ser lido!) e vou republicar um artigo do blogue antigo sobre o básico do básico para quem deseja entender como os programas funcionam. Não é nada sofisticado, apenas alguns conceitos comuns que, se você deseja ser programador, deveria procurar saber._
 
 
 #### Código, dados e processador

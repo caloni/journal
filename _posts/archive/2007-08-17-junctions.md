@@ -23,7 +23,7 @@ junction c:\library\ddk c:\winddk**
 E é isso aí. A partir de agora tanto as pastas originais quanto os _junctions_ criados para elas respondem como se fossem a mesma coisa, porém com _paths_ diferentes.
 
 
-<blockquote>_"Neo, sooner or later, you're going to realize, just as I did, that there's a different between knowing the path... and walking the path..."_</blockquote>
+> _"Neo, sooner or later, you're going to realize, just as I did, that there's a different between knowing the path... and walking the path..."_
 
 
 **_Junctions _no Windows Vista**

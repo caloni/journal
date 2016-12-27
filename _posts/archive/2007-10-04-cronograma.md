@@ -28,9 +28,9 @@ Resumidamente: você fará uma tarefa em uma hora. Mas, diabos, você não sabe 
 Obviamente que o inverso não é verdadeiro. Quer dizer, você não vai terminar uma tarefa de uma hora em dez minutos se colocar dez minutos na sua tabela mágica. Isso, mais uma vez, não é matemática: é psicologia.
 
 
-<blockquote>_A mesma analogia absurda serve para valores muito altos. Se estimar três meses para uma tarefa de uma hora, terá três meses para procurar um emprego novo, e não para terminar a tarefa._
+> _A mesma analogia absurda serve para valores muito altos. Se estimar três meses para uma tarefa de uma hora, terá três meses para procurar um emprego novo, e não para terminar a tarefa._
 
-_Atualização: encontrei um artigo no Efetividade explicando sobre esse fenômeno, que já tinha nome e dono registrados antes de eu pensar neles: se chama [Lei de Parkinson](http://www.efetividade.net/2007/10/29/gerenciamento-de-projetos-cuidado-com-a-lei-de-parkinson/) e reza que "as tarefas se expandem para ocupar todo o tempo disponível". Vale a pena a leitura._</blockquote>
+__Atualização__: encontrei um artigo no Efetividade explicando sobre esse fenômeno, que já tinha nome e dono registrados antes de eu pensar neles: se chama [Lei de Parkinson](http://www.efetividade.net/2007/10/29/gerenciamento-de-projetos-cuidado-com-a-lei-de-parkinson/) e reza que "as tarefas se expandem para ocupar todo o tempo disponível". Vale a pena a leitura.
 
 
 

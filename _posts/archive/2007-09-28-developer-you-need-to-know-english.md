@@ -16,7 +16,7 @@ Aproveitando o [comentário do Ferdinando](http://www.driverentry.com.br/blog/20
 O aprendizado de qualquer idioma deve estar focado em um objetivo. Se o objetivo é se comunicar, conversação é importante. Se você deseja ser um _business man_, um vocabulário mais específico deve ser aprendido. No nosso caso, em que a santa leitura técnica de cada dia é a necessidade básica, alguns passos básicos em inglês instrumental é um ótimo começo para começar a desvendar [80% da internet](http://www.ccuec.unicamp.br/revista/infotec/internet/internet9-1.html).
 
 
-<blockquote>_Note, contudo, que inglês instrumental não é muito bem visto por escolas conceituadas de idiomas, tanto por ensinar um inglês limitado quanto por criar vícios de linguagem. O importante a lembrar nesse caso é: estamos usando o inglês como uma ferramenta de compreensão de textos que são úteis para nosso trabalho. Se o interesse/necessidade do inglês for maior, deve-se passar para as próximas dicas._</blockquote>
+> _Note, contudo, que inglês instrumental não é muito bem visto por escolas conceituadas de idiomas, tanto por ensinar um inglês limitado quanto por criar vícios de linguagem. O importante a lembrar nesse caso é: estamos usando o inglês como uma ferramenta de compreensão de textos que são úteis para nosso trabalho. Se o interesse/necessidade do inglês for maior, deve-se passar para as próximas dicas._
 
 
 Seguem alguns primeiros passos para começar a se aventurar:
@@ -67,8 +67,8 @@ Isso, aliada à sua prática diária de leitura de artigos, pode ser complementa
 Nesse momento, o importante é fazer a transição escrito-falado. Por isso, tente ouvir _podcasts_ em que o texto falado está disponível para leitura. Dessa forma é possível acompanhar os dois. Eu costumava ouvir o [Word for the Wise](http://www.m-w.com/cgi-bin/wftw.pl) da Merriam-Webster, por ser curto e interessante. Mas o ideal é unir o útil ao agradável, e nisso com certeza um _podcast_ de tecnologia seria muito melhor.
 
 
-<blockquote>_Trapaceando: no começo, é comum haver divergências de pronúncia ou falta da capacidade de ouvir (__listening). Você pode sempre apelar para as pronúncias disponíveis nos dicionários __online, como o [Merriam-Webster](http://www.m-w.com/). Ouça um milhão de vezes para pegar o jeito.
-_</blockquote>
+> _Trapaceando: no começo, é comum haver divergências de pronúncia ou falta da capacidade de ouvir (__listening). Você pode sempre apelar para as pronúncias disponíveis nos dicionários __online, como o [Merriam-Webster](http://www.m-w.com/). Ouça um milhão de vezes para pegar o jeito.
+_
 
 
 

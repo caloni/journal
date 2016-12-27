@@ -16,7 +16,7 @@ Em meio a uma febre de consumismo, no dia 24 de agosto de 1995, foi lançado a r
 
 
 
-<blockquote>_Bem, o "novo conceito" de __threads já havia sido implementado no Windows NT desde o "scratch". O conceito já existia no início do projeto, mas não no velho Windows 3. 1 de 16 bits, que foi a versão anterior ao 95. Parte dos requisitos do sistema foi que ele seria compatível com o NT no nível de aplicativo, o que de fato aconteceu. _</blockquote>
+> _Bem, o "novo conceito" de __threads já havia sido implementado no Windows NT desde o "scratch". O conceito já existia no início do projeto, mas não no velho Windows 3. 1 de 16 bits, que foi a versão anterior ao 95. Parte dos requisitos do sistema foi que ele seria compatível com o NT no nível de aplicativo, o que de fato aconteceu. _
 
 
 

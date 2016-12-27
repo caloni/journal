@@ -204,7 +204,7 @@ Outra observação que poderia ter ajudado na hora de codificar seria dar uma ol
 
 
 
-<blockquote>_To compile an application that uses this function, define the _WIN32_WINNT macro as 0x0500 or later. For more information, see [Using the Windows Headers](http://msdn2.microsoft.com/en-us/library/aa383745.aspx)._</blockquote>
+> _To compile an application that uses this function, define the _WIN32_WINNT macro as 0x0500 or later. For more information, see [Using the Windows Headers](http://msdn2.microsoft.com/en-us/library/aa383745.aspx)._
 
 
 

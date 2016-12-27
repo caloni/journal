@@ -22,7 +22,7 @@ A ilustração abaixo divide os módulos que fazem parte do sistema operacional.
 É importante notar que essa distribuição já existia desde a primeira versão do NT, sendo que apenas alguns itens foram adicionados (como o Gerenciador de _Plug & Play_ e o Gerenciador de Energia).
 
 
-<blockquote>_Um outro item importantíssimo que foi movido da versão 3.51 para a 4.0 é a GDI, responsável pelo gráfico. Inicialmente ela estava no modo de usuário, mas a necessidade de aumentar o desempenho do sistema fez com que ela fosse [incorporada](http://www.windowsitpro.com/Articles/ArticleID/2469/2469/pg/2/2.html?Ad=1) ao núcleo do sistema._</blockquote>
+> _Um outro item importantíssimo que foi movido da versão 3.51 para a 4.0 é a GDI, responsável pelo gráfico. Inicialmente ela estava no modo de usuário, mas a necessidade de aumentar o desempenho do sistema fez com que ela fosse [incorporada](http://www.windowsitpro.com/Articles/ArticleID/2469/2469/pg/2/2.html?Ad=1) ao núcleo do sistema._
 
 
 Agora vamos dissecar as partes interessantes.

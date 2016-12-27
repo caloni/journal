@@ -151,16 +151,12 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, PSTR, int)
 
 
 
-<blockquote>**Atualização. **É possível compilar diretamente o exemplo mostrado acima simplesmente copiando e colando em um arquivo C(PP). Para fazer isso com o Visual Studio ou SDK, e considerando que o arquivo se chame nomouse.cpp, digite os seguintes comandos:
+__Atualização__. É possível compilar diretamente o exemplo mostrado acima simplesmente copiando e colando em um arquivo C(PP). Para fazer isso com o Visual Studio ou SDK, e considerando que o arquivo se chame nomouse.cpp, digite os seguintes comandos:
 
->     
->     cl /c nomouse.cpp
->     link nomouse.obj user32.lib
-> 
-> 
-</blockquote>
-
-
+```cmd
+     cl /c nomouse.cpp
+     link nomouse.obj user32.lib
+```
 
 **A explicação**
 

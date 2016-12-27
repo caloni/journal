@@ -48,7 +48,7 @@ Baseado no número de CPs registrados no sistema, o LogonUI (processo responsáv
 Já que fomos brindados com um exemplo de GINA _stub_ do Ferdinando, também irei disponibilizar um outro exemplo, este um pouco mais perigoso, da época de laboratório da faculdade. Se trata igualmente de uma GINA que se aproveita da implementação da GINA original, porém na hora de autenticar um usuário ela captura os dados do _logon_ (usuário e senha) e grava em uma parte do registro acessível apenas pelo sistema (lembre-se que a GINA, por fazer parte do WinLogon, roda na conta de sistema).
 
 
-<blockquote>_É claro que para utilizar essa GINA, você deve possuir direitos de administração, ou conhecer alguma brecha de segurança. Eu optei pela segunda opção, já que não tinha a primeira. Podemos dizer apenas que o [artigo sobre falhas de segurança relacionadas a usuários avançados](http://blogs.technet.com/markrussinovich/archive/2006/05/01/the-power-in-power-users.aspx) do Russinovich pôde resolver meu problema._</blockquote>
+> _É claro que para utilizar essa GINA, você deve possuir direitos de administração, ou conhecer alguma brecha de segurança. Eu optei pela segunda opção, já que não tinha a primeira. Podemos dizer apenas que o [artigo sobre falhas de segurança relacionadas a usuários avançados](http://blogs.technet.com/markrussinovich/archive/2006/05/01/the-power-in-power-users.aspx) do Russinovich pôde resolver meu problema._
 
 
 E é isso aí. Como é que aquele cara do DriverEntry diz mesmo? Ah, sim: [have fun](/images/mscindy.7z)! =P

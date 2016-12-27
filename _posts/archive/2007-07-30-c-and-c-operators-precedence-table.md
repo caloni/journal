@@ -3,8 +3,8 @@ title: C and C++ Operators Precedence Table
 tags: [ "c++", "english" ]
 ---
 
-<blockquote>_Wanderley,__[your explanation](http://www.caloni.com.br/precedence-difference) about why a program compiles in C++ and not in C seems to me logic and correct, but gave me some doubts, because I always learned that the C and C++ operator precedence are the same thing.__I checked out the Appendix A in the "[C ++ - How To Program](http://compare.buscape.com.br/categoria?lkout=1&id=3482&kw=C+++How+to+Program&site_origem=1293522)" (sixth edition) and the book table is equal to the C operators precedence table and it is different from the C++ precedence table presented by you in the article.__I went to the internet and found out in two websites the table and both are equal to the book table.__[http://en.wikipedia.org/wiki/Operators_in_C_and_C](http://en.wikipedia.org/wiki/Operators_in_C_and_C)
-[ http://www.cppreference.com/operator_precedence.html](http://www.cppreference.com/operator_precedence.html)__From where did you get the presented C++ table?__[]s,_[_Márcio Andrey Oliveira_](http://marcioandreyoliveira.blogspot.com/)</blockquote>
+> _Wanderley,__[your explanation](http://www.caloni.com.br/precedence-difference) about why a program compiles in C++ and not in C seems to me logic and correct, but gave me some doubts, because I always learned that the C and C++ operator precedence are the same thing.__I checked out the Appendix A in the "[C ++ - How To Program](http://compare.buscape.com.br/categoria?lkout=1&id=3482&kw=C+++How+to+Program&site_origem=1293522)" (sixth edition) and the book table is equal to the C operators precedence table and it is different from the C++ precedence table presented by you in the article.__I went to the internet and found out in two websites the table and both are equal to the book table.__[http://en.wikipedia.org/wiki/Operators_in_C_and_C](http://en.wikipedia.org/wiki/Operators_in_C_and_C)
+[ http://www.cppreference.com/operator_precedence.html](http://www.cppreference.com/operator_precedence.html)__From where did you get the presented C++ table?__[]s,_[_Márcio Andrey Oliveira_](http://marcioandreyoliveira.blogspot.com/)
 
 
 [](http://marcioandreyoliveira.blogspot.com/)
@@ -32,13 +32,13 @@ and not as
 that would be the logic result if we followed the precedence table, since the comma operator has **lower** precedence than the ternary operator. But that doesn't make any sense in the language, and that's why the first form is understood by the compiler, **even contradicting the precedence table**. This is corroborated by the following [quote from Wikipedia](http://en.wikipedia.org/wiki/Operators_in_C_and_C):
 
 
-<blockquote>_A precedence table, while mostly adequate, cannot resolve a few details. In particular, note that the ternary operator allows any arbitrary expression as its middle operand, despite being listed as having higher precedence than the assignment and comma operators._</blockquote>
+> _A precedence table, while mostly adequate, cannot resolve a few details. In particular, note that the ternary operator allows any arbitrary expression as its middle operand, despite being listed as having higher precedence than the assignment and comma operators._
 
 
 That is one of the reasons why the precedence table is just a _way to express the grammar rules of a language in a simple and resumed manner_. It **is not the grammar** neither ought to be. Let's see one more quotation, this time from the Stroustrup himself, just after presented the C++ precedence table (by the way, that was the source used by me to get the table for my post):
 
 
-<blockquote>_A few grammar rules cannot be expressed in terms of precedence (also known as binding strength) and associativity._</blockquote>
+> _A few grammar rules cannot be expressed in terms of precedence (also known as binding strength) and associativity._
 
 
 We can see from my example, the Wikipedia example and the Stroustrup example that the ternary operator is the main victim. Not for less. Talking about the grammar, **the C ternary operator definition is different from the C++ ternary operator definition**. While in C this operator is defined like this:

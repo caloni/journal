@@ -83,7 +83,7 @@ Pela imagem acima sabemos que após o _boot_ foi executada a interrupção 0x13,
 [![O início do pequeno OS](/images/myos-start.png)](/images/myos-start.png)
 
 
-<blockquote>_Adendo: fiz um_[](/images/biosdebug.7z)_ [vídeo de demonstração](/images/biosdebug.7z)__ dos passos aqui descritos, para facilitar a visualização dos fatos. Ficou claro? =) _</blockquote>
+> _Adendo: fiz um_[](/images/biosdebug.7z)_ [vídeo de demonstração](/images/biosdebug.7z)__ dos passos aqui descritos, para facilitar a visualização dos fatos. Ficou claro? =) _
 
 
 

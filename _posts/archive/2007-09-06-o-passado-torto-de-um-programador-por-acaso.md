@@ -6,13 +6,10 @@ tags: [ "devaneando" ]
 
 
 
-<blockquote>_Bom, acho que depois de algumas dúzias de artigos, chegou a hora de apresentar o autor deste __blogue. Muito prazer, meu nome é Wanderley Caloni Junior e eu sou um programador C/C++. Segue uma pequena história sobre meu passado. Obs.: este é um artigo não-técnico, o que quer dizer que você pode se deparar com termos desconhecidos. Procure ter à mão um [dicionário de pessoas comuns](http://compare.buscape.com.br/categoria?id=30&lkout=1&kw=houaiss+aurelio+michaelis&site_origem=1293522)._</blockquote>
+> _Bom, acho que depois de algumas dúzias de artigos, chegou a hora de apresentar o autor deste __blogue. Muito prazer, meu nome é Wanderley Caloni Junior e eu sou um programador C/C++. Segue uma pequena história sobre meu passado. Obs.: este é um artigo não-técnico, o que quer dizer que você pode se deparar com termos desconhecidos. Procure ter à mão um [dicionário de pessoas comuns](http://compare.buscape.com.br/categoria?id=30&lkout=1&kw=houaiss+aurelio+michaelis&site_origem=1293522)._
 
 
 
-
-
-<blockquote></blockquote>
 
 
 Sabe aquele senso comum de que adolescente não sabe o que quer da vida? Pois é, naquela época eu não sabia mesmo. Quando iniciei minha vida, queria ser desenhista. Então descobri que não conseguia desenhar sem uma régua, o que me levava a crer que seria engenheiro. Mas engenheiro de quê? Bom, como esse tipo de pergunta tem um nível de complexidade além dos limites de uma criança de 12 anos, decidi que decidiria isso na minha oitava série.
