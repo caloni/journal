@@ -1,6 +1,6 @@
 ---
 title: Introdução ao Debugging Tools for Windows
-tags: [ "depuração", "engenharia reversa", "ferramentas", "debug", "depuradores", "ferramentas" ]
+tags: [ "depuração", "engenharia reversa", "ferramentas", "debug", "depuradores", "ferramentas", "windbg" ]
 ---
 
 O **WinDbg** é uma ferramenta obrigatória em uma das minhas mais divertidas tarefas aqui na [Open](http://www.opencs.com.br): engenharia reversa de [cavalos de tróia](http://pt.wikipedia.org/wiki/Trojan). Não tenho o código-fonte desses programas, não posso executá-los em minha própria máquina e não consigo fazer tudo que preciso usando apenas o depurador integrado do Visual Studio (como remontar o _assembly _do programa, por exemplo). Tudo isso faz do WinDbg a alternativa perfeita (senão uma das únicas). É um depurador que permite ser usado tanto através de **janelas **quanto através de** comandos**, o que permite um aprendizado em doses homeopáticas: comece com as janelas e aos poucos ganhe o controle total. Conseqüentemente cada dia aprendo um comando novo ou um novo uso para um comando que já conheço.
