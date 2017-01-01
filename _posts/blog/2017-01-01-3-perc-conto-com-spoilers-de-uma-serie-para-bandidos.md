@@ -1,6 +1,6 @@
 ---
 category: "blog"
-title: "3%"
+title: "3%: spoilers sobre uma série para bandidos"
 imdb: "4922804"
 stars: "3/5"
 tags: ['netflix']
