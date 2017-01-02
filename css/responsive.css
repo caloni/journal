@@ -6,14 +6,6 @@
   .header {
     padding-top: 3.45em;
   }
-
-  .posts {
-    font-size: 2em;
-  }
-
-  .footer {
-    font-size: 0.85em;
-  }
 }
 
 @media (max-width:1090px) {
@@ -21,17 +13,8 @@
     max-width: 100px;
   }
 
-  #title {
-    font-size: 1.5em;
-    line-height: 35px;
-  }
-
   .header {
     padding-top: 3.85em;
-  }
-
-  .posts {
-    font-size: 0.85em;
   }
 
   .sidebar {
@@ -40,10 +23,6 @@
 
   .content {
     padding-right: 3em;
-  }
-
-  .footer {
-    font-size: 0.85em;
   }
 }
 
@@ -57,10 +36,6 @@
 
   #cover-photo-container {
     text-align: center;
-  }
-
-  #title {
-    font-size: 1em;
   }
 
   .sidebar {

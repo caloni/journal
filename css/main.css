@@ -1,13 +1,12 @@
 
 body {
-    max-width: 1024px;
-margin: 0 auto !important;
-float: none !important;
-color: #4a4a4a;
+  max-width: 1024px;
+  margin: 0 auto !important;
+  float: none !important;
+  color: #4a4a4a;
   font-family: monospace;
-  font-size: 2em;
   font-weight: 400;
-text-align: justify;
+  text-align: justify;
 }
 
 a {
