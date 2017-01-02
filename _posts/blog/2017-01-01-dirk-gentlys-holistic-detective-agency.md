@@ -1,5 +1,5 @@
 ---
-category: "movies"
+category: "blog"
 title: "Dirk Gently's Holistic Detective Agency"
 imdb: "4047038"
 stars: "3/5"
