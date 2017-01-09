@@ -13,7 +13,7 @@ import msvcrt as m
 from pyshorteners import Shortener
 import frontmatter
 
-sys.path.append(r'c:\users\wanderley\.pwd')
+sys.path.append(r'c:\users\caloni\.pwd')
 import twitter_cinetenisverde as twitter_credentials
 import facebook_cinetenisverde as facebook_credentials
 

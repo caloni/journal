@@ -1,0 +1,4 @@
+pyshorteners==0.6.0
+Pillow==4.0.0
+python_frontmatter==0.3.1
+python_twitter==3.2
