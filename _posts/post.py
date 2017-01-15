@@ -239,10 +239,10 @@ def PublishToSocialMedia(post):
         if republish == False:
             webbrowser.open_new_tab(link)
         SearchAdoroCinema(postInfo)
-        #if postInfo.has_key('adoroCinemaId'):
-        #    PublishToAdoroCinema(postInfo)
-        #webbrowser.open_new_tab('https://www.facebook.com/cinetenisverde/')
-        #webbrowser.open_new_tab('https://twitter.com/')
+        if postInfo.has_key('adoroCinemaId'):
+            PublishToAdoroCinema(postInfo)
+        webbrowser.open_new_tab('https://www.facebook.com/cinetenisverde/')
+        webbrowser.open_new_tab('https://twitter.com/')
     except Exception as e:
         print '*** Something gone wrong!'
         if afterMove == True:
