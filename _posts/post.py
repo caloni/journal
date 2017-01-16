@@ -13,7 +13,7 @@ import msvcrt as m
 from pyshorteners import Shortener
 
 Credentials = {}
-sys.path.append(r'c:\users\wanderley\.pwd')
+sys.path.append(r'c:\users\caloni\.pwd')
 import twitter_bitforge
 Credentials['twitter_bitforge'] = twitter_bitforge
 import facebook_bitforge
