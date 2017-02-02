@@ -114,17 +114,18 @@ $(document).ready(function(){
   {% for post in site.posts %}
   <tr><td>
         <a href="{{ post.url }}" 
-        title="Post Title: {{ post.title }}
-Post Date: {{ post.date | date: '%Y-%m-%d' }}
-Post Category: {{ post.category }}
-Post Tags: {{ post.tags | join: ', ' }}"
+        title="{% include all_item_tooltip.html %}"
 >
+		{% include all_item_ranking.html %}
+
         {{ post.title }}
+
+		{% include all_item_details.html %}
 
         </a>
   </td></tr>
   {% endfor %}
   </table>
 <div style="text-align: right; font-size: small; margin-bottom: 25px;">
-    <a href="/" title="Voltar para Home"><i>Blogue do Caloni - {{ site.time | date: "%Y-%m-%d %H:%M:%S" }}</i></a>
+    <a href="/" title="Voltar para Home"><i>{{ site.name }} - {{ site.time | date: "%Y-%m-%d %H:%M:%S" }}</i></a>
 </div>

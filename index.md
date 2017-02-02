@@ -26,7 +26,7 @@ function parseQueryFromUrl () {
       }
       google.load('search', '1', {language : 'pt'});
       google.setOnLoadCallback(function() {
-        var customSearchControl = new google.search.CustomSearchControl('005399618489749432245:zflfst4-oeq');
+        var customSearchControl = new google.search.CustomSearchControl('{{ site.google_search_customsearchcontrol }}');
         customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
         var options = new google.search.DrawOptions();
         options.enableSearchResultsOnly();
@@ -39,14 +39,8 @@ function parseQueryFromUrl () {
 // ]]></script>
 
 {% for post in site.posts limit:20  %}
-{% assign page = post %}
-{% assign content = post.excerpt | remove: '<p>' | remove: '</p>' %}
-  <div id="post-info">
-    <div class="post">
-      <span>{{ content }}<span><a href="{{ post.url }}">{{ page.title }}</a></span></span>
-    </div>
-  </div>
+{% include index_item_content.html %}
 {% endfor %}
 <div style="text-align: right; font-size: small; margin-bottom: 25px;">
-    <a href="/all" title="Ver todos os posts (isso pode ser looooooooooongo)"><i>Blogue do Caloni - {{ site.time | date: "%Y-%m-%d %H:%M:%S" }}</i></a>
+    <a href="/all" title="Ver todos os posts (isso pode ser looooooooooongo)"><i>{{ site.name }} - {{ site.time | date: "%Y-%m-%d %H:%M:%S" }}</i></a>
 </div>
