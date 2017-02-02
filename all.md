@@ -113,40 +113,19 @@ $(document).ready(function(){
   <input type="text" name="filter" value="" id="filter" style="width: 100%; font-size: 22px;" title=""/>
   {% for post in site.posts %}
   <tr><td>
-        <a href="{{ post.url }}" 
-        title="Post Title: {{ post.title }}
-Post Date: {{ post.date | date: '%Y-%m-%d' }}
-Post Category: {{ post.category }}
-Post Stars: {{ post.stars }}
-Post Tags: {{ post.tags | join: ', ' }}
-Revision Dates: {% if post.revision %}{{ post.revision | join: ', ' }}{% else %}{{ post.date | date: '%Y-%m-%d' }}{% endif %}
-Revision Count: {% if post.revision %}{{ post.revision.size | plus: 1 }}{% else %}1{% endif %}
-Original Title: {{ post._title }}
-Year: {{ post._year }}
-Director: {{ post._director | join: ', ' }}
-Writer: {{ post._writer | join: ', ' }}
-Cast: {{ post._cast | join: ', ' }}
-Country: {{ post._countries | join: ', ' }}
-Editor: {{ post._editor | join: ', ' }}
-Cinematographer: {{ post._cinematographer | join: ', ' }}
-Music: {{ post._music | join: ', ' }}
-Genres: {{ post._genres | join: ', ' }}
-Runtime: {{ post._runtimes | join: ', ' }}
-Kind: {{ post._kind }}
-Ratio: {{ post._ratio }}"
+        <a href="{{ post.url }}"
+		title="{% include all_item_tooltip.html %}"
 >
-        {% if post.stars == "5/5" or stars == "5/5" %}&#x2605;&#x2605;&#x2605;&#x2605;&#x2605;{% elsif post.stars == "4/5" or stars == "4/5" %}&#x2605;&#x2605;&#x2605;&#x2605;&#x2606;{% elsif post.stars == "3/5" or stars == "3/5" %}&#x2605;&#x2605;&#x2605;&#x2606;&#x2606;{% elsif post.stars == "2/5" or stars == "2/5" %}&#x2605;&#x2605;&#x2606;&#x2606;&#x2606;{% elsif post.stars == "1/5" or stars == "1/5" %}&#x2605;&#x2606;&#x2606;&#x2606;&#x2606;{% endif %}
+		{% include all_item_ranking.html %}
 
         {{ post.title }}
 
-        {% if post._director or post._year %}
-        ({% if post._director %}{{ post._director | join: ', ' }}, {% endif %}{% if post._year %}{{ post._year }}{% endif %})
-        {% endif %}
+		{% include all_item_details.html %}
 
         </a>
   </td></tr>
   {% endfor %}
   </table>
 <div style="text-align: right; font-size: small; margin-bottom: 25px;">
-    <a href="/" title="Voltar para Home"><i>Cine Tênis Verde - {{ site.time | date: "%Y-%m-%d %H:%M:%S" }}</i></a>
+    <a href="/" title="Voltar para Home"><i>{{ site.name }} - {{ site.time | date: "%Y-%m-%d %H:%M:%S" }}</i></a>
 </div>

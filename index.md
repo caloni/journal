@@ -26,7 +26,7 @@ function parseQueryFromUrl () {
       }
       google.load('search', '1', {language : 'pt'});
       google.setOnLoadCallback(function() {
-        var customSearchControl = new google.search.CustomSearchControl('005399618489749432245:uxhode2mus4');
+        var customSearchControl = new google.search.CustomSearchControl('{{ site.google_search_customsearchcontrol }}');
         customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
         var options = new google.search.DrawOptions();
         options.enableSearchResultsOnly();
@@ -39,21 +39,8 @@ function parseQueryFromUrl () {
 // ]]></script>
 
 {% for post in site.posts limit:20  %}
-{% assign page = post %}
-{% assign content = post.excerpt %}
-  <div id="post-info">
-    <div id="cover-photo-container">
-      <img id="cover-photo" src="/images/screenshots{{ page.id }}.jpg">
-    </div>
-    <div id="info-container">
-      <div id="title"><a href="{{ post.url }}">{{ page.title }}</a></div>
-      <span id="details">{% if page._director %}{{ page._director | join: ', ' }}, {% endif %}{% if page._year %}{{ page._year }}{% endif %}</span>
-    </div>
-    <div class="post">
-      {{ content }}
-    </div>
-  </div>
+{% include index_item_content.html %}
 {% endfor %}
 <div style="text-align: right; font-size: small; margin-bottom: 25px;">
-    <a href="/all" title="Ver todos os posts (isso pode ser looooooooooongo)"><i>Cine Tênis Verde - {{ site.time | date: "%Y-%m-%d %H:%M:%S" }}</i></a>
+    <a href="/all" title="Ver todos os posts (isso pode ser looooooooooongo)"><i>{{ site.name }} - {{ site.time | date: "%Y-%m-%d %H:%M:%S" }}</i></a>
 </div>
