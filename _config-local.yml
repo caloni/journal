@@ -8,3 +8,6 @@ defaults:
   -
     values:
       layout: post
+exclude:
+  - _posts/archive
+  - _drafts/daytoday.md
