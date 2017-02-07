@@ -9,5 +9,12 @@ defaults:
     values:
       layout: post
 exclude:
-  - _posts/archive
+  - _posts/archive/200
+  - _posts/archive/2010
+  - _posts/archive/2011
+  - _posts/archive/2012
+  - _posts/archive/2013
+  - _posts/archive/2014
+  - _posts/archive/2015
+  - _posts/archive/2016
   - _drafts/daytoday.md
