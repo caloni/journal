@@ -66,7 +66,7 @@ def PublishToTwitter(postInfo):
     t_up = twitter.Twitter(domain='upload.twitter.com', auth=twitter_credentials.auth)
     id_img1 = t_up.media.upload(media=imagedata)["media_id_string"]
     stars = PrintStars(postInfo['stars']) if postInfo.has_key('stars') else ''
-    st = stars + ' ' + postInfo['title'] + ' ' + postInfo['shortlink'].encode('utf-8') + postInfo['tags']
+    st = stars + ' ' + postInfo['title'] + ' ' + postInfo['shortlink'] + ' ' + postInfo['tags']
     t.statuses.update(status=st, media_ids=",".join([id_img1]))
 
 
@@ -225,7 +225,7 @@ def PublishToSocialMedia(post):
             time.sleep(3)
             try:
                 shortener = GetShortener(lastShortener)
-                postInfo['shortlink'] = shortener.short(baseUrl + postInfo['permalink']).encode('utf-8')
+                postInfo['shortlink'] = baseUrl + postInfo['permalink']
                 shortenerOk = True
             except Exception as e:
                 print "Exception in shortener, waiting: ", str(e)
