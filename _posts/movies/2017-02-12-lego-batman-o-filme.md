@@ -3,7 +3,7 @@ category: "movies"
 title: "LEGO Batman: O Filme"
 imdb: "4116284"
 stars: "4/5"
-tags: ['cinema']
+tags: ['cinema', '3d']
 _title: "The LEGO Batman Movie"
 _year: "2017"
 _director: ["Chris McKay", ]
