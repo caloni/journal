@@ -168,6 +168,10 @@ def writereview(filePath, header, review, imdbData):
   if imdbData.has_key('aspect ratio'): write(f, imdbData['aspect ratio'], '_ratio')
   if imdbData.has_key('kind'): write(f, imdbData['kind'], '_kind')
   if imdbData.has_key('cover url'): write(f, imdbData['cover url'], '_cover')
+  access.update(imdbData, 'release dates')
+  for rd in imdbData['release dates']:
+    if rd.find('Brazil::') != -1:
+        write(f, rd[rd.rfind(':')+1:], '_releasedate')
   #  if not header.has_key('localcover'):
   #    coverUrl = imdbData['cover url']
   #    fileName = os.path.basename(filePath)[11:][:-3] + '.jpg'
