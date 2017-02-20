@@ -171,7 +171,7 @@ def PublishToSocialMedia(post):
             facebook = True
         print '*** Done!'
         if facebook:
-            webbrowser.open_new_tab('https://www.facebook.com/search/top/?q=' + credential)
+            webbrowser.open_new_tab('https://www.facebook.com')
         if twitter:
             webbrowser.open_new_tab('https://twitter.com/')
     except Exception as e:
