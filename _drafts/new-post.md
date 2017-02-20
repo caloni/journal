@@ -6,4 +6,4 @@ stars: "3/5"
 tags: ["netflix", "cabine"]
 
 ---
-Crítica completa na estreia do filme no [CinemAqui]().
+_Crítica completa na estreia do filme no [CinemAqui]()._
