@@ -41,7 +41,11 @@ Source: [http://www.frc.ri.cmu.edu/~hpm/project.archive/general.articles/1998/Si
 
 ## Ayn Rand
 
-### crítica: Why I Am Not an Objectivist (Michael Huemer)
+### crítica: [Why I Am Not an Objectivist (Michael Huemer)](http://www.owl232.net/rand.htm)
+
+I say that reason does not only operate on input provided to it by other faculties, but is also a faculty of direct awareness of certain things - namely, all the things listed above. This knowledge that originates in reason is direct in the same sense that perceptions are direct knowledge. It is not innate, for the same reason that observations are not innate - it is acquired only by exercising the faculty (though the faculty is innate in both cases), and therefore not all the things in principle knowable by reason are actually known.
+
+That these are universals is shown by the fac that they can have multiple instances.
 
 ### defensor: Roderick T. Long
 

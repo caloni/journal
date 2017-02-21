@@ -40,6 +40,8 @@ Source: https://www.reddit.com/r/psychology/comments/3j5ex5/to_stop_procrastinat
 
 > The flow state has been described by Csikszentmihályi as the "optimal experience" in that one gets to a level of high gratification from the experience. 
 
+> In his chapter "Why Flow Doesn't Happen on the Job," Csikszentmihályi argues the first reason that flow does not occur is that the goals of one's job are not clear. He explains that while some tasks at work may fit into a larger, organization plan, the individual worker may not see where their individual task fits it. Second, limited feedback about one's work can reduce motivation and leaves the employee unaware of whether or not they did a good job. When there is little communication of feedback, an employee may not be assigned tasks that challenge them or seem important, which could potentially prevent an opportunity for flow. 
+
 
 # Optimizing Your Development Environment (www.mpscholten.de)
 
