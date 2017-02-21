@@ -19,15 +19,15 @@ Clique [aqui](http://v25media.s3.amazonaws.com/edw519_mod.html) para baixar seu 
  - Apenas se mantenha humilde, lembre-se: nós todos estamos apenas a uma batida de cabeça da feliz ignorância.
  - É muito mais fácil julgar algo que já existe que definir algo que não existe.
  - Engenharia de software não está morta. É que o processo de depender de modelos antes de iniciar nunca funcionou em primeiro lugar.
- - A necessidade de frameworks e linguagens de alto nível só se torna aparente quando crescemos tanto qeu não é possível achar mais hackers sênior o suficiente. Só quando você apela para as massas medíocres que você precisa dessa ajuda.
+ - A necessidade de frameworks e linguagens de alto nível só se torna aparente quando crescemos tanto que não é possível achar mais hackers experientes o suficiente. Só quando você apela para as massas medíocres que você precisa dessa ajuda.
 
 
 ### Algumas frases de efeito terceirizadas
 
- - "Eu só vejo um lance à frente, mas é sempre o correto." - mestre de xadrez Jose Raul Capablanca.
+ - "Eu só vejo um lance à frente, mas é sempre o correto." - mestre de xadrez Jose Raul Capablanca
  - "Você não pode resolver um problema com a mesma mente que a criou." - Albert Einstein
- - "Foque no menor problema possível que você pode resolver que poderia ser potencialmente útil." - David Cohen
- - "Cada momento que você está trabalhando em algo sem estar na arena pública, ela está na verdade morrendo, privada do oxigênio do mundo real." - Matt Mullenweb
+ - "Foque no menor problema possível que você pode resolver que cuja solução será potencialmente útil." - David Cohen
+ - "Cada momento que você está trabalhando em algo sem estar na arena pública, esse algo está na verdade morrendo, privado do oxigênio do mundo real." - Matt Mullenweb
  - "Quando apresentado com um crescimento exponencial, lembre-se que as pessoas tendem a superestimar drasticamente o que irá acontecer o curto prazo, mas subestimam profundamente o que acontece sobre longos períodos de tempo." - Ryan McIntyre
  - "O que nós acreditamos é baseado em nossas percepções. O que nós percebemos depende do que estamos procurando. O que nós estamos procurando depende do que pensamos. O que pensamos depende do que percebemos. O que nós percebemos é o que aceitamos como verdade. O que aceitamos como verdade é nossa realidade." - Gary Zukav
 
@@ -72,8 +72,8 @@ Clique [aqui](http://v25media.s3.amazonaws.com/edw519_mod.html) para baixar seu 
    - entende a arquitetura implícita e como melhor utilizá-la
    - nunca escreve o mesmo código duas vezes
    - nunca escreve em 150 linhas o que poderia ser escrito em 100
-   - Código ruim: não-cometado. Medíocre: comentado. Bom: não precisa de comentários.
+   - Código ruim: não-comentado. Medíocre: comentado. Bom: não precisa de comentários.
    - entende o ciclo de vida do código inteiro e o escreve para durar
    - tem pena da pobre alma que tem que mantê-lo e deixa uma dica ou duas
-   - escreve de maneira flexível para ser facilmente mudado antes que o projeto termine
+   - escreve de maneira flexível para ser facilmente mudado antes que o projeto termine.
 
