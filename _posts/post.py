@@ -18,17 +18,6 @@ import twitter_bitforge
 Credentials['twitter_bitforge'] = twitter_bitforge
 import facebook_bitforge
 Credentials['facebook_bitforge'] = facebook_bitforge
-import twitter_caloni
-Credentials['twitter_caloni'] = twitter_caloni
-#not working
-#import facebook_caloni
-#Credentials['facebook_caloni'] = facebook_caloni
-import twitter_ccppbrasil
-Credentials['twitter_ccppbrasil'] = twitter_ccppbrasil
-#not working
-#import facebook_ccppbrasil
-#Credentials['facebook_ccppbrasil'] = facebook_ccppbrasil
-
 
 baseUrl = 'http://www.caloni.com.br/' 
 
@@ -158,7 +147,7 @@ def PublishToSocialMedia(post):
         # Testing image first
         with open(postInfo["screenshot"], "rb") as imagefile:
         	imagedata = imagefile.read()
-        credential = input('What credential use to social media?')
+        credential = 'bitforge'
         facebook = False
         twitter = False
         if Credentials.has_key('twitter_' + credential):
