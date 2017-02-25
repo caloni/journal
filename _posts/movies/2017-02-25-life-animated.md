@@ -3,7 +3,7 @@ category: "movies"
 title: "Life, Animated"
 imdb: "3917210"
 stars: "3/5"
-tags: ['cabine']
+tags: ['cabine', 'oscar2017']
 _title: "Life, Animated"
 _year: "2016"
 _director: ["Roger Ross Williams", ]

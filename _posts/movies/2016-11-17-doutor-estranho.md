@@ -3,7 +3,7 @@ category: "movies"
 title: "Doutor Estranho"
 imdb: "1211837"
 stars: "3/5"
-tags: ['cinema', '3d']
+tags: ['cinema', '3d', 'oscar2017']
 _title: "Doctor Strange"
 _year: "2016"
 _director: ["Scott Derrickson", ]

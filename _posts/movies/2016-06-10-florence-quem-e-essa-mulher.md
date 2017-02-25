@@ -5,6 +5,7 @@ imdb: "4136084"
 stars: "4/5"
 title: "Florence - Quem é Essa Mulher?"
 review: ["2016-09-18"]
+tags: ['cabine', 'oscar2017']
 _title: "Florence Foster Jenkins"
 _year: "2016"
 _director: ["Stephen Frears", ]

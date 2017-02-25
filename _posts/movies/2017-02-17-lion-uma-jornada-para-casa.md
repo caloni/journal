@@ -3,7 +3,7 @@ category: "movies"
 title: "Lion: Uma Jornada Para Casa"
 imdb: "3741834"
 stars: "4/5"
-tags: ['popcorntime']
+tags: ['popcorntime', 'oscar2017']
 _title: "Lion"
 _year: "2016"
 _director: ["Garth Davis", ]

@@ -3,7 +3,7 @@ category: "movies"
 title: "Até o Último Homem"
 imdb: "2119532"
 stars: "5/5"
-tags: ['popcorntime']
+tags: ['popcorntime', 'oscar2017']
 _title: "Hacksaw Ridge"
 _year: "2016"
 _director: ["Mel Gibson", ]

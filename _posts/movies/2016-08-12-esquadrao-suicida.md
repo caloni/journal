@@ -3,6 +3,7 @@ category: "movies"
 imdb: "1386697"
 stars: "2/5"
 title: "Esquadrão Suicida"
+tags: ['cinema', '3d', 'oscar2017']
 _title: "Suicide Squad"
 _year: "2016"
 _director: ["David Ayer", ]

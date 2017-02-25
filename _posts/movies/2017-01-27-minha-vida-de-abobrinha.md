@@ -3,7 +3,7 @@ category: "movies"
 title: "Minha Vida de Abobrinha"
 imdb: "2321405"
 stars: "3/5"
-tags: ['netflix', 'cabine']
+tags: ['netflix', 'cabine', 'oscar2017']
 _title: "Ma vie de Courgette"
 _year: "2016"
 _director: ["Claude Barras", ]

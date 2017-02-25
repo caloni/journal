@@ -3,7 +3,7 @@ category: "movies"
 title: "Manchester À Beira-Mar"
 imdb: "4034228"
 stars: "4/5"
-tags: ['torrent']
+tags: ['torrent', 'oscar2017']
 _title: "Manchester by the Sea"
 _year: "2016"
 _director: ["Kenneth Lonergan", ]

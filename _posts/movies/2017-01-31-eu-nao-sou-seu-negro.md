@@ -3,7 +3,7 @@ category: "movies"
 title: "Eu Não Sou Seu Negro"
 imdb: "5804038"
 stars: "5/5"
-tags: ['cabine']
+tags: ['cabine', 'oscar2017']
 _title: "I Am Not Your Negro"
 _year: "2016"
 _director: ["Raoul Peck", ]

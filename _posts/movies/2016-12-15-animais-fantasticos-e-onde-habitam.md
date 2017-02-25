@@ -3,7 +3,7 @@ category: "movies"
 title: "Animais Fantásticos e Onde Habitam"
 imdb: "3183660"
 stars: "4/5"
-tags: ['cinema']
+tags: ['cinema', 'oscar2017']
 _title: "Fantastic Beasts and Where to Find Them"
 _year: "2016"
 _director: ["David Yates", ]
