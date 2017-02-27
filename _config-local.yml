@@ -18,3 +18,4 @@ exclude:
   - _posts/archive/2015
   - _posts/archive/2016
   - _drafts/daytoday.md
+  - _drafts/new-post.md
