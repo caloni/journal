@@ -1,0 +1,14 @@
+name: Blogue do Caloni
+permalink: :title
+google_search_customsearchcontrol: 005399618489749432245:zflfst4-oeq
+google_analytics_id: UA-50557403-2
+gems:
+  - jekyll-feed
+defaults:
+  -
+    values:
+      layout: post
+exclude:
+  - _posts/archive
+  - _drafts/daytoday.md
+  - _drafts/new-post.md
