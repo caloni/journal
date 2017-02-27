@@ -3,6 +3,8 @@ title: "Insights sobre produtividade, auto-ajuda e melhora contínua"
 tags: [ ]
 
 ---
+"10 Passos para a Estratégia Kaizen", "5 Unusual Ways to Start Working Smarter, Not Harder, Backed by Science", "A Model of Emotion (markpneyer.me)", "Best Writing Advice for Engineers I've Ever Seen. Period.", "How to Beat Procrastination - Less Wrong (lesswrong.com)", "How to Make Mistakes (ase.tufts.edu)", "How to be a great software developer", "News is bad for you and giving up reading it will make you happier", "O Poder do Agora (Eckhart Tolle)", "O cansaço mental (Ediciones El País)", "Scott Adams: How to Be Successful - WSJ  (online.wsj.com)", "Sleep Everything You Need To Know (The Healthy Life)", "Technology is Heroin  (whattofix.com)", "The 10 commandments for happiness and success  (chentir.com)", "What You'll Wish You'd Known (paulgraham.com)", FLOW - a productivity hack for life - THE LIFE DIGITAL (Alex Gonçalves), Flow (psychology) - Wikipedia (wikipedia.org), Jessica Livingston's Pretty Complete List on How Not to Fail · The Macro (The Macro), Negative Emotions Are Key to Well-Being  (scientificamerican.com), Optimizing Your Development Environment (www.mpscholten.de), The Mechanics of Emotion  (instapaper.com), To Stop Procrastinating, Start by Understanding the Emotions Involved: psychology  (reddit.com), tantek / WillpowerImprovement (pbworks.com).
+
 # The Mechanics of Emotion  (instapaper.com)
 
 > A non-trivial portion of your emotional state is a signal describing your mind's assessment of 'the structure of possibility' of your reality model.

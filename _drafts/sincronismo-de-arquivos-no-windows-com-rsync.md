@@ -11,6 +11,66 @@ Há um guia para não-iniciantes no site [How-To-Geek](http://www.howtogeek.com/
 
 No site How-To-Geek existe um [tutorial](http://www.howtogeek.com/howto/41560/how-to-get-ssh-command-line-access-to-windows-7-using-cygwin/) para configurar o client e servidor ssh do Cygwin. Após esse setup inicial o uso do rsync se torna automático. A cópia de uma pasta foi feita com o seguinte comando:
 
+Foram montados cliente e servidor a partir de uma instalação simples do Cygwin (no servidor):
+
+#### 1. Instalar o Cygwin na máquina servidora checando além do default os módulos openssh e rsync.
+
+Ambos estão na categoria Net e devem estar selecionados:
+
+![](/images/cygwin-setup-openssh.png)
+
+![](/images/cygwin-setup-rsync.png)
+
+#### 2. Gerar o pacote client copiando o rsync.exe, ssh.exe e as DLLs necessárias.
+
+Você pode gerar uma batch com os comandos abaixo:
+
 ```cmd
-rsync -a -e 'ssh' /cygdrive/c/Temp/files/src/ Caloni@localhost:/cygdrive/c/Temp/files/dest
+@echo off
+mkdir rsync
+pushd rsync
+copy \cygwin64\bin\cygcom_err-2.dll
+copy \cygwin64\bin\cygcrypto-1.0.0.dll
+copy \cygwin64\bin\cyggcc_s-seh-1.dll
+copy \cygwin64\bin\cyggssapi_krb5-2.dll
+copy \cygwin64\bin\cygiconv-2.dll
+copy \cygwin64\bin\cygintl-8.dll
+copy \cygwin64\bin\cygk5crypto-3.dll
+copy \cygwin64\bin\cygkrb5-3.dll
+copy \cygwin64\bin\cygkrb5support-0.dll
+copy \cygwin64\bin\cygssp-0.dll
+copy \cygwin64\bin\cygwin1.dll
+copy \cygwin64\bin\cygz.dll
+copy \cygwin64\bin\rsync.exe
+copy \cygwin64\bin\ssh.exe
+popd
 ```
+
+#### 3. No server, em um bash iniciado com privilégios de admin (e elevado), rodar o script ssh-host-config para instalar o daemon de ssh.
+
+#### 4. Ao ser questionado sobre o valor do daemon para o CYGWIN, digitar ntsec.
+
+#### 5. Iniciar o daemon... quer dizer, serviço do Windows, com o comando net start sshd.
+
+#### 6. Para configurar as chaves de conexão do ssh executar, agora em um bash da conta usada, o script ssh-user-config.
+
+#### 7. Copiar a pasta com os arquivos para o cliente na máquina que irá conectar com o servidor.
+
+#### 8. Em um prompt nessa máquina, dentro da pasta copiada, executar para testar o comando ssh <ip-do-servidor>.
+
+#### 9. Usar o usuário (case sensitive) e a senha (do Windows) do servidor quando questionado.
+
+#### 10. Funcionando a conexão é possível passar para o teste de cópia de arquivo.
+
+#### 11. Teste de cópia de arquivos: rsync -a /cygdrive/c/pasta-de-teste/ user@localhost:/cygdrive/c/pasta-de-teste-destino.
+
+
+O próximo problema ainda não resolvido é evitar a pergunta da senha e usar a chave privada do cliente.
+
+
+### Problemas mais comuns
+
+#### Erro de acesso negado, mesmo digitando a senha certa para o usuário
+
+Verifique se o nome do usuário bate o case com o usuário remoto. Os usuários no Linux são case sensitive, então uma letra maiúscula pode fazer com que o serviço de ssh não encontre o usuário.
+

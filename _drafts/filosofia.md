@@ -3,6 +3,8 @@ title: "Filosofia"
 tags: [ ]
 
 ---
+"A consciência pode ser primariamente essa estória contínua que contamos a nós mesmos, de momento a momento, sobre o que fizemos e por que nós o fizemos. A mente humana pode estar apenas interpretando seu próprio funcionamento como consciente, resgatando a si mesma da zumbilidade sem sentido, mas alguns humanos cientes apenas ocasionalmente das qualidades mais grosseiras do nosso ambiente imediato e nosso passado imediato são com certeza insuficientes para trazer todo o significado do universo visível."
+
 # Saite para pesquisar sobre o assunto
 
  - [Internet Encyclopedia of Philosophy](http://www.iep.utm.edu/)

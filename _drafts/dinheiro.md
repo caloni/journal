@@ -4,8 +4,7 @@ tags: [ "leituras", "finanças" ]
 date: 2016-12-20
 
 ---
-* Do not remove this line (it will not be displayed)
-{:toc}
+Os Grandes Axiomas: Preocupação não é doença, mas sinal de saúde. Se você não está preocupado, não está arriscando o bastante. Realize o lucro sempre cedo demais. Quando o barco começar a afundar, nãoreze. Abandone-o. O comportamento do ser humano não é previsível. Desconfio de quem afirmar que conhece uma nesga que seja do futuro. Até começar a parecer ordem, o caos não é perigoso. Só se pode confiar num palpite que possa ser explicado. É improvável que entre os desígnios de Deus para o Universo se inclua o de fazer você ficar rico. Otimismo significa esperar o melhor, mas confiança significa saber como se lidará com o pior. Jamais faça uma jogada por otimismo apenas. Fuja da opinião da maioria. Provavelmente está errada. Se não deu certo da primeira vez, esqueça. Planejamentos a longo prazo geram a perigosa crença de que o futuro está sob controle. É importante jamais levar muito a sério os seus planos a longo prazo, nem os de quem quer que seja. 
 
 # Projeto Money
 

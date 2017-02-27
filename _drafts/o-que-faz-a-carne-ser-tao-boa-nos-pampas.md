@@ -1,9 +1,10 @@
 ---
 title: "O que faz a carne ser tão boa nos pampas?"
 tags: [ "viagens", "relatos", "diário", "férias" ]
-date: 2017-01-16
 
 ---
+A comida em Colônia é bem normal. O bom de lá é o sorvete de doce de leite da sorveteria do lado do muro histórico e só. O resto é aceitável. Alguns lugares são mais ou menos pra ruim. Já em Montevideo achamos uma churrascaria boa demais, de bairro, e lá jantamos todas as noites. É meio cara, como tudo na cidade, mas valeu à pena, já que tudo é meio caro.
+
 # Uruguai 2016
 
 Essa viagem foi fácil de gerenciar e de trocar valores cambiais, graças à facilidade de trocar dinheiro no Uruguai. Em qualquer um deles, basta falar a quantidade, dar o dinheiro, receber o dinheiro. Ficou a dica também de nunca trocar valores nos aeroportos do Brasil. A cotação é um roubo. Também nada de trocar em SP. É muita burocracia pra uma cabeça só.
