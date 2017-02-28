@@ -2,7 +2,7 @@
 category: "blog"
 imdb: "4341500"
 stars: "2/5"
-title: "Mais um Verão Americano"
+title: "Mais um Verão Americano (piloto)"
 _title: "Wet Hot American Summer: First Day of Camp"
 _year: "2015"
 _director: ["David Wain", ]

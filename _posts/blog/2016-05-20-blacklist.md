@@ -1,7 +1,7 @@
 ---
 imdb: "2741602"
 stars: "3/5"
-title: "Blacklist"
+title: "Blacklist (piloto)"
 category: "blog"
 _title: "The Blacklist"
 _year: "2013"

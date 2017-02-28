@@ -2,7 +2,7 @@
 category: "blog"
 imdb: "4145760"
 stars: "2/5"
-title: "The Lizzie Borden Chronicles"
+title: "The Lizzie Borden Chronicles (piloto)"
 _title: "The Lizzie Borden Chronicles"
 _year: "2015"
 _director: ["Howard Deutch", "Stephen Kay", "Constantine Makris", "Russell Mulcahy", ]

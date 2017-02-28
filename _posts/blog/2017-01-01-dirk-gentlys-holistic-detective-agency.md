@@ -1,6 +1,6 @@
 ---
 category: "blog"
-title: "Dirk Gently's Holistic Detective Agency"
+title: "Dirk Gently's Holistic Detective Agency S01 E01-03"
 imdb: "4047038"
 stars: "3/5"
 tags: ['netflix']

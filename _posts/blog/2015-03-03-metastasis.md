@@ -2,7 +2,7 @@
 category: "blog"
 imdb: "3190448"
 stars: "4/5"
-title: "Metástasis"
+title: "Metástasis (piloto)"
 _title: "Metástasis"
 _year: "2014"
 _director: ["Andrés Baiz", "Andrés Biermann", ]

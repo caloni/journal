@@ -2,7 +2,7 @@
 category: "blog"
 imdb: "2191671"
 stars: "3/5"
-title: "Elementary"
+title: "Elementary (piloto)"
 _title: "Elementary"
 _year: "2012"
 _director: ["John Polson", "Guy Ferland", "Seith Mann", "Christine Moore", "Larry Teng", "Jerry Levine", "Aaron Lipstadt", "Ron Fortunato", "Andrew Bernstein", ]
