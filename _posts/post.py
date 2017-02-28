@@ -121,9 +121,6 @@ def SearchAdoroCinema(postInfo):
     titleSearch = postInfo['title'].decode('utf8')
     titleSearch = titleSearch.replace(' ', '+')
     webbrowser.open_new_tab('http://www.adorocinema.com/busca/?q=' + titleSearch)
-    adoroCinemaId = input('What is the Adoro Cinema number id? ')
-    if adoroCinemaId != 0:
-        postInfo['adoroCinemaId'] = str(adoroCinemaId)
 
 
 def GetPostInfo(post):
@@ -231,6 +228,7 @@ def PublishToSocialMedia(post):
                 print "Exception in shortener, waiting: ", str(e)
                 lastShortener = 'Google' if lastShortener != 'Google' else 'Tinyurl'
 
+        SearchAdoroCinema(postInfo)
         print '*** Publishing to Twitter'
         PublishToTwitter(postInfo)
         print '*** Publishing to Facebook'
@@ -238,9 +236,6 @@ def PublishToSocialMedia(post):
         print '*** Done!'
         if republish == False:
             webbrowser.open_new_tab(link)
-        SearchAdoroCinema(postInfo)
-        if postInfo.has_key('adoroCinemaId'):
-            PublishToAdoroCinema(postInfo)
         webbrowser.open_new_tab('https://www.facebook.com/cinetenisverde/')
         webbrowser.open_new_tab('https://twitter.com/')
     except Exception as e:
