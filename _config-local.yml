@@ -10,7 +10,13 @@ defaults:
       layout: post
 exclude:
   - cinemaqui
-  - _posts/blog
+  - _posts/blog/2010
+  - _posts/blog/2011
+  - _posts/blog/2012
+  - _posts/blog/2013
+  - _posts/blog/2014
+  - _posts/blog/2015
+  - _posts/blog/2016
   - _posts/movies/2010
   - _posts/movies/2011
   - _posts/movies/2012
