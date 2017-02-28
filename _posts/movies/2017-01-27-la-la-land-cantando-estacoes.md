@@ -3,7 +3,8 @@ category: "movies"
 title: "La La Land: Cantando Estações"
 imdb: "3783958"
 stars: "4/5"
-tags: ['cinema', 'oscar2017']
+revision: [2017-02-27]
+tags: ['cinema', 'oscar2017', 'revisita']
 _title: "La La Land"
 _year: "2016"
 _director: ["Damien Chazelle", ]
