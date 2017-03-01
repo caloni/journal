@@ -6,8 +6,10 @@ tags: ["oscar", "premios"]
 ---
 Textos escritos para os indicados ao Oscar desse ano, por ordem de publicação.
 
+<table>
 {% for post in site.posts %}
 {% if post.tags contains "oscar2017" %}
- - [{% include all_item_ranking.html %} {{ post.title }}]({{ post.url }})
+<tr><td>{{ post.date | date: '%Y-%m-%d' }}</td><td>{% include all_item_ranking.html %}</td><td><a href="{{ post.url }}">{{ post.title }}</a></td></tr>
 {% endif %}
 {% endfor %}
+</table>
