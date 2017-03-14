@@ -3,7 +3,7 @@ category: "movies"
 title: "Tiempos Felices"
 imdb: "2173244"
 stars: "3/5"
-tags: ['netflix', 'cabine']
+tags: ['netflix']
 _title: "Tiempos Felices"
 _year: "2014"
 _director: ["Luis Javier M. Henaine", ]
