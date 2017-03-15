@@ -57,8 +57,9 @@ Se analisarmos o conteúdo dos arquivos dentro da pasta Dicionario vamos descobr
 
 
 
-Sabendo que o conteúdo do dicionário está em arquivos localizados no disco, e que teoricamente o programa não deve copiar todo o conteúdo para a memória, iremos depurar o processo do dicionário de olho nas chamadas da função [ReadFile](msdn2.microsoft.com/en-us/library/aa365467(VS.85).aspx) quando clicarmos em uma definição de palavra.
+Sabendo que o conteúdo do dicionário está em arquivos localizados no disco, e que teoricamente o programa não deve copiar todo o conteúdo para a memória, iremos depurar o processo do dicionário de olho nas chamadas da função [ReadFile](http://msdn2.microsoft.com/en-us/library/aa365467(VS.85).aspx) quando clicarmos em uma definição de palavra.
 
+![](/images/msdn-readfile.png)
 
     
     windbg -pn houaiss2.exe
@@ -79,8 +80,8 @@ Ao clicar na definição de "programa-fonte", o _breakpoint_ é ativado:
     7c80180e 6a20            push    20h
     
     $$ O buffer de saída é <span style="color: #ff0000;">08bbf1d0 
-    </span>$$ O número de bytes lidos é <span style="color: #ff0000;">200</span>
-
+    </span>
+    $$ O número de bytes lidos é <span style="color: #ff0000;">200</span>
 
 
 
