@@ -228,14 +228,14 @@ def PublishToSocialMedia(post):
                 print "Exception in shortener, waiting: ", str(e)
                 lastShortener = 'Google' if lastShortener != 'Google' else 'Tinyurl'
 
+        if republish == False:
+            webbrowser.open_new_tab(link)
         SearchAdoroCinema(postInfo)
         print '*** Publishing to Twitter'
         PublishToTwitter(postInfo)
         print '*** Publishing to Facebook'
         PublishToFacebook(postInfo)
         print '*** Done!'
-        if republish == False:
-            webbrowser.open_new_tab(link)
         webbrowser.open_new_tab('https://www.facebook.com/cinetenisverde/')
         webbrowser.open_new_tab('https://twitter.com/')
     except Exception as e:
