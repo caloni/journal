@@ -78,7 +78,7 @@ def PublishToFacebook(postInfo):
     	imagedata = imagefile.read()
 
     stars = PrintStars(postInfo['stars']) if postInfo.has_key('stars') else ''
-    st = stars + ' ' + postInfo['title'] + '\n\n' + postInfo['paragraph'] + '\n\n' + 'http://www.cinetenisverde.com.br/' + postInfo['permalink'] + postInfo['tags']
+    st = stars + ' ' + postInfo['title'] + '\n\n' + postInfo['paragraph'] + '\n\n' + 'http://www.cinetenisverde.com.br/' + postInfo['permalink'] + '\n' + postInfo['tags']
     post = facebook_credentials.auth.put_photo(image=imagedata, message=st)
 
 
