@@ -10,7 +10,6 @@ from PIL import Image
 import os
 import webbrowser
 import msvcrt as m
-from pyshorteners import Shortener
 
 Credentials = {}
 sys.path.append(r'c:\users\caloni\.pwd')
@@ -20,17 +19,6 @@ import facebook_bitforge
 Credentials['facebook_bitforge'] = facebook_bitforge
 
 baseUrl = 'http://www.caloni.com.br/' 
-
-
-def GetShortener(shortener):
-    ret = None
-    if shortener == 'Google':
-        ret = Shortener('Tinyurl')
-        #todo get api key for caloni
-        #ret = Shortener(shortener, api_key= 'AIzaSyCuDCcM1utV1zbkiRDd-TX_8FrYT9ApISw')
-    else:
-        ret = Shortener(shortener)
-    return ret
 
 
 def WebPageExists(url):
@@ -53,7 +41,7 @@ def PublishToTwitter(postInfo, credentials):
     	imagedata = imagefile.read()
     t_up = twitter.Twitter(domain='upload.twitter.com', auth=credentials.auth)
     id_img1 = t_up.media.upload(media=imagedata)["media_id_string"]
-    st = postInfo['title'] + '\n' + postInfo['shortlink'].encode('utf-8')
+    st = postInfo['title'] + '\n' + postInfo['shortlink'].encode('utf-8') + ' ' + postInfo['tags']
     if len(st) > 120: # giving space to image attachment
         st = ' ' + postInfo['title'] + '\n\n' + '\n\n' + postInfo['shortlink'].encode('utf-8')
     t.statuses.update(status=st, media_ids=",".join([id_img1]))
@@ -66,13 +54,14 @@ def PublishToFacebook(postInfo, credentials):
     with open(postInfo["screenshot"], "rb") as imagefile:
     	imagedata = imagefile.read()
 
-    st = postInfo['title'] + '\n\n' + postInfo['paragraph'] + '\n\n' + baseUrl + postInfo['permalink']
+    st = postInfo['title'] + '\n\n' + postInfo['paragraph'] + '\n\n' + baseUrl + postInfo['permalink'] + '\n' + postInfo['tags']
     post = credentials.auth.put_photo(image=imagedata, message=st)
 
 
 def GetPostInfo(post):
     postInfo = { 'file' : post }
     postInfo['permalink'] =  re.match('[0-9]{4}-[0-9]{2}-[0-9]{2}-([^.]*).md', post).group(1)
+    postInfo['shortlink'] = (baseUrl + postInfo['permalink']).encode('utf-8')
     f = open(post)
     endHeader = 0
     firstParagraph = False
@@ -89,6 +78,12 @@ def GetPostInfo(post):
         m = re.match('^title: \"(.*)\"', l)
         if m:
             postInfo['title'] = m.group(1)
+    postInfo['tags'] = ''
+    with open(post) as f:
+        metadata, content = frontmatter.parse(f.read())
+        if metadata.has_key('tags'):
+            for t in metadata['tags']:
+                postInfo['tags'] = postInfo['tags'] + ' #' + t
     return postInfo
 
 
@@ -128,18 +123,6 @@ def PublishToSocialMedia(post):
         print '*** Waiting page ' + link
         while WebPageExists(link) == False:
             time.sleep(10)
-
-        lastShortener = 'Google'
-        shortenerOk = False
-        while shortenerOk == False:
-            time.sleep(3)
-            try:
-                shortener = GetShortener(lastShortener)
-                postInfo['shortlink'] = shortener.short(baseUrl + postInfo['permalink']).encode('utf-8')
-                shortenerOk = True
-            except Exception as e:
-                print "Exception in shortener, waiting: ", str(e)
-                lastShortener = 'Google' if lastShortener != 'Google' else 'Tinyurl'
 
         webbrowser.open_new_tab(link)
         print 'press any key to continue and publish...'
