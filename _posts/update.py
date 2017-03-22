@@ -124,7 +124,11 @@ def writereview(filePath, header, review, imdbData):
       except UnicodeError:
         pass
 
-      character = str(i.currentRole)
+      character = ''
+      if isinstance(i.currentRole, list):
+        character = ' / '.join([str(s) for s in i.currentRole])
+      else:
+        character = str(i.currentRole)
       try:
         character = character.encode('utf-8')
       except UnicodeError:
