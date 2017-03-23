@@ -10,6 +10,7 @@ from PIL import Image
 import os
 import webbrowser
 import msvcrt as m
+import frontmatter
 
 Credentials = {}
 sys.path.append(r'c:\users\caloni\.pwd')
