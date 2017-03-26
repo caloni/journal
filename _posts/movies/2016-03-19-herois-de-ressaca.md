@@ -22,7 +22,7 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BNzA1MTk1MzY0OV5BMl5BanBnXkFtZTgwNjkzNTUwMDE@._V1._SX94_SY140_.jpg"
 ---
-Uma comédia britânica que não se resume a boas risadas. Aliás, talvez você nem encontre boas risadas, dependendo do seu senso de humor. A questão é que há muita falta de _timing_ cômico na maioria das cenas, tornando a atuação exagerada de Simon Pegg simplesmente exagerada.
+Uma comédia britânica que não se resume a boas risadas. Aliás, talvez você nem encontre boas risadas, dependendo do seu senso de humor. A questão é que há muita falta de timing cômico na maioria das cenas, tornando a atuação exagerada de Simon Pegg simplesmente exagerada.
 
 No entanto, há uma história aí. Se trata de um homem que não conseguiu tocar sua vida depois do colégio, se limitando a definir a memorável noite em que ele e seus quatro amigos saíram pela cidadezinha onde moravam para fazer o circuito dos 12 bares, sendo que o último se chama Fim do Mundo. Após a narração épica de Gary, o vemos em um círculo de pessoas, fazendo o testemunho de algum grupo de apoio, e já com mais de 40 anos.
 

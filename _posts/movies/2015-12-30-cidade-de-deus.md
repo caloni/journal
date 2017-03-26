@@ -31,7 +31,7 @@ Não é só com fama e momentos isolados que o filme consegue, treze anos depois
 
 E entendemos de imediato o simbolismo de uma galinha fugindo desesperadamente do seu óbvio e trágico destino.
 
-A história envolve diferentes personagens em diferentes situações, que vão se apresentando conforme a ação passa por eles. Nosso narrador em _off_, Buscapé, é um deles, e talvez o personagem-chave, pois possui o conhecimento desde a infância. Outros, como Dadinho, só se tornaram importantes na adolescência, mas o roteiro de Mantovani consegue situá-los antes mesmo que tenhamos ciência de seus papéis no futuro.
+A história envolve diferentes personagens em diferentes situações, que vão se apresentando conforme a ação passa por eles. Nosso narrador em off, Buscapé, é um deles, e talvez o personagem-chave, pois possui o conhecimento desde a infância. Outros, como Dadinho, só se tornaram importantes na adolescência, mas o roteiro de Mantovani consegue situá-los antes mesmo que tenhamos ciência de seus papéis no futuro.
 
 Ao mesmo tempo, uma edição fluida e com muitas trucagens envolvendo movimentos de câmera consegue traçar longos arcos temporais e temáticos parecendo que quase nunca há de fato uma pausa muito longa. Quando ela ocorre, é porque algo muito impactante ocorreu, como a morte de um personagem extremamente importante na dinâmica das bocas de fumo da favela.
 

@@ -29,4 +29,4 @@ Unida a isso, a fotografia bem colorida -- seguindo o estilo da cultura mexicana
 
 As piadas envolvendo a cultura mexicana, apesar de deslocadas da história principal, criam um divertido floreio. Também funcionam as maravilhosas inserções de músicas conhecidas tocadas por Manolo, o herói, e gosto particularmente do uso de Ernio Morricone -- da trilogia do dólar - - em uma sequência impecável de tourada, que praticamente conduz a emoção -- e discute a complexidade -- do reencontro dos três amigos agora crescidos.
 
-Um filme, enfim, _muy rico_. Daria para visitá-lo várias vezes e ainda encontrar coisas novas. E a história continuaria tendo o peso das grandes odisseias da humanidade em sua versão infantil.
+Um filme, enfim, muy rico. Daria para visitá-lo várias vezes e ainda encontrar coisas novas. E a história continuaria tendo o peso das grandes odisseias da humanidade em sua versão infantil.

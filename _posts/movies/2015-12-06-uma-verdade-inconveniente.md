@@ -19,7 +19,7 @@ _ratio: "1.85 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BOTg3NjYxMjM5OF5BMl5BanBnXkFtZTcwMzQzMDA0MQ@@._V1._SX95_SY140_.jpg"
 ---
-Dez anos após esse documentário de Al Gore, temos à disposição um material muito mais rico na série Cosmos. Porém, a diferença é que este filme é também uma espécie de discurso político disfarçado por um político que teve colegas cientistas em sua formação. Qualquer um consegue obter _insights_ sobre a natureza em seu passado, e Al Gore teve a genialidade de inserir momentos sentimentais por todo seu discurso anti-aquecimento.
+Dez anos após esse documentário de Al Gore, temos à disposição um material muito mais rico na série Cosmos. Porém, a diferença é que este filme é também uma espécie de discurso político disfarçado por um político que teve colegas cientistas em sua formação. Qualquer um consegue obter insights sobre a natureza em seu passado, e Al Gore teve a genialidade de inserir momentos sentimentais por todo seu discurso anti-aquecimento.
 
 Porém, a força de vontade de Gore quase é contagiante, e não fosse o apelo extremamente emocional, suas palavras tocariam mais ainda nas pessoas. Cansado de ir em inúmeras palestras em volta do mundo alertando as pessoas, decide fazer este documentário e atingir o maior número de pessoas possível. Deu certo. Ganhador do Oscar, é um dos documentários mais conhecidos atualmente.
 

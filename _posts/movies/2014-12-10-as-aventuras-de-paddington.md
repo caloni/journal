@@ -29,6 +29,6 @@ Até que uma doce família de pai, mãe e três filhos aparece à sua frente. A 
 
 A comédia do filme está intrinsecamente ligada aos efeitos visuais e invencionisses criativas do diretor Paul King e ao pequeno milagre que são as expressões particularmente humanas do ursinho criado em CGI, onde o que mais impressiona são seus pelos e suas diversas variações (molhado, seco, arrepiado).
 
-Outra característica interessante do longa é que a vilã é protagonizada por Nicole Kidman. Ela é uma _crazy bitch_ que adora empalar animais, e descobre que um novo urso está na cidade.
+Outra característica interessante do longa é que a vilã é protagonizada por Nicole Kidman. Ela é uma crazy bitch que adora empalar animais, e descobre que um novo urso está na cidade.
 
 Os melhores momentos para quem gosta de reviravoltas definitivamente é o terceiro ato, quando descobrimos a origem de tanto ódio da Nicole Kidman e vamos em um ritmo crescente onde a família ganha importância no enredo. Emocionante pela coesão dos conceitos, econômico em seu desfecho.

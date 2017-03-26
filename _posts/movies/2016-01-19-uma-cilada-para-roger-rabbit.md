@@ -21,7 +21,7 @@ _ratio: "1.85 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTgxOTE1NjA0OV5BMl5BanBnXkFtZTcwODM3MTYxMQ@@._V1._SX98_SY140_.jpg"
 ---
-Um filme de 1988 que conseguiu unir desenhos com _live action_ de uma maneira que até hoje não parece datado. Sua grande sacada é já fazer um filme de época, a Hollywood da década de 40, e embutir todos os desenhos icônicos em um longa-metragem que é usado apenas para realizar essa façanha, mas que em si possui um roteiro com uma trama inteligente por utilizar a própria fusão do mundo dos desenhos e dos humanos.
+Um filme de 1988 que conseguiu unir desenhos com live action de uma maneira que até hoje não parece datado. Sua grande sacada é já fazer um filme de época, a Hollywood da década de 40, e embutir todos os desenhos icônicos em um longa-metragem que é usado apenas para realizar essa façanha, mas que em si possui um roteiro com uma trama inteligente por utilizar a própria fusão do mundo dos desenhos e dos humanos.
 
 Seu herói é Roger Rabbit (Charles Fleischer), um coelho que foi criado para o filme e que atua em um desenho animado em Hollywood. Sim, os desenhos atuam em... desenhos. Quando seu produtor contrata o detetive Eddie Valiant (Bob Hoskins) para descobrir se a voluptuosa mulher de Roger, Jessica Rabbit (cuja modelo de corpo foi Betsy Brantley), o está traindo, uma rede de intrigas se forma quando Marvin Acme (Stubby Kaye), dono dos projetos que envolvem os desenhos (percebeu a referência?), é assassinado. Perseguido como principal suspeito pelo Juiz Final (Christopher Lloyd) e sua gangue de fuinhas, Roger agora precisa provar sua inocência e reaver o suposto testamento que Acme teria escrito, deixando a terra dos desenhos para os próprios desenhos.
 

@@ -24,7 +24,7 @@ _cover: "http://ia.media-imdb.com/images/M/MV5BMTAzMTQzMTA2MjheQTJeQWpwZ15BbWU4M
 ---
 A premissa por trás de "Adaline" é muito interessante, como toda ficção científica bem imaginada costuma ser. O filme, aliás, possui diversos pontos altos em sua história. Porém, o novelão romântico ao qual ele se entrega não deixa de incomodar durante todo o tempo, fazendo com que uma experiência fascinante vá aos poucos nos lembrando das velhas fórmulas de fazer romance com um drama genérico.
 
-A história gira em torno da Adaline do título, que sofre um acidente de carro que faz com que ela não envelheça mais. Nascida nos anos 1900, a história de Adaline combina com todo o século XX, e vemos através de _flashbacks_ diferentes momentos deste em que Adaline estava presente, o suficiente para dar a dimensão do que é viver um século e não envelhecer um dia.
+A história gira em torno da Adaline do título, que sofre um acidente de carro que faz com que ela não envelheça mais. Nascida nos anos 1900, a história de Adaline combina com todo o século XX, e vemos através de flashbacks diferentes momentos deste em que Adaline estava presente, o suficiente para dar a dimensão do que é viver um século e não envelhecer um dia.
 
 Descoberta, porém, na era do Macartismo, Adaline foge e resolve adotar um cronograma em que ela muda de aparência e cidade de década em década, para nunca mais correr o risco de virar um experimento científico. Dessa forma, ela vive várias vidas, mas nenhuma longa o suficiente para que ela ganhe intimidade e se relacione com outras pessoas, exceto seus cachorros (e é tocante o momento em que presenciamos o fim de vida de um deles, pois ele representa uma série provavelmente grande de companheiros caninos na vida da "garota").
 

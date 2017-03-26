@@ -20,6 +20,6 @@ _ratio: "1.78 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTk4NTk4MTk1OF5BMl5BanBnXkFtZTcwNTE2MDIwNA@@._V1._SX94_SY140_.jpg"
 ---
-Essa "aventura Disney" é continuação de um _cult_ dos anos 80, que revolucionou a computação gráfica na época. Hoje, o uso de televisores 3D e a câmera indo em foco da imagem 2D de um deles pode ser considerada a única revolução desse filme.
+Essa "aventura Disney" é continuação de um cult dos anos 80, que revolucionou a computação gráfica na época. Hoje, o uso de televisores 3D e a câmera indo em foco da imagem 2D de um deles pode ser considerada a única revolução desse filme.
 
 Além de Olivia Wilde, obviamente, ter curvas lindas, apreciadas de uma maneira melhor ao melhor estilo 3D com trilha musical de Daft Punk.

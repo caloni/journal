@@ -26,6 +26,6 @@ Uma comédia escrachada nem sempre é lançar um monte de palavrões e piadas a 
 
 Tudo gira em torno de uma história simples (até demais): um parque de diversões que ameaça fechar por falta de clientes e um livro do demônio com poderes mágicos que leva os mortais Remy, Augie e Curt para as profundezas do inferno. Os dois primeiros vão para resgatar o terceiro porque são os heróis da história. Ao encontrar a demônia (ou deusa?) Deema (Mila Kunis) partem em busca do único mortal que conseguiu ir e voltar do inferno: Orfeu. Enquanto isso, o Diabo (Bob Odenkirk, da série Better Call Saul) tenta desesperadamente conquistar a sedutora (?) anja Barb (Susan Sarandon).
 
-Feito em _stop motion_, como animação não há desculpas: ela é rasa, com vários momentos confusos em que o movimento dos personagens e do cenário se tornam pedestres demais para entender o que está acontecendo.
+Feito em stop motion, como animação não há desculpas: ela é rasa, com vários momentos confusos em que o movimento dos personagens e do cenário se tornam pedestres demais para entender o que está acontecendo.
 
 Dirigido porcamente por Tom Gianas e Ross Shuman (esse último resposável por Frango Robô, o que pelo menos explica o humor), detalhes até interessantes do inferno, como um bonde aéreo que se move por engrenagens que movimentam braços, são mostrados de passagem e sem qualquer interesse. Não há nada mais irritante em uma direção do que o desleixo de um universo mais interessante do que o que estamos vendo.
