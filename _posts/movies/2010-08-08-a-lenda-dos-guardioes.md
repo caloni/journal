@@ -31,6 +31,6 @@ Aqui temos várias espécies de coruja, de acordo com sua linhagem, poderio, int
 
 Se por um lado a premissa é interessante, por outro podemos notar durante toda a narrativa que a falta de suficiente expressão das corujinhas é um "problema de interpretação", aliado ao cortes muito rápidos nas cenas de voos, piorados tão somente em alguns momentos que a tela congela para dar uma percepção do que aconteceu naquele breve momento.
 
-Tendo dois personagens duvidosos para o papel de alívio cômico (uma corujinha meio epilética das ideias, um pequeno pl�gio do esquilo de Deu a Louca na Chapeuzinho, e uma coruja que tenta cantar suas falas, um plagiozinho do bode do mesmo filme).
+Tendo dois personagens duvidosos para o papel de alívio cômico (uma corujinha meio epilética das ideias, um pequeno plágio do esquilo de Deu a Louca na Chapeuzinho, e uma coruja que tenta cantar suas falas, um plagiozinho do bode do mesmo filme).
 
 Se a lição de moral não pode soar mais "óbvia" no final, é notável que o filme não poupe algumas corujinhas, inclusive o irmão do protagonista, de parecer em mortes trágicas. Um filme de caráter adulto que ainda não amadureceu a ponto de contar uma história de verdade.
