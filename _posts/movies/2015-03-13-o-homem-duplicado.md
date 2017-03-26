@@ -21,7 +21,7 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTQ2NzA5NjE4N15BMl5BanBnXkFtZTgwMjQ4NzMxMTE@._V1._SX95_SY140_.jpg"
 ---
-Quando ouvimos o professor de história repetir a mesma fala a respeito de ditaduras controlarem o povo através de poucas informação e isso se repetir ao longo da história de forma cíclica é uma pista do que o filme irá falar. Porém, o mais fascinante em __O Homem Duplicado__ é que, assim como as ditaduras, o diretor Denis Villeneuve, do excelente Os Suspeitos (2013), não quer nos revelar todas as informações por trás dessa história.
+Quando ouvimos o professor de história repetir a mesma fala a respeito de ditaduras controlarem o povo através de poucas informação e isso se repetir ao longo da história de forma cíclica é uma pista do que o filme irá falar. Porém, o mais fascinante em O Homem Duplicado é que, assim como as ditaduras, o diretor Denis Villeneuve, do excelente Os Suspeitos (2013), não quer nos revelar todas as informações por trás dessa história.
 
 E ela fica bastante estranha sem essas informações. Jake Gyllenhaal interpreta tanto Adam, o professor de história, quanto Anthony, um ator que ele encontra casualmente ao alugar um vídeo. O que nos leva à grande primeira questão: quais as chances de uma pessoa que não costuma assistir filmes alugar justamente o filme que revela que ele possui um sócia que coincidentemente vive na mesma cidade que ele?
 
