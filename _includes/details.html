@@ -1,3 +1,8 @@
+{% if page.cinemaqui %}
+<p style="font-size: 1.0em;">
+Crítica completa na estreia do filme no [CinemAqui]({{ page.cinemaqui }}).
+</p>
+{% endif %}
 <p style="font-size: 1.0em;">
   {% if page.stars == "5/5" or stars == "5/5" %}&#x2605;&#x2605;&#x2605;&#x2605;&#x2605;{% elsif page.stars == "4/5" or stars == "4/5" %}&#x2605;&#x2605;&#x2605;&#x2605;&#x2606;{% elsif page.stars == "3/5" or stars == "3/5" %}&#x2605;&#x2605;&#x2605;&#x2606;&#x2606;{% elsif page.stars == "2/5" or stars == "2/5" %}&#x2605;&#x2605;&#x2606;&#x2606;&#x2606;{% elsif page.stars == "1/5" or stars == "1/5" %}&#x2605;&#x2606;&#x2606;&#x2606;&#x2606;{% endif %}
   {% if page._title %}{{ page._title }}{% else %}{{ page.title }}{% endif %}.
