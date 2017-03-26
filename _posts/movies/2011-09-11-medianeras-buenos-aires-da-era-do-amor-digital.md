@@ -21,7 +21,6 @@ _ratio: "1.85 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTc5NDQ1NzA1Ml5BMl5BanBnXkFtZTcwNzAyNTM5Ng@@._V1._SX100_SY139_.jpg"
 ---
-
 Estreia de Gustavo Taretto na direção de longas, Medianeras inicia já com uma proposta criativa e que funciona muito bem: com dois narradores em off, temos a impressão de assistir a dois filmes interlaçados que aos poucos se aproximam, o que por si só já revela muito sobre as ideias por trás da história. 
 
 Há uma quantidade relativamente grande de metáforas sobre a cidade grande, o espaço urbano onde vivemos e o que isso reflete em nós mesmos, nas nossas relações, chegando a combater em criatividade com o Fabuloso Destino de Amélie Poulain. O uso de "apertamentos" e seus montes de tralhas espalhados ajudam a estabelecer a confusão mental/desorientação dos personagens pela própria bagunça do local. Além disso, o uso de sombra e penumbra revela o quanto nos escondemos por trás de tudo isso.

@@ -19,7 +19,6 @@ _ratio: "1.85 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTUxMjMwODMxMl5BMl5BanBnXkFtZTYwMDA3MDE5._V1._SX76_SY140_.jpg"
 ---
-
 Harold é um garoto problemático para sua idade. Obcecado em fingir suicídios e sentindo prazer em frequentar enterros, não possui outra pretensão na vida. Introspecto e de poucas palavras, o uso de músicas existencialistas em torno dos seus atos aprofunda ainda mais seus sentimentos.
 
 Sua própria introspecção e solenidade em seus suicídios encenados criam uma espécie de dubiedade no personagem, pois não sabemos ao certo se rimos pelo humor do absurdo ou escolhemos nos compaceder do jovem que ainda não sabe como aproveitar a vida que possui.

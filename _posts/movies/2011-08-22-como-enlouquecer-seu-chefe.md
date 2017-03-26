@@ -21,7 +21,6 @@ _ratio: "1.85 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BOTA5MzQ3MzI1NV5BMl5BanBnXkFtZTgwNTcxNTYxMTE@._V1._SX95_SY140_.jpg"
 ---
-
 Depois de ter visto __Como Matar seu Chefe__, resolvi rever o que eu considero uma versão melhorada (ou mais profunda) da questão do "Dilbert Life Style", que é esse _Como Enlouquecer seu Chefe_, ou mais corretamente no original, _Office Space_ (Ambiente de Escritório?).
 
 Dirigido e escrito por __Mike Judge__ (que, mais ator que diretor, atua no longa), _Office Space_ é uma tentativa divertida de recriar as figuras que povoam um ambiente de escritório em personagens absurdos e caricatos. Temos os tipos mais comuns da selva de cubículos: o chefe folgado que nada faz senão importunar seu subordinados com pedidos burocráticos (__Gary Cole__, como o irritante Bill Lumbergh), o funcionário subalterno que possui uma função descartável e que treme sempre que a empresa está prestes enxugar seu quadro, e, para resumir, praticamente todas as figuras que ou não trabalham porque estão ocupados importunando seus subordinados ou porque precisam seguir as exigências burocráticas destes.

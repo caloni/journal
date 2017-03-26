@@ -21,7 +21,6 @@ _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTU5MTgxODM3Nl5BMl5BanBnXkFtZTcwMjMxNDEwNA@@._V1._SX94_SY140_.jpg"
 ---
 
-
 Aparentemente, alguém achou engraçado colocar Robert Downey Jr. (Homem de Ferro, Sherlock Holmes) e Zach Galifianakis (Se Beber, Não Case 1 e 2) contracenando um filme inteiro. De fato, o resultado foi, no mínimo, interessante. Engraçado, é discutível.
 
 O fato é que, interpretando duas figuras problemáticas (Zach, mais explícito, Downey Jr, mais inerte) que precisam conviver por dias em uma viagem cruzando o país não foi uma ideia lá muito original, mas que rendeu bons frutos graças ao carisma e a interpretação dos dois atores, que conseguem convencer - e aí é que está a graça - que Peter Highman e Ethan Tremblay possuem sérios problemas de convivência social.

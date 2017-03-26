@@ -20,10 +20,9 @@ _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTkzMzM2NDU5Nl5BMl5BanBnXkFtZTcwODYzMTUyOQ@@._V1._SX94_SY140_.jpg"
 ---
 
-
 Geralmente um filme costuma martelar constantemente um conceito qualquer por um motivo qualquer. No caso desse Maria My Love, projeto independente filmado em um discutível digital (mas assistível), o amadorismo no uso do foco aparentemente é o tal conceito, pois pode-se perceber na insistência irritante de nunca manter a lente focada em qualquer que seja o motivo, personagem ou objeto.
 
-Essa "fuga" do foco talvez seja um reflexo de Ana (Judt Marte), a protagonista com problemas em aceitar a morte recente da mãe, que tatua em sua homenagem, em suas costas, os dizeres [Maria My Love](/maria-my-love) e sai cambaleando pela vida (e a câmera idem).
+Essa "fuga" do foco talvez seja um reflexo de Ana (Judt Marte), a protagonista com problemas em aceitar a morte recente da mãe, que tatua em sua homenagem, em suas costas, os dizeres Maria My Love e sai cambaleando pela vida (e a câmera idem).
 
 Encontrando um rapaz que vira seu namorado e que por isso mesmo tenta entendê-la e ajudá-la. (Algo que ela mesma não havia feito ainda consigo mesma.)
 

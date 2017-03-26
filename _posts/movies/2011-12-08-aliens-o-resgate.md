@@ -22,7 +22,7 @@ _cover: "http://ia.media-imdb.com/images/M/MV5BMTYzNzU5MzQ4OV5BMl5BanBnXkFtZTcwM
 ---
 James Cameron parece ter uma dedicação especial com as continuações. Tanto a série Alien quanto o Exterminador do Futuro (essa iniciada por ele mesmo) expandem seus universos justamente no primeiro sequel.
 
-No caso do trabalho original de Alien, o terror/suspense/sci-fi de Ridley Scott, apesar de moldar uma geração inteira de filmes parece despretencioso frente à reconstrução da saga da Tenente Ripley onde a evolução dos ovos da nave alienígena segue seu rumo natural quando uma colônia humana de povoamento se estabelece na mesma região onde a nave foi primeiramente encontrada.
+No caso do trabalho original de Alien, o terror/suspense/sci-fi de Ridley Scott, apesar de moldar uma geração inteira de filmes parece despretensioso frente à reconstrução da saga da Tenente Ripley onde a evolução dos ovos da nave alienígena segue seu rumo natural quando uma colônia humana de povoamento se estabelece na mesma região onde a nave foi primeiramente encontrada.
 
 Apesar de ter uma estrutura impecável em sua narrativa, e investir de maneira segura em diversas cenas de tensão crescente, o terceiro ato de Aliens se estabelece como um dos momentos mais icônicos do Cinema, incomparável em seu peso dramático, construído não só novamente através do filme original, mas engrandecido através deste. Sim, pois o mais impressionante depois de conhecer a história completa é entender como que ela é construída para que no final Ripley vá ao resgate de Newt e lute com a Rainha Alien.
 

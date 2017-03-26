@@ -21,7 +21,6 @@ _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTU2OTkwNzMyM15BMl5BanBnXkFtZTcwOTI4ODg2Ng@@._V1._SX94_SY140_.jpg"
 ---
 
-
 Confuso, confuso, confuso.
 
 Poucas vezes saí do cinema tão perdido quanto da sessão de "O Espião que Sabia Demais". Ultimamente tenho tido alguns problemas de foco, que no caso foram extrapolados pelas conversinhas paralelas na sala. Porém, isso não justifica a total falta de compreensão da trama, uma vez que já participei de alguns "desafios intelectuais" como Donnie Darko, Prime e O Grande Truque e saí (quase) ileso. Nesse caso, faltou para mim, do começo ao fim, não só os detalhes, mas a essência de toda a história.

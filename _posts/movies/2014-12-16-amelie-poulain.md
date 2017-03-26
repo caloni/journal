@@ -20,7 +20,6 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTYzNjkxMTczOF5BMl5BanBnXkFtZTgwODg5NDc2MjE@._V1._SX95_SY140_.jpg"
 ---
-
 Desde sua estreia oficial no Brasil assisti esse filme já três vezes no cinema (até agora). Curiosamente, em todas elas com a plateia lotada. Treze anos após sua estreia, em minha terceira vez, no interior da Argentina, ao final de uma péssima exibição, o filme foi aplaudido. É um filme fácil, para o grande público, e consequência disso foram suas cinco indicações ao Oscar (apesar de ser falado em francês): roteiro original, fotografia, direção de arte, som e, claro, filme estrangeiro (perdeu para o bósnio Terra de Ninguém).
 
 Também é, entre todos os filmes de Jean-Pierre Jeunet que apela para invencionices (Micmacs, Uma Viagem Extraordinária) o mais orgânico. As estratégias de Amélie Poulain em se aproximar de seu interesse amoroso fazem parte do seu espírito introvertido, cuidadosamente construído no roteiro escrito por Jeunet e Guillaume Laurant desde sua concepção. As descrições e curiosidades, como o que cada personagem gosta e não gosta, ou quantos orgasmos as pessoas estão tendo naquele exato momento, fazem parte do mundo das pessoas que olham o mundo voltados para dentro. Sei-o muito bem, pois eu sou um introvertido. E digo mais: Pierre Jeunet com certeza o é, pois apenas um introvertido conseguiria desviar tanto do seu objetivo e criar subterfúgios que, embora particularmente divertidos, deixam a nossa heroína cada vez mais solitária.

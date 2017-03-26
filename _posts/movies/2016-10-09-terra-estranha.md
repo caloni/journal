@@ -23,7 +23,6 @@ _ratio: "2.39 : 1"
 _kind: "movie"
 _cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUwMjUwMTE0OV5BMl5BanBnXkFtZTgwMjg2Mzk1NjE@._V1._SX99_SY140_.jpg"
 ---
-
 Um filme com formato enlatado, com uma trilha sonora desvirtuada em um marasmo absurdo. E, mesmo assim, o seu tema consegue atravessar todos esses problemas e encontrar a merecida redenção no capítulo final. Com isso já sabemos que não é um filme fácil de digerir, que pode dar sono ou sensação de mesmice. Porém, dando tempo ao tempo, e adentrando no universo fantasioso de Terra Estranha, é possível receber a recompensa.
 
 Essa é mais uma incursão no universo australiano de Nicole Kidman, que faz uma mulher que vive um casamento de mentira com seu frio marido (Joseph Fiennes), obcecado pela segurança moral de seus filhos. Ou melhor dizendo, de sua filha de quinze anos (Maddison Brown). Eles estão em fuga de uma situação constrangedora de onde vieram, e caem em uma pequena cidade no meio do deserto que faz quarenta graus e onde tempestades de areia são comuns. Nada disso parece perturbá-los mais do que tentar manter a farsa de uma família normal adiante.

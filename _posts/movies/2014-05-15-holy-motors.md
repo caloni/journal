@@ -19,7 +19,6 @@ _ratio: "1.85 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BODk2MDc4MDk2OF5BMl5BanBnXkFtZTcwMTcyODY1OA@@._V1._SX96_SY140_.jpg"
 ---
-
 Holy Motors é o refresco que todo cinéfilo pede de vez em quando. Com uma abordagem surrealista, ele permite fazer uma crítica e uma homenagem à nossa sensação de estarmos na realidade enquanto assistimos filmes. Mais do que isso: ele brinca com essa percepção aproveitando o pouco de pé que fincamos nessa realidade no início do filme. A partir daí, ele nos puxa cada vez mais para o inusitado. Porém, não é gratuito. Parece que tudo que está ali é necessário e poderia ter sido contado da maneira convencional, mas seria um resultado aquém do que precisamos. Sim, precisamos de um Holy Motors no Cinema de vez em quando.
 
 Para nos manter com essa parcela do real durante toda a experiência, há mais ou menos uma história: um dia na vida de um ator com idade avançada, mas que ainda precisa realizar o seu trabalho. Ele é levado de limusine branca para todas as locações, e ele próprio se maqueia e se transforma para viver seu próximo personagem. Em determinado momento, os resquícios do personagem anterior se misturam com o próximo personagem, mas pode ser que não seja um novo personagem, e apenas um diálogo entre colegas de profissão. É possível permearmos esse traço de realidade em um futuro distópico onde as câmeras são praticamente invisíveis, não há uma equipe de produção em volta do cenário e tudo é feito da maneira mais perfeccionista possível.

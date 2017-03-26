@@ -20,5 +20,4 @@ _ratio: "1.85 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTcwODE2NTI3Nl5BMl5BanBnXkFtZTcwMjUwOTY5Mg@@._V1._SX94_SY140_.jpg"
 ---
-
 Ainda que mantenha a simplicidade em suas premissas, e divirta por causa disso, para os adultos diverte ainda mais, pois temos a sensação de acompanhar uma história dupla, com os trejeitos adultos dos personagens animais em nossa volta. De quebra, ainda temos um pensamento filosófico, com a ideia que todos aqueles bichos agindo como humanos são "selvagens", cria-se uma impressão de que, no fundo, o ser humano pode se encaixar muito bem perspectiva.

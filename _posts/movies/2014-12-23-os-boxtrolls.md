@@ -19,7 +19,6 @@ _ratio: "1.85 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTQxODA5MDkyNV5BMl5BanBnXkFtZTgwMDMyNjkzMjE@._V1._SX94_SY140_.jpg"
 ---
-
 Essa animação tem o dom de enganar seus sentidos. Sério. Se você olhar demais para os detalhes vai pensar que a computação usada tem uma ou outra deficiência na composição dos movimentos, particularmente na expressão dos personagens quando eles falam. Até que você se dá conta: os criadores devem ter feito de propósito para dar a impressão de ser uma espécie de _stop motion_ muito perfeito.
 
 Até que acaba o filme e você se dá conta que é um stop motion muito perfeito. Há dois personagens que durante toda a narrativa servem de "isca" para essa sensação, sempre questionando seu lugar na história. Seriam eles os vilões de um filme? Mas, se tudo for um filme, quem são eles senão peças habilmente manipuladas por criadores oniscientes?

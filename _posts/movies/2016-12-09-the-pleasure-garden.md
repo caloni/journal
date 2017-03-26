@@ -30,5 +30,3 @@ Não há muito o que dizer de Hitchcock em si. É seu primeiro trabalho, e é mu
 As atuações convencem, assim como a trilha sonora. O figurino das mulheres é outro charme à parte. Elas trabalham em um teatro de dança, mas pouco é visto. Hitchcock apenas faz uma introdução, correndo a câmera pela plateia masculina, sentada na primeira fileira e observando as pernas das garotas como lobos.
 
 Mesmo uns 90 anos depois, ainda garante tensão. Não é perfeito, tem falta de sincronia aqui e ali, mas a história é boa, além das personagens. A melhor é a atuação de Virginia Valli como a bondosa Patsy. Ela deixa um traço de personalidade em uma época onde haviam personagens mecânicos.
-
-Aproveitando, [este torrent](/download/hitchcock.torrent) contém 58 filmes do diretor. Baixou todos, mas há poucos seeds. Tenha paciência. São mais de 40GB em um arquivo impressionante.

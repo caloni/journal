@@ -20,7 +20,6 @@ _ratio: "1.37 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1._SX94_SY140_.jpg"
 ---
-
 __Wes Anderson__ sendo, como sempre, Wes Anderson, pode prejudicar um pouco seus trabalhos com seu enquadramento engessado e seus cenários surrealmente coloridos. Porém, quando o material se encaixa em seu estilo, temos um resultado espetacular. Como é o caso desse _O Grande Hotel Budapeste_, cuja história remete a um país meio Leste Europeu, meio Oriente, e que contém elementos fantasiosos que remetem justamente ao mundo que o diretor possui em sua mente.
 
 A história contém quatro camadas muito bem definidas, sendo que as duas primeiras apenas encobrem o pano de fundo de um livro. Seu autor (__Tom Wilkinson__) narra a conversa entre o atual dono do hotel e um jovem escritor (__Jude Law__) explicando como ele conseguiu sua posição. A partir daí vamos para a quarta camada onde se encontra a história de fato, uma história de amizade e lealdade entre M. Gustave (__Ralph Fiennes__), o dono do hotel na década de 30, e Zero (__Tony Revolori__), o recém-contratado Lobby Boy. Essa camada é dividida em partes, de forma que toda a estrutura está disposta em compartimentos que Wes Anderson apresenta com uma riqueza infinita de detalhes e cores. Cores tanto no sentido físico quanto metafórico, como as sutis expressões dos participantes desse longo conto.

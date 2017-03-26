@@ -21,7 +21,6 @@ _ratio: "1.85 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTYyNzU2MjI5Ml5BMl5BanBnXkFtZTcwNjAzMjAzMg@@._V1._SX95_SY140_.jpg"
 ---
-
 Hanami conta a história de um casal que mantém uma vida pacata no interior da Alemanha enquanto mantém uma relação distante com seus três filhos  especialmente o caçula, que vive em Tóquio. O sonho da esposa é poder visitá-lo, pois, além da saudade, é visivelmente encantada pela cultura japonesa, como pode-se perceber pelos detalhes de decoração da casa deles e pelo seu interesse no butô, uma espécie de dança teatral que utiliza a expressão do corpo e seu efeito na sombra formada pelos movimentos.
 
 Assim como o butô, a direção de Doris Dörrie (Felicidade) trabalha sua narrativa de maneira sutil, desenhando e evoluindo as emoções do marido a partir da sombra de sua mulher, que sempre determina suas ações a partir de um momento-chave no longa. Para isso, é vital a entrega do ator, que compreende que viver passa a ter como função realizar os desejos de sua mulher, e daí a dicotomia da dança, que une marido e esposa como corpo e sombra (sendo que quem comanda os movimentos é justamente a sombra, na visão de uma dançarina de butô que surge no filme no segundo ato).

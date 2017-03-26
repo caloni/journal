@@ -20,7 +20,6 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMzQwODgzMTc5MF5BMl5BanBnXkFtZTcwNjUzMjE2MQ@@._V1._SX100_SY137_.jpg"
 ---
-
 O musical ganhador do Oscar nos anos 60 é tanto um apelo emocional quanto musical. Ele fala sobre aproximação de pai e filhos, sobre uma mudança radical na vida de uma noviça e fala também sobre uma nação que começa a ser desconstruída pela força das armas. 
 
 Tudo isso de uma maneira teatral, ou melhor dizendo: de uma maneira espetacularmente e necessariamente teatral. É uma história que pede música a todo momento como símbolo da vida.

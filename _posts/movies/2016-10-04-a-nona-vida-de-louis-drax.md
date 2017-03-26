@@ -22,7 +22,6 @@ _fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjQ0NjQxNDk4NV
 _kind: "movie"
 _cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjQ0NjQxNDk4NV5BMl5BanBnXkFtZTgwMjE0ODc4OTE@._V1._SX94_SY140_.jpg"
 ---
-
 Apresentado inicialmente como uma história bonitinha de superação de uma criança que entra em coma, este filme tem o dom de te fazer rever como a compaixão é a pior coisa já inventada pela humanidade. Ela destrói vidas como se estivesse a ajudá-las, mas levada ao extremo, é tão doentio que mostra a outra diferença entre animais e seres humanos: mesmo sabendo o que é errado, seres humanos continuam a fazê-lo.
 
 Tudo começa com este garoto perspicaz, o Louis Drax do título, interpretado facilmente por Aiden Longworth. Ele é ligeiro nos pensamentos, tem uma visão cética a respeito da vida, e faz observações adultas disfarçadas de criança para seu psicólogo, um doutor gordo, de meia-idade, que se espalha em seu sofá sempre segurando sua caneca de café (um Oliver Platt esquecido nos créditos, mas eficientemente divertido). Sua vida, de acordo com ele, é uma sequência de acidentes, muitos deles graves, que quase o fazem morrer. Seu próprio nascimento foi assim, e quase foi o fim dele e de sua mãe, Natalie (Sarah Gadon).

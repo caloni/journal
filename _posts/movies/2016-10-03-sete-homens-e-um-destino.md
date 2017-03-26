@@ -22,7 +22,6 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMzYyNzU0MTM1OF5BMl5BanBnXkFtZTcwMzE1ODE1NA@@._V1._SX93_SY140_.jpg"
 ---
-
 Um filme do velho oeste que é um remake do clássico de Akira Kurosawa, Os Sete Samurais, que acabou virando também meio um clássico. Sua estrutura é poderosa, mexe com heróis incidentais que resolvem salvar uma vila de camponeses das garras do Estado... quer dizer, de uma gangue de bandidos que rouba parte da produção de alimentos para eles próprios sobreviverem. É uma história que mexe com o teatral, mas que mantém sua tensão como todo bom e velho faroeste.
 
 Filmado em techicolor e em widescreen (na proporção de épicos, 2.35:1), essa película está empoderada pela trilha sonora grandiosa, que três anos depois foi usada pela Marlboro em seus comerciais de cigarro. Porém, há melodias mais sutils e mais doces em uma história que mexe com a decisão moral tanto do lado mais forte quanto do lado mais fraco, e apresenta um vilão com senso de liderança e um surpreendente bom senso, que tenta evitar conflitos onde eles não são necessários.

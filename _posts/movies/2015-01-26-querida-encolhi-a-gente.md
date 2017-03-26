@@ -20,7 +20,6 @@ _ratio: "1.33 : 1"
 _kind: "video movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BNjAzNzk4OTg0NF5BMl5BanBnXkFtZTYwNDUyNjU5._V1._SX98_SY140_.jpg"
 ---
-
 Parece demais um filme inteiro com a ideia de mostrar como as crianças conseguem se virar sozinhas sem a presença dos pais. Ainda mais por se tratar de uma continuação da continuação e tentar reciclar velhas ideias da série usando os mesmo efeitos que hoje já se pode notar algumas marcas do passado. E isso em um filme de 97!
 
 A conclusão, portanto, é que _Querida, Encolhi a Gente_, lançado direto para vídeo, é daqueles filmes caça-níqueis que adota um roteiro preguiçoso e faz com que os pais das crianças sejam encolhidos acidentalmente não com um, mas com dois objetos (iguais) que caem no botão que aciona a máquina. Oportunista do começo ao fim, monta um trajeto que envolve os adultos-mirim descendo em uma isca de pesca, "pilotando" um carrinho de brinquedo por uma pista que envolve loops e saltos, caindo em um monte de roupa e voando dentro de bolhas de sabão. Tudo isso coloca em dúvida as reais intenções do personagem de __Rick Moranis__, supostamente um gênio: ele quer salvá-los ou encontrar a maneira mais divertida de deixar seus filhos órfãos?

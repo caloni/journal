@@ -21,7 +21,6 @@ _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTMxNzYwMjc1Ml5BMl5BanBnXkFtZTcwNDI3MDE3Mg@@._V1._SX95_SY140_.jpg"
 ---
 
-
 Aprendemos duas coisas assistindo Garota Infernal: que não se dá Oscar de melhor roteiro para uma estreante com delírios de grandeza (Diablo Cody, de Juno) e não se coloca atrizes como Megan Fox (Transformers e... argh! Transformers 2), que rivaliza com Kristen Stewart em atuação, em um papel principal.
 
 Ou talvez se coloque. Afinal de contas, Fox não compromete em nada esse projeto mais do que bem vindo aos amantes de seu corpo e seus lábios. Na verdade, talvez seja a escolha ideal para uma personagem cuja principal função seja a de andar seminua por aí se alimentando de homens.

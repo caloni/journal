@@ -19,7 +19,6 @@ _ratio: "1.78 : 1"
 _kind: "movie"
 ---
 
-
 Geralmente as condições em que ocorrem a produção de um filme não importam muito, e servem somente a título de curiosidade. Nesse caso, o diretor (e roteirista?) Matheus Souza, estudante de cinema ainda, conseguiu com a ajuda dos colegas o dinheiro necessário para realizar este longa ainda com 19 anos, o que se tornou um exercício de cinema no mínimo competente.
 
 A história é interessante, pois estamos falando de um casal que acabou de terminar e está se despedindo. O filme oscila entre o presente e o passado, tratando do relacionamento entre eles logo após terminarem e passarem seus últimos momentos juntos (Antes do Pôr do Sol?).

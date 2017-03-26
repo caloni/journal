@@ -19,7 +19,6 @@ _fullcover: "http://ia.media-imdb.com/images/M/MV5BMTgxMjUyNTAxNF5BMl5BanBnXkFtZ
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTgxMjUyNTAxNF5BMl5BanBnXkFtZTgwNTk4MDUyMzE@._V1._SX95_SY140_.jpg"
 ---
-
 Um terror que pega carona no seu original e que conta uma história pouco polida com várias crianças que podem morrer. Na verdade, todos podem morrer que ninguém se importa, menos um garotinho irritante que se recusa a falar e que virou o querido da professora, a heroína do filme. Empalidece frente ao já pálido original com Daniel Radcliffe.
 
 Com Phoebe Fox no automático e várias crianças. Direção de Tom Harper, roteiro de Jon Croker.

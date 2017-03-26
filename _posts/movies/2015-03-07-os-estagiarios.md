@@ -20,7 +20,6 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMjM1MzczMDgwOV5BMl5BanBnXkFtZTcwMDM4NjM2OQ@@._V1._SX94_SY140_.jpg"
 ---
-
 Não sei o nível de entrosamento de _Vince Vaughn_ com os roteiros que participa, mas co-assinando a história do ótimo __Separados pelo Casamento__ e os roteiros de __Encontro de Casais__ e agora __Os Estagiários__ me diz que pelo menos ele não se importa tanto quanto o egocêntrico __Adam Sandler__ em proteger sua "imagem pública". Mas não se engane: seus personagens podem ser antipáticos em alguns momentos, mas sempre sairão por cima ou terão algo que ninguém tem. Nesse caso, a capacidade de ser um excelente vendedor.
 
 Só que a Era de vendedores de relógio como Billy (Vahghn) e Nick (_Owen Wilson_) já passou faz um tempo, e agora que a firma para onde trabalhavam fechou as portas eles têm a ideia de se inscrever no programa de estágios do novo sonho americano: trabalhar no Google. Levando mais tempo do que deveria em sua introdução, finalmente somos levados às instalações e às pessoas que regem a internet. E, assim como Vaughn, a Google não se importa em ser caracterizada como arrogante e insensível durante o trajeto da história, desde que no final fique valendo a imagem deste ser o lugar dos sonhos.

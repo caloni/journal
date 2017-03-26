@@ -19,7 +19,6 @@ _fullcover: "http://ia.media-imdb.com/images/M/MV5BMTk3NzgxNzE3OV5BMl5BanBnXkFtZ
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTk3NzgxNzE3OV5BMl5BanBnXkFtZTcwMDI1Njc4NQ@@._V1._SX95_SY140_.jpg"
 ---
-
 Alice é uma mulher que se dedica inteiramente ao trabalho. Boa parte do tempo a vemos usando seu celular e seu notebook. Apesar de excelente profissional, ela ignora sua família, cuidando dos afazeres caseiros e profissionais como se fizessem parte de uma mesma agenda. A triste consequência é que, apesar de terem uma vida invejável de classe média alta, ela acaba conhecendo pouco de seu próprio filho e quase não nota a existência do marido, que aparece distante em sua vida (sua cara de fato não aparece no início do filme).
 
 Após ser demitida no dia da sua promoção e levar um fora do marido pela secretária eletrônica (a única maneira que ele encontrou de fazer sua esposa ouvi-lo), Alice vê sua vida perfeita ficar, com o perdão do trocadilho, De Pernas pro Ar. Procurando um motivo para tal fracasso na vida de esposa, o quesito sexo é o que irá mais ressoar em sua cabeça. Ajudada pelas opiniões distorcidas de sua mãe e amiga, pois segundo elas a cama é o convívio central de todo casal que se preze, Alice abraça essa nova obsessão como a solução para todos os males, e tenta com ela restaurar tanto sua vida afetiva quanto profissional.

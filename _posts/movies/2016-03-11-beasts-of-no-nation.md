@@ -22,7 +22,7 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTYwMzMzMDI0NF5BMl5BanBnXkFtZTgwNDQ3NjI3NjE@._V1._SX94_SY140_.jpg"
 ---
-Esse filme é um misto do cinema naturalista de Hector Babenco em "Pixote" (1981) e o imaginário de Buscapé em [Cidade de Deus](/cidade-de-deus) (Fernando Meirelles, 2002). De brinde, nos traz Abraham Attah como o pequeno e hipotizante Agu, um menino que tem sua família separada e destroçada e é arrastado para uma pequena milícia que aplica operações sanguinárias, ordenadas por um sistema de fantoches financiado por capital estrangeiro.
+Esse filme é um misto do cinema naturalista de Hector Babenco em "Pixote" (1981) e o imaginário de Buscapé em Cidade de Deus (Fernando Meirelles, 2002). De brinde, nos traz Abraham Attah como o pequeno e hipotizante Agu, um menino que tem sua família separada e destroçada e é arrastado para uma pequena milícia que aplica operações sanguinárias, ordenadas por um sistema de fantoches financiado por capital estrangeiro.
 
 O país -- ou região -- onde isso se passa, é desconhecido. Pode ser próximo da Nigéria, pois seu exército aparece nos primeiros minutos em cena. Pode não ser. A questão é: o que importa? O continente africano e seu povo nunca foram estruturados para se comportarem como países, mas a colonização europeia deu conta dessa divisão artifical. Agora tribos são saqueadas e seres humanos são mortos e estuprados por grupos armados que se comportam de maneira mais mortífera que os animais da savana, e com objetivo bem mais injustificáveis.
 

@@ -20,7 +20,6 @@ _ratio: "1.85 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMjE5MTUzNDk3M15BMl5BanBnXkFtZTgwMTUwNTQ5MTE@._V1._SX95_SY140_.jpg"
 ---
-
 Essa é a minha visão sobre o futuro. Obviamente, no filme as coisas não saem como o esperado. Mas quem disse que na vida real é diferente? Quantas vezes idealizamos algo e esse algo se perde no meio do caminho para virar outra coisa que, não obstante, parece bater de frente com nossos objetivos iniciais?
 
 No caso de __O Congresso Futurista__, a maior falha no roteiro de __Ari Folman__ (de __Valsa com Badhit__, e que aqui também dirige) baseado no romance de Stanislaw Lem é não conseguir estabelecer com a exatidão necessária qual o objetivo de __Robin Wright__ (__House of Cards__) em assinar seu último contrato de atuação, que permitirá à produtora "Miramount" (um trocadilho infame entre Miramax e Paramount) deter todos os direitos de atuação da cópia digital da atriz, impedindo que ela atue para sempre ou por um bom tempo. Os cuidados que tem com seu filho Aaron (Kodi Smit-McPhee) não conseguem convencer por si só. Sua face quase sempre enigmática também não ajuda.

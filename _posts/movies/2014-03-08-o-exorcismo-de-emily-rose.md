@@ -20,7 +20,6 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTI2NTM5MjQ0Nl5BMl5BanBnXkFtZTcwNDAxNjAzMQ@@._V1._SX94_SY140_.jpg"
 ---
-
 Se O Exorcista (William Friedkin, 1973) tivesse sido produzido nessa década perderia praticamente metade do seu brilho sobrenatural. Um filme faz muito mais sentido em sua época (o que não quer dizer que não possa ser apreciado pelas futuras gerações)  e lá no passado as crenças e religiões ainda eram um ponto alto, sobretudo a cristã. Os últimos escândalos da igreja católica com certeza ajudaram a minar toda essa fé que leva ao medo, ao sacrifício e à dor. E o medo, desnecessário dizer, é o que move o terror.
 
 Já em O Exorcismo de Emily Rose se adapta à sua época cínica e cética apresentando o ritual já em uma sala de tribunal. A menina supostamente possuída (Jennifer Carpenter, da série Dexter), já sabemos, não sobreviveu ao ritual, e o padre (Tom Wilkinson, propositadamente ausente) agora está sendo processado por negligência. De maneira significativa, para sua defesa está a advogada Erin Bruner (Laura Linney, correta), que ficou conhecida por conseguir inocentar um famoso criminoso, mas que, acima de tudo para o filme, é agnóstica. Igualmente significativo é a escalação do seu promotor (interpretado de maneira atribulada por Campbell Scott), que é católico, mas que aqui faz o papel de, desculpas ao trocadilho, advogado do diabo.

@@ -20,7 +20,6 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMjExMTEzODkyN15BMl5BanBnXkFtZTcwNTU4NTc4OQ@@._V1._SX94_SY140_.jpg"
 ---
-
 Parece algo repetitivo fazer filmes sobre a escravidão, não? Bom, depende da abordagem. A direção certeira de Steve McQueen (Shame) consegue adaptar as memórias de Solomon Northup com precisão. Solomon foi um afro-americano nascido livre em Nova York de 1853 e que foi sequestrado e vendido como escravo na capital do país que se formava. O que está sendo mostrado não é exatamente um registro genérico sobre escravidão, mas uma reflexão profunda, bem ritmada e, sobretudo, um documentário de nossa época a respeito do que é ser um escravo.
 
 12 Anos de Escravidão poderia facilmente ser acusado de ser um filme didático demais, pois acompanha a vida de Solomon (Chiwetel Ejiofor) em diferentes tipos de trabalho, como o cultivo da cana, do algodão e a extração de madeira, parecendo que essa estrutura foi montada para contar um pouco o que cada escravo sofreu da mesma forma que ele (só que uma vida inteira). Porém, esse é um ledo engano, já que o roteiro de John Ridley e as transições sutis e agradáveis de McQueen, mostrando lindas paisagens que mudam conforme as estações do ano e a época da nova colheita, consegue encadear um ritmo admirável e orgânico por 12 anos na vida do sujeito sem precisamos das cansativas legendas que marcam a passagem do tempo.

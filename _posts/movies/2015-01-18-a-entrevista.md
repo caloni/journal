@@ -20,7 +20,6 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTQzMTcwMzgyMV5BMl5BanBnXkFtZTgwMzAyMzQ2MzE@._V1._SX94_SY140_.jpg"
 ---
-
 _A Entrevista_ é daqueles filmes que se aproveitam de um momento histórico atual para tentar chamar atenção para si mesmo, quando na verdade não passa de uma comédia medíocre construída sob uma estrutura falha que, assim como __Zohan: O Agente Bom de Corte__, tenta resolver um problema complexo de maneira simplória jogando ao público o que ele quer ver.
 
 Porém, seria mesmo isso que o público quer ver? Não há dúvidas do lado de Dave Skylark (__James Franco__ se divertido à beça), um entrevistador de um programa de TV que se gaba de arrancar anúncios polêmicos de celebridades (como Eminem assumindo sua homossexualidade ao vivo). Acompanhando o raciocínio de seu frustado editor Aaron (__Seth Rogen__ sendo Seth Rogen), que gostaria de trabalhar com material mais sério, conseguem uma entrevista com o ditador norte-coreano Kim Jong-un (__Randall Park__) por causa de seu fascínio por Skylark. Talvez a melhor piada do filme tenha passado despercebido, mas quando um ditador sanguinário é fã de uma série pseudo-nerd, talvez a equipe de __The Big Bang Theory__ poderia reavaliar melhor seu público-alvo.

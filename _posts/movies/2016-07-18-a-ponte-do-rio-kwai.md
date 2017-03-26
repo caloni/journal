@@ -31,4 +31,4 @@ Alec Guinness cria aqui um ser humano moral que rouba a cena no primeiro um ter�
 
 Apesar do roteiro simples e coeso da dupla Carl Foreman e Michael Wilson, que sequer foram creditados no filme, apesar de conter diálogos, passagens e uma artimanha engenhosa em seu terceiro ato, é a direção de David Lean que torna tudo mais grandioso e até certo ponto fantasioso sem perder o senso da razão (como o impecável Dr. Strangelove de Kubrick, também sobre a guerra). Lean gravaria cinco anos depois Lawrence da Arábia, demonstrando que não há nada que não possa fazer em cenas externas.
 
-A Ponte do Rio Kwai, apesar de um "filme antigo", ainda carrega uma energia invejável, algumas tiradas humorísticas relativamente eficientes, mas, acima de tudo, uma moral da história que transcende a super-produção.
+A Ponte do Rio Kwai, apesar de um "filme antigo", ainda carrega uma energia invejável, algumas tiradas humorísticas relativamente eficientes, mas, acima de tudo, uma moral da história que transcende a superprodução.

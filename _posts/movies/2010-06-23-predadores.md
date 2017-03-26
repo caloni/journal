@@ -20,7 +20,7 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMjA5MzYwODgzOV5BMl5BanBnXkFtZTcwMTQwMjUyMw@@._V1._SX95_SY140_.jpg"
 ---
-Último filme de uma longa série que envolve predadores e aliens, [Predadores](/predadores) cria um ambiente hostil para humanos e uma trama suficientemente coesa para que tenhamos cenas de ação e tensão durante essa mini-experiência dentro desse universo onde humanos são sempre caças, e os predadores, seus caçadores.
+Último filme de uma longa série que envolve predadores e alienígenas, Predadores cria um ambiente hostil para humanos e uma trama suficientemente coesa para que tenhamos cenas de ação e tensão durante essa mini experiência dentro desse universo onde humanos são sempre caças, e os predadores, seus caçadores.
 
 Possui uma participação especial de Laurence Fishburne, além de uma Alice Braga eficiente como par violento de Adrien Brody.
 

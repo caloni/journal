@@ -20,7 +20,6 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BODU5ODMyMzg2MV5BMl5BanBnXkFtZTgwMTA2MTcxMjE@._V1._SX94_SY140_.jpg"
 ---
-
 A série Mercenários tem um objetivo bem claro e um público-alvo definido: os fãs dos filmes de ação dos anos 80, onde eu me incluo. Queremos ver esses caras de novo, de preferência todos juntos. Queremos a maior reunião de testosterona jamais feita. Queremos explosões, lutas e cenas de tirar o fôlego.
 
 E hoje em dia, com tantos recursos digitais, convenhamos: não é pedir demais. Ainda mais encabeçado por grandes nomes como Arnold Schwarzenegger, Mel Gibson, Antonio Banderas, Harrison Ford e, claro, Sylvester Stallone. Porém, depois de três filmes, os fãs de Cinema como eu ainda aguardam ansiosamente por uma história que tenha o mínimo de razão para existir e por sequências de ação que não se limitem em derrubar o esconderijo secreto de um ditador que usa um auto-retrato ridículo espalhado por todos os cantos (ainda que derrubar um portão com um trem em alta velocidade seja um negócio bem divertido).

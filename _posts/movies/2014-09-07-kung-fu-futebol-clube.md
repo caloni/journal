@@ -20,7 +20,6 @@ _ratio: "1.85 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTk3NDg5NTE4MV5BMl5BanBnXkFtZTcwNzMxMjAwMQ@@._V1._SX95_SY140_.jpg"
 ---
-
 Shaolin Soccer é uma "versão beta" do hilário Kung-Fusão, mas é muito mais coerente em sua proposta de usar o Kung-Fu como uma forma de todas as pessoas melhorarem o que quer que façam no dia-a-dia através dessa arte milenar chinesa. Coerente, mas não menos confusa: apresentando personagens de maneira mais ou menos aleatória, e com o desafio de montar um time de futebol com personagens obviamente simplistas (o gordo, o fumante, o magro, etc), os únicos que parecem ter um pouco mais de polimento no roteiro são as versões original e nova da lenda conhecida como "Pé de Ouro": pernas dotadas de uma força descomunal que chutam bolas (e qualquer outra coisa) com força desproporcionalmente absurda. (Ah, sim, claro, e o interesse amoroso do herói.)
 
 O forte do filme com certeza não é sua história, que oscila entre o humor, o drama e o tocante, sendo que o "tocante" sempre é exagerado através não apenas do recurso batido da trilha sonora, mas de situações absurdamente cruéis e/ou desproporcionais. Sua força, ironicamente, provém da mesma característica: tentando apresentar formas diferentes de jogar futebol com habilidades de lutadores de artes marciais o filme acaba quase incidentalmente criando uma nova forma de contar uma história sobre um esporte.

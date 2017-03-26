@@ -20,7 +20,6 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTI3ODAwMDA5NV5BMl5BanBnXkFtZTcwODExODEzMQ@@._V1._SX94_SY140_.jpg"
 ---
-
 Este é um thriller que segue a cartilha básica do grupo de jovens descerebrados que entra em uma enrascada ao procurar prazer carnal no albergue de uma cidadezinha do Leste Europeu. O que eles não imaginavam -- nem teriam como, a não ser que você seja muito preconceituoso a respeito dessa região ex-comunista, portanto, esquecida e miserável -- é que a cidade emprega várias pessoas em um esquema que alimenta o prazer sádico de ricaços em torturar pessoas, especialmente americanos (nem preciso dizer de onde vem os nossos amigos).
 
 O resumo da ópera: toda a sequência que envolve o desaparecimento de cada um deles até o nosso heroi sobrevivente lembra um pouco os filmes trash, mas com a diferença de dispor de um alto orçamento (se não me engano o Tarantino assina a produção). É divertido, pois ao mesmo tempo que não damos muita atenção à dor alheia, os personagens mais caricatos são os tais ricaços, que são mostrados como doentes mentais com ares de complexo de inferioridade. Além disso alguns elementos pseudo-fantásticos são hilários, como o spa compartilhado e uma gangue de garotos com seus dez/doze anos de idade.

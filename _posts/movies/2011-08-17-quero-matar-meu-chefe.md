@@ -21,7 +21,6 @@ _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BNzYxNDI5Njc5NF5BMl5BanBnXkFtZTcwMDUxODE1NQ@@._V1._SX95_SY140_.jpg"
 ---
 
-
 Muitas pessoas com certeza rirão das piadas sobre trabalho, sexo e racismo de Quero Matar Meu Chefe, tradução não-literal de Horrible Bosses (Chefes Horríveis, o que não melhora muito as coisas). Novo trabalho de Seth Gordon (Surpresas do Amor e umas pontas em The Office e Community), o longa reúne mais talentos cômicos do que supostamente ele conseguirá no resto de sua vida como diretor.
 
 O filme inicia com três narradores oniscientes, Hick (Bateman), Kurt (Sudeikis) e Dale (Day), que assim que terminam a introdução são descartados, e passamos a acompanhá-los pelo quarto narrador (a câmera). Vivendo momentos sufocantes no trabalho devido a cada um de seus insuportáveis chefes, que eventualmente abusam de seu poder, os três rapazes resolvem solucionar seus problemas através da única maneira plausível: exterminando seus superiores, afim de ter um pouco de paz em suas insuportáveis vidas.

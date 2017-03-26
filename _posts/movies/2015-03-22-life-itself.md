@@ -18,7 +18,6 @@ _fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQ2OTQzMjcxNF5BMl5BanBnXkFtZ
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTQ2OTQzMjcxNF5BMl5BanBnXkFtZTgwMzc2Njk3MTE@._V1._SX94_SY140_.jpg"
 ---
-
 Life Itself é uma experiência divertida e monótona ao mesmo tempo. Divertida porque acompanhamos a vida de Rober Ebert -- um dos críticos mais famosos e conceituados no mundo, falecido em 2013 -- desde quando começou a escrever. E o sujeito era um... como dizer isso sem soar xulo? Porra-loca. Estava sempre no bar, saía com mulheres não-convencionais na maioria das vezes, e virou um alcóolatra crônico. Ou seja: o estereótipo de um escritor bem-sucedido.
 
 A parte monótona são as inúmeras tentativas, na maioria das vezes frustradas, do diretor Steve James tentar entender a partir de testemunhos de seus amigos, conhecidos e colegas de serviço quem era o profissional Roger Ebert. Sem ter um roteiro definido, Steve começa a filmar quando Ebert já está internado pela sexta vez em decorrências de complicações do tratamento de um câncer. Sabemos que não há muito tempo, então a câmera apressadamente dá seus pulos para o passado, mas logo volta para o inimente presente e suas consequências. A impressão geral é a de que não faz sentido um filme sobre um crítico de Cinema, e que agora é tarde demais.

@@ -19,7 +19,6 @@ _fullcover: "http://ia.media-imdb.com/images/M/MV5BMTgyMjY3MzI5M15BMl5BanBnXkFtZ
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTgyMjY3MzI5M15BMl5BanBnXkFtZTgwNTkxNTU0MzE@._V1._SX96_SY140_.jpg"
 ---
-
 O que mais gosto do início de Miss Julie é o sotaque irlandês de Colin Farrell. Esse sotaque é rebuscado, bem trabalhado. Mas não é só isso que o torna magnético. A forma com que Farrell explora apenas através da voz e de suas expressões as amarguras da vida do seu personagem, John, um serviçal que trabalha para um Barão que era o vizinho de seu pai, é o tipo de coisa que faz com que Miss Julie seja um trabalho intimista no mínimo curioso.
 
 Fora isso, temos a própria personagem-título, interpretada por Jessica Chastain com uma entrega que a torna quase invisível. Ela é de uma ingenuidade que contorna seu próprio comportamento lascivo. O contraponto com a cozinheira Kathleen (Samantha Morton) quase não é explorado, mas suas formas físicas sim, e é tão válido quanto.

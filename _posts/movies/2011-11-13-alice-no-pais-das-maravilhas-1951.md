@@ -20,7 +20,6 @@ _ratio: "1.33 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTgyMjM2NTAxMF5BMl5BanBnXkFtZTgwNjU1NDc2MTE@._V1._SX94_SY140_.jpg"
 ---
-
 Tantos roteiristas, tantos adiamentos e tanta dúvida sobre se esse projeto seria viável valeram a pena. A versão de Alice de 1951, conduzida por perto pelo próprio Walt Disney, é irretocável do começo ao fim. É o tipo de filme que encanta por nunca ter envelhecido, de fato, e pela sua riqueza nos detalhes visíveis e invisíveis.
 
 A história todos conhecem: Alice é uma menina que encontra um coelho de relógio e entra em sua toca. Lá dentro, conhece todo o tipo de criaturas bizarras e aparentemente insanas. A condução é feita através de muitas rimas, poesia e música. As rimas não ficam apenas nos diálogos: há rimas visuais, criadas nos contornos dos seus personagens ou no uso significativo de suas cores, ou até mesmo em sua natureza.

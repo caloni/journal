@@ -21,7 +21,6 @@ _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BNTc4MTc3NTQ5OF5BMl5BanBnXkFtZTcwOTg0NjI4NA@@._V1._SX100_SY133_.jpg"
 ---
 
-
 A impressão que temos ao assistir o último capítulo da nova saga criada por George Lucas é que este preparou os dois filmes iniciais tão somente para ter a chance de produzir este terceiro, tamanho o peso narrativo que o diferencia dos seus iguais.
 
 Aqui, toda a angústia e tristeza do universo Star Wars são representados por uma fotografia mais escura e uma trilha sonora que transita cada vez mais pelos acordes do Império, e se pelo menos nisso somos obrigados a notar certa coerência desde A Ameaça Fantasma, o mesmo não ocorre no resto dos elementos cinematográficos, que juntos, participam na narrativa de uma forma completamente coesa e sofisticada.

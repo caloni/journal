@@ -20,7 +20,6 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTEwNTU2MjAwMDdeQTJeQWpwZ15BbWU3MDk2Njc2Njk@._V1._SX95_SY140_.jpg"
 ---
-
 Esse é um filme nitidamente encomendado para pegar carona no sucesso do original de Zack Snyder (que dirigiu o primeiro "300" e assina o roteiro deste novo) talvez principalmente baseado em seu público potencial, que aparentemente sente prazer em ver pessoas musculosas arrancando sangue de pessoas/bonecos genéricos em câmera lenta. Tudo de forma estilizada, é claro, mas, dessa vez, sem o preciosismo visual que tornava seu antecessor tão fascinante visualmente.
 
 A história se passa em paralelo à batalha de 300 quando descobrimos que o rei Xerxes (Rodrigo Santoro) subiu ao trono influenciado por sua adotada e voluptuosa irmã Artemisia (Eva Green, Cassino Royale) que, durante a batalha do Império Persa contra os 300 de Esparta, comanda uma grandiosa frota marítima contra a cidade-estado de Atenas. Enquanto isso, atenienses liderados por Themistocles (Sullivan Stapleton) tentam fazer sua democracia funcionar em tempos de guerra chamando as principais cidades gregas para a luta, tentativa essa frustrada justamente por condizer com um desejo antigo de ver um dia uma Grécia unificada, um sonho que as outras cidades orgulhosamente discordam (sobretudo Esparta).

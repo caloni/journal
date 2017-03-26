@@ -20,7 +20,6 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTYxNDM1NTQ4N15BMl5BanBnXkFtZTcwOTQ0Njg5Mw@@._V1._SX95_SY140_.jpg"
 ---
-
 Uma Manhã Gloriosa é o tipo de filme que tem tudo para ser mais uma comédia romântica clichê com um final feliz e uma boa lição de moral. No entanto, a direção sempre presente de Roger Michell consegue, assim como em Um Lugar Chamado Notting Hill, transformar um roteiro trivial em uma empolgante experiência pelo mundo da mídia televisiva.
 
 A história gira em torno de Rachel McAdams (Diário de uma Paixão), produtora executiva de um telejornal. Esperando por uma promoção, é demitida, e consegue um emprego apenas em um outro telejornal matinal largado às traças, como o próprio diretor do estúdio (Jeff Goldblum) o coloca. No entanto, o desespero da personagem de McAdams tenta de toda forma virar esperança, o que a faz tomar decisões arriscadas, como escalar um lendário e ranzinza âncora (Harrison Ford) que é conhecido nos bastidores como a terceira pior pessoa do mundo.

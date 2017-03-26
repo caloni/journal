@@ -20,7 +20,6 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMjM2MTYyMzk1OV5BMl5BanBnXkFtZTgwNDg2MjMyMjE@._V1._SX94_SY140_.jpg"
 ---
-
 _Annabelle_ é um _spin-off_ de uma pequena personagem com um pequeno papel em __Invocação do Mal__, de __James Wan__ (da série __Jogos Mortais__). O filme original retrata um casal de médiuns que coletam objetos relacionados com atos demoníacos, e a boneca homônima é um deles, pois foi protagonista em um evento dos anos 60. Esses detalhes são completamente irrelevantes para o resultado final, pois _Annabelle_ tem outra direção (__John R. Leonetti__, do péssimo __Efeito Borboleta 2__), outro roteirista (o semi-estreante __Gary Dauberman__) e apenas a mão na produção de James Wan, que entrega um trabalho plasticamente interessante, mas sem alma.
 
 Embora o filme seja recheado de cenas de susto com o batidíssimo recurso do som mais alto e uma trilha sonora quase que _trash_, há alguns momentos interessante. Um deles com certeza é o assassinato dos vizinhos logo no início. Iniciando através da janela do jovem casal, todo o plano-sequência que se passa no térreo causa tensão. Primeiramente porque é um plano-sequência, ou seja, não há cortes entre o momento em que a esposa, Mia (__Annabelle Wallis__), vai ver o que aconteceu com seu marido John (__Ward Horton__) e o momento em que ela volta para o quarto onde estão as bonecas que coleciona. Em segundo porque a imprevisibilidade inicial é algo que chama a atenção.

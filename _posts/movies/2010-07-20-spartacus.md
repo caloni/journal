@@ -20,7 +20,7 @@ _ratio: "2.20 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTAzNDcwODQ1MjJeQTJeQWpwZ15BbWU4MDY3NTAzMTAx._V1._SX97_SY140_.jpg"
 ---
-O primeiro filme de Stanley Kubrick. Kirk Douglas, produtor executivo, substituiu o diretor original, Anthony Mann, após a primeira semana de filmagens. Nessa época Kubrick contava 30 anos de idade, e apesar de ter feito já 4 produções, nenhuma com uma grandiosidae como essa. E o mais impressionante em todo o filme é esse tom épico, com quadros que evocam claramente outro clássico, de Cecil B. DeMille: Os 10 Mandamentos. Vemos a multidão de escravos rebeldes crescendo, formando acampamentos, atravessando vales gigantescos apenas com a vontade de ser livre.
+O primeiro filme de Stanley Kubrick. Kirk Douglas, produtor executivo, substituiu o diretor original, Anthony Mann, após a primeira semana de filmagens. Nessa época Kubrick contava 30 anos de idade, e apesar de ter feito já 4 produções, nenhuma com uma grandiosidade como essa. E o mais impressionante em todo o filme é esse tom épico, com quadros que evocam claramente outro clássico, de Cecil B. DeMille: Os 10 Mandamentos. Vemos a multidão de escravos rebeldes crescendo, formando acampamentos, atravessando vales gigantescos apenas com a vontade de ser livre.
 
 No meio de tudo isso a figura de Spartacus (Kirk Douglas), o nome-título, mais como um símbolo do que como uma pessoa que determina seu destino. Isso é mostrado na cena em que os prisioneiros após a batalha final são convidados a reconhecer Spartacus para se verem livres do castigo de serem crucificados, no que todos dizem "Eu sou Spartacus". No fundo, todos são o mesmo escravo responsável pela luta pela liberdade.
 

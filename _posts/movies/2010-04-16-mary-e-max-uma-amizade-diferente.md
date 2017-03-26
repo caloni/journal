@@ -21,7 +21,6 @@ _ratio: "1.85 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTQ1NDIyNTA1Nl5BMl5BanBnXkFtZTcwMjc2Njk3OA@@._V1._SX98_SY140_.jpg"
 ---
-
 Tudo em "Mary e Max" é construído para tentar responder uma das perguntas emocionalmente mais ambiciosas e filosoficamente mais intrigantes que nós, passageiros desse planeta em direção à morte, nos fazemos de vez em quando: o que é a amizade?
 
 Mary (Toni Collette), uma menina da Austrália, começa a se comunicar ao acaso através de cartas com Max (Philip Seymour Hoffman), um senhor de meia-idade de Nova Iorque. Habitantes cada um do seu mundinho particular e distante, suas cores não se misturam, suas músicas possuem diferentes tons, suas idades são incompatíveis (o futuro de Mary é do mesmo tamanho que o passado de Max). Mesmo assim há algo que os une e a todos nós de uma maneira indissociável e misteriosa: a solidão, e uma fascinante melancolia que torna tudo triste à sua volta.

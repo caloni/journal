@@ -20,8 +20,7 @@ _ratio: "1.85 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTEwMTc3NDkzOTJeQTJeQWpwZ15BbWU3MDI4NTAwNzc@._V1._SX94_SY140_.jpg"
 ---
-
-[Moonrise Kingdom](/moonrise-kingdom) é uma história que se passa em um conjunto de ilhas onde grupos de escoteiros estão alojados e alguns poucos moradores resolveram viver. A história gira em torno da fuga de dois jovens -- um escoteiro e uma jovem moradora -- e a "caça" que se faz em busca deles. Não é apenas sobre isso, é claro, pois o diretor Wes Anderson está mais interessado em analisar aquela micro-sociedade e com isso levantar questões para as próprias pessoas que moram no(s) continente(s): a maioria de nós.
+Moonrise Kingdom é uma história que se passa em um conjunto de ilhas onde grupos de escoteiros estão alojados e alguns poucos moradores resolveram viver. A história gira em torno da fuga de dois jovens -- um escoteiro e uma jovem moradora -- e a "caça" que se faz em busca deles. Não é apenas sobre isso, é claro, pois o diretor Wes Anderson está mais interessado em analisar aquela micro-sociedade e com isso levantar questões para as próprias pessoas que moram no(s) continente(s): a maioria de nós.
 
 O problema é que ele (o diretor) nos faz olhar nos detalhes cuidadosamente desenhados à mão (como as roupas dos escoteiros) e recorta a cena usando seu estilo... peculiar. Isso mais atrapalha o acompanhamento da história do que ajuda: saímos dela (que é interessante por si só) e prestamos atenção em outras coisas cujo significado sinceramente parece não existir. Se era esse o objetivo, parabéns: um tabalho de gênio para quem tem déficit de atenção. Sem contar, é claro, da verdadeira coleção de atores famosos, mais uma distração sem razão aparente.
 

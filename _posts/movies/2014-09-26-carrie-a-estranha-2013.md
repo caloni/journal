@@ -20,7 +20,6 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTc1MDIyOTkxN15BMl5BanBnXkFtZTgwMTU1NzEzMDE@._V1._SX95_SY140_.jpg"
 ---
-
 Talvez esse remake do clássico de Brian de Palma seja até eficiente na maior parte do tempo, ou não sei se pegando carona na memória afetiva do original ele consegue se sair melhor do que aparenta, até por discutir a história de Carrie quase como uma análise do bullying escolar dos tempos atuais e da diferença de visões religiosas dos mais jovens. Porém, uma direção grosseira e um roteiro equivocado conseguem estragar uma revisita até que curiosa.
 
 Carrie, revivida por Chloë Grace Moretz -- provavelmente escolhida depois de seu ótimo papel em Deixe-me Entrar, ou outro remake de terror -- é uma menina socialmente acuada, fruto da educação rígida da religiosa mãe (Julianne Moore, à altura do papel de Piper Laurie). Um episódio envolvendo sua primeira menstruação no colégio da escola acaba fazendo-a ganhar um desafeto que tenta se vingar durante o baile da formatura. Quase nada muda na história (até onde me lembro), exceto uma inserção ridícula de duas irmãs gêmeas que aparecem mais do que deviam em situações que fazem lembrar os gêmeros de "2012".

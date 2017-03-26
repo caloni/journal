@@ -19,5 +19,4 @@ _genres: ["Comedy", ]
 _runtimes: ["97", ]
 _kind: "movie"
 ---
-
 As Férias do Pequeno Nicolau é uma continuação que conserta algumas falhas estruturais do original, mas mantém a doçura e o carisma nostálgico dessa comédia feita a partir do ponto de vista das crianças. Se bem que dessa vez o filme convida também os adultos para esse mundo. É agradável observar os paralelos entre a vida amorosa dos pais e do próprio Nicolau, assim como suas visões infantis de seu possível casamento.

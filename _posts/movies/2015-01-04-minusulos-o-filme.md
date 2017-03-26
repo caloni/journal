@@ -17,7 +17,6 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTQyNDk1NzEwM15BMl5BanBnXkFtZTgwNTQ5NzIxMTE@._V1._SX100_SY133_.jpg"
 ---
-
 Me encantam filmes cuja ideia não parece muito boa ou de difícil execução, mas então, remando contra a maré, surge um trabalho inspirador.
 
 Esse é o resultado de __Minúsculos: O Filme__. Com seus personagens já criados e participando de curtas com cinco minutos de duração, o maior desafio de uma versão longa seria fazer o espectador suportar a falta de diálogo e ainda depender de uma antropomorfização limitada. Sim, limitada, pois os bichinhos criados em computador que vivem em um ambiente quase completamente real até possuem seus momentos "humanos" -- uma joaninha sofrendo bullying -- e até mágicos -- carregando objetos grandes e pesados. Porém, fora essas liberdades, acompanhamos a lógica comum da vida desses seres: formigas procuram e protegem açúcar como loucas; e uma asa, se arrancada, vai levar o seu tempo para crescer de novo.

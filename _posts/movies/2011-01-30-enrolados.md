@@ -20,7 +20,6 @@ _ratio: "1.85 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTAxNDYxMjg0MjNeQTJeQWpwZ15BbWU3MDcyNTk2OTM@._V1._SX94_SY140_.jpg"
 ---
-
 A história clássica de Rapunzel é recriada com o novo senso se humor Disney/Pixar, em que o príncipe é um ladrão procurado, e a frágil princesa não é tão frágil assim.  Temos aí os mesmos elementos que tornaram a Disney tão amada pelas crianças e adultos: números de música inspirados (com destaque para o bar do patinho) e uma história sem muitos conflitos e um final feliz.
 
 Uma fotografia aprimorada, que dá a iluminação adequada em todas as cenas (claras e escuras). Uma dublagem duvidosa do príncipe -- versão brasileira --, mas competente dos outros personagens, com destaque para a madrastra da princesa.

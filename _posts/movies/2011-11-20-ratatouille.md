@@ -20,7 +20,6 @@ _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTMzODU0NTkxMF5BMl5BanBnXkFtZTcwMjQ4MzMzMw@@._V1._SX94_SY140_.jpg"
 ---
 
-
 Ratatouille na época representou a capacidade grandiosa que um bom roteiro e uma exceptional produção conseguiam fazer, na animação computadorizada, como limite máximo de expressão na arte cinematográfica.
 
 Hoje, mais de quatro anos depois, ele continua envelhecendo como um bom vinho: ficando ainda melhor. Todas as nuâncias da história e os detalhes dos movimentos de seus personagens e a vivacidade e personalidade de seus cenários conseguem transmitir tantas informações de maneira harmoniosa que fica difícil reassistir esse jovem clássico e ainda assim não encontrar algum detalhe novo.

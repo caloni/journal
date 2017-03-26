@@ -19,7 +19,6 @@ _ratio: "1.85 : 1"
 _kind: "movie"
 ---
 
-
 A aparente originalidade desse filme situado na história do Iraque sob o comando do ditador Saddam Hussein, que promoveu uma matança de povos que não apoiavam seu regime, reside no seu diretor italiano e em sua estrutura formulaica, que lembra romances novelescos, mas que aparece erroneamente embutido em uma atmosfera de drama e desolação.
 
 O núcleo da história gira em torno do amor incondicional entre Najla (Alaoui) ? de uma família influente e fiel a Saddam, e Sherko (Eser) ? um médico descendente de curdos, um povo inimigo do ditador. Fornecendo uma introdução que parte direto para um flashback gigante, que se torna a história contada no filme, os momentos de romance do casal contam com diálogos extremamente piegas e vexatórios, sem contar na interpretação novelesca do casal, que passa a sensação de ter sido construído com essa intenção.

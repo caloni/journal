@@ -24,7 +24,7 @@ _cover: "http://ia.media-imdb.com/images/M/MV5BMTM2MDg5MzgxNF5BMl5BanBnXkFtZTcwO
 ---
 Uma comédia, ou suposta comédia, sobre nazistas que fogem para a Lua no final da guerra e vivem lá planejando um ataque à Terra, até que dois astronautas, sessenta anos depois, voltam a pisar em solo lunar e um deles se torna cobaia para experimentos de um cientista maluco nazista. Infelizmente esse rapaz é negro.
 
-Sim, essas são as premissas surreais de [Deu a Louca nos Nazis](/deu-a-louca-nos-nazis), o trabalho gêmeo aquele ano (2012) de "Nazistas no Centro da Terra". Mas que par para uma noite pipoca após discutir no jantar sobre Segunda Guerra!
+Sim, essas são as premissas surreais de Deu a Louca nos Nazis, o trabalho gêmeo aquele ano (2012) de "Nazistas no Centro da Terra". Mas que par para uma noite pipoca após discutir no jantar sobre Segunda Guerra!
 
 Mas nem tudo é perdido, há elementos curiosos que meio que compensam a experiência de ver nazistas invadindo a Terra (e se seu sonho é ver nazistas invadindo a Terra, dê-se por satisfeito). O _design_ de produção, por exemplo, é um deles. Com naves que lembram ou discos voadores ou são réplicas dos dirigíveis à época (imitando a realidade alternativa em "Capitão Sky e o Mundo de Amanhã"), além da própria sala de aula onde aparentemente a única jovem e bela da comunidade nazista, Dr. Paige Morgan (Dominique Swain), dá aulas a crianças nascidas na Luz. Ela apresenta um "curta" de Chaplin enaltecendo o _Füher_, quando na verdade é apenas um pedaço do longa O Grande Ditador (que zoa Hitler de ponta a ponta).
 

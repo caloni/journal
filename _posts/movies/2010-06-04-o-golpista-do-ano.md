@@ -20,7 +20,6 @@ _ratio: "1.85 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BNDkzMjkwNjc5NV5BMl5BanBnXkFtZTcwNzEyOTk5Mw@@._V1._SX94_SY140_.jpg"
 ---
-
 Um filme com estilo episódico (fade out em vários momentos), narração em off de um protagonista que supostamente está morto (acho que já pensaram nisso antes...) e invencionices demasiadas com a câmera, muitas vezes na mão. Apesar de ter tudo para dar errado, __O Golpista do Ano__ apresenta __Jim Carrey__, __Ewan McGregor__ e até __Rodrigo Santoro__ em personagens que acompanham as personas dos atores, mas desafiam a realidade dos eventos (sim, o filme é baseado em alguns fatos em torno da figura de Phillip Morris).
 
 O fato é que com atuações convincentes e uma trama que nos leva ao ápice da malandragem, __O Golpista do Ano__ se saiu muito melhor que o tão falado __Trapaça__. Ewan McGregor, por exemplo, domina a história e o personagem desde o início, estabelecendo de uma vez por todas a relação entre Phillips e Steven, vital para o filme (como demonstra o título original). Realizando cenas engraçadas e emocionantes ao mesmo tempo, o roteiro e direção da dupla __John Requa__ e __Glenn Ficarra__ consegue oscilar de maneira mais ou menos tranquila entre os dois lados da mesma moeda.

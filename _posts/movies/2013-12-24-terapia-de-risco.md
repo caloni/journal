@@ -22,7 +22,6 @@ _cover: "http://ia.media-imdb.com/images/M/MV5BMTc2MzY0NDAwOF5BMl5BanBnXkFtZTcwM
 ---
 
 
-
 Me impressionei pela atuação de Rooney Mara (a Lisbeth Salander de Os Homens que Não Amavam as Mulheres) e sua construção de um personagem frágil mesmo que insensível. Os problemas de depressão de Emily são tão óbvios em seus olhares abaixados, esguios, em sua fala mansa e cansada, que tudo isso parece convincente demais.
 
 E é onde reside a genialidade de sua atuação e onde adentramos no segundo ato de um drama que se torna de uma cena para outra  talvez a transição que eu menos goste  em um thriller que é impossível de desgrudar os olhos. Como não vimos isso? Como não percebemos? O que é loucura e o que é malícia? Onde estão as bases de um profissional da psique para desvendar tantas camadas de nossa personalidade muitas vezes vil e desprezível?

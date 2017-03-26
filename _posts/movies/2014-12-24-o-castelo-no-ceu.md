@@ -20,7 +20,6 @@ _ratio: "1.85 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTU4MTUyMTc3MV5BMl5BanBnXkFtZTYwOTg4Mzk5._V1._SX98_SY140_.jpg"
 ---
-
 Assistindo a __O Castelo no Céu__ percebi uma característica do diretor Hayao Miyasaki (A Viagem de Chihiro) talvez pouco reconhecida entre seus fãs: ele é extremamente habilidoso em sequências de ação. Isso pode-se constatar facilmente em uma cena envolvendo uma perseguição de trem, tanques, carros e transportes voadores e que dura pouco menos que dez minutos, mas acelera as batidas do coração a cada novo desdobramento. Isso ocorre principalmente porque nos preocupamos profundamente com os personagens envolvidos, o que nos leva a uma segunda característica vital de Miyazaki: ele sabe introduzir seus personagens.
 
 A mesma versatilidade existe em __Ponyo: Uma Amizade que Veio do Mar__ e até no mais lento __Vidas ao Vento__. Curiosamente esses dois longas emprestam muito das ideias de __O Castelo no Céu__, que por sua vez também se aproveitou muito de __Nausicaa - A Princesa do Vale dos Ventos__. Posteriormente várias ideias -- principalmente as visuais -- foram aproveitadas novamente em __Porco Rosso - O Último Herói Romântico__ e em __O Serviço de Entregas da Kiki__. Como pode-se perceber, o universo dos estúdios Ghibli, de Miyasaki e sua equipe mantém diversas rimas, tal qual Disney em seus projetos (dadas as devidas proporções). Porém, não se engane: todas essas produções possuem sua assinatura peculiar, e portanto estão longe de ser uma velha fórmula reproduzida inúmeras vezes.

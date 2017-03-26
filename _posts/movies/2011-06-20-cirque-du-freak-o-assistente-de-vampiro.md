@@ -21,7 +21,6 @@ _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTI1NDA1MTMwNl5BMl5BanBnXkFtZTcwNTg0MDE4Mg@@._V1._SX95_SY140_.jpg"
 ---
 
-
 Darren (Massoglia) é um garoto estilo certinho, mas é amigo do problemático Steve (Hutcherson). Ambos acabam indo a um circo de horrores e lá conhecem um homem misterioro, Lasten Crepsley (Reilly), que se revela um vampiro secular. Após uma série de eventos, como o título já denuncia, Darren será obrigado a deixar sua vida normal e se tornar seu assistente. Porém, para complicar as coisas, ele irá descobrir que existem algumas escolhas a ser feitas no mundo dos vampiros.
 
 Existem boas ideias em Cirque du Freak, e uma delas é inserir no ambiente de criaturas peculiares de um circo de horrores a figura do vampiro que, se existisse em nosso mundo, seria igualmente visto como uma aberração a ser evitada.

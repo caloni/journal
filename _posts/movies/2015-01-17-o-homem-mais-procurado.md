@@ -20,7 +20,6 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BODY2MTA0MjYzMl5BMl5BanBnXkFtZTgwOTE3NzE4MTE@._V1._SX94_SY140_.jpg"
 ---
-
 __O Homem Mais Procurado__ é um daqueles filmes que tenta te manter quase que completamente atento apenas pelo poder de persuação de seu protagonista. Para sorte do diretor __Anton Corbijn__ (__Um Homem Misterioso__), o intérprete __Philip Seymour Hoffman__, apesar de ter ido jovem, foi um dos grandes de sua geração, e constrói mais uma vez um personagem, se não multidimensional, crível naquele esquema de espionagem pós-atentados 11/9.
 
 Estamos na Alemanha, e o objetivo de __Günther Bachmann__ é manter o mundo mais seguro, mesmo que isso envolva ir contra os princípios malucos dos governantes da época, que inclui matar e torturar o maior número de prisioneiros, terroristas ou até mesmo suspeitos de serem ou financiarem o terrorismo. Eles estão governando para o povo paranóico ou eles mesmos são a paranoia? É uma questão interessante, mas que não é abordada aqui.

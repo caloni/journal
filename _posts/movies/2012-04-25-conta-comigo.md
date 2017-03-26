@@ -20,7 +20,7 @@ _ratio: "1.85 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BNDk2MTkyMTA1OF5BMl5BanBnXkFtZTcwOTc2Njk3OA@@._V1._SX93_SY140_.jpg"
 ---
-Mais um filme dos anos 80 que envelheceu muito bem. Leveza e ingenuidade caminham juntos na história dos quatro amigos que partem em uma jornada com o objetivo de se tornarem heróis. E por mais piegas que pareça a argumentação de [Conta Comigo](/conta-comigo), ela é levada a sério, o que faz toda a diferença no desenvolvimento dos personagens (que não são crianças genéricas).
+Mais um filme dos anos 80 que envelheceu muito bem. Leveza e ingenuidade caminham juntos na história dos quatro amigos que partem em uma jornada com o objetivo de se tornarem heróis. E por mais piegas que pareça a argumentação de Conta Comigo, ela é levada a sério, o que faz toda a diferença no desenvolvimento dos personagens (que não são crianças genéricas).
 
 Dessa forma, as personalidades de Gordie (Will Wheaton), Chris (River Phoenix), Teddy (Corey Feldman) e Vern (Jerry O'Connel) não são levadas apenas pelas suas impecáveis e inspiradas atuações, mas também por suas roupas, suas casas e seus pais, em um esmero imperceptível (o que o faz tão bom) de direção de arte e figurino. Ainda recheada de pequenos pedaços de músicas da época, a trilha sonora transporta-nos facilmente.
 

@@ -20,7 +20,6 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTUxNTk5MTE0OF5BMl5BanBnXkFtZTcwMjA2NzY3NA@@._V1._SX95_SY140_.jpg"
 ---
-
 O Rio de Janeiro está em alta no cinema mundial esse ano: palco de duas produções internacionais de prestígio, a uma vez chamada Cidade Maravilhosa começa a mostrar aos poucos sua nova cara para o mundo, mesmo que sob a ótica distorcida das produções de Hollywood.
 
 A quinta produção da franquia Velozes e Furiosos finca mais forte no elenco a presença de Vin Diesel, que tinha se ausentado até a reaparição no quarto filme, e agora redefine o núcleo de personagens junto com o casal principal, vivido pelos já rodados (desculpe o trocadilho) Brian O'Conner (Paul Walker) e Mia Toretto (Jordana Brewster), de uma forma, além de mais saudosista, familiar.

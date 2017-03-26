@@ -20,7 +20,6 @@ _ratio: "1.85 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMjIzNzAxNjY1Nl5BMl5BanBnXkFtZTgwMDg4ODQxMzE@._V1._SX94_SY140_.jpg"
 ---
-
 Um drama sobre como é ruim saber que todos nós um dia vamos sumir do planeta e nossas memórias, se ainda permanecerem com nossos entes queridos, também vão sumir. Por outro lado, é libertador, e sua última cena revela o quão poderoso é o tema. Julianne Moore faz a mulher que, ainda jovem, tem a doença de Alzheimer por herança genética. Seus esquecimentos graduais fazem parte de toda a estrutura do roteiro de Richard Glatzer e Wash Westmoreland, mas é a direção de ambos que consegue dar um tom para a performance admirável de Moore.
 
 Também com Alec Baldwin e infelizmente com Kristen Stewart.

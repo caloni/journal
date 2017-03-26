@@ -23,7 +23,6 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjI3MTQ3NzE5NV5BMl5BanBnXkFtZTgwMjgzOTMxOTE@._V1._SX95_SY140_.jpg"
 ---
-
 Este é o Antes do Amanhecer se Jesse e Céline fossem pessoas (ainda) mais engajadas com suas opiniões, estivessem ligeiramente mais velhos e mais acostumados com a vida real e os desafios de tentar mudar o mundo. Felizmente, há também diálogos interessantes de se acompanhar, e ele é ligeiramente mais dinâmico que o filme de Richar Linklater, com mais contexto, e uma conclusão.
 
 Desde o começo há uma certa solenidade em apresentar o futuro presidente e a futura primeira-dama do país em seu primeiro encontro. Vemos um Barack Obama jovem, mas já com seu sorriso confiante (mesmo com um carro caindo aos pedaços) e uma Michelle preocupada com diversos detalhes -- como não se envolver com colegas de trabalho -- para que sua carreira siga sua ascenção merecida. Aos poucos percebemos que estamos adentrando em um filme que preza pelo saudosismo ao mesmo tempo que se concentra em apresentar um casal imerso em suas carreiras e ao mesmo tempo interessados um no outro, obviamente no lado físico, mas aos poucos no mundo das ideias.

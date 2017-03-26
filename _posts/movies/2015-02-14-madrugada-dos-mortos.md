@@ -20,7 +20,6 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTI4OTU2NjY5OF5BMl5BanBnXkFtZTYwOTQ2Mzg3._V1._SX94_SY140_.jpg"
 ---
-
 Queria comparar algum filme de zumbis que não fosse de George Romero ou comédia (Zumbilândia, Meu Namorado é um Zumbi) e nem tão dramático/ação (World War Z), mas que carregasse aqueles símbolos do velho Cinema de Romero no melhor estilo A Noite dos Mortos-Vivos. E eis que finalmente vi esse Madrugada dos Mortos, de Zack Snyder (do interessante Sucker Punch, do sensacional Watchmen e do infelizmente medíocre Homem de Aço).
 
 Com uma fotografia saturada, cenas ágeis, suspense com trilha sonora e sons de arrepiar os ouvidos, o apocalipse zumbi de Snyder aproveita a mitologia e o universo de Romero e a própria atmosfera, o que não é nenhuma surpresa, pois se trata de um remake do filme dos anos 70. Curiosamente, tanto o shopping (Terra dos Mortos) quanto a ilha (A Ilha dos Mortos) foram reaproveitados por Romero em trabalhos posteriores.

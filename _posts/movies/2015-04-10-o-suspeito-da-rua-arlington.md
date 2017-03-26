@@ -20,7 +20,6 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTkzNTIyOTA3MV5BMl5BanBnXkFtZTYwNTU3NzY5._V1._SX94_SY140_.jpg"
 ---
-
 Esse é um filme morno que escapa da mediocridade em seus minutos finais, quando o seu final surpreendente te faz repensar toda a história, achar alguns furos (bem óbvios) e terminar ainda com um saldo positivo. "É, tem furos, foi um desenvolvimento medíocre, mas faz pensar em um bocado de coisas". Entre filmes que são ótimos de assistir e ótimos de esquecer e filmes que são razoáveis mas vão te deixar pensando por um bom tempo neles, prefira os últimos.
 
 O filme começa com uma criança esvaindo-se em sangue, quase desmaiando, bem no meio de uma pacífica rua de subúrbio norte-americano. Um dos vizinhos, ao chegar de carro, rapidamente socorre a criança e a leva ao hospital. Em desespero, a única coisa que importa para o professor Michael Faraday (Jeff Bridges) é que a criança consiga ser salva. Em contraparte, a única coisa que importa para a enfermeira que dá entrada no caso é saber o nome do garoto.

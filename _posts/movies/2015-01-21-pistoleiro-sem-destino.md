@@ -20,7 +20,6 @@ _ratio: "1.85 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTIwMTUxOTc3N15BMl5BanBnXkFtZTcwMzk4NDAwMQ@@._V1._SX99_SY140_.jpg"
 ---
-
 _Peter Fonda_ atuou em dezenas de filmes e dirigiu três. Homem sem destino é o primeiro deles, em que ele também atua. É um retrato honesto de um pedacinho do velho oeste, mas mostrado de maneira romantizada e uma inesquecível trilha sonora.
 
 A história é simples: três homens são amigos, pescam juntos. Um decide voltar para sua mulher depois de a ter abandonado por sete anos. Os outros dois decidem ir até a costa conhecer o mar. Acontecimentos inesperados, porém, levam dois desses homens para o lar de um deles. Sua ex-mulher aceita ambos como mão-de-obra, e uma vez abandonada, essa possibilidade assombra ambos.

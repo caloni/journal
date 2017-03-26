@@ -32,7 +32,7 @@ Já Quentin Tarantino, em seu oitavo filme -- como gosta de alardear nos crédit
 
 O elenco em geral já trabalhou com o diretor e se esforça em manter um clima western parte Sergio Leoneano, parte Tarantinesco. Os diálogos são espertos demais para serem reais, e há um clima investigativo em um momento que desfaz toda a atmosfera rústica daquelas pessoas vivendo uma época onde andar armado (e saber atirar) é mandatório.
 
-Mas não há nada na estética do filme que decepcione. Estamos assistindo a um filme autêntico de bang-bang, no melhor estilo super-produção e com uma fotografia (Robert Richardson) de fazer-nos parar por minutos apenas para apreciar a beleza das paisagens externas, além da competência com que a interna é retratada, sem perder-se em sombras.
+Mas não há nada na estética do filme que decepcione. Estamos assistindo a um filme autêntico de bang-bang, no melhor estilo superprodução e com uma fotografia (Robert Richardson) de fazer-nos parar por minutos apenas para apreciar a beleza das paisagens externas, além da competência com que a interna é retratada, sem perder-se em sombras.
 
 Aliás, a falta de "pecadilhos" em um filme dessa época acaba soando mais teatral do que devia. Claro que o clima Tarantinesco das mortes (especialmente por envenenamento) contribui para fugirmos daquele universo (e lembrarmos, mais uma vez, que este é um filme de Tarantino... oitavo, certo?), mas talvez a excessiva compaixão das pessoas envolvidas, e a forma com que conversam, torna as coisas estranhas.
 

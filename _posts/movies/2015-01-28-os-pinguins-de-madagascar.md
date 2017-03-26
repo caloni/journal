@@ -19,7 +19,6 @@ _ratio: "1.85 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTEyMDg4MDU4MjdeQTJeQWpwZ15BbWU4MDQyOTc3MjIx._V1._SX94_SY140_.jpg"
 ---
-
 Assim como __Carros 2__, jogar personagens secundários -- e engraçadinhos -- em um trabalho solo raramente gera bons resultados.
 
 No caso dos hilários pinguins e seus estratagemas elaborados que milagrosamente funcionam, eles possuíam ótimas participações nos dois primeiros __Madagascar__. Porém, eram participações curtas, pontuais e até orgânicas. Em _Pinguins de Madagascar_ eles são os mesmos, e não há história principal que sustente por tanto tempo as mesmas piadas.

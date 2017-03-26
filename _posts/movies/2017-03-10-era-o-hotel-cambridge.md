@@ -1,4 +1,5 @@
 ---
+cinemaqui: "http://www.cinemaqui.com.br/era-o-hotel-cambridge"
 category: "movies"
 title: "Era O Hotel Cambridge"
 imdb: "5067984"
@@ -22,5 +23,3 @@ _cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BZDY3OTk5MjUtOTBhZS
 _releasedate: "16 March 2017"
 ---
 Ei um filme que mistura ficção e realidade. Com um tom documental a diretora Eliane Caffé conta pequenas histórias em torno de um grupo de invasores do centro urbano da megalópole São Paulo, com suas faixas vermelhas penduradas nas fachadas de prédios que antes eram vivos, como este Hotel Cambridge. Agora é apenas uma de muitas peças de mobilização social que se unem em um microcosmos de indignação misturado com espírito de sobrevivência e cooperação. Porém, não é fácil viver defendendo uma causa para pessoas que muitas vezes não sabem o valor do que fazem.
-
-_Crítica completa na estreia do filme no [CinemAqui](http://www.cinemaqui.com.br/era-o-hotel-cambridge)._

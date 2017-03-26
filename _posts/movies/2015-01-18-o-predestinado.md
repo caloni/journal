@@ -20,7 +20,6 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTAzODc3NjU1NzNeQTJeQWpwZ15BbWU4MDk5NTQ4NTMx._V1._SX95_SY140_.jpg"
 ---
-
 Apesar de ser um fã incondicional de __Efeito Borboleta__, sei que o longa possui alguns defeitos indesculpáveis. Sua lógica interna, como todo instigante filme de viagem no tempo, não foi costurada tão bem a ponto do espectador não se preocupar muito com seus paradoxos, e embora sua maior virtude resida nas possibilidades múltiplas de seus personagens, não existe essa de licença poética no Cinema. Se sua narrativa não consegue ser coesa, suas pontas soltas irão te ferir por dentro.
 
 Já em _O Predestinado_ o objetivo parece ser exatamente o contrário: ele expõe tanto a vida do policial vivido por __Ethan Hawke__ quanto seus paradoxos. Ele dedica boa parte do seu tempo esmiuçando a curiosa história de vida da personagem vivida por __Sarah Snook__ sem pressa em uma conversa que lembra muito as divagações despropositadas de __Um Beijo Roubado__, o que é lindo, ingênuo e delicado. Seu _flashback_ ocupa tanto tempo que começamos a duvidar deste ser um filme _sci-fi_, e nos esquecemos que nenhum _sci-fi_ que se preste é apenas sobre ficção científica, mas principalmente uma metáfora para os dramas da vida. Quem somos nós? Quem sou eu? Se existe destino, como ele é?

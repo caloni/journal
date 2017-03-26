@@ -20,7 +20,6 @@ _ratio: "1.66 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTc4MzE4MzYxMV5BMl5BanBnXkFtZTYwMzUxMzk4._V1._SX85_SY140_.jpg"
 ---
-
 Uma comédia romântica francesa datada de 70 e conduzida por François Truffaut. Nesse caso temos um casal vivendo sua vida em um condomínio de casas que mais lembra, nos minutos iniciais, um bom cortiço brasileiro. Mas aos poucos os detalhes culturais vão ganhando forma, não prejudicando a mensagem principal, que é contar a história de um casal como outro qualquer que passa por suas felicidades e tristezas juntos, até mesmo quando não estão.
 
 A atuação do casal principal, Antoine (Jean-Pierre Léaud) e Christine (Claude Jade), é muito importante para a conexão com o público, e temos momentos em que nos vemos completamente sintonizados com aquela realidade, como quando ele a acompanha até o táxi tentando beijá-la e, no final, ela que pede o beijo.

@@ -20,7 +20,6 @@ _ratio: "1.85 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTQzMjU3NjY0Nl5BMl5BanBnXkFtZTgwMTQ1NDM5MDE@._V1._SX94_SY140_.jpg"
 ---
-
 Woody Allen está de volta nas telonas, mas não como diretor. Aqui ele faz o papel de um cafetão que começa a agenciar seu ex-funcionário após o fechamento de sua loja de livros raros. Na verdade, depois de tantos anos, ele é mais do que ex-funcionário: é família. Isso aparentemente não interfere nos interesses comerciais do personagem de Allen, e aí está a primeira piada judia do filme.
 
 Ops, esqueci de dizer. Esse é um filme que gira em torno também, ou principalmente, dos judeus. Allen faz seu próprio papel (de judeu não-praticante), e uma das mulheres que John Turturro agrada  o "garoto de programa" e diretor do filme  é justamente uma judia viúva e solitária. Há também uma relação vista de longe entre Allen e uma senhora negra e seus filhos pequenos  aparentemente sua família , mas isso nunca de fato faz parte da história, exceto os piolhos de um de seus "filhos".

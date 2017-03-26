@@ -21,7 +21,6 @@ _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMjMwOTYyNDY4NV5BMl5BanBnXkFtZTcwNDI1ODk0Ng@@._V1._SX94_SY140_.jpg"
 ---
 
-
 É fascinante acompanhar a carreira de um diretor habilidoso como Almodóvar. Ele possui aquela flexibilidade rara que permite que entre em qualquer projeto mantendo a sua marca, mas ao mesmo tempo contribuindo positivamente para a narrativa, sem torná-la autoral. Ou pelo menos tenta.
 
 Nesse terror moderno, que lembra um Frankenstein feito ao estilo do diretor espanhol, um brilhante cirurgião plástico, Robert Ledgard (Banderas, sisudo e constante), atormentado por sombras do seu passado em que perdeu a mulher e filha, desenvolve em suas pesquisas uma pele sintética capaz de resistir a qualquer tipo de dano, como queimaduras graves. Usando uma mulher desconhecida que se hospeda na privacidade de sua casa como cobaia, o vemos desenvolvendo seu projeto com toda a dedicação e frieza que convém a um cientista.

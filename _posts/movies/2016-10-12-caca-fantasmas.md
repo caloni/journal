@@ -23,7 +23,6 @@ _ratio: "1.43 : 1"
 _kind: "movie"
 _cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg3OTM4NTM4NV5BMl5BanBnXkFtZTgwOTI3NDc0OTE@._V1._SX94_SY140_.jpg"
 ---
-
 Os caça-fantasmas continua sendo uma ótima ideia em seu remake, protagonizado agora pelas meninas. Elas são espontâneas e fazem funcionar muitas das cenas do roteiro capenga escrita a várias mãos, com diálogos e piadas engraçadinhas. Os efeitos visuais atraem, mas não tanto quanto o conceito. E esse... continua tão novo como se tivesse sido lançado esse ano.
 
 Porém, não é à toa que o elenco funciona. Kristen Wiig (Missão Madrinha de Casamento) e Melissa McCarthy são duas revelações na comédia dessa década. Além disso, Kate McKinnon faz a versão nerd dos caça-fantasmas com muito estilo e desembaraço. E fechando o quarteto, Leslie Jones é espirituosa e nova-iorquina o suficiente para nos fazer sentir em casa novamente com a franquia. (Fechando o elenco há também um Chris Hemsworth que faz o papel do recepcionista burro e disfarça sua persona galã, deixando só seu lado burro, mesmo; um outro achado.)

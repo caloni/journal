@@ -23,7 +23,6 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTE0MTE3MzI4ODFeQTJeQWpwZ15BbWU4MDI1MDI0ODkx._V1._SX94_SY140_.jpg"
 ---
-
 The Disappointments Room é um terror que se aproveita dos clichês já consagrados nesta década -- família em trauma se muda para casa no campo onde algo terrível aconteceu -- para fazer Cinema inteligente, abordando questões como feminismo e o terror dentro de nós mesmos. E, como já comprovou o excelente Babadook, existe pior terror do que o que guardamos em nossos corações?
 
 O filme acompanha a forte e independente Dana (Kate Beckinsale), seu marido David (Mel Raido) e o pequeno Lucas (Duncan Joiner) em mudança para uma casa no campo, do lado de uma cidadezinha que mantém suas criaturas grotescas no estereótipo. Porém, são estereótipos que causam um desconforto no limite certo. A risada imperfeita da quitandeira fofoqueira, os lábios finos da velhinha baixinha do antiquário, o luxurioso rapaz conserta-tudo da cidade. Eles estão fugindo dos fantasmas do passado para tentar começar vida nova. Há uma morte na família: uma filha que não chegou a completar um ano de idade.

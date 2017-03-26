@@ -20,7 +20,6 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMjEzMzEzNjg0N15BMl5BanBnXkFtZTcwMzg4NDk0Ng@@._V1._SX94_SY140_.jpg"
 ---
-
 Esse é aquele tipinho de filme que tem o espírito Disney e Spielberg ao mesmo tempo  tanto que é produzido por ambos  mas felizmente consegue lançar uma nova e empolgante luz para uma história já batida. Conduzido pelo diretor/produtor Shawn Levy e escrito por John Gatins (O Voo e... arght! Norbit), ambos estão claramente "inspirados" pelo coração de Mickey Mouse e o dedo de E.T.: a história une pai e filho, até então completos desconhecidos, em torno da luta de robôs de aço gigantes, uma mania que se tornou a regra após a decadência do boxe e das lutas de UFC por conta da sede cada vez maior do público por destruição total.
 
 E destruição total é o que bem define Charlie Kenton (Hugh Jackman, ótimo), que parece destruir todas as oportunidades de se reerguer de apostas cada vez mais arriscadas e que sempre dão errado. Até a chegada da notícia do falecimento de sua ex-esposa e o ressurgimento de Max Kenton (Dakota Goyo, excelente), seu filho quase-bastardo. Evitando a todo o custo sua aproximação, Charlie chega a trocar a guarda do filho por dinheiro de seu cunhado rico, uma vez que sua tia deseja adotar o garoto. Porém, um mês de férias com o menino é o suficiente para que ele perceba que talvez tenha a chance definitiva de fazer uma única coisa certa em sua vida.

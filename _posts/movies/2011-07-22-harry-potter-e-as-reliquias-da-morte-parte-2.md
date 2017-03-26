@@ -20,7 +20,6 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTY2MTk3MDQ1N15BMl5BanBnXkFtZTcwMzI4NzA2NQ@@._V1._SX94_SY140_.jpg"
 ---
-
 Prólogo
 Um filme que carrega o peso de uma saga que dura quase dez anos merece um final, no mínimo, apropriado. Felizmente, nas mãos do visualmente habilidoso David Yates, essa premissa é cumprida com louvor.
 

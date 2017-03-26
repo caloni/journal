@@ -19,7 +19,6 @@ _ratio: "1.37 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTU0MTA2OTIwNF5BMl5BanBnXkFtZTcwMzA0Njk3OA@@._V1._SX100_SY135_.jpg"
 ---
-
 Não dá para assistir a __O Mágico de Oz__ e automaticamente não relacionar com __Alice no País das Maravilhas__ já que a estrutura e muito provavelmente a ideia veio justamente do romance de __Lewis Carroll__. No entanto, ao relacionarmos também com o momento histórico dos EUA temos uma visão muito mais interessante. Uma crise financeira devastou o país por uma década e o filme estreia semanas antes da Segunda Grande Guerra oficialmente começar. Virou o símbolo de uma geração (além de ter uma belíssima música). Quando as pessoas perdem a esperança, é função do Cinema fazê-las as distrair com histórias fantasiosas, super-heróis impossíveis e viagens no espaço.
 
 Uma das ideias mais interessantes do longa é utilizar a cor sépia para o mundo real onde a garota Dorothy (__Judy Garland__) mora, uma fazenda no Kansas, e o filme em cores para o mundo de Oz. Não apenas o filme em cores: foi utilizado o technicolor, uma tecnologia conhecida pela sua saturação de cores. Sabendo disso o filme ganha um outro aspecto, principalmente porque a sua chegada ao mundo de Oz é um oceano de cores pela festa que os moradores fazem por ela ter matado uma bruxa má durante a queda. Outro detalhe interessante da produção é que praticamente todos os fundos são pintados, uma forma barata de conseguir criar ambientes complexos e fantasiosos em estúdio.

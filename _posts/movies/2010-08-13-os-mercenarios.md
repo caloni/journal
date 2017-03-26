@@ -20,7 +20,6 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BNTUwODQyNjM0NF5BMl5BanBnXkFtZTcwNDMwMTU1Mw@@._V1._SX94_SY140_.jpg"
 ---
-
 Usando uma steady cam e iniciando no tom de documentário, __Os Mercenários__ traz uma gangue de atores milionários que, em seus devidos personagens unidimensionais, fazem operações de guerra por uns trocados.  A primeira cena, aliás, resume bem o que teremos no resto das cenas de ação: muito sangue. Tanto sangue que, no início, vemos o resto da matança através de uma lente de visão noturno, para não afastar de imediato o espectador que ainda verá muitas cabeças explodindo e corpos rolando.
 
 Pior do que sua violência é sua desonestidade no melhor estilo caça-níqueis, pois traz em seu elenco figuras como __Bruce Willis__ e __Schwazenegger__ apenas como bonequinhas de luxo (que, aliás, até serve para uma piada datada "ele quer ser presidente"). __Os Mercenários__ nunca soa realista ou interessante, saindo empolgante em alguns poucos momentos, como a escapada de avião na primeira visita à ilha, onde a explosão final ganha o impacto que merece, ou quando dois capangas da mesma gangue acabam lutando entre si.

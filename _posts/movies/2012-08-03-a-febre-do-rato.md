@@ -18,7 +18,6 @@ _runtimes: ["110", ]
 _ratio: "1.78 : 1"
 _kind: "movie"
 ---
-
 Acredito que a maior virtude do filme de Cláudio Assis é conseguir, a despeito das cenas chocantes de cunho sexual, criar uma atmosfera tão natural para o desenvolvimento de seus personagens que é quase como se estivéssemos assistindo à própria vida real. Claro, em uma versão embalada no formato dos filmes revolucionários das décadas de 60 e 70 no Brasil, e que nunca viriam a público em sessões abertas. A vantagem de uma democracia é que podemos, hoje, entender a bandeira que esses filmes tentaram levantar no passado.
 
 Para essa imersão foi vital a decisão de rodar a experiência em P&B e com uma granularidade que dá a impressão de ser um trabalho caseiro e amador (como se isso fosse possível com a competência do veterano Walter Carvalho dirigindo a fotografia). Essa impressão, contudo, não passa despercebido do cinéfilo atento, que vai poder concluir através dos inúmeros enquadramentos milimetricamente caculados, as brincadeiras significativas com plongeé e contra-plongeé -- ao mostrar boa parte das cenas com seus personagens sob o ponto de vista do teto, para em momentos-chave os colocar acima do mundo -- e, finalmente, com os plano-sequências sutis, documentais e extremamente eficientes para mostrar a interação do grupo de amigos nos momentos compartilhados, que o filme pode ser tosco, mas é de um tosco lírico, poético, quase surreal.

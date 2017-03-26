@@ -20,5 +20,4 @@ _ratio: "1.85 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BNDU2MjE4MTcwNl5BMl5BanBnXkFtZTgwNDExOTMxMDE@._V1._SX94_SY140_.jpg"
 ---
-
 "Apertem os Cintos..." estreia a década de 80 já virando um dos representantes máximos da comédia da época: a paródia. Como toda comédia, conta uma história simples: um ex-piloto de caça traumatizado que se torna a única esperança de evitar a queda de um avião comercial, mas que para isso precisa vencer os fantasmas do passado e assim reconquistar a garota que ama. E, mesmo assim, não há maneira mais absurda de contar essa história recheada de metalinguagem e trocadilhos, acompanhada de uma trilha sonora tão bem executada por Elmer Bernstein (Cabo do Medo) que praticamente narra as piadas conforme vão acontecendo. E são muitas. Todas ótimas. Algumas são simples gags entre-cenas. Outras geram sequências memoráveis, como a aeromoça ajudando a "ressucitar" o piloto-automático e a fila de passageiros disposta a colocar a cabeça de uma mulher no lugar.

@@ -19,7 +19,6 @@ _ratio: "1.33 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTUwMjQxODA2M15BMl5BanBnXkFtZTgwMzk4NzM2MzE@._V1._SX95_SY140_.jpg"
 ---
-
 Esse filme, assim como Os Irmãos Cara-de-Pau, tem um ritmo que cozinha em fogo lento até uma sequência absurda e frenética (até para a época) envolvendo um acontecimento que muda todo o rumo da história. É difícil saber como toda ela foi criada: Buster Keaton é um especialista em trucagens cinematográficas, como já visto em Sherlock Jr. Porém, é impossível ficar impassível a tantos truques que além de impressionantes continuam colaborando com a narrativa.
 
 A história se passa em New Orleans em cenário e figurino que hoje também serve como um documentário da época. Keaton é filho do dono de um navio antigo que corre o risco de ser desativado pelo seu mais novo concorrente. A rivalidade entre eles chega até seus filhos, e o ódio ao diferente é uma forma de crítica social, ainda que rasteira.

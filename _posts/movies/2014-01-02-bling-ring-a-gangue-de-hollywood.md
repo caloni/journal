@@ -20,7 +20,6 @@ _ratio: "1.85 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTQzMTgwMzQxN15BMl5BanBnXkFtZTcwOTcwNTY0OQ@@._V1._SX94_SY140_.jpg"
 ---
-
 O mundo é materialista e não há nada de errado nisso. Somos feitos de matéria e a matéria circula por nossos poros. Não há nada mais que matéria, ainda que esforços descomunais da mente tentem imaginar algo mágico saindo por detrás de nossas cabeças. Entre esses esforços, a tal da "fama".
 
 Bling Ring, de Sofia Coppola, além de continuar a série de temas sobre a vida da própria diretora (Encontros e Desencontros, Um Lugar Qualquer), tão habituada ao mundo Hollywoodiano, consegue construir a fascinação por status em torno de um grupo de jovens que, acostumados a uma vida de luxo, mantém uma rotina de invadir casas de celebridades para possuir parte de seus bens como forma de viver suas vidas.

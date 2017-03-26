@@ -18,7 +18,6 @@ _fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMzg2NjE5OTQwNl
 _kind: "movie"
 _cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMzg2NjE5OTQwNl5BMl5BanBnXkFtZTgwNjYwNDk2NTE@._V1._SX94_SY140_.jpg"
 ---
-
 Este documentário conta a história de vários irmãos que não podiam sair de casa durante a infância e alimentam sua visão do mundo através dos filmes. É interessante em alguns momentos, principalmente o seu começo, mas aos poucos ele parte para um estilo "casos de família" que apenas estende sua narrativa para virar um filme.
 
 E, convenhamos, o tema sobre viver enfurnado em um apartamento boa parte da vida, assim como a alienação que vivemos hoje em dia, seriam ótimos combustíveis para a documentarista Crystal Moselle, que se limita a ser conduzida pelos meninos do filme.

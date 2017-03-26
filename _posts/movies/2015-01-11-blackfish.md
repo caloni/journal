@@ -20,7 +20,6 @@ _ratio: "1.78 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BNTkyNTkwMzkxMl5BMl5BanBnXkFtZTcwMzAwOTE2OQ@@._V1._SX94_SY140_.jpg"
 ---
-
 Blackfish expõe como nunca a ignorância humana aliada à sua arrogância em se achar superior a qualquer outra espécie animal com quem compartilhamos o planeta. Porém, melhor do que isso, entrega um dossiê rico em imagens e depoimentos que fluem dinamicamente em torno da história do parque de entretenimento Sea World, relatando diferentes mortes de treinadores por quatro décadas até o fatídico assassinato anunciado da carismática treinadora Dawn Brancheau pela baleia Tilikum.
 
 A importância do documentário ganha peso ao entendermos que os depoimentos são de ex-funcionários, em sua maioria treinadores das baleias mantidas em cativeiro. Também ajuda entender que o único propósito desses animais é sua exibição de truques em shows aquáticos (aqueles em que as pessoas saem todas molhadas). Os anúncios do parque, quando mostrados a cada nova passagem do tempo, se tornam propaganda de um show de horrores não visto por ninguém, ignorado pelo seu grande público. Trazer isso (com o perdão do trocadilho) à tona é a grande virtude de __Blackfish__ (o nome do filme diz respeito a como os pescadores chamavam as baleias assassinas que se aproximavam da costa).
