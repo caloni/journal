@@ -20,7 +20,7 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTMwNDg0NzcyMV5BMl5BanBnXkFtZTcwNjg4MjQyMw@@._V1._SX95_SY140_.jpg"
 ---
-Inspirado pelo post recente do DQ (http://dqsoft.blogspot.com.br/), um programador como eu, mas que gosta de se aventurar em outras áreas (como eu), resolvi publicar minhas impressões sobre esse filme de 2010, que assisti no cinema com o meu antigo caderno de anotações (hoje aposentado até segunda ordem). Minha ideia era apenas praticar minha sensibilidade sobre a sétima arte, mas aos poucos estou organizando os textos da época.
+Inspirado pelo post recente do Daniel Quadros, um programador como eu, mas que gosta de se aventurar em outras áreas (como eu), resolvi publicar minhas impressões sobre esse filme de 2010, que assisti no cinema com o meu antigo caderno de anotações (hoje aposentado até segunda ordem). Minha ideia era apenas praticar minha sensibilidade sobre a sétima arte, mas aos poucos estou organizando os textos da época.
 
 Ainda que Jordan Mechner, criador do jogo, estivesse até certo ponto envolvido com o roteiro cinematográfico, é preciso inocentá-lo do formato bobo e previsível da história assinada por ninguém menos que três roteiristas, dois deles envolvidos em pequenos projetos da Disney, como Aprendiz de Feiticeiro e produções para TV. A despreocupação dos produtores em escolher seus roteiristas, aliás, é inversamente proporcional aos seus objetivos, que com esse subtítulo sugerem que, assim como ocorreu com Piratas do Caribe e As Crônicas de Nárnia, há a possibilidade de continuações.
 

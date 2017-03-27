@@ -20,7 +20,9 @@ _ratio: "1.66 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BNDg3MDM5NTI0MF5BMl5BanBnXkFtZTcwNDY0NDk0NA@@._V1._SX93_SY140_.jpg"
 ---
-Talvez eu seja vítima da regra dos 15 anos http://jovemnerd.ig.com.br/nerdcast/nerdcast-262-regra-dos-15-anos-filmes/, mas Ben e Sera foram dois dos personagens mais queridos da minha juventude de cinéfilo. Adorava a entrega completa de Nicholas Cage e de Elizabech Shue em seus papéis que ainda considero os melhores de ambos, em um filme deprimente do começo ao fim. Essa minha revisita continua a confirmar o fato de que, se Cage costuma ser criticado por overacting, aqui praticamente esquecemos que existe algum ator por trás do divertido, patético e trágico Ben Sanderson.
+Talvez eu seja vítima da regra dos 15 anos -- a que reza que qualquer filme visto antes dos 15 anos continua em nossa memória como bom -- mas Ben e Sera foram dois dos personagens mais queridos da minha juventude de cinéfilo. Adorava a entrega completa de Nicholas Cage e de Elizabech Shue em seus papéis que ainda considero os melhores de ambos, em um filme deprimente do começo ao fim. Essa minha revisita continua a confirmar o fato de que, se Cage costuma ser criticado por overacting, aqui praticamente esquecemos que existe algum ator por trás do divertido, patético e trágico Ben Sanderson.
+
+Mas, agora, lembrando, vejo que talvez não tivesse sido uma boa ideia ver um filme desses antes dos 15 anos.
 
 A história não poderia ser mais simples: Ben (Cage) é um roteirista que, vítima da bebida, se torna um alcoólatra inveterado e acaba perdendo o emprego. Decide então, largar tudo e se embebedar em Las Vegas até a morte. O passado de Ben é mencionado brevemente através de uma foto com mulher e filho, foto essa que queima em uma pilha de pertences que ele deixa para trás rumo ao seu suicídio etílico. Tudo o que temos é a impressão do próprio Ben: que em algum momento desconhecido de seu passado ele tinha uma vida feliz e normal.
 

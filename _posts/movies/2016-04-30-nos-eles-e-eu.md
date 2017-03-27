@@ -29,7 +29,7 @@ Esse também é uma ode à ignorância, ou como viver em uma realidade opressiva
 
 O caso é que todos possuem uma opinião a respeito, e todos se abrem mais cedo ou mais tarde. A função do diretor aqui é se fingir de isento, mas paulatinamente tecer sua visão pacifista pró-Israel, mas nunca tendenciosa. Se algum crítico apontar isso, obviamente estará errado. Assim como nunca houve um nazista entre a população alemã.
 
-(Pronto, já cumpri a [lei de Godwin](https://pt.wikipedia.org/wiki/Lei_de_Godwin), necessária nessa discussão. Podemos prosseguir em paz, antes que os judeus se transformem em baratas e fujam por debaixo da porta.)
+(Pronto, já cumpri a lei de Godwin, necessária nessa discussão. Podemos prosseguir em paz, antes que os judeus se transformem em baratas e fujam por debaixo da porta.)
 
 O filme foi editado em um trabalho magnânimo de pinceladas dos vídeos do diretor em sua viagem quando jovem. Demorou quinze anos para ser feito, mas merece todos os créditos por inserir uma discussão equilibrada sobre o assunto, e usar pessoas comuns para essa tarefa. Ao final, você terá simpatizado com uma ou duas pessoas (no máximo) e lamentado a falta de visão de todo o resto. De uma forma ou de outra, eles estão lá, nós estamos aqui. E daí o título. É uma provocação deliciosa sentir que não fazemos parte dessa discussão que gera dor  e sofrimento para milhares de pessoas todos os dias. E elas possuem falta de visão.
 

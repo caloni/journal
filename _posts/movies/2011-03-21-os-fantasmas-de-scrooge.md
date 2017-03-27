@@ -20,7 +20,7 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTM1MTI5ODU4MV5BMl5BanBnXkFtZTcwNTYyNTU4Mg@@._V1._SX95_SY140_.jpg"
 ---
-Jim Carrey em Motion Capture http://pt.wikipedia.org/wiki/Captura_de_movimento é, em poucas palavras, inusitadamente fabuloso. O trabalho feito em seu personagem, protagonista do clássico conto de Charles Dickenshttp://pt.wikipedia.org/wiki/A_Christmas_Carol , que se mantém homônimo no título original, é, de longe, um trabalho rebuscado tanto nas expressões quanto nos movimentos do boneco através dos cenários igualmente trabalhados à exaustão.
+Jim Carrey em Motion Capture é, em poucas palavras, inusitadamente fabuloso. O trabalho feito em seu personagem, protagonista do clássico conto de Charles Dickens, que se mantém homônimo no título original, é, de longe, um trabalho rebuscado tanto nas expressões quanto nos movimentos do boneco através dos cenários igualmente trabalhados à exaustão.
 
 Portanto, é uma pena que o aspecto estético desse tipo de filme ainda peque pela estranheza que gera ao vermos figuras humanas não exatamente reais, e tão pouco virtuais. E apesar de ter havido uma evolução considerável desde o último trabalho utilizando essa técnica (O Expresso Polar), em nada se compara ao uso legítimo e otimizado em Avatar, facilitado por usar criaturas da imaginação.
 

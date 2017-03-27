@@ -37,6 +37,3 @@ O fato é que os dois são um poço de contradição. Talvez isso explique, no c
 Bom, confuso do jeito que é, dificilmente a história poderia ficar menos dispersa. Porém, não contavam com grupos distintos de vampiros que costumam sugar o sangue humano, diferente dos Cullen, que aprenderam a se alimentar apenas do sangue de animais (se consideram "vegetarianos" à moda deles). Esses grupos são rivais por um motivo qualquer, da mesma forma com que são os vampiros e os lobos, que são citados apenas au passant.
 
 Pois é, fascinante, não? Não posso perder o resto dessa saga e entender finalmente o que deu na cabeça de Bella para se meter nessa história. Se bem que já imagino: uma garota que mexe os lábios como um tique nervoso e que parece achar isso sensual de fato não mereceria um destino melhor do que se apaixonar por um psicopata.
-
-Mapa de Forks: http://goo.gl/maps/scYg
-
