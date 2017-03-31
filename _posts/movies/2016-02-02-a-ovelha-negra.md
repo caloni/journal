@@ -23,7 +23,7 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BNDc5MjI4MjQwNV5BMl5BanBnXkFtZTgwODE4MDE2NTE@._V1._SX100_SY42_.jpg"
 ---
-Esse filme cria uma dualidade bem curiosa entre ovelhas e criadores de ovelhas. Vivendo em um vilarejo minúsculo, onde mulher não é algo fácil de se achar, a história dos dois  irmãos que são vizinhos e não se falam por quarenta anos evoca a questão de que ovelhas estamos falando, e qual delas é negra.
+Esse filme cria uma dualidade bem curiosa entre ovelhas e criadores de ovelhas. Vivendo em um vilarejo minúsculo, onde mulher não é algo fácil de se achar, a história dos dois irmãos que são vizinhos e não se falam por quarenta anos evoca a questão de que ovelhas estamos falando, e qual delas é negra.
 
 Tendo aparentemente a criação de ovelhas não só um meio de subsistência, mas orgulho, há um campeonato entre os fazendeiros para descobrir qual a melhor criação. O irmão mais novo da história, Gummi (Sigurður Sigurjónsson), cuida de suas ovelhas premiadas como parte da família que não possui, se orgulhando de uma maneira engraçada até quando o macho-alfa procria com suas fêmeas (o que pode ser um eco de uma homossexualidade velada no filme, mas chegaremos lá).
 

@@ -20,7 +20,6 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMjIwMDg3NDIzMl5BMl5BanBnXkFtZTcwNzEzMTg3OA@@._V1._SX99_SY140_.jpg"
 ---
-
 Na primeira cena do filme, vemos um gato comendo um filhote que põe o ninho muito baixo. Logo depois, um menino tenta esconder o gato. Na visão de seu pai, o gato é o judeu do mundo animal, e deve ser eliminado sem dó.
 
 O Cinema Alemão mais uma vez bebe dessa fonte inesgotável de ideias que foi o grande trauma da sociedade do século XX: o genocídio do povo judeu através de uma ideologia fanática que tentou restaurar a economia da Alemanha na pós-Primeira Grande Guerra. Perdidos estavam os dessa geração, mas mais ainda ficaram os filhos do Terceiro Reich, um evento devastador para o mundo, e mais ainda para o povo alemão, que teve que conviver com a culpa eterna de seus imperdoáveis atos. Sim, pois, depois de subjugados pelo mundo, quais ideias floresceriam das mentes de promissores escritores que viram pilhas de livros de filosofia sendo queimados aos montes, ou que tiveram seus pais participantes desse processo fanático que levou seu povo ao precipício moral? 

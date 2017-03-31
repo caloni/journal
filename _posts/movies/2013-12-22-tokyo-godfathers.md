@@ -20,8 +20,6 @@ _ratio: "1.85 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTU2Njk1NzQ4M15BMl5BanBnXkFtZTcwMDA2OTQyMQ@@._V1._SX94_SY140_.jpg"
 ---
-
-
 Essa animação natalina japonesa segue os mesmos moldes do ótimo Paprika, também dirigido e escrito por Satoshi Kon e co-dirigido por Shôgo Furuya, que já havia trabalhado como animador em A Viagem de Chihiro (2001). Quando digo os mesmos moldes me refiro à caracterização exagerada e satirizada da realidade que cerca os personagens. As expressões de rosto absurdas, tão comuns no animê, aqui funcionam em parte pelo seu humor e não funcionam em parte pela sua dramatização exagerada.
 
 A história gira em torno de uma criança encontrada no lixo por três moradores de rua, sendo que os três também foram abandonados pelos seus pais. Formam uma família torta, onde o "pai" é um vagabundo irresponsável e a mãe é um gay. Nas ruas de Tóquio pode-se esperar de tudo, menos compaixão. Essa família, no entanto, se une em torno de seu passado aparentemente semelhante de abandono.

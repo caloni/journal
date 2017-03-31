@@ -25,4 +25,4 @@ Ressaltando com exatidão os dilemas morais do sujeito, e universalizando essa d
 
 No entanto, uma vez que a atmosfera é estabelecida, não temos mais nenhum avanço significativo na história. Entendemos a tensão acumulada em Chris e todos os seus assassinatos, mas não é preciso muito tempo de tela para entendermos isso. Até na primeira cena, que corta para o futuro, onde agora pai treina seu filho que atira em um veado.
 
-Sem altos e baixos, mas sem igualmente pontos altos, Sniper Americano é  um filme OK, que conta uma história OK e que termina abruptamente, cortando sua narrativa em prol da história baseada em fatos reais, nunca uma notícia muito boa.
+Sem altos e baixos, mas sem igualmente pontos altos, Sniper Americano é um filme OK, que conta uma história OK e que termina abruptamente, cortando sua narrativa em prol da história baseada em fatos reais, nunca uma notícia muito boa.

@@ -34,7 +34,7 @@ A câmera, sempre esguia e disposta a empregar enquadramentos tortos e movimento
 
 Se tornando levemente mais apelativo nos momentos finais, Evil Dead prova sua força ao conduzir-nos em um pós-clímax de maneira incrivelmente eficiente, ainda que para isso force a ação dentro dos lugares mais inusitados possíveis e sob uma forte e inusitada chuva. No entanto, isso é o que torna a experiência fantasiosa mais incrivelmente sedutora. E, caso ainda sobre um sentimento de trapaça, é bom lembrar que se existisse um demônio, seria ingênuo demais pensar que ele seguiria alguma regra.
 
-O filme diverte e é trágico. Diverte pelas sequências absurdas, mas que prendem a atenção. É trágico se pensarmos  que essas pessoas estão fazendo o que podem. Não são estúpidas como na maioria dos filmes, e seu pecado menor do grupo talvez seja o ceticismo generalizado, e nem isso é indesculpável (poderia ser explicado pela razão até determinado momento chave onde as coisas fogem completamente do controle).
+O filme diverte e é trágico. Diverte pelas sequências absurdas, mas que prendem a atenção. É trágico se pensarmos que essas pessoas estão fazendo o que podem. Não são estúpidas como na maioria dos filmes, e seu pecado menor do grupo talvez seja o ceticismo generalizado, e nem isso é indesculpável (poderia ser explicado pela razão até determinado momento chave onde as coisas fogem completamente do controle).
 
 Talvez seja uma ilusão essa de controle. Ele pode muito bem não existir nunca. Apenas vamos nos tocamos disso aos poucos, dolorosa e lentamente.
 

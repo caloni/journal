@@ -24,7 +24,7 @@ Assisti depois de muito tempo ter sido uma febre entre as pessoas. As frases que
 
 A história conta sobre o Batalhão de Operações Especiais da polícia do Rio de Janeiro, uma cidade em eterna guerra com os traficantes. Melhor que isso, a história aborda vários esquemas de corrupção e o funcionamento do treinamento dos policiais que integram o BOPE.
 
-Sempre com uma câmera nas mãos, pela urgência da história e pelo relismo das cenas, a ação nunca deixa de ser bem contada, com uma fluidez até mesmo nas cenas de mais movimentos.
+Sempre com uma câmera nas mãos, pela urgência da história e pelo realismo das cenas, a ação nunca deixa de ser bem contada, com uma fluidez até mesmo nas cenas de mais movimentos.
 
 Ainda com respeito aos enquadramentos, sou capaz de citar o Raccord do treinamento da tropa para uma das operações nos morros seguido de um plano-sequência que levanta nossa visão para aquele que parece mais uma praça de guerra como um dos grandes momentos em que podemos notar a competência da direção nos pequenos detalhes.
 

@@ -23,18 +23,7 @@ Segundo trabalho de Quentin Tarantino (Cães de Aluguel, Kill Bill), Pulp Fictio
 
 Mas qual é o significado de Pulp Fiction? Ora, o próprio Tarantino explica no início, colocando a descrição literal do dicionário American Heritage após acompanharmos um diálogo de um casal que decide assaltar o restaurante onde estão tomando café-da-manhã:
 
-PULP [pulp] n. (POLPA)
-
-               1. A soft, moist, shapeless mass or matter.
-
-               2. A magazine or book containing lurid subject matter and 
-               being characteristically printed on rough, unfinished paper.
-
-               (Tradução: 
-               1. Uma massa ou matéria suave, úmida e disforme.
-
-               2. Uma revista ou livro contendo assunto escabroso e 
-               sendo caracteristicamente impresso em papel áspero, inacabado.) 
+"A soft, moist, shapeless mass or matter. A magazine or book containing lurid subject matter and being characteristically printed on rough, unfinished paper." Tradução: Uma massa ou matéria suave, úmida e disforme. Uma revista ou livro contendo assunto escabroso e sendo caracteristicamente impresso em papel áspero, inacabado.
 
 Note como o significado que procuramos está na segunda posição do dicionário, justamente o que nos remete diretamente ao estilo "Lado B" da produção, que não possui um plot grandioso, mas que ao mesmo tempo consegue imprimir qualidade em cada um dos seus enquadramentos através da estilização ao máximo de sua ideia de extravasar os acontecimentos "escabrosos" que ocorrem na tela.
 

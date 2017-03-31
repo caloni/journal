@@ -20,7 +20,6 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMzU3NjM1MTk5NF5BMl5BanBnXkFtZTcwNDI4NDQ4NQ@@._V1._SX91_SY140_.jpg"
 ---
-
 Apenas o fato da direção de arte de Assalto em Dose Dupla tentar fazer lembrar os detalhes do banco de Um Dia de Cão chega a parecer uma ofensa, pois enquanto o clássico de Sidney Lumet tenta fazer rir através do inusitado em um assalto, mas sempre se lembrando que todos os envolvidos são seres humanos, o roteiro de Jon Lucas e Scott Moore (ambos de Se Beber Não Case) cria constrangimentos a partir de estereótipos que cria, como se apenas isso fosse motivo de risadas, o que de fato se comprova, pois a maioria das piadas se limita a apenas isso.
 
 Aproveitando-se da coincidência de duas gangues assaltarem o mesmo banco no mesmo dia, o filme tenta criar humor a partir da situação que os bandidos terão que lidar para conseguir ambos efetuar seus planos com sucesso, além de lidar com seus reféns problemáticos sendo que um deles (Patrick Dempsey) tem graves problemas de concentração.

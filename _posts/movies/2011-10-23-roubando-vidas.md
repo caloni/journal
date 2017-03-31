@@ -20,7 +20,6 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTA3NDMyNzI5NTdeQTJeQWpwZ15BbWU3MDQxNDEyMzM@._V1._SX95_SY140_.jpg"
 ---
-
 Esse é mais um thriller policial que envolve uma dupla de elementos que vem se tornando frequente: histórias previsíveis e Angelina Jolie. Nesse caso, Jolie é uma agente do FBI que precisa capturar um serial killer que rouba a identidade de suas vítimas.
 
 A trama principal, por se revelar boba e previsível desde seu início, se torna enfadonha, pois já sabemos seu desenrolar, o que se torna simples uma vez que o filme joga com todas as cartas marcadas, chegando a aplicar o velho clichê dos gêmeos de temperamentos diversos.

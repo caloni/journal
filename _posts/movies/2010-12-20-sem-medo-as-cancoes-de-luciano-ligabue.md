@@ -30,5 +30,5 @@ E o que isso representa para nós, brasileiros? Antes que uma forma de enxergar 
 
 Da mesma forma, quando vemos as pessoas aplaudindo a prisão de um conhecido mafioso enxergamos o que ocorre pros lados de cá quando um assassino que emerge da mídia é finalmente preso em consequência de seus atos e, mais importante, da pressão pública.
 
-A semelhança pára no momento que vemos que o engajamento político do cantor, que exibe o texto da Constituição de seu país enquanto canta uma das músicas no Coliseu, há tempos por aqui era uma realidade. E perto da cena em que ele usa uma filmadora para gravar os fãs naquele momento é dito que o povo não liga pra mais nada a não ser "o grande irmão" (Big Brother Itália?).
+A semelhança para no momento que vemos que o engajamento político do cantor, que exibe o texto da Constituição de seu país enquanto canta uma das músicas no Coliseu, há tempos por aqui era uma realidade. E perto da cena em que ele usa uma filmadora para gravar os fãs naquele momento é dito que o povo não liga pra mais nada a não ser "o grande irmão" (Big Brother Itália?).
 

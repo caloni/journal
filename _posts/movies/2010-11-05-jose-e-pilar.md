@@ -21,7 +21,7 @@ _cover: "http://ia.media-imdb.com/images/M/MV5BMjI5NTUzNTI2OV5BMl5BanBnXkFtZTcwM
 ---
 Este é um documentário que conta, com imagens caseiras e inusitadas em eventos públicos, os últimos anos do escritor português ganhador do prêmio Nobel José Saramago e sua esposa, Pilar. Por meio de uma semi-intrusão na vida alheia do casal, acompanhamos as viagens que ambos fizeram pelo mundo afora após ele ter ganho o prêmio.
 
-Com esse filme percebemos a dedicação de sua esposa para com a carreira do marido, além do reconhecimento deste que, sem Pilar, não seria nem a metade do que era. Dentro desse ponto de vista é tocante perceber que o filme retrata exatamente esses dois personagens dessa maneira distinta. Se de um lado vemos Pilar ir de um canto ao outro, com uma câmera que denota movimento constante (e como por vezes é percebido ela falando enquanto está dentro de um ônibus ou algo que o valha), do outro lado temos a reflexão e serenidade de Saramago, sempre recheado com seus pensamentos originais e inusitados, ou muitas vezes com uma cena um tanto parada sendo banhada de sabedoria com a narração em off do própro Saramago e alguma passagem de um de seus livros.
+Com esse filme percebemos a dedicação de sua esposa para com a carreira do marido, além do reconhecimento deste que, sem Pilar, não seria nem a metade do que era. Dentro desse ponto de vista é tocante perceber que o filme retrata exatamente esses dois personagens dessa maneira distinta. Se de um lado vemos Pilar ir de um canto ao outro, com uma câmera que denota movimento constante (e como por vezes é percebido ela falando enquanto está dentro de um ônibus ou algo que o valha), do outro lado temos a reflexão e serenidade de Saramago, sempre recheado com seus pensamentos originais e inusitados, ou muitas vezes com uma cena um tanto parada sendo banhada de sabedoria com a narração em off do próprio Saramago e alguma passagem de um de seus livros.
 
 Para os fãs, temos momentos que são especialmente emocionantes, pois acompanhamos também a escrita de um novo livro, do início ao fim, além da recaída na saúde que teve no meio dessa nova obra.
 
@@ -35,7 +35,7 @@ Os "moinhos de vento" que vemos ao fundo, em uma das imagens iniciais, são os m
 
 Ao mesmo tempo, vemos a opinião do celestial igualmente renegado por sua esposa, de uma forma diferente, mais baseada na ação, característica da personagem: ela explica como a necessidade de estar sempre em movimento na vida, pois a eternidade é algo impossível de cabar em nossa cabeça, e será o que teremos após a morte.
 
-As memória de seu diário, como uma pequena nota a cada dia, são narradas igualmente em off, como passagens de seus livros, e ganham um significado a mais por estarmos vendo cenas exatamentes do dia em que ele fez a nota.
+As memória de seu diário, como uma pequena nota a cada dia, são narradas igualmente em off, como passagens de seus livros, e ganham um significado a mais por estarmos vendo cenas exatamente do dia em que ele fez a nota.
 
 O pós-casamento, além de naturalmente emocionante, possui muito mais significado, pois aquele casal já vivera seus 20 anos juntos, e a dedicação de ambos um pelo outro já foi provada diversas vezes; o casamento ganha o significado muito mais enriquecedor de prêmio final do que uma promessa inicial. E o fato de acompanharmos a vida do casal já há mais de uma hora torna essa cena enriquecedora da relação de ambos.
 

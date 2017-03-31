@@ -21,4 +21,4 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTIwNzQ3MDIxMV5BMl5BanBnXkFtZTcwMDIxMzUyMQ@@._V1._SX95_SY140_.jpg"
 ---
-Aqui temos a continuação do que é apenas um filme. Kill Bill Volume 2 é a segunda metade da mutilação feita nos cinemas do último filme do Tarantino. Destaque para o treinamento de Pai Mei, além de, assim como o primeiro, cenas de luta memoráveis, além de um exercício de superação no cemitério. Como bônus, um diálogo pop mais que inspirado sobre superman e os poderes dos assassinos. Imperdível se você viu o Volume 1.
+Aqui temos a continuação do que é apenas um filme. Kill Bill Volume 2 é a segunda metade da mutilação feita nos cinemas do último filme do Tarantino. Destaque para o treinamento de Pai Mei, além de, assim como o primeiro, cenas de luta memoráveis, além de um exercício de superação no cemitério. Como bônus, um diálogo pop mais que inspirado sobre Superman e os poderes dos assassinos. Imperdível se você viu o Volume 1.

@@ -22,7 +22,7 @@ _cover: "http://ia.media-imdb.com/images/M/MV5BMjA0ODYwNzU5Nl5BMl5BanBnXkFtZTcwN
 ---
 As piadas do filme parecem internas e da vida real ("você aumentou o número do sutiã?", pergunta Sandler para seu amigo recém-chegado que aparentemente engordou mais que ele, ou "dessa vez vc trouxe a mãe", se referindo ao cachorro em seu carro), ou, pior: elas foram achadas pelo google. No entanto, aparentemente os realizadores do filme acham elas estupidamente engraçadas, pois estão sempre inseridas em momentos de clímax.
 
-Por outro lado, o resto das gags é baseado naqueles momentos videocassetadas em que alguma pessoa se machuca fisicamente e as outras dão altas risadas, mesmo que essa pessoa seja seu próprio filho pré-adolescente e que você tenha jogado uma pedra nele com toda a força.
+Por outro lado, o resto das gags é baseado naqueles momentos "videocassetadas" em que alguma pessoa se machuca fisicamente e as outras dão altas risadas, mesmo que essa pessoa seja seu próprio filho pré-adolescente e que você tenha jogado uma pedra nele com toda a força.
 
 É claro que temos momentos inspirados em forçar o drama, como o momento em que a mesma mãe desmascara a fada do dente dizendo que ela mesma irá colocar um dólar debaixo do travesseiro da filha que acabada de perder um dente, ao som mais forte de trilha melosa.
 

@@ -32,7 +32,7 @@ E que se suicida bastante quando está no escuro.
 
 Essa é uma comédia que não tem medo de fazer piada de todos os lados. Ela não é politicamente correta em nenhum momento, mas se recusa a baixar o nível. Ela apenas utiliza a ignorância do herói, que interpretado por Checco Zalone com uma versatilidade ímpar, soa autêntica a todo momento, mesmo que algumas situações soem forçadas.
 
-A única coisa que não é motivo de chacota é o ato de ajudar as pessoas, ajudar os animais, ajudar o planeta. Por isso disse que a mensagem é clara: não importa se você buzina para o carro à frente ou não sabe cozinhar macarrão  como um italiano. A única pergunta realmente válida é: você se importa em viver além do seu próprio umbigo?
+A única coisa que não é motivo de chacota é o ato de ajudar as pessoas, ajudar os animais, ajudar o planeta. Por isso disse que a mensagem é clara: não importa se você buzina para o carro à frente ou não sabe cozinhar macarrão como um italiano. A única pergunta realmente válida é: você se importa em viver além do seu próprio umbigo?
 
 A direção/edição ágil de Gennaro Nunziante não nos permite pensar muito no que estamos vendo, mas apenas rir. E rir muito. Praticamente todas as piadas funcionam, seja pela criatividade em contá-la ou pela presença de espírito de Zalone, que é o coração e a mente do filme.
 

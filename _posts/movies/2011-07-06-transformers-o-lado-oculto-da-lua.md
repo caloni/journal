@@ -20,7 +20,6 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTkwOTY0MTc1NV5BMl5BanBnXkFtZTcwMDQwNjA2NQ@@._V1._SX94_SY140_.jpg"
 ---
-
 É muito difícil para quem começa a estudar aos poucos os segredos do cinema descobrir o que faz um filme ruim. Apenas o fato de não gostar do que se vê não é argumento satisfatório para entender quais mecanismos estão ali (ou não) para sabotar por completo uma experiência cinematográfica tão bem sucedida tecnicamente, como para mim foi esse Transformers 3.
 
 É muito óbvio perceber pequenos erros de montagem, que é quando uma cena não casa com a próxima, ou um conjunto delas. Mas isso por si só não deixa o filme, como um todo, em um patamar inaceitável. Faz parte do jogo. O nosso herói desajeitado Sam (LaBeouf) possui uma função pré-determinada desde o início dessa "trilogia", que é servir de representante para todos nós, adolescentes tarados por loiras gostosas e carros potentes que adora vê-los se transformar em robôs e "brigar pra valer". E tudo bem. Agora, isso não justifica vermos o rapaz em uma situação de perigo, e, logo em seguida, ele aparecer de um ângulo mais alto, posando de gatinho para um pôster do novo sucesso de Michael Bay.

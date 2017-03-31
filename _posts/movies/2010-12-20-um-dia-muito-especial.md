@@ -28,7 +28,7 @@ Há um corte brusco para o vermelho, uma bandeira nazista. A câmera sobe aos po
 
 Aos poucos o comportamento das pessoas reflete a mesma época que vimos no vídeo inicial, como críticas pesadas à masturbação ("você vai ficar cego assim") ou o uso de estrangeirismos.
 
-O diretor gosta de navegar a câmera da forma mais eficiente possível, como na cena em que ele está no telefone e, durante a conversa, a câmera dá um giro por trás dele, denunciando ao fundo a mulher na janela do apartamento à frente, ou quanto em um diálogo na casa deste, a mulher fica à frente da câmera e ele está parado no fundo à esquerda; conforme ela se move para a direita a câmera segue e pára do lado dela e de um espelho, que reflete a mesma imagem dele (talvez uma interessante rima com o fato dele ser homossexual).
+O diretor gosta de navegar a câmera da forma mais eficiente possível, como na cena em que ele está no telefone e, durante a conversa, a câmera dá um giro por trás dele, denunciando ao fundo a mulher na janela do apartamento à frente, ou quanto em um diálogo na casa deste, a mulher fica à frente da câmera e ele está parado no fundo à esquerda; conforme ela se move para a direita a câmera segue e para do lado dela e de um espelho, que reflete a mesma imagem dele (talvez uma interessante rima com o fato dele ser homossexual).
 
 O sobrenome da família é colocado como placa na frente na porta. Não sei se é um aspecto cultural ou, ao mesmo tempo uma influência do próprio fascismo. Uma prática semelhante é seguida na Japão, se não me engano.
 

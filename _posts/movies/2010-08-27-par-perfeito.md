@@ -20,4 +20,4 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTU0NDIwOTcwOV5BMl5BanBnXkFtZTcwNjU3NTQ0Mw@@._V1._SX94_SY140_.jpg"
 ---
-Uma suposta comédia romântica, gêmea do Encontro Explosivo com Cameron Diaz e Tom Cruise, aqui quem participa é o sem sal Ashton Kutcher e a idem Katherine Heigl, em um filme de ação com algumas sacadas engraçadas, mas nenhuma inteligente. Até me esqueci qual o plot.
+Uma suposta comédia romântica, gêmea do Encontro Explosivo com Cameron Diaz e Tom Cruise, aqui quem participa é o sem sal Ashton Kutcher e a idem Katherine Heigl, em um filme de ação com algumas sacadas engraçadas, mas nenhuma inteligente. Até me esqueci qual o "plot".

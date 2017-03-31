@@ -20,7 +20,6 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTY5MjI5NTIwNl5BMl5BanBnXkFtZTYwMTM1Njg2._V1._SX100_SY132_.jpg"
 ---
-
 A República começa a perder a força, e o desespero pela resolução da crise no Senado faz com que forças especiais sejam entregues ao Chanceler Palpatine. Como podemos ver, a história caminha em ritmo adequado para o ponto de encontro com o antes chamado Guerra nas Estrelas e rebatizado para Episódio IV.
 
 O problema mais marcante do novo filme é o relacionamento entre o Jedi aprendiz Anakin (Christensen, boring) e a Senadora Amidala (Portman, adequada), cuja aproximação beira o tédio, pois, por melhor que seja a intenção do roteiro em unir os dois, os diálogos soam forçados e a interpretação de Christensen não ajuda em nenhum momento. Para piorar, Lucas aposta em clichês que soam datados e já não fazem mais parte do "ritual de acasalamento cinematográfico", como o momento em que ambos rolam na grama.

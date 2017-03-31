@@ -20,7 +20,6 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTg5OTMxNzk4Nl5BMl5BanBnXkFtZTcwOTk1MjAwNQ@@._V1._SX95_SY140_.jpg"
 ---
-
 Quando se fala de X-Men no cinema é sempre bom relembrar que uma ficção científica, assim como qualquer filme, é um documentário da época em que foi filmado. No caso do gênero Sci-Fi, as liberdades são signifivamente maiores, e por isso mesmo permitem alegorias/caracterizações que nos levam a viajar para outro universo e debater temas tão presentes no mundo de hoje quanto o preconceito e a intolerância.
 
 Indo a fundo nessa premissa, a intolerância da sociedade é o que une todos os mutantes do filme, que se consideram iguais por estarem na mesma posição de terem que lidar com esse preconceito. Toda essa angústia é demonstrada no filme tanto do lado dos que sofreram violência por conta disso (Magneto) quanto os que conseguiram se inserir discretamente na sociedade (Xavier). A ponte entre esses dois extremos (Raven/Mística) é o verdadeiro arco dramático que enche de lágrimas qualquer apreciador da sétima arte.

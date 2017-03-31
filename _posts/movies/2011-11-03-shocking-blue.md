@@ -19,7 +19,6 @@ _fullcover: "http://ia.media-imdb.com/images/M/MV5BMTM2MjQ4NDAwMF5BMl5BanBnXkFtZ
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTM2MjQ4NDAwMF5BMl5BanBnXkFtZTcwMTU3NTIyNQ@@._V1._SX100_SY140_.jpg"
 ---
-
 Com um elenco coeso e uma direção segura, o filme holandês da safra do ano passado conseguem empolgar demasiadamente correto em seus 82 minutos de projeção. A única limitação acaba sendo a própria narrativa, que ganha ares despretensiosos, mas que evoca exatamente isso em sua maioria, tornando-se enfadonho, embora nunca desinteressante.
 
 Fazendo jus ao seu nome, a fotografia é competente em elencar funções para as cores (como o próprio azul/frio do título, note isso, em detrimento ao vermelho/quente), e se privilegia de horizontes verdes e floridos das acolhedoras terras da Holanda.

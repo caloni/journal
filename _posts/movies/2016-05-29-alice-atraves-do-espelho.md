@@ -22,7 +22,7 @@ _ratio: "1.85 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTc2NjExMTIyN15BMl5BanBnXkFtZTgwMjg0OTIwODE@._V1._SX94_SY140_.jpg"
 ---
-A deturpada, mas heroica, Alice da Disney. Nem podemos compará-la com o desenho icônico dos anos 50, onde a mocinha era bem próxima de sua irmã literária dos livros de Lewis Carrol. Aqui e em seu predecessor caça-níqueis em 3D do diretor dark Tim Burton, Alice é essa feminista tímida que ganha bilheteria aos poucos no cinema hollywoodiano. Passados seis anos desde a primeira produção, já vemos rapidamente o que mudou no panorama comercial da produtora depois de sucessos como Encantados, Frozen e até Star Wars.
+A deturpada, mas heroica, Alice da Disney. Nem podemos compará-la com o desenho icônico dos anos 50, onde a mocinha era bem próxima de sua irmã literária dos livros de Lewis Carrol. Aqui e em seu predecessor caça-níqueis em 3D do diretor "dark" Tim Burton, Alice é essa feminista tímida que ganha bilheteria aos poucos no cinema hollywoodiano. Passados seis anos desde a primeira produção, já vemos rapidamente o que mudou no panorama comercial da produtora depois de sucessos como Encantados, Frozen e até Star Wars.
 
 Dessa vez dirigido pelo diretor de aluguel James Bobin (Muppets, TV e MTV), este filme claramente faz parte de uma tentativa de serializar o universo através da figura paladina de Alice (Mia Wasikowska), que agora surge sucessora de seu aventureiro pai e que surge igualmente no País das Maravilhas como a salvadora da pátria. Obviamente, esta é mais uma discussão interna de seus problemas de vida, e toda a saga envolvendo o Chapeleiro Maluco (Johnny Depp) e sua família escorre obviamente do seu drama pessoal em tomar a decisão de ser uma mulher independente no final do século 19.
 

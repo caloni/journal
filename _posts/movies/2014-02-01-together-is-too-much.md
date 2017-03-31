@@ -16,6 +16,4 @@ _genres: ["Comedy", ]
 _runtimes: ["France:96", ]
 _kind: "movie"
 ---
-
-
 Essa é uma comédia francesa meio que escrachada, mas que não evita compartilhar pensamentos e reflexões políticas e filosóficas de vez em quando (seus piores momentos). Trata de traição, mas principalmente de irritação. Aquela parte da família que consegue atrapalhar o bom andamento de outra. Em muitos momentos é ágil, mas em outros, torcemos para que acabe logo. Um divertimento justo, porém, incompleto.

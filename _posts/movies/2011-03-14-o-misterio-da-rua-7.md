@@ -24,7 +24,7 @@ Mensagem de cunho católico no mesmo molde de O Nevoeiro, porém, determinado a 
 
 Pelo menos temos alguns aspectos técnicos que, além de corretos, tornam a cinematografia distinga: note a fotografia pálida nos momentos de luz, representando, ironicamente, a falta cada vez maior da própria luz.
 
-Mas como nem tudo são flores (ou luzes), o uso pouco imaginativo dos efeitos visuais compromete a experiência pretenciosamente aterrorizante das sombras que observam encostadas nas paredes. E se somos levados a esse ambiente pelos efeitos sonoros dos inúmeros sussurros que ecoam dessas mesmas paredes, nos falta o ritmo adequado para acompanharmos algumas das melhores cenas (como o resgate do projecionista machucado no ponto de ônibus).
+Mas como nem tudo são flores (ou luzes), o uso pouco imaginativo dos efeitos visuais compromete a experiência pretensiosamente aterrorizante das sombras que observam encostadas nas paredes. E se somos levados a esse ambiente pelos efeitos sonoros dos inúmeros sussurros que ecoam dessas mesmas paredes, nos falta o ritmo adequado para acompanharmos algumas das melhores cenas (como o resgate do projecionista machucado no ponto de ônibus).
 
 Mesmo assim, outras cenas funcionam bem como suspense, como a do corredor misterioso ao lado do gerador de força do bar que serve de abrigo aos sobreviventes. Porém, essa sequência não seria possível sem trapacear no roteiro, pois subverte a regra específica que Luke havia ouvido em um vídeo momentos após o "ataque", dizendo para manter-se confiante apenas na luz que está em suas próprias mãos.
 

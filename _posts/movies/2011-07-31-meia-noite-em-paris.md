@@ -19,7 +19,6 @@ _ratio: "1.85 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTM4NjY1MDQwMl5BMl5BanBnXkFtZTcwNTI3Njg3NA@@._V1._SX95_SY140_.jpg"
 ---
-
 Quando sabemos estar admirando o último enquadramento de meia-noite em Paris, é de doer o coração. O longa de Allen não só empolga, e muito, no início, como mantém suspenso o interesse pelos personagens (que não são poucos). Acredito que, se fosse possível, assistiríamos mais duas, três, ou até quatro horas de filmagem nesse universo criado por Allen.
 
 Essa característica de tornar os diálogos e as situações sempre interessantes é uma das maiores marcas do cineasta. Diretor de cinema autoral, basta assistir os 15 primeiros minutos de qualquer filme de sua obra para percebermos diversas particularidades que só existem em seus filmes: a ironia, o medo da morte, a beleza da vida na cidade grande, os grandes temas da humanidade.

@@ -29,9 +29,9 @@ Além disso, uma câmera caseira, usada quase sempre para gravar os primeiros pa
 
 Fora os aparatos técnicos para tornar essa continuação mais apavorante, o que continua a funcionar muito bem é o medo e imaginação de quem assiste, sempre pronto a fazer o serviço sujo de criar sons e sombras muitas vezes inexistentes. Condição natural de nosso corpo em alerta, quem nunca saiu sorrateiramente do recinto ao presenciar uma panela caindo inexplicavelmente por duas vezes seguidas, ou algum outro acontecimento aparentemente sem explicação?
 
-Porém, basta alguma novidade acontecer para aparecer à superfície o nosso lado cético, aqui representado pelo pai da família, que persiste em ridicularizar a explicação sobrenatural para  tais acontecimentos.
+Porém, basta alguma novidade acontecer para aparecer à superfície o nosso lado cético, aqui representado pelo pai da família, que persiste em ridicularizar a explicação sobrenatural para tais acontecimentos.
 
-Mesmo que no filme exista uma sub-explicação pesquisada pela filha do casal, que imagina existir um demônio na casa perseguindo o irmão mais novo, nada disso importa nos momentos de maior tensão, quando descobrir a origem de tudo é irrelevante, e essencial é saber onde se encontra o sobrenatural, busca essa demonstrada tão bem  em uma cena no porão, onde tentamos inultilmente achar lógica nos contornos bizarros das tranqueiras que ali repousam.
+Mesmo que no filme exista uma sub-explicação pesquisada pela filha do casal, que imagina existir um demônio na casa perseguindo o irmão mais novo, nada disso importa nos momentos de maior tensão, quando descobrir a origem de tudo é irrelevante, e essencial é saber onde se encontra o sobrenatural, busca essa demonstrada tão bem em uma cena no porão, onde tentamos de forma inútil achar lógica nos contornos bizarros das tranqueiras que ali repousam.
 
 E mesmo que a conclusão (que não vou revelar aqui) talvez peque pelo excesso, ela consegue convencer ao ponto de encontrarmos ligações com o primeiro filme, em uma espécie de lupa que não aumenta apenas o significado da história, mas a sensação de desconforto em sair da sala de projeção.
 

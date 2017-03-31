@@ -19,7 +19,6 @@ _ratio: "1.78 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTAzODU0NDExMTNeQTJeQWpwZ15BbWU3MDk2NjMxMzc@._V1._SX99_SY140_.jpg"
 ---
-
 A trilha sonora fantasiosa que evoca tanto os Batman de atualmente como, de uma forma mais lúdica, os policiais infantis que líamos quando crianças, abre as cortinas para o novo trabalho de Alain Gagnol, projeto de mais de cinco anos onde, debruçado com sua equipe de 60 pessoas sobre os mais de 40.000 desenhos criados à mão, revela uma estética curiosa e ao mesmo tempo divertida.
 
 A história começa com um gato que divide sua vida em dia e noite. De dia fica com uma menina triste pela morte do pai, que vive com a empregada e sua atarefada e ausente mãe. De noite, sai à caça com um vizinho cuja profissão é roubar joias.

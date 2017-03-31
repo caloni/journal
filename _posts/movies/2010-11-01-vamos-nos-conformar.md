@@ -13,7 +13,6 @@ _genres: ["Documentary", ]
 _runtimes: ["52", ]
 _kind: "movie"
 ---
-
 Esse documentário conta a história de quatro amigas que estão internadas em uma espécie de abrigo para filhas que foram abandonadas por suas famílias. Cada uma delas fala na sua vez sobre sua história, e conseguimos identificar facilmente a personalidade de cada uma: a que tem pena de si, a durona e irritada, a complicada e, por fim, a conformada. É ela que veremos frente a frente com os pais.
 
 É possível entender o absurdo da situação dessas mulheres através do questionário do instituto, onde são feitas diversas perguntas atípicas, como se a pessoa já frequentou algum hospício ou se foi molestada quando criança. Fica óbvio que, após, darem entrada no local, elas vivem presas, pois os muros possuem arame farpado, janelas possuem grades e muitas nem vêm a claridade exterior dias inteiros.

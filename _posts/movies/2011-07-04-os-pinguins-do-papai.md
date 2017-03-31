@@ -20,7 +20,6 @@ _ratio: "1.85 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTcwMDI4NjEyOF5BMl5BanBnXkFtZTcwNzg5MzEwNQ@@._V1._SX94_SY140_.jpg"
 ---
-
 Sinopse: A vida de um homem de negócios começar a mudar após ele herdar de seu pai seis pinguins. Conforme ele avança em sua vida pessoal, sua vida profissional começa a despencar.
 
 Odeio falar mal dos filmes que não gosto, mas Os Pinguins do Papai é fraco, oportunista e covarde.

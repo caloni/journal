@@ -19,7 +19,6 @@ _ratio: "1.66 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTMzMjM3OTc1MV5BMl5BanBnXkFtZTcwMTc4MDQ1Mw@@._V1._SX100_SY140_.jpg"
 ---
-
 O filme 9 - A Salvação se baseia em um curta anteriormente produzido. O resultado é que temos uma história curta o suficiente para ser contada em 10 minutos ser espandida em tediosos 79 minutos.
 
 O que se aprende nesse filme é que não se deve estender uma história, a não ser que se saiba o que se está fazendo. Infelizmente, Manoel de Oliveira nos apresenta um filme completamente diferente com a mesma peculiaridade: parece mais longo do que deveria.

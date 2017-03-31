@@ -20,7 +20,6 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTQzMTU1NzQwNl5BMl5BanBnXkFtZTcwNDg4NzMzMw@@._V1._SX94_SY140_.jpg"
 ---
-
 G.I. Joe é um filme tão ruim assim como muitos têm falado? Talvez sim. O fato é que, baseado em uma franquia de action figure produzida pela empresa de brinquedos Hasbro (e vendido no Brasil sob o codinome Comandos em Ação), o filme tenta se firmar nessa superfície frágil e infantil usando conceitos mais infantis ainda que acabam por estabelecer relações entre os personagens absurdamente ilógicas e pedestres.
 
 Existem dois recursos usados durante o todo filme que são particularmente irritantes: na direção nada imaginativa, os diálogos sempre são terminados com um zoom out para fora do veículo submerso onde se encontram; na narração, o passado de cada personagem precisa ser necessariamente contado em flashbacks. Não que eles sejam irritantes por serem repetidos várias vezes, pois um recurso usado com inteligência consegue não se fazer perceber e ainda assim ter sido repetido durante todo o filme. Nesse casos, ambos os recursos são repetidos mecanicamente, sem qualquer sombra de criação dramática, mais parecendo as montagens de séries japonesas seculares como Jaspion e Changeman (e não seria nenhuma surpresa se no final víssemos uma briga de robôs gigantes).

@@ -20,7 +20,6 @@ _ratio: "1.85 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTU3ODg3MDAxMl5BMl5BanBnXkFtZTcwMjc0MDMzNA@@._V1._SX95_SY140_.jpg"
 ---
-
 Em uma época em que religião e economia precisam ser reinventadas, a visão mesclada de ambas em uma organização fria e calculista não deixa de ser no mínimo curiosa. Porém, mais do que isso é constatarmos que os homens sisudos do filme têm por função coordenar algo que para nós, seres humanos, especialmente em tempos de crise, é sabidamente a única coisa de que realmente somos donos: o livre arbítrio.
 
 Sabendo disso, e ainda de bônus o fato do personagem de Matt Damon ser um político popular, jovem e em ascenção, mas que ao mesmo tempo se questiona sobre suas prioridades, conseguimos, desde o iníco, um filme que aborda discussões pelo menos um passo adiante sobre algumas de nossas principais convicções sociais.

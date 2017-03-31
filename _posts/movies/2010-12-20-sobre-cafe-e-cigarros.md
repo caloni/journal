@@ -101,7 +101,7 @@ Um é visto como o astro da vez, tanto que uma fã, quando o descobre no recinto
 
 O absurdo da situação é incrementado quando o outro ator até se esquece do nome completo do Molina.
 
-As expressões dos atores diz tudo sobre essa relação, bem  mais que os diálogos, que continuam fraco, mas possuem em sua essência exatamente aquilo que estamos vendo.
+As expressões dos atores diz tudo sobre essa relação, bem mais que os diálogos, que continuam fraco, mas possuem em sua essência exatamente aquilo que estamos vendo.
 
 Dessa vez o chá toma o lugar do café.
 

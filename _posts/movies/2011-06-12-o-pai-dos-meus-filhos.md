@@ -19,7 +19,6 @@ _ratio: "1.85 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTUxODczODA2NV5BMl5BanBnXkFtZTcwNzExMjQ1Mw@@._V1._SX99_SY140_.jpg"
 ---
-
 A diretora-roteirista Mia Hansen-Løve consegue prender a atenção mesmo em um filme cujo assunto fica vago do começo ao fim. O mais irritante, contudo, em O Pai dos Meus Filhos, é a maneira covarde com que ele flerta com o nosso próprio sentido de narrativa.
 
 Não há, de fato, um vilão no filme. Pior do que isso, não há um herói. Vítimas da situação com que se encontram, a família Canvel tenta de todas as formas conciliar seus problemas em torno de seu patriarca, vivido por Louis-Do de Lencquesaing de uma maneira misteriosa pela própria exigência da história. Grégoire Canvel, o pai de família carinhoso e ao mesmo tempo ausente, consumido cada vez mais pelos problemas financeiros de sua produtora de filmes.

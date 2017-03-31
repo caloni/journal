@@ -31,7 +31,7 @@ O caso é que todos possuem uma opinião a respeito, e todos se abrem mais cedo 
 
 (Pronto, já cumpri a lei de Godwin, necessária nessa discussão. Podemos prosseguir em paz, antes que os judeus se transformem em baratas e fujam por debaixo da porta.)
 
-O filme foi editado em um trabalho magnânimo de pinceladas dos vídeos do diretor em sua viagem quando jovem. Demorou quinze anos para ser feito, mas merece todos os créditos por inserir uma discussão equilibrada sobre o assunto, e usar pessoas comuns para essa tarefa. Ao final, você terá simpatizado com uma ou duas pessoas (no máximo) e lamentado a falta de visão de todo o resto. De uma forma ou de outra, eles estão lá, nós estamos aqui. E daí o título. É uma provocação deliciosa sentir que não fazemos parte dessa discussão que gera dor  e sofrimento para milhares de pessoas todos os dias. E elas possuem falta de visão.
+O filme foi editado em um trabalho magnânimo de pinceladas dos vídeos do diretor em sua viagem quando jovem. Demorou quinze anos para ser feito, mas merece todos os créditos por inserir uma discussão equilibrada sobre o assunto, e usar pessoas comuns para essa tarefa. Ao final, você terá simpatizado com uma ou duas pessoas (no máximo) e lamentado a falta de visão de todo o resto. De uma forma ou de outra, eles estão lá, nós estamos aqui. E daí o título. É uma provocação deliciosa sentir que não fazemos parte dessa discussão que gera dor e sofrimento para milhares de pessoas todos os dias. E elas possuem falta de visão.
 
 É um filme ágil sobre pessoas falando. Pode dar sono em momentos pontuais, mas dificilmente irá tirar o interesse no assunto. Pelo contrário: depois que ele acaba é que começa a discussão, uma de suas melhores virtudes.
 

@@ -20,7 +20,6 @@ _ratio: "1.85 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMjIzNTc2MTgwNV5BMl5BanBnXkFtZTcwMzYzMzgxNQ@@._V1._SX94_SY140_.jpg"
 ---
-
 Aparentemente não há limites para a "criatividade" de Hollywood para comédias românticas. Quem diria que a Cindy (Anna Faris), da franquia Todo Mundo em Pânico, seria par romântico com o Capitão América (Chris Evans)? Um desafio interessante para ambos, visto que seus respectivos currículos de "menina fácil (e alvo de socos) em comédia-paródia" e "super-herói simpático" são ligeiramente diferentes nesse novo longa de Mark Mylod (Quem é Morto Sempre Aparece).
 
 A história gira em torno da fascinação feminina pelas pesquisas de revistas femininas (nesse caso, a Marie Claire). Ally (Faris), durante os preparativos para o casamento de sua irmão Daisy (Graynor), percebe que o número de seus parceiros sexuais está ligeiramente acima da média nacional (o dobro) através de uma pesquisa da citada revista, e, de acordo com a mesma reportagem, mulheres que passam dos 20 parceiros acabam nunca se casando. Por coincidência, falta apenas um parceiro para que ela preencha os 20 redondos, e fatidicamente ela acaba preenchendo "a vaga" com quem não desejaria se casar. Desiludida, tem a "brilhante" ideia de reciclar seus ex-parceiros para conseguir não fugir às estatística da reportagem da revista feminina e evitar a maldição de ficar pra titia.

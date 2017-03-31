@@ -22,7 +22,7 @@ _cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BYzIyYTA1M2ItMGRiZC
 ---
 Estados Unidos Pelo Amor é um filme depressivo e intenso, que tenta unir a baixa moral do povo polonês, rendido ao regime comunista, com a carência desesperadora das mulheres de um vilarejo tão isolado que o azul celeste toca cada parede de suas casas, e o branco da neve cria barreiras intransponíveis na comunicação humana.
 
-O filme é abordado em quatro história que se cruzam, tanto por serem de personagens que vivem no mesmo local e até trabalham juntas, quanto porque este é um filme com símbolos, e as quatro mulheres se parecem, apesar da diferenças nas idades. Todas buscam o reconhecimento, a afeição, o... nas palavras do própro filme: amor.
+O filme é abordado em quatro história que se cruzam, tanto por serem de personagens que vivem no mesmo local e até trabalham juntas, quanto porque este é um filme com símbolos, e as quatro mulheres se parecem, apesar da diferenças nas idades. Todas buscam o reconhecimento, a afeição, o... nas palavras do próprio filme: amor.
 
 Mas o amor, se tenta ser desvendado por diálogos repetitivos no decorrer da história, logo se revela a ingenuidade dessa busca incessante, de uma maneira divertida e ainda assim trágica: durante uma leitura de uma poesia por um professor, ele começa a conjecturar sobre o amor, quando um aluno intervém, perguntando se o professor já havia feito sexo.
 

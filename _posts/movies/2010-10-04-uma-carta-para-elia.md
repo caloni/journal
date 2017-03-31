@@ -26,7 +26,7 @@ Scorcese compara si mesmo com a história de Kazaan, como no momento que revela 
 
 As opiniões de Scorcese e Kazaan às vezes são confrontadas, como se ambos estivessem tendo um diálogo impossível, como ele mesmo coloca no final.
 
-O filme acaba revelando muito mais sobre o próprio Scorcese, sua visão estilística dos filmes do colega e suas motivações como diretor, do que propriamente revelações sobre o destinarário da "carta".
+O filme acaba revelando muito mais sobre o próprio Scorcese, sua visão estilística dos filmes do colega e suas motivações como diretor, do que propriamente revelações sobre o destinatário da "carta".
 
 Interessante notar, por exemplo, como todo cinéfilo, Scorcese aprendeu primeiro a apreciar a arte por ela mesma, para depois se dedicar aos estudos técnicos, como é bem mostrado na descrição das cenas e da história de Vidas Amargas, quando ao final ele descreve tecnicamente uma cena no cenário que ele chama de "O" corredor.
 

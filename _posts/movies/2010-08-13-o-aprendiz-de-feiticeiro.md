@@ -34,6 +34,6 @@ Mais interessante por algumas cenas como a que ele sai do vaso onde estava preso
 
 Uma brincadeira/referência interessante a Nikola Tesla, que anda cada vez mais sendo citado. Aqui, Dave possui suas próprias bobinas magnetizadas que emitem raios em alta frequência, e por isso geram música.
 
-É impressionante como a única cena de morte, a do motorista que é atingido por Horvath enquanto este procura o vaso de Morgana, é escondido pelo vidro quebrado, provando igual competência que os filmes Transformer em esconder que um massacre está ocorrendo (nesse caso, foi apenas um "mero" assassinato, o que aumentaria consideravel e desnecessariamente o nível de censura do filme como um todo).
+É impressionante como a única cena de morte, a do motorista que é atingido por Horvath enquanto este procura o vaso de Morgana, é escondido pelo vidro quebrado, provando igual competência que os filmes Transformer em esconder que um massacre está ocorrendo (nesse caso, foi apenas um "mero" assassinato, o que aumentaria considerável e desnecessariamente o nível de censura do filme como um todo).
 
 E se estamos assistindo a um filme da Disney, pelo menos é um alívio não termos que ver apenas a referência tosca inicial do despertados do Buzz Lighyear, mas uma tentativa de reconstrução admirável da cena das vassouras em Fantasia, com direito à mesma trilha sonora. Foi o momento mais mágico do filme, pela nostalgia e pelo esforço.
