@@ -20,7 +20,7 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTU4MDUxMzcxMV5BMl5BanBnXkFtZTgwNzI5MDU2MDE@._V1._SX100_SY140_.jpg"
 ---
-Madoka Mágica, uma série com começo, meio e fim embalada em uma arte-sequência deliciosamente artística de acompanhar e um enredo absurdamente filosófico para os que destratam animês, resolve extrapolar alguns conceitos de sua conclusão original, criando esse longa-metragem onde, podemos dizer, tanto a parte artística quanto a narrativa são multiplicados por 1000, e perdendo apenas um pouco de suas rédeas originais, ainda que compensando pela sua realização.
+Madoka Mágica, uma série com começo, meio e fim embalada em uma arte-sequência deliciosamente artística de acompanhar e um enredo absurdamente filosófico para os que destratam anime, resolve extrapolar alguns conceitos de sua conclusão original, criando esse longa-metragem onde, podemos dizer, tanto a parte artística quanto a narrativa são multiplicados por 1000, e perdendo apenas um pouco de suas rédeas originais, ainda que compensando pela sua realização.
 
 Dirigido pelos mesmos criadores da série, e que aparentemente fizeram dois outros filmes anteriores a esse (mas que por algum motivo parecem não ter chegado ainda ao Ocidente), essa história a princípio parecia independente, mas aos poucos foi-se revelando o inevitável: ela precisa que a pessoa assista à série original, o que já enfraquece um pouco o enredo.
 
