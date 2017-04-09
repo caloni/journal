@@ -20,7 +20,7 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTA5MjgxMDE4OTVeQTJeQWpwZ15BbWU3MDgyNjc4NjE@._V1._SX95_SY140_.jpg"
 ---
-Speed Racer está para os animes infantis assim como Scott Pilgrim está para o mundo dos vídeo-games: dois filmes que homenageiam seu universo abraçando-o sem limites e que por isso são rechaçados pelo público em geral. Uma linguagem tão inovadora pode causar medo e desconforto, mas é o ponto de virada de todo cinéfilo que se preze e que que deseja sentir mais pelos filmes que assiste.
+Speed Racer está para os animes infantis assim como Scott Pilgrim está para o mundo dos vídeogames: dois filmes que homenageiam seu universo abraçando-o sem limites e que por isso são rechaçados pelo público em geral. Uma linguagem tão inovadora pode causar medo e desconforto, mas é o ponto de virada de todo cinéfilo que se preze e que que deseja sentir mais pelos filmes que assiste.
 
 Já era de se supor que os irmãos Wachowski (The Matrix, Cloud Atlas) iriam fundo no material de suas produções. Mesmo assim, quando o pequeno Speed Racer sai da escola para um céu com nuvens pintadas a surpresa e o contentamento são inesquecíveis. A reimaginação das crianças no filme sobre a realidade é alto tão hilário quanto tocante. O mundo dos Racer começa a fazer todo o sentido para mim conforme é desdobrado e a história empolga cada vez mais conforme entendemos melhor como funcionam aqueles carros saltitantes.
 

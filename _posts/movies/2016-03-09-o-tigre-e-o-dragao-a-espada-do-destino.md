@@ -26,7 +26,7 @@ Sim, fizeram uma continuação de O Tigre e o Dragão, um daqueles filmes "incon
 
 Consegue parcialmente. Computadores não fazem milagres, como produzir filmes excelentes como o de Ang Lee.
 
-Há cenas de luta à exaustão, a maioria sem explicação ou motivo, e os espadachins parecem mais interessados em criar posições bonitas do que de fato atingir algum objetivo. Parece que todos eles estão tão à frente de seus adversários que "A Espada do Destino" lembra aqueles filmes de super-heróis em que os heróis são sempre o player de um vídeo-game no Nível 1 (jogando no modo fácil).
+Há cenas de luta à exaustão, a maioria sem explicação ou motivo, e os espadachins parecem mais interessados em criar posições bonitas do que de fato atingir algum objetivo. Parece que todos eles estão tão à frente de seus adversários que "A Espada do Destino" lembra aqueles filmes de super-heróis em que os heróis são sempre o player de um vídeogame no Nível 1 (jogando no modo fácil).
 
 Além disso, as técnicas usadas para artificialmente projetar mundos exóticos, como montanhas gigantescas, vilarejos e uma torre imensa, tornam tudo como a computação digital semi-cara sempre torna: artificial. Porém, esse não é o maior problema: o maior problema é que seu diretor, Woo-Ping Yuen, acredita piamente estar "abafando", e recheia o longa com travellings verticais toda hora, regadas a uma trilha sonora pomposa e ao mesmo tempo episódica, harmonizando com a intenção do diretor, em nunca ligar os pontos de sua trama, preferindo isolá-los como uma série medíocre de televisão.
 

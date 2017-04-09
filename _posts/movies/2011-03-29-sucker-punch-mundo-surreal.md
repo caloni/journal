@@ -26,4 +26,4 @@ Quando assistimos os mundos imaginários, a sensação dos efeitos visuais é de
 
 Quando voltamos à realidade pós-dança, o que temos é um breve descanso dos nossos olhos, até a próxima dança-aventura.
 
-Com um grupo de garotas obviamente sensuais, porém imaturas (como é demonstrado pela falta de jeito de Baby Doll em andar sobre saltos), a experiência de vê-las em um campo de batalha torna inequívoca a referência aos jogos de vídeo-game onde temos essas mesmas personagens lutando com monstros com o triplo da altura, capturando artefatos e coletando pontos em cada fase.
+Com um grupo de garotas obviamente sensuais, porém imaturas (como é demonstrado pela falta de jeito de Baby Doll em andar sobre saltos), a experiência de vê-las em um campo de batalha torna inequívoca a referência aos jogos de vídeogame onde temos essas mesmas personagens lutando com monstros com o triplo da altura, capturando artefatos e coletando pontos em cada fase.
