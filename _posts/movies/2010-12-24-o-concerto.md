@@ -36,6 +36,6 @@ O fato de Andrey (e, por tabela, Dmitry em alguns momentos) não saber muitas pa
 
 Na descrição de Andrey durante o jantar com Anne-Marie no ocorrido, apenas ele ouve a música tocar (em que há um corte perfeito com a música no restaurante), e por isso Anne-Marie não entende completamente o que ele quer dizer. No momento do concerto, porém, Anne-Marie faz parte da orquestra, e tudo faz mais sentido para ela.
 
-A comunicação então funciona plenamente, pois passa a ser baseada na música, que é universal. Existe o raccord entre a batuta quebrada do maestro e sua batuta (remendada) e o raccord mais profundo, entre Lea e Anne-Marie na mesma posição, passado e presente.
+A comunicação então funciona plenamente, pois passa a ser baseada na música, que é universal. Existe uma transição entre a batuta quebrada do maestro e sua batuta (remendada) e a transição mais profunda, entre Lea e Anne-Marie na mesma posição, passado e presente.
 
-Como se não bastasse, ainda um raccord entre o futuro e presente, já mostrando a conclusão da trama durante o concerto e respeitando a inteligência do espectador.
+Como se não bastasse, há ainda uma transição entre o futuro e presente, já mostrando a conclusão da trama durante o concerto e respeitando a inteligência do espectador.

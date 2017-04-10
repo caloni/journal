@@ -20,7 +20,7 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMjE2NDc4MzY1NV5BMl5BanBnXkFtZTcwNDcxNjgxMQ@@._V1._SX96_SY140_.jpg"
 ---
-Primeiro trabalho em longas de Brad Bird ("Os Incríveis", Ratatouille), essa simpática animação peca apenas por ter alguns efeitos desajeitados e por carecer de expressões melhores para seus personagens. Fora isso, é um trabalho conciso e coeso e uma espécie de reimaginação de ET como um ser robótico e construído realmente com fins militares.
+Primeiro trabalho em longas de Brad Bird ("Os Incríveis", Ratatouille), essa simpática animação peca apenas por ter alguns efeitos desajeitados e por carecer de expressões melhores para seus personagens. Fora isso, é um trabalho conciso e coeso e uma espécie de "reimaginação" de ET como um ser robótico e construído realmente com fins militares.
 
 A história gira em torno do tal robô gigante que cai próximo a uma cidadezinha do litoral durante a Guerra Fria (uma informação que Bird sabe que não precisa ser divulgada verbalmente em um filme de crianças, preferindo usar em sua primeira cena o Sputnik, primeiro satélite russo lançado ao espaço). Um garoto o descobre escondido na floresta e o ensina a se comunicar. O robô se alimenta de ferro, e logo carros aparecem mastigados na paisagem e um inspetor do governo vem averiguar o que está acontecendo. O ritmo dos acontecimentos pontua bem a relação crescente robô/garoto e também a incompetência conveniente do inspetor.
 

@@ -27,4 +27,4 @@ Charlotte Gainsbourg, ou Sylvie, é a francesa despojada. Chiara Mastroianni, co
 
 Outro elemento, ou quase personagem, que não pode deixar de ser mencionado é a trilha sonora. Ou deveria dizer música-tema. Composta por Bruno Coulais de uma maneira minimalista, meia-dúzia de notas consegue gerar tensão (na verdade, apenas uma nota) e um tom lírico, level, quase romântico. A repetição de sua música por todo o filme é apropriada, por esta serve perfeitamente em diferentes momentos. Estamos falando de um filme que atravessa anos de história até o seu final fatalista. A passagem do tempo é algo curioso aqui.
 
-Falado em francês, se passa na França em uma casa adorável e uma "cidadezinha" idem. Porém, quarde essa trilha sonora.
+Falado em francês, se passa na França em uma casa adorável e uma "cidadezinha" idem. Porém, guarde essa trilha sonora.

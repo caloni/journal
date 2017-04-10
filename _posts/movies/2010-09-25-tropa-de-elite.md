@@ -26,7 +26,7 @@ A história conta sobre o Batalhão de Operações Especiais da polícia do Rio 
 
 Sempre com uma câmera nas mãos, pela urgência da história e pelo realismo das cenas, a ação nunca deixa de ser bem contada, com uma fluidez até mesmo nas cenas de mais movimentos.
 
-Ainda com respeito aos enquadramentos, sou capaz de citar o Raccord do treinamento da tropa para uma das operações nos morros seguido de um plano-sequência que levanta nossa visão para aquele que parece mais uma praça de guerra como um dos grandes momentos em que podemos notar a competência da direção nos pequenos detalhes.
+Ainda com respeito aos enquadramentos, sou capaz de citar a transição entre o treinamento da tropa para uma das operações nos morros seguido de uma sequência que levanta nossa visão para aquele que parece mais uma praça de guerra como um dos grandes momentos em que podemos notar a competência da direção nos pequenos detalhes.
 
 É um bônus ter visto que os personagens são bem apresentados, tanto que a história se divide em capítulos que explicam primeiramente as duas escolhas do Capitão Nascimento, o protagonista do filme, que realiza um trabalho tenso e coeso com seu personagem que mantém-se "profissional" até nos piores momentos do BOPE, mas ao mesmo tempo uma pessoa de carne e osso, que sofre de estresse e tem problemas familiares. E é impressionante constatar que toda a ação e violência que vemos tão bem orquestrada nas telas nos remete justamente para este personagem, que encarna de maneira condensadora todas as questões em pauta em um filme tão rico de conteúdo quanto de visões de um mesmo problema.
 

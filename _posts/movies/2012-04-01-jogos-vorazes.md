@@ -20,7 +20,7 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMjA4NDg3NzYxMF5BMl5BanBnXkFtZTcwNTgyNzkyNw@@._V1._SX94_SY140_.jpg"
 ---
-Há ótimas ideias em Jogos Vorazes, produção baseada no romance homônimo de Suzanne Collins (que também participa do roteiro) e que deve ser o primeiro de uma trilogia. Ambientado em um mundo futurista, mas devidamente verossímil, apresenta a delicada situação de 12 distritos que, após perderem uma tentativa de revolução contra o governo dominante, se veem sujeitos a sacrificar um casal de jovens anualmente em uma batalha por sobrevivência em uma floresta manipuladamente inóspita cujo objetivo é condecorar o último ser humano que restar.
+Há ótimas ideias em Jogos Vorazes, produção baseada no romance homônimo de Suzanne Collins (que também participa do roteiro) e que deve ser o primeiro de uma trilogia. Ambientado em um mundo futurista, mas devidamente verossímil, apresenta a delicada situação de 12 distritos que, após perderem uma tentativa de revolução contra o governo dominante, se veem sujeitos a sacrificar um casal de jovens anualmente em uma batalha por sobrevivência em uma floresta "criada" de maneira inóspita cujo objetivo é condecorar o último ser humano que restar.
 
 Acompanhamos essa história através dos olhos de Katniss Everdeen (Jennifer Lawrence, vinda dos ótimos Inverno da Alma e X-Men First Class), uma moradora do Distrito 12 junto com sua irmã caçula e sua ausente mãe. A história dessa família e dos próprios distritos são apresentados au passant, pois o filme se foca muito mais em descrever a vida dos organizadores dos jogos do título, e como isso destoa completamente da visão dos jovens apropriados para essa diversão alheia.
 

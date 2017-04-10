@@ -26,4 +26,4 @@ A história em White Rabbit nunca consegue se tornar empolgante ou significar al
 
 A única coisa que acontece em determinado momento é que todos em volta dele de repente se arrependem de suas vidas passadas e se entregam à religião. No entanto, o culto à morte já havia possuído a alma do jovem Harlon (Nick Krause) no formato de revistas cujos personagens ele conversa.
 
-Um Donnie Darko menos fabuloso, um retrato incompleto da adolescência problemática de algumas crianças americanas, White Rabbit é um trabalho interminado, que não se conclui mesmo quando a última peça do tabuleiro é removida.
+Um Donnie Darko menos fabuloso, um retrato incompleto da adolescência problemática de algumas crianças americanas, White Rabbit é um trabalho não-terminado, que não se conclui mesmo quando a última peça do tabuleiro é removida.

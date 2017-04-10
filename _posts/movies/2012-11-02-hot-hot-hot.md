@@ -25,7 +25,7 @@ Gastando o tempo necessário para apresentar os seus personagens secundários so
 
 Como as possibilidades de analogia com o mundo aquático são aparentemente ilimitadas, também o são as brincadeiras do filme, que estabelece os pequenos ambientes da sauna como os próprios aquários da vida anterior de Ferdinand, ou seja, apertados (só que quentes).
 
-Mesmo com tudo isso fotografia e trilha sonora posuem papeis de destaque acima das invencionisses, pois são as duas que realmente comentam e ilustram a realidade desse mundo, com o uso constante dos tons de azul e laranja para representar a mesclagem de protagonista e novo mundo. A trilha sonora, parte integrante e esquecida da vida de Ferdinand, passa a ter papel ativo no ambiente da sauna e de sua própria postura diante dos acontecimentos.
+Mesmo com tudo isso fotografia e trilha sonora posuem papeis de destaque acima das invencionisses, pois são as duas que realmente comentam e ilustram a realidade desse mundo, com o uso constante dos tons de azul e laranja para representar a mescla de protagonista e novo mundo. A trilha sonora, parte integrante e esquecida da vida de Ferdinand, passa a ter papel ativo no ambiente da sauna e de sua própria postura diante dos acontecimentos.
 
 Não direi mais nada. Não vale a pena estragar as surpresas da história, pois estas são secundárias. Em vez disso, se atente ao aspecto estético e temático. Há algo de sublime que se mantém independente da história.
 

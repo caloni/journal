@@ -24,7 +24,7 @@ Um drama de um relacionamento de um dia entre uma dona-de-casa e seu vizinho hom
 
 O filme inicia com um daqueles filmes políticos que passavam nos cinemas na época apresentando a visita de Hitler à Itália. Usando expressões que aos poucos denunciam o pensamento da sociedade da época, como a "majestosa simplicidade" com que o Fuher será recebido, ou a "doçura viril" de determinada pessoa, o prólogo em preto e branco nos dá a exata sensação do que seria viver naquela época, assistir filmes naquela época.
 
-Há um corte brusco para o vermelho, uma bandeira nazista. A câmera sobe aos poucos mostrando mais bandeiras sendo hasteadas. No próximo corte temos uma câmera que entra dentro de uma das casas do condomínio, e através de um arquitetadíssimo plano-sequência somos apresentados à dona-de-casa que lá reside e vai acordando em cada cômodo a família. É como se fôssemos uma visita indiscreta a passear pela casa inteira.
+Há um corte brusco para o vermelho, uma bandeira nazista. A câmera sobe aos poucos mostrando mais bandeiras sendo hasteadas. No próximo corte temos uma câmera que entra dentro de uma das casas do condomínio, e através de uma arquitetadíssima e longa sequência somos apresentados à dona-de-casa que lá reside e vai acordando em cada cômodo a família. É como se fôssemos uma visita indiscreta a passear pela casa inteira.
 
 Aos poucos o comportamento das pessoas reflete a mesma época que vimos no vídeo inicial, como críticas pesadas à masturbação ("você vai ficar cego assim") ou o uso de estrangeirismos.
 

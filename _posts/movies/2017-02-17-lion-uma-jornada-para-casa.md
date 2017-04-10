@@ -25,7 +25,7 @@ _releasedate: "16 February 2017"
 ---
 Este é o filme indicado ao Oscar por fazer chorar. E por falar de um caso real, emocionante, e por falar sobre miséria e como os brancos são privilegiados. Se for um branco que fala inglês, então, nem se fala: a maioria do filme é falado em inglês.
 
-E até por ser falado em inglês ele é elencável para o Oscar.
+E até por ser falado em inglês ele é selecionável para o Oscar.
 
 Porém, esquecendo a parte emocionante da trama, o que dá mais gosto de ver em Lion é sua montagem. E a edição, já que a primeira metade realiza transições no tempo com uma facilidade que quase dispensa os letreiros. Mas a montagem, na segunda metade, consegue juntar a saudade e as memórias de Saroo com momentos imaginados por ele de quando deixou sua família. Aliás, deixou é eufemismo, pois o menino se perdeu e rodou o país de trem por dias. Sem condições de voltar e terminando em uma espécie de orfanato, é adotado por um casal de australianos.
 

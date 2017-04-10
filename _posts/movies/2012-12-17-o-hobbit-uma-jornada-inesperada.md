@@ -32,7 +32,7 @@ E já que falamos de ação, não são as cenas movimentadas que impressionam o 
 
 Com uma conclusão satisfatória, mesmo que saibamos se tratar de apenas um terço do livro, "Uma Jornada Inesperada" estabelece a jornada da mesma forma com que foi feito em "A Sociedade do Anel", mas sem o tom épico, sem a força da jornada espiritual e, principalmente, sem um fio condutor que nos diga o que é importante nesse universo tão rico e fascinante.
 
-Sobre os 48 fps
+Sobre os 48 FPS (frames por segundo).
 
 Uma nova tecnologia nasce no Cinema. Pode ser revolucionário ou temporário. Vai depender, como sempre, dos espectadores.
 

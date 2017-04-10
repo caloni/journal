@@ -28,7 +28,7 @@ A trilha sonora principal de Morricone lembra a de um animal, que inclusive pode
 
 Há exemplos bem vivos desse estilo quadrinhos como no movimento/ângulo subjetivo da câmera quando Tuco (Eli Wallach), um dos três personagens, chegando à cidade e desmaiando, o desmaio é filmado pela câmera, e ela "fica tonta" e cai. Há exemplos também de posicionamento da câmera: quando vemos pela primeira vez Clint Eastwood  que aqui faz mais uma vez o papel do homem misterioso  , a câmera foca seu paletó, e não o seu rosto, pois é ali que está escondida a arma que entrará em ação nos próximos quadros. Mais um exemplo: quando Tuco cai na frente da delegacia, o próximo corte é feito de baixo pra cima, como se estivéssemos vendo do ponto de vista dele estirado no chão.
 
-Fora o uso constante dos ângulos, há travellings magníficos por todo o filme que fazem rima com a montagem que oscila entre o tenso e o cômico, sendo um dos primeiros o enforcamento, que passa pelo público que assiste enquanto ouvimos todos os crimes cometidos pelo condenado. Na montagem, a sequência que mostra os capangas subindo até o quarto de hotel onde está Clint, e ao mesmo tempo com cortes dele montando a arma cria tensão exatamente por não sabermos quando eles chegarão, e se dará tempo de montar a arma.
+Fora o uso constante dos ângulos, há câmeras giratórias magníficas por todo o filme que fazem rima com a montagem que oscila entre o tenso e o cômico, sendo um dos primeiros o enforcamento, que passa pelo público que assiste enquanto ouvimos todos os crimes cometidos pelo condenado. Na montagem, a sequência que mostra os capangas subindo até o quarto de hotel onde está Clint, e ao mesmo tempo com cortes dele montando a arma cria tensão exatamente por não sabermos quando eles chegarão, e se dará tempo de montar a arma.
 
 Uma segunda trilha, original e belíssima é a da caminhada do deserto, pois ela evoca a passagem do tempo muito bem, e essa noção de enjoo e delírio. Os enquadramentos na cena do deserto, aliás, são todas excepcionais, com destaque para duas onde Clint está na frente e o bandido no cavalo atrás e, depois, uma em que o bandido está bebendo água na sombra do cavalo e vemos Clint andando atrás. Tudo sem perder a majestade do cenário que é o deserto, personagem sempre principal desse trecho.
 
@@ -50,7 +50,7 @@ Há um realismo e grandiosismo na batalha da ponte que parece que somos transpor
 
 Quando Tuco tenta encontrar o túmulo no cemitério há uma bela passagem de travelling sem foco pelas jazidas, enquanto logo após o cineasta coloca Tuco em foco e um travelling por todos os túmulos, rapidamente, em um movimento constante.
 
-A cena do "trielo" é a mais tensa, antes mesmo de começar, pois já sabemos de antemão que os três atiram muito bem, como pudemos comprovar em mais de duas horas de filme.
+A cena do "trielo" (uma invenção para "duelo de três") é a mais tensa, antes mesmo de começar, pois já sabemos de antemão que os três atiram muito bem, como pudemos comprovar em mais de duas horas de filme.
 
 Exemplo de diálogo brilhante: "Existem dois tipos de pessoas com armas: descarregadas e as que cavam; você cava".
 

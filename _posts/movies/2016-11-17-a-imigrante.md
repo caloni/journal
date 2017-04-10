@@ -35,4 +35,4 @@ Porém, a "feiura" do filme está mesmo no caráter de seus personagens. Outro m
 
 E ainda assim, é Marion Cotillard que mantém as atenções voltadas para ela. Sua Ewa vai se tornando cada vez mais complexa conforme as porta vão se fechando para ela. Sua cara de desespero e ingenuidade vai se fechando, e quando descobrimos a desgraça que lhe aconteceu no navio, tudo começa a fazer sentido.
 
-A Imigrante não é um filme fácil. Com uma fotografia igualmente linka, é um anti-"Brooklin", um outro filme sobre aquela época muito mais otimista e romântico. Aqui só há lágrimas de dor e desprezo pela humanidade.
+A Imigrante não é um filme fácil. Com uma fotografia igualmente linda, é um anti-"Brooklin", um outro filme sobre aquela época muito mais otimista e romântico. Aqui só há lágrimas de dor e desprezo pela humanidade.

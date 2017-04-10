@@ -24,7 +24,7 @@ _cover: "http://ia.media-imdb.com/images/M/MV5BMjU1ODM1MzYxN15BMl5BanBnXkFtZTgwO
 ---
 O clássico problema da ótima direção não salvar um roteiro ruim. E, neste caso, o roteiro consegue construir a história mais fraca desde que "X-Men: O Filme" (do mesmo Bryan Singer, em 2000) deu à luz à série.
 
-O nível de mega-catástrofes nesses filmes vem crescendo vertiginosamente, o que acaba por tornar os cenários os reais inimigos dos heróis. Utilizando matte paintings rebuscados, mas cada vez mais plásticos e carentes de criatividade, o pelotão de artistas digitais aumenta cada vez mais nos créditos finais.
+O nível de mega-catástrofes nesses filmes vem crescendo vertiginosamente, o que acaba por tornar os cenários os reais inimigos dos heróis. Utilizando "matte paintings" rebuscados, mas cada vez mais plásticos e carentes de criatividade, o pelotão de artistas digitais aumenta cada vez mais nos créditos finais.
 
 E a mesma coisa pode-se dizer do pelotão de heróis e vilões, que aqui ainda possuem a problemática de, por serem mutantes, exigir poderes especiais, que por sua vez exigem cada vez mais usos originais de combiná-los. Se essa necessidade foi muito bem utilizada em Dias de Um Futuro Esquecido, que até então ocupava a posição de X-Men menos excelente -- ainda sendo ótimo -- aqui eles soam repetitivos em segundo, terceiro e quarto atos que não terminam nunca.
 

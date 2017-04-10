@@ -31,6 +31,6 @@ Mesmo assim, o Volume 1 levanta algumas questões que ficam sem ser respondidas,
 
 Mesmo apelando para violência gratuita, ela é estilizada e se torna menos visceral que em Cães de Aluguel ou mesmo Pulp Fiction. O anime, além do seu aspecto agressivamente expressivo, já explora o absurdo das mortes e do sangue jorrando das vítimas de golpes de espada, um efeito que se repetirá no próprio filme, dando uma espécie de prévia do surrealismo que presenciaremos nas lutas do Japão. Da mesma forma o som segue o repertório de filmes do gênero, com a espada fazendo barulho de lâmina sempre que é manuseada, ou a cabeça de um louco 88 mexendo e fazendo barulho de eco.
 
-O plano-sequência do filme, apesar de artificial e soar sem propósito, possui uma técnica primorosa, pois precisa mudar de foco para acompanhar o movimento do cenário, pois não há um personagem único atrás das câmeras. E o surrealismo das cenas de luta do restaurante é incrementado pelo tom cerimonioso da própria luta e da situação de todos.
+A grande sequência do filme, apesar de artificial e soar sem propósito, possui uma técnica primorosa, pois precisa mudar de foco para acompanhar o movimento do cenário, pois não há um personagem único atrás das câmeras. E o surrealismo das cenas de luta do restaurante é incrementado pelo tom cerimonioso da própria luta e da situação de todos.
 
 Infelizmente, por ordens comerciais, o filme foi mutilado em dois e lançado em um espaço de meses no cinema. Isso torna a experiência frustrante, mas não o filme, se visto como um todo.

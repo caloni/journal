@@ -25,7 +25,7 @@ _cover: "http://ia.media-imdb.com/images/M/MV5BMTUxNjk0NTczMV5BMl5BanBnXkFtZTgwN
 ---
 Esse filme consegue nos convencer a assisti-lo simplesmente com uma simples premissa: olhe para esse homem e veja o que ele faz.
 
-Para atingir esse objetivo, nos mesmos moldes de Birdman, o diretor estreante László Nemes utiliza as mesmas técnicas de plano-sequência e câmera subjetiva, o que significa na linguagem leiga que iremos ter pouquíssimos cortes e olharmos aquela realidade através do ponto de vista do personagem.
+Para atingir esse objetivo, nos mesmos moldes de Birdman, o diretor estreante László Nemes utiliza as mesmas técnicas de sequência sem cortes (plano-sequência) e câmera andando atrás do personagem (câmera subjetiva), o que significa na linguagem leiga que iremos ter pouquíssimos cortes e olharmos aquela realidade através do ponto de vista do personagem.
 
 Roteirizado como um jogo de video game em primeira pessoa, aqueles que o jogador visita todas as fases, a história de Saul é simples: acabando de morrer seu suposto filho nos campos de concentração nazista, seu único objetivo na vida agora é conseguir para ele um enterro como se deve, o que exige a presença de um rabino, o qual ele sai em busca por todos os grupos de judeus escravizados para exterminar seu próprio povo.
 

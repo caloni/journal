@@ -28,9 +28,9 @@ Com o uso de um elenco afinado, a ação se desenrola com diálogos rápidos e, 
 
 O diálogo inicial representa a rapidez com que temas são discutidos, muitas vezes mais de um ao mesmo tempo, e com que rapidez esses mesmos temas são trocados, um sinal dos devaneios típicos de quem usa a tecnologia no dia-a-dia.
 
-Ele não percebe que seu amigo descobre que ele terminou com a namorada pois estava blogando desesperadamente naquela noite em que desenvolvia o facematch.
+Ele não percebe que seu amigo descobre que ele terminou com a namorada pois estava blogando desesperadamente naquela noite em que desenvolvia o Facematch.
 
-Há um paralelo inicial entre dois cenários: o quarto dos hackers criando o facematch e o prédio da irmandade exclusiva onde está ocorrendo uma das festas vip.
+Há um paralelo inicial entre dois cenários: o quarto dos hackers criando o Facematch e o prédio da irmandade exclusiva onde está ocorrendo uma das festas vip.
 
 Esse paralelo também é usado durante todo o filme para ressaltar os pontos da história com o processo (processo aqui significa o jurídico) em desenvolvimento.
 

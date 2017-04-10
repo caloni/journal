@@ -24,7 +24,7 @@ _cover: "http://ia.media-imdb.com/images/M/MV5BMTgwMzUxMjc0M15BMl5BanBnXkFtZTcwM
 ---
 Você irá rir pelos motivos errados. Este é um filme que apresenta a realidade de um escritor de Hollywood quando ele decide escrever um roteiro com sete psicopatas e zero violência. Não há a menor surpresa que ele não irá conseguir.
 
-Apenas imagine a mente de um escritor populada pelos seus personagens, que insistem em não se encaixar no seu filme. No entanto, quando começamos a assistir um filme com esse nome onde o palco é Hollywood, se torna imperativo que armas, mortes por vingança, máfia e todo tipo de golpe esteja em pauta. E quando isso de fato acontece, é como se tudo isso não se encaixasse.
+Apenas imagine a mente de um escritor habitada pelos seus personagens, que insistem em não se encaixar no seu filme. No entanto, quando começamos a assistir um filme com esse nome onde o palco é Hollywood, se torna imperativo que armas, mortes por vingança, máfia e todo tipo de golpe esteja em pauta. E quando isso de fato acontece, é como se tudo isso não se encaixasse.
 
 Não por acaso. O roteirista (e diretor), Martin McDonagh ("Na Mira do Chefe"), faz parte do filme, na forma de um Colin Farrell um tanto apagado e mais observador. Ele está vivenciando o processo de criação, e te convida a participar. Mas seu amigo (Sam Rockwell, ótimo) é um idiota, chama sua namorada de vadia e está envolvido em um esquema de sequestro de cães que irá levar ainda mais complicações para sua vida. Ao mesmo tempo, ele tenta colocar tudo isso de lado e se concentrar para fugir dos estereótipos. Porém, ele próprio se torna um, com crise de criatividade e alcoólatra.
 

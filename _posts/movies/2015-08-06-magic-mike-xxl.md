@@ -23,7 +23,7 @@ Continuação que pretende sempre fazer uma cena de reencontro com todo mundo do
 
 Mike (Channing Tatum) está construindo seu sonho de móveis sob encomenda, já tem um funcionário, mas recebe a visita na cidade da velha gangue sem Dallas, o Mestre de Cerimônias original interpretado pela alma do filme anterior, Matthew McConaughey (Mike era o corpo). Como está separando da mulher, resolve ir em uma convenção de strippers com a galera e fazer o último show. Acabou a história.
 
-O resto são sequências inspiradas em video-clipes de boy bands dos anos 90, de onde surge uma das melhores sequências do ano envolvendo Backstreet Boys, uma garrafa de água e doritos. Protagonizada por Joe Manganiello, que está excelente e quase conduz o filme (quisesse o roteiro irregular de Reid Carolin).
+O resto são sequências inspiradas em video-clipes de boy bands dos anos 90, de onde surge uma das melhores sequências do ano envolvendo Backstreet Boys, uma garrafa de água e um pacote de salgadinho. Protagonizada por Joe Manganiello, que está excelente e quase conduz o filme (quisesse o roteiro irregular de Reid Carolin).
 
 Tentando soar picante e uma diversão unicamente para mulheres -- e a sessão em que eu estava como único homem no meio de algumas dezenas de meninas, garotas e senhoras comprova isso-- Magic Mike recauchutado demonstra que o politicamente correto chegou aos palcos, onde vemos gordinhas se lambuzando e se derretendo por homens que nunca terão de graça. Engraçado como não perceber o óbvio: antes eram velhas, agora são gordas. Combinou melhor com o clima natureba dessa road trip?
 

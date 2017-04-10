@@ -20,7 +20,7 @@ _ratio: "1.85 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMjEyNDEwOTU0NV5BMl5BanBnXkFtZTYwNjk0NTk5._V1._SX96_SY140_.jpg"
 ---
-Arca Russa é uma experiência que, como cinéfilos que somos, devemos assistir para aprender o que uma técnica como Plano-Sequência consegue em termos de narrativa.
+Arca Russa é uma experiência que, como cinéfilos que somos, devemos assistir para aprender o que uma técnica como o plano-sequência consegue em termos de narrativa.
 
 Como seres humanos, contudo, é fato que muitos poderão (e irão) achar essa experiência um verdadeiro porre.
 

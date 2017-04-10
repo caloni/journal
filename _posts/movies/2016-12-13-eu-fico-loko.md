@@ -20,7 +20,7 @@ _fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNDNiMzkzMWItNG
 _kind: "movie"
 _cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNDNiMzkzMWItNGUyNy00NjM1LWE0MWUtYTlmYTZiMjkwNDY1XkEyXkFqcGdeQXVyNTY2MTExNjE@._V1._SX91_SY140_.jpg"
 ---
-Os youtubers começam a sair do armário. Quer dizer, isso eles já fizeram no YouTube. Agora estão entrando na porta da frente: o Cinema. Depois do clássico moderno "É Fada!" (brincadeira, nem vi), agora é hora de explorarmos a história da vida de um vlogger de sucesso. Sua idade? 22 anos. E você pensou que apenas o Justin Bieber teria seu livro biográfico parecendo um panfleto.
+Os "vloggers" começam a sair do armário. Quer dizer, isso eles já fizeram no YouTube. Agora estão entrando na porta da frente: o Cinema. Depois do clássico moderno "É Fada!" (brincadeira, nem vi), agora é hora de explorarmos a história da vida de um vlogger de sucesso. Sua idade? 22 anos. E você pensou que apenas o Justin Bieber teria seu livro biográfico parecendo um panfleto.
 
 Mas a boa notícia é que o filme é bom e interessante, apesar dos clichês trazidos da equipe acostumada a "globochanchadas" (um dos roteiristas, além de assinar "É Fada!", também assina o terrível longa-comercial S.O.S. Mulheres ao Mar). Muito provavelmente isso deve ter acontecido por causa do próprio Christian Figueiredo e suas pseudo-histórias reais, contadas no YouTube e que agora se transformaram em um roteiro de gelo. Sua avó é divertida e é divertidamente interpretada por Suely Franco. Alessandra Negrini faz a mãe de luxo do garoto, e acredita em energias e "acredite em si mesmo" (essa é a educação que Christian recebeu quando foi zombado pelos coleguinhas na natação).
 

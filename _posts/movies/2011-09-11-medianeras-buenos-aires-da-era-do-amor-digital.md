@@ -27,7 +27,7 @@ Há uma quantidade relativamente grande de metáforas sobre a cidade grande, o e
 
 A escolha de músicas a dedo torna o filme e trilha sonora elementos indissociáveis, e até os momentos de silêncio, ou a pausa do vizinho pianista são milimetricamente sincronizados para gerar esse efeito (e a mudança de tom na segunda música de certa cena é sutil o suficiente para não soar caricato, mas sim ajudar-nos na aproximação de Mariana e seus sentimentos depressivos).
 
-E ainda que a história gire em torno do casal interesse romântico, em muitos momentos o filme revela traços de nossa loucura em morar em complexos de cidade grande. A piscina lotada, por exemplo, denota a vida amontoada de pessoas desconhecidas, o que faz da vida na cidade ao mesmo tempo solitária, super-populada e barulhenta (e a briga que ocorre demonstra de maneira econômica o paradoxo da falácia da atividade saudável/relaxante).
+E ainda que a história gire em torno do casal interesse romântico, em muitos momentos o filme revela traços de nossa loucura em morar em complexos de cidade grande. A piscina lotada, por exemplo, denota a vida amontoada de pessoas desconhecidas, o que faz da vida na cidade ao mesmo tempo solitária, super-populosa e barulhenta (e a briga que ocorre demonstra de maneira econômica o paradoxo da falácia da atividade saudável/relaxante).
 
 É curioso que o filme consiga transmitir a empatia dos dois personagens, o que nos faz gostar deles como um casal antes mesmo que eles se encontrem (e a torcida para que isso ocorra parece aumentar a cada "encontro casual"). Também é significativo que, enquanto pouco falam, suas descrições soam quase sempre poéticas (como a visão romântica das medianeras como parte de nossa personalidade que preferimos esconder).
 

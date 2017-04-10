@@ -35,4 +35,4 @@ O filme foi editado em um trabalho magnânimo de pinceladas dos vídeos do diret
 
 É um filme ágil sobre pessoas falando. Pode dar sono em momentos pontuais, mas dificilmente irá tirar o interesse no assunto. Pelo contrário: depois que ele acaba é que começa a discussão, uma de suas melhores virtudes.
 
-E discussão é o que nosso amigo isentão evita a todo custo, um "sacrifício" pela busca da verdade. E a verdade, é claro, está no seu filme, nas entrelinhas. Então tá.
+E discussão é o que nosso amigo "isentão" evita a todo custo, um "sacrifício" pela busca da verdade. E a verdade, é claro, está no seu filme, nas entrelinhas. Então tá.

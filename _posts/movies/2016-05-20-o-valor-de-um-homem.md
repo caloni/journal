@@ -25,7 +25,7 @@ Sim, é um filme socialista. Como poderia ser diferente, em meio a uma crise eur
 
 Porém, este filme é um pedaço de bom caminho, cinematograficamente falando. O diretor, Stéphane Brizé, sabe dialogar a respeito do ser humano, e fez o ótimo Mademoiselle Chambon com o mesmo ator. Aqui, Vincent Lindon faz Thierry, um operador de máquinas que, depois de ser demitido da fábrica onde trabalhava por longa data, procura por 15 meses uma recolocação no mercado.
 
-Só que o mercado foi dilacerado por medidas populistas. Vemos Thierry em uma entrevista, visivelmente desesperançoso. Essa desesperança o acompanha até o banco, onde sua gerente sabe tudo sobre ele, suas necessidades... e não pode fazer nada mais do que oferecer um seguro de vida. A morte, já dizia o cinema coreano, às vezes é uma saída fácil, financeiramente falando.
+Só que o mercado foi dilacerado por medidas populistas. Vemos Thierry em uma entrevista, visivelmente desesperado. Essa desespero o acompanha até o banco, onde sua gerente sabe tudo sobre ele, suas necessidades... e não pode fazer nada mais do que oferecer um seguro de vida. A morte, já dizia o cinema coreano, às vezes é uma saída fácil, financeiramente falando.
 
 Porém, este não é um filme tão óbvio, e a direção intimista de Brizé, com a câmera na mão e closes absurdos, mesmo com o zoom meio torto, entrega um trabalho baseado em saltos no tempo e espaço que vão pincelando o que o diretor acha sobre esse tema, criando um universo em que a vida não é nada fácil para os trabalhadores e para os clientes.
 

@@ -19,7 +19,7 @@ _kind: "movie"
 ---
 Esse filme brega aplica muito bem todos os clichês amadorísticos de novela, caminhando na zona de conforto de não arriscar nada além que o convencional. Às vezes dá a impressão que o filme assume que tratar de "sair do armário" é algo radical em 2016.
 
-Porém, o pior de tudo é que ele é um musical. E nós sabemos como a dublagem brasileira é péssima, ou pelo menos o design de som nos filmes. Sempre em dessincronismo total entre a boca dos atores e o som que sai das caixas, Amor em Sampa pode ser visto como um musical com licença poética, ou simplesmente um musical mal-feito.
+Porém, o pior de tudo é que ele é um musical. E nós sabemos como a dublagem brasileira é péssima, ou pelo menos o design de som nos filmes. Sempre em falta de sincronismo total entre a boca dos atores e o som que sai das caixas, Amor em Sampa pode ser visto como um musical com licença poética, ou simplesmente um musical mal-feito.
 
 Com essa exceção, temos em seu núcleo delírios de ser uma mistura de "Simplesmente Amor" com "Nova Iorque Eu Te Amo". Bruna Lombardi, que produz o filme, também escreveu seu roteiro, além de atuar como uma mulher dona de uma mega-empresa, vista como fria e implacável pelas pessoas ao seu redor. Da mesma forma, temos entre os personagens um diretor de teatro se aproveita de sua posição de autoridade para comer suas atrizes (entre elas duas melhores amigas), e ainda um caso entre um casal já passado, com filhos e casamentos no histórico, e uma cena linda envolvendo uma personagem que teve câncer de mama, além de um carismático casal de gays. Para tentar juntar o fio da meada, um taxista é o narrador onisciente e onipresente, um absurdo se não fosse uma criação quase invisível no panorama paulistano.
 

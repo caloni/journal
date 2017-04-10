@@ -20,7 +20,7 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BNjE5MzYwMzYxMF5BMl5BanBnXkFtZTcwOTk4MTk0OQ@@._V1._SX95_SY140_.jpg"
 ---
-Alfonso Cuarón (Filhos da Esperança) mostra mais uma vez saber usar os planos-sequência  longas cenas sem corte  como uma ferramenta narrativa em vez de um mero estilo exibicionista. Usando o movimento giratório da câmera para impor o ritmo e precisando de pouquíssimos cortes  e ainda assim extremamente orgânicos  somos levados a uma experiência angustiante em torno da órbita da Terra, o que me pegou despreparado e a ponto de vomitar, me segurando na cadeira da sala I-MAX como se pudesse sair flutuando de lá.
+Alfonso Cuarón (Filhos da Esperança) mostra mais uma vez saber usar as longas sequência sem cortes como uma ferramenta narrativa em vez de um mero estilo exibicionista. Usando o movimento giratório da câmera para impor o ritmo e precisando de pouquíssimos cortes  e ainda assim extremamente orgânicos  somos levados a uma experiência angustiante em torno da órbita da Terra, o que me pegou despreparado e a ponto de vomitar, me segurando na cadeira da sala I-MAX como se pudesse sair flutuando de lá.
 
 Não é exagero nenhum dizer isso, e já prevejo pessoas mais sensíveis que eu passando mal logo nos primeiros 15 minutos de cena. Tudo isso "graças" não apenas ao 3D, que constrói sua textura através do planeta Terra e das feições de Sandra Bullock, que faz o papel de Ryan, uma engenheira em missão espacial, mas ao design de som fabuloso, que traz um realismo aterrorizante ao criar um efeito no mínimo "oscarizante" ao contrapor barulho e silêncio, tornando ambos igualmente tensos. Cada detalhe sonoro se torna importante em um ambiente que carece deste.
 

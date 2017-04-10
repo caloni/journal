@@ -22,7 +22,7 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTc0Mjk3NzUyNl5BMl5BanBnXkFtZTgwNTM0ODUzNzE@._V1._SX95_SY140_.jpg"
 ---
-Thomas Vinterberg (A Caça, Submarino) parece ser um diretor obcecado em entender relações humanas. Em A Comunidade, ele nos leva para o misterioso mundo do apego emocional, nos jogando para o mundo onírico dos anos 70 e o confundindo com nossa história seres humanos convivendo com outros. No processo, ele esfrega na cara a realidade do poliamor, ou pelo menos uma de suas vertentes. Tudo bem, Vinterberg, "o sonho acabou". Mas precisava ser tão incisivo?
+Thomas Vinterberg (A Caça, Submarino) parece ser um diretor obcecado em entender relações humanas. Em A Comunidade, ele nos leva para o misterioso mundo do apego emocional, nos jogando para o mundo onírico dos anos 70 e o confundindo com nossa história seres humanos convivendo com outros. No processo, ele esfrega na cara a realidade do "poliamor", ou pelo menos uma de suas vertentes. Tudo bem, Vinterberg, "o sonho acabou". Mas precisava ser tão incisivo?
 
 A história começa quando um professor de arquitetura herda a grande casa onde viveu a infância e tem a decisão do que fazer com ela. Embalada em altos custos, a propriedade não conseguiria ser custeada por sua pequena família de três pessoas (ele, a esposa, a filha adolescente -- ou "os nossos olhos no filme"). No entanto, sua mulher, Anna, começa a desejar um pouco de mudança naquela rotina de mais de quinze anos, e sugere convidar amigos e conhecidos para dividir aquele grande espaço de convivência.
 
