@@ -22,7 +22,7 @@ Esse é um documentário que, em um tom misto de atualidade e nostalgia, conta a
 
 Usando um cantor pop (o Luciano Ligabue do título) como identidade para cada parte da história, ouvimos a opinião de vários representantes da sociedade, de uma adolescente a um padre. Há pessoas, inclusive, que passaram por momentos que gostariam de não se lembrar, como uma filha que teve o pai assassinado por ser testemunha de um crime político na empresa que trabalhava.
 
-O uso do cantor de carne e osso como elo entre a sociedade e a política não é por acaso. Como no diálogo de início das elocubrações políticas, depois de escritos os direitos dos italianos pós-guerra, o povo ativo foi aos poucos se tornando o público de um regime que cada vez mais se distanciava dos ideais da nação que acabava de renascer.
+O uso do cantor de carne e osso como elo entre a sociedade e a política não é por acaso. Como no diálogo de início das elucubrações políticas, depois de escritos os direitos dos italianos pós-guerra, o povo ativo foi aos poucos se tornando o público de um regime que cada vez mais se distanciava dos ideais da nação que acabava de renascer.
 
 Podemos dizer que, por meio desse documentário, Baària faz mais sentido do ponto de vista contextual, pois tanto este quanto aquele representam a necessidade que esse país tem de revisitar o que aconteceu e o que acontece no cenário político-econômico do povo italiano, e ambos o fazem de uma maneira similar: com enxurradas de ideologias e imagens entrecortadas do cotidiano.
 

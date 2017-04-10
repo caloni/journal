@@ -32,6 +32,6 @@ O estranho do filme fica por conta tanto de Eden e sua nova companhia estarem fa
 
 Ao mesmo tempo, cada vez que Will perde o foco o vemos impregnado de lembranças do filho. Cada cômodo da casa onde moravam remete a uma lembrança do garoto, tornando-se de certa forma impossível para ele imaginar que sua ex-esposa estivesse de fato tão bem como ela demonstra.
 
-The Invitation já seria ótimo se parasse por aí, e eu até arriscaria dizer que preferiria que ele parasse aí. No entanto, ele vai um pouco além na paranóia e o que ele revela pode não ser nada imprevisível, mas as consequências do que é revelado são interessantes per se.
+The Invitation já seria ótimo se parasse por aí, e eu até arriscaria dizer que preferiria que ele parasse aí. No entanto, ele vai um pouco além na paranoia e o que ele revela pode não ser nada imprevisível, mas as consequências do que é revelado são interessantes per se.
 
 Não se trata de nenhum grande clássico, mas para quem gosta de thriller e está cansado da mesmice dos jovens na cabana isolada, talvez goste de uma relação semelhante envolvendo pessoas que são amigas e que se encontram de vez em quando. Talvez você até goste de ideia de imaginar-se na mesma situação em seu próximo evento social. Quem sabe até onde vai a loucura alheia...

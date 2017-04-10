@@ -28,7 +28,7 @@ E a "trama" é algo que parece ter sido escrito no verso de um guardanapo e mant
 
 Não satisfeitos em criar um filme de ação menor apenas utilizando o personagem de Bruce Willis como gancho de uma série que mereceria um certo respeito por iniciar o gênero, ainda somos obrigados a engolir conceitos completamente inverossímeis a respeito de radiação, urânio e russos. A ironia é que uma produção que gasta horrores para protagonizar a destruição em massa de uma frota de veículos não se envergonhe de apresentar uma máscara que mal tapa os ouvidos como proteção contra radiação. Continuando a gafe, aparentemente existe um gás que serve como escudo instantâneo para seus efeitos. (Aposto que os japoneses matariam para obter esse gás.)
 
-Por fim, a arrogância ensaiada no iníco e citada no diálogo de um dos bandidos russos a respeito aos poucos se assemelha a um exercício de metalinguagem, pois John Moore insiste em inserir um encontro familiar final que beira o clichê (e termina como um) que ainda aposta em uma trilha grandiosa digna dos filmes de grandes aventuras e provações dos personagens.
+Por fim, a arrogância ensaiada no início e citada no diálogo de um dos bandidos russos a respeito aos poucos se assemelha a um exercício de metalinguagem, pois John Moore insiste em inserir um encontro familiar final que beira o clichê (e termina como um) que ainda aposta em uma trilha grandiosa digna dos filmes de grandes aventuras e provações dos personagens.
 
 Com certeza esse filme deve estar em algum lugar na sala de montagem, mas ficou irreconhecível na sala de projeção.
 

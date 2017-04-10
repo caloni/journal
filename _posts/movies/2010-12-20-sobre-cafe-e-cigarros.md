@@ -65,7 +65,7 @@ Revista de armas (relacionada ao resto?)
 
 Garçom insistente e impertinente (mais uma vez).
 
-Qual o signifcado geral da composição? Começamos a perceber uma certa ligação entre as histórias, ou entre o clima delas, ou algo maior.
+Qual o significado geral da composição? Começamos a perceber uma certa ligação entre as histórias, ou entre o clima delas, ou algo maior.
 
 O P&B, se não me engano, varia de esverdeado para o simples.
 
@@ -73,13 +73,13 @@ O P&B, se não me engano, varia de esverdeado para o simples.
 
 Não sabemos o objetivo das pessoas. Elas se encontram para não contar nada de mais (não há nada de errado com a minha vida, só queria ver você).
 
-Talvez o "só queria ver você" fosse uma antropomorfização do café/cigarro, sendo que não há, de fato, um motivo para vê-los, mas os personagens os vêem de qualquer jeito. Isso nos dá uma pista que talvez os personagens sejam todos assim.
+Talvez o "só queria ver você" fosse uma antropomorfização do café/cigarro, sendo que não há, de fato, um motivo para vê-los, mas os personagens os veem de qualquer jeito. Isso nos dá uma pista que talvez os personagens sejam todos assim.
 
 Aos poucos percebemos que o nível das conversas é gritantemente raso, um small talk no pior dos gêneros. Tudo para que assistamos o café e o cigarro de camarote.
 
 Na mesa, quase sempre há mais xícaras de café do que pessoas.
 
-Talvez a mesa xadrez evoce o próprio cenário que presenciamos, P&B, das pessoas em volta.
+Talvez a mesa xadrez evoque o próprio cenário que presenciamos, P&B, das pessoas em volta.
 
 ## Cousins
 
@@ -113,7 +113,7 @@ Mais uma vez são todos pessoas conhecidas no show business.
 
 A mesma história de sonhar rápido contada no primeiro curta.
 
-Bill Murray "se disfarçando" de garçom, é o que realmene fuma e bebe café compulsivamente.
+Bill Murray "se disfarçando" de garçom, é o que realmente fuma e bebe café compulsivamente.
 
 ## Champagne
 

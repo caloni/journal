@@ -32,6 +32,6 @@ Os flashbacks do protagonista e suas ideias imaginadas possuem um toque de humor
 
 Significativo que o raio encolhedor estava sendo desenvolvido no leste asiático? (e eles costumam "encolher" as invenções do ocidente)
 
-As diferenças entre o Vetor e o protagonista se fazem sentir pelo estilo clássico e antiquado do último, conforme sua casa decorada com elementos ditos "malignos" (sofá de crocodilo, poltrona de rinoceronte, porta-casacos de cobra), detalhes demodè (carpete vermelho, maçaneta decorada das portas). O primeiro, por ser mais jovem, possui aquele estilo descolado e nerd de usar coisas com curvas mais suaves (repare a diferença no design de ambas as naves) e mais da moda (ele joga um videogame que se assemelha ao Wii).
+As diferenças entre o Vetor e o protagonista se fazem sentir pelo estilo clássico e antiquado do último, conforme sua casa decorada com elementos ditos "malignos" (sofá de crocodilo, poltrona de rinoceronte, porta-casacos de cobra), detalhes démodé (carpete vermelho, maçaneta decorada das portas). O primeiro, por ser mais jovem, possui aquele estilo descolado e nerd de usar coisas com curvas mais suaves (repare a diferença no design de ambas as naves) e mais da moda (ele joga um videogame que se assemelha ao Wii).
 
 O final, que termina com com todos dançando (inclusive seu vilão) lembra filmes no estilo "poderiam ser um pouco melhor": Quem Quer ser Milionário?

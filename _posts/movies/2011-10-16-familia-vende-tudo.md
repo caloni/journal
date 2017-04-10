@@ -16,7 +16,7 @@ _genres: ["Comedy", ]
 _runtimes: ["90", ]
 _kind: "movie"
 ---
-É fato que Lima Duarte está no estado de gênio, e cada novela que participa é um desperdício do Cinema. Semelhantes comparações podem ser feitas em boa parte do elenco de Família Vende Tudo, novo longa de Alain Fresnot, que é muito afiada na interpretação de seus personagens, por mais que estes não façam sentido ou soem deslocados. E é aí que temos outro indício de desperdício, dessa vez no próprio Cinema: a capacidade de vender uma ideia divertida e fácil em uma história que sequer consegue chegar a uma conclusão sobre seu assunto central, e que desperdiça interpretações primososas em um projeto sem pé nem cabeça.
+É fato que Lima Duarte está no estado de gênio, e cada novela que participa é um desperdício do Cinema. Semelhantes comparações podem ser feitas em boa parte do elenco de Família Vende Tudo, novo longa de Alain Fresnot, que é muito afiada na interpretação de seus personagens, por mais que estes não façam sentido ou soem deslocados. E é aí que temos outro indício de desperdício, dessa vez no próprio Cinema: a capacidade de vender uma ideia divertida e fácil em uma história que sequer consegue chegar a uma conclusão sobre seu assunto central, e que desperdiça interpretações primorosas em um projeto sem pé nem cabeça.
 
 O filme, em uma forte introdução de seus personagens, mostra a família-título em sua luta diária para sobreviver, comprando mercadorias no Paraguai e revendendo-as em São Paulo, ambas atividades ilegais e que acabam por deixar a situação financeira dessas pessoas, que já não era nada boa, uma calamidade, quando perdem tudo em uma barreira policial e em um arrastão da fiscalização.
 

@@ -28,6 +28,6 @@ Seus personagens são tão críveis quanto incríveis. Um casal de uma família 
 
 O desenrolar inicial do filme se aproveita de seu enredo para criar um mistério igualmente excêntrico. Uma mulher confessando o assassinato e se sentindo aliviada, mas que se mantém atenta para as moscas que voam em sua casa. Nada faz sentido até que finalmente voltamos no tempo e a história é contada em seus detalhes essenciais. Nada no filme se perde, e tudo aos poucos vai fazendo sentido, mas um sentido ainda muito estranho.
 
-O realismo com que uma máquina de teleporte é descrita e os experimentos cada vez mais ousados de seu inventor se torna a síntese da curiosidade mórbida humana. A fotografia do filme é sóbria com cores que lembram ficção científica, mas as sombras e a trilha sonora flertam com o horror (e como não?).
+O realismo com que uma máquina de tele porte é descrita e os experimentos cada vez mais ousados de seu inventor se torna a síntese da curiosidade mórbida humana. A fotografia do filme é sóbria com cores que lembram ficção científica, mas as sombras e a trilha sonora flertam com o horror (e como não?).
 
 Talvez nossas cabeças não estejam prontas para aberrações da natureza criadas por seres racionais (no caso, nós), mesmo que por acidente. Por isso "The Fly" colabora com a arte e com a nossa percepção da realidade bizarra mais do que qualquer show contemporâneo de efeitos visuais (e digitais) que os computadores de Hollywood conseguem produzir.

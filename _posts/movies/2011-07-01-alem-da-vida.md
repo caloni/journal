@@ -20,7 +20,7 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMjE2MzU3Nzk4M15BMl5BanBnXkFtZTcwODcxNTI5Mw@@._V1._SX95_SY140_.jpg"
 ---
-Para quem não havia assistido o trailer do novo trabalho de Clint Eastwood (Menina de Ouro), tem a impressão que os conflitos do primeiro ato são apresentados de uma maneira mais impactante do que um drama seria capaz. Como o exemplo mais marcante, escolho a situação em que se encontra Marie LeLay (Cécile de France), uma jornalista de sucesso e que passa o momento mais claustofóbico do longa.
+Para quem não havia assistido o trailer do novo trabalho de Clint Eastwood (Menina de Ouro), tem a impressão que os conflitos do primeiro ato são apresentados de uma maneira mais impactante do que um drama seria capaz. Como o exemplo mais marcante, escolho a situação em que se encontra Marie LeLay (Cécile de France), uma jornalista de sucesso e que passa o momento mais claustrofóbico do longa.
 
 A disposição dos elementos do cenários, dos próprios personagens e, principalmente, dos enquadramentos utilizados fazem com que o acontecimento que está por vir se torne estarrecedor por natureza, mas não totalmente imprevisto. Toda a tensão da sequência está contida no pequeno diálogo entre Marie LeLay e seu parceiro que cria uma empatia quase automática, fruto da interpretação altamente eficiente dos dois. O movimento das águas torna a atmosfera caótica, onde nós mesmos ficamos apreensivos pela dificuldade que aparenta ser escapar de um desastre desses.
 

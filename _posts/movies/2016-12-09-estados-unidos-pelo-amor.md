@@ -26,7 +26,7 @@ O filme é abordado em quatro história que se cruzam, tanto por serem de person
 
 Mas o amor, se tenta ser desvendado por diálogos repetitivos no decorrer da história, logo se revela a ingenuidade dessa busca incessante, de uma maneira divertida e ainda assim trágica: durante uma leitura de uma poesia por um professor, ele começa a conjecturar sobre o amor, quando um aluno intervém, perguntando se o professor já havia feito sexo.
 
-A teoria e a prática se contradizem neste filme. Uma mulher dona de casa se apaixona pelo padre do vilarejo, e tenta usar o sexo com o marido para estravasar seus desejos mais espúrios. A incomunicabilidade com seu marido parece ser fruto do desejo pelo padre.
+A teoria e a prática se contradizem neste filme. Uma mulher dona de casa se apaixona pelo padre do vilarejo, e tenta usar o sexo com o marido para extravasar seus desejos mais espúrios. A incomunicabilidade com seu marido parece ser fruto do desejo pelo padre.
 
 Já a luxúria dá lugar ao luto e faz com que uma amante se desespere até o nível mais baixo do ser humano. Justo ela, que está em uma das posições mais altas daquela sociedade -- movida não pela excelência, mas por contatos e um status quo estático.
 

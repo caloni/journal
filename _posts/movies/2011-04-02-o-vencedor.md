@@ -28,7 +28,7 @@ Cortes ritmados e de precisão cirúrgica aumentam o tom documental para algo ma
 
 Cortes que usam música e som conseguem cortar com um efeito sonoro, como o gongo do ringue, sem soar clichê.
 
-A fotografia ajuda tanto em reforçar o realismo fora dos ringues, aplicando uma granuralidade, quanto nas lutas decisivas, pela diminuição da resolução e pequenas "falhas" de transmissão (e o fato da resolução ser sofrível nos remete às TVs que sua família usa para assistir às lutas, fato ligado por um belíssimo corte para fora da cena e dentro de outra cena, a casa da mãe, de onde a imagem é colocada apenas "referenciada" pela fotografia).
+A fotografia ajuda tanto em reforçar o realismo fora dos ringues, aplicando uma granularidade, quanto nas lutas decisivas, pela diminuição da resolução e pequenas "falhas" de transmissão (e o fato da resolução ser sofrível nos remete às TVs que sua família usa para assistir às lutas, fato ligado por um belíssimo corte para fora da cena e dentro de outra cena, a casa da mãe, de onde a imagem é colocada apenas "referenciada" pela fotografia).
 
 A forma como Micky ganha sua última luta antes de disputar o título com ajuda da dica do irmão é essencial, pois restabelece a ligação entre eles antes mesmo de Dicky sair da prisão (e a forma dele "assistgir" a luta é igualmente importante, pois simboliza a união daquela controvertida família).
 

@@ -26,6 +26,6 @@ Não é exagero nenhum dizer isso, e já prevejo pessoas mais sensíveis que eu 
 
 Mas como nos levar a suportar tudo aquilo por tanto tempo? Primeiramente com a esperança de salvação, que flutua em torno da nossa heroína e se torna cada vez mais escassa, assim como o oxigênio  além da referência religiosa de Cuarón. Em segundo, temos a identificação com a engenheira Ryan, cujo conhecimento para lidar com emergências no espaço não é muito, ou indefinido, para nós. É como se a cada novo desafio nos testassem novamente (ou a ela, tanto faz). E a cada acerto vibrássemos por nós mesmos, como se estivéssemos logo do lado dela, tentando escapar daquele terror solitário.
 
-Parte da sensação angustiante/nauseante existe por causa do uso da câmera, que nos coloca em primeira pessoa a cada novo desafio. A outra parte reside em nós mesmos e à nossa construção de um ambiente sem muitas referências em volta, e portanto, paradoxalmente claustofóbico. O que faríamos numa situação dessas? Provavelmente a construção desse suspense reside no próprio Cinema e sua capacidade de simular a vontade humana de sobreviver.
+Parte da sensação angustiante/nauseante existe por causa do uso da câmera, que nos coloca em primeira pessoa a cada novo desafio. A outra parte reside em nós mesmos e à nossa construção de um ambiente sem muitas referências em volta, e portanto, paradoxalmente claustrofóbico. O que faríamos numa situação dessas? Provavelmente a construção desse suspense reside no próprio Cinema e sua capacidade de simular a vontade humana de sobreviver.
 
 

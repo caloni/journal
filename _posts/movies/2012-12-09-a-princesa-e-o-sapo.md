@@ -19,7 +19,7 @@ _ratio: "1.85 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMjEyOTQ5NzAzNl5BMl5BanBnXkFtZTcwMTcyNTU1Mg@@._V1._SX90_SY140_.jpg"
 ---
-Última animação em 2D da Disney e primeira princesa negra, a ideia que a produtora norte-americana de animações quis passar foi de uma mulher independente, Tiana (Anika Noni Rose), que sonha em construir um restautante que era um sonho do seu finado pai. Ela mora em Nova Orleans, e possui uma amiga branca, Charlotte (Jennifer Cody), que, rica, sonha em se casar com um príncipe.
+Última animação em 2D da Disney e primeira princesa negra, a ideia que a produtora norte-americana de animações quis passar foi de uma mulher independente, Tiana (Anika Noni Rose), que sonha em construir um restaurante que era um sonho do seu finado pai. Ela mora em Nova Orleans, e possui uma amiga branca, Charlotte (Jennifer Cody), que, rica, sonha em se casar com um príncipe.
 
 Quando surge em cena o Príncipe Naveen (Bruno Campos), que possui problemas financeiros e deve usar sua nobreza para se acertar em um casamento, toda a sociedade da cidade Sulista se agita, inclusive o Dr. Facilier (Keith David) que utiliza magias e encantamentos para capturar o príncipe e o transformá-lo em um sapo, usando seu insatisfeito criado, Lawrence (Peter Bartlett), para tomar o seu lugar. O conflito se estabelece quando, ao beijar Tiana, julgando erroneamente que ela fosse uma princesa, ela também se transforma, e ambos precisam juntos encontrar uma solução para seu pequeno problema.
 

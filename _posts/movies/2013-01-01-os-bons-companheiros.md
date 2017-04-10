@@ -19,7 +19,7 @@ _ratio: "1.85 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMTY2OTE5MzQ3MV5BMl5BanBnXkFtZTgwMTY2NTYxMTE@._V1._SX94_SY140_.jpg"
 ---
-A primeira sequência de Os Bons Companheiros começa com os personagens de Robert de Niro (James Conway), Ray Liotta (Henry Hill) e Joe Pesci (Tommy DeVito) tendo que parar o carro para dar fim ao corpo que ainda insistia em manter-se vivo no porta-malas. A violência gráfica com que isso ocorre é sanguinária tanto na luz quanto no ato que ocorre na traseira do veículo. Quando acompanhamos o crescimento de Henry entre os gângsters e voltamos novamente a essa cena é como se fizéssemos já parte do grupo: da gangue e da família que estes formam.
+A primeira sequência de Os Bons Companheiros começa com os personagens de Robert de Niro (James Conway), Ray Liotta (Henry Hill) e Joe Pesci (Tommy DeVito) tendo que parar o carro para dar fim ao corpo que ainda insistia em manter-se vivo no porta-malas. A violência gráfica com que isso ocorre é sanguinária tanto na luz quanto no ato que ocorre na traseira do veículo. Quando acompanhamos o crescimento de Henry entre os gângsteres e voltamos novamente a essa cena é como se fizéssemos já parte do grupo: da gangue e da família que estes formam.
 
 Não há limites para a violência filmada por Scorsese, mas há sempre um motivo muito claro para ela acontecer, nem que seja um acesso de raiva de Tommy, que, já sabemos, parece explodir pelo menor dos motivos de uma hora para outra. O interessante é acompanhar como Henry encara a impulsividade de Tommy, pois esta é a história de um homem que pertence ao grupo dos "Goodfellas", mas parece manter um dos olhos abertos.
 

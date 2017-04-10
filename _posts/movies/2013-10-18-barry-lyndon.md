@@ -27,6 +27,6 @@ Sem nunca passar esse efeito de deslumbramento de estarmos dentro de uma máquin
 
 Curioso começa a ser a opinião do narrador, que entrega o mérito da escalada de Lyndon ao topo a ele mesmo, quando o que vemos é uma sequência totalmente caótica que graças a algumas coincidências o leva a sua posição privilegiada naquela sociedade. O sarcasmo e cinismo de Kubrick é detectável por diversos caminhos, mas todos eles são indissociáveis daquela narrativa que parece ser o caminho natural para entendermos aquele mundo.
 
-O que dizer de sua visão cruel da guerra, ou das consequencias de um tiro para aquela medicina trqgicamente precária? Nada pode ser mais cínico do que a visão afastada desse anti-herói, que prefere não julgar, pois prefere contar suas aventuras tal como o leríamos nos livros de história. Se isso por si só não é o maior sarcasmo do filme, não sei o que é.
+O que dizer de sua visão cruel da guerra, ou das consequências de um tiro para aquela medicina tragicamente precária? Nada pode ser mais cínico do que a visão afastada desse anti-herói, que prefere não julgar, pois prefere contar suas aventuras tal como o leríamos nos livros de história. Se isso por si só não é o maior sarcasmo do filme, não sei o que é.
 
 

@@ -24,4 +24,4 @@ Gosto bastante de Depois do Casamento. Seu tom visceral e sua câmera na mão mo
 
 O que funciona melhor nesse longa é que ele não deseja entregar as respostas, mas destrinchar as perguntas. Como um thriller, é eficiente. Como suspense, não há um momento de calmaria. Exceto, claro, os momentos que a diretora escolhe para passar o tempo e nos dar tempo de pensar: o movimento das águas de um lago frente ao lar do casal principal, ou o movimento dos pássaros nesse mesmo lago. É curioso pensar que a culpa mortal que consome o protagonista, Andreas (Nikolaj Coster-Waldau), é por um ato que para os outros animais é uma atitude natural. Louvável, até.
 
-Com uma fotografia deslumbrante e triste de Michael Snyman e uma trilha sonora enebriante de Johan Söderqvist. A música-tema que toca nos créditos finais (não consegui achar seu nome, nem seu autor), é imperdível.
+Com uma fotografia deslumbrante e triste de Michael Snyman e uma trilha sonora inebriante de Johan Söderqvist. A música-tema que toca nos créditos finais (não consegui achar seu nome, nem seu autor), é imperdível.

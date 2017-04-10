@@ -26,7 +26,7 @@ Acompanhamos essa história através dos olhos de Katniss Everdeen (Jennifer Law
 
 E não há o que reclamar: o design de arte da produção é detalhista em tornar aquele mundo tão fascinante quanto impessoal. Note os largos aposentos (como o quarto de Katniss) sendo usados meramente como artefatos de exibição do poder que é esbanjado por aquelas pessoas.
 
-Ainda que o foco da história fosse justamente os tais jogos é o acompanhamento deles pelso que estão de fora que se torna mais interessante no decorrer da jornada, como podemos notar pelo dramático momento da morte de um personagem que gera uma convulsão popular que não apenas enriquece a trama como dá pistas do que pode vir a ser os outros filmes.
+Ainda que o foco da história fosse justamente os tais jogos é o acompanhamento deles pelos que estão de fora que se torna mais interessante no decorrer da jornada, como podemos notar pelo dramático momento da morte de um personagem que gera uma convulsão popular que não apenas enriquece a trama como dá pistas do que pode vir a ser os outros filmes.
 
 O jogo da manipulação da mente, cada vez mais fraca.
 

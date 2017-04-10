@@ -28,4 +28,4 @@ Tudo gira em torno de uma história simples (até demais): um parque de diversõ
 
 Feito em stop motion, como animação não há desculpas: ela é rasa, com vários momentos confusos em que o movimento dos personagens e do cenário se tornam pedestres demais para entender o que está acontecendo.
 
-Dirigido porcamente por Tom Gianas e Ross Shuman (esse último resposável por Frango Robô, o que pelo menos explica o humor), detalhes até interessantes do inferno, como um bonde aéreo que se move por engrenagens que movimentam braços, são mostrados de passagem e sem qualquer interesse. Não há nada mais irritante em uma direção do que o desleixo de um universo mais interessante do que o que estamos vendo.
+Dirigido porcamente por Tom Gianas e Ross Shuman (esse último responsável por Frango Robô, o que pelo menos explica o humor), detalhes até interessantes do inferno, como um bonde aéreo que se move por engrenagens que movimentam braços, são mostrados de passagem e sem qualquer interesse. Não há nada mais irritante em uma direção do que o desleixo de um universo mais interessante do que o que estamos vendo.

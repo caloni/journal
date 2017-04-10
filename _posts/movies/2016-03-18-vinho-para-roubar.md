@@ -27,4 +27,4 @@ E esse risco de encontra no roteiro, na direção e na trilha sonora. O roteiro 
 
 Por fim, para os conhecedores e apreciadores de vinhos, mesmo os mais leigos, a trama não poderia soar mais artificial. Qualquer um habituado com o processo de envelhecimento do vinho sabe que ele deve ser feito em um ambiente seco de temperatura controlada e no máximo por uma ou duas décadas. Peças de museu existem, claro, mas não são bebidas: são guardadas, eternamente.
 
-Aliás, foi minha última visita à cidade que me fez ver o filme, que estreou na Netflix. O motorista do passeio guiado pelas vinícolas fez uma ponta nesse filme e deu os detalhes da produção (não o encontrei, uma pena). Se o objetivo era apresentar Mendoza através de uma trama chamativa que envolvesse o mundo do vinho, essa degustação ficou só na vontade.
+Aliás, foi minha última visita à cidade que me fez ver o filme, que estreou na Netflix. O motorista do passeio guiado pelas viníciolas fez uma ponta nesse filme e deu os detalhes da produção (não o encontrei, uma pena). Se o objetivo era apresentar Mendoza através de uma trama chamativa que envolvesse o mundo do vinho, essa degustação ficou só na vontade.

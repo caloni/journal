@@ -28,4 +28,4 @@ Esse tipo de filme faz sucesso com o público cativo de streaming. Ele é fácil
 
 No meio do caminho, como podem imaginar, encontram algumas pessoas. Duas, para ser exato. Essas pessoas representarão algo que cada um deles gostaria de ter para voltarem a viver "em paz". O resto é usado para encher linguiça e ocupar uma hora e meia de episódio.
 
-E temos mais um produto simples, rápido e fácil da produtora de streamming. Próximo!
+E temos mais um produto simples, rápido e fácil da produtora de streaming. Próximo!

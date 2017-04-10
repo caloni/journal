@@ -27,7 +27,7 @@ A história é que uma família de ursos vivia feliz em uma floresta no Peru at�
 
 Até que uma doce família de pai, mãe e três filhos aparece à sua frente. A piedosa mãe logo resgata-o para sua casa, o que gera a preocupação do pai super-protetor, que desde que teve o primeiro filho mudou radicalmente seu estilo de vida. O filme é uma coletânea de momentos fáceis de entender com uma direção de arte bonita e refinada que dá cor e vida aos momentos cômicos com o urso, que é bem atrapalhado. Em muitos momentos o uso de cores bem fortes lembra o igualmente bem-sucedido O Pequeno Nicolau, ainda mais pelo seu aspecto lúdico.
 
-A comédia do filme está intrinsecamente ligada aos efeitos visuais e invencionisses criativas do diretor Paul King e ao pequeno milagre que são as expressões particularmente humanas do ursinho criado em CGI, onde o que mais impressiona são seus pelos e suas diversas variações (molhado, seco, arrepiado).
+A comédia do filme está intrinsecamente ligada aos efeitos visuais e invencionices criativas do diretor Paul King e ao pequeno milagre que são as expressões particularmente humanas do ursinho criado em CGI, onde o que mais impressiona são seus pelos e suas diversas variações (molhado, seco, arrepiado).
 
 Outra característica interessante do longa é que a vilã é protagonizada por Nicole Kidman. Ela é uma crazy bitch que adora empalar animais, e descobre que um novo urso está na cidade.
 

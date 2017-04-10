@@ -20,7 +20,7 @@ _ratio: "1.85 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMjEyMDM2OTc3NV5BMl5BanBnXkFtZTcwMzg1NzUyNQ@@._V1._SX100_SY56_.jpg"
 ---
-Esse drama-terror concebido e dirigido por Juliana Rojas e Marco Dutra (esse, um dos roteiristas do recente Meu País) busca evitar se posicionar claramente no sobrenatural, mas dá uma gélida impressão durante toda a trama que é extamente com isso que estamos lidando, ainda que não seja dito ou declarado. E é esse o detalhe mais aterrorizante de todo o longa.
+Esse drama-terror concebido e dirigido por Juliana Rojas e Marco Dutra (esse, um dos roteiristas do recente Meu País) busca evitar se posicionar claramente no sobrenatural, mas dá uma gélida impressão durante toda a trama que é exatamente com isso que estamos lidando, ainda que não seja dito ou declarado. E é esse o detalhe mais aterrorizante de todo o longa.
 
 Concebida sua introdução em moldes tradicionais ? como pode-se notar nos detalhes triviais de uma casa ou até mesmo do armazém recém-inaugurado ?, o filme conta a história de Helena (Albergaria), Otávio (Descartes) e da pequena Vanessa, uma família que passa por apuros financeiros decorrentes da recente demissão do pai, e que tem a partir daí a figura da mãe como predominante, pois esta pretende abrir um armazém de bairro em um local antes abandonado pelos antigos comerciantes.
 

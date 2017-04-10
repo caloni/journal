@@ -32,4 +32,4 @@ Até porque são episódios longos, que exigem que acompanhemos toneladas de ref
 
 Curioso como o que fascina mais as pessoas por trás da série, aparentemente, são as infinitas referências de trabalhos, esses sim, muito mais ambiciosos em explorar um tema. O tema por trás da série é explorar o que os usuários do serviço de streaming gostariam de ver. Claro que não há nada de errado nisso. Se houvesse, não teríamos um House of Cards no meio disso tudo.
 
-Mas para casa House of Cards ou Sense 8 é necessário produzir vários Stranger Things. É a lei da mediocridade fazendo efeito. Não se produz bom conteúdo artístico apenas seguindo um algoritmo. Mas, seguindo um algoritmo, há chances de se produzir algo que o valha. Tanta chance quanto produzir contéudo autêntico. É a audiência, estúpido!
+Mas para casa House of Cards ou Sense 8 é necessário produzir vários Stranger Things. É a lei da mediocridade fazendo efeito. Não se produz bom conteúdo artístico apenas seguindo um algoritmo. Mas, seguindo um algoritmo, há chances de se produzir algo que o valha. Tanta chance quanto produzir conteúdo autêntico. É a audiência, estúpido!

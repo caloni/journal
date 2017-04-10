@@ -26,7 +26,7 @@ O menino Fernando Ramos da Silva fez sua estreia no Cinema interpretando uma fig
 
 O filme dirigido por Hector Babenco carrega influências do neorealismo italiano, empregando muitos moradores da região onde as cenas foram filmadas, em São Paulo e no Rio de Janeiro.
 
-Uma introdução inserida antes dos créditos iniciais explica sobre a miséria de boa parte da população do Brasil, e como isso levou à lei que protege pessoas menores de 18 anos de terem ficha criminal e penas mais pesadas, o que gerou a consequência de elas serem usadas como joguetes no mundo do crime, já que se forem pegas, sua pena será signitivamente menor que um criminoso mais velho.
+Uma introdução inserida antes dos créditos iniciais explica sobre a miséria de boa parte da população do Brasil, e como isso levou à lei que protege pessoas menores de 18 anos de terem ficha criminal e penas mais pesadas, o que gerou a consequência de elas serem usadas como joguetes no mundo do crime, já que se forem pegas, sua pena será significativamente menor que um criminoso mais velho.
 
 A primeira metade do filme é usada para descrever sem muitas meias-palavras a realidade desses jovens "de menor", pegos pela polícia. Trancafiados da FEBEM, antigo reformatório da cidade, saem da função de joguetes de criminosos para virarem joguetes dos policiais, usados como seres descartáveis cuja única função é servir aos seus propósitos corruptos.
 

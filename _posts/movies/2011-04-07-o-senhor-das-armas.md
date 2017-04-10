@@ -34,7 +34,7 @@ Mesmo com um tropeço aqui e ali, a direção consegue destacar as característi
 
 Ao mesmo tempo, as narrações em off conseguem na maioria do tempo harmonizar com a ação, que não é pouca. O próprio uso dessas transições entre as regiões serve como continuidade da própria história, em um ótimo exemplo de economia narrativa.
 
-Ao evitar computação, principalmente em cenas como o pouso do avião, ou até mesmo os tanques enfileirados na entrada da Ucrânia, torna toda a experiência mais realista. Houve um trabalho igualmente recompensado em escalar figurantes locais, que se adequam ao cenário como nunca, como a cena em que vemos uma velha senhora enfileirando os ladrinhos de uma rua. Ao mesmo tempo, nota-se a competência em tentar encaixar a melhor fotografia e trilha sonora com o momemtum do personagem.
+Ao evitar computação, principalmente em cenas como o pouso do avião, ou até mesmo os tanques enfileirados na entrada da Ucrânia, torna toda a experiência mais realista. Houve um trabalho igualmente recompensado em escalar figurantes locais, que se adequam ao cenário como nunca, como a cena em que vemos uma velha senhora enfileirando os ladrilhos de uma rua. Ao mesmo tempo, nota-se a competência em tentar encaixar a melhor fotografia e trilha sonora com o momentum do personagem.
 
 Mesmo com todas essas virtudes técnicas, a filosofia (ou a mensagem) por trás da história é o ponto forte do longa, que consegue, em seus momentos finais, causar o que todos esperamos ao assistir um bom filme: reflexão.
 

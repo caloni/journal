@@ -36,7 +36,7 @@ Esse paralelo também é usado durante todo o filme para ressaltar os pontos da 
 
 Adotando uma posição imparcial, mesmo que a maior parte do tempo seja focada na história do criador do saite, fica claro que o objetivo não é determinar quem está com a razão, mas sim em demonstrar como as relações sociais podem ser frágeis.
 
-A situação da fama chega a ser tão ridícula que o próprio fato deles serem os criadores de um saite que permite que as pessoas se relacionem aparentemente vira um motivo para que eles tenham um ou mais "grupies".
+A situação da fama chega a ser tão ridícula que o próprio fato deles serem os criadores de um saite que permite que as pessoas se relacionem aparentemente vira um motivo para que eles tenham um ou mais "grupes".
 
 O tom do processo também tem seus momentos ridículos, como o detalhe de um trote envolvendo uma galinha ter ido parar nos autos de defesa .
 

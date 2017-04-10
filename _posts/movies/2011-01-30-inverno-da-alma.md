@@ -20,7 +20,7 @@ _ratio: "1.85 : 1"
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMjA0OTM3MDMxNF5BMl5BanBnXkFtZTcwMDY1MjI0Mw@@._V1._SX94_SY140_.jpg"
 ---
-O filme todo gira em torno da história da filha mais velha de uma família problemática que ainda por cima precisa encontrar o pai, pois este fiançou a casa onde moram e, se não comparecer ao tribunal no dia estabelecido, eles serão despejados.
+O filme todo gira em torno da história da filha mais velha de uma família problemática que ainda por cima precisa encontrar o pai, pois este afiançou a casa onde moram e, se não comparecer ao tribunal no dia estabelecido, eles serão despejados.
 
 As duas primeiras coisas que sobressaem é a determinação da protagonista e a fotografia sombria, de um azul obscuro, que retrata o clima sem esperanças da jovem batalhadora.
 

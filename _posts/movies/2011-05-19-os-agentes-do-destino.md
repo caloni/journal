@@ -22,7 +22,7 @@ _cover: "http://ia.media-imdb.com/images/M/MV5BMTU3ODg3MDAxMl5BMl5BanBnXkFtZTcwM
 ---
 Em uma época em que religião e economia precisam ser reinventadas, a visão mesclada de ambas em uma organização fria e calculista não deixa de ser no mínimo curiosa. Porém, mais do que isso é constatarmos que os homens sisudos do filme têm por função coordenar algo que para nós, seres humanos, especialmente em tempos de crise, é sabidamente a única coisa de que realmente somos donos: o livre arbítrio.
 
-Sabendo disso, e ainda de bônus o fato do personagem de Matt Damon ser um político popular, jovem e em ascenção, mas que ao mesmo tempo se questiona sobre suas prioridades, conseguimos, desde o iníco, um filme que aborda discussões pelo menos um passo adiante sobre algumas de nossas principais convicções sociais.
+Sabendo disso, e ainda de bônus o fato do personagem de Matt Damon ser um político popular, jovem e em ascenção, mas que ao mesmo tempo se questiona sobre suas prioridades, conseguimos, desde o início, um filme que aborda discussões pelo menos um passo adiante sobre algumas de nossas principais convicções sociais.
 
 De forma que, quando vemos o discurso de David Norris (Damon), refeito na hora de improviso, que estigma desde já o nosso conceito de espontaneidade, explicando para um público completamente hipnotizado pelo seu poder de comunicação como os sapatos que ele calçou durante a campanha são desgastados meticulosamente para que ao mesmo tempo atraia o trabalhador comum e não afaste a elite do mundo financeiro, somos levados através de um pano de fundo realista para uma experiência no mínimo intrigante sobre o funcionamento da nossa própria realidade.
 

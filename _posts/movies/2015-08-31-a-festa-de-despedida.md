@@ -24,7 +24,7 @@ Fui ver a cabine desta ótima comédia dramática Israelita/Alemã que fala sobr
 
 Enfim, o tema aqui é discutido sob o ponto de vista dos casais idosos, onde um deles geralmente tem uma doença terminal e ambos -- o suicida primeiro, claro -- decidem pelo fim de sua vida. O filme gira em torno de Yehezkel, um inventor de tranqueiras mecânicas, e sua esposa Levana, que sofre de Alzheimer. Conforme Levana vai se esquecendo das coisas e colocando a sua vida em risco, a questão de se internar fica mais eminente.
 
-No entanto, é a situação de um amigo querido do casal que faz com que Yehezkel desenvolva uma máquina de eutanásia: um equipamento que o paciente pressiona um botão e uma dose letal o faz entrar em coma e morrer. Antes que acusem o filme de ser original, é preciso lembrar que essas máquinas já existiam, mas não são mais usadas ou fabricadas (apesar de vários países já legarizarem o suicídio assistido).
+No entanto, é a situação de um amigo querido do casal que faz com que Yehezkel desenvolva uma máquina de eutanásia: um equipamento que o paciente pressiona um botão e uma dose letal o faz entrar em coma e morrer. Antes que acusem o filme de ser original, é preciso lembrar que essas máquinas já existiam, mas não são mais usadas ou fabricadas (apesar de vários países já legalizarem o suicídio assistido).
 
 Como em toda comunidade idosa, a notícia logo se espalha e todos agora querem emprestar a tal máquina, fazendo girar a história dos diretores e roteiristas Tal Granit e Sharon Maymon e abordar temas diferentes em torno do mesmo assunto: matar seu companheiro de toda a vida é uma forma digna de despedida, mas e a dúvida que fica?
 

@@ -34,7 +34,7 @@ O sobrenome da família é colocado como placa na frente na porta. Não sei se �
 
 É significativo que a hora que os dois se juntam, sobre o terraço, a câmera foque debaixo de um coberto, e eles estão contra a luz; portanto, no escuro para a câmera.
 
-Por muitas vezes ouvimos diálogos memoráveis, bons demais para estarem na boca de pessoas comuns, mas considerando que a maioria deles são pronunciadas por Mastroiani entendemos sua cultuta mais sofisticada: "Um bom homem deve ser pai, marido e soldado; eu não sou nem marido, nem pai, nem soldado", diz ele ao revelar sua homossexualidade.
+Por muitas vezes ouvimos diálogos memoráveis, bons demais para estarem na boca de pessoas comuns, mas considerando que a maioria deles são pronunciadas por Mastroiani entendemos sua cultua mais sofisticada: "Um bom homem deve ser pai, marido e soldado; eu não sou nem marido, nem pai, nem soldado", diz ele ao revelar sua homossexualidade.
 
 O tapa que ela dá na face dele também é dado na mesma contraluz do terraço. E acompanhamos a descida pela escada deles por uma câmera de fora, que desliza pelos andares rapidamente.
 

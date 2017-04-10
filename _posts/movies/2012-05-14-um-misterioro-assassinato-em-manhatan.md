@@ -25,7 +25,7 @@ A questão, porém, é que o marido não parece tão abalado assim. Carol observ
 
 Como roteirista, é esperto não entrega as coisas de mão beijada. Ele convida o espectador em seu roteiro a perceber aos poucos experimentar a sensação de algo errado junto com Carol, que vai encontrando pista atrás de pista, que podem muito bem não significar nada, o que gera como sempre deliciosos e sarcásticos diálogos. Porém, a trama é forte o suficiente para chamar a atenção até mesmo no meio da comédia.
 
-Para tornar a coisa mais realista, uma direção esforçada por ressaltar as diferentes nuâncias da investigação faz balançar a câmera em torno de Carol quando esta está bêbada pós uma degustação de vinhos, e troca o foco rapidamente enquanto em uma conversa entre Carol e Larry decidimos quem está com a razão. Da mesma forma, os personagens secundários não estão totalmente à toa na trama, e cada um participa com suas personalidades, e obviamente Allen mais uma vez retorna o tema traição e crise de meia-idade dos casais.
+Para tornar a coisa mais realista, uma direção esforçada por ressaltar as diferentes nuanças da investigação faz balançar a câmera em torno de Carol quando esta está bêbada pós uma degustação de vinhos, e troca o foco rapidamente enquanto em uma conversa entre Carol e Larry decidimos quem está com a razão. Da mesma forma, os personagens secundários não estão totalmente à toa na trama, e cada um participa com suas personalidades, e obviamente Allen mais uma vez retorna o tema traição e crise de meia-idade dos casais.
 
-Assassinato em Manhatan é passado e batido, mas consegue divertir sem ofender ou entendiar. Como se diz por aí, Allen até quando é medíocre, consegue ser acima da média.
+Assassinato em Manhatan é passado e batido, mas consegue divertir sem ofender ou entediar. Como se diz por aí, Allen até quando é medíocre, consegue ser acima da média.
 

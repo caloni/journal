@@ -22,7 +22,7 @@ _cover: "http://ia.media-imdb.com/images/M/MV5BOTQ5NDI3MTI4MF5BMl5BanBnXkFtZTgwN
 ---
 Esse faroeste de Leone foi narrado em um contexto histórico e, por isso mesmo, com muitas pitadas de realismo nas cenas, mesmo com os absurdos hilários a que estamos acostumados em filmes do gênero. Nesse longa de quase três horas de duração teremos três pistoleiros decididos a encontrar uma fortuna escondida, mas para isso terão que passar por várias provações na época da guerra da Sessesão.
 
-Uma característica marcante e que nos torna ainda mais cúmplices das peripécias dos personagens é o ângulo e a forma como a câmera se posiciona em cada cena. Fora os enquadramentos magníficos na maior widescreen que o cinema já teve, exarcebados ainda mais pela belíssima fotografia do filme, que é belíssima exatamente porque evocar imagens históricas. Leone faz questão que sintamos o ponto de vista dos personagens ou da situação em cada quadro, com uma continuidade que é sempre eficiente, pois nos coloca na posição sempre mais privilegiada da cena em que podemos ver a ação e ao mesmo tempo interpretá-la.
+Uma característica marcante e que nos torna ainda mais cúmplices das peripécias dos personagens é o ângulo e a forma como a câmera se posiciona em cada cena. Fora os enquadramentos magníficos na maior widescreen que o cinema já teve, exacerbados ainda mais pela belíssima fotografia do filme, que é belíssima exatamente porque evocar imagens históricas. Leone faz questão que sintamos o ponto de vista dos personagens ou da situação em cada quadro, com uma continuidade que é sempre eficiente, pois nos coloca na posição sempre mais privilegiada da cena em que podemos ver a ação e ao mesmo tempo interpretá-la.
 
 A trilha sonora principal de Morricone lembra a de um animal, que inclusive podemos ouvir nos minutos iniciais, o que comenta acertadamente o estilo cartunesco do longa. Note, por exemplo, como a apresentação dos personagens (no original, o filme se chama "O Bom, o Mau e o Feio") é feita congelando a tela com o ator e colocando seu "título", logo depois descongelando a mesma cena. Algo que Tarantino usou mais como homenagem e menos como plágio do diretor.
 
@@ -46,7 +46,7 @@ Também é muito bom notar que Leone dá bastante esmero aos detalhes. Logo apó
 
 A forma como são capturados em direção ao cemitério, e o enquadramento posterior, mostrando toda a grandiosidade do acampamento, espelha esse esmero com o posicionamento da câmera.
 
-Há um realismo e grandiosismo na batalha da ponte que parece que somos transportados para aquele tempo, e o que estamos vendo são atores conhecidos no meio de um evento que realmente aconteceu.
+Há um realismo e grandiosíssimo na batalha da ponte que parece que somos transportados para aquele tempo, e o que estamos vendo são atores conhecidos no meio de um evento que realmente aconteceu.
 
 Quando Tuco tenta encontrar o túmulo no cemitério há uma bela passagem de travelling sem foco pelas jazidas, enquanto logo após o cineasta coloca Tuco em foco e um travelling por todos os túmulos, rapidamente, em um movimento constante.
 

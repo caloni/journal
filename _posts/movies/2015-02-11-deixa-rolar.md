@@ -19,6 +19,6 @@ _fullcover: "http://ia.media-imdb.com/images/M/MV5BMjMzNjcyMTgwNV5BMl5BanBnXkFtZ
 _kind: "movie"
 _cover: "http://ia.media-imdb.com/images/M/MV5BMjMzNjcyMTgwNV5BMl5BanBnXkFtZTgwNjg3MzI3MjE@._V1._SX93_SY140_.jpg"
 ---
-Um filme sobre clichês nas comédias românticas que não consegue se desvencilhar do próprio. Seu personagem parece onisciente, mas apenas faz parte de montagens de video-clipe estilo Notting Hill e que teve a sorte de conhecer a bela.. ela (não sabemos seu nome). Ele é um escritor que pretente escrever seu primeiro romance, mas nunca se apaixonou. Já vimos isso antes?
+Um filme sobre clichês nas comédias românticas que não consegue se desvencilhar do próprio. Seu personagem parece onisciente, mas apenas faz parte de montagens de video-clipe estilo Notting Hill e que teve a sorte de conhecer a bela.. ela (não sabemos seu nome). Ele é um escritor que pretende escrever seu primeiro romance, mas nunca se apaixonou. Já vimos isso antes?
 
 Com um impressionante (mas nem tanto) Chris Evans, uma belíssima (como sempre) Michelle Monaghan, e a sempre estranhamente bela Aubrey Plaza. Direção estreante de Justin Reardon, que até mandou bem. O roteiro do ator Chris Shafer, também estreante nessa profissão, não foi tão bem assim.

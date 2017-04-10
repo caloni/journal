@@ -23,7 +23,7 @@ _ratio: "2.35 : 1"
 _kind: "movie"
 _cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc2NDAyOTc4MV5BMl5BanBnXkFtZTgwNjE4Mjk0NzE@._V1._SX94_SY140_.jpg"
 ---
-Sabe aqueles filmes thrash anos 80 que misturam tecnologia, terror e sci-fi? Exemplos são Tron (o original) e Mulher Nota 1000. Synchronicity emula com perfeição esse tipo de gênero. Com um roteiro capenga, atuações sofríveis, clichês de filme noir mal usados e trilha sonora de flashback, o resultado é uma viagem pelo mundo dos filme complicados apenas pelo gosto da complicação.
+Sabe aqueles filmes trash anos 80 que misturam tecnologia, terror e sci-fi? Exemplos são Tron (o original) e Mulher Nota 1000. Synchronicity emula com perfeição esse tipo de gênero. Com um roteiro capenga, atuações sofríveis, clichês de filme noir mal usados e trilha sonora de flashback, o resultado é uma viagem pelo mundo dos filme complicados apenas pelo gosto da complicação.
 
 Iniciando com a premissa de uma equipe formada por um jovem gênio cientista, seu melhor amigo e um colega meio retardado meio brilhante, a construção de uma máquina no tempo em um mundo futurista e "dark" é visto como uma coisa banal, um passatempo de startup que vale alguns milhões de urânio enriquecido e alguns minutos de tempo com um bilionário investidor que está tramando algo (seja lá o que for), e para isso usa uma garota gostosa como isca para nosso cientista brilhante que ela, depois de fazer várias anotações vazias no verso de bolachas de chope (minha preferida é "o tempo é nossa única moeda verdadeira") compara o garoto bonitão com o cientista Nicholas Tesla.
 
