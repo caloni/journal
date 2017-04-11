@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+"http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+<head>
+</head>
+<docTitle>
+   <text>Cine Tênis Verde</text>
+</docTitle>
+
+<navMap>
+
+<navPoint id="" playOrder="3"> <navLabel> <text> </text> </navLabel> <content src="index.html#" /> </navPoint>
+
+<navPoint id="toc"            playOrder="1"><navLabel>  <text>Índice</text>                 </navLabel> <content src="index.html#toc"          /> </navPoint>
+<navPoint id="reviews"        playOrder="2"><navLabel>  <text>Conteúdo</text>               </navLabel> <content src="index.html#reviews"      /> </navPoint>
+<navPoint id="byorder"        playOrder="3"><navLabel>  <text>Por Ordem de Entrada</text>   </navLabel> <content src="index.html#byorder"      /> </navPoint>
+<navPoint id="bytitle"        playOrder="4"><navLabel>  <text>Por Título</text>             </navLabel> <content src="index.html#bytitle"      /> </navPoint>
+<navPoint id="byorigtitle"    playOrder="5"><navLabel>  <text>Por Título Original</text>    </navLabel> <content src="index.html#byorigtitle"  /> </navPoint>
+<navPoint id="byyear"         playOrder="6"><navLabel>  <text>Por Ano</text>                </navLabel> <content src="index.html#byyear"       /> </navPoint>
+<navPoint id="bydirector"     playOrder="7"><navLabel>  <text>Por Diretores</text>          </navLabel> <content src="index.html#bydirector"   /> </navPoint>
+<navPoint id="bywriter"       playOrder="8"><navLabel>  <text>Por Roteiristas</text>        </navLabel> <content src="index.html#bywriter"     /> </navPoint>
+<navPoint id="bycast"         playOrder="9"><navLabel>  <text>Por Elenco</text>             </navLabel> <content src="index.html#bycast"       /> </navPoint>
+<navPoint id="details"        playOrder="10"><navLabel> <text>Ficha Técnica</text>          </navLabel> <content src="index.html#details"      /> </navPoint>
+
+</navMap>
+</ncx>
