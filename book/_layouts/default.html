@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+
+  <body>
+
+    <div class="page-content">
+      <div class="wrapper">
+        {{ page.title }} {% if page._director %}({{ page._director | join: '/' }}, {{ page._year }}){% endif %}
+        {{ content }}
+      </div>
+    </div>
+
+  </body>
+
+</html>
