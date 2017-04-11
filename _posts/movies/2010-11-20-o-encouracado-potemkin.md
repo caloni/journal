@@ -1,6 +1,6 @@
 ---
 imdb: "0015648"
-title: "O Couraçado Potemkin"
+title: "O Encouraçado Potemkin"
 stars: "4/5"
 category: "movies"
 _title: "Bronenosets Potemkin"
