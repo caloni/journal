@@ -1,8 +1,62 @@
 ---
 layout: default
 ---
-<h1>Índice</h1>
-<p style="text-indent:0pt">
-   <a href=".\postsbytitle.html">Textos Ordenados Por Título</a><br/>
-   <a href=".\postsbyyear.html">Textos Ordenados Por Ano</a><br/>
-</p>
+<div id="toc">
+<h2>Índice</h2>
+<ol>
+<li><a href="#reviews">Conteúdo</a></li>
+<li><a href="#byorder">Lista Por Ordem de Entrada</a></li>
+<li><a href="#bytitle">Lista Por Título</a></li>
+<li><a href="#byorigtitle">Lista Por Título Original</a></li>
+<li><a href="#byyear">Lista Por Ano</a></li>
+<li><a href="#bydirector">Lista Por Diretor</a></li>
+</ol>
+</div>
+
+<h2 id="#reviews" style="page-break-before: always;">Conteúdo</h2>
+{% assign sortedPosts = site.posts | sort: 'title' %}
+{% for post in sortedPosts %}
+<h3 id="{{ post.slug }}">{{ post.title }}</h3>
+{% if post._director %}<i>{{ post._director | join: '/' }}, {{ post._year }}</i>{% endif %}
+{{ post.content }}
+{% endfor %}
+
+<h2 id="#byorder" style="page-break-before: always;">Lista Por Ordem de Entrada</h2>
+<ol>
+{% for post in site.posts reversed %}
+<li><a href="#{{ post.slug }}">{{ post.title }}</a></li>
+{% endfor %}
+</ol>
+
+<h2 id="#bytitle" style="page-break-before: always;">Lista Por Título</h2>
+<ul>
+{% assign sortedPosts = site.posts | sort: 'title' %}
+{% for post in sortedPosts %}
+<li><a href="#{{ post.slug }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
+
+<h2 id="#byorigtitle" style="page-break-before: always;">Lista Por Título Original</h2>
+<ul>
+{% assign sortedPosts = site.posts | sort: '_title' %}
+{% for post in sortedPosts %}
+<li><a href="#{{ post.slug }}">{{ post._title }}</a> ({{ post.title }})</li>
+{% endfor %}
+</ul>
+
+<h2 id="#byyear" style="page-break-before: always;">Lista Por Ano</h2>
+<ul>
+{% assign sortedPosts = site.posts | sort: '_year' %}
+{% for post in sortedPosts %}
+<li><a href="#{{ post.slug }}">{{ post.title }} ({{ post._year }})</a></li>
+{% endfor %}
+</ul>
+
+<h2 id="#bydirector" style="page-break-before: always;">Lista Por Diretores</h2>
+<ul>
+{% assign sortedPosts = site.posts | sort: '_director' %}
+{% for post in sortedPosts %}
+<li>{{ post._director | join: '/' }}: <a href="#{{ post.slug }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
+
