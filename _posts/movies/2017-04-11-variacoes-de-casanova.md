@@ -3,7 +3,7 @@ category: "movies"
 imdb: "2614400"
 stars: "3/5"
 title: "Variações de Casanova"
-cinemaqui: "url"
+cinemaqui: "http://www.cinemaqui.com.br/variacoes-de-casanova/"
 tags: ['cabine']
 _title: "Casanova Variations"
 _year: "2014"
