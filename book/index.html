@@ -4,6 +4,9 @@ layout: default
 <div id="toc">
 <h2>Índice</h2>
 <ol>
+{% for post in site.categories.book %}
+<li><a href="#{{ post.slug }}">{{ post.title }}</a></li>
+{% endfor %}
 <li><a href="#reviews">Conteúdo</a></li>
 <li>Listas</li>
 <ol>
@@ -18,6 +21,11 @@ layout: default
 <li><a href="#details">Ficha Técnica</a></li>
 </ol>
 </div>
+
+{% for post in site.categories.book %}
+<h3 id="{{ post.slug }}" style="page-break-before: always;">{{ post.title }}</h3>
+{{ post.content }}
+{% endfor %}
 
 <h2 id="reviews" style="page-break-before: always;">Conteúdo</h2>
 {% for post in site.posts reversed %}
