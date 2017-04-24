@@ -1,7 +1,6 @@
 ---
-category: "blog"
+category: "book"
 title: "Introdução"
-tags: ["book"]
 ---
 Assistir filmes pode ser usado como entretenimento e fuga da realidade. E, de fato, a maioria das pessoas usa o cinema para isso (eu incluso). No entanto, como tudo na vida, esta forma automática de reagir ao conteúdo que nos é jogado para consumir não é a melhor maneira de interagir com o mundo, nem de aproveitar duas horas de lazer de sua vida.
 
