@@ -1,6 +1,6 @@
 ---
 title: Process Monitor e o monopólio malcriado
-tags: [ "engenharia reversa" ]
+tags: [ "engenharia reversa", "livro" ]
 ---
 
 [![Monopoly](/images/monopoly.png)](http://www.gamehouse.com/gamedetails/?game=monoployc&navpage=downloadgames)Uma das primeiras regras que aprendemos para manter a integridade do Windows é utilizá-lo somente com a conta de usuários restritos, o que evitaria, por exemplo, que um programa mal-intencionado instale um serviço ou _driver_, que teriam acesso às partes íntimas do sistema operacional.

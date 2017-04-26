@@ -1,6 +1,6 @@
 ---
 title: Analisando dumps com WinDbg e IDA
-tags: [ "depuração" ]
+tags: [ "depuração", "livro" ]
 ---
 
 Apesar de ser recomendado que 100% dos componentes de um software esteja configurado corretamente para gerar símbolos na versão _release_, possibilitando assim a visualização do nome das funções internas através de um [arquivo de _dump_](http://support.microsoft.com/kb/315263) (despejo) gerado na ocorrência de um _crash_, essa verdade só ocorre em 80% das vezes. Quis Murphy que dessa vez a única parte não "simbolizada" fosse a que gerou a tela azul em um [Intel Quad Core](http://compare.buscape.com.br/categoria?id=22&lkout=1&kw=Intel+Quad+Core&site_origem=1293522) que estou analisando esses dias.

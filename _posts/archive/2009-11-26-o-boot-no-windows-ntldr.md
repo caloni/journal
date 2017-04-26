@@ -1,6 +1,6 @@
 ---
 title: 'O boot no Windows: NTLDR'
-tags: [ "engenharia reversa", "sistema operacional" ]
+tags: [ "engenharia reversa", "sistema operacional", "livro" ]
 ---
 
 ![galinha-preta.jpg](/images/galinha-preta.jpg)Minhas análises estão demorando muito para ser feitas. Talvez seja a hora de revelar o pouco que sei (e pesquisei) sobre o próximo processo de boot do Windows: o NTLDR.

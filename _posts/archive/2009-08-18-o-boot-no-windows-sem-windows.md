@@ -1,6 +1,6 @@
 ---
 title: 'O boot no Windows: sem Windows'
-tags: [ "sistema operacional" ]
+tags: [ "sistema operacional", "livro" ]
 ---
 
 ![raios-torre-eiffel.jpg](/images/raios-torre-eiffel.jpg)Desde quando o usuário liga o computador até o momento em que ele vê a barra de tarefas e aqueles [fundos lindos de papel de parede](http://www.baixaki.com.br/download/windows-7-rc-official-wallpapers.htm) existem diversas coisas sendo feitas por debaixo do pano. Essa série de artigos irá explicar essas diversas coisas, ou seja, como funciona e quais as fases do _[boot](http://pt.wikipedia.org/wiki/Boot) _de uma máquina que possui Windows instalado ([plataforma NT](http://pt.wikipedia.org/wiki/Windows_NT)).

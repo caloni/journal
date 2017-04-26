@@ -1,6 +1,6 @@
 ---
 title: História da linguagem C - parte 1
-tags: [ "c++", "história", "linguagem c", "programação" ]
+tags: [ "c++", "história", "linguagem c", "programação", "livro" ]
 ---
 
 [![Esse distinto cavalheiro inglês é Martin Richards, em foto disponível no seu site](http://www.cl.cam.ac.uk/users/mr/mr.gif)](http://www.cl.cam.ac.uk/~mr10/)Confesso que adoro estudar sobre a história da linguagem C. Essa verdadeira adoração pela linguagem me fez estudar suas precursoras, como as linguagens **BCPL** e **B**. Posso dizer que todo esse conhecimento, no final das contas, valeu a pena. Hoje entendo muito melhor as decisões tomadas na criação da linguagem e, principalmente, a origem de algumas idiossincrasias e boas idéias que permaneceram até hoje.

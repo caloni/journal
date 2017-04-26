@@ -1,6 +1,6 @@
 ---
 title: 'RmThread: rode código em processo vizinho'
-tags: [ "projetos" ]
+tags: [ "projetos", "livro" ]
 ---
 
 <blockquote>_Aproveitando que utilizei a mesma técnica semana passada para desenvolver um vírus para [Ethical Hacking](http://en.wikipedia.org/wiki/White_hat), republico aqui este [artigo que já está mofando no Code Projet](http://www.codeproject.com/KB/threads/RmThread.aspx), mas que espero que sirva de ajuda pra muita gente que gosta de fuçar nos internals do sistema. Boa leitura!_</blockquote>

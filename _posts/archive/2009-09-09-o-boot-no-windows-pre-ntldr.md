@@ -1,6 +1,6 @@
 ---
 title: 'O boot no Windows: pré-NTLDR'
-tags: [ "engenharia reversa", "sistema operacional" ]
+tags: [ "engenharia reversa", "sistema operacional", "livro" ]
 ---
 
 Conforme fui estudando para recordar os momentos sublimes do boot do Windows me deparei com o artigo mais "espetaculoso" de todos os tempos sobre esse assunto, parte integrante do livro [Windows Internals](http://compare.buscape.com.br/categoria?id=3482&lkout=1&kw=Windows+Internals&site_origem=1293522) e escrito pelo nada mais nada menos Mark Russinovich: **Boot Process**, no capítulo 5, "Startup and Shutdown".

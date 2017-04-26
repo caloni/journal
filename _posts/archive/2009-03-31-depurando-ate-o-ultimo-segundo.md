@@ -1,6 +1,6 @@
 ---
 title: Depurando até o último segundo
-tags: [ "depuração" ]
+tags: [ "depuração", "livro" ]
 ---
 
 Como depurar um programa que dá pau logo no final do desligamento de uma máquina?

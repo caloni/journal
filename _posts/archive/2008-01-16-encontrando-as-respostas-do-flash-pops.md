@@ -1,6 +1,6 @@
 ---
 title: Encontrando as respostas do Flash Pops
-tags: [ "engenharia reversa" ]
+tags: [ "engenharia reversa", "livro" ]
 ---
 
 [![Flash Pops](/images/flash-pops.png)](/images/flash-pops.png)Existe uma [série de jogos](http://www2.uol.com.br/flashpops/jogos/) no sítio da UOL onde você deve acertar o nome de filmes, programas de televisão, entre outros, que vão da [década de 40](http://www.imdb.com/title/tt0034583/) até a [atualidade](http://www.imdb.com/title/tt0109830/). É divertido e viciante fazer pesquisa na internet para encontrar os resultados, ainda mais quando já se é viciado em cinema. Ficamos jogando, eu e minha namorada, por semanas a fio. Quase chegamos a preencher tudo, e por um bom tempo ficamos travados para terminar. Então começamos a apelar para o [Google](http://www.google.com) e o [IMDB](http://www.imdb.com) até os limites do razoável. Nesse fim de semana, por exemplo, chegamos a assistir um filme de madrugada onde tocou rapidamente um trecho de uma das músicas que faltava no jogo sobre televisão. No dia seguinte procuramos a [trilha sonora do filme](http://www.imdb.com/title/tt0140688/soundtrack), ouvimos [faixa a faixa](http://www.amazon.com/exec/obidos/ASIN/B000007T6B/internetmoviedat/) e procuramos [o nome da música](http://www.google.com/search?q=) no Google, para finalmente encontrar [o resultado](http://www.imdb.com/title/tt0088559/).

@@ -1,6 +1,6 @@
 ---
 title: História da linguagem C - parte 2
-tags: [ "c++" ]
+tags: [ "c++", "livro" ]
 ---
 
 [![Ken Thompson (esquerda) e Dennis Ritchie (direita). Fonte: wikipedia.org](http://upload.wikimedia.org/wikipedia/commons/3/36/Ken_n_dennis.jpg)](http://upload.wikimedia.org/wikipedia/commons/3/36/Ken_n_dennis.jpg)No princípio... não, não, não. Antes do princípio, quando C era considerada a terceira letra do alfabeto e o que tínhamos eram linguagens experimentais para todos os lados, dois famigerados Srs. dos Laboratórios Bell, K. Thompson e D. Ritchie, criaram uma linguagem chamada B. E B era bom.

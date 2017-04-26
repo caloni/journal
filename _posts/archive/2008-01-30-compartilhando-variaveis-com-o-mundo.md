@@ -1,6 +1,6 @@
 ---
 title: Compartilhando variáveis com o mundo
-tags: [ "código" ]
+tags: [ "código", "livro" ]
 ---
 
 Desde que comecei a programar, para compartilhar variáveis entre processo é meio que consenso usar-se a milenar técnica do **crie uma seção compartilhada no seu executável/DLL**. Isso funciona desde a época em que o Windows era [em preto e branco](http://dqsoft.blogspot.com/2006/10/gerenciamento-de-memria-windows-16-bits.html). Mas, como tudo em programação, existem mil maneiras de assar o pato. Esse artigo explica uma delas, a não-tão-milenar técnica do **use memória mapeada nomeada misturada com templates.**

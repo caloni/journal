@@ -1,6 +1,6 @@
 ---
 title: Desconstruindo IOCCC
-tags: [ "c++", "engenharia reversa" ]
+tags: [ "c++", "engenharia reversa", "livro" ]
 ---
 
 Como alguns devem saber, e outros não (ou não deveriam), existe uma competição internacional para escolher quem escreve o código em C mais ofuscado. Isso mesmo. O evento se chama [The International Obfuscated C Code Contest](http://www.ioccc.org) (IOCCC resumidamente) e costuma premiar anualmente os melhores "do ramo" com a chamada "menção desonrosa".

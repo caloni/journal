@@ -1,6 +1,6 @@
 ---
 title: Sizeof (de novo)
-tags: [ "c++" ]
+tags: [ "c++", "livro" ]
 ---
 
 Algumas coisas em C parecem tão simples na programação do dia-a-dia que em alguns momentos podem existir situações confusas e misteriosas. O uso obscuro do operador **sizeof**, por exemplo, pode dar margens a interpretações erradas a respeito do que está acontecendo por baixo dos panos. Apesar do padrão ter sido elaborado para tentar tornar a linguagem uma coisa intuitiva e de fácil dedução, isso não acontece todas as vezes.

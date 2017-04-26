@@ -1,6 +1,6 @@
 ---
 title: Como tratar um merge no Bazaar
-tags: [ "controle de fonte" ]
+tags: [ "controle de fonte", "livro" ]
 ---
 
 Hoje fizemos um _merge _de duas versões que entraram em conflito em nosso projeto-piloto usando **bzr**. Isso geralmente ocorre quando alguma coisa mudou no mesmo arquivo em lugares muito próximos um do outro. Veremos um exemplo de código para ter uma idéia de quão fácil é o processo:

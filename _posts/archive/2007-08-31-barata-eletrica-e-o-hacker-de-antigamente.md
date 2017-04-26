@@ -1,6 +1,6 @@
 ---
 title: Barata Elétrica e o hacker de antigamente
-tags: [ "devaneando" ]
+tags: [ "devaneando", "livro" ]
 ---
 
 [![Barata Elétrica](/images/barataeletrica.jpg)](http://www1.webng.com/curupira/)Na época em que eu entrei na rede, não sabia nada, mas queria saber muito. Cada vez mais era fissurado nesse negócio de computador, o que me fez ler sem parar por noites a fios assuntos informáticos. Meu primeiro contato com a cultura na internet foi lendo _zines_ eletrônicos, os chamados _e-zines_. Dentre eles, o que mais me chamava a atenção pelos artigos bem escritos e pela busca incessante de informação foi o (finado?) [Barata Elétrica](https://sites.google.com/site/barataeletricafanzine/), um _e-zine hacker_ nacional. Escrita por um estudante de alemão da saudosa [FFLCH](http://www.fflch.usp.br/) ("Fefeléche") que já participei um dia, a revista eletrônica zelava pela privacidade, conhecimento e liberdade de expressão.

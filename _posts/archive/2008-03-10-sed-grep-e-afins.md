@@ -1,6 +1,6 @@
 ---
 title: Sed, Grep e afins
-tags: [ "ferramentas" ]
+tags: [ "ferramentas", "livro" ]
 ---
 
 Esse artigo é resultado de eu ter me matado para conseguir encontrar a forma correta de usar o aplicativo sed para fazer uma filtragem simples nos resultados de uma listagem de arquivos.

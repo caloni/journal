@@ -1,6 +1,6 @@
 ---
 title: Retorno do PathIsDirectory
-tags: [ "depuração", "engenharia reversa" ]
+tags: [ "depuração", "engenharia reversa", "livro" ]
 ---
 
 Estava eu outro dia programando aquele código esperto "para ontem" quando me deparei com uma situação no mínimo inusitada. Ao testar se [um caminho recebido era de fato um diretório](http://msdn.microsoft.com/en-us/library/bb773621(VS.85).aspx) me foi retornado pela API um valor diferente de TRUE. E diferente de FALSE!

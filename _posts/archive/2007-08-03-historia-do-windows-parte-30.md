@@ -1,6 +1,6 @@
 ---
 title: História do Windows - parte 3.0
-tags: [ "sistema operacional", "história", "windows" ]
+tags: [ "sistema operacional", "história", "windows", "livro" ]
 ---
 
 **Windows 3.0**

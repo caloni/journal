@@ -1,6 +1,6 @@
 ---
 title: Os problemas mais cabeludos
-tags: [ "depuração" ]
+tags: [ "depuração", "livro" ]
 ---
 
 ![Detetive do Computador](/images/9596_spy_peering_out_of_a_computer.png)Quase todos os problemas do Universo são resolvidos depois de um belo dia de depuração, código comentado/descomentado/recomentado e umas muitas e boas doses de café. Alguns outros problemas mais cabeludos precisam de uma boa noitada na frente do computador, e mais café. E, finalmente, existem aqueles que **nem tomando o estoque inteiro de café a coisa anda**.

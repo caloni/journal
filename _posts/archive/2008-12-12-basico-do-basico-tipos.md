@@ -1,6 +1,6 @@
 ---
 title: 'Básico do básico: tipos'
-tags: [ "c++", "programação", "básico do básico" ]
+tags: [ "c++", "programação", "básico do básico", "livro" ]
 ---
 
 ![Forma de bolo.](/images/forma-de-bolo.jpg)Um tipo nada mais é que do que uma forma (ô) de bolo, que **molda a memória** como acharmos melhor moldá-la. Bom, para isso fazer sentido é necessário explicar memória, que é um conceito **mais básico ainda**.

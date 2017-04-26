@@ -1,6 +1,6 @@
 ---
 title: Kernel Mode >> User Mode
-tags: [ "depuração" ]
+tags: [ "depuração", "livro" ]
 ---
 
 Existem algumas situações onde um depurador WYSIWYG é artigo de luxo.

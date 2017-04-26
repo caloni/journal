@@ -1,6 +1,6 @@
 ---
 title: Aprendendo assembly com o depurador
-tags: [ "depuração", "engenharia reversa" ]
+tags: [ "depuração", "engenharia reversa", "livro" ]
 ---
 
 Além de servir para corrigir alguns [bugs escabrosos](http://www.caloni.com.br/analisando-dumps-com-windbg-e-ida), o nosso bom e fiel amigo depurador também possui uma utilidade inusitada: ensinar _assembly_! A pessoa interessada em aprender alguns conceitos básicos da arquitetura do 8086 pode se exercitar na frente de um depurador 16 ou 32 bits sem ter medo de ser feliz.

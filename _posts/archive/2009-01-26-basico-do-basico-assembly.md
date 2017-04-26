@@ -1,6 +1,6 @@
 ---
 title: 'Básico do básico: assembly'
-tags: [ "programação", "arquitetura", "assembly", "básico do básico", "fundamentos" ]
+tags: [ "programação", "arquitetura", "assembly", "básico do básico", "fundamentos", "livro" ]
 ---
 
 É lógico que não poderia faltar no cinto de utilidades de todo bom programador C conhecimentos **básicos** da linguagem [assembly](http://pt.wikipedia.org/wiki/Assembly), sua mãe espiritual. São tantos conceitos em comum que, uma vez aprendido seu funcionamento, fica difícil não pensar no código-assembly gerado pelo compilador C. E é nesse ponto que as coisas começam a ficar mais claras.

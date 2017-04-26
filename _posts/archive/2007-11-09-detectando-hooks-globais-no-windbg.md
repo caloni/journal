@@ -1,6 +1,6 @@
 ---
 title: Detectando hooks globais no WinDbg
-tags: [ "depuração" ]
+tags: [ "depuração", "livro" ]
 ---
 
 Nada como um comando prático para aprender rapidamente uma técnica. Nesse caso, tive que usar o comando abaixo para localizar o momento em que um executável instala um _hook_ global:

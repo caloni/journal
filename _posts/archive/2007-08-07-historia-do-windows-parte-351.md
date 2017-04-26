@@ -1,6 +1,6 @@
 ---
 title: História do Windows - parte 3.51
-tags: [ "sistema operacional", "história", "windows" ]
+tags: [ "sistema operacional", "história", "windows", "livro" ]
 ---
 
 **A história**
