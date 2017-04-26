@@ -10,6 +10,7 @@ defaults:
       layout: post
 exclude:
   - cinemaqui
+  - book
   - _posts/blog/2010
   - _posts/blog/2011
   - _posts/blog/2012
