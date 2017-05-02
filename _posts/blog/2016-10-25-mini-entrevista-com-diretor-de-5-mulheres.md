@@ -1,5 +1,6 @@
 ---
 category: "blog"
+stars: "5/5"
 title: "Mini-Entrevista com Olaf Kraemer, diretor de 5 Mulheres"
 tags: ["mostrasp"]
 ---

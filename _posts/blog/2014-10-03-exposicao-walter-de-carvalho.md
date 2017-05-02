@@ -1,5 +1,6 @@
 ---
 title: "Walter de Carvalho"
+stars: "5/5"
 category: "blog"
 ---
 

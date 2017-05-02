@@ -1,5 +1,6 @@
 ---
 category: "blog"
+stars: "5/5"
 title: "Mini-Debate com diretor de O Que Restou da Minha Vida"
 tags: ["mostrasp"]
 

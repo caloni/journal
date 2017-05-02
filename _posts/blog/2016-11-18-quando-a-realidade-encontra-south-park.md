@@ -1,5 +1,6 @@
 ---
 category: "blog"
+stars: "5/5"
 title: "Quando a realidade encontra South Park"
 tags: ["reflexoes", "politica"]
 

@@ -1,5 +1,6 @@
 ---
 category: "pinned"
+stars: "5/5"
 title: "Cine Tênis Verde: O Livro"
 tags: ["news"]
 ---

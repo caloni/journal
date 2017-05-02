@@ -1,5 +1,6 @@
 ---
 title: "Como é escolher um filme pelo trailer"
+stars: "5/5"
 category: "blog"
 tags: ["youtube", "comerciais"]
 ---

@@ -1,5 +1,6 @@
 ---
 category: "blog"
+stars: "5/5"
 title: "Saldo da 40a. MostraSP"
 tags: ["mostrasp"]
 

@@ -1,5 +1,6 @@
 ---
 category: "blog"
+stars: "5/5"
 title: "Indicados ao Oscar 2017"
 tags: ["oscar", "premios"]
 

@@ -1,5 +1,6 @@
 ---
 title: "200 Grandes Diretores"
+stars: "5/5"
 category: "blog"
 tags: [ "listas", "download", "torrent", "diretores" ]
 ---
