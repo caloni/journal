@@ -114,7 +114,7 @@ def writereview(filePath, header, review, imdbData):
         if cl == l: break
     f.write(']\n')
 
-  def writecastarray(f, a, n, l = 20):
+  def writecastarray(f, a, n, l = 30):
     cl = 1
     f.write(n + ': [')
     for i in a:
