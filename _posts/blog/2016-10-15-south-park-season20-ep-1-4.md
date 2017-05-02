@@ -1,6 +1,6 @@
 ---
 category: "blog"
-title: "South Park Temporada 20 (Episódios 1 a 4)"
+title: "South Park - Vigésima Temporada, Episódios 1 a 4"
 imdb: "0121955"
 stars: "4/5"
 tags: ['streaming', 'series']

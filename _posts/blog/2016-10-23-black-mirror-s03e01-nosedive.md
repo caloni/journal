@@ -1,6 +1,6 @@
 ---
 category: "blog"
-title: "Black Mirror - Terceira Temporada, Episódio 1 (Nosedive)"
+title: "Black Mirror - Terceira Temporada, Episódio 1: Nosedive"
 imdb: "5497778"
 stars: "5/5"
 tags: ['netflix']

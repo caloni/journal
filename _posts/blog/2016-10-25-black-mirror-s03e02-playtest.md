@@ -1,6 +1,6 @@
 ---
 category: "blog"
-title: "Black Mirror Terceira Temporada, Episódio 2 (Playtest)"
+title: "Black Mirror - Terceira Temporada, Episódio 2: Playtest"
 imdb: "5709242"
 stars: "3/5"
 tags: ['netflix']

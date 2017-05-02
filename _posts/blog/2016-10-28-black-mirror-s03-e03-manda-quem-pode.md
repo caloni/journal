@@ -1,6 +1,6 @@
 ---
 category: "blog"
-title: "Black Mirror - Terceira Temporada, Episódio 3 (Manda Quem Pode)"
+title: "Black Mirror - Terceira Temporada, Episódio 3: Manda Quem Pode"
 imdb: "5709230"
 stars: "4/5"
 tags: ['netflix']

@@ -1,6 +1,6 @@
 ---
 category: "blog"
-title: "Sherlock - Quarta Temporada, Episódio 3 (The Final Problem)"
+title: "Sherlock - Quarta Temporada, Episódio 3: The Final Problem"
 imdb: "3845892"
 stars: "3/5"
 tags: ['netflix']
