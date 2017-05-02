@@ -39,7 +39,8 @@
   }
 
   .content {
-    padding-right: 3em;
+    padding-right: 0.5em;
+    padding-left: 0.5em;
   }
 
   .footer {
@@ -73,7 +74,8 @@
 
   .content {
     z-index: 1;
-    padding-right: 2em;
+    padding-right: 0.5em;
+    padding-left: 0.5em;
   }
 
   #sidebar-button {
