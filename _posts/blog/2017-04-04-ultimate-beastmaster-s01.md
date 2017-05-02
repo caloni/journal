@@ -1,6 +1,6 @@
 ---
 category: "blog"
-title: "Ultimate Beastmaster S01"
+title: "Ultimate Beastmaster - Primeira Temporada"
 imdb: "5607970"
 stars: "4/5"
 tags: ['netflix']

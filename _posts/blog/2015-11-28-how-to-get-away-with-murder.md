@@ -1,7 +1,7 @@
 ---
 imdb: "3205802"
 stars: "3/5"
-title: "How to Get Away with Murder S01 E01-03"
+title: "How to Get Away with Murder - Primeira Temporada, Episódios 1 ao 3"
 category: "blog"
 _title: "How to Get Away with Murder"
 _year: "2014"

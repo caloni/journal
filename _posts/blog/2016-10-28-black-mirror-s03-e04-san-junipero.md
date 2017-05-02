@@ -1,6 +1,6 @@
 ---
 category: "blog"
-title: "Black Mirror S03E04: San Junipero (com spoilers)"
+title: "Black Mirror - Terceira Temporada, Episódio 4 (San Junipero)"
 imdb: "4538072"
 stars: "5/5"
 tags: ['netflix']
@@ -18,7 +18,7 @@ _fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BOTM1MTE3NmUtOW
 _kind: "episode"
 _cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BOTM1MTE3NmUtOWNlNy00ZjUxLWIzZjAtYjczN2I3M2M0YWIyXkEyXkFqcGdeQXVyNTQyMDczMzY@._V1._SX100_SY67_.jpg"
 ---
-Já estava na hora da série Black Mirror enfocar uma questão altamente relevante e discutida entre os aficionados por tecnologia futura: a imortalidade. Dentre as diferentes formas, eles escolheram a perfeita para o romance que pretendem retratar em um arco ambicioso, tudo em apenas uma hora.
+Já estava na hora da série Black Mirror enfocar uma questão altamente relevante e discutida entre os aficionados por tecnologia futura: a imortalidade. Dentre as diferentes formas, eles escolheram a perfeita para o romance que pretendem retratar em um arco ambicioso, tudo em apenas uma hora. Abaixo uma breve descrição COM SPOILERS.
 
 Como sempre, os sempre habilidosos roteiristas utilizam a descoberta aos poucos do que estamos vendo, muito embora, se você já conhece a série (estando na terceira temporada, no quarto episódio, isso é muito provável) fica difícil tentar se desvencilhar do óbvio: é claro que estamos falando do futuro.
 

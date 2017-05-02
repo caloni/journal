@@ -1,6 +1,6 @@
 ---
 category: "blog"
-title: "Abstract: The Art of Design (S01E01: Christoph Niemann: Illustration)"
+title: "Abstract: The Art of Design - Primeira Temporada, Episódio 1 (Christoph Niemann: Illustration)"
 imdb: "6397576"
 stars: "4/5"
 tags: ['netflix']

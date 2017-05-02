@@ -1,6 +1,6 @@
 ---
 category: "blog"
-title: "Science of Star Wars S01 E01"
+title: "Science of Star Wars - Primeira Temporada, Episódio 1"
 imdb: "0458284"
 stars: "2/5"
 tags: ['netflix']

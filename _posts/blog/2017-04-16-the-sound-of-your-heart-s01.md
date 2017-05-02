@@ -1,6 +1,6 @@
 ---
 category: "blog"
-title: "The Sound of Your Heart S01"
+title: "The Sound of Your Heart - Primeira Temporada"
 imdb: "4613520"
 stars: "3/5"
 tags: ['netflix']

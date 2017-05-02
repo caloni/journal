@@ -1,6 +1,6 @@
 ---
 category: "blog"
-title: "Better Call Saul S03E01: Mabel"
+title: "Better Call Saul - Terceira Temporada, Episódio 1 (Mabel)"
 imdb: "5554490"
 stars: "5/5"
 tags: ['netflix']
