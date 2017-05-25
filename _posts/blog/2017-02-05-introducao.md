@@ -1,10 +1,21 @@
 ---
 category: "pinned"
 stars: "5/5"
-title: "Cine Tênis Verde: O Livro"
-tags: ["news"]
+title: "Bem-Vindo!"
+tags: []
 ---
-Está à venda na [Amazon](https://www.amazon.com/dp/B01NB0YTX6) (e na [Amazon do Brasil](https://www.amazon.com.br/dp/B01NB0YTX6)) os textos reunidos do blog desde seu início. Esta é a coletânea de textos escritos pelo aspirante a crítico de cinema Wanderley Caloni em seu blog pessoal Cine Tênis Verde, criado e mantido desde 2010. Há 1300 textos sobre filmes e séries, muitos deles completos, outros não. Segue a introdução:
+Olá, caro cinéfilo! Aqui você irá encontrar a coletânea de textos escritos pelo aspirante a crítico de cinema Wanderley Caloni, criado e mantido desde 2010. São mais de 1500 textos sobre filmes e séries, de todos os gêneros, épocas e estilos. Apenas digite no sistema de busca algo relacionado ao filme que procura e digite a tecla **Enter**, ou use nosso avançado (e pesado) [sistema de busca para programadores](/all). Se quiser mais conteúdo sobre cinema clique neste post e verá uma lista de links úteis.
+
+ - [Cine Tênis Verde: O Livro](https://www.amazon.com.br/dp/B01NB0YTX6). Está à venda na Amazon os textos reunidos do blog desde seu início.
+ - [IMDB](http://www.imdb.com/). Base de dados de (quase) todos os filmes da galáxia já lançados ou para lançar.
+ - [Rotten Tomatoes](https://www.rottentomatoes.com/). Coletânea de reviews na gringa de críticos e usuários.
+ - [AdoroCinema](http://www.adorocinema.com/). O queridinho atual no Brasil de quem curte filmes, possui programação dos cinemas, textos e links de críticas da imprensa e dos usuários do saite.
+
+Críticos que costumo ler:
+ - [Roger Ebert](http://www.rogerebert.com/). O falecido crítico ainda possui seus textos publicados e textos de novos filmes compartilhados entre seus colaboradores.
+ - [Cinema Em Cena](www.cinemaemcena.com.br). Textos do melhor crítico técnico do Brasil da atualidade, Pablo Villaça, ativo há mais de 20 anos.
+
+# Introdução do livro (e do blogue)
 
 Assistir filmes pode ser usado como entretenimento e fuga da realidade. E, de fato, a maioria das pessoas usa o cinema para isso (eu incluso). No entanto, como tudo na vida, esta forma automática de reagir ao conteúdo que nos é jogado para consumir não é a melhor maneira de interagir com o mundo, nem de aproveitar duas horas de lazer de sua vida.
 
