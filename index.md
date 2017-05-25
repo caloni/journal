@@ -38,6 +38,10 @@ function parseQueryFromUrl () {
       }, true);
 // ]]></script>
 
+{% for post in site.categories.pinned %}
+{% include index_item_content.html %}
+{% endfor %}
+
 {% for post in site.posts limit:20  %}
 {% include index_item_content.html %}
 {% endfor %}
