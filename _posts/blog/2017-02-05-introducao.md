@@ -4,7 +4,7 @@ stars: "5/5"
 title: "Bem-Vindo!"
 tags: []
 ---
-Olá, caro cinéfilo! Aqui você irá encontrar a coletânea de textos escritos pelo aspirante a crítico de cinema Wanderley Caloni, criado e mantido desde 2010. São mais de 1500 textos sobre filmes e séries, de todos os gêneros, épocas e estilos. Apenas digite no sistema de busca algo relacionado ao filme que procura e digite a tecla **Enter**, ou use nosso avançado (e pesado) [sistema de busca para programadores](/all). Se quiser mais conteúdo sobre cinema clique neste post e verá uma lista de links úteis.
+Olá, caro cinéfilo! Testando. Aqui você irá encontrar a coletânea de textos escritos pelo aspirante a crítico de cinema Wanderley Caloni, criado e mantido desde 2010. São mais de 1500 textos sobre filmes e séries, de todos os gêneros, épocas e estilos. Apenas digite no sistema de busca algo relacionado ao filme que procura e digite a tecla **Enter**, ou use nosso avançado (e pesado) [sistema de busca para programadores](/all). Se quiser mais conteúdo sobre cinema clique neste post e verá uma lista de links úteis.
 
  - [Cine Tênis Verde: O Livro](https://www.amazon.com.br/dp/B01NB0YTX6). Está à venda na Amazon os textos reunidos do blog desde seu início.
  - [IMDB](http://www.imdb.com/). Base de dados de (quase) todos os filmes da galáxia já lançados ou para lançar.
