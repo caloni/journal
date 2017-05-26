@@ -46,5 +46,5 @@ function parseQueryFromUrl () {
 {% include index_item_content.html %}
 {% endfor %}
 <div style="text-align: right; font-size: small; margin-bottom: 25px;">
-    <a href="/all" title="Ver todos os posts (isso pode ser looooooooooongo)"><i>{{ site.name }} - {{ site.time | timezone: "Brazil" | date: "%Y-%m-%d %H:%M:%S" }}</i></a>
+    <a href="/all" title="Ver todos os posts (isso pode ser looooooooooongo)"><i>{{ site.name }} - {{ site.time | date: "%Y-%m-%d %H:%M:%S" }}</i></a>
 </div>
