@@ -4,7 +4,8 @@ body {
   margin: 0 auto !important;
   float: none !important;
   color: #4a4a4a;
-  font-family: monospace;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 17px;
   font-weight: 400;
   text-align: justify;
 }
@@ -34,7 +35,8 @@ a:hover {
 
 #title {
   color: #4a4a4a;
-  font-family: monospace;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 40px;
   line-height: 40px;
   font-weight: bold;
 }
