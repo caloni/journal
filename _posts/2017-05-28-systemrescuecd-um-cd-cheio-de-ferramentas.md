@@ -1,7 +1,6 @@
 ---
-title: "Um CD cheio de ferramentas Linux para desenvolvedores e suporte"
-tags: [ "projetos" ]
-
+title: "SystemRescueCD: um CD cheio de ferramentas Linux para desenvolvedores e suporte"
+tags: [ "projetos", "dicas", "contingencia" ]
 ---
 Há diversas distros Linux capazes de bootar via CD e com uma penca de ferramentas. Conheci há alguns anos uma delas: a [SystemRescueCd](http://www.system-rescue-cd.org/SystemRescueCd_Homepage): um disco de recuperação de HDs com diversas ferramentas embutidas. Dentro dele pode ser inserido outras ferramentas que achar interessante, e o mais importante, desenvolver através do próprio CD suas ferramentas.
 
@@ -67,4 +66,4 @@ Após a conclusão do comando o novo ISO deverá estar no diretório /mnt/custom
 cp /mnt/custom/customcd/isofile/*.iso /mnt/windows
 ```
 
-Desligue a máquina virtual e volte a montar o HD na máquina real. O ISO do novo CD de Contingência estará disponível.
+Desligue a máquina virtual e volte a montar o HD na máquina real. O ISO do novo CD estará disponível.
