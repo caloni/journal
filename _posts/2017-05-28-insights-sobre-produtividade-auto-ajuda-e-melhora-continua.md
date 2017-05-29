@@ -10,7 +10,7 @@ tags: [ "dicas", "flow", "emocoes", "psicologia", "procrastinacao" ]
  - [Best Writing Advice for Engineers I've Ever Seen. Period.](https://engineerwriting.jottit.com/)
  - [How to Beat Procrastination](http://lesswrong.com/lw/3w3/how_to_beat_procrastination/)
  - [How to Make Mistakes](https://ase.tufts.edu/cogstud/dennett/papers/howmista.htm)
- - [How to be a great software developer](How to be a great software developer)
+ - [How to be a great software developer](http://peternixey.com/post/83510597580/how-to-be-a-great-software-developer)
  - [News is bad for you and giving up reading it will make you happier](https://www.theguardian.com/media/2013/apr/12/news-is-bad-rolf-dobelli)
  - [O cansaço mental](http://brasil.elpais.com/brasil/2015/01/23/eps/1422018427_336669.html)
  - [Scott Adams: How to Be Successful](https://www.wsj.com/articles/scott-adams8217-secret-of-success-failure-1381639163)
