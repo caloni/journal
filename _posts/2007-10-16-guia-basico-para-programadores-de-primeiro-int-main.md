@@ -1,6 +1,6 @@
 ---
 title: Guia básico para programadores de primeiro int main
-tags: [ "c++", "programação", "livro" ]
+tags: [ "c++", "programação" ]
 ---
 
 

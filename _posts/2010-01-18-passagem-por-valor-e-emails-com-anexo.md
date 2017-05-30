@@ -1,6 +1,6 @@
 ---
 title: Passagem por valor e emails com anexo
-tags: [ "programação", "livro" ]
+tags: [ "programação" ]
 ---
 
 Mais uma [analogia vencedora para ponteiros](http://www.caloni.com.br/basico-do-basico-ponteiros), chamadas por valor e chamadas por referência: e-mails.

@@ -1,6 +1,6 @@
 ---
 title: Configurando seus projetos no Visual Studio
-tags: [ "programação", "livro" ]
+tags: [ "programação" ]
 ---
 
 Ao iniciar na arte da programação em C no Visual Studio, eventualmente o programador irá querer testar seus programas rodando em outra máquina que não seja a de desenvolvimento, mandar uma versão beta para amigos, pra namorada e pro seu cachorro. Geralmente, por padrão, existem algumas dependências do programa compilado com uma DLL de _runtime_ da versão do ambiente em que foi compilado o dito cujo, dificultando um pouco a distribuição do seu _motherfucker-program_.

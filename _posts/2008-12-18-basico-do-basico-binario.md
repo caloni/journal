@@ -1,6 +1,6 @@
 ---
 title: 'Básico do básico: binário'
-tags: [ "programação", "básico do básico", "livro" ]
+tags: [ "programação", "básico do básico" ]
 ---
 
 [![Número um e zero caindo do computador.](/images/numeros-um-e-zero-caindo-do-computador.png)](http://www.illustrationsof.com/details/clipart/8741.html)Apesar do tema binário, o assunto de hoje no fundo remete-nos a todo e qualquer tipo de **representação**. É o faz-de-conta um pouco mais intenso, vindo das profundezas da matemática e dominado com maestria pela nossa mente e sua capacidade lógica de abstrair.

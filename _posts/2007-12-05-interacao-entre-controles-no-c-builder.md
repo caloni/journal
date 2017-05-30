@@ -1,6 +1,6 @@
 ---
 title: Interação entre controles no C++ Builder
-tags: [ "código", "livro" ]
+tags: [ "código" ]
 ---
 
 [![C++ Builder Control](/images/cppbuilder-controls.png)](/images/cppbuilder-controls.png)Como próxima lição da nossa jornada Borland, vamos aprender a fazer os controles de um _form_ interagirem entre si com a força do pensamento.

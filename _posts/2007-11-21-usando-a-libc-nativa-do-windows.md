@@ -1,6 +1,6 @@
 ---
 title: Usando a LIBC nativa do Windows
-tags: [ "c++", "livro" ]
+tags: [ "c++" ]
 ---
 
 Por padrão, todo projeto no Visual Studio depende da LIBC. Isso quer dizer que, mesmo que você não use nem um mísero printf em todos os projetos criados, está atrelado a essa dependência. Em tempos onde fazer um "Hello World" pode custar 56 KB em _Release_ - Visual Studio 2005, configuração padrão sem "_buffer security check_" - vale a pena economizar alguns KBytes que não se vão usar. Principalmente se essa possibilidade existe desde o cavernoso Windows 95.

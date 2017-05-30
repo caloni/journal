@@ -1,6 +1,6 @@
 ---
 title: História do Windows - parte 4.0
-tags: [ "sistema operacional", "livro" ]
+tags: [ "sistema operacional" ]
 ---
 
 **Windows 95**

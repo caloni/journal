@@ -1,6 +1,6 @@
 ---
 title: Carregando DLLs arbitrárias pelo WinDbg - parte 2
-tags: [ "depuração", "livro" ]
+tags: [ "depuração" ]
 ---
 
 Como pudemos ver no [artigo anterior](http://www.caloni.com.br/carregando-dlls-arbitrarias-pelo-windbg), o processo para carregar uma DLL pelo WinDbg é muito extenso, enfadonho e sujeito a erros. Por esse motivo, e para tornar as coisas mais divertidas, resolvi transformar tudo aquilo em um simples _script_ que pode ser executado digitando apenas uma linha.

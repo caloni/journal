@@ -1,6 +1,6 @@
 ---
 title: Correção de bugs instantânea
-tags: [ "depuração", "livro" ]
+tags: [ "depuração" ]
 ---
 
 Um programador tarimbado sabe que a melhor situação da vida dele para corrigir um bug é quando esse bug acontece em sua máquina de desenvolvimento, na versão Debug e ainda passo-a-passo. Como nessa situação a correção é um verdadeiro "passeio no parque" (ou na mesa do café) ela tende a quase nunca acontecer. Isso é [Murphy](http://www.caloni.com.br/blog/wp-admin/Corre%C3%A7%C3%A3o%20de%20bugs%20instant%C3%A2nea.txt) Aplicado.

@@ -1,6 +1,6 @@
 ---
 title: Makefiles (e Visual Studio para todos)
-tags: [ "programação", "livro" ]
+tags: [ "programação" ]
 ---
 
 O Visual Studio é um ambiente de programação incrível, mesmo. Ele possui _auto-complete_ quase instantâneo, navegação de tipos, ajuda de contexto e flexibilidade em seus projetos. Existem [pessoas que evitam usá-lo](http://www.caloni.com.br/desenvolvendo-em-linha-de-comando) porque ele ocupa mais de 150 MB de memória virtual e 20 MB de _working set_ sem abrir nenhum projeto, mas, francamente, ele acaba sendo mais produtivo que o Bloco de Notas (exceto para testes).

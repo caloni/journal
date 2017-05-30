@@ -1,6 +1,6 @@
 ---
 title: Devaneio nerd rápido sobre profecias
-tags: [ "depuração", "devaneando", "livro" ]
+tags: [ "depuração", "devaneando" ]
 ---
 
 ![crystallball.jpg](/images/crystallball.jpg)Para quem já analisou os dados de uma tela azul sabe que, quando o Windows acha um culpado (vulgo driver) a data de sua compilação é exibida em um formato conhecido como **DateStamp** ou **TimeStamp**. Nesse formato o que temos é um número hexadecimal que segue o [formato de tempo do Unix](http://en.wikipedia.org/wiki/Unix_timestamp), que no caso é o número de segundos desde o dia primeiro de Janeiro de 1970. Isso, por curiosidade, nos dá uma margem de 140 anos antes dos número se repetirem se usarmos 32 bits nessa contagem.

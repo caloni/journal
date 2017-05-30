@@ -1,6 +1,6 @@
 ---
 title: Todo programador é um filósofo em potencial
-tags: [ "devaneando", "livro" ]
+tags: [ "devaneando" ]
 ---
 
 Tivemos uma conversa muito frutífera hoje durante o almoço ao conhecer uma professora que sentava ao nosso lado, exímia conhecedora da mente humana e amante das artes nobres como a [filosofia ](http://pt.wikipedia.org/wiki/Filosofia)e a [lógica](http://pt.wikipedia.org/wiki/L%C3%B3gica).

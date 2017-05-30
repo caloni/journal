@@ -1,6 +1,6 @@
 ---
 title: Proteção dos membros protected
-tags: [ "c++", "livro" ]
+tags: [ "c++" ]
 ---
 
 Quando queremos que um membro de nossa classe seja visível apenas dentro dos métodos da classe e dentro dos métodos das classes derivadas dessa classe usamos o nível de proteção _protected_. Isso, é claro, não quer dizer que uma classe derivada vá ter acesso aos membros protegidos de outra:

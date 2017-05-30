@@ -1,6 +1,6 @@
 ---
 title: Aquisição de recurso é inicialização
-tags: [ "c++", "livro" ]
+tags: [ "c++" ]
 ---
 
 O título desse artigo é uma técnica presente no paradigma da programação em C++, razão pela qual [não temos o operador finally](http://public.research.att.com/~bs/bs_faq2.html#finally). A idéia por trás dessa técnica é conseguirmos usar recursos representados por objetos locais de maneira que ao final da função esses objetos sejam destruídos e, junto com eles, os recursos que foram alocados. Podemos chamar de recursos aquele arquivo que necessita ser aberto para escrita, o bitmap que é exibido na tela, o ponteiro de uma interface COM, etc. O nosso exemplo é sobre arquivos:

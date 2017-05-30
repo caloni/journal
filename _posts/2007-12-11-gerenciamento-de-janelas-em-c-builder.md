@@ -1,6 +1,6 @@
 ---
 title: Gerenciamento de janelas em C++ Builder
-tags: [ "engenharia reversa", "livro" ]
+tags: [ "engenharia reversa" ]
 ---
 
 As janelas criadas no C++ Builder são equivalentes às janelas criadas pela API, com o detalhe que a VCL gerencia tudo automaticamente. Isso não quer dizer que não **podemos** tomar controle de tudo. Quer dizer que não **precisamos**.

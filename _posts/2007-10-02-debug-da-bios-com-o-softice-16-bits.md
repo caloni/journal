@@ -1,6 +1,6 @@
 ---
 title: Debug da BIOS com o SoftIce 16 bits
-tags: [ "depuração", "engenharia reversa", "livro" ]
+tags: [ "depuração", "engenharia reversa" ]
 ---
 
 Para quem ainda acha que não desceu demais o nível, existe um ótimo artigo de [ShalomZ](http://www.codeproject.com/script/Articles/list_articles.asp?userid=3038165), do Code Project, sobre [como construir seu próprio sistema operacional](http://www.codeproject.com/system/MakingOS.asp). É simples, direta e empolgante a maneira com que ele explica e trata os detalhes básicos, desde quando o computador é ligado até quando o _boot loader_ carrega e entrega o controle de execução. Eu mesmo fiz o teste com a imagem que foi disponibilizada para _download_ e funcionou direitinho. Agora esse meu artigo se dispõe a explicar como você pode fazer para depurar o processo de _load_ do seu primeiro sistema operacional.

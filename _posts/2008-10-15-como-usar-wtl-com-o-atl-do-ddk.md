@@ -1,6 +1,6 @@
 ---
 title: Como usar WTL com o ATL do DDK
-tags: [ "programação", "livro" ]
+tags: [ "programação" ]
 ---
 
 [![wdkandatl.png](/images/wdkandatl.png)](/images/wdkandatl.png)Eu simplemente não entendo a organização dos cabeçalhos e fontes dos SDKs da Microsoft. Houve uma vez em que o [ATL](http://www.1bit.com.br/content.1bit/weblog/sopa_de_letrinhas_ATL) era distribuído junto com o SDK, e dessa forma conseguíamos usar o [WTL](http://www.1bit.com.br/content.1bit/weblog/sopa_de_letrinhas_wtl) sem ônus. Porém, um belo dia, isso é retirado do pacote, para tristeza dos que já haviam convertido a biblioteca de janelas para fonte aberto.

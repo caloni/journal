@@ -1,6 +1,6 @@
 ---
 title: Acessando memória física no WinDbg
-tags: [ "depuração", "livro" ]
+tags: [ "depuração" ]
 ---
 
 ![dimm.gif](/images/dimm.gif)

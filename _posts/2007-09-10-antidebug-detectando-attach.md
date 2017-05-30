@@ -1,6 +1,6 @@
 ---
 title: 'Antidebug: detectando attach'
-tags: [ "código", "engenharia reversa", "livro" ]
+tags: [ "código", "engenharia reversa" ]
 ---
 
 Hoje foi um belo dia para engenharia reversa e análise de proteções. Dois ótimos programas vieram ao meu conhecimento: um [monitor de chamadas de API](http://www.kakeeware.com/) e um [monitor de chamadas de COM](http://www.blunck.info/comtrace.html) (complementando o primeiro, que não monitora funções depois que [CoCreateInstance](http://msdn2.microsoft.com/en-us/library/ms686615.aspx) foi chamado). Além de que no sítio do primeiro programa - de algum entusiasta do bom e velho Assembly Win32, diga-se de passagem - encontrei o código-fonte para mais uma técnica _antidebugging_, o que nos leva de volta para a já consagrada série de [técnicas antidepuração](http://www.caloni.com.br/blog/?s=antidebug%3A).

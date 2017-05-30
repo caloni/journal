@@ -1,6 +1,6 @@
 ---
 title: Try-catch flutuante
-tags: [ "c++", "livro" ]
+tags: [ "c++" ]
 ---
 
 Esse detalhe da linguagem quem me fez descobrir foi o **Yorick**, que [costuma comentar](http://www.caloni.com.br/quando-o-ponteiro-nulo-nao-e-invalido#comment-345) no blogue e tive o prazer de conhecer no [4o. EPA-CCPP](http://www.caloni.com.br/blog/epa-ccpp-4-nossa-comunidade-ganhando-forma).

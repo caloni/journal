@@ -1,6 +1,6 @@
 ---
 title: O passado torto de um programador por acaso
-tags: [ "devaneando", "livro" ]
+tags: [ "devaneando" ]
 ---
 
 

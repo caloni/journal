@@ -1,6 +1,6 @@
 ---
 title: Guia básico de repositórios no Bazaar
-tags: [ "controle de fonte", "livro" ]
+tags: [ "controle de fonte" ]
 ---
 
 Alguns conceitos-chave antes de trabalhar com o [Bazaar](http://bazaar-vcs.org/) são:

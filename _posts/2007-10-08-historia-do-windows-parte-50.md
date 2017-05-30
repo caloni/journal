@@ -1,6 +1,6 @@
 ---
 title: História do Windows - parte 5.0
-tags: [ "sistema operacional", "história", "windows", "livro", "livro" ]
+tags: [ "sistema operacional", "história", "windows", "livro" ]
 ---
 
 [![Windows 2000 Logo](../images/win2k-logo.png)](http://en.wikipedia.org/wiki/Windows_2000)**Windows 2000**
