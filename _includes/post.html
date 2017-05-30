@@ -2,16 +2,17 @@
   <div id="post-info" >
     <div id="info-container">
       <div id="title">{{ page.title }}</div>
-      <span id="details">Wanderley Caloni, {{ page.date | date: '%Y-%m-%d' }}</span>
-       {% include details.html %}
+      <span id="details">Wanderley Caloni, {{ page.date | date: '%Y-%m-%d' }}: {{ page.tags | join: ', ' }}</span>
     </div>
   </div>
 
   <div class="post" >
-    {{ content }}
+    <div id="post-content" >
+        {{ content }}
+    </div>
   <div class="navigation">
-      <div style="margin-bottom: 10px; margin-top: 10px;">
-      <span><i>Quer entrar em contato? Comente abaixo ou <b><a href="mailto:wanderley.caloni@bitforge.com.br">vamos tomar um café!</a></b> (wanderley.caloni at bitforge.com.br).</i></span>
+      <div style="margin-bottom: 10px; margin-top: 10px; font-size: 12px; text-align: right;">
+      <span><i>Olá! Quer entrar em contato? Comente abaixo ou <b><a href="mailto:wanderley.caloni@bitforge.com.br">vamos tomar um café!</a></b> (wanderley.caloni at bitforge.com.br).</i></span>
       </div>
   <div class="colophon">
       <p style="font-size: 1.5em;">
