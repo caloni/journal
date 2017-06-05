@@ -6,9 +6,8 @@ margin: 0 auto !important;
 float: none !important;
 color: #4a4a4a;
 font-family: 'Raleway', Arial, sans-serif;
-font-weight: 400;
 font-size: 1em;
-text-align: justify;
+font-weight: 400;
 }
 
 a {
@@ -25,6 +24,11 @@ a:hover {
 color: #555;
 border: none;
   }
+
+
+#post-content {
+  text-align: justify;
+}
 
 #title {
     margin-bottom: 0.35em;
