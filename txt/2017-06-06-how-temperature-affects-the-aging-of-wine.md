@@ -1,4 +1,8 @@
-How Temperature Affects the Aging of Wine | Quality Wine And Ale Supply | HomeBrewIt.com
+---
+title: "How Temperature Affects the Aging of Wine | Quality Wine And Ale Supply | HomeBrewIt.com"
+category: "txt"
+author: "Alexander (Al) J. Pandell, Ph.D."
+---
 homebrewit.com
 9 min
 How Temperature Affects the Aging of Wine | Quality Wine And Ale Supply | HomeBrewIt.com
@@ -75,5 +79,4 @@ Copyright © 2016 Quality Wine and Ale Supply - HomeBrewIt.com - "Get Your Brew 
 
 Website Designed and Developed by: Swarming Technology
 
- 
 homebrewit.com
