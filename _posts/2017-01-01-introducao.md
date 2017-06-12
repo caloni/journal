@@ -13,7 +13,7 @@ Meus espaços:
  - [Linkedin](https://www.linkedin.com/in/wanderleycaloni/). Este é supostamente meu currículo online...
  - [GitHub](https://github.com/Caloni). Mas faz mais sentido você dar uma olhada no [meu currículo de verdade](/sobre), neste blogue e nos fontes que tenho no GitHub.
  - [Minhas Leituras](https://www.instapaper.com/p/caloni). Aqui está o conteúdo que costumo consumir em texto online, que geralmente é o meu [modo preferido](https://www.instapaper.com/read/810137284) de consumir conteúdo.
- - [Meu arquivo de leituras](/txt/). Aqui está o conteúdo que já consumi, mas que não está disponível online.
+ - [Meu arquivo de leituras](/txt/). Aqui está o conteúdo que já consumi, mas que não está disponível online, então tive que dar um jeito (mas deve estar no link acima de qualquer forma).
 
 Comunidade:
  - [C/C++ Brasil](http://ccppbrasil.github.io/). Comunidade de programação C/C++ que fundei com Rodrigo Strauss.
