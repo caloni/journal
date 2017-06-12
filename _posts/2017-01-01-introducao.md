@@ -12,6 +12,7 @@ Meus espaços:
  - [Facebook](https://www.facebook.com/wanderleycaloni). As porcarias do twitter geralmente vão parar nesse saite aqui.
  - [Linkedin](https://www.linkedin.com/in/wanderleycaloni/). Este é supostamente meu currículo online...
  - [GitHub](https://github.com/Caloni). Mas faz mais sentido você dar uma olhada no [meu currículo de verdade](/sobre), neste blogue e nos fontes que tenho no GitHub.
+ - [Leituras](/txt/)
 
 Comunidade:
  - [C/C++ Brasil](http://ccppbrasil.github.io/). Comunidade de programação C/C++ que fundei com Rodrigo Strauss.
@@ -19,7 +20,3 @@ Comunidade:
  - [1Bit](www.1bit.com.br). Blogue de Rodrigo Strauss, um dos primeiros blogues brasileiros de tecnologia e vida de programador.
  - [DriverEntry](www.driverentry.com.br). Blogue de desenvolvimento de drivers 100% nacional desenvolvido por Fernando Silva.
  - [DQSoft](http://dqsoft.blogspot.com.br/). Blogue do "old timer" Daniel Quadros, sobre programação de plaquinhas e diversidades.
-
-Leituras:
- - [Teste](/txt/document5019692320816103432_4349833483887769027.txt)
-
