@@ -19,3 +19,7 @@ Comunidade:
  - [1Bit](www.1bit.com.br). Blogue de Rodrigo Strauss, um dos primeiros blogues brasileiros de tecnologia e vida de programador.
  - [DriverEntry](www.driverentry.com.br). Blogue de desenvolvimento de drivers 100% nacional desenvolvido por Fernando Silva.
  - [DQSoft](http://dqsoft.blogspot.com.br/). Blogue do "old timer" Daniel Quadros, sobre programação de plaquinhas e diversidades.
+
+Leituras:
+ - [Teste](/txt/document5019692320816103432_4349833483887769027.txt)
+
