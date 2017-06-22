@@ -4,7 +4,7 @@ imdb: "5771640"
 stars: "4/5"
 title: "A Garota Ocidental - Entre o Coração e a Tradição"
 cinemaqui: "http://www.cinemaqui.com.br/garota-ocidental-entre-o-coracao-e-tradicao"
-tags: ['netflix', 'cabine']
+tags: ['cabine']
 _title: "Noces"
 _year: "2016"
 _director: ["Stephan Streker", ]
