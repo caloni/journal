@@ -22,3 +22,9 @@ Comunidade:
  - [DriverEntry](www.driverentry.com.br). Blogue de desenvolvimento de drivers 100% nacional desenvolvido por Fernando Silva.
  - [DQSoft](http://dqsoft.blogspot.com.br/). Blogue do "old timer" Daniel Quadros, sobre programação de plaquinhas e diversidades.
  - [Visual C++ Blog](https://blogs.msdn.microsoft.com/vcblog/). Blogue da equipe de desenvolvimento C++ do Visual Studio.
+
+Todo (pode sugerir algo!):
+
+ - Artigo sobre a Runtime Library do Visual C++ e como ela pode gerar dores de cabeça na linkedição.
+ - Dividir samples dos códigos em submodules do git (e publicá-los no GitHub).
+
