@@ -16,15 +16,11 @@
   <div class="col-md-6 content-excerpt">
       <div class="row">
         <div class="col-md-12">
-          <div class="row content-date">
-            {{ .Date.Format "January 06" }}
-          </div>
           <div class="row content-title">
             <h2> <a href="{{ .Permalink }} "> {{ .Title }} </a> </h2>
           </div>
           <div class="row content-summary">
             <p> {{ .Summary }} </p>
-            <a class="more-link" href="{{ .Permalink }} "> READ THE POST </a>
           </div>
         </div>
       </div>
@@ -40,15 +36,11 @@
     <div class="col-md-6 content-excerpt">
         <div class="row">
           <div class="col-md-12">
-            <div class="content-date">
-              {{ .Date.Format "January 06" }}
-            </div>
             <div class="content-title">
               <h2> <a href="{{ .Permalink }} "> {{ .Title }} </a> </h2>
             </div>
             <div class="content-summary">
               <p> {{ .Summary }} </p>
-              <a class="more-link" href="{{ .Permalink }} "> READ THE POST </a>
             </div>
           </div>
         </div>

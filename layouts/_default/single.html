@@ -3,13 +3,6 @@
 <div class="col-md-12 entry">
   <div class="row">
     <div class="col-md-12">
-      <div class="entry-meta">
-        {{ .Date.Format "January 06" }}
-      </div>
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-md-12">
       <div class="entry-header">
        {{ .Title }}
       </div>
@@ -18,6 +11,10 @@
   <div class="row">
     <div class="col-md-2">
       <div class="entry-sidebar">
+
+      {{ with .Params._cover }} 
+        <img src="{{ . }}"/></a></span>
+      {{ end }}
 
       <span class="entry-sidebar-stars">
         {{ if eq .Params.stars "5/5" }}
