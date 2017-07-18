@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Posts | A XMinimal Hugo Site</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/fonts.css" />
+    
+  </head>
+
+  <body>
+    <nav>
+    <ul class="menu">
+      
+      <li><a href="/">Home</a></li>
+      
+      <li><a href="/about/">About</a></li>
+      
+      <li><a href="/post/">Search</a></li>
+      
+      <li><a href="/categories/">Categories</a></li>
+      
+      <li><a href="/tags/">Tags</a></li>
+      
+      <li><a href="/index.xml">Subscribe</a></li>
+      
+    </ul>
+    <hr/>
+    </nav>
+
+
+<script src="/js/jquery.min.js"></script>
+<script>
+function ApplyFilter(filter)
+{
+        query = filter
+        query = $.trim(query); 
+        query = query.split('&');
+
+        if( query.length == 1 )
+        {
+            queryRegex = $.trim(query[0]);
+            regex = new RegExp(queryRegex, "i");
+            hides = 0;
+            shows = 0;
+
+            $.each( $('.sortable'), function(i, sortable) {
+              $('tr', sortable).each(function() {
+                var srch = $(this).text() + $(this).find('a').prop('title');
+                if( srch.search(regex) < 0 )
+                {
+                    $(this).hide()
+                    hides++;
+                }
+                else
+                {
+                    $(this).show();
+                    shows++;
+                }
+                });
+            });
+
+            total = shows + hides;
+            $('#filter').prop('title', shows + ' de ' + total);
+        }
+        else 
+        {
+            total = 0;
+            
+            $.each( $('.sortable'), function(i, sortable) {
+              $('tr', sortable).each(function() {
+                $(this).show()
+                total++;
+                });
+            });
+            shows = total;
+
+            
+            for( var i = 0; i < query.length; ++i )
+            {
+                queryRegex = $.trim(query[i]);
+                regex = new RegExp(queryRegex, "i");
+
+                $.each( $('.sortable'), function(i, sortable) {
+                  $('tr', sortable).each(function() {
+                    var srch = $(this).text() + $(this).find('a').prop('title');
+                    if( srch.search(regex) < 0 )
+                    {
+                        if( $(this).is(":visible") )
+                        {
+                            shows--;
+                            $(this).hide()
+                        }
+                    }
+                    });
+                });
+            }
+
+            $('#filter').prop('title', shows + ' de ' + total);
+        }
+}
+
+var QueryString = function () {
+  
+  
+  var query_string = {};
+  var query = window.location.search.substring(1);
+  var vars = query.split("&");
+  for (var i=0;i<vars.length;i++) {
+    var pair = vars[i].split("=");
+        
+    if (typeof query_string[pair[0]] === "undefined") {
+      query_string[pair[0]] = decodeURIComponent(pair[1]);
+        
+    } else if (typeof query_string[pair[0]] === "string") {
+      var arr = [ query_string[pair[0]],decodeURIComponent(pair[1]) ];
+      query_string[pair[0]] = arr;
+        
+    } else {
+      query_string[pair[0]].push(decodeURIComponent(pair[1]));
+    }
+  } 
+  return query_string;
+}();
+
+$(document).ready(function(){
+    $("#filter").keyup(function(event){
+        query = $(this).val();
+        ApplyFilter(query);
+    });
+    var query = QueryString['q'];
+    $('#filter').val(query);
+    $('#filter').focus();
+    ApplyFilter(query);
+});
+
+</script>
+
+
+<h1>Posts</h1>
+
+
+
+
+<table class="sortable">
+<input type="text" name="filter" value="" id="filter" style="width: 100%; font-size: 22px;" title=""/>
+
+<tr><td>
+      <a href="/2016-02-14-hello-markdown/"
+      title="
+      Post Title: A Plain Markdown Post
+      Post Date: 2016-02-14 00:00:00 &#43;0000 UTC
+      Post Category: 
+      Post Stars: 
+      Post Tags: [blogdown Markdown MathJax Pandoc RStudio]
+      Revision Dates: 
+      Original Title: 
+      Year: 
+      Director: 
+      Writer: 
+      Cast: 
+      Country: 
+      Editor: 
+      Cinematographer: 
+      Music: 
+      Genres: 
+      Runtime: 
+      Kind: 
+      Ratio: 
+      Release Date: 
+      "
+      >
+      A Plain Markdown Post
+      </a>
+</td></tr>
+
+<tr><td>
+      <a href="/2015-07-23-lorem-ipsum/"
+      title="
+      Post Title: Lorem Ipsum
+      Post Date: 2015-07-23 00:00:00 &#43;0000 UTC
+      Post Category: 
+      Post Stars: 
+      Post Tags: [Markdown]
+      Revision Dates: 
+      Original Title: 
+      Year: 
+      Director: 
+      Writer: 
+      Cast: 
+      Country: 
+      Editor: 
+      Cinematographer: 
+      Music: 
+      Genres: 
+      Runtime: 
+      Kind: 
+      Ratio: 
+      Release Date: 
+      "
+      >
+      Lorem Ipsum
+      </a>
+</td></tr>
+
+</table>
+
+  <footer>
+  
+<script async src="//yihui.name/js/center-img.js"></script>
+
+  
+  <hr/>
+  &copy; Wanderley Caloni | <a href="https://github.com/caloni">Github</a> | <a href="https://twitter.com/caloni">Twitter</a>
+  
+  </footer>
+  </body>
+</html>
+
