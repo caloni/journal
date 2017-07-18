@@ -1,38 +1,22 @@
 ---
-title: Home
+date: "2017-02-05"
+categories: "pinned"
+stars: "5/5"
+title: "Bem-Vindo!"
+tags: []
 ---
+<img src="/img/logo.png" style="max-width:15%;min-width:40px;float:right;" alt="Logo" />
 
-[<img src="https://simpleicons.org/icons/github.svg" style="max-width:15%;min-width:40px;float:right;" alt="Github repo" />](https://github.com/yihui/hugo-xmin)
+Olá, caro cinéfilo! Aqui você irá encontrar a coletânea de textos escritos pelo aspirante a crítico de cinema Wanderley Caloni, criado e mantido desde 2010. São mais de 1500 textos sobre filmes e séries, de todos os gêneros, épocas e estilos. Apenas digite no sistema de busca algo relacionado ao filme que procura e digite a tecla **Enter**, ou use nosso avançado (e pesado) [sistema de busca para programadores](/post). Se quiser mais conteúdo sobre cinema clique neste post e verá uma lista de links úteis.
 
-# HUGO XMIN
+ - [Cine Tênis Verde: O Livro](https://www.amazon.com.br/dp/B01NB0YTX6). Está à venda na Amazon os textos reunidos do blog desde seu início.
+ - [IMDB](http://www.imdb.com/). Base de dados de (quase) todos os filmes da galáxia já lançados ou para lançar.
+ - [Rotten Tomatoes](https://www.rottentomatoes.com/). Coletânea de reviews na gringa de críticos e usuários.
+ - [AdoroCinema](http://www.adorocinema.com/). O queridinho atual no Brasil de quem curte filmes, possui programação dos cinemas, textos e links de críticas da imprensa e dos usuários do saite.
 
-## _Keep it simple, but not simpler_
+Críticos que costumo ler:
 
-**XMin** is a Hugo theme written by [Yihui Xie](https://yihui.name) in about four hours: half an hour was spent on the Hugo templates, and 3.5 hours were spent on styling. The main motivation for writing this theme was to provide a really minimal example to beginners of Hugo templates. This XMin theme contains about 130 lines of code in total, including the code in HTML templates and CSS (also counting empty lines).
+ - [Roger Ebert](http://www.rogerebert.com/). O falecido crítico ainda possui seus textos publicados e textos de novos filmes compartilhados entre seus colaboradores.
+ - [Cinema Em Cena](www.cinemaemcena.com.br). Textos do melhor crítico técnico do Brasil da atualidade, Pablo Villaça, ativo há mais de 20 anos.
 
-
-```bash
-find . -not -path '*/exampleSite/*' \( -name '*.html' -o -name '*.css' \) | xargs wc -l
-```
-
-```
-       5 ./layouts/404.html
-      18 ./layouts/_default/list.html
-      12 ./layouts/_default/single.html
-      16 ./layouts/_default/terms.html
-       0 ./layouts/partials/foot_custom.html
-       9 ./layouts/partials/footer.html
-       0 ./layouts/partials/head_custom.html
-      19 ./layouts/partials/header.html
-       7 ./static/css/fonts.css
-      50 ./static/css/style.css
-     136 total
-```
-
-I can certainly further reduce the code, for example, by eliminating the CSS, but I believe a tiny bit CSS can greatly improve readability. You cannot really find many CSS frameworks that only contain 50 lines of code.
-
-Although it is a minimal theme, it is actually fully functional. It supports pages (including the home page), blog posts, a navigation menu, categories, tags, and RSS. With [a little bit customization](https://github.com/yihui/hugo-xmin/blob/master/exampleSite/layouts/partials/foot_custom.html), it can easily support LaTeX math expressions, e.g.,
-
-`$${\sqrt {n}}\left(\left({\frac {1}{n}}\sum _{i=1}^{n}X_{i}\right)-\mu \right)\ {\xrightarrow {d}}\ N\left(0,\sigma ^{2}\right)$$`
-
-All pages not under the root directory of the website are listed below. You can also visit the list page of a single section, e.g., [posts](/post/), or [notes](/note/). See the [About](/about/) page for the usage of this theme.
+Abaixo você tem os últimos textos do site:

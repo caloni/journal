@@ -1,101 +1,20 @@
 ---
-title: About Hugo XMin
-author: Yihui Xie
+date: "2017-02-05"
+categories: "pinned"
+stars: "5/5"
+title: "Bem-Vindo!"
+tags: []
 ---
+# Introdução do livro (e do blogue)
 
-**XMin** is the first Hugo theme I have designed. The original reason that I wrote it was I needed a minimal example of Hugo themes when I was writing the  [**blogdown**](https://github.com/rstudio/blogdown) book. Basically I wanted a simple theme that supports a navigation menu, a home page, other single pages, lists of pages, blog posts, categories, tags, and RSS. That is all. Nothing fancy. In terms of CSS and JavaScript, I really want to keep them minimal. In fact, this theme does not contain any JavaScript code at all, although on this example website I did introduce some JavaScript code (still relatively simple anyway). The theme does not contain any images, either, and is pretty much a plain-text theme.
+Assistir filmes pode ser usado como entretenimento e fuga da realidade. E, de fato, a maioria das pessoas usa o cinema para isso (eu incluso). No entanto, como tudo na vida, esta forma automática de reagir ao conteúdo que nos é jogado para consumir não é a melhor maneira de interagir com o mundo, nem de aproveitar duas horas de lazer de sua vida.
 
-The theme name "XMin" can be interpreted as "**X**ie's **Min**imal theme" (Xie is my last name) or "e**X**tremely **Min**imal theme".
+O Cinema se construiu como parte integrante da era industrial, consequência quase que lógica do avanço do capitalismo e do fornecimento de bens e serviços para uma imensa massa que era antes excluída dos bens mais essenciais à vida humana. Isso torna tudo mais complicado, pois como pode, caro leitor, uma obra ser produzida como um produto, um empreendimento de risco, visando o lucro, e ao mesmo tempo conquistar corações e mentes, e, algumas raras vezes, elevar a comunicação audiovisual em um novo patamar estético e ser celebrado como uma nova forma de arte, talvez a mais completa e complexa que um ser humano poderá experimentar neste mundo?
 
-# config.toml
+Para que tudo isso faça sentido é vital que as pessoas assistam cada vez mais e mais filmes, pois apenas pela prática poderemos atingir a excelência em algo na vida. Porém, diferente de consumidores passivos, que deixam seu cérebro em uma tigela enquanto mastigam pipocas como zumbis observando a historinha que é colocada na sala escura cada vez mais cheia de pequenas telas dos celulares dos outros tipos de zumbis, é imperativo que usemos o cérebro e nossa mente como ferramentas de análise crítica do que nos é imposto pela mágica da projeção em 24 (ou 48) fps. Não aguentaremos mais os velhos formatos de uma mídia enlatada se conseguirmos projetar como consumidores ativos para quais tipos de obras dedicaremos nosso tempo e suado dinheirinho.
 
-For this example site, I defined permalinks for two sections, `post` and `note`, so that the links to pages under these directories will contain the date info, e.g., `https://xmin.yihui.name/post/2016/02/14/a-plain-markdown-post/`. This is optional, and it is up to your personal taste of URLs.
+E é essa a humilde proposta do Cine Tênis Verde, um canal de textos pretensiosamente simples que buscam fazer rápidas análises de filmes de todos os gêneros, línguas, povos, públicos e orçamentos. Nesta [primeira edição do livro](https://www.amazon.com.br/dp/B01NB0YTX6) você irá encontrar a compilação de cerca de 1300 destes textos, escritos desde a fundação do blog em 2010, indexados por título, ano da obra, diretor, roteirista, elenco e ordem de entrada no blog (a leitura natural do livro). Haverá vários erros de gramática e ortografia que não foram pegos a tempo, além de textos iniciais que apenas listavam anotações feitas durante o filme (algumas, quase nenhuma, com alguns spoilers... esteja avisado!).
 
-```
-[permalinks]
-    post = "/post/:year/:month/:day/:slug/"
-    note = "/note/:year/:month/:day/:slug/"
-```
+Também há uma seção onde a ficha técnica de todos os trabalhos estão listadas, ao lado de uma clássica cotação de cinco estrelas. Os links entre textos e fichas existe para você poder caminhar com mais ou menos detalhes sobre o filme. Se preferir ler apenas os textos, apenas o diretor e o ano estarão especificados (além do ano em que o texto foi escrito).
 
-You can define the menu through `menu.main`, e.g.,
-
-```
-[[menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 1
-[[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 2
-[[menu.main]]
-    name = "Categories"
-    url = "/categories/"
-    weight = 3
-[[menu.main]]
-    name = "Tags"
-    url = "/tags/"
-    weight = 4
-[[menu.main]]
-    name = "Subscribe"
-    url = "/index.xml"
-```
-
-Alternatively, you can add `menu: main` to the YAML metadata of any of your pages, so that these pages will appear in the menu.
-
-The page footer can be defined in `.Params.footer`, and the text is treated as Markdown, e.g.,
-
-```
-[params]
-    footer = "&copy; [Yihui Xie](https://yihui.name) 2017"
-```
-
-# Custom layouts
-
-There are two layout files under `layouts/partials/` that you may want to override: `head_custom.html` and `foot_custom.html`. This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
-
-```html
-<script src="//yihui.name/js/math-code.js"></script>
-<script async src="//cdn.bootcss.com/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
-
-<script async src="//yihui.name/js/center-img.js"></script>
-```
-
-You can certainly enable highlight.js for syntax highlighting by yourself through `head_custom.html` and `foot_custom.html` if you want.
-
-If you do not like the default fonts (e.g., `Palatino`), you may provide your own `static/css/fonts.css` under the root directory of your website to override the `fonts.css` in the theme.
-
-# Other features
-
-I could have added more features to this theme, but I decided not to, since I have no intention to make this theme feature-rich. However, I will teach you how. I have prepared several examples via pull requests at https://github.com/yihui/hugo-xmin/pulls, so that you can see the implementations of these features when you check out the diffs in the pull requests. For example, you can:
-
-- [Enable Google Analytics](https://github.com/yihui/hugo-xmin/pull/3)
-
-- [Enable Disqus comments](https://github.com/yihui/hugo-xmin/pull/4)
-
-- [Enable highlight.js for syntax highlighting of code blocks](https://github.com/yihui/hugo-xmin/pull/5)
-
-- [Display categories and tags on a page](https://github.com/yihui/hugo-xmin/pull/2)
-
-- [Add a table of contents](https://github.com/yihui/hugo-xmin/pull/7)
-
-- [Add a link in the footer of each page to "Edit this page" on Github](https://github.com/yihui/hugo-xmin/pull/6)
-
-To fully understand these examples, you have to read [the section on Hugo templates](https://bookdown.org/yihui/blogdown/templates.html) in the **blogdown** book.
-
-# Design philosophy
-
-Lastly, a few words about my design philosophy for this theme: I have been relying on existing frameworks like Bootstrap for years since I'm not really a designer, and I was always scared by the complexity of CSS.
-
-When I started writing this theme, I asked myself, "_What if I just write from scratch?_" No Bootstrap. No Normalize.css. I don't care about IE (life could be so much easier without IE) or inconsistencies among browsers (for personal websites). As long as the theme looks okay in Chrome, Firefox, and Safari, I'm done. Thanks to the simplicity of Markdown, you cannot really produce very complicated HTML, and I think styling the HTML output from Markdown is much simpler than general HTML documents. For example, I do not need to care much about form elements like textareas or buttons.
-
-After I finished this theme, I started to wonder why I'd need `normalize.css` at all (it sounds like a religious belief). The default appearance of modern browsers actually looks pretty good in my eyes, after I tweak the typeface a little bit.
-
-Compared to inconsistencies across browsers, I care much more about these properties of HTML elements:
-
-- Tables should always be centered, and striped tables are easier to read especially when they are wide. Tables should not have vertical borders.
-- An image should be centered if it is the only child element of a paragraph.
-- The `max-width` of images, videos, and iframes should be `100%`.
-
-I hope you can enjoy this theme. The source code is [on Github](https://github.com/yihui/hugo-xmin). Happy hacking!
+Por fim, espero que goste. O conteúdo continuará sendo atualizado (e corrigido) no próprio blog (www.cinetenisverde.com.br), e futuras edições irão surgir para a comodidade de uma leitura fluida. E nosso objetivo continuará sendo entender que todo filme, assim como tudo na vida, é melhor apreciado com o cérebro.
