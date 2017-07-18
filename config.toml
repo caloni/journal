@@ -1,7 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "A XMinimal Hugo Site"
-publishDir = "docs"
 theme = "hugo-xmin"
 googleAnalytics = ""
 disqusShortname = ""
@@ -40,4 +39,4 @@ footnotereturnlinkcontents = "?"
 [params]
     description = "A website built through Hugo and blogdown."
     footer = "&copy; Wanderley Caloni | [Github](https://github.com/caloni) | [Twitter](https://twitter.com/caloni)"
-    googleSearch = ""
+    googleSearch = "005399618489749432245:zflfst4-oeq"
