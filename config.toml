@@ -1,4 +1,4 @@
-baseurl = "https://cinetenisverde.com.br/"
+baseurl = "http://cinetenisverde.com.br/"
 title = "Cine Tênis Verde"
 theme = "hugo-tracks-theme"
 languageCode = "pt"
@@ -6,7 +6,7 @@ disqusShortname = "cinetenisverde"
 googleAnalytics = "UA-50557403-1"
 
 [permalinks]
-post = "/:slug/"
+post = "/:filename/"
 
 [params]
 description = "A melhor forma de ver um filme é com o cérebro."
