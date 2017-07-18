@@ -1,5 +1,5 @@
 ---
-category: "movies"
+category: "blog"
 title: "Cara Gente Branca"
 imdb: "5707802"
 stars: "3/5"
