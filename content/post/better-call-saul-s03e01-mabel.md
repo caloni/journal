@@ -1,6 +1,6 @@
 ---
 date: "2017-04-16"
-categories: "blog"
+categories: "series"
 title: "Better Call Saul - Terceira Temporada, Episódio 1: Mabel"
 imdb: "5554490"
 stars: "5/5"

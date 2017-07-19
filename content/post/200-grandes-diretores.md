@@ -1,7 +1,6 @@
 ---
 date: "2016-09-05"
 title: "200 Grandes Diretores"
-stars: "5/5"
 categories: "blog"
 tags: [ "listas", "download", "torrent", "diretores" ]
 ---

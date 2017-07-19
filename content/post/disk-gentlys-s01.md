@@ -1,6 +1,6 @@
 ---
 date: "2017-04-21"
-categories: "blog"
+categories: "series"
 title: "Dirk Gently's Holistic Detective Agency - Primeira Temporada"
 imdb: "4047038"
 stars: "4/5"

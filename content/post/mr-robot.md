@@ -1,6 +1,6 @@
 ---
 date: "2016-09-11"
-categories: "blog"
+categories: "series"
 title: "Mr. Robot"
 imdb: "4158110"
 stars: "5/5"

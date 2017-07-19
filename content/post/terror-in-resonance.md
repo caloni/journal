@@ -1,6 +1,6 @@
 ---
 date: "2015-09-19"
-categories: "blog"
+categories: "series"
 imdb: "3613454"
 stars: "3/5"
 title: "Terror in Resonance"

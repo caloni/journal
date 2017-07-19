@@ -1,7 +1,6 @@
 ---
 date: "2016-11-18"
 categories: "blog"
-stars: "5/5"
 title: "Quando a realidade encontra South Park"
 tags: ["reflexoes", "politica"]
 

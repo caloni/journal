@@ -1,6 +1,6 @@
 ---
 date: "2017-04-16"
-categories: "blog"
+categories: "series"
 title: "Samurai Gourmet"
 imdb: "6304676"
 stars: "4/5"

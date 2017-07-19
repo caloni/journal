@@ -3,7 +3,7 @@ date: "2014-09-25"
 imdb: "2395695"
 title: "Cosmos: Uma Odisséia do Espaço-Tempo"
 stars: "5/5"
-categories: "blog"
+categories: "series"
 revision: [2015-09-19]
 _title: "Cosmos: A Spacetime Odyssey"
 _year: "2014"

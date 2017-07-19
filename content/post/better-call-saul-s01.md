@@ -2,7 +2,7 @@
 date: "2015-04-07"
 imdb: "3032476"
 stars: "5/5"
-categories: "blog"
+categories: "series"
 title: "Better Call Saul - Primeira Temporada"
 date: "2016-04-22"
 _title: "Better Call Saul"

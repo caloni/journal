@@ -2,7 +2,7 @@
 date: "2015-07-06"
 imdb: "2431438"
 stars: "4/5"
-categories: "blog"
+categories: "series"
 title: "Sense8"
 _title: "Sense8"
 _year: "2015"

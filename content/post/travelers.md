@@ -1,6 +1,6 @@
 ---
 date: "2017-02-28"
-categories: "blog"
+categories: "series"
 title: "Travelers"
 imdb: "5651844"
 stars: "3/5"

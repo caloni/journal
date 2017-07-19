@@ -3,7 +3,7 @@ date: "2015-07-28"
 imdb: "1710308"
 stars: "3/5"
 title: "Regular Show"
-categories: "blog"
+categories: "series"
 _title: "Regular Show"
 _year: "2009"
 _director: ["John Infantino", "Sean Szeles", "J.G. Quintel", "Mike Roth", ]

@@ -1,6 +1,6 @@
 ---
 date: "2016-12-04"
-categories: "blog"
+categories: "series"
 title: "Haters Back Off!"
 imdb: "5467814"
 stars: "3/5"

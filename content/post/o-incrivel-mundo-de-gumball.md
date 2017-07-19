@@ -1,6 +1,6 @@
 ---
 date: "2016-10-16"
-categories: "blog"
+categories: "series"
 title: "O Incrível Mundo de Gumball"
 imdb: "1942683"
 stars: "4/5"

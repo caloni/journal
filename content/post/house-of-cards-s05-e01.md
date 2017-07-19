@@ -1,6 +1,6 @@
 ---
 date: "2017-05-30"
-categories: "blog"
+categories: "series"
 imdb: "1856010"
 stars: "4/5"
 title: "House of Cards - Quinta Temporada, Episódio 1"

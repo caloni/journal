@@ -3,7 +3,7 @@ date: "2016-02-07"
 imdb: "5189670"
 stars: "5/5"
 title: "Making a Murderer"
-categories: "blog"
+categories: "series"
 _title: "Making a Murderer"
 _year: "2015"
 _director: ["Moira Demos", "Laura Ricciardi", ]

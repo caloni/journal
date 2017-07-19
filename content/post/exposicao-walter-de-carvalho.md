@@ -1,7 +1,6 @@
 ---
 date: "2014-10-03"
 title: "Walter de Carvalho"
-stars: "5/5"
 categories: "blog"
 ---
 

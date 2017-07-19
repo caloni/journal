@@ -3,7 +3,7 @@ date: "2014-04-16"
 imdb: "2250192"
 title: "Sword Art Online - Primeira Temporada"
 stars: "4/5"
-categories: "blog"
+categories: "series"
 _title: "Sword Art Online"
 _year: "2012"
 _director: ["Tomohiko Ito", "Alex Von David", "Pyeon-Gang Ho", "Yoshiyuki Fujiwara", "Yasuyuki Fuse", "Makoto Hoshino", "Shigetaka Ikeda", "Takahiro Shikama", "Tatsumi Fujii", ]

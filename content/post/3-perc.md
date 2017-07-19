@@ -1,6 +1,6 @@
 ---
 date: "2016-12-04"
-categories: "blog"
+categories: "series"
 title: "3%"
 imdb: "4922804"
 stars: "3/5"

@@ -1,6 +1,6 @@
 ---
 date: "2017-03-29"
-categories: "blog"
+categories: "series"
 title: "12 Macacos - Primeira Temporada, Episódios 1 ao 3"
 imdb: "3148266"
 stars: "3/5"

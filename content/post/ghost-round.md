@@ -1,6 +1,6 @@
 ---
 date: "2016-10-23"
-categories: "blog"
+categories: "series"
 title: "Ghost Hound"
 imdb: "1097194"
 stars: "3/5"

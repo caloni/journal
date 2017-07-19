@@ -1,6 +1,6 @@
 ---
 date: "2017-04-26"
-categories: "blog"
+categories: "series"
 title: "Girlboss - Primeira Temporada"
 imdb: "5706996"
 stars: "4/5"

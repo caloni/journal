@@ -3,7 +3,7 @@ date: "2015-07-28"
 imdb: "0121955"
 stars: "5/5"
 title: "South Park"
-categories: "blog"
+categories: "series"
 revision: [2015-09-15]
 _title: "South Park"
 _year: "1997"

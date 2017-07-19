@@ -1,6 +1,6 @@
 ---
 date: "2017-07-01"
-categories: "blog"
+categories: "series"
 title: "Sense8 - Segunda Temporada"
 imdb: "2431438"
 stars: "4/5"

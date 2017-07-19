@@ -3,7 +3,7 @@ date: "2014-06-20"
 imdb: "1844624"
 title: "História de Horror Americana - Freak Show"
 stars: "4/5"
-categories: "blog"
+categories: "series"
 date: 2015-11-28
 _title: "American Horror Story"
 _year: "2011"

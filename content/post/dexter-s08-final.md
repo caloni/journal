@@ -3,7 +3,7 @@ date: "2014-11-09"
 imdb: "0773262"
 title: "Dexter - O Final"
 stars: "2/5"
-categories: "blog"
+categories: "series"
 _title: "Dexter"
 _year: "2006"
 _director: ["John Dahl", "Steve Shill", "Keith Gordon", "Marcos Siega", "Ernest R. Dickerson", "Romeo Tirone", "Michael Cuesta", "Tony Goldwyn", "S.J. Clarkson", ]

@@ -3,7 +3,7 @@ date: "2014-12-01"
 imdb: "2164430"
 title: "Diário de um Jovem Médico"
 stars: "3/5"
-categories: "blog"
+categories: "series"
 revision: [ 2016-06-12 ]
 _title: "A Young Doctor's Notebook"
 _year: "2012"

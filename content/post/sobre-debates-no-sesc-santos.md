@@ -1,7 +1,6 @@
 ---
 date: "2015-08-03"
 title: "Sobre debates no SESC Santos"
-stars: "5/5"
 categories: "blog"
 ---
 Esse fds participei de uma rápida ida e volta para Santos para participar de um dia com dois debates de um evento organizado pelo meu editor no [CinemAqui](www.cinemaqui.com.br), o [Vinicius Carlos Vieira](https://www.facebook.com/vinicius.carlosvieira).

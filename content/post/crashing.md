@@ -1,6 +1,6 @@
 ---
 date: "2017-07-04"
-categories: "blog"
+categories: "series"
 title: "Crashing"
 imdb: "5295524"
 stars: "3/5"

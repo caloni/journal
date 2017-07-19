@@ -1,6 +1,6 @@
 ---
 date: "2016-10-28"
-categories: "blog"
+categories: "series"
 title: "Black Mirror - Terceira Temporada, Episódio 4: San Junipero"
 imdb: "4538072"
 stars: "5/5"

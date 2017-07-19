@@ -1,6 +1,6 @@
 ---
 date: "2016-10-23"
-categories: "blog"
+categories: "series"
 title: "Easy"
 imdb: "5562056"
 stars: "4/5"

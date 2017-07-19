@@ -3,7 +3,7 @@ date: "2015-07-28"
 imdb: "2616280"
 stars: "4/5"
 title: "Derek"
-categories: "blog"
+categories: "series"
 _title: "Derek"
 _year: "2012"
 _director: ["Ricky Gervais", ]

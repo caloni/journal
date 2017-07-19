@@ -3,7 +3,7 @@ date: "2014-04-14"
 imdb: "1773185"
 title: "Madoka Magica"
 stars: "5/5"
-categories: "blog"
+categories: "series"
 revision: [2014-09-19]
 _title: "Maho Shojo Madoka Magica"
 _year: "2011"

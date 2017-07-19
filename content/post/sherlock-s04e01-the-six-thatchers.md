@@ -1,6 +1,6 @@
 ---
 date: "2017-04-16"
-categories: "blog"
+categories: "series"
 title: "Sherlock - Quarta Temporada, Episódio 1: The Six Thatchers"
 imdb: "3538760"
 stars: "4/5"

@@ -1,6 +1,6 @@
 ---
 date: "2016-10-23"
-categories: "blog"
+categories: "series"
 title: "Black Mirror - Terceira Temporada, Episódio 1: Nosedive"
 imdb: "5497778"
 stars: "5/5"

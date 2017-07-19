@@ -3,8 +3,7 @@ date: "2014-06-20"
 imdb: "1844624"
 title: "História de Horror Americana - Asylum"
 stars: "4/5"
-categories: "blog"
-date: 2015-11-28
+categories: "series"
 _title: "American Horror Story"
 _year: "2011"
 _director: ["Alfonso Gomez-Rejon", "Bradley Buecker", "Michael Uppendahl", "Michael Lehmann", "David Semel", "Howard Deutch", "Ryan Murphy", "Jeremy Podeswa", "Michael Rymer", ]
@@ -41,25 +40,6 @@ Sarah Paulson estreou em trabalhos para a T.V., incluindo o horror/drama/thrille
 
 Jessica Lange, ganhadora de dois Oscars  por Céu Azul (1994) e Tootsie (1982)  e indicada a tantos outros, estreou no Cinema como objeto erótico do desastroso remake de King Kong (1976, John Guillermin). Tem feito tanto trabalhos para a telona quanto para a TV, sempre realizando trabalhos relevantes. As primeiras duas temporadas da série lhe renderam duas indicações e um Emmy, e participa também da terceira temporada. Em sua estreia fez a vizinha intrometida Constance Langdon, onde seu passado com sua família acabou se tornando um dos temas mais profundos da temporada. Já como Irmã Jude Martin na temporada Asylum foi lhe dado o merecido arco dramático da saga até aqui, onde ela se transforma de uma versão religiosa da enfermeira Ratched (Um Estranho no Ninho) para a mais trágica das pacientes do asilo. A Morte brinca com ela por todo o tempo, mas são as ilusões perdidas que a deixam cada vez mais amargurada.
 
-stars: "4/5"
-categories: "blog"
-date: 2015-11-28
-_title: "American Horror Story"
-_year: "2011"
-_director: ["Alfonso Gomez-Rejon", "Bradley Buecker", "Michael Uppendahl", "Michael Lehmann", "David Semel", "Howard Deutch", "Ryan Murphy", "Jeremy Podeswa", "Michael Rymer", ]
-_writer: ["Brad Falchuk", "Ryan Murphy", "Jennifer Salt", "Jessica Sharzer", "Tim Minear", "James Wong", "Crystal Liu", "John J. Gray", "Todd Kubrak", ]
-_cast: ["Evan Peters", "Jessica Lange", "Sarah Paulson", "Frances Conroy", "Denis O'Hare", "Lily Rabe", "Emma Roberts", "Kathy Bates", "Taissa Farmiga", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Fabienne Bouville", "Adam Penn", "Stewart Schill", "Bradley Buecker", "Regis Kimble", "Robert Komatsu", ]
-_cinematographer: ["Michael Goi", "John B. Aronson", "Tom Houghton", ]
-_music: ["James S. Levine", "Mac Quayle", ]
-_genres: ["Drama", ]
-_runtimes: ["USA:60::(with commercials)", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjA1MzAwNjYzMl5BMl5BanBnXkFtZTgwMDg1ODU3MjE@.jpg"
-_kind: "tv series"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjA1MzAwNjYzMl5BMl5BanBnXkFtZTgwMDg1ODU3MjE@._V1._SX93_SY140_.jpg"
----
 A série foi criada por Brad Falchuk e Ryan Murphy, os mesmos que criaram Glee. O curioso é que ambos possuem a mesma relação de homenagear e referenciar obras clássicas, seja do terror ou da música. O roteiro fica por conta de cinco roteiristas que praticamente fazem um rodízio entre os episódios (e temporadas). O mesmo pode-se dizer de seu 13 diretores, embora os mais recorrentes sejam três: Michael Uppendahl, Bradley Buecker e Alfonso Gomez-Rejon, este último com 11 episódios.
 
 O roteiro dessa segunda temporada foca novamente em personagens carismáticos pelos seus objetivos, ao mesmo que tenta criar tramas entre esses personagens enquanto desenvolve suas narrativas principais envolvendo basicamente como as pessoas erradas irão sair do asilo e quem (ou o quê) é o verdadeiro mal de Briarcliff. Muitas vezes com enchimentos de linguiça  um problema frequente em séries com demanda por episódios  as melhores partes são realmente as que abraçam a "causa" do terror como forma de diálogo filosófico sobre a maldade humana. Dessa forma, os assassinatos de pessoas mais próximas é o que torna a série empolgante. Não apenas pelos assassinatos em si, mas a forma com que são desenvolvidos e as consequências de cada ato impensado. Nada parece ser sagrado naquele hospício dirigido pela igreja.

@@ -1,6 +1,6 @@
 ---
 date: "2017-04-16"
-categories: "blog"
+categories: "series"
 title: "Sherlock - Quarta Temporada, Episódio 3: The Final Problem"
 imdb: "3845892"
 stars: "3/5"

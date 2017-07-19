@@ -3,7 +3,6 @@ date: "2017-01-01"
 categories: "blog"
 title: "3%: spoilers sobre uma série para bandidos"
 imdb: "4922804"
-stars: "3/5"
 tags: ['netflix']
 _title: "3%"
 _year: "2016"

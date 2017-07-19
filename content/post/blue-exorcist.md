@@ -3,7 +3,7 @@ date: "2014-08-31"
 imdb: "1799631"
 title: "Blue Exorcist"
 stars: "3/5"
-categories: "blog"
+categories: "series"
 _title: "Ao no ekusoshisuto"
 _year: "2011"
 _director: ["Tensai Okamura", "Alex Von David", ]

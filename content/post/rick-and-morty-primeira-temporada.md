@@ -1,7 +1,7 @@
 ---
 date: "2017-01-01"
-categories: "blog"
-title: "Rick and Morty"
+categories: "series"
+title: "Rick and Morty - Primeira Temporada"
 imdb: "2861424"
 stars: "4/5"
 tags: ['netflix']

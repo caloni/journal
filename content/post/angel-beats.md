@@ -1,6 +1,6 @@
 ---
 date: "2016-11-04"
-categories: "blog"
+categories: "series"
 title: "Angel Beats!"
 imdb: "1639109"
 stars: "1/5"

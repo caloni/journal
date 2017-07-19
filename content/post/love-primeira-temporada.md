@@ -1,9 +1,9 @@
 ---
 date: "2016-03-01"
-categories: "blog"
+categories: "series"
 imdb: "4061080"
 stars: "3/5"
-title: "Love"
+title: "Love - Primeira Temporada"
 _title: "Love"
 _year: "2016"
 _director: ["Dean Holland", "John Slattery", ]

@@ -1,6 +1,6 @@
 ---
 date: "2017-07-03"
-categories: "blog"
+categories: "series"
 title: "Better Call Saul - Terceira Temporada"
 imdb: "3032476"
 stars: "4/5"

@@ -4,7 +4,7 @@ imdb: "0903747"
 title: "Breaking Bad - Quinta Temporada"
 revision: [2016-07-17]
 stars: "5/5"
-categories: "blog"
+categories: "series"
 date: "2016-07-16"
 _title: "Breaking Bad"
 _year: "2008"

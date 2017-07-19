@@ -1,9 +1,10 @@
 ---
 date: "2017-01-17"
-categories: "blog"
+categories: "series"
 title: "One Punch Man: Wanpanman"
 imdb: "4508902"
 stars: "4/5"
+revision: [ "2017-07-19" ]
 tags: ['torrent']
 _title: "One Punch Man: Wanpanman"
 _year: "2015"

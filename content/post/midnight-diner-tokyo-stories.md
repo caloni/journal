@@ -1,6 +1,6 @@
 ---
 date: "2016-10-23"
-categories: "blog"
+categories: "series"
 title: "Midnight Diner: Tokyo Stories"
 imdb: "3958276"
 stars: "4/5"

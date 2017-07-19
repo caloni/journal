@@ -1,6 +1,6 @@
 ---
 date: "2017-03-26"
-categories: "blog"
+categories: "series"
 title: "Westworld - Primeira Temporada"
 imdb: "0475784"
 stars: "4/5"

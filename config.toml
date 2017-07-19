@@ -1,6 +1,6 @@
 baseURL = "http://www.cinetenisverde.com.br/"
 languageCode = "en-us"
-title = "A XMinimal Hugo Site"
+title = "Cine Tênis Verde"
 theme = "hugo-xmin"
 googleAnalytics = ""
 disqusShortname = ""

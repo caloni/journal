@@ -1,6 +1,6 @@
 ---
 date: "2016-08-18"
-categories: "blog"
+categories: "series"
 imdb: "2357547"
 stars: "3/5"
 title: "Jessica Jones"

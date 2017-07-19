@@ -1,6 +1,6 @@
 ---
 date: "2017-06-05"
-categories: "blog"
+categories: "series"
 imdb: "1856010"
 stars: "4/5"
 title: "House of Cards - Quinta Temporada"

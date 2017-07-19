@@ -1,6 +1,6 @@
 ---
 date: "2017-03-08"
-categories: "blog"
+categories: "series"
 title: "Abstract: The Art of Design - (Christoph Niemann: Illustration)"
 imdb: "6397576"
 stars: "4/5"
