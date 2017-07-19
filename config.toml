@@ -13,24 +13,29 @@ footnotereturnlinkcontents = "?"
     note = "/:filename/"
 
 [[menu.main]]
+    name = "Todo"
+    url = "/todo/"
+    weight = 1
+[[menu.main]]
     name = "Home"
     url = "/"
-    weight = 1
+    weight = 2
 [[menu.main]]
     name = "Search"
     url = "/post/"
-    weight = 2
+    weight = 3
 [[menu.main]]
     name = "Categories"
     url = "/categories/"
-    weight = 3
+    weight = 4
 [[menu.main]]
     name = "Tags"
     url = "/tags/"
-    weight = 4
+    weight = 5
 [[menu.main]]
     name = "Subscribe"
     url = "/index.xml"
+    weight = 6
 
 [params]
     description = "A website built through Hugo and blogdown."
