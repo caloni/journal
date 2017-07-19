@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "A XMinimal Hugo Site"
+title = "Blogue do Caloni"
 theme = "hugo-xmin"
 googleAnalytics = ""
 disqusShortname = ""
@@ -21,10 +21,6 @@ footnotereturnlinkcontents = "?"
     url = "/post/"
     weight = 2
 [[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 2
-[[menu.main]]
     name = "Categories"
     url = "/categories/"
     weight = 3
@@ -38,5 +34,5 @@ footnotereturnlinkcontents = "?"
 
 [params]
     description = "A website built through Hugo and blogdown."
-    footer = "&copy; Wanderley Caloni | [Github](https://github.com/caloni) | [Twitter](https://twitter.com/caloni)"
+    footer = "&copy; [Wanderley Caloni](/sobre) | [Github](https://github.com/caloni) | [Twitter](https://twitter.com/caloni)"
     googleSearch = "005399618489749432245:zflfst4-oeq"
