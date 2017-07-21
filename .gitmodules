@@ -1,0 +1,3 @@
+[submodule "leituras"]
+	path = leituras
+	url = https://github.com/Caloni/leituras
