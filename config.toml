@@ -13,31 +13,27 @@ footnotereturnlinkcontents = "?"
     note = "/:filename/"
 
 [[menu.main]]
-    name = "Todo"
-    url = "/todo/"
-    weight = 1
-[[menu.main]]
     name = "Home"
     url = "/"
-    weight = 2
+    weight = 1
 [[menu.main]]
     name = "Search"
     url = "/post/"
-    weight = 3
+    weight = 2
 [[menu.main]]
     name = "Categories"
     url = "/categories/"
-    weight = 4
+    weight = 3
 [[menu.main]]
     name = "Tags"
     url = "/tags/"
-    weight = 5
+    weight = 4
 [[menu.main]]
     name = "Subscribe"
     url = "/index.xml"
-    weight = 6
+    weight = 5
 
 [params]
     description = "A website built through Hugo and blogdown."
-    footer = "&copy; [Wanderley Caloni](/sobre) | [Github](https://github.com/caloni) | [Twitter](https://twitter.com/caloni)"
+    footer = "&copy; [Wanderley Caloni](/sobre) | [Github](https://github.com/caloni) | [Twitter](https://twitter.com/caloni) | [Todo](/todo) | [Leituras](/leituras)"
     googleSearch = "005399618489749432245:zflfst4-oeq"
