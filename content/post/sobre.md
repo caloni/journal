@@ -1,7 +1,5 @@
 ---
-date: "2007-06-14"
 title: Sobre o autor
-tags: [about, author]
 ---
 <img src="/images/caloni.jpg" style="float: left; margin: 24px;"/>__Wanderley Caloni__ é um programador C/C++ especializado em __backend para Windows__ que decidiu ter seu próprio blogue técnico. Tenta mantê-lo atualizado com suas peripécias do dia-a-dia. Colaborador frequente do Grupo C/C++ Brasil, foi junto de [Rodrigo Strauss](http://www.1bit.com.br/) um dos fundadores e participante do primeiro encontro de [programadores C++](http://groups.google.com/group/ccppbrasil) de São Paulo. Trabalhou por dez anos na área de __Segurança da Informação__, principalmente no [Controle de Acesso a Usuários](http://www.scua.com.br) e [Análise de Trojans](http://www.opencs.com.br/site/). Em seguida trabalhou em projetos de desenvolvimento para a __[Área Financeira](http://www.ezmarket.com.br/)__, vindo a ser sócio de uma [empresa especializada](http://www.intelitrader.com.br). Hoje é um dos sócios da __[BitForge](http://www.bitforge.com.br)__, uma empresa que auxilia equipes de desenvolvimento em problemas complexos, seja em arquitetura, metodologias ou escovação de bits, mesmo.
 
