@@ -218,5 +218,9 @@ def PublishToSocialMedia(post, img):
         print '*** Something gone wrong!'
         raise
 
-PublishToSocialMedia(sys.argv[1], sys.argv[2])
+if len(sys.argv) < 3:
+    print 'How to use: share.py post-slug http://image-link'
+else:
+    PublishToSocialMedia(sys.argv[1], sys.argv[2])
+
 
