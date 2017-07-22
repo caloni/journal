@@ -209,8 +209,7 @@ def PublishToSocialMedia(post, img):
         PublishToFacebook(postInfo, img)
         print '*** Done!'
         SearchAdoroCinema(postInfo)
-        if republish == False:
-            webbrowser.open_new_tab(link)
+        webbrowser.open_new_tab(link)
         webbrowser.open_new_tab('https://plus.google.com/b/116314610297829036822')
         webbrowser.open_new_tab('https://www.facebook.com/cinetenisverde/')
         webbrowser.open_new_tab('https://twitter.com/')
