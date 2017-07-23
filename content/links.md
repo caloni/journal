@@ -10,8 +10,7 @@ Meus espaços:
  - [Facebook](https://www.facebook.com/wanderleycaloni). As porcarias do twitter geralmente vão parar nesse saite aqui.
  - [Linkedin](https://www.linkedin.com/in/wanderleycaloni/). Este é supostamente meu currículo online...
  - [GitHub](https://github.com/Caloni). Mas faz mais sentido você dar uma olhada no [meu currículo de verdade](/sobre), neste blogue e nos fontes que tenho no GitHub.
- - [Minhas Leituras](https://www.instapaper.com/p/caloni). Aqui está o conteúdo que costumo consumir em texto online, que geralmente é o meu [modo preferido](https://www.instapaper.com/read/810137284) de consumir conteúdo.
- - [Meu arquivo de leituras](/txt/). Aqui está o conteúdo que já consumi, mas que não está disponível online, então tive que dar um jeito (mas deve estar no link acima de qualquer forma).
+ - [Leituras](/leituras). Textos, notas, resenhas; aqui está o conteúdo mastigado do que costumo consumir em assuntos que não são técnicos nem sobre cinema (vide item acima).
 
 Outros espaços:
 
