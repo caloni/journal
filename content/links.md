@@ -3,14 +3,15 @@ title: "Links úteis"
 ---
 Meus espaços:
 
- - [BitForge](www.bitforge.com.br). Minha empresa e onde eu trabalho; se quiser nos contratar para resolver seu problema comece por aqui.
- - [YouTube](https://www.youtube.com/playlist?list=PLa0QVTprDkHBHRCO7hiqiha-7WBLjfXiY). Possuo alguns vídeos aqui sobre programação.
+ - [EMail](mailto:wanderley.caloni@bitforge.com.br). __wanderley.caloni@bitforge.com.br__ O velho e bom canal de comunicação.
+ - [BitForge](www.bitforge.com.br). Minha empresa e onde eu trabalho; nos contrate para resolver seu problema aqui.
+ - [YouTube](https://www.youtube.com/playlist?list=PLa0QVTprDkHBHRCO7hiqiha-7WBLjfXiY). Vídeos que complementam o blogue.
  - [Cine Tênis Verde](www.cinetenisverde.com.br). Sou crítico de cinema nas horas vagas; este é meu blogue sobre isso.
  - [Twitter](www.twitter.com/caloni). Escrevo algumas porcarias por aqui, mas escrevo muito mais no meu twitter pessoal.
- - [Facebook](https://www.facebook.com/wanderleycaloni). As porcarias do twitter geralmente vão parar nesse saite aqui.
- - [Linkedin](https://www.linkedin.com/in/wanderleycaloni/). Este é supostamente meu currículo online...
- - [GitHub](https://github.com/Caloni). Mas faz mais sentido você dar uma olhada no [meu currículo de verdade](/sobre), neste blogue e nos fontes que tenho no GitHub.
- - [Leituras](/leituras). Textos, notas, resenhas; aqui está o conteúdo mastigado do que costumo consumir em assuntos que não são técnicos nem sobre cinema (vide item acima).
+ - [Facebook](https://www.facebook.com/wanderleycaloni). Meu círculo pessoal e familiar.
+ - [Linkedin](https://www.linkedin.com/in/wanderleycaloni/). Contatos profissionais, testemunhos e links técnicos.
+ - [GitHub](https://github.com/Caloni). Códigos que participo e que posso compartilhar.
+ - [Leituras](/leituras). Textos, notas, resenhas sobre assuntos que não são técnicos nem sobre cinema.
 
 Outros espaços:
 
