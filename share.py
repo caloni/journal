@@ -145,9 +145,6 @@ def PublishToSocialMedia(post, img):
         print '*** Done!'
         if republish == False:
             webbrowser.open_new_tab(link)
-        webbrowser.open_new_tab('https://plus.google.com/b/110301118168818781350')
-        webbrowser.open_new_tab('https://www.facebook.com/bitforge/')
-        webbrowser.open_new_tab('https://twitter.com/')
     except Exception as e:
         print '*** Something gone wrong!'
         raise
