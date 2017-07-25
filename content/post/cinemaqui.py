@@ -93,14 +93,6 @@ def updatereview(filePath):
     writereview(filePath, header, review, movieData)
 
 
-def updatereviews():
-  if specificReview:
-    updatereview(sys.argv[1])
-  else:
-    reviews = glob.glob(PostsPath + '\\*.md')
-    for r in reviews:
-      print r
-      updatereview(r)
-
-updatereviews()
+if len(sys.argv) > 1:
+  updatereview(sys.argv[1])
 
