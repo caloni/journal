@@ -1,0 +1,28 @@
+---
+imdb: "5013056"
+stars: "5/5"
+tags: ['cabine', '70mm']
+date: 2017-07-25T11:23:01
+title: "Dunkirk"
+categories: "movies"
+_title: "Dunkirk"
+_year: "2017"
+_director: ["Christopher Nolan", ]
+_writer: ["Christopher Nolan", ]
+_cast: ["Fionn Whitehead (Tommy)", "Damien Bonnard (French Soldier)", "Aneurin Barnard (Gibson)", "Lee Armstrong (Grenadier)", "James Bloor (Irate Soldier)", "Barry Keoghan (George)", "Mark Rylance (Mr. Dawson)", "Tom Glynn-Carney (Peter)", "Tom Hardy (Farrier)", "Kenneth Branagh (Commander Bolton)" ]
+_countries: ["UK", ]
+_languages: ["English", ]
+_editor: ["Lee Smith", ]
+_cinematographer: ["Hoyte Van Hoytema", ]
+_music: ["Hans Zimmer", ]
+_artdirection: ["Toby Britton", "Oliver Goodier", "Kevin Ishioka", "Eggert Ketilsson", "Benjamin Nowicki", "Erik Osusky", ]
+_costume designer: ["Jeffrey Kurland", ]
+_genres: ["Action", ]
+_runtimes: ["106", ]
+_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BN2YyZjQ0NTEtNzU5MS00NGZkLTg0MTEtYzJmMWY3MWRhZjM2XkEyXkFqcGdeQXVyMDA4NzMyOA@@.jpg"
+_ratio: "1 : 1"
+_kind: "movie"
+_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BN2YyZjQ0NTEtNzU5MS00NGZkLTg0MTEtYzJmMWY3MWRhZjM2XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1._SX94_SY140_.jpg"
+_releasedate: "27 July 2017"
+---
+Dunkirk é o pedido de desculpas bem empacotado de Christopher Nolan por ter feito de Interestelar um filme bem meia-boca. Aqui não temos dramas muito bem desenvolvidos de personagens, o que favorece o estilo esquemático de Nolan, que vem acompanhado de uma equipe competentes na edição, fotografia, atuações, design de som, trilha sonora e o próprio Nolan, que dirige e descreve este evento da Segunda Guerra com uma maestria ultrarrealista histórica e naturalista que faz jus ao uso dos 70mm na filmagem. Nos sentimos imersos na ação, seja ela dentro de um navio, de um caça ou em um imenso píer lotado de soldados loucos para voltar para casa, acuados pelo inimigo. O filme exibe atores de peso sem que eles atuem em prol de si mesmos. Do estreante Fionn Whitehead ao veterano Kenneth Branagh, todos estão muito bem. A câmera de Nolan nos mostra a visão subjetiva de soldados fugindo da guerra e de pilotos preocupados com seus conterrâneos lá embaixo. Os momentos na praia e no mar, tensos por natureza, se tornam mais tensos por conta da trilha sonora espetacularmente conduzida por Hans Zimmer, que não poupa esforços em ser notado, e consegue em quase todas as cenas. Porém, este é um filme que é feito para se tornar clássico, épico e quase um documentário de sua época, seja esta a Segunda Guerra ou o momento atual, onde vivemos uma crise polítia que poderia desencadear situação semelhante. Emergindo um patriotismo humanista modesto, mas honesto, Dunkirk é tudo menos um filme de guerra comum. Filmes de guerra comuns exageram no drama. Este é um retrato fiel da luta humana pela sobrevivência e pela cooperação. Assista no cinema.
