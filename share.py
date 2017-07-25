@@ -210,9 +210,6 @@ def PublishToSocialMedia(post, img):
         print '*** Done!'
         SearchAdoroCinema(postInfo)
         webbrowser.open_new_tab(link)
-        webbrowser.open_new_tab('https://plus.google.com/b/116314610297829036822')
-        webbrowser.open_new_tab('https://www.facebook.com/cinetenisverde/')
-        webbrowser.open_new_tab('https://twitter.com/')
     except Exception as e:
         print '*** Something gone wrong!'
         raise
