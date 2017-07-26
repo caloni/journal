@@ -4,7 +4,7 @@ title: "13 Encontro (Relâmpago) C/C++ Brasil Indaiatuba (SP) 5 de Agosto de 201
 categories: "blog"
 tags: ["c++", "encontros"]
 ---
-Depois desse título não há muito o que falar. Será um encontro relâmpago porque não tivemos tempo de fazer call for papers nem de muita divulgação, que será feita pela GAS Tecnologia, a empresa que está patrocinando esta edição.
+Depois desse título não há muito o que falar. Será um encontro relâmpago porque não tivemos tempo de fazer call for papers nem de muita divulgação, que será feita pela Diebold Nixdorf, a empresa que está patrocinando esta edição.
 
 O motivo da pressa é: ela se interessou em disponibilizar o espaço deles e coffee break para fazermos um evento lá. A empresa fica em Indaiatuba e o foco do evento seria para Campinas e região. Eles precisavam pelo menos de uma prévia dos palestrantes para aprovar com o RH e passamos os dados básicos, que foram os nomes prévios das palestras e os palestrantes.
 
