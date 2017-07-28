@@ -8,7 +8,7 @@ tags: [ "projetos" ]
 
 Mas se analisarmos dessa maneira pode parecer até coisa de "ráquer", o que certamente não é. Na verdade, se trata de um programa didático que visa ensinar a digitação em leiautes de teclados diferentes do normal em idiomas latinos. Pelo menos essa foi a intenção original. 
 
-Na época eu estava às voltas com o leiaute do famoso [teclado russo](http://en.wikipedia.org/wiki/Image:Keyboard_Layout_Russian.png) (percebeu a origem do nome do programa?). Eu havia estudado [cirílico](http://en.wikipedia.org/wiki/Cyrillic) e estava na hora de pôr em prática no computador. Mas, como quase nunca treinava, quando tentava procurar uma palavra no [Babylon](http://www.babylon.com/) ou arriscar uma expressão nas conversas com minha amiga de Moscou me perdia completamente para encontrar as letras. A necessidade é a mãe da invenção e foi aí que começou o desenvolvimento.
+Na época eu estava às voltas com o leiaute do famoso teclado russo (percebeu a origem do nome do programa?). Eu havia estudado [cirílico](http://en.wikipedia.org/wiki/Cyrillic) e estava na hora de pôr em prática no computador. Mas, como quase nunca treinava, quando tentava procurar uma palavra no [Babylon](http://www.babylon.com/) ou arriscar uma expressão nas conversas com minha amiga de Moscou me perdia completamente para encontrar as letras. A necessidade é a mãe da invenção e foi aí que começou o desenvolvimento.
 
 Um alfabeto é uma das muitas maneiras de representar as palavras de uma língua por escrito. Uma palavra escrita é um conjunto de letras que representa os sons que usamos para falar essa palavra. Cada som usado é chamado de [fonema](http://en.wikipedia.org/wiki/Phoneme).
 

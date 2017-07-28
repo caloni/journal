@@ -6,7 +6,7 @@ tags: [ "depuração" ]
 
 Após um projeto muito bem sucedido, entregue no prazo e homologado em tempo recorde, você e sua equipe estão aproveitando suas devidas férias nas Bahamas, tomando água de coco na sombra de uma palmeira e apreciando a beleza natural da região. Ambas as belezas. =)
 
-[![Club-med-beach-governors-harbour-eleuthera-bahamas](http://upload.wikimedia.org/wikipedia/commons/e/ed/Club-med-beach-governors-harbour-eleuthera-bahamas.jpg)](http://commons.wikimedia.org/wiki/File:Club-med-beach-governors-harbour-eleuthera-bahamas.jpg)
+![Club-med-beach-governors-harbour-eleuthera-bahamas](/images/Club-med-beach-governors-harbour-eleuthera-bahamas.jpg)]
 
 Mas eis que liga o seu gerente para o celular vermelho que te entregou no caso de emergências críticas e te avisa que um problema crítico foi detectado em um serviço crítico: o detector de pares. Consegue ver o erro?
 

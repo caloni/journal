@@ -9,8 +9,7 @@ tags: [ "sistema operacional" ]
 Chega às lojas no dia 25 de outubro de 2001 a unificação entre as plataformas de uso doméstico e corporativo do sistema. O Windows XP usa o kernel de 32 bits de seus antecessores Windows NT e Windows 2000. É vendido em duas edições: Home e Professional Edition. O design do sistema foi totalmente remodulado para suportar ao mesmo tempo a facilidade de uso do usuário doméstico e a robustez e confiabilidade dos clientes corporativos.
 
 
-
-![Windows XP (Luna) na Wikipedia](http://upload.wikimedia.org/wikipedia/en/6/64/Windows_XP_Luna.png)Um dos grandes trunfos nessa versão do Windows foi (mais uma vez) a "revolução gráfica", baseada em um redesenho do velho conceito de _desktop_ dos sistemas operacionais da Microsoft, em destaque o uso de temas e a total compatibilidade com a grande maioria das placas 3D. Sim, esse Windows foi feito pra jogar (jogos).
+![Windows XP (Luna) na Wikipedia](/images/Windows_XP_Luna.png)Um dos grandes trunfos nessa versão do Windows foi (mais uma vez) a "revolução gráfica", baseada em um redesenho do velho conceito de _desktop_ dos sistemas operacionais da Microsoft, em destaque o uso de temas e a total compatibilidade com a grande maioria das placas 3D. Sim, esse Windows foi feito pra jogar (jogos).
 
 Do ponto de vista da arquitetura, pouca coisa mudou, e essa versão mudou internamente de 5.0 (Windows 2000) para 5.1 (Windows XP) . Ou seja, praticamente um _patch_ de correção.
 
@@ -39,8 +38,6 @@ Pelo contrário. Acho que é uma boa hora para adentrar mais ainda nas entranhas
 
 
 Na eterna briga entre sistemas operacionais, uma categoria bem abastada (principalmente as discussões [Tanenbaum x Torvalds](http://www.oreilly.com/catalog/opensources/book/appa.html)) diz respeito aos sistemas monolíticos e aos baseados em _microkernel_. Basicamente os sistemas monolíticos possuem todo o seu código executando em modo privilegiado, inclusive os _device drivers_. Nos sistemas baseados em _microkernel_, no entanto, existe apenas uma fina camada de interface rodando em modo privilegiado, que serve de interação entre todos os serviços, _driver_ e aplicativos e o _hardware_.
-
-![Sistema monolítico x microkernel na Wikipedia](http://upload.wikimedia.org/wikipedia/en/e/eb/OS-structure.png)
 
 O problema em si não é a organização dos componentes do sistema operacional em torno de um ou de outro _design_, mas o que isso implica em termos de **eficiência**.
 

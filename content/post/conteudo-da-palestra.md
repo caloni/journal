@@ -41,4 +41,3 @@ Segue minha palestra e meu código-fonte sobre Move Semantics devidamente compac
 
 
 
-![](http://www.google.com/uds/css/small-logo.png)

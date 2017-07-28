@@ -60,8 +60,6 @@ Se analisarmos o conteúdo dos arquivos dentro da pasta Dicionario vamos descobr
 
 Sabendo que o conteúdo do dicionário está em arquivos localizados no disco, e que teoricamente o programa não deve copiar todo o conteúdo para a memória, iremos depurar o processo do dicionário de olho nas chamadas da função [ReadFile](http://msdn2.microsoft.com/en-us/library/aa365467(VS.85).aspx) quando clicarmos em uma definição de palavra.
 
-![](/images/msdn-readfile.png)
-
     
     windbg -pn houaiss2.exe
     0:001> bp kernel32!ReadFile "dd @$csp L6" $$ Dando uma olhada nos parâmetros
