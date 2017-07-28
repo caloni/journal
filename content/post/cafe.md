@@ -6,7 +6,7 @@ tags: [ "devaneios", "pessoal", "ferramentas" ]
 ---
 Vamos falar, então, de café? O café tem feito parte da minha vida em diferentes fases. Já o havia conhecido desde criança, pois diferente de hoje em dia, crianças podiam tomar o tradicional café da manhã com café e leite e ninguém ligava muito. Eu até participei do ritual infantil de molhar o pão com margarina na minha combinação perfeita entre café e leite quentinhos feitos pela mamãe. Talvez por isso a minha próxima fase com a bebida, como programador, tenha sido tão agradável e natural.
 
-![](/images/coffee.jpg)
+![](http://i.imgur.com/M1j9TWc.jpg)
 
 A primeira função do café na vida profissional é te manter acordado. Meus primeiros dias como programador profissional, trabalhando oito, nova horas todos os dias olhando para uma tela do computador tentando resolver problemas exigia que eu ingerisse cafeína para não cair com a cabeça no teclado. Havia, também, o ritual de socialização: o famoso cantinho do café. Em algum(ns) momento(s) do dia havia um sincronismo de threads entre alguns colegas e todos iam à mesinha com os copos descartáveis, um copo de vidro com colherzinhas, o açucareiro e aquela garrafa térmica com o tamanho proporcional ao tamanho da equipe. Os assuntos giravam em torno de travamentos, telas azuis, erros na instalação/desinstalação, criptografia de HD. O café regava assuntos difíceis para forjar programadores que se tornariam a base de conhecimento de muitos projetos e empresas.
 

@@ -186,19 +186,19 @@ O Visual Studio permite a criação de projeto makefile. Na verdade, ele vai al�
 
 A primeira coisa a fazer é criar um projeto do tipo makefile.
 
-[![VS New Project](/images/vs-new-project.png)](/images/vs-new-project.png)
+[![VS New Project](http://i.imgur.com/HGXtkSu.png)](/images/vs-new-project.png)
 
 Você vai encontrar este tipo de projeto na categoria General.
 
-[![VS Project](/images/vs-makefile-project.png)](/images/vs-makefile-project.png)
+[![VS Project](http://i.imgur.com/xOSEXhS.png)](/images/vs-makefile-project.png)
 
 Durante o _wizard_ de criação, já é possível escolher qual será o comando para compilar, recompilar e limpar o projeto.
 
-[![VS Config](/images/vs-makefile-config.png)](/images/vs-makefile-config.png)
+[![VS Config](http://i.imgur.com/73YAEBg.png)](/images/vs-makefile-config.png)
 
 Se você se esqueceu de configurar essas opções aí, não tem problema. Elas estarão sempre disponíveis através da opção de menu "Projects, Options".
 
-[![VS Config2](/images/vs-makefile-config2.png)](/images/vs-makefile-config2.png)
+[![VS Config2](http://i.imgur.com/mO5PrL0.png)](/images/vs-makefile-config2.png)
 
 Após todas essas operações teremos um projeto que não é controlado pela IDE, mas por [você](http://desciclo.pedia.ws/wiki/Reversal_Russa). O comando que você colocar na última tela irá definir o que o Visual Studio terá que fazer para construir seu projeto. Isso quer dizer "qualquer coisa". Porém, no momento estamos interessados em rodar o aplicativo make, baseado em um makefile que iremos configurar.
 
@@ -332,7 +332,7 @@ Como podem ver, não há segredo algum. Alguns ambientes eu configurei para comp
 
 A divisão é feita para mostrar de forma didática como criar makefiles para três ambientes distintos. Dessa forma, é possível chamar o makefile principal com qualquer um desses ambientes: nmake (Visual Studio), mingw32-make (GCC) ou make (Borland). A configuração no Visual Studio fica como está na figura abaixo.
 
-[![VS Config3](/images/vs-makefile-config3.png)](/images/vs-makefile-config3.png)
+[![VS Config3](http://i.imgur.com/89ob8LZ.png)](/images/vs-makefile-config3.png)
 
 Porém, veremos como dividir essa bagunça de ambientes em um projeto bem organizado.
 
@@ -344,7 +344,7 @@ Porém, veremos como dividir essa bagunça de ambientes em um projeto bem organi
 
 O Visual Studio organiza suas configurações inicialmente em Debug e Release. No entanto, nada impede que criemos diferentes configurações para diferentes ambientes. Tudo isso pode ser feito através do Configuration Manager (Build, Configuration Manager). No projeto de demonstração, criei uma configuração Debug e Release para cada ambiente, além do principal, que compila para todos. A lista ficou como a figura abaixo.
 
-[![Configuration Manager](/images/vs-makefile-configuration-manager.png)](/images/vs-makefile-configuration-manager.png)
+[![Configuration Manager](http://i.imgur.com/SKo2nyL.png)](/images/vs-makefile-configuration-manager.png)
 
 Para configurações específicas, comandos específicos. Para configurações genéricas, comandos que compilam todos os ambientes. Os comandos específicos mandam compilar apenas o makefile de seu respectivo ambiente:
 

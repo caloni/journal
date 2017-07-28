@@ -106,15 +106,15 @@ Para manter o Bazaar eternamente rodando, usamos [o programa do DriverEntry](htt
 
 Ou não sei usar direito esse programa ou ele não permite uso de aspas no nome do aplicativo junto de argumentos. Por isso tive que editar o registro onde ele fica para colocar aspas duplas em torno do bzr.exe.
 
-[![bazaar-prog2svc.png](/images/bazaar-prog2svc.png)](/images/bazaar-prog2svc.png)
+[![bazaar-prog2svc.png](http://i.imgur.com/Md7EXVK.png)](/images/bazaar-prog2svc.png)
 
 Após isso, ainda temos que configurar o serviço para iniciar automaticamente e usar um usuário conhecido. Enquanto o computador estiver ligado, mesmo que sem sessões abertas, nenhuma tela irá aparecer, mas o Bazaar estará rodando e ativo, escutando em sua porta padrão:
 
-[![bazaar-service.png](/images/bazaar-service.png)](/images/bazaar-service.png)
+[![bazaar-service.png](http://i.imgur.com/ydtBG4o.png)](/images/bazaar-service.png)
 
 Se estiver tudo certo, ao iniciar o serviço o Bazaar passará a ficar escutando e pronto para fazer _commits _e _branches_.
 
-[![bazaar-tcpview.png](/images/bazaar-tcpview.png)](/images/bazaar-tcpview.png)
+[![bazaar-tcpview.png](http://i.imgur.com/FkKIdGa.png)](/images/bazaar-tcpview.png)
 
 Agora qualquer usuário da rede consegue fazer _updates _e _commits. _Um desenvolvedor novo faria o seguinte comando:
 

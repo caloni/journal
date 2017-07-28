@@ -6,7 +6,7 @@ tags: [ "código" ]
 
 O sistema de _drag and drop_ do C++ Builder é muito fácil de usar, integrado que está com o sistema de classes e objetos do _framework_. Tanto para o objeto de _drag_ quanto para o objeto de _drop_ tudo que temos que fazer é definirmos a propriedade **DragMode** para **dmAutomatic** como mostra a figura. Isso fará com que toda a troca de mensagens seja manipulada automaticamente pela VCL.
 
-[![Troca-troca](/images/trocatroca.gif)](/images/trocatroca.gif)
+[![Troca-troca](http://i.imgur.com/lJTNRc9.gif)](/images/trocatroca.gif)
 
 
 

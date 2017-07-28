@@ -4,7 +4,7 @@ title: RValue é o novo LValue
 tags: [ "blogging", "c++", "c++11", "discussões", "eventos", "palestras" ]
 ---
 
-[![](/images/The-C-Programming-Language.jpg)](/images/The-C-Programming-Language.jpg)
+[![](http://i.imgur.com/N5uv6gS.jpg)](/images/The-C-Programming-Language.jpg)
 
 As grandes discussões filosóficas que participei durante meu estudo da linguagem C, e mais tarde de C++, muitas vezes convergiam para o significado místico daquela figura que nós da gramática da linguagem conhecemos como lvalue, ou l-value, ou left-value. Enfim, a definição de uma expressão que representa um lugar na memória e, portanto, pode ocupar o lado esquerdo de uma atribuição/cópia/passagem de argumentos qualquer. Porém, os "grandes" embates daquela época hoje parecem brincadeira de criança, como a diferença sutil entre ++x e x++ ou convergência de tipos em templates.
 

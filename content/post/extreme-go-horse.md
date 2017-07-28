@@ -11,7 +11,7 @@ Contudo, eles não contavam com a versão turbinada do desleixo humano.
 A eXtreme Go Horse (XGP) é o suprassumo das metodologias do mercado brasileiro de desenvolvimento. Quem nunca trabalhou em uma empresa gerida por essas regras? (Bom, pelo menos XGH pelo jeito tem até controle de fonte, algo que era até meio raro uns anos atrás):
 
 
-[![](/images/horse21.png)](/images/horse21.png)
+[![](http://i.imgur.com/jwAWHMD.png)](/images/horse21.png)
 
 
 **1- Pensou, não é XGH**

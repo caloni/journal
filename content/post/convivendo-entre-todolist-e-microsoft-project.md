@@ -12,31 +12,31 @@ As razões de eu usar o TodoList são meio óbvias: ele faz tudo que eu preciso 
 
 Mas vamos lá. Tudo que precisamos é de uma edição atual do TodoList e do Microsoft Project. A primeira coisa que devemos fazer é exportar as tarefas que queremos do TodoList para um [CSV](http://pt.wikipedia.org/wiki/Comma-separated_values) padrão, usando as colunas que gostaríamos de importar para o Project:
 
-![tarefas-no-todolist.png](/images/tarefas-no-todolist.png)
+![tarefas-no-todolist.png](http://i.imgur.com/YwPj3ph.png)
 
-![exportar-do-todolist.png](/images/exportar-do-todolist.png)
+![exportar-do-todolist.png](http://i.imgur.com/oq05iXN.png)
 
-![tarefas-no-excel.png](/images/tarefas-no-excel.png)
+![tarefas-no-excel.png](http://i.imgur.com/2UNFGL3.png)
 
 Depois vem a parte complicada, mas nem tanto. Abrimos o projeto para onde queremos importar essas tarefas e **escolhemos a opção Abrir novamente**, só que dessa vez selecionando o nosso amigo tarefas-exportadas.**CSV**.
 
-![project-limpo.png](/images/project-limpo.png)
+![project-limpo.png](http://i.imgur.com/ptXsE3F.png)
 
 Só que antes de importarmos, calma lá. **Temos que criar uma nova coluna que irá guardar os IDs das tarefas do TodoList**, para que nas próximas importações consigamos mesclar os dados já existentes. Portanto, crie uma nova coluna (pode ser qualquer NúmeroX não-alocado ainda) com um nome significativo.
 
 Agora podemos partir para a importação. Imaginando que seja a primeira, vamos criar um mapeamento inicial para essa primeira migração:
 
-![novo-mapa.png](/images/novo-mapa.png)
+![novo-mapa.png](http://i.imgur.com/3MaPHnv.png)
 
 Na hora de escolher quem é que, só precisamos definir quais colunas no Project correspondem a quais colunas do TodoList, e lembrar de alocar o ID na nossa coluna especial.
 
-![mapeamento.png](/images/mapeamento.png)
+![mapeamento.png](http://i.imgur.com/jcC1A4o.png)
 
-![salvar-mapa.png](/images/salvar-mapa.png)
+![salvar-mapa.png](http://i.imgur.com/i2aHSbi.png)
 
 Mais alguns Next da vida e pronto! Temos nossas tarefas devidamente importadas.
 
-![project-cheio.png](/images/project-cheio.png)
+![project-cheio.png](http://i.imgur.com/LxS5kjz.png)
 
 
 #### Mesclando dados
@@ -44,9 +44,9 @@ Mais alguns Next da vida e pronto! Temos nossas tarefas devidamente importadas.
 
 Mas é claro que todo esse trabalho não valeria a pena se tivéssemos que (arght) mexer no Project. Para evitar esse trabalho impuro, continuamos atualizando o andamento dos projetos no nosso pequeno, leve e sagaz TodoList e, quando precisarmos, é só importarmos novamente os dados, só que dessa vez **usando um mapa já salvo** (siga os screenshots acima) e **marcando nosso ID do TodoList como chave**. Dessa forma as tarefas já importadas são apenas atualizadas, e não criadas novamente. Esse é o famoso "[pulo do gato](http://radiobandeirantes.com.br/sobre.asp?PDT=28&ID=91)" (que eu ouvia matinalmente na minha época de office-boy).
 
-![usar-mapa-existente.png](/images/usar-mapa-existente.png)
+![usar-mapa-existente.png](http://i.imgur.com/MAYi2it.png)
 
-![definir-chave.png](/images/definir-chave.png)
+![definir-chave.png](http://i.imgur.com/JCARl4f.png)
 
 
 #### Boa notícia

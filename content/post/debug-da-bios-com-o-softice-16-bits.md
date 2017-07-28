@@ -71,7 +71,7 @@ Quando o código da BIOS é executado, ele precisa, entre outras coisas, fazer t
 
 O item 2 é justamente o que utiliza essa interrupção para ler do disco. Eu prefiri colocar o _breakpoint_ no item 2, mas nada impediria de você colocá-lo no item 3 e já iniciar a depuração no código do _boot loader_. Mas, como eu já passei por problemas encontrados no código da BIOS que impediam o sistema de entregar a execução para o setor de _boot_, já dei a dica de lambuja caso você também tenha a oportunidade de se divertir em um cliente depurando a BIOS de algum _laptop_ desajustado.
 
-[![bpint no SoftIce durante o boot](/images/bpint-boot.png)](/images/bpint-boot.png)
+[![bpint no SoftIce durante o boot](http://i.imgur.com/wUGhumV.png)](/images/bpint-boot.png)
 
 Pela imagem acima sabemos que após o _boot_ foi executada a interrupção 0x13, função 2 e que se trata de leitura em disquete, pois o conteúdo do registrador DL está em 0 (veja a referência das interrupções da BIOS em [Ralf Brown's Interrupt List](http://www.ctyme.com/intr/rb-0607.htm)).
 
@@ -81,7 +81,7 @@ Pela imagem acima sabemos que após o _boot_ foi executada a interrupção 0x13,
 
 É mais ou menos o _step out_ do SoftIce 32. Ou seja, ele avança a execução até a função retornar. No caso do SoftIce 16, ele irá avançar até o próximo ret/iret. Por isso que também precisamos executar a próxima instrução (o próprio ret) para cair onde queremos. É nesse ponto que o "nosso" código começa a executar e onde conseguimos colocar _breakpoints_ "de verdade" (lembre-se que o código da BIOS está em uma memória de somente leitura, pelo menos durante a execução).
 
-[![O início do pequeno OS](/images/myos-start.png)](/images/myos-start.png)
+[![O início do pequeno OS](http://i.imgur.com/uAy5H4E.png)](/images/myos-start.png)
 
 
 > _Adendo: fiz um_[](/images/biosdebug.7z)_ [vídeo de demonstração](/images/biosdebug.7z)__ dos passos aqui descritos, para facilitar a visualização dos fatos. Ficou claro? =) _

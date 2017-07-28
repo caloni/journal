@@ -5,7 +5,7 @@ tags: [ eventos, ccpbrasil, c/c++, papers, reuniões, palestras, encontros, grup
 ---
 [Agora é pra valer!](http://www.ccppbrasil.org/encontro11/)
 
-![](/images/11_Russian_Nerds_Party-s600x399-12642.jpg)
+![](http://i.imgur.com/2CwAVpB.jpg)
 
 O [Call for Papers](https://docs.google.com/forms/d/1G4Wifn64YknKk-BG1IvTZ1jOEflR4LatcutsilqilyE/viewform?c=0&w=1) já iniciou há duas semanas e deverá ser encerrado no final de Fevereiro, quando publicaremos o cronograma do nosso evento. Até lá a [página oficial do evento](http://www.ccppbrasil.org/encontro11/) deverá ser atualizada com coisas a mais do que os dois _coffee breaks_. Porém, antes que o preço aumente, você já pode garantir o seu lugar e pagar mais barato. Para uma dica do que poderá ser selecionado de palestras compilamos uma lista de palavras-chave.
 

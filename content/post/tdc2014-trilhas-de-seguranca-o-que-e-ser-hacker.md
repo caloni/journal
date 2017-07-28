@@ -24,7 +24,7 @@ Mais para a frente, o conceito/definição de hackativismo foi virando algo cada
 
 
 
-[![Isso não é hacker, isso são lábios...](/images/14690835950_37ee0e0d78_o.jpg)](/images/14690835950_37ee0e0d78_o.jpg)
+[![Isso não é hacker, isso são lábios...](http://i.imgur.com/EaCBeIg.jpg)](/images/14690835950_37ee0e0d78_o.jpg)
 
 
 

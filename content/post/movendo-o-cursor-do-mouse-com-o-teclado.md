@@ -24,7 +24,7 @@ O importante aqui é saber que iremos ser avisados do pressionamento das teclas 
 
 Resumidamente, um _loop_ de mensagens é a maneira definida pelo Windows para **avisar as aplicações** dos eventos que ocorrerem no sistema que são relevantes para as suas janelas. Teremos chance de observar isso mais vezes, mas por enquanto basta ter uma visão geral do fluxo de mensagens que ocorre quando digitarmos a nossa tecla de atalho:
 
-[![loop-de-mensagens.gif](/images/loop-de-mensagens.gif)](/images/loop-de-mensagens.gif)
+[![loop-de-mensagens.gif](http://i.imgur.com/tO2R0qY.gif)](/images/loop-de-mensagens.gif)
 
 **O código**
 

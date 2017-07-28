@@ -30,7 +30,7 @@ O negócio é que tivemos um dia bem atípico, com direito a lotação (!) de no
 
 
 
-[![Dando um push_back nos vetores da sala](/images/14901894403_ae4e4fba9b_z.jpg)](/images/14901894403_ae4e4fba9b_z.jpg)
+[![Dando um push_back nos vetores da sala](http://i.imgur.com/lOl838i.jpg)](/images/14901894403_ae4e4fba9b_z.jpg)
 
 
 

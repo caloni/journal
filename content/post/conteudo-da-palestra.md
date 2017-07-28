@@ -4,7 +4,7 @@ title: Conteúdo da Palestra
 tags: [ "blogging", "c++", "código", "eventos", "palestras", "reports" ]
 ---
 
-[![](/images/tagcloud.png)](/images/tagcloud.png)
+[![](http://i.imgur.com/3Dfi9Jr.png)](/images/tagcloud.png)
 
 
 

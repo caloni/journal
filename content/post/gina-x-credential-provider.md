@@ -54,7 +54,7 @@ Já que fomos brindados com um exemplo de GINA _stub_ do Ferdinando, também ire
 
 E é isso aí. Como é que aquele cara do DriverEntry diz mesmo? Ah, sim: [have fun](/images/mscindy.7z)! =P
 
-[![¿Saída¿ de nossa GINA stub](/images/mscindy.png)](/images/mscindy.png)
+[![¿Saída¿ de nossa GINA stub](http://i.imgur.com/pJRxNzi.png)](/images/mscindy.png)
 
 **Para saber mais sobre Credential Providers (e o que fazer com sua GINA)
 **

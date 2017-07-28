@@ -14,7 +14,7 @@ A primeira coisa a ser feita é converter o repositório. Depois de convertido, 
 
 No Windows, nas últimas versões do Bazaar o comando fast-export não estava mais funcionando. Parado desde 2012, não há previsão de correções. No entanto, para essa operação, a versão 2.4.2 atendeu bem. O comando é um pouco diferente, mas ele é rápido e rodou sem problemas em conjunto com o fast-import do Git.
 
-![](/images/bzr-version.png)
+![](http://i.imgur.com/9gzHZOz.png)
 
 ```
 git init

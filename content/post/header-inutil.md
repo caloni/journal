@@ -8,7 +8,7 @@ O Visual Studio é uma ótima ferramenta para depurar rapidamente programas send
 
 Vamos supor que você crie seu super-projeto ZeroMQ e no meio dele acabe evoluindo uma nova forma de vida inútil e descartável, que aqui iremos chamar de HeaderInutil e seu fiel companheiro CppInutil:
 
-[![](/images/header-inutil.png)](/images/header-inutil.png)
+[![](http://i.imgur.com/opLLPIk.png)](/images/header-inutil.png)
 
 OK. Ele não está fazendo nada, mas e daí? Compilo meu projeto normalmente e depuro ele como se nada estivesse acontecendo.
 
@@ -49,7 +49,7 @@ Mas o que acontece se eu precisar no momento do refactory (**que deve, sim, exis
 
 Continuo compilando normalmente o projeto, mas na hora de depurar...
 
-[![](/images/header-inutil2.png)](/images/header-inutil2.png)
+[![](http://i.imgur.com/vewufus.png)](/images/header-inutil2.png)
 
 Mas o que ocorre? Eu acabei de compilar o projeto! E se eu compilar novamente e pressionar F5, ele continua apresentando o mesmo problema!
 
@@ -65,12 +65,12 @@ O que pode ser feito nesse caso (além do que os personagens de The Walking Dead
 </switches>
 </system.diagnostics>
 
-[![](/images/header-inutil3.png)](/images/header-inutil3.png)
+[![](http://i.imgur.com/wutWKnk.png)](/images/header-inutil3.png)
 
 Depois de modificar o arquivo, reinicie o Visual Studio e tente novamente apertar F5 no mesmo projeto, **mas com o [DebugView ](http://technet.microsoft.com/en-us/sysinternals/bb896647)aberto**.
 
 
-[![](/images/header-inutil4.png)](/images/header-inutil4.png)
+[![](http://i.imgur.com/rzJ3Pvw.png)](/images/header-inutil4.png)
 
 
 Como um amigo meu diria: "**AHÁ!!**". Descobrimos o culpado.

@@ -39,11 +39,11 @@ O comando [!peb](http://windbg.info/doc/1-common-cmds.html#11_process) traz inú
 
 
 
-![PEB ¿não-documentado¿](/images/peb-undocumented.png)
+![PEB ¿não-documentado¿](http://i.imgur.com/L3E4KSS.png)
 
 Nesse caso, podemos criar um projeto vazio que contenha a definição da estrutura **como acreditamos** que esteja na versão do kernel que estamos depurando.
 
-![MyPEB](/images/mypeb.png)
+![MyPEB](http://i.imgur.com/l4oLJHR.png)
 
 Compilamos e geramos um PDB (arquivo de símbolos) que contém a definição desse tipo. Tudo que precisamos fazer agora é carregar esse símbolo na sessão que estivermos depurando.
 

@@ -3,7 +3,7 @@ date: "2015-01-21"
 title: RIP, Alberto
 tags: [ pessoal, alberto fabiano, rip, programadores, coders, amigos ]
 ---
-![](/images/srgrWiv.png)
+![](http://i.imgur.com/JzKj9Z6.png)
 
 Acho que como muitos aqui de vocês, eu sou (fui?) um fã __condicional__ de Alberto Fabiano, o mestre em várias coisas, não se restringindo apenas à informática. Alberto, é preciso dizer, foi um __hacker de verdade__.
 

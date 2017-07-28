@@ -10,7 +10,7 @@ Na semana passada falei sobre a ideia de comentar algumas mudanças entre o Wind
 
 
 
-[![boot](/images/14378401335_8362edcc90_m.jpg)](/images/14378401335_8362edcc90_m.jpg)
+[![boot](http://i.imgur.com/hDoL3hw.jpg)](/images/14378401335_8362edcc90_m.jpg)
 
 
 
@@ -22,7 +22,7 @@ Na verdade, pouca coisa mudou, mas foi o suficiente para [dar problemas na hora 
 
 
 
-[![Configuração do boot no Windows 7](/images/14375095441_4a9ac87a35_o.png)](/images/14375095441_4a9ac87a35_o.png)
+[![Configuração do boot no Windows 7](http://i.imgur.com/k9zdMb8.png)](/images/14375095441_4a9ac87a35_o.png)
 
 
 
@@ -47,7 +47,7 @@ Porta serial? Mas que coisa antiga, hein? Pois é, muita coisa mudou desde o Win
 
 
 Mas... se você precisar:
-[![Null Cable Modem Wiring](/images/14191895328_44a2ec8338_z.jpg)](/images/14191895328_44a2ec8338_z.jpg)
+[![Null Cable Modem Wiring](http://i.imgur.com/LWGUyjF.jpg)](/images/14191895328_44a2ec8338_z.jpg)
 
 
 

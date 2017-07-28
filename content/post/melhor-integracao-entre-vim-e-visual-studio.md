@@ -6,15 +6,15 @@ tags: [ "blogging", "dicas", "ferramentas", "vim" ]
 
 Pelo menos é a mais rápida:
 
-[![VisualStudioWithVim1-3](/images/VisualStudioWithVim1-3.png)](/images/VisualStudioWithVim1-3.png)
+[![VisualStudioWithVim1-3](http://i.imgur.com/aRIuhsP.png)](/images/VisualStudioWithVim1-3.png)
 
 
 
-[![VisualStudioWithVim2-3](/images/VisualStudioWithVim2-31.png)](/images/VisualStudioWithVim2-31.png)
+[![VisualStudioWithVim2-3](http://i.imgur.com/GrwuWwd.png)](/images/VisualStudioWithVim2-31.png)
 
 
 
-[![VisualStudioWithVim3-3](/images/VisualStudioWithVim3-3.png)](/images/VisualStudioWithVim3-3.png)
+[![VisualStudioWithVim3-3](http://i.imgur.com/8ebwJG7.png)](/images/VisualStudioWithVim3-3.png)
 
 
 

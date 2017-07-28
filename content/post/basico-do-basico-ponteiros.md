@@ -4,7 +4,7 @@ title: 'Básico do básico: ponteiros'
 tags: [ "c++", "programação", "básico do básico" ]
 ---
 
-![Alicerces de uma casa.](/images/alicerces.png)Nessas últimas semanas tenho gastado meu tempo junto da mais nova pupila da [SCUA](http://www.scua.com.br), aspirante a programadora em C e Install Shield Script. Minha tarefa? Explicar tudo, desde o mais simples, como **variáveis**, até as coisas não tão triviais, como **símbolos de depuração**.
+![Alicerces de uma casa.](http://i.imgur.com/8jW9wJy.png)Nessas últimas semanas tenho gastado meu tempo junto da mais nova pupila da [SCUA](http://www.scua.com.br), aspirante a programadora em C e Install Shield Script. Minha tarefa? Explicar tudo, desde o mais simples, como **variáveis**, até as coisas não tão triviais, como **símbolos de depuração**.
 
 Posso afirmar que tem sido muito compensador ativar algumas partes do meu cérebro que acreditava nem mais existirem. Rever velhos conceitos, apesar de manjados, nos dá a oportunidade de lembrar que as coisas mais complexas que construímos no dia-a-dia se baseiam em um punhado de preceitos básicos que é essencial ter na cabeça. E nunca esquecê-los.
 
@@ -15,7 +15,7 @@ Foi partindo desse princípio que me preocupei com esmero para explicar as peça
 
 
 
-[![Primeira tentativa de explicar ponteiros por desenhos da memória.](/images/pointers-rose01.thumbnail.jpg)](/images/pointers-rose01.jpg)[![Segunda tentativa de explicar ponteiros por desenhos da memória.](/images/pointers-rose02.thumbnail.jpg)](/images/pointers-rose02.jpg)[![Terceira tentativa de explicar ponteiros por desenhos da memória.](/images/pointers-rose03.thumbnail.jpg)](/images/pointers-rose03.jpg)
+[![Primeira tentativa de explicar ponteiros por desenhos da memória.](http://i.imgur.com/quwwQlQ.thumbnail.jpg)](http://i.imgur.com/N5r6Vbz.jpg)[![Segunda tentativa de explicar ponteiros por desenhos da memória.](http://i.imgur.com/6oaxMn6.thumbnail.jpg)](http://i.imgur.com/XglrKjr.jpg)[![Terceira tentativa de explicar ponteiros por desenhos da memória.](http://i.imgur.com/aR7yRQf.thumbnail.jpg)](http://i.imgur.com/GcnMNxv.jpg)
 
 
 
@@ -30,12 +30,12 @@ De acordo com o meu amigo [Rafael](http://www.sk5.com.br), a melhor definição 
 
 Deve ter ficado óbvio, mas se não ficou: o armário é a memória RAM, as gavetas são váriáveis e as gavetas onde guardamos pedaços de papel são ponteiros, que não deixam de ser variáveis, e apontam para outras gavetas que são... adivinha? Outras variáveis!
 
-[![Gavetas representando posições na memória.](/images/pointers-drawer.gif)](/images/pointers-drawer.gif)
+[![Gavetas representando posições na memória.](http://i.imgur.com/sx9fYjS.gif)](/images/pointers-drawer.gif)
 
 
 
 [
-](/images/pointers-rose03.jpg)
+](http://i.imgur.com/GcnMNxv.jpg)
 
 Outros conceitos que costumo utilizar é relacionar a memória RAM com a memória do programa e contar a memória como se contam carneirinhos. Dessa forma fica fácil pelo menos entender dois conceitos fundamentais na arte dos ponteiros: memória e endereço.
 

@@ -16,7 +16,7 @@ There is a [document](http://www.microsoft.com/whdc/driver/kernel/DLL_bestprac.m
 
 In short, the Windows code responsible to call DllMain for each loaded/unloaded DLLs uses an exclusive access object (the so-called "mutex") to synchronize its calls. The result is that inside a process just one DllMain can be called at a given moment. This object-mutex is called "loader lock" into the Microsoft documentation.
 
-[![Loader Lock explained](/images/loaderlock.gif)](/images/loaderlock.gif)
+[![Loader Lock explained](http://i.imgur.com/mjJ0Xmm.gif)](/images/loaderlock.gif)
 
 
 

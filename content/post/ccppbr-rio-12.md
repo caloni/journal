@@ -21,6 +21,6 @@ E por fim, Tupinambá salva o dia com mais uma palestra sobre _performance_, um 
 
 Na verdade, esse não foi o fim. Para os que já frequentam nossos encontros, parte integrante do evento é o tradicional ChoPP pós-palestras, onde os temas são convertidos em discussões etílicas, e onde as métricas séries da GPU acabam virando elucubrações viajantes em física quântica.
 
-![](/images/12-encontro-rio.jpg)
+![](http://i.imgur.com/GKaBPKh.jpg)
 
 A todos os envolvidos e reponsáveis por um dia tão compensatório, o nosso muito obrigado! Que venham outros =D

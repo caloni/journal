@@ -30,7 +30,7 @@ int main()
 
 
 
-[![ShiftEstranho](/images/14330337121_409bbee4f7_o.png)](/images/14330337121_409bbee4f7_o.png)
+[![ShiftEstranho](http://i.imgur.com/tnVztzy.png)](/images/14330337121_409bbee4f7_o.png)
 
 
 
@@ -67,7 +67,7 @@ int main()
 
 
 
-[![Formatação Difícil do Cout](/images/14353868563_a2588b266c_o.png)](/images/14353868563_a2588b266c_o.png)
+[![Formatação Difícil do Cout](http://i.imgur.com/7hFREwa.png)](/images/14353868563_a2588b266c_o.png)
 
 
 

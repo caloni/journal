@@ -173,7 +173,7 @@ Os passos para testar o código acima são:
 
 Após o processo de _attach_, a porta de _debug_ é ocupada, e a comunicação entre depurador e depurado é feita através do LPC. Abaixo uma pequena ilustração de como as coisas ocorrem:
 
-[![Como funciona o LPC](/images/debug-port.gif)](/images/debug-port.gif)
+[![Como funciona o LPC](http://i.imgur.com/n0EzziA.gif)](/images/debug-port.gif)
 
 Basicamente o processo fica recebendo eventos de _debug_ (através da fila de mensagens LPC) continuamente até o evento final, o de final de processo. Note que se alguém tentar derrubar o processo que depura o processo depurado cai junto.
 

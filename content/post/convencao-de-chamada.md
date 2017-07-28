@@ -3,7 +3,7 @@ date: "2015-04-20"
 title: Convenção de Chamada
 tags: [c, c++, linguagem, código, pilha, stack, return, assembly, hacks, portabilidade, argv, argc, va_list, va_arg, stdarg, cdecl, stdcall, push, ret]
 ---
-<img src="../public/images/2015-04-27-cdecl-vs-stdcall.png">
+<img src="../publichttp://i.imgur.com/H48Twzq.png">
 
 Pergunta de um leitor:
 

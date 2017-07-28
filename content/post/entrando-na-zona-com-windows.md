@@ -12,13 +12,13 @@ Mas é possível arrancar tudo isso e deixar na barra de tarefas pinado apenas a
 
 O terminal do Windows, o Command Prompt, ou cmd para os íntimos, sofreu algumas mudanças ultimamente. Entre elas há a transparência, o que o tornou cool, e a tela cheia (atalho Alt+Enter), o que o tornou ideal como ferramenta de navegação para programadores, melhor do que o explorer, que virou um penduricalho de atalhos inúteis também.
 
-![](/images/cmd-transparency.png)
+![](http://i.imgur.com/fimpVEN.png)
 
 Já o editor ou IDE pode ser usado também em tela cheia. O GVim, por exemplo, possui [um pequeno plugin](http://www.vim.org/scripts/script.php?script_id=2596) que faz isso (acho que o único que uso que contém uma DLL compilada).
 
 Além do mais, não é necessário exibir a barra de tarefas o tempo todo. Escondê-la é muito simples. Com isso ganha-se mais espaço, evita-se de ver as coisas que estão abertas (por exemplo, o navegador) e também evita-se ficar olhando o horário no relógio, o que é um plus se você fica constantemente vendo se é hora de comer.
 
-![](/images/taskbar-invisible.png)
+![](http://i.imgur.com/pOAXmq7.png)
 
 Agora, através dos atalhos Win+1, 2, 3... pode-se abrir e alternar entre os aplicativos principais do seu dia-a-dia, que devem ficar "pinados" na barra de tarefas. Os meus atualmente são três: browser, terminal (cmd) e editor (vim).
 

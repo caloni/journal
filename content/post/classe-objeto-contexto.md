@@ -44,7 +44,7 @@ if( findH != INVALID_HANDLE_VALUE )
 //...
 ```
 
-![](/images/dilbert.context.gif)
+![](http://i.imgur.com/l5RSlmW.context.gif)
 
 No caso de nós, que escrevemos uma "classe", o contexto é recebido "de fora":
 

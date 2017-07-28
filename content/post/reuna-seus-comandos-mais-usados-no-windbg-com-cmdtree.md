@@ -26,11 +26,11 @@ E eu estava justamente falando sobre essa [mania dos programadores](http://www.c
 
 O resultado:
 
-![cmdtree.png](/images/cmdtree.png)
+![cmdtree.png](http://i.imgur.com/3Dg69vQ.png)
 
 E podemos usar essa janela no nosso WinDbg, cada vez mais bonitinho e cada vez mais [WYSIWYG](http://pt.wikipedia.org/wiki/Wysiwyg):
 
-[![cmdtree2.png](/images/cmdtree2.png)](/images/cmdtree2.png)
+[![cmdtree2.png](http://i.imgur.com/rT1WBgt.png)](/images/cmdtree2.png)
 
 Realmente não há segredos em seu uso. Esse artigo foi apenas um patrocínio do clube do WinDbg.
 

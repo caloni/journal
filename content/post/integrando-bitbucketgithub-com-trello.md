@@ -27,7 +27,7 @@ Mas o que é [Trello](www.trello.com)? Basicamente é um TodoList feito da manei
 
 
 
-[![Atalhos do Trello](/images/14518444517_f550bb7bcb_o.png)](/images/14518444517_f550bb7bcb_o.png)
+[![Atalhos do Trello](http://i.imgur.com/747UasT.png)](/images/14518444517_f550bb7bcb_o.png)
 
 
 
@@ -69,7 +69,7 @@ Depois disso, mesmo nessa página já é possível conseguir uma chave de acesso
 
 
 
-[![Pedindo autorização para o Trello](/images/14704960285_af9a772c2e_o.png)](/images/14704960285_af9a772c2e_o.png)
+[![Pedindo autorização para o Trello](http://i.imgur.com/oQ97bDI.png)](/images/14704960285_af9a772c2e_o.png)
 
 
 
@@ -122,7 +122,7 @@ As informações _AQUI_VAI_SUA_CHAVE_ e _AQUI_VAI_SEU_TOKEN_DE_ACESSO_ você já
 
 
 
-[![ID único de um Card](/images/14518342338_6f134a993d_o.png)](/images/14518342338_6f134a993d_o.png)
+[![ID único de um Card](http://i.imgur.com/xONdnSw.png)](/images/14518342338_6f134a993d_o.png)
 
 
 
@@ -134,7 +134,7 @@ Basta usar o ID em Base64-ou-o-que-o-valha no lugar de _ID_DO_CARD_ que já esta
 
 
 
-[![Hello, World!](/images/14724898543_8b758cc7ac_o.png)](/images/14724898543_8b758cc7ac_o.png)
+[![Hello, World!](http://i.imgur.com/rbCigTV.png)](/images/14724898543_8b758cc7ac_o.png)
 
 
 
@@ -158,7 +158,7 @@ Como o [GitHub](www.github.com) é um dos serviços de repositório de fontes ma
 
 
 
-[![Adicionando um WebHook ao GitHub](/images/14724974103_f8f8fb7e78_o.png)](/images/14724974103_f8f8fb7e78_o.png)
+[![Adicionando um WebHook ao GitHub](http://i.imgur.com/4Lph9w6.png)](/images/14724974103_f8f8fb7e78_o.png)
 
 
 
@@ -224,7 +224,7 @@ Agora é só testar. Posso pegar esse mesmo artigo e comitá-lo no [repositório
 
 
 
-[![Comitando o artigo para gerar evento que irá comentar no Trello para continuar este artigo que estou comitando..](/images/14702001611_acb9318ba7_o.png)](/images/14702001611_acb9318ba7_o.png)
+[![Comitando o artigo para gerar evento que irá comentar no Trello para continuar este artigo que estou comitando..](http://i.imgur.com/NzQPB9o.png)](/images/14702001611_acb9318ba7_o.png)
 
 
 
@@ -236,7 +236,7 @@ O que vai deixar você perplexo é entender como esse texto está sendo comitado
 
 
 
-[![Resultado do meu commit](/images/14518530070_25f639d741_o.png)](/images/14518530070_25f639d741_o.png)
+[![Resultado do meu commit](http://i.imgur.com/ZIPNSpV.png)](/images/14518530070_25f639d741_o.png)
 
 
 
@@ -248,7 +248,7 @@ E o negócio é rápido, viu?
 
 
 
-[![E o negócio é rápido, viu?](/images/14518796667_9d4bcc159e_o.png)](/images/14518796667_9d4bcc159e_o.png)
+[![E o negócio é rápido, viu?](http://i.imgur.com/vVmuKb7.png)](/images/14518796667_9d4bcc159e_o.png)
 
 
 

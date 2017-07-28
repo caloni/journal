@@ -419,7 +419,7 @@ int main()
 ```
 
 
-![Código Antes x Depois no Visual Studio](/images/antes-depois.png)Da mesma forma, o uso de uma estrutura simples de tipos mantém a lista de nomes do seu projeto limpa e clara. Compare o visualizador de classes em projetos Windows com algo mais C++ para ter uma ideia.
+![Código Antes x Depois no Visual Studio](http://i.imgur.com/gFNalqB.png)Da mesma forma, o uso de uma estrutura simples de tipos mantém a lista de nomes do seu projeto limpa e clara. Compare o visualizador de classes em projetos Windows com algo mais C++ para ter uma ideia.
 
 É claro, essa é apenas uma sugestão. Existem vantagens em sua utilização. Existe alguma vantagem no modo antigo? Existe: a Microsoft usa, e talvez mais pessoas usem. Basta a você decidir qual deve ser o melhor caminho.
 

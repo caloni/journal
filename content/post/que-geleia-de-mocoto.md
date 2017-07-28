@@ -4,7 +4,7 @@ title: Que geleia de mocotó
 tags: [ "código", "devaneando", "campeonatos", "code jam", "eventos" ]
 ---
 
-[![cowblet-cover](/images/14065766204_532438eaed_n.jpg)](/images/14065766204_532438eaed_n.jpg)
+[![cowblet-cover](http://i.imgur.com/iqT5sSy.jpg)](/images/14065766204_532438eaed_n.jpg)
 
 
 
@@ -28,7 +28,7 @@ Você é um fazendeiro hi-tech com uma vaca que tem um tablet. Não especifica s
 
 
 
-[![cowblet](/images/14065766314_c07ca93e24_o.jpg)](/images/14065766314_c07ca93e24_o.jpg)
+[![cowblet](http://i.imgur.com/igQqWOa.jpg)](/images/14065766314_c07ca93e24_o.jpg)
 
 
 
@@ -40,7 +40,7 @@ Através do eBay também veio um engenheiro chinês cuja missão é resolver ess
 
 
 
-[![ProblemA](/images/14065765834_6bf738e020_o.png)](/images/14065765834_6bf738e020_o.png)
+[![ProblemA](http://i.imgur.com/WGFkBW1.png)](/images/14065765834_6bf738e020_o.png)
 
 
 
@@ -52,7 +52,7 @@ O primeiro pensamento do programador preguiçoso (go, horse, go!) manda que usem
 
 
 
-[![Tomadao](/images/14042619426_9b12f4468d_o.png)](/images/14042619426_9b12f4468d_o.png)
+[![Tomadao](http://i.imgur.com/8p1mbvh.png)](/images/14042619426_9b12f4468d_o.png)
 
 
 
@@ -64,7 +64,7 @@ Dessa forma, temos que traçar uma solução baseada nas combinações entre as 
 
 
 
-[![WP_000773](/images/14065469895_97cb03a986_n.jpg)](/images/14065469895_97cb03a986_n.jpg)
+[![WP_000773](http://i.imgur.com/m2eUW9a.jpg)](/images/14065469895_97cb03a986_n.jpg)
 
 
 

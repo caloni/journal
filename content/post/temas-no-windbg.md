@@ -4,7 +4,7 @@ title: Temas no WinDbg
 tags: [ "depuração" ]
 ---
 
-[![WinDbg Workspace (Visual Studio like)](/images/windbg-workspace-vs.thumbnail.png)](/images/windbg-workspace-vs.png)Desde a versão [6.4.7.2](http://www.microsoft.com/whdc/devtools/debugging/whatsnew.mspx) que o WinDbg fornece uma subpasta chamada **Themes**, onde lá estão diversos _workspaces_ configurados. Existe até um passo-a-passo de como organizar esses temas e escolher o seu favorito. Segue algumas dicas de como transformar corretamente sua área de trabalho para depuração (e mantê-la).
+[![WinDbg Workspace (Visual Studio like)](http://i.imgur.com/X3IFGZb.thumbnail.png)](http://i.imgur.com/ivqb6MO.png)Desde a versão [6.4.7.2](http://www.microsoft.com/whdc/devtools/debugging/whatsnew.mspx) que o WinDbg fornece uma subpasta chamada **Themes**, onde lá estão diversos _workspaces_ configurados. Existe até um passo-a-passo de como organizar esses temas e escolher o seu favorito. Segue algumas dicas de como transformar corretamente sua área de trabalho para depuração (e mantê-la).
 
 
 

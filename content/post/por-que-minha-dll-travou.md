@@ -14,7 +14,7 @@ Saiu um [documento da Microsoft](http://www.microsoft.com/whdc/driver/kernel/DLL
 
 O resumo da ópera é que o código do Windows chamador do DllMain das DLLs carregadas/descarregadas utiliza um objeto de acesso exclusivo (leia "_mutex_") para sincronizar as chamadas. O resultado é que, em um processo, **apenas um DllMain é chamado em um dado momento**. Esse objeto é chamado de "_loader lock_" na documentação da Microsoft.
 
-[![Loader Lock explained](/images/loaderlock.gif)](/images/loaderlock.gif)
+[![Loader Lock explained](http://i.imgur.com/mjJ0Xmm.gif)](/images/loaderlock.gif)
 
 
 

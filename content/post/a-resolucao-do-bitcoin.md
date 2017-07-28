@@ -6,7 +6,7 @@ Recentemente está havendo fuxicos sobre [o último texto de Mike Hearn](https:/
 
 Meus amigos já sabem que considero a criação de moedas digitais um próximo passo prá lá de grande em direção a um mundo mais justo e livre, livre principalmente das amarras de um sistema jurássico de controle coercitivo de indivíduos chamado estado, ou governo. Falo especificamente do bitcoin, o mais famoso e o mais popular das moedas digitais. Portanto, não deixa de ser um baque entender como esses projetos poderão sucumbir mais cedo ou mais tarde ao mundo real.
 
-![](/images/dilbert-chain.jpg)
+![](http://i.imgur.com/arDXYon.jpg)
 
 De qualquer forma, como costumo dizer, serão anos interessantes no reino das criptomoedas e na economia em geral. Com isso, não quero dizer necessariamente que elas irão dominar o sistema financeiro e em breve veremos o fim do lixo do dinheiro estatal. Pode querer dizer isso, o que seria ótimo. No entanto, pode também querer dizer, como estamos presenciando hoje, que teremos dados mais concretos dos motivos por trás de por que moedas digitais são impossíveis de escalar no nível tecnológico atual. O mais provável, IMHO, é que no futuro vejamos algo no meio entre esses dois extremos. Mas não exatamente no meio =)
 

@@ -4,7 +4,7 @@ title: HouaissParaBabylon versão 1.1
 tags: [ "projetos", "houaiss2babylon" ]
 ---
 
-![HouaissParaBabylon versão 1.1](/images/houaissparababylon-v11.png) Saindo mais um do forno.
+![HouaissParaBabylon versão 1.1](http://i.imgur.com/B1B6tLg.png) Saindo mais um do forno.
 
 Essa nova versão do conversor do dicionário Houaiss para Babylon corrige o problema de não encontrar o **Houaiss 1.0**. O problema ocorria porque o conversor se baseava na localização do **desinstalador** para encontrar o dicionário. Na primeira versão do dicionário o desinstalador fica na pasta c:\Windows, onde obviamente não estava o dicionário.
 

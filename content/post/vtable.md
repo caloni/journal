@@ -87,7 +87,7 @@ A vtable é uma tabela que guarda o endereço dos métodos virtuais de uma class
 
 
 
-[![](/images/vtable11.png)](/images/vtable11.png)
+[![](http://i.imgur.com/Ye5mA8L.png)](/images/vtable11.png)
 
 
 
@@ -119,4 +119,4 @@ Façamos um pequeno teste para comprovar o que falamos. Vamos escancarar a chama
 
 
 
-[![vtable2.png](/images/vtable2.png)](/images/vtable2.png)
+[![vtable2.png](http://i.imgur.com/9408xv1.png)](/images/vtable2.png)

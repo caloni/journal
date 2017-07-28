@@ -411,7 +411,7 @@ E, agora sim, encontramos o culpado!
 
 
 
-[![](/images/thats-a-bingo.jpg)](http://annahinks.tumblr.com/post/176676889)
+[![](http://i.imgur.com/gUfPM5Q.jpg)](http://annahinks.tumblr.com/post/176676889)
 
 
 

@@ -4,7 +4,7 @@ title: A moda agora é levar lambda na função
 tags: [ "c++", "c++11", "lambda", "visual studio" ]
 ---
 
-[![moda-lambda](/images/13469488213_d22f6b1e92_o.jpg)](/images/13469488213_d22f6b1e92_o.jpg)
+[![moda-lambda](http://i.imgur.com/bYiA9RR.jpg)](/images/13469488213_d22f6b1e92_o.jpg)
 
 A nova moda de programar C++ nos últimos anos com certeza é usar lambda. Mas, afinal, o que é lambda? Bom, pra começar, é um nome muito feio.
 

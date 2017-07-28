@@ -8,7 +8,7 @@ Recebi a dica de meu [amigo kernel-mode](http://www.driverentry.com.br) sobre o 
 
 Como os problemas gerados pela ferramenta são todos de kernel, resolvi escrever meu próprio conjunto de bugs para o pessoal da userland. E como nada na vida se cria, tudo se copia, tenho o orgulho de apresentar a vocês o **NotMyFaultEither**!
 
-![notmyfaulteither.png](/images/notmyfaulteither.png) ![notmyfaulteither-crash.png](/images/notmyfaulteither-crash.png)
+![notmyfaulteither.png](http://i.imgur.com/9k3goIZ.png) ![notmyfaulteither-crash.png](http://i.imgur.com/Y1GUCUN.png)
 
 
 
@@ -18,7 +18,7 @@ O resultado pode variar dependendo do sistema operacional e da arquitetura (há 
 
 Após a análise do SO ele exibe uma tela onde é possível achar onde está o despejo de memória que podemos usar.
 
-![notmyfaulteither-crash-dump-automatic.png](/images/notmyfaulteither-crash-dump-automatic.png)   ![notmyfaulteither-crash-dump-task-manager.png](/images/notmyfaulteither-crash-dump-task-manager.png)
+![notmyfaulteither-crash-dump-automatic.png](http://i.imgur.com/g2E7tcD.png)   ![notmyfaulteither-crash-dump-task-manager.png](http://i.imgur.com/nTwkVVx.png)
 
 Esse é um minidump (mdmp), que possui a pilha da thread faltosa e informações de ambiente. Podemos gerar um dump completo através do Gerenciador de Tarefas.
 
@@ -28,7 +28,7 @@ No caso do Windows XP, podemos executar processo semelhante para gerar o dump at
 #### Sorteio do livro Windows Internals, Quarta Edição
 
 
-![meuwindowsinternals.jpg](/images/meuwindowsinternals.jpg)E por falar em palestra, criei um [pacote-surpresa](/images/crash-dump-analysis-dumps.7z) de alguns minidumps para análise. Se alguém tiver a curiosidade de já ir mexendo, ou de mexer na hora da apresentação, fique à vontade. Quem montar uma lista relacionando cada dump com o tipo de problema encontrado (não precisa estar completa) irá concorrer, no dia da palestra, à quarta edição do livro Windows Internals, de Mark Russinovich. É minha cópia pessoal, mas está bem novinho, visto que a original pesa pra caramba e consulto sempre o e-book.
+![meuwindowsinternals.jpg](http://i.imgur.com/pHlVP93.jpg)E por falar em palestra, criei um [pacote-surpresa](/images/crash-dump-analysis-dumps.7z) de alguns minidumps para análise. Se alguém tiver a curiosidade de já ir mexendo, ou de mexer na hora da apresentação, fique à vontade. Quem montar uma lista relacionando cada dump com o tipo de problema encontrado (não precisa estar completa) irá concorrer, no dia da palestra, à quarta edição do livro Windows Internals, de Mark Russinovich. É minha cópia pessoal, mas está bem novinho, visto que a original pesa pra caramba e consulto sempre o e-book.
 
 Estarei usando estes mesmos minidumps na palestra, junto dos dumps completos. Mas é claro que eu não iria deixar um despejo de memória completo pra vocês. Iria tornar as coisas muito fáceis ;)
 

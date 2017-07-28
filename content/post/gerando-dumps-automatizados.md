@@ -76,7 +76,7 @@ int main()
 
 
 
-[![oncrash.png](/images/oncrash.png)](/images/finddump.htm)
+[![oncrash.png](http://i.imgur.com/D5keozk.png)](/images/finddump.htm)
 
 
 

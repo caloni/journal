@@ -6,7 +6,7 @@ tags: [ "depuração", "devaneando" ]
 
 Máquina com parte do registro corrompida, notadamente alguma sub-chave de HKEY_CLASSES_ROOT. Resultado: ao rodar um script que abre uma segunda janela e tenta usar seu método focus é exibida a seguinte mensagem:
 
-![Erro de automação?](/images/automation-error-msg.png)
+![Erro de automação?](http://i.imgur.com/IGR3VJC.png)
 _"<Mensagem do cliente> - A classe não dá suporte para automação"_
 Abaixo um exemplo simples para ter uma ideia em JS:
 
@@ -64,7 +64,7 @@ Partindo disso, imaginei que o que ocorria era que havia algo faltando no regist
   * Importei ambos os registros no esquema "apaga tudo cria tudo de novo".
 
 
-![Exportando e importando registro](/images/regedit-import-export.png)
+![Exportando e importando registro](http://i.imgur.com/l7Rc7kY.png)
 
 Problema reproduzido.
 
@@ -95,7 +95,7 @@ Foi esse o procedimento seguido:
   6. Se não deu erro, testar os passos 3 e 4 com a outra metade.
 
 
-![Snapshots da VMWare](/images/snapshots-regedit-vmware.png)
+![Snapshots da VMWare](http://i.imgur.com/hhxZgqZ.png)
 
 Essa série de passos foi reproduzida em menos de uma hora até chegarmos a apenas uma linha no registro:
 

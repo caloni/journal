@@ -27,7 +27,7 @@ Bom, resumindo: basta olhar a pilha! Mas, para isso ser efetivo, precisaremos do
 
 
 
-[caption id="attachment_1221" align="aligncenter" width="511" caption="SEMPRE ative a geração de PDBs, até em RELEASE!"][![](/images/generate-pdb.png)](/images/generate-pdb.png)[/caption]
+[caption id="attachment_1221" align="aligncenter" width="511" caption="SEMPRE ative a geração de PDBs, até em RELEASE!"][![](http://i.imgur.com/w1uEm0Y.png)](/images/generate-pdb.png)[/caption]
 
 
 
@@ -41,7 +41,7 @@ Se você mantiver executável (DLL também é executável) juntinho com seu PDB,
 
 
 
-[caption id="attachment_1222" align="aligncenter" width="498" caption="EXE e PDB, juntinhos, cantando e rodando."][![](/images/pdb-generated.png)](/images/pdb-generated.png)[/caption]
+[caption id="attachment_1222" align="aligncenter" width="498" caption="EXE e PDB, juntinhos, cantando e rodando."][![](http://i.imgur.com/ls9Hma0.png)](/images/pdb-generated.png)[/caption]
 
 
 
@@ -53,7 +53,7 @@ Mesmo que, em alguns momentos trágicos, apareça uma tela indesejada.
 
 
 
-[![](/images/CrashOnServerCrash.png)](/images/CrashOnServerCrash.png)
+[![](http://i.imgur.com/imt8kmB.png)](/images/CrashOnServerCrash.png)
 
 
 
@@ -63,7 +63,7 @@ Seu caminho a partir dessa tela pode ser analisar um dump gerado (visto no artig
 
 
 
-[![](/images/attach-to-process.png)](/images/attach-to-process.png)
+[![](http://i.imgur.com/CjXbOD1.png)](/images/attach-to-process.png)
     WinDbg: "mas que bagunça é essa na memória desse processo?"
 
 
@@ -159,7 +159,7 @@ Ops! Estamos rodando um processo 32 dentro de um SO 64 (Windows 7, por exemplo).
 
 Nosso depurador favorito acusa uma pilha que contém a função WerpReportFault (Web Error Report, mas qualquer outra função com Exception no meio seria uma candidata). E, nessa mesma thread, a última linha nossa conhecida está no arquivo crashonserver.cpp:13. Isso nos revela o seguinte:
 
-[caption id="attachment_1224" align="aligncenter" width="534" caption="A raiz de todos os nossos problemas!"][![](/images/crash-source.png)](/images/crash-source.png)[/caption]
+[caption id="attachment_1224" align="aligncenter" width="534" caption="A raiz de todos os nossos problemas!"][![](http://i.imgur.com/hnfH30b.png)](/images/crash-source.png)[/caption]
 
 E essa situação, caro leitor, é 10% de tudo o que você precisa saber sobre WinDbg para resolver, mas que já resolve 90% dos casos. Belo custo-benefício, não?
 

@@ -8,11 +8,11 @@ tags: [ "debug", "grep" ]
 
 Que nem hoje de manhã, quando fui inocentemente baixar uma versão limpa do [tiodb](https://github.com/tiodb/tiodb) e após baixar todos os pacotes do [NuGet](https://docs.microsoft.com/pt-br/nuget/consume-packages/overview-and-workflow), o gerenciador de pacotes do Visual Studio (inclusive para C++, agora) acusou a falta do boost, sendo que ele havia acabado de baixá-lo:
 
-![](/images/nuget-solution-restore.png)
+![](http://i.imgur.com/HUp5S4K.png)
 
-![](/images/tiodb-nuget-depends-restoring.png)
+![](http://i.imgur.com/IfVDNN9.png)
 
-![](/images/tiodb-boost-error-nuget.png)
+![](http://i.imgur.com/Yi8kVgC.png)
 
 Os pacotes do projeto ficam todos na raiz do diretório da solução na sub-pasta packages. Observando o que foi baixado lá, verifiquei que a versão do boost estava ok: ele havia baixado a 1.61 como pedido, mas o erro dizia respeito justamente a um desses pacotes.
 
@@ -61,7 +61,7 @@ gvim server\tio\tioserver.vcxproj
 :wq
 ```
 
-![](/images/visualstudio-file-modification.png)
+![](http://i.imgur.com/BLUS8XJ.png)
 
 ```cmd
 1>------ Build started: Project: tioclientdll, Configuration: Debug x64 ------

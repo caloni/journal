@@ -54,5 +54,5 @@ Felizmente (e também obviamente) o pessoal do Qt já fez [uma entrada na wiki](
 
 Mas não foi o caso dessa vez. Tudo funcionou perfeitamente assim que incluí os valores da Wiki logo no começo da sessão __Visualizer__.
 
-![](/images/visualstudio-qstring-debug-tooltip.gif)
+![](http://i.imgur.com/3dnGwGK.gif)
 

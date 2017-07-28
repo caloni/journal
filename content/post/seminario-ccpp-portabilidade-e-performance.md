@@ -21,14 +21,14 @@ Para responder estas questões teremos uma bateria de palestras com temas que, d
 
 
 
-![wanderley.gif](/images/wanderley.gif)**Dicas e Truques de Portabilidade**
+![wanderley.gif](http://i.imgur.com/RPibM82.gif)**Dicas e Truques de Portabilidade**
 Wanderley Caloni
 
 O objetivo dessa palestra é focar nos problemas da vida real que enfrentamos no dia-a-dia para tornar um código portável ou mais maleável para um dia ser. Nesse caso existem vários assuntos a tratar, como: construções ambígüas não-padrão, isolamento de particularidades de cada sistema, identificação de problemas de portabilidade, organização do código-fonte portável, entre outros.
 
 O nível dessa palestra será o intermediário, porque eu preciso que o público tenha o conhecimento prévio de programação C e C++. Quando você está aprendendo, uma dica ou outra sobre portabilidade pode ser interessante para não ser desvirtuado desde o início. Porém, para realmente começar a programar multiplataforma, existem desafios que devem ser transpostos por aqueles que já conseguem um nível de organização e desenvolvimento em C e C++ que não deixa dúvidas sobre a qualidade do código.
 
-![fabio.jpg](/images/fabio.jpg)
+![fabio.jpg](http://i.imgur.com/BMbSRAc.jpg)
 
 **Programação Concorrente com C++**
 Fábio Galuppo
@@ -37,7 +37,7 @@ Fábio Galuppo estréia na nossa rede de palestrantes, depois de seu inspirador 
 
 Apenas para ter uma idéia da importância em se ir em uma palestra como essa, imagine que 99,9% dos produtos da Google se baseiam nesse tipo de programação, envolvendo uma plantação de algumas centenas (milhares?) de máquinas trabalhando um banco de dados gigantesco no modo cooperativo para entregar a resposta mais rápida possível do outro lado. Sentiu o drama?
 
-![strauss.gif](/images/strauss.gif)
+![strauss.gif](http://i.imgur.com/NvLa4qf.gif)
 
 **Programação Multiplataforma Usando STL e Boost**
 Rodrigo Strauss
@@ -46,7 +46,7 @@ Voltando para o tema portabilidade, Rodrigo Strauss volta a repetir sua performa
 
 Por exemplo, a manipulação de arquivos e diretórios não é lá o forte da STL, concentrada no conceito de streams. Com o uso do Boost, podemos ter o melhor da STL, só que turbinada. Além disso, o novo padrão de _threads _ainda está longe de chegar ao mercado, e o Boost.Threads é uma solução viável atualmente.
 
-![kumpera.jpg](/images/kumpera.jpg)![tupi.jpg](/images/tupi.jpg)
+![kumpera.jpg](http://i.imgur.com/zZ8iled.jpg)![tupi.jpg](http://i.imgur.com/xcyNlkM.jpg)
 
 **Técnicas de Otimização de Código**
 Rodrigo Kumpera & André Tupinambá

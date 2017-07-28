@@ -10,7 +10,7 @@ Em 22 de maio de 1990 a versão 3.0 do Windows foi lançada. Foi melhorado o ger
 
 
 
-[![Windows 3.0 Desktop](http://upload.wikimedia.org/wikipedia/en/1/15/Windows_3.0_workspace.png)](/images/Windows_3.0_workspace.png)
+[![Windows 3.0 Desktop](http://upload.wikimedia.org/wikipedia/en/1/15/Windows_3.0_workspace.png)](http://i.imgur.com/2G8kwD4.0_workspace.png)
 
 **Novas tecnologias**
 
@@ -22,7 +22,7 @@ E, finalmente, agora já é hora de conversarmos sobre...
 
 **Como o sistema de janelas funciona no Windows 3.x**
 
-[![Charles Petzold, em foto do seu site](/images/PetzoldBW.gif)](http://www.charlespetzold.com/)Quem começou a programar para Windows naquela época com certeza deve ter ouvido falar do livro clássico de [Charles Petzold](http://www.charlespetzold.com/), uma das poucas referências naquela época sem internet: [Programming Windows 3.1](http://www.amazon.com/Programming-Windows-3-1-Charles-Petzold/dp/1556152647/ref=sr_11_1/105-0066727-6712432?ie=UTF8&qid=1185296183&sr=11-1). É um livro consideravelmente completo se considerarmos a época em que foi escrito. Vários exemplos estão disponíveis em suas páginas, mas para os que não viveram essa época (como eu) existe a versão eletrônica disponível para [_download_](ftp://ftp.charlespetzold.com/ProgWin30/). Você deve estar se perguntando se todo esse código-fonte serve para alguma coisa hoje em dia. Por incrível que pareça, serve sim. E para demonstrar o conceito de compatibilidade retroativa da Microsoft, iremos utilizar os mesmos exemplos deste livro, sem por nem tirar uma linha de código. Com o devido _copyright_ e respeito merecidos ao autor, é claro =).
+[![Charles Petzold, em foto do seu site](http://i.imgur.com/phBymih.gif)](http://www.charlespetzold.com/)Quem começou a programar para Windows naquela época com certeza deve ter ouvido falar do livro clássico de [Charles Petzold](http://www.charlespetzold.com/), uma das poucas referências naquela época sem internet: [Programming Windows 3.1](http://www.amazon.com/Programming-Windows-3-1-Charles-Petzold/dp/1556152647/ref=sr_11_1/105-0066727-6712432?ie=UTF8&qid=1185296183&sr=11-1). É um livro consideravelmente completo se considerarmos a época em que foi escrito. Vários exemplos estão disponíveis em suas páginas, mas para os que não viveram essa época (como eu) existe a versão eletrônica disponível para [_download_](ftp://ftp.charlespetzold.com/ProgWin30/). Você deve estar se perguntando se todo esse código-fonte serve para alguma coisa hoje em dia. Por incrível que pareça, serve sim. E para demonstrar o conceito de compatibilidade retroativa da Microsoft, iremos utilizar os mesmos exemplos deste livro, sem por nem tirar uma linha de código. Com o devido _copyright_ e respeito merecidos ao autor, é claro =).
 
 Programar interfaces naquela época não era bem o "clicar e arrastar" de hoje em dia. Eram necessários profundos conhecimentos sobre como o sistema operacional se relacionava com o seu programa e vice-versa. Hoje em dia é possível ainda programar como antigamente, já que toda a estrutura continua a mesma. Porém, é algo extremamente contraprodutivo de se fazer com as IDEs modernas que existem e suas barras de controles pré-fabricados e código automático. Faremos da forma mais rústica para entender como as coisas funcionam por baixo dos panos, o que por si só será extremamente produtivo para o nosso conhecimento.
 
@@ -88,7 +88,7 @@ WndProc
 
 Uma mensagem é um evento que ocorre relativo à sua janela ou o que está acontecendo ao redor dela no mundo Windows. Por exemplo, as janelas recebem eventos a respeito dos cliques do usuário, redesenho da janela, etc. Quem envia essas mensagens é o próprio Windows, e ele espera uma resposta da sua função de janela. Agora a parte esquisita: quem envia essas mensagens para o Windows é o seu próprio aplicativo!
 
-[![Função de janela](/images/window-proc.gif)](/images/window-proc.gif)
+[![Função de janela](http://i.imgur.com/LwBAko9.gif)](/images/window-proc.gif)
 
 O aplicativo fica aguardando por eventos em um _loop_ conhecido como **_loop_ de mensagens**. A função do _loop_ basicamente é chamar a função [GetMessage](http://msdn2.microsoft.com/en-us/library/ms644936.aspx) e redirecionar as mensagens obtidas para as respectivas funções de janela.
 

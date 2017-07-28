@@ -13,7 +13,7 @@ No entanto, ele me deu uma "dica": é o disjuntor. Pensei comigo mesmo: "agora o
 
 Dito e feito. No dia seguinte fui comprar um novo. Mesmo modelo, tudo certinho (aproveitei e comprei o tal testador de tensão). Quando fui retirar o velho, notei que havia um fio desencapado muito próximo de uma das entradas de energia do dito cujo.
 
-![](/images/disjuntor-chuveiro-entrada-energia.jpg)
+![](http://i.imgur.com/1MY6daJ.jpg)
 
 É nessa entrada que se conecta um pino de onde vem a energia da central. Do lado deste pino havia um fio, como quem não quer nada, "passeando" bem próximo do pino. Notei também que havia outro do lado, no disjuntor do microondas.
 

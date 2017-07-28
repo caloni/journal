@@ -4,7 +4,7 @@ title: Introdução ao C++ Builder...Turbo C++
 tags: [ "programação" ]
 ---
 
-[![Borland Developer Studio](/images/borland-developer-studio.png)](/images/borland-developer-studio.png)Após mais de [um ano de tentativas](http://www.blogger.com/profile/05210880271965378292), finalmente consegui instalar e iniciar com sucesso o **Borland Developer Studio**. Esse foi o nome pomposo dado pela Borland para a "continuação" do velho [C++ Builder](http://cc.codegear.com/free/cppbuilder) e seus parentes, o Delphi e o C# Builder.
+[![Borland Developer Studio](http://i.imgur.com/FYJMkF7.png)](/images/borland-developer-studio.png)Após mais de [um ano de tentativas](http://www.blogger.com/profile/05210880271965378292), finalmente consegui instalar e iniciar com sucesso o **Borland Developer Studio**. Esse foi o nome pomposo dado pela Borland para a "continuação" do velho [C++ Builder](http://cc.codegear.com/free/cppbuilder) e seus parentes, o Delphi e o C# Builder.
 
 Existem muitas coisas novas ainda para ver, mas não é a usabilidade. Assim como a IDE antiga, é fácil de sair mexendo e fazendo janelas, no bom estilo [WYSIWYG](http://en.wikipedia.org/wiki/Wysiwyg) dos produtos da Borland.
 
@@ -32,7 +32,7 @@ Para as pessoas que chegam nesse nível de necessidade, existem basicamente duas
   3. Mudar de sistema operacional e esquecer esse negócio de _loop_ de mensagens (eu disse duas escolhas, certo?)
 
 
-[![C++ Builder 1.0](/images/cppbuilder1-splash.png)](/images/cppbuilder1-splash.png)
+[![C++ Builder 1.0](http://i.imgur.com/0PabqFm.png)](/images/cppbuilder1-splash.png)
 
 Bom, eis que surge o C++ Builder: uma ferramenta idêntica ao Delphi, contudo que oferece a linguagem C++ para que todas aquelas pessoas recém-saídas da faculdade e ansiosas por entrar no mercado de trabalho esqueçam aquele papo de Pascal e passem a usar a linguagem da indústria. Pelo jeito, era mais ou menos essa a visão da Borland quando lançaram o produto.
 
@@ -75,7 +75,7 @@ Após tudo isso instalado, finalmente conseguiremos rodar nossa ferramenta RAD. 
 
 Se você nunca usou essa ferramenta, ao abrir o ambiente, irá se deparar com vários elementos que precisam ser nomeados e explicados para fazer algum sentido. Mesmo que muitas coisas sejam novas, algumas devem estar sempre gravadas em sua memória:
 
-[![Turbo C++ IDE](/images/turbocpp-ide.png)](/images/turbocpp-ide.png)
+[![Turbo C++ IDE](http://i.imgur.com/TnOnGKm.png)](/images/turbocpp-ide.png)
 
 
 #### Object Inspector
@@ -97,7 +97,7 @@ Onde estão todos os meus arquivos? O Gerenciador de Projetos está aí para aju
 #### Nosso primeiro projeto
 
 
-[![Builder Notepad](/images/builder-notepad.png)](/images/builder-notepad.png)
+[![Builder Notepad](http://i.imgur.com/qepwbbJ.png)](/images/builder-notepad.png)
 
 Considerando que o Bloco de Notas é minha vítima preferida para testes (e a vítima preferida de [outros](http://www.driverentry.com.br), também), nada melhor que nosso projeto seja um Bloco de Notas simplificado, que leia, exiba e salve arquivo-texto. Para esse projeto iremos utilizar apenas 5 componentes e cerca de 10 linhas de código:
 
@@ -113,6 +113,6 @@ Considerando que o Bloco de Notas é minha vítima preferida para testes (e a v�
   * 2 caixas de diálogo comum (abrir e salvar arquivo).
 
 
-[![Builder Notepad Design](/images/builder-notepad-design.png)](/images/builder-notepad-design.png)
+[![Builder Notepad Design](http://i.imgur.com/8GEaElh.png)](/images/builder-notepad-design.png)
 
 A implementação da versão alfa está [disponível para visualização](/images/turbocpp.htm) em cerca de 5MB de vídeo, além dos [fontes do projeto](/images/2007-09-26-builder-notepad.7z). Bom divertimento!

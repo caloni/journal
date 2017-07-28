@@ -57,7 +57,7 @@ Você que não está fazendo subclassing de janelas existe outra técnica que vo
 
 
 
-![Arrastar-e-soltar controles do Windows](/images/arrastar-e-soltar-linque.png)
+![Arrastar-e-soltar controles do Windows](http://i.imgur.com/brmIxLu.png)
 
 
 
@@ -65,7 +65,7 @@ Você que não está fazendo subclassing de janelas existe outra técnica que vo
 
 
 
-![Bloqueio de reboot no Windows Seven](/images/block-reboot.png)
+![Bloqueio de reboot no Windows Seven](http://i.imgur.com/0OKkJKy.png)
 
 
 

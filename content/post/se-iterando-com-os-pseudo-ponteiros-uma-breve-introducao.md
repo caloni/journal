@@ -25,7 +25,7 @@ Dito isto, a abstração dos iteradores é a coisa mais linda do mundo.
 
 
 
-[![iteradores-como-ponteiros-a-imagem](/images/14307157649_516dd123ba_z.jpg)](/images/14307157649_516dd123ba_z.jpg)
+[![iteradores-como-ponteiros-a-imagem](http://i.imgur.com/0Kne7qd.jpg)](/images/14307157649_516dd123ba_z.jpg)
 
 
 
@@ -121,7 +121,7 @@ int main()
 
 
 
-[![iteradores-como-ponteiros](/images/14492489942_716878c004_z.jpg)](/images/14492489942_716878c004_z.jpg)
+[![iteradores-como-ponteiros](http://i.imgur.com/GmNutkz.jpg)](/images/14492489942_716878c004_z.jpg)
 
 
 

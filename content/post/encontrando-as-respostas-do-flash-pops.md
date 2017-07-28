@@ -4,7 +4,7 @@ title: Encontrando as respostas do Flash Pops
 tags: [ "engenharia reversa" ]
 ---
 
-[![Flash Pops](/images/flash-pops.png)](/images/flash-pops.png)Existe uma [série de jogos](http://www2.uol.com.br/flashpops/jogos/) no sítio da UOL onde você deve acertar o nome de filmes, programas de televisão, entre outros, que vão da [década de 40](http://www.imdb.com/title/tt0034583/) até a [atualidade](http://www.imdb.com/title/tt0109830/). É divertido e viciante fazer pesquisa na internet para encontrar os resultados, ainda mais quando já se é viciado em cinema. Ficamos jogando, eu e minha namorada, por semanas a fio. Quase chegamos a preencher tudo, e por um bom tempo ficamos travados para terminar. Então começamos a apelar para o [Google](http://www.google.com) e o [IMDB](http://www.imdb.com) até os limites do razoável. Nesse fim de semana, por exemplo, chegamos a assistir um filme de madrugada onde tocou rapidamente um trecho de uma das músicas que faltava no jogo sobre televisão. No dia seguinte procuramos a [trilha sonora do filme](http://www.imdb.com/title/tt0140688/soundtrack), ouvimos [faixa a faixa](http://www.amazon.com/exec/obidos/ASIN/B000007T6B/internetmoviedat/) e procuramos [o nome da música](http://www.google.com/search?q=) no Google, para finalmente encontrar [o resultado](http://www.imdb.com/title/tt0088559/).
+[![Flash Pops](http://i.imgur.com/nwYAF4Q.png)](/images/flash-pops.png)Existe uma [série de jogos](http://www2.uol.com.br/flashpops/jogos/) no sítio da UOL onde você deve acertar o nome de filmes, programas de televisão, entre outros, que vão da [década de 40](http://www.imdb.com/title/tt0034583/) até a [atualidade](http://www.imdb.com/title/tt0109830/). É divertido e viciante fazer pesquisa na internet para encontrar os resultados, ainda mais quando já se é viciado em cinema. Ficamos jogando, eu e minha namorada, por semanas a fio. Quase chegamos a preencher tudo, e por um bom tempo ficamos travados para terminar. Então começamos a apelar para o [Google](http://www.google.com) e o [IMDB](http://www.imdb.com) até os limites do razoável. Nesse fim de semana, por exemplo, chegamos a assistir um filme de madrugada onde tocou rapidamente um trecho de uma das músicas que faltava no jogo sobre televisão. No dia seguinte procuramos a [trilha sonora do filme](http://www.imdb.com/title/tt0140688/soundtrack), ouvimos [faixa a faixa](http://www.amazon.com/exec/obidos/ASIN/B000007T6B/internetmoviedat/) e procuramos [o nome da música](http://www.google.com/search?q=) no Google, para finalmente encontrar [o resultado](http://www.imdb.com/title/tt0088559/).
 
 Essa foi a última resposta "honesta". Depois resolvi apelar para o WinDbg =)
 
@@ -18,7 +18,7 @@ A primeira coisa que pensei a respeito desse jogo foi que ele não seria tão in
 
 A primeira coisa a fazer é carregar o jogo na memória do navegador. Em seguida, seguindo meu raciocínio inicial, digitei a primeira resposta do jogo.
 
-[![Flash Pops (Filmes 1)](/images/flash-pops-jogo.png)](/images/flash-pops-jogo.png)
+[![Flash Pops (Filmes 1)](http://i.imgur.com/uuBC9fi.png)](/images/flash-pops-jogo.png)
 
 A partir daí, podemos "atachar" o WinDbg no processo do navegador e rastrear a memória do processo.
 
@@ -26,7 +26,7 @@ A partir daí, podemos "atachar" o WinDbg no processo do navegador e rastrear a 
     windbg -pn firefox.exe
 
 
-[![GPF Now!](/images/gpfnow.gif)](/images/gpfnow.gif)
+[![GPF Now!](http://i.imgur.com/57ydjgF.gif)](/images/gpfnow.gif)
 
 [](/images/win-pan.mp3)Então, como eu dizia, não faça isso em casa enquanto estiver digitando um artigo de seu blogue dentro do navegador. Ele vai travar!
 
@@ -198,6 +198,6 @@ Bom, vou parar o _dump_ por aqui, já que, entre os leitores, pode haver quem qu
 
 Vimos que o jogo é facilmente quebrável porque armazena as respostas em texto claro. Uma solução alternativa seria utilizar um **_hash_ com colisão próxima de zero**. Com isso bastaria trocar as respostas possíveis por _hashs_ possíveis e armazená-los no lugar. Quando o usuário digitasse, tudo que o programa precisaria mudar era gerar um _hash_ a partir da resposta do usuário e comparar com o _hashs_ das respostas válidas.
 
-[![Flash Pops Seguro](/images/flash-pops.gif)](/images/flash-pops.gif)
+[![Flash Pops Seguro](http://i.imgur.com/yovlNra.gif)](/images/flash-pops.gif)
 
 Por uma incrível coincidência, esse truquezinho eu aprendi com meu amigo [Thiago](http://codebehind.wordpress.com/) há poucos dias, que está lendo [Reversing](http://compare.buscape.com.br/categoria?id=3482&lkout=1&kw=Reversing+Secrets+of+Reverse+Engineering&site_origem=1293522). Simples, porém funcional.

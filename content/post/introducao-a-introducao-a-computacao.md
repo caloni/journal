@@ -16,7 +16,7 @@ tags:
 - resenhas
 ---
 
-[![Capa do livro](/images/14172567934_02c53c70ec_q.jpg)](/images/14172567934_02c53c70ec_q.jpg) Chegou minha segunda cópia do livro ["Introdução Ilustrada à Computação"](http://www.caloni.com.br/50-anos-de-basic), de Larry Gonick, recém-encontrado em um sebo. Esse eu não empresto para mais ninguém. Porém, posso recomendar aos ainda não-iniciados, e até mesmo aos iniciados em um nível superior ao do elétron: leiam esse livro pelo menos duas vezes. Isso é o que estou fazendo, e mesmo já com quase 15 anos computando nas ruas ainda aprendendo alguma coisa interessante.
+[![Capa do livro](http://i.imgur.com/X6UJJym.jpg)](/images/14172567934_02c53c70ec_q.jpg) Chegou minha segunda cópia do livro ["Introdução Ilustrada à Computação"](http://www.caloni.com.br/50-anos-de-basic), de Larry Gonick, recém-encontrado em um sebo. Esse eu não empresto para mais ninguém. Porém, posso recomendar aos ainda não-iniciados, e até mesmo aos iniciados em um nível superior ao do elétron: leiam esse livro pelo menos duas vezes. Isso é o que estou fazendo, e mesmo já com quase 15 anos computando nas ruas ainda aprendendo alguma coisa interessante.
 
 
 
@@ -28,7 +28,7 @@ O livro começa lá nos primórdios da informação, antes mesmo da humanidade. 
 
 
 
-[![Imagem artística do DNA](/images/14543545391_23f229d705_z.jpg)](/images/14543545391_23f229d705_z.jpg)
+[![Imagem artística do DNA](http://i.imgur.com/I99BNq9.jpg)](/images/14543545391_23f229d705_z.jpg)
 
 
 
@@ -40,7 +40,7 @@ Porém, mais do que explicar o que é informação, o livro de Gonick consegue f
 
 
 
-[![Foto de Ada Lovelace](/images/14545419744_ef7097d8c5_o.jpg)](/images/14545419744_ef7097d8c5_o.jpg)
+[![Foto de Ada Lovelace](http://i.imgur.com/VP7cFBQ.jpg)](/images/14545419744_ef7097d8c5_o.jpg)
 
 
 
@@ -52,7 +52,7 @@ Antes mesmo da invenção do computador nós usávamos outras coisas para _armaz
 
 
 
-[![Imagem de ábaco engraçadinho](/images/14546026322_958c840b45_o.jpg)](/images/14546026322_958c840b45_o.jpg)
+[![Imagem de ábaco engraçadinho](http://i.imgur.com/EIKegpX.jpg)](/images/14546026322_958c840b45_o.jpg)
 
 
 
@@ -76,7 +76,7 @@ Sua Parte II, o espaguete lógico, acredito que seja o que mais interessa a nós
 
 
 
-[![Circuito de flip-flop](/images/14360387178_d78e18b523_z.jpg)](/images/14360387178_d78e18b523_z.jpg)
+[![Circuito de flip-flop](http://i.imgur.com/V4mtqKS.jpg)](/images/14360387178_d78e18b523_z.jpg)
 
 
 

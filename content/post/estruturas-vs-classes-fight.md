@@ -4,7 +4,7 @@ title: 'Estruturas VS Classes: fight!'
 tags: [ "c++", "c++", "linguagem", "sintaxe" ]
 ---
 
-[![EpicRapBattleStructVcClass](/images/14250890913_37a06bf7a2_o.jpg)](/images/14250890913_37a06bf7a2_o.jpg)
+[![EpicRapBattleStructVcClass](http://i.imgur.com/0uar0i8.jpg)](/images/14250890913_37a06bf7a2_o.jpg)
 
 
 
@@ -45,7 +45,7 @@ Ele compila e roda sem problemas:
 
 
 
-[![StructVsClass](/images/14230192924_fd9c2fb490_z.jpg)](/images/14230192924_fd9c2fb490_z.jpg)
+[![StructVsClass](http://i.imgur.com/APlOm65.jpg)](/images/14230192924_fd9c2fb490_z.jpg)
 
 
 
@@ -88,7 +88,7 @@ int main()
 
 
 
-[![StructVsClass-Construtor](/images/14230273964_89e37e2487_z.jpg)](/images/14230273964_89e37e2487_z.jpg)
+[![StructVsClass-Construtor](http://i.imgur.com/vwpucpm.jpg)](/images/14230273964_89e37e2487_z.jpg)
 
 
 
@@ -149,7 +149,7 @@ int main()
 
 
 
-[![StructVsClassStructConstructor](/images/14207416246_60675f681a_z.jpg)](/images/14207416246_60675f681a_z.jpg)
+[![StructVsClassStructConstructor](http://i.imgur.com/rdpllNf.jpg)](/images/14207416246_60675f681a_z.jpg)
 
 
 
@@ -190,7 +190,7 @@ int main()
 
 
 
-[![StructVsClassStreams](/images/14043966560_422ae353d9_z.jpg)](/images/14043966560_422ae353d9_z.jpg)
+[![StructVsClassStreams](http://i.imgur.com/np4trf9.jpg)](/images/14043966560_422ae353d9_z.jpg)
 
 
 

@@ -4,7 +4,7 @@ title: Banco de dados no C++ Builder
 tags: [ "código" ]
 ---
 
-[![CPPB Database](/images/cppb-database.png)](/images/cppb-database.png)
+[![CPPB Database](http://i.imgur.com/m4lKMDv.png)](/images/cppb-database.png)
 
 Um banco de dados é qualquer lugar onde podemos ler e escrever informação geralmente persistente. Pode ser um arquivo INI, uma estrutura binária ou uma [plantação de servidores](http://www.google.com) para fazer busca na internet.
 
@@ -24,7 +24,7 @@ Visando preencher algumas lacunas na internet sobre esse tema, iremos agora nos 
 
 Quase como um prêmio de consolação por participarmos de um sorteio que sabemos que não iremos ganhar nunca, a Caixa generosamente oferece a opção de baixarmos todos os resultados da [Mega Sena](http://www.caixa.gov.br/loterias/loterias/megasena/download.asp) desde seu início. Iremos utilizar esse **banco de dados** para criar uma interface de visualização de resultados no C++ Builder.
 
-[![Mega Sena Download](/images/megasena-download.png)](http://www.caixa.gov.br/loterias/loterias/megasena/download.asp)
+[![Mega Sena Download](http://i.imgur.com/UAwCSiC.png)](http://www.caixa.gov.br/loterias/loterias/megasena/download.asp)
 
 Um problema inicial está no fato que o arquivo está no formato HTML, um formato mais difícil de usarmos no C++ Builder. Portanto, irei converter este formato em algo mais maleável, como um arquivo do Microsoft Access (manipulável pelo [Open Office](http://www.openoffice.org/)), o famoso **MDB**.
 
@@ -38,11 +38,11 @@ Neste tutorial vamos usar aquilo que é o configurador oficial de banco de dados
 
 Criado o MDB, podemos clicar no BDE Administrator do Painel de Controle. A única coisa que precisamos fazer é criar uma nova base de dados, e especificar seus poucos parâmetros, como o tipo de base (MSACCESS) e o _path_ de onde está o arquivo MDB.
 
-[![BDE Config](/images/bde-config.png)](/images/bde-config.png)
+[![BDE Config](http://i.imgur.com/CGK70TT.png)](/images/bde-config.png)
 
 Ah, sim, claro, também é importante colocar um nome apropriado para a base de dados: MegaSena.
 
-A partir daí, clicando no botão _Apply_ ![BDE Apply](/images/bde-apply-btn.png), tudo deve fluir. Como em informática tudo quer dizer nada, eu deixo por conta do leitor a resolução de quaisquer problemas que acontecerem durante a configuração.
+A partir daí, clicando no botão _Apply_ ![BDE Apply](http://i.imgur.com/V7nz629.png), tudo deve fluir. Como em informática tudo quer dizer nada, eu deixo por conta do leitor a resolução de quaisquer problemas que acontecerem durante a configuração.
 
 
 #### Agora o Borland Studio
@@ -91,7 +91,7 @@ Após todos esses componentes não-visuais terem sido inseridos no _form_, nada 
 
 Com isso, nossa janela já exibe o conteúdo da tabela em tempo de _design_:
 
-[![DB Grid](/images/cppb-dbgrid.png)](/images/cppb-dbgrid.png)
+[![DB Grid](http://i.imgur.com/gQZWVxo.png)](/images/cppb-dbgrid.png)
 
 E é isso! Se chegamos até aqui, já sabemos o arroz com feijão de usar banco de dados com o C++ Builder. Mais para a frente podemos nos aventurar em tópicos um pouco mais avançados, como fazer buscas, navegar item a item e essas coisas que as pessoas costumam fazer com um MDB.
 

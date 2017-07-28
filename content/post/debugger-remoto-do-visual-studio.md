@@ -11,7 +11,7 @@ Há muito tempo atrás eu falei sobre [o depurador remoto do C++ Builder](/debug
 
 É simples de achar essa opção no projeto em qualquer Visual Studio. Vá nas opções do projeto, Linker e irá encontrar em algum lugar sobre a geração do PDB. Não tenha medo de explorar as opções do projeto. Elas refletem como o XML do projeto muda (sim, é um XML). Se estiver querendo saber exatamente como ele muda, use um controle de fonte e vá experimentando.
 
-![](/images/remote-debugger-generate-pdb.png)
+![](http://i.imgur.com/znl7K0b.png)
 
 Para depurar pelo Visual Studio 2003 há um programa chamado **msvcmon.exe** que deve ser copiado e executado na máquina-alvo. Ele é um executável que pode ser copiado para qualquer lugar. Junto dele devem estar duas DLLs: a **natdbgdm.dll** e a **natdbgtlnet.dll**. Se você tiver o VS2003 instalado deve achar esses arquivos em algum lugar, ou no pior dos casos no CD de instalação. Por via das dúvidas sempre há [um link amigo na internet](/downloads//msvcmon-vs2003.7z) para ajudar alguém a achar o que precisa.
 
@@ -80,7 +80,7 @@ Waiting for Connections - everyone is allowed access
 
 Agora no Visual Studio 2003 vá em Debug, Processes (ou Ctrl+Alt+P para os íntimos) e escolha a opção de Transport como TCP/IP, digite o IP... explore sua ferramenta, poxa!
 
-![](/images/vs2003-attach-remote-process.png)
+![](http://i.imgur.com/bZVsEj8.png)
 
 Depois de conectar remotamente por essa janela o console do msvcmon irá mostrar que usuário se logou:
 
@@ -92,11 +92,11 @@ Waiting for Connections - everyone is allowed access
 
 Para configurar o início da depuração remota pelo próprio projeto você terá que ir nas opções de debug dele:
 
-![](/images/vs2003-remote-debug-options.png)
+![](http://i.imgur.com/mrktmwE.png)
 
 E para começar os problemas é sempre bom lembrar que projetos compilados como debug precisam das DLLs de runtime do Visual Studio que sejam debug. Mas você já sabe disso.
 
-![](/images/remote-debugger-msvcr71.png)
+![](http://i.imgur.com/7EHOpJ1.png)
 
 Depois que tudo isso estiver OK é só iniciar seus processos remotamente em modo de depuração ou atachar pela primeira janela que vimos.
 
@@ -104,9 +104,9 @@ Agora você deve estar se perguntando: "mas esse VS é muito velho! e os mais no
 
 Bom, desde o VS 2010 e até o VS2017 RC essa ferramenta está disponível na pasta de instalação, mudou um pouco de cara e você pode encontrar procurando por "remote". No Caso do VS mais novo que tenho em mãos aqui, o 2017 RC, existe já uma pasta pronta para copiar e colar na máquina-alvo, em Common7, IDE, Remote Debugger. Há duas pastas disponíveis: x86 e x64. Dependendo do tipo de compilação que deseja realizar (e de qual o seu executável) copie uma das duas, rode o executável da pasta e apenas configure.
 
-![](/images/msvsmon-vs2017-config.png)
+![](http://i.imgur.com/2yUrl8z.png)
 
 Você até já sabe qual o caminho do sucesso: **All access to everyoooone**!!! ;)
 
-[![](/images/everyone.gif)](http://cinetenisverde.com.br/o-profissional)
+[![](http://i.imgur.com/ajBG8fM.gif)](http://cinetenisverde.com.br/o-profissional)
 

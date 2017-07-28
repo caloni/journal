@@ -83,13 +83,13 @@ Apesar de não ter nada contra traduzir termos do inglês para português (e vic
 <blockquote>_Esses exemplos, salvo o exemplo do livro de algoritmos, foram criados para ilustrar os tipos de erros mais comuns em traduções de livros técnicos, e não estão relacionados com qualquer livro em específico._</blockquote>
 
 
-[![Homem tentando enfiar um fio na agulha.](/images/9349_man_trying_to_thread_a_sewing_needle.png)](/images/9349_man_trying_to_thread_a_sewing_needle.png)Então o que era inicialmente para ajudar as pessoas que estão iniciando alguns conceitos acaba por prejudicar ainda mais o aprendizado, gerando aquele tipo de confusão que só com ajuda extra (internet, professor, colega) pode ser resolvida.
+[![Homem tentando enfiar um fio na agulha.](http://i.imgur.com/56bgzq0.png)](/images/9349_man_trying_to_thread_a_sewing_needle.png)Então o que era inicialmente para ajudar as pessoas que estão iniciando alguns conceitos acaba por prejudicar ainda mais o aprendizado, gerando aquele tipo de confusão que só com ajuda extra (internet, professor, colega) pode ser resolvida.
 
 Assim como no vocabulário comum corrente, em que existem palavras dificilmente adaptáveis ou traduzíveis em um termo comum, como _shopping_ e _show_,  no meio técnico desabrocham as mais variadas expressões estrangeirísticas. Algumas são muito difíceis de encontrar seu primo lusófono, como _link_ e _login_. Outros, no entanto, exageram um pouco as coisas, a ponto de conjugarmos um verbo em inglês usando nosso sistema gramatical ("se você *stopar* o *debugador* vai *crashear* todo o sistema, porque esse _software_ tá *bugado*!").
 
 O fato é que não há escapatória para quem trabalha nessa área, e no fundo isso é uma coisa boa, pois é da leitura técnica em inglês que podemos estender o nosso conhecimento além das barreiras do .br e encontrar conteúdo extremamente interessante (e inédito em nossa língua) para aprender. Se não estivéssemos abarrotados de estrangeirismos talvez fosse um pouco mais difícil fazer o _switch_ entre essas duas linguagens.
 
-[](/images/3673_businessman_linking_a_chain_together.png)
+[](http://i.imgur.com/kCIXlt1.png)
 
 
-[![Homem de negócios juntando os dois elos de uma corrente gigante.](/images/3673_businessman_linking_a_chain_together.png)](/images/3673_businessman_linking_a_chain_together.png)
+[![Homem de negócios juntando os dois elos de uma corrente gigante.](http://i.imgur.com/kCIXlt1.png)](/images/3673_businessman_linking_a_chain_together.png)

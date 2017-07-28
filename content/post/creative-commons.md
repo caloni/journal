@@ -12,7 +12,7 @@ Para ajudar os autores da internet a informarem ao seu público qual o nível de
 
 Exatamente por não ser obrigado o registro de uma obra para tornar válido o seu direito autoral, o Creative Commons apenas define alguns logos e _links_ que simbolizam e especificam quais os direitos que um autor gostaria de aplicar à sua obra, variando de uma obra totalmente protegida até uma obra sem qualquer nível de proteção. No meu caso, por exemplo, as obras do Caloni.com.br estão publicadas sob as [seguintes condições](http://creativecommons.org/licenses/by-nc-nd/2.5/br/):
 
-[![Creative Commons no Caloni.com.br](/images/creative-commons.png)](http://creativecommons.org/licenses/by-nc-nd/2.5/br/)
+[![Creative Commons no Caloni.com.br](http://i.imgur.com/Agy9W5v.png)](http://creativecommons.org/licenses/by-nc-nd/2.5/br/)
 
 
 

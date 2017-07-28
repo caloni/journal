@@ -28,7 +28,7 @@ O [FreeDOS](http://www.freedos.org/) é um projeto de fonte aberto que procura c
 
 Para conseguirmos essa proeza é necessário reiniciarmos a máquina com algum sistema 16 bits, de preferência que caiba em um disquete. Junto com ele basta uma cópia do debug.com. Após reiniciarmos e aparecer o prompt de comando, podemos chamar o depurador e começar a diversão:
 
-![Debug](/images/debug.png)
+![Debug](http://i.imgur.com/YlSOCaO.png)
 
 A MBR fica localizada no primeiro setor do HD ativo (_master_). A BIOS automaticamente procura esse HD e faz a leitura usando a INT13, função da própria BIOS para leitura de disquetes e derivados.
 
@@ -77,7 +77,7 @@ Essa organização é diferente do endereço inicial da BIOS, que é por padrão
 
 Após definir corretamente os registradores, tudo que temos que fazer é escrever uma chamada à INT13 no endereço atual e executar. O conteúdo inicial do disco será escrito no endereço de memória 0000:7E00. Após isso trocamos o IP atual para esse endereço e começamos a depurar a MBR, como se estivéssemos logo após o _boot_ da máquina.
 
-![debug2.png](/images/debug2.png)
+![debug2.png](http://i.imgur.com/0H8qWQw.png)
 
 
 #### Depurando a BIOS

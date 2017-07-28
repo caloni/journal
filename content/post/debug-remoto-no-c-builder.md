@@ -41,7 +41,7 @@ Esse é um detalhe que pode passar despercebido da maioria da população Borlan
 	
   8. Em Remote Host especifique o nome ou o IP da máquina remota.
 
-[![Builder Remote Debugger](/images/builder-remote-debug.png)](/images/builder-remote-debug.png)
+[![Builder Remote Debugger](http://i.imgur.com/L5zVWzq.png)](/images/builder-remote-debug.png)
 	
   9. Execute o aplicativo através do Builder (certifique-se que o cliente do Builder está rodando na máquina remota).
 

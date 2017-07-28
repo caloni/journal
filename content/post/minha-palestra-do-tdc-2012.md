@@ -4,7 +4,7 @@ title: Minha palestra do TDC 2012
 tags: [ "blogging", "código", "eventos", "palestras" ]
 ---
 
-[![](/images/Palestra-TDC2012.jpg)](/images/Palestra-TDC2012.jpg)
+[![](http://i.imgur.com/sB94Y9w.jpg)](/images/Palestra-TDC2012.jpg)
 
 Duas semanas atrás rolou a trilha C++ do TDC 2012, que contou com além da minha presença com a dos já conhecidos Fernando Roberto (DriverEntry), Rodrigo Strauss (1Bit), etc. Uma novidade: meu colega e programador .nerd Gabriel Guilherme também participou em uma palestra sobre um assunto que acredito que deveria ser mais promovido: interop. Afinal de contas, o poder de C++ não seria nada se não houvesse motivos práticos para usá-lo. Entre esses motivos, construir soluções com linguagens mais acessíveis é um deles.
 

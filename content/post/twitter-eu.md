@@ -4,7 +4,7 @@ title: Twitter, eu?
 tags: [ "devaneando" ]
 ---
 
-![twitter_bird.jpg](/images/twitter_bird.jpg)Fico meio receoso de comentar aqui que, sim, eu tenho twitter, e, sim, sou praticante de mais uma das artes da vadiagem. Até porque se 5% dos meus tweets tiver alguma relação com o conteúdo desse blogue, é  muito. O resto são comentários sobre economia&finanças, notícias aleatórias sobre alguma descoberta científica (ou não), dicas rápidas sobre cinema e sabe-lá-deus-o-que-mais.
+![twitter_bird.jpg](http://i.imgur.com/WGAKKxE.jpg)Fico meio receoso de comentar aqui que, sim, eu tenho twitter, e, sim, sou praticante de mais uma das artes da vadiagem. Até porque se 5% dos meus tweets tiver alguma relação com o conteúdo desse blogue, é  muito. O resto são comentários sobre economia&finanças, notícias aleatórias sobre alguma descoberta científica (ou não), dicas rápidas sobre cinema e sabe-lá-deus-o-que-mais.
 
 E isso não vai mudar. É meu twitter pessoal. Aliás, meu próprio blogue também é pessoal, e é provável que no futuro ele que mude, e não o contrário.
 

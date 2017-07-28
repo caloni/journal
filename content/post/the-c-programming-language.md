@@ -5,7 +5,7 @@ tags: [ "c++" ]
 ---
 
 **
-[![](/images/The-C-Programming-Language-150x150.jpg)](/images/The-C-Programming-Language.jpg)No Brasil**: [C A Linguagem de Programação Padrão ANSI](http://www.bondfaro.com.br/categorias?id=3482&lkout=1&kw=C+A+Linguagem+de+Programacao+Padrao+ANSI&site_origem=1293522)_
+[![](http://i.imgur.com/yZzTEsX.jpg)](http://i.imgur.com/N5uv6gS.jpg)No Brasil**: [C A Linguagem de Programação Padrão ANSI](http://www.bondfaro.com.br/categorias?id=3482&lkout=1&kw=C+A+Linguagem+de+Programacao+Padrao+ANSI&site_origem=1293522)_
 _**No Mundo**: [The C Programming Language 2nd Edition](http://compare.buscape.com.br/categoria?id=3482&lkout=1&kw=The+C+Programming+Language+Dennis+Ritchie&site_origem=1293522)
 **Autores**: Brian Kernighan e Dennis Ritchie
 **Editora**: Campus
@@ -61,7 +61,7 @@ No desenvolvimento de _software_ a organização é um dos pilares que irá tran
 
 A dificuldade com que muitos programadores C têm com essas duas características da linguagem fizeram com que fosse dedicado um capítulo inteiro para explicar e reexplicar como os _arrays_ (vetores) e ponteiros funcionam e qual a relação intrínseca entre eles. É também explicada a relação _strings_ x _arrays_, já que em C uma _string_ é uma cadeia de caracteres.
 
-[![Pointer to Vector](/images/pointer-to-vector.gif)](/images/pointer-to-vector.gif)
+[![Pointer to Vector](http://i.imgur.com/G40wPZ2.gif)](/images/pointer-to-vector.gif)
 
 Se você programa em C e até hoje tem dificuldades para entender completamente esse assunto, sugiro que largue o que você está fazendo agora e leia esse capítulo até o final. Será bem mais proveitoso que ficar zanzando no meio de um monte de blogues (como [este aqui](http://www.caloni.com.br/blog)).
 
@@ -73,7 +73,7 @@ A estrutura é uma composição complexa em C, mas permite um organização melh
 
 Aparentemente o tema estrutura é mais simples que ponteiros, e deveria ser tratado antes. Porém, fazer isso impediria abordar o tema de listas ligadas e outras estruturas que dependem do uso de ponteiros para que estruturas referenciem elas mesmas, algo extremamente recorrente no mundo da programação.
 
-[![Binary Tree](/images/binary-tree.gif)](/images/binary-tree.gif)
+[![Binary Tree](http://i.imgur.com/aH4UTVG.gif)](/images/binary-tree.gif)
 
 É sempre bom lembrar que o uso de estruturas foi o nascimento do C++, que prima pela elegância na organização e harmonia entre seu código e dados. A linguagem C também não fica para trás, mas é importante saber usar.
 

@@ -4,7 +4,7 @@ title: Influence Board
 tags: [ "projetos", "xadrez", "chess" ]
 ---
 
-[![Chess Board](/images/board.png)](/images/board.png)Há muito tempo sou enxadrista não-praticante. Acho que os anos de programação me deixaram mais viciado em codar do que pensar no xeque-mate. No entanto, sempre que posso, dou uma escapulida do Visual Studio e jogo uma partida ou duas na rede, quase sempre, é claro, tomando um piau psicológico.
+[![Chess Board](http://i.imgur.com/4Zv3zxQ.png)](/images/board.png)Há muito tempo sou enxadrista não-praticante. Acho que os anos de programação me deixaram mais viciado em codar do que pensar no xeque-mate. No entanto, sempre que posso, dou uma escapulida do Visual Studio e jogo uma partida ou duas na rede, quase sempre, é claro, tomando um piau psicológico.
 
 A falta de prática e estudos pesa muito para um enxadrista amador, já que facilmente esquecemos das combinações mortíferas que podemos aplicar e levar. É muito difícil ter em mente aquelas três dúzias de aberturas que já são batidas (e suas variantes), ou então as regrinhas de praxe de como detonar nas finais com um cavalo e um bispo.
 
@@ -22,26 +22,26 @@ Por isso mesmo aprendi em um [livro](http://www.traca.com.br/?mod=LV180839&orige
 
 Vamos supor que a posição no tabuleiro em um dado momento seja a seguinte:
 
-[](/images/winboard-mate.png)
+[](http://i.imgur.com/6IfiNAY.png)
 
 
-[![Winboard Mate](/images/winboard-mate.png)](/images/winboard-mate.png)
+[![Winboard Mate](http://i.imgur.com/6IfiNAY.png)](/images/winboard-mate.png)
 
 
 Ora, é um mate inevitável, não é? Agora imagine por um momento que você não tenha percebido isso, e precise de uma ajudinha para saber onde cada peça pode ir ou atacar no próximo lance.
 
-[](/images/winboard-mate-influence.png)
+[](http://i.imgur.com/GByvceA.png)
 
 
-[![Winboard Mate (com influências)](/images/winboard-mate-influence.png)](/images/winboard-mate-influence.png)
+[![Winboard Mate (com influências)](http://i.imgur.com/GByvceA.png)](/images/winboard-mate-influence.png)
 
 
 Agora ficou muito mais fácil de perceber que a única saída do rei não possui nenhuma proteção, já que tanto o peão quanto o próprio rei não podem fazer muita coisa se a dama atacar a diagonal vulnerável. E ela pode fazer isso.
 
-[](/images/winboard-mate-final.png)
+[](http://i.imgur.com/0Nsxat3.png)
 
 
-[![Winboard Mate Final](/images/winboard-mate-final.png)](/images/winboard-mate-final.png)
+[![Winboard Mate Final](http://i.imgur.com/0Nsxat3.png)](/images/winboard-mate-final.png)
 
 
 
@@ -75,12 +75,12 @@ Basicamente a única coisa que o futuro usuário das influências deve fazer é 
 
 Após compilado, basta copiar na pasta de instalação do programa, rodá-lo e habilitar a opção "Show Influence" do menu General. Voilà! É possível até jogar às cegas com esse brinquedinho (opção Blindfold).
 
-[![WinBoard Options](/images/winboard-options3.png)](/images/winboard-options3.png)
+[![WinBoard Options](http://i.imgur.com/G67wagx.png)](/images/winboard-options3.png)
 
-[](/images/winboard-blindfold.png)
+[](http://i.imgur.com/R5SjM7r.png)
 
 
-[![Winboard Blindfold e Influence](/images/winboard-blindfold.png)](/images/winboard-blindfold.png)
+[![Winboard Blindfold e Influence](http://i.imgur.com/R5SjM7r.png)](/images/winboard-blindfold.png)
 
 
 Bom divertimento!

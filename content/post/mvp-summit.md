@@ -3,7 +3,7 @@ date: "2014-11-21"
 title: "MVP C++ Summit e/ou Visual C++ ressurgindo das cinzas."
 tags: [ mvp, c++ summit, visual c++, microsoft ]
 ---
-<a href="/images/15658259358_e564826fc9_z.jpg" title="building-1-at-microsoft-campus by Wanderley Caloni, on Flickr"><img src="/images/15658259358_e564826fc9_z.jpg" alt="building-1-at-microsoft-campus"></a>
+<a href="http://i.imgur.com/Ct5ZO60.jpg" title="building-1-at-microsoft-campus by Wanderley Caloni, on Flickr"><img src="/images/15658259358_e564826fc9_z.jpg" alt="building-1-at-microsoft-campus"></a>
 
 Esse ano aproveitei meu status de Most Valuable Professional (já renovado para mais um ano...  yes!) e visitei o Campus de Seattle da Microsoft no evento global MVP Summit. A ideia desse evento é que os MVPs troquem ideias entre eles e com as equipes dos produtos Microsoft. No meu caso, houve um dia que visitamos o prédio da equipe do Visual C++, assistindo apresentações sobre a nova e próximas versões de C++ e também dando opiniões e visões acerca do que é relevante e o que não é no momento para a comunidade de desenvolvedores.
 

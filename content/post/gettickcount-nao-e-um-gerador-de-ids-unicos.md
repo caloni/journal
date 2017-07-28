@@ -8,7 +8,7 @@ Muitas vezes uma solução intuitiva não é exatamente o que esperamos que seja
 
 
 
-[![](/images/TimeTravel.jpg)](/images/TimeTravel.jpg)
+[![](http://i.imgur.com/buOxKgQ.jpg)](/images/TimeTravel.jpg)
 
 
 

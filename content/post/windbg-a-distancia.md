@@ -56,7 +56,7 @@ Se for necessário, é possível convidar mais gente pra festa, pois o WinDbg pe
     .echo Putz, sei lá. Acho que vou tomar mais café...
 
 
-![Windbg Remote](/images/windbg-remote1.gif)
+![Windbg Remote](http://i.imgur.com/DFnxGQC.gif)
 
 
 #### 2. Depuração em cliente
@@ -105,7 +105,7 @@ Caso não se saiba a porta usada para iniciar o servidor, ou queira-se listar to
 O exemplo acima utilizou uma conexão TCP para montar o ambiente de depuração remota, o que possibilita inclusive correção de problemas via internet. No entanto, nem sempre podemos nos dar ao luxo de abrir portas não-autorizadas, requisito mínimo para estabelecer a conexão com o depurador. Nesse caso, podemos configurar conexões pela porta serial, por _pipes_ nomeados, por SSL. Se for realmente necessário usar a pilha TCP, mas o lado servidor possui um _firewall_, ainda assim é possível configurar este tipo de conexão com a opção **clicon**. Dessa forma, quem estabelece a conexão é o servidor, evitando que o cliente fique bloqueado de acessar o ambiente de depuração.</blockquote>
 
 
-![Windbg Remote](/images/windbg-remote2.gif)
+![Windbg Remote](http://i.imgur.com/tIbty17.gif)
 
 
 #### Notas finais

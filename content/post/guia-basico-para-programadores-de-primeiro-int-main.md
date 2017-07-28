@@ -114,7 +114,7 @@ Para concluir, vamos dar uma espiada nas estruturas de comparação de um progra
 #### _if_
 
 
-[![If](/images/if.gif)](/images/if.gif)
+[![If](http://i.imgur.com/DMvpmji.gif)](/images/if.gif)
 
 _If_ significa "se", ou seja, faz uma **comparação**, e retorna se a comparação é verdadeira (sim!) ou não (não!). Porém, o _if_ apenas faz alguma coisa se o resultado for sim.
 
@@ -122,7 +122,7 @@ _If_ significa "se", ou seja, faz uma **comparação**, e retorna se a comparaç
 #### _else_
 
 
-[![Else](/images/else.gif)](/images/else.gif)
+[![Else](http://i.imgur.com/DKv3Ed6.gif)](/images/else.gif)
 
 _Else_ significa "senão", ou seja, é o complemento do _if_. Lembra-se que o _if_ só faz alguma coisa se o resultado da comparação for sim? Pois bem, o _else_ permite fazer outra coisa se o resultado for não.
 
@@ -130,7 +130,7 @@ _Else_ significa "senão", ou seja, é o complemento do _if_. Lembra-se que o _i
 #### _while_
 
 
-[![While](/images/while.gif)](/images/while.gif)
+[![While](http://i.imgur.com/t3LSdex.gif)](/images/while.gif)
 
 _While_ significa "enquanto", e é o nosso primeiro exemplo de laço, ou _loop_. Um _loop_ faz constantemente a mesma coisa enquanto o resultado da comparação for sim. Uma vez que for não (pode ser a primeira, inclusive), ele não faz mais nada e o programa continua seu fluxo natural.
 
@@ -138,7 +138,7 @@ _While_ significa "enquanto", e é o nosso primeiro exemplo de laço, ou _loop_.
 #### _for_
 
 
-[![For](/images/for.gif)](/images/for.gif)
+[![For](http://i.imgur.com/4Gi4Sb7.gif)](/images/for.gif)
 
 _For_ significa "por", com o mesmo sentido que em "ele me chutou por 5 vezes seguidas". Ele pode ter muitos usos, mas o tradicional é fazer n vezes alguma coisa, sabendo que n é um número de vezes já conhecido. Nesse caso, o _loop_ serve apenas para repetir um determinado número de vezes uma ação, sem nunca variar esse número de vezes.
 

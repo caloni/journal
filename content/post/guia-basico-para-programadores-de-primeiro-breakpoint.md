@@ -16,14 +16,14 @@ Aproveitando um dos últimos artigos que fala sobre [conceitos básicos de progr
 
 É o comando primário. Simplesmente inicia uma nova execução de seu programa. Geralmente você deve utilizar esse comando quando já tiver definido seus _breakpoints_ (mais abaixo). Do contrário o programa vai iniciar, executar e sair, sem sequer você notar.
 
-[![Debug Panel](/images/debug-panel.gif)](/images/debug-panel.gif)
+[![Debug Panel](http://i.imgur.com/f9EJ4F4.gif)](/images/debug-panel.gif)
 Na ordem: _Start/Continue, Break, Stop, Restart, Show Next Statement, Step Into, Over _e_ Out_.
 
 
 #### _Step Over_
 
 
-[![Step Over](/images/step-over.gif)](/images/step-over.gif)
+[![Step Over](http://i.imgur.com/oezj3LH.gif)](/images/step-over.gif)
 
 Esse comando avança uma linha de código-fonte, parando na seguinte, de uma maneira iterativa. É a chamada execução passo-a-passo. Com ele você consegue, com a ajuda das janelas de _watch_ e variáveis locais, analisar passo-a-passo a execução do fluxo de seu programa variando de acordo com as condições do sistema.
 
@@ -31,7 +31,7 @@ Esse comando avança uma linha de código-fonte, parando na seguinte, de uma man
 #### _Step Into_
 
 
-[![Step Into](/images/step-into.gif)](/images/step-into.gif)
+[![Step Into](http://i.imgur.com/PZuIFOs.gif)](/images/step-into.gif)
 
 Parente bem próximo do _Step Over_, com a importante diferença de entrar dentro das funções que são chamadas em cada linha de execução. Geralmente é usado quando você pretende revisar todo o fluxo de execução porque escreveu código novo ou porque ainda não chegou na situação que pretende simular ou ainda porque usou o _Step Over_ antes e descobriu que existe algum problema na função X que você passou direto.
 
@@ -39,7 +39,7 @@ Parente bem próximo do _Step Over_, com a importante diferença de entrar dentr
 #### _Step Out_
 
 
-[![Step Out](/images/step-out.gif)](/images/step-out.gif)
+[![Step Out](http://i.imgur.com/ht6mZV2.gif)](/images/step-out.gif)
 
 É o complemento dos dois comandos acima. Ele vai sair executar todo o resto da função onde você está e parar exatamente uma linha após a chamada dessa função. Em suma: você já viu o que queria ver dentro da função atual e quer continuar a execução um ou mais níveis acima na pilha de chamadas.
 
@@ -53,7 +53,7 @@ Você não precisa passar por todo o seu código e todos os seus _loops_/laços 
 #### _Watch_
 
 
-[![Watch](/images/watch.gif)](/images/watch.gif)
+[![Watch](http://i.imgur.com/xq6auvT.gif)](/images/watch.gif)
 
 Praticamente qualquer ferramenta de _debug_ possui um mecanismo para que você consiga ver o que está dentro das variáveis de seu programa. Basicamente temos uma janela de _watch_, ou _inspection_, onde podemos inserir as variáveis que queremos espiar. Em um nível mais sofisticado, temos as janelas de _locals_ e _autos_ (o nome pode variar), onde podemos ver, respectivamente, as variáveis dentro da função e as variáveis mais próximas do ponto onde o código está parado (as que foram usadas na última linha e as que serão usadas na próxima, por exemplo). Claro que cada ambiente te fornece o que melhor ajudar durante a depuração, assim como o Delphi e o C++ Builder possuem o magnífico Object Inspector, uma janela com todas as propriedades de um objeto qualquer do sistema (uma janela, um botão, uma classe, etc).
 
@@ -61,7 +61,7 @@ Praticamente qualquer ferramenta de _debug_ possui um mecanismo para que você c
 #### _Call Stack_
 
 
-[![Call Stack](/images/call-stack.gif)](/images/call-stack.gif)
+[![Call Stack](http://i.imgur.com/UQEgb0r.gif)](/images/call-stack.gif)
 
 Essa é a pilha de chamadas da _thread_ atual. Com ela você consegue ver o nome da função que chamou a função que chamou a função que chamou... até a função inicial (por exemplo, o nosso conhecido main, a primeira função de um programa "normal" em C/C++).
 

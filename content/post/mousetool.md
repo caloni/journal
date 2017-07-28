@@ -8,7 +8,7 @@ Well, as most of you already know, I really don't like mice. Nevertheless I resp
 
 
 
-[![MouseTool no tray](/images/mousetool-tray.png)](/images/mousetool-tray.png)The program main purpose is to avoid clicking the mouse, simulating a click every time the user stops to move the cursor. Just this: simple, efficient and mouseless =).
+[![MouseTool no tray](http://i.imgur.com/xH2uEyB.png)](/images/mousetool-tray.png)The program main purpose is to avoid clicking the mouse, simulating a click every time the user stops to move the cursor. Just this: simple, efficient and mouseless =).
 
 There are some options like drag-and-drop and double-click, both available through the program. You can choose to use a keyboard shortcut or the mode state, where you can switch the program default among simple-click, double-click and drag-and-drop.
 

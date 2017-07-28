@@ -111,7 +111,7 @@ Após o programa ter sido executado, qualquer tentativa de _attach_ irá exibir 
 
 
     
-    <a href="/images/antiattach.png" title="Detecção de attach"><img src="http://www.caloni.com.br/blog/wp-content/uploads/antiattach.png" alt="Detecção de attach"></img></a>
+    <a href="http://i.imgur.com/mdRqvjp.png" title="Detecção de attach"><img src="http://www.caloni.com.br/blog/wp-content/uploads/antiattach.png" alt="Detecção de attach"></img></a>
 
 
 

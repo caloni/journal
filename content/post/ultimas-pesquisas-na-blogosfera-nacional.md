@@ -4,7 +4,7 @@ title: Últimas pesquisas na blogosfera nacional
 tags: [ "c++", "devaneando" ]
 ---
 
-![Mapa do Brasil com o código do filme Matrix](/images/brasil-matrix.png) É um imenso prazer constatar que hoje, mais de dez anos depois de eu ter iniciado minha caminhada pelo mundo da programação C/C++, temos uma reação de blogues e saites prontos para elucidar questões simples e avançadas dessas duas linguagens que ainda não morreram e, se depender de como as coisas andam, ainda vão durar pelo menos mais uns dez anos (sim, não sou tão otimista assim).
+![Mapa do Brasil com o código do filme Matrix](http://i.imgur.com/adh1hgp.png) É um imenso prazer constatar que hoje, mais de dez anos depois de eu ter iniciado minha caminhada pelo mundo da programação C/C++, temos uma reação de blogues e saites prontos para elucidar questões simples e avançadas dessas duas linguagens que ainda não morreram e, se depender de como as coisas andam, ainda vão durar pelo menos mais uns dez anos (sim, não sou tão otimista assim).
 
 Esse artigo é só para constar em minha lista de referência para o aprendizado de C, C++ e todas as outras coisas que vem depois. Se eu tivesse que escrever isso lá no início, provavelmente recomendaria mais linques de livros e saites em inglês. Hoje, felizmente, temos um conteúdo em pleno desenvolvimento em nossa blogosfera tupiniquim. E espero que continue assim!
 
