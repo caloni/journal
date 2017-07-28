@@ -3,7 +3,7 @@ date: "2015-06-11"
 title: TDC SP 2015 (Call for Papers)
 tags: [tdc 2015, call for papers, cfp, palestras, c, c++, cpp]
 ---
-<a href="http://imgur.com/t038PR1"><img src="http://i.imgur.com/t038PR1.png" title="source: imgur.com" /></a>
+![](/images/t038PR1.png)
 
 Antes do nosso [encontro 12](http://www.ccppbrasil.org/encontro12/) no [Rio](https://www.google.com.br/maps/place/R.+Buenos+A%C3%ADres,+68+-+Centro,+Rio+de+Janeiro+-+RJ,+20070-022/@-22.9026193,-43.178846,17z/data=!3m1!4b1!4m2!3m1!1s0x997f5e9a7f42c3:0x824431e2beb07320), no segundo semestre, teremos o [TDC São Paulo](http://www.thedevelopersconference.com.br/tdc/2015/saopaulo/call4papers), que já está em sua fase de chamada de trabalhos. Se você tem alguma coisa para apresentar, não se acanhe. Todos são bem-vindos! =)
 

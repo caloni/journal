@@ -3,7 +3,7 @@ date: "2015-07-13"
 title: TDC 2015 No More
 tags: [tdc, 2015, c++, eventos, palestras, grupo c/c++]
 ---
-<a href="http://imgur.com/Zl2DkZk"><img src="http://i.imgur.com/Zl2DkZk.png" title="#TDCNoMore" /></a>
+![](/images/Zl2DkZk.png)
 
 Eu represento o Grupo C/C++ Brasil. Sou um dos fundadores. A bem da verdade, todos que participam ativamente no [Google Groups](https://groups.google.com/forum/#!forum/ccppbrasil) e/ou ajudam a organizar o [nosso saite](http://www.ccppbrasil.org/), e/ou ajudam a fortalecer a presença de uma comunidade C/C++ no país representam, em menor ou maior grau, a esse ideal que é: as linguagens C e C++ ainda são muito úteis na programação de uso geral, em cenários tão distintos e tão variados que fica difícil sequer listar onde elas são usadas sem parecer panelinha.
 

@@ -3,7 +3,7 @@ date: "2015-01-26"
 title: Origem do tipo char
 tags: [ história, char, linguagem c, dennis ritchie, bits ]
 ---
-<a href="http://imgur.com/KuvKESo"><img src="http://i.imgur.com/KuvKESo.jpg?1" title="source: imgur.com" /></a>
+![](/images/KuvKESo.jpg?1)
 
 Programadores C e C++, preparem-se para explodir as cabeças!
 

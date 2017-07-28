@@ -5,8 +5,6 @@ tags: [ eventos, ccpbrasil, c/c++, papers, reuniões, palestras, encontros, grup
 ---
 Acho que já está na hora de nos reencontrarmos, né?
 
-<a href="http://imgur.com/RcinQyB"><img src="http://i.imgur.com/RcinQyB.jpg" title="source: imgur.com" /></a>
-
 A comunidade CCPP Brasil está preparando mais um daqueles eventos em que conversaremos sobre nossa maior paixão: <del>B!</del> <del>BCPL!</del> C e C++!
 
 ```cpp
@@ -24,7 +22,7 @@ Então vamos aos detalhes:
 |-----------|------------------|
 | Data      | 2015-03-28       |
 | Local     | Micro$oft Brasil |
-| Palestras | <a href="http://imgur.com/FtSihcI"><img src="http://i.imgur.com/FtSihcI.jpg" title="source: imgur.com" /></a> |
+| Palestras | ![](/images/FtSihcI.jpg) |
 
 Ops, deu um errinho acima. Acho que é porque ainda não temos as palestras.
 
