@@ -4,7 +4,7 @@ stars: "5/5"
 tags: ['torrent']
 date: 2017-07-31T20:25:46
 title: "Westworld - Primeira Temporada (Revisita com algumas questões e Spoilers)"
-categories: "movies"
+categories: "series"
 _title: "Westworld"
 _year: "2016"
 _director: ["Jonathan Nolan", "Fred Toye", ]
