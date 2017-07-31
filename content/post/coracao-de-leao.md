@@ -1,7 +1,7 @@
 ---
 imdb: "2948472"
-stars: "3/5"
-tags: ['netflix', 'cabine']
+stars: "2/5"
+tags: ['netflix']
 date: 2017-07-31T18:05:42
 title: "Coracao De Leao"
 categories: "movies"
