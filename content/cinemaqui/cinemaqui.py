@@ -59,12 +59,14 @@ def writereview(filePath, header, review, imdbData):
   f = open(filePath, 'w')
   f.write('---\n')
   for k, v in header.iteritems():
-    if k[0] != '_':
+    if k in ['imdb', 'title', 'date']:
       if isinstance(v, basestring):
         v = '"' + v.encode('utf-8') + '"'
       elif isinstance(v, datetime.datetime) or isinstance(v, datetime.date):
         v = v.isoformat()
       f.write(str(k) + ': ' + str(v) + '\n')
+  f.write('categories: "cinemaqui"\n')
+  f.write('draft: "true"\n')
   f.write('---\n')
 
   f.write(review)
