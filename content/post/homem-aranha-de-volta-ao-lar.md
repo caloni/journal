@@ -5,6 +5,7 @@ title: "Homem-Aranha: De Volta ao Lar"
 imdb: "2250912"
 stars: "3/5"
 tags: ['cinema', 'dublado']
+revison: ['2017-08-03']
 _title: "Spider-Man: Homecoming"
 _year: "2017"
 _director: ["Jon Watts", ]

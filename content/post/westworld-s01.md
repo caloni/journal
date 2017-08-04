@@ -5,6 +5,7 @@ title: "Westworld - Primeira Temporada"
 imdb: "0475784"
 stars: "4/5"
 tags: ['torrent']
+revision: ['2017-08-02']
 _title: "Westworld"
 _year: "2016"
 _director: ["Jonathan Nolan", "Fred Toye", ]

@@ -3,7 +3,7 @@ imdb: "2948472"
 stars: "2/5"
 tags: ['netflix']
 date: 2017-07-31T18:05:42
-title: "Coracao De Leao"
+title: "Coração de Leão"
 categories: "movies"
 _title: "Corazón de león"
 _year: "2013"

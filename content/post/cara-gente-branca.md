@@ -1,6 +1,6 @@
 ---
 date: "2017-05-24"
-categories: "movies"
+categories: "series"
 title: "Cara Gente Branca"
 imdb: "5707802"
 stars: "3/5"
