@@ -1,0 +1,28 @@
+---
+imdb: "5186236"
+stars: "4/5"
+tags: ['cabine']
+date: 2017-08-10T21:31:36
+title: "Afterimage"
+categories: "movies"
+_title: "Powidoki"
+_year: "2016"
+_director: ["Andrzej Wajda", ]
+_writer: ["Andrzej Wajda", "Andrzej Mularczyk", ]
+_cast: ["Boguslaw Linda (Wladyslaw Strzeminski)", "Aleksandra Justa (Katarzyna Kobro)", "Bronislawa Zamachowska (Nika Strzeminska)", "Zofia Wichlacz (Hania)", "Krzysztof Pieczynski (Julian Przybos)", "Mariusz Bonaszewski (Madejski)", "Szymon Bobrowski (Wlodzimierz Sokorski)", "Aleksander Fabisiak (Rajner)", "Paulina Galazka (Wasinska)", ]
+_countries: ["Poland", ]
+_languages: ["Polish", ]
+_editor: ["Grazyna Gradon", ]
+_cinematographer: ["Pawel Edelman", ]
+_music: ["Andrzej Panufnik", ]
+_costume designer: ["Katarzyna Lewinska", ]
+_genres: ["Biography", ]
+_runtimes: ["98", ]
+_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BYTJlN2ZhNjMtZjEyNC00YTZlLTg5ODctNjU5ZDlmMGQ3MWExXkEyXkFqcGdeQXVyNjkwNjU5OTk@.jpg"
+_ratio: "2.35 : 1"
+_kind: "movie"
+_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BYTJlN2ZhNjMtZjEyNC00YTZlLTg5ODctNjU5ZDlmMGQ3MWExXkEyXkFqcGdeQXVyNjkwNjU5OTk@._V1._SX98_SY140_.jpg"
+_releasedate: "8 October 2016 (Rio de Janeiro International Film Festival)"
+_releasedate: "3 August 2017"
+---
+Afterimage é o último filme do diretor polonês Andrzej Wajda. Ele faleceu ano passado. Curiosamente conheci seu trabalho na Mostra de São Paulo do ano passado, em um de seus trabalhos mais icônicos, Terra Prometida, onde ele escanraca a hipocrisia dos comunas em enxergar os capitalistas como animais predadores. Neste filme ele é mais contido, conformista. É a biografia dos últimos anos do pintor (também polonês) Wladyslaw Strzeminski. O professor e artista vanguardista se recusou a seguir o regime totalitário comunista da Polônia após ela ser anexada pela União Soviética, sob o controle do ditador Joseph Stalin. O filme começa com Strzeminski começando uma tela branca, que logo é coberta de vermelho, pelo reflexo do gigante pôster de Stalin que estava sendo colocado na fachada de seu prédio. Este é um filme triste, desolador, quase uma distopia se não fosse História de fato. Governos totalitários parecem coisa do passado, mas Wajda parece nos alertar através deste filme e do seu título, Afterimage, que remete à imagem que fica retida nos olhos, e pode ser vista pela pálpebra através das suas cores negativas. É como se víssemos o oposto do que nossa consciência viu na realidade. Essa metáfora, junto da tela vermelha, são poderosas, e são coordenadas com um controle absoluto da mise-en-scene, que constrói pequenos quadros, cheios de detalhes, de cada estágio da derrocada de Strzeminski, que não se rende a si mesmo, mas prefere a escolha dolorosa de ser ele mesmo. Não é assim com cada um de nós hoje em dia?
