@@ -1,10 +1,10 @@
 ---
 date: "2016-10-28"
-categories: "series"
+categories: "blog"
 title: "Black Mirror - Terceira Temporada, Episódio 4: San Junipero"
 imdb: "4538072"
 stars: "5/5"
-tags: ['netflix']
+tags: ['netflix', 'blackmirror']
 _title: "San Junipero"
 _year: "2016"
 _director: ["Owen Harris", ]

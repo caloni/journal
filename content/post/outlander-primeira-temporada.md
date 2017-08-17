@@ -1,7 +1,7 @@
 ---
 imdb: "3006802"
 stars: "4/5"
-tags: ['netflix']
+tags: ['netflix', 'outlander']
 date: 2017-07-19T00:47:55
 title: "Outlander - Primeira Temporada"
 categories: "series"

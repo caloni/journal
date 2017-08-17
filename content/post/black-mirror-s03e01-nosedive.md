@@ -1,10 +1,10 @@
 ---
 date: "2016-10-23"
-categories: "series"
+categories: "blog"
 title: "Black Mirror - Terceira Temporada, Episódio 1: Nosedive"
 imdb: "5497778"
 stars: "5/5"
-tags: ['netflix']
+tags: ['netflix', 'blackmirror']
 _title: "Nosedive"
 _year: "2016"
 _director: ["Joe Wright", ]

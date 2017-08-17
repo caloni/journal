@@ -1,6 +1,5 @@
 ---
 date: "2017-02-05"
-categories: "pinned"
 stars: "5/5"
 title: "Busca Avançada"
 tags: []

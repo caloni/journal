@@ -4,8 +4,9 @@ imdb: "0903747"
 title: "Breaking Bad - Conclusão"
 revision: [2016-07-17]
 stars: "5/5"
-categories: "series"
+categories: "blog"
 date: "2016-07-16"
+tags: ['breakingbad']
 _title: "Breaking Bad"
 _year: "2008"
 _director: ["Michelle MacLaren", "Adam Bernstein", "Vince Gilligan", "Colin Bucksey", "Michael Slovis", "Bryan Cranston", "Terry McDonough", "Johan Renck", "Rian Johnson", ]

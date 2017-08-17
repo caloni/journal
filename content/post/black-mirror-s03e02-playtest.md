@@ -1,10 +1,10 @@
 ---
 date: "2016-10-25"
-categories: "series"
+categories: "blog"
 title: "Black Mirror - Terceira Temporada, Episódio 2: Playtest"
 imdb: "5709242"
 stars: "3/5"
-tags: ['netflix']
+tags: ['netflix', 'blackmirror']
 _title: "Playtest"
 _year: "2016"
 _director: ["Dan Trachtenberg", ]

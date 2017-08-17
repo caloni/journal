@@ -1,10 +1,10 @@
 ---
 date: "2017-04-16"
-categories: "series"
+categories: "blog"
 title: "Sherlock - Quarta Temporada, Episódio 2: The Lying Detective"
 imdb: "3845888"
 stars: "5/5"
-tags: ['netflix']
+tags: ['netflix', 'sherlock']
 _title: "The Lying Detective"
 _year: "2017"
 _director: ["Nick Hurran", ]

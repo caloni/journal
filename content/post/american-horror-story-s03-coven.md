@@ -3,8 +3,9 @@ date: "2014-06-20"
 imdb: "1844624"
 title: "História de Horror Americana - Coven"
 stars: "3/5"
-categories: "series"
+categories: "blog"
 date: 2015-11-28
+tags: ['ahs']
 _title: "American Horror Story"
 _year: "2011"
 _director: ["Alfonso Gomez-Rejon", "Bradley Buecker", "Michael Uppendahl", "Michael Lehmann", "David Semel", "Howard Deutch", "Ryan Murphy", "Jeremy Podeswa", "Michael Rymer", ]

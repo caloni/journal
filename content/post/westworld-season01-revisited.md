@@ -1,10 +1,10 @@
 ---
 imdb: "0475784"
 stars: "5/5"
-tags: ['torrent']
+tags: ['paulocoelho', 'westworld']
 date: 2017-07-31T20:25:46
 title: "Westworld - Primeira Temporada (Revisita com algumas questões e Spoilers)"
-categories: "series"
+categories: "blog"
 _title: "Westworld"
 _year: "2016"
 _director: ["Jonathan Nolan", "Fred Toye", ]

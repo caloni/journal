@@ -4,7 +4,7 @@ categories: "series"
 title: "Abstract: The Art of Design - (Christoph Niemann: Illustration)"
 imdb: "6397576"
 stars: "4/5"
-tags: ['netflix']
+tags: ['netflix', 'abstract']
 _title: "Christoph Niemann: Illustration"
 _year: "2017"
 _director: ["Morgan Neville", ]

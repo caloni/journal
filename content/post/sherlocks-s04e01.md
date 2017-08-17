@@ -3,8 +3,9 @@ date: "2014-01-26"
 imdb: "1475582"
 title: "Sherlock - A Noiva Abominável"
 stars: "5/5"
-categories: "series"
+categories: "blog"
 date: "2016-04-07"
+tags: ['netflix', 'sherlock']
 _title: "Sherlock"
 _year: "2010"
 _director: ["Paul McGuigan", ]

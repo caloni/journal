@@ -89,12 +89,11 @@
 
 {{ with .Params.tags }} <span class="entry-sidebar-title">Tags:</span> {{ end }}
 {{ range .Params.tags }}
-  <span class="entry-sidebar-entry"> {{ . }}. </span>
+  <span class="entry-sidebar-entry"> <a href="/tags/{{ . }}/">{{ . }}</a> </span>
 {{ end }}
 
-<p align="right"><i>
+<p align="right"><i>Share on: 
 <a href="https://www.facebook.com/sharer/sharer.php?u=http://www.cinetenisverde.com.br{{ .URL }}" class="footer-link" target="_blank">Facebook</a>
 | <a href="https://twitter.com/intent/tweet?text={{ .Title }}: http://www.cinetenisverde.com.br{{ .URL }}" class="footer-link" target="_blank">Twitter</a>
-| <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://www.cinetenisverde.com.br/{{ .URL }}" class="footer-link" target="_blank">Linkedin</a>
 | <a href="https://plus.google.com/share?url=http://www.cinetenisverde.com.br/{{ .URL }}" class="footer-link" target="_blank">Google</a>
 </i></p>

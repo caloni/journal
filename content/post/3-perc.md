@@ -4,7 +4,7 @@ categories: "series"
 title: "3%"
 imdb: "4922804"
 stars: "3/5"
-tags: ['netflix']
+tags: ['netflix', '3perc']
 _title: "3%"
 _year: "2016"
 _director: ["César Charlone", "Jotagá Crema", "Daina Giannecchini", "Dani Libardi", ]

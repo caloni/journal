@@ -1,10 +1,10 @@
 ---
 date: "2016-10-28"
-categories: "series"
+categories: "blog"
 title: "Black Mirror - Terceira Temporada, Episódio 3: Manda Quem Pode"
 imdb: "5709230"
 stars: "4/5"
-tags: ['netflix']
+tags: ['netflix', 'blackmirror']
 _title: "Shut Up and Dance"
 _year: "2016"
 _director: ["James Watkins", ]

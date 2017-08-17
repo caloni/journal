@@ -1,10 +1,10 @@
 ---
 date: "2017-07-01"
-categories: "series"
+categories: "blog"
 title: "Sense8 - Segunda Temporada"
 imdb: "2431438"
 stars: "4/5"
-tags: ['netflix']
+tags: ['netflix', 'sense8']
 _title: "Sense8"
 _year: "2015"
 _director: ["Lana Wachowski", "Lilly Wachowski", "James McTeigue", "Tom Tykwer", "Dan Glass", ]

@@ -3,7 +3,8 @@ date: "2013-04-03"
 imdb: "1520211"
 title: "The Walking Dead - Segunda Temporada"
 stars: "3/5"
-categories: "series"
+categories: "blog"
+tags: ['thewalkingdead']
 _title: "The Walking Dead"
 _year: "2010"
 _director: ["Ernest R. Dickerson", "Greg Nicotero", "Guy Ferland", "David Boyd", "Bill Gierhart", "Michelle MacLaren", "Tricia Brock", "Seith Mann", "Gwyneth Horder-Payton", ]

@@ -1,10 +1,10 @@
 ---
 date: "2017-04-16"
-categories: "series"
+categories: "blog"
 title: "Sherlock - Quarta Temporada, Episódio 3: The Final Problem"
 imdb: "3845892"
 stars: "3/5"
-tags: ['netflix']
+tags: ['netflix', 'sherlock']
 _title: "The Final Problem"
 _year: "2017"
 _director: ["Benjamin Caron", ]

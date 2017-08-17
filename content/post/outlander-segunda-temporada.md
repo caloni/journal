@@ -1,10 +1,10 @@
 ---
 imdb: "3006802"
 stars: "4/5"
-tags: ['netflix']
+tags: ['netflix', 'outlander']
 date: 2017-07-27T11:39:57
 title: "Outlander - Segunda Temporada"
-categories: "series"
+categories: "blog"
 _title: "Outlander"
 _year: "2014"
 _director: ["Metin Hüseyin", "Anna Foerster", "Brian Kelly", "Mike Barker", "Philip John", "Brendan Maher", "John Dahl", "Richard Clark", "Douglas Mackinnon", ]

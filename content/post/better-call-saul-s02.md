@@ -2,9 +2,10 @@
 date: "2015-04-07"
 imdb: "3032476"
 stars: "5/5"
-categories: "series"
+categories: "blog"
 title: "Better Call Saul - Segunda Temporada"
 date: "2016-04-22"
+tags: ['netflix', 'bettercallsaul']
 _title: "Better Call Saul"
 _year: "2015"
 _director: ["Colin Bucksey", ]

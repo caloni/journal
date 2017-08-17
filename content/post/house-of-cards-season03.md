@@ -3,8 +3,9 @@ date: "2014-01-20"
 imdb: "1856010"
 title: "House of Cards - Terceira Temporada"
 stars: "3/5"
-categories: "series"
+categories: "blog"
 date: "2016-03-13"
+tags: ['netflix', 'houseofcards']
 _title: "House of Cards"
 _year: "2013"
 _director: ["James Foley", "John David Coles", "Carl Franklin", "Robin Wright", "Allen Coulter", "David Fincher", "Charles McDougall", "Joel Schumacher", "John Dahl", ]

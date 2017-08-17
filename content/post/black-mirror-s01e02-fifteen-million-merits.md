@@ -3,8 +3,9 @@ date: "2015-12-05"
 imdb: "2085059"
 stars: "5/5"
 title: "Black Mirror - Fifteen Million Merits"
-categories: "series"
+categories: "blog"
 date: "2015-12-13"
+tags: ['netflix', 'blackmirror']
 _title: "Black Mirror"
 _year: "2011"
 _director: ["Carl Tibbetts", ]

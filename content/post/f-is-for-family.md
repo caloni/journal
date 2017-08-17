@@ -4,6 +4,7 @@ imdb: "4326894"
 stars: "3/5"
 title: "F is for Family"
 categories: "series"
+tags: ['netflix', 'fisforfamily']
 _title: "F is for Family"
 _year: "2015"
 _director: ["Laurent Nicolas", "Benjamin Marsaud", ]

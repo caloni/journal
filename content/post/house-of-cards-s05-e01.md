@@ -1,10 +1,10 @@
 ---
 date: "2017-05-30"
-categories: "series"
+categories: "blog"
 imdb: "1856010"
 stars: "4/5"
 title: "House of Cards - Quinta Temporada, Episódio 1"
-tags: ["netflix"]
+tags: ['netflix', 'houseofcards']
 _title: "House of Cards"
 _year: "2013"
 _director: ["James Foley", "Robin Wright", "John David Coles", "Carl Franklin", "Tucker Gates", "Tom Shankland", "Alik Sakharov", "Allen Coulter", "David Fincher", ]

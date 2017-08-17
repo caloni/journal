@@ -5,6 +5,7 @@ title: "Sherlock - Terceira Temporada"
 stars: "5/5"
 categories: "series"
 date: "2016-04-07"
+tags: ['netflix', 'sherlock']
 _title: "Sherlock"
 _year: "2010"
 _director: ["Paul McGuigan", ]

@@ -3,7 +3,8 @@ date: "2014-04-16"
 imdb: "2250192"
 title: "Sword Art Online - Segunda Temporada"
 stars: "3/5"
-categories: "series"
+categories: "blog"
+tags: ['swordartonline']
 _title: "Sword Art Online"
 _year: "2012"
 _director: ["Tomohiko Ito", "Alex Von David", "Pyeon-Gang Ho", "Yoshiyuki Fujiwara", "Yasuyuki Fuse", "Makoto Hoshino", "Shigetaka Ikeda", "Takahiro Shikama", "Tatsumi Fujii", ]

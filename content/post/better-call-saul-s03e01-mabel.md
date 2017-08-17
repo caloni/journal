@@ -1,10 +1,10 @@
 ---
 date: "2017-04-16"
-categories: "series"
+categories: "blog"
 title: "Better Call Saul - Terceira Temporada, Episódio 1: Mabel"
 imdb: "5554490"
 stars: "5/5"
-tags: ['netflix']
+tags: ['netflix', 'bettercallsaul']
 _title: "Mabel"
 _year: "2017"
 _director: ["Vince Gilligan", ]

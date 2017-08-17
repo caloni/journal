@@ -3,7 +3,8 @@ date: "2014-06-19"
 imdb: "2372162"
 title: "Orange is the New Black - Terceira Temporada"
 stars: "3/5"
-categories: "series"
+categories: "blog"
+tags: ['netflix', 'orangeisthenewblack']
 _title: "Orange Is the New Black"
 _year: "2013"
 _director: ["Michael Trim", "Andrew McCarthy", "Phil Abraham", "Constantine Makris", "Uta Briesewitz", "Jodie Foster", ]
