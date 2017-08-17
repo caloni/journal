@@ -48,7 +48,7 @@ function parseQueryFromUrl () {
 </main>
 
 <div>
-  {{ range first 24 (where .Data.Pages "Section" "!=" "") }}
+  {{ range first 24 (where .Data.Pages "Params.categories" "in" "(movies,series)") }}
     <a href="{{ .URL }}" title="{{ .Title }}"><img src="{{ .Params._cover }}"/></a>
   {{ end }}
 </div>
