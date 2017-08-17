@@ -47,13 +47,10 @@ function parseQueryFromUrl () {
 {{ .Content }}
 </main>
 
-<ul>
-  {{ range first 20 (where .Data.Pages "Section" "!=" "") }}
-  <li>
-    <span class="date">{{ .Date.Format "2006/01/02" }}</span>
-    <a href="{{ .URL }}">{{ .Title }}</a>
-  </li>
+<div>
+  {{ range first 24 (where .Data.Pages "Section" "!=" "") }}
+    <a href="{{ .URL }}" title="{{ .Title }}"><img src="{{ .Params._cover }}"/></a>
   {{ end }}
-</ul>
+</div>
 
 {{ partial "footer.html" . }}
