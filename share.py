@@ -12,8 +12,6 @@ import webbrowser
 import msvcrt as m
 from pyshorteners import Shortener
 import frontmatter
-from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
 
 sys.path.append(r'c:\users\caloni\.pwd')
 import twitter_cinetenisverde as twitter_credentials
@@ -77,39 +75,39 @@ def PublishToFacebook(postInfo, img):
     post = facebook_credentials.auth.put_photo(image=img, message=st)
 
 
-def PublishToAdoroCinema(postInfo):
-    driver = webdriver.Chrome()
-    postUrl = 'http://www.cinetenisverde.com.br/' + postInfo['permalink']
-    adoroCinemaUrl = 'http://www.adorocinema.com/comunidade/filmes/filme-' + postInfo['adoroCinemaId'] + '/escrever-critica/'
-    starIndex = int(postInfo['stars']) * 2 - 1
-
-    driver.get(adoroCinemaUrl);
-
-    # login
-    login = driver.find_elements_by_class_name('input_txt')
-    login[0].send_keys(adorocinema_credentials.email)
-    login[1].send_keys(adorocinema_credentials.pwd)
-    btnLogin = driver.find_element_by_class_name('btn-primary')
-    btnLogin.click()
-
-    # fill
-    reviewArea = driver.find_element_by_class_name('review-textarea')
-    reviewArea.send_keys(postInfo['paragraph'].decode('utf8'))
-    time.sleep(5)
-    reviewUrl = driver.find_element_by_class_name('review-url-input')
-    reviewUrl.send_keys(postUrl)
-    time.sleep(5)
-    reviewStars = driver.find_elements_by_class_name('rating-star')
-    reviewStars[starIndex].click()
-
-    # publish
-    #time.sleep(10)
-    #reviewSubmit = driver.find_element_by_class_name('review-submit')
-    #reviewSubmit.send_keys(Keys.RETURN)
-
-    # exit
-    #time.sleep(10)
-    ret = input('Type enter to continue')
+#def PublishToAdoroCinema(postInfo):
+#    driver = webdriver.Chrome()
+#    postUrl = 'http://www.cinetenisverde.com.br/' + postInfo['permalink']
+#    adoroCinemaUrl = 'http://www.adorocinema.com/comunidade/filmes/filme-' + postInfo['adoroCinemaId'] + '/escrever-critica/'
+#    starIndex = int(postInfo['stars']) * 2 - 1
+#
+#    driver.get(adoroCinemaUrl);
+#
+#    # login
+#    login = driver.find_elements_by_class_name('input_txt')
+#    login[0].send_keys(adorocinema_credentials.email)
+#    login[1].send_keys(adorocinema_credentials.pwd)
+#    btnLogin = driver.find_element_by_class_name('btn-primary')
+#    btnLogin.click()
+#
+#    # fill
+#    reviewArea = driver.find_element_by_class_name('review-textarea')
+#    reviewArea.send_keys(postInfo['paragraph'].decode('utf8'))
+#    time.sleep(5)
+#    reviewUrl = driver.find_element_by_class_name('review-url-input')
+#    reviewUrl.send_keys(postUrl)
+#    time.sleep(5)
+#    reviewStars = driver.find_elements_by_class_name('rating-star')
+#    reviewStars[starIndex].click()
+#
+#    # publish
+#    #time.sleep(10)
+#    #reviewSubmit = driver.find_element_by_class_name('review-submit')
+#    #reviewSubmit.send_keys(Keys.RETURN)
+#
+#    # exit
+#    #time.sleep(10)
+#    ret = input('Type enter to continue')
 
 
 def SearchAdoroCinema(postInfo):
