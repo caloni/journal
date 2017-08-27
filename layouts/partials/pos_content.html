@@ -23,69 +23,68 @@
 </span>
 
 {{ with .Params._title }} 
-  <span class="entry-sidebar-title"> Título original: </span> 
   <span class="entry-sidebar-entry"> {{ . }}. </span>
 {{ end }}
 
-{{ with .Params._countries }} <span class="entry-sidebar-title"> País de origem: </span> {{ end }}
 {{ range .Params._countries }}
-  <span class="entry-sidebar-entry"> {{ . }}. </span>
+  <span class="entry-sidebar-entry"> {{ . }}, </span>
 {{ end }}
 
 {{ with .Params._year }} 
-  <span class="entry-sidebar-title"> Ano </span>
   <span class="entry-sidebar-entry"> {{ . }}. </span>
 {{ end }}
 
-{{ with .Params._director }} <span class="entry-sidebar-title">Direção:</span> {{ end }}
+{{ with .Params._director }} <span class="entry-sidebar-title">Direction:</span> {{ end }}
 {{ range .Params._director }}
   <span class="entry-sidebar-entry"> {{ . }}. </span>
 {{ end }}
 
-{{ with .Params._writer }} <span class="entry-sidebar-title">Roteiro:</span> {{ end }}
+{{ with .Params._writer }} <span class="entry-sidebar-title">Script:</span> {{ end }}
 {{ range .Params._writer }}
   <span class="entry-sidebar-entry"> {{ . }}. </span>
 {{ end }}
 
-{{ with .Params._cast }} <span class="entry-sidebar-title">Elenco:</span> {{ end }}
+{{ with .Params._cast }} <span class="entry-sidebar-title">Cast:</span> {{ end }}
 {{ range .Params._cast }}
   <span class="entry-sidebar-entry"> {{ . }}. </span>
 {{ end }}
 
-{{ with .Params._editor }} <span class="entry-sidebar-title">Edição:</span> {{ end }}
+{{ with .Params._editor }} <span class="entry-sidebar-title">Edition:</span> {{ end }}
 {{ range .Params._editor }}
   <span class="entry-sidebar-entry"> {{ . }}. </span>
 {{ end }}
 
-{{ with .Params._cinematographer }} <span class="entry-sidebar-title">Fotografia:</span> {{ end }}
+{{ with .Params._cinematographer }} <span class="entry-sidebar-title">Cinematography:</span> {{ end }}
 {{ range .Params._cinematographer }}
   <span class="entry-sidebar-entry"> {{ . }}. </span>
 {{ end }}
 
-{{ with .Params._music }} <span class="entry-sidebar-title">Trilha Sonora:</span> {{ end }}
+{{ with .Params._music }} <span class="entry-sidebar-title">Soundtrack:</span> {{ end }}
 {{ range .Params._music }}
   <span class="entry-sidebar-entry"> {{ . }}. </span>
 {{ end }}
 
-{{ with .Params._runtimes }} <span class="entry-sidebar-title">Duração:</span> {{ end }}
+{{ with .Params._runtimes }} <span class="entry-sidebar-title">Runtime:</span> {{ end }}
 {{ range .Params._runtimes }}
   <span class="entry-sidebar-entry"> {{ . }}. </span>
 {{ end }}
 
 {{ with .Params._ratio }} 
-  <span class="entry-sidebar-title">Razão de aspecto:</span> 
+  <span class="entry-sidebar-title">Ratio:</span> 
   <span class="entry-sidebar-entry"> {{ . }}. </span>
 {{ end }}
 
-{{ with .Params._genres }} <span class="entry-sidebar-title">Gênero:</span>{{ end }}
+{{ with .Params._genres }} <span class="entry-sidebar-title">Gender:</span>{{ end }}
 {{ range .Params._genres }}
   <span class="entry-sidebar-entry"> {{ . }}. </span>
 {{ end }}
 
 {{ with .Params._releasedate }} 
-  <span class="entry-sidebar-title">Estreia no Brasil:</span>
+  <span class="entry-sidebar-title">Release:</span>
   <span class="entry-sidebar-entry"> {{ . }}. </span>
 {{ end }}
+
+{{ with .Params.categories }} <span class="entry-sidebar-title">Category: <a href="/categories/{{ . }}/">{{ . }}</a></span> {{ end }}
 
 {{ with .Params.tags }} <span class="entry-sidebar-title">Tags:</span> {{ end }}
 {{ range .Params.tags }}
