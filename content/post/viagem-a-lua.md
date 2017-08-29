@@ -4,6 +4,7 @@ categories: "blog"
 imdb: "0000417"
 stars: "4/5"
 title: "Viagem à Lua"
+tags: ['curtas']
 _title: "Le voyage dans la lune"
 _year: "1902"
 _director: ["Georges Méliès", ]

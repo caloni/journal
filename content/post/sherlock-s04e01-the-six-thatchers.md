@@ -4,7 +4,7 @@ categories: "blog"
 title: "Sherlock - Quarta Temporada, Episódio 1: The Six Thatchers"
 imdb: "3538760"
 stars: "4/5"
-tags: ['netflix', 'sherlock']
+tags: ['netflix', 'sherlock', 'series']
 _title: "The Six Thatchers"
 _year: "2017"
 _director: ["Rachel Talalay", ]

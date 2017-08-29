@@ -5,7 +5,7 @@ title: "House of Cards - Segunda Temporada"
 stars: "5/5"
 categories: "blog"
 date: "2016-03-13"
-tags: ['netflix', 'houseofcards']
+tags: ['netflix', 'houseofcards', 'series']
 _title: "House of Cards"
 _year: "2013"
 _director: ["James Foley", "John David Coles", "Carl Franklin", "Robin Wright", "Allen Coulter", "David Fincher", "Charles McDougall", "Joel Schumacher", "John Dahl", ]

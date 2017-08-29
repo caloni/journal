@@ -4,7 +4,7 @@ categories: "blog"
 title: "Dirk Gently's Holistic Detective Agency - Primeira Temporada"
 imdb: "4047038"
 stars: "4/5"
-tags: ['netflix', 'dirkgently']
+tags: ['netflix', 'dirkgently', 'series']
 _title: "Dirk Gently's Holistic Detective Agency"
 _year: "2016"
 _director: ["Paco Cabezas", "Tamra Davis", "Michael Patrick Jann", "Dean Parisot", ]

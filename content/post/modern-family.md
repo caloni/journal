@@ -4,6 +4,7 @@ categories: "blog"
 imdb: "1442437"
 stars: "3/5"
 title: "Modern Family - Primeira Temporada, Episódios 1 ao 5"
+tags: ['netflix', 'series']
 _title: "Modern Family"
 _year: "2009"
 _director: ["Gail Mancuso", "Michael Alan Spiller", "Jason Winer", "Steven Levitan", "Beth McCarthy-Miller", "James R. Bagdonas", "Chris Koch", "James Alan Hensz", "Fred Savage", ]

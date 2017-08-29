@@ -4,6 +4,7 @@ categories: "blog"
 imdb: "2591814"
 stars: "4/5"
 title: "O Jardim das Palavras"
+tags: ['curtas']
 _title: "Koto no ha no niwa"
 _year: "2013"
 _director: ["Makoto Shinkai", ]

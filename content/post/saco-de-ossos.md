@@ -4,6 +4,7 @@ imdb: "1212452"
 title: "Saco de Ossos"
 stars: "4/5"
 categories: "blog"
+tags: ['netflix', 'series']
 _title: "Bag of Bones"
 _year: "2011"
 _director: ["Mick Garris", ]

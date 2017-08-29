@@ -4,7 +4,7 @@ categories: "blog"
 title: "Better Call Saul - Terceira Temporada"
 imdb: "3032476"
 stars: "4/5"
-tags: ['netflix', 'bettercallsaul']
+tags: ['netflix', 'bettercallsaul', 'series']
 _title: "Better Call Saul"
 _year: "2015"
 _director: ["Vince Gilligan", "Thomas Schnauz", "Adam Bernstein", "Peter Gould", "Colin Bucksey", "Larysa Kondracki", "Terry McDonough", "John Shiban", ]

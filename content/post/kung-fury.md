@@ -4,6 +4,7 @@ categories: "blog"
 imdb: "3472226"
 stars: "3/5"
 title: "Kung Fury"
+tags: ['curtas']
 _title: "Kung Fury"
 _year: "2015"
 _director: ["David Sandberg", ]

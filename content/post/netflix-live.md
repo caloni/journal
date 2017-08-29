@@ -4,7 +4,7 @@ categories: "blog"
 title: "Netflix Live"
 imdb: "6724372"
 stars: "4/5"
-tags: ["netflix"]
+tags: ["netflix", 'series']
 ---
 Prepare-se para o "streaming" mais emocionante já lançado por um serviço de "streaming". Netflix Ao Vivo possui momentos do cotidiano que podem se tornar emocionantes, divertidos, hilários e até empolgantes!
 

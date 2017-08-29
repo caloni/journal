@@ -1,7 +1,7 @@
 ---
 imdb: "3006802"
 stars: "4/5"
-tags: ['netflix', 'outlander']
+tags: ['netflix', 'outlander', 'series']
 date: 2017-07-27T11:39:57
 title: "Outlander - Segunda Temporada"
 categories: "blog"

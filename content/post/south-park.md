@@ -5,7 +5,7 @@ stars: "5/5"
 title: "South Park"
 categories: "series"
 revision: [2015-09-15]
-tags: ['netflix', 'series']
+tags: ['netflix', 'series', 'southpark']
 _title: "South Park"
 _year: "1997"
 _director: ["Trey Parker", "Eric Stough", "Matt Stone", ]

@@ -4,7 +4,7 @@ categories: "blog"
 title: "Peppa Pig"
 imdb: "0426769"
 stars: "3/5"
-tags: ['netflix']
+tags: ['netflix', 'series']
 _title: "Peppa Pig (episódios diversos)"
 _year: "2004"
 _director: ["Mark Baker", "Neville Astley", "Mark Baker", "Phil Hall", "Joris van Hulzen", ]

@@ -4,7 +4,7 @@ imdb: "4326894"
 stars: "3/5"
 title: "F is for Family - Segunda Temporada"
 categories: "blog"
-tags: ['netflix', 'fisforfamily']
+tags: ['netflix', 'fisforfamily', 'series']
 _title: "F is for Family"
 _year: "2015"
 _director: ["Laurent Nicolas", "Benjamin Marsaud", ]

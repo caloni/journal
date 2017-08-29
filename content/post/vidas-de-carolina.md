@@ -3,7 +3,7 @@ date: "2017-01-12"
 categories: "blog"
 title: "Vidas de Carolina"
 stars: "3/5"
-tags: ["youtube"]
+tags: ["youtube", "curtas"]
 _director: ["Jessica Queiroz", ]
 _writer: ["Jessica Queiroz", ]
 _year: "2013"

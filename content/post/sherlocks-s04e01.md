@@ -5,7 +5,7 @@ title: "Sherlock - A Noiva Abominável"
 stars: "5/5"
 categories: "blog"
 date: "2016-04-07"
-tags: ['netflix', 'sherlock']
+tags: ['netflix', 'sherlock', 'series']
 _title: "Sherlock"
 _year: "2010"
 _director: ["Paul McGuigan", ]

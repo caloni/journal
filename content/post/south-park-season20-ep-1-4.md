@@ -4,7 +4,7 @@ categories: "blog"
 title: "South Park - Vigésima Temporada, Episódios 1 a 4"
 imdb: "0121955"
 stars: "4/5"
-tags: ['streaming', 'series']
+tags: ['streaming', 'series', 'southpark']
 _title: "South Park"
 _year: "1997"
 _director: ["Trey Parker", "Eric Stough", "Matt Stone", ]

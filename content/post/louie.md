@@ -4,6 +4,7 @@ imdb: "1492966"
 stars: "5/5"
 title: "Louie"
 categories: "blog"
+tags: ['series']
 _title: "Louie"
 _year: "2010"
 _director: ["Louis C.K.", ]

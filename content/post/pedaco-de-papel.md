@@ -4,6 +4,7 @@ categories: "blog"
 imdb: "1522238"
 stars: "3/5"
 title: "Pedaço de Papel"
+tags: ['curtas']
 _title: "Pedaço de Papel"
 _year: "2010"
 _director: ["Cesar Raphael", ]

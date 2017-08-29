@@ -3,7 +3,7 @@ date: "2017-01-01"
 categories: "blog"
 title: "3%: spoilers sobre uma série para bandidos"
 imdb: "4922804"
-tags: ['netflix']
+tags: ['netflix', 'series']
 _title: "3%"
 _year: "2016"
 _director: ["César Charlone", "Jotagá Crema", "Daina Giannecchini", "Dani Libardi", ]

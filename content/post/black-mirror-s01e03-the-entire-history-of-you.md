@@ -5,7 +5,7 @@ stars: "5/5"
 title: "Black Mirror - The Entire History of You"
 categories: "blog"
 date: "2015-12-13"
-tags: ['netflix', 'blackmirror']
+tags: ['netflix', 'blackmirror', 'series']
 _title: "Black Mirror"
 _year: "2011"
 _director: ["Carl Tibbetts", ]

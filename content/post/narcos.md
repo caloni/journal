@@ -4,6 +4,7 @@ imdb: "2707408"
 stars: "3/5"
 title: "Narcos"
 categories: "blog"
+tags: ['netflix', 'series']
 _title: "Narcos"
 _year: "2015"
 _director: ["Andrés Baiz", "Guillermo Navarro", "Fernando Coimbra", "José Padilha", ]

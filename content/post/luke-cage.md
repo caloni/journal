@@ -4,7 +4,7 @@ categories: "blog"
 title: "Luke Cage"
 imdb: "3322314"
 stars: "3/5"
-tags: ['netflix']
+tags: ['netflix', 'series']
 _title: "Luke Cage (piloto)"
 _year: "2016"
 _director: ["Paul McGuigan", ]

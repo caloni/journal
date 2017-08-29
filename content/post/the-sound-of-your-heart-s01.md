@@ -4,7 +4,7 @@ categories: "blog"
 title: "The Sound of Your Heart - Primeira Temporada"
 imdb: "4613520"
 stars: "3/5"
-tags: ['netflix']
+tags: ['netflix', 'series']
 _title: "Maeumui sori"
 _year: "2016"
 _director: ["Byung-Hoon Ha", ]

@@ -4,6 +4,7 @@ imdb: "3205802"
 stars: "3/5"
 title: "How to Get Away with Murder - Primeira Temporada, Episódios 1 ao 3"
 categories: "blog"
+tags: ['netflix', 'series']
 _title: "How to Get Away with Murder"
 _year: "2014"
 _director: ["Bill D'Elia", "Mike Listo", "Laura Innes", "Michael Offer", "Stephen Williams", ]

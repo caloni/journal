@@ -5,6 +5,7 @@ tags: ['netflix']
 date: 2017-07-31T20:21:24
 title: "Glow"
 categories: "blog"
+tags: ['netflix', 'series']
 _title: "GLOW"
 _year: "2017"
 _director: ["Jesse Peretz", ]

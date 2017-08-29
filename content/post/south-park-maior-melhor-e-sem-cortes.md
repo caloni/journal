@@ -4,6 +4,7 @@ imdb: "0158983"
 title: "South Park Maior Melhor e Sem Cortes"
 stars: "4/5"
 categories: "movies"
+tags: ["southpark", "series"]
 _title: "South Park: Bigger Longer & Uncut"
 _year: "1999"
 _director: ["Trey Parker", ]

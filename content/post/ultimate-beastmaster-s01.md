@@ -4,7 +4,7 @@ categories: "blog"
 title: "Ultimate Beastmaster - Primeira Temporada"
 imdb: "5607970"
 stars: "4/5"
-tags: ['netflix']
+tags: ['netflix', 'series']
 _title: "Ultimate Beastmaster"
 _year: "2017"
 _writer: ["David Broome", "Sylvester Stallone", ]

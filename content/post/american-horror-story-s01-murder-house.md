@@ -5,7 +5,7 @@ title: "História de Horror Americana - Murder House"
 stars: "4/5"
 categories: "blog"
 date: 2015-11-28
-tags: ['ahs']
+tags: ['ahs', 'series']
 _title: "American Horror Story"
 _year: "2011"
 _director: ["Alfonso Gomez-Rejon", "Bradley Buecker", "Michael Uppendahl", "Michael Lehmann", "David Semel", "Howard Deutch", "Ryan Murphy", "Jeremy Podeswa", "Michael Rymer", ]

@@ -3,6 +3,7 @@ date: "2015-12-12"
 imdb: "1119644"
 stars: "3/5"
 title: "Fringe (piloto)"
+tags: ['series']
 categories: "blog"
 _title: "Fringe"
 _year: "2008"

@@ -4,7 +4,7 @@ categories: "blog"
 imdb: "1856010"
 stars: "4/5"
 title: "House of Cards - Quinta Temporada"
-tags: ['netflix', 'houseofcards']
+tags: ['netflix', 'houseofcards', 'series']
 _title: "House of Cards"
 _year: "2013"
 _director: ["James Foley", "Robin Wright", "John David Coles", "Carl Franklin", "Tucker Gates", "Tom Shankland", "Alik Sakharov", "Allen Coulter", "David Fincher", ]

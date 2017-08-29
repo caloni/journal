@@ -5,6 +5,7 @@ title: "Ninfomaníaca Volume 2"
 stars: "4/5"
 categories: "movies"
 date: 2016-06-06
+tags: ['ninfomaniaca']
 _title: "Nymphomaniac: Vol. II"
 _year: "2013"
 _director: ["Lars von Trier", ]

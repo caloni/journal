@@ -4,7 +4,7 @@ categories: "blog"
 title: "Supergirl"
 imdb: "4016454"
 stars: "3/5"
-tags: ['netflix']
+tags: ['netflix', 'series']
 _title: "Supergirl (piloto)"
 _year: "2015"
 _director: ["Glen Winter", "Larry Teng", "Dermott Downs", ]

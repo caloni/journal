@@ -4,6 +4,7 @@ categories: "blog"
 imdb: "3190448"
 stars: "4/5"
 title: "Metástasis (piloto)"
+tags: ['netflix', 'series']
 _title: "Metástasis"
 _year: "2014"
 _director: ["Andrés Baiz", "Andrés Biermann", ]

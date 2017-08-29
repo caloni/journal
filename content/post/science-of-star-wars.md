@@ -4,7 +4,7 @@ categories: "blog"
 title: "Science of Star Wars - Primeira Temporada, Episódio 1"
 imdb: "0458284"
 stars: "2/5"
-tags: ['netflix']
+tags: ['netflix', 'series']
 _title: "Science of Star Wars"
 _year: "2005"
 _director: ["Pierre de Lespinois", ]

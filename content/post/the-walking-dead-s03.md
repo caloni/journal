@@ -4,7 +4,7 @@ imdb: "1520211"
 title: "The Walking Dead - Terceira Temporada"
 stars: "3/5"
 categories: "blog"
-tags: ['thewalkingdead']
+tags: ['thewalkingdead', 'series']
 _title: "The Walking Dead"
 _year: "2010"
 _director: ["Ernest R. Dickerson", "Greg Nicotero", "Guy Ferland", "David Boyd", "Bill Gierhart", "Michelle MacLaren", "Tricia Brock", "Seith Mann", "Gwyneth Horder-Payton", ]
