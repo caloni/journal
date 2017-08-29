@@ -4,7 +4,7 @@ categories: "series"
 title: "O Incrível Mundo de Gumball"
 imdb: "1942683"
 stars: "4/5"
-tags: ['netflix']
+tags: ['netflix', 'series']
 _title: "The Amazing World of Gumball"
 _year: "2011"
 _director: ["Mic Graves", ]

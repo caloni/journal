@@ -4,7 +4,7 @@ categories: "series"
 title: "Easy"
 imdb: "5562056"
 stars: "4/5"
-tags: ['netflix']
+tags: ['netflix', 'series']
 _title: "Easy"
 _year: "2016"
 _director: ["Joe Swanberg", ]

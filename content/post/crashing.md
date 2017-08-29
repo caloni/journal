@@ -4,7 +4,7 @@ categories: "series"
 title: "Crashing"
 imdb: "5295524"
 stars: "3/5"
-tags: ['netflix']
+tags: ['netflix', 'series']
 _title: "Crashing"
 _year: "2016"
 _director: ["George Kane", ]

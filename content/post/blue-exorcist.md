@@ -4,6 +4,7 @@ imdb: "1799631"
 title: "Blue Exorcist"
 stars: "3/5"
 categories: "series"
+tags: ['netflix', 'series']
 _title: "Ao no ekusoshisuto"
 _year: "2011"
 _director: ["Tensai Okamura", "Alex Von David", ]

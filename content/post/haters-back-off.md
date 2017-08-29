@@ -4,7 +4,7 @@ categories: "series"
 title: "Haters Back Off!"
 imdb: "5467814"
 stars: "3/5"
-tags: ['netflix']
+tags: ['netflix', 'series']
 _title: "Haters Back Off!"
 _year: "2016"
 _director: ["Andrew Gaynord", "Todd Rohal", ]

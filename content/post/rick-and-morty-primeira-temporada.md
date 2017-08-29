@@ -4,7 +4,7 @@ categories: "series"
 title: "Rick and Morty - Primeira Temporada"
 imdb: "2861424"
 stars: "4/5"
-tags: ['netflix']
+tags: ['netflix', 'series']
 _title: "Rick and Morty"
 _year: "2013"
 _director: ["Pete Michels", "Bryan Newton", "John Rice", "Stephen Sandoval", "Wesley Archer", "Dominic Polcino", "Jeff Myers", "Juan Jose Meza-Leon", ]

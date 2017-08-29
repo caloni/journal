@@ -4,6 +4,7 @@ imdb: "5189670"
 stars: "5/5"
 title: "Making a Murderer"
 categories: "series"
+tags: ['netflix', 'series']
 _title: "Making a Murderer"
 _year: "2015"
 _director: ["Moira Demos", "Laura Ricciardi", ]

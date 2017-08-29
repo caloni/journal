@@ -3,7 +3,7 @@ date: 2017-08-25T20:22:02-03:00
 title: "Chef & My Fridge"
 categories: "series"
 stars: "4/5"
-tags: ["netflix"]
+tags: ["netflix", 'series']
 _title: "Chef & My Fridge"
 _year: "2014"
 _director: ["Sung Hee-sung", "Lee Geon-young" ]

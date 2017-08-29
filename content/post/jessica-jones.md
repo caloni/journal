@@ -4,6 +4,7 @@ categories: "series"
 imdb: "2357547"
 stars: "3/5"
 title: "Jessica Jones"
+tags: ['netflix', 'series']
 _title: "Jessica Jones"
 _year: "2015"
 _director: ["Simon Cellan Jones", "S.J. Clarkson", "David Petrarca", "Stephen Surjik", ]

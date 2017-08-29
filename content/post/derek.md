@@ -4,6 +4,7 @@ imdb: "2616280"
 stars: "4/5"
 title: "Derek"
 categories: "series"
+tags: ['netflix', 'series']
 _title: "Derek"
 _year: "2012"
 _director: ["Ricky Gervais", ]

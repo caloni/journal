@@ -4,7 +4,7 @@ categories: "series"
 title: "12 Macacos - Primeira Temporada, Episódios 1 ao 3"
 imdb: "3148266"
 stars: "3/5"
-tags: ['netflix']
+tags: ['netflix', 'series']
 _title: "12 Monkeys"
 _year: "2015"
 _director: ["David Grossman", "Magnus Martens", "Michael Waxman", "Steven A. Adelson", "David Greene", "Grant Harvey", ]

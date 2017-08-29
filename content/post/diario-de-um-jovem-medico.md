@@ -5,6 +5,7 @@ title: "Diário de um Jovem Médico"
 stars: "3/5"
 categories: "series"
 revision: [ 2016-06-12 ]
+tags: ['netflix', 'series']
 _title: "A Young Doctor's Notebook"
 _year: "2012"
 _director: ["Alex Hardcastle", "Robert McKillop", ]

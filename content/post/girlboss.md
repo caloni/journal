@@ -4,7 +4,7 @@ categories: "series"
 title: "Girlboss - Primeira Temporada"
 imdb: "5706996"
 stars: "4/5"
-tags: ['netflix']
+tags: ['netflix', 'series']
 _title: "Girlboss"
 _year: "2017"
 _director: ["Christian Ditter", "Jamie Babbit", "Amanda Brotchie", "Steven K. Tsuchida", ]

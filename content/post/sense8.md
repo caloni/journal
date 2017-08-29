@@ -4,7 +4,7 @@ imdb: "2431438"
 stars: "4/5"
 categories: "series"
 title: "Sense8"
-tags: ['netflix', 'sense8']
+tags: ['netflix', 'sense8', 'series']
 _title: "Sense8"
 _year: "2015"
 _director: ["Andy Wachowski", "Lana Wachowski", "James McTeigue", "Tom Tykwer", ]

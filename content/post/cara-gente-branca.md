@@ -4,7 +4,7 @@ categories: "series"
 title: "Cara Gente Branca"
 imdb: "5707802"
 stars: "3/5"
-tags: ['netflix']
+tags: ['netflix', 'series']
 _title: "Dear White People"
 _year: "2017"
 _director: ["Justin Simien", "Nisha Ganatra", "Tina Mabry", ]

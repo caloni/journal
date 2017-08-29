@@ -4,7 +4,7 @@ imdb: "1856010"
 title: "House of Cards - Primeira Temporada"
 stars: "4/5"
 categories: "series"
-tags: ['netflix', 'houseofcards']
+tags: ['netflix', 'houseofcards', 'series']
 date: "2016-03-13"
 _title: "House of Cards"
 _year: "2013"

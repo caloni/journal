@@ -4,7 +4,7 @@ categories: "series"
 title: "Ghost Hound"
 imdb: "1097194"
 stars: "3/5"
-tags: ['netflix']
+tags: ['netflix', 'series']
 _title: "Ghost Hound"
 _year: "2007"
 _director: ["Ryûtarô Nakamura", ]

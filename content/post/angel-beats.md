@@ -4,7 +4,7 @@ categories: "series"
 title: "Angel Beats!"
 imdb: "1639109"
 stars: "1/5"
-tags: ['paulocoelho']
+tags: ['paulocoelho', 'series']
 _title: "Angel Beats!"
 _year: "2010"
 _director: ["Seiji Kishi", "Takefumi Anzai", "Hiroyuki Hashimoto", "Yoshimichi Hirai", "Jong Heo", "Kôdai Kakimoto", "Masanori Takahashi", ]

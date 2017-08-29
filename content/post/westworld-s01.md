@@ -4,7 +4,7 @@ categories: "series"
 title: "Westworld - Primeira Temporada"
 imdb: "0475784"
 stars: "4/5"
-tags: ['paulocoelho', 'westworld']
+tags: ['paulocoelho', 'westworld', 'series']
 revision: ['2017-08-02']
 _title: "Westworld"
 _year: "2016"

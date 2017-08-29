@@ -5,7 +5,7 @@ stars: "5/5"
 categories: "series"
 title: "Better Call Saul - Primeira Temporada"
 date: "2016-04-22"
-tags: ['netflix', 'bettercallsaul']
+tags: ['netflix', 'bettercallsaul', 'series']
 _title: "Better Call Saul"
 _year: "2015"
 _director: ["Colin Bucksey", ]

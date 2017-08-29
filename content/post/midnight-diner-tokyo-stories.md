@@ -4,7 +4,7 @@ categories: "series"
 title: "Midnight Diner: Tokyo Stories"
 imdb: "3958276"
 stars: "4/5"
-tags: ['netflix']
+tags: ['netflix', 'series']
 _title: "Shinya shokudô"
 _year: "2014"
 _director: ["Joji Matsuoka", ]

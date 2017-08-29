@@ -5,6 +5,7 @@ title: "Cosmos: Uma Odisséia do Espaço-Tempo"
 stars: "5/5"
 categories: "series"
 revision: [2015-09-19]
+tags: ['netflix', 'series']
 _title: "Cosmos: A Spacetime Odyssey"
 _year: "2014"
 _director: ["Brannon Braga", "Ann Druyan", "Bill Pope", ]

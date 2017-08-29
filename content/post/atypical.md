@@ -1,7 +1,7 @@
 ---
 imdb: "6315640"
 stars: "3/5"
-tags: ['netflix']
+tags: ['netflix', 'series']
 date: 2017-08-21T17:12:52
 title: "Atypical"
 categories: "series"

@@ -4,6 +4,7 @@ categories: "series"
 title: "One Punch Man: Wanpanman"
 imdb: "4508902"
 stars: "4/5"
+tags: ['paulocoelho', 'series']
 revision: [ "2017-07-19" ]
 tags: ['torrent']
 _title: "One Punch Man: Wanpanman"

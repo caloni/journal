@@ -4,7 +4,7 @@ categories: "series"
 title: "Chef's Table"
 imdb: "4295140"
 stars: "4/5"
-tags: ['netflix']
+tags: ['netflix', 'series']
 _title: "Chef's Table"
 _year: "2015"
 _director: ["Clay Jeter", "Brian McGinn", "Andrew Fried", "David Gelb", ]

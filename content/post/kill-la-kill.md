@@ -4,6 +4,7 @@ imdb: "3114390"
 title: "Kill La Kill"
 stars: "4/5"
 categories: "series"
+tags: ['netflix', 'series']
 _title: "Kill La Kill"
 _year: "2013"
 _director: ["Akira Amemiya", "Hiroyuki Imaishi", "Alex Von David", ]

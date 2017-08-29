@@ -4,7 +4,7 @@ categories: "series"
 title: "Samurai Gourmet"
 imdb: "6304676"
 stars: "4/5"
-tags: ['netflix']
+tags: ['netflix', 'series']
 _title: "Samurai Gourmet"
 _year: "2017"
 _writer: ["Masayuki Kusumi", ]

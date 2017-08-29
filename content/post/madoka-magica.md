@@ -5,6 +5,7 @@ title: "Madoka Magica"
 stars: "5/5"
 categories: "series"
 revision: [2014-09-19]
+tags: ['netflix', 'series']
 _title: "Maho Shojo Madoka Magica"
 _year: "2011"
 _director: ["Tomoyuki Itamura", "Yukihiro Miyamoto", "Akiyuki Shinbo", "Masahiro Mukai", "Yuki Yase", "Toshiaki Kidokoro", "Shinichi Omata", ]

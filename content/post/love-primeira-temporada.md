@@ -4,6 +4,7 @@ categories: "series"
 imdb: "4061080"
 stars: "3/5"
 title: "Love - Primeira Temporada"
+tags: ['netflix', 'series']
 _title: "Love"
 _year: "2016"
 _director: ["Dean Holland", "John Slattery", ]

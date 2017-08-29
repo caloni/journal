@@ -6,7 +6,7 @@ revision: [2016-07-17]
 stars: "5/5"
 categories: "series"
 date: "2016-07-16"
-tags: ['breakingbad']
+tags: ['breakingbad', 'series']
 _title: "Breaking Bad"
 _year: "2008"
 _director: ["Michelle MacLaren", "Adam Bernstein", "Vince Gilligan", "Colin Bucksey", "Michael Slovis", "Bryan Cranston", "Terry McDonough", "Johan Renck", "Rian Johnson", ]

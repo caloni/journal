@@ -4,6 +4,7 @@ imdb: "0182576"
 stars: "4/5"
 title: "Family Guy"
 categories: "series"
+tags: ['netflix', 'series']
 _title: "Family Guy"
 _year: "1999"
 _director: ["Peter Shin", "James Purdum", "Dominic Bianchi", "Pete Michels", "John Holmquist", "Greg Colton", "Brian Iles", "Julius Wu", "Roy Allen Smith", ]

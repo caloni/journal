@@ -4,6 +4,7 @@ categories: "series"
 imdb: "3613454"
 stars: "3/5"
 title: "Terror in Resonance"
+tags: ['netflix', 'series']
 _title: "Zankyo no Terror"
 _year: "2014"
 _director: ["Shinichirô Watanabe", "Kazuto Nakazawa", ]
