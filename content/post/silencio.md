@@ -5,7 +5,7 @@ categories: "movies"
 title: "Silêncio"
 imdb: "0490215"
 stars: "4/5"
-tags: ['cabine', 'oscar2017']
+tags: ['cabine', 'oscar']
 _title: "Silence"
 _year: "2016"
 _director: ["Martin Scorsese", ]

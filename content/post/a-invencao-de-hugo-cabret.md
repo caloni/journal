@@ -5,7 +5,7 @@ revision: [2014-06-10, 2017-02-28]
 title: "A Invenção de Hugo Cabret"
 stars: "3/5"
 categories: "movies"
-tags: [ "3d", "homevideo", "revisita" ]
+tags: [ "3d", "revisita" ]
 _title: "Hugo"
 _year: "2011"
 _director: ["Martin Scorsese", ]

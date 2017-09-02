@@ -4,7 +4,7 @@ categories: "movies"
 title: "A Garota no Trem"
 imdb: "3631112"
 stars: "3/5"
-tags: ['popcorntime']
+tags: ['paulocoelho']
 _title: "The Girl on the Train"
 _year: "2016"
 _director: ["Tate Taylor", ]

@@ -4,7 +4,7 @@ categories: "movies"
 title: "Logan"
 imdb: "3315342"
 stars: "4/5"
-tags: ['emcartaz']
+tags: ['cinema']
 _title: "Logan"
 _year: "2017"
 _director: ["James Mangold", ]

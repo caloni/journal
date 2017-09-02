@@ -4,7 +4,7 @@ categories: "movies"
 title: "Estrelas Além do Tempo"
 imdb: "4846340"
 stars: "5/5"
-tags: ['torrent', 'oscar2017']
+tags: ['paulocoelho', 'oscar']
 _title: "Hidden Figures"
 _year: "2016"
 _director: ["Theodore Melfi", ]

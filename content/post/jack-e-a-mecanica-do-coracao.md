@@ -4,7 +4,6 @@ categories: "movies"
 title: "Jack e a Mecânica do Coração"
 imdb: "1181840"
 stars: "4/5"
-tags: ['tv']
 _title: "Jack et la mécanique du coeur"
 _year: "2013"
 _director: ["Stéphane Berla", "Mathias Malzieu", ]

@@ -4,7 +4,7 @@ categories: "movies"
 title: "Como Ser Solteira"
 imdb: "1292566"
 stars: "4/5"
-tags: ['streaming']
+tags: ['paulocoelho']
 _title: "How to Be Single"
 _year: "2016"
 _director: ["Christian Ditter", ]

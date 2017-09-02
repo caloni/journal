@@ -4,7 +4,7 @@ categories: "movies"
 title: "O Ring"
 imdb: "0018328"
 stars: "2/5"
-tags: ['torrent']
+tags: ['paulocoelho']
 _title: "The Ring"
 _year: "1927"
 _director: ["Alfred Hitchcock", ]

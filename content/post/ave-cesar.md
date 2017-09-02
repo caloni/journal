@@ -4,7 +4,7 @@ categories: "movies"
 imdb: "0475290"
 stars: "4/5"
 title: "Ave, César!"
-tags: ['oscar2017']
+tags: ['oscar']
 _title: "Hail, Caesar!"
 _year: "2016"
 _director: ["Ethan Coen", "Joel Coen", ]

@@ -4,7 +4,7 @@ categories: "movies"
 title: "Moonlight: Sob a Luz do Luar"
 imdb: "4975722"
 stars: "3/5"
-tags: ['cabine', 'oscar2017']
+tags: ['cabine', 'oscar']
 _title: "Moonlight"
 _year: "2016"
 _director: ["Barry Jenkins", ]

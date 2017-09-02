@@ -4,7 +4,7 @@ categories: "movies"
 title: "Downhill"
 imdb: "0017825"
 stars: "4/5"
-tags: ['torrent']
+tags: ['paulocoelho']
 _title: "Downhill"
 _year: "1927"
 _director: ["Alfred Hitchcock", ]

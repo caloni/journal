@@ -4,7 +4,7 @@ imdb: "3069212"
 title: "Street Fighter: Assassin's Fist"
 stars: "2/5"
 categories: "blog"
-tags: ['streaming', 'series']
+tags: ['paulocoelho', 'series']
 _title: "Street Fighter: Assassin's Fist"
 _year: "2014"
 _director: ["Joey Ansah", ]

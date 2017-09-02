@@ -5,7 +5,7 @@ categories: "movies"
 title: "Um Homem Chamado Ove"
 imdb: "4080728"
 stars: "3/5"
-tags: ['cabine', 'oscar2017']
+tags: ['cabine', 'oscar']
 _title: "En man som heter Ove"
 _year: "2015"
 _director: ["Hannes Holm", ]

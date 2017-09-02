@@ -4,7 +4,7 @@ categories: "movies"
 title: "Grandes Olhos"
 imdb: "1126590"
 stars: "3/5"
-tags: ['torrent']
+tags: ['paulocoelho']
 _title: "Big Eyes"
 _year: "2014"
 _director: ["Tim Burton", ]

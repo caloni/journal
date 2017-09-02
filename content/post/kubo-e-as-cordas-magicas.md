@@ -4,7 +4,7 @@ categories: "movies"
 title: "Kubo e as Cordas Mágicas"
 imdb: "4302938"
 stars: "4/5"
-tags: ['popcorntime', 'oscar2017']
+tags: ['paulocoelho', 'oscar']
 _title: "Kubo and the Two Strings"
 _year: "2016"
 _director: ["Travis Knight", ]

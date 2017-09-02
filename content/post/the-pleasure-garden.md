@@ -4,7 +4,7 @@ categories: "movies"
 title: "The Pleasure Garden"
 imdb: "0016230"
 stars: "4/5"
-tags: ['torrent']
+tags: ['paulocoelho']
 _title: "The Pleasure Garden"
 _year: "1925"
 _director: ["Alfred Hitchcock", ]

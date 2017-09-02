@@ -4,7 +4,7 @@ categories: "movies"
 title: "A 13a. Emenda"
 imdb: "5895028"
 stars: "2/5"
-tags: ['netflix', 'oscar2017']
+tags: ['netflix', 'oscar']
 _title: "13th"
 _year: "2016"
 _director: ["Ava DuVernay", ]

@@ -4,7 +4,7 @@ categories: "movies"
 title: "A Chegada"
 imdb: "2543164"
 stars: "5/5"
-tags: ['popcorntime', 'oscar2017']
+tags: ['paulocoelho', 'oscar']
 _title: "Arrival"
 _year: "2016"
 _director: ["Denis Villeneuve", ]

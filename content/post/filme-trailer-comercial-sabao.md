@@ -2,7 +2,7 @@
 date: "2015-02-17"
 title: "Como é escolher um filme pelo trailer"
 categories: "blog"
-tags: ["youtube", "comerciais"]
+tags: ["youtube", "comerciais", "humor"]
 ---
 O que está passando esse fim-de-semana? Que tal dar uma olhada nos trailers para escolher?
 

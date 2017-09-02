@@ -4,7 +4,7 @@ categories: "movies"
 imdb: "2948356"
 stars: "4/5"
 title: "Zootopia"
-tags: ['oscar2017']
+tags: ['oscar']
 _title: "Zootopia"
 _year: "2016"
 _director: ["Byron Howard", "Rich Moore", "Jared Bush", ]

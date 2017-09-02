@@ -6,7 +6,7 @@ imdb: "4508902"
 stars: "4/5"
 tags: ['paulocoelho', 'series']
 revision: [ "2017-07-19" ]
-tags: ['torrent']
+tags: ['paulocoelho']
 _title: "One Punch Man: Wanpanman"
 _year: "2015"
 _director: ["Shingo Natsume", ]

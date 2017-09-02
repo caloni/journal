@@ -5,7 +5,7 @@ tags: ['netflix', 'outlander']
 date: 2017-07-19T00:47:55
 title: "Outlander - Primeira Temporada"
 categories: "series"
-tags: ['netflix', 'series']
+tags: ['netflix', 'series', 'outlander']
 _title: "Outlander"
 _year: "2014"
 _director: ["Metin HÃ¼seyin", "Anna Foerster", "Brian Kelly", "Mike Barker", "Philip John", "Brendan Maher", "John Dahl", "Richard Clark", "Douglas Mackinnon", ]

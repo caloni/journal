@@ -4,7 +4,7 @@ categories: "movies"
 title: "Para Sempre Cinderela"
 imdb: "0120631"
 stars: "4/5"
-tags: ['tv', 'dublado']
+tags: ['dublado']
 _title: "EverAfter"
 _year: "1998"
 _director: ["Andy Tennant", ]

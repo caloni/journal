@@ -1,7 +1,7 @@
 ---
 imdb: "1219827"
 stars: "3/5"
-tags: ['streaming']
+tags: ['paulocoelho']
 date: 2017-08-25T22:52:16
 title: "A Vigilante do Amanhã: Ghost In The Shell"
 categories: "movies"

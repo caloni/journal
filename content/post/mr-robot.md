@@ -5,6 +5,7 @@ title: "Mr. Robot"
 imdb: "4158110"
 stars: "5/5"
 tags: ['series', 'mrrobot']
+revision: [ '2017-09-02' ]
 _title: "Mr. Robot"
 _year: "2015"
 _director: ["Sam Esmail", "Jim McKay", ]

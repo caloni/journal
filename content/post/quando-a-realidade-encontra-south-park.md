@@ -2,7 +2,7 @@
 date: "2016-11-18"
 categories: "blog"
 title: "Quando a realidade encontra South Park"
-tags: ["reflexoes", "politica", "southpark", "series"]
+tags: ["southpark", "series"]
 
 ---
 South Park é uma série que homenageia o pior em nós mesmos. A série criada pela dupla Trey Parker e Matt Stone a partir de personagens recortados em 2D é um retrato fiel da estupidez humana. Porém, nem os criadores conseguiram prever tão longe. E quando enxergamos o mundo de hoje lembramos da célebre frase de Einstein: "duas coisas são infinitas: o universo e a estupidez humana". Sábio como era, porém, o famoso físico possuía algumas dúvidas a respeito do universo não ter fim.

@@ -4,7 +4,7 @@ categories: "movies"
 title: "Voando Alto"
 imdb: "1083452"
 stars: "3/5"
-tags: ['torrent']
+tags: ['paulocoelho']
 _title: "Eddie the Eagle"
 _year: "2016"
 _director: ["Dexter Fletcher", ]

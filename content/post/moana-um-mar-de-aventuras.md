@@ -4,7 +4,7 @@ categories: "movies"
 title: "Moana: Um Mar de Aventuras"
 imdb: "3521164"
 stars: "5/5"
-tags: ['cinema', 'oscar2017']
+tags: ['cinema', 'oscar']
 _title: "Moana"
 _year: "2016"
 _director: ["Ron Clements", "Don Hall", "John Musker", "Chris Williams", ]

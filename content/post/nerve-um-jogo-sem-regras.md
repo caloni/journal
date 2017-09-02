@@ -4,7 +4,7 @@ categories: "movies"
 title: "Nerve: Um Jogo Sem Regras"
 imdb: "3531824"
 stars: "2/5"
-tags: ['streaming']
+tags: ['paulocoelho']
 _title: "Nerve"
 _year: "2016"
 _director: ["Henry Joost", "Ariel Schulman", ]

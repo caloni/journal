@@ -4,7 +4,7 @@ categories: "movies"
 title: "Rogue One: Uma História Star Wars"
 imdb: "3748528"
 stars: "4/5"
-tags: ['cinema', 'oscar2017']
+tags: ['cinema', 'oscar']
 _title: "Rogue One"
 _year: "2016"
 _director: ["Gareth Edwards", ]

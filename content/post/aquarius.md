@@ -4,7 +4,7 @@ categories: "movies"
 title: "Aquarius"
 imdb: "5221584"
 stars: "5/5"
-tags: ['torrent']
+tags: ['paulocoelho']
 _title: "Aquarius"
 _year: "2016"
 _director: ["Kleber Mendonça Filho", ]

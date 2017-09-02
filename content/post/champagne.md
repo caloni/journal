@@ -4,7 +4,7 @@ categories: "movies"
 title: "Champagne"
 imdb: "0018756"
 stars: "4/5"
-tags: ['torrent']
+tags: ['paulocoelho']
 _title: "Champagne"
 _year: "1928"
 _director: ["Alfred Hitchcock", ]

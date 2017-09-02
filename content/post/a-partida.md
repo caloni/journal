@@ -4,7 +4,6 @@ categories: "movies"
 title: "A Partida"
 imdb: "1069238"
 stars: "5/5"
-tags: ['dvd']
 _title: "Okuribito"
 _year: "2008"
 _director: ["Yôjirô Takita", ]

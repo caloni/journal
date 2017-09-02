@@ -4,7 +4,7 @@ categories: "movies"
 title: "The Lodger: A Story of the London Fog"
 imdb: "0017075"
 stars: "4/5"
-tags: ['torrent']
+tags: ['paulocoelho']
 _title: "The Lodger: A Story of the London Fog"
 _year: "1927"
 _director: ["Alfred Hitchcock", ]

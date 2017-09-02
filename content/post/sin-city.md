@@ -4,7 +4,6 @@ categories: "movies"
 title: "Sin City: A Cidade do Pecado"
 imdb: "0401792"
 stars: "5/5"
-tags: ['video']
 _title: "Sin City"
 _year: "2005"
 _director: ["Frank Miller", "Robert Rodriguez", "Quentin Tarantino", ]

@@ -4,7 +4,7 @@ categories: "movies"
 title: "Trolls"
 imdb: "1679335"
 stars: "5/5"
-tags: ['cinema', 'oscar2017']
+tags: ['cinema', 'oscar']
 review: [ "2016-11-20" ]
 _title: "Trolls"
 _year: "2016"

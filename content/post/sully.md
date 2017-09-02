@@ -4,7 +4,7 @@ categories: "movies"
 title: "Sully: O Herói do Rio Hudson"
 imdb: "3263904"
 stars: "5/5"
-tags: ['popcorntime', 'oscar2017']
+tags: ['paulocoelho', 'oscar']
 _title: "Sully"
 _year: "2016"
 _director: ["Clint Eastwood", ]

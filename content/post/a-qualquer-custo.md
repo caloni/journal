@@ -4,7 +4,7 @@ categories: "movies"
 title: "A Qualquer Custo"
 imdb: "2582782"
 stars: "5/5"
-tags: ['cabine', 'oscar2017']
+tags: ['cabine', 'oscar']
 _title: "Hell or High Water"
 _year: "2016"
 _director: ["David Mackenzie", ]

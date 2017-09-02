@@ -4,7 +4,7 @@ categories: "movies"
 title: "Um Limite Entre Nós"
 imdb: "2671706"
 stars: "4/5"
-tags: ['torrent', 'oscar2017']
+tags: ['paulocoelho', 'oscar']
 _title: "Fences"
 _year: "2016"
 _director: ["Denzel Washington", ]

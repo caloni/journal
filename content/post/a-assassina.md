@@ -4,7 +4,7 @@ categories: "movies"
 title: "A Assassina"
 imdb: "3508840"
 stars: "4/5"
-tags: ['torrent']
+tags: ['paulocoelho']
 _title: "Cìkè Niè Yinniáng"
 _year: "2015"
 _director: ["Hsiao-Hsien Hou", ]

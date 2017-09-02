@@ -2,7 +2,7 @@
 date: "2016-09-05"
 title: "200 Grandes Diretores"
 categories: "blog"
-tags: [ "listas", "download", "torrent", "diretores" ]
+tags: [ "listas", "paulocoelho", "diretores" ]
 ---
 Pessoas geralmente gostam de se divertir vendo filmes com seus atores favoritos. Geralmente são os que conseguem trazer o riso, a lágrima e performances que conseguem fazê-los se esquecer por um momento da vida real e viver um sonho que é um filme. No entanto, poucos estão habituados à ideia de que o roteirista e o diretor são em grande parte responsáveis pelos efeitos que o elenco consegue reproduzir. Muitos são fãs de um filme X e gostariam de assistir filmes semelhantes, seja pela temática ou pela sensação que o filme traz.
 

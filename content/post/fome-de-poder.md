@@ -4,7 +4,7 @@ categories: "movies"
 title: "Fome de Poder"
 imdb: "4276820"
 stars: "4/5"
-tags: ['torrent']
+tags: ['paulocoelho']
 _title: "The Founder"
 _year: "2016"
 _director: ["John Lee Hancock", ]

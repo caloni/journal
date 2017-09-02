@@ -4,7 +4,7 @@ categories: "movies"
 title: "Beleza Oculta"
 imdb: "4682786"
 stars: "3/5"
-tags: ['cinema', 'emcartaz']
+tags: ['cinema']
 _title: "Collateral Beauty"
 _year: "2016"
 _director: ["David Frankel", ]
