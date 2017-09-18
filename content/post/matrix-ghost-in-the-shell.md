@@ -4,7 +4,7 @@ stars: "5/5"
 tags: ['filosofia']
 date: 2017-09-18T21:53:43
 title: "Matrix: Ghost in The Shell"
-categories: "movies"
+categories: "blog"
 _title: "The Matrix Revolutions"
 _year: "2003"
 _director: ["Lana Wachowski", "Lilly Wachowski", ]
