@@ -3,7 +3,7 @@ imdb: "1536537"
 stars: "2/5"
 tags: ['netflix']
 date: 2017-09-15T21:13:15
-title: "Onde Esta Segunda"
+title: "Onde Está Segunda?"
 categories: "movies"
 _title: "Seven Sisters"
 _year: "2017"
