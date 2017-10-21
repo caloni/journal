@@ -1,7 +1,7 @@
 ---
 imdb: "0458352"
 stars: "5/5"
-tags: ['netflix', 'cabine']
+tags: ['paulocoelho']
 date: 2017-10-21T20:36:04
 title: "O Diabo Veste Prada"
 categories: "movies"
