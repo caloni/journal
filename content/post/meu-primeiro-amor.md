@@ -1,7 +1,7 @@
 ---
 imdb: "0102492"
 stars: "5/5"
-tags: ['netflix', 'cabine']
+tags: ['paulocoelho']
 date: 2017-10-29T17:52:19
 title: "Meu Primeiro Amor"
 categories: "movies"
