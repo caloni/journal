@@ -4,7 +4,7 @@ stars: "4/5"
 tags: ['anime', 'streaming']
 date: 2017-10-05T00:36:17
 title: "Steins;Gate"
-categories: "movies"
+categories: "blog"
 _title: "Steins;Gate"
 _year: "2011"
 _director: ["Kazuhiro Ozawa", "Kanji Wakabayashi", "Tomoki Kobayashi", "Kôji Kobayashi", "Tomoko Hiramuki", "Shigetaka Ikeda", "Hisato Shimoda", "Hiroshi Hamazaki", "Takuya Satô", ]

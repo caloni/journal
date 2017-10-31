@@ -1,6 +1,6 @@
 ---
 date: "2016-08-04"
-categories: "movies"
+categories: "blog"
 imdb: "4574334"
 stars: "3/5"
 title: "Stranger Things (e a irrelevância da bilheteria Netflixiana)"
