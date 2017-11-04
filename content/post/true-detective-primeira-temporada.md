@@ -1,7 +1,7 @@
 ---
 imdb: "2356777"
 stars: "4/5"
-tags: ['paulocoelho']
+tags: ['truedetective', 'paulocoelho']
 date: 2017-11-01T21:42:54
 title: "True Detective: Primeira Temporada"
 categories: "blog"

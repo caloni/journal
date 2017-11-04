@@ -1,7 +1,7 @@
 ---
 imdb: "2356777"
 stars: "5/5"
-tags: ['paulocoelho']
+tags: ['truedetective', 'paulocoelho']
 date: 2017-10-29T18:28:42
 title: "True Detective: Primeiras Impressões do Piloto"
 categories: "blog"
