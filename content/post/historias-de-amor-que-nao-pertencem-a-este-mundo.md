@@ -3,7 +3,7 @@ imdb: "7133340"
 stars: "3/5"
 tags: ['cabine']
 date: 2017-11-11T00:04:06
-title: "Histórias de Amor Que Não Percentem a Este Mundo"
+title: "Histórias de Amor Que Não Pertencem a Este Mundo"
 categories: "movies"
 _title: "Amori che non sanno stare al mondo"
 _year: "2017"

@@ -1,7 +1,7 @@
 ---
 imdb: "7133340"
 date: 2017-11-11T00:04:06
-title: "Histórias de Amor Que Não Percentem a Este Mundo"
+title: "Histórias de Amor Que Não Pertencem a Este Mundo"
 categories: "cinemaqui"
 draft: "true"
 ---
