@@ -5,6 +5,7 @@ tags: ['cabine']
 date: 2017-10-25T00:05:52
 title: "Thor Ragnarök"
 categories: "movies"
+revision: [2017-11-11]
 _title: "Thor: Ragnarok"
 _year: "2017"
 _director: ["Taika Waititi", ]
