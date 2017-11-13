@@ -36,3 +36,9 @@ Flavio e os outros personagens são coadjuvantes de luxo. Claudia é a única pe
 Aqui Flavio e Claudia existem. Eles se beijam como um casal normal. Transam como um casal normal. Ou não transam? As memórias de Claudia possuem truques interessantes. Ela acordando atrasada para tentar ligar para um Flavio que desistiu é o começo de um filme que dá voltas em torno das mesmas sensações, e diferente do brilhantismo de um Almodóvar, ainda consegue causar interesse a despeito de ser uma bagunça.
 
 Ou talvez essa bagunça seja planejada. Nunca saberemos. O que sabemos é que a história segue as mesmas emoções de Claudia. Instáveis, intensas e fora de controle. Quando vemos o que o mundo poderia ser, com diferentes casais compartilhando momentos bem diferentes ao estarem juntos, entendemos que o filme flerta com possibilidades que talvez nunca existam. Como Claudia transar... ei, espere. Ela transa no filme, sim. Mas talvez não com Flavio. Sequer com um homem. Viu como a vida é instável a ponto de nunca ser possível prever. Gostaria que minha Claudia algum dia pudesse isso entender.
+
+_PS: Uma leitora me recomendou incluir nesta crítica um complemento audio-visual que achei bem pertinente. Apresento a vocês Julieta Venegas - Ilusión, a dúo con Marisa Monte._
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/Cd2mcbMsoeE" frameborder="0" allowfullscreen></iframe>
+
+Obrigado =)
