@@ -3,7 +3,7 @@ imdb: "3810810"
 stars: "4/5"
 tags: ['cabine']
 date: 2017-11-16T21:51:11
-title: "Ninguem Está Olhando"
+title: "Ninguém Está Olhando"
 categories: "movies"
 _title: "Nadie nos mira"
 _year: "2017"
