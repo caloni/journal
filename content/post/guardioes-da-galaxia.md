@@ -5,6 +5,7 @@ title: "Guardiões da Galáxia"
 stars: "3/5"
 categories: "movies"
 review: ["2017-05-02"]
+tags: ['cinema', 'mcu', 'guardioesdagalaxia']
 _title: "Guardians of the Galaxy"
 _year: "2014"
 _director: ["James Gunn", ]

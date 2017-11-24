@@ -1,7 +1,7 @@
 ---
 imdb: "0974015"
 stars: "2/5"
-tags: ['cinema']
+tags: ['cinema', 'dceu']
 date: 2017-11-24T19:14:37
 title: "Liga da Justiça"
 categories: "movies"

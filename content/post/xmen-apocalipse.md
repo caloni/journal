@@ -4,6 +4,7 @@ categories: "movies"
 imdb: "3385516"
 stars: "3/5"
 title: "X-Men: Apocalipse"
+tags: ['mcu', 'xmen']
 _title: "X-Men: Apocalypse"
 _year: "2016"
 _director: ["Bryan Singer", ]

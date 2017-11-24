@@ -4,7 +4,7 @@ categories: "movies"
 title: "Guardiões da Galáxia Vol. 2"
 imdb: "3896198"
 stars: "5/5"
-tags: ['cinema']
+tags: ['cinema', 'mcu', 'guardioesdagalaxia']
 _title: "Guardians of the Galaxy Vol. 2"
 _year: "2017"
 _director: ["James Gunn", ]

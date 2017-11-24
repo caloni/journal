@@ -4,6 +4,7 @@ imdb: "2975590"
 stars: "3/5"
 categories: "movies"
 title: "Batman vs Superman: A Origem da Justiça"
+tags: ['cinema', 'dceu']
 _title: "Batman v Superman: Dawn of Justice"
 _year: "2016"
 _director: ["Zack Snyder", ]

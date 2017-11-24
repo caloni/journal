@@ -4,6 +4,7 @@ imdb: "2395427"
 stars: "3/5"
 categories: "movies"
 title: "Vingadores: Era de Ultron"
+tags: ['cinema', 'mcu', 'avengers']
 _title: "Avengers: Age of Ultron"
 _year: "2015"
 _director: ["Joss Whedon", ]

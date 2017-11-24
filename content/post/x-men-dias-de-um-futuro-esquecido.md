@@ -4,6 +4,7 @@ imdb: "1877832"
 title: "X-Men Dias de um Futuro Esquecido"
 stars: "4/5"
 categories: "movies"
+tags: ['mcu', 'xmen']
 _title: "X-Men: Days of Future Past"
 _year: "2014"
 _director: ["Bryan Singer", ]

@@ -4,6 +4,7 @@ imdb: "1270798"
 title: "X-Men Primeira Classe"
 stars: "5/5"
 categories: "movies"
+tags: ['mcu', 'xmen']
 _title: "X-Men: First Class"
 _year: "2011"
 _director: ["Matthew Vaughn", ]

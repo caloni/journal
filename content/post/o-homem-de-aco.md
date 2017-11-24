@@ -4,6 +4,7 @@ imdb: "0770828"
 title: "O Homem de Aço"
 stars: "3/5"
 categories: "movies"
+tags: ['cinema', 'dceu']
 _title: "Man of Steel"
 _year: "2013"
 _director: ["Zack Snyder", ]

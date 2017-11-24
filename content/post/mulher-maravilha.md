@@ -4,7 +4,7 @@ categories: "movies"
 title: "Mulher-Maravilha"
 imdb: "0451279"
 stars: "2/5"
-tags: ['cinema']
+tags: ['cinema', 'dceu']
 _title: "Wonder Woman"
 _year: "2017"
 _director: ["Patty Jenkins", ]
