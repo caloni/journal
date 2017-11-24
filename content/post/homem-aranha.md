@@ -4,6 +4,7 @@ imdb: "0145487"
 stars: "4/5"
 categories: "movies"
 title: "Homem-Aranha"
+tags: ['spiderman']
 _title: "Spider-Man"
 _year: "2002"
 _director: ["Sam Raimi", ]
