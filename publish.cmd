@@ -5,9 +5,9 @@ popd
 hugo
 pushd public
 git add --all
-git ci %*
+git ci -m "Publish"
 git push
 popd
 git add --all
-git ci %*
+git ci -m "Publish"
 git push
