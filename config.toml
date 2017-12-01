@@ -39,5 +39,5 @@ footnotereturnlinkcontents = "?"
 
 [params]
     description = "A website built through Hugo and blogdown."
-    footer = "&copy; [Facebook](https://www.facebook.com/cinetenisverde/) | [Twitter](https://twitter.com/cinetenisverde) | [Github](https://github.com/Caloni/cinetenisverde)"
+    footer = "[Facebook](https://www.facebook.com/cinetenisverde/) | [Twitter](https://twitter.com/cinetenisverde) | [Github](https://github.com/Caloni/cinetenisverde)"
     googleSearch = "005399618489749432245:uxhode2mus4"
