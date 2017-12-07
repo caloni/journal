@@ -1,5 +1,4 @@
 ---
-draft: "true"
 imdb: "1837492"
 stars: "1/5"
 tags: ['netflix']
