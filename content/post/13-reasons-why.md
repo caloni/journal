@@ -2,10 +2,10 @@
 draft: "true"
 imdb: "1837492"
 stars: "1/5"
-tags: ['netflix', 'cabine']
+tags: ['netflix']
 date: 2017-12-07T01:12:59
 title: "13 Reasons Why"
-categories: "movies"
+categories: "blog"
 _title: "13 Reasons Why"
 _year: "2017"
 _director: ["Gregg Araki", "Kyle Patrick Alvarez", "Carl Franklin", "Tom McCarthy", "Helen Shaver", "Jessica Yu", ]
