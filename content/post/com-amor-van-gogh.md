@@ -1,7 +1,7 @@
 ---
 imdb: "3262342"
 stars: "4/5"
-tags: ['netflix', 'cabine']
+tags: ['cinema']
 date: 2017-12-09T22:42:16
 title: "Com Amor Van Gogh"
 categories: "movies"
