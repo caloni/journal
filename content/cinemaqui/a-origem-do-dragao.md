@@ -1,28 +1,9 @@
 ---
 imdb: "2720826"
-stars: "4/5"
-tags: ['cabine']
 date: 2017-12-14T23:20:35
 title: "A Origem do Dragão"
-categories: "movies"
-_title: "Birth of the Dragon"
-_year: "2016"
-_director: ["George Nolfi", ]
-_writer: ["Stephen J. Rivele", "Christopher Wilkinson", "Michael Dorgan", ]
-_cast: ["Yu Xia (Wong Jack Man)", "Wang Xi'An (Tai Chi Grandmaster / Wang Lian)", "Hai Yu (Shaolin Abbot)", "Yue Wu (Wang Biao)", "Billy Magnussen (Steve McKee)", "Steven Roberts (Beat Poet)", "Riley Wood (Hippie Girl)", "Philip Ng (Bruce Lee)", "Simon Yin (Vinnie Wei)", "Terry Chen (Frankie Chen)", "Ron Yuan (Tony Yu)", "Lillian Lim (Janet Wei)", "Yee Jee Tso (Winston Peng)", "Jingjing Qu (Xiulan Quan)", "Simon Chin (Wai Fu)", "Nickson Kong (Wong's Cousin)", "Peter Chao (Busboy)", "Hawlan Ng (Valet)", "Xing Jin (Auntie Blossom)", ]
-_countries: ["China", ]
-_languages: ["English", ]
-_editor: ["Joel Viertel", ]
-_cinematographer: ["Amir Mokri", ]
-_music: ["Reza Safinia", "H. Scott Salinas", ]
-_artdirection: ["Craig Humphries", "Catherine Ircha", ]
-_costume designer: ["Aieisha Li", ]
-_genres: ["Action", ]
-_runtimes: ["95", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMzk3OTQ4MjY0OF5BMl5BanBnXkFtZTgwNzQ2MTcwMzI@.jpg"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMzk3OTQ4MjY0OF5BMl5BanBnXkFtZTgwNzQ2MTcwMzI@._V1._SX95_SY140_.jpg"
-_releasedate: "28 December 2017"
+categories: "cinemaqui"
+draft: "true"
 ---
 A Origem do Dragão possui a alma de Bruce Lee. Ele é simples, conciso, mas ao mesmo tempo seus personagens chamam a atenção apenas por existirem, assim como Bruce chamava a atenção de Hollywood apenas por ser um lutador chinês trazendo lições milenares para o Ocidente. Observe os dois mestres de kung fu deste filme e me diga que não consegue entender e admirar a própria filosofia desta arte marcial. Curiosamente o filme enxerga mais beleza nesses personagens, o que dizem e fazem, do que a forma como lutam. O que já é uma ótima notícia vinda de um trabalho intimista que poderia cair no pecado de chamar atenção para si mesmo pelas lutas e holofotes.
 
@@ -43,3 +24,7 @@ O ator que faz Bruce Lee, Philip Ng, consegue aliar sua origem tradicional com s
 A trilha sonora é uma coisa marcante. Conseguindo harmonizar música de ação com belíssimas flautas ela também harmoniza com a fotografia, que exalta os mestres com luzes amarelas. Até a luz que incide sobre Wong Jack Wang no dia da luta revela que ele está dividido entre a luz e as trevas. E o que dizer das luzes que entram pelas janelas onde se passa a lendária luta do filme?
 
 Conseguindo criar tensão se haverá uma luta mesmo depois de revelada que ela acontecerá nos letreiros iniciais, A Origem do Dragão é uma grata surpresa do universo de Bruce Lee, pois não se trata totalmente de um caça-níqueis inconsequente. Há uma mensagem por trás das homenagens, referências e lutas. E ironicamente é justamente sobre isso que diziam seus firmes. Sua origem, aparentemente, é uma lição sobre a criação de sua alma. Bem ao estilo milenar chinês.
+
+<hr>"Birth of the Dragon" (China/Canada/USA, 2016), escrito por Stephen J. Rivele, Christopher Wilkinson, Michael Dorgan, dirigido por George Nolfi, com Yu Xia, Wang Xi'An, Hai Yu, Yue Wu, Billy Magnussen<hr>
+
+<h2>Trailer - A Origem do Dragão<h2>
