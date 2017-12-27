@@ -1,0 +1,33 @@
+---
+imdb: "7573686"
+stars: "3/5"
+tags: ['netflix']
+date: 2017-12-27T16:43:04
+title: "Erased: Piloto"
+categories: "blog"
+_title: "Bokudake ga Inai Machi"
+_year: "2017"
+_director: ["Ten Shimoyama", ]
+_writer: ["Kei Sanbe", ]
+_cast: ["Yûki Furukawa (Satoru Fujinuma)", "Tomoka Kurotani (Sachiko Fujinuma)", "Reo Uchikawa (Satoru Fujinuma - Age 10)", "RiRia (Satoru Fujinuma (10-year-old))", "Shigeyuki Totsugi (Gaku Yashiro)", "Jyo Kairi (Hiromi Sugita - Age 10)", "Rinka Kakihara (Kayo Hinazuki - Age 10)", "Mio Yûki (Airi Katagiri)", ]
+_countries: ["Japan", ]
+_languages: ["Japanese", ]
+_cinematographer: ["Koshi Kiyokawa", ]
+_music: ["Ally Hustings", "Tony McVann", ]
+_genres: ["Drama", "Mystery", ]
+_runtimes: ["30", ]
+_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNTEyMDEwMzEtYWRmNC00Y2Q2LWEyNzMtNzQ1MjQ2ZDFiNzM2XkEyXkFqcGdeQXVyNTI1MDU0MzM@._V1_.jpg"
+_kind: "tv series"
+_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNTEyMDEwMzEtYWRmNC00Y2Q2LWEyNzMtNzQ1MjQ2ZDFiNzM2XkEyXkFqcGdeQXVyNTI1MDU0MzM@._V1_UY268_CR4,0,182,268_AL_.jpg"
+---
+Esta é uma série fantástica baseada tão fortemente em um mangá e anime que ele pode ser o delírio do fã das obras originais ou atiçar a curiosidade do cinéfilo. Por que a curiosidade? Se observarmos os movimentos de câmera, a forma de disposição dos personagens e dos elementos em cena perceberemos que esta obra continua sendo um anime em forma.
+
+Em conteúdo também. A narração dos pensamentos e sentimentos do herói é a típica adaptação narrativa que o Ocidente faz para o Oriente. Além disso a noveliza, para que o telespectador de celular perceba detalhes óbvios como quem é a mãe do personagem. Ao mesmo tempo cria situações extremamente improváveis, como alguém que acabou de acordar de um acidente e pergunta pra sua colega de trabalho por que ela trabalha. Ela responde: para realizar um sonho. Isso é tão atípico que só pode ser um programa da TV de domingo.
+
+Mas voltemos aos movimentos de câmera. Eles vão deslizando de lado em cenários com elementos animados. Às vezes são crianças brincando com balões coloridos, às vezes um trem surge perfeitamente ao fundo. Essa elementos ficam lindos em animações. Já neste live action com pouca inspiração em sua fotografia, soa plástico, inventado. Esses detalhes faz o cinéfilo pensar pra que tudo isso ou se isso quer reproduzir o anime e se tornar querido pelos fãs.
+
+Aliás, já notou como os eventos especiais do protagonista acontecem em um lugar aberto com as pessoas distribuídas de maneira uniformemente caótica. Parece uma praça ou uma rua cinematográfica ou quadros estáticos onde os talentosos desenhistas irão inserir elementos móveis.
+
+A história é criativa e pode ser interessante: o rapaz que não gosta da mãe por perto e tenta fazer seu mangá ter sucesso tem um poder: ele volta no tempo (um pouquinho só) quando algo ruim vai acontecer. Este algo ruim pode ser evitado por ele. Este é um acontecimento que ele não tem controle. Ou tem, como vimos próximo do final. Nunca saberemos se a regra dos roteiristas vai se formando pela conveniência ou por um intrincado jogo de causa e efeito como em [Steins;Gate](/steins-gate). Mas eu chuto pelo primeiro.
+
+A história gira em torno do acontecimento fantástico. O nosso herói tem uma personalidade que tanto faz. Ele é o centro de acontecimentos fantásticos e ponto. Ao final do episódio uma reviravolta que quebra uma certa regra, e está lançado o gancho para espectadores apaixonados por animes apreciarem um anime desenhado usando pessoas de carne e osso e balões de verdade.

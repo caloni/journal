@@ -4,7 +4,7 @@ stars: "2/5"
 tags: ['netflix']
 date: 2017-09-15T21:13:15
 title: "Onde Está Segunda?"
-categories: "movies"
+categories: "blog"
 _title: "Seven Sisters"
 _year: "2017"
 _director: ["Tommy Wirkola", ]
