@@ -4,6 +4,7 @@ imdb: "2872750"
 stars: "4/5"
 categories: "movies"
 title: "Shaun: O Carneiro"
+revision: [2017-12-21]
 _title: "Shaun the Sheep Movie"
 _year: "2015"
 _director: ["Mark Burton", "Richard Starzak", ]

@@ -115,35 +115,7 @@ $(document).ready(function(){
 
 <table class="sortable">
 <input type="text" name="filter" value="" id="filter" style="width: 100%; font-size: 22px;" title=""/>
-{{ range $index, $element := (where .Data.Pages "Section" "post") }}
-<tr><td>
-      <a href="{{ .Permalink }}"
-      title="
-      Post Title: {{ .Params.title }}
-      Post Date: {{ .Params.date }}
-      Post Category: {{ .Params.category }}
-      Post Stars: {{ .Params.stars }}
-      Post Tags: {{ .Params.tags }}
-      Revision Dates: {{ .Params.revision }}
-      Original Title: {{ .Params._title }}
-      Year: {{ .Params._year }}
-      Director: {{ .Params._director }}
-      Writer: {{ .Params._writer }}
-      Cast: {{ .Params._cast }}
-      Country: {{ .Params._countries }}
-      Editor: {{ .Params._editor }}
-      Cinematographer: {{ .Params._cinematographer }}
-      Music: {{ .Params._music }}
-      Genres: {{ .Params._genres }}
-      Runtime: {{ .Params._runtimes }}
-      Kind: {{ .Params._kind }}
-      Ratio: {{ .Params._ratio }}
-      Release Date: {{ .Params._releasedate }}
-      "
-      >
-      {{ .Title }}
-      </a>
-</td></tr>
+{{ range $index, $element := (where .Data.Pages "Section" "post") }} <tr><td> <a href="{{ .Permalink }}"> {{ .Title }} </a> </td></tr> 
 {{ end }}
 </table>
 

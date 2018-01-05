@@ -62,7 +62,7 @@ def PublishToTwitter(postInfo, img):
     t_up = twitter.Twitter(domain='upload.twitter.com', auth=twitter_credentials.auth)
     id_img1 = t_up.media.upload(media=img)["media_id_string"]
     stars = PrintStars(postInfo['stars']) if postInfo.has_key('stars') else ''
-    st = stars + ' ' + postInfo['title'] + ' ' + postInfo['shortlink'] + ' ' + postInfo['tags']
+    st = stars + ' ' + postInfo['title'] + ' ' + postInfo['shortlink']
     t.statuses.update(status=st, media_ids=",".join([id_img1]))
 
 
@@ -71,7 +71,7 @@ def PublishToFacebook(postInfo, img):
     http://nodotcom.org/python-facebook-tutorial.html
     """
     stars = PrintStars(postInfo['stars']) if postInfo.has_key('stars') else ''
-    st = stars + ' ' + postInfo['title'] + '\n\n' + postInfo['paragraph'] + '\n\n' + 'http://www.cinetenisverde.com.br/' + postInfo['permalink'] + '\n' + postInfo['tags']
+    st = stars + ' ' + postInfo['title'] + '\n\n' + postInfo['paragraph'] + '\n\n' + 'http://www.cinetenisverde.com.br/' + postInfo['permalink']
     post = facebook_credentials.auth.put_photo(image=img, message=st)
 
 
@@ -142,12 +142,6 @@ def GetPostInfo(post):
         m = re.match('^category: \"(.*)\"', l)
         if m:
             postInfo['category'] = m.group(1)
-    postInfo['tags'] = ''
-    with open(postInfo['file']) as f:
-        metadata, content = frontmatter.parse(f.read())
-        if metadata.has_key('tags'):
-            for t in metadata['tags']:
-                postInfo['tags'] = postInfo['tags'] + ' #' + t
     return postInfo
 
 
