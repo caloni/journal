@@ -33,7 +33,7 @@ Robert Zemeckis parece não ter pressa em avançar a história, pois quer que co
 
 E é por isso que sua conclusão possui a força acumulada de nossas próprias conclusões a respeito. Não torcemos mais apenas por sua absolvição, mas por sua redenção. Ele é uma pessoa que tem tudo para dar certo, mas para isso precisa encarar a realidade à sua volta sem o efeito do álcool. Como não gostar de um filme desses, que abre questões tão relevantes sobre o caráter humano e possui coragem para seguir adiante?
 
-Seção com spoiler e análise da decupagem de Zemeckis.
+Abaixo seção com spoiler e análise da decupagem de Zemeckis.
 
 Um dos trabalhos do diretor é enquadrar as cenas de um filme de maneira que possam trazer um significado a mais apenas pela disposição dos elementos em cena. É conhecido na linguagem cinematográfica que os elementos postos à direita da tela possuem mais relevância e são uma posição dominante no imaginário do espectador. Já com o lado esquerdo ocorre o inverso.
 
@@ -42,4 +42,3 @@ No caso de O Voo, o piloto Whip Whitaker não possui controle sobre sua vida, e 
 A partir do momento em que Whip Whitaker decide contar a verdade a respeito da bebida em sua vida e passa a ter responsabilidade sobre seus atos o diretor Robert Zemeckis faz uma belíssima transição girando a câmera em torno de Whip Whitaker e o colocando já na prisão, anos depois, falando aos presos. A câmera continua a enfocar o ex-piloto, só que nesse momento ele está no centro da tela. Daí ocorre algo que considero tão emocionante quanto brilhante: a câmera ao se aproximar do protagonista vai lentamente o colocando à direita da tela, em um claro reajuste da própria postura do sujeito a partir de então para com sua vida. Também no diálogo final com seu filho ele está pela primeira vez totalmente à direita da tela, quando fecha a última cena.
 
 Repito a pergunta feita no texto sem spoilers: como não gostar de um filme desses?
-
