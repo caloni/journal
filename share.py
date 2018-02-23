@@ -75,6 +75,16 @@ def PublishToFacebook(postInfo, img):
     post = facebook_credentials.auth.put_photo(image=img, message=st)
 
 
+def PublishToTelegram(postInfo, img):
+    stars = PrintStars(postInfo['stars']) if postInfo.has_key('stars') else ''
+    st = stars + ' ' + postInfo['title'] + '\n\n' + postInfo['paragraph'] + '\n\n'
+    if postInfo.has_key('cabine'):
+        st = st + 'https://github.com/Caloni/cinetenisverde/tree/master/content/cinemaqui/' + postInfo['permalink'] + '.md'
+    else:
+        st = st + 'http://www.cinetenisverde.com.br/' + postInfo['permalink']
+    print st
+
+
 #def PublishToAdoroCinema(postInfo):
 #    driver = webdriver.Chrome()
 #    postUrl = 'http://www.cinetenisverde.com.br/' + postInfo['permalink']
@@ -142,6 +152,9 @@ def GetPostInfo(post):
         m = re.match('^category: \"(.*)\"', l)
         if m:
             postInfo['category'] = m.group(1)
+        m = re.match('^cabine: \"(.*)\"', l)
+        if m:
+            postInfo['cabine'] = True
     return postInfo
 
 
@@ -196,9 +209,11 @@ def PublishToSocialMedia(post, img):
         imgUrl = urllib2.urlopen(img)
         img = imgUrl.read()
         print '*** Publishing to Twitter'
-        PublishToTwitter(postInfo, img)
+        #PublishToTwitter(postInfo, img)
         print '*** Publishing to Facebook'
-        PublishToFacebook(postInfo, img)
+        #PublishToFacebook(postInfo, img)
+        print '*** Publishing to Telegram'
+        PublishToTelegram(postInfo, img)
         print '*** Done!'
         SearchAdoroCinema(postInfo)
         webbrowser.open_new_tab(link)
