@@ -209,9 +209,9 @@ def PublishToSocialMedia(post, img):
         imgUrl = urllib2.urlopen(img)
         img = imgUrl.read()
         print '*** Publishing to Twitter'
-        #PublishToTwitter(postInfo, img)
+        PublishToTwitter(postInfo, img)
         print '*** Publishing to Facebook'
-        #PublishToFacebook(postInfo, img)
+        PublishToFacebook(postInfo, img)
         print '*** Publishing to Telegram'
         PublishToTelegram(postInfo, img)
         print '*** Done!'
