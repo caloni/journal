@@ -3,7 +3,7 @@ date: "2017-02-16"
 categories: "movies"
 title: "Cinquenta Tons Mais Escuros"
 imdb: "4465564"
-stars: "3/5"
+stars: "2/5"
 tags: ['cinema']
 _title: "Fifty Shades Darker"
 _year: "2017"
