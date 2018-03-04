@@ -22,14 +22,6 @@ import adorocinema_cinetenisverde as adorocinema_credentials
 baseUrl = 'http://www.cinetenisverde.com.br/' 
 
 
-def GetShortener(shortener):
-    ret = None
-    if shortener == 'Google':
-        ret = Shortener(shortener, api_key= 'AIzaSyCuDCcM1utV1zbkiRDd-TX_8FrYT9ApISw')
-    else:
-        ret = Shortener(shortener)
-    return ret
-
 
 def WebPageExists(url):
     try:
@@ -53,6 +45,20 @@ def PrintStars(stars):
     return ret.encode('utf-8')
 
 
+def GetSentence(postInfo, remaining):
+    sentence = postInfo['paragraph']
+    sentenceEnd = sentence.find('.')
+    if sentenceEnd == -1:
+        sentenceEnd = min(remaining, len(s))
+    sentenceEnd = min(sentenceEnd, remaining)
+    sentence = sentence[0:sentenceEnd+1]
+    if sentence[-1] == ' ':
+        sentence = sentence[0:-1] + '...'
+    elif sentence[-1] != '.':
+        sentence = sentence + '...'
+    return sentence.decode('utf8')
+
+
 def PublishToTwitter(postInfo, img):
     """
     https://pypi.python.org/pypi/twitter
@@ -61,8 +67,11 @@ def PublishToTwitter(postInfo, img):
     
     t_up = twitter.Twitter(domain='upload.twitter.com', auth=twitter_credentials.auth)
     id_img1 = t_up.media.upload(media=img)["media_id_string"]
+
     stars = PrintStars(postInfo['stars']) if postInfo.has_key('stars') else ''
-    st = stars + ' ' + postInfo['title'] + ' ' + postInfo['shortlink']
+    remaining = 130 - len(stars.decode('utf8') + ' ' + postInfo['title'].decode('utf8') + '\n' + '\n' + postInfo['shortlink'])
+    sentence = GetSentence(postInfo, remaining)
+    st = stars.decode('utf8') + ' ' + postInfo['title'].decode('utf8') + '\n' + sentence + '\n' + postInfo['shortlink']
     t.statuses.update(status=st, media_ids=",".join([id_img1]))
 
 
@@ -71,7 +80,7 @@ def PublishToFacebook(postInfo, img):
     http://nodotcom.org/python-facebook-tutorial.html
     """
     stars = PrintStars(postInfo['stars']) if postInfo.has_key('stars') else ''
-    st = stars + ' ' + postInfo['title'] + '\n\n' + postInfo['paragraph'] + '\n\n' + 'http://www.cinetenisverde.com.br/' + postInfo['permalink']
+    st = stars + ' ' + postInfo['title'] + '\n\n' + postInfo['paragraph'] + '\n\n' + postInfo['shortlink']
     post = facebook_credentials.auth.put_photo(image=img, message=st)
 
 
@@ -194,17 +203,12 @@ def PublishToSocialMedia(post, img):
         while WebPageExists(link) == False:
             time.sleep(10)
 
-        lastShortener = 'Google'
-        shortenerOk = False
-        while shortenerOk == False:
-            time.sleep(3)
-            try:
-                shortener = GetShortener(lastShortener)
-                postInfo['shortlink'] = baseUrl + postInfo['permalink']
-                shortenerOk = True
-            except Exception as e:
-                print "Exception in shortener, waiting: ", str(e)
-                lastShortener = 'Google' if lastShortener != 'Google' else 'Tinyurl'
+        postInfo['shortlink'] = baseUrl + postInfo['permalink']
+        try:
+            shortener = Shortener('Google', api_key= 'AIzaSyCuDCcM1utV1zbkiRDd-TX_8FrYT9ApISw')
+            postInfo['shortlink'] = shortener.short(postInfo['shortlink'])
+        except Exception as e:
+            print "Exception in shortener, using full url ", postInfo['shortlink']
 
         imgUrl = urllib2.urlopen(img)
         img = imgUrl.read()
