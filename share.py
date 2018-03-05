@@ -80,7 +80,7 @@ def PublishToFacebook(postInfo, img):
     http://nodotcom.org/python-facebook-tutorial.html
     """
     stars = PrintStars(postInfo['stars']) if postInfo.has_key('stars') else ''
-    st = stars + ' ' + postInfo['title'] + '\n\n' + postInfo['paragraph'] + '\n\n' + postInfo['shortlink']
+    st = stars.decode('utf8') + ' ' + postInfo['title'].decode('utf8') + '\n\n' + postInfo['paragraph'].decode('utf8') + '\n\n' + postInfo['shortlink'].decode('utf8')
     post = facebook_credentials.auth.put_photo(image=img, message=st)
 
 
