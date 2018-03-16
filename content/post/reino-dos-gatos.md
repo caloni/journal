@@ -1,23 +1,10 @@
 ---
-date: "2013-11-09"
 imdb: "0347618"
+date: "2013-11-09"
+categories: "movies"
 title: "Reino dos Gatos"
 stars: "3/5"
-categories: "movies"
-_title: "Neko no ongaeshi"
-_year: "2002"
-_director: ["Hiroyuki Morita", ]
-_writer: ["Aoi Hiiragi", "Reiko Yoshida", "Cindy Davis Hewitt", "Donald H. Hewitt", ]
-_cast: ["Chizuru Ikewaki", "Yoshihiko Hakamada", "Aki Maeda", "Takayuki Yamada", "Hitomi Satô", "Kenta Satoi", "Mari Hamada", "Tetsu Watanabe", "Yôsuke Saitô", ]
-_countries: ["Japan", ]
-_languages: ["Japanese", ]
-_music: ["Yuji Nomi", ]
-_genres: ["Animation", ]
-_runtimes: ["75", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQ5ODMyNTgzOV5BMl5BanBnXkFtZTcwNDM4ODAyNw@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQ5ODMyNTgzOV5BMl5BanBnXkFtZTcwNDM4ODAyNw@@._V1._SX99_SY140_.jpg"
+desc: "Reino dos Gatos. Neko no ongaeshi (Japan, 2002). Dirigido por Hiroyuki Morita. Escrito por Aoi Hiiragi, Reiko Yoshida, Cindy Davis Hewitt, Donald H. Hewitt. Com Chizuru Ikewaki, Yoshihiko Hakamada, Aki Maeda, Takayuki Yamada, Hitomi Satô, Kenta Satoi, Mari Hamada, Tetsu Watanabe, Yôsuke Saitô."
 ---
 Assim como em Mundo dos Pequeninos, aqui os estúdios Ghibli fazem o que a Disney/Pixar começa a copiar: pequenas produções sem história desenvolvida para Cinema, mas que ganha a simpatia por usar os mesmos traços conhecidos de produções mais pomposas, como as dirigidas por Miyazaki.
 

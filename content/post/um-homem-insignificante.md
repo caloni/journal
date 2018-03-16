@@ -1,25 +1,11 @@
 ---
+tags: ['mostrasp']
+imdb: "3917908"
 date: "2016-11-02"
 categories: "movies"
 title: "Um Homem Insignificante"
-imdb: "3917908"
 stars: "4/5"
-tags: ['mostrasp']
-_title: "An Insignificant Man"
-_year: "2016"
-_director: ["Khushboo Ranka", "Vinay Shukla", ]
-_writer: ["Khushboo Ranka", "Vinay Shukla", ]
-_cast: ["Arvind Kejriwal (Arvind Kejriwal)", "Santosh Koli (Santosh Koli)", "Manish Sisodia (Manish Sisodia)", "Yogendra Yadav (Yogendra Yadav)", ]
-_countries: ["India", ]
-_languages: ["Hindi", ]
-_editor: ["Manan Bhatt", "Abhinav Tyagi", ]
-_cinematographer: ["Khushboo Ranka", "Vinay Rohira", "Vinay Shukla", ]
-_music: ["Ola Fløttum", ]
-_genres: ["Documentary", ]
-_runtimes: ["96", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNTdhOTM2MzAtYzMyYS00NTkxLWIwNDMtMjMyODhlMDk1ZjJkXkEyXkFqcGdeQXVyMTU3MDU1NDY@.jpg"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNTdhOTM2MzAtYzMyYS00NTkxLWIwNDMtMjMyODhlMDk1ZjJkXkEyXkFqcGdeQXVyMTU3MDU1NDY@._V1._SX95_SY140_.jpg"
+desc: "Um Homem Insignificante. An Insignificant Man (India, 2016). Dirigido por Khushboo Ranka, Vinay Shukla. Escrito por Khushboo Ranka, Vinay Shukla. Com Arvind Kejriwal (Arvind Kejriwal), Santosh Koli (Santosh Koli), Manish Sisodia (Manish Sisodia), Yogendra Yadav (Yogendra Yadav)."
 ---
 Fui convidado a assistir este documentário por um de seus diretores, Vinay Shukla, na 40a. Mostra de São Paulo. Fiquei imensamente lisonjeado pelo Cine Tênis Verde ser reconhecido como uma fonte de conhecimento a respeito da sétima arte. Temos feito o possível para incluir nesse festival o máximo de textos. Como já havia agenda (e recursos) para tal, selecionei-o na sua última sessão, dia 1. Curiosamente quase não consegui assisti-lo graças à bagunça que foi a cabine de Snowden, de Oliver Stone, na manhã do mesmo dia. Felizmente consegui chegar a tempo de ver o que os diretores estreantes haviam bolado a respeito dos últimos acontecimentos políticos em um país muito próximo culturalmente ao Brasil. E fiquei mais feliz ainda ao ter gostado, e muito, do filme, o que evita que eu seja obrigado, por integridade, a tecer críticas pesadas aos idealizadores do longa. Não foi dessa vez ;)
 

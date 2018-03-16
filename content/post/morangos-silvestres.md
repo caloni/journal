@@ -1,26 +1,10 @@
 ---
-date: "2016-01-05"
 imdb: "0050986"
-stars: "4/5"
+date: "2016-01-05"
 categories: "movies"
 title: "Morangos Silvestres"
-_title: "Smultronstället"
-_year: "1957"
-_director: ["Ingmar Bergman", ]
-_writer: ["Ingmar Bergman", ]
-_cast: ["Victor Sjöström", "Bibi Andersson", "Ingrid Thulin", "Gunnar Björnstrand", "Jullan Kindahl", "Folke Sundquist", "Björn Bjelfvenstam", "Naima Wifstrand", "Gunnel Broström", ]
-_countries: ["Sweden", ]
-_languages: ["Swedish", ]
-_editor: ["Oscar Rosander", ]
-_cinematographer: ["Gunnar Fischer", ]
-_music: ["Erik Nordgren", "Göte Lovén", ]
-_costume designer: ["Millie Ström", ]
-_genres: ["Drama", ]
-_runtimes: ["91", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjgwNjI3NTM1MF5BMl5BanBnXkFtZTgwNzY3MTUyMjE@.jpg"
-_ratio: "1.37 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjgwNjI3NTM1MF5BMl5BanBnXkFtZTgwNzY3MTUyMjE@._V1._SX96_SY140_.jpg"
+stars: "4/5"
+desc: "Morangos Silvestres. Smultronstället (Sweden, 1957). Dirigido por Ingmar Bergman. Escrito por Ingmar Bergman. Com Victor Sjöström, Bibi Andersson, Ingrid Thulin, Gunnar Björnstrand, Jullan Kindahl, Folke Sundquist, Björn Bjelfvenstam, Naima Wifstrand, Gunnel Broström."
 ---
 Os filmes de Ingmar Bergman tem um efeito hipnótico que é difícil se desvencilhar. Pelo menos para mim. Todo filme que assisto dele, quase morro de sono.
 

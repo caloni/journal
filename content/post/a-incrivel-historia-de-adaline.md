@@ -1,27 +1,10 @@
 ---
-date: "2015-09-11"
 imdb: "1655441"
-stars: "3/5"
+date: "2015-09-11"
 categories: "movies"
 title: "A Incrível História de Adaline"
-_title: "The Age of Adaline"
-_year: "2015"
-_director: ["Lee Toland Krieger", ]
-_writer: ["J. Mills Goodloe", "Salvador Paskowitz", "J. Mills Goodloe", "J. Mills Goodloe", "Salvador Paskowitz", ]
-_cast: ["Blake Lively", "Michiel Huisman", "Harrison Ford", "Ellen Burstyn", "Kathy Baker", "Amanda Crew", "Lynda Boyd", "Hugh Ross", "Richard Harmon", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Melissa Kent", ]
-_cinematographer: ["David Lanzenberg", ]
-_music: ["Rob Simonsen", ]
-_artdirection: ["Martina Javorova", ]
-_costume designer: ["Angus Strathie", ]
-_genres: ["Drama", ]
-_runtimes: ["112", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTAzMTQzMTA2MjheQTJeQWpwZ15BbWU4MDk2MTg2MzUx.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTAzMTQzMTA2MjheQTJeQWpwZ15BbWU4MDk2MTg2MzUx._V1._SX93_SY140_.jpg"
+stars: "3/5"
+desc: "A Incrível História de Adaline. The Age of Adaline (USA, 2015). Dirigido por Lee Toland Krieger. Escrito por J. Mills Goodloe, Salvador Paskowitz, J. Mills Goodloe, J. Mills Goodloe, Salvador Paskowitz. Com Blake Lively, Michiel Huisman, Harrison Ford, Ellen Burstyn, Kathy Baker, Amanda Crew, Lynda Boyd, Hugh Ross, Richard Harmon."
 ---
 A premissa por trás de "Adaline" é muito interessante, como toda ficção científica bem imaginada costuma ser. O filme, aliás, possui diversos pontos altos em sua história. Porém, o novelão romântico ao qual ele se entrega não deixa de incomodar durante todo o tempo, fazendo com que uma experiência fascinante vá aos poucos nos lembrando das velhas fórmulas de fazer romance com um drama genérico.
 

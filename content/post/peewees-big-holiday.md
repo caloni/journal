@@ -1,27 +1,10 @@
 ---
-date: "2016-03-29"
 imdb: "0837156"
-stars: "2/5"
+date: "2016-03-29"
 categories: "movies"
 title: "Pee-wee's Big Holiday"
-_title: "Pee-wee's Big Holiday"
-_year: "2016"
-_director: ["John Lee", ]
-_writer: ["Paul Reubens", "Paul Rust", ]
-_cast: ["Paul Reubens", "Jordan Black", "Doug Cox", "Linda Porter", "Monica Horan", "Brian Palermo", "Katherine VanderLinden", "Tara Buck", "John H. Mayer", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Jeff Buchanan", ]
-_cinematographer: ["Tim Orr", ]
-_music: ["Mark Mothersbaugh", ]
-_artdirection: ["Lindsey Moran", ]
-_costume designer: ["Karen Patch", ]
-_genres: ["Adventure", ]
-_runtimes: ["90", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjIyODA1MzYyM15BMl5BanBnXkFtZTgwMjQxODYyODE@.jpg"
-_ratio: "1.78 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjIyODA1MzYyM15BMl5BanBnXkFtZTgwMjQxODYyODE@._V1._SX94_SY140_.jpg"
+stars: "2/5"
+desc: "Pee-wee's Big Holiday. Pee-wee's Big Holiday (USA, 2016). Dirigido por John Lee. Escrito por Paul Reubens, Paul Rust. Com Paul Reubens, Jordan Black, Doug Cox, Linda Porter, Monica Horan, Brian Palermo, Katherine VanderLinden, Tara Buck, John H. Mayer."
 ---
 Uma experiência lúdica que infelizmente se entrega ao televisivo. Pee-wee Herman já é um personagem conhecido, um misto cômico de Bob Esponja e Mr. Bean que não consegue desempenhar bem nenhuma dessas personas (e se pudesse, seria uma simples cópia) e o resultado é muitas vezes o inverso, tal qual aquele palhaço que vimos na infância e nos apavorou por noites seguidas em nossos piores pesadelos.
 

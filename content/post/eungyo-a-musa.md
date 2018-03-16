@@ -1,25 +1,11 @@
 ---
+tags: ['netflix']
+imdb: "2390253"
 date: "2016-09-04"
 categories: "movies"
 title: "Eungyo - A Musa"
-imdb: "2390253"
 stars: "4/5"
-tags: ['netflix']
-_title: "Eungyo"
-_year: "2012"
-_director: ["Ji-woo Jung", ]
-_writer: ["Ji-woo Jung", "Beom-shin Park", ]
-_cast: ["Hae-il Park", "Mu-Yeol Kim", "Go-eun Kim", "Man-sik Jeong", "Park Cheol-Hyeon", "Jang Yun-sil", "Jeong Seo-in", "Kim Kyeong-il", "Ahn Min-Yeong", ]
-_countries: ["South Korea", ]
-_languages: ["Korean", ]
-_editor: ["Jae-beom Kim", "Sang-beom Kim", ]
-_cinematographer: ["Tae-kyung Kim", ]
-_genres: ["Drama", ]
-_runtimes: ["129", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BZTcwZTMwODUtZTE2Yi00MDQyLWEwM2YtODcwYzc0MWIwODFlXkEyXkFqcGdeQXVyNjUxMDU4NjM@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BZTcwZTMwODUtZTE2Yi00MDQyLWEwM2YtODcwYzc0MWIwODFlXkEyXkFqcGdeQXVyNjUxMDU4NjM@._V1._SX98_SY140_.jpg"
+desc: "Eungyo - A Musa. Eungyo (South Korea, 2012). Dirigido por Ji-woo Jung. Escrito por Ji-woo Jung, Beom-shin Park. Com Hae-il Park, Mu-Yeol Kim, Go-eun Kim, Man-sik Jeong, Park Cheol-Hyeon, Jang Yun-sil, Jeong Seo-in, Kim Kyeong-il, Ahn Min-Yeong."
 ---
 Uma relação entre uma jovem de 17 anos e um velho escritor aclamado de 70 anos é o tema deste drama que começa lúdico, se desenvolve com uma temática ambiciosa com uma crítica de nossa geração, e termina com um inesperado thriller. A sensação é de que ele é longo demais, quando na verdade parece apenas inacabado.
 

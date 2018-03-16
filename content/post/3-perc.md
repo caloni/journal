@@ -1,25 +1,11 @@
 ---
+tags: ['netflix', '3perc', 'series']
+imdb: "4922804"
 date: "2016-12-04"
 categories: "series"
 title: "3%"
-imdb: "4922804"
 stars: "3/5"
-tags: ['netflix', '3perc', 'series']
-_title: "3%"
-_year: "2016"
-_director: ["César Charlone", "Jotagá Crema", "Daina Giannecchini", "Dani Libardi", ]
-_writer: ["Pedro Aguilera", "Jotagá Crema", "Cássio Koshikumo", "Ivan Nakamura", "Denis Nielsen", ]
-_cast: ["João Miguel (Ezequiel)", "Bianca Comparato (Michele Santana)", "Michel Gomes (Fernando Carvalho)", "Rodolfo Valente (Rafael Moreira)", "Vaneza Oliveira (Joana Coelho)", "Viviane Porto (Aline)", "Sérgio Mamberti (Matheus)", "Zezé Motta (Nair)", "Celso Frateschi (Líder da Causa)", ]
-_countries: ["Brazil", ]
-_languages: ["Portuguese", ]
-_cinematographer: ["Eduardo Piagge", ]
-_music: ["André Mehmari", ]
-_artdirection: ["Valdy Lopes", ]
-_genres: ["Action", ]
-_runtimes: ["49::(approx.)", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BYTEzOWYzZDktOTkzZC00ZTcyLThjZDYtNDA2Y2Y1YTcxMzNlXkEyXkFqcGdeQXVyMTkzODUwNzk@.jpg"
-_kind: "tv series"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BYTEzOWYzZDktOTkzZC00ZTcyLThjZDYtNDA2Y2Y1YTcxMzNlXkEyXkFqcGdeQXVyMTkzODUwNzk@._V1._SX94_SY140_.jpg"
+desc: "3%. 3% (Brazil, 2016). Dirigido por César Charlone, Jotagá Crema, Daina Giannecchini, Dani Libardi. Escrito por Pedro Aguilera, Jotagá Crema, Cássio Koshikumo, Ivan Nakamura, Denis Nielsen. Com João Miguel (Ezequiel), Bianca Comparato (Michele Santana), Michel Gomes (Fernando Carvalho), Rodolfo Valente (Rafael Moreira), Vaneza Oliveira (Joana Coelho), Viviane Porto (Aline), Sérgio Mamberti (Matheus), Zezé Motta (Nair), Celso Frateschi (Líder da Causa)."
 ---
 Mais uma série Netflix advinda de um experimento de produtores brasileiros. Cheguei a ver o piloto experimental no YouTube. Parecia promissor, ainda que precisasse de polimento no formato novelístico e superficial. Hoje, com a primeira temporada já produzida em nível Netflix, é possível afirmar que ele ainda precisa de polimento, pois possui os mesmos defeitos ignorados pela gangue de roteiristas.
 

@@ -1,25 +1,11 @@
 ---
-date: "2013-04-03"
+tags: ['thewalkingdead', 'series']
 imdb: "1520211"
+date: "2013-04-03"
+categories: "blog"
 title: "The Walking Dead - Segunda Temporada"
 stars: "3/5"
-categories: "blog"
-tags: ['thewalkingdead', 'series']
-_title: "The Walking Dead"
-_year: "2010"
-_director: ["Ernest R. Dickerson", "Greg Nicotero", "Guy Ferland", "David Boyd", "Bill Gierhart", "Michelle MacLaren", "Tricia Brock", "Seith Mann", "Gwyneth Horder-Payton", ]
-_writer: ["Charlie Adlard", "Frank Darabont", "Robert Kirkman", "Tony Moore", "Scott M. Gimple", "Angela Kang", "Glen Mazzara", "Evan T. Reilly", "Seth Hoffman", ]
-_cast: ["Andrew Lincoln", "Steven Yeun", "Chandler Riggs", "Norman Reedus", "Melissa McBride", "Lauren Cohan", "Emily Kinney", "Danai Gurira", "Sonequa Martin-Green", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Julius Ramsay", "Hunter M. Via", "Avi Youabian", "Nathan Gunn", "Dan Liu", "Kelley Dixon", "Robert Bramwell", ]
-_cinematographer: ["Rohn Schmidt", "Michael Edison Satrazemis", "David Boyd", "Stephen Campbell", ]
-_music: ["Bear McCreary", ]
-_genres: ["Drama", ]
-_runtimes: ["44", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BOTg1MjgwMDQ5Ml5BMl5BanBnXkFtZTgwOTA3MDM5MzE@.jpg"
-_kind: "tv series"
-_cover: "http://ia.media-imdb.com/images/M/MV5BOTg1MjgwMDQ5Ml5BMl5BanBnXkFtZTgwOTA3MDM5MzE@._V1._SX95_SY140_.jpg"
+desc: "The Walking Dead - Segunda Temporada. The Walking Dead (USA, 2010). Dirigido por Ernest R. Dickerson, Greg Nicotero, Guy Ferland, David Boyd, Bill Gierhart, Michelle MacLaren, Tricia Brock, Seith Mann, Gwyneth Horder-Payton. Escrito por Charlie Adlard, Frank Darabont, Robert Kirkman, Tony Moore, Scott M. Gimple, Angela Kang, Glen Mazzara, Evan T. Reilly, Seth Hoffman. Com Andrew Lincoln, Steven Yeun, Chandler Riggs, Norman Reedus, Melissa McBride, Lauren Cohan, Emily Kinney, Danai Gurira, Sonequa Martin-Green."
 ---
 Nunca se viu antes zumbis tão realistas e humanos tão inverossímeis. Não é tão difícil acreditar nos mortos-vivos, pois já vimos isso antes em inúmeras obras do que tornou um sub-gênero do terror. Porém, um grupo de humanos como esse tentando sobreviver nessa selva de carne podre (e dentes, claro) é algo inédito e inacreditável. E mesmo assim, é exatamente dessa forma que a maioria de nós vive, o que acaba não dando muitas esperanças caso o universo de George Romero realmente viesse à tona.
 

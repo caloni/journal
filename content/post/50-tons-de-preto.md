@@ -1,27 +1,11 @@
 ---
-date: "2016-02-19"
-tags: [ "cabine" ]
+tags: ['cabine']
 imdb: "4667094"
-stars: "3/5"
+date: "2016-02-19"
 categories: "movies"
 title: "50 Tons de Preto"
-_title: "Fifty Shades of Black"
-_year: "2016"
-_director: ["Michael Tiddes", ]
-_writer: ["Marlon Wayans", "Rick Alvarez", ]
-_cast: ["Marlon Wayans", "Kali Hawk", "Fred Willard", "Mike Epps", "Affion Crockett", "Jane Seymour", "Florence Henderson", "Andrew Bachelor", "Jenny Zigrino", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Lawrence Jordan", ]
-_cinematographer: ["David Ortkiese", ]
-_music: ["Jim Dooley", ]
-_artdirection: ["Cynthia E. Hill", "Nick Ralbovsky", ]
-_costume designer: ["Ariyela Wald-Cohain", ]
-_genres: ["Comedy", ]
-_runtimes: ["92", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQ3MTg3MzY4OV5BMl5BanBnXkFtZTgwNTI4MzM1NzE@.jpg"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQ3MTg3MzY4OV5BMl5BanBnXkFtZTgwNTI4MzM1NzE@._V1._SX95_SY140_.jpg"
+stars: "3/5"
+desc: "50 Tons de Preto. Fifty Shades of Black (USA, 2016). Dirigido por Michael Tiddes. Escrito por Marlon Wayans, Rick Alvarez. Com Marlon Wayans, Kali Hawk, Fred Willard, Mike Epps, Affion Crockett, Jane Seymour, Florence Henderson, Andrew Bachelor, Jenny Zigrino."
 ---
 Ao ver o trailer desse filme fiquei extremamente empolgado com o tom da comédia-paródia aqui, que brinca com um filme ridículo (que nem é tão ruim assim) que explora as perversões sexuais de um jovem branco rico. Pois bem: aqui temos um negro que ficou rico praticando o estereótipo negro: tráfico de drogas.
 

@@ -1,24 +1,10 @@
 ---
-date: "2014-12-23"
 imdb: "0787474"
+date: "2014-12-23"
+categories: "movies"
 title: "Os Boxtrolls"
 stars: "4/5"
-categories: "movies"
-_title: "The Boxtrolls"
-_year: "2014"
-_director: ["Graham Annable", "Anthony Stacchi", ]
-_writer: ["Irena Brignull", "Phil Dale", "Adam Pava", "Alan Snow", "Anthony Stacchi", ]
-_cast: ["Ben Kingsley", "Jared Harris", "Nick Frost", "Richard Ayoade", "Tracy Morgan", "Dee Bradley Baker", "Steve Blum", "Nika Futterman", "Pat Fraley", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Edie Ichioka", ]
-_music: ["Dario Marianelli", ]
-_genres: ["Animation", ]
-_runtimes: ["96", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQxODA5MDkyNV5BMl5BanBnXkFtZTgwMDMyNjkzMjE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQxODA5MDkyNV5BMl5BanBnXkFtZTgwMDMyNjkzMjE@._V1._SX94_SY140_.jpg"
+desc: "Os Boxtrolls. The Boxtrolls (USA, 2014). Dirigido por Graham Annable, Anthony Stacchi. Escrito por Irena Brignull, Phil Dale, Adam Pava, Alan Snow, Anthony Stacchi. Com Ben Kingsley, Jared Harris, Nick Frost, Richard Ayoade, Tracy Morgan, Dee Bradley Baker, Steve Blum, Nika Futterman, Pat Fraley."
 ---
 Essa animação tem o dom de enganar seus sentidos. Sério. Se você olhar demais para os detalhes vai pensar que a computação usada tem uma ou outra deficiência na composição dos movimentos, particularmente na expressão dos personagens quando eles falam. Até que você se dá conta: os criadores devem ter feito de propósito para dar a impressão de ser uma espécie de stop motion muito perfeito.
 

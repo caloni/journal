@@ -1,25 +1,10 @@
 ---
-date: "2012-02-15"
 imdb: "1615918"
+date: "2012-02-15"
+categories: "movies"
 title: "Alvin e os Esquilos 3"
 stars: "3/5"
-categories: "movies"
-_title: "Alvin and the Chipmunks: Chipwrecked"
-_year: "2011"
-_director: ["Mike Mitchell", ]
-_writer: ["Jonathan Aibel", "Glenn Berger", "Ross Bagdasarian", "Janice Karman", ]
-_cast: ["Jason Lee", "David Cross", "Jenny Slate", "Justin Long", "Matthew Gray Gubler", "Jesse McCartney", "Amy Poehler", "Anna Faris", "Christina Applegate", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Peter Amundson", ]
-_cinematographer: ["Thomas E. Ackerman", ]
-_music: ["Mark Mothersbaugh", ]
-_genres: ["Animation", ]
-_runtimes: ["87", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTMyMTU3NTg5Nl5BMl5BanBnXkFtZTcwNDMyMjc2NQ@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTMyMTU3NTg5Nl5BMl5BanBnXkFtZTcwNDMyMjc2NQ@@._V1._SX94_SY140_.jpg"
+desc: "Alvin e os Esquilos 3. Alvin and the Chipmunks: Chipwrecked (USA, 2011). Dirigido por Mike Mitchell. Escrito por Jonathan Aibel, Glenn Berger, Ross Bagdasarian, Janice Karman. Com Jason Lee, David Cross, Jenny Slate, Justin Long, Matthew Gray Gubler, Jesse McCartney, Amy Poehler, Anna Faris, Christina Applegate."
 ---
 Tenho a nítida impressão que a série Alvin pode ser repetida à exaustão graças à empatia do público com números musicais de sucessos atuais realizados pelo sexteto de esquilinhos. E é necessário apontar: eles são engraçados e fofinhos quase todo o tempo.
 

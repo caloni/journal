@@ -1,27 +1,10 @@
 ---
-date: "2015-11-22"
 imdb: "1951266"
-stars: "5/5"
+date: "2015-11-22"
 categories: "movies"
 title: "Jogos Vorazes: A Esperança - O Final"
-_title: "The Hunger Games: Mockingjay - Part 2"
-_year: "2015"
-_director: ["Francis Lawrence", ]
-_writer: ["Peter Craig", "Danny Strong", "Suzanne Collins", "Suzanne Collins", ]
-_cast: ["Jennifer Lawrence", "Josh Hutcherson", "Liam Hemsworth", "Woody Harrelson", "Donald Sutherland", "Philip Seymour Hoffman", "Julianne Moore", "Willow Shields", "Sam Claflin", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Alan Edward Bell", "Mark Yoshikawa", ]
-_cinematographer: ["Jo Willems", ]
-_music: ["James Newton Howard", ]
-_artdirection: ["Andrew Max Cahn", "Priscilla Elliott", "Wolfgang Metschan", "Lauren E. Polizzi", "David Scheunemann", "Stefan Speth", "Steve Summersgill", "Dan Webster", ]
-_costume designer: ["Kurt and Bart", ]
-_genres: ["Adventure", ]
-_runtimes: ["137", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNjQzNDI2NTU1Ml5BMl5BanBnXkFtZTgwNTAyMDQ5NjE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNjQzNDI2NTU1Ml5BMl5BanBnXkFtZTgwNTAyMDQ5NjE@._V1._SX92_SY140_.jpg"
+stars: "5/5"
+desc: "Jogos Vorazes: A Esperança - O Final. The Hunger Games: Mockingjay - Part 2 (USA, 2015). Dirigido por Francis Lawrence. Escrito por Peter Craig, Danny Strong, Suzanne Collins, Suzanne Collins. Com Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth, Woody Harrelson, Donald Sutherland, Philip Seymour Hoffman, Julianne Moore, Willow Shields, Sam Claflin."
 ---
 Se pudesse resumir com uma palavra não apenas a parte final, mas a saga de quatro filmes baseados nos livros de Suzanne Collins, eu diria que "corajoso" é uma escolha interessante, embora incompleta. Ser corajoso brincando com a noção de poder estatal hoje em dia parece ser chover no molhado, mas é preciso lembrar que o último livro foi lançado em 2010, e em cinco anos muitos detalhes do jogo político do livro foram apreendidos por jovens leitores, além de ser intensificado o debate nas correntes underground desse tipo de discussão. Sim, ser corajoso pertence à lista de motivações literárias de Collins, mas mais do que isso, entender as mudanças em torno da crise de 2008 e se debruçar como realmente funciona o jogo político há milhares de anos é o que torna Jogos Vorazes: a Coleção, como um guia completo de como o governo engana todos seus súditos pelo poder eterno de exploração.
 

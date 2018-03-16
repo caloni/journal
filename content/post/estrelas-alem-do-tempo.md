@@ -1,29 +1,11 @@
 ---
+tags: ['paulocoelho', 'oscar']
+imdb: "4846340"
 date: "2017-02-17"
 categories: "movies"
 title: "Estrelas Além do Tempo"
-imdb: "4846340"
 stars: "5/5"
-tags: ['paulocoelho', 'oscar']
-_title: "Hidden Figures"
-_year: "2016"
-_director: ["Theodore Melfi", ]
-_writer: ["Allison Schroeder", "Theodore Melfi", "Margot Lee Shetterly", ]
-_cast: ["Taraji P. Henson (Katherine G. Johnson)", "Octavia Spencer (Dorothy Vaughan)", "Janelle Monáe (Mary Jackson)", "Kevin Costner (Al Harrison)", "Kirsten Dunst (Vivian Mitchell)", "Jim Parsons (Paul Stafford)", "Mahershala Ali (Colonel Jim Johnson)", "Aldis Hodge (Levi Jackson)", "Glen Powell (John Glenn)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Peter Teschner", ]
-_cinematographer: ["Mandy Walker", ]
-_music: ["Benjamin Wallfisch", "Pharrell Williams", "Hans Zimmer", ]
-_artdirection: ["Jeremy Woolsey", ]
-_costume designer: ["Renee Ehrlich Kalfus", ]
-_genres: ["Biography", ]
-_runtimes: ["127", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjQxOTkxODUyN15BMl5BanBnXkFtZTgwNTU3NTM3OTE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjQxOTkxODUyN15BMl5BanBnXkFtZTgwNTU3NTM3OTE@._V1._SX94_SY140_.jpg"
-_releasedate: "2 February 2017"
+desc: "Estrelas Além do Tempo. Hidden Figures (USA, 2016). Dirigido por Theodore Melfi. Escrito por Allison Schroeder, Theodore Melfi, Margot Lee Shetterly. Com Taraji P. Henson (Katherine G. Johnson), Octavia Spencer (Dorothy Vaughan), Janelle Monáe (Mary Jackson), Kevin Costner (Al Harrison), Kirsten Dunst (Vivian Mitchell), Jim Parsons (Paul Stafford), Mahershala Ali (Colonel Jim Johnson), Aldis Hodge (Levi Jackson), Glen Powell (John Glenn)."
 ---
 "Fortran é uma nova e excitante linguagem usada por programadores para se comunicar com computadores..." -- começa lendo Dorothy Vaughan, líder das programadoras de cor da NASA. É difícil imaginar como uma espécie tão irracional a ponto de subestimar a mente humana baseada na cor e sexo do corpo que a carrega teria conseguido chegar até ao espaço. Assistindo a Estrelas Além do Tempo torna-se difícil imaginar como colocariam um homem branco orbitando o planeta se não fosse pela genial mente humana de Katherine G. Johnson, uma mulher, negra, e gênio.
 

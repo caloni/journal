@@ -1,27 +1,11 @@
 ---
+tags: ['netflix']
+imdb: "0054047"
 date: "2016-10-03"
 categories: "movies"
 title: "Sete Homens E um Destino"
-imdb: "0054047"
 stars: "4/5"
-tags: ['netflix']
-_title: "The Magnificent Seven"
-_year: "1960"
-_director: ["John Sturges", ]
-_writer: ["William Roberts", "Walter Bernstein", "Shinobu Hashimoto", "Akira Kurosawa", "Walter Newman", "Hideo Oguni", ]
-_cast: ["Yul Brynner (Chris Larabee Adams)", "Eli Wallach (Calvera)", "Steve McQueen (Vin Tanner)", "Horst Buchholz (Chico)", "Charles Bronson (Bernardo O'Reilly)", "Robert Vaughn (Lee)", "Brad Dexter (Harry Luck)", "James Coburn (Britt)", "Jorge Martínez de Hoyos (Hilario)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Ferris Webster", ]
-_cinematographer: ["Charles Lang", ]
-_music: ["Elmer Bernstein", ]
-_artdirection: ["Edward Fitzgerald", ]
-_genres: ["Action", ]
-_runtimes: ["128", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMzYyNzU0MTM1OF5BMl5BanBnXkFtZTcwMzE1ODE1NA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMzYyNzU0MTM1OF5BMl5BanBnXkFtZTcwMzE1ODE1NA@@._V1._SX93_SY140_.jpg"
+desc: "Sete Homens E um Destino. The Magnificent Seven (USA, 1960). Dirigido por John Sturges. Escrito por William Roberts, Walter Bernstein, Shinobu Hashimoto, Akira Kurosawa, Walter Newman, Hideo Oguni. Com Yul Brynner (Chris Larabee Adams), Eli Wallach (Calvera), Steve McQueen (Vin Tanner), Horst Buchholz (Chico), Charles Bronson (Bernardo O'Reilly), Robert Vaughn (Lee), Brad Dexter (Harry Luck), James Coburn (Britt), Jorge Martínez de Hoyos (Hilario)."
 ---
 Um filme do velho oeste que é um remake do clássico de Akira Kurosawa, Os Sete Samurais, que acabou virando também meio um clássico. Sua estrutura é poderosa, mexe com heróis incidentais que resolvem salvar uma vila de camponeses das garras do Estado... quer dizer, de uma gangue de bandidos que rouba parte da produção de alimentos para eles próprios sobreviverem. É uma história que mexe com o teatral, mas que mantém sua tensão como todo bom e velho faroeste.
 

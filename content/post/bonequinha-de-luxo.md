@@ -1,25 +1,10 @@
 ---
-date: "2011-11-29"
 imdb: "0054698"
+date: "2011-11-29"
+categories: "movies"
 title: "Bonequinha de Luxo"
 stars: "3/5"
-categories: "movies"
-_title: "Breakfast at Tiffany's"
-_year: "1961"
-_director: ["Blake Edwards", ]
-_writer: ["Truman Capote", "George Axelrod", ]
-_cast: ["Audrey Hepburn", "George Peppard", "Patricia Neal", "Buddy Ebsen", "Martin Balsam", "José Luis de Vilallonga", "John McGiver", "Alan Reed", "Dorothy Whitney", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Howard A. Smith", ]
-_cinematographer: ["Franz Planer", "Philip H. Lathrop", ]
-_music: ["Henry Mancini", ]
-_genres: ["Comedy", ]
-_runtimes: ["115", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMzg3NTI2NzU2NF5BMl5BanBnXkFtZTcwMjQxMTQ5OQ@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMzg3NTI2NzU2NF5BMl5BanBnXkFtZTcwMjQxMTQ5OQ@@._V1._SX93_SY140_.jpg"
+desc: "Bonequinha de Luxo. Breakfast at Tiffany's (USA, 1961). Dirigido por Blake Edwards. Escrito por Truman Capote, George Axelrod. Com Audrey Hepburn, George Peppard, Patricia Neal, Buddy Ebsen, Martin Balsam, José Luis de Vilallonga, John McGiver, Alan Reed, Dorothy Whitney."
 ---
 Curiosamente esse filme ficou conhecido como um clássico, ainda que tenha traços de um verdadeiro cult, tanto pela sua excentricidade quanto pela direção inusitada de Blake Edwards (A Pantera Cor de Rosa), que ilustra a vida de Holly Golightly de uma maneira quase surreal.
 

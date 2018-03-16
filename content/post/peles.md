@@ -1,28 +1,11 @@
 ---
+tags: ['netflix']
+imdb: "5808778"
 date: "2017-04-21"
 categories: "movies"
 title: "Peles"
-imdb: "5808778"
 stars: "4/5"
-tags: ['netflix']
-_title: "Pieles"
-_year: "2017"
-_director: ["Eduardo Casanova", ]
-_writer: ["Eduardo Casanova", ]
-_cast: ["Macarena Gómez (Laura)", "Jon Kortajarena (Guille)", "Carolina Bang (Psiquiatra)", "Ana Polvorosa (Samantha)", "Candela Peña (Ana)", "Carmen Machi (Claudia)", "Secun de la Rosa (Ernesto)", "Eloi Costa (Cristian)", "Joaquín Climent (Alexis)", ]
-_countries: ["Spain", ]
-_languages: ["Spanish", ]
-_editor: ["Juanfer Andrés", ]
-_cinematographer: ["José Antonio Muñoz Molina", "José Antonio Muñoz Molina", ]
-_music: ["Ángel Ramos", ]
-_artdirection: ["Idoia Esteban", ]
-_costume designer: ["Carolina Galiana", ]
-_genres: ["Drama", ]
-_runtimes: ["77", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMzUxZmU1NTAtNDQ4My00NjE1LWI1ZmYtNDViOTNkYTM0YWM2XkEyXkFqcGdeQXVyMjQ3NzUxOTM@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMzUxZmU1NTAtNDQ4My00NjE1LWI1ZmYtNDViOTNkYTM0YWM2XkEyXkFqcGdeQXVyMjQ3NzUxOTM@._V1._SX98_SY140_.jpg"
+desc: "Peles. Pieles (Spain, 2017). Dirigido por Eduardo Casanova. Escrito por Eduardo Casanova. Com Macarena Gómez (Laura), Jon Kortajarena (Guille), Carolina Bang (Psiquiatra), Ana Polvorosa (Samantha), Candela Peña (Ana), Carmen Machi (Claudia), Secun de la Rosa (Ernesto), Eloi Costa (Cristian), Joaquín Climent (Alexis)."
 ---
 Um filme necessário para os negadores da estética objetiva. Aqueles que dizem que "não existe feio" ou que tudo é subjetivo. Porém, este é um filme pesadíssimo, onde uma moça tem sua parte traseira na cara, uma menina sem olhos é mantida em cativeiro e dois deformados se amam e fazem sexo. As cenas são tão pesadas que colorir toda aquela realidade de rosa e roxo parece inevitável. Pelo menos tenta disfarçar a miséria da vida e a miséria que somos como humanidade.
 

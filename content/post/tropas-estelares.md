@@ -1,27 +1,10 @@
 ---
-date: "2016-04-03"
 imdb: "0120201"
-stars: "4/5"
+date: "2016-04-03"
 categories: "movies"
 title: "Tropas Estelares"
-_title: "Starship Troopers"
-_year: "1997"
-_director: ["Paul Verhoeven", ]
-_writer: ["Edward Neumeier", "Robert A. Heinlein", ]
-_cast: ["Casper Van Dien", "Dina Meyer", "Denise Richards", "Jake Busey", "Neil Patrick Harris", "Clancy Brown", "Seth Gilliam", "Patrick Muldoon", "Michael Ironside", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Mark Goldblatt", "Caroline Ross", ]
-_cinematographer: ["Jost Vacano", ]
-_music: ["Basil Poledouris", ]
-_artdirection: ["Bruce Robert Hill", "Steven Wolff", ]
-_costume designer: ["Ellen Mirojnick", ]
-_genres: ["Action", ]
-_runtimes: ["129", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BOTE3MDAyNTM4OF5BMl5BanBnXkFtZTcwMTcxNDI4OA@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BOTE3MDAyNTM4OF5BMl5BanBnXkFtZTcwMTcxNDI4OA@@._V1._SX93_SY140_.jpg"
+stars: "4/5"
+desc: "Tropas Estelares. Starship Troopers (USA, 1997). Dirigido por Paul Verhoeven. Escrito por Edward Neumeier, Robert A. Heinlein. Com Casper Van Dien, Dina Meyer, Denise Richards, Jake Busey, Neil Patrick Harris, Clancy Brown, Seth Gilliam, Patrick Muldoon, Michael Ironside."
 ---
 Star Wars, se Star Wars fosse filme de guerra. Mas não é. Starship Troopers é sobre as tropas de um mundo futurístico, é sobre a curva de responsabilidade dos jovens, é sobre a violência gore disponível aos montes, graças ao diretor Paul Verhoeven ("Robocop O Policial do Futuro"), e, por último, mas não menos importante, sobre a insanidade da guerra, e como ela se repete indefinidamente, de ambos os lados. Mesmo que o outro lado sejam insetos gigantes do outro lado da galáxia.
 

@@ -1,25 +1,10 @@
 ---
-date: "2012-09-06"
 imdb: "1645170"
+date: "2012-09-06"
+categories: "movies"
 title: "O Ditador"
 stars: "4/5"
-categories: "movies"
-_title: "The Dictator"
-_year: "2012"
-_director: ["Larry Charles", ]
-_writer: ["Sacha Baron Cohen", "Alec Berg", "David Mandel", "Jeff Schaffer", ]
-_cast: ["Sacha Baron Cohen", "Sayed Badreya", "Rocky Citron", "Liam Campora", "Aasif Mandvi", "Rizwan Manji", "Rick Chambers", "Elsayed Mohamed", "Adeel Akhtar", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Greg Hayden", "Eric Kissack", ]
-_cinematographer: ["Lawrence Sher", ]
-_music: ["Erran Baron Cohen", ]
-_genres: ["Comedy", ]
-_runtimes: ["83", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjA4NjEyOTc4NV5BMl5BanBnXkFtZTcwODYzMjk2Nw@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjA4NjEyOTc4NV5BMl5BanBnXkFtZTcwODYzMjk2Nw@@._V1._SX92_SY140_.jpg"
+desc: "O Ditador. The Dictator (USA, 2012). Dirigido por Larry Charles. Escrito por Sacha Baron Cohen, Alec Berg, David Mandel, Jeff Schaffer. Com Sacha Baron Cohen, Sayed Badreya, Rocky Citron, Liam Campora, Aasif Mandvi, Rizwan Manji, Rick Chambers, Elsayed Mohamed, Adeel Akhtar."
 ---
 Sacha Baron Cohen possui o melhor de duas comédias que particularmente gosto muito: a com estilo pastelão e a com piadas ácidas, de um humor negro que só é permitido pelas cenas absurdas que sugerem que devemos suprimir nosso sistema moral por cerca de uma hora e meia.
 

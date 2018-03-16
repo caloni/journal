@@ -1,24 +1,11 @@
 ---
+tags: ['paulocoelho']
+imdb: "0018328"
 date: "2017-01-17"
 categories: "movies"
 title: "O Ring"
-imdb: "0018328"
 stars: "2/5"
-tags: ['paulocoelho']
-_title: "The Ring"
-_year: "1927"
-_director: ["Alfred Hitchcock", ]
-_writer: ["Alfred Hitchcock", "Alma Reville", "Eliot Stannard", ]
-_cast: ["Carl Brisson ('One-Round' Jack Sander)", "Lillian Hall-Davis (The Girl)", "Ian Hunter (Bob Corby)", "Forrester Harvey (The Promoter)", "Harry Terry (The Showman)", "Gordon Harker (Jack's Trainer)", "Eugene Corri (Himself - Referee)", "Charles Farrell (Second)", "Clare Greet (Fortune Teller)", ]
-_countries: ["UK", ]
-_cinematographer: ["Jack E. Cox", ]
-_artdirection: ["C. Wilfred Arnold", ]
-_genres: ["Drama", ]
-_runtimes: ["116", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTMxNTQyMTY4MF5BMl5BanBnXkFtZTcwNjY5OTY1NQ@@._V1._CR97.88333129882812,40.53334045410156,159,404._SX55_SY140_.jpg"
-_ratio: "1.33 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTMxNTQyMTY4MF5BMl5BanBnXkFtZTcwNjY5OTY1NQ@@._V1._CR97.88333129882812,40.53334045410156,159,404._SX55_SY140_.jpg"
+desc: "O Ring. The Ring (UK, 1927). Dirigido por Alfred Hitchcock. Escrito por Alfred Hitchcock, Alma Reville, Eliot Stannard. Com Carl Brisson ('One-Round' Jack Sander), Lillian Hall-Davis (The Girl), Ian Hunter (Bob Corby), Forrester Harvey (The Promoter), Harry Terry (The Showman), Gordon Harker (Jack's Trainer), Eugene Corri (Himself - Referee), Charles Farrell (Second), Clare Greet (Fortune Teller)."
 ---
 Hitchcock gosta de criar cenas icônicas em seus filmes. Aqui temos uma mulher apaixonada ao lado do seu amor, quase nocauteado no ringue. Ele também gosta de comédia de situações, e esta é uma delas, onde até o título do filme é um trocadilho em inglês ("ring" pode ser anel ou o ringue de boxe). Este não é um dos seus filmes de crimes, mas um triângulo... um quadrado amoroso. E confuso. São personagens que dificilmente conseguimos lembrar por muito tempo. Parecidos entre si, não caem nos estereótipos e exageros do cinema mudo. O que torna tudo muito difícil de acompanhar.
 

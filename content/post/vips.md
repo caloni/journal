@@ -1,25 +1,10 @@
 ---
-date: "2013-03-04"
 imdb: "1235548"
+date: "2013-03-04"
+categories: "movies"
 title: "VIPs"
 stars: "5/5"
-categories: "movies"
-_title: "VIPs"
-_year: "2010"
-_director: ["Toniko Melo", ]
-_writer: ["Mariana Caltabiano", "Thiago Dottori", "Bráulio Mantovani", ]
-_cast: ["Wagner Moura", "Gisele Fróes", "Emiliano Ruschel", "Marcela Falci", "Heitor Goldflus", "Cecília Homem de Mello", "Roger Gobeth", "Amaury Jr.", "João Francisco Tottene", ]
-_countries: ["Brazil", ]
-_languages: ["Portuguese", ]
-_editor: ["Gustavo Giani", ]
-_cinematographer: ["Mauro Pinheiro Jr.", ]
-_music: ["Antonio Pinto", ]
-_genres: ["Biography", ]
-_runtimes: ["95", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTM1NjQ4Mjk3NF5BMl5BanBnXkFtZTcwNTAxMjg1NA@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTM1NjQ4Mjk3NF5BMl5BanBnXkFtZTcwNTAxMjg1NA@@._V1._SX94_SY140_.jpg"
+desc: "VIPs. VIPs (Brazil, 2010). Dirigido por Toniko Melo. Escrito por Mariana Caltabiano, Thiago Dottori, Bráulio Mantovani. Com Wagner Moura, Gisele Fróes, Emiliano Ruschel, Marcela Falci, Heitor Goldflus, Cecília Homem de Mello, Roger Gobeth, Amaury Jr., João Francisco Tottene."
 ---
 Quando vemos Wagner Moura descendo de helicóptero em uma festa de bacanas e logo em seguida em uma sala de aula imitando seu colega de classe temos em pouquíssimos minutos a exposição de todo o arco dramático de seu personagem. Essa economia ao contar a história de Marcelo permite que o espectador preste atenção a outros detalhes de sua vida, como sua relação com o "pai" ou sua busca por se tornar alguém diferente.
 

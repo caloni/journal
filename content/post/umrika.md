@@ -1,27 +1,11 @@
 ---
+tags: ['netflix']
+imdb: "2614722"
 date: "2016-10-28"
 categories: "movies"
 title: "Umrika"
-imdb: "2614722"
 stars: "4/5"
-tags: ['netflix']
-_title: "Umrika"
-_year: "2015"
-_director: ["Prashant Nair", ]
-_writer: ["Prashant Nair", ]
-_cast: ["Aashish Bhatt (Arun)", "Uplaksh Kochhar (Balwinder)", "Megh Pant (Bhima)", "Mayur More (Delivery Boy)", "Pankaj Chaudhary (Deliver Boy #1)", "Mukesh Agrohari (Farmer #1)", "Pramod Pathak (Father)", "Shreyas Pandit (Gopi)", "Rajesh Singh (Inspector at Docks #1)", ]
-_countries: ["India", ]
-_languages: ["Hindi", ]
-_editor: ["Xavier Box", "Patricia Rommel", ]
-_cinematographer: ["Petra Korner", ]
-_music: ["Dustin O'Halloran", ]
-_costume designer: ["Nyla Masood", ]
-_genres: ["Comedy", ]
-_runtimes: ["98", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMzk2OTE2MGUtZTViMS00ODc3LThmZDEtYjdlZjAwMzQ5N2FjXkEyXkFqcGdeQXVyNDUzOTQ5MjY@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMzk2OTE2MGUtZTViMS00ODc3LThmZDEtYjdlZjAwMzQ5N2FjXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1._SX99_SY140_.jpg"
+desc: "Umrika. Umrika (India, 2015). Dirigido por Prashant Nair. Escrito por Prashant Nair. Com Aashish Bhatt (Arun), Uplaksh Kochhar (Balwinder), Megh Pant (Bhima), Mayur More (Delivery Boy), Pankaj Chaudhary (Deliver Boy #1), Mukesh Agrohari (Farmer #1), Pramod Pathak (Father), Shreyas Pandit (Gopi), Rajesh Singh (Inspector at Docks #1)."
 ---
 Este é um drama bem construído que envolve uma família indiana e as dores da separação e da ilusão entre eles. Às vezes apela demais para a emoção (principalmente no final), mas em sua maioria é uma trama bem desenvolvida e que merece o título de um indie que não parece indie, pois foge das fórmulas mais comuns e acaba caindo em um pesado sonho indiano pautado no americano. Ou deveria dizer umrikaniano?
 

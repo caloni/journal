@@ -1,25 +1,10 @@
 ---
-date: "2014-03-19"
 imdb: "0372588"
+date: "2014-03-19"
+categories: "movies"
 title: "Team America Detonando o Mundo"
 stars: "4/5"
-categories: "movies"
-_title: "Team America: World Police"
-_year: "2004"
-_director: ["Trey Parker", ]
-_writer: ["Trey Parker", "Matt Stone", "Pam Brady", ]
-_cast: ["Trey Parker", "Matt Stone", "Kristen Miller", "Masasa Moyo", "Daran Norris", "Phil Hendrie", "Maurice LaMarche", "Chelsea Marguerite", "Jeremy Shada", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Tom Vogt", ]
-_cinematographer: ["Bill Pope", ]
-_music: ["Harry Gregson-Williams", ]
-_genres: ["Animation", ]
-_runtimes: ["98", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTM2Nzc4NjYxMV5BMl5BanBnXkFtZTcwNTM1MTcyMQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTM2Nzc4NjYxMV5BMl5BanBnXkFtZTcwNTM1MTcyMQ@@._V1._SX100_SY140_.jpg"
+desc: "Team America Detonando o Mundo. Team America: World Police (USA, 2004). Dirigido por Trey Parker. Escrito por Trey Parker, Matt Stone, Pam Brady. Com Trey Parker, Matt Stone, Kristen Miller, Masasa Moyo, Daran Norris, Phil Hendrie, Maurice LaMarche, Chelsea Marguerite, Jeremy Shada."
 ---
 Assistir a "Team America" é como rever os velhos clichês de filmes de equipes de salvamento do mundo (onde o pior exemplo possível é "G.I. Joe - A Origem de Cobra"). As duas diferenças: protagonizados por marionetes e realizado pelos criadores de South Park. O que impressiona no projeto é como os enquadramentos, mudanças de foco e até a movimentação dos "atores" segue uma lógica batidíssima, mas é ao mesmo tempo tecnicamente primoroso e eficaz para a narrativa.
 

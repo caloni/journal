@@ -1,25 +1,10 @@
 ---
-date: "2013-01-31"
 imdb: "0443272"
+date: "2013-01-31"
+categories: "movies"
 title: "Lincoln"
 stars: "4/5"
-categories: "movies"
-_title: "Lincoln"
-_year: "2012"
-_director: ["Steven Spielberg", ]
-_writer: ["Tony Kushner", "Doris Kearns Goodwin", ]
-_cast: ["Daniel Day-Lewis", "Sally Field", "David Strathairn", "Joseph Gordon-Levitt", "James Spader", "Hal Holbrook", "Tommy Lee Jones", "John Hawkes", "Jackie Earle Haley", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Michael Kahn", ]
-_cinematographer: ["Janusz Kaminski", ]
-_music: ["John Williams", ]
-_genres: ["Biography", ]
-_runtimes: ["150", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQzNzczMDUyNV5BMl5BanBnXkFtZTcwNjM2ODEzOA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQzNzczMDUyNV5BMl5BanBnXkFtZTcwNjM2ODEzOA@@._V1._SX95_SY140_.jpg"
+desc: "Lincoln. Lincoln (USA, 2012). Dirigido por Steven Spielberg. Escrito por Tony Kushner, Doris Kearns Goodwin. Com Daniel Day-Lewis, Sally Field, David Strathairn, Joseph Gordon-Levitt, James Spader, Hal Holbrook, Tommy Lee Jones, John Hawkes, Jackie Earle Haley."
 ---
 Talvez Spielberg tenha reverenciado demais a figura do presidente abolicionista. Mas quem poderá acusá-lo? Em uma época onde imperava os pensamentos que vemos do povo e dos seus dirigentes é admirável que o filme comece já com uma figura como ele, vindo do sul e com pensamentos simples e bem colocados, como chefe de estado de uma nação dividida.
 

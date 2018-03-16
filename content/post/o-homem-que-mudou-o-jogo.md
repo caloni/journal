@@ -1,25 +1,10 @@
 ---
-date: "2012-03-06"
 imdb: "1210166"
+date: "2012-03-06"
+categories: "movies"
 title: "O Homem Que Mudou o Jogo"
 stars: "5/5"
-categories: "movies"
-_title: "Moneyball"
-_year: "2011"
-_director: ["Bennett Miller", ]
-_writer: ["Steven Zaillian", "Aaron Sorkin", "Stan Chervin", "Michael Lewis", ]
-_cast: ["Brad Pitt", "Jonah Hill", "Philip Seymour Hoffman", "Robin Wright", "Chris Pratt", "Stephen Bishop", "Reed Diamond", "Brent Jennings", "Ken Medlock", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Christopher Tellefsen", ]
-_cinematographer: ["Wally Pfister", ]
-_music: ["Mychael Danna", ]
-_genres: ["Biography", ]
-_runtimes: ["133", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjAxOTU3Mzc1M15BMl5BanBnXkFtZTcwMzk1ODUzNg@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjAxOTU3Mzc1M15BMl5BanBnXkFtZTcwMzk1ODUzNg@@._V1._SX95_SY140_.jpg"
+desc: "O Homem Que Mudou o Jogo. Moneyball (USA, 2011). Dirigido por Bennett Miller. Escrito por Steven Zaillian, Aaron Sorkin, Stan Chervin, Michael Lewis. Com Brad Pitt, Jonah Hill, Philip Seymour Hoffman, Robin Wright, Chris Pratt, Stephen Bishop, Reed Diamond, Brent Jennings, Ken Medlock."
 ---
 Brad Pitt é um ator com um controle de personagem invejável. Podemos acompanhar sua trajetória em papéis mais exóticos como o do vampiro Louis (Entrevista com o Vampiro), do maníaco Jeffrey Goines (Os 12 Macacos), do inconsequente Tyler Durden (Clube da Luta) e do cômico Tenente Aldo Raine (Bastardos Inglórios) e compararmos com papéis mais contidos ou dramáticos como o pai de família em A Árvore da Vida, o detetive David Mills em Seven e o gerente de um time de beisebol Billy Beane, papel que desempenha em O Homem que Mudou o Jogo que faz ficarmos em dúvida se existem dois, três ou mais clones do ator escondidos e revelados em momentos pontuais de sua carreira.
 

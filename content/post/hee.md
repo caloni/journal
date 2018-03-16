@@ -1,26 +1,11 @@
 ---
+tags: ['mostrasp']
+imdb: "5447294"
 date: "2016-10-28"
 categories: "movies"
 title: "Hee"
-imdb: "5447294"
 stars: "2/5"
-tags: ['mostrasp']
-_title: "Hee"
-_year: "2015"
-_director: ["Kaori Momoi", ]
-_writer: ["Fuminori Nakamura", "Miyuki Takahashi", "Kaori Momoi", "Daisuke Kamijô", ]
-_cast: ["Kaori Momoi (Azusa)", "Yûgo Sasô (Sanada)", "Ayako Fujitani (Mrs. Sanada)", "Brian Sturges (Detective)", "Janilee Svärdstål (Patient)", "Sarah Kei Brooks (Nurse)", "Melody Thi (Miku)", "Mimosa Pagkaliwangan (Yume)", "Chris Harrison (John)", ]
-_countries: ["Japan", ]
-_languages: ["Japanese", ]
-_editor: ["Daisuke Kamijô", "Kaori Momoi", ]
-_cinematographer: ["Gints Berzins", ]
-_music: ["Yohei Shikano", ]
-_artdirection: ["Kaori Momoi", "Jake Wilkens", ]
-_costume designer: ["Kaori Momoi", ]
-_genres: ["Drama", ]
-_runtimes: ["72", ]
-_ratio: "2.39 : 1"
-_kind: "movie"
+desc: "Hee. Hee (Japan, 2015). Dirigido por Kaori Momoi. Escrito por Fuminori Nakamura, Miyuki Takahashi, Kaori Momoi, Daisuke Kamijô. Com Kaori Momoi (Azusa), Yûgo Sasô (Sanada), Ayako Fujitani (Mrs. Sanada), Brian Sturges (Detective), Janilee Svärdstål (Patient), Sarah Kei Brooks (Nurse), Melody Thi (Miku), Mimosa Pagkaliwangan (Yume), Chris Harrison (John)."
 ---
 Uma ideia interessante, estruturada de maneira interessante, e executada desleixadamente. Tem a ver com sexo, tem a ver com drama, tem a ver com crime. E isso, aparentemente, é motivo de sobra para a diretora Kaori Momoi se achar a fodona e deixar todos nós entediados.
 

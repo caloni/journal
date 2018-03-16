@@ -1,24 +1,10 @@
 ---
-date: "2012-03-06"
 imdb: "0048356"
+date: "2012-03-06"
+categories: "movies"
 title: "Marty"
 stars: "5/5"
-categories: "movies"
-_title: "Marty"
-_year: "1955"
-_director: ["Delbert Mann", ]
-_writer: ["Paddy Chayefsky", ]
-_cast: ["Esther Minciotti", "Augusta Ciolli", "Joe Mantell", "Karen Steele", "Jerry Paris", "Betsy Blair", "Ernest Borgnine", "James Bell", "Joe Bell", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_cinematographer: ["Joseph LaShelle", ]
-_music: ["Roy Webb", ]
-_genres: ["Drama", ]
-_runtimes: ["90", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTY4NDI3NDU0MV5BMl5BanBnXkFtZTgwNTk0MDgyMTE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTY4NDI3NDU0MV5BMl5BanBnXkFtZTgwNTk0MDgyMTE@._V1._SX95_SY140_.jpg"
+desc: "Marty. Marty (USA, 1955). Dirigido por Delbert Mann. Escrito por Paddy Chayefsky. Com Esther Minciotti, Augusta Ciolli, Joe Mantell, Karen Steele, Jerry Paris, Betsy Blair, Ernest Borgnine, James Bell, Joe Bell."
 ---
 O que faz Marty ser um filme tão marcante parece ser os mesmos motivos que fizeram com que Laços Humanos, clássico de Elia Kazan, hoje fosse imortalizado. O fato é que, apesar do dramalhão quase mexicano envolvendo a família e os amigos do personagem-título, as atuações e os diálogos  principalmente entre Ernest Borgnine e Betsy Blair  tornam muito difícil não gostar de uma história tão humana e tão sensível.
 

@@ -1,26 +1,11 @@
 ---
-date: "2012-08-16"
 imdb: "0116282"
+date: "2012-08-16"
+categories: "movies"
 count: 2
 title: "Fargo"
 stars: "5/5"
-categories: "movies"
-_title: "Fargo"
-_year: "1996"
-_director: ["Joel Coen", "Ethan Coen", ]
-_writer: ["Ethan Coen", "Joel Coen", ]
-_cast: ["William H. Macy", "Steve Buscemi", "Peter Stormare", "Kristin Rudrüd", "Harve Presnell", "Tony Denman", "Gary Houston", "Sally Wingert", "Kurt Schweickhardt", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Ethan Coen", "Joel Coen", ]
-_cinematographer: ["Roger Deakins", ]
-_music: ["Carter Burwell", ]
-_genres: ["Crime", ]
-_runtimes: ["98", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTgxNzY3MzUxOV5BMl5BanBnXkFtZTcwMDA0NjMyNA@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTgxNzY3MzUxOV5BMl5BanBnXkFtZTcwMDA0NjMyNA@@._V1._SX93_SY140_.jpg"
+desc: "Fargo. Fargo (USA, 1996). Dirigido por Joel Coen, Ethan Coen. Escrito por Ethan Coen, Joel Coen. Com William H. Macy, Steve Buscemi, Peter Stormare, Kristin Rudrüd, Harve Presnell, Tony Denman, Gary Houston, Sally Wingert, Kurt Schweickhardt."
 ---
 É muito simples entrar em uma comédia-thriller dos irmãos Coen. Há dois princípios extremamente eficazes em Fargo: os diálogos que expõem desde o início o caráter de seus caricatos personagens  como ao apresentar em uma inspirada conversa a maneira com que os dois capangas (Steve Buscemi e Peter Stormare) contratados pelo hesitante Jerry Lundegaard (William H. Macy) irão efetuar o sequestro de sua mulher  e os ângulos inusitados de câmera escolhidos por Joel Coen que exaltam o clima surreal dos fatos que irão se sucedendo aos poucos  e para isso há tomadas belíssimas sobre uma neve que ofusca o resto da paisagem e dá preferência para que vejamos o que está de fato ocorrendo na pacata cidadezinha.
 

@@ -1,25 +1,10 @@
 ---
-date: "2011-11-13"
 imdb: "1634122"
+date: "2011-11-13"
+categories: "movies"
 title: "O Retorno de Johnny English"
 stars: "3/5"
-categories: "movies"
-_title: "Johnny English Reborn"
-_year: "2011"
-_director: ["Oliver Parker", ]
-_writer: ["Hamish McColl", "William Davies", "Neal Purvis", "Robert Wade", ]
-_cast: ["Roger Barclay", "Eric Carte", "Rowan Atkinson", "Togo Igawa", "Eleanor Wyld", "Mandi Sidhu", "Margaret Clunie", "Gillian Anderson", "Rosamund Pike", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Guy Bensley", ]
-_cinematographer: ["Danny Cohen", ]
-_music: ["Ilan Eshkeri", ]
-_genres: ["Action", ]
-_runtimes: ["101", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjEzODY2MjU1Nl5BMl5BanBnXkFtZTcwMzc1ODUzNg@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjEzODY2MjU1Nl5BMl5BanBnXkFtZTcwMzc1ODUzNg@@._V1._SX95_SY140_.jpg"
+desc: "O Retorno de Johnny English. Johnny English Reborn (USA, 2011). Dirigido por Oliver Parker. Escrito por Hamish McColl, William Davies, Neal Purvis, Robert Wade. Com Roger Barclay, Eric Carte, Rowan Atkinson, Togo Igawa, Eleanor Wyld, Mandi Sidhu, Margaret Clunie, Gillian Anderson, Rosamund Pike."
 ---
 Não assisti o original, mas a impressão geral desse novo trabalho de Rowan Atkinson, que aqui veste a pele de mais uma paródia de filmes do 007, é que, apesar do roteiro não se importar quase nada com a lógica da sua trama, esse não é motivo que impeça que o longa tenha momentos inspirados, criados principalmente pela boa performance do ator, que consegue flexibilidade para criar outro personagen caricato além de seu mundialmente famoso Mr. Bean.
 

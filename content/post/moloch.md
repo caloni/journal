@@ -1,24 +1,10 @@
 ---
-date: "2012-04-20"
 imdb: "0199777"
+date: "2012-04-20"
+categories: "movies"
 title: "Molokh"
 stars: "4/5"
-categories: "movies"
-_title: "Molokh"
-_year: "1999"
-_director: ["Aleksandr Sokurov", ]
-_writer: ["Yuriy Arabov", "Marina Koreneva", ]
-_cast: ["Elena Rufanova", "Leonid Mozgovoy", "Irina Sokolova", "Yelena Spiridonova", "Vladimir Bogdanov", "Anatoli Shvedersky", "Franco Moscon", "Natalya Nikulenko", "Rosina Tsidulko", ]
-_countries: ["Russia", ]
-_languages: ["German", ]
-_editor: ["Leda Semyonova", ]
-_cinematographer: ["Aleksey Fyodorov", "Anatoli Rodionov", ]
-_genres: ["Drama", ]
-_runtimes: ["108", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTU5ODUzNTE1MV5BMl5BanBnXkFtZTcwNjQzNjgyMQ@@.jpg"
-_ratio: "1.66 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTU5ODUzNTE1MV5BMl5BanBnXkFtZTcwNjQzNjgyMQ@@._V1._SX98_SY140_.jpg"
+desc: "Molokh. Molokh (Russia, 1999). Dirigido por Aleksandr Sokurov. Escrito por Yuriy Arabov, Marina Koreneva. Com Elena Rufanova, Leonid Mozgovoy, Irina Sokolova, Yelena Spiridonova, Vladimir Bogdanov, Anatoli Shvedersky, Franco Moscon, Natalya Nikulenko, Rosina Tsidulko."
 ---
 Aleksandr Sokurov tem um estilo próprio para contar histórias. Quase sempre apostando na imersão do espectador pelos longos quadros e movimentos exóticos de seus personagens, muitas vezes a situação é propícia e gera grandes trabalhos (como Mãe e Filho), e em outras, como este Moloch, fica aquém do impressionante, mas mesmo assim é uma imersão que vale a pena ser vivida.
 

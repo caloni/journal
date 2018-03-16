@@ -1,23 +1,11 @@
 ---
+tags: ['cabine']
+imdb: "5341098"
 date: "2016-11-22"
 categories: "movies"
 title: "O Filho Eterno"
-imdb: "5341098"
 stars: "3/5"
-tags: ['cabine']
-_title: "O Filho Eterno"
-_year: "2016"
-_director: ["Paulo Machline", ]
-_writer: ["Leonardo Levis", "Cristovão Tezza", ]
-_cast: ["Débora Falabella (Cláudia)", "Marcos Veras (Roberto)", "Pedro Vinícius (Fabrício)", ]
-_countries: ["Brazil", ]
-_languages: ["Portuguese", ]
-_genres: ["Drama", ]
-_runtimes: ["82", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BZjg5N2QwZWMtM2ViMy00ZTAxLThmYTYtM2U1ZDhkYTY2ZTZmXkEyXkFqcGdeQXVyOTU3ODk4MQ@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BZjg5N2QwZWMtM2ViMy00ZTAxLThmYTYtM2U1ZDhkYTY2ZTZmXkEyXkFqcGdeQXVyOTU3ODk4MQ@@._V1._SX94_SY140_.jpg"
+desc: "O Filho Eterno. O Filho Eterno (Brazil, 2016). Dirigido por Paulo Machline. Escrito por Leonardo Levis, Cristovão Tezza. Com Débora Falabella (Cláudia), Marcos Veras (Roberto), Pedro Vinícius (Fabrício)."
 ---
 Este é um filme simpático, simples, eficiente e simbólico. Mas faltam personagens, ou ao menos um personagem que sustente o drama, já que enquanto o protagonista precisa se expressar através da escrita e se fecha para o mundo (uma incongruência), seu indesejado filho é um desconhecido para nós, e não há nada no filme inteiro que nos faça pensar diferente do pai. A não ser, é claro, a pura e simples compaixão por um ser humano que, mesmo que não pareça estar ciente do mundo à sua volta, merece supostamente ser amado. E é aí que reside minha bronca com o filme.
 

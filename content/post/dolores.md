@@ -1,24 +1,11 @@
 ---
+tags: ['mostrasp']
+imdb: "4990694"
 date: "2016-10-28"
 categories: "movies"
 title: "Dolores"
-imdb: "4990694"
 stars: "4/5"
-tags: ['mostrasp']
-_title: "Dolores"
-_year: "2016"
-_director: ["Michael Rösel", ]
-_writer: ["Sebastian Feld", ]
-_cast: ["Franziska Petri (Dolores Moor)", "Udo Schenk (Georg Letterer)", "Mathias Herrmann (Chauffeur Anton)", "Mona Petri (Managerin Simone)", "Christian Koch (Wolf Schäfer)", "Vilmar Bieri (Gerichtsvollzieher Müller)", "Alexander Hörbe (Franz Letterer)", "Hede Beck (Lotte Keller)", "Antonio Di Mauro (Gunter)", ]
-_countries: ["Germany", ]
-_languages: ["German", ]
-_editor: ["André Schömitz", ]
-_cinematographer: ["Willy Dettmeyer", ]
-_music: ["Jörg Lemberg", ]
-_costume designer: ["Henrike Luz", ]
-_genres: ["Thriller", ]
-_ratio: "2.35 : 1"
-_kind: "tv movie"
+desc: "Dolores. Dolores (Germany, 2016). Dirigido por Michael Rösel. Escrito por Sebastian Feld. Com Franziska Petri (Dolores Moor), Udo Schenk (Georg Letterer), Mathias Herrmann (Chauffeur Anton), Mona Petri (Managerin Simone), Christian Koch (Wolf Schäfer), Vilmar Bieri (Gerichtsvollzieher Müller), Alexander Hörbe (Franz Letterer), Hede Beck (Lotte Keller), Antonio Di Mauro (Gunter)."
 ---
 Este é um filme feito para a televisão, com um orçamento aparentemente baixo, mas com grandes ideias. Ele repete os passos hitchcockianos e seus mistérios fantasiosos, mas com pouco jeito. Se tratando de um filme que é sobre a cópia perfeita da realidade, este Hitchcock queimou um pouco no forno.
 

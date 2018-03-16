@@ -1,25 +1,10 @@
 ---
-date: "2012-02-15"
 imdb: "0092890"
+date: "2012-02-15"
+categories: "movies"
 title: "Dirty Dancing Ritmo Quente"
 stars: "4/5"
-categories: "movies"
-_title: "Dirty Dancing"
-_year: "1987"
-_director: ["Emile Ardolino", ]
-_writer: ["Eleanor Bergstein", ]
-_cast: ["Jennifer Grey", "Patrick Swayze", "Jerry Orbach", "Cynthia Rhodes", "Jack Weston", "Jane Brucker", "Kelly Bishop", "Lonny Price", "Max Cantor", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Peter C. Frank", ]
-_cinematographer: ["Jeff Jur", ]
-_music: ["John Morris", ]
-_genres: ["Drama", ]
-_runtimes: ["USA:100", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTc3MDY3ODQ2OV5BMl5BanBnXkFtZTgwOTQ2NTYxMTE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTc3MDY3ODQ2OV5BMl5BanBnXkFtZTgwOTQ2NTYxMTE@._V1._SX95_SY140_.jpg"
+desc: "Dirty Dancing Ritmo Quente. Dirty Dancing (USA, 1987). Dirigido por Emile Ardolino. Escrito por Eleanor Bergstein. Com Jennifer Grey, Patrick Swayze, Jerry Orbach, Cynthia Rhodes, Jack Weston, Jane Brucker, Kelly Bishop, Lonny Price, Max Cantor."
 ---
 Para os filhos da década de 50/60 a era Disco representou uma mudança radical de apreciar música. Essa mudança não ocorreu obviamente apenas na música, mas na maneira de pensar e agir, sobretudo na adolescência, época conturbada tão bem representada nos trabalhos de John Hughes (Curtindo a Vida Adoidado, O Clube dos Cinco).
 

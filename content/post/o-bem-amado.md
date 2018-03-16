@@ -1,23 +1,10 @@
 ---
-date: "2010-07-24"
 imdb: "1410297"
+date: "2010-07-24"
+categories: "movies"
 title: "O Bem Amado"
 stars: "4/5"
-categories: "movies"
-_title: "O Bem Amado"
-_year: "2010"
-_director: ["Guel Arraes", ]
-_writer: ["Guel Arraes", "Cláudio Paiva", ]
-_cast: ["Edmilson Barros", "Andrea Beltrão", "Caio Blat", "Maria Flor", "Bruno Garcia", "Drica Moraes", "Matheus Nachtergaele", "Marco Nanini", "Tonico Pereira", ]
-_countries: ["Brazil", ]
-_languages: ["Portuguese", ]
-_editor: ["Caio Cobra", ]
-_cinematographer: ["Dudu Miranda", "Paulo Souza", ]
-_music: ["Mauro Lima", "Caetano Veloso", ]
-_genres: ["Comedy", ]
-_runtimes: ["107", ]
-_ratio: "1.85 : 1"
-_kind: "movie"
+desc: "O Bem Amado. O Bem Amado (Brazil, 2010). Dirigido por Guel Arraes. Escrito por Guel Arraes, Cláudio Paiva. Com Edmilson Barros, Andrea Beltrão, Caio Blat, Maria Flor, Bruno Garcia, Drica Moraes, Matheus Nachtergaele, Marco Nanini, Tonico Pereira."
 ---
 O bom das produções brasileiras baseadas na literatura é que geralmente não se perde a essência da história em adaptações e temos um arsenal de ótimos atores para representar mais um exemplo de brasilidade cultural, comportamental e social.
 

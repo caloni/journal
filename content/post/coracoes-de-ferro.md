@@ -1,25 +1,10 @@
 ---
-date: "2015-07-14"
 imdb: "2713180"
-stars: "4/5"
+date: "2015-07-14"
 categories: "movies"
 title: "Corações de Ferro"
-_title: "Fury"
-_year: "2014"
-_director: ["David Ayer", ]
-_writer: ["David Ayer", ]
-_cast: ["Brad Pitt", "Shia LaBeouf", "Logan Lerman", "Michael Peña", "Jon Bernthal", "Jim Parrack", "Brad William Henke", "Kevin Vance", "Xavier Samuel", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Jay Cassidy", "Dody Dorn", ]
-_cinematographer: ["Roman Vasyanov", ]
-_music: ["Steven Price", ]
-_genres: ["Action", ]
-_runtimes: ["134", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjA4MDU0NTUyN15BMl5BanBnXkFtZTgwMzQxMzY4MjE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjA4MDU0NTUyN15BMl5BanBnXkFtZTgwMzQxMzY4MjE@._V1._SX94_SY140_.jpg"
+stars: "4/5"
+desc: "Corações de Ferro. Fury (USA, 2014). Dirigido por David Ayer. Escrito por David Ayer. Com Brad Pitt, Shia LaBeouf, Logan Lerman, Michael Peña, Jon Bernthal, Jim Parrack, Brad William Henke, Kevin Vance, Xavier Samuel."
 ---
 O que é o patriotismo, senão uma outra forma de religião? Da mesma forma com que a igreja católica destroçava povos e arrancava suas almas, a curiosa mente de soldados norte-americanos cansados e no final da segunda guerra nos revela em Corações de Ferro uma noção de que até atos de heroísmo estão manchados de sangue e uma moral no mínimo duvidosa. O estresse de ter matado (e muito) pode servir de desculpa, mas assim como em Sniper Americano, não por muito tempo.
 

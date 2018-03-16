@@ -1,23 +1,10 @@
 ---
-date: "2012-05-10"
 imdb: "1730133"
+date: "2012-05-10"
+categories: "movies"
 title: "Qualquer Gato Vira-Lata"
 stars: "2/5"
-categories: "movies"
-_title: "Qualquer Gato Vira-Lata"
-_year: "2011"
-_director: ["Tomas Portella", "Daniela De Carlo", ]
-_writer: ["Claudia Levay", "Ricardo Tiezzi", "Tati Bernardi", "Júlia Spadaccini", "Reginaldo Prandi", "Leonardo Levis", "Guilherme Serran", "Aline Bittencourt", "Patricia Corso", ]
-_cast: ["Cleo Pires", "Malvino Salvador", "Dudu Azevedo", "Rita Guedes", "Álamo Facó", "Leticia Novaes", "Gillray Coutinho", "Jean Pierre Noher", "Tatsu Carvalho", ]
-_countries: ["Brazil", ]
-_languages: ["Portuguese", ]
-_editor: ["Marcelo Moraes", ]
-_cinematographer: ["André Modugno", ]
-_music: ["Pedro Bromfman", ]
-_genres: ["Comedy", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTg0NDE5MDIzNl5BMl5BanBnXkFtZTcwMjQwODYzNw@@.jpg"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTg0NDE5MDIzNl5BMl5BanBnXkFtZTcwMjQwODYzNw@@._V1._SX94_SY140_.jpg"
+desc: "Qualquer Gato Vira-Lata. Qualquer Gato Vira-Lata (Brazil, 2011). Dirigido por Tomas Portella, Daniela De Carlo. Escrito por Claudia Levay, Ricardo Tiezzi, Tati Bernardi, Júlia Spadaccini, Reginaldo Prandi, Leonardo Levis, Guilherme Serran, Aline Bittencourt, Patricia Corso. Com Cleo Pires, Malvino Salvador, Dudu Azevedo, Rita Guedes, Álamo Facó, Leticia Novaes, Gillray Coutinho, Jean Pierre Noher, Tatsu Carvalho."
 ---
 A influência norte-americana e suas comédias românticas de caráter duvidoso trouxeram uma produção com elenco brasileiro que não é apenas covarde em sua premissa, mas retrógrada e oportunista. Dirigido por Tomas Portella e Daniela de Carlo, ambos já envolvidos em produções hollywoodianas, o filme gira em torno do roteiro de uma peça de teatro (muito ruim, por sinal) em que a jovem e fisicamente atraente Tati (Cléo Pires) briga com seu namorado Marcelo (Dudu Azevedo) em seu aniversário por conta de suas aventuras fora do relacionamento; ao tentar procurar uma solução para seu relacionamento descobre através das teorias de um professor de biologia, Conrado (Malvino Salvador), que talvez estivesse usando a abordagem errada para seduzir homens.
 

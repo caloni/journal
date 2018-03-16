@@ -1,24 +1,10 @@
 ---
-date: "2011-03-22"
 imdb: "0480687"
+date: "2011-03-22"
+categories: "movies"
 title: "Passe Livre"
 stars: "4/5"
-categories: "movies"
-_title: "Hall Pass"
-_year: "2011"
-_director: ["Bobby Farrelly", "Peter Farrelly", ]
-_writer: ["Pete Jones", "Peter Farrelly", "Kevin Barnett", "Bobby Farrelly", "Pete Jones", ]
-_cast: ["Owen Wilson", "Jason Sudeikis", "Jenna Fischer", "Christina Applegate", "Nicky Whelan", "Richard Jenkins", "Stephen Merchant", "Larry Joe Campbell", "Bruce Thomas", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Sam Seig", ]
-_cinematographer: ["Matthew F. Leonetti", ]
-_genres: ["Comedy", ]
-_runtimes: ["105", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTc4MzIxNTYwNl5BMl5BanBnXkFtZTcwNzE4MjE0NA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTc4MzIxNTYwNl5BMl5BanBnXkFtZTcwNzE4MjE0NA@@._V1._SX95_SY140_.jpg"
+desc: "Passe Livre. Hall Pass (USA, 2011). Dirigido por Bobby Farrelly, Peter Farrelly. Escrito por Pete Jones, Peter Farrelly, Kevin Barnett, Bobby Farrelly, Pete Jones. Com Owen Wilson, Jason Sudeikis, Jenna Fischer, Christina Applegate, Nicky Whelan, Richard Jenkins, Stephen Merchant, Larry Joe Campbell, Bruce Thomas."
 ---
 Seguindo o exemplo de Rango, temos mais um filme com referências sutis que funcionam a maior parte do tempo. Com uma fotografia saudosista, de um granulado quase apático, e trilhas selecionadas a dedo (e não são muitas, já que apenas são inseridas em momentos pontuais), o novo trabalho dos irmãos Farrely (Quem Vai Ficar com Mary; Eu, Eu Mesmo e Irene) se posiciona acima da média das comédias românticas exatamente pela narrativa contida que evita o besteirol já cansativo na maioria das obras do gênero.
 

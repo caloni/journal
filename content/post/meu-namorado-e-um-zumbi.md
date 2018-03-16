@@ -1,25 +1,10 @@
 ---
-date: "2013-02-14"
 imdb: "1588173"
+date: "2013-02-14"
+categories: "movies"
 title: "Meu Namorado é um Zumbi"
 stars: "4/5"
-categories: "movies"
-_title: "Warm Bodies"
-_year: "2013"
-_director: ["Jonathan Levine", ]
-_writer: ["Jonathan Levine", "Isaac Marion", ]
-_cast: ["Nicholas Hoult", "Teresa Palmer", "Analeigh Tipton", "Rob Corddry", "Dave Franco", "John Malkovich", "Cory Hardrict", "Daniel Rindress-Kay", "Vincent Leclerc", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Nancy Richardson", ]
-_cinematographer: ["Javier Aguirresarobe", ]
-_music: ["Marco Beltrami", "Buck Sanders", ]
-_genres: ["Comedy", ]
-_runtimes: ["98", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQ4MjY2MjMzOV5BMl5BanBnXkFtZTcwMDUxNzIwOQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQ4MjY2MjMzOV5BMl5BanBnXkFtZTcwMDUxNzIwOQ@@._V1._SX94_SY140_.jpg"
+desc: "Meu Namorado é um Zumbi. Warm Bodies (USA, 2013). Dirigido por Jonathan Levine. Escrito por Jonathan Levine, Isaac Marion. Com Nicholas Hoult, Teresa Palmer, Analeigh Tipton, Rob Corddry, Dave Franco, John Malkovich, Cory Hardrict, Daniel Rindress-Kay, Vincent Leclerc."
 ---
 R (Nicholas Hoult) é um zumbi, mas isso não evita que ele pense e avalie suas ações. Comer cérebros, por exemplo, é quase uma necessidade, pois R não pode dormir e sonhar, mas através dos cérebros dos humanos ele consegue visualizar as memórias da vida que acabou de matar e, assim, se sentir vivo novamente por alguns momentos.
 

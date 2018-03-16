@@ -1,25 +1,10 @@
 ---
-date: "2010-12-10"
 imdb: "0964185"
+date: "2010-12-10"
+categories: "movies"
 title: "Tetro"
 stars: "3/5"
-categories: "movies"
-_title: "Tetro"
-_year: "2009"
-_director: ["Francis Ford Coppola", ]
-_writer: ["Mauricio Kartun", "Francis Ford Coppola", ]
-_cast: ["Vincent Gallo", "Alden Ehrenreich", "Maribel Verdú", "Silvia Pérez", "Rodrigo De la Serna", "Erica Rivas", "Mike Amigorena", "Lucas Di Conza", "Adriana Mastrángelo", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Walter Murch", ]
-_cinematographer: ["Mihai Malaimare Jr.", ]
-_music: ["Osvaldo Golijov", ]
-_genres: ["Drama", ]
-_runtimes: ["127", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTY3ODQxNDc2Ml5BMl5BanBnXkFtZTcwOTYxMTYxMw@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTY3ODQxNDc2Ml5BMl5BanBnXkFtZTcwOTYxMTYxMw@@._V1._SX100_SY133_.jpg"
+desc: "Tetro. Tetro (USA, 2009). Dirigido por Francis Ford Coppola. Escrito por Mauricio Kartun, Francis Ford Coppola. Com Vincent Gallo, Alden Ehrenreich, Maribel Verdú, Silvia Pérez, Rodrigo De la Serna, Erica Rivas, Mike Amigorena, Lucas Di Conza, Adriana Mastrángelo."
 ---
 O aspecto teatral do longa já é exibido em sua introdução, numa espécie de pôster suspenso, além do próprio P&B, evocando seu tom artístico e expressivo ao contar a história da família Tetrocini. A introdução é mais do que efetiva, pois em parcas quatro cenas já sabemos tudo que precisamos saber para aos poucos ir desvendando a relação passada da família do ponto de vista dos irmãos.
 

@@ -1,25 +1,10 @@
 ---
-date: "2013-03-22"
 imdb: "1667310"
+date: "2013-03-22"
+categories: "movies"
 title: "A Fuga"
 stars: "3/5"
-categories: "movies"
-_title: "Deadfall"
-_year: "2012"
-_director: ["Stefan Ruzowitzky", ]
-_writer: ["Zach Dean", ]
-_cast: ["Eric Bana", "Olivia Wilde", "Charlie Hunnam", "Patrick Kerton", "Kwasi Songui", "Kris Kristofferson", "Sissy Spacek", "John Robinson", "Job Daniel", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Arthur Tarnowski", "Dan Zimmerman", ]
-_cinematographer: ["Shane Hurlbut", ]
-_music: ["Marco Beltrami", ]
-_genres: ["Crime", ]
-_runtimes: ["95", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTM3ODIwODYxOF5BMl5BanBnXkFtZTcwNTU5MjcxOA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTM3ODIwODYxOF5BMl5BanBnXkFtZTcwNTU5MjcxOA@@._V1._SX95_SY140_.jpg"
+desc: "A Fuga. Deadfall (USA, 2012). Dirigido por Stefan Ruzowitzky. Escrito por Zach Dean. Com Eric Bana, Olivia Wilde, Charlie Hunnam, Patrick Kerton, Kwasi Songui, Kris Kristofferson, Sissy Spacek, John Robinson, Job Daniel."
 ---
 Não há muito o que falar de A Fuga (Deadfall), com Eric Bana e Olivia Wilde. As atuações desses dois atores elevam uma experiência banal de uma história mediocremente interessante sobre um casal de irmãos, Addison e Liza, que realiza um roubo e precisam fugir pela fronteira com o Canadá. No caminham encontram situações que vão aos poucos revelando suas características e seu passado juntos do pai alcoólatra. Mas isso é pouco. Nunca ficamos sabendo de fato o suficiente para que faça sentido acompanhá-los ou entender o que está em jogo. Addison não é violento, mas estrategista, se torna quando necessário. Porém, não mais do que qualquer pessoa comum no seu lugar. Liza parece querer dizer algo mais a partir do seu comportamento dissimulado e sua lascívia. A troca de nomes que ocorre em determinado momento é um recurso óbvio demais, o que faz perder toda a sutileza da introdução que sugere um histórico incestuoso.
 

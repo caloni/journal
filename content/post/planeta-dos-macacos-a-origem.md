@@ -1,26 +1,11 @@
 ---
-date: "2011-08-31"
 imdb: "1318514"
+date: "2011-08-31"
+categories: "movies"
 title: "Planeta dos Macacos A Origem"
 stars: "5/5"
-categories: "movies"
-revision: [2016-01-23]
-_title: "Rise of the Planet of the Apes"
-_year: "2011"
-_director: ["Rupert Wyatt", ]
-_writer: ["Rick Jaffa", "Amanda Silver", "Pierre Boulle", ]
-_cast: ["Andy Serkis", "Karin Konoval", "Terry Notary", "Richard Ridings", "Christopher Gordon", "Devyn Dalton", "Jay Caputo", "James Franco", "Freida Pinto", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Conrad Buff IV", "Mark Goldblatt", ]
-_cinematographer: ["Andrew Lesnie", ]
-_music: ["Patrick Doyle", ]
-_genres: ["Action", ]
-_runtimes: ["105", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQyMjUxNTc0Ml5BMl5BanBnXkFtZTcwMjg1ODExNg@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQyMjUxNTc0Ml5BMl5BanBnXkFtZTcwMjg1ODExNg@@._V1._SX95_SY140_.jpg"
+revision: [datetime.date(2016, 1, 23)]
+desc: "Planeta dos Macacos A Origem. Rise of the Planet of the Apes (USA, 2011). Dirigido por Rupert Wyatt. Escrito por Rick Jaffa, Amanda Silver, Pierre Boulle. Com Andy Serkis, Karin Konoval, Terry Notary, Richard Ridings, Christopher Gordon, Devyn Dalton, Jay Caputo, James Franco, Freida Pinto."
 ---
 Esse texto não é indicado para os que já viram algum filme da série Planeta dos Macacos, iniciada em 68. (Na verdade, nem o atual de 2011: leia depois de assistir.)
 

@@ -1,28 +1,11 @@
 ---
+tags: ['netflix']
+imdb: "2049543"
 date: "2017-03-26"
 categories: "movies"
 title: "Synchronicity"
-imdb: "2049543"
 stars: "2/5"
-tags: ['netflix']
-_title: "Synchronicity"
-_year: "2015"
-_director: ["Jacob Gentry", ]
-_writer: ["Jacob Gentry", "Alex Orr", ]
-_cast: ["Chad McKnight (Jim Beale)", "Brianne Davis (Abby)", "AJ Bowen (Chuck)", "Scott Poythress (Matty)", "Michael Ironside (Klaus Meisner)", "Claire Bronson (Helen)", "Ashley Drayton (Herself)", "Derek Ryan Duke (Resident)", "Sergine Dumais (Helen)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Jacob Gentry", ]
-_cinematographer: ["Eric Maddison", ]
-_music: ["Ben Lovett", ]
-_artdirection: ["Jenn Moye", "Stephen Rubac", ]
-_costume designer: ["Caroline Miller", ]
-_genres: ["Mystery", ]
-_runtimes: ["101", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc2NDAyOTc4MV5BMl5BanBnXkFtZTgwNjE4Mjk0NzE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc2NDAyOTc4MV5BMl5BanBnXkFtZTgwNjE4Mjk0NzE@._V1._SX94_SY140_.jpg"
+desc: "Synchronicity. Synchronicity (USA, 2015). Dirigido por Jacob Gentry. Escrito por Jacob Gentry, Alex Orr. Com Chad McKnight (Jim Beale), Brianne Davis (Abby), AJ Bowen (Chuck), Scott Poythress (Matty), Michael Ironside (Klaus Meisner), Claire Bronson (Helen), Ashley Drayton (Herself), Derek Ryan Duke (Resident), Sergine Dumais (Helen)."
 ---
 Sabe aqueles filmes trash anos 80 que misturam tecnologia, terror e sci-fi? Exemplos são Tron (o original) e Mulher Nota 1000. Synchronicity emula com perfeição esse tipo de gênero. Com um roteiro capenga, atuações sofríveis, clichês de filme noir mal usados e trilha sonora de flashback, o resultado é uma viagem pelo mundo dos filme complicados apenas pelo gosto da complicação.
 

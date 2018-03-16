@@ -1,27 +1,10 @@
 ---
-date: "2016-03-15"
 imdb: "0190332"
-stars: "5/5"
+date: "2016-03-15"
 categories: "movies"
 title: "O Tigre e o Dragão"
-_title: "Wo hu cang long"
-_year: "2000"
-_director: ["Ang Lee", ]
-_writer: ["Wang Du Lu", "Hui-Ling Wang", "James Schamus", "Kuo Jung Tsai", ]
-_cast: ["Yun-Fat Chow", "Michelle Yeoh", "Ziyi Zhang", "Chen Chang", "Sihung Lung", "Pei-Pei Cheng", "Fa Zeng Li", "Xian Gao", "Yan Hai", ]
-_countries: ["Taiwan", ]
-_languages: ["Mandarin", ]
-_editor: ["Tim Squyres", ]
-_cinematographer: ["Peter Pau", ]
-_music: ["Dun Tan", ]
-_artdirection: ["Jian-Quo Wang", "Eddy Wong", "Xing-Zhan Yang", "Zhanjia Yang", "Bin Zhao", ]
-_costume designer: ["Tim Yip", ]
-_genres: ["Action", ]
-_runtimes: ["120", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTY5MjM4NjIxOF5BMl5BanBnXkFtZTcwNDg5NzU2OQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTY5MjM4NjIxOF5BMl5BanBnXkFtZTcwNDg5NzU2OQ@@._V1._SX93_SY140_.jpg"
+stars: "5/5"
+desc: "O Tigre e o Dragão. Wo hu cang long (Taiwan, 2000). Dirigido por Ang Lee. Escrito por Wang Du Lu, Hui-Ling Wang, James Schamus, Kuo Jung Tsai. Com Yun-Fat Chow, Michelle Yeoh, Ziyi Zhang, Chen Chang, Sihung Lung, Pei-Pei Cheng, Fa Zeng Li, Xian Gao, Yan Hai."
 ---
 Muitos fãs de artes marciais torceram o nariz na época em que O Tigre e o Dragão foi lançado. Na visão deles, o fato das pessoas "voarem" tirava toda a realidade da história. Muitos perderam a noção de que sempre existe uma metamorfose entre a história e o seu narrador. Quando falamos de uma história milenar, são tantas gerações no caminho, que torna-se fácil achar tudo exagerado e absurdo.
 

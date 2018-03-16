@@ -1,27 +1,11 @@
 ---
+tags: ['cabine']
+imdb: "1974419"
 date: "2016-09-23"
 categories: "movies"
 title: "Demônio de Neon"
-imdb: "1974419"
 stars: "5/5"
-tags: ['cabine']
-_title: "The Neon Demon"
-_year: "2016"
-_director: ["Nicolas Winding Refn", ]
-_writer: ["Nicolas Winding Refn", "Nicolas Winding Refn", "Mary Laws", "Polly Stenham", ]
-_cast: ["Elle Fanning", "Karl Glusman", "Jena Malone", "Bella Heathcote", "Abbey Lee", "Desmond Harrington", "Christina Hendricks", "Keanu Reeves", "Charles Baker", ]
-_countries: ["France", ]
-_languages: ["English", ]
-_editor: ["Matthew Newman", ]
-_cinematographer: ["Natasha Braier", ]
-_music: ["Cliff Martinez", ]
-_costume designer: ["Erin Benach", ]
-_genres: ["Horror", ]
-_runtimes: ["118", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNTAyOTkxNTQ3NV5BMl5BanBnXkFtZTgwMjQ1NzQxOTE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNTAyOTkxNTQ3NV5BMl5BanBnXkFtZTgwMjQ1NzQxOTE@._V1._SX91_SY140_.jpg"
+desc: "Demônio de Neon. The Neon Demon (France, 2016). Dirigido por Nicolas Winding Refn. Escrito por Nicolas Winding Refn, Nicolas Winding Refn, Mary Laws, Polly Stenham. Com Elle Fanning, Karl Glusman, Jena Malone, Bella Heathcote, Abbey Lee, Desmond Harrington, Christina Hendricks, Keanu Reeves, Charles Baker."
 ---
 Demônio de Neon consegue discutir a questão da moda, da arte e do auto-sacrifício sem apelar para mi-mi-mis do feminismo marxista atual. O filme pula essa camada superficial e descerebrada da discussão adentrando no cerne da questão: a fascinação que a estética exerce sobre seres humanos e como isso funciona hoje no mercado da arte. O mais curioso de tudo é como isso lembra a nossa própria querida, industrializada e consumista sétima arte.
 

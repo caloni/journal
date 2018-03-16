@@ -1,22 +1,11 @@
 ---
+tags: ['mostrasp']
+imdb: "4538652"
 date: "2016-10-31"
 categories: "movies"
 title: "Sonar"
-imdb: "4538652"
 stars: "3/5"
-tags: ['mostrasp']
-_title: "Sonar"
-_year: "2016"
-_director: ["Jean-Philippe Martin", ]
-_writer: ["Jean-Philippe Martin", ]
-_cast: ["Naidra Ayadi (Leïla)", "Bernie Bonvoisin (Wyatt)", "Emine Meyrem (Amina)", "Batiste Sornin (Thomas)", "Bruno Clairefond (Daniel Metz)", "Sébastien Fouillade", ]
-_countries: ["France", ]
-_languages: ["French", ]
-_editor: ["Matyas Veress", ]
-_cinematographer: ["Colin Lévêque", ]
-_genres: ["Drama", ]
-_ratio: "2.35 : 1"
-_kind: "movie"
+desc: "Sonar. Sonar (France, 2016). Dirigido por Jean-Philippe Martin. Escrito por Jean-Philippe Martin. Com Naidra Ayadi (Leïla), Bernie Bonvoisin (Wyatt), Emine Meyrem (Amina), Batiste Sornin (Thomas), Bruno Clairefond (Daniel Metz), Sébastien Fouillade."
 ---
 Este é o segundo filme que vejo na Mostra com um personagem que grava sons do ambiente (o outro é O Que Restou da Minha Vida). Sonar escolhe falar sobre uma imigrante mulher de um país africano que ainda trata mulheres como submissas. O interessante é que, considerando o que o filme faz dessa personagem, não temos pista nenhuma que nos faça evitar em pensar que, no fundo, ela também seria no Ocidente como apenas mais uma vadia.
 

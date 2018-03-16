@@ -1,25 +1,10 @@
 ---
-date: "2013-08-01"
 imdb: "1595656"
+date: "2013-08-01"
+categories: "movies"
 title: "Amor Pleno"
 stars: "4/5"
-categories: "movies"
-_title: "To the Wonder"
-_year: "2012"
-_director: ["Terrence Malick", ]
-_writer: ["Terrence Malick", ]
-_cast: ["Ben Affleck", "Olga Kurylenko", "Rachel McAdams", "Javier Bardem", "Tatiana Chiline", "Romina Mondello", "Tony O'Gans", "Charles Baker", "Marshall Bell", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["A.J. Edwards", "Keith Fraase", "Shane Hazen", "Christopher Roldan", "Mark Yoshikawa", ]
-_cinematographer: ["Emmanuel Lubezki", ]
-_music: ["Hanan Townshend", ]
-_genres: ["Drama", ]
-_runtimes: ["112", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTAwNzk1NjM2ODZeQTJeQWpwZ15BbWU3MDE1MjQwMjk@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTAwNzk1NjM2ODZeQTJeQWpwZ15BbWU3MDE1MjQwMjk@._V1._SX94_SY140_.jpg"
+desc: "Amor Pleno. To the Wonder (USA, 2012). Dirigido por Terrence Malick. Escrito por Terrence Malick. Com Ben Affleck, Olga Kurylenko, Rachel McAdams, Javier Bardem, Tatiana Chiline, Romina Mondello, Tony O'Gans, Charles Baker, Marshall Bell."
 ---
 É difícil analisar os filmes de Terrence Malick através da abordagem tradicional de "historinha". O que é possível observar nesse seu novo trabalho é sua semelhança com Árvore da Vida (semelhança narrativa) com muito menos glamour. Assim como a reflexão de Almodóvar em Amantes Passageiros (depois do tenso A Pele que Habito), Malick parece querer não se aprofundar demais em temas existenciais como fez anteriormente, mas mesmo assim não consegue evitar de ligar as referências, como em determinado momento sua câmera foge para o mundo subaquático, quase como uma tentativa de conectar-se com seu predecessor no melhor estilo continuação dos grande temas.
 

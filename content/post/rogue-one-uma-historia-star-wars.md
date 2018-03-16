@@ -1,28 +1,11 @@
 ---
+tags: ['cinema', 'oscar']
+imdb: "3748528"
 date: "2016-12-28"
 categories: "movies"
 title: "Rogue One: Uma História Star Wars"
-imdb: "3748528"
 stars: "4/5"
-tags: ['cinema', 'oscar']
-_title: "Rogue One"
-_year: "2016"
-_director: ["Gareth Edwards", ]
-_writer: ["Chris Weitz", "Tony Gilroy", "John Knoll", "Gary Whitta", "George Lucas", ]
-_cast: ["Felicity Jones (Jyn Erso)", "Diego Luna (Cassian Andor)", "Alan Tudyk (K-2SO)", "Donnie Yen (Chirrut Îmwe)", "Wen Jiang (Baze Malbus)", "Ben Mendelsohn (Orson Krennic)", "Guy Henry (Governor Tarkin)", "Forest Whitaker (Saw Gerrera)", "Riz Ahmed (Bodhi Rook)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["John Gilroy", "Colin Goudie", "Jabez Olssen", ]
-_cinematographer: ["Greig Fraser", ]
-_music: ["Michael Giacchino", ]
-_artdirection: ["Alex Baily", "Alastair Bullock", "Robert Cowper", "Jordana Finkel", "Lydia Fry", "Ashley Lamont", "Steven Lawrence", "Oliver Roberts", "Stuart Rose", ]
-_costume designer: ["David Crossman", "Glyn Dillon", ]
-_genres: ["Action", ]
-_runtimes: ["133", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjEwMzMxODIzOV5BMl5BanBnXkFtZTgwNzg3OTAzMDI@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjEwMzMxODIzOV5BMl5BanBnXkFtZTgwNzg3OTAzMDI@._V1._SX94_SY140_.jpg"
+desc: "Rogue One: Uma História Star Wars. Rogue One (USA, 2016). Dirigido por Gareth Edwards. Escrito por Chris Weitz, Tony Gilroy, John Knoll, Gary Whitta, George Lucas. Com Felicity Jones (Jyn Erso), Diego Luna (Cassian Andor), Alan Tudyk (K-2SO), Donnie Yen (Chirrut Îmwe), Wen Jiang (Baze Malbus), Ben Mendelsohn (Orson Krennic), Guy Henry (Governor Tarkin), Forest Whitaker (Saw Gerrera), Riz Ahmed (Bodhi Rook)."
 ---
 É um prazer poder experimentar um pouco do universo dos filmes de Star Wars sem se preocupar (muito) com personagens centrais, tramas que mudarão a galáxia e, principalmente, histórias que nunca terminam. E apesar disso, aí está você de novo, estrelinha da morte. A fixação da alegoria com morte e destruição nunca termina. Ela se mantém quase como um fetiche escondido e refletido nos "inimigos", braço esquerdo da mesma Força. O lado negro sempre é a visão mais clara do que acontece quando o poder está nas mãos de poucos, sejam eles tiranos malignos ou pseudo-representantes do "povo".
 

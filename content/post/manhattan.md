@@ -1,24 +1,10 @@
 ---
-date: "2014-05-20"
 imdb: "0079522"
+date: "2014-05-20"
+categories: "movies"
 title: "Manhattan"
 stars: "4/5"
-categories: "movies"
-_title: "Manhattan"
-_year: "1979"
-_director: ["Woody Allen", ]
-_writer: ["Woody Allen", "Marshall Brickman", ]
-_cast: ["Woody Allen", "Diane Keaton", "Michael Murphy", "Mariel Hemingway", "Meryl Streep", "Anne Byrne Hoffman", "Karen Ludwig", "Michael O'Donoghue", "Victor Truro", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Susan E. Morse", ]
-_cinematographer: ["Gordon Willis", ]
-_genres: ["Comedy", ]
-_runtimes: ["96", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjI4MDIyNjcxMl5BMl5BanBnXkFtZTcwNjA4OTYwNA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjI4MDIyNjcxMl5BMl5BanBnXkFtZTcwNjA4OTYwNA@@._V1._SX93_SY140_.jpg"
+desc: "Manhattan. Manhattan (USA, 1979). Dirigido por Woody Allen. Escrito por Woody Allen, Marshall Brickman. Com Woody Allen, Diane Keaton, Michael Murphy, Mariel Hemingway, Meryl Streep, Anne Byrne Hoffman, Karen Ludwig, Michael O'Donoghue, Victor Truro."
 ---
 A fotografia e a música de Manhattan fazem todo o filme parecer uma poesia cinematográfica espontânea, quase uma vida alternativa dentro das telas, especificamente dentro daquela tela larga e magistralmente usada por Woody Allen e sua equipe para torná-la mágica independente da história que irá ser contada. A própria história começa com inúmeras tentativas de Isaac (Allen) iniciar seu livro com uma síntese sobre Nova Iorque e sua decadência cultural que, ainda que inevitável, consegue nos fascinar.
 

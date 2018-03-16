@@ -1,26 +1,10 @@
 ---
-date: "2016-04-16"
 imdb: "4176826"
-stars: "2/5"
+date: "2016-04-16"
 categories: "movies"
 title: "Ele Está de Volta"
-_title: "Er ist wieder da"
-_year: "2015"
-_director: ["David Wnendt", ]
-_writer: ["David Wnendt", "Minna Fischgartl", "Timur Vermes", "Marco Kreuzpaintner", "Johannes Boss", "Collin McMahon", ]
-_cast: ["Oliver Masucci", "Fabian Busch", "Thomas M. Köppl", "Marc-Marvin Israel", "David Gebigke", "Paul Busche", "Michael Kessler", "Gerdy Zint", "Nancy Maria Brüning", ]
-_countries: ["Germany", ]
-_languages: ["German", ]
-_editor: ["Andreas Wodraschke", ]
-_cinematographer: ["Hanno Lentz", ]
-_music: ["Enis Rotthoff", ]
-_artdirection: ["Axel Nocker", ]
-_costume designer: ["Elke von Sivers", ]
-_genres: ["Comedy", ]
-_runtimes: ["116", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjRlZTU1YzQtNzVkMC00YzI2LTk3OWQtZjVhYzQ5MzNhZGRlXkEyXkFqcGdeQXVyNDkyMjA2NjU@.jpg"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjRlZTU1YzQtNzVkMC00YzI2LTk3OWQtZjVhYzQ5MzNhZGRlXkEyXkFqcGdeQXVyNDkyMjA2NjU@._V1._SX99_SY140_.jpg"
+stars: "2/5"
+desc: "Ele Está de Volta. Er ist wieder da (Germany, 2015). Dirigido por David Wnendt. Escrito por David Wnendt, Minna Fischgartl, Timur Vermes, Marco Kreuzpaintner, Johannes Boss, Collin McMahon. Com Oliver Masucci, Fabian Busch, Thomas M. Köppl, Marc-Marvin Israel, David Gebigke, Paul Busche, Michael Kessler, Gerdy Zint, Nancy Maria Brüning."
 ---
 Um filme que corre o risco de ser apenas alemão. Falado em alemão, dirigido na Alemanha (Berlim) e com uma figura "popular" cujo significado de "diabólico" se tornou universal, mas só o povo que o gerou, décadas depois de doutrinação em escola pública, "conhece" de fato, Ele Está de Volta tenta ser uma comédia com fundo de moral, utilizando Adolf Hitler como um mero joguete, além de um fiapo de roteiro que utiliza a voz da televisão (e da internet) como o novo arsenal político. Um filme feito pela esquerda para a esquerda, que acredita piamente que o nazismo é de extrema direita e que só o lado direito está recheado de agressão e perversão.
 

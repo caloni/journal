@@ -1,25 +1,10 @@
 ---
-date: "2010-08-13"
 imdb: "0963966"
+date: "2010-08-13"
+categories: "movies"
 title: "O Aprendiz de Feiticeiro"
 stars: "3/5"
-categories: "movies"
-_title: "The Sorcerer's Apprentice"
-_year: "2010"
-_director: ["Jon Turteltaub", ]
-_writer: ["Lawrence Konner", "Mark Rosenthal", "Matt Lopez", "Matt Lopez", "Doug Miro", "Carlo Bernard", ]
-_cast: ["Nicolas Cage", "Jay Baruchel", "Alfred Molina", "Teresa Palmer", "Toby Kebbell", "Omar Benson Miller", "Monica Bellucci", "Alice Krige", "Jake Cherry", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["William Goldenberg", ]
-_cinematographer: ["Bojan Bazelli", ]
-_music: ["Trevor Rabin", ]
-_genres: ["Action", ]
-_runtimes: ["109", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNDY3NzQ0NjYxM15BMl5BanBnXkFtZTcwMDkzODM2Mw@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNDY3NzQ0NjYxM15BMl5BanBnXkFtZTcwMDkzODM2Mw@@._V1._SX96_SY140_.jpg"
+desc: "O Aprendiz de Feiticeiro. The Sorcerer's Apprentice (USA, 2010). Dirigido por Jon Turteltaub. Escrito por Lawrence Konner, Mark Rosenthal, Matt Lopez, Matt Lopez, Doug Miro, Carlo Bernard. Com Nicolas Cage, Jay Baruchel, Alfred Molina, Teresa Palmer, Toby Kebbell, Omar Benson Miller, Monica Bellucci, Alice Krige, Jake Cherry."
 ---
 E aqui vamos nós para mais um filme bonitinho, emocionante e formatado nos últimos padrões que a Disney recomenda para que tenhamos mais uma possível franquia seguindo os modelos razoavelmente bem sucedidos dos Piratas do Caribe e Crônicas de Nárnia, e também a futura promessa do Príncipe da Pérsia.
 

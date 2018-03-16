@@ -1,25 +1,10 @@
 ---
-date: "2011-06-12"
 imdb: "0121766"
+date: "2011-06-12"
+categories: "movies"
 title: "Star Wars Episódio III A Vingança dos Sith"
 stars: "4/5"
-categories: "movies"
-_title: "Star Wars: Episode III - Revenge of the Sith"
-_year: "2005"
-_director: ["George Lucas", ]
-_writer: ["George Lucas", ]
-_cast: ["Ewan McGregor", "Natalie Portman", "Hayden Christensen", "Ian McDiarmid", "Samuel L. Jackson", "Jimmy Smits", "Frank Oz", "Anthony Daniels", "Christopher Lee", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Roger Barton", "Ben Burtt", ]
-_cinematographer: ["David Tattersall", ]
-_music: ["John Williams", ]
-_genres: ["Action", ]
-_runtimes: ["140", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNTc4MTc3NTQ5OF5BMl5BanBnXkFtZTcwOTg0NjI4NA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNTc4MTc3NTQ5OF5BMl5BanBnXkFtZTcwOTg0NjI4NA@@._V1._SX100_SY133_.jpg"
+desc: "Star Wars Episódio III A Vingança dos Sith. Star Wars: Episode III - Revenge of the Sith (USA, 2005). Dirigido por George Lucas. Escrito por George Lucas. Com Ewan McGregor, Natalie Portman, Hayden Christensen, Ian McDiarmid, Samuel L. Jackson, Jimmy Smits, Frank Oz, Anthony Daniels, Christopher Lee."
 ---
 A impressão que temos ao assistir o último capítulo da nova saga criada por George Lucas é que este preparou os dois filmes iniciais tão somente para ter a chance de produzir este terceiro, tamanho o peso narrativo que o diferencia dos seus iguais.
 

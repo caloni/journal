@@ -1,17 +1,10 @@
 ---
-date: "2012-10-23"
 title: "Pa-dak pa-dak"
 imdb: "2164058"
 stars: "2/5"
+date: "2012-10-23"
 categories: "movies"
-_title: "Pa-dak pa-dak"
-_year: "2012"
-_director: ["Dae-hee Lee", ]
-_countries: ["South Korea", ]
-_languages: ["Korean", ]
-_genres: ["Animation", ]
-_runtimes: ["78", ]
-_kind: "movie"
+desc: "Pa-dak pa-dak. Pa-dak pa-dak (South Korea, 2012). Dirigido por Dae-hee Lee."
 ---
 Padak, primeiro trabalho do diretor Lee Dae Hee, não cria uma história muito envolvente, mas possui um arco que chega a ser angustiante e libertador. Basicamente acompanhamos as tentativas frustradas de uma cavala (uma espécie de peixe) em tentar escapar de um aquário de um restaurante de frutos do mar. Há muito diálogo e pouca ação. Quando há ação, a animação peca por recorrer aos mesmos movimentos vistos.
 

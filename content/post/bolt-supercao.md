@@ -1,24 +1,10 @@
 ---
-date: "2013-12-13"
 imdb: "0397892"
+date: "2013-12-13"
+categories: "movies"
 title: "Bolt Supercão"
 stars: "4/5"
-categories: "movies"
-_title: "Bolt"
-_year: "2008"
-_director: ["Byron Howard", "Chris Williams", ]
-_writer: ["Dan Fogelman", "Chris Williams", "Byron Howard", "Jared Stern", ]
-_cast: ["John Travolta", "Miley Cyrus", "Susie Essman", "Mark Walton", "Malcolm McDowell", "James Lipton", "Greg Germann", "Diedrich Bader", "Nick Swardson", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Tim Mertens", ]
-_music: ["John Powell", ]
-_genres: ["Animation", ]
-_runtimes: ["96", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNDQyNDE5NjQ1N15BMl5BanBnXkFtZTcwMDExMTAwMg@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNDQyNDE5NjQ1N15BMl5BanBnXkFtZTcwMDExMTAwMg@@._V1._SX99_SY140_.jpg"
+desc: "Bolt Supercão. Bolt (USA, 2008). Dirigido por Byron Howard, Chris Williams. Escrito por Dan Fogelman, Chris Williams, Byron Howard, Jared Stern. Com John Travolta, Miley Cyrus, Susie Essman, Mark Walton, Malcolm McDowell, James Lipton, Greg Germann, Diedrich Bader, Nick Swardson."
 ---
 O grande trunfo de "Bolt" em sua narrativa é primeiro nos brindar com cenas megalomaníacas de ação (ecos de Os Incríveis) e nos fazer acreditar que Bolt  que faz rima não-ocasional com "bold", ou seja, "corajoso, valente"  de fato possui todos esses poderes. Mesmo assistindo pela segunda vez o truque permanece pela eficiência dos cortes e enquadramentos, que conseguem inclusive nos enganar a ponto de não pensarmos como eles podem cruzar uma cidade inteira se tudo termina dentro de um estúdio.
 

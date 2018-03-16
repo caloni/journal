@@ -1,27 +1,10 @@
 ---
-date: "2015-10-15"
 imdb: "3332064"
-stars: "3/5"
+date: "2015-10-15"
 categories: "movies"
 title: "Peter Pan"
-_title: "Pan"
-_year: "2015"
-_director: ["Joe Wright", ]
-_writer: ["Jason Fuchs", "J.M. Barrie", ]
-_cast: ["Hugh Jackman", "Levi Miller", "Garrett Hedlund", "Rooney Mara", "Adeel Akhtar", "Nonso Anozie", "Amanda Seyfried", "Kathy Burke", "Lewis MacDougall", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["William Hoy", "Paul Tothill", ]
-_cinematographer: ["John Mathieson", "Seamus McGarvey", ]
-_music: ["John Powell", ]
-_artdirection: ["Gavin Fitch", "Phil Harvey", "Paul Laugier", "Rod McLean", "Mark Scruton", ]
-_costume designer: ["Jacqueline Durran", ]
-_genres: ["Adventure", ]
-_runtimes: ["111", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMzk2MDg5MDczMl5BMl5BanBnXkFtZTgwNTE2NjYyNjE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMzk2MDg5MDczMl5BMl5BanBnXkFtZTgwNTE2NjYyNjE@._V1._SX94_SY140_.jpg"
+stars: "3/5"
+desc: "Peter Pan. Pan (USA, 2015). Dirigido por Joe Wright. Escrito por Jason Fuchs, J.M. Barrie. Com Hugh Jackman, Levi Miller, Garrett Hedlund, Rooney Mara, Adeel Akhtar, Nonso Anozie, Amanda Seyfried, Kathy Burke, Lewis MacDougall."
 ---
 Mais um reboot de uma história já recontada milhares de vezes em forma de desenho, live-action e que foi no começo uma peça adaptada para um romance. Pelo jeito a história do menino que não cresce nunca é fascinante pelo universo criado em torno dele. Infelizmente este novo Peter Pan não consegue ser tão ambicioso quanto as pretensões do mundo de fantasia, se limitando em sua narrativa em caminhar pelos caminhos seguros já marcados pela cartila básica de aventuras infantis. Não tem nem vergonha de se assumir plágio de obras icônicas como Indiana Jones e embutir Peter Pan Marca Registrada.
 

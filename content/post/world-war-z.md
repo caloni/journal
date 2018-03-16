@@ -1,25 +1,10 @@
 ---
-date: "2014-09-23"
 imdb: "0816711"
+date: "2014-09-23"
+categories: "movies"
 title: "World War Z"
 stars: "4/5"
-categories: "movies"
-_title: "World War Z"
-_year: "2013"
-_director: ["Marc Forster", ]
-_writer: ["Matthew Michael Carnahan", "Drew Goddard", "Damon Lindelof", "Matthew Michael Carnahan", "J. Michael Straczynski", "Max Brooks", ]
-_cast: ["Brad Pitt", "Mireille Enos", "Daniella Kertesz", "James Badge Dale", "Ludi Boeken", "Matthew Fox", "Fana Mokoena", "David Morse", "Elyes Gabel", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Roger Barton", "Matt Chesse", ]
-_cinematographer: ["Ben Seresin", "Robert Richardson", ]
-_music: ["Marco Beltrami", ]
-_genres: ["Action", ]
-_runtimes: ["116", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTg0NTgxMjIxOF5BMl5BanBnXkFtZTcwMDM0MDY1OQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTg0NTgxMjIxOF5BMl5BanBnXkFtZTcwMDM0MDY1OQ@@._V1._SX91_SY140_.jpg"
+desc: "World War Z. World War Z (USA, 2013). Dirigido por Marc Forster. Escrito por Matthew Michael Carnahan, Drew Goddard, Damon Lindelof, Matthew Michael Carnahan, J. Michael Straczynski, Max Brooks. Com Brad Pitt, Mireille Enos, Daniella Kertesz, James Badge Dale, Ludi Boeken, Matthew Fox, Fana Mokoena, David Morse, Elyes Gabel."
 ---
 Mais um filme de zumbi? Sim e não. World War Z está mais para o primeiro filme empolgante de fato sobre uma epidemia mundial. Estrelado por Brad Pitt, esse filme de catástrofe consegue chamar a atenção quase todo o momento, seja para seu lado bom ou ruim.
 

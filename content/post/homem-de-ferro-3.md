@@ -1,25 +1,10 @@
 ---
-date: "2013-05-03"
 imdb: "1300854"
+date: "2013-05-03"
+categories: "movies"
 title: "Homem de Ferro 3"
 stars: "3/5"
-categories: "movies"
-_title: "Iron Man 3"
-_year: "2013"
-_director: ["Shane Black", ]
-_writer: ["Drew Pearce", "Shane Black", "Stan Lee", "Don Heck", "Larry Lieber", "Jack Kirby", "Warren Ellis", "Adi Granov", ]
-_cast: ["Robert Downey Jr.", "Gwyneth Paltrow", "Don Cheadle", "Guy Pearce", "Rebecca Hall", "Jon Favreau", "Ben Kingsley", "James Badge Dale", "Stephanie Szostak", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Peter S. Elliot", "Jeffrey Ford", ]
-_cinematographer: ["John Toll", ]
-_music: ["Brian Tyler", ]
-_genres: ["Action", ]
-_runtimes: ["130", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjIzMzAzMjQyM15BMl5BanBnXkFtZTcwNzM2NjcyOQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjIzMzAzMjQyM15BMl5BanBnXkFtZTcwNzM2NjcyOQ@@._V1._SX94_SY140_.jpg"
+desc: "Homem de Ferro 3. Iron Man 3 (USA, 2013). Dirigido por Shane Black. Escrito por Drew Pearce, Shane Black, Stan Lee, Don Heck, Larry Lieber, Jack Kirby, Warren Ellis, Adi Granov. Com Robert Downey Jr., Gwyneth Paltrow, Don Cheadle, Guy Pearce, Rebecca Hall, Jon Favreau, Ben Kingsley, James Badge Dale, Stephanie Szostak."
 ---
 Críticas ao Superman são comuns pelo fato do super-herói ser virtualmente invencível, sendo sua única fraqueza a sua fé na humanidade. No caso de um herói como Tony Stark, gênio, bilionário, sedutor e munido de uma armadura extremamente resistente, nem o lado humano pode ser considerada uma fraqueza. As inúmeras facetas de Tony se descascam como seus inúmeros protótipos de robôs, e a própria imagem do Homem de Ferro se apresenta como uma figura completamente destacada da pessoa que a veste ou controla à distância. Para ele seu avatar (ou avatares) são um elemento importante de sua personalidade atual, mais do que ele mesmo. E assim como no filme anterior  Homem de Ferro 2, não Os Vingadores  a jornada de Tony Stark é mais interna que externa. O vilão mais uma vez tem algo a dizer sobre o herói, mas não só ele. Se antes a história do pai era o que movia o drama no segundo filme, aqui essa relação é revista entre o gênio bilionário e um garoto (Ty Simpkins) que se revela o reflexo perfeito de sua própria imaturidade. Nesse sentido a interpretação de Robert Downey Jr. vai no automático, o que não é ruim na maioria dos momentos, mas prejudica a história em momentos-chave onde os sentimentos do personagem são postos à prova. Até onde me lembro, seu romance com Pepper Potts (Gwyneth Paltrow) era o elemento humano que deveria fazer alguma diferença em sua forma de ver a vida. Em sua terceira aventura, todos os elementos já explorados são quase inexistentes, e o que sobre é um Stark robótico até fora da armadura.
 

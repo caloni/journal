@@ -1,25 +1,10 @@
 ---
-date: "2010-11-01"
 imdb: "0381940"
+date: "2010-11-01"
+categories: "movies"
 title: "Cargo"
 stars: "3/5"
-categories: "movies"
-_title: "Cargo"
-_year: "2009"
-_director: ["Ivan Engler", "Ralph Etter", ]
-_writer: ["Arnold Bucher", "Ivan Engler", "Arnold Bucher", "Ivan Engler", "Patrik Steinmann", "Thilo Röscheisen", "Johnny Hartmann", ]
-_cast: ["Anna Katharina Schwabroh", "Martin Rapold", "Regula Grauwiller", "Yangzom Brauen", "Pierre Semmler", "Claude-Oliver Rudolph", "Michael Finger", "Gilles Tschudi", "Maria Boettner", ]
-_countries: ["Switzerland", ]
-_languages: ["German", ]
-_editor: ["Bastian Ahrens", "Ivan Engler", "Timo Fritsche", ]
-_cinematographer: ["Ralph Baetschmann", ]
-_music: ["Fredrik Strömberg", ]
-_genres: ["Mystery", ]
-_runtimes: ["112", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNzUyOTgwMTA0MV5BMl5BanBnXkFtZTcwNTMwOTYyMw@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNzUyOTgwMTA0MV5BMl5BanBnXkFtZTcwNTMwOTYyMw@@._V1._SX98_SY140_.jpg"
+desc: "Cargo. Cargo (Switzerland, 2009). Dirigido por Ivan Engler, Ralph Etter. Escrito por Arnold Bucher, Ivan Engler, Arnold Bucher, Ivan Engler, Patrik Steinmann, Thilo Röscheisen, Johnny Hartmann. Com Anna Katharina Schwabroh, Martin Rapold, Regula Grauwiller, Yangzom Brauen, Pierre Semmler, Claude-Oliver Rudolph, Michael Finger, Gilles Tschudi, Maria Boettner."
 ---
 Se fosse resumir essa ficção-científica, diria que ela começa como Aliens - O Resgate e termina como Matrix. De fato, muitas características do longa nos lembra esses dois filmes. Porém, longe de se igualar em qualidade narrativa, este cai no lugar comum de passeios contemplativos pelo cenário com trilhas sonoras igualmente batidas.
 

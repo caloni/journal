@@ -1,23 +1,11 @@
 ---
+tags: ['netflix', 'blackmirror', 'series']
+imdb: "4538072"
 date: "2016-10-28"
 categories: "blog"
 title: "Black Mirror - Terceira Temporada, Episódio 4: San Junipero"
-imdb: "4538072"
 stars: "5/5"
-tags: ['netflix', 'blackmirror', 'series']
-_title: "San Junipero"
-_year: "2016"
-_director: ["Owen Harris", ]
-_writer: ["Charlie Brooker", ]
-_cast: ["Gugu Mbatha-Raw (Kelly)", "Mackenzie Davis (Yorkie)", "Denise Burse (Elder Kelly)", "Raymond McAnally (Greg)", "Gavin Stenhouse (Wes)", "Cheryl Anderson (Laura)", "Jackson Bews (Harvey)", "Annabel Davis (Elder Yorkie)", "Billy Griffin Jr. (Davis)", ]
-_editor: ["Nicolas Chaudeurge", ]
-_cinematographer: ["Gustav Danielsson", ]
-_music: ["Clint Mansell", ]
-_costume designer: ["Susie Coulthard", ]
-_genres: ["Drama", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BOTM1MTE3NmUtOWNlNy00ZjUxLWIzZjAtYjczN2I3M2M0YWIyXkEyXkFqcGdeQXVyNTQyMDczMzY@.jpg"
-_kind: "episode"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BOTM1MTE3NmUtOWNlNy00ZjUxLWIzZjAtYjczN2I3M2M0YWIyXkEyXkFqcGdeQXVyNTQyMDczMzY@._V1._SX100_SY67_.jpg"
+desc: "Black Mirror - Terceira Temporada, Episódio 4: San Junipero. Dirigido por Owen Harris. Escrito por Charlie Brooker. Com Gugu Mbatha-Raw (Kelly), Mackenzie Davis (Yorkie), Denise Burse (Elder Kelly), Raymond McAnally (Greg), Gavin Stenhouse (Wes), Cheryl Anderson (Laura), Jackson Bews (Harvey), Annabel Davis (Elder Yorkie), Billy Griffin Jr. (Davis)."
 ---
 Já estava na hora da série Black Mirror enfocar uma questão altamente relevante e discutida entre os aficionados por tecnologia futura: a imortalidade. Dentre as diferentes formas, eles escolheram a perfeita para o romance que pretendem retratar em um arco ambicioso, tudo em apenas uma hora. Abaixo uma breve descrição COM SPOILERS.
 

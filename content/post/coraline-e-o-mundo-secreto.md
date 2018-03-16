@@ -1,25 +1,10 @@
 ---
-date: "2011-11-29"
 imdb: "0327597"
+date: "2011-11-29"
+categories: "movies"
 title: "Coraline e o Mundo Secreto"
 stars: "4/5"
-categories: "movies"
-_title: "Coraline"
-_year: "2009"
-_director: ["Henry Selick", ]
-_writer: ["Henry Selick", "Neil Gaiman", ]
-_cast: ["Dakota Fanning", "Teri Hatcher", "Jennifer Saunders", "Dawn French", "Keith David", "John Hodgman", "Robert Bailey Jr.", "Ian McShane", "Aankha Neal", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Christopher Murrie", "Ronald Sanders", ]
-_cinematographer: ["Pete Kozachik", ]
-_music: ["Bruno Coulais", ]
-_genres: ["Animation", ]
-_runtimes: ["100", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMzQxNjM5NzkxNV5BMl5BanBnXkFtZTcwMzg5NDMwMg@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMzQxNjM5NzkxNV5BMl5BanBnXkFtZTcwMzg5NDMwMg@@._V1._SX94_SY140_.jpg"
+desc: "Coraline e o Mundo Secreto. Coraline (USA, 2009). Dirigido por Henry Selick. Escrito por Henry Selick, Neil Gaiman. Com Dakota Fanning, Teri Hatcher, Jennifer Saunders, Dawn French, Keith David, John Hodgman, Robert Bailey Jr., Ian McShane, Aankha Neal."
 ---
 Existem filmes que encantam apenas pelo seus esforços periféricos (direção de arte, música, fotografia) e existem os que apenas chamam a atenção pelo seu desenvolvimento central (roteiro e direção). No caso de Coraline é difícil não ficar deslumbrado com o apuro técnico de todo um mundo criado e que ganhou movimento graças ao tradicional uso do stop motion, onde a ação é montada quadro-a-quadro. Além disso, é o primeiro filme desse estilo ao ser rodado em 3D, o que levanta alguns aspectos interessantes da sua narrativa, como o uso das agulhas.
 

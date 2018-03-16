@@ -1,25 +1,10 @@
 ---
-date: "2016-01-21"
 imdb: "0022100"
-stars: "5/5"
+date: "2016-01-21"
 categories: "movies"
 title: "M, O Vampiro de Dusseldorf"
-_title: "M"
-_year: "1931"
-_director: ["Fritz Lang", ]
-_writer: ["Thea von Harbou", "Fritz Lang", "Egon Jacobson", ]
-_cast: ["Peter Lorre", "Ellen Widmann", "Inge Landgut", "Otto Wernicke", "Theodor Loos", "Gustaf Gründgens", "Friedrich Gnaß", "Fritz Odemar", "Paul Kemp", ]
-_countries: ["Germany", ]
-_languages: ["German", ]
-_editor: ["Paul Falkenberg", ]
-_cinematographer: ["Fritz Arno Wagner", ]
-_artdirection: ["Emil Hasler", "Karl Vollbrecht", ]
-_genres: ["Crime", ]
-_runtimes: ["117", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQyNjA5NzU5MV5BMl5BanBnXkFtZTgwMDk1MTA5MTE@.jpg"
-_ratio: "1.19 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQyNjA5NzU5MV5BMl5BanBnXkFtZTgwMDk1MTA5MTE@._V1._SX98_SY140_.jpg"
+stars: "5/5"
+desc: "M, O Vampiro de Dusseldorf. M (Germany, 1931). Dirigido por Fritz Lang. Escrito por Thea von Harbou, Fritz Lang, Egon Jacobson. Com Peter Lorre, Ellen Widmann, Inge Landgut, Otto Wernicke, Theodor Loos, Gustaf Gründgens, Friedrich Gnaß, Fritz Odemar, Paul Kemp."
 ---
 Esse é um filme que explora a moral de um assassino de uma maneira tão absurda e dúbia quanto seus momentos cômicos. O expressionismo de Fritz Lang (e o alemão) colaboram para um filme hoje engraçado em alguns momentos, quando uma pessoa segura um fósforo aceso na mão à espera de uma resposta, mas hipertensos em outros, quando os argumentos de um inesperado advogado de defesa revelam uma relativização perigosa da ação e liberdade humanas, e uma discussão sobre direitos igualmente fascinante.
 

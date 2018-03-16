@@ -1,25 +1,10 @@
 ---
-date: "2013-07-11"
 imdb: "0097239"
+date: "2013-07-11"
+categories: "movies"
 title: "Conduzindo Miss Daisy"
 stars: "4/5"
-categories: "movies"
-_title: "Driving Miss Daisy"
-_year: "1989"
-_director: ["Bruce Beresford", ]
-_writer: ["Alfred Uhry", "Alfred Uhry", ]
-_cast: ["Morgan Freeman", "Jessica Tandy", "Dan Aykroyd", "Patti LuPone", "Esther Rolle", "Joann Havrilla", "William Hall Jr.", "Alvin M. Sugarman", "Clarice F. Geigerman", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Mark Warner", ]
-_cinematographer: ["Peter James", ]
-_music: ["Hans Zimmer", ]
-_genres: ["Comedy", ]
-_runtimes: ["99", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTI2Njg4MDM5MF5BMl5BanBnXkFtZTYwMDk4NjM5.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTI2Njg4MDM5MF5BMl5BanBnXkFtZTYwMDk4NjM5._V1._SX77_SY140_.jpg"
+desc: "Conduzindo Miss Daisy. Driving Miss Daisy (USA, 1989). Dirigido por Bruce Beresford. Escrito por Alfred Uhry, Alfred Uhry. Com Morgan Freeman, Jessica Tandy, Dan Aykroyd, Patti LuPone, Esther Rolle, Joann Havrilla, William Hall Jr., Alvin M. Sugarman, Clarice F. Geigerman."
 ---
 Um filme que envelheceu bem, mas que continua enigmático em alguns sentidos (ele é, de fato, racista?). Em outros, se reforça ainda mais, como é o caso da belíssima trilha sonora, composta pelo rival de temas de John Williams, Hans Zimmer, e das interpretações de Morgam Freeman e Jessica Tandy.
 

@@ -1,9 +1,10 @@
 ---
-date: 2018-01-18T19:34:13-02:00
-title: "O Exorcista"
-categories: "movies"
+date: 2018-01-18T21:34:13
 imdb: "0070047"
+categories: "movies"
 stars: "5/5"
+title: "O Exorcista"
+desc: "O Exorcista."
 ---
 O Exorcista. Apesar de cercado de lendas e maldições em sua produção, podemos dizer que o resultado é um pequeno milagre. Se trata de um filme de terror que se constrói aos poucos em cima de um drama e personagens que são bem formados, e não jogados como os terrores de hoje em dia. Ao final, temos pouco mais que 15 minutos de cenas horripilantes. Mas essas cenas horripilantes só são assustadoras porque possuem todo um pano de fundo desta história. É preciso ver para crer o que o Cinema conseguiu produzir mesmo com o uso de bonecas, vômitos voadores e uma criança descendo escadas da maneira mais não-convencional possível.
 

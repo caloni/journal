@@ -1,27 +1,10 @@
 ---
-date: "2016-03-07"
 imdb: "0272338"
-stars: "5/5"
+date: "2016-03-07"
 categories: "movies"
 title: "Embriagado de Amor"
-_title: "Punch-Drunk Love"
-_year: "2002"
-_director: ["Paul Thomas Anderson", ]
-_writer: ["Paul Thomas Anderson", ]
-_cast: ["Adam Sandler", "Jason Andrews", "Don McManus", "Emily Watson", "Luis Guzmán", "David Schrempf", "Seann Conway", "Rico Bueno", "Hazel Mailloux", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Leslie Jones", ]
-_cinematographer: ["Robert Elswit", ]
-_music: ["Jon Brion", ]
-_artdirection: ["Sue Chan", ]
-_costume designer: ["Mark Bridges", ]
-_genres: ["Comedy", ]
-_runtimes: ["95", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BOTcwMDMxMjg2NF5BMl5BanBnXkFtZTYwNzg0MDc3.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BOTcwMDMxMjg2NF5BMl5BanBnXkFtZTYwNzg0MDc3._V1._SX93_SY140_.jpg"
+stars: "5/5"
+desc: "Embriagado de Amor. Punch-Drunk Love (USA, 2002). Dirigido por Paul Thomas Anderson. Escrito por Paul Thomas Anderson. Com Adam Sandler, Jason Andrews, Don McManus, Emily Watson, Luis Guzmán, David Schrempf, Seann Conway, Rico Bueno, Hazel Mailloux."
 ---
 Paul Thomas Anderson é um diretor peculiar, tanto quanto Sidney Lumet. Ambos fizeram trabalhos com temas variados, mas se entregaram a cada projeto como se cada um deles fosse sua obra-prima. Nenhum dos dois pode ser "acusado" de fazer Cinema autoral (aquele que pelo filme você já sabe quem é o diretor).
 

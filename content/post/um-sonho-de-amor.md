@@ -1,25 +1,10 @@
 ---
-date: "2011-12-25"
 imdb: "1226236"
+date: "2011-12-25"
+categories: "movies"
 title: "Um Sonho de Amor"
 stars: "3/5"
-categories: "movies"
-_title: "Io sono l'amore"
-_year: "2009"
-_director: ["Luca Guadagnino", ]
-_writer: ["Barbara Alberti", "Ivan Cotroneo", "Walter Fasano", "Luca Guadagnino", "Luca Guadagnino", ]
-_cast: ["Tilda Swinton", "Flavio Parenti", "Edoardo Gabbriellini", "Alba Rohrwacher", "Pippo Delbono", "Maria Paiato", "Diane Fleri", "Waris Ahluwalia", "Mattia Zaccaro", ]
-_countries: ["Italy", ]
-_languages: ["Italian", ]
-_editor: ["Walter Fasano", ]
-_cinematographer: ["Yorick Le Saux", ]
-_music: ["John Adams", ]
-_genres: ["Drama", ]
-_runtimes: ["120", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjAwNjY5OTUxM15BMl5BanBnXkFtZTcwNjE3MTQxMw@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjAwNjY5OTUxM15BMl5BanBnXkFtZTcwNjE3MTQxMw@@._V1._SX94_SY140_.jpg"
+desc: "Um Sonho de Amor. Io sono l'amore (Italy, 2009). Dirigido por Luca Guadagnino. Escrito por Barbara Alberti, Ivan Cotroneo, Walter Fasano, Luca Guadagnino, Luca Guadagnino. Com Tilda Swinton, Flavio Parenti, Edoardo Gabbriellini, Alba Rohrwacher, Pippo Delbono, Maria Paiato, Diane Fleri, Waris Ahluwalia, Mattia Zaccaro."
 ---
 Essa história sobre a mudança dos valores sob vários aspectos é uma abordagem quase idílica do novo cinema italiano. Assistimos com certa solenidade o sisudo jantar em família (evidenciado pelo exagero de sombras) em que o patriarca, já debilitado, transfere o controle da empresa para seu filho e neto. O inusitado e refrescante dessa nova história é que nos bastidores (ou para ser mais direto, na cozinha) encontra-se a origem de mudanças radicais naquela forma de funcionar o mundo.
 

@@ -1,9 +1,10 @@
 ---
-date: 2018-01-30T17:30:18-02:00
-title: "Garoojigi"
-categories: "movies"
+date: 2018-01-30T19:30:18
 imdb: "1433775"
+categories: "movies"
 stars: "2/5"
+title: "Garoojigi"
+desc: "Garoojigi."
 ---
 Este filme tem uma história tão ruim, mas como ela é baseada em um "conto antigo" (que nunca existiu) nos faz pensar que isso é coisa do pessoal das antigas, um bando de malucos onde fazer sexo com uma ursa pode salvar uma aldeia da infertilidade. E como não dar risada de um filme supostamente erótico onde vemos meia-dúzia de peitos e nenhum órgão reprodutor?
 

@@ -1,27 +1,11 @@
 ---
-imdb: "4877122"
-stars: "1/5"
 tags: ['paulocoelho']
+imdb: "4877122"
 date: 2017-11-23T01:21:08
-title: "Emoji: O Filme"
 categories: "movies"
-_title: "The Emoji Movie"
-_year: "2017"
-_director: ["Tony Leondis", ]
-_writer: ["Tony Leondis", "Eric Siegel", "Mike White", "John Hoffman", ]
-_cast: ["T.J. Miller (Gene)", "James Corden (Hi-5)", "Anna Faris (Jailbreak)", "Maya Rudolph (Smiler)", "Steven Wright (Mel Meh)", "Jennifer Coolidge (Mary Meh)", "Patrick Stewart (Poop)", "Christina Aguilera (Akiko Glitter)", "Sofía Vergara (Flamenca)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["William J. Caparella", ]
-_music: ["Patrick Doyle", ]
-_artdirection: ["Ryan L. Carlson", ]
-_genres: ["Animation", ]
-_runtimes: ["86", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTkzMzM3OTM2Ml5BMl5BanBnXkFtZTgwMDM0NDU3MjI@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTkzMzM3OTM2Ml5BMl5BanBnXkFtZTgwMDM0NDU3MjI@._V1._SX94_SY140_.jpg"
-_releasedate: "31 August 2017"
+title: "Emoji: O Filme"
+stars: "1/5"
+desc: "Emoji: O Filme. The Emoji Movie (USA, 2017). Dirigido por Tony Leondis. Escrito por Tony Leondis, Eric Siegel, Mike White, John Hoffman. Com T.J. Miller (Gene), James Corden (Hi-5), Anna Faris (Jailbreak), Maya Rudolph (Smiler), Steven Wright (Mel Meh), Jennifer Coolidge (Mary Meh), Patrick Stewart (Poop), Christina Aguilera (Akiko Glitter), Sofía Vergara (Flamenca)."
 ---
 Não é sintomático que um filme chamado Emoji tenha tão poucas emoções? Talvez não. Afinal de contas, os emojis basicamente são a simplificação de nossa linguagem e dos nossos sentimentos. Onde um email com uma poesia é colocado na lixeira porque "usar textos é tão retrô" e onde no lugar de um emoji com uma única emoção enlatada surge um emoji com várias!
 

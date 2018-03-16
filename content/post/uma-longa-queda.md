@@ -1,25 +1,10 @@
 ---
-date: "2015-01-11"
 imdb: "0458413"
+date: "2015-01-11"
+categories: "movies"
 title: "Uma Longa Queda"
 stars: "2/5"
-categories: "movies"
-_title: "A Long Way Down"
-_year: "2014"
-_director: ["Pascal Chaumeil", ]
-_writer: ["Nick Hornby", "Jack Thorne", ]
-_cast: ["Pierce Brosnan", "Toni Collette", "Imogen Poots", "Aaron Paul", "Zara White", "Joe Cole", "Evelyn Duah", "Therese Bradley", "Sam Neill", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Chris Gill", "Barney Pilling", ]
-_cinematographer: ["Ben Davis", ]
-_music: ["Dario Marianelli", ]
-_genres: ["Comedy", ]
-_runtimes: ["96", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTc0MTg0MDI2Ml5BMl5BanBnXkFtZTgwNzM4MDYwMTE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTc0MTg0MDI2Ml5BMl5BanBnXkFtZTgwNzM4MDYwMTE@._V1._SX94_SY140_.jpg"
+desc: "Uma Longa Queda. A Long Way Down (UK, 2014). Dirigido por Pascal Chaumeil. Escrito por Nick Hornby, Jack Thorne. Com Pierce Brosnan, Toni Collette, Imogen Poots, Aaron Paul, Zara White, Joe Cole, Evelyn Duah, Therese Bradley, Sam Neill."
 ---
 Não é muito educado tratar suicídios de forma banal. Reunir quatro suicidas na mesma noite de ano-novo no terraço de um prédio prestes a se matar é menos ainda. No entanto, esse é um filme britânico, e está aberto ao senso de humor peculiarmente britânico (apesar do diretor Pascal Chaumeil ser francês essa é uma produção BBC). Apesar de poucas explicações, em menos de 10 minutos de filme um quarteto inesperado de suicidas vira o núcleo central dessa história que tenta dividir atenções entre seus quatro protagonistas através do velho recurso de narração em off. Além disso, divide o filme em quatro subtítulos com o nome dos personagens. Mesmo assim, quer inventar de reunir o grupo de maneira mais "intensa", como se esse momento não tivesse sido a hora que todos escolheram para dizer adeus a esse mundo. É artificial, bobo e, felizmente, despretensioso.
 

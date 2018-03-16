@@ -1,25 +1,10 @@
 ---
-date: "2012-11-16"
 imdb: "1142977"
+date: "2012-11-16"
+categories: "movies"
 title: "Frankenweenie"
 stars: "4/5"
-categories: "movies"
-_title: "Frankenweenie"
-_year: "2012"
-_director: ["Tim Burton", ]
-_writer: ["Leonard Ripps", "Tim Burton", "John August", ]
-_cast: ["Catherine O'Hara", "Martin Short", "Martin Landau", "Charlie Tahan", "Atticus Shaffer", "Winona Ryder", "Robert Capron", "James Hiroyuki Liao", "Conchata Ferrell", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Chris Lebenzon", "Mark Solomon", ]
-_cinematographer: ["Peter Sorg", ]
-_music: ["Danny Elfman", ]
-_genres: ["Animation", ]
-_runtimes: ["87", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTk1MjYzMjY2N15BMl5BanBnXkFtZTgwNzg2NjAwMzE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTk1MjYzMjY2N15BMl5BanBnXkFtZTgwNzg2NjAwMzE@._V1._SX95_SY140_.jpg"
+desc: "Frankenweenie. Frankenweenie (USA, 2012). Dirigido por Tim Burton. Escrito por Leonard Ripps, Tim Burton, John August. Com Catherine O'Hara, Martin Short, Martin Landau, Charlie Tahan, Atticus Shaffer, Winona Ryder, Robert Capron, James Hiroyuki Liao, Conchata Ferrell."
 ---
 Desde o início há algo de mágico em Frankenweenie. Baseado em um curta dirigido pelo próprio Tim Burton e, quem diria, produzido pela Disney, o diretor e roteiro repetem os mesmos passos certeiros do trabalho original, conseguem desviar dos errados e acrescentam, além de uma divertidíssima homenagem ao Terror em seus momentos mais fortes, uma saudável discussão em torno de como as pessoas enxergam a ciência hoje em dia. Afinal de contas, o Frankestein de Mary Shelley nunca esteve tão presente nas discussões de botequim, misturado com superstições religiosas que continuam assombrando-nos até hoje.
 

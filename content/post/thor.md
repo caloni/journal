@@ -1,25 +1,10 @@
 ---
-date: "2012-04-02"
 imdb: "0800369"
+date: "2012-04-02"
+categories: "movies"
 title: "Thor"
 stars: "2/5"
-categories: "movies"
-_title: "Thor"
-_year: "2011"
-_director: ["Kenneth Branagh", ]
-_writer: ["Ashley Miller", "Zack Stentz", "Don Payne", "J. Michael Straczynski", "Mark Protosevich", "Stan Lee", "Larry Lieber", "Jack Kirby", "Nicole Perlman", ]
-_cast: ["Chris Hemsworth", "Natalie Portman", "Tom Hiddleston", "Anthony Hopkins", "Stellan Skarsgård", "Kat Dennings", "Clark Gregg", "Colm Feore", "Idris Elba", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Paul Rubell", ]
-_cinematographer: ["Haris Zambarloukos", ]
-_music: ["Patrick Doyle", ]
-_genres: ["Action", ]
-_runtimes: ["115", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTYxMjA5NDMzNV5BMl5BanBnXkFtZTcwOTk2Mjk3NA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTYxMjA5NDMzNV5BMl5BanBnXkFtZTcwOTk2Mjk3NA@@._V1._SX94_SY140_.jpg"
+desc: "Thor. Thor (USA, 2011). Dirigido por Kenneth Branagh. Escrito por Ashley Miller, Zack Stentz, Don Payne, J. Michael Straczynski, Mark Protosevich, Stan Lee, Larry Lieber, Jack Kirby, Nicole Perlman. Com Chris Hemsworth, Natalie Portman, Tom Hiddleston, Anthony Hopkins, Stellan Skarsgård, Kat Dennings, Clark Gregg, Colm Feore, Idris Elba."
 ---
 Não há nada para se ver em Thor. É bobinho, está na direção automática e possui uma fotografia e uma trilha sonora que combinam com sua falta de personalidade. Ou seja, a Marvel pode levar a sério seus cronogramas e personagens, mas não o Cinema em si.
 

@@ -1,24 +1,10 @@
 ---
+tags: ['netflix', 'series', '3perc']
+imdb: "4922804"
 date: "2017-01-01"
 categories: "blog"
 title: "3%: spoilers sobre uma série para bandidos"
-imdb: "4922804"
-tags: ['netflix', 'series', '3perc']
-_title: "3%"
-_year: "2016"
-_director: ["César Charlone", "Jotagá Crema", "Daina Giannecchini", "Dani Libardi", ]
-_writer: ["Pedro Aguilera", "Jotagá Crema", "Cássio Koshikumo", "Ivan Nakamura", "Denis Nielsen", ]
-_cast: ["João Miguel (Ezequiel)", "Bianca Comparato (Michele Santana)", "Michel Gomes (Fernando Carvalho)", "Rodolfo Valente (Rafael Moreira)", "Vaneza Oliveira (Joana Coelho)", "Viviane Porto (Aline)", "Sérgio Mamberti (Matheus)", "Zezé Motta (Nair)", "Celso Frateschi (Líder da Causa)", ]
-_countries: ["Brazil", ]
-_languages: ["Portuguese", ]
-_cinematographer: ["Eduardo Piagge", ]
-_music: ["André Mehmari", ]
-_artdirection: ["Valdy Lopes", ]
-_genres: ["Action", ]
-_runtimes: ["49::(approx.)", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BYTEzOWYzZDktOTkzZC00ZTcyLThjZDYtNDA2Y2Y1YTcxMzNlXkEyXkFqcGdeQXVyMTkzODUwNzk@.jpg"
-_kind: "tv series"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BYTEzOWYzZDktOTkzZC00ZTcyLThjZDYtNDA2Y2Y1YTcxMzNlXkEyXkFqcGdeQXVyMTkzODUwNzk@._V1._SX94_SY140_.jpg"
+desc: "3%: spoilers sobre uma série para bandidos. 3% (Brazil, 2016). Dirigido por César Charlone, Jotagá Crema, Daina Giannecchini, Dani Libardi. Escrito por Pedro Aguilera, Jotagá Crema, Cássio Koshikumo, Ivan Nakamura, Denis Nielsen. Com João Miguel (Ezequiel), Bianca Comparato (Michele Santana), Michel Gomes (Fernando Carvalho), Rodolfo Valente (Rafael Moreira), Vaneza Oliveira (Joana Coelho), Viviane Porto (Aline), Sérgio Mamberti (Matheus), Zezé Motta (Nair), Celso Frateschi (Líder da Causa)."
 ---
 Michele e Rafael são idiotas úteis movidos por vingança -- e que poderia muito bem ser outro sentimento negativo, como inveja -- e instrumentados por um movimento semelhante ao PCC de São Paulo, Brasil. Seu objetivo como grupo é claro: roubar a riqueza dos que prosperam do "lado de lá", uma sociedade formada inteiramente através de um processo meritocrático, e que não precisou de nem um centavo das milhares de miseráveis que sobrevivem como selvagens em uma grande favela sem leis chamada de "lado de cá".
 

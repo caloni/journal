@@ -1,25 +1,10 @@
 ---
-date: "2014-05-08"
 imdb: "0357413"
+date: "2014-05-08"
+categories: "movies"
 title: "O Âncora A Lenda de Ron Burgundy"
 stars: "3/5"
-categories: "movies"
-_title: "Anchorman: The Legend of Ron Burgundy"
-_year: "2004"
-_director: ["Adam McKay", ]
-_writer: ["Will Ferrell", "Adam McKay", ]
-_cast: ["Will Ferrell", "Christina Applegate", "Paul Rudd", "Steve Carell", "David Koechner", "Fred Willard", "Chris Parnell", "Kathryn Hahn", "Fred Armisen", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Brent White", ]
-_cinematographer: ["Thomas E. Ackerman", ]
-_music: ["Alex Wurman", ]
-_genres: ["Comedy", ]
-_runtimes: ["94", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQ2MzYwMzk5Ml5BMl5BanBnXkFtZTcwOTI4NzUyMw@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQ2MzYwMzk5Ml5BMl5BanBnXkFtZTcwOTI4NzUyMw@@._V1._SX94_SY140_.jpg"
+desc: "O Âncora A Lenda de Ron Burgundy. Anchorman: The Legend of Ron Burgundy (USA, 2004). Dirigido por Adam McKay. Escrito por Will Ferrell, Adam McKay. Com Will Ferrell, Christina Applegate, Paul Rudd, Steve Carell, David Koechner, Fred Willard, Chris Parnell, Kathryn Hahn, Fred Armisen."
 ---
 Não incomoda ver homens adultos, profissionais da mídia televisiva, se comportando como adolescentes estúpidos que só pensam em mulheres como objetos sexuais e, pior, rivais à sua suposta inteligência superior? Para um machista contemporâneo a parte da mulher como objeto sexual permanece, mas como bem demonstra O Âncora, o medo de ser mais burro e a vontade de transar podem ser dois lados de uma mesma moeda de um centavo.
 

@@ -1,24 +1,10 @@
 ---
-date: "2015-05-17"
 imdb: "0983193"
-stars: "4/5"
+date: "2015-05-17"
 categories: "movies"
 title: "As Aventuras de Tintim"
-_title: "The Adventures of Tintin"
-_year: "2011"
-_director: ["Steven Spielberg", ]
-_writer: ["Steven Moffat", "Edgar Wright", "Joe Cornish", "Hergé", ]
-_cast: ["Jamie Bell", "Andy Serkis", "Daniel Craig", "Nick Frost", "Simon Pegg", "Daniel Mays", "Gad Elmaleh", "Toby Jones", "Joe Starr", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Michael Kahn", ]
-_music: ["John Williams", ]
-_genres: ["Animation", ]
-_runtimes: ["107", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNDE5MDExNTQ1OF5BMl5BanBnXkFtZTcwMDIxMTM5Ng@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNDE5MDExNTQ1OF5BMl5BanBnXkFtZTcwMDIxMTM5Ng@@._V1._SX94_SY140_.jpg"
+stars: "4/5"
+desc: "As Aventuras de Tintim. The Adventures of Tintin (USA, 2011). Dirigido por Steven Spielberg. Escrito por Steven Moffat, Edgar Wright, Joe Cornish, Hergé. Com Jamie Bell, Andy Serkis, Daniel Craig, Nick Frost, Simon Pegg, Daniel Mays, Gad Elmaleh, Toby Jones, Joe Starr."
 ---
 Quem diria que, no meio de tantos filmes de super-herói machões com frases de efeito e diferentes efeitos digitais para fazer você comer pipoca freneticamente, As Aventuras de Tintim seja o que possui o personagem mais maduro e o conflito mais adulto de todos?
 

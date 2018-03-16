@@ -1,29 +1,11 @@
 ---
-imdb: "5362988"
-stars: "4/5"
 tags: ['cabine']
+imdb: "5362988"
 date: 2017-10-27T18:39:12
-title: "Terra Selvagem"
 categories: "movies"
-_title: "Wind River"
-_year: "2017"
-_director: ["Taylor Sheridan", ]
-_writer: ["Taylor Sheridan", ]
-_cast: ["Kelsey Asbille (Natalie)", "Jeremy Renner (Cory Lambert)", "Julia Jones (Wilma)", "Teo Briones (Casey)", "Apesanahkwat (Dan Crowheart)", "Graham Greene (Ben)", "Elizabeth Olsen (Jane Banner)", "Tantoo Cardinal (Alice Crowheart)", "Eric Lange (Dr. Whitehurst)", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Gary Roach", ]
-_cinematographer: ["Ben Richardson", ]
-_music: ["Nick Cave", "Warren Ellis", ]
-_artdirection: ["Lauren Slatten", ]
-_costume designer: ["Kari Perkins", ]
-_genres: ["Crime", ]
-_runtimes: ["107", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUyMjU1OTUwM15BMl5BanBnXkFtZTgwMDg1NDQ2MjI@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUyMjU1OTUwM15BMl5BanBnXkFtZTgwMDg1NDQ2MjI@._V1._SX94_SY140_.jpg"
-_releasedate: "2 November 2017"
+title: "Terra Selvagem"
+stars: "4/5"
+desc: "Terra Selvagem. Wind River (UK, 2017). Dirigido por Taylor Sheridan. Escrito por Taylor Sheridan. Com Kelsey Asbille (Natalie), Jeremy Renner (Cory Lambert), Julia Jones (Wilma), Teo Briones (Casey), Apesanahkwat (Dan Crowheart), Graham Greene (Ben), Elizabeth Olsen (Jane Banner), Tantoo Cardinal (Alice Crowheart), Eric Lange (Dr. Whitehurst)."
 ---
 Taylor Sheridan, roteirista de [A Qualquer Custo](/a-qualquer-custo), estreia na direção com outro conteúdo sócio-político relevante. Aqui há um pouquinho a mais de discurso politicamente correto, e um quê de moralista. Mas nada disso atrapalha a atuação de Jeremy Renner, uma de suas melhores. Olhe como Renner incorpora totalmente o caçador de predadores Cory Lambert. E Coby Lambert merecerá ser um nome de personagem digno de ser lembrado no futuro.
 

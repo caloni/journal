@@ -1,27 +1,11 @@
 ---
+tags: ['cabine']
+imdb: "5290524"
 date: "2016-08-12"
 categories: "movies"
-imdb: "5290524"
-stars: "4/5"
 title: "O Funcionário do Mês"
-tags: [ "cabine" ]
-_title: "Quo vado?"
-_year: "2016"
-_director: ["Gennaro Nunziante", ]
-_writer: ["Gennaro Nunziante", "Checco Zalone", ]
-_cast: ["Checco Zalone", "Eleonora Giovanardi", "Sonia Bergamasco", "Maurizio Micheli", "Lino Banfi", "Ludovica Modugno", "Antonino Bruschetta", "Paolo Pierobon", "Azzurra Martino", ]
-_countries: ["Italy", ]
-_languages: ["Italian", ]
-_editor: ["Pietro Morana", ]
-_cinematographer: ["Valerio Evangelista", "Vittorio Omodei Zorini", ]
-_music: ["Checco Zalone", ]
-_costume designer: ["Francesca Casciello", ]
-_genres: ["Comedy", ]
-_runtimes: ["86", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BODZlNzk3MzUtNzM5Yy00NjgzLWE3YWYtY2M0YTAxNjJjNjUyXkEyXkFqcGdeQXVyMjkyNDEzNzg@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BODZlNzk3MzUtNzM5Yy00NjgzLWE3YWYtY2M0YTAxNjJjNjUyXkEyXkFqcGdeQXVyMjkyNDEzNzg@._V1._SX98_SY140_.jpg"
+stars: "4/5"
+desc: "O Funcionário do Mês. Quo vado? (Italy, 2016). Dirigido por Gennaro Nunziante. Escrito por Gennaro Nunziante, Checco Zalone. Com Checco Zalone, Eleonora Giovanardi, Sonia Bergamasco, Maurizio Micheli, Lino Banfi, Ludovica Modugno, Antonino Bruschetta, Paolo Pierobon, Azzurra Martino."
 ---
 Aqui está a comédia definitiva sobre como a mente acomodada, preguiçosa e aproveitadora dos humanos funciona. Nada como transformar um funcionário público italiano como o herói dessa jornada em direção à humanidade. A mensagem do filme é clara: A única esperança é arregaçarmos as mangas e trabalhar. E que bela mensagem libertária!
 

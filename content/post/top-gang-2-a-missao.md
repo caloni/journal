@@ -1,29 +1,11 @@
 ---
+tags: ['netflix']
+imdb: "0107144"
 date: "2017-03-05"
 categories: "movies"
 title: "Top Gang 2! - A Missão"
-imdb: "0107144"
 stars: "4/5"
-tags: ['netflix']
-_title: "Hot Shots! Part Deux"
-_year: "1993"
-_director: ["Jim Abrahams", ]
-_writer: ["Jim Abrahams", "Pat Proft", ]
-_cast: ["Charlie Sheen (Topper Harley)", "Lloyd Bridges (Tug Benson)", "Valeria Golino (Ramada Rodham Hayman)", "Richard Crenna (Col. Denton Walters)", "Brenda Bakke (Michelle Rodham Huddleston)", "Miguel Ferrer (Harbinger)", "Rowan Atkinson (Dexter Hayman)", "Jerry Haleva (Saddam Hussein)", "David Wohl (Gerou)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Malcolm Campbell", ]
-_cinematographer: ["John R. Leonetti", ]
-_music: ["Basil Poledouris", ]
-_artdirection: ["Greg Papalia", ]
-_costume designer: ["Mary Malin", ]
-_genres: ["Action", ]
-_runtimes: ["86", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BZjU2ODlmZWMtODEwZS00NTQ0LTk1ZDYtYzk0ZjE3ZGZhMGM0XkEyXkFqcGdeQXVyMTQxNzMzNDI@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BZjU2ODlmZWMtODEwZS00NTQ0LTk1ZDYtYzk0ZjE3ZGZhMGM0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1._SX93_SY140_.jpg"
-_releasedate: "28 May 1993"
+desc: "Top Gang 2! - A Missão. Hot Shots! Part Deux (USA, 1993). Dirigido por Jim Abrahams. Escrito por Jim Abrahams, Pat Proft. Com Charlie Sheen (Topper Harley), Lloyd Bridges (Tug Benson), Valeria Golino (Ramada Rodham Hayman), Richard Crenna (Col. Denton Walters), Brenda Bakke (Michelle Rodham Huddleston), Miguel Ferrer (Harbinger), Rowan Atkinson (Dexter Hayman), Jerry Haleva (Saddam Hussein), David Wohl (Gerou)."
 ---
 Top Gang 2! é mais uma comédia-paródia de trabalhos da época. E é um trabalho hilário. Primeiro porque ele reúne o maior número de gags por segundo. E segundo porque ele abraça o besteirol sem qualquer ressalva. Quando as flechas de nosso herói acabam, ele simplesmente olha para o chão e acha a galinha-flecha que ele precisava. Esse é o nível de insanidade do trabalho de Jim Abrahams.
 

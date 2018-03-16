@@ -1,24 +1,10 @@
 ---
-date: "2012-05-04"
 imdb: "2479066"
+date: "2012-05-04"
+categories: "movies"
 title: "The Real St. Nick"
 stars: "5/5"
-categories: "movies"
-_title: "The Real St. Nick"
-_year: "2012"
-_director: ["Penelope Spheeris", ]
-_writer: ["Stephanie Rennie", "Steven Palmer Peterson", "Steven Palmer Peterson", ]
-_cast: ["Torrey DeVitto", "Callard Harris", "Roma Maffia", "Kenneth Choi", "Matt Felker", "Alix Elizabeth Gitter", "Mark Adair-Rios", "Aaron Landon", "Thomas Sellwood", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Bob Joyce", ]
-_cinematographer: ["Andrew Strahorn", ]
-_music: ["Jeff Toyne", ]
-_genres: ["Comedy", ]
-_runtimes: ["85", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjE2OTk0NDM4N15BMl5BanBnXkFtZTcwMjM0MzE4OA@@.jpg"
-_kind: "tv movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjE2OTk0NDM4N15BMl5BanBnXkFtZTcwMjM0MzE4OA@@._V1._SX95_SY140_.jpg"
+desc: "The Real St. Nick. The Real St. Nick (USA, 2012). Dirigido por Penelope Spheeris. Escrito por Stephanie Rennie, Steven Palmer Peterson, Steven Palmer Peterson. Com Torrey DeVitto, Callard Harris, Roma Maffia, Kenneth Choi, Matt Felker, Alix Elizabeth Gitter, Mark Adair-Rios, Aaron Landon, Thomas Sellwood."
 ---
 Quando o filme se inicia, e não sabemos exatamente quem são aquelas crianças, é muito fácil confundi-las com uma situação comum que vemos todos os dias: crianças brincando de aventureiros. Porém, conforme adentramos no mundo lúdico, mas cruel, de suas realidades, a consciência pesa demais para um filme supostamente despretensioso. Mais interessante, porém, é constatar que as pessoas que as encontram imaginam o mesmo que nós imaginávamos minutos antes, o que não deixa de ser irônico e trágico, pois agora vemos que muito da vida passa na nossa frente sem sequer nos darmos conta. A nossa realidade, andando com pressa pela calçada, não enxerga muito além dela própria.
 

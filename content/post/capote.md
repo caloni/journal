@@ -1,25 +1,10 @@
 ---
-date: "2015-03-13"
 imdb: "0379725"
+date: "2015-03-13"
+categories: "movies"
 title: "Capote"
 stars: "3/5"
-categories: "movies"
-_title: "Capote"
-_year: "2005"
-_director: ["Bennett Miller", ]
-_writer: ["Dan Futterman", "Gerald Clarke", ]
-_cast: ["Allie Mickelson", "Kelci Stephenson", "Philip Seymour Hoffman", "Craig Archibald", "Bronwen Coleman", "Kate Shindle", "David Wilson Barnes", "Michael J. Burg", "Catherine Keener", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Christopher Tellefsen", ]
-_cinematographer: ["Adam Kimmel", ]
-_music: ["Mychael Danna", ]
-_genres: ["Biography", ]
-_runtimes: ["114", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTczMzU0MjM1MV5BMl5BanBnXkFtZTcwMjczNzgyNA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTczMzU0MjM1MV5BMl5BanBnXkFtZTcwMjczNzgyNA@@._V1._SX95_SY140_.jpg"
+desc: "Capote. Capote (USA, 2005). Dirigido por Bennett Miller. Escrito por Dan Futterman, Gerald Clarke. Com Allie Mickelson, Kelci Stephenson, Philip Seymour Hoffman, Craig Archibald, Bronwen Coleman, Kate Shindle, David Wilson Barnes, Michael J. Burg, Catherine Keener."
 ---
 Espero que eu tenha entendido mal esse filme. Ele é bem feito, tem a atuação enigmática de Philip Seymour Hoffman, que foi um ícone de atuação até sua prematura morte. Porém, ele possui uma história e uma argumentação falhas demais. Transportando um assassinato bruto de uma família inteira para as ondas do destino e colocando em foco a história de vida de um dos assassinos, o roteiro de Dan Futterman baseado no romance de Gerald Clarke que busca exaltar a sensibilidade do antes escritor de ficção Truman Capote no escritor norte-americano de maior influência do século passado. Pior: ele transfere ainda a moral duvidosa para o próprio escritor, sendo que estamos falando de assassinos cuja biografia está sendo coletada com uma curiosidade inabalável de Capote que durou cerca de cinco anos.
 

@@ -1,25 +1,10 @@
 ---
-date: "2010-12-20"
 imdb: "1134854"
+date: "2010-12-20"
+categories: "movies"
 title: "A Ilha dos Mortos"
 stars: "4/5"
-categories: "movies"
-_title: "Survival of the Dead"
-_year: "2009"
-_director: ["George A. Romero", ]
-_writer: ["George A. Romero", ]
-_cast: ["Alan Van Sprang", "Joshua Peace", "Hardee T. Lineham", "Dru Viergever", "Eric Woolfe", "Shawn Roberts", "Scott Wentworth", "Amy Lalonde", "Michelle Morgan", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Michael Doherty", ]
-_cinematographer: ["Adam Swica", ]
-_music: ["Robert Carli", ]
-_genres: ["Horror", ]
-_runtimes: ["90", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNzE1NDMxMDAzOF5BMl5BanBnXkFtZTcwMjgzNDcyMw@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNzE1NDMxMDAzOF5BMl5BanBnXkFtZTcwMjgzNDcyMw@@._V1._SX94_SY140_.jpg"
+desc: "A Ilha dos Mortos. Survival of the Dead (USA, 2009). Dirigido por George A. Romero. Escrito por George A. Romero. Com Alan Van Sprang, Joshua Peace, Hardee T. Lineham, Dru Viergever, Eric Woolfe, Shawn Roberts, Scott Wentworth, Amy Lalonde, Michelle Morgan."
 ---
 Em uma introdução ultra-rápida em off, temos o cenário e o resumo do que irá acontecer durante o filme inteiro, em uma síntese cuja forma também será usada por todo a história, mostrando a segurança de Romero em estabelecer as ligações primordiais e avançar ideologicamente em pontos mais aprofundados do tema "mortos-vivos".
 

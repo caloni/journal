@@ -1,22 +1,11 @@
 ---
-date: "2016-02-22"
-tags: [ "cabine" ]
+tags: ['cabine']
 imdb: "3411572"
-stars: "3/5"
+date: "2016-02-22"
 categories: "movies"
 title: "Amor em Sampa"
-_title: "Amor em Sampa"
-_year: "2016"
-_director: ["Carlos Alberto Riccelli", "Kim Riccelli", ]
-_writer: ["Bruna Lombardi", ]
-_cast: ["Bruna Lombardi", "Eduardo Moscovis", "Rodrigo Lombardi", "Mariana Lima", "Carlos Alberto Riccelli", "Tiago Abravanel", "Marcello Airoldi", "Miá Mello", "Kim Riccelli", ]
-_countries: ["Brazil", ]
-_languages: ["Portuguese", ]
-_editor: ["Daniel Grinspum", ]
-_cinematographer: ["Marcelo Trotta", ]
-_costume designer: ["Andrea Simonetti", ]
-_genres: ["Musical", ]
-_kind: "movie"
+stars: "3/5"
+desc: "Amor em Sampa. Amor em Sampa (Brazil, 2016). Dirigido por Carlos Alberto Riccelli, Kim Riccelli. Escrito por Bruna Lombardi. Com Bruna Lombardi, Eduardo Moscovis, Rodrigo Lombardi, Mariana Lima, Carlos Alberto Riccelli, Tiago Abravanel, Marcello Airoldi, Miá Mello, Kim Riccelli."
 ---
 Esse filme brega aplica muito bem todos os clichês amadorísticos de novela, caminhando na zona de conforto de não arriscar nada além que o convencional. Às vezes dá a impressão que o filme assume que tratar de "sair do armário" é algo radical em 2016.
 

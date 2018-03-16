@@ -1,25 +1,10 @@
 ---
-date: "2013-10-16"
 imdb: "2219514"
+date: "2013-10-16"
+categories: "movies"
 title: "Preenchendo o Vazio"
 stars: "3/5"
-categories: "movies"
-_title: "Lemale et ha'halal"
-_year: "2012"
-_director: ["Rama Burshtein", ]
-_writer: ["Rama Burshtein", ]
-_cast: ["Hadas Yaron", "Yiftach Klein", "Irit Sheleg", "Chayim Sharir", "Razia Israeli", "Hila Feldman", "Renana Raz", "Yael Tal", "Michael David Weigl", ]
-_countries: ["Israel", ]
-_languages: ["Hebrew", ]
-_editor: ["Sharon Elovic", ]
-_cinematographer: ["Asaf Sudri", ]
-_music: ["Yitzhak Azulay", ]
-_genres: ["Drama", ]
-_runtimes: ["90", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNzQ3ODMyMjA1MV5BMl5BanBnXkFtZTcwMTIzMzEzOQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNzQ3ODMyMjA1MV5BMl5BanBnXkFtZTcwMTIzMzEzOQ@@._V1._SX94_SY140_.jpg"
+desc: "Preenchendo o Vazio. Lemale et ha'halal (Israel, 2012). Dirigido por Rama Burshtein. Escrito por Rama Burshtein. Com Hadas Yaron, Yiftach Klein, Irit Sheleg, Chayim Sharir, Razia Israeli, Hila Feldman, Renana Raz, Yael Tal, Michael David Weigl."
 ---
 Uma fuga de nossa cultura vigente às vezes faz bem. Curioso constatar que, mesmo imersos na rotina, crenças e cânticos da religião judia ortodoxa, os mesmos dramas humanos se configuram.
 

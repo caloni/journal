@@ -1,25 +1,10 @@
 ---
-date: "2011-12-30"
 imdb: "1124035"
+date: "2011-12-30"
+categories: "movies"
 title: "Tudo pelo Poder"
 stars: "5/5"
-categories: "movies"
-_title: "The Ides of March"
-_year: "2011"
-_director: ["George Clooney", ]
-_writer: ["George Clooney", "Grant Heslov", "Beau Willimon", "Beau Willimon", ]
-_cast: ["Ryan Gosling", "George Clooney", "Philip Seymour Hoffman", "Paul Giamatti", "Evan Rachel Wood", "Marisa Tomei", "Jeffrey Wright", "Max Minghella", "Jennifer Ehle", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Stephen Mirrione", ]
-_cinematographer: ["Phedon Papamichael", ]
-_music: ["Alexandre Desplat", ]
-_genres: ["Drama", ]
-_runtimes: ["101", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNTU4MjkzNTY0OF5BMl5BanBnXkFtZTcwNDI5ODIxNg@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNTU4MjkzNTY0OF5BMl5BanBnXkFtZTcwNDI5ODIxNg@@._V1._SX94_SY140_.jpg"
+desc: "Tudo pelo Poder. The Ides of March (USA, 2011). Dirigido por George Clooney. Escrito por George Clooney, Grant Heslov, Beau Willimon, Beau Willimon. Com Ryan Gosling, George Clooney, Philip Seymour Hoffman, Paul Giamatti, Evan Rachel Wood, Marisa Tomei, Jeffrey Wright, Max Minghella, Jennifer Ehle."
 ---
 Geralmente filmes que tentam revelar os bastidores da política soam pretenciosos e bobinhos em suas conjecturas infantis e roteiros confusos e incompletos. Esse não é o caso de Tudo Pelo Poder, que consegue, de maneira didática e assustadora, revelar muito mais sobre o pano de fundo de influências do que gostaríamos de saber ou de admitir.
 

@@ -1,20 +1,10 @@
 ---
-date: "2010-12-24"
-title: "O Mundo Encantado de Gigi"
 imdb: "1039651"
-stars: "2/5"
+date: "2010-12-24"
 categories: "movies"
-_title: "Yonayona pengin"
-_year: "2009"
-_director: ["Rintaro", ]
-_writer: ["Tomoko Konparu", ]
-_cast: ["Féodor Atkine", "Jeanne Savary", "Rica Matsumoto", "Ludmila Ruoso", "Michel Elias", "Yves Barsacq", "Cédric Dumond", "Pierre Baton", "Ei Morisako", ]
-_countries: ["Japan", ]
-_languages: ["Japanese", ]
-_music: ["Toshiyuki Honda", ]
-_genres: ["Animation", ]
-_runtimes: ["87", ]
-_kind: "movie"
+title: "O Mundo Encantado de Gigi"
+stars: "2/5"
+desc: "O Mundo Encantado de Gigi. Yonayona pengin (Japan, 2009). Dirigido por Rintaro. Escrito por Tomoko Konparu. Com Féodor Atkine, Jeanne Savary, Rica Matsumoto, Ludmila Ruoso, Michel Elias, Yves Barsacq, Cédric Dumond, Pierre Baton, Ei Morisako."
 ---
 O que mais me incomodou nesse filme foi o gráfico, nem tanto pela sua limitação, mas por não existir uma história suficientemente interessante para esquecermos das limitações da técnica usada, como foi com Wallace e Gromit: A Batalha dos Vegetais, ou até mesmo A Fuga das Galinhas. Simplesmente temos uma história batida, com poucos diálogos inspiradores que atravessam os seus 87 minutos de duração em um estado de quase chatice.
 

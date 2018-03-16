@@ -1,20 +1,10 @@
 ---
-date: "2012-04-02"
-title: "Le mystère du Snæfellsjökull"
 imdb: "1508304"
-stars: "3/5"
+date: "2012-04-02"
 categories: "movies"
-_title: "Le mystère du Snæfellsjökull"
-_year: "2009"
-_director: ["Jean-Michel Roux", ]
-_writer: ["Jean-Michel Roux", ]
-_countries: ["France", ]
-_languages: ["Icelandic", ]
-_editor: ["Pauline Pallier", ]
-_cinematographer: ["Bergsteinn Björgúlfsson", ]
-_genres: ["Documentary", ]
-_runtimes: ["France:46", ]
-_kind: "movie"
+title: "Le mystère du Snæfellsjökull"
+stars: "3/5"
+desc: "Le mystère du Snæfellsjökull. Le mystère du Snæfellsjökull (France, 2009). Dirigido por Jean-Michel Roux. Escrito por Jean-Michel Roux."
 ---
 Esse média-metragem islandês procura mostrar a história de uma região no país em que, de acordo com "relatos" e com a declaração e Júlio Verne de que ali seria o ponto de entrada para o centro da Terra, é um lugar de concentração de energias e poderia muito bem ser o ponto de contato com extraterrestres.
 

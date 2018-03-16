@@ -1,25 +1,10 @@
 ---
-date: "2013-12-22"
 imdb: "0388473"
+date: "2013-12-22"
+categories: "movies"
 title: "Tokyo Godfathers"
 stars: "3/5"
-categories: "movies"
-_title: "Tokyo Godfathers"
-_year: "2003"
-_director: ["Satoshi Kon", "Shôgo Furuya", ]
-_writer: ["Satoshi Kon", "Satoshi Kon", "Keiko Nobumoto", ]
-_cast: ["Tôru Emori", "Aya Okamoto", "Yoshiaki Umegaki", "Shôzô Iizuka", "Seizô Katô", "Hiroya Ishimaru", "Ryûji Saikachi", "Yûsaku Yara", "Kyôko Terase", ]
-_countries: ["Japan", ]
-_languages: ["Japanese", ]
-_editor: ["Takeshi Seyama", ]
-_cinematographer: ["Katsutoshi Sugai", ]
-_music: ["Moonriders", "Keiichi Suzuki", ]
-_genres: ["Adventure", ]
-_runtimes: ["USA:92", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTU2Njk1NzQ4M15BMl5BanBnXkFtZTcwMDA2OTQyMQ@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTU2Njk1NzQ4M15BMl5BanBnXkFtZTcwMDA2OTQyMQ@@._V1._SX94_SY140_.jpg"
+desc: "Tokyo Godfathers. Tokyo Godfathers (Japan, 2003). Dirigido por Satoshi Kon, Shôgo Furuya. Escrito por Satoshi Kon, Satoshi Kon, Keiko Nobumoto. Com Tôru Emori, Aya Okamoto, Yoshiaki Umegaki, Shôzô Iizuka, Seizô Katô, Hiroya Ishimaru, Ryûji Saikachi, Yûsaku Yara, Kyôko Terase."
 ---
 Essa animação natalina japonesa segue os mesmos moldes do ótimo Paprika, também dirigido e escrito por Satoshi Kon e co-dirigido por Shôgo Furuya, que já havia trabalhado como animador em A Viagem de Chihiro (2001). Quando digo os mesmos moldes me refiro à caracterização exagerada e satirizada da realidade que cerca os personagens. As expressões de rosto absurdas, tão comuns no anime, aqui funcionam em parte pelo seu humor e não funcionam em parte pela sua dramatização exagerada.
 

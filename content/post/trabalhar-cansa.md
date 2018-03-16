@@ -1,25 +1,10 @@
 ---
-date: "2011-10-18"
 imdb: "1686328"
+date: "2011-10-18"
+categories: "movies"
 title: "Trabalhar Cansa"
 stars: "5/5"
-categories: "movies"
-_title: "Trabalhar Cansa"
-_year: "2011"
-_director: ["Marco Dutra", "Juliana Rojas", ]
-_writer: ["Marco Dutra", "Juliana Rojas", ]
-_cast: ["Helena Albergaria", "Marat Descartes", "Naloana Lima", "Gilda Nomacce", "Marina Flores", "Lilian Blanc", "Thiago Carreira", "Hugo Villavicenzio", "Thais Almeida Prado", ]
-_countries: ["Brazil", ]
-_languages: ["Portuguese", ]
-_editor: ["Caetano Gotardo", ]
-_cinematographer: ["Matheus Rocha", ]
-_music: ["Rafael Cavalcanti", ]
-_genres: ["Drama", ]
-_runtimes: ["99", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjEyMDM2OTc3NV5BMl5BanBnXkFtZTcwMzg1NzUyNQ@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjEyMDM2OTc3NV5BMl5BanBnXkFtZTcwMzg1NzUyNQ@@._V1._SX100_SY56_.jpg"
+desc: "Trabalhar Cansa. Trabalhar Cansa (Brazil, 2011). Dirigido por Marco Dutra, Juliana Rojas. Escrito por Marco Dutra, Juliana Rojas. Com Helena Albergaria, Marat Descartes, Naloana Lima, Gilda Nomacce, Marina Flores, Lilian Blanc, Thiago Carreira, Hugo Villavicenzio, Thais Almeida Prado."
 ---
 Esse drama-terror concebido e dirigido por Juliana Rojas e Marco Dutra (esse, um dos roteiristas do recente Meu País) busca evitar se posicionar claramente no sobrenatural, mas dá uma gélida impressão durante toda a trama que é exatamente com isso que estamos lidando, ainda que não seja dito ou declarado. E é esse o detalhe mais aterrorizante de todo o longa.
 

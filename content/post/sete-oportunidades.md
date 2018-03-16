@@ -1,26 +1,10 @@
 ---
-date: "2015-09-17"
 imdb: "0016332"
-stars: "5/5"
+date: "2015-09-17"
 categories: "movies"
 title: "Sete Oportunidades"
-_title: "Seven Chances"
-_year: "1925"
-_director: ["Buster Keaton", ]
-_writer: ["Roi Cooper Megrue", "Clyde Bruckman", "Jean C. Havez", "Joseph A. Mitchell", ]
-_cast: ["Buster Keaton", "T. Roy Barnes", "Snitz Edwards", "Ruth Dwyer", "Frances Raymond", "Erwin Connelly", "Jules Cowles", "Jean Arthur", "Lori Bara", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Buster Keaton", ]
-_cinematographer: ["Byron Houck", "Elgin Lessley", ]
-_music: ["Robert Israel", ]
-_artdirection: ["Fred Gabourie", ]
-_genres: ["Comedy", ]
-_runtimes: ["56", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQ2OTIwMjYzN15BMl5BanBnXkFtZTgwOTExMTYxMjE@.jpg"
-_ratio: "1.33 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQ2OTIwMjYzN15BMl5BanBnXkFtZTgwOTExMTYxMjE@._V1._SX89_SY140_.jpg"
+stars: "5/5"
+desc: "Sete Oportunidades. Seven Chances (USA, 1925). Dirigido por Buster Keaton. Escrito por Roi Cooper Megrue, Clyde Bruckman, Jean C. Havez, Joseph A. Mitchell. Com Buster Keaton, T. Roy Barnes, Snitz Edwards, Ruth Dwyer, Frances Raymond, Erwin Connelly, Jules Cowles, Jean Arthur, Lori Bara."
 ---
 Seven Chances é um filme de uma hora de Buster Keaton que mais uma vez consegue a proeza de contar uma história datada, fútil e banal da maneira mais prosaica, mais hilária e mais movimentada possível.
 

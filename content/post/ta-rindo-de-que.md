@@ -1,25 +1,10 @@
 ---
-date: "2012-04-09"
 imdb: "1201167"
+date: "2012-04-09"
+categories: "movies"
 title: "Tá Rindo de Que?"
 stars: "4/5"
-categories: "movies"
-_title: "Funny People"
-_year: "2009"
-_director: ["Judd Apatow", ]
-_writer: ["Judd Apatow", ]
-_cast: ["Adam Sandler", "Seth Rogen", "Leslie Mann", "Eric Bana", "Jonah Hill", "Jason Schwartzman", "Aubrey Plaza", "Maude Apatow", "Iris Apatow", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Craig Alpert", "Brent White", ]
-_cinematographer: ["Janusz Kaminski", ]
-_music: ["Michael Andrews", "Jason Schwartzman", ]
-_genres: ["Comedy", ]
-_runtimes: ["146", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTMxNDQ5MTA5MF5BMl5BanBnXkFtZTcwMzUyMDUwMg@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTMxNDQ5MTA5MF5BMl5BanBnXkFtZTcwMzUyMDUwMg@@._V1._SX94_SY140_.jpg"
+desc: "Tá Rindo de Que?. Funny People (USA, 2009). Dirigido por Judd Apatow. Escrito por Judd Apatow. Com Adam Sandler, Seth Rogen, Leslie Mann, Eric Bana, Jonah Hill, Jason Schwartzman, Aubrey Plaza, Maude Apatow, Iris Apatow."
 ---
 Funny People, aqui no Brasil conhecido como "Tá Rindo de Quê?" e lançado diretamente para as locadoras por não ser um filme típico para o grande, mas limitado, público de Adam Sandler, é uma mescla entre drama e comédia, que está presente exatamente por ser esta uma história em torno de um comediante de sucesso que, como muitos no ramo, iniciou sua carreira na comédia de stand-up (entre eles, Jim Carrey, Robin Willians e Eddie Murphy).
 

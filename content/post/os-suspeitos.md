@@ -1,25 +1,10 @@
 ---
-date: "2014-10-04"
 imdb: "0114814"
+date: "2014-10-04"
+categories: "movies"
 title: "Os Suspeitos"
 stars: "5/5"
-categories: "movies"
-_title: "The Usual Suspects"
-_year: "1995"
-_director: ["Bryan Singer", ]
-_writer: ["Christopher McQuarrie", ]
-_cast: ["Stephen Baldwin", "Gabriel Byrne", "Benicio Del Toro", "Kevin Pollak", "Kevin Spacey", "Chazz Palminteri", "Pete Postlethwaite", "Suzy Amis", "Giancarlo Esposito", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["John Ottman", ]
-_cinematographer: ["Newton Thomas Sigel", ]
-_music: ["John Ottman", ]
-_genres: ["Crime", ]
-_runtimes: ["106", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMzI1MjI5MDQyOV5BMl5BanBnXkFtZTcwNzE4Mjg3NA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMzI1MjI5MDQyOV5BMl5BanBnXkFtZTcwNzE4Mjg3NA@@._V1._SX93_SY140_.jpg"
+desc: "Os Suspeitos. The Usual Suspects (USA, 1995). Dirigido por Bryan Singer. Escrito por Christopher McQuarrie. Com Stephen Baldwin, Gabriel Byrne, Benicio Del Toro, Kevin Pollak, Kevin Spacey, Chazz Palminteri, Pete Postlethwaite, Suzy Amis, Giancarlo Esposito."
 ---
 Em 1995 Kevin Spacey entrou em uma dobradinha (favor ignorar "Epidemia") que virou clássica nos filmes de suspense e policiais. "Seven: Os Sete Crimes Capitais" remodelou o gênero de serial killer em uma conclusão que deixou muita gente filosofando por meses a fio (os mais fanáticos, como eu, até hoje). E Os Suspeitos ganhou a mesma fama (esse eu cheguei a ver no cinema, tinha acabado de completar 16 ou quase). Ambos são filmes em que o mal prevalece? Não necessariamente. Temos aí uma relativização assimétrica do mal. Os policiais nem sempre são bonzinhos. Por outro lado, os bandidos continuam maus, mas agora assumem o papel de justiceiros involuntários.
 

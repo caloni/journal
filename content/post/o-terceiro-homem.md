@@ -1,25 +1,10 @@
 ---
-date: "2016-01-11"
 imdb: "0041959"
-stars: "5/5"
+date: "2016-01-11"
 categories: "movies"
 title: "O Terceiro Homem"
-_title: "The Third Man"
-_year: "1949"
-_director: ["Carol Reed", ]
-_writer: ["Graham Greene", "Graham Greene", "Alexander Korda", "Carol Reed", "Orson Welles", ]
-_cast: ["Joseph Cotten", "Alida Valli", "Orson Welles", "Trevor Howard", "Bernard Lee", "Paul Hörbiger", "Ernst Deutsch", "Siegfried Breuer", "Erich Ponto", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Oswald Hafenrichter", ]
-_cinematographer: ["Robert Krasker", ]
-_music: ["Anton Karas", ]
-_genres: ["Film-Noir", ]
-_runtimes: ["104", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjMwNzMzMTQ0Ml5BMl5BanBnXkFtZTgwNjExMzUwNjE@.jpg"
-_ratio: "1.37 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjMwNzMzMTQ0Ml5BMl5BanBnXkFtZTgwNjExMzUwNjE@._V1._SX95_SY140_.jpg"
+stars: "5/5"
+desc: "O Terceiro Homem. The Third Man (UK, 1949). Dirigido por Carol Reed. Escrito por Graham Greene, Graham Greene, Alexander Korda, Carol Reed, Orson Welles. Com Joseph Cotten, Alida Valli, Orson Welles, Trevor Howard, Bernard Lee, Paul Hörbiger, Ernst Deutsch, Siegfried Breuer, Erich Ponto."
 ---
 Um filme com uma trilha sonora leve e temático e enquadramentos tortos que lembram que algo está errado. E está, mesmo: Viena está tomada por quatros povos diferentes, cada um fala um idioma, e o povo local fala alemão. Escambos perigosos no mercado negro estão por toda a parte. A atmosfera de O Terceiro Homem é densa, e seus acontecimentos precisos, cirúrgicos. É daqueles raros filmes que não se pode arriscar remover um momento ou expressão sequer. E muito menos uma das inúmeras câmeras tombadas.
 

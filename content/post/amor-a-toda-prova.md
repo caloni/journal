@@ -1,26 +1,10 @@
 ---
+imdb: "1570728"
 date: "2016-07-28"
 categories: "movies"
-imdb: "1570728"
-stars: "4/5"
 title: "Amor a Toda Prova"
-_title: "Crazy, Stupid, Love."
-_year: "2011"
-_director: ["Glenn Ficarra", "John Requa", ]
-_writer: ["Dan Fogelman", ]
-_cast: ["Steve Carell", "Ryan Gosling", "Julianne Moore", "Emma Stone", "Analeigh Tipton", "Jonah Bobo", "Joey King", "Marisa Tomei", "Beth Littleford", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Lee Haxall", ]
-_cinematographer: ["Andrew Dunn", ]
-_music: ["Christophe Beck", "Nick Urata", ]
-_artdirection: ["Sue Chan", ]
-_costume designer: ["Dayna Pink", ]
-_genres: ["Comedy", ]
-_runtimes: ["USA:118", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTg2MjkwMTM0NF5BMl5BanBnXkFtZTcwMzc4NDg2NQ@@.jpg"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTg2MjkwMTM0NF5BMl5BanBnXkFtZTcwMzc4NDg2NQ@@._V1._SX94_SY140_.jpg"
+stars: "4/5"
+desc: "Amor a Toda Prova. Crazy, Stupid, Love. (USA, 2011). Dirigido por Glenn Ficarra, John Requa. Escrito por Dan Fogelman. Com Steve Carell, Ryan Gosling, Julianne Moore, Emma Stone, Analeigh Tipton, Jonah Bobo, Joey King, Marisa Tomei, Beth Littleford."
 ---
 As comédias românticas das últimas duas décadas criaram aos poucos um amontoado de clichês. Agora, imagine um filme que tenta enfiar vários desses clichês de uma só vez. Um filme onde a professora gostosa é Marisa Tomei, onde mulheres em crise da meia-idade assistem Crepúsculo (mesmo sabendo quão ruim isso é), onde um triângulo amoroso é criado entre a babá, a criança e seu pai. Onde até um genro-surpresa pode aparecer para a festa. Se, em torno de tudo isso, ainda houver dúvidas se este é um filme que comemora o lugar-comum, espere começar a chover depois de um desentendimento do casal principal. Nesse momento, até o personagem olha para o céu e exclama: "isso é tão clichê!".
 

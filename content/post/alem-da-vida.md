@@ -1,25 +1,10 @@
 ---
-date: "2011-07-01"
 imdb: "1212419"
+date: "2011-07-01"
+categories: "movies"
 title: "Além da Vida"
 stars: "3/5"
-categories: "movies"
-_title: "Hereafter"
-_year: "2010"
-_director: ["Clint Eastwood", ]
-_writer: ["Peter Morgan", ]
-_cast: ["Cécile De France", "Thierry Neuvic", "Cyndi Mayo Davis", "Lisa Griffiths", "Jessica Griffiths", "Ferguson Reid", "Derek Sakakura", "Jay Mohr", "Richard Kind", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Joel Cox", "Gary Roach", ]
-_cinematographer: ["Tom Stern", ]
-_music: ["Clint Eastwood", ]
-_genres: ["Drama", ]
-_runtimes: ["129", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjE2MzU3Nzk4M15BMl5BanBnXkFtZTcwODcxNTI5Mw@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjE2MzU3Nzk4M15BMl5BanBnXkFtZTcwODcxNTI5Mw@@._V1._SX95_SY140_.jpg"
+desc: "Além da Vida. Hereafter (USA, 2010). Dirigido por Clint Eastwood. Escrito por Peter Morgan. Com Cécile De France, Thierry Neuvic, Cyndi Mayo Davis, Lisa Griffiths, Jessica Griffiths, Ferguson Reid, Derek Sakakura, Jay Mohr, Richard Kind."
 ---
 Para quem não havia assistido o trailer do novo trabalho de Clint Eastwood (Menina de Ouro), tem a impressão que os conflitos do primeiro ato são apresentados de uma maneira mais impactante do que um drama seria capaz. Como o exemplo mais marcante, escolho a situação em que se encontra Marie LeLay (Cécile de France), uma jornalista de sucesso e que passa o momento mais claustrofóbico do longa.
 

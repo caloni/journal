@@ -1,27 +1,10 @@
 ---
-date: "2016-01-18"
 imdb: "0056172"
-stars: "5/5"
+date: "2016-01-18"
 categories: "movies"
 title: "Lawrence da Arábia"
-_title: "Lawrence of Arabia"
-_year: "1962"
-_director: ["David Lean", ]
-_writer: ["T.E. Lawrence", "Robert Bolt", "Michael Wilson", ]
-_cast: ["Peter O'Toole", "Alec Guinness", "Anthony Quinn", "Jack Hawkins", "Omar Sharif", "José Ferrer", "Anthony Quayle", "Claude Rains", "Arthur Kennedy", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Anne V. Coates", ]
-_cinematographer: ["Freddie Young", ]
-_music: ["Maurice Jarre", ]
-_artdirection: ["John Stoll", "Anthony Masters", ]
-_costume designer: ["Phyllis Dalton", ]
-_genres: ["Adventure", ]
-_runtimes: ["216", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMzAwMjM4NzA2OV5BMl5BanBnXkFtZTcwMDI0NzAwMQ@@.jpg"
-_ratio: "2.20 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMzAwMjM4NzA2OV5BMl5BanBnXkFtZTcwMDI0NzAwMQ@@._V1._SX95_SY140_.jpg"
+stars: "5/5"
+desc: "Lawrence da Arábia. Lawrence of Arabia (UK, 1962). Dirigido por David Lean. Escrito por T.E. Lawrence, Robert Bolt, Michael Wilson. Com Peter O'Toole, Alec Guinness, Anthony Quinn, Jack Hawkins, Omar Sharif, José Ferrer, Anthony Quayle, Claude Rains, Arthur Kennedy."
 ---
 Nota: O filme que estou me referindo é a versão restaurada por Robert A. Harris com a supervisão do diretor David Lean, em 1989. Ela exclui alguns diálogos e, se formos considerar o tamanho da versão original, creio que podemos descartar as menores diferenças entre as duas. Além disso, essa versão também recebeu um tratamento de restauração para ser lançada em DVD em 2000 por Martin Scorsese e Steven Spielberg. Scorsese, como se sabe, é um ávido militante pela restauração de obras clássicas do Cinema e mantém um acervo digital inestimável.
 

@@ -1,26 +1,10 @@
 ---
+imdb: "1839494"
 date: "2016-08-05"
 categories: "movies"
-imdb: "1839494"
-stars: "3/5"
 title: "Viagem Para Agartha"
-_title: "Hoshi o ou kodomo"
-_year: "2011"
-_director: ["Makoto Shinkai", ]
-_writer: ["Makoto Shinkai", ]
-_cast: ["Hilary Haag", "Corey Hartzog", "Leraldo Anzaldua", "David Matranga", "Shelley Calene-Black", "Shannon Emerick", "Sam Roman", "Emily Neves", "Brittney Karbowski", ]
-_countries: ["Japan", ]
-_languages: ["Japanese", ]
-_editor: ["Makoto Shinkai", ]
-_cinematographer: ["Makoto Shinkai", ]
-_music: ["Tenmon", ]
-_artdirection: ["Takumi Tanji", ]
-_genres: ["Animation", ]
-_runtimes: ["116", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQ3NTYzOTM2Ml5BMl5BanBnXkFtZTcwNzMwMjA1OA@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQ3NTYzOTM2Ml5BMl5BanBnXkFtZTcwNzMwMjA1OA@@._V1._SX99_SY140_.jpg"
+stars: "3/5"
+desc: "Viagem Para Agartha. Hoshi o ou kodomo (Japan, 2011). Dirigido por Makoto Shinkai. Escrito por Makoto Shinkai. Com Hilary Haag, Corey Hartzog, Leraldo Anzaldua, David Matranga, Shelley Calene-Black, Shannon Emerick, Sam Roman, Emily Neves, Brittney Karbowski."
 ---
 Makoto Shinkai -- diretor/roteirista de inúmeros curtas (alguns na Netflix brasileira) -- é chamado constantemente de "O Novo Miyazaki", em referência ao animador e fundador dos estúdios Ghibli. Curiosamente o próprio Miyazaki é chamado de "Walt Disney do Japão". Mais curioso ainda é que Miyazaki, enquanto idealizador, se preocupa muito com a mãe-natureza em seus filmes, que é quase um personagem à parte (seja ela natural, como em Ponyo, ou sobrenatural, como em A Viagem de Chihiro). Já em Viagem Para Agartha, um filme sobre um mundo exótico dentro da Terra, Shinkai parece muito mais preocupado com o interior dos seres humanos que retrata, já que o filme parece um eterno questionamento sobre a nossa dor -- muitas vezes eterna -- que sentimos quando perdemos alguém querido.
 

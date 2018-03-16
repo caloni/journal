@@ -1,19 +1,10 @@
 ---
-date: "2011-10-24"
 title: "La muerte de Pinochet"
 imdb: "1817190"
 stars: "3/5"
+date: "2011-10-24"
 categories: "movies"
-_title: "La muerte de Pinochet"
-_year: "2011"
-_director: ["Iván Osnovikoff", "Bettina Perut", ]
-_writer: ["Iván Osnovikoff", "Bettina Perut", ]
-_countries: ["Chile", ]
-_languages: ["Spanish", ]
-_cinematographer: ["Pablo Valdés", ]
-_genres: ["Documentary", ]
-_runtimes: ["75", ]
-_kind: "movie"
+desc: "La muerte de Pinochet. La muerte de Pinochet (Chile, 2011). Dirigido por Iván Osnovikoff, Bettina Perut. Escrito por Iván Osnovikoff, Bettina Perut."
 ---
 O superzoom inicial das rugas (passado) e dos lábios (testemunho) das pessoas entrevistadas no documentário sobre o ditador sanguinário possuem dois motivos igualmente inteligentes e controversos: primeiro, impede que olhemos diretamente para os que dizem ter um profundo sentimento de admiração e orgulho por um ser responsável por uma das ditaduras mais cruéis que já se ouviu falar, o que evita nossa repulsa imediata por essa gente; segundo, admite que o testemunho dessas pessoas é fiel e honesto, dito diretamente de suas bocas, que muitas vezes sofreram inconscientemente os infortúnios de um regime que, para elas, não tem qualquer relação com o amado general.
 

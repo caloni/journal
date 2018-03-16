@@ -1,25 +1,10 @@
 ---
-date: "2012-10-17"
 imdb: "1839492"
+date: "2012-10-17"
+categories: "movies"
 title: "Ruby Sparks A Namorada Perfeita"
 stars: "4/5"
-categories: "movies"
-_title: "Ruby Sparks"
-_year: "2012"
-_director: ["Jonathan Dayton", "Valerie Faris", ]
-_writer: ["Zoe Kazan", ]
-_cast: ["Paul Dano", "Zoe Kazan", "Chris Messina", "Annette Bening", "Antonio Banderas", "Aasif Mandvi", "Steve Coogan", "Toni Trucks", "Deborah Ann Woll", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Pamela Martin", ]
-_cinematographer: ["Matthew Libatique", ]
-_music: ["Nick Urata", ]
-_genres: ["Comedy", ]
-_runtimes: ["USA:104", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjE2OTM5OTUyOF5BMl5BanBnXkFtZTcwODI4Nzg3Nw@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjE2OTM5OTUyOF5BMl5BanBnXkFtZTcwODI4Nzg3Nw@@._V1._SX90_SY140_.jpg"
+desc: "Ruby Sparks A Namorada Perfeita. Ruby Sparks (USA, 2012). Dirigido por Jonathan Dayton, Valerie Faris. Escrito por Zoe Kazan. Com Paul Dano, Zoe Kazan, Chris Messina, Annette Bening, Antonio Banderas, Aasif Mandvi, Steve Coogan, Toni Trucks, Deborah Ann Woll."
 ---
 Orquestrada pela dupla de diretores Jonathan Dayton e Valierie Faris (Pequena Miss Sunshine) e escrita pela atriz Zoe Kazan, que interpreta a Ruby Sparks do título, a história gira em torno de Calvin (Paul Dano), um jovem escritor que nem terminou o colégio e vendeu um livro de sucesso. Considerado por muitos um gênio da literatura (uma palavra que Calvin abomina), todos aguardam pelo seu próximo trabalho.
 

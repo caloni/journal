@@ -1,27 +1,10 @@
 ---
+imdb: "0109040"
 date: "2016-05-29"
 categories: "movies"
-imdb: "0109040"
-stars: "3/5"
 title: "Ace Ventura - Um Detetive Diferente"
-_title: "Ace Ventura: Pet Detective"
-_year: "1994"
-_director: ["Tom Shadyac", ]
-_writer: ["Jack Bernstein", "Jack Bernstein", "Tom Shadyac", "Jim Carrey", ]
-_cast: ["Jim Carrey", "Courteney Cox", "Sean Young", "Tone Loc", "Dan Marino", "Noble Willingham", "Troy Evans", "Raynor Scheine", "Udo Kier", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Don Zimmerman", ]
-_cinematographer: ["Julio Macat", ]
-_music: ["Ira Newborn", ]
-_artdirection: ["Alan E. Muraoka", ]
-_costume designer: ["Bobbie Read", ]
-_genres: ["Comedy", ]
-_runtimes: ["86", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjAzNTI0ODUxOF5BMl5BanBnXkFtZTgwNTQxNzQxMTE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjAzNTI0ODUxOF5BMl5BanBnXkFtZTgwNTQxNzQxMTE@._V1._SX95_SY140_.jpg"
+stars: "3/5"
+desc: "Ace Ventura - Um Detetive Diferente. Ace Ventura: Pet Detective (USA, 1994). Dirigido por Tom Shadyac. Escrito por Jack Bernstein, Jack Bernstein, Tom Shadyac, Jim Carrey. Com Jim Carrey, Courteney Cox, Sean Young, Tone Loc, Dan Marino, Noble Willingham, Troy Evans, Raynor Scheine, Udo Kier."
 ---
 Jim Carrey possuía uma energia invejável. O seu timing cômico e sua atuação de exageros é responsável por praticamente todo Ace Ventura, o filme. Note como ele caminha na ponta dos pés de fininho e mastiga sementes de maneira completamente idiota, acumulando as cascas na mesa de sua cliente. Quando oferecido um cinzeiro, responde: "obrigado, eu não fumo; este é um ato nojento".
 

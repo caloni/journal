@@ -1,28 +1,11 @@
 ---
-date: "2016-07-06"
-tags: [ "cabine" ]
-categories: "movies"
+tags: ['cabine']
 imdb: "3068194"
-stars: "3/5"
+date: "2016-07-06"
+categories: "movies"
 title: "Amor e Amizade"
-_title: "Love & Friendship"
-_year: "2016"
-_director: ["Whit Stillman", ]
-_writer: ["Jane Austen", "Whit Stillman", ]
-_cast: ["Kate Beckinsale", "Morfydd Clark", "Tom Bennett", "Jenn Murray", "Lochlann O'Mearáin", "Sophie Radermacher", "Chloë Sevigny", "Stephen Fry", "Jordan Waller", ]
-_countries: ["Ireland", ]
-_languages: ["English", ]
-_editor: ["Sophie Corra", ]
-_cinematographer: ["Richard Van Oosterhout", ]
-_music: ["Benjamin Esdraffo", ]
-_artdirection: ["Louise Mathews", "Bryan Tormey", ]
-_costume designer: ["Eimer Ni Mhaoldomhnaigh", ]
-_genres: ["Comedy", ]
-_runtimes: ["92", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQ3NTQ2NjMwMV5BMl5BanBnXkFtZTgwOTk3Njk0ODE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQ3NTQ2NjMwMV5BMl5BanBnXkFtZTgwOTk3Njk0ODE@._V1._SX95_SY140_.jpg"
+stars: "3/5"
+desc: "Amor e Amizade. Love & Friendship (Ireland, 2016). Dirigido por Whit Stillman. Escrito por Jane Austen, Whit Stillman. Com Kate Beckinsale, Morfydd Clark, Tom Bennett, Jenn Murray, Lochlann O'Mearáin, Sophie Radermacher, Chloë Sevigny, Stephen Fry, Jordan Waller."
 ---
 Mais uma adaptação de Jane Austen chega aos cinemas. Dessa vez a personagem principal é o título de seu romance. Lady Susan (Kate Beckinsale) é uma viúva que precisa arrumar um próximo bom partido para se sustentar e à sua filha, a jovem Frederica (Morfydd Clark). O que se segue é um embate intelectual da pior categoria, já que os caipiras da nobreza daquela época eram muito menos instruídos do que Orgulho e Preconceito pode nos fazer crer.
 

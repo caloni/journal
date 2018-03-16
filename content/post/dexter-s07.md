@@ -1,25 +1,11 @@
 ---
-date: "2014-11-09"
+tags: ['dexter', 'series']
 imdb: "0773262"
+date: "2014-11-09"
+categories: "series"
 title: "Dexter - Sétima Temporada"
 stars: "3/5"
-categories: "series"
-tags: ['dexter', 'series']
-_title: "Dexter"
-_year: "2006"
-_director: ["John Dahl", "Steve Shill", "Keith Gordon", "Marcos Siega", "Ernest R. Dickerson", "Romeo Tirone", "Michael Cuesta", "Tony Goldwyn", "S.J. Clarkson", ]
-_writer: ["Jeff Lindsay", "James Manos Jr.", "Scott Buck", "Tim Schlattmann", "Lauren Gussis", "Karen Campbell", "Jennifer Yale", "Melissa Rosenberg", "Scott Reynolds", ]
-_cast: ["Michael C. Hall", "Jennifer Carpenter", "David Zayas", "James Remar", "C.S. Lee", "Bruce Holman", "Lauren Vélez", "Desmond Harrington", "Julie Benz", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Louis Cioffi", "Stewart Schill", "Keith Henderson", "Matthew Colonna", "Amy E. Duddleston", "Michael Ruscio", "Elena Maganini", "Scott K. Wallace", "David Latham", ]
-_cinematographer: ["Romeo Tirone", "Jeff Jur", "Martin J. Layton", "Alan Caso", ]
-_music: ["Daniel Licht", ]
-_genres: ["Crime", ]
-_runtimes: ["55", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTM5MjkwMTI0MV5BMl5BanBnXkFtZTcwODQwMTc0OQ@@.jpg"
-_kind: "tv series"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTM5MjkwMTI0MV5BMl5BanBnXkFtZTcwODQwMTc0OQ@@._V1._SX100_SY136_.jpg"
+desc: "Dexter - Sétima Temporada. Dexter (USA, 2006). Dirigido por John Dahl, Steve Shill, Keith Gordon, Marcos Siega, Ernest R. Dickerson, Romeo Tirone, Michael Cuesta, Tony Goldwyn, S.J. Clarkson. Escrito por Jeff Lindsay, James Manos Jr., Scott Buck, Tim Schlattmann, Lauren Gussis, Karen Campbell, Jennifer Yale, Melissa Rosenberg, Scott Reynolds. Com Michael C. Hall, Jennifer Carpenter, David Zayas, James Remar, C.S. Lee, Bruce Holman, Lauren Vélez, Desmond Harrington, Julie Benz."
 ---
 Dexter Morgan é um ser humano buscando seu lugar no mundo. O fato dele ser um sociopata e um serial killer é o que torna sua história mais... profunda. No entanto, fora isso, somos como ele, procurando se encaixar em um mundo que muitas vezes não faz sentido.
 

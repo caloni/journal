@@ -1,26 +1,10 @@
 ---
-date: "2015-11-01"
 imdb: "2800240"
-stars: "3/5"
+date: "2015-11-01"
 categories: "movies"
 title: "Que Mal Eu Fiz a Deus?"
-_title: "Qu'est-ce qu'on a fait au Bon Dieu?"
-_year: "2014"
-_director: ["Philippe de Chauveron", ]
-_writer: ["Philippe de Chauveron", "Guy Laurent", ]
-_cast: ["Christian Clavier", "Chantal Lauby", "Ary Abittan", "Medi Sadoun", "Frédéric Chau", "Noom Diawara", "Frédérique Bel", "Julia Piaton", "Emilie Caen", ]
-_countries: ["France", ]
-_languages: ["French", ]
-_editor: ["Sandro Lavezzi", ]
-_cinematographer: ["Vincent Mathias", ]
-_music: ["Marc Chouarain", ]
-_costume designer: ["Eve-Marie Arnault", ]
-_genres: ["Comedy", ]
-_runtimes: ["97", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjI3MDI3MTA0OV5BMl5BanBnXkFtZTgwOTUwNTYxMjE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjI3MDI3MTA0OV5BMl5BanBnXkFtZTgwOTUwNTYxMjE@._V1._SX100_SY136_.jpg"
+stars: "3/5"
+desc: "Que Mal Eu Fiz a Deus?. Qu'est-ce qu'on a fait au Bon Dieu? (France, 2014). Dirigido por Philippe de Chauveron. Escrito por Philippe de Chauveron, Guy Laurent. Com Christian Clavier, Chantal Lauby, Ary Abittan, Medi Sadoun, Frédéric Chau, Noom Diawara, Frédérique Bel, Julia Piaton, Emilie Caen."
 ---
 Essa comédia francesa explora os estereótipos e o racismo de maneira quase inofensiva. No processo, joga algumas piadas de caráter duvidoso, mas em sua maioria oferece uma reflexão boba e superficial a respeito das rixas que as pessoas têm com as outras que tiverem outra origem e cultura.
 

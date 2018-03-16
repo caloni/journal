@@ -1,25 +1,10 @@
 ---
+imdb: "1069238"
 date: "2017-01-15"
 categories: "movies"
 title: "A Partida"
-imdb: "1069238"
 stars: "5/5"
-_title: "Okuribito"
-_year: "2008"
-_director: ["Yôjirô Takita", ]
-_writer: ["Kundô Koyama", ]
-_cast: ["Masahiro Motoki (Daigo Kobayashi)", "Tsutomu Yamazaki (Ikuei Sasaki)", "Ryôko Hirosue (Mika Kobayashi)", "Kazuko Yoshiyuki (Tsuyako Yamashita)", "Kimiko Yo (Yuriko Uemura)", "Takashi Sasano (Shokichi Hirata)", "Tetta Sugimoto (Yamashita)", "Tôru Minegishi (Yoshiki Kobayashi)", "Tatsuo Yamada (Togashi)", ]
-_countries: ["Japan", ]
-_languages: ["Japanese", ]
-_editor: ["Akimasa Kawashima", ]
-_cinematographer: ["Takeshi Hamada", ]
-_music: ["Joe Hisaishi", ]
-_genres: ["Drama", ]
-_runtimes: ["130", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE1OTUxOTA1Nl5BMl5BanBnXkFtZTcwNDc4ODQzMg@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE1OTUxOTA1Nl5BMl5BanBnXkFtZTcwNDc4ODQzMg@@._V1._SX93_SY140_.jpg"
+desc: "A Partida. Okuribito (Japan, 2008). Dirigido por Yôjirô Takita. Escrito por Kundô Koyama. Com Masahiro Motoki (Daigo Kobayashi), Tsutomu Yamazaki (Ikuei Sasaki), Ryôko Hirosue (Mika Kobayashi), Kazuko Yoshiyuki (Tsuyako Yamashita), Kimiko Yo (Yuriko Uemura), Takashi Sasano (Shokichi Hirata), Tetta Sugimoto (Yamashita), Tôru Minegishi (Yoshiki Kobayashi), Tatsuo Yamada (Togashi)."
 ---
 Este é um filme que trata a morte de maneira direta ao apresentar-nos a profissão de preparador de corpos. No Japão há uma cerimônia com os familiares e amigos presentes em que o corpo é limpo e maquiado para voltar à vida. Além de possui uma quantidade assombrosa de momentos tocantes (leve seu lenço), seja por esses momentos ou pela poesia implícita neles, A Partida de certa forma celebra a vida como um processo de auto-descoberta, e a morte como uma despedida solene das pessoas que convivemos por este breve tempo.
 

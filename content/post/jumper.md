@@ -1,25 +1,10 @@
 ---
-date: "2011-04-27"
 imdb: "0489099"
+date: "2011-04-27"
+categories: "movies"
 title: "Jumper"
 stars: "3/5"
-categories: "movies"
-_title: "Jumper"
-_year: "2008"
-_director: ["Doug Liman", ]
-_writer: ["David S. Goyer", "Jim Uhls", "Simon Kinberg", "Steven Gould", ]
-_cast: ["Hayden Christensen", "Jamie Bell", "Rachel Bilson", "Diane Lane", "Samuel L. Jackson", "Michael Rooker", "AnnaSophia Robb", "Max Thieriot", "Jesse James", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Saar Klein", "Dean Zimmerman", "Don Zimmerman", ]
-_cinematographer: ["Barry Peterson", ]
-_music: ["John Powell", ]
-_genres: ["Action", ]
-_runtimes: ["88", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjEwOTkyOTI3M15BMl5BanBnXkFtZTcwNTQxMjU1MQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjEwOTkyOTI3M15BMl5BanBnXkFtZTcwNTQxMjU1MQ@@._V1._SX95_SY140_.jpg"
+desc: "Jumper. Jumper (USA, 2008). Dirigido por Doug Liman. Escrito por David S. Goyer, Jim Uhls, Simon Kinberg, Steven Gould. Com Hayden Christensen, Jamie Bell, Rachel Bilson, Diane Lane, Samuel L. Jackson, Michael Rooker, AnnaSophia Robb, Max Thieriot, Jesse James."
 ---
 Em vários momentos de Jumper, principalmente na sua conclusão, podemos quase sentir o desperdício quase completo de uma boa ideia para um filme mais intrigante do que se transformou na realidade.
 

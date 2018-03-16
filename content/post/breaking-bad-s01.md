@@ -1,27 +1,12 @@
 ---
-date: "2013-09-30"
-imdb: "0903747"
-title: "Breaking Bad - Primeira Temporada"
-revision: [2016-07-17]
-stars: "5/5"
-categories: "series"
-date: "2016-07-16"
 tags: ['breakingbad', 'series']
-_title: "Breaking Bad"
-_year: "2008"
-_director: ["Michelle MacLaren", "Adam Bernstein", "Vince Gilligan", "Colin Bucksey", "Michael Slovis", "Bryan Cranston", "Terry McDonough", "Johan Renck", "Rian Johnson", ]
-_writer: ["Vince Gilligan", "Peter Gould", "George Mastras", "Sam Catlin", "Moira Walley-Beckett", "Thomas Schnauz", "Gennifer Hutchison", "John Shiban", "J. Roberts", ]
-_cast: ["Bryan Cranston", "Anna Gunn", "Aaron Paul", "Dean Norris", "Betsy Brandt", "RJ Mitte", "Bob Odenkirk", "Steven Michael Quezada", "Jonathan Banks", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Kelley Dixon", "Skip Macdonald", "Lynne Willingham", ]
-_cinematographer: ["Michael Slovis", "Reynaldo Villalobos", "Peter Reniers", "Nelson Cragg", "Arthur Albert", ]
-_music: ["Dave Porter", ]
-_genres: ["Crime", ]
-_runtimes: ["45", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQ0ODYzODc0OV5BMl5BanBnXkFtZTgwMDk3OTcyMDE@.jpg"
-_kind: "tv series"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQ0ODYzODc0OV5BMl5BanBnXkFtZTgwMDk3OTcyMDE@._V1._SX95_SY140_.jpg"
+imdb: "0903747"
+date: "2016-07-16"
+categories: "series"
+title: "Breaking Bad - Primeira Temporada"
+stars: "5/5"
+revision: [datetime.date(2016, 7, 17)]
+desc: "Breaking Bad - Primeira Temporada. Breaking Bad (USA, 2008). Dirigido por Michelle MacLaren, Adam Bernstein, Vince Gilligan, Colin Bucksey, Michael Slovis, Bryan Cranston, Terry McDonough, Johan Renck, Rian Johnson. Escrito por Vince Gilligan, Peter Gould, George Mastras, Sam Catlin, Moira Walley-Beckett, Thomas Schnauz, Gennifer Hutchison, John Shiban, J. Roberts. Com Bryan Cranston, Anna Gunn, Aaron Paul, Dean Norris, Betsy Brandt, RJ Mitte, Bob Odenkirk, Steven Michael Quezada, Jonathan Banks."
 ---
 Sabemos desde o início do seriado que há algo de novo, muito novo, na televisão. Através da figura de um pacato professor de química que descobre ter câncer e que será pai novamente enxergamos aos poucos a relativação da moral quando Walter White decide produzir drogas usando seu conhecimento e sua recém necessidade de zelar pelo futuro de sua família. Através dessa história inicial somos levados ao mundo do crime e como ele pode ser bem menos glamoroso do que imaginamos, mas também bem menos assustador do que nos contam. O mais fascinante durante todo o ciclo de ascensão e decadência de um ser humano qualquer é que percebemos como a força motriz que move o homem não necessariamente precisa passar pela aprovação do bem moral vigente. Isso não existe na cabeça dos que fazem o que admiramos. Apenas os fins são capazes de justificar seus mais loucos atos. Fins esses que começaram de forma nobre.
 

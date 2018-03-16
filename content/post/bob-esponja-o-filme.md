@@ -1,25 +1,10 @@
 ---
-date: "2012-08-01"
 imdb: "0345950"
+date: "2012-08-01"
+categories: "movies"
 title: "Bob Esponja O Filme"
 stars: "4/5"
-categories: "movies"
-_title: "The SpongeBob SquarePants Movie"
-_year: "2004"
-_director: ["Stephen Hillenburg", "Mark Osborne", ]
-_writer: ["Stephen Hillenburg", "Stephen Hillenburg", "Derek Drymon", "Tim Hill", "Stephen Hillenburg", "Kent Osborne", "Aaron Springer", "Paul Tibbitt", ]
-_cast: ["Tom Kenny", "Clancy Brown", "Rodger Bumpass", "Bill Fagerbakke", "Mr. Lawrence", "Jill Talley", "Carolyn Lawrence", "Mary Jo Catlett", "Jeffrey Tambor", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Lynn Hobson", ]
-_cinematographer: ["Jerzy Zielinski", ]
-_music: ["Steve Belfer", "Gregor Narholz", ]
-_genres: ["Animation", ]
-_runtimes: ["87", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTU4OTg2NzA0Nl5BMl5BanBnXkFtZTcwODEwMDgyMQ@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTU4OTg2NzA0Nl5BMl5BanBnXkFtZTcwODEwMDgyMQ@@._V1._SX85_SY140_.jpg"
+desc: "Bob Esponja O Filme. The SpongeBob SquarePants Movie (USA, 2004). Dirigido por Stephen Hillenburg, Mark Osborne. Escrito por Stephen Hillenburg, Stephen Hillenburg, Derek Drymon, Tim Hill, Stephen Hillenburg, Kent Osborne, Aaron Springer, Paul Tibbitt. Com Tom Kenny, Clancy Brown, Rodger Bumpass, Bill Fagerbakke, Mr. Lawrence, Jill Talley, Carolyn Lawrence, Mary Jo Catlett, Jeffrey Tambor."
 ---
 Bobinho, mas divertido. Possui lição de moral e elementos já manjados da própria série. Hoje assistindo pela quarta (quinta?) vez vejo que no fundo é um episódio expandido, e não possui pretensões muito... cinematográficas. Mas, dizer o quê de uma esponja quadrada que fala e seu amigo estrela-do-mar de bermuda? Ainda acho mais divertido que os Rugrats.
 

@@ -1,25 +1,10 @@
 ---
-date: "2014-05-08"
 imdb: "2258345"
+date: "2014-05-08"
+categories: "movies"
 title: "Amante a Domicílio"
 stars: "3/5"
-categories: "movies"
-_title: "Fading Gigolo"
-_year: "2013"
-_director: ["John Turturro", ]
-_writer: ["John Turturro", ]
-_cast: ["John Turturro", "Woody Allen", "Vanessa Paradis", "Liev Schreiber", "Sharon Stone", "Sofía Vergara", "Tonya Pinkins", "Aubrey Joseph", "Dante Hoagland", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Simona Paggi", ]
-_cinematographer: ["Marco Pontecorvo", ]
-_music: ["Abraham Laboriel", "Bill Maxwell", ]
-_genres: ["Comedy", ]
-_runtimes: ["90", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQzMjU3NjY0Nl5BMl5BanBnXkFtZTgwMTQ1NDM5MDE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQzMjU3NjY0Nl5BMl5BanBnXkFtZTgwMTQ1NDM5MDE@._V1._SX94_SY140_.jpg"
+desc: "Amante a Domicílio. Fading Gigolo (USA, 2013). Dirigido por John Turturro. Escrito por John Turturro. Com John Turturro, Woody Allen, Vanessa Paradis, Liev Schreiber, Sharon Stone, Sofía Vergara, Tonya Pinkins, Aubrey Joseph, Dante Hoagland."
 ---
 Woody Allen está de volta nas telonas, mas não como diretor. Aqui ele faz o papel de um cafetão que começa a agenciar seu ex-funcionário após o fechamento de sua loja de livros raros. Na verdade, depois de tantos anos, ele é mais do que ex-funcionário: é família. Isso aparentemente não interfere nos interesses comerciais do personagem de Allen, e aí está a primeira piada judia do filme.
 

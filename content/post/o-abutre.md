@@ -1,25 +1,10 @@
 ---
-date: "2015-04-30"
 imdb: "2872718"
-stars: "5/5"
+date: "2015-04-30"
 categories: "movies"
 title: "O Abutre"
-_title: "Nightcrawler"
-_year: "2014"
-_director: ["Dan Gilroy", ]
-_writer: ["Dan Gilroy", ]
-_cast: ["Jake Gyllenhaal", "Michael Papajohn", "Marco Rodríguez", "Bill Paxton", "James Huang", "Kent Shocknek", "Pat Harvey", "Sharon Tay", "Rick Garcia", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["John Gilroy", ]
-_cinematographer: ["Robert Elswit", ]
-_music: ["James Newton Howard", ]
-_genres: ["Crime", ]
-_runtimes: ["117", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjM5NjkzMjE5MV5BMl5BanBnXkFtZTgwNTMzNTk4MjE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjM5NjkzMjE5MV5BMl5BanBnXkFtZTgwNTMzNTk4MjE@._V1._SX90_SY140_.jpg"
+stars: "5/5"
+desc: "O Abutre. Nightcrawler (USA, 2014). Dirigido por Dan Gilroy. Escrito por Dan Gilroy. Com Jake Gyllenhaal, Michael Papajohn, Marco Rodríguez, Bill Paxton, James Huang, Kent Shocknek, Pat Harvey, Sharon Tay, Rick Garcia."
 ---
 Uma fase estupidamente frutífera de Jake Gyllenhaal, que fez com o diretor Denis Villeneuve em 2013 dois filmes muito interessantes: Os Suspeitos e O Homem Duplicado e que agora faz o seu terceiro papel completamente diferente. Não se poderia dizer diferente de Dan Gilroy, que trabalhou em roteiros de filmes curiosos como Gigantes de Aço, mas que aqui estreia na direção de uma história que ele mesmo escreveu e que ultrapassa o limite do óbvio para se emaranhar em uma discussão acalorada, divertida e abrangente sobre a mídia sensacionalista.
 

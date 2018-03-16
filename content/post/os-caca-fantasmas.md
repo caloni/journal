@@ -1,25 +1,10 @@
 ---
-date: "2013-01-24"
 imdb: "0087332"
+date: "2013-01-24"
+categories: "movies"
 title: "Os Caça-Fantasmas"
 stars: "4/5"
-categories: "movies"
-_title: "Ghost Busters"
-_year: "1984"
-_director: ["Ivan Reitman", ]
-_writer: ["Dan Aykroyd", "Harold Ramis", "Rick Moranis", ]
-_cast: ["Bill Murray", "Dan Aykroyd", "Sigourney Weaver", "Harold Ramis", "Rick Moranis", "Annie Potts", "William Atherton", "Ernie Hudson", "David Margulies", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["David E. Blewitt", "Sheldon Kahn", ]
-_cinematographer: ["László Kovács", ]
-_music: ["Elmer Bernstein", ]
-_genres: ["Comedy", ]
-_runtimes: ["105", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTkxMjYyNzgwMl5BMl5BanBnXkFtZTgwMTE3MjYyMTE@.jpg"
-_ratio: "2.20 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTkxMjYyNzgwMl5BMl5BanBnXkFtZTgwMTE3MjYyMTE@._V1._SX91_SY140_.jpg"
+desc: "Os Caça-Fantasmas. Ghost Busters (USA, 1984). Dirigido por Ivan Reitman. Escrito por Dan Aykroyd, Harold Ramis, Rick Moranis. Com Bill Murray, Dan Aykroyd, Sigourney Weaver, Harold Ramis, Rick Moranis, Annie Potts, William Atherton, Ernie Hudson, David Margulies."
 ---
 O que torna Os Caça-Fantasmas ainda um excelente filme e nos faz acreditar em sua história é a sua entrega total ao universo criado desde o início: existem fantasmas por toda Nova Iorque e ninguém discute isso. Eles estão começando a se manifestar, e não há lugar melhor para isso do que uma biblioteca.
 

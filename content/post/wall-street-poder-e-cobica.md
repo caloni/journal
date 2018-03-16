@@ -1,25 +1,10 @@
 ---
-date: "2011-05-23"
 imdb: "0094291"
+date: "2011-05-23"
+categories: "movies"
 title: "Wall Street Poder e Cobiça"
 stars: "5/5"
-categories: "movies"
-_title: "Wall Street"
-_year: "1987"
-_director: ["Oliver Stone", ]
-_writer: ["Stanley Weiser", "Oliver Stone", ]
-_cast: ["Charlie Sheen", "Tamara Tunie", "Franklin Cover", "Chuck Pfeiffer", "John C. McGinley", "Hal Holbrook", "James Karen", "Leslie Lyles", "Michael Douglas", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Claire Simpson", ]
-_cinematographer: ["Robert Richardson", ]
-_music: ["Stewart Copeland", ]
-_genres: ["Crime", ]
-_runtimes: ["126", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMzUzNTI5MDMwM15BMl5BanBnXkFtZTgwNjk0MzkxMDE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMzUzNTI5MDMwM15BMl5BanBnXkFtZTgwNjk0MzkxMDE@._V1._SX95_SY140_.jpg"
+desc: "Wall Street Poder e Cobiça. Wall Street (USA, 1987). Dirigido por Oliver Stone. Escrito por Stanley Weiser, Oliver Stone. Com Charlie Sheen, Tamara Tunie, Franklin Cover, Chuck Pfeiffer, John C. McGinley, Hal Holbrook, James Karen, Leslie Lyles, Michael Douglas."
 ---
 Após ganhar o oscar por Platoon, Oliver Stone decide focar suas lentes para sua terra natal e abordar temas em torno do que faz mudar, nós e um país inteiro, a maneira de se enxergar: o dinheiro.
 

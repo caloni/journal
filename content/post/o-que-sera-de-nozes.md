@@ -1,26 +1,11 @@
 ---
+tags: ['netflix']
+imdb: "1821658"
 date: "2017-01-01"
 categories: "movies"
 title: "O Que Será de Nozes?"
-imdb: "1821658"
 stars: "1/5"
-tags: ['netflix']
-_title: "The Nut Job"
-_year: "2014"
-_director: ["Peter Lepeniotis", ]
-_writer: ["Lorne Cameron", "Peter Lepeniotis", "Robert Reece", "Daniel Woo", ]
-_cast: ["Will Arnett (Surly)", "Brendan Fraser (Grayson)", "Liam Neeson (Raccoon)", "Katherine Heigl (Andie)", "Stephen Lang (King)", "Maya Rudolph (Precious)", "Jeff Dunham (Mole)", "Gabriel Iglesias (Jimmy)", "Sarah Gadon (Lana)", ]
-_countries: ["Canada", ]
-_languages: ["English", ]
-_editor: ["Paul Hunter", ]
-_music: ["Paul Intson", ]
-_artdirection: ["Ian Hastings", ]
-_genres: ["Animation", ]
-_runtimes: ["85", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ1NjAxMDUzN15BMl5BanBnXkFtZTgwOTE5NDM3MDE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ1NjAxMDUzN15BMl5BanBnXkFtZTgwOTE5NDM3MDE@._V1._SX95_SY140_.jpg"
+desc: "O Que Será de Nozes?. The Nut Job (Canada, 2014). Dirigido por Peter Lepeniotis. Escrito por Lorne Cameron, Peter Lepeniotis, Robert Reece, Daniel Woo. Com Will Arnett (Surly), Brendan Fraser (Grayson), Liam Neeson (Raccoon), Katherine Heigl (Andie), Stephen Lang (King), Maya Rudolph (Precious), Jeff Dunham (Mole), Gabriel Iglesias (Jimmy), Sarah Gadon (Lana)."
 ---
 The Nub Job é uma animação com orçamento limitado, pequenos defeitos na caracterização de seus personagens (visualmente e direto do roteiro) e que usa uma moral deturpada que abraça o coletivismo em uma história rapidamente esquecível. Ele arrisca ainda em seu roteiro e montagem contar duas histórias ao mesmo tempo, mas é por demais amador e ainda no rascunho.
 

@@ -1,25 +1,10 @@
 ---
-date: "2011-11-02"
 imdb: "1504320"
+date: "2011-11-02"
+categories: "movies"
 title: "O Discurso do Rei"
 stars: "3/5"
-categories: "movies"
-_title: "The King's Speech"
-_year: "2010"
-_director: ["Tom Hooper", ]
-_writer: ["David Seidler", ]
-_cast: ["Colin Firth", "Helena Bonham Carter", "Derek Jacobi", "Robert Portal", "Richard Dixon", "Paul Trussell", "Adrian Scarborough", "Andrew Havill", "Charles Armstrong", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Tariq Anwar", ]
-_cinematographer: ["Danny Cohen", ]
-_music: ["Alexandre Desplat", ]
-_genres: ["Biography", ]
-_runtimes: ["118", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMzU5MjEwMTg2Nl5BMl5BanBnXkFtZTcwNzM3MTYxNA@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMzU5MjEwMTg2Nl5BMl5BanBnXkFtZTcwNzM3MTYxNA@@._V1._SX96_SY140_.jpg"
+desc: "O Discurso do Rei. The King's Speech (UK, 2010). Dirigido por Tom Hooper. Escrito por David Seidler. Com Colin Firth, Helena Bonham Carter, Derek Jacobi, Robert Portal, Richard Dixon, Paul Trussell, Adrian Scarborough, Andrew Havill, Charles Armstrong."
 ---
 O uso de lente claustrofóbica para identificar o nervosismo e o sentimento de aflição do protagonista.
 

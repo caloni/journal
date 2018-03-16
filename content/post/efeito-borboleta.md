@@ -1,25 +1,10 @@
 ---
-date: "2015-06-13"
 imdb: "0289879"
-stars: "4/5"
+date: "2015-06-13"
 categories: "movies"
 title: "Efeito Borboleta"
-_title: "The Butterfly Effect"
-_year: "2004"
-_director: ["Eric Bress", "J. Mackye Gruber", ]
-_writer: ["J. Mackye Gruber", "Eric Bress", ]
-_cast: ["Ashton Kutcher", "Melora Walters", "Amy Smart", "Elden Henson", "William Lee Scott", "John Patrick Amedori", "Irina Gorovaia", "Kevin G. Schmidt", "Jesse James", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Peter Amundson", ]
-_cinematographer: ["Matthew F. Leonetti", ]
-_music: ["Mike Suby", ]
-_genres: ["Sci-Fi", ]
-_runtimes: ["113", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTI1ODkxNzg2N15BMl5BanBnXkFtZTYwMzQ2MTg2.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTI1ODkxNzg2N15BMl5BanBnXkFtZTYwMzQ2MTg2._V1._SX95_SY140_.jpg"
+stars: "4/5"
+desc: "Efeito Borboleta. The Butterfly Effect (USA, 2004). Dirigido por Eric Bress, J. Mackye Gruber. Escrito por J. Mackye Gruber, Eric Bress. Com Ashton Kutcher, Melora Walters, Amy Smart, Elden Henson, William Lee Scott, John Patrick Amedori, Irina Gorovaia, Kevin G. Schmidt, Jesse James."
 ---
 Efeito Borboleta é um desses filmes difíceis de defender, mas quem comprar a briga (como eu) pode encontrar uma fonte inesgotável de prazer. Prazer de defender a arte cinematográfica, mesmo às vezes através de sua própria imperfeição. Prazer me reconhecer que, mesmo com tantos defeitos, uma obra pode exibir virtudes que a tornam ímpares, ou pelo menos dignas de algumas revisitas. Há elementos particularmente fascinantes escondidos dentro do embrulho que é este filme, em um formato não muito bem empacotado.
 

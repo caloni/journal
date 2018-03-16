@@ -1,27 +1,10 @@
 ---
+imdb: "4574334"
 date: "2016-08-04"
 categories: "blog"
-imdb: "4574334"
-stars: "3/5"
 title: "Stranger Things (e a irrelevância da bilheteria Netflixiana)"
-_title: "Stranger Things"
-_year: "2016"
-_director: ["Matt Duffer", "Ross Duffer", "Shawn Levy", ]
-_writer: ["Matt Duffer", "Ross Duffer", "Justin Doble", ]
-_cast: ["Winona Ryder", "David Harbour", "Finn Wolfhard", "Millie Bobby Brown", "Gaten Matarazzo", "Caleb McLaughlin", "Natalia Dyer", "Charlie Heaton", "Cara Buono", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Kevin D. Ross", "Dean Zimmerman", ]
-_cinematographer: ["Tim Ives", "Tod Campbell", ]
-_music: ["Kyle Dixon", "Michael Stein", ]
-_artdirection: ["William G. Davis", ]
-_costume designer: ["Malgosia Turzanska", "Kimberly Adams-Galligan", ]
-_genres: ["Drama", ]
-_runtimes: ["55::(approx.)", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjEzMDAxOTUyMV5BMl5BanBnXkFtZTgwNzAxMzYzOTE@.jpg"
-_ratio: "2.00 : 1"
-_kind: "tv series"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjEzMDAxOTUyMV5BMl5BanBnXkFtZTgwNzAxMzYzOTE@._V1._SX95_SY140_.jpg"
+stars: "3/5"
+desc: "Stranger Things (e a irrelevância da bilheteria Netflixiana). Stranger Things (USA, 2016). Dirigido por Matt Duffer, Ross Duffer, Shawn Levy. Escrito por Matt Duffer, Ross Duffer, Justin Doble. Com Winona Ryder, David Harbour, Finn Wolfhard, Millie Bobby Brown, Gaten Matarazzo, Caleb McLaughlin, Natalia Dyer, Charlie Heaton, Cara Buono."
 ---
 A Netflix conseguiu mais uma vez. Usando seu algoritmo de análise do que o público quer ver, aí está justamente o que a grande massa adoraria ver: referências doentias aos anos 80 sem qualquer vergonha de se render ao clichê, ou apelar para emoções baratas. As pistas de uma série misteriosa aparecem na primeira cena que são usadas. Além de tudo, o roteiro é preguiçoso.
 

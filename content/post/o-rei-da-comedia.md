@@ -1,26 +1,10 @@
 ---
+imdb: "0085794"
 date: "2016-07-20"
 categories: "movies"
-imdb: "0085794"
-stars: "5/5"
 title: "O Rei da Comédia"
-_title: "The King of Comedy"
-_year: "1982"
-_director: ["Martin Scorsese", ]
-_writer: ["Paul D. Zimmerman", ]
-_cast: ["Robert De Niro", "Jerry Lewis", "Diahnne Abbott", "Sandra Bernhard", "Ed Herlihy", "Lou Brown", "Loretta Tupper", "Peter Potulski", "Vinnie Gonzales", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Thelma Schoonmaker", ]
-_cinematographer: ["Fred Schuler", ]
-_artdirection: ["Lawrence Miller", "Edward Pisoni", ]
-_costume designer: ["Richard Bruno", ]
-_genres: ["Comedy", ]
-_runtimes: ["109", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTM3NzIzNDQyM15BMl5BanBnXkFtZTYwMTA3MDg5.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTM3NzIzNDQyM15BMl5BanBnXkFtZTYwMTA3MDg5._V1._SX98_SY140_.jpg"
+stars: "5/5"
+desc: "O Rei da Comédia. The King of Comedy (USA, 1982). Dirigido por Martin Scorsese. Escrito por Paul D. Zimmerman. Com Robert De Niro, Jerry Lewis, Diahnne Abbott, Sandra Bernhard, Ed Herlihy, Lou Brown, Loretta Tupper, Peter Potulski, Vinnie Gonzales."
 ---
 Martin Scorsese apresenta uma comédia de humor negro estrelando Robert de Niro e Jerry Lewis, se bem que o humor não é tão negro assim. Ele brinca com o absurdo do show business e seus candidatos à fama apresentando Rupert Pupkin (de Niro), um aspirante a comediante que aos 34 anos ainda vive com a mãe (Catherine Scorsese, mãe do diretor) e que nunca trabalhou um minuto sequer em sua carreira. No entanto, coleciona autógrafos de comediantes famosos (de acordo com ele, Marylin Monroe não era boa atriz, mas tinha jeito para a comédia) e persegue o astro do humor televisivo Jerry Langford (Lewis), além de ter um palco em casa onde ensaia o seu grande show de televisão, assim que conseguir um.
 

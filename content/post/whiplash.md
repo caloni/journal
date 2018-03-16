@@ -1,24 +1,10 @@
 ---
-date: "2015-04-22"
 imdb: "2582802"
-stars: "5/5"
+date: "2015-04-22"
 categories: "movies"
 title: "Whiplash: Em Busca da Perfeição"
-_title: "Whiplash"
-_year: "2014"
-_director: ["Damien Chazelle", ]
-_writer: ["Damien Chazelle", ]
-_cast: ["Miles Teller", "J.K. Simmons", "Paul Reiser", "Melissa Benoist", "Austin Stowell", "Nate Lang", "Chris Mulkey", "Damon Gupton", "Suanne Spoke", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Tom Cross", ]
-_cinematographer: ["Sharone Meir", ]
-_music: ["Justin Hurwitz", ]
-_genres: ["Drama", ]
-_runtimes: ["107", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTU4OTQ3MDUyMV5BMl5BanBnXkFtZTgwOTA2MjU0MjE@.jpg"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTU4OTQ3MDUyMV5BMl5BanBnXkFtZTgwOTA2MjU0MjE@._V1._SX94_SY140_.jpg"
+stars: "5/5"
+desc: "Whiplash: Em Busca da Perfeição. Whiplash (USA, 2014). Dirigido por Damien Chazelle. Escrito por Damien Chazelle. Com Miles Teller, J.K. Simmons, Paul Reiser, Melissa Benoist, Austin Stowell, Nate Lang, Chris Mulkey, Damon Gupton, Suanne Spoke."
 ---
 As distribuidoras simplesmente não param. A cada dez filmes assistidos, onze possuem um subtítulo vergonha-alheia. Talvez elas estejam por trás da queda vertiginosa de público nos cinemas brasileiros. Afinal, quem vai querer ver "Em Busca da Perfeição" ou "Uma Razão para Viver" pela enésima vez?
 

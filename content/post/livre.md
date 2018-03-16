@@ -1,24 +1,10 @@
 ---
-date: "2015-05-05"
 imdb: "2305051"
-stars: "4/5"
+date: "2015-05-05"
 categories: "movies"
 title: "Livre"
-_title: "Wild"
-_year: "2014"
-_director: ["Jean-Marc Vallée", ]
-_writer: ["Nick Hornby", "Cheryl Strayed", ]
-_cast: ["Reese Witherspoon", "Laura Dern", "Thomas Sadoski", "Keene McRae", "Michiel Huisman", "W. Earl Brown", "Gaby Hoffmann", "Kevin Rankin", "Brian Van Holt", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Martin Pensa", "Jean-Marc Vallée", ]
-_cinematographer: ["Yves Bélanger", ]
-_genres: ["Biography", ]
-_runtimes: ["115", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTczNzI2MDc1Ml5BMl5BanBnXkFtZTgwOTU5NTYxMjE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTczNzI2MDc1Ml5BMl5BanBnXkFtZTgwOTU5NTYxMjE@._V1._SX95_SY140_.jpg"
+stars: "4/5"
+desc: "Livre. Wild (USA, 2014). Dirigido por Jean-Marc Vallée. Escrito por Nick Hornby, Cheryl Strayed. Com Reese Witherspoon, Laura Dern, Thomas Sadoski, Keene McRae, Michiel Huisman, W. Earl Brown, Gaby Hoffmann, Kevin Rankin, Brian Van Holt."
 ---
 Baseado no livro autobiográfico "Wild: From Lost to Found on the Pacific Crest Trail", a protagonista absoluta do filme são as memórias de Cheryl Strayed, interpretadas pela competente (ou bem escolhida) Reese Witherspoon. No entanto, além de Sheryl, parece haver ainda um espírito maior que quer contar uma história maior. Um espírito interpretado pelo fantasma de sua mãe, a simpática e intensa Bobbi (Laura Dern, quase roubando a cena). Um espírito trabalhado em todo homem e mulher do filme. Um espírito que luta pela liberdade do ser humano independente do seu gênero. Um espírito tão empenhado em conduzir essa tarefa na mente de seus espectadores que avança um pouco o sinal, se tornando quase um manifesto feminista de bolso. 
 

@@ -1,23 +1,10 @@
 ---
-date: "2014-01-23"
 imdb: "0086994"
+date: "2014-01-23"
+categories: "movies"
 title: "Boy Meets Girl"
 stars: "4/5"
-categories: "movies"
-_title: "Boy Meets Girl"
-_year: "1984"
-_director: ["Leos Carax", ]
-_writer: ["Leos Carax", ]
-_cast: ["Denis Lavant", "Mireille Perrier", "Carroll Brooks", "Maïté Nahyr", "Elie Poicard", "Christian Cloarec", "Lorraine Berger", "Marc Desclozeaux", "Anna Baldaccini", ]
-_countries: ["France", ]
-_languages: ["French", ]
-_editor: ["Nelly Meunier", "Francine Sandberg", ]
-_cinematographer: ["Jean-Yves Escoffier", ]
-_genres: ["Drama", ]
-_runtimes: ["100", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTIyNjM4MjIwM15BMl5BanBnXkFtZTcwMTg1MjMyMQ@@.jpg"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTIyNjM4MjIwM15BMl5BanBnXkFtZTcwMTg1MjMyMQ@@._V1._SX98_SY140_.jpg"
+desc: "Boy Meets Girl. Boy Meets Girl (France, 1984). Dirigido por Leos Carax. Escrito por Leos Carax. Com Denis Lavant, Mireille Perrier, Carroll Brooks, Maïté Nahyr, Elie Poicard, Christian Cloarec, Lorraine Berger, Marc Desclozeaux, Anna Baldaccini."
 ---
 São filmes assim que me revelam como um cinéfilo ainda burro. Mesmo assim, tenho a ousadia de gostar de alguns deles, mesmo sem saber muito bem por quê.
 

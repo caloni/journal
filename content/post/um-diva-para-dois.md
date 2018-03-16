@@ -1,25 +1,10 @@
 ---
-date: "2012-08-24"
 imdb: "1535438"
+date: "2012-08-24"
+categories: "movies"
 title: "Um Divã para Dois"
 stars: "4/5"
-categories: "movies"
-_title: "Hope Springs"
-_year: "2012"
-_director: ["David Frankel", ]
-_writer: ["Vanessa Taylor", ]
-_cast: ["Meryl Streep", "Tommy Lee Jones", "Steve Carell", "Jean Smart", "Ben Rappaport", "Marin Ireland", "Patch Darragh", "Brett Rice", "Becky Ann Baker", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Steven Weisberg", ]
-_cinematographer: ["Florian Ballhaus", ]
-_music: ["Theodore Shapiro", ]
-_genres: ["Comedy", ]
-_runtimes: ["100", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjIxODY2OTg2N15BMl5BanBnXkFtZTcwODAyODg5Nw@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjIxODY2OTg2N15BMl5BanBnXkFtZTcwODAyODg5Nw@@._V1._SX96_SY140_.jpg"
+desc: "Um Divã para Dois. Hope Springs (USA, 2012). Dirigido por David Frankel. Escrito por Vanessa Taylor. Com Meryl Streep, Tommy Lee Jones, Steve Carell, Jean Smart, Ben Rappaport, Marin Ireland, Patch Darragh, Brett Rice, Becky Ann Baker."
 ---
 Meryl Streep (Kay), e é preciso que comece esse texto com ela, está divina. Pra variar, seu tom de voz fino, distante e frágil remete justamente àquela mulher que, depois de 30 anos de casada, percebe que sua posição submissa e acomodada começa a perturbá-la pelo som repetitivo e ensurdecedor da rotina. Seu marido, Arnold (Tommy Lee Jones sendo Tommy Lee Jones), igualmente acomodado em uma cadência ininterrupta de ovos, bacon e escritório, mal consegue entender por que sua mulher pretende mudar aquele casamento estável indo para uma sessão de terapia de casais em uma cidadezinha feita sob encomenda. Pior: não entende por que gastar 4 mil dólares em algo tão fútil se poderia aplicar melhor esse dinheiro comprando um telhado novo?
 

@@ -1,27 +1,11 @@
 ---
+tags: ['netflix', 'series']
+imdb: "3322314"
 date: "2016-10-17"
 categories: "blog"
 title: "Luke Cage"
-imdb: "3322314"
 stars: "3/5"
-tags: ['netflix', 'series']
-_title: "Luke Cage (piloto)"
-_year: "2016"
-_director: ["Paul McGuigan", ]
-_writer: ["Cheo Hodari Coker", "Archie Goodwin", "John Romita Jr.", "Roy Thomas", "George Tuska", "Akela Cooper", "Aïda Mashaka Croal", "Jason Horwitch", "Charles Murray", ]
-_cast: ["Mike Colter (Luke Cage / ...)", "Simone Missick (Detective Mercedes 'Misty' Knight)", "Theo Rossi (Hernan 'Shades' Alvarez)", "Alfre Woodard (Mariah Dillard)", "Jaiden Kaine (Zip)", "Rosario Dawson (Claire Temple)", "Ron Cephas Jones (Bobby Fish)", "Erik LaRay Harvey (Willis 'Diamondback' Stryker)", "Karen Pittman (Inspector Priscilla Ridley)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Jonathan Chibnall", "Tirsa Hackshaw", "Miklos Wright", ]
-_cinematographer: ["Manuel Billeter", ]
-_music: ["Ali Shaheed Muhammad", "Adrian Younge", ]
-_artdirection: ["Toni Barton", "Malchus Janocko", ]
-_costume designer: ["Stephanie Maslansky", ]
-_genres: ["Action", ]
-_runtimes: ["55", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTcyMzc1MjI5MF5BMl5BanBnXkFtZTgwMzE4ODY2OTE@.jpg"
-_kind: "tv series"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTcyMzc1MjI5MF5BMl5BanBnXkFtZTgwMzE4ODY2OTE@._V1._SX99_SY140_.jpg"
+desc: "Luke Cage. Luke Cage (piloto) (USA, 2016). Dirigido por Paul McGuigan. Escrito por Cheo Hodari Coker, Archie Goodwin, John Romita Jr., Roy Thomas, George Tuska, Akela Cooper, Aïda Mashaka Croal, Jason Horwitch, Charles Murray. Com Mike Colter (Luke Cage / ...), Simone Missick (Detective Mercedes 'Misty' Knight), Theo Rossi (Hernan 'Shades' Alvarez), Alfre Woodard (Mariah Dillard), Jaiden Kaine (Zip), Rosario Dawson (Claire Temple), Ron Cephas Jones (Bobby Fish), Erik LaRay Harvey (Willis 'Diamondback' Stryker), Karen Pittman (Inspector Priscilla Ridley)."
 ---
 
 As produções da Marvel têm tanta certeza que seus fãs irão acompanhar as séries do começo ao fim que eles sequer precisam fazer um episódio piloto que chame a atenção. E é assim com Luke Cage, cria gerada a partir de Jessica Jones, a quase-potencial série em se tornar algo além do incidente Vingadores em Nova Iorque. Nesse caso, Cage passeia pelos personagens que irão colocá-lo em grandes enrascadas e fazê-lo viver grandes aventuras na velha e bobinha lenda do herói humilde que surge do Harlem e que combate uma poderosa máfia com conexões políticas.

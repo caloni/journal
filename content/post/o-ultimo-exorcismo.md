@@ -1,25 +1,10 @@
 ---
-date: "2010-09-24"
 imdb: "1320244"
+date: "2010-09-24"
+categories: "movies"
 title: "O Último Exorcismo"
 stars: "4/5"
-categories: "movies"
-_title: "The Last Exorcism"
-_year: "2010"
-_director: ["Daniel Stamm", ]
-_writer: ["Huck Botko", "Andrew Gurland", ]
-_cast: ["Patrick Fabian", "Ashley Bell", "Iris Bahr", "Louis Herthum", "Caleb Landry Jones", "Tony Bentley", "John Wright Jr.", "Shanna Forrestall", "Justin Shafer", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Shilpa Sahi", ]
-_cinematographer: ["Zoltan Honti", ]
-_music: ["Nathan Barr", ]
-_genres: ["Drama", ]
-_runtimes: ["87", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNDc4Mjk2MjA0NF5BMl5BanBnXkFtZTcwMzMyNjQ3Mw@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNDc4Mjk2MjA0NF5BMl5BanBnXkFtZTcwMzMyNjQ3Mw@@._V1._SX94_SY140_.jpg"
+desc: "O Último Exorcismo. The Last Exorcism (USA, 2010). Dirigido por Daniel Stamm. Escrito por Huck Botko, Andrew Gurland. Com Patrick Fabian, Ashley Bell, Iris Bahr, Louis Herthum, Caleb Landry Jones, Tony Bentley, John Wright Jr., Shanna Forrestall, Justin Shafer."
 ---
 Esse é "O Exorcista" invertido. Aqui o padre, que na verdade é tipo um reverendo de sua religião, possui suas dúvidas com respeito a Deus, e usa a religião como um meio de ganhar a vida. Reflexo exato do atual status das religiões polêmicas, que as usam também como um meio de se proliferarem, o próprio padre afirma que o principal é fazer as pessoas abrirem a mão, pois não se vive só de fé.
 

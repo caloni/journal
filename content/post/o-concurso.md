@@ -1,27 +1,11 @@
 ---
+tags: ['netflix']
+imdb: "2616114"
 date: "2016-08-28"
 categories: "movies"
 title: "O Concurso"
-imdb: "2616114"
 stars: "1/5"
-tags: ['netflix']
-_title: "O Concurso"
-_year: "2013"
-_director: ["Pedro Vasconcelos", ]
-_writer: ["L.G. Tubaldini Jr", "Leonardo Levis", "L.G. Tubaldini Jr", "L.G. Bayão", "Carla Faour", "Cláudia Maximino", "Gregório Duvivier", ]
-_cast: ["Danton Mello", "Fábio Porchat", "Anderson Di Rizzi", "Rodrigo Pandolfo", "Carol Castro", "Sabrina Sato", "Pedro Paulo Rangel", "Jackson Antunes", "Gigante Léo", ]
-_countries: ["Brazil", ]
-_languages: ["Portuguese", ]
-_editor: ["Renato Martins", ]
-_cinematographer: ["Hélcio Alemão Nagamine", ]
-_artdirection: ["Zé Luca", ]
-_costume designer: ["Valeria Stefani", ]
-_genres: ["Comedy", ]
-_runtimes: ["86", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjMzMDQwMzM2M15BMl5BanBnXkFtZTcwMzA1OTg1OQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjMzMDQwMzM2M15BMl5BanBnXkFtZTcwMzA1OTg1OQ@@._V1._SX94_SY140_.jpg"
+desc: "O Concurso. O Concurso (Brazil, 2013). Dirigido por Pedro Vasconcelos. Escrito por L.G. Tubaldini Jr, Leonardo Levis, L.G. Tubaldini Jr, L.G. Bayão, Carla Faour, Cláudia Maximino, Gregório Duvivier. Com Danton Mello, Fábio Porchat, Anderson Di Rizzi, Rodrigo Pandolfo, Carol Castro, Sabrina Sato, Pedro Paulo Rangel, Jackson Antunes, Gigante Léo."
 ---
 Este é mais um dos filmes bobos, praticamente sem graça e datados da Globo Filmes. O Concurso continua fazendo piadas no melhor/pior estilo A Praça é Nossa ou Zorra Total. Pior: sequer tem vergonha de usar um fiapo de história que apenas serve para juntar situações entre humoristas se fazendo de atores com personagens tipicamente rasos.
 

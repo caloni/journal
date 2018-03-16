@@ -1,28 +1,11 @@
 ---
+tags: ['paulocoelho', 'oscar']
+imdb: "3263904"
 date: "2017-01-05"
 categories: "movies"
 title: "Sully: O Herói do Rio Hudson"
-imdb: "3263904"
 stars: "5/5"
-tags: ['paulocoelho', 'oscar']
-_title: "Sully"
-_year: "2016"
-_director: ["Clint Eastwood", ]
-_writer: ["Todd Komarnicki", "Chesley Sullenberger", "Jeffrey Zaslow", ]
-_cast: ["Tom Hanks (Chesley 'Sully' Sullenberger)", "Aaron Eckhart (Jeff Skiles)", "Valerie Mahaffey (Diane Higgins)", "Delphi Harrington (Lucille Palmer)", "Mike O'Malley (Charles Porter)", "Jamey Sheridan (Ben Edwards)", "Anna Gunn (Elizabeth Davis)", "Holt McCallany (Mike Cleary)", "Ahmed Lucan (Egyptian Driver)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Blu Murray", ]
-_cinematographer: ["Tom Stern", ]
-_music: ["Christian Jacob", "Tierney Sutton Band", ]
-_artdirection: ["Ryan Heck", "Kevin Ishioka", ]
-_costume designer: ["Deborah Hopper", ]
-_genres: ["Biography", ]
-_runtimes: ["96", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg5NTUwNDIyOV5BMl5BanBnXkFtZTgwMjI2OTc3OTE@.jpg"
-_ratio: "1.90 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg5NTUwNDIyOV5BMl5BanBnXkFtZTgwMjI2OTc3OTE@._V1._SX94_SY140_.jpg"
+desc: "Sully: O Herói do Rio Hudson. Sully (USA, 2016). Dirigido por Clint Eastwood. Escrito por Todd Komarnicki, Chesley Sullenberger, Jeffrey Zaslow. Com Tom Hanks (Chesley 'Sully' Sullenberger), Aaron Eckhart (Jeff Skiles), Valerie Mahaffey (Diane Higgins), Delphi Harrington (Lucille Palmer), Mike O'Malley (Charles Porter), Jamey Sheridan (Ben Edwards), Anna Gunn (Elizabeth Davis), Holt McCallany (Mike Cleary), Ahmed Lucan (Egyptian Driver)."
 ---
 Sully é um trabalho delicado e empenhado não apenas de um diretor que vem crescendo cada vez mais sua sensibilidade a respeito da figura humana, mas também um trabalho de uma equipe de cineastas afiada com a proposta deste simplório e poderoso filme. Ele transforma medo em esperança, resgatando no processo, em um mundo cada vez mais dominado por máquinas e matemática, o surrado, mas ainda de pé, "fator humano".
 

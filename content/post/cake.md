@@ -1,26 +1,11 @@
 ---
-date: "2015-04-22"
-tags: [ "cabine" ]
+tags: ['cabine']
 imdb: "3442006"
-stars: "3/5"
+date: "2015-04-22"
 categories: "movies"
 title: "Cake: Uma Razão para Viver"
-_title: "Cake"
-_year: "2014"
-_director: ["Daniel Barnz", ]
-_writer: ["Patrick Tobin", ]
-_cast: ["Jennifer Aniston", "Adriana Barraza", "Anna Kendrick", "Sam Worthington", "Mamie Gummer", "Felicity Huffman", "William H. Macy", "Chris Messina", "Lucy Punch", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Kristina Boden", "Michelle Harrison", ]
-_cinematographer: ["Rachel Morrison", ]
-_music: ["Christophe Beck", ]
-_genres: ["Drama", ]
-_runtimes: ["102", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTc4NDYzNTcyM15BMl5BanBnXkFtZTgwNjQ5NzQ0MzE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTc4NDYzNTcyM15BMl5BanBnXkFtZTgwNjQ5NzQ0MzE@._V1._SX95_SY140_.jpg"
+stars: "3/5"
+desc: "Cake: Uma Razão para Viver. Cake (USA, 2014). Dirigido por Daniel Barnz. Escrito por Patrick Tobin. Com Jennifer Aniston, Adriana Barraza, Anna Kendrick, Sam Worthington, Mamie Gummer, Felicity Huffman, William H. Macy, Chris Messina, Lucy Punch."
 ---
 Cake já começa mal no Brasil com seu péssimo subtítulo: Uma Razão para Viver. Até quando as distribuidoras vão apelar para o espectador mais insosso para vender títulos? Até quando a métrica do Cinema no Brasil serão as falas da Sessão da Tarde, ou os diálogos de atores globais?
 

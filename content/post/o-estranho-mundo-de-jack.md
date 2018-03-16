@@ -1,26 +1,11 @@
 ---
-date: "2014-03-02"
 imdb: "0107688"
+date: "2014-03-02"
+categories: "movies"
 title: "O Estranho Mundo de Jack"
 stars: "4/5"
-categories: "movies"
-revision: [2015-05-29]
-_title: "The Nightmare Before Christmas"
-_year: "1993"
-_director: ["Henry Selick", ]
-_writer: ["Tim Burton", "Michael McDowell", "Caroline Thompson", ]
-_cast: ["Danny Elfman", "Chris Sarandon", "Catherine O'Hara", "William Hickey", "Glenn Shadix", "Paul Reubens", "Ken Page", "Edward Ivory", "Susan McBride", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Stan Webb", ]
-_cinematographer: ["Pete Kozachik", ]
-_music: ["Danny Elfman", ]
-_genres: ["Animation", ]
-_runtimes: ["76", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTc5MDY0MjkwNV5BMl5BanBnXkFtZTcwNTk2Njk3OA@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTc5MDY0MjkwNV5BMl5BanBnXkFtZTcwNTk2Njk3OA@@._V1._SX100_SY133_.jpg"
+revision: [datetime.date(2015, 5, 29)]
+desc: "O Estranho Mundo de Jack. The Nightmare Before Christmas (USA, 1993). Dirigido por Henry Selick. Escrito por Tim Burton, Michael McDowell, Caroline Thompson. Com Danny Elfman, Chris Sarandon, Catherine O'Hara, William Hickey, Glenn Shadix, Paul Reubens, Ken Page, Edward Ivory, Susan McBride."
 ---
 O diretor Henry Selick já tem seu lugar de destaque nas animações por produzir com sua equipe trabalhos com tanto esmero quanto Coraline e o Mundo Secreto e este O Estranho Mundo de Jack. Bancado por Tim Burton  cujos projetos góticos possuem total similaridade com ambos os filmes  Selick em 93 já investia no que seria quase que um renascimento da arte stop-motion nos cinemas, de onde surgiriam ótimos trabalhos como A Noiva-Cadáver (esse sim dirigido por Tim Burton) e atingiria seu ápice em Mary e Max (Adam Elliot, 2009).
 

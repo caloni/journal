@@ -1,24 +1,10 @@
 ---
-date: "2011-06-23"
 imdb: "1951090"
+date: "2011-06-23"
+categories: "movies"
 title: "Quebrando o Tabu"
 stars: "3/5"
-categories: "movies"
-_title: "Quebrando o Tabu"
-_year: "2011"
-_director: ["Fernando Grostein Andrade", "Cosmo Feilding-Mellen", ]
-_writer: ["Fernando Grostein Andrade", "Thomaz Souto Correa", "Rodrigo de Oliveira", "Cosmo Feilding-Mellen", "Carolina Kotscho", "Bruno R. Modolo", "Ricardo Setti", "Ilona Szabo", ]
-_cast: ["Fran Boyd Andrews", "Brenda Blom", "Fernando Henrique Cardoso", "Jimmy Carter", "Jorge Castañeda", "Bill Clinton", "Paulo Coelho", "Richard Dannatt", "Ruth Dreifuss", ]
-_countries: ["UK", ]
-_languages: ["Portuguese", ]
-_editor: ["Leticia Giffoni", "Lena Karsten", "Jair Peres", "Tony Wilson", ]
-_cinematographer: ["Fernando Grostein Andrade", "Rafael Levy", ]
-_music: ["Lucas Lima", ]
-_genres: ["Documentary", ]
-_runtimes: ["80", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTM4Mjk2NTUxNV5BMl5BanBnXkFtZTgwNTA0MzUxMDE@.jpg"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTM4Mjk2NTUxNV5BMl5BanBnXkFtZTgwNTA0MzUxMDE@._V1._SX99_SY140_.jpg"
+desc: "Quebrando o Tabu. Quebrando o Tabu (UK, 2011). Dirigido por Fernando Grostein Andrade, Cosmo Feilding-Mellen. Escrito por Fernando Grostein Andrade, Thomaz Souto Correa, Rodrigo de Oliveira, Cosmo Feilding-Mellen, Carolina Kotscho, Bruno R. Modolo, Ricardo Setti, Ilona Szabo. Com Fran Boyd Andrews, Brenda Blom, Fernando Henrique Cardoso, Jimmy Carter, Jorge Castañeda, Bill Clinton, Paulo Coelho, Richard Dannatt, Ruth Dreifuss."
 ---
 Existem filmes que não são apenas interessantes de se assistir como mais uma manifestação de arte. Os documentários, por natureza, quase sempre tentam nos envolver em algum tipo de realidade que, por muitas vezes não fazer parte da nossa, é preciso ser escancarada e dissecada da maneira como os idealizadores do projeto acreditam ser importante.
 

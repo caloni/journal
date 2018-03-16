@@ -1,25 +1,10 @@
 ---
-date: "2015-08-07"
 imdb: "2581244"
-stars: "3/5"
+date: "2015-08-07"
 categories: "movies"
 title: "Life After Beth"
-_title: "Life After Beth"
-_year: "2014"
-_director: ["Jeff Baena", ]
-_writer: ["Jeff Baena", ]
-_cast: ["Aubrey Plaza", "Dane DeHaan", "John C. Reilly", "Molly Shannon", "Cheryl Hines", "Paul Reiser", "Matthew Gray Gubler", "Anna Kendrick", "Eva La Dare", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Colin Patton", ]
-_cinematographer: ["Jay Hunter", ]
-_music: ["Black Rebel Motorcycle Club", ]
-_genres: ["Comedy", ]
-_runtimes: ["89", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjA3OTUwOTMxOF5BMl5BanBnXkFtZTgwODg4NTkwMjE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjA3OTUwOTMxOF5BMl5BanBnXkFtZTgwODg4NTkwMjE@._V1._SX94_SY140_.jpg"
+stars: "3/5"
+desc: "Life After Beth. Life After Beth (USA, 2014). Dirigido por Jeff Baena. Escrito por Jeff Baena. Com Aubrey Plaza, Dane DeHaan, John C. Reilly, Molly Shannon, Cheryl Hines, Paul Reiser, Matthew Gray Gubler, Anna Kendrick, Eva La Dare."
 ---
 Esse é um horror/trash-drama com grandes dificuldades em dizer quando devemos sentir algo e quando devemos dar risada. Seu momento máximo envolve as montanhas, um rádio e um fogão. Zumbis ainda podem render diferentes tons de filmes, mas nunca passarão de homenagens incidentais a George Romero.
 

@@ -1,25 +1,10 @@
 ---
-date: "2014-12-20"
 imdb: "2109248"
+date: "2014-12-20"
+categories: "movies"
 title: "Transformers: A Era da Extinção"
 stars: "1/5"
-categories: "movies"
-_title: "Transformers: Age of Extinction"
-_year: "2014"
-_director: ["Michael Bay", ]
-_writer: ["Ehren Kruger", ]
-_cast: ["Mark Wahlberg", "Stanley Tucci", "Kelsey Grammer", "Nicola Peltz", "Jack Reynor", "Titus Welliver", "Sophia Myles", "Bingbing Li", "T.J. Miller", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Roger Barton", "William Goldenberg", "Paul Rubell", ]
-_cinematographer: ["Amir Mokri", ]
-_music: ["Steve Jablonsky", ]
-_genres: ["Action", ]
-_runtimes: ["165", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjEwNTg1MTA5Nl5BMl5BanBnXkFtZTgwOTg2OTM4MTE@.jpg"
-_ratio: "1.90 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjEwNTg1MTA5Nl5BMl5BanBnXkFtZTgwOTg2OTM4MTE@._V1._SX90_SY140_.jpg"
+desc: "Transformers: A Era da Extinção. Transformers: Age of Extinction (USA, 2014). Dirigido por Michael Bay. Escrito por Ehren Kruger. Com Mark Wahlberg, Stanley Tucci, Kelsey Grammer, Nicola Peltz, Jack Reynor, Titus Welliver, Sophia Myles, Bingbing Li, T.J. Miller."
 ---
 Convenhamos: Michael Bay sabe fazer um show e tanto, mas não consegue chegar nem perto de contar uma história coerente em sua franquia dos robôs gigantes que se transformam em automóveis, mas agora também possuem uma versão-dinossauro, embora nem um nem outro consigam ter qualquer fiapo de lógica. Acompanhamos agora a "saga" sabendo que os alienígenas responsáveis pelos Transformers já visitaram o planeta Terra há milhões de anos, e foram também os responsáveis pela extinção dos dinossauros (aparentemente algum geólogo confundiu um meteoro com um power-blast de nave ET). Tanto os "autobots" quanto os "decepticons" (que apesar do nome também se transformam em automóveis) tiveram a mesma origem: ETs que vão de planeta em planeta sugar os recursos necessários, aniquilando qualquer espécie de vida que eventualmente existir. Qualquer semelhança com Independence Day -- exceto que nesse não havia dinossauros -- é mera coincidência (ou não).
 

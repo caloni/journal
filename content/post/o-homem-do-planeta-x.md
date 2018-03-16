@@ -1,25 +1,10 @@
 ---
-date: "2014-03-04"
 imdb: "0043778"
+date: "2014-03-04"
+categories: "movies"
 title: "O Homem do Planeta X"
 stars: "2/5"
-categories: "movies"
-_title: "The Man from Planet X"
-_year: "1951"
-_director: ["Edgar G. Ulmer", ]
-_writer: ["Aubrey Wisberg", "Jack Pollexfen", ]
-_cast: ["Robert Clarke", "Margaret Field", "Raymond Bond", "William Schallert", "Roy Engel", "David Ormont", "Gilbert Fallman", "Tom Daly", "June Jeffery", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Fred R. Feitshans Jr.", ]
-_cinematographer: ["John L. Russell", ]
-_music: ["Charles Koff", ]
-_genres: ["Horror", ]
-_runtimes: ["70", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTU4MjMwMzUyNl5BMl5BanBnXkFtZTgwODY5ODU3MTE@.jpg"
-_ratio: "1.37 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTU4MjMwMzUyNl5BMl5BanBnXkFtZTgwODY5ODU3MTE@._V1._SX89_SY140_.jpg"
+desc: "O Homem do Planeta X. The Man from Planet X (USA, 1951). Dirigido por Edgar G. Ulmer. Escrito por Aubrey Wisberg, Jack Pollexfen. Com Robert Clarke, Margaret Field, Raymond Bond, William Schallert, Roy Engel, David Ormont, Gilbert Fallman, Tom Daly, June Jeffery."
 ---
 Esse é um trash dos anos 50 no sentido mais típico da palavra. Tentando criar uma atmosfera de tensão ao incluir um alienígena cujas intenções não são conhecidas em torno de homens com objetivos bem distintos entre eles  um repórter, um cientista e um ganancioso  O Homem do Planeta X se esquece de incluir também explicações mais verossímeis para sua história, mesmo se tratando de uma época onde a ingenuidade reinava no Cinema.
 

@@ -1,24 +1,11 @@
 ---
+tags: ['netflix', 'blackmirror', 'series']
+imdb: "5497778"
 date: "2016-10-23"
 categories: "blog"
 title: "Black Mirror - Terceira Temporada, Episódio 1: Nosedive"
-imdb: "5497778"
 stars: "5/5"
-tags: ['netflix', 'blackmirror', 'series']
-_title: "Nosedive"
-_year: "2016"
-_director: ["Joe Wright", ]
-_writer: ["Charlie Brooker", "Rashida Jones", "Rashida Jones", "Michael Schur", "Michael Schur", ]
-_cast: ["Bryce Dallas Howard (Lacie)", "Alice Eve (Naomie)", "Nambitha Ben-Wazi (Glam Woman)", "Michaela Coel (Airport Stewardess)", "Jeffrey Davenport (Cab Driver)", "Sope Dirisu (Man in Jail)", "Clayton Evertson (Ted)", "Demetri Goritsas (Lacie's Reputelligent Agent)", "Daisy Haggard (Bets)", ]
-_editor: ["Valerio Bonelli", ]
-_cinematographer: ["Seamus McGarvey", ]
-_music: ["Max Richter", ]
-_artdirection: ["Daniel May", ]
-_costume designer: ["Sinéad O'Sullivan", ]
-_genres: ["Drama", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNzI2NDA3MTA4OF5BMl5BanBnXkFtZTgwMjA5MzkzMDI@.jpg"
-_kind: "episode"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNzI2NDA3MTA4OF5BMl5BanBnXkFtZTgwMjA5MzkzMDI@._V1._SX100_SY67_.jpg"
+desc: "Black Mirror - Terceira Temporada, Episódio 1: Nosedive. Dirigido por Joe Wright. Escrito por Charlie Brooker, Rashida Jones, Rashida Jones, Michael Schur, Michael Schur. Com Bryce Dallas Howard (Lacie), Alice Eve (Naomie), Nambitha Ben-Wazi (Glam Woman), Michaela Coel (Airport Stewardess), Jeffrey Davenport (Cab Driver), Sope Dirisu (Man in Jail), Clayton Evertson (Ted), Demetri Goritsas (Lacie's Reputelligent Agent), Daisy Haggard (Bets)."
 ---
 É muito bom ter o Black Mirror de volta na Netflix, com episódios novos. Nenhum me desapontou até agora, tanto pelos aspectos técnicos, narrativos, mas, principalmente: em fazer pensar. E esse nos faz pensar apesar da ideia óbvia: redes sociais. Todas juntas, na vida "real", fazendo as pessoas se esforçarem por aumentar suas notas, sua popularidade. Tudo depende disso. E no caso, o tudo é uma vida cercada de mentiras. Como não amar uma série como essas?
 

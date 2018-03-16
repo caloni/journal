@@ -1,25 +1,10 @@
 ---
-date: "2010-10-21"
 imdb: "0980970"
+date: "2010-10-21"
+categories: "movies"
 title: "As Crônicas de Nárnia A Viagem do Peregrino da Alvorada"
 stars: "3/5"
-categories: "movies"
-_title: "The Chronicles of Narnia: The Voyage of the Dawn Treader"
-_year: "2010"
-_director: ["Michael Apted", ]
-_writer: ["Christopher Markus", "Stephen McFeely", "Michael Petroni", "C.S. Lewis", ]
-_cast: ["Georgie Henley", "Skandar Keynes", "Ben Barnes", "Will Poulter", "Gary Sweet", "Terry Norris", "Bruce Spence", "Bille Brown", "Laura Brent", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Rick Shaine", ]
-_cinematographer: ["Dante Spinotti", ]
-_music: ["David Arnold", ]
-_genres: ["Adventure", ]
-_runtimes: ["113", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNjQ2MDQzMzExNl5BMl5BanBnXkFtZTcwMTYzOTc5Mw@@.jpg"
-_ratio: "1.78 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNjQ2MDQzMzExNl5BMl5BanBnXkFtZTcwMTYzOTc5Mw@@._V1._SX94_SY140_.jpg"
+desc: "As Crônicas de Nárnia A Viagem do Peregrino da Alvorada. The Chronicles of Narnia: The Voyage of the Dawn Treader (USA, 2010). Dirigido por Michael Apted. Escrito por Christopher Markus, Stephen McFeely, Michael Petroni, C.S. Lewis. Com Georgie Henley, Skandar Keynes, Ben Barnes, Will Poulter, Gary Sweet, Terry Norris, Bruce Spence, Bille Brown, Laura Brent."
 ---
 Lembro de ter visto a primeira Crônica de Nárnia: O Leão, a Feiticeira e o Guarda-Roupa. Alguma coisa me dizia para não confiar muito em títulos muito longos, e... dito e feito. Não gostei da frágil história em uma narrativa que supõe-se introduzir personagens importante para as próximas tramas, mas que simplesmente joga seus elementos iniciais em um tabuleiro de xadrez e trata apenas de arrastar preguiçosamente essas peças nada originais, tiradas do fundo do baú da crença cristã com cobertura de mitologia grega.
 

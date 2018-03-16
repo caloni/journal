@@ -1,25 +1,10 @@
 ---
-date: "2012-01-11"
 imdb: "0119711"
+date: "2012-01-11"
+categories: "movies"
 title: "Mãe e Filho"
 stars: "4/5"
-categories: "movies"
-_title: "Mat i syn"
-_year: "1997"
-_director: ["Aleksandr Sokurov", ]
-_writer: ["Yuriy Arabov", ]
-_cast: ["Aleksei Ananishnov", "Gudrun Geyer", ]
-_countries: ["Russia", ]
-_languages: ["Russian", ]
-_editor: ["Leda Semyonova", ]
-_cinematographer: ["Aleksey Fyodorov", ]
-_music: ["Mikhail Ivanovich", ]
-_genres: ["Drama", ]
-_runtimes: ["73", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQwNTk4Nzk1MV5BMl5BanBnXkFtZTcwOTc0MDAyMQ@@.jpg"
-_ratio: "1.66 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQwNTk4Nzk1MV5BMl5BanBnXkFtZTcwOTc0MDAyMQ@@._V1._SX99_SY140_.jpg"
+desc: "Mãe e Filho. Mat i syn (Russia, 1997). Dirigido por Aleksandr Sokurov. Escrito por Yuriy Arabov. Com Aleksei Ananishnov, Gudrun Geyer."
 ---
 Para aqueles que possuem prazer estético pelo Cinema e possuem paciência para narrativas não-convencionais como o recente e polêmico A Árvore da Vida, vale a pena uma olhada nesse Mãe e Filho, do diretor Aleksandr Sokurov, o mesmo do igualmente "arrastado" (mas belíssimo) Arca Russa.
 

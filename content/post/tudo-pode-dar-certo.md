@@ -1,24 +1,10 @@
 ---
-date: "2010-04-30"
 imdb: "1178663"
+date: "2010-04-30"
+categories: "movies"
 title: "Tudo Pode Dar Certo"
 stars: "4/5"
-categories: "movies"
-_title: "Whatever Works"
-_year: "2009"
-_director: ["Woody Allen", ]
-_writer: ["Woody Allen", ]
-_cast: ["Larry David", "Adam Brooks", "Lyle Kanouse", "Michael McKean", "Clifford Lee Dickson", "Yolonda Ross", "Carolyn McCormick", "Samantha Bee", "Conleth Hill", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Alisa Lepselter", ]
-_cinematographer: ["Harris Savides", ]
-_genres: ["Comedy", ]
-_runtimes: ["USA:92::(Tribeca Film Festival)", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTU2NTA4NzgyNl5BMl5BanBnXkFtZTcwNzEzMjQ1Mg@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTU2NTA4NzgyNl5BMl5BanBnXkFtZTcwNzEzMjQ1Mg@@._V1._SX95_SY140_.jpg"
+desc: "Tudo Pode Dar Certo. Whatever Works (USA, 2009). Dirigido por Woody Allen. Escrito por Woody Allen. Com Larry David, Adam Brooks, Lyle Kanouse, Michael McKean, Clifford Lee Dickson, Yolonda Ross, Carolyn McCormick, Samantha Bee, Conleth Hill."
 ---
 A imprevisibilidade e a forma como tudo o que acontece em torno da história é a síntese do próprio filme, onde o caos (e o nosso conhecimento sobre) bate de frente com nossas crenças. Obviamente, por se tratar de um filme de Woody Allen, tudo isso será devidamente criticado através do seu protagonista com crises existenciais pós-divórcio. Uma prova de que ele é o sócia do diretor é que, apesar de refinado intelectualmente, o protagonista sente os mesmos sentimentos humanos, mas os expressa de maneira mais sutil, o que ao mesmo tempo torna-os mais evidentes ao espectador.
 

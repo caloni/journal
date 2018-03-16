@@ -1,25 +1,11 @@
 ---
+tags: ['cabine']
+imdb: "3612984"
 date: "2016-09-29"
 categories: "movies"
 title: "Romance à Francesa"
-imdb: "3612984"
 stars: "4/5"
-tags: ['cabine']
-_title: "Caprice"
-_year: "2015"
-_director: ["Emmanuel Mouret", ]
-_writer: ["Emmanuel Mouret", ]
-_cast: ["Virginie Efira (Alicia Bardery)", "Anaïs Demoustier (Caprice)", "Laurent Stocker (Thomas)", "Emmanuel Mouret (Clément Dussaut)", "Thomas Blanchard (Jean)", "Mathilde Warnier (Virginie)", "Olivier Cruveiller (Maurice)", "Botum Dupuis (Christie)", "Néo Rouleau (Jacky)", ]
-_countries: ["France", ]
-_languages: ["French", ]
-_editor: ["Martial Salomon", ]
-_costume designer: ["Charlotte Vaysse", ]
-_genres: ["Comedy", ]
-_runtimes: ["100", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTA0NjAxNzU2NDBeQTJeQWpwZ15BbWU4MDI2NjI0Nzcx.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTA0NjAxNzU2NDBeQTJeQWpwZ15BbWU4MDI2NjI0Nzcx._V1._SX100_SY133_.jpg"
+desc: "Romance à Francesa. Caprice (France, 2015). Dirigido por Emmanuel Mouret. Escrito por Emmanuel Mouret. Com Virginie Efira (Alicia Bardery), Anaïs Demoustier (Caprice), Laurent Stocker (Thomas), Emmanuel Mouret (Clément Dussaut), Thomas Blanchard (Jean), Mathilde Warnier (Virginie), Olivier Cruveiller (Maurice), Botum Dupuis (Christie), Néo Rouleau (Jacky)."
 ---
 Este poderia ser um trabalho de Woody Allen, se Woody Allen conseguisse ficar mais de uma hora e meia sem falar de pessimismo e conseguisse apenas focar no romantismo. É um filme que resume nossa geração moderna, seus casamentos falidos e suas novas tentativas de amar e ser feliz.
 

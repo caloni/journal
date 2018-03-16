@@ -1,25 +1,10 @@
 ---
-date: "2014-12-10"
 imdb: "2096672"
+date: "2014-12-10"
+categories: "movies"
 title: "Debi e Lóide 2"
 stars: "3/5"
-categories: "movies"
-_title: "Dumb and Dumber To"
-_year: "2014"
-_director: ["Bobby Farrelly", "Peter Farrelly", ]
-_writer: ["Sean Anders", "John Morris", "Peter Farrelly", "Bobby Farrelly", "Bennett Yellin", "Mike Cerrone", "Bennett Yellin", "Peter Farrelly", "Bobby Farrelly", ]
-_cast: ["Jim Carrey", "Jeff Daniels", "Rob Riggle", "Laurie Holden", "Rachel Melvin", "Steve Tom", "Don Lake", "Patricia French", "Kathleen Turner", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Steven Rasch", ]
-_cinematographer: ["Matthew F. Leonetti", ]
-_music: ["Empire of the Sun", ]
-_genres: ["Comedy", ]
-_runtimes: ["109", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTYxMzA0MzAyMF5BMl5BanBnXkFtZTgwMjMyNjcwMjE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTYxMzA0MzAyMF5BMl5BanBnXkFtZTgwMjMyNjcwMjE@._V1._SX88_SY140_.jpg"
+desc: "Debi e Lóide 2. Dumb and Dumber To (USA, 2014). Dirigido por Bobby Farrelly, Peter Farrelly. Escrito por Sean Anders, John Morris, Peter Farrelly, Bobby Farrelly, Bennett Yellin, Mike Cerrone, Bennett Yellin, Peter Farrelly, Bobby Farrelly. Com Jim Carrey, Jeff Daniels, Rob Riggle, Laurie Holden, Rachel Melvin, Steve Tom, Don Lake, Patricia French, Kathleen Turner."
 ---
 Jim Carrey e Jeff Daniels finalmente conseguiram realizar o remake do seu clássico de comédia e os irmãos Farrely estão dirigindo -- do original de 1994 e de "Quem Vai Ficar com Mary?", Passe Livre, "Eu, Eu Mesmo e Irene" e tantos outros.
 

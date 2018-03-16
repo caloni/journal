@@ -1,9 +1,10 @@
 ---
-date: 2018-02-27T20:02:12-03:00
-title: "Twin Peaks (2017): Primeira Temporada, Episódios 1 e 2"
-categories: "blog"
+date: 2018-02-27T23:02:12
 imdb: "4093826"
+categories: "blog"
 stars: "4/5"
+title: "Twin Peaks (2017): Primeira Temporada, Episódios 1 e 2"
+desc: "Twin Peaks (2017): Primeira Temporada, Episódios 1 e 2."
 ---
 Você que conhece o diretor David Lynch sabe que ele não é muito afeito a narrativas ortodoxas e pensamentos não-oníricos. Então faz muito sentido você, que não assistiu à primeira versão de Twin Peaks, se tornar completamente perdido ao acompanhar esta pseudo-continuação do diretor em uma versão mais moderna, mas ainda assim, hermética.
 

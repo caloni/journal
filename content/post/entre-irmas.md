@@ -1,24 +1,11 @@
 ---
-imdb: "7308092"
-stars: "2/5"
 tags: ['cabine']
+imdb: "7308092"
 date: 2017-10-02T21:55:47
-title: "Entre Irmãs"
 categories: "movies"
-_title: "Entre Irmãs"
-_year: "2017"
-_director: ["Breno Silveira", ]
-_writer: ["Patrícia Andrade", "Frances Peebles de Pontes", ]
-_cast: ["Ângelo Antônio (Dr. Eronildes)", "Rita Assemany (Dona Dulce)", "Cyria Coentro (Tia Sofia)", "Letícia Colin (Lindalva)", "Nanda Costa (Luzia)", "Marjorie Estiano (Emília)", "Rômulo Estrela (Degas)", "Claudio Jaborandy (Dr. Duarte)", "Fábio Lago (Orelha)", ]
-_countries: ["Brazil", ]
-_languages: ["Portuguese", ]
-_cinematographer: ["Leo Resende Ferreira", ]
-_music: ["Gabriel Ferreira", ]
-_genres: ["Drama", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNzlkOGU0N2UtYmY3Yy00MzhhLTg3NGItYTZiOTJlMjU3Y2M3XkEyXkFqcGdeQXVyMTg1MzU1NDU@.jpg"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNzlkOGU0N2UtYmY3Yy00MzhhLTg3NGItYTZiOTJlMjU3Y2M3XkEyXkFqcGdeQXVyMTg1MzU1NDU@._V1._SX96_SY140_.jpg"
-_releasedate: "12 October 2017"
+title: "Entre Irmãs"
+stars: "2/5"
+desc: "Entre Irmãs. Entre Irmãs (Brazil, 2017). Dirigido por Breno Silveira. Escrito por Patrícia Andrade, Frances Peebles de Pontes. Com Ângelo Antônio (Dr. Eronildes), Rita Assemany (Dona Dulce), Cyria Coentro (Tia Sofia), Letícia Colin (Lindalva), Nanda Costa (Luzia), Marjorie Estiano (Emília), Rômulo Estrela (Degas), Claudio Jaborandy (Dr. Duarte), Fábio Lago (Orelha)."
 ---
 Breno Silveira (2 Filhos de Francisco) parece ter descido mais um degrau qualitativo com esse Entre Irmãs, cujo título já diz a que veio: tentar ser mais um filho sobre relacionamentos familiares conturbados. Porém, diferente de "2 Filhos", esta história não é boa. É clichê, previsível e arrastada. Apesar de tecnicamente impecável, com boas fotografias do Sertão (não tanto da insossa Fortaleza) e uma direção de arte que parece fazer muito com pouco (dinheiro), o roteiro é novelístico, ou teatral, com ímpetos grandiosos que não fazem jus à história que está sendo contada.
 

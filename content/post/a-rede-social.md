@@ -1,25 +1,10 @@
 ---
-date: "2010-12-03"
 imdb: "1285016"
+date: "2010-12-03"
+categories: "movies"
 title: "A Rede Social"
 stars: "4/5"
-categories: "movies"
-_title: "The Social Network"
-_year: "2010"
-_director: ["David Fincher", ]
-_writer: ["Aaron Sorkin", "Ben Mezrich", ]
-_cast: ["Jesse Eisenberg", "Rooney Mara", "Bryan Barter", "Dustin Fitzsimons", "Joseph Mazzello", "Patrick Mapel", "Andrew Garfield", "Toby Meuli", "Alecia Svensen", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Kirk Baxter", "Angus Wall", ]
-_cinematographer: ["Jeff Cronenweth", ]
-_music: ["Trent Reznor", "Atticus Ross", ]
-_genres: ["Biography", ]
-_runtimes: ["120", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTM2ODk0NDAwMF5BMl5BanBnXkFtZTcwNTM1MDc2Mw@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTM2ODk0NDAwMF5BMl5BanBnXkFtZTcwNTM1MDc2Mw@@._V1._SX89_SY140_.jpg"
+desc: "A Rede Social. The Social Network (USA, 2010). Dirigido por David Fincher. Escrito por Aaron Sorkin, Ben Mezrich. Com Jesse Eisenberg, Rooney Mara, Bryan Barter, Dustin Fitzsimons, Joseph Mazzello, Patrick Mapel, Andrew Garfield, Toby Meuli, Alecia Svensen."
 ---
 O objetivo de Fincher, assim como em Clube da Luta, é destrinchar situações e pensamentos da sociedade moderna. Dessa vez, ele usou uma história real e contemporânea para falar sobre a digitalização de nossas amizades, e nada como usar como exemplo a história do próprio criados da maior rede social de todos os tempos: o Facebook, atualmente com mais de 500 milhões de participantes.
 

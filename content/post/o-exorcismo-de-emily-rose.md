@@ -1,25 +1,10 @@
 ---
-date: "2014-03-08"
 imdb: "0404032"
+date: "2014-03-08"
+categories: "movies"
 title: "O Exorcismo de Emily Rose"
 stars: "4/5"
-categories: "movies"
-_title: "The Exorcism of Emily Rose"
-_year: "2005"
-_director: ["Scott Derrickson", ]
-_writer: ["Paul Harris Boardman", "Scott Derrickson", ]
-_cast: ["Laura Linney", "Tom Wilkinson", "Campbell Scott", "Jennifer Carpenter", "Colm Feore", "Joshua Close", "Kenneth Welsh", "Duncan Fraser", "JR Bourne", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Jeff Betancourt", ]
-_cinematographer: ["Tom Stern", ]
-_music: ["Christopher Young", ]
-_genres: ["Crime", ]
-_runtimes: ["119", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTI2NTM5MjQ0Nl5BMl5BanBnXkFtZTcwNDAxNjAzMQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTI2NTM5MjQ0Nl5BMl5BanBnXkFtZTcwNDAxNjAzMQ@@._V1._SX94_SY140_.jpg"
+desc: "O Exorcismo de Emily Rose. The Exorcism of Emily Rose (USA, 2005). Dirigido por Scott Derrickson. Escrito por Paul Harris Boardman, Scott Derrickson. Com Laura Linney, Tom Wilkinson, Campbell Scott, Jennifer Carpenter, Colm Feore, Joshua Close, Kenneth Welsh, Duncan Fraser, JR Bourne."
 ---
 Se O Exorcista (William Friedkin, 1973) tivesse sido produzido nessa década perderia praticamente metade do seu brilho sobrenatural. Um filme faz muito mais sentido em sua época (o que não quer dizer que não possa ser apreciado pelas futuras gerações)  e lá no passado as crenças e religiões ainda eram um ponto alto, sobretudo a cristã. Os últimos escândalos da igreja católica com certeza ajudaram a minar toda essa fé que leva ao medo, ao sacrifício e à dor. E o medo, desnecessário dizer, é o que move o terror.
 

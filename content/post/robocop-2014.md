@@ -1,25 +1,10 @@
 ---
-date: "2014-02-24"
 imdb: "1234721"
+date: "2014-02-24"
+categories: "movies"
 title: "RoboCop"
 stars: "4/5"
-categories: "movies"
-_title: "RoboCop"
-_year: "2014"
-_director: ["José Padilha", ]
-_writer: ["Joshua Zetumer", "Edward Neumeier", "Michael Miner", "Edward Neumeier", "Michael Miner", ]
-_cast: ["Joel Kinnaman", "Gary Oldman", "Michael Keaton", "Abbie Cornish", "Jackie Earle Haley", "Michael Kenneth Williams", "Jennifer Ehle", "Jay Baruchel", "Marianne Jean-Baptiste", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Peter McNulty", "Daniel Rezende", ]
-_cinematographer: ["Lula Carvalho", ]
-_music: ["Pedro Bromfman", ]
-_genres: ["Action", ]
-_runtimes: ["117", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjAyOTUzMTcxN15BMl5BanBnXkFtZTgwMjkyOTc1MDE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjAyOTUzMTcxN15BMl5BanBnXkFtZTgwMjkyOTc1MDE@._V1._SX94_SY140_.jpg"
+desc: "RoboCop. RoboCop (USA, 2014). Dirigido por José Padilha. Escrito por Joshua Zetumer, Edward Neumeier, Michael Miner, Edward Neumeier, Michael Miner. Com Joel Kinnaman, Gary Oldman, Michael Keaton, Abbie Cornish, Jackie Earle Haley, Michael Kenneth Williams, Jennifer Ehle, Jay Baruchel, Marianne Jean-Baptiste."
 ---
 O novo Robocop reverencia em muito o antigo (talvez até demais), tanto em seu ótimo tema musical quanto com sua alma: criticar como a justiça muitas vezes é aplicada. Nesse sentido, ninguém melhor que José Padilha (Tropa de Elite, Tropa de Elite 2) para discorrer sobre esse tema. Criando no novo policial Alex Murphy (Joel Kinnaman) alguns bons momentos em que evoca o pragmatismo sádico de personagens como o polêmico Capitão Nascimento  um momento onde RoboCop invade a delegacia  o longa evita não seguir o mesmo raciocínio de seu predecessor, mas não a sua história em linhas gerais, que permanece quase que completamente fiel.
 

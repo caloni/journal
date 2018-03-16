@@ -1,28 +1,11 @@
 ---
-date: "2016-04-07"
-tags: [ "cabine" ]
+tags: ['cabine']
 imdb: "3014866"
-stars: "4/5"
+date: "2016-04-07"
 categories: "movies"
 title: "Mente Criminosa"
-_title: "Criminal"
-_year: "2016"
-_director: ["Ariel Vromen", ]
-_writer: ["Douglas Cook", "David Weisberg", ]
-_cast: ["Gal Gadot", "Ryan Reynolds", "Alice Eve", "Kevin Costner", "Antje Traue", "Gary Oldman", "Tommy Lee Jones", "Scott Adkins", "Michael Pitt", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Danny Rafic", ]
-_cinematographer: ["Dana Gonzales", ]
-_music: ["Keith Power", "Brian Tyler", ]
-_artdirection: ["Grant Armstrong", ]
-_costume designer: ["Jill Taylor", ]
-_genres: ["Action", ]
-_runtimes: ["USA:113", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTg0ODc4Mzk2OF5BMl5BanBnXkFtZTgwNDk2MDkyODE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTg0ODc4Mzk2OF5BMl5BanBnXkFtZTgwNDk2MDkyODE@._V1._SX95_SY140_.jpg"
+stars: "4/5"
+desc: "Mente Criminosa. Criminal (UK, 2016). Dirigido por Ariel Vromen. Escrito por Douglas Cook, David Weisberg. Com Gal Gadot, Ryan Reynolds, Alice Eve, Kevin Costner, Antje Traue, Gary Oldman, Tommy Lee Jones, Scott Adkins, Michael Pitt."
 ---
 Esse é um filme de ação com ideias, o que é uma excelente notícia. Acostumado a explosões descerebradas, o gênero já foi muito judiado. Esse trabalho ambiciona usar sua premissa de ficção-científica para discutir política e filosofia, levantando questões interessantíssimas, como personalidade, a essência do indivíduo, e, de quebra, a natureza e a função inerentemente violenta do estado.
 

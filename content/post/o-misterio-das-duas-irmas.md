@@ -1,25 +1,10 @@
 ---
-date: "2014-05-01"
 imdb: "0815245"
+date: "2014-05-01"
+categories: "movies"
 title: "O Mistério das Duas Irmãs"
 stars: "3/5"
-categories: "movies"
-_title: "The Uninvited"
-_year: "2009"
-_director: ["Charles Guard", "Thomas Guard", ]
-_writer: ["Craig Rosenberg", "Doug Miro", "Carlo Bernard", "Jee-Woon Kim", ]
-_cast: ["Emily Browning", "Arielle Kebbel", "David Strathairn", "Elizabeth Banks", "Maya Massar", "Kevin McNulty", "Jesse Moss", "Dean Paul Gibson", "Don S. Davis", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Jim Page", "Christian Wagner", ]
-_cinematographer: ["Daniel Landin", ]
-_music: ["Christopher Young", ]
-_genres: ["Drama", ]
-_runtimes: ["87", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BOTY0OTc3OTkyNV5BMl5BanBnXkFtZTcwMTg4Nzc5MQ@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BOTY0OTc3OTkyNV5BMl5BanBnXkFtZTcwMTg4Nzc5MQ@@._V1._SX95_SY140_.jpg"
+desc: "O Mistério das Duas Irmãs. The Uninvited (USA, 2009). Dirigido por Charles Guard, Thomas Guard. Escrito por Craig Rosenberg, Doug Miro, Carlo Bernard, Jee-Woon Kim. Com Emily Browning, Arielle Kebbel, David Strathairn, Elizabeth Banks, Maya Massar, Kevin McNulty, Jesse Moss, Dean Paul Gibson, Don S. Davis."
 ---
 "Um filme vendido como terror, mas que não consegue sequer chegar próximo de um suspense. Depois de passarmos quase duas horas acompanhando a movimentação de uma câmera que parece estar sempre revelando algo espantoso ou fantástico (não está), temos uma série de revelações completamente atrapalhadas sobre algo que não estávamos sequer procurando desvendar."
 

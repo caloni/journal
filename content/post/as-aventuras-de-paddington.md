@@ -1,26 +1,11 @@
 ---
-date: "2014-12-10"
 imdb: "1109624"
+date: "2014-12-10"
+categories: "movies"
 title: "As Aventuras de Paddington"
 stars: "4/5"
-categories: "movies"
-revision: [ 2016-03-25 ]
-_title: "Paddington"
-_year: "2014"
-_director: ["Paul King", ]
-_writer: ["Paul King", "Hamish McColl", "Paul King", "Michael Bond", ]
-_cast: ["Tim Downie", "Madeleine Worrall", "Lottie Steer", "Geoffrey Palmer", "Theresa Watson", "Imelda Staunton", "Michael Gambon", "Ben Whishaw", "Hugh Bonneville", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Mark Everson", ]
-_cinematographer: ["Erik Wilson", ]
-_music: ["Nick Urata", ]
-_genres: ["Comedy", ]
-_runtimes: ["95", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTAxOTMwOTkwNDZeQTJeQWpwZ15BbWU4MDEyMTI1NjMx.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTAxOTMwOTkwNDZeQTJeQWpwZ15BbWU4MDEyMTI1NjMx._V1._SX95_SY140_.jpg"
+revision: [datetime.date(2016, 3, 25)]
+desc: "As Aventuras de Paddington. Paddington (UK, 2014). Dirigido por Paul King. Escrito por Paul King, Hamish McColl, Paul King, Michael Bond. Com Tim Downie, Madeleine Worrall, Lottie Steer, Geoffrey Palmer, Theresa Watson, Imelda Staunton, Michael Gambon, Ben Whishaw, Hugh Bonneville."
 ---
 É uma espécie de Pequeno Stuart Little britânico para ursos. A consequência de ser um filme mais recente são os efeitos que tornam um pequeno urso falante algo natural em praticamente todas as cenas que ele aparece com humanos.
 

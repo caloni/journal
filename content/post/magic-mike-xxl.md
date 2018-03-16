@@ -1,24 +1,10 @@
 ---
-date: "2015-08-06"
 imdb: "2268016"
-stars: "3/5"
+date: "2015-08-06"
 categories: "movies"
 title: "Magic Mike XXL"
-_title: "Magic Mike XXL"
-_year: "2015"
-_director: ["Gregory Jacobs", ]
-_writer: ["Reid Carolin", "Reid Carolin", ]
-_cast: ["Channing Tatum", "Juan Piedrahita", "Sharon Blackwood", "Alison Faulk", "Josh Diogo", "Joe Manganiello", "Kevin Nash", "Gabriel Iglesias", "Matt Bomer", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Steven Soderbergh", ]
-_cinematographer: ["Steven Soderbergh", ]
-_genres: ["Comedy", ]
-_runtimes: ["115", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNDMyODU3ODk3Ml5BMl5BanBnXkFtZTgwNDc1ODkwNjE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNDMyODU3ODk3Ml5BMl5BanBnXkFtZTgwNDc1ODkwNjE@._V1._SX94_SY140_.jpg"
+stars: "3/5"
+desc: "Magic Mike XXL. Magic Mike XXL (USA, 2015). Dirigido por Gregory Jacobs. Escrito por Reid Carolin, Reid Carolin. Com Channing Tatum, Juan Piedrahita, Sharon Blackwood, Alison Faulk, Josh Diogo, Joe Manganiello, Kevin Nash, Gabriel Iglesias, Matt Bomer."
 ---
 Continuação que pretende sempre fazer uma cena de reencontro com todo mundo do filme original que reaparece. Abraços, beijos e nada a acrescentar (nem um "ei, você engordou!").
 

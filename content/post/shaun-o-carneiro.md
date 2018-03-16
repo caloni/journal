@@ -1,25 +1,11 @@
 ---
-date: "2015-06-01"
 imdb: "2872750"
-stars: "4/5"
+date: "2015-06-01"
 categories: "movies"
 title: "Shaun: O Carneiro"
-revision: [2017-12-21]
-_title: "Shaun the Sheep Movie"
-_year: "2015"
-_director: ["Mark Burton", "Richard Starzak", ]
-_writer: ["Mark Burton", "Richard Starzak", ]
-_cast: ["Justin Fletcher", "John Sparkes", "Omid Djalili", "Richard Webber", "Kate Harbour", "Tim Hands", "Andy Nyman", "Simon Greenall", "Emma Tate", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Sim Evan-Jones", ]
-_cinematographer: ["Charles Copping", "Dave Alex Riddett", ]
-_music: ["Ilan Eshkeri", ]
-_genres: ["Animation", ]
-_runtimes: ["85", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQ2OTUwOTY5Nl5BMl5BanBnXkFtZTgwMjAxOTE4NTE@.jpg"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQ2OTUwOTY5Nl5BMl5BanBnXkFtZTgwMjAxOTE4NTE@._V1._SX94_SY140_.jpg"
+stars: "4/5"
+revision: [datetime.date(2017, 12, 21)]
+desc: "Shaun: O Carneiro. Shaun the Sheep Movie (UK, 2015). Dirigido por Mark Burton, Richard Starzak. Escrito por Mark Burton, Richard Starzak. Com Justin Fletcher, John Sparkes, Omid Djalili, Richard Webber, Kate Harbour, Tim Hands, Andy Nyman, Simon Greenall, Emma Tate."
 ---
 Apesar de eficiente por oito anos em pequenos episódios de sete minutos, a série dos estúdios Aardman nunca se aventurou em um longa-metragem sobre um carneiro muito esperto, um cachorro e fazendeiro que lembram versões agrícolas de Wallace e Gromit, e um bando de ovelhas que esbanjam charme e bom humor. O resultado não é apenas um longo episódio como a série televisiva, mas um filme que se aproveita de homenagens e referências muitas antigas sobre o Cinema e o próprio universo sempre criativo desses personagens, onde o fato de serem miniaturas manipuladas em stop motion nunca é um empecilho para criar as mais hilárias sequências.
 

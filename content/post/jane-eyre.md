@@ -1,28 +1,11 @@
 ---
+tags: ['netflix']
+imdb: "1229822"
 date: "2017-01-15"
 categories: "movies"
 title: "Jane Eyre"
-imdb: "1229822"
 stars: "5/5"
-tags: ['netflix']
-_title: "Jane Eyre"
-_year: "2011"
-_director: ["Cary Joji Fukunaga", ]
-_writer: ["Charlotte Brontë", "Moira Buffini", ]
-_cast: ["Mia Wasikowska (Jane Eyre)", "Jamie Bell (St John Rivers)", "Su Elliot (Hannah)", "Holliday Grainger (Diana Rivers)", "Tamzin Merchant (Mary Rivers)", "Amelia Clarkson (Young Jane)", "Craig Roberts (John Reed)", "Sally Hawkins (Mrs. Reed)", "Lizzie Hopley (Miss Abbot)", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Melanie Oliver", ]
-_cinematographer: ["Adriano Goldman", ]
-_music: ["Dario Marianelli", ]
-_artdirection: ["Karl Probert", ]
-_costume designer: ["Michael O'Connor", ]
-_genres: ["Drama", ]
-_runtimes: ["120", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNjU0Mjc0NzU3NF5BMl5BanBnXkFtZTcwMTU4OTkwNA@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNjU0Mjc0NzU3NF5BMl5BanBnXkFtZTcwMTU4OTkwNA@@._V1._SX94_SY140_.jpg"
+desc: "Jane Eyre. Jane Eyre (UK, 2011). Dirigido por Cary Joji Fukunaga. Escrito por Charlotte Brontë, Moira Buffini. Com Mia Wasikowska (Jane Eyre), Jamie Bell (St John Rivers), Su Elliot (Hannah), Holliday Grainger (Diana Rivers), Tamzin Merchant (Mary Rivers), Amelia Clarkson (Young Jane), Craig Roberts (John Reed), Sally Hawkins (Mrs. Reed), Lizzie Hopley (Miss Abbot)."
 ---
 Enquanto Jane Austen (Orgulho e Preconceito) escrevia sobre a sociedade britânica com uma vivacidade e energia encantadoras, Charlotte Brontë parece ir no exato oposto com Jane Eyre, um romance extremamente pesado, que encontra nos drama do destino um fiapo de misticismo assombrando uma Inglaterra que parece estar à beira do seu declínio.
 

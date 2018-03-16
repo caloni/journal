@@ -1,25 +1,11 @@
 ---
+tags: ['netflix']
+imdb: "2204371"
 date: "2016-12-04"
 categories: "movies"
 title: "Somm"
-imdb: "2204371"
 stars: "3/5"
-tags: ['netflix']
-_title: "Somm"
-_year: "2012"
-_director: ["Jason Wise", ]
-_writer: ["Jason Wise", ]
-_cast: ["Bo Barrett (Himself)", "Shayn Bjornholm (Himself)", "Dave Cauble (Himself)", "Ian Cauble (Himself)", "Andrea Cecci (Himself)", "Fred Dame (Himself)", "Elizabeth Dowty (Herself)", "Whitney Fisher (Herself)", "Jay Fletcher (Himself)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Bryan Carr", "Jackson Myers", "Jason Wise", ]
-_cinematographer: ["Jackson Myers", ]
-_music: ["Brian Carmody", ]
-_genres: ["Documentary", ]
-_runtimes: ["94", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU0NDQ4MTY1OF5BMl5BanBnXkFtZTcwMTMzMTgwOA@@.jpg"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU0NDQ4MTY1OF5BMl5BanBnXkFtZTcwMTMzMTgwOA@@._V1._SX94_SY140_.jpg"
+desc: "Somm. Somm (USA, 2012). Dirigido por Jason Wise. Escrito por Jason Wise. Com Bo Barrett (Himself), Shayn Bjornholm (Himself), Dave Cauble (Himself), Ian Cauble (Himself), Andrea Cecci (Himself), Fred Dame (Himself), Elizabeth Dowty (Herself), Whitney Fisher (Herself), Jay Fletcher (Himself)."
 ---
 Somm é um documentário no sentido mais didático da palavra, mas que consegue através de sua narrativa quase sempre fluida entregar um pouco de tensão nos preparativos de um trio de degustadores de vinhos que se preparam há anos para tirar o certificado mais cobiçado e exclusivo do planeta. E, de quebra, você irá aprender uma coisa ou outra interessante sobre o mundo do vinho.
 

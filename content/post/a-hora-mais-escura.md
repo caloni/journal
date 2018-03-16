@@ -1,25 +1,10 @@
 ---
-date: "2013-02-21"
 imdb: "1790885"
+date: "2013-02-21"
+categories: "movies"
 title: "A Hora Mais Escura"
 stars: "4/5"
-categories: "movies"
-_title: "Zero Dark Thirty"
-_year: "2012"
-_director: ["Kathryn Bigelow", ]
-_writer: ["Mark Boal", ]
-_cast: ["Jason Clarke", "Reda Kateb", "Jessica Chastain", "Kyle Chandler", "Jennifer Ehle", "Harold Perrineau", "Jeremy Strong", "J.J. Kandel", "Wahab Sheikh", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["William Goldenberg", "Dylan Tichenor", ]
-_cinematographer: ["Greig Fraser", ]
-_music: ["Alexandre Desplat", ]
-_genres: ["Drama", ]
-_runtimes: ["157", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQ4OTUyNzcwN15BMl5BanBnXkFtZTcwMTQ1NDE3OA@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQ4OTUyNzcwN15BMl5BanBnXkFtZTcwMTQ1NDE3OA@@._V1._SX94_SY140_.jpg"
+desc: "A Hora Mais Escura. Zero Dark Thirty (USA, 2012). Dirigido por Kathryn Bigelow. Escrito por Mark Boal. Com Jason Clarke, Reda Kateb, Jessica Chastain, Kyle Chandler, Jennifer Ehle, Harold Perrineau, Jeremy Strong, J.J. Kandel, Wahab Sheikh."
 ---
 Por tratar de eventos que ocorreram na vida real durante a caçada a Bin Laden, A Hora Mais Escura apresenta seus fatos de uma forma semidocumental e corre o risco de ser mal visto ao tratar a tortura um meio justificável e o assassinato de seres humanos um evento impessoal. No primeiro caso (tortura) podemos dizer que as pessoas deste século tendem a encarar o evento com mais compaixão (até pelo histórico de parentes e conhecidos que vivenciaram isso de perto). Já no segundo caso (assassinato), por envolver a morte do terrorista mais odiado de todo o mundo civilizado os sentimentos não caminham tão bem pelo estômago das pessoas que viram o horror de perto e ao vivo.
 

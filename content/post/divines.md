@@ -1,27 +1,11 @@
 ---
+tags: ['netflix']
+imdb: "4730986"
 date: "2016-11-27"
 categories: "movies"
 title: "Divines"
-imdb: "4730986"
 stars: "3/5"
-tags: ['netflix']
-_title: "Divines"
-_year: "2016"
-_director: ["Houda Benyamina", ]
-_writer: ["Houda Benyamina", "Romain Compingt", "Malik Rumeau", ]
-_cast: ["Oulaya Amamra (Dounia)", "Déborah Lukumuena (Maimouna)", "Kevin Mischel (Djigui)", "Jisca Kalvanda (Rebecca)", "Yasin Houicha (Samir)", "Majdouline Idrissi (la mère Myriam)", "Bass Dhem (Monsieur Camara)", "Farid Larbi (Reda)", "Maryama Soumare (Madame Camara)", ]
-_countries: ["France", ]
-_languages: ["French", ]
-_editor: ["Loïc Lallemand", "Vincent Tricon", ]
-_cinematographer: ["Julien Poupard", ]
-_music: ["Demusmaker", ]
-_costume designer: ["Alice Cambournac", ]
-_genres: ["Crime", ]
-_runtimes: ["105", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNTUzMTZhYTgtYmY1Ny00ODgwLWI3OTUtMjZkNDIyMGEzMTRlXkEyXkFqcGdeQXVyNDExMDcxNjM@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNTUzMTZhYTgtYmY1Ny00ODgwLWI3OTUtMjZkNDIyMGEzMTRlXkEyXkFqcGdeQXVyNDExMDcxNjM@._V1._SX100_SY136_.jpg"
+desc: "Divines. Divines (France, 2016). Dirigido por Houda Benyamina. Escrito por Houda Benyamina, Romain Compingt, Malik Rumeau. Com Oulaya Amamra (Dounia), Déborah Lukumuena (Maimouna), Kevin Mischel (Djigui), Jisca Kalvanda (Rebecca), Yasin Houicha (Samir), Majdouline Idrissi (la mère Myriam), Bass Dhem (Monsieur Camara), Farid Larbi (Reda), Maryama Soumare (Madame Camara)."
 ---
 Eis mais um drama francês sobre a pobreza dos imigrantes e dos desprezados pelo sistema. Porém, este é o pano de fundo de uma história de uma amizade tocante entre duas amigas que compartilham tudo isso, e também uma pitada de romance porque... porque sim. Mas o rapaz é segurança de mercado e dançarino, o que já coloca um pouco de arte e a questão de gêneros na fórmula mágica esquerdista. Esse pessoal não perde tempo contando apenas um drama de cada vez.
 

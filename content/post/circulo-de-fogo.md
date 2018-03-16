@@ -1,25 +1,10 @@
 ---
-date: "2013-08-10"
 imdb: "1663662"
+date: "2013-08-10"
+categories: "movies"
 title: "Círculo de Fogo"
 stars: "4/5"
-categories: "movies"
-_title: "Pacific Rim"
-_year: "2013"
-_director: ["Guillermo del Toro", ]
-_writer: ["Travis Beacham", "Guillermo del Toro", "Travis Beacham", ]
-_cast: ["Charlie Hunnam", "Diego Klattenhoff", "Idris Elba", "Rinko Kikuchi", "Charlie Day", "Burn Gorman", "Max Martini", "Robert Kazinsky", "Clifton Collins Jr.", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Peter Amundson", "John Gilroy", ]
-_cinematographer: ["Guillermo Navarro", ]
-_music: ["Ramin Djawadi", ]
-_genres: ["Action", ]
-_runtimes: ["132", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTY3MTI5NjQ4Nl5BMl5BanBnXkFtZTcwOTU1OTU0OQ@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTY3MTI5NjQ4Nl5BMl5BanBnXkFtZTcwOTU1OTU0OQ@@._V1._SX95_SY140_.jpg"
+desc: "Círculo de Fogo. Pacific Rim (USA, 2013). Dirigido por Guillermo del Toro. Escrito por Travis Beacham, Guillermo del Toro, Travis Beacham. Com Charlie Hunnam, Diego Klattenhoff, Idris Elba, Rinko Kikuchi, Charlie Day, Burn Gorman, Max Martini, Robert Kazinsky, Clifton Collins Jr.."
 ---
 Ao contrário de Homem de Aço, que apesar de voar se esforça em manter seus dois pés no chão da realidade, Círculo de Fogo parece navegar por outras águas, sempre disposto a impulsionar sua fantasia em direção daquele mundinho que habita nossa mente de criança (espero que você ainda a tenha) em busca de desafios cada vez maiores para nossos gigantes heróis. 
 

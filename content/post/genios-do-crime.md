@@ -1,28 +1,11 @@
 ---
+tags: ['cabine']
+imdb: "2461150"
 date: "2016-08-12"
 categories: "movies"
-imdb: "2461150"
-stars: "3/5"
 title: "Gênios do Crime"
-tags: [ "cabine" ]
-_title: "Masterminds"
-_year: "2016"
-_director: ["Jared Hess", ]
-_writer: ["Chris Bowman", "Hubbel Palmer", "Emily Spivey", "Emily Spivey", "Chris Bowman", "Hubbel Palmer", ]
-_cast: ["Kate McKinnon", "Kristen Wiig", "Jason Sudeikis", "Zach Galifianakis", "Owen Wilson", "Leslie Jones", "Mary Elizabeth Ellis", "Jon Daly", "Ken Marino", ]
-_countries: ["USA", ]
-_languages: ["Spanish", ]
-_editor: ["Keith Brachmann", "David Rennie", ]
-_cinematographer: ["Erik Wilson", ]
-_music: ["Geoff Zanelli", ]
-_artdirection: ["Elliott Glick", ]
-_costume designer: ["Sarah Edwards", ]
-_genres: ["Action", ]
-_runtimes: ["94", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNTA5MjAyOTgzN15BMl5BanBnXkFtZTgwODc5OTg2OTE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNTA5MjAyOTgzN15BMl5BanBnXkFtZTgwODc5OTg2OTE@._V1._SX95_SY140_.jpg"
+stars: "3/5"
+desc: "Gênios do Crime. Masterminds (USA, 2016). Dirigido por Jared Hess. Escrito por Chris Bowman, Hubbel Palmer, Emily Spivey, Emily Spivey, Chris Bowman, Hubbel Palmer. Com Kate McKinnon, Kristen Wiig, Jason Sudeikis, Zach Galifianakis, Owen Wilson, Leslie Jones, Mary Elizabeth Ellis, Jon Daly, Ken Marino."
 ---
 Quando assistimos a um filme, seja drama ou comédia, é normal nos preocuparmos com os personagens, de uma forma positiva ou negativa. Isso é vital para o funcionamento da narrativa. Quando isso não acontece o resultado são os milhares de filmes os quais não damos a mínima para as pessoas que nele habitam. Não que elas não sejam divertidas ou interessantes. É que elas simplesmente não fazem qualquer diferença para a história que estamos vendo.
 

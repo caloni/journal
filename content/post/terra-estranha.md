@@ -1,28 +1,11 @@
 ---
+tags: ['cabine']
+imdb: "2325977"
 date: "2016-10-09"
 categories: "movies"
 title: "Terra Estranha"
-imdb: "2325977"
 stars: "4/5"
-tags: ['cabine']
-_title: "Strangerland"
-_year: "2015"
-_director: ["Kim Farrant", ]
-_writer: ["Michael Kinirons", "Fiona Seres", "Fiona Seres", ]
-_cast: ["Nicole Kidman (Catherine)", "Joseph Fiennes (Matthew)", "Hugo Weaving (Rae)", "Lisa Flanagan (Coreen)", "Meyne Wyatt (Burtie)", "Maddison Brown (Lily)", "Nicholas Hamilton (Tom)", "Jim Russell (Alan Robertson)", "Sean Keenan (Steve Robertson)", ]
-_countries: ["Australia", ]
-_languages: ["English", ]
-_editor: ["Veronika Jenet", ]
-_cinematographer: ["P.J. Dillon", ]
-_music: ["Keefus Ciancia", ]
-_artdirection: ["Mandi Bialek-Wester", ]
-_costume designer: ["Emily Seresin", ]
-_genres: ["Drama", ]
-_runtimes: ["112", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUwMjUwMTE0OV5BMl5BanBnXkFtZTgwMjg2Mzk1NjE@.jpg"
-_ratio: "2.39 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUwMjUwMTE0OV5BMl5BanBnXkFtZTgwMjg2Mzk1NjE@._V1._SX99_SY140_.jpg"
+desc: "Terra Estranha. Strangerland (Australia, 2015). Dirigido por Kim Farrant. Escrito por Michael Kinirons, Fiona Seres, Fiona Seres. Com Nicole Kidman (Catherine), Joseph Fiennes (Matthew), Hugo Weaving (Rae), Lisa Flanagan (Coreen), Meyne Wyatt (Burtie), Maddison Brown (Lily), Nicholas Hamilton (Tom), Jim Russell (Alan Robertson), Sean Keenan (Steve Robertson)."
 ---
 Um filme com formato enlatado, com uma trilha sonora desvirtuada em um marasmo absurdo. E, mesmo assim, o seu tema consegue atravessar todos esses problemas e encontrar a merecida redenção no capítulo final. Com isso já sabemos que não é um filme fácil de digerir, que pode dar sono ou sensação de mesmice. Porém, dando tempo ao tempo, e adentrando no universo fantasioso de Terra Estranha, é possível receber a recompensa.
 

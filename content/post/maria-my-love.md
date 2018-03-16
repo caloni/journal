@@ -1,24 +1,10 @@
 ---
-date: "2011-11-01"
 imdb: "1645109"
+date: "2011-11-01"
+categories: "movies"
 title: "Maria My Love"
 stars: "3/5"
-categories: "movies"
-_title: "Maria My Love"
-_year: "2011"
-_director: ["Jasmine McGlade", ]
-_writer: ["Lauren Fales", "Jasmine McGlade", "Jasmine McGlade", ]
-_cast: ["Judy Marte", "Karen Black", "Brian Rieger", "Lauren Fales", "Nick Alexander", "Ginger Allegre", "Lucy Angelo", "Briley Barrett", "Debi Bradshaw", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Katy Skjerping", ]
-_cinematographer: ["Brian Outland", ]
-_music: ["Maxwell Drummey", ]
-_genres: ["Drama", ]
-_runtimes: ["USA:99", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTkzMzM2NDU5Nl5BMl5BanBnXkFtZTcwODYzMTUyOQ@@.jpg"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTkzMzM2NDU5Nl5BMl5BanBnXkFtZTcwODYzMTUyOQ@@._V1._SX94_SY140_.jpg"
+desc: "Maria My Love. Maria My Love (USA, 2011). Dirigido por Jasmine McGlade. Escrito por Lauren Fales, Jasmine McGlade, Jasmine McGlade. Com Judy Marte, Karen Black, Brian Rieger, Lauren Fales, Nick Alexander, Ginger Allegre, Lucy Angelo, Briley Barrett, Debi Bradshaw."
 ---
 Geralmente um filme costuma martelar constantemente um conceito qualquer por um motivo qualquer. No caso desse Maria My Love, projeto independente filmado em um discutível digital (mas "assistível"), o amadorismo no uso do foco aparentemente é o tal conceito, pois pode-se perceber na insistência irritante de nunca manter a lente focada em qualquer que seja o motivo, personagem ou objeto.
 

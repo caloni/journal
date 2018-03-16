@@ -1,27 +1,11 @@
 ---
+tags: ['netflix']
+imdb: "0093409"
 date: "2016-11-28"
 categories: "movies"
 title: "Máquina Mortífera"
-imdb: "0093409"
 stars: "4/5"
-tags: ['netflix']
-_title: "Lethal Weapon"
-_year: "1987"
-_director: ["Richard Donner", ]
-_writer: ["Shane Black", ]
-_cast: ["Mel Gibson (Martin Riggs)", "Danny Glover (Roger Murtaugh)", "Gary Busey (Joshua)", "Mitchell Ryan (The General)", "Tom Atkins (Michael Hunsaker)", "Darlene Love (Trish Murtaugh)", "Traci Wolfe (Rianne Murtaugh)", "Jackie Swanson (Amanda Hunsaker)", "Damon Hines (Nick Murtaugh)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Stuart Baird", ]
-_cinematographer: ["Stephen Goldblatt", ]
-_music: ["Eric Clapton", "Michael Kamen", ]
-_costume designer: ["Mary Malin", ]
-_genres: ["Action", ]
-_runtimes: ["110", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BZTllNWNlZjctMWQwMS00ZDc3LTg5ZjMtNzhmNzhjMmVhYTFlXkEyXkFqcGdeQXVyNTc1NTQxODI@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BZTllNWNlZjctMWQwMS00ZDc3LTg5ZjMtNzhmNzhjMmVhYTFlXkEyXkFqcGdeQXVyNTc1NTQxODI@._V1._SX95_SY140_.jpg"
+desc: "Máquina Mortífera. Lethal Weapon (USA, 1987). Dirigido por Richard Donner. Escrito por Shane Black. Com Mel Gibson (Martin Riggs), Danny Glover (Roger Murtaugh), Gary Busey (Joshua), Mitchell Ryan (The General), Tom Atkins (Michael Hunsaker), Darlene Love (Trish Murtaugh), Traci Wolfe (Rianne Murtaugh), Jackie Swanson (Amanda Hunsaker), Damon Hines (Nick Murtaugh)."
 ---
 Mel Gibson e Danny Glover estreiam essa franquia que ficou conhecida como a segunda série de ação policial dos anos 80 mais lembrada. A primeira é Duro de Matar (John McTiernan, 1988). Aqui Richard Donner parece brincar um pouco entre o drama, a ação e a comédia, conseguindo isso através do roteiro de Shane Black, que faz o mesmo, e embora sem a perspicácia que foi desenvolvendo com os anos ("Beijos e Tiros") consegue criar uma das duplas de policiais mais famosa do Cinema.
 

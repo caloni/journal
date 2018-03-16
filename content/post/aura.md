@@ -1,27 +1,10 @@
 ---
-date: "2015-12-27"
 imdb: "0420509"
-stars: "5/5"
+date: "2015-12-27"
 categories: "movies"
 title: "Aura"
-_title: "El aura"
-_year: "2005"
-_director: ["Fabián Bielinsky", ]
-_writer: ["Fabián Bielinsky", "Pablo De Santis", ]
-_cast: ["Ricardo Darín", "Dolores Fonzi", "Pablo Cedrón", "Nahuel Pérez Biscayart", "Jorge D'Elía", "Alejandro Awada", "Rafa Castejón", "Manuel Rodal", "Walter Reyno", ]
-_countries: ["Argentina", ]
-_languages: ["Spanish", ]
-_editor: ["Alejandro Carrillo Penovi", "Fernando Pardo", ]
-_cinematographer: ["Checco Varese", ]
-_music: ["Lucio Godoy", ]
-_artdirection: ["Mercedes Alfonsín", ]
-_costume designer: ["Marisa Urruti", ]
-_genres: ["Crime", ]
-_runtimes: ["134", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTI1MzYyMjU3Ml5BMl5BanBnXkFtZTcwMjU5NDkzMQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTI1MzYyMjU3Ml5BMl5BanBnXkFtZTcwMjU5NDkzMQ@@._V1._SX95_SY140_.jpg"
+stars: "5/5"
+desc: "Aura. El aura (Argentina, 2005). Dirigido por Fabián Bielinsky. Escrito por Fabián Bielinsky, Pablo De Santis. Com Ricardo Darín, Dolores Fonzi, Pablo Cedrón, Nahuel Pérez Biscayart, Jorge D'Elía, Alejandro Awada, Rafa Castejón, Manuel Rodal, Walter Reyno."
 ---
 Aura é um filme sobre um taxidermista -- uma pessoa dedicada a empalhar animais -- que é seguro sobre sua profissão e sobre como faria um assalto a banco, mas inseguro sobre todo o resto: não mataria um animal a sangue-frio na floresta, não consegue se relacionar com sua esposa, não entende como falar a verdade pode ferir pessoas. A grande lição do filme é como as coisas na teoria podem ser de um jeito, mas na vida real, os tons são infinitamente mais complexos. Seu título remete à situação de alguém que sofre de epilepsia, que de acordo com o protagonista, é um estado onde não há opção do que fazer, e isso é, de acordo com ele, perfeito por não haver escolha a se fazer.
 

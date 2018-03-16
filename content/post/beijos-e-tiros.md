@@ -1,25 +1,10 @@
 ---
-date: "2012-07-22"
 imdb: "0373469"
+date: "2012-07-22"
+categories: "movies"
 title: "Beijos e Tiros"
 stars: "4/5"
-categories: "movies"
-_title: "Kiss Kiss Bang Bang"
-_year: "2005"
-_director: ["Shane Black", ]
-_writer: ["Brett Halliday", "Shane Black", "Shane Black", ]
-_cast: ["Robert Downey Jr.", "Val Kilmer", "Michelle Monaghan", "Corbin Bernsen", "Dash Mihok", "Larry Miller", "Rockmond Dunbar", "Shannyn Sossamon", "Angela Lindvall", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Jim Page", ]
-_cinematographer: ["Michael Barrett", ]
-_music: ["John Ottman", ]
-_genres: ["Action", ]
-_runtimes: ["103", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTY5NDExMDA3M15BMl5BanBnXkFtZTYwNTc2MzA3.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTY5NDExMDA3M15BMl5BanBnXkFtZTYwNTc2MzA3._V1._SX94_SY140_.jpg"
+desc: "Beijos e Tiros. Kiss Kiss Bang Bang (USA, 2005). Dirigido por Shane Black. Escrito por Brett Halliday, Shane Black, Shane Black. Com Robert Downey Jr., Val Kilmer, Michelle Monaghan, Corbin Bernsen, Dash Mihok, Larry Miller, Rockmond Dunbar, Shannyn Sossamon, Angela Lindvall."
 ---
 Kiss Kiss Bang Bang trabalha em muitas vertentes. Soando fictício a partir da narração onisciente do ex-ladrão e aspirante a ator Harry Lockhart (Robert Downey Jr.), que é ao mesmo tempo o protagonista, ainda consegue uma boa dose de realismo através dos acontecimentos absurdos que se somam durante as investigações de um crime do qual é testemunha enquanto estuda seu papel em um filme com a ajuda do detetive real Gay Perry (Val Kilmer). Somado a isso, Harry volta a encontrar sua amiga e paixão velada de infância Harmony Faith Lane (Michelle Monaghan). Tudo isso, acredite ou não, consegue o seu lugar na história com uma direção e montagem competentes o suficiente para não tornar tudo mais confuso do que já é.
 

@@ -1,27 +1,11 @@
 ---
+tags: ['netflix', 'series']
+imdb: "1942683"
 date: "2016-10-16"
 categories: "series"
 title: "O Incrível Mundo de Gumball"
-imdb: "1942683"
 stars: "4/5"
-tags: ['netflix', 'series']
-_title: "The Amazing World of Gumball"
-_year: "2011"
-_director: ["Mic Graves", ]
-_writer: ["Tobi Wilson", "Benjamin Bocquelet", "Jon Foster", "James Lamont", "Joe Parham", "Mic Graves", "Louise Coats", "Nathan Auerbach", "Daniel Berg", ]
-_cast: ["Jacob Hopkins (Gumball Watterson)", "Terrell Ransom Jr. (Darwin Watterson)", "Dan Russell (Richard Watterson / ...)", "Teresa Gallagher (Nicole Watterson / ...)", "Kerry Shale (Larry Needlemeyer / ...)", "Kyla Rae Kowalewski (Anais Watterson)", "Logan Grove (Gumball Watterson)", "Kwesi Boakye (Darwin Watterson)", "Sandra Dickinson (Crocodile Woman / ...)", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Richard Overall", "Anthony Hull", ]
-_cinematographer: ["Lou Dockstader", ]
-_music: ["Ben Locket", ]
-_artdirection: ["Benjamin Bocquelet", "Antoine Perez", ]
-_genres: ["Animation", ]
-_runtimes: ["11", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNWY2YWU1NWEtZTk2Yi00Y2Q5LThlOTMtZWQzZTQ1OWM5MmM2XkEyXkFqcGdeQXVyNjQyMzg3MTE@.jpg"
-_ratio: "1.78 : 1"
-_kind: "tv series"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNWY2YWU1NWEtZTk2Yi00Y2Q5LThlOTMtZWQzZTQ1OWM5MmM2XkEyXkFqcGdeQXVyNjQyMzg3MTE@._V1._SX99_SY140_.jpg"
+desc: "O Incrível Mundo de Gumball. The Amazing World of Gumball (UK, 2011). Dirigido por Mic Graves. Escrito por Tobi Wilson, Benjamin Bocquelet, Jon Foster, James Lamont, Joe Parham, Mic Graves, Louise Coats, Nathan Auerbach, Daniel Berg. Com Jacob Hopkins (Gumball Watterson), Terrell Ransom Jr. (Darwin Watterson), Dan Russell (Richard Watterson / ...), Teresa Gallagher (Nicole Watterson / ...), Kerry Shale (Larry Needlemeyer / ...), Kyla Rae Kowalewski (Anais Watterson), Logan Grove (Gumball Watterson), Kwesi Boakye (Darwin Watterson), Sandra Dickinson (Crocodile Woman / ...)."
 ---
 Mais um desenho de adultos que apela para o absurdo, a metalinguagem, o fofinho, o humor negro e o slapstick que ultrapassa o convencional em um formato quase tão criativo quanto A Hora da Aventura. Felizmente, Gumball tem senso do ridículo ou acaba sendo mais adulto.
 

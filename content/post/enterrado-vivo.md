@@ -1,25 +1,10 @@
 ---
-date: "2010-12-10"
 imdb: "1462758"
-stars: "4/5"
+date: "2010-12-10"
 categories: "movies"
 title: "Enterrado vivo"
-_title: "Buried"
-_year: "2010"
-_director: ["Rodrigo Cortés", ]
-_writer: ["Chris Sparling", ]
-_cast: ["Ryan Reynolds", "José Luis García Pérez", "Robert Paterson", "Stephen Tobolowsky", "Samantha Mathis", "Ivana Miño", "Warner Loughlin", "Erik Palladino", "Kali Rocha", ]
-_countries: ["Spain", ]
-_languages: ["English", ]
-_editor: ["Rodrigo Cortés", ]
-_cinematographer: ["Eduard Grau", ]
-_music: ["Víctor Reyes", ]
-_genres: ["Drama", ]
-_runtimes: ["95", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTg5MzU3OTIwOV5BMl5BanBnXkFtZTcwMzU3NzY3Mw@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTg5MzU3OTIwOV5BMl5BanBnXkFtZTcwMzU3NzY3Mw@@._V1._SX91_SY140_.jpg"
+stars: "4/5"
+desc: "Enterrado vivo. Buried (Spain, 2010). Dirigido por Rodrigo Cortés. Escrito por Chris Sparling. Com Ryan Reynolds, José Luis García Pérez, Robert Paterson, Stephen Tobolowsky, Samantha Mathis, Ivana Miño, Warner Loughlin, Erik Palladino, Kali Rocha."
 ---
 O trabalho final em cima de um filme de um cenário só evoca uma trilha de suspense dos anos 60, além de ter seu design gráfico lembrando pequenos caixões que vão descendo a tela.
 

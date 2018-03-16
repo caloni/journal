@@ -1,16 +1,10 @@
 ---
-date: 2017-08-25T20:22:02-03:00
+tags: ['netflix', 'series']
 title: "Chef & My Fridge"
-categories: "series"
 stars: "4/5"
-tags: ["netflix", 'series']
-_title: "Chef & My Fridge"
-_year: "2014"
-_director: ["Sung Hee-sung", "Lee Geon-young" ]
-_cast: ["Kim Sung-joo", "Ahn Jung-hwan" ]
-_countries: ["South Korea", ]
-_languages: ["Korean", ]
-_runtimes: ["70", ]
+date: 2017-08-25T23:22:02
+categories: "series"
+desc: "Chef & My Fridge. Chef & My Fridge (South Korea, 2014). Dirigido por Sung Hee-sung, Lee Geon-young. Com Kim Sung-joo, Ahn Jung-hwan."
 ---
 Da Geladeira para a Mesa, Take Care of My Refrigerator, Take Care of the Fridge, Take Care of the Refrigerator, Good Care of the Fridge. Com tantos nomes já é possível deduzir que é um programa maluco da TV coreana, traduzindo a forma simpática, polida e divertida com que os asiáticos costumam se comportar. Isso inclui este programa gastronômico que mesmo sendo uma repetição barata à exaustão em seu formato, consegue divertir sem ofender, e ainda educar a respeito da alta gastronomia sem muitos exageros. E isso vindo da Coreia do Sul é algo a se destacar.
 

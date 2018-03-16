@@ -1,24 +1,10 @@
 ---
-date: "2014-09-19"
 imdb: "0839995"
+date: "2014-09-19"
+categories: "movies"
 title: "Superman II"
 stars: "5/5"
-categories: "movies"
-_title: "Superman II"
-_year: "2006"
-_director: ["Richard Donner", "Richard Lester", ]
-_writer: ["Jerry Siegel", "Joe Shuster", "Mario Puzo", "Mario Puzo", "David Newman", "Leslie Newman", "Tom Mankiewicz", ]
-_cast: ["Gene Hackman", "Christopher Reeve", "Marlon Brando", "Ned Beatty", "Jackie Cooper", "Sarah Douglas", "Margot Kidder", "Jack O'Halloran", "Valerie Perrine", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Stuart Baird", "Michael Thau", "John Victor-Smith", ]
-_cinematographer: ["Robert Paynter", "Geoffrey Unsworth", ]
-_genres: ["Action", ]
-_runtimes: ["USA:115", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTc4NzU1ODEyOF5BMl5BanBnXkFtZTcwNDc2MTQ0MQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "video movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTc4NzU1ODEyOF5BMl5BanBnXkFtZTcwNDc2MTQ0MQ@@._V1._SX100_SY138_.jpg"
+desc: "Superman II. Superman II (UK, 2006). Dirigido por Richard Donner, Richard Lester. Escrito por Jerry Siegel, Joe Shuster, Mario Puzo, Mario Puzo, David Newman, Leslie Newman, Tom Mankiewicz. Com Gene Hackman, Christopher Reeve, Marlon Brando, Ned Beatty, Jackie Cooper, Sarah Douglas, Margot Kidder, Jack O'Halloran, Valerie Perrine."
 ---
 Richard Donner's cut é superior à versão original não por causa da inspiração original da história. Isso é besteira, pois o roteiro já havia sido mastigado inúmeras vezes, ao ponto de ter sido dito que não havia nem mais um palavra de Mario Puzzo (que havia escrito ambos os originais). Além disso, o próprio original foi modificado para encaixar o final da rotação da Terra que seria usado apenas em sua continuação e por um motivo mais legítimo (Zod e sua trupe teriam destruído boa parte do planeta).
 

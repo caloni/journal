@@ -1,25 +1,10 @@
 ---
-date: "2014-12-01"
 imdb: "1981107"
+date: "2014-12-01"
+categories: "movies"
 title: "Uma Viagem Extraordinária"
 stars: "3/5"
-categories: "movies"
-_title: "The Young and Prodigious T.S. Spivet"
-_year: "2013"
-_director: ["Jean-Pierre Jeunet", ]
-_writer: ["Jean-Pierre Jeunet", "Guillaume Laurant", "Guillaume Laurant", "Reif Larsen", ]
-_cast: ["Kyle Catlett", "Helena Bonham Carter", "Judy Davis", "Callum Keith Rennie", "Niamh Wilson", "Jakob Davies", "Rick Mercer", "Dominique Pinon", "Julian Richings", ]
-_countries: ["France", ]
-_languages: ["English", ]
-_editor: ["Hervé Schneid", ]
-_cinematographer: ["Thomas Hardmeier", ]
-_music: ["Denis Sanacore", ]
-_genres: ["Action", ]
-_runtimes: ["105", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjI3OTIwNTMzOF5BMl5BanBnXkFtZTgwNzEzOTcxMDE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjI3OTIwNTMzOF5BMl5BanBnXkFtZTgwNzEzOTcxMDE@._V1._SX100_SY137_.jpg"
+desc: "Uma Viagem Extraordinária. The Young and Prodigious T.S. Spivet (France, 2013). Dirigido por Jean-Pierre Jeunet. Escrito por Jean-Pierre Jeunet, Guillaume Laurant, Guillaume Laurant, Reif Larsen. Com Kyle Catlett, Helena Bonham Carter, Judy Davis, Callum Keith Rennie, Niamh Wilson, Jakob Davies, Rick Mercer, Dominique Pinon, Julian Richings."
 ---
 Jean-Pierre Jeunet parece ter ganhado uma muleta narrativa: é incapaz de desenvolver seus personagens sem esmiuçar suas características com todo tipo de artifício voando pela tela. O ruim disso é que nem sempre é necessário para o desenvolvimento da história, e em Uma Viagem Extraordinária certamente não o é para todos os seus personagens, exceto para T.S. Spivet (Kyle Catlett), o herói da viagem do título. Um garoto de 10 anos que vive com sua família em uma fazenda no oeste dos Estados Unidos, uma região montanhosa que a ótima fotografia de Thomas Hardmeier é capaz de tornar ainda mais bela com o uso das cores primárias (azul, vermelho, verde) adoradas pelo diretor. Ele é um menino prodígio da ciência e demonstra isso constantemente através da sua maneira obsessiva com que cataloga dados do mundo à sua volta, e nesse caso os gráficos voadores de Piere Jeunet vem bem a calhar, pois dá uma visão "cientificada" da realidade.
 

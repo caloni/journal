@@ -1,25 +1,10 @@
 ---
-date: "2015-03-10"
 imdb: "1650554"
+date: "2015-03-10"
+categories: "movies"
 title: "Kick Ass 2"
 stars: "2/5"
-categories: "movies"
-_title: "Kick-Ass 2"
-_year: "2013"
-_director: ["Jeff Wadlow", ]
-_writer: ["Jeff Wadlow", "Mark Millar", "John Romita Jr", ]
-_cast: ["Aaron Taylor-Johnson", "Chloë Grace Moretz", "Morris Chestnut", "Claudia Lee", "Amy Anzel", "Clark Duke", "Augustus Prew", "Mary Kitchen", "Donald Faison", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Eddie Hamilton", ]
-_cinematographer: ["Tim Maurice-Jones", ]
-_music: ["Henry Jackman", "Matthew Margeson", ]
-_genres: ["Action", ]
-_runtimes: ["103", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQ4OTQxNzc0N15BMl5BanBnXkFtZTcwOTQxOTU5OQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQ4OTQxNzc0N15BMl5BanBnXkFtZTcwOTQxOTU5OQ@@._V1._SX96_SY140_.jpg"
+desc: "Kick Ass 2. Kick-Ass 2 (USA, 2013). Dirigido por Jeff Wadlow. Escrito por Jeff Wadlow, Mark Millar, John Romita Jr. Com Aaron Taylor-Johnson, Chloë Grace Moretz, Morris Chestnut, Claudia Lee, Amy Anzel, Clark Duke, Augustus Prew, Mary Kitchen, Donald Faison."
 ---
 Tudo que o original tinha de divertido e tenso -- a violência exacerbada envolvendo crianças e a própria realidade da loucura que é ser um jovem vigilante -- foi retirado nessa continuação, que soa mais como uma produção Marvel. Afinal, é isso o que o público hoje se contenta em ver: baixos riscos, altas expectativas.
 

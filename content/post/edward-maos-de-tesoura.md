@@ -1,25 +1,10 @@
 ---
-date: "2011-07-31"
 imdb: "0099487"
+date: "2011-07-31"
+categories: "movies"
 title: "Edward Mãos de Tesoura"
 stars: "3/5"
-categories: "movies"
-_title: "Edward Scissorhands"
-_year: "1990"
-_director: ["Tim Burton", ]
-_writer: ["Tim Burton", "Caroline Thompson", "Caroline Thompson", ]
-_cast: ["Johnny Depp", "Winona Ryder", "Dianne Wiest", "Anthony Michael Hall", "Kathy Baker", "Robert Oliveri", "Conchata Ferrell", "Caroline Aaron", "Dick Anthony Williams", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Colleen Halsey", "Richard Halsey", ]
-_cinematographer: ["Stefan Czapsky", ]
-_music: ["Danny Elfman", ]
-_genres: ["Drama", ]
-_runtimes: ["105", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BOTE2NDExNjQxMF5BMl5BanBnXkFtZTgwMzQ3NzMxMDE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BOTE2NDExNjQxMF5BMl5BanBnXkFtZTgwMzQ3NzMxMDE@._V1._SX94_SY140_.jpg"
+desc: "Edward Mãos de Tesoura. Edward Scissorhands (USA, 1990). Dirigido por Tim Burton. Escrito por Tim Burton, Caroline Thompson, Caroline Thompson. Com Johnny Depp, Winona Ryder, Dianne Wiest, Anthony Michael Hall, Kathy Baker, Robert Oliveri, Conchata Ferrell, Caroline Aaron, Dick Anthony Williams."
 ---
 Mesmo mais de 20 anos depois de produzido, o conto do homem inacabado com tesouras no lugar de dedos continua se sustentando bem, e por vários motivos que fazem hoje de Tim Burton ainda um diretor de destaque.
 

@@ -1,25 +1,10 @@
 ---
-date: "2011-12-12"
 imdb: "0118583"
+date: "2011-12-12"
+categories: "movies"
 title: "Aliens A Ressueição"
 stars: "4/5"
-categories: "movies"
-_title: "Alien: Resurrection"
-_year: "1997"
-_director: ["Jean-Pierre Jeunet", ]
-_writer: ["Dan O'Bannon", "Ronald Shusett", "Joss Whedon", ]
-_cast: ["Sigourney Weaver", "Winona Ryder", "Dominique Pinon", "Ron Perlman", "Gary Dourdan", "Michael Wincott", "Kim Flowers", "Dan Hedaya", "J.E. Freeman", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Hervé Schneid", ]
-_cinematographer: ["Darius Khondji", ]
-_music: ["John Frizzell", ]
-_genres: ["Action", ]
-_runtimes: ["109", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTc2MDIyMjc3N15BMl5BanBnXkFtZTcwNzQzODAwMQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTc2MDIyMjc3N15BMl5BanBnXkFtZTcwNzQzODAwMQ@@._V1._SX96_SY140_.jpg"
+desc: "Aliens A Ressueição. Alien: Resurrection (USA, 1997). Dirigido por Jean-Pierre Jeunet. Escrito por Dan O'Bannon, Ronald Shusett, Joss Whedon. Com Sigourney Weaver, Winona Ryder, Dominique Pinon, Ron Perlman, Gary Dourdan, Michael Wincott, Kim Flowers, Dan Hedaya, J.E. Freeman."
 ---
 Dando continuidade ao "terror biológico" iniciado pelo antecessor Alien³, quando um cachorro foi infectado por um alien que ganha suas feições ao nascer, o novo filme da franquia reabre a caixa de Pandora se aproveitando da discussão contemporânea de clonagem e "ressuscitando" a Tenente Ripley através de amostras de seu sangue já modificado pelo seu parasita espacial.
 

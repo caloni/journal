@@ -1,21 +1,10 @@
 ---
-date: "2016-01-04"
 imdb: "3948438"
-stars: "1/5"
+date: "2016-01-04"
 categories: "movies"
 title: "Loucas pra Casar"
-_title: "Loucas pra Casar"
-_year: "2015"
-_director: ["Roberto Santucci", ]
-_writer: ["Marcelo Saback", "Júlia Spadaccini", ]
-_cast: ["Ingrid Guimarães", "Marcio Garcia", "Tatá Werneck", "Suzana Pires", "Camila Amado", "Billy Blanco Jr.", "Alice Borges", "Aline Fanju", "Edmilson Filho", ]
-_countries: ["Brazil", ]
-_languages: ["Portuguese", ]
-_cinematographer: ["Nonato Estrela", ]
-_artdirection: ["Dany Espinelli", ]
-_genres: ["Comedy", ]
-_runtimes: ["108::(approx.)", ]
-_kind: "movie"
+stars: "1/5"
+desc: "Loucas pra Casar. Loucas pra Casar (Brazil, 2015). Dirigido por Roberto Santucci. Escrito por Marcelo Saback, Júlia Spadaccini. Com Ingrid Guimarães, Marcio Garcia, Tatá Werneck, Suzana Pires, Camila Amado, Billy Blanco Jr., Alice Borges, Aline Fanju, Edmilson Filho."
 ---
 Dirigido e escrito como uma telenovela, Loucas Pra Casar tem uma boa ideia para uma peça de teatro (talvez até seja) e tenta esticá-la em um filme inteiro usando uma estrutura baseada em episódios descartáveis e bobos, tornando toda a experiência um exercício de futilidade com nenhuma tensão e zero carisma.
 

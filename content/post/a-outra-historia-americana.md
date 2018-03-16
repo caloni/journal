@@ -1,25 +1,10 @@
 ---
-date: "2014-02-26"
 imdb: "0120586"
+date: "2014-02-26"
+categories: "movies"
 title: "A Outra História Americana"
 stars: "4/5"
-categories: "movies"
-_title: "American History X"
-_year: "1998"
-_director: ["Tony Kaye", ]
-_writer: ["David McKenna", ]
-_cast: ["Edward Norton", "Edward Furlong", "Beverly D'Angelo", "Jennifer Lien", "Ethan Suplee", "Fairuza Balk", "Avery Brooks", "Elliott Gould", "Stacy Keach", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Gerald B. Greenberg", "Alan Heim", ]
-_cinematographer: ["Tony Kaye", ]
-_music: ["Anne Dudley", ]
-_genres: ["Crime", ]
-_runtimes: ["119", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjMzNDUwNTIyMF5BMl5BanBnXkFtZTcwNjMwNDg3OA@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjMzNDUwNTIyMF5BMl5BanBnXkFtZTcwNjMwNDg3OA@@._V1._SX100_SY128_.jpg"
+desc: "A Outra História Americana. American History X (USA, 1998). Dirigido por Tony Kaye. Escrito por David McKenna. Com Edward Norton, Edward Furlong, Beverly D'Angelo, Jennifer Lien, Ethan Suplee, Fairuza Balk, Avery Brooks, Elliott Gould, Stacy Keach."
 ---
 Este não é um filme sobre nazismo, mas sobre fanatismo. Pessoas fanáticas a respeito dos mais diversos assuntos: política, religião ou (coloque aqui sua doutrina). Quer assistir um filme sobre os males do fanatismo? Assista A Outra História Americana. É um filme didático, mas não explícito. Sua sutileza reside nas simples expressões do dia-a-dia como resposta a situações das mais prosaicas, como um almoço de família. Porém, a mensagem é clara.
 

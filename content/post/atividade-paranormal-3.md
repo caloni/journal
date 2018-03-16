@@ -1,24 +1,10 @@
 ---
-date: "2011-11-24"
 imdb: "1778304"
+date: "2011-11-24"
+categories: "movies"
 title: "Atividade Paranormal 3"
 stars: "3/5"
-categories: "movies"
-_title: "Paranormal Activity 3"
-_year: "2011"
-_director: ["Henry Joost", "Ariel Schulman", ]
-_writer: ["Christopher Landon", "Oren Peli", ]
-_cast: ["Lauren Bittner", "Christopher Nicholas Smith", "Chloe Csengery", "Jessica Tyler Brown", "Hallie Foote", "Dustin Ingram", "Johanna Braddy", "Katie Featherston", "Brian Boland", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Gregory Plotkin", ]
-_cinematographer: ["Magdalena Górka", ]
-_genres: ["Horror", ]
-_runtimes: ["83", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTk0MTQzODQzOV5BMl5BanBnXkFtZTcwMDQ2NzQ3Ng@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTk0MTQzODQzOV5BMl5BanBnXkFtZTcwMDQ2NzQ3Ng@@._V1._SX90_SY140_.jpg"
+desc: "Atividade Paranormal 3. Paranormal Activity 3 (USA, 2011). Dirigido por Henry Joost, Ariel Schulman. Escrito por Christopher Landon, Oren Peli. Com Lauren Bittner, Christopher Nicholas Smith, Chloe Csengery, Jessica Tyler Brown, Hallie Foote, Dustin Ingram, Johanna Braddy, Katie Featherston, Brian Boland."
 ---
 Usando ainda a velha fórmula de câmeras caseiras que registram eventos aparentemente sobrenaturais, essa quarta edição de Atividade Paranormal (houve um "spin-off" japonês: "A.P. ? Desafio em Tóquio"?) continua funcionando muito bem como terror ao gerar medo tanto pelas situações comuns pelos quais todos nós passamos (como a sensação de ter o cobertor puxado no meio da noite) quanto o caráter documental do filme, sem contar a tensão sempre crescente por estarmos, obviamente, aguardando por sustos. Este último ingrediente da série, aliás, chega a ser o tempero especial, pois os sustos geralmente são entregues aos poucos e de maneira caprichosa, o que acaba gerando mais tensão ainda para o grand finale.
 

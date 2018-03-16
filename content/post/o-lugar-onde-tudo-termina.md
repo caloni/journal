@@ -1,25 +1,10 @@
 ---
-date: "2013-11-22"
 imdb: "1817273"
+date: "2013-11-22"
+categories: "movies"
 title: "O Lugar Onde Tudo Termina"
 stars: "5/5"
-categories: "movies"
-_title: "The Place Beyond the Pines"
-_year: "2012"
-_director: ["Derek Cianfrance", ]
-_writer: ["Derek Cianfrance", "Ben Coccio", "Derek Cianfrance", "Ben Coccio", "Darius Marder", ]
-_cast: ["Ryan Gosling", "Craig Van Hook", "Eva Mendes", "Olga Merediz", "Anthony Pizza", "Mahershala Ali", "John Facci", "Ben Mendelsohn", "Tula", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Jim Helton", "Ron Patane", ]
-_cinematographer: ["Sean Bobbitt", ]
-_music: ["Mike Patton", ]
-_genres: ["Crime", ]
-_runtimes: ["140", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjc1OTEwNjU4N15BMl5BanBnXkFtZTcwNzUzNDIwOQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjc1OTEwNjU4N15BMl5BanBnXkFtZTcwNzUzNDIwOQ@@._V1._SX91_SY140_.jpg"
+desc: "O Lugar Onde Tudo Termina. The Place Beyond the Pines (USA, 2012). Dirigido por Derek Cianfrance. Escrito por Derek Cianfrance, Ben Coccio, Derek Cianfrance, Ben Coccio, Darius Marder. Com Ryan Gosling, Craig Van Hook, Eva Mendes, Olga Merediz, Anthony Pizza, Mahershala Ali, John Facci, Ben Mendelsohn, Tula."
 ---
 É uma satisfação imensa presenciar tantas virtudes técnicas juntas em um filme ambicioso também em seu lado narrativo e temático. Há muitas ideias a serem interpretadas e sentidas em O Lugar Onde Tudo Termina, sendo a principal delas é: até que ponto nossas escolhas conseguem influenciar de alguma forma o futuro? Há uma justiça (divina ou não) em algum lugar ou tudo é uma questão de interpretação?
 

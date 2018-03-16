@@ -1,25 +1,10 @@
 ---
-date: "2014-12-15"
 imdb: "0450278"
+date: "2014-12-15"
+categories: "movies"
 title: "O Albergue"
 stars: "3/5"
-categories: "movies"
-_title: "Hostel"
-_year: "2005"
-_director: ["Eli Roth", ]
-_writer: ["Eli Roth", ]
-_cast: ["Jay Hernandez", "Derek Richardson", "Eythor Gudjonsson", "Barbara Nedeljakova", "Jan Vlasák", "Jana Kaderabkova", "Jennifer Lim", "Keiko Seiko", "Lubomír Bukový", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["George Folsey Jr.", ]
-_cinematographer: ["Milan Chadima", ]
-_music: ["Nathan Barr", ]
-_genres: ["Horror", ]
-_runtimes: ["94", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTI3ODAwMDA5NV5BMl5BanBnXkFtZTcwODExODEzMQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTI3ODAwMDA5NV5BMl5BanBnXkFtZTcwODExODEzMQ@@._V1._SX94_SY140_.jpg"
+desc: "O Albergue. Hostel (USA, 2005). Dirigido por Eli Roth. Escrito por Eli Roth. Com Jay Hernandez, Derek Richardson, Eythor Gudjonsson, Barbara Nedeljakova, Jan Vlasák, Jana Kaderabkova, Jennifer Lim, Keiko Seiko, Lubomír Bukový."
 ---
 Este é um thriller que segue a cartilha básica do grupo de jovens descerebrados que entra em uma enrascada ao procurar prazer carnal no albergue de uma cidadezinha do Leste Europeu. O que eles não imaginavam -- nem teriam como, a não ser que você seja muito preconceituoso a respeito dessa região ex-comunista, portanto, esquecida e miserável -- é que a cidade emprega várias pessoas em um esquema que alimenta o prazer sádico de ricaços em torturar pessoas, especialmente americanos (nem preciso dizer de onde vem os nossos amigos).
 

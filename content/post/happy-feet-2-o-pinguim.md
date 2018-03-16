@@ -1,25 +1,10 @@
 ---
-date: "2011-12-04"
 imdb: "1402488"
+date: "2011-12-04"
+categories: "movies"
 title: "Happy Feet 2 O Pinguim"
 stars: "2/5"
-categories: "movies"
-_title: "Happy Feet Two"
-_year: "2011"
-_director: ["George Miller", "Gary Eck", "David Peers", ]
-_writer: ["George Miller", "Gary Eck", "Warren Coleman", "Paul Livingston", "Warren Coleman", "John Collee", "George Miller", "Judy Morris", ]
-_cast: ["Carlos Alazraqui", "Lombardo Boyar", "Jeffrey Garcia", "Johnny A. Sanchez", "Sofía Vergara", "Robin Williams", "Elijah Wood", "Pink", "Ava Acres", ]
-_countries: ["Australia", ]
-_languages: ["English", ]
-_editor: ["Christian Gazal", ]
-_cinematographer: ["David Dulac", "David Peers", ]
-_music: ["John Powell", ]
-_genres: ["Animation", ]
-_runtimes: ["USA:100", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTg1MzU2Nzg2OV5BMl5BanBnXkFtZTcwNzE3MzAxNg@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTg1MzU2Nzg2OV5BMl5BanBnXkFtZTcwNzE3MzAxNg@@._V1._SX95_SY140_.jpg"
+desc: "Happy Feet 2 O Pinguim. Happy Feet Two (Australia, 2011). Dirigido por George Miller, Gary Eck, David Peers. Escrito por George Miller, Gary Eck, Warren Coleman, Paul Livingston, Warren Coleman, John Collee, George Miller, Judy Morris. Com Carlos Alazraqui, Lombardo Boyar, Jeffrey Garcia, Johnny A. Sanchez, Sofía Vergara, Robin Williams, Elijah Wood, Pink, Ava Acres."
 ---
 Era de se esperar uma queda básica na qualidade narrativa do original Happy Feet, de 2006. Na época pegando carona no belíssimo documentário do ano passado, A Marcha dos Pinguins, o filme traçava um paralelo do que aconteceria se um dos filhotes da espécie apresentasse uma característica... inusitada. No caso, todos os pinguins da raça Imperador são exímios cantadores, enquanto o filhote diferente gostava de sapatear. Ambas as características suportaram números de encher os olhos e os ouvidos, com performances de cair o queixo, com destaque absoluto para Somebody to Love (Queen).
 

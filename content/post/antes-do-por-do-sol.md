@@ -1,24 +1,10 @@
 ---
-date: "2012-01-03"
 imdb: "0381681"
+date: "2012-01-03"
+categories: "movies"
 title: "Antes do Pôr-do-Sol"
 stars: "5/5"
-categories: "movies"
-_title: "Before Sunset"
-_year: "2004"
-_director: ["Richard Linklater", ]
-_writer: ["Richard Linklater", "Julie Delpy", "Ethan Hawke", "Richard Linklater", "Kim Krizan", "Richard Linklater", "Kim Krizan", ]
-_cast: ["Ethan Hawke", "Julie Delpy", "Vernon Dobtcheff", "Louise Lemoine Torres", "Rodolphe Pauly", "Mariane Plasteig", "Diabolo", "Denis Evrard", "Albert Delpy", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Sandra Adair", ]
-_cinematographer: ["Lee Daniel", ]
-_genres: ["Drama", ]
-_runtimes: ["80", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQ1MjAwNTM5Ml5BMl5BanBnXkFtZTYwNDM0MTc3.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQ1MjAwNTM5Ml5BMl5BanBnXkFtZTYwNDM0MTc3._V1._SX95_SY140_.jpg"
+desc: "Antes do Pôr-do-Sol. Before Sunset (USA, 2004). Dirigido por Richard Linklater. Escrito por Richard Linklater, Julie Delpy, Ethan Hawke, Richard Linklater, Kim Krizan, Richard Linklater, Kim Krizan. Com Ethan Hawke, Julie Delpy, Vernon Dobtcheff, Louise Lemoine Torres, Rodolphe Pauly, Mariane Plasteig, Diabolo, Denis Evrard, Albert Delpy."
 ---
 A continuação do terno romance de um dia entre Jesse e Celine é assinada não apenas pelo diretor Richard Linklater, mas também pelos próprios atores Ethan Hawke e Julie Delpy, o que dá o tom de filme casual que tenta fechar um arco iniciado nove anos atrás, usando o mesmo espaço de tempo entre os lançamentos dos filmes. 
 

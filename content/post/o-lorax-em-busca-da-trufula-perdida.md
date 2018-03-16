@@ -1,24 +1,10 @@
 ---
-date: "2012-04-02"
 imdb: "1482459"
+date: "2012-04-02"
+categories: "movies"
 title: "O Lorax Em Busca da Trúfula Perdida"
 stars: "3/5"
-categories: "movies"
-_title: "The Lorax"
-_year: "2012"
-_director: ["Chris Renaud", "Kyle Balda", ]
-_writer: ["Dr. Seuss", "Cinco Paul", "Ken Daurio", ]
-_cast: ["Danny DeVito", "Ed Helms", "Zac Efron", "Taylor Swift", "Betty White", "Rob Riggle", "Jenny Slate", "Nasim Pedrad", "Joel Swetow", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Claire Dodgson", "Steven Liu", "Ken Schretzmann", ]
-_music: ["John Powell", ]
-_genres: ["Animation", ]
-_runtimes: ["86", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTU1MTAwMjk1NF5BMl5BanBnXkFtZTcwMDI5NDc4Ng@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTU1MTAwMjk1NF5BMl5BanBnXkFtZTcwMDI5NDc4Ng@@._V1._SX94_SY140_.jpg"
+desc: "O Lorax Em Busca da Trúfula Perdida. The Lorax (USA, 2012). Dirigido por Chris Renaud, Kyle Balda. Escrito por Dr. Seuss, Cinco Paul, Ken Daurio. Com Danny DeVito, Ed Helms, Zac Efron, Taylor Swift, Betty White, Rob Riggle, Jenny Slate, Nasim Pedrad, Joel Swetow."
 ---
 O Lorax parte de uma premissa bonitinha e se esquece que em um roteiro, mesmo de animação, há muito mais do que piadinhas isoladas e ótimos efeitos visuais. Tudo começa quando Ted, um jovem de 12 anos que mora em uma cidade feliz por ter conseguido dominar o plástico como solucionador de todos os problemas e evitar assim qualquer forma de vida exceto seus moradores, incluindo gatos e cachorros. Querendo conquistar a garota dos seus sonhos, ele parte em busca de uma jornada fora da cidade para conseguir o que não existe mais na paisagem de sua cidade: uma árvore.
 

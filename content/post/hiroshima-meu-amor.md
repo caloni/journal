@@ -1,25 +1,10 @@
 ---
-date: "2015-01-09"
 imdb: "0052893"
+date: "2015-01-09"
+categories: "movies"
 title: "Hiroshima Meu Amor"
 stars: "3/5"
-categories: "movies"
-_title: "Hiroshima mon amour"
-_year: "1959"
-_director: ["Alain Resnais", ]
-_writer: ["Marguerite Duras", ]
-_cast: ["Emmanuelle Riva", "Eiji Okada", "Stella Dassas", "Pierre Barbaud", "Bernard Fresson", ]
-_countries: ["France", ]
-_languages: ["French", ]
-_editor: ["Jasmine Chasney", "Henri Colpi", "Anne Sarraute", ]
-_cinematographer: ["Michio Takahashi", "Sacha Vierny", ]
-_music: ["Georges Delerue", "Giovanni Fusco", ]
-_genres: ["Drama", ]
-_runtimes: ["90", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjMyNDYzMzU5OV5BMl5BanBnXkFtZTgwNTUxNzU4MjE@.jpg"
-_ratio: "1.37 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjMyNDYzMzU5OV5BMl5BanBnXkFtZTgwNTUxNzU4MjE@._V1._SX94_SY140_.jpg"
+desc: "Hiroshima Meu Amor. Hiroshima mon amour (France, 1959). Dirigido por Alain Resnais. Escrito por Marguerite Duras. Com Emmanuelle Riva, Eiji Okada, Stella Dassas, Pierre Barbaud, Bernard Fresson."
 ---
 Me desculpem os adoradores, mas esse é um filme supervalorizado. É a segunda vez que assisto a história dos dois amantes que se despedem por um longo dia em Hiroshima antes que ela se vá para Paris (a atriz de Amor, de Haneke). O impasse "vai ou não vai" se perpetua por longuíssimos 90 minutos, com diálogos que frequentemente também se repetem: o "não quero que se vá" vs "irei, sim" mais longo que os efeitos da bomba jogada sobre a cidade.
 

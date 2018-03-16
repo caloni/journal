@@ -1,28 +1,11 @@
 ---
-date: "2015-10-21"
-tags: [ "cabine" ]
+tags: ['cabine']
 imdb: "1051904"
-stars: "3/5"
+date: "2015-10-21"
 categories: "movies"
 title: "Goosebumps: Monstros e Arrepios"
-_title: "Goosebumps"
-_year: "2015"
-_director: ["Rob Letterman", ]
-_writer: ["Darren Lemke", "Scott Alexander", "Larry Karaszewski", "R.L. Stine", ]
-_cast: ["Jack Black", "Dylan Minnette", "Odeya Rush", "Ryan Lee", "Amy Ryan", "Jillian Bell", "Ken Marino", "Halston Sage", "Steven Krueger", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Jim May", ]
-_cinematographer: ["Javier Aguirresarobe", ]
-_music: ["Danny Elfman", ]
-_artdirection: ["Dawn Snyder", "Patrick M. Sullivan Jr.", "Andrew White", ]
-_costume designer: ["Judianna Makovsky", ]
-_genres: ["Action", ]
-_runtimes: ["103", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjA1OTUzNTQ5Ml5BMl5BanBnXkFtZTgwODQ4NDkxNjE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjA1OTUzNTQ5Ml5BMl5BanBnXkFtZTgwODQ4NDkxNjE@._V1._SX90_SY140_.jpg"
+stars: "3/5"
+desc: "Goosebumps: Monstros e Arrepios. Goosebumps (USA, 2015). Dirigido por Rob Letterman. Escrito por Darren Lemke, Scott Alexander, Larry Karaszewski, R.L. Stine. Com Jack Black, Dylan Minnette, Odeya Rush, Ryan Lee, Amy Ryan, Jillian Bell, Ken Marino, Halston Sage, Steven Krueger."
 ---
 Sim, há monstros em Goosebumps, último filme de Rob Letterman (Monstros vs Alienígenas) e que explora o universo do escritor infanto-juvenil R. L. Stine.
 

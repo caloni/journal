@@ -1,28 +1,11 @@
 ---
+tags: ['cabine']
+imdb: "1355631"
 date: "2016-08-20"
 categories: "movies"
 title: "Conexão Escobar"
-imdb: "1355631"
 stars: "5/5"
-tags: ['cabine']
-_title: "The Infiltrator"
-_year: "2016"
-_director: ["Brad Furman", ]
-_writer: ["Ellen Sue Brown", "Robert Mazur", ]
-_cast: ["Bryan Cranston", "Leanne Best", "Daniel Mays", "Tom Vaughan-Lawlor", "Niall Hayes", "Lara Decaro", "Juliet Aubrey", "Olympia Dukakis", "Amy Ryan", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Luis Carballar", "Jeff McEvoy", "David Rosenbloom", ]
-_cinematographer: ["Joshua Reis", ]
-_music: ["Chris Hajian", ]
-_artdirection: ["Karen Wakefield", ]
-_costume designer: ["Dinah Collin", ]
-_genres: ["Biography", ]
-_runtimes: ["127", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTEwNzM2NjY2MTNeQTJeQWpwZ15BbWU4MDQ3MDI3Njgx.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTEwNzM2NjY2MTNeQTJeQWpwZ15BbWU4MDQ3MDI3Njgx._V1._SX96_SY140_.jpg"
+desc: "Conexão Escobar. The Infiltrator (UK, 2016). Dirigido por Brad Furman. Escrito por Ellen Sue Brown, Robert Mazur. Com Bryan Cranston, Leanne Best, Daniel Mays, Tom Vaughan-Lawlor, Niall Hayes, Lara Decaro, Juliet Aubrey, Olympia Dukakis, Amy Ryan."
 ---
 Bryan Cranston volta a brilhar (dessa vez de verdade, não como Trumbo) em um filme que, assim como Breaking Bad, fala sobre tráfico de drogas, e assim como Breaking Bad, fala da hipocrisia do Estado, como usar o dinheiro da proibição para fazer guerra pelo mundo. E, novamente como Breaking Bad, como pessoas fazendo o que amam fazer (ou estão obcecadas) podem ir longe, bem longe do que todos imaginam.
 

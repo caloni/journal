@@ -1,26 +1,10 @@
 ---
+imdb: "1179259"
 date: "2016-07-28"
 categories: "movies"
-imdb: "1179259"
-stars: "1/5"
 title: "Colegas"
-_title: "Colegas"
-_year: "2012"
-_director: ["Marcelo Galvão", ]
-_writer: ["Marcelo Galvão", ]
-_cast: ["Ariel Goldenberg", "Rita Pokk", "Breno Viola", "Lima Duarte", "Marco Luque", "Daniel Torres", "Monaliza Marchi", "Amélia Bittencourt", "Giulia Merigo de Souza", ]
-_countries: ["Brazil", ]
-_languages: ["Portuguese", ]
-_editor: ["Marcelo Galvão", ]
-_cinematographer: ["Rodrigo Tavares", ]
-_artdirection: ["Zenor Ribas", ]
-_costume designer: ["Kiki Orona", ]
-_genres: ["Adventure", ]
-_runtimes: ["94", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTg0NzE3MjI1N15BMl5BanBnXkFtZTcwNzk4NTI4OQ@@.jpg"
-_ratio: "1.78 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTg0NzE3MjI1N15BMl5BanBnXkFtZTcwNzk4NTI4OQ@@._V1._SX93_SY140_.jpg"
+stars: "1/5"
+desc: "Colegas. Colegas (Brazil, 2012). Dirigido por Marcelo Galvão. Escrito por Marcelo Galvão. Com Ariel Goldenberg, Rita Pokk, Breno Viola, Lima Duarte, Marco Luque, Daniel Torres, Monaliza Marchi, Amélia Bittencourt, Giulia Merigo de Souza."
 ---
 Vocês percebem o potencial dramático e narrativo de um filme que usa atores com Síndrome de Down para interpretar personagens com Síndrome de Down? Percebem? Porque talvez os idealizadores de Colegas não tenham tido essa mesma visão. Aliás, o lado comercial da empreitada pode ser a principal responsável por um amontoado de caos envolvido em uma história menos que clichê: simplesmente sem sentido.
 

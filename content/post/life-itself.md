@@ -1,23 +1,10 @@
 ---
-date: "2015-03-22"
 imdb: "2382298"
-stars: "4/5"
+date: "2015-03-22"
 categories: "movies"
 title: "Life Itself"
-_title: "Life Itself"
-_year: "2014"
-_director: ["Steve James", ]
-_cast: ["Martin Scorsese", "Werner Herzog", "Ava DuVernay", "Roger Ebert", "Errol Morris", "Stephen Stanton", "Ramin Bahrani", "Steve James", "Chaz Ebert", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Steve James", "David E. Simpson", ]
-_cinematographer: ["Dana Kupper", ]
-_music: ["Joshua Abrams", ]
-_genres: ["Documentary", ]
-_runtimes: ["120", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQ2OTQzMjcxNF5BMl5BanBnXkFtZTgwMzc2Njk3MTE@.jpg"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQ2OTQzMjcxNF5BMl5BanBnXkFtZTgwMzc2Njk3MTE@._V1._SX94_SY140_.jpg"
+stars: "4/5"
+desc: "Life Itself. Life Itself (USA, 2014). Dirigido por Steve James. Com Martin Scorsese, Werner Herzog, Ava DuVernay, Roger Ebert, Errol Morris, Stephen Stanton, Ramin Bahrani, Steve James, Chaz Ebert."
 ---
 Life Itself é uma experiência divertida e monótona ao mesmo tempo. Divertida porque acompanhamos a vida de Rober Ebert -- um dos críticos mais famosos e conceituados no mundo, falecido em 2013 -- desde quando começou a escrever. E o sujeito era um... como dizer isso sem soar xulo? Porra-loca. Estava sempre no bar, saía com mulheres não-convencionais na maioria das vezes, e virou um alcóolatra crônico. Ou seja: o estereótipo de um escritor bem-sucedido.
 

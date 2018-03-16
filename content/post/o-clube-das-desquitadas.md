@@ -1,25 +1,10 @@
 ---
-date: "2013-07-01"
 imdb: "0116313"
+date: "2013-07-01"
+categories: "movies"
 title: "O Clube das Desquitadas"
 stars: "3/5"
-categories: "movies"
-_title: "The First Wives Club"
-_year: "1996"
-_director: ["Hugh Wilson", ]
-_writer: ["Olivia Goldsmith", "Robert Harling", ]
-_cast: ["Goldie Hawn", "Bette Midler", "Diane Keaton", "Maggie Smith", "Sarah Jessica Parker", "Dan Hedaya", "Stockard Channing", "Victor Garber", "Stephen Collins", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["John Bloom", ]
-_cinematographer: ["Donald E. Thorin", ]
-_music: ["Marc Shaiman", ]
-_genres: ["Comedy", ]
-_runtimes: ["103", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTI2OTE2NDkwM15BMl5BanBnXkFtZTcwODY5ODkxMQ@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTI2OTE2NDkwM15BMl5BanBnXkFtZTcwODY5ODkxMQ@@._V1._SX94_SY140_.jpg"
+desc: "O Clube das Desquitadas. The First Wives Club (USA, 1996). Dirigido por Hugh Wilson. Escrito por Olivia Goldsmith, Robert Harling. Com Goldie Hawn, Bette Midler, Diane Keaton, Maggie Smith, Sarah Jessica Parker, Dan Hedaya, Stockard Channing, Victor Garber, Stephen Collins."
 ---
 Esse é um espécime da safra de comédias românticas realizadas por atrizes já em meia-idade e que serviu de contraponto para a avalanche de divórcios que o mundo estava presenciando: o casamento não era mais sagrado. Não apenas o casamento, mas nem a orientação sexual (como a filha lésbica de Diane Keaton está lá para provar) é mais algo estável e conhecido por todos.
 

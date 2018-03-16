@@ -1,25 +1,10 @@
 ---
-date: "2014-02-13"
 imdb: "1800241"
+date: "2014-02-13"
+categories: "movies"
 title: "Trapaça"
 stars: "4/5"
-categories: "movies"
-_title: "American Hustle"
-_year: "2013"
-_director: ["David O. Russell", ]
-_writer: ["Eric Warren Singer", "David O. Russell", ]
-_cast: ["Christian Bale", "Bradley Cooper", "Amy Adams", "Jeremy Renner", "Jennifer Lawrence", "Louis C.K.", "Jack Huston", "Michael Peña", "Shea Whigham", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Alan Baumgarten", "Jay Cassidy", "Crispin Struthers", ]
-_cinematographer: ["Linus Sandgren", ]
-_music: ["Danny Elfman", ]
-_genres: ["Crime", ]
-_runtimes: ["138", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNjkxMTc0MDc4N15BMl5BanBnXkFtZTgwODUyNTI1MDE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNjkxMTc0MDc4N15BMl5BanBnXkFtZTgwODUyNTI1MDE@._V1._SX94_SY140_.jpg"
+desc: "Trapaça. American Hustle (USA, 2013). Dirigido por David O. Russell. Escrito por Eric Warren Singer, David O. Russell. Com Christian Bale, Bradley Cooper, Amy Adams, Jeremy Renner, Jennifer Lawrence, Louis C.K., Jack Huston, Michael Peña, Shea Whigham."
 ---
 Uma história baseada em acontecimentos da década de 70 não poderia deixar de incluir em sua trilha sonora clássicos badalados de uma era musicalmente ambiciosa e transcendental como aquela. Também não poderia deixar de incluir o sexo livre, uma das frentes do movimento hippie iniciado na década anterior e que já operava mudanças na estrutura social americana (discussões sobre divórcio). E, de fato, as músicas escolhidas em Trapaça, de David O. Russel (O Lado Bom da Vida), são um atrativo à parte que nos ajuda a mergulhar naquela atmosfera. Já o sexo, mais sugerido que prático, mantém a visão puritana atual (diferente dO Lobo de Wall Street, de Scorsese), mas não deixa de escandalizar ao trazer uma Amy Adams (Encantada, O Homem de Aço) completamente transformada em uma sex appeal disposta a usar suas curvas, pele e olhos como um atrativo e tanto para dezenas de olhares masculinos. Porém, o que Adams não exibe, mas sabemos no início que possui em boa dose, é sua inteligência. Diferente de Rosalyn (Jennifer Lawrence), cuja concorrência pela atenção do seu marido Irving (Christian Bale) é fisicamente e intelectualmente desleal.
 

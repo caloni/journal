@@ -1,27 +1,12 @@
 ---
-date: "2015-07-28"
-imdb: "0121955"
-stars: "5/5"
-title: "South Park"
-categories: "series"
-revision: [2015-09-15]
 tags: ['netflix', 'series', 'southpark']
-_title: "South Park"
-_year: "1997"
-_director: ["Trey Parker", "Eric Stough", "Matt Stone", ]
-_writer: ["Trey Parker", "Matt Stone", "Brian Graden", "Kyle McCulloch", "Vernon Chatman", "David R. Goodman", "Erica Rivinoja", "Pam Brady", "Nancy Pimental", ]
-_cast: ["Trey Parker", "Matt Stone", "Mona Marshall", "April Stewart", "Isaac Hayes", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Keef Bartkus", "Thomas M. Vogt", "Brian Master", "Gian Ganziano", "David List", "John M. Watson", "Todd Benson", "John Laus", ]
-_cinematographer: ["Wonnie Jung", "Kenny Gioseffi", ]
-_music: ["Scott Nickoley", "Jamie Dunlap", "Adam Berry", ]
-_genres: ["Animation", ]
-_runtimes: ["USA:22", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTI5MTYyNDU3NF5BMl5BanBnXkFtZTYwNjU1MzM5.jpg"
-_ratio: "1.33 : 1"
-_kind: "tv series"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTI5MTYyNDU3NF5BMl5BanBnXkFtZTYwNjU1MzM5._V1._SX100_SY132_.jpg"
+imdb: "0121955"
+date: "2015-07-28"
+categories: "series"
+title: "South Park"
+stars: "5/5"
+revision: [datetime.date(2015, 9, 15)]
+desc: "South Park. South Park (USA, 1997). Dirigido por Trey Parker, Eric Stough, Matt Stone. Escrito por Trey Parker, Matt Stone, Brian Graden, Kyle McCulloch, Vernon Chatman, David R. Goodman, Erica Rivinoja, Pam Brady, Nancy Pimental. Com Trey Parker, Matt Stone, Mona Marshall, April Stewart, Isaac Hayes."
 ---
 Comecei assistindo essa animação já "decanária" (10 anos?) recentemente através das temporadas disponíveis na Netflix brasileira. O resultado foi um entusiasmo tão grande e egoísta que praticamente parei o meu ritmo frenético de filmes para reservar boa parte dos meus fins de semana e noites para ir até o último capítulo disponível da versão dublada em português. Posso dizer que aprendi muito sobre a vida, o mundo, a sociedade, e mim mesmo. Cada episódio polêmico me fazia ler os detalhes sórdidos através da Wikipedia, como o clássico Trapped in the Closed, que praticamente me obrigou a rever o "episódio de despedida" de Isaac Hayes em sua versão original, um recorte hilário de dublagens passadas do ator/cantor.
 

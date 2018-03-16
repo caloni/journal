@@ -1,25 +1,10 @@
 ---
-date: "2012-01-15"
 imdb: "1847731"
+date: "2012-01-15"
+categories: "movies"
 title: "Tomboy"
 stars: "4/5"
-categories: "movies"
-_title: "Tomboy"
-_year: "2011"
-_director: ["Céline Sciamma", ]
-_writer: ["Céline Sciamma", ]
-_cast: ["Zoé Héran", "Malonn Lévana", "Jeanne Disson", "Sophie Cattani", "Mathieu Demy", "Rayan Boubekri", "Yohan Vero", "Noah Vero", "Cheyenne Lainé", ]
-_countries: ["France", ]
-_languages: ["French", ]
-_editor: ["Julien Lacheray", ]
-_cinematographer: ["Crystel Fournier", ]
-_music: ["Jean-Baptiste de Laubier", ]
-_genres: ["Drama", ]
-_runtimes: ["82", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQ2MTI2OTEwNF5BMl5BanBnXkFtZTcwODUwMzc3Ng@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQ2MTI2OTEwNF5BMl5BanBnXkFtZTcwODUwMzc3Ng@@._V1._SX94_SY140_.jpg"
+desc: "Tomboy. Tomboy (France, 2011). Dirigido por Céline Sciamma. Escrito por Céline Sciamma. Com Zoé Héran, Malonn Lévana, Jeanne Disson, Sophie Cattani, Mathieu Demy, Rayan Boubekri, Yohan Vero, Noah Vero, Cheyenne Lainé."
 ---
 Tomboy de início possui uma inusitada premissa: narrar a vida e as dificuldades de Laure, uma garota que, andrógina, possui a aparência de menino. Focando-se nisso de maneira sutil, ainda que nos deixe perceber as intenções e pensamentos da jovem Laure, ainda que sem diálogos, o filme faz questão de sempre nos fornecer aconchego externo, de forma que nunca nos sentimos realmente desamparados pela condição da garota, que possui pais compreensivos e atenciosos, além de uma adorável irmã mais nova.
 

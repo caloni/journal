@@ -1,27 +1,10 @@
 ---
+imdb: "3498820"
 date: "2016-05-31"
 categories: "movies"
-imdb: "3498820"
-stars: "3/5"
 title: "Capitão América: Guerra Civil"
-_title: "Captain America: Civil War"
-_year: "2016"
-_director: ["Anthony Russo", "Joe Russo", ]
-_writer: ["Christopher Markus", "Stephen McFeely", "Mark Millar", "Joe Simon", "Jack Kirby", ]
-_cast: ["Chris Evans", "Robert Downey Jr.", "Scarlett Johansson", "Sebastian Stan", "Anthony Mackie", "Don Cheadle", "Jeremy Renner", "Chadwick Boseman", "Paul Bettany", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Jeffrey Ford", "Matthew Schmidt", ]
-_cinematographer: ["Trent Opaloch", ]
-_music: ["Henry Jackman", ]
-_artdirection: ["Greg Berry", "Gregory S. Hooper", "David Scott", ]
-_costume designer: ["Judianna Makovsky", ]
-_genres: ["Action", ]
-_runtimes: ["147", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjQ0MTgyNjAxMV5BMl5BanBnXkFtZTgwNjUzMDkyODE@.jpg"
-_ratio: "1.90 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjQ0MTgyNjAxMV5BMl5BanBnXkFtZTgwNjUzMDkyODE@._V1._SX94_SY140_.jpg"
+stars: "3/5"
+desc: "Capitão América: Guerra Civil. Captain America: Civil War (USA, 2016). Dirigido por Anthony Russo, Joe Russo. Escrito por Christopher Markus, Stephen McFeely, Mark Millar, Joe Simon, Jack Kirby. Com Chris Evans, Robert Downey Jr., Scarlett Johansson, Sebastian Stan, Anthony Mackie, Don Cheadle, Jeremy Renner, Chadwick Boseman, Paul Bettany."
 ---
 Esse não é um filme do Capitão América. Mas acho que todos vocês já estão acostumados com esses títulos bizarros e tão insignificantes quanto a história que é apresentada. Desde seu filme solo, o personagem interpretado por Chris Evans quase nunca consegue manter as rédeas de um protagonista. Quando está com os Vingadores, então, particularmente com o Homem de Ferro (Robert Downey Jr.), essa suposta "protagonice" some completamente. Stark, aliás, está bem sóbrio, e quase lembra o governo Bush em seus discursos de guerra (se não estivéssemos aqui falando, é claro, de qualquer governo).
 

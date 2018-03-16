@@ -1,28 +1,11 @@
 ---
-date: "2015-12-05"
-imdb: "2085059"
-stars: "5/5"
-title: "Black Mirror - The Waldo Moment"
-categories: "blog"
-date: "2015-12-13"
 tags: ['netflix', 'blackmirror', 'series']
-_title: "Black Mirror"
-_year: "2011"
-_director: ["Carl Tibbetts", ]
-_writer: ["Charlie Brooker", ]
-_cast: ["Bryony Neylan-Francis", "Shawn Aldin-Burnett", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Ben Yeates", ]
-_cinematographer: ["Zac Nicholson", ]
-_music: ["Jon Opstad", ]
-_artdirection: ["Caroline Barclay", "Robyn Paiba", ]
-_costume designer: ["Edward K. Gibbon", "Jane Petrie", ]
-_genres: ["Drama", ]
-_runtimes: ["60", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTk5NTk1Mzg3Ml5BMl5BanBnXkFtZTcwNDAyNzY3OA@@._V1._CR25,3,1010,1343._SX100_SY133_.jpg"
-_kind: "tv series"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTk5NTk1Mzg3Ml5BMl5BanBnXkFtZTcwNDAyNzY3OA@@._V1._CR25,3,1010,1343._SX100_SY133_.jpg"
+imdb: "2085059"
+date: "2015-12-13"
+categories: "blog"
+title: "Black Mirror - The Waldo Moment"
+stars: "5/5"
+desc: "Black Mirror - The Waldo Moment. Black Mirror (UK, 2011). Dirigido por Carl Tibbetts. Escrito por Charlie Brooker. Com Bryony Neylan-Francis, Shawn Aldin-Burnett."
 ---
 Black Mirror é uma série que explora o que há de pior em nossa era da comunicação instantânea e da tecnologia crescente. Na verdade, eles vão um pouco além da nossa realidade atual, avançando alguns anos/décadas, onde algumas novidades brincam com nosso conceito de humanidade e relacionamentos, mídia e governos.
 

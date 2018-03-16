@@ -1,25 +1,10 @@
 ---
-date: "2014-03-25"
 imdb: "1253863"
+date: "2014-03-25"
+categories: "movies"
 title: "300 A Ascensão do Império"
 stars: "2/5"
-categories: "movies"
-_title: "300: Rise of an Empire"
-_year: "2014"
-_director: ["Noam Murro", ]
-_writer: ["Zack Snyder", "Kurt Johnstad", "Frank Miller", ]
-_cast: ["Sullivan Stapleton", "Eva Green", "Lena Headey", "Hans Matheson", "Callan Mulvey", "David Wenham", "Rodrigo Santoro", "Jack O'Connell", "Andrew Tiernan", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["David Brenner", "Wyatt Smith", ]
-_cinematographer: ["Simon Duggan", ]
-_music: ["Junkie XL", ]
-_genres: ["Action", ]
-_runtimes: ["102", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTEwNTU2MjAwMDdeQTJeQWpwZ15BbWU3MDk2Njc2Njk@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTEwNTU2MjAwMDdeQTJeQWpwZ15BbWU3MDk2Njc2Njk@._V1._SX95_SY140_.jpg"
+desc: "300 A Ascensão do Império. 300: Rise of an Empire (USA, 2014). Dirigido por Noam Murro. Escrito por Zack Snyder, Kurt Johnstad, Frank Miller. Com Sullivan Stapleton, Eva Green, Lena Headey, Hans Matheson, Callan Mulvey, David Wenham, Rodrigo Santoro, Jack O'Connell, Andrew Tiernan."
 ---
 Esse é um filme nitidamente encomendado para pegar carona no sucesso do original de Zack Snyder (que dirigiu o primeiro "300" e assina o roteiro deste novo) talvez principalmente baseado em seu público potencial, que aparentemente sente prazer em ver pessoas musculosas arrancando sangue de pessoas/bonecos genéricos em câmera lenta. Tudo de forma estilizada, é claro, mas, dessa vez, sem o preciosismo visual que tornava seu antecessor tão fascinante visualmente.
 

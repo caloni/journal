@@ -1,25 +1,10 @@
 ---
-date: "2010-09-10"
 imdb: "1322312"
+date: "2010-09-10"
+categories: "movies"
 title: "Amor à Distância"
 stars: "3/5"
-categories: "movies"
-_title: "Going the Distance"
-_year: "2010"
-_director: ["Nanette Burstein", ]
-_writer: ["Geoff LaTulippe", ]
-_cast: ["Drew Barrymore", "Justin Long", "Charlie Day", "Jason Sudeikis", "Christina Applegate", "Ron Livingston", "Oliver Jackson-Cohen", "Jim Gaffigan", "Natalie Morales", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Peter Teschner", ]
-_cinematographer: ["Eric Steelberg", ]
-_music: ["Mychael Danna", ]
-_genres: ["Comedy", ]
-_runtimes: ["USA:102", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjQ1ODUyMjk5N15BMl5BanBnXkFtZTcwMjAxOTE2Mw@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjQ1ODUyMjk5N15BMl5BanBnXkFtZTcwMjAxOTE2Mw@@._V1._SX95_SY140_.jpg"
+desc: "Amor à Distância. Going the Distance (USA, 2010). Dirigido por Nanette Burstein. Escrito por Geoff LaTulippe. Com Drew Barrymore, Justin Long, Charlie Day, Jason Sudeikis, Christina Applegate, Ron Livingston, Oliver Jackson-Cohen, Jim Gaffigan, Natalie Morales."
 ---
 Os personagens desse filme vivem citando filmes, como na cena em que o protagonista imita Morgan Freeman em "Um Sonho de Liberdade". Com essa cena podemos dizer que o filme não é nada original, e usa referências à toa.
 

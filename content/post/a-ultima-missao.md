@@ -1,9 +1,10 @@
 ---
-date: 2018-01-17T21:21:21-02:00
-title: "A Última Missão"
-categories: "movies"
+date: 2018-01-17T23:21:21
 imdb: "0070290"
+categories: "movies"
 stars: "4/5"
+title: "A Última Missão"
+desc: "A Última Missão."
 ---
 Assistir esse filme dá um gostinho de sair com os amigos, e por estar com eles, poder ser um babaca algumas vezes, e em outras tentar fazer a coisa certa. Este filme é sobre errar e lamentar sobre os erros quieto e não roubar os sonhos dos outros. Este filme é sobre como seres humanos se conectam facilmente, onde uma semana passa voando e como mesmo assim ela se torna inesquecível.
 

@@ -1,16 +1,10 @@
 ---
-date: "2017-01-12"
-categories: "blog"
+tags: ['youtube', 'curtas']
 title: "Vidas de Carolina"
 stars: "3/5"
-tags: ["youtube", "curtas"]
-_director: ["Jessica Queiroz", ]
-_writer: ["Jessica Queiroz", ]
-_year: "2013"
-_cast: ["Carolina Maria de Jesus", "Débora Garcia", "Audálio Dantas", "Benedita Barbosa", "Benedita Rodrigues", "Vera Eunice", ]
-_editor: ["Priscila Matos", "Jéssica Queiroz", ]
-_music: ["Rodrigo Matos", ]
-
+date: "2017-01-12"
+categories: "blog"
+desc: "Vidas de Carolina. Dirigido por Jessica Queiroz. Escrito por Jessica Queiroz. Com Carolina Maria de Jesus, Débora Garcia, Audálio Dantas, Benedita Barbosa, Benedita Rodrigues, Vera Eunice."
 ---
 O curta documental Vidas de Carolina é o primeiro trabalho da diretora Jessica Queiroz. Ele aborda a vida de uma catadora de lixo reciclável e seu talento para a narrativa. A ideia era mostrar que a capacidade pode vir de qualquer lugar e que muitos não conseguem reconhecimento por falta de oportunidade.
 

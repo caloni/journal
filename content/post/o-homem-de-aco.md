@@ -1,26 +1,11 @@
 ---
-date: "2013-07-13"
+tags: ['cinema', 'dceu']
 imdb: "0770828"
+date: "2013-07-13"
+categories: "movies"
 title: "O Homem de Aço"
 stars: "3/5"
-categories: "movies"
-tags: ['cinema', 'dceu']
-_title: "Man of Steel"
-_year: "2013"
-_director: ["Zack Snyder", ]
-_writer: ["David S. Goyer", "David S. Goyer", "Christopher Nolan", "Jerry Siegel", "Joe Shuster", ]
-_cast: ["Henry Cavill", "Amy Adams", "Michael Shannon", "Diane Lane", "Russell Crowe", "Antje Traue", "Harry Lennix", "Richard Schiff", "Christopher Meloni", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["David Brenner", ]
-_cinematographer: ["Amir Mokri", ]
-_music: ["Hans Zimmer", ]
-_genres: ["Action", ]
-_runtimes: ["143", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjI5OTYzNjI0Ml5BMl5BanBnXkFtZTcwMzM1NDA1OQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjI5OTYzNjI0Ml5BMl5BanBnXkFtZTcwMzM1NDA1OQ@@._V1._SX96_SY140_.jpg"
+desc: "O Homem de Aço. Man of Steel (USA, 2013). Dirigido por Zack Snyder. Escrito por David S. Goyer, David S. Goyer, Christopher Nolan, Jerry Siegel, Joe Shuster. Com Henry Cavill, Amy Adams, Michael Shannon, Diane Lane, Russell Crowe, Antje Traue, Harry Lennix, Richard Schiff, Christopher Meloni."
 ---
 "Nós vamos lutar até um de nós morrer." E obviamente é o que eles fazem. A falta de complexidade aliada à ação desenfreada chega a cansar, e o fato de tanto Zod (Michael Shannon) quanto Superman (Henry Cavill) partirem para a violência gratuita revela mais sobre o último do que sobre o primeiro, programado desde a concepção para guerrear pelo seu povo. Chega a ser um quase insulto que o filho do cientista Jor-El se limite a imitá-lo. Justo ele, que foi um bebê "concebido naturalmente", o que inteligentemente levanta algumas questões sobre livre-arbítrio que nunca são desenvolvidas. Não é sensato que o filme queira que odiemos Zod por ser uma pessoa que quer reconstruir seu povo  e nesse sentido ele falha como vilão temeroso que Zack Snyder parece acreditar que ele seja  mas podemos sim nos sentir frustrados pela aparente indecisão do Homem de Aço em confrontá-lo.
 

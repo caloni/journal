@@ -1,29 +1,11 @@
 ---
+tags: ['cinema']
+imdb: "5442430"
 date: "2017-04-24"
 categories: "movies"
 title: "Vida"
-imdb: "5442430"
 stars: "3/5"
-tags: ['cinema']
-_title: "Life"
-_year: "2017"
-_director: ["Daniel Espinosa", ]
-_writer: ["Rhett Reese", "Paul Wernick", ]
-_cast: ["Hiroyuki Sanada (Sho Murakami)", "Ryan Reynolds (Rory Adams)", "Rebecca Ferguson (Miranda North)", "Jake Gyllenhaal (David Jordan)", "Olga Dihovichnaya (Ekaterina Golovkina)", "Ariyon Bakare (Hugh Derry)", "Jesus Del Orden (Student 2)", "Allen McLean (Student 1)", "Leila Grace Bostwick-Riddell (Student 3)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Mary Jo Markey", "Frances Parker", ]
-_cinematographer: ["Seamus McGarvey", ]
-_music: ["Jon Ekstrand", ]
-_artdirection: ["Steven Lawrence", ]
-_costume designer: ["Jenny Beavan", ]
-_genres: ["Horror", ]
-_runtimes: ["104", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMzAwMmQxNTctYjVmYi00MDdlLWEzMWUtOTE5NTRiNDhhNjI2L2ltYWdlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMzAwMmQxNTctYjVmYi00MDdlLWEzMWUtOTE5NTRiNDhhNjI2L2ltYWdlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1._SX94_SY140_.jpg"
-_releasedate: "20 April 2017"
+desc: "Vida. Life (USA, 2017). Dirigido por Daniel Espinosa. Escrito por Rhett Reese, Paul Wernick. Com Hiroyuki Sanada (Sho Murakami), Ryan Reynolds (Rory Adams), Rebecca Ferguson (Miranda North), Jake Gyllenhaal (David Jordan), Olga Dihovichnaya (Ekaterina Golovkina), Ariyon Bakare (Hugh Derry), Jesus Del Orden (Student 2), Allen McLean (Student 1), Leila Grace Bostwick-Riddell (Student 3)."
 ---
 Esta é uma releitura de "Alien, o Oitavo Passageiro" que parece mais realista, ou pelo menos mais próxima de nossa realidade. De toda forma, ela apresenta duas mudanças principais. Primeiro retira aquela impressão de que um alienígena está sendo propositadamente mal, já que analisa com muita propriedade que toda vida tem que matar para continuar vivendo. Segundo, não conseguindo conter o terror dentro da faceta dramática e grandiosa do enredo, o filme vai apelando pontualmente para o trash de bom orçamento, até se entregar de vez ao caricato. Isso gera surpresas na medida em que um filme decide fazer pouco dele mesmo pelo bem da brincadeira. Mas não é tanta surpresa se considerarmos que um dos primeiros diálogos cita o filme A Noite dos Mortos Vivos um clássico terror de zumbis.
 

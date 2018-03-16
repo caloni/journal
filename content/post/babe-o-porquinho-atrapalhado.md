@@ -1,25 +1,10 @@
 ---
-date: "2012-01-30"
 imdb: "0112431"
+date: "2012-01-30"
+categories: "movies"
 title: "Babe O Porquinho Atrapalhado"
 stars: "5/5"
-categories: "movies"
-_title: "Babe"
-_year: "1995"
-_director: ["Chris Noonan", ]
-_writer: ["Dick King-Smith", "George Miller", "Chris Noonan", ]
-_cast: ["Christine Cavanaugh", "Miriam Margolyes", "Danny Mann", "Hugo Weaving", "Miriam Flynn", "Russi Taylor", "Evelyn Krape", "Michael Edward-Stevens", "Charles Bartlett", ]
-_countries: ["Australia", ]
-_languages: ["English", ]
-_editor: ["Marcus D'Arcy", "Jay Friedkin", ]
-_cinematographer: ["Andrew Lesnie", ]
-_music: ["Nigel Westlake", ]
-_genres: ["Comedy", ]
-_runtimes: ["91", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTIwNzY2OTIzN15BMl5BanBnXkFtZTcwNjcxODAzMQ@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTIwNzY2OTIzN15BMl5BanBnXkFtZTcwNjcxODAzMQ@@._V1._SX100_SY139_.jpg"
+desc: "Babe O Porquinho Atrapalhado. Babe (Australia, 1995). Dirigido por Chris Noonan. Escrito por Dick King-Smith, George Miller, Chris Noonan. Com Christine Cavanaugh, Miriam Margolyes, Danny Mann, Hugo Weaving, Miriam Flynn, Russi Taylor, Evelyn Krape, Michael Edward-Stevens, Charles Bartlett."
 ---
 Babe tem ares de ser um filme bonitinho e família. Afinal de contas, por quase todo o tempo vemos animais falantes interagindo e contando a história do porquinho e suas "trapalhadas". Porém, escondido nessa fábula moderna, e como toda fábula que se preza, o pano de fundo nos remete a discussões muito mais profundas e adultas, como o preconceito e a aceitação do diferente, além de também remeter ao Revolução dos Bichos, de George Orwell, por estabelecer também uma sociedade de animais com funções pré-definidas de acordo com sua espécie e uma certa pressão para a imobilidade social.
 

@@ -1,26 +1,10 @@
 ---
-date: "2016-01-17"
 imdb: "2452042"
-stars: "5/5"
+date: "2016-01-17"
 categories: "movies"
 title: "Snoopy & Charlie Brown: Peanuts, o Filme"
-_title: "The Peanuts Movie"
-_year: "2015"
-_director: ["Steve Martino", ]
-_writer: ["Bryan Schulz", "Craig Schulz", "Cornelius Uliano", "Charles M. Schulz", ]
-_cast: ["Trombone Shorty", "Rebecca Bloom", "Anastasia Bredikhina", "Francesca Capaldi", "Kristin Chenoweth", "Alexander Garfin", "Noah Johnston", "Bill Melendez", "Hadley Belle Miller", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Christopher Campbell", "Randy Trager", ]
-_cinematographer: ["Renato Falcão", ]
-_music: ["Christophe Beck", ]
-_artdirection: ["Nash Dunnigan", ]
-_genres: ["Animation", ]
-_runtimes: ["USA:88", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTU1MzAxOTY2MV5BMl5BanBnXkFtZTgwNzYzMzM5NTE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTU1MzAxOTY2MV5BMl5BanBnXkFtZTgwNzYzMzM5NTE@._V1._SX94_SY140_.jpg"
+stars: "5/5"
+desc: "Snoopy & Charlie Brown: Peanuts, o Filme. The Peanuts Movie (USA, 2015). Dirigido por Steve Martino. Escrito por Bryan Schulz, Craig Schulz, Cornelius Uliano, Charles M. Schulz. Com Trombone Shorty, Rebecca Bloom, Anastasia Bredikhina, Francesca Capaldi, Kristin Chenoweth, Alexander Garfin, Noah Johnston, Bill Melendez, Hadley Belle Miller."
 ---
 O menino tenta empinar sua pipa; sempre sem sucesso; e ele nunca desiste. Passa o tempo. Agora uma pipa empina um homem; que aprendeu que seus maiores valores encontram-se dentro de si mesmo; e ninguém é capaz de tirar isso dele. Entre esses dois estados da natureza de uma pessoa há um filme extraordinariamente depressivo que, ainda assim, pode e deve ser considerado infantil. Ele evoca a criança deprimida e tímida dentro de cada um de nós; sejam ainda crianças ou já crescidas. Incertos a respeito dos outros, de todos os outros que com nós habitam essa realidade, esse mundo sempre será essa eterna sala de aula. Gostaríamos de sermos aceitos para que conseguíssemos ter um pouco de autoestima. Não é pedir muito: "Se pelo menos, uma vez apenas, eu conseguisse empinar essa pipa..."
 

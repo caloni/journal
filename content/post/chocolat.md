@@ -1,27 +1,11 @@
 ---
-date: "2016-06-03"
-tags: [ "cabine" ]
-categories: "movies"
+tags: ['cabine']
 imdb: "4400038"
-stars: "4/5"
+date: "2016-06-03"
+categories: "movies"
 title: "Chocolat"
-_title: "Chocolat"
-_year: "2015"
-_director: ["Roschdy Zem", ]
-_writer: ["Cyril Gely", "Olivier Gorce", "Gérard Noiriel", "Roschdy Zem", ]
-_cast: ["Omar Sy", "James Thierrée", "Clotilde Hesme", "Olivier Gourmet", "Frédéric Pierrot", "Noémie Lvovsky", "Alice de Lencquesaing", "Alex Descas", "Olivier Rabourdin", ]
-_countries: ["France", ]
-_languages: ["French", ]
-_editor: ["Monica Coleman", ]
-_cinematographer: ["Thomas Letellier", ]
-_music: ["Gabriel Yared", ]
-_costume designer: ["Pascaline Chavanne", ]
-_genres: ["Drama", ]
-_runtimes: ["110", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMDUzYjdiYzAtMWIzNS00ZWFjLWIyZmEtZjM5NjJjNTZkOGUzXkEyXkFqcGdeQXVyNTY0OTgzMzU@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMDUzYjdiYzAtMWIzNS00ZWFjLWIyZmEtZjM5NjJjNTZkOGUzXkEyXkFqcGdeQXVyNTY0OTgzMzU@._V1._SX100_SY136_.jpg"
+stars: "4/5"
+desc: "Chocolat. Chocolat (France, 2015). Dirigido por Roschdy Zem. Escrito por Cyril Gely, Olivier Gorce, Gérard Noiriel, Roschdy Zem. Com Omar Sy, James Thierrée, Clotilde Hesme, Olivier Gourmet, Frédéric Pierrot, Noémie Lvovsky, Alice de Lencquesaing, Alex Descas, Olivier Rabourdin."
 ---
 Mas é óbvio que é sobre racismo. Mas não é aquele racismo simplinho, com lição de moral e tudo. É um racismo bem parrudo, que discute não a visão socialista da coisa, partindo da coletividade. Até porque à essa altura do campeonato nós já sabemos que a coletividade sempre será ignorante quando se comporta como massa (e até por isso uma visão socialista seria também ignorante, por tabela). Não. Este é um filme que fala do indivíduo, de seu crescimento pessoal, e também fala do humor, e da sua evolução. Essa evolução começou graças a uma dupla de palhaços que se uniram, um branco, outro preto, e a partir daí o mundo do circo nunca mais foi o mesmo.
 

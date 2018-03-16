@@ -1,25 +1,10 @@
 ---
-date: "2011-08-17"
 imdb: "1499658"
+date: "2011-08-17"
+categories: "movies"
 title: "Quero Matar Meu Chefe"
 stars: "3/5"
-categories: "movies"
-_title: "Horrible Bosses"
-_year: "2011"
-_director: ["Seth Gordon", ]
-_writer: ["Michael Markowitz", "John Francis Daley", "Jonathan M. Goldstein", "Michael Markowitz", ]
-_cast: ["Jason Bateman", "Steve Wiebe", "Kevin Spacey", "Charlie Day", "Lindsay Sloane", "Michael Albala", "Jennifer Aniston", "Jason Sudeikis", "Jennifer Hasty", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Peter Teschner", ]
-_cinematographer: ["David Hennings", ]
-_music: ["Christopher Lennertz", ]
-_genres: ["Comedy", ]
-_runtimes: ["USA:98", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNzYxNDI5Njc5NF5BMl5BanBnXkFtZTcwMDUxODE1NQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNzYxNDI5Njc5NF5BMl5BanBnXkFtZTcwMDUxODE1NQ@@._V1._SX95_SY140_.jpg"
+desc: "Quero Matar Meu Chefe. Horrible Bosses (USA, 2011). Dirigido por Seth Gordon. Escrito por Michael Markowitz, John Francis Daley, Jonathan M. Goldstein, Michael Markowitz. Com Jason Bateman, Steve Wiebe, Kevin Spacey, Charlie Day, Lindsay Sloane, Michael Albala, Jennifer Aniston, Jason Sudeikis, Jennifer Hasty."
 ---
 Muitas pessoas com certeza rirão das piadas sobre trabalho, sexo e racismo de Quero Matar Meu Chefe, tradução não-literal de Horrible Bosses (Chefes Horríveis, o que não melhora muito as coisas). Novo trabalho de Seth Gordon (Surpresas do Amor e umas pontas em The Office e Community), o longa reúne mais talentos cômicos do que supostamente ele conseguirá no resto de sua vida como diretor.
 

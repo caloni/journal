@@ -1,28 +1,11 @@
 ---
+tags: ['paulocoelho', 'oscar']
+imdb: "4034228"
 date: "2017-02-13"
 categories: "movies"
 title: "Manchester À Beira-Mar"
-imdb: "4034228"
 stars: "4/5"
-tags: ['paulocoelho', 'oscar']
-_title: "Manchester by the Sea"
-_year: "2016"
-_director: ["Kenneth Lonergan", ]
-_writer: ["Kenneth Lonergan", ]
-_cast: ["Casey Affleck (Lee Chandler)", "Ben O'Brien (Young Patrick)", "Kyle Chandler (Joe Chandler)", "Richard Donelly (Mr. Martinez)", "Virginia Loring Cooke (Mrs. Groom)", "Quincy Tyler Bernstine (Marianne)", "Missy Yager (Mrs. Olsen)", "Stephen Henderson (Mr. Emery)", "Ben Hanson (Lenny - the bartender)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Jennifer Lame", ]
-_cinematographer: ["Jody Lee Lipes", ]
-_music: ["Lesley Barber", ]
-_artdirection: ["Jourdan Henderson", ]
-_costume designer: ["Melissa Toth", ]
-_genres: ["Drama", ]
-_runtimes: ["137", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYxMjk0NDg4Ml5BMl5BanBnXkFtZTgwODcyNjA5OTE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYxMjk0NDg4Ml5BMl5BanBnXkFtZTgwODcyNjA5OTE@._V1._SX94_SY140_.jpg"
+desc: "Manchester À Beira-Mar. Manchester by the Sea (USA, 2016). Dirigido por Kenneth Lonergan. Escrito por Kenneth Lonergan. Com Casey Affleck (Lee Chandler), Ben O'Brien (Young Patrick), Kyle Chandler (Joe Chandler), Richard Donelly (Mr. Martinez), Virginia Loring Cooke (Mrs. Groom), Quincy Tyler Bernstine (Marianne), Missy Yager (Mrs. Olsen), Stephen Henderson (Mr. Emery), Ben Hanson (Lenny - the bartender)."
 ---
 Este é um filme que se constrói inteiro na performance do seu ator principal, Casey Affleck, que estabelece um protagonista (Lee Chandler) traumatizado com um realismo que só consegue ser sentido no seu último momento na companhia de sua ex-esposa (uma Michelle Williams igualmente competente e com muito menos tempo de tela). Também é um filme que te leva fácil, pois tem uma história fácil para contar. São as entrelinhas que interessam, e se fossem um pouquinho mais grossas dariam um filmaço. Mas o filme prefere ser ele mesmo e se tornar com isso impecável.
 

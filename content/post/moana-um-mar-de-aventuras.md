@@ -1,25 +1,11 @@
 ---
+tags: ['cinema', 'oscar']
+imdb: "3521164"
 date: "2017-01-07"
 categories: "movies"
 title: "Moana: Um Mar de Aventuras"
-imdb: "3521164"
 stars: "5/5"
-tags: ['cinema', 'oscar']
-_title: "Moana"
-_year: "2016"
-_director: ["Ron Clements", "Don Hall", "John Musker", "Chris Williams", ]
-_writer: ["Jared Bush", "Ron Clements", "John Musker", "Chris Williams", "Don Hall", "Pamela Ribon", "Aaron Kandell", "Jordan Kandell", ]
-_cast: ["Auli'i Cravalho (Moana)", "Dwayne Johnson (Maui)", "Rachel House (Gramma Tala)", "Temuera Morrison (Chief Tui)", "Jemaine Clement (Tamatoa)", "Nicole Scherzinger (Sina)", "Alan Tudyk (Heihei / Villager #3)", "Oscar Kightley (Fisherman)", "Troy Polamalu (Villager #1)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Jeff Draheim", ]
-_music: ["Opetaia Foa'i", "Mark Mancina", "Mark Mancina", "Lin-Manuel Miranda", ]
-_genres: ["Animation", ]
-_runtimes: ["107", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjI4MzU5NTExNF5BMl5BanBnXkFtZTgwNzY1MTEwMDI@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjI4MzU5NTExNF5BMl5BanBnXkFtZTgwNzY1MTEwMDI@._V1._SX94_SY140_.jpg"
+desc: "Moana: Um Mar de Aventuras. Moana (USA, 2016). Dirigido por Ron Clements, Don Hall, John Musker, Chris Williams. Escrito por Jared Bush, Ron Clements, John Musker, Chris Williams, Don Hall, Pamela Ribon, Aaron Kandell, Jordan Kandell. Com Auli'i Cravalho (Moana), Dwayne Johnson (Maui), Rachel House (Gramma Tala), Temuera Morrison (Chief Tui), Jemaine Clement (Tamatoa), Nicole Scherzinger (Sina), Alan Tudyk (Heihei / Villager #3), Oscar Kightley (Fisherman), Troy Polamalu (Villager #1)."
 ---
 É fascinante constatar como os trabalhos anteriores da equipe de criação da Disney servem de pavimento para criações cada vez mais ambiciosas. E aqui o ponto alto de Frozen, quando Elsa se transforma no que sempre foi, vira um simples rascunho da força da música de Maoma, onde ela não apenas identifica (e assume) quem realmente é, mas quem seu povo deve ser. Em ambos é a força do indivíduo que prevalece, mas só na segunda essa força ganha um panorama dentro de uma comunidade, da sua história e tradição e, principalmente, de sua própria sobrevivência.
 

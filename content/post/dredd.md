@@ -1,25 +1,10 @@
 ---
-date: "2012-10-05"
 imdb: "1343727"
+date: "2012-10-05"
+categories: "movies"
 title: "Dredd"
 stars: "4/5"
-categories: "movies"
-_title: "Dredd"
-_year: "2012"
-_director: ["Pete Travis", ]
-_writer: ["John Wagner", "Carlos Ezquerra", "Alex Garland", ]
-_cast: ["Karl Urban", "Rachel Wood", "Andile Mngadi", "Porteus Xandau", "Jason Cope", "Emma Breschi", "Olivia Thirlby", "Rakie Ayola", "Lena Headey", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Mark Eckersley", ]
-_cinematographer: ["Anthony Dod Mantle", ]
-_music: ["Paul Leonard-Morgan", ]
-_genres: ["Action", ]
-_runtimes: ["95", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BODkyNDQzMzUzOF5BMl5BanBnXkFtZTcwODYyMDEyOA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BODkyNDQzMzUzOF5BMl5BanBnXkFtZTcwODYyMDEyOA@@._V1._SX94_SY140_.jpg"
+desc: "Dredd. Dredd (UK, 2012). Dirigido por Pete Travis. Escrito por John Wagner, Carlos Ezquerra, Alex Garland. Com Karl Urban, Rachel Wood, Andile Mngadi, Porteus Xandau, Jason Cope, Emma Breschi, Olivia Thirlby, Rakie Ayola, Lena Headey."
 ---
 Os juízes do futuro pós-apocalíptico em Dredd utilizam apenas duas ferramentas para fazer valer a ordem: uma pistola com diversos tipos de disparo e uma interpretação literal das leis. Olhamos essa realidade através do implacável juiz que empresta seu nome ao título, que em suas rondas se limita a aplicar a sentença cabível aos criminosos, incluindo aí a pena de morte. Sua decisão do que fazer a seguir é a resposta da pergunta como posso melhor julgar este caso.
 

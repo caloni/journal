@@ -1,26 +1,10 @@
 ---
-date: "2015-12-12"
 imdb: "0066765"
-stars: "3/5"
+date: "2015-12-12"
 categories: "movies"
 title: "E Agora para Algo Completamente Diferente"
-_title: "And Now for Something Completely Different"
-_year: "1971"
-_director: ["Ian MacNaughton", ]
-_writer: ["Graham Chapman", "John Cleese", "Terry Gilliam", "Eric Idle", "Terry Jones", "Michael Palin", ]
-_cast: ["Graham Chapman", "John Cleese", "Terry Gilliam", "Eric Idle", "Terry Jones", "Michael Palin", "Carol Cleveland", "Connie Booth", "Lewis Alexander", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Thom Noble", ]
-_cinematographer: ["David Muir", ]
-_music: ["Douglas Gamley", ]
-_artdirection: ["Colin Grimes", ]
-_genres: ["Comedy", ]
-_runtimes: ["88", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjA0NjE3NDA2NF5BMl5BanBnXkFtZTcwMzgzNDUyMQ@@._V1._CR42,56,254,355._SX100_SY140_.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjA0NjE3NDA2NF5BMl5BanBnXkFtZTcwMzgzNDUyMQ@@._V1._CR42,56,254,355._SX100_SY140_.jpg"
+stars: "3/5"
+desc: "E Agora para Algo Completamente Diferente. And Now for Something Completely Different (UK, 1971). Dirigido por Ian MacNaughton. Escrito por Graham Chapman, John Cleese, Terry Gilliam, Eric Idle, Terry Jones, Michael Palin. Com Graham Chapman, John Cleese, Terry Gilliam, Eric Idle, Terry Jones, Michael Palin, Carol Cleveland, Connie Booth, Lewis Alexander."
 ---
 Esse filme é uma compilação de quadros do programa televisivo do grupo de humoristas Monty Pyhton, e por incrível que pareça o conjunto da obra é menor do que a soma das suas clássicas piadas, talvez por não ser um filme de verdade e por exagerar o bizarro e surreal.
 

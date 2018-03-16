@@ -1,25 +1,10 @@
 ---
-date: "2015-06-24"
 imdb: "0369610"
-stars: "4/5"
+date: "2015-06-24"
 categories: "movies"
 title: "Jurassic World: O Mundo dos Dinossauros"
-_title: "Jurassic World"
-_year: "2015"
-_director: ["Colin Trevorrow", ]
-_writer: ["Rick Jaffa", "Amanda Silver", "Colin Trevorrow", "Derek Connolly", "Rick Jaffa", "Amanda Silver", "Michael Crichton", ]
-_cast: ["Chris Pratt", "Bryce Dallas Howard", "Vincent D'Onofrio", "Ty Simpkins", "Irrfan Khan", "Nick Robinson", "Jake Johnson", "Omar Sy", "BD Wong", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Kevin Stitt", ]
-_cinematographer: ["John Schwartzman", ]
-_music: ["Michael Giacchino", ]
-_genres: ["Action", ]
-_runtimes: ["124", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQ5MTE0MTk3Nl5BMl5BanBnXkFtZTgwMjczMzk2NTE@.jpg"
-_ratio: "2.00 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQ5MTE0MTk3Nl5BMl5BanBnXkFtZTgwMjczMzk2NTE@._V1._SX88_SY140_.jpg"
+stars: "4/5"
+desc: "Jurassic World: O Mundo dos Dinossauros. Jurassic World (USA, 2015). Dirigido por Colin Trevorrow. Escrito por Rick Jaffa, Amanda Silver, Colin Trevorrow, Derek Connolly, Rick Jaffa, Amanda Silver, Michael Crichton. Com Chris Pratt, Bryce Dallas Howard, Vincent D'Onofrio, Ty Simpkins, Irrfan Khan, Nick Robinson, Jake Johnson, Omar Sy, BD Wong."
 ---
 A trilha sonora de John Williams é bem aproveitada nessa continuação de emoções de Jurassic Park, mais de 20 anos depois de ser produzido, para um público mais aficionado por efeitos, 3D e a computação gráfica no seu limite. Por isso mesmo não se pode negar que no quesito entretenimento ele se sai maravilhosamente bem, impressionando quase da mesma forma com que o filme de Steven Spielberg nos impressionou. E quase já é algo muito bom para uma franquia já desgastada tentando se reerguer com ideias "novas".
 

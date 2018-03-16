@@ -1,25 +1,11 @@
 ---
-date: "2015-08-31"
-tags: [ "cabine" ]
+tags: ['cabine']
 imdb: "3163304"
-stars: "4/5"
+date: "2015-08-31"
 categories: "movies"
 title: "A Festa de Despedida"
-_title: "Mita Tova"
-_year: "2014"
-_director: ["Tal Granit", "Sharon Maymon", ]
-_writer: ["Tal Granit", "Sharon Maymon", ]
-_cast: ["Ze'ev Revach", "Levana Finkelstein", "Aliza Rosen", "Ilan Dar", "Raffi Tavor", "Yosef Carmon", "Hilla Sarjon", "Assaf Ben-Shimon", "Ilanit Dado", ]
-_countries: ["Israel", ]
-_languages: ["Hebrew", ]
-_editor: ["Einat Glaser-Zarhin", ]
-_cinematographer: ["Tobias Hochstein", ]
-_music: ["Avi Belleli", ]
-_genres: ["Comedy", ]
-_runtimes: ["95", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQ4OTY3NzAyM15BMl5BanBnXkFtZTgwOTM3Mzk0NDE@.jpg"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQ4OTY3NzAyM15BMl5BanBnXkFtZTgwOTM3Mzk0NDE@._V1._SX94_SY140_.jpg"
+stars: "4/5"
+desc: "A Festa de Despedida. Mita Tova (Israel, 2014). Dirigido por Tal Granit, Sharon Maymon. Escrito por Tal Granit, Sharon Maymon. Com Ze'ev Revach, Levana Finkelstein, Aliza Rosen, Ilan Dar, Raffi Tavor, Yosef Carmon, Hilla Sarjon, Assaf Ben-Shimon, Ilanit Dado."
 ---
 Fui ver a cabine desta ótima comédia dramática Israelita/Alemã que fala sobre a eutanásia. Parece um tanto ridículo que esse tema ainda seja tabu. Por algum motivo que me escapa, a ilusão da cura ou o desejo de continuar com o ente querido vivo não parece para as pessoas como um ato egoísta, mas como um ato de caridade. Houve uma inversão histórica que desde o século passado nega o "ato de misericórdia" para os desafortunados de saúde, talvez pela crença inabalável na ciência moderna. Vai saber.
 

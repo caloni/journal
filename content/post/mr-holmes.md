@@ -1,27 +1,10 @@
 ---
-date: "2015-12-27"
 imdb: "3168230"
-stars: "3/5"
+date: "2015-12-27"
 categories: "movies"
 title: "Mr. Holmes"
-_title: "Mr. Holmes"
-_year: "2015"
-_director: ["Bill Condon", ]
-_writer: ["Mitch Cullin", "Jeffrey Hatcher", "Arthur Conan Doyle", ]
-_cast: ["Ian McKellen", "Laura Linney", "Milo Parker", "Hiroyuki Sanada", "Hattie Morahan", "Patrick Kennedy", "Roger Allam", "Philip Davis", "Frances de la Tour", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Virginia Katz", ]
-_cinematographer: ["Tobias A. Schliessler", ]
-_music: ["Carter Burwell", ]
-_artdirection: ["Jonathan Houlding", "James Wakefield", ]
-_costume designer: ["Keith Madden", ]
-_genres: ["Drama", ]
-_runtimes: ["104", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTg5MjE0Njk0MF5BMl5BanBnXkFtZTgwNTgwMjQ4NTE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTg5MjE0Njk0MF5BMl5BanBnXkFtZTgwNTgwMjQ4NTE@._V1._SX94_SY140_.jpg"
+stars: "3/5"
+desc: "Mr. Holmes. Mr. Holmes (UK, 2015). Dirigido por Bill Condon. Escrito por Mitch Cullin, Jeffrey Hatcher, Arthur Conan Doyle. Com Ian McKellen, Laura Linney, Milo Parker, Hiroyuki Sanada, Hattie Morahan, Patrick Kennedy, Roger Allam, Philip Davis, Frances de la Tour."
 ---
 Ian McKellen protagoniza um Sherlock Holmes no fim de sua vida, se divertindo no processo com expressões de um velho quase senil, aposentado após um caso que se arrepende de seu desfecho, embora não se lembre mais qual foi. Tudo o que resta são pequenas pistas e flashes que surgem conflitando com a versão ficcional de seu amigo já falecido, Dr. Watson. Acompanhado de seu jovem amigo Roger (Milo Parker), filho da governanta (Laura Linney), tenta escrever a versão real da história que causou sua aposentadoria.
 

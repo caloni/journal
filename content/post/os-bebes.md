@@ -1,25 +1,10 @@
 ---
-date: "2011-05-01"
 imdb: "1020938"
+date: "2011-05-01"
+categories: "movies"
 title: "Bebês"
 stars: "4/5"
-categories: "movies"
-_title: "Bébé(s)"
-_year: "2010"
-_director: ["Thomas Balmès", ]
-_writer: ["Alain Chabat", "Thomas Balmès", ]
-_cast: ["Bayar", "Hattie", "Mari", "Ponijao", ]
-_countries: ["France", ]
-_languages: ["English", ]
-_editor: ["Reynald Bertrand", "Craig McKay", ]
-_cinematographer: ["Jérôme Alméras", "Frazer Bradshaw", "Steeven Petitteville", "Eric Turpin", ]
-_music: ["Bruno Coulais", ]
-_genres: ["Documentary", ]
-_runtimes: ["79", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTI3MjA4OTE1MF5BMl5BanBnXkFtZTcwNDk3NjYwMw@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTI3MjA4OTE1MF5BMl5BanBnXkFtZTcwNDk3NjYwMw@@._V1._SX91_SY140_.jpg"
+desc: "Bebês. Bébé(s) (France, 2010). Dirigido por Thomas Balmès. Escrito por Alain Chabat, Thomas Balmès. Com Bayar, Hattie, Mari, Ponijao."
 ---
 O filme mostra a história de quatro bebês espalhados em quatro lugares do planeta bem diferentes entre si. O que mais impressiona é o fato de que, apesar das culturas serem tão diferentes, o filme enfoca justamente o que é comum a todo bebê: mamar, chorar, a curiosidade, as primeiras engatinhadas...
 

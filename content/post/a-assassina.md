@@ -1,28 +1,11 @@
 ---
+tags: ['paulocoelho']
+imdb: "3508840"
 date: "2017-01-05"
 categories: "movies"
 title: "A Assassina"
-imdb: "3508840"
 stars: "4/5"
-tags: ['paulocoelho']
-_title: "Cìkè Niè Yinniáng"
-_year: "2015"
-_director: ["Hsiao-Hsien Hou", ]
-_writer: ["Cheng Ah", "T'ien-wen Chu", "Hsiao-Hsien Hou", "Hai-Meng Hsieh", "Xing Pei", ]
-_cast: ["Chen Chang (Tian Ji'an)", "Qi Shu (Nie Yinniang)", "Yun Zhou (Lady Tian)", "Satoshi Tsumabuki (The Mirror Polisher)", "Dahong Ni (Nie Feng)", "Mei Yong (Yinniang' Mother)", "Zhen Yu Lei (Tien Xing)", "Nikki Hsin-Ying Hsieh (Huji)", "Ethan Juan (Xia Jing)", ]
-_countries: ["Taiwan", ]
-_languages: ["Mandarin", ]
-_editor: ["Chih-Chia Huang", "Ching-Song Liao", ]
-_cinematographer: ["Ping Bin Lee", ]
-_music: ["Giong Lim", ]
-_artdirection: ["Ding-Yang Weng", ]
-_costume designer: ["Wen-Ying Huang", ]
-_genres: ["Action", ]
-_runtimes: ["105", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNTczMTk3MjMyOV5BMl5BanBnXkFtZTgwMjA2Mjk4NjE@.jpg"
-_ratio: "1.37 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNTczMTk3MjMyOV5BMl5BanBnXkFtZTgwMjA2Mjk4NjE@._V1._SX94_SY140_.jpg"
+desc: "A Assassina. Cìkè Niè Yinniáng (Taiwan, 2015). Dirigido por Hsiao-Hsien Hou. Escrito por Cheng Ah, T'ien-wen Chu, Hsiao-Hsien Hou, Hai-Meng Hsieh, Xing Pei. Com Chen Chang (Tian Ji'an), Qi Shu (Nie Yinniang), Yun Zhou (Lady Tian), Satoshi Tsumabuki (The Mirror Polisher), Dahong Ni (Nie Feng), Mei Yong (Yinniang' Mother), Zhen Yu Lei (Tien Xing), Nikki Hsin-Ying Hsieh (Huji), Ethan Juan (Xia Jing)."
 ---
 Esta é uma dica para os fãs de adaptações live-action de animes, para os fãs de filmes de lutas marciais sem sentido e para os fãs da cultura milenar do Oriente. A estilização por si só gera resultados bonitos, impressionantes e que entretem momentaneamente. É seguindo a contramão que A Assassina estiliza seu retrato perene de um momento na história da China para atingir não a beleza pela beleza, mas a introspecção do espectador em um mundo que não existe mais, mas que em algum momento do tempo era vívido, colorido e rico nas mentes das pessoas.
 

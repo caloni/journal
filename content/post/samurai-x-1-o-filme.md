@@ -1,25 +1,10 @@
 ---
-date: "2015-10-05"
 imdb: "1979319"
-stars: "2/5"
+date: "2015-10-05"
 categories: "movies"
 title: "Samurai X 1: O Filme"
-_title: "Rurôni Kenshin: Meiji kenkaku roman tan"
-_year: "2012"
-_director: ["Keishi Ohtomo", ]
-_writer: ["Nobuhiro Watsuki", "Kiyomi Fujii", "Keishi Ohtomo", ]
-_cast: ["Takeru Satô", "Emi Takei", "Yû Aoi", "Teruyuki Kagawa", "Yôsuke Eguchi", "Munetaka Aoki", "Taketo Tanaka", "Kôji Kikkawa", ]
-_countries: ["Japan", ]
-_languages: ["Japanese", ]
-_editor: ["Tsuyoshi Imai", ]
-_cinematographer: ["Takuro Ishizaka", ]
-_music: ["Naoki Satô", ]
-_genres: ["Action", ]
-_runtimes: ["134", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTkyMzQyMDU0OV5BMl5BanBnXkFtZTgwNDg1MjI5MTE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTkyMzQyMDU0OV5BMl5BanBnXkFtZTgwNDg1MjI5MTE@._V1._SX99_SY140_.jpg"
+stars: "2/5"
+desc: "Samurai X 1: O Filme. Rurôni Kenshin: Meiji kenkaku roman tan (Japan, 2012). Dirigido por Keishi Ohtomo. Escrito por Nobuhiro Watsuki, Kiyomi Fujii, Keishi Ohtomo. Com Takeru Satô, Emi Takei, Yû Aoi, Teruyuki Kagawa, Yôsuke Eguchi, Munetaka Aoki, Taketo Tanaka, Kôji Kikkawa."
 ---
 Em um momento do filme um personagem fala: "Me mate", no que o outro responde: "Morra". Logo depois, algúem diz: "Seja bem-vindo de volta", no que o outro responde: "Estou de volta". Acredito que isso sirva para demonstrar um dos grandes erros em Samurai X 1: O Filme: sua redundância. Com uma duração de duas horas e 14 minutos, o diretor Keishi Ohtomo (Samurai X 1: O Filme, Samurai X 2: O Inferno de Kyoto, Samurai X 3: O Fim de Uma Lenda... "Samurai X 4: Antes do Início"?) parece ter se empolgado um pouco demais com o personagem nascido dos mangás (e posteriormente anime).
 

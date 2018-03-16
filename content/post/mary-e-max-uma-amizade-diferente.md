@@ -1,26 +1,11 @@
 ---
-date: "2010-04-16"
 imdb: "0978762"
-revision: [2010-04-16]
+date: "2010-04-16"
+categories: "movies"
 title: "Mary e Max uma Amizade Diferente"
 stars: "5/5"
-categories: "movies"
-_title: "Mary and Max"
-_year: "2009"
-_director: ["Adam Elliot", ]
-_writer: ["Adam Elliot", ]
-_cast: ["Toni Collette", "Philip Seymour Hoffman", "Barry Humphries", "Eric Bana", "Bethany Whitmore", "Renée Geyer", "Ian 'Molly' Meldrum", "John Flaus", "Julie Forsyth", ]
-_countries: ["Australia", ]
-_languages: ["English", ]
-_editor: ["Bill Murphy", ]
-_cinematographer: ["Gerald Thompson", ]
-_music: ["Dale Cornelius", ]
-_genres: ["Animation", ]
-_runtimes: ["92", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQ1NDIyNTA1Nl5BMl5BanBnXkFtZTcwMjc2Njk3OA@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQ1NDIyNTA1Nl5BMl5BanBnXkFtZTcwMjc2Njk3OA@@._V1._SX98_SY140_.jpg"
+revision: [datetime.date(2010, 4, 16)]
+desc: "Mary e Max uma Amizade Diferente. Mary and Max (Australia, 2009). Dirigido por Adam Elliot. Escrito por Adam Elliot. Com Toni Collette, Philip Seymour Hoffman, Barry Humphries, Eric Bana, Bethany Whitmore, Renée Geyer, Ian 'Molly' Meldrum, John Flaus, Julie Forsyth."
 ---
 Tudo em "Mary e Max" é construído para tentar responder uma das perguntas emocionalmente mais ambiciosas e filosoficamente mais intrigantes que nós, passageiros desse planeta em direção à morte, nos fazemos de vez em quando: o que é a amizade?
 

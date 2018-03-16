@@ -1,26 +1,11 @@
 ---
+tags: ['netflix']
+imdb: "0178868"
 date: "2016-09-15"
 categories: "movies"
 title: "Ring: O Chamado"
-imdb: "0178868"
 stars: "4/5"
-tags: ['netflix']
-_title: "Ringu"
-_year: "1998"
-_director: ["Hideo Nakata", ]
-_writer: ["Hiroshi Takahashi", "Kôji Suzuki", ]
-_cast: ["Nanako Matsushima", "Miki Nakatani", "Yûko Takeuchi", "Hitomi Satô", "Yôichi Numata", "Yutaka Matsushige", "Katsumi Muramatsu", "Rikiya Ôtaka", "Masako", ]
-_countries: ["Japan", ]
-_languages: ["Japanese", ]
-_editor: ["Nobuyuki Takahashi", ]
-_cinematographer: ["Jun'ichirô Hayashi", ]
-_music: ["Kenji Kawai", ]
-_genres: ["Horror", ]
-_runtimes: ["96", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTIyMDEyMjY3MV5BMl5BanBnXkFtZTcwNTg3NDEzMQ@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTIyMDEyMjY3MV5BMl5BanBnXkFtZTcwNTg3NDEzMQ@@._V1._SX99_SY140_.jpg"
+desc: "Ring: O Chamado. Ringu (Japan, 1998). Dirigido por Hideo Nakata. Escrito por Hiroshi Takahashi, Kôji Suzuki. Com Nanako Matsushima, Miki Nakatani, Yûko Takeuchi, Hitomi Satô, Yôichi Numata, Yutaka Matsushige, Katsumi Muramatsu, Rikiya Ôtaka, Masako."
 ---
 Essa é a versão japonesa, que estreou dois anos antes do remake americano. Diferente de toda a pomposidade de sua cópia, e os efeitos sonoros enlatados de terrores hollywoodianos, este tem a rapidez de um thriller e a semi-profundidade de um drama. Possui um ritmo visual econômico e ágil, e uma conclusão factoide, o que o torna um exemplo de sua própria lenda.
 

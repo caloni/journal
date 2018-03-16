@@ -1,25 +1,10 @@
 ---
-date: "2011-02-13"
 imdb: "1007028"
+date: "2011-02-13"
+categories: "movies"
 title: "Pagando Bem Que Mal Tem"
 stars: "2/5"
-categories: "movies"
-_title: "Zack and Miri Make a Porno"
-_year: "2008"
-_director: ["Kevin Smith", ]
-_writer: ["Kevin Smith", ]
-_cast: ["Elizabeth Banks", "Seth Rogen", "Craig Robinson", "Gerry Bednob", "Edward Janda", "Nicholas Lombardi", "Chris Milan", "Jennifer Schwalbach Smith", "Kenny Hotz", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Kevin Smith", ]
-_cinematographer: ["David Klein", ]
-_music: ["James L. Venable", ]
-_genres: ["Comedy", ]
-_runtimes: ["101", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTMwNzM5MTIxNl5BMl5BanBnXkFtZTcwNzkwNzM5MQ@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTMwNzM5MTIxNl5BMl5BanBnXkFtZTcwNzkwNzM5MQ@@._V1._SX94_SY140_.jpg"
+desc: "Pagando Bem Que Mal Tem. Zack and Miri Make a Porno (USA, 2008). Dirigido por Kevin Smith. Escrito por Kevin Smith. Com Elizabeth Banks, Seth Rogen, Craig Robinson, Gerry Bednob, Edward Janda, Nicholas Lombardi, Chris Milan, Jennifer Schwalbach Smith, Kenny Hotz."
 ---
 Embora Seth Rogen possua um carisma que transforma as piadas de sua boca, por mais insossas que sejam, como a coisa mais divertida do mundo, o fato é que "Pagando Bem" mal consegue se segurar em sua narrativa confusa e embaraçosa.
 

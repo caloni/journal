@@ -1,27 +1,11 @@
 ---
-date: "2015-11-28"
-imdb: "3205802"
-stars: "3/5"
-title: "How to Get Away with Murder - Primeira Temporada, Episódios 1 ao 3"
-categories: "blog"
 tags: ['netflix', 'series']
-_title: "How to Get Away with Murder"
-_year: "2014"
-_director: ["Bill D'Elia", "Mike Listo", "Laura Innes", "Michael Offer", "Stephen Williams", ]
-_writer: ["Peter Nowalk", "Michael Foley", "Erika Green Swafford", "Warren Hsu Leonard", "Tracy Bellomo", "Doug Stockstill", "Erika Harrison", ]
-_cast: ["Viola Davis", "Billy Brown", "Alfred Enoch", "Jack Falahee", "Aja Naomi King", "Matt McGorry", "Karla Souza", "Charlie Weber", "Liza Weil", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["David Greenspan", "Julia Grove", "Philip Carr Neel", "Matthew Ramsey", ]
-_cinematographer: ["Michael A. Price", "Jeff Jur", ]
-_music: ["Photek", ]
-_artdirection: ["Jim Wallis", "Amy Lee Wheeler", "Colin Kirkpatrick", ]
-_costume designer: ["Linda M. Bass", "Ellen Mirojnick", ]
-_genres: ["Crime", ]
-_runtimes: ["43", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNTMzNDEzNTcwMV5BMl5BanBnXkFtZTgwMjc5Mjg5NjE@.jpg"
-_kind: "tv series"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNTMzNDEzNTcwMV5BMl5BanBnXkFtZTgwMjc5Mjg5NjE@._V1._SX95_SY140_.jpg"
+imdb: "3205802"
+date: "2015-11-28"
+categories: "blog"
+title: "How to Get Away with Murder - Primeira Temporada, Episódios 1 ao 3"
+stars: "3/5"
+desc: "How to Get Away with Murder - Primeira Temporada, Episódios 1 ao 3. How to Get Away with Murder (USA, 2014). Dirigido por Bill D'Elia, Mike Listo, Laura Innes, Michael Offer, Stephen Williams. Escrito por Peter Nowalk, Michael Foley, Erika Green Swafford, Warren Hsu Leonard, Tracy Bellomo, Doug Stockstill, Erika Harrison. Com Viola Davis, Billy Brown, Alfred Enoch, Jack Falahee, Aja Naomi King, Matt McGorry, Karla Souza, Charlie Weber, Liza Weil."
 ---
 Assisti alguns episódios deste que parece ser aquelas séries que causam sensação, talvez pelo seu final. O detalhe é que não importa como, todo novo episódio parece querer voltar nas mesmíssimas cenas finais, onde os estudantes de direito se metem em um assassinato e precisam... adivinhem? Lavar suas mãos.
 

@@ -1,27 +1,10 @@
 ---
-date: "2015-09-27"
 imdb: "1650393"
-stars: "3/5"
+date: "2015-09-27"
 categories: "movies"
 title: "C.O.G."
-_title: "C.O.G."
-_year: "2013"
-_director: ["Kyle Patrick Alvarez", ]
-_writer: ["Kyle Patrick Alvarez", "David Sedaris", ]
-_cast: ["Jonathan Groff", "Tyra Richards", "Beth Furumasu", "Keiko Green", "Kamyar Jahan", "Danny Belrose", "Zachary Vitale", "Marvella McPartland", "Tim Patteron", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Fernando Collins", ]
-_cinematographer: ["Jas Shelton", ]
-_music: ["Joe Berry", "Steve Reich", ]
-_artdirection: ["Beth Lipson", ]
-_costume designer: ["Julie Carnahan", ]
-_genres: ["Comedy", ]
-_runtimes: ["88", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTExODkwNTAzODBeQTJeQWpwZ15BbWU3MDAzNzE4OTk@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTExODkwNTAzODBeQTJeQWpwZ15BbWU3MDAzNzE4OTk@._V1._SX97_SY140_.jpg"
+stars: "3/5"
+desc: "C.O.G.. C.O.G. (USA, 2013). Dirigido por Kyle Patrick Alvarez. Escrito por Kyle Patrick Alvarez, David Sedaris. Com Jonathan Groff, Tyra Richards, Beth Furumasu, Keiko Green, Kamyar Jahan, Danny Belrose, Zachary Vitale, Marvella McPartland, Tim Patteron."
 ---
 Uma experiência religiosa ou uma auto-descoberta sexual? Uma visão romântica de nossas diferenças de princípios ou um drama que tenta soar engraçado? Se sentindo com múltiplas personalidades, C.O.G. pode muito bem se apresentar como uma visão religiosa do mundo, pois usa a maçã como uma espécie de símbolo do pecado (e da tentação) e mantém em sua história uma estrutura esquizofrênica tão conhecida dos religiosos mais fanáticos.
 

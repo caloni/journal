@@ -1,28 +1,11 @@
 ---
+tags: ['cinema', 'oscar']
+imdb: "3183660"
 date: "2016-12-15"
 categories: "movies"
 title: "Animais Fantásticos e Onde Habitam"
-imdb: "3183660"
 stars: "4/5"
-tags: ['cinema', 'oscar']
-_title: "Fantastic Beasts and Where to Find Them"
-_year: "2016"
-_director: ["David Yates", ]
-_writer: ["J.K. Rowling", ]
-_cast: ["Eddie Redmayne (Newt)", "Sam Redford (Customs Official)", "Scott Goldman (Customs Official)", "Tim Bentinck (Witness)", "Tom Clarke Hill (Photographer 2)", "Tristan Tait (Reporter)", "Colin Farrell (Graves)", "Matthew Sim (Photographer 1)", "Katherine Waterston (Tina)", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Mark Day", ]
-_cinematographer: ["Philippe Rousselot", ]
-_music: ["James Newton Howard", ]
-_artdirection: ["David Allday", "Guy Bradley", "Toby Britton", "Peter Dorme", "Gavin Fitch", "Martin Foley", "Hayley Easton Street", ]
-_costume designer: ["Colleen Atwood", ]
-_genres: ["Adventure", ]
-_runtimes: ["133", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjMxOTM1OTI4MV5BMl5BanBnXkFtZTgwODE5OTYxMDI@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjMxOTM1OTI4MV5BMl5BanBnXkFtZTgwODE5OTYxMDI@._V1._SX94_SY140_.jpg"
+desc: "Animais Fantásticos e Onde Habitam. Fantastic Beasts and Where to Find Them (UK, 2016). Dirigido por David Yates. Escrito por J.K. Rowling. Com Eddie Redmayne (Newt), Sam Redford (Customs Official), Scott Goldman (Customs Official), Tim Bentinck (Witness), Tom Clarke Hill (Photographer 2), Tristan Tait (Reporter), Colin Farrell (Graves), Matthew Sim (Photographer 1), Katherine Waterston (Tina)."
 ---
 Quando a série Harry Potter terminou nos cinemas veio a sensação de saudade com um misto de "saga intocável", no sentido de qualquer tentativa de "George Lucarizar" a franquia estaria fadada ao fracasso. A não ser que fosse apenas utilizado o universo onde se passam os filmes, mas não os mesmos personagens, ou as mesmas situações (mago do mal, cada filme um ano na escola). Pois bem. A partir de Animais Fantásticos, a escritora J. K. Rowling pode ganhar o título de "escritora fodona" de verdade. Ela não recicla ideias que a tornaram um sucesso (e milionária). Ela não usa personagens que os fãs abraçaram como muletas afetivas. Ela cria uma história do zero, fugindo completamente do mundo HP e apresentando novas criaturas e novos conceitos, enriquecendo e expandindo o universo em vez de sugando-o. Aprendeu como se faz, George Lucas/J.J. Abrams?
 

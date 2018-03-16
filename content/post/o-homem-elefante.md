@@ -1,25 +1,10 @@
 ---
-date: "2014-12-01"
 imdb: "0080678"
+date: "2014-12-01"
+categories: "movies"
 title: "O Homem Elefante"
 stars: "4/5"
-categories: "movies"
-_title: "The Elephant Man"
-_year: "1980"
-_director: ["David Lynch", ]
-_writer: ["Christopher De Vore", "Eric Bergren", "David Lynch", "Frederick Treves", "Ashley Montagu", ]
-_cast: ["Anthony Hopkins", "John Hurt", "Anne Bancroft", "John Gielgud", "Wendy Hiller", "Freddie Jones", "Michael Elphick", "Hannah Gordon", "Helen Ryan", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Anne V. Coates", ]
-_cinematographer: ["Freddie Francis", ]
-_music: ["John Morris", ]
-_genres: ["Biography", ]
-_runtimes: ["124", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTExNTk0MjIzNDZeQTJeQWpwZ15BbWU3MDY5ODI5Nzg@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTExNTk0MjIzNDZeQTJeQWpwZ15BbWU3MDY5ODI5Nzg@._V1._SX93_SY140_.jpg"
+desc: "O Homem Elefante. The Elephant Man (USA, 1980). Dirigido por David Lynch. Escrito por Christopher De Vore, Eric Bergren, David Lynch, Frederick Treves, Ashley Montagu. Com Anthony Hopkins, John Hurt, Anne Bancroft, John Gielgud, Wendy Hiller, Freddie Jones, Michael Elphick, Hannah Gordon, Helen Ryan."
 ---
 Não vi muitos filmes do David Lynch, mas este é de longe o mais "comportado" em narrativa. Tem começo, meio e fim. Possui uma narração gradativa, dando tempo para pensarmos no que exatamente está acontecendo em volta de John Merrick (John Hurt), um homem desfigurado usado como atração de circo e conhecido como O Homem Elefante. Quando conhecemos Merrick ele não tem nome e quase não o vemos, só na imaginação. E ele tem um dono: um sujeito conhecido como Bytes (Freddie Jones), que não se preocupa em tratá-lo como um animal de fato. O próprio filme começa com a visualização dessa fantasia do imaginário popular: o filho de uma mulher e um elefante.
 

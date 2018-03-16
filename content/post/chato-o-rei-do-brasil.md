@@ -1,25 +1,10 @@
 ---
-date: "2016-03-15"
 imdb: "0337926"
-stars: "1/5"
+date: "2016-03-15"
 categories: "movies"
 title: "Chatô - O Rei do Brasil"
-_title: "Chatô - O Rei do Brasil"
-_year: "2015"
-_director: ["Guilherme Fontes", ]
-_writer: ["João Emanuel Carneiro", "Guilherme Fontes", "Matthew Robbins", "Fernando Morais", ]
-_cast: ["Andrea Beltrão", "Paulo Betti", "Ingrid Borgoin", "Gabriel Braga Nunes", "Nathália França", "Eliane Giardini", "Leandra Leal", "Tatiana Monteiro", "Luís Antônio Pilar", ]
-_countries: ["Brazil", ]
-_languages: ["Portuguese", ]
-_editor: ["Felipe Lacerda", ]
-_cinematographer: ["José Roberto Eliezer", ]
-_artdirection: ["Gualter Pupo Filho", ]
-_costume designer: ["Rita Murtinho", ]
-_genres: ["Biography", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNmU0NjFiMzgtYTYxNi00OTcyLTg4MzQtNGExMmMxOTExMjJlXkEyXkFqcGdeQXVyNTU0MjA3NTM@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNmU0NjFiMzgtYTYxNi00OTcyLTg4MzQtNGExMmMxOTExMjJlXkEyXkFqcGdeQXVyNTU0MjA3NTM@._V1._SX96_SY140_.jpg"
+stars: "1/5"
+desc: "Chatô - O Rei do Brasil. Chatô - O Rei do Brasil (Brazil, 2015). Dirigido por Guilherme Fontes. Escrito por João Emanuel Carneiro, Guilherme Fontes, Matthew Robbins, Fernando Morais. Com Andrea Beltrão, Paulo Betti, Ingrid Borgoin, Gabriel Braga Nunes, Nathália França, Eliane Giardini, Leandra Leal, Tatiana Monteiro, Luís Antônio Pilar."
 ---
 Chatô é o Suprema Felicidade do diretor estreante Guilherme Fontes, um ator de novelas. É confuso, sem motivo e um desfile de momentos pseudo-marcantes na vida do magnata Assis Chateaubriand. Tenta através da bagunça de sua linha do tempo criar transições elegantes, e eventualmente até consegue. Mas a pergunta que fica sempre é: a que preço?
 

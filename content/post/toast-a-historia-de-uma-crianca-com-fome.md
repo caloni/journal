@@ -1,28 +1,11 @@
 ---
-imdb: "1658851"
-stars: "4/5"
 tags: ['netflix']
+imdb: "1658851"
 date: 2017-08-06T23:21:35
-title: "Toast: A História de uma Criança com Fome"
 categories: "movies"
-_title: "Toast"
-_year: "2010"
-_director: ["S.J. Clarkson", ]
-_writer: ["Lee Hall", "Nigel Slater", ]
-_cast: ["Oscar Kennedy (Young Nigel Slater)", "Victoria Hamilton (Mum)", "Colin Prockter (Percy Salt)", "Ken Stott (Dad)", "Matthew McNulty (Josh)", "Frasier Huckle (Warrel)", "Kia Pegg (Milk Girl)", "Rielly Newbold (Leonard)", "Roger Walker (Gardener)", "Helena Bonham Carter (Mrs. Potter)", "Freddie Highmore (Nigel Slater)"]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Liana Del Giudice", ]
-_cinematographer: ["Balazs Bolygo", ]
-_music: ["Ruth Barrett", ]
-_artdirection: ["Tim Sykes", ]
-_costume designer: ["Sarah Arthur", ]
-_genres: ["Biography", ]
-_runtimes: ["96", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAxNTIzMjA2NF5BMl5BanBnXkFtZTcwNDQ5ODIxNw@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "tv movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAxNTIzMjA2NF5BMl5BanBnXkFtZTcwNDQ5ODIxNw@@._V1._SX94_SY140_.jpg"
+title: "Toast: A História de uma Criança com Fome"
+stars: "4/5"
+desc: "Toast: A História de uma Criança com Fome. Toast (UK, 2010). Dirigido por S.J. Clarkson. Escrito por Lee Hall, Nigel Slater. Com Oscar Kennedy (Young Nigel Slater), Victoria Hamilton (Mum), Colin Prockter (Percy Salt), Ken Stott (Dad), Matthew McNulty (Josh), Frasier Huckle (Warrel), Kia Pegg (Milk Girl), Rielly Newbold (Leonard), Roger Walker (Gardener), Helena Bonham Carter (Mrs. Potter), Freddie Highmore (Nigel Slater)."
 ---
 Este é um drama leve que conta com alguns segredos sutis em sua história e algumas atuações marcantes ou no mínimo bem corretas. Helena Bonham Carter é o destaque e o centro de um filme que poderia ser chato como biografia, mas consegue ser fascinante ainda que não conheçamos de quem se está falando.
 

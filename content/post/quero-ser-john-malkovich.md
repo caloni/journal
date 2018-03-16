@@ -1,25 +1,10 @@
 ---
-date: "2012-01-02"
 imdb: "0120601"
+date: "2012-01-02"
+categories: "movies"
 title: "Quero Ser John Malkovich"
 stars: "5/5"
-categories: "movies"
-_title: "Being John Malkovich"
-_year: "1999"
-_director: ["Spike Jonze", ]
-_writer: ["Charlie Kaufman", ]
-_cast: ["John Cusack", "Cameron Diaz", "Ned Bellamy", "Eric Weinstein", "Madison Lanc", "Octavia Spencer", "Mary Kay Place", "Orson Bean", "Catherine Keener", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Eric Zumbrunnen", ]
-_cinematographer: ["Lance Acord", ]
-_music: ["Carter Burwell", ]
-_genres: ["Comedy", ]
-_runtimes: ["112", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTUyMjI4OTE3MV5BMl5BanBnXkFtZTcwNzMxMTUxMQ@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTUyMjI4OTE3MV5BMl5BanBnXkFtZTcwNzMxMTUxMQ@@._V1._SX100_SY135_.jpg"
+desc: "Quero Ser John Malkovich. Being John Malkovich (USA, 1999). Dirigido por Spike Jonze. Escrito por Charlie Kaufman. Com John Cusack, Cameron Diaz, Ned Bellamy, Eric Weinstein, Madison Lanc, Octavia Spencer, Mary Kay Place, Orson Bean, Catherine Keener."
 ---
 Usando como pano de fundo o universo de um titereiro e explodindo esse tema para o mundo real, Quero Ser John Malkovich não só consegue ser um filme completamente original pelas suas... inusitadas ideias (como o andar 7 e 1/2), como ainda consegue uni-las de maneira orgânica, sendo que a originalidade não é gratuita e possui sempre um significado dentro do universo onde a história se passa.
 

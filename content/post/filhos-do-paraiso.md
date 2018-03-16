@@ -1,25 +1,10 @@
 ---
-date: "2012-03-11"
 imdb: "0118849"
+date: "2012-03-11"
+categories: "movies"
 title: "Filhos do Paraíso"
 stars: "4/5"
-categories: "movies"
-_title: "Bacheha-Ye aseman"
-_year: "1997"
-_director: ["Majid Majidi", ]
-_writer: ["Majid Majidi", ]
-_cast: ["Mohammad Amir Naji", "Amir Farrokh Hashemian", "Bahare Seddiqi", "Nafise Jafar-Mohammadi", "Fereshte Sarabandi", "Kamal Mirkarimi", "Behzad Rafi", "Dariush Mokhtari", "Mohammad-Hasan Hosseinian", ]
-_countries: ["Iran", ]
-_languages: ["Persian", ]
-_editor: ["Hassan Hassandoost", ]
-_cinematographer: ["Parviz Malekzaade", ]
-_music: ["Kayvan Jahanshahi", ]
-_genres: ["Drama", ]
-_runtimes: ["89", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTg0OTk4MDEwMV5BMl5BanBnXkFtZTYwNzMwNzI5.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTg0OTk4MDEwMV5BMl5BanBnXkFtZTYwNzMwNzI5._V1._SX98_SY140_.jpg"
+desc: "Filhos do Paraíso. Bacheha-Ye aseman (Iran, 1997). Dirigido por Majid Majidi. Escrito por Majid Majidi. Com Mohammad Amir Naji, Amir Farrokh Hashemian, Bahare Seddiqi, Nafise Jafar-Mohammadi, Fereshte Sarabandi, Kamal Mirkarimi, Behzad Rafi, Dariush Mokhtari, Mohammad-Hasan Hosseinian."
 ---
 Existe algo que vale a pena em Filhos do Paraíso. Se você notar, de repente acompanhamos uma história que não tem nada de original ou espetacular. Mas acompanhamos atentos. Existe algo de mágico em entrar dentro da vida dessa família. De entender seus conflitos, seu modo de viver e o problema que a perda de um par de sapatos representam.
 

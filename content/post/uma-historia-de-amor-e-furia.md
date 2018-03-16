@@ -1,23 +1,10 @@
 ---
-date: "2013-04-11"
 imdb: "2231208"
+date: "2013-04-11"
+categories: "movies"
 title: "Uma História de Amor e Fúria"
 stars: "4/5"
-categories: "movies"
-_title: "Uma História de Amor e Fúria"
-_year: "2013"
-_director: ["Luiz Bolognesi", ]
-_writer: ["Luiz Bolognesi", ]
-_cast: ["Selton Mello", "Camila Pitanga", "Rodrigo Santoro", ]
-_countries: ["Brazil", ]
-_languages: ["Portuguese", ]
-_editor: ["Helena Maura", ]
-_music: ["Rica Amabis", "Tejo Damasceno", "Pupillo", ]
-_genres: ["Animation", ]
-_runtimes: ["98", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BOTQ0MzAyODM0MF5BMl5BanBnXkFtZTcwNDA1MTA4OQ@@.jpg"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BOTQ0MzAyODM0MF5BMl5BanBnXkFtZTcwNDA1MTA4OQ@@._V1._SX96_SY140_.jpg"
+desc: "Uma História de Amor e Fúria. Uma História de Amor e Fúria (Brazil, 2013). Dirigido por Luiz Bolognesi. Escrito por Luiz Bolognesi. Com Selton Mello, Camila Pitanga, Rodrigo Santoro."
 ---
 Um delírio técnico e estilístico que permite que vejamos nossa história como povo através da lente da dura e cruel realidade dos oprimidos, Uma História de Amor e Fúria estabelece desde o início seu tom fantasioso ao revelar a idade do narrador e protagonista envolvido em uma jornada de cerca de 600 anos através do passado e futuro do Brasil.
 

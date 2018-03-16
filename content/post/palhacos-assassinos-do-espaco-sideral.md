@@ -1,25 +1,10 @@
 ---
-date: "2012-09-24"
 imdb: "0095444"
+date: "2012-09-24"
+categories: "movies"
 title: "Palhaços Assassinos"
 stars: "3/5"
-categories: "movies"
-_title: "Killer Klowns from Outer Space"
-_year: "1988"
-_director: ["Stephen Chiodo", ]
-_writer: ["Charles Chiodo", "Edward Chiodo", "Stephen Chiodo", ]
-_cast: ["Grant Cramer", "Suzanne Snyder", "John Allen Nelson", "John Vernon", "Michael S. Siegel", "Peter Licassi", "Royal Dano", "Christopher Titus", "Irene Michaels", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Christopher Roth", ]
-_cinematographer: ["Alfred Taylor", ]
-_music: ["John Massari", ]
-_genres: ["Comedy", ]
-_runtimes: ["88", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTU0MjExNDQwNF5BMl5BanBnXkFtZTcwNjgyODg0NA@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTU0MjExNDQwNF5BMl5BanBnXkFtZTcwNjgyODg0NA@@._V1._SX94_SY140_.jpg"
+desc: "Palhaços Assassinos. Killer Klowns from Outer Space (USA, 1988). Dirigido por Stephen Chiodo. Escrito por Charles Chiodo, Edward Chiodo, Stephen Chiodo. Com Grant Cramer, Suzanne Snyder, John Allen Nelson, John Vernon, Michael S. Siegel, Peter Licassi, Royal Dano, Christopher Titus, Irene Michaels."
 ---
 Os irmãos Chiodo  hoje praticamente desconhecidos mas responsáveis por efeitos em filmes insólitos como Um Duende em Nova York, Team America e A Hora das Criaturas  fizeram este trabalho mais em um formato laboratório de ideias bizarras do que algo que de fato pudesse conter um enredo. O igualmente bizarro é que o resultado não é tão mal assim, ou, como alguns preferem dizer, é tão ruim que acaba ficando bom.
 

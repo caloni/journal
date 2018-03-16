@@ -1,30 +1,12 @@
 ---
+tags: ['cinema', 'dublado', 'mcu', 'spiderman']
+imdb: "2250912"
 date: "2017-07-09"
 categories: "movies"
 title: "Homem-Aranha: De Volta ao Lar"
-imdb: "2250912"
 stars: "3/5"
-tags: ['cinema', 'dublado', 'mcu', 'spiderman']
 revison: ['2017-08-03']
-_title: "Spider-Man: Homecoming"
-_year: "2017"
-_director: ["Jon Watts", ]
-_writer: ["Jonathan Goldstein", "John Francis Daley", "Jon Watts", "Christopher Ford", "Chris McKenna", "Erik Sommers", "Stan Lee", "Steve Ditko", "Joe Simon", ]
-_cast: ["Tom Holland (Peter Parker / Spider-Man)", "Michael Keaton (Adrian Toomes / Vulture)", "Robert Downey Jr. (Tony Stark / Iron Man)", "Marisa Tomei (May Parker)", "Jon Favreau (Happy Hogan)", "Gwyneth Paltrow (Pepper Potts)", "Zendaya (Michelle)", "Donald Glover (Aaron Davis)", "Jacob Batalon (Ned)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Debbie Berman", "Dan Lebental", ]
-_cinematographer: ["Salvatore Totino", ]
-_music: ["Michael Giacchino", ]
-_artdirection: ["Lauren Abiouness", "Audra Avery", "Beat Frutiger", "Drew Monahan", "Brad Ricker", ]
-_costume designer: ["Louise Frogley", ]
-_genres: ["Action", ]
-_runtimes: ["133", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNTk4ODQ1MzgzNl5BMl5BanBnXkFtZTgwMTMyMzM4MTI@.jpg"
-_ratio: "1.33 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNTk4ODQ1MzgzNl5BMl5BanBnXkFtZTgwMTMyMzM4MTI@._V1._SX92_SY140_.jpg"
-_releasedate: "6 July 2017"
+desc: "Homem-Aranha: De Volta ao Lar. Spider-Man: Homecoming (USA, 2017). Dirigido por Jon Watts. Escrito por Jonathan Goldstein, John Francis Daley, Jon Watts, Christopher Ford, Chris McKenna, Erik Sommers, Stan Lee, Steve Ditko, Joe Simon. Com Tom Holland (Peter Parker / Spider-Man), Michael Keaton (Adrian Toomes / Vulture), Robert Downey Jr. (Tony Stark / Iron Man), Marisa Tomei (May Parker), Jon Favreau (Happy Hogan), Gwyneth Paltrow (Pepper Potts), Zendaya (Michelle), Donald Glover (Aaron Davis), Jacob Batalon (Ned)."
 ---
 A re-re-estreia do Homem-Aranha em filme solo -- dessa vez no insosso universo dos Vingadores -- é uma divertida abordagem de um Peter Parker jovem e sem traumas (ou seja: sem Uncle Ben) que atualiza o personagem para uma época pressionada pela gangue do politicamente correto, mas também pela geração do bom humor, das ações sem consequências, do "Homem-Aranha do YouTube". Este é um filme definitivamente para assistir com pipoca, do lado dos filhos, sem estar muito preso aos detalhes que destoam dos gibis.
 

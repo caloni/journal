@@ -1,27 +1,11 @@
 ---
-date: "2015-04-07"
+tags: ['netflix', 'bettercallsaul', 'series']
 imdb: "3032476"
-stars: "5/5"
+date: "2016-04-22"
 categories: "blog"
 title: "Better Call Saul - Segunda Temporada"
-date: "2016-04-22"
-tags: ['netflix', 'bettercallsaul', 'series']
-_title: "Better Call Saul"
-_year: "2015"
-_director: ["Colin Bucksey", ]
-_writer: ["Vince Gilligan", "Peter Gould", "Gennifer Hutchison", "Thomas Schnauz", "Gordon Smith", ]
-_cast: ["Bob Odenkirk", "Jonathan Banks", "Rhea Seehorn", "Patrick Fabian", "Michael Mando", "Michael McKean", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Kelley Dixon", ]
-_cinematographer: ["Arthur Albert", ]
-_music: ["Dave Porter", ]
-_genres: ["Crime", ]
-_runtimes: ["60::(with commercials)", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTAxOTQ0MjUzMzJeQTJeQWpwZ15BbWU4MDY0NTAxNzMx.jpg"
-_ratio: "1.78 : 1"
-_kind: "tv series"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTAxOTQ0MjUzMzJeQTJeQWpwZ15BbWU4MDY0NTAxNzMx._V1._SX94_SY140_.jpg"
+stars: "5/5"
+desc: "Better Call Saul - Segunda Temporada. Better Call Saul (USA, 2015). Dirigido por Colin Bucksey. Escrito por Vince Gilligan, Peter Gould, Gennifer Hutchison, Thomas Schnauz, Gordon Smith. Com Bob Odenkirk, Jonathan Banks, Rhea Seehorn, Patrick Fabian, Michael Mando, Michael McKean."
 ---
 A segunda temporada de Better Call Saul consegue repetir a façanha da primeira, em apresentar personagens fascinante com praticamente só imagens; aqui, porém, Saul tem que dividir as atenções com duas figuras cada vez mais presentes: o bom e velho Mike Ehrmantraut (Jonathan Banks) e a madura e persistente Kim Wexler (Rhea Seehorn). Ambos são caracteres que passa a valer a pena acompanhar e torcer junto, pois eles são, de uma maneira torta, lados da mesma moeda: a consistência e o caráter.
 

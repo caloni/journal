@@ -1,25 +1,10 @@
 ---
-date: "2012-06-27"
 imdb: "1077368"
+date: "2012-06-27"
+categories: "movies"
 title: "Sombras da Noite"
 stars: "3/5"
-categories: "movies"
-_title: "Dark Shadows"
-_year: "2012"
-_director: ["Tim Burton", ]
-_writer: ["Seth Grahame-Smith", "John August", "Seth Grahame-Smith", "Dan Curtis", ]
-_cast: ["Johnny Depp", "Michelle Pfeiffer", "Helena Bonham Carter", "Eva Green", "Jackie Earle Haley", "Jonny Lee Miller", "Bella Heathcote", "Chloë Grace Moretz", "Gulliver McGrath", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Chris Lebenzon", ]
-_cinematographer: ["Bruno Delbonnel", ]
-_music: ["Danny Elfman", ]
-_genres: ["Comedy", ]
-_runtimes: ["113", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjc0NzAyMzI1MF5BMl5BanBnXkFtZTcwMTE0NDQ1Nw@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjc0NzAyMzI1MF5BMl5BanBnXkFtZTcwMTE0NDQ1Nw@@._V1._SX95_SY140_.jpg"
+desc: "Sombras da Noite. Dark Shadows (USA, 2012). Dirigido por Tim Burton. Escrito por Seth Grahame-Smith, John August, Seth Grahame-Smith, Dan Curtis. Com Johnny Depp, Michelle Pfeiffer, Helena Bonham Carter, Eva Green, Jackie Earle Haley, Jonny Lee Miller, Bella Heathcote, Chloë Grace Moretz, Gulliver McGrath."
 ---
 Em minha cabeça há um filme muito bonito que reconstrói Drácula com um apuro técnico que apenas um diretor como Tim Burton poderia conceber com sua singular visão gótica do mundo. Se transportarmos esse mundo para os coloridos anos 70 teremos então um divertido e promissor choque cultural entre épocas separadas por nada menos do que duzentos anos.
 

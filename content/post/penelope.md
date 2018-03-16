@@ -1,25 +1,10 @@
 ---
-date: "2014-04-05"
 imdb: "0472160"
+date: "2014-04-05"
+categories: "movies"
 title: "Penelope"
 stars: "3/5"
-categories: "movies"
-_title: "Penelope"
-_year: "2006"
-_director: ["Mark Palansky", ]
-_writer: ["Leslie Caveny", ]
-_cast: ["Richard E. Grant", "Catherine O'Hara", "Nick Prideaux", "Michael Feast", "Christina Ricci", "Ronni Ancona", "Simon Woods", "Paul Herbert", "Simon Chandler", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Jon Gregory", ]
-_cinematographer: ["Michel Amathieu", ]
-_music: ["Joby Talbot", ]
-_genres: ["Comedy", ]
-_runtimes: ["104", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTc0MTYwNzQ5Nl5BMl5BanBnXkFtZTcwMjg2MzU1MQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTc0MTYwNzQ5Nl5BMl5BanBnXkFtZTcwMjg2MzU1MQ@@._V1._SX97_SY140_.jpg"
+desc: "Penelope. Penelope (UK, 2006). Dirigido por Mark Palansky. Escrito por Leslie Caveny. Com Richard E. Grant, Catherine O'Hara, Nick Prideaux, Michael Feast, Christina Ricci, Ronni Ancona, Simon Woods, Paul Herbert, Simon Chandler."
 ---
 Peguemos um livro de contos infantis e transformemos em um filme live-action (com atores de carne-e-osso). Pode ser aquela história da maldição da empregada que é renegada pelo seu amor de um aristocrata  de novo?  e cuja mãe é uma bruxa e roga uma praga que transforma a primeira filha da família de sangue azul em uma abominação. Quer dizer, o nome "abominação" vai depender de quem consegue enxergar na bela Cristina Ricci um monstro, quando no fundo a única coisa que incomoda em seu visual são suas orelhas flácidas e seu focinho de porco. Nada que justifique tantas janelas quebradas de pretendentes que parecem ter se encontrado com uma besta selvagem prestes a devorá-los.
 

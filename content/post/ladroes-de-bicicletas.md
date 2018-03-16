@@ -1,25 +1,10 @@
 ---
-date: "2015-06-18"
 imdb: "0040522"
-stars: "5/5"
+date: "2015-06-18"
 categories: "movies"
 title: "Ladrões de Bicicletas"
-_title: "Ladri di biciclette"
-_year: "1948"
-_director: ["Vittorio De Sica", ]
-_writer: ["Cesare Zavattini", "Luigi Bartolini", "Oreste Biancoli", "Suso Cecchi D'Amico", "Vittorio De Sica", "Adolfo Franci", "Gherardo Gherardi", "Gerardo Guerrieri", "Cesare Zavattini", ]
-_cast: ["Lamberto Maggiorani", "Enzo Staiola", "Lianella Carell", "Gino Saltamerenda", "Vittorio Antonucci", "Giulio Chiari", "Elena Altieri", "Carlo Jachino", "Michele Sakara", ]
-_countries: ["Italy", ]
-_languages: ["Italian", ]
-_editor: ["Eraldo Da Roma", ]
-_cinematographer: ["Carlo Montuori", ]
-_music: ["Alessandro Cicognini", ]
-_genres: ["Drama", ]
-_runtimes: ["93", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjIzMzAyMzg1Nl5BMl5BanBnXkFtZTgwMzMyNzk0MTE@.jpg"
-_ratio: "1.37 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjIzMzAyMzg1Nl5BMl5BanBnXkFtZTgwMzMyNzk0MTE@._V1._SX97_SY140_.jpg"
+stars: "5/5"
+desc: "Ladrões de Bicicletas. Ladri di biciclette (Italy, 1948). Dirigido por Vittorio De Sica. Escrito por Cesare Zavattini, Luigi Bartolini, Oreste Biancoli, Suso Cecchi D'Amico, Vittorio De Sica, Adolfo Franci, Gherardo Gherardi, Gerardo Guerrieri, Cesare Zavattini. Com Lamberto Maggiorani, Enzo Staiola, Lianella Carell, Gino Saltamerenda, Vittorio Antonucci, Giulio Chiari, Elena Altieri, Carlo Jachino, Michele Sakara."
 ---
 Ladrões de Bicicletas é um filme curto (menos de uma hora e meia) e antigo (da década de 40) e italiano. Porém, apesar dele ser curto ele é completo, apesar dele ser antigo ele é atual, e apesar dele ser italiano ele é, felizmente ou infelizmente, universal. Para os que se interessam por bobagens, foi um dos primeiros longa-metragens a ganhar um Oscar de Filme Estrangeiro, um título que não existia e era dado de vez em quando pela academia. Para os que se interessam pelo Cinema como arte, este filme virou um dos exemplos mais conhecidos do neo-realismo italiano, um estilo de fazer filmes que buscava refletir a realidade social da época, sendo filmado quase como um documentário. Tanto que os personagens não são nada especiais, podendo ser qualquer um na megalópole italiana naquela época pós-guerra.
 

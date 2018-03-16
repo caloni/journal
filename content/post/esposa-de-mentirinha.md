@@ -1,25 +1,10 @@
 ---
-date: "2011-03-09"
 imdb: "1564367"
+date: "2011-03-09"
+categories: "movies"
 title: "Esposa de Mentirinha"
 stars: "3/5"
-categories: "movies"
-_title: "Just Go with It"
-_year: "2011"
-_director: ["Dennis Dugan", ]
-_writer: ["Allan Loeb", "Timothy Dowling", "I.A.L. Diamond", "Abe Burrows", "Pierre Barillet", "Jean-Pierre Grédy", ]
-_cast: ["Adam Sandler", "Jennifer Aniston", "Nicole Kidman", "Nick Swardson", "Brooklyn Decker", "Bailee Madison", "Griffin Gluck", "Dave Matthews", "Kevin Nealon", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Tom Costain", ]
-_cinematographer: ["Theo van de Sande", ]
-_music: ["Rupert Gregson-Williams", ]
-_genres: ["Comedy", ]
-_runtimes: ["117", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjE0MTk3MjE2Nl5BMl5BanBnXkFtZTcwMjE0ODA0NA@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjE0MTk3MjE2Nl5BMl5BanBnXkFtZTcwMjE0ODA0NA@@._V1._SX100_SY133_.jpg"
+desc: "Esposa de Mentirinha. Just Go with It (USA, 2011). Dirigido por Dennis Dugan. Escrito por Allan Loeb, Timothy Dowling, I.A.L. Diamond, Abe Burrows, Pierre Barillet, Jean-Pierre Grédy. Com Adam Sandler, Jennifer Aniston, Nicole Kidman, Nick Swardson, Brooklyn Decker, Bailee Madison, Griffin Gluck, Dave Matthews, Kevin Nealon."
 ---
 "(...) o filme se baseie provavelmente em um fim-de-semana que ele mesmo tirou com seus amigos (...)"
 

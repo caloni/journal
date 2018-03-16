@@ -1,27 +1,11 @@
 ---
-imdb: "0475784"
-stars: "5/5"
 tags: ['paulocoelho', 'westworld', 'series']
+imdb: "0475784"
 date: 2017-07-31T20:25:46
-title: "Westworld - Primeira Temporada (Revisita com algumas questões e Spoilers)"
 categories: "blog"
-_title: "Westworld"
-_year: "2016"
-_director: ["Jonathan Nolan", "Fred Toye", ]
-_writer: ["Lisa Joy", "Jonathan Nolan", "Michael Crichton", "Dan Dietz", "Halley Wegryn Gross", "Charles Yu", ]
-_cast: ["Evan Rachel Wood (Dolores Abernathy)", "Thandie Newton (Maeve Millay)", "James Marsden (Teddy Flood)", "Jeffrey Wright (Bernard Lowe)", "Ed Harris (Man in Black)", "Talulah Riley (Angela)", "Louis Herthum (Peter Abernathy)", "Anthony Hopkins (Dr. Robert Ford)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Andrew Seklir", "Tanya M. Swerling", "Mark Yoshikawa", ]
-_cinematographer: ["Brendan Galvin", "Robert McLachlan", "Jeff Jur", "Paul Cameron", ]
-_music: ["Ramin Djawadi", ]
-_artdirection: ["James Bolenbaugh", "Jonathan Carlos", "Dennis Bradford", "Samantha Avila", "Steve Christensen", "Colin De Rouin", ]
-_costume designer: ["Ane Crabtree", ]
-_genres: ["Drama", ]
-_runtimes: ["60", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTEyODk5NTc2MjNeQTJeQWpwZ15BbWU4MDQ5NTgwOTkx.jpg"
-_kind: "tv series"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTEyODk5NTc2MjNeQTJeQWpwZ15BbWU4MDQ5NTgwOTkx._V1._SX94_SY140_.jpg"
+title: "Westworld - Primeira Temporada (Revisita com algumas questões e Spoilers)"
+stars: "5/5"
+desc: "Westworld - Primeira Temporada (Revisita com algumas questões e Spoilers). Westworld (USA, 2016). Dirigido por Jonathan Nolan, Fred Toye. Escrito por Lisa Joy, Jonathan Nolan, Michael Crichton, Dan Dietz, Halley Wegryn Gross, Charles Yu. Com Evan Rachel Wood (Dolores Abernathy), Thandie Newton (Maeve Millay), James Marsden (Teddy Flood), Jeffrey Wright (Bernard Lowe), Ed Harris (Man in Black), Talulah Riley (Angela), Louis Herthum (Peter Abernathy), Anthony Hopkins (Dr. Robert Ford)."
 ---
 A revisita a Westworld vale muito a pena. Detalhes que só serão revelados no final são percebidos desde o começo, e a experiência de torna única novamente. Em meu primeiro texto não me lembro se liberei spoilers (vendo agora... não), mas este aqui é certeza que terá. Como toda revisita a esta série deve ter.
 

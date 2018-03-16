@@ -1,25 +1,10 @@
 ---
-date: "2014-04-06"
 imdb: "1483013"
+date: "2014-04-06"
+categories: "movies"
 title: "Oblivion"
 stars: "3/5"
-categories: "movies"
-_title: "Oblivion"
-_year: "2013"
-_director: ["Joseph Kosinski", ]
-_writer: ["Karl Gajdusek", "Michael Arndt", "Joseph Kosinski", ]
-_cast: ["Tom Cruise", "Morgan Freeman", "Olga Kurylenko", "Andrea Riseborough", "Nikolaj Coster-Waldau", "Melissa Leo", "Zoë Bell", "Abigail Lowe", "Isabelle Lowe", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Richard Francis-Bruce", ]
-_cinematographer: ["Claudio Miranda", ]
-_music: ["Anthony Gonzalez", "M83", "Joseph Trapanese", ]
-_genres: ["Action", ]
-_runtimes: ["124", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQwMDY0MTA4MF5BMl5BanBnXkFtZTcwNzI3MDgxOQ@@.jpg"
-_ratio: "1.89 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQwMDY0MTA4MF5BMl5BanBnXkFtZTcwNzI3MDgxOQ@@._V1._SX88_SY140_.jpg"
+desc: "Oblivion. Oblivion (USA, 2013). Dirigido por Joseph Kosinski. Escrito por Karl Gajdusek, Michael Arndt, Joseph Kosinski. Com Tom Cruise, Morgan Freeman, Olga Kurylenko, Andrea Riseborough, Nikolaj Coster-Waldau, Melissa Leo, Zoë Bell, Abigail Lowe, Isabelle Lowe."
 ---
 Oblivion consegue a proeza de citar diversas obras de ficção científica memoráveis e ainda assim ficar muito longe dos resultados que as mesmas obras tiveram em suas épocas. Talvez o maior problema seja Tom Cruise, que desde muito tempo vem repetindo suas performances e evitando que uma trama até que interessante ganhe frutos, um toque de Midas ao contrário que chega a rivalizar com Will Smith.
 

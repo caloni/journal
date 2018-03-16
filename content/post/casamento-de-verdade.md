@@ -1,15 +1,11 @@
 ---
-date: "2016-05-19"
-tags: [ "cabine" ]
+title: "Casamento de Verdade"
+tags: ['cabine']
 imdb: "3289712"
 stars: "3/5"
+date: "2016-05-19"
 categories: "movies"
-title: "Casamento de Verdade"
-_title: "Jenny's Wedding"
-_year: "2015"
-_director: ["Mary Agnes Donoghue", ]
-_writer: ["Mary Agnes Donoghue", ]
-_cast: ["Katherine Heigl", "Tom Wilkinson", "Linda Emond"]
+desc: "Casamento de Verdade. Dirigido por Mary Agnes Donoghue. Escrito por Mary Agnes Donoghue. Com Katherine Heigl, Tom Wilkinson, Linda Emond."
 ---
 Este é provavelmente um projeto de longa data da diretora Mary Agnes Donoghue, que não dirige desde 1991. Ele fala de um relacionamento gay entre duas moças como se estivéssemos ainda em 1991. E se formos analisar que a protagonista é ninguém menos que a "comédia romântica" girl Katherine Heigl, ancorada por um elenco de peso no piloto automático, talvez faça até sentido a história disfarçada de ousada, mas que no fundo carrega um conservadorismo até que leve.
 

@@ -1,25 +1,10 @@
 ---
-date: "2014-06-21"
 imdb: "1731141"
+date: "2014-06-21"
+categories: "movies"
 title: "Enders Game O Jogo do Exterminador"
 stars: "3/5"
-categories: "movies"
-_title: "Ender's Game"
-_year: "2013"
-_director: ["Gavin Hood", ]
-_writer: ["Gavin Hood", "Orson Scott Card", ]
-_cast: ["Asa Butterfield", "Harrison Ford", "Hailee Steinfeld", "Abigail Breslin", "Ben Kingsley", "Viola Davis", "Aramis Knight", "Suraj Partha", "Moises Arias", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Lee Smith", "Zach Staenberg", ]
-_cinematographer: ["Donald McAlpine", ]
-_music: ["Steve Jablonsky", ]
-_genres: ["Action", ]
-_runtimes: ["114", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjAzMzI5OTgzMl5BMl5BanBnXkFtZTgwMTU5MTAwMDE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjAzMzI5OTgzMl5BMl5BanBnXkFtZTgwMTU5MTAwMDE@._V1._SX94_SY140_.jpg"
+desc: "Enders Game O Jogo do Exterminador. Ender's Game (USA, 2013). Dirigido por Gavin Hood. Escrito por Gavin Hood, Orson Scott Card. Com Asa Butterfield, Harrison Ford, Hailee Steinfeld, Abigail Breslin, Ben Kingsley, Viola Davis, Aramis Knight, Suraj Partha, Moises Arias."
 ---
 Por que estão treinando crianças para guerrear contra um povo alienígena? Se já se passaram 50 anos, onde estão os jovens dessa geração? A função de Ender é explicada em mais da metade do filme, mas qual a função de todos os outros da equipe, e por que foram escolhidos? Todas essas perguntas podem permanecer sem resposta, pois "Ender's Game" é praticamente um folclore que tenta ensinar -- ou ao menos fazer pensar -- a respeito de nossa posição no mundo entre as diferentes espécies que ajudamos a ameaçar de extinção, o que gera uma última e fatal pergunta: onde está a ética que define a sobrevivência de qual espécie é a mais importante?
 

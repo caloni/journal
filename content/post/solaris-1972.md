@@ -1,25 +1,10 @@
 ---
-date: "2012-10-21"
 imdb: "0069293"
+date: "2012-10-21"
+categories: "movies"
 title: "Solaris"
 stars: "5/5"
-categories: "movies"
-_title: "Solyaris"
-_year: "1972"
-_director: ["Andrei Tarkovsky", ]
-_writer: ["Stanislaw Lem", "Fridrikh Gorenshteyn", "Andrei Tarkovsky", ]
-_cast: ["Natalya Bondarchuk", "Donatas Banionis", "Jüri Järvet", "Vladislav Dvorzhetskiy", "Nikolay Grinko", "Anatoliy Solonitsyn", "Olga Barnet", "Vitalik Kerdimun", "Olga Kizilova", ]
-_countries: ["Soviet Union", ]
-_languages: ["Russian", ]
-_editor: ["Lyudmila Feyginova", "Nina Marcus", ]
-_cinematographer: ["Vadim Yusov", ]
-_music: ["Eduard Artemev", ]
-_genres: ["Drama", ]
-_runtimes: ["167", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjAyNjQwMjc5Nl5BMl5BanBnXkFtZTgwOTk4MjI2MTE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjAyNjQwMjc5Nl5BMl5BanBnXkFtZTgwOTk4MjI2MTE@._V1._SX99_SY140_.jpg"
+desc: "Solaris. Solyaris (Soviet Union, 1972). Dirigido por Andrei Tarkovsky. Escrito por Stanislaw Lem, Fridrikh Gorenshteyn, Andrei Tarkovsky. Com Natalya Bondarchuk, Donatas Banionis, Jüri Järvet, Vladislav Dvorzhetskiy, Nikolay Grinko, Anatoliy Solonitsyn, Olga Barnet, Vitalik Kerdimun, Olga Kizilova."
 ---
 Solaris exige do espectador uma imersão surreal e ao mesmo tempo filosófica. Tudo bem que isso já é esperado de toda boa obra de ficção-científica, que nos coloca em uma realidade alternativa mas que continua debatendo temas da época em que foi feita.
 

@@ -1,23 +1,11 @@
 ---
-imdb: "6878038"
-stars: "3/5"
 tags: ['cabine', 'mostrasp']
+imdb: "6878038"
 date: 2017-10-20T19:21:42
-title: "O Motorista de Táxi"
 categories: "movies"
-_title: "Taeksi Woonjunsa"
-_year: "2017"
-_director: ["Hun Jang", ]
-_writer: ["Yu-na Eom", ]
-_cast: ["Kang-ho Song (Man-seob / Kim)", "Thomas Kretschmann (Peter)", "Hae-jin Yoo (Tae-sul / Hwang)", "Jun-yeol Ryu (Jae-sik / Gu)", "Hyuk-kwon Park (Reporter Choi)", "Gwi-hwa Choi", "Daniel Joey Albright (BBC Reporter David John)", ]
-_countries: ["South Korea", ]
-_languages: ["English", ]
-_genres: ["Action", ]
-_runtimes: ["137", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTA5ZGE4ZTQtYjVjOS00MTllLTkwZWEtYzQ5NzljMWJkYWE4XkEyXkFqcGdeQXVyMTk0NTY2ODQ@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTA5ZGE4ZTQtYjVjOS00MTllLTkwZWEtYzQ5NzljMWJkYWE4XkEyXkFqcGdeQXVyMTk0NTY2ODQ@._V1._SX95_SY140_.jpg"
+title: "O Motorista de Táxi"
+stars: "3/5"
+desc: "O Motorista de Táxi. Taeksi Woonjunsa (South Korea, 2017). Dirigido por Hun Jang. Escrito por Yu-na Eom. Com Kang-ho Song (Man-seob / Kim), Thomas Kretschmann (Peter), Hae-jin Yoo (Tae-sul / Hwang), Jun-yeol Ryu (Jae-sik / Gu), Hyuk-kwon Park (Reporter Choi), Gwi-hwa Choi, Daniel Joey Albright (BBC Reporter David John)."
 ---
 Esta é uma história interessante sobre quando a Coreia do Sul era uma ditadura. E ela caiu. E uma nova estava a caminho. O filme de Hun Jang dá praticamente todos os passos para entendermos o que aconteceu com a Coreia do Norte. Mas esta é a do Sul. Então ainda há esperança.
 

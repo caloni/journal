@@ -1,26 +1,11 @@
 ---
-date: "2011-10-29"
 imdb: "0910559"
-revision: [2014-05-25]
+date: "2011-10-29"
+categories: "movies"
 title: "Hanami Cerejeiras em Flor"
 stars: "5/5"
-categories: "movies"
-_title: "Kirschblüten - Hanami"
-_year: "2008"
-_director: ["Doris Dörrie", ]
-_writer: ["Doris Dörrie", ]
-_cast: ["Elmar Wepper", "Hannelore Elsner", "Aya Irizuki", "Maximilian Brückner", "Nadja Uhl", "Birgit Minichmayr", "Felix Eitner", "Floriane Daniel", "Celine Tanneberger", ]
-_countries: ["Germany", ]
-_languages: ["German", ]
-_editor: ["Frank J. Müller", "Inez Regnier", ]
-_cinematographer: ["Hanno Lentz", ]
-_music: ["Claus Bantzer", ]
-_genres: ["Drama", ]
-_runtimes: ["Argentina:127", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTYyNzU2MjI5Ml5BMl5BanBnXkFtZTcwNjAzMjAzMg@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTYyNzU2MjI5Ml5BMl5BanBnXkFtZTcwNjAzMjAzMg@@._V1._SX95_SY140_.jpg"
+revision: [datetime.date(2014, 5, 25)]
+desc: "Hanami Cerejeiras em Flor. Kirschblüten - Hanami (Germany, 2008). Dirigido por Doris Dörrie. Escrito por Doris Dörrie. Com Elmar Wepper, Hannelore Elsner, Aya Irizuki, Maximilian Brückner, Nadja Uhl, Birgit Minichmayr, Felix Eitner, Floriane Daniel, Celine Tanneberger."
 ---
 Hanami conta a história de um casal que mantém uma vida pacata no interior da Alemanha enquanto mantém uma relação distante com seus três filhos  especialmente o caçula, que vive em Tóquio. O sonho da esposa é poder visitá-lo, pois, além da saudade, é visivelmente encantada pela cultura japonesa, como pode-se perceber pelos detalhes de decoração da casa deles e pelo seu interesse no butô, uma espécie de dança teatral que utiliza a expressão do corpo e seu efeito na sombra formada pelos movimentos.
 

@@ -1,24 +1,11 @@
 ---
+tags: ['netflix', 'series']
+imdb: "4295140"
 date: "2016-12-04"
 categories: "series"
 title: "Chef's Table"
-imdb: "4295140"
 stars: "4/5"
-tags: ['netflix', 'series']
-_title: "Chef's Table"
-_year: "2015"
-_director: ["Clay Jeter", "Brian McGinn", "Andrew Fried", "David Gelb", ]
-_cast: ["Dan Barber (Himself - Chef)", "Massimo Bottura (Himself - Chef)", "Bill Buford (Himself)", "Lara Gilmore (Herself)", "Francis Mallmann (Himself - Chef)", "Niki Nakayama (Herself - Chef)", "Magnus Nilsson (Himself - Chef)", "Ruth Reichl (Herself)", "Ben Shewry (Himself - Chef)", ]
-_countries: ["USA", ]
-_editor: ["Jesse Overman", "J. Santos", "Eric Freidenberg", ]
-_cinematographer: ["Adam Bricker", "Will Basanta", ]
-_music: ["Duncan Thum", "Silas Hite", ]
-_genres: ["Documentary", ]
-_runtimes: ["50", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAzMzcyODU4MV5BMl5BanBnXkFtZTgwODMyNzE4NTE@.jpg"
-_ratio: "2.00 : 1"
-_kind: "tv series"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAzMzcyODU4MV5BMl5BanBnXkFtZTgwODMyNzE4NTE@._V1._SX100_SY140_.jpg"
+desc: "Chef's Table. Chef's Table (USA, 2015). Dirigido por Clay Jeter, Brian McGinn, Andrew Fried, David Gelb. Com Dan Barber (Himself - Chef), Massimo Bottura (Himself - Chef), Bill Buford (Himself), Lara Gilmore (Herself), Francis Mallmann (Himself - Chef), Niki Nakayama (Herself - Chef), Magnus Nilsson (Himself - Chef), Ruth Reichl (Herself), Ben Shewry (Himself - Chef)."
 ---
 As séries que costumo testar/acompanhar da Netflix me fazem às vezes questionar a capacidade da distribuidora de conteúdo de se manter na média das outras produtoras. Às vezes eles parecem ligeiramente superiores. E é o caso de Chef's Table, que se veste de uma série documental com cada episódios abordando um chefe de cozinha e o que ele tem a oferecer à alta gastronomia. Porém, no fundo, os idealizadores da série vão além, e embora sigam constantemente uma cartilha estática no roteiro (e na direção), os resultados podem surpreender.
 

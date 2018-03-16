@@ -1,27 +1,11 @@
 ---
+tags: ['netflix', 'series']
+imdb: "3958276"
 date: "2016-10-23"
 categories: "series"
 title: "Midnight Diner: Tokyo Stories"
-imdb: "3958276"
 stars: "4/5"
-tags: ['netflix', 'series']
-_title: "Shinya shokudô"
-_year: "2014"
-_director: ["Joji Matsuoka", ]
-_writer: ["Yarô Abe", "Katsuhiko Manabe", "Kensaku Kojima", "Joji Matsuoka", ]
-_cast: ["Kaoru Kobayashi (Master)", "Saki Takaoka (Tamako Kawashima)", "Tokio Emoto (Hajime Nishida)", "Hiroyuki Motoi", "Akira Sagara", "Mikako Tabe (Michiru Kuriyama)", "Kiyohiko Shibukawa (Tadao)", "Mitsuki Tanimura", "Yoshiyuki Morishita", ]
-_countries: ["Japan", ]
-_languages: ["Japanese", ]
-_editor: ["Shin'ichi Fushima", ]
-_cinematographer: ["Ryô Ohtsuka", ]
-_music: ["Kimie Fukuhara", "Keisuke Hinami", "Tsunekichi Suzuki", ]
-_artdirection: ["Mitsuo Harada", ]
-_genres: ["Comedy", ]
-_runtimes: ["119", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BOGM2ZGQ1YjItNzVkMS00MjM3LWFkY2QtNTRmNzQyNWM5MWE2XkEyXkFqcGdeQXVyMTg1NzQxOTg@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BOGM2ZGQ1YjItNzVkMS00MjM3LWFkY2QtNTRmNzQyNWM5MWE2XkEyXkFqcGdeQXVyMTg1NzQxOTg@._V1._SX99_SY140_.jpg"
+desc: "Midnight Diner: Tokyo Stories. Shinya shokudô (Japan, 2014). Dirigido por Joji Matsuoka. Escrito por Yarô Abe, Katsuhiko Manabe, Kensaku Kojima, Joji Matsuoka. Com Kaoru Kobayashi (Master), Saki Takaoka (Tamako Kawashima), Tokio Emoto (Hajime Nishida), Hiroyuki Motoi, Akira Sagara, Mikako Tabe (Michiru Kuriyama), Kiyohiko Shibukawa (Tadao), Mitsuki Tanimura, Yoshiyuki Morishita."
 ---
 Como uma versão japonesa, mas mais folclórica e... gastronômica? de Easy (série da Netflix sobre desembaraçar relacionamentos), Midnight Diner é fofo, pois apela para o jeito animê do japonês se comportar (e os atores colaboram, vivenciando personagens impossivelmente agradáveis), e um passatempo curioso. Parece que quanto menos sabemos dos detalhes da vida dessas pessoas fictícias, mais emblemática se torna a história, e mais torcemos para que tudo dê certo. Uma série que evoca esses sentimentos do seu espectador não pode ser tão ruim assim.
 

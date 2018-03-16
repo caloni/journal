@@ -1,25 +1,10 @@
 ---
-date: "2015-04-27"
 imdb: "2452200"
-stars: "3/5"
+date: "2015-04-27"
 categories: "movies"
 title: "Son of a Gun"
-_title: "Son of a Gun"
-_year: "2014"
-_director: ["Julius Avery", ]
-_writer: ["Julius Avery", "John Collee", ]
-_cast: ["Ewan McGregor", "Brendan Kerkvliet", "Brenton Thwaites", "Alicia Vikander", "Geoff Kelso", "Jacek Koman", "Matt Nable", "Peter Neaves", "Tom Budge", ]
-_countries: ["Australia", ]
-_languages: ["English", ]
-_editor: ["Jack Hutchings", ]
-_cinematographer: ["Nigel Bluck", ]
-_music: ["Jed Kurzel", ]
-_genres: ["Action", ]
-_runtimes: ["108", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTg4MjUxODczM15BMl5BanBnXkFtZTgwMDY4MjY0MzE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTg4MjUxODczM15BMl5BanBnXkFtZTgwMDY4MjY0MzE@._V1._SX91_SY140_.jpg"
+stars: "3/5"
+desc: "Son of a Gun. Son of a Gun (Australia, 2014). Dirigido por Julius Avery. Escrito por Julius Avery, John Collee. Com Ewan McGregor, Brendan Kerkvliet, Brenton Thwaites, Alicia Vikander, Geoff Kelso, Jacek Koman, Matt Nable, Peter Neaves, Tom Budge."
 ---
 Esse é um filme meio abandonado pelas distribuidoras nacionais e ainda não estreou por aqui, mesmo tendo um ator conhecido no elenco (o escocês Ewan McGregor). E por falar em estreia, depois de dirigir seis curta-metragens, o diretor Julius Avery comanda este longa que era para ser um super-filme de ação e drama sobre um garoto que acaba preso junto de um famoso criminoso que o ajuda a sair ileso de sua estadia na cadeia por seis meses, pedindo em troca que ele mexa os pauzinhos do lado de fora para realizar uma fuga nada crível, ainda mais se considerarmos que ele estava em um presídio de segurança máxima.
 

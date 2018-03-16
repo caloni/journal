@@ -1,25 +1,10 @@
 ---
-date: "2015-08-13"
 imdb: "0054198"
-stars: "3/5"
+date: "2015-08-13"
 categories: "movies"
 title: "Nunca Aos Domingos"
-_title: "Pote tin Kyriaki"
-_year: "1960"
-_director: ["Jules Dassin", ]
-_writer: ["Jules Dassin", ]
-_cast: ["Melina Mercouri", "Jules Dassin", "Giorgos Foundas", "Titos Vandis", "Mitsos Ligizos", "Despo Diamantidou", "Dimos Starenios", "Dimitris Papamichael", "Alexis Solomos", ]
-_countries: ["Greece", ]
-_languages: ["English", ]
-_editor: ["Roger Dwyre", ]
-_cinematographer: ["Jacques Natteau", ]
-_music: ["Manos Hatzidakis", ]
-_genres: ["Comedy", ]
-_runtimes: ["91", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTI1NTg3NzA4Ml5BMl5BanBnXkFtZTYwMTU4Njk5.jpg"
-_ratio: "1.66 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTI1NTg3NzA4Ml5BMl5BanBnXkFtZTYwMTU4Njk5._V1._SX98_SY140_.jpg"
+stars: "3/5"
+desc: "Nunca Aos Domingos. Pote tin Kyriaki (Greece, 1960). Dirigido por Jules Dassin. Escrito por Jules Dassin. Com Melina Mercouri, Jules Dassin, Giorgos Foundas, Titos Vandis, Mitsos Ligizos, Despo Diamantidou, Dimos Starenios, Dimitris Papamichael, Alexis Solomos."
 ---
 Uma comédia aparentemente despretensiosa dos anos 60, grega, com muitos diálogo em inglês, e que vem bem a calhar de assistir nesse momento sócio-econômico onde a terra dos filósofos da lógica perdeu seu último laço com o bom senso. Quando é aberto para votação nacional para decidir se será paga uma dívida internacional adquirida na farra, a cultura de Nunca aos Domingos da vida fácil e do proletariado explorado vem à tona.
 

@@ -1,25 +1,11 @@
 ---
-date: "2013-11-02"
+tags: ['southpark', 'series']
 imdb: "0158983"
+date: "2013-11-02"
+categories: "movies"
 title: "South Park Maior Melhor e Sem Cortes"
 stars: "4/5"
-categories: "movies"
-tags: ["southpark", "series"]
-_title: "South Park: Bigger Longer & Uncut"
-_year: "1999"
-_director: ["Trey Parker", ]
-_writer: ["Trey Parker", "Matt Stone", "Trey Parker", "Matt Stone", "Pam Brady", ]
-_cast: ["Trey Parker", "Matt Stone", "Mary Kay Bergman", "Isaac Hayes", "Jesse Brant Howell", "Anthony Cross-Thomas", "Franchesca Clifford", "Bruce Howell", "Deb Adair", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["John Venzon", ]
-_music: ["Marc Shaiman", ]
-_genres: ["Animation", ]
-_runtimes: ["81", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTk4NjQzMTI0MV5BMl5BanBnXkFtZTcwODAxNTIyMQ@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTk4NjQzMTI0MV5BMl5BanBnXkFtZTcwODAxNTIyMQ@@._V1._SX99_SY140_.jpg"
+desc: "South Park Maior Melhor e Sem Cortes. South Park: Bigger Longer & Uncut (USA, 1999). Dirigido por Trey Parker. Escrito por Trey Parker, Matt Stone, Trey Parker, Matt Stone, Pam Brady. Com Trey Parker, Matt Stone, Mary Kay Bergman, Isaac Hayes, Jesse Brant Howell, Anthony Cross-Thomas, Franchesca Clifford, Bruce Howell, Deb Adair."
 ---
 Não é nenhuma novidade que South Park preza pelo irreverente e polêmico em prol da comédia e, principalmente, na análise da estupidez humana (espectadores inclusos). No seu longa-metragem, portanto, nada muda. O diferencial é um frescor de piadas sobre os últimos acontecimentos no mundo que seriam feitas na versão televisiva de uma forma ou outra.
 

@@ -1,22 +1,11 @@
 ---
+tags: ['netflix', 'series']
+imdb: "5607970"
 date: "2017-04-04"
 categories: "blog"
 title: "Ultimate Beastmaster - Primeira Temporada"
-imdb: "5607970"
 stars: "4/5"
-tags: ['netflix', 'series']
-_title: "Ultimate Beastmaster"
-_year: "2017"
-_writer: ["David Broome", "Sylvester Stallone", ]
-_cast: ["Rafinha Bastos (Brazil host)", "Anderson Silva (Brazil host)", "Terry Crews (Host - US Version)", "Charissa Thompson (Host - US Version)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Matt Cluett", "Duane Fogwell", ]
-_genres: ["Game-Show", ]
-_runtimes: ["55", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjkxMjM5MTkzM15BMl5BanBnXkFtZTgwNDAwODIzMTI@.jpg"
-_kind: "tv series"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjkxMjM5MTkzM15BMl5BanBnXkFtZTgwNDAwODIzMTI@._V1._SX94_SY140_.jpg"
+desc: "Ultimate Beastmaster - Primeira Temporada. Ultimate Beastmaster (USA, 2017). Escrito por David Broome, Sylvester Stallone. Com Rafinha Bastos (Brazil host), Anderson Silva (Brazil host), Terry Crews (Host - US Version), Charissa Thompson (Host - US Version)."
 ---
 Esta não é uma competição corpo a corpo, nem uma avaliação de força, nem de habilidades esportistas. É, acima de tudo, uma ode ao ser humano, como as olimpíadas deveriam ser antes. Uma ode à capacidade humana, de se sobressair, vencer desafios e, o principal: vencer a si mesmo.
 

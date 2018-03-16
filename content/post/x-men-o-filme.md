@@ -1,25 +1,10 @@
 ---
-date: "2015-07-16"
 imdb: "0120903"
-stars: "4/5"
+date: "2015-07-16"
 categories: "movies"
 title: "X-Men: O Filme"
-_title: "X-Men"
-_year: "2000"
-_director: ["Bryan Singer", ]
-_writer: ["Tom DeSanto", "Bryan Singer", "David Hayter", ]
-_cast: ["Hugh Jackman", "Patrick Stewart", "Ian McKellen", "Famke Janssen", "James Marsden", "Halle Berry", "Anna Paquin", "Tyler Mane", "Ray Park", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Steven Rosenblum", "Kevin Stitt", "John Wright", ]
-_cinematographer: ["Newton Thomas Sigel", ]
-_music: ["Michael Kamen", ]
-_genres: ["Action", ]
-_runtimes: ["104", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTYxMTEzNTgzM15BMl5BanBnXkFtZTcwMjg1MzAwMQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTYxMTEzNTgzM15BMl5BanBnXkFtZTcwMjg1MzAwMQ@@._V1._SX100_SY135_.jpg"
+stars: "4/5"
+desc: "X-Men: O Filme. X-Men (USA, 2000). Dirigido por Bryan Singer. Escrito por Tom DeSanto, Bryan Singer, David Hayter. Com Hugh Jackman, Patrick Stewart, Ian McKellen, Famke Janssen, James Marsden, Halle Berry, Anna Paquin, Tyler Mane, Ray Park."
 ---
 "X-Men: o Filme" é um dos primeiros trabalhos de fantasia que volta a explorar super-heróis verossímeis, no sentido de respeitá-los como seres complexos envoltos em um universo onde sua existência não apenas é possível, mas moldada por ela. Dessa forma, ele faz o gancho com os quase esquecidos "Superman: o Filme" e "Superman: a Aventura Continua" e ainda nos apresenta uma aventura onde existe uma penca deles, conseguindo fazer com que tudo tivesse não apenas um sentido direto, mas simbólico.
 

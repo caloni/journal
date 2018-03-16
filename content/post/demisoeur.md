@@ -1,25 +1,10 @@
 ---
-date: "2016-03-13"
 imdb: "2200144"
-stars: "4/5"
+date: "2016-03-13"
 categories: "movies"
 title: "Demi-soeur"
-_title: "Demi-soeur"
-_year: "2013"
-_director: ["Josiane Balasko", ]
-_writer: ["Josiane Balasko", "Franck Le Joseph", ]
-_cast: ["Josiane Balasko", "Michel Blanc", "Brigitte Roüan", "Françoise Lépine", "George Aguilar", "Christine Murillo", "Grégoire Baujat", "Jean-Yves Chatelais", "Stéphan Wojtowicz", ]
-_countries: ["France", ]
-_languages: ["French", ]
-_editor: ["Andrea Sedlácková", ]
-_cinematographer: ["Sabine Lancelin", ]
-_music: ["Christophe Julien", ]
-_costume designer: ["Fabienne Katany", ]
-_genres: ["Comedy", ]
-_runtimes: ["90", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjM1MDg1NTY4N15BMl5BanBnXkFtZTgwOTczNTcwMTE@.jpg"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjM1MDg1NTY4N15BMl5BanBnXkFtZTgwOTczNTcwMTE@._V1._SX100_SY136_.jpg"
+stars: "4/5"
+desc: "Demi-soeur. Demi-soeur (France, 2013). Dirigido por Josiane Balasko. Escrito por Josiane Balasko, Franck Le Joseph. Com Josiane Balasko, Michel Blanc, Brigitte Roüan, Françoise Lépine, George Aguilar, Christine Murillo, Grégoire Baujat, Jean-Yves Chatelais, Stéphan Wojtowicz."
 ---
 Essa comédia francesa com certeza segue o molde do estereótipo... "comédia francesa". Fala sobre amor em família, personagens cativantes e transformações de caráter.
 

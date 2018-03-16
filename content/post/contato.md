@@ -1,25 +1,10 @@
 ---
-date: "2013-12-29"
 imdb: "0118884"
+date: "2013-12-29"
+categories: "movies"
 title: "Contato"
 stars: "5/5"
-categories: "movies"
-_title: "Contact"
-_year: "1997"
-_director: ["Robert Zemeckis", ]
-_writer: ["Carl Sagan", "Carl Sagan", "Ann Druyan", "James V. Hart", "Michael Goldenberg", ]
-_cast: ["Jena Malone", "David Morse", "Jodie Foster", "Geoffrey Blake", "William Fichtner", "Sami Chester", "Timothy McNeil", "Laura Elena Surillo", "Matthew McConaughey", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Arthur Schmidt", ]
-_cinematographer: ["Don Burgess", ]
-_music: ["Alan Silvestri", ]
-_genres: ["Drama", ]
-_runtimes: ["150", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjEyMDQxMTMxMF5BMl5BanBnXkFtZTcwNTU0ODcyMg@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjEyMDQxMTMxMF5BMl5BanBnXkFtZTcwNTU0ODcyMg@@._V1._SX94_SY140_.jpg"
+desc: "Contato. Contact (USA, 1997). Dirigido por Robert Zemeckis. Escrito por Carl Sagan, Carl Sagan, Ann Druyan, James V. Hart, Michael Goldenberg. Com Jena Malone, David Morse, Jodie Foster, Geoffrey Blake, William Fichtner, Sami Chester, Timothy McNeil, Laura Elena Surillo, Matthew McConaughey."
 ---
 Adoro o livro que Carl Sagan escreveu imaginando como seria, em um mundo realista e atual, nossa primeira comunicação com uma civilização extraterrestre. Ele não apenas fez isso como abriu um pouco mais nosso leque filosófico ao ensaiar uma explicação que unisse ciência e religião, matemática e sentimentos.
 

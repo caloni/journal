@@ -1,25 +1,10 @@
 ---
-date: "2010-12-04"
 imdb: "0084827"
+date: "2010-12-04"
+categories: "movies"
 title: "Tron Uma Odisséia Eletrônica"
 stars: "3/5"
-categories: "movies"
-_title: "TRON"
-_year: "1982"
-_director: ["Steven Lisberger", ]
-_writer: ["Steven Lisberger", "Steven Lisberger", "Bonnie MacBird", ]
-_cast: ["Jeff Bridges", "Bruce Boxleitner", "David Warner", "Cindy Morgan", "Barnard Hughes", "Dan Shor", "Peter Jurasik", "Tony Stephano", "Craig Chudy", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Jeff Gourson", ]
-_cinematographer: ["Bruce Logan", ]
-_music: ["Wendy Carlos", ]
-_genres: ["Action", ]
-_runtimes: ["96", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTY0OTM4ODM2MF5BMl5BanBnXkFtZTgwMTI0NDIxMDE@.jpg"
-_ratio: "2.20 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTY0OTM4ODM2MF5BMl5BanBnXkFtZTgwMTI0NDIxMDE@._V1._SX95_SY140_.jpg"
+desc: "Tron Uma Odisséia Eletrônica. TRON (USA, 1982). Dirigido por Steven Lisberger. Escrito por Steven Lisberger, Steven Lisberger, Bonnie MacBird. Com Jeff Bridges, Bruce Boxleitner, David Warner, Cindy Morgan, Barnard Hughes, Dan Shor, Peter Jurasik, Tony Stephano, Craig Chudy."
 ---
 Mesmo assistindo hoje, 28 anos depois, Tron ainda parece um filme dedicado principalmente a vender video-games.
 

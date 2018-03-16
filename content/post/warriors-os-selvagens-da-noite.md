@@ -1,25 +1,10 @@
 ---
-date: "2013-08-02"
 imdb: "0080120"
+date: "2013-08-02"
+categories: "movies"
 title: "Warriors Os Selvagens da Noite"
 stars: "5/5"
-categories: "movies"
-_title: "The Warriors"
-_year: "1979"
-_director: ["Walter Hill", ]
-_writer: ["Sol Yurick", "David Shaber", "Walter Hill", ]
-_cast: ["Michael Beck", "James Remar", "Dorsey Wright", "Brian Tyler", "David Harris", "Tom McKitterick", "Marcelino Sánchez", "Terry Michos", "Deborah Van Valkenburgh", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Freeman A. Davies", "David Holden", "Susan E. Morse", "Billy Weber", ]
-_cinematographer: ["Andrew Laszlo", ]
-_music: ["Barry De Vorzon", ]
-_genres: ["Action", ]
-_runtimes: ["92", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTYzMjE2MzE3MF5BMl5BanBnXkFtZTYwMzUyNDQ5.jpg"
-_ratio: "1.78 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTYzMjE2MzE3MF5BMl5BanBnXkFtZTYwMzUyNDQ5._V1._SX77_SY140_.jpg"
+desc: "Warriors Os Selvagens da Noite. The Warriors (USA, 1979). Dirigido por Walter Hill. Escrito por Sol Yurick, David Shaber, Walter Hill. Com Michael Beck, James Remar, Dorsey Wright, Brian Tyler, David Harris, Tom McKitterick, Marcelino Sánchez, Terry Michos, Deborah Van Valkenburgh."
 ---
 Filmado claramente como um filme de batalhas do Império Romano  a la Spartacus, Ben-Hur e tantos outros  nossa visão é forçada a enxergar aquelas gangues de rua como exércitos a defender seu território, o que é fascinante por si só, pois embute em nossa mente o mesmo perigo de morte que exércitos "tradicionais" teriam em zona inimiga.
 

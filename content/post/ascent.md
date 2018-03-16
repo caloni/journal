@@ -1,24 +1,11 @@
 ---
+tags: ['mostrasp']
+imdb: "5933966"
 date: "2016-10-25"
 categories: "movies"
 title: "Ascent"
-imdb: "5933966"
 stars: "4/5"
-tags: ['mostrasp']
-_title: "Ascent"
-_year: "2016"
-_director: ["Fiona Tan", ]
-_writer: ["Fiona Tan", ]
-_cast: ["Hiroki Hasegawa (Hiroshi)", ]
-_countries: ["Japan", ]
-_languages: ["English", ]
-_editor: ["Nathalie Alonso Casale", ]
-_music: ["Leo Anemaet", "Hugo Dijkstal", ]
-_genres: ["Drama", ]
-_runtimes: ["80", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BZDMyNjIyYmMtZTIwYy00MDNmLWJhYjMtOTkwNDUwNDBkODY5XkEyXkFqcGdeQXVyNjU1MzEwNDU@.jpg"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BZDMyNjIyYmMtZTIwYy00MDNmLWJhYjMtOTkwNDUwNDBkODY5XkEyXkFqcGdeQXVyNjU1MzEwNDU@._V1._SX94_SY140_.jpg"
+desc: "Ascent. Ascent (Japan, 2016). Dirigido por Fiona Tan. Escrito por Fiona Tan. Com Hiroki Hasegawa (Hiroshi)."
 ---
 Aviso: este filme é na verdade um foto-film experimental. Ou seja, ele é constituído de uma série de fotografias, e tem uma narração em off. Alguns filmes na história do Cinema se saíram fabulosamente bem com esse estilo (como A Pista/La Jetée, curta que inspirou o longa de sci-fi Os 12 Macacos, de Terry Giliam).
 

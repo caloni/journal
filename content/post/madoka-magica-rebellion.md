@@ -1,25 +1,10 @@
 ---
-date: "2015-06-27"
 imdb: "2457282"
-stars: "4/5"
+date: "2015-06-27"
 categories: "movies"
 title: "Puella Magi Madoka Magica the Movie Part III: Rebellion"
-_title: "Gekijouban Mahou shojo Madoka magika Shinpen: Hangyaku no monogatari"
-_year: "2013"
-_director: ["Yukihiro Miyamoto", "Akiyuki Shinbo", "Alex Von David", ]
-_writer: ["Gen Urobuchi", "Alex Von David", ]
-_cast: ["Aoi Yuki", "Chiwa Saito", "Eri Kitamura", "Kaori Mizuhashi", "Ai Nonaka", "Kana Asumi", "Emiri Katou", "Yûko Gotô", "Tetsuya Iwanaga", ]
-_countries: ["Japan", ]
-_languages: ["Japanese", ]
-_editor: ["Rie Matsuhara", ]
-_cinematographer: ["Shinichiro Eto", ]
-_music: ["Yuki Kajiura", ]
-_genres: ["Animation", ]
-_runtimes: ["116", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTU4MDUxMzcxMV5BMl5BanBnXkFtZTgwNzI5MDU2MDE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTU4MDUxMzcxMV5BMl5BanBnXkFtZTgwNzI5MDU2MDE@._V1._SX100_SY140_.jpg"
+stars: "4/5"
+desc: "Puella Magi Madoka Magica the Movie Part III: Rebellion. Gekijouban Mahou shojo Madoka magika Shinpen: Hangyaku no monogatari (Japan, 2013). Dirigido por Yukihiro Miyamoto, Akiyuki Shinbo, Alex Von David. Escrito por Gen Urobuchi, Alex Von David. Com Aoi Yuki, Chiwa Saito, Eri Kitamura, Kaori Mizuhashi, Ai Nonaka, Kana Asumi, Emiri Katou, Yûko Gotô, Tetsuya Iwanaga."
 ---
 Madoka Mágica, uma série com começo, meio e fim embalada em uma arte-sequência deliciosamente artística de acompanhar e um enredo absurdamente filosófico para os que destratam anime, resolve extrapolar alguns conceitos de sua conclusão original, criando esse longa-metragem onde, podemos dizer, tanto a parte artística quanto a narrativa são multiplicados por 1000, e perdendo apenas um pouco de suas rédeas originais, ainda que compensando pela sua realização.
 

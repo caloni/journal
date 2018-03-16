@@ -1,25 +1,10 @@
 ---
-date: "2015-01-23"
 imdb: "2333784"
+date: "2015-01-23"
+categories: "movies"
 title: "Os Mercenários 3"
 stars: "3/5"
-categories: "movies"
-_title: "The Expendables 3"
-_year: "2014"
-_director: ["Patrick Hughes", ]
-_writer: ["Sylvester Stallone", "Creighton Rothenberger", "Katrin Benedikt", "Sylvester Stallone", "Dave Callaham", ]
-_cast: ["Sylvester Stallone", "Jason Statham", "Harrison Ford", "Arnold Schwarzenegger", "Mel Gibson", "Wesley Snipes", "Dolph Lundgren", "Randy Couture", "Terry Crews", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Sean Albertson", "Paul Harb", ]
-_cinematographer: ["Peter Menzies Jr.", ]
-_music: ["Brian Tyler", ]
-_genres: ["Action", ]
-_runtimes: ["126", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BODU5ODMyMzg2MV5BMl5BanBnXkFtZTgwMTA2MTcxMjE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BODU5ODMyMzg2MV5BMl5BanBnXkFtZTgwMTA2MTcxMjE@._V1._SX94_SY140_.jpg"
+desc: "Os Mercenários 3. The Expendables 3 (USA, 2014). Dirigido por Patrick Hughes. Escrito por Sylvester Stallone, Creighton Rothenberger, Katrin Benedikt, Sylvester Stallone, Dave Callaham. Com Sylvester Stallone, Jason Statham, Harrison Ford, Arnold Schwarzenegger, Mel Gibson, Wesley Snipes, Dolph Lundgren, Randy Couture, Terry Crews."
 ---
 A série Mercenários tem um objetivo bem claro e um público-alvo definido: os fãs dos filmes de ação dos anos 80, onde eu me incluo. Queremos ver esses caras de novo, de preferência todos juntos. Queremos a maior reunião de testosterona jamais feita. Queremos explosões, lutas e cenas de tirar o fôlego.
 

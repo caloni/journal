@@ -1,28 +1,11 @@
 ---
+tags: ['cabine']
+imdb: "4258698"
 date: "2016-10-19"
 categories: "movies"
 title: "Michelle e Obama"
-imdb: "4258698"
 stars: "4/5"
-tags: ['cabine']
-_title: "Southside with You"
-_year: "2016"
-_director: ["Richard Tanne", ]
-_writer: ["Richard Tanne", ]
-_cast: ["Tika Sumpter (Michelle Robinson)", "Parker Sawyers (Barack Obama)", "Vanessa Bell Calloway (Marian Robinson)", "Phillip Edward Van Lear (Fraser Robinson)", "Taylar Fondren (Janice)", "Deanna Reed-Foster (Bernadette)", "Jerod Haynes (Tommy)", "Gabrielle Lott-Rogers (Rafiqa)", "Preston Tate Jr. (Kyle)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Evan Schiff", ]
-_cinematographer: ["Patrick Scola", ]
-_music: ["Stephen James Taylor", ]
-_artdirection: ["Adri Siriwatt", ]
-_costume designer: ["Megan Spatz", ]
-_genres: ["Biography", ]
-_runtimes: ["84", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjI3MTQ3NzE5NV5BMl5BanBnXkFtZTgwMjgzOTMxOTE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjI3MTQ3NzE5NV5BMl5BanBnXkFtZTgwMjgzOTMxOTE@._V1._SX95_SY140_.jpg"
+desc: "Michelle e Obama. Southside with You (USA, 2016). Dirigido por Richard Tanne. Escrito por Richard Tanne. Com Tika Sumpter (Michelle Robinson), Parker Sawyers (Barack Obama), Vanessa Bell Calloway (Marian Robinson), Phillip Edward Van Lear (Fraser Robinson), Taylar Fondren (Janice), Deanna Reed-Foster (Bernadette), Jerod Haynes (Tommy), Gabrielle Lott-Rogers (Rafiqa), Preston Tate Jr. (Kyle)."
 ---
 Este é o Antes do Amanhecer se Jesse e Céline fossem pessoas (ainda) mais engajadas com suas opiniões, estivessem ligeiramente mais velhos e mais acostumados com a vida real e os desafios de tentar mudar o mundo. Felizmente, há também diálogos interessantes de se acompanhar, e ele é ligeiramente mais dinâmico que o filme de Richar Linklater, com mais contexto, e uma conclusão.
 

@@ -1,27 +1,10 @@
 ---
-date: "2015-10-02"
 imdb: "1571222"
-stars: "3/5"
+date: "2015-10-02"
 categories: "movies"
 title: "Um Método Perigoso"
-_title: "A Dangerous Method"
-_year: "2011"
-_director: ["David Cronenberg", ]
-_writer: ["Christopher Hampton", "Christopher Hampton", "John Kerr", ]
-_cast: ["Keira Knightley", "Viggo Mortensen", "Michael Fassbender", "Vincent Cassel", "Sarah Gadon", "André Hennicke", "Arndt Schwering-Sohnrey", "Mignon Remé", "Mareike Carrière", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Ronald Sanders", ]
-_cinematographer: ["Peter Suschitzky", ]
-_music: ["Howard Shore", ]
-_artdirection: ["Anja Fromm", "Nina Hirschberg", "Frances Soeder", "Sebastian Soukup", ]
-_costume designer: ["Denise Cronenberg", ]
-_genres: ["Biography", ]
-_runtimes: ["99", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTU5Mjk3NjgxMl5BMl5BanBnXkFtZTcwMDM5MjA5Ng@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTU5Mjk3NjgxMl5BMl5BanBnXkFtZTcwMDM5MjA5Ng@@._V1._SX94_SY140_.jpg"
+stars: "3/5"
+desc: "Um Método Perigoso. A Dangerous Method (UK, 2011). Dirigido por David Cronenberg. Escrito por Christopher Hampton, Christopher Hampton, John Kerr. Com Keira Knightley, Viggo Mortensen, Michael Fassbender, Vincent Cassel, Sarah Gadon, André Hennicke, Arndt Schwering-Sohnrey, Mignon Remé, Mareike Carrière."
 ---
 Cronenberg, um diretor geralmente fascinante (Terapia de Risco), por algum motivo, dirigiu um filme burocrático que conta a história de amizade entre Sigmund Freud (Viggo Mortensen) e Carl Jung (Michael Fassbender) como um documentário da BBC. No meio envolve a russa judia Sabina Spielrein (Keira Knightley), de paciente para amante e posteriormente médica.
 

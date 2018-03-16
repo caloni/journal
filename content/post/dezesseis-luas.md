@@ -1,25 +1,10 @@
 ---
-date: "2013-07-10"
 imdb: "1559547"
+date: "2013-07-10"
+categories: "movies"
 title: "Dezesseis Luas"
 stars: "1/5"
-categories: "movies"
-_title: "Beautiful Creatures"
-_year: "2013"
-_director: ["Richard LaGravenese", ]
-_writer: ["Richard LaGravenese", "Kami Garcia", "Margaret Stohl", ]
-_cast: ["Alden Ehrenreich", "Alice Englert", "Jeremy Irons", "Viola Davis", "Emmy Rossum", "Thomas Mann", "Emma Thompson", "Eileen Atkins", "Margo Martindale", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["David Moritz", ]
-_cinematographer: ["Philippe Rousselot", ]
-_music: ["Thenewno2", ]
-_genres: ["Drama", ]
-_runtimes: ["124", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQyMjYwODMwMl5BMl5BanBnXkFtZTcwODUwNzY5OA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQyMjYwODMwMl5BMl5BanBnXkFtZTcwODUwNzY5OA@@._V1._SX95_SY140_.jpg"
+desc: "Dezesseis Luas. Beautiful Creatures (USA, 2013). Dirigido por Richard LaGravenese. Escrito por Richard LaGravenese, Kami Garcia, Margaret Stohl. Com Alden Ehrenreich, Alice Englert, Jeremy Irons, Viola Davis, Emmy Rossum, Thomas Mann, Emma Thompson, Eileen Atkins, Margo Martindale."
 ---
 Beautiful Creatures, ou Dezesseis Luas, é um filme baseado em um romance de Kami Garcia e Margaret Stohl que contém mais algumas continuações que muito provavelmente deverão ser produzidas como novos filmes no estilo da... arght! série Crepúsculo. Este foi dirigido e adaptado por Richard LaGravenese (que já havia feito um belo serviço em PS Eu Te Amo).
 

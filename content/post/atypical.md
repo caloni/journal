@@ -1,27 +1,11 @@
 ---
-imdb: "6315640"
-stars: "3/5"
 tags: ['netflix', 'series']
+imdb: "6315640"
 date: 2017-08-21T17:12:52
-title: "Atypical"
 categories: "series"
-_title: "Atypical"
-_year: "2017"
-_director: ["Michael Patrick Jann", "Seth Gordon", ]
-_writer: ["Jen Regan", "Ava Tramer", "Robia Rashid", "Dennis Saldua", "Michael Oppenhuizen", ]
-_cast: ["Jennifer Jason Leigh (Elsa Gardner / ...)", "Brigette Lundy-Paine (Casey Gardner / ...)", "Amy Okuda (Julia Sasaki)", "Keir Gilchrist (Sam / ...)", "Michael Rapaport (Doug Gardner)", "Nik Dodani (Zahid)", "Graham Rogers (Evan)", "Jenna Boyd (Paige)", "Raúl Castillo (Nick)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Sandra Montiel", "David Codron", ]
-_cinematographer: ["Joe Kessler", ]
-_music: ["Dan Romer", ]
-_artdirection: ["William J. Durrell Jr.", ]
-_costume designer: ["Mojdeh Daftary", ]
-_genres: ["Comedy", ]
-_runtimes: ["30", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTkyMjg2NTUyOF5BMl5BanBnXkFtZTgwNzE5MTQ5MjI@.jpg"
-_kind: "tv series"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTkyMjg2NTUyOF5BMl5BanBnXkFtZTgwNzE5MTQ5MjI@._V1._SX100_SY133_.jpg"
+title: "Atypical"
+stars: "3/5"
+desc: "Atypical. Atypical (USA, 2017). Dirigido por Michael Patrick Jann, Seth Gordon. Escrito por Jen Regan, Ava Tramer, Robia Rashid, Dennis Saldua, Michael Oppenhuizen. Com Jennifer Jason Leigh (Elsa Gardner / ...), Brigette Lundy-Paine (Casey Gardner / ...), Amy Okuda (Julia Sasaki), Keir Gilchrist (Sam / ...), Michael Rapaport (Doug Gardner), Nik Dodani (Zahid), Graham Rogers (Evan), Jenna Boyd (Paige), Raúl Castillo (Nick)."
 ---
 Mais do mesmo com o algoritmo já batido da Netflix. Depois do "gênero" indie invadir Hollywood com suas famílias desajustadas, agora é a vez dos espertos computadores da gigante de streaming entregar uma família desajustada por série. Esta tem no pacote uma mulher traidora e um autista.
 

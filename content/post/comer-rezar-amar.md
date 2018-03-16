@@ -1,25 +1,10 @@
 ---
-date: "2010-10-01"
 imdb: "0879870"
+date: "2010-10-01"
+categories: "movies"
 title: "Comer Rezar Amar"
 stars: "3/5"
-categories: "movies"
-_title: "Eat Pray Love"
-_year: "2010"
-_director: ["Ryan Murphy", ]
-_writer: ["Ryan Murphy", "Jennifer Salt", "Elizabeth Gilbert", ]
-_cast: ["Julia Roberts", "I. Gusti Ayu Puspawati", "Hadi Subiyanto", "Billy Crudup", "Viola Davis", "A. Jay Radcliff", "Mike O'Malley", "Ashlie Atkinson", "James Franco", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Bradley Buecker", ]
-_cinematographer: ["Robert Richardson", ]
-_music: ["Dario Marianelli", ]
-_genres: ["Drama", ]
-_runtimes: ["USA:133", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTY5NDkyNzkyM15BMl5BanBnXkFtZTcwNDQyNDk0Mw@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTY5NDkyNzkyM15BMl5BanBnXkFtZTcwNDQyNDk0Mw@@._V1._SX95_SY140_.jpg"
+desc: "Comer Rezar Amar. Eat Pray Love (USA, 2010). Dirigido por Ryan Murphy. Escrito por Ryan Murphy, Jennifer Salt, Elizabeth Gilbert. Com Julia Roberts, I. Gusti Ayu Puspawati, Hadi Subiyanto, Billy Crudup, Viola Davis, A. Jay Radcliff, Mike O'Malley, Ashlie Atkinson, James Franco."
 ---
 Julia Roberts é Liz Gilbert, uma mulher desiludida com o casamento em que vive e que busca em uma viagem pelo mundo (na verdade, Itália e Índia) se "reconectar" ao mundo. É através desse "objetivo" que vemos a personagem vivenciar momentos de puro êxtase turístico, em um filme que claramente apresenta as locações com esse propósito.
 

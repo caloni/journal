@@ -1,27 +1,10 @@
 ---
+imdb: "2674426"
 date: "2016-06-26"
 categories: "movies"
-imdb: "2674426"
-stars: "3/5"
 title: "Como Eu Era Antes de Você"
-_title: "Me Before You"
-_year: "2016"
-_director: ["Thea Sharrock", ]
-_writer: ["Jojo Moyes", "Jojo Moyes", ]
-_cast: ["Sam Claflin", "Emilia Clarke", "Vanessa Kirby", "Eileen Dunwoodie", "Pablo Raybould", "Gabrielle Downey", "Henri Charles", "Samantha Spiro", "Brendan Coyle", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["John Wilson", ]
-_cinematographer: ["Remi Adefarasin", ]
-_music: ["Craig Armstrong", ]
-_artdirection: ["Nick Dent", "Antoine Maron", "Rebecca Milton", "Christopher Wyatt", ]
-_costume designer: ["Jill Taylor", ]
-_genres: ["Drama", ]
-_runtimes: ["110", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQ2NjE4NDE2NV5BMl5BanBnXkFtZTgwOTcwNDE5NzE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQ2NjE4NDE2NV5BMl5BanBnXkFtZTgwOTcwNDE5NzE@._V1._SX94_SY140_.jpg"
+stars: "3/5"
+desc: "Como Eu Era Antes de Você. Me Before You (UK, 2016). Dirigido por Thea Sharrock. Escrito por Jojo Moyes, Jojo Moyes. Com Sam Claflin, Emilia Clarke, Vanessa Kirby, Eileen Dunwoodie, Pablo Raybould, Gabrielle Downey, Henri Charles, Samantha Spiro, Brendan Coyle."
 ---
 Bonitinho, britânico, meh. Emilia Clarke com certeza já esteve melhor. Uma das protagonistas da série Game of Thrones e a Sarah Connor do último Exterminador do Futuro, o uso sintomático de suas sobrancelhas fornece simpatia nessa comédia romântica que lida com um interesse amoroso tetraplégico.
 

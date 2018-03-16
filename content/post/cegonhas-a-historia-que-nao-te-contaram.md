@@ -1,26 +1,11 @@
 ---
+tags: ['cinema']
+imdb: "4624424"
 date: "2016-10-15"
 categories: "movies"
 title: "Cegonhas - A História Que Não Te Contaram"
-imdb: "4624424"
 stars: "4/5"
-tags: ['cinema']
-_title: "Storks"
-_year: "2016"
-_director: ["Nicholas Stoller", "Doug Sweetland", ]
-_writer: ["Nicholas Stoller", ]
-_cast: ["Andy Samberg (Junior)", "Katie Crown (Tulip)", "Kelsey Grammer (Hunter)", "Jennifer Aniston (Sarah Gardner)", "Ty Burrell (Henry Gardner)", "Anton Starkman (Nate Gardner)", "Keegan-Michael Key (Alpha Wolf)", "Jordan Peele (Beta Wolf)", "Danny Trejo (Jasper)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["John Venzon", ]
-_cinematographer: ["Simon Dunsdon", ]
-_music: ["Jeff Danna", "Mychael Danna", ]
-_genres: ["Animation", ]
-_runtimes: ["87", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYxNjI3MzcwMF5BMl5BanBnXkFtZTgwOTIyNDY5OTE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYxNjI3MzcwMF5BMl5BanBnXkFtZTgwOTIyNDY5OTE@._V1._SX94_SY140_.jpg"
+desc: "Cegonhas - A História Que Não Te Contaram. Storks (USA, 2016). Dirigido por Nicholas Stoller, Doug Sweetland. Escrito por Nicholas Stoller. Com Andy Samberg (Junior), Katie Crown (Tulip), Kelsey Grammer (Hunter), Jennifer Aniston (Sarah Gardner), Ty Burrell (Henry Gardner), Anton Starkman (Nate Gardner), Keegan-Michael Key (Alpha Wolf), Jordan Peele (Beta Wolf), Danny Trejo (Jasper)."
 ---
 Não se engane com a simplicidade deste filme (porque ele é bem simples). Seu jogo de cintura rápido, suas gags ligeiras -- metade ruim, metade interessante -- seus conceitos um tanto esquizofrênicos -- uma hora algo é importante, depois é outra, depois volta de novo -- e os diálogos expositivos de tudo que está acontecendo -- principalmente da boca do filho de um casal super-ocupado -- parecem obra de um amador. Parece tanto, mas tanto, que não é possível que ele seja. Há algo escondido nesse roteiro com uma produção de animação decente, com trilha grandiosa e fotografia competente. É um filme que parece zombar das produções Disneyanas, que insistem em mensagens de amor destacadas da realidade. E mesmo que você diga que os motivos por trás dessa atração é a fofura dos bebês, mesmo retirando-os de campo, fica difícil não gostar do resultado final.
 

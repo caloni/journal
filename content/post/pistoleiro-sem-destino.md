@@ -1,25 +1,10 @@
 ---
-date: "2015-01-21"
 imdb: "0067204"
+date: "2015-01-21"
+categories: "movies"
 title: "Pistoleiro Sem Destino"
 stars: "4/5"
-categories: "movies"
-_title: "The Hired Hand"
-_year: "1971"
-_director: ["Peter Fonda", ]
-_writer: ["Alan Sharp", ]
-_cast: ["Peter Fonda", "Warren Oates", "Verna Bloom", "Robert Pratt", "Severn Darden", "Rita Rogers", "Ann Doran", "Ted Markland", "Owen Orr", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Frank Mazzola", ]
-_cinematographer: ["Vilmos Zsigmond", ]
-_music: ["Bruce Langhorne", ]
-_genres: ["Drama", ]
-_runtimes: ["90", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTIwMTUxOTc3N15BMl5BanBnXkFtZTcwMzk4NDAwMQ@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTIwMTUxOTc3N15BMl5BanBnXkFtZTcwMzk4NDAwMQ@@._V1._SX99_SY140_.jpg"
+desc: "Pistoleiro Sem Destino. The Hired Hand (USA, 1971). Dirigido por Peter Fonda. Escrito por Alan Sharp. Com Peter Fonda, Warren Oates, Verna Bloom, Robert Pratt, Severn Darden, Rita Rogers, Ann Doran, Ted Markland, Owen Orr."
 ---
 Peter Fonda atuou em dezenas de filmes e dirigiu três. Homem sem destino é o primeiro deles, em que ele também atua. É um retrato honesto de um pedacinho do velho oeste, mas mostrado de maneira romantizada e uma inesquecível trilha sonora.
 

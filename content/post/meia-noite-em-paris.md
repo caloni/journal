@@ -1,24 +1,10 @@
 ---
-date: "2011-07-31"
 imdb: "1605783"
+date: "2011-07-31"
+categories: "movies"
 title: "Meia-Noite em Paris"
 stars: "4/5"
-categories: "movies"
-_title: "Midnight in Paris"
-_year: "2011"
-_director: ["Woody Allen", ]
-_writer: ["Woody Allen", ]
-_cast: ["Owen Wilson", "Rachel McAdams", "Kurt Fuller", "Mimi Kennedy", "Michael Sheen", "Nina Arianda", "Carla Bruni", "Maurice Sonnenberg", "Thierry Hancisse", ]
-_countries: ["Spain", ]
-_languages: ["English", ]
-_editor: ["Alisa Lepselter", ]
-_cinematographer: ["Darius Khondji", ]
-_genres: ["Comedy", ]
-_runtimes: ["USA:94", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTM4NjY1MDQwMl5BMl5BanBnXkFtZTcwNTI3Njg3NA@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTM4NjY1MDQwMl5BMl5BanBnXkFtZTcwNTI3Njg3NA@@._V1._SX95_SY140_.jpg"
+desc: "Meia-Noite em Paris. Midnight in Paris (Spain, 2011). Dirigido por Woody Allen. Escrito por Woody Allen. Com Owen Wilson, Rachel McAdams, Kurt Fuller, Mimi Kennedy, Michael Sheen, Nina Arianda, Carla Bruni, Maurice Sonnenberg, Thierry Hancisse."
 ---
 Quando sabemos estar admirando o último enquadramento de meia-noite em Paris, é de doer o coração. O longa de Allen não só empolga, e muito, no início, como mantém suspenso o interesse pelos personagens (que não são poucos). Acredito que, se fosse possível, assistiríamos mais duas, três, ou até quatro horas de filmagem nesse universo criado por Allen.
 

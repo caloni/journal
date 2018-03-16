@@ -1,27 +1,11 @@
 ---
-date: "2016-06-09"
-tags: [ "cabine" ]
-categories: "movies"
+tags: ['cabine']
 imdb: "3480164"
-stars: "4/5"
+date: "2016-06-09"
+categories: "movies"
 title: "Vida Selvagem"
-_title: "Vie sauvage"
-_year: "2014"
-_director: ["Cédric Kahn", ]
-_writer: ["Okwari Fortin", "Shahi'Yena Fortin", "Xavier Fortin", "Cédric Kahn", "Nathalie Najem", "Laurence Vidal", ]
-_cast: ["Mathieu Kassovitz", "Céline Sallette", "David Gastou", "Sofiane Neveu", "Romain Depret", "Jules Ritmanic", "Jenna Thiam", "Tara-Jay Bangalter", "Amandine Dugas", ]
-_countries: ["Belgium", ]
-_languages: ["French", ]
-_editor: ["Simon Jacquet", ]
-_cinematographer: ["Yves Cape", ]
-_music: ["Mathias Duplessy", ]
-_artdirection: ["Isabelle Pannetier", ]
-_costume designer: ["Nathalie Raoul", ]
-_genres: ["Drama", ]
-_runtimes: ["102", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNTU0MjZiN2UtMDkyOC00YmRmLWFkN2UtZTI5ZmVlNTZiNDA0XkEyXkFqcGdeQXVyNzM0MDQ1Mw@@.jpg"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNTU0MjZiN2UtMDkyOC00YmRmLWFkN2UtZTI5ZmVlNTZiNDA0XkEyXkFqcGdeQXVyNzM0MDQ1Mw@@._V1._SX100_SY133_.jpg"
+stars: "4/5"
+desc: "Vida Selvagem. Vie sauvage (Belgium, 2014). Dirigido por Cédric Kahn. Escrito por Okwari Fortin, Shahi'Yena Fortin, Xavier Fortin, Cédric Kahn, Nathalie Najem, Laurence Vidal. Com Mathieu Kassovitz, Céline Sallette, David Gastou, Sofiane Neveu, Romain Depret, Jules Ritmanic, Jenna Thiam, Tara-Jay Bangalter, Amandine Dugas."
 ---
 Uma ode aos ripongas? Nem tanto. Vida Selvagem caminha lado a lado com um outro filme indie mais lúdico: The Real St. Nick (que estava disponível no MUBI em 2012 e tive o prazer de assistir). A abordagem de câmera na mão e cenários simples faz todo o sentido aqui. A história gira em torno de viver uma vida fora das normas consumistas da sociedade. Ou melhor ainda: fora das leis que remetem à estupidez e ignorância no trato com seres humanos.
 

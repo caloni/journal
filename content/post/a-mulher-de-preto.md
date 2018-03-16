@@ -1,25 +1,10 @@
 ---
-date: "2012-03-04"
 imdb: "1596365"
+date: "2012-03-04"
+categories: "movies"
 title: "A Mulher de Preto"
 stars: "3/5"
-categories: "movies"
-_title: "The Woman in Black"
-_year: "2012"
-_director: ["James Watkins", ]
-_writer: ["Susan Hill", "Jane Goldman", ]
-_cast: ["Emma Shorey", "Molly Harmon", "Ellisa Walker-Reid", "Sophie Stuckey", "Daniel Radcliffe", "Misha Handley", "Jessica Raine", "Roger Allam", "Lucy May Barker", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Jon Harris", ]
-_cinematographer: ["Tim Maurice-Jones", ]
-_music: ["Marco Beltrami", ]
-_genres: ["Drama", ]
-_runtimes: ["95", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjEwMzIxOTg3N15BMl5BanBnXkFtZTcwMjI4ODUzNw@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjEwMzIxOTg3N15BMl5BanBnXkFtZTcwMjI4ODUzNw@@._V1._SX94_SY140_.jpg"
+desc: "A Mulher de Preto. The Woman in Black (UK, 2012). Dirigido por James Watkins. Escrito por Susan Hill, Jane Goldman. Com Emma Shorey, Molly Harmon, Ellisa Walker-Reid, Sophie Stuckey, Daniel Radcliffe, Misha Handley, Jessica Raine, Roger Allam, Lucy May Barker."
 ---
 Vamos falar primeiro sobre a fotografia: ela é escura, até demais, mas consegue criar tomadas internas que estabelecem com primor um clima tanto de luz natural (muito pouca), quanto de fantasia. E mesmo com tão pouca luz, conseguimos enxergar toda a ação ou falta dela. Existem tomadas, por exemplo, onde só dá pra ver a face do protagonista, mas graças à ótima lógica geográfica da casa é possível entender a dinâmica da cena.
 

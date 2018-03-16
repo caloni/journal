@@ -1,20 +1,11 @@
 ---
+tags: ['mostrasp']
+imdb: "5821276"
 date: "2016-10-26"
 categories: "movies"
 title: "Bench Cinema"
-imdb: "5821276"
 stars: "4/5"
-tags: ['mostrasp']
-_title: "Bench Cinema"
-_year: "2017"
-_director: ["Mohammad Rahmanian", ]
-_writer: ["Mohammad Rahmanian", ]
-_cast: ["Mohammad Amir Naji", "Ashkan Khatibi", "Mahtab Nasirpour", "Hooman Barghnavard", "Ali Omrani", ]
-_countries: ["Iran", ]
-_languages: ["Persian", ]
-_cinematographer: ["Turaj Mansuri", ]
-_runtimes: ["117", ]
-_kind: "movie"
+desc: "Bench Cinema. Bench Cinema (Iran, 2017). Dirigido por Mohammad Rahmanian. Escrito por Mohammad Rahmanian. Com Mohammad Amir Naji, Ashkan Khatibi, Mahtab Nasirpour, Hooman Barghnavard, Ali Omrani."
 ---
 É fácil fazer filmes que homenageiam o Cinema de uma forma ou outra. O cinéfilo e o crítico caem de pé. Porém, difícil é fazer algo com qualidade, que queira dizer algo a mais, e esteja se aproveitando da metalinguagem para isso. E esse felizmente é o caso de Bench Cinema, um filme que observa a realidade do Irã e sua censura e, nos mesmos moldes de Cinema Paradiso (outro filme que explora metalinguagem), constrói uma narrativa doce, mas dramática, sobre personagens que vivem de e para a sétima arte.
 

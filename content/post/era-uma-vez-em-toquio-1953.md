@@ -1,25 +1,10 @@
 ---
-date: "2013-10-31"
 imdb: "0046438"
+date: "2013-10-31"
+categories: "movies"
 title: "Era uma Vez em Tóquio"
 stars: "5/5"
-categories: "movies"
-_title: "Tôkyô monogatari"
-_year: "1953"
-_director: ["Yasujirô Ozu", ]
-_writer: ["Kôgo Noda", "Yasujirô Ozu", ]
-_cast: ["Chishû Ryû", "Chieko Higashiyama", "Setsuko Hara", "Haruko Sugimura", "Sô Yamamura", "Kuniko Miyake", "Kyôko Kagawa", "Eijirô Tôno", "Nobuo Nakamura", ]
-_countries: ["Japan", ]
-_languages: ["Japanese", ]
-_editor: ["Yoshiyasu Hamamura", ]
-_cinematographer: ["Yûharu Atsuta", ]
-_music: ["Takanobu Saitô", ]
-_genres: ["Drama", ]
-_runtimes: ["136", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTgzMDk3MzMwMF5BMl5BanBnXkFtZTcwODM1NTAwMQ@@.jpg"
-_ratio: "1.37 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTgzMDk3MzMwMF5BMl5BanBnXkFtZTcwODM1NTAwMQ@@._V1._SX99_SY140_.jpg"
+desc: "Era uma Vez em Tóquio. Tôkyô monogatari (Japan, 1953). Dirigido por Yasujirô Ozu. Escrito por Kôgo Noda, Yasujirô Ozu. Com Chishû Ryû, Chieko Higashiyama, Setsuko Hara, Haruko Sugimura, Sô Yamamura, Kuniko Miyake, Kyôko Kagawa, Eijirô Tôno, Nobuo Nakamura."
 ---
 Tokyo Story, ou Era Uma Vez em Tóquio, como seus títulos ocidentais sugerem, é um conto, que se constrói no Japão pós-guerra e faz uma dura crítica à sociedade ocidentalista da época, mas como todo grande filme se torna atual mesmo 50 anos depois pelas suas mensagens eternas sobre vida e família.
 

@@ -1,27 +1,10 @@
 ---
-date: "2015-10-06"
 imdb: "1182345"
-stars: "4/5"
+date: "2015-10-06"
 categories: "movies"
 title: "Lunar"
-_title: "Moon"
-_year: "2009"
-_director: ["Duncan Jones", ]
-_writer: ["Duncan Jones", "Nathan Parker", ]
-_cast: ["Sam Rockwell", "Kevin Spacey", "Dominique McElligott", "Rosie Shaw", "Adrienne Shaw", "Kaya Scodelario", "Benedict Wong", "Matt Berry", "Malcolm Stewart", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Nicolas Gaster", ]
-_cinematographer: ["Gary Shaw", ]
-_music: ["Clint Mansell", ]
-_artdirection: ["Hideki Arichi", ]
-_costume designer: ["Jane Petrie", ]
-_genres: ["Drama", ]
-_runtimes: ["97", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTgzODgyNTQwOV5BMl5BanBnXkFtZTcwNzc0NTc0Mg@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTgzODgyNTQwOV5BMl5BanBnXkFtZTcwNzc0NTc0Mg@@._V1._SX95_SY140_.jpg"
+stars: "4/5"
+desc: "Lunar. Moon (UK, 2009). Dirigido por Duncan Jones. Escrito por Duncan Jones, Nathan Parker. Com Sam Rockwell, Kevin Spacey, Dominique McElligott, Rosie Shaw, Adrienne Shaw, Kaya Scodelario, Benedict Wong, Matt Berry, Malcolm Stewart."
 ---
 Três anos. Apenas isso, e termina o contrato entre Lunar, uma corporação que domina o ramo de energia na Terra, e Sam (Sam Rockwell), o trabalhador solitário da estação de coleta de Hélio 3 na Luz. Como única companhia, Sam dispõe de GERTY (Kevin Spacey), um computador que reconhece a voz e o sentimento do astronauta. Em "Lunas", curiosamente, a única voz amiga do ser humano é um programa cibernético.
 

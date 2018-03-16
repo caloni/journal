@@ -1,25 +1,10 @@
 ---
-date: "2015-08-29"
 imdb: "1754656"
-stars: "5/5"
+date: "2015-08-29"
 categories: "movies"
 title: "O Pequeno Príncipe"
-_title: "The Little Prince"
-_year: "2015"
-_director: ["Mark Osborne", ]
-_writer: ["Irena Brignull", "Bob Persichetti", "Antoine de Saint-Exupéry", ]
-_cast: ["Rachel McAdams", "Paul Rudd", "James Franco", "Benicio Del Toro", "Marion Cotillard", "Paul Giamatti", "Jeff Bridges", "Mackenzie Foy", "Vincent Cassel", ]
-_countries: ["France", ]
-_languages: ["English", ]
-_editor: ["Carole Kravetz Aykanian", "Matt Landon", ]
-_cinematographer: ["Kris Kapp", ]
-_music: ["Richard Harvey", "Hans Zimmer", ]
-_genres: ["Animation", ]
-_runtimes: ["108", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNjg0OTM5OTQyNV5BMl5BanBnXkFtZTgwNDg5NDQ0NTE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNjg0OTM5OTQyNV5BMl5BanBnXkFtZTgwNDg5NDQ0NTE@._V1._SX100_SY136_.jpg"
+stars: "5/5"
+desc: "O Pequeno Príncipe. The Little Prince (France, 2015). Dirigido por Mark Osborne. Escrito por Irena Brignull, Bob Persichetti, Antoine de Saint-Exupéry. Com Rachel McAdams, Paul Rudd, James Franco, Benicio Del Toro, Marion Cotillard, Paul Giamatti, Jeff Bridges, Mackenzie Foy, Vincent Cassel."
 ---
 Chegou um momento em O Pequeno Príncipe, "remake" do livro homônimo e os filmes que fizeram sobre ele, em que eu não me conformei com a perfeição narrativa, estética e temática do filme. Queria porque queria encontrar pelo menos um errinho, uma falta de ritmo, um diálogo mais ou menos. Nada. Foi tudo em vão.
 

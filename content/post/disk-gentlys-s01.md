@@ -1,27 +1,11 @@
 ---
+tags: ['netflix', 'dirkgently', 'series']
+imdb: "4047038"
 date: "2017-04-21"
 categories: "blog"
 title: "Dirk Gently's Holistic Detective Agency - Primeira Temporada"
-imdb: "4047038"
 stars: "4/5"
-tags: ['netflix', 'dirkgently', 'series']
-_title: "Dirk Gently's Holistic Detective Agency"
-_year: "2016"
-_director: ["Paco Cabezas", "Tamra Davis", "Michael Patrick Jann", "Dean Parisot", ]
-_writer: ["Douglas Adams", "Max Landis", "Andrew Black", ]
-_cast: ["Samuel Barnett (Dirk Gently)", "Elijah Wood (Todd Brotzman / ...)", "Hannah Marks (Amanda Brotzman / ...)", "Fiona Dourif (Bart Curlish)", "Jade Eshete (Farah Black)", "Mpho Koaho (Ken)", "Michael Eklund (Martin)", "Dustin Milligan (Sgt. Hugo Friedkin / ...)", "Neil Brown Jr. (Estevez)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Alison Grace", "Allan Lee", "Jamie Alain", ]
-_cinematographer: ["Samy Inayeh", "John Pardue", ]
-_music: ["Cristobal Tapia de Veer", ]
-_artdirection: ["Grant Pearse", "Tracey Loverock", ]
-_costume designer: ["Antoinette Messam", "Julie Carnahan", ]
-_genres: ["Comedy", ]
-_runtimes: ["60", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU3MDkzNzM5NF5BMl5BanBnXkFtZTgwMzEyNTgyMDI@.jpg"
-_kind: "tv series"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU3MDkzNzM5NF5BMl5BanBnXkFtZTgwMzEyNTgyMDI@._V1._SX95_SY140_.jpg"
+desc: "Dirk Gently's Holistic Detective Agency - Primeira Temporada. Dirk Gently's Holistic Detective Agency (USA, 2016). Dirigido por Paco Cabezas, Tamra Davis, Michael Patrick Jann, Dean Parisot. Escrito por Douglas Adams, Max Landis, Andrew Black. Com Samuel Barnett (Dirk Gently), Elijah Wood (Todd Brotzman / ...), Hannah Marks (Amanda Brotzman / ...), Fiona Dourif (Bart Curlish), Jade Eshete (Farah Black), Mpho Koaho (Ken), Michael Eklund (Martin), Dustin Milligan (Sgt. Hugo Friedkin / ...), Neil Brown Jr. (Estevez)."
 ---
 Eis que termino a primeira temporada dessa série, e sou obrigado a dizer que quem estiver disposto a assisti-la terá que necessariamente ir até o minuto final para entender a engenhosa estrutura de seu roteiro, que consegue tornar o todo melhor que a soma de suas partes. Não que já não seja divertido acompanhar tantos weirdos por metro quadrado.
 

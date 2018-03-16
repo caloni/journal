@@ -1,25 +1,10 @@
 ---
-date: "2011-07-12"
 imdb: "1430607"
+date: "2011-07-12"
+categories: "movies"
 title: "Operação Presente"
 stars: "4/5"
-categories: "movies"
-_title: "Arthur Christmas"
-_year: "2011"
-_director: ["Sarah Smith", "Barry Cook", ]
-_writer: ["Peter Baynham", "Sarah Smith", ]
-_cast: ["James McAvoy", "Hugh Laurie", "Bill Nighy", "Jim Broadbent", "Imelda Staunton", "Ashley Jensen", "Marc Wootton", "Laura Linney", "Eva Longoria", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["John Carnochan", "James Cooper", ]
-_cinematographer: ["Jericca Cleland", ]
-_music: ["Harry Gregson-Williams", ]
-_genres: ["Animation", ]
-_runtimes: ["97", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTYyMjMyMzEzMl5BMl5BanBnXkFtZTcwMDg4NTM5Ng@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTYyMjMyMzEzMl5BMl5BanBnXkFtZTcwMDg4NTM5Ng@@._V1._SX95_SY140_.jpg"
+desc: "Operação Presente. Arthur Christmas (UK, 2011). Dirigido por Sarah Smith, Barry Cook. Escrito por Peter Baynham, Sarah Smith. Com James McAvoy, Hugh Laurie, Bill Nighy, Jim Broadbent, Imelda Staunton, Ashley Jensen, Marc Wootton, Laura Linney, Eva Longoria."
 ---
 A nova animação da Sony parte para o óbvio gênero de filmes natalinos dessa época, mas faz bonito: Operação Presente subverte nossos conceitos do que é atualmente o natal, parte do ponto de vista do Papai Noel e seus elfos e acusa de maneira inteligente o modo superficial pelo qual muitos de nós enxergamos essa data que um dia foi muito especial.
 

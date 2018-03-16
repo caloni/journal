@@ -1,25 +1,10 @@
 ---
-date: "2011-12-20"
 imdb: "0107048"
+date: "2011-12-20"
+categories: "movies"
 title: "Feitiço do Tempo"
 stars: "5/5"
-categories: "movies"
-_title: "Groundhog Day"
-_year: "1993"
-_director: ["Harold Ramis", ]
-_writer: ["Danny Rubin", "Harold Ramis", "Danny Rubin", ]
-_cast: ["Bill Murray", "Andie MacDowell", "Chris Elliott", "Stephen Tobolowsky", "Brian Doyle-Murray", "Marita Geraghty", "Angela Paton", "Rick Ducommun", "Rick Overton", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Pembroke J. Herring", ]
-_cinematographer: ["John Bailey", ]
-_music: ["George Fenton", ]
-_genres: ["Comedy", ]
-_runtimes: ["101", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTU0MzQyNTExMV5BMl5BanBnXkFtZTgwMjA0Njk1MDE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTU0MzQyNTExMV5BMl5BanBnXkFtZTgwMjA0Njk1MDE@._V1._SX94_SY140_.jpg"
+desc: "Feitiço do Tempo. Groundhog Day (USA, 1993). Dirigido por Harold Ramis. Escrito por Danny Rubin, Harold Ramis, Danny Rubin. Com Bill Murray, Andie MacDowell, Chris Elliott, Stephen Tobolowsky, Brian Doyle-Murray, Marita Geraghty, Angela Paton, Rick Ducommun, Rick Overton."
 ---
 Bill Murray em um papel que é a cara dele: Phil Connor é o homem do tempo de uma emissora de televisão e precisa cobrir o tradicional "Dia da Marmota", uma cerimônia de uma cidadezinha secular cuja lenda uma marmota (ironicamente também chamada Phil) faz a previsão se haverá mais inverno.
 

@@ -1,28 +1,11 @@
 ---
+tags: ['mostrasp']
+imdb: "0072446"
 date: "2016-10-26"
 categories: "movies"
 title: "Terra Prometida"
-imdb: "0072446"
 stars: "5/5"
-tags: ['mostrasp']
-_title: "Ziemia obiecana"
-_year: "1975"
-_director: ["Andrzej Wajda", ]
-_writer: ["Wladyslaw Stanislaw Reymont", "Andrzej Wajda", ]
-_cast: ["Daniel Olbrychski (Karol Borowiecki)", "Wojciech Pszoniak (Moryc Welt)", "Andrzej Seweryn (Maks Baum)", "Anna Nehrebecka (Anka Kurowska)", "Tadeusz Bialoszczynski (Ojciec Karola - Karol's Father)", "Bozena Dykiel (Mada Müller)", "Franciszek Pieczka (Müller)", "Danuta Wodynska (Müllerowa)", "Marian Glinka (Wilhelm Müller)", ]
-_countries: ["Poland", ]
-_languages: ["Polish", ]
-_editor: ["Zofia Dwornik", "Halina Prugar-Ketling", ]
-_cinematographer: ["Waclaw Dybowski", "Edward Klosinski", "Witold Sobocinski", ]
-_music: ["Wojciech Kilar", ]
-_artdirection: ["Andrzej Halinski", ]
-_costume designer: ["Danuta Kowner-Halatek", "Barbara Ptak", ]
-_genres: ["Drama", ]
-_runtimes: ["179", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQwMjc4NzQyN15BMl5BanBnXkFtZTgwMDUzMjkwMTE@.jpg"
-_ratio: "1.66 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQwMjc4NzQyN15BMl5BanBnXkFtZTgwMDUzMjkwMTE@._V1._SX98_SY140_.jpg"
+desc: "Terra Prometida. Ziemia obiecana (Poland, 1975). Dirigido por Andrzej Wajda. Escrito por Wladyslaw Stanislaw Reymont, Andrzej Wajda. Com Daniel Olbrychski (Karol Borowiecki), Wojciech Pszoniak (Moryc Welt), Andrzej Seweryn (Maks Baum), Anna Nehrebecka (Anka Kurowska), Tadeusz Bialoszczynski (Ojciec Karola - Karol's Father), Bozena Dykiel (Mada Müller), Franciszek Pieczka (Müller), Danuta Wodynska (Müllerowa), Marian Glinka (Wilhelm Müller)."
 ---
 Uma farsa deliciosa dramatizando o apocalipse enxergado por Karl Marx. Mostra os capitalistas inescrupulosos sem valor à vida humana para defender o comunismo que dá valor aos humanos como ferramenta de sacrifício. Não é um filme para levar a sério, mas como qualquer propaganda vermelha que se preze, ela tem que ser dramática; quiçá hilária. Na verdade, é de uma série de filmes do diretor que ridiculariza a propaganda soviética.
 

@@ -1,26 +1,11 @@
 ---
-date: "2010-08-06"
 imdb: "1375666"
+date: "2010-08-06"
+categories: "movies"
 title: "A Origem"
 stars: "5/5"
-categories: "movies"
-revision: [2015-05-17]
-_title: "Inception"
-_year: "2010"
-_director: ["Christopher Nolan", ]
-_writer: ["Christopher Nolan", ]
-_cast: ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Ellen Page", "Tom Hardy", "Ken Watanabe", "Dileep Rao", "Cillian Murphy", "Tom Berenger", "Marion Cotillard", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Lee Smith", ]
-_cinematographer: ["Wally Pfister", ]
-_music: ["Hans Zimmer", ]
-_genres: ["Action", ]
-_runtimes: ["148", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1._SX95_SY140_.jpg"
+revision: [datetime.date(2015, 5, 17)]
+desc: "A Origem. Inception (USA, 2010). Dirigido por Christopher Nolan. Escrito por Christopher Nolan. Com Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy, Ken Watanabe, Dileep Rao, Cillian Murphy, Tom Berenger, Marion Cotillard."
 ---
 Christopher Nolan, tanto como diretor como roteirista, tem o dom de traduzir para o espectador as experiências de seus personagens na tela. Vimos isso em Amnésia com a montagem invertida fazendo o papel do protagonista que não consegue se lembrar o que estava fazendo cinco minutos atrás. Em O Grande Truque as trucagens do roteiro são tão ágeis que se assemelham a um número de mágica bem conduzido. E agora em A Origem participamos de um exercício narrativo que consegue unir todas as ideias modernas a respeito dos sonhos, mas que ao mesmo tempo se deixa levar pela metalinguagem e faz uma sutil homenagem ao próprio Cinema.
 

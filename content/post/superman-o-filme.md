@@ -1,26 +1,11 @@
 ---
-date: "2010-08-12"
 imdb: "0078346"
-revision: [2013-11-20]
+date: "2010-08-12"
+categories: "movies"
 title: "Superman O Filme"
 stars: "5/5"
-categories: "movies"
-_title: "Superman"
-_year: "1978"
-_director: ["Richard Donner", ]
-_writer: ["Jerry Siegel", "Joe Shuster", "Mario Puzo", "Mario Puzo", "David Newman", "Leslie Newman", "Robert Benton", "Tom Mankiewicz", ]
-_cast: ["Marlon Brando", "Gene Hackman", "Christopher Reeve", "Ned Beatty", "Jackie Cooper", "Glenn Ford", "Trevor Howard", "Margot Kidder", "Jack O'Halloran", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Stuart Baird", "Michael Ellis", ]
-_cinematographer: ["Geoffrey Unsworth", ]
-_music: ["John Williams", ]
-_genres: ["Action", ]
-_runtimes: ["143", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTI1MjA5MzM0OF5BMl5BanBnXkFtZTYwNTc0MTQ5.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTI1MjA5MzM0OF5BMl5BanBnXkFtZTYwNTc0MTQ5._V1._SX100_SY139_.jpg"
+revision: [datetime.date(2013, 11, 20)]
+desc: "Superman O Filme. Superman (USA, 1978). Dirigido por Richard Donner. Escrito por Jerry Siegel, Joe Shuster, Mario Puzo, Mario Puzo, David Newman, Leslie Newman, Robert Benton, Tom Mankiewicz. Com Marlon Brando, Gene Hackman, Christopher Reeve, Ned Beatty, Jackie Cooper, Glenn Ford, Trevor Howard, Margot Kidder, Jack O'Halloran."
 ---
 Cercado de evocações épicas em seus quadros, no tom solene da partida de Krypton (protagonizada por ninguém menos que Marlon Brando) e até mesmo na fotografia dos diversos ambientes em que vemos o personagem-título, o fato é que "Superman  O Filme" funciona bem exatamente por tudo isso junto, ainda aliado às convincentes interpretações dos personagens, uniformes em suas representações do mundo fantasioso vivido pelo homem de aço, que estranhamente não soa piegas ou exagerado, mas possui o tom cartunesco corretíssimo para manter a lenda e ao mesmo tempo não se levar a sério demais.
 

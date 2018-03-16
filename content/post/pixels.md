@@ -1,26 +1,11 @@
 ---
-date: "2015-07-21"
-tags: [ "cabine" ]
+tags: ['cabine']
 imdb: "2120120"
-stars: "2/5"
+date: "2015-07-21"
 categories: "movies"
 title: "Pixels"
-_title: "Pixels"
-_year: "2015"
-_director: ["Chris Columbus", ]
-_writer: ["Tim Herlihy", "Timothy Dowling", "Tim Herlihy", "Patrick Jean", ]
-_cast: ["Adam Sandler", "Kevin James", "Michelle Monaghan", "Peter Dinklage", "Josh Gad", "Matt Lintz", "Brian Cox", "Sean Bean", "Jane Krakowski", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Peck Prior", "Hughes Winborne", ]
-_cinematographer: ["Amir Mokri", ]
-_music: ["Henry Jackman", ]
-_genres: ["Action", ]
-_runtimes: ["105", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTYxMzM4NDY5N15BMl5BanBnXkFtZTgwNzg1NTI3MzE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTYxMzM4NDY5N15BMl5BanBnXkFtZTgwNzg1NTI3MzE@._V1._SX100_SY140_.jpg"
+stars: "2/5"
+desc: "Pixels. Pixels (USA, 2015). Dirigido por Chris Columbus. Escrito por Tim Herlihy, Timothy Dowling, Tim Herlihy, Patrick Jean. Com Adam Sandler, Kevin James, Michelle Monaghan, Peter Dinklage, Josh Gad, Matt Lintz, Brian Cox, Sean Bean, Jane Krakowski."
 ---
 O que fizeram com aquele curta-metragem tão criativo em que bastavam dois minutos para explorar 100% de um conceito? Talvez o nome Adam Sandler resposta essa questão.
 

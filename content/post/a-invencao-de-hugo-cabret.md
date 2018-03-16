@@ -1,27 +1,12 @@
 ---
-date: "2012-02-25"
+tags: ['3d', 'revisita']
 imdb: "0970179"
-revision: [2014-06-10, 2017-02-28]
+date: "2012-02-25"
+categories: "movies"
 title: "A Invenção de Hugo Cabret"
 stars: "3/5"
-categories: "movies"
-tags: [ "3d", "revisita" ]
-_title: "Hugo"
-_year: "2011"
-_director: ["Martin Scorsese", ]
-_writer: ["John Logan", "Brian Selznick", ]
-_cast: ["Ben Kingsley", "Sacha Baron Cohen", "Asa Butterfield", "Chloë Grace Moretz", "Ray Winstone", "Emily Mortimer", "Christopher Lee", "Helen McCrory", "Michael Stuhlbarg", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Thelma Schoonmaker", ]
-_cinematographer: ["Robert Richardson", ]
-_music: ["Howard Shore", ]
-_genres: ["Adventure", ]
-_runtimes: ["USA:126", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjAzNzk5MzgyNF5BMl5BanBnXkFtZTcwOTE4NDU5Ng@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjAzNzk5MzgyNF5BMl5BanBnXkFtZTcwOTE4NDU5Ng@@._V1._SX94_SY140_.jpg"
+revision: [datetime.date(2014, 6, 10), datetime.date(2017, 2, 28)]
+desc: "A Invenção de Hugo Cabret. Hugo (USA, 2011). Dirigido por Martin Scorsese. Escrito por John Logan, Brian Selznick. Com Ben Kingsley, Sacha Baron Cohen, Asa Butterfield, Chloë Grace Moretz, Ray Winstone, Emily Mortimer, Christopher Lee, Helen McCrory, Michael Stuhlbarg."
 ---
 Hugo é o primeiro filme em 3D do mestre Scorsese (Os Bons Companheiros, Táxi Driver) e nesse caso -- é preciso dizer -- o uso da tecnologia é totalmente justificada. Abordando uma história que gira em torno do cinema e seus primórdios, a ideia de "separar" a criação de filmes antigos do próprio filme cria um exercício metalinguístico admirável e uma aventura extremamente emocionante. O uso da tecnologia, além de ser aplicada com competência, difere de filmes anteriores principalmente pela já velha questão do foco. Em Avatar, por exemplo, o primeiro grande exemplo de 3D "de verdade", James Cameron ainda aplica o foco de maneira binária nos personagens, se esquecendo que estamos em um cenário com profundidade de campo variável. Já em Hugo o que ocorre é uma perda gradual de foco, com o fundo ficando aos poucos "embaçado", ou seja, uma simulação de mais ou menos como nossos olhos funcionam em um ambiente como no mundo real. O uso de engrenagens e cenários internos com longos corredores consegue ajudar a nos ambientar nessa profundidade de campo facilmente, e embora esse recurso seja repetido meio à exaustão ele é importante para nos situar no universo do protagonista. Mesmo os cenários "externos", ainda sofrendo a limitação da tecnologia em planos aéreos, pois faz com que os objetos pareçam maquetes, dentro do espírito fabuloso da narrativa encaixa-se perfeitamente.
 

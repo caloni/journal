@@ -1,25 +1,10 @@
 ---
-date: "2012-12-31"
 imdb: "0898367"
+date: "2012-12-31"
+categories: "movies"
 title: "A Estrada"
 stars: "4/5"
-categories: "movies"
-_title: "The Road"
-_year: "2009"
-_director: ["John Hillcoat", ]
-_writer: ["Cormac McCarthy", "Joe Penhall", ]
-_cast: ["Viggo Mortensen", "Kodi Smit-McPhee", "Robert Duvall", "Guy Pearce", "Molly Parker", "Michael Kenneth Williams", "Garret Dillahunt", "Charlize Theron", "Bob Jennings", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Jon Gregory", ]
-_cinematographer: ["Javier Aguirresarobe", ]
-_music: ["Nick Cave", "Warren Ellis", ]
-_genres: ["Adventure", ]
-_runtimes: ["111", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTAwNzk4NTU3NDReQTJeQWpwZ15BbWU3MDg3OTEyODI@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTAwNzk4NTU3NDReQTJeQWpwZ15BbWU3MDg3OTEyODI@._V1._SX95_SY140_.jpg"
+desc: "A Estrada. The Road (USA, 2009). Dirigido por John Hillcoat. Escrito por Cormac McCarthy, Joe Penhall. Com Viggo Mortensen, Kodi Smit-McPhee, Robert Duvall, Guy Pearce, Molly Parker, Michael Kenneth Williams, Garret Dillahunt, Charlize Theron, Bob Jennings."
 ---
 A jornada do menino e seu pai por um mundo pós-apocalítico logo assume por repetição das situações que são obrigados a viver -- fome, frio, perigo -- um caráter muito mais moral do que uma simples história de sobrevivência. Só assim A Estrada consegue fazer sentido por completo, desde a mãe desconsolada até as pessoas que os dois encontram pelo caminho.
 

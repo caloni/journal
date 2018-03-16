@@ -1,25 +1,10 @@
 ---
-date: "2012-11-10"
 imdb: "0055928"
+date: "2012-11-10"
+categories: "movies"
 title: "O Satânico Dr. No"
 stars: "4/5"
-categories: "movies"
-_title: "Dr. No"
-_year: "1962"
-_director: ["Terence Young", ]
-_writer: ["Richard Maibaum", "Johanna Harwood", "Berkely Mather", "Ian Fleming", "Wolf Mankowitz", "Terence Young", ]
-_cast: ["Sean Connery", "Ursula Andress", "Joseph Wiseman", "Jack Lord", "Bernard Lee", "Anthony Dawson", "Zena Marshall", "John Kitzmiller", "Eunice Gayson", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Peter R. Hunt", ]
-_cinematographer: ["Ted Moore", ]
-_music: ["Monty Norman", "John Barry", ]
-_genres: ["Action", ]
-_runtimes: ["110", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BOTU3NzExMTQ4N15BMl5BanBnXkFtZTcwMjkzNzQzNA@@.jpg"
-_ratio: "1.37 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BOTU3NzExMTQ4N15BMl5BanBnXkFtZTcwMjkzNzQzNA@@._V1._SX93_SY140_.jpg"
+desc: "O Satânico Dr. No. Dr. No (UK, 1962). Dirigido por Terence Young. Escrito por Richard Maibaum, Johanna Harwood, Berkely Mather, Ian Fleming, Wolf Mankowitz, Terence Young. Com Sean Connery, Ursula Andress, Joseph Wiseman, Jack Lord, Bernard Lee, Anthony Dawson, Zena Marshall, John Kitzmiller, Eunice Gayson."
 ---
 Depois de assistir e vibrar com o último 007, um dos melhores filmes do ano, nada como abrir minha coleção James Bond e iniciar minha revisão de toda a filmografia desse personagem que parece nunca cair em desuso. O primeiro filme é o 007 Contra o Satânico Dr. No ou, do original, simplesmente Dr. No.
 

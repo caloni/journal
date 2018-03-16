@@ -1,22 +1,11 @@
 ---
+tags: ['netflix', 'blackmirror', 'series']
+imdb: "5709242"
 date: "2016-10-25"
 categories: "blog"
 title: "Black Mirror - Terceira Temporada, Episódio 2: Playtest"
-imdb: "5709242"
 stars: "3/5"
-tags: ['netflix', 'blackmirror', 'series']
-_title: "Playtest"
-_year: "2016"
-_director: ["Dan Trachtenberg", ]
-_writer: ["Charlie Brooker", ]
-_cast: ["Wyatt Russell (Cooper)", "Hannah John-Kamen (Sonja)", "Wunmi Mosaku (Katie)", "Ken Yamamura (Shou Saito)", "Elizabeth Moynihan (Cooper's Mum)", "Jamie Paul (Josh Peters)", "Jessica Nell (Scared Girl on Plane)", "Jade Clarke (Pub Local)", "Deborah Rock (Airline Passenger)", ]
-_editor: ["Matthew Cannings", ]
-_music: ["Bear McCreary", ]
-_artdirection: ["Richard Field", ]
-_genres: ["Drama", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ4OTE3MjI4MF5BMl5BanBnXkFtZTgwOTM3MzgzMDI@.jpg"
-_kind: "episode"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ4OTE3MjI4MF5BMl5BanBnXkFtZTgwOTM3MzgzMDI@._V1._SX100_SY67_.jpg"
+desc: "Black Mirror - Terceira Temporada, Episódio 2: Playtest. Dirigido por Dan Trachtenberg. Escrito por Charlie Brooker. Com Wyatt Russell (Cooper), Hannah John-Kamen (Sonja), Wunmi Mosaku (Katie), Ken Yamamura (Shou Saito), Elizabeth Moynihan (Cooper's Mum), Jamie Paul (Josh Peters), Jessica Nell (Scared Girl on Plane), Jade Clarke (Pub Local), Deborah Rock (Airline Passenger)."
 ---
 Como seria um episódio de hoje em dia da série "Além da Imaginação", que mistura lendas urbanas, teorias da conspiração e acontecimentos fantásticos, sempre com um fundinho de moral? Desconfio fortemente que seria como os idealizadores de Black Mirror nos fizeram passar este episódio-terror, que parece experimentar um Twilight Zone versão High-Tech. Este episódio, afinal de contas, também parece um playtest da série.
 

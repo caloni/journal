@@ -1,23 +1,10 @@
 ---
-date: "2011-10-25"
 imdb: "2087864"
+date: "2011-10-25"
+categories: "movies"
 title: "Là-bas A Criminal Education"
 stars: "3/5"
-categories: "movies"
-_title: "Là-bas"
-_year: "2011"
-_director: ["Guido Lombardi", ]
-_writer: ["Guido Lombardi", ]
-_cast: ["Kader Alassane", "Moussa Mone", "Esther Elisha", "Billi Serigne Faye", "Alassane Doulougou", "Fatima Traore", "Salvatore Ruocco", "Marco De Notaris", ]
-_countries: ["Italy", ]
-_languages: ["French", ]
-_editor: ["Annalisa Forgione", "Giuseppe Leonetti", ]
-_cinematographer: ["Francesca Amitrano", ]
-_music: ["Giordano Corapi", ]
-_genres: ["Drama", ]
-_runtimes: ["98", ]
-_ratio: "2.35 : 1"
-_kind: "movie"
+desc: "Là-bas A Criminal Education. Là-bas (Italy, 2011). Dirigido por Guido Lombardi. Escrito por Guido Lombardi. Com Kader Alassane, Moussa Mone, Esther Elisha, Billi Serigne Faye, Alassane Doulougou, Fatima Traore, Salvatore Ruocco, Marco De Notaris."
 ---
 Um filme não necessariamente precisa ter um excelente roteiro para levar o espectador a pensar muito a respeito. Algumas vezes, bastam pequenos detalhes que levem em consideração: 1) a inteligência de quem assiste e 2) a motivação narrativa por trás da informação, que o filme fluirá e trará algo de novo para a gaveta de conhecimentos do cinéfilo.
 

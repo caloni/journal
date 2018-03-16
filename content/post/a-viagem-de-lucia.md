@@ -1,23 +1,10 @@
 ---
-date: "2011-09-07"
 imdb: "1463167"
+date: "2011-09-07"
+categories: "movies"
 title: "A Viagem de Lucia"
 stars: "3/5"
-categories: "movies"
-_title: "Il richiamo"
-_year: "2009"
-_director: ["Stefano Pasetto", ]
-_writer: ["Stefano Pasetto", "Veronica Cascelli", ]
-_cast: ["Sandra Ceccarelli", "Francesca Inaudi", "César Bordón", "Guillermo Pfening", "Arturo Goetz", "Julieta Cardinali", "Hilda Bernard", "Maria Lourdes Argiz", "Lola Berthet", ]
-_countries: ["Argentina", ]
-_languages: ["Spanish", ]
-_editor: ["Alessio Doglione", ]
-_cinematographer: ["Guillermo Nieto", ]
-_music: ["Andrea Farri", ]
-_genres: ["Drama", ]
-_runtimes: ["Argentina:93", ]
-_ratio: "1.85 : 1"
-_kind: "movie"
+desc: "A Viagem de Lucia. Il richiamo (Argentina, 2009). Dirigido por Stefano Pasetto. Escrito por Stefano Pasetto, Veronica Cascelli. Com Sandra Ceccarelli, Francesca Inaudi, César Bordón, Guillermo Pfening, Arturo Goetz, Julieta Cardinali, Hilda Bernard, Maria Lourdes Argiz, Lola Berthet."
 ---
 Uma produção ítalo-argentina obscura que conta a história de Lúcia e Lea, duas mulheres com visões completamente diferentes da vida que acabam se encontrando e compartilham momentos que irão transformar a vida de uma delas.
 

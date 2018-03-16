@@ -1,24 +1,11 @@
 ---
-date: "2016-03-29"
-tags: [ "cabine" ]
+tags: ['cabine']
 imdb: "3806654"
-stars: "4/5"
+date: "2016-03-29"
 categories: "movies"
 title: "Para Minha Amada Morta"
-_title: "Para Minha Amada Morta"
-_year: "2015"
-_director: ["Aly Muritiba", ]
-_writer: ["Aly Muritiba", "Aly Muritiba", ]
-_cast: ["Fernando Alves Pinto", "Mayana Neiva", "Lourinelson Vladmir", "Giuly Biancato", "Michelle Pucci", "Vinicius Sabbag", ]
-_countries: ["Brazil", ]
-_languages: ["Portuguese", ]
-_editor: ["João Menna Barreto", ]
-_cinematographer: ["Pablo Baião", ]
-_artdirection: ["Renata Rugai", ]
-_genres: ["Action", ]
-_runtimes: ["123", ]
-_ratio: "2.35 : 1"
-_kind: "movie"
+stars: "4/5"
+desc: "Para Minha Amada Morta. Para Minha Amada Morta (Brazil, 2015). Dirigido por Aly Muritiba. Escrito por Aly Muritiba, Aly Muritiba. Com Fernando Alves Pinto, Mayana Neiva, Lourinelson Vladmir, Giuly Biancato, Michelle Pucci, Vinicius Sabbag."
 ---
 Um thriller psicológico brasileiro envolvente. A presença da possibilidade do mal é o que prende a atenção para o espectador, mas é apenas o pano de fundo de críticas interessantes sobre o cinismo e a hipocrisia da sociedade e da religião.
 

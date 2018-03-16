@@ -1,25 +1,10 @@
 ---
-date: "2015-06-21"
 imdb: "3263614"
-stars: "3/5"
+date: "2015-06-21"
 categories: "movies"
 title: "Kumiko, a Caçadora de Tesouros"
-_title: "Kumiko, the Treasure Hunter"
-_year: "2014"
-_director: ["David Zellner", ]
-_writer: ["David Zellner", "Nathan Zellner", ]
-_cast: ["Rinko Kikuchi", "Nobuyuki Katsube", "Shirley Venard", "David Zellner", "Nathan Zellner", "Kanako Higashi", "Ichi Kyokaku", "Ayaka Ohnishi", "Mayuko Kawakita", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Melba Jodorowsky", ]
-_cinematographer: ["Sean Porter", ]
-_music: ["Project The Octopus", ]
-_genres: ["Drama", ]
-_runtimes: ["105", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTAzNzI1MTkyNzBeQTJeQWpwZ15BbWU4MDQ0NDU0MzQx.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTAzNzI1MTkyNzBeQTJeQWpwZ15BbWU4MDQ0NDU0MzQx._V1._SX95_SY140_.jpg"
+stars: "3/5"
+desc: "Kumiko, a Caçadora de Tesouros. Kumiko, the Treasure Hunter (USA, 2014). Dirigido por David Zellner. Escrito por David Zellner, Nathan Zellner. Com Rinko Kikuchi, Nobuyuki Katsube, Shirley Venard, David Zellner, Nathan Zellner, Kanako Higashi, Ichi Kyokaku, Ayaka Ohnishi, Mayuko Kawakita."
 ---
 Kumiko é uma fábula criada a partir de uma história real (ou pelo menos levemente inspirada em uma pessoa). Embalando uma história impossível em torno de um outro filme sobre uma história impossível (e, este também, baseado em uma história real), Kumiko é uma experiência entusiasmada, embora na maioria das vezes, não tenha lá seus motivos.
 

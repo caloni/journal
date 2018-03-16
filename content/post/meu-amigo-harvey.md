@@ -1,25 +1,10 @@
 ---
-date: "2014-09-13"
 imdb: "0042546"
+date: "2014-09-13"
+categories: "movies"
 title: "Meu Amigo Harvey"
 stars: "5/5"
-categories: "movies"
-_title: "Harvey"
-_year: "1950"
-_director: ["Henry Koster", ]
-_writer: ["Mary Chase", "Mary Chase", "Oscar Brodney", "Myles Connolly", ]
-_cast: ["James Stewart", "Josephine Hull", "Peggy Dow", "Charles Drake", "Cecil Kellaway", "Victoria Horne", "Jesse White", "William H. Lynn", "Wallace Ford", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Ralph Dawson", ]
-_cinematographer: ["William H. Daniels", ]
-_music: ["Frank Skinner", ]
-_genres: ["Comedy", ]
-_runtimes: ["104", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNDAxNzI5NDI0N15BMl5BanBnXkFtZTcwNTc2Njk3OA@@.jpg"
-_ratio: "1.37 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNDAxNzI5NDI0N15BMl5BanBnXkFtZTcwNTc2Njk3OA@@._V1._SX93_SY140_.jpg"
+desc: "Meu Amigo Harvey. Harvey (USA, 1950). Dirigido por Henry Koster. Escrito por Mary Chase, Mary Chase, Oscar Brodney, Myles Connolly. Com James Stewart, Josephine Hull, Peggy Dow, Charles Drake, Cecil Kellaway, Victoria Horne, Jesse White, William H. Lynn, Wallace Ford."
 ---
 Todos tem aquele amigo indesejável ou, o mais provável, aquela qualidade indesejável em um ente querido que queremos esconder para não nos tornarmos menos aceitos pela sociedade. Se não for em um ente querido pelo menos em nós mesmos. A questão é: "Harvey", uma produção de 1950 dirigida por Henry Koster (O Manto Sagrado) e estrelada por James Stewart (dos filmes de Hitchcock) mostra isso de uma maneira genial: cria um coelho gigante como amigo invisível de um gentil senhor que vive com sua família.
 

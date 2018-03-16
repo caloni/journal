@@ -1,26 +1,11 @@
 ---
+tags: ['netflix', 'series']
+imdb: "5707802"
 date: "2017-05-24"
 categories: "series"
 title: "Cara Gente Branca"
-imdb: "5707802"
 stars: "3/5"
-tags: ['netflix', 'series']
-_title: "Dear White People"
-_year: "2017"
-_director: ["Justin Simien", "Nisha Ganatra", "Tina Mabry", ]
-_writer: ["Leann Bowen", "Njeri Brown", "Chuck Hayward", "Justin Simien", "Jack Moore", ]
-_cast: ["Logan Browning (Samantha White)", "Brandon P Bell (Troy Fairbanks)", "DeRon Horton (Lionel Higgins)", "Antoinette Robertson (Colandrea 'Coco' Conners)", "John Patrick Amedori (Gabe Mitchell)", "Ashley Blaine Featherson (Joelle Brooks)", "Giancarlo Esposito (Narrator)", "Marque Richardson (Reggie Green)", "Nia Jervier (Kelsey Phillips)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Phillip J. Bartell", "Steve Edwards", ]
-_cinematographer: ["Jeffrey Waldron", ]
-_music: ["Kris Bowers", ]
-_costume designer: ["Ceci", ]
-_genres: ["Comedy", ]
-_runtimes: ["30", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BOTY0NTMzMDAxN15BMl5BanBnXkFtZTgwMjg2MTIwMjI@.jpg"
-_kind: "tv series"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BOTY0NTMzMDAxN15BMl5BanBnXkFtZTgwMjg2MTIwMjI@._V1._SX94_SY140_.jpg"
+desc: "Cara Gente Branca. Dear White People (USA, 2017). Dirigido por Justin Simien, Nisha Ganatra, Tina Mabry. Escrito por Leann Bowen, Njeri Brown, Chuck Hayward, Justin Simien, Jack Moore. Com Logan Browning (Samantha White), Brandon P Bell (Troy Fairbanks), DeRon Horton (Lionel Higgins), Antoinette Robertson (Colandrea 'Coco' Conners), John Patrick Amedori (Gabe Mitchell), Ashley Blaine Featherson (Joelle Brooks), Giancarlo Esposito (Narrator), Marque Richardson (Reggie Green), Nia Jervier (Kelsey Phillips)."
 ---
 Esta é uma série Netflix que fez sua lição de casa e está aproveitando a onda de discussões sobre racismo para inserir um trabalho que tenta fazer o espectador pensar em quanta besteira os militantes das minorias conseguem discutir ao mesmo tempo.
 

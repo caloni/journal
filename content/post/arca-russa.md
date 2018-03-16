@@ -1,25 +1,10 @@
 ---
-date: "2011-03-28"
 imdb: "0318034"
+date: "2011-03-28"
+categories: "movies"
 title: "Arca Russa"
 stars: "3/5"
-categories: "movies"
-_title: "Russkiy kovcheg"
-_year: "2002"
-_director: ["Aleksandr Sokurov", ]
-_writer: ["Boris Khaimsky", "Anatoli Nikiforov", "Svetlana Proskurina", "Aleksandr Sokurov", "Aleksandr Sokurov", ]
-_cast: ["Sergey Dreyden", "Mariya Kuznetsova", "Leonid Mozgovoy", "Mikhail Piotrovsky", "David Giorgobiani", "Aleksandr Chaban", "Lev Eliseev", "Oleg Khmelnitsky", "Alla Osipenko", ]
-_countries: ["Russia", ]
-_languages: ["Russian", ]
-_editor: ["Stefan Ciupek", "Sergey Ivanov", "Betina Kuntzsch", ]
-_cinematographer: ["Tilman Büttner", ]
-_music: ["Sergei Yevtushenko", ]
-_genres: ["Drama", ]
-_runtimes: ["99", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjEyNDEwOTU0NV5BMl5BanBnXkFtZTYwNjk0NTk5.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjEyNDEwOTU0NV5BMl5BanBnXkFtZTYwNjk0NTk5._V1._SX96_SY140_.jpg"
+desc: "Arca Russa. Russkiy kovcheg (Russia, 2002). Dirigido por Aleksandr Sokurov. Escrito por Boris Khaimsky, Anatoli Nikiforov, Svetlana Proskurina, Aleksandr Sokurov, Aleksandr Sokurov. Com Sergey Dreyden, Mariya Kuznetsova, Leonid Mozgovoy, Mikhail Piotrovsky, David Giorgobiani, Aleksandr Chaban, Lev Eliseev, Oleg Khmelnitsky, Alla Osipenko."
 ---
 Arca Russa é uma experiência que, como cinéfilos que somos, devemos assistir para aprender o que uma técnica como o plano-sequência consegue em termos de narrativa.
 

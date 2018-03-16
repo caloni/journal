@@ -1,25 +1,10 @@
 ---
-date: "2012-11-18"
 imdb: "0247586"
+date: "2012-11-18"
+categories: "movies"
 title: "Nove Rainhas"
 stars: "5/5"
-categories: "movies"
-_title: "Nueve reinas"
-_year: "2000"
-_director: ["Fabián Bielinsky", ]
-_writer: ["Fabián Bielinsky", ]
-_cast: ["Ricardo Darín", "Gastón Pauls", "Leticia Brédice", "María Mercedes Villagra", "Gabriel Correa", "Pochi Ducasse", "Luis Armesto", "Ernesto Arias", "Amancay Espíndola", ]
-_countries: ["Argentina", ]
-_languages: ["Spanish", ]
-_editor: ["Sergio Zottola", ]
-_cinematographer: ["Marcelo Camorino", ]
-_music: ["César Lerner", ]
-_genres: ["Crime", ]
-_runtimes: ["114", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTI3NzczNjk4Nl5BMl5BanBnXkFtZTYwMzQ5Njk5.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTI3NzczNjk4Nl5BMl5BanBnXkFtZTYwMzQ5Njk5._V1._SX97_SY140_.jpg"
+desc: "Nove Rainhas. Nueve reinas (Argentina, 2000). Dirigido por Fabián Bielinsky. Escrito por Fabián Bielinsky. Com Ricardo Darín, Gastón Pauls, Leticia Brédice, María Mercedes Villagra, Gabriel Correa, Pochi Ducasse, Luis Armesto, Ernesto Arias, Amancay Espíndola."
 ---
 Conheci esse filme através do seu clone norte-americano, Criminal, de 2004 (também conhecido como 171). Havia achado um roteiro incrível, principalmente pela sua capacidade de enganar o espectador durante tanto tempo. Nas minhas lembranças dos idos de 2005 o ato final continua sendo tão sensacional quanto seu original argentino. Porém, ao assistir à versão portenha é preciso tirar o chapéu: um ótimo roteiro com uma direção calma, precisa e cirúrgica conseguem deixar o remake no chinelo, se transformando em uma verdadeira ode aos engana-trouxas de todos os tempos.
 

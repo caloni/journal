@@ -1,25 +1,10 @@
 ---
-date: "2015-03-19"
 imdb: "2024544"
-stars: "5/5"
+date: "2015-03-19"
 categories: "movies"
 title: "12 Anos de Escravidão"
-_title: "12 Years a Slave"
-_year: "2013"
-_director: ["Steve McQueen", ]
-_writer: ["John Ridley", "Solomon Northup", ]
-_cast: ["Chiwetel Ejiofor", "Dwight Henry", "Dickie Gravois", "Bryan Batt", "Ashley Dyke", "Kelsey Scott", "Quvenzhané Wallis", "Cameron Zeigler", "Tony Bentley", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Joe Walker", ]
-_cinematographer: ["Sean Bobbitt", ]
-_music: ["Hans Zimmer", ]
-_genres: ["Biography", ]
-_runtimes: ["134", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjExMTEzODkyN15BMl5BanBnXkFtZTcwNTU4NTc4OQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjExMTEzODkyN15BMl5BanBnXkFtZTcwNTU4NTc4OQ@@._V1._SX94_SY140_.jpg"
+stars: "5/5"
+desc: "12 Anos de Escravidão. 12 Years a Slave (USA, 2013). Dirigido por Steve McQueen. Escrito por John Ridley, Solomon Northup. Com Chiwetel Ejiofor, Dwight Henry, Dickie Gravois, Bryan Batt, Ashley Dyke, Kelsey Scott, Quvenzhané Wallis, Cameron Zeigler, Tony Bentley."
 ---
 Parece algo repetitivo fazer filmes sobre a escravidão, não? Bom, depende da abordagem. A direção certeira de Steve McQueen (Shame) consegue adaptar as memórias de Solomon Northup com precisão. Solomon foi um afro-americano nascido livre em Nova York de 1853 e que foi sequestrado e vendido como escravo na capital do país que se formava. O que está sendo mostrado não é exatamente um registro genérico sobre escravidão, mas uma reflexão profunda, bem ritmada e, sobretudo, um documentário de nossa época a respeito do que é ser um escravo.
 

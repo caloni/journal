@@ -1,25 +1,10 @@
 ---
-date: "2013-07-19"
 imdb: "1046947"
+date: "2013-07-19"
+categories: "movies"
 title: "Tinha Que Ser Você"
 stars: "4/5"
-categories: "movies"
-_title: "Last Chance Harvey"
-_year: "2008"
-_director: ["Joel Hopkins", ]
-_writer: ["Joel Hopkins", ]
-_cast: ["Dustin Hoffman", "Emma Thompson", "Eileen Atkins", "Kathy Baker", "Liane Balaban", "James Brolin", "Richard Schiff", "Tim Howar", "Wendy Mae Brown", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Robin Sales", ]
-_cinematographer: ["John de Borman", ]
-_music: ["Dickon Hinchliffe", ]
-_genres: ["Drama", ]
-_runtimes: ["93", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTU1MDM5OTMwM15BMl5BanBnXkFtZTcwMTAzOTAwMg@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTU1MDM5OTMwM15BMl5BanBnXkFtZTcwMTAzOTAwMg@@._V1._SX94_SY140_.jpg"
+desc: "Tinha Que Ser Você. Last Chance Harvey (USA, 2008). Dirigido por Joel Hopkins. Escrito por Joel Hopkins. Com Dustin Hoffman, Emma Thompson, Eileen Atkins, Kathy Baker, Liane Balaban, James Brolin, Richard Schiff, Tim Howar, Wendy Mae Brown."
 ---
 Eu sei que o desfecho final possui vários defeitos. É esquemático porque segue à risca a cartilha das comédias românticas, o que acaba prejudicando demais aqueles dois personagens até então bem construídos. Está longe do clima depressivo de todo o resto, onde o diretor tenta amenizar com músicas bonitinhas e um pouco do desconcertante humor britânico (mas a partir de um dado momento, acompanhar a mãe paranoica nem é mais interessante).
 

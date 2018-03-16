@@ -1,25 +1,10 @@
 ---
-date: "2013-02-07"
 imdb: "1045658"
+date: "2013-02-07"
+categories: "movies"
 title: "O Lado Bom da Vida"
 stars: "5/5"
-categories: "movies"
-_title: "Silver Linings Playbook"
-_year: "2012"
-_director: ["David O. Russell", ]
-_writer: ["David O. Russell", "Matthew Quick", ]
-_cast: ["Bradley Cooper", "Jennifer Lawrence", "Robert De Niro", "Jacki Weaver", "Chris Tucker", "Anupam Kher", "John Ortiz", "Shea Whigham", "Julia Stiles", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Jay Cassidy", "Crispin Struthers", ]
-_cinematographer: ["Masanobu Takayanagi", ]
-_music: ["Danny Elfman", ]
-_genres: ["Comedy", ]
-_runtimes: ["122", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTM2MTI5NzA3MF5BMl5BanBnXkFtZTcwODExNTc0OA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTM2MTI5NzA3MF5BMl5BanBnXkFtZTcwODExNTc0OA@@._V1._SX94_SY140_.jpg"
+desc: "O Lado Bom da Vida. Silver Linings Playbook (USA, 2012). Dirigido por David O. Russell. Escrito por David O. Russell, Matthew Quick. Com Bradley Cooper, Jennifer Lawrence, Robert De Niro, Jacki Weaver, Chris Tucker, Anupam Kher, John Ortiz, Shea Whigham, Julia Stiles."
 ---
 A partir do primeiro encontro entre Tiffany (Jennifer Lawrence, Inverno da Alma) e Patrick (Bradley Cooper, Se Beber Não Case), mais precisamente no momento em que ela esbofeteia a sua cara, sabemos de imediato que vale a pena seguir essas duas vidas "para ver no que dá".
 

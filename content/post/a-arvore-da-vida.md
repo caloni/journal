@@ -1,25 +1,10 @@
 ---
-date: "2011-08-17"
 imdb: "0478304"
+date: "2011-08-17"
+categories: "movies"
 title: "A Árvore da Vida"
 stars: "5/5"
-categories: "movies"
-_title: "The Tree of Life"
-_year: "2011"
-_director: ["Terrence Malick", ]
-_writer: ["Terrence Malick", ]
-_cast: ["Brad Pitt", "Sean Penn", "Jessica Chastain", "Hunter McCracken", "Laramie Eppler", "Tye Sheridan", "Fiona Shaw", "Jessica Fuselier", "Nicolas Gonda", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Hank Corwin", "Jay Rabinowitz", "Daniel Rezende", "Billy Weber", "Mark Yoshikawa", ]
-_cinematographer: ["Emmanuel Lubezki", ]
-_music: ["Alexandre Desplat", ]
-_genres: ["Drama", ]
-_runtimes: ["139", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNTgyNTQzMDEwNV5BMl5BanBnXkFtZTcwMTQxNjI4NA@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNTgyNTQzMDEwNV5BMl5BanBnXkFtZTcwMTQxNjI4NA@@._V1._SX89_SY140_.jpg"
+desc: "A Árvore da Vida. The Tree of Life (USA, 2011). Dirigido por Terrence Malick. Escrito por Terrence Malick. Com Brad Pitt, Sean Penn, Jessica Chastain, Hunter McCracken, Laramie Eppler, Tye Sheridan, Fiona Shaw, Jessica Fuselier, Nicolas Gonda."
 ---
 O início de O Filme: Um Estudo Psicológico (1916), de Hugo Münsterberg, primeiro livro sobre crítica da história do cinema, coloca o fenômeno da percepção do movimento nos olhos de quem vê. A interpretação que fazemos das imagens estáticas em sequência é subjetiva, de forma que, mesmo que o autor da obra tenha escolhido o que filmar, é o espectador que irá extrair da imagem o significado. Dessa forma, um filme, como toda obra de arte, apenas se comunica quando houver um espectador, que irá se relacionar diretamente com a obra e a filtrar pelas nossas experiências de vida e como enxergamos a realidade à nossa volta.
 

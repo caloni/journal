@@ -1,25 +1,10 @@
 ---
-date: "2014-06-10"
 imdb: "1631867"
+date: "2014-06-10"
+categories: "movies"
 title: "No Limite do Amanhã"
 stars: "4/5"
-categories: "movies"
-_title: "Edge of Tomorrow"
-_year: "2014"
-_director: ["Doug Liman", ]
-_writer: ["Christopher McQuarrie", "Jez Butterworth", "John-Henry Butterworth", "Hiroshi Sakurazaka", ]
-_cast: ["Tom Cruise", "Emily Blunt", "Brendan Gleeson", "Bill Paxton", "Jonas Armstrong", "Tony Way", "Kick Gurry", "Franz Drameh", "Dragomir Mrsic", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["James Herbert", "Laura Jennings", ]
-_cinematographer: ["Dion Beebe", ]
-_music: ["Christophe Beck", ]
-_genres: ["Action", ]
-_runtimes: ["113", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTc5OTk4MTM3M15BMl5BanBnXkFtZTgwODcxNjg3MDE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTc5OTk4MTM3M15BMl5BanBnXkFtZTgwODcxNjg3MDE@._V1._SX94_SY140_.jpg"
+desc: "No Limite do Amanhã. Edge of Tomorrow (USA, 2014). Dirigido por Doug Liman. Escrito por Christopher McQuarrie, Jez Butterworth, John-Henry Butterworth, Hiroshi Sakurazaka. Com Tom Cruise, Emily Blunt, Brendan Gleeson, Bill Paxton, Jonas Armstrong, Tony Way, Kick Gurry, Franz Drameh, Dragomir Mrsic."
 ---
 Filme futurista que faz uma homenagem a Feitiço do Tempo (de Harold Ramis com Bill Murray), mas não aproveita suas idas e vindas pelo mesmo caminho percorrido pelo protagonista, que precisa morrer várias vezes, mas acaba morrendo praticamente da mesma maneira (isso lembra um pouco nossa geração vídeogame, não?). O ponto mais negativo obviamente fica para o final, pois este é um filme onde Tom Cruise (Oblivion) é o herói, e heróis como ele e Will Smith muitas vezes se dão ao luxo de não trocar suas personas midiáticas por personagens mais reais. Ou podemos dizer que essa é uma crítica pontual ao espírito vídeo-game dessa geração, acostumado com desafios fáceis e pouco desafiadores.
 

@@ -1,23 +1,11 @@
 ---
+tags: ['cabine']
+imdb: "5294966"
 date: "2016-10-20"
 categories: "movies"
 title: "Depois da Tempestade"
-imdb: "5294966"
 stars: "4/5"
-tags: ['cabine']
-_title: "Umi yori mo mada fukaku"
-_year: "2016"
-_director: ["Hirokazu Koreeda", ]
-_writer: ["Hirokazu Koreeda", "Hirokazu Koreeda", ]
-_cast: ["Hiroshi Abe (Shinoda Ryota)", "Yôko Maki (Shiraishi Kyoko)", "Taiyô Yoshizawa (Shiraishi Shingo)", "Kirin Kiki (Shinoda Yoshiko)", "Lily Franky", "Isao Hashizume", "Shôno Hayama (High school student)", "Sôsuke Ikematsu", "Satomi Kobayashi", ]
-_countries: ["Japan", ]
-_languages: ["Japanese", ]
-_editor: ["Hirokazu Koreeda", ]
-_genres: ["Drama", ]
-_runtimes: ["117", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BYWM2ZGNlZTQtNjA3MS00Y2JlLWE5Y2ItOWVmZGFlMTQ0NWIwXkEyXkFqcGdeQXVyNDgxMDU4NTU@.jpg"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BYWM2ZGNlZTQtNjA3MS00Y2JlLWE5Y2ItOWVmZGFlMTQ0NWIwXkEyXkFqcGdeQXVyNDgxMDU4NTU@._V1._SX98_SY140_.jpg"
+desc: "Depois da Tempestade. Umi yori mo mada fukaku (Japan, 2016). Dirigido por Hirokazu Koreeda. Escrito por Hirokazu Koreeda, Hirokazu Koreeda. Com Hiroshi Abe (Shinoda Ryota), Yôko Maki (Shiraishi Kyoko), Taiyô Yoshizawa (Shiraishi Shingo), Kirin Kiki (Shinoda Yoshiko), Lily Franky, Isao Hashizume, Shôno Hayama (High school student), Sôsuke Ikematsu, Satomi Kobayashi."
 ---
 Se Tokyo Story (Era Uma Vez Em Tóquio), clássico de Yasujirô Ozu, sabia contar uma história tipicamente japonesa que se tornou universal com o passar do tempo, Kooeda agora narra uma história que reflete a situação atual do Japão baseado em uma família e que percorre diferentes temas de sua cultura, seja o declínio econômico, o envelhecimento da população ou até o papel cada vez mais independente da mulher. Talvez esse último seja o resumo de todo o filme.
 

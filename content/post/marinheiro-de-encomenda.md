@@ -1,24 +1,10 @@
 ---
-date: "2015-01-06"
 imdb: "0019421"
+date: "2015-01-06"
+categories: "movies"
 title: "Marinheiro de Encomenda"
 stars: "4/5"
-categories: "movies"
-_title: "Steamboat Bill, Jr."
-_year: "1928"
-_director: ["Charles Reisner", "Buster Keaton", ]
-_writer: ["Carl Harbaugh", "Carl Harbaugh", "Carl Harbaugh", ]
-_cast: ["Buster Keaton", "Tom McGuire", "Ernest Torrence", "Tom Lewis", "Marion Byron", "James T. Mack", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Sherman Kell", ]
-_cinematographer: ["Bert Haines", "Devereaux Jennings", ]
-_genres: ["Action", ]
-_runtimes: ["70", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTUwMjQxODA2M15BMl5BanBnXkFtZTgwMzk4NzM2MzE@.jpg"
-_ratio: "1.33 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTUwMjQxODA2M15BMl5BanBnXkFtZTgwMzk4NzM2MzE@._V1._SX95_SY140_.jpg"
+desc: "Marinheiro de Encomenda. Steamboat Bill, Jr. (USA, 1928). Dirigido por Charles Reisner, Buster Keaton. Escrito por Carl Harbaugh, Carl Harbaugh, Carl Harbaugh. Com Buster Keaton, Tom McGuire, Ernest Torrence, Tom Lewis, Marion Byron, James T. Mack."
 ---
 Esse filme, assim como Os Irmãos Cara-de-Pau, tem um ritmo que cozinha em fogo lento até uma sequência absurda e frenética (até para a época) envolvendo um acontecimento que muda todo o rumo da história. É difícil saber como toda ela foi criada: Buster Keaton é um especialista em trucagens cinematográficas, como já visto em Sherlock Jr. Porém, é impossível ficar impassível a tantos truques que além de impressionantes continuam colaborando com a narrativa.
 

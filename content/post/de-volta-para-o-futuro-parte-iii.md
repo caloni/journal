@@ -1,27 +1,11 @@
 ---
-date: "2012-07-21"
 imdb: "0099088"
-title: "De Volta para o Futuro Parte III"
 date: 2016-03-20
-revision: [2016-03-18]
-stars: "5/5"
 categories: "movies"
-_title: "Back to the Future Part III"
-_year: "1990"
-_director: ["Robert Zemeckis", ]
-_writer: ["Robert Zemeckis", "Bob Gale", "Robert Zemeckis", "Bob Gale", "Bob Gale", ]
-_cast: ["Michael J. Fox", "Christopher Lloyd", "Mary Steenburgen", "Thomas F. Wilson", "Lea Thompson", "Elisabeth Shue", "Matt Clark", "Richard Dysart", "Pat Buttram", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Harry Keramidas", "Arthur Schmidt", ]
-_cinematographer: ["Dean Cundey", ]
-_music: ["Alan Silvestri", ]
-_genres: ["Adventure", ]
-_runtimes: ["118", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTk3ODgyMTgzNF5BMl5BanBnXkFtZTcwODE3MzYwMg@@.jpg"
-_ratio: "1.37 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTk3ODgyMTgzNF5BMl5BanBnXkFtZTcwODE3MzYwMg@@._V1._SX100_SY136_.jpg"
+title: "De Volta para o Futuro Parte III"
+stars: "5/5"
+revision: [datetime.date(2016, 3, 18)]
+desc: "De Volta para o Futuro Parte III. Back to the Future Part III (USA, 1990). Dirigido por Robert Zemeckis. Escrito por Robert Zemeckis, Bob Gale, Robert Zemeckis, Bob Gale, Bob Gale. Com Michael J. Fox, Christopher Lloyd, Mary Steenburgen, Thomas F. Wilson, Lea Thompson, Elisabeth Shue, Matt Clark, Richard Dysart, Pat Buttram."
 ---
 Encerrando a trilogia da viagem no tempo, o diretor-roteirista Robert Zemeckis vai audaciosamente 100 anos atrás, no velho oeste, para buscar a aventura e a curva dramática de um personagem até então esquecido, mas vital para o sucesso da franquia: o cientista pseudo-maluco Dr. Brown (Christopher Lloyd). Mais audaciosamente ainda, fecha com chave de ouro uma das trilogias mais bem sucedidas do Cinema ao fazer referência à própria Sétima Arte ao brincar com figuras como Clint Eastwood. Alan Silvestri adapta sua música-tema e sua orquestração para a época, e as tomadas tomam um aspecto completamente inusitado do que poderia se esperar de um filme de ficção científica.
 

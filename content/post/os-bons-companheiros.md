@@ -1,24 +1,10 @@
 ---
-date: "2013-01-01"
 imdb: "0099685"
+date: "2013-01-01"
+categories: "movies"
 title: "Os Bons Companheiros"
 stars: "5/5"
-categories: "movies"
-_title: "Goodfellas"
-_year: "1990"
-_director: ["Martin Scorsese", ]
-_writer: ["Nicholas Pileggi", "Nicholas Pileggi", "Martin Scorsese", ]
-_cast: ["Robert De Niro", "Ray Liotta", "Joe Pesci", "Lorraine Bracco", "Paul Sorvino", "Frank Sivero", "Tony Darrow", "Mike Starr", "Frank Vincent", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["James Y. Kwei", "Thelma Schoonmaker", ]
-_cinematographer: ["Michael Ballhaus", ]
-_genres: ["Biography", ]
-_runtimes: ["146", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTY2OTE5MzQ3MV5BMl5BanBnXkFtZTgwMTY2NTYxMTE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTY2OTE5MzQ3MV5BMl5BanBnXkFtZTgwMTY2NTYxMTE@._V1._SX94_SY140_.jpg"
+desc: "Os Bons Companheiros. Goodfellas (USA, 1990). Dirigido por Martin Scorsese. Escrito por Nicholas Pileggi, Nicholas Pileggi, Martin Scorsese. Com Robert De Niro, Ray Liotta, Joe Pesci, Lorraine Bracco, Paul Sorvino, Frank Sivero, Tony Darrow, Mike Starr, Frank Vincent."
 ---
 A primeira sequência de Os Bons Companheiros começa com os personagens de Robert de Niro (James Conway), Ray Liotta (Henry Hill) e Joe Pesci (Tommy DeVito) tendo que parar o carro para dar fim ao corpo que ainda insistia em manter-se vivo no porta-malas. A violência gráfica com que isso ocorre é sanguinária tanto na luz quanto no ato que ocorre na traseira do veículo. Quando acompanhamos o crescimento de Henry entre os gângsteres e voltamos novamente a essa cena é como se fizéssemos já parte do grupo: da gangue e da família que estes formam.
 

@@ -1,27 +1,11 @@
 ---
+tags: ['netflix']
+imdb: "1615147"
 date: "2016-12-21"
 categories: "movies"
 title: "Margin Call - O Dia Antes do Fim"
-imdb: "1615147"
 stars: "4/5"
-tags: ['netflix']
-_title: "Margin Call"
-_year: "2011"
-_director: ["J.C. Chandor", ]
-_writer: ["J.C. Chandor", ]
-_cast: ["Kevin Spacey (Sam Rogers)", "Paul Bettany (Will Emerson)", "Jeremy Irons (John Tuld)", "Zachary Quinto (Peter Sullivan)", "Penn Badgley (Seth Bregman)", "Simon Baker (Jared Cohen)", "Mary McDonnell (Mary Rogers)", "Demi Moore (Sarah Robertson)", "Stanley Tucci (Eric Dale)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Pete Beaudreau", ]
-_cinematographer: ["Frank G. DeMarco", ]
-_music: ["Nathan Larson", ]
-_costume designer: ["Caroline Duncan", ]
-_genres: ["Biography", ]
-_runtimes: ["107", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE5NzkyNDI2Nl5BMl5BanBnXkFtZTcwMTYzNDc2Ng@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE5NzkyNDI2Nl5BMl5BanBnXkFtZTcwMTYzNDc2Ng@@._V1._SX95_SY140_.jpg"
+desc: "Margin Call - O Dia Antes do Fim. Margin Call (USA, 2011). Dirigido por J.C. Chandor. Escrito por J.C. Chandor. Com Kevin Spacey (Sam Rogers), Paul Bettany (Will Emerson), Jeremy Irons (John Tuld), Zachary Quinto (Peter Sullivan), Penn Badgley (Seth Bregman), Simon Baker (Jared Cohen), Mary McDonnell (Mary Rogers), Demi Moore (Sarah Robertson), Stanley Tucci (Eric Dale)."
 ---
 Hoje Margin Call já tem mais de quatro anos de quando foi lançado. É uma conversa pra lá de realista sobre qualquer empresa de investimentos em 2008 que teve a sacada final de que tudo o que haviam feito nos últimos anos não valia praticamente nada. O filme não dá a menor dica para o espectador sobre o que está acontecendo exatamente, o que é ótimo, pois isso comprova hoje que ele envelheceu tão bem que nem é necessário que ele fale sobre a crise recente. Pode ser um outro momento mais à frente, ou no passado. Que diferença faz? No final das contas, as manipulações estatais na economia sempre irão gerar, inevitavelmente, mais crises.
 

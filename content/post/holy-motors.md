@@ -1,24 +1,10 @@
 ---
-date: "2014-05-15"
 imdb: "2076220"
+date: "2014-05-15"
+categories: "movies"
 title: "Holy Motors"
 stars: "5/5"
-categories: "movies"
-_title: "Holy Motors"
-_year: "2012"
-_director: ["Leos Carax", ]
-_writer: ["Leos Carax", ]
-_cast: ["Denis Lavant", "Edith Scob", "Eva Mendes", "Kylie Minogue", "Elise Lhomeau", "Jeanne Disson", "Michel Piccoli", "Leos Carax", "Nastya Golubeva Carax", ]
-_countries: ["France", ]
-_languages: ["French", ]
-_editor: ["Nelly Quettier", ]
-_cinematographer: ["Yves Cape", "Caroline Champetier", ]
-_genres: ["Drama", ]
-_runtimes: ["115", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BODk2MDc4MDk2OF5BMl5BanBnXkFtZTcwMTcyODY1OA@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BODk2MDc4MDk2OF5BMl5BanBnXkFtZTcwMTcyODY1OA@@._V1._SX96_SY140_.jpg"
+desc: "Holy Motors. Holy Motors (France, 2012). Dirigido por Leos Carax. Escrito por Leos Carax. Com Denis Lavant, Edith Scob, Eva Mendes, Kylie Minogue, Elise Lhomeau, Jeanne Disson, Michel Piccoli, Leos Carax, Nastya Golubeva Carax."
 ---
 Holy Motors é o refresco que todo cinéfilo pede de vez em quando. Com uma abordagem surrealista, ele permite fazer uma crítica e uma homenagem à nossa sensação de estarmos na realidade enquanto assistimos filmes. Mais do que isso: ele brinca com essa percepção aproveitando o pouco de pé que fincamos nessa realidade no início do filme. A partir daí, ele nos puxa cada vez mais para o inusitado. Porém, não é gratuito. Parece que tudo que está ali é necessário e poderia ter sido contado da maneira convencional, mas seria um resultado aquém do que precisamos. Sim, precisamos de um Holy Motors no Cinema de vez em quando.
 

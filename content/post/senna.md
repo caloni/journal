@@ -1,25 +1,10 @@
 ---
-date: "2010-11-26"
 imdb: "1424432"
+date: "2010-11-26"
+categories: "movies"
 title: "Senna"
 stars: "5/5"
-categories: "movies"
-_title: "Senna"
-_year: "2010"
-_director: ["Asif Kapadia", ]
-_writer: ["Manish Pandey", ]
-_cast: ["Ayrton Senna", "Alain Prost", "Frank Williams", "Ron Dennis", "Viviane Senna", "Milton da Silva", "Neide Senna", "Jackie Stewart", "Sid Watkins", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Chris King", "Gregers Sall", ]
-_cinematographer: ["Jake Polonsky", ]
-_music: ["Antonio Pinto", ]
-_genres: ["Documentary", ]
-_runtimes: ["106", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTc5MTUzOTAxMl5BMl5BanBnXkFtZTcwODQzMjg3NA@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTc5MTUzOTAxMl5BMl5BanBnXkFtZTcwODQzMjg3NA@@._V1._SX94_SY140_.jpg"
+desc: "Senna. Senna (UK, 2010). Dirigido por Asif Kapadia. Escrito por Manish Pandey. Com Ayrton Senna, Alain Prost, Frank Williams, Ron Dennis, Viviane Senna, Milton da Silva, Neide Senna, Jackie Stewart, Sid Watkins."
 ---
 De que são feitos os heróis? Como uma pessoa cresce internamente e transparece externamente, para o resto do mundo, como alguém que faz a diferença; tanto profissional, quanto moralmente?
 

@@ -1,23 +1,11 @@
 ---
-date: "2014-08-31"
+tags: ['netflix', 'series']
 imdb: "1799631"
+date: "2014-08-31"
+categories: "series"
 title: "Blue Exorcist"
 stars: "3/5"
-categories: "series"
-tags: ['netflix', 'series']
-_title: "Ao no ekusoshisuto"
-_year: "2011"
-_director: ["Tensai Okamura", "Alex Von David", ]
-_writer: ["Alex Von David", "Ryôta Yamaguchi", "Shinsuke Ônishi", "Ikuko Takahashi", "Natsuko Takahashi", "Kazue Katô", ]
-_cast: ["Nobuhiko Okamoto", "Johnny Yong Bosch", "Tobias Diakow", "Bryce Papenbrook", "Jun Fukuyama", "Hiroshi Kamiya", "Kôji Yusa", "Sam Riegel", "Kana Hanazawa", ]
-_countries: ["Japan", ]
-_languages: ["Japanese", ]
-_music: ["Hiroyuki Sawano", ]
-_genres: ["Animation", ]
-_runtimes: ["Japan:30", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTY2OTUzODY5M15BMl5BanBnXkFtZTcwMzk2NDk3OQ@@.jpg"
-_kind: "tv series"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTY2OTUzODY5M15BMl5BanBnXkFtZTcwMzk2NDk3OQ@@._V1._SX100_SY140_.jpg"
+desc: "Blue Exorcist. Ao no ekusoshisuto (Japan, 2011). Dirigido por Tensai Okamura, Alex Von David. Escrito por Alex Von David, Ryôta Yamaguchi, Shinsuke Ônishi, Ikuko Takahashi, Natsuko Takahashi, Kazue Katô. Com Nobuhiko Okamoto, Johnny Yong Bosch, Tobias Diakow, Bryce Papenbrook, Jun Fukuyama, Hiroshi Kamiya, Kôji Yusa, Sam Riegel, Kana Hanazawa."
 ---
 Blue Exorcist em seu primeiro episódio é um exercício de estilo e composição de personagem que passa tão rápido que cumpre com louvor seu papel de fisgar o espectador. Porém, para qualquer um que tenha visto meia-dúzia de filmes/séries/animações, fica claro que logo o personagem melhor trabalhado (leia-se: mais fodástico-ever) terá que morrer para dar lugar a um drama que -- claro! -- só se resolverá no último episódio de uma longa série que mistura humor animê quase sempre mal trabalhado com raros, mas ótimos, momentos de tensão e drama embutidos em uma atmosfera fascinante a respeito da divisão do mundo em carnal e espiritual.
 

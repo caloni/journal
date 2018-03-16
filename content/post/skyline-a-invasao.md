@@ -1,25 +1,10 @@
 ---
-date: "2010-12-03"
 imdb: "1564585"
+date: "2010-12-03"
+categories: "movies"
 title: "Skyline A Invasão"
 stars: "4/5"
-categories: "movies"
-_title: "Skyline"
-_year: "2010"
-_director: ["Colin Strause", "Greg Strause", ]
-_writer: ["Joshua Cordes", "Liam O'Donnell", ]
-_cast: ["Eric Balfour", "Scottie Thompson", "Brittany Daniel", "Crystal Reed", "Neil Hopkins", "David Zayas", "Donald Faison", "Robin Gammell", "Tanya Newbould", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Nicholas Wayman-Harris", ]
-_cinematographer: ["Michael Watson", ]
-_music: ["Matthew Margeson", ]
-_genres: ["Action", ]
-_runtimes: ["97", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjAwNDkwOTc5M15BMl5BanBnXkFtZTcwMTE2MTMwNA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjAwNDkwOTc5M15BMl5BanBnXkFtZTcwMTE2MTMwNA@@._V1._SX94_SY140_.jpg"
+desc: "Skyline A Invasão. Skyline (USA, 2010). Dirigido por Colin Strause, Greg Strause. Escrito por Joshua Cordes, Liam O'Donnell. Com Eric Balfour, Scottie Thompson, Brittany Daniel, Crystal Reed, Neil Hopkins, David Zayas, Donald Faison, Robin Gammell, Tanya Newbould."
 ---
 As histórias são profundas o suficiente para nos preocuparmos um pouquinho com o destino dos personagens (rapaz com acordo promissor com melhor amigo e sua mulher grávida, o amigo rico que é gente boa e sua esposa fiel e paciente, e a agente do amigo rico, o que faz com que ela seja a primeira a ser esmagada e nem nos darmos conta) e joviais o suficiente para não sentirmos muito pela perda de cada um deles (ou pelo menos por muito tempo).
 

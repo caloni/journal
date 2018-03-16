@@ -1,14 +1,9 @@
 ---
-date: "2011-11-28"
-stars: "4/5"
-categories: "movies"
 title: "Domingos"
-_title: "Domingos"
-_director: ["Maria Ribeiro", ]
-_writer: ["Maria Ribeiro", ]
-_year: "2011"
-_countries: ["Brasil", ]
-_kind: "movie"
+stars: "4/5"
+date: "2011-11-28"
+categories: "movies"
+desc: "Domingos. Domingos (Brasil, 2011). Dirigido por Maria Ribeiro. Escrito por Maria Ribeiro."
 ---
 Parafraseando o Chefe Gusteau de Ratatouille, "qualquer um pode dirigir", ou seja, o bom diretor pode vir de qualquer lugar. Dessa vez veio de Maria Ribeiro, a Rosane esposa do Capitão Nascimento em Tropa de Elite, que faz aqui um apanhado brilhante de gravações, depoimentos e tomadas capturadas durante o convívio com o cineasta Domingos de Oliveira que buscam ilustrar e homenagear a pessoa e o diretor/ator/roteirista, ao mesmo tempo que mostra seus inúmeros trabalhos no cinema e teatro.
 

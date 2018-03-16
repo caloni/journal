@@ -1,25 +1,10 @@
 ---
-date: "2015-01-18"
 imdb: "2278388"
+date: "2015-01-18"
+categories: "movies"
 title: "O Grande Hotel Budapeste"
 stars: "4/5"
-categories: "movies"
-_title: "The Grand Budapest Hotel"
-_year: "2014"
-_director: ["Wes Anderson", ]
-_writer: ["Stefan Zweig", "Wes Anderson", "Wes Anderson", "Hugo Guinness", ]
-_cast: ["Ralph Fiennes", "F. Murray Abraham", "Mathieu Amalric", "Adrien Brody", "Willem Dafoe", "Jeff Goldblum", "Harvey Keitel", "Jude Law", "Bill Murray", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Barney Pilling", ]
-_cinematographer: ["Robert D. Yeoman", ]
-_music: ["Alexandre Desplat", ]
-_genres: ["Adventure", ]
-_runtimes: ["99", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@.jpg"
-_ratio: "1.37 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1._SX94_SY140_.jpg"
+desc: "O Grande Hotel Budapeste. The Grand Budapest Hotel (USA, 2014). Dirigido por Wes Anderson. Escrito por Stefan Zweig, Wes Anderson, Wes Anderson, Hugo Guinness. Com Ralph Fiennes, F. Murray Abraham, Mathieu Amalric, Adrien Brody, Willem Dafoe, Jeff Goldblum, Harvey Keitel, Jude Law, Bill Murray."
 ---
 Wes Anderson sendo, como sempre, Wes Anderson, pode prejudicar um pouco seus trabalhos com seu enquadramento engessado e seus cenários surrealmente coloridos. Porém, quando o material se encaixa em seu estilo, temos um resultado espetacular. Como é o caso desse O Grande Hotel Budapeste, cuja história remete a um país meio Leste Europeu, meio Oriente, e que contém elementos fantasiosos que remetem justamente ao mundo que o diretor possui em sua mente.
 

@@ -1,24 +1,10 @@
 ---
-date: "2014-03-30"
 imdb: "0080455"
+date: "2014-03-30"
+categories: "movies"
 title: "Os Irmãos Cara de Pau"
 stars: "5/5"
-categories: "movies"
-_title: "The Blues Brothers"
-_year: "1980"
-_director: ["John Landis", ]
-_writer: ["Dan Aykroyd", "John Landis", ]
-_cast: ["John Belushi", "Dan Aykroyd", "James Brown", "Cab Calloway", "Ray Charles", "Aretha Franklin", "Steve Cropper", "Donald Dunn", "Murphy Dunne", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["George Folsey Jr.", ]
-_cinematographer: ["Stephen M. Katz", ]
-_genres: ["Action", ]
-_runtimes: ["133", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTM4MjYwMTk5M15BMl5BanBnXkFtZTYwNTQzMTI5.jpg"
-_ratio: "1.37 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTM4MjYwMTk5M15BMl5BanBnXkFtZTYwNTQzMTI5._V1._SX77_SY140_.jpg"
+desc: "Os Irmãos Cara de Pau. The Blues Brothers (USA, 1980). Dirigido por John Landis. Escrito por Dan Aykroyd, John Landis. Com John Belushi, Dan Aykroyd, James Brown, Cab Calloway, Ray Charles, Aretha Franklin, Steve Cropper, Donald Dunn, Murphy Dunne."
 ---
 Não se fazem mais filmes sem computadores, e isso pode ser uma coisa ruim. Os efeitos digitais invadem as telonas e as pessoas dessa geração mal percebem que estão olhando para pixels plásticos gerados em ambientes impossíveis. O velho acidente de carro capotando parece só existir agora "photoshopado" em inúmeras camadas de irrealidade.
 

@@ -1,24 +1,10 @@
 ---
-date: "2014-11-16"
 imdb: "1020773"
+date: "2014-11-16"
+categories: "movies"
 title: "Cópia Fiel"
 stars: "5/5"
-categories: "movies"
-_title: "Copie conforme"
-_year: "2010"
-_director: ["Abbas Kiarostami", ]
-_writer: ["Caroline Eliacheff", "Abbas Kiarostami", ]
-_cast: ["Juliette Binoche", "William Shimell", "Jean-Claude Carrière", "Agathe Natanson", "Gianna Giachetti", "Adrian Moore", "Angelo Barbagallo", "Andrea Laurenzi", "Filippo Trojano", ]
-_countries: ["France", ]
-_languages: ["French", ]
-_editor: ["Bahman Kiarostami", ]
-_cinematographer: ["Luca Bigazzi", ]
-_genres: ["Drama", ]
-_runtimes: ["106", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjAyODExNjExNV5BMl5BanBnXkFtZTcwMjMxNTI1NA@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjAyODExNjExNV5BMl5BanBnXkFtZTcwMjMxNTI1NA@@._V1._SX94_SY140_.jpg"
+desc: "Cópia Fiel. Copie conforme (France, 2010). Dirigido por Abbas Kiarostami. Escrito por Caroline Eliacheff, Abbas Kiarostami. Com Juliette Binoche, William Shimell, Jean-Claude Carrière, Agathe Natanson, Gianna Giachetti, Adrian Moore, Angelo Barbagallo, Andrea Laurenzi, Filippo Trojano."
 ---
 Afinal, eles são casados ou não? E o que são aqueles diálogos que não conseguimos ouvir? Por que não conseguimos acompanhar a ação dos dois personagens -- "marido" e "mulher" -- quando não estão conversando juntos? E, finalmente, por que nas conversas à mesa os personagens olham para nós?
 

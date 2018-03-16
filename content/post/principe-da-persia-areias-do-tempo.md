@@ -1,25 +1,10 @@
 ---
-date: "2010-06-14"
 imdb: "0473075"
+date: "2010-06-14"
+categories: "movies"
 title: "Príncipe da Pérsia As Areias do Tempo"
 stars: "3/5"
-categories: "movies"
-_title: "Prince of Persia: The Sands of Time"
-_year: "2010"
-_director: ["Mike Newell", ]
-_writer: ["Boaz Yakin", "Doug Miro", "Carlo Bernard", "Jordan Mechner", "Jordan Mechner", ]
-_cast: ["Jake Gyllenhaal", "Gemma Arterton", "Ben Kingsley", "Alfred Molina", "Steve Toussaint", "Toby Kebbell", "Richard Coyle", "Ronald Pickup", "Reece Ritchie", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Mick Audsley", "Michael Kahn", "Martin Walsh", ]
-_cinematographer: ["John Seale", ]
-_music: ["Harry Gregson-Williams", ]
-_genres: ["Action", ]
-_runtimes: ["116", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTMwNDg0NzcyMV5BMl5BanBnXkFtZTcwNjg4MjQyMw@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTMwNDg0NzcyMV5BMl5BanBnXkFtZTcwNjg4MjQyMw@@._V1._SX95_SY140_.jpg"
+desc: "Príncipe da Pérsia As Areias do Tempo. Prince of Persia: The Sands of Time (USA, 2010). Dirigido por Mike Newell. Escrito por Boaz Yakin, Doug Miro, Carlo Bernard, Jordan Mechner, Jordan Mechner. Com Jake Gyllenhaal, Gemma Arterton, Ben Kingsley, Alfred Molina, Steve Toussaint, Toby Kebbell, Richard Coyle, Ronald Pickup, Reece Ritchie."
 ---
 Inspirado pelo post recente do Daniel Quadros, um programador como eu, mas que gosta de se aventurar em outras áreas (como eu), resolvi publicar minhas impressões sobre esse filme de 2010, que assisti no cinema com o meu antigo caderno de anotações (hoje aposentado até segunda ordem). Minha ideia era apenas praticar minha sensibilidade sobre a sétima arte, mas aos poucos estou organizando os textos da época.
 

@@ -1,26 +1,11 @@
 ---
-date: "2014-10-05"
+tags: ['paulocoelho', 'series']
 imdb: "3069212"
+date: "2014-10-05"
+categories: "blog"
 title: "Street Fighter: Assassin's Fist"
 stars: "2/5"
-categories: "blog"
-tags: ['paulocoelho', 'series']
-_title: "Street Fighter: Assassin's Fist"
-_year: "2014"
-_director: ["Joey Ansah", ]
-_writer: ["Joey Ansah", "Christian Howard", ]
-_cast: ["Togo Igawa", "Christian Howard", "Mike Moh", "Akira Koieyama", "Shogen", "Gaku Space", "Joey Ansah", "Hyunri", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Oliver Parker", ]
-_cinematographer: ["James Friend", ]
-_music: ["Patrick Gill", ]
-_genres: ["Action", ]
-_runtimes: ["21", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNzg1ODQ2MzUxOV5BMl5BanBnXkFtZTgwMjg2MDk4MDE@.jpg"
-_ratio: "1.78 : 1"
-_kind: "tv series"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNzg1ODQ2MzUxOV5BMl5BanBnXkFtZTgwMjg2MDk4MDE@._V1._SX95_SY140_.jpg"
+desc: "Street Fighter: Assassin's Fist. Street Fighter: Assassin's Fist (UK, 2014). Dirigido por Joey Ansah. Escrito por Joey Ansah, Christian Howard. Com Togo Igawa, Christian Howard, Mike Moh, Akira Koieyama, Shogen, Gaku Space, Joey Ansah, Hyunri."
 ---
 Minha impressão é que fãs de qualquer coisa avaliam uma adaptação cinematográfica pela proximidade com o material original. Porém, assim como o espectador médio do Cinema, suas prioridades sempre ficam entre a historinha, os atores e a identificação visual, e quase nunca com o "espírito" da obra original. Não sei se assisti à primeira temporada de [Street Fighter: Assassin's Fist](/street-fighter-assassins-fist) com atenção o suficiente para discorrer a respeito da série, mas tenho certeza que uma possível comparação que eu fizesse com o jogo em que ele é baseado seria inútil. E isso não é exclusividade deste trabalho: filmes (ou séries) devem ser tratados como uma nova criação que, baseada ou não em elementos com grande potencial narrativo, não tem garantia nenhuma de funcionar no peculiar mecanismo audiovisual que nós, cinéfilos e críticos, estamos dispostos a avaliar -- consciente e inconscientemente -- a cada nova produção assistida.
 

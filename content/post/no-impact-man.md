@@ -1,23 +1,10 @@
 ---
-date: "2014-04-27"
 imdb: "1280011"
+date: "2014-04-27"
+categories: "movies"
 title: "No Impact Man"
 stars: "3/5"
-categories: "movies"
-_title: "No Impact Man: The Documentary"
-_year: "2009"
-_director: ["Laura Gabbert", "Justin Schein", ]
-_cast: ["Colin Beavan", "Michelle Conlin", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["William Haugse", "Matthew Martin", ]
-_cinematographer: ["Justin Schein", ]
-_music: ["Bobby Johnston", ]
-_genres: ["Documentary", ]
-_runtimes: ["USA:93", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTA2MzM0ODIxMDheQTJeQWpwZ15BbWU3MDc1OTMzNzI@.jpg"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTA2MzM0ODIxMDheQTJeQWpwZ15BbWU3MDc1OTMzNzI@._V1._SX96_SY140_.jpg"
+desc: "No Impact Man. No Impact Man: The Documentary (USA, 2009). Dirigido por Laura Gabbert, Justin Schein. Com Colin Beavan, Michelle Conlin."
 ---
 Esse é daqueles documentários ecológicos que se baseia no escritor Colin Beavan e sua família, sua esposa compradora compulsória Michelle Conlin e sua pequena e inocente filha. Os três passarão um ano cuidando de suas vidas sem tentar causar qualquer impacto ambiental no meio de Nova Iorque. Primeiramente, devo perguntar: o que seria um impacto ambiental para uma família dessas, e por quê?
 

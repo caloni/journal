@@ -1,23 +1,10 @@
 ---
-date: "2014-12-30"
 imdb: "3148834"
+date: "2014-12-30"
+categories: "movies"
 title: "A Mansão Mágica"
 stars: "4/5"
-categories: "movies"
-_title: "The House of Magic"
-_year: "2013"
-_director: ["Jeremy Degruson", "Ben Stassen", ]
-_writer: ["Ben Stassen", "James Flynn", "Domonic Paris", "Ben Stassen", ]
-_cast: ["Cinda Adams", "George Babbit", "Murray Blue", "Kathleen Browers", "Joey Camen", "Grant George", "Shanelle Gray", "Nina Grillo", "Ella Rouhier", ]
-_countries: ["Belgium", ]
-_languages: ["English", ]
-_music: ["Ramin Djawadi", ]
-_genres: ["Animation", ]
-_runtimes: ["85", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTEzOTk1NjYyNjVeQTJeQWpwZ15BbWU4MDg5ODI2NTIx.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTEzOTk1NjYyNjVeQTJeQWpwZ15BbWU4MDg5ODI2NTIx._V1._SX97_SY140_.jpg"
+desc: "A Mansão Mágica. The House of Magic (Belgium, 2013). Dirigido por Jeremy Degruson, Ben Stassen. Escrito por Ben Stassen, James Flynn, Domonic Paris, Ben Stassen. Com Cinda Adams, George Babbit, Murray Blue, Kathleen Browers, Joey Camen, Grant George, Shanelle Gray, Nina Grillo, Ella Rouhier."
 ---
 Ultimamente venho revelando uma queda por animações (e filmes em geral) em que o roteiro não se esquece que está contando uma história que, apesar de existir seguindo as regras de seu próprio universo, existem regras. E essas regras, quando violadas, enfraquecem qualquer trama, seja realista ou não. Quando falamos de animações, essas regras geralmente são bem flexíveis, mas mesmo assim o Deus Ex Machina aparece no terceiro ato vez sim, vez não.
 

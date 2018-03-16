@@ -1,28 +1,11 @@
 ---
+tags: ['netflix']
+imdb: "2735996"
 date: "2017-06-05"
 categories: "movies"
 title: "Ninguém Deseja a Noite"
-imdb: "2735996"
 stars: "4/5"
-tags: ['netflix']
-_title: "Nadie quiere la noche"
-_year: "2015"
-_director: ["Isabel Coixet", ]
-_writer: ["Miguel Barros", ]
-_cast: ["Juliette Binoche (Josephine)", "Rinko Kikuchi (Allaka)", "Gabriel Byrne (Bram)", "Orto Ignatiussen", "Matt Salinger (Captain Spalding)", "Ben Temple (Frand)", "Reed Brody (Lucius)", "Alberto Jo Lee (Odaq)", "Clarence Smith", ]
-_countries: ["Spain", ]
-_languages: ["English", ]
-_editor: ["Elena Ruiz", ]
-_cinematographer: ["Jean-Claude Larrieu", ]
-_music: ["Lucas Vidal", ]
-_artdirection: ["Carlos Bodelón", ]
-_costume designer: ["Clara Bilbao", ]
-_genres: ["Drama", ]
-_runtimes: ["104", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMWM3ZDc0OGYtZGFkMC00YmYzLWEyMDAtNjM0YWViNWQxOGY4XkEyXkFqcGdeQXVyMTA0MjU0Ng@@.jpg"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMWM3ZDc0OGYtZGFkMC00YmYzLWEyMDAtNjM0YWViNWQxOGY4XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1._SX99_SY140_.jpg"
-_releasedate: "1 December 2016"
+desc: "Ninguém Deseja a Noite. Nadie quiere la noche (Spain, 2015). Dirigido por Isabel Coixet. Escrito por Miguel Barros. Com Juliette Binoche (Josephine), Rinko Kikuchi (Allaka), Gabriel Byrne (Bram), Orto Ignatiussen, Matt Salinger (Captain Spalding), Ben Temple (Frand), Reed Brody (Lucius), Alberto Jo Lee (Odaq), Clarence Smith."
 ---
 Juliette Binoche se transforma completamente em uma americana aristocrata (vinda da França, até pelo nome) e que sai em busca de seu marido, um aventureiro que deseja mais que tudo ser o primeiro a atingir o Polo Norte e fincar uma bandeira. Ela vai a ajuda dos guias para o norte do Canadá, e o que encontra lá com certeza não era o que esperava.
 

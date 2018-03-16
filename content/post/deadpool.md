@@ -1,28 +1,11 @@
 ---
-date: "2016-02-27"
 imdb: "1431045"
-stars: "4/5"
+date: "2016-02-27"
 categories: "movies"
 title: "Deadpool"
-revision: [ 2016-06-14 ]
-_title: "Deadpool"
-_year: "2016"
-_director: ["Tim Miller", ]
-_writer: ["Rhett Reese", "Paul Wernick", "Fabian Nicieza", "Rob Liefeld", ]
-_cast: ["Ryan Reynolds", "Karan Soni", "Ed Skrein", "Michael Benyaer", "Stefan Kapicic", "Brianna Hildebrand", "Style Dayne", "Kyle Cassie", "Taylor Hickson", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Julian Clarke", ]
-_cinematographer: ["Ken Seng", ]
-_music: ["Junkie XL", ]
-_artdirection: ["Greg Berry", "Nigel Evans", ]
-_costume designer: ["Angus Strathie", ]
-_genres: ["Action", ]
-_runtimes: ["108", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjQyODg5Njc4N15BMl5BanBnXkFtZTgwMzExMjE3NzE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjQyODg5Njc4N15BMl5BanBnXkFtZTgwMzExMjE3NzE@._V1._SX96_SY140_.jpg"
+stars: "4/5"
+revision: [datetime.date(2016, 6, 14)]
+desc: "Deadpool. Deadpool (USA, 2016). Dirigido por Tim Miller. Escrito por Rhett Reese, Paul Wernick, Fabian Nicieza, Rob Liefeld. Com Ryan Reynolds, Karan Soni, Ed Skrein, Michael Benyaer, Stefan Kapicic, Brianna Hildebrand, Style Dayne, Kyle Cassie, Taylor Hickson."
 ---
 A fórmula Marvel de produzir super-heróis enlatados é tão maldita que só um filme como Deadpool, que brinca com toda a produção desses mesmos enlatados, para conseguir se desvencilhar, ainda que parcialmente, dos seus outros filmes lançados a balde.
 

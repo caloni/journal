@@ -1,25 +1,10 @@
 ---
-date: "2013-12-14"
 imdb: "1478338"
+date: "2013-12-14"
+categories: "movies"
 title: "Missão Madrinha de Casamento"
 stars: "5/5"
-categories: "movies"
-_title: "Bridesmaids"
-_year: "2011"
-_director: ["Paul Feig", ]
-_writer: ["Kristen Wiig", "Annie Mumolo", ]
-_cast: ["Kristen Wiig", "Terry Crews", "Maya Rudolph", "Tom Yi", "Elaine Kao", "Michael Hitchcock", "Kali Hawk", "Joe Nunez", "Rebel Wilson", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["William Kerr", "Michael L. Sale", ]
-_cinematographer: ["Robert D. Yeoman", ]
-_music: ["Michael Andrews", ]
-_genres: ["Comedy", ]
-_runtimes: ["125", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjAyOTMyMzUxNl5BMl5BanBnXkFtZTcwODI4MzE0NA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjAyOTMyMzUxNl5BMl5BanBnXkFtZTcwODI4MzE0NA@@._V1._SX95_SY140_.jpg"
+desc: "Missão Madrinha de Casamento. Bridesmaids (USA, 2011). Dirigido por Paul Feig. Escrito por Kristen Wiig, Annie Mumolo. Com Kristen Wiig, Terry Crews, Maya Rudolph, Tom Yi, Elaine Kao, Michael Hitchcock, Kali Hawk, Joe Nunez, Rebel Wilson."
 ---
 Bridesmaids poderia ser citado na cinematografia atual apenas por ser uma comédia romântica que tem o foco unicamente nas mulheres e em seu universo feminino. Não há em seu núcleo a busca pelo marido perfeito, pois nossa protagonista não é aquela mocinha inocente que costuma aparecer nesses filmes (e, francamente, depois dos 21 anos seria forçar demais a barra acreditar que uma mulher dessas existiria hoje em dia salvo produções da Disney  como o próprio longa ironiza). No entanto, ser diferente é o que menos importa quando o resultado final é tão bem explorado e conduzido, tornando-o também o filme que dá esperanças a esse gênero tão batido e surrado.
 

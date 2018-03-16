@@ -1,27 +1,10 @@
 ---
-date: "2015-12-27"
 imdb: "2361509"
-stars: "3/5"
+date: "2015-12-27"
 categories: "movies"
 title: "Um Senhor Estagiário"
-_title: "The Intern"
-_year: "2015"
-_director: ["Nancy Meyers", ]
-_writer: ["Nancy Meyers", ]
-_cast: ["Robert De Niro", "Anne Hathaway", "Rene Russo", "Anders Holm", "JoJo Kushner", "Andrew Rannells", "Adam DeVine", "Ilan Krigsfeld", "Zack Pearlman", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Robert Leighton", ]
-_cinematographer: ["Stephen Goldblatt", ]
-_music: ["Theodore Shapiro", ]
-_artdirection: ["W. Steven Graham", "Doug Huszti", ]
-_costume designer: ["Jacqueline Demeterio", ]
-_genres: ["Comedy", ]
-_runtimes: ["121", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTUyNjE5NjI5OF5BMl5BanBnXkFtZTgwNzYzMzU3NjE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTUyNjE5NjI5OF5BMl5BanBnXkFtZTgwNzYzMzU3NjE@._V1._SX94_SY140_.jpg"
+stars: "3/5"
+desc: "Um Senhor Estagiário. The Intern (USA, 2015). Dirigido por Nancy Meyers. Escrito por Nancy Meyers. Com Robert De Niro, Anne Hathaway, Rene Russo, Anders Holm, JoJo Kushner, Andrew Rannells, Adam DeVine, Ilan Krigsfeld, Zack Pearlman."
 ---
 Nancy Meyers (Presente de Grego, O Amor Não Tira Férias) é uma fofa para criar personagens carismáticos e em geral escolher os atores do momento para o papel. Robert de Niro e Anne Hathaway são escolhas óbvias. Hathaway ganhou o Oscar ano passado por chorar e cantar em Os Miseráveis (o que não quer dizer que automaticamente ela vire uma atriz de destaque) e de Niro voltou à ativa em O Lado Bom da Vida três anos atrás. Como a fundadora de uma startup de sucesso e um estagiário da terceira idade em um programa novo da empresa ambos saem perfeitos. Meyers sabe disso, crédito para ela.
 

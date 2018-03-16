@@ -1,25 +1,10 @@
 ---
-date: "2010-05-21"
 imdb: "0800320"
+date: "2010-05-21"
+categories: "movies"
 title: "Fúria de Titãs"
 stars: "3/5"
-categories: "movies"
-_title: "Clash of the Titans"
-_year: "2010"
-_director: ["Louis Leterrier", ]
-_writer: ["Travis Beacham", "Phil Hay", "Matt Manfredi", "Beverley Cross", ]
-_cast: ["Sam Worthington", "Liam Neeson", "Ralph Fiennes", "Jason Flemyng", "Gemma Arterton", "Alexa Davalos", "Tine Stapelfeldt", "Mads Mikkelsen", "Luke Evans", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["David Freeman", "Vincent Tabaillon", "Martin Walsh", ]
-_cinematographer: ["Peter Menzies Jr.", ]
-_music: ["Ramin Djawadi", ]
-_genres: ["Action", ]
-_runtimes: ["106", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTYxNjg4MzU5OV5BMl5BanBnXkFtZTcwOTA3NTUwMw@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTYxNjg4MzU5OV5BMl5BanBnXkFtZTcwOTA3NTUwMw@@._V1._SX95_SY140_.jpg"
+desc: "Fúria de Titãs. Clash of the Titans (USA, 2010). Dirigido por Louis Leterrier. Escrito por Travis Beacham, Phil Hay, Matt Manfredi, Beverley Cross. Com Sam Worthington, Liam Neeson, Ralph Fiennes, Jason Flemyng, Gemma Arterton, Alexa Davalos, Tine Stapelfeldt, Mads Mikkelsen, Luke Evans."
 ---
 Fúria de Titãs busca ser uma superprodução sobre deuses e humanos, mas falha miseravelmente em sua abordagem 3D, especialmente em suas transições, onde um bebê no barco parece distorcido ou a aparência de Hades quando este aparece entre os humanos.
 

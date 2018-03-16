@@ -1,22 +1,11 @@
 ---
-date: "2015-04-19"
-tags: [ "cabine" ]
+tags: ['cabine']
 imdb: "3956754"
-stars: "4/5"
+date: "2015-04-19"
 categories: "movies"
 title: "A Vida Privada dos Hipopótamos"
-_title: "A vida privada dos hipopótamos"
-_year: "2014"
-_director: ["Maíra Bühler", "Matias Mariani", ]
-_writer: ["Maíra Bühler", "Matias Mariani", ]
-_countries: ["Brazil", ]
-_languages: ["English", ]
-_editor: ["Luisa Marques", ]
-_cinematographer: ["Pedro Eliezer", "Basil Shadid", ]
-_genres: ["Documentary", ]
-_runtimes: ["92", ]
-_ratio: "1.85 : 1"
-_kind: "movie"
+stars: "4/5"
+desc: "A Vida Privada dos Hipopótamos. A vida privada dos hipopótamos (Brazil, 2014). Dirigido por Maíra Bühler, Matias Mariani. Escrito por Maíra Bühler, Matias Mariani."
 ---
 Esse é um filme difícil de determinar se é um documentário, um documentário ficcional, ou simplesmente um mockumentary sem piadas. Os diretores Maíra Bühler e Matias Mariani estavam interessados em realizar outro trabalho que explora a vida de presidiários detidos fora dos seus países de origem, mas encontraram a história de amor entre o americano Chris e a colombiana "V" e resolveram se fixar na mesma fixação que Chris nutriu pela garota pelos anos que viajava pela Colômbia, desde que se interessou em ver os hipopótamos que o traficante Pablo Escobar deixou incidentalmente em seu país como "legado" de seu império.
 

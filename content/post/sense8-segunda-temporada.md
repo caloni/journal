@@ -1,29 +1,11 @@
 ---
+tags: ['netflix', 'sense8', 'series']
+imdb: "2431438"
 date: "2017-07-01"
 categories: "blog"
 title: "Sense8 - Segunda Temporada"
-imdb: "2431438"
 stars: "4/5"
-tags: ['netflix', 'sense8', 'series']
-_title: "Sense8"
-_year: "2015"
-_director: ["Lana Wachowski", "Lilly Wachowski", "James McTeigue", "Tom Tykwer", "Dan Glass", ]
-_writer: ["J. Michael Straczynski", "Lana Wachowski", "Lilly Wachowski", ]
-_cast: ["Doona Bae (Sun Bak)", "Jamie Clayton (Nomi Marks)", "Tina Desai (Kala Dandekar)", "Tuppence Middleton (Riley Blue)", "Max Riemelt (Wolfgang Bogdanow)", "Miguel Ángel Silvestre (Lito Rodriguez)", "Brian J. Smith (Will Gorski)", "Freema Agyeman (Amanita Caplan)", "Daryl Hannah (Angelica Turing)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Joseph Jett Sally", "Joe Hobeck", "Fiona Colbeck", ]
-_cinematographer: ["John Toll", ]
-_music: ["Johnny Klimek", "Tom Tykwer", ]
-_artdirection: ["Nanci Noblett", "Stephan O. Gessler", "Thorsten Klein", "Dominic Hyman", "Peter Walpole", "Chris Cleek", "Damien Drew", "Eggert Ketilsson", "Tim Blake", ]
-_costume designer: ["Lindsay Pugh", "Polly Matthies", ]
-_genres: ["Drama", ]
-_runtimes: ["60", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU3OTQwOTY2Ml5BMl5BanBnXkFtZTgwMjIzMjYxMjI@.jpg"
-_ratio: "1.78 : 1"
-_kind: "tv series"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU3OTQwOTY2Ml5BMl5BanBnXkFtZTgwMjIzMjYxMjI@._V1._SX93_SY140_.jpg"
-_releasedate: "5 June 2015 (internet)"
+desc: "Sense8 - Segunda Temporada. Sense8 (USA, 2015). Dirigido por Lana Wachowski, Lilly Wachowski, James McTeigue, Tom Tykwer, Dan Glass. Escrito por J. Michael Straczynski, Lana Wachowski, Lilly Wachowski. Com Doona Bae (Sun Bak), Jamie Clayton (Nomi Marks), Tina Desai (Kala Dandekar), Tuppence Middleton (Riley Blue), Max Riemelt (Wolfgang Bogdanow), Miguel Ángel Silvestre (Lito Rodriguez), Brian J. Smith (Will Gorski), Freema Agyeman (Amanita Caplan), Daryl Hannah (Angelica Turing)."
 ---
 A segunda temporada de Sense8 é tudo o que estava sendo ensaiado na primeira, mas com muito mais intensidade, propriedade e coração. E conforme se aproximava do final foi ficando mais claro por que, mesmo com tanta qualidade narrativa e temática, ou justamente por causa dela, a série estava se despedindo por falta de fãs suficientes. As irmãs Wachowski sempre foram mestras em mesclar temas contemporâneos e filosóficos (Matrix), além de sempre deixar claro que, embora idealizadoras de blockbusters, estão sempre experimentando formas ousadas de contar uma história (Speed Racer), e mesmo quando as coisas não dão muito certo (O Destino de Júpiter) o resultado se mostra pelo menos digno de provocação. E acredito que toda essa gana de estar à frente de seu tempo acaba sendo um tiro pela culatra quando a popularidade é necessária. Sense 8 deixará saudades, mas apenas para um público seleto que entendeu a mensagem por trás das suas provocações contemporâneas.
 

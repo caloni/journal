@@ -1,25 +1,10 @@
 ---
-date: "2012-11-07"
 imdb: "0431021"
+date: "2012-11-07"
+categories: "movies"
 title: "Possessão"
 stars: "3/5"
-categories: "movies"
-_title: "The Possession"
-_year: "2012"
-_director: ["Ole Bornedal", ]
-_writer: ["Juliet Snowden", "Stiles White", "Leslie Gornstein", ]
-_cast: ["Jeffrey Dean Morgan", "Kyra Sedgwick", "Natasha Calis", "Madison Davenport", "Matisyahu", "Grant Show", "Rob LaBelle", "Nana Gbewonyo", "Anna Hagan", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Eric L. Beason", "Anders Villadsen", ]
-_cinematographer: ["Dan Laustsen", ]
-_music: ["Anton Sanko", ]
-_genres: ["Horror", ]
-_runtimes: ["92", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTc0NTcxMDU0MV5BMl5BanBnXkFtZTcwNTgwMzExOA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTc0NTcxMDU0MV5BMl5BanBnXkFtZTcwNTgwMzExOA@@._V1._SX94_SY140_.jpg"
+desc: "Possessão. The Possession (USA, 2012). Dirigido por Ole Bornedal. Escrito por Juliet Snowden, Stiles White, Leslie Gornstein. Com Jeffrey Dean Morgan, Kyra Sedgwick, Natasha Calis, Madison Davenport, Matisyahu, Grant Show, Rob LaBelle, Nana Gbewonyo, Anna Hagan."
 ---
 Houve um tempo em que os filmes de terror da década de 90/2000 quase sempre eram sinônimo de sustos fáceis e trilha sonora capenga e repetitiva. Exceto pelo fenômeno Bruxa de Blair e a "importação" dos terrores asiáticos, nada se fez de muito diferente na América que não lembrasse o clássico supremo de terror: O Exorcista. De fato, uma corrente não tão recente também despeja suas diversas adaptações de histórias  O Exorcismo de Emily Rose, O Último Exorcismo  muitas vezes inspiradas em "fatos", mas que nunca conseguiram entender a capacidade do terror psicológico do trabalho de William Friedkin.
 

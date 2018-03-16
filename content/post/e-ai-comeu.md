@@ -1,21 +1,10 @@
 ---
-date: "2012-06-25"
-title: "E Aí... Comeu?"
 imdb: "2209400"
-stars: "3/5"
+date: "2012-06-25"
 categories: "movies"
-_title: "E Aí... Comeu?"
-_year: "2012"
-_director: ["Felipe Joffily", ]
-_writer: ["Marcelo Rubens Paiva", "Marcelo Rubens Paiva", "Lusa Silvestre", ]
-_cast: ["Bruno Mazzeo", "Marcos Palmeira", "Emílio Orciollo Netto", "Dira Paes", "Juliana Schalch", "Laura Neiva", "Seu Jorge", "Tainá Müller", "Murilo Benício", ]
-_countries: ["Brazil", ]
-_languages: ["Portuguese", ]
-_cinematographer: ["Marcelo Brasil", ]
-_music: ["Plínio Profeta", ]
-_genres: ["Comedy", ]
-_runtimes: ["104", ]
-_kind: "movie"
+title: "E Aí... Comeu?"
+stars: "3/5"
+desc: "E Aí... Comeu?. E Aí... Comeu? (Brazil, 2012). Dirigido por Felipe Joffily. Escrito por Marcelo Rubens Paiva, Marcelo Rubens Paiva, Lusa Silvestre. Com Bruno Mazzeo, Marcos Palmeira, Emílio Orciollo Netto, Dira Paes, Juliana Schalch, Laura Neiva, Seu Jorge, Tainá Müller, Murilo Benício."
 ---
 Esse é o simpático terceiro filme de Felipe Joffily (Muita Calma Nessa Hora) que explora a opinião dos homens sobre o universo feminino. Nunca nos permitindo entender "o outro lado da história", participamos na maioria das vezes dos diálogos de Fernando (Bruno Mazzeo), Honório (Marcos Palmeira) e Fonsinho (Emilio Orciollo Neto) como se estivéssemos sentados juntos com ele na mesa de bar, servidos sempre por uma deliciosa gelada pelo garçom mais comedor (ou falador) do universo: Seu Jorge (Seu Jorge).
 

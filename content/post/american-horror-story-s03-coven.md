@@ -1,26 +1,11 @@
 ---
-date: "2014-06-20"
+tags: ['ahs', 'series']
 imdb: "1844624"
+date: 2015-11-28
+categories: "blog"
 title: "História de Horror Americana - Coven"
 stars: "3/5"
-categories: "blog"
-date: 2015-11-28
-tags: ['ahs', 'series']
-_title: "American Horror Story"
-_year: "2011"
-_director: ["Alfonso Gomez-Rejon", "Bradley Buecker", "Michael Uppendahl", "Michael Lehmann", "David Semel", "Howard Deutch", "Ryan Murphy", "Jeremy Podeswa", "Michael Rymer", ]
-_writer: ["Brad Falchuk", "Ryan Murphy", "Jennifer Salt", "Jessica Sharzer", "Tim Minear", "James Wong", "Crystal Liu", "John J. Gray", "Todd Kubrak", ]
-_cast: ["Evan Peters", "Jessica Lange", "Sarah Paulson", "Frances Conroy", "Denis O'Hare", "Lily Rabe", "Emma Roberts", "Kathy Bates", "Taissa Farmiga", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Fabienne Bouville", "Adam Penn", "Stewart Schill", "Bradley Buecker", "Regis Kimble", "Robert Komatsu", ]
-_cinematographer: ["Michael Goi", "John B. Aronson", "Tom Houghton", ]
-_music: ["James S. Levine", "Mac Quayle", ]
-_genres: ["Drama", ]
-_runtimes: ["USA:60::(with commercials)", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjA1MzAwNjYzMl5BMl5BanBnXkFtZTgwMDg1ODU3MjE@.jpg"
-_kind: "tv series"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjA1MzAwNjYzMl5BMl5BanBnXkFtZTgwMDg1ODU3MjE@._V1._SX93_SY140_.jpg"
+desc: "História de Horror Americana - Coven. American Horror Story (USA, 2011). Dirigido por Alfonso Gomez-Rejon, Bradley Buecker, Michael Uppendahl, Michael Lehmann, David Semel, Howard Deutch, Ryan Murphy, Jeremy Podeswa, Michael Rymer. Escrito por Brad Falchuk, Ryan Murphy, Jennifer Salt, Jessica Sharzer, Tim Minear, James Wong, Crystal Liu, John J. Gray, Todd Kubrak. Com Evan Peters, Jessica Lange, Sarah Paulson, Frances Conroy, Denis O'Hare, Lily Rabe, Emma Roberts, Kathy Bates, Taissa Farmiga."
 ---
 Já havia falado que American Horror Story consegue impressionar pelos seus quesitos técnicos, a criação de seus personagens e seu aspecto gore que consegue preencher tudo que conhecemos de terror Hoolywoodiano (incluindo o subgênero trash). Porém, uma coisa que a série definitivamente não consegue é criar e consolidar histórias que sejam mais do que um passatempo conhecido como novela. Não há profundidade dramática em AHS, apenas a profundidade de seus objetos cortantes na carne humana.
 

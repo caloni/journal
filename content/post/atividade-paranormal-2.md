@@ -1,24 +1,10 @@
 ---
-date: "2010-11-07"
 imdb: "1536044"
+date: "2010-11-07"
+categories: "movies"
 title: "Atividade Paranormal 2"
 stars: "3/5"
-categories: "movies"
-_title: "Paranormal Activity 2"
-_year: "2010"
-_director: ["Tod Williams", ]
-_writer: ["Michael R. Perry", "Christopher Landon", "Tom Pabst", "Michael R. Perry", "Oren Peli", ]
-_cast: ["David Bierend", "Brian Boland", "Molly Ephraim", "Katie Featherston", "Seth Ginsberg", "Sprague Grayden", "William Juan Prieto", "Jackson Xenia Prieto", "Micah Sloat", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Gregory Plotkin", ]
-_cinematographer: ["Michael Simmonds", ]
-_genres: ["Horror", ]
-_runtimes: ["91", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjE4NDgwMzAxNF5BMl5BanBnXkFtZTcwNTE3OTk4Mw@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjE4NDgwMzAxNF5BMl5BanBnXkFtZTcwNTE3OTk4Mw@@._V1._SX95_SY140_.jpg"
+desc: "Atividade Paranormal 2. Paranormal Activity 2 (USA, 2010). Dirigido por Tod Williams. Escrito por Michael R. Perry, Christopher Landon, Tom Pabst, Michael R. Perry, Oren Peli. Com David Bierend, Brian Boland, Molly Ephraim, Katie Featherston, Seth Ginsberg, Sprague Grayden, William Juan Prieto, Jackson Xenia Prieto, Micah Sloat."
 ---
 Assim como o primeiro filme, essa continuação tenta passar a impressão documental através de uma mensagem da produtora agradecendo os envolvidos pelas cenas que veremos a seguir. Apesar desse aviso deixar sua devida pulga na orelha, não é uma solução que por si só baste, dependendo principalmente da competência da narrativa em introduzir a sensação de que o que estamos vendo são filmagens realizadas de forma caseira e que relatam acontecimentos verdadeiramente inexplicáveis.
 

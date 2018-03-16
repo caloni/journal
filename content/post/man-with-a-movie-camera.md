@@ -1,24 +1,10 @@
 ---
-date: "2015-09-21"
 imdb: "0019760"
-stars: "5/5"
+date: "2015-09-21"
 categories: "movies"
 title: "Um Homem com uma Câmera"
-_title: "Chelovek s kino-apparatom"
-_year: "1929"
-_director: ["Dziga Vertov", ]
-_writer: ["Dziga Vertov", ]
-_cast: ["Mikhail Kaufman", ]
-_countries: ["Soviet Union", ]
-_editor: ["Dziga Vertov", ]
-_cinematographer: ["Mikhail Kaufman", "Gleb Troyanski", ]
-_music: ["Pierre Henry", "Nigel Humberstone", "Konstantin Listov", "Michael Nyman", ]
-_genres: ["Documentary", ]
-_runtimes: ["68", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQ5NDU2MzcyN15BMl5BanBnXkFtZTgwNjIyODg5MTE@._V1._CR31.883331298828125,33.53334045410156,1054,1587.1500091552734._SX93_SY140_.jpg"
-_ratio: "1.33 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQ5NDU2MzcyN15BMl5BanBnXkFtZTgwNjIyODg5MTE@._V1._CR31.883331298828125,33.53334045410156,1054,1587.1500091552734._SX93_SY140_.jpg"
+stars: "5/5"
+desc: "Um Homem com uma Câmera. Chelovek s kino-apparatom (Soviet Union, 1929). Dirigido por Dziga Vertov. Escrito por Dziga Vertov. Com Mikhail Kaufman."
 ---
 Man With a Movie Camera, ou "Chelovek S Kino-apparatom", provavelmente é o filme experimental mais conhecido pelos cinéfilos, talvez por ter sido recomendado e elogiado por críticos do mundo todo.
 

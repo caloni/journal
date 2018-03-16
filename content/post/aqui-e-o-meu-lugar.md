@@ -1,25 +1,10 @@
 ---
-date: "2013-10-20"
 imdb: "1440345"
+date: "2013-10-20"
+categories: "movies"
 title: "Aqui é o Meu Lugar"
 stars: "3/5"
-categories: "movies"
-_title: "This Must Be the Place"
-_year: "2011"
-_director: ["Paolo Sorrentino", ]
-_writer: ["Paolo Sorrentino", "Umberto Contarello", "Paolo Sorrentino", ]
-_cast: ["Sean Penn", "Olwen Fouere", "Judd Hirsch", "Eve Hewson", "Kerry Condon", "Joyce Van Patten", "David Byrne", "Shea Whigham", "Liron Levo", ]
-_countries: ["Italy", ]
-_languages: ["English", ]
-_editor: ["Cristiano Travaglioli", ]
-_cinematographer: ["Luca Bigazzi", ]
-_music: ["David Byrne", "Will Oldham", ]
-_genres: ["Comedy", ]
-_runtimes: ["118", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTUzMDg5NjM3Nl5BMl5BanBnXkFtZTcwOTQ3NTI2OA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTUzMDg5NjM3Nl5BMl5BanBnXkFtZTcwOTQ3NTI2OA@@._V1._SX94_SY140_.jpg"
+desc: "Aqui é o Meu Lugar. This Must Be the Place (Italy, 2011). Dirigido por Paolo Sorrentino. Escrito por Paolo Sorrentino, Umberto Contarello, Paolo Sorrentino. Com Sean Penn, Olwen Fouere, Judd Hirsch, Eve Hewson, Kerry Condon, Joyce Van Patten, David Byrne, Shea Whigham, Liron Levo."
 ---
 Sean Penn é um excelente ator, diga-se de passagem. Mas nesse trabalho em que ele coloca uma peruca (que insiste em assoprar) e fala como se fosse desmaiar a qualquer momento é daqueles típicos casos de vergonha alheia.
 

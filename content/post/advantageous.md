@@ -1,26 +1,10 @@
 ---
-date: "2015-09-20"
 imdb: "3090670"
-stars: "2/5"
+date: "2015-09-20"
 categories: "movies"
 title: "Advantageous"
-_title: "Advantageous"
-_year: "2015"
-_director: ["Jennifer Phang", ]
-_writer: ["Jacqueline Kim", "Jennifer Phang", ]
-_cast: ["Jacqueline Kim", "James Urbaniak", "Freya Adams", "Ken Jeong", "Jennifer Ehle", "Samantha Kim", "Troi Zee", "Olivia Horton", "Jennifer Ikeda", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Sean Gillane", "Jennifer Phang", ]
-_cinematographer: ["Richard Wong", ]
-_music: ["Timo Chen", ]
-_artdirection: ["Joshua Petersen", ]
-_costume designer: ["Stacey Jordan", ]
-_genres: ["Drama", ]
-_runtimes: ["90", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjE2OTMzNjQxOV5BMl5BanBnXkFtZTgwMTM5MjE1NjE@.jpg"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjE2OTMzNjQxOV5BMl5BanBnXkFtZTgwMTM5MjE1NjE@._V1._SX95_SY140_.jpg"
+stars: "2/5"
+desc: "Advantageous. Advantageous (USA, 2015). Dirigido por Jennifer Phang. Escrito por Jacqueline Kim, Jennifer Phang. Com Jacqueline Kim, James Urbaniak, Freya Adams, Ken Jeong, Jennifer Ehle, Samantha Kim, Troi Zee, Olivia Horton, Jennifer Ikeda."
 ---
 Este filme possui um conceito interessante com pouco substrato. São pessoas interagindo com uma pintura futurista ao fundo. Quando tudo termina, não há conflito, mas a concretização do que já se esperava no começo.
 

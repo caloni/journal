@@ -1,25 +1,10 @@
 ---
-date: "2012-03-13"
 imdb: "0780504"
+date: "2012-03-13"
+categories: "movies"
 title: "Drive"
 stars: "4/5"
-categories: "movies"
-_title: "Drive"
-_year: "2011"
-_director: ["Nicolas Winding Refn", ]
-_writer: ["Hossein Amini", "James Sallis", ]
-_cast: ["Ryan Gosling", "Carey Mulligan", "Bryan Cranston", "Albert Brooks", "Oscar Isaac", "Christina Hendricks", "Ron Perlman", "Kaden Leos", "Jeff Wolfe", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Matthew Newman", ]
-_cinematographer: ["Newton Thomas Sigel", ]
-_music: ["Cliff Martinez", ]
-_genres: ["Crime", ]
-_runtimes: ["100", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BOTM1ODQ0Nzc4NF5BMl5BanBnXkFtZTcwMTM0MjQyNg@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BOTM1ODQ0Nzc4NF5BMl5BanBnXkFtZTcwMTM0MjQyNg@@._V1._SX82_SY140_.jpg"
+desc: "Drive. Drive (USA, 2011). Dirigido por Nicolas Winding Refn. Escrito por Hossein Amini, James Sallis. Com Ryan Gosling, Carey Mulligan, Bryan Cranston, Albert Brooks, Oscar Isaac, Christina Hendricks, Ron Perlman, Kaden Leos, Jeff Wolfe."
 ---
 A filmagem no estilo homenagem aos anos 80 cativa e ao mesmo tempo cria uma atmosfera que aceitamos exatamente pelas inúmeras referências da época, como os créditos estilosos ou as frequentes mas elegantes transições em que o personagem de Ryan Gosling (Tudo pelo Poder ) aparece em um plano detalhe e se "esfumaça" para outra cena.
 

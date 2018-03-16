@@ -1,25 +1,10 @@
 ---
-date: "2013-03-06"
 imdb: "1606378"
+date: "2013-03-06"
+categories: "movies"
 title: "Duro de Matar Um Bom Dia para Morrer"
 stars: "2/5"
-categories: "movies"
-_title: "A Good Day to Die Hard"
-_year: "2013"
-_director: ["John Moore", ]
-_writer: ["Skip Woods", "Roderick Thorp", ]
-_cast: ["Bruce Willis", "Jai Courtney", "Sebastian Koch", "Mary Elizabeth Winstead", "Yuliya Snigir", "Radivoje Bukvic", "Cole Hauser", "Amaury Nolasco", "Sergey Kolesnikov", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Dan Zimmerman", ]
-_cinematographer: ["Jonathan Sela", ]
-_music: ["Marco Beltrami", ]
-_genres: ["Action", ]
-_runtimes: ["98", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTcwNzgyNzUzOV5BMl5BanBnXkFtZTcwMzAwOTA5OA@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTcwNzgyNzUzOV5BMl5BanBnXkFtZTcwMzAwOTA5OA@@._V1._SX94_SY140_.jpg"
+desc: "Duro de Matar Um Bom Dia para Morrer. A Good Day to Die Hard (USA, 2013). Dirigido por John Moore. Escrito por Skip Woods, Roderick Thorp. Com Bruce Willis, Jai Courtney, Sebastian Koch, Mary Elizabeth Winstead, Yuliya Snigir, Radivoje Bukvic, Cole Hauser, Amaury Nolasco, Sergey Kolesnikov."
 ---
 Digirido pelo medíocre John Moore (Max Payne) e escrito pelo problemático Skip Woods (X-Men Origens: Wolwerine), o novo filme da série Die Hard parece uma mistura de estilos que mais confunde do que inova. Há a trilha de espionagem claramente inspirada em 007 e Missão Impossível. Há os cortes, movimentos de câmera e zooms frenéticos da série Identidade Bourne. Há, sim, perseguições e explosões dignas da série original, mas que não desempenham qualquer função em uma história sem reviravoltas (foras as mais patéticas) e sem tensão (ou alguém duvida em algum momento que a dupla principal não vai se safar dos bandidos histéricos?).
 

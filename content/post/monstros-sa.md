@@ -1,24 +1,10 @@
 ---
-date: "2012-02-20"
 imdb: "0198781"
+date: "2012-02-20"
+categories: "movies"
 title: "Monstros S/A"
 stars: "4/5"
-categories: "movies"
-_title: "Monsters, Inc."
-_year: "2001"
-_director: ["Pete Docter", "David Silverman", "Lee Unkrich", ]
-_writer: ["Pete Docter", "Jill Culton", "Jeff Pidgeon", "Ralph Eggleston", "Andrew Stanton", "Daniel Gerson", "Robert L. Baird", "Rhett Reese", "Jonathan Roberts", ]
-_cast: ["John Goodman", "Billy Crystal", "Mary Gibbs", "Steve Buscemi", "James Coburn", "Jennifer Tilly", "Bob Peterson", "John Ratzenberger", "Frank Oz", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Robert Grahamjones", "Jim Stewart", ]
-_music: ["Randy Newman", ]
-_genres: ["Animation", ]
-_runtimes: ["92", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._V1._SX94_SY140_.jpg"
+desc: "Monstros S/A. Monsters, Inc. (USA, 2001). Dirigido por Pete Docter, David Silverman, Lee Unkrich. Escrito por Pete Docter, Jill Culton, Jeff Pidgeon, Ralph Eggleston, Andrew Stanton, Daniel Gerson, Robert L. Baird, Rhett Reese, Jonathan Roberts. Com John Goodman, Billy Crystal, Mary Gibbs, Steve Buscemi, James Coburn, Jennifer Tilly, Bob Peterson, John Ratzenberger, Frank Oz."
 ---
 Interessante notar como a Pixar em seus primeiros filmes costumava inserir brincadeiras que, de certa forma, acusavam o espírito jovem e experimentador daqueles tempos. Mais impressionante, porém, é perceber como esse deve ter sido a semente para o amadurecimento da técnica antes de filmarem jovens clássicos como Os Incríveis, Wall-E, Ratatouille e Up!.
 

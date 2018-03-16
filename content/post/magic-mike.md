@@ -1,24 +1,10 @@
 ---
-date: "2015-02-15"
 imdb: "1915581"
+date: "2015-02-15"
+categories: "movies"
 title: "Magic Mike"
 stars: "5/5"
-categories: "movies"
-_title: "Magic Mike"
-_year: "2012"
-_director: ["Steven Soderbergh", ]
-_writer: ["Reid Carolin", ]
-_cast: ["Matthew McConaughey", "Channing Tatum", "Olivia Munn", "Alex Pettyfer", "James Martin Kelly", "Cody Horn", "Reid Carolin", "Avery Camp", "George A. Sack", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Steven Soderbergh", ]
-_cinematographer: ["Steven Soderbergh", ]
-_genres: ["Comedy", ]
-_runtimes: ["110", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQzMDMzOTA5M15BMl5BanBnXkFtZTcwMjc4MTg4Nw@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQzMDMzOTA5M15BMl5BanBnXkFtZTcwMjc4MTg4Nw@@._V1._SX94_SY140_.jpg"
+desc: "Magic Mike. Magic Mike (USA, 2012). Dirigido por Steven Soderbergh. Escrito por Reid Carolin. Com Matthew McConaughey, Channing Tatum, Olivia Munn, Alex Pettyfer, James Martin Kelly, Cody Horn, Reid Carolin, Avery Camp, George A. Sack."
 ---
 Os dias parecem meio pálidos, a noite um pouco mais brilhante. Não me cansei em nenhum momento de admirar o fascinante trabalho fotográfico de Steven Soderbergh, que altera a realidade à nossa volta com o propósito de mostrar o ponto de vista desses garotos que trabalham à noite em uma boate de strippers. Soderbergh obviamente também assina a direção (Traffic, Onze Homens e Um Segredo, Conduta de Risco) e a edição. Ele pega o roteiro do produtor Reid Carolin e adentra nesse mundo noturno em uma imersão profunda e inspiradora a respeito, curiosamente, de negócios. Meio uma mistura de Showgirls (Paul Verhoeven, 1995) com A Firma (Sydney Pollack, 1993), o showbusiness é visto de uma forma cínica. É quase uma crítica velada ao capitalismo selvagem que tudo compra ("escolas não servem para nada, vou colocar meu filho para assistir Mad Money todos os dias e ele vai ganhar rios de dinheiro").
 

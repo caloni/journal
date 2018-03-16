@@ -1,27 +1,11 @@
 ---
-imdb: "0877057"
-stars: "3/5"
 tags: ['netflix']
+imdb: "0877057"
 date: 2017-09-18T21:47:41
-title: "Death Note: Notas da Morte"
 categories: "series"
-_title: "Death Note: Desu nôto"
-_year: "2006"
-_director: ["Tetsurô Araki", "Tomohiko Itô", "Hiroyuki Tsuchiya", "Mitsuhiro Yoneda", "Eiko Nishi", "Makoto Bessho", "Shinji Nagamura", "Oyunamu", "Naoyasu Habu", ]
-_writer: ["Takeshi Obata", "Tsugumi Ôba", "Toshiki Inoue", "Shôji Yonemura", "Yasuko Kobayashi", ]
-_cast: ["Mamoru Miyano (Light Yagami)", "Brad Swaile (Light Yagami)", "Vincent Tong (Touta Matsuda / ...)", "Ryô Naitô (Touta Matsuda / ...)", "Trevor Devall (Shuichi Aizawa / ...)", "Brian Drummond (Ryuk / ...)", "Naoya Uchida (Soichiro Yagami)", "Chris Britton (Soichiro Yagami)", "Keiji Fujiwara (Shuichi Aizawa / ...)", ]
-_countries: ["Japan", ]
-_languages: ["Japanese", ]
-_editor: ["Aya Hida", ]
-_cinematographer: ["Kazuhiro Yamada", ]
-_music: ["Yoshihisa Hirano", "Hideki Taniuchi", ]
-_artdirection: ["Mio Isshiki", ]
-_genres: ["Animation", ]
-_runtimes: ["24", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BODkzMjhjYTQtYmQyOS00NmZlLTg3Y2UtYjkzN2JkNmRjY2FhXkEyXkFqcGdeQXVyNTM4MDQ5MDc@.jpg"
-_ratio: "1.78 : 1"
-_kind: "tv series"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BODkzMjhjYTQtYmQyOS00NmZlLTg3Y2UtYjkzN2JkNmRjY2FhXkEyXkFqcGdeQXVyNTM4MDQ5MDc@._V1._SX97_SY140_.jpg"
+title: "Death Note: Notas da Morte"
+stars: "3/5"
+desc: "Death Note: Notas da Morte. Death Note: Desu nôto (Japan, 2006). Dirigido por Tetsurô Araki, Tomohiko Itô, Hiroyuki Tsuchiya, Mitsuhiro Yoneda, Eiko Nishi, Makoto Bessho, Shinji Nagamura, Oyunamu, Naoyasu Habu. Escrito por Takeshi Obata, Tsugumi Ôba, Toshiki Inoue, Shôji Yonemura, Yasuko Kobayashi. Com Mamoru Miyano (Light Yagami), Brad Swaile (Light Yagami), Vincent Tong (Touta Matsuda / ...), Ryô Naitô (Touta Matsuda / ...), Trevor Devall (Shuichi Aizawa / ...), Brian Drummond (Ryuk / ...), Naoya Uchida (Soichiro Yagami), Chris Britton (Soichiro Yagami), Keiji Fujiwara (Shuichi Aizawa / ...)."
 ---
 Esta série japonesa se estende por mais tempo do que devia e não entende todo o seu potencial narrativo. Esta é uma história que possui altos e baixos em torno de uma ideia poderosa, e arrisco dizer que seus altos superam seus baixos. Mas sua conclusão é clichê, comercial demais para sentir-se o peso do que estava sendo discutido.
 

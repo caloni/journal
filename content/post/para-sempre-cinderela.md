@@ -1,28 +1,11 @@
 ---
+tags: ['dublado']
+imdb: "0120631"
 date: "2016-11-17"
 categories: "movies"
 title: "Para Sempre Cinderela"
-imdb: "0120631"
 stars: "4/5"
-tags: ['dublado']
-_title: "EverAfter"
-_year: "1998"
-_director: ["Andy Tennant", ]
-_writer: ["Susannah Grant", "Andy Tennant", "Rick Parks", "Charles Perrault", ]
-_cast: ["Drew Barrymore (Danielle)", "Anjelica Huston (Rodmilla)", "Dougray Scott (Prince Henry)", "Patrick Godfrey (Leonardo)", "Megan Dodds (Marguerite)", "Melanie Lynskey (Jacqueline)", "Timothy West (King Francis)", "Judy Parfitt (Queen Marie)", "Jeroen Krabbé (Auguste)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Roger Bondelli", ]
-_cinematographer: ["Andrew Dunn", ]
-_music: ["George Fenton", ]
-_artdirection: ["David Allday", "Stephen Dobric", "Martyn John", "Damien Lanfranchi", ]
-_costume designer: ["Jenny Beavan", ]
-_genres: ["Comedy", ]
-_runtimes: ["121", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BN2FhYTY5ODItOGU4OC00MTkyLTlmYTMtYjIxN2Y4MmVlMDVhXkEyXkFqcGdeQXVyMTQxNzMzNDI@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BN2FhYTY5ODItOGU4OC00MTkyLTlmYTMtYjIxN2Y4MmVlMDVhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1._SX95_SY140_.jpg"
+desc: "Para Sempre Cinderela. EverAfter (USA, 1998). Dirigido por Andy Tennant. Escrito por Susannah Grant, Andy Tennant, Rick Parks, Charles Perrault. Com Drew Barrymore (Danielle), Anjelica Huston (Rodmilla), Dougray Scott (Prince Henry), Patrick Godfrey (Leonardo), Megan Dodds (Marguerite), Melanie Lynskey (Jacqueline), Timothy West (King Francis), Judy Parfitt (Queen Marie), Jeroen Krabbé (Auguste)."
 ---
 Esta revisita nos anos 90 ao conto dos irmãos Grimm usa os próprios documentaristas dessa fábula folclórica para dar um laço mais realista à história imortalizada por Disney. Usa atores competentes em situações interessantes -- o que Morgana faz como a madrasta? -- e ao mesmo tempo decide formatar seu núcleo em um romance convencional, de época e água com açúcar. Mas, ainda assim, apaixonante.
 

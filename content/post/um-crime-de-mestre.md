@@ -1,25 +1,10 @@
 ---
-date: "2013-04-21"
 imdb: "0488120"
+date: "2013-04-21"
+categories: "movies"
 title: "Um Crime de Mestre"
 stars: "4/5"
-categories: "movies"
-_title: "Fracture"
-_year: "2007"
-_director: ["Gregory Hoblit", ]
-_writer: ["Daniel Pyne", "Glenn Gers", "Daniel Pyne", ]
-_cast: ["Anthony Hopkins", "Ryan Gosling", "David Strathairn", "Rosamund Pike", "Embeth Davidtz", "Billy Burke", "Cliff Curtis", "Fiona Shaw", "Bob Gunton", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["David Rosenbloom", ]
-_cinematographer: ["Kramer Morgenthau", ]
-_music: ["Jeff Danna", "Mychael Danna", ]
-_genres: ["Crime", ]
-_runtimes: ["113", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMzIzNjQyMzkwM15BMl5BanBnXkFtZTcwOTg5ODQ0MQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMzIzNjQyMzkwM15BMl5BanBnXkFtZTcwOTg5ODQ0MQ@@._V1._SX94_SY140_.jpg"
+desc: "Um Crime de Mestre. Fracture (USA, 2007). Dirigido por Gregory Hoblit. Escrito por Daniel Pyne, Glenn Gers, Daniel Pyne. Com Anthony Hopkins, Ryan Gosling, David Strathairn, Rosamund Pike, Embeth Davidtz, Billy Burke, Cliff Curtis, Fiona Shaw, Bob Gunton."
 ---
 Um Crime de Mestre utiliza seus dois atores principais da melhor maneira. Anthony Hopkins, relembrado pelo título original (Fracture) que remete à mesma brincadeira metafórica do jovem clássico Silêncio dos Inocentes (Silence of the "Lambs"), estabelece um personagem frio e calculista que parece estar sempre se divertindo com seus jogos mentais e é alheio à realidade à sua volta, e ainda que cometa um crime passional logo no início o faz de forma hedionda e determinística. Já Ryan Gosling, que hoje possui em seu currículo o controverso motorista de Drive, é um advogado que se relaciona com as pessoas, mas assim como Hopkins, olha o mundo sempre do ponto de vista como ele pode servi-lo.
 

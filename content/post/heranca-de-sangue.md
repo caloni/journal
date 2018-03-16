@@ -1,28 +1,11 @@
 ---
+tags: ['cabine']
+imdb: "3647498"
 date: "2016-09-04"
 categories: "movies"
 title: "Herança de Sangue"
-imdb: "3647498"
 stars: "4/5"
-tags: ['cabine']
-_title: "Blood Father"
-_year: "2016"
-_director: ["Jean-François Richet", ]
-_writer: ["Peter Craig", "Andrea Berloff", "Peter Craig", ]
-_cast: ["Mel Gibson", "Erin Moriarty", "Diego Luna", "Michael Parks", "William H. Macy", "Miguel Sandoval", "Dale Dickey", "Richard Cabral", "Daniel Moncada", ]
-_countries: ["France", ]
-_languages: ["English", ]
-_editor: ["Steven Rosenblum", ]
-_cinematographer: ["Robert Gantz", ]
-_music: ["Sven Faulconer", ]
-_artdirection: ["Billy W. Ray", ]
-_costume designer: ["Terry Anderson", "Lisa Norcia", ]
-_genres: ["Action", ]
-_runtimes: ["88", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTk3MzU4ODk1Ml5BMl5BanBnXkFtZTgwNzc5MzE2OTE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTk3MzU4ODk1Ml5BMl5BanBnXkFtZTgwNzc5MzE2OTE@._V1._SX94_SY140_.jpg"
+desc: "Herança de Sangue. Blood Father (France, 2016). Dirigido por Jean-François Richet. Escrito por Peter Craig, Andrea Berloff, Peter Craig. Com Mel Gibson, Erin Moriarty, Diego Luna, Michael Parks, William H. Macy, Miguel Sandoval, Dale Dickey, Richard Cabral, Daniel Moncada."
 ---
 Mel Gibson parece ser uma espécie de persona que foi se construindo aos trancos e barrancos através de seus heróis no Cinema e vilões na vida real. O duro na queda Máquina Mortífera e o mártir de Coração Valente encontram o homem violento em suas relações domésticas com o idealizados com tendências anti-semitas, e dessa reunião de diferentes personalidades nasce uma adaptação de romance que tem a sua cara: se sacrificar pela próxima geração é um clichê de Gibson, mas seus trejeitos e referências é um clichê de sua vida real.
 

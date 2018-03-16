@@ -1,27 +1,10 @@
 ---
-date: "2015-11-23"
 imdb: "1964418"
-stars: "3/5"
+date: "2015-11-23"
 categories: "movies"
 title: "Tomorrowland: Um Lugar Onde Nada é Impossível"
-_title: "Tomorrowland"
-_year: "2015"
-_director: ["Brad Bird", ]
-_writer: ["Damon Lindelof", "Brad Bird", "Damon Lindelof", "Brad Bird", "Jeff Jensen", ]
-_cast: ["George Clooney", "Hugh Laurie", "Britt Robertson", "Raffey Cassidy", "Tim McGraw", "Kathryn Hahn", "Keegan-Michael Key", "Chris Bauer", "Thomas Robinson", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Walter Murch", "Craig Wood", ]
-_cinematographer: ["Claudio Miranda", ]
-_music: ["Michael Giacchino", ]
-_artdirection: ["Ramsey Avery", "Dídac Bono", "Todd Cherniawsky", "Steve Christensen", "Luke Freeborn", "Kelvin Humenny", "Martina Javorova", "Don Macaulay", "Jeremy Stanbridge", ]
-_costume designer: ["Jeffrey Kurland", ]
-_genres: ["Action", ]
-_runtimes: ["130", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQ0MDc5MjAyNF5BMl5BanBnXkFtZTgwMzU5Mzk1NjE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQ0MDc5MjAyNF5BMl5BanBnXkFtZTgwMzU5Mzk1NjE@._V1._SX95_SY140_.jpg"
+stars: "3/5"
+desc: "Tomorrowland: Um Lugar Onde Nada é Impossível. Tomorrowland (USA, 2015). Dirigido por Brad Bird. Escrito por Damon Lindelof, Brad Bird, Damon Lindelof, Brad Bird, Jeff Jensen. Com George Clooney, Hugh Laurie, Britt Robertson, Raffey Cassidy, Tim McGraw, Kathryn Hahn, Keegan-Michael Key, Chris Bauer, Thomas Robinson."
 ---
 Um "A Corrente do Bem" atualizado a nível tecnológico, inserido em uma aventura onde pessoas voam, coisas voam e a NASA é uma expansão da Disney. Ou seria o contrário?
 

@@ -1,21 +1,10 @@
 ---
-date: "2011-10-16"
-title: "Família Vende Tudo"
 imdb: "2006109"
-stars: "2/5"
+date: "2011-10-16"
 categories: "movies"
-_title: "Família Vende Tudo"
-_year: "2011"
-_director: ["Alain Fresnot", ]
-_writer: ["Alain Fresnot", "Alain Fresnot", "Marcus Aurelius Pimenta", "José Rubens Chasseraux", "Laerte Coutinho", "Sabina Anzuategui", ]
-_cast: ["Lima Duarte", "Vera Holtz", "Caco Ciocler", "Marisol Ribeiro", "Luana Piovani", "Imara Reis", "Juliana Galdino", "Ailton Graça", "Robson Nunes", ]
-_countries: ["Brazil", ]
-_languages: ["Portuguese", ]
-_cinematographer: ["José Roberto Eliezer", ]
-_music: ["Arrigo Barnabé", ]
-_genres: ["Comedy", ]
-_runtimes: ["90", ]
-_kind: "movie"
+title: "Família Vende Tudo"
+stars: "2/5"
+desc: "Família Vende Tudo. Família Vende Tudo (Brazil, 2011). Dirigido por Alain Fresnot. Escrito por Alain Fresnot, Alain Fresnot, Marcus Aurelius Pimenta, José Rubens Chasseraux, Laerte Coutinho, Sabina Anzuategui. Com Lima Duarte, Vera Holtz, Caco Ciocler, Marisol Ribeiro, Luana Piovani, Imara Reis, Juliana Galdino, Ailton Graça, Robson Nunes."
 ---
 É fato que Lima Duarte está no estado de gênio, e cada novela que participa é um desperdício do Cinema. Semelhantes comparações podem ser feitas em boa parte do elenco de Família Vende Tudo, novo longa de Alain Fresnot, que é muito afiada na interpretação de seus personagens, por mais que estes não façam sentido ou soem deslocados. E é aí que temos outro indício de desperdício, dessa vez no próprio Cinema: a capacidade de vender uma ideia divertida e fácil em uma história que sequer consegue chegar a uma conclusão sobre seu assunto central, e que desperdiça interpretações primorosas em um projeto sem pé nem cabeça.
 

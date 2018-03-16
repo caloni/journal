@@ -1,26 +1,11 @@
 ---
-date: "2010-12-20"
 imdb: "1149361"
-revision: [2012-06-04]
+date: "2010-12-20"
+categories: "movies"
 title: "Micmacs Um Plano Complicado"
 stars: "4/5"
-categories: "movies"
-_title: "Micmacs à tire-larigot"
-_year: "2009"
-_director: ["Jean-Pierre Jeunet", ]
-_writer: ["Jean-Pierre Jeunet", "Guillaume Laurant", "Guillaume Laurant", ]
-_cast: ["Dany Boon", "André Dussollier", "Yolande Moreau", "Dominique Pinon", "Marie-Julie Baup", "Michel Crémadès", "Nicolas Marié", "Julie Ferrier", "Omar Sy", ]
-_countries: ["France", ]
-_languages: ["French", ]
-_editor: ["Hervé Schneid", ]
-_cinematographer: ["Tetsuo Nagata", ]
-_music: ["Raphaël Beau", ]
-_genres: ["Action", ]
-_runtimes: ["105", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTgwOTc4OTk3NV5BMl5BanBnXkFtZTcwMzc0MjMzMw@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTgwOTc4OTk3NV5BMl5BanBnXkFtZTcwMzc0MjMzMw@@._V1._SX94_SY140_.jpg"
+revision: [datetime.date(2012, 6, 4)]
+desc: "Micmacs Um Plano Complicado. Micmacs à tire-larigot (France, 2009). Dirigido por Jean-Pierre Jeunet. Escrito por Jean-Pierre Jeunet, Guillaume Laurant, Guillaume Laurant. Com Dany Boon, André Dussollier, Yolande Moreau, Dominique Pinon, Marie-Julie Baup, Michel Crémadès, Nicolas Marié, Julie Ferrier, Omar Sy."
 ---
 A fotografia fabulosa de Amélie Poulain também cabe nessa fábula em que um homem, Bazil (Dany Boon), sofre uma dupla injúria em sua vida  a morte do seu pai por uma mina terrestre e uma bala em sua cabeça durante um tiroteio  e resolve se vingar de ambas com o mesmo plano.
 

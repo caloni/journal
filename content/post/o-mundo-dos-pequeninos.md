@@ -1,25 +1,10 @@
 ---
-date: "2012-12-06"
 imdb: "1568921"
+date: "2012-12-06"
+categories: "movies"
 title: "O Mundo dos Pequeninos"
 stars: "3/5"
-categories: "movies"
-_title: "Kari-gurashi no Arietti"
-_year: "2010"
-_director: ["Hiromasa Yonebayashi", ]
-_writer: ["Mary Norton", "Hayao Miyazaki", "Keiko Niwa", ]
-_cast: ["Moises Arias", "Bridgit Mendler", "David Henrie", "Will Arnett", "Carol Burnett", "Amy Poehler", "Shin'ichi Hatori", "Saoirse Ronan", "Tom Holland", ]
-_countries: ["Japan", ]
-_languages: ["Japanese", ]
-_editor: ["Rie Matsuhara", ]
-_cinematographer: ["Atsushi Okui", ]
-_music: ["Cécile Corbel", ]
-_genres: ["Animation", ]
-_runtimes: ["94", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTAxNjk3OTYyODReQTJeQWpwZ15BbWU3MDgyODY2OTY@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTAxNjk3OTYyODReQTJeQWpwZ15BbWU3MDgyODY2OTY@._V1._SX94_SY140_.jpg"
+desc: "O Mundo dos Pequeninos. Kari-gurashi no Arietti (Japan, 2010). Dirigido por Hiromasa Yonebayashi. Escrito por Mary Norton, Hayao Miyazaki, Keiko Niwa. Com Moises Arias, Bridgit Mendler, David Henrie, Will Arnett, Carol Burnett, Amy Poehler, Shin'ichi Hatori, Saoirse Ronan, Tom Holland."
 ---
 Não é nenhuma novidade a virtuosidade técnica do estúdio de animação Ghibli  do diretor Hayao Miyazaki  que, entre outros, já produziu pequenas obras-primas como A Viagem de Chihiro, O Castelo Animado e Princesa Mononoke (sem contar outros igualmente interessantes, como Meu Amigo Totoro, O Serviço de Entregas da Kiki e Ponyo - Uma Amizade que Veio do Mar). Nesse sentido não é nenhuma novidade descobrir nesse primeiro trabalho de direção de Hiromasa Yonebayashi as mesmas características técnicas que tornaram os filmes do estúdio comparáveis à fábrica de sonhos de Walt Disney.
 

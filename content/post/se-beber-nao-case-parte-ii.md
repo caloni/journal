@@ -1,27 +1,10 @@
 ---
-date: "2016-04-17"
 imdb: "1411697"
-stars: "3/5"
+date: "2016-04-17"
 categories: "movies"
 title: "Se Beber, Não Case! Parte II"
-_title: "The Hangover Part II"
-_year: "2011"
-_director: ["Todd Phillips", ]
-_writer: ["Craig Mazin", "Scot Armstrong", "Todd Phillips", "Jon Lucas", "Scott Moore", ]
-_cast: ["Bradley Cooper", "Ed Helms", "Zach Galifianakis", "Justin Bartha", "Ken Jeong", "Paul Giamatti", "Mike Tyson", "Jeffrey Tambor", "Mason Lee", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Debra Neil-Fisher", "Michael L. Sale", ]
-_cinematographer: ["Lawrence Sher", ]
-_music: ["Christophe Beck", ]
-_artdirection: ["Desma Murphy", "Philip Toolin", ]
-_costume designer: ["Louise Mingenbach", ]
-_genres: ["Comedy", ]
-_runtimes: ["102", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTM2MTM4MzY2OV5BMl5BanBnXkFtZTcwNjQ3NzI4NA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTM2MTM4MzY2OV5BMl5BanBnXkFtZTcwNjQ3NzI4NA@@._V1._SX95_SY140_.jpg"
+stars: "3/5"
+desc: "Se Beber, Não Case! Parte II. The Hangover Part II (USA, 2011). Dirigido por Todd Phillips. Escrito por Craig Mazin, Scot Armstrong, Todd Phillips, Jon Lucas, Scott Moore. Com Bradley Cooper, Ed Helms, Zach Galifianakis, Justin Bartha, Ken Jeong, Paul Giamatti, Mike Tyson, Jeffrey Tambor, Mason Lee."
 ---
 Como seria o original se ele não tivesse graça. Não seria uma novidade se a sequência de Todd Phillips repetisse a fórmula exata da ótima comédia que é o filme original, que é o que este Parte II faz do início ao fim. A novidade é que, mesmo juntando o elenco original, o curioso é que quase nada funciona, quase nada é engraçado e muito pouco é imprevisível.
 

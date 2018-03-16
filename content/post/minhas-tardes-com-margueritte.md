@@ -1,25 +1,10 @@
 ---
-date: "2015-03-29"
 imdb: "1455151"
-stars: "4/5"
+date: "2015-03-29"
 categories: "movies"
 title: "Minhas Tardes com Margueritte"
-_title: "La tête en friche"
-_year: "2010"
-_director: ["Jean Becker", ]
-_writer: ["Jean Becker", "Jean-Loup Dabadie", "Marie-Sabine Roger", ]
-_cast: ["Gérard Depardieu", "Gisèle Casadesus", "Maurane", "Patrick Bouchitey", "Jean-François Stévenin", "François-Xavier Demaison", "Claire Maurier", "Sophie Guillemin", "Mélanie Bernier", ]
-_countries: ["France", ]
-_languages: ["French", ]
-_editor: ["Jacques Witta", ]
-_cinematographer: ["Arthur Cloquet", ]
-_music: ["Laurent Voulzy", ]
-_genres: ["Comedy", ]
-_runtimes: ["France:82", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTM3OTEwMTU2N15BMl5BanBnXkFtZTcwNzg4MzAzNQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTM3OTEwMTU2N15BMl5BanBnXkFtZTcwNzg4MzAzNQ@@._V1._SX97_SY140_.jpg"
+stars: "4/5"
+desc: "Minhas Tardes com Margueritte. La tête en friche (France, 2010). Dirigido por Jean Becker. Escrito por Jean Becker, Jean-Loup Dabadie, Marie-Sabine Roger. Com Gérard Depardieu, Gisèle Casadesus, Maurane, Patrick Bouchitey, Jean-François Stévenin, François-Xavier Demaison, Claire Maurier, Sophie Guillemin, Mélanie Bernier."
 ---
 Esse é um filme doce e maniqueísta. Porém, seu maniqueísmo só se reflete nos personagens secundários, aqueles que são criados para criar tensão e colorir o universo de Germain Chazes, um faz-tudo que vive em um trailer. Todos zombam de Germain por ser ignorante, e sua ignorância é explicada através da diferentes flashbacks de sua infância onde ele é maltratado pelos professores e por sua própria mãe, que o considera um acidente. A relação entre os dois é a base para entendermos a dinâmica de sua nova amizade com Margueritte, uma senhora que se senta à tarde na praça da cidadezinha onde moram para observar os pombos e realizar uma atividade para ela prazerosa e para Germain uma verdadeira tortura: ler. Porém, à medida que ele aprende que ler é enxergar o mundo à sua volta através de símbolos cuja tradução lhe foi negada desde criança, Germain passa a se tornar o que chamamos de homem completo, o que é interessado em sua vida e busca seus próprios interesses. É capaz de se soltar das amarras nefastas da ignorância graças ao convívio com uma pessoa que, apesar de estar no fim da vida, ainda tem muito a oferecer a qualquer um que tiver a paciência de parar e ouvir.
 

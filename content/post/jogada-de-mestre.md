@@ -1,26 +1,11 @@
 ---
-date: "2015-04-30"
-tags: [ "cabine" ]
+tags: ['cabine']
 imdb: "2917388"
-stars: "3/5"
+date: "2015-04-30"
 categories: "movies"
 title: "Jogada de Mestre"
-_title: "Kidnapping Mr. Heineken"
-_year: "2015"
-_director: ["Daniel Alfredson", ]
-_writer: ["William Brookfield", "Peter R. de Vries", ]
-_cast: ["Jim Sturgess", "Sam Worthington", "Ryan Kwanten", "Anthony Hopkins", "Mark van Eeuwen", "Thomas Cocquerel", "Jemima West", "David Dencik", "Vera Van Dooren", ]
-_countries: ["Netherlands", ]
-_languages: ["English", ]
-_editor: ["Håkan Karlsson", ]
-_cinematographer: ["Fredrik Bäckar", ]
-_music: ["Lucas Vidal", ]
-_genres: ["Action", ]
-_runtimes: ["95", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTYyOTQwODc4NV5BMl5BanBnXkFtZTgwMDgwMzkxNDE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTYyOTQwODc4NV5BMl5BanBnXkFtZTgwMDgwMzkxNDE@._V1._SX95_SY140_.jpg"
+stars: "3/5"
+desc: "Jogada de Mestre. Kidnapping Mr. Heineken (Netherlands, 2015). Dirigido por Daniel Alfredson. Escrito por William Brookfield, Peter R. de Vries. Com Jim Sturgess, Sam Worthington, Ryan Kwanten, Anthony Hopkins, Mark van Eeuwen, Thomas Cocquerel, Jemima West, David Dencik, Vera Van Dooren."
 ---
 Mais um filmeco que é baseado em fatos reais, provavelmente patrocinado por uma fabricante de cervejas. Sim, porque o filme narra o sequestro do bilionário Alfred Heineken, tenta dar alguma áurea de gênio em sua persona (contratando para isso Anthony Hopkins) e é extremamente moralista em seu final.
 

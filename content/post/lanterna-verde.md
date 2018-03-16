@@ -1,25 +1,10 @@
 ---
-date: "2011-08-29"
 imdb: "1133985"
+date: "2011-08-29"
+categories: "movies"
 title: "Lanterna Verde"
 stars: "3/5"
-categories: "movies"
-_title: "Green Lantern"
-_year: "2011"
-_director: ["Martin Campbell", ]
-_writer: ["Greg Berlanti", "Michael Green", "Marc Guggenheim", "Michael Goldenberg", "Greg Berlanti", "Michael Green", "Marc Guggenheim", ]
-_cast: ["Ryan Reynolds", "Blake Lively", "Peter Sarsgaard", "Mark Strong", "Tim Robbins", "Jay O. Sanders", "Taika Waititi", "Angela Bassett", "Mike Doyle", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Stuart Baird", ]
-_cinematographer: ["Dion Beebe", ]
-_music: ["James Newton Howard", ]
-_genres: ["Action", ]
-_runtimes: ["114", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTMyMTg3OTM5Ml5BMl5BanBnXkFtZTcwNzczMjEyNQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTMyMTg3OTM5Ml5BMl5BanBnXkFtZTcwNzczMjEyNQ@@._V1._SX95_SY140_.jpg"
+desc: "Lanterna Verde. Green Lantern (USA, 2011). Dirigido por Martin Campbell. Escrito por Greg Berlanti, Michael Green, Marc Guggenheim, Michael Goldenberg, Greg Berlanti, Michael Green, Marc Guggenheim. Com Ryan Reynolds, Blake Lively, Peter Sarsgaard, Mark Strong, Tim Robbins, Jay O. Sanders, Taika Waititi, Angela Bassett, Mike Doyle."
 ---
 Cada vez mais começo a acreditar que o uso de muitos roteiristas (nesse temos incríveis 7 pessoas colaborando!) acaba por nivelar por baixo uma história até com um certo potencial. Nesse novo filme de super-herói, a impressão geral que fica é que, ao tentar explicar tudo detalhadamente, para não restar dúvidas aos espectadores, foi feito um filme cuja chatice é inversamente proporcional ao número de efeitos visuais.
 

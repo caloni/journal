@@ -1,25 +1,10 @@
 ---
-date: "2012-06-14"
 imdb: "0461770"
+date: "2012-06-14"
+categories: "movies"
 title: "Encantada"
 stars: "4/5"
-categories: "movies"
-_title: "Enchanted"
-_year: "2007"
-_director: ["Kevin Lima", ]
-_writer: ["Bill Kelly", ]
-_cast: ["Amy Adams", "Patrick Dempsey", "James Marsden", "Timothy Spall", "Idina Menzel", "Rachel Covey", "Susan Sarandon", "Julie Andrews", "Jeff Bennett", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Gregory Perler", "Stephen A. Rotter", ]
-_cinematographer: ["Don Burgess", ]
-_music: ["Alan Menken", ]
-_genres: ["Comedy", ]
-_runtimes: ["107", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjE4NDQ2Mjc0OF5BMl5BanBnXkFtZTcwNzQ2NDE1MQ@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjE4NDQ2Mjc0OF5BMl5BanBnXkFtZTcwNzQ2NDE1MQ@@._V1._SX95_SY140_.jpg"
+desc: "Encantada. Enchanted (USA, 2007). Dirigido por Kevin Lima. Escrito por Bill Kelly. Com Amy Adams, Patrick Dempsey, James Marsden, Timothy Spall, Idina Menzel, Rachel Covey, Susan Sarandon, Julie Andrews, Jeff Bennett."
 ---
 Encantada inicia com um desenho de conto de fadas genérico, cuja introdução apenas serve para nos habituarmos com aquele mundo e a sua dinâmica. A largura da tela diminui sutilmente e faz-se a transição para o mundo real, mais amplo, na própria visão da princesa Giselle.
 

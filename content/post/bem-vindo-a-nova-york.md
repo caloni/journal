@@ -1,23 +1,10 @@
 ---
-date: "2014-09-11"
 imdb: "2758890"
+date: "2014-09-11"
+categories: "movies"
 title: "Bem-Vindo a Nova York"
 stars: "4/5"
-categories: "movies"
-_title: "Welcome to New York"
-_year: "2014"
-_director: ["Abel Ferrara", ]
-_writer: ["Abel Ferrara", "Christ Zois", ]
-_cast: ["Jacqueline Bisset", "Gérard Depardieu", "Amy Ferguson", "Drena De Niro", "Paul Calderon", "Paul Hipp", "Maria Di Angelis", "Ronald Guttman", "Natasha Romanova", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Anthony Redman", ]
-_cinematographer: ["Ken Kelsch", ]
-_genres: ["Drama", ]
-_runtimes: ["125", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjA3Mzc0NjcxOF5BMl5BanBnXkFtZTgwMzIzMDQ5MTE@.jpg"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjA3Mzc0NjcxOF5BMl5BanBnXkFtZTgwMzIzMDQ5MTE@._V1._SX100_SY136_.jpg"
+desc: "Bem-Vindo a Nova York. Welcome to New York (USA, 2014). Dirigido por Abel Ferrara. Escrito por Abel Ferrara, Christ Zois. Com Jacqueline Bisset, Gérard Depardieu, Amy Ferguson, Drena De Niro, Paul Calderon, Paul Hipp, Maria Di Angelis, Ronald Guttman, Natasha Romanova."
 ---
 Devereaux, o personagem de Gérard Depardieu em mais um papel memorável, é um intelectual que está no topo da cadeia do mercado financeiro e que ainda é casado com uma esposa bilionária. Por onde passa espalha admiração. É um senhor fisicamente grande e desengonçado, mas educado e cordial. Fora isso é um pervertido sexual que simplesmente não consegue se controlar diante de uma mulher, e é isso que abala completamente as estruturas sociais de sua vida bem-sucedida.
 

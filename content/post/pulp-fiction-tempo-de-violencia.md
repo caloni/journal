@@ -1,24 +1,10 @@
 ---
-date: "2012-12-23"
 imdb: "0110912"
+date: "2012-12-23"
+categories: "movies"
 title: "Pulp Fiction Tempo de Violência"
 stars: "5/5"
-categories: "movies"
-_title: "Pulp Fiction"
-_year: "1994"
-_director: ["Quentin Tarantino", ]
-_writer: ["Quentin Tarantino", "Roger Avary", "Quentin Tarantino", ]
-_cast: ["Tim Roth", "Amanda Plummer", "Laura Lovelace", "John Travolta", "Samuel L. Jackson", "Phil LaMarr", "Frank Whaley", "Burr Steers", "Bruce Willis", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Sally Menke", ]
-_cinematographer: ["Andrzej Sekula", ]
-_genres: ["Crime", ]
-_runtimes: ["154", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjE0ODk2NjczOV5BMl5BanBnXkFtZTYwNDQ0NDg4.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjE0ODk2NjczOV5BMl5BanBnXkFtZTYwNDQ0NDg4._V1._SX98_SY140_.jpg"
+desc: "Pulp Fiction Tempo de Violência. Pulp Fiction (USA, 1994). Dirigido por Quentin Tarantino. Escrito por Quentin Tarantino, Roger Avary, Quentin Tarantino. Com Tim Roth, Amanda Plummer, Laura Lovelace, John Travolta, Samuel L. Jackson, Phil LaMarr, Frank Whaley, Burr Steers, Bruce Willis."
 ---
 Segundo trabalho de Quentin Tarantino (Cães de Aluguel, Kill Bill), Pulp Fiction é seu filme com o roteiro mais intenso, e talvez um dos melhores representantes do seu gênero no quesito introduzir perigosos criminosos em seu dia-a-dia.
 

@@ -1,26 +1,10 @@
 ---
-date: "2015-09-08"
 imdb: "3399024"
-stars: "4/5"
+date: "2015-09-08"
 categories: "movies"
 title: "Samba"
-_title: "Samba"
-_year: "2014"
-_director: ["Olivier Nakache", "Eric Toledano", ]
-_writer: ["Delphine Coulin", "Muriel Coulin", "Olivier Nakache", "Eric Toledano", ]
-_cast: ["Omar Sy", "Charlotte Gainsbourg", "Tahar Rahim", "Izïa Higelin", "Isaka Sawadogo", "Hélène Vincent", "Youngar Fall", "Christiane Millet", "Jacqueline Jehanneuf", ]
-_countries: ["France", ]
-_languages: ["French", ]
-_editor: ["Dorian Rigal-Ansous", ]
-_cinematographer: ["Stéphane Fontaine", ]
-_music: ["Ludovico Einaudi", ]
-_costume designer: ["Isabelle Pannetier", ]
-_genres: ["Comedy", ]
-_runtimes: ["118", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTUyNzIxOTgzMV5BMl5BanBnXkFtZTgwNTk5NTIwNjE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTUyNzIxOTgzMV5BMl5BanBnXkFtZTgwNTk5NTIwNjE@._V1._SX94_SY140_.jpg"
+stars: "4/5"
+desc: "Samba. Samba (France, 2014). Dirigido por Olivier Nakache, Eric Toledano. Escrito por Delphine Coulin, Muriel Coulin, Olivier Nakache, Eric Toledano. Com Omar Sy, Charlotte Gainsbourg, Tahar Rahim, Izïa Higelin, Isaka Sawadogo, Hélène Vincent, Youngar Fall, Christiane Millet, Jacqueline Jehanneuf."
 ---
 Filme que faz uma crítica (válida) ao sistema de imigração francês, mas ao mesmo tempo flerta com a mistura de culturas e experiências. Tenta abraçar o mundo com essa ideia, dá seus tropeços por causa disso, mas ainda mantém sua força dramática nos ombros da sempre competente atuação de Omar Sy (Intocáveis), que faz o papel de um trabalhador africano ilegalmente por 10 anos, e que mesmo assim é preso e condenado a sair do país (curioso a sentença não definir para onde, pois isso não importa para a justiça francesa).
 

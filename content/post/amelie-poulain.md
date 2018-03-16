@@ -1,25 +1,10 @@
 ---
-date: "2014-12-16"
 imdb: "0211915"
+date: "2014-12-16"
+categories: "movies"
 title: "O Fabuloso Destino de Amélie Poulain"
 stars: "5/5"
-categories: "movies"
-_title: "Le fabuleux destin d'Amélie Poulain"
-_year: "2001"
-_director: ["Jean-Pierre Jeunet", ]
-_writer: ["Guillaume Laurant", "Jean-Pierre Jeunet", "Guillaume Laurant", ]
-_cast: ["Audrey Tautou", "Mathieu Kassovitz", "Rufus", "Lorella Cravotta", "Serge Merlin", "Jamel Debbouze", "Clotilde Mollet", "Claire Maurier", "Isabelle Nanty", ]
-_countries: ["France", ]
-_languages: ["French", ]
-_editor: ["Hervé Schneid", ]
-_cinematographer: ["Bruno Delbonnel", ]
-_music: ["Yann Tiersen", ]
-_genres: ["Comedy", ]
-_runtimes: ["122", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTYzNjkxMTczOF5BMl5BanBnXkFtZTgwODg5NDc2MjE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTYzNjkxMTczOF5BMl5BanBnXkFtZTgwODg5NDc2MjE@._V1._SX95_SY140_.jpg"
+desc: "O Fabuloso Destino de Amélie Poulain. Le fabuleux destin d'Amélie Poulain (France, 2001). Dirigido por Jean-Pierre Jeunet. Escrito por Guillaume Laurant, Jean-Pierre Jeunet, Guillaume Laurant. Com Audrey Tautou, Mathieu Kassovitz, Rufus, Lorella Cravotta, Serge Merlin, Jamel Debbouze, Clotilde Mollet, Claire Maurier, Isabelle Nanty."
 ---
 Desde sua estreia oficial no Brasil assisti esse filme já três vezes no cinema (até agora). Curiosamente, em todas elas com a plateia lotada. Treze anos após sua estreia, em minha terceira vez, no interior da Argentina, ao final de uma péssima exibição, o filme foi aplaudido. É um filme fácil, para o grande público, e consequência disso foram suas cinco indicações ao Oscar (apesar de ser falado em francês): roteiro original, fotografia, direção de arte, som e, claro, filme estrangeiro (perdeu para o bósnio Terra de Ninguém).
 

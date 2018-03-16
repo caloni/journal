@@ -1,26 +1,10 @@
 ---
-date: "2015-10-16"
 imdb: "1424797"
-stars: "5/5"
+date: "2015-10-16"
 categories: "movies"
 title: "Eu Matei Minha Mãe"
-_title: "J'ai tué ma mère"
-_year: "2009"
-_director: ["Xavier Dolan", ]
-_writer: ["Xavier Dolan", "Xavier Dolan", ]
-_cast: ["Anne Dorval", "Xavier Dolan", "François Arnaud", "Suzanne Clément", "Patricia Tulasne", "Niels Schneider", "Monique Spaziani", "Pierre Chagnon", "Justin Caron", ]
-_countries: ["Canada", ]
-_languages: ["French", ]
-_editor: ["Hélène Girard", ]
-_cinematographer: ["Stéphanie Anne Weber Biron", ]
-_music: ["Nicholas Savard-L'Herbier", ]
-_costume designer: ["Xavier Dolan", "Nicole Pelletier", ]
-_genres: ["Drama", ]
-_runtimes: ["96", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTM2MDg0OTE5N15BMl5BanBnXkFtZTcwMDc1OTIxMw@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTM2MDg0OTE5N15BMl5BanBnXkFtZTcwMDc1OTIxMw@@._V1._SX99_SY140_.jpg"
+stars: "5/5"
+desc: "Eu Matei Minha Mãe. J'ai tué ma mère (Canada, 2009). Dirigido por Xavier Dolan. Escrito por Xavier Dolan, Xavier Dolan. Com Anne Dorval, Xavier Dolan, François Arnaud, Suzanne Clément, Patricia Tulasne, Niels Schneider, Monique Spaziani, Pierre Chagnon, Justin Caron."
 ---
 Xavier Dolan é um menino prodígio que, desde os cinco anos atua e desde os vinte se envolve com direção e roteiro de seus filmes de temática adolescente com uma abordagem intensamente poética. Este seu primeiro filme, Eu Matei Minha Mãe, foi escrito por ele aos dezesseis anos e é parcialmente auto-bibliográfico.
 

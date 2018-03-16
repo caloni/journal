@@ -1,25 +1,11 @@
 ---
-date: "2011-11-06"
 imdb: "1921043"
+date: "2011-11-06"
+categories: "movies"
 title: "O Palhaço"
 stars: "5/5"
-categories: "movies"
-revision: [2014-11-22]
-_title: "O Palhaço"
-_year: "2011"
-_director: ["Selton Mello", ]
-_writer: ["Selton Mello", "Marcelo Vindicato", ]
-_cast: ["Selton Mello", "Paulo José", "Larissa Manoela", "Giselle Motta", "Teuda Bara", "Álamo Facó", "Cadu Fávero", "Erom Cordeiro", "Hossen Minussi", ]
-_countries: ["Brazil", ]
-_languages: ["Portuguese", ]
-_editor: ["Selton Mello", "Marilia Moraes", ]
-_cinematographer: ["Adrian Teijido", ]
-_music: ["Plínio Profeta", ]
-_genres: ["Adventure", ]
-_runtimes: ["88", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTAxODk4NzQyODleQTJeQWpwZ15BbWU3MDkwNzIzNjg@.jpg"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTAxODk4NzQyODleQTJeQWpwZ15BbWU3MDkwNzIzNjg@._V1._SX95_SY140_.jpg"
+revision: [datetime.date(2014, 11, 22)]
+desc: "O Palhaço. O Palhaço (Brazil, 2011). Dirigido por Selton Mello. Escrito por Selton Mello, Marcelo Vindicato. Com Selton Mello, Paulo José, Larissa Manoela, Giselle Motta, Teuda Bara, Álamo Facó, Cadu Fávero, Erom Cordeiro, Hossen Minussi."
 ---
 É muito difícil escrever sobre filmes ruins, atacando às vezes sem sentido (aparente) e muitas vezes com uma visão precipitada ou exacerbada. Por outro lado, falar de um filme virtuoso em tantos aspectos como é o caso de O Palhaço pode ser uma atividade prazerosa e ao mesmo tempo um ato de injustiça: por deixar tantos detalhes do lado de fora.
 

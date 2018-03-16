@@ -1,23 +1,10 @@
 ---
-date: "2015-12-28"
 imdb: "3853452"
-stars: "3/5"
+date: "2015-12-28"
 categories: "movies"
 title: "Assassination Classroom"
-_title: "Ansatsu kyôshitsu"
-_year: "2015"
-_director: ["Eiichirô Hasumi", ]
-_writer: ["Yûsei Matsui", "Tatsuya Kanazawa", ]
-_cast: ["Okuma Anmi", "Wakana Aoi", "Shôta Arai", "Tanaka Nichinan Ayano", "Ozawa Guami", "Miyahara Hana-on", "Kanna Hashimoto", "Riku Ichikawa", "Jiyoung Kang", ]
-_countries: ["Japan", ]
-_languages: ["Japanese", ]
-_music: ["Naoki Satô", ]
-_genres: ["Adventure", ]
-_runtimes: ["110", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjAzNzUwMTk4OV5BMl5BanBnXkFtZTgwOTE2MjAwNTE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjAzNzUwMTk4OV5BMl5BanBnXkFtZTgwOTE2MjAwNTE@._V1._SX100_SY137_.jpg"
+stars: "3/5"
+desc: "Assassination Classroom. Ansatsu kyôshitsu (Japan, 2015). Dirigido por Eiichirô Hasumi. Escrito por Yûsei Matsui, Tatsuya Kanazawa. Com Okuma Anmi, Wakana Aoi, Shôta Arai, Tanaka Nichinan Ayano, Ozawa Guami, Miyahara Hana-on, Kanna Hashimoto, Riku Ichikawa, Jiyoung Kang."
 ---
 A Lua explode mais que a metade, tornando-a eternamente minguante. Alguém diz que os pobres precisam existir para que os ricos consigam explorá-los. Por isso que ainda existe uma das piores salas de aula do Japão, e é por isso que a criatura por trás da explosão da Lua é enviado para lá.
 

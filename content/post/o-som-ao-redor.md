@@ -1,25 +1,10 @@
 ---
-date: "2013-01-14"
 imdb: "2190367"
+date: "2013-01-14"
+categories: "movies"
 title: "O Som ao Redor"
 stars: "4/5"
-categories: "movies"
-_title: "O Som ao Redor"
-_year: "2012"
-_director: ["Kleber Mendonça Filho", ]
-_writer: ["Kleber Mendonça Filho", ]
-_cast: ["Ana Rita Gurgel", "Caio Almeida", "Maeve Jinkings", "Dida Maia", "Felipe Bandeira", "Gustavo Jahn", "Irma Brown", "Mauricéia Conceição", "Graziela Santos da Rocha", ]
-_countries: ["Brazil", ]
-_languages: ["Portuguese", ]
-_editor: ["João Maria", "Kleber Mendonça Filho", ]
-_cinematographer: ["Pedro Sotero", "Fabricio Tadeu", ]
-_music: ["DJ Dolores", ]
-_genres: ["Drama", ]
-_runtimes: ["131", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjAzNzg2MzEwN15BMl5BanBnXkFtZTcwMzY4Njc4Nw@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjAzNzg2MzEwN15BMl5BanBnXkFtZTcwMzY4Njc4Nw@@._V1._SX95_SY140_.jpg"
+desc: "O Som ao Redor. O Som ao Redor (Brazil, 2012). Dirigido por Kleber Mendonça Filho. Escrito por Kleber Mendonça Filho. Com Ana Rita Gurgel, Caio Almeida, Maeve Jinkings, Dida Maia, Felipe Bandeira, Gustavo Jahn, Irma Brown, Mauricéia Conceição, Graziela Santos da Rocha."
 ---
 O Som ao Redor não é o tipo de filme que a gente consiga descobrir através da sua história qual o tema e a opinião do diretor sobre o que ocorre na tela. A coisa toda está mais como um espelho, onde nossa observação dos fatos e a sua interpretação  sobretudo moral  é que irá inserir um significado. Mesmo assim, dadas as devidas proporções, todo filme possui essa liberdade de interpretação. Do contrário, nem existiria crítica, pois todas as respostas estariam no filme, e não haveriam perguntas.
 

@@ -1,27 +1,10 @@
 ---
-date: "2015-12-31"
 imdb: "2637276"
-stars: "2/5"
+date: "2015-12-31"
 categories: "movies"
 title: "Ted 2"
-_title: "Ted 2"
-_year: "2015"
-_director: ["Seth MacFarlane", ]
-_writer: ["Seth MacFarlane", "Alec Sulkin", "Wellesley Wild", ]
-_cast: ["Mark Wahlberg", "Seth MacFarlane", "Amanda Seyfried", "Jessica Barth", "Giovanni Ribisi", "Morgan Freeman", "Sam J. Jones", "Patrick Warburton", "Michael Dorn", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Jeff Freeman", ]
-_cinematographer: ["Michael Barrett", ]
-_music: ["Walter Murphy", ]
-_artdirection: ["Peter Borck", "Bryan Felty", "Caty Maxey", ]
-_costume designer: ["Cindy Evans", ]
-_genres: ["Comedy", ]
-_runtimes: ["115", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjEwMDg3MDk1NF5BMl5BanBnXkFtZTgwNjYyODA1NTE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjEwMDg3MDk1NF5BMl5BanBnXkFtZTgwNjYyODA1NTE@._V1._SX88_SY140_.jpg"
+stars: "2/5"
+desc: "Ted 2. Ted 2 (USA, 2015). Dirigido por Seth MacFarlane. Escrito por Seth MacFarlane, Alec Sulkin, Wellesley Wild. Com Mark Wahlberg, Seth MacFarlane, Amanda Seyfried, Jessica Barth, Giovanni Ribisi, Morgan Freeman, Sam J. Jones, Patrick Warburton, Michael Dorn."
 ---
 Personagens tão carismáticos em um filme tão disposto a comprar a ideia de um urso de pelúcia com vida adulta não poderia gerar uma continuação mais chata, mecânica e automática das comédias pastelonas.
 

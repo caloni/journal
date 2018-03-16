@@ -1,25 +1,10 @@
 ---
-date: "2011-08-22"
 imdb: "1231583"
+date: "2011-08-22"
+categories: "movies"
 title: "Um Parto de Viagem"
 stars: "3/5"
-categories: "movies"
-_title: "Due Date"
-_year: "2010"
-_director: ["Todd Phillips", ]
-_writer: ["Alan R. Cohen", "Alan Freedland", "Adam Sztykiel", "Todd Phillips", "Alan R. Cohen", "Alan Freedland", ]
-_cast: ["Robert Downey Jr.", "Zach Galifianakis", "Michelle Monaghan", "Jamie Foxx", "Juliette Lewis", "Danny McBride", "RZA", "Matt Walsh", "Brody Stevens", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Debra Neil-Fisher", ]
-_cinematographer: ["Lawrence Sher", ]
-_music: ["Christophe Beck", ]
-_genres: ["Comedy", ]
-_runtimes: ["95", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTU5MTgxODM3Nl5BMl5BanBnXkFtZTcwMjMxNDEwNA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTU5MTgxODM3Nl5BMl5BanBnXkFtZTcwMjMxNDEwNA@@._V1._SX94_SY140_.jpg"
+desc: "Um Parto de Viagem. Due Date (USA, 2010). Dirigido por Todd Phillips. Escrito por Alan R. Cohen, Alan Freedland, Adam Sztykiel, Todd Phillips, Alan R. Cohen, Alan Freedland. Com Robert Downey Jr., Zach Galifianakis, Michelle Monaghan, Jamie Foxx, Juliette Lewis, Danny McBride, RZA, Matt Walsh, Brody Stevens."
 ---
 Aparentemente, alguém achou engraçado colocar Robert Downey Jr. (Homem de Ferro, Sherlock Holmes) e Zach Galifianakis (Se Beber, Não Case 1 e 2) contracenando um filme inteiro. De fato, o resultado foi, no mínimo, interessante. Engraçado, é discutível.
 

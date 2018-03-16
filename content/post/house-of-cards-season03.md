@@ -1,27 +1,11 @@
 ---
-date: "2014-01-20"
+tags: ['netflix', 'houseofcards', 'series']
 imdb: "1856010"
+date: "2016-03-13"
+categories: "blog"
 title: "House of Cards - Terceira Temporada"
 stars: "3/5"
-categories: "blog"
-date: "2016-03-13"
-tags: ['netflix', 'houseofcards', 'series']
-_title: "House of Cards"
-_year: "2013"
-_director: ["James Foley", "John David Coles", "Carl Franklin", "Robin Wright", "Allen Coulter", "David Fincher", "Charles McDougall", "Joel Schumacher", "John Dahl", ]
-_writer: ["Andrew Davies", "Michael Dobbs", "Beau Willimon", "Kate Barnow", "Sam Forman", "John Mankiewicz", "Laura Eason", "Rick Cleveland", "Keith Huff", ]
-_cast: ["Kevin Spacey", "Robin Wright", "Michael Kelly", "Nathan Darrow", "Mahershala Ali", "Justin Doescher", "Michael Gill", "Molly Parker", "Derek Cecil", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Byron Smith", "Cindy Mollo", "Sidney Wolinsky", "Lisa Bromwell", "Michelle Tesoro", "Kirk Baxter", ]
-_cinematographer: ["Igor Martinovic", "Eigil Bryld", "Martin Ahlgren", "Tim Ives", "Peter Konczal", ]
-_music: ["Jeff Beal", ]
-_genres: ["Drama", ]
-_runtimes: ["55", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTY1NDcwMDcxN15BMl5BanBnXkFtZTgwMDI1NTQzNDE@.jpg"
-_ratio: "2.00 : 1"
-_kind: "tv series"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTY1NDcwMDcxN15BMl5BanBnXkFtZTgwMDI1NTQzNDE@._V1._SX95_SY140_.jpg"
+desc: "House of Cards - Terceira Temporada. House of Cards (USA, 2013). Dirigido por James Foley, John David Coles, Carl Franklin, Robin Wright, Allen Coulter, David Fincher, Charles McDougall, Joel Schumacher, John Dahl. Escrito por Andrew Davies, Michael Dobbs, Beau Willimon, Kate Barnow, Sam Forman, John Mankiewicz, Laura Eason, Rick Cleveland, Keith Huff. Com Kevin Spacey, Robin Wright, Michael Kelly, Nathan Darrow, Mahershala Ali, Justin Doescher, Michael Gill, Molly Parker, Derek Cecil."
 ---
 Até a sua segunda temporada, __House of Cards__ se beneficiava dos movimentos estratégicos de Frank Underwood (Kevin Spacey) para chegar ao topo e assim mover a história. Agora que ele ocupa o cargo máximo da nação mais poderosa do mundo sobra pouco espaço para subir, mas um longo caminho para descer. A recuperação de Doug Stamper (Michael Kelly) e sua genialidade resumida em pouquíssimos movimentos faz reflexo com a fraqueza de Underwood em um cargo público, como tão bem define as incessantes entrevistas com a imprensa e os ataques dos jornalistas, que parecem ter surgido de um panfleto comunista. Eles agora são poeticamente patrióticos. Faz até enganar por alguns momentos que há pessoas bem-intencionadas em torno desse lamaçal que ironicamente se chama Casa Branca.
 

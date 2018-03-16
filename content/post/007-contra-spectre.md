@@ -1,27 +1,10 @@
 ---
-date: "2015-11-14"
 imdb: "2379713"
-stars: "2/5"
+date: "2015-11-14"
 categories: "movies"
 title: "007 Contra Spectre"
-_title: "Spectre"
-_year: "2015"
-_director: ["Sam Mendes", ]
-_writer: ["John Logan", "Neal Purvis", "Robert Wade", "Jez Butterworth", "John Logan", "Neal Purvis", "Robert Wade", "Ian Fleming", ]
-_cast: ["Daniel Craig", "Christoph Waltz", "Léa Seydoux", "Ralph Fiennes", "Monica Bellucci", "Ben Whishaw", "Naomie Harris", "Dave Bautista", "Andrew Scott", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Lee Smith", ]
-_cinematographer: ["Hoyte Van Hoytema", ]
-_music: ["Thomas Newman", ]
-_artdirection: ["Andrew Bennett", "Neal Callow", "Ben Collins", "Mark Harris", "Chris Lowe", ]
-_costume designer: ["Jany Temime", ]
-_genres: ["Action", ]
-_runtimes: ["148", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjM2Nzg4MzkwOF5BMl5BanBnXkFtZTgwNzA0OTE3NjE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjM2Nzg4MzkwOF5BMl5BanBnXkFtZTgwNzA0OTE3NjE@._V1._SX94_SY140_.jpg"
+stars: "2/5"
+desc: "007 Contra Spectre. Spectre (UK, 2015). Dirigido por Sam Mendes. Escrito por John Logan, Neal Purvis, Robert Wade, Jez Butterworth, John Logan, Neal Purvis, Robert Wade, Ian Fleming. Com Daniel Craig, Christoph Waltz, Léa Seydoux, Ralph Fiennes, Monica Bellucci, Ben Whishaw, Naomie Harris, Dave Bautista, Andrew Scott."
 ---
 Spectre é tão bom ou tão ruim quanto Quantum of Solace, mas por motivos opostos. Enquanto na segunda aventura de Daniel Craig como James Bond a complexidade do roteiro piorava uma experiência que já se repetiu em mais de vinte filmes, dessa vez a sua simplicidade quase infantil gera uma decepção crescente a cada minuto que se passa na projeção.
 

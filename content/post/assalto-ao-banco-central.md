@@ -1,22 +1,10 @@
 ---
-date: "2011-08-23"
-title: "Assalto ao Banco Central"
 imdb: "1579223"
-stars: "2/5"
+date: "2011-08-23"
 categories: "movies"
-_title: "Assalto ao Banco Central"
-_year: "2011"
-_director: ["Marcos Paulo", ]
-_writer: ["Rene Belmonte", "Lucio Manfredi", "Tais Moreno", ]
-_cast: ["Milhem Cortaz", "Eriberto Leão", "Hermila Guedes", "Lima Duarte", "Giulia Gam", "Tonico Pereira", "Gero Camilo", "Vinícius de Oliveira", "Heitor Martinez Mello", ]
-_countries: ["Brazil", ]
-_languages: ["Portuguese", ]
-_cinematographer: ["José Roberto Eliezer", ]
-_music: ["André Moraes", ]
-_genres: ["Crime", ]
-_runtimes: ["101", ]
-_ratio: "1.85 : 1"
-_kind: "movie"
+title: "Assalto ao Banco Central"
+stars: "2/5"
+desc: "Assalto ao Banco Central. Assalto ao Banco Central (Brazil, 2011). Dirigido por Marcos Paulo. Escrito por Rene Belmonte, Lucio Manfredi, Tais Moreno. Com Milhem Cortaz, Eriberto Leão, Hermila Guedes, Lima Duarte, Giulia Gam, Tonico Pereira, Gero Camilo, Vinícius de Oliveira, Heitor Martinez Mello."
 ---
 Assalto ao Banco Central está longe de ser o filme insuportável pintado pela crítica. Porém, o que é mais importante: Assalto é um filme que decepciona em todos os gêneros que tenta se inserir.
 

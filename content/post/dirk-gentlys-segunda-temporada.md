@@ -1,9 +1,10 @@
 ---
-date: 2018-01-19T14:47:20-02:00
-title: "Dirk Gently's - Segunda Temporada"
-categories: "movies"
+date: 2018-01-19T16:47:20
 imdb: "4047038"
+categories: "movies"
 stars: "4/5"
+title: "Dirk Gently's - Segunda Temporada"
+desc: "Dirk Gently's - Segunda Temporada."
 ---
 A segunda temporada de Dirk Gently's prova que é possível sim construir obras audiovisuais que se baseiam fortemente no espírito do autor britânico Douglas Adams. Se o filme Guia do Mochileiro das Galáxias já dava uma pequena ideia da mente criativa de Adams e DGS01 possuía um season finale de cair o queixo, este S02 coloca agora o próprio core da história, com suas dezenas de personagens, quase tão complexo, denso e fascinante quanto os próprios textos de onde essas ideias surgiram.
 

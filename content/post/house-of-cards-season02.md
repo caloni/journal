@@ -1,27 +1,11 @@
 ---
-date: "2014-01-20"
+tags: ['netflix', 'houseofcards', 'series']
 imdb: "1856010"
+date: "2016-03-13"
+categories: "blog"
 title: "House of Cards - Segunda Temporada"
 stars: "5/5"
-categories: "blog"
-date: "2016-03-13"
-tags: ['netflix', 'houseofcards', 'series']
-_title: "House of Cards"
-_year: "2013"
-_director: ["James Foley", "John David Coles", "Carl Franklin", "Robin Wright", "Allen Coulter", "David Fincher", "Charles McDougall", "Joel Schumacher", "John Dahl", ]
-_writer: ["Andrew Davies", "Michael Dobbs", "Beau Willimon", "Kate Barnow", "Sam Forman", "John Mankiewicz", "Laura Eason", "Rick Cleveland", "Keith Huff", ]
-_cast: ["Kevin Spacey", "Robin Wright", "Michael Kelly", "Nathan Darrow", "Mahershala Ali", "Justin Doescher", "Michael Gill", "Molly Parker", "Derek Cecil", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Byron Smith", "Cindy Mollo", "Sidney Wolinsky", "Lisa Bromwell", "Michelle Tesoro", "Kirk Baxter", ]
-_cinematographer: ["Igor Martinovic", "Eigil Bryld", "Martin Ahlgren", "Tim Ives", "Peter Konczal", ]
-_music: ["Jeff Beal", ]
-_genres: ["Drama", ]
-_runtimes: ["55", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTY1NDcwMDcxN15BMl5BanBnXkFtZTgwMDI1NTQzNDE@.jpg"
-_ratio: "2.00 : 1"
-_kind: "tv series"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTY1NDcwMDcxN15BMl5BanBnXkFtZTgwMDI1NTQzNDE@._V1._SX95_SY140_.jpg"
+desc: "House of Cards - Segunda Temporada. House of Cards (USA, 2013). Dirigido por James Foley, John David Coles, Carl Franklin, Robin Wright, Allen Coulter, David Fincher, Charles McDougall, Joel Schumacher, John Dahl. Escrito por Andrew Davies, Michael Dobbs, Beau Willimon, Kate Barnow, Sam Forman, John Mankiewicz, Laura Eason, Rick Cleveland, Keith Huff. Com Kevin Spacey, Robin Wright, Michael Kelly, Nathan Darrow, Mahershala Ali, Justin Doescher, Michael Gill, Molly Parker, Derek Cecil."
 ---
 Já sabemos que Frank Underwood (Kevin Spacey) é capaz de literalmente tudo por mais poder. Se isso não fica claro no desfecho trágico do final da primeira temporada, com certeza o início da segunda não deixará a menor dúvida da mente doentia e obstinada do agora vice-presidente.
 

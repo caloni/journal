@@ -1,23 +1,10 @@
 ---
-date: "2015-07-26"
 imdb: "2576852"
-stars: "5/5"
+date: "2015-07-26"
 categories: "movies"
 title: "O Conto da Princesa Kaguya"
-_title: "Kaguyahime no monogatari"
-_year: "2013"
-_director: ["Isao Takahata", ]
-_writer: ["Isao Takahata", "Isao Takahata", "Riko Sakaguchi", "Mike Jones", ]
-_cast: ["Chloë Grace Moretz", "James Caan", "Mary Steenburgen", "Darren Criss", "Lucy Liu", "Beau Bridges", "James Marsden", "Oliver Platt", "Hynden Walch", ]
-_countries: ["Japan", ]
-_languages: ["Japanese", ]
-_music: ["Joe Hisaishi", ]
-_genres: ["Animation", ]
-_runtimes: ["137", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTg0ODYyODUzOF5BMl5BanBnXkFtZTgwMzYzODY3MjE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTg0ODYyODUzOF5BMl5BanBnXkFtZTgwMzYzODY3MjE@._V1._SX96_SY140_.jpg"
+stars: "5/5"
+desc: "O Conto da Princesa Kaguya. Kaguyahime no monogatari (Japan, 2013). Dirigido por Isao Takahata. Escrito por Isao Takahata, Isao Takahata, Riko Sakaguchi, Mike Jones. Com Chloë Grace Moretz, James Caan, Mary Steenburgen, Darren Criss, Lucy Liu, Beau Bridges, James Marsden, Oliver Platt, Hynden Walch."
 ---
 Uma aventura narrada por traços que revelam o que mais importa em seus personagens: o "eu" interior, ou seja, as expressões que os tornam tão únicos quanto complexos. Porém, nunca simplificados, mesmo se tratando de um conto. Aliado a isso, uma música de poucos toques usada nos momentos exatos transforma a experiência em uma imersão completa na moral milenar oriental. Em suma: um desenho imperdível para adultos (e talvez assustador para crianças, mas ainda assim arriscaria levá-las...).
 

@@ -1,25 +1,10 @@
 ---
-date: "2010-06-25"
 imdb: "0120363"
+date: "2010-06-25"
+categories: "movies"
 title: "Toy Story 2"
 stars: "4/5"
-categories: "movies"
-_title: "Toy Story 2"
-_year: "1999"
-_director: ["John Lasseter", "Ash Brannon", "Lee Unkrich", ]
-_writer: ["John Lasseter", "Pete Docter", "Ash Brannon", "Andrew Stanton", "Andrew Stanton", "Rita Hsiao", "Doug Chamberlin", "Chris Webb", ]
-_cast: ["Tom Hanks", "Tim Allen", "Joan Cusack", "Kelsey Grammer", "Don Rickles", "Jim Varney", "Wallace Shawn", "John Ratzenberger", "Annie Potts", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Edie Ichioka", "David Ian Salter", "Lee Unkrich", ]
-_cinematographer: ["Sharon Calahan", ]
-_music: ["Randy Newman", ]
-_genres: ["Animation", ]
-_runtimes: ["92", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQ0OTU0NTcyNl5BMl5BanBnXkFtZTcwOTk5Mjc4OA@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQ0OTU0NTcyNl5BMl5BanBnXkFtZTcwOTk5Mjc4OA@@._V1._SX100_SY133_.jpg"
+desc: "Toy Story 2. Toy Story 2 (USA, 1999). Dirigido por John Lasseter, Ash Brannon, Lee Unkrich. Escrito por John Lasseter, Pete Docter, Ash Brannon, Andrew Stanton, Andrew Stanton, Rita Hsiao, Doug Chamberlin, Chris Webb. Com Tom Hanks, Tim Allen, Joan Cusack, Kelsey Grammer, Don Rickles, Jim Varney, Wallace Shawn, John Ratzenberger, Annie Potts."
 ---
 Dessa vez o drama entra no universo dos brinquedos de coleção, aqueles que nunca saem da caixa e são peça de negociação, além de uma visita inesperada e divertida por uma loja de brinquedos fechada. Contando com uma trilha de ação envolvente por se unir de forma praticamente orgânica com as tomadas em que vemos os brinquedos atravessando uma rua cheia de carros, nossa atenção é roubada na primeira metade do filme com uma fluidez que se compara ao primeiro filme inteiro. No entanto, os diálogos finais tornam a segunda metade uma espécie de anticlímax da primeira, não tanto por ter se perdido no meio do caminho, mas pela comparação com a animada primeira parte.
 

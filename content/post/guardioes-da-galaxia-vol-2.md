@@ -1,29 +1,11 @@
 ---
+tags: ['cinema', 'mcu', 'guardioesdagalaxia']
+imdb: "3896198"
 date: "2017-04-27"
 categories: "movies"
 title: "Guardiões da Galáxia Vol. 2"
-imdb: "3896198"
 stars: "5/5"
-tags: ['cinema', 'mcu', 'guardioesdagalaxia']
-_title: "Guardians of the Galaxy Vol. 2"
-_year: "2017"
-_director: ["James Gunn", ]
-_writer: ["James Gunn", "Dan Abnett", "Andy Lanning", "Steve Englehart", "Steve Gan", "Jim Starlin", "Stan Lee", "Larry Lieber", "Jack Kirby", ]
-_cast: ["Chris Pratt (Peter Quill / Star-Lord)", "Zoe Saldana (Gamora)", "Dave Bautista (Drax)", "Vin Diesel (Baby Groot)", "Bradley Cooper (Rocket)", "Michael Rooker (Yondu)", "Karen Gillan (Nebula)", "Pom Klementieff (Mantis)", "Sylvester Stallone (Stakar Ogord)", "Kurt Russell (Ego)" ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Fred Raskin", "Craig Wood", ]
-_cinematographer: ["Henry Braham", ]
-_music: ["Tyler Bates", ]
-_artdirection: ["Elena Albanese", "Ramsey Avery", "Vlad Bina", "Jann K. Engel", "Iain McFadyen", "Harry E. Otto", "Thomas Valentine", "Haisu Wang", ]
-_costume designer: ["Judianna Makovsky", ]
-_genres: ["Action", ]
-_runtimes: ["136", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg2MzI1MTg3OF5BMl5BanBnXkFtZTgwNTU3NDA2MTI@.jpg"
-_ratio: "1.90 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg2MzI1MTg3OF5BMl5BanBnXkFtZTgwNTU3NDA2MTI@._V1._SX94_SY140_.jpg"
-_releasedate: "27 April 2017"
+desc: "Guardiões da Galáxia Vol. 2. Guardians of the Galaxy Vol. 2 (USA, 2017). Dirigido por James Gunn. Escrito por James Gunn, Dan Abnett, Andy Lanning, Steve Englehart, Steve Gan, Jim Starlin, Stan Lee, Larry Lieber, Jack Kirby. Com Chris Pratt (Peter Quill / Star-Lord), Zoe Saldana (Gamora), Dave Bautista (Drax), Vin Diesel (Baby Groot), Bradley Cooper (Rocket), Michael Rooker (Yondu), Karen Gillan (Nebula), Pom Klementieff (Mantis), Sylvester Stallone (Stakar Ogord), Kurt Russell (Ego)."
 ---
 Se você gostou de Guardiões da Galáxia é quase certeza que irá apreciar as novas aventuras do time de escanteio da Marvel, que ironicamente são os que mais lembram, com orgulho e um certo sarcasmo, a mídia original de onde vieram: os quadrinhos. Agora, se você é como eu, tenho certeza que achou que nada de bom viria de um filme onde novamente há uma equipe de anti-heróis de mentirinha formados por um guaxinim bancando o bad ass, um macho alfa genérico e seu objeto de desejo pintado de verde (porque é uma atriz negra), um brutamontes genérico isento de neurônios no cérebro e papas na língua e uma árvore falante (Eu sou Groot) dublada por Vin Diesel (que agora é pequena, o que torna Vin Diesel por tabela fofinho). Para você que pensa como eu, acredito que provavelmente você estará errado em julgar prematuramente uma continuação que faz de tudo dessa vez para acertar as pontas soltas desse ensaio bem-humorado dos quadrinhos para as telonas.
 

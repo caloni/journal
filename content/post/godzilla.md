@@ -1,25 +1,10 @@
 ---
-date: "2014-05-28"
 imdb: "0831387"
+date: "2014-05-28"
+categories: "movies"
 title: "Godzilla"
 stars: "5/5"
-categories: "movies"
-_title: "Godzilla"
-_year: "2014"
-_director: ["Gareth Edwards", ]
-_writer: ["Max Borenstein", "Dave Callaham", ]
-_cast: ["Aaron Taylor-Johnson", "CJ Adams", "Ken Watanabe", "Bryan Cranston", "Elizabeth Olsen", "Carson Bolde", "Sally Hawkins", "Juliette Binoche", "David Strathairn", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Bob Ducsay", ]
-_cinematographer: ["Seamus McGarvey", ]
-_music: ["Alexandre Desplat", ]
-_genres: ["Action", ]
-_runtimes: ["123", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQ0ODgzNjg2MV5BMl5BanBnXkFtZTgwNDkxMzc3MDE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQ0ODgzNjg2MV5BMl5BanBnXkFtZTgwNDkxMzc3MDE@._V1._SX95_SY140_.jpg"
+desc: "Godzilla. Godzilla (USA, 2014). Dirigido por Gareth Edwards. Escrito por Max Borenstein, Dave Callaham. Com Aaron Taylor-Johnson, CJ Adams, Ken Watanabe, Bryan Cranston, Elizabeth Olsen, Carson Bolde, Sally Hawkins, Juliette Binoche, David Strathairn."
 ---
 O filmes-desastre costumam colocar em seu "currículo" o envolvimento de seus personagens (para tornar pessoal), alguma perda familiar (para tornar doloroso) e um momento de honra (ou político) que unirá todos contra o "mal" que assola a humanidade. No mundo real, nenhum destes itens costuma ser muito frequente ou relevante porque ninguém  exceto religiosos  costuma personalizar os infortúnios de um terremoto, tsunami, epidemias ou até mesmo acidentes nucleares como um inimigo que deve ser combatido (ou como punição aos infiéis). Também sabermos que discursos otimistas fazem parte da rotina burocrática de chefes de estado e nunca atingem a população mais prejudicada. Dessa forma, qual o sentido do monstro nipo-clássico Godzilla ser encarado como um inimigo? Nenhum! E é exatamente isso que o segundo longa de Gareth Edwards evita fazer durante os 123 minutos dessa produção hollywoodiana que mantém suas origens e homenagens orientais bem localizadas.
 

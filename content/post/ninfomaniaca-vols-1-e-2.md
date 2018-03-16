@@ -1,27 +1,11 @@
 ---
+tags: ['ninfomaniaca']
+imdb: "1937390"
 date: "2016-06-06"
 categories: "blog"
 title: "Ninfomaníaca Vols 1 e 2"
-imdb: "1937390"
 stars: "4/5"
-tags: ['ninfomaniaca']
-_title: "Nymphomaniac: Vol. I"
-_year: "2013"
-_director: ["Lars von Trier", ]
-_writer: ["Lars von Trier", ]
-_cast: ["Charlotte Gainsbourg", "Stellan Skarsgård", "Stacy Martin", "Shia LaBeouf", "Christian Slater", "Uma Thurman", "Sophie Kennedy Clark", "Connie Nielsen", "Ronja Rissmann", ]
-_countries: ["Denmark", ]
-_languages: ["English", ]
-_editor: ["Morten Højbjerg", "Jacob Secher Schulsinger", "Molly Marlene Stensgaard", ]
-_cinematographer: ["Manuel Alberto Claro", ]
-_artdirection: ["Alexander Scherer", "Alexander Scherer", ]
-_costume designer: ["Manon Rasmussen", ]
-_genres: ["Drama", ]
-_runtimes: ["117", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjA3Njc5MjI5Ml5BMl5BanBnXkFtZTgwNTY3Mjg3MDE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjA3Njc5MjI5Ml5BMl5BanBnXkFtZTgwNTY3Mjg3MDE@._V1._SX94_SY140_.jpg"
+desc: "Ninfomaníaca Vols 1 e 2. Nymphomaniac: Vol. I (Denmark, 2013). Dirigido por Lars von Trier. Escrito por Lars von Trier. Com Charlotte Gainsbourg, Stellan Skarsgård, Stacy Martin, Shia LaBeouf, Christian Slater, Uma Thurman, Sophie Kennedy Clark, Connie Nielsen, Ronja Rissmann."
 ---
 Um estudo de personagem puro. A revisão de ambos os filmes, estreando agora na Netflix brasileira, revela que não há de fato uma história amarrada, onde uma coisa leva a outra. A única coisa que move Joe são as coincidências e as variações de sua libido. A curiosidade do filme é mais sobre esse universo, e menos sobre suas memórias.
 

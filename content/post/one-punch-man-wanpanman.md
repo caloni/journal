@@ -1,25 +1,12 @@
 ---
+tags: ['paulocoelho']
+imdb: "4508902"
 date: "2017-01-17"
 categories: "series"
 title: "One Punch Man: Wanpanman"
-imdb: "4508902"
 stars: "4/5"
-tags: ['paulocoelho', 'series']
-revision: [ "2017-07-19" ]
-tags: ['paulocoelho']
-_title: "One Punch Man: Wanpanman"
-_year: "2015"
-_director: ["Shingo Natsume", ]
-_writer: ["One", ]
-_cast: ["Max Mittelman (Saitama)", "Makoto Furukawa (Saitama)", "Kaito Ishikawa (Genos)", "Zach Aguilar (Genos)", "Yôji Ueda (Bespectacled Worker / ...)", "Shinya Hamazoe (Artillery Crew / ...)", "Yoshiaki Hasegawa (Eyelashes / ...)", "Shôta Yamamoto (Bearded Worker / ...)", "Hiroki Gotô (D-Pad / ...)", ]
-_countries: ["Japan", ]
-_languages: ["English", ]
-_music: ["Makoto Miyazaki", ]
-_genres: ["Animation", ]
-_runtimes: ["24", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMzQxMzE5NzM2NV5BMl5BanBnXkFtZTgwMDQ4NTUyNzE@.jpg"
-_kind: "tv series"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMzQxMzE5NzM2NV5BMl5BanBnXkFtZTgwMDQ4NTUyNzE@._V1._SX97_SY140_.jpg"
+revision: ['2017-07-19']
+desc: "One Punch Man: Wanpanman. One Punch Man: Wanpanman (Japan, 2015). Dirigido por Shingo Natsume. Escrito por One. Com Max Mittelman (Saitama), Makoto Furukawa (Saitama), Kaito Ishikawa (Genos), Zach Aguilar (Genos), Yôji Ueda (Bespectacled Worker / ...), Shinya Hamazoe (Artillery Crew / ...), Yoshiaki Hasegawa (Eyelashes / ...), Shôta Yamamoto (Bearded Worker / ...), Hiroki Gotô (D-Pad / ...)."
 ---
 One Punch Man pode muito bem ser uma série de uma piada só. E ela está no título. Entre todos os poderosos heróis que salvam cidades com nomes do alfabeto e de todas as criaturas malignas das profundezas da Terra, Saitama é uma pessoa comum que decidiu ser um herói por diversão. Ele treinou muito. Não, você não entendeu: ele treinou muito mesmo. Tanto que é o mais poderoso dos heróis, mesmo que ninguém acredite nele. Seu maior poder? Um soco. O homem de apenas um soco.
 

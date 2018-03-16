@@ -1,26 +1,10 @@
 ---
-date: "2015-12-27"
 imdb: "0245429"
-stars: "4/5"
+date: "2015-12-27"
 categories: "movies"
 title: "A Viagem de Chihiro"
-_title: "Sen to Chihiro no kamikakushi"
-_year: "2001"
-_director: ["Hayao Miyazaki", ]
-_writer: ["Hayao Miyazaki", ]
-_cast: ["Rumi Hiiragi", "Miyu Irino", "Mari Natsuki", "Takashi Naitô", "Yasuko Sawaguchi", "Tatsuya Gashûin", "Ryûnosuke Kamiki", "Yumi Tamai", "Yô Ôizumi", ]
-_countries: ["Japan", ]
-_languages: ["Japanese", ]
-_editor: ["Takeshi Seyama", ]
-_cinematographer: ["Atsushi Okui", ]
-_music: ["Joe Hisaishi", ]
-_artdirection: ["Yôji Takeshige", ]
-_genres: ["Animation", ]
-_runtimes: ["125", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjYxMDcyMzIzNl5BMl5BanBnXkFtZTYwNDg2MDU3.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjYxMDcyMzIzNl5BMl5BanBnXkFtZTYwNDg2MDU3._V1._SX99_SY140_.jpg"
+stars: "4/5"
+desc: "A Viagem de Chihiro. Sen to Chihiro no kamikakushi (Japan, 2001). Dirigido por Hayao Miyazaki. Escrito por Hayao Miyazaki. Com Rumi Hiiragi, Miyu Irino, Mari Natsuki, Takashi Naitô, Yasuko Sawaguchi, Tatsuya Gashûin, Ryûnosuke Kamiki, Yumi Tamai, Yô Ôizumi."
 ---
 A Viagem de Chihiro é um passeio fantasioso sem ser infantil pelo mundo dos espíritos, onde a história importa menos do que o mundo criado para ela, tal qual um Senhor dos Anéis ou Star Wars.
 

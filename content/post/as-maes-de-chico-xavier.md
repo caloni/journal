@@ -1,21 +1,10 @@
 ---
-date: "2011-04-27"
-title: "As Mães de Chico Xavier"
 imdb: "1882041"
-stars: "2/5"
+date: "2011-04-27"
 categories: "movies"
-_title: "As Mães de Chico Xavier"
-_year: "2011"
-_director: ["Glauber Filho", "Halder Gomes", ]
-_writer: ["Glauber Filho", "Marcel Souto Maior", "Emmanuel Nogueira", ]
-_cast: ["Paulo Goulart Filho", "Nelson Xavier", "Herson Capri", "Vanessa Gerbelli", "Tainá Müller", "Vya Negromonte", "Caio Blat", "Gustavo Falcão", "Joelson Medeiros", ]
-_countries: ["Brazil", ]
-_languages: ["Portuguese", ]
-_cinematographer: ["Carina Sanginitto", ]
-_music: ["Flávio Venturini", ]
-_genres: ["Drama", ]
-_runtimes: ["Brazil:90", ]
-_kind: "movie"
+title: "As Mães de Chico Xavier"
+stars: "2/5"
+desc: "As Mães de Chico Xavier. As Mães de Chico Xavier (Brazil, 2011). Dirigido por Glauber Filho, Halder Gomes. Escrito por Glauber Filho, Marcel Souto Maior, Emmanuel Nogueira. Com Paulo Goulart Filho, Nelson Xavier, Herson Capri, Vanessa Gerbelli, Tainá Müller, Vya Negromonte, Caio Blat, Gustavo Falcão, Joelson Medeiros."
 ---
 Como grande sucesso do primeiro longa metragem que mostra a vida do famoso espírita Chico Xavier, vemos uma tentativa de realizar uma franquia com um seriado de televisão e, agora, com histórias alternativas que giram em torno dos poderes do aclamado médium.
 

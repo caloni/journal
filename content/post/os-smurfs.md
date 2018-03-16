@@ -1,25 +1,10 @@
 ---
-date: "2011-09-11"
 imdb: "0472181"
+date: "2011-09-11"
+categories: "movies"
 title: "Os Smurfs"
 stars: "3/5"
-categories: "movies"
-_title: "The Smurfs"
-_year: "2011"
-_director: ["Raja Gosnell", ]
-_writer: ["J. David Stem", "David N. Weiss", "Jay Scherick", "David Ronn", "J. David Stem", "David N. Weiss", "Peyo", ]
-_cast: ["Hank Azaria", "Neil Patrick Harris", "Jayma Mays", "Sofía Vergara", "Tim Gunn", "Madison McKinley", "Meg Phillips", "Julie Chang", "Roger Clark", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Sabrina Plisco", ]
-_cinematographer: ["Phil Meheux", ]
-_music: ["Heitor Pereira", ]
-_genres: ["Animation", ]
-_runtimes: ["USA:103", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTY4MDc2NzQ4MF5BMl5BanBnXkFtZTcwNDc5OTU2NA@@.jpg"
-_ratio: "1.78 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTY4MDc2NzQ4MF5BMl5BanBnXkFtZTcwNDc5OTU2NA@@._V1._SX95_SY140_.jpg"
+desc: "Os Smurfs. The Smurfs (USA, 2011). Dirigido por Raja Gosnell. Escrito por J. David Stem, David N. Weiss, Jay Scherick, David Ronn, J. David Stem, David N. Weiss, Peyo. Com Hank Azaria, Neil Patrick Harris, Jayma Mays, Sofía Vergara, Tim Gunn, Madison McKinley, Meg Phillips, Julie Chang, Roger Clark."
 ---
 É difícil dizer isso, mas o filme dos Smurfs diverte bem mais que seu primo ilegítimo: Alvin e os Esquilos (e continuações). A ideia de pegar elementos de CG para fazer gracinhas junto com personagens de carne e osso (e cor de pele) quase sempre termina em tragédia premeditada, e isso explica em parte o desânimo dos meus amigos, que sequer cogitaram ir ver o filme nos cinemas.
 

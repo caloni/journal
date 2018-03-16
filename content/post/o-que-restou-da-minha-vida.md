@@ -1,25 +1,11 @@
 ---
+tags: ['mostrasp']
+imdb: "6150202"
 date: "2016-10-21"
 categories: "movies"
 title: "O Que Restou da Minha Vida"
-imdb: "6150202"
 stars: "3/5"
-tags: ['mostrasp']
-_title: "Die Reste meines Lebens"
-_year: "2016"
-_director: ["Jens Wischnewski", ]
-_writer: ["Julia C. Kaiser", "Jens Wischnewski", ]
-_cast: ["Karoline Bär (Jella May)", "Daniel Arthur Fischer (Young Anton)", "Luise Heyer (Milena Nelko)", "Christoph Letkowski (Schimon May)", ]
-_countries: ["Germany", ]
-_languages: ["German", ]
-_editor: ["Falk Peplinski", ]
-_cinematographer: ["Dominik Berg", ]
-_music: ["Peter Thomas Gromer", ]
-_genres: ["Comedy", ]
-_runtimes: ["108", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BZGZkZmVjMjktMjUxYS00YTQ0LWEzZmItYTZhZGMxMTMzNmRmXkEyXkFqcGdeQXVyNjkyNzkyNzU@.jpg"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BZGZkZmVjMjktMjUxYS00YTQ0LWEzZmItYTZhZGMxMTMzNmRmXkEyXkFqcGdeQXVyNjkyNzkyNzU@._V1._SX99_SY140_.jpg"
+desc: "O Que Restou da Minha Vida. Die Reste meines Lebens (Germany, 2016). Dirigido por Jens Wischnewski. Escrito por Julia C. Kaiser, Jens Wischnewski. Com Karoline Bär (Jella May), Daniel Arthur Fischer (Young Anton), Luise Heyer (Milena Nelko), Christoph Letkowski (Schimon May)."
 ---
 Tratando da morte de uma maneira leve para depois reverenciar a perda das pessoas que amamos, O Que Restou da Minha Vida é um misto de temas que combina comédia, romance e drama em uma sequência de idas e voltas não necessariamente confusas, mas frustrantes.
 

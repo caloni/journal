@@ -1,25 +1,10 @@
 ---
-date: "2011-12-10"
 imdb: "0103644"
+date: "2011-12-10"
+categories: "movies"
 title: "Aliens 3"
 stars: "3/5"
-categories: "movies"
-_title: "Alien³"
-_year: "1992"
-_director: ["David Fincher", ]
-_writer: ["Dan O'Bannon", "Ronald Shusett", "Vincent Ward", "David Giler", "Walter Hill", "Larry Ferguson", ]
-_cast: ["Sigourney Weaver", "Charles S. Dutton", "Charles Dance", "Paul McGann", "Brian Glover", "Ralph Brown", "Danny Webb", "Christopher John Fields", "Holt McCallany", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["David Crowther", "Terry Rawlings", ]
-_cinematographer: ["Alex Thomson", ]
-_music: ["Elliot Goldenthal", ]
-_genres: ["Horror", ]
-_runtimes: ["114", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQzMTg3NTM2Ml5BMl5BanBnXkFtZTcwMTkzMTk3OA@@.jpg"
-_ratio: "2.20 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQzMTg3NTM2Ml5BMl5BanBnXkFtZTcwMTkzMTk3OA@@._V1._SX94_SY140_.jpg"
+desc: "Aliens 3. Alien³ (USA, 1992). Dirigido por David Fincher. Escrito por Dan O'Bannon, Ronald Shusett, Vincent Ward, David Giler, Walter Hill, Larry Ferguson. Com Sigourney Weaver, Charles S. Dutton, Charles Dance, Paul McGann, Brian Glover, Ralph Brown, Danny Webb, Christopher John Fields, Holt McCallany."
 ---
 Oito anos após "Aliens, o Retorno" (James Cameron), continuação do original "Alien, o Oitavo Passageiro" (Ridley Scott), o Cinema mais uma vez revisita esse universo, dessa vez pela visão do ainda inexperiente David Fincher (Seven, Clube da Luta, A Rede Social), que não conseguiu enriquecê-lo à altura de seus antecessores, mas cria um drama que no mínimo aumenta um pouco nossa percepção a respeito da criatura.
 

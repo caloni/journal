@@ -1,26 +1,10 @@
 ---
+imdb: "1512235"
 date: "2016-08-05"
 categories: "movies"
-imdb: "1512235"
-stars: "5/5"
 title: "Super"
-_title: "Super"
-_year: "2010"
-_director: ["James Gunn", ]
-_writer: ["James Gunn", ]
-_cast: ["Rainn Wilson", "Ellen Page", "Liv Tyler", "Kevin Bacon", "Gregg Henry", "Michael Rooker", "Andre Royo", "Sean Gunn", "Stephen Blackehart", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Cara Silverman", ]
-_cinematographer: ["Steve Gainer", ]
-_music: ["Tyler Bates", ]
-_costume designer: ["Mary Matthews", ]
-_genres: ["Comedy", ]
-_runtimes: ["USA:96", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTcxMDkxNjI1NF5BMl5BanBnXkFtZTcwMzE5Njc1NA@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTcxMDkxNjI1NF5BMl5BanBnXkFtZTcwMzE5Njc1NA@@._V1._SX94_SY140_.jpg"
+stars: "5/5"
+desc: "Super. Super (USA, 2010). Dirigido por James Gunn. Escrito por James Gunn. Com Rainn Wilson, Ellen Page, Liv Tyler, Kevin Bacon, Gregg Henry, Michael Rooker, Andre Royo, Sean Gunn, Stephen Blackehart."
 ---
 Sinto muito, Marvel. Sorry, DC. Um dos melhores filmes sobre heróis dos últimos anos é Super. Não que ele tenha efeitos visuais de última geração. Nem que ele tenha um personagem carismático que faz piadinhas escolhidas a dedo pelos produtores (que não querem correr o risco de "subir a censura"). Também não é porque ele entope o roteiro de personagens mascarados, cada um com sua história de origem, rivalizando quem consegue maior tempo de tela. O filme não possui nada disso. "Super" consegue se desvencilhar de todos esses clichês e se sair ainda melhor que o ótimo e controverso Deadpool, justamente por levar o "controverso" às últimas consequências (e não ficar com medo do que o público irá pensar). O filme dirigido e escrito por James Gunn (Para Maiores, Guardiões da Galáxia) desconstrói o sub-gênero e ainda consegue sair por cima dos destroços. Ele descaradamente vai na fonte mística que deu origem à mitologia moderna e esfrega na nossa cara que não precisa muito para ser um herói. Basta lutar contra o mal. E quem é o mal? É aí que o filme surpreende ainda mais.
 

@@ -1,25 +1,10 @@
 ---
-date: "2011-12-20"
 imdb: "0133093"
+date: "2011-12-20"
+categories: "movies"
 title: "Matrix"
 stars: "5/5"
-categories: "movies"
-_title: "The Matrix"
-_year: "1999"
-_director: ["Andy Wachowski", "Lana Wachowski", ]
-_writer: ["Andy Wachowski", "Lana Wachowski", ]
-_cast: ["Keanu Reeves", "Laurence Fishburne", "Carrie-Anne Moss", "Hugo Weaving", "Gloria Foster", "Joe Pantoliano", "Marcus Chong", "Julian Arahanga", "Matt Doran", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Zach Staenberg", ]
-_cinematographer: ["Bill Pope", ]
-_music: ["Don Davis", ]
-_genres: ["Action", ]
-_runtimes: ["136", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTkxNDYxOTA4M15BMl5BanBnXkFtZTgwNTk0NzQxMTE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTkxNDYxOTA4M15BMl5BanBnXkFtZTgwNTk0NzQxMTE@._V1._SX94_SY140_.jpg"
+desc: "Matrix. The Matrix (USA, 1999). Dirigido por Andy Wachowski, Lana Wachowski. Escrito por Andy Wachowski, Lana Wachowski. Com Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving, Gloria Foster, Joe Pantoliano, Marcus Chong, Julian Arahanga, Matt Doran."
 ---
 Animes, quadrinhos, Kung-Fu, filosofia, tecnologia: Que filme conseguiria compor, de forma inquestionável, esses universos tão grandiosos quanto diferentes entre si?
 

@@ -1,25 +1,11 @@
 ---
+tags: ['netflix', 'sherlock', 'series']
+imdb: "3538760"
 date: "2017-04-16"
 categories: "blog"
 title: "Sherlock - Quarta Temporada, Episódio 1: The Six Thatchers"
-imdb: "3538760"
 stars: "4/5"
-tags: ['netflix', 'sherlock', 'series']
-_title: "The Six Thatchers"
-_year: "2017"
-_director: ["Rachel Talalay", ]
-_writer: ["Mark Gatiss", "Arthur Conan Doyle", "Steven Moffat", ]
-_cast: ["Benedict Cumberbatch (Sherlock Holmes)", "Martin Freeman (Dr. John Watson)", "Una Stubbs (Mrs. Hudson)", "Rupert Graves (DI Lestrade)", "Mark Gatiss (Mycroft Holmes)", "Louise Brealey (Molly Hooper)", "Amanda Abbington (Mary Watson)", "Lindsay Duncan (Lady Smallwood)", "Simon Kunz (Sir Edwin)", ]
-_editor: ["William Oswald", ]
-_cinematographer: ["Stuart Biddlecombe", ]
-_music: ["David Arnold", "Michael Price", ]
-_artdirection: ["Laura Hardy", ]
-_costume designer: ["Sarah Arthur", ]
-_genres: ["Crime", ]
-_runtimes: ["88", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjQ2NjE5ODM4MV5BMl5BanBnXkFtZTgwMjIwNTI5MDI@.jpg"
-_kind: "episode"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjQ2NjE5ODM4MV5BMl5BanBnXkFtZTgwMjIwNTI5MDI@._V1._SX100_SY47_.jpg"
+desc: "Sherlock - Quarta Temporada, Episódio 1: The Six Thatchers. Dirigido por Rachel Talalay. Escrito por Mark Gatiss, Arthur Conan Doyle, Steven Moffat. Com Benedict Cumberbatch (Sherlock Holmes), Martin Freeman (Dr. John Watson), Una Stubbs (Mrs. Hudson), Rupert Graves (DI Lestrade), Mark Gatiss (Mycroft Holmes), Louise Brealey (Molly Hooper), Amanda Abbington (Mary Watson), Lindsay Duncan (Lady Smallwood), Simon Kunz (Sir Edwin)."
 ---
 Sempre um prazer assistir a um novo episódio da série Sherlock, que atualizou o personagem e o gênero de investigação criminal através de um roteiro, direção e edição que insistem em correr além do espectador, jogando migalhas de pistas para que imploremos por mais. Aqui a história volta para os tempos atuais, e há uma certa mesmice, mas que é explorada com uma certa elegância e que contém em seu terceiro ato uma notícia bombástica e ao mesmo tempo covarde, pois coloca os dois companheiros, Sherlock e Watson, de volta a um formato formulaico, embora apaixonante.
 

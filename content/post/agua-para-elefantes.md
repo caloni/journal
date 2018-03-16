@@ -1,25 +1,10 @@
 ---
-date: "2012-08-27"
 imdb: "1067583"
+date: "2012-08-27"
+categories: "movies"
 title: "Água para Elefantes"
 stars: "3/5"
-categories: "movies"
-_title: "Water for Elephants"
-_year: "2011"
-_director: ["Francis Lawrence", ]
-_writer: ["Richard LaGravenese", "Sara Gruen", ]
-_cast: ["Reese Witherspoon", "Robert Pattinson", "Christoph Waltz", "Paul Schneider", "Jim Norton", "Hal Holbrook", "Mark Povinelli", "Richard Brake", "Stephen Monroe Taylor", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Alan Edward Bell", ]
-_cinematographer: ["Rodrigo Prieto", ]
-_music: ["James Newton Howard", ]
-_genres: ["Drama", ]
-_runtimes: ["USA:120", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQzMDU3NDEwN15BMl5BanBnXkFtZTcwMTI3MDU0NA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQzMDU3NDEwN15BMl5BanBnXkFtZTcwMTI3MDU0NA@@._V1._SX95_SY140_.jpg"
+desc: "Água para Elefantes. Water for Elephants (USA, 2011). Dirigido por Francis Lawrence. Escrito por Richard LaGravenese, Sara Gruen. Com Reese Witherspoon, Robert Pattinson, Christoph Waltz, Paul Schneider, Jim Norton, Hal Holbrook, Mark Povinelli, Richard Brake, Stephen Monroe Taylor."
 ---
 Uma história tão inspirada como essa, que consegue relacionar os sentimentos descontroláveis do dono de um circo da década de 30 com seus animais e seu sentimento de posse não só para com eles, como para seus funcionários e sua própria esposa, mereceria um elenco melhor escolhido. Não me levem a mal: Christoph Waltz é o máximo, apesar de com um personagem não tão redondo quando o impagável Coronel Hans Landa no Bastardos Inglórios. Porém, aqui a figura de August é mais sombria e menos irônica, e os trejeitos de Waltz deflagram essa discrepância. A mesma coisa com a não-tão-linda-como-é-sugerida Marlena/Reese Whitherspoon, que possui os mesmos trejeitos de tantas comédias românticas e não transparece a figura ingênua e dócil que sugeriria sua personagem.
 

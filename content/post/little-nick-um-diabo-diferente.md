@@ -1,25 +1,10 @@
 ---
-date: "2015-08-09"
 imdb: "0185431"
-stars: "3/5"
+date: "2015-08-09"
 categories: "movies"
 title: "Little Nick - Um Diabo Diferente"
-_title: "Little Nicky"
-_year: "2000"
-_director: ["Steven Brill", ]
-_writer: ["Tim Herlihy", "Adam Sandler", "Steven Brill", ]
-_cast: ["Adam Sandler", "Patricia Arquette", "Harvey Keitel", "Rhys Ifans", "Tommy 'Tiny' Lister", "Rodney Dangerfield", "Allen Covert", "Peter Dante", "Jonathan Loughran", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Jeff Gourson", ]
-_cinematographer: ["Theo van de Sande", ]
-_music: ["Teddy Castellucci", "Adam Jeremy Williams", ]
-_genres: ["Comedy", ]
-_runtimes: ["90", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQ4MTk3Mzk5NV5BMl5BanBnXkFtZTYwMTQ3NzI3.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQ4MTk3Mzk5NV5BMl5BanBnXkFtZTYwMTQ3NzI3._V1._SX95_SY140_.jpg"
+stars: "3/5"
+desc: "Little Nick - Um Diabo Diferente. Little Nicky (USA, 2000). Dirigido por Steven Brill. Escrito por Tim Herlihy, Adam Sandler, Steven Brill. Com Adam Sandler, Patricia Arquette, Harvey Keitel, Rhys Ifans, Tommy 'Tiny' Lister, Rodney Dangerfield, Allen Covert, Peter Dante, Jonathan Loughran."
 ---
 Todo momento em Little Nicky pode ser resumido em pausar a ação, ver uma piada de gosto duvidoso, dar ou não uma risada -- algo muito pessoal -- e continuar a história do filho do diabo que precisa reencontrar seus dois irmãos na Terra e enviá-los de volta para o inferno ou seu pai, o Diabo, irá derreter até definhar.
 

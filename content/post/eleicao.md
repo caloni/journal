@@ -1,27 +1,10 @@
 ---
-date: "2015-12-02"
 imdb: "0126886"
-stars: "5/5"
+date: "2015-12-02"
 categories: "movies"
 title: "Eleição"
-_title: "Election"
-_year: "1999"
-_director: ["Alexander Payne", ]
-_writer: ["Tom Perrotta", "Alexander Payne", "Jim Taylor", ]
-_cast: ["Matthew Broderick", "Reese Witherspoon", "Chris Klein", "Jessica Campbell", "Mark Harelik", "Phil Reeves", "Molly Hagan", "Delaney Driscoll", "Colleen Camp", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Kevin Tent", ]
-_cinematographer: ["James Glennon", ]
-_music: ["Rolfe Kent", ]
-_artdirection: ["T.K. Kirkpatrick", ]
-_costume designer: ["Wendy Chuck", ]
-_genres: ["Comedy", ]
-_runtimes: ["103", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMzQxMDcyNzM4M15BMl5BanBnXkFtZTcwNzc1NjIyMQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMzQxMDcyNzM4M15BMl5BanBnXkFtZTcwNzc1NjIyMQ@@._V1._SX99_SY140_.jpg"
+stars: "5/5"
+desc: "Eleição. Election (USA, 1999). Dirigido por Alexander Payne. Escrito por Tom Perrotta, Alexander Payne, Jim Taylor. Com Matthew Broderick, Reese Witherspoon, Chris Klein, Jessica Campbell, Mark Harelik, Phil Reeves, Molly Hagan, Delaney Driscoll, Colleen Camp."
 ---
 Esse filme de Alexander Payne (Sideways, Os Descendentes) pode ter passado despercebido na época em que foi lançado, mas uma vez que você o assiste, seus detalhes políticos sórdidos irão infestar sua mente como nunca.
 

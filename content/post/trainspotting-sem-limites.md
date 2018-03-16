@@ -1,24 +1,10 @@
 ---
-date: "2014-05-21"
 imdb: "0117951"
+date: "2014-05-21"
+categories: "movies"
 title: "Trainspotting Sem Limites"
 stars: "5/5"
-categories: "movies"
-_title: "Trainspotting"
-_year: "1996"
-_director: ["Danny Boyle", ]
-_writer: ["Irvine Welsh", "John Hodge", ]
-_cast: ["Ewan McGregor", "Ewen Bremner", "Jonny Lee Miller", "Kevin McKidd", "Robert Carlyle", "Kelly Macdonald", "Peter Mullan", "James Cosmo", "Eileen Nicholas", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Masahiro Hirakubo", ]
-_cinematographer: ["Brian Tufano", ]
-_genres: ["Drama", ]
-_runtimes: ["94", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTg2MzcxNTY3NV5BMl5BanBnXkFtZTgwOTQ5NDQxMDE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTg2MzcxNTY3NV5BMl5BanBnXkFtZTgwOTQ5NDQxMDE@._V1._SX94_SY140_.jpg"
+desc: "Trainspotting Sem Limites. Trainspotting (UK, 1996). Dirigido por Danny Boyle. Escrito por Irvine Welsh, John Hodge. Com Ewan McGregor, Ewen Bremner, Jonny Lee Miller, Kevin McKidd, Robert Carlyle, Kelly Macdonald, Peter Mullan, James Cosmo, Eileen Nicholas."
 ---
 Quando vi pela primeira vez Transpotting, aos meus 17 e poucos anos, ele ficou incrustado na minha mente por todo esse tempo. Até ontem, quando tudo que eu sabia visualmente sobre o filme foi apenas reafirmado, pois jamais havia sido esquecido. É um trabalho intenso que, acredito, atravessa gerações facilmente. Danny Boyle, de Quem Quer ser Um Milionário, dirige com uma economia visual absurda. Os diálogos são complementos de um filme para ser degustado principalmente pela visão. E que visão!
 

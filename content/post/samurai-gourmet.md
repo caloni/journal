@@ -1,20 +1,11 @@
 ---
+tags: ['netflix', 'series']
+imdb: "6304676"
 date: "2017-04-16"
 categories: "series"
 title: "Samurai Gourmet"
-imdb: "6304676"
 stars: "4/5"
-tags: ['netflix', 'series']
-_title: "Samurai Gourmet"
-_year: "2017"
-_writer: ["Masayuki Kusumi", ]
-_cast: ["Naoto Takenaka (Takeshi Kasumi)", "Tetsuji Tamayama (Samurai)", "Honami Suzuki (Wife)", ]
-_countries: ["Japan", ]
-_languages: ["Japanese", ]
-_genres: ["Comedy", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BYTJjMWRlYzYtNTIyNS00ODA3LThlNGEtNWNkNGUwZDhlN2Q5XkEyXkFqcGdeQXVyMjM2MjkyMTQ@.jpg"
-_kind: "tv series"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BYTJjMWRlYzYtNTIyNS00ODA3LThlNGEtNWNkNGUwZDhlN2Q5XkEyXkFqcGdeQXVyMjM2MjkyMTQ@._V1._SX97_SY140_.jpg"
+desc: "Samurai Gourmet. Samurai Gourmet (Japan, 2017). Escrito por Masayuki Kusumi. Com Naoto Takenaka (Takeshi Kasumi), Tetsuji Tamayama (Samurai), Honami Suzuki (Wife)."
 ---
 No meio de tantas séries televisivas sobre cozinhar, eis uma série sobre degustar. Samurai Gourmet é baseado em quadrinhos e mantém seu personagem-título sob controle criativo das ótimas expressões do ator Naoto Takenaka. Ele se aposentou recentemente e irá agora explorar diferentes restaurantes, bares e cafés, revivendo os velhos dilemas que clientes desses lugares possuem. Nos simpatizamos com Takeshi Kasumi porque, assim como ele, ficamos sem jeito de reclamar quando a comida está ruim, ou quando pessoas barulhentas ou mal-educadas desrespeitam o ritual de uma refeição.
 

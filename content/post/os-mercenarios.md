@@ -1,25 +1,10 @@
 ---
-date: "2010-08-13"
 imdb: "1320253"
+date: "2010-08-13"
+categories: "movies"
 title: "Os Mercenários"
 stars: "2/5"
-categories: "movies"
-_title: "The Expendables"
-_year: "2010"
-_director: ["Sylvester Stallone", ]
-_writer: ["Dave Callaham", "Sylvester Stallone", "Dave Callaham", ]
-_cast: ["Sylvester Stallone", "Jason Statham", "Jet Li", "Dolph Lundgren", "Eric Roberts", "Randy Couture", "Steve Austin", "David Zayas", "Giselle Itié", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Ken Blackwell", "Paul Harb", ]
-_cinematographer: ["Jeffrey L. Kimball", ]
-_music: ["Brian Tyler", ]
-_genres: ["Action", ]
-_runtimes: ["103", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNTUwODQyNjM0NF5BMl5BanBnXkFtZTcwNDMwMTU1Mw@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNTUwODQyNjM0NF5BMl5BanBnXkFtZTcwNDMwMTU1Mw@@._V1._SX94_SY140_.jpg"
+desc: "Os Mercenários. The Expendables (USA, 2010). Dirigido por Sylvester Stallone. Escrito por Dave Callaham, Sylvester Stallone, Dave Callaham. Com Sylvester Stallone, Jason Statham, Jet Li, Dolph Lundgren, Eric Roberts, Randy Couture, Steve Austin, David Zayas, Giselle Itié."
 ---
 Usando uma steady cam e iniciando no tom de documentário, Os Mercenários traz uma gangue de atores milionários que, em seus devidos personagens unidimensionais, fazem operações de guerra por uns trocados. A primeira cena, aliás, resume bem o que teremos no resto das cenas de ação: muito sangue. Tanto sangue que, no início, vemos o resto da matança através de uma lente de visão noturno, para não afastar de imediato o espectador que ainda verá muitas cabeças explodindo e corpos rolando.
 

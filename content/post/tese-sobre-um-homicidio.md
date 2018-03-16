@@ -1,25 +1,10 @@
 ---
-date: "2015-12-23"
 imdb: "2241605"
-stars: "3/5"
+date: "2015-12-23"
 categories: "movies"
 title: "Tese Sobre um Homicídio"
-_title: "Tesis sobre un homicidio"
-_year: "2013"
-_director: ["Hernán Goldfrid", ]
-_writer: ["Diego Paszkowski", "Patricio Vega", ]
-_cast: ["Ricardo Darín", "Alberto Ammann", "Calu Rivero", "Arturo Puig", "Fabián Arenillas", "Mara Bestelli", "Antonio Ugo", "José Luis Mazza", "Mateo Chiarino", ]
-_countries: ["Argentina", ]
-_languages: ["Spanish", ]
-_editor: ["Pablo Barbieri Carrera", ]
-_cinematographer: ["Rodrigo Pulpeiro", ]
-_music: ["Sergio Moure", ]
-_genres: ["Crime", ]
-_runtimes: ["106", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQ2MDk0MDE5OV5BMl5BanBnXkFtZTcwNTk0MTAzOQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQ2MDk0MDE5OV5BMl5BanBnXkFtZTcwNTk0MTAzOQ@@._V1._SX98_SY140_.jpg"
+stars: "3/5"
+desc: "Tese Sobre um Homicídio. Tesis sobre un homicidio (Argentina, 2013). Dirigido por Hernán Goldfrid. Escrito por Diego Paszkowski, Patricio Vega. Com Ricardo Darín, Alberto Ammann, Calu Rivero, Arturo Puig, Fabián Arenillas, Mara Bestelli, Antonio Ugo, José Luis Mazza, Mateo Chiarino."
 ---
 Ricardo Darín é um advogado que dá aulas e testemunhou com seus alunos o corpo de uma garota assassinada na frente de sua sala de aula, na Universidade de Advocacia de Buenos Aires. Na véspera havia ido ao lançamento de seu livro, A Estrutura da Justiça, onde tem uma conversa curiosa com um dos seus alunos, filho de um amigo de longa data. O aluno comenta que sua teoria sobre a justiça é que qualquer um pode matar borboletas se não pertencer a um poderoso, já que a lei só existe para protegê-los. Agora, adivinhe qual o inseto que havia no pingente que estava no pescoço da garota assassinada?
 

@@ -1,25 +1,11 @@
 ---
-imdb: "6573444"
-stars: "3/5"
 tags: ['cabine', 'mostrasp']
+imdb: "6573444"
 date: 2017-10-20T20:02:54
-title: "Human Flow"
 categories: "movies"
-_title: "Human Flow"
-_year: "2017"
-_director: ["Ai Weiwei", ]
-_writer: ["Chin-Chin Yap", "Tim Finch", "Boris Cheshirkov", ]
-_cast: ["Israa Abboud (Herself)", "Hiba Abed (Herself)", "Rami Abu Sondos (Himself)", "Asmaa Al-Bahiyya (Herself)", "Eman Al-Masina (Herself)", "Maya Ameratunga (Herself)", "Hanan Ashrawi (Interviewee)", "Peter Bouckaert (Himself)", "Boris Cheshirkov (Himself)", ]
-_countries: ["Germany", ]
-_languages: ["English", ]
-_editor: ["Nils Pagh Andersen", ]
-_cinematographer: ["Murat Bay", "Christopher Doyle", "Lv Hengzhong", "Wenhai Huang", "Koukoulis Konstantinos", "Renaat Lambeets", "Dongxu Li", "Johannes Waltermann", "Ai Weiwei", ]
-_music: ["Karsten Fundal", ]
-_genres: ["Documentary", ]
-_runtimes: ["140", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU4ODI2NjIzNF5BMl5BanBnXkFtZTgwNDQwMzUyMzI@.jpg"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU4ODI2NjIzNF5BMl5BanBnXkFtZTgwNDQwMzUyMzI@._V1._SX94_SY140_.jpg"
+title: "Human Flow"
+stars: "3/5"
+desc: "Human Flow. Human Flow (Germany, 2017). Dirigido por Ai Weiwei. Escrito por Chin-Chin Yap, Tim Finch, Boris Cheshirkov. Com Israa Abboud (Herself), Hiba Abed (Herself), Rami Abu Sondos (Himself), Asmaa Al-Bahiyya (Herself), Eman Al-Masina (Herself), Maya Ameratunga (Herself), Hanan Ashrawi (Interviewee), Peter Bouckaert (Himself), Boris Cheshirkov (Himself)."
 ---
 Human Flow é o documentário sobre refugiados que precisava ser feito, tanto pela sua qualidade estética quanto pela sua urgência social e política. Seu idealizador, o diretor também refugiado (da China) Ai Weiwei, é o homenageado da Mostra desse ano. É dele também a melhor tirada na entrevista coletiva após o filme, quando ele aponta a solução para um mundo mais justo e humano como sendo o invidívuo. "O poder está no indivíduo", diz o tradutor da entrevista, meio a contragosto.
 

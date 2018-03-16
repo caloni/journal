@@ -1,30 +1,12 @@
 ---
-date: "2016-06-10"
-tags: [ "cabine" ]
-categories: "movies"
-imdb: "4136084"
-stars: "4/5"
-title: "Florence - Quem é Essa Mulher?"
-review: ["2016-09-18"]
 tags: ['cabine', 'oscar']
-_title: "Florence Foster Jenkins"
-_year: "2016"
-_director: ["Stephen Frears", ]
-_writer: ["Nicholas Martin", ]
-_cast: ["Rebecca Ferguson", "Meryl Streep", "Hugh Grant", "Simon Helberg", "Neve Gachev", "Nina Arianda", "John Kavanagh", "Elliot Levey", "Dilyana Bouklieva", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Valerio Bonelli", ]
-_cinematographer: ["Danny Cohen", ]
-_music: ["Alexandre Desplat", ]
-_artdirection: ["Gareth Cousins", "Patrick Rolfe", "Christopher Wyatt", ]
-_costume designer: ["Consolata Boyle", ]
-_genres: ["Biography", ]
-_runtimes: ["110", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjA0Mzc4MjMxMl5BMl5BanBnXkFtZTgwODIwNTQxODE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjA0Mzc4MjMxMl5BMl5BanBnXkFtZTgwODIwNTQxODE@._V1._SX96_SY140_.jpg"
+imdb: "4136084"
+date: "2016-06-10"
+categories: "movies"
+title: "Florence - Quem é Essa Mulher?"
+review: ['2016-09-18']
+stars: "4/5"
+desc: "Florence - Quem é Essa Mulher?. Florence Foster Jenkins (UK, 2016). Dirigido por Stephen Frears. Escrito por Nicholas Martin. Com Rebecca Ferguson, Meryl Streep, Hugh Grant, Simon Helberg, Neve Gachev, Nina Arianda, John Kavanagh, Elliot Levey, Dilyana Bouklieva."
 ---
 Meryl Streep é tão boa que dá até raiva. Aqui ela faz uma socialite da década de 40 em Nova Iorque que não chega a ser um desastre como cantora de ópera, mas está claramente dando seus primeiros passos na música.
 

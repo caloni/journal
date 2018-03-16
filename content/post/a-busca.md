@@ -1,27 +1,11 @@
 ---
+tags: ['netflix']
+imdb: "2125425"
 date: "2016-11-02"
 categories: "movies"
 title: "A Busca"
-imdb: "2125425"
 stars: "3/5"
-tags: ['netflix']
-_title: "A Busca"
-_year: "2012"
-_director: ["Luciano Moura", ]
-_writer: ["Luciano Moura", "Elena Soarez", ]
-_cast: ["Wagner Moura (Theo Gadelha)", "Lima Duarte (Theo's Father)", "Mariana Lima (Branca)", "Brás Antunes (Pedro)", "Lucas de Araujo (China - garoto carona)", ]
-_countries: ["Brazil", ]
-_languages: ["Portuguese", ]
-_editor: ["Lucas Gonzaga", ]
-_cinematographer: ["Adrian Teijido", ]
-_artdirection: ["Marcelo Escañuela", ]
-_costume designer: ["Andrea Simonetti", ]
-_genres: ["Drama", ]
-_runtimes: ["96", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMDI4ZmQ5MmYtYzEzOC00NTAyLWExODgtMDYzMWM1ZjA1MTcxXkEyXkFqcGdeQXVyMTkzODUwNzk@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMDI4ZmQ5MmYtYzEzOC00NTAyLWExODgtMDYzMWM1ZjA1MTcxXkEyXkFqcGdeQXVyMTkzODUwNzk@._V1._SX94_SY140_.jpg"
+desc: "A Busca. A Busca (Brazil, 2012). Dirigido por Luciano Moura. Escrito por Luciano Moura, Elena Soarez. Com Wagner Moura (Theo Gadelha), Lima Duarte (Theo's Father), Mariana Lima (Branca), Brás Antunes (Pedro), Lucas de Araujo (China - garoto carona)."
 ---
 Wagner Moura é um ator bem versátil. Seja como Capitão Nascimento ou Pablo Escobar, Moura consegue através do tom de voz e dos movimentos de corpo denotar alguém menos ou mais vulnerável, alguém mais ou menos estressado. Seu Theo Gadelha é um pai de família recém-separado que concentra em seus óculos todo seu jeito atrapalhado de lidar com o mundo, com sua esposa, seu filho e, principalmente, seu pai.
 

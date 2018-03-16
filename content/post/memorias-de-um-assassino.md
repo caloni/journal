@@ -1,25 +1,10 @@
 ---
-date: "2013-01-01"
 imdb: "0353969"
+date: "2013-01-01"
+categories: "movies"
 title: "Memórias de um Assassino"
 stars: "4/5"
-categories: "movies"
-_title: "Salinui chueok"
-_year: "2003"
-_director: ["Joon-ho Bong", ]
-_writer: ["Joon-ho Bong", "Kwang-rim Kim", "Sung-bo Shim", ]
-_cast: ["Kang-ho Song", "Sang-kyung Kim", "Roe-ha Kim", "Jae-ho Song", "Hie-bong Byeon", "Seo-hie Ko", "No-shik Park", "Hae-il Park", "Jong-ryol Choi", ]
-_countries: ["South Korea", ]
-_languages: ["Korean", ]
-_editor: ["Sun-min Kim", ]
-_cinematographer: ["Hyung-ku Kim", ]
-_music: ["Tarô Iwashiro", ]
-_genres: ["Crime", ]
-_runtimes: ["Canada:129::(Toronto International Film Festival)", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTI5OTA5MTI3OF5BMl5BanBnXkFtZTcwMjQyNzYzMQ@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTI5OTA5MTI3OF5BMl5BanBnXkFtZTcwMjQyNzYzMQ@@._V1._SX97_SY140_.jpg"
+desc: "Memórias de um Assassino. Salinui chueok (South Korea, 2003). Dirigido por Joon-ho Bong. Escrito por Joon-ho Bong, Kwang-rim Kim, Sung-bo Shim. Com Kang-ho Song, Sang-kyung Kim, Roe-ha Kim, Jae-ho Song, Hie-bong Byeon, Seo-hie Ko, No-shik Park, Hae-il Park, Jong-ryol Choi."
 ---
 Memórias de um Assassino, do diretor Joon-ho Bong (O Hospedeiro, Mother - A Busca Pela Verdade), compreende que a principal faceta de uma investigação pode estar muitas vezes nos próprios investigadores. Apostando em nossa identificação com os detetives Park Doo-Man (Kang-ho Song) e Seo Tae-Yoon (Sang-kyung Kim), investe na dinâmica entre os dois desde até antes que o primeiro chegue na pequena cidade para ajudar as autoridades locais a desvendar o estupro e assassinato de duas bonitas jovens.
 

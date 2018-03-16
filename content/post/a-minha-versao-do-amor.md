@@ -1,25 +1,10 @@
 ---
-date: "2011-04-27"
 imdb: "1423894"
+date: "2011-04-27"
+categories: "movies"
 title: "A Minha Versão do Amor"
 stars: "5/5"
-categories: "movies"
-_title: "Barney's Version"
-_year: "2010"
-_director: ["Richard J. Lewis", ]
-_writer: ["Mordecai Richler", "Michael Konyves", ]
-_cast: ["Paul Giamatti", "Macha Grenon", "Paul Gross", "Atom Egoyan", "Mark Camacho", "David Pryde", "Paula Jean Hixson", "Mark Addy", "Scott Speedman", ]
-_countries: ["Canada", ]
-_languages: ["English", ]
-_editor: ["Susan Shipton", ]
-_cinematographer: ["Guy Dufaux", ]
-_music: ["Pasquale Catalano", ]
-_genres: ["Comedy", ]
-_runtimes: ["134", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTM4MTUwNDg0OF5BMl5BanBnXkFtZTcwMjUyODYxNA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTM4MTUwNDg0OF5BMl5BanBnXkFtZTcwMjUyODYxNA@@._V1._SX94_SY140_.jpg"
+desc: "A Minha Versão do Amor. Barney's Version (Canada, 2010). Dirigido por Richard J. Lewis. Escrito por Mordecai Richler, Michael Konyves. Com Paul Giamatti, Macha Grenon, Paul Gross, Atom Egoyan, Mark Camacho, David Pryde, Paula Jean Hixson, Mark Addy, Scott Speedman."
 ---
 Paul Giamatti é uma das melhores surpresas que se poderia esperar desse início de século para o cinema. Sempre envolvido em história no mínimo curiosas (Sideways) e em no máximo transcendentais (Sinédoque), temos aqui um conjunto das duas coisas espelhadas em um personagem desde os primeiros minutos de projeção que nos fascina pela sua mente conturbada e sua alma acuada, tão humano quanto qualquer um de nós foi em um dado período da vida.
 

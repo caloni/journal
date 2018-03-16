@@ -1,28 +1,12 @@
 ---
+tags: ['paulocoelho', 'westworld', 'series']
+imdb: "0475784"
 date: "2017-03-26"
 categories: "series"
 title: "Westworld - Primeira Temporada"
-imdb: "0475784"
 stars: "4/5"
-tags: ['paulocoelho', 'westworld', 'series']
 revision: ['2017-08-02']
-_title: "Westworld"
-_year: "2016"
-_director: ["Jonathan Nolan", "Fred Toye", ]
-_writer: ["Lisa Joy", "Jonathan Nolan", "Michael Crichton", "Halley Wegryn Gross", "Dan Dietz", "Charles Yu", ]
-_cast: ["Evan Rachel Wood (Dolores Abernathy)", "Thandie Newton (Maeve Millay)", "James Marsden (Teddy Flood)", "Jeffrey Wright (Bernard Lowe)", "Ed Harris (Man in Black)", "Anthony Hopkins (Dr. Robert Ford)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Andrew Seklir", "Tanya M. Swerling", "Mark Yoshikawa", ]
-_cinematographer: ["Brendan Galvin", "Robert McLachlan", "Paul Cameron", "Jeff Jur", ]
-_music: ["Ramin Djawadi", ]
-_artdirection: ["Jonathan Carlos", "Dennis Bradford", "Robert Woodruff", "Samantha Avila", "Steve Christensen", "Kit Stølen", "Colin De Rouin", ]
-_costume designer: ["Ane Crabtree", ]
-_genres: ["Drama", ]
-_runtimes: ["60", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTEyODk5NTc2MjNeQTJeQWpwZ15BbWU4MDQ5NTgwOTkx.jpg"
-_kind: "tv series"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTEyODk5NTc2MjNeQTJeQWpwZ15BbWU4MDQ5NTgwOTkx._V1._SX94_SY140_.jpg"
+desc: "Westworld - Primeira Temporada. Westworld (USA, 2016). Dirigido por Jonathan Nolan, Fred Toye. Escrito por Lisa Joy, Jonathan Nolan, Michael Crichton, Halley Wegryn Gross, Dan Dietz, Charles Yu. Com Evan Rachel Wood (Dolores Abernathy), Thandie Newton (Maeve Millay), James Marsden (Teddy Flood), Jeffrey Wright (Bernard Lowe), Ed Harris (Man in Black), Anthony Hopkins (Dr. Robert Ford)."
 ---
 Eu fui programado para escrever esse texto? Posso responder, na melhor das hipóteses, que eu estar escrevendo este texto é consequência da soma das minhas ações. No entanto, volta outra pergunta no lugar: eu fui programado para executar tais ações?
 

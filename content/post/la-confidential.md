@@ -1,25 +1,10 @@
 ---
-date: "2014-11-09"
 imdb: "0119488"
+date: "2014-11-09"
+categories: "movies"
 title: "L.A. Confidential"
 stars: "5/5"
-categories: "movies"
-_title: "L.A. Confidential"
-_year: "1997"
-_director: ["Curtis Hanson", ]
-_writer: ["James Ellroy", "Brian Helgeland", "Curtis Hanson", ]
-_cast: ["Kevin Spacey", "Russell Crowe", "Guy Pearce", "James Cromwell", "Kim Basinger", "Danny DeVito", "David Strathairn", "Ron Rifkin", "Matt McCoy", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Peter Honess", ]
-_cinematographer: ["Dante Spinotti", ]
-_music: ["Jerry Goldsmith", ]
-_genres: ["Crime", ]
-_runtimes: ["138", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQ5MTU4MzQ5NF5BMl5BanBnXkFtZTcwMjY1OTM2MQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQ5MTU4MzQ5NF5BMl5BanBnXkFtZTcwMjY1OTM2MQ@@._V1._SX95_SY140_.jpg"
+desc: "L.A. Confidential. L.A. Confidential (USA, 1997). Dirigido por Curtis Hanson. Escrito por James Ellroy, Brian Helgeland, Curtis Hanson. Com Kevin Spacey, Russell Crowe, Guy Pearce, James Cromwell, Kim Basinger, Danny DeVito, David Strathairn, Ron Rifkin, Matt McCoy."
 ---
 O que torna os personagens de L.A. Confidential (que se exploda o título nacional) tão bons é o fato deles serem críveis a ponto de acreditarmos em sua existência na vida real. Porém, a atmosfera apresentada pelo livro homônimo de James Ellroy não é de vida real. Então voltemos ao que faz desses personagens uma referência a ser seguida: eles são realistas e ainda conseguem existir em um filme noir ou um policial de décadas passadas (que é o que temos) sem soar piegas ou estilizados demais. Ou pior: ridicularizados pela situação. Aliás, ocorre justamente o contrário: suas "credenciais" do mundo real permitem que eles consigam atravessar a quarta parede mesmo que manchados de nanquim. São perfeitos para a história de corrupção da polícia de Los Angeles da época da lei seca que o filme pretende retratar.
 

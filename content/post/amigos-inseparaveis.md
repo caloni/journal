@@ -1,25 +1,10 @@
 ---
-date: "2013-03-12"
 imdb: "1389096"
+date: "2013-03-12"
+categories: "movies"
 title: "Amigos Inseparáveis"
 stars: "4/5"
-categories: "movies"
-_title: "Stand Up Guys"
-_year: "2012"
-_director: ["Fisher Stevens", ]
-_writer: ["Noah Haidle", ]
-_cast: ["Al Pacino", "Christopher Walken", "Alan Arkin", "Julianna Margulies", "Mark Margolis", "Lucy Punch", "Addison Timlin", "Vanessa Ferlito", "Katheryn Winnick", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Mark Livolsi", ]
-_cinematographer: ["Michael Grady", ]
-_music: ["Lyle Workman", ]
-_genres: ["Comedy", ]
-_runtimes: ["USA:95", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTgwNjgyOTExMV5BMl5BanBnXkFtZTcwNTIzODA1OA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTgwNjgyOTExMV5BMl5BanBnXkFtZTcwNTIzODA1OA@@._V1._SX94_SY140_.jpg"
+desc: "Amigos Inseparáveis. Stand Up Guys (USA, 2012). Dirigido por Fisher Stevens. Escrito por Noah Haidle. Com Al Pacino, Christopher Walken, Alan Arkin, Julianna Margulies, Mark Margolis, Lucy Punch, Addison Timlin, Vanessa Ferlito, Katheryn Winnick."
 ---
 Enquanto brutamontes e velhos heróis caindo aos pedaços resolvem voltar à ativa como objetos aparentemente invulneráveis contra a ação do tempo (Bruce Willis em Duro de Matar, Schwarzenegger em Os Mercenários), Al Pacino, Alan Arkin e Christopher Walken vão no caminho oposto, exaltando as diferenças de um jeito antigo de fazer cinema jogando em nossa cara, mas ao mesmo tempo reinventando-se como metalinguagem, uma maneira nostálgica que ao mesmo tempo discute nossa geração: onde foi que começamos a ficar mais distantes da vida, cada vez mais vidrados em uma tela de celular? Quando foi que deixamos de fazer algo arriscado ou mesmo fora da "tirania da rotina", como faz o personagem de Al Pacino?
 

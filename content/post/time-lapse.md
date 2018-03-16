@@ -1,28 +1,11 @@
 ---
+tags: ['netflix']
+imdb: "2669336"
 date: "2017-04-04"
 categories: "movies"
 title: "Time Lapse"
-imdb: "2669336"
 stars: "3/5"
-tags: ['netflix']
-_title: "Time Lapse"
-_year: "2014"
-_director: ["Bradley King", ]
-_writer: ["Bradley King", "Bp Cooper", ]
-_cast: ["Danielle Panabaker (Callie)", "Matt O'Leary (Finn)", "George Finn (Jasper)", "John Rhys-Davies (Mr. Bezzerides)", "Amin Joseph (Big Joe)", "Jason Spisak (Ivan)", "Sharon Maughan (Dr. Heidecker)", "David Figlioli (Marcus)", "Judith Drake (Mrs. Anderson)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Tom Cross", ]
-_cinematographer: ["Jonathan Wenstrup", ]
-_music: ["Andrew Kaiser", ]
-_artdirection: ["Kaz Yamaguchi", ]
-_costume designer: ["Mishka Trachtenberg", ]
-_genres: ["Sci-Fi", ]
-_runtimes: ["104", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNzM2MDc3NTA3N15BMl5BanBnXkFtZTgwNzA5OTMyNTE@.jpg"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNzM2MDc3NTA3N15BMl5BanBnXkFtZTgwNzA5OTMyNTE@._V1._SX94_SY140_.jpg"
-_releasedate: "18 May 2014 (Fantaspoa - International Fantastic Film Festival)"
+desc: "Time Lapse. Time Lapse (USA, 2014). Dirigido por Bradley King. Escrito por Bradley King, Bp Cooper. Com Danielle Panabaker (Callie), Matt O'Leary (Finn), George Finn (Jasper), John Rhys-Davies (Mr. Bezzerides), Amin Joseph (Big Joe), Jason Spisak (Ivan), Sharon Maughan (Dr. Heidecker), David Figlioli (Marcus), Judith Drake (Mrs. Anderson)."
 ---
 Mais um filme de viagem no tempo. Dessa vez quem viaja é só a luz. Uma câmera tira fotos 24 horas no futuro e entrega para três jovens que perderam a capacidade do livre-arbítrio. Isso porque agora eles precisam reproduzir a foto tirada custe o que custar, se não quiserem morrer.
 

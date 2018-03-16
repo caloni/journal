@@ -1,24 +1,10 @@
 ---
-date: "2011-11-27"
 imdb: "0067185"
+date: "2011-11-27"
+categories: "movies"
 title: "Ensina-me a Viver"
 stars: "4/5"
-categories: "movies"
-_title: "Harold and Maude"
-_year: "1971"
-_director: ["Hal Ashby", ]
-_writer: ["Colin Higgins", ]
-_cast: ["Ruth Gordon", "Bud Cort", "Vivian Pickles", "Cyril Cusack", "Charles Tyner", "Ellen Geer", "Eric Christmas", "G. Wood", "Judy Engles", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["William A. Sawyer", "Edward Warschilka", ]
-_cinematographer: ["John A. Alonzo", ]
-_genres: ["Comedy", ]
-_runtimes: ["91", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTUxMjMwODMxMl5BMl5BanBnXkFtZTYwMDA3MDE5.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTUxMjMwODMxMl5BMl5BanBnXkFtZTYwMDA3MDE5._V1._SX76_SY140_.jpg"
+desc: "Ensina-me a Viver. Harold and Maude (USA, 1971). Dirigido por Hal Ashby. Escrito por Colin Higgins. Com Ruth Gordon, Bud Cort, Vivian Pickles, Cyril Cusack, Charles Tyner, Ellen Geer, Eric Christmas, G. Wood, Judy Engles."
 ---
 Harold é um garoto problemático para sua idade. Obcecado em fingir suicídios e sentindo prazer em frequentar enterros, não possui outra pretensão na vida. Introspecto e de poucas palavras, o uso de músicas existencialistas em torno dos seus atos aprofunda ainda mais seus sentimentos.
 

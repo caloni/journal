@@ -1,25 +1,10 @@
 ---
-date: "2011-11-28"
 imdb: "1541160"
+date: "2011-11-28"
+categories: "movies"
 title: "Assalto em Dose Dupla"
 stars: "3/5"
-categories: "movies"
-_title: "Flypaper"
-_year: "2011"
-_director: ["Rob Minkoff", ]
-_writer: ["Jon Lucas", "Scott Moore", ]
-_cast: ["Patrick Dempsey", "Ashley Judd", "Tim Blake Nelson", "Mekhi Phifer", "Matt Ryan", "Jeffrey Tambor", "John Ventimiglia", "Pruitt Taylor Vince", "Curtis Armstrong", ]
-_countries: ["Germany", ]
-_languages: ["English", ]
-_editor: ["Tom Finan", ]
-_cinematographer: ["Steven Poster", ]
-_music: ["John Swihart", ]
-_genres: ["Comedy", ]
-_runtimes: ["87", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMzU3NjM1MTk5NF5BMl5BanBnXkFtZTcwNDI4NDQ4NQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMzU3NjM1MTk5NF5BMl5BanBnXkFtZTcwNDI4NDQ4NQ@@._V1._SX91_SY140_.jpg"
+desc: "Assalto em Dose Dupla. Flypaper (Germany, 2011). Dirigido por Rob Minkoff. Escrito por Jon Lucas, Scott Moore. Com Patrick Dempsey, Ashley Judd, Tim Blake Nelson, Mekhi Phifer, Matt Ryan, Jeffrey Tambor, John Ventimiglia, Pruitt Taylor Vince, Curtis Armstrong."
 ---
 Apenas o fato da direção de arte de Assalto em Dose Dupla tentar fazer lembrar os detalhes do banco de Um Dia de Cão chega a parecer uma ofensa, pois enquanto o clássico de Sidney Lumet tenta fazer rir através do inusitado em um assalto, mas sempre se lembrando que todos os envolvidos são seres humanos, o roteiro de Jon Lucas e Scott Moore (ambos de Se Beber Não Case) cria constrangimentos a partir de estereótipos que cria, como se apenas isso fosse motivo de risadas, o que de fato se comprova, pois a maioria das piadas se limita a apenas isso.
 

@@ -1,24 +1,10 @@
 ---
-date: "2013-01-24"
 imdb: "0120533"
+date: "2013-01-24"
+categories: "movies"
 title: "Celebridades"
 stars: "4/5"
-categories: "movies"
-_title: "Celebrity"
-_year: "1998"
-_director: ["Woody Allen", ]
-_writer: ["Woody Allen", ]
-_cast: ["Greg Mottola", "Jeff Mazzola", "Dick Mingalone", "Vladimir Bibic", "Melanie Griffith", "Francisco Quidjada", "Aleksa Palladino", "Dan Moran", "Peter Castellotti", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Susan E. Morse", ]
-_cinematographer: ["Sven Nykvist", ]
-_genres: ["Comedy", ]
-_runtimes: ["113", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQwNDc4NjAwNV5BMl5BanBnXkFtZTcwMzg5MDYyMQ@@.jpg"
-_ratio: "1.66 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQwNDc4NjAwNV5BMl5BanBnXkFtZTcwMzg5MDYyMQ@@._V1._SX95_SY140_.jpg"
+desc: "Celebridades. Celebrity (USA, 1998). Dirigido por Woody Allen. Escrito por Woody Allen. Com Greg Mottola, Jeff Mazzola, Dick Mingalone, Vladimir Bibic, Melanie Griffith, Francisco Quidjada, Aleksa Palladino, Dan Moran, Peter Castellotti."
 ---
 O que dizer da fase Woody Allen onde ele se propôs a produzir um filme por ano e consegue reunir um elenco tão afiado que conseguem desempenhar papéis que, mesmo longe do seu brilhantismo, participam do universo do diretor de maneira tão orgânica? Temos aqui dois "Allens": o escritor/roteirista Lee Simon (Kenneth Branagh), que possui sua baixo autoestima como gancho de todos os seus fracassos, e sua mulher, a professora Robin Simon (Judy Davis), cuja transformação à base de neurose e uma boa dose de sorte a torna a heroína às avessas da história.
 

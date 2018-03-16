@@ -1,25 +1,10 @@
 ---
-date: "2012-12-18"
 imdb: "1454029"
+date: "2012-12-18"
+categories: "movies"
 title: "Histórias Cruzadas"
 stars: "3/5"
-categories: "movies"
-_title: "The Help"
-_year: "2011"
-_director: ["Tate Taylor", ]
-_writer: ["Tate Taylor", "Kathryn Stockett", ]
-_cast: ["Emma Stone", "Viola Davis", "Bryce Dallas Howard", "Octavia Spencer", "Jessica Chastain", "Ahna O'Reilly", "Allison Janney", "Anna Camp", "Eleanor Henry", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Hughes Winborne", ]
-_cinematographer: ["Stephen Goldblatt", ]
-_music: ["Thomas Newman", ]
-_genres: ["Drama", ]
-_runtimes: ["USA:146", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTM5OTMyMjIxOV5BMl5BanBnXkFtZTcwNzU4MjIwNQ@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTM5OTMyMjIxOV5BMl5BanBnXkFtZTcwNzU4MjIwNQ@@._V1._SX94_SY140_.jpg"
+desc: "Histórias Cruzadas. The Help (USA, 2011). Dirigido por Tate Taylor. Escrito por Tate Taylor, Kathryn Stockett. Com Emma Stone, Viola Davis, Bryce Dallas Howard, Octavia Spencer, Jessica Chastain, Ahna O'Reilly, Allison Janney, Anna Camp, Eleanor Henry."
 ---
 Depois de um filme inteiro martelando a segregação entre negros e brancos, a cena em que uma branca prepara um banquete para sua empregada negra é emocionante por detectarmos finalmente sentimentos naturais a qualquer ser humano sadio: solidariedade, compaixão, gratidão, respeito. O que não é natural é descobrirmos os sentimentos contraditórios presentes durante todo Histórias Cruzadas.
 

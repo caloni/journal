@@ -1,23 +1,10 @@
 ---
-date: "2015-06-04"
 imdb: "1816518"
-stars: "3/5"
+date: "2015-06-04"
 categories: "movies"
 title: "Ernest and Célestine"
-_title: "Ernest et Célestine"
-_year: "2012"
-_director: ["Stéphane Aubier", "Vincent Patar", "Benjamin Renner", ]
-_writer: ["Gabrielle Vincent", "Daniel Pennac", ]
-_cast: ["Forest Whitaker", "Lambert Wilson", "Pauline Brunner", "Mackenzie Foy", "Lauren Bacall", "Anne-Marie Loop", "Paul Giamatti", "Patrice Melennec", "William H. Macy", ]
-_countries: ["France", ]
-_languages: ["French", ]
-_music: ["Vincent Courtois", ]
-_genres: ["Animation", ]
-_runtimes: ["80", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjA3NzA5ODY4M15BMl5BanBnXkFtZTgwMzU5ODMwMTE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjA3NzA5ODY4M15BMl5BanBnXkFtZTgwMzU5ODMwMTE@._V1._SX96_SY140_.jpg"
+stars: "3/5"
+desc: "Ernest and Célestine. Ernest et Célestine (France, 2012). Dirigido por Stéphane Aubier, Vincent Patar, Benjamin Renner. Escrito por Gabrielle Vincent, Daniel Pennac. Com Forest Whitaker, Lambert Wilson, Pauline Brunner, Mackenzie Foy, Lauren Bacall, Anne-Marie Loop, Paul Giamatti, Patrice Melennec, William H. Macy."
 ---
 É um desenho de 2012, indicado ao Oscar de 2014, que estreou na Netflix esse mês (2015). Falado em francês e dirigido por três pessoas, o filme parece possuir um maior poder de marketing do que de contar uma história diferente do que o velho clichê "eles vivem em mundos diferentes". Contudo, é bem desenhado, mantendo suas virtudes em seu toque artístico.
 

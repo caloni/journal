@@ -1,24 +1,10 @@
 ---
-date: "2014-01-13"
 imdb: "1767382"
+date: "2014-01-13"
+categories: "movies"
 title: "A Casa Silenciosa"
 stars: "4/5"
-categories: "movies"
-_title: "Silent House"
-_year: "2011"
-_director: ["Chris Kentis", "Laura Lau", ]
-_writer: ["Gustavo Hernández", "Laura Lau", ]
-_cast: ["Elizabeth Olsen", "Adam Trese", "Eric Sheffer Stevens", "Julia Taylor Ross", "Adam Barnett", "Haley Murphy", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_cinematographer: ["Igor Martinovic", ]
-_music: ["Nathan Larson", ]
-_genres: ["Horror", ]
-_runtimes: ["86", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTUzOTc2NjQ3MV5BMl5BanBnXkFtZTcwNzk3ODUzNw@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTUzOTc2NjQ3MV5BMl5BanBnXkFtZTcwNzk3ODUzNw@@._V1._SX94_SY140_.jpg"
+desc: "A Casa Silenciosa. Silent House (USA, 2011). Dirigido por Chris Kentis, Laura Lau. Escrito por Gustavo Hernández, Laura Lau. Com Elizabeth Olsen, Adam Trese, Eric Sheffer Stevens, Julia Taylor Ross, Adam Barnett, Haley Murphy."
 ---
 Quando eu digo que os falsos documentários já atingiram seu nível de saturação e o ultrapassaram, como o recente Atividade Paranormal conseguiu provar pela falta de justificativas para o uso de câmera em tantas situações diferentes, eis que surge o remake franco-americano de 2011 (de uma produção uruguaia de 2010) filmado inteiramente em uma sequência sem cortes de arrebentar os nervos.
 

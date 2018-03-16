@@ -1,25 +1,10 @@
 ---
-date: "2016-03-27"
 imdb: "4908644"
-stars: "5/5"
+date: "2016-03-27"
 categories: "movies"
 title: "Winter on Fire"
-_title: "Winter on Fire: Ukraine's Fight for Freedom"
-_year: "2015"
-_director: ["Evgeny Afineevsky", ]
-_writer: ["Den Tolmor", ]
-_cast: ["Bishop Agapit", "Serhii Averchenko", "Kristina Berdinskikh", "Pavlo Dobryanskyy", "Valery Dovgiy", "Bogdan Dubas", "Kurganskyi Eduard", "Mykhailo Havryliuk", "Natan Hazin", ]
-_countries: ["UK", ]
-_languages: ["Ukrainian", ]
-_editor: ["Will Znidaric", ]
-_cinematographer: ["Evgeny Afineevsky", "Oleg Balaban", "Maxim Bernakevich", "Ruslan Ganushchak", "Eduard Georgadze", "Inna Goncharova", "Kostyantyn Ignatchuk", "Alex Kashpur", "Lizogub Khrystyna", ]
-_music: ["Jasha Klebe", ]
-_genres: ["Documentary", ]
-_runtimes: ["102", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNTY4MDgwOTI3M15BMl5BanBnXkFtZTgwNjYxMjU3NjE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNTY4MDgwOTI3M15BMl5BanBnXkFtZTgwNjYxMjU3NjE@._V1._SX94_SY140_.jpg"
+stars: "5/5"
+desc: "Winter on Fire. Winter on Fire: Ukraine's Fight for Freedom (UK, 2015). Dirigido por Evgeny Afineevsky. Escrito por Den Tolmor. Com Bishop Agapit, Serhii Averchenko, Kristina Berdinskikh, Pavlo Dobryanskyy, Valery Dovgiy, Bogdan Dubas, Kurganskyi Eduard, Mykhailo Havryliuk, Natan Hazin."
 ---
 Um hino à liberdade em três atos. No primeiro ato, a repulsa à traição do líder máximo da nação com uma manifestação espontânea e apartidária. No segundo ato, um cenário de conflitos que são dominados pelo patriotismo e organização cooperativa. No terceiro ato, o estado, esse monstro disforme que mata tudo que toca, revela sua última faceta, e transforma o hino de liberdade em um banho de sangue.
 

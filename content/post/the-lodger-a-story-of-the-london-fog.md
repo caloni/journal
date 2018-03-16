@@ -1,27 +1,11 @@
 ---
+tags: ['paulocoelho']
+imdb: "0017075"
 date: "2017-01-11"
 categories: "movies"
 title: "The Lodger: A Story of the London Fog"
-imdb: "0017075"
 stars: "4/5"
-tags: ['paulocoelho']
-_title: "The Lodger: A Story of the London Fog"
-_year: "1927"
-_director: ["Alfred Hitchcock", ]
-_writer: ["Marie Belloc Lowndes", "Eliot Stannard", "Alfred Hitchcock", ]
-_cast: ["Marie Ault (The landlady)", "Arthur Chesney (Her husband)", "June Tripp (a mannequin Daisy)", "Malcolm Keen (a police detective Joe)", "Ivor Novello (The Lodger)", "Reginald Gardiner (Dancer at Ball)", "Eve Gray (Showgirl Victim)", "Alfred Hitchcock (Extra in Newspaper Office)", "Alma Reville (Woman Listening to Wireless)", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Ivor Montagu", ]
-_cinematographer: ["Gaetano di Ventimiglia", "Hal Young", ]
-_music: ["Ashley Irwin", ]
-_artdirection: ["C. Wilfred Arnold", "Bertram Evans", ]
-_genres: ["Crime", ]
-_runtimes: ["74::(National Film Archive print)", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM5NjE0MDIxMF5BMl5BanBnXkFtZTcwMTk5OTY1NQ@@._V1._CR47.883331298828125,38.53334045410156,262,408._SX90_SY140_.jpg"
-_ratio: "1.33 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM5NjE0MDIxMF5BMl5BanBnXkFtZTcwMTk5OTY1NQ@@._V1._CR47.883331298828125,38.53334045410156,262,408._SX90_SY140_.jpg"
+desc: "The Lodger: A Story of the London Fog. The Lodger: A Story of the London Fog (UK, 1927). Dirigido por Alfred Hitchcock. Escrito por Marie Belloc Lowndes, Eliot Stannard, Alfred Hitchcock. Com Marie Ault (The landlady), Arthur Chesney (Her husband), June Tripp (a mannequin Daisy), Malcolm Keen (a police detective Joe), Ivor Novello (The Lodger), Reginald Gardiner (Dancer at Ball), Eve Gray (Showgirl Victim), Alfred Hitchcock (Extra in Newspaper Office), Alma Reville (Woman Listening to Wireless)."
 ---
 O primeiro filme sobre crime de Hitchcock já contém vários elementos que indicam a que veio esse diretor, que já demonstrava inventividade em seus trabalhos anteriores. Aqui ele mantém algumas boas ideias (como a câmera subjetiva, girando no meio de um quarto, olhando o reflexo do rosto no vidro, e até caminhando furioso em direção a uma pessoa amedrontada) e cria tantas outras novas. Porém, mais que isso, constrói um belo filme através de um roteiro até que mediano.
 

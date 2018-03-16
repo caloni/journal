@@ -1,28 +1,11 @@
 ---
+tags: ['cinema', 'oscar']
+imdb: "2660888"
 date: "2016-09-07"
 categories: "movies"
 title: "Star Trek: Sem Fronteiras"
-imdb: "2660888"
 stars: "3/5"
-tags: ['cinema', 'oscar']
-_title: "Star Trek Beyond"
-_year: "2016"
-_director: ["Justin Lin", ]
-_writer: ["Simon Pegg", "Doug Jung", "Gene Roddenberry", "Patrick McKay", "Roberto Orci", "John D. Payne", ]
-_cast: ["Chris Pine", "Zachary Quinto", "Karl Urban", "Zoe Saldana", "Simon Pegg", "John Cho", "Anton Yelchin", "Idris Elba", "Sofia Boutella", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Greg D'Auria", "Dylan Highsmith", "Kelly Matsumoto", "Steven Sprung", ]
-_cinematographer: ["Stephen F. Windon", ]
-_music: ["Michael Giacchino", ]
-_artdirection: ["Salim Alrazouk", "Steve Christensen", "Denny Dugally", "Natasha Gerasimova", "Dan Hermansen", "Andrew Li", "Don Macaulay", "Harry E. Otto", "Lauren E. Polizzi", ]
-_costume designer: ["Sanja Milkovic Hays", ]
-_genres: ["Action", ]
-_runtimes: ["122", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BODgzN2E1YjctODg5Yi00YzYwLWJjZjAtNDg2MGE2Y2MyYjBmXkEyXkFqcGdeQXVyNjM1MTQ0NTQ@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BODgzN2E1YjctODg5Yi00YzYwLWJjZjAtNDg2MGE2Y2MyYjBmXkEyXkFqcGdeQXVyNjM1MTQ0NTQ@._V1._SX90_SY140_.jpg"
+desc: "Star Trek: Sem Fronteiras. Star Trek Beyond (USA, 2016). Dirigido por Justin Lin. Escrito por Simon Pegg, Doug Jung, Gene Roddenberry, Patrick McKay, Roberto Orci, John D. Payne. Com Chris Pine, Zachary Quinto, Karl Urban, Zoe Saldana, Simon Pegg, John Cho, Anton Yelchin, Idris Elba, Sofia Boutella."
 ---
 O reboot megalomaníaco da série de filmes inspirada pela série televisiva nerd dos anos 60 está com muita bala na agulha para poder gastar e pouca vontade de arriscar. Isso quer dizer que o novo filme com Capitão Kirk e Spock tem basicamente o mesmo enredo do filme anterior (Além da Escuridão) tirando a emoção.
 

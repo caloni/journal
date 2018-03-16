@@ -1,25 +1,11 @@
 ---
+tags: ['netflix']
+imdb: "3312868"
 date: "2017-03-26"
 categories: "movies"
 title: "Deep Web"
-imdb: "3312868"
 stars: "4/5"
-tags: ['netflix']
-_title: "Deep Web"
-_year: "2015"
-_director: ["Alex Winter", ]
-_writer: ["Alex Winter", ]
-_cast: ["Nicolas Christin (Himself)", "Cindy Cohn (Herself)", "Joshua L. Dratel (Himself)", "Andy Greenberg (Himself)", "Keanu Reeves (Narration)", "Runa Sandvik (Herself)", "Todd Shipley (Himself)", "Christopher Soghoian (Himself)", "Amir Taaki (Himself)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Dan Swietlik", ]
-_cinematographer: ["Anghel Decca", "Joe DeSalvo", ]
-_music: ["Pedro Bromfman", ]
-_genres: ["Documentary", ]
-_runtimes: ["90", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjQwMTI0NzcyOF5BMl5BanBnXkFtZTgwNzkzMTg0NDE@.jpg"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjQwMTI0NzcyOF5BMl5BanBnXkFtZTgwNzkzMTg0NDE@._V1._SX95_SY140_.jpg"
+desc: "Deep Web. Deep Web (USA, 2015). Dirigido por Alex Winter. Escrito por Alex Winter. Com Nicolas Christin (Himself), Cindy Cohn (Herself), Joshua L. Dratel (Himself), Andy Greenberg (Himself), Keanu Reeves (Narration), Runa Sandvik (Herself), Todd Shipley (Himself), Christopher Soghoian (Himself), Amir Taaki (Himself)."
 ---
 Este é um documentário que irá te dar uma visão diametralmente oposta do que você já ouviu falar sobre a deep web na mídia. Para começo de conversa, o filme não fala sobre assassinos e pedófilos, e quando fala sobre crimes cibernéticos, estranhamente eles são cometidos sem vítimas. A venda de drogas em um site chamado Silk Road se apresenta um mercado onde vendedores e compradores conseguem, sem o uso da violência e evitando riscos físicos, trocar drogas de todos os tipos.
 

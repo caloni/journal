@@ -1,25 +1,10 @@
 ---
-date: "2012-11-29"
 imdb: "1659337"
+date: "2012-11-29"
+categories: "movies"
 title: "As Vantagens de Ser Invisível"
 stars: "5/5"
-categories: "movies"
-_title: "The Perks of Being a Wallflower"
-_year: "2012"
-_director: ["Stephen Chbosky", ]
-_writer: ["Stephen Chbosky", "Stephen Chbosky", ]
-_cast: ["Logan Lerman", "Dylan McDermott", "Kate Walsh", "Patrick de Ledebur", "Johnny Simmons", "Brian Balzerini", "Tom Kruszewski", "Nina Dobrev", "Nicholas Braun", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Mary Jo Markey", ]
-_cinematographer: ["Andrew Dunn", ]
-_music: ["Michael Brook", ]
-_genres: ["Drama", ]
-_runtimes: ["102", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMzIxOTQyODU1OV5BMl5BanBnXkFtZTcwMDQ4Mjg4Nw@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMzIxOTQyODU1OV5BMl5BanBnXkFtZTcwMDQ4Mjg4Nw@@._V1._SX95_SY140_.jpg"
+desc: "As Vantagens de Ser Invisível. The Perks of Being a Wallflower (USA, 2012). Dirigido por Stephen Chbosky. Escrito por Stephen Chbosky, Stephen Chbosky. Com Logan Lerman, Dylan McDermott, Kate Walsh, Patrick de Ledebur, Johnny Simmons, Brian Balzerini, Tom Kruszewski, Nina Dobrev, Nicholas Braun."
 ---
 Primeiro filme dirigido por Stephen Chbosky depois de 95, a história do tímido Charlie parte do roteiro e romance escritos pelo mesmo Chbosky. Se não possui traços bibliográficos, ou mesmo que possua, há um mérito considerável em conseguir narrar o arco dramático de um protagonista adolescente sob sua ótica e ainda conseguir a proeza de ser poético, intenso e divertido durante cada momento.
 

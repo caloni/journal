@@ -1,25 +1,10 @@
 ---
-date: "2012-11-17"
 imdb: "1324999"
+date: "2012-11-17"
+categories: "movies"
 title: "A Saga Crepúsculo Amanhecer Parte 1"
 stars: "2/5"
-categories: "movies"
-_title: "The Twilight Saga: Breaking Dawn - Part 1"
-_year: "2011"
-_director: ["Bill Condon", ]
-_writer: ["Melissa Rosenberg", "Stephenie Meyer", ]
-_cast: ["Taylor Lautner", "Gil Birmingham", "Billy Burke", "Sarah Clarke", "Ty Olsson", "Kristen Stewart", "Ashley Greene", "Jackson Rathbone", "Peter Facinelli", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Virginia Katz", ]
-_cinematographer: ["Guillermo Navarro", ]
-_music: ["Carter Burwell", ]
-_genres: ["Adventure", ]
-_runtimes: ["117", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BODgxNDE0OTAzOF5BMl5BanBnXkFtZTcwNzcwODE2Ng@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BODgxNDE0OTAzOF5BMl5BanBnXkFtZTcwNzcwODE2Ng@@._V1._SX94_SY140_.jpg"
+desc: "A Saga Crepúsculo Amanhecer Parte 1. The Twilight Saga: Breaking Dawn - Part 1 (USA, 2011). Dirigido por Bill Condon. Escrito por Melissa Rosenberg, Stephenie Meyer. Com Taylor Lautner, Gil Birmingham, Billy Burke, Sarah Clarke, Ty Olsson, Kristen Stewart, Ashley Greene, Jackson Rathbone, Peter Facinelli."
 ---
 Se pudéssemos abstrair o fato de que desde seu início a "saga" Crepúsculo não teve uma única linha narrativa que conseguisse manter de fato uma história com começo, meio e fim, seria possível dizer que "Amanhecer: Parte 1"  penúltimo filme da série  ganha em ritmo próximo ao seu final e consegue nos fazer esquecer, através do seu design de arte mais aprimorado que seus antecessores, os vampiros brilhantes de Stephenie Meyer, que subiam em árvores como macaquinhos excitados.
 

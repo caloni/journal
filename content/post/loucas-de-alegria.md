@@ -1,27 +1,11 @@
 ---
-date: "2016-08-17"
-tags: [ "cabine" ]
-categories: "movies"
+tags: ['cabine']
 imdb: "4621872"
-stars: "5/5"
+date: "2016-08-17"
+categories: "movies"
 title: "Loucas de Alegria"
-_title: "La pazza gioia"
-_year: "2016"
-_director: ["Paolo Virzì", ]
-_writer: ["Paolo Virzì", "Paolo Virzì", "Francesca Archibugi", ]
-_cast: ["Micaela Ramazzotti", "Valeria Bruni Tedeschi", "Valentina Carnelutti", "Marco Messeri", "Bob Messini", "Roberto Rondelli", "Anna Galiena", "Tommaso Ragno", "Sergio Albelli", ]
-_countries: ["Italy", ]
-_languages: ["Italian", ]
-_editor: ["Cecilia Zanuso", ]
-_cinematographer: ["Vladan Radovic", ]
-_music: ["Carlo Virzì", ]
-_costume designer: ["Katia Dottori", ]
-_genres: ["Comedy", ]
-_runtimes: ["118", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BOTM0NzhlNjMtZWEzMS00ZTY0LWIxNjMtMjZlYjdhODBkMTVkXkEyXkFqcGdeQXVyMTQwMjkwNjI@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BOTM0NzhlNjMtZWEzMS00ZTY0LWIxNjMtMjZlYjdhODBkMTVkXkEyXkFqcGdeQXVyMTQwMjkwNjI@._V1._SX98_SY140_.jpg"
+stars: "5/5"
+desc: "Loucas de Alegria. La pazza gioia (Italy, 2016). Dirigido por Paolo Virzì. Escrito por Paolo Virzì, Paolo Virzì, Francesca Archibugi. Com Micaela Ramazzotti, Valeria Bruni Tedeschi, Valentina Carnelutti, Marco Messeri, Bob Messini, Roberto Rondelli, Anna Galiena, Tommaso Ragno, Sergio Albelli."
 ---
 Valeria Bruni Tedeschi faz uma personagem bipolar aparentemente rica e de bom gosto que quase arrebata todo o filme para si. Felizmente, ela tem que competir o tempo de tela com a sutil e complexa Micaela Ramazzotti em um papel difícil, mas que justamente por isso torna a união entre as duas algo único no Cinema... quase como Thelma & Louise.
 

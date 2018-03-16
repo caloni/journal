@@ -1,26 +1,11 @@
 ---
+tags: ['mostrasp']
+imdb: "5651272"
 date: "2016-10-25"
 categories: "movies"
 title: "5 Mulheres"
-imdb: "5651272"
 stars: "3/5"
-tags: ['mostrasp']
-_title: "5 Frauen"
-_year: "2016"
-_director: ["Olaf Kraemer", ]
-_writer: ["Olaf Kraemer", ]
-_cast: ["Anna König (Marie)", "Odine Johne (Ginette)", "Kaya Marie Möller (Nora)", "Julia Dietze (Stephanie)", "Korinna Krauss (Anna)", "Stefano Cassetti (Marek)", "Mickey Hardt (John)", "Roman Blomme (Fugitive)", ]
-_countries: ["Germany", ]
-_languages: ["German", ]
-_editor: ["Daniela Hoelzgen", ]
-_cinematographer: ["Clemens Baumeister", ]
-_music: ["Philipp Fabian Kölmel", ]
-_costume designer: ["Lena Nienaber", ]
-_genres: ["Thriller", ]
-_runtimes: ["98", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMmNmNzIxZTctYTRkZC00NmI2LTk4YjUtMzVmYTlmM2U3ZDAwXkEyXkFqcGdeQXVyMjY1ODY2Ng@@.jpg"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMmNmNzIxZTctYTRkZC00NmI2LTk4YjUtMzVmYTlmM2U3ZDAwXkEyXkFqcGdeQXVyMjY1ODY2Ng@@._V1._SX100_SY63_.jpg"
+desc: "5 Mulheres. 5 Frauen (Germany, 2016). Dirigido por Olaf Kraemer. Escrito por Olaf Kraemer. Com Anna König (Marie), Odine Johne (Ginette), Kaya Marie Möller (Nora), Julia Dietze (Stephanie), Korinna Krauss (Anna), Stefano Cassetti (Marek), Mickey Hardt (John), Roman Blomme (Fugitive)."
 ---
 Este supostamente é um thriller, mas se confunde tanto com uma comédia, e é também um drama que vai adocicando demais, tornando o conjunto nenhum bom representante de nenhum gênero. Pelo menos há um entretenimento inteligente acontecendo, o que já torna a experiência menos tortuosa.
 

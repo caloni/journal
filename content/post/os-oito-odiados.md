@@ -1,27 +1,10 @@
 ---
+imdb: "3460252"
 date: "2016-07-29"
 categories: "movies"
-imdb: "3460252"
-stars: "3/5"
 title: "Os Oito Odiados"
-_title: "The Hateful Eight"
-_year: "2015"
-_director: ["Quentin Tarantino", ]
-_writer: ["Quentin Tarantino", ]
-_cast: ["Samuel L. Jackson", "Kurt Russell", "Jennifer Jason Leigh", "Walton Goggins", "Demián Bichir", "Tim Roth", "Michael Madsen", "Bruce Dern", "James Parks", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Fred Raskin", ]
-_cinematographer: ["Robert Richardson", ]
-_music: ["Ennio Morricone", ]
-_artdirection: ["Benjamin Edelberg", "Richard L. Johnson", ]
-_costume designer: ["Courtney Hoffman", ]
-_genres: ["Crime", ]
-_runtimes: ["167::(digital)", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjA1MTc1NTg5NV5BMl5BanBnXkFtZTgwOTM2MDEzNzE@.jpg"
-_ratio: "2.76 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjA1MTc1NTg5NV5BMl5BanBnXkFtZTgwOTM2MDEzNzE@._V1._SX94_SY140_.jpg"
+stars: "3/5"
+desc: "Os Oito Odiados. The Hateful Eight (USA, 2015). Dirigido por Quentin Tarantino. Escrito por Quentin Tarantino. Com Samuel L. Jackson, Kurt Russell, Jennifer Jason Leigh, Walton Goggins, Demián Bichir, Tim Roth, Michael Madsen, Bruce Dern, James Parks."
 ---
 Se há um motivo para a existência de Os Oitos Odiados é dar o mais que merecido Oscar para o compositor Ennio Morricone. No entanto, esse prêmio negado ao músico de trilhas icônicas como Os Intocáveis, Era Uma Vez na América e Cinema Paradiso irá agora figurar como o mesmo Oscar negado a Martin Scorsese em toda sua carreira até Os Infiltrados: longe de ser o melhor trabalho; apenas um prêmio de consolação.
 

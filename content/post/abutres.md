@@ -1,24 +1,10 @@
 ---
-date: "2014-03-04"
 imdb: "1542852"
+date: "2014-03-04"
+categories: "movies"
 title: "Abutres"
 stars: "5/5"
-categories: "movies"
-_title: "Carancho"
-_year: "2010"
-_director: ["Pablo Trapero", ]
-_writer: ["Alejandro Fadel", "Martín Mauregui", "Santiago Mitre", "Pablo Trapero", ]
-_cast: ["Ricardo Darín", "Martina Gusman", "Carlos Weber", "José Luis Arias", "Fabio Ronzano", "Loren Acuña", "Gabriel Almirón", "José Manuel Espeche", "Francisco Acosta", ]
-_countries: ["Argentina", ]
-_languages: ["Spanish", ]
-_editor: ["Ezequiel Borovinsky", "Pablo Trapero", ]
-_cinematographer: ["Julián Apezteguia", ]
-_genres: ["Crime", ]
-_runtimes: ["Argentina:107", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNTA3MDgwMTY0NV5BMl5BanBnXkFtZTcwNzk4NzEzNA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNTA3MDgwMTY0NV5BMl5BanBnXkFtZTcwNzk4NzEzNA@@._V1._SX94_SY140_.jpg"
+desc: "Abutres. Carancho (Argentina, 2010). Dirigido por Pablo Trapero. Escrito por Alejandro Fadel, Martín Mauregui, Santiago Mitre, Pablo Trapero. Com Ricardo Darín, Martina Gusman, Carlos Weber, José Luis Arias, Fabio Ronzano, Loren Acuña, Gabriel Almirón, José Manuel Espeche, Francisco Acosta."
 ---
 Filmes com Ricardo Darín (Um Conto Chinês, O Segredo dos Seus Olhos) já merecem uma visita. Já filmes do diretor Pablo Trapero (Elefante Branco), que infelizmente é mais realista do que pessimista, exigem uma preparação psicológica para a dor e a depressão que virão por causa da impotência de seus personagens ante uma situação intransponível. Ou, resumindo, como diria Capitão Nascimento: "o sistema é foda!".
 

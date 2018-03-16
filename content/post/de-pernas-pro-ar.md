@@ -1,24 +1,10 @@
 ---
-date: "2010-12-30"
 imdb: "1564916"
+date: "2010-12-30"
+categories: "movies"
 title: "De Pernas pro Ar"
 stars: "3/5"
-categories: "movies"
-_title: "De Pernas pro Ar"
-_year: "2010"
-_director: ["Roberto Santucci", ]
-_writer: ["Paulo Cursino", "Marcelo Saback", ]
-_cast: ["Ingrid Guimarães", "Maria Paula", "Bruno Garcia", "Denise Weinberg", "Antonio Pedro", "Cristina Pereira", "Charles Paraventi", "João Fernandes", "Flávia Alessandra", ]
-_countries: ["Brazil", ]
-_languages: ["Portuguese", ]
-_editor: ["Marcelo Moraes", ]
-_cinematographer: ["Antonio Luiz Mendes", ]
-_music: ["Fabio Mondego", ]
-_genres: ["Comedy", ]
-_runtimes: ["101", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTk3NzgxNzE3OV5BMl5BanBnXkFtZTcwMDI1Njc4NQ@@.jpg"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTk3NzgxNzE3OV5BMl5BanBnXkFtZTcwMDI1Njc4NQ@@._V1._SX95_SY140_.jpg"
+desc: "De Pernas pro Ar. De Pernas pro Ar (Brazil, 2010). Dirigido por Roberto Santucci. Escrito por Paulo Cursino, Marcelo Saback. Com Ingrid Guimarães, Maria Paula, Bruno Garcia, Denise Weinberg, Antonio Pedro, Cristina Pereira, Charles Paraventi, João Fernandes, Flávia Alessandra."
 ---
 Alice é uma mulher que se dedica inteiramente ao trabalho. Boa parte do tempo a vemos usando seu celular e seu notebook. Apesar de excelente profissional, ela ignora sua família, cuidando dos afazeres caseiros e profissionais como se fizessem parte de uma mesma agenda. A triste consequência é que, apesar de terem uma vida invejável de classe média alta, ela acaba conhecendo pouco de seu próprio filho e quase não nota a existência do marido, que aparece distante em sua vida (sua cara de fato não aparece no início do filme).
 

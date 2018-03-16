@@ -1,25 +1,10 @@
 ---
-date: "2012-05-09"
 imdb: "0445620"
+date: "2012-05-09"
+categories: "movies"
 title: "Paradise Now"
 stars: "3/5"
-categories: "movies"
-_title: "Paradise Now"
-_year: "2005"
-_director: ["Hany Abu-Assad", ]
-_writer: ["Hany Abu-Assad", "Bero Beyer", ]
-_cast: ["Lubna Azabal", "Hamza Abu-Aiaash", "Kais Nashif", "Lutuf Nouasser", "Ali Suliman", "Mohammad Bustami", "Ahmad Fares", "Waleed On-Allah", "Asaad Dwikat", ]
-_countries: ["Occupied Palestinian Territory", ]
-_languages: ["Arabic", ]
-_editor: ["Sander Vos", ]
-_cinematographer: ["Antoine Héberlé", ]
-_music: ["Jina Sumedi", ]
-_genres: ["Crime", ]
-_runtimes: ["90", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNDI5ODQxNTUxMV5BMl5BanBnXkFtZTcwMTgzMDEzMQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNDI5ODQxNTUxMV5BMl5BanBnXkFtZTcwMTgzMDEzMQ@@._V1._SX95_SY140_.jpg"
+desc: "Paradise Now. Paradise Now (Occupied Palestinian Territory, 2005). Dirigido por Hany Abu-Assad. Escrito por Hany Abu-Assad, Bero Beyer. Com Lubna Azabal, Hamza Abu-Aiaash, Kais Nashif, Lutuf Nouasser, Ali Suliman, Mohammad Bustami, Ahmad Fares, Waleed On-Allah, Asaad Dwikat."
 ---
 Não é o fato de um filme contar a história de um homem-bomba sob seu ponto de vista, algo incomum para o Ocidente, que ele se torna automaticamente uma ótima referência ao tema. Contudo, quando esse ponto de vista está embebido em melancolia e ressentimentos de uma infância que não conheceu uma realidade diferente do inferno da Guerra (inclusive com a perda do pai causada diretamente por esta), é aí que começamos a analisar se o projeto de fato merece crédito.
 

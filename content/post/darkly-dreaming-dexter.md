@@ -1,12 +1,10 @@
 ---
-date: "2016-08-24"
+tags: ['livros']
 title: "Livro: Darkly Dreaming Dexter"
-categories: "blog"
 stars: "4/5"
-tags: [ "livros" ]
-_director: ["Jeff Lindsay" ]
-_writer: ["Jeff Lindsay" ]
-_year: "2004"
+date: "2016-08-24"
+categories: "blog"
+desc: "Livro: Darkly Dreaming Dexter. Dirigido por Jeff Lindsay. Escrito por Jeff Lindsay."
 ---
 O primeiro livro de Jeff Lindsay, que deu origem à série de livros do serial killer que mata serial killers (além da própria série televisiva de oito temporadas), é um relato intimista e bem-humorado de uma pessoa que não consegue se ajustar socialmente, então finge ser alguém que não é. Curto, mas suficiente, dá uma boa ideia sobre como é esse personagem tão fascinante, em um esboço criado a partir de seus próprios pensamentos. Lendo após terminar a série, vejo quão bem feito ficou o protagonista estrelado por Michael C. Hall, e quantas boas ideias surgiram de uma premissa interessante. Uma adaptação que começou muito bem na primeira metade, para covardemente tropeçar desfiladeiro abaixo na segunda metade.
 

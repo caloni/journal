@@ -1,25 +1,10 @@
 ---
-date: "2012-02-15"
 imdb: "1467273"
+date: "2012-02-15"
+categories: "movies"
 title: "La prima cosa bella"
 stars: "5/5"
-categories: "movies"
-_title: "La prima cosa bella"
-_year: "2010"
-_director: ["Paolo Virzì", ]
-_writer: ["Paolo Virzì", "Francesco Bruni", "Francesco Piccolo", ]
-_cast: ["Valerio Mastandrea", "Micaela Ramazzotti", "Stefania Sandrelli", "Marco Messeri", "Sergio Albelli", "Claudia Pandolfi", "Fabrizia Sacchi", "Aurora Frasca", "Giacomo Bibbiani", ]
-_countries: ["Italy", ]
-_languages: ["Italian", ]
-_editor: ["Simone Manetti", ]
-_cinematographer: ["Nicola Pecorini", ]
-_music: ["Carlo Virzì", ]
-_genres: ["Comedy", ]
-_runtimes: ["122", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTg2Mzc1MjYyMV5BMl5BanBnXkFtZTcwMDk1MDQ4NA@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTg2Mzc1MjYyMV5BMl5BanBnXkFtZTcwMDk1MDQ4NA@@._V1._SX94_SY140_.jpg"
+desc: "La prima cosa bella. La prima cosa bella (Italy, 2010). Dirigido por Paolo Virzì. Escrito por Paolo Virzì, Francesco Bruni, Francesco Piccolo. Com Valerio Mastandrea, Micaela Ramazzotti, Stefania Sandrelli, Marco Messeri, Sergio Albelli, Claudia Pandolfi, Fabrizia Sacchi, Aurora Frasca, Giacomo Bibbiani."
 ---
 Esse filme, junto com o recente cult Um Sonho de Amor, evidencia um Cinema Italiano mais interessante e inovador, ainda que mantenha sua clássica dramaticidade de novelão, estilo que paradoxalmente o acaba engrandecendo.
 

@@ -1,28 +1,11 @@
 ---
-date: "2015-09-16"
-tags: [ "cabine" ]
+tags: ['cabine']
 imdb: "2406252"
-stars: "4/5"
+date: "2015-09-16"
 categories: "movies"
 title: "A Pele de Vênus"
-_title: "La Vénus à la fourrure"
-_year: "2013"
-_director: ["Roman Polanski", ]
-_writer: ["David Ives", "Roman Polanski", "David Ives", "Leopold von Sacher-Masoch", ]
-_cast: ["Emmanuelle Seigner", "Mathieu Amalric", ]
-_countries: ["France", ]
-_languages: ["French", ]
-_editor: ["Hervé de Luze", "Margot Meynier", ]
-_cinematographer: ["Pawel Edelman", ]
-_music: ["Alexandre Desplat", ]
-_artdirection: ["Bruno Via", ]
-_costume designer: ["Dinah Collin", ]
-_genres: ["Drama", ]
-_runtimes: ["96", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjM0ODgyOTM1Ml5BMl5BanBnXkFtZTgwMzI5ODM4MTE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjM0ODgyOTM1Ml5BMl5BanBnXkFtZTgwMzI5ODM4MTE@._V1._SX94_SY140_.jpg"
+stars: "4/5"
+desc: "A Pele de Vênus. La Vénus à la fourrure (France, 2013). Dirigido por Roman Polanski. Escrito por David Ives, Roman Polanski, David Ives, Leopold von Sacher-Masoch. Com Emmanuelle Seigner, Mathieu Amalric."
 ---
 Em menos de uma década a vida do diretor Roman Polanski (Chinatown, O Escritor Fantasma) virou de cabeça pra baixo. O ano é 1969, quando estava sendo produzido O Bebê de Rosemary, e sua mulher foi brutalmente assassinada em um ritual satânico. Polanski então muda de país, e acaba sendo acusado de estuprar uma garota de 13 anos. Permanentemente banido dos EUA, o local mais puritano da Terra onde isso poderia ter acontecido, passa a produzir filmes na Europa, de onde nascem os excelentes O Pianista (que lhe rendeu o Oscar), Lua de Fel (que revela muito sobre seus sentimentos sobre o sexo oposto) e O Escritor Fantasma, um thriller político inusitado.
 

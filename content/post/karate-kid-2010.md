@@ -1,25 +1,10 @@
 ---
-date: "2010-08-27"
 imdb: "1155076"
+date: "2010-08-27"
+categories: "movies"
 title: "Karate Kid"
 stars: "3/5"
-categories: "movies"
-_title: "The Karate Kid"
-_year: "2010"
-_director: ["Harald Zwart", ]
-_writer: ["Christopher Murphey", "Robert Mark Kamen", ]
-_cast: ["Jaden Smith", "Jackie Chan", "Taraji P. Henson", "Wenwen Han", "Rongguang Yu", "Zhensu Wu", "Zhiheng Wang", "Zhenwei Wang", "Jared Minns", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Joel Negron", ]
-_cinematographer: ["Roger Pratt", ]
-_music: ["James Horner", ]
-_genres: ["Action", ]
-_runtimes: ["140", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQ0ODg3ODEyMF5BMl5BanBnXkFtZTcwNjI1MTgxMw@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQ0ODg3ODEyMF5BMl5BanBnXkFtZTcwNjI1MTgxMw@@._V1._SX95_SY140_.jpg"
+desc: "Karate Kid. The Karate Kid (USA, 2010). Dirigido por Harald Zwart. Escrito por Christopher Murphey, Robert Mark Kamen. Com Jaden Smith, Jackie Chan, Taraji P. Henson, Wenwen Han, Rongguang Yu, Zhensu Wu, Zhiheng Wang, Zhenwei Wang, Jared Minns."
 ---
 Esse é praticamente um remake do original, só que em vez de caratê, como o nome supõe, a luta do filme é o kung-fu, onde o mestre é nada mais nada menos que Jackie Chan, o Sr. Han, que irá treinar Jaden Smith, o filho de Will, para se preparar para o torneio de Kung Fue se livrar das perseguições da escola.
 

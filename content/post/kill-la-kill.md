@@ -1,23 +1,11 @@
 ---
-date: "2014-10-19"
+tags: ['netflix', 'series']
 imdb: "3114390"
+date: "2014-10-19"
+categories: "series"
 title: "Kill La Kill"
 stars: "4/5"
-categories: "series"
-tags: ['netflix', 'series']
-_title: "Kill La Kill"
-_year: "2013"
-_director: ["Akira Amemiya", "Hiroyuki Imaishi", "Alex Von David", ]
-_writer: ["Kazuki Nakashima", "Alex Von David", ]
-_cast: ["Ami Koshimizu", "Aya Suzaki", "Toshihiko Seki", "Shin'ichirô Miki", "Zach Aguilar", "Ryôka Yuzuki", "Ayumi Fujimura", "Christine Marie Cabanos", "Erica Mendez", ]
-_countries: ["Japan", ]
-_languages: ["Japanese", ]
-_music: ["Hiroyuki Sawano", ]
-_genres: ["Animation", ]
-_runtimes: ["25", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BODIyNzQyNTk3NV5BMl5BanBnXkFtZTgwNjUwMzAxMzE@.jpg"
-_kind: "tv series"
-_cover: "http://ia.media-imdb.com/images/M/MV5BODIyNzQyNTk3NV5BMl5BanBnXkFtZTgwNjUwMzAxMzE@._V1._SX100_SY75_.jpg"
+desc: "Kill La Kill. Kill La Kill (Japan, 2013). Dirigido por Akira Amemiya, Hiroyuki Imaishi, Alex Von David. Escrito por Kazuki Nakashima, Alex Von David. Com Ami Koshimizu, Aya Suzaki, Toshihiko Seki, Shin'ichirô Miki, Zach Aguilar, Ryôka Yuzuki, Ayumi Fujimura, Christine Marie Cabanos, Erica Mendez."
 ---
 "Não fazer sentido é com a gente!", repete a heroína Ryuko Matoi nos capítulos finais do anime Kill La Kill. Parte de sua inspiração vem de sua amiga inseparável Mako Mankanshoku, que muito provavelmente entraria em várias listas de personagens mais carismáticas, engraçadas e "sem sentido".
 

@@ -1,28 +1,11 @@
 ---
-imdb: "4131800"
-stars: "3/5"
 tags: ['cinema']
+imdb: "4131800"
 date: 2017-10-16T19:39:46
-title: "My Little Pony: O Filme"
 categories: "movies"
-_title: "My Little Pony: The Movie"
-_year: "2017"
-_director: ["Jayson Thiessen", ]
-_writer: ["Meghan McCarthy", "Joe Ballarini", "Rita Hsiao", "Michael Vogel", "Lauren Faust", "Bonnie Zacherle", ]
-_cast: ["Uzo Aduba (Queen Novo)", "Ashleigh Ball (Applejack / Rainbow Dash)", "Adam Bengis (Code Red)", "Emily Blunt (Tempest Shadow / Fizzlepop Berrytwist)", "Kristin Chenoweth (Princess Skystar)", "Michelle Creber (Applebloom)", "Taye Diggs (Capper)", "Brian Dobson (Verko / Additional Voices)", "Michael Dobson (Bulk Biceps / Canterlot & Klugetown Featured Voices)", ]
-_countries: ["Canada", ]
-_languages: ["English", ]
-_editor: ["Braden Oberson", ]
-_cinematographer: ["Anthony Di Ninno", ]
-_music: ["Daniel Ingram", ]
-_artdirection: ["Rebecca Dart", "Justin Claus Harder", ]
-_genres: ["Animation", ]
-_runtimes: ["99", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMmMxNWNhNjItZjhmMC00ZmViLThlYjItZDk5YTQ1MWZkOGM1XkEyXkFqcGdeQXVyNzY2ODYzOTU@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMmMxNWNhNjItZjhmMC00ZmViLThlYjItZDk5YTQ1MWZkOGM1XkEyXkFqcGdeQXVyNzY2ODYzOTU@._V1._SX92_SY140_.jpg"
-_releasedate: "5 October 2017"
+title: "My Little Pony: O Filme"
+stars: "3/5"
+desc: "My Little Pony: O Filme. My Little Pony: The Movie (Canada, 2017). Dirigido por Jayson Thiessen. Escrito por Meghan McCarthy, Joe Ballarini, Rita Hsiao, Michael Vogel, Lauren Faust, Bonnie Zacherle. Com Uzo Aduba (Queen Novo), Ashleigh Ball (Applejack / Rainbow Dash), Adam Bengis (Code Red), Emily Blunt (Tempest Shadow / Fizzlepop Berrytwist), Kristin Chenoweth (Princess Skystar), Michelle Creber (Applebloom), Taye Diggs (Capper), Brian Dobson (Verko / Additional Voices), Michael Dobson (Bulk Biceps / Canterlot & Klugetown Featured Voices)."
 ---
 "My Little Pony: O Filme" continua sendo tudo que os fãs de My Little Pony poderiam querer mais um pouco. E estou falando até dos [fãs adultos](/bronies-the-extremely-unexpected-adult-fans-of-my-little-pony) da série de animação. Applejack, Rainbow Dash e suas amigas continuam usando o poder da amizade para enfrentar todos os perigos e transformar seus inimigos em leais aliados.
 

@@ -1,24 +1,10 @@
 ---
-date: "2015-06-03"
 imdb: "2884206"
-stars: "4/5"
+date: "2015-06-03"
 categories: "movies"
 title: "I Origins"
-_title: "I Origins"
-_year: "2014"
-_director: ["Mike Cahill", ]
-_writer: ["Mike Cahill", ]
-_cast: ["Michael Pitt", "Steven Yeun", "Astrid Bergès-Frisbey", "Brit Marling", "Dorien Makhloghi", "Charles W. Gray", "John Schiumo", "Farasha Baylock", "Ako", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Mike Cahill", ]
-_cinematographer: ["Markus Förderer", ]
-_music: ["Will Bates", "Phil Mossman", ]
-_genres: ["Drama", ]
-_runtimes: ["106", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQ0MTAwMDI1OF5BMl5BanBnXkFtZTgwNjUwMTA2MTE@.jpg"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQ0MTAwMDI1OF5BMl5BanBnXkFtZTgwNjUwMTA2MTE@._V1._SX93_SY140_.jpg"
+stars: "4/5"
+desc: "I Origins. I Origins (USA, 2014). Dirigido por Mike Cahill. Escrito por Mike Cahill. Com Michael Pitt, Steven Yeun, Astrid Bergès-Frisbey, Brit Marling, Dorien Makhloghi, Charles W. Gray, John Schiumo, Farasha Baylock, Ako."
 ---
 I Origins é sutil e honesto o suficiente para gostarmos dele apesar de nossas convicções religiosas ou científicas. Ele não tenta em nenhum momento te obrigar a enxergar o mundo através de uma visão determinante do nosso destino como seres dotados de consciência, mas brinca com isso o tempo todo, o que é saudável e instigante. E mesmo lidando com uma questão delicada, controversa e complexa como a vida pós-morte, não se priva de desenvolver seus personagens de forma que eles participem do processo de descoberta como seres humanos, e não simples criações unidimensionais para cumprir um papel.
 

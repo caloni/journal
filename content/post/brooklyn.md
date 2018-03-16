@@ -1,27 +1,10 @@
 ---
+imdb: "2381111"
 date: "2016-07-31"
 categories: "movies"
-imdb: "2381111"
-stars: "4/5"
 title: "Brooklyn"
-_title: "Brooklyn"
-_year: "2015"
-_director: ["John Crowley", ]
-_writer: ["Nick Hornby", "Colm Tóibín", ]
-_cast: ["Saoirse Ronan", "Hugh Gormley", "Brid Brennan", "Maeve McGrath", "Emma Lowe", "Barbara Drennan", "Gillian McCarthy", "Fiona Glascott", "Jane Brennan", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Jake Roberts", ]
-_cinematographer: ["Yves Bélanger", ]
-_music: ["Michael Brook", ]
-_artdirection: ["Irene O'Brien", "Robert Parle", ]
-_costume designer: ["Odile Dicks-Mireaux", ]
-_genres: ["Drama", ]
-_runtimes: ["111", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMzE4MDk5NzEyOV5BMl5BanBnXkFtZTgwNDM4NDA3NjE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMzE4MDk5NzEyOV5BMl5BanBnXkFtZTgwNDM4NDA3NjE@._V1._SX94_SY140_.jpg"
+stars: "4/5"
+desc: "Brooklyn. Brooklyn (UK, 2015). Dirigido por John Crowley. Escrito por Nick Hornby, Colm Tóibín. Com Saoirse Ronan, Hugh Gormley, Brid Brennan, Maeve McGrath, Emma Lowe, Barbara Drennan, Gillian McCarthy, Fiona Glascott, Jane Brennan."
 ---
 Aroma de série de TV. Acontecimentos espaçados em episódios, convenientemente movendo a história. Apesar disso, este é um filme que consegue dialogar o tema da imigração com uma sutileza ímpar ao lidar com o arco narrativo de sua heroína de maneira sóbria.
 

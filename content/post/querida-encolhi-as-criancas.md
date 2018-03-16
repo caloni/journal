@@ -1,27 +1,10 @@
 ---
-date: "2016-01-16"
 imdb: "0097523"
-stars: "3/5"
+date: "2016-01-16"
 categories: "movies"
 title: "Querida, Encolhi as Crianças"
-_title: "Honey, I Shrunk the Kids"
-_year: "1989"
-_director: ["Joe Johnston", ]
-_writer: ["Stuart Gordon", "Brian Yuzna", "Ed Naha", "Ed Naha", "Tom Schulman", ]
-_cast: ["Rick Moranis", "Matt Frewer", "Marcia Strassman", "Kristine Sutherland", "Thomas Wilson Brown", "Jared Rushton", "Amy O'Neill", "Robert Oliveri", "Carl Steven", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Michael A. Stevenson", ]
-_cinematographer: ["Hiro Narita", ]
-_music: ["James Horner", ]
-_artdirection: ["Dorree Cooper", "John Iacovelli", ]
-_costume designer: ["Carol Brolaski", ]
-_genres: ["Adventure", ]
-_runtimes: ["93", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTcxMDYyOTQ3M15BMl5BanBnXkFtZTYwNjc5NzI5.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTcxMDYyOTQ3M15BMl5BanBnXkFtZTYwNjc5NzI5._V1._SX98_SY140_.jpg"
+stars: "3/5"
+desc: "Querida, Encolhi as Crianças. Honey, I Shrunk the Kids (USA, 1989). Dirigido por Joe Johnston. Escrito por Stuart Gordon, Brian Yuzna, Ed Naha, Ed Naha, Tom Schulman. Com Rick Moranis, Matt Frewer, Marcia Strassman, Kristine Sutherland, Thomas Wilson Brown, Jared Rushton, Amy O'Neill, Robert Oliveri, Carl Steven."
 ---
 Os efeitos estão datados, mas nem por isso não funcionam em sua maioria. Rick Moranis está hilário procurando seus filhos com uma lupa sobre seus óculos pendurado no jardim suspenso por uma televisão. Seus vizinhos são malucos em um sentido diferente, mas todos eles possuem um objetivo no roteiro esquemático: juntar novamente a família. O feminismo, quem diria, sempre foi um mote na série.
 

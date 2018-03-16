@@ -1,24 +1,10 @@
 ---
-date: "2016-02-17"
 imdb: "4284010"
-stars: "5/5"
+date: "2016-02-17"
 categories: "movies"
 title: "What Happened, Miss Simone?"
-_title: "What Happened, Miss Simone?"
-_year: "2015"
-_director: ["Liz Garbus", ]
-_cast: ["James Baldwin", "Stokely Carmichael", "Walter Cronkite", "Stanley Crouch", "Gerrit De Bruin", "Dick Gregory", "Hugh M. Hefner", "Elisabeth Henry-Macari", "Lisa Simone Kelly", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Joshua L. Pearson", ]
-_cinematographer: ["Igor Martinovic", ]
-_costume designer: ["Rebecca Luke", ]
-_genres: ["Documentary", ]
-_runtimes: ["101", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjE5MjA1MTA1NF5BMl5BanBnXkFtZTgwMzczMjE3NzE@.jpg"
-_ratio: "1.78 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjE5MjA1MTA1NF5BMl5BanBnXkFtZTgwMzczMjE3NzE@._V1._SX95_SY140_.jpg"
+stars: "5/5"
+desc: "What Happened, Miss Simone?. What Happened, Miss Simone? (USA, 2015). Dirigido por Liz Garbus. Com James Baldwin, Stokely Carmichael, Walter Cronkite, Stanley Crouch, Gerrit De Bruin, Dick Gregory, Hugh M. Hefner, Elisabeth Henry-Macari, Lisa Simone Kelly."
 ---
 Os documentários da Netflix estão cada vez melhor. Sempre ricos em conteúdo e em temas, estão começando também a ser reconhecidos para premiações como o Oscar. Esse ano temos dois, ambos baseados em cantoras famosas. Um deles é sobre Amy Winehouse e sua carreira relâmpago e sua morte precoce.
 

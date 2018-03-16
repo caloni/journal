@@ -1,25 +1,10 @@
 ---
-date: "2012-12-08"
 imdb: "0120623"
+date: "2012-12-08"
+categories: "movies"
 title: "Vida de Inseto"
 stars: "3/5"
-categories: "movies"
-_title: "A Bug's Life"
-_year: "1998"
-_director: ["John Lasseter", "Andrew Stanton", ]
-_writer: ["John Lasseter", "Andrew Stanton", "Joe Ranft", "Andrew Stanton", "Don McEnery", "Bob Shaw", "Geefwee Boedoe", "Jason Katz", "Jorgen Klubien", ]
-_cast: ["Dave Foley", "Kevin Spacey", "Julia Louis-Dreyfus", "Hayden Panettiere", "Phyllis Diller", "Richard Kind", "David Hyde Pierce", "Joe Ranft", "Denis Leary", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Lee Unkrich", ]
-_cinematographer: ["Sharon Calahan", ]
-_music: ["Randy Newman", ]
-_genres: ["Animation", ]
-_runtimes: ["95", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTI5NTc1NjU2NF5BMl5BanBnXkFtZTcwNzkyNDAyMQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTI5NTc1NjU2NF5BMl5BanBnXkFtZTcwNzkyNDAyMQ@@._V1._SX98_SY140_.jpg"
+desc: "Vida de Inseto. A Bug's Life (USA, 1998). Dirigido por John Lasseter, Andrew Stanton. Escrito por John Lasseter, Andrew Stanton, Joe Ranft, Andrew Stanton, Don McEnery, Bob Shaw, Geefwee Boedoe, Jason Katz, Jorgen Klubien. Com Dave Foley, Kevin Spacey, Julia Louis-Dreyfus, Hayden Panettiere, Phyllis Diller, Richard Kind, David Hyde Pierce, Joe Ranft, Denis Leary."
 ---
 Historinha politicamente correta e chata da Pixar.
 

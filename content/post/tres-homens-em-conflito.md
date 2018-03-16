@@ -1,25 +1,10 @@
 ---
-date: "2010-12-20"
 imdb: "0060196"
+date: "2010-12-20"
+categories: "movies"
 title: "Três Homens em Conflito"
 stars: "5/5"
-categories: "movies"
-_title: "Il buono, il brutto, il cattivo."
-_year: "1966"
-_director: ["Sergio Leone", ]
-_writer: ["Luciano Vincenzoni", "Sergio Leone", "Agenore Incrocci", "Furio Scarpelli", "Luciano Vincenzoni", "Sergio Leone", "Mickey Knox", ]
-_cast: ["Eli Wallach", "Clint Eastwood", "Lee Van Cleef", "Aldo Giuffrè", "Luigi Pistilli", "Rada Rassimov", "Enzo Petito", "Claudio Scarchilli", "John Bartha", ]
-_countries: ["Italy", ]
-_languages: ["Italian", ]
-_editor: ["Eugenio Alabiso", "Nino Baragli", ]
-_cinematographer: ["Tonino Delli Colli", ]
-_music: ["Ennio Morricone", ]
-_genres: ["Western", ]
-_runtimes: ["161", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BOTQ5NDI3MTI4MF5BMl5BanBnXkFtZTgwNDQ4ODE5MDE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BOTQ5NDI3MTI4MF5BMl5BanBnXkFtZTgwNDQ4ODE5MDE@._V1._SX92_SY140_.jpg"
+desc: "Três Homens em Conflito. Il buono, il brutto, il cattivo. (Italy, 1966). Dirigido por Sergio Leone. Escrito por Luciano Vincenzoni, Sergio Leone, Agenore Incrocci, Furio Scarpelli, Luciano Vincenzoni, Sergio Leone, Mickey Knox. Com Eli Wallach, Clint Eastwood, Lee Van Cleef, Aldo Giuffrè, Luigi Pistilli, Rada Rassimov, Enzo Petito, Claudio Scarchilli, John Bartha."
 ---
 Esse faroeste de Leone foi narrado em um contexto histórico e, por isso mesmo, com muitas pitadas de realismo nas cenas, mesmo com os absurdos hilários a que estamos acostumados em filmes do gênero. Nesse longa de quase três horas de duração teremos três pistoleiros decididos a encontrar uma fortuna escondida, mas para isso terão que passar por várias provações na época da guerra da Sessesão.
 

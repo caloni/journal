@@ -1,25 +1,10 @@
 ---
+imdb: "4029356"
 date: "2016-07-22"
 categories: "movies"
-imdb: "4029356"
-stars: "4/5"
 title: "Homem na Parede"
-_title: "The Man in the Wall"
-_year: "2015"
-_director: ["Evgeny Ruman", ]
-_writer: ["Evgeny Ruman", ]
-_cast: ["Tamar Alkan", "Tom Antopolsky", "Shlomi Avraham", "Amitay Yaish Benuosilio", "Yoav Donat", "Eli Gornstein", "Gilad Kahana", "Rodie Kozlovsky", "Alit Kreiz", ]
-_countries: ["Israel", ]
-_languages: ["Hebrew", ]
-_editor: ["Evgeny Ruman", ]
-_cinematographer: ["Ziv Berkovich", ]
-_artdirection: ["Sharon Eagle", ]
-_costume designer: ["Chen Gilad", ]
-_genres: ["Drama", ]
-_runtimes: ["92", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BYzAzYmMwMTItY2JkZS00YWRlLWI5ZGYtNzFmMjU3ZjM4YzJmXkEyXkFqcGdeQXVyMjMyMzI4MzY@.jpg"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BYzAzYmMwMTItY2JkZS00YWRlLWI5ZGYtNzFmMjU3ZjM4YzJmXkEyXkFqcGdeQXVyMjMyMzI4MzY@._V1._SX95_SY140_.jpg"
+stars: "4/5"
+desc: "Homem na Parede. The Man in the Wall (Israel, 2015). Dirigido por Evgeny Ruman. Escrito por Evgeny Ruman. Com Tamar Alkan, Tom Antopolsky, Shlomi Avraham, Amitay Yaish Benuosilio, Yoav Donat, Eli Gornstein, Gilad Kahana, Rodie Kozlovsky, Alit Kreiz."
 ---
 O filme é quase um conto narrado em diversas e longas sequência que mostram os acontecimentos em um apartamento enquanto uma esposa aguarda ansiosa pela volta do marido desaparecido. O filme inteiro se passa no apartamento, e os únicos cortes são justamente a passagem do tempo.
 

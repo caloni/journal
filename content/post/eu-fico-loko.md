@@ -1,25 +1,11 @@
 ---
+tags: ['cabine']
+imdb: "5968964"
 date: "2016-12-13"
 categories: "movies"
 title: "Eu Fico Loko"
-imdb: "5968964"
 stars: "3/5"
-tags: ['cabine']
-_title: "Eu Fico Loko"
-_year: "2017"
-_director: ["Bruno Garotti", ]
-_writer: ["Christian Figueiredo", "Bruno Garotti", "Sylvio Gonçalves", ]
-_cast: ["Christian Figueiredo (Christian)", "Alessandra Negrini (Lilian Figueiredo)", "Filipe Bragança (Christian)", "Suely Franco (Tatiana Figueiredo)", "Marcello Airoldi (Wanderley de Caldas)", "José Victor Pires (Yan)", "Thomaz Costa (Rodrigo)", "Isabella Moreira (Alice)", "Giovanna Grigio (Gabriela Coelho)", ]
-_countries: ["Brazil", ]
-_languages: ["Portuguese", ]
-_editor: ["Diana Vasconcellos", ]
-_cinematographer: ["Dante Belluti", ]
-_music: ["Alok", ]
-_costume designer: ["Fabíola Trinca", ]
-_genres: ["Biography", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNDNiMzkzMWItNGUyNy00NjM1LWE0MWUtYTlmYTZiMjkwNDY1XkEyXkFqcGdeQXVyNTY2MTExNjE@.jpg"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNDNiMzkzMWItNGUyNy00NjM1LWE0MWUtYTlmYTZiMjkwNDY1XkEyXkFqcGdeQXVyNTY2MTExNjE@._V1._SX91_SY140_.jpg"
+desc: "Eu Fico Loko. Eu Fico Loko (Brazil, 2017). Dirigido por Bruno Garotti. Escrito por Christian Figueiredo, Bruno Garotti, Sylvio Gonçalves. Com Christian Figueiredo (Christian), Alessandra Negrini (Lilian Figueiredo), Filipe Bragança (Christian), Suely Franco (Tatiana Figueiredo), Marcello Airoldi (Wanderley de Caldas), José Victor Pires (Yan), Thomaz Costa (Rodrigo), Isabella Moreira (Alice), Giovanna Grigio (Gabriela Coelho)."
 ---
 Os "vloggers" começam a sair do armário. Quer dizer, isso eles já fizeram no YouTube. Agora estão entrando na porta da frente: o Cinema. Depois do clássico moderno "É Fada!" (brincadeira, nem vi), agora é hora de explorarmos a história da vida de um vlogger de sucesso. Sua idade? 22 anos. E você pensou que apenas o Justin Bieber teria seu livro biográfico parecendo um panfleto.
 

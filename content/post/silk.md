@@ -1,25 +1,10 @@
 ---
-date: "2014-01-18"
 imdb: "0494834"
+date: "2014-01-18"
+categories: "movies"
 title: "Silk"
 stars: "2/5"
-categories: "movies"
-_title: "Silk"
-_year: "2007"
-_director: ["François Girard", ]
-_writer: ["Alessandro Baricco", "François Girard", "Michael Golding", ]
-_cast: ["Sei Ashina", "Michael Pitt", "Tony Vogel", "Toni Bertorelli", "Keira Knightley", "Kenneth Welsh", "Martha Burns", "Alfred Molina", "Michael Golding", ]
-_countries: ["Canada", ]
-_languages: ["English", ]
-_editor: ["Pia Di Ciaula", ]
-_cinematographer: ["Alain Dostie", ]
-_music: ["Ryûichi Sakamoto", ]
-_genres: ["Drama", ]
-_runtimes: ["107", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTMxOTk4MTMxMF5BMl5BanBnXkFtZTcwODc4NjE1MQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTMxOTk4MTMxMF5BMl5BanBnXkFtZTcwODc4NjE1MQ@@._V1._SX94_SY140_.jpg"
+desc: "Silk. Silk (Canada, 2007). Dirigido por François Girard. Escrito por Alessandro Baricco, François Girard, Michael Golding. Com Sei Ashina, Michael Pitt, Tony Vogel, Toni Bertorelli, Keira Knightley, Kenneth Welsh, Martha Burns, Alfred Molina, Michael Golding."
 ---
 Esse drama-romance se passa no século 19, onde viajar pelo mundo não era agradável, nem rápido, nem seguro. A forma com são retratadas as longas viagens que o protagonista (Michael Pitt) faz em busca de ovos do bicho-da-seda pela África e, principalmente, pelo Japão, são o ponto forte da trama.
 

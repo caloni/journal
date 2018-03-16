@@ -1,25 +1,10 @@
 ---
-date: "2012-11-04"
 imdb: "1430626"
+date: "2012-11-04"
+categories: "movies"
 title: "Piratas Pirados!"
 stars: "2/5"
-categories: "movies"
-_title: "The Pirates! In an Adventure with Scientists!"
-_year: "2012"
-_director: ["Peter Lord", "Jeff Newitt", ]
-_writer: ["Gideon Defoe", "Gideon Defoe", ]
-_cast: ["Hugh Grant", "Martin Freeman", "Imelda Staunton", "David Tennant", "Jeremy Piven", "Salma Hayek", "Lenny Henry", "Brian Blessed", "Russell Tovey", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Justin Krish", ]
-_cinematographer: ["Frank Passingham", ]
-_music: ["Theodore Shapiro", ]
-_genres: ["Animation", ]
-_runtimes: ["88", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BOTkzOTc1OTg1Ml5BMl5BanBnXkFtZTcwMjg2ODcwNg@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BOTkzOTc1OTg1Ml5BMl5BanBnXkFtZTcwMjg2ODcwNg@@._V1._SX94_SY140_.jpg"
+desc: "Piratas Pirados!. The Pirates! In an Adventure with Scientists! (UK, 2012). Dirigido por Peter Lord, Jeff Newitt. Escrito por Gideon Defoe, Gideon Defoe. Com Hugh Grant, Martin Freeman, Imelda Staunton, David Tennant, Jeremy Piven, Salma Hayek, Lenny Henry, Brian Blessed, Russell Tovey."
 ---
 O nome original de Piratas Pirados! é algo do tipo "Os Piratas! Em uma Aventura com Cientistas!". Ou seja, podemos deduzir daí dois pontos críticos e problemático nos dias de hoje: 1) o filme provavelmente foi criado com intenção de continuações e 2) um filme que mistura piratas e cientistas parece ter tanta certeza do que quer quanto Cowboys e Aliens.
 

@@ -1,25 +1,10 @@
 ---
-date: "2012-07-02"
 imdb: "1441952"
+date: "2012-07-02"
+categories: "movies"
 title: "Amor Impossível"
 stars: "3/5"
-categories: "movies"
-_title: "Salmon Fishing in the Yemen"
-_year: "2011"
-_director: ["Lasse Hallström", ]
-_writer: ["Simon Beaufoy", "Paul Torday", ]
-_cast: ["Amr Waked", "Emily Blunt", "Catherine Steadman", "Tom Mison", "Ewan McGregor", "Rachael Stirling", "Kristin Scott Thomas", "Tom Beard", "Jill Baker", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Lisa Gunning", ]
-_cinematographer: ["Terry Stacey", ]
-_music: ["Dario Marianelli", ]
-_genres: ["Comedy", ]
-_runtimes: ["107", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTYxMzA2NTU5MF5BMl5BanBnXkFtZTcwMjI0MDI0Nw@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTYxMzA2NTU5MF5BMl5BanBnXkFtZTcwMjI0MDI0Nw@@._V1._SX93_SY140_.jpg"
+desc: "Amor Impossível. Salmon Fishing in the Yemen (UK, 2011). Dirigido por Lasse Hallström. Escrito por Simon Beaufoy, Paul Torday. Com Amr Waked, Emily Blunt, Catherine Steadman, Tom Mison, Ewan McGregor, Rachael Stirling, Kristin Scott Thomas, Tom Beard, Jill Baker."
 ---
 A ideia por trás do romance de Paul Torday poderia se sair muito bem como um livro e até, com uma adaptação adequada, um filme. Porém, a tentativa frustrada do diretor Lasse Hallström (Gilbert Grape - Aprendiz de Um Sonhador) e do roteirista Simon Beaufoy (Quem Quer Ser Um Milionário?) esbarra na injustificada tendência em transformar um drama em uma comédia romântica engraçadinha. Aliás, a tentativa de fazer humor com o uso do primeiro-ministro e sua assessora, se funcionam no início, depois se tornam repetitivos e apelativos para dar ênfase ao lado engraçado da narrativa que inexiste na história principal.
 

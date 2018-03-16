@@ -1,23 +1,10 @@
 ---
-date: "2016-02-23"
 imdb: "3183630"
-stars: "3/5"
+date: "2016-02-23"
 categories: "movies"
 title: "O Menino e o Mundo"
-_title: "O Menino e o Mundo"
-_year: "2013"
-_director: ["Alê Abreu", ]
-_writer: ["Alê Abreu", ]
-_cast: ["Vinicius Garcia", "Felipe Zilse", "Alê Abreu", "Lu Horta", "Marco Aurélio Campos", ]
-_countries: ["Brazil", ]
-_languages: ["Portuguese", ]
-_editor: ["Alê Abreu", ]
-_music: ["Ruben Feffer", "Gustavo Kurlat", ]
-_genres: ["Animation", ]
-_runtimes: ["80::(original version)", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTY4MTAwODg1NF5BMl5BanBnXkFtZTgwMTUyMDQyNzE@.jpg"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTY4MTAwODg1NF5BMl5BanBnXkFtZTgwMTUyMDQyNzE@._V1._SX96_SY140_.jpg"
+stars: "3/5"
+desc: "O Menino e o Mundo. O Menino e o Mundo (Brazil, 2013). Dirigido por Alê Abreu. Escrito por Alê Abreu. Com Vinicius Garcia, Felipe Zilse, Alê Abreu, Lu Horta, Marco Aurélio Campos."
 ---
 O Menino e o Mundo é uma animação sobre os olhos de um menino enxergando o mundo. E de fato ele consegue isso, com maestria: o mundo que vemos é estático, simplista, ingênuo e dramatizado até a última gota de tinta.
 

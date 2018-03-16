@@ -1,25 +1,10 @@
 ---
-date: "2013-07-28"
 imdb: "2243389"
+date: "2013-07-28"
+categories: "movies"
 title: "Os Amantes Passageiros"
 stars: "3/5"
-categories: "movies"
-_title: "Los amantes pasajeros"
-_year: "2013"
-_director: ["Pedro Almodóvar", ]
-_writer: ["Pedro Almodóvar", ]
-_cast: ["Antonio Banderas", "Penélope Cruz", "Coté Soler", "Antonio de la Torre", "Hugo Silva", "Miguel Ángel Silvestre", "Laya Martí", "Javier Cámara", "Carlos Areces", ]
-_countries: ["Spain", ]
-_languages: ["Spanish", ]
-_editor: ["José Salcedo", ]
-_cinematographer: ["José Luis Alcaine", ]
-_music: ["Alberto Iglesias", ]
-_genres: ["Comedy", ]
-_runtimes: ["90", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjM0MDY2OTEzNl5BMl5BanBnXkFtZTcwMjI5ODU0OQ@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjM0MDY2OTEzNl5BMl5BanBnXkFtZTcwMjI5ODU0OQ@@._V1._SX94_SY140_.jpg"
+desc: "Os Amantes Passageiros. Los amantes pasajeros (Spain, 2013). Dirigido por Pedro Almodóvar. Escrito por Pedro Almodóvar. Com Antonio Banderas, Penélope Cruz, Coté Soler, Antonio de la Torre, Hugo Silva, Miguel Ángel Silvestre, Laya Martí, Javier Cámara, Carlos Areces."
 ---
 Almodóvar volta às suas origens das divertidas comédias dramáticas voltadas para personagens homossexuais, videntes e todo o tipo de intriga novelesca. Aliás, a diferença vital entre novelas televisivas e Almodóvar é que este conta uma história como ninguém (e geralmente assina o roteiro).
 

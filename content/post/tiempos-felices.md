@@ -1,27 +1,11 @@
 ---
+tags: ['netflix']
+imdb: "2173244"
 date: "2017-03-10"
 categories: "movies"
 title: "Tiempos Felices"
-imdb: "2173244"
 stars: "3/5"
-tags: ['netflix']
-_title: "Tiempos Felices"
-_year: "2014"
-_director: ["Luis Javier M. Henaine", ]
-_writer: ["Luis Javier M. Henaine", "Alejandra Olvera Avila", ]
-_cast: ["Luis Arrieta (Max Quintana)", "Cassandra Ciangherotti (Mónica Villalobos)", "Humberto Busto (Niko)", "Iván Arana (Rigo)", "Daniela Gerdes (Andrea Villalobos)", "Miguel Rodarte (Psicólogo Agencia)", "J.C. Montes-Roldan (Investigador Agencia)", "Jorge Caballero (Investigador Agencia)", "Elizabeth Guindi (Señora Villalobos)", ]
-_countries: ["Mexico", ]
-_languages: ["Spanish", ]
-_editor: ["Branko Gomez Palacio", "Luis Javier M. Henaine", ]
-_cinematographer: ["Diego García", ]
-_music: ["Marc Collin", ]
-_costume designer: ["Andrea Manuel", ]
-_genres: ["Comedy", ]
-_runtimes: ["80", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTA2Mjc2MDYxMDdeQTJeQWpwZ15BbWU4MDMzMjg0MDQx.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTA2Mjc2MDYxMDdeQTJeQWpwZ15BbWU4MDMzMjg0MDQx._V1._SX98_SY140_.jpg"
+desc: "Tiempos Felices. Tiempos Felices (Mexico, 2014). Dirigido por Luis Javier M. Henaine. Escrito por Luis Javier M. Henaine, Alejandra Olvera Avila. Com Luis Arrieta (Max Quintana), Cassandra Ciangherotti (Mónica Villalobos), Humberto Busto (Niko), Iván Arana (Rigo), Daniela Gerdes (Andrea Villalobos), Miguel Rodarte (Psicólogo Agencia), J.C. Montes-Roldan (Investigador Agencia), Jorge Caballero (Investigador Agencia), Elizabeth Guindi (Señora Villalobos)."
 ---
 Este é o clichê versão argentina daquela comédia onde o namorado quer se separar mas não consegue dizer para a namorada. A partir daí você já deve conseguir concluir que verá aquela velha cena dele imaginando que está se separando e as possíveis reações da sua ex-amada.
 

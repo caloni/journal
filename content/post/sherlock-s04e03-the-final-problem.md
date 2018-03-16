@@ -1,25 +1,11 @@
 ---
+tags: ['netflix', 'sherlock', 'series']
+imdb: "3845892"
 date: "2017-04-16"
 categories: "blog"
 title: "Sherlock - Quarta Temporada, Episódio 3: The Final Problem"
-imdb: "3845892"
 stars: "3/5"
-tags: ['netflix', 'sherlock', 'series']
-_title: "The Final Problem"
-_year: "2017"
-_director: ["Benjamin Caron", ]
-_writer: ["Mark Gatiss", "Steven Moffat", "Arthur Conan Doyle", ]
-_cast: ["Benedict Cumberbatch (Sherlock Holmes)", "Martin Freeman (Dr. John Watson)", "Mark Gatiss (Mycroft Holmes)", "Una Stubbs (Mrs. Hudson)", "Rupert Graves (DI Lestrade)", "Louise Brealey (Molly Hooper)", "Amanda Abbington (Mary Watson)", "Andrew Scott (Jim Moriarty)", "Sian Brooke (Eurus Holmes)", ]
-_editor: ["Yan Miles", ]
-_cinematographer: ["David Luther", ]
-_music: ["David Arnold", "Michael Price", ]
-_artdirection: ["Dafydd Shurmer", ]
-_costume designer: ["Sarah Arthur", ]
-_genres: ["Crime", ]
-_runtimes: ["88", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNzQ5YzQzNzItYTQ3My00NzE5LTkyZTUtNGRlNWJlYjVhYTM1L2ltYWdlXkEyXkFqcGdeQXVyNDUzOTQ5MjY@.jpg"
-_kind: "episode"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNzQ5YzQzNzItYTQ3My00NzE5LTkyZTUtNGRlNWJlYjVhYTM1L2ltYWdlXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1._SX100_SY119_.jpg"
+desc: "Sherlock - Quarta Temporada, Episódio 3: The Final Problem. Dirigido por Benjamin Caron. Escrito por Mark Gatiss, Steven Moffat, Arthur Conan Doyle. Com Benedict Cumberbatch (Sherlock Holmes), Martin Freeman (Dr. John Watson), Mark Gatiss (Mycroft Holmes), Una Stubbs (Mrs. Hudson), Rupert Graves (DI Lestrade), Louise Brealey (Molly Hooper), Amanda Abbington (Mary Watson), Andrew Scott (Jim Moriarty), Sian Brooke (Eurus Holmes)."
 ---
 Constituindo o episódio mais fraco da temporada, este é apenas um joguinho que tenta apresentar uma nova personagem de maneira impactante e exagerada, mas que no máximo o que consegue é colocar o brilhante detetive e seu fiel escudeiro em um jogo de videogame de luxo, onde vidas serão tiradas, mas nem isso incomoda mais os fãs do psicopata que está do lado da lei.
 

@@ -1,25 +1,10 @@
 ---
-date: "2013-05-23"
 imdb: "1034427"
+date: "2013-05-23"
+categories: "movies"
 title: "Alexandra"
 stars: "3/5"
-categories: "movies"
-_title: "Aleksandra"
-_year: "2007"
-_director: ["Aleksandr Sokurov", ]
-_writer: ["Aleksandr Sokurov", ]
-_cast: ["Galina Vishnevskaya", "Vasily Shevtsov", "Raisa Gichaeva", "Andrei Bogdanov", "Aleksandr Kladko", "Aleksei Neymyshev", "Rustam Shakhgireev", "Evgeniy Tkachuk", ]
-_countries: ["Russia", ]
-_languages: ["Russian", ]
-_editor: ["Sergey Ivanov", ]
-_cinematographer: ["Aleksandr Burov", ]
-_music: ["Andrey Sigle", ]
-_genres: ["Drama", ]
-_runtimes: ["95", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTU5NDUxMzkyMF5BMl5BanBnXkFtZTcwODI4MDk0Mg@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTU5NDUxMzkyMF5BMl5BanBnXkFtZTcwODI4MDk0Mg@@._V1._SX99_SY140_.jpg"
+desc: "Alexandra. Aleksandra (Russia, 2007). Dirigido por Aleksandr Sokurov. Escrito por Aleksandr Sokurov. Com Galina Vishnevskaya, Vasily Shevtsov, Raisa Gichaeva, Andrei Bogdanov, Aleksandr Kladko, Aleksei Neymyshev, Rustam Shakhgireev, Evgeniy Tkachuk."
 ---
 Sokurov parece sempre voltar às relações familiares, especialmente a entre mãe e filho, tão importante na Rússia. Aqui acompanhamos Alexandra, a mãe de um dos oficiais de um grupo de soldados que acampa próximo à fronteira com os eslavos. Não é um filme de guerra, mas sobre a guerra.
 

@@ -1,26 +1,11 @@
 ---
+tags: ['oscar']
+imdb: "2948356"
 date: "2016-07-02"
 categories: "movies"
-imdb: "2948356"
-stars: "4/5"
 title: "Zootopia"
-tags: ['oscar']
-_title: "Zootopia"
-_year: "2016"
-_director: ["Byron Howard", "Rich Moore", "Jared Bush", ]
-_writer: ["Byron Howard", "Rich Moore", "Jared Bush", "Jim Reardon", "Josie Trinidad", "Phil Johnston", "Jennifer Lee", "Jared Bush", "Phil Johnston", ]
-_cast: ["Ginnifer Goodwin", "Jason Bateman", "Idris Elba", "Jenny Slate", "Nate Torrence", "Bonnie Hunt", "Don Lake", "Tommy Chong", "J.K. Simmons", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Jeremy Milton", "Fabienne Rawley", ]
-_music: ["Michael Giacchino", ]
-_artdirection: ["Matthias Lechner", ]
-_genres: ["Animation", ]
-_runtimes: ["108", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BOTMyMjEyNzIzMV5BMl5BanBnXkFtZTgwNzIyNjU0NzE@.jpg"
-_ratio: "2.39 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BOTMyMjEyNzIzMV5BMl5BanBnXkFtZTgwNzIyNjU0NzE@._V1._SX94_SY140_.jpg"
+stars: "4/5"
+desc: "Zootopia. Zootopia (USA, 2016). Dirigido por Byron Howard, Rich Moore, Jared Bush. Escrito por Byron Howard, Rich Moore, Jared Bush, Jim Reardon, Josie Trinidad, Phil Johnston, Jennifer Lee, Jared Bush, Phil Johnston. Com Ginnifer Goodwin, Jason Bateman, Idris Elba, Jenny Slate, Nate Torrence, Bonnie Hunt, Don Lake, Tommy Chong, J.K. Simmons."
 ---
 Direita x Esquerda? Opressores x Oprimidos? Predadores x Presas? A imbecilidade dos liberais americanos apenas compete com sua genialidade nesse novo filme da Disney, que explora um tema político em um filme para crianças que possui 2 ou 3 piadas bem pontuais, mas que no fundo é muito mais para adolescentes e com conteúdo adulto.
 

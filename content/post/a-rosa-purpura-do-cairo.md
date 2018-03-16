@@ -1,25 +1,10 @@
 ---
-date: "2013-12-16"
 imdb: "0089853"
+date: "2013-12-16"
+categories: "movies"
 title: "A Rosa Púrpura do Cairo"
 stars: "4/5"
-categories: "movies"
-_title: "The Purple Rose of Cairo"
-_year: "1985"
-_director: ["Woody Allen", ]
-_writer: ["Woody Allen", ]
-_cast: ["Mia Farrow", "Jeff Daniels", "Danny Aiello", "Irving Metzman", "Stephanie Farrow", "David Kieserman", "Elaine Grollman", "Victoria Zussin", "Mark Hammond", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Susan E. Morse", ]
-_cinematographer: ["Gordon Willis", ]
-_music: ["Dick Hyman", ]
-_genres: ["Comedy", ]
-_runtimes: ["82", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTUyODM2ODI0OF5BMl5BanBnXkFtZTcwOTIwMzg4NA@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTUyODM2ODI0OF5BMl5BanBnXkFtZTcwOTIwMzg4NA@@._V1._SX93_SY140_.jpg"
+desc: "A Rosa Púrpura do Cairo. The Purple Rose of Cairo (USA, 1985). Dirigido por Woody Allen. Escrito por Woody Allen. Com Mia Farrow, Jeff Daniels, Danny Aiello, Irving Metzman, Stephanie Farrow, David Kieserman, Elaine Grollman, Victoria Zussin, Mark Hammond."
 ---
 Woody Allen parece dirigir tantos filmes que seus temas começam a girar em torno do seu próprio processo criativo. Se isso fica óbvio no excelente Desconstruindo Harry, fica fascinante a manipulação e as críticas desse processo em A Rosa Púrpura do Cairo, onde um dos personagens de um filme sai da tela ao se apaixonar por uma espectadora que viu o mesmo filme por várias vezes.
 

@@ -1,28 +1,11 @@
 ---
-imdb: "5311514"
-stars: "3/5"
 tags: ['cinema']
+imdb: "5311514"
 date: 2017-10-31T16:37:36
-title: "Your Name"
 categories: "movies"
-_title: "Kimi no na wa."
-_year: "2016"
-_director: ["Makoto Shinkai", ]
-_writer: ["Makoto Shinkai", "Clark Cheng", ]
-_cast: ["Ryûnosuke Kamiki (Taki Tachibana)", "Mone Kamishiraishi (Mitsuha Miyamizu)", "Ryô Narita (Katsuhiko Teshigawara)", "Aoi Yûki (Sayaka Natori)", "Nobunaga Shimazaki (Tsukasa Fujii)", "Kaito Ishikawa (Shinta Takagi)", "Kanon Tani (Yotsuha Miyamizu)", "Masaki Terasoma (Toshiki Miyamizu)", "Sayaka Ohara (Futaha Miyamizu)", ]
-_countries: ["Japan", ]
-_languages: ["Japanese", ]
-_editor: ["Makoto Shinkai", ]
-_cinematographer: ["Makoto Shinkai", ]
-_music: ["Radwimps", ]
-_artdirection: ["Akiko Majima", "Takumi Tanji", "Tasuku Watanabe", ]
-_genres: ["Animation", ]
-_runtimes: ["106", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BODRmZDVmNzUtZDA4ZC00NjhkLWI2M2UtN2M0ZDIzNDcxYThjL2ltYWdlXkEyXkFqcGdeQXVyNTk0MzMzODA@.jpg"
-_ratio: "1.78 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BODRmZDVmNzUtZDA4ZC00NjhkLWI2M2UtN2M0ZDIzNDcxYThjL2ltYWdlXkEyXkFqcGdeQXVyNTk0MzMzODA@._V1._SX94_SY140_.jpg"
-_releasedate: "October 2017"
+title: "Your Name"
+stars: "3/5"
+desc: "Your Name. Kimi no na wa. (Japan, 2016). Dirigido por Makoto Shinkai. Escrito por Makoto Shinkai, Clark Cheng. Com Ryûnosuke Kamiki (Taki Tachibana), Mone Kamishiraishi (Mitsuha Miyamizu), Ryô Narita (Katsuhiko Teshigawara), Aoi Yûki (Sayaka Natori), Nobunaga Shimazaki (Tsukasa Fujii), Kaito Ishikawa (Shinta Takagi), Kanon Tani (Yotsuha Miyamizu), Masaki Terasoma (Toshiki Miyamizu), Sayaka Ohara (Futaha Miyamizu)."
 ---
 Para os que estão acostumados com os média-metragens do diretor/roteirista Makoko Shinkai, como [O Jardim das Palavras](/o-jardim-das-palavras), vão perceber uma característica marcante em seu novo trabalho, Your Name: não há aqui uma história completa a ser contada; mas sensações. É a jogada de uma miscelânea de ideias cativantes, como se colocar no lugar do outro, que dá origem à sua essência, que é explorada inúmeras vezes em lindas sequências de animação.
 

@@ -1,25 +1,10 @@
 ---
-date: "2010-10-08"
 imdb: "1555149"
+date: "2010-10-08"
+categories: "movies"
 title: "Tropa de Elite 2 O Inimigo Agora É Outro"
 stars: "5/5"
-categories: "movies"
-_title: "Tropa de Elite 2: O Inimigo Agora é Outro"
-_year: "2010"
-_director: ["José Padilha", ]
-_writer: ["Bráulio Mantovani", "Bráulio Mantovani", "José Padilha", "José Padilha", "Rodrigo Pimentel", ]
-_cast: ["Wagner Moura", "Irandhir Santos", "André Ramiro", "Milhem Cortaz", "Maria Ribeiro", "Seu Jorge", "Sandro Rocha", "Tainá Müller", "André Mattos", ]
-_countries: ["Brazil", ]
-_languages: ["Portuguese", ]
-_editor: ["Daniel Rezende", ]
-_cinematographer: ["Lula Carvalho", ]
-_music: ["Pedro Bromfman", ]
-_genres: ["Action", ]
-_runtimes: ["115", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjA0NjA2OTk2MV5BMl5BanBnXkFtZTcwNzIxNjk5Ng@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjA0NjA2OTk2MV5BMl5BanBnXkFtZTcwNzIxNjk5Ng@@._V1._SX95_SY140_.jpg"
+desc: "Tropa de Elite 2 O Inimigo Agora É Outro. Tropa de Elite 2: O Inimigo Agora é Outro (Brazil, 2010). Dirigido por José Padilha. Escrito por Bráulio Mantovani, Bráulio Mantovani, José Padilha, José Padilha, Rodrigo Pimentel. Com Wagner Moura, Irandhir Santos, André Ramiro, Milhem Cortaz, Maria Ribeiro, Seu Jorge, Sandro Rocha, Tainá Müller, André Mattos."
 ---
 Os trailers da continuação da história do morro do ponto de vista do Cap. Nascimento deixam bem visível, inclusive no seu subtítulo, que iremos acompanhar uma nova guinada na explicação do sistema, algo um pouco mais acima da hierarquia: vai entrar no mundo da política. Isso pode dar a impressão que a história ficaria mais monótona e com pouca ação. Talvez dê até a impressão que não será possível fazer os belos quadros que vimos no primeiro, que junta todos os pontos da narrativa de maneira tão eficaz. Ledo engano: essa continuação fica ainda mais densa e com uma história ainda mais perversa e criativa, nos dando a oportunidade de ir mais além na história do morro, imaginando como seria se o BOPE realmente detonasse os traficantes.
 

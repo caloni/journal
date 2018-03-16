@@ -1,25 +1,10 @@
 ---
-date: "2014-01-17"
 imdb: "0366551"
+date: "2014-01-17"
+categories: "movies"
 title: "Madrugada Muito Louca"
 stars: "3/5"
-categories: "movies"
-_title: "Harold & Kumar Go to White Castle"
-_year: "2004"
-_director: ["Danny Leiner", ]
-_writer: ["Jon Hurwitz", "Hayden Schlossberg", ]
-_cast: ["John Cho", "Ethan Embry", "Rob Tinkler", "Fred Willard", "Kal Penn", "Steve Braun", "Dan Bochart", "Paula Garcés", "Mike Sheer", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Jeff Betancourt", ]
-_cinematographer: ["Bruce Douglas Johnson", ]
-_music: ["David Kitay", ]
-_genres: ["Adventure", ]
-_runtimes: ["88", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNDQyMTg3Mzk4MV5BMl5BanBnXkFtZTcwMDM4NzUyMQ@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNDQyMTg3Mzk4MV5BMl5BanBnXkFtZTcwMDM4NzUyMQ@@._V1._SX94_SY140_.jpg"
+desc: "Madrugada Muito Louca. Harold & Kumar Go to White Castle (USA, 2004). Dirigido por Danny Leiner. Escrito por Jon Hurwitz, Hayden Schlossberg. Com John Cho, Ethan Embry, Rob Tinkler, Fred Willard, Kal Penn, Steve Braun, Dan Bochart, Paula Garcés, Mike Sheer."
 ---
 Tenho ressalvas para criticar um filme que simula de forma tão fidedigna as comédias dos anos 80 que se voltavam para os jovens despretensiosos em busca de sexo e diversão. Nesse caso, a diversão de Harold (John Cho) e Billy (Ethan Embry) se resume a maconha. E, além do sexo ocasional, o que eles mais almejam nessa madrugada são os deliciosos hambúrgueres de uma lanchonete que está difícil de encontrar: é o "holy grail" dos Mc Donalds.
 

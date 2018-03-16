@@ -1,24 +1,10 @@
 ---
-date: "2012-04-11"
 imdb: "0459666"
+date: "2012-04-11"
+categories: "movies"
 title: "Three Times"
 stars: "4/5"
-categories: "movies"
-_title: "Zui hao de shi guang"
-_year: "2005"
-_director: ["Hsiao-Hsien Hou", ]
-_writer: ["T'ien-wen Chu", "Hsiao-Hsien Hou", ]
-_cast: ["Qi Shu", "Chen Chang", "Fang Mei", "Shu-Chen Liao", "Mei Di", "Shi-Shan Chen", "Lee Pei-Hsuan", "Lawrence Ko", ]
-_countries: ["France", ]
-_languages: ["Mandarin", ]
-_editor: ["Ching-Song Liao", ]
-_cinematographer: ["Ping Bin Lee", ]
-_genres: ["Drama", ]
-_runtimes: ["USA:120", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTM3MTQyNjg5NV5BMl5BanBnXkFtZTcwMzgxMTYzMQ@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTM3MTQyNjg5NV5BMl5BanBnXkFtZTcwMzgxMTYzMQ@@._V1._SX97_SY140_.jpg"
+desc: "Three Times. Zui hao de shi guang (France, 2005). Dirigido por Hsiao-Hsien Hou. Escrito por T'ien-wen Chu, Hsiao-Hsien Hou. Com Qi Shu, Chen Chang, Fang Mei, Shu-Chen Liao, Mei Di, Shi-Shan Chen, Lee Pei-Hsuan, Lawrence Ko."
 ---
 "Dê seu preço. Eu quero vender minha alma. Sem passado. Sem futuro. Apenas um ganancioso presente."
 

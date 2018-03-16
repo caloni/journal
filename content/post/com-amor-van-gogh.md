@@ -1,29 +1,11 @@
 ---
-imdb: "3262342"
-stars: "4/5"
 tags: ['cinema']
+imdb: "3262342"
 date: 2017-12-09T22:42:16
-title: "Com Amor Van Gogh"
 categories: "movies"
-_title: "Loving Vincent"
-_year: "2017"
-_director: ["Dorota Kobiela", "Hugh Welchman", ]
-_writer: ["Dorota Kobiela", "Hugh Welchman", "Jacek Dehnel", ]
-_cast: ["Douglas Booth (Armand Roulin)", "Josh Burdett (The Zouave)", "Holly Earl (La Mousme)", "Robin Hodges (Lieutenant Milliet)", "Chris O'Dowd (Postman Joseph Roulin)", "John Sessions (Pere Tanguy)", "Helen McCrory (Louise Chevalier)", "Eleanor Tomlinson (Adeline Ravoux)", "Aidan Turner (The Boatman)", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Dorota Kobiela", "Justyna Wierszynska", ]
-_cinematographer: ["Tristan Oliver", "Lukasz Zal", ]
-_music: ["Clint Mansell", ]
-_artdirection: ["Daniela Faggio", ]
-_costume designer: ["Dorota Roqueplo", ]
-_genres: ["Animation", ]
-_runtimes: ["94", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU3NjE2NjgwN15BMl5BanBnXkFtZTgwNDYzMzEwMzI@.jpg"
-_ratio: "1.33 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU3NjE2NjgwN15BMl5BanBnXkFtZTgwNDYzMzEwMzI@._V1._SX96_SY140_.jpg"
-_releasedate: "30 November 2017"
+title: "Com Amor Van Gogh"
+stars: "4/5"
+desc: "Com Amor Van Gogh. Loving Vincent (UK, 2017). Dirigido por Dorota Kobiela, Hugh Welchman. Escrito por Dorota Kobiela, Hugh Welchman, Jacek Dehnel. Com Douglas Booth (Armand Roulin), Josh Burdett (The Zouave), Holly Earl (La Mousme), Robin Hodges (Lieutenant Milliet), Chris O'Dowd (Postman Joseph Roulin), John Sessions (Pere Tanguy), Helen McCrory (Louise Chevalier), Eleanor Tomlinson (Adeline Ravoux), Aidan Turner (The Boatman)."
 ---
 O que foi feito neste Loving Vincent é um trabalho curioso, quase fascinante e que merece uma visita pelo menos. Eles pegam a história em torno da morte do pintor moderno Vincent Van Gogh e montam um thriller no estilo Agatha Christie, meio teatral e meio noir, mas com toques artísticos e dramáticos porque se trata da história de um artista renomado. A grande propaganda deste filme é que todos os seus quadros foram "pintados à mão", no mesmo estilo do pintor, o que torna o filme um trabalho adaptado da obra do artista. É um trabalho de fundo verde e de 100 pintores. Algo único, com certeza. Mas uma obra de arte?
 

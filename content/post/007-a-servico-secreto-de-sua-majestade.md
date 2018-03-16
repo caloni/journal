@@ -1,25 +1,10 @@
 ---
-date: "2013-02-01"
 imdb: "0064757"
+date: "2013-02-01"
+categories: "movies"
 title: "007 A Serviço Secreto de Sua Majestade"
 stars: "5/5"
-categories: "movies"
-_title: "On Her Majesty's Secret Service"
-_year: "1969"
-_director: ["Peter R. Hunt", ]
-_writer: ["Simon Raven", "Richard Maibaum", "Ian Fleming", ]
-_cast: ["George Lazenby", "Diana Rigg", "Telly Savalas", "Gabriele Ferzetti", "Ilse Steppat", "Lois Maxwell", "George Baker", "Bernard Lee", "Bernard Horsfall", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["John Glen", ]
-_cinematographer: ["Michael Reed", ]
-_music: ["John Barry", ]
-_genres: ["Action", ]
-_runtimes: ["142", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTc0NDYzMjgyNV5BMl5BanBnXkFtZTcwMjgyMzY0NA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTc0NDYzMjgyNV5BMl5BanBnXkFtZTcwMjgyMzY0NA@@._V1._SX93_SY140_.jpg"
+desc: "007 A Serviço Secreto de Sua Majestade. On Her Majesty's Secret Service (UK, 1969). Dirigido por Peter R. Hunt. Escrito por Simon Raven, Richard Maibaum, Ian Fleming. Com George Lazenby, Diana Rigg, Telly Savalas, Gabriele Ferzetti, Ilse Steppat, Lois Maxwell, George Baker, Bernard Lee, Bernard Horsfall."
 ---
 Mais intenso, talvez pela incerteza na troca de Sean Connery por George Lazenby, e já entregando uma trama que mexe na vida pessoal do agente secreto como nunca antes, A Serviço Secreto de Sua Majestade é também um excelente filme de ação, tanto para sua época quanto para agora.
 

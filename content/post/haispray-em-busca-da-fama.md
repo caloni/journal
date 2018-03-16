@@ -1,25 +1,10 @@
 ---
-date: "2012-05-14"
 imdb: "0427327"
+date: "2012-05-14"
+categories: "movies"
 title: "Hairspray Em Busca da Fama"
 stars: "3/5"
-categories: "movies"
-_title: "Hairspray"
-_year: "2007"
-_director: ["Adam Shankman", ]
-_writer: ["Leslie Dixon", "John Waters", "Mark O'Donnell", "Thomas Meehan", ]
-_cast: ["John Travolta", "Michelle Pfeiffer", "Christopher Walken", "Amanda Bynes", "James Marsden", "Queen Latifah", "Brittany Snow", "Zac Efron", "Elijah Kelley", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Michael Tronick", ]
-_cinematographer: ["Bojan Bazelli", ]
-_music: ["Marc Shaiman", ]
-_genres: ["Comedy", ]
-_runtimes: ["117", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTIyMTMzNzIyNV5BMl5BanBnXkFtZTcwMjM1NDk0MQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTIyMTMzNzIyNV5BMl5BanBnXkFtZTcwMjM1NDk0MQ@@._V1._SX96_SY140_.jpg"
+desc: "Hairspray Em Busca da Fama. Hairspray (USA, 2007). Dirigido por Adam Shankman. Escrito por Leslie Dixon, John Waters, Mark O'Donnell, Thomas Meehan. Com John Travolta, Michelle Pfeiffer, Christopher Walken, Amanda Bynes, James Marsden, Queen Latifah, Brittany Snow, Zac Efron, Elijah Kelley."
 ---
 Há uma mensagem muito bela em Hairspray, sobre o fim da guerra inter-racial ocorrida nos EUA na década de 60. Aliada a danças empolgantes e teatrais, nos leva a concluir tristemente que sua moral pertence ao mundo dos sonhos, da dança. E é na dança que está a maior virtude e o maior defeito desse filme.
 

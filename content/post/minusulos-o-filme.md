@@ -1,22 +1,10 @@
 ---
-date: "2015-01-04"
-title: "Minúsculos O Filme"
 imdb: "2368672"
-stars: "5/5"
+date: "2015-01-04"
 categories: "movies"
-_title: "Minuscule - La vallée des fourmis perdues"
-_year: "2013"
-_director: ["Hélène Giraud", "Thomas Szabo", ]
-_writer: ["Thomas Szabo", "Hélène Giraud", ]
-_countries: ["France", ]
-_languages: ["None", ]
-_music: ["Hervé Lavandier", ]
-_genres: ["Animation", ]
-_runtimes: ["89", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQyNDk1NzEwM15BMl5BanBnXkFtZTgwNTQ5NzIxMTE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQyNDk1NzEwM15BMl5BanBnXkFtZTgwNTQ5NzIxMTE@._V1._SX100_SY133_.jpg"
+title: "Minúsculos O Filme"
+stars: "5/5"
+desc: "Minúsculos O Filme. Minuscule - La vallée des fourmis perdues (France, 2013). Dirigido por Hélène Giraud, Thomas Szabo. Escrito por Thomas Szabo, Hélène Giraud."
 ---
 Me encantam filmes cuja ideia não parece muito boa ou de difícil execução, mas então, remando contra a maré, surge um trabalho inspirador.
 

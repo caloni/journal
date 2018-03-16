@@ -1,28 +1,11 @@
 ---
+tags: ['netflix', 'dublado']
+imdb: "0471042"
 date: "2017-01-21"
 categories: "movies"
 title: "Roubo nas Alturas"
-imdb: "0471042"
 stars: "2/5"
-tags: ['netflix', 'dublado']
-_title: "Tower Heist"
-_year: "2011"
-_director: ["Brett Ratner", ]
-_writer: ["Adam Cooper", "Bill Collage", "Ted Griffin", "Jeff Nathanson", ]
-_cast: ["Ben Stiller (Josh Kovaks)", "Eddie Murphy (Slide)", "Casey Affleck (Charlie)", "Alan Alda (Arthur Shaw)", "Matthew Broderick (Mr. Fitzhugh)", "Stephen Henderson (Lester)", "Judd Hirsch (Mr. Simon)", "Téa Leoni (Special Agent Claire Denham)", "Michael Peña (Enrique Dev'Reaux)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Mark Helfrich", ]
-_cinematographer: ["Dante Spinotti", ]
-_music: ["Christophe Beck", ]
-_artdirection: ["Nicholas Lundy", ]
-_costume designer: ["Sarah Edwards", ]
-_genres: ["Action", ]
-_runtimes: ["104", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY1NDQxMTcwOV5BMl5BanBnXkFtZTcwNzMzNTExNg@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY1NDQxMTcwOV5BMl5BanBnXkFtZTcwNzMzNTExNg@@._V1._SX94_SY140_.jpg"
+desc: "Roubo nas Alturas. Tower Heist (USA, 2011). Dirigido por Brett Ratner. Escrito por Adam Cooper, Bill Collage, Ted Griffin, Jeff Nathanson. Com Ben Stiller (Josh Kovaks), Eddie Murphy (Slide), Casey Affleck (Charlie), Alan Alda (Arthur Shaw), Matthew Broderick (Mr. Fitzhugh), Stephen Henderson (Lester), Judd Hirsch (Mr. Simon), Téa Leoni (Special Agent Claire Denham), Michael Peña (Enrique Dev'Reaux)."
 ---
 Este é um filhote dos filmes que criticam os ricaços de Wall Street que fraudaram seus clientes. Juntando em um bolo só, aqui os clientes são também funcionários de um prédio chique em Nova Iorque onde o ricaço é o cliente. Há um quê de retorno aos anos 80, com Eddie Murphy fazendo um ladrão pé-de-chinelo e um plot previsível entediante. O que salva é o elenco competente, com piadas engraçadas o suficiente para tornar a experiência passável.
 

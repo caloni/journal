@@ -1,27 +1,10 @@
 ---
-date: "2015-08-23"
 imdb: "1361313"
-stars: "3/5"
+date: "2015-08-23"
 categories: "movies"
 title: "Os Acompanhantes"
-_title: "The Extra Man"
-_year: "2010"
-_director: ["Shari Springer Berman", "Robert Pulcini", ]
-_writer: ["Robert Pulcini", "Jonathan Ames", "Shari Springer Berman", "Jonathan Ames", ]
-_cast: ["Paul Dano", "Marian Seldes", "Celia Weston", "Patti D'Arbanville", "John C. Reilly", "Dan Hedaya", "Kevin Kline", "Jason Butler Harner", "Alex Burns", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Robert Pulcini", ]
-_cinematographer: ["Terry Stacey", ]
-_music: ["Klaus Badelt", ]
-_artdirection: ["Charles Kulsziski", ]
-_costume designer: ["Suttirat Anne Larlarb", ]
-_genres: ["Comedy", ]
-_runtimes: ["108", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNzkzMTgxODIxMF5BMl5BanBnXkFtZTcwNDU4MTQ1Mw@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNzkzMTgxODIxMF5BMl5BanBnXkFtZTcwNDU4MTQ1Mw@@._V1._SX94_SY140_.jpg"
+stars: "3/5"
+desc: "Os Acompanhantes. The Extra Man (USA, 2010). Dirigido por Shari Springer Berman, Robert Pulcini. Escrito por Robert Pulcini, Jonathan Ames, Shari Springer Berman, Jonathan Ames. Com Paul Dano, Marian Seldes, Celia Weston, Patti D'Arbanville, John C. Reilly, Dan Hedaya, Kevin Kline, Jason Butler Harner, Alex Burns."
 ---
 Não é de hoje que acompanho o ótimo desempenho de Paul Dano e sua ascenção desde Pequena Miss Sunshine. Dotado de uma feição característica, sua figura simpática e ingênua soa familiar na maioria dos seus filmes em que é o mocinho. Porém, o que mais gosto nele são seus trabalhos como vilão (Sangue Negro, 12 Anos de Escravidão, Os Suspeitos), pois sua feição "característica" adquire uma função muito mais efetiva: a vontade de socar a sua cara.
 

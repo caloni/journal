@@ -1,25 +1,10 @@
 ---
-date: "2013-11-27"
 imdb: "0079367"
+date: "2013-11-27"
+categories: "movies"
 title: "O Panaca"
 stars: "4/5"
-categories: "movies"
-_title: "The Jerk"
-_year: "1979"
-_director: ["Carl Reiner", ]
-_writer: ["Steve Martin", "Carl Gottlieb", "Michael Elias", "Steve Martin", "Carl Gottlieb", ]
-_cast: ["Steve Martin", "Bernadette Peters", "Catlin Adams", "Mabel King", "Richard Ward", "Dick Anthony Williams", "Bill Macy", "M. Emmet Walsh", "Dick O'Neill", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Bud Molin", "Ron Spang", ]
-_cinematographer: ["Victor J. Kemper", ]
-_music: ["Jack Elliott", ]
-_genres: ["Comedy", ]
-_runtimes: ["94", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTcwNDYyNzg5Nl5BMl5BanBnXkFtZTgwNzE3OTkwMDE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTcwNDYyNzg5Nl5BMl5BanBnXkFtZTgwNzE3OTkwMDE@._V1._SX95_SY140_.jpg"
+desc: "O Panaca. The Jerk (USA, 1979). Dirigido por Carl Reiner. Escrito por Steve Martin, Carl Gottlieb, Michael Elias, Steve Martin, Carl Gottlieb. Com Steve Martin, Bernadette Peters, Catlin Adams, Mabel King, Richard Ward, Dick Anthony Williams, Bill Macy, M. Emmet Walsh, Dick O'Neill."
 ---
 Uma comédia pode fazer rir pelo absurdo de suas situações e/ou personagens, como bem lembramos de Debi e Lóide. No entanto, a comédia estrelada por Jim Carrey está longe de ser a precursora dessa ideias do personagem idiota. Há algo muito mais essencial, didático e até filosófico nO Panaca de Steve Martin.
 

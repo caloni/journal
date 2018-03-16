@@ -1,26 +1,11 @@
 ---
-date: "2015-03-13"
 imdb: "2316411"
+date: "2015-03-13"
+categories: "movies"
 title: "O Homem Duplicado"
 stars: "4/5"
-categories: "movies"
-revision: [ 2016-03-13 ]
-_title: "Enemy"
-_year: "2013"
-_director: ["Denis Villeneuve", ]
-_writer: ["José Saramago", "Javier Gullón", ]
-_cast: ["Jake Gyllenhaal", "Mélanie Laurent", "Sarah Gadon", "Isabella Rossellini", "Joshua Peace", "Tim Post", "Kedar Brown", "Darryl Dinn", "Misha Highstead", ]
-_countries: ["Canada", ]
-_languages: ["English", ]
-_editor: ["Matthew Hannam", ]
-_cinematographer: ["Nicolas Bolduc", ]
-_music: ["Danny Bensi", "Saunder Jurriaans", ]
-_genres: ["Mystery", ]
-_runtimes: ["90", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQ2NzA5NjE4N15BMl5BanBnXkFtZTgwMjQ4NzMxMTE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQ2NzA5NjE4N15BMl5BanBnXkFtZTgwMjQ4NzMxMTE@._V1._SX95_SY140_.jpg"
+revision: [datetime.date(2016, 3, 13)]
+desc: "O Homem Duplicado. Enemy (Canada, 2013). Dirigido por Denis Villeneuve. Escrito por José Saramago, Javier Gullón. Com Jake Gyllenhaal, Mélanie Laurent, Sarah Gadon, Isabella Rossellini, Joshua Peace, Tim Post, Kedar Brown, Darryl Dinn, Misha Highstead."
 ---
 Quando ouvimos o professor de história repetir a mesma fala a respeito de ditaduras controlarem o povo através de poucas informação e isso se repetir ao longo da história de forma cíclica é uma pista do que o filme irá falar. Porém, o mais fascinante em O Homem Duplicado é que, assim como as ditaduras, o diretor Denis Villeneuve, do excelente Os Suspeitos (2013), não quer nos revelar todas as informações por trás dessa história.
 

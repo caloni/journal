@@ -1,26 +1,11 @@
 ---
+tags: ['netflix', 'oscar']
+imdb: "5895028"
 date: "2017-02-05"
 categories: "movies"
 title: "A 13a. Emenda"
-imdb: "5895028"
 stars: "2/5"
-tags: ['netflix', 'oscar']
-_title: "13th"
-_year: "2016"
-_director: ["Ava DuVernay", ]
-_writer: ["Spencer Averick", "Ava DuVernay", ]
-_cast: ["Melina Abdullah (Herself - Interviewee)", "Michelle Alexander (Herself - Interviewee)", "Cory Booker (Himself - Interviewee)", "Dolores Canales (Herself - Interviewee)", "Gina Clayton (Herself - Interviewee)", "Jelani Cobb (Himself - Interviewee)", "Malkia Cyril (Herself - Interviewee)", "Angela Davis (Herself - Interviewee)", "Craig DeRoche (Himself - Interviewee)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Spencer Averick", ]
-_cinematographer: ["Hans Charles", "Kira Kelly", ]
-_music: ["Jason Moran", ]
-_genres: ["Documentary", ]
-_runtimes: ["100", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAwMjU5NTAzOF5BMl5BanBnXkFtZTgwMjQwODQxMDI@.jpg"
-_ratio: "1.78 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAwMjU5NTAzOF5BMl5BanBnXkFtZTgwMjQwODQxMDI@._V1._SX94_SY140_.jpg"
+desc: "A 13a. Emenda. 13th (USA, 2016). Dirigido por Ava DuVernay. Escrito por Spencer Averick, Ava DuVernay. Com Melina Abdullah (Herself - Interviewee), Michelle Alexander (Herself - Interviewee), Cory Booker (Himself - Interviewee), Dolores Canales (Herself - Interviewee), Gina Clayton (Herself - Interviewee), Jelani Cobb (Himself - Interviewee), Malkia Cyril (Herself - Interviewee), Angela Davis (Herself - Interviewee), Craig DeRoche (Himself - Interviewee)."
 ---
 O objetivo desse filme é te convencer que o sistema carcerário americano é um resquício do sistema escravagista do passado. Para isso ele irá distorcer significados de boa parte da história política do século 20 da forma que convir, fazer propaganda (ainda que crítica) a favor dos democratas em detrimento dos republicanos (que possuem um espantalho como Donald Trump para fazer o serviço), apelar para os sentimentos do espectador sem muitas... não, sem qualquer prova de que há de fato um sistema racista agindo por um século e meio. Isso fica claro e nítido nos exemplos anedóticos usados por todo o filme.
 

@@ -1,28 +1,11 @@
 ---
+tags: ['netflix', 'series']
+imdb: "2191671"
 date: "2015-01-11"
 categories: "blog"
-imdb: "2191671"
-stars: "3/5"
 title: "Elementary (piloto)"
-tags: ['netflix', 'series']
-_title: "Elementary"
-_year: "2012"
-_director: ["John Polson", "Guy Ferland", "Seith Mann", "Christine Moore", "Larry Teng", "Jerry Levine", "Aaron Lipstadt", "Ron Fortunato", "Andrew Bernstein", ]
-_writer: ["Robert Doherty", "Craig Sweeny", "Jason Tracey", "Jeffrey Paul King", "Bob Goodman", "Liz Friedman", "Robert Hewitt Wolfe", "Arthur Conan Doyle", "Corinne Brinkerhoff", ]
-_cast: ["Jonny Lee Miller", "Lucy Liu", "Aidan Quinn", "Jon Michael Hill", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Sondra Watanabe", "Gerald Valdez", "Bill Zabala", "Jeff Vacirca", "Victor Du Bois", "Joe Hobeck", "Sang Han", ]
-_cinematographer: ["Ron Fortunato", "Tom Houghton", "Roy H. Wagner", "Mauricio Rubinstein", "Peter Reniers", ]
-_music: ["Sean Callery", "Zoe Keating", ]
-_artdirection: ["Clay Brown", "Jordan Jacobs", ]
-_costume designer: ["Rebecca Hofherr", "Marina Draghici", ]
-_genres: ["Crime", ]
-_runtimes: ["60", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNTAwMTExNTM4N15BMl5BanBnXkFtZTcwOTkwOTgxOA@@.jpg"
-_ratio: "1.78 : 1"
-_kind: "tv series"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNTAwMTExNTM4N15BMl5BanBnXkFtZTcwOTkwOTgxOA@@._V1._SX92_SY140_.jpg"
+stars: "3/5"
+desc: "Elementary (piloto). Elementary (USA, 2012). Dirigido por John Polson, Guy Ferland, Seith Mann, Christine Moore, Larry Teng, Jerry Levine, Aaron Lipstadt, Ron Fortunato, Andrew Bernstein. Escrito por Robert Doherty, Craig Sweeny, Jason Tracey, Jeffrey Paul King, Bob Goodman, Liz Friedman, Robert Hewitt Wolfe, Arthur Conan Doyle, Corinne Brinkerhoff. Com Jonny Lee Miller, Lucy Liu, Aidan Quinn, Jon Michael Hill."
 ---
 E por que ele não é Sherlock? Cinema e televisão são linguagens que vão evoluindo com o passar dos anos, das produções e dos espectadores. Todos que gostam de séries de investigação já assistiram pelo menos um episódio ou ouviram falar de __C.S.I.__, __Bones__, __Law & Order__ e tantos outros -- onde até __Sobrenatural__ se encaixa. Todas essas séries confiam em uma fórmula que existe no Cinema há muito tempo e é usado em praticamente qualquer filme, mas que em investigação se torna muito óbvio: primeiro há um caso, depois o protagonista demonstra como é esperto, depois há uma reviravolta e ele se mostra errado para depois descobrir no terceiro ato que ele estava certo desde o começo ou descobriu coisas novas que o levaram a acertar por último quem era o culpado.
 

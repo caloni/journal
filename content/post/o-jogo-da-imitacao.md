@@ -1,25 +1,10 @@
 ---
-date: "2015-03-15"
 imdb: "2084970"
+date: "2015-03-15"
+categories: "movies"
 title: "O Jogo da Imitação"
 stars: "3/5"
-categories: "movies"
-_title: "The Imitation Game"
-_year: "2014"
-_director: ["Morten Tyldum", ]
-_writer: ["Andrew Hodges", "Graham Moore", ]
-_cast: ["Benedict Cumberbatch", "Keira Knightley", "Matthew Goode", "Rory Kinnear", "Allen Leech", "Matthew Beard", "Charles Dance", "Mark Strong", "James Northcote", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["William Goldenberg", ]
-_cinematographer: ["Oscar Faura", ]
-_music: ["Alexandre Desplat", ]
-_genres: ["Biography", ]
-_runtimes: ["114", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNDkwNTEyMzkzNl5BMl5BanBnXkFtZTgwNTAwNzk3MjE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNDkwNTEyMzkzNl5BMl5BanBnXkFtZTgwNTAwNzk3MjE@._V1._SX95_SY140_.jpg"
+desc: "O Jogo da Imitação. The Imitation Game (USA, 2014). Dirigido por Morten Tyldum. Escrito por Andrew Hodges, Graham Moore. Com Benedict Cumberbatch, Keira Knightley, Matthew Goode, Rory Kinnear, Allen Leech, Matthew Beard, Charles Dance, Mark Strong, James Northcote."
 ---
 Todo ano existem trabalhos gêmeos no Cinema, ou seja, filmes que por uma razão ou outro estão intrinsecamente relacionados. O Jogo da Imitação é um filme que conta a história do projeto secreto do MI-6 -- o serviço de inteligência britânico -- em quebrar o código da criptografia dos nazistas em plena Segunda Grande Guerra. O projeto se confunde com um de seus idealizadores, Alan Turing, um matemático responsável por desenvolver a teoria que possibilitou a construção dos primeiros computadores digitais e que acreditava que apenas uma outra máquina conseguiria ser tão rápida a ponto de quebrar o código do inimigo durante a janela de 18 horas.
 

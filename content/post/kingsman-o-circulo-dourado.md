@@ -1,9 +1,10 @@
 ---
-date: 2018-03-04T22:55:16-03:00
-title: "Kingsman: O Círculo Dourado"
-categories: "movies"
+date: 2018-03-05T01:55:16
 imdb: "4649466"
+categories: "movies"
 stars: "3/5"
+title: "Kingsman: O Círculo Dourado"
+desc: "Kingsman: O Círculo Dourado."
 ---
 Não é tão bom quanto o primeiro, mas diverte. Ele possui algumas boas ideias que estão a serviço da história e do trash, muitas ao mesmo tempo. Mas ele não possui alma, apenas personagens fazendo graça. Ele tenta ser mais do mesmo em uma versão americana, mas tudo soa fake demais. Tentando agradar o público ele parece descer do pódio das grandes paródias de filmes de espionagem.
 

@@ -1,27 +1,10 @@
 ---
-date: "2015-11-29"
 imdb: "0339291"
-stars: "4/5"
+date: "2015-11-29"
 categories: "movies"
 title: "Desventuras em Série"
-_title: "Lemony Snicket's A Series of Unfortunate Events"
-_year: "2004"
-_director: ["Brad Silberling", ]
-_writer: ["Robert Gordon", "Daniel Handler", ]
-_cast: ["Jim Carrey", "Liam Aiken", "Emily Browning", "Kara Hoffman", "Shelby Hoffman", "Jude Law", "Timothy Spall", "Catherine O'Hara", "Billy Connolly", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Michael Kahn", ]
-_cinematographer: ["Emmanuel Lubezki", ]
-_music: ["Thomas Newman", ]
-_artdirection: ["John Dexter", "Tony Fanning", "William Hawkins", "Martin Whist", ]
-_costume designer: ["Colleen Atwood", ]
-_genres: ["Adventure", ]
-_runtimes: ["108", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjE3MDM4NTg0NV5BMl5BanBnXkFtZTcwNjI4MTczMw@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjE3MDM4NTg0NV5BMl5BanBnXkFtZTcwNjI4MTczMw@@._V1._SX94_SY140_.jpg"
+stars: "4/5"
+desc: "Desventuras em Série. Lemony Snicket's A Series of Unfortunate Events (USA, 2004). Dirigido por Brad Silberling. Escrito por Robert Gordon, Daniel Handler. Com Jim Carrey, Liam Aiken, Emily Browning, Kara Hoffman, Shelby Hoffman, Jude Law, Timothy Spall, Catherine O'Hara, Billy Connolly."
 ---
 Ninguém escuta as crianças. Essa é a premissa básica que torna possível toda a série de situações mortais em que três jovens órfãos ficam à mercê de um cruel parente distante em busca da herança dos afortunados Baudelaire.
 

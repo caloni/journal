@@ -1,25 +1,10 @@
 ---
-date: "2015-09-25"
 imdb: "2224026"
-stars: "4/5"
+date: "2015-09-25"
 categories: "movies"
 title: "Cada Um Na Sua Casa"
-_title: "Home"
-_year: "2015"
-_director: ["Tim Johnson", ]
-_writer: ["Tom J. Astle", "Matt Ember", "Adam Rex", ]
-_cast: ["Jim Parsons", "Rihanna", "Steve Martin", "Jennifer Lopez", "Matt Jones", "Brian Stepanek", "April Lawrence", "Stephen Kearin", "Lisa Stewart", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Nick Fletcher", ]
-_music: ["Lorne Balfe", ]
-_artdirection: ["Emil Mitev", ]
-_genres: ["Animation", ]
-_runtimes: ["94", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTU0MzU4ODI3Ml5BMl5BanBnXkFtZTgwMzQzODk5NDE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTU0MzU4ODI3Ml5BMl5BanBnXkFtZTgwMzQzODk5NDE@._V1._SX94_SY140_.jpg"
+stars: "4/5"
+desc: "Cada Um Na Sua Casa. Home (USA, 2015). Dirigido por Tim Johnson. Escrito por Tom J. Astle, Matt Ember, Adam Rex. Com Jim Parsons, Rihanna, Steve Martin, Jennifer Lopez, Matt Jones, Brian Stepanek, April Lawrence, Stephen Kearin, Lisa Stewart."
 ---
 "Home" não tem coragem suficiente para elevar todas suas ideias à terceira potência, mas pelo menos evita ser engraçadinho demais e consegue colocar uma história em um patamar digno. Levando a atual tendência de questionar a autoridade e de se preocupar com o próximo, conhecemos uma raça alienígena que segue um líder (Steve Martin), nos mesmos moldes do rei Julian de Madagascar, e se descaracteriza a partir de um guia informal de como devem se comportar (leia-se "socialismo"), independente do que realmente achem.
 

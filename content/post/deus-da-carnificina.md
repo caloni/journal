@@ -1,27 +1,10 @@
 ---
-date: "2015-10-07"
 imdb: "1692486"
-stars: "4/5"
+date: "2015-10-07"
 categories: "movies"
 title: "Deus da Carnificina"
-_title: "Carnage"
-_year: "2011"
-_director: ["Roman Polanski", ]
-_writer: ["Yasmina Reza", "Yasmina Reza", "Roman Polanski", "Michael Katims", ]
-_cast: ["Jodie Foster", "Kate Winslet", "Christoph Waltz", "John C. Reilly", "Elvis Polanski", "Eliot Berger", "Joseph Rezwin", "Nathan Rippy", "Tanya Lopert", ]
-_countries: ["France", ]
-_languages: ["English", ]
-_editor: ["Hervé de Luze", ]
-_cinematographer: ["Pawel Edelman", ]
-_music: ["Alexandre Desplat", ]
-_artdirection: ["Jean-Michel Ducourty", ]
-_costume designer: ["Milena Canonero", ]
-_genres: ["Comedy", ]
-_runtimes: ["80", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTc4MjAyMDUwNl5BMl5BanBnXkFtZTcwOTQwMDMwNw@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTc4MjAyMDUwNl5BMl5BanBnXkFtZTcwOTQwMDMwNw@@._V1._SX94_SY140_.jpg"
+stars: "4/5"
+desc: "Deus da Carnificina. Carnage (France, 2011). Dirigido por Roman Polanski. Escrito por Yasmina Reza, Yasmina Reza, Roman Polanski, Michael Katims. Com Jodie Foster, Kate Winslet, Christoph Waltz, John C. Reilly, Elvis Polanski, Eliot Berger, Joseph Rezwin, Nathan Rippy, Tanya Lopert."
 ---
 Deus da Carnificina só funciona tão bem porque as pessoas que nele estão continuam sendo elas mesmas até o fim, e usam personalidades extremamente triviais, que fazem parte do dia-a-dia de qualquer um (ainda mais nas infinitas discussões de internet). Não há seres complexos demais neste filme, mas ideias antagônicas construídas através de quatro performances que ecoam até a duração do próximo argumento. Não há agressão física que consiga se comparar a um embate de ideias que, diferente dessa, nunca termina quando um dos lados cai no chão.
 

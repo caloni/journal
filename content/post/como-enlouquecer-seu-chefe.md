@@ -1,26 +1,11 @@
 ---
-date: "2011-08-22"
 imdb: "0151804"
-revision: [2012-09-19]
+date: "2011-08-22"
+categories: "movies"
 title: "Como Enlouquecer seu Chefe"
 stars: "3/5"
-categories: "movies"
-_title: "Office Space"
-_year: "1999"
-_director: ["Mike Judge", ]
-_writer: ["Mike Judge", "Mike Judge", ]
-_cast: ["Ron Livingston", "Jennifer Aniston", "David Herman", "Ajay Naidu", "Diedrich Bader", "Stephen Root", "Gary Cole", "Richard Riehle", "Alexandra Wentworth", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["David Rennie", ]
-_cinematographer: ["Tim Suhrstedt", ]
-_music: ["John Frizzell", ]
-_genres: ["Comedy", ]
-_runtimes: ["89", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BOTA5MzQ3MzI1NV5BMl5BanBnXkFtZTgwNTcxNTYxMTE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BOTA5MzQ3MzI1NV5BMl5BanBnXkFtZTgwNTcxNTYxMTE@._V1._SX95_SY140_.jpg"
+revision: [datetime.date(2012, 9, 19)]
+desc: "Como Enlouquecer seu Chefe. Office Space (USA, 1999). Dirigido por Mike Judge. Escrito por Mike Judge, Mike Judge. Com Ron Livingston, Jennifer Aniston, David Herman, Ajay Naidu, Diedrich Bader, Stephen Root, Gary Cole, Richard Riehle, Alexandra Wentworth."
 ---
 Depois de ter visto Como Matar seu Chefe, resolvi rever o que eu considero uma versão melhorada (ou mais profunda) da questão do "Dilbert Life Style", que é esse Como Enlouquecer seu Chefe, ou mais corretamente no original, Office Space (Ambiente de Escritório?).
 

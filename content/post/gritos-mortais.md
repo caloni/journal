@@ -1,25 +1,10 @@
 ---
-date: "2014-12-10"
 imdb: "0455760"
+date: "2014-12-10"
+categories: "movies"
 title: "Gritos Mortais"
 stars: "3/5"
-categories: "movies"
-_title: "Dead Silence"
-_year: "2007"
-_director: ["James Wan", ]
-_writer: ["Leigh Whannell", "James Wan", "Leigh Whannell", ]
-_cast: ["Ryan Kwanten", "Amber Valletta", "Donnie Wahlberg", "Michael Fairman", "Joan Heney", "Bob Gunton", "Laura Regan", "Dmitry Chepovetsky", "Judith Roberts", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Michael N. Knue", ]
-_cinematographer: ["John R. Leonetti", ]
-_music: ["Charlie Clouser", ]
-_genres: ["Horror", ]
-_runtimes: ["89", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjEyNDQwMTQ3OV5BMl5BanBnXkFtZTcwMTY5MzI0MQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjEyNDQwMTQ3OV5BMl5BanBnXkFtZTcwMTY5MzI0MQ@@._V1._SX94_SY140_.jpg"
+desc: "Gritos Mortais. Dead Silence (USA, 2007). Dirigido por James Wan. Escrito por Leigh Whannell, James Wan, Leigh Whannell. Com Ryan Kwanten, Amber Valletta, Donnie Wahlberg, Michael Fairman, Joan Heney, Bob Gunton, Laura Regan, Dmitry Chepovetsky, Judith Roberts."
 ---
 Ele é um boneco assustador até parado, quem dirá movendo os olhos e a cabeça! O diretor do projeto, James Wan, não poderia ser outro senão o criador de Jogos Mortais, que inclui um boneco igualmente aterrorizante.
 

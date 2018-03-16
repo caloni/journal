@@ -1,25 +1,11 @@
 ---
+tags: ['curtas']
+imdb: "0000417"
 date: "2011-09-01"
 categories: "blog"
-imdb: "0000417"
-stars: "4/5"
 title: "Viagem à Lua"
-tags: ['curtas']
-_title: "Le voyage dans la lune"
-_year: "1902"
-_director: ["Georges Méliès", ]
-_writer: ["Georges Méliès", "Jules Verne", "H.G. Wells", ]
-_cast: ["François Lallement", "Jules-Eugène Legris", "Victor André", "Bleuette Bernon", "Brunnet", "Jeanne d'Alcy", "Henri Delannoy", "Depierre", "Farjaut", ]
-_countries: ["France", ]
-_editor: ["Georges Méliès", ]
-_cinematographer: ["Michaut", "Lucien Tainguy", ]
-_music: ["Jean-Benoît Dunckel", "Nicolas Godin", "Octavio Vázquez", ]
-_artdirection: ["Claudel", ]
-_costume designer: ["Jeanne d'Alcy", ]
-_genres: ["Short", ]
-_runtimes: ["13", ]
-_ratio: "1.33 : 1"
-_kind: "movie"
+stars: "4/5"
+desc: "Viagem à Lua. Le voyage dans la lune (France, 1902). Dirigido por Georges Méliès. Escrito por Georges Méliès, Jules Verne, H.G. Wells. Com François Lallement, Jules-Eugène Legris, Victor André, Bleuette Bernon, Brunnet, Jeanne d'Alcy, Henri Delannoy, Depierre, Farjaut."
 ---
 O francês Georges Méliès foi um dos privilegiados que assistiu à famosa primeira projeção (coletiva) de Cinema da história: A chegada do trem na estação.
 

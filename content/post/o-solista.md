@@ -1,25 +1,10 @@
 ---
-date: "2011-08-22"
 imdb: "0821642"
+date: "2011-08-22"
+categories: "movies"
 title: "O Solista"
 stars: "3/5"
-categories: "movies"
-_title: "The Soloist"
-_year: "2009"
-_director: ["Joe Wright", ]
-_writer: ["Susannah Grant", "Steve Lopez", ]
-_cast: ["Jamie Foxx", "Robert Downey Jr.", "Catherine Keener", "Tom Hollander", "LisaGay Hamilton", "Nelsan Ellis", "Rachael Harris", "Stephen Root", "Lorraine Toussaint", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Paul Tothill", ]
-_cinematographer: ["Seamus McGarvey", ]
-_music: ["Dario Marianelli", ]
-_genres: ["Biography", ]
-_runtimes: ["117", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjExODQ3MTI5Nl5BMl5BanBnXkFtZTcwMDEyMTQ5MQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjExODQ3MTI5Nl5BMl5BanBnXkFtZTcwMDEyMTQ5MQ@@._V1._SX94_SY140_.jpg"
+desc: "O Solista. The Soloist (UK, 2009). Dirigido por Joe Wright. Escrito por Susannah Grant, Steve Lopez. Com Jamie Foxx, Robert Downey Jr., Catherine Keener, Tom Hollander, LisaGay Hamilton, Nelsan Ellis, Rachael Harris, Stephen Root, Lorraine Toussaint."
 ---
 Seguindo o filme de duplas, dessa vez com Robert Downey Jr. e Jamie Foxx, o drama O Solista é baseado em livro homônimo escrito pelo jornalista-personagem Steve Lopez, que se torna obcecado pela vida de Nathaniel Ayers, um sem-teto que tinha tudo para ser um grande músico, mas devido aos seus problemas mentais, acaba se refugiando da sociedade nas ruas.
 

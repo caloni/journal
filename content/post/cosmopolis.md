@@ -1,25 +1,10 @@
 ---
-date: "2012-10-12"
 imdb: "1480656"
+date: "2012-10-12"
+categories: "movies"
 title: "Cosmópolis"
 stars: "4/5"
-categories: "movies"
-_title: "Cosmopolis"
-_year: "2012"
-_director: ["David Cronenberg", ]
-_writer: ["David Cronenberg", "Don DeLillo", ]
-_cast: ["Robert Pattinson", "Sarah Gadon", "Paul Giamatti", "Kevin Durand", "Abdul Ayoola", "Juliette Binoche", "Emily Hampshire", "Bob Bainborough", "Samantha Morton", ]
-_countries: ["Canada", ]
-_languages: ["English", ]
-_editor: ["Ronald Sanders", ]
-_cinematographer: ["Peter Suschitzky", ]
-_music: ["Howard Shore", ]
-_genres: ["Drama", ]
-_runtimes: ["109", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTY1NjI0MDYyNV5BMl5BanBnXkFtZTcwNDIzMDEyOA@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTY1NjI0MDYyNV5BMl5BanBnXkFtZTcwNDIzMDEyOA@@._V1._SX95_SY140_.jpg"
+desc: "Cosmópolis. Cosmopolis (Canada, 2012). Dirigido por David Cronenberg. Escrito por David Cronenberg, Don DeLillo. Com Robert Pattinson, Sarah Gadon, Paul Giamatti, Kevin Durand, Abdul Ayoola, Juliette Binoche, Emily Hampshire, Bob Bainborough, Samantha Morton."
 ---
 Se visto como um filme com começo, meio e fim, Cosmópolis pode se transformar em uma decepção. No entanto, se percebermos o padrão utilizado em seus caóticos diálogos, será possível destrinchar ao menos o tema da história: um dia na vida de Eric Packer (Robert Pattinson), um bilionário resultado da soma da especulação financeira com sua inteligência fora do comum ao transformar em dinheiro a commoditiy mais importante da nossa era: a informação. Sintetizando a frase anterior, como o próprio Eric o faria: um dia na era da informação.
 

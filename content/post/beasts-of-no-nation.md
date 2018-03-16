@@ -1,27 +1,10 @@
 ---
-date: "2016-03-11"
 imdb: "1365050"
-stars: "5/5"
+date: "2016-03-11"
 categories: "movies"
 title: "Beasts of No Nation"
-_title: "Beasts of No Nation"
-_year: "2015"
-_director: ["Cary Joji Fukunaga", ]
-_writer: ["Cary Joji Fukunaga", "Uzodinma Iweala", ]
-_cast: ["Abraham Attah", "Emmanuel Affadzi", "Ricky Adelayitor", "Andrew Adote", "Vera Nyarkoah Antwi", "Ama K. Abebrese", "Kobina Amissah-Sam", "Francis Weddey", "Fred Nii Amugi", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Pete Beaudreau", "Mikkel E.G. Nielsen", ]
-_cinematographer: ["Cary Joji Fukunaga", ]
-_music: ["Dan Romer", ]
-_artdirection: ["Miles Michael", ]
-_costume designer: ["Jenny Eagan", ]
-_genres: ["Drama", ]
-_runtimes: ["137", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTYwMzMzMDI0NF5BMl5BanBnXkFtZTgwNDQ3NjI3NjE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTYwMzMzMDI0NF5BMl5BanBnXkFtZTgwNDQ3NjI3NjE@._V1._SX94_SY140_.jpg"
+stars: "5/5"
+desc: "Beasts of No Nation. Beasts of No Nation (USA, 2015). Dirigido por Cary Joji Fukunaga. Escrito por Cary Joji Fukunaga, Uzodinma Iweala. Com Abraham Attah, Emmanuel Affadzi, Ricky Adelayitor, Andrew Adote, Vera Nyarkoah Antwi, Ama K. Abebrese, Kobina Amissah-Sam, Francis Weddey, Fred Nii Amugi."
 ---
 Esse filme é um misto do cinema naturalista de Hector Babenco em "Pixote" (1981) e o imaginário de Buscapé em Cidade de Deus (Fernando Meirelles, 2002). De brinde, nos traz Abraham Attah como o pequeno e hipnotizante Agu, um menino que tem sua família separada e destroçada e é arrastado para uma pequena milícia que aplica operações sanguinárias, ordenadas por um sistema de fantoches financiado por capital estrangeiro.
 

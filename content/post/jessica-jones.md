@@ -1,27 +1,11 @@
 ---
+tags: ['netflix', 'series']
+imdb: "2357547"
 date: "2016-08-18"
 categories: "series"
-imdb: "2357547"
-stars: "3/5"
 title: "Jessica Jones"
-tags: ['netflix', 'series']
-_title: "Jessica Jones"
-_year: "2015"
-_director: ["Simon Cellan Jones", "S.J. Clarkson", "David Petrarca", "Stephen Surjik", ]
-_writer: ["Melissa Rosenberg", "Brian Bendis", "Michael Gaydos", "Ruth Atkinson", "Otto Binder", "Stan Lee", "Joe Orlando", "John Byrne", "Chris Claremont", ]
-_cast: ["Krysten Ritter", "Rachael Taylor", "Eka Darville", "David Tennant", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Jonathan Chibnall", "Tirsa Hackshaw", "Michael N. Knue", ]
-_cinematographer: ["Manuel Billeter", ]
-_music: ["Sean Callery", ]
-_artdirection: ["Toni Barton", "James C. Feng", ]
-_costume designer: ["Stephanie Maslansky", ]
-_genres: ["Action", ]
-_runtimes: ["60", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTcwMzM3NTE5NF5BMl5BanBnXkFtZTgwNjUwNDkwNzE@.jpg"
-_kind: "tv series"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTcwMzM3NTE5NF5BMl5BanBnXkFtZTgwNjUwNDkwNzE@._V1._SX97_SY140_.jpg"
+stars: "3/5"
+desc: "Jessica Jones. Jessica Jones (USA, 2015). Dirigido por Simon Cellan Jones, S.J. Clarkson, David Petrarca, Stephen Surjik. Escrito por Melissa Rosenberg, Brian Bendis, Michael Gaydos, Ruth Atkinson, Otto Binder, Stan Lee, Joe Orlando, John Byrne, Chris Claremont. Com Krysten Ritter, Rachael Taylor, Eka Darville, David Tennant."
 ---
 Uma história de super-heróis ligeiramente diferente do que a Marvel costuma contar, Jessica Jones é uma narrativa arrastada, que dá tempo de tela demais para a limitada Krysten Ritter (da série Breaking Bad), e que muda de tom durante sua história. No início há indícios de um noir pós-moderno, com cores na penumbra, uma protagonista bisbilhoteira de caráter (e um passado) duvidoso, e uma certa relativização do que é certo e errado; lá pela metade, com o surgimento do vilão Killgrave (o ótimo David Tennant) encontramos um curioso debate de quais são os papéis de bem e mal, assim como se vale a pena tentar salvar representantes da espécie humana conhecendo sua capacidade infinita para miséria de espírito, estupidez e egocentrismo; e no final, para conseguir executar seu "plano final", manipula tudo que havíamos visto até então para entregar uma conclusão clichê e insossa, nos forçando a tentar gostar de uma heroína problemática e desgostar de um vilão no mínimo fascinante.
 

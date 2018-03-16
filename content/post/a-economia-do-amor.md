@@ -1,26 +1,11 @@
 ---
+tags: ['cabine']
+imdb: "4746484"
 date: "2016-11-21"
 categories: "movies"
 title: "A Economia do Amor"
-imdb: "4746484"
 stars: "4/5"
-tags: ['cabine']
-_title: "L'économie du couple"
-_year: "2016"
-_director: ["Joachim Lafosse", ]
-_writer: ["Fanny Burdino", "Joachim Lafosse", "Mazarine Pingeot", "Thomas van Zuylen", ]
-_cast: ["Bérénice Bejo (Marie Barrault)", "Cédric Kahn (Boris Marker)", "Marthe Keller (dite Babou Christine)", "Jade Soentjens (Jade Marker)", "Margaux Soentjens (Margaux Marker)", "Francesco Italiano (Ami soirée)", "Tibo Vandenborre (Ami soirée)", "Catherine Salée (Amie soirée)", "Ariane Rousseau (Amie soirée)", ]
-_countries: ["France", ]
-_languages: ["French", ]
-_editor: ["Yann Dedet", ]
-_cinematographer: ["Jean-François Hensgens", ]
-_costume designer: ["Pascaline Chavanne", ]
-_genres: ["Drama", ]
-_runtimes: ["100", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BZGY4NWNkYzctM2VmMC00ZTJjLTkyNzAtZGRkMTU1NmJjZjlhXkEyXkFqcGdeQXVyNDExMDcxNjM@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BZGY4NWNkYzctM2VmMC00ZTJjLTkyNzAtZGRkMTU1NmJjZjlhXkEyXkFqcGdeQXVyNDExMDcxNjM@._V1._SX100_SY133_.jpg"
+desc: "A Economia do Amor. L'économie du couple (France, 2016). Dirigido por Joachim Lafosse. Escrito por Fanny Burdino, Joachim Lafosse, Mazarine Pingeot, Thomas van Zuylen. Com Bérénice Bejo (Marie Barrault), Cédric Kahn (Boris Marker), Marthe Keller (dite Babou Christine), Jade Soentjens (Jade Marker), Margaux Soentjens (Margaux Marker), Francesco Italiano (Ami soirée), Tibo Vandenborre (Ami soirée), Catherine Salée (Amie soirée), Ariane Rousseau (Amie soirée)."
 ---
 A França sofre a crise europeia através dos cinemas, que mostram cada vez mais filmes criticando a falta de humanidade em pessoas que estão sofrendo as agrúrias de tentar socializar riqueza com todo mundo (até imigrantes intolerantes). O preço disso é o desmanche sistemático de famílias, como a vista neste filme. Porém, embora a questão seja levantada de uma maneira sutil pelo filme, não há como negar que o objetivo do diretor Joachim Lafosse é jogar a culpa na mesquinhez e egoísmo das pessoas que escolheram viver para si mesmas. Que horror que as pessoas escolham cuidar de suas vidas!
 

@@ -1,25 +1,10 @@
 ---
-date: "2013-03-09"
 imdb: "0158714"
+date: "2013-03-09"
+categories: "movies"
 title: "Lady Snowblood"
 stars: "4/5"
-categories: "movies"
-_title: "Shurayukihime"
-_year: "1973"
-_director: ["Toshiya Fujita", ]
-_writer: ["Kazuo Kamimura", "Kazuo Koike", "Norio Osada", ]
-_cast: ["Meiko Kaji", "Toshio Kurosawa", "Masaaki Daimon", "Miyoko Akaza", "Shinichi Uchida", "Takeo Chii", "Noboru Nakaya", "Yoshiko Nakada", "Akemi Negishi", ]
-_countries: ["Japan", ]
-_languages: ["English", ]
-_editor: ["Osamu Inoue", ]
-_cinematographer: ["Masaki Tamura", ]
-_music: ["Masaaki Hirao", ]
-_genres: ["Action", ]
-_runtimes: ["97", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTk5NzI2MTg2Nl5BMl5BanBnXkFtZTcwNjc5NDUyMQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTk5NzI2MTg2Nl5BMl5BanBnXkFtZTcwNjc5NDUyMQ@@._V1._SX98_SY140_.jpg"
+desc: "Lady Snowblood. Shurayukihime (Japan, 1973). Dirigido por Toshiya Fujita. Escrito por Kazuo Kamimura, Kazuo Koike, Norio Osada. Com Meiko Kaji, Toshio Kurosawa, Masaaki Daimon, Miyoko Akaza, Shinichi Uchida, Takeo Chii, Noboru Nakaya, Yoshiko Nakada, Akemi Negishi."
 ---
 Originalmente um mangá da década de 70, Lady Snowblood (sem título nacional, provavelmente nunca lançado no Brasil) contém uma verdadeira miscelânea que com certeza foi fonte de inspiração de Quentin Tarantino na confecção de sua Noiva em Kill Bill. Fica até difícil listar todos os tipos de influências, referências e cópia descarada (como a música-tema). Porém, diferente de um plágio barato, ambos são trabalhos impecáveis de composição, e hoje em dia emprestam diversos significados um ao outro, formando uma perfeita sessão dupla (ou tripla, se considerarmos que Kill Bill possui dois "volumes").
 

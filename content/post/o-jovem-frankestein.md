@@ -1,25 +1,10 @@
 ---
-date: "2015-04-11"
 imdb: "0072431"
-stars: "4/5"
+date: "2015-04-11"
 categories: "movies"
 title: "O Jovem Frankenstein"
-_title: "Young Frankenstein"
-_year: "1974"
-_director: ["Mel Brooks", ]
-_writer: ["Gene Wilder", "Mel Brooks", "Mary Shelley", ]
-_cast: ["Gene Wilder", "Peter Boyle", "Marty Feldman", "Madeline Kahn", "Cloris Leachman", "Teri Garr", "Kenneth Mars", "Richard Haydn", "Liam Dunn", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["John C. Howard", ]
-_cinematographer: ["Gerald Hirschfeld", ]
-_music: ["John Morris", ]
-_genres: ["Comedy", ]
-_runtimes: ["106", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTEwNjg2MjM2ODFeQTJeQWpwZ15BbWU4MDQ1MDU5OTEx.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTEwNjg2MjM2ODFeQTJeQWpwZ15BbWU4MDQ1MDU5OTEx._V1._SX90_SY140_.jpg"
+stars: "4/5"
+desc: "O Jovem Frankenstein. Young Frankenstein (USA, 1974). Dirigido por Mel Brooks. Escrito por Gene Wilder, Mel Brooks, Mary Shelley. Com Gene Wilder, Peter Boyle, Marty Feldman, Madeline Kahn, Cloris Leachman, Teri Garr, Kenneth Mars, Richard Haydn, Liam Dunn."
 ---
 As comédias do Mel Brooks são sempre um esculacho, mas nunca podemos acusá-lo de ser relapso no tema que pretende abordar. Nesse O Jovem Frankestein, por exemplo, é seguido à risca não só os conceitos e a história-base de Mary Shelley como a própria atmosfera dos primeiros filmes que caracterizavam o doutor obcecado com experimentos pós-vida e o icônico monstro que não apenas possui uma alma, mas como é mais gentil que todo o vilarejo onde moram. Tanto que o filme é em preto e branco, usa uma pintura para mostrar o castelo, letreiros antigos e uma trilha sonora inspirada.
 

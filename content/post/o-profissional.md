@@ -1,25 +1,10 @@
 ---
-date: "2015-03-23"
 imdb: "0110413"
-stars: "5/5"
+date: "2015-03-23"
 categories: "movies"
 title: "O Profissional"
-_title: "Léon"
-_year: "1994"
-_director: ["Luc Besson", ]
-_writer: ["Luc Besson", ]
-_cast: ["Jean Reno", "Gary Oldman", "Natalie Portman", "Danny Aiello", "Peter Appel", "Willi One Blood", "Don Creech", "Keith A. Glascoe", "Randolph Scott", ]
-_countries: ["France", ]
-_languages: ["English", ]
-_editor: ["Sylvie Landra", ]
-_cinematographer: ["Thierry Arbogast", ]
-_music: ["Eric Serra", ]
-_genres: ["Crime", ]
-_runtimes: ["110", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTgzMzg4MDkwNF5BMl5BanBnXkFtZTcwODAwNDg3OA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTgzMzg4MDkwNF5BMl5BanBnXkFtZTcwODAwNDg3OA@@._V1._SX98_SY140_.jpg"
+stars: "5/5"
+desc: "O Profissional. Léon (France, 1994). Dirigido por Luc Besson. Escrito por Luc Besson. Com Jean Reno, Gary Oldman, Natalie Portman, Danny Aiello, Peter Appel, Willi One Blood, Don Creech, Keith A. Glascoe, Randolph Scott."
 ---
 Quando descobrimos que Luc Besson escreveu e dirigiu "Léon", ou O Profissional, é de ficar boquiaberto como o diretor perdeu a mão por tantos anos, acertando aqui e ali somente (Joana dArc é um ótimo exemplo).
 

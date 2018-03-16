@@ -1,25 +1,10 @@
 ---
-date: "2014-02-09"
 imdb: "0100157"
+date: "2014-02-09"
+categories: "movies"
 title: "Louca Obsessão"
 stars: "5/5"
-categories: "movies"
-_title: "Misery"
-_year: "1990"
-_director: ["Rob Reiner", ]
-_writer: ["Stephen King", "William Goldman", ]
-_cast: ["James Caan", "Kathy Bates", "Richard Farnsworth", "Frances Sternhagen", "Lauren Bacall", "Graham Jarvis", "Jerry Potter", "Thomas Brunelle", "June Christopher", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Robert Leighton", ]
-_cinematographer: ["Barry Sonnenfeld", ]
-_music: ["Marc Shaiman", ]
-_genres: ["Thriller", ]
-_runtimes: ["107", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTMzOTcxMDI3MV5BMl5BanBnXkFtZTcwNDYyODI1NA@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTMzOTcxMDI3MV5BMl5BanBnXkFtZTcwNDYyODI1NA@@._V1._SX93_SY140_.jpg"
+desc: "Louca Obsessão. Misery (USA, 1990). Dirigido por Rob Reiner. Escrito por Stephen King, William Goldman. Com James Caan, Kathy Bates, Richard Farnsworth, Frances Sternhagen, Lauren Bacall, Graham Jarvis, Jerry Potter, Thomas Brunelle, June Christopher."
 ---
 Baseado em um romance de Stephen King, este thriller do início da década de 90 que apresenta Kathy Bates como Annie Wilkes, a fã obsessivo-compulsiva que tem a "sorte" de resgatar o seu escritor favorito de um acidente de automóvel. Isolados pela neve, ela tem a chance de cuidar de Paul Sheldon (James Caan) enquanto ele se recupera. A mesma sorte não possui Sheldon, cuja editora acabou de publicar o último livro da série com a personagem Misery (o título original do filme) em que a mata.
 

@@ -1,25 +1,11 @@
 ---
+tags: ['cabine']
+imdb: "3612984"
 date: "2016-09-30"
 categories: "movies"
 title: "Caprice: Amor à Francesa"
-imdb: "3612984"
 stars: "5/5"
-tags: ['cabine']
-_title: "Caprice"
-_year: "2015"
-_director: ["Emmanuel Mouret", ]
-_writer: ["Emmanuel Mouret", ]
-_cast: ["Virginie Efira", "Anaïs Demoustier", "Laurent Stocker", "Emmanuel Mouret", "Thomas Blanchard", "Mathilde Warnier", "Olivier Cruveiller", "Botum Dupuis", "Néo Rouleau", ]
-_countries: ["France", ]
-_languages: ["French", ]
-_editor: ["Martial Salomon", ]
-_costume designer: ["Charlotte Vaysse", ]
-_genres: ["Comedy", ]
-_runtimes: ["100", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTA0NjAxNzU2NDBeQTJeQWpwZ15BbWU4MDI2NjI0Nzcx.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTA0NjAxNzU2NDBeQTJeQWpwZ15BbWU4MDI2NjI0Nzcx._V1._SX100_SY133_.jpg"
+desc: "Caprice: Amor à Francesa. Caprice (France, 2015). Dirigido por Emmanuel Mouret. Escrito por Emmanuel Mouret. Com Virginie Efira, Anaïs Demoustier, Laurent Stocker, Emmanuel Mouret, Thomas Blanchard, Mathilde Warnier, Olivier Cruveiller, Botum Dupuis, Néo Rouleau."
 ---
 Uma comédia do Woody Allen, se Woody Allen fosse francês e não tivesse crises depressivas expostas em seus filmes. Aqui o lance é mais romântico, mas com conteúdo e inteligência. O filme trabalha a questão dos diversos tipos de amor, algo muito em voga hoje em dia, em que o conceito de família só é estático para burocratas estatais com crises de abstinência em práticas anais.
 

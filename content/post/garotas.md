@@ -1,26 +1,11 @@
 ---
-date: "2015-04-24"
-tags: [ "cabine" ]
+tags: ['cabine']
 imdb: "3655522"
-stars: "5/5"
+date: "2015-04-24"
 categories: "movies"
 title: "Garotas"
-_title: "Bande de filles"
-_year: "2014"
-_director: ["Céline Sciamma", ]
-_writer: ["Céline Sciamma", ]
-_cast: ["Karidja Touré", "Assa Sylla", "Lindsay Karamoh", "Mariétou Touré", "Idrissa Diabaté", "Simina Soumaré", "Dielika Coulibaly", "Cyril Mendy", "Djibril Gueye", ]
-_countries: ["France", ]
-_languages: ["French", ]
-_editor: ["Julien Lacheray", ]
-_cinematographer: ["Crystel Fournier", ]
-_music: ["Jean-Baptiste de Laubier", ]
-_genres: ["Drama", ]
-_runtimes: ["113", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjA5MDM1ODE5NV5BMl5BanBnXkFtZTgwNjg0MTk5MzE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjA5MDM1ODE5NV5BMl5BanBnXkFtZTgwNjg0MTk5MzE@._V1._SX95_SY140_.jpg"
+stars: "5/5"
+desc: "Garotas. Bande de filles (France, 2014). Dirigido por Céline Sciamma. Escrito por Céline Sciamma. Com Karidja Touré, Assa Sylla, Lindsay Karamoh, Mariétou Touré, Idrissa Diabaté, Simina Soumaré, Dielika Coulibaly, Cyril Mendy, Djibril Gueye."
 ---
 Garotas é o filme seguinte da diretora/roteirista Céline Sciamma após o ótimo Tomboy. Temas da juventude parecem ser sua especialidade, e uma juventude bem específica. Se no longa anterior acompanhávamos a história de uma criança transgênero como uma forma de entender a infância, aqui a protagonista Marieme (estreia de Karidja Touré), ou Vic, é a representante de uma geração de adolescentes inseridos em um contexto muito especial na França. Daqui para o universal é um passo. E Céline dá esse passo abusando do audio-visual, ignorando diálogos expositivos, e partindo do específico para o geral.
 

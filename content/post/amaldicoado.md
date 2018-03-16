@@ -1,25 +1,10 @@
 ---
-date: "2015-06-07"
 imdb: "1528071"
-stars: "3/5"
+date: "2015-06-07"
 categories: "movies"
 title: "Amaldiçoado"
-_title: "Horns"
-_year: "2013"
-_director: ["Alexandre Aja", ]
-_writer: ["Keith Bunin", "Joe Hill", ]
-_cast: ["Daniel Radcliffe", "Max Minghella", "Joe Anderson", "Juno Temple", "Kelli Garner", "James Remar", "Kathleen Quinlan", "Heather Graham", "David Morse", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Baxter", ]
-_cinematographer: ["Frederick Elmes", ]
-_music: ["Robin Coudert", ]
-_genres: ["Drama", ]
-_runtimes: ["120", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQ2Nzk5NzIxMF5BMl5BanBnXkFtZTgwNTM2NTc5MjE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQ2Nzk5NzIxMF5BMl5BanBnXkFtZTgwNTM2NTc5MjE@._V1._SX94_SY140_.jpg"
+stars: "3/5"
+desc: "Amaldiçoado. Horns (USA, 2013). Dirigido por Alexandre Aja. Escrito por Keith Bunin, Joe Hill. Com Daniel Radcliffe, Max Minghella, Joe Anderson, Juno Temple, Kelli Garner, James Remar, Kathleen Quinlan, Heather Graham, David Morse."
 ---
 Horns é uma fábula contada da forma mais banal possível: a investigação de um crime em uma cidadezinha. Passando por todos os clichês do gênero, a parte divertida é mais ou menos a metade do filme: observar a "maldade" inerente em todo e qualquer ser humano.
 

@@ -1,23 +1,11 @@
 ---
-date: "2015-07-28"
-imdb: "1710308"
-stars: "3/5"
-title: "Regular Show"
-categories: "series"
 tags: ['netflix', 'series']
-_title: "Regular Show"
-_year: "2009"
-_director: ["John Infantino", "Sean Szeles", "J.G. Quintel", "Mike Roth", ]
-_writer: ["J.G. Quintel", "Mike Roth", "Matt Price", "John Infantino", "Sean Szeles", "Michele Cavin", "Benton Connor", "Calvin Wong", "Jack C. Thomas", ]
-_cast: ["J.G. Quintel", "William Salyers", "Sam Marin", "Mark Hamill", "Roger Craig Smith", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_music: ["Mark Mothersbaugh", "Albert Fox", "John Enroth", ]
-_genres: ["Animation", ]
-_runtimes: ["23::(approx.)", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTM3MjYwODA3MV5BMl5BanBnXkFtZTcwOTc5Nzc4Nw@@.jpg"
-_kind: "tv series"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTM3MjYwODA3MV5BMl5BanBnXkFtZTcwOTc5Nzc4Nw@@._V1._SX96_SY140_.jpg"
+imdb: "1710308"
+date: "2015-07-28"
+categories: "series"
+title: "Regular Show"
+stars: "3/5"
+desc: "Regular Show. Regular Show (USA, 2009). Dirigido por John Infantino, Sean Szeles, J.G. Quintel, Mike Roth. Escrito por J.G. Quintel, Mike Roth, Matt Price, John Infantino, Sean Szeles, Michele Cavin, Benton Connor, Calvin Wong, Jack C. Thomas. Com J.G. Quintel, William Salyers, Sam Marin, Mark Hamill, Roger Craig Smith."
 ---
 Regular Show consegue contar seus episódios em apenas dez minutos. Isso em uma história quase sempre dotada de uma criatividade sem limites onde figuras impossíveis surgem para finalizar as piadas com o toque final do absurdo necessário para finalizar histórias como essa. Confuso, mas é sempre assim.
 

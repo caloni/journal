@@ -1,27 +1,11 @@
 ---
-imdb: "3469046"
-stars: "3/5"
 tags: ['paulocoelho']
+imdb: "3469046"
 date: 2017-11-23T01:13:13
-title: "Meu Malvado Favorito 3"
 categories: "movies"
-_title: "Despicable Me 3"
-_year: "2017"
-_director: ["Kyle Balda", "Pierre Coffin", "Eric Guillon", ]
-_writer: ["Cinco Paul", "Ken Daurio", ]
-_cast: ["Steve Carell (Gru / Dru)", "Kristen Wiig (Lucy)", "Trey Parker (Balthazar Bratt)", "Miranda Cosgrove (Margo)", "Dana Gaier (Edith)", "Nev Scharrel (Agnes)", "Pierre Coffin (Minions / Museum Director / Additional Voice)", "Steve Coogan (Fritz / Silas Ramsbottom)", "Julie Andrews (Gru's Mom)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Claire Dodgson", ]
-_music: ["Heitor Pereira", "Pharrell Williams", ]
-_artdirection: ["Olivier Adam", "Olivier Adam", ]
-_genres: ["Animation", ]
-_runtimes: ["90", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNjUyNzQ2MTg3Ml5BMl5BanBnXkFtZTgwNzE4NDM3MTI@.jpg"
-_ratio: "2.39 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNjUyNzQ2MTg3Ml5BMl5BanBnXkFtZTgwNzE4NDM3MTI@._V1._SX88_SY140_.jpg"
-_releasedate: "29 June 2017"
+title: "Meu Malvado Favorito 3"
+stars: "3/5"
+desc: "Meu Malvado Favorito 3. Despicable Me 3 (USA, 2017). Dirigido por Kyle Balda, Pierre Coffin, Eric Guillon. Escrito por Cinco Paul, Ken Daurio. Com Steve Carell (Gru / Dru), Kristen Wiig (Lucy), Trey Parker (Balthazar Bratt), Miranda Cosgrove (Margo), Dana Gaier (Edith), Nev Scharrel (Agnes), Pierre Coffin (Minions / Museum Director / Additional Voice), Steve Coogan (Fritz / Silas Ramsbottom), Julie Andrews (Gru's Mom)."
 ---
 Esta é uma continuação nos mesmos moldes do primeiro e do segundo filme. O mesmo estilo de piada nos acompanha, seja de Gru, de Agnes, das outras meninas, da sua agora namorada, e agora do seu irmão gêmeo e um vilão que, ao contrário do primeiro moderninho Vetor, agora é um bandido ao estilo anos 80. E também descobrimos que o pai de Gru era um vilão estilo anos 60, digno dos filmes de James Bond. Ou Austin Powers.
 

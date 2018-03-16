@@ -1,25 +1,10 @@
 ---
-date: "2012-12-24"
 imdb: "1611224"
+date: "2012-12-24"
+categories: "movies"
 title: "Abraham Lincoln Caçador de Vampiros"
 stars: "2/5"
-categories: "movies"
-_title: "Abraham Lincoln: Vampire Hunter"
-_year: "2012"
-_director: ["Timur Bekmambetov", ]
-_writer: ["Seth Grahame-Smith", "Seth Grahame-Smith", ]
-_cast: ["Benjamin Walker", "Dominic Cooper", "Anthony Mackie", "Mary Elizabeth Winstead", "Rufus Sewell", "Marton Csokas", "Jimmi Simpson", "Joseph Mawle", "Robin McLeavy", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["William Hoy", ]
-_cinematographer: ["Caleb Deschanel", ]
-_music: ["Henry Jackman", ]
-_genres: ["Action", ]
-_runtimes: ["105", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNjY2Mzc0MDA4NV5BMl5BanBnXkFtZTcwOTg5OTcxNw@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNjY2Mzc0MDA4NV5BMl5BanBnXkFtZTcwOTg5OTcxNw@@._V1._SX94_SY140_.jpg"
+desc: "Abraham Lincoln Caçador de Vampiros. Abraham Lincoln: Vampire Hunter (USA, 2012). Dirigido por Timur Bekmambetov. Escrito por Seth Grahame-Smith, Seth Grahame-Smith. Com Benjamin Walker, Dominic Cooper, Anthony Mackie, Mary Elizabeth Winstead, Rufus Sewell, Marton Csokas, Jimmi Simpson, Joseph Mawle, Robin McLeavy."
 ---
 Há uma, e apenas uma, ideia interessante por trás de todo o enredo de "Abraham Lincoln", roteiro escrito por Seth Grahame-Smith (Sombras da Noite) baseado em seu próprio romance: a alegoria do povo do sul como vampiros que se alimentam dos seus escravos. Tirando essa semi-brilhante sacada, todo o resto parece criar uma experiência boba, infantil e que tenta justificar cenas de luta coreografadas através dos seus delírios de grandeza.
 

@@ -1,27 +1,12 @@
 ---
-date: "2013-09-30"
-imdb: "0903747"
-title: "Breaking Bad - Quarta Temporada"
-revision: [2016-07-17]
-stars: "5/5"
-categories: "blog"
-date: "2016-07-16"
 tags: ['breakingbad', 'series']
-_title: "Breaking Bad"
-_year: "2008"
-_director: ["Michelle MacLaren", "Adam Bernstein", "Vince Gilligan", "Colin Bucksey", "Michael Slovis", "Bryan Cranston", "Terry McDonough", "Johan Renck", "Rian Johnson", ]
-_writer: ["Vince Gilligan", "Peter Gould", "George Mastras", "Sam Catlin", "Moira Walley-Beckett", "Thomas Schnauz", "Gennifer Hutchison", "John Shiban", "J. Roberts", ]
-_cast: ["Bryan Cranston", "Anna Gunn", "Aaron Paul", "Dean Norris", "Betsy Brandt", "RJ Mitte", "Bob Odenkirk", "Steven Michael Quezada", "Jonathan Banks", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Kelley Dixon", "Skip Macdonald", "Lynne Willingham", ]
-_cinematographer: ["Michael Slovis", "Reynaldo Villalobos", "Peter Reniers", "Nelson Cragg", "Arthur Albert", ]
-_music: ["Dave Porter", ]
-_genres: ["Crime", ]
-_runtimes: ["45", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQ0ODYzODc0OV5BMl5BanBnXkFtZTgwMDk3OTcyMDE@.jpg"
-_kind: "tv series"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQ0ODYzODc0OV5BMl5BanBnXkFtZTgwMDk3OTcyMDE@._V1._SX95_SY140_.jpg"
+imdb: "0903747"
+date: "2016-07-16"
+categories: "blog"
+title: "Breaking Bad - Quarta Temporada"
+stars: "5/5"
+revision: [datetime.date(2016, 7, 17)]
+desc: "Breaking Bad - Quarta Temporada. Breaking Bad (USA, 2008). Dirigido por Michelle MacLaren, Adam Bernstein, Vince Gilligan, Colin Bucksey, Michael Slovis, Bryan Cranston, Terry McDonough, Johan Renck, Rian Johnson. Escrito por Vince Gilligan, Peter Gould, George Mastras, Sam Catlin, Moira Walley-Beckett, Thomas Schnauz, Gennifer Hutchison, John Shiban, J. Roberts. Com Bryan Cranston, Anna Gunn, Aaron Paul, Dean Norris, Betsy Brandt, RJ Mitte, Bob Odenkirk, Steven Michael Quezada, Jonathan Banks."
 ---
 A saga de Vince Gilligan continua soando como um mini-manifesto libertário, mas agora ao mesmo tempo resolve discutir moral através de múltiplas ações de múltiplos personagens. Enquanto Skyler começa a se envolver nos planos de Walt, a questão sobre o que é certo e errado entra em conflito com o que é legal e ilegal. Durante toda a temporada, um cigarro (legal) é carregado por Jesse em seus inúmeros maços; o que esse cigarro contém de especial é uma outra substância escondida (ilegal) que pode ser usada para envenenar uma pessoa. Essa substância foi produzida sem a necessidade de ferir ninguém, e envenenar alguém seria uma ação necessária caso houvesse algum risco de vida das pessoas envolvidas, por causa da produção de uma terceira substância cuja produção também é ilegal, e combatida através de bilhões de dólares queimados pelo governo em uma guerra informal.
 

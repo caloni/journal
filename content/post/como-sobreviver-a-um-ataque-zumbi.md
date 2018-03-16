@@ -1,27 +1,10 @@
 ---
-date: "2015-12-09"
 imdb: "1727776"
-stars: "3/5"
+date: "2015-12-09"
 categories: "movies"
 title: "Como Sobreviver a Um Ataque Zumbi"
-_title: "Scouts Guide to the Zombie Apocalypse"
-_year: "2015"
-_director: ["Christopher Landon", ]
-_writer: ["Carrie Lee Wilson", "Emi Mochizuki", "Christopher Landon", "Lona Williams", ]
-_cast: ["Tye Sheridan", "Logan Miller", "Joey Morgan", "Sarah Dumont", "David Koechner", "Halston Sage", "Cloris Leachman", "Niki Koss", "Hiram A. Murray", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Jim Page", ]
-_cinematographer: ["Brandon Trost", ]
-_music: ["Matthew Margeson", ]
-_artdirection: ["William Budge", "Nick Ralbovsky", ]
-_costume designer: ["Marylou Lim", ]
-_genres: ["Comedy", ]
-_runtimes: ["93", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTY4NjczNjE4OV5BMl5BanBnXkFtZTgwODk0MjQ5NjE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTY4NjczNjE4OV5BMl5BanBnXkFtZTgwODk0MjQ5NjE@._V1._SX91_SY140_.jpg"
+stars: "3/5"
+desc: "Como Sobreviver a Um Ataque Zumbi. Scouts Guide to the Zombie Apocalypse (USA, 2015). Dirigido por Christopher Landon. Escrito por Carrie Lee Wilson, Emi Mochizuki, Christopher Landon, Lona Williams. Com Tye Sheridan, Logan Miller, Joey Morgan, Sarah Dumont, David Koechner, Halston Sage, Cloris Leachman, Niki Koss, Hiram A. Murray."
 ---
 Mais um filme sobre zumbis que une o velho clichê da impopularidade de nerds -- nesse caso, escoteiros -- com uma daquelas aventuras juvenis que libera poucos peitinhos para muito sangue e tripas. Não há muito interesse no desenrolar dos personagens, nem se eles vão sobreviver (dica: vão) e muito menos o que começou tudo isso. Zumbis, jovens, e é isso.
 

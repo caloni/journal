@@ -1,25 +1,10 @@
 ---
-date: "2011-11-02"
 imdb: "1161864"
+date: "2011-11-02"
+categories: "movies"
 title: "O Ritual"
 stars: "2/5"
-categories: "movies"
-_title: "The Rite"
-_year: "2011"
-_director: ["Mikael Håfström", ]
-_writer: ["Michael Petroni", "Matt Baglio", ]
-_cast: ["Anthony Hopkins", "Colin O'Donoghue", "Alice Braga", "Ciarán Hinds", "Toby Jones", "Rutger Hauer", "Marta Gastini", "Maria Grazia Cucinotta", "Arianna Veronesi", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["David Rosenbloom", ]
-_cinematographer: ["Ben Davis", ]
-_music: ["Alex Heffes", ]
-_genres: ["Drama", ]
-_runtimes: ["114", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTcxNTAxMTMzNF5BMl5BanBnXkFtZTcwMjQ1MDAxNA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTcxNTAxMTMzNF5BMl5BanBnXkFtZTcwMjQ1MDAxNA@@._V1._SX95_SY140_.jpg"
+desc: "O Ritual. The Rite (USA, 2011). Dirigido por Mikael Håfström. Escrito por Michael Petroni, Matt Baglio. Com Anthony Hopkins, Colin O'Donoghue, Alice Braga, Ciarán Hinds, Toby Jones, Rutger Hauer, Marta Gastini, Maria Grazia Cucinotta, Arianna Veronesi."
 ---
 Um "noviço" que, desistindo da vocação de padre, resolve dar uma última chance ao seu superior fazendo um curso de exorcismo no Vaticano. Há um diálogo estranho do superior insistindo no rapaz. Com o uso de uma cena forçada do superior causando a morte de uma ciclista, parece que o filme irá jogar suas causas de uma maneira não-orgânica.
 

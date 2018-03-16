@@ -1,25 +1,12 @@
 ---
-date: "2014-12-01"
+tags: ['netflix', 'series']
 imdb: "2164430"
+date: "2014-12-01"
+categories: "series"
 title: "Diário de um Jovem Médico"
 stars: "3/5"
-categories: "series"
-revision: [ 2016-06-12 ]
-tags: ['netflix', 'series']
-_title: "A Young Doctor's Notebook"
-_year: "2012"
-_director: ["Alex Hardcastle", "Robert McKillop", ]
-_writer: ["Mikhail A. Bulgakov", "Mark Chappell", "Alan Connor", "Shaun Pye", ]
-_cast: ["Jon Hamm", "Daniel Radcliffe", "Rosie Cavaliero", "Adam Godley", "Vicki Pepperdine", "Daniel Cerqueira", "Tim Steed", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Mark Henson", ]
-_cinematographer: ["Simon Vickery", ]
-_genres: ["Comedy", ]
-_runtimes: ["23::(approx.)", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTg5NDYxMTczNV5BMl5BanBnXkFtZTcwNTc2Nzg2OA@@.jpg"
-_kind: "tv series"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTg5NDYxMTczNV5BMl5BanBnXkFtZTcwNTc2Nzg2OA@@._V1._SX100_SY62_.jpg"
+revision: [datetime.date(2016, 6, 12)]
+desc: "Diário de um Jovem Médico. A Young Doctor's Notebook (UK, 2012). Dirigido por Alex Hardcastle, Robert McKillop. Escrito por Mikhail A. Bulgakov, Mark Chappell, Alan Connor, Shaun Pye. Com Jon Hamm, Daniel Radcliffe, Rosie Cavaliero, Adam Godley, Vicki Pepperdine, Daniel Cerqueira, Tim Steed."
 ---
 # Primeira Temporada
 

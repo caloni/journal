@@ -1,25 +1,10 @@
 ---
-date: "2013-11-16"
 imdb: "0071360"
+date: "2013-11-16"
+categories: "movies"
 title: "A Conversação"
 stars: "5/5"
-categories: "movies"
-_title: "The Conversation"
-_year: "1974"
-_director: ["Francis Ford Coppola", ]
-_writer: ["Francis Ford Coppola", ]
-_cast: ["Gene Hackman", "John Cazale", "Allen Garfield", "Frederic Forrest", "Cindy Williams", "Michael Higgins", "Elizabeth MacRae", "Teri Garr", "Harrison Ford", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Richard Chew", ]
-_cinematographer: ["Bill Butler", "Haskell Wexler", ]
-_music: ["David Shire", ]
-_genres: ["Drama", ]
-_runtimes: ["113", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjY0NjYzNjkwNF5BMl5BanBnXkFtZTcwNTk3MzU3Mg@@.jpg"
-_ratio: "1.37 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjY0NjYzNjkwNF5BMl5BanBnXkFtZTcwNTk3MzU3Mg@@._V1._SX94_SY140_.jpg"
+desc: "A Conversação. The Conversation (USA, 1974). Dirigido por Francis Ford Coppola. Escrito por Francis Ford Coppola. Com Gene Hackman, John Cazale, Allen Garfield, Frederic Forrest, Cindy Williams, Michael Higgins, Elizabeth MacRae, Teri Garr, Harrison Ford."
 ---
 Geralmente quando o Cinema se volta para si mesmo (rendendo boa parte das vezes filmes memoráveis) ele nunca pensa em descrever como o som é importante. Direção, atores, fotografia, trilha sonora, tudo isso parece relevante para o público médio. Mas o som, esse pobre coitado, é renegado à posição de "quanto mais invisível, melhor".
 

@@ -1,26 +1,11 @@
 ---
+tags: ['netflix']
+imdb: "3341582"
 date: "2016-12-04"
 categories: "movies"
 title: "Killa"
-imdb: "3341582"
 stars: "3/5"
-tags: ['netflix']
-_title: "Killa"
-_year: "2014"
-_director: ["Avinash Arun", ]
-_writer: ["Tushar Paranjape", "Upendra Sidhaye", ]
-_cast: ["Amruta Subhash", "Archit Deodhar (Chinmay)", "Parth Bhalerao (Bandya)", "Gaurish Gawade (Yuvraj)", "Atharva Upasni (Omkar)", "Swandand Raikar (Umesh)", "Shrikant Yadav (Mr.Nivte)", "Umesh Jagtap (Fisherman)", "Shivalati Bokil (Damle Aaji)", ]
-_countries: ["India", ]
-_languages: ["Marathi", ]
-_editor: ["Charu Shree Roy", ]
-_cinematographer: ["Avinash Arun", ]
-_music: ["Naren Chandavarkar", "Benedict Taylor", ]
-_costume designer: ["Sachin Lovalekar", ]
-_genres: ["Comedy", ]
-_runtimes: ["78", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY1NTIwMTY2NV5BMl5BanBnXkFtZTgwNDU2MDY4MjE@.jpg"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY1NTIwMTY2NV5BMl5BanBnXkFtZTgwNDU2MDY4MjE@._V1._SX100_SY133_.jpg"
+desc: "Killa. Killa (India, 2014). Dirigido por Avinash Arun. Escrito por Tushar Paranjape, Upendra Sidhaye. Com Amruta Subhash, Archit Deodhar (Chinmay), Parth Bhalerao (Bandya), Gaurish Gawade (Yuvraj), Atharva Upasni (Omkar), Swandand Raikar (Umesh), Shrikant Yadav (Mr.Nivte), Umesh Jagtap (Fisherman), Shivalati Bokil (Damle Aaji)."
 ---
 Killa é um drama indiano de uma criança e se passa em uma cidadezinha, girando em torno das amizades do garoto na escola. É pesadamente regional, necessário ter um pouco de conhecimento dos costumes de lá, e o próprio drama é desenvolvido pelo diretor Avinash Arun de uma maneira hermética, quase impossível de tirar alguma moral, parecendo aqueles filmes que são sobre uma experiência sem maiores consequências. Felizmente, em seu terceiro ato, lá no finalzinho, ganhamos algo. O arco está cumprido.
 

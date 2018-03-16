@@ -1,24 +1,10 @@
 ---
-date: "2011-11-20"
 imdb: "1600524"
+date: "2011-11-20"
+categories: "movies"
 title: "Amores Imaginários"
 stars: "4/5"
-categories: "movies"
-_title: "Les amours imaginaires"
-_year: "2010"
-_director: ["Xavier Dolan", ]
-_writer: ["Xavier Dolan", ]
-_cast: ["Monia Chokri", "Niels Schneider", "Xavier Dolan", "Anne Dorval", "Anne-Élisabeth Bossé", "Olivier Morin", "Magalie Lépine Blondeau", "Éric Bruneau", "Gabriel Lessard", ]
-_countries: ["Canada", ]
-_languages: ["French", ]
-_editor: ["Xavier Dolan", ]
-_cinematographer: ["Stéphanie Anne Weber Biron", ]
-_genres: ["Drama", ]
-_runtimes: ["101", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTU0MDA2NjEwNV5BMl5BanBnXkFtZTcwNTkyMzgzNA@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTU0MDA2NjEwNV5BMl5BanBnXkFtZTcwNTkyMzgzNA@@._V1._SX97_SY140_.jpg"
+desc: "Amores Imaginários. Les amours imaginaires (Canada, 2010). Dirigido por Xavier Dolan. Escrito por Xavier Dolan. Com Monia Chokri, Niels Schneider, Xavier Dolan, Anne Dorval, Anne-Élisabeth Bossé, Olivier Morin, Magalie Lépine Blondeau, Éric Bruneau, Gabriel Lessard."
 ---
 Primeiro trabalho de Xavier Dolan na direção/roteiro/atuação depois de chamar a atenção com Eu Matei a Minha Mãe, Amores Imaginários é sobre exatamente o que o título sugere: aquele sentimento de idolatria por uma pessoa que nunca é correspondido à altura, porque no fundo esse sentimento é puramente imaginário. É como uma paixão, em qualquer grau e gênero.
 

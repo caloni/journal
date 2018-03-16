@@ -1,24 +1,10 @@
 ---
-date: "2010-11-26"
 imdb: "1182350"
+date: "2010-11-26"
+categories: "movies"
 title: "Você Vai Conhecer o Homem dos Seus Sonhos"
 stars: "3/5"
-categories: "movies"
-_title: "You Will Meet a Tall Dark Stranger"
-_year: "2010"
-_director: ["Woody Allen", ]
-_writer: ["Woody Allen", ]
-_cast: ["Gemma Jones", "Pauline Collins", "Anthony Hopkins", "Rupert Frazer", "Kelly Harrison", "Naomi Watts", "Josh Brolin", "Freida Pinto", "Eleanor Gecks", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Alisa Lepselter", ]
-_cinematographer: ["Vilmos Zsigmond", ]
-_genres: ["Comedy", ]
-_runtimes: ["USA:98", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTkzOTI3MTE0OF5BMl5BanBnXkFtZTcwOTg3NDI3Mw@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTkzOTI3MTE0OF5BMl5BanBnXkFtZTcwOTg3NDI3Mw@@._V1._SX95_SY140_.jpg"
+desc: "Você Vai Conhecer o Homem dos Seus Sonhos. You Will Meet a Tall Dark Stranger (USA, 2010). Dirigido por Woody Allen. Escrito por Woody Allen. Com Gemma Jones, Pauline Collins, Anthony Hopkins, Rupert Frazer, Kelly Harrison, Naomi Watts, Josh Brolin, Freida Pinto, Eleanor Gecks."
 ---
 Personagens que Allen adora colocar em cena: a cartomante que faz papel de psiquiatra, a velhinha que procura uma cura para sua tensão pós-separação, o ex que está velho demais para recomeçar e acreditar ter o gene da longevidade, o escritor fracassado de um sucesso só, casado com a consultora de artes em um casamento que logo, logo, irá se abalar, e a noivinha pronta para sair do casamento.
 

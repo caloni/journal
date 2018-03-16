@@ -1,28 +1,11 @@
 ---
+tags: ['netflix']
+imdb: "0367882"
 date: "2016-11-04"
 categories: "movies"
 title: "Indiana Jones e o Reino da Caveira de Cristal"
-imdb: "0367882"
 stars: "1/5"
-tags: ['netflix']
-_title: "Indiana Jones and the Kingdom of the Crystal Skull"
-_year: "2008"
-_director: ["Steven Spielberg", ]
-_writer: ["David Koepp", "George Lucas", "Jeff Nathanson", "Philip Kaufman", ]
-_cast: ["Harrison Ford (Indiana Jones)", "Cate Blanchett (Irina Spalko)", "Karen Allen (Marion Ravenwood)", "Shia LaBeouf (Mutt Williams)", "Ray Winstone ('Mac' George Michale)", "John Hurt (Professor Oxley)", "Jim Broadbent (Dean Charles Stanforth)", "Igor Jijikine (Dovchenko)", "Dimitri Diatchenko (Russian Suit)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Michael Kahn", ]
-_cinematographer: ["Janusz Kaminski", ]
-_music: ["John Williams", ]
-_artdirection: ["Luke Freeborn", "Lawrence A. Hubbs", "Mark W. Mansbridge", "Lauren E. Polizzi", "Troy Sizemore", "Mario Ventenilla", ]
-_costume designer: ["Mary Zophres", ]
-_genres: ["Action", ]
-_runtimes: ["122", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTIxNDUxNzcyMl5BMl5BanBnXkFtZTcwNTgwOTI3MQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTIxNDUxNzcyMl5BMl5BanBnXkFtZTcwNTgwOTI3MQ@@._V1._SX95_SY140_.jpg"
+desc: "Indiana Jones e o Reino da Caveira de Cristal. Indiana Jones and the Kingdom of the Crystal Skull (USA, 2008). Dirigido por Steven Spielberg. Escrito por David Koepp, George Lucas, Jeff Nathanson, Philip Kaufman. Com Harrison Ford (Indiana Jones), Cate Blanchett (Irina Spalko), Karen Allen (Marion Ravenwood), Shia LaBeouf (Mutt Williams), Ray Winstone ('Mac' George Michale), John Hurt (Professor Oxley), Jim Broadbent (Dean Charles Stanforth), Igor Jijikine (Dovchenko), Dimitri Diatchenko (Russian Suit)."
 ---
 Indiana Jones e o Reino da Caveira de Cristal não é apenas um filme ruim. Ele vai muito além do que simplesmente duas horas desperdiçadas. Ele trai uma trilogia bem acabada e desencanta um universo intocável. E vai ainda além. Ele subverte a beleza da aventura realista de tempos pré-digitais em prol de um fundo verde que dá lugar a uma pavorosa fotografia que empalidece até o conceito de filme de ação contemporâneo. Ele explora personagens memoráveis em prol das cenas fáceis, do video-game de segunda categoria, de quebra-cabeças para crianças de cinco anos. Ele fere o coração de toda uma geração que sonhava com arqueologia exploratória. Ele chega ao cúmulo de tornar Indiana Jones um desistente, um perdedor, um conformista. A sombra do que um dia foi um Homem.
 

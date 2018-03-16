@@ -1,21 +1,10 @@
 ---
-date: "2010-10-26"
-title: "Bróder"
 imdb: "1679538"
-stars: "3/5"
+date: "2010-10-26"
 categories: "movies"
-_title: "Bróder"
-_year: "2010"
-_director: ["Jeferson De", ]
-_writer: ["Newton Cannito", "Jeferson De", "Laura Malin", ]
-_cast: ["Caio Blat", "Jonathan Haagensen", "Silvio Guindane", "Cássia Kis Magro", "Ailton Graça", "Cintia Rosa", "Zezé Motta", "Lidiane Lisboa", ]
-_countries: ["Brazil", ]
-_languages: ["Portuguese", ]
-_editor: ["Quito Ribeiro", ]
-_cinematographer: ["Gustavo Hadba", ]
-_music: ["João Marcelo Bôscoli", ]
-_runtimes: ["93::(theatrical version)", ]
-_kind: "movie"
+title: "Bróder"
+stars: "3/5"
+desc: "Bróder. Bróder (Brazil, 2010). Dirigido por Jeferson De. Escrito por Newton Cannito, Jeferson De, Laura Malin. Com Caio Blat, Jonathan Haagensen, Silvio Guindane, Cássia Kis Magro, Ailton Graça, Cintia Rosa, Zezé Motta, Lidiane Lisboa."
 ---
 A história do estreante diretor Jeferson De, cuja sessão em que estava presente tive o privilégio de participar, inicia com uma grande sequência sem cortes em que Macu desce a ladeira de sua casa pelos becos e ruas do bairro; uma cena que, além de nos mostrar o nível de intimidade do protagonista com seus vizinhos, ainda dá uma ideia muito boa da extensão desse ambiente. A música de abertura, inicialmente não fazendo parte do ambiente, se transforma em música de rádio. Podemos ver essa brincadeira acontecer em quase toda a trilha sonora, que corajosamente escolhe não salpicar as cenas de música, criando tensão em várias cenas simplesmente por diálogos exaltados e movimentos de câmera.
 

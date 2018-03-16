@@ -1,25 +1,10 @@
 ---
-date: "2012-01-04"
 imdb: "1565958"
+date: "2012-01-04"
+categories: "movies"
 title: "Românticos Anônimos"
 stars: "4/5"
-categories: "movies"
-_title: "Les émotifs anonymes"
-_year: "2010"
-_director: ["Jean-Pierre Améris", ]
-_writer: ["Jean-Pierre Améris", "Philippe Blasband", ]
-_cast: ["Benoît Poelvoorde", "Isabelle Carré", "Lorella Cravotta", "Lise Lamétrie", "Swann Arlaud", "Pierre Niney", "Stéphan Wojtowicz", "Jacques Boudet", "Alice Pol", ]
-_countries: ["France", ]
-_languages: ["French", ]
-_editor: ["Philippe Bourgueil", ]
-_cinematographer: ["Gérard Simon", ]
-_music: ["Pierre Adenot", ]
-_genres: ["Comedy", ]
-_runtimes: ["80", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNjk2NDg5MDE4NV5BMl5BanBnXkFtZTcwMjkwNjgwNw@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNjk2NDg5MDE4NV5BMl5BanBnXkFtZTcwMjkwNjgwNw@@._V1._SX100_SY75_.jpg"
+desc: "Românticos Anônimos. Les émotifs anonymes (France, 2010). Dirigido por Jean-Pierre Améris. Escrito por Jean-Pierre Améris, Philippe Blasband. Com Benoît Poelvoorde, Isabelle Carré, Lorella Cravotta, Lise Lamétrie, Swann Arlaud, Pierre Niney, Stéphan Wojtowicz, Jacques Boudet, Alice Pol."
 ---
 Como bom tímido que fui (sou?) posso com autoridade dizer que Românticos Anônimos ao mesmo tempo que permite nos identificarmos com o casal protagonizado por dois tímidos irremediáveis também nos permite identificar as diferenças peculiares de cada um, evitando assim estereotipar mas manter-se engraçado e terno.
 

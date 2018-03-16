@@ -1,21 +1,10 @@
 ---
-date: "2010-10-29"
-title: "A Suprema Felicidade"
 imdb: "1720038"
-stars: "3/5"
+date: "2010-10-29"
 categories: "movies"
-_title: "A Suprema Felicidade"
-_year: "2010"
-_director: ["Arnaldo Jabor", ]
-_writer: ["Arnaldo Jabor", "Ananda Rubinstein", ]
-_cast: ["Fernanda Avellar", "César Cardadeiro", "Tammy Di Calafiori", "Maria Flor", "Ary Fontoura", "Michel Joelsas", "Mariana Lima", "Jorge Loredo", "Caio Manhente", ]
-_countries: ["Brazil", ]
-_languages: ["Portuguese", ]
-_editor: ["Leticia Giffoni", ]
-_cinematographer: ["Lauro Escorel", ]
-_genres: ["Drama", ]
-_runtimes: ["121", ]
-_kind: "movie"
+title: "A Suprema Felicidade"
+stars: "3/5"
+desc: "A Suprema Felicidade. A Suprema Felicidade (Brazil, 2010). Dirigido por Arnaldo Jabor. Escrito por Arnaldo Jabor, Ananda Rubinstein. Com Fernanda Avellar, César Cardadeiro, Tammy Di Calafiori, Maria Flor, Ary Fontoura, Michel Joelsas, Mariana Lima, Jorge Loredo, Caio Manhente."
 ---
 Baarìa - A Porta do Vento, trabalho mais pessoal de Giuseppe Tornatore (Cinema Paradiso), é uma superprodução que tem como característica marcante não definir um foco específico ao contar sua história. Disposto a tornar a Baarìa do título, um vilarejo no interior da Itália, protagonista de tudo que aconteceu no país ao longo de décadas de história, Tornatore sacrifica a clareza narrativa em prol de um bem maior: a absurdamente estonteante rima final, que torna o seu filme, como um todo, uma experiência única e inesperada.
 

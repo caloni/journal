@@ -1,26 +1,11 @@
 ---
+tags: ['netflix']
+imdb: "2231138"
 date: "2016-11-17"
 categories: "movies"
 title: "Some Velvet Morning"
-imdb: "2231138"
 stars: "4/5"
-tags: ['netflix']
-_title: "Some Velvet Morning"
-_year: "2013"
-_director: ["Neil LaBute", ]
-_writer: ["Neil LaBute", ]
-_cast: ["Stanley Tucci (Fred)", "Alice Eve (Velvet)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Joel Plotch", ]
-_cinematographer: ["Rogier Stoffers", ]
-_costume designer: ["Katherine Roth", ]
-_genres: ["Drama", ]
-_runtimes: ["84", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNTgxMzUxMDc3Ml5BMl5BanBnXkFtZTgwNDgxODE2MDE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNTgxMzUxMDc3Ml5BMl5BanBnXkFtZTgwNDgxODE2MDE@._V1._SX95_SY140_.jpg"
+desc: "Some Velvet Morning. Some Velvet Morning (USA, 2013). Dirigido por Neil LaBute. Escrito por Neil LaBute. Com Stanley Tucci (Fred), Alice Eve (Velvet)."
 ---
 Este filme independente de baixo orçamento comprova como o catálogo da Netflix reserva algumas ótimas surpresas onde menos se espera. Protagonizado por atores secundários, este trabalho do diretor e roteirista Neil LaBute parece extremamente amador quase todo o tempo. Exceto pela reviravolta que o espera.
 

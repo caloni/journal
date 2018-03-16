@@ -1,25 +1,10 @@
 ---
-date: "2015-01-04"
 imdb: "1821641"
+date: "2015-01-04"
+categories: "movies"
 title: "O Congresso Futurista"
 stars: "3/5"
-categories: "movies"
-_title: "The Congress"
-_year: "2013"
-_director: ["Ari Folman", ]
-_writer: ["Stanislaw Lem", "Ari Folman", ]
-_cast: ["Robin Wright", "Harvey Keitel", "Jon Hamm", "Kodi Smit-McPhee", "Danny Huston", "Sami Gayle", "Michael Stahl-David", "Paul Giamatti", "Ed Corbin", ]
-_countries: ["Israel", ]
-_languages: ["English", ]
-_editor: ["Nili Feller", ]
-_cinematographer: ["Michal Englert", ]
-_music: ["Max Richter", ]
-_genres: ["Animation", ]
-_runtimes: ["122", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjE5MTUzNDk3M15BMl5BanBnXkFtZTgwMTUwNTQ5MTE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjE5MTUzNDk3M15BMl5BanBnXkFtZTgwMTUwNTQ5MTE@._V1._SX95_SY140_.jpg"
+desc: "O Congresso Futurista. The Congress (Israel, 2013). Dirigido por Ari Folman. Escrito por Stanislaw Lem, Ari Folman. Com Robin Wright, Harvey Keitel, Jon Hamm, Kodi Smit-McPhee, Danny Huston, Sami Gayle, Michael Stahl-David, Paul Giamatti, Ed Corbin."
 ---
 Essa é a minha visão sobre o futuro. Obviamente, no filme as coisas não saem como o esperado. Mas quem disse que na vida real é diferente? Quantas vezes idealizamos algo e esse algo se perde no meio do caminho para virar outra coisa que, não obstante, parece bater de frente com nossos objetivos iniciais?
 

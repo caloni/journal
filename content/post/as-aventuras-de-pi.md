@@ -1,25 +1,10 @@
 ---
-date: "2013-01-03"
 imdb: "0454876"
+date: "2013-01-03"
+categories: "movies"
 title: "As Aventuras de Pi"
 stars: "3/5"
-categories: "movies"
-_title: "Life of Pi"
-_year: "2012"
-_director: ["Ang Lee", ]
-_writer: ["Yann Martel", "David Magee", ]
-_cast: ["Suraj Sharma", "Irrfan Khan", "Ayush Tandon", "Gautam Belur", "Adil Hussain", "Tabu", "Ayaan Khan", "Mohd. Abbas Khaleeli", "Vibish Sivakumar", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Tim Squyres", ]
-_cinematographer: ["Claudio Miranda", ]
-_music: ["Mychael Danna", ]
-_genres: ["Adventure", ]
-_runtimes: ["127", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNTg2OTY2ODg5OF5BMl5BanBnXkFtZTcwODM5MTYxOA@@.jpg"
-_ratio: "1.33 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNTg2OTY2ODg5OF5BMl5BanBnXkFtZTcwODM5MTYxOA@@._V1._SX94_SY140_.jpg"
+desc: "As Aventuras de Pi. Life of Pi (USA, 2012). Dirigido por Ang Lee. Escrito por Yann Martel, David Magee. Com Suraj Sharma, Irrfan Khan, Ayush Tandon, Gautam Belur, Adil Hussain, Tabu, Ayaan Khan, Mohd. Abbas Khaleeli, Vibish Sivakumar."
 ---
 Pi começa já anos depois dos eventos que são narrados, com um protagonista adulto (Irrfan Khan) e conversando com o escritor (Rafe Spall) que dará vida literária à sua história. Antes de conhecermos o herói temos uma breve introdução sobre o seu nome, uma longa anedota envolvendo um tio e sua fixação por piscinas e que termina em uma brincadeira boba entre matemática, razão e o trocadilho sobre o fato de Pi ser um número "irracional"  e talvez aqui seja a origem da grande trollagem que acredito Ang Lee estar pregando aos religiosos que assistirem ao filme.
 

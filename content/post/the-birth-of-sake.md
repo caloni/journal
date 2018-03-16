@@ -1,24 +1,11 @@
 ---
-imdb: "3903322"
-stars: "3/5"
 tags: ['netflix']
+imdb: "3903322"
 date: 2017-09-24T22:43:51
-title: "The Birth Of Sake"
 categories: "movies"
-_title: "The Birth of Saké"
-_year: "2015"
-_director: ["Erik Shirai", ]
-_writer: ["Erik Shirai", ]
-_countries: ["Japan", ]
-_languages: ["Japanese", ]
-_editor: ["Takeshi Fukunaga", "Frederick Shanahan", ]
-_cinematographer: ["Erik Shirai", ]
-_music: ["Ken Kaizu", ]
-_genres: ["Documentary", ]
-_runtimes: ["90", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BZmE2MTc0YWYtY2QyMS00ODYyLTgzMzYtZmQ3ZWNmNDQxYWExXkEyXkFqcGdeQXVyNjY1OTY4MTk@.jpg"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BZmE2MTc0YWYtY2QyMS00ODYyLTgzMzYtZmQ3ZWNmNDQxYWExXkEyXkFqcGdeQXVyNjY1OTY4MTk@._V1._SX94_SY140_.jpg"
+title: "The Birth Of Sake"
+stars: "3/5"
+desc: "The Birth Of Sake. The Birth of Saké (Japan, 2015). Dirigido por Erik Shirai. Escrito por Erik Shirai."
 ---
 Este filme é uma passagem integral, burocrática e um tanto poética de uma fabricante de saquê nos moldes tradicionais do Japão. Há pouca informação e muita pseudo-emoção. Quase um apelo pela sobrevivência dos tradicionalistas, frente a uma indústria que automatizou quase todo o processo com máquinas.
 

@@ -1,24 +1,10 @@
 ---
-date: "2010-12-20"
 imdb: "0379217"
+date: "2010-12-20"
+categories: "movies"
 title: "Sobre Café e Cigarros"
 stars: "3/5"
-categories: "movies"
-_title: "Coffee and Cigarettes"
-_year: "2003"
-_director: ["Jim Jarmusch", ]
-_writer: ["Jim Jarmusch", ]
-_cast: ["Roberto Benigni", "Steven Wright", "Joie Lee", "Cinqué Lee", "Steve Buscemi", "Iggy Pop", "Tom Waits", "Joseph Rigano", "Vinny Vella", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Jim Jarmusch", "Terry Katz", "Melody London", "Jay Rabinowitz", ]
-_cinematographer: ["Tom DiCillo", "Frederick Elmes", "Ellen Kuras", "Robby Müller", ]
-_genres: ["Comedy", ]
-_runtimes: ["95", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQ5NTcxODA5MV5BMl5BanBnXkFtZTcwMTEwMTYyMQ@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQ5NTcxODA5MV5BMl5BanBnXkFtZTcwMTEwMTYyMQ@@._V1._SX93_SY140_.jpg"
+desc: "Sobre Café e Cigarros. Coffee and Cigarettes (USA, 2003). Dirigido por Jim Jarmusch. Escrito por Jim Jarmusch. Com Roberto Benigni, Steven Wright, Joie Lee, Cinqué Lee, Steve Buscemi, Iggy Pop, Tom Waits, Joseph Rigano, Vinny Vella."
 ---
 Esse é um filme extremamente deprimente, pelas características dos cenários, pela estática das cenas, pela conversinha dos personagens, pelo princípio que os personagens principais, de fato, são os nomes do título.
 

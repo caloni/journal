@@ -1,22 +1,11 @@
 ---
-imdb: "3790756"
-stars: "4/5"
 tags: ['cabine']
+imdb: "3790756"
 date: 2017-09-05T17:32:54
-title: "A Gente"
 categories: "movies"
-_title: "A Gente"
-_year: "2013"
-_director: ["Aly Muritiba", ]
-_writer: ["Aly Muritiba", ]
-_countries: ["Brazil", ]
-_languages: ["Portuguese", ]
-_editor: ["João Menna Barreto", "Aly Muritiba", ]
-_cinematographer: ["Elisandro Dalcin", ]
-_genres: ["Documentary", ]
-_runtimes: ["89", ]
-_kind: "movie"
-_releasedate: "5 October 2013 (Rio Film Festival)"
+title: "A Gente"
+stars: "4/5"
+desc: "A Gente. A Gente (Brazil, 2013). Dirigido por Aly Muritiba. Escrito por Aly Muritiba."
 ---
 A Gente é um filme de pouca repercussão feito em 2013 pelo diretor/roteirista Aly Muritiba (do ótimo Para Minha Amada Morta) quando ele ainda não era tão famoso. Agora que ele é famosinho as distribuidoras pensaram em lançar em alguns cinemas do país. Sabe como é: Brasil. Com tons de documentário caseiro, Muritiba volta à sua antiga vida de agente penitenciário por sete anos e faz uma imersão de quase dois anos para ganhar a confiança de sua antiga equipe e dos presos de uma prisão no Paraná. Tudo é filmado sem narrações, como ficção criada na montagem e sem atores profissionais.
 

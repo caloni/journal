@@ -1,24 +1,10 @@
 ---
-date: "2010-12-20"
 imdb: "0254235"
+date: "2010-12-20"
+categories: "movies"
 title: "Concorrência Desleal"
 stars: "3/5"
-categories: "movies"
-_title: "Concorrenza sleale"
-_year: "2001"
-_director: ["Ettore Scola", ]
-_writer: ["Furio Scarpelli", "Ettore Scola", "Furio Scarpelli", "Silvia Scola", "Giacomo Scarpelli", ]
-_cast: ["Diego Abatantuono", "Sergio Castellitto", "Gérard Depardieu", "Antonella Attili", "Claudio Bigagli", "Sandra Collodel", "Augusto Fornari", "Elio Germano", "Sabrina Impacciatore", ]
-_countries: ["Italy", ]
-_languages: ["Italian", ]
-_editor: ["Raimondo Crociani", ]
-_cinematographer: ["Franco Di Giacomo", ]
-_music: ["Armando Trovajoli", ]
-_genres: ["Drama", ]
-_runtimes: ["110", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjA0MTE2Mjg0N15BMl5BanBnXkFtZTYwNDA1ODc5.jpg"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjA0MTE2Mjg0N15BMl5BanBnXkFtZTYwNDA1ODc5._V1._SX99_SY140_.jpg"
+desc: "Concorrência Desleal. Concorrenza sleale (Italy, 2001). Dirigido por Ettore Scola. Escrito por Furio Scarpelli, Ettore Scola, Furio Scarpelli, Silvia Scola, Giacomo Scarpelli. Com Diego Abatantuono, Sergio Castellitto, Gérard Depardieu, Antonella Attili, Claudio Bigagli, Sandra Collodel, Augusto Fornari, Elio Germano, Sabrina Impacciatore."
 ---
 Mais um filme político de Scola. Dessa vez o foco da história é a concorrência entre um alfaiate e um lojista, que dividem a fachada de suas lojas e suas casas, a amizade de seus filhos menores e um romance entre seu filho e sua filha maiores. Possuem muitas coisas em comum, menos uma: uma família é de judeus; a outra, não.
 

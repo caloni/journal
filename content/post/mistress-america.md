@@ -1,28 +1,11 @@
 ---
-date: "2015-10-26"
-tags: [ "cabine" ]
+tags: ['cabine']
 imdb: "2872462"
-stars: "5/5"
+date: "2015-10-26"
 categories: "movies"
 title: "Mistress America"
-_title: "Mistress America"
-_year: "2015"
-_director: ["Noah Baumbach", ]
-_writer: ["Noah Baumbach", "Greta Gerwig", ]
-_cast: ["Seth Barrish", "Juliet Brett", "Andrea Chen", "Michael Chernus", "Cindy Cheung", "Shana Dowdeswell", "Kathryn Erbe", "Joel Marsh Garland", "Greta Gerwig", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Jennifer Lame", ]
-_cinematographer: ["Sam Levy", ]
-_music: ["Britta Phillips", "Dean Wareham", ]
-_artdirection: ["Ashley Fenton", ]
-_costume designer: ["Sarah Mae Burton", ]
-_genres: ["Comedy", ]
-_runtimes: ["84", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjEzNzgzNDgzNV5BMl5BanBnXkFtZTgwODcyMjk4NTE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjEzNzgzNDgzNV5BMl5BanBnXkFtZTgwODcyMjk4NTE@._V1._SX94_SY140_.jpg"
+stars: "5/5"
+desc: "Mistress America. Mistress America (USA, 2015). Dirigido por Noah Baumbach. Escrito por Noah Baumbach, Greta Gerwig. Com Seth Barrish, Juliet Brett, Andrea Chen, Michael Chernus, Cindy Cheung, Shana Dowdeswell, Kathryn Erbe, Joel Marsh Garland, Greta Gerwig."
 ---
 Quando assisti a Frances Ha notei o uso de Nova Iorque, diálogos rápidos e a óbvia homenagem a Woody Allen, com uma protagonista adoravelmente perdedora. Agora em Mistress America essa protagonista volta em uma nova roupagem, em cores, e indiretamente serve de combustível para uma futura escritora na faculdade, que aprende que Aristóteles, mais do que matemática, também fala diretamente sobre os seres humanos.
 

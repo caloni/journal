@@ -1,25 +1,10 @@
 ---
-date: "2011-07-08"
 imdb: "0150980"
+date: "2011-07-08"
+categories: "movies"
 title: "The Housemaid"
 stars: "4/5"
-categories: "movies"
-_title: "Hanyo"
-_year: "1960"
-_director: ["Ki-young Kim", ]
-_writer: ["Ki-young Kim", ]
-_cast: ["Jin Kyu Kim", "Jeung-nyeo Ju", "Eun-shim Lee", "Aeng-ran Eom", "Seon-ae Ko", "Sook-Rang Wang", "Seok-je Kang", "Jeong-ok Na", "Sung-kee Ahn", ]
-_countries: ["South Korea", ]
-_languages: ["Korean", ]
-_editor: ["Young-Keun Oh", ]
-_cinematographer: ["Deok-jin Kim", ]
-_music: ["Sang-gi Han", ]
-_genres: ["Crime", ]
-_runtimes: ["111::(restored print)", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjU0MjQ5OTIzMV5BMl5BanBnXkFtZTgwMDA2MTU5MDE@.jpg"
-_ratio: "1.55 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjU0MjQ5OTIzMV5BMl5BanBnXkFtZTgwMDA2MTU5MDE@._V1._SX96_SY140_.jpg"
+desc: "The Housemaid. Hanyo (South Korea, 1960). Dirigido por Ki-young Kim. Escrito por Ki-young Kim. Com Jin Kyu Kim, Jeung-nyeo Ju, Eun-shim Lee, Aeng-ran Eom, Seon-ae Ko, Sook-Rang Wang, Seok-je Kang, Jeong-ok Na, Sung-kee Ahn."
 ---
 O longa possui algumas reviravoltas que podem soar esquisito à cultura ocidental, mas a base do drama, que são os acontecimentos macabros rodeando a honrada família do professor de piano, criam um clima, se não de tensão, definitivamente macabro e sexy.
 

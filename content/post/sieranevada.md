@@ -1,24 +1,11 @@
 ---
+tags: ['cabine']
+imdb: "4466490"
 date: "2016-11-30"
 categories: "movies"
 title: "Sieranevada"
-imdb: "4466490"
 stars: "5/5"
-tags: ['cabine']
-_title: "Sieranevada"
-_year: "2016"
-_director: ["Cristi Puiu", ]
-_writer: ["Cristi Puiu", ]
-_cast: ["Mimi Branescu (Lary)", "Mirela Apostu (Doamna insarcinata)", "Eugenia Bosânceanu (Vecina in varsta)", "Ilona Brezoianu (Cami)", "Ana Ciontea (Aunt Ofelia)", "Ioana Craciunescu (Mrs. Popescu)", "Valer Dellakeza (Preotul)", "Aristita Diamandi (Vecina)", "Dana Dogaru (Nusa)", ]
-_countries: ["Romania", ]
-_languages: ["Romanian", ]
-_cinematographer: ["Barbu Balasoiu", ]
-_genres: ["Comedy", ]
-_runtimes: ["173", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BODAzMmI0NDgtNmYwNi00MTNmLTgyZjAtYTg3ZWE5Yzg5ZGY5XkEyXkFqcGdeQXVyNDkzNTM2ODg@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BODAzMmI0NDgtNmYwNi00MTNmLTgyZjAtYTg3ZWE5Yzg5ZGY5XkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1._SX99_SY140_.jpg"
+desc: "Sieranevada. Sieranevada (Romania, 2016). Dirigido por Cristi Puiu. Escrito por Cristi Puiu. Com Mimi Branescu (Lary), Mirela Apostu (Doamna insarcinata), Eugenia Bosânceanu (Vecina in varsta), Ilona Brezoianu (Cami), Ana Ciontea (Aunt Ofelia), Ioana Craciunescu (Mrs. Popescu), Valer Dellakeza (Preotul), Aristita Diamandi (Vecina), Dana Dogaru (Nusa)."
 ---
 O que faz um filme ser bom? Se ele conta um arco bem-sucedido, onde o herói da história consegue atingir seu objetivo, e no processo entrega emoções para o espectador, é óbvio que este é um filme muito bom. Agora, o que dizer de um filme que te entrega em vez disso a realidade de uma reunião de família? E que dessa reunião não há muitas coisas boas a serem tiradas? Talvez o tamanho do arco do herói não importe muito, desde que este arco esteja inserido em uma história que o espectador entenda como válida. E em Sieranevada, entender isso é parte da diversão.
 

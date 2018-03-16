@@ -1,29 +1,11 @@
 ---
+tags: ['netflix', 'bettercallsaul', 'series']
+imdb: "3032476"
 date: "2017-07-03"
 categories: "blog"
 title: "Better Call Saul - Terceira Temporada"
-imdb: "3032476"
 stars: "4/5"
-tags: ['netflix', 'bettercallsaul', 'series']
-_title: "Better Call Saul"
-_year: "2015"
-_director: ["Vince Gilligan", "Thomas Schnauz", "Adam Bernstein", "Peter Gould", "Colin Bucksey", "Larysa Kondracki", "Terry McDonough", "John Shiban", ]
-_writer: ["Vince Gilligan", "Peter Gould", "Gordon Smith", "Ann Cherkis", "Gennifer Hutchison", "Thomas Schnauz", "Jonathan Glatzer", "Heather Marion", ]
-_cast: ["Bob Odenkirk (Jimmy McGill)", "Jonathan Banks (Mike Ehrmantraut)", "Rhea Seehorn (Kim Wexler)", "Patrick Fabian (Howard Hamlin)", "Michael Mando (Nacho Varga)", "Michael McKean (Chuck McGill)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Skip Macdonald", "Kelley Dixon", "Chris McCaleb", "Curtis Thurber", ]
-_cinematographer: ["Arthur Albert", "Marshall Adams", ]
-_music: ["Dave Porter", ]
-_artdirection: ["Paula Dal Santo", ]
-_costume designer: ["Jennifer L. Bryan", ]
-_genres: ["Crime", ]
-_runtimes: ["46", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BODY2ODU0MTY5Nl5BMl5BanBnXkFtZTgwNjQ0OTc2MTI@.jpg"
-_ratio: "1.78 : 1"
-_kind: "tv series"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BODY2ODU0MTY5Nl5BMl5BanBnXkFtZTgwNjQ0OTc2MTI@._V1._SX94_SY140_.jpg"
-_releasedate: "9 February 2015 (internet)"
+desc: "Better Call Saul - Terceira Temporada. Better Call Saul (USA, 2015). Dirigido por Vince Gilligan, Thomas Schnauz, Adam Bernstein, Peter Gould, Colin Bucksey, Larysa Kondracki, Terry McDonough, John Shiban. Escrito por Vince Gilligan, Peter Gould, Gordon Smith, Ann Cherkis, Gennifer Hutchison, Thomas Schnauz, Jonathan Glatzer, Heather Marion. Com Bob Odenkirk (Jimmy McGill), Jonathan Banks (Mike Ehrmantraut), Rhea Seehorn (Kim Wexler), Patrick Fabian (Howard Hamlin), Michael Mando (Nacho Varga), Michael McKean (Chuck McGill)."
 ---
 O espírito de Better Call Saul é o mesmo de Breaking Bad. A moral de seus personagens frequentemente oscila entre o aceitável e o criminoso. Porém, enquanto em Breaking Bad as ações de Walter White paulatinamente caminhariam em direção a atos que, sem sombra de dúvida, o deveria colocar por detrás das grades, este spin-off com o advogado da série original como protagonista nunca chega nesse nível, preferindo trabalhar a ambiguidade e a forma torta da justiça na vida real, onde às vezes -- ou quase sempre? -- as decisões dependem mais da narrativa e menos dos fatos.
 

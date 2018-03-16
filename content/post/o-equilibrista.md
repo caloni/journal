@@ -1,25 +1,10 @@
 ---
-date: "2014-03-02"
 imdb: "1155592"
+date: "2014-03-02"
+categories: "movies"
 title: "O Equilibrista"
 stars: "5/5"
-categories: "movies"
-_title: "Man on Wire"
-_year: "2008"
-_director: ["James Marsh", ]
-_writer: ["Philippe Petit", ]
-_cast: ["Philippe Petit", "Jean François Heckel", "Jean-Louis Blondeau", "Annie Allix", "David Forman", "Alan Welner", "Mark Lewis", "Barry Greenhouse", "Jim Moore", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Jinx Godfrey", ]
-_cinematographer: ["Igor Martinovic", ]
-_music: ["Michael Nyman", "J. Ralph", ]
-_genres: ["Documentary", ]
-_runtimes: ["USA:94", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTMxNTk3NDY1NV5BMl5BanBnXkFtZTcwNDk0ODg3MQ@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTMxNTk3NDY1NV5BMl5BanBnXkFtZTcwNDk0ODg3MQ@@._V1._SX95_SY140_.jpg"
+desc: "O Equilibrista. Man on Wire (UK, 2008). Dirigido por James Marsh. Escrito por Philippe Petit. Com Philippe Petit, Jean François Heckel, Jean-Louis Blondeau, Annie Allix, David Forman, Alan Welner, Mark Lewis, Barry Greenhouse, Jim Moore."
 ---
 O Equilibrista é um trabalho fascinante de documentário porque explora de diversas maneiras o uso da câmera, montagem e roteiro para conseguir trazer a atenção do espectador no seu máximo em torno de um projeto que poderia muito bem virar uma reportagem sem graça de cinco minutos em um telejornal qualquer.
 

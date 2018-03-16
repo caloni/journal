@@ -1,25 +1,10 @@
 ---
-date: "2010-08-10"
 imdb: "0432289"
+date: "2010-08-10"
+categories: "movies"
 title: "Marcas do Passado"
 stars: "2/5"
-categories: "movies"
-_title: "First Snow"
-_year: "2006"
-_director: ["Mark Fergus", ]
-_writer: ["Mark Fergus", "Hawk Ostby", ]
-_cast: ["Guy Pearce", "Steven Michael Quezada", "J.K. Simmons", "Nicholas Ballas", "Piper Perabo", "Rick Gonzalez", "William Fichtner", "David House", "Julie Gawkowski", ]
-_countries: ["Germany", ]
-_languages: ["English", ]
-_editor: ["Jay Cassidy", ]
-_cinematographer: ["Eric Alan Edwards", ]
-_music: ["Cliff Martinez", ]
-_genres: ["Drama", ]
-_runtimes: ["101", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNDA0OTM5MzQ3M15BMl5BanBnXkFtZTcwMjM2NzI0MQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNDA0OTM5MzQ3M15BMl5BanBnXkFtZTcwMjM2NzI0MQ@@._V1._SX94_SY140_.jpg"
+desc: "Marcas do Passado. First Snow (Germany, 2006). Dirigido por Mark Fergus. Escrito por Mark Fergus, Hawk Ostby. Com Guy Pearce, Steven Michael Quezada, J.K. Simmons, Nicholas Ballas, Piper Perabo, Rick Gonzalez, William Fichtner, David House, Julie Gawkowski."
 ---
 Basicamente temos a história de um vendedor (Guy Pearce) que, ao consultar um vidente em uma estrada longe de tudo põe à tona sua consciência sobre fatos do passado que levaram seu amigo a ser preso. Isso faz com que o sujeito reavalie sua própria ambição descontrolada.
 

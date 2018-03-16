@@ -1,28 +1,11 @@
 ---
-date: "2016-02-09"
-tags: [ "cabine" ]
+tags: ['cabine']
 imdb: "3203606"
-stars: "4/5"
+date: "2016-02-09"
 categories: "movies"
 title: "Trumbo"
-_title: "Trumbo"
-_year: "2015"
-_director: ["Jay Roach", ]
-_writer: ["John McNamara", "Bruce Cook", ]
-_cast: ["Bryan Cranston", "Michael Stuhlbarg", "David Maldonado", "John Getz", "Diane Lane", "Laura Flannery", "Helen Mirren", "David James Elliott", "Toby Nichols", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Alan Baumgarten", ]
-_cinematographer: ["Jim Denault", ]
-_music: ["Theodore Shapiro", ]
-_artdirection: ["Lisa Marinaccio", "Jesse Rosenthal", ]
-_costume designer: ["Daniel Orlandi", ]
-_genres: ["Biography", ]
-_runtimes: ["124", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjM1MDc2OTQ3NV5BMl5BanBnXkFtZTgwNzQ0NjQ1NjE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjM1MDc2OTQ3NV5BMl5BanBnXkFtZTgwNzQ0NjQ1NjE@._V1._SX94_SY140_.jpg"
+stars: "4/5"
+desc: "Trumbo. Trumbo (USA, 2015). Dirigido por Jay Roach. Escrito por John McNamara, Bruce Cook. Com Bryan Cranston, Michael Stuhlbarg, David Maldonado, John Getz, Diane Lane, Laura Flannery, Helen Mirren, David James Elliott, Toby Nichols."
 ---
 Bryan Cranston vive aqui um personagem bem diferente de seu Walter White na série que o tornou conhecido, Breaking Bad. Dalton Trumbo é um idealista, otimista e bem-humorado. Escrevia roteiros para Hollywood durante a tenebrosa época do Macartismo, quando os americanos foram influenciados a ver qualquer pessoa que ousasse defender os ideais comunistas como um traidor da nação (como culpá-los, não é mesmo?). Essa febre atingiu a Meca do Cinema através de uma lista negra, onde constavam todos os cineastas que eram "denunciados", em um típico exemplo de teatro Hollywoodiano. Nessa época também era comum fazer algo que hoje é motivo de vergonha e escárnio: se declarar comunista.
 

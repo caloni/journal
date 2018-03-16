@@ -1,29 +1,11 @@
 ---
-imdb: "3810810"
-stars: "4/5"
 tags: ['cabine']
+imdb: "3810810"
 date: 2017-11-16T21:51:11
-title: "Ninguém Está Olhando"
 categories: "movies"
-_title: "Nadie nos mira"
-_year: "2017"
-_director: ["Julia Solomonoff", ]
-_writer: ["Christina Lazaridi", "Julia Solomonoff", ]
-_cast: ["Guillermo Pfening (Nico)", "Katty Velasquez (Lena)", "Pascal Yen-Pfister (Pascal)", "Nadja Settel (Aupair)", "Paola Baldion (Viviana)", "Michael Patrick Nicholson (Doctor)", "Petra Costa (Petra)", "Mariana Anghileri (Sofía)", "Rafael Ferro (Martín)", ]
-_countries: ["Argentina", ]
-_languages: ["Spanish", ]
-_editor: ["Pablo Barbieri Carrera", "Karen Sztajnberg", "Andrés Tambornino", ]
-_cinematographer: ["Lucio Bonelli", ]
-_music: ["Sacha Amback", "Pablo Mondragón", ]
-_artdirection: ["Mar Urrestarazu", ]
-_costume designer: ["Begonia Berges", "Marjory Castellanos", ]
-_genres: ["Drama", ]
-_runtimes: ["102", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMzVmMjllOGQtYTI1Zi00MzM2LTkzMDQtYmYwODRhNjNmOGQyXkEyXkFqcGdeQXVyNTQyNzA5ODg@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMzVmMjllOGQtYTI1Zi00MzM2LTkzMDQtYmYwODRhNjNmOGQyXkEyXkFqcGdeQXVyNTQyNzA5ODg@._V1._SX97_SY140_.jpg"
-_releasedate: "23 November 2017"
+title: "Ninguém Está Olhando"
+stars: "4/5"
+desc: "Ninguém Está Olhando. Nadie nos mira (Argentina, 2017). Dirigido por Julia Solomonoff. Escrito por Christina Lazaridi, Julia Solomonoff. Com Guillermo Pfening (Nico), Katty Velasquez (Lena), Pascal Yen-Pfister (Pascal), Nadja Settel (Aupair), Paola Baldion (Viviana), Michael Patrick Nicholson (Doctor), Petra Costa (Petra), Mariana Anghileri (Sofía), Rafael Ferro (Martín)."
 ---
 Nico é um ator de sucesso na Argentina que sofre desilusões amorosas e no serviço ao mesmo tempo. Com dinheiro e tempo de sobra, ele vive o grande sonho da esquerda caviar: se sentir um imigrante com poucos recursos em uma cidade rica como Nova Iorque. Que babado, hein? Fica até difícil entender como alguém consegue ficar triste nessa situação.
 

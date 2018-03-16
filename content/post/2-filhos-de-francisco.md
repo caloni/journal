@@ -1,22 +1,10 @@
 ---
-date: "2012-03-25"
 imdb: "0439547"
+date: "2012-03-25"
+categories: "movies"
 title: "2 Filhos De Francisco A História De Zezé Di Camargo e Luciano"
 stars: "5/5"
-categories: "movies"
-_title: "2 Filhos de Francisco: A História de Zezé di Camargo & Luciano"
-_year: "2005"
-_director: ["Breno Silveira", ]
-_writer: ["Carolina Kotscho", "Patrícia Andrade", "Luciano Camargo", "Breno Silveira", "Domingos de Oliveira", ]
-_cast: ["Ângelo Antônio", "Dira Paes", "Márcio Kieling", "Thiago Mendonça", "Paloma Duarte", "Dablio Moreira", "Marcos Henrique", "Natália Lage", "Wigor Lima", ]
-_countries: ["Brazil", ]
-_languages: ["Portuguese", ]
-_editor: ["Vicente Kubrusly", ]
-_cinematographer: ["Andre Horta", "Paulo Souza", ]
-_music: ["Caetano Veloso", ]
-_genres: ["Biography", ]
-_runtimes: ["132", ]
-_kind: "movie"
+desc: "2 Filhos De Francisco A História De Zezé Di Camargo e Luciano. 2 Filhos de Francisco: A História de Zezé di Camargo & Luciano (Brazil, 2005). Dirigido por Breno Silveira. Escrito por Carolina Kotscho, Patrícia Andrade, Luciano Camargo, Breno Silveira, Domingos de Oliveira. Com Ângelo Antônio, Dira Paes, Márcio Kieling, Thiago Mendonça, Paloma Duarte, Dablio Moreira, Marcos Henrique, Natália Lage, Wigor Lima."
 ---
 Há filmes que estão aí para provar que uma ideia não tão "empolgante" ou mesmo original pode dar origem a trabalhos dignos de nota exatamente por conseguirem se sobressair com muito pouco, ou com apenas uma boa história. O enredo complicado da história baseada em personagens reais que deram origem à dupla sertaneja de sucesso Zezé de Camargo & Luciano, que precisa cobrir diversos eventos em um espaço curto de tempo, mas ao mesmo tempo apresentar coesão espacial e, principalmente nesse caso, emocional, deu origem a um pequeno milagre.
 

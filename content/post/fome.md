@@ -1,23 +1,11 @@
 ---
-date: "2016-07-28"
-tags: [ "cabine" ]
-categories: "movies"
+tags: ['cabine']
 imdb: "5142532"
-stars: "3/5"
+date: "2016-07-28"
+categories: "movies"
 title: "Fome"
-_title: "Hunger"
-_year: "2015"
-_director: ["Cristiano Burlan", ]
-_writer: ["Jean-Claude Bernardet", "Cristiano Burlan", "Ana Carolina Marinho", "Henrique Zanoni", ]
-_cast: ["Henrique Zanoni", "Ana Carolina Marinho", "Jean-Claude Bernardet", ]
-_countries: ["Brazil", ]
-_languages: ["Portuguese", ]
-_editor: ["Cristiano Burlan", "Renato Maia", ]
-_cinematographer: ["Helder Filipe Martins", ]
-_artdirection: ["Borys Duque", ]
-_genres: ["Drama", ]
-_runtimes: ["90", ]
-_kind: "movie"
+stars: "3/5"
+desc: "Fome. Hunger (Brazil, 2015). Dirigido por Cristiano Burlan. Escrito por Jean-Claude Bernardet, Cristiano Burlan, Ana Carolina Marinho, Henrique Zanoni. Com Henrique Zanoni, Ana Carolina Marinho, Jean-Claude Bernardet."
 ---
 Para quem quer um "filme de arte" que se arrasta e não sabe cortar, que mantém um ritmo irregular, que mistura realidade e ficção com pitadas de metalinguística em um contraste gritante e, por fim, que tenta usar sua ideologia de esquerda para concluir todos os pensamentos por trás de sua história, irá gostar bastante do novo trabalho do diretor Cristiano Burlan.
 

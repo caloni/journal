@@ -1,25 +1,11 @@
 ---
-date: "2011-09-05"
 imdb: "0110357"
-revision: [2012-12-25]
+date: "2011-09-05"
+categories: "movies"
 title: "O Rei Leão"
 stars: "4/5"
-categories: "movies"
-_title: "The Lion King"
-_year: "1994"
-_director: ["Roger Allers", "Rob Minkoff", ]
-_writer: ["Irene Mecchi", "Jonathan Roberts", "Linda Woolverton", "Brenda Chapman", "Burny Mattinson", "Barry Johnson", "Lorna Cook", "Thom Enriquez", "Andy Gaskill", ]
-_cast: ["Jonathan Taylor Thomas", "Matthew Broderick", "James Earl Jones", "Jeremy Irons", "Moira Kelly", "Niketa Calame", "Ernie Sabella", "Nathan Lane", "Robert Guillaume", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Ivan Bilancio", ]
-_music: ["Hans Zimmer", ]
-_genres: ["Animation", ]
-_runtimes: ["89", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjEyMzgwNTUzMl5BMl5BanBnXkFtZTcwNTMxMzM3Ng@@.jpg"
-_ratio: "1.66 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjEyMzgwNTUzMl5BMl5BanBnXkFtZTcwNTMxMzM3Ng@@._V1._SX100_SY129_.jpg"
+revision: [datetime.date(2012, 12, 25)]
+desc: "O Rei Leão. The Lion King (USA, 1994). Dirigido por Roger Allers, Rob Minkoff. Escrito por Irene Mecchi, Jonathan Roberts, Linda Woolverton, Brenda Chapman, Burny Mattinson, Barry Johnson, Lorna Cook, Thom Enriquez, Andy Gaskill. Com Jonathan Taylor Thomas, Matthew Broderick, James Earl Jones, Jeremy Irons, Moira Kelly, Niketa Calame, Ernie Sabella, Nathan Lane, Robert Guillaume."
 ---
 O Rei Leão visto como deve ser visto  ou seja, em 2D  consegue impressionar pela síntese dramática que escolhe para não tornar o programa demasiadamente infantil para o seu principal público-alvo (as crianças) mas consegue se manter íntegro e representar de maneira irretocável a contribuição Disney para manter viva a lenda e uma das peças mais conhecidas de Shakespeare: Hamlet.
 

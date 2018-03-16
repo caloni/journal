@@ -1,9 +1,10 @@
 ---
-date: 2018-01-13T16:13:38-02:00
-title: "Corpo e Alma"
-categories: "movies"
+date: 2018-01-13T18:13:38
 imdb: "5607714"
+categories: "movies"
 stars: "3/5"
+title: "Corpo e Alma"
+desc: "Corpo e Alma."
 ---
 Corpo e Alma possui um lindo pano de fundo: ele observa a humanidade em alces, bois e humanos. A primeira cena é em uma floresta intocada, com dois cervos. Observamos seus olhares e seus movimentos. Há um lago paradisíaco e um filete de água que se esvai como se fosse infinito. Em um dado momento, um alce coloca sua cabeça sobre as costas do outro. Há uma comunicação invisível ali. Mas humana. Esse é o sentido deste longa.
 

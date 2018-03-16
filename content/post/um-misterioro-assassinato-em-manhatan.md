@@ -1,24 +1,10 @@
 ---
-date: "2012-05-14"
 imdb: "0107507"
+date: "2012-05-14"
+categories: "movies"
 title: "Um Misterioso Assassinato em Manhattan"
 stars: "3/5"
-categories: "movies"
-_title: "Manhattan Murder Mystery"
-_year: "1993"
-_director: ["Woody Allen", ]
-_writer: ["Woody Allen", "Marshall Brickman", ]
-_cast: ["Woody Allen", "Diane Keaton", "Jerry Adler", "Lynn Cohen", "Ron Rifkin", "Joy Behar", "William Addy", "John Doumanian", "Sylvia Kauders", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Susan E. Morse", ]
-_cinematographer: ["Carlo Di Palma", ]
-_genres: ["Comedy", ]
-_runtimes: ["104", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTg0MzIyNjQ1NF5BMl5BanBnXkFtZTcwODU2MjYxMQ@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTg0MzIyNjQ1NF5BMl5BanBnXkFtZTcwODU2MjYxMQ@@._V1._SX98_SY140_.jpg"
+desc: "Um Misterioso Assassinato em Manhattan. Manhattan Murder Mystery (USA, 1993). Dirigido por Woody Allen. Escrito por Woody Allen, Marshall Brickman. Com Woody Allen, Diane Keaton, Jerry Adler, Lynn Cohen, Ron Rifkin, Joy Behar, William Addy, John Doumanian, Sylvia Kauders."
 ---
 Nova Iorque, chuva, assassinato e um filme de Woody Allen. Uma combinação que costuma ser fértil para o Cinema, seja pela inteligência e ironia das falas dos personagens, ou até mesmo pela situação que eles vivem. Aqui, temos o casal de meia-idade Larry e Carol Lipton (Allen e Keaton) que, após conhecerem um idoso e simpático casal, no dia seguinte presenciam a morte súbita da esposa, consequência de um ataque cardíaco.
 

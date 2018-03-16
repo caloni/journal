@@ -1,25 +1,10 @@
 ---
-date: "2011-05-16"
 imdb: "0889573"
+date: "2011-05-16"
+categories: "movies"
 title: "Coincidências do Amor"
 stars: "3/5"
-categories: "movies"
-_title: "The Switch"
-_year: "2010"
-_director: ["Josh Gordon", "Will Speck", ]
-_writer: ["Allan Loeb", "Jeffrey Eugenides", ]
-_cast: ["Jason Bateman", "Victor Pagan", "Jennifer Aniston", "Jeff Goldblum", "Juliette Lewis", "Todd Louiso", "Scott Elrod", "Patrick Wilson", "Rebecca Naomi Jones", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["John Axelrad", ]
-_cinematographer: ["Jess Hall", ]
-_music: ["Alex Wurman", ]
-_genres: ["Comedy", ]
-_runtimes: ["USA:101", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BODQ5ODc0MjU1N15BMl5BanBnXkFtZTcwMTc3NzcyMw@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BODQ5ODc0MjU1N15BMl5BanBnXkFtZTcwMTc3NzcyMw@@._V1._SX95_SY140_.jpg"
+desc: "Coincidências do Amor. The Switch (USA, 2010). Dirigido por Josh Gordon, Will Speck. Escrito por Allan Loeb, Jeffrey Eugenides. Com Jason Bateman, Victor Pagan, Jennifer Aniston, Jeff Goldblum, Juliette Lewis, Todd Louiso, Scott Elrod, Patrick Wilson, Rebecca Naomi Jones."
 ---
 Kassie (Jenifer Aniston) deseja ser mãe, mas não possui nenhum parceiro nem deseja ter um, se contentando com os ombros amigos de Wally (Jason Baterman, de Juno), que sempre está por perto. Porém, sua idade avançando a deixa preocupada a ponto de pensar em ter o filho por conta própria, usando o já não tão modernoso método de inseminação artificial. Para isso, decide procurar um candidato que se encaixe em seus padrões de homem bem-sucedido (Patrick Wilson, em uma aparição apagada) e anuncia em uma festa que será fecundada pelo esperma do tal sujeito que será, acreditem, gerado naquela mesma noite durante a festa.
 

@@ -1,23 +1,10 @@
 ---
-date: "2013-01-20"
 imdb: "1720114"
+date: "2013-01-20"
+categories: "movies"
 title: "Heleno"
 stars: "4/5"
-categories: "movies"
-_title: "Heleno"
-_year: "2011"
-_director: ["José Henrique Fonseca", ]
-_writer: ["L.G. Bayão", "Felipe Bragança", "Fernando Castets", "Roberto Ceuninck", "José Henrique Fonseca", ]
-_cast: ["Rodrigo Santoro", "Alinne Moraes", "Angie Cepeda", "Marcelo Adnet", "Priscila Assum", "Othon Bastos", "Billy Blanco Jr.", "Herson Capri", "Erom Cordeiro", ]
-_countries: ["Brazil", ]
-_languages: ["Portuguese", ]
-_cinematographer: ["Walter Carvalho", ]
-_genres: ["Biography", ]
-_runtimes: ["Canada:116::(Toronto International Film Festival)", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjIwOTkwMzE2NF5BMl5BanBnXkFtZTcwMTgxMzM3OA@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjIwOTkwMzE2NF5BMl5BanBnXkFtZTcwMTgxMzM3OA@@._V1._SX94_SY140_.jpg"
+desc: "Heleno. Heleno (Brazil, 2011). Dirigido por José Henrique Fonseca. Escrito por L.G. Bayão, Felipe Bragança, Fernando Castets, Roberto Ceuninck, José Henrique Fonseca. Com Rodrigo Santoro, Alinne Moraes, Angie Cepeda, Marcelo Adnet, Priscila Assum, Othon Bastos, Billy Blanco Jr., Herson Capri, Erom Cordeiro."
 ---
 Nada mais apropriado às vésperas da segunda Copa do Mundo no Brasil -- a primeira foi em 1950, para quem não se lembra -- para revermos a biografia de um jogador de futebol totalmente esquecido daquela época e de quebra entendermos um pouco como o processo de modernização do esporte retirou todo o romantismo de uma era e transformou os esportistas em meras figurinhas de um álbum prestes a expirar.
 

@@ -1,24 +1,10 @@
 ---
-date: "2011-08-07"
 imdb: "1527186"
+date: "2011-08-07"
+categories: "movies"
 title: "Melancolia"
 stars: "5/5"
-categories: "movies"
-_title: "Melancholia"
-_year: "2011"
-_director: ["Lars von Trier", ]
-_writer: ["Lars von Trier", ]
-_cast: ["Kirsten Dunst", "Charlotte Gainsbourg", "Alexander Skarsgård", "Brady Corbet", "Cameron Spurr", "Charlotte Rampling", "Jesper Christensen", "John Hurt", "Stellan Skarsgård", ]
-_countries: ["Denmark", ]
-_languages: ["English", ]
-_editor: ["Molly Marlene Stensgaard", ]
-_cinematographer: ["Manuel Alberto Claro", ]
-_genres: ["Drama", ]
-_runtimes: ["130::(original 25 fps)", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTk4NjM0MjI3MV5BMl5BanBnXkFtZTcwNjcxMDYzNg@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTk4NjM0MjI3MV5BMl5BanBnXkFtZTcwNjcxMDYzNg@@._V1._SX94_SY140_.jpg"
+desc: "Melancolia. Melancholia (Denmark, 2011). Dirigido por Lars von Trier. Escrito por Lars von Trier. Com Kirsten Dunst, Charlotte Gainsbourg, Alexander Skarsgård, Brady Corbet, Cameron Spurr, Charlotte Rampling, Jesper Christensen, John Hurt, Stellan Skarsgård."
 ---
 (Spoilers liberados. Portanto, sugiro ler depois de assistir ao filme.)
 

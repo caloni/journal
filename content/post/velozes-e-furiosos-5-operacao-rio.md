@@ -1,25 +1,10 @@
 ---
-date: "2011-05-25"
 imdb: "1596343"
+date: "2011-05-25"
+categories: "movies"
 title: "Velozes e Furiosos 5 Operação Rio"
 stars: "4/5"
-categories: "movies"
-_title: "Fast Five"
-_year: "2011"
-_director: ["Justin Lin", ]
-_writer: ["Chris Morgan", "Gary Scott Thompson", ]
-_cast: ["Vin Diesel", "Paul Walker", "Jordana Brewster", "Tyrese Gibson", "Ludacris", "Matt Schulze", "Sung Kang", "Gal Gadot", "Tego Calderon", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Kelly Matsumoto", "Fred Raskin", "Christian Wagner", ]
-_cinematographer: ["Stephen F. Windon", ]
-_music: ["Brian Tyler", ]
-_genres: ["Action", ]
-_runtimes: ["130", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTUxNTk5MTE0OF5BMl5BanBnXkFtZTcwMjA2NzY3NA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTUxNTk5MTE0OF5BMl5BanBnXkFtZTcwMjA2NzY3NA@@._V1._SX95_SY140_.jpg"
+desc: "Velozes e Furiosos 5 Operação Rio. Fast Five (USA, 2011). Dirigido por Justin Lin. Escrito por Chris Morgan, Gary Scott Thompson. Com Vin Diesel, Paul Walker, Jordana Brewster, Tyrese Gibson, Ludacris, Matt Schulze, Sung Kang, Gal Gadot, Tego Calderon."
 ---
 O Rio de Janeiro está em alta no cinema mundial esse ano: palco de duas produções internacionais de prestígio, a uma vez chamada Cidade Maravilhosa começa a mostrar aos poucos sua nova cara para o mundo, mesmo que sob a ótica distorcida das produções de Hollywood.
 

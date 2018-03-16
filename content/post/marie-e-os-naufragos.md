@@ -1,25 +1,11 @@
 ---
+tags: ['mostrasp']
+imdb: "4428774"
 date: "2016-10-28"
 categories: "movies"
 title: "Marie e os Náufragos"
-imdb: "4428774"
 stars: "4/5"
-tags: ['mostrasp']
-_title: "Marie et les naufragés"
-_year: "2016"
-_director: ["Sébastien Betbeder", ]
-_writer: ["Sébastien Betbeder", ]
-_cast: ["Pierre Rochefort (Siméon Forest)", "Vimala Pons (Marie Andrieu)", "Eric Cantona (Antoine)", "Damien Chapelle (Oscar)", "André Wilms (Cosmo)", "Emmanuelle Riva (Suzanne)", "Wim Willaert (Wim)", "Didier Sandre (L'éditeur)", "Kt Gorique (La jeune fille de 'La Jetée')", ]
-_countries: ["France", ]
-_languages: ["French", ]
-_editor: ["François Quiqueré", ]
-_cinematographer: ["Sylvain Verdet", ]
-_music: ["Sebastien Tellier", ]
-_costume designer: ["Anne Billette", ]
-_genres: ["Comedy", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjcwZGQ1NTQtM2IwMC00YmI2LTg4M2YtZGFkZWY5ZGIwZWNmXkEyXkFqcGdeQXVyMjA0NzcwMjI@.jpg"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjcwZGQ1NTQtM2IwMC00YmI2LTg4M2YtZGFkZWY5ZGIwZWNmXkEyXkFqcGdeQXVyMjA0NzcwMjI@._V1._SX100_SY56_.jpg"
+desc: "Marie e os Náufragos. Marie et les naufragés (France, 2016). Dirigido por Sébastien Betbeder. Escrito por Sébastien Betbeder. Com Pierre Rochefort (Siméon Forest), Vimala Pons (Marie Andrieu), Eric Cantona (Antoine), Damien Chapelle (Oscar), André Wilms (Cosmo), Emmanuelle Riva (Suzanne), Wim Willaert (Wim), Didier Sandre (L'éditeur), Kt Gorique (La jeune fille de 'La Jetée')."
 ---
 Um filme que atravessa o indie usando uma metalinguagem Kaufmaniana, descobrindo seus personagens no percurso, realizando uma trama eficiente que, por mais absurda que seja, mantém sempre o interesse do espectador.
 

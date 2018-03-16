@@ -1,23 +1,10 @@
 ---
-date: "2015-12-04"
 imdb: "1524566"
-stars: "4/5"
+date: "2015-12-04"
 categories: "movies"
 title: "Perdida"
-_title: "Perdida"
-_year: "2009"
-_director: ["Viviana García-Besné", ]
-_writer: ["Viviana García-Besné", "Edson Lechuga", ]
-_cast: ["Guillermo Calderón", "José Luis Calderón", "Pedro A. Calderón", "Joaquín Cordero", "Emilia Guiú", "Antonio de Hud", "Rafael Inclán", "Agustín Lara", "Lyn May", ]
-_countries: ["Mexico", ]
-_languages: ["Spanish", ]
-_editor: ["Viviana García-Besné", ]
-_cinematographer: ["Viviana García-Besné", ]
-_music: ["Anahit Simonian", ]
-_genres: ["Documentary", ]
-_runtimes: ["118", ]
-_ratio: "1.78 : 1"
-_kind: "movie"
+stars: "4/5"
+desc: "Perdida. Perdida (Mexico, 2009). Dirigido por Viviana García-Besné. Escrito por Viviana García-Besné, Edson Lechuga. Com Guillermo Calderón, José Luis Calderón, Pedro A. Calderón, Joaquín Cordero, Emilia Guiú, Antonio de Hud, Rafael Inclán, Agustín Lara, Lyn May."
 ---
 Esse documentário de colagens charmosas tenta resgatar do passado longínquo toda a história de uma família de cineastas, de sua ascensão até os diferentes declínios, como o fim de uma grande fortuna.
 

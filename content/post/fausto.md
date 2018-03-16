@@ -1,25 +1,10 @@
 ---
-date: "2012-07-27"
 imdb: "1437357"
+date: "2012-07-27"
+categories: "movies"
 title: "Faust"
 stars: "5/5"
-categories: "movies"
-_title: "Faust"
-_year: "2011"
-_director: ["Aleksandr Sokurov", ]
-_writer: ["Yuriy Arabov", "Aleksandr Sokurov", "Marina Koreneva", "Johann Wolfgang Goethe", ]
-_cast: ["Johannes Zeiler", "Anton Adasinsky", "Isolda Dychauk", "Georg Friedrich", "Hanna Schygulla", "Antje Lewald", "Florian Brückner", "Sigurður Skúlason", "Maxim Mehmet", ]
-_countries: ["Russia", ]
-_languages: ["German", ]
-_editor: ["Jörg Hauschild", ]
-_cinematographer: ["Bruno Delbonnel", ]
-_music: ["Andrey Sigle", ]
-_genres: ["Drama", ]
-_runtimes: ["140", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTM4NDgwNjU4Ml5BMl5BanBnXkFtZTgwNzU2OTI1MDE@.jpg"
-_ratio: "1.37 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTM4NDgwNjU4Ml5BMl5BanBnXkFtZTgwNzU2OTI1MDE@._V1._SX97_SY140_.jpg"
+desc: "Faust. Faust (Russia, 2011). Dirigido por Aleksandr Sokurov. Escrito por Yuriy Arabov, Aleksandr Sokurov, Marina Koreneva, Johann Wolfgang Goethe. Com Johannes Zeiler, Anton Adasinsky, Isolda Dychauk, Georg Friedrich, Hanna Schygulla, Antje Lewald, Florian Brückner, Sigurður Skúlason, Maxim Mehmet."
 ---
 Novo filme de Aleksandr Sokurov, mestre em expor a alma humana de uma maneira não-convencional ? vide "Mat i Syn" ou "Moloch" ?, Fausto transforma a lenda do homem e do romance homônimos em um apanhado dramático que, coeso em sua história principal, nunca nos revela o suficiente para se tornar a velha história clichê do homem que venda a alma ao diabo para obter conhecimento. Pelo contrário: ousado em sua estrutura, subverte a lenda e consegue transplantar sua visão de maneira igualmente satisfatória.
 

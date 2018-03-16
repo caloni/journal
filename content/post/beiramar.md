@@ -1,26 +1,11 @@
 ---
-date: "2015-10-02"
-tags: [ "cabine" ]
+tags: ['cabine']
 imdb: "4427060"
-stars: "5/5"
+date: "2015-10-02"
 categories: "movies"
 title: "Beira-Mar"
-_title: "Beira-Mar"
-_year: "2015"
-_director: ["Filipe Matzembacher", "Marcio Reolon", ]
-_writer: ["Filipe Matzembacher", "Marcio Reolon", ]
-_cast: ["Mateus Almada", "Ariel Artur", "Maurício Barcellos", "Irene Brietzke", "Elisa Brittes", "Maitê Felistoffa", "Francisco Gick", "Fernando Hart", "Danuta Zaguetto", ]
-_countries: ["Brazil", ]
-_languages: ["Portuguese", ]
-_editor: ["Bruno Carboni", "Germano de Oliveira", ]
-_cinematographer: ["João Gabriel de Queiroz", ]
-_music: ["Mateus Almada", "Felipe Puperi", ]
-_genres: ["Drama", ]
-_runtimes: ["83", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQ4NzgwMDI3OF5BMl5BanBnXkFtZTgwMzUyMzEyNjE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQ4NzgwMDI3OF5BMl5BanBnXkFtZTgwMzUyMzEyNjE@._V1._SX100_SY133_.jpg"
+stars: "5/5"
+desc: "Beira-Mar. Beira-Mar (Brazil, 2015). Dirigido por Filipe Matzembacher, Marcio Reolon. Escrito por Filipe Matzembacher, Marcio Reolon. Com Mateus Almada, Ariel Artur, Maurício Barcellos, Irene Brietzke, Elisa Brittes, Maitê Felistoffa, Francisco Gick, Fernando Hart, Danuta Zaguetto."
 ---
 Chamar Beira-Mar de "cinema-gay" já parece de cara uma grande injustiça. Já há na cinematografia atual muitos exemplos de homossexualidade, transsexualidade e até bi-sexualidade (sem contar, é óbvio, a heterossexualidade, responsável por 99,99% dos filmes). No entanto, o que vemos em termos de atração sexual no filme sequer conseguiria ser resumido em uma posição no grau de atrações de um ser humano, quiçá nem se resume a sexo. Há muitas nuances no trabalho da dupla de diretores (e roteiristas) Filipe Matzembacher e Marcio Reolon; o suficiente para tornar essa caracterização não apenas difícil, mas inútil.
 

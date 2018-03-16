@@ -1,25 +1,10 @@
 ---
-date: "2014-11-30"
 imdb: "0079501"
+date: "2014-11-30"
+categories: "movies"
 title: "Mad Max"
 stars: "3/5"
-categories: "movies"
-_title: "Mad Max"
-_year: "1979"
-_director: ["George Miller", ]
-_writer: ["James McCausland", "George Miller", "Byron Kennedy", "George Miller", ]
-_cast: ["Mel Gibson", "Joanne Samuel", "Hugh Keays-Byrne", "Steve Bisley", "Tim Burns", "Roger Ward", "Lisa Aldenhoven", "David Bracks", "Bertrand Cadart", ]
-_countries: ["Australia", ]
-_languages: ["English", ]
-_editor: ["Cliff Hayes", "Tony Paterson", ]
-_cinematographer: ["David Eggby", ]
-_music: ["Brian May", ]
-_genres: ["Action", ]
-_runtimes: ["88", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTM4Mjg5ODEzMV5BMl5BanBnXkFtZTcwMDc3NDk0NA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTM4Mjg5ODEzMV5BMl5BanBnXkFtZTcwMDc3NDk0NA@@._V1._SX93_SY140_.jpg"
+desc: "Mad Max. Mad Max (Australia, 1979). Dirigido por George Miller. Escrito por James McCausland, George Miller, Byron Kennedy, George Miller. Com Mel Gibson, Joanne Samuel, Hugh Keays-Byrne, Steve Bisley, Tim Burns, Roger Ward, Lisa Aldenhoven, David Bracks, Bertrand Cadart."
 ---
 Um dos primeiros filmes que aborda perseguições de carros e motos em estradas, amado pela sua geração a ponto de virar cult. Vou confessar, no entanto, que a primeira metade do filme hoje em dia é lenta e um tanto decepcionante. A abordagem realista do diretor George Miller é sabotada por ele próprio ao usar uma trilha sonora de suspense de ficção científica dos anos 60 e enfocar constantemente um corvo ou uma ave que se alimenta dos corpos deixados na estrada, criando uma fuga do drama da história, esse sim, sensível o suficiente para que prestemos atenção nas condições deploráveis da polícia daquela época e dos habitantes das cidades desérticas do que pode muito bem ser qualquer lugar onde o motorista senta do lado "errado" do carro. O "futuro" de Mad Max é muito mais os queridos anos 70, e não há a menor tentativa de futurizá-lo.
 

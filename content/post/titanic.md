@@ -1,30 +1,11 @@
 ---
-imdb: "0120338"
-stars: "5/5"
 tags: ['cinema']
+imdb: "0120338"
 date: 2017-09-17T23:22:45
-title: "Titanic"
 categories: "movies"
-_title: "Titanic"
-_year: "1997"
-_director: ["James Cameron", ]
-_writer: ["James Cameron", ]
-_cast: ["Leonardo DiCaprio (Jack Dawson)", "Kate Winslet (Rose Dewitt Bukater)", "Billy Zane (Cal Hockley)", "Kathy Bates (Molly Brown)", "Frances Fisher (Ruth Dewitt Bukater)", "Gloria Stuart (Old Rose)", "Bill Paxton (Brock Lovett)", "Bernard Hill (Captain Smith)", "David Warner (Spicer Lovejoy)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Conrad Buff IV", "James Cameron", "Richard A. Harris", ]
-_cinematographer: ["Russell Carpenter", ]
-_music: ["James Horner", ]
-_artdirection: ["Martin Laing", "Charles Dwight Lee", ]
-_costume designer: ["Deborah Lynn Scott", ]
-_genres: ["Drama", ]
-_runtimes: ["194", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@.jpg"
-_ratio: "1.78 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1._SX94_SY140_.jpg"
-_releasedate: "16 January 1998"
-_releasedate: "13 April 2012 (3-D version)"
+title: "Titanic"
+stars: "5/5"
+desc: "Titanic. Titanic (USA, 1997). Dirigido por James Cameron. Escrito por James Cameron. Com Leonardo DiCaprio (Jack Dawson), Kate Winslet (Rose Dewitt Bukater), Billy Zane (Cal Hockley), Kathy Bates (Molly Brown), Frances Fisher (Ruth Dewitt Bukater), Gloria Stuart (Old Rose), Bill Paxton (Brock Lovett), Bernard Hill (Captain Smith), David Warner (Spicer Lovejoy)."
 ---
 Vinte anos depois revejo este drama épico de James Cameron. Na época em que estava em cartaz assisti umas cinco vezes, então sabia de todos os movimentos de câmera e diálogos de cor. Mas o que torna este filme um exemplo de Cinema em seu máximo, mesmo sendo extremamente brega?
 

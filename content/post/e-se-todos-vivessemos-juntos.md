@@ -1,25 +1,10 @@
 ---
-date: "2012-10-21"
 imdb: "1674057"
+date: "2012-10-21"
+categories: "movies"
 title: "E se Vivêssemos Todos Juntos?"
 stars: "3/5"
-categories: "movies"
-_title: "Et si on vivait tous ensemble?"
-_year: "2011"
-_director: ["Stéphane Robelin", ]
-_writer: ["Stéphane Robelin", ]
-_cast: ["Guy Bedos", "Daniel Brühl", "Geraldine Chaplin", "Jane Fonda", "Claude Rich", "Pierre Richard", "Bernard Malaka", "Camino Texeira", "Gwendoline Hamon", ]
-_countries: ["France", ]
-_languages: ["French", ]
-_editor: ["Patrick Wilfert", ]
-_cinematographer: ["Dominique Colin", ]
-_music: ["Jean-Philippe Verdin", ]
-_genres: ["Comedy", ]
-_runtimes: ["96", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNzgwMjI4MDg1M15BMl5BanBnXkFtZTcwMzcxNDA1OA@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNzgwMjI4MDg1M15BMl5BanBnXkFtZTcwMzcxNDA1OA@@._V1._SX98_SY140_.jpg"
+desc: "E se Vivêssemos Todos Juntos?. Et si on vivait tous ensemble? (France, 2011). Dirigido por Stéphane Robelin. Escrito por Stéphane Robelin. Com Guy Bedos, Daniel Brühl, Geraldine Chaplin, Jane Fonda, Claude Rich, Pierre Richard, Bernard Malaka, Camino Texeira, Gwendoline Hamon."
 ---
 "E se todos vivêssemos juntos" parte do princípio que se eu apresentar as características que definem cada um dos simpáticos velhinhos que protagonizam essa comédia poderia me livrar de qualquer compromisso narrativo e simplesmente criar situações engraçadas, livre das amarras de discutir uma questão importantíssima na Europa de hoje: a terceira idade se tornando uma maioria ativa e, se bobear, economicamente mais ativa.
 

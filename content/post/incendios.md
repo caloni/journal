@@ -1,25 +1,10 @@
 ---
-date: "2011-09-28"
 imdb: "1255953"
+date: "2011-09-28"
+categories: "movies"
 title: "Incêndios"
 stars: "5/5"
-categories: "movies"
-_title: "Incendies"
-_year: "2010"
-_director: ["Denis Villeneuve", ]
-_writer: ["Valérie Beaugrand-Champagne", "Wajdi Mouawad", "Denis Villeneuve", ]
-_cast: ["Mustafa Kamel", "Hussein Sami", "Rémy Girard", "Mélissa Désormeaux-Poulin", "Maxim Gaudette", "Dominique Briand", "Lubna Azabal", "Frédéric Paquet", "Hamed Najem", ]
-_countries: ["Canada", ]
-_languages: ["French", ]
-_editor: ["Monique Dartonne", ]
-_cinematographer: ["André Turpin", ]
-_music: ["Grégoire Hetzel", ]
-_genres: ["Drama", ]
-_runtimes: ["139", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTg4MzA0NjI5OF5BMl5BanBnXkFtZTcwNTUwMzQzNg@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTg4MzA0NjI5OF5BMl5BanBnXkFtZTcwNTUwMzQzNg@@._V1._SX99_SY140_.jpg"
+desc: "Incêndios. Incendies (Canada, 2010). Dirigido por Denis Villeneuve. Escrito por Valérie Beaugrand-Champagne, Wajdi Mouawad, Denis Villeneuve. Com Mustafa Kamel, Hussein Sami, Rémy Girard, Mélissa Désormeaux-Poulin, Maxim Gaudette, Dominique Briand, Lubna Azabal, Frédéric Paquet, Hamed Najem."
 ---
 Os melhores filmes, ou os que merecem revisitas mesmo depois de conhecermos o seu desfecho, geralmente são aqueles que permitem múltiplas interpretações e que conseguem impressionar pela sua engenhosa criação. Ou seja, ao mesmo tempo emocionam e possuem um prazer intelectual implícito em sua estrutura. Esse é sem dúvida o caso de Incêndios, que não apenas apresenta uma história arrebatadora do começo ao fim em seu nível emocional (personagens) como também permite análises em camadas mais racionais, sem com isso diminuir o impacto de sua história.
 

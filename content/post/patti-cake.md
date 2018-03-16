@@ -1,29 +1,11 @@
 ---
-imdb: "6288250"
-stars: "5/5"
 tags: ['cabine']
+imdb: "6288250"
 date: 2017-11-18T20:59:14
-title: "Patti Cake$"
 categories: "movies"
-_title: "Patti Cake$"
-_year: "2017"
-_director: ["Geremy Jasper", ]
-_writer: ["Geremy Jasper", ]
-_cast: ["Danielle Macdonald (Patti)", "Bridget Everett (Barb)", "Siddharth Dhananjay (Jheri)", "Mamoudou Athie (Basterd)", "Cathy Moriarty (Nana)", "McCaul Lombardi (Danny)", "Patrick Brana (Slaz)", "Dylan Blue (Drewsky / Master of Ceremonies)", "Warren Bub (Mr. Bagadella)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Brad Turner", ]
-_cinematographer: ["Federico Cesca", ]
-_music: ["Jason Binnick", "Geremy Jasper", ]
-_artdirection: ["Heather Yancey", ]
-_costume designer: ["Miyako Bellizzi", ]
-_genres: ["Drama", ]
-_runtimes: ["109", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BOTZiNGIxNzgtMGUyMy00Y2IwLWI0Y2QtN2FhNWNhNjcyODM5XkEyXkFqcGdeQXVyMDc2NTEzMw@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BOTZiNGIxNzgtMGUyMy00Y2IwLWI0Y2QtN2FhNWNhNjcyODM5XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1._SX94_SY140_.jpg"
-_releasedate: "9 November 2017"
+title: "Patti Cake$"
+stars: "5/5"
+desc: "Patti Cake$. Patti Cake$ (USA, 2017). Dirigido por Geremy Jasper. Escrito por Geremy Jasper. Com Danielle Macdonald (Patti), Bridget Everett (Barb), Siddharth Dhananjay (Jheri), Mamoudou Athie (Basterd), Cathy Moriarty (Nana), McCaul Lombardi (Danny), Patrick Brana (Slaz), Dylan Blue (Drewsky / Master of Ceremonies), Warren Bub (Mr. Bagadella)."
 ---
 RAP é Ritmo e Poesia. A música que emerge de repente dos esgotos e das bocas dos excluídos do sistema opressor. Que sistema é esse? Não importa. Sempre existirá um sistema e sempre existirão os excluídos. E é através de suas vidas insignificantes e sem sentido que emerge essa poesia, essa transformação da realidade, que mistura todas as emoções, músicas e estilos em uma composição bizarra que estranhamente se torna a expressão mais pura dessa própria realidade. Pura porque surge sem a maquiagem vendida pelo sistema. E que poderoso o paradoxo, quando uma música dessas se torna um sucesso e vende milhões...
 

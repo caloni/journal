@@ -1,25 +1,10 @@
 ---
-date: "2015-01-04"
 imdb: "2058107"
+date: "2015-01-04"
+categories: "movies"
 title: "Uma Longa Viagem"
 stars: "3/5"
-categories: "movies"
-_title: "The Railway Man"
-_year: "2013"
-_director: ["Jonathan Teplitzky", ]
-_writer: ["Frank Cottrell Boyce", "Andy Paterson", "Eric Lomax", ]
-_cast: ["Jeremy Irvine", "Colin Firth", "Stellan Skarsgård", "Michael MacKenzie", "Nicole Kidman", "Jeffrey Daunton", "Tanroh Ishida", "Tom Stokes", "Bryan Probets", ]
-_countries: ["Australia", ]
-_languages: ["English", ]
-_editor: ["Martin Connor", ]
-_cinematographer: ["Garry Phillips", ]
-_music: ["David Hirschfelder", ]
-_genres: ["Biography", ]
-_runtimes: ["116", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQzNDU1NjE0NF5BMl5BanBnXkFtZTgwODA3NDczMDE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQzNDU1NjE0NF5BMl5BanBnXkFtZTgwODA3NDczMDE@._V1._SX94_SY140_.jpg"
+desc: "Uma Longa Viagem. The Railway Man (Australia, 2013). Dirigido por Jonathan Teplitzky. Escrito por Frank Cottrell Boyce, Andy Paterson, Eric Lomax. Com Jeremy Irvine, Colin Firth, Stellan Skarsgård, Michael MacKenzie, Nicole Kidman, Jeffrey Daunton, Tanroh Ishida, Tom Stokes, Bryan Probets."
 ---
 É a história sobre um engenheiro aposentado (Colin Firth, como sempre impecável) que esteve no grupo de soldados americanos capturados pelas tropas japonesas próximo do rio Kwai na Segunda Grande Guerra e que foram escravizados para construir uma linha férrea. Ironicamente, seu personagem é fascinado por trens, e há uma passagem muito boa em que seu sócia jovem, Jeremy Irvine (igualmente excelente), explica qual o plano dos japoneses e como a maioria das ferrovias são feitas. Cercado de pálidos soldados que ainda tentam conceber sua rendição incondicional, ele é a esperança do batalhão que organiza um plano para montar um rádio e assim ouvir o que já sabemos: Hitler está sendo derrotado e a guerra está acabando.
 

@@ -1,27 +1,10 @@
 ---
-date: "2015-12-15"
 imdb: "3488710"
-stars: "5/5"
+date: "2015-12-15"
 categories: "movies"
 title: "A Travessia"
-_title: "The Walk"
-_year: "2015"
-_director: ["Robert Zemeckis", ]
-_writer: ["Robert Zemeckis", "Christopher Browne", "Philippe Petit", ]
-_cast: ["Joseph Gordon-Levitt", "Guillaume Baillargeon", "Émilie Leclerc", "Mark Trafford", "Inka Malovic", "Lucas Ramaciere", "Martin Lefebvre", "Philippe Bertrand", "Laurence Deschenes", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Jeremiah O'Driscoll", ]
-_cinematographer: ["Dariusz Wolski", ]
-_music: ["Alan Silvestri", ]
-_artdirection: ["Félix Larivière-Charron", ]
-_costume designer: ["Suttirat Anne Larlarb", ]
-_genres: ["Adventure", ]
-_runtimes: ["123", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNTY4MzA4Mzc5Nl5BMl5BanBnXkFtZTgwNDIzMzk5NjE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNTY4MzA4Mzc5Nl5BMl5BanBnXkFtZTgwNDIzMzk5NjE@._V1._SX94_SY140_.jpg"
+stars: "5/5"
+desc: "A Travessia. The Walk (USA, 2015). Dirigido por Robert Zemeckis. Escrito por Robert Zemeckis, Christopher Browne, Philippe Petit. Com Joseph Gordon-Levitt, Guillaume Baillargeon, Émilie Leclerc, Mark Trafford, Inka Malovic, Lucas Ramaciere, Martin Lefebvre, Philippe Bertrand, Laurence Deschenes."
 ---
 A liberdade é uma coisa engraçada. Quando a perdemos através do medo, isso cria os mais diversos níveis de negação, fazendo-nos chegar ao cúmulo de aceitar o máximo de segurança pelo mínimo de liberdade, sendo que, ironicamente, acabamos perdendo ambos.
 

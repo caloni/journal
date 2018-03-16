@@ -1,27 +1,11 @@
 ---
-date: "2016-02-12"
-tags: [ "cabine" ]
+tags: ['cabine']
 imdb: "1374989"
-stars: "3/5"
+date: "2016-02-12"
 categories: "movies"
 title: "Orgulho e Preconceito e Zumbis"
-_title: "Pride and Prejudice and Zombies"
-_year: "2016"
-_director: ["Burr Steers", ]
-_writer: ["Burr Steers", "Jane Austen", "Seth Grahame-Smith", ]
-_cast: ["Lily James", "Sam Riley", "Bella Heathcote", "Ellie Bamber", "Millie Brady", "Suki Waterhouse", "Douglas Booth", "Sally Phillips", "Charles Dance", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Padraic McKinley", ]
-_cinematographer: ["Remi Adefarasin", ]
-_music: ["Fernando Velázquez", ]
-_artdirection: ["Steve Carter", "Will Coubrough", "David Doran", "Ashley Winter", ]
-_costume designer: ["Julian Day", ]
-_genres: ["Action", ]
-_runtimes: ["107", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjE1MzA3NzYxMl5BMl5BanBnXkFtZTgwMzQ0NDA5NzE@.jpg"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjE1MzA3NzYxMl5BMl5BanBnXkFtZTgwMzQ0NDA5NzE@._V1._SX94_SY140_.jpg"
+stars: "3/5"
+desc: "Orgulho e Preconceito e Zumbis. Pride and Prejudice and Zombies (USA, 2016). Dirigido por Burr Steers. Escrito por Burr Steers, Jane Austen, Seth Grahame-Smith. Com Lily James, Sam Riley, Bella Heathcote, Ellie Bamber, Millie Brady, Suki Waterhouse, Douglas Booth, Sally Phillips, Charles Dance."
 ---
 Zumbis costumam ser elementos de crítica social muito pertinentes. George Romero os criou para isso em A Noite dos Mortos Vivos, e fez tantos outros filmes com esse mesmo objetivo. The Walking Dead, a série de sucesso, usa zumbis para descrever um mundo pós-apocalíptico que em nada tem a ver com os zumbis em si. E até as empreitadas mais nerds (Zumbilândia) têm mais relação com a figura do nerd do que com a própria criatura, um pretexto tão bom quanto sci-fi ou filmes-catástrofe.
 

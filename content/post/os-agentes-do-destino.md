@@ -1,25 +1,10 @@
 ---
-date: "2011-05-19"
 imdb: "1385826"
+date: "2011-05-19"
+categories: "movies"
 title: "Os Agentes do Destino"
 stars: "4/5"
-categories: "movies"
-_title: "The Adjustment Bureau"
-_year: "2011"
-_director: ["George Nolfi", ]
-_writer: ["George Nolfi", "Philip K. Dick", ]
-_cast: ["Matt Damon", "Emily Blunt", "Lisa Thoreson", "Florence Kastriner", "Michael Kelly", "Phyllis MacBryde", "Natalie Carter", "Chuck Scarborough", "Jon Stewart", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Jay Rabinowitz", ]
-_cinematographer: ["John Toll", ]
-_music: ["Thomas Newman", ]
-_genres: ["Romance", ]
-_runtimes: ["106", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTU3ODg3MDAxMl5BMl5BanBnXkFtZTcwMjc0MDMzNA@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTU3ODg3MDAxMl5BMl5BanBnXkFtZTcwMjc0MDMzNA@@._V1._SX95_SY140_.jpg"
+desc: "Os Agentes do Destino. The Adjustment Bureau (USA, 2011). Dirigido por George Nolfi. Escrito por George Nolfi, Philip K. Dick. Com Matt Damon, Emily Blunt, Lisa Thoreson, Florence Kastriner, Michael Kelly, Phyllis MacBryde, Natalie Carter, Chuck Scarborough, Jon Stewart."
 ---
 Em uma época em que religião e economia precisam ser reinventadas, a visão mesclada de ambas em uma organização fria e calculista não deixa de ser no mínimo curiosa. Porém, mais do que isso é constatarmos que os homens sisudos do filme têm por função coordenar algo que para nós, seres humanos, especialmente em tempos de crise, é sabidamente a única coisa de que realmente somos donos: o livre arbítrio.
 

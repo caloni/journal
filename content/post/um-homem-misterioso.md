@@ -1,25 +1,10 @@
 ---
-date: "2010-11-19"
 imdb: "1440728"
+date: "2010-11-19"
+categories: "movies"
 title: "Um Homem Misterioso"
 stars: "5/5"
-categories: "movies"
-_title: "The American"
-_year: "2010"
-_director: ["Anton Corbijn", ]
-_writer: ["Rowan Joffe", "Martin Booth", ]
-_cast: ["George Clooney", "Irina Björklund", "Lars Hjelm", "Björn Granath", "Johan Leysen", "Paolo Bonacelli", "Giorgio Gobbi", "Silvana Bosi", "Thekla Reuten", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Andrew Hulme", ]
-_cinematographer: ["Martin Ruhe", ]
-_music: ["Herbert Grönemeyer", ]
-_genres: ["Crime", ]
-_runtimes: ["105", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjAxMDg1NDcxM15BMl5BanBnXkFtZTcwODc3MDg1Mw@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjAxMDg1NDcxM15BMl5BanBnXkFtZTcwODc3MDg1Mw@@._V1._SX91_SY140_.jpg"
+desc: "Um Homem Misterioso. The American (USA, 2010). Dirigido por Anton Corbijn. Escrito por Rowan Joffe, Martin Booth. Com George Clooney, Irina Björklund, Lars Hjelm, Björn Granath, Johan Leysen, Paolo Bonacelli, Giorgio Gobbi, Silvana Bosi, Thekla Reuten."
 ---
 A quebra inicial do filme de romance com o casal juntos no quarto, íntimos, e o tiro que ele dá na cabeça da amante, além de impactante, dá o tom exato da vida desse homem do título, que deve sempre se manter fechado a relacionamentos. Cortes rápidos nas cenas de tiro, como o corte dele atirando no segundo sueco que aparece no filme, pelas costas, ou ele virando para atirar no seu contratante, essa cena sem corte. Sem contar as inúmeras vezes em que a neurose do personagem é transmitida diretamente para nós, como na cena da vespa estourando o escapamento, ou o livro caindo da cama no meio da noite, e até mesmo os pés do personagem no escuro, com ele deitado, deixam o espectador sempre em constante tensão. O primeiro diálogo com o padre, sobre o fato dele ser americano e fazer questão de esquecer o passado e tentar viver no presente, é emblemático e tão bem colocado, por possuir um significado oculto, que parece até feito de mentira. Mas convence.
 

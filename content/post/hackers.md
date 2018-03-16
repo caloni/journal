@@ -1,25 +1,10 @@
 ---
-date: "2011-11-19"
 imdb: "0113243"
+date: "2011-11-19"
+categories: "movies"
 title: "Hackers"
 stars: "3/5"
-categories: "movies"
-_title: "Hackers"
-_year: "1995"
-_director: ["Iain Softley", ]
-_writer: ["Rafael Moreu", ]
-_cast: ["Jonny Lee Miller", "Angelina Jolie", "Jesse Bradford", "Matthew Lillard", "Laurence Mason", "Renoly Santiago", "Fisher Stevens", "Alberta Watson", "Darren Lee", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Chris Blunden", "Martin Walsh", ]
-_cinematographer: ["Andrzej Sekula", ]
-_music: ["Simon Boswell", "Guy Pratt", ]
-_genres: ["Comedy", ]
-_runtimes: ["107", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BODg0NjQ5ODQ3OF5BMl5BanBnXkFtZTcwNjU4MjkzNA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BODg0NjQ5ODQ3OF5BMl5BanBnXkFtZTcwNjU4MjkzNA@@._V1._SX93_SY140_.jpg"
+desc: "Hackers. Hackers (USA, 1995). Dirigido por Iain Softley. Escrito por Rafael Moreu. Com Jonny Lee Miller, Angelina Jolie, Jesse Bradford, Matthew Lillard, Laurence Mason, Renoly Santiago, Fisher Stevens, Alberta Watson, Darren Lee."
 ---
 O mundo dos computadores na década de 90 poderia parecer muito intimidador para a pessoa leiga. Com a internet ainda engatinhando, as raras pessoas que sabiam mexer com esses dispositivos modernos eram considerados gênios incompreendidos, pois quase ninguém realmente entendia o que as pessoas faziam digitando naquela máquina de escrever eletrônica. O fato de ser incompreendido também gerava a desconfiança, pois quem controlaria essas pessoas dotadas do raro dom de conversar com as máquinas? Ao mesmo tempo, havia uma sensação de "perigo invisível", pois a priori qualquer pessoa dessas poderia ter controle nos sistemas que aos poucos estavam sendo entregues à informatização.
 

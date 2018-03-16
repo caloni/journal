@@ -1,22 +1,10 @@
 ---
-date: "2013-07-13"
 imdb: "0210843"
+date: "2013-07-13"
+categories: "movies"
 title: "El Mismo Amor La Misma Lluvia"
 stars: "3/5"
-categories: "movies"
-_title: "El mismo amor, la misma lluvia"
-_year: "1999"
-_director: ["Juan José Campanella", ]
-_writer: ["Juan José Campanella", "Fernando Castets", ]
-_cast: ["Ricardo Darín", "Soledad Villamil", "Ulises Dumont", "Eduardo Blanco", "Graciela Tenenbaum", "Alfonso De Grazia", "Alicia Zanca", "Mariana Richaudeau", "Alejandro Buzzoni", ]
-_countries: ["Argentina", ]
-_languages: ["English", ]
-_editor: ["Camilo Antolini", ]
-_cinematographer: ["Daniel Shulman", ]
-_music: ["Emilio Kauderer", ]
-_genres: ["Comedy", ]
-_runtimes: ["100", ]
-_kind: "movie"
+desc: "El Mismo Amor La Misma Lluvia. El mismo amor, la misma lluvia (Argentina, 1999). Dirigido por Juan José Campanella. Escrito por Juan José Campanella, Fernando Castets. Com Ricardo Darín, Soledad Villamil, Ulises Dumont, Eduardo Blanco, Graciela Tenenbaum, Alfonso De Grazia, Alicia Zanca, Mariana Richaudeau, Alejandro Buzzoni."
 ---
 Juan José Companella dirige pela primeira vez o casal dO Segredo dos Seus Olhos, Ricardo Darín e Soledad Villamil, em um romance leve, episódico e que brinca com as palavras ao vento que digerimos conforme a passagem do tempo faz as pessoas mudarem sua visão de mundo, assim como uma Argentina dos anos 80 em amplas modificações políticas e sociais.
 

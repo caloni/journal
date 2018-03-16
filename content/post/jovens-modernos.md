@@ -1,23 +1,10 @@
 ---
-date: "2011-10-29"
 imdb: "1954379"
+date: "2011-10-29"
+categories: "movies"
 title: "Kids of Töday"
 stars: "3/5"
-categories: "movies"
-_title: "Des jeunes gens mödernes"
-_year: "2011"
-_director: ["Jérôme de Missolz", ]
-_writer: ["Jérôme de Missolz", "Gilles Le Guen", "Jean-François Sanz", ]
-_cast: ["Yves Adrien", "Lio", "Edwige", "Aurélie Benchekri", "Antoine Capet", "Mathieu Chausseron", "Sabine Noble", "Joris Larochelle", "Anne-Sophie Le Creurer", ]
-_countries: ["France", ]
-_languages: ["French", ]
-_editor: ["Vanessa Bozza", "Elisabeth Juste", ]
-_cinematographer: ["Sarah Blum", "Jérôme de Missolz", ]
-_genres: ["Drama", ]
-_runtimes: ["97", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjI1NjQ5OTY2NV5BMl5BanBnXkFtZTgwOTA5NTA2MDE@.jpg"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjI1NjQ5OTY2NV5BMl5BanBnXkFtZTgwOTA5NTA2MDE@._V1._SX96_SY140_.jpg"
+desc: "Kids of Töday. Des jeunes gens mödernes (France, 2011). Dirigido por Jérôme de Missolz. Escrito por Jérôme de Missolz, Gilles Le Guen, Jean-François Sanz. Com Yves Adrien, Lio, Edwige, Aurélie Benchekri, Antoine Capet, Mathieu Chausseron, Sabine Noble, Joris Larochelle, Anne-Sophie Le Creurer."
 ---
 Qual a visão de um crítico musical sobre a música contemporânea de vanguarda? Ou, uma pergunta ainda melhor, o que esse crítico pensa sobre os jovens dessa nova era, tão acomodados a ouvirem músicas de diversas correntes (muitas delas auto-proclamadas futuristas) e se limitarem a apertar o botão Like de seu Facebook?
 

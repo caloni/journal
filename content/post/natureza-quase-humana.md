@@ -1,25 +1,10 @@
 ---
-date: "2014-01-19"
 imdb: "0219822"
+date: "2014-01-19"
+categories: "movies"
 title: "Natureza Quase Humana"
 stars: "4/5"
-categories: "movies"
-_title: "Human Nature"
-_year: "2001"
-_director: ["Michel Gondry", ]
-_writer: ["Charlie Kaufman", ]
-_cast: ["Patricia Arquette", "Rhys Ifans", "Tim Robbins", "Ken Magee", "Sy Richardson", "David Warshofsky", "Hilary Duff", "Stanley DeSantis", "Peter Dinklage", ]
-_countries: ["France", ]
-_languages: ["English", ]
-_editor: ["Russell Icke", ]
-_cinematographer: ["Tim Maurice-Jones", ]
-_music: ["Graeme Revell", ]
-_genres: ["Comedy", ]
-_runtimes: ["96", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQyODUwNDI2NV5BMl5BanBnXkFtZTcwNzEyMjcyMQ@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQyODUwNDI2NV5BMl5BanBnXkFtZTcwNzEyMjcyMQ@@._V1._SX98_SY140_.jpg"
+desc: "Natureza Quase Humana. Human Nature (France, 2001). Dirigido por Michel Gondry. Escrito por Charlie Kaufman. Com Patricia Arquette, Rhys Ifans, Tim Robbins, Ken Magee, Sy Richardson, David Warshofsky, Hilary Duff, Stanley DeSantis, Peter Dinklage."
 ---
 Os roteiros de Charlie Kaufman (Adaptação, Quero ser John Malkovich) dirigidos por Michel Gondry (Brilho Eterno de uma Mente sem Lembrança) nunca parecem deixar de explorar a fundo seus temas. Aqui o formato de testemunho com flashbacks é essencial para compreendermos a real dimensão dos relacionamentos entre os quatro personagens  inclusive o que morreu no processo  nessa comédia absurda que flerta com a natureza instintiva e animalesca do ser humano em detrimento à rígidas e, muitas vezes, sem sentido, regras de etiqueta e convívio social.
 

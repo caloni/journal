@@ -1,25 +1,10 @@
 ---
+imdb: "2870756"
 date: "2016-06-30"
 categories: "movies"
-imdb: "2870756"
-stars: "4/5"
 title: "Magia ao Luar"
-_title: "Magic in the Moonlight"
-_year: "2014"
-_director: ["Woody Allen", ]
-_writer: ["Woody Allen", ]
-_cast: ["Colin Firth", "Antonia Clarke", "Natasha Andrews", "Valérie Beaulieu", "Peter Wollasch", "Jürgen Zwingel", "Wolfgang Pissors", "Sébastien Siroux", "Simon McBurney", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Alisa Lepselter", ]
-_cinematographer: ["Darius Khondji", ]
-_costume designer: ["Sonia Grande", ]
-_genres: ["Comedy", ]
-_runtimes: ["97", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQ3NDY5NjIwN15BMl5BanBnXkFtZTgwNjQ2ODkxMjE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQ3NDY5NjIwN15BMl5BanBnXkFtZTgwNjQ2ODkxMjE@._V1._SX95_SY140_.jpg"
+stars: "4/5"
+desc: "Magia ao Luar. Magic in the Moonlight (USA, 2014). Dirigido por Woody Allen. Escrito por Woody Allen. Com Colin Firth, Antonia Clarke, Natasha Andrews, Valérie Beaulieu, Peter Wollasch, Jürgen Zwingel, Wolfgang Pissors, Sébastien Siroux, Simon McBurney."
 ---
 Woody Allen é um contador de histórias mediano, pois ele consegue utilizar (ou manipular) os personagens dos seus filmes (que dirige e escreve) ao seu bel prazer. Seu objetivo não é criar uma trama muito complexa, mas apenas discutir os temas recorrentes de sua cinegrafia mais recente. Dito isto, o que pode talvez elucidar porque há muitas pessoas que não gostam dos seus filmes, por outro lado essa ambição de sempre explorar ao máximo as premissas de seu raciocínio sobre questões além-vida (e a própria vida) são fascinantes per se, e na maioria das vezes não precisaria mais trama do que aparece em seus filmes para gerar uma boa discussão. Seus diálogos, pode-se dizer, são um monólogo constante sobre filosofia. Só isso já torna não apenas seus trabalhos altamente "assistíveis", mas, em geral, muito acima da média de Hollywood (que busca justamente o oposto: quanto menos o espectador precisar pensar, melhor).
 

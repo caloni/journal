@@ -1,27 +1,11 @@
 ---
-date: "2016-05-20"
-imdb: "2741602"
-stars: "3/5"
-title: "Blacklist (piloto)"
-categories: "blog"
 tags: ['netflix', 'series']
-_title: "The Blacklist"
-_year: "2013"
-_director: ["Michael W. Watkins", "Steven A. Adelson", "Andrew McCarthy", "Karen Gaviola", "Joe Carnahan", "Donald E. Thorin Jr.", "Vincent Misiano", "David Platt", "Paul A. Edwards", ]
-_writer: ["Jon Bokenkamp", "Brandon Margolis", "Brandon Sonnier", "Amanda Kate Shuman", "Brian Studler", "Lukas Reiter", "J.R. Orci", "John Eisendrath", "Daniel Knauf", ]
-_cast: ["James Spader", "Megan Boone", "Diego Klattenhoff", "Harry Lennix", "Hisham Tawfiq", "Ryan Eggold", "Amir Arison", "Mozhan Marnò", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Chris Brookshire", "David Post", "Nathan Gunn", "Emily Greene", "Harvey Rosenstock", "Jason Hellmann", ]
-_cinematographer: ["Michael Caracciolo", "Eric Moynier", "Frank Prinzi", "Arthur Albert", ]
-_music: ["Dave Porter", "James S. Levine", ]
-_artdirection: ["Bradley Schmidt", ]
-_costume designer: ["Christine Bean", ]
-_genres: ["Crime", ]
-_runtimes: ["43::(approx.)", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTY3NjQ1OTU3NF5BMl5BanBnXkFtZTgwODcwMDI2NjE@.jpg"
-_kind: "tv series"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTY3NjQ1OTU3NF5BMl5BanBnXkFtZTgwODcwMDI2NjE@._V1._SX95_SY140_.jpg"
+imdb: "2741602"
+date: "2016-05-20"
+categories: "blog"
+title: "Blacklist (piloto)"
+stars: "3/5"
+desc: "Blacklist (piloto). The Blacklist (USA, 2013). Dirigido por Michael W. Watkins, Steven A. Adelson, Andrew McCarthy, Karen Gaviola, Joe Carnahan, Donald E. Thorin Jr., Vincent Misiano, David Platt, Paul A. Edwards. Escrito por Jon Bokenkamp, Brandon Margolis, Brandon Sonnier, Amanda Kate Shuman, Brian Studler, Lukas Reiter, J.R. Orci, John Eisendrath, Daniel Knauf. Com James Spader, Megan Boone, Diego Klattenhoff, Harry Lennix, Hisham Tawfiq, Ryan Eggold, Amir Arison, Mozhan Marnò."
 ---
 Um episódio, e nada impressionante. Blacklist -- uma série com James Spader, Megan Boone e Harry Lennix -- apresenta um anti-herói que deve começar a fazer "delações premiadas" em troca de imunidade, sendo que ele próprio irá tirar vantagem disso, por conhecer tão bem o submundo do crime e por conhecer melhor ainda o passado, presente e talvez futuro da recém-agente do FBI/CIA/Whatever Elizabeth Keen (Boone).
 

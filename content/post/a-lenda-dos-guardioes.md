@@ -1,24 +1,10 @@
 ---
-date: "2010-08-08"
 imdb: "1219342"
+date: "2010-08-08"
+categories: "movies"
 title: "A Lenda dos Guardiões"
 stars: "2/5"
-categories: "movies"
-_title: "Legend of the Guardians: The Owls of Ga'Hoole"
-_year: "2010"
-_director: ["Zack Snyder", ]
-_writer: ["John Orloff", "Emil Stern", "Kathryn Lasky", ]
-_cast: ["Emily Barclay", "Abbie Cornish", "Essie Davis", "Adrienne DeFaria", "Joel Edgerton", "Deborra-Lee Furness", "Sacha Horler", "Bill Hunter", "Ryan Kwanten", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["David Burrows", ]
-_music: ["David Hirschfelder", ]
-_genres: ["Animation", ]
-_runtimes: ["97", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjE0NjA5OTA4N15BMl5BanBnXkFtZTcwODA3MTA3Mw@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjE0NjA5OTA4N15BMl5BanBnXkFtZTcwODA3MTA3Mw@@._V1._SX95_SY140_.jpg"
+desc: "A Lenda dos Guardiões. Legend of the Guardians: The Owls of Ga'Hoole (USA, 2010). Dirigido por Zack Snyder. Escrito por John Orloff, Emil Stern, Kathryn Lasky. Com Emily Barclay, Abbie Cornish, Essie Davis, Adrienne DeFaria, Joel Edgerton, Deborra-Lee Furness, Sacha Horler, Bill Hunter, Ryan Kwanten."
 ---
 Mais um filme 3D que usa foco. Parece que ou a noção de ambiente tridimensional ainda não possui seu lugar no cinto de técnicas da narrativa moderna ou a tentativa de economizar nas filmagens em 2D acaba por gerar o mesmo filme passado por dois filtros distintos.
 

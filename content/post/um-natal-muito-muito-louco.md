@@ -1,25 +1,10 @@
 ---
-date: "2011-12-25"
 imdb: "0388419"
+date: "2011-12-25"
+categories: "movies"
 title: "Um Natal Muito Muito Louco"
 stars: "3/5"
-categories: "movies"
-_title: "Christmas with the Kranks"
-_year: "2004"
-_director: ["Joe Roth", ]
-_writer: ["John Grisham", "Chris Columbus", ]
-_cast: ["Tim Allen", "Jamie Lee Curtis", "Dan Aykroyd", "M. Emmet Walsh", "Elizabeth Franz", "Erik Per Sullivan", "Cheech Marin", "Jake Busey", "Austin Pendleton", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Nick Moore", ]
-_cinematographer: ["Don Burgess", ]
-_music: ["John Debney", "Paul Morabito", ]
-_genres: ["Comedy", ]
-_runtimes: ["99", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTUxNDA4OTU4Nl5BMl5BanBnXkFtZTcwMzQxODYyMQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTUxNDA4OTU4Nl5BMl5BanBnXkFtZTcwMzQxODYyMQ@@._V1._SX94_SY140_.jpg"
+desc: "Um Natal Muito Muito Louco. Christmas with the Kranks (USA, 2004). Dirigido por Joe Roth. Escrito por John Grisham, Chris Columbus. Com Tim Allen, Jamie Lee Curtis, Dan Aykroyd, M. Emmet Walsh, Elizabeth Franz, Erik Per Sullivan, Cheech Marin, Jake Busey, Austin Pendleton."
 ---
 Tim Allen, de Meu Papai é Noel (1 e 2), em mais um filme de natal, dessa vez com Jamie Lee Curtis (True Lies) e roteiro de, quem diria, Chris Columbus! (Os Goonies, Gremlins, Nove Meses)
 

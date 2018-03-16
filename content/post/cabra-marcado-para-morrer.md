@@ -1,22 +1,10 @@
 ---
-date: "2012-09-20"
 imdb: "0134402"
+date: "2012-09-20"
+categories: "movies"
 title: "Cabra Marcado Para Morrer"
 stars: "4/5"
-categories: "movies"
-_title: "Cabra Marcado Para Morrer"
-_year: "1985"
-_director: ["Eduardo Coutinho", ]
-_writer: ["Eduardo Coutinho", ]
-_cast: ["Eduardo Coutinho", "Tite de Lemos", "Ferreira Gullar", ]
-_countries: ["Brazil", ]
-_languages: ["Portuguese", ]
-_editor: ["Eduardo Escorel", ]
-_cinematographer: ["Fernando Duarte", "Edgar Moura", ]
-_music: ["Rogério Rossini", ]
-_genres: ["Documentary", ]
-_runtimes: ["UK:119", ]
-_kind: "movie"
+desc: "Cabra Marcado Para Morrer. Cabra Marcado Para Morrer (Brazil, 1985). Dirigido por Eduardo Coutinho. Escrito por Eduardo Coutinho. Com Eduardo Coutinho, Tite de Lemos, Ferreira Gullar."
 ---
 O documentário que Eduardo Coutinho começou a produzir nos anos 60 e que foi interrompido após o golpe militar  tendo 40% do roteiro filmado e apreendido pela polícia como material subversivo  vira um filme completo só na década de 80, com a reabertura política e o reencontro do diretor e sua película. E não apenas isso: o reencontro da história de Elizabeth Teixeira, a viúva de João Pedro, líder dos camponeses assassinado brutalmente na época, e do cinema revolucionário de Glauber Rocha que havia ficado no esquecimento.
 

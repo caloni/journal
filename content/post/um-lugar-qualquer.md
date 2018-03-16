@@ -1,25 +1,10 @@
 ---
-date: "2013-12-25"
 imdb: "1421051"
+date: "2013-12-25"
+categories: "movies"
 title: "Um Lugar Qualquer"
 stars: "4/5"
-categories: "movies"
-_title: "Somewhere"
-_year: "2010"
-_director: ["Sofia Coppola", ]
-_writer: ["Sofia Coppola", ]
-_cast: ["Stephen Dorff", "Chris Pontius", "Erin Wasson", "Alexandra Williams", "Nathalie Fay", "Kristina Shannon", "Karissa Shannon", "John Prudhont", "Ruby Corley", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Sarah Flack", ]
-_cinematographer: ["Harris Savides", ]
-_music: ["Phoenix", ]
-_genres: ["Comedy", ]
-_runtimes: ["97", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTg1MzE1NDA0M15BMl5BanBnXkFtZTcwODM2MDY1Mw@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTg1MzE1NDA0M15BMl5BanBnXkFtZTcwODM2MDY1Mw@@._V1._SX91_SY140_.jpg"
+desc: "Um Lugar Qualquer. Somewhere (USA, 2010). Dirigido por Sofia Coppola. Escrito por Sofia Coppola. Com Stephen Dorff, Chris Pontius, Erin Wasson, Alexandra Williams, Nathalie Fay, Kristina Shannon, Karissa Shannon, John Prudhont, Ruby Corley."
 ---
 A rotina "solitária" do playboy/ator Johnny Marco (Stephen Dorff), cercado de tietes por todos os lados, mas que não abre mão de uma sessão privada de pole dance protagonizada por gêmeas, e a mudança que vai ocorrendo conforme sua filha Cleo (Elle Fanning) vai participando cada vez mais de sua vida, é mostrada pela lente humanamente aguçada de Sofia Coppola (Encontros e Desencontros), o que dispensa muitos diálogos.
 

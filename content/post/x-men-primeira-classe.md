@@ -1,26 +1,11 @@
 ---
-date: "2011-06-07"
+tags: ['mcu', 'xmen']
 imdb: "1270798"
+date: "2011-06-07"
+categories: "movies"
 title: "X-Men Primeira Classe"
 stars: "5/5"
-categories: "movies"
-tags: ['mcu', 'xmen']
-_title: "X-Men: First Class"
-_year: "2011"
-_director: ["Matthew Vaughn", ]
-_writer: ["Ashley Miller", "Zack Stentz", "Jane Goldman", "Matthew Vaughn", "Sheldon Turner", "Bryan Singer", ]
-_cast: ["James McAvoy", "Laurence Belcher", "Michael Fassbender", "Bill Milner", "Kevin Bacon", "Rose Byrne", "Jennifer Lawrence", "Beth Goddard", "Morgan Lily", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Eddie Hamilton", "Lee Smith", ]
-_cinematographer: ["John Mathieson", ]
-_music: ["Henry Jackman", ]
-_genres: ["Action", ]
-_runtimes: ["132", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTg5OTMxNzk4Nl5BMl5BanBnXkFtZTcwOTk1MjAwNQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTg5OTMxNzk4Nl5BMl5BanBnXkFtZTcwOTk1MjAwNQ@@._V1._SX95_SY140_.jpg"
+desc: "X-Men Primeira Classe. X-Men: First Class (USA, 2011). Dirigido por Matthew Vaughn. Escrito por Ashley Miller, Zack Stentz, Jane Goldman, Matthew Vaughn, Sheldon Turner, Bryan Singer. Com James McAvoy, Laurence Belcher, Michael Fassbender, Bill Milner, Kevin Bacon, Rose Byrne, Jennifer Lawrence, Beth Goddard, Morgan Lily."
 ---
 Quando se fala de X-Men no cinema é sempre bom relembrar que uma ficção científica, assim como qualquer filme, é um documentário da época em que foi filmado. No caso do gênero Sci-Fi, as liberdades são significativamente maiores, e por isso mesmo permitem alegorias/caracterizações que nos levam a viajar para outro universo e debater temas tão presentes no mundo de hoje quanto o preconceito e a intolerância.
 

@@ -1,27 +1,11 @@
 ---
+tags: ['cabine']
+imdb: "1472584"
 date: "2017-01-11"
 categories: "movies"
 title: "Max Steel"
-imdb: "1472584"
 stars: "1/5"
-tags: ['cabine']
-_title: "Max Steel"
-_year: "2016"
-_director: ["Stewart Hendler", ]
-_writer: ["Christopher Yost", ]
-_cast: ["Ben Winchell (Max McGrath)", "Josh Brener (Steel)", "Maria Bello (Molly McGrath)", "Andy Garcia (Dr. Miles Edwards)", "Ana Villafañe (Sofia Martinez)", "Mike Doyle (Jim McGrath)", "Phillip DeVona (Harkins)", "Billy Slaughter (Murphy)", "Al Mitchell (Dr. Smith)", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Michael Louis Hill", ]
-_cinematographer: ["Brett Pawlak", ]
-_music: ["Nathan Lanier", ]
-_artdirection: ["Richard Bloom", ]
-_costume designer: ["Allison Leach", ]
-_genres: ["Action", ]
-_runtimes: ["92", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk2MTMwOTk3N15BMl5BanBnXkFtZTgwMDI5OTYxMDI@.jpg"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk2MTMwOTk3N15BMl5BanBnXkFtZTgwMDI5OTYxMDI@._V1._SX94_SY140_.jpg"
+desc: "Max Steel. Max Steel (UK, 2016). Dirigido por Stewart Hendler. Escrito por Christopher Yost. Com Ben Winchell (Max McGrath), Josh Brener (Steel), Maria Bello (Molly McGrath), Andy Garcia (Dr. Miles Edwards), Ana Villafañe (Sofia Martinez), Mike Doyle (Jim McGrath), Phillip DeVona (Harkins), Billy Slaughter (Murphy), Al Mitchell (Dr. Smith)."
 ---
 Apesar de frequentemente ruins, tenho uma queda por fan films que "abraçam a causa", que é homenagear o herói/personagem/brinquedo que tanto curtem. No caso deste novo filme da Mattel, a produtora do brinquedo Max Steel (que já tem séries e curtas de animação até dizer chega), é óbvio que se trata de um caça-níqueis, e portanto encarada como um projeto profissional. Porém, o resultado é um filme sem a paixão de um fan film e também sem a qualidade de um filme comercial. É um filme que contém o pior de dois mundos, não conseguindo nem gerar a risada do ridículo ou o ódio do estúpido. O único ódio possível de sentir assistindo a Max Steel é estar perdendo o tempo com uma produção tão defeituosa.
 

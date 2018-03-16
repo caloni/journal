@@ -1,25 +1,10 @@
 ---
-date: "2013-01-20"
 imdb: "1623288"
+date: "2013-01-20"
+categories: "movies"
 title: "ParaNorman"
 stars: "3/5"
-categories: "movies"
-_title: "ParaNorman"
-_year: "2012"
-_director: ["Chris Butler", "Sam Fell", ]
-_writer: ["Chris Butler", ]
-_cast: ["Kodi Smit-McPhee", "Tucker Albrizzi", "Anna Kendrick", "Casey Affleck", "Christopher Mintz-Plasse", "Leslie Mann", "Jeff Garlin", "Elaine Stritch", "Bernard Hill", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Christopher Murrie", ]
-_cinematographer: ["Tristan Oliver", ]
-_music: ["Jon Brion", ]
-_genres: ["Animation", ]
-_runtimes: ["92", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjA1OTU1NDM3N15BMl5BanBnXkFtZTcwMjYxNTg0Nw@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjA1OTU1NDM3N15BMl5BanBnXkFtZTcwMjYxNTg0Nw@@._V1._SX94_SY140_.jpg"
+desc: "ParaNorman. ParaNorman (USA, 2012). Dirigido por Chris Butler, Sam Fell. Escrito por Chris Butler. Com Kodi Smit-McPhee, Tucker Albrizzi, Anna Kendrick, Casey Affleck, Christopher Mintz-Plasse, Leslie Mann, Jeff Garlin, Elaine Stritch, Bernard Hill."
 ---
 A única proposta original em Paranorman é que o seu protagonista consegue ver e falar com os mortos. Aliado a isso, a proposta infantil de lidar com o além-vida envolvendo um mundo de zumbis e bruxas, embora interessante enquanto desenvolve esse conceito atrelado à visão primitiva e violenta que as pessoas tinham em relação ao desconhecido, está envolta em mais e mais clichês que vão enfraquecendo o núcleo da sua original ideia.
 

@@ -1,25 +1,10 @@
 ---
-date: "2010-06-09"
 imdb: "1127877"
+date: "2010-06-09"
+categories: "movies"
 title: "Almas à venda"
 stars: "2/5"
-categories: "movies"
-_title: "Cold Souls"
-_year: "2009"
-_director: ["Sophie Barthes", ]
-_writer: ["Sophie Barthes", ]
-_cast: ["Paul Giamatti", "Armand Schultz", "Michael Tucker", "Dina Korzun", "Ted Koch", "Oksana Lada", "Natalia Zvereva", "Larisa Bell", "Anna Dyukova", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Andrew Mondshein", ]
-_cinematographer: ["Andrij Parekh", ]
-_music: ["Dickon Hinchliffe", ]
-_genres: ["Comedy", ]
-_runtimes: ["101", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTMwMjA1ODA4OF5BMl5BanBnXkFtZTcwMjA3NjU2Mg@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTMwMjA1ODA4OF5BMl5BanBnXkFtZTcwMjA3NjU2Mg@@._V1._SX94_SY140_.jpg"
+desc: "Almas à venda. Cold Souls (USA, 2009). Dirigido por Sophie Barthes. Escrito por Sophie Barthes. Com Paul Giamatti, Armand Schultz, Michael Tucker, Dina Korzun, Ted Koch, Oksana Lada, Natalia Zvereva, Larisa Bell, Anna Dyukova."
 ---
 Esse filme escrito e dirigido pela estreante Sophie Barthes tenta usar o conceito de alma mais ou menos como um órgão transplantado, mas muito mais flexível, já que é possível usar a alma de outras pessoas para potencializar áreas na vida em que se é um zero à esquerda. Aí é que entra Paul Giamatti que interpreta... Paul Giamatti! Ele está com problemas com uma nova peça e resolve trocar de alma por uma que seja compatível com o personagem que tenta interpretar.
 

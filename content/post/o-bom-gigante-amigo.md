@@ -1,27 +1,10 @@
 ---
+imdb: "3691740"
 date: "2016-07-31"
 categories: "movies"
-imdb: "3691740"
-stars: "3/5"
 title: "O Bom Gigante Amigo"
-_title: "The BFG"
-_year: "2016"
-_director: ["Steven Spielberg", ]
-_writer: ["Melissa Mathison", "Roald Dahl", ]
-_cast: ["Mark Rylance", "Ruby Barnhill", "Penelope Wilton", "Jemaine Clement", "Rebecca Hall", "Rafe Spall", "Bill Hader", "Ólafur Darri Ólafsson", "Adam Godley", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Michael Kahn", ]
-_cinematographer: ["Janusz Kaminski", ]
-_music: ["John Williams", ]
-_artdirection: ["Chris Beach", "Todd Cherniawsky", "Rebecca Milton", "Margot Ready", "Grant Van Der Slagt", ]
-_costume designer: ["Joanna Johnston", ]
-_genres: ["Adventure", ]
-_runtimes: ["117", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjI5MjI4NTEzOF5BMl5BanBnXkFtZTgwNjM2Nzg3NzE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjI5MjI4NTEzOF5BMl5BanBnXkFtZTgwNjM2Nzg3NzE@._V1._SX94_SY140_.jpg"
+stars: "3/5"
+desc: "O Bom Gigante Amigo. The BFG (UK, 2016). Dirigido por Steven Spielberg. Escrito por Melissa Mathison, Roald Dahl. Com Mark Rylance, Ruby Barnhill, Penelope Wilton, Jemaine Clement, Rebecca Hall, Rafe Spall, Bill Hader, Ólafur Darri Ólafsson, Adam Godley."
 ---
 Steven Spielberg parece atualmente morrer de amores por política (Munique, Ponte dos Espiões, Lincoln, Cavalo de Guerra), o que não parece ter afetado As Aventuras de Tintim, mas que com certeza afeta O Bom Gigante Amigo. Curioso citar que este é um de seus filmes mais infantis em décadas.
 

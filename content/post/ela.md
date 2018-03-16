@@ -1,26 +1,11 @@
 ---
-date: "2014-03-07"
 imdb: "1798709"
+date: "2014-03-07"
+categories: "movies"
 count: 2
 title: "Ela"
 stars: "5/5"
-categories: "movies"
-_title: "Her"
-_year: "2013"
-_director: ["Spike Jonze", ]
-_writer: ["Spike Jonze", ]
-_cast: ["Joaquin Phoenix", "Lynn Adrianna", "Lisa Renee Pitts", "Gabe Gomez", "Chris Pratt", "Artt Butler", "May Lindstrom", "Rooney Mara", "Bill Hader", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Jeff Buchanan", "Eric Zumbrunnen", ]
-_cinematographer: ["Hoyte Van Hoytema", ]
-_music: ["Arcade Fire", ]
-_genres: ["Drama", ]
-_runtimes: ["126", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjA1Nzk0OTM2OF5BMl5BanBnXkFtZTgwNjU2NjEwMDE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjA1Nzk0OTM2OF5BMl5BanBnXkFtZTgwNjU2NjEwMDE@._V1._SX95_SY140_.jpg"
+desc: "Ela. Her (USA, 2013). Dirigido por Spike Jonze. Escrito por Spike Jonze. Com Joaquin Phoenix, Lynn Adrianna, Lisa Renee Pitts, Gabe Gomez, Chris Pratt, Artt Butler, May Lindstrom, Rooney Mara, Bill Hader."
 ---
 Ela pode ser chamado de romance  mesmo que seja entre um ser humano e um sistema operacional  porque é basicamente um filme sobre relacionamentos. O roteiro e a direção de Spike Jonze (Quero Ser John Malkovich) entram fundo na questão "o que torna uma pessoa atraente para outra" desintegrando a parte material e se focando no mundo das ideias; quase que um Antes do Amanhecer futurista.
 

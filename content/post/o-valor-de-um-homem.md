@@ -1,26 +1,11 @@
 ---
-date: "2016-05-20"
-tags: [ "cabine" ]
+tags: ['cabine']
 imdb: "4428814"
-stars: "4/5"
+date: "2016-05-20"
 categories: "movies"
 title: "O Valor de um Homem"
-_title: "La loi du marché"
-_year: "2015"
-_director: ["Stéphane Brizé", ]
-_writer: ["Stéphane Brizé", "Olivier Gorce", ]
-_cast: ["Vincent Lindon", "Karine de Mirbeck", "Matthieu Schaller", "Yves Ory", "Xavier Mathieu", "Paul Portoleau", "Pierre-Jean Feld", "Philippe Vesco", "Christophe Rossignon", ]
-_countries: ["France", ]
-_languages: ["French", ]
-_editor: ["Anne Klotz", ]
-_cinematographer: ["Eric Dumont", ]
-_costume designer: ["Ann Dunsford", "Diane Dussaud", ]
-_genres: ["Drama", ]
-_runtimes: ["93", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjA5ODYyMTExOF5BMl5BanBnXkFtZTgwNDYwMjUzODE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjA5ODYyMTExOF5BMl5BanBnXkFtZTgwNDYwMjUzODE@._V1._SX98_SY140_.jpg"
+stars: "4/5"
+desc: "O Valor de um Homem. La loi du marché (France, 2015). Dirigido por Stéphane Brizé. Escrito por Stéphane Brizé, Olivier Gorce. Com Vincent Lindon, Karine de Mirbeck, Matthieu Schaller, Yves Ory, Xavier Mathieu, Paul Portoleau, Pierre-Jean Feld, Philippe Vesco, Christophe Rossignon."
 ---
 Sim, é um filme socialista. Como poderia ser diferente, em meio a uma crise europeia, e no seu núcleo, a odiosa França, cheia de ódio pelas liberdades individuais? A França é um exemplo a ser seguido por todos os Estados: controla cada pedaço da vida de seus habitantes, e quando tudo dá errado, culpa o capitalismo.
 

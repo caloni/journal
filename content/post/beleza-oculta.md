@@ -1,29 +1,11 @@
 ---
+tags: ['cinema']
+imdb: "4682786"
 date: "2017-03-01"
 categories: "movies"
 title: "Beleza Oculta"
-imdb: "4682786"
 stars: "3/5"
-tags: ['cinema']
-_title: "Collateral Beauty"
-_year: "2016"
-_director: ["David Frankel", ]
-_writer: ["Allan Loeb", ]
-_cast: ["Will Smith (Howard)", "Edward Norton (Whit)", "Kate Winslet (Claire)", "Michael Peña (Simon)", "Helen Mirren (Brigitte)", "Naomie Harris (Madeleine)", "Keira Knightley (Amy)", "Jacob Latimore (Raffi)", "Ann Dowd (Sally Price)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Andrew Marcus", ]
-_cinematographer: ["Maryse Alberti", ]
-_music: ["Theodore Shapiro", ]
-_artdirection: ["Scott Dougan", ]
-_costume designer: ["Leah Katznelson", ]
-_genres: ["Drama", ]
-_runtimes: ["97", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ5ODE4MTY2NV5BMl5BanBnXkFtZTgwMzM2NzEzMDI@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ5ODE4MTY2NV5BMl5BanBnXkFtZTgwMzM2NzEzMDI@._V1._SX94_SY140_.jpg"
-_releasedate: "26 January 2017"
+desc: "Beleza Oculta. Collateral Beauty (USA, 2016). Dirigido por David Frankel. Escrito por Allan Loeb. Com Will Smith (Howard), Edward Norton (Whit), Kate Winslet (Claire), Michael Peña (Simon), Helen Mirren (Brigitte), Naomie Harris (Madeleine), Keira Knightley (Amy), Jacob Latimore (Raffi), Ann Dowd (Sally Price)."
 ---
 Will Smith se especializou em histórias que o trazem como um heroi carismático que esconde isso por trás de uma máscara de dor e sofrimento. Filmes ótimos com ele como À Procura da Felicidade e Eu Sou A Lenda fazem isso com louvor. Filmes medíocres como Hancock (onde ele é não um heroi, mas um super-heroi) fazem isso no automático. E até filmes ruins como Sete Vidas e Esquadrão Suicida fazem isso de uma forma ou de outra, se entregando às lágrimas fáceis (se você estiver disposto a isso). Então não seria errado pensar que em Beleza Oculta estamos revisitando novamente esta persistente faceta da persona do ator, que está conseguindo realizar este trabalho cada vez mais próximo da perfeição.
 

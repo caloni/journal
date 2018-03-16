@@ -1,9 +1,10 @@
 ---
-date: 2018-01-13T15:50:54-02:00
-title: "Eu, Tonya"
-categories: "movies"
+date: 2018-01-13T17:50:54
 imdb: "5580036"
+categories: "movies"
 stars: "3/5"
+title: "Eu, Tonya"
+desc: "Eu, Tonya."
 ---
 Este é um filme sobre a história real de uma moça red neck que resolve enfrentar o status quo dos valores tradicionais americanos nas pistas de gelo. Tonya Harding patina bem pra c****, e parece que essa é a única coisa que as pessoas em volta de sua vida não percebem. Todos vivendo em torno de seus umbigos, Tonya é uma sobrevivente de uma infância de abusos, independente até a alma e buscando para sempre o reconhecimento. De qualquer um.
 

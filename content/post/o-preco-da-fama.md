@@ -1,27 +1,11 @@
 ---
-date: "2015-09-24"
-tags: [ "cabine" ]
+tags: ['cabine']
 imdb: "3194410"
-stars: "3/5"
+date: "2015-09-24"
 categories: "movies"
 title: "O Preço da Fama"
-_title: "La rançon de la gloire"
-_year: "2014"
-_director: ["Xavier Beauvois", ]
-_writer: ["Xavier Beauvois", "Etienne Comar", "Marie-Julie Maille", ]
-_cast: ["Benoît Poelvoorde", "Roschdy Zem", "Séli Gmach", "Chiara Mastroianni", "Nadine Labaki", "Peter Coyote", "Xavier Maly", "Arthur Beauvois", "Jean-Daniel Bigler", ]
-_countries: ["France", ]
-_languages: ["French", ]
-_editor: ["Marie-Julie Maille", ]
-_cinematographer: ["Caroline Champetier", ]
-_music: ["Michel Legrand", ]
-_artdirection: ["Yann Megard", ]
-_genres: ["Comedy", ]
-_runtimes: ["110", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjk3NjcyMjI1OV5BMl5BanBnXkFtZTgwMjEzNjc0MjE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjk3NjcyMjI1OV5BMl5BanBnXkFtZTgwMjEzNjc0MjE@._V1._SX100_SY66_.jpg"
+stars: "3/5"
+desc: "O Preço da Fama. La rançon de la gloire (France, 2014). Dirigido por Xavier Beauvois. Escrito por Xavier Beauvois, Etienne Comar, Marie-Julie Maille. Com Benoît Poelvoorde, Roschdy Zem, Séli Gmach, Chiara Mastroianni, Nadine Labaki, Peter Coyote, Xavier Maly, Arthur Beauvois, Jean-Daniel Bigler."
 ---
 Um filme para homenagear Charles Chaplin. Isso ficou muito claro em O Preço da Fama, uma história criada em torno de um fato: dois imigrantes roubaram o caixão de Chaplin após ele falecer e planejaram pedir um resgate. Toda a história em volta é fantasiosa, mas com o pé na realidade, o que a deixa meio sem saber por onde ir. Tem dois personagens até que interessantes (como o criado por Benoît Poelvoorde, que também fez o excelente 3 Corações), uma ponta divertida de Peter Coyote e uma trilha sonora fascinante (Luzes da Cidade) repetida à exaustão.
 

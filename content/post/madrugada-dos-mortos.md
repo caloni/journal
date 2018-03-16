@@ -1,25 +1,10 @@
 ---
-date: "2015-02-14"
 imdb: "0363547"
+date: "2015-02-14"
+categories: "movies"
 title: "Madrugada dos Mortos"
 stars: "5/5"
-categories: "movies"
-_title: "Dawn of the Dead"
-_year: "2004"
-_director: ["Zack Snyder", ]
-_writer: ["George A. Romero", "James Gunn", ]
-_cast: ["Sarah Polley", "Ving Rhames", "Jake Weber", "Mekhi Phifer", "Ty Burrell", "Michael Kelly", "Kevin Zegers", "Michael Barry", "Lindy Booth", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Niven Howie", ]
-_cinematographer: ["Matthew F. Leonetti", ]
-_music: ["Tyler Bates", ]
-_genres: ["Action", ]
-_runtimes: ["101", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTI4OTU2NjY5OF5BMl5BanBnXkFtZTYwOTQ2Mzg3.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTI4OTU2NjY5OF5BMl5BanBnXkFtZTYwOTQ2Mzg3._V1._SX94_SY140_.jpg"
+desc: "Madrugada dos Mortos. Dawn of the Dead (USA, 2004). Dirigido por Zack Snyder. Escrito por George A. Romero, James Gunn. Com Sarah Polley, Ving Rhames, Jake Weber, Mekhi Phifer, Ty Burrell, Michael Kelly, Kevin Zegers, Michael Barry, Lindy Booth."
 ---
 Queria comparar algum filme de zumbis que não fosse de George Romero ou comédia (Zumbilândia, Meu Namorado é um Zumbi) e nem tão dramático/ação (World War Z), mas que carregasse aqueles símbolos do velho Cinema de Romero no melhor estilo A Noite dos Mortos-Vivos. E eis que finalmente vi esse Madrugada dos Mortos, de Zack Snyder (do interessante Sucker Punch, do sensacional Watchmen e do infelizmente medíocre Homem de Aço).
 

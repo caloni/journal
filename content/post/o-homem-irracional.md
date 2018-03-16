@@ -1,26 +1,10 @@
 ---
+imdb: "3715320"
 date: "2016-07-29"
 categories: "movies"
-imdb: "3715320"
-stars: "3/5"
 title: "O Homem Irracional"
-_title: "Irrational Man"
-_year: "2015"
-_director: ["Woody Allen", ]
-_writer: ["Woody Allen", ]
-_cast: ["Joaquin Phoenix", "Emma Stone", "Joe Stapleton", "Nancy Carroll", "Allison Gallerani", "Brigette Lundy-Paine", "Katelyn Semer", "Betsy Aidem", "Ethan Phillips", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Alisa Lepselter", ]
-_cinematographer: ["Darius Khondji", ]
-_artdirection: ["Carl Sprague", ]
-_costume designer: ["Suzy Benzinger", ]
-_genres: ["Crime", ]
-_runtimes: ["95", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjE2NTM0Mzk5Ml5BMl5BanBnXkFtZTgwMzQ3Njc3NTE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjE2NTM0Mzk5Ml5BMl5BanBnXkFtZTgwMzQ3Njc3NTE@._V1._SX94_SY140_.jpg"
+stars: "3/5"
+desc: "O Homem Irracional. Irrational Man (USA, 2015). Dirigido por Woody Allen. Escrito por Woody Allen. Com Joaquin Phoenix, Emma Stone, Joe Stapleton, Nancy Carroll, Allison Gallerani, Brigette Lundy-Paine, Katelyn Semer, Betsy Aidem, Ethan Phillips."
 ---
 O ritmo atual de Woody Allen em escrever e dirigir um filme por ano simplifica seus trabalhos, mas exatamente por isso permite-nos enxergar de maneira mais específica os assuntos que ele sempre deseja tratar. E no caso de O Homem Irracional, onde o protagonista é um professor de filosofia, o que tinha tudo para ser um tratado mais espesso e complexo sobre a natureza humana se transforma em um exercício leve e simples de entender.
 

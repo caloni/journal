@@ -1,26 +1,11 @@
 ---
+tags: ['netflix']
+imdb: "5912454"
 date: "2016-12-10"
 categories: "movies"
 title: "Blue Jay"
-imdb: "5912454"
 stars: "4/5"
-tags: ['netflix']
-_title: "Blue Jay"
-_year: "2016"
-_director: ["Alexandre Lehmann", ]
-_writer: ["Mark Duplass", ]
-_cast: ["Mark Duplass (Jim)", "Sarah Paulson (Amanda)", "Clu Gulager (Waynie)", "James Andrews (Background)", "Harris Benbury (Background)", "Daniel Brooks (Background)", "Mary Brooks (Background)", "Bill Greer (Background)", "Cindy Greer (Background)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Christopher Donlon", ]
-_cinematographer: ["Alexandre Lehmann", ]
-_music: ["Julian Wass", ]
-_costume designer: ["Stacey Schneiderman", ]
-_genres: ["Drama", ]
-_runtimes: ["80", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjM2Nzk4ODA2M15BMl5BanBnXkFtZTgwODA5MDExMDI@.jpg"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjM2Nzk4ODA2M15BMl5BanBnXkFtZTgwODA5MDExMDI@._V1._SX93_SY140_.jpg"
+desc: "Blue Jay. Blue Jay (USA, 2016). Dirigido por Alexandre Lehmann. Escrito por Mark Duplass. Com Mark Duplass (Jim), Sarah Paulson (Amanda), Clu Gulager (Waynie), James Andrews (Background), Harris Benbury (Background), Daniel Brooks (Background), Mary Brooks (Background), Bill Greer (Background), Cindy Greer (Background)."
 ---
 Antes eles imitavam o futuro. Hoje eles se reencontram e retornam ao passado. Um filme inteiro em preto e branco porque é sobre memórias. A beleza dos tons de cinza de um filme invocam a poesia da realidade. Porém, no paradoxo mais charmoso do Cinema, o p&b também torna a vida mais real.
 

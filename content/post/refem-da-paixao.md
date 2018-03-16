@@ -1,27 +1,10 @@
 ---
+imdb: "1967545"
 date: "2016-07-18"
 categories: "movies"
-imdb: "1967545"
-stars: "3/5"
 title: "Refém da Paixão"
-_title: "Labor Day"
-_year: "2013"
-_director: ["Jason Reitman", ]
-_writer: ["Jason Reitman", "Joyce Maynard", ]
-_cast: ["Kate Winslet", "Josh Brolin", "Gattlin Griffith", "Tobey Maguire", "Tom Lipinski", "Maika Monroe", "Clark Gregg", "James Van Der Beek", "J.K. Simmons", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Dana E. Glauberman", ]
-_cinematographer: ["Eric Steelberg", ]
-_music: ["Rolfe Kent", ]
-_artdirection: ["Mark Robert Taylor", ]
-_costume designer: ["Danny Glicker", ]
-_genres: ["Drama", ]
-_runtimes: ["111", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjMxODE0NTUxNV5BMl5BanBnXkFtZTgwNTkzNzY1MDE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjMxODE0NTUxNV5BMl5BanBnXkFtZTgwNTkzNzY1MDE@._V1._SX95_SY140_.jpg"
+stars: "3/5"
+desc: "Refém da Paixão. Labor Day (USA, 2013). Dirigido por Jason Reitman. Escrito por Jason Reitman, Joyce Maynard. Com Kate Winslet, Josh Brolin, Gattlin Griffith, Tobey Maguire, Tom Lipinski, Maika Monroe, Clark Gregg, James Van Der Beek, J.K. Simmons."
 ---
 Kate Winslet e Josh Brolin são atores tão competentes que "Refém da Paixão" sai quase ileso de seu formato drama enlatado com situações previsíveis para tornar tudo um pouco mais tenso. Até Gattlin Griffith, que faz o jovem Henry, e que quando adulto é narrado por Tobey Maguire, consegue um desempenho interessante, e talvez tenha dado a sorte de pegar o personagem mais ou menos acompanhável. No entanto, a mãe amargurada Adele (Winslet) e o bom homem preso injustamente Frank (Brolin) são funções ingratas da dupla de atores veteranos, pois uma vez estabelecidos os estereótipos, eles nunca mudam.
 

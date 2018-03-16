@@ -1,24 +1,10 @@
 ---
-date: "2013-04-01"
 imdb: "1049413"
+date: "2013-04-01"
+categories: "movies"
 title: "Up Altas Aventuras"
 stars: "5/5"
-categories: "movies"
-_title: "Up"
-_year: "2009"
-_director: ["Pete Docter", "Bob Peterson", ]
-_writer: ["Pete Docter", "Bob Peterson", "Thomas McCarthy", "Bob Peterson", "Pete Docter", ]
-_cast: ["Edward Asner", "Christopher Plummer", "Jordan Nagai", "Bob Peterson", "Delroy Lindo", "Jerome Ranft", "John Ratzenberger", "David Kaye", "Elie Docter", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Kevin Nolting", ]
-_music: ["Michael Giacchino", ]
-_genres: ["Animation", ]
-_runtimes: ["96", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTk3NDE2NzI4NF5BMl5BanBnXkFtZTgwNzE1MzEyMTE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTk3NDE2NzI4NF5BMl5BanBnXkFtZTgwNzE1MzEyMTE@._V1._SX93_SY140_.jpg"
+desc: "Up Altas Aventuras. Up (USA, 2009). Dirigido por Pete Docter, Bob Peterson. Escrito por Pete Docter, Bob Peterson, Thomas McCarthy, Bob Peterson, Pete Docter. Com Edward Asner, Christopher Plummer, Jordan Nagai, Bob Peterson, Delroy Lindo, Jerome Ranft, John Ratzenberger, David Kaye, Elie Docter."
 ---
 Uma produção da Pixar possui, como todo o filme, o(s) nome(s) do diretor. Contudo, a dedicação dos seus produtores e toda a equipe é tamanha que transparece o amor pelo Cinema em cada canto da tela e em cada detalhe técnico de suas produções.
 

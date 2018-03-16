@@ -1,24 +1,10 @@
 ---
-date: "2016-02-17"
 imdb: "3518012"
-stars: "3/5"
+date: "2016-02-17"
 categories: "movies"
 title: "Best of Enemies"
-_title: "Best of Enemies"
-_year: "2015"
-_director: ["Robert Gordon", "Morgan Neville", ]
-_writer: ["Robert Gordon", "Morgan Neville", ]
-_cast: ["Paul Newman", "Kelsey Grammer", "John Lithgow", "Gore Vidal", "Arthur Miller", "Dick Cavett", "Walter Cronkite", "Christopher Hitchens", "Noam Chomsky", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Eileen Meyer", "Aaron Wickenden", ]
-_cinematographer: ["David Leonard", "Mark Schwartzbard", "Graham Willoughby", ]
-_music: ["Jonathan Kirkscey", ]
-_genres: ["Documentary", ]
-_runtimes: ["87", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjA0MzA1ODA5NF5BMl5BanBnXkFtZTgwMDc3OTU5NTE@.jpg"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjA0MzA1ODA5NF5BMl5BanBnXkFtZTgwMDc3OTU5NTE@._V1._SX94_SY140_.jpg"
+stars: "3/5"
+desc: "Best of Enemies. Best of Enemies (USA, 2015). Dirigido por Robert Gordon, Morgan Neville. Escrito por Robert Gordon, Morgan Neville. Com Paul Newman, Kelsey Grammer, John Lithgow, Gore Vidal, Arthur Miller, Dick Cavett, Walter Cronkite, Christopher Hitchens, Noam Chomsky."
 ---
 Curioso este filme ser tão recente, e sintomático também. Se Best of Enemies começa na ascenção de uma política conservadora e autoritária nos EUA, bem no meio de choques causados por segregação racial e pela guerra no Vietnã, a profecia do liberal Gore Vidal do "declínio do império" não poderia ser mais presente hoje em dia. O que ele não esperava é que esse declínio seria causado justamente pela esquerda que tanto defendia.
 

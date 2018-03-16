@@ -1,21 +1,10 @@
 ---
-date: "2014-04-20"
-title: "Actores S.A."
 imdb: "3336632"
-stars: "2/5"
+date: "2014-04-20"
 categories: "movies"
-_title: "Actores S.A."
-_year: "2013"
-_director: ["Carlos Sariñana", ]
-_writer: ["Carolina Rivera", "Carlos Sariñana", ]
-_cast: ["Raúl Méndez", "Iliana Fox", "Fernando Becerril", "Eugenio Bartilotti", "Sophie Alexander-Katz", "Eduardo Arroyuelo", "Erick Elias", "Zaide Silvia Gutiérrez", "Susana Alexander", ]
-_countries: ["Mexico", ]
-_languages: ["Spanish", ]
-_editor: ["Óscar Figueroa", ]
-_cinematographer: ["Celiana Cárdenas", ]
-_genres: ["Comedy", ]
-_runtimes: ["95", ]
-_kind: "movie"
+title: "Actores S.A."
+stars: "2/5"
+desc: "Actores S.A.. Actores S.A. (Mexico, 2013). Dirigido por Carlos Sariñana. Escrito por Carolina Rivera, Carlos Sariñana. Com Raúl Méndez, Iliana Fox, Fernando Becerril, Eugenio Bartilotti, Sophie Alexander-Katz, Eduardo Arroyuelo, Erick Elias, Zaide Silvia Gutiérrez, Susana Alexander."
 ---
 Uma comédia argentina com um roteiro até que interessante visto de fora, mas de dentro é uma bagunça. Possui uma história que gira em torno do salvamento de um teatro ao mesmo tempo que constrói a relação do casal protagonista, ambos se relacionando através de coincidências absurdas. A ideia dos atores para conseguir dinheiro é aceitar qualquer trabalho, mesmo fora dos palcos. Porém, não é isso o que atores já fazem? Ainda mais os decadentes? Qual seria a grande ideia para este filme?
 

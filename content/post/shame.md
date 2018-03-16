@@ -1,25 +1,10 @@
 ---
-date: "2012-03-18"
 imdb: "1723811"
+date: "2012-03-18"
+categories: "movies"
 title: "Shame"
 stars: "4/5"
-categories: "movies"
-_title: "Shame"
-_year: "2011"
-_director: ["Steve McQueen", ]
-_writer: ["Steve McQueen", "Abi Morgan", ]
-_cast: ["Michael Fassbender", "Lucy Walters", "Mari-Ange Ramirez", "James Badge Dale", "Nicole Beharie", "Alex Manette", "Hannah Ware", "Elizabeth Masucci", "Rachel Farrar", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Joe Walker", ]
-_cinematographer: ["Sean Bobbitt", ]
-_music: ["Harry Escott", ]
-_genres: ["Drama", ]
-_runtimes: ["101", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQ3MzM0OTE5MF5BMl5BanBnXkFtZTcwNzI4MDM5Ng@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQ3MzM0OTE5MF5BMl5BanBnXkFtZTcwNzI4MDM5Ng@@._V1._SX93_SY140_.jpg"
+desc: "Shame. Shame (UK, 2011). Dirigido por Steve McQueen. Escrito por Steve McQueen, Abi Morgan. Com Michael Fassbender, Lucy Walters, Mari-Ange Ramirez, James Badge Dale, Nicole Beharie, Alex Manette, Hannah Ware, Elizabeth Masucci, Rachel Farrar."
 ---
 A princípio Shame não parece um filme que fuja do lugar-comum. Com um ritmo mais lento e, portanto, reflexivo, ele nos leva a conhecer aos poucos a vida de Brandon Sullivan (Michael Fassbender), um rapaz comum que mora sozinho, tem um belo emprego, mas que é um inveterado por sexo, solitário ou com prostitutas. Paradoxalmente, Brandon não consegue ter relacionamentos duradouros, e nem a presença de sua irmã Sissy (Carey Mulligan) faz com que ele consiga se conectar com o mundo. Alheio a tudo que não seja relativo ao ato sexual, Brandon sabe que possui um tipo de doença, e essa consciência é que torna tudo muito mais humano em sua história.
 

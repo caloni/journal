@@ -1,25 +1,10 @@
 ---
-date: "2013-07-28"
 imdb: "0960890"
+date: "2013-07-28"
+categories: "movies"
 title: "As Strippers Zumbi"
 stars: "2/5"
-categories: "movies"
-_title: "Zombie Strippers!"
-_year: "2008"
-_director: ["Jay Lee", ]
-_writer: ["Jay Lee", ]
-_cast: ["Jenna Jameson", "Robert Englund", "Roxy Saint", "Penny Vital", "Whitney Anderson", "Jennifer Holland", "Shamron Moore", "Jeannette Sousa", "Carmit Levité", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Jay Lee", ]
-_cinematographer: ["Jay Lee", ]
-_music: ["Billy White Acre", ]
-_genres: ["Comedy", ]
-_runtimes: ["94", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTUzNzE3MDQ4OV5BMl5BanBnXkFtZTcwNzkzMjQ5MQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTUzNzE3MDQ4OV5BMl5BanBnXkFtZTcwNzkzMjQ5MQ@@._V1._SX100_SY129_.jpg"
+desc: "As Strippers Zumbi. Zombie Strippers! (USA, 2008). Dirigido por Jay Lee. Escrito por Jay Lee. Com Jenna Jameson, Robert Englund, Roxy Saint, Penny Vital, Whitney Anderson, Jennifer Holland, Shamron Moore, Jeannette Sousa, Carmit Levité."
 ---
 Até um filme amador com a premissa de strippers que são infectadas por um vírus desenvolvido pelo governo Bush e que transforma pessoas em zumbis pode ter algo de bom. E há. Em determinado momento da "trama", uma zumbi que lê Nietche (!) se lembra de um momento em que dormia em cima da neve e observada as estrelas. Agora, já morta, se considerava parte daquele universo inanimado e infinito, e tudo fazia sentido agora. Essa passagem tão existencialista e profunda parece destacada de todo o resto do recheio de zumbis mal-formados, danças eróticas com peitos lambuzados de sangue e muita violência exacerbada e sem sentido. Mesmo assim, naquele porão sujo e mal iluminado onde as meninas realizam suas danças por uns trocados fáceis, parece coisa de gênio.
 

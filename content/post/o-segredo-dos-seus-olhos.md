@@ -1,25 +1,10 @@
 ---
-date: "2011-06-26"
 imdb: "1305806"
+date: "2011-06-26"
+categories: "movies"
 title: "O Segredo dos Seus Olhos"
 stars: "5/5"
-categories: "movies"
-_title: "El secreto de sus ojos"
-_year: "2009"
-_director: ["Juan José Campanella", ]
-_writer: ["Eduardo Sacheri", "Juan José Campanella", "Eduardo Sacheri", ]
-_cast: ["Soledad Villamil", "Ricardo Darín", "Carla Quevedo", "Pablo Rago", "Javier Godino", "Bárbara Palladino", "Rudy Romano", "Alejandro Abelenda", "Mario Alarcón", ]
-_countries: ["Argentina", ]
-_languages: ["Spanish", ]
-_editor: ["Juan José Campanella", ]
-_cinematographer: ["Félix Monti", ]
-_music: ["Federico Jusid", "Emilio Kauderer", ]
-_genres: ["Drama", ]
-_runtimes: ["129", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTgwNTI3OTczOV5BMl5BanBnXkFtZTcwMTM3MTUyMw@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTgwNTI3OTczOV5BMl5BanBnXkFtZTcwMTM3MTUyMw@@._V1._SX95_SY140_.jpg"
+desc: "O Segredo dos Seus Olhos. El secreto de sus ojos (Argentina, 2009). Dirigido por Juan José Campanella. Escrito por Eduardo Sacheri, Juan José Campanella, Eduardo Sacheri. Com Soledad Villamil, Ricardo Darín, Carla Quevedo, Pablo Rago, Javier Godino, Bárbara Palladino, Rudy Romano, Alejandro Abelenda, Mario Alarcón."
 ---
 Juan José Campanella (O Filho da Noiva, Clube da Lua) mostra como um roteiro bem escrito e uma direção impecável conseguem apresentar duas tramas entrecortadas de uma maneira tão fluida e transparente que, no fundo, parece que estamos assistindo a uma única história. Como se fosse pouco, a narrativa se desenvolve alternando um presente e um passado separados por mais de 25 anos. Em uma obra com tantas virtudes, acompanhar a evolução do personagem de Ricardo Darín (Un Cuento Chino) através desses dois momentos em sua vida é mais um bônus nesse filme que merece ser assistido por muitas e muitas vezes.
 

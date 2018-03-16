@@ -1,25 +1,10 @@
 ---
-date: "2011-11-17"
 imdb: "1671496"
+date: "2011-11-17"
+categories: "movies"
 title: "Se Não Nós Quem?"
 stars: "3/5"
-categories: "movies"
-_title: "Wer wenn nicht wir"
-_year: "2011"
-_director: ["Andres Veiel", ]
-_writer: ["Gerd Koenen", "Andres Veiel", ]
-_cast: ["August Diehl", "Lena Lauzemis", "Alexander Fehling", "Thomas Thieme", "Imogen Kogge", "Michael Wittenborn", "Susanne Lothar", "Sebastian Blomberg", "Vicky Krieps", ]
-_countries: ["Germany", ]
-_languages: ["German", ]
-_editor: ["Hansjörg Weißbrich", ]
-_cinematographer: ["Judith Kaufmann", ]
-_music: ["Annette Focks", ]
-_genres: ["Biography", ]
-_runtimes: ["124", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjIwMDg3NDIzMl5BMl5BanBnXkFtZTcwNzEzMTg3OA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjIwMDg3NDIzMl5BMl5BanBnXkFtZTcwNzEzMTg3OA@@._V1._SX99_SY140_.jpg"
+desc: "Se Não Nós Quem?. Wer wenn nicht wir (Germany, 2011). Dirigido por Andres Veiel. Escrito por Gerd Koenen, Andres Veiel. Com August Diehl, Lena Lauzemis, Alexander Fehling, Thomas Thieme, Imogen Kogge, Michael Wittenborn, Susanne Lothar, Sebastian Blomberg, Vicky Krieps."
 ---
 Na primeira cena do filme, vemos um gato comendo um filhote que põe o ninho muito baixo. Logo depois, um menino tenta esconder o gato. Na visão de seu pai, o gato é o judeu do mundo animal, e deve ser eliminado sem dó.
 

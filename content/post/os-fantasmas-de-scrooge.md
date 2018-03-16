@@ -1,25 +1,10 @@
 ---
-date: "2011-03-21"
 imdb: "1067106"
+date: "2011-03-21"
+categories: "movies"
 title: "Os Fantasmas de Scrooge"
 stars: "4/5"
-categories: "movies"
-_title: "A Christmas Carol"
-_year: "2009"
-_director: ["Robert Zemeckis", ]
-_writer: ["Charles Dickens", "Robert Zemeckis", ]
-_cast: ["Jim Carrey", "Steve Valentine", "Daryl Sabara", "Sage Ryan", "Amber Gainey Meade", "Ryan Ochoa", "Bobbi Page", "Ron Bottitta", "Sammi Hanratty", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Jeremiah O'Driscoll", ]
-_cinematographer: ["Robert Presley", ]
-_music: ["Alan Silvestri", ]
-_genres: ["Animation", ]
-_runtimes: ["96", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTM1MTI5ODU4MV5BMl5BanBnXkFtZTcwNTYyNTU4Mg@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTM1MTI5ODU4MV5BMl5BanBnXkFtZTcwNTYyNTU4Mg@@._V1._SX95_SY140_.jpg"
+desc: "Os Fantasmas de Scrooge. A Christmas Carol (USA, 2009). Dirigido por Robert Zemeckis. Escrito por Charles Dickens, Robert Zemeckis. Com Jim Carrey, Steve Valentine, Daryl Sabara, Sage Ryan, Amber Gainey Meade, Ryan Ochoa, Bobbi Page, Ron Bottitta, Sammi Hanratty."
 ---
 Jim Carrey em Motion Capture é, em poucas palavras, inusitadamente fabuloso. O trabalho feito em seu personagem, protagonista do clássico conto de Charles Dickens, que se mantém homônimo no título original, é, de longe, um trabalho rebuscado tanto nas expressões quanto nos movimentos do boneco através dos cenários igualmente trabalhados à exaustão.
 

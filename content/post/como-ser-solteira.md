@@ -1,27 +1,11 @@
 ---
+tags: ['paulocoelho']
+imdb: "1292566"
 date: "2016-11-17"
 categories: "movies"
 title: "Como Ser Solteira"
-imdb: "1292566"
 stars: "4/5"
-tags: ['paulocoelho']
-_title: "How to Be Single"
-_year: "2016"
-_director: ["Christian Ditter", ]
-_writer: ["Abby Kohn", "Marc Silverstein", "Dana Fox", "Liz Tuccillo", ]
-_cast: ["Dakota Johnson (Alice)", "Rebel Wilson (Robin)", "Leslie Mann (Meg)", "Damon Wayans Jr. (David)", "Anders Holm (Tom)", "Alison Brie (Lucy)", "Nicholas Braun (Josh)", "Jake Lacy (Ken)", "Jason Mantzoukas (George)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Tia Nolan", ]
-_cinematographer: ["Christian Rein", ]
-_music: ["Fil Eisler", ]
-_costume designer: ["Leah Katznelson", ]
-_genres: ["Comedy", ]
-_runtimes: ["110", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNzI4MDMwMzUwNF5BMl5BanBnXkFtZTgwMDgyNzkyNzE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNzI4MDMwMzUwNF5BMl5BanBnXkFtZTgwMDgyNzkyNzE@._V1._SX94_SY140_.jpg"
+desc: "Como Ser Solteira. How to Be Single (USA, 2016). Dirigido por Christian Ditter. Escrito por Abby Kohn, Marc Silverstein, Dana Fox, Liz Tuccillo. Com Dakota Johnson (Alice), Rebel Wilson (Robin), Leslie Mann (Meg), Damon Wayans Jr. (David), Anders Holm (Tom), Alison Brie (Lucy), Nicholas Braun (Josh), Jake Lacy (Ken), Jason Mantzoukas (George)."
 ---
 É cada vez melhor a surpresa com relação a comédias românticas (ou apenas comédias) protagonizadas por mulheres. O universo feminino independente do masculino estava escondido por gerações, mas hoje, no formato de uma sociedade que cada vez mais reconhece o direito da mulher de se divertir tanto quanto os homens, está a cada dia causando no Cinema resultados positivos, da mesma forma com que o universo masculino muitas vezes é representado (vide o último filme de Richard Linklater, "Jovens, Loucos e Mais Rebeldes") sem ressalvas pelo machismo e a quem isso possa doer. Ele existe. Assim como mulheres que transam por 100% de prazer e 0% de comprometimento.
 

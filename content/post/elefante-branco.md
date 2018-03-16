@@ -1,25 +1,10 @@
 ---
-date: "2013-02-06"
 imdb: "2132324"
+date: "2013-02-06"
+categories: "movies"
 title: "Elefante Branco"
 stars: "4/5"
-categories: "movies"
-_title: "Elefante blanco"
-_year: "2012"
-_director: ["Pablo Trapero", ]
-_writer: ["Alejandro Fadel", "Martín Mauregui", "Santiago Mitre", "Pablo Trapero", ]
-_cast: ["Ricardo Darín", "Jérémie Renier", "Martina Gusman", "Miguel Arancibia", "Federico Barga", "Esteban Díaz", "Pablo Gatti", "Walter Jakob", "Raul Ramos", ]
-_countries: ["Argentina", ]
-_languages: ["Spanish", ]
-_editor: ["Andrés P. Estrada", "Nacho Ruiz Capillas", "Pablo Trapero", ]
-_cinematographer: ["Guillermo Nieto", ]
-_music: ["Michael Nyman", ]
-_genres: ["Drama", ]
-_runtimes: ["105", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTM5MjQzMDkyM15BMl5BanBnXkFtZTcwMjczMjk2Nw@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTM5MjQzMDkyM15BMl5BanBnXkFtZTcwMjczMjk2Nw@@._V1._SX100_SY140_.jpg"
+desc: "Elefante Branco. Elefante blanco (Argentina, 2012). Dirigido por Pablo Trapero. Escrito por Alejandro Fadel, Martín Mauregui, Santiago Mitre, Pablo Trapero. Com Ricardo Darín, Jérémie Renier, Martina Gusman, Miguel Arancibia, Federico Barga, Esteban Díaz, Pablo Gatti, Walter Jakob, Raul Ramos."
 ---
 Novo filme do diretor Pablo Trapero (Abutres) traça na rotina das pessoas que ajudam uma favela a construir moradias dignas para seus habitantes um panorama fiel não apenas dos moradores  acostumados a viver às margens de uma sociedade que escolheu convenientemente ignorá-los em um terreno delimitado  mas da sociedade como um todo. E os que não são mostrados no filme obviamente são os que ignoram essa triste realidade.
 

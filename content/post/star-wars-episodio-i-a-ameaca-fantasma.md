@@ -1,25 +1,10 @@
 ---
-date: "2011-05-27"
 imdb: "0120915"
+date: "2011-05-27"
+categories: "movies"
 title: "Star Wars Episódio I A Ameaça Fantasma"
 stars: "3/5"
-categories: "movies"
-_title: "Star Wars: Episode I - The Phantom Menace"
-_year: "1999"
-_director: ["George Lucas", ]
-_writer: ["George Lucas", ]
-_cast: ["Liam Neeson", "Ewan McGregor", "Natalie Portman", "Jake Lloyd", "Ian McDiarmid", "Pernilla August", "Oliver Ford Davies", "Hugh Quarshie", "Ahmed Best", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Ben Burtt", "Paul Martin Smith", ]
-_cinematographer: ["David Tattersall", ]
-_music: ["John Williams", ]
-_genres: ["Action", ]
-_runtimes: ["136", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQ4NjEwNDA2Nl5BMl5BanBnXkFtZTcwNDUyNDQzNw@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQ4NjEwNDA2Nl5BMl5BanBnXkFtZTcwNDUyNDQzNw@@._V1._SX94_SY140_.jpg"
+desc: "Star Wars Episódio I A Ameaça Fantasma. Star Wars: Episode I - The Phantom Menace (USA, 1999). Dirigido por George Lucas. Escrito por George Lucas. Com Liam Neeson, Ewan McGregor, Natalie Portman, Jake Lloyd, Ian McDiarmid, Pernilla August, Oliver Ford Davies, Hugh Quarshie, Ahmed Best."
 ---
 Quando se mexe com algo sagrado como a trilogia clássica de Star Wars ou alguém está produzindo uma sátira ou essa pessoa é George Lucas. Por mais que os fãs apontem defeitos e/ou sugestões, o Criador da saga sempre teve palavra final. Portanto, não é de se admirar que a nova trilogia comece com seu roteiro, direção, e autoridade.
 

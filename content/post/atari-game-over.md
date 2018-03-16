@@ -1,23 +1,10 @@
 ---
-date: "2015-12-13"
 imdb: "3715406"
-stars: "4/5"
+date: "2015-12-13"
 categories: "movies"
 title: "Atari: Game Over"
-_title: "Atari: Game Over"
-_year: "2014"
-_director: ["Zak Penn", ]
-_cast: ["Zak Penn", "Joe Lewandowski", "Robert Rentschler", "Paul Sanchez", "Manny Gerard", "Nolan Bushnell", "Seamus Blackley", "Howard Scott Warshaw", "Son Huffmon", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Andrew Seklir", ]
-_cinematographer: ["Eric Zimmerman", ]
-_music: ["Stephen Endelman", "Stephen Endelman", ]
-_genres: ["Documentary", ]
-_runtimes: ["66", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTkzMTE4MDUxNV5BMl5BanBnXkFtZTgwOTMyOTMzMjE@.jpg"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTkzMTE4MDUxNV5BMl5BanBnXkFtZTgwOTMyOTMzMjE@._V1._SX94_SY140_.jpg"
+stars: "4/5"
+desc: "Atari: Game Over. Atari: Game Over (USA, 2014). Dirigido por Zak Penn. Com Zak Penn, Joe Lewandowski, Robert Rentschler, Paul Sanchez, Manny Gerard, Nolan Bushnell, Seamus Blackley, Howard Scott Warshaw, Son Huffmon."
 ---
 Esse é o tipo de filme que teria tudo para ser inútil, superestimado pelos fãs e um desastre completo, pois possui poucos elementos realmente interessantes nele: temos o Atari, o E.T. e Indiana Jones, coisas totalmente desconexas, além de pouco conteúdo para um filme inteiro. Isso não fosse o trabalho fascinante de "desarquivamento" do filme que une mídia, a empresa Atari, os programadores, os fãs e os dois responsáveis por "desencavar" essa história, e temos como resultado um possível clássico daqui a cinquenta anos -- quem apostaria? -- já que ele estabelece um universo e uma lenda que dificilmente existirão novamente; nunca na geração única dos primeiros players caseiros: uma empresa à beira da falência enterra milhões de cartuchos de seus jogos no aterro da cidade.
 

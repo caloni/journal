@@ -1,22 +1,10 @@
 ---
-date: "2012-11-01"
-title: "Os Visitantes"
 imdb: "2208192"
-stars: "4/5"
+date: "2012-11-01"
 categories: "movies"
-_title: "Die Besucher"
-_year: "2012"
-_director: ["Constanze Knoche", ]
-_writer: ["Leis Bagdach", "Constanze Knoche", ]
-_cast: ["Uwe Kockisch", "Corinna Kirchhoff", "Anjorka Strechel", "Anne Müller", "Jakob Diehl", "Irina Potapenko", "Bernhard Schütz", "Andreas Leupold", "Janusz Kocaj", ]
-_countries: ["Germany", ]
-_languages: ["German", ]
-_editor: ["Kai Minierski", ]
-_cinematographer: ["Kirsten Weingarten", ]
-_genres: ["Drama", ]
-_runtimes: ["88", ]
-_ratio: "1.85 : 1"
-_kind: "movie"
+title: "Os Visitantes"
+stars: "4/5"
+desc: "Os Visitantes. Die Besucher (Germany, 2012). Dirigido por Constanze Knoche. Escrito por Leis Bagdach, Constanze Knoche. Com Uwe Kockisch, Corinna Kirchhoff, Anjorka Strechel, Anne Müller, Jakob Diehl, Irina Potapenko, Bernhard Schütz, Andreas Leupold, Janusz Kocaj."
 ---
 Os Visitantes é o primeiro longa do alemão Contudo Knoche e talvez por disso mesmo com o tema dramático possui uma leveza e ingenuidade que o torna particularmente cômico. Iniciando com a visita inesperada do pai Jacob (Uwe Kockisch) aos seus três filhos Arnolt, Sonni e Karla (Jakob Diehl, Anne Müller e Anjorka Strechel), o atípico convívio com eles é usado para desvendar mais sobre aquelas pessoas do que sobre a visita em si. (Note como apenas os primeiros nomes são usados, levando automaticamente nossa relação com os personagens a um nível familiar.)
 

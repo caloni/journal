@@ -1,28 +1,11 @@
 ---
-imdb: "5859238"
-stars: "5/5"
 tags: ['cabine']
+imdb: "5859238"
 date: 2017-12-07T00:17:31
-title: "Lucky"
 categories: "movies"
-_title: "Lucky"
-_year: "2017"
-_director: ["John Carroll Lynch", ]
-_writer: ["Logan Sparks", "Drago Sumonja", ]
-_cast: ["Harry Dean Stanton (Lucky)", "David Lynch (Howard)", "Ron Livingston (Bobby Lawrence)", "Ed Begley Jr. (Dr. Christian Kneedler)", "Tom Skerritt (Fred)", "Beth Grant (Elaine)", "James Darren (Paulie)", "Barry Shabaka Henley (Joe)", "Yvonne Huff (Loretta)"  ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Robert Gajic", ]
-_cinematographer: ["Tim Suhrstedt", ]
-_music: ["Elvis Kuehn", ]
-_costume designer: ["Lisa Norcia", ]
-_genres: ["Drama", ]
-_runtimes: ["88", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNzkyMDY0NDItYzY0NC00YjQ1LTkzOTYtMjE1NWEwM2NmZGU1XkEyXkFqcGdeQXVyNTEzNDk3NDc@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNzkyMDY0NDItYzY0NC00YjQ1LTkzOTYtMjE1NWEwM2NmZGU1XkEyXkFqcGdeQXVyNTEzNDk3NDc@._V1._SX95_SY140_.jpg"
-_releasedate: "7 December 2017"
+title: "Lucky"
+stars: "5/5"
+desc: "Lucky. Lucky (USA, 2017). Dirigido por John Carroll Lynch. Escrito por Logan Sparks, Drago Sumonja. Com Harry Dean Stanton (Lucky), David Lynch (Howard), Ron Livingston (Bobby Lawrence), Ed Begley Jr. (Dr. Christian Kneedler), Tom Skerritt (Fred), Beth Grant (Elaine), James Darren (Paulie), Barry Shabaka Henley (Joe), Yvonne Huff (Loretta)."
 ---
 No princípio não havia nada. E é pra lá que estamos indo todos nós. Viemos sozinhos e vamos para lá sozinhos. Mas eu disse sozinhos, não solitários.
 

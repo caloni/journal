@@ -1,25 +1,10 @@
 ---
-date: "2016-01-07"
 imdb: "0067824"
-stars: "3/5"
+date: "2016-01-07"
 categories: "movies"
 title: "O Dragão Chinês"
-_title: "Tang shan da xiong"
-_year: "1971"
-_director: ["Wei Lo", "Chia-Hsiang Wu", ]
-_writer: ["Wei Lo", ]
-_cast: ["Bruce Lee", "Maria Yi", "James Tien", "Marilyn Bautista", "Ying-Chieh Han", "Tony Liu", "Kun Li", "Nora Miao", "Shan Chin", ]
-_countries: ["Hong Kong", ]
-_languages: ["Mandarin", ]
-_editor: ["Ming Sung", ]
-_cinematographer: ["Ching-Chu Chen", ]
-_music: ["Peter Thomas", "Fu-Ling Wang", ]
-_genres: ["Action", ]
-_runtimes: ["100", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjEyODA1ODAzNF5BMl5BanBnXkFtZTYwNjYzNTU5.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjEyODA1ODAzNF5BMl5BanBnXkFtZTYwNjYzNTU5._V1._SX99_SY140_.jpg"
+stars: "3/5"
+desc: "O Dragão Chinês. Tang shan da xiong (Hong Kong, 1971). Dirigido por Wei Lo, Chia-Hsiang Wu. Escrito por Wei Lo. Com Bruce Lee, Maria Yi, James Tien, Marilyn Bautista, Ying-Chieh Han, Tony Liu, Kun Li, Nora Miao, Shan Chin."
 ---
 The Big Boss, ou O Dragão Chinês (??), é um dos primeiros filmes de Bruce Lee no estilo Hollywoodiano, mas que mantém uma estrutura típica dos filmes de artes marciais: subir em escala até atingir o chefão.
 

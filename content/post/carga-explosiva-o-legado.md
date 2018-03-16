@@ -1,28 +1,11 @@
 ---
-date: "2015-09-04"
-tags: [ "cabine" ]
+tags: ['cabine']
 imdb: "2938956"
-stars: "3/5"
+date: "2015-09-04"
 categories: "movies"
 title: "Carga Explosiva: o Legado"
-_title: "The Transporter Refueled"
-_year: "2015"
-_director: ["Camille Delamarre", ]
-_writer: ["Adam Cooper", "Bill Collage", "Luc Besson", "Luc Besson", "Robert Mark Kamen", ]
-_cast: ["Ed Skrein", "Ray Stevenson", "Loan Chabanol", "Gabriella Wright", "Tatiana Pajkovic", "Wenxia Yu", "Radivoje Bukvic", "Noémie Lenoir", "Yuri Kolokolnikov", ]
-_countries: ["France", ]
-_languages: ["English", ]
-_editor: ["Julien Rey", ]
-_cinematographer: ["Christophe Collette", ]
-_music: ["Alexandre Azaria", ]
-_artdirection: ["Gilles Boillot", "Dominique Moisan", "Stéphane Robuchon", "Thierry Zemmour", ]
-_costume designer: ["Claire Lacaze", ]
-_genres: ["Action", ]
-_runtimes: ["96", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjAyMDE2ODU3Ml5BMl5BanBnXkFtZTgwODU0MTA0NjE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjAyMDE2ODU3Ml5BMl5BanBnXkFtZTgwODU0MTA0NjE@._V1._SX94_SY140_.jpg"
+stars: "3/5"
+desc: "Carga Explosiva: o Legado. The Transporter Refueled (France, 2015). Dirigido por Camille Delamarre. Escrito por Adam Cooper, Bill Collage, Luc Besson, Luc Besson, Robert Mark Kamen. Com Ed Skrein, Ray Stevenson, Loan Chabanol, Gabriella Wright, Tatiana Pajkovic, Wenxia Yu, Radivoje Bukvic, Noémie Lenoir, Yuri Kolokolnikov."
 ---
 Não acompanho a série Carga Explosiva, mas é possível ver em "O Legado" alguns elementos semelhantes com "Duro de Matar: Um Bom Dia para Morrer" e "Indiana Jones e a Última Cruzada", e este elemento é: a relação pai e filho do protagonista.
 

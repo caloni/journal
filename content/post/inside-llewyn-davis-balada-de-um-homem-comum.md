@@ -1,24 +1,10 @@
 ---
-date: "2014-03-24"
 imdb: "2042568"
+date: "2014-03-24"
+categories: "movies"
 title: "Inside Llewyn Davis Balada de Um Homem Comum"
 stars: "5/5"
-categories: "movies"
-_title: "Inside Llewyn Davis"
-_year: "2013"
-_director: ["Ethan Coen", "Joel Coen", ]
-_writer: ["Joel Coen", "Ethan Coen", ]
-_cast: ["Oscar Isaac", "Carey Mulligan", "Justin Timberlake", "Ethan Phillips", "Robin Bartlett", "Max Casella", "Jerry Grayson", "Jeanine Serralles", "Adam Driver", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Ethan Coen", "Joel Coen", ]
-_cinematographer: ["Bruno Delbonnel", ]
-_genres: ["Drama", ]
-_runtimes: ["104", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjAxNjcyNDQxM15BMl5BanBnXkFtZTgwNzU2NDA0MDE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjAxNjcyNDQxM15BMl5BanBnXkFtZTgwNzU2NDA0MDE@._V1._SX91_SY140_.jpg"
+desc: "Inside Llewyn Davis Balada de Um Homem Comum. Inside Llewyn Davis (USA, 2013). Dirigido por Ethan Coen, Joel Coen. Escrito por Joel Coen, Ethan Coen. Com Oscar Isaac, Carey Mulligan, Justin Timberlake, Ethan Phillips, Robin Bartlett, Max Casella, Jerry Grayson, Jeanine Serralles, Adam Driver."
 ---
 Os irmãos Coen (Onde os Fracos não Têm Vez, Fargo) são mestres em contar histórias prosaicas e mergulhar fundo nas sensações que estas geram, sempre de uma forma estilizada e com uma fotografia impecável (Bravura Indômita, O Grande Lebowski) que evoque o ambiente onde se situa a ação. Esse "Inside Llewyn Davis - Balada de Um Homem Comum" não foge à regra e se torna a partir da transformação em ficção da nada incomum história do músico folk Dave Van Ronk um verdadeiro estudo de personagem.
 

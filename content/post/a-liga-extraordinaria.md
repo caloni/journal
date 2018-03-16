@@ -1,25 +1,10 @@
 ---
-date: "2012-01-01"
 imdb: "0311429"
+date: "2012-01-01"
+categories: "movies"
 title: "A Liga Extraordinária"
 stars: "1/5"
-categories: "movies"
-_title: "The League of Extraordinary Gentlemen"
-_year: "2003"
-_director: ["Stephen Norrington", ]
-_writer: ["Alan Moore", "Kevin O'Neill", "James Robinson", ]
-_cast: ["Sean Connery", "Naseeruddin Shah", "Peta Wilson", "Tony Curran", "Stuart Townsend", "Shane West", "Jason Flemyng", "Richard Roxburgh", "Max Ryan", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Paul Rubell", ]
-_cinematographer: ["Dan Laustsen", ]
-_music: ["Trevor Jones", ]
-_genres: ["Action", ]
-_runtimes: ["110", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTgwMDUxOTg2M15BMl5BanBnXkFtZTcwOTAyODUyMw@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTgwMDUxOTg2M15BMl5BanBnXkFtZTcwOTAyODUyMw@@._V1._SX96_SY140_.jpg"
+desc: "A Liga Extraordinária. The League of Extraordinary Gentlemen (USA, 2003). Dirigido por Stephen Norrington. Escrito por Alan Moore, Kevin O'Neill, James Robinson. Com Sean Connery, Naseeruddin Shah, Peta Wilson, Tony Curran, Stuart Townsend, Shane West, Jason Flemyng, Richard Roxburgh, Max Ryan."
 ---
 O filme pretende contar a história de pessoas que, dotadas de alguma capacidade especial para sobreviver, são reunidos pelo Império Britânico para tentar evitar que seja instaurada uma possível guerra mundial, tentativas de um ganancioso sujeito que usa uma máscara e simula ataque entre nações. Isso na virada para o século XX em uma Era Vitoriana alternativa.
 

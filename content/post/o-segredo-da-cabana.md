@@ -1,25 +1,10 @@
 ---
-date: "2014-11-28"
 imdb: "1259521"
+date: "2014-11-28"
+categories: "movies"
 title: "O Segredo da Cabana"
 stars: "4/5"
-categories: "movies"
-_title: "The Cabin in the Woods"
-_year: "2012"
-_director: ["Drew Goddard", ]
-_writer: ["Joss Whedon", "Drew Goddard", ]
-_cast: ["Kristen Connolly", "Chris Hemsworth", "Anna Hutchison", "Fran Kranz", "Jesse Williams", "Richard Jenkins", "Bradley Whitford", "Brian White", "Amy Acker", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Lisa Lassek", ]
-_cinematographer: ["Peter Deming", ]
-_music: ["David Julyan", ]
-_genres: ["Horror", ]
-_runtimes: ["95", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNTUxNzYyMjg2N15BMl5BanBnXkFtZTcwMTExNzExNw@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNTUxNzYyMjg2N15BMl5BanBnXkFtZTcwMTExNzExNw@@._V1._SX94_SY140_.jpg"
+desc: "O Segredo da Cabana. The Cabin in the Woods (USA, 2012). Dirigido por Drew Goddard. Escrito por Joss Whedon, Drew Goddard. Com Kristen Connolly, Chris Hemsworth, Anna Hutchison, Fran Kranz, Jesse Williams, Richard Jenkins, Bradley Whitford, Brian White, Amy Acker."
 ---
 Há uma inversão de expectativas interessantíssima em O Segredo da Cabana, primeiro longa de Drew Goddard e escrito em parceria com Joss Whedon (sim, o cara dos Vingadores). Desde o começo (e por isso não conta como spoiler) enxergamos a velha história de terror e suspense dos jovens que vão passar o fim-de-semana em uma cabana na floresta como um ritual minuciosamente planejado por apáticos funcionários de uma organização aparentemente presente no mundo todo. O motivo? O mesmo que existe nesses filmes: aplacar a sede de vingança de espíritos, ou a força sobrenatural de zumbis, ou uma maldição fantasmagórica. Simplesmente escolha a sua.
 

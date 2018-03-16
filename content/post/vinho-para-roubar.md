@@ -1,26 +1,10 @@
 ---
-date: "2016-03-18"
 imdb: "2625270"
-stars: "2/5"
+date: "2016-03-18"
 categories: "movies"
 title: "Vinho para Roubar"
-_title: "Vino Para Robar"
-_year: "2013"
-_director: ["Ariel Winograd", ]
-_writer: ["Adrián Garelik", ]
-_cast: ["Daniel Hendler", "Valeria Bertuccelli", "Martín Piroyansky", "Pablo Rago", "Juan Leyrado", "Mario Alarcón", "Alan Sabbagh", "Luis Sagasti", "Esteban Balbi", ]
-_countries: ["Argentina", ]
-_languages: ["Spanish", ]
-_editor: ["Francisco Freixa", ]
-_cinematographer: ["Ricardo DeAngelis", ]
-_music: ["Dario Eskenazi", ]
-_artdirection: ["Juan Cavia", "Walter Cornás", ]
-_costume designer: ["Mónica Toschi", ]
-_genres: ["Comedy", ]
-_runtimes: ["105", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNjAwMTc2NWEtYzg1Yi00NTU5LTgwOGUtODAzMTU5MTIxYTc3XkEyXkFqcGdeQXVyMTk0NDExMTM@.jpg"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNjAwMTc2NWEtYzg1Yi00NTU5LTgwOGUtODAzMTU5MTIxYTc3XkEyXkFqcGdeQXVyMTk0NDExMTM@._V1._SX100_SY128_.jpg"
+stars: "2/5"
+desc: "Vinho para Roubar. Vino Para Robar (Argentina, 2013). Dirigido por Ariel Winograd. Escrito por Adrián Garelik. Com Daniel Hendler, Valeria Bertuccelli, Martín Piroyansky, Pablo Rago, Juan Leyrado, Mario Alarcón, Alan Sabbagh, Luis Sagasti, Esteban Balbi."
 ---
 Esse filme argentino segue a cartilha do gênero "Onze Homens e um Segredo" e "Missão Impossível". Porém, com baixo orçamento, apresenta um romance para preencher as lacunas dos efeitos visuais, além de personagens agradáveis, mas quase invisíveis. Os filmes argentinos, bons ou ruins, nunca pecam pela falta de charme. No entanto, ao usar a abordagem hollywoodiana, assume o risco de perder até isso.
 

@@ -1,25 +1,10 @@
 ---
-date: "2012-03-27"
 imdb: "0083798"
+date: "2012-03-27"
+categories: "movies"
 title: "Cliente Morto Não Paga"
 stars: "4/5"
-categories: "movies"
-_title: "Dead Men Don't Wear Plaid"
-_year: "1982"
-_director: ["Carl Reiner", ]
-_writer: ["Carl Reiner", "George Gipe", "Steve Martin", ]
-_cast: ["Steve Martin", "Rachel Ward", "Alan Ladd", "Carl Reiner", "Barbara Stanwyck", "Ray Milland", "Ava Gardner", "Burt Lancaster", "Humphrey Bogart", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Bud Molin", ]
-_cinematographer: ["Michael Chapman", ]
-_music: ["Miklós Rózsa", ]
-_genres: ["Comedy", ]
-_runtimes: ["88", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTU4Njg2OTU4Nl5BMl5BanBnXkFtZTcwMjkwNzUyMQ@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTU4Njg2OTU4Nl5BMl5BanBnXkFtZTcwMjkwNzUyMQ@@._V1._SX98_SY140_.jpg"
+desc: "Cliente Morto Não Paga. Dead Men Don't Wear Plaid (USA, 1982). Dirigido por Carl Reiner. Escrito por Carl Reiner, George Gipe, Steve Martin. Com Steve Martin, Rachel Ward, Alan Ladd, Carl Reiner, Barbara Stanwyck, Ray Milland, Ava Gardner, Burt Lancaster, Humphrey Bogart."
 ---
 O filme começa com um horizonte de papelão e com uma chuva mais falsa que o próprio horizonte: está pronta referência dos filmes noir, gênero clássico que mistura um clima opressivo, uma fotografia escura e um detetive desiludido apaixonado por uma estereotipada femme-fatale. Nesse caso, o detetive é Steve Martin, que quando é enfocado pela primeira vez dispensa explicações sobre o teor cômico do filme: inebriado pelo tom solene dos filmes que homenageia, o detetive Rigby Reardon parece não perceber que é uma caricatura de ícones da história do cinema, que reencarnavam o mesmo personagem, mas sem sua desenvoltura cômica.
 

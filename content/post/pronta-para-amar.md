@@ -1,25 +1,10 @@
 ---
-date: "2011-09-21"
 imdb: "1440161"
+date: "2011-09-21"
+categories: "movies"
 title: "Pronta Para Amar"
 stars: "3/5"
-categories: "movies"
-_title: "A Little Bit of Heaven"
-_year: "2011"
-_director: ["Nicole Kassell", ]
-_writer: ["Gren Wells", ]
-_cast: ["Kate Hudson", "Gael García Bernal", "Kathy Bates", "Lucy Punch", "Romany Malco", "Rosemarie DeWitt", "Whoopi Goldberg", "Treat Williams", "Steven Weber", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Stephen A. Rotter", ]
-_cinematographer: ["Russell Carpenter", ]
-_music: ["Heitor Pereira", ]
-_genres: ["Comedy", ]
-_runtimes: ["USA:106", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNzY1MDkzMTc0NF5BMl5BanBnXkFtZTcwODc5NDU1Nw@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNzY1MDkzMTc0NF5BMl5BanBnXkFtZTcwODc5NDU1Nw@@._V1._SX94_SY140_.jpg"
+desc: "Pronta Para Amar. A Little Bit of Heaven (USA, 2011). Dirigido por Nicole Kassell. Escrito por Gren Wells. Com Kate Hudson, Gael García Bernal, Kathy Bates, Lucy Punch, Romany Malco, Rosemarie DeWitt, Whoopi Goldberg, Treat Williams, Steven Weber."
 ---
 Nessa simpática comédia romântica que tenta fugir de vários clichês (não só do seu gênero), Kate Hudson encarna Marley, uma garota que teme relacionamentos mais que a morte (embora seja adepta do sexo casual), mas ao ser confrontada com esta ao descobrir ter um câncer incurável, resolve mudar radicalmente sua forma de viver, aproximando seus entes queridos, evitando encarar sua doença com seriedade e, quem sabe, conseguir um relacionamento com seu próprio médico.
 

@@ -1,28 +1,11 @@
 ---
+tags: ['cinema', '3d', 'oscar', 'dceu']
+imdb: "1386697"
 date: "2016-08-12"
 categories: "movies"
-imdb: "1386697"
-stars: "2/5"
 title: "Esquadrão Suicida"
-tags: ['cinema', '3d', 'oscar', 'dceu']
-_title: "Suicide Squad"
-_year: "2016"
-_director: ["David Ayer", ]
-_writer: ["David Ayer", "John Ostrander", ]
-_cast: ["Will Smith", "Jaime FitzSimons", "Ike Barinholtz", "Margot Robbie", "Christopher Dyson", "Bambadjan Bamba", "Viola Davis", "Ted Whittall", "David Harbour", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["John Gilroy", ]
-_cinematographer: ["Roman Vasyanov", ]
-_music: ["Steven Price", ]
-_artdirection: ["Ravi Bansal", "Greg Berry", "Brandt Gordon", "Aleksandra Marinkovich", "Eric Víquez", "Colin Woods", ]
-_costume designer: ["Kate Hawley", ]
-_genres: ["Action", ]
-_runtimes: ["123", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjM1OTMxNzUyM15BMl5BanBnXkFtZTgwNjYzMTIzOTE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjM1OTMxNzUyM15BMl5BanBnXkFtZTgwNjYzMTIzOTE@._V1._SX94_SY140_.jpg"
+stars: "2/5"
+desc: "Esquadrão Suicida. Suicide Squad (USA, 2016). Dirigido por David Ayer. Escrito por David Ayer, John Ostrander. Com Will Smith, Jaime FitzSimons, Ike Barinholtz, Margot Robbie, Christopher Dyson, Bambadjan Bamba, Viola Davis, Ted Whittall, David Harbour."
 ---
 As músicas deste filme faz com que o que ouvimos se torne infinitamente melhor do que o que vemos (e por "ver" eu quero dizer não só visualmente, mas as situações e os diálogos). Como prêmio de compensação, torna o pacote completo um pouquinho melhor.
 

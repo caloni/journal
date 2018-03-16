@@ -1,26 +1,10 @@
 ---
-date: "2015-11-30"
 imdb: "0790636"
-stars: "5/5"
+date: "2015-11-30"
 categories: "movies"
 title: "Clube de Compras Dallas"
-_title: "Dallas Buyers Club"
-_year: "2013"
-_director: ["Jean-Marc Vallée", ]
-_writer: ["Craig Borten", "Melisa Wallack", ]
-_cast: ["Matthew McConaughey", "Jennifer Garner", "Jared Leto", "Denis O'Hare", "Steve Zahn", "Michael O'Neill", "Dallas Roberts", "Griffin Dunne", "Kevin Rankin", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Martin Pensa", "Jean-Marc Vallée", ]
-_cinematographer: ["Yves Bélanger", ]
-_artdirection: ["Javiera Varas", ]
-_costume designer: ["Kurt and Bart", ]
-_genres: ["Biography", ]
-_runtimes: ["117", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTYwMTA4MzgyNF5BMl5BanBnXkFtZTgwMjEyMjE0MDE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTYwMTA4MzgyNF5BMl5BanBnXkFtZTgwMjEyMjE0MDE@._V1._SX94_SY140_.jpg"
+stars: "5/5"
+desc: "Clube de Compras Dallas. Dallas Buyers Club (USA, 2013). Dirigido por Jean-Marc Vallée. Escrito por Craig Borten, Melisa Wallack. Com Matthew McConaughey, Jennifer Garner, Jared Leto, Denis O'Hare, Steve Zahn, Michael O'Neill, Dallas Roberts, Griffin Dunne, Kevin Rankin."
 ---
 Nós, libertários, somos frequentemente acusados de não termos coração quando dizemos que as pessoas deveriam ser livres para buscar sua própria felicidade, mesmo que isso implique que os mais desafortunados tenham que se virar muito mais. No entanto, quando esse pensamento chega no sistema de patentes estadunidense, mais especificamente as drogas que tentam amenizar a dor e prolongar a vida de pessoas com HIV/AIDS, torna-se claro que a manipulação estatal nunca teve por princípio a busca da felicidade.
 

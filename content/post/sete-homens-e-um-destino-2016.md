@@ -1,28 +1,11 @@
 ---
+tags: ['cinema']
+imdb: "2404435"
 date: "2016-10-12"
 categories: "movies"
 title: "Sete Homens e um Destino"
-imdb: "2404435"
 stars: "3/5"
-tags: ['cinema']
-_title: "The Magnificent Seven"
-_year: "2016"
-_director: ["Antoine Fuqua", ]
-_writer: ["Akira Kurosawa", "Shinobu Hashimoto", "Hideo Oguni", "Nic Pizzolatto", "Richard Wenk", ]
-_cast: ["Denzel Washington (Chisolm)", "Chris Pratt (Josh Faraday)", "Ethan Hawke (Goodnight Robicheaux)", "Vincent D'Onofrio (Jack Horne)", "Byung-hun Lee (Billy Rocks)", "Manuel Garcia-Rulfo (Vasquez)", "Martin Sensmeier (Red Harvest)", "Haley Bennett (Emma Cullen)", "Peter Sarsgaard (Bartholomew Bogue)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["John Refoua", ]
-_cinematographer: ["Mauro Fiore", ]
-_music: ["Simon Franglen", "James Horner", ]
-_artdirection: ["Sean Ryan Jennings", "Leslie McDonald", ]
-_costume designer: ["Sharen Davis", ]
-_genres: ["Action", ]
-_runtimes: ["133", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUzNTc0NTAyM15BMl5BanBnXkFtZTgwMTk1ODA5OTE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUzNTc0NTAyM15BMl5BanBnXkFtZTgwMTk1ODA5OTE@._V1._SX95_SY140_.jpg"
+desc: "Sete Homens e um Destino. The Magnificent Seven (USA, 2016). Dirigido por Antoine Fuqua. Escrito por Akira Kurosawa, Shinobu Hashimoto, Hideo Oguni, Nic Pizzolatto, Richard Wenk. Com Denzel Washington (Chisolm), Chris Pratt (Josh Faraday), Ethan Hawke (Goodnight Robicheaux), Vincent D'Onofrio (Jack Horne), Byung-hun Lee (Billy Rocks), Manuel Garcia-Rulfo (Vasquez), Martin Sensmeier (Red Harvest), Haley Bennett (Emma Cullen), Peter Sarsgaard (Bartholomew Bogue)."
 ---
 Remake do clássico de Akira Kurosawa em 1960, série televisiva em 1998, e agora uma revisita muito bem-vinda à história da defesa dos fracos e oprimidos por matadores profissionais. Menos pela discussão da questão da honra dos sete homens do título; mais como lente de aumento das mudanças ocorridas nos EUA que o fizeram sair do título de país da liberdade para uma ditadura socialista em questão de décadas.
 

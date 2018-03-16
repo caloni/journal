@@ -1,26 +1,11 @@
 ---
-date: "2015-01-22"
 imdb: "2321549"
+date: "2015-01-22"
+categories: "movies"
 title: "The Babadook"
 stars: "5/5"
-categories: "movies"
-revision: [2015-09-27]
-_title: "The Babadook"
-_year: "2014"
-_director: ["Jennifer Kent", ]
-_writer: ["Jennifer Kent", ]
-_cast: ["Essie Davis", "Daniel Henshall", "Noah Wiseman", "Tim Purcell", "Tiffany Lyndall-Knight", "Michelle Nightingale", "Cathy Adamek", "Peta Shannon", "Hayley McElhinney", ]
-_countries: ["Australia", ]
-_languages: ["English", ]
-_editor: ["Simon Njoo", ]
-_cinematographer: ["Radek Ladczuk", ]
-_music: ["Jed Kurzel", ]
-_genres: ["Drama", ]
-_runtimes: ["93", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTk0NzMzODc2NF5BMl5BanBnXkFtZTgwOTYzNTM1MzE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTk0NzMzODc2NF5BMl5BanBnXkFtZTgwOTYzNTM1MzE@._V1._SX95_SY140_.jpg"
+revision: [datetime.date(2015, 9, 27)]
+desc: "The Babadook. The Babadook (Australia, 2014). Dirigido por Jennifer Kent. Escrito por Jennifer Kent. Com Essie Davis, Daniel Henshall, Noah Wiseman, Tim Purcell, Tiffany Lyndall-Knight, Michelle Nightingale, Cathy Adamek, Peta Shannon, Hayley McElhinney."
 ---
 É impressionante como tudo funciona em Babadook, e mais impressionante ainda sendo pertencente a um dos gêneros mais maltratados do Cinema atual no Ocidente: o Terror. Para tornar exponencial a minha surpresa, notei que a estrutura do filme é estupidamente simples e enxuta, se resumindo em pegar sua ótima premissa e desenvolvê-la ao máximo. Ainda é de brinde uma aula de Cinema.
 

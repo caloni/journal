@@ -1,25 +1,10 @@
 ---
-date: "2012-11-08"
 imdb: "1074638"
+date: "2012-11-08"
+categories: "movies"
 title: "007 Operação Skyfall"
 stars: "5/5"
-categories: "movies"
-_title: "Skyfall"
-_year: "2012"
-_director: ["Sam Mendes", ]
-_writer: ["Neal Purvis", "Robert Wade", "John Logan", "Ian Fleming", ]
-_cast: ["Daniel Craig", "Judi Dench", "Javier Bardem", "Ralph Fiennes", "Naomie Harris", "Bérénice Marlohe", "Albert Finney", "Ben Whishaw", "Rory Kinnear", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Stuart Baird", ]
-_cinematographer: ["Roger Deakins", ]
-_music: ["Thomas Newman", ]
-_genres: ["Action", ]
-_runtimes: ["143", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjAyODkzNDgzMF5BMl5BanBnXkFtZTcwMDMxMDI4Nw@@.jpg"
-_ratio: "1.90 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjAyODkzNDgzMF5BMl5BanBnXkFtZTcwMDMxMDI4Nw@@._V1._SX94_SY140_.jpg"
+desc: "007 Operação Skyfall. Skyfall (UK, 2012). Dirigido por Sam Mendes. Escrito por Neal Purvis, Robert Wade, John Logan, Ian Fleming. Com Daniel Craig, Judi Dench, Javier Bardem, Ralph Fiennes, Naomie Harris, Bérénice Marlohe, Albert Finney, Ben Whishaw, Rory Kinnear."
 ---
 Skyfall volta a abraçar a mitologia 007 criada em sua era clássica e ao mesmo tempo discute o futuro de um personagem retrô ? mas com estilo ? que mesmo 50 anos depois ainda consegue viver aventuras que apesar de conter ação descerebrada possui um fio condutor na história que mesmo não sendo original ou tendo momentos brilhantes ganha corpo pelo seu conjunto da obra.
 

@@ -1,27 +1,10 @@
 ---
-date: "2016-03-20"
 imdb: "1979320"
-stars: "4/5"
+date: "2016-03-20"
 categories: "movies"
 title: "Rush: No Limite da Emoção"
-_title: "Rush"
-_year: "2013"
-_director: ["Ron Howard", ]
-_writer: ["Peter Morgan", ]
-_cast: ["Chris Hemsworth", "Daniel Brühl", "Olivia Wilde", "Alexandra Maria Lara", "Pierfrancesco Favino", "David Calder", "Natalie Dormer", "Stephen Mangan", "Christian McKay", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Daniel P. Hanley", "Mike Hill", ]
-_cinematographer: ["Anthony Dod Mantle", ]
-_music: ["Hans Zimmer", ]
-_artdirection: ["Katrina Mackay", "Patrick Rolfe", "Christopher Wyatt", ]
-_costume designer: ["Julian Day", ]
-_genres: ["Action", ]
-_runtimes: ["123", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQyMDE0MTY0OV5BMl5BanBnXkFtZTcwMjI2OTI0OQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQyMDE0MTY0OV5BMl5BanBnXkFtZTcwMjI2OTI0OQ@@._V1._SX88_SY140_.jpg"
+stars: "4/5"
+desc: "Rush: No Limite da Emoção. Rush (UK, 2013). Dirigido por Ron Howard. Escrito por Peter Morgan. Com Chris Hemsworth, Daniel Brühl, Olivia Wilde, Alexandra Maria Lara, Pierfrancesco Favino, David Calder, Natalie Dormer, Stephen Mangan, Christian McKay."
 ---
 Rush não é um filme apenas sobre a rivalidade de dois pilotos de corrida, mas sobre dois estilos de vida. Melhor ainda, é sobre uma rivalidade que de fato existiu na vida real, entre o britânico James Hunt (Chris Hemsworth) e o austríaco Niki Lauda (Daniel Brühl). O primeiro é o ápice do estereótipo dos pilotos de Fórmula 1: sexo, drogas e fama. O segundo é seu oposto: um profissional das pistas. Hunt tem os cabelos compridos e em seu macacão está escrito "sexo: o café-da-manhã dos campeões". Lauda analisa o risco de não sair vivo de uma corrida e estabelece para si o limite de 20%.
 

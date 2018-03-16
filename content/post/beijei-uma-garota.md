@@ -1,24 +1,11 @@
 ---
-date: "2015-06-10"
-tags: [ "cabine" ]
+tags: ['cabine']
 imdb: "4255626"
-stars: "3/5"
+date: "2015-06-10"
 categories: "movies"
 title: "Beijei uma Garota"
-_title: "Toute première fois"
-_year: "2015"
-_director: ["Maxime Govare", "Noémie Saglio", ]
-_writer: ["Maxime Govare", "Noémie Saglio", ]
-_cast: ["Pio Marmaï", "Franck Gastambide", "Adrianna Gradziel", "Lannick Gautry", "Camille Cottin", "Frédéric Pierrot", "Isabelle Candelier", "Nicole Ferroni", "Etienne Guiraud", ]
-_countries: ["France", ]
-_languages: ["French", ]
-_editor: ["Beatrice Herminie", ]
-_cinematographer: ["Jérôme Alméras", ]
-_music: ["Mathieu Lamboley", ]
-_genres: ["Comedy", ]
-_runtimes: ["98", ]
-_ratio: "2.35 : 1"
-_kind: "movie"
+stars: "3/5"
+desc: "Beijei uma Garota. Toute première fois (France, 2015). Dirigido por Maxime Govare, Noémie Saglio. Escrito por Maxime Govare, Noémie Saglio. Com Pio Marmaï, Franck Gastambide, Adrianna Gradziel, Lannick Gautry, Camille Cottin, Frédéric Pierrot, Isabelle Candelier, Nicole Ferroni, Etienne Guiraud."
 ---
 Uma comédia romântica francesa que tenta imitar os enlatados norte-americanos, mas que se sai até que razoavelmente bem, talvez por tentar abordar um tema invertido que navega pelas conhecidas gags do gênero, mas ao mesmo tempo desenvolve uma história carente de personagens memoráveis, mas ainda assim, cativante.
 

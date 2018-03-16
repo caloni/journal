@@ -1,28 +1,11 @@
 ---
-date: "2016-01-08"
 imdb: "2488496"
-stars: "4/5"
+date: "2016-01-08"
 categories: "movies"
 title: "Star Wars: O Despertar da Força"
-revision: ["2016-01-15"]
-_title: "Star Wars: The Force Awakens"
-_year: "2015"
-_director: ["J.J. Abrams", ]
-_writer: ["Lawrence Kasdan", "J.J. Abrams", "Michael Arndt", "George Lucas", ]
-_cast: ["Harrison Ford", "Mark Hamill", "Carrie Fisher", "Adam Driver", "Daisy Ridley", "John Boyega", "Oscar Isaac", "Lupita Nyong'o", "Andy Serkis", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Maryann Brandon", "Mary Jo Markey", ]
-_cinematographer: ["Daniel Mindel", ]
-_music: ["John Williams", ]
-_artdirection: ["Alastair Bullock", "James Clyne", "James Collins", "Robert Cowper", "Peter Dorme", "Jordana Finkel", "Mark Harris", "Kevin Jenkins", "Ashley Lamont", ]
-_costume designer: ["Michael Kaplan", ]
-_genres: ["Action", ]
-_runtimes: ["135", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BOTAzODEzNDAzMl5BMl5BanBnXkFtZTgwMDU1MTgzNzE@.jpg"
-_ratio: "1.43 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BOTAzODEzNDAzMl5BMl5BanBnXkFtZTgwMDU1MTgzNzE@._V1._SX95_SY140_.jpg"
+stars: "4/5"
+revision: ['2016-01-15']
+desc: "Star Wars: O Despertar da Força. Star Wars: The Force Awakens (USA, 2015). Dirigido por J.J. Abrams. Escrito por Lawrence Kasdan, J.J. Abrams, Michael Arndt, George Lucas. Com Harrison Ford, Mark Hamill, Carrie Fisher, Adam Driver, Daisy Ridley, John Boyega, Oscar Isaac, Lupita Nyong'o, Andy Serkis."
 ---
 É previsível, esperado e inevitável que o primeiro filme que não é controlado pelo idealizador da série, George Lucas, contivesse tantos elementos repetidos, que soam como um remake ou homenagem bem intencionados. Ou podemos refletir um pouco mais e chegar à conclusão comercial que, do ponto de vista dos fãs, faz todo o sentido abraçar os três filmes clássicos, agora sob as asas da fabricante e líder de franquias em vendas -- e isso quase nada nos cinemas -- que é a Disney.
 

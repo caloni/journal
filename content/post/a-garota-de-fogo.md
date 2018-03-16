@@ -1,26 +1,11 @@
 ---
-date: "2016-04-14"
-tags: [ "cabine" ]
+tags: ['cabine']
 imdb: "3089326"
-stars: "5/5"
+date: "2016-04-14"
 categories: "movies"
 title: "A Garota de Fogo"
-_title: "Magical Girl"
-_year: "2014"
-_director: ["Carlos Vermut", ]
-_writer: ["Carlos Vermut", ]
-_cast: ["José Sacristán", "Marina Andruix", "Raimundo Reyes de los", "Lucía Pollán", "Luis Bermejo", "Alberto Chaves", "Julián Génisson", "Roser Pujol", "Toña Medina", ]
-_countries: ["Spain", ]
-_languages: ["Spanish", ]
-_editor: ["Emma Tusell", ]
-_cinematographer: ["Santiago Racaj", ]
-_artdirection: ["Carlos Vermut", ]
-_costume designer: ["Iratxe Sanz", ]
-_genres: ["Drama", ]
-_runtimes: ["127", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNmFkYzQ2MWItM2NkOS00OGFkLThlNjEtOWI5YzVlOTMzY2VmXkEyXkFqcGdeQXVyMTA0MjU0Ng@@.jpg"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNmFkYzQ2MWItM2NkOS00OGFkLThlNjEtOWI5YzVlOTMzY2VmXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1._SX99_SY140_.jpg"
+stars: "5/5"
+desc: "A Garota de Fogo. Magical Girl (Spain, 2014). Dirigido por Carlos Vermut. Escrito por Carlos Vermut. Com José Sacristán, Marina Andruix, Raimundo Reyes de los, Lucía Pollán, Luis Bermejo, Alberto Chaves, Julián Génisson, Roser Pujol, Toña Medina."
 ---
 Esse é um filme que começa de um jeito, mas acaba terminando de um outro completamente diferente, mas com seu "objetivo" concluído. A primeira fala do filme é de um professor de matemática, que faz algumas elucubrações sobre possibilidades históricas no melhor sentido de "e se". Termina dizendo que, uma coisa pelo menos é certa: dois e dois sempre serão quatro.
 

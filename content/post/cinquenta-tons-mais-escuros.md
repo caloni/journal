@@ -1,28 +1,11 @@
 ---
+tags: ['cinema']
+imdb: "4465564"
 date: "2017-02-16"
 categories: "movies"
 title: "Cinquenta Tons Mais Escuros"
-imdb: "4465564"
 stars: "2/5"
-tags: ['cinema']
-_title: "Fifty Shades Darker"
-_year: "2017"
-_director: ["James Foley", ]
-_writer: ["Niall Leonard", "E.L. James", ]
-_cast: ["Dakota Johnson (Anastasia Steele)", "Jamie Dornan (Christian Grey)", "Eric Johnson (Jack Hyde)", "Eloise Mumford (Kate Kavanagh)", "Bella Heathcote (Leila)", "Rita Ora (Mia Grey)", "Luke Grimes (Elliot Grey)", "Victor Rasuk (Jose)", "Max Martini (Taylor)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Richard Francis-Bruce", ]
-_cinematographer: ["John Schwartzman", ]
-_music: ["Danny Elfman", ]
-_artdirection: ["Peter Bodnarus", "Craig Humphries", "Jeremy Stanbridge", ]
-_costume designer: ["Shay Cunliffe", "Karin Nosella", ]
-_genres: ["Drama", ]
-_runtimes: ["118", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ5NTk0Njg2N15BMl5BanBnXkFtZTgwNzk5Nzk3MDI@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ5NTk0Njg2N15BMl5BanBnXkFtZTgwNzk5Nzk3MDI@._V1._SX88_SY140_.jpg"
+desc: "Cinquenta Tons Mais Escuros. Fifty Shades Darker (USA, 2017). Dirigido por James Foley. Escrito por Niall Leonard, E.L. James. Com Dakota Johnson (Anastasia Steele), Jamie Dornan (Christian Grey), Eric Johnson (Jack Hyde), Eloise Mumford (Kate Kavanagh), Bella Heathcote (Leila), Rita Ora (Mia Grey), Luke Grimes (Elliot Grey), Victor Rasuk (Jose), Max Martini (Taylor)."
 ---
 Eu não sei se a bronca pela série de filmes com Christian Grey e Anastácia Steel (esses nomes são bons, não?) é porque as feministas ficam com nojo de um casal normal, com problemas como todo mundo, e com preferências sexuais particulares (como todo mundo) ou elas abraçaram, assim como os conservadores, a noção patética que existe apenas uma forma de ser feliz, e ela não pode de maneira alguma ter relação com a vida de um bilionário de sucesso. Principalmente se ele trata suas mulheres como cãezinhos submissos. Se bem que, em se tratando de uma vida de luxo e segurança, qual o problema de dar alguns latidos e levar algumas palmadas de vez em quando?
 

@@ -1,25 +1,10 @@
 ---
-date: "2013-09-21"
 imdb: "1535108"
+date: "2013-09-21"
+categories: "movies"
 title: "Elysium"
 stars: "3/5"
-categories: "movies"
-_title: "Elysium"
-_year: "2013"
-_director: ["Neill Blomkamp", ]
-_writer: ["Neill Blomkamp", ]
-_cast: ["Matt Damon", "Jodie Foster", "Sharlto Copley", "Alice Braga", "Diego Luna", "Wagner Moura", "William Fichtner", "Brandon Auret", "Josh Blacker", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Julian Clarke", "Lee Smith", ]
-_cinematographer: ["Trent Opaloch", ]
-_music: ["Ryan Amon", ]
-_genres: ["Action", ]
-_runtimes: ["109", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNDc2NjU0MTcwNV5BMl5BanBnXkFtZTcwMjg4MDg2OQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNDc2NjU0MTcwNV5BMl5BanBnXkFtZTcwMjg4MDg2OQ@@._V1._SX94_SY140_.jpg"
+desc: "Elysium. Elysium (USA, 2013). Dirigido por Neill Blomkamp. Escrito por Neill Blomkamp. Com Matt Damon, Jodie Foster, Sharlto Copley, Alice Braga, Diego Luna, Wagner Moura, William Fichtner, Brandon Auret, Josh Blacker."
 ---
 Com o mesmo diretor do ótimo Distrito 9, poderíamos esperar mais uma ficção científica que honre o gênero, apresentando um futuro distópico que remeta diretamente a questões sociais do mundo atual. De certa forma, isso acontece, abordando mais uma vez o abismo existente entre pobres e ricos em um mundo pós-crise. No cenário do filme, a superpopulação/superpoluição/supercaos fazem com que a elite econômica do mundo se reúna e se isole em uma espécie de estação espacial que reproduz com fidelidade os nobres bairros de subúrbio da hoje (2150 e tra-lá-lá) caótica Los Angeles (que é a tal Elysium do título).
 

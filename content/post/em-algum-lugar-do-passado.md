@@ -1,25 +1,10 @@
 ---
-date: "2013-07-12"
 imdb: "0081534"
+date: "2013-07-12"
+categories: "movies"
 title: "Em Algum Lugar do Passado"
 stars: "5/5"
-categories: "movies"
-_title: "Somewhere in Time"
-_year: "1980"
-_director: ["Jeannot Szwarc", ]
-_writer: ["Richard Matheson", "Richard Matheson", ]
-_cast: ["Christopher Reeve", "Jane Seymour", "Christopher Plummer", "Teresa Wright", "Bill Erwin", "George Voskovec", "Susan French", "John Alvin", "Eddra Gale", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Jeff Gourson", ]
-_cinematographer: ["Isidore Mankofsky", ]
-_music: ["John Barry", ]
-_genres: ["Drama", ]
-_runtimes: ["103", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTI3MTI4MzE3MV5BMl5BanBnXkFtZTcwOTMzNzAwMQ@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTI3MTI4MzE3MV5BMl5BanBnXkFtZTcwOTMzNzAwMQ@@._V1._SX100_SY140_.jpg"
+desc: "Em Algum Lugar do Passado. Somewhere in Time (USA, 1980). Dirigido por Jeannot Szwarc. Escrito por Richard Matheson, Richard Matheson. Com Christopher Reeve, Jane Seymour, Christopher Plummer, Teresa Wright, Bill Erwin, George Voskovec, Susan French, John Alvin, Eddra Gale."
 ---
 Depois de décadas assistindo a Superman - O Filme, confesso que nas primeiras cenas de Em Algum Lugar do Passado foi difícil desassociar a figura de Christopher Reeve do kriptoniano mais famoso do Cinema. Felizmente, foi possível constatar que o talento de Reeve não se limita ao super-herói que eternizou. Digo mais: sua habilidade cômica ímpar é o que consegue balancear tão bem este drama, assim como foi no filme do homem de aço.
 

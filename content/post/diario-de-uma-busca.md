@@ -1,20 +1,10 @@
 ---
-date: "2011-08-29"
-title: "Diario de Uma Busca"
 imdb: "1827391"
-stars: "3/5"
+date: "2011-08-29"
 categories: "movies"
-_title: "Diario de Uma Busca"
-_year: "2010"
-_director: ["Flavia Castro", ]
-_writer: ["Flavia Castro", ]
-_countries: ["France", ]
-_languages: ["Portuguese", ]
-_editor: ["Flavia Castro", ]
-_cinematographer: ["Sarah Blum", "Paulo Castiglioni", ]
-_genres: ["Documentary", ]
-_runtimes: ["108", ]
-_kind: "movie"
+title: "Diario de Uma Busca"
+stars: "3/5"
+desc: "Diario de Uma Busca. Diario de Uma Busca (France, 2010). Dirigido por Flavia Castro. Escrito por Flavia Castro."
 ---
 Assistir a filmes constantemente e por muito tempo te dá, aos poucos, a capacidade de discernir a linguagem de cada autor e, o que eu acho mais interessante de tudo, extrair as técnicas usadas de forma inconsciente, apenas deixando fluir a percepção comum de um espectador assistindo a uma sessão de cinema. É uma sensação meio que mágica.
 

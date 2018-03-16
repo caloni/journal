@@ -1,20 +1,10 @@
 ---
-date: "2013-05-14"
-title: "Somos Tão Jovens"
 imdb: "2215537"
-stars: "3/5"
+date: "2013-05-14"
 categories: "movies"
-_title: "Somos Tão Jovens"
-_year: "2013"
-_director: ["Antonio Carlos da Fontoura", ]
-_writer: ["Victor Atherino", "Marcos Bernstein", ]
-_cast: ["Thiago Mendonça", "Laila Zaid", "Bruno Torres", "Daniel Passi", "Sandra Corveloni", "Marcos Breda", "Bianca Comparato", "Conrado Godoy", "Nicolau Villa-Lobos", ]
-_countries: ["Brazil", ]
-_languages: ["Portuguese", ]
-_editor: ["Dirceu Lustosa", ]
-_cinematographer: ["Alexandre Ermel", "Will Etchebehere", ]
-_genres: ["Biography", ]
-_kind: "movie"
+title: "Somos Tão Jovens"
+stars: "3/5"
+desc: "Somos Tão Jovens. Somos Tão Jovens (Brazil, 2013). Dirigido por Antonio Carlos da Fontoura. Escrito por Victor Atherino, Marcos Bernstein. Com Thiago Mendonça, Laila Zaid, Bruno Torres, Daniel Passi, Sandra Corveloni, Marcos Breda, Bianca Comparato, Conrado Godoy, Nicolau Villa-Lobos."
 ---
 Antes de tudo, a interpretação de Thiago Mendonça é primorosa do começo ao fim ao estabelecer o "Renato" do filme não apenas como a sombra de um ídolo, mas a própria persona se construindo através de suas referências culturais. O uso de sua voz é um dos pontos fortes: usando aos poucos entonações que vão aos poucos revelando o Renato Russo que os fãs conhecem, é uma surpresa agradável poder observar sua própria evolução como cantor, engrossando a voz aqui e ali, tentando encontrar o seu estilo. Isso nos aparece de forma completamente natural e discreta. A música e poesia das letras do vocalista parecem sair prontas do seu intelecto, e parte dessa experiência é devido ao interessante roteiro de Marcos Berstein (Central do Brasil) com a colaboração de Victor Atherino que vai construindo as situações e expressões de suas poesias no dia-a-dia casual.
 

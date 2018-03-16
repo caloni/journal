@@ -1,27 +1,10 @@
 ---
-date: "2016-01-15"
 imdb: "3659388"
-stars: "5/5"
+date: "2016-01-15"
 categories: "movies"
 title: "Perdido em Marte"
-_title: "The Martian"
-_year: "2015"
-_director: ["Ridley Scott", ]
-_writer: ["Drew Goddard", "Andy Weir", ]
-_cast: ["Matt Damon", "Jessica Chastain", "Kristen Wiig", "Jeff Daniels", "Michael Peña", "Sean Bean", "Kate Mara", "Sebastian Stan", "Aksel Hennie", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Pietro Scalia", ]
-_cinematographer: ["Dariusz Wolski", ]
-_music: ["Harry Gregson-Williams", ]
-_artdirection: ["Robert Cowper", "Mónika Esztán", "Marc Homes", "Samy Keilani", "Jason Knox-Johnston", "László Rajk", "Phil Sims", "Stefan Speth", "Matt Wynne", ]
-_costume designer: ["Janty Yates", ]
-_genres: ["Adventure", ]
-_runtimes: ["144", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTc2MTQ3MDA1Nl5BMl5BanBnXkFtZTgwODA3OTI4NjE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTc2MTQ3MDA1Nl5BMl5BanBnXkFtZTgwODA3OTI4NjE@._V1._SX95_SY140_.jpg"
+stars: "5/5"
+desc: "Perdido em Marte. The Martian (USA, 2015). Dirigido por Ridley Scott. Escrito por Drew Goddard, Andy Weir. Com Matt Damon, Jessica Chastain, Kristen Wiig, Jeff Daniels, Michael Peña, Sean Bean, Kate Mara, Sebastian Stan, Aksel Hennie."
 ---
 Esse é um filme para nerds e hackers no seu sentido mais puro. Ele envolve pessoas usando todo seu conhecimento para resolver um problema de vida ou morte. Como consequência, é um exemplo do que todo grande cientista faz ao longo de sua carreira, só que espremido em um filme de ação, drama e comédia de pouco mais de duas horas. Ele é intenso e realista; como sci-fi, encontra maneiras criativas de evitar muito tropeços científicos, e os que comete são pelo bem na narrativa.
 

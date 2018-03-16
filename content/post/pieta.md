@@ -1,25 +1,10 @@
 ---
-date: "2013-03-19"
 imdb: "2299842"
+date: "2013-03-19"
+categories: "movies"
 title: "Pieta"
 stars: "4/5"
-categories: "movies"
-_title: "Pieta"
-_year: "2012"
-_director: ["Ki-duk Kim", ]
-_writer: ["Ki-duk Kim", ]
-_cast: ["Min-soo Jo", "Jung-Jin Lee", "Ki-Hong Woo", "Eunjin Kang", "Jae-ryong Cho", "Myeong-ja Lee", "Jun-seok Heo", "Se-in Kwon", "Mun-su Song", ]
-_countries: ["South Korea", ]
-_languages: ["Korean", ]
-_editor: ["Ki-duk Kim", ]
-_cinematographer: ["Young-jik Jo", ]
-_music: ["In-young Park", ]
-_genres: ["Drama", ]
-_runtimes: ["104", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BODQ3Nzg1NjkyNl5BMl5BanBnXkFtZTcwMzEyOTQzOQ@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BODQ3Nzg1NjkyNl5BMl5BanBnXkFtZTcwMzEyOTQzOQ@@._V1._SX100_SY133_.jpg"
+desc: "Pieta. Pieta (South Korea, 2012). Dirigido por Ki-duk Kim. Escrito por Ki-duk Kim. Com Min-soo Jo, Jung-Jin Lee, Ki-Hong Woo, Eunjin Kang, Jae-ryong Cho, Myeong-ja Lee, Jun-seok Heo, Se-in Kwon, Mun-su Song."
 ---
 Finalmente, depois de ganhar prêmios na Europa e ser exibido apenas na Mostra do Rio do ano passado (em uma atitude claramente estúpida dos organizadores da Mostra SP), algumas distribuidoras nacionais resolveram estrear o novo trabalho de Kim Ki-duk. É impressionante como parece que a qualidade dos trabalhos lá fora é inversamente proporcional à pressa das distribuidoras brasileiras em fornecer conteúdo para o público local.
 

@@ -1,24 +1,10 @@
 ---
-date: "2012-11-18"
 imdb: "1082868"
+date: "2012-11-18"
+categories: "movies"
 title: "Quarentena"
 stars: "2/5"
-categories: "movies"
-_title: "Quarantine"
-_year: "2008"
-_director: ["John Erick Dowdle", ]
-_writer: ["John Erick Dowdle", "Drew Dowdle", "Jaume Balagueró", "Luiso Berdejo", "Paco Plaza", ]
-_cast: ["Jennifer Carpenter", "Steve Harris", "Jay Hernandez", "Johnathon Schaech", "Columbus Short", "Andrew Fiscella", "Rade Serbedzija", "Greg Germann", "Bernard White", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Elliot Greenberg", ]
-_cinematographer: ["Ken Seng", ]
-_genres: ["Horror", ]
-_runtimes: ["89", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjY0MDgwNTQ4OF5BMl5BanBnXkFtZTcwMzQzNjY3MQ@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjY0MDgwNTQ4OF5BMl5BanBnXkFtZTcwMzQzNjY3MQ@@._V1._SX94_SY140_.jpg"
+desc: "Quarentena. Quarantine (USA, 2008). Dirigido por John Erick Dowdle. Escrito por John Erick Dowdle, Drew Dowdle, Jaume Balagueró, Luiso Berdejo, Paco Plaza. Com Jennifer Carpenter, Steve Harris, Jay Hernandez, Johnathon Schaech, Columbus Short, Andrew Fiscella, Rade Serbedzija, Greg Germann, Bernard White."
 ---
 No início, por exemplo. Angela Vidal (Jennifer Carpenter) é uma repórter cobrindo uma noite na vida dos bombeiros junto de seu camera man Scott Percival (Steve Harris). Nesse momento temos o tom documental, tão comum hoje em dia nos filmes de terror, e que explora tão bem esse pedacinho de realismo em frente à telona. Há momentos engraçados e extrovertidos, como no momento em que a repórter começa a fazer brincadeiras com a masculinidade de seus entrevistados. Até aqui há o ponto positivo de entrarmos na atmosfera da história, embora ainda saibamos muito pouco dos seus personagens para que tenhamos algo a mais para seguir do que simplesmente o making of de uma reportagem.
 

@@ -1,27 +1,10 @@
 ---
-date: "2016-03-27"
 imdb: "1602098"
-stars: "4/5"
+date: "2016-03-27"
 categories: "movies"
 title: "Albert Nobbs"
-_title: "Albert Nobbs"
-_year: "2011"
-_director: ["Rodrigo García", ]
-_writer: ["Gabriella Prekop", "John Banville", "Glenn Close", "George Moore", "István Szabó", ]
-_cast: ["Glenn Close", "Antonia Campbell-Hughes", "Mia Wasikowska", "Pauline Collins", "Maria Doyle Kennedy", "Mark Williams", "James Greene", "Serena Brabazon", "Michael McElhatton", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Steven Weisberg", ]
-_cinematographer: ["Michael McDonough", ]
-_music: ["Brian Byrne", ]
-_artdirection: ["Susie Cullen", ]
-_costume designer: ["Pierre-Yves Gayraud", ]
-_genres: ["Drama", ]
-_runtimes: ["113", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTM1MjU1NTYzMV5BMl5BanBnXkFtZTcwODk2NzAwNw@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTM1MjU1NTYzMV5BMl5BanBnXkFtZTcwODk2NzAwNw@@._V1._SX94_SY140_.jpg"
+stars: "4/5"
+desc: "Albert Nobbs. Albert Nobbs (UK, 2011). Dirigido por Rodrigo García. Escrito por Gabriella Prekop, John Banville, Glenn Close, George Moore, István Szabó. Com Glenn Close, Antonia Campbell-Hughes, Mia Wasikowska, Pauline Collins, Maria Doyle Kennedy, Mark Williams, James Greene, Serena Brabazon, Michael McElhatton."
 ---
 Não é uma discussão de gêneros, mas da estreiteza da alma humana. Albert Nobbs se torna um personagem de tragédia anunciada, mas nunca deixa de ser fascinante através da pele de uma Glenn Close obstinada em entregar uma figura que teve uma vida tão desesperada, e por tanto tempo, que se acostumou em viver presa em sua jaula do dia-a-dia, enquanto ajunta pacientemente centavos e xelins para uma dia viver a vida que lhe fora negada desde a infância. 
 

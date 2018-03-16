@@ -1,25 +1,10 @@
 ---
-date: "2010-09-25"
 imdb: "0861739"
+date: "2010-09-25"
+categories: "movies"
 title: "Tropa de Elite"
 stars: "5/5"
-categories: "movies"
-_title: "Tropa de Elite"
-_year: "2007"
-_director: ["José Padilha", ]
-_writer: ["André Batista", "John Kaylin", "Bráulio Mantovani", "José Padilha", "Rodrigo Pimentel", "Rodrigo Pimentel", "Luiz Eduardo Soares", ]
-_cast: ["Wagner Moura", "André Ramiro", "Caio Junqueira", "Milhem Cortaz", "Fernanda Machado", "Maria Ribeiro", "Paulo Vilela", "Fernanda de Freitas", "André Felipe", ]
-_countries: ["Brazil", ]
-_languages: ["Portuguese", ]
-_editor: ["Daniel Rezende", ]
-_cinematographer: ["Lula Carvalho", ]
-_music: ["Pedro Bromfman", ]
-_genres: ["Action", ]
-_runtimes: ["115", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTI1Mzc5NjI4Nl5BMl5BanBnXkFtZTcwNzYyMTQ5MQ@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTI1Mzc5NjI4Nl5BMl5BanBnXkFtZTcwNzYyMTQ5MQ@@._V1._SX95_SY140_.jpg"
+desc: "Tropa de Elite. Tropa de Elite (Brazil, 2007). Dirigido por José Padilha. Escrito por André Batista, John Kaylin, Bráulio Mantovani, José Padilha, Rodrigo Pimentel, Rodrigo Pimentel, Luiz Eduardo Soares. Com Wagner Moura, André Ramiro, Caio Junqueira, Milhem Cortaz, Fernanda Machado, Maria Ribeiro, Paulo Vilela, Fernanda de Freitas, André Felipe."
 ---
 Assisti depois de muito tempo ter sido uma febre entre as pessoas. As frases que se tornaram famosas ouvi pela primeira vez. Mas nem por isso o filme deixou de ter o peso que acreditava que tivesse.
 

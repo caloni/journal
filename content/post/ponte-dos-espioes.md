@@ -1,27 +1,10 @@
 ---
-date: "2016-01-20"
 imdb: "3682448"
-stars: "4/5"
+date: "2016-01-20"
 categories: "movies"
 title: "Ponte dos Espiões"
-_title: "Bridge of Spies"
-_year: "2015"
-_director: ["Steven Spielberg", ]
-_writer: ["Matt Charman", "Ethan Coen", "Joel Coen", ]
-_cast: ["Mark Rylance", "Domenick Lombardozzi", "Victor Verhaeghe", "Mark Fichera", "Brian Hutchison", "Tom Hanks", "Joshua Harto", "Henny Russell", "Rebekah Brockman", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Michael Kahn", ]
-_cinematographer: ["Janusz Kaminski", ]
-_music: ["Thomas Newman", ]
-_artdirection: ["Marco Bittner Rosser", "Scott Dougan", "Kim Jennings", "Anja Müller", ]
-_costume designer: ["Kasia Walicka-Maimone", ]
-_genres: ["Biography", ]
-_runtimes: ["142", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjIxOTI0MjU5NV5BMl5BanBnXkFtZTgwNzM4OTk4NTE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjIxOTI0MjU5NV5BMl5BanBnXkFtZTgwNzM4OTk4NTE@._V1._SX94_SY140_.jpg"
+stars: "4/5"
+desc: "Ponte dos Espiões. Bridge of Spies (USA, 2015). Dirigido por Steven Spielberg. Escrito por Matt Charman, Ethan Coen, Joel Coen. Com Mark Rylance, Domenick Lombardozzi, Victor Verhaeghe, Mark Fichera, Brian Hutchison, Tom Hanks, Joshua Harto, Henny Russell, Rebekah Brockman."
 ---
 Esse é um filme que carrega um conteúdo emocional graças ao seu diretor, mas uma história que é obviamente 100% sobre política. É sobre tempos mais sombrios do que os de hoje, a Guerra Fria, quando ignorar política poderia te levar à morte, seja ela física ou pública. Ser baseada em uma história real apenas eleva o roteiro a uma das melhores adaptações do ano.
 

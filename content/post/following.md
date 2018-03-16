@@ -1,25 +1,10 @@
 ---
-date: "2014-05-14"
 imdb: "0154506"
+date: "2014-05-14"
+categories: "movies"
 title: "Following"
 stars: "4/5"
-categories: "movies"
-_title: "Following"
-_year: "1998"
-_director: ["Christopher Nolan", ]
-_writer: ["Christopher Nolan", ]
-_cast: ["Jeremy Theobald", "Alex Haw", "Lucy Russell", "John Nolan", "Dick Bradsell", "Gillian El-Kadi", "Jennifer Angel", "Nicolas Carlotti", "Darren Ormandy", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Gareth Heal", "Christopher Nolan", ]
-_cinematographer: ["Christopher Nolan", ]
-_music: ["David Julyan", ]
-_genres: ["Mystery", ]
-_runtimes: ["69", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTkxNTkyMTY0M15BMl5BanBnXkFtZTcwOTgxMDIyMQ@@.jpg"
-_ratio: "1.37 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTkxNTkyMTY0M15BMl5BanBnXkFtZTcwOTgxMDIyMQ@@._V1._SX99_SY140_.jpg"
+desc: "Following. Following (UK, 1998). Dirigido por Christopher Nolan. Escrito por Christopher Nolan. Com Jeremy Theobald, Alex Haw, Lucy Russell, John Nolan, Dick Bradsell, Gillian El-Kadi, Jennifer Angel, Nicolas Carlotti, Darren Ormandy."
 ---
 Following é um filme-noir dos tempos atuais, mesmo sendo em preto e branco. É o primeiro longa-metragem dirigido, escrito e produzido por Christopher Nolan, o queridinho dos estúdios atualmente depois da trilogia Batman e trabalhos ambiciosos como Amnésia, A Origem e, claro, O Grande Truque. Ele conta a história de um jovem escritor que para conseguir inspiração começa a seguir pessoas a esmo, mas que comete o terrível erro de começar a seguir as mesmas pessoas. Isso o leva a descobrir o pior que há na natureza humana: roubos, chantagens, mentiras e assassinatos.
 

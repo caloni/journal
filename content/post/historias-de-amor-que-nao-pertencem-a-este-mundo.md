@@ -1,25 +1,11 @@
 ---
-imdb: "7133340"
-stars: "3/5"
 tags: ['cabine']
+imdb: "7133340"
 date: 2017-11-11T00:04:06
-title: "Histórias de Amor Que Não Pertencem a Este Mundo"
 categories: "movies"
-_title: "Amori che non sanno stare al mondo"
-_year: "2017"
-_director: ["Francesca Comencini", ]
-_writer: ["Francesca Comencini", "Francesca Manieri", "Laura Paolucci", ]
-_cast: ["Lucia Mascino (Claudia)", "Thomas Trabacchi (Flavio)", "Valentina Bellè (Nina)", "Iaia Forte (Mara Semeraro)", "Carlotta Natoli (Diana)", ]
-_countries: ["Italy", ]
-_languages: ["Italian", ]
-_editor: ["Ilaria Fraioli", ]
-_cinematographer: ["Valerio Azzali", ]
-_costume designer: ["Veronica Fragola", ]
-_genres: ["Drama", ]
-_runtimes: ["92", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BZGYxNzExMmItMWIwNS00NmYxLTk1MjMtZmM0ZWFlYjUyODNmXkEyXkFqcGdeQXVyMDQ0NjgyNA@@.jpg"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BZGYxNzExMmItMWIwNS00NmYxLTk1MjMtZmM0ZWFlYjUyODNmXkEyXkFqcGdeQXVyMDQ0NjgyNA@@._V1._SX96_SY140_.jpg"
+title: "Histórias de Amor Que Não Pertencem a Este Mundo"
+stars: "3/5"
+desc: "Histórias de Amor Que Não Pertencem a Este Mundo. Amori che non sanno stare al mondo (Italy, 2017). Dirigido por Francesca Comencini. Escrito por Francesca Comencini, Francesca Manieri, Laura Paolucci. Com Lucia Mascino (Claudia), Thomas Trabacchi (Flavio), Valentina Bellè (Nina), Iaia Forte (Mara Semeraro), Carlotta Natoli (Diana)."
 ---
 Eu já me envolvi com uma pessoa como Claudia. Claro que minha Claudia não era "cinematográfica" como Lucia Mascino, mas muito provavelmente ela protestaria nesse momento em que lesse meu texto, contrariada como Claudia estaria. Sim, pessoas assim existe. Claudia disse no filme que era "produção exagerada de ocitocina". Sabe, a droga do amor e do medo. Sim, porque enquanto esse hormônio aparentemente serve para aumentar a atração sexual (e até comprometimento romântico), ele também é responsável pelo aumento do medo e ansiedade. Em um nível que homens se sentem desconfortáveis do lado de mulheres como Claudia. Eu não diria que a vida real é tão cinematográfica, mas a diretora Francesca Comencini parece querer contar uma história feminista aqui.
 

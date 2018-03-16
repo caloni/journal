@@ -1,25 +1,10 @@
 ---
-date: "2013-01-06"
 imdb: "0482629"
+date: "2013-01-06"
+categories: "movies"
 title: "O Presente"
 stars: "2/5"
-categories: "movies"
-_title: "The Ultimate Gift"
-_year: "2006"
-_director: ["Michael O. Sajbel", ]
-_writer: ["Cheryl McKay", "Jim Stovall", ]
-_cast: ["James Garner", "Bill Cobbs", "Lee Meriwether", "George Lee", "Brett Rice", "D. David Morin", "Abigail Breslin", "Ali Hillis", "Drew Fuller", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Scott Chestnut", ]
-_cinematographer: ["Brian Baugh", ]
-_music: ["Mark McKenzie", ]
-_genres: ["Drama", ]
-_runtimes: ["USA:114", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTIwMzc5ODc3NF5BMl5BanBnXkFtZTcwNTk0OTM1MQ@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTIwMzc5ODc3NF5BMl5BanBnXkFtZTcwNTk0OTM1MQ@@._V1._SX100_SY137_.jpg"
+desc: "O Presente. The Ultimate Gift (USA, 2006). Dirigido por Michael O. Sajbel. Escrito por Cheryl McKay, Jim Stovall. Com James Garner, Bill Cobbs, Lee Meriwether, George Lee, Brett Rice, D. David Morin, Abigail Breslin, Ali Hillis, Drew Fuller."
 ---
 O filme baseado no livro homônimo de Jim Stovall  escritor cego engajado em trabalhos para deficientes  claramente tenta passar uma mensagem de caridade para com os mais necessitados. Para isso, contudo, se esquece de estabelecer uma relação afetiva com seus personagens e acaba resumindo uma sequência de eventos simbólicos que forçam a emoção do espectador pela situação em si, sem qualquer outra
 

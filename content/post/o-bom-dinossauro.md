@@ -1,24 +1,10 @@
 ---
-date: "2016-02-09"
 imdb: "1979388"
-stars: "4/5"
+date: "2016-02-09"
 categories: "movies"
 title: "O Bom Dinossauro"
-_title: "The Good Dinosaur"
-_year: "2015"
-_director: ["Peter Sohn", ]
-_writer: ["Bob Peterson", "Peter Sohn", "Erik Benson", "Meg LeFauve", "Kelsey Mann", "Bob Peterson", "Meg LeFauve", ]
-_cast: ["Jeffrey Wright", "Frances McDormand", "Maleah Nipay-Padilla", "Ryan Teeple", "Jack McGraw", "Marcus Scribner", "Raymond Ochoa", "Jack Bright", "Peter Sohn", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Stephen Schaffer", ]
-_music: ["Jeff Danna", "Mychael Danna", ]
-_genres: ["Animation", ]
-_runtimes: ["93", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTc5MTg2NjQ4MV5BMl5BanBnXkFtZTgwNzcxOTY5NjE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTc5MTg2NjQ4MV5BMl5BanBnXkFtZTgwNzcxOTY5NjE@._V1._SX94_SY140_.jpg"
+stars: "4/5"
+desc: "O Bom Dinossauro. The Good Dinosaur (USA, 2015). Dirigido por Peter Sohn. Escrito por Bob Peterson, Peter Sohn, Erik Benson, Meg LeFauve, Kelsey Mann, Bob Peterson, Meg LeFauve. Com Jeffrey Wright, Frances McDormand, Maleah Nipay-Padilla, Ryan Teeple, Jack McGraw, Marcus Scribner, Raymond Ochoa, Jack Bright, Peter Sohn."
 ---
 É uma satisfação ver que a Pixar continua com sua vontade de arriscar de vez em quando, e possivelmente possui os desenhistas mais ambiciosos do mercado. O Bom Dinossauro é um trabalho estético e artístico admirável, que causa estranheza em alguns momentos, mas em outros faz valer totalmente a pena.
 

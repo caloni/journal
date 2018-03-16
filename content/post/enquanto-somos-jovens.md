@@ -1,26 +1,11 @@
 ---
-date: "2015-07-03"
 imdb: "1791682"
-stars: "4/5"
+date: "2015-07-03"
 categories: "movies"
 title: "Enquanto Somos Jovens"
-revision: [2017-10-14]
-_title: "While We're Young"
-_year: "2014"
-_director: ["Noah Baumbach", ]
-_writer: ["Noah Baumbach", ]
-_cast: ["Naomi Watts", "Ben Stiller", "Maria Dizzia", "Adam Horovitz", "Matthew Maher", "Peter Yarrow", "Bonnie Kaufman", "Hector Otero", "Deborah Eisenberg", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Jennifer Lame", ]
-_cinematographer: ["Sam Levy", ]
-_music: ["James Murphy", ]
-_genres: ["Comedy", ]
-_runtimes: ["97", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTc4MDEzMTA5MF5BMl5BanBnXkFtZTgwODA5MTM0NDE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTc4MDEzMTA5MF5BMl5BanBnXkFtZTgwODA5MTM0NDE@._V1._SX90_SY140_.jpg"
+stars: "4/5"
+revision: [datetime.date(2017, 10, 14)]
+desc: "Enquanto Somos Jovens. While We're Young (USA, 2014). Dirigido por Noah Baumbach. Escrito por Noah Baumbach. Com Naomi Watts, Ben Stiller, Maria Dizzia, Adam Horovitz, Matthew Maher, Peter Yarrow, Bonnie Kaufman, Hector Otero, Deborah Eisenberg."
 ---
 Enquanto Somos Jovens mantém um roteiro tão bom e atuações tão alheias a isso (embora sempre interessantes) que suas falas parecem querer dizer muito mais ao espectador do que para seus próprios personagens. Ou talvez seja apenas a voz dentro da minha cabeça relembrando minha decisão atual de não ter filhos. Ainda é bom lembrar que, se a discussão central girasse em torno de ter ou não rebentos de carne-e-osso, essa seria uma das comédias que já conhecemos de Ben Stiller (com uma sempre inspirada Naomi Watts). Porém, ao mesclar o tema com filhos mais "autorais", como documentários, o filme enriquece ambos os lados, ainda que acabe envolvendo mais o segundo, já que seres humanos bebês são apenas uma desculpa para falar de algo mais importante.
 

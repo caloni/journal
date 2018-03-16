@@ -1,27 +1,10 @@
 ---
-date: "2016-02-27"
 imdb: "0107207"
-stars: "5/5"
+date: "2016-02-27"
 categories: "movies"
 title: "Em Nome do Pai"
-_title: "In the Name of the Father"
-_year: "1993"
-_director: ["Jim Sheridan", ]
-_writer: ["Gerry Conlon", "Terry George", "Jim Sheridan", ]
-_cast: ["Alison Crosbie", "Daniel Day-Lewis", "Philip King", "Emma Thompson", "Nye Heron", "Anthony Brophy", "Frankie McCafferty", "Paul Warriner", "Julian Walsh", ]
-_countries: ["Ireland", ]
-_languages: ["English", ]
-_editor: ["Gerry Hambling", ]
-_cinematographer: ["Peter Biziou", ]
-_music: ["Trevor Jones", ]
-_artdirection: ["Rick Butler", ]
-_costume designer: ["Joan Bergin", ]
-_genres: ["Biography", ]
-_runtimes: ["133", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTcwNjMyMzI0OV5BMl5BanBnXkFtZTgwMDU4NjkzMTE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTcwNjMyMzI0OV5BMl5BanBnXkFtZTgwMDU4NjkzMTE@._V1._SX94_SY140_.jpg"
+stars: "5/5"
+desc: "Em Nome do Pai. In the Name of the Father (Ireland, 1993). Dirigido por Jim Sheridan. Escrito por Gerry Conlon, Terry George, Jim Sheridan. Com Alison Crosbie, Daniel Day-Lewis, Philip King, Emma Thompson, Nye Heron, Anthony Brophy, Frankie McCafferty, Paul Warriner, Julian Walsh."
 ---
 Em Nome do Pai é daquelas pérolas baseadas em fatos reais que funciona pelo emocional, mas também é um trabalho intimista que adentra o suficiente no lamaçal da "justiça" estatal para conseguir identificar o que critica sem desmerecer nossa inteligência.
 

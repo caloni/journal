@@ -1,28 +1,11 @@
 ---
+tags: ['cabine']
+imdb: "5168192"
 date: "2016-12-20"
 categories: "movies"
 title: "Eu, Daniel Blake"
-imdb: "5168192"
 stars: "4/5"
-tags: ['cabine']
-_title: "I, Daniel Blake"
-_year: "2016"
-_director: ["Ken Loach", ]
-_writer: ["Paul Laverty", ]
-_cast: ["Dave Johns (Daniel)", "Hayley Squires (Katie)", "Sharon Percy (Sheila)", "Briana Shann (Daisy)", "Dylan McKiernan (Dylan)", "Natalie Ann Jamieson (Employment Support Allowance Assessor)", "Jane Birch (Librarian)", "Mark Burns (Job seeker)", "Stephen Clegg (Job Centre Floor Manager)", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Jonathan Morris", ]
-_cinematographer: ["Robbie Ryan", ]
-_music: ["George Fenton", ]
-_artdirection: ["Laura Obiols", ]
-_costume designer: ["Jo Slater", ]
-_genres: ["Drama", ]
-_runtimes: ["100", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ4NTMzMTk4NV5BMl5BanBnXkFtZTgwNTU5MjE4MDI@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ4NTMzMTk4NV5BMl5BanBnXkFtZTgwNTU5MjE4MDI@._V1._SX94_SY140_.jpg"
+desc: "Eu, Daniel Blake. I, Daniel Blake (UK, 2016). Dirigido por Ken Loach. Escrito por Paul Laverty. Com Dave Johns (Daniel), Hayley Squires (Katie), Sharon Percy (Sheila), Briana Shann (Daisy), Dylan McKiernan (Dylan), Natalie Ann Jamieson (Employment Support Allowance Assessor), Jane Birch (Librarian), Mark Burns (Job seeker), Stephen Clegg (Job Centre Floor Manager)."
 ---
 O bom das crises financeiras é que aos poucos o mundo percebe como o sistema estatal, baseado no uso da força, é um sistema falido por definição. Ele não precisa de mais dinheiro, ele não precisa de mais controle. Ele precisa acabar. É através de trabalhos como esse em que é possível constatar que, mesmo que morrer de fome seja algo extremamente raro nos dias de hoje (pelo menos no mundo civilizado), ter sua dignidade esmagada é o preço que se paga por esse mundo. Valeu a pena?
 

@@ -1,24 +1,10 @@
 ---
-date: "2014-01-30"
 imdb: "0993846"
+date: "2014-01-30"
+categories: "movies"
 title: "O Lobo de Wall Street"
 stars: "5/5"
-categories: "movies"
-_title: "The Wolf of Wall Street"
-_year: "2013"
-_director: ["Martin Scorsese", ]
-_writer: ["Terence Winter", "Jordan Belfort", ]
-_cast: ["Leonardo DiCaprio", "Jonah Hill", "Margot Robbie", "Matthew McConaughey", "Kyle Chandler", "Rob Reiner", "Jon Bernthal", "Jon Favreau", "Jean Dujardin", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Thelma Schoonmaker", ]
-_cinematographer: ["Rodrigo Prieto", ]
-_genres: ["Biography", ]
-_runtimes: ["180", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1._SX94_SY140_.jpg"
+desc: "O Lobo de Wall Street. The Wolf of Wall Street (USA, 2013). Dirigido por Martin Scorsese. Escrito por Terence Winter, Jordan Belfort. Com Leonardo DiCaprio, Jonah Hill, Margot Robbie, Matthew McConaughey, Kyle Chandler, Rob Reiner, Jon Bernthal, Jon Favreau, Jean Dujardin."
 ---
 Assistir um filme do Scorsese, mesmo que acabou de estrear, é ser convidado para os anos 70. O que eu quero dizer com isso é que sexo, drogas, violência e moral serão mostradas sem aquele filtro horrível que infantiliza a nossa época. Curiosamente, se há uma característica que os "heróis" de O Lobo de Wall Street carregam em comum é a imaturidade. Porém, uma maturidade animalesca, que faz jus ao personagem-título.
 

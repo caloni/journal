@@ -1,25 +1,10 @@
 ---
-date: "2011-04-27"
 imdb: "1705786"
+date: "2011-04-27"
+categories: "movies"
 title: "Um Conto Chinês"
 stars: "4/5"
-categories: "movies"
-_title: "Un cuento chino"
-_year: "2011"
-_director: ["Sebastián Borensztein", ]
-_writer: ["Sebastián Borensztein", ]
-_cast: ["Ricardo Darín", "Muriel Santa Ana", "Ignacio Huang", "Enric Cambray", "Iván Romanelli", "Joaquín Bouzas", "Julia Castelló Agulló", "Gustavo Comini", "Vivian El Jaber", ]
-_countries: ["Argentina", ]
-_languages: ["Spanish", ]
-_editor: ["Pablo Barbieri Carrera", "Fernando Pardo", ]
-_cinematographer: ["Rodrigo Pulpeiro", ]
-_music: ["Lucio Godoy", ]
-_genres: ["Comedy", ]
-_runtimes: ["Argentina:93", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNDUyODQ0MTcxNF5BMl5BanBnXkFtZTgwMDMxNjAzMTE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNDUyODQ0MTcxNF5BMl5BanBnXkFtZTgwMDMxNjAzMTE@._V1._SX99_SY140_.jpg"
+desc: "Um Conto Chinês. Un cuento chino (Argentina, 2011). Dirigido por Sebastián Borensztein. Escrito por Sebastián Borensztein. Com Ricardo Darín, Muriel Santa Ana, Ignacio Huang, Enric Cambray, Iván Romanelli, Joaquín Bouzas, Julia Castelló Agulló, Gustavo Comini, Vivian El Jaber."
 ---
 Assistir um filme argentino, em espanhol, em Buenos Aires, pode ser uma experiência inspiradora, ainda mais se estivermos falando de Cinema com C maiúsculo.
 

@@ -1,25 +1,10 @@
 ---
-date: "2016-02-19"
 imdb: "0060675"
-stars: "4/5"
+date: "2016-02-19"
 categories: "movies"
 title: "Masculino-Feminino"
-_title: "Masculin féminin"
-_year: "1966"
-_director: ["Jean-Luc Godard", ]
-_writer: ["Guy de Maupassant", "Jean-Luc Godard", ]
-_cast: ["Jean-Pierre Léaud", "Chantal Goya", "Marlène Jobert", "Michel Debord", "Catherine-Isabelle Duport", "Evabritt Strandberg", "Birger Malmsten", "Yves Afonso", "Henri Attal", ]
-_countries: ["France", ]
-_languages: ["French", ]
-_editor: ["Agnès Guillemot", "Marguerite Renoir", ]
-_cinematographer: ["Willy Kurant", ]
-_music: ["Jean-Jacques Debout", ]
-_genres: ["Drama", ]
-_runtimes: ["110", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQ2Nzc1NzQ5Ml5BMl5BanBnXkFtZTcwNjMzMjEzMQ@@.jpg"
-_ratio: "1.37 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQ2Nzc1NzQ5Ml5BMl5BanBnXkFtZTcwNjMzMjEzMQ@@._V1._SX100_SY140_.jpg"
+stars: "4/5"
+desc: "Masculino-Feminino. Masculin féminin (France, 1966). Dirigido por Jean-Luc Godard. Escrito por Guy de Maupassant, Jean-Luc Godard. Com Jean-Pierre Léaud, Chantal Goya, Marlène Jobert, Michel Debord, Catherine-Isabelle Duport, Evabritt Strandberg, Birger Malmsten, Yves Afonso, Henri Attal."
 ---
 Jean-Luc Godard, em plena década de 60, em um filme aparentemente biográfico, que funciona leve, sem lógica, mas com acontecimentos que não fogem da realidade, mas entram em nossa estranheza do incompreendido, das coincidências exóticas. Mas é uma época pulsante, com questões juvenis incompreendidas. Godard tinha minha idade quando o fez (36), e ele discute muito sobre o homem, a mulher, e os dois juntos.
 

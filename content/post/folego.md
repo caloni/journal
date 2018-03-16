@@ -1,22 +1,10 @@
 ---
-date: "2010-12-20"
-title: "Fôlego"
 imdb: "0901475"
-stars: "4/5"
+date: "2010-12-20"
 categories: "movies"
-_title: "Soom"
-_year: "2007"
-_director: ["Ki-duk Kim", ]
-_writer: ["Ki-duk Kim", ]
-_cast: ["Chen Chang", "In-Hyeong Gang", "Jung-woo Ha", "Ki-duk Kim", "Ji-a Park", ]
-_countries: ["South Korea", ]
-_languages: ["Korean", ]
-_editor: ["Su-Ahn Wong", ]
-_cinematographer: ["Jong-moo Sung", ]
-_genres: ["Drama", ]
-_runtimes: ["84", ]
-_ratio: "1.85 : 1"
-_kind: "movie"
+title: "Fôlego"
+stars: "4/5"
+desc: "Fôlego. Soom (South Korea, 2007). Dirigido por Ki-duk Kim. Escrito por Ki-duk Kim. Com Chen Chang, In-Hyeong Gang, Jung-woo Ha, Ki-duk Kim, Ji-a Park."
 ---
 Também sem usar muitos sons fora do universo do filme, o diretor se foca nas emoções dos personagens traduzidas por atitudes muitas vezes inusitadas, como guardar um fio de cabelo da mulher misteriosa que visita um homem que assassinou a família. Curioso que a própria mulher se vê na mesma condição dele, pois, condenado à execução, ele tenta se suicidar, fato que aparece nos noticiários e chama a atenção da mulher. E ela mesma, quando criança, "morreu" por 5 minutos prendendo a respiração debaixo da água. Por outro lado, a relação com um homem que matou sua esposa e duas filhas não deixa de ter mais significados, sabendo que ela própria também tem problemas de relacionamento com o marido e sua própria filha, da qual pega o pregador de cabelo, tentando voltar à infância e aquela sensação de estar morta.
 

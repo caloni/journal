@@ -1,25 +1,10 @@
 ---
-date: "2011-11-18"
 imdb: "1189073"
+date: "2011-11-18"
+categories: "movies"
 title: "A Pele que Habito"
 stars: "5/5"
-categories: "movies"
-_title: "La piel que habito"
-_year: "2011"
-_director: ["Pedro Almodóvar", ]
-_writer: ["Agustín Almodóvar", "Pedro Almodóvar", "Thierry Jonquet", ]
-_cast: ["Antonio Banderas", "Elena Anaya", "Marisa Paredes", "Jan Cornet", "Roberto Álamo", "Eduard Fernández", "José Luis Gómez", "Blanca Suárez", "Susi Sánchez", ]
-_countries: ["Spain", ]
-_languages: ["Spanish", ]
-_editor: ["José Salcedo", ]
-_cinematographer: ["José Luis Alcaine", ]
-_music: ["Alberto Iglesias", ]
-_genres: ["Thriller", ]
-_runtimes: ["120", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjMwOTYyNDY4NV5BMl5BanBnXkFtZTcwNDI1ODk0Ng@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjMwOTYyNDY4NV5BMl5BanBnXkFtZTcwNDI1ODk0Ng@@._V1._SX94_SY140_.jpg"
+desc: "A Pele que Habito. La piel que habito (Spain, 2011). Dirigido por Pedro Almodóvar. Escrito por Agustín Almodóvar, Pedro Almodóvar, Thierry Jonquet. Com Antonio Banderas, Elena Anaya, Marisa Paredes, Jan Cornet, Roberto Álamo, Eduard Fernández, José Luis Gómez, Blanca Suárez, Susi Sánchez."
 ---
 É fascinante acompanhar a carreira de um diretor habilidoso como Almodóvar. Ele possui aquela flexibilidade rara que permite que entre em qualquer projeto mantendo a sua marca, mas ao mesmo tempo contribuindo positivamente para a narrativa, sem torná-la autoral. Ou pelo menos tenta.
 

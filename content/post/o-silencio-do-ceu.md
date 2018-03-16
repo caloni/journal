@@ -1,27 +1,11 @@
 ---
+tags: ['cabine']
+imdb: "5125930"
 date: "2016-09-13"
 categories: "movies"
 title: "O Silêncio do Céu"
-imdb: "5125930"
 stars: "5/5"
-tags: ['cabine' ]
-_title: "Era el Cielo"
-_year: "2016"
-_director: ["Marco Dutra", ]
-_writer: ["Sergio Bizzio", "Sergio Bizzio", "Caetano Gotardo", "Lucía Puenzo", ]
-_cast: ["Leonardo Sbaraglia", "Carolina Dieckmann", "Chino Darín", "Alvaro Armand Ugon", "Mirella Pascual", "Roberto Suárez", "Paula Cohen", "Dylan Cortes", "Priscila Bellora", ]
-_countries: ["Brazil", ]
-_languages: ["Spanish", ]
-_editor: ["Eduardo Aquino", ]
-_cinematographer: ["Pedro Luque", ]
-_music: ["Guilherme Garbato", "Gustavo Garbato", ]
-_costume designer: ["Nicole Davrieux", ]
-_genres: ["Drama", ]
-_runtimes: ["102", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMWJlYWU3NzItMWI2Ni00ODc4LWIwNmMtYWQzMWRkMmVjYjQyXkEyXkFqcGdeQXVyMDYxMjcxMQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMWJlYWU3NzItMWI2Ni00ODc4LWIwNmMtYWQzMWRkMmVjYjQyXkEyXkFqcGdeQXVyMDYxMjcxMQ@@._V1._SX95_SY140_.jpg"
+desc: "O Silêncio do Céu. Era el Cielo (Brazil, 2016). Dirigido por Marco Dutra. Escrito por Sergio Bizzio, Sergio Bizzio, Caetano Gotardo, Lucía Puenzo. Com Leonardo Sbaraglia, Carolina Dieckmann, Chino Darín, Alvaro Armand Ugon, Mirella Pascual, Roberto Suárez, Paula Cohen, Dylan Cortes, Priscila Bellora."
 ---
 Marco Dutra, do ótimo Trabalhar Cansa, nos traz agora um drama com requintes de terror que apela para uma conexão social entre todos nós: o medo. E o medo, dessa vez, nem precisa ir ao sobrenatural buscar sua fonte. Ele está vivo e alerta dentro de cada um de nós.
 

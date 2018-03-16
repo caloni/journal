@@ -1,23 +1,10 @@
 ---
-date: "2012-10-25"
 imdb: "1835980"
+date: "2012-10-25"
+categories: "movies"
 title: "Felicidade"
 stars: "4/5"
-categories: "movies"
-_title: "Glück"
-_year: "2012"
-_director: ["Doris Dörrie", ]
-_writer: ["Doris Dörrie", "Ferdinand von Schirach", ]
-_cast: ["Alba Rohrwacher", "Vinzenz Kiefer", "Matthias Brandt", "Oliver Nägele", "Maren Kroymann", "Christina Große", "Paraschiva Dragus", "Margarita Broich", "Irene Rindje", ]
-_countries: ["Germany", ]
-_languages: ["German", ]
-_editor: ["Frank J. Müller", "Inez Regnier", ]
-_cinematographer: ["Hanno Lentz", ]
-_music: ["Volker Bertelmann", ]
-_genres: ["Drama", ]
-_runtimes: ["Argentina:112", ]
-_ratio: "2.35 : 1"
-_kind: "movie"
+desc: "Felicidade. Glück (Germany, 2012). Dirigido por Doris Dörrie. Escrito por Doris Dörrie, Ferdinand von Schirach. Com Alba Rohrwacher, Vinzenz Kiefer, Matthias Brandt, Oliver Nägele, Maren Kroymann, Christina Große, Paraschiva Dragus, Margarita Broich, Irene Rindje."
 ---
 Há uma introdução vigorosa e poderosa em Felicidade, novo trabalho da diretora Doris Dörrie (Hanami - Cerejeiras em Flor). Sem diálogos e um jogo de sons e imagens extremamente econômicos em sua mensagem, acompanhamos a vida perfeita e feliz de Irina (Alba Rohrwacher) em seu país de origem seguido da tragédia que vem com a guerra, representada por um grupo impiedoso de soldados. O choque de realidades é intenso, mas em poucos momentos aliviado com a visão de um cervo, que representa não apenas a última visão de Irina e sua terra natal, mas a capacidade do filme de amenizar passagens fortes de sua história, uma virtude e ao mesmo tempo a sua maior fraqueza.
 

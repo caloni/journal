@@ -1,27 +1,11 @@
 ---
-date: "2016-03-31"
-tags: [ "cabine" ]
+tags: ['cabine']
 imdb: "1663655"
-stars: "4/5"
+date: "2016-03-31"
 categories: "movies"
 title: "Martyrs"
-_title: "Martyrs"
-_year: "2015"
-_director: ["Kevin Goetz", "Michael Goetz", ]
-_writer: ["Pascal Laugier", "Mark L. Smith", ]
-_cast: ["Troian Bellisario", "Bailey Noble", "Kate Burton", "Caitlin Carmichael", "Melissa Tracy", "Romy Rosemont", "Toby Huss", "Elyse Cole", "Ever Prishkulnik", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Jake York", ]
-_cinematographer: ["Sean O'Dea", ]
-_music: ["Evan Goldman", ]
-_artdirection: ["Vivian Quaid", ]
-_costume designer: ["Sheila Hume", ]
-_genres: ["Drama", ]
-_runtimes: ["86", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjYyOTM2MjcyOF5BMl5BanBnXkFtZTgwMzAwMTA1NzE@.jpg"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjYyOTM2MjcyOF5BMl5BanBnXkFtZTgwMzAwMTA1NzE@._V1._SX94_SY140_.jpg"
+stars: "4/5"
+desc: "Martyrs. Martyrs (USA, 2015). Dirigido por Kevin Goetz, Michael Goetz. Escrito por Pascal Laugier, Mark L. Smith. Com Troian Bellisario, Bailey Noble, Kate Burton, Caitlin Carmichael, Melissa Tracy, Romy Rosemont, Toby Huss, Elyse Cole, Ever Prishkulnik."
 ---
 Um terror mais sobre ideias, embora recheado de violência. Utilizando uma premissa simples e um desenvolvimento econômico, Martyrs não precisa contar muito sobre seus personagens, embora se tornaria muito mais palatável do que a velha aposta no sofrimento genérico em seres humanos que acabamos de conhecer e não sabemos nada sobre eles.
 

@@ -1,25 +1,10 @@
 ---
-date: "2014-10-13"
 imdb: "0099785"
+date: "2014-10-13"
+categories: "movies"
 title: "Esqueceram de Mim"
 stars: "5/5"
-categories: "movies"
-_title: "Home Alone"
-_year: "1990"
-_director: ["Chris Columbus", ]
-_writer: ["John Hughes", ]
-_cast: ["Macaulay Culkin", "Joe Pesci", "Daniel Stern", "John Heard", "Roberts Blossom", "Catherine O'Hara", "Angela Goethals", "Devin Ratray", "Gerry Bamman", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Raja Gosnell", ]
-_cinematographer: ["Julio Macat", ]
-_music: ["John Williams", ]
-_genres: ["Comedy", ]
-_runtimes: ["103", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTUzMzg4MTg2M15BMl5BanBnXkFtZTYwNDM4OTk4.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTUzMzg4MTg2M15BMl5BanBnXkFtZTYwNDM4OTk4._V1._SX100_SY140_.jpg"
+desc: "Esqueceram de Mim. Home Alone (USA, 1990). Dirigido por Chris Columbus. Escrito por John Hughes. Com Macaulay Culkin, Joe Pesci, Daniel Stern, John Heard, Roberts Blossom, Catherine O'Hara, Angela Goethals, Devin Ratray, Gerry Bamman."
 ---
 Esse foi o primeiro filme que eu vi no cinema. Não me lembro de tê-lo revisto por inteiro depois (nem na televisão) e curiosamente me recordo quase que na íntegra toda sua divertida e poderosa narrativa (diferente de Superman III, que vi no cinema três anos depois). É o tipo de filme que adultos e crianças podem gostar, mas provavelmente será por motivos diferentes. Antes eu adorava pelas invenções que o jovem Macaulay Culkin criava quase que de maneira sobrenatural (afinal, um menino de oito anos não teria tanta criatividade, pensava, lá com os meus... dez anos). Agora eu adoro pela apresentação de seus personagens, sua história, seus cenários, sua trilha sonora, seus enquadramentos feitos sob medida. Tudo para acreditarmos que é possível que uma família esqueça um de seus filhos sozinho em casa enquanto parte para uma viagem em um lugar distante. No Natal.
 

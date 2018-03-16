@@ -1,22 +1,10 @@
 ---
-date: "2015-04-02"
 imdb: "1865505"
-stars: "5/5"
+date: "2015-04-02"
 categories: "movies"
 title: "Song of the Sea"
-_title: "Song of the Sea"
-_year: "2014"
-_director: ["Tomm Moore", ]
-_writer: ["Will Collins", "Tomm Moore", ]
-_cast: ["David Rawle", "Brendan Gleeson", "Lisa Hannigan", "Fionnula Flanagan", "Lucy O'Connell", "Jon Kenny", "Pat Shortt", "Colm Ó'Snodaigh", "Liam Hourican", ]
-_countries: ["Ireland", ]
-_languages: ["English", ]
-_music: ["Bruno Coulais", ]
-_genres: ["Animation", ]
-_runtimes: ["93", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQ2MDMwNjEwNV5BMl5BanBnXkFtZTgwOTkxMzI0MzE@.jpg"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQ2MDMwNjEwNV5BMl5BanBnXkFtZTgwOTkxMzI0MzE@._V1._SX97_SY140_.jpg"
+stars: "5/5"
+desc: "Song of the Sea. Song of the Sea (Ireland, 2014). Dirigido por Tomm Moore. Escrito por Will Collins, Tomm Moore. Com David Rawle, Brendan Gleeson, Lisa Hannigan, Fionnula Flanagan, Lucy O'Connell, Jon Kenny, Pat Shortt, Colm Ó'Snodaigh, Liam Hourican."
 ---
 Song of the Sea -- uma animação ainda inédita no Brasil porque as distribuidoras preferem a garantia de produtos xarope como Big Hero -- é um banho de água fresca nas animações e nos filmes em geral. É uma história pouco criativa e muito inspiradora, com uma animação de fazer perder o fio da meada, pois ficamos admirando cada detalhe de suas figuras geometricamente harmoniosas e com paletas de cores imensamente significativas, seja no frio gélido do mar ou no interior de um aconchegante bar. É uma obra estilizada e plástica, mas ao mesmo tempo com coração. A emoção do filme reside em sua trilha sonora e em suas dublagens carismáticas (mesmo que os personagens não falem muito). E, claro, em sua história que poderia até ser acusada de manipuladora se não preenchesse seus curtíssimos 93 minutos de maneira tão natural.
 

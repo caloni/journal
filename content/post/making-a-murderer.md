@@ -1,25 +1,11 @@
 ---
-date: "2016-02-07"
-imdb: "5189670"
-stars: "5/5"
-title: "Making a Murderer"
-categories: "series"
 tags: ['netflix', 'series']
-_title: "Making a Murderer"
-_year: "2015"
-_director: ["Moira Demos", "Laura Ricciardi", ]
-_writer: ["Moira Demos", "Laura Ricciardi", ]
-_cast: ["Steven Avery", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Moira Demos", ]
-_cinematographer: ["Moira Demos", ]
-_genres: ["Documentary", ]
-_runtimes: ["60", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNTc4NjI4NjYyNl5BMl5BanBnXkFtZTgwNzk1NTczNzE@.jpg"
-_ratio: "1.78 : 1"
-_kind: "tv series"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNTc4NjI4NjYyNl5BMl5BanBnXkFtZTgwNzk1NTczNzE@._V1._SX91_SY140_.jpg"
+imdb: "5189670"
+date: "2016-02-07"
+categories: "series"
+title: "Making a Murderer"
+stars: "5/5"
+desc: "Making a Murderer. Making a Murderer (USA, 2015). Dirigido por Moira Demos, Laura Ricciardi. Escrito por Moira Demos, Laura Ricciardi. Com Steven Avery."
 ---
 Filmado por um período de 10 anos, Making a Murderer é um documentário que assume a posição do réu Steven Avery, que foi preso por 18 anos por um crime que não cometeu e que, posto em liberdade, precisa se defender novamente de mais uma acusação de um crime hediondo. Porém, mais do que isso, é um filme que nos ajuda a pensar a problemática das diferentes versões de um fato e como a construção de uma história se torna mais vital do que a própria história, além de colocar em xeque o sistema americano de justiça, quando uma comunidade inteira parece estar disposta a colocar um homem detrás das grades para sempre por um jogo de influências que é difícil de se desvencilhar. Indo mais além, o documentário, pode-se dizer, escancara como é sensivemente falha a fé popular nas autoridades e na figura do próprio estado.
 

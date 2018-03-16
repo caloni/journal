@@ -1,25 +1,10 @@
 ---
-date: "2014-12-20"
 imdb: "1307068"
+date: "2014-12-20"
+categories: "movies"
 title: "Procura-se um Amigo para o Fim do Mundo"
 stars: "1/5"
-categories: "movies"
-_title: "Seeking a Friend for the End of the World"
-_year: "2012"
-_director: ["Lorene Scafaria", ]
-_writer: ["Lorene Scafaria", ]
-_cast: ["Brad Morris", "Steve Carell", "Nancy Carell", "Mark Moses", "Roger Aaron Brown", "Rob Huebel", "Trisha Gorman", "Keira Knightley", "Adam Brody", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Zene Baker", ]
-_cinematographer: ["Tim Orr", ]
-_music: ["Jonathan Sadoff", "Rob Simonsen", ]
-_genres: ["Comedy", ]
-_runtimes: ["101", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTk4MDQ1NzE3N15BMl5BanBnXkFtZTcwMjA0MDkzNw@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTk4MDQ1NzE3N15BMl5BanBnXkFtZTcwMjA0MDkzNw@@._V1._SX94_SY140_.jpg"
+desc: "Procura-se um Amigo para o Fim do Mundo. Seeking a Friend for the End of the World (USA, 2012). Dirigido por Lorene Scafaria. Escrito por Lorene Scafaria. Com Brad Morris, Steve Carell, Nancy Carell, Mark Moses, Roger Aaron Brown, Rob Huebel, Trisha Gorman, Keira Knightley, Adam Brody."
 ---
 Esse filme começa com uma premissa interessante e um tanto absurda: foi declarado que um meteoro irá se chocar com a Terra em 21 dias e que todos irão morrer. No mesmo instante a mulher do personagem de Steve Carell (sua própria esposa, Nancy Carell) sai do carro e foge de sua vida. No dia seguinte o vemos indo ao serviço como se nada tivesse acontecido e, o pior: há pessoas indo trabalhar normalmente.
 

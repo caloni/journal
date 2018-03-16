@@ -1,29 +1,11 @@
 ---
+tags: ['netflix']
+imdb: "1825157"
 date: "2017-03-26"
 categories: "movies"
 title: "O Duplo"
-imdb: "1825157"
 stars: "5/5"
-tags: ['netflix']
-_title: "The Double"
-_year: "2013"
-_director: ["Richard Ayoade", ]
-_writer: ["Fyodor Dostoevsky", "Richard Ayoade", "Avi Korine", ]
-_cast: ["Jesse Eisenberg (Simon / James)", "Mia Wasikowska (Hannah)", "Wallace Shawn (Mr Papadopoulos)", "Yasmin Paige (Melanie)", "Noah Taylor (Harris)", "James Fox (The Colonel)", "Cathy Moriarty (Kiki)", "Phyllis Somerville (Simon's Mother)", "Gabrielle Downey (Strange Woman)", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Chris Dickens", "Nick Fenton", ]
-_cinematographer: ["Erik Wilson", ]
-_music: ["Andrew Hewitt", ]
-_artdirection: ["Denis Schnegg", ]
-_costume designer: ["Jacqueline Durran", ]
-_genres: ["Comedy", ]
-_runtimes: ["93", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTExMzY5MjAwODZeQTJeQWpwZ15BbWU4MDg0NTcxNDAx.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTExMzY5MjAwODZeQTJeQWpwZ15BbWU4MDg0NTcxNDAx._V1._SX98_SY140_.jpg"
-_releasedate: "26 February 2015"
+desc: "O Duplo. The Double (UK, 2013). Dirigido por Richard Ayoade. Escrito por Fyodor Dostoevsky, Richard Ayoade, Avi Korine. Com Jesse Eisenberg (Simon / James), Mia Wasikowska (Hannah), Wallace Shawn (Mr Papadopoulos), Yasmin Paige (Melanie), Noah Taylor (Harris), James Fox (The Colonel), Cathy Moriarty (Kiki), Phyllis Somerville (Simon's Mother), Gabrielle Downey (Strange Woman)."
 ---
 O Duplo é uma viagem moderna, animesca, exagerada, utópica e livre de interpretações do livro homônimo de Fyodor Dostoevsky. Apresentando uma estética rica e impecável, o diretor Richard Ayoade adaptou o conteúdo do romance do autor russo com a ajuda de Avi Korine e entregaram um resultado além das expectativas de alguém poderia pensar de um filme protagonizado por Jesse Eisenberg como um herói tragicômico. Se trata de uma premissa simples: e se seu pior inimigo fosse você mesmo, mas em uma versão que todos reconheçam como um ser humano completo -- ainda que imoral -- e que você seja um mero espectador do sucesso que você poderia ser se pudesse, paradoxalmente, colocar seu próprio eu de lado, deixando de atrapalhar sua existência.
 

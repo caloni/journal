@@ -1,25 +1,10 @@
 ---
-date: "2013-08-11"
 imdb: "0918575"
+date: "2013-08-11"
+categories: "movies"
 title: "Victim"
 stars: "5/5"
-categories: "movies"
-_title: "Victim"
-_year: "2010"
-_director: ["Matt Eskandari", "Michael A. Pierce", ]
-_writer: ["Michael Hultquist", "Robert Martinez", ]
-_cast: ["Stephen Weigand", "Bob Bancroft", "Brendan Kelly", "Jelly Howie", "Stacy Haiduk", "Bru Muller", "Wayne Morse", "Dianne Kwon", "Tara Holt", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Tom Gould", "Bryan Roberts", ]
-_cinematographer: ["Nelson Cragg", ]
-_music: ["Rob Simon", ]
-_genres: ["Horror", ]
-_runtimes: ["90", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjAwNzQ1NzM4NV5BMl5BanBnXkFtZTcwMDY3OTY2Mw@@.jpg"
-_ratio: "1.78 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjAwNzQ1NzM4NV5BMl5BanBnXkFtZTcwMDY3OTY2Mw@@._V1._SX91_SY140_.jpg"
+desc: "Victim. Victim (USA, 2010). Dirigido por Matt Eskandari, Michael A. Pierce. Escrito por Michael Hultquist, Robert Martinez. Com Stephen Weigand, Bob Bancroft, Brendan Kelly, Jelly Howie, Stacy Haiduk, Bru Muller, Wayne Morse, Dianne Kwon, Tara Holt."
 ---
 Adoro filmes que me surpreendem. Melhor ainda quando eles começam não prometendo quase nada. É o caso desse "Meu Passado me Condena" (Victim no original), que inicia como um thriller nada original, caminha por estradas tortuosas do gênero para finalmente se definir no terceiro ato com seu momento glorioso que nos faz voltar desde o começo e entender que nada do que parecia era exatamente como se supunha.
 

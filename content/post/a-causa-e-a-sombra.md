@@ -1,21 +1,11 @@
 ---
+tags: ['mostrasp']
+imdb: "5291602"
 date: "2016-10-31"
 categories: "movies"
 title: "A Causa e a Sombra"
-imdb: "5291602"
 stars: "2/5"
-tags: ['mostrasp']
-_title: "A Causa e a Sombra"
-_year: "2015"
-_director: ["Tiago Afonso", ]
-_writer: ["Tiago Afonso", ]
-_countries: ["Portugal", ]
-_languages: ["Portuguese", ]
-_editor: ["Tomás Baltazar", ]
-_cinematographer: ["Tiago Afonso", "Jorge Quintela", ]
-_music: ["Zeca Afonso", ]
-_genres: ["Documentary", ]
-_kind: "movie"
+desc: "A Causa e a Sombra. A Causa e a Sombra (Portugal, 2015). Dirigido por Tiago Afonso. Escrito por Tiago Afonso."
 ---
 Um filme sobre as pessoas torturadas e presas pela ditadura no Brasil nas décadas de 60/70 que se esquece de avisar ao espectador qual era o grande medo da população e dos militares caso os "revolucionários militantes" chegassem ao poder. Na verdade, é pior, pois se ao menos o filme se mantivesse centrado apenas no aspecto humano seria minimamente interessante, além de servir de alerta sobre a falta de limites do Estado. Mas é claro que ele precisa pintar aquelas pessoas como verdadeiros mártires, algozes e inspiradores de justiça, o que explica parcialmente a motivação dessas pessoas (só queriam ajudar os miseráveis, claro) quando no fundo se tornaram terroristas quando descobriram que não havia concordância nos planos mais gerais de ataque a Brasília.
 

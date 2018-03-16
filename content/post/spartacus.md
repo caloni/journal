@@ -1,25 +1,10 @@
 ---
-date: "2010-07-20"
 imdb: "0054331"
+date: "2010-07-20"
+categories: "movies"
 title: "Spartacus"
 stars: "5/5"
-categories: "movies"
-_title: "Spartacus"
-_year: "1960"
-_director: ["Stanley Kubrick", ]
-_writer: ["Dalton Trumbo", "Howard Fast", "Peter Ustinov", "Calder Willingham", ]
-_cast: ["Kirk Douglas", "Laurence Olivier", "Jean Simmons", "Charles Laughton", "Peter Ustinov", "John Gavin", "Nina Foch", "John Ireland", "Herbert Lom", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Robert Lawrence", "Irving Lerner", ]
-_cinematographer: ["Russell Metty", ]
-_music: ["Alex North", ]
-_genres: ["Action", ]
-_runtimes: ["184::(premiere version)", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTAzNDcwODQ1MjJeQTJeQWpwZ15BbWU4MDY3NTAzMTAx.jpg"
-_ratio: "2.20 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTAzNDcwODQ1MjJeQTJeQWpwZ15BbWU4MDY3NTAzMTAx._V1._SX97_SY140_.jpg"
+desc: "Spartacus. Spartacus (USA, 1960). Dirigido por Stanley Kubrick. Escrito por Dalton Trumbo, Howard Fast, Peter Ustinov, Calder Willingham. Com Kirk Douglas, Laurence Olivier, Jean Simmons, Charles Laughton, Peter Ustinov, John Gavin, Nina Foch, John Ireland, Herbert Lom."
 ---
 O primeiro filme de Stanley Kubrick. Kirk Douglas, produtor executivo, substituiu o diretor original, Anthony Mann, após a primeira semana de filmagens. Nessa época Kubrick contava 30 anos de idade, e apesar de ter feito já 4 produções, nenhuma com uma grandiosidade como essa. E o mais impressionante em todo o filme é esse tom épico, com quadros que evocam claramente outro clássico, de Cecil B. DeMille: Os 10 Mandamentos. Vemos a multidão de escravos rebeldes crescendo, formando acampamentos, atravessando vales gigantescos apenas com a vontade de ser livre.
 

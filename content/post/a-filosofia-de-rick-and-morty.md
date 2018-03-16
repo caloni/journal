@@ -1,25 +1,11 @@
 ---
-imdb: "2861424"
-stars: "5/5"
 tags: ['netflix', 'paulocoelho']
+imdb: "2861424"
 date: 2017-10-21T21:16:24
-title: "A Filosofia de Rick And Morty: Primeira Temporada (anotações)"
 categories: "blog"
-_title: "Rick and Morty"
-_year: "2013"
-_director: ["Pete Michels", "Wesley Archer", "Bryan Newton", "Juan Jose Meza-Leon", "Dominic Polcino", "John Rice", "Stephen Sandoval", "Anthony Chun", "Jeff Myers", ]
-_writer: ["Dan Harmon", "Justin Roiland", "Tom Kauffman", "Eric Acosta", "Wade Randolph", "Mike McMahan", "Ryan Ridley", "Matt Roller", "Jane Becker", ]
-_cast: ["Chris Parnell (Jerry Smith / ...)", "Spencer Grammer (Summer Smith / ...)", "Sarah Chalke (Beth Smith / ...)", "Justin Roiland (Rick Sanchez / ...)", "Kari Wahlgren (Jessica / ...)", "Tom Kenny (Squanchy / ...)", "Ryan Ridley (Additional Voices / ...)", "Maurice LaMarche (Abradolph Lincler / ...)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Lee Harting", "Ken MacKenzie", ]
-_music: ["Ryan Elder", "Jason Nesmith", ]
-_artdirection: ["James McDermott", "Jeffrey Thompson", ]
-_genres: ["Animation", ]
-_runtimes: ["22::(approx.)", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjRiNDRhNGUtMzRkZi00MThlLTg0ZDMtNjc5YzFjYmFjMmM4XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@.jpg"
-_kind: "tv series"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjRiNDRhNGUtMzRkZi00MThlLTg0ZDMtNjc5YzFjYmFjMmM4XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1._SX97_SY140_.jpg"
+title: "A Filosofia de Rick And Morty: Primeira Temporada (anotações)"
+stars: "5/5"
+desc: "A Filosofia de Rick And Morty: Primeira Temporada (anotações). Rick and Morty (USA, 2013). Dirigido por Pete Michels, Wesley Archer, Bryan Newton, Juan Jose Meza-Leon, Dominic Polcino, John Rice, Stephen Sandoval, Anthony Chun, Jeff Myers. Escrito por Dan Harmon, Justin Roiland, Tom Kauffman, Eric Acosta, Wade Randolph, Mike McMahan, Ryan Ridley, Matt Roller, Jane Becker. Com Chris Parnell (Jerry Smith / ...), Spencer Grammer (Summer Smith / ...), Sarah Chalke (Beth Smith / ...), Justin Roiland (Rick Sanchez / ...), Kari Wahlgren (Jessica / ...), Tom Kenny (Squanchy / ...), Ryan Ridley (Additional Voices / ...), Maurice LaMarche (Abradolph Lincler / ...)."
 ---
 Reassistindo a Primeira Temporada de Rick & Morty para revisar alguns pontos filosóficos fascinantes da série. Acabei vendo a Segunda Temporada e, como já acabou, a Terceira também. E a terceira é provavelmente a melhor de todas. Vejam! Eu sou Pickle Rick!!
 

@@ -1,26 +1,11 @@
 ---
-date: "2015-07-06"
+tags: ['netflix', 'sense8', 'series']
 imdb: "2431438"
-stars: "4/5"
+date: "2015-07-06"
 categories: "series"
 title: "Sense8"
-tags: ['netflix', 'sense8', 'series']
-_title: "Sense8"
-_year: "2015"
-_director: ["Andy Wachowski", "Lana Wachowski", "James McTeigue", "Tom Tykwer", ]
-_writer: ["J. Michael Straczynski", "Andy Wachowski", "Lana Wachowski", ]
-_cast: ["Aml Ameen", "Doona Bae", "Jamie Clayton", "Tina Desai", "Tuppence Middleton", "Max Riemelt", "Miguel Ángel Silvestre", "Brian J. Smith", "Freema Agyeman", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Joe Hobeck", "Joseph Jett Sally", ]
-_cinematographer: ["Christian Almesberger", "Frank Griebe", "John Toll", ]
-_music: ["Johnny Klimek", "Tom Tykwer", ]
-_genres: ["Drama", ]
-_runtimes: ["60", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTY2MjI4MjkxN15BMl5BanBnXkFtZTgwNjU5Nzk4NTE@.jpg"
-_ratio: "1.78 : 1"
-_kind: "tv series"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTY2MjI4MjkxN15BMl5BanBnXkFtZTgwNjU5Nzk4NTE@._V1._SX100_SY140_.jpg"
+stars: "4/5"
+desc: "Sense8. Sense8 (USA, 2015). Dirigido por Andy Wachowski, Lana Wachowski, James McTeigue, Tom Tykwer. Escrito por J. Michael Straczynski, Andy Wachowski, Lana Wachowski. Com Aml Ameen, Doona Bae, Jamie Clayton, Tina Desai, Tuppence Middleton, Max Riemelt, Miguel Ángel Silvestre, Brian J. Smith, Freema Agyeman."
 ---
 Essa é uma série que tem todos os motivos de ser "acusada" de novela, no sentido da história estar totalmente focada nas reviravoltas amorosas de seus personagens. Mas o que dizer quando o destino amoroso do personagem X, Y e Z estão unidos de uma maneira tão fantástica que é impossível de disassociá-los e montar a velha tabela par romântico ou trio amoroso?
 

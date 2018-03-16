@@ -1,29 +1,11 @@
 ---
-imdb: "1219827"
-stars: "3/5"
 tags: ['paulocoelho']
+imdb: "1219827"
 date: 2017-08-25T22:52:16
-title: "A Vigilante do Amanhã: Ghost In The Shell"
 categories: "movies"
-_title: "Ghost in the Shell"
-_year: "2017"
-_director: ["Rupert Sanders", ]
-_writer: ["Shirow Masamune", "Jamie Moss", "William Wheeler", "Ehren Kruger", ]
-_cast: ["Scarlett Johansson (Major)", "Pilou Asbæk (Batou)", "Takeshi Kitano (Aramaki)", "Juliette Binoche (Dr. Ouelet)", "Michael Pitt (Kuze)", "Chin Han (Togusa)", "Danusia Samal (Ladriya)", "Lasarus Ratuere (Ishikawa)", "Yutaka Izumihara (Saito)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Billy Rich", "Neil Smith", ]
-_cinematographer: ["Jess Hall", ]
-_music: ["Lorne Balfe", "Clint Mansell", ]
-_artdirection: ["Matt Austin", "Simon Bright", "Leri Greer", "Miro Harre", "Ben Hawker", "Richard L. Johnson", "Agata Maliauka", "Andy McLaren", "Erik Polczwartek", ]
-_costume designer: ["Kurt and Bart", ]
-_genres: ["Action", ]
-_runtimes: ["107", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMzJiNTI3MjItMGJiMy00YzA1LTg2MTItZmE1ZmRhOWQ0NGY1XkEyXkFqcGdeQXVyOTk4MTM0NQ@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMzJiNTI3MjItMGJiMy00YzA1LTg2MTItZmE1ZmRhOWQ0NGY1XkEyXkFqcGdeQXVyOTk4MTM0NQ@@._V1._SX95_SY140_.jpg"
-_releasedate: "30 March 2017"
+title: "A Vigilante do Amanhã: Ghost In The Shell"
+stars: "3/5"
+desc: "A Vigilante do Amanhã: Ghost In The Shell. Ghost in the Shell (USA, 2017). Dirigido por Rupert Sanders. Escrito por Shirow Masamune, Jamie Moss, William Wheeler, Ehren Kruger. Com Scarlett Johansson (Major), Pilou Asbæk (Batou), Takeshi Kitano (Aramaki), Juliette Binoche (Dr. Ouelet), Michael Pitt (Kuze), Chin Han (Togusa), Danusia Samal (Ladriya), Lasarus Ratuere (Ishikawa), Yutaka Izumihara (Saito)."
 ---
 Scarlett Johansson possui uma beleza natural que encanta tanto pela beleza quanto pelo natural. E nem ela parece conseguir trazer algo de novo ao remake ocidental live-action de um dos trabalhos filosoficamente mais ambiciosos dos últimos tempos. E se nem ela consegue, não serão efeitos digitais nem diálogos em inglês que o farão.
 

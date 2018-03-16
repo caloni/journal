@@ -1,24 +1,11 @@
 ---
-imdb: "7573686"
-stars: "3/5"
 tags: ['netflix']
+imdb: "7573686"
 date: 2017-12-27T16:43:04
-title: "Erased: Piloto"
 categories: "blog"
-_title: "Bokudake ga Inai Machi"
-_year: "2017"
-_director: ["Ten Shimoyama", ]
-_writer: ["Kei Sanbe", ]
-_cast: ["Yûki Furukawa (Satoru Fujinuma)", "Tomoka Kurotani (Sachiko Fujinuma)", "Reo Uchikawa (Satoru Fujinuma - Age 10)", "RiRia (Satoru Fujinuma (10-year-old))", "Shigeyuki Totsugi (Gaku Yashiro)", "Jyo Kairi (Hiromi Sugita - Age 10)", "Rinka Kakihara (Kayo Hinazuki - Age 10)", "Mio Yûki (Airi Katagiri)", ]
-_countries: ["Japan", ]
-_languages: ["Japanese", ]
-_cinematographer: ["Koshi Kiyokawa", ]
-_music: ["Ally Hustings", "Tony McVann", ]
-_genres: ["Drama", "Mystery", ]
-_runtimes: ["30", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNTEyMDEwMzEtYWRmNC00Y2Q2LWEyNzMtNzQ1MjQ2ZDFiNzM2XkEyXkFqcGdeQXVyNTI1MDU0MzM@._V1_.jpg"
-_kind: "tv series"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNTEyMDEwMzEtYWRmNC00Y2Q2LWEyNzMtNzQ1MjQ2ZDFiNzM2XkEyXkFqcGdeQXVyNTI1MDU0MzM@._V1_UY268_CR4,0,182,268_AL_.jpg"
+title: "Erased: Piloto"
+stars: "3/5"
+desc: "Erased: Piloto. Bokudake ga Inai Machi (Japan, 2017). Dirigido por Ten Shimoyama. Escrito por Kei Sanbe. Com Yûki Furukawa (Satoru Fujinuma), Tomoka Kurotani (Sachiko Fujinuma), Reo Uchikawa (Satoru Fujinuma - Age 10), RiRia (Satoru Fujinuma (10-year-old)), Shigeyuki Totsugi (Gaku Yashiro), Jyo Kairi (Hiromi Sugita - Age 10), Rinka Kakihara (Kayo Hinazuki - Age 10), Mio Yûki (Airi Katagiri)."
 ---
 Esta é uma série fantástica baseada tão fortemente em um mangá e anime que ele pode ser o delírio do fã das obras originais ou atiçar a curiosidade do cinéfilo. Por que a curiosidade? Se observarmos os movimentos de câmera, a forma de disposição dos personagens e dos elementos em cena perceberemos que esta obra continua sendo um anime em forma.
 

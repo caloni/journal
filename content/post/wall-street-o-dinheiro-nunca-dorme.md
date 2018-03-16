@@ -1,25 +1,10 @@
 ---
-date: "2010-09-24"
 imdb: "1027718"
+date: "2010-09-24"
+categories: "movies"
 title: "Wall Street O Dinheiro Nunca Dorme"
 stars: "4/5"
-categories: "movies"
-_title: "Wall Street: Money Never Sleeps"
-_year: "2010"
-_director: ["Oliver Stone", ]
-_writer: ["Allan Loeb", "Stephen Schiff", "Stanley Weiser", "Oliver Stone", ]
-_cast: ["Richard Stratton", "Harry Kerrigan", "Michael Douglas", "Carey Mulligan", "Shia LaBeouf", "Sunil Hirani", "Maria Bartiromo", "Austin Pendleton", "Thomas Belesis", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["David Brenner", "Julie Monroe", ]
-_cinematographer: ["Rodrigo Prieto", ]
-_music: ["Craig Armstrong", ]
-_genres: ["Drama", ]
-_runtimes: ["133", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTU5MDEzMzYwMF5BMl5BanBnXkFtZTcwNTcwMjUxMw@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTU5MDEzMzYwMF5BMl5BanBnXkFtZTcwNTcwMjUxMw@@._V1._SX95_SY140_.jpg"
+desc: "Wall Street O Dinheiro Nunca Dorme. Wall Street: Money Never Sleeps (USA, 2010). Dirigido por Oliver Stone. Escrito por Allan Loeb, Stephen Schiff, Stanley Weiser, Oliver Stone. Com Richard Stratton, Harry Kerrigan, Michael Douglas, Carey Mulligan, Shia LaBeouf, Sunil Hirani, Maria Bartiromo, Austin Pendleton, Thomas Belesis."
 ---
 Essa seria a continuação do original Wall Street, quando o protagonista sai da prisão e sua filha namora um operador de Wall Street.
 

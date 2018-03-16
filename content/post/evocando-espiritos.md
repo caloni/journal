@@ -1,25 +1,10 @@
 ---
-date: "2014-06-12"
 imdb: "0492044"
+date: "2014-06-12"
+categories: "movies"
 title: "Evocando Espíritos"
 stars: "3/5"
-categories: "movies"
-_title: "The Haunting in Connecticut"
-_year: "2009"
-_director: ["Peter Cornwell", ]
-_writer: ["Adam Simon", "Tim Metcalfe", ]
-_cast: ["Virginia Madsen", "Kyle Gallner", "Elias Koteas", "Amanda Crew", "Martin Donovan", "Sophi Knight", "Ty Wood", "Erik J. Berg", "John Bluethner", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Tom Elkins", ]
-_cinematographer: ["Adam Swica", ]
-_music: ["Robert J. Kral", ]
-_genres: ["Drama", ]
-_runtimes: ["92", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjE0NDU1NzY0OV5BMl5BanBnXkFtZTcwOTY4NTczMg@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjE0NDU1NzY0OV5BMl5BanBnXkFtZTcwOTY4NTczMg@@._V1._SX91_SY140_.jpg"
+desc: "Evocando Espíritos. The Haunting in Connecticut (USA, 2009). Dirigido por Peter Cornwell. Escrito por Adam Simon, Tim Metcalfe. Com Virginia Madsen, Kyle Gallner, Elias Koteas, Amanda Crew, Martin Donovan, Sophi Knight, Ty Wood, Erik J. Berg, John Bluethner."
 ---
 Evocando espíritos é uma história de terror que consegue unir espiritismo com câncer, além de no processo conseguir boas sequências que unem a história de um garoto sensitivo nos tempos atuais com um garoto ainda mais sensitivo que participou de um experimento além-vida que causou muita dor e sofrimento represada na casa que a família acabou de se mudar.
 

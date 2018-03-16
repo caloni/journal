@@ -1,25 +1,10 @@
 ---
-date: "2011-11-02"
 imdb: "1403865"
+date: "2011-11-02"
+categories: "movies"
 title: "Bravura Indômita"
 stars: "5/5"
-categories: "movies"
-_title: "True Grit"
-_year: "2010"
-_director: ["Ethan Coen", "Joel Coen", ]
-_writer: ["Joel Coen", "Ethan Coen", "Charles Portis", ]
-_cast: ["Jeff Bridges", "Hailee Steinfeld", "Matt Damon", "Josh Brolin", "Barry Pepper", "Dakin Matthews", "Jarlath Conroy", "Paul Rae", "Domhnall Gleeson", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Ethan Coen", "Joel Coen", ]
-_cinematographer: ["Roger Deakins", ]
-_music: ["Carter Burwell", ]
-_genres: ["Adventure", ]
-_runtimes: ["110", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjIxNjAzODQ0N15BMl5BanBnXkFtZTcwODY2MjMyNA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjIxNjAzODQ0N15BMl5BanBnXkFtZTcwODY2MjMyNA@@._V1._SX90_SY140_.jpg"
+desc: "Bravura Indômita. True Grit (USA, 2010). Dirigido por Ethan Coen, Joel Coen. Escrito por Joel Coen, Ethan Coen, Charles Portis. Com Jeff Bridges, Hailee Steinfeld, Matt Damon, Josh Brolin, Barry Pepper, Dakin Matthews, Jarlath Conroy, Paul Rae, Domhnall Gleeson."
 ---
 Com uma trilha sonora repetitiva, mas leve o suficiente para não soar dessa forma, temos a caracterização de um tema, assim como Morricone fez com Três Homens em Conflito, mas sem todo o espetáculo.
 

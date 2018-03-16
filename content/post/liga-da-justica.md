@@ -1,29 +1,11 @@
 ---
-imdb: "0974015"
-stars: "2/5"
 tags: ['cinema', 'dceu']
+imdb: "0974015"
 date: 2017-11-24T19:14:37
-title: "Liga da Justiça"
 categories: "movies"
-_title: "Justice League"
-_year: "2017"
-_director: ["Zack Snyder", ]
-_writer: ["Chris Terrio", "Joss Whedon", "Zack Snyder", "Jerry Siegel", "Joe Shuster", "Gardner Fox", "Bob Kane", "Bill Finger", "William Moulton Marston", ]
-_cast: ["Ben Affleck (Batman / Bruce Wayne)", "Henry Cavill (Superman / Clark Kent)", "Amy Adams (Lois Lane)", "Gal Gadot (Wonder Woman / Diana Prince)", "Ezra Miller (The Flash / Barry Allen)", "Jason Momoa (Aquaman / Arthur Curry)", "Ray Fisher (Cyborg / Victor Stone)", "Jeremy Irons (Alfred)", "Diane Lane (Martha Kent)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["David Brenner", "Richard Pearson", "Martin Walsh", ]
-_cinematographer: ["Fabian Wagner", ]
-_music: ["Danny Elfman", ]
-_artdirection: ["Lorin Flemming", "Matthew Gray", "Joseph Hiura", "Christian Huband", "Kevin Ishioka", "Helen Jarvis", "Paul Laugier", "Samuel Leake", "Keith Pain", ]
-_costume designer: ["Michael Wilkinson", ]
-_genres: ["Action", ]
-_runtimes: ["120", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BYWVhZjZkYTItOGIwYS00NmRkLWJlYjctMWM0ZjFmMDU4ZjEzXkEyXkFqcGdeQXVyMTMxODk2OTU@.jpg"
-_ratio: "1.37 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BYWVhZjZkYTItOGIwYS00NmRkLWJlYjctMWM0ZjFmMDU4ZjEzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1._SX94_SY140_.jpg"
-_releasedate: "15 November 2017"
+title: "Liga da Justiça"
+stars: "2/5"
+desc: "Liga da Justiça. Justice League (USA, 2017). Dirigido por Zack Snyder. Escrito por Chris Terrio, Joss Whedon, Zack Snyder, Jerry Siegel, Joe Shuster, Gardner Fox, Bob Kane, Bill Finger, William Moulton Marston. Com Ben Affleck (Batman / Bruce Wayne), Henry Cavill (Superman / Clark Kent), Amy Adams (Lois Lane), Gal Gadot (Wonder Woman / Diana Prince), Ezra Miller (The Flash / Barry Allen), Jason Momoa (Aquaman / Arthur Curry), Ray Fisher (Cyborg / Victor Stone), Jeremy Irons (Alfred), Diane Lane (Martha Kent)."
 ---
 Há alguns bons minutos no começo de Liga da Justiça onde eu gostaria muito de voltar a ser criança e vibrar vendo Mulher Maravilha, Batman e Flash juntos! Esses bons minutos, no entanto, passam logo, e no lugar vemos exatamente 120 minutos de uma obra sem começo nem fim, visualmente e narrativamente confusa, barulhenta e com uma miscelânea de cores que não combinam muito bem juntas. A colagem de Mulher-Maravilha dentro de um cenário, ambos com cores bem díspares, é o que representa para mim a união entre milhões sendo gastos em uma produção que parece sempre barata demais.
 

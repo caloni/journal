@@ -1,25 +1,10 @@
 ---
-date: "2011-05-29"
 imdb: "0121765"
+date: "2011-05-29"
+categories: "movies"
 title: "Star Wars Episódio II Ataque dos Clones"
 stars: "5/5"
-categories: "movies"
-_title: "Star Wars: Episode II - Attack of the Clones"
-_year: "2002"
-_director: ["George Lucas", ]
-_writer: ["George Lucas", "George Lucas", "Jonathan Hales", ]
-_cast: ["Ewan McGregor", "Natalie Portman", "Hayden Christensen", "Christopher Lee", "Samuel L. Jackson", "Frank Oz", "Ian McDiarmid", "Pernilla August", "Temuera Morrison", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Ben Burtt", "George Lucas", ]
-_cinematographer: ["David Tattersall", ]
-_music: ["John Williams", ]
-_genres: ["Action", ]
-_runtimes: ["142", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTY5MjI5NTIwNl5BMl5BanBnXkFtZTYwMTM1Njg2.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTY5MjI5NTIwNl5BMl5BanBnXkFtZTYwMTM1Njg2._V1._SX100_SY132_.jpg"
+desc: "Star Wars Episódio II Ataque dos Clones. Star Wars: Episode II - Attack of the Clones (USA, 2002). Dirigido por George Lucas. Escrito por George Lucas, George Lucas, Jonathan Hales. Com Ewan McGregor, Natalie Portman, Hayden Christensen, Christopher Lee, Samuel L. Jackson, Frank Oz, Ian McDiarmid, Pernilla August, Temuera Morrison."
 ---
 A República começa a perder a força, e o desespero pela resolução da crise no Senado faz com que forças especiais sejam entregues ao Chanceler Palpatine. Como podemos ver, a história caminha em ritmo adequado para o ponto de encontro com o antes chamado Guerra nas Estrelas e rebatizado para Episódio IV.
 

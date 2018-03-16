@@ -1,27 +1,10 @@
 ---
-date: "2016-05-06"
 imdb: "0234215"
-stars: "4/5"
+date: "2016-05-06"
 categories: "movies"
 title: "Matrix Reloaded"
-_title: "The Matrix Reloaded"
-_year: "2003"
-_director: ["Lana Wachowski", "Lilly Wachowski", ]
-_writer: ["Lilly Wachowski", "Lana Wachowski", "Lilly Wachowski", "Lana Wachowski", ]
-_cast: ["Ray Anthony", "Christine Anu", "Andy Arness", "Alima Ashton-Sheibu", "Helmut Bakaitis", "Steve Bastoni", "Don Battee", "Monica Bellucci", "Daniel Bernhardt", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Zach Staenberg", ]
-_cinematographer: ["Bill Pope", ]
-_music: ["Don Davis", ]
-_artdirection: ["Hugh Bateup", "Nanci Noblett", ]
-_costume designer: ["Kym Barrett", ]
-_genres: ["Action", ]
-_runtimes: ["138", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjA0NDM5MDY2OF5BMl5BanBnXkFtZTcwNzg5OTEzMw@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjA0NDM5MDY2OF5BMl5BanBnXkFtZTcwNzg5OTEzMw@@._V1._SX94_SY140_.jpg"
+stars: "4/5"
+desc: "Matrix Reloaded. The Matrix Reloaded (USA, 2003). Dirigido por Lana Wachowski, Lilly Wachowski. Escrito por Lilly Wachowski, Lana Wachowski, Lilly Wachowski, Lana Wachowski. Com Ray Anthony, Christine Anu, Andy Arness, Alima Ashton-Sheibu, Helmut Bakaitis, Steve Bastoni, Don Battee, Monica Bellucci, Daniel Bernhardt."
 ---
 Justiça seja feita: Matrix Reloaded é um esforço monumental dos irmãos (ou irmãs) Wachowski e o produtor Joel Silver em expandir e comentar o universo criado em seu antecessor, "Matrix". O filme e o roteiro tentam instigar a todo momento o espectador a pensar fora da caixa. Usa metáforas com o mundo dos computadores e argumenta tanto de maneira mística quanto filosófica. Exibe momentos cinematográficos exuberantes, muitas vezes apenas "porque sim", mas pelo menos nunca deixa de cuidar que pop, cult e intelectual caminhem juntos.
 

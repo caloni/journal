@@ -1,25 +1,10 @@
 ---
+imdb: "0062622"
 date: "2013-10-23"
 categories: "movies"
-imdb: "0062622"
-stars: "5/5"
 title: "2001: Uma Odisseia no Espaço"
-_title: "2001: A Space Odyssey"
-_year: "1968"
-_director: ["Stanley Kubrick", ]
-_writer: ["Stanley Kubrick", "Arthur C. Clarke", ]
-_cast: ["Keir Dullea (Dr. Dave Bowman)", "Gary Lockwood (Dr. Frank Poole)", "William Sylvester (Dr. Heywood R. Floyd)", "Daniel Richter (Moon-Watcher)", "Leonard Rossiter (Dr. Andrei Smyslov)", "Margaret Tyzack (Elena)", "Robert Beatty (Dr. Ralph Halvorsen)", "Sean Sullivan (Dr. Bill Michaels)", "Douglas Rain (HAL 9000)", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Ray Lovejoy", ]
-_cinematographer: ["Geoffrey Unsworth", ]
-_artdirection: ["John Hoesli", ]
-_genres: ["Adventure", ]
-_runtimes: ["149", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTZkZTBhYmUtMTIzNy00YTViLTg1OWItNGUwMmVlN2FjZTVkXkEyXkFqcGdeQXVyNDYyMDk5MTU@.jpg"
-_ratio: "2.20 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTZkZTBhYmUtMTIzNy00YTViLTg1OWItNGUwMmVlN2FjZTVkXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1._SX94_SY140_.jpg"
+stars: "5/5"
+desc: "2001: Uma Odisseia no Espaço. 2001: A Space Odyssey (UK, 1968). Dirigido por Stanley Kubrick. Escrito por Stanley Kubrick, Arthur C. Clarke. Com Keir Dullea (Dr. Dave Bowman), Gary Lockwood (Dr. Frank Poole), William Sylvester (Dr. Heywood R. Floyd), Daniel Richter (Moon-Watcher), Leonard Rossiter (Dr. Andrei Smyslov), Margaret Tyzack (Elena), Robert Beatty (Dr. Ralph Halvorsen), Sean Sullivan (Dr. Bill Michaels), Douglas Rain (HAL 9000)."
 ---
 A obra maior de Stanley Kubrick - ou pelo menos a mais ambiciosa e enigmática - permanece em seu auge mesmo mais de 45 anos depois da estreia. Diferente de filmes que podem ser compreendidos no conforto de sua casa, este é dos que deve ser degustado no espaço sagrado do Cinema. Aliás, ele funciona tão bem nessas condições que assinaria uma petição para que fosse exibido eternamente em uma sala tombada pelo patrimônio da humanidade.
 

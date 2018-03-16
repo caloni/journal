@@ -1,28 +1,11 @@
 ---
+tags: ['cabine']
+imdb: "3774114"
 date: "2016-11-02"
 categories: "movies"
 title: "Snowden"
-imdb: "3774114"
 stars: "4/5"
-tags: ['cabine']
-_title: "Snowden"
-_year: "2016"
-_director: ["Oliver Stone", ]
-_writer: ["Kieran Fitzgerald", "Oliver Stone", "Anatoly Kucherena", "Luke Harding", ]
-_cast: ["Melissa Leo (Laura Poitras)", "Zachary Quinto (Glenn Greenwald)", "Joseph Gordon-Levitt (Edward Snowden)", "Jaymes Butler (Drill Sergeant)", "Robert Firth (Dr. Stillwell)", "Rachel Handshaw (CIA Polygraph Adminstrator)", "Christian Contreras (CIA Psychologist)", "Parker Sawyers (CIA Interviewer)", "Rhys Ifans (Corbin O'Brian)", ]
-_countries: ["France", ]
-_languages: ["English", ]
-_editor: ["Alex Marquez", "Lee Percy", ]
-_cinematographer: ["Anthony Dod Mantle", ]
-_music: ["Craig Armstrong", "Adam Peters", ]
-_artdirection: ["Sarah Horton", "Adam O'Neill", "Uwe Stanik", ]
-_costume designer: ["Bina Daigeler", ]
-_genres: ["Biography", ]
-_runtimes: ["134", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg2MzYzNzgzOF5BMl5BanBnXkFtZTgwOTg4NzQ4OTE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg2MzYzNzgzOF5BMl5BanBnXkFtZTgwOTg4NzQ4OTE@._V1._SX90_SY140_.jpg"
+desc: "Snowden. Snowden (France, 2016). Dirigido por Oliver Stone. Escrito por Kieran Fitzgerald, Oliver Stone, Anatoly Kucherena, Luke Harding. Com Melissa Leo (Laura Poitras), Zachary Quinto (Glenn Greenwald), Joseph Gordon-Levitt (Edward Snowden), Jaymes Butler (Drill Sergeant), Robert Firth (Dr. Stillwell), Rachel Handshaw (CIA Polygraph Adminstrator), Christian Contreras (CIA Psychologist), Parker Sawyers (CIA Interviewer), Rhys Ifans (Corbin O'Brian)."
 ---
 O Estado vive aos poucos sua esperada queda, dessa vez na figura dos EUA, a única nação que tinha alguma esperança de ser um país livre. Essa liberdade no decorrer de séculos foi aos poucos trocada pela falsa sensação de segurança, traduzida atualmente nas mãos de seus líderes como perseguição ao terrorismo e socialismo para as massas, o que, na eterna ineficiência estatal, se traduz realmente em perseguição das massas e socialização com o terrorismo. Quanto tempo mais de internet o patriotismo se aguenta de pé?
 

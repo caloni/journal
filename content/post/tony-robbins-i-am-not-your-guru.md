@@ -1,24 +1,11 @@
 ---
+tags: ['netflix']
+imdb: "5151716"
 date: "2017-03-15"
 categories: "blog"
 title: "Tony Robbins: I Am Not Your Guru"
-imdb: "5151716"
 stars: "3/5"
-tags: ['netflix']
-_title: "Tony Robbins: I Am Not Your Guru"
-_year: "2016"
-_director: ["Joe Berlinger", ]
-_cast: ["Sage Bonnie Humphrey (Herself)", "Anthony Robbins (Himself)", "Dawn Watson (Herself)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Cy Christiansen", "Brett Mason", ]
-_cinematographer: ["Robert Richman", ]
-_music: ["Wendy Blackstone", ]
-_genres: ["Documentary", ]
-_runtimes: ["115", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMzM3NTAwMjAxMl5BMl5BanBnXkFtZTgwMjU0ODkxOTE@.jpg"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMzM3NTAwMjAxMl5BMl5BanBnXkFtZTgwMjU0ODkxOTE@._V1._SX94_SY140_.jpg"
+desc: "Tony Robbins: I Am Not Your Guru. Tony Robbins: I Am Not Your Guru (USA, 2016). Dirigido por Joe Berlinger. Com Sage Bonnie Humphrey (Herself), Anthony Robbins (Himself), Dawn Watson (Herself)."
 ---
 Tony pode não ser nada diferente do clichê daqueles vendedores de aulas de auto-ajuda, daqueles que apresentam uma nova forma de terapia que une um pouco da psicologia que funciona (e não a que transforma seu analista em seu parasita) e da religião oriental e seus mantras apaziguadores do espírito humano. No processo, veremos momentos de pura catarse emocional de humanos auto-centrado. E milhares de dólares jorrando para as contas de quem entrega o que as pessoas mais desejam nesse começo de século: estar conectada com outras pessoas e si mesmas.
 

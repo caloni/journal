@@ -1,25 +1,10 @@
 ---
-date: "2015-08-11"
 imdb: "00054067"
-stars: "4/5"
+date: "2015-08-11"
 categories: "movies"
 title: "A Maldição do Demônio"
-_title: "La maschera del demonio"
-_year: "1960"
-_director: ["Mario Bava", ]
-_writer: ["Ennio De Concini", "Mario Serandrei", "Nikolai Gogol", "Mario Bava", "Marcello Coscia", ]
-_cast: ["Barbara Steele", "John Richardson", "Andrea Checchi", "Ivo Garrani", "Arturo Dominici", "Enrico Olivieri", "Antonio Pierfederici", "Tino Bianchi", "Clara Bindi", ]
-_countries: ["Italy", ]
-_languages: ["Italian", ]
-_editor: ["Mario Serandrei", ]
-_cinematographer: ["Mario Bava", ]
-_music: ["Les Baxter", "Roberto Nicolosi", ]
-_genres: ["Horror", ]
-_runtimes: ["87", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNDgxNjI0MzM1NV5BMl5BanBnXkFtZTgwODU2MDkwMzE@._V1._CR34,23,340,476._SX100_SY140_.jpg"
-_ratio: "1.66 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNDgxNjI0MzM1NV5BMl5BanBnXkFtZTgwODU2MDkwMzE@._V1._CR34,23,340,476._SX100_SY140_.jpg"
+stars: "4/5"
+desc: "A Maldição do Demônio. La maschera del demonio (Italy, 1960). Dirigido por Mario Bava. Escrito por Ennio De Concini, Mario Serandrei, Nikolai Gogol, Mario Bava, Marcello Coscia. Com Barbara Steele, John Richardson, Andrea Checchi, Ivo Garrani, Arturo Dominici, Enrico Olivieri, Antonio Pierfederici, Tino Bianchi, Clara Bindi."
 ---
 Acabei assistindo este pequeno clássico de terror italiano em inglês (na Netflix americana), mas pouco se perde quando vemos que o visual arrebatador de sombras e efeitos até que competentes (ainda hoje) consegue subverter o sensual para o escatológico com uma facilidade que parece torná-los indissociáveis. Quer mais terror que isso?
 

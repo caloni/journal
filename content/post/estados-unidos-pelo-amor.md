@@ -1,25 +1,11 @@
 ---
+tags: ['cabine']
+imdb: "5333110"
 date: "2016-12-09"
 categories: "movies"
 title: "Estados Unidos Pelo Amor"
-imdb: "5333110"
 stars: "4/5"
-tags: ['cabine']
-_title: "Zjednoczone stany milosci"
-_year: "2016"
-_director: ["Tomasz Wasilewski", ]
-_writer: ["Tomasz Wasilewski", ]
-_cast: ["Julia Kijowska (Agata)", "Magdalena Cielecka (Iza)", "Dorota Kolak (Renata)", "Marta Nieradkiewicz (Marzena)", "Tomasz Tyndyk (Adam)", "Andrzej Chyra (Karol)", "Lukasz Simlat (Jacek)", "Marcin Czarnik (Robert)", "Jedrzej Wielecki (Piotrek)", ]
-_countries: ["Poland", ]
-_languages: ["Polish", ]
-_editor: ["Beata Walentowska", ]
-_cinematographer: ["Oleg Mutu", ]
-_genres: ["Drama", ]
-_runtimes: ["106", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BYzIyYTA1M2ItMGRiZC00ZjE5LTljOTctOGI4OTMwODAxMmY4XkEyXkFqcGdeQXVyMTc4MzI2NQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BYzIyYTA1M2ItMGRiZC00ZjE5LTljOTctOGI4OTMwODAxMmY4XkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1._SX95_SY140_.jpg"
+desc: "Estados Unidos Pelo Amor. Zjednoczone stany milosci (Poland, 2016). Dirigido por Tomasz Wasilewski. Escrito por Tomasz Wasilewski. Com Julia Kijowska (Agata), Magdalena Cielecka (Iza), Dorota Kolak (Renata), Marta Nieradkiewicz (Marzena), Tomasz Tyndyk (Adam), Andrzej Chyra (Karol), Lukasz Simlat (Jacek), Marcin Czarnik (Robert), Jedrzej Wielecki (Piotrek)."
 ---
 Estados Unidos Pelo Amor é um filme depressivo e intenso, que tenta unir a baixa moral do povo polonês, rendido ao regime comunista, com a carência desesperadora das mulheres de um vilarejo tão isolado que o azul celeste toca cada parede de suas casas, e o branco da neve cria barreiras intransponíveis na comunicação humana.
 

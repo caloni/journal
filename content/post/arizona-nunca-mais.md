@@ -1,9 +1,10 @@
 ---
-date: 2018-02-06T18:39:26-02:00
-title: "Arizona Nunca Mais"
-categories: "movies"
+date: 2018-02-06T20:39:26
 imdb: "0093822"
+categories: "movies"
 stars: "4/5"
+title: "Arizona Nunca Mais"
+desc: "Arizona Nunca Mais."
 ---
 É possível desde o começo da carreira dos irmãos Coen captar essa sagacidade em tornar as coisas surreais. Nunca é o caçador de recompensas simplesmente, mas o caçador com um par de calçados de bebê pendurado e uma calibre 12 que ele manuseia com uma mão só. Nunca são os fugitivos do presídio, mas os fugitivos que possuem uma visão distorcida do mundo em que a natureza de um bandido deve ser seguida para serem alguém na vida. E, por fim, nunca é um romance entre um ladrão de galinhas -- ops, vendinhas de conveniência -- e uma policial. Este é um romance com complicações que nos revela o quanto somos crianças cuidando de crianças.
 

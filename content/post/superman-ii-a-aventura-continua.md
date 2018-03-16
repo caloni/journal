@@ -1,25 +1,10 @@
 ---
-date: "2014-09-13"
 imdb: "0081573"
+date: "2014-09-13"
+categories: "movies"
 title: "Superman II - A Aventura Continua"
 stars: "4/5"
-categories: "movies"
-_title: "Superman II"
-_year: "1980"
-_director: ["Richard Lester", "Richard Donner", ]
-_writer: ["Joe Shuster", "Jerry Siegel", "Mario Puzo", "Mario Puzo", "David Newman", "Leslie Newman", "Tom Mankiewicz", ]
-_cast: ["Gene Hackman", "Christopher Reeve", "Ned Beatty", "Jackie Cooper", "Sarah Douglas", "Margot Kidder", "Jack O'Halloran", "Valerie Perrine", "Susannah York", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["John Victor-Smith", ]
-_cinematographer: ["Robert Paynter", "Geoffrey Unsworth", ]
-_music: ["Ken Thorne", ]
-_genres: ["Action", ]
-_runtimes: ["127", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTY5MTk3MjcyNl5BMl5BanBnXkFtZTYwNjY3NTU5.jpg"
-_ratio: "2.20 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTY5MTk3MjcyNl5BMl5BanBnXkFtZTYwNjY3NTU5._V1._SX100_SY140_.jpg"
+desc: "Superman II - A Aventura Continua. Superman II (USA, 1980). Dirigido por Richard Lester, Richard Donner. Escrito por Joe Shuster, Jerry Siegel, Mario Puzo, Mario Puzo, David Newman, Leslie Newman, Tom Mankiewicz. Com Gene Hackman, Christopher Reeve, Ned Beatty, Jackie Cooper, Sarah Douglas, Margot Kidder, Jack O'Halloran, Valerie Perrine, Susannah York."
 ---
 Superman II teve complicações que começam lá na história do trabalho original. O diretor Richard Donner havia imaginado o final do primeiro como o início do segundo, e o clímax do segundo seria o final do primeiro. A versão original proposta por Donner foi quase totalmente refeita e lançada para Home Vídeo em 2006, uma vez que ele já havia filmado quase todas as cenas antes de ser demitido e ter seu lugar ocupado por Richar Lester (que refilmou todas as cenas).
 

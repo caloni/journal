@@ -1,25 +1,10 @@
 ---
-date: "2011-10-23"
 imdb: "0364045"
+date: "2011-10-23"
+categories: "movies"
 title: "Roubando Vidas"
 stars: "2/5"
-categories: "movies"
-_title: "Taking Lives"
-_year: "2004"
-_director: ["D.J. Caruso", ]
-_writer: ["Michael Pye", "Jon Bokenkamp", "Jon Bokenkamp", ]
-_cast: ["Angelina Jolie", "Ethan Hawke", "Kiefer Sutherland", "Gena Rowlands", "Olivier Martinez", "Tchéky Karyo", "Jean-Hugues Anglade", "Paul Dano", "Justin Chatwin", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Anne V. Coates", ]
-_cinematographer: ["Amir Mokri", ]
-_music: ["Philip Glass", ]
-_genres: ["Horror", ]
-_runtimes: ["103", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTA3NDMyNzI5NTdeQTJeQWpwZ15BbWU3MDQxNDEyMzM@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTA3NDMyNzI5NTdeQTJeQWpwZ15BbWU3MDQxNDEyMzM@._V1._SX95_SY140_.jpg"
+desc: "Roubando Vidas. Taking Lives (USA, 2004). Dirigido por D.J. Caruso. Escrito por Michael Pye, Jon Bokenkamp, Jon Bokenkamp. Com Angelina Jolie, Ethan Hawke, Kiefer Sutherland, Gena Rowlands, Olivier Martinez, Tchéky Karyo, Jean-Hugues Anglade, Paul Dano, Justin Chatwin."
 ---
 Esse é mais um thriller policial que envolve uma dupla de elementos que vem se tornando frequente: histórias previsíveis e Angelina Jolie. Nesse caso, Jolie é uma agente do FBI que precisa capturar um serial killer que rouba a identidade de suas vítimas.
 

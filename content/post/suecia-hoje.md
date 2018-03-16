@@ -1,22 +1,10 @@
 ---
-date: "2010-10-23"
 imdb: "1594460"
+date: "2010-10-23"
+categories: "movies"
 title: "Suécia Hoje"
 stars: "3/5"
-categories: "movies"
-_title: "Den nya tiden"
-_year: "2010"
-_director: ["Peter Magnusson", ]
-_writer: ["Peter Magnusson", ]
-_cast: ["Nana Heilmann", "Per Johansson", "Nils Tomas Labba", "Christos Neo", "Patrik Olofsson", "Håkan Thornell", "Frida Torgeby", "Markus Torgeby", ]
-_countries: ["Sweden", ]
-_languages: ["Swedish", ]
-_editor: ["Peter Magnusson", ]
-_cinematographer: ["Peter Magnusson", ]
-_music: ["Thomas Oberg", ]
-_genres: ["Documentary", ]
-_runtimes: ["72", ]
-_kind: "movie"
+desc: "Suécia Hoje. Den nya tiden (Sweden, 2010). Dirigido por Peter Magnusson. Escrito por Peter Magnusson. Com Nana Heilmann, Per Johansson, Nils Tomas Labba, Christos Neo, Patrik Olofsson, Håkan Thornell, Frida Torgeby, Markus Torgeby."
 ---
 A partir de depoimentos de várias pessoas com rotinas diferentes o documentário traça um panorama dos últimos anos da história desse país. Assim como a maioria das grandes cidades, se antigamente o trabalhador passava a vida inteira empregado em apenas uma empresa, e os shoppings estavam vazios, de acordo com o narrador, porque esses trabalhadores precisavam restaurar as energias para uma nova semana de trabalho, hoje em dia a maioria trabalha como freelancer, e os shoppings estão cheios todos os dias e a economia é pulsante, pois cada vez mais pessoas querem comer, beber e fazer mais coisas com as 24 horas diárias.
 

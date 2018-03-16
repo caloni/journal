@@ -1,27 +1,11 @@
 ---
+tags: ['netflix']
+imdb: "2452386"
 date: "2017-01-27"
 categories: "movies"
 title: "The Fundamentals of Caring"
-imdb: "2452386"
 stars: "3/5"
-tags: ['netflix']
-_title: "The Fundamentals of Caring"
-_year: "2016"
-_director: ["Rob Burnett", ]
-_writer: ["Rob Burnett", "Jonathan Evison", ]
-_cast: ["Alex Huff (Jodi)", "Donna Biscoe (Caregiving Instructor)", "Paul Rudd (Ben Benjamin)", "Julia Denton (Janet)", "Jennifer Ehle (Elsa)", "Craig Roberts (Trevor)", "Ashley White (Cute Travel Channel Girl)", "Matthew Pruitt (TV Reporter)", "Alan Boell (Courier)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Christopher Passig", ]
-_cinematographer: ["Giles Nuttgens", ]
-_music: ["Ryan Miller", ]
-_costume designer: ["Peggy Stamper", ]
-_genres: ["Comedy", ]
-_runtimes: ["97", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTA1Mjc4ODI0NzReQTJeQWpwZ15BbWU4MDQ3MzAwMjkx.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTA1Mjc4ODI0NzReQTJeQWpwZ15BbWU4MDQ3MzAwMjkx._V1._SX95_SY140_.jpg"
+desc: "The Fundamentals of Caring. The Fundamentals of Caring (USA, 2016). Dirigido por Rob Burnett. Escrito por Rob Burnett, Jonathan Evison. Com Alex Huff (Jodi), Donna Biscoe (Caregiving Instructor), Paul Rudd (Ben Benjamin), Julia Denton (Janet), Jennifer Ehle (Elsa), Craig Roberts (Trevor), Ashley White (Cute Travel Channel Girl), Matthew Pruitt (TV Reporter), Alan Boell (Courier)."
 ---
 A Netflix tem um algoritmo de sua enorme base de dados para criar conteúdo novo. Deve funcionar mais ou menos assim: "pai que perdeu o filho e que agora terá uma provação/redenção; misturar com gente em cadeira de rodas (porque está na moda); usar road movie". E pronto. Está criado um filme com esses elementos básicos, atores quase desconhecidos em uma direção e roteiro encomendados.
 

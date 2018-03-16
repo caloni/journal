@@ -1,26 +1,10 @@
 ---
-date: "2016-03-19"
 imdb: "1219289"
-stars: "3/5"
+date: "2016-03-19"
 categories: "movies"
 title: "Sem Limites"
-_title: "Limitless"
-_year: "2011"
-_director: ["Neil Burger", ]
-_writer: ["Leslie Dixon", "Alan Glynn", ]
-_cast: ["Bradley Cooper", "Robert De Niro", "Abbie Cornish", "Andrew Howard", "Anna Friel", "Johnny Whitworth", "Tomas Arana", "Robert John Burke", "Darren Goldstein", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Tracy Adams", "Naomi Geraghty", ]
-_cinematographer: ["Jo Willems", ]
-_music: ["Paul Leonard-Morgan", ]
-_costume designer: ["Jenny Gering", ]
-_genres: ["Mystery", ]
-_runtimes: ["105", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTY3NjczNzc5Nl5BMl5BanBnXkFtZTcwMzA2MzQyNA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTY3NjczNzc5Nl5BMl5BanBnXkFtZTcwMzA2MzQyNA@@._V1._SX95_SY140_.jpg"
+stars: "3/5"
+desc: "Sem Limites. Limitless (USA, 2011). Dirigido por Neil Burger. Escrito por Leslie Dixon, Alan Glynn. Com Bradley Cooper, Robert De Niro, Abbie Cornish, Andrew Howard, Anna Friel, Johnny Whitworth, Tomas Arana, Robert John Burke, Darren Goldstein."
 ---
 Bradley Cooper protagoniza este filme de Neil Burger, provavelmente o melhor trabalho até aqui do diretor que já fez O Ilusionista, mas também Divergente.
 

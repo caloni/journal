@@ -1,25 +1,10 @@
 ---
-date: "2014-05-31"
 imdb: "0489458"
+date: "2014-05-31"
+categories: "movies"
 title: "O Cheiro do Ralo"
 stars: "5/5"
-categories: "movies"
-_title: "O Cheiro do Ralo"
-_year: "2006"
-_director: ["Heitor Dhalia", ]
-_writer: ["Marçal Aquino", "Heitor Dhalia", "Lourenço Mutarelli", ]
-_cast: ["Selton Mello", "Paula Braun", "Paulo Alves", "Susana Alves", "Roberto Audio", "Flavio Bauraqui", "Boi", "Alice Braga", "Calico", ]
-_countries: ["Brazil", ]
-_languages: ["Portuguese", ]
-_editor: ["Pedro Becker", "Jair Peres", ]
-_cinematographer: ["José Roberto Eliezer", ]
-_music: ["Apollo", ]
-_genres: ["Comedy", ]
-_runtimes: ["112", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTM4NjI0ODMzOF5BMl5BanBnXkFtZTcwMzk1OTQ2OA@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTM4NjI0ODMzOF5BMl5BanBnXkFtZTcwMzk1OTQ2OA@@._V1._SX99_SY140_.jpg"
+desc: "O Cheiro do Ralo. O Cheiro do Ralo (Brazil, 2006). Dirigido por Heitor Dhalia. Escrito por Marçal Aquino, Heitor Dhalia, Lourenço Mutarelli. Com Selton Mello, Paula Braun, Paulo Alves, Susana Alves, Roberto Audio, Flavio Bauraqui, Boi, Alice Braga, Calico."
 ---
 O Cheiro do Ralo fala sobre trocas, ou melhor dizendo, sobre o valor das coisas. Coisas podem se resumir em objetos que possuíam ou não valor sentimental para as pessoas que a oferecem ao Sr. Lourenço (Selton Mello), para receber em troca o dinheiro que, pelo menos naquele momento, é mais valioso que o objeto em si.
 

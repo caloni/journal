@@ -1,9 +1,10 @@
 ---
-date: 2018-03-13T15:42:29-03:00
-title: "Tres Anúncios Para Um Crime"
-categories: "movies"
+date: 2018-03-13T18:42:29
 imdb: "5027774"
+categories: "movies"
 stars: "4/5"
+title: "Tres Anúncios Para Um Crime"
+desc: "Tres Anúncios Para Um Crime."
 ---
 Parte de uma premissa e se torna surreal. Não é exatamente comédia ou drama, mas nem a vida pode ser definida de um jeito ou do outro. As pessoas nesse filme não são muito inteligentes, mas tentam -- como um deles usa como lição -- não ser um fracasso total. E o resultado é uma comédia de erros da vida real.
 

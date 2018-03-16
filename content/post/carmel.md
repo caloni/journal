@@ -1,24 +1,10 @@
 ---
-date: "2012-10-28"
 imdb: "1399533"
+date: "2012-10-28"
+categories: "movies"
 title: "Carmel"
 stars: "1/5"
-categories: "movies"
-_title: "Carmel"
-_year: "2009"
-_director: ["Amos Gitai", ]
-_writer: ["Amos Gitai", ]
-_cast: ["Amitai Ashkenazi", "Ben Eidel", "Samuel Fuller", "Efratia Gitai", "Ben Gitaï", "Masha Itkina", "Makram Khoury", "Jerome Koenig", "Amos Lavi", ]
-_countries: ["Israel", ]
-_languages: ["French", ]
-_editor: ["Isabelle Ingold", ]
-_cinematographer: ["Stefano Falivene", ]
-_genres: ["Biography", ]
-_runtimes: ["Canada:93::(Toronto International Film Festival)", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTk2NjU0ODEwMV5BMl5BanBnXkFtZTgwNjE0MzA2MDE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTk2NjU0ODEwMV5BMl5BanBnXkFtZTgwNjE0MzA2MDE@._V1._SX99_SY140_.jpg"
+desc: "Carmel. Carmel (Israel, 2009). Dirigido por Amos Gitai. Escrito por Amos Gitai. Com Amitai Ashkenazi, Ben Eidel, Samuel Fuller, Efratia Gitai, Ben Gitaï, Masha Itkina, Makram Khoury, Jerome Koenig, Amos Lavi."
 ---
 Que filme odiável. Não que ele seja odiável do começo ao fim. Houve uma tentativa realmente sincera de quem vos escreve de tentar decifrar a narrativa difusa e aparentemente amadorística de um filme que estava sendo apresentado quase que como um tributo à vida do diretor Amos Gitai (presente na sessão) e sua mãe, que viveu as agrúrias do povo judeu desde muito antes da Segunda Guerra. A base da história são as cartas dela, que teoricamente poderiam fazer eco com décadas e mais décadas da visão judia sobre seu povo e suas relações com o mundo.
 

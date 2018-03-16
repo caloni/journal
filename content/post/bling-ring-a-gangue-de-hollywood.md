@@ -1,25 +1,10 @@
 ---
-date: "2014-01-02"
 imdb: "2132285"
+date: "2014-01-02"
+categories: "movies"
 title: "Bling Ring A Gangue de Hollywood"
 stars: "4/5"
-categories: "movies"
-_title: "The Bling Ring"
-_year: "2013"
-_director: ["Sofia Coppola", ]
-_writer: ["Sofia Coppola", "Nancy Jo Sales", ]
-_cast: ["Katie Chang", "Israel Broussard", "Emma Watson", "Claire Julien", "Taissa Farmiga", "Georgia Rock", "Leslie Mann", "Carlos Miranda", "Gavin Rossdale", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Sarah Flack", ]
-_cinematographer: ["Christopher Blauvelt", "Harris Savides", ]
-_music: ["Daniel Lopatin", "Brian Reitzell", ]
-_genres: ["Biography", ]
-_runtimes: ["90", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQzMTgwMzQxN15BMl5BanBnXkFtZTcwOTcwNTY0OQ@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQzMTgwMzQxN15BMl5BanBnXkFtZTcwOTcwNTY0OQ@@._V1._SX94_SY140_.jpg"
+desc: "Bling Ring A Gangue de Hollywood. The Bling Ring (USA, 2013). Dirigido por Sofia Coppola. Escrito por Sofia Coppola, Nancy Jo Sales. Com Katie Chang, Israel Broussard, Emma Watson, Claire Julien, Taissa Farmiga, Georgia Rock, Leslie Mann, Carlos Miranda, Gavin Rossdale."
 ---
 O mundo é materialista e não há nada de errado nisso. Somos feitos de matéria e a matéria circula por nossos poros. Não há nada mais que matéria, ainda que esforços descomunais da mente tentem imaginar algo mágico saindo por detrás de nossas cabeças. Entre esses esforços, a tal da "fama".
 

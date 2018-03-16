@@ -1,25 +1,10 @@
 ---
-date: "2011-06-20"
 imdb: "0450405"
+date: "2011-06-20"
+categories: "movies"
 title: "Cirque du Freak O Aprendiz de Vampiro"
 stars: "3/5"
-categories: "movies"
-_title: "Cirque du Freak: The Vampire's Assistant"
-_year: "2009"
-_director: ["Paul Weitz", ]
-_writer: ["Paul Weitz", "Brian Helgeland", "Darren Shan", ]
-_cast: ["John C. Reilly", "Josh Hutcherson", "Chris Massoglia", "Jessica Carlson", "Michael Cerveris", "Ray Stevenson", "Patrick Fugit", "Morgan Saylor", "Don McManus", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Leslie Jones", ]
-_cinematographer: ["James M. Muro", ]
-_music: ["Stephen Trask", ]
-_genres: ["Action", ]
-_runtimes: ["USA:109", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTI1NDA1MTMwNl5BMl5BanBnXkFtZTcwNTg0MDE4Mg@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTI1NDA1MTMwNl5BMl5BanBnXkFtZTcwNTg0MDE4Mg@@._V1._SX95_SY140_.jpg"
+desc: "Cirque du Freak O Aprendiz de Vampiro. Cirque du Freak: The Vampire's Assistant (USA, 2009). Dirigido por Paul Weitz. Escrito por Paul Weitz, Brian Helgeland, Darren Shan. Com John C. Reilly, Josh Hutcherson, Chris Massoglia, Jessica Carlson, Michael Cerveris, Ray Stevenson, Patrick Fugit, Morgan Saylor, Don McManus."
 ---
 Darren (Massoglia) é um garoto estilo certinho, mas é amigo do problemático Steve (Hutcherson). Ambos acabam indo a um circo de horrores e lá conhecem um homem misterioso, Lasten Crepsley (Reilly), que se revela um vampiro secular. Após uma série de eventos, como o título já denuncia, Darren será obrigado a deixar sua vida normal e se tornar seu assistente. Porém, para complicar as coisas, ele irá descobrir que existem algumas escolhas a ser feitas no mundo dos vampiros.
 

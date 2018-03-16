@@ -1,24 +1,10 @@
 ---
-date: "2014-02-09"
 imdb: "1579361"
+date: "2014-02-09"
+categories: "movies"
 title: "Chasing Ice"
 stars: "4/5"
-categories: "movies"
-_title: "Chasing Ice"
-_year: "2012"
-_director: ["Jeff Orlowski", ]
-_writer: ["Mark Monroe", ]
-_cast: ["James Balog", "Svavar Jónatansson", "Louie Psihoyos", "Kitty Boone", "Sylvia Earle", "Dennis Dimick", "Adam LeWinter", "Jason Box", "Tad Pfeffer", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Davis Coombe", ]
-_cinematographer: ["Jeff Orlowski", ]
-_music: ["J. Ralph", ]
-_genres: ["Documentary", ]
-_runtimes: ["75", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTM1NDc0MzAxNF5BMl5BanBnXkFtZTcwMjY1NzE3OA@@.jpg"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTM1NDc0MzAxNF5BMl5BanBnXkFtZTcwMjY1NzE3OA@@._V1._SX96_SY140_.jpg"
+desc: "Chasing Ice. Chasing Ice (USA, 2012). Dirigido por Jeff Orlowski. Escrito por Mark Monroe. Com James Balog, Svavar Jónatansson, Louie Psihoyos, Kitty Boone, Sylvia Earle, Dennis Dimick, Adam LeWinter, Jason Box, Tad Pfeffer."
 ---
 Chasing Ice, apesar de receber até indicações ao Oscar, está sem título no Brasil porque as pessoas não gostam de documentário. Felizmente, a Netflix disponibiliza em stream com legendas (de Portugal, mas vá lá). É um daqueles eco-documentários que fala sobre os efeitos do aquecimento global está fazendo em nosso planeta enquanto pessoas leigas continuam discutindo se a culpa é nossa ou não. Assim como a Teoria da Evolução, a soma de dezenas, ou melhor, centenas de trabalhos científicos ao redor do globo confirmando o homem como agente causador das mudanças climáticas dos últimos cento e cinquenta anos não é páreo para a ignorância e comodismo intelectual (vulgo burrice) da maioria da nossa população.
 

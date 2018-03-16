@@ -1,25 +1,10 @@
 ---
-date: "2013-09-27"
 imdb: "0093870"
+date: "2013-09-27"
+categories: "movies"
 title: "RoboCop O Policial do Futuro"
 stars: "5/5"
-categories: "movies"
-_title: "RoboCop"
-_year: "1987"
-_director: ["Paul Verhoeven", ]
-_writer: ["Edward Neumeier", "Michael Miner", ]
-_cast: ["Peter Weller", "Nancy Allen", "Dan O'Herlihy", "Ronny Cox", "Kurtwood Smith", "Miguel Ferrer", "Robert DoQui", "Ray Wise", "Felton Perry", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Frank J. Urioste", ]
-_cinematographer: ["Jost Vacano", "Sol Negrin", ]
-_music: ["Basil Poledouris", ]
-_genres: ["Action", ]
-_runtimes: ["102", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTk1MDUzMTQ3OV5BMl5BanBnXkFtZTcwMDAwNTk0NA@@.jpg"
-_ratio: "1.66 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTk1MDUzMTQ3OV5BMl5BanBnXkFtZTcwMDAwNTk0NA@@._V1._SX93_SY140_.jpg"
+desc: "RoboCop O Policial do Futuro. RoboCop (USA, 1987). Dirigido por Paul Verhoeven. Escrito por Edward Neumeier, Michael Miner. Com Peter Weller, Nancy Allen, Dan O'Herlihy, Ronny Cox, Kurtwood Smith, Miguel Ferrer, Robert DoQui, Ray Wise, Felton Perry."
 ---
 RoboCop, de Paul Verhoeven, foi um marco dos anos 80 e fixação dos jovens amantes da Sessão da Tarde nos anos 90. A violência exacerbada chocava, mas tinha seu propósito: fixar sua mensagem sobre poder, corrupção e justiça; esses objetivos, diga-se de passagem, cabiam como uma luva nas consequências funestas dos seus personagens. Até o próprio RoboCop, que começa como o policial Alex J. Murphy (Peter Weller, o Marcus de Star Trek  Além da Escuridão), recebe sua dose de realidade em uma chuva de balas culminando com um tiro em sua cabeça, cabeça essa cujo mistério póstumo é o grande tema a respeito da humanidade dos cidadãos de Detroit, uma cidade corrompida do seu topo à base.
 

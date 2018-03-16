@@ -1,26 +1,10 @@
 ---
+imdb: "3072482"
 date: "2016-08-16"
 categories: "movies"
-imdb: "3072482"
-stars: "4/5"
 title: "Hardcore: Missão Extrema"
-_title: "Hardcore Henry"
-_year: "2015"
-_director: ["Ilya Naishuller", ]
-_writer: ["Ilya Naishuller", "Will Stewart", ]
-_cast: ["Sharlto Copley", "Danila Kozlovsky", "Haley Bennett", "Tim Roth", "Andrei Dementiev", "Svetlana Ustinova", "Darya Charusha", "Oleg Poddubnyy", "Jack Hahn", ]
-_countries: ["Russia", ]
-_languages: ["English", ]
-_editor: ["Steve Mirkovich", ]
-_cinematographer: ["Pasha Kapinos", "Vsevolod Kaptur", "Fedor Lyass", ]
-_music: ["Darya Charusha", ]
-_costume designer: ["Anna Kudevich", ]
-_genres: ["Action", ]
-_runtimes: ["96", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNjIzNTcwMDc3Nl5BMl5BanBnXkFtZTgwNzU5NTY5NzE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNjIzNTcwMDc3Nl5BMl5BanBnXkFtZTgwNzU5NTY5NzE@._V1._SX94_SY140_.jpg"
+stars: "4/5"
+desc: "Hardcore: Missão Extrema. Hardcore Henry (Russia, 2015). Dirigido por Ilya Naishuller. Escrito por Ilya Naishuller, Will Stewart. Com Sharlto Copley, Danila Kozlovsky, Haley Bennett, Tim Roth, Andrei Dementiev, Svetlana Ustinova, Darya Charusha, Oleg Poddubnyy, Jack Hahn."
 ---
 Este não é um vídeogame, mas um filme que utiliza completamente a estética dos jogos de tiro em primeira pessoa. Ele tem uma narrativa coesa, e ainda que não tão bem articulada, qual filme de ação você conhece que consegue ser tão realista a ponto de enxergarmos toda a ação do ponto de vista do mocinho? Pior: que filme de ação hoje em dia consegue te entregar todo o pacote 18+, com direito a sangue, esquartejamento, esmagamento, esfaqueamento e outros "mentos" por aí, e não aquelas brincadeiras de criança da Marvel?
 

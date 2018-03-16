@@ -1,25 +1,10 @@
 ---
-date: "2013-06-17"
 imdb: "1408101"
+date: "2013-06-17"
+categories: "movies"
 title: "Além da Escuridão Star Trek"
 stars: "5/5"
-categories: "movies"
-_title: "Star Trek Into Darkness"
-_year: "2013"
-_director: ["J.J. Abrams", ]
-_writer: ["Roberto Orci", "Alex Kurtzman", "Damon Lindelof", "Gene Roddenberry", ]
-_cast: ["Chris Pine", "Zachary Quinto", "Zoe Saldana", "Karl Urban", "Simon Pegg", "John Cho", "Benedict Cumberbatch", "Anton Yelchin", "Bruce Greenwood", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Maryann Brandon", "Mary Jo Markey", ]
-_cinematographer: ["Daniel Mindel", ]
-_music: ["Michael Giacchino", ]
-_genres: ["Action", ]
-_runtimes: ["132", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTk2NzczOTgxNF5BMl5BanBnXkFtZTcwODQ5ODczOQ@@.jpg"
-_ratio: "1.44 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTk2NzczOTgxNF5BMl5BanBnXkFtZTcwODQ5ODczOQ@@._V1._SX94_SY140_.jpg"
+desc: "Além da Escuridão Star Trek. Star Trek Into Darkness (USA, 2013). Dirigido por J.J. Abrams. Escrito por Roberto Orci, Alex Kurtzman, Damon Lindelof, Gene Roddenberry. Com Chris Pine, Zachary Quinto, Zoe Saldana, Karl Urban, Simon Pegg, John Cho, Benedict Cumberbatch, Anton Yelchin, Bruce Greenwood."
 ---
 Vendo a nova aventura dos Trekkers e revendo o genial reboot de J. J. Abrams (2008/9) fica claro que cada um é a metade de um todo maior, que poderiam ser mais enxutos (assim como Kill Bill) e que juntos seriam um excelente estudo de personagem. Ainda assim, separados, se transformam em duas aventuras físicas e mentais (essa nem tanto) ótimas em si mesmo, embora perigosamente esquecíveis para os não-fãs.
 

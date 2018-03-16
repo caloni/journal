@@ -1,28 +1,11 @@
 ---
-imdb: "4801232"
-stars: "3/5"
 tags: ['cabine']
+imdb: "4801232"
 date: 2017-11-23T00:35:20
-title: "Em Busca de Fellini"
 categories: "movies"
-_title: "In Search of Fellini"
-_year: "2017"
-_director: ["Taron Lexton", ]
-_writer: ["Nancy Cartwright", "Peter Kjenaas", ]
-_cast: ["Maria Bello (Claire)", "Ksenia Solo (Lucy)", "Mary Lynn Rajskub (Kerri)", "Barbara Bouchet (Hostess)", "Beth Riesgraf (Sylvia)", "David O'Donnell (Robert)", "Nancy Cartwright (Cosima)", "Andrea Osvárt (Cabiria)", "Kim Evans (Catholic School Girl)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["K. Spencer Jones", "Alexa Vier", ]
-_cinematographer: ["Kevin Garrison", ]
-_music: ["David Campbell", ]
-_artdirection: ["Christian Snell", ]
-_costume designer: ["Sophia Banks", "Catherine Buyse Dian", "Sienna Kay", ]
-_genres: ["Adventure", ]
-_runtimes: ["93", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUyNDkwNzYxMV5BMl5BanBnXkFtZTgwMjA4OTYxMzI@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUyNDkwNzYxMV5BMl5BanBnXkFtZTgwMjA4OTYxMzI@._V1._SX94_SY140_.jpg"
+title: "Em Busca de Fellini"
+stars: "3/5"
+desc: "Em Busca de Fellini. In Search of Fellini (USA, 2017). Dirigido por Taron Lexton. Escrito por Nancy Cartwright, Peter Kjenaas. Com Maria Bello (Claire), Ksenia Solo (Lucy), Mary Lynn Rajskub (Kerri), Barbara Bouchet (Hostess), Beth Riesgraf (Sylvia), David O'Donnell (Robert), Nancy Cartwright (Cosima), Andrea Osvárt (Cabiria), Kim Evans (Catholic School Girl)."
 ---
 Federico Fellini é um diretor italiano que navega bem entre o realismo e a fantasia. Conseguindo ignorar um pouco as estritas regras roteirísticas de Hollywood e ao mesmo tempo ignorar o tom despretensioso das produções europeias, Fellini navega entre os dois, ou entre todos, voando em altura média, de vez em quando encostando seus pés no chão, e muitas vezes se elevando acima de si mesmo, questionando nossa existência e a existência das emoções humanas em torno de uma vida cheia de ilusões que, nas mãos de um autor habilidoso, se mostram mais reais do que aquilo que chamamos de vida real.
 

@@ -1,25 +1,10 @@
 ---
-date: "2011-12-20"
 imdb: "0446687"
+date: "2011-12-20"
+categories: "movies"
 title: "Lições de Vida"
 stars: "3/5"
-categories: "movies"
-_title: "Driving Lessons"
-_year: "2006"
-_director: ["Jeremy Brock", ]
-_writer: ["Jeremy Brock", ]
-_cast: ["Rupert Grint", "Fay Cohen", "Ruby Mortlock", "Don Wetherhead", "Laura Linney", "Oliver Milburn", "Tamsin Egerton", "Nicholas Farrell", "Jim Norton", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Trevor Waite", ]
-_cinematographer: ["David Katznelson", ]
-_music: ["Clive Carroll", "John Renbourn", ]
-_genres: ["Comedy", ]
-_runtimes: ["98", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTg4NzE5MDE3Ml5BMl5BanBnXkFtZTcwMDgxNjgzMQ@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTg4NzE5MDE3Ml5BMl5BanBnXkFtZTcwMDgxNjgzMQ@@._V1._SX95_SY140_.jpg"
+desc: "Lições de Vida. Driving Lessons (UK, 2006). Dirigido por Jeremy Brock. Escrito por Jeremy Brock. Com Rupert Grint, Fay Cohen, Ruby Mortlock, Don Wetherhead, Laura Linney, Oliver Milburn, Tamsin Egerton, Nicholas Farrell, Jim Norton."
 ---
 Filme estrelado por Rupert Grint, e quem está acostumado com seus trejeitos na saga Harry Potter (onde ele faz Ron Weasley, o melhor amigo de Harry) não vai se decepcionar. Para os que esperavam uma atuação mais envolvida com um projeto apartado dos livros dos bruxinhos, vai.
 

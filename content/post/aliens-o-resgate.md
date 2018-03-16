@@ -1,25 +1,10 @@
 ---
-date: "2011-12-08"
 imdb: "0090605"
+date: "2011-12-08"
+categories: "movies"
 title: "Aliens O Resgate"
 stars: "5/5"
-categories: "movies"
-_title: "Aliens"
-_year: "1986"
-_director: ["James Cameron", ]
-_writer: ["James Cameron", "David Giler", "Walter Hill", "Dan O'Bannon", "Ronald Shusett", "James Cameron", ]
-_cast: ["Sigourney Weaver", "Carrie Henn", "Michael Biehn", "Paul Reiser", "Lance Henriksen", "Bill Paxton", "Jenette Goldstein", "William Hope", "Al Matthews", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Ray Lovejoy", ]
-_cinematographer: ["Adrian Biddle", ]
-_music: ["James Horner", ]
-_genres: ["Action", ]
-_runtimes: ["137", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTYzNzU5MzQ4OV5BMl5BanBnXkFtZTcwMDcxNDg3OA@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTYzNzU5MzQ4OV5BMl5BanBnXkFtZTcwMDcxNDg3OA@@._V1._SX100_SY133_.jpg"
+desc: "Aliens O Resgate. Aliens (USA, 1986). Dirigido por James Cameron. Escrito por James Cameron, David Giler, Walter Hill, Dan O'Bannon, Ronald Shusett, James Cameron. Com Sigourney Weaver, Carrie Henn, Michael Biehn, Paul Reiser, Lance Henriksen, Bill Paxton, Jenette Goldstein, William Hope, Al Matthews."
 ---
 James Cameron parece ter uma dedicação especial com as continuações. Tanto a série Alien quanto o Exterminador do Futuro (essa iniciada por ele mesmo) expandem seus universos justamente no primeiro sequel.
 

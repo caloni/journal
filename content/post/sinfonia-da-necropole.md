@@ -1,25 +1,11 @@
 ---
-date: "2016-03-30"
-tags: [ "cabine" ]
+tags: ['cabine']
 imdb: "3906650"
-stars: "3/5"
+date: "2016-03-30"
 categories: "movies"
 title: "Sinfonia da Necrópole"
-_title: "Sinfonia da Necrópole"
-_year: "2014"
-_director: ["Juliana Rojas", ]
-_writer: ["Juliana Rojas", ]
-_cast: ["Eduardo Gomes", "Paulo Jordão", "Germano Melo", "Adriana Mendonça", "Luís Mármora", "Luciana Paes", "Augusto Pompeo", "Antonio Velloso", "Hugo Villavicenzio", ]
-_countries: ["Brazil", ]
-_languages: ["Portuguese", ]
-_editor: ["Manoela Ziggiatti", ]
-_cinematographer: ["Flora Dias", ]
-_music: ["Marco Dutra", ]
-_artdirection: ["Fernando Zuccolotto", ]
-_genres: ["Comedy", ]
-_runtimes: ["85", ]
-_ratio: "1.85 : 1"
-_kind: "movie"
+stars: "3/5"
+desc: "Sinfonia da Necrópole. Sinfonia da Necrópole (Brazil, 2014). Dirigido por Juliana Rojas. Escrito por Juliana Rojas. Com Eduardo Gomes, Paulo Jordão, Germano Melo, Adriana Mendonça, Luís Mármora, Luciana Paes, Augusto Pompeo, Antonio Velloso, Hugo Villavicenzio."
 ---
 Um musical brasileiro que pega leve sobre a morte. Mas será que realmente este é um filme sobre a morte? Ou será sobre a vida e seus mistérios vistos por um caipira sensível? Se for, temos uma boa ideia no filme de como ele seria de fosse ótimo. Infelizmente, sabotado pelo roteiro água-com-açúcar e manipulativo, o que podemos elogiar são seus números musicais, cujos efeitos de som estão tão bons e naturais que quase não parecem vindos de uma produção nacional.
 

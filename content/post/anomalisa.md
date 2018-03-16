@@ -1,27 +1,10 @@
 ---
+imdb: "2401878"
 date: "2016-07-31"
 categories: "movies"
-imdb: "2401878"
-stars: "5/5"
 title: "Anomalisa"
-_title: "Anomalisa"
-_year: "2015"
-_director: ["Duke Johnson", "Charlie Kaufman", ]
-_writer: ["Charlie Kaufman", "Charlie Kaufman", ]
-_cast: ["David Thewlis", "Jennifer Jason Leigh", "Tom Noonan", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Garret Elkins", ]
-_cinematographer: ["Joe Passarelli", ]
-_music: ["Carter Burwell", ]
-_artdirection: ["John Joyce", ]
-_costume designer: ["Susan Donym", ]
-_genres: ["Animation", ]
-_runtimes: ["90", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTkyMzI2MzQ1N15BMl5BanBnXkFtZTgwNDg0MzQxNzE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTkyMzI2MzQ1N15BMl5BanBnXkFtZTgwNDg0MzQxNzE@._V1._SX96_SY140_.jpg"
+stars: "5/5"
+desc: "Anomalisa. Anomalisa (USA, 2015). Dirigido por Duke Johnson, Charlie Kaufman. Escrito por Charlie Kaufman, Charlie Kaufman. Com David Thewlis, Jennifer Jason Leigh, Tom Noonan."
 ---
 Este é uma animação que não se anima. O movimento lento de seus personagens e o comportamento robótico de cada situação -- além do próprio maxilar das pessoas denotar isso -- leva a crer que há algo de errado naquele mundo, mas ao mesmo tempo, por se parecer tanto com o nosso mundo, se torna uma comparação estranhamente familiar.
 

@@ -1,22 +1,11 @@
 ---
-date: "2015-04-08"
-tags: [ "cabine" ]
+tags: ['cabine']
 imdb: "3118696"
-stars: "5/5"
+date: "2015-04-08"
 categories: "movies"
 title: "Club Sandwich"
-_title: "Club Sándwich"
-_year: "2013"
-_director: ["Fernando Eimbcke", ]
-_writer: ["Fernando Eimbcke", ]
-_cast: ["Lucio Giménez Cacho", "Carolina Politi", "María Renée Prudencio", "Danae Reynaud", ]
-_countries: ["Mexico", ]
-_languages: ["Spanish", ]
-_editor: ["Mariana Rodríguez", ]
-_cinematographer: ["María Secco", ]
-_genres: ["Comedy", ]
-_runtimes: ["82", ]
-_kind: "movie"
+stars: "5/5"
+desc: "Club Sandwich. Club Sándwich (Mexico, 2013). Dirigido por Fernando Eimbcke. Escrito por Fernando Eimbcke. Com Lucio Giménez Cacho, Carolina Politi, María Renée Prudencio, Danae Reynaud."
 ---
 Club Sandwich é um filme mexicano dirigido e escrito pelo ainda não muito conhecido cineasta Fernando Eimbcke (dirigiu vários curtas e este longa mais um outro). Se depender, porém, de suas construções visuais, seus simbolismos e seu ritmo certeiro, é provável que ouçamos falar mais dele no futuro. Não é qualquer um que consegue pegar um filme de ritmo lento e conectá-lo através de uma narrativa que flui por sua história majoritariamente visual. Aqui diálogo, sons e uma trilha sonora inexistente contribuem marginalmente para uma obra que dedica boa parte do seu tempo em ensinar seus espectador a ler os seus sinais.
 

@@ -1,27 +1,10 @@
 ---
-date: "2015-09-25"
 imdb: "1034314"
-stars: "3/5"
+date: "2015-09-25"
 categories: "movies"
 title: "Deu a Louca nos Nazis"
-_title: "Iron Sky"
-_year: "2012"
-_director: ["Timo Vuorensola", ]
-_writer: ["Jarmo Puskala", "Johanna Sinisalo", "Michael Kalesniko", "Timo Vuorensola", ]
-_cast: ["Julia Dietze", "Christopher Kirby", "Götz Otto", "Udo Kier", "Peta Sergeant", "Stephanie Paul", "Tilo Prückner", "Michael Cullen", "Kym Jackson", ]
-_countries: ["Finland", ]
-_languages: ["English", ]
-_editor: ["Suresh Ayyar", ]
-_cinematographer: ["Mika Orasmaa", ]
-_music: ["Laibach", ]
-_artdirection: ["Jussi Lehtiniemi", "Astrid Poeschke", ]
-_costume designer: ["Jake Collier", ]
-_genres: ["Action", ]
-_runtimes: ["93", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTM2MDg5MzgxNF5BMl5BanBnXkFtZTcwODUzNjMxOA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTM2MDg5MzgxNF5BMl5BanBnXkFtZTcwODUzNjMxOA@@._V1._SX95_SY140_.jpg"
+stars: "3/5"
+desc: "Deu a Louca nos Nazis. Iron Sky (Finland, 2012). Dirigido por Timo Vuorensola. Escrito por Jarmo Puskala, Johanna Sinisalo, Michael Kalesniko, Timo Vuorensola. Com Julia Dietze, Christopher Kirby, Götz Otto, Udo Kier, Peta Sergeant, Stephanie Paul, Tilo Prückner, Michael Cullen, Kym Jackson."
 ---
 Uma comédia, ou suposta comédia, sobre nazistas que fogem para a Lua no final da guerra e vivem lá planejando um ataque à Terra, até que dois astronautas, sessenta anos depois, voltam a pisar em solo lunar e um deles se torna cobaia para experimentos de um cientista maluco nazista. Infelizmente esse rapaz é negro.
 

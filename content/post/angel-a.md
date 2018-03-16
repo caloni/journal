@@ -1,29 +1,11 @@
 ---
+tags: ['netflix']
+imdb: "0473753"
 date: "2017-03-26"
 categories: "movies"
 title: "Angel-A"
-imdb: "0473753"
 stars: "3/5"
-tags: ['netflix']
-_title: "Angel-A"
-_year: "2005"
-_director: ["Luc Besson", ]
-_writer: ["Luc Besson", ]
-_cast: ["Jamel Debbouze (André Moussah)", "Rie Rasmussen (Angel-A)", "Gilbert Melki (Franck)", "Serge Riaboukine (Pedro)", "Akim Chir (Le chef des malfrats)", "Eric Balliet (Garde du corps Franck)", "Loïc Pora (Le malfrat #2)", "Venus Boone (La mère d'Angela)", "Jérôme Guesdon (Le malfrat #3)", ]
-_countries: ["France", ]
-_languages: ["French", ]
-_editor: ["Christine Lucas Navarro", "Frédéric Thoraval", ]
-_cinematographer: ["Thierry Arbogast", ]
-_music: ["Anja Garbarek", ]
-_costume designer: ["Martine Rapin", ]
-_genres: ["Comedy", ]
-_runtimes: ["91", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTIwNTQ2OTgxOV5BMl5BanBnXkFtZTcwODAwNDI0MQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTIwNTQ2OTgxOV5BMl5BanBnXkFtZTcwODAwNDI0MQ@@._V1._SX93_SY140_.jpg"
-_releasedate: "30 September 2006 (Rio de Janeiro International Film Festival)"
-_releasedate: "19 May 2008 (DVD premiere)"
+desc: "Angel-A. Angel-A (France, 2005). Dirigido por Luc Besson. Escrito por Luc Besson. Com Jamel Debbouze (André Moussah), Rie Rasmussen (Angel-A), Gilbert Melki (Franck), Serge Riaboukine (Pedro), Akim Chir (Le chef des malfrats), Eric Balliet (Garde du corps Franck), Loïc Pora (Le malfrat #2), Venus Boone (La mère d'Angela), Jérôme Guesdon (Le malfrat #3)."
 ---
 O diretor e roteirista Luc Besson nos entrega um filme noir dos anos 2000 em p&b, que se passa em Paris em um ritmo bem-humorado, um tanto sarcástico e que mais uma vez estuda personagens à margem da sociedade e esquisitões em geral. Usa o weirdo Jameil Debbouze (Amélie Poulain) e a gata Rie Rasmussen (Femme Fatale). Também usa trilha sonora de jazz e um roteiro todo redondinho, higienizado com respeito ao sexo e apropriado para uma esquecível degustação.
 

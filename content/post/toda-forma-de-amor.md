@@ -1,25 +1,10 @@
 ---
-date: "2013-12-22"
 imdb: "1532503"
+date: "2013-12-22"
+categories: "movies"
 title: "Toda Forma de Amor"
 stars: "3/5"
-categories: "movies"
-_title: "Beginners"
-_year: "2010"
-_director: ["Mike Mills", ]
-_writer: ["Mike Mills", ]
-_cast: ["Ewan McGregor", "Christopher Plummer", "Mélanie Laurent", "Goran Visnjic", "Kai Lennox", "Mary Page Keller", "Keegan Boos", "China Shavers", "Melissa Tang", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Olivier Bugge Coutté", ]
-_cinematographer: ["Kasper Tuxen", ]
-_music: ["Roger Neill", "Dave Palmer", "Brian Reitzell", ]
-_genres: ["Comedy", ]
-_runtimes: ["105", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjAyNDcxNTk3NV5BMl5BanBnXkFtZTcwMjk4MDU2NA@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjAyNDcxNTk3NV5BMl5BanBnXkFtZTcwMjk4MDU2NA@@._V1._SX91_SY140_.jpg"
+desc: "Toda Forma de Amor. Beginners (USA, 2010). Dirigido por Mike Mills. Escrito por Mike Mills. Com Ewan McGregor, Christopher Plummer, Mélanie Laurent, Goran Visnjic, Kai Lennox, Mary Page Keller, Keegan Boos, China Shavers, Melissa Tang."
 ---
 Um filme que retrata um solteirão em busca do amor após o falecimento do pai, que se assumiu gay aos 70 anos após a morte da esposa. O elo entre esses dois seres é um cachorro deixado de herança que se comunica por pensamento.
 

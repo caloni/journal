@@ -1,27 +1,11 @@
 ---
-date: 2017-08-28T16:17:19-03:00
-title: "Filosofia De Mr Robot"
-categories: "blog"
-imdb: "4158110"
-stars: "5/5"
 tags: ['series', 'mrrobot']
-_title: "Mr. Robot"
-_year: "2015"
-_director: ["Sam Esmail", "Jim McKay", ]
-_writer: ["Sam Esmail", "Randolph Leon", "Adam Penn", "Kyle Bradstreet", ]
-_cast: ["Rami Malek", "Carly Chaikin", "Portia Doubleday", "Martin Wallström", "Christian Slater", "Stephanie Corneliussen", "Michael Cristofer", "Sunita Mani", "Azhar Khan", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Franklin Peterson", "Philip Harrison", "John Petaja", "Sam Seig", "Sharidan Sotelo", ]
-_cinematographer: ["Tod Campbell", ]
-_music: ["Mac Quayle", ]
-_artdirection: ["Miguel López-Castillo", "Alison Ford", ]
-_costume designer: ["Catherine Marie Thomas", "Kim Wilcox", ]
-_genres: ["Crime", ]
-_runtimes: ["49", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTYzMDE2MzI4MF5BMl5BanBnXkFtZTgwNTkxODgxOTE@.jpg"
-_kind: "tv series"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTYzMDE2MzI4MF5BMl5BanBnXkFtZTgwNTkxODgxOTE@._V1._SX94_SY140_.jpg"
+imdb: "4158110"
+date: 2017-08-28T19:17:19
+categories: "blog"
+title: "Filosofia De Mr Robot"
+stars: "5/5"
+desc: "Filosofia De Mr Robot. Mr. Robot (USA, 2015). Dirigido por Sam Esmail, Jim McKay. Escrito por Sam Esmail, Randolph Leon, Adam Penn, Kyle Bradstreet. Com Rami Malek, Carly Chaikin, Portia Doubleday, Martin Wallström, Christian Slater, Stephanie Corneliussen, Michael Cristofer, Sunita Mani, Azhar Khan."
 ---
 Então eis que ergue-se um mundo niilista, até um pouco absurdista, onde o controle é uma ilusão. O sonho de garoto de salvar o mundo encontra novos significados do que é mundo e do que é salvar. Elliot não é apenas multifacetado pela figura de sua família; ele É sua família. E não apenas isso, mas consequência do próprio mundo que ele deseja salvar. Há desafios hercúleos em sua jornada, que parecem intransponíveis para nós, mortais. O que dirá , então, para um hacker esquizofrênico.
 

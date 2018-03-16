@@ -1,29 +1,11 @@
 ---
-imdb: "0091064"
-stars: "4/5"
 tags: ['netflix']
+imdb: "0091064"
 date: 2017-11-27T19:26:57
-title: "A Mosca"
 categories: "movies"
-_title: "The Fly"
-_year: "1986"
-_director: ["David Cronenberg", ]
-_writer: ["George Langelaan", "Charles Edward Pogue", "David Cronenberg", ]
-_cast: ["Jeff Goldblum (Seth Brundle)", "Geena Davis (Veronica Quaife)", "John Getz (Stathis Borans)", "Joy Boushel (Tawny)", "Leslie Carlson (Dr. Brent Cheevers)", "George Chuvalo (Marky)", "Michael Copeman (2nd Man in Bar)", "David Cronenberg (Gynecologist)", "Carol Lazare (Nurse)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Ronald Sanders", ]
-_cinematographer: ["Mark Irwin", ]
-_music: ["Howard Shore", ]
-_artdirection: ["Rolf Harvey", ]
-_costume designer: ["Denise Cronenberg", ]
-_genres: ["Drama", ]
-_runtimes: ["96", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNjI3OGRhYjUtZmY1MC00N2JlLWJjMDUtYmViNTE0NDA0NzZlXkEyXkFqcGdeQXVyNTI4MjkwNjA@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNjI3OGRhYjUtZmY1MC00N2JlLWJjMDUtYmViNTE0NDA0NzZlXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1._SX89_SY140_.jpg"
-_releasedate: "16 April 1987"
+title: "A Mosca"
+stars: "4/5"
+desc: "A Mosca. The Fly (USA, 1986). Dirigido por David Cronenberg. Escrito por George Langelaan, Charles Edward Pogue, David Cronenberg. Com Jeff Goldblum (Seth Brundle), Geena Davis (Veronica Quaife), John Getz (Stathis Borans), Joy Boushel (Tawny), Leslie Carlson (Dr. Brent Cheevers), George Chuvalo (Marky), Michael Copeman (2nd Man in Bar), David Cronenberg (Gynecologist), Carol Lazare (Nurse)."
 ---
 Poucos filmes da época de infância traziam tantas cenas marcantes quanto os filmes de David Cronenberg. E entre eles com certeza A Mosca é o que parece sintetizar o horror de seus filmes em um formato clássico e ideal. Porque se trabalhos como [A Hora da Zona Morta](/a-hora-da-zona-morta), [Um Método Perigoso](/um-metodo-perigoso) e [Cosmópolis](/cosmopolis) são mais psicológicos e internos aos seus personagens, A Mosca traz o velho dilema e a velha maldição do homem e dos caminhos que a ciência pode tomar de uma forma mais universal.
 

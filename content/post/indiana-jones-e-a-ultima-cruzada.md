@@ -1,28 +1,11 @@
 ---
+tags: ['netflix']
+imdb: "0097576"
 date: "2016-11-03"
 categories: "movies"
 title: "Indiana Jones e a Última Cruzada"
-imdb: "0097576"
 stars: "5/5"
-tags: ['netflix']
-_title: "Indiana Jones and the Last Crusade"
-_year: "1989"
-_director: ["Steven Spielberg", ]
-_writer: ["Jeffrey Boam", "George Lucas", "Menno Meyjes", "Philip Kaufman", ]
-_cast: ["Harrison Ford (Indiana Jones)", "Sean Connery (Professor Henry Jones)", "Denholm Elliott (Marcus Brody)", "Alison Doody (Elsa)", "John Rhys-Davies (Sallah)", "Julian Glover (Walter Donovan)", "River Phoenix (Young Indy)", "Michael Byrne (Vogel)", "Kevork Malikyan (Kazim)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Michael Kahn", "George Lucas", ]
-_cinematographer: ["Douglas Slocombe", ]
-_music: ["John Williams", ]
-_artdirection: ["Stephen Scott", ]
-_costume designer: ["Joanna Johnston", "Anthony Powell", ]
-_genres: ["Action", ]
-_runtimes: ["127", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjNkMzc2N2QtNjVlNS00ZTk5LTg0MTgtODY2MDAwNTMwZjBjXkEyXkFqcGdeQXVyNDk3NzU2MTQ@.jpg"
-_ratio: "2.20 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjNkMzc2N2QtNjVlNS00ZTk5LTg0MTgtODY2MDAwNTMwZjBjXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1._SX95_SY140_.jpg"
+desc: "Indiana Jones e a Última Cruzada. Indiana Jones and the Last Crusade (USA, 1989). Dirigido por Steven Spielberg. Escrito por Jeffrey Boam, George Lucas, Menno Meyjes, Philip Kaufman. Com Harrison Ford (Indiana Jones), Sean Connery (Professor Henry Jones), Denholm Elliott (Marcus Brody), Alison Doody (Elsa), John Rhys-Davies (Sallah), Julian Glover (Walter Donovan), River Phoenix (Young Indy), Michael Byrne (Vogel), Kevork Malikyan (Kazim)."
 ---
 Há filmes que parecem diferentes dependendo do período da vida que você os assiste. A Última Cruzada, última aventura de Indiana Jones nos anos 80, para mim foi quando criança uma aventura sólida, divertida, emocionante e cujos valores cristãos eu compactuava na época. Hoje, mais velho, e alguns milhares de filmes depois, continuo vendo como quase tudo isso (tirando a parte cristã), mas com um sentimento que foi adicionado com o passar dos anos: o saudosismo, ou até a saudade, da época em que ação de verdade envolvia o herói ficar pendurado do lado de fora de um tanque e comer poeira aguardando sua morte imediata.
 

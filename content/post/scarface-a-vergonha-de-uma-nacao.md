@@ -1,25 +1,10 @@
 ---
-date: "2015-12-29"
 imdb: "0023427"
-stars: "5/5"
+date: "2015-12-29"
 categories: "movies"
 title: "Scarface: A Vergonha de uma Nação"
-_title: "Scarface"
-_year: "1932"
-_director: ["Howard Hawks", "Richard Rosson", ]
-_writer: ["Armitage Trail", "Ben Hecht", "Seton I. Miller", "John Lee Mahin", "W.R. Burnett", "Seton I. Miller", "John Lee Mahin", "W.R. Burnett", "Howard Hawks", ]
-_cast: ["Paul Muni", "Ann Dvorak", "Karen Morley", "Osgood Perkins", "C. Henry Gordon", "George Raft", "Vince Barnett", "Boris Karloff", "Purnell Pratt", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Edward Curtiss", "Lewis Milestone", ]
-_cinematographer: ["Lee Garmes", "L. William O'Connell", ]
-_music: ["Adolph Tandler", ]
-_genres: ["Action", ]
-_runtimes: ["93", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjA3NzEzNzU4Ml5BMl5BanBnXkFtZTgwOTA2NjQ1MjE@.jpg"
-_ratio: "1.37 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjA3NzEzNzU4Ml5BMl5BanBnXkFtZTgwOTA2NjQ1MjE@._V1._SX93_SY140_.jpg"
+stars: "5/5"
+desc: "Scarface: A Vergonha de uma Nação. Scarface (USA, 1932). Dirigido por Howard Hawks, Richard Rosson. Escrito por Armitage Trail, Ben Hecht, Seton I. Miller, John Lee Mahin, W.R. Burnett, Seton I. Miller, John Lee Mahin, W.R. Burnett, Howard Hawks. Com Paul Muni, Ann Dvorak, Karen Morley, Osgood Perkins, C. Henry Gordon, George Raft, Vince Barnett, Boris Karloff, Purnell Pratt."
 ---
 Antes que me perguntem, gosto das duas performances de Scarface no Cinema. Al Pacino é um cubano crível e o roteiro de Oliver Stone dá tempo para vermos o personagem maturar em sua ascenção e declínio como rei do crime. Não dá para fingir que ele não se inspirou, pelo menos levemente, na performance do filme original. Porém, grande ator que é, Pacino consegue sempre impregnar de naturalidade seus personagens.
 

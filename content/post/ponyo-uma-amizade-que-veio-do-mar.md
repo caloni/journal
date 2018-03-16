@@ -1,26 +1,11 @@
 ---
-date: "2010-06-30"
 imdb: "0876563"
-revision: [2013-09-02]
+date: "2010-06-30"
+categories: "movies"
 title: "Ponyo Uma Amizade que Veio do Mar"
 stars: "4/5"
-categories: "movies"
-_title: "Gake no ue no Ponyo"
-_year: "2008"
-_director: ["Hayao Miyazaki", ]
-_writer: ["Hayao Miyazaki", ]
-_cast: ["Tomoko Yamaguchi", "Kazushige Nagashima", "Yûki Amami", "Jôji Tokoro", "Yuria Nara", "Hiroki Doi", "Rumi Hiiragi", "Akiko Yano", "Kazuko Yoshiyuki", ]
-_countries: ["Japan", ]
-_languages: ["Japanese", ]
-_editor: ["Hayao Miyazaki", "Takeshi Seyama", ]
-_cinematographer: ["Atsushi Okui", ]
-_music: ["Joe Hisaishi", ]
-_genres: ["Animation", ]
-_runtimes: ["101", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjA5NzkxNTg2MF5BMl5BanBnXkFtZTcwMTA3MjU1Mg@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjA5NzkxNTg2MF5BMl5BanBnXkFtZTcwMTA3MjU1Mg@@._V1._SX95_SY140_.jpg"
+revision: [datetime.date(2013, 9, 2)]
+desc: "Ponyo Uma Amizade que Veio do Mar. Gake no ue no Ponyo (Japan, 2008). Dirigido por Hayao Miyazaki. Escrito por Hayao Miyazaki. Com Tomoko Yamaguchi, Kazushige Nagashima, Yûki Amami, Jôji Tokoro, Yuria Nara, Hiroki Doi, Rumi Hiiragi, Akiko Yano, Kazuko Yoshiyuki."
 ---
 Até uma animação infantil e ingênua como Ponyo, de Hayao Miyazaki, consegue nos fazer pensar em vários temas ao mesmo tempo. Se em um primeiro plano é uma aventura ecológica, onde o desrespeito do homem pelo meio ambiente é colocado em xeque quando Ponyo  um pequeno peixe filho de um pai controlador e sua mãe-natureza  decide se tornar humano e acidentalmente inicia um novo ciclo de crescimento marítimo que pode acabar com a predominância dos homens (nos mares e na Terra), em um segundo plano é um filme sobre aceitarmos o diferente. O respeito aqui faz rima com amor incondicional, onde pode-se até especular que esse amor ao diferente pode vir de qualquer lugar, até de minorias como homossexuais.
 

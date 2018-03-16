@@ -1,25 +1,10 @@
 ---
-date: "2011-03-21"
 imdb: "1411238"
+date: "2011-03-21"
+categories: "movies"
 title: "Sexo Sem Compromisso"
 stars: "3/5"
-categories: "movies"
-_title: "No Strings Attached"
-_year: "2011"
-_director: ["Ivan Reitman", ]
-_writer: ["Elizabeth Meriwether", "Michael Samonek", "Elizabeth Meriwether", ]
-_cast: ["Natalie Portman", "Ashton Kutcher", "Kevin Kline", "Cary Elwes", "Greta Gerwig", "Lake Bell", "Olivia Thirlby", "Ludacris", "Jake Johnson", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Dana E. Glauberman", ]
-_cinematographer: ["Rogier Stoffers", ]
-_music: ["John Debney", ]
-_genres: ["Comedy", ]
-_runtimes: ["108", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTg2MDQ1NTEzNl5BMl5BanBnXkFtZTcwOTgxNTMyNA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTg2MDQ1NTEzNl5BMl5BanBnXkFtZTcwOTgxNTMyNA@@._V1._SX94_SY140_.jpg"
+desc: "Sexo Sem Compromisso. No Strings Attached (USA, 2011). Dirigido por Ivan Reitman. Escrito por Elizabeth Meriwether, Michael Samonek, Elizabeth Meriwether. Com Natalie Portman, Ashton Kutcher, Kevin Kline, Cary Elwes, Greta Gerwig, Lake Bell, Olivia Thirlby, Ludacris, Jake Johnson."
 ---
 Seguindo a tendência libertária de nossas relações sociais, que "evoluíram" sensivelmente nos últimos dez anos, "Sexo sem Compromisso" adota como pano de fundo a moderna relação de "amigos com benefícios", ou seja, o que o título do filme de fato sugere.
 

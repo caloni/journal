@@ -1,27 +1,10 @@
 ---
-date: "2016-03-13"
 imdb: "0364343"
-stars: "4/5"
+date: "2016-03-13"
 categories: "movies"
 title: "Violação de Privacidade"
-_title: "The Final Cut"
-_year: "2004"
-_director: ["Omar Naim", ]
-_writer: ["Omar Naim", ]
-_cast: ["Robin Williams", "Mira Sorvino", "Jim Caviezel", "Mimi Kuzyk", "Stephanie Romanov", "Thom Bishops", "Genevieve Buechner", "Brendan Fletcher", "Vincent Gale", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Dede Allen", "Robert Brakey", ]
-_cinematographer: ["Tak Fujimoto", ]
-_music: ["Brian Tyler", ]
-_artdirection: ["Kelvin Humenny", ]
-_costume designer: ["Monique Prudhomme", ]
-_genres: ["Action", ]
-_runtimes: ["95", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjkxNjA4NjM0M15BMl5BanBnXkFtZTcwMTU3MDcyMQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjkxNjA4NjM0M15BMl5BanBnXkFtZTcwMTU3MDcyMQ@@._V1._SX92_SY140_.jpg"
+stars: "4/5"
+desc: "Violação de Privacidade. The Final Cut (USA, 2004). Dirigido por Omar Naim. Escrito por Omar Naim. Com Robin Williams, Mira Sorvino, Jim Caviezel, Mimi Kuzyk, Stephanie Romanov, Thom Bishops, Genevieve Buechner, Brendan Fletcher, Vincent Gale."
 ---
 Robin Williams devia ter se aposentado de suas atuações em comédia. Porém, assistindo a filmes como Insônia, Retratos de uma Obsessão e este Violação de Privacidade, se torna até compreensível que o ator resolva dedicar metade do seu tempo para filmes açucarados para equilibrar esse seu lado sombrio e penetrante.
 

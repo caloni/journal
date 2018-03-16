@@ -1,28 +1,11 @@
 ---
+tags: ['netflix']
+imdb: "1311071"
 date: "2016-09-10"
 categories: "movies"
 title: "Versos de Um Crime"
-imdb: "1311071"
 stars: "3/5"
-tags: ['netflix']
-_title: "Kill Your Darlings"
-_year: "2013"
-_director: ["John Krokidas", ]
-_writer: ["Austin Bunn", "Austin Bunn", "John Krokidas", ]
-_cast: ["Daniel Radcliffe", "Dane DeHaan", "Michael C. Hall", "Jack Huston", "Ben Foster", "David Cross", "Jennifer Jason Leigh", "Elizabeth Olsen", "John Cullum", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Brian A. Kates", ]
-_cinematographer: ["Reed Morano", ]
-_music: ["Nico Muhly", ]
-_artdirection: ["Alexios Chrysikos", ]
-_costume designer: ["Christopher Peterson", ]
-_genres: ["Biography", ]
-_runtimes: ["104", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjA4MzAxMTE1N15BMl5BanBnXkFtZTgwMDY2OTIxMDE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjA4MzAxMTE1N15BMl5BanBnXkFtZTgwMDY2OTIxMDE@._V1._SX94_SY140_.jpg"
+desc: "Versos de Um Crime. Kill Your Darlings (USA, 2013). Dirigido por John Krokidas. Escrito por Austin Bunn, Austin Bunn, John Krokidas. Com Daniel Radcliffe, Dane DeHaan, Michael C. Hall, Jack Huston, Ben Foster, David Cross, Jennifer Jason Leigh, Elizabeth Olsen, John Cullum."
 ---
 Depois do ótimo Na Estrada (Walter Salles, 2012), o requisitado personagem da vida real Allen Ginsberg, o poeta americano da geração beat dos anos 50, é encarnado por Daniel Radcliffe (da série Harry Potter), e tem ao seu lado o igualmente ótimo Dane DeHaan (Poder Sem Limites, O Lugar Onde Tudo Termina) e um Michael C. Hall (da série Dexter) curioso, mas um tanto ausente. A história é retratada como um drama novelístico e televisivo, com impecável direção de arte, mas uma narrativa burocrática demais para funcionar com poetas que estavam revolucionando o mundo da literatura.
 

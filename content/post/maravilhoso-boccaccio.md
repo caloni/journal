@@ -1,26 +1,11 @@
 ---
-date: "2016-04-27"
-tags: [ "cabine" ]
+tags: ['cabine']
 imdb: "3596952"
-stars: "3/5"
+date: "2016-04-27"
 categories: "movies"
 title: "Maravilhoso Boccaccio"
-_title: "Maraviglioso Boccaccio"
-_year: "2015"
-_director: ["Paolo Taviani", "Vittorio Taviani", ]
-_writer: ["Giovanni Boccaccio", "Paolo Taviani", "Vittorio Taviani", ]
-_cast: ["Lello Arena", "Paola Cortellesi", "Carolina Crescentini", "Flavio Parenti", "Vittoria Puccini", "Michele Riondino", "Kim Rossi Stuart", "Riccardo Scamarcio", "Kasia Smutniak", ]
-_countries: ["Italy", ]
-_languages: ["Italian", ]
-_editor: ["Roberto Perpignani", ]
-_cinematographer: ["Simone Zampagni", ]
-_music: ["Giuliano Taviani", "Carmelo Travia", ]
-_costume designer: ["Lina Nerli Taviani", ]
-_genres: ["Comedy", ]
-_runtimes: ["120", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BZDQyZTEwOGMtMWQ3Ni00ZThiLWFjMDgtMDg3MzY4MTUzNzdiXkEyXkFqcGdeQXVyMjAwMzU2MDY@.jpg"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BZDQyZTEwOGMtMWQ3Ni00ZThiLWFjMDgtMDg3MzY4MTUzNzdiXkEyXkFqcGdeQXVyMjAwMzU2MDY@._V1._SX93_SY140_.jpg"
+stars: "3/5"
+desc: "Maravilhoso Boccaccio. Maraviglioso Boccaccio (Italy, 2015). Dirigido por Paolo Taviani, Vittorio Taviani. Escrito por Giovanni Boccaccio, Paolo Taviani, Vittorio Taviani. Com Lello Arena, Paola Cortellesi, Carolina Crescentini, Flavio Parenti, Vittoria Puccini, Michele Riondino, Kim Rossi Stuart, Riccardo Scamarcio, Kasia Smutniak."
 ---
 Os Dez Mandamentos da TV Itália. Para quem não sabe, a novela do Edir Macedo virou um filme de duas horas que passou nos cinemas e que cobrava dos fiéis uns 50 reais por entrada (um dos porteiros aqui do prédio que confirmou). Esse Maravilhoso Boccaccio fala sobre alguns contos do autor italiano do século 14, e estrutura sua narrativa em torno dessas novelinhas que parecem aqueles textos de literatura juvenil que lemos quando estamos no primeiro estágio da escola.
 

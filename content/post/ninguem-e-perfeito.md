@@ -1,25 +1,10 @@
 ---
-date: "2013-07-14"
 imdb: "0155711"
+date: "2013-07-14"
+categories: "movies"
 title: "Ninguém é Perfeito"
 stars: "3/5"
-categories: "movies"
-_title: "Flawless"
-_year: "1999"
-_director: ["Joel Schumacher", ]
-_writer: ["Joel Schumacher", ]
-_cast: ["Robert De Niro", "Philip Seymour Hoffman", "Barry Miller", "Chris Bauer", "Skipp Sudduth", "Wilson Jermaine Heredia", "Nashom Benjamin", "Scott Allen Cooper", "Rory Cochrane", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Mark Stevens", ]
-_cinematographer: ["Declan Quinn", ]
-_music: ["Bruce Roberts", ]
-_genres: ["Comedy", ]
-_runtimes: ["112", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjEwODc5MDYyMl5BMl5BanBnXkFtZTcwMjcwOTgxMQ@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjEwODc5MDYyMl5BMl5BanBnXkFtZTcwMjcwOTgxMQ@@._V1._SX100_SY140_.jpg"
+desc: "Ninguém é Perfeito. Flawless (USA, 1999). Dirigido por Joel Schumacher. Escrito por Joel Schumacher. Com Robert De Niro, Philip Seymour Hoffman, Barry Miller, Chris Bauer, Skipp Sudduth, Wilson Jermaine Heredia, Nashom Benjamin, Scott Allen Cooper, Rory Cochrane."
 ---
 Robert de Niro é Walt Koontz, um policial aposentado como herói. Philip Seymour Hoffman é Rusty, uma drag queen que canta em uma boate gay em seu próprio show. Ambos vivem em um prédio decadente dos subúrbios, e Walt odeia a ideia de conviver com esses seres bizarros, até que um roubo entre criminosos faz ambos se encontrarem e terem que conviver com suas diferenças.
 

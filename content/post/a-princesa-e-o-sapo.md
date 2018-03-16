@@ -1,24 +1,10 @@
 ---
-date: "2012-12-09"
 imdb: "0780521"
+date: "2012-12-09"
+categories: "movies"
 title: "A princesa e o sapo"
 stars: "3/5"
-categories: "movies"
-_title: "The Princess and the Frog"
-_year: "2009"
-_director: ["Ron Clements", "John Musker", ]
-_writer: ["Ron Clements", "John Musker", "Rob Edwards", "Ron Clements", "John Musker", "Greg Erb", "Jason Oremland", "Don Hall", "E.D. Baker", ]
-_cast: ["Anika Noni Rose", "Bruno Campos", "Keith David", "Michael-Leon Wooley", "Jennifer Cody", "Jim Cummings", "Peter Bartlett", "Jenifer Lewis", "Oprah Winfrey", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Jeff Draheim", ]
-_music: ["Randy Newman", ]
-_genres: ["Animation", ]
-_runtimes: ["97", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjEyOTQ5NzAzNl5BMl5BanBnXkFtZTcwMTcyNTU1Mg@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjEyOTQ5NzAzNl5BMl5BanBnXkFtZTcwMTcyNTU1Mg@@._V1._SX90_SY140_.jpg"
+desc: "A princesa e o sapo. The Princess and the Frog (USA, 2009). Dirigido por Ron Clements, John Musker. Escrito por Ron Clements, John Musker, Rob Edwards, Ron Clements, John Musker, Greg Erb, Jason Oremland, Don Hall, E.D. Baker. Com Anika Noni Rose, Bruno Campos, Keith David, Michael-Leon Wooley, Jennifer Cody, Jim Cummings, Peter Bartlett, Jenifer Lewis, Oprah Winfrey."
 ---
 Última animação em 2D da Disney e primeira princesa negra, a ideia que a produtora norte-americana de animações quis passar foi de uma mulher independente, Tiana (Anika Noni Rose), que sonha em construir um restaurante que era um sonho do seu finado pai. Ela mora em Nova Orleans, e possui uma amiga branca, Charlotte (Jennifer Cody), que, rica, sonha em se casar com um príncipe.
 

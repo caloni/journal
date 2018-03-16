@@ -1,26 +1,11 @@
 ---
-date: "2017-12-26"
 imdb: "0076759"
+date: "2017-12-26"
+categories: "movies"
 title: "Guerra nas Estrelas (aka Star Wars Episódio IV: Uma Nova Esperança)"
 stars: "3/5"
-categories: "movies"
-revision: [2017-12-26]
-_title: "Star Wars"
-_year: "1977"
-_director: ["George Lucas", ]
-_writer: ["George Lucas", ]
-_cast: ["Mark Hamill", "Harrison Ford", "Carrie Fisher", "Peter Cushing", "Alec Guinness", "Anthony Daniels", "Kenny Baker", "Peter Mayhew", "David Prowse", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Richard Chew", "T.M. Christopher", "Paul Hirsch", "Marcia Lucas", "George Lucas", ]
-_cinematographer: ["Gilbert Taylor", ]
-_music: ["John Williams", ]
-_genres: ["Action", ]
-_runtimes: ["121", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTU4NTczODkwM15BMl5BanBnXkFtZTcwMzEyMTIyMw@@.jpg"
-_ratio: "2.20 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTU4NTczODkwM15BMl5BanBnXkFtZTcwMzEyMTIyMw@@._V1._SX92_SY140_.jpg"
+revision: [datetime.date(2017, 12, 26)]
+desc: "Guerra nas Estrelas (aka Star Wars Episódio IV: Uma Nova Esperança). Star Wars (USA, 1977). Dirigido por George Lucas. Escrito por George Lucas. Com Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing, Alec Guinness, Anthony Daniels, Kenny Baker, Peter Mayhew, David Prowse."
 ---
 Sem modelos anteriores além dos arquétipos narrativos como a clássica jornada do herói, o primeiro Guerra nas Estrelas brilha pela sua produção inusitada. Flertando entre o trash e o onírico fantasioso precursor da era das superproduções, o trabalho de George Lucas transita sem avisar entre o risível e o épico. Ele pode ser entendido como a mescla perfeita que gera o pop, esse sentimento de auto-importância criado na base do berro que fascinou e fascina gerações.
 

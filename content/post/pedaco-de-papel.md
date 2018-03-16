@@ -1,21 +1,11 @@
 ---
+tags: ['curtas']
+imdb: "1522238"
 date: "2011-11-03"
 categories: "blog"
-imdb: "1522238"
-stars: "3/5"
 title: "Pedaço de Papel"
-tags: ['curtas']
-_title: "Pedaço de Papel"
-_year: "2010"
-_director: ["Cesar Raphael", ]
-_writer: ["Cesar Raphael", ]
-_cast: ["Jeferson Alves", "Maria Mourão", "Cesar Raphael", "Carlos Magno Ribeiro", "Paulo Udi", "Harley Winter", ]
-_countries: ["Brazil", ]
-_languages: ["English", ]
-_editor: ["Felipe Nascimento", "Cesar Raphael", ]
-_genres: ["Short", ]
-_runtimes: ["18", ]
-_kind: "movie"
+stars: "3/5"
+desc: "Pedaço de Papel. Pedaço de Papel (Brazil, 2010). Dirigido por Cesar Raphael. Escrito por Cesar Raphael. Com Jeferson Alves, Maria Mourão, Cesar Raphael, Carlos Magno Ribeiro, Paulo Udi, Harley Winter."
 ---
 Esse curta de 18 minutos fez sua publicidade internacional com o uso inteligente da narração fluida (quase um plano-sequência completo, encoberto por cortes de cenário), ausência de diálogos (para evitar legendas) e, o mais importante, a ausência de identidade. Não é possível afirmar ou até mesmo sugerir onde a história do filme é passada. Sabemos que tudo o que acontece na narrativa existe no Brasil, e sabemos do triste círculo vicioso da violência através de trabalhos mais cerebrais como Tropa de Elite.
 

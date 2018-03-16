@@ -1,27 +1,12 @@
 ---
-date: "2014-05-06"
 imdb: "1872181"
+date: "2014-05-06"
+categories: "movies"
 count: 2
 title: "O Espetacular Homem-Aranha 2 A Ameaça de Electro"
 stars: "3/5"
-categories: "movies"
-revision: [2014-12-20]
-_title: "The Amazing Spider-Man 2"
-_year: "2014"
-_director: ["Marc Webb", ]
-_writer: ["Alex Kurtzman", "Roberto Orci", "Jeff Pinkner", "Alex Kurtzman", "Roberto Orci", "Jeff Pinkner", "James Vanderbilt", "Stan Lee", "Steve Ditko", ]
-_cast: ["Andrew Garfield", "Emma Stone", "Jamie Foxx", "Dane DeHaan", "Colm Feore", "Felicity Jones", "Paul Giamatti", "Sally Field", "Embeth Davidtz", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Pietro Scalia", ]
-_cinematographer: ["Daniel Mindel", ]
-_music: ["Johnny Marr", "Pharrell Williams", "Hans Zimmer", ]
-_genres: ["Action", ]
-_runtimes: ["142", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BOTA5NDYxNTg0OV5BMl5BanBnXkFtZTgwODE5NzU1MTE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BOTA5NDYxNTg0OV5BMl5BanBnXkFtZTgwODE5NzU1MTE@._V1._SX94_SY140_.jpg"
+revision: [datetime.date(2014, 12, 20)]
+desc: "O Espetacular Homem-Aranha 2 A Ameaça de Electro. The Amazing Spider-Man 2 (USA, 2014). Dirigido por Marc Webb. Escrito por Alex Kurtzman, Roberto Orci, Jeff Pinkner, Alex Kurtzman, Roberto Orci, Jeff Pinkner, James Vanderbilt, Stan Lee, Steve Ditko. Com Andrew Garfield, Emma Stone, Jamie Foxx, Dane DeHaan, Colm Feore, Felicity Jones, Paul Giamatti, Sally Field, Embeth Davidtz."
 ---
 O Espetacular Homem-Aranha, como é chamada no Brasil essa nova franquia da Sony em torno do herói de teias, não poderia ser mais "espetacular" em sua segunda aparição. Aliás, é tão "espetacular" no sentido da palavra que os habitantes de Nova Iorque já estão habituados a se apinharem educadamente atrás das quase presentes barreiras de metal colocadas estrategicamente em torno de mais um embate entre o Aranha e mais um dos seus arqui-inimigos. Eles aplaudem, festejam, comem pipoca. Nós também. Tudo é um show pirotecnicamente planejado para fornecer ação, humor, suspense, drama e comédia (ah, e romance) em um pacote de quase duas horas e meia de duração. São tantos gêneros diferentes quanto inimigos na telona, e assim como a presença de um número excessivo de personagens icônicos enfraquece cada um deles  até por praticamente não terem qualquer relação uns com os outros , a presença de uma dramédia romântica com ação desenfreada parece não querer dizer muita coisa de nenhum gênero específico. Ao espectador e aos nova-iorquinos as instruções são simples: apenas abrace o lado do filme que lhe agradar mais e aguarde pelo seus breves momentos. Enquanto ele não chega, aprecia uma pipoca e aplauda atrás dos óculos 3D uma performance tão grandiosa quanto um Cirque du Soleil em videotape. Assim como o famoso circo que circunda o planeta para apresentar seu espetáculo para uma plateia que sabe que irá encontrar acrobacias treinadas por anos em um palco onde está tudo sob controle, "Amazing Spider Man" é um filme que tem tudo sob controle: os fãs, os amantes de efeitos visuais, os adoradores de pipoca. Tudo condicionado para fazer... não, obrigar que você goste do grande show.
 

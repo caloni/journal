@@ -1,25 +1,10 @@
 ---
-date: "2011-07-04"
 imdb: "1396218"
+date: "2011-07-04"
+categories: "movies"
 title: "Os Pinguins do Papai"
 stars: "3/5"
-categories: "movies"
-_title: "Mr. Popper's Penguins"
-_year: "2011"
-_director: ["Mark Waters", ]
-_writer: ["Sean Anders", "John Morris", "Jared Stern", "Richard Atwater", "Florence Atwater", ]
-_cast: ["Jim Carrey", "Carla Gugino", "Angela Lansbury", "Ophelia Lovibond", "Madeline Carroll", "Clark Gregg", "Jeffrey Tambor", "David Krumholtz", "Philip Baker Hall", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Bruce Green", ]
-_cinematographer: ["Florian Ballhaus", ]
-_music: ["Rolfe Kent", ]
-_genres: ["Comedy", ]
-_runtimes: ["USA:94", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTcwMDI4NjEyOF5BMl5BanBnXkFtZTcwNzg5MzEwNQ@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTcwMDI4NjEyOF5BMl5BanBnXkFtZTcwNzg5MzEwNQ@@._V1._SX94_SY140_.jpg"
+desc: "Os Pinguins do Papai. Mr. Popper's Penguins (USA, 2011). Dirigido por Mark Waters. Escrito por Sean Anders, John Morris, Jared Stern, Richard Atwater, Florence Atwater. Com Jim Carrey, Carla Gugino, Angela Lansbury, Ophelia Lovibond, Madeline Carroll, Clark Gregg, Jeffrey Tambor, David Krumholtz, Philip Baker Hall."
 ---
 Sinopse: A vida de um homem de negócios começar a mudar após ele herdar de seu pai seis pinguins. Conforme ele avança em sua vida pessoal, sua vida profissional começa a despencar.
 

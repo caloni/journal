@@ -1,25 +1,10 @@
 ---
-date: "2010-09-24"
 imdb: "1375670"
+date: "2010-09-24"
+categories: "movies"
 title: "Gente Grande"
 stars: "3/5"
-categories: "movies"
-_title: "Grown Ups"
-_year: "2010"
-_director: ["Dennis Dugan", ]
-_writer: ["Adam Sandler", "Fred Wolf", ]
-_cast: ["Adam Sandler", "Kevin James", "Chris Rock", "David Spade", "Rob Schneider", "Salma Hayek", "Maria Bello", "Maya Rudolph", "Joyce Van Patten", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Tom Costain", ]
-_cinematographer: ["Theo van de Sande", ]
-_music: ["Rupert Gregson-Williams", ]
-_genres: ["Comedy", ]
-_runtimes: ["102", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjA0ODYwNzU5Nl5BMl5BanBnXkFtZTcwNTI1MTgxMw@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjA0ODYwNzU5Nl5BMl5BanBnXkFtZTcwNTI1MTgxMw@@._V1._SX94_SY140_.jpg"
+desc: "Gente Grande. Grown Ups (USA, 2010). Dirigido por Dennis Dugan. Escrito por Adam Sandler, Fred Wolf. Com Adam Sandler, Kevin James, Chris Rock, David Spade, Rob Schneider, Salma Hayek, Maria Bello, Maya Rudolph, Joyce Van Patten."
 ---
 As piadas do filme parecem internas e da vida real ("você aumentou o número do sutiã?", pergunta Sandler para seu amigo recém-chegado que aparentemente engordou mais que ele, ou "dessa vez vc trouxe a mãe", se referindo ao cachorro em seu carro), ou, pior: elas foram achadas pelo google. No entanto, aparentemente os realizadores do filme acham elas estupidamente engraçadas, pois estão sempre inseridas em momentos de clímax.
 

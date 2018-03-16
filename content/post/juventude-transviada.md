@@ -1,27 +1,10 @@
 ---
-date: "2016-01-30"
 imdb: "0048545"
-stars: "4/5"
+date: "2016-01-30"
 categories: "movies"
 title: "Juventude Transviada"
-_title: "Rebel Without a Cause"
-_year: "1955"
-_director: ["Nicholas Ray", ]
-_writer: ["Stewart Stern", "Irving Shulman", "Nicholas Ray", ]
-_cast: ["James Dean", "Natalie Wood", "Sal Mineo", "Jim Backus", "Ann Doran", "Corey Allen", "William Hopper", "Rochelle Hudson", "Dennis Hopper", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["William H. Ziegler", "James Moore", ]
-_cinematographer: ["Ernest Haller", ]
-_music: ["Leonard Rosenman", ]
-_artdirection: ["Malcolm C. Bert", ]
-_costume designer: ["Moss Mabry", ]
-_genres: ["Drama", ]
-_runtimes: ["111", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTg2ODcxOTU1OV5BMl5BanBnXkFtZTgwNzA3ODI1MDE@.jpg"
-_ratio: "2.55 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTg2ODcxOTU1OV5BMl5BanBnXkFtZTgwNzA3ODI1MDE@._V1._SX95_SY140_.jpg"
+stars: "4/5"
+desc: "Juventude Transviada. Rebel Without a Cause (USA, 1955). Dirigido por Nicholas Ray. Escrito por Stewart Stern, Irving Shulman, Nicholas Ray. Com James Dean, Natalie Wood, Sal Mineo, Jim Backus, Ann Doran, Corey Allen, William Hopper, Rochelle Hudson, Dennis Hopper."
 ---
 James Dean ficou conhecido como o ícone de uma geração. Morreu jovem, o que só ajudou a fortalecer a lenda. Fez no total três filmes para Cinema (esse estreou no ano de sua morte). Em Rebelde sem Causa -- ou Juventude Transviada -- ele faz um jovem mimado da classe média americana que arruma confusão em todos os lugares que passa. O filme começa com todos o paparicando: o delegado de polícia, seus pais, sua avó. Na própria delegacia ele já conhece seu melhor amigo, que tem uma forte carência paternal e instabilidade emocional, e seu par romântico, a "rebelde" Y, que também possui problemas com o pai, que evita beijos na boca de sua filha de 16 anos por considerar inapropriado. Olhando para ela e seus lábios pintados escandalosamente de vermelho, quem poderia culpá-lo?
 

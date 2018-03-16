@@ -1,25 +1,10 @@
 ---
-date: "2012-01-17"
 imdb: "1340800"
+date: "2012-01-17"
+categories: "movies"
 title: "O Espião Que Sabia Demais"
 stars: "4/5"
-categories: "movies"
-_title: "Tinker Tailor Soldier Spy"
-_year: "2011"
-_director: ["Tomas Alfredson", ]
-_writer: ["Bridget O'Connor", "Peter Straughan", "John le Carré", ]
-_cast: ["Mark Strong", "John Hurt", "Zoltán Mucsi", "Péter Kálloy Molnár", "Ilona Kassai", "Imre Csuja", "Gary Oldman", "Toby Jones", "David Dencik", ]
-_countries: ["France", ]
-_languages: ["English", ]
-_editor: ["Dino Jonsäter", ]
-_cinematographer: ["Hoyte Van Hoytema", ]
-_music: ["Alberto Iglesias", ]
-_genres: ["Drama", ]
-_runtimes: ["127", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTU2OTkwNzMyM15BMl5BanBnXkFtZTcwOTI4ODg2Ng@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTU2OTkwNzMyM15BMl5BanBnXkFtZTcwOTI4ODg2Ng@@._V1._SX94_SY140_.jpg"
+desc: "O Espião Que Sabia Demais. Tinker Tailor Soldier Spy (France, 2011). Dirigido por Tomas Alfredson. Escrito por Bridget O'Connor, Peter Straughan, John le Carré. Com Mark Strong, John Hurt, Zoltán Mucsi, Péter Kálloy Molnár, Ilona Kassai, Imre Csuja, Gary Oldman, Toby Jones, David Dencik."
 ---
 Confuso, confuso, confuso.
 

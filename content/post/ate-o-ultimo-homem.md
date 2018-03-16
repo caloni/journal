@@ -1,28 +1,11 @@
 ---
+tags: ['paulocoelho', 'oscar']
+imdb: "2119532"
 date: "2017-02-15"
 categories: "movies"
 title: "Até o Último Homem"
-imdb: "2119532"
 stars: "5/5"
-tags: ['paulocoelho', 'oscar']
-_title: "Hacksaw Ridge"
-_year: "2016"
-_director: ["Mel Gibson", ]
-_writer: ["Robert Schenkkan", "Andrew Knight", ]
-_cast: ["Andrew Garfield (Desmond Doss)", "Richard Pyros (Teach)", "Jacob Warner (James Pinnick)", "Milo Gibson (Lucky Ford)", "Darcy Bryce (Young Desmond)", "Roman Guerriero (Young 'Hal' Doss)", "James Lugton (Hiker)", "Kasia Stelmach (Hiker's Friend)", "Hugo Weaving (Tom Doss)", ]
-_countries: ["Australia", ]
-_languages: ["English", ]
-_editor: ["John Gilbert", ]
-_cinematographer: ["Simon Duggan", ]
-_music: ["Rupert Gregson-Williams", ]
-_artdirection: ["Jacinta Leong", "Mark Robins", ]
-_costume designer: ["Lizzy Gardiner", ]
-_genres: ["Drama", ]
-_runtimes: ["139", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1._SX91_SY140_.jpg"
+desc: "Até o Último Homem. Hacksaw Ridge (Australia, 2016). Dirigido por Mel Gibson. Escrito por Robert Schenkkan, Andrew Knight. Com Andrew Garfield (Desmond Doss), Richard Pyros (Teach), Jacob Warner (James Pinnick), Milo Gibson (Lucky Ford), Darcy Bryce (Young Desmond), Roman Guerriero (Young 'Hal' Doss), James Lugton (Hiker), Kasia Stelmach (Hiker's Friend), Hugo Weaving (Tom Doss)."
 ---
 Este é um filme que presta uma homenagem mais do que merecida a um homem que salvou diversas vidas durante uma batalha sem atirar uma bala. Mel Gibson, porém, pega o roteiro de Robert Schenkkan e Andrew Knight e transforma em algo muito, muito maior. Este é um filme de guerra que realiza uma ode à não-guerra. Ele usa levemente a simbologia cristã, mas seu foco são os princípios morais que regem a carnificina legalizada que é um campo de batalha, e com isso humaniza a condição dos soldados massacrados, mostrando o que tiver que mostrar para passar sua mensagem. É um pouco ufanista? Talvez. Mas quem irá culpá-lo, já que o fanatismo do Japão medieval tornava os soldados inimigos verdadeiros mensageiros do demônio.
 

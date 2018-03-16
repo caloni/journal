@@ -1,26 +1,11 @@
 ---
+tags: ['cabine']
+imdb: "4746506"
 date: "2016-12-19"
 categories: "movies"
 title: "Belos Sonhos"
-imdb: "4746506"
 stars: "4/5"
-tags: ['cabine']
-_title: "Fai bei sogni"
-_year: "2016"
-_director: ["Marco Bellocchio", ]
-_writer: ["Massimo Gramellini", "Valia Santella", "Edoardo Albinati", "Marco Bellocchio", ]
-_cast: ["Bérénice Bejo (Elisa)", "Valerio Mastandrea (Massimo)", "Fabrizio Gifuni", "Guido Caprino (Padre di Massimo)", "Barbara Ronchi (Madre di Massimo)", "Dario Dal Pero (Massimo adolescente)", "Nicolò Cabras (Massimo bambino)", "Emmanuelle Devos", "Pier Giorgio Bellocchio", ]
-_countries: ["Italy", ]
-_languages: ["Italian", ]
-_editor: ["Francesca Calvelli", ]
-_cinematographer: ["Daniele Ciprì", ]
-_music: ["Carlo Crivelli", ]
-_genres: ["Drama", ]
-_runtimes: ["134", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BZDRkM2NkOGQtNDNmNC00YTYwLThmYTQtM2RmNTNhMDU2NDU0XkEyXkFqcGdeQXVyNDgxMDU4NTU@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BZDRkM2NkOGQtNDNmNC00YTYwLThmYTQtM2RmNTNhMDU2NDU0XkEyXkFqcGdeQXVyNDgxMDU4NTU@._V1._SX99_SY140_.jpg"
+desc: "Belos Sonhos. Fai bei sogni (Italy, 2016). Dirigido por Marco Bellocchio. Escrito por Massimo Gramellini, Valia Santella, Edoardo Albinati, Marco Bellocchio. Com Bérénice Bejo (Elisa), Valerio Mastandrea (Massimo), Fabrizio Gifuni, Guido Caprino (Padre di Massimo), Barbara Ronchi (Madre di Massimo), Dario Dal Pero (Massimo adolescente), Nicolò Cabras (Massimo bambino), Emmanuelle Devos, Pier Giorgio Bellocchio."
 ---
 Para fãs de filmografias que abusam da iconografia do cinema italiano como "A Primeira Coisa Bela", "Belos Sonhos" é um prato cheio. Porém, fugindo um pouco do dinamismo, este é um drama psicológico que irá fazer você repensar como o Cinema consegue demonstrar caminhos em sua narrativa sem fazer os personagens abrirem a boca de maneira artificial. Quase tudo de importante no filme é visual, é simbólico, metafórico, e metalinguístico. Um primor de como cinema é sobre o que vemos.
 

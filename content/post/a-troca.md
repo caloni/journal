@@ -1,25 +1,10 @@
 ---
-date: "2012-03-18"
 imdb: "0824747"
+date: "2012-03-18"
+categories: "movies"
 title: "A Troca"
 stars: "4/5"
-categories: "movies"
-_title: "Changeling"
-_year: "2008"
-_director: ["Clint Eastwood", ]
-_writer: ["J. Michael Straczynski", ]
-_cast: ["Angelina Jolie", "Gattlin Griffith", "Michelle Gunn", "Michael Kelly", "Jan Devereaux", "Erica Grant", "Antonia Bennett", "Kerri Randles", "Frank Wood", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Joel Cox", "Gary Roach", ]
-_cinematographer: ["Tom Stern", ]
-_music: ["Clint Eastwood", ]
-_genres: ["Drama", ]
-_runtimes: ["141", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BOTA1Mzg3NjIxNV5BMl5BanBnXkFtZTcwNzU2NTc5MQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BOTA1Mzg3NjIxNV5BMl5BanBnXkFtZTcwNzU2NTc5MQ@@._V1._SX95_SY140_.jpg"
+desc: "A Troca. Changeling (USA, 2008). Dirigido por Clint Eastwood. Escrito por J. Michael Straczynski. Com Angelina Jolie, Gattlin Griffith, Michelle Gunn, Michael Kelly, Jan Devereaux, Erica Grant, Antonia Bennett, Kerri Randles, Frank Wood."
 ---
 Impressionante como é possível admirar uma direção competente e experiente mesmo sem conhecê-la. Foi assim com A Troca, um drama de época envolvendo a história de vida de uma mulher que tem seu filho desaparecido e sua luta contra o sistema corrupto da polícia de Los Angeles da década de 20/30. Foi só nos créditos que descobri se tratar mais uma vez do trabalho sempre constante de Clint Eastwood (Menina de Ouro, Sobre Meninos e Lobos), que, diferente do seu passado de ator com uma cara só, vem se preocupando com temáticas mais humanistas sem deixar de lado uma discussão mais profunda sobre a sociedade onde isso ocorre. Nesse sentido é possível comparar este belo trabalho com Menina de Ouro. Em todos os outros sentidos, porém, é uma história completamente diferente.
 

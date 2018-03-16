@@ -1,28 +1,11 @@
 ---
-imdb: "2788716"
-stars: "3/5"
 tags: ['netflix']
+imdb: "2788716"
 date: 2017-10-22T21:49:27
-title: "Bem Vindos Ao Mundo"
 categories: "movies"
-_title: "Welcome to Me"
-_year: "2014"
-_director: ["Shira Piven", ]
-_writer: ["Eliot Laurence", ]
-_cast: ["Kristen Wiig (Alice Klieg)", "Wes Bentley (Gabe Ruskin)", "Linda Cardellini (Gina Selway)", "Joan Cusack (Dawn Hurley)", "Loretta Devine (Barb Vaughn)", "Jennifer Jason Leigh (Deb Moseley)", "Thomas Mann (Rainer Ybarra)", "James Marsden (Rich Ruskin)", "Tim Robbins (Dr. Daryl Moffet)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Josh Salzberg", "Kevin Tent", ]
-_cinematographer: ["Eric Alan Edwards", ]
-_music: ["David Robbins", ]
-_artdirection: ["Andres Cubillan", ]
-_costume designer: ["Susan Matheson", ]
-_genres: ["Comedy", ]
-_runtimes: ["87", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTA0NTAyNTYwNDheQTJeQWpwZ15BbWU4MDY2ODcyNTQx.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTA0NTAyNTYwNDheQTJeQWpwZ15BbWU4MDY2ODcyNTQx._V1._SX95_SY140_.jpg"
+title: "Bem Vindos Ao Mundo"
+stars: "3/5"
+desc: "Bem Vindos Ao Mundo. Welcome to Me (USA, 2014). Dirigido por Shira Piven. Escrito por Eliot Laurence. Com Kristen Wiig (Alice Klieg), Wes Bentley (Gabe Ruskin), Linda Cardellini (Gina Selway), Joan Cusack (Dawn Hurley), Loretta Devine (Barb Vaughn), Jennifer Jason Leigh (Deb Moseley), Thomas Mann (Rainer Ybarra), James Marsden (Rich Ruskin), Tim Robbins (Dr. Daryl Moffet)."
 ---
 Kristen Wiig é uma mestre da comédia física. Aqui ela faz uma protagonista bipolar que ganha na loteria e escala rapidamente seu distorcido mundo em uma versão com muito dinheiro. É possível dar boas risadas de sua performance, que consegue não apenas convencer, mas deixar uma pulga atrás da orelha: esta é uma comédia ou um drama?
 

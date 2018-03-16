@@ -1,26 +1,11 @@
 ---
+tags: ['netflix', 'series']
+imdb: "4145760"
 date: "2016-05-20"
 categories: "blog"
-imdb: "4145760"
-stars: "2/5"
 title: "The Lizzie Borden Chronicles (piloto)"
-tags: ['netflix', 'series']
-_title: "The Lizzie Borden Chronicles"
-_year: "2015"
-_director: ["Howard Deutch", "Stephen Kay", "Constantine Makris", "Russell Mulcahy", ]
-_writer: ["Richard Blaney", "Gregory Small", "Jason Grote", "Barbara Nance", "David Simkins", ]
-_cast: ["Christina Ricci", "Clea DuVall", "Cole Hauser", "Dylan Taylor", "John Ralston", "Bradley Stryker", "Olivia Llewellyn", "Jeff Wincott", "Jessy Schram", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Lori Jane Coleman", "Ian Silverstein", ]
-_cinematographer: ["François Dagenais", ]
-_music: ["Tree Adams", ]
-_artdirection: ["Jason Clarke", ]
-_costume designer: ["Joseph A. Porro", ]
-_genres: ["Crime", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjE1NDgxMzQ4M15BMl5BanBnXkFtZTgwODI3NzkwNTE@.jpg"
-_kind: "tv series"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjE1NDgxMzQ4M15BMl5BanBnXkFtZTgwODI3NzkwNTE@._V1._SX100_SY132_.jpg"
+stars: "2/5"
+desc: "The Lizzie Borden Chronicles (piloto). The Lizzie Borden Chronicles (USA, 2015). Dirigido por Howard Deutch, Stephen Kay, Constantine Makris, Russell Mulcahy. Escrito por Richard Blaney, Gregory Small, Jason Grote, Barbara Nance, David Simkins. Com Christina Ricci, Clea DuVall, Cole Hauser, Dylan Taylor, John Ralston, Bradley Stryker, Olivia Llewellyn, Jeff Wincott, Jessy Schram."
 ---
 Juro que esperava peitinhos. Uma série com a sempre "interessante" Christina Ricci (A Família Addams ou... O Oposto do Sexo?) sempre promete algo assim. Ela como a assassina sanguinária Lizzie Borden, então...
 

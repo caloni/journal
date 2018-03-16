@@ -1,27 +1,10 @@
 ---
+imdb: "1670345"
 date: "2016-06-21"
 categories: "movies"
-imdb: "1670345"
-stars: "2/5"
 title: "Truque de Mestre"
-_title: "Now You See Me"
-_year: "2013"
-_director: ["Louis Leterrier", ]
-_writer: ["Ed Solomon", "Boaz Yakin", "Edward Ricourt", "Boaz Yakin", "Edward Ricourt", ]
-_cast: ["Jesse Eisenberg", "Mark Ruffalo", "Woody Harrelson", "Isla Fisher", "Dave Franco", "Mélanie Laurent", "Morgan Freeman", "Michael Caine", "Michael Kelly", ]
-_countries: ["France", ]
-_languages: ["English", ]
-_editor: ["Robert Leighton", "Vincent Tabaillon", ]
-_cinematographer: ["Mitchell Amundsen", "Larry Fong", ]
-_music: ["Brian Tyler", ]
-_artdirection: ["Scott Plauche", "Thomas Valentine", ]
-_costume designer: ["Jenny Eagan", ]
-_genres: ["Crime", ]
-_runtimes: ["115", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTY0NDY3MDMxN15BMl5BanBnXkFtZTcwOTM5NzMzOQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTY0NDY3MDMxN15BMl5BanBnXkFtZTcwOTM5NzMzOQ@@._V1._SX90_SY140_.jpg"
+stars: "2/5"
+desc: "Truque de Mestre. Now You See Me (France, 2013). Dirigido por Louis Leterrier. Escrito por Ed Solomon, Boaz Yakin, Edward Ricourt, Boaz Yakin, Edward Ricourt. Com Jesse Eisenberg, Mark Ruffalo, Woody Harrelson, Isla Fisher, Dave Franco, Mélanie Laurent, Morgan Freeman, Michael Caine, Michael Kelly."
 ---
 Abracadabra! Surge um péssimo filme. Embalado naquele formato de reviravoltas, este filme não contém nenhuma, pois ele nunca nos faz crer em X para depois revelar Y. Todas suas "bombásticas" revelações são simplesmente isso: revelações. Geralmente algo novo que não tinha qualquer relação com o que foi mostrado até agora, e se tem alguma, é jogada no ar como uma carta qualquer.
 

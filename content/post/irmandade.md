@@ -1,25 +1,11 @@
 ---
+tags: ['mostrasp']
+imdb: "5104002"
 date: "2016-11-02"
 categories: "movies"
 title: "Irmandade"
-imdb: "5104002"
 stars: "1/5"
-tags: ['mostrasp']
-_title: "Kapatiran"
-_year: "2015"
-_director: ["Pepe Diokno", ]
-_writer: ["Pepe Diokno", "Lilit Reyes", "Benjamin Gonzales Tolentino", ]
-_cast: ["Giancarlo Abrahan", "Bianca Balbuena", "Regina Belmonte", "Bryan Bendanillo", "Joenel Canaria", "Barbie Capacio", "Teddie Co", "Menggie Cobarrubias", "Milabel Cristobal", ]
-_countries: ["Philippines", ]
-_languages: ["Filipino", ]
-_editor: ["Benjamin Gonzales Tolentino", ]
-_cinematographer: ["Ruel Dahis Antipuesto", "Geric Cruz", ]
-_music: ["Johann Mendoza", ]
-_genres: ["Drama", ]
-_runtimes: ["72", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BY2VlMzM3YjItMDRkNi00NjI5LWE1ODktMDcyNjVmY2MzODkzXkEyXkFqcGdeQXVyNTI5NjIyMw@@.jpg"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BY2VlMzM3YjItMDRkNi00NjI5LWE1ODktMDcyNjVmY2MzODkzXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1._SX93_SY140_.jpg"
+desc: "Irmandade. Kapatiran (Philippines, 2015). Dirigido por Pepe Diokno. Escrito por Pepe Diokno, Lilit Reyes, Benjamin Gonzales Tolentino. Com Giancarlo Abrahan, Bianca Balbuena, Regina Belmonte, Bryan Bendanillo, Joenel Canaria, Barbie Capacio, Teddie Co, Menggie Cobarrubias, Milabel Cristobal."
 ---
 O longa caótico e desconexo de Pepe Diokno é justamente e apenas isso: caótico e desconexo. Desconexo não apenas no sentido narrativo, mas de conexão com o espectador. Como é impossível para nós nos conectarmos àquela realidade de Manila, devidamente manipulada em uma mistura de ficção e realidade, não é possível sequer sabermos qual a linha de raciocínio de um criador petulante que não consegue unir tomadas desconexas com significado ou empatia.
 

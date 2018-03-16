@@ -1,24 +1,10 @@
 ---
-date: "2012-12-06"
 imdb: "1446192"
+date: "2012-12-06"
+categories: "movies"
 title: "A Origem dos Guardiões"
 stars: "4/5"
-categories: "movies"
-_title: "Rise of the Guardians"
-_year: "2012"
-_director: ["Peter Ramsey", ]
-_writer: ["David Lindsay-Abaire", "William Joyce", ]
-_cast: ["Chris Pine", "Alec Baldwin", "Jude Law", "Isla Fisher", "Hugh Jackman", "Dakota Goyo", "Khamani Griffin", "Kamil McFadden", "Georgie Grieve", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Joyce Arrastia", ]
-_music: ["Alexandre Desplat", ]
-_genres: ["Animation", ]
-_runtimes: ["97", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTkzMjgwMDg1M15BMl5BanBnXkFtZTcwMTgzNTI1OA@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTkzMjgwMDg1M15BMl5BanBnXkFtZTcwMTgzNTI1OA@@._V1._SX90_SY140_.jpg"
+desc: "A Origem dos Guardiões. Rise of the Guardians (USA, 2012). Dirigido por Peter Ramsey. Escrito por David Lindsay-Abaire, William Joyce. Com Chris Pine, Alec Baldwin, Jude Law, Isla Fisher, Hugh Jackman, Dakota Goyo, Khamani Griffin, Kamil McFadden, Georgie Grieve."
 ---
 Quando o desenhista de story boards Peter Ramsey (Drácula de Bram Stoker, Adaptação) decide criar uma animação que aborda os ícones infantis de maneira não convencional o que temos é uma aventura belíssima pelo seu design, embora peque pela falta de profundidade em seus personagens, o que torna toda a experiência aquém do seu verdadeiro potencial.
 

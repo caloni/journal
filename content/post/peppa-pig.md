@@ -1,25 +1,11 @@
 ---
+tags: ['netflix', 'series']
+imdb: "0426769"
 date: "2016-10-16"
 categories: "blog"
 title: "Peppa Pig"
-imdb: "0426769"
 stars: "3/5"
-tags: ['netflix', 'series']
-_title: "Peppa Pig (episódios diversos)"
-_year: "2004"
-_director: ["Mark Baker", "Neville Astley", "Mark Baker", "Phil Hall", "Joris van Hulzen", ]
-_writer: ["Neville Astley", "Phil Hall", "Mark Baker", "Mark Baker", "Sam Morrison", "Sarah Ann Kennedy", "Alison Snowden", ]
-_cast: ["John Sparkes (Narrator / ...)", "Alice May (George Pig / ...)", "Morwenna Banks (Mummy Pig / ...)", "Richard Ridings (Daddy Pig)", "Oliver May (George Pig / ...)", "Lily Snowden-Fine (Peppa Pig)", "Meg Hall (Suzy Sheep)", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Nathan Cubitt", "Taig McNab", "Jane Hodge", ]
-_music: ["Julian Nott", ]
-_genres: ["Animation", ]
-_runtimes: ["5::(52 episodes)", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE2ODE1MjUxNV5BMl5BanBnXkFtZTcwNzI1OTIxMw@@.jpg"
-_ratio: "1.33 : 1"
-_kind: "tv series"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE2ODE1MjUxNV5BMl5BanBnXkFtZTcwNzI1OTIxMw@@._V1._SX99_SY140_.jpg"
+desc: "Peppa Pig. Peppa Pig (episódios diversos) (UK, 2004). Dirigido por Mark Baker, Neville Astley, Mark Baker, Phil Hall, Joris van Hulzen. Escrito por Neville Astley, Phil Hall, Mark Baker, Mark Baker, Sam Morrison, Sarah Ann Kennedy, Alison Snowden. Com John Sparkes (Narrator / ...), Alice May (George Pig / ...), Morwenna Banks (Mummy Pig / ...), Richard Ridings (Daddy Pig), Oliver May (George Pig / ...), Lily Snowden-Fine (Peppa Pig), Meg Hall (Suzy Sheep)."
 ---
 Eis um desenho que preza por histórias sucintas, rápidas e simples, ligeiramente divertidas e que estão atreladas ao fato da família principal ser constituída de porcos.
 

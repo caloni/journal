@@ -1,27 +1,11 @@
 ---
-date: "2016-07-08"
-tags: [ "cabine" ]
-categories: "movies"
+tags: ['cabine']
 imdb: "2935564"
-stars: "4/5"
+date: "2016-07-08"
+categories: "movies"
 title: "A Conexão Francesa"
-_title: "La French"
-_year: "2014"
-_director: ["Cédric Jimenez", ]
-_writer: ["Audrey Diwan", "Cédric Jimenez", ]
-_cast: ["Jean Dujardin", "Gilles Lellouche", "Céline Sallette", "Mélanie Doutey", "Benoît Magimel", "Guillaume Gouix", "Bruno Todeschini", "Féodor Atkine", "Moussa Maaskri", ]
-_countries: ["France", ]
-_languages: ["French", ]
-_editor: ["Sophie Reine", ]
-_cinematographer: ["Laurent Tangy", ]
-_music: ["Guillaume Roussel", ]
-_artdirection: ["Patrick Schmitt", ]
-_genres: ["Action", ]
-_runtimes: ["135", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNzY2MjcxOTA4Nl5BMl5BanBnXkFtZTgwNjAwOTYwNTE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNzY2MjcxOTA4Nl5BMl5BanBnXkFtZTgwNjAwOTYwNTE@._V1._SX95_SY140_.jpg"
+stars: "4/5"
+desc: "A Conexão Francesa. La French (France, 2014). Dirigido por Cédric Jimenez. Escrito por Audrey Diwan, Cédric Jimenez. Com Jean Dujardin, Gilles Lellouche, Céline Sallette, Mélanie Doutey, Benoît Magimel, Guillaume Gouix, Bruno Todeschini, Féodor Atkine, Moussa Maaskri."
 ---
 Operação França é um filme de 1971 estrelado por Gene Hackman e que conta a história de um policial de Nova Iorque que se vê em uma trama da narcóticos envolvendo uma conexão do tráfico com a França. Originalmente chamado de The French Connection, é um dos filmes que todos se lembram quando se fala de filme de ação/policial dos anos 70 envolvendo a guerra às drogas.
 

@@ -1,25 +1,10 @@
 ---
-date: "2015-04-02"
 imdb: "0087843"
-stars: "5/5"
+date: "2015-04-02"
 categories: "movies"
 title: "Era Uma Vez na América"
-_title: "Once Upon a Time in America"
-_year: "1984"
-_director: ["Sergio Leone", ]
-_writer: ["Harry Grey", "Leonardo Benvenuti", "Piero De Bernardi", "Enrico Medioli", "Franco Arcalli", "Franco Ferrini", "Sergio Leone", "Stuart Kaminsky", "Ernesto Gastaldi", ]
-_cast: ["Robert De Niro", "James Woods", "Elizabeth McGovern", "Joe Pesci", "Burt Young", "Tuesday Weld", "Treat Williams", "Danny Aiello", "Richard Bright", ]
-_countries: ["Italy", ]
-_languages: ["English", ]
-_editor: ["Nino Baragli", ]
-_cinematographer: ["Tonino Delli Colli", ]
-_music: ["Ennio Morricone", ]
-_genres: ["Crime", ]
-_runtimes: ["229", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNDMwMDcyODkzOV5BMl5BanBnXkFtZTcwNTQ1Njg3OA@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNDMwMDcyODkzOV5BMl5BanBnXkFtZTcwNTQ1Njg3OA@@._V1._SX99_SY140_.jpg"
+stars: "5/5"
+desc: "Era Uma Vez na América. Once Upon a Time in America (Italy, 1984). Dirigido por Sergio Leone. Escrito por Harry Grey, Leonardo Benvenuti, Piero De Bernardi, Enrico Medioli, Franco Arcalli, Franco Ferrini, Sergio Leone, Stuart Kaminsky, Ernesto Gastaldi. Com Robert De Niro, James Woods, Elizabeth McGovern, Joe Pesci, Burt Young, Tuesday Weld, Treat Williams, Danny Aiello, Richard Bright."
 ---
 Esse é o filme que o diretor Sergio Leone escolheu fazer em vez da proposta da Paramount para que ele dirigisse O Poderoso Chefão. Baseado no romance The Hoods, de Harry Grey, ele tentou convencê-lo a filmar por muito tempo, até que Grey cedeu após assistir a Trilogia dos Dólares (e gostar). Ambos passaram mais de uma década conversando para que o diretor conseguisse entender o espírito norte-americano através dos olhos do escritor. A longa produção gerou seis horas de filmagens (já editadas) que foram recusadas pela produtora e viraram 4 horas e meia, que em sua versão para os EUA foi ironicamente mutilada em 139 minutos. Este texto diz respeito à versão lançada em Cannes, com 229 minutos de duração, e facilmente encontrada no aplicativo Popcorn Time.
 

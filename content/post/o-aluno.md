@@ -1,27 +1,11 @@
 ---
+tags: ['netflix']
+imdb: "0790663"
 date: "2016-12-09"
 categories: "movies"
 title: "O Aluno"
-imdb: "0790663"
 stars: "3/5"
-tags: ['netflix']
-_title: "The First Grader"
-_year: "2010"
-_director: ["Justin Chadwick", ]
-_writer: ["Ann Peacock", ]
-_cast: ["Naomie Harris (Jane Obinchu)", "Oliver Litondo (Kimani Ng'ang'a Maruge)", "Tony Kgoroge (Charles Obinchu)", "Alfred Munyua (Teacher Alfred)", "Shoki Mokgapa (Teacher Elizabeth)", "Vusi Kunene (Mr. Kipruto)", "Agnes Simaloi (Agnes)", "Kamau Mbaya (Kamau Chege)", "Emily Njoki (Young Maruge's Wife)", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Paul Knight", ]
-_cinematographer: ["Rob Hardy", ]
-_music: ["Alex Heffes", ]
-_costume designer: ["Sophie Oprisano", ]
-_genres: ["Biography", ]
-_runtimes: ["103", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUxNzQ3NTE5M15BMl5BanBnXkFtZTcwNTgxNTEyNQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUxNzQ3NTE5M15BMl5BanBnXkFtZTcwNTgxNTEyNQ@@._V1._SX94_SY140_.jpg"
+desc: "O Aluno. The First Grader (UK, 2010). Dirigido por Justin Chadwick. Escrito por Ann Peacock. Com Naomie Harris (Jane Obinchu), Oliver Litondo (Kimani Ng'ang'a Maruge), Tony Kgoroge (Charles Obinchu), Alfred Munyua (Teacher Alfred), Shoki Mokgapa (Teacher Elizabeth), Vusi Kunene (Mr. Kipruto), Agnes Simaloi (Agnes), Kamau Mbaya (Kamau Chege), Emily Njoki (Young Maruge's Wife)."
 ---
 Este é daqueles filmes bonitinhos, com lição de moral, ou lição de vida, que tenta aumentar a trilha sonora solene e emocionante sempre que pode, além de colocar lágrimas nos rostos dos personagens para induzir o espectador ao choro fácil. Choro fácil este que não vem, já que seus personagens não são assim tão carismáticos, e o protagonista, apesar da história de vida sofrida, parece não possuir condições de exprimi-la de uma maneira civilizada.
 

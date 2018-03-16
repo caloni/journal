@@ -1,26 +1,11 @@
 ---
-date: "2016-05-14"
-tags: [ "cabine" ]
+tags: ['cabine']
 imdb: "4466336"
-stars: "3/5"
+date: "2016-05-14"
 categories: "movies"
 title: "Os Anarquistas"
-_title: "Les anarchistes"
-_year: "2015"
-_director: ["Elie Wajeman", ]
-_writer: ["Gaëlle Macé", "Elie Wajeman", ]
-_cast: ["Tahar Rahim", "Adèle Exarchopoulos", "Swann Arlaud", "Guillaume Gouix", "Karim Leklou", "Sarah Le Picard", "Cédric Kahn", "Emilie de Preissac", "Aurélia Poirier", ]
-_countries: ["France", ]
-_languages: ["French", ]
-_editor: ["François Quiqueré", ]
-_cinematographer: ["David Chizallet", ]
-_music: ["Nicolas Mollard", ]
-_genres: ["Drama", ]
-_runtimes: ["101", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTYxMzQxOTAxNV5BMl5BanBnXkFtZTgwNTgwMzQ2NTE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTYxMzQxOTAxNV5BMl5BanBnXkFtZTgwNTgwMzQ2NTE@._V1._SX100_SY67_.jpg"
+stars: "3/5"
+desc: "Os Anarquistas. Les anarchistes (France, 2015). Dirigido por Elie Wajeman. Escrito por Gaëlle Macé, Elie Wajeman. Com Tahar Rahim, Adèle Exarchopoulos, Swann Arlaud, Guillaume Gouix, Karim Leklou, Sarah Le Picard, Cédric Kahn, Emilie de Preissac, Aurélia Poirier."
 ---
 Sou um anarquista, e deveria me sentir representado. Nem tanto. A despeito disso ser impossível para uma pessoa que não acredita nessas besteiras de democracia, em Os Anarquistas, o que interessa mais é manter um romance entre o protagonista e a bela moça de "Azul é a Cor Mais Quente", e o fato deles serem anarquistas é apenas um acidente contemporâneo (é um grupo que está ficando na moda, com tantas discussões políticas no mundo). O fato é que a atmosfera política é tão fina nesse filme que pode-se aproveitar apenas seu esmero estético em situar esse grupo no lugar onde deveriam estar naquela época: às sombras, sem nunca serem notados, mas com a força estatal sempre disposta a esmagá-los assim que possível.
 

@@ -1,27 +1,11 @@
 ---
+tags: ['cabine']
+imdb: "2937696"
 date: "2016-09-09"
 categories: "movies"
 title: "Jovens, Loucos e Mais Rebeldes"
-imdb: "2937696"
 stars: "4/5"
-tags: ['cabine']
-_title: "Everybody Wants Some!!"
-_year: "2016"
-_director: ["Richard Linklater", ]
-_writer: ["Richard Linklater", ]
-_cast: ["Blake Jenner", "Juston Street", "Ryan Guzman", "Tyler Hoechlin", "Wyatt Russell", "Glen Powell", "Temple Baker", "J. Quinton Johnson", "Will Brittain", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Sandra Adair", ]
-_cinematographer: ["Shane F. Kelly", ]
-_artdirection: ["Rodney Becker", ]
-_costume designer: ["Kari Perkins", ]
-_genres: ["Comedy", ]
-_runtimes: ["117", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTk2NDcyNDE5N15BMl5BanBnXkFtZTgwNDA0MzQ1NzE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTk2NDcyNDE5N15BMl5BanBnXkFtZTgwNDA0MzQ1NzE@._V1._SX90_SY140_.jpg"
+desc: "Jovens, Loucos e Mais Rebeldes. Everybody Wants Some!! (USA, 2016). Dirigido por Richard Linklater. Escrito por Richard Linklater. Com Blake Jenner, Juston Street, Ryan Guzman, Tyler Hoechlin, Wyatt Russell, Glen Powell, Temple Baker, J. Quinton Johnson, Will Brittain."
 ---
 Mais um filme dirigido e escrito por Richard Linklater (Trilogia do Antes, Boyhood) que analisa pessoas através de sua ficção que lembra um pseudo-documentário, nesse caso de um geração (final dos anos 70).
 

@@ -1,22 +1,10 @@
 ---
-date: "2010-11-20"
 imdb: "1781866"
+date: "2010-11-20"
+categories: "movies"
 title: "Muita Calma Nessa Hora"
 stars: "4/5"
-categories: "movies"
-_title: "Muita Calma Nessa Hora"
-_year: "2010"
-_director: ["Felipe Joffily", ]
-_writer: ["João Avelino", "Augusto Casé", "Rosana Ferrão", "Bruno Mazzeo", "Rik Nogueira", ]
-_cast: ["Marcelo Adnet", "Gianne Albertoni", "Marco Antônio Alves", "Dudu Azevedo", "Laura Cardoso", "Louise Cardoso", "Fausto Fanti", "Thelmo Fernandes", "Nelson Freitas", ]
-_countries: ["Brazil", ]
-_languages: ["Portuguese", ]
-_editor: ["Marcelo Moraes", ]
-_cinematographer: ["Marcelo Brasil", ]
-_music: ["Leoni", "André Moraes", "Pitty", ]
-_genres: ["Comedy", ]
-_runtimes: ["92::(approx.)", ]
-_kind: "movie"
+desc: "Muita Calma Nessa Hora. Muita Calma Nessa Hora (Brazil, 2010). Dirigido por Felipe Joffily. Escrito por João Avelino, Augusto Casé, Rosana Ferrão, Bruno Mazzeo, Rik Nogueira. Com Marcelo Adnet, Gianne Albertoni, Marco Antônio Alves, Dudu Azevedo, Laura Cardoso, Louise Cardoso, Fausto Fanti, Thelmo Fernandes, Nelson Freitas."
 ---
 Mari é constantemente assediada por seu chefe na agência publicitária onde trabalha; cansada de ser confundida com uma mulher fácil, decide não ficar mais com homem nenhum. Tita é a mulher certinha, virgem de um (o marido) homem só, mas que encontra seu noivo com outra em seu apartamento e, desacreditada, decide esquecer esse negócio de monogamia e partir pra tirar o atraso. Aninha, uma eterna indecisa, já trancou sete vezes a faculdade por nunca ter certeza do que quer fazer; sim, ela concorda com ambas as amigas; ao mesmo tempo.
 

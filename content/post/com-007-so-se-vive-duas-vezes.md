@@ -1,24 +1,10 @@
 ---
-date: "2012-11-28"
 imdb: "0062512"
+date: "2012-11-28"
+categories: "movies"
 title: "Com 007 Só Se Vive Duas Vezes"
 stars: "4/5"
-categories: "movies"
-_title: "You Only Live Twice"
-_year: "1967"
-_director: ["Lewis Gilbert", ]
-_writer: ["Harold Jack Bloom", "Roald Dahl", "Ian Fleming", ]
-_cast: ["Sean Connery", "Akiko Wakabayashi", "Mie Hama", "Tetsurô Tanba", "Teru Shimada", "Karin Dor", "Donald Pleasence", "Bernard Lee", "Lois Maxwell", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_cinematographer: ["Freddie Young", ]
-_music: ["John Barry", ]
-_genres: ["Action", ]
-_runtimes: ["117", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTk4NTU2Mzk1OV5BMl5BanBnXkFtZTcwMzY5MDg0NA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTk4NTU2Mzk1OV5BMl5BanBnXkFtZTcwMzY5MDg0NA@@._V1._SX93_SY140_.jpg"
+desc: "Com 007 Só Se Vive Duas Vezes. You Only Live Twice (UK, 1967). Dirigido por Lewis Gilbert. Escrito por Harold Jack Bloom, Roald Dahl, Ian Fleming. Com Sean Connery, Akiko Wakabayashi, Mie Hama, Tetsurô Tanba, Teru Shimada, Karin Dor, Donald Pleasence, Bernard Lee, Lois Maxwell."
 ---
 Só se vive duas vezes tem aquela grandiosidade das aventuras do agente 007 no formato clássico que todos lembram, com um ambiente fantástico demais para ser verdade, mas uma trama com pontas e mistérios o suficiente para ficarmos entretidos por boa parte do tempo. Mais acelerado que seus antecessores, a iminência de uma guerra nuclear entre EUA e URSS causada por uma bizarra interferência na corrida espacial é o que causa a primeira "morte" de James Bond, o que dá nome ao filme e possui um plot replicado no recente Skyfalk, mas que aqui adquire um tom mais solene e... fúnebre!
 

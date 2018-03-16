@@ -1,26 +1,11 @@
 ---
-date: "2013-09-26"
 imdb: "1457767"
+date: "2013-09-26"
+categories: "movies"
 count: 2
 title: "Invocação do Mal"
 stars: "4/5"
-categories: "movies"
-_title: "The Conjuring"
-_year: "2013"
-_director: ["James Wan", ]
-_writer: ["Chad Hayes", "Carey Hayes", ]
-_cast: ["Vera Farmiga", "Patrick Wilson", "Lili Taylor", "Ron Livingston", "Shanley Caswell", "Hayley McFarland", "Joey King", "Mackenzie Foy", "Kyla Deaver", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Kirk M. Morri", ]
-_cinematographer: ["John R. Leonetti", ]
-_music: ["Joseph Bishara", ]
-_genres: ["Horror", ]
-_runtimes: ["112", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTM3NjA1NDMyMV5BMl5BanBnXkFtZTcwMDQzNDMzOQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTM3NjA1NDMyMV5BMl5BanBnXkFtZTcwMDQzNDMzOQ@@._V1._SX94_SY140_.jpg"
+desc: "Invocação do Mal. The Conjuring (USA, 2013). Dirigido por James Wan. Escrito por Chad Hayes, Carey Hayes. Com Vera Farmiga, Patrick Wilson, Lili Taylor, Ron Livingston, Shanley Caswell, Hayley McFarland, Joey King, Mackenzie Foy, Kyla Deaver."
 ---
 Diferente do que poderíamos imaginar, a direção precisa, acelerada e gore de James Wan em Jogos Mortais não apresenta comparações neste Invocação do Mal, que se insere no gênero de horror realizando pequenas homenagens de obras icônicas enquanto ensaia um estilo visual mais agradável ao público de hoje.
 

@@ -1,19 +1,11 @@
 ---
+title: "24 Frames"
+tags: ['cabine', 'mostrasp']
 imdb: "6777170"
 stars: "4/5"
-tags: ['cabine', 'mostrasp']
 date: 2017-10-24T01:51:39
-title: "24 Frames"
 categories: "movies"
-_title: "24 Frames"
-_year: "2017"
-_director: ["Abbas Kiarostami", ]
-_countries: ["France", ]
-_genres: ["Drama", ]
-_runtimes: ["114", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNDQ2MzU4NTQzMl5BMl5BanBnXkFtZTgwNDk0ODIzMjI@.jpg"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNDQ2MzU4NTQzMl5BMl5BanBnXkFtZTgwNDk0ODIzMjI@._V1._SX100_SY57_.jpg"
+desc: "24 Frames. 24 Frames (France, 2017). Dirigido por Abbas Kiarostami."
 ---
 24 Frames é o cinema experimental de Abbas Kiarostami, que está mais experimental que nunca. Ele resolve pegar um filme de 114 minutos e dividir em exatos 24 frames. Cada frame é praticamente estático, com a exceção de alguns animais (e pouquíssimos humanos) que se movem na tela. Há pouquíssimas cores, e muita, muita, muita neve.
 

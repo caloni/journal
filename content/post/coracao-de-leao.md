@@ -1,28 +1,11 @@
 ---
-imdb: "2948472"
-stars: "2/5"
 tags: ['netflix']
+imdb: "2948472"
 date: 2017-07-31T18:05:42
-title: "Coração de Leão"
 categories: "movies"
-_title: "Corazón de león"
-_year: "2013"
-_director: ["Marcos Carnevale", ]
-_writer: ["Betiana Blum", "Marcos Carnevale", ]
-_cast: ["Guillermo Francella (León)", "Julieta Díaz (Ivana)", "Mauricio Dayub (Diego)", "Jorgelina Aruzzi (Corina)", "Nora Cárpena (Adriana)", "Nicolás Francella (Toto)", "María Nela Sinisterra (Glenda)", "Claudia Fontán (Toto's mother Sabrina)", "Carlos Donigian (Hombre de la calle con celular)", ]
-_countries: ["Argentina", ]
-_languages: ["Spanish", ]
-_editor: ["Ariel Frajnd", ]
-_cinematographer: ["Horacio Maira", ]
-_music: ["Emilio Kauderer", ]
-_artdirection: ["Marianna Sourrouille", ]
-_genres: ["Comedy", ]
-_runtimes: ["94", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BYmYwNjA4YjktNDE4Mi00Yjc3LWI1YTYtNmNhZTM1MzI1ZmU1XkEyXkFqcGdeQXVyMzAzODY0NzE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BYmYwNjA4YjktNDE4Mi00Yjc3LWI1YTYtNmNhZTM1MzI1ZmU1XkEyXkFqcGdeQXVyMzAzODY0NzE@._V1._SX98_SY140_.jpg"
-_releasedate: "19 June 2014"
+title: "Coração de Leão"
+stars: "2/5"
+desc: "Coração de Leão. Corazón de león (Argentina, 2013). Dirigido por Marcos Carnevale. Escrito por Betiana Blum, Marcos Carnevale. Com Guillermo Francella (León), Julieta Díaz (Ivana), Mauricio Dayub (Diego), Jorgelina Aruzzi (Corina), Nora Cárpena (Adriana), Nicolás Francella (Toto), María Nela Sinisterra (Glenda), Claudia Fontán (Toto's mother Sabrina), Carlos Donigian (Hombre de la calle con celular)."
 ---
 Este filme beira o amador em sua fotografia e roteiro. As atuações, coitadas, não podem fazer nada com esses personagens que se olham o tempo todo e nada dizem de importante. Como seria retratar o começo de um relacionamento qualquer, que poderia ser de qualquer um de nós e que não teria qualquer detalhe diferente? Este filme é assim, com apenas uma exceção: um dos lados é mais baixo que o normal.
 

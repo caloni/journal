@@ -1,22 +1,11 @@
 ---
-date: "2015-06-22"
-tags: [ "cabine" ]
+tags: ['cabine']
 imdb: "2174934"
-stars: "3/5"
+date: "2015-06-22"
 categories: "movies"
 title: "Casadentro"
-_title: "Casadentro"
-_year: "2013"
-_director: ["Joanna Lombardi", ]
-_writer: ["Joanna Lombardi", ]
-_cast: ["Élide Brero", "Stephanie Orúe", "Delfina Paredes", ]
-_countries: ["Peru", ]
-_languages: ["Spanish", ]
-_editor: ["Brian Jacobs", ]
-_cinematographer: ["Inti Briones", ]
-_genres: ["Drama", ]
-_runtimes: ["87", ]
-_kind: "movie"
+stars: "3/5"
+desc: "Casadentro. Casadentro (Peru, 2013). Dirigido por Joanna Lombardi. Escrito por Joanna Lombardi. Com Élide Brero, Stephanie Orúe, Delfina Paredes."
 ---
 O realismo do filme quase pode ser sentido, tamanho é seu ritmo naturalista. E o uso de luz "natural", seja do sol ou da precária eletricidade comunzinha (ou até de velas, quando a energia acaba), apenas reafirma essa sensação nesse trabalho inicial da peruana Joanna Lombardi, que estreia nos longa-metragens com esse trabalho escrito e dirigido. Sim, ela logo vai estrear Solos (Alone), que já passou no festival de Amsterdã, e esse trabalho é de 2013. Porém, estamos no Brasil. É que é difícil se acostumar com um Cinema tão defasado das distribuidoras tênis verde por aqui.
 

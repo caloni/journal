@@ -1,29 +1,11 @@
 ---
+tags: ['netflix']
+imdb: "5640450"
 date: "2017-04-01"
 categories: "movies"
 title: "ARQ"
-imdb: "5640450"
 stars: "3/5"
-tags: ['netflix']
-_title: "ARQ"
-_year: "2016"
-_director: ["Tony Elliott", ]
-_writer: ["Tony Elliott", ]
-_cast: ["Robbie Amell (Renton)", "Rachael Taylor (Hannah)", "Shaun Benson (Sonny)", "Gray Powell (Father)", "Jacob Neayem (Brother)", "Adam Butcher (Cuz)", "Tantoo Cardinal (The Pope)", "Nicolas Van Burek (News Anchor)", "Jamie Spilchuk (Mobius Common)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Kye Meechan", ]
-_cinematographer: ["Daniel Grant", ]
-_music: ["Keegan Jessamy", "Bryce Mitchell", ]
-_artdirection: ["Shelley Silverman", ]
-_costume designer: ["Patrick Antosh", ]
-_genres: ["Sci-Fi", ]
-_runtimes: ["88", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAxODQ2MzkyMV5BMl5BanBnXkFtZTgwNjU3MTE5OTE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAxODQ2MzkyMV5BMl5BanBnXkFtZTgwNjU3MTE5OTE@._V1._SX94_SY140_.jpg"
-_releasedate: "16 September 2016"
+desc: "ARQ. ARQ (USA, 2016). Dirigido por Tony Elliott. Escrito por Tony Elliott. Com Robbie Amell (Renton), Rachael Taylor (Hannah), Shaun Benson (Sonny), Gray Powell (Father), Jacob Neayem (Brother), Adam Butcher (Cuz), Tantoo Cardinal (The Pope), Nicolas Van Burek (News Anchor), Jamie Spilchuk (Mobius Common)."
 ---
 ARQ é mais um experimento em filmes de viagem no tempo. Produzido pela Netflix e escrito/dirigido por Tony Elliott (Orphan Black), ele nos leva em uma história que mexe com "loops" temporais que se tornam eficientes como um thriller e um filme de ação estilo videogame. Porém, ele não consegue transparecer tanta complexidade assim conforme nos acostumamos com suas regras e entendemos que o roteiro no fundo não passa de uma ideia para um jogo de computador.
 

@@ -1,28 +1,11 @@
 ---
-date: "2016-02-18"
-tags: [ "cabine" ]
+tags: ['cabine']
 imdb: "4285496"
-stars: "4/5"
+date: "2016-02-18"
 categories: "movies"
 title: "O Abraço da Serpente"
-_title: "El abrazo de la serpiente"
-_year: "2015"
-_director: ["Ciro Guerra", ]
-_writer: ["Ciro Guerra", "Theodor Koch-Grunberg", "Richard Evans Schultes", "Jacques Toulemonde Vidal", ]
-_cast: ["Nilbio Torres", "Jan Bijvoet", "Antonio Bolivar", "Brionne Davis", "Yauenkü Migue", "Nicolás Cancino", "Luigi Sciamanna", ]
-_countries: ["Colombia", ]
-_languages: ["Spanish", ]
-_editor: ["Etienne Boussac", ]
-_cinematographer: ["David Gallego", ]
-_music: ["Nascuy Linares", ]
-_artdirection: ["Ramses Benjumea", "Angélica Perea", ]
-_costume designer: ["Catherine Rodríguez", ]
-_genres: ["Adventure", ]
-_runtimes: ["125", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjIwNjA0NzM3Ml5BMl5BanBnXkFtZTgwNjU4NTQ0NzE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjIwNjA0NzM3Ml5BMl5BanBnXkFtZTgwNjU4NTQ0NzE@._V1._SX94_SY140_.jpg"
+stars: "4/5"
+desc: "O Abraço da Serpente. El abrazo de la serpiente (Colombia, 2015). Dirigido por Ciro Guerra. Escrito por Ciro Guerra, Theodor Koch-Grunberg, Richard Evans Schultes, Jacques Toulemonde Vidal. Com Nilbio Torres, Jan Bijvoet, Antonio Bolivar, Brionne Davis, Yauenkü Migue, Nicolás Cancino, Luigi Sciamanna."
 ---
 Esse é um filme que deveria ser um documentário. Porém, já faz muito tempo que aconteceu; a primeira parte em 1900 e bolinha; a segunda parte na década de 40. No entanto, o que o diretor Ciro Guerra fez com os relatos de dois cientistas exploradores da selva amazônica fez é ainda melhor: recriou as histórias, as dramatizou, e as embolou em um universo de crenças, culturas, comportamentos...
 

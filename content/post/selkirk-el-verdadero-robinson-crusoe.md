@@ -1,19 +1,10 @@
 ---
-date: "2012-02-15"
 title: "Selkirk el verdadero Robinson Crusoe"
 imdb: "2231505"
 stars: "3/5"
+date: "2012-02-15"
 categories: "movies"
-_title: "Selkirk, el verdadero Robinson Crusoe"
-_year: "2012"
-_director: ["Walter Tournier", ]
-_writer: ["Enrique Cortés", "Mario Jacob", "Walter Tournier", ]
-_cast: ["Omar Aranda", "Marcelo Armand", "Diego Brizzi", "Mariano Chiesa", "Ariel Cister", "Gustavo Dardés", "Mario De Candia", "Leandro Dugatkin", "Pablo Gondolfo", ]
-_countries: ["Uruguay", ]
-_languages: ["Spanish", ]
-_genres: ["Animation", ]
-_runtimes: ["80", ]
-_kind: "movie"
+desc: "Selkirk el verdadero Robinson Crusoe. Selkirk, el verdadero Robinson Crusoe (Uruguay, 2012). Dirigido por Walter Tournier. Escrito por Enrique Cortés, Mario Jacob, Walter Tournier. Com Omar Aranda, Marcelo Armand, Diego Brizzi, Mariano Chiesa, Ariel Cister, Gustavo Dardés, Mario De Candia, Leandro Dugatkin, Pablo Gondolfo."
 ---
 Impressionante essa animação argentina sobre o livro de Robinson Crusoé que, salvo alguns momentos difíceis tecnicamente, possui efeitos e direção dignos de outras produções mas conhecidas, como Wallace e Gromit (que também estreia recentemente com um filme de piratas).
 

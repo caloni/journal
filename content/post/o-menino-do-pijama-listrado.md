@@ -1,25 +1,10 @@
 ---
-date: "2012-10-21"
 imdb: "0914798"
+date: "2012-10-21"
+categories: "movies"
 title: "O Menino do Pijama Listrado"
 stars: "4/5"
-categories: "movies"
-_title: "The Boy in the Striped Pyjamas"
-_year: "2008"
-_director: ["Mark Herman", ]
-_writer: ["John Boyne", "Mark Herman", ]
-_cast: ["Asa Butterfield", "Zac Mattoon O'Brien", "Domonkos Németh", "Henry Kingsmill", "Vera Farmiga", "Cara Horgan", "Zsuzsa Holl", "Amber Beattie", "László Áron", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Michael Ellis", ]
-_cinematographer: ["Benoît Delhomme", ]
-_music: ["James Horner", ]
-_genres: ["Drama", ]
-_runtimes: ["94", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTMzMTc3MjA5NF5BMl5BanBnXkFtZTcwOTk3MDE5MQ@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTMzMTc3MjA5NF5BMl5BanBnXkFtZTcwOTk3MDE5MQ@@._V1._SX95_SY140_.jpg"
+desc: "O Menino do Pijama Listrado. The Boy in the Striped Pyjamas (UK, 2008). Dirigido por Mark Herman. Escrito por John Boyne, Mark Herman. Com Asa Butterfield, Zac Mattoon O'Brien, Domonkos Németh, Henry Kingsmill, Vera Farmiga, Cara Horgan, Zsuzsa Holl, Amber Beattie, László Áron."
 ---
 Há filmes que possuem uma catarse tão forte e fluida durante a narrativa que parece fácil produzir isso no espectador. No entanto, muitas vezes tudo isso é fruto da nossa imaginação, e há um trabalho grande do início ao fim para que esse efeito seja criado da maneira com que ocorre. Ora, como explicar que um amontoado de bonecas consiga ser tão impactante para os nossos olhos?
 

@@ -1,25 +1,10 @@
 ---
-date: "2010-10-10"
 imdb: "0985694"
+date: "2010-10-10"
+categories: "movies"
 title: "Machete"
 stars: "2/5"
-categories: "movies"
-_title: "Machete"
-_year: "2010"
-_director: ["Ethan Maniquis", "Robert Rodriguez", ]
-_writer: ["Robert Rodriguez", "Álvaro Rodríguez", ]
-_cast: ["Danny Trejo", "Robert De Niro", "Jessica Alba", "Steven Seagal", "Michelle Rodriguez", "Jeff Fahey", "Cheech Marin", "Don Johnson", "Shea Whigham", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Rebecca Rodriguez", "Robert Rodriguez", ]
-_cinematographer: ["Jimmy Lindsey", ]
-_music: ["Chingon", ]
-_genres: ["Action", ]
-_runtimes: ["105", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTUwNzIwMDY0OF5BMl5BanBnXkFtZTcwMzM3Njg2Mw@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTUwNzIwMDY0OF5BMl5BanBnXkFtZTcwMzM3Njg2Mw@@._V1._SX95_SY140_.jpg"
+desc: "Machete. Machete (USA, 2010). Dirigido por Ethan Maniquis, Robert Rodriguez. Escrito por Robert Rodriguez, Álvaro Rodríguez. Com Danny Trejo, Robert De Niro, Jessica Alba, Steven Seagal, Michelle Rodriguez, Jeff Fahey, Cheech Marin, Don Johnson, Shea Whigham."
 ---
 Mais um filme de violência absurda de Robert Rodriguez. Fotografia amarelada, como em todos os filmes que se passam perto do México. Só que em muitos filmes a violência absurda é usada em tons artísticos, como evocando os quadrinhos (Sin City) e sua realidade já absurda e exagerada e as artes marciais (Kill Bill) e suas lendas.
 

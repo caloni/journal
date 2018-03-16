@@ -1,27 +1,10 @@
 ---
+imdb: "1628841"
 date: "2016-07-14"
 categories: "movies"
-imdb: "1628841"
-stars: "2/5"
 title: "Independence Day: O Ressurgimento"
-_title: "Independence Day: Resurgence"
-_year: "2016"
-_director: ["Roland Emmerich", ]
-_writer: ["Nicolas Wright", "James A. Woods", "Dean Devlin", "Roland Emmerich", "James Vanderbilt", "Dean Devlin", "Roland Emmerich", "Nicolas Wright", "James A. Woods", ]
-_cast: ["Liam Hemsworth", "Jeff Goldblum", "Jessie T. Usher", "Bill Pullman", "Maika Monroe", "Sela Ward", "William Fichtner", "Judd Hirsch", "Brent Spiner", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Adam Wolfe", ]
-_cinematographer: ["Markus Förderer", ]
-_music: ["Harald Kloser", "Thomas Wanker", ]
-_artdirection: ["Lauren Abiouness", "Ravi Bansal", "Luis Guggenberger", "Mark Hofeling", "Caty Maxey", "Christa Munro", "Patrick M. Sullivan Jr.", "Eric Sundahl", "Clint Wallace", ]
-_costume designer: ["Lisy Christl", ]
-_genres: ["Action", ]
-_runtimes: ["120", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjIyMTg5MTg4OV5BMl5BanBnXkFtZTgwMzkzMjY5NzE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjIyMTg5MTg4OV5BMl5BanBnXkFtZTgwMzkzMjY5NzE@._V1._SX94_SY140_.jpg"
+stars: "2/5"
+desc: "Independence Day: O Ressurgimento. Independence Day: Resurgence (USA, 2016). Dirigido por Roland Emmerich. Escrito por Nicolas Wright, James A. Woods, Dean Devlin, Roland Emmerich, James Vanderbilt, Dean Devlin, Roland Emmerich, Nicolas Wright, James A. Woods. Com Liam Hemsworth, Jeff Goldblum, Jessie T. Usher, Bill Pullman, Maika Monroe, Sela Ward, William Fichtner, Judd Hirsch, Brent Spiner."
 ---
 Mais um remake que uma continuação. Infestado de momentos, diálogos e situações idênticas ao original, "Independency Day: Resurgence" se rende à fórmula que o tornou uma das farofas mais divertidas e rentáveis da década de 90.
 

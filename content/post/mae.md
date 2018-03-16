@@ -1,29 +1,11 @@
 ---
-imdb: "5109784"
-stars: "5/5"
 tags: ['cabine']
+imdb: "5109784"
 date: 2017-09-15T19:03:03
-title: "Mãe!"
 categories: "movies"
-_title: "Mother!"
-_year: "2017"
-_director: ["Darren Aronofsky", ]
-_writer: ["Darren Aronofsky", ]
-_cast: ["Jennifer Lawrence (Mother)", "Javier Bardem (Him)", "Ed Harris (Man)", "Michelle Pfeiffer (Woman)", "Brian Gleeson (Younger Brother)", "Domhnall Gleeson (Oldest Son)", "Jovan Adepo (Cupbearer)", "Amanda Chiu (Damsel)", "Patricia Summersett (Consoler)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Andrew Weisblum", ]
-_cinematographer: ["Matthew Libatique", ]
-_music: ["Jóhann Jóhannsson", ]
-_artdirection: ["Isabelle Guay", "Deborah Jensen", ]
-_costume designer: ["Danny Glicker", ]
-_genres: ["Drama", ]
-_runtimes: ["121", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMzc5ODExODE0MV5BMl5BanBnXkFtZTgwNDkzNDUxMzI@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMzc5ODExODE0MV5BMl5BanBnXkFtZTgwNDkzNDUxMzI@._V1._SX94_SY140_.jpg"
-_releasedate: "19 September 2017 (Sao Paulo)"
+title: "Mãe!"
+stars: "5/5"
+desc: "Mãe!. Mother! (USA, 2017). Dirigido por Darren Aronofsky. Escrito por Darren Aronofsky. Com Jennifer Lawrence (Mother), Javier Bardem (Him), Ed Harris (Man), Michelle Pfeiffer (Woman), Brian Gleeson (Younger Brother), Domhnall Gleeson (Oldest Son), Jovan Adepo (Cupbearer), Amanda Chiu (Damsel), Patricia Summersett (Consoler)."
 ---
 Darren Aronofsky é um diretor obcecado com perfeccionismo, gnosticismo, auto-superação e talento. E ele leva isso sério demais em "Mãe!". Tão sério que a dupla-camada (ao menos) no filme é bem escondida, mas vai parecer óbvia depois que você termina. E de uma forma ou de outra, o filme irá revelar mais sobre o espectador do que sobre as opiniões de seu criador. Trocadilho intencional e hermético. Já escrevi o texto sobre o filme sem spoilers para o CinemAqui, e este é meu exercício COM SPOILERS. Isso é porque quero exercitar minha capacidade de interpretação do filme junto a vocês. Qualquer teoria maluca a mais por favor entrar em contato.
 

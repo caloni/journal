@@ -1,27 +1,10 @@
 ---
-date: "2015-09-27"
 imdb: "1077258"
-stars: "3/5"
+date: "2015-09-27"
 categories: "movies"
 title: "Planeta Terror"
-_title: "Planet Terror"
-_year: "2007"
-_director: ["Robert Rodriguez", ]
-_writer: ["Robert Rodriguez", ]
-_cast: ["Rose McGowan", "Freddy Rodríguez", "Josh Brolin", "Marley Shelton", "Jeff Fahey", "Michael Biehn", "Rebel Rodriguez", "Bruce Willis", "Naveen Andrews", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Ethan Maniquis", "Robert Rodriguez", ]
-_cinematographer: ["Robert Rodriguez", ]
-_music: ["Robert Rodriguez", ]
-_artdirection: ["Caylah Eddleblute", ]
-_costume designer: ["Nina Proctor", ]
-_genres: ["Action", ]
-_runtimes: ["105::(international version)", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTI0NDQ5MTM2MV5BMl5BanBnXkFtZTcwOTIwMjk2MQ@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTI0NDQ5MTM2MV5BMl5BanBnXkFtZTcwOTIwMjk2MQ@@._V1._SX100_SY133_.jpg"
+stars: "3/5"
+desc: "Planeta Terror. Planet Terror (USA, 2007). Dirigido por Robert Rodriguez. Escrito por Robert Rodriguez. Com Rose McGowan, Freddy Rodríguez, Josh Brolin, Marley Shelton, Jeff Fahey, Michael Biehn, Rebel Rodriguez, Bruce Willis, Naveen Andrews."
 ---
 Quando se fala em fazer um filme trash, o diretor Robert Rodriguez não brinca em serviço. Planeta Terror, o filme-parceiro do projeto grindhouse criado por ele e Tarantino -- em que cada um realiza um filme com essa proposta de filme antigo Lado B -- é um exemplo de filme ruim que é ruim por ambos os motivos: o real e o imaginado. Porém, para realizar este feito ele precisa percorrer o destino de diferentes personagens que se tornam marcantes por dois motivos: as ótimas atuações dos atores que o interpretam e o velho jeito Robert Rodriguez de criar momentos icônicos, ainda que desprovidos de senso estético.
 

@@ -1,28 +1,11 @@
 ---
+tags: ['netflix', 'series']
+imdb: "5651844"
 date: "2017-02-28"
 categories: "series"
 title: "Travelers"
-imdb: "5651844"
 stars: "3/5"
-tags: ['netflix', 'series']
-_title: "Travelers"
-_year: "2016"
-_director: ["Andy Mikita", "Helen Shaver", "William Waring", "Martin Wood", "Nick Hurran", ]
-_writer: ["Pat Smith", "Jason Whiting", "Brad Wright", "Ashley Park", "S.B. Edwards", "Ken Kabatoff", ]
-_cast: ["Eric McCormack (Grant MacLaren)", "MacKenzie Porter (Marcy Warton)", "Nesta Cooper (Carly Shannon)", "Jared Abrahamson (Trevor Holden)", "Reilly Dolman (Philip Pearson)", "Patrick Gilmore (David Mailer)", "Leah Cairns (Kathryn MacLaren)", "Arnold Pinnock (Walt Forbes)", "J. Alex Brinson (Jeff Conniker)", ]
-_countries: ["Canada", ]
-_languages: ["English", ]
-_editor: ["Lisa Binkley", "Stein Myhrstad", "Brad Rines", ]
-_cinematographer: ["Stephen Jackson", "Neville Kidd", ]
-_music: ["Adam Lastiwka", ]
-_artdirection: ["Courtney Stockstad", "Mark Stope", ]
-_costume designer: ["Mandi Line", ]
-_genres: ["Sci-Fi", ]
-_runtimes: ["45", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BYjhmOGM4MWItOTlkMy00NWZlLWE2MDctYzFlYTIyZmEzOTUxL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjExMjk0ODk@.jpg"
-_ratio: "2.00 : 1"
-_kind: "tv series"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BYjhmOGM4MWItOTlkMy00NWZlLWE2MDctYzFlYTIyZmEzOTUxL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjExMjk0ODk@._V1._SX100_SY140_.jpg"
+desc: "Travelers. Travelers (Canada, 2016). Dirigido por Andy Mikita, Helen Shaver, William Waring, Martin Wood, Nick Hurran. Escrito por Pat Smith, Jason Whiting, Brad Wright, Ashley Park, S.B. Edwards, Ken Kabatoff. Com Eric McCormack (Grant MacLaren), MacKenzie Porter (Marcy Warton), Nesta Cooper (Carly Shannon), Jared Abrahamson (Trevor Holden), Reilly Dolman (Philip Pearson), Patrick Gilmore (David Mailer), Leah Cairns (Kathryn MacLaren), Arnold Pinnock (Walt Forbes), J. Alex Brinson (Jeff Conniker)."
 ---
 Viagem no tempo, física quântica, mulheres bonitas e gostosas: uma fórmula que geralmente merece dar uma olhada, para diversos fãs, de diferentes conteúdos. No caso da primeira temporada de Travelers, da Netflix, a química entre esses elementos oscila de maneira irregular, quase sempre frustrando ideias mais ambiciosas e quase sempre se rendendo ao juvenil politicamente correto. Quer dizer, no futuro os animais são nossos amigos e as pessoas passam mal em ver bacon? Fala sério!
 

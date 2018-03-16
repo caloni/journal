@@ -1,29 +1,11 @@
 ---
+tags: ['paulocoelho']
+imdb: "1126590"
 date: "2017-05-02"
 categories: "movies"
 title: "Grandes Olhos"
-imdb: "1126590"
 stars: "3/5"
-tags: ['paulocoelho']
-_title: "Big Eyes"
-_year: "2014"
-_director: ["Tim Burton", ]
-_writer: ["Scott Alexander", "Larry Karaszewski", ]
-_cast: ["Amy Adams (Margaret Keane)", "Christoph Waltz (Walter Keane)", "Danny Huston (Dick Nolan)", "Krysten Ritter (DeeAnn)", "Jason Schwartzman (Ruben)", "Terence Stamp (John Canaday)", "Jon Polito (Enrico Banducci)", "Delaney Raye (Young Jane)", "Madeleine Arthur (Older Jane)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["JC Bond", ]
-_cinematographer: ["Bruno Delbonnel", ]
-_music: ["Danny Elfman", ]
-_artdirection: ["Chris August", "Nanci Noblett", ]
-_costume designer: ["Colleen Atwood", ]
-_genres: ["Biography", ]
-_runtimes: ["106", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA2ODM5MDE3N15BMl5BanBnXkFtZTgwOTIxNjc1MzE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA2ODM5MDE3N15BMl5BanBnXkFtZTgwOTIxNjc1MzE@._V1._SX94_SY140_.jpg"
-_releasedate: "29 January 2015"
+desc: "Grandes Olhos. Big Eyes (USA, 2014). Dirigido por Tim Burton. Escrito por Scott Alexander, Larry Karaszewski. Com Amy Adams (Margaret Keane), Christoph Waltz (Walter Keane), Danny Huston (Dick Nolan), Krysten Ritter (DeeAnn), Jason Schwartzman (Ruben), Terence Stamp (John Canaday), Jon Polito (Enrico Banducci), Delaney Raye (Young Jane), Madeleine Arthur (Older Jane)."
 ---
 Olhos Grandes é uma incursão do diretor Tim Burton por um universo já existente, o que se por um lado favorece seu lado de direção de arte a exagerar um conteúdo já determinado, por outro lado limita sua capacidade de fazer o mesmo com seus personagens, que soam irreais em uma história baseada em fatos reais.
 

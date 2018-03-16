@@ -1,22 +1,10 @@
 ---
-date: "2013-01-14"
-title: "Viúvas"
 imdb: "1785670"
-stars: "3/5"
+date: "2013-01-14"
 categories: "movies"
-_title: "Viudas"
-_year: "2011"
-_director: ["Marcos Carnevale", ]
-_writer: ["Marcos Carnevale", "Bernarda Pagés", ]
-_cast: ["Graciela Borges", "Valeria Bertuccelli", "Rita Cortese", "Martín Bossi", "Chang Sung Kim", "Mário José Paz", "Mariana Richaudeau", ]
-_countries: ["Argentina", ]
-_languages: ["Spanish", ]
-_editor: ["Emilio Llamosas", ]
-_cinematographer: ["Horacio Maira", ]
-_genres: ["Drama", ]
-_runtimes: ["Argentina:100", ]
-_ratio: "2.35 : 1"
-_kind: "movie"
+title: "Viúvas"
+stars: "3/5"
+desc: "Viúvas. Viudas (Argentina, 2011). Dirigido por Marcos Carnevale. Escrito por Marcos Carnevale, Bernarda Pagés. Com Graciela Borges, Valeria Bertuccelli, Rita Cortese, Martín Bossi, Chang Sung Kim, Mário José Paz, Mariana Richaudeau."
 ---
 Projeto menor do diretor Marcos Carnevale (Elsa e Fred), Viúvas possui o seu núcleo na história de Elena (Graciela Borges), que perde o marido depois de um infarto. Fica conhecendo assim a sua amante, Adela (Valeria Bertuccelli), muito mais jovem e inexperiente com seus sentimentos. Unindo a vida pós-marido de ambas através de uma última promessa feita pela esposa, a sensação constante é de que ao tentarmos conhecê-las melhor existe um sentimento de repulsa por mulheres tão egoístas (cada uma à sua maneira).
 

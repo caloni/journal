@@ -1,25 +1,10 @@
 ---
-date: "2012-12-17"
 imdb: "0903624"
+date: "2012-12-17"
+categories: "movies"
 title: "O Hobbit Uma Jornada Inesperada"
 stars: "3/5"
-categories: "movies"
-_title: "The Hobbit: An Unexpected Journey"
-_year: "2012"
-_director: ["Peter Jackson", ]
-_writer: ["Fran Walsh", "Philippa Boyens", "Peter Jackson", "Guillermo del Toro", "J.R.R. Tolkien", ]
-_cast: ["Ian McKellen", "Martin Freeman", "Richard Armitage", "Ken Stott", "Graham McTavish", "William Kircher", "James Nesbitt", "Stephen Hunter", "Dean O'Gorman", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Jabez Olssen", ]
-_cinematographer: ["Andrew Lesnie", ]
-_music: ["Howard Shore", ]
-_genres: ["Adventure", ]
-_runtimes: ["169", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTcwNTE4MTUxMl5BMl5BanBnXkFtZTcwMDIyODM4OA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTcwNTE4MTUxMl5BMl5BanBnXkFtZTcwMDIyODM4OA@@._V1._SX94_SY140_.jpg"
+desc: "O Hobbit Uma Jornada Inesperada. The Hobbit: An Unexpected Journey (USA, 2012). Dirigido por Peter Jackson. Escrito por Fran Walsh, Philippa Boyens, Peter Jackson, Guillermo del Toro, J.R.R. Tolkien. Com Ian McKellen, Martin Freeman, Richard Armitage, Ken Stott, Graham McTavish, William Kircher, James Nesbitt, Stephen Hunter, Dean O'Gorman."
 ---
 Baseado no romance de 310 páginas escrito por J. R. R. Tolkien  conhecido aqui no Brasil como "O hobbit ou Lá e de Volta Outra Vez"  e dirigido por Peter Jackson (trilogia Senhor dos Anéis), a história do pequeno hobbit em sua jornada na companhia de 13 anões e um mago foi dividida em três filmes. Esse texto diz respeito ao primeiro deles, "Uma Jornada Inesperada".
 

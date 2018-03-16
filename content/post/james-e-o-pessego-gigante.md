@@ -1,25 +1,10 @@
 ---
-date: "2014-12-30"
 imdb: "0116683"
+date: "2014-12-30"
+categories: "movies"
 title: "James e o Pêssego Gigante"
 stars: "4/5"
-categories: "movies"
-_title: "James and the Giant Peach"
-_year: "1996"
-_director: ["Henry Selick", ]
-_writer: ["Roald Dahl", "Karey Kirkpatrick", "Jonathan Roberts", "Steve Bloom", ]
-_cast: ["Simon Callow", "Richard Dreyfuss", "Jane Leeves", "Joanna Lumley", "Miriam Margolyes", "Pete Postlethwaite", "Susan Sarandon", "Paul Terry", "David Thewlis", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Stan Webb", ]
-_cinematographer: ["Pete Kozachik", "Hiro Narita", ]
-_music: ["Randy Newman", ]
-_genres: ["Animation", ]
-_runtimes: ["79", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTkwMzEwMTQwNl5BMl5BanBnXkFtZTcwNTg3MzAyMQ@@.jpg"
-_ratio: "1.66 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTkwMzEwMTQwNl5BMl5BanBnXkFtZTcwNTg3MzAyMQ@@._V1._SX99_SY140_.jpg"
+desc: "James e o Pêssego Gigante. James and the Giant Peach (UK, 1996). Dirigido por Henry Selick. Escrito por Roald Dahl, Karey Kirkpatrick, Jonathan Roberts, Steve Bloom. Com Simon Callow, Richard Dreyfuss, Jane Leeves, Joanna Lumley, Miriam Margolyes, Pete Postlethwaite, Susan Sarandon, Paul Terry, David Thewlis."
 ---
 Antes de qualquer ataque óbvio ao roteiro formulaico e os personagens caricatos e unidimensionais, é melhor avisar: se trata de um filme Disney. Ou seja, o mau é mau, o bom é bom e não há praticamente nada que fuja do bê-a-bá dos estúdios "da moral e dos bons costumes". Dito isto, damo-nos por satisfeitos a inexistência de princesas e fadas.
 

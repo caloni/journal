@@ -1,26 +1,11 @@
 ---
-imdb: "2091256"
-stars: "5/5"
 tags: ['paulocoelho']
+imdb: "2091256"
 date: 2017-10-21T23:13:48
-title: "As Aventuras Do Capitao Cueca O Filme"
 categories: "movies"
-_title: "Captain Underpants: The First Epic Movie"
-_year: "2017"
-_director: ["David Soren", ]
-_writer: ["Nicholas Stoller", "Dav Pilkey", "David Soren", ]
-_cast: ["Kevin Hart (George)", "Ed Helms (Captain Underpants / Mr. Krupp)", "Nick Kroll (Professor Poopypants)", "Thomas Middleditch (Harold)", "Jordan Peele (Melvin)", "Kristen Schaal (Edith)", "DeeDee Rescher (Ms. Ribble)", "Brian Posehn (Mr. Rected)", "David Soren (Tommy)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Matt Landon", ]
-_music: ["Theodore Shapiro", ]
-_genres: ["Animation", ]
-_runtimes: ["89", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE1MzM2NzgzNV5BMl5BanBnXkFtZTgwODU3NTI0MTI@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE1MzM2NzgzNV5BMl5BanBnXkFtZTgwODU3NTI0MTI@._V1._SX94_SY140_.jpg"
-_releasedate: "12 October 2017"
+title: "As Aventuras Do Capitao Cueca O Filme"
+stars: "5/5"
+desc: "As Aventuras Do Capitao Cueca O Filme. Captain Underpants: The First Epic Movie (USA, 2017). Dirigido por David Soren. Escrito por Nicholas Stoller, Dav Pilkey, David Soren. Com Kevin Hart (George), Ed Helms (Captain Underpants / Mr. Krupp), Nick Kroll (Professor Poopypants), Thomas Middleditch (Harold), Jordan Peele (Melvin), Kristen Schaal (Edith), DeeDee Rescher (Ms. Ribble), Brian Posehn (Mr. Rected), David Soren (Tommy)."
 ---
 As Aventuras do Capitão Cueca prova que no Cinema, dado qualquer conceito, ele pode ser explorado e se tornar um ótimo filme. Mesmo que este conceito envolva duas crianças criativas e zoeras que falam com o espectador, pregam todas as peças da escola e criem um super-herói em seus quadrinhos que não usa uma cueca por cima das calças, mas apenas a cueca.
 

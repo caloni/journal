@@ -1,28 +1,11 @@
 ---
+tags: ['netflix']
+imdb: "1596363"
 date: "2016-11-26"
 categories: "movies"
 title: "A Grande Aposta"
-imdb: "1596363"
 stars: "5/5"
-tags: ['netflix']
-_title: "The Big Short"
-_year: "2015"
-_director: ["Adam McKay", ]
-_writer: ["Charles Randolph", "Adam McKay", "Michael Lewis", ]
-_cast: ["Ryan Gosling (Jared Vennett)", "Rudy Eisenzopf (Lewis Ranieri)", "Casey Groves (Fund Manager)", "Charlie Talbert (Lewis Bond Trader)", "Harold Gervais (Lewis Bond Trader)", "Maria Frangos (Exotic Dancer)", "Christian Bale (Michael Burry)", "Hunter Burke (Analyst)", "Bernard Hocke (Coach)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Hank Corwin", ]
-_cinematographer: ["Barry Ackroyd", ]
-_music: ["Nicholas Britell", ]
-_artdirection: ["Elliott Glick", ]
-_costume designer: ["Susan Matheson", ]
-_genres: ["Biography", ]
-_runtimes: ["130", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNDc4MThhN2EtZjMzNC00ZDJmLThiZTgtNThlY2UxZWMzNjdkXkEyXkFqcGdeQXVyNDk3NzU2MTQ@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNDc4MThhN2EtZjMzNC00ZDJmLThiZTgtNThlY2UxZWMzNjdkXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1._SX90_SY140_.jpg"
+desc: "A Grande Aposta. The Big Short (USA, 2015). Dirigido por Adam McKay. Escrito por Charles Randolph, Adam McKay, Michael Lewis. Com Ryan Gosling (Jared Vennett), Rudy Eisenzopf (Lewis Ranieri), Casey Groves (Fund Manager), Charlie Talbert (Lewis Bond Trader), Harold Gervais (Lewis Bond Trader), Maria Frangos (Exotic Dancer), Christian Bale (Michael Burry), Hunter Burke (Analyst), Bernard Hocke (Coach)."
 ---
 The Big Short encara a crise de 2008 do ponto de vista dos investidores que viram a falha sistêmica na economia americana e, contra tudo e contra todos, resolveram apostar. Essa descrição está perfeitamente acurada, quase uma sinopse, mas não consegue sequer arranhar a superfície de um filme que possui em sua estrutura não apenas o drama pessoal de cada uma dessas pessoas e não apenas a descrição simples e bem-humorada do economês necessário para entendê-lo, mas também a angustiante visão global do trabalho de Adam McKay, que ultrapassa o limite de um ótimo filme e passa a realizar uma das melhores e mais completas e ácidas críticas ao capitalismo de Estado.
 

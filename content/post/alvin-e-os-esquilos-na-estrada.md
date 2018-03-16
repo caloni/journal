@@ -1,26 +1,10 @@
 ---
-date: "2016-01-10"
 imdb: "2974918"
-stars: "2/5"
+date: "2016-01-10"
 categories: "movies"
 title: "Alvin e os Esquilos: Na Estrada"
-_title: "Alvin and the Chipmunks: The Road Chip"
-_year: "2015"
-_director: ["Walt Becker", ]
-_writer: ["Ross Bagdasarian", "Janice Karman", "Randi Mayem Singer", "Adam Sztykiel", ]
-_cast: ["Jason Lee", "Justin Long", "Matthew Gray Gubler", "Jesse McCartney", "Kimberly Williams-Paisley", "Josh Green", "Tony Hale", "Bella Thorne", "Eddie Steeples", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Ryan Folsey", ]
-_music: ["Mark Mothersbaugh", ]
-_artdirection: ["Paul Kelly", ]
-_costume designer: ["Mary Claire Hannan", ]
-_genres: ["Animation", ]
-_runtimes: ["USA:92", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQ1NjQyNTkyOF5BMl5BanBnXkFtZTgwNzA3OTUyNzE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQ1NjQyNTkyOF5BMl5BanBnXkFtZTgwNzA3OTUyNzE@._V1._SX94_SY140_.jpg"
+stars: "2/5"
+desc: "Alvin e os Esquilos: Na Estrada. Alvin and the Chipmunks: The Road Chip (USA, 2015). Dirigido por Walt Becker. Escrito por Ross Bagdasarian, Janice Karman, Randi Mayem Singer, Adam Sztykiel. Com Jason Lee, Justin Long, Matthew Gray Gubler, Jesse McCartney, Kimberly Williams-Paisley, Josh Green, Tony Hale, Bella Thorne, Eddie Steeples."
 ---
 Como sempre uma boa ideia desperdiçada, a série dos esquilos cantores vai de mal a pior, restando quase apenas seus protagonistas encantadores e coreografias vazias, o que não basta para tornar um filme bom. Consegue no máximo defesas do tipo "mas eles são tão fofinhos" e "as cenas deles cantando são tão boas".
 

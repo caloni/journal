@@ -1,28 +1,11 @@
 ---
+tags: ['netflix']
+imdb: "3882082"
 date: "2016-09-11"
 categories: "movies"
 title: "Boneco do Mal"
-imdb: "3882082"
 stars: "4/5"
-tags: ['netflix']
-_title: "The Boy"
-_year: "2016"
-_director: ["William Brent Bell", ]
-_writer: ["Stacey Menear", ]
-_cast: ["Lauren Cohan", "Rupert Evans", "James Russell", "Jim Norton", "Diana Hardcastle", "Ben Robson", "Jett Klyne", "Lily Pater", "Matthew Walker", ]
-_countries: ["Canada", ]
-_languages: ["English", ]
-_editor: ["Brian Berdan", ]
-_cinematographer: ["Daniel Pearl", ]
-_music: ["Bear McCreary", ]
-_artdirection: ["James Steuart", ]
-_costume designer: ["Jori Woodman", ]
-_genres: ["Horror", ]
-_runtimes: ["97", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTc1MjcxNzcwMV5BMl5BanBnXkFtZTgwMTE0NTE2NzE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTc1MjcxNzcwMV5BMl5BanBnXkFtZTgwMTE0NTE2NzE@._V1._SX95_SY140_.jpg"
+desc: "Boneco do Mal. The Boy (Canada, 2016). Dirigido por William Brent Bell. Escrito por Stacey Menear. Com Lauren Cohan, Rupert Evans, James Russell, Jim Norton, Diana Hardcastle, Ben Robson, Jett Klyne, Lily Pater, Matthew Walker."
 ---
 Um terror que entende a problemática do medo do limite entre o real e a fantasia, Boneco do Mal busca em seu formato aproximar o espectador da loucura que o cerca, para apenas depois subverter essa ordem de volta para o real. Um trabalho digno de nota em comparação com tantos filmes do gênero que se passa em uma casa isolada com um passado macabro.
 

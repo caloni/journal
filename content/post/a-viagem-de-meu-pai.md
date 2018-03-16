@@ -1,25 +1,11 @@
 ---
-date: "2016-07-22"
-tags: [ "cabine" ]
-categories: "movies"
+tags: ['cabine']
 imdb: "4163636"
-stars: "4/5"
+date: "2016-07-22"
+categories: "movies"
 title: "A Viagem de Meu Pai"
-_title: "Floride"
-_year: "2015"
-_director: ["Philippe Le Guay", ]
-_writer: ["Florian Zeller", "Philippe Le Guay", "Jérôme Tonnerre", ]
-_cast: ["Jean Rochefort", "Sandrine Kiberlain", "Laurent Lucas", "Anamaria Marinca", "Clément Métayer", "Coline Beal", "Édith Le Merdy", "Christèle Tual", "Carine Piazzi", ]
-_countries: ["France", ]
-_languages: ["French", ]
-_cinematographer: ["Jean-Claude Larrieu", ]
-_music: ["Jorge Arriagada", ]
-_genres: ["Comedy", ]
-_runtimes: ["110", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BZjBhYTU4ZmQtNzBkNS00ZGU5LWIzMzUtYzNhYTMzNTU5NGE2XkEyXkFqcGdeQXVyMzk0ODA2ODM@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BZjBhYTU4ZmQtNzBkNS00ZGU5LWIzMzUtYzNhYTMzNTU5NGE2XkEyXkFqcGdeQXVyMzk0ODA2ODM@._V1._SX100_SY136_.jpg"
+stars: "4/5"
+desc: "A Viagem de Meu Pai. Floride (France, 2015). Dirigido por Philippe Le Guay. Escrito por Florian Zeller, Philippe Le Guay, Jérôme Tonnerre. Com Jean Rochefort, Sandrine Kiberlain, Laurent Lucas, Anamaria Marinca, Clément Métayer, Coline Beal, Édith Le Merdy, Christèle Tual, Carine Piazzi."
 ---
 O diretor Philippe Le Guay, com quem já trabalhou com Jérôme Tonnerre em As Mulheres do Sexto Andar e aqui roteirizam uma peça de Florian Zeller, sabe contar uma história do ponto de vista do espectador. Ao quebrar o tempo em fragmentos de passado, futuro e um presente incerto, ele nos transporta para as sensações do velhinho Claude Lherminier, que interpretado por Jean Rochefort de maneira irrestrita, nos entrega um filme sobre como é perder a memória aos poucos, e como pode ser desagradável não saber nem do que você não sabe.
 

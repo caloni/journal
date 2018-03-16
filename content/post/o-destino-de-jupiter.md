@@ -1,25 +1,10 @@
 ---
-date: "2015-05-12"
 imdb: "1617661"
-stars: "3/5"
+date: "2015-05-12"
 categories: "movies"
 title: "O Destino de Júpiter"
-_title: "Jupiter Ascending"
-_year: "2015"
-_director: ["Andy Wachowski", "Lana Wachowski", ]
-_writer: ["Andy Wachowski", "Lana Wachowski", ]
-_cast: ["Mila Kunis", "Channing Tatum", "Sean Bean", "Eddie Redmayne", "Douglas Booth", "Tuppence Middleton", "Nikki Amuka-Bird", "Christina Cole", "Nicholas A. Newman", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Alexander Berner", ]
-_cinematographer: ["John Toll", ]
-_music: ["Michael Giacchino", ]
-_genres: ["Action", ]
-_runtimes: ["127", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQyNzk2MjA2NF5BMl5BanBnXkFtZTgwMjEwNzk3MjE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQyNzk2MjA2NF5BMl5BanBnXkFtZTgwMjEwNzk3MjE@._V1._SX94_SY140_.jpg"
+stars: "3/5"
+desc: "O Destino de Júpiter. Jupiter Ascending (USA, 2015). Dirigido por Andy Wachowski, Lana Wachowski. Escrito por Andy Wachowski, Lana Wachowski. Com Mila Kunis, Channing Tatum, Sean Bean, Eddie Redmayne, Douglas Booth, Tuppence Middleton, Nikki Amuka-Bird, Christina Cole, Nicholas A. Newman."
 ---
 Esse é um ótimo filme se você quiser descobrir o que os irmãos Wachowski, da trilogia Matrix, fariam com a tecnologia atual contando uma história bem parecida com Matrix Revolutions no sentido de cenários grandiosos, personagens heroicos e o tempo dividido em metade ação, metade reflexão. Sinceramente, eu esperava um pouco mais dos diretores que criaram Cloud Atlas, uma odisseia que passeia por eras e cujo conflito é muito mais metafísico do que neste filme. Aqui o objetivo é fazer com que a garota Jupiter não seja morta e salvar a humanidade. A garota é Mila Kunis, aquela menina atraente de Cisne Negro que se deita com Natalie Portman, e está em boas mãos aqui, protegida pelo igualmente voluptuoso Caine Wise (Channing Tatum). Podemos criticar diversos aspectos da filmografia dos Wachoski, mas uma coisa que eles sabem escolher são tipos físicos para suas histórias.
 

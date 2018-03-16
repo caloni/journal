@@ -1,26 +1,11 @@
 ---
-date: "2016-06-03"
-tags: [ "cabine" ]
-categories: "movies"
+tags: ['cabine']
 imdb: "4699388"
-stars: "3/5"
+date: "2016-06-03"
+categories: "movies"
 title: "Um Amor À Altura"
-_title: "Un homme à la hauteur"
-_year: "2016"
-_director: ["Laurent Tirard", ]
-_writer: ["Marcos Carnevale", "Laurent Tirard", "Laurent Tirard", "Laurent Tirard", "Grégoire Vigneron", "Grégoire Vigneron", "Grégoire Vigneron", ]
-_cast: ["Jean Dujardin", "Virginie Efira", "Cédric Kahn", "Stéphanie Papanian", "César Domboy", "Edmonde Franchi", "Manoëlle Gaillard", "Bruno Gomila", "Camille Damour", ]
-_countries: ["France", ]
-_languages: ["French", ]
-_editor: ["Valérie Deseine", ]
-_cinematographer: ["Jérôme Alméras", ]
-_music: ["Éric Neveux", ]
-_costume designer: ["Valérie Artiges-Corno", ]
-_genres: ["Comedy", ]
-_runtimes: ["98", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BOGNkYjQ2NDctZmI0YS00NTk2LTlmOWUtZmIxZTBjMWJlOTYxXkEyXkFqcGdeQXVyNDA2NTMyMzE@.jpg"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BOGNkYjQ2NDctZmI0YS00NTk2LTlmOWUtZmIxZTBjMWJlOTYxXkEyXkFqcGdeQXVyNDA2NTMyMzE@._V1._SX100_SY135_.jpg"
+stars: "3/5"
+desc: "Um Amor À Altura. Un homme à la hauteur (France, 2016). Dirigido por Laurent Tirard. Escrito por Marcos Carnevale, Laurent Tirard, Laurent Tirard, Laurent Tirard, Grégoire Vigneron, Grégoire Vigneron, Grégoire Vigneron. Com Jean Dujardin, Virginie Efira, Cédric Kahn, Stéphanie Papanian, César Domboy, Edmonde Franchi, Manoëlle Gaillard, Bruno Gomila, Camille Damour."
 ---
 Comédia romântica francesa não parece nem francesa nem comédia. Porém, o romance está no ar, e é a melhor parte do filme. Diane (Virginie Efira) se apaixona pelo pequeno Alexandre (Jean Dujardin), e o sentimento é recíproco. Nada poderia dar errado nesse relacionamento, se não fosse pelas pessoas em volta.
 

@@ -1,24 +1,10 @@
 ---
-date: "2011-03-10"
 imdb: "0377981"
+date: "2011-03-10"
+categories: "movies"
 title: "Gnomeu e Julieta"
 stars: "3/5"
-categories: "movies"
-_title: "Gnomeo & Juliet"
-_year: "2011"
-_director: ["Kelly Asbury", ]
-_writer: ["Rob Sprackling", "John R. Smith", "Andy Riley", "Kevin Cecil", "Kelly Asbury", "Steve Hamilton Shaw", "Andy Riley", "Kevin Cecil", "Mark Burton", ]
-_cast: ["James McAvoy", "Emily Blunt", "Ashley Jensen", "Michael Caine", "Matt Lucas", "Jim Cummings", "Maggie Smith", "Jason Statham", "Ozzy Osbourne", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Catherine Apple", ]
-_music: ["Chris Bacon", "James Newton Howard", "Elton John", ]
-_genres: ["Animation", ]
-_runtimes: ["USA:84", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjAyNDM2MDA2NF5BMl5BanBnXkFtZTcwOTMxMDAxNA@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjAyNDM2MDA2NF5BMl5BanBnXkFtZTcwOTMxMDAxNA@@._V1._SX94_SY140_.jpg"
+desc: "Gnomeu e Julieta. Gnomeo & Juliet (UK, 2011). Dirigido por Kelly Asbury. Escrito por Rob Sprackling, John R. Smith, Andy Riley, Kevin Cecil, Kelly Asbury, Steve Hamilton Shaw, Andy Riley, Kevin Cecil, Mark Burton. Com James McAvoy, Emily Blunt, Ashley Jensen, Michael Caine, Matt Lucas, Jim Cummings, Maggie Smith, Jason Statham, Ozzy Osbourne."
 ---
 Como diz a introdução dessa nova animação, a história que será contada já foi contada várias vezes. Porém, e continua a introdução, nunca foi contada da maneira que será nesse filme. É uma pena, portanto, constatar que a única coisa que muda nessa recriação de fato são a técnica (animação) e o apelo infantil (gnomos de jardim). Porém, pior do que isso, esse "remake" chega à proeza de tornar enfadonho acompanhar uma das mais populares histórias de William Shakespeare.
 

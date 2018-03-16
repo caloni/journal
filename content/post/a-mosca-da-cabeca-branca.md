@@ -1,27 +1,10 @@
 ---
-date: "2015-11-28"
 imdb: "0051622"
-stars: "5/5"
+date: "2015-11-28"
 categories: "movies"
 title: "A Mosca da Cabeça Branca"
-_title: "The Fly"
-_year: "1958"
-_director: ["Kurt Neumann", ]
-_writer: ["James Clavell", "George Langelaan", ]
-_cast: ["David Hedison", "Patricia Owens", "Vincent Price", "Herbert Marshall", "Kathleen Freeman", "Betty Lou Gerson", "Charles Herbert", "Eugene Borden", "Harry Carter", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Merrill G. White", ]
-_cinematographer: ["Karl Struss", ]
-_music: ["Paul Sawtell", ]
-_artdirection: ["Theobold Holsopple", "Lyle R. Wheeler", ]
-_costume designer: ["Adele Balkan", ]
-_genres: ["Drama", ]
-_runtimes: ["94", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjM2MzgyNTIzMV5BMl5BanBnXkFtZTgwNTg1Mjc1MDE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjM2MzgyNTIzMV5BMl5BanBnXkFtZTgwNTg1Mjc1MDE@._V1._SX93_SY140_.jpg"
+stars: "5/5"
+desc: "A Mosca da Cabeça Branca. The Fly (USA, 1958). Dirigido por Kurt Neumann. Escrito por James Clavell, George Langelaan. Com David Hedison, Patricia Owens, Vincent Price, Herbert Marshall, Kathleen Freeman, Betty Lou Gerson, Charles Herbert, Eugene Borden, Harry Carter."
 ---
 "The Fly" cria uma sensação de deslumbramento e fascinação pelo horror da possibilidade de acontecer na vida real o que vemos no filme. E o que vemos não é muito, e seus efeitos são irregulares. Porém, ao apostar no circunstancial em vez do puro deleite visual e gráfico, a obra não-datada da década de 50 mantém sua força dramática e a capacidade de fazer espectadores ainda hoje se pegarem pensando em como tudo isso é surreal, horrível e... fascinante.
 

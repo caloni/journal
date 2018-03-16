@@ -1,27 +1,11 @@
 ---
-date: "2014-01-26"
+tags: ['netflix', 'sherlock', 'series']
 imdb: "1475582"
+date: "2016-04-07"
+categories: "series"
 title: "Sherlock - Terceira Temporada"
 stars: "5/5"
-categories: "series"
-date: "2016-04-07"
-tags: ['netflix', 'sherlock', 'series']
-_title: "Sherlock"
-_year: "2010"
-_director: ["Paul McGuigan", ]
-_writer: ["Mark Gatiss", "Steven Moffat", "Arthur Conan Doyle", "Steve Thompson", ]
-_cast: ["Benedict Cumberbatch", "Martin Freeman", "Rupert Graves", "Una Stubbs", "Louise Brealey", "Mark Gatiss", "Andrew Scott", "Jonathan Aris", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Charlie Phillips", ]
-_cinematographer: ["Steve Lawes", "Fabian Wagner", ]
-_music: ["David Arnold", "Michael Price", ]
-_genres: ["Crime", ]
-_runtimes: ["90", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNTA2MTE1NDI5OV5BMl5BanBnXkFtZTcwNzM2MzU3Nw@@.jpg"
-_ratio: "1.78 : 1"
-_kind: "tv series"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNTA2MTE1NDI5OV5BMl5BanBnXkFtZTcwNzM2MzU3Nw@@._V1._SX100_SY124_.jpg"
+desc: "Sherlock - Terceira Temporada. Sherlock (UK, 2010). Dirigido por Paul McGuigan. Escrito por Mark Gatiss, Steven Moffat, Arthur Conan Doyle, Steve Thompson. Com Benedict Cumberbatch, Martin Freeman, Rupert Graves, Una Stubbs, Louise Brealey, Mark Gatiss, Andrew Scott, Jonathan Aris."
 ---
 Como li em algum lugar, ser fã da série Sherlock é aguardar ansiosamente por um ano três episódios que terminam em um fim-de-semana. Depois disso, mais um ano (ou dois) de espera interminável.
 

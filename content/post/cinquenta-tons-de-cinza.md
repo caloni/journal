@@ -1,25 +1,10 @@
 ---
-date: "2015-02-28"
 imdb: "2322441"
+date: "2015-02-28"
+categories: "movies"
 title: "Cinquenta Tons de Cinza"
 stars: "2/5"
-categories: "movies"
-_title: "Fifty Shades of Grey"
-_year: "2015"
-_director: ["Sam Taylor-Johnson", ]
-_writer: ["Kelly Marcel", "E.L. James", ]
-_cast: ["Dakota Johnson", "Jamie Dornan", "Jennifer Ehle", "Eloise Mumford", "Victor Rasuk", "Luke Grimes", "Marcia Gay Harden", "Rita Ora", "Max Martini", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Anne V. Coates", "Lisa Gunning", "Debra Neil-Fisher", ]
-_cinematographer: ["Seamus McGarvey", ]
-_music: ["Danny Elfman", ]
-_genres: ["Drama", ]
-_runtimes: ["125", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjE1MTM4NDAzOF5BMl5BanBnXkFtZTgwNTMwNjI0MzE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjE1MTM4NDAzOF5BMl5BanBnXkFtZTgwNTMwNjI0MzE@._V1._SX88_SY140_.jpg"
+desc: "Cinquenta Tons de Cinza. Fifty Shades of Grey (USA, 2015). Dirigido por Sam Taylor-Johnson. Escrito por Kelly Marcel, E.L. James. Com Dakota Johnson, Jamie Dornan, Jennifer Ehle, Eloise Mumford, Victor Rasuk, Luke Grimes, Marcia Gay Harden, Rita Ora, Max Martini."
 ---
 Anastasia e Christian Grey. Esses nomes serão difíceis de esquecer, já que são repetidos muitas vezes em Cinquenta Tons de Cinza, cujo título remete ao personagem de Mr. Grey, "cinza" em inglês, um trocadilho que foi perdido na tradução do Brasil. Se pelo menos tivessem usado a mesma estratégia de Metastasis, uma série-remake versão latina da norte-americana Breaking Bad, que rebatiza seus personagens para que mantenham os nomes e cores, talvez pudessem extravasar o lado cômico e leve deste filme que, por mais roupas sendo arrancadas e chicotes sendo levantados por minuto, continua sendo uma trivialidade para países menos puritanos.
 

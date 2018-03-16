@@ -1,25 +1,10 @@
 ---
-date: "2012-04-02"
 imdb: "0278504"
+date: "2012-04-02"
+categories: "movies"
 title: "Insônia"
 stars: "5/5"
-categories: "movies"
-_title: "Insomnia"
-_year: "2002"
-_director: ["Christopher Nolan", ]
-_writer: ["Hillary Seitz", "Nikolaj Frobenius", "Erik Skjoldbjærg", ]
-_cast: ["Al Pacino", "Martin Donovan", "Oliver 'Ole' Zemen", "Hilary Swank", "Paul Dooley", "Nicky Katt", "Larry Holden", "Jay Brazeau", "Lorne Cardinal", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Dody Dorn", ]
-_cinematographer: ["Wally Pfister", ]
-_music: ["David Julyan", ]
-_genres: ["Mystery", ]
-_runtimes: ["118", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTM5Nzk2NDY3MF5BMl5BanBnXkFtZTgwMzI5MDgxMTE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTM5Nzk2NDY3MF5BMl5BanBnXkFtZTgwMzI5MDgxMTE@._V1._SX93_SY140_.jpg"
+desc: "Insônia. Insomnia (USA, 2002). Dirigido por Christopher Nolan. Escrito por Hillary Seitz, Nikolaj Frobenius, Erik Skjoldbjærg. Com Al Pacino, Martin Donovan, Oliver 'Ole' Zemen, Hilary Swank, Paul Dooley, Nicky Katt, Larry Holden, Jay Brazeau, Lorne Cardinal."
 ---
 Em um momento em que Holliwood se esqueceu que os bons policiais/suspenses quase sempre vem dotados de uma carga dramática e multidimencional em seus personagens, o segundo trabalho de Christopher Nolan na direção vem lembrar aos cinéfilos que é possível construir uma narrativa inteligente e ainda assim ser envolvente pela sua ação.
 

@@ -1,25 +1,10 @@
 ---
-date: "2015-06-26"
 imdb: "0138704"
-stars: "4/5"
+date: "2015-06-26"
 categories: "movies"
 title: "Pi"
-_title: "Pi"
-_year: "1998"
-_director: ["Darren Aronofsky", ]
-_writer: ["Darren Aronofsky", "Darren Aronofsky", "Sean Gullette", "Eric Watson", "Darren Aronofsky", "Sean Gullette", ]
-_cast: ["Sean Gullette", "Mark Margolis", "Ben Shenkman", "Pamela Hart", "Stephen Pearlman", "Samia Shoaib", "Ajay Naidu", "Kristyn Mae-Anne Lao", "Espher Lao Nieves", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Oren Sarch", ]
-_cinematographer: ["Matthew Libatique", ]
-_music: ["Clint Mansell", ]
-_genres: ["Drama", ]
-_runtimes: ["84", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTEwNzk1MDE0NDBeQTJeQWpwZ15BbWU4MDkwNTM5MjEx.jpg"
-_ratio: "1.66 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTEwNzk1MDE0NDBeQTJeQWpwZ15BbWU4MDkwNTM5MjEx._V1._SX93_SY140_.jpg"
+stars: "4/5"
+desc: "Pi. Pi (USA, 1998). Dirigido por Darren Aronofsky. Escrito por Darren Aronofsky, Darren Aronofsky, Sean Gullette, Eric Watson, Darren Aronofsky, Sean Gullette. Com Sean Gullette, Mark Margolis, Ben Shenkman, Pamela Hart, Stephen Pearlman, Samia Shoaib, Ajay Naidu, Kristyn Mae-Anne Lao, Espher Lao Nieves."
 ---
 Pi é uma viagem quase psicodélica ao âmago da questão: a linguagem do Universo é a Matemática. Extrapolando isso, mas ao mesmo tempo mantendo o suspense de que isso poderia ser real, enxergamos a insanidade através das lentes P&B saturadas de uma luta interminável entre fé, conhecimento e a pura ganância.
 

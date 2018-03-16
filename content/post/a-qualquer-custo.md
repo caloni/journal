@@ -1,28 +1,11 @@
 ---
+tags: ['cabine', 'oscar']
+imdb: "2582782"
 date: "2016-12-08"
 categories: "movies"
 title: "A Qualquer Custo"
-imdb: "2582782"
 stars: "5/5"
-tags: ['cabine', 'oscar']
-_title: "Hell or High Water"
-_year: "2016"
-_director: ["David Mackenzie", ]
-_writer: ["Taylor Sheridan", ]
-_cast: ["Dale Dickey (Elsie)", "Ben Foster (Tanner Howard)", "Chris Pine (Toby Howard)", "William Sterchi (Mr. Clauson)", "Buck Taylor (Old Man)", "Kristin Berg (Olney Teller)", "Jeff Bridges (Marcus Hamilton)", "Gil Birmingham (Alberto Parker)", "Jackamoe Buzzell (Archer City Deputy)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Jake Roberts", ]
-_cinematographer: ["Giles Nuttgens", ]
-_music: ["Nick Cave", "Warren Ellis", ]
-_artdirection: ["Steve Cooper", ]
-_costume designer: ["Malgosia Turzanska", ]
-_genres: ["Crime", ]
-_runtimes: ["102", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg4NDA1OTA5NF5BMl5BanBnXkFtZTgwMDQ2MDM5ODE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg4NDA1OTA5NF5BMl5BanBnXkFtZTgwMDQ2MDM5ODE@._V1._SX94_SY140_.jpg"
+desc: "A Qualquer Custo. Hell or High Water (USA, 2016). Dirigido por David Mackenzie. Escrito por Taylor Sheridan. Com Dale Dickey (Elsie), Ben Foster (Tanner Howard), Chris Pine (Toby Howard), William Sterchi (Mr. Clauson), Buck Taylor (Old Man), Kristin Berg (Olney Teller), Jeff Bridges (Marcus Hamilton), Gil Birmingham (Alberto Parker), Jackamoe Buzzell (Archer City Deputy)."
 ---
 Este é um filme texano no sentido mais texano da palavra. Ele exibe contemporaneidade usando a crise de 2008 como pano de fundo de uma dupla de irmãos que trazem de volta o fantasma de Bonnie e Clyde em um formato totalmente novo, mas realista, intenso e dramático. Tudo isso em um policial dos bons, que usa a ação a seu favor e que ainda se beneficia pela presença de Jeff Bridges, que cria personagens paradoxais a cada filme que participa.
 

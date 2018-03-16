@@ -1,24 +1,10 @@
 ---
-date: "2013-02-05"
 imdb: "1853728"
+date: "2013-02-05"
+categories: "movies"
 title: "Django Livre"
 stars: "4/5"
-categories: "movies"
-_title: "Django Unchained"
-_year: "2012"
-_director: ["Quentin Tarantino", ]
-_writer: ["Quentin Tarantino", ]
-_cast: ["Jamie Foxx", "Christoph Waltz", "Leonardo DiCaprio", "Kerry Washington", "Samuel L. Jackson", "Walton Goggins", "Dennis Christopher", "James Remar", "David Steen", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Fred Raskin", ]
-_cinematographer: ["Robert Richardson", ]
-_genres: ["Western", ]
-_runtimes: ["165", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1._SX94_SY140_.jpg"
+desc: "Django Livre. Django Unchained (USA, 2012). Dirigido por Quentin Tarantino. Escrito por Quentin Tarantino. Com Jamie Foxx, Christoph Waltz, Leonardo DiCaprio, Kerry Washington, Samuel L. Jackson, Walton Goggins, Dennis Christopher, James Remar, David Steen."
 ---
 Django Livre é divertido moderadamente e possui um conteúdo pseudo-histórico de impacto que faz jus aos bons faroestes. Quentin Tarantino poderia ter futuramente  caso conseguisse controlar seu gigantesco ego  a mesma habilidade e maestria na direção que tornou Sergio Leone conhecido para sempre na história do Cinema.
 

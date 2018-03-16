@@ -1,26 +1,11 @@
 ---
-date: "2011-09-11"
 imdb: "1235841"
-revision: [2013-12-30]
+date: "2011-09-11"
+categories: "movies"
 title: "Medianeras Buenos Aires da Era do Amor Virtual"
 stars: "3/5"
-categories: "movies"
-_title: "Medianeras"
-_year: "2011"
-_director: ["Gustavo Taretto", ]
-_writer: ["Gustavo Taretto", ]
-_cast: ["Javier Drolas", "Pilar López de Ayala", "Inés Efron", "Adrián Navarro", "Rafael Ferro", "Carla Peterson", "Jorge Lanata", "Alan Pauls", "Romina Paula", ]
-_countries: ["Argentina", ]
-_languages: ["Spanish", ]
-_editor: ["Pablo Mari", "Rosario Suárez", ]
-_cinematographer: ["Leandro Martínez", ]
-_music: ["Gabriel Chwojnik", ]
-_genres: ["Comedy", ]
-_runtimes: ["95", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTc5NDQ1NzA1Ml5BMl5BanBnXkFtZTcwNzAyNTM5Ng@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTc5NDQ1NzA1Ml5BMl5BanBnXkFtZTcwNzAyNTM5Ng@@._V1._SX100_SY139_.jpg"
+revision: [datetime.date(2013, 12, 30)]
+desc: "Medianeras Buenos Aires da Era do Amor Virtual. Medianeras (Argentina, 2011). Dirigido por Gustavo Taretto. Escrito por Gustavo Taretto. Com Javier Drolas, Pilar López de Ayala, Inés Efron, Adrián Navarro, Rafael Ferro, Carla Peterson, Jorge Lanata, Alan Pauls, Romina Paula."
 ---
 Estreia de Gustavo Taretto na direção de longas, Medianeras inicia já com uma proposta criativa e que funciona muito bem: com dois narradores em off, temos a impressão de assistir a dois filmes interlaçados que aos poucos se aproximam, o que por si só já revela muito sobre as ideias por trás da história. 
 

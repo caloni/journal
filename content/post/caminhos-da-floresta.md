@@ -1,25 +1,10 @@
 ---
-date: "2015-05-11"
 imdb: "2180411"
-stars: "2/5"
+date: "2015-05-11"
 categories: "movies"
 title: "Caminhos da Floresta"
-_title: "Into the Woods"
-_year: "2014"
-_director: ["Rob Marshall", ]
-_writer: ["James Lapine", "James Lapine", "Stephen Sondheim", ]
-_cast: ["Anna Kendrick", "Daniel Huttlestone", "James Corden", "Emily Blunt", "Christine Baranski", "Tammy Blanchard", "Lucy Punch", "Tracey Ullman", "Lilla Crawford", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Wyatt Smith", ]
-_cinematographer: ["Dion Beebe", ]
-_music: ["Stephen Sondheim", ]
-_genres: ["Adventure", ]
-_runtimes: ["125", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTY4MzQ4OTY3NF5BMl5BanBnXkFtZTgwNjM5MDI3MjE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTY4MzQ4OTY3NF5BMl5BanBnXkFtZTgwNjM5MDI3MjE@._V1._SX94_SY140_.jpg"
+stars: "2/5"
+desc: "Caminhos da Floresta. Into the Woods (USA, 2014). Dirigido por Rob Marshall. Escrito por James Lapine, James Lapine, Stephen Sondheim. Com Anna Kendrick, Daniel Huttlestone, James Corden, Emily Blunt, Christine Baranski, Tammy Blanchard, Lucy Punch, Tracey Ullman, Lilla Crawford."
 ---
 Eu não gostava de musicais, mas aprendi a gostar através de trabalhos fabulosos do gênero, como Noviça Rebelde e Moulin Rouge. Também posso dizer que gosto de trabalhos menos fabulosos como Chicago. Agora, do mesmo diretor, Rob Marshall, esse Into the Woods mostra claramente quando um musical deixa de ser um filme aceitável: quando se torna insuportável a ideia de mais algum ator cantando.
 

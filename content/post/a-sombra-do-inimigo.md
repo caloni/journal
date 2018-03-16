@@ -1,25 +1,10 @@
 ---
-date: "2012-12-22"
 imdb: "1712170"
+date: "2012-12-22"
+categories: "movies"
 title: "A Sombra do Inimigo"
 stars: "1/5"
-categories: "movies"
-_title: "Alex Cross"
-_year: "2012"
-_director: ["Rob Cohen", ]
-_writer: ["Marc Moss", "Kerry Williamson", "James Patterson", ]
-_cast: ["Tyler Perry", "Edward Burns", "Matthew Fox", "Jean Reno", "Carmen Ejogo", "Cicely Tyson", "Rachel Nichols", "John C. McGinley", "Werner Daehn", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Matt Diezel", "Thom Noble", ]
-_cinematographer: ["Ricardo Della Rosa", ]
-_music: ["John Debney", ]
-_genres: ["Action", ]
-_runtimes: ["101", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjE1MDE0NjUyMV5BMl5BanBnXkFtZTcwNjQzNjg5Nw@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjE1MDE0NjUyMV5BMl5BanBnXkFtZTcwNjQzNjg5Nw@@._V1._SX94_SY140_.jpg"
+desc: "A Sombra do Inimigo. Alex Cross (USA, 2012). Dirigido por Rob Cohen. Escrito por Marc Moss, Kerry Williamson, James Patterson. Com Tyler Perry, Edward Burns, Matthew Fox, Jean Reno, Carmen Ejogo, Cicely Tyson, Rachel Nichols, John C. McGinley, Werner Daehn."
 ---
 Alex Cross, aqui chamado de A Sombra do Inimigo, é daqueles filmes que apostam em sua própria esperteza. Como não poderia deixar de ser, cai em sua própria auto-indulgência e como consequência é incapaz sequer de trilhar uma narrativa decente que nos faça acompanhar o drama vivido pelo seu personagem-título.
 

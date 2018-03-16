@@ -1,28 +1,11 @@
 ---
+tags: ['paulocoelho']
+imdb: "3531824"
 date: "2016-11-17"
 categories: "movies"
 title: "Nerve: Um Jogo Sem Regras"
-imdb: "3531824"
 stars: "2/5"
-tags: ['paulocoelho']
-_title: "Nerve"
-_year: "2016"
-_director: ["Henry Joost", "Ariel Schulman", ]
-_writer: ["Jeanne Ryan", "Jessica Sharzer", ]
-_cast: ["Emma Roberts (Vee)", "Dave Franco (Ian)", "Emily Meade (Sydney)", "Miles Heizer (Tommy)", "Juliette Lewis (Nancy)", "Kimiko Glenn (Liv)", "Marc John Jefferies (Wes)", "Machine Gun Kelly (Ty)", "Brian 'Sene' Marc (J.P.)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Madeleine Gavin", "Jeff McEvoy", ]
-_cinematographer: ["Michael Simmonds", ]
-_music: ["Rob Simonsen", ]
-_artdirection: ["Marc Benacerraf", ]
-_costume designer: ["Melissa Vargas", ]
-_genres: ["Adventure", ]
-_runtimes: ["96", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUzOTg1OTM4NV5BMl5BanBnXkFtZTgwMTg2Mjg0OTE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUzOTg1OTM4NV5BMl5BanBnXkFtZTgwMTg2Mjg0OTE@._V1._SX91_SY140_.jpg"
+desc: "Nerve: Um Jogo Sem Regras. Nerve (USA, 2016). Dirigido por Henry Joost, Ariel Schulman. Escrito por Jeanne Ryan, Jessica Sharzer. Com Emma Roberts (Vee), Dave Franco (Ian), Emily Meade (Sydney), Miles Heizer (Tommy), Juliette Lewis (Nancy), Kimiko Glenn (Liv), Marc John Jefferies (Wes), Machine Gun Kelly (Ty), Brian 'Sene' Marc (J.P.)."
 ---
 Black Mirror é uma série que realiza com sucesso uma crítica à tecnologia atual e em um futuro próximo (e talvez distópico). E ela faz isso em episódios de uma hora, que de acordo com alguns espectadores da Netflix, é "tempo demais para contar uma história tão simples". Pois bem. Nerve vem à tona como uma versão para jovens em um longa metragem que tem tempo demais de tela para uma história boba e imprevisível porque, no fundo, ninguém se importa com o destino de seus rasos personagens.
 

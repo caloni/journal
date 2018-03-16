@@ -1,29 +1,11 @@
 ---
-imdb: "0458352"
-stars: "5/5"
 tags: ['paulocoelho']
+imdb: "0458352"
 date: 2017-10-21T20:36:04
-title: "O Diabo Veste Prada"
 categories: "movies"
-_title: "The Devil Wears Prada"
-_year: "2006"
-_director: ["David Frankel", ]
-_writer: ["Aline Brosh McKenna", "Lauren Weisberger", ]
-_cast: ["Meryl Streep (Miranda Priestly)", "Anne Hathaway (Andy Sachs)", "Emily Blunt (Emily)", "Stanley Tucci (Nigel)", "Simon Baker (Christian Thompson)", "Adrian Grenier (Nate)", "Tracie Thoms (Lily)", "Rich Sommer (Doug)", "Daniel Sunjata (James Holt)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Mark Livolsi", ]
-_cinematographer: ["Florian Ballhaus", ]
-_music: ["Theodore Shapiro", ]
-_artdirection: ["Tom Warren", ]
-_costume designer: ["Patricia Field", ]
-_genres: ["Comedy", ]
-_runtimes: ["109", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTMyNjk4Njc3NV5BMl5BanBnXkFtZTcwNDkyMTEzMw@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTMyNjk4Njc3NV5BMl5BanBnXkFtZTcwNDkyMTEzMw@@._V1._SX92_SY140_.jpg"
-_releasedate: "22 September 2006"
+title: "O Diabo Veste Prada"
+stars: "5/5"
+desc: "O Diabo Veste Prada. The Devil Wears Prada (USA, 2006). Dirigido por David Frankel. Escrito por Aline Brosh McKenna, Lauren Weisberger. Com Meryl Streep (Miranda Priestly), Anne Hathaway (Andy Sachs), Emily Blunt (Emily), Stanley Tucci (Nigel), Simon Baker (Christian Thompson), Adrian Grenier (Nate), Tracie Thoms (Lily), Rich Sommer (Doug), Daniel Sunjata (James Holt)."
 ---
 Meryl Streep em um dos melhores papéis de sua carreira (o que não é pouca coisa). Olhe sua entonação entediada, sem levantar a voz, sem sequer olhar para os olhos de seus funcionários. Olhe como enumera de maneira apática e precisa de onde veio o azul que sua nova secretária está usando. O azul dela tem um nome específico, a secretária não se liga pra moda, e Streep simplesmente a coloca em seu lugar.
 

@@ -1,25 +1,10 @@
 ---
-date: "2013-11-28"
 imdb: "0811080"
+date: "2013-11-28"
+categories: "movies"
 title: "Speed Racer"
 stars: "5/5"
-categories: "movies"
-_title: "Speed Racer"
-_year: "2008"
-_director: ["Andy Wachowski", "Lana Wachowski", ]
-_writer: ["Andy Wachowski", "Lana Wachowski", "Tatsuo Yoshida", ]
-_cast: ["Emile Hirsch", "Nicholas Elia", "Susan Sarandon", "Melissa Holroyd", "Ariel Winter", "Scott Porter", "Gian Ganziano", "Peter Fernandez", "Harvey Friedman", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Roger Barton", "Zach Staenberg", ]
-_cinematographer: ["David Tattersall", ]
-_music: ["Michael Giacchino", ]
-_genres: ["Action", ]
-_runtimes: ["135", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTA5MjgxMDE4OTVeQTJeQWpwZ15BbWU3MDgyNjc4NjE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTA5MjgxMDE4OTVeQTJeQWpwZ15BbWU3MDgyNjc4NjE@._V1._SX95_SY140_.jpg"
+desc: "Speed Racer. Speed Racer (USA, 2008). Dirigido por Andy Wachowski, Lana Wachowski. Escrito por Andy Wachowski, Lana Wachowski, Tatsuo Yoshida. Com Emile Hirsch, Nicholas Elia, Susan Sarandon, Melissa Holroyd, Ariel Winter, Scott Porter, Gian Ganziano, Peter Fernandez, Harvey Friedman."
 ---
 Speed Racer está para os animes infantis assim como Scott Pilgrim está para o mundo dos vídeogames: dois filmes que homenageiam seu universo abraçando-o sem limites e que por isso são rechaçados pelo público em geral. Uma linguagem tão inovadora pode causar medo e desconforto, mas é o ponto de virada de todo cinéfilo que se preze e que que deseja sentir mais pelos filmes que assiste.
 

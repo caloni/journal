@@ -1,25 +1,10 @@
 ---
-date: "2015-07-20"
 imdb: "2027140"
-stars: "5/5"
+date: "2015-07-20"
 categories: "movies"
 title: "A Espuma dos Dias"
-_title: "L'écume des jours"
-_year: "2013"
-_director: ["Michel Gondry", ]
-_writer: ["Michel Gondry", "Luc Bossi", "Boris Vian", ]
-_cast: ["Romain Duris", "Audrey Tautou", "Gad Elmaleh", "Omar Sy", "Aïssa Maïga", "Charlotte Le Bon", "Sacha Bourdo", "Vincent Rottiers", "Philippe Torreton", ]
-_countries: ["France", ]
-_languages: ["French", ]
-_editor: ["Marie-Charlotte Moreau", ]
-_cinematographer: ["Christophe Beaucarne", ]
-_music: ["Étienne Charry", ]
-_genres: ["Comedy", ]
-_runtimes: ["131", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjk0OTU1MzM2Nl5BMl5BanBnXkFtZTgwNzY4MjQ4MTE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjk0OTU1MzM2Nl5BMl5BanBnXkFtZTgwNzY4MjQ4MTE@._V1._SX96_SY140_.jpg"
+stars: "5/5"
+desc: "A Espuma dos Dias. L'écume des jours (France, 2013). Dirigido por Michel Gondry. Escrito por Michel Gondry, Luc Bossi, Boris Vian. Com Romain Duris, Audrey Tautou, Gad Elmaleh, Omar Sy, Aïssa Maïga, Charlotte Le Bon, Sacha Bourdo, Vincent Rottiers, Philippe Torreton."
 ---
 Imagine que o mundo real foi invadido pela física (e a lógica) dos desenhos de animação no seu sentido mais bucólico. Onde a paixão é o suficiente para desenrolar qualquer novo relacionamento, e a dança é o suficiente para alterar as paredes de um quarto. Imagine, enfim, que estamos em um filme completamente tomado pelas loucuras inventivas de Michel Gondry.
 

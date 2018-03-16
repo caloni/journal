@@ -1,25 +1,10 @@
 ---
-date: "2013-11-16"
 imdb: "0093748"
+date: "2013-11-16"
+categories: "movies"
 title: "Antes Só do que Mal Acompanhado"
 stars: "5/5"
-categories: "movies"
-_title: "Planes, Trains & Automobiles"
-_year: "1987"
-_director: ["John Hughes", ]
-_writer: ["John Hughes", ]
-_cast: ["Steve Martin", "John Candy", "Laila Robins", "Michael McKean", "Dylan Baker", "Carol Bruce", "Olivia Burnette", "Diana Douglas", "Martin Ferrero", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Paul Hirsch", ]
-_cinematographer: ["Donald Peterman", ]
-_music: ["Ira Newborn", ]
-_genres: ["Comedy", ]
-_runtimes: ["93", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjE4MzI2MTY5MF5BMl5BanBnXkFtZTcwOTY2NTA0OQ@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjE4MzI2MTY5MF5BMl5BanBnXkFtZTcwOTY2NTA0OQ@@._V1._SX93_SY140_.jpg"
+desc: "Antes Só do que Mal Acompanhado. Planes, Trains & Automobiles (USA, 1987). Dirigido por John Hughes. Escrito por John Hughes. Com Steve Martin, John Candy, Laila Robins, Michael McKean, Dylan Baker, Carol Bruce, Olivia Burnette, Diana Douglas, Martin Ferrero."
 ---
 Filmes do John Hughes animavam a sessão da tarde com suas comédias fáceis e leves, mas sempre escondiam uma sub-trama sutil que, revisitada, constituía o conteúdo que o torna tão imortal. Em "Antes Só do Que Mal Acompanhado" é a amizade, empatia, compaixão, ou tudo isso junto, que forma a base da narrativa tão coesa da história de um homem tentando voltar para casa e sua família em um momento especial. O que ele encontra pelo caminho é um pacote de infortúnios, embalado por um estranho que cai em sua vida de para-quedas e não consegue mais sair desde então. Quais são as mensagens que esse estranho tem sobre todos esses sentimentos que citei no início?
 

@@ -1,25 +1,10 @@
 ---
-date: "2012-04-04"
 imdb: "1440266"
+date: "2012-04-04"
+categories: "movies"
 title: "Pina"
 stars: "5/5"
-categories: "movies"
-_title: "Pina"
-_year: "2011"
-_director: ["Wim Wenders", ]
-_writer: ["Wim Wenders", ]
-_cast: ["Regina Advento", "Malou Airaudo", "Ruth Amarante", "Jorge Puerta", "Pina Bausch", "Rainer Behr", "Andrey Berezin", "Damiano Ottavio Bigi", "Bénédicte Billet", ]
-_countries: ["Germany", ]
-_languages: ["German", ]
-_editor: ["Toni Froschhammer", ]
-_cinematographer: ["Hélène Louvart", "Jörg Widmer", ]
-_music: ["Thom", ]
-_genres: ["Documentary", ]
-_runtimes: ["USA:103", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTMyMTI1NDA5MV5BMl5BanBnXkFtZTcwNzM1NTY5Ng@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTMyMTI1NDA5MV5BMl5BanBnXkFtZTcwNzM1NTY5Ng@@._V1._SX94_SY140_.jpg"
+desc: "Pina. Pina (Germany, 2011). Dirigido por Wim Wenders. Escrito por Wim Wenders. Com Regina Advento, Malou Airaudo, Ruth Amarante, Jorge Puerta, Pina Bausch, Rainer Behr, Andrey Berezin, Damiano Ottavio Bigi, Bénédicte Billet."
 ---
 Nada como diretores como Wim Wenders e Martin Scorsese para resgatar a esperança do Cinema no 3D. Inicialmente usado para aumentar o rendimento das bilheterias e forçar o espectador a ir às salas ver algo que não poderia ver em sua própria casa, o 3D foi massacrado inúmeras vezes em seus primeiros anos, ou com brincadeiras adolescentes de jogar objetos na "cara" do espectador ou com as terríveis versões convertidas. Agora, aos poucos, diretores que conhecem Cinema em sua essência se arriscam a experimentar novos caminhos para a Sétima Arte, e quem ganha com isso obviamente somos nós, cinéfilos.
 

@@ -1,25 +1,10 @@
 ---
-date: "2011-08-14"
 imdb: "1046173"
+date: "2011-08-14"
+categories: "movies"
 title: "G.I. Joe A Origem de Cobra"
 stars: "1/5"
-categories: "movies"
-_title: "G.I. Joe: The Rise of Cobra"
-_year: "2009"
-_director: ["Stephen Sommers", ]
-_writer: ["Stuart Beattie", "David Elliot", "Paul Lovett", "Michael Gordon", "Stuart Beattie", "Stephen Sommers", ]
-_cast: ["Adewale Akinnuoye-Agbaje", "Christopher Eccleston", "Grégory Fitoussi", "Joseph Gordon-Levitt", "Leo Howard", "Karolina Kurkova", "Byung-hun Lee", "Sienna Miller", "David Murray", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Bob Ducsay", "Jim May", "Kelly Matsumoto", ]
-_cinematographer: ["Mitchell Amundsen", ]
-_music: ["Alan Silvestri", ]
-_genres: ["Action", ]
-_runtimes: ["118", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQzMTU1NzQwNl5BMl5BanBnXkFtZTcwNDg4NzMzMw@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQzMTU1NzQwNl5BMl5BanBnXkFtZTcwNDg4NzMzMw@@._V1._SX94_SY140_.jpg"
+desc: "G.I. Joe A Origem de Cobra. G.I. Joe: The Rise of Cobra (USA, 2009). Dirigido por Stephen Sommers. Escrito por Stuart Beattie, David Elliot, Paul Lovett, Michael Gordon, Stuart Beattie, Stephen Sommers. Com Adewale Akinnuoye-Agbaje, Christopher Eccleston, Grégory Fitoussi, Joseph Gordon-Levitt, Leo Howard, Karolina Kurkova, Byung-hun Lee, Sienna Miller, David Murray."
 ---
 G.I. Joe é um filme tão ruim assim como muitos têm falado? Talvez sim. O fato é que, baseado em uma franquia de action figure produzida pela empresa de brinquedos Hasbro (e vendido no Brasil sob o codinome Comandos em Ação), o filme tenta se firmar nessa superfície frágil e infantil usando conceitos mais infantis ainda que acabam por estabelecer relações entre os personagens absurdamente ilógicas e pedestres.
 

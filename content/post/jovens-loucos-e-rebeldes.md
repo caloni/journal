@@ -1,27 +1,11 @@
 ---
+tags: ['paulocoelho']
+imdb: "0106677"
 date: "2016-09-09"
 categories: "movies"
 title: "Jovens, Loucos e Rebeldes"
-imdb: "0106677"
 stars: "5/5"
-tags: ['paulocoelho']
-_title: "Dazed and Confused"
-_year: "1993"
-_director: ["Richard Linklater", ]
-_writer: ["Richard Linklater", ]
-_cast: ["Jason London", "Joey Lauren Adams", "Milla Jovovich", "Shawn Andrews", "Rory Cochrane", "Adam Goldberg", "Anthony Rapp", "Sasha Jenson", "Marissa Ribisi", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Sandra Adair", ]
-_cinematographer: ["Lee Daniel", ]
-_artdirection: ["Jenny C. Patrick", ]
-_costume designer: ["Katherine Dover", ]
-_genres: ["Comedy", ]
-_runtimes: ["102", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTM5MDY5MDQyOV5BMl5BanBnXkFtZTgwMzM3NzMxMDE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTM5MDY5MDQyOV5BMl5BanBnXkFtZTgwMzM3NzMxMDE@._V1._SX94_SY140_.jpg"
+desc: "Jovens, Loucos e Rebeldes. Dazed and Confused (USA, 1993). Dirigido por Richard Linklater. Escrito por Richard Linklater. Com Jason London, Joey Lauren Adams, Milla Jovovich, Shawn Andrews, Rory Cochrane, Adam Goldberg, Anthony Rapp, Sasha Jenson, Marissa Ribisi."
 ---
 Este é o filme de uma geração de Richard Linklater (Trilogia do Antes, Boyhood), um de seus primeiros, de 1993. Ele conta com um elenco de desconhecidos, onde alguns irá começar a ser mais conhecido. Ele conta uma história simples, que evoca o naturalismo, mas que contém tensão o suficiente para entreter. E ele contém o mais importante: a empatia do público que sabe como é ser jovem, como é experimentar coisas novas e sabe como é estar naquele momento mágico, vivenciando tudo isso, tendo toda a vida pela frente.
 

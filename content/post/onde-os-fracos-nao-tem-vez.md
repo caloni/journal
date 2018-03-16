@@ -1,25 +1,10 @@
 ---
-date: "2014-03-04"
 imdb: "0477348"
+date: "2014-03-04"
+categories: "movies"
 title: "Onde os Fracos não Têm Vez"
 stars: "4/5"
-categories: "movies"
-_title: "No Country for Old Men"
-_year: "2007"
-_director: ["Ethan Coen", "Joel Coen", ]
-_writer: ["Joel Coen", "Ethan Coen", "Cormac McCarthy", ]
-_cast: ["Tommy Lee Jones", "Javier Bardem", "Josh Brolin", "Woody Harrelson", "Kelly Macdonald", "Garret Dillahunt", "Tess Harper", "Barry Corbin", "Stephen Root", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Ethan Coen", "Joel Coen", ]
-_cinematographer: ["Roger Deakins", ]
-_music: ["Carter Burwell", ]
-_genres: ["Crime", ]
-_runtimes: ["122", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1._SX95_SY140_.jpg"
+desc: "Onde os Fracos não Têm Vez. No Country for Old Men (USA, 2007). Dirigido por Ethan Coen, Joel Coen. Escrito por Joel Coen, Ethan Coen, Cormac McCarthy. Com Tommy Lee Jones, Javier Bardem, Josh Brolin, Woody Harrelson, Kelly Macdonald, Garret Dillahunt, Tess Harper, Barry Corbin, Stephen Root."
 ---
 Deve existir um "bug" ou chip implantado na maioria dos críticos para que estes adorem filmes que se preocupam milimetricamente em realizar a experiência mais real possível, ainda que estes estejam equipados de fotografia, figurino, direção de arte e roteiro. Isso poderia explicar a veneração quase que incondicional de certas obras, como O Som ao Redor (Kleber Mendonça Filho, 2012), Amor (Michael Haneke, 2012) e este Onde os Fracos Não Têm Vez, dos irmãos Coen, os mesmos que já haviam realizado Fargo e cuja existência não pode passar em branco ao analisarmos seu filme gêmeo.
 

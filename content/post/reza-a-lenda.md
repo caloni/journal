@@ -1,26 +1,10 @@
 ---
-date: "2016-02-06"
 imdb: "5026038"
-stars: "4/5"
+date: "2016-02-06"
 categories: "movies"
 title: "Reza a Lenda"
-_title: "Reza a Lenda"
-_year: "2016"
-_director: ["Homero Olivetto", ]
-_writer: ["Homero Olivetto", "Patrícia Andrade", "Newton Cannito", "Homero Olivetto", ]
-_cast: ["Cauã Reymond", "Humberto Martins", "Sophie Charlotte", "Luisa Arraes", "Júlio Andrade", "Sílvia Buarque", "Jesuíta Barbosa", "Nanego Lira", "Zezita Matos", ]
-_countries: ["Brazil", ]
-_languages: ["Portuguese", ]
-_editor: ["Manga Campion", "Marcio Canella", ]
-_cinematographer: ["Marcelo Corpanni", ]
-_music: ["Rica Amabis", "Tejo Damasceno", ]
-_costume designer: ["Cássio Brasil", ]
-_genres: ["Action", ]
-_runtimes: ["87", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjU3MTA0NzcwMV5BMl5BanBnXkFtZTgwNzA1MzYwNzE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjU3MTA0NzcwMV5BMl5BanBnXkFtZTgwNzA1MzYwNzE@._V1._SX96_SY140_.jpg"
+stars: "4/5"
+desc: "Reza a Lenda. Reza a Lenda (Brazil, 2016). Dirigido por Homero Olivetto. Escrito por Homero Olivetto, Patrícia Andrade, Newton Cannito, Homero Olivetto. Com Cauã Reymond, Humberto Martins, Sophie Charlotte, Luisa Arraes, Júlio Andrade, Sílvia Buarque, Jesuíta Barbosa, Nanego Lira, Zezita Matos."
 ---
 Esse filme é um faroeste brasileiro, e não "o Mad Max brasileiro", como queria seu idealizador, o diretor Homero Olivetto. Ancorado em uma lenda onde uma santa, se colocada no lugar correto, faria chover na desértica caatinga nordestina, a história de Ara (Cauã Reymond) e sua gangue contra o coronel/político Tenório (Humberto Martins) é montada em cima de um filme lento e arrastado que se cobre de clichês nacionais -- como mulheres em cenas de nudez e sexo, e uma donzela em perigo sem ter muito a oferecer. 
 

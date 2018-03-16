@@ -1,24 +1,11 @@
 ---
-date: "2016-03-07"
-tags: [ "cabine" ]
+tags: ['cabine']
 imdb: "3712088"
-stars: "3/5"
+date: "2016-03-07"
 categories: "movies"
 title: "Astrágalo"
-_title: "L'astragale"
-_year: "2015"
-_director: ["Brigitte Sy", ]
-_writer: ["Serge Le Péron", "Albertine Sarrazin", "Brigitte Sy", ]
-_cast: ["Leïla Bekhti", "Reda Kateb", "Esther Garrel", "Jocelyne Desverchère", "India Hair", "Jean-Charles Dumay", "Jean-Benoît Ugeux", "Delphine Chuillot", "Zimsky", ]
-_countries: ["France", ]
-_languages: ["French", ]
-_editor: ["Julie Dupré", ]
-_cinematographer: ["Frédéric Serve", ]
-_costume designer: ["Françoise Arnaud", ]
-_genres: ["Drama", ]
-_runtimes: ["96", ]
-_ratio: "2.35 : 1"
-_kind: "movie"
+stars: "3/5"
+desc: "Astrágalo. L'astragale (France, 2015). Dirigido por Brigitte Sy. Escrito por Serge Le Péron, Albertine Sarrazin, Brigitte Sy. Com Leïla Bekhti, Reda Kateb, Esther Garrel, Jocelyne Desverchère, India Hair, Jean-Charles Dumay, Jean-Benoît Ugeux, Delphine Chuillot, Zimsky."
 ---
 Astrágalo é uma experiência desgastante, mesmo tendo pouco mais de uma hora e meia. Não é possível que um filme com tantas cenas belíssimas conseguisse se tornar enfadonho em dois ou três momentos. Talvez seja isso o que sua protagonista estivesse sentindo na hora.
 

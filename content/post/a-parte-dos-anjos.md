@@ -1,25 +1,10 @@
 ---
-date: "2013-04-01"
 imdb: "1924394"
+date: "2013-04-01"
+categories: "movies"
 title: "A Parte dos Anjos"
 stars: "3/5"
-categories: "movies"
-_title: "The Angels' Share"
-_year: "2012"
-_director: ["Ken Loach", ]
-_writer: ["Paul Laverty", ]
-_cast: ["Paul Brannigan", "Siobhan Reilly", "John Henshaw", "Gary Maitland", "William Ruane", "Jasmin Riggins", "Scott Dymond", "Scott Kyle", "Neil Leiper", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Jonathan Morris", ]
-_cinematographer: ["Robbie Ryan", ]
-_music: ["George Fenton", ]
-_genres: ["Comedy", ]
-_runtimes: ["101", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNzQ0MTg1MzI0Ml5BMl5BanBnXkFtZTcwNDA0MTcyOQ@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNzQ0MTg1MzI0Ml5BMl5BanBnXkFtZTcwNDA0MTcyOQ@@._V1._SX100_SY140_.jpg"
+desc: "A Parte dos Anjos. The Angels' Share (UK, 2012). Dirigido por Ken Loach. Escrito por Paul Laverty. Com Paul Brannigan, Siobhan Reilly, John Henshaw, Gary Maitland, William Ruane, Jasmin Riggins, Scott Dymond, Scott Kyle, Neil Leiper."
 ---
 O diretor Ken Loach consegue extrair tensão nesse suposto drama britânico, como podemos constatar durante um leilão de Wisky e logo antes em uma sequência noturna particularmente inspirada. Essa capacidade, no entanto, parece rivalizar com sua vontade de fazer comédia, que também funciona, mas ao preço de perdermos o gênero inicial. A leveza que ele aplica no resto da história flerta perigosamente com o seu reducionismo. Dessa forma, não é possível desenvolver melhor a relação entre o admirador de uísques e seu protegido, e o aprendizado deste é resumido em 10 segundos de uma cena dele cercado por diversos livros sobre a bebida.
 

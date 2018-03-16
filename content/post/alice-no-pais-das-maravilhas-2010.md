@@ -1,25 +1,10 @@
 ---
-date: "2010-04-23"
 imdb: "1014759"
+date: "2010-04-23"
+categories: "movies"
 title: "Alice no País das Maravilhas"
 stars: "3/5"
-categories: "movies"
-_title: "Alice in Wonderland"
-_year: "2010"
-_director: ["Tim Burton", ]
-_writer: ["Linda Woolverton", "Lewis Carroll", ]
-_cast: ["Johnny Depp", "Mia Wasikowska", "Helena Bonham Carter", "Anne Hathaway", "Crispin Glover", "Matt Lucas", "Michael Sheen", "Stephen Fry", "Alan Rickman", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Chris Lebenzon", ]
-_cinematographer: ["Dariusz Wolski", ]
-_music: ["Danny Elfman", ]
-_genres: ["Adventure", ]
-_runtimes: ["108", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTMwNjAxMTc0Nl5BMl5BanBnXkFtZTcwODc3ODk5Mg@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTMwNjAxMTc0Nl5BMl5BanBnXkFtZTcwODc3ODk5Mg@@._V1._SX95_SY140_.jpg"
+desc: "Alice no País das Maravilhas. Alice in Wonderland (USA, 2010). Dirigido por Tim Burton. Escrito por Linda Woolverton, Lewis Carroll. Com Johnny Depp, Mia Wasikowska, Helena Bonham Carter, Anne Hathaway, Crispin Glover, Matt Lucas, Michael Sheen, Stephen Fry, Alan Rickman."
 ---
 Os experimentos 3D do início da década mostraram pouquíssimas decisões acertadas (Pina, A Invenção de Hugo Cabret), mas muitos caminhos, se não errados, bem tortuosos. Podemos encontrar decisões completamente equivocadas a respeito do uso da tecnologia até mesmo no irretocável Avatar de James Cameron.
 

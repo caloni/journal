@@ -1,27 +1,11 @@
 ---
-imdb: "1837492"
-stars: "1/5"
 tags: ['netflix']
+imdb: "1837492"
 date: 2017-12-07T01:12:59
-title: "13 Reasons Why"
 categories: "blog"
-_title: "13 Reasons Why"
-_year: "2017"
-_director: ["Gregg Araki", "Kyle Patrick Alvarez", "Carl Franklin", "Tom McCarthy", "Helen Shaver", "Jessica Yu", ]
-_writer: ["Jay Asher", "Brian Yorkey", "Nic Sheff", "Thomas Higgins", "Elizabeth Benjamin", "Diana Son", ]
-_cast: ["Jesus N Jimenez (Student / ...)", "Ke'Mari Moore (Jock)", "Michele Selene Ang (Courtney Crimsen)", "Joseph C. Phillips (Mr. Davis)", "Alexander Gomez (Student / ...)", "Jeff Redlick (Pedestrian / ...)", "Dylan Minnette (Clay Jensen)", "Katherine Langford (Hannah Baker)", "Christian Navarro (Tony Padilla)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Leo Trombetta", "Daniel Gabbe", "Matthew Ramsey", "Sue Blainey", ]
-_cinematographer: ["Ivan Strasburg", "Cameron Duncan", "Andrij Parekh", ]
-_music: ["Eskmo", ]
-_artdirection: ["William Budge", "Scott Cobb", ]
-_costume designer: ["Caroline B. Marx", ]
-_genres: ["Drama", ]
-_runtimes: ["60", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BYTFmNzRlNWYtMmFmNi00ZTFiLWJhODgtOGM5ODQ5NTgxZWUwL2ltYWdlXkEyXkFqcGdeQXVyMTExNDQ2MTI@.jpg"
-_kind: "tv series"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BYTFmNzRlNWYtMmFmNi00ZTFiLWJhODgtOGM5ODQ5NTgxZWUwL2ltYWdlXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1._SX94_SY140_.jpg"
+title: "13 Reasons Why"
+stars: "1/5"
+desc: "13 Reasons Why. 13 Reasons Why (USA, 2017). Dirigido por Gregg Araki, Kyle Patrick Alvarez, Carl Franklin, Tom McCarthy, Helen Shaver, Jessica Yu. Escrito por Jay Asher, Brian Yorkey, Nic Sheff, Thomas Higgins, Elizabeth Benjamin, Diana Son. Com Jesus N Jimenez (Student / ...), Ke'Mari Moore (Jock), Michele Selene Ang (Courtney Crimsen), Joseph C. Phillips (Mr. Davis), Alexander Gomez (Student / ...), Jeff Redlick (Pedestrian / ...), Dylan Minnette (Clay Jensen), Katherine Langford (Hannah Baker), Christian Navarro (Tony Padilla)."
 ---
 Essa novelinha pré-adolescente consegue ser bem irritante às vezes. Não é uma produção barata nem tosca. Muito pelo contrário. Há muitas virtudes narrativas em um trabalho que parece descartar apenas uma virtude dentre as que escolheu: coerência. E é através dessa "pequena" falha que podemos concluir que, apesar de tecnicamente interessante e artisticamente bonito, "13 Reasons Why" é uma merda colossal que revela que esta geração tem pouquíssimas chances de sobreviver a eles mesmos.
 

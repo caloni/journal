@@ -1,25 +1,10 @@
 ---
-date: "2015-04-10"
 imdb: "0137363"
-stars: "4/5"
+date: "2015-04-10"
 categories: "movies"
 title: "O Suspeito da Rua Arlington"
-_title: "Arlington Road"
-_year: "1999"
-_director: ["Mark Pellington", ]
-_writer: ["Ehren Kruger", ]
-_cast: ["Jeff Bridges", "Tim Robbins", "Joan Cusack", "Hope Davis", "Robert Gossett", "Mason Gamble", "Spencer Treat Clark", "Stanley Anderson", "Viviane Vives", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Conrad Buff IV", ]
-_cinematographer: ["Bobby Bukowski", ]
-_music: ["Angelo Badalamenti", ]
-_genres: ["Action", ]
-_runtimes: ["117", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTkzNTIyOTA3MV5BMl5BanBnXkFtZTYwNTU3NzY5.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTkzNTIyOTA3MV5BMl5BanBnXkFtZTYwNTU3NzY5._V1._SX94_SY140_.jpg"
+stars: "4/5"
+desc: "O Suspeito da Rua Arlington. Arlington Road (USA, 1999). Dirigido por Mark Pellington. Escrito por Ehren Kruger. Com Jeff Bridges, Tim Robbins, Joan Cusack, Hope Davis, Robert Gossett, Mason Gamble, Spencer Treat Clark, Stanley Anderson, Viviane Vives."
 ---
 Esse é um filme morno que escapa da mediocridade em seus minutos finais, quando o seu final surpreendente te faz repensar toda a história, achar alguns furos (bem óbvios) e terminar ainda com um saldo positivo. "É, tem furos, foi um desenvolvimento medíocre, mas faz pensar em um bocado de coisas". Entre filmes que são ótimos de assistir e ótimos de esquecer e filmes que são razoáveis mas vão te deixar pensando por um bom tempo neles, prefira os últimos.
 

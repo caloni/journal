@@ -1,25 +1,10 @@
 ---
-date: "2015-04-19"
 imdb: "1951265"
-stars: "5/5"
+date: "2015-04-19"
 categories: "movies"
 title: "Jogos Vorazes: A Esperança - Parte 1"
-_title: "The Hunger Games: Mockingjay - Part 1"
-_year: "2014"
-_director: ["Francis Lawrence", ]
-_writer: ["Peter Craig", "Danny Strong", "Suzanne Collins", "Suzanne Collins", ]
-_cast: ["Jennifer Lawrence", "Josh Hutcherson", "Liam Hemsworth", "Woody Harrelson", "Donald Sutherland", "Philip Seymour Hoffman", "Julianne Moore", "Willow Shields", "Sam Claflin", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Alan Edward Bell", "Mark Yoshikawa", ]
-_cinematographer: ["Jo Willems", ]
-_music: ["James Newton Howard", ]
-_genres: ["Adventure", ]
-_runtimes: ["123", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTcxNDI2NDAzNl5BMl5BanBnXkFtZTgwODM3MTc2MjE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTcxNDI2NDAzNl5BMl5BanBnXkFtZTgwODM3MTc2MjE@._V1._SX92_SY140_.jpg"
+stars: "5/5"
+desc: "Jogos Vorazes: A Esperança - Parte 1. The Hunger Games: Mockingjay - Part 1 (USA, 2014). Dirigido por Francis Lawrence. Escrito por Peter Craig, Danny Strong, Suzanne Collins, Suzanne Collins. Com Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth, Woody Harrelson, Donald Sutherland, Philip Seymour Hoffman, Julianne Moore, Willow Shields, Sam Claflin."
 ---
 Jogos Vorazes é uma série de filmes que brinca com o conceito das aparências e como ela é muito mais importante atualmente do que como as coisas são. É dessa forma que os participantes de um reality show preferem abrir mão de suas personalidades para construir uma que garanta a vitória por parecer ser alguém que os possíveis fãs se identifiquem. É dessa forma também que o consumismo desenfreado leva as pessoas a comprar items puramente estéticos, como roupas de marca, maquiagem e operações no corpo. E, por fim, é dessa forma que governos populistas ganham a confiança e o respeito de milhões, preferindo gastar uma parcela irrisória do dinheiro delas mesmas em programas sociais como Bolsa Família, do que atacar o mal pela raiz (como diminuindo impostos para as camadas mais pobres, por exemplo).
 

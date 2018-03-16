@@ -1,25 +1,11 @@
 ---
-imdb: "1034007"
-stars: "3/5"
 tags: ['netflix']
+imdb: "1034007"
 date: 2017-11-12T20:25:38
-title: "Alias Grace"
 categories: "blog"
-_title: "Alias Grace"
-_year: "2017"
-_director: ["Mary Harron", ]
-_writer: ["Margaret Atwood", "Sarah Polley", ]
-_cast: ["Sarah Gadon (Grace Marks)", "Edward Holcroft (Dr. Simon Jordan)", "Rebecca Liddiard (Mary Whitney)", "Zachary Levi (Jeremiah Pontelli)", "Kerr Logan (James McDermott)", "David Cronenberg (Reverend Verringer / ...)", "Paul Gross (Thomas Kinnear)", "Anna Paquin (Nancy Montgomery)", "Sarah Manninen (Mrs. Humphrey)", ]
-_countries: ["Canada", ]
-_languages: ["English", ]
-_cinematographer: ["Brendan Steacy", ]
-_music: ["Jeff Danna", ]
-_costume designer: ["Simonetta Mariano", ]
-_genres: ["Biography", ]
-_runtimes: ["60", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjI4OTI1NTkwNV5BMl5BanBnXkFtZTgwMDc0ODc0MzI@.jpg"
-_kind: "tv series"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjI4OTI1NTkwNV5BMl5BanBnXkFtZTgwMDc0ODc0MzI@._V1._SX93_SY140_.jpg"
+title: "Alias Grace"
+stars: "3/5"
+desc: "Alias Grace. Alias Grace (Canada, 2017). Dirigido por Mary Harron. Escrito por Margaret Atwood, Sarah Polley. Com Sarah Gadon (Grace Marks), Edward Holcroft (Dr. Simon Jordan), Rebecca Liddiard (Mary Whitney), Zachary Levi (Jeremiah Pontelli), Kerr Logan (James McDermott), David Cronenberg (Reverend Verringer / ...), Paul Gross (Thomas Kinnear), Anna Paquin (Nancy Montgomery), Sarah Manninen (Mrs. Humphrey)."
 ---
 Homens retardados, animalescos, vivendo em torno de mulheres histéricas, depressivas ou apáticas. Este é o retrato da história contada por Grace Marks para um doutor, igualmente abjeto, Dr. Simon Jordan. A narrativa de Grace sob os olhos da série da Netflix representa um dos últimos pilares do movimento igualmente abjeto chamado (ainda) de feminismo: a crença marxista que homens e mulheres são definidos através de sua relação de opressores e oprimidos. Da mesma forma que a fantasia de Marx sobre o sistema de classes.
 

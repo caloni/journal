@@ -1,27 +1,11 @@
 ---
-date: "2016-06-01"
-tags: [ "cabine" ]
-categories: "movies"
+tags: ['cabine']
 imdb: "4216908"
-stars: "4/5"
+date: "2016-06-01"
+categories: "movies"
 title: "A Corte"
-_title: "L'hermine"
-_year: "2015"
-_director: ["Christian Vincent", ]
-_writer: ["Christian Vincent", ]
-_cast: ["Fabrice Luchini", "Sidse Babett Knudsen", "Eva Lallier", "Corinne Masiero", "Sophie-Marie Larrouy", "Fouzia Guezoum", "Simon Ferrante", "Abdellah Moundy", "Serge Flamenbaum", ]
-_countries: ["France", ]
-_languages: ["French", ]
-_editor: ["Yves Deschamps", ]
-_cinematographer: ["Laurent Dailland", ]
-_music: ["Claire Denamur", ]
-_costume designer: ["Carole Gérard", ]
-_genres: ["Comedy", ]
-_runtimes: ["98", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BYzJiNDU2YzMtM2Y2Zi00ZjkwLTk2N2ItN2QyMTIzNTk1N2ZhXkEyXkFqcGdeQXVyNjU0MjgwNjU@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BYzJiNDU2YzMtM2Y2Zi00ZjkwLTk2N2ItN2QyMTIzNTk1N2ZhXkEyXkFqcGdeQXVyNjU0MjgwNjU@._V1._SX100_SY136_.jpg"
+stars: "4/5"
+desc: "A Corte. L'hermine (France, 2015). Dirigido por Christian Vincent. Escrito por Christian Vincent. Com Fabrice Luchini, Sidse Babett Knudsen, Eva Lallier, Corinne Masiero, Sophie-Marie Larrouy, Fouzia Guezoum, Simon Ferrante, Abdellah Moundy, Serge Flamenbaum."
 ---
 Um filme leve e encantador. E isso porque seu núcleo é o julgamento do assassinato de um bebê pelo seu pai. Porém, nem de longe esse é o assunto principal. O que o filme quer discutir, e o faz com propriedade, é esse palco que se monta em torno de réu e testemunhas -- a plateia -- para a criação de uma pela interpretada por atores de improviso -- o júri -- dirigidos pelo protagonista supremo desta farsa -- o juiz.
 

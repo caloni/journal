@@ -1,27 +1,12 @@
 ---
-date: "2014-12-06"
-imdb: "2015381"
-title: "Guardiões da Galáxia"
-stars: "3/5"
-categories: "movies"
-review: ["2017-05-02"]
 tags: ['cinema', 'mcu', 'guardioesdagalaxia']
-_title: "Guardians of the Galaxy"
-_year: "2014"
-_director: ["James Gunn", ]
-_writer: ["James Gunn", "Nicole Perlman", "Dan Abnett", "Andy Lanning", ]
-_cast: ["Chris Pratt", "Zoe Saldana", "Dave Bautista", "Vin Diesel", "Bradley Cooper", "Lee Pace", "Michael Rooker", "Karen Gillan", "Djimon Hounsou", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Fred Raskin", "Hughes Winborne", "Craig Wood", ]
-_cinematographer: ["Ben Davis", ]
-_music: ["Tyler Bates", ]
-_genres: ["Action", ]
-_runtimes: ["121", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTAwMjU5OTgxNjZeQTJeQWpwZ15BbWU4MDUxNDYxODEx.jpg"
-_ratio: "1.90 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTAwMjU5OTgxNjZeQTJeQWpwZ15BbWU4MDUxNDYxODEx._V1._SX94_SY140_.jpg"
+imdb: "2015381"
+date: "2014-12-06"
+categories: "movies"
+title: "Guardiões da Galáxia"
+review: ['2017-05-02']
+stars: "3/5"
+desc: "Guardiões da Galáxia. Guardians of the Galaxy (USA, 2014). Dirigido por James Gunn. Escrito por James Gunn, Nicole Perlman, Dan Abnett, Andy Lanning. Com Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel, Bradley Cooper, Lee Pace, Michael Rooker, Karen Gillan, Djimon Hounsou."
 ---
 Me lembro que Guardiões da Galáxia foi o trailer mais interessante desses filmes de super-heróis com seus pseudo-dramas fantásticos e seu atual modelo engessado de vários heróis para um grande vilão (Vingadores, Capitão América 2, X-Men não, esse é legal). Porém, por algum motivo, acabei não assistindo este filme no cinema. Paciência. Agora surgiu uma oportunidade durante um voo e lá vou eu apertar o play para mais uma aventura impossível com personagens irrelevantes e explosões digitais. Felizmente a minúscula tela em frente à minha poltrona me protegia de sangrar demais pelos meus olhos.
 

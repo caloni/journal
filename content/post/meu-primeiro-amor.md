@@ -1,29 +1,11 @@
 ---
-imdb: "0102492"
-stars: "5/5"
 tags: ['paulocoelho']
+imdb: "0102492"
 date: 2017-10-29T17:52:19
-title: "Meu Primeiro Amor"
 categories: "movies"
-_title: "My Girl"
-_year: "1991"
-_director: ["Howard Zieff", ]
-_writer: ["Laurice Elehwany", ]
-_cast: ["Dan Aykroyd (Harry Sultenfuss)", "Jamie Lee Curtis (Shelly DeVoto)", "Macaulay Culkin (Thomas J. Sennett)", "Anna Chlumsky (Vada Sultenfuss)", "Richard Masur (Phil Sultenfuss)", "Griffin Dunne (Mr. Bixler)", "Ann Nelson (Gramoo Sultenfuss)", "Peter Michael Goetz (Dr. Welty)", "Jane Hallaren (Nurse Randall)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Wendy Greene Bricmont", ]
-_cinematographer: ["Paul Elliott", ]
-_music: ["James Newton Howard", ]
-_artdirection: ["Pat Tagliaferro", ]
-_costume designer: ["Karen Patch", ]
-_genres: ["Comedy", ]
-_runtimes: ["102", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BYWM2ZDliNjItZTcxOC00NTY2LWE1ODctNzRhNGM3YWIyYjBiXkEyXkFqcGdeQXVyNTIzOTk5ODM@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BYWM2ZDliNjItZTcxOC00NTY2LWE1ODctNzRhNGM3YWIyYjBiXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1._SX95_SY140_.jpg"
-_releasedate: "17 January 1992"
+title: "Meu Primeiro Amor"
+stars: "5/5"
+desc: "Meu Primeiro Amor. My Girl (USA, 1991). Dirigido por Howard Zieff. Escrito por Laurice Elehwany. Com Dan Aykroyd (Harry Sultenfuss), Jamie Lee Curtis (Shelly DeVoto), Macaulay Culkin (Thomas J. Sennett), Anna Chlumsky (Vada Sultenfuss), Richard Masur (Phil Sultenfuss), Griffin Dunne (Mr. Bixler), Ann Nelson (Gramoo Sultenfuss), Peter Michael Goetz (Dr. Welty), Jane Hallaren (Nurse Randall)."
 ---
 A morte pode ser um catalisador de emoções. Através dela passamos por uma transformação dentro de nós que ao mesmo tempo que nos enfraquece pela dor insuportável também nos fortalece pela nossa capacidade de sobreviver. E no fim de um processo de luto algo maravilhoso acontece: voltamos para a vida mais fortes. De vez em quando iremos mexer nessa ferida do passado, e certamente irá sangrar. Mas é através desse sangue que fazemos novos pactos com os que ainda estão vivos. Porque no fundo de todos nós não há muitas diferenças. Somos humanos; estamos condenados a viver sabendo que um dia iremos morrer. Ou pior: os que nos cercam também irão.
 

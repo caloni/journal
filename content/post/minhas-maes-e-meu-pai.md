@@ -1,25 +1,10 @@
 ---
-date: "2011-06-08"
 imdb: "0842926"
+date: "2011-06-08"
+categories: "movies"
 title: "Minhas Mães e Meu Pai"
 stars: "3/5"
-categories: "movies"
-_title: "The Kids Are All Right"
-_year: "2010"
-_director: ["Lisa Cholodenko", ]
-_writer: ["Lisa Cholodenko", "Stuart Blumberg", ]
-_cast: ["Julianne Moore", "Annette Bening", "Mark Ruffalo", "Mia Wasikowska", "Josh Hutcherson", "Yaya DaCosta", "Kunal Sharma", "Eddie Hassell", "Zosia Mamet", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Jeffrey M. Werner", ]
-_cinematographer: ["Igor Jadue-Lillo", ]
-_music: ["Carter Burwell", ]
-_genres: ["Comedy", ]
-_runtimes: ["106", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjE4NTMwNDg5MF5BMl5BanBnXkFtZTcwNDY2ODE0Mw@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjE4NTMwNDg5MF5BMl5BanBnXkFtZTcwNDY2ODE0Mw@@._V1._SX94_SY140_.jpg"
+desc: "Minhas Mães e Meu Pai. The Kids Are All Right (USA, 2010). Dirigido por Lisa Cholodenko. Escrito por Lisa Cholodenko, Stuart Blumberg. Com Julianne Moore, Annette Bening, Mark Ruffalo, Mia Wasikowska, Josh Hutcherson, Yaya DaCosta, Kunal Sharma, Eddie Hassell, Zosia Mamet."
 ---
 Annete Bening é uma atriz talentosa. Seu único trabalho que acompanhei de perto, Beleza Americana, foi um exercício de neurose formidável, ainda que equivocado em sua exagerada conclusão final (culpa do roteiro?). Porém, através dele é possível ter uma noção muito boa das capacidades de interpretação de Bening tendo como personagem pessoas com algum descontrole emocional que a leve a influenciar negativamente a vida dos seus próximos.
 

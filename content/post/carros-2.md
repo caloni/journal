@@ -1,24 +1,10 @@
 ---
-date: "2011-07-20"
 imdb: "1216475"
+date: "2011-07-20"
+categories: "movies"
 title: "Carros 2"
 stars: "2/5"
-categories: "movies"
-_title: "Cars 2"
-_year: "2011"
-_director: ["John Lasseter", "Brad Lewis", ]
-_writer: ["John Lasseter", "Brad Lewis", "Dan Fogelman", "Ben Queen", ]
-_cast: ["Larry Guy the Cable", "Owen Wilson", "Michael Caine", "Emily Mortimer", "Eddie Izzard", "John Turturro", "Brent Musburger", "Joe Mantegna", "Thomas Kretschmann", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Stephen Schaffer", ]
-_music: ["Michael Giacchino", ]
-_genres: ["Animation", ]
-_runtimes: ["USA:106", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTUzNTc3MTU3M15BMl5BanBnXkFtZTcwMzIxNTc3NA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTUzNTc3MTU3M15BMl5BanBnXkFtZTcwMzIxNTc3NA@@._V1._SX94_SY140_.jpg"
+desc: "Carros 2. Cars 2 (USA, 2011). Dirigido por John Lasseter, Brad Lewis. Escrito por John Lasseter, Brad Lewis, Dan Fogelman, Ben Queen. Com Larry Guy the Cable, Owen Wilson, Michael Caine, Emily Mortimer, Eddie Izzard, John Turturro, Brent Musburger, Joe Mantegna, Thomas Kretschmann."
 ---
 O ponto mais forte no longa original eram as ideias por trás do conceito de carros se comportando como humanos. E até os pequenos detalhes de produção, como o fato dos mosquitos voando serem pequenos carrinhos com asas, contribuíam para tornar aquele universo todo especial.
 

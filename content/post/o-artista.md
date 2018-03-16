@@ -1,25 +1,10 @@
 ---
-date: "2012-02-16"
 imdb: "1655442"
+date: "2012-02-16"
+categories: "movies"
 title: "O Artista"
 stars: "5/5"
-categories: "movies"
-_title: "The Artist"
-_year: "2011"
-_director: ["Michel Hazanavicius", ]
-_writer: ["Michel Hazanavicius", ]
-_cast: ["Jean Dujardin", "Bérénice Bejo", "John Goodman", "James Cromwell", "Penelope Ann Miller", "Missi Pyle", "Beth Grant", "Ed Lauter", "Joel Murray", ]
-_countries: ["France", ]
-_languages: ["English", ]
-_editor: ["Anne-Sophie Bion", "Michel Hazanavicius", ]
-_cinematographer: ["Guillaume Schiffman", ]
-_music: ["Ludovic Bource", ]
-_genres: ["Comedy", ]
-_runtimes: ["100", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMzk0NzQxMTM0OV5BMl5BanBnXkFtZTcwMzU4MDYyNQ@@.jpg"
-_ratio: "1.33 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMzk0NzQxMTM0OV5BMl5BanBnXkFtZTcwMzU4MDYyNQ@@._V1._SX100_SY133_.jpg"
+desc: "O Artista. The Artist (France, 2011). Dirigido por Michel Hazanavicius. Escrito por Michel Hazanavicius. Com Jean Dujardin, Bérénice Bejo, John Goodman, James Cromwell, Penelope Ann Miller, Missi Pyle, Beth Grant, Ed Lauter, Joel Murray."
 ---
 Logo no início do filme, me senti acompanhando uma digna e merecida reverência ao Cinema Mudo, presente nos primórdios da arte e que acabou durante a década de 30 (mesmo ainda com defensores ferrenhos e influentes, como Chaplin). Porém, mesmo que você não entenda nada de arte cinematográfica vale a pena acompanhar o arco dramático de George Valentin, que vivia seu auge no cinema ainda não-falado (apenas com músicas de fundo, geralmente tocadas ao vivo por uma orquestra), e que subitamente foi afastado pela novidade dos personagens que agora falavam diretamente, e não com a ajuda dos cartões de falas colocados após alguma declaração importante.
 

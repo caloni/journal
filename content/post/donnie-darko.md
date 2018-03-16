@@ -1,25 +1,10 @@
 ---
-date: "2010-12-20"
 imdb: "0246578"
+date: "2010-12-20"
+categories: "movies"
 title: "Donnie Darko"
 stars: "4/5"
-categories: "movies"
-_title: "Donnie Darko"
-_year: "2001"
-_director: ["Richard Kelly", ]
-_writer: ["Richard Kelly", ]
-_cast: ["Jake Gyllenhaal", "Holmes Osborne", "Maggie Gyllenhaal", "Daveigh Chase", "Mary McDonnell", "James Duval", "Arthur Taxier", "Patrick Swayze", "Mark Hoffman", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Sam Bauer", "Eric Strand", ]
-_cinematographer: ["Steven Poster", ]
-_music: ["Michael Andrews", ]
-_genres: ["Drama", ]
-_runtimes: ["113", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTczMzE4Nzk3N15BMl5BanBnXkFtZTcwNDg5Mjc4NA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTczMzE4Nzk3N15BMl5BanBnXkFtZTcwNDg5Mjc4NA@@._V1._SX94_SY140_.jpg"
+desc: "Donnie Darko. Donnie Darko (USA, 2001). Dirigido por Richard Kelly. Escrito por Richard Kelly. Com Jake Gyllenhaal, Holmes Osborne, Maggie Gyllenhaal, Daveigh Chase, Mary McDonnell, James Duval, Arthur Taxier, Patrick Swayze, Mark Hoffman."
 ---
 O diretor/roteirista Richar Kelly estreou nos longas com este filme, nos brindando de cara com um suspense que quebra com diversas regras do gênero, apostando na mistura com ficção científica.
 

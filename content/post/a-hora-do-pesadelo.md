@@ -1,25 +1,10 @@
 ---
-date: "2013-07-28"
 imdb: "0087800"
+date: "2013-07-28"
+categories: "movies"
 title: "A Hora do Pesadelo"
 stars: "4/5"
-categories: "movies"
-_title: "A Nightmare on Elm Street"
-_year: "1984"
-_director: ["Wes Craven", ]
-_writer: ["Wes Craven", ]
-_cast: ["John Saxon", "Ronee Blakley", "Heather Langenkamp", "Amanda Wyss", "Jsu Garcia", "Johnny Depp", "Charles Fleischer", "Joseph Whipp", "Robert Englund", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Patrick McMahon", "Rick Shaine", ]
-_cinematographer: ["Jacques Haitkin", ]
-_music: ["Charles Bernstein", ]
-_genres: ["Horror", ]
-_runtimes: ["91", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTMxOTk4NjMzOV5BMl5BanBnXkFtZTcwOTQ3NDAzMg@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTMxOTk4NjMzOV5BMl5BanBnXkFtZTcwOTQ3NDAzMg@@._V1._SX91_SY140_.jpg"
+desc: "A Hora do Pesadelo. A Nightmare on Elm Street (USA, 1984). Dirigido por Wes Craven. Escrito por Wes Craven. Com John Saxon, Ronee Blakley, Heather Langenkamp, Amanda Wyss, Jsu Garcia, Johnny Depp, Charles Fleischer, Joseph Whipp, Robert Englund."
 ---
 Clássico de terror dos anos 80, continua envelhecendo bem, e apesar de sua ingenuidade para com o público sedento por realismo de hoje (só que sem muito sangue, por favor), estabelece o seu medo no campo dos sonhos, onde tudo é possível existir. Os efeitos não-digitais ajudam e muito a nos colocar no quarto com Marge (Ronee Blakley), Tina (Amanda Wyss), Rod (Jsu Garcia) e Glen (Johnny Depp). Quando vemos um garoto ser morto e seu sangue transbordar o teto do seu quarto, se esvaindo de baixo para cima, por mais que saibamos que esse efeito foi produzido filmando o set de cabeça pra baixo o efeito psicológico da cena permanece, pois gera a estranheza necessária do mundo dos sonhos (algo muito higienizado nA Origem de Nolan).
 

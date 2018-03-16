@@ -1,25 +1,11 @@
 ---
-date: "2010-12-20"
 imdb: "1323594"
-stars: "3/5"
+date: "2010-12-20"
 categories: "movies"
 title: "Meu Malvado Favorito"
-revision: [2011-11-13]
-_title: "Despicable Me"
-_year: "2010"
-_director: ["Pierre Coffin", "Chris Renaud", ]
-_writer: ["Cinco Paul", "Ken Daurio", "Sergio Pablos", ]
-_cast: ["Steve Carell", "Jason Segel", "Russell Brand", "Julie Andrews", "Will Arnett", "Kristen Wiig", "Miranda Cosgrove", "Dana Gaier", "Elsie Fisher", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Gregory Perler", "Pam Ziegenhagen", ]
-_music: ["Heitor Pereira", "Pharrell Williams", ]
-_genres: ["Animation", ]
-_runtimes: ["95", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTY3NjY0MTQ0Nl5BMl5BanBnXkFtZTcwMzQ2MTc0Mw@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTY3NjY0MTQ0Nl5BMl5BanBnXkFtZTcwMzQ2MTc0Mw@@._V1._SX95_SY140_.jpg"
+stars: "3/5"
+revision: [datetime.date(2011, 11, 13)]
+desc: "Meu Malvado Favorito. Despicable Me (USA, 2010). Dirigido por Pierre Coffin, Chris Renaud. Escrito por Cinco Paul, Ken Daurio, Sergio Pablos. Com Steve Carell, Jason Segel, Russell Brand, Julie Andrews, Will Arnett, Kristen Wiig, Miranda Cosgrove, Dana Gaier, Elsie Fisher."
 ---
 Meu Malvado Favorito é um ótimo exemplo de filme que divide opiniões, assim como Transformers: de um lado as pessoas que veem claramente uma péssima construção de história em conjunto com péssimas sequências para esta história. De outro, as pessoas que enxergam seus méritos no projeto ou 1) por gostarem do argumento desde o início ou 2) por entenderem sua proposta de uma maneira menos... crítica?
 

@@ -1,26 +1,11 @@
 ---
-date: "2015-05-05"
+tags: ['cinema', 'mcu', 'avengers']
 imdb: "2395427"
-stars: "3/5"
+date: "2015-05-05"
 categories: "movies"
 title: "Vingadores: Era de Ultron"
-tags: ['cinema', 'mcu', 'avengers']
-_title: "Avengers: Age of Ultron"
-_year: "2015"
-_director: ["Joss Whedon", ]
-_writer: ["Joss Whedon", "Stan Lee", "Jack Kirby", ]
-_cast: ["Robert Downey Jr.", "Chris Hemsworth", "Mark Ruffalo", "Chris Evans", "Scarlett Johansson", "Jeremy Renner", "James Spader", "Samuel L. Jackson", "Don Cheadle", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Jeffrey Ford", "Lisa Lassek", ]
-_cinematographer: ["Ben Davis", ]
-_music: ["Danny Elfman", "Brian Tyler", ]
-_genres: ["Action", ]
-_runtimes: ["141", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTU4MDU3NDQ5Ml5BMl5BanBnXkFtZTgwOTU5MDUxNTE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTU4MDU3NDQ5Ml5BMl5BanBnXkFtZTgwOTU5MDUxNTE@._V1._SX95_SY140_.jpg"
+stars: "3/5"
+desc: "Vingadores: Era de Ultron. Avengers: Age of Ultron (USA, 2015). Dirigido por Joss Whedon. Escrito por Joss Whedon, Stan Lee, Jack Kirby. Com Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans, Scarlett Johansson, Jeremy Renner, James Spader, Samuel L. Jackson, Don Cheadle."
 ---
 Vingadores 2 já estreia atrasado. Seu tema de inteligência artificial parece já ter sido abordado com maior sucesso a partir de trabalhos menos ambiciosos, mas bem mais curiosos, como Transcendence e Lucy (coincidentemente com a mesma Scarlett Johansson que aqui faz a heroína russa Viúva Negra). No entanto, seu maior trunfo com certeza não são os embates filosóficos sobre qual a solução para a paz mundial através do uso de redes neurais artificialmente produzidas (ou feitas por alienígenas). Isso está tão resumido em chavões e explicações genéricas para o espectador médio que não faz muita diferença. Como sempre, a grande sacada dos filmes de super-heróis são as explosões, os efeitos visuais, as frases de efeito levemente cômicas (mas nunca ofensivas) e as roupas coloridas (hoje em dia, em "dark" discreto, mas coloridas).
 

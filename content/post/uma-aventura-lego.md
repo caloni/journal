@@ -1,27 +1,11 @@
 ---
-date: "2014-02-08"
 imdb: "1490017"
-revision: [2014-03-03, 2015-10-04, 2016-07-28]
 date: "2015-10-04"
+categories: "movies"
 title: "Uma Aventura LEGO"
 stars: "5/5"
-categories: "movies"
-_title: "The Lego Movie"
-_year: "2014"
-_director: ["Phil Lord", "Christopher Miller", ]
-_writer: ["Phil Lord", "Christopher Miller", "Dan Hageman", "Kevin Hageman", "Phil Lord", "Christopher Miller", ]
-_cast: ["Will Arnett", "Elizabeth Banks", "Craig Berry", "Alison Brie", "David Burrows", "Anthony Daniels", "Charlie Day", "Amanda Farinos", "Keith Ferguson", ]
-_countries: ["Australia", ]
-_languages: ["English", ]
-_editor: ["David Burrows", "Chris McKay", ]
-_cinematographer: ["Pablo Plaisted", ]
-_music: ["Mark Mothersbaugh", ]
-_genres: ["Animation", ]
-_runtimes: ["100", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTg4MDk1ODExN15BMl5BanBnXkFtZTgwNzIyNjg3MDE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTg4MDk1ODExN15BMl5BanBnXkFtZTgwNzIyNjg3MDE@._V1._SX94_SY140_.jpg"
+revision: [datetime.date(2014, 3, 3), datetime.date(2015, 10, 4), datetime.date(2016, 7, 28)]
+desc: "Uma Aventura LEGO. The Lego Movie (Australia, 2014). Dirigido por Phil Lord, Christopher Miller. Escrito por Phil Lord, Christopher Miller, Dan Hageman, Kevin Hageman, Phil Lord, Christopher Miller. Com Will Arnett, Elizabeth Banks, Craig Berry, Alison Brie, David Burrows, Anthony Daniels, Charlie Day, Amanda Farinos, Keith Ferguson."
 ---
 Eis um filme que constrói sua história em um universo de bonecos e peças montáveis que juntos somam todos os clichês possíveis e imagináveis do gênero aventura. Partindo dessa premissa tímida para um filme onde "Tudo é Incrível" talvez seja pretencioso demais, mas não para um ser cheia de sonhos, medos e desejos que se misturam para contar uma história jamais vista: a que sai da cabeça de uma criança.
 

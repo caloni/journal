@@ -1,20 +1,10 @@
 ---
-date: "2012-03-28"
-title: "Raul O Início o Fim e o Meio"
 imdb: "1784599"
-stars: "5/5"
+date: "2012-03-28"
 categories: "movies"
-_title: "Raul - O Início, o Fim e o Meio"
-_year: "2012"
-_director: ["Walter Carvalho", "Leonardo Gudel", ]
-_writer: ["Leonardo Gudel", ]
-_cast: ["Paulo Coelho", "Daniel de Oliveira", "Tárik de Souza", "Luiz Carlos Maciel", "Roberto Menescal", "André Midani", "Marcelo Nova", "Caetano Veloso", "Tom Zé", ]
-_countries: ["Brazil", ]
-_languages: ["Portuguese", ]
-_editor: ["Pablo Ribeiro", ]
-_cinematographer: ["Lula Carvalho", ]
-_genres: ["Documentary", ]
-_kind: "movie"
+title: "Raul O Início o Fim e o Meio"
+stars: "5/5"
+desc: "Raul O Início o Fim e o Meio. Raul - O Início, o Fim e o Meio (Brazil, 2012). Dirigido por Walter Carvalho, Leonardo Gudel. Escrito por Leonardo Gudel. Com Paulo Coelho, Daniel de Oliveira, Tárik de Souza, Luiz Carlos Maciel, Roberto Menescal, André Midani, Marcelo Nova, Caetano Veloso, Tom Zé."
 ---
 Raul  o filme  é um tipo de experiência cinematográfica que faz pensar em muitas coisas, mas que ao mesmo tempo consegue extrair a essência do Maluco Beleza em todos os sentidos de sua vida e de sua filosofia. Dessa forma, temos um protagonista forte, ainda que ausente.
 

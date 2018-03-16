@@ -1,24 +1,10 @@
 ---
-date: "2012-06-13"
 imdb: "1277953"
+date: "2012-06-13"
+categories: "movies"
 title: "Madagascar 3 Os Procurados"
 stars: "3/5"
-categories: "movies"
-_title: "Madagascar 3: Europe's Most Wanted"
-_year: "2012"
-_director: ["Eric Darnell", "Tom McGrath", "Conrad Vernon", ]
-_writer: ["Eric Darnell", "Noah Baumbach", ]
-_cast: ["Ben Stiller", "Chris Rock", "David Schwimmer", "Jada Pinkett Smith", "Sacha Baron Cohen", "Cedric the Entertainer", "Andy Richter", "Tom McGrath", "Frances McDormand", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Nick Fletcher", ]
-_music: ["Hans Zimmer", ]
-_genres: ["Animation", ]
-_runtimes: ["USA:93", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTM2MTIzNzk2MF5BMl5BanBnXkFtZTcwMDcwMzQxNw@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTM2MTIzNzk2MF5BMl5BanBnXkFtZTcwMDcwMzQxNw@@._V1._SX95_SY140_.jpg"
+desc: "Madagascar 3 Os Procurados. Madagascar 3: Europe's Most Wanted (USA, 2012). Dirigido por Eric Darnell, Tom McGrath, Conrad Vernon. Escrito por Eric Darnell, Noah Baumbach. Com Ben Stiller, Chris Rock, David Schwimmer, Jada Pinkett Smith, Sacha Baron Cohen, Cedric the Entertainer, Andy Richter, Tom McGrath, Frances McDormand."
 ---
 Com uma primeira parte no modo automático, o filme dos ex-animais do zoológico do Central Park em Nova Iorque mostra sinais de cansaço principalmente em suas velhas piadas, que hoje soam batidas e repetitivas. Para quebrar um pouco a monotonia é apresentada uma nova antagonista: uma inspetora de animais francesa e obcecada em capturar um leão para sua coleção de caça, que recebe uma introdução superficial demais para que ela se torne interessante, e serve apenas para tornar as cenas convenientemente aceleradas e preencher película para uma história curta demais, como pode ser notado em duas cenas "solo" particularmente descartáveis (incluindo uma embaraçosa referência a Edith Piaf utilizando o batidíssimo sucesso "Non, je ne regrette rien", que aparentemente é a única referência entendida pelo americano médio como algo francês).
 

@@ -1,25 +1,10 @@
 ---
-date: "2011-10-13"
 imdb: "0089218"
+date: "2011-10-13"
+categories: "movies"
 title: "Os Goonies"
 stars: "5/5"
-categories: "movies"
-_title: "The Goonies"
-_year: "1985"
-_director: ["Richard Donner", ]
-_writer: ["Steven Spielberg", "Chris Columbus", ]
-_cast: ["Sean Astin", "Josh Brolin", "Jeff Cohen", "Corey Feldman", "Kerri Green", "Martha Plimpton", "Jonathan Ke Quan", "John Matuszak", "Robert Davi", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Michael Kahn", "Steven Spielberg", ]
-_cinematographer: ["Nick McLean", ]
-_music: ["Dave Grusin", ]
-_genres: ["Adventure", ]
-_runtimes: ["114", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTEyMzM3NDQyMjJeQTJeQWpwZ15BbWU4MDE4ODY0NjEx.jpg"
-_ratio: "2.20 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTEyMzM3NDQyMjJeQTJeQWpwZ15BbWU4MDE4ODY0NjEx._V1._SX92_SY140_.jpg"
+desc: "Os Goonies. The Goonies (USA, 1985). Dirigido por Richard Donner. Escrito por Steven Spielberg, Chris Columbus. Com Sean Astin, Josh Brolin, Jeff Cohen, Corey Feldman, Kerri Green, Martha Plimpton, Jonathan Ke Quan, John Matuszak, Robert Davi."
 ---
 "Um grupo de meninos embarcam em uma aventura após encontrar o mapa de um suposto tesouro escondido." É com esse argumento simples que se constrói um dos filmes mais empolgantes e divertidos dos anos 80. De fato, a união do roteirista Chris Columbus (O Enigma da Pirâmide), do diretor Richard Donner (Superman  O Filme) e do idealizador Steven Spielberg (precisa dizer algo?) deve ter produzido uma espécie de esfera criativa nunca antes vista, e que até produz ecos na filmografia contemporânea, em que o exemplo mais recente é o filme-homenagem Super 8, de J.J. Abrams.
 

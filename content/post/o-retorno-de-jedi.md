@@ -1,25 +1,10 @@
 ---
-date: "2011-12-31"
 imdb: "0086190"
+date: "2011-12-31"
+categories: "movies"
 title: "Star Wars Episódio VI O Retorno do Jedi"
 stars: "4/5"
-categories: "movies"
-_title: "Star Wars: Episode VI - Return of the Jedi"
-_year: "1983"
-_director: ["Richard Marquand", ]
-_writer: ["Lawrence Kasdan", "George Lucas", "George Lucas", ]
-_cast: ["Mark Hamill", "Harrison Ford", "Carrie Fisher", "Billy Dee Williams", "Anthony Daniels", "Peter Mayhew", "Sebastian Shaw", "Ian McDiarmid", "Frank Oz", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Sean Barton", "T.M. Christopher", "Duwayne Dunham", "Marcia Lucas", "George Lucas", ]
-_cinematographer: ["Alan Hume", "Alec Mills", ]
-_music: ["John Williams", ]
-_genres: ["Action", ]
-_runtimes: ["134", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjE5MTM3ODU5MV5BMl5BanBnXkFtZTcwOTYzNjk2OQ@@.jpg"
-_ratio: "2.20 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjE5MTM3ODU5MV5BMl5BanBnXkFtZTcwOTYzNjk2OQ@@._V1._SX95_SY140_.jpg"
+desc: "Star Wars Episódio VI O Retorno do Jedi. Star Wars: Episode VI - Return of the Jedi (USA, 1983). Dirigido por Richard Marquand. Escrito por Lawrence Kasdan, George Lucas, George Lucas. Com Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams, Anthony Daniels, Peter Mayhew, Sebastian Shaw, Ian McDiarmid, Frank Oz."
 ---
 Hora de assistir novamente a conclusão da saga de George Lucas, dessa vez após ter visto a nova trilogia e o significado que ela insere na antiga (em especial "A Vingança dos Sith"). Uma direção de arte cada vez mais impecável, que consegue equilibrar o tema espacial com a fantasia por trás da história. Quando C3PO narra a aventura épica dos personagens em torno da fogueira é o momento mais icônico e que melhor representa o conceito por trás das lendas filmadas de Star Wars. Parece não haver mais o que acrescentar a este universo, embora a direção aqui se mostre mais pausada, madura e consciente de seu final mais trágico que de costume.
 

@@ -1,27 +1,10 @@
 ---
+imdb: "0803096"
 date: "2016-08-08"
 categories: "movies"
-imdb: "0803096"
-stars: "4/5"
 title: "Warcraft: O Primeiro Encontro de Dois Mundos"
-_title: "Warcraft"
-_year: "2016"
-_director: ["Duncan Jones", ]
-_writer: ["Charles Leavitt", "Duncan Jones", ]
-_cast: ["Travis Fimmel", "Paula Patton", "Ben Foster", "Dominic Cooper", "Toby Kebbell", "Ben Schnetzer", "Robert Kazinsky", "Clancy Brown", "Daniel Wu", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Paul Hirsch", ]
-_cinematographer: ["Simon Duggan", ]
-_music: ["Ramin Djawadi", ]
-_artdirection: ["Dan Hermansen", "Helen Jarvis", "Iain McCaig", "Margot Ready", "William Ladd Skinner", "Grant Van Der Slagt", ]
-_costume designer: ["Mayes C. Rubeo", ]
-_genres: ["Action", ]
-_runtimes: ["123", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjIwNTM0Mzc5MV5BMl5BanBnXkFtZTgwMDk5NDU1ODE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjIwNTM0Mzc5MV5BMl5BanBnXkFtZTgwMDk5NDU1ODE@._V1._SX88_SY140_.jpg"
+stars: "4/5"
+desc: "Warcraft: O Primeiro Encontro de Dois Mundos. Warcraft (USA, 2016). Dirigido por Duncan Jones. Escrito por Charles Leavitt, Duncan Jones. Com Travis Fimmel, Paula Patton, Ben Foster, Dominic Cooper, Toby Kebbell, Ben Schnetzer, Robert Kazinsky, Clancy Brown, Daniel Wu."
 ---
 Warcraft consegue manter o tema de estratégia de guerra do jogo viva no filme; de quebra, exibe um dos melhores efeitos visuais do ano. Não aquele que impressiona por impressionar, mas o que está a serviço da narrativa. E com uma história para contar, ainda consegue estar à altura dos melhores trabalhos da produtora desse e outros games. A Blizzard, pelo jeito, não se cansa de impressionar.
 

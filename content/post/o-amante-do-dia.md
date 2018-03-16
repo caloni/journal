@@ -1,27 +1,11 @@
 ---
-imdb: "5642124"
-stars: "3/5"
 tags: ['mostrasp']
+imdb: "5642124"
 date: 2017-10-28T00:35:06
-title: "O Amante Do Dia"
 categories: "movies"
-_title: "L'amant d'un jour"
-_year: "2017"
-_director: ["Philippe Garrel", ]
-_writer: ["Jean-Claude Carrière", "Caroline Deruas-Garrel", "Philippe Garrel", "Arlette Langmann", ]
-_cast: ["Éric Caravaca (Gilles)", "Esther Garrel (Jeanne)", "Louise Chevillotte (Ariane)", "Paul Toucang (Matéo)", "Félix Kysyl (Stéphane)", "Michel Charrel (Le patron du bar)", "Nicolas Bridet (Le prof)", "Marie Sergeant (Yentel)", "Raphaël Naasz (Le jeune homme à la cigarette)", ]
-_countries: ["France", ]
-_languages: ["French", ]
-_editor: ["François Gédigier", ]
-_cinematographer: ["Renato Berta", ]
-_music: ["Jean-Louis Aubert", ]
-_costume designer: ["Justine Pearce", ]
-_genres: ["Drama", ]
-_runtimes: ["76", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BYjZmMzRiNTMtMGExZS00YWMzLWFiNzEtODg0OWE5YjBmNjBkXkEyXkFqcGdeQXVyNjgxODk1MTM@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BYjZmMzRiNTMtMGExZS00YWMzLWFiNzEtODg0OWE5YjBmNjBkXkEyXkFqcGdeQXVyNjgxODk1MTM@._V1._SX96_SY140_.jpg"
+title: "O Amante Do Dia"
+stars: "3/5"
+desc: "O Amante Do Dia. L'amant d'un jour (France, 2017). Dirigido por Philippe Garrel. Escrito por Jean-Claude Carrière, Caroline Deruas-Garrel, Philippe Garrel, Arlette Langmann. Com Éric Caravaca (Gilles), Esther Garrel (Jeanne), Louise Chevillotte (Ariane), Paul Toucang (Matéo), Félix Kysyl (Stéphane), Michel Charrel (Le patron du bar), Nicolas Bridet (Le prof), Marie Sergeant (Yentel), Raphaël Naasz (Le jeune homme à la cigarette)."
 ---
 O Amante do Dia é um filme francês da atualizade em preto e branco e com ideinhas liberais. É de um diretor liberal com alguma ideia de que tudo aquilo de ter casos extraconjugais seja algo muito moderninho em 2017. E algo me diz que ele viajou no tempo e foi teletransportado diretamente dos anos 60.
 

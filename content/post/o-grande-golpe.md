@@ -1,25 +1,10 @@
 ---
-date: "2013-10-24"
 imdb: "0049406"
+date: "2013-10-24"
+categories: "movies"
 title: "O Grande Golpe"
 stars: "4/5"
-categories: "movies"
-_title: "The Killing"
-_year: "1956"
-_director: ["Stanley Kubrick", ]
-_writer: ["Stanley Kubrick", "Jim Thompson", "Lionel White", ]
-_cast: ["Sterling Hayden", "Coleen Gray", "Vince Edwards", "Jay C. Flippen", "Ted de Corsia", "Marie Windsor", "Elisha Cook Jr.", "Joe Sawyer", "James Edwards", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Betty Steinberg", ]
-_cinematographer: ["Lucien Ballard", ]
-_music: ["Gerald Fried", ]
-_genres: ["Crime", ]
-_runtimes: ["85", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTg1NjEwOTI0Nl5BMl5BanBnXkFtZTcwODQ2MjM2NQ@@.jpg"
-_ratio: "1.37 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTg1NjEwOTI0Nl5BMl5BanBnXkFtZTcwODQ2MjM2NQ@@._V1._SX93_SY140_.jpg"
+desc: "O Grande Golpe. The Killing (USA, 1956). Dirigido por Stanley Kubrick. Escrito por Stanley Kubrick, Jim Thompson, Lionel White. Com Sterling Hayden, Coleen Gray, Vince Edwards, Jay C. Flippen, Ted de Corsia, Marie Windsor, Elisha Cook Jr., Joe Sawyer, James Edwards."
 ---
 A partir da apresentação dos personagens de O Grande Golpe, o diretor Stanley Kubrick vai aos poucos revelando que a "operação" em torno da qual gira o filme está muito bem arquitetada e vem sendo planejada cuidadosamente por todas as partes envolvidas: um tira corrupto, um apostador de cavalos, um barman, um caixa do guichê de apostas, entre tantos outros.
 

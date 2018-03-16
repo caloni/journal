@@ -1,23 +1,11 @@
 ---
-date: "2017-08-21"
-imdb: "4326894"
-stars: "3/5"
-title: "F is for Family - Segunda Temporada"
-categories: "blog"
 tags: ['netflix', 'fisforfamily', 'series']
-_title: "F is for Family"
-_year: "2015"
-_director: ["Laurent Nicolas", "Benjamin Marsaud", ]
-_writer: ["Bill Burr", "Michael Price", "David Richardson", ]
-_cast: ["Bill Burr", "Laura Dern", "Justin Long", "Debi Derryberry", "Sam Rockwell", "Haley Reinhart", "Mo Collins", "Trevor Devall", "Phil Hendrie", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_music: ["Vincent Jones", ]
-_genres: ["Animation", ]
-_runtimes: ["30", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjA5MzgxOTE0OV5BMl5BanBnXkFtZTgwOTA2NTczNzE@.jpg"
-_kind: "tv series"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjA5MzgxOTE0OV5BMl5BanBnXkFtZTgwOTA2NTczNzE@._V1._SX100_SY120_.jpg"
+imdb: "4326894"
+date: "2017-08-21"
+categories: "blog"
+title: "F is for Family - Segunda Temporada"
+stars: "3/5"
+desc: "F is for Family - Segunda Temporada. F is for Family (USA, 2015). Dirigido por Laurent Nicolas, Benjamin Marsaud. Escrito por Bill Burr, Michael Price, David Richardson. Com Bill Burr, Laura Dern, Justin Long, Debi Derryberry, Sam Rockwell, Haley Reinhart, Mo Collins, Trevor Devall, Phil Hendrie."
 ---
 Enquanto a primeira temporada afiava seu tom do humor para algo dos anos 70 que divertia os que não ligam para o politicamente correto ao mesmo tempo que demonstrava por que estamos na fase do politicamente correto, a sequência de F is for Family explora melhor seus personagens, dando a eles a medida certa de tempo em cena. Exceto pela caçula que quer ser programadora de computadores. E sempre que sua ambição aparece faz meus olhos brilharem.
 

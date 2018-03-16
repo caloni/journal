@@ -1,24 +1,10 @@
 ---
-date: "2011-06-12"
 imdb: "1356928"
+date: "2011-06-12"
+categories: "movies"
 title: "O Pai dos Meus Filhos"
 stars: "3/5"
-categories: "movies"
-_title: "Le père de mes enfants"
-_year: "2009"
-_director: ["Mia Hansen-Løve", ]
-_writer: ["Mia Hansen-Løve", ]
-_cast: ["Louis-Do de Lencquesaing", "Chiara Caselli", "Alice de Lencquesaing", "Alice Gautier", "Manelle Driss", "Eric Elmosnino", "Sandrine Dumas", "Dominique Frot", "Antoine Mathieu", ]
-_countries: ["France", ]
-_languages: ["French", ]
-_editor: ["Marion Monnier", ]
-_cinematographer: ["Pascal Auffray", ]
-_genres: ["Drama", ]
-_runtimes: ["110", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTUxODczODA2NV5BMl5BanBnXkFtZTcwNzExMjQ1Mw@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTUxODczODA2NV5BMl5BanBnXkFtZTcwNzExMjQ1Mw@@._V1._SX99_SY140_.jpg"
+desc: "O Pai dos Meus Filhos. Le père de mes enfants (France, 2009). Dirigido por Mia Hansen-Løve. Escrito por Mia Hansen-Løve. Com Louis-Do de Lencquesaing, Chiara Caselli, Alice de Lencquesaing, Alice Gautier, Manelle Driss, Eric Elmosnino, Sandrine Dumas, Dominique Frot, Antoine Mathieu."
 ---
 A diretora-roteirista Mia Hansen-Løve consegue prender a atenção mesmo em um filme cujo assunto fica vago do começo ao fim. O mais irritante, contudo, em O Pai dos Meus Filhos, é a maneira covarde com que ele flerta com o nosso próprio sentido de narrativa.
 

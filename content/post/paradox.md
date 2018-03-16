@@ -1,26 +1,11 @@
 ---
+tags: ['netflix']
+imdb: "4540434"
 date: "2017-04-01"
 categories: "movies"
 title: "Paradox"
-imdb: "4540434"
 stars: "3/5"
-tags: ['netflix']
-_title: "Paradox"
-_year: "2016"
-_director: ["Michael Hurst", ]
-_writer: ["Michael Hurst", ]
-_cast: ["Zoë Bell (Gale)", "Malik Yoba (Mr. Landau)", "Adam Huss (Jim)", "Bjørn Alexander (Lewis Aberricki)", "Brian Flaccus (William Wishman)", "Michael Aaron Milligan (Randy Fraker)", "Steve Suh (Van Lang)", "Darren Bailey (SWAT Team)", "Nick Benseman (SWAT Team)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Robert Meyer Burnett", ]
-_cinematographer: ["Eric Gustavo Petersen", ]
-_music: ["Alexander Bornstein", ]
-_costume designer: ["Elizabeth Magallanes", ]
-_genres: ["Action", ]
-_runtimes: ["90", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BODk0MTc5MjgwM15BMl5BanBnXkFtZTgwNTQ4Mzc5NzE@.jpg"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BODk0MTc5MjgwM15BMl5BanBnXkFtZTgwNTQ4Mzc5NzE@._V1._SX99_SY140_.jpg"
+desc: "Paradox. Paradox (USA, 2016). Dirigido por Michael Hurst. Escrito por Michael Hurst. Com Zoë Bell (Gale), Malik Yoba (Mr. Landau), Adam Huss (Jim), Bjørn Alexander (Lewis Aberricki), Brian Flaccus (William Wishman), Michael Aaron Milligan (Randy Fraker), Steve Suh (Van Lang), Darren Bailey (SWAT Team), Nick Benseman (SWAT Team)."
 ---
 Paradox é o tipo de filme que vale a pena conferir pelos conceitos de seu roteiro. Ele é produzido em baixo orçamento, com fotografia de televisão, trilha sonora enlatada e atuações sofríveis. Porém, ignorando tudo isso, este é o filme de viagem no tempo que estava faltando: um que ironicamente evite nos colocar na velha questão dos paradoxos temporais.
 

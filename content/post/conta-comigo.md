@@ -1,25 +1,10 @@
 ---
-date: "2012-04-25"
 imdb: "0092005"
+date: "2012-04-25"
+categories: "movies"
 title: "Conta Comigo"
 stars: "5/5"
-categories: "movies"
-_title: "Stand by Me"
-_year: "1986"
-_director: ["Rob Reiner", ]
-_writer: ["Stephen King", "Raynold Gideon", "Bruce A. Evans", ]
-_cast: ["Wil Wheaton", "River Phoenix", "Corey Feldman", "Jerry O'Connell", "Kiefer Sutherland", "Casey Siemaszko", "Gary Riley", "Bradley Gregg", "Jason Oliver", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Robert Leighton", ]
-_cinematographer: ["Thomas Del Ruth", ]
-_music: ["Jack Nitzsche", ]
-_genres: ["Adventure", ]
-_runtimes: ["89", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNDk2MTkyMTA1OF5BMl5BanBnXkFtZTcwOTc2Njk3OA@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNDk2MTkyMTA1OF5BMl5BanBnXkFtZTcwOTc2Njk3OA@@._V1._SX93_SY140_.jpg"
+desc: "Conta Comigo. Stand by Me (USA, 1986). Dirigido por Rob Reiner. Escrito por Stephen King, Raynold Gideon, Bruce A. Evans. Com Wil Wheaton, River Phoenix, Corey Feldman, Jerry O'Connell, Kiefer Sutherland, Casey Siemaszko, Gary Riley, Bradley Gregg, Jason Oliver."
 ---
 Mais um filme dos anos 80 que envelheceu muito bem. Leveza e ingenuidade caminham juntos na história dos quatro amigos que partem em uma jornada com o objetivo de se tornarem heróis. E por mais piegas que pareça a argumentação de Conta Comigo, ela é levada a sério, o que faz toda a diferença no desenvolvimento dos personagens (que não são crianças genéricas).
 

@@ -1,9 +1,10 @@
 ---
-date: 2018-02-17T19:51:13-02:00
-title: "O Passageiro"
-categories: "movies"
+date: 2018-02-17T21:51:13
 imdb: "1590193"
+categories: "movies"
 stars: "3/5"
+title: "O Passageiro"
+desc: "O Passageiro."
 ---
 Mais um filme do Liam Neeson descendo porrada em uns bandidos que querem fazer alguma coisa com sua família. Mas ele agora é um velhinho de 60 anos, ex-policial, trabalhou dez anos como vendedor de seguros para sustentar mulher e filho e é demitido cinco anos antes da aposentadoria. Assim não dá! Diga não à reforma da previdência!
 

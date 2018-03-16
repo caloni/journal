@@ -1,9 +1,10 @@
 ---
-date: 2018-02-27T19:04:08-03:00
-title: "Mr Robot: Terceira Temporada"
-categories: "blog"
+date: 2018-02-27T22:04:08
 imdb: "4158110"
+categories: "blog"
 stars: "5/5"
+title: "Mr Robot: Terceira Temporada"
+desc: "Mr Robot: Terceira Temporada."
 ---
 Seria um spoiler dizer que esta temporada de Mr. Robot terá ou não, como as duas temporadas anteriores, uma reviravolta no final? Bom, é como esse novo personagem diz: uma história pode começar morna, ter um meio medíocre, mas o final... precisa ser surpreendente. Então faça as contas.
 

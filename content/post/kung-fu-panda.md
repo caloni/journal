@@ -1,25 +1,10 @@
 ---
-date: "2014-12-14"
 imdb: "0441773"
+date: "2014-12-14"
+categories: "movies"
 title: "Kung Fu Panda"
 stars: "5/5"
-categories: "movies"
-_title: "Kung Fu Panda"
-_year: "2008"
-_director: ["Mark Osborne", "John Stevenson", ]
-_writer: ["Jonathan Aibel", "Glenn Berger", "Ethan Reiff", "Cyrus Voris", ]
-_cast: ["Jack Black", "Dustin Hoffman", "Angelina Jolie", "Ian McShane", "Jackie Chan", "Seth Rogen", "Lucy Liu", "David Cross", "Randall Duk Kim", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Clare De Chenu", ]
-_cinematographer: ["Yong Duk Jhun", ]
-_music: ["John Powell", "Hans Zimmer", ]
-_genres: ["Animation", ]
-_runtimes: ["92", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTIxOTY1NjUyN15BMl5BanBnXkFtZTcwMjMxMDk1MQ@@.jpg"
-_ratio: "1.44 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTIxOTY1NjUyN15BMl5BanBnXkFtZTcwMjMxMDk1MQ@@._V1._SX90_SY140_.jpg"
+desc: "Kung Fu Panda. Kung Fu Panda (USA, 2008). Dirigido por Mark Osborne, John Stevenson. Escrito por Jonathan Aibel, Glenn Berger, Ethan Reiff, Cyrus Voris. Com Jack Black, Dustin Hoffman, Angelina Jolie, Ian McShane, Jackie Chan, Seth Rogen, Lucy Liu, David Cross, Randall Duk Kim."
 ---
 Po é um panda, portanto, gordo e lerdo. Ele vive em um vilarejo chinês em torno de uma montanha que hospeda os chamados cinco furiosos, mestres de kung fu que são animais que representam os diferentes estilos dessa arte marcial milenar: tigre, serpente, louva-deus, garça e macaco. Todos são aprendizes do mestre Shifu que, ironicamente também é um panda, mas uma espécie bem menor. Shifu, apesar de mestre, ainda é impulsivo e precisa dos conselhos de seu próprio mestre, uma tartaruga que parece ter vivido séculos. O orgulho de Shifu quando jovem o fez treinar um outro aprendiz que passou a usar suas habilidades pelo poder e não pelo conhecimento, desonrando o grande mestre e trazendo perigo para os inocentes habitantes do vilarejo, em sua maioria porcos e coelhos. Condenado a uma prisão de segurança máxima, sempre há o risco que ele busque vingança e consiga o segredo mais desejado por todos os lutadores: como se tornar o Dragão-Guerreiro, a escala máxima do kung fu e ambição de todos os aprendizes.
 

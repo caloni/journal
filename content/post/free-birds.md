@@ -1,24 +1,10 @@
 ---
-date: "2014-08-15"
 imdb: "1621039"
+date: "2014-08-15"
+categories: "movies"
 title: "Free Birds"
 stars: "3/5"
-categories: "movies"
-_title: "Free Birds"
-_year: "2013"
-_director: ["Jimmy Hayward", ]
-_writer: ["Scott Mosier", "Jimmy Hayward", "David I. Stern", "John J. Strauss", ]
-_cast: ["Owen Wilson", "Woody Harrelson", "Amy Poehler", "George Takei", "Colm Meaney", "Keith David", "Dan Fogler", "Jimmy Hayward", "Kaitlyn Maher", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Chris Cartagena", ]
-_music: ["Dominic Lewis", ]
-_genres: ["Animation", ]
-_runtimes: ["91", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNjE0NjIwMzAwOF5BMl5BanBnXkFtZTgwOTIyMzMzMDE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNjE0NjIwMzAwOF5BMl5BanBnXkFtZTgwOTIyMzMzMDE@._V1._SX95_SY140_.jpg"
+desc: "Free Birds. Free Birds (USA, 2013). Dirigido por Jimmy Hayward. Escrito por Scott Mosier, Jimmy Hayward, David I. Stern, John J. Strauss. Com Owen Wilson, Woody Harrelson, Amy Poehler, George Takei, Colm Meaney, Keith David, Dan Fogler, Jimmy Hayward, Kaitlyn Maher."
 ---
 Free Birds é um desenho com qualidade técnica discutível e narrativa idem. Suas ideias oscilam entre o divertido e o repetitivo. Seus personagens são quase cópias de outros desenhos. Dito isto, o conjunto da obra mais impressiona por conseguir levar a história do começo ao fim a despeito de todas suas limitações.
 

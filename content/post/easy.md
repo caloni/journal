@@ -1,26 +1,11 @@
 ---
+tags: ['netflix', 'series']
+imdb: "5562056"
 date: "2016-10-23"
 categories: "series"
 title: "Easy"
-imdb: "5562056"
 stars: "4/5"
-tags: ['netflix', 'series']
-_title: "Easy"
-_year: "2016"
-_director: ["Joe Swanberg", ]
-_writer: ["Joe Swanberg", ]
-_cast: ["Jane Adams (Annabelle Jones)", "Zazie Beetz (Noelle)", "Aya Cash (Sherri)", "Dave Franco (Jeff)", "Jacqueline Toboni (Jo)", "Kiersey Clemons (Chase)", "Evan Jonigkeit (Matt)", "Rebecca Spence (Cheryl)", "Noah Hopkins (Russ)", ]
-_languages: ["English", ]
-_editor: ["Harrison Atkins", "Daniel Johnson", "Joe Swanberg", ]
-_cinematographer: ["Eon Mora", ]
-_music: ["Dan Romer", ]
-_artdirection: ["Michelle Fogle", ]
-_costume designer: ["Mary Mooney", ]
-_genres: ["Comedy", ]
-_runtimes: ["30", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA3MTAyNzUyNF5BMl5BanBnXkFtZTgwNDk4NzgwMDI@.jpg"
-_kind: "tv series"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA3MTAyNzUyNF5BMl5BanBnXkFtZTgwNDk4NzgwMDI@._V1._SX93_SY140_.jpg"
+desc: "Easy. Dirigido por Joe Swanberg. Escrito por Joe Swanberg. Com Jane Adams (Annabelle Jones), Zazie Beetz (Noelle), Aya Cash (Sherri), Dave Franco (Jeff), Jacqueline Toboni (Jo), Kiersey Clemons (Chase), Evan Jonigkeit (Matt), Rebecca Spence (Cheryl), Noah Hopkins (Russ)."
 ---
 Easy é uma série muito interessante da Netflix. Ela explora os relacionamentos mostrando como eles, na verdade, são bem mais simples do que a esmagadora maioria das pessoas pensa que é. Todo o drama, as complicações, a falta de comunicação é traduzida em uma linguagem simples, de São Francisco, que envolve diferentes tipos de casais (ou outros) em diferentes tipos de situações. Seus pontos em comum? Tentar complicar o que é muito, muito simples.
 

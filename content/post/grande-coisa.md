@@ -1,27 +1,11 @@
 ---
+tags: ['netflix']
+imdb: "0488085"
 date: "2016-09-08"
 categories: "movies"
 title: "Grande Coisa"
-imdb: "0488085"
 stars: "3/5"
-tags: ['netflix']
-_title: "Big Nothing"
-_year: "2006"
-_director: ["Jean-Baptiste Andrea", ]
-_writer: ["Jean-Baptiste Andrea", "William Rosenfeld", ]
-_cast: ["David Schwimmer", "Simon Pegg", "Alice Eve", "Natascha McElhone", "Jon Polito", "Mimi Rogers", "William Rosenfeld", "Julian Glover", "Olivia Peterson", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Antoine Vareille", ]
-_cinematographer: ["Richard Greatrex", ]
-_music: ["Alan Anton", ]
-_costume designer: ["Ffion Elinor", ]
-_genres: ["Comedy", ]
-_runtimes: ["86", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTY5NTc2NjYwOV5BMl5BanBnXkFtZTcwMzk5OTY0MQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTY5NTc2NjYwOV5BMl5BanBnXkFtZTcwMzk5OTY0MQ@@._V1._SX99_SY140_.jpg"
+desc: "Grande Coisa. Big Nothing (UK, 2006). Dirigido por Jean-Baptiste Andrea. Escrito por Jean-Baptiste Andrea, William Rosenfeld. Com David Schwimmer, Simon Pegg, Alice Eve, Natascha McElhone, Jon Polito, Mimi Rogers, William Rosenfeld, Julian Glover, Olivia Peterson."
 ---
 Lembra aquelas comédias meio-thriller, meio-policial e meio-pastelão(?!?). Pois é, em "Grande Coisa", isso foi pasteurizado, talvez "reimaginado", e se tornou uma trama pseudo-complexa sobre uma série de acontecimentos inesperados recheados de mentiras deslavadas e reviravoltas impossíveis, a ponto de duvidarmos se tudo aquilo poderia fazer sentido em um filme menos... retardado.
 

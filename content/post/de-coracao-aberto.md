@@ -1,22 +1,10 @@
 ---
-date: "2013-03-15"
-title: "De Coração Aberto"
 imdb: "2088962"
-stars: "4/5"
+date: "2013-03-15"
 categories: "movies"
-_title: "À coeur ouvert"
-_year: "2012"
-_director: ["Marion Laine", ]
-_writer: ["Mathias Énard", "Marion Laine", ]
-_cast: ["Juliette Binoche", "Édgar Ramírez", "Hippolyte Girardot", "Amandine Dewasmes", "Aurélia Petit", "Bernard Verley", "Elsa Tauveron", "Romain Rondeau", "Florence Huige", ]
-_countries: ["France", ]
-_languages: ["French", ]
-_editor: ["Mathilde Van de Moortel", ]
-_cinematographer: ["Antoine Héberlé", ]
-_genres: ["Drama", ]
-_runtimes: ["87", ]
-_ratio: "1.85 : 1"
-_kind: "movie"
+title: "De Coração Aberto"
+stars: "4/5"
+desc: "De Coração Aberto. À coeur ouvert (France, 2012). Dirigido por Marion Laine. Escrito por Mathias Énard, Marion Laine. Com Juliette Binoche, Édgar Ramírez, Hippolyte Girardot, Amandine Dewasmes, Aurélia Petit, Bernard Verley, Elsa Tauveron, Romain Rondeau, Florence Huige."
 ---
 Javier (Édgar Ramírez) é o cirurgião do hospital onde Mila (Juliette Binoche) trabalha. São marido e mulher. Ou melhor dizendo, mulher e marido. A impulsividade de Javier e sua dependência da mulher vão aos poucos se desenvolvendo pela diretora (e atriz) Marion Laine. Seu alcoolismo o afasta das operações, o que é o estopim para que sua impulsividade tome o controle não apenas de sua vida, mas de Mila. As coisas pioram quando descobrimos que ela está grávida. As decisões de Mila são sempre em função de Javier, que é uma bomba-relógio.
 

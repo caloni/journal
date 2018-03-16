@@ -1,27 +1,10 @@
 ---
-date: "2016-01-09"
 imdb: "0362270"
-stars: "4/5"
+date: "2016-01-09"
 categories: "movies"
 title: "A Vida Marinha com Steve Zissou"
-_title: "The Life Aquatic with Steve Zissou"
-_year: "2004"
-_director: ["Wes Anderson", ]
-_writer: ["Wes Anderson", "Noah Baumbach", ]
-_cast: ["Bill Murray", "Owen Wilson", "Cate Blanchett", "Anjelica Huston", "Willem Dafoe", "Jeff Goldblum", "Michael Gambon", "Noah Taylor", "Bud Cort", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["David Moritz", ]
-_cinematographer: ["Robert D. Yeoman", ]
-_music: ["Mark Mothersbaugh", ]
-_artdirection: ["Stefano Maria Ortolani", "Marco Trentini", "Eugenio Ulissi", ]
-_costume designer: ["Milena Canonero", ]
-_genres: ["Adventure", ]
-_runtimes: ["119", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTYzODYzNzg2MF5BMl5BanBnXkFtZTcwMTkzOTQzMw@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTYzODYzNzg2MF5BMl5BanBnXkFtZTcwMTkzOTQzMw@@._V1._SX96_SY140_.jpg"
+stars: "4/5"
+desc: "A Vida Marinha com Steve Zissou. The Life Aquatic with Steve Zissou (USA, 2004). Dirigido por Wes Anderson. Escrito por Wes Anderson, Noah Baumbach. Com Bill Murray, Owen Wilson, Cate Blanchett, Anjelica Huston, Willem Dafoe, Jeff Goldblum, Michael Gambon, Noah Taylor, Bud Cort."
 ---
 A Vida Marinha e Terrestre por Wes Anderson. Esse é o diretor que brinca com cenários paralelos e movimentos geométricos de câmera e revela sem nenhum pudor a excentricidade de seus personagens. Do ponto de vista da narrativa, ele brinca também com eles -- seus personagens -- como curiosidades dignas de serem abertas e analisadas através da inteligência de seus idealizadores -- os atores -- e como a interação entre eles revela isso é o mais interessante em sua cinematografia.
 

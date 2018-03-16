@@ -1,27 +1,11 @@
 ---
-date: "2015-10-09"
-tags: [ "cabine" ]
+tags: ['cabine']
 imdb: "2965412"
-stars: "3/5"
+date: "2015-10-09"
 categories: "movies"
 title: "Eu Estava Justamente Pensando em Você"
-_title: "Comet"
-_year: "2014"
-_director: ["Sam Esmail", ]
-_writer: ["Sam Esmail", ]
-_cast: ["Justin Long", "Kayla Servi", "Eric Winter", "Emmy Rossum", "Ben Scott", "Lou Beatty Jr.", "Ben Pace", "Nicole Lucas", "Connie Jackson", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Franklin Peterson", ]
-_cinematographer: ["Eric Koretz", ]
-_music: ["Daniel Hart", ]
-_artdirection: ["Brittany Hites", ]
-_costume designer: ["Mona May", ]
-_genres: ["Comedy", ]
-_runtimes: ["91", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTgwMTE4NzAwOF5BMl5BanBnXkFtZTgwNzE0MjkxMzE@.jpg"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTgwMTE4NzAwOF5BMl5BanBnXkFtZTgwNzE0MjkxMzE@._V1._SX94_SY140_.jpg"
+stars: "3/5"
+desc: "Eu Estava Justamente Pensando em Você. Comet (USA, 2014). Dirigido por Sam Esmail. Escrito por Sam Esmail. Com Justin Long, Kayla Servi, Eric Winter, Emmy Rossum, Ben Scott, Lou Beatty Jr., Ben Pace, Nicole Lucas, Connie Jackson."
 ---
 O que acontece quando um diretor/roteirista narcisista resolve criar um herói em seu filme de estreia que é um autista narcisista e ele começa a conjecturar as possibilidades futuras do relacionamento com uma garota que acabou de conhecer, e no processo tenta subverter alguns clichês de linguagem cinematográfica contemporâneo tentando soar muito, mas muuuuito mais inteligente do que verdadeiramente é?
 

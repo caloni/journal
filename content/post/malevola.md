@@ -1,25 +1,10 @@
 ---
-date: "2014-06-11"
 imdb: "1587310"
+date: "2014-06-11"
+categories: "movies"
 title: "Malévola"
 stars: "4/5"
-categories: "movies"
-_title: "Maleficent"
-_year: "2014"
-_director: ["Robert Stromberg", ]
-_writer: ["Linda Woolverton", "Charles Perrault", "Erdman Penner", "Joe Rinaldi", "Winston Hibler", "Bill Peet", "Ted Sears", "Ralph Wright", "Milt Banta", ]
-_cast: ["Angelina Jolie", "Elle Fanning", "Sharlto Copley", "Lesley Manville", "Imelda Staunton", "Juno Temple", "Sam Riley", "Brenton Thwaites", "Kenneth Cranham", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Chris Lebenzon", "Richard Pearson", ]
-_cinematographer: ["Dean Semler", ]
-_music: ["James Newton Howard", ]
-_genres: ["Action", ]
-_runtimes: ["97", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQ1NDk3NTk0MV5BMl5BanBnXkFtZTgwMTk3MDcxMzE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQ1NDk3NTk0MV5BMl5BanBnXkFtZTgwMTk3MDcxMzE@._V1._SX99_SY140_.jpg"
+desc: "Malévola. Maleficent (USA, 2014). Dirigido por Robert Stromberg. Escrito por Linda Woolverton, Charles Perrault, Erdman Penner, Joe Rinaldi, Winston Hibler, Bill Peet, Ted Sears, Ralph Wright, Milt Banta. Com Angelina Jolie, Elle Fanning, Sharlto Copley, Lesley Manville, Imelda Staunton, Juno Temple, Sam Riley, Brenton Thwaites, Kenneth Cranham."
 ---
 Difícil imaginar a bela Angeline Jolie, que também é um ótimo ser humano na vida real, interpretar um vilão. Porém, como pode-se esperar, não é exatamente isso que Malévola tenta fazer. Para um filme da Disney, há uma aura um pouco mais adulta que, assim como Frozen, tenta amadurecer o conceito de amor e abraçar cada vez mais um mundo onde mulheres não dependem dos homens para praticamente nada.
 

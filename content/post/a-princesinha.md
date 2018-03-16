@@ -1,25 +1,10 @@
 ---
-date: "2014-03-23"
 imdb: "0113670"
+date: "2014-03-23"
+categories: "movies"
 title: "A Princesinha"
 stars: "5/5"
-categories: "movies"
-_title: "A Little Princess"
-_year: "1995"
-_director: ["Alfonso Cuarón", ]
-_writer: ["Frances Hodgson Burnett", "Richard LaGravenese", "Elizabeth Chandler", ]
-_cast: ["Liesel Matthews", "Eleanor Bron", "Liam Cunningham", "Rusty Schwimmer", "Arthur Malet", "Vanessa Lee Chester", "Errol Sitahal", "Heather DeLoach", "Taylor Fry", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Steven Weisberg", ]
-_cinematographer: ["Emmanuel Lubezki", ]
-_music: ["Patrick Doyle", ]
-_genres: ["Drama", ]
-_runtimes: ["97", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTYxMTA0OTc1Nl5BMl5BanBnXkFtZTgwOTExNzQxMTE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTYxMTA0OTc1Nl5BMl5BanBnXkFtZTgwOTExNzQxMTE@._V1._SX95_SY140_.jpg"
+desc: "A Princesinha. A Little Princess (USA, 1995). Dirigido por Alfonso Cuarón. Escrito por Frances Hodgson Burnett, Richard LaGravenese, Elizabeth Chandler. Com Liesel Matthews, Eleanor Bron, Liam Cunningham, Rusty Schwimmer, Arthur Malet, Vanessa Lee Chester, Errol Sitahal, Heather DeLoach, Taylor Fry."
 ---
 É muito bom de vez em quando levar um tapa na cara dos gêneros menos "louváveis" como essa aventura/fantasia que abraça completamente o clima de conto de fadas. Dirigido pelo ainda jovem talento Alfonso Cuarón em 95, é um filme para chorar, com momentos dramáticos extremamente angustiantes, ainda que a heroína seja uma criança, mas que, depois de viver na Índia, é entregue aos cuidados de uma escola para garotas em Nova Iorque para que seu pai viúvo sofra as agrúrias da guerra. 
 

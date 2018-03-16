@@ -1,24 +1,10 @@
 ---
-date: "2010-10-27"
 imdb: "0775489"
+date: "2010-10-27"
+categories: "movies"
 title: "O Mágico"
 stars: "3/5"
-categories: "movies"
-_title: "L'illusionniste"
-_year: "2010"
-_director: ["Sylvain Chomet", ]
-_writer: ["Sylvain Chomet", "Jacques Tati", ]
-_cast: ["Jean-Claude Donda", "Eilidh Rankin", "Duncan MacNeil", "Raymond Mearns", "James T. Muir", "Tom Urie", "Paul Bandey", ]
-_countries: ["France", ]
-_languages: ["English", ]
-_editor: ["Sylvain Chomet", ]
-_music: ["Sylvain Chomet", ]
-_genres: ["Animation", ]
-_runtimes: ["USA:80", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTg0MjI4MTcxMF5BMl5BanBnXkFtZTcwNTQ1ODUwNA@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTg0MjI4MTcxMF5BMl5BanBnXkFtZTcwNTQ1ODUwNA@@._V1._SX94_SY140_.jpg"
+desc: "O Mágico. L'illusionniste (France, 2010). Dirigido por Sylvain Chomet. Escrito por Sylvain Chomet, Jacques Tati. Com Jean-Claude Donda, Eilidh Rankin, Duncan MacNeil, Raymond Mearns, James T. Muir, Tom Urie, Paul Bandey."
 ---
 Esse é o novo longa de Sylvain Chomet, o mesmo diretor de "As Biciletas de Belleville". Foi baseado em um roteiro de Jacques Tati (Meu Tio). Ou seja, temos aqui um roteiro de algo belo em sua pureza sendo dirigido por alguém com o controle nato do surreal. Não bom.
 

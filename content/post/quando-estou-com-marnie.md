@@ -1,25 +1,11 @@
 ---
-date: "2015-09-13"
 imdb: "3398268"
-stars: "4/5"
+date: "2015-09-13"
 categories: "movies"
 title: "Quando Estou Com Marnie"
-revision: [2015-11-22]
-_title: "Omoide no Mânî"
-_year: "2014"
-_director: ["Hiromasa Yonebayashi", ]
-_writer: ["Joan G. Robinson", "Keiko Niwa", "Masashi Ando", "Hiromasa Yonebayashi", "David Freedman", ]
-_cast: ["Sara Takatsuki", "Kasumi Arimura", "Nanako Matsushima", "Susumu Terajima", "Toshie Negishi", "Ryôko Moriyama", "Kazuko Yoshiyuki", "Hitomi Kuroki", "Ava Acres", ]
-_countries: ["Japan", ]
-_languages: ["Japanese", ]
-_music: ["Takatsugu Muramatsu", ]
-_artdirection: ["Yohei Taneda", ]
-_genres: ["Animation", ]
-_runtimes: ["103", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQ1ODY3MTc5MF5BMl5BanBnXkFtZTgwOTUyNDI2NTE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQ1ODY3MTc5MF5BMl5BanBnXkFtZTgwOTUyNDI2NTE@._V1._SX96_SY140_.jpg"
+stars: "4/5"
+revision: [datetime.date(2015, 11, 22)]
+desc: "Quando Estou Com Marnie. Omoide no Mânî (Japan, 2014). Dirigido por Hiromasa Yonebayashi. Escrito por Joan G. Robinson, Keiko Niwa, Masashi Ando, Hiromasa Yonebayashi, David Freedman. Com Sara Takatsuki, Kasumi Arimura, Nanako Matsushima, Susumu Terajima, Toshie Negishi, Ryôko Moriyama, Kazuko Yoshiyuki, Hitomi Kuroki, Ava Acres."
 ---
 Mais um dos filmes dos estúdios Ghibli (em que um dos fundadores é Hayao Miyazaki) que já estreou há mais de um ano no Japão e aqui custa a aparecer uma distribuidora decente. Aliás, vamos combinar: não existe distribuidora confiável em solo nacional.
 

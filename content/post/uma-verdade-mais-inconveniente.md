@@ -1,27 +1,11 @@
 ---
-imdb: "6322922"
-stars: "3/5"
 tags: ['cabine', 'mostrasp']
+imdb: "6322922"
 date: 2017-10-20T21:47:12
-title: "Uma Verdade Mais Inconveniente"
 categories: "movies"
-_title: "An Inconvenient Sequel: Truth to Power"
-_year: "2017"
-_director: ["Bonni Cohen", "Jon Shenk", ]
-_writer: ["Al Gore", ]
-_cast: ["Al Gore (Himself)", "George W. Bush (Himself)", "John Kerry (Himself)", "Marco Krapels (Himself)", "Angela Merkel (Herself)", "Barack Obama (Himself)", "Vladimir Putin (Himself)", "Donald J. Trump (Himself)", "Tom Rielly (Himself)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Don Bernier", "Colin Nusbaum", ]
-_cinematographer: ["Jon Shenk", ]
-_music: ["Jeff Beal", ]
-_genres: ["Documentary", ]
-_runtimes: ["98", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNTkzNTQ0MzA3Ml5BMl5BanBnXkFtZTgwNzg4OTcyMjI@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNTkzNTQ0MzA3Ml5BMl5BanBnXkFtZTgwNzg4OTcyMjI@._V1._SX90_SY140_.jpg"
-_releasedate: "9 November 2017"
+title: "Uma Verdade Mais Inconveniente"
+stars: "3/5"
+desc: "Uma Verdade Mais Inconveniente. An Inconvenient Sequel: Truth to Power (USA, 2017). Dirigido por Bonni Cohen, Jon Shenk. Escrito por Al Gore. Com Al Gore (Himself), George W. Bush (Himself), John Kerry (Himself), Marco Krapels (Himself), Angela Merkel (Herself), Barack Obama (Himself), Vladimir Putin (Himself), Donald J. Trump (Himself), Tom Rielly (Himself)."
 ---
 E eis que Al Gore, alvo de piadas inspiradas em South Park, volta para a continuação sobre os perigos da extinção do homem-urso-porco. Sabe, aquela criatura mística que é metade homem, metade urso e metade porco. Sem pretensões de explicar para o público em geral que não existem três metades de uma coisa, o que Gore faz efusivamente é apelar para gráficos, imagens, vídeos de catástrofes e muita emoção. E ele consegue. Pelo menos na frente das câmeras.
 

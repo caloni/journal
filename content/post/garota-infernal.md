@@ -1,25 +1,10 @@
 ---
-date: "2011-05-21"
 imdb: "1131734"
+date: "2011-05-21"
+categories: "movies"
 title: "Garota Infernal"
 stars: "2/5"
-categories: "movies"
-_title: "Jennifer's Body"
-_year: "2009"
-_director: ["Karyn Kusama", ]
-_writer: ["Diablo Cody", ]
-_cast: ["Megan Fox", "Amanda Seyfried", "Johnny Simmons", "Adam Brody", "Sal Cortez", "Ryan Levine", "Juan Riedinger", "Colin Askey", "Chris Pratt", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Plummy Tucker", ]
-_cinematographer: ["M. David Mullen", ]
-_music: ["Stephen Barton", "Theodore Shapiro", ]
-_genres: ["Comedy", ]
-_runtimes: ["102", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTMxNzYwMjc1Ml5BMl5BanBnXkFtZTcwNDI3MDE3Mg@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTMxNzYwMjc1Ml5BMl5BanBnXkFtZTcwNDI3MDE3Mg@@._V1._SX95_SY140_.jpg"
+desc: "Garota Infernal. Jennifer's Body (USA, 2009). Dirigido por Karyn Kusama. Escrito por Diablo Cody. Com Megan Fox, Amanda Seyfried, Johnny Simmons, Adam Brody, Sal Cortez, Ryan Levine, Juan Riedinger, Colin Askey, Chris Pratt."
 ---
 Aprendemos duas coisas assistindo Garota Infernal: que não se dá Oscar de melhor roteiro para uma estreante com delírios de grandeza (Diablo Cody, de Juno) e não se coloca atrizes como Megan Fox (Transformers e... argh! Transformers 2), que rivaliza com Kristen Stewart em atuação, em um papel principal.
 

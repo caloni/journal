@@ -1,27 +1,11 @@
 ---
+tags: ['cabine']
+imdb: "3991412"
 date: "2016-10-04"
 categories: "movies"
 title: "A Nona Vida de Louis Drax"
-imdb: "3991412"
 stars: "4/5"
-tags: ['cabine']
-_title: "The 9th Life of Louis Drax"
-_year: "2016"
-_director: ["Alexandre Aja", ]
-_writer: ["Liz Jensen", "Max Minghella", ]
-_cast: ["Jamie Dornan (Dr. Allan Pascal)", "Aiden Longworth (Louis Drax)", "Sarah Gadon (Natalie)", "Michael Adamthwaite (Doctor)", "Aaron Paul (Peter)", "Beckham Skodje (Louis)", "Adam Abrams (Doctor)", "Molly Parker (Dalton)", "Terry Chen (Elliott)", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Baxter", ]
-_cinematographer: ["Maxime Alexandre", ]
-_music: ["Patrick Watson", ]
-_artdirection: ["Nigel Evans", ]
-_costume designer: ["Carla Hetland", ]
-_genres: ["Mystery", ]
-_runtimes: ["108", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjQ0NjQxNDk4NV5BMl5BanBnXkFtZTgwMjE0ODc4OTE@.jpg"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjQ0NjQxNDk4NV5BMl5BanBnXkFtZTgwMjE0ODc4OTE@._V1._SX94_SY140_.jpg"
+desc: "A Nona Vida de Louis Drax. The 9th Life of Louis Drax (UK, 2016). Dirigido por Alexandre Aja. Escrito por Liz Jensen, Max Minghella. Com Jamie Dornan (Dr. Allan Pascal), Aiden Longworth (Louis Drax), Sarah Gadon (Natalie), Michael Adamthwaite (Doctor), Aaron Paul (Peter), Beckham Skodje (Louis), Adam Abrams (Doctor), Molly Parker (Dalton), Terry Chen (Elliott)."
 ---
 Apresentado inicialmente como uma história bonitinha de superação de uma criança que entra em coma, este filme tem o dom de te fazer rever como a compaixão é a pior coisa já inventada pela humanidade. Ela destrói vidas como se estivesse a ajudá-las, mas levada ao extremo, é tão doentio que mostra a outra diferença entre animais e seres humanos: mesmo sabendo o que é errado, seres humanos continuam a fazê-lo.
 

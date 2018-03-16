@@ -1,26 +1,11 @@
 ---
-date: "2015-03-13"
 imdb: "2562232"
-title: "Birdman ou (A Inesperada Virtude da Ignorância)"
-revision: [2015-05-08]
-stars: "5/5"
+date: "2015-03-13"
 categories: "movies"
-_title: "Birdman: Or (The Unexpected Virtue of Ignorance)"
-_year: "2014"
-_director: ["Alejandro González Iñárritu", ]
-_writer: ["Alejandro González Iñárritu", "Nicolás Giacobone", "Alexander Dinelaris", "Armando Bo", "Raymond Carver", ]
-_cast: ["Michael Keaton", "Emma Stone", "Kenny Chin", "Jamahl Garrison-Lowe", "Zach Galifianakis", "Naomi Watts", "Jeremy Shamos", "Andrea Riseborough", "Katherine O'Sullivan", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Douglas Crise", "Stephen Mirrione", ]
-_cinematographer: ["Emmanuel Lubezki", ]
-_music: ["Antonio Sanchez", ]
-_genres: ["Comedy", ]
-_runtimes: ["119", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BODAzNDMxMzAxOV5BMl5BanBnXkFtZTgwMDMxMjA4MjE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BODAzNDMxMzAxOV5BMl5BanBnXkFtZTgwMDMxMjA4MjE@._V1._SX94_SY140_.jpg"
+title: "Birdman ou (A Inesperada Virtude da Ignorância)"
+stars: "5/5"
+revision: [datetime.date(2015, 5, 8)]
+desc: "Birdman ou (A Inesperada Virtude da Ignorância). Birdman: Or (The Unexpected Virtue of Ignorance) (USA, 2014). Dirigido por Alejandro González Iñárritu. Escrito por Alejandro González Iñárritu, Nicolás Giacobone, Alexander Dinelaris, Armando Bo, Raymond Carver. Com Michael Keaton, Emma Stone, Kenny Chin, Jamahl Garrison-Lowe, Zach Galifianakis, Naomi Watts, Jeremy Shamos, Andrea Riseborough, Katherine O'Sullivan."
 ---
 Antes de falar sobre Bidman, vamos aproveitar para tirar um elefante branco da sala: o plano-sequência. O que são? O que comem? Como se reproduzem?
 

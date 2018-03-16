@@ -1,26 +1,11 @@
 ---
-date: "2011-05-16"
 imdb: "0446029"
-revision: [2013-12-28]
+date: "2011-05-16"
+categories: "movies"
 title: "Scott Pilgrim Contra o Mundo"
 stars: "5/5"
-categories: "movies"
-_title: "Scott Pilgrim vs. the World"
-_year: "2010"
-_director: ["Edgar Wright", ]
-_writer: ["Michael Bacall", "Edgar Wright", "Bryan Lee O'Malley", ]
-_cast: ["Michael Cera", "Alison Pill", "Mark Webber", "Johnny Simmons", "Ellen Wong", "Kieran Culkin", "Anna Kendrick", "Aubrey Plaza", "Mary Elizabeth Winstead", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Jonathan Amos", "Paul Machliss", ]
-_cinematographer: ["Bill Pope", ]
-_music: ["Nigel Godrich", ]
-_genres: ["Action", ]
-_runtimes: ["112", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTkwNTczNTMyOF5BMl5BanBnXkFtZTcwNzUxOTUyMw@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTkwNTczNTMyOF5BMl5BanBnXkFtZTcwNzUxOTUyMw@@._V1._SX95_SY140_.jpg"
+revision: [datetime.date(2013, 12, 28)]
+desc: "Scott Pilgrim Contra o Mundo. Scott Pilgrim vs. the World (USA, 2010). Dirigido por Edgar Wright. Escrito por Michael Bacall, Edgar Wright, Bryan Lee O'Malley. Com Michael Cera, Alison Pill, Mark Webber, Johnny Simmons, Ellen Wong, Kieran Culkin, Anna Kendrick, Aubrey Plaza, Mary Elizabeth Winstead."
 ---
 Scott Pilgrim é o tipo de filme que abraça um conceito até o fim. Melhor: começa como um filme comum, mas vai apresentando o seu conceito de forma orgânica e cada vez mais intensa. E intensidade é uma palavra que resume muito bem toda a experiência que esse filme proporciona.
 

@@ -1,25 +1,10 @@
 ---
-date: "2011-10-30"
 imdb: "1314655"
+date: "2011-10-30"
+categories: "movies"
 title: "Demônio"
 stars: "3/5"
-categories: "movies"
-_title: "Devil"
-_year: "2010"
-_director: ["John Erick Dowdle", ]
-_writer: ["Brian Nelson", "M. Night Shyamalan", ]
-_cast: ["Chris Messina", "Logan Marshall-Green", "Jenny O'Hara", "Bojana Novakovic", "Bokeem Woodbine", "Geoffrey Arend", "Jacob Vargas", "Matt Craven", "Joshua Peace", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Elliot Greenberg", ]
-_cinematographer: ["Tak Fujimoto", ]
-_music: ["Fernando Velázquez", ]
-_genres: ["Horror", ]
-_runtimes: ["80", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTgxMTI1OTY2N15BMl5BanBnXkFtZTcwMzY3NTU2Mw@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTgxMTI1OTY2N15BMl5BanBnXkFtZTcwMzY3NTU2Mw@@._V1._SX95_SY140_.jpg"
+desc: "Demônio. Devil (USA, 2010). Dirigido por John Erick Dowdle. Escrito por Brian Nelson, M. Night Shyamalan. Com Chris Messina, Logan Marshall-Green, Jenny O'Hara, Bojana Novakovic, Bokeem Woodbine, Geoffrey Arend, Jacob Vargas, Matt Craven, Joshua Peace."
 ---
 O filme começa com uma narração em off (que nunca é revelada) a respeito de uma história contada pela avó do sujeito que dizia que o demônio, às vezes, "sobe à superfície" para pegar algumas almas desprevenidas. De acordo com a mesma avó, o demônio segue algumas regras, que se iniciam com um suicídio (nunca explicado no filme), que permite que ele entre e apronte mais uma das suas.
 

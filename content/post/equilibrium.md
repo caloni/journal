@@ -1,27 +1,10 @@
 ---
-date: "2016-05-08"
 imdb: "0238380"
-stars: "3/5"
+date: "2016-05-08"
 categories: "movies"
 title: "Equilibrium"
-_title: "Equilibrium"
-_year: "2002"
-_director: ["Kurt Wimmer", ]
-_writer: ["Kurt Wimmer", ]
-_cast: ["Christian Bale", "Dominic Purcell", "Sean Bean", "Christian Kahrmann", "John Keogh", "Sean Pertwee", "William Fichtner", "Angus Macfadyen", "David Barrash", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Tom Rolf", "William Yeh", ]
-_cinematographer: ["Dion Beebe", ]
-_music: ["Klaus Badelt", ]
-_artdirection: ["Erik Olson", "Justin Warburton-Brown", ]
-_costume designer: ["Joseph A. Porro", ]
-_genres: ["Action", ]
-_runtimes: ["107", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTkzMzA1OTI3N15BMl5BanBnXkFtZTYwMzUyMDg5.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTkzMzA1OTI3N15BMl5BanBnXkFtZTYwMzUyMDg5._V1._SX95_SY140_.jpg"
+stars: "3/5"
+desc: "Equilibrium. Equilibrium (USA, 2002). Dirigido por Kurt Wimmer. Escrito por Kurt Wimmer. Com Christian Bale, Dominic Purcell, Sean Bean, Christian Kahrmann, John Keogh, Sean Pertwee, William Fichtner, Angus Macfadyen, David Barrash."
 ---
 Equilibrium é um filme que parece sofrer do próprio efeito afetado de seus personagens, pertencentes a uma espécie de paródia de "1984" a respeito de um futuro distópico onde é proibido sentir. Se o sentir para os personagens é algo natural, transformar isso em linguagem cinematográfica é um desafio que o diretor/roteirista Kurt Wimmer topa conduzir, gerando no processo resultados mistos.
 

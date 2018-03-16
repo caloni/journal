@@ -1,25 +1,10 @@
 ---
-date: "2011-01-19"
 imdb: "0477080"
+date: "2011-01-19"
+categories: "movies"
 title: "Incontrolável"
 stars: "3/5"
-categories: "movies"
-_title: "Unstoppable"
-_year: "2010"
-_director: ["Tony Scott", ]
-_writer: ["Mark Bomback", ]
-_cast: ["Denzel Washington", "Chris Pine", "Rosario Dawson", "Ethan Suplee", "Kevin Dunn", "Kevin Corrigan", "Kevin Chapman", "Lew Temple", "T.J. Miller", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Robert Duffy", "Chris Lebenzon", ]
-_cinematographer: ["Ben Seresin", ]
-_music: ["Harry Gregson-Williams", ]
-_genres: ["Action", ]
-_runtimes: ["98", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjI4NDQwMDM0N15BMl5BanBnXkFtZTcwMzY1ODMwNA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjI4NDQwMDM0N15BMl5BanBnXkFtZTcwMzY1ODMwNA@@._V1._SX95_SY140_.jpg"
+desc: "Incontrolável. Unstoppable (USA, 2010). Dirigido por Tony Scott. Escrito por Mark Bomback. Com Denzel Washington, Chris Pine, Rosario Dawson, Ethan Suplee, Kevin Dunn, Kevin Corrigan, Kevin Chapman, Lew Temple, T.J. Miller."
 ---
 Ontem fui ver o novo filme de ação de Denzel Washington. É sobre um trem desgovernado e os esforços para segurar o bicho antes que ele destrua alguma coisa. Confesso que fiquei impressionado com a atuação acima de Denzel no papel de Frank, um condutor de trens de carga que trabalhou a vida toda nisso. Seu sotaque e seus gestos condizem de alguma forma com o personagem, enquanto seu companheiro de viagem Will (Chris Pine) fica com seus dramazinhos de família tão bobinhos que passam despercebidos.
 

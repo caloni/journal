@@ -1,25 +1,10 @@
 ---
-date: "2015-10-24"
 imdb: "3118452"
-stars: "4/5"
+date: "2015-10-24"
 categories: "movies"
 title: "Circle"
-_title: "Circle"
-_year: "2015"
-_director: ["Aaron Hann", "Mario Miscione", ]
-_writer: ["Aaron Hann", "Mario Miscione", ]
-_cast: ["Julie Benz", "Mercy Malick", "Carter Jenkins", "Sara Sanderson", "Lisa Pelikan", "Lawrence Kao", "Cesar Garcia", "Michael Nardelli", "Jordi Vilasuso", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Tom Campbell", ]
-_cinematographer: ["Zoran Popovic", ]
-_music: ["Justin Marshall Elias", ]
-_costume designer: ["Carrie Grace", ]
-_genres: ["Drama", ]
-_runtimes: ["87", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjQwNjM3NTM4N15BMl5BanBnXkFtZTgwNDU4NDE3NDE@.jpg"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjQwNjM3NTM4N15BMl5BanBnXkFtZTgwNDU4NDE3NDE@._V1._SX94_SY140_.jpg"
+stars: "4/5"
+desc: "Circle. Circle (USA, 2015). Dirigido por Aaron Hann, Mario Miscione. Escrito por Aaron Hann, Mario Miscione. Com Julie Benz, Mercy Malick, Carter Jenkins, Sara Sanderson, Lisa Pelikan, Lawrence Kao, Cesar Garcia, Michael Nardelli, Jordi Vilasuso."
 ---
 Circle é um trabalho minimalista que resume o sistema de votos através de uma alegoria simplista, mas eficiente: alienígenas adbuzem 50 pessoas e as colocam dispostas em um círculo. Elas não podem sair de seus lugares nem tocar as pessoas ao lado, pela pena de serem mortas por um raio que sai do meio do círculo. Ah, mais um detalhe: de tempos em tempos uma pessoa é morta, escolhida através de todos.
 

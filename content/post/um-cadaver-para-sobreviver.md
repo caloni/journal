@@ -1,28 +1,11 @@
 ---
+tags: ['netflix']
+imdb: "4034354"
 date: "2017-01-05"
 categories: "movies"
 title: "Um Cadáver Para Sobreviver"
-imdb: "4034354"
 stars: "4/5"
-tags: ['netflix']
-_title: "Swiss Army Man"
-_year: "2016"
-_director: ["Dan Kwan", "Daniel Scheinert", ]
-_writer: ["Dan Kwan", "Daniel Scheinert", ]
-_cast: ["Paul Dano (Hank)", "Daniel Radcliffe (Manny)", "Mary Elizabeth Winstead (Sarah)", "Antonia Ribero (Crissie)", "Timothy Eulich (Preston)", "Richard Gross (Hank's Dad)", "Marika Casteel (Reporter)", "Andy Hull (Cameraman)", "Aaron Marshall (Officer #1)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Matthew Hannam", ]
-_cinematographer: ["Larkin Seiple", ]
-_music: ["Andy Hull", "Robert McDowell", ]
-_artdirection: ["David Duarte", ]
-_costume designer: ["Stephani Lewis", ]
-_genres: ["Adventure", ]
-_runtimes: ["97", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk0OTEyMjM1OF5BMl5BanBnXkFtZTgwMzMzODM4ODE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk0OTEyMjM1OF5BMl5BanBnXkFtZTgwMzMzODM4ODE@._V1._SX95_SY140_.jpg"
+desc: "Um Cadáver Para Sobreviver. Swiss Army Man (USA, 2016). Dirigido por Dan Kwan, Daniel Scheinert. Escrito por Dan Kwan, Daniel Scheinert. Com Paul Dano (Hank), Daniel Radcliffe (Manny), Mary Elizabeth Winstead (Sarah), Antonia Ribero (Crissie), Timothy Eulich (Preston), Richard Gross (Hank's Dad), Marika Casteel (Reporter), Andy Hull (Cameraman), Aaron Marshall (Officer #1)."
 ---
 Swiss Army Man é o grito de desespero do tímido comum elevado à décima potência, o que segundo meus cálculos, pela regra do absurdo, gera um filme com um humor tão hilário quanto triste. Acorrentado em seus próprios medos, o tímido comum busca uma conexão com quem não o julga, ou quem não se parece superior a ele. Eu diria que qualquer um se sentiria menos inferior do lado de um defunto que continua soltando gases e nem sabe ainda o que é masturbação.
 

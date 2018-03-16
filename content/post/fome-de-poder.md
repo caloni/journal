@@ -1,29 +1,11 @@
 ---
+tags: ['paulocoelho']
+imdb: "4276820"
 date: "2017-05-28"
 categories: "movies"
 title: "Fome de Poder"
-imdb: "4276820"
 stars: "4/5"
-tags: ['paulocoelho']
-_title: "The Founder"
-_year: "2016"
-_director: ["John Lee Hancock", ]
-_writer: ["Robert D. Siegel", ]
-_cast: ["Michael Keaton (Ray Kroc)", "Nick Offerman (Dick McDonald)", "John Carroll Lynch (Mac McDonald)", "Linda Cardellini (Joan Smith)", "B.J. Novak (Harry J. Sonneborn)", "Laura Dern (Ethel Kroc)", "Justin Randell Brooke (Fred Turner)", "Kate Kneeland (June Martino)", "Patrick Wilson (Rollie Smith)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Robert Frazen", ]
-_cinematographer: ["John Schwartzman", ]
-_music: ["Carter Burwell", ]
-_artdirection: ["Hugh D.G. Moody", ]
-_costume designer: ["Daniel Orlandi", ]
-_genres: ["Biography", ]
-_runtimes: ["USA:115", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMzExNDg0MDk1M15BMl5BanBnXkFtZTgwNzE1Mjg0MDI@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMzExNDg0MDk1M15BMl5BanBnXkFtZTgwNzE1Mjg0MDI@._V1._SX94_SY140_.jpg"
-_releasedate: "9 March 2017"
+desc: "Fome de Poder. The Founder (USA, 2016). Dirigido por John Lee Hancock. Escrito por Robert D. Siegel. Com Michael Keaton (Ray Kroc), Nick Offerman (Dick McDonald), John Carroll Lynch (Mac McDonald), Linda Cardellini (Joan Smith), B.J. Novak (Harry J. Sonneborn), Laura Dern (Ethel Kroc), Justin Randell Brooke (Fred Turner), Kate Kneeland (June Martino), Patrick Wilson (Rollie Smith)."
 ---
 Esta é a história do primeiro fast-food do mundo, o famigerado McDonald's, ou a história de como uma rede de restaurantes se torna um império imobiliário. Todos os eventos baseados em fatos reais está disponível em "The Founder", ou a péssima tradução "Fome de Poder", com um tom excessivamente dramático e com a alma de um Michael Keaton que desde Birdman parece usar seu ego fora do controle para papéis megalomaníacos.
 

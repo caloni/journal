@@ -1,25 +1,11 @@
 ---
+tags: ['paulocoelho']
+imdb: "0017825"
 date: "2016-12-15"
 categories: "movies"
 title: "Downhill"
-imdb: "0017825"
 stars: "4/5"
-tags: ['paulocoelho']
-_title: "Downhill"
-_year: "1927"
-_director: ["Alfred Hitchcock", ]
-_writer: ["Constance Collier", "Ivor Novello", "Eliot Stannard", ]
-_cast: ["Ivor Novello (Roddy Berwick)", "Ben Webster (Dr. Dawson)", "Norman McKinnel (Sir Thomas Berwick)", "Robin Irvine (Tim Wakeley)", "Jerrold Robertshaw (The Rev. Henry Wakeley)", "Sybil Rhoda (Sybil Wakeley)", "Annette Benson (Mabel)", "Lilian Braithwaite (Lady Berwick)", "Isabel Jeans (Julia)", ]
-_countries: ["UK", ]
-_editor: ["Lionel Rich", "Ivor Montagu", ]
-_cinematographer: ["Claude L. McDonnell", ]
-_artdirection: ["Bertram Evans", ]
-_genres: ["Adventure", ]
-_runtimes: ["80", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY0OTI5NzQyM15BMl5BanBnXkFtZTgwNzExNzA1MjE@.jpg"
-_ratio: "1.33 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY0OTI5NzQyM15BMl5BanBnXkFtZTgwNzExNzA1MjE@._V1._SX93_SY140_.jpg"
+desc: "Downhill. Downhill (UK, 1927). Dirigido por Alfred Hitchcock. Escrito por Constance Collier, Ivor Novello, Eliot Stannard. Com Ivor Novello (Roddy Berwick), Ben Webster (Dr. Dawson), Norman McKinnel (Sir Thomas Berwick), Robin Irvine (Tim Wakeley), Jerrold Robertshaw (The Rev. Henry Wakeley), Sybil Rhoda (Sybil Wakeley), Annette Benson (Mabel), Lilian Braithwaite (Lady Berwick), Isabel Jeans (Julia)."
 ---
 Este é o quinto filme dirigido por Alfred Hitchcock, um dos três filmes que ele dirigiu apenas em 1927. Após The Pleasure Garden, seu primeiro, teríamos The Mountain Eagle, um filme perdido há mais de 50 anos. Já este quinto oferece algumas belas surpresas na direção, como uma câmera subjetiva alternada, além de algumas ótimas piadas ocasionais em um drama no melhor estilo "retorno do filho pródigo".
 

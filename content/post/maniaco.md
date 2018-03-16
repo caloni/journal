@@ -1,29 +1,11 @@
 ---
-imdb: "2103217"
-stars: "4/5"
 tags: ['netflix']
+imdb: "2103217"
 date: 2017-11-30T00:07:56
-title: "Maníaco"
 categories: "movies"
-_title: "Maniac"
-_year: "2012"
-_director: ["Franck Khalfoun", ]
-_writer: ["Alexandre Aja", "Grégory Levasseur", "Joe Spinell", ]
-_cast: ["Nora Arnezeder (Anna)", "Brian Ames (80's Man 1)", "America Olivo (Frank's Mother)", "Genevieve Alexandra (Jessica)", "Liane Balaban (Judy)", "Jan Broberg (Rita)", "Aaron Colom (Alley Man)", "Joshua Delagarza (Martin Nunez)", "Alex Diaz (Puppeteer #2)", "Elijah Wood (Frank)", ]
-_countries: ["France", ]
-_languages: ["English", ]
-_editor: ["Baxter", "Franck Khalfoun", ]
-_cinematographer: ["Maxime Alexandre", ]
-_music: ["Robin Coudert", ]
-_artdirection: ["dooner", ]
-_costume designer: ["Mairi Chisholm", ]
-_genres: ["Horror", ]
-_runtimes: ["89", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BYzUyODkwNzUtNGQ0Yy00MGExLTg2NGItNjA4NTEyYjIxYWNhXkEyXkFqcGdeQXVyMTQxNzMzNDI@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BYzUyODkwNzUtNGQ0Yy00MGExLTg2NGItNjA4NTEyYjIxYWNhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1._SX92_SY140_.jpg"
-_releasedate: "6 September 2013"
+title: "Maníaco"
+stars: "4/5"
+desc: "Maníaco. Maniac (France, 2012). Dirigido por Franck Khalfoun. Escrito por Alexandre Aja, Grégory Levasseur, Joe Spinell. Com Nora Arnezeder (Anna), Brian Ames (80's Man 1), America Olivo (Frank's Mother), Genevieve Alexandra (Jessica), Liane Balaban (Judy), Jan Broberg (Rita), Aaron Colom (Alley Man), Joshua Delagarza (Martin Nunez), Alex Diaz (Puppeteer #2), Elijah Wood (Frank)."
 ---
 Estou em uma sequência foda de gore. E estamos apenas no segundo. Depois de Cronenberg e seu clássico techno-obscuro [A Mosca](/a-mosca), este bem mais recente Maníaco, também uma espécie de remake, e estrelado parcialmente por Elijah Wood e parcialmente por sua voz, nos apresenta o ponto de vista mais fascinante de toda história de serial killers: o ponto de vista dele mesmo.
 

@@ -1,25 +1,10 @@
 ---
-date: "2012-08-25"
 imdb: "0299977"
+date: "2012-08-25"
+categories: "movies"
 title: "Herói"
 stars: "5/5"
-categories: "movies"
-_title: "Ying xiong"
-_year: "2002"
-_director: ["Yimou Zhang", ]
-_writer: ["Feng Li", "Bin Wang", "Yimou Zhang", ]
-_cast: ["Jet Li", "Tony Chiu Wai Leung", "Maggie Cheung", "Ziyi Zhang", "Daoming Chen", "Donnie Yen", "Zhongyuan Liu", "Tianyong Zheng", "Yan Qin", ]
-_countries: ["China", ]
-_languages: ["Mandarin", ]
-_editor: ["Angie Lam", "Vincent Lee", "Ru Zhai", ]
-_cinematographer: ["Christopher Doyle", ]
-_music: ["Dun Tan", ]
-_genres: ["Action", ]
-_runtimes: ["99", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTk5NjQyMzIwM15BMl5BanBnXkFtZTcwODQyNjYyMQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTk5NjQyMzIwM15BMl5BanBnXkFtZTcwODQyNjYyMQ@@._V1._SX94_SY140_.jpg"
+desc: "Herói. Ying xiong (China, 2002). Dirigido por Yimou Zhang. Escrito por Feng Li, Bin Wang, Yimou Zhang. Com Jet Li, Tony Chiu Wai Leung, Maggie Cheung, Ziyi Zhang, Daoming Chen, Donnie Yen, Zhongyuan Liu, Tianyong Zheng, Yan Qin."
 ---
 O que torna uma figura histórica, em períodos de guerra, um herói para seu povo? Quais sacrifícios são necessários para que as lembranças desse tempo sejam tão marcantes que acabam por serem inscritas nos extensos pergaminhos e cujas histórias sejam contadas de geração em geração ininterruptamente? É com esses questionamentos, vindos desde o título, e com uma premissa simples de um homem que ajudou o rei a manter sua integridade física, e que por isso, será agraciado pelo seu reino, que Yimou Zhang marca os compassos de sua narrativa impecável que narra através do episódio da unificação da China a história de seres extraordinários e suas ações e sentimentos mais nobres.
 

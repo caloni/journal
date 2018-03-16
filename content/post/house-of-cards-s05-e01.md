@@ -1,28 +1,11 @@
 ---
+tags: ['netflix', 'houseofcards', 'series']
+imdb: "1856010"
 date: "2017-05-30"
 categories: "blog"
-imdb: "1856010"
-stars: "4/5"
 title: "House of Cards - Quinta Temporada, Episódio 1"
-tags: ['netflix', 'houseofcards', 'series']
-_title: "House of Cards"
-_year: "2013"
-_director: ["James Foley", "Robin Wright", "John David Coles", "Carl Franklin", "Tucker Gates", "Tom Shankland", "Alik Sakharov", "Allen Coulter", "David Fincher", ]
-_writer: ["Beau Willimon", "Andrew Davies", "Michael Dobbs", "Laura Eason", "Bill Kennedy", "Kate Barnow", "Sam Forman", "John Mankiewicz", "Melissa James Gibson", ]
-_cast: ["Kevin Spacey (Francis Underwood)", "Robin Wright (Claire Underwood)", "Michael Kelly (Doug Stamper)", "Justin Doescher (Frank Underwood Security / ...)", "Nathan Darrow (Edward Meechum)", "Lamont Easter (Underwood Secret Service)", "Mahershala Ali (Remy Danton)", "Derek Cecil (Seth Grayson)", "Mark Falvo (White House Press Corps / ...)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Lisa Bromwell", "Byron Smith", "Cindy Mollo", "Sidney Wolinsky", "Michelle Tesoro", "Kirk Baxter", "Michael Ruscio", "Katherine Skjerping", ]
-_cinematographer: ["Igor Martinovic", "David M. Dunlap", "Eigil Bryld", "Peter Konczal", "Martin Ahlgren", "Paul Elliott", "Tim Ives", ]
-_music: ["Jeff Beal", ]
-_artdirection: ["Halina Gebarowicz", "Steve Arnold", "Dawn Swiderski", ]
-_costume designer: ["Johanna Argan", "Kemal Harris", "Tom Broecker", "Gersha Phillips", ]
-_genres: ["Drama", ]
-_runtimes: ["51", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjM3ODMyMjc3MV5BMl5BanBnXkFtZTgwNDgzNDc5NzE@.jpg"
-_ratio: "2.00 : 1"
-_kind: "tv series"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjM3ODMyMjc3MV5BMl5BanBnXkFtZTgwNDgzNDc5NzE@._V1._SX94_SY140_.jpg"
+stars: "4/5"
+desc: "House of Cards - Quinta Temporada, Episódio 1. House of Cards (USA, 2013). Dirigido por James Foley, Robin Wright, John David Coles, Carl Franklin, Tucker Gates, Tom Shankland, Alik Sakharov, Allen Coulter, David Fincher. Escrito por Beau Willimon, Andrew Davies, Michael Dobbs, Laura Eason, Bill Kennedy, Kate Barnow, Sam Forman, John Mankiewicz, Melissa James Gibson. Com Kevin Spacey (Francis Underwood), Robin Wright (Claire Underwood), Michael Kelly (Doug Stamper), Justin Doescher (Frank Underwood Security / ...), Nathan Darrow (Edward Meechum), Lamont Easter (Underwood Secret Service), Mahershala Ali (Remy Danton), Derek Cecil (Seth Grayson), Mark Falvo (White House Press Corps / ...)."
 ---
 House of Cards estreia novamente na Netflix em seu formato de praxe, com tramas interligadas que irão necessariamente desencadear no plano de dominação da família Underwood. Vemos uma breve e eficiente recapitulação de toda a saga e logo vamos nos acostumando novamente a ver os personagens se digladiado por um pouco mais dessa droga viciante que é o poder.
 

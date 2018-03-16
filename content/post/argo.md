@@ -1,25 +1,10 @@
 ---
-date: "2012-11-18"
 imdb: "1024648"
+date: "2012-11-18"
+categories: "movies"
 title: "Argo"
 stars: "5/5"
-categories: "movies"
-_title: "Argo"
-_year: "2012"
-_director: ["Ben Affleck", ]
-_writer: ["Chris Terrio", "Tony Mendez", "Joshuah Bearman", ]
-_cast: ["Ben Affleck", "Bryan Cranston", "Alan Arkin", "John Goodman", "Victor Garber", "Tate Donovan", "Clea DuVall", "Scoot McNairy", "Rory Cochrane", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["William Goldenberg", ]
-_cinematographer: ["Rodrigo Prieto", ]
-_music: ["Alexandre Desplat", ]
-_genres: ["Drama", ]
-_runtimes: ["120", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTc3MjI0MjM0NF5BMl5BanBnXkFtZTcwMTYxMTQ1OA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTc3MjI0MjM0NF5BMl5BanBnXkFtZTcwMTYxMTQ1OA@@._V1._SX95_SY140_.jpg"
+desc: "Argo. Argo (USA, 2012). Dirigido por Ben Affleck. Escrito por Chris Terrio, Tony Mendez, Joshuah Bearman. Com Ben Affleck, Bryan Cranston, Alan Arkin, John Goodman, Victor Garber, Tate Donovan, Clea DuVall, Scoot McNairy, Rory Cochrane."
 ---
 O início de Argo, terceiro trabalho de Ben Affleck atrás das câmeras, já mostra a que veio. Com uma sequência que envolve a invasão do consulado americano pela população Iraniana  revoltada pelo exílio de seu ex-ditador sanguinário pelos EUA  a tensão se estabelece como uma constante durante toda a projeção, como um ruído a ensurdecer pela constância. A fotografia documental do filme, realista pelas cores fracas e grãos maiores, imediata pelos movimentos incessantes de câmera, consegue se fundir com imagens reais do acontecimento que de fato ocorreu no início da década de 80. A câmera, ao aplicar zooms nas pessoas envolvidas, aproxima o espectador do drama pessoal que se estabelece com esse evento quando descobrimos que seis refugiados poderão ser executados a qualquer momento se forem descobertos.
 

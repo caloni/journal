@@ -1,26 +1,11 @@
 ---
-date: "2014-05-26"
+tags: ['mcu', 'xmen']
 imdb: "1877832"
+date: "2014-05-26"
+categories: "movies"
 title: "X-Men Dias de um Futuro Esquecido"
 stars: "4/5"
-categories: "movies"
-tags: ['mcu', 'xmen']
-_title: "X-Men: Days of Future Past"
-_year: "2014"
-_director: ["Bryan Singer", ]
-_writer: ["Simon Kinberg", "Jane Goldman", "Simon Kinberg", "Matthew Vaughn", ]
-_cast: ["Hugh Jackman", "James McAvoy", "Michael Fassbender", "Jennifer Lawrence", "Halle Berry", "Nicholas Hoult", "Anna Paquin", "Ellen Page", "Peter Dinklage", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Michael Louis Hill", "John Ottman", ]
-_cinematographer: ["Newton Thomas Sigel", ]
-_music: ["John Ottman", ]
-_genres: ["Action", ]
-_runtimes: ["131", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjEwMDk2NzY4MF5BMl5BanBnXkFtZTgwNTY2OTcwMDE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjEwMDk2NzY4MF5BMl5BanBnXkFtZTgwNTY2OTcwMDE@._V1._SX94_SY140_.jpg"
+desc: "X-Men Dias de um Futuro Esquecido. X-Men: Days of Future Past (USA, 2014). Dirigido por Bryan Singer. Escrito por Simon Kinberg, Jane Goldman, Simon Kinberg, Matthew Vaughn. Com Hugh Jackman, James McAvoy, Michael Fassbender, Jennifer Lawrence, Halle Berry, Nicholas Hoult, Anna Paquin, Ellen Page, Peter Dinklage."
 ---
 A franquia X-Men parece ter chegado a algum tipo de saturação nesse "Dias de um Futuro Esquecido" onde o diretor Bryan Singer, que estreou a série e sua continuação, parece recontar momentos históricos da luta entre humanos e mutantes quando, mais uma vez, mutantes pacíficos e mutantes violentos se reúnem.
 

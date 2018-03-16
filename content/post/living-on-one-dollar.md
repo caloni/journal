@@ -1,23 +1,10 @@
 ---
-date: "2015-09-20"
 imdb: "2625598"
-stars: "4/5"
+date: "2015-09-20"
 categories: "movies"
 title: "Living on One Dollar"
-_title: "Living on One Dollar"
-_year: "2013"
-_director: ["Zach Ingrasci", "Sean Leonard", "Chris Temple", ]
-_cast: ["Ryan Christoffersen", "Zach Ingrasci", "Sean Leonard", "Chris Temple", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Sean Leonard", ]
-_cinematographer: ["Ryan Christoffersen", "Sean Leonard", ]
-_music: ["Bell Orchestre", "Beth Caucci", "John Fee", "Germaine Franco", "Bon Iver", "Clayton Knight", "Harrison Mills", "Michael John Mollo", "Jake Monaco", ]
-_genres: ["Documentary", ]
-_runtimes: ["56", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQ2NzEwNzkzM15BMl5BanBnXkFtZTgwNjYzNjcwMDE@.jpg"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQ2NzEwNzkzM15BMl5BanBnXkFtZTgwNjYzNjcwMDE@._V1._SX100_SY133_.jpg"
+stars: "4/5"
+desc: "Living on One Dollar. Living on One Dollar (USA, 2013). Dirigido por Zach Ingrasci, Sean Leonard, Chris Temple. Com Ryan Christoffersen, Zach Ingrasci, Sean Leonard, Chris Temple."
 ---
 Alguns filmes são propositadamente desonestos com suas premissas, dramatizando em excesso para conseguir validar seus argumentos. No processo, consegue realizar um bom trabalho, ainda que parcial demais. Dessa safra temos Blackfish e Chasing Ice.
 

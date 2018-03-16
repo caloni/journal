@@ -1,27 +1,10 @@
 ---
-date: "2016-05-07"
 imdb: "0242653"
-stars: "5/5"
+date: "2016-05-07"
 categories: "movies"
 title: "Matrix Revolutions"
-_title: "The Matrix Revolutions"
-_year: "2003"
-_director: ["Lana Wachowski", "Lilly Wachowski", ]
-_writer: ["Lilly Wachowski", "Lana Wachowski", "Lilly Wachowski", "Lana Wachowski", ]
-_cast: ["Mary Alice", "Tanveer K. Atwal", "Helmut Bakaitis", "Kate Beahan", "Francine Bell", "Monica Bellucci", "Rachel Blackman", "Henry Blasingame", "Ian Bliss", ]
-_countries: ["Australia", ]
-_languages: ["English", ]
-_editor: ["Zach Staenberg", ]
-_cinematographer: ["Bill Pope", ]
-_music: ["Don Davis", ]
-_artdirection: ["Hugh Bateup", "Jules Cook", "Catherine Mansill", "Charlie Revai", ]
-_costume designer: ["Kym Barrett", ]
-_genres: ["Action", ]
-_runtimes: ["129", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTkyNjc4NTQzOV5BMl5BanBnXkFtZTcwNDYzMTQyMQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTkyNjc4NTQzOV5BMl5BanBnXkFtZTcwNDYzMTQyMQ@@._V1._SX95_SY140_.jpg"
+stars: "5/5"
+desc: "Matrix Revolutions. The Matrix Revolutions (Australia, 2003). Dirigido por Lana Wachowski, Lilly Wachowski. Escrito por Lilly Wachowski, Lana Wachowski, Lilly Wachowski, Lana Wachowski. Com Mary Alice, Tanveer K. Atwal, Helmut Bakaitis, Kate Beahan, Francine Bell, Monica Bellucci, Rachel Blackman, Henry Blasingame, Ian Bliss."
 ---
 Não é fácil lidar com a própria ignorância. Viciados em ciência e suas explicações muito boas para o nosso mundo, além do fato de nosso código genético conter uma necessidade incontrolável de extrair sentido para tudo, e portanto anseia por explicações a todo momento que não deixe margens para dúvida, muitas vezes nos esquecemos que na realidade há muito nela que é nossa interpretação. Podemos ter uma boa ideia do que ela significa para todos a todo momento, mas nunca a verdade completa do que isso significa para cada um de nós.
 

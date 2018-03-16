@@ -1,25 +1,10 @@
 ---
-date: "2011-10-17"
 imdb: "0770703"
+date: "2011-10-17"
+categories: "movies"
 title: "Qual Seu Número?"
 stars: "3/5"
-categories: "movies"
-_title: "What's Your Number?"
-_year: "2011"
-_director: ["Mark Mylod", ]
-_writer: ["Gabrielle Allan", "Jennifer Crittenden", "Karyn Bosnak", ]
-_cast: ["Anna Faris", "Chris Evans", "Ari Graynor", "Blythe Danner", "Ed Begley Jr.", "Oliver Jackson-Cohen", "Heather Burns", "Eliza Coupe", "Kate Simses", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Julie Monroe", ]
-_cinematographer: ["James M. Muro", ]
-_music: ["Aaron Zigman", ]
-_genres: ["Comedy", ]
-_runtimes: ["106", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjIzNTc2MTgwNV5BMl5BanBnXkFtZTcwMzYzMzgxNQ@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjIzNTc2MTgwNV5BMl5BanBnXkFtZTcwMzYzMzgxNQ@@._V1._SX94_SY140_.jpg"
+desc: "Qual Seu Número?. What's Your Number? (USA, 2011). Dirigido por Mark Mylod. Escrito por Gabrielle Allan, Jennifer Crittenden, Karyn Bosnak. Com Anna Faris, Chris Evans, Ari Graynor, Blythe Danner, Ed Begley Jr., Oliver Jackson-Cohen, Heather Burns, Eliza Coupe, Kate Simses."
 ---
 Aparentemente não há limites para a "criatividade" de Hollywood para comédias românticas. Quem diria que a Cindy (Anna Faris), da franquia Todo Mundo em Pânico, seria par romântico com o Capitão América (Chris Evans)? Um desafio interessante para ambos, visto que seus respectivos currículos de "menina fácil (e alvo de socos) em comédia-paródia" e "super-herói simpático" são ligeiramente diferentes nesse novo longa de Mark Mylod (Quem é Morto Sempre Aparece).
 

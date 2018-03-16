@@ -1,27 +1,11 @@
 ---
+tags: ['cabine']
+imdb: "4686692"
 date: "2016-12-03"
 categories: "movies"
 title: "O Ídolo"
-imdb: "4686692"
 stars: "3/5"
-tags: ['cabine']
-_title: "Ya tayr el tayer"
-_year: "2015"
-_director: ["Hany Abu-Assad", ]
-_writer: ["Hany Abu-Assad", "Sameh Zoabi", ]
-_cast: ["Tawfeek Barhom (Mohammed Assaf)", "Kais Attalah (Mohammed Assaf)", "Hiba Attalah (Nour)", "Ahmad Qasem (Young Ahmad)", "Abdel Kareem Barakeh (Young Omar)", "Teya Hussein (Young Amal)", "Dima Awawdeh (Amal)", "Ahmed Al Rokh (Omar)", "Saber Shreim (Ahmad)", ]
-_countries: ["Occupied Palestinian Territory", ]
-_languages: ["Arabic", ]
-_editor: ["Eyas Salman", ]
-_cinematographer: ["Ehab Assal", ]
-_music: ["Hani Asfari", ]
-_artdirection: ["Nael Kanj", "Rabia Salifiti", ]
-_genres: ["Biography", ]
-_runtimes: ["100", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc4OTIxNjAyOV5BMl5BanBnXkFtZTgwODk1Mjc3ODE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc4OTIxNjAyOV5BMl5BanBnXkFtZTgwODk1Mjc3ODE@._V1._SX96_SY140_.jpg"
+desc: "O Ídolo. Ya tayr el tayer (Occupied Palestinian Territory, 2015). Dirigido por Hany Abu-Assad. Escrito por Hany Abu-Assad, Sameh Zoabi. Com Tawfeek Barhom (Mohammed Assaf), Kais Attalah (Mohammed Assaf), Hiba Attalah (Nour), Ahmad Qasem (Young Ahmad), Abdel Kareem Barakeh (Young Omar), Teya Hussein (Young Amal), Dima Awawdeh (Amal), Ahmed Al Rokh (Omar), Saber Shreim (Ahmad)."
 ---
 As pessoas se emocionam facilmente assistindo ao American Idol e outros programas do gênero e descobrindo novos talentos, seja pela televisão ou pelo YouTube. O que elas não sabem às vezes é que por trás desses talentos há uma história ainda mais emocionante.
 

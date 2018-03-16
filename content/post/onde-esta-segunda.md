@@ -1,28 +1,11 @@
 ---
-imdb: "1536537"
-stars: "2/5"
 tags: ['netflix']
+imdb: "1536537"
 date: 2017-09-15T21:13:15
-title: "Onde Está Segunda?"
 categories: "blog"
-_title: "Seven Sisters"
-_year: "2017"
-_director: ["Tommy Wirkola", ]
-_writer: ["Max Botkin", "Kerry Williamson", ]
-_cast: ["Noomi Rapace (The Settman Siblings)", "Glenn Close (Nicolette Cayman)", "Willem Dafoe (Terrence Settman)", "Marwan Kenzari (Adrian Knowles)", "Christian Rubeck (Joe)", "Pål Sverre Hagen (Jerry)", "Tomiwa Edun (Eddie)", "Cassie Clare (Zaquia)", "Cameron Jack (Dutch)", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Martin Stoltz", ]
-_cinematographer: ["José David Montero", ]
-_music: ["Christian Wibe", ]
-_artdirection: ["Iulian Bostanaru", "Vraciu Eduard Daniel", "Grigore Puscariu", "Dan Toader", ]
-_costume designer: ["Oana Paunescu", ]
-_genres: ["Action", ]
-_runtimes: ["123", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE4MDQxMDg3MF5BMl5BanBnXkFtZTgwNjQ0MTcwMzI@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE4MDQxMDg3MF5BMl5BanBnXkFtZTgwNjQ0MTcwMzI@._V1._SX94_SY140_.jpg"
+title: "Onde Está Segunda?"
+stars: "2/5"
+desc: "Onde Está Segunda?. Seven Sisters (UK, 2017). Dirigido por Tommy Wirkola. Escrito por Max Botkin, Kerry Williamson. Com Noomi Rapace (The Settman Siblings), Glenn Close (Nicolette Cayman), Willem Dafoe (Terrence Settman), Marwan Kenzari (Adrian Knowles), Christian Rubeck (Joe), Pål Sverre Hagen (Jerry), Tomiwa Edun (Eddie), Cassie Clare (Zaquia), Cameron Jack (Dutch)."
 ---
 Hoje em dia até os títulos dos filmes encomendados pela Netflix são ruins. E nesse caso não há erro: esse filme é muito ruim. Não ruim de trash (para se divertir), nem ruim de estilo (para ficar com ódio). Ruim de você não sentir nada, mesmo.
 

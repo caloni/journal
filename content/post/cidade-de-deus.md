@@ -1,26 +1,10 @@
 ---
-date: "2015-12-30"
 imdb: "0317248"
-stars: "5/5"
+date: "2015-12-30"
 categories: "movies"
 title: "Cidade de Deus"
-_title: "Cidade de Deus"
-_year: "2002"
-_director: ["Fernando Meirelles", "Kátia Lund", ]
-_writer: ["Paulo Lins", "Bráulio Mantovani", ]
-_cast: ["Alexandre Rodrigues", "Leandro Firmino", "Phellipe Haagensen", "Douglas Silva", "Jonathan Haagensen", "Matheus Nachtergaele", "Seu Jorge", "Jefechander Suplino", "Alice Braga", ]
-_countries: ["Brazil", ]
-_languages: ["Portuguese", ]
-_editor: ["Daniel Rezende", ]
-_cinematographer: ["César Charlone", ]
-_music: ["Ed Côrtes", "Antonio Pinto", ]
-_costume designer: ["Bia Salgado", "Inês Salgado", "Inês Salgado", ]
-_genres: ["Crime", ]
-_runtimes: ["130", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjA4ODQ3ODkzNV5BMl5BanBnXkFtZTYwOTc4NDI3.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjA4ODQ3ODkzNV5BMl5BanBnXkFtZTYwOTc4NDI3._V1._SX94_SY140_.jpg"
+stars: "5/5"
+desc: "Cidade de Deus. Cidade de Deus (Brazil, 2002). Dirigido por Fernando Meirelles, Kátia Lund. Escrito por Paulo Lins, Bráulio Mantovani. Com Alexandre Rodrigues, Leandro Firmino, Phellipe Haagensen, Douglas Silva, Jonathan Haagensen, Matheus Nachtergaele, Seu Jorge, Jefechander Suplino, Alice Braga."
 ---
 Nunca mais havia assistido Cidade de Deus depois de sua estreia no cinema, em 2002. Agora, treze anos depois e com 999 filmes no meu "currículo" de cinéfilo dedicado, escolhi esse filme para fazer o que meu amigo chamou de "Pelé das reviews". Portanto, esse é meu filme número 1000 do Cine Tênis Verde.
 

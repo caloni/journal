@@ -1,25 +1,10 @@
 ---
-date: "2013-08-23"
 imdb: "0109707"
+date: "2013-08-23"
+categories: "movies"
 title: "Ed Wood"
 stars: "5/5"
-categories: "movies"
-_title: "Ed Wood"
-_year: "1994"
-_director: ["Tim Burton", ]
-_writer: ["Rudolph Grey", "Scott Alexander", "Larry Karaszewski", ]
-_cast: ["Johnny Depp", "Martin Landau", "Sarah Jessica Parker", "Patricia Arquette", "Jeffrey Jones", "G.D. Spradlin", "Vincent D'Onofrio", "Bill Murray", "Mike Starr", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Chris Lebenzon", ]
-_cinematographer: ["Stefan Czapsky", ]
-_music: ["Howard Shore", ]
-_genres: ["Biography", ]
-_runtimes: ["127", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjAzODM1MDMxN15BMl5BanBnXkFtZTgwOTgwNTc2MDE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjAzODM1MDMxN15BMl5BanBnXkFtZTgwOTgwNTc2MDE@._V1._SX95_SY140_.jpg"
+desc: "Ed Wood. Ed Wood (USA, 1994). Dirigido por Tim Burton. Escrito por Rudolph Grey, Scott Alexander, Larry Karaszewski. Com Johnny Depp, Martin Landau, Sarah Jessica Parker, Patricia Arquette, Jeffrey Jones, G.D. Spradlin, Vincent D'Onofrio, Bill Murray, Mike Starr."
 ---
 Talvez o fato do filme sobre Edward D. Wood Jr., o pior diretor de todos os tempos (eleito dois anos após sua morte), ser um dos melhores do diretor Tim Burton, acostumado a flertar com o gênero, seja algo inesperado, mas ainda assim propício para um tema tão metalinguístico. Além de ser a homenagem devida ao diretor trash mais cultuado de sua geração (ou talvez de toda a história do Cinema) o longa de Burton mergulha fundo na atmosfera dos filmes B, onde o fato de ser rodado em P&B ajuda, mas não é só: é fácil entrar nessa dimensão criada pelo diretor a partir de suas duas realidades. O diretor precisa brinca com o gênero e ao mesmo tempo é um narrador onisciente de produções típicas. Isso torna muito difícil não adorá-lo como o filme que representa a esperança dos menos afortunados da indústria do Cinema, mas que nem por isso deixam de ser amantes incondicionais da Sétima Arte.
 

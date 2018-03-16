@@ -1,25 +1,10 @@
 ---
-date: "2015-07-30"
 imdb: "0371746"
-stars: "4/5"
+date: "2015-07-30"
 categories: "movies"
 title: "Homem de Ferro"
-_title: "Iron Man"
-_year: "2008"
-_director: ["Jon Favreau", ]
-_writer: ["Mark Fergus", "Hawk Ostby", "Art Marcum", "Matt Holloway", "Stan Lee", "Don Heck", "Larry Lieber", "Jack Kirby", ]
-_cast: ["Robert Downey Jr.", "Terrence Howard", "Jeff Bridges", "Gwyneth Paltrow", "Leslie Bibb", "Shaun Toub", "Faran Tahir", "Clark Gregg", "Bill Smitrovich", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Dan Lebental", ]
-_cinematographer: ["Matthew Libatique", ]
-_music: ["Ramin Djawadi", ]
-_genres: ["Action", ]
-_runtimes: ["126", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1._SX94_SY140_.jpg"
+stars: "4/5"
+desc: "Homem de Ferro. Iron Man (USA, 2008). Dirigido por Jon Favreau. Escrito por Mark Fergus, Hawk Ostby, Art Marcum, Matt Holloway, Stan Lee, Don Heck, Larry Lieber, Jack Kirby. Com Robert Downey Jr., Terrence Howard, Jeff Bridges, Gwyneth Paltrow, Leslie Bibb, Shaun Toub, Faran Tahir, Clark Gregg, Bill Smitrovich."
 ---
 Pepper Potts (Gwyneth Paltrow) guarda o primeiro coração nuclear de Tony Stark (Robert Downey Jr.) como prova de que ele tem um coração. Ironicamente, o primeiro Homem de Ferro também prova que a franquia tinha coração e lógica em suas primeiras duas horas, estruturados de uma forma que jamais veríamos novamente nas novas aparições do gênio/bilionário/herói.
 

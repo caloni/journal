@@ -1,22 +1,10 @@
 ---
-date: "2015-04-19"
 imdb: "2981768"
-stars: "4/5"
+date: "2015-04-19"
 categories: "movies"
 title: "Patema Inverted"
-_title: "Sakasama no Patema"
-_year: "2013"
-_director: ["Yasuhiro Yoshiura", ]
-_writer: ["Marc Diraison", "Yasuhiro Yoshiura", ]
-_cast: ["Yukiyo Fujii", "Nobuhiko Okamoto", "Shintarô Oohata", "Shinya Fukumatsu", "Masayuki Katô", "Hiroki Yasumoto", "Maaya Uchida", "Takaya Hashi", "Hideyuki Umezu", ]
-_countries: ["Japan", ]
-_languages: ["Japanese", ]
-_music: ["Michiru Ohshima", ]
-_genres: ["Animation", ]
-_runtimes: ["98", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTg3OTQwODA1Ml5BMl5BanBnXkFtZTgwMzEyNTg4MTE@.jpg"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTg3OTQwODA1Ml5BMl5BanBnXkFtZTgwMzEyNTg4MTE@._V1._SX100_SY139_.jpg"
+stars: "4/5"
+desc: "Patema Inverted. Sakasama no Patema (Japan, 2013). Dirigido por Yasuhiro Yoshiura. Escrito por Marc Diraison, Yasuhiro Yoshiura. Com Yukiyo Fujii, Nobuhiko Okamoto, Shintarô Oohata, Shinya Fukumatsu, Masayuki Katô, Hiroki Yasumoto, Maaya Uchida, Takaya Hashi, Hideyuki Umezu."
 ---
 Esse é o primeiro filme que assisto com a premissa de pessoas que possuem a gravidade invertida. Sim, Mundos Opostos é de um ano antes, e apesar de não ter sido lançado no Brasil (alguém acredita que Patema será?) ele possui atores conhecidos e uma produção razoavelmente cara. No entanto, nunca se sabe quando alguém teve a ideia primeiro. E, hoje em dia, é quase certeza que ela veio dos livros ou qualquer outro formato que não o Cinema, onde as grandes empresas parecem ter desistido de arriscar em roteiros originais. No caso do Japão isso é ainda mais padronizado, pois o conteúdo ou vem de um mangá (revista em quadrinhos) ou anime (série de animação), e esse Patema foi distribuído via streaming um ano antes de ser montado como um filme.
 

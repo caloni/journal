@@ -1,24 +1,10 @@
 ---
-date: "2014-12-26"
 imdb: "0067992"
+date: "2014-12-26"
+categories: "movies"
 title: "A Fantástica Fábrica de Chocolate"
 stars: "5/5"
-categories: "movies"
-_title: "Willy Wonka & the Chocolate Factory"
-_year: "1971"
-_director: ["Mel Stuart", ]
-_writer: ["Roald Dahl", "Roald Dahl", "David Seltzer", ]
-_cast: ["Gene Wilder", "Jack Albertson", "Peter Ostrum", "Roy Kinnear", "Julie Dawn Cole", "Leonard Stone", "Denise Nickerson", "Nora Denney", "Paris Themmen", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["David Saxon", ]
-_cinematographer: ["Arthur Ibbetson", ]
-_genres: ["Family", ]
-_runtimes: ["100", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjM1NTg4NTI4MF5BMl5BanBnXkFtZTgwMjI3NjMxMDE@.jpg"
-_ratio: "1.33 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjM1NTg4NTI4MF5BMl5BanBnXkFtZTgwMjI3NjMxMDE@._V1._SX94_SY140_.jpg"
+desc: "A Fantástica Fábrica de Chocolate. Willy Wonka & the Chocolate Factory (USA, 1971). Dirigido por Mel Stuart. Escrito por Roald Dahl, Roald Dahl, David Seltzer. Com Gene Wilder, Jack Albertson, Peter Ostrum, Roy Kinnear, Julie Dawn Cole, Leonard Stone, Denise Nickerson, Nora Denney, Paris Themmen."
 ---
 Esse filme de 1971 é o original daquele remake feito por Tim Burton alguns anos atrás. Curiosamente, ele também não é original, mas baseado em um livro (o que bate de frente com a opinião de alguns cinéfilos que acreditam piamente que essa é a era que ninguém cria mais nada de novo). A história contada é praticamente idêntica, mas possui um fechamento mais coeso e coerente com sua estrutura, embora a relação pai/filho da versão que tem Johnny Depp seja interessante até certo ponto. Outra coisa que o remake difere é que ele não possui quase nenhum diálogo do original, o que faz toda a diferença, pois o original sim possui frases memoráveis que recheiam os significados implícitos do filme.
 

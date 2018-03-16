@@ -1,25 +1,10 @@
 ---
-date: "2013-03-04"
 imdb: "0320691"
+date: "2013-03-04"
+categories: "movies"
 title: "Anjos da Noite"
 stars: "1/5"
-categories: "movies"
-_title: "Underworld"
-_year: "2003"
-_director: ["Len Wiseman", ]
-_writer: ["Kevin Grevioux", "Len Wiseman", "Danny McBride", "Danny McBride", ]
-_cast: ["Kate Beckinsale", "Scott Speedman", "Michael Sheen", "Shane Brolly", "Bill Nighy", "Erwin Leder", "Sophia Myles", "Robbie Gee", "Wentworth Miller", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Martin Hunter", ]
-_cinematographer: ["Tony Pierce-Roberts", ]
-_music: ["Paul Haslinger", ]
-_genres: ["Action", ]
-_runtimes: ["121", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjIxNDExNDEyMV5BMl5BanBnXkFtZTcwODY1OTkxMw@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjIxNDExNDEyMV5BMl5BanBnXkFtZTcwODY1OTkxMw@@._V1._SX95_SY140_.jpg"
+desc: "Anjos da Noite. Underworld (UK, 2003). Dirigido por Len Wiseman. Escrito por Kevin Grevioux, Len Wiseman, Danny McBride, Danny McBride. Com Kate Beckinsale, Scott Speedman, Michael Sheen, Shane Brolly, Bill Nighy, Erwin Leder, Sophia Myles, Robbie Gee, Wentworth Miller."
 ---
 O primeiro filme da saga dos vampiros e lobisomems (não estou falando de Crepúsculo) pode conter um pano de fundo curioso e com potencial dramático para um ótimo filme. Infelizmente não é isso que acontece em Anjos da Noite, que se esforça como filme de drama e ação sem conseguir se sair bem em nenhum dos dois.
 

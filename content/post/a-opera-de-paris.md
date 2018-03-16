@@ -1,25 +1,11 @@
 ---
-imdb: "6599064"
-stars: "4/5"
 tags: ['cabine']
+imdb: "6599064"
 date: 2017-11-24T18:31:36
-title: "A Ópera de Paris"
 categories: "movies"
-_title: "L'Opéra"
-_year: "2017"
-_director: ["Jean-Stéphane Bron", ]
-_cast: ["Stéphane Lissner (Himself)", "Benjamin Millepied", ]
-_countries: ["Switzerland", ]
-_languages: ["English", ]
-_editor: ["Julie Lena", ]
-_cinematographer: ["Blaise Harrison", ]
-_music: ["Benjamin Millepied", ]
-_genres: ["Documentary", ]
-_runtimes: ["110", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMDVlMGU4ZWItMDI3MS00ZWE4LWE2MWMtNWQzOGZkM2M2YWY3XkEyXkFqcGdeQXVyNTkyMjQwNw@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMDVlMGU4ZWItMDI3MS00ZWE4LWE2MWMtNWQzOGZkM2M2YWY3XkEyXkFqcGdeQXVyNTkyMjQwNw@@._V1._SX94_SY140_.jpg"
+title: "A Ópera de Paris"
+stars: "4/5"
+desc: "A Ópera de Paris. L'Opéra (Switzerland, 2017). Dirigido por Jean-Stéphane Bron. Com Stéphane Lissner (Himself), Benjamin Millepied."
 ---
 Sempre teve curiosidade para saber como funciona uma casa de ópera e balé? Eu não. Mas se você sim, então A Ópera de Paris é uma ótima recomendação. O filme se passa quase totalmente atrás das cortinas, e explica de onde vem o dinheiro para custear uma super-produção dessas (dica: não é dinheiro limpo), como funciona a política por trás dos "direitos" dos trabalhadores (dica: estamos na França) e também explica como funciona pegar dinheiro roubado e transformar em diversão para uma elite que discute se seria interessante tornar o espetáculo mais acessível baixando os ingressos para... 150 euros. Uma diversão para poucos, eu diria. Felizmente, o ingresso desse filme -- e de nenhum outro -- não deve passar dos 10.
 

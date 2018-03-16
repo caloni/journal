@@ -1,25 +1,10 @@
 ---
-date: "2010-09-10"
 imdb: "1231587"
+date: "2010-09-10"
+categories: "movies"
 title: "A Ressaca"
 stars: "3/5"
-categories: "movies"
-_title: "Hot Tub Time Machine"
-_year: "2010"
-_director: ["Steve Pink", ]
-_writer: ["Josh Heald", "Sean Anders", "John Morris", "Josh Heald", ]
-_cast: ["John Cusack", "Clark Duke", "Craig Robinson", "Rob Corddry", "Sebastian Stan", "Lyndsy Fonseca", "Crispin Glover", "Chevy Chase", "Charlie McDermott", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["George Folsey Jr.", "James Thomas", ]
-_cinematographer: ["Jack N. Green", ]
-_music: ["Christophe Beck", ]
-_genres: ["Adventure", ]
-_runtimes: ["101", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQwMjExODA4Ml5BMl5BanBnXkFtZTcwNTYwMDYxMw@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQwMjExODA4Ml5BMl5BanBnXkFtZTcwNTYwMDYxMw@@._V1._SX95_SY140_.jpg"
+desc: "A Ressaca. Hot Tub Time Machine (USA, 2010). Dirigido por Steve Pink. Escrito por Josh Heald, Sean Anders, John Morris, Josh Heald. Com John Cusack, Clark Duke, Craig Robinson, Rob Corddry, Sebastian Stan, Lyndsy Fonseca, Crispin Glover, Chevy Chase, Charlie McDermott."
 ---
 O primeiro filme inspirado em "Se Beber Não Case" é esse Ressaca, que poderia se chamar "Se Beber, Não Viaje no Tempo". Além das referências óbvias e bobinhas a De Volta Para o Futuro e Cia, o filme diverte em alguns momentos, mas se perde demais nas premissas. Aliás, a premissa não é nada original: viajando para fazer o amigo esquecido que é um suicida em potencial, o grupo vai para onde costumava se divertir na adolescência, e acaba enchendo a cara em uma banheira ao ar livre que se revela ser uma máquina do tempo com a adição de um "ingrediente ilegal" de um energético russo (sim, tem que haver alguma explicação, por mais absurda que seja).
 

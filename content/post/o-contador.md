@@ -1,29 +1,12 @@
 ---
+tags: ['cinema']
+imdb: "2140479"
 date: "2016-10-28"
 categories: "movies"
 title: "O Contador"
-imdb: "2140479"
 stars: "4/5"
-tags: ['cinema']
-revision: ["2016-11-17"]
-_title: "The Accountant"
-_year: "2016"
-_director: ["Gavin O'Connor", ]
-_writer: ["Bill Dubuque", ]
-_cast: ["Ben Affleck (Christian Wolff)", "Anna Kendrick (Dana Cummings)", "J.K. Simmons (Ray King)", "Jon Bernthal (Brax)", "Jeffrey Tambor (Francis Silverberg)", "Cynthia Addai-Robinson (Marybeth Medina)", "John Lithgow (Lamar Black)", "Jean Smart (Rita Blackburn)", "Andy Umberger (Ed Chilton)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Richard Pearson", ]
-_cinematographer: ["Seamus McGarvey", ]
-_music: ["Mark Isham", ]
-_artdirection: ["John Collins", ]
-_costume designer: ["Nancy Steiner", ]
-_genres: ["Action", ]
-_runtimes: ["128", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNDc5Mzg2NTYxNV5BMl5BanBnXkFtZTgwMjQ2ODAwOTE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNDc5Mzg2NTYxNV5BMl5BanBnXkFtZTgwMjQ2ODAwOTE@._V1._SX94_SY140_.jpg"
+revision: ['2016-11-17']
+desc: "O Contador. The Accountant (USA, 2016). Dirigido por Gavin O'Connor. Escrito por Bill Dubuque. Com Ben Affleck (Christian Wolff), Anna Kendrick (Dana Cummings), J.K. Simmons (Ray King), Jon Bernthal (Brax), Jeffrey Tambor (Francis Silverberg), Cynthia Addai-Robinson (Marybeth Medina), John Lithgow (Lamar Black), Jean Smart (Rita Blackburn), Andy Umberger (Ed Chilton)."
 ---
 O Contador é um filme que se divide em duas metades. A primeira metade é envolvente e possui uma forma de contar histórias de maneira inteligente, embora óbvia. A segunda metade se abstém em servir como catarse para os fãs de filmes de ação e Ben Affleck.
 

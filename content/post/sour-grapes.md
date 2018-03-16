@@ -1,23 +1,11 @@
 ---
+tags: ['netflix']
+imdb: "5728684"
 date: "2016-11-23"
 categories: "movies"
 title: "Sour Grapes"
-imdb: "5728684"
 stars: "4/5"
-tags: ['netflix']
-_title: "Sour Grapes"
-_year: "2016"
-_director: ["Reuben Atlas", "Jerry Rothwell", ]
-_cast: ["Laurent Ponsot (Himself, wine producer in Burgundy, France)", "Jay McInerney (novelist and wine columnist Himself)", "Jefery Levy (Himself)", "Maureen Downey (wine consultant Herself)", "Rudy Kurniawan (convicted wine counterfeiter Himself)", "Rajat Parr (sommelier Himself)", "Arthur M. Sarkissian (Himself)", "Corie Brown (Herself, food and wine writer, Zester Daily)", "Don Cornwell (lawyer and burgundy wine expert Himself)", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["James Scott", ]
-_cinematographer: ["Simon Fanthorpe", ]
-_genres: ["Documentary", ]
-_runtimes: ["85", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMDNhZmI1ZDUtZDg5ZS00MmE1LWIzNWYtNGZiZjVkNTU5ZTI2XkEyXkFqcGdeQXVyNjA5NDU0Njk@.jpg"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMDNhZmI1ZDUtZDg5ZS00MmE1LWIzNWYtNGZiZjVkNTU5ZTI2XkEyXkFqcGdeQXVyNjA5NDU0Njk@._V1._SX95_SY140_.jpg"
+desc: "Sour Grapes. Sour Grapes (UK, 2016). Dirigido por Reuben Atlas, Jerry Rothwell. Com Laurent Ponsot (Himself, wine producer in Burgundy, France), Jay McInerney (novelist and wine columnist Himself), Jefery Levy (Himself), Maureen Downey (wine consultant Herself), Rudy Kurniawan (convicted wine counterfeiter Himself), Rajat Parr (sommelier Himself), Arthur M. Sarkissian (Himself), Corie Brown (Herself, food and wine writer, Zester Daily), Don Cornwell (lawyer and burgundy wine expert Himself)."
 ---
 Este documentário mostra através de uma narrativa fluida e divertida uma das maiores fraudes na história do vinho. Pegando carona com a bolha de 2008, acompanhamos a história de Rudy Kurniawan, um asiático muito simpático que se inseriu na rodinha de velhos colecionadores de vinho e conseguiu ganhar amigos, fama, e muitos, muitos milhões.
 

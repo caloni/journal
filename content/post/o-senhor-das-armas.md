@@ -1,25 +1,10 @@
 ---
-date: "2011-04-07"
 imdb: "0399295"
+date: "2011-04-07"
+categories: "movies"
 title: "O Senhor das Armas"
 stars: "5/5"
-categories: "movies"
-_title: "Lord of War"
-_year: "2005"
-_director: ["Andrew Niccol", ]
-_writer: ["Andrew Niccol", ]
-_cast: ["Nicolas Cage", "Bridget Moynahan", "Jared Leto", "Shake Tukhmanyan", "Jean-Pierre Nshanian", "Jared Burke", "Eric Uys", "David Shumbris", "Stewart Morgan", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Zach Staenberg", ]
-_cinematographer: ["Amir Mokri", ]
-_music: ["Antonio Pinto", ]
-_genres: ["Crime", ]
-_runtimes: ["122", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjEzNDM2OTgzN15BMl5BanBnXkFtZTcwMzU3MTIzMQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjEzNDM2OTgzN15BMl5BanBnXkFtZTcwMzU3MTIzMQ@@._V1._SX94_SY140_.jpg"
+desc: "O Senhor das Armas. Lord of War (USA, 2005). Dirigido por Andrew Niccol. Escrito por Andrew Niccol. Com Nicolas Cage, Bridget Moynahan, Jared Leto, Shake Tukhmanyan, Jean-Pierre Nshanian, Jared Burke, Eric Uys, David Shumbris, Stewart Morgan."
 ---
 O roteirista-diretor Andrew Niccol, que esteve nessa função dupla nas produções Gattaca e S1mone, além de ter escrito O Show de Truman e O Terminal, dessa vez parte para uma imersão no real, tratando do submundo do comércio ilegal de armas.
 

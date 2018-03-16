@@ -1,25 +1,10 @@
 ---
-date: "2013-10-17"
 imdb: "1454468"
+date: "2013-10-17"
+categories: "movies"
 title: "Gravidade"
 stars: "5/5"
-categories: "movies"
-_title: "Gravity"
-_year: "2013"
-_director: ["Alfonso Cuarón", ]
-_writer: ["Alfonso Cuarón", "Jonás Cuarón", "George Clooney", ]
-_cast: ["Sandra Bullock", "George Clooney", "Ed Harris", "Orto Ignatiussen", "Phaldut Sharma", "Amy Warren", "Basher Savage", "Adam Cozens", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Alfonso Cuarón", "Mark Sanger", ]
-_cinematographer: ["Emmanuel Lubezki", ]
-_music: ["Steven Price", ]
-_genres: ["Sci-Fi", ]
-_runtimes: ["91", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNjE5MzYwMzYxMF5BMl5BanBnXkFtZTcwOTk4MTk0OQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNjE5MzYwMzYxMF5BMl5BanBnXkFtZTcwOTk4MTk0OQ@@._V1._SX95_SY140_.jpg"
+desc: "Gravidade. Gravity (USA, 2013). Dirigido por Alfonso Cuarón. Escrito por Alfonso Cuarón, Jonás Cuarón, George Clooney. Com Sandra Bullock, George Clooney, Ed Harris, Orto Ignatiussen, Phaldut Sharma, Amy Warren, Basher Savage, Adam Cozens."
 ---
 Alfonso Cuarón (Filhos da Esperança) mostra mais uma vez saber usar as longas sequência sem cortes como uma ferramenta narrativa em vez de um mero estilo exibicionista. Usando o movimento giratório da câmera para impor o ritmo e precisando de pouquíssimos cortes  e ainda assim extremamente orgânicos  somos levados a uma experiência angustiante em torno da órbita da Terra, o que me pegou despreparado e a ponto de vomitar, me segurando na cadeira da sala I-MAX como se pudesse sair flutuando de lá.
 

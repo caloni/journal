@@ -1,25 +1,10 @@
 ---
-date: "2015-02-14"
 imdb: "1486834"
+date: "2015-02-14"
+categories: "movies"
 title: "Será Que?"
 stars: "4/5"
-categories: "movies"
-_title: "What If"
-_year: "2013"
-_director: ["Michael Dowse", ]
-_writer: ["Elan Mastai", "T.J. Dawe", "Michael Rinaldi", ]
-_cast: ["Daniel Radcliffe", "Zoe Kazan", "Megan Park", "Adam Driver", "Mackenzie Davis", "Rafe Spall", "Lucius Hoyos", "Jemima Rooper", "Tommie-Amber Pirie", ]
-_countries: ["Ireland", ]
-_languages: ["English", ]
-_editor: ["Yvann Thibaudeau", ]
-_cinematographer: ["Rogier Stoffers", ]
-_music: ["A.C. Newman", ]
-_genres: ["Comedy", ]
-_runtimes: ["98", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTcyODc4Njg4OF5BMl5BanBnXkFtZTgwNDIwNDA4MTE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTcyODc4Njg4OF5BMl5BanBnXkFtZTgwNDIwNDA4MTE@._V1._SX94_SY140_.jpg"
+desc: "Será Que?. What If (Ireland, 2013). Dirigido por Michael Dowse. Escrito por Elan Mastai, T.J. Dawe, Michael Rinaldi. Com Daniel Radcliffe, Zoe Kazan, Megan Park, Adam Driver, Mackenzie Davis, Rafe Spall, Lucius Hoyos, Jemima Rooper, Tommie-Amber Pirie."
 ---
 Uma comédia romântica de um diretor canadense com cheiro de humor britânico. A parte do humor britânico, obviamente, é o que torna tudo mais engraçado. Já chega de assistir àquelas ComRons que tentam blindar o amor contra piadas. Faça-me o favor: esses produtores ganham milhões em cima da reinvenção clichê de um sentimento falso responsável por distorcer boa parte da mente desses zumbis consumidores carentes.
 

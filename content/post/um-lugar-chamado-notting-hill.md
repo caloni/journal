@@ -1,25 +1,10 @@
 ---
-date: "2010-08-27"
 imdb: "0125439"
+date: "2010-08-27"
+categories: "movies"
 title: "Um Lugar Chamado Notting Hill"
 stars: "4/5"
-categories: "movies"
-_title: "Notting Hill"
-_year: "1999"
-_director: ["Roger Michell", ]
-_writer: ["Richard Curtis", ]
-_cast: ["Julia Roberts", "Hugh Grant", "Richard McCabe", "Rhys Ifans", "James Dreyfus", "Dylan Moran", "Roger Frost", "Henry Goodman", "Julian Rhind-Tutt", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Nick Moore", ]
-_cinematographer: ["Michael Coulter", ]
-_music: ["Trevor Jones", ]
-_genres: ["Comedy", ]
-_runtimes: ["124", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQ4MDg5MTE1N15BMl5BanBnXkFtZTgwNDA4NjQxMTE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQ4MDg5MTE1N15BMl5BanBnXkFtZTgwNDA4NjQxMTE@._V1._SX94_SY140_.jpg"
+desc: "Um Lugar Chamado Notting Hill. Notting Hill (UK, 1999). Dirigido por Roger Michell. Escrito por Richard Curtis. Com Julia Roberts, Hugh Grant, Richard McCabe, Rhys Ifans, James Dreyfus, Dylan Moran, Roger Frost, Henry Goodman, Julian Rhind-Tutt."
 ---
 Está é uma história estilo conto de fadas, em que uma famosa atriz, inalcançável pela maioria dos mortais, acaba visitando um pequeno bairro de Londres (o Notting Hill do título) e conhece o dono de uma loja de livros de viagem (e é curioso que provavelmente ela deve ter viajado para muitos dos lugares descritos nos livros de suas estantes) e vivem um inusitado romance.
 

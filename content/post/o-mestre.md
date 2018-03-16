@@ -1,25 +1,10 @@
 ---
-date: "2013-02-20"
 imdb: "1560747"
+date: "2013-02-20"
+categories: "movies"
 title: "O Mestre"
 stars: "4/5"
-categories: "movies"
-_title: "The Master"
-_year: "2012"
-_director: ["Paul Thomas Anderson", ]
-_writer: ["Paul Thomas Anderson", ]
-_cast: ["Joaquin Phoenix", "Price Carson", "Mike Howard", "Sarah Shoshana David", "Bruce Goodchild", "Matt Hering", "Dan Anderson", "Andrew Koponen", "Jeffrey W. Jenkins", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Leslie Jones", "Peter McNulty", ]
-_cinematographer: ["Mihai Malaimare Jr.", ]
-_music: ["Jonny Greenwood", ]
-_genres: ["Drama", ]
-_runtimes: ["144", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTgxMjY1OTk4MV5BMl5BanBnXkFtZTcwOTQ3NDMxOQ@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTgxMjY1OTk4MV5BMl5BanBnXkFtZTcwOTQ3NDMxOQ@@._V1._SX100_SY140_.jpg"
+desc: "O Mestre. The Master (USA, 2012). Dirigido por Paul Thomas Anderson. Escrito por Paul Thomas Anderson. Com Joaquin Phoenix, Price Carson, Mike Howard, Sarah Shoshana David, Bruce Goodchild, Matt Hering, Dan Anderson, Andrew Koponen, Jeffrey W. Jenkins."
 ---
 Desde o início Freddie Quell (Joaquin Phoenix) é um animal não domesticado, obediente aos seus instintos mais primitivos e dotado de traços animalescos e infantis (como se divertir com peidos). Constatamos isso ainda pelo seu ritual de beber um quase veneno preparado por ele e brigar como um animal raivoso e enxergar sexo em qualquer lugar.
 

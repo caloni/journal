@@ -1,25 +1,10 @@
 ---
-date: "2010-06-11"
 imdb: "1212436"
+date: "2010-06-11"
+categories: "movies"
 title: "Plano B"
 stars: "2/5"
-categories: "movies"
-_title: "The Back-up Plan"
-_year: "2010"
-_director: ["Alan Poul", ]
-_writer: ["Kate Angelo", ]
-_cast: ["Jennifer Lopez", "Alex O'Loughlin", "Michaela Watkins", "Eric Christian Olsen", "Anthony Anderson", "Noureen DeWulf", "Melissa McCarthy", "Tom Bosley", "Maribeth Monroe", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Priscilla Nedd-Friendly", ]
-_cinematographer: ["Xavier Grobet", ]
-_music: ["Stephen Trask", ]
-_genres: ["Comedy", ]
-_runtimes: ["Germany:106", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNjAzODM4NTc1OF5BMl5BanBnXkFtZTcwNDU2ODUzMw@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNjAzODM4NTc1OF5BMl5BanBnXkFtZTcwNDU2ODUzMw@@._V1._SX95_SY140_.jpg"
+desc: "Plano B. The Back-up Plan (USA, 2010). Dirigido por Alan Poul. Escrito por Kate Angelo. Com Jennifer Lopez, Alex O'Loughlin, Michaela Watkins, Eric Christian Olsen, Anthony Anderson, Noureen DeWulf, Melissa McCarthy, Tom Bosley, Maribeth Monroe."
 ---
 O produtor e diretor de TV Alan Poul resolve fazer este seu único longa para o Cinema que se transforma em uma mesmice sem tamanho. E olha que em questão de comédias românticas, mesmice já é a regra.
 

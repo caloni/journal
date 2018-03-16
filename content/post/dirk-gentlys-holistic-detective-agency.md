@@ -1,27 +1,11 @@
 ---
+tags: ['netflix', 'dirkgently', 'series']
+imdb: "4047038"
 date: "2017-01-01"
 categories: "series"
 title: "Dirk Gently's Holistic Detective Agency - Primeira Temporada, Episódios 1 ao 3"
-imdb: "4047038"
 stars: "3/5"
-tags: ['netflix', 'dirkgently', 'series']
-_title: "Dirk Gently's Holistic Detective Agency"
-_year: "2016"
-_director: ["Paco Cabezas", "Tamra Davis", "Michael Patrick Jann", "Dean Parisot", ]
-_writer: ["Douglas Adams", "Max Landis", "Andrew Black", ]
-_cast: ["Samuel Barnett (Dirk Gently)", "Elijah Wood (Todd Brotzman / ...)", "Hannah Marks (Amanda Brotzman / ...)", "Fiona Dourif (Bart Curlish)", "Jade Eshete (Farah Black)", "Mpho Koaho (Ken)", "Michael Eklund (Martin)", "Dustin Milligan (Sgt. Hugo Friedkin / ...)", "Neil Brown Jr. (Estevez)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Alison Grace", "Allan Lee", "Jamie Alain", ]
-_cinematographer: ["Samy Inayeh", "John Pardue", ]
-_music: ["Cristobal Tapia de Veer", ]
-_artdirection: ["Grant Pearse", "Tracey Loverock", ]
-_costume designer: ["Antoinette Messam", ]
-_genres: ["Comedy", ]
-_runtimes: ["60", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU3MDkzNzM5NF5BMl5BanBnXkFtZTgwMzEyNTgyMDI@.jpg"
-_kind: "tv series"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU3MDkzNzM5NF5BMl5BanBnXkFtZTgwMzEyNTgyMDI@._V1._SX95_SY140_.jpg"
+desc: "Dirk Gently's Holistic Detective Agency - Primeira Temporada, Episódios 1 ao 3. Dirk Gently's Holistic Detective Agency (USA, 2016). Dirigido por Paco Cabezas, Tamra Davis, Michael Patrick Jann, Dean Parisot. Escrito por Douglas Adams, Max Landis, Andrew Black. Com Samuel Barnett (Dirk Gently), Elijah Wood (Todd Brotzman / ...), Hannah Marks (Amanda Brotzman / ...), Fiona Dourif (Bart Curlish), Jade Eshete (Farah Black), Mpho Koaho (Ken), Michael Eklund (Martin), Dustin Milligan (Sgt. Hugo Friedkin / ...), Neil Brown Jr. (Estevez)."
 ---
 Tudo que é britânico eu já tenho meu preconceito que diz que vai ser bom. Agora, tudo que é humor britânico, eu tenho minhas certezas.
 

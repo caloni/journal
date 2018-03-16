@@ -1,25 +1,10 @@
 ---
-date: "2011-12-31"
 imdb: "0185125"
+date: "2011-12-31"
+categories: "movies"
 title: "Tudo Sobre Minha Mãe"
 stars: "5/5"
-categories: "movies"
-_title: "Todo sobre mi madre"
-_year: "1999"
-_director: ["Pedro Almodóvar", ]
-_writer: ["Pedro Almodóvar", ]
-_cast: ["Cecilia Roth", "Marisa Paredes", "Candela Peña", "Antonia San Juan", "Penélope Cruz", "Rosa Maria Sardà", "Fernando Fernán Gómez", "Toni Cantó", "Eloy Azorín", ]
-_countries: ["Spain", ]
-_languages: ["Spanish", ]
-_editor: ["José Salcedo", ]
-_cinematographer: ["Affonso Beato", ]
-_music: ["Alberto Iglesias", ]
-_genres: ["Drama", ]
-_runtimes: ["101", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjE3OTg3MTk2NV5BMl5BanBnXkFtZTcwNzA4ODMyMQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjE3OTg3MTk2NV5BMl5BanBnXkFtZTcwNzA4ODMyMQ@@._V1._SX77_SY140_.jpg"
+desc: "Tudo Sobre Minha Mãe. Todo sobre mi madre (Spain, 1999). Dirigido por Pedro Almodóvar. Escrito por Pedro Almodóvar. Com Cecilia Roth, Marisa Paredes, Candela Peña, Antonia San Juan, Penélope Cruz, Rosa Maria Sardà, Fernando Fernán Gómez, Toni Cantó, Eloy Azorín."
 ---
 Tudo Sobre Minha Mãe é o exemplo perfeito sobre a que veio Almodóvar. Com uma sensibilidade ímpar para contar os dramas das mulheres, o diretor-roteirista emplaca uma história cheio de reviravoltas e sobre diversas mulheres e suas vidas, mas que gira principalmente em torno de Manuela (Cecilia Roth), uma enfermeira que é mãe de um filho de 18 anos que mantém um mistério acerca de seu pai, mas que possui em comum sua obsessão pelo enredo da peça Um Bonde Chamado Desejo, onde se identifica com Stella, uma personagem dominada e abusada pela figura masculina. Cenas da peça são mostradas conforme a narrativa do próprio filme avança, enriquecendo a história principal.
 

@@ -1,27 +1,11 @@
 ---
-date: "2014-01-20"
+tags: ['netflix', 'houseofcards', 'series']
 imdb: "1856010"
+date: "2016-03-13"
+categories: "blog"
 title: "House of Cards - Quarta Temporada"
 stars: "3/5"
-categories: "blog"
-date: "2016-03-13"
-tags: ['netflix', 'houseofcards', 'series']
-_title: "House of Cards"
-_year: "2013"
-_director: ["James Foley", "John David Coles", "Carl Franklin", "Robin Wright", "Allen Coulter", "David Fincher", "Charles McDougall", "Joel Schumacher", "John Dahl", ]
-_writer: ["Andrew Davies", "Michael Dobbs", "Beau Willimon", "Kate Barnow", "Sam Forman", "John Mankiewicz", "Laura Eason", "Rick Cleveland", "Keith Huff", ]
-_cast: ["Kevin Spacey", "Robin Wright", "Michael Kelly", "Nathan Darrow", "Mahershala Ali", "Justin Doescher", "Michael Gill", "Molly Parker", "Derek Cecil", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Byron Smith", "Cindy Mollo", "Sidney Wolinsky", "Lisa Bromwell", "Michelle Tesoro", "Kirk Baxter", ]
-_cinematographer: ["Igor Martinovic", "Eigil Bryld", "Martin Ahlgren", "Tim Ives", "Peter Konczal", ]
-_music: ["Jeff Beal", ]
-_genres: ["Drama", ]
-_runtimes: ["55", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTY1NDcwMDcxN15BMl5BanBnXkFtZTgwMDI1NTQzNDE@.jpg"
-_ratio: "2.00 : 1"
-_kind: "tv series"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTY1NDcwMDcxN15BMl5BanBnXkFtZTgwMDI1NTQzNDE@._V1._SX95_SY140_.jpg"
+desc: "House of Cards - Quarta Temporada. House of Cards (USA, 2013). Dirigido por James Foley, John David Coles, Carl Franklin, Robin Wright, Allen Coulter, David Fincher, Charles McDougall, Joel Schumacher, John Dahl. Escrito por Andrew Davies, Michael Dobbs, Beau Willimon, Kate Barnow, Sam Forman, John Mankiewicz, Laura Eason, Rick Cleveland, Keith Huff. Com Kevin Spacey, Robin Wright, Michael Kelly, Nathan Darrow, Mahershala Ali, Justin Doescher, Michael Gill, Molly Parker, Derek Cecil."
 ---
 A temporada 4 de House of Cards é o que esperaria ver de um Francis Underwood presidente, algo que foi adiado pela pálida temporada anterior, que ainda que tenha seus momentos gloriosos, falha em sua premissa principal: causar tensão no dia-a-dia presidencial. E essa tensão está amplamente disponível agora, se espalhando por todas as vias políticas. Obviamente ela afeta sempre indiretamente Frank, mas a série se inicia com Lucas Goodwin na prisão (Sebastian Arcelus), que assim como Doug Stamper (Michael Kelly) terá uma curva trágica que desencadeará a trama principal.
 

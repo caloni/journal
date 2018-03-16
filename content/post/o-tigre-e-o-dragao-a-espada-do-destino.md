@@ -1,27 +1,10 @@
 ---
-date: "2016-03-09"
 imdb: "2652118"
-stars: "2/5"
+date: "2016-03-09"
 categories: "movies"
 title: "O Tigre e o Dragão: A Espada do Destino"
-_title: "Crouching Tiger, Hidden Dragon: Sword of Destiny"
-_year: "2016"
-_director: ["Woo-Ping Yuen", ]
-_writer: ["John Fusco", "Wang Du Lu", ]
-_cast: ["Donnie Yen", "Michelle Yeoh", "Harry Shum Jr.", "Natasha Liu Bordizzo", "Jason Scott Lee", "Eugenia Yuan", "Roger Yuan", "Juju Chan", "Chris Pang", ]
-_countries: ["China", ]
-_languages: ["English", ]
-_editor: ["Jeff Betancourt", ]
-_cinematographer: ["Newton Thomas Sigel", ]
-_music: ["Carlo Siliotto", "Shigeru Umebayashi", ]
-_artdirection: ["Nick Bassett", "Nick Connor", "Jill Cormack", "Sherrie Dai", ]
-_costume designer: ["Ngila Dickson", ]
-_genres: ["Action", ]
-_runtimes: ["96", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTA2MzM5NTk4NTBeQTJeQWpwZ15BbWU4MDk0NjgyNDcx.jpg"
-_ratio: "1.90 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTA2MzM5NTk4NTBeQTJeQWpwZ15BbWU4MDk0NjgyNDcx._V1._SX94_SY140_.jpg"
+stars: "2/5"
+desc: "O Tigre e o Dragão: A Espada do Destino. Crouching Tiger, Hidden Dragon: Sword of Destiny (China, 2016). Dirigido por Woo-Ping Yuen. Escrito por John Fusco, Wang Du Lu. Com Donnie Yen, Michelle Yeoh, Harry Shum Jr., Natasha Liu Bordizzo, Jason Scott Lee, Eugenia Yuan, Roger Yuan, Juju Chan, Chris Pang."
 ---
 Sim, fizeram uma continuação de O Tigre e o Dragão, um daqueles filmes "incontinuáveis" (ou até intocáveis). A Netflix resolveu bancar um pequeno filme que meio que homenageia o original e meio que tenta ser um caça-níqueis de qualidade.
 

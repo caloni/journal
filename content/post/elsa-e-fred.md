@@ -1,25 +1,10 @@
 ---
-date: "2010-12-30"
 imdb: "0453047"
+date: "2010-12-30"
+categories: "movies"
 title: "Elsa e Fred"
 stars: "4/5"
-categories: "movies"
-_title: "Elsa y Fred"
-_year: "2005"
-_director: ["Marcos Carnevale", ]
-_writer: ["Marcos Carnevale", "Marcela Guerty", "Lily Ann Martin", ]
-_cast: ["Manuel Alexandre", "China Zorrilla", "Blanca Portillo", "José Ángel Egido", "Omar Muñoz", "Roberto Carnaghi", "Carlos Álvarez-Nóvoa", "Gonzalo Urtizberéa", "Fanny Gautier", ]
-_countries: ["Argentina", ]
-_languages: ["Spanish", ]
-_editor: ["Nacho Ruiz Capillas", ]
-_cinematographer: ["Juan Carlos Gómez", ]
-_music: ["Lito Vitale", ]
-_genres: ["Comedy", ]
-_runtimes: ["108", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQxMTAzNDA4NV5BMl5BanBnXkFtZTcwOTQ2MTU0MQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQxMTAzNDA4NV5BMl5BanBnXkFtZTcwOTQ2MTU0MQ@@._V1._SX98_SY140_.jpg"
+desc: "Elsa e Fred. Elsa y Fred (Argentina, 2005). Dirigido por Marcos Carnevale. Escrito por Marcos Carnevale, Marcela Guerty, Lily Ann Martin. Com Manuel Alexandre, China Zorrilla, Blanca Portillo, José Ángel Egido, Omar Muñoz, Roberto Carnaghi, Carlos Álvarez-Nóvoa, Gonzalo Urtizberéa, Fanny Gautier."
 ---
 A noção de felicidade na sociedade atual acaba a tornando inalcançável. Quanto mais busca-se o mundo ideal, mais perde-se a satisfação do real. Sendo assim, é difícil não se emocionar com a praticidade de Elsa, uma mulher em torno dos seus 80 anos bem vividos que só tem um desejo em mente e que o coloca em prática o mais rápido possível: viver mais, não importando os defeitos e os obstáculos que o mundo real lhe apresenta.
 

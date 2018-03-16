@@ -1,28 +1,11 @@
 ---
+tags: ['paulocoelho', 'oscar']
+imdb: "2543164"
 date: "2017-02-04"
 categories: "movies"
 title: "A Chegada"
-imdb: "2543164"
 stars: "5/5"
-tags: ['paulocoelho', 'oscar']
-_title: "Arrival"
-_year: "2016"
-_director: ["Denis Villeneuve", ]
-_writer: ["Eric Heisserer", "Ted Chiang", ]
-_cast: ["Amy Adams (Louise Banks)", "Jeremy Renner (Ian Donnelly)", "Forest Whitaker (Colonel Weber)", "Michael Stuhlbarg (Agent Halpern)", "Mark O'Brien (Captain Marks)", "Tzi Ma (General Shang)", "Abigail Pniowsky (8-Year-Old-Hannah)", "Julia Scarlett Dan (12-Year-Old-Hannah)", "Jadyn Malone (6-Year-Old-Hannah)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Joe Walker", ]
-_cinematographer: ["Bradford Young", ]
-_music: ["Jóhann Jóhannsson", ]
-_artdirection: ["Isabelle Guay", "Nicolas Lepage", "Jean-Pierre Paquet", "Robert Parle", ]
-_costume designer: ["Renée April", ]
-_genres: ["Drama", ]
-_runtimes: ["116", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTExMzU0ODcxNDheQTJeQWpwZ15BbWU4MDE1OTI4MzAy.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTExMzU0ODcxNDheQTJeQWpwZ15BbWU4MDE1OTI4MzAy._V1._SX90_SY140_.jpg"
+desc: "A Chegada. Arrival (USA, 2016). Dirigido por Denis Villeneuve. Escrito por Eric Heisserer, Ted Chiang. Com Amy Adams (Louise Banks), Jeremy Renner (Ian Donnelly), Forest Whitaker (Colonel Weber), Michael Stuhlbarg (Agent Halpern), Mark O'Brien (Captain Marks), Tzi Ma (General Shang), Abigail Pniowsky (8-Year-Old-Hannah), Julia Scarlett Dan (12-Year-Old-Hannah), Jadyn Malone (6-Year-Old-Hannah)."
 ---
 Denis Villeneuve (Incêndios, Os Suspeitos, O Homem Duplicado) nos apresenta uma ficção científica completamente focada em seu drama. Tudo o que está além da realidade no filme nos serve como reflexão sobre as falhas de comunicação da humanidade como um todo, e uma reflexão ainda maior sobre a falha de comunicação dos nossos sentimentos uns para com os outros. A Chegada imortaliza um conceito apresentando-o da maneira mais perfeccionista possível. É um filme basicamente sobre ideias, não sobre ação, aventura ou terror. Mas, ainda assim, o tema sonoro composto por Jóhann Jóhannsson se torna icônico justamente pelo incômodo que suas notas arrítmicas geram, além da estranheza de cordas. A fotografia acinzentada nos fornece pistas de um mundo ainda sob forte ameaça de desestabilizar, como comprovam as primeiras horas e depois dias depois que doze naves, como os apóstolos de Cristo (mas sem o Salvador), pousam em localizações que não fazem o menor sentido político hoje. Até porque este não é um filme político antes de tudo, mas sobre conhecimento e os problemas da cooperação.
 

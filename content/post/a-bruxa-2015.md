@@ -1,27 +1,10 @@
 ---
+imdb: "4263482"
 date: "2016-06-24"
 categories: "movies"
-imdb: "4263482"
-stars: "5/5"
 title: "A Bruxa"
-_title: "The VVitch: A New-England Folktale"
-_year: "2015"
-_director: ["Robert Eggers", ]
-_writer: ["Robert Eggers", ]
-_cast: ["Anya Taylor-Joy", "Ralph Ineson", "Kate Dickie", "Harvey Scrimshaw", "Ellie Grainger", "Lucas Dawson", "Julian Richings", "Bathsheba Garnett", "Sarah Stephens", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Louise Ford", ]
-_cinematographer: ["Jarin Blaschke", ]
-_music: ["Mark Korven", ]
-_artdirection: ["Andrea Kristof", ]
-_costume designer: ["Linda Muir", ]
-_genres: ["Horror", ]
-_runtimes: ["92", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTY4MTU2NjMyNV5BMl5BanBnXkFtZTgwMzUwMDk4NzE@.jpg"
-_ratio: "1.66 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTY4MTU2NjMyNV5BMl5BanBnXkFtZTgwMzUwMDk4NzE@._V1._SX95_SY140_.jpg"
+stars: "5/5"
+desc: "A Bruxa. The VVitch: A New-England Folktale (USA, 2015). Dirigido por Robert Eggers. Escrito por Robert Eggers. Com Anya Taylor-Joy, Ralph Ineson, Kate Dickie, Harvey Scrimshaw, Ellie Grainger, Lucas Dawson, Julian Richings, Bathsheba Garnett, Sarah Stephens."
 ---
 Este terror faz jus a produções clássicas como O Exorcista (Friedkin, 1973), inovadoras como A Bluxa de Blair (Myrick, Sánchez, 1999) e instigantes como A Vila (Shyamalan, 2004), sem apelar inteiramente para nenhum desses três formatos. Conta uma lenda/conto antigo inglês e leva ao pé da letra muitas passagens, embora em todas elas haja a tal licença poética e o ponto de vista dos seus personagens, permitindo um verdadeiro jogo de interpretação para os que estiverem curiosos apenas pela sua história.
 

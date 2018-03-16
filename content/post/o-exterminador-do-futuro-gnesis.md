@@ -1,27 +1,10 @@
 ---
-date: "2015-10-16"
 imdb: "1340138"
-stars: "3/5"
+date: "2015-10-16"
 categories: "movies"
 title: "O Exterminador do Futuro: Gênesis"
-_title: "Terminator Genisys"
-_year: "2015"
-_director: ["Alan Taylor", ]
-_writer: ["Laeta Kalogridis", "Patrick Lussier", "James Cameron", "Gale Anne Hurd", ]
-_cast: ["Arnold Schwarzenegger", "Jason Clarke", "Emilia Clarke", "Jai Courtney", "J.K. Simmons", "Dayo Okeniyi", "Matt Smith", "Courtney B. Vance", "Byung-hun Lee", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Roger Barton", ]
-_cinematographer: ["Kramer Morgenthau", ]
-_music: ["Lorne Balfe", ]
-_artdirection: ["Andres Cubillan", "Aaron Haye", "Mara LePere-Schloop", "Jeffrey Mossa", "Greg Papalia", "David Scott", "Dawn Swiderski", "Mark Robert Taylor", ]
-_costume designer: ["Susan Matheson", ]
-_genres: ["Action", ]
-_runtimes: ["126", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjM1NTc0NzE4OF5BMl5BanBnXkFtZTgwNDkyNjQ1NTE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjM1NTc0NzE4OF5BMl5BanBnXkFtZTgwNDkyNjQ1NTE@._V1._SX90_SY140_.jpg"
+stars: "3/5"
+desc: "O Exterminador do Futuro: Gênesis. Terminator Genisys (USA, 2015). Dirigido por Alan Taylor. Escrito por Laeta Kalogridis, Patrick Lussier, James Cameron, Gale Anne Hurd. Com Arnold Schwarzenegger, Jason Clarke, Emilia Clarke, Jai Courtney, J.K. Simmons, Dayo Okeniyi, Matt Smith, Courtney B. Vance, Byung-hun Lee."
 ---
 O novo filme da franquia Exterminador do Futuro resolve homenagear cada pedacinho de toda a saga repetindo cenários, cenas, diálogos, ideias e reviravoltas. Como tradição, inova o modelo do modelo T-800, dessa vez, pra variar, um que usa nanotecnologia. Não se saindo tão mal quanto o terceiro filme, sua sacada genial é revelada no meio da história, e para os que tiveram a sorte de não assistir nenhum trailer e não ver nenhum pôster, pode até ser uma surpresa. Eu disse pode, pois até no começo há dicas demais sobre o que irá acontecer.
 

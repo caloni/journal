@@ -1,25 +1,10 @@
 ---
-date: "2014-06-13"
 imdb: "1407050"
+date: "2014-06-13"
+categories: "movies"
 title: "American Pie Apresenta O Livro do Amor"
 stars: "3/5"
-categories: "movies"
-_title: "American Pie Presents: The Book of Love"
-_year: "2009"
-_director: ["John Putch", ]
-_writer: ["David H. Steinberg", "Adam Herz", ]
-_cast: ["Eugene Levy", "Bug Hall", "Kevin M. Horton", "Brandon Hardesty", "Beth Behrs", "Melanie Papalia", "Jennifer Holland", "John Patrick Jordan", "Louisa Lytton", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["John Gilbert", ]
-_cinematographer: ["Ross Berryman", ]
-_music: ["David Lawrence", ]
-_genres: ["Comedy", ]
-_runtimes: ["93", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTUzODM2Nzk2NV5BMl5BanBnXkFtZTcwNzg0Mjc5Mg@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "video movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTUzODM2Nzk2NV5BMl5BanBnXkFtZTcwNzg0Mjc5Mg@@._V1._SX96_SY140_.jpg"
+desc: "American Pie Apresenta O Livro do Amor. American Pie Presents: The Book of Love (USA, 2009). Dirigido por John Putch. Escrito por David H. Steinberg, Adam Herz. Com Eugene Levy, Bug Hall, Kevin M. Horton, Brandon Hardesty, Beth Behrs, Melanie Papalia, Jennifer Holland, John Patrick Jordan, Louisa Lytton."
 ---
 Ótimas piadas, uma história batida, mas que segue a lógica e até meio que homenageia os filmes sobre nerds dos anos 80. E por falar em anos 80, a melhor surpresa é Brandon Hardesty, que faz o gordo desajeitado que fantasia mulheres se entregando para ele a todo o momento. Além de ser a melhor surpresa é praticamente a única, pois seus dois amigos, apesar de socialmente desajeitados, não podem ser rotulados como incapazes de se relacionar com mulheres.
 

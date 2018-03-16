@@ -1,29 +1,11 @@
 ---
-imdb: "0242653"
-stars: "5/5"
 tags: ['filosofia']
+imdb: "0242653"
 date: 2017-09-18T21:53:43
-title: "Matrix: Ghost in The Shell"
 categories: "blog"
-_title: "The Matrix Revolutions"
-_year: "2003"
-_director: ["Lana Wachowski", "Lilly Wachowski", ]
-_writer: ["Lilly Wachowski", "Lana Wachowski", ]
-_cast: ["Mary Alice (The Oracle)", "Tanveer K. Atwal (Sati)", "Helmut Bakaitis (The Architect)", "Kate Beahan (Coat Check Girl)", "Francine Bell (Councillor Grace)", "Monica Bellucci (Persephone)", "Rachel Blackman (Charra)", "Henry Blasingame (Deus Ex Machina)", "Ian Bliss (Bane)", ]
-_countries: ["Australia", ]
-_languages: ["English", ]
-_editor: ["Zach Staenberg", ]
-_cinematographer: ["Bill Pope", ]
-_music: ["Don Davis", ]
-_artdirection: ["Hugh Bateup", "Jules Cook", "Catherine Mansill", "Charlie Revai", ]
-_costume designer: ["Kym Barrett", ]
-_genres: ["Action", ]
-_runtimes: ["129", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA1MjM3NTE1Ml5BMl5BanBnXkFtZTYwODM4MDg3.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA1MjM3NTE1Ml5BMl5BanBnXkFtZTYwODM4MDg3._V1._SX95_SY140_.jpg"
-_releasedate: "5 November 2003"
+title: "Matrix: Ghost in The Shell"
+stars: "5/5"
+desc: "Matrix: Ghost in The Shell. The Matrix Revolutions (Australia, 2003). Dirigido por Lana Wachowski, Lilly Wachowski. Escrito por Lilly Wachowski, Lana Wachowski. Com Mary Alice (The Oracle), Tanveer K. Atwal (Sati), Helmut Bakaitis (The Architect), Kate Beahan (Coat Check Girl), Francine Bell (Councillor Grace), Monica Bellucci (Persephone), Rachel Blackman (Charra), Henry Blasingame (Deus Ex Machina), Ian Bliss (Bane)."
 ---
 De todas as teorias malucas criadas em torno da trilogia das Irmãs Wachowski, acredito que esta que tenho para lhes falar supera em simplicidade e elegância. Por isso mesmo acredito que esta seria a solução empregada por elas caso quisessem deixar toda a trama às claras. Felizmente, não quiseram, o que deu vazão para um esoterismo e obscurantismo que torna o conjunto de três filmes indecifrável. Mas, fala sério. Sou programador. Depois de Ghost in the Shell as coisas têm se tornado mais claras ainda. Quer ver como toda essa fábula é explicada por ela mesma?
 

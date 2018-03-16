@@ -1,26 +1,11 @@
 ---
-date: "2014-06-20"
+tags: ['ahs', 'series']
 imdb: "1844624"
+date: 2015-11-28
+categories: "blog"
 title: "História de Horror Americana - Murder House"
 stars: "4/5"
-categories: "blog"
-date: 2015-11-28
-tags: ['ahs', 'series']
-_title: "American Horror Story"
-_year: "2011"
-_director: ["Alfonso Gomez-Rejon", "Bradley Buecker", "Michael Uppendahl", "Michael Lehmann", "David Semel", "Howard Deutch", "Ryan Murphy", "Jeremy Podeswa", "Michael Rymer", ]
-_writer: ["Brad Falchuk", "Ryan Murphy", "Jennifer Salt", "Jessica Sharzer", "Tim Minear", "James Wong", "Crystal Liu", "John J. Gray", "Todd Kubrak", ]
-_cast: ["Evan Peters", "Jessica Lange", "Sarah Paulson", "Frances Conroy", "Denis O'Hare", "Lily Rabe", "Emma Roberts", "Kathy Bates", "Taissa Farmiga", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Fabienne Bouville", "Adam Penn", "Stewart Schill", "Bradley Buecker", "Regis Kimble", "Robert Komatsu", ]
-_cinematographer: ["Michael Goi", "John B. Aronson", "Tom Houghton", ]
-_music: ["James S. Levine", "Mac Quayle", ]
-_genres: ["Drama", ]
-_runtimes: ["USA:60::(with commercials)", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjA1MzAwNjYzMl5BMl5BanBnXkFtZTgwMDg1ODU3MjE@.jpg"
-_kind: "tv series"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjA1MzAwNjYzMl5BMl5BanBnXkFtZTgwMDg1ODU3MjE@._V1._SX93_SY140_.jpg"
+desc: "História de Horror Americana - Murder House. American Horror Story (USA, 2011). Dirigido por Alfonso Gomez-Rejon, Bradley Buecker, Michael Uppendahl, Michael Lehmann, David Semel, Howard Deutch, Ryan Murphy, Jeremy Podeswa, Michael Rymer. Escrito por Brad Falchuk, Ryan Murphy, Jennifer Salt, Jessica Sharzer, Tim Minear, James Wong, Crystal Liu, John J. Gray, Todd Kubrak. Com Evan Peters, Jessica Lange, Sarah Paulson, Frances Conroy, Denis O'Hare, Lily Rabe, Emma Roberts, Kathy Bates, Taissa Farmiga."
 ---
 Pela primeira temporada de American Horror Story (ou [História de Horror Americana](/american-horror-story)) pode-se perceber que, apesar de recriar muitas (quase todas) histórias de horror que fazem parte não apenas do imaginário de terror coletivo como foi responsável pelos maiores clássicos do gênero no Cinema, a direção e o roteiro mistos quase sempre referenciam de uma forma tão orgânica essas histórias que fica impossível não apreciar tamanha homenagem que a série proporciona para os fãs de terror.
 

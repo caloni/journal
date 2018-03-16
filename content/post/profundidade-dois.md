@@ -1,24 +1,11 @@
 ---
+tags: ['mostrasp']
+imdb: "5354986"
 date: "2016-10-21"
 categories: "movies"
 title: "Profundidade Dois"
-imdb: "5354986"
 stars: "3/5"
-tags: ['mostrasp']
-_title: "Dubina dva"
-_year: "2016"
-_director: ["Ognjen Glavonic", ]
-_writer: ["Ognjen Glavonic", ]
-_countries: ["Serbia", ]
-_languages: ["Serbian", ]
-_editor: ["Jelena Maksimovic", ]
-_cinematographer: ["Tatjana Krstevski", ]
-_genres: ["Documentary", ]
-_runtimes: ["80", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BZjFlZjM3OGItNzlmOS00ZWQ5LTk4ZmMtMzNiM2E2MTAxYmZjXkEyXkFqcGdeQXVyODY1Njg5NQ@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BZjFlZjM3OGItNzlmOS00ZWQ5LTk4ZmMtMzNiM2E2MTAxYmZjXkEyXkFqcGdeQXVyODY1Njg5NQ@@._V1._SX99_SY140_.jpg"
+desc: "Profundidade Dois. Dubina dva (Serbia, 2016). Dirigido por Ognjen Glavonic. Escrito por Ognjen Glavonic."
 ---
 Um documentário que é uma peça de museu. Fala sobre um massacre "de guerra" feito em civis perpetrado pelos capangas psicopatas de um presidente. Bom, o que há de novo? 100% dos massacres são assim.
 

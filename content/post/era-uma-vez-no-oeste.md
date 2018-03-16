@@ -1,25 +1,10 @@
 ---
-date: "2012-10-31"
 imdb: "0064116"
+date: "2012-10-31"
+categories: "movies"
 title: "Era Uma Vez no Oeste"
 stars: "5/5"
-categories: "movies"
-_title: "C'era una volta il West"
-_year: "1968"
-_director: ["Sergio Leone", ]
-_writer: ["Sergio Leone", "Sergio Donati", "Dario Argento", "Bernardo Bertolucci", "Sergio Leone", "Mickey Knox", ]
-_cast: ["Claudia Cardinale", "Henry Fonda", "Jason Robards", "Charles Bronson", "Gabriele Ferzetti", "Paolo Stoppa", "Woody Strode", "Jack Elam", "Keenan Wynn", ]
-_countries: ["Italy", ]
-_languages: ["English", ]
-_editor: ["Nino Baragli", ]
-_cinematographer: ["Tonino Delli Colli", ]
-_music: ["Ennio Morricone", ]
-_genres: ["Western", ]
-_runtimes: ["Italy:175", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTEyODQzNDkzNjVeQTJeQWpwZ15BbWU4MDgyODk1NDEx.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTEyODQzNDkzNjVeQTJeQWpwZ15BbWU4MDgyODk1NDEx._V1._SX99_SY140_.jpg"
+desc: "Era Uma Vez no Oeste. C'era una volta il West (Italy, 1968). Dirigido por Sergio Leone. Escrito por Sergio Leone, Sergio Donati, Dario Argento, Bernardo Bertolucci, Sergio Leone, Mickey Knox. Com Claudia Cardinale, Henry Fonda, Jason Robards, Charles Bronson, Gabriele Ferzetti, Paolo Stoppa, Woody Strode, Jack Elam, Keenan Wynn."
 ---
 Era Uma Vez no Oeste parece ser a tentativa de Sergio Leone de fazer o "Grande Cinema", tornando todas as cenas costumeiras de seu faroeste mais solenes, lentas e cerimoniosas. Isso explica a trilha-comentário do músico Ennio Morricone, que oscila elegantemente entre toda essa solenidade e o pitoresco, com direito a pausa em uma música que lembra o cavalgar e que serve de tom cômico.
 

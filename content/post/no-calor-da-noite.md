@@ -1,27 +1,10 @@
 ---
-date: "2016-02-08"
 imdb: "0061811"
-stars: "4/5"
+date: "2016-02-08"
 categories: "movies"
 title: "No Calor da Noite"
-_title: "In the Heat of the Night"
-_year: "1967"
-_director: ["Norman Jewison", ]
-_writer: ["Stirling Silliphant", "John Ball", ]
-_cast: ["Sidney Poitier", "Rod Steiger", "Warren Oates", "Lee Grant", "Larry Gates", "James Patterson", "William Schallert", "Beah Richards", "Peter Whitney", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Hal Ashby", ]
-_cinematographer: ["Haskell Wexler", ]
-_music: ["Quincy Jones", ]
-_artdirection: ["Paul Groesse", ]
-_costume designer: ["Alan Levine", ]
-_genres: ["Crime", ]
-_runtimes: ["109", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTk3NjkxMDc1MV5BMl5BanBnXkFtZTcwMDIwMjI0NA@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTk3NjkxMDc1MV5BMl5BanBnXkFtZTcwMDIwMjI0NA@@._V1._SX93_SY140_.jpg"
+stars: "4/5"
+desc: "No Calor da Noite. In the Heat of the Night (USA, 1967). Dirigido por Norman Jewison. Escrito por Stirling Silliphant, John Ball. Com Sidney Poitier, Rod Steiger, Warren Oates, Lee Grant, Larry Gates, James Patterson, William Schallert, Beah Richards, Peter Whitney."
 ---
 Esse é um filme que expõe o racismo como nenhum outro. O personagem de Sidney Poitier aguarda o trem na estação da pequena cidade de Sparta para visitar sua mãe. Naquela mesma noite um figurão da cidade é assassinado. Um policial, um dos caipiras da cidade, encontra Portier sentado em um banco, e para ele o crime já está resolvido: único negro encontrado aquela noite, só ele poderia ser o culpado de um crime tão brutal.
 

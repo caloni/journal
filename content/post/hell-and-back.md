@@ -1,27 +1,10 @@
 ---
-date: "2016-03-13"
 imdb: "2141773"
-stars: "1/5"
+date: "2016-03-13"
 categories: "movies"
 title: "Hell and Back"
-_title: "Hell and Back"
-_year: "2015"
-_director: ["Tom Gianas", "Ross Shuman", ]
-_writer: ["Tom Gianas", "Hugh Sterbakov", "Zeb Wells", ]
-_cast: ["Nick Swardson", "Mila Kunis", "Bob Odenkirk", "T.J. Miller", "Rob Riggle", "Susan Sarandon", "Danny McBride", "Maria Bamford", "Lance Bass", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Matt Mariska", ]
-_cinematographer: ["Eric Adkins", ]
-_music: ["Ryan Franks", "Scott Nickoley", ]
-_artdirection: ["Kyle Arneson", ]
-_costume designer: ["Jeanette Moffat", ]
-_genres: ["Animation", ]
-_runtimes: ["USA:86", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjM4NzUxODgyNV5BMl5BanBnXkFtZTgwMDM5MzA3NjE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjM4NzUxODgyNV5BMl5BanBnXkFtZTgwMDM5MzA3NjE@._V1._SX94_SY140_.jpg"
+stars: "1/5"
+desc: "Hell and Back. Hell and Back (USA, 2015). Dirigido por Tom Gianas, Ross Shuman. Escrito por Tom Gianas, Hugh Sterbakov, Zeb Wells. Com Nick Swardson, Mila Kunis, Bob Odenkirk, T.J. Miller, Rob Riggle, Susan Sarandon, Danny McBride, Maria Bamford, Lance Bass."
 ---
 Uma comédia escrachada nem sempre é lançar um monte de palavrões e piadas a respeito de sexo, gays, estupro, negros, pênis e vagina. Se você não sabe o que está fazendo, corre grande risco de gerar o efeito contrário: a indiferença, ou o desprazer. A maior prova disso recentemente é essa animação, que consegue errar na história, no tom, na lógica, na narrativa e na direção.
 

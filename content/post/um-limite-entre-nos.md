@@ -1,28 +1,11 @@
 ---
+tags: ['paulocoelho', 'oscar']
+imdb: "2671706"
 date: "2017-02-07"
 categories: "movies"
 title: "Um Limite Entre Nós"
-imdb: "2671706"
 stars: "4/5"
-tags: ['paulocoelho', 'oscar']
-_title: "Fences"
-_year: "2016"
-_director: ["Denzel Washington", ]
-_writer: ["August Wilson", ]
-_cast: ["Denzel Washington (Troy Maxson)", "Viola Davis (Rose Maxson)", "Stephen Henderson (Jim Bono)", "Jovan Adepo (Cory)", "Russell Hornsby (Lyons)", "Mykelti Williamson (Gabriel)", "Saniyya Sidney (Raynell)", "Christopher Mele (Deputy Commissioner)", "Lesley Boone (Evangelist Preacher)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Hughes Winborne", ]
-_cinematographer: ["Charlotte Bruus Christensen", ]
-_music: ["Marcelo Zarvos", ]
-_artdirection: ["Karen Gropman", "Gregory A. Weimerskirch", ]
-_costume designer: ["Sharen Davis", ]
-_genres: ["Drama", ]
-_runtimes: ["139", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BOTg0Nzc1NjA0MV5BMl5BanBnXkFtZTgwNTcyNDQ0MDI@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BOTg0Nzc1NjA0MV5BMl5BanBnXkFtZTgwNTcyNDQ0MDI@._V1._SX90_SY140_.jpg"
+desc: "Um Limite Entre Nós. Fences (USA, 2016). Dirigido por Denzel Washington. Escrito por August Wilson. Com Denzel Washington (Troy Maxson), Viola Davis (Rose Maxson), Stephen Henderson (Jim Bono), Jovan Adepo (Cory), Russell Hornsby (Lyons), Mykelti Williamson (Gabriel), Saniyya Sidney (Raynell), Christopher Mele (Deputy Commissioner), Lesley Boone (Evangelist Preacher)."
 ---
 Fences é um filme baseado em uma peça. Mas isso dá pra saber logo nos primeiro minutos do filme dirigido por Denzel Washington e adaptado pelo próprio dramaturgo August Wilson. A história se passa praticamente na casa e nos arredores da casa dos Maxson, uma família cujo patriarca, Troy (Washington), é uma figura encontrada facilmente entre as camadas mais pobres da sociedade, muitas vezes criado por pais ainda mais rígidos que ele. É lógico que muitos de nós tiveram pais ou conhecidos com pais assim. E nem por isso há algo de sintomático por trás de tudo isso. A menos que seja inserido um dedinho da esquerda progressista a investigar que tudo aquilo no fundo é resquício da violência praticada contra os negros. Resquício ou não, este é um drama de primeira qualidade basicamente por causa de Viola Davis e Denzel Washington, que carregam o filme como se fosse extremamente fácil interpretar seus personagens.
 

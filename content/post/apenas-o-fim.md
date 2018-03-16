@@ -1,23 +1,10 @@
 ---
-date: "2011-07-31"
 imdb: "1424746"
+date: "2011-07-31"
+categories: "movies"
 title: "Apenas o Fim"
 stars: "3/5"
-categories: "movies"
-_title: "Apenas o Fim"
-_year: "2008"
-_director: ["Matheus Souza", ]
-_writer: ["Matheus Souza", ]
-_cast: ["Gregório Duvivier", "Érika Mader", "Marcelo Adnet", "Nathalia Dill", "Álamo Facó", ]
-_countries: ["Brazil", ]
-_languages: ["Portuguese", ]
-_editor: ["Julio Secchin", ]
-_cinematographer: ["Julio Secchin", ]
-_music: ["Pedro Carneiro", ]
-_genres: ["Comedy", ]
-_runtimes: ["Brazil:80", ]
-_ratio: "1.78 : 1"
-_kind: "movie"
+desc: "Apenas o Fim. Apenas o Fim (Brazil, 2008). Dirigido por Matheus Souza. Escrito por Matheus Souza. Com Gregório Duvivier, Érika Mader, Marcelo Adnet, Nathalia Dill, Álamo Facó."
 ---
 Geralmente as condições em que ocorrem a produção de um filme não importam muito, e servem somente a título de curiosidade. Nesse caso, o diretor (e roteirista?) Matheus Souza, estudante de cinema ainda, conseguiu com a ajuda dos colegas o dinheiro necessário para realizar este longa ainda com 19 anos, o que se tornou um exercício de cinema no mínimo competente.
 

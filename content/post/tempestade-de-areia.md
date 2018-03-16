@@ -1,27 +1,11 @@
 ---
+tags: ['mostrasp']
+imdb: "4365518"
 date: "2016-10-21"
 categories: "movies"
 title: "Tempestade de Areia"
-imdb: "4365518"
 stars: "4/5"
-tags: ['mostrasp']
-_title: "Sufat Chol"
-_year: "2016"
-_director: ["Elite Zexer", ]
-_writer: ["Elite Zexer", ]
-_cast: ["Lamis Ammar (Layla)", "Ruba Blal (Jalila)", "Hitham Omari (Suliman)", "Khadija Al Akel (Tasnim)", "Jalal Masrwa (Anwar)", ]
-_countries: ["Israel", ]
-_languages: ["Arabic", ]
-_editor: ["Ronit Porat", ]
-_cinematographer: ["Shai Peleg", ]
-_music: ["Ran Bagno", ]
-_costume designer: ["Chen Gilad", ]
-_genres: ["Drama", ]
-_runtimes: ["87", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE1Mjc4ODI0Nl5BMl5BanBnXkFtZTgwNTE4NjI4OTE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE1Mjc4ODI0Nl5BMl5BanBnXkFtZTgwNTE4NjI4OTE@._V1._SX94_SY140_.jpg"
+desc: "Tempestade de Areia. Sufat Chol (Israel, 2016). Dirigido por Elite Zexer. Escrito por Elite Zexer. Com Lamis Ammar (Layla), Ruba Blal (Jalila), Hitham Omari (Suliman), Khadija Al Akel (Tasnim), Jalal Masrwa (Anwar)."
 ---
 A filmografia por trás da cultura do Oriente Médio vira e mexe acaba girando em torno dos costumes antigos de uma cultura predominantemente "machista e opressora". Em Tempestade de Areia, isso não é diferente. Contudo, encarando como toda a questão desenvolvida pelo filme consegue ser aplicada a qualquer sociedade e qualquer costume, vemos que muitas das nossas próprias ações, nós, do "mundo civilizado do Ocidente", que acreditamos ser atribuída à nossa liberdade de escolha, são apenas reflexos de uma cultura que já existia antes de nós existirmos. Onde está o seu livre-arbítrio agora?
 

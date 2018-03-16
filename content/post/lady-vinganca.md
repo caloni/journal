@@ -1,25 +1,10 @@
 ---
-date: "2015-07-14"
 imdb: "0451094"
-stars: "4/5"
+date: "2015-07-14"
 categories: "movies"
 title: "Lady Vingança"
-_title: "Chinjeolhan geumjassi"
-_year: "2005"
-_director: ["Chan-wook Park", ]
-_writer: ["Seo-Gyeong Jeong", "Chan-wook Park", ]
-_cast: ["Yeong-ae Lee", "Min-sik Choi", "Shi-hoo Kim", "Yea-young Kwon", "Tony Barry", "Anne Cordiner", "Su-hee Go", "Hye-jeong Kang", "Bu-seon Kim", ]
-_countries: ["South Korea", ]
-_languages: ["Korean", ]
-_editor: ["Jae-beom Kim", "Sang-beom Kim", ]
-_cinematographer: ["Chung-hoon Chung", ]
-_music: ["Seung-hyun Choi", ]
-_genres: ["Crime", ]
-_runtimes: ["112", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTczMTI1MzYwMV5BMl5BanBnXkFtZTgwMDI1OTE3MjE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTczMTI1MzYwMV5BMl5BanBnXkFtZTgwMDI1OTE3MjE@._V1._SX98_SY140_.jpg"
+stars: "4/5"
+desc: "Lady Vingança. Chinjeolhan geumjassi (South Korea, 2005). Dirigido por Chan-wook Park. Escrito por Seo-Gyeong Jeong, Chan-wook Park. Com Yeong-ae Lee, Min-sik Choi, Shi-hoo Kim, Yea-young Kwon, Tony Barry, Anne Cordiner, Su-hee Go, Hye-jeong Kang, Bu-seon Kim."
 ---
 Lady Vingança é o terceiro filme de Chan-wook Park sobre... adivinha? Claro, a vingança, esse ato que já virou tema de filmes excelentes -- Kill Bill Vol 1 e 2, Old Boy, do próprio Chan-wook -- e outros igualmente admiráveis -- Mr. Vingança, primeiro do Chan-wook, Lady Snowblood, inspiração do Tarantino para Kill Bill. Tão ou mais estilizado que Old Boy, sua obra mais conhecida no ocidente, a narrativa de Lady Vingança possui a beleza da fluidez incessante e dos recortes cartunescos, mas ao mesmo tempo traz uma certa petulância em ser excessivamente complexo apenas pela capacidade de ser (o famoso "porque sim").
 

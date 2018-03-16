@@ -1,26 +1,11 @@
 ---
-date: "2012-04-28"
-imdb: "0848228"
-title: "The Avengers Os Vingadores"
-stars: 3/5
-categories: "movies"
 tags: ['cinema', 'mcu', 'avengers']
-_title: "The Avengers"
-_year: "2012"
-_director: ["Joss Whedon", ]
-_writer: ["Joss Whedon", "Zak Penn", "Joss Whedon", ]
-_cast: ["Robert Downey Jr.", "Chris Evans", "Mark Ruffalo", "Chris Hemsworth", "Scarlett Johansson", "Jeremy Renner", "Tom Hiddleston", "Clark Gregg", "Cobie Smulders", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Jeffrey Ford", "Lisa Lassek", ]
-_cinematographer: ["Seamus McGarvey", ]
-_music: ["Alan Silvestri", ]
-_genres: ["Action", ]
-_runtimes: ["143", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTk2NTI1MTU4N15BMl5BanBnXkFtZTcwODg0OTY0Nw@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTk2NTI1MTU4N15BMl5BanBnXkFtZTcwODg0OTY0Nw@@._V1._SX95_SY140_.jpg"
+imdb: "0848228"
+date: "2012-04-28"
+categories: "movies"
+title: "The Avengers Os Vingadores"
+stars: "3/5"
+desc: "The Avengers Os Vingadores. The Avengers (USA, 2012). Dirigido por Joss Whedon. Escrito por Joss Whedon, Zak Penn, Joss Whedon. Com Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner, Tom Hiddleston, Clark Gregg, Cobie Smulders."
 ---
 Há um momento na nova produção da Marvel em que o personagem central Nick Fury (Samuel L. Jackson) comenta que o conceito de super-heróis é antiquado. Iss pode até soar contraditório vindo de uma figura como Nick, crente que sua heterogênea equipe de seres com poderes extraordinários, mesmo com suas diferenças, é o melhor que a Terra precisa em momentos de apuro. Porém também é uma maneira do espectador não-fã de quadrinhos conceber o absurdo da situação de reunir tantos heróis em uma única história. E se a maior virtude de um filme é conhecer seu universo e fazer de tudo para que as pessoas acreditem nele, nesse sentido Os Vingadores se sai muitíssimo bem.
 

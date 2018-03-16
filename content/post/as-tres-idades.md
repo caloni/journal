@@ -1,24 +1,10 @@
 ---
-date: "2015-09-18"
 imdb: "0014538"
-stars: "4/5"
+date: "2015-09-18"
 categories: "movies"
 title: "As Três Idades"
-_title: "Three Ages"
-_year: "1923"
-_director: ["Edward F. Cline", "Buster Keaton", ]
-_writer: ["Clyde Bruckman", "Joseph A. Mitchell", "Jean C. Havez", "Buster Keaton", ]
-_cast: ["Buster Keaton", "Margaret Leahy", "Wallace Beery", "Joe Roberts", "Lillian Lawrence", "Kewpie Morgan", "Lionel Belmore", "George Davis", "Louise Emmons", ]
-_countries: ["USA", ]
-_cinematographer: ["Elgin Lessley", "William C. McGann", ]
-_music: ["Robert Israel", ]
-_artdirection: ["Fred Gabourie", ]
-_genres: ["Comedy", ]
-_runtimes: ["63", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjI3OTEzODA4NF5BMl5BanBnXkFtZTgwODc0NDIwMjE@.jpg"
-_ratio: "1.33 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjI3OTEzODA4NF5BMl5BanBnXkFtZTgwODc0NDIwMjE@._V1._SX93_SY140_.jpg"
+stars: "4/5"
+desc: "As Três Idades. Three Ages (USA, 1923). Dirigido por Edward F. Cline, Buster Keaton. Escrito por Clyde Bruckman, Joseph A. Mitchell, Jean C. Havez, Buster Keaton. Com Buster Keaton, Margaret Leahy, Wallace Beery, Joe Roberts, Lillian Lawrence, Kewpie Morgan, Lionel Belmore, George Davis, Louise Emmons."
 ---
 Three Ages é o primeiro longa-metragem de Buster Keaton, um dos comediantes mais geniais do início do Cinema, se não um dos mais geniais do Cinema em si. Diretor, ator, produtor e roteirista, Keaton sempre com seu jeito sisudo conquistava o público como resultado indireto de sua competência em narrar suas aventuras em diferentes histórias e, ao contrário de Charles Chaplin, com diferentes personagens.
 

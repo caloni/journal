@@ -1,28 +1,11 @@
 ---
-date: "2016-01-28"
-tags: [ "cabine" ]
+tags: ['cabine']
 imdb: "3808342"
-stars: "4/5"
+date: "2016-01-28"
 categories: "movies"
 title: "O Filho de Saul"
-_title: "Saul fia"
-_year: "2015"
-_director: ["László Nemes", ]
-_writer: ["László Nemes", "Clara Royer", ]
-_cast: ["Géza Röhrig", "Levente Molnár", "Urs Rechn", "Todd Charmont", "Jerzy Walczak", "Gergö Farkas", "Balázs Farkas", "Sándor Zsótér", "Marcin Czarnik", ]
-_countries: ["Hungary", ]
-_languages: ["Hungarian", ]
-_editor: ["Matthieu Taponier", ]
-_cinematographer: ["Mátyás Erdély", ]
-_music: ["László Melis", ]
-_artdirection: ["Hedvig Kiraly", ]
-_costume designer: ["Edit Szücs", ]
-_genres: ["Drama", ]
-_runtimes: ["107", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTUxNjk0NTczMV5BMl5BanBnXkFtZTgwNzIzMTEzNzE@.jpg"
-_ratio: "1.37 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTUxNjk0NTczMV5BMl5BanBnXkFtZTgwNzIzMTEzNzE@._V1._SX95_SY140_.jpg"
+stars: "4/5"
+desc: "O Filho de Saul. Saul fia (Hungary, 2015). Dirigido por László Nemes. Escrito por László Nemes, Clara Royer. Com Géza Röhrig, Levente Molnár, Urs Rechn, Todd Charmont, Jerzy Walczak, Gergö Farkas, Balázs Farkas, Sándor Zsótér, Marcin Czarnik."
 ---
 Esse filme consegue nos convencer a assisti-lo simplesmente com uma simples premissa: olhe para esse homem e veja o que ele faz.
 

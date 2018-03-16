@@ -1,25 +1,10 @@
 ---
-date: "2012-10-21"
 imdb: "1325004"
+date: "2012-10-21"
+categories: "movies"
 title: "A Saga Crepúsculo Eclipse"
 stars: "2/5"
-categories: "movies"
-_title: "The Twilight Saga: Eclipse"
-_year: "2010"
-_director: ["David Slade", ]
-_writer: ["Melissa Rosenberg", "Stephenie Meyer", ]
-_cast: ["Xavier Samuel", "Kristen Stewart", "Robert Pattinson", "Billy Burke", "Justin Chon", "Anna Kendrick", "Michael Welch", "Christian Serratos", "Jackson Rathbone", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Art Jones", "Nancy Richardson", ]
-_cinematographer: ["Javier Aguirresarobe", ]
-_music: ["Howard Shore", ]
-_genres: ["Adventure", ]
-_runtimes: ["124", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNDMwNjAzNzYwOF5BMl5BanBnXkFtZTcwMDY5NzcyMw@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNDMwNjAzNzYwOF5BMl5BanBnXkFtZTcwMDY5NzcyMw@@._V1._SX95_SY140_.jpg"
+desc: "A Saga Crepúsculo Eclipse. The Twilight Saga: Eclipse (USA, 2010). Dirigido por David Slade. Escrito por Melissa Rosenberg, Stephenie Meyer. Com Xavier Samuel, Kristen Stewart, Robert Pattinson, Billy Burke, Justin Chon, Anna Kendrick, Michael Welch, Christian Serratos, Jackson Rathbone."
 ---
 Eclipse encontra no eterno drama - protagonizado pelo trio Jacob (Lautner), Edward (Pattinson) e Bella (Stewart) - o combustível para prosseguir com a saga das famílias de vampiros e lobisomems mutantes que povoam o limitado universo da escritora Stephenie Meyer.
 

@@ -1,25 +1,10 @@
 ---
-date: "2010-04-04"
 imdb: "0490086"
+date: "2010-04-04"
+categories: "movies"
 title: "Big Stan Arrebentando na Prisão"
 stars: "3/5"
-categories: "movies"
-_title: "Big Stan"
-_year: "2007"
-_director: ["Rob Schneider", ]
-_writer: ["Josh Lieb", ]
-_cast: ["Rob Schneider", "David Carradine", "Jennifer Morrison", "Scott Wilson", "Richard Kind", "Sally Kirkland", "M. Emmet Walsh", "Henry Gibson", "Jackson Rathbone", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Greg Babor", "Richard Halsey", ]
-_cinematographer: ["Victor Hammer", ]
-_music: ["John Hunter", ]
-_genres: ["Action", ]
-_runtimes: ["105", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQ1MTI3NzUyMF5BMl5BanBnXkFtZTcwMjcyNDIzMg@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQ1MTI3NzUyMF5BMl5BanBnXkFtZTcwMjcyNDIzMg@@._V1._SX100_SY124_.jpg"
+desc: "Big Stan Arrebentando na Prisão. Big Stan (USA, 2007). Dirigido por Rob Schneider. Escrito por Josh Lieb. Com Rob Schneider, David Carradine, Jennifer Morrison, Scott Wilson, Richard Kind, Sally Kirkland, M. Emmet Walsh, Henry Gibson, Jackson Rathbone."
 ---
 Se algumas pessoas possuem preconceitos (bobos) de não ver Rob Schneider atuar, o que diriam a respeito de um filme em que ele não apenas atua, como dirige!
 

@@ -1,26 +1,11 @@
 ---
+tags: ['paulocoelho']
+imdb: "5221584"
 date: "2017-01-13"
 categories: "movies"
 title: "Aquarius"
-imdb: "5221584"
 stars: "5/5"
-tags: ['paulocoelho']
-_title: "Aquarius"
-_year: "2016"
-_director: ["Kleber Mendonça Filho", ]
-_writer: ["Kleber Mendonça Filho", ]
-_cast: ["Sonia Braga (Clara)", "Maeve Jinkings (Ana Paula)", "Irandhir Santos (Roberval)", "Humberto Carrão (Diego)", "Zoraide Coleto (Ladjane)", "Fernando Teixeira (Geraldo Bonfim)", "Buda Lira (Antonio)", "Paula De Renor (Fátima)", "Barbara Colen (Clara em 1980)", ]
-_countries: ["Brazil", ]
-_languages: ["Portuguese", ]
-_editor: ["Eduardo Serrano", ]
-_cinematographer: ["Pedro Sotero", "Fabricio Tadeu", ]
-_costume designer: ["Rita Azevedo", ]
-_genres: ["Drama", ]
-_runtimes: ["142", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjg0NTc2MTM4M15BMl5BanBnXkFtZTgwMjIyMjc4ODE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjg0NTc2MTM4M15BMl5BanBnXkFtZTgwMjIyMjc4ODE@._V1._SX100_SY137_.jpg"
+desc: "Aquarius. Aquarius (Brazil, 2016). Dirigido por Kleber Mendonça Filho. Escrito por Kleber Mendonça Filho. Com Sonia Braga (Clara), Maeve Jinkings (Ana Paula), Irandhir Santos (Roberval), Humberto Carrão (Diego), Zoraide Coleto (Ladjane), Fernando Teixeira (Geraldo Bonfim), Buda Lira (Antonio), Paula De Renor (Fátima), Barbara Colen (Clara em 1980)."
 ---
 Sônia Braga não está protagonizando um filme. Aquarius é um filme que protagoniza Sônia Braga. Ela é todo o filme. E quem garante isso é o diretor Kleber Mendonça Filho, mais uma vez, depois de O Som Ao Redor, fascinado (e enganado) a respeito da classe média "esclarecida" e das questões de propriedade privada. A direção de Kleber interfere apenas para dar passagem a Braga, que samba a dança do crioulo doido e entrega uma performance corporal e verbal que arrebata todo o filme, o leva para si.
 

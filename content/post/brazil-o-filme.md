@@ -1,27 +1,10 @@
 ---
+imdb: "0088846"
 date: "2016-08-09"
 categories: "movies"
-imdb: "0088846"
-stars: "5/5"
 title: "Brazil: O Filme"
-_title: "Brazil"
-_year: "1985"
-_director: ["Terry Gilliam", ]
-_writer: ["Terry Gilliam", "Tom Stoppard", "Charles McKeown", ]
-_cast: ["Jonathan Pryce", "Robert De Niro", "Katherine Helmond", "Ian Holm", "Bob Hoskins", "Michael Palin", "Ian Richardson", "Peter Vaughan", "Kim Greist", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Julian Doyle", ]
-_cinematographer: ["Roger Pratt", ]
-_music: ["Michael Kamen", ]
-_artdirection: ["John Beard", "Keith Pain", ]
-_costume designer: ["James Acheson", ]
-_genres: ["Drama", ]
-_runtimes: ["132", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTIwMDQ1NzQyOF5BMl5BanBnXkFtZTcwMTE4MDQzMQ@@._V1._CR3,43,349,456._SX100_SY131_.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTIwMDQ1NzQyOF5BMl5BanBnXkFtZTcwMTE4MDQzMQ@@._V1._CR3,43,349,456._SX100_SY131_.jpg"
+stars: "5/5"
+desc: "Brazil: O Filme. Brazil (UK, 1985). Dirigido por Terry Gilliam. Escrito por Terry Gilliam, Tom Stoppard, Charles McKeown. Com Jonathan Pryce, Robert De Niro, Katherine Helmond, Ian Holm, Bob Hoskins, Michael Palin, Ian Richardson, Peter Vaughan, Kim Greist."
 ---
 Terry Gilliam nos apresenta esse futuro distópico onde "Aquarela do Brasil", de Ary Barroso, é o tema musical perfeito para esse clima fabuloso, que transforma um drama grandioso em uma comédia séria, que trata de governos totalitários e o seu maior perigo: a enxurrada de papéis de uma burocracia sem fim, que pode engolir pessoas vivas. Nós sabemos vagamente que toda a ineficiência do governo acaba matando indiretamente milhares de pessoas todos os dias pelos erros de alocação de recursos. Porém, em "Brazil", basta um erro de tipografia e sua vida foi extinta, literalmente. Ainda bem que erros estatais nunca acontecem. Não é mesmo?
 

@@ -1,27 +1,11 @@
 ---
+tags: ['netflix', 'series']
+imdb: "5295524"
 date: "2017-07-04"
 categories: "series"
 title: "Crashing"
-imdb: "5295524"
 stars: "3/5"
-tags: ['netflix', 'series']
-_title: "Crashing"
-_year: "2016"
-_director: ["George Kane", ]
-_writer: ["Phoebe Waller-Bridge", ]
-_cast: ["Phoebe Waller-Bridge (Lulu)", "Jonathan Bailey (Sam)", "Julie Dray (Melody)", "Louise Ford (Kate)", "Damien Molony (Anthony)", "Adrian Scarborough (Colin)", "Amit Shah (Fred)", "Lachie Chapman (Will)", "Susan Wokoma (Jessica)", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Mark Henson", "Bridgette Williams", ]
-_cinematographer: ["Ben Wheeler", ]
-_music: ["Oli Julian", ]
-_artdirection: ["Thorin Thompson", ]
-_costume designer: ["Jemima Cotter", ]
-_genres: ["Comedy", ]
-_runtimes: ["30", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNjAyOTEzMzIwNV5BMl5BanBnXkFtZTgwOTM4MjY5NzE@.jpg"
-_kind: "tv series"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNjAyOTEzMzIwNV5BMl5BanBnXkFtZTgwOTM4MjY5NzE@._V1._SX100_SY56_.jpg"
+desc: "Crashing. Crashing (UK, 2016). Dirigido por George Kane. Escrito por Phoebe Waller-Bridge. Com Phoebe Waller-Bridge (Lulu), Jonathan Bailey (Sam), Julie Dray (Melody), Louise Ford (Kate), Damien Molony (Anthony), Adrian Scarborough (Colin), Amit Shah (Fred), Lachie Chapman (Will), Susan Wokoma (Jessica)."
 ---
 Eu já falei que a filmografia britânica é obviamente superior aos puritanos estadunidenses, seja no cinema ou em séries de tv. E Crashing não é exceção. Aliás, além de regra, é uma prova que, por contraste, besteiras como How I Met Your Mother já se beneficiariam só de serem produzidas na terra da rainha. A desvantagem dos ingleses é que suas séries são curtas demais.
 

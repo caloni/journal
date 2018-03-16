@@ -1,25 +1,10 @@
 ---
-date: "2012-11-04"
 imdb: "0100802"
+date: "2012-11-04"
+categories: "movies"
 title: "O Vingador do Futuro"
 stars: "4/5"
-categories: "movies"
-_title: "Total Recall"
-_year: "1990"
-_director: ["Paul Verhoeven", ]
-_writer: ["Philip K. Dick", "Ronald Shusett", "Dan O'Bannon", "Jon Povill", "Ronald Shusett", "Dan O'Bannon", "Gary Goldman", ]
-_cast: ["Arnold Schwarzenegger", "Rachel Ticotin", "Sharon Stone", "Ronny Cox", "Michael Ironside", "Marshall Bell", "Mel Johnson Jr.", "Michael Champion", "Roy Brocksmith", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Carlos Puente", "Frank J. Urioste", ]
-_cinematographer: ["Jost Vacano", ]
-_music: ["Jerry Goldsmith", ]
-_genres: ["Action", ]
-_runtimes: ["113", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTc2MTU4ODI5MF5BMl5BanBnXkFtZTcwODI2MzAyOA@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTc2MTU4ODI5MF5BMl5BanBnXkFtZTcwODI2MzAyOA@@._V1._SX100_SY139_.jpg"
+desc: "O Vingador do Futuro. Total Recall (USA, 1990). Dirigido por Paul Verhoeven. Escrito por Philip K. Dick, Ronald Shusett, Dan O'Bannon, Jon Povill, Ronald Shusett, Dan O'Bannon, Gary Goldman. Com Arnold Schwarzenegger, Rachel Ticotin, Sharon Stone, Ronny Cox, Michael Ironside, Marshall Bell, Mel Johnson Jr., Michael Champion, Roy Brocksmith."
 ---
 Roteirizado por Ronald Shusett e Dan O'Bannon, duas figuras envolvidos desde o início na série Alien, a história digerida pelo visceral Paul Verhoeven consegue a proeza de ser um filme e tanto de ação e se basear em uma premissa que  diferente do remake recente  consegue se tornar ambígua até o final: tudo que estamos vendo é de fato real ou é apenas um sonho implantado pela companhia que leva o título original?
 

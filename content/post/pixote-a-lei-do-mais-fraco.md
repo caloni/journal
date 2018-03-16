@@ -1,27 +1,10 @@
 ---
-date: "2015-12-07"
 imdb: "0082912"
-stars: "5/5"
+date: "2015-12-07"
 categories: "movies"
 title: "Pixote: A Lei do Mais Fraco"
-_title: "Pixote: A Lei do Mais Fraco"
-_year: "1981"
-_director: ["Hector Babenco", ]
-_writer: ["Hector Babenco", "Jorge Durán", "Hector Babenco", "Jorge Durán", "José Louzeiro", ]
-_cast: ["Fernando Ramos da Silva", "Jorge Julião", "Gilberto Moura", "Edilson Lino", "Zenildo Oliveira Santos", "Claudio Bernardo", "Israel Feres David", "Jose Nilson Martin Dos Santos", "Marília Pêra", ]
-_countries: ["Brazil", ]
-_languages: ["Portuguese", ]
-_editor: ["Luiz Elias", ]
-_cinematographer: ["Rodolfo Sánchez", ]
-_music: ["John Neschling", ]
-_artdirection: ["Clovis Bueno", ]
-_costume designer: ["Clovis Bueno", ]
-_genres: ["Crime", ]
-_runtimes: ["128", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTYxMzcyNTM1M15BMl5BanBnXkFtZTcwODg2NzMyMQ@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTYxMzcyNTM1M15BMl5BanBnXkFtZTcwODg2NzMyMQ@@._V1._SX98_SY140_.jpg"
+stars: "5/5"
+desc: "Pixote: A Lei do Mais Fraco. Pixote: A Lei do Mais Fraco (Brazil, 1981). Dirigido por Hector Babenco. Escrito por Hector Babenco, Jorge Durán, Hector Babenco, Jorge Durán, José Louzeiro. Com Fernando Ramos da Silva, Jorge Julião, Gilberto Moura, Edilson Lino, Zenildo Oliveira Santos, Claudio Bernardo, Israel Feres David, Jose Nilson Martin Dos Santos, Marília Pêra."
 ---
 O menino Fernando Ramos da Silva fez sua estreia no Cinema interpretando uma figura parecida com a realidade em que vivia: Pixote, um garoto que precisa cheirar cola para fugir da realidade em que vive.
 

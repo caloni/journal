@@ -1,25 +1,10 @@
 ---
-date: "2014-12-01"
 imdb: "0096895"
+date: "2014-12-01"
+categories: "movies"
 title: "Batman de Tim Burton"
 stars: "3/5"
-categories: "movies"
-_title: "Batman"
-_year: "1989"
-_director: ["Tim Burton", ]
-_writer: ["Bob Kane", "Sam Hamm", "Sam Hamm", "Warren Skaaren", ]
-_cast: ["Michael Keaton", "Jack Nicholson", "Kim Basinger", "Robert Wuhl", "Pat Hingle", "Billy Dee Williams", "Michael Gough", "Jack Palance", "Jerry Hall", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Ray Lovejoy", ]
-_cinematographer: ["Roger Pratt", ]
-_music: ["Danny Elfman", ]
-_genres: ["Action", ]
-_runtimes: ["126", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTYwNjAyODIyMF5BMl5BanBnXkFtZTYwNDMwMDk2.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTYwNjAyODIyMF5BMl5BanBnXkFtZTYwNDMwMDk2._V1._SX93_SY140_.jpg"
+desc: "Batman de Tim Burton. Batman (USA, 1989). Dirigido por Tim Burton. Escrito por Bob Kane, Sam Hamm, Sam Hamm, Warren Skaaren. Com Michael Keaton, Jack Nicholson, Kim Basinger, Robert Wuhl, Pat Hingle, Billy Dee Williams, Michael Gough, Jack Palance, Jerry Hall."
 ---
 Jack Nicholson é o primeiro nome que figura nos créditos iniciais de "Batman", e não é à toa. Primeiro filme dirigido por Tim Burton para tentar reproduzir a visão dos quadrinhos para as telas -- usando a imaginação "dark" de seu idealizador -- o herói morcego se transforma quase em um mero coadjuvante de seu arqui-inimigo Joker/Coringa. Nicholson rouba a cena por causa do seu personagem ou apesar dele? Todas as pessoas nesse universo são mais ou menos caricatos, e o Coringa encabeça a lista sendo o mais bizarro deles. A persona de Batman, Bruce Wayne, aos poucos vai se aproximando de seu alter-ego morcego, mas nunca se confundem. Isso me parece uma série crise de identidade, mais séria que a de Coringa, que simplesmente quer se divertir sendo quem sempre foi: um fora-da-lei.
 

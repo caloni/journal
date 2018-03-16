@@ -1,25 +1,10 @@
 ---
-date: "2014-09-26"
 imdb: "1939659"
+date: "2014-09-26"
+categories: "movies"
 title: "Carrie, a Estranha"
 stars: "3/5"
-categories: "movies"
-_title: "Carrie"
-_year: "2013"
-_director: ["Kimberly Peirce", ]
-_writer: ["Lawrence D. Cohen", "Roberto Aguirre-Sacasa", "Stephen King", ]
-_cast: ["Julianne Moore", "Chloë Grace Moretz", "Gabriella Wilde", "Portia Doubleday", "Zoë Belkin", "Samantha Weinstein", "Karissa Strain", "Katie Strain", "Ansel Elgort", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Lee Percy", "Nancy Richardson", ]
-_cinematographer: ["Steve Yedlin", ]
-_music: ["Marco Beltrami", ]
-_genres: ["Drama", ]
-_runtimes: ["100", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTc1MDIyOTkxN15BMl5BanBnXkFtZTgwMTU1NzEzMDE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTc1MDIyOTkxN15BMl5BanBnXkFtZTgwMTU1NzEzMDE@._V1._SX95_SY140_.jpg"
+desc: "Carrie, a Estranha. Carrie (USA, 2013). Dirigido por Kimberly Peirce. Escrito por Lawrence D. Cohen, Roberto Aguirre-Sacasa, Stephen King. Com Julianne Moore, Chloë Grace Moretz, Gabriella Wilde, Portia Doubleday, Zoë Belkin, Samantha Weinstein, Karissa Strain, Katie Strain, Ansel Elgort."
 ---
 Talvez esse remake do clássico de Brian de Palma seja até eficiente na maior parte do tempo, ou não sei se pegando carona na memória afetiva do original ele consegue se sair melhor do que aparenta, até por discutir a história de Carrie quase como uma análise do bullying escolar dos tempos atuais e da diferença de visões religiosas dos mais jovens. Porém, uma direção grosseira e um roteiro equivocado conseguem estragar uma revisita até que curiosa.
 

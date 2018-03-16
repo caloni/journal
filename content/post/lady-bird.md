@@ -1,9 +1,10 @@
 ---
-date: 2018-03-12T23:09:25-03:00
-title: "Lady Bird: A Hora de Voar"
-categories: "movies"
+date: 2018-03-13T02:09:25
 imdb: "4925292"
+categories: "movies"
 stars: "4/5"
+title: "Lady Bird: A Hora de Voar"
+desc: "Lady Bird: A Hora de Voar."
 ---
 De uma beleza inocente. Lady Bird é daqueles filmes que faz muita gente pensar por que foi indicada a Oscar. Não há surpresa. Este é aquele filme que entra pela categoria atuações, independente e com uma boa ideia revigorada. Todo Oscar tem um ou outro filme com esse aspecto. E Lady Bird é o escolhido desse ano.
 

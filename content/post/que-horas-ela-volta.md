@@ -1,27 +1,10 @@
 ---
-date: "2015-09-15"
 imdb: "3742378"
-stars: "5/5"
+date: "2015-09-15"
 categories: "movies"
 title: "Que Horas Ela Volta?"
-_title: "Que Horas Ela Volta?"
-_year: "2015"
-_director: ["Anna Muylaert", ]
-_writer: ["Anna Muylaert", ]
-_cast: ["Regina Casé", "Michel Joelsas", "Camila Márdila", "Karine Teles", "Lourenço Mutarelli", "Helena Albergaria", "Bete Dorgam", "Luis Miranda", "Theo Werneck", ]
-_countries: ["Brazil", ]
-_languages: ["Portuguese", ]
-_editor: ["Karen Harley", ]
-_cinematographer: ["Barbara Alvarez", ]
-_music: ["Vitor Araújo", "Fábio Trummer", ]
-_artdirection: ["Marquinho Pedroso", ]
-_costume designer: ["Cláudia Kopke", "André Simonetti", ]
-_genres: ["Drama", ]
-_runtimes: ["112", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BOTQ1NjIwMzcyNF5BMl5BanBnXkFtZTgwNDY0NzI1NjE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BOTQ1NjIwMzcyNF5BMl5BanBnXkFtZTgwNDY0NzI1NjE@._V1._SX94_SY140_.jpg"
+stars: "5/5"
+desc: "Que Horas Ela Volta?. Que Horas Ela Volta? (Brazil, 2015). Dirigido por Anna Muylaert. Escrito por Anna Muylaert. Com Regina Casé, Michel Joelsas, Camila Márdila, Karine Teles, Lourenço Mutarelli, Helena Albergaria, Bete Dorgam, Luis Miranda, Theo Werneck."
 ---
 "Que Horas Ela Volta" tem a virtude de conseguir se tornar um filme essencial para a discussão contemporânea e ao mesmo tempo se entregar a uma cartilha retrógrada que é usada a cada momento como combustível para uma esquerda brasileira (igualmente retrógrada) com sede de vingança e miopia de caráter.
 

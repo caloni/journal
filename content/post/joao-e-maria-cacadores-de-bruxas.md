@@ -1,25 +1,10 @@
 ---
-date: "2013-01-28"
 imdb: "1428538"
+date: "2013-01-28"
+categories: "movies"
 title: "João e Maria Caçadores de Bruxas"
 stars: "3/5"
-categories: "movies"
-_title: "Hansel & Gretel: Witch Hunters"
-_year: "2013"
-_director: ["Tommy Wirkola", ]
-_writer: ["Tommy Wirkola", ]
-_cast: ["Jeremy Renner", "Gemma Arterton", "Famke Janssen", "Pihla Viitala", "Derek Mears", "Robin Atkin Downes", "Ingrid Bolsø Berdal", "Joanna Kulig", "Thomas Mann", ]
-_countries: ["Germany", ]
-_languages: ["English", ]
-_editor: ["Jim Page", ]
-_cinematographer: ["Michael Bonvillain", ]
-_music: ["Atli Örvarsson", ]
-_genres: ["Action", ]
-_runtimes: ["88", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjA4MDQwODg2NV5BMl5BanBnXkFtZTcwNTc5ODc2OA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjA4MDQwODg2NV5BMl5BanBnXkFtZTcwNTc5ODc2OA@@._V1._SX89_SY140_.jpg"
+desc: "João e Maria Caçadores de Bruxas. Hansel & Gretel: Witch Hunters (Germany, 2013). Dirigido por Tommy Wirkola. Escrito por Tommy Wirkola. Com Jeremy Renner, Gemma Arterton, Famke Janssen, Pihla Viitala, Derek Mears, Robin Atkin Downes, Ingrid Bolsø Berdal, Joanna Kulig, Thomas Mann."
 ---
 João e Maria, como pode-se notar pelo título e sub-título, é uma reinterpretação do conto infantil dos dois irmãos que, perdidos na floresta, acabam entrando em contato com uma bruxa que mora em uma casa feita de doces. Esse é o único detalhe de toda a trama que nos faz lembrar da história clássica. A partir do momento em que eles se livram da bruxa e a queimam viva a história muda completamente de tom. Naquelas duas faces jovens e satisfeitas por assistirem ao seu precoce primeiro assassinato podemos constatar impressionados que a história não é mais de duas crianças indefesas, mas de dois psicopatas.
 

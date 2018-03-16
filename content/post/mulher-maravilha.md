@@ -1,29 +1,11 @@
 ---
+tags: ['cinema', 'dceu']
+imdb: "0451279"
 date: "2017-06-01"
 categories: "movies"
 title: "Mulher-Maravilha"
-imdb: "0451279"
 stars: "2/5"
-tags: ['cinema', 'dceu']
-_title: "Wonder Woman"
-_year: "2017"
-_director: ["Patty Jenkins", ]
-_writer: ["Allan Heinberg", "Zack Snyder", "Jason Fuchs", "William Moulton Marston", ]
-_cast: ["Gal Gadot (Diana)", "Chris Pine (Steve Trevor)", "Connie Nielsen (Hippolyta)", "Robin Wright (Antiope)", "Danny Huston (Ludendorff)", "David Thewlis (Sir Patrick)", "Saïd Taghmaoui (Sameer)", "Ewen Bremner (Charlie)", "Eugene Brave Rock (The Chief)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Martin Walsh", ]
-_cinematographer: ["Matthew Jensen", ]
-_music: ["Rupert Gregson-Williams", ]
-_artdirection: ["Steve Carter", "James Collins", "Phil Harvey", "Stuart Kearns", "Dominic Masters", "Domenico Sica", "Remo Tozzi", ]
-_costume designer: ["Lindy Hemming", ]
-_genres: ["Action", ]
-_runtimes: ["141", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNDFmZjgyMTEtYTk5MC00NmY0LWJhZjktOWY2MzI5YjkzODNlXkEyXkFqcGdeQXVyMDA4NzMyOA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNDFmZjgyMTEtYTk5MC00NmY0LWJhZjktOWY2MzI5YjkzODNlXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1._SX94_SY140_.jpg"
-_releasedate: "1 June 2017"
+desc: "Mulher-Maravilha. Wonder Woman (USA, 2017). Dirigido por Patty Jenkins. Escrito por Allan Heinberg, Zack Snyder, Jason Fuchs, William Moulton Marston. Com Gal Gadot (Diana), Chris Pine (Steve Trevor), Connie Nielsen (Hippolyta), Robin Wright (Antiope), Danny Huston (Ludendorff), David Thewlis (Sir Patrick), Saïd Taghmaoui (Sameer), Ewen Bremner (Charlie), Eugene Brave Rock (The Chief)."
 ---
 Depois de uma história seríssima e enfadonha envolvendo o Homem de Aço e o Homem Morcego, agora temos... mais uma história seríssima, dessa vez envolvendo a mulher misteriosa que aparecia no filme anterior, sempre acompanhada de sua música-tema. Ela é a Mulher-Maravilha, em um filme que não é lá essas maravilhas. Mas agora, pensando bem, eu não sei se o título de "Mulher-Maravilha" serve para esta versão asséptica e ultra-estilizada de uma das poucas heroínas solo. Eu sou mais a Lynda Carter, sua fantasia colorida e sua voluptuosidade honesta.
 

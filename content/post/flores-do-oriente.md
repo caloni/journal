@@ -1,25 +1,10 @@
 ---
-date: "2012-08-06"
 imdb: "1410063"
+date: "2012-08-06"
+categories: "movies"
 title: "Flores do Oriente"
 stars: "3/5"
-categories: "movies"
-_title: "Jin líng shí san chai"
-_year: "2011"
-_director: ["Yimou Zhang", ]
-_writer: ["Heng Liu", "Geling Yan", ]
-_cast: ["Christian Bale", "Ni Ni", "Xinyi Zhang", "Tianyuan Huang", "Xiting Han", "Doudou Zhang", "Dawei Tong", "Atsurô Watabe", "Kefan Cao", ]
-_countries: ["China", ]
-_languages: ["Mandarin", ]
-_editor: ["Peicong Meng", ]
-_cinematographer: ["Xiaoding Zhao", ]
-_music: ["Qigang Chen", ]
-_genres: ["Drama", ]
-_runtimes: ["146", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjE3OTUzODA3Ml5BMl5BanBnXkFtZTcwNDk5NTUyNw@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjE3OTUzODA3Ml5BMl5BanBnXkFtZTcwNDk5NTUyNw@@._V1._SX95_SY140_.jpg"
+desc: "Flores do Oriente. Jin líng shí san chai (China, 2011). Dirigido por Yimou Zhang. Escrito por Heng Liu, Geling Yan. Com Christian Bale, Ni Ni, Xinyi Zhang, Tianyuan Huang, Xiting Han, Doudou Zhang, Dawei Tong, Atsurô Watabe, Kefan Cao."
 ---
 O diretor Yimou Zhang, desde seu Clã das Adagas Voadoras (2004), parece não ter perdido seu ar "afetado" de expor o horror da guerra de maneira estilada e "gore". O problema é que em Flores do Oriente esse estilo não possui espaço, pois é um drama que envolve meninas encarceradas em um convento no meio da ocupação japonesa, um grupo de meretrizes que acabam se refugiando no mesmo lugar, e um agente funerário (Cristian Bale), com uma inclinação em beber sem parar e tentar ser engraçado e espirituoso, mesmo que seja para um bando de crianças.
 

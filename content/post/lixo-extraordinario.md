@@ -1,24 +1,10 @@
 ---
-date: "2011-01-30"
 imdb: "1268204"
+date: "2011-01-30"
+categories: "movies"
 title: "Lixo Extraordinário"
 stars: "5/5"
-categories: "movies"
-_title: "Waste Land"
-_year: "2010"
-_director: ["Lucy Walker", "Karen Harley", "João Jardim", ]
-_cast: ["Vik Muniz", ]
-_countries: ["Brazil", ]
-_languages: ["English", ]
-_editor: ["Pedro Kos", ]
-_cinematographer: ["Ernesto Herrmann", "Dudu Miranda", "Heloísa Passos", ]
-_music: ["Moby", ]
-_genres: ["Documentary", ]
-_runtimes: ["99", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTM2ODkxMTY1NF5BMl5BanBnXkFtZTcwNTAxMzc5Mw@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTM2ODkxMTY1NF5BMl5BanBnXkFtZTcwNTAxMzc5Mw@@._V1._SX94_SY140_.jpg"
+desc: "Lixo Extraordinário. Waste Land (Brazil, 2010). Dirigido por Lucy Walker, Karen Harley, João Jardim. Com Vik Muniz."
 ---
 O início e no programa do Jô possui um sentido maior por causa da mensagem de que, no final, o lixo de todas as pessoas que assistem a televisão vai parar no mesmo lugar?
 

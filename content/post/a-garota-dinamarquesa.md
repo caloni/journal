@@ -1,27 +1,10 @@
 ---
-date: "2016-02-12"
 imdb: "0810819"
-stars: "3/5"
+date: "2016-02-12"
 categories: "movies"
 title: "A Garota Dinamarquesa"
-_title: "The Danish Girl"
-_year: "2015"
-_director: ["Tom Hooper", ]
-_writer: ["David Ebershoff", "Lucinda Coxon", ]
-_cast: ["Alicia Vikander", "Eddie Redmayne", "Tusse Silberg", "Adrian Schiller", "Amber Heard", "Emerald Fennell", "Henry Pettigrew", "Claus Bue", "Peter Krag", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Melanie Oliver", ]
-_cinematographer: ["Danny Cohen", ]
-_music: ["Alexandre Desplat", ]
-_artdirection: ["Grant Armstrong", "Céline De Streel", "Tom Weaving", ]
-_costume designer: ["Paco Delgado", ]
-_genres: ["Biography", ]
-_runtimes: ["119", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjA0NjA4NjE2Nl5BMl5BanBnXkFtZTgwNzIxNTY2NjE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjA0NjA4NjE2Nl5BMl5BanBnXkFtZTgwNzIxNTY2NjE@._V1._SX94_SY140_.jpg"
+stars: "3/5"
+desc: "A Garota Dinamarquesa. The Danish Girl (UK, 2015). Dirigido por Tom Hooper. Escrito por David Ebershoff, Lucinda Coxon. Com Alicia Vikander, Eddie Redmayne, Tusse Silberg, Adrian Schiller, Amber Heard, Emerald Fennell, Henry Pettigrew, Claus Bue, Peter Krag."
 ---
 Imagine como seria ser um transexual na década de 30 na Europa. Já vimos em O Jogo da Imitação que ser homossexual não daria muito certo. Usando a mesma lógica...
 

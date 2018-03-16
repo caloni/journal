@@ -1,25 +1,10 @@
 ---
-date: "2010-12-24"
 imdb: "1320082"
+date: "2010-12-24"
+categories: "movies"
 title: "O concerto"
 stars: "4/5"
-categories: "movies"
-_title: "Le concert"
-_year: "2009"
-_director: ["Radu Mihaileanu", ]
-_writer: ["Radu Mihaileanu", "Alain-Michel Blanc", "Matthew Robbins", "Radu Mihaileanu", "Héctor Cabello Reyes", "Thierry Degrandi", ]
-_cast: ["Aleksey Guskov", "Dmitriy Nazarov", "Mélanie Laurent", "François Berléand", "Miou-Miou", "Valeriy Barinov", "Lionel Abelanski", "Laurent Bateau", "Vlad Ivanov", ]
-_countries: ["France", ]
-_languages: ["French", ]
-_editor: ["Ludo Troch", ]
-_cinematographer: ["Laurent Dailland", ]
-_music: ["Armand Amar", ]
-_genres: ["Comedy", ]
-_runtimes: ["119", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMzQxMTEzOTU3NF5BMl5BanBnXkFtZTcwODAyMzI2Mw@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMzQxMTEzOTU3NF5BMl5BanBnXkFtZTcwODAyMzI2Mw@@._V1._SX95_SY140_.jpg"
+desc: "O concerto. Le concert (France, 2009). Dirigido por Radu Mihaileanu. Escrito por Radu Mihaileanu, Alain-Michel Blanc, Matthew Robbins, Radu Mihaileanu, Héctor Cabello Reyes, Thierry Degrandi. Com Aleksey Guskov, Dmitriy Nazarov, Mélanie Laurent, François Berléand, Miou-Miou, Valeriy Barinov, Lionel Abelanski, Laurent Bateau, Vlad Ivanov."
 ---
 Trama principal: o próprio concerto; trama secundária: a relação de Andrey e sua solista, Anne-Marie.
 

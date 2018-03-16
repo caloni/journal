@@ -1,25 +1,10 @@
 ---
-date: "2015-08-02"
 imdb: "0089606"
-stars: "4/5"
+date: "2015-08-02"
 categories: "movies"
 title: "Minha Vida de Cachorro"
-_title: "Mitt liv som hund"
-_year: "1985"
-_director: ["Lasse Hallström", ]
-_writer: ["Reidar Jönsson", "Lasse Hallström", "Reidar Jönsson", "Brasse Brännström", "Per Berglund", ]
-_cast: ["Anton Glanzelius", "Tomas von Brömssen", "Anki Lidén", "Melinda Kinnaman", "Kicki Rundgren", "Lennart Hjulström", "Ing-Marie Carlsson", "Leif Ericson", "Christina Carlwind", ]
-_countries: ["Sweden", ]
-_languages: ["Swedish", ]
-_editor: ["Christer Furubrand", "Susanne Linnman", ]
-_cinematographer: ["Jörgen Persson", ]
-_music: ["Björn Isfält", ]
-_genres: ["Drama", ]
-_runtimes: ["101", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjA3MDEyOTg1OV5BMl5BanBnXkFtZTYwNzY4Mzg5.jpg"
-_ratio: "1.66 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjA3MDEyOTg1OV5BMl5BanBnXkFtZTYwNzY4Mzg5._V1._SX99_SY140_.jpg"
+stars: "4/5"
+desc: "Minha Vida de Cachorro. Mitt liv som hund (Sweden, 1985). Dirigido por Lasse Hallström. Escrito por Reidar Jönsson, Lasse Hallström, Reidar Jönsson, Brasse Brännström, Per Berglund. Com Anton Glanzelius, Tomas von Brömssen, Anki Lidén, Melinda Kinnaman, Kicki Rundgren, Lennart Hjulström, Ing-Marie Carlsson, Leif Ericson, Christina Carlwind."
 ---
 Esse é um filme sueco da década de 80 que, cultural dessa sociedade ou não, prima pela beleza da pureza dos olhos de uma criança e ao mesmo tempo pode chocar os adultos e seus filtros morais. Por isso advirto: se quiser aproveitar de verdade esse filme, não se deixe levar por julgamentos levianos a respeito de sexualidade ou o politicamente correto que infecta nossa criatividade e nossas relações humanas. Veja com os mesmos olhos dessa pequena criança sueca e tudo estará bem.
 

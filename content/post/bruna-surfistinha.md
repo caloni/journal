@@ -1,25 +1,10 @@
 ---
-date: "2011-03-15"
 imdb: "1587828"
+date: "2011-03-15"
+categories: "movies"
 title: "Bruna Surfistinha"
 stars: "3/5"
-categories: "movies"
-_title: "Bruna Surfistinha"
-_year: "2011"
-_director: ["Marcus Baldini", ]
-_writer: ["José Carvalho", "Homero Olivetto", "Raquel Pacheco", "Antônia Pellegrino", "Jorge Tarquini", ]
-_cast: ["Deborah Secco", "Cássio Gabus Mendes", "Drica Moraes", "Fabiula Nascimento", "Cristina Lago", "Guta Ruiz", "Clarisse Abujamra", "Luciano Chirolli", "Sérgio Guizé", ]
-_countries: ["Brazil", ]
-_languages: ["Portuguese", ]
-_editor: ["Manga Campion", "Oswaldo Santana", ]
-_cinematographer: ["Marcelo Corpanni", ]
-_music: ["Gui Amabis", "Rica Amabis", "Tejo Damasceno", "André Lucarelli", ]
-_genres: ["Biography", ]
-_runtimes: ["Brazil:109::(theatrical version)", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQyNDAwMTg1NV5BMl5BanBnXkFtZTcwOTI0MTgwOA@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQyNDAwMTg1NV5BMl5BanBnXkFtZTcwOTI0MTgwOA@@._V1._SX95_SY140_.jpg"
+desc: "Bruna Surfistinha. Bruna Surfistinha (Brazil, 2011). Dirigido por Marcus Baldini. Escrito por José Carvalho, Homero Olivetto, Raquel Pacheco, Antônia Pellegrino, Jorge Tarquini. Com Deborah Secco, Cássio Gabus Mendes, Drica Moraes, Fabiula Nascimento, Cristina Lago, Guta Ruiz, Clarisse Abujamra, Luciano Chirolli, Sérgio Guizé."
 ---
 O momento que resume a ascenção de Bruna e ao mesmo tempo a visão do primeiro trabalho de Marcus Baldini é quando, em seu discurso na festa preparada por sua amiga, ela diz que acredita em si mesma e encoraja seus antitriões a fazerem o mesmo, pois se o fizerem, "conseguirão chegar aonde eu cheguei". E é precisamente nesse ponto que o filme deixa de ser uma visita convencional ao mundo da prostituição e vira uma discussão instigante sobre a capacidade das pessoas de fazer o seu melhor, não importando em que profissão ou atividade.
 

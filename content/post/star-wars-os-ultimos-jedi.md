@@ -1,29 +1,11 @@
 ---
-imdb: "2527336"
-stars: "5/5"
 tags: ['cinema']
+imdb: "2527336"
 date: 2017-12-14T21:49:10
-title: "Star Wars: os Últimos Jedi"
 categories: "movies"
-_title: "Star Wars: The Last Jedi"
-_year: "2017"
-_director: ["Rian Johnson", ]
-_writer: ["Rian Johnson", "George Lucas", ]
-_cast: ["Daisy Ridley (Rey)", "Tom Hardy (Stormtrooper)", "Mark Hamill (Luke Skywalker)", "Adam Driver (Kylo Ren)", "Gwendoline Christie (Captain Phasma)", "Domhnall Gleeson (General Hux)", "Carrie Fisher (Leia)", "Billie Lourd (Lieutenant Connix)", "Andy Serkis (Supreme Leader Snoke)", "Joseph Gordon-Levitt", "Laura Dern (Vice Admiral Amilyn Holdo)", "Oscar Isaac (Poe Dameron)", "Benicio Del Toro (DJ)", "Kelly Marie Tran (Rose Tico)", "Justin Theroux (Slicer)", "John Boyega (Finn)", "Lupita Nyong'o (Maz Kanata)", "Warwick Davis", "Hermione Corfield (Tallie Lintra)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Bob Ducsay", ]
-_cinematographer: ["Steve Yedlin", ]
-_music: ["John Williams", ]
-_artdirection: ["Andrew Bennett", "Neal Callow", "Todd Cherniawsky", "Dean Clegg", "John Dexter", "Jason Knox-Johnston", "Chris Lowe", "Phil Sims", "Oli van der Vijver", ]
-_costume designer: ["Michael Kaplan", ]
-_genres: ["Action", ]
-_runtimes: ["152", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@.jpg"
-_ratio: "1.43 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1._SX95_SY140_.jpg"
-_releasedate: "13 December 2017"
+title: "Star Wars: os Últimos Jedi"
+stars: "5/5"
+desc: "Star Wars: os Últimos Jedi. Star Wars: The Last Jedi (USA, 2017). Dirigido por Rian Johnson. Escrito por Rian Johnson, George Lucas. Com Daisy Ridley (Rey), Tom Hardy (Stormtrooper), Mark Hamill (Luke Skywalker), Adam Driver (Kylo Ren), Gwendoline Christie (Captain Phasma), Domhnall Gleeson (General Hux), Carrie Fisher (Leia), Billie Lourd (Lieutenant Connix), Andy Serkis (Supreme Leader Snoke), Joseph Gordon-Levitt, Laura Dern (Vice Admiral Amilyn Holdo), Oscar Isaac (Poe Dameron), Benicio Del Toro (DJ), Kelly Marie Tran (Rose Tico), Justin Theroux (Slicer), John Boyega (Finn), Lupita Nyong'o (Maz Kanata), Warwick Davis, Hermione Corfield (Tallie Lintra)."
 ---
 Uma série de filmes que mantém uma mitologia sobre uma energia vital no Universo por décadas precisa ser atualizada de tempos em tempos para não perder o compasso com a Ciência. Se na primeira trilogia a Força era algo mais espiritual e na segunda trilogia algo mais biológico, essa terceira trilogia acertadamente a coloca como nem uma coisa nem outra: é algo metafísico. E com isso estabelece pela primeira vez uma base que se pode trabalhar com as diferentes camadas de realidade. Não só mais falamos sobre política em SW (essa dualidade esquerda/direita já cansou), mas sobre filosofia, moral, valores, etc. Quem diria que Star Wars chegaria em sua fase adulta?
 

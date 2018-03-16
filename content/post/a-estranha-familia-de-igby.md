@@ -1,27 +1,10 @@
 ---
-date: "2015-09-10"
 imdb: "0280760"
-stars: "4/5"
+date: "2015-09-10"
 categories: "movies"
 title: "A Estranha Famíllia de Igby"
-_title: "Igby Goes Down"
-_year: "2002"
-_director: ["Burr Steers", ]
-_writer: ["Burr Steers", ]
-_cast: ["Kieran Culkin", "Claire Danes", "Jeff Goldblum", "Jared Harris", "Amanda Peet", "Ryan Phillippe", "Bill Pullman", "Susan Sarandon", "Rory Culkin", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["William M. Anderson", "Padraic McKinley", ]
-_cinematographer: ["Wedigo von Schultzendorff", ]
-_music: ["Uwe Fahrenkrog-Petersen", ]
-_artdirection: ["Roswell Hamrick", ]
-_costume designer: ["Sarah Edwards", ]
-_genres: ["Comedy", ]
-_runtimes: ["98", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTUwNTk2NjY0NF5BMl5BanBnXkFtZTcwMjQ3MTI0NA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTUwNTk2NjY0NF5BMl5BanBnXkFtZTcwMjQ3MTI0NA@@._V1._SX93_SY140_.jpg"
+stars: "4/5"
+desc: "A Estranha Famíllia de Igby. Igby Goes Down (USA, 2002). Dirigido por Burr Steers. Escrito por Burr Steers. Com Kieran Culkin, Claire Danes, Jeff Goldblum, Jared Harris, Amanda Peet, Ryan Phillippe, Bill Pullman, Susan Sarandon, Rory Culkin."
 ---
 Uma comédia estranhona que começa meio morna demais, parecendo justamente parecer apenas isso -- estranhona --, mas que depois de sua introdução sem ritmo nos apresenta de verdade seus personagens, sua história, sua essência. Então se torna um palco para brilhantes atuações, além de um laboratório de pequenas experimentações na direção. Amparado sobre um roteiro denso, mas nem tanto, com diálogos que poderiam figurar facilmente em um livro ou peça, A Estranha Famíllia de Igby nos leva a concluir que muitos começos desastrosos podem enganar à primeira vista e entregar momentos que nunca esperaríamos de um gênero como esse.
 

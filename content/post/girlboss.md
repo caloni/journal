@@ -1,27 +1,11 @@
 ---
+tags: ['netflix', 'series']
+imdb: "5706996"
 date: "2017-04-26"
 categories: "series"
 title: "Girlboss - Primeira Temporada"
-imdb: "5706996"
 stars: "4/5"
-tags: ['netflix', 'series']
-_title: "Girlboss"
-_year: "2017"
-_director: ["Christian Ditter", "Jamie Babbit", "Amanda Brotchie", "Steven K. Tsuchida", ]
-_writer: ["Jen Braeden", "Kay Cannon", "Karen Graci", "Brian Shortall", "Sophia Amoruso", "Sonny Lee", "Eben Russell", "Caroline Williams", ]
-_cast: ["Britt Robertson (Sophia / ...)", "Ellie Reed (Annie)", "Johnny Simmons (Shane)", "Alphonso McAuley (Dax)", "RuPaul (Lionel)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Stacey Schroeder", "Annette Davey", "Sandra Montiel", ]
-_cinematographer: ["Christian Rein", ]
-_music: ["Jeff Cardoni", ]
-_artdirection: ["Eric Jihwan Jeon", ]
-_costume designer: ["Audrey Fisher", ]
-_genres: ["Comedy", ]
-_runtimes: ["26", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTgzMzU5ODIxN15BMl5BanBnXkFtZTgwNzI4ODE5MTI@.jpg"
-_kind: "tv series"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTgzMzU5ODIxN15BMl5BanBnXkFtZTgwNzI4ODE5MTI@._V1._SX94_SY140_.jpg"
+desc: "Girlboss - Primeira Temporada. Girlboss (USA, 2017). Dirigido por Christian Ditter, Jamie Babbit, Amanda Brotchie, Steven K. Tsuchida. Escrito por Jen Braeden, Kay Cannon, Karen Graci, Brian Shortall, Sophia Amoruso, Sonny Lee, Eben Russell, Caroline Williams. Com Britt Robertson (Sophia / ...), Ellie Reed (Annie), Johnny Simmons (Shane), Alphonso McAuley (Dax), RuPaul (Lionel)."
 ---
 Girlboss é uma história sobre os desafios do empreendedorismo. A série pega muito leve nos obstáculos, porque isso é EUA, e isso é Califórnia (se fosse no Brasil não existiria história, provavelmente). Seu núcleo gira em torno de uma menininha que, assim como quase todos nós, ainda não achou seu lugar no mundo, mas parece finalmente ter entendido o sentido da vida: tornar as pessoas felizes. E ela faz isso do seu jeito, reconfigurando roupas usadas (consideradas "vintage"), e não chama o que ela faz de negócio, mas de outra coisa. Caia na real, menina: você é uma capitalista malvadona!
 

@@ -1,27 +1,10 @@
 ---
+imdb: "2567026"
 date: "2016-05-29"
 categories: "movies"
-imdb: "2567026"
-stars: "3/5"
 title: "Alice Através do Espelho"
-_title: "Alice Through the Looking Glass"
-_year: "2016"
-_director: ["James Bobin", ]
-_writer: ["Linda Woolverton", "Lewis Carroll", ]
-_cast: ["Johnny Depp", "Mia Wasikowska", "Helena Bonham Carter", "Anne Hathaway", "Sacha Baron Cohen", "Rhys Ifans", "Matt Lucas", "Lindsay Duncan", "Leo Bill", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Andrew Weisblum", ]
-_cinematographer: ["Stuart Dryburgh", ]
-_music: ["Danny Elfman", ]
-_artdirection: ["Alex Cameron", "Todd Cherniawsky", "Nick Gottschalk", "Niall Moroney", "Hannah Moseley", "Richard Selway", ]
-_costume designer: ["Colleen Atwood", ]
-_genres: ["Adventure", ]
-_runtimes: ["113", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTc2NjExMTIyN15BMl5BanBnXkFtZTgwMjg0OTIwODE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTc2NjExMTIyN15BMl5BanBnXkFtZTgwMjg0OTIwODE@._V1._SX94_SY140_.jpg"
+stars: "3/5"
+desc: "Alice Através do Espelho. Alice Through the Looking Glass (USA, 2016). Dirigido por James Bobin. Escrito por Linda Woolverton, Lewis Carroll. Com Johnny Depp, Mia Wasikowska, Helena Bonham Carter, Anne Hathaway, Sacha Baron Cohen, Rhys Ifans, Matt Lucas, Lindsay Duncan, Leo Bill."
 ---
 A deturpada, mas heroica, Alice da Disney. Nem podemos compará-la com o desenho icônico dos anos 50, onde a mocinha era bem próxima de sua irmã literária dos livros de Lewis Carrol. Aqui e em seu predecessor caça-níqueis em 3D do diretor "dark" Tim Burton, Alice é essa feminista tímida que ganha bilheteria aos poucos no cinema hollywoodiano. Passados seis anos desde a primeira produção, já vemos rapidamente o que mudou no panorama comercial da produtora depois de sucessos como Encantados, Frozen e até Star Wars.
 

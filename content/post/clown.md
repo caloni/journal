@@ -1,26 +1,10 @@
 ---
-date: "2016-02-29"
 imdb: "1780798"
-stars: "2/5"
+date: "2016-02-29"
 categories: "movies"
 title: "Clown"
-_title: "Clown"
-_year: "2014"
-_director: ["Jon Watts", ]
-_writer: ["Christopher Ford", "Jon Watts", ]
-_cast: ["Peter Stormare", "Eli Roth", "Laura Allen", "Elizabeth Whitmere", "Christian Distefano", "Andy Powers", "John MacDonald", "Chuck Shamata", "Sarah Scheffer", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Robert Ryang", ]
-_cinematographer: ["Matthew Santo", ]
-_music: ["Matt Veligdan", ]
-_artdirection: ["Shane Boucher", ]
-_genres: ["Drama", ]
-_runtimes: ["100", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQyNDA1OTMyMl5BMl5BanBnXkFtZTgwNDA5MzgxMzE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQyNDA1OTMyMl5BMl5BanBnXkFtZTgwNDA5MzgxMzE@._V1._SX98_SY140_.jpg"
+stars: "2/5"
+desc: "Clown. Clown (USA, 2014). Dirigido por Jon Watts. Escrito por Christopher Ford, Jon Watts. Com Peter Stormare, Eli Roth, Laura Allen, Elizabeth Whitmere, Christian Distefano, Andy Powers, John MacDonald, Chuck Shamata, Sarah Scheffer."
 ---
 Quando Eli Roth (O Albergue) está envolvido, seja como diretor ou, no caso, produtor e ator, pode esperar cenas de violência gráfica de muito mal gosto. Mas como gosto é algo que não se discute, talvez ver o coração de uma criança ser atirado em uma televisão seja a sua praia. Nesse caso, bem-vindo ao parque de diversões doentio da mente de alguém obcecado em chocar e, se sobrar tempo, tentar contar uma história.
 

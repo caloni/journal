@@ -1,25 +1,10 @@
 ---
-date: "2013-06-07"
 imdb: "0387808"
+date: "2013-06-07"
+categories: "movies"
 title: "Idiocracia"
 stars: "4/5"
-categories: "movies"
-_title: "Idiocracy"
-_year: "2006"
-_director: ["Mike Judge", ]
-_writer: ["Mike Judge", "Mike Judge", "Etan Cohen", ]
-_cast: ["Luke Wilson", "Maya Rudolph", "Dax Shepard", "Terry Crews", "Anthony 'Citric' Campos", "David Herman", "Sonny Castillo", "Kevin McAfee", "Robert Musgrave", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["David Rennie", ]
-_cinematographer: ["Tim Suhrstedt", ]
-_music: ["Theodore Shapiro", ]
-_genres: ["Adventure", ]
-_runtimes: ["84", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTk4NDYyNTU3Nl5BMl5BanBnXkFtZTcwNjE4NTQ0MQ@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTk4NDYyNTU3Nl5BMl5BanBnXkFtZTcwNjE4NTQ0MQ@@._V1._SX98_SY140_.jpg"
+desc: "Idiocracia. Idiocracy (USA, 2006). Dirigido por Mike Judge. Escrito por Mike Judge, Mike Judge, Etan Cohen. Com Luke Wilson, Maya Rudolph, Dax Shepard, Terry Crews, Anthony 'Citric' Campos, David Herman, Sonny Castillo, Kevin McAfee, Robert Musgrave."
 ---
 Desde o começo Idiocracia estabelece o seu tom de comédia explicando uma teoria muito louca  mas com um sentido simplesmente hilário  de por que o futuro da humanidade é se tornar cada vez mais idiota. Melhor: acompanha um experimento do exército para "estocagem de humanos" em caixões monitorado por um militar que consegue uma prostituta voluntária negociando diretamente com o seu cafetão. Essa parte, ambientada nos tempos atuais, já preocupa pela linha tênue com que o diretor Mike Judge (Como Enlouquecer seu Chefe) separa um discurso feito de palavras formais de ações idiotas executadas pela mesma pessoa que profere o discurso.
 

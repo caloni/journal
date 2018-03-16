@@ -1,26 +1,11 @@
 ---
-date: "2014-06-20"
+tags: ['ahs', 'series']
 imdb: "1844624"
+date: 2015-11-28
+categories: "blog"
 title: "História de Horror Americana - Freak Show"
 stars: "4/5"
-categories: "blog"
-date: 2015-11-28
-tags: ['ahs', 'series']
-_title: "American Horror Story"
-_year: "2011"
-_director: ["Alfonso Gomez-Rejon", "Bradley Buecker", "Michael Uppendahl", "Michael Lehmann", "David Semel", "Howard Deutch", "Ryan Murphy", "Jeremy Podeswa", "Michael Rymer", ]
-_writer: ["Brad Falchuk", "Ryan Murphy", "Jennifer Salt", "Jessica Sharzer", "Tim Minear", "James Wong", "Crystal Liu", "John J. Gray", "Todd Kubrak", ]
-_cast: ["Evan Peters", "Jessica Lange", "Sarah Paulson", "Frances Conroy", "Denis O'Hare", "Lily Rabe", "Emma Roberts", "Kathy Bates", "Taissa Farmiga", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Fabienne Bouville", "Adam Penn", "Stewart Schill", "Bradley Buecker", "Regis Kimble", "Robert Komatsu", ]
-_cinematographer: ["Michael Goi", "John B. Aronson", "Tom Houghton", ]
-_music: ["James S. Levine", "Mac Quayle", ]
-_genres: ["Drama", ]
-_runtimes: ["USA:60::(with commercials)", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjA1MzAwNjYzMl5BMl5BanBnXkFtZTgwMDg1ODU3MjE@.jpg"
-_kind: "tv series"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjA1MzAwNjYzMl5BMl5BanBnXkFtZTgwMDg1ODU3MjE@._V1._SX93_SY140_.jpg"
+desc: "História de Horror Americana - Freak Show. American Horror Story (USA, 2011). Dirigido por Alfonso Gomez-Rejon, Bradley Buecker, Michael Uppendahl, Michael Lehmann, David Semel, Howard Deutch, Ryan Murphy, Jeremy Podeswa, Michael Rymer. Escrito por Brad Falchuk, Ryan Murphy, Jennifer Salt, Jessica Sharzer, Tim Minear, James Wong, Crystal Liu, John J. Gray, Todd Kubrak. Com Evan Peters, Jessica Lange, Sarah Paulson, Frances Conroy, Denis O'Hare, Lily Rabe, Emma Roberts, Kathy Bates, Taissa Farmiga."
 ---
 Acho que já disse que AHS não é uma série de terror no sentido convencional -- assustar pessoas -- mas muito pior do que isso: mostrar o horror implícito no ser humano, e ir às últimas consequências do que a violência de seres egoístas, mesquinhos, vaidosos, orgulhosos e invejosos consegue produzir. E o resultado impressona, mas impressiona muito mais a capacidade dessas pessoas de fazer o mal, quase como se o mal nem precisasse depender dessas pessoas para existir, como se fosse materializado e aparecesse diante de nossos olhos sob a forma de ação, representada pelo horror gráfico, mas com um significado muito maior do que chocar pelo ato em si. É a pessoa responsável pelo ato -- ou às vezes apenas a situação -- que chocam muito mais.
 

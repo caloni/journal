@@ -1,26 +1,10 @@
 ---
-date: "2016-02-08"
 imdb: "0119396"
-stars: "4/5"
+date: "2016-02-08"
 categories: "movies"
 title: "Jackie Brown"
-_title: "Jackie Brown"
-_year: "1997"
-_director: ["Quentin Tarantino", ]
-_writer: ["Quentin Tarantino", "Elmore Leonard", ]
-_cast: ["Pam Grier", "Samuel L. Jackson", "Robert Forster", "Bridget Fonda", "Michael Keaton", "Robert De Niro", "Michael Bowen", "Chris Tucker", "LisaGay Hamilton", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Sally Menke", ]
-_cinematographer: ["Guillermo Navarro", ]
-_artdirection: ["Daniel Bradford", ]
-_costume designer: ["Mary Claire Hannan", ]
-_genres: ["Crime", ]
-_runtimes: ["154", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMzMxMzYzMDUyNV5BMl5BanBnXkFtZTgwMjI2Mzk5MDE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMzMxMzYzMDUyNV5BMl5BanBnXkFtZTgwMjI2Mzk5MDE@._V1._SX93_SY140_.jpg"
+stars: "4/5"
+desc: "Jackie Brown. Jackie Brown (USA, 1997). Dirigido por Quentin Tarantino. Escrito por Quentin Tarantino, Elmore Leonard. Com Pam Grier, Samuel L. Jackson, Robert Forster, Bridget Fonda, Michael Keaton, Robert De Niro, Michael Bowen, Chris Tucker, LisaGay Hamilton."
 ---
 Para os fãs de Tarantino, Jackie Brown não é nenhuma novidade, exceto que aqui o roteiro é adaptado do romance de Elmore Leonard, o que quer dizer que as referências do chamado "Universo Tarantino", onde todos os seus filmes se encontram, não faria sentido aqui. No entanto, aqui estão os anos 70, um thriller policial onde uma mulher forte participa de um esquema com alta soma de dinheiro, uma trilha sonora inspirada, uma fotografia saudosista e uma montagem que consegue manter o suspense até o último momento, desvendando cada um dos detalhes da trama de uma maneira coesa, mas nunca simples demais.
 

@@ -1,25 +1,10 @@
 ---
-date: "2012-07-22"
 imdb: "0364569"
+date: "2012-07-22"
+categories: "movies"
 title: "Old Boy"
 stars: "5/5"
-categories: "movies"
-_title: "Oldeuboi"
-_year: "2003"
-_director: ["Chan-wook Park", ]
-_writer: ["Garon Tsuchiya", "Nobuaki Minegishi", "Jo-yun Hwang", "Chun-hyeong Lim", "Joon-hyung Lim", "Chan-wook Park", ]
-_cast: ["Min-sik Choi", "Ji-tae Yu", "Hye-jeong Kang", "Dae-han Ji", "Dal-su Oh", "Byeong-ok Kim", "Seung-Shin Lee", "Jin-seo Yoon", "Dae-yeon Lee", ]
-_countries: ["South Korea", ]
-_languages: ["Korean", ]
-_editor: ["Sang-beom Kim", ]
-_cinematographer: ["Chung-hoon Chung", ]
-_music: ["Yeong-wook Jo", ]
-_genres: ["Drama", ]
-_runtimes: ["120", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTI3NTQyMzU5M15BMl5BanBnXkFtZTcwMTM2MjgyMQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTI3NTQyMzU5M15BMl5BanBnXkFtZTcwMTM2MjgyMQ@@._V1._SX95_SY140_.jpg"
+desc: "Old Boy. Oldeuboi (South Korea, 2003). Dirigido por Chan-wook Park. Escrito por Garon Tsuchiya, Nobuaki Minegishi, Jo-yun Hwang, Chun-hyeong Lim, Joon-hyung Lim, Chan-wook Park. Com Min-sik Choi, Ji-tae Yu, Hye-jeong Kang, Dae-han Ji, Dal-su Oh, Byeong-ok Kim, Seung-Shin Lee, Jin-seo Yoon, Dae-yeon Lee."
 ---
 Quando o filme inicia, temos um breve momento com o futuro Dae-su Oh (Min-sik Choi) durante um curioso diálogo com um homem que parece depender do protagonista para manter-se vivo. A conversa aparece cortada no meio, e boa parte da história parece seguir a mesma lógica. Quando voltamos um indeterminado período de tempo, somos apresentados a um irreconhecível, mulherengo e causador de problemas Dae-su. Se descontrolando diversas vezes enquanto aguarda em uma delegacia com seu amigo, mal conseguimos relacionar o pedaço de homem que vemos com sua versão mais velha, cansada e, o mais importante de tudo, determinada.
 

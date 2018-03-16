@@ -1,27 +1,10 @@
 ---
-date: "2015-12-05"
 imdb: "0265666"
-stars: "4/5"
+date: "2015-12-05"
 categories: "movies"
 title: "Os Excêntricos Tenenbaums"
-_title: "The Royal Tenenbaums"
-_year: "2001"
-_director: ["Wes Anderson", ]
-_writer: ["Wes Anderson", "Owen Wilson", ]
-_cast: ["Gene Hackman", "Anjelica Huston", "Ben Stiller", "Gwyneth Paltrow", "Luke Wilson", "Owen Wilson", "Bill Murray", "Danny Glover", "Seymour Cassel", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Dylan Tichenor", ]
-_cinematographer: ["Robert D. Yeoman", ]
-_music: ["Mark Mothersbaugh", ]
-_artdirection: ["Carl Sprague", ]
-_costume designer: ["Karen Patch", ]
-_genres: ["Comedy", ]
-_runtimes: ["110", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjA0MjcwNDgzNl5BMl5BanBnXkFtZTgwNzMwODQxMTE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjA0MjcwNDgzNl5BMl5BanBnXkFtZTgwNzMwODQxMTE@._V1._SX94_SY140_.jpg"
+stars: "4/5"
+desc: "Os Excêntricos Tenenbaums. The Royal Tenenbaums (USA, 2001). Dirigido por Wes Anderson. Escrito por Wes Anderson, Owen Wilson. Com Gene Hackman, Anjelica Huston, Ben Stiller, Gwyneth Paltrow, Luke Wilson, Owen Wilson, Bill Murray, Danny Glover, Seymour Cassel."
 ---
 Esse é um filme sobre família desajustada, feito ainda em uma época onde filmes sobre famílias desajustadas ainda instigavam o interesse do público Tênis Verde. Até porque, geralmente, essas histórias eram perfeitas para produções independentes de baixo orçamento. Dessa premissa saíram pérolas como Pequena Miss Sunshine, alguns anos depois.
 

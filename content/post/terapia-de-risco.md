@@ -1,25 +1,10 @@
 ---
-date: "2013-12-24"
 imdb: "2053463"
+date: "2013-12-24"
+categories: "movies"
 title: "Terapia de Risco"
 stars: "4/5"
-categories: "movies"
-_title: "Side Effects"
-_year: "2013"
-_director: ["Steven Soderbergh", ]
-_writer: ["Scott Z. Burns", ]
-_cast: ["Rooney Mara", "Carmen Pelaez", "Marin Ireland", "Channing Tatum", "Polly Draper", "Ann Dowd", "Haraldo Alvarez", "Jude Law", "James Martinez", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Steven Soderbergh", ]
-_cinematographer: ["Steven Soderbergh", ]
-_music: ["Thomas Newman", ]
-_genres: ["Crime", ]
-_runtimes: ["106", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTc2MzY0NDAwOF5BMl5BanBnXkFtZTcwMTE1Mzc4OA@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTc2MzY0NDAwOF5BMl5BanBnXkFtZTcwMTE1Mzc4OA@@._V1._SX95_SY140_.jpg"
+desc: "Terapia de Risco. Side Effects (USA, 2013). Dirigido por Steven Soderbergh. Escrito por Scott Z. Burns. Com Rooney Mara, Carmen Pelaez, Marin Ireland, Channing Tatum, Polly Draper, Ann Dowd, Haraldo Alvarez, Jude Law, James Martinez."
 ---
 Me impressionei pela atuação de Rooney Mara (a Lisbeth Salander de Os Homens que Não Amavam as Mulheres) e sua construção de um personagem frágil mesmo que insensível. Os problemas de depressão de Emily são tão óbvios em seus olhares abaixados, esguios, em sua fala mansa e cansada, que tudo isso parece convincente demais.
 

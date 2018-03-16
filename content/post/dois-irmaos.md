@@ -1,23 +1,10 @@
 ---
-date: "2010-10-08"
 imdb: "1576382"
+date: "2010-10-08"
+categories: "movies"
 title: "Dois Irmãos"
 stars: "4/5"
-categories: "movies"
-_title: "Dos hermanos"
-_year: "2010"
-_director: ["Daniel Burman", ]
-_writer: ["Daniel Burman", "Diego Dubcovsky", "Diego Dubcovsky", ]
-_cast: ["Antonio Gasalla", "Graciela Borges", "Elena Lucena", "Rita Cortese", "Osmar Núñez", "Gustavo Jalife", ]
-_countries: ["Argentina", ]
-_languages: ["Spanish", ]
-_editor: ["Pablo Barbieri Carrera", ]
-_cinematographer: ["Hugo Colace", ]
-_music: ["Nico Cota", ]
-_genres: ["Comedy", ]
-_runtimes: ["Argentina:105", ]
-_ratio: "1.85 : 1"
-_kind: "movie"
+desc: "Dois Irmãos. Dos hermanos (Argentina, 2010). Dirigido por Daniel Burman. Escrito por Daniel Burman, Diego Dubcovsky, Diego Dubcovsky. Com Antonio Gasalla, Graciela Borges, Elena Lucena, Rita Cortese, Osmar Núñez, Gustavo Jalife."
 ---
 O maior mérito da direção deste filme é deixar a história fluir sem interferências, dando vazão a ambas às interpretações, ambas dignas, apesar de gerarem efeitos diversos.
 

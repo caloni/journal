@@ -1,27 +1,10 @@
 ---
-date: "2016-03-19"
 imdb: "1213663"
-stars: "3/5"
+date: "2016-03-19"
 categories: "movies"
 title: "Heróis de Ressaca"
-_title: "The World's End"
-_year: "2013"
-_director: ["Edgar Wright", ]
-_writer: ["Simon Pegg", "Edgar Wright", ]
-_cast: ["Thomas Law", "Zachary Bailess", "Jasper Levine", "James Tarpey", "Luke Bromley", "Sophie Evans", "Samantha White", "Rose Reynolds", "Richard Hadfield", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Paul Machliss", ]
-_cinematographer: ["Bill Pope", ]
-_music: ["Steven Price", ]
-_artdirection: ["Peter Dorme", "Nick Gottschalk", ]
-_costume designer: ["Guy Speranza", ]
-_genres: ["Action", ]
-_runtimes: ["109", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNzA1MTk1MzY0OV5BMl5BanBnXkFtZTgwNjkzNTUwMDE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNzA1MTk1MzY0OV5BMl5BanBnXkFtZTgwNjkzNTUwMDE@._V1._SX94_SY140_.jpg"
+stars: "3/5"
+desc: "Heróis de Ressaca. The World's End (UK, 2013). Dirigido por Edgar Wright. Escrito por Simon Pegg, Edgar Wright. Com Thomas Law, Zachary Bailess, Jasper Levine, James Tarpey, Luke Bromley, Sophie Evans, Samantha White, Rose Reynolds, Richard Hadfield."
 ---
 Uma comédia britânica que não se resume a boas risadas. Aliás, talvez você nem encontre boas risadas, dependendo do seu senso de humor. A questão é que há muita falta de timing cômico na maioria das cenas, tornando a atuação exagerada de Simon Pegg simplesmente exagerada.
 

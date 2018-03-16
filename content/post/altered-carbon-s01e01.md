@@ -1,9 +1,10 @@
 ---
-date: 2018-03-04T16:25:26-03:00
-title: "Altered Carbon: Piloto"
-categories: "blog"
+date: 2018-03-04T19:25:26
 imdb: "2261227"
+categories: "blog"
 stars: "3/5"
+title: "Altered Carbon: Piloto"
+desc: "Altered Carbon: Piloto."
 ---
 Esta é uma série que lida com algumas questões já abordadas em trabalhos clássicos, como Blade Runner, Ghost in the Shell, etc. E por isso mesmo faz questão de homenageá-las em seu design. Dessa forma, é curioso ver como a megalópole é retratada como um misto entre esses dois trabalhos citados.
 

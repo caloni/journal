@@ -1,26 +1,11 @@
 ---
+tags: ['cabine']
+imdb: "4163644"
 date: "2016-09-30"
 categories: "movies"
 title: "Refúgio"
-imdb: "4163644"
 stars: "4/5"
-tags: ['cabine']
-_title: "Comme un avion"
-_year: "2015"
-_director: ["Bruno Podalydès", ]
-_writer: ["Bruno Podalydès", ]
-_cast: ["Bruno Podalydès (Michel)", "Sandrine Kiberlain (Rachelle)", "Agnès Jaoui (Laëtitia)", "Vimala Pons (Mila)", "Denis Podalydès (Rémi)", "Michel Vuillermoz (Christophe)", "Jean-Noël Brouté (Damien)", "Pierre Arditi (Le pêcheur qui ressemble à Pierre Arditi)", "Noémie Lvovsky (la voisine Mme Pirchtate)", ]
-_countries: ["France", ]
-_languages: ["English", ]
-_editor: ["Christel Dewynter", ]
-_cinematographer: ["Claire Mathon", ]
-_costume designer: ["Dorothée Guiraud", ]
-_genres: ["Comedy", ]
-_runtimes: ["105", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNzI2MTI1MDQ4N15BMl5BanBnXkFtZTgwODIxMTczNzE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNzI2MTI1MDQ4N15BMl5BanBnXkFtZTgwODIxMTczNzE@._V1._SX93_SY140_.jpg"
+desc: "Refúgio. Comme un avion (France, 2015). Dirigido por Bruno Podalydès. Escrito por Bruno Podalydès. Com Bruno Podalydès (Michel), Sandrine Kiberlain (Rachelle), Agnès Jaoui (Laëtitia), Vimala Pons (Mila), Denis Podalydès (Rémi), Michel Vuillermoz (Christophe), Jean-Noël Brouté (Damien), Pierre Arditi (Le pêcheur qui ressemble à Pierre Arditi), Noémie Lvovsky (la voisine Mme Pirchtate)."
 ---
 Uma comédia de situação que analisa de maneira divertida vários assuntos contemporâneos. Como estarmos entulhados de penduricalhos tecnológicos, e isso fazer parte da nossa vida de maneira tão íntima, que quando vamos nos lançar em uma aventura pela natureza selvagem... não podemos nos esquecer do protetor acústico de mosquitos.
 

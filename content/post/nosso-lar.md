@@ -1,25 +1,10 @@
 ---
-date: "2010-09-03"
 imdb: "1467388"
+date: "2010-09-03"
+categories: "movies"
 title: "Nosso Lar"
 stars: "3/5"
-categories: "movies"
-_title: "Astral City: A Spiritual Journey"
-_year: "2010"
-_director: ["Wagner de Assis", ]
-_writer: ["Wagner de Assis", "Laura Malin", ]
-_cast: ["Renato Prieto", "Fernando Alves Pinto", "Rosanne Mulholland", "Inez Viana", "Rodrigo dos Santos", "Werner Schünemann", "Clemente Viscaíno", "Ana Rosa", "Othon Bastos", ]
-_countries: ["Brazil", ]
-_languages: ["Portuguese", ]
-_editor: ["Marcelo Moraes", ]
-_cinematographer: ["Ueli Steiger", ]
-_music: ["Philip Glass", ]
-_genres: ["Drama", ]
-_runtimes: ["103", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTgwMzk4MTEzNV5BMl5BanBnXkFtZTcwNjA4ODUwNw@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTgwMzk4MTEzNV5BMl5BanBnXkFtZTcwNjA4ODUwNw@@._V1._SX97_SY140_.jpg"
+desc: "Nosso Lar. Astral City: A Spiritual Journey (Brazil, 2010). Dirigido por Wagner de Assis. Escrito por Wagner de Assis, Laura Malin. Com Renato Prieto, Fernando Alves Pinto, Rosanne Mulholland, Inez Viana, Rodrigo dos Santos, Werner Schünemann, Clemente Viscaíno, Ana Rosa, Othon Bastos."
 ---
 Nosso Lar é um exercício de paciência para quem assiste, sempre em busca de um motivo de sermos levados aos mundos idealizados pelos espíritas, procurando algo pelo que torcer, algo por esperar ou acompanhar. Mas é difícil manter esse ritmo quando nunca enxergamos o fio condutor de alguma narrativa, por menor que seja.
 

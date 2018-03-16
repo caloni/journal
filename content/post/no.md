@@ -1,25 +1,10 @@
 ---
-date: "2013-01-02"
 imdb: "2059255"
+date: "2013-01-02"
+categories: "movies"
 title: "No"
 stars: "4/5"
-categories: "movies"
-_title: "No"
-_year: "2012"
-_director: ["Pablo Larraín", ]
-_writer: ["Pedro Peirano", "Antonio Skármeta", ]
-_cast: ["Gael García Bernal", "Alfredo Castro", "Luis Gnecco", "Néstor Cantillana", "Antonia Zegers", "Marcial Tagle", "Pascal Montero", "Jaime Vadell", "Elsa Poblete", ]
-_countries: ["Chile", ]
-_languages: ["Spanish", ]
-_editor: ["Andrea Chignoli", ]
-_cinematographer: ["Sergio Armstrong", ]
-_music: ["Carlos Cabezas", ]
-_genres: ["Drama", ]
-_runtimes: ["118", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTM3ODAzNjcwMV5BMl5BanBnXkFtZTcwMTUzMjc4OA@@.jpg"
-_ratio: "1.40 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTM3ODAzNjcwMV5BMl5BanBnXkFtZTcwMTUzMjc4OA@@._V1._SX95_SY140_.jpg"
+desc: "No. No (Chile, 2012). Dirigido por Pablo Larraín. Escrito por Pedro Peirano, Antonio Skármeta. Com Gael García Bernal, Alfredo Castro, Luis Gnecco, Néstor Cantillana, Antonia Zegers, Marcial Tagle, Pascal Montero, Jaime Vadell, Elsa Poblete."
 ---
 No poderia muito bem ser um documentário, uma vez que seu objetivo principal é aproximar o espectador pelo seu realismo. No entanto, a decisão de "estilizar" essa realidade com um pouco de ficção não poderia ser mais propício em um filme que, acima de política, trata dos detentores atuais do poder da influência no mundo: a publicidade.
 

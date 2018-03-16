@@ -1,25 +1,10 @@
 ---
-date: "2012-06-13"
 imdb: "0091188"
+date: "2012-06-13"
+categories: "movies"
 title: "A Difícil Arte de Amar"
 stars: "3/5"
-categories: "movies"
-_title: "Heartburn"
-_year: "1986"
-_director: ["Mike Nichols", ]
-_writer: ["Nora Ephron", "Nora Ephron", ]
-_cast: ["Meryl Streep", "Jack Nicholson", "Jeff Daniels", "Maureen Stapleton", "Stockard Channing", "Richard Masur", "Catherine O'Hara", "Steven Hill", "Milos Forman", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Sam O'Steen", ]
-_cinematographer: ["Néstor Almendros", ]
-_music: ["Carly Simon", ]
-_genres: ["Comedy", ]
-_runtimes: ["108", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjA2MjYyMTEzMF5BMl5BanBnXkFtZTcwODUxODUyMQ@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjA2MjYyMTEzMF5BMl5BanBnXkFtZTcwODUxODUyMQ@@._V1._SX99_SY140_.jpg"
+desc: "A Difícil Arte de Amar. Heartburn (USA, 1986). Dirigido por Mike Nichols. Escrito por Nora Ephron, Nora Ephron. Com Meryl Streep, Jack Nicholson, Jeff Daniels, Maureen Stapleton, Stockard Channing, Richard Masur, Catherine O'Hara, Steven Hill, Milos Forman."
 ---
 Um roteiro e um romance de Nora Ephron (Julie & Julia, Mens@gem pra Você, Sintonia de Amor, A Feiticeira...) e uma direção de Mike Nichols (Closer, A Gaiola das Loucas) conseguem dar o tom mais que adequado para que uma jovem Meryl Streep, mas já ganhadora de um Oscar por "Kramer vs Kramer", conseguisse dar espírito para Rachel, uma jornalista de meia-idade que após o divórcio teme por um novo casamento, mas que mesmo assim se entrega sem receios aos sentimentos pelo também jornalista Mark (um já velho Jack Nicholson), que possui fama de solteirão e não se ater por muito tempo à mesma mulher.
 

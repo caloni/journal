@@ -1,25 +1,10 @@
 ---
-date: "2013-11-08"
 imdb: "0095088"
+date: "2013-11-08"
+categories: "movies"
 title: "Elvira A Rainha das Trevas"
 stars: "3/5"
-categories: "movies"
-_title: "Elvira: Mistress of the Dark"
-_year: "1988"
-_director: ["James Signorelli", ]
-_writer: ["Sam Egan", "John Paragon", "Cassandra Peterson", ]
-_cast: ["Phil Rubenstein", "Larry Flash Jenkins", "Cassandra Peterson", "Damita Jo Freeman", "Tress MacNeille", "Edwina Moore", "Mario Celario", "Lee McLaughlin", "Bill Swearingen", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Battle Davis", ]
-_cinematographer: ["Hanania Baer", ]
-_music: ["James B. Campbell", ]
-_genres: ["Comedy", ]
-_runtimes: ["96", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMzgzODA5MTAyMF5BMl5BanBnXkFtZTcwNDQ3MzMyMQ@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMzgzODA5MTAyMF5BMl5BanBnXkFtZTcwNDQ3MzMyMQ@@._V1._SX98_SY140_.jpg"
+desc: "Elvira A Rainha das Trevas. Elvira: Mistress of the Dark (USA, 1988). Dirigido por James Signorelli. Escrito por Sam Egan, John Paragon, Cassandra Peterson. Com Phil Rubenstein, Larry Flash Jenkins, Cassandra Peterson, Damita Jo Freeman, Tress MacNeille, Edwina Moore, Mario Celario, Lee McLaughlin, Bill Swearingen."
 ---
 Aquela comédia sessão da tarde, leve e despretensiosa, que consegue ser digerida passo-a-passo sem maiores problemas. Esse modo inofensivo de Elvira é provavelmente seu ponto mais fraco.
 

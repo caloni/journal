@@ -1,25 +1,10 @@
 ---
-date: "2013-08-26"
 imdb: "2217458"
+date: "2013-08-26"
+categories: "movies"
 title: "Flores Raras"
 stars: "4/5"
-categories: "movies"
-_title: "Flores Raras"
-_year: "2013"
-_director: ["Bruno Barreto", ]
-_writer: ["Matthew Chapman", "Julie Sayres", "Carmen L. Oliveira", "Carolina Kotscho", ]
-_cast: ["Glória Pires", "Miranda Otto", "Tracy Middendorf", "Marcello Airoldi", "Lola Kirke", "Tânia Costa", "Marianna Mac Niven", "Marcio Ehrlich", "Treat Williams", ]
-_countries: ["Brazil", ]
-_languages: ["English", ]
-_editor: ["Leticia Giffoni", ]
-_cinematographer: ["Mauro Pinheiro Jr.", ]
-_music: ["Marcelo Zarvos", ]
-_genres: ["Biography", ]
-_runtimes: ["118", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMzA1Mjk2NDM0MV5BMl5BanBnXkFtZTgwOTQ0OTk1MDE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMzA1Mjk2NDM0MV5BMl5BanBnXkFtZTgwOTQ0OTk1MDE@._V1._SX94_SY140_.jpg"
+desc: "Flores Raras. Flores Raras (Brazil, 2013). Dirigido por Bruno Barreto. Escrito por Matthew Chapman, Julie Sayres, Carmen L. Oliveira, Carolina Kotscho. Com Glória Pires, Miranda Otto, Tracy Middendorf, Marcello Airoldi, Lola Kirke, Tânia Costa, Marianna Mac Niven, Marcio Ehrlich, Treat Williams."
 ---
 O tema "polêmico" de Flores Raras não existe há muito tempo, e apenas as mentes reduzidas de nossa época, que infelizmente não são poucas, irão enxergar qualquer anomalia no fato da história girar em torno de um triângulo amoroso entre três mulheres: Mary (Tracy Middendorf), a arquiteta Lota (Glória Pires) e a poetisa Elizabeth Bishop (Miranda Otto), todas encapsuladas em tramas tridimensionais. Sensível e inteligente, Bruno Barreto demonstra que a principal anomalia desse relacionamento é o ego controlador e descontrolado de Lota, uma arquiteta que através das influências políticas e dinheiro consegue manter em sua isolada casa no campo a ilusão de um mundo tolerante e tranquilo.
 

@@ -1,26 +1,11 @@
 ---
+tags: ['cinema', 'dublado']
+imdb: "2709768"
 date: "2016-09-11"
 categories: "movies"
 title: "Pets: A Vida Secreta dos Bichos"
-imdb: "2709768"
 stars: "3/5"
-tags: ['cinema', 'dublado']
-_title: "The Secret Life of Pets"
-_year: "2016"
-_director: ["Yarrow Cheney", "Chris Renaud", ]
-_writer: ["Cinco Paul", "Ken Daurio", "Brian Lynch", "Simon Rich", ]
-_cast: ["Louis C.K.", "Eric Stonestreet", "Kevin Hart", "Jenny Slate", "Ellie Kemper", "Albert Brooks", "Lake Bell", "Dana Carvey", "Hannibal Buress", ]
-_countries: ["Japan", ]
-_languages: ["English", ]
-_editor: ["Ken Schretzmann", ]
-_music: ["Alexandre Desplat", ]
-_artdirection: ["Colin Stimpson", ]
-_genres: ["Animation", ]
-_runtimes: ["87", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjIzMzA1OTkzNV5BMl5BanBnXkFtZTgwODE3MjM4NzE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjIzMzA1OTkzNV5BMl5BanBnXkFtZTgwODE3MjM4NzE@._V1._SX88_SY140_.jpg"
+desc: "Pets: A Vida Secreta dos Bichos. The Secret Life of Pets (Japan, 2016). Dirigido por Yarrow Cheney, Chris Renaud. Escrito por Cinco Paul, Ken Daurio, Brian Lynch, Simon Rich. Com Louis C.K., Eric Stonestreet, Kevin Hart, Jenny Slate, Ellie Kemper, Albert Brooks, Lake Bell, Dana Carvey, Hannibal Buress."
 ---
 O estúdio responsável pelo Meu Malvado Favorito e Os Minions agora vem reciclar sua biblioteca de criaturas e vai explorar justamente mas uma coisa que humanos acham uma fofura: animais domesticados.
 

@@ -1,26 +1,12 @@
 ---
-date: "2014-09-25"
+tags: ['netflix', 'series']
 imdb: "2395695"
+date: "2014-09-25"
+categories: "series"
 title: "Cosmos: Uma Odisséia do Espaço-Tempo"
 stars: "5/5"
-categories: "series"
-revision: [2015-09-19]
-tags: ['netflix', 'series']
-_title: "Cosmos: A Spacetime Odyssey"
-_year: "2014"
-_director: ["Brannon Braga", "Ann Druyan", "Bill Pope", ]
-_writer: ["Ann Druyan", "Carl Sagan", "Steven Soter", ]
-_cast: ["Neil deGrasse Tyson", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["John Duffy", "Eric Lea", "Michael O'Halloran", ]
-_cinematographer: ["Bill Pope", ]
-_music: ["Alan Silvestri", ]
-_genres: ["Documentary", ]
-_runtimes: ["60::(with commercials) (13 episodes)", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTc5NzgwNDE3N15BMl5BanBnXkFtZTgwNDAxMTY5MTE@.jpg"
-_kind: "tv series"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTc5NzgwNDE3N15BMl5BanBnXkFtZTgwNDAxMTY5MTE@._V1._SX100_SY137_.jpg"
+revision: [datetime.date(2015, 9, 19)]
+desc: "Cosmos: Uma Odisséia do Espaço-Tempo. Cosmos: A Spacetime Odyssey (USA, 2014). Dirigido por Brannon Braga, Ann Druyan, Bill Pope. Escrito por Ann Druyan, Carl Sagan, Steven Soter. Com Neil deGrasse Tyson."
 ---
 Esse é um remake atualizado da série homônima dos anos 80 apresentada por Carl Sagan, um astrônomo famoso na época (até hoje, na verdade) e que ficou famoso para mim quando assisti (e li) o clássico absoluto de ficção científica Contato. Essa versão do programa, com visual e conteúdo atualizados, possui como apresentador também um "pop-star" da ciência: Neil deGrasse Tyson, um atrofísico renomado que curiosamente era fã e chegou a visitar Sagan ainda bem jovem. Sagan indiretamente o influenciou a se tornar o cientista que ele é hoje. Descobrimos isso no primeiro episódio em uma sequência particularmente tocante, pois também descobrimos como eram altos os valores humanos do atrônomo e como ser bom com as pessoas pode mudar uma vida.
 

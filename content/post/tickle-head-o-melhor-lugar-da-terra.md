@@ -1,27 +1,11 @@
 ---
-imdb: "2319580"
-stars: "3/5"
 tags: ['netflix']
+imdb: "2319580"
 date: 2017-08-04T02:31:04
-title: "Tickle Head, O Melhor Lugar Da Terra"
 categories: "movies"
-_title: "The Grand Seduction"
-_year: "2013"
-_director: ["Don McKellar", ]
-_writer: ["Ken Scott", "Michael Dowse", ]
-_cast: ["Percy Hynes White (Young Murray)", "Sean Panting (Ernest French)", "Crystal Dawn Parsons (Alice French)", "Brendan Gleeson (Murray French)", "Cathy Jones (Barbara French)", "Liane Balaban (Kathleen)", "Mark Critch (Henry Tilley)", "Gordon Pinsent (Simon)", "Lawrence Barry (Mayor Tom Fitzpatrick)", ]
-_countries: ["Canada", ]
-_languages: ["English", ]
-_editor: ["Dominique Fortin", ]
-_cinematographer: ["Douglas Koch", ]
-_music: ["Maxime Barzel", "Paul-Étienne Côté", "Francois-Pierre Lue", ]
-_artdirection: ["François Sénécal", ]
-_costume designer: ["Denis Sperdouklis", ]
-_genres: ["Comedy", ]
-_runtimes: ["113", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjI3NTEwMjk0MV5BMl5BanBnXkFtZTgwODUxMTI1MTE@.jpg"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjI3NTEwMjk0MV5BMl5BanBnXkFtZTgwODUxMTI1MTE@._V1._SX97_SY140_.jpg"
+title: "Tickle Head, O Melhor Lugar Da Terra"
+stars: "3/5"
+desc: "Tickle Head, O Melhor Lugar Da Terra. The Grand Seduction (Canada, 2013). Dirigido por Don McKellar. Escrito por Ken Scott, Michael Dowse. Com Percy Hynes White (Young Murray), Sean Panting (Ernest French), Crystal Dawn Parsons (Alice French), Brendan Gleeson (Murray French), Cathy Jones (Barbara French), Liane Balaban (Kathleen), Mark Critch (Henry Tilley), Gordon Pinsent (Simon), Lawrence Barry (Mayor Tom Fitzpatrick)."
 ---
 Este filme canadense de cidadezinha à beira-mar possui o seu charme e o seu humor. Um humor simples, mas que não soa maniqueísta, apesar de ser um pouco. Conta uma história implausível, mas que nos minutos finais toca o coração. Se trata de uma farsa, que não quer dar o braço a torcer que a luta é inútil. Uma metáfora sobre progresso que ignora a realidade para sonhar um pouco. E dar boas risadas.
 

@@ -1,28 +1,11 @@
 ---
+tags: ['paulocoelho']
+imdb: "1289401"
 date: "2016-10-12"
 categories: "movies"
 title: "Caça-Fantasmas"
-imdb: "1289401"
 stars: "3/5"
-tags: ['paulocoelho']
-_title: "Ghostbusters"
-_year: "2016"
-_director: ["Paul Feig", ]
-_writer: ["Katie Dippold", "Paul Feig", "Ivan Reitman", "Dan Aykroyd", "Harold Ramis", ]
-_cast: ["Zach Woods (Tour Guide)", "Kristen Wiig (Erin Gilbert)", "Ed Begley Jr. (Ed Mulgrave)", "Charles Dance (Harold Filmore)", "John Milhiser (Higgins Student)", "Ben Harris (Higgins Student)", "Melissa McCarthy (Abby Yates)", "Karan Soni (Bennie)", "Kate McKinnon (Jillian Holtzmann)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Melissa Bretherton", "Brent White", ]
-_cinematographer: ["Robert D. Yeoman", ]
-_music: ["Theodore Shapiro", ]
-_artdirection: ["Audra Avery", "Lorin Flemming", "Beat Frutiger", "Iain McFadyen", "Bradley Rubin", ]
-_costume designer: ["Jeffrey Kurland", ]
-_genres: ["Action", ]
-_runtimes: ["116", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg3OTM4NTM4NV5BMl5BanBnXkFtZTgwOTI3NDc0OTE@.jpg"
-_ratio: "1.43 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg3OTM4NTM4NV5BMl5BanBnXkFtZTgwOTI3NDc0OTE@._V1._SX94_SY140_.jpg"
+desc: "Caça-Fantasmas. Ghostbusters (USA, 2016). Dirigido por Paul Feig. Escrito por Katie Dippold, Paul Feig, Ivan Reitman, Dan Aykroyd, Harold Ramis. Com Zach Woods (Tour Guide), Kristen Wiig (Erin Gilbert), Ed Begley Jr. (Ed Mulgrave), Charles Dance (Harold Filmore), John Milhiser (Higgins Student), Ben Harris (Higgins Student), Melissa McCarthy (Abby Yates), Karan Soni (Bennie), Kate McKinnon (Jillian Holtzmann)."
 ---
 Os caça-fantasmas continua sendo uma ótima ideia em seu remake, protagonizado agora pelas meninas. Elas são espontâneas e fazem funcionar muitas das cenas do roteiro capenga escrita a várias mãos, com diálogos e piadas engraçadinhas. Os efeitos visuais atraem, mas não tanto quanto o conceito. E esse... continua tão novo como se tivesse sido lançado esse ano.
 

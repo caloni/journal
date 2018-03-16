@@ -1,25 +1,11 @@
 ---
-date: "2011-11-13"
 imdb: "0043274"
-revision: [2013-07-10]
+date: "2011-11-13"
+categories: "movies"
 title: "Alice no País das Maravilhas"
 stars: "5/5"
-categories: "movies"
-_title: "Alice in Wonderland"
-_year: "1951"
-_director: ["Clyde Geronimi", "Wilfred Jackson", "Hamilton Luske", ]
-_writer: ["Lewis Carroll", "Winston Hibler", "Ted Sears", "Bill Peet", "Erdman Penner", "Joe Rinaldi", "Milt Banta", "William Cottrell", "Dick Kelsey", ]
-_cast: ["Kathryn Beaumont", "Ed Wynn", "Richard Haydn", "Sterling Holloway", "Jerry Colonna", "Verna Felton", "J. Pat O'Malley", "Bill Thompson", "Heather Angel", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Lloyd L. Richardson", ]
-_music: ["Oliver Wallace", ]
-_genres: ["Animation", ]
-_runtimes: ["75", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTgyMjM2NTAxMF5BMl5BanBnXkFtZTgwNjU1NDc2MTE@.jpg"
-_ratio: "1.33 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTgyMjM2NTAxMF5BMl5BanBnXkFtZTgwNjU1NDc2MTE@._V1._SX94_SY140_.jpg"
+revision: [datetime.date(2013, 7, 10)]
+desc: "Alice no País das Maravilhas. Alice in Wonderland (USA, 1951). Dirigido por Clyde Geronimi, Wilfred Jackson, Hamilton Luske. Escrito por Lewis Carroll, Winston Hibler, Ted Sears, Bill Peet, Erdman Penner, Joe Rinaldi, Milt Banta, William Cottrell, Dick Kelsey. Com Kathryn Beaumont, Ed Wynn, Richard Haydn, Sterling Holloway, Jerry Colonna, Verna Felton, J. Pat O'Malley, Bill Thompson, Heather Angel."
 ---
 Tantos roteiristas, tantos adiamentos e tanta dúvida sobre se esse projeto seria viável valeram a pena. A versão de Alice de 1951, conduzida por perto pelo próprio Walt Disney, é irretocável do começo ao fim. É o tipo de filme que encanta por nunca ter envelhecido, de fato, e pela sua riqueza nos detalhes visíveis e invisíveis.
 

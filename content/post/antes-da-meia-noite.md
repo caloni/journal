@@ -1,25 +1,10 @@
 ---
-date: "2013-06-27"
 imdb: "2209418"
+date: "2013-06-27"
+categories: "movies"
 title: "Antes da Meia-Noite"
 stars: "5/5"
-categories: "movies"
-_title: "Before Midnight"
-_year: "2013"
-_director: ["Richard Linklater", ]
-_writer: ["Richard Linklater", "Julie Delpy", "Ethan Hawke", "Richard Linklater", "Kim Krizan", ]
-_cast: ["Ethan Hawke", "Julie Delpy", "Seamus Davey-Fitzpatrick", "Jennifer Prior", "Charlotte Prior", "Xenia Kalogeropoulou", "Walter Lassally", "Ariane Labed", "Yiannis Papadopoulos", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Sandra Adair", ]
-_cinematographer: ["Christos Voudouris", ]
-_music: ["Graham Reynolds", ]
-_genres: ["Drama", ]
-_runtimes: ["109", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjA5NzgxODE2NF5BMl5BanBnXkFtZTcwNTI1NTI0OQ@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjA5NzgxODE2NF5BMl5BanBnXkFtZTcwNTI1NTI0OQ@@._V1._SX94_SY140_.jpg"
+desc: "Antes da Meia-Noite. Before Midnight (USA, 2013). Dirigido por Richard Linklater. Escrito por Richard Linklater, Julie Delpy, Ethan Hawke, Richard Linklater, Kim Krizan. Com Ethan Hawke, Julie Delpy, Seamus Davey-Fitzpatrick, Jennifer Prior, Charlotte Prior, Xenia Kalogeropoulou, Walter Lassally, Ariane Labed, Yiannis Papadopoulos."
 ---
 A grande sacada dos filmes que acompanham as conversas entre Jesse (Ethan Hawke) e Celine (Julie Delpy)  o ótimo Antes do Amanhecer, o excelente Antes do Pôr-do-Sol e este fabuloso Antes da Meia-Noite  é que os textos dos diálogos soam naturais, acontecem em uma ordem elegantemente cadenciada e são surpreendentemente relevantes durante todo o tempo, instigando a nossa percepção de realidade e fazendo nosso cérebro não conseguir parar de pensar nas questões tão atuais e filosóficas. Vivenciarmos esses breves momentos que exploram a vida real de maneira tão intensa no Cinema faz com que a quarta parede que nos separa dos personagens se rompa e nos atire para dentro de uma discussão existencialista qualquer, mas que ganha um contorno fascinante por estar sendo discutido com brilhantismo por este adorável casal.
 

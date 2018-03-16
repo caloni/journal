@@ -1,25 +1,10 @@
 ---
-date: "2011-10-27"
 imdb: "0038190"
+date: "2011-10-27"
+categories: "movies"
 title: "Laços Humanos"
 stars: "5/5"
-categories: "movies"
-_title: "A Tree Grows in Brooklyn"
-_year: "1945"
-_director: ["Elia Kazan", ]
-_writer: ["Tess Slesinger", "Frank Davis", "Betty Smith", "Anita Loos", ]
-_cast: ["Dorothy McGuire", "Joan Blondell", "James Dunn", "Lloyd Nolan", "James Gleason", "Ted Donaldson", "Peggy Ann Garner", "Ruth Nelson", "John Alexander", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Dorothy Spencer", ]
-_cinematographer: ["Leon Shamroy", ]
-_music: ["Alfred Newman", ]
-_genres: ["Drama", ]
-_runtimes: ["129", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTcxMzQ0NTEyMl5BMl5BanBnXkFtZTcwMDI0MzMzMQ@@.jpg"
-_ratio: "1.37 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTcxMzQ0NTEyMl5BMl5BanBnXkFtZTcwMDI0MzMzMQ@@._V1._SX98_SY140_.jpg"
+desc: "Laços Humanos. A Tree Grows in Brooklyn (USA, 1945). Dirigido por Elia Kazan. Escrito por Tess Slesinger, Frank Davis, Betty Smith, Anita Loos. Com Dorothy McGuire, Joan Blondell, James Dunn, Lloyd Nolan, James Gleason, Ted Donaldson, Peggy Ann Garner, Ruth Nelson, John Alexander."
 ---
 É até sacanagem querer escrever um pouco sobre Laços Humanos, trabalho impecável de Elia Kazan (que, acabei de descobrir, é seu primeiro longa!). De certa forma, não parece correto apontar virtudes técnicas em um filme que fale direto com o coração. Não é raro para mim assistir filmes que me faça lacrimejar compulsivamente uma ou duas vezes durante a sessão, mas nesse caso o filme inteiro tem algo de mágico e esperançoso, que deixa o espectador com o coração apertado boa parte do tempo.
 

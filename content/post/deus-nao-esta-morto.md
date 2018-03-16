@@ -1,27 +1,10 @@
 ---
-date: "2015-09-28"
 imdb: "2528814"
-stars: "2/5"
+date: "2015-09-28"
 categories: "movies"
 title: "Deus Não Está Morto"
-_title: "God's Not Dead"
-_year: "2014"
-_director: ["Harold Cronk", ]
-_writer: ["Hunter Dennis", "Chuck Konzelman", "Chuck Konzelman", "Cary Solomon", "Cary Solomon", ]
-_cast: ["Kevin Sorbo", "Shane Harper", "David A.R. White", "Dean Cain", "Michael Tait", "Jody Davis", "Jeff Frankenstein", "Duncan Phillips", "Willie Robertson", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Vance Null", ]
-_cinematographer: ["Brian Shanley", ]
-_music: ["Will Musser", ]
-_artdirection: ["Perry James Trentacosta", ]
-_costume designer: ["John H. Smith", ]
-_genres: ["Drama", ]
-_runtimes: ["USA:113", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjEwNDQ3MzYyOV5BMl5BanBnXkFtZTgwNDE0ODM3MDE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjEwNDQ3MzYyOV5BMl5BanBnXkFtZTgwNDE0ODM3MDE@._V1._SX94_SY140_.jpg"
+stars: "2/5"
+desc: "Deus Não Está Morto. God's Not Dead (USA, 2014). Dirigido por Harold Cronk. Escrito por Hunter Dennis, Chuck Konzelman, Chuck Konzelman, Cary Solomon, Cary Solomon. Com Kevin Sorbo, Shane Harper, David A.R. White, Dean Cain, Michael Tait, Jody Davis, Jeff Frankenstein, Duncan Phillips, Willie Robertson."
 ---
 Nietzsche havia alertado aos pensadores mais livres já no século XVII: deus está morto. Hoje, de uma maneira irônica, um movimento encabeçado por cristãos anuncia aos quatro ventos: foda-se a lógica!
 

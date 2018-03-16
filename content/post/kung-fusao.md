@@ -1,25 +1,10 @@
 ---
-date: "2013-10-06"
 imdb: "0373074"
+date: "2013-10-06"
+categories: "movies"
 title: "Kung-Fusão"
 stars: "4/5"
-categories: "movies"
-_title: "Kung fu"
-_year: "2004"
-_director: ["Stephen Chow", ]
-_writer: ["Man Keung Chan", "Stephen Chow", "Xin Huo", "Kan-Cheung Tsang", ]
-_cast: ["Stephen Chow", "Xiaogang Feng", "Wah Yuen", "Zhi Hua Dong", "Kwok-Kwan Chan", "Chi Chung Lam", "Siu-Lung Leung", "Qiu Yuen", "Kai Man Tin", ]
-_countries: ["Hong Kong", ]
-_languages: ["Cantonese", ]
-_editor: ["Angie Lam", ]
-_cinematographer: ["Hang-Sang Poon", ]
-_music: ["Stephen Chow", "Ying-Wah Wong", "Hang Yi", "Xian Luo Zong", ]
-_genres: ["Action", ]
-_runtimes: ["99", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjQwNTMwODU0Ml5BMl5BanBnXkFtZTcwODkzNjgyMQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjQwNTMwODU0Ml5BMl5BanBnXkFtZTcwODkzNjgyMQ@@._V1._SX95_SY140_.jpg"
+desc: "Kung-Fusão. Kung fu (Hong Kong, 2004). Dirigido por Stephen Chow. Escrito por Man Keung Chan, Stephen Chow, Xin Huo, Kan-Cheung Tsang. Com Stephen Chow, Xiaogang Feng, Wah Yuen, Zhi Hua Dong, Kwok-Kwan Chan, Chi Chung Lam, Siu-Lung Leung, Qiu Yuen, Kai Man Tin."
 ---
 Após uma revisita ao filme-gêmeo de Shaolin Soccer, ambos exploram esse conceito do Kung-fu extrapolado ao cotidiano, a sensação é de um frescor de ingenuidade e violência comparados a Kick Ass (e não me admiraria que este fosse inspirado naquele). Só pelo fato da violência existir com mortes e essas mortes serem relevantes para estabelecer o peso da tensão em um filme que obviamente é uma comédia já mereceria créditos de sobra.
 

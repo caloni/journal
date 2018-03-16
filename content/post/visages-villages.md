@@ -1,25 +1,11 @@
 ---
-imdb: "5598102"
-stars: "3/5"
 tags: ['cabine']
+imdb: "5598102"
 date: 2017-11-27T19:05:55
-title: "Visages, Villages"
 categories: "movies"
-_title: "Visages, villages"
-_year: "2017"
-_director: ["JR", "Agnès Varda", ]
-_writer: ["JR", "Agnès Varda", ]
-_cast: ["Jean-Paul Beaujon (Himself)", "Amaury Bossy (Himself)", "Yves Boulen (Himself)", "Jeannine Carpentier (Herself)", "Marie Douvet (Herself)", "Claude Ferchal (Himself)", "Claude Flaert (Himself)", "Vincent Gils (Himself)", "Jean-Luc Godard (Himself)", ]
-_countries: ["France", ]
-_languages: ["French", ]
-_editor: ["Maxime Pozzi-Garcia", "Agnès Varda", ]
-_cinematographer: ["Roberto De Angelis", "Claire Duguet", "Julia Fabry", "Nicolas Guicheteau", "Romain Le Bonniec", "Raphaël Minnesota", "Valentin Vignet", ]
-_music: ["Matthieu Chedid", ]
-_genres: ["Documentary", ]
-_runtimes: ["89", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjQyNjUyMzkwOF5BMl5BanBnXkFtZTgwODkyOTg1MzI@.jpg"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjQyNjUyMzkwOF5BMl5BanBnXkFtZTgwODkyOTg1MzI@._V1._SX94_SY140_.jpg"
+title: "Visages, Villages"
+stars: "3/5"
+desc: "Visages, Villages. Visages, villages (France, 2017). Dirigido por JR, Agnès Varda. Escrito por JR, Agnès Varda. Com Jean-Paul Beaujon (Himself), Amaury Bossy (Himself), Yves Boulen (Himself), Jeannine Carpentier (Herself), Marie Douvet (Herself), Claude Ferchal (Himself), Claude Flaert (Himself), Vincent Gils (Himself), Jean-Luc Godard (Himself)."
 ---
 Agnès Varda é uma lição de vida que deve ser estudada. Diretora de cinema por décadas, com mais de 89 anos ela se envereda em uma jornada ao lado de um jovem enigmático, também cineasta, cujo apelido é JR. Ambos saem em um furgão com uma gigantesca câmera desenhada e repete-se mais um clichê: o dos artistas em busca de fazer a sua arte.
 

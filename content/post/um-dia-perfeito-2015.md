@@ -1,28 +1,11 @@
 ---
-date: "2016-07-05"
-tags: [ "cabine" ]
-categories: "movies"
+tags: ['cabine']
 imdb: "3577624"
-stars: "4/5"
+date: "2016-07-05"
+categories: "movies"
 title: "Um Dia Perfeito"
-_title: "A Perfect Day"
-_year: "2015"
-_director: ["Fernando León de Aranoa", ]
-_writer: ["Fernando León de Aranoa", "Diego Farias", "Paula Farias", ]
-_cast: ["Benicio Del Toro", "Tim Robbins", "Olga Kurylenko", "Mélanie Thierry", "Fedja Stukan", "Eldar Residovic", "Sergi López", "Nenad Vukelic", "Morten Suurballe", ]
-_countries: ["Spain", ]
-_languages: ["English", ]
-_editor: ["Nacho Ruiz Capillas", ]
-_cinematographer: ["Alex Catalán", ]
-_music: ["Arnau Bataller", ]
-_artdirection: ["César Macarrón", ]
-_costume designer: ["Fernando García", ]
-_genres: ["Comedy", ]
-_runtimes: ["106", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTUwNjgzOTQ4OV5BMl5BanBnXkFtZTgwMjA5OTM2NTE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTUwNjgzOTQ4OV5BMl5BanBnXkFtZTgwMjA5OTM2NTE@._V1._SX98_SY140_.jpg"
+stars: "4/5"
+desc: "Um Dia Perfeito. A Perfect Day (Spain, 2015). Dirigido por Fernando León de Aranoa. Escrito por Fernando León de Aranoa, Diego Farias, Paula Farias. Com Benicio Del Toro, Tim Robbins, Olga Kurylenko, Mélanie Thierry, Fedja Stukan, Eldar Residovic, Sergi López, Nenad Vukelic, Morten Suurballe."
 ---
 Verdade seja dia: Benicio Del Toro é um grande ator. Em Um Dia Perfeito, um trabalho que é um misto de esperança, alto astral e uma crítica ácida sobre guerras sem sentido em fins de mundo, ele faz Mambrú, o chefe de uma ONG de segurança que ajuda comunidades em torno das zonas de conflito. Aparentemente perdido em um fim de mundo, mas se sentido muito mais em casa do que ao lado de sua namorada, Mambrú é uma figura recorrente na cinematografia atual, por conta de cada vez mais guerras sem sentido (se é que alguma vez houve uma guerra com algum sentido senão o de obter mais dinheiro e poder).
 

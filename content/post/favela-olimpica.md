@@ -1,23 +1,11 @@
 ---
-imdb: "7169096"
-stars: "5/5"
 tags: ['cabine', 'mostrasp']
+imdb: "7169096"
 date: 2017-10-24T01:41:35
-title: "Favela Olimpica"
 categories: "movies"
-_title: "Favela Olímpica"
-_year: "2017"
-_director: ["Samuel Chalard", ]
-_countries: ["Switzerland", ]
-_languages: ["Portuguese", ]
-_editor: ["Karine Sudan", ]
-_cinematographer: ["Patrick Tresch", ]
-_genres: ["Documentary", ]
-_runtimes: ["93", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMzRhZDZkMTEtNWVkOS00MDQxLWE2MjUtOTM0ZDA0NTk1YTJlXkEyXkFqcGdeQXVyMjExMjMwNDY@.jpg"
-_ratio: "1.78 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMzRhZDZkMTEtNWVkOS00MDQxLWE2MjUtOTM0ZDA0NTk1YTJlXkEyXkFqcGdeQXVyMjExMjMwNDY@._V1._SX99_SY140_.jpg"
+title: "Favela Olimpica"
+stars: "5/5"
+desc: "Favela Olimpica. Favela Olímpica (Switzerland, 2017). Dirigido por Samuel Chalard."
 ---
 Favela Olímpica é o documentário mais didático que você vai encontrar que explique, ainda que inconscientemente, como o conceito de "espaço público" é não apenas inútil, como fonte de praticamente todos os conflitos existentes hoje em dia na humanidade. E é didático porque usa um singelo exemplo: a destruição sistemática de uma vila ao lado da construção de um evento esportivo. O motivo? Especulação imobiliária, idiota!
 

@@ -1,25 +1,10 @@
 ---
-date: "2014-11-15"
 imdb: "0059742"
+date: "2014-11-15"
+categories: "movies"
 title: "A Noviça Rebelde"
 stars: "5/5"
-categories: "movies"
-_title: "The Sound of Music"
-_year: "1965"
-_director: ["Robert Wise", ]
-_writer: ["George Hurdalek", "Howard Lindsay", "Russel Crouse", "Ernest Lehman", "Maria von Trapp", ]
-_cast: ["Julie Andrews", "Christopher Plummer", "Eleanor Parker", "Richard Haydn", "Peggy Wood", "Charmian Carr", "Heather Menzies-Urich", "Nicholas Hammond", "Duane Chase", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["William Reynolds", ]
-_cinematographer: ["Ted D. McCord", ]
-_music: ["Irwin Kostal", ]
-_genres: ["Biography", ]
-_runtimes: ["174", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMzQwODgzMTc5MF5BMl5BanBnXkFtZTcwNjUzMjE2MQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMzQwODgzMTc5MF5BMl5BanBnXkFtZTcwNjUzMjE2MQ@@._V1._SX100_SY137_.jpg"
+desc: "A Noviça Rebelde. The Sound of Music (USA, 1965). Dirigido por Robert Wise. Escrito por George Hurdalek, Howard Lindsay, Russel Crouse, Ernest Lehman, Maria von Trapp. Com Julie Andrews, Christopher Plummer, Eleanor Parker, Richard Haydn, Peggy Wood, Charmian Carr, Heather Menzies-Urich, Nicholas Hammond, Duane Chase."
 ---
 O musical ganhador do Oscar nos anos 60 é tanto um apelo emocional quanto musical. Ele fala sobre aproximação de pai e filhos, sobre uma mudança radical na vida de uma noviça e fala também sobre uma nação que começa a ser desconstruída pela força das armas. 
 

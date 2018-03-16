@@ -1,25 +1,10 @@
 ---
-date: "2014-03-13"
 imdb: "0808399"
+date: "2014-03-13"
+categories: "movies"
 title: "Nova York Eu Te Amo"
 stars: "5/5"
-categories: "movies"
-_title: "New York, I Love You"
-_year: "2008"
-_director: ["Fatih Akin", "Yvan Attal", "Randall Balsmeyer", "Allen Hughes", "Shunji Iwai", "Wen Jiang", "Shekhar Kapur", "Joshua Marston", "Mira Nair", ]
-_writer: ["Hu Hong", "Yao Meng", "Israel Horovitz", "Suketu Mehta", "Shunji Iwai", "Israel Horovitz", "Olivier Lécot", "Jeff Nathanson", "Xan Cassavetes", ]
-_cast: ["Hayden Christensen", "Andy Garcia", "Rachel Bilson", "Natalie Portman", "Irrfan Khan", "Orlando Bloom", "Christina Ricci", "Maggie Q", "Ethan Hawke", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Jennifer Augé", "Tricia Cooke", "Jacob Craycroft", "Affonso Gonçalves", "Mark Helfrich", "Shunji Iwai", "Allyson C. Johnson", "Melody London", "Cindy Mollo", ]
-_cinematographer: ["Jean-Louis Bompoint", "Benoît Debie", "Pawel Edelman", "Ping Bin Lee", "Michael McDonough", "Andrij Parekh", "Declan Quinn", "Mauricio Rubinstein", ]
-_music: ["Tonino Baliardo", "Nicholas Britell", "Paul Cantelon", "Mychael Danna", "Ilhan Ersahin", "Jack Livesey", "Jack Livesey", "Shoji Mitsui", "Mark Mothersbaugh", ]
-_genres: ["Comedy", ]
-_runtimes: ["103", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTI3NDYxOTM4OF5BMl5BanBnXkFtZTcwOTEwNTI4Mg@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTI3NDYxOTM4OF5BMl5BanBnXkFtZTcwOTEwNTI4Mg@@._V1._SX94_SY140_.jpg"
+desc: "Nova York Eu Te Amo. New York, I Love You (USA, 2008). Dirigido por Fatih Akin, Yvan Attal, Randall Balsmeyer, Allen Hughes, Shunji Iwai, Wen Jiang, Shekhar Kapur, Joshua Marston, Mira Nair. Escrito por Hu Hong, Yao Meng, Israel Horovitz, Suketu Mehta, Shunji Iwai, Israel Horovitz, Olivier Lécot, Jeff Nathanson, Xan Cassavetes. Com Hayden Christensen, Andy Garcia, Rachel Bilson, Natalie Portman, Irrfan Khan, Orlando Bloom, Christina Ricci, Maggie Q, Ethan Hawke."
 ---
 Da mesma forma com que foi feito em "Paris, Te Amo" esse "Nova York, Eu Te Amo" (que nome original) reúne diversos realizadores em torno de pequenas histórias, com a diferença que nesse caso elas se cruzam e se consolidam, em uma espécie de "Simplesmente Amor" para Tênis Verde.
 

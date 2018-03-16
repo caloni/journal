@@ -1,25 +1,10 @@
 ---
-date: "2012-06-19"
 imdb: "1446714"
+date: "2012-06-19"
+categories: "movies"
 title: "Prometheus"
 stars: "3/5"
-categories: "movies"
-_title: "Prometheus"
-_year: "2012"
-_director: ["Ridley Scott", ]
-_writer: ["Jon Spaihts", "Damon Lindelof", "Dan O'Bannon", "Ronald Shusett", ]
-_cast: ["Noomi Rapace", "Michael Fassbender", "Charlize Theron", "Idris Elba", "Guy Pearce", "Logan Marshall-Green", "Sean Harris", "Rafe Spall", "Emun Elliott", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Pietro Scalia", ]
-_cinematographer: ["Dariusz Wolski", ]
-_music: ["Marc Streitenfeld", ]
-_genres: ["Adventure", ]
-_runtimes: ["124", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTY3NzIyNTA2NV5BMl5BanBnXkFtZTcwNzE2NjI4Nw@@.jpg"
-_ratio: "1.66 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTY3NzIyNTA2NV5BMl5BanBnXkFtZTcwNzE2NjI4Nw@@._V1._SX94_SY140_.jpg"
+desc: "Prometheus. Prometheus (USA, 2012). Dirigido por Ridley Scott. Escrito por Jon Spaihts, Damon Lindelof, Dan O'Bannon, Ronald Shusett. Com Noomi Rapace, Michael Fassbender, Charlize Theron, Idris Elba, Guy Pearce, Logan Marshall-Green, Sean Harris, Rafe Spall, Emun Elliott."
 ---
 Como fã convicto da série Alien, desde seu Oitavo Passageiro ao controverso A Ressurreição, tenho autoridade não apenas como estudioso de Cinema mas como fã estudioso de considerar o novo trabalho de Ridley Scott como uma involução não apenas da série, mas do gênero de ficção científica/terror como um todo.
 

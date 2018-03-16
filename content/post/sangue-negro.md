@@ -1,25 +1,10 @@
 ---
-date: "2018-01-23"
 imdb: "0469494"
+date: "2018-01-23"
+categories: "movies"
 title: "Sangue Negro"
 stars: "5/5"
-categories: "movies"
-_title: "There Will Be Blood"
-_year: "2007"
-_director: ["Paul Thomas Anderson", ]
-_writer: ["Paul Thomas Anderson", "Upton Sinclair", ]
-_cast: ["Daniel Day-Lewis", "Martin Stringer", "Matthew Braden Stringer", "Jacob Stringer", "Joseph Mussey", "Barry Del Sherman", "Harrison Taylor", "Stockton Taylor", "Paul F. Tompkins", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Dylan Tichenor", ]
-_cinematographer: ["Robert Elswit", ]
-_music: ["Jonny Greenwood", ]
-_genres: ["Drama", ]
-_runtimes: ["158", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjA0NjE1ODEyNV5BMl5BanBnXkFtZTcwNDIzMzE5NQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjA0NjE1ODEyNV5BMl5BanBnXkFtZTcwNDIzMzE5NQ@@._V1._SX100_SY133_.jpg"
+desc: "Sangue Negro. There Will Be Blood (USA, 2007). Dirigido por Paul Thomas Anderson. Escrito por Paul Thomas Anderson, Upton Sinclair. Com Daniel Day-Lewis, Martin Stringer, Matthew Braden Stringer, Jacob Stringer, Joseph Mussey, Barry Del Sherman, Harrison Taylor, Stockton Taylor, Paul F. Tompkins."
 ---
 Com uma longa introdução sem falas que praticamente diz tudo que precisamos saber do protagonista para entender seus atos durante toda a longa, mas empolgante, história de sua ascensão na indústria do petróleo, Sangue Negro não perde o ritmo e o significado em nenhum momento. Sua fotografia é delineada por sombras e contornos nítidos no horizonte, sempre a nos lembrar do óleo negro, implícito em cada cena, mesmo que não esteja lá. E, quando está, não raro impregna a face das pessoas ou até as fere. Até a trilha sonora, baseada em sons ritmados, evocam a todo o momento as bombas puxando o petróleo para a superfície.
 

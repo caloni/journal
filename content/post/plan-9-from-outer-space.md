@@ -1,24 +1,10 @@
 ---
-date: "2015-09-23"
 imdb: "0052077"
-stars: "2/5"
+date: "2015-09-23"
 categories: "movies"
 title: "Plano 9 do Espaço Sideral"
-_title: "Plan 9 from Outer Space"
-_year: "1959"
-_director: ["Edward D. Wood Jr.", ]
-_writer: ["Edward D. Wood Jr", ]
-_cast: ["Gregory Walcott", "Mona McKinnon", "Duke Moore", "Tom Keene", "Carl Anthony", "Paul Marco", "Tor Johnson", "Dudley Manlove", "Joanna Lee", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Edward D. Wood Jr.", ]
-_cinematographer: ["William C. Thompson", ]
-_genres: ["Horror", ]
-_runtimes: ["79", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMzUzMzA0NDE3MF5BMl5BanBnXkFtZTgwMzg1Mjc1MDE@.jpg"
-_ratio: "1.33 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMzUzMzA0NDE3MF5BMl5BanBnXkFtZTgwMzg1Mjc1MDE@._V1._SX95_SY140_.jpg"
+stars: "2/5"
+desc: "Plano 9 do Espaço Sideral. Plan 9 from Outer Space (USA, 1959). Dirigido por Edward D. Wood Jr.. Escrito por Edward D. Wood Jr. Com Gregory Walcott, Mona McKinnon, Duke Moore, Tom Keene, Carl Anthony, Paul Marco, Tor Johnson, Dudley Manlove, Joanna Lee."
 ---
 É este o "pior filme de todos os tempos", como foi votado no livro do crítico Michael Medved? É óbvio que não. Qualquer lista sobre qualquer coisa sobre Cinema está fadada a 1) estar incompleta e 2) estar errada. Dessa forma, nunca poderemos falar do melhor ou do pior sem nos esquecermos que ninguém nunca viu todos os filmes do mundo, e portanto sempre haverá piores filmes que nunca foram vistos. Além do que, se você lembrar do item 2, uma lista de melhores/piores sempre estará errada, pois esta é uma visão muito mais próxima do gosto pessoal do que uma crítica bem embasada nas "características" de um trabalho como esse.
 

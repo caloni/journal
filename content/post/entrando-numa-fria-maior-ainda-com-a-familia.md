@@ -1,25 +1,10 @@
 ---
-date: "2011-07-01"
 imdb: "0970866"
+date: "2011-07-01"
+categories: "movies"
 title: "Entrando Numa Fria Maior Ainda com a Família"
 stars: "3/5"
-categories: "movies"
-_title: "Little Fockers"
-_year: "2010"
-_director: ["Paul Weitz", ]
-_writer: ["John Hamburg", "Larry Stuckey", "Greg Glienna", "Mary Ruth Clarke", ]
-_cast: ["Robert De Niro", "Ben Stiller", "Owen Wilson", "Dustin Hoffman", "Barbra Streisand", "Blythe Danner", "Teri Polo", "Jessica Alba", "Laura Dern", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Greg Hayden", "Leslie Jones", "Myron I. Kerstein", ]
-_cinematographer: ["Remi Adefarasin", ]
-_music: ["Stephen Trask", ]
-_genres: ["Comedy", ]
-_runtimes: ["98", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTkwNjE3NjQwOV5BMl5BanBnXkFtZTcwNzAyNTMwNA@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTkwNjE3NjQwOV5BMl5BanBnXkFtZTcwNzAyNTMwNA@@._V1._SX95_SY140_.jpg"
+desc: "Entrando Numa Fria Maior Ainda com a Família. Little Fockers (USA, 2010). Dirigido por Paul Weitz. Escrito por John Hamburg, Larry Stuckey, Greg Glienna, Mary Ruth Clarke. Com Robert De Niro, Ben Stiller, Owen Wilson, Dustin Hoffman, Barbra Streisand, Blythe Danner, Teri Polo, Jessica Alba, Laura Dern."
 ---
 Filme um pouco mais recatado que os outros da série, traz piadas mais contidas, um senso mais família, com De Niro no automático e Ben Stiller pouco inspirado em suas caretas.
 

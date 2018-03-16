@@ -1,24 +1,11 @@
 ---
-date: "2010-11-05"
 imdb: "1789810"
+date: "2010-11-05"
+categories: "movies"
 count: 2
 title: "José e Pilar"
 stars: "5/5"
-categories: "movies"
-_title: "José e Pilar"
-_year: "2010"
-_director: ["Miguel Gonçalves Mendes", ]
-_cast: ["Joao Afonso", "Àngels Barceló", "Pilar del Río", "Juan Echanove", "Gael García Bernal", "Gabriel García Márquez", "Tarja Halonen", "Paco Ibáñez", "Tomás Eloy Martínez", ]
-_countries: ["Portugal", ]
-_languages: ["Spanish", ]
-_editor: ["Cláudia Rita Oliveira", ]
-_cinematographer: ["Daniel Neves", ]
-_genres: ["Documentary", ]
-_runtimes: ["117", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjI5NTUzNTI2OV5BMl5BanBnXkFtZTcwMTkzMDA5Ng@@.jpg"
-_ratio: "1.78 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjI5NTUzNTI2OV5BMl5BanBnXkFtZTcwMTkzMDA5Ng@@._V1._SX99_SY140_.jpg"
+desc: "José e Pilar. José e Pilar (Portugal, 2010). Dirigido por Miguel Gonçalves Mendes. Com Joao Afonso, Àngels Barceló, Pilar del Río, Juan Echanove, Gael García Bernal, Gabriel García Márquez, Tarja Halonen, Paco Ibáñez, Tomás Eloy Martínez."
 ---
 Este é um documentário que conta, com imagens caseiras e inusitadas em eventos públicos, os últimos anos do escritor português ganhador do prêmio Nobel José Saramago e sua esposa, Pilar. Por meio de uma semi-intrusão na vida alheia do casal, acompanhamos as viagens que ambos fizeram pelo mundo afora após ele ter ganho o prêmio.
 

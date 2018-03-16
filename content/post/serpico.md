@@ -1,27 +1,10 @@
 ---
-date: "2015-08-31"
 imdb: "0070666"
-stars: "5/5"
+date: "2015-08-31"
 categories: "movies"
 title: "Serpico"
-_title: "Serpico"
-_year: "1973"
-_director: ["Sidney Lumet", ]
-_writer: ["Peter Maas", "Waldo Salt", "Norman Wexler", ]
-_cast: ["Al Pacino", "John Randolph", "Jack Kehoe", "Biff McGuire", "Barbara Eda-Young", "Cornelia Sharpe", "Tony Roberts", "John Medici", "Allan Rich", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Dede Allen", "Richard Marks", ]
-_cinematographer: ["Arthur J. Ornitz", ]
-_music: ["Mikis Theodorakis", ]
-_artdirection: ["Douglas Higgins", ]
-_costume designer: ["Anna Hill Johnstone", ]
-_genres: ["Biography", ]
-_runtimes: ["130", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTkyNzQ2MjkzNl5BMl5BanBnXkFtZTgwODM2MzcxMTE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTkyNzQ2MjkzNl5BMl5BanBnXkFtZTgwODM2MzcxMTE@._V1._SX94_SY140_.jpg"
+stars: "5/5"
+desc: "Serpico. Serpico (USA, 1973). Dirigido por Sidney Lumet. Escrito por Peter Maas, Waldo Salt, Norman Wexler. Com Al Pacino, John Randolph, Jack Kehoe, Biff McGuire, Barbara Eda-Young, Cornelia Sharpe, Tony Roberts, John Medici, Allan Rich."
 ---
 Serpico é mais um filme que se aproveita ao máximo da persona de Al Pacino. Um "Bons Companheiros" versão policial do diretor Sydney Lumet, que iria também trabalhar com o ator em Um Dia de Cão. Aqui ele interpreta Frank Serpico, um policial que descobre que um sistema de coleta de propinas existe aparentemente em todos os departamentos de polícia de Nova Iorque -- ou pelo menos em todos em que ele passa -- e não consegue se desvencilhar da ideia de estar fazendo algo de errado em não acusar seus colegas de estar fazendo. Oriundo de família italiana, o conflito moral que ele se coloca cresce vertiginosamente enquanto ele tenta achar pelo menos uma pessoa íntegra na cidade para por um fim à corrupção policial, galgando todas as hierarquias, encontrando obstáculos mais sutis do que tinha no começo.
 

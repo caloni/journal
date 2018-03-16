@@ -1,27 +1,10 @@
 ---
-date: "2016-02-29"
 imdb: "1895587"
-stars: "4/5"
+date: "2016-02-29"
 categories: "movies"
 title: "Spotlight: Segredos Revelados"
-_title: "Spotlight"
-_year: "2015"
-_director: ["Tom McCarthy", ]
-_writer: ["Josh Singer", "Tom McCarthy", ]
-_cast: ["Mark Ruffalo", "Michael Keaton", "Rachel McAdams", "Liev Schreiber", "John Slattery", "Brian d'Arcy James", "Stanley Tucci", "Elena Wohl", "Gene Amoroso", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Tom McArdle", ]
-_cinematographer: ["Masanobu Takayanagi", ]
-_music: ["Howard Shore", ]
-_artdirection: ["Michaela Cheyne", ]
-_costume designer: ["Wendy Chuck", ]
-_genres: ["Biography", ]
-_runtimes: ["128", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjIyOTM5OTIzNV5BMl5BanBnXkFtZTgwMDkzODE2NjE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjIyOTM5OTIzNV5BMl5BanBnXkFtZTgwMDkzODE2NjE@._V1._SX95_SY140_.jpg"
+stars: "4/5"
+desc: "Spotlight: Segredos Revelados. Spotlight (USA, 2015). Dirigido por Tom McCarthy. Escrito por Josh Singer, Tom McCarthy. Com Mark Ruffalo, Michael Keaton, Rachel McAdams, Liev Schreiber, John Slattery, Brian d'Arcy James, Stanley Tucci, Elena Wohl, Gene Amoroso."
 ---
 Esse é um filme que foca obcecadamente em seus fatos. A ponto de sacrificar seus personagens. E tudo bem. O material de Spotlight é bom o suficiente para funcionar sem qualquer personagem de destaque, muito embora Mark Ruffalo quase consiga algo interessante.
 

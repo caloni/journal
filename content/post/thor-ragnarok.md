@@ -1,30 +1,12 @@
 ---
-imdb: "3501632"
-stars: "3/5"
 tags: ['cabine']
+imdb: "3501632"
 date: 2017-10-25T00:05:52
-title: "Thor Ragnarök"
 categories: "movies"
-revision: [2017-11-11]
-_title: "Thor: Ragnarok"
-_year: "2017"
-_director: ["Taika Waititi", ]
-_writer: ["Eric Pearson", "Craig Kyle", "Christopher Yost", ]
-_cast: ["Chris Hemsworth (Thor)", "Tom Hiddleston (Loki)", "Cate Blanchett (Hela)", "Idris Elba (Heimdall)", "Jeff Goldblum (Grandmaster)", "Tessa Thompson (Valkyrie)", "Karl Urban (Skurge)", "Mark Ruffalo (Bruce Banner / Hulk)", "Anthony Hopkins (Odin)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Zene Baker", "Joel Negron", ]
-_cinematographer: ["Javier Aguirresarobe", ]
-_music: ["Mark Mothersbaugh", ]
-_artdirection: ["Bill Booth", "Brendan Heffernan", "Richard Hobbs", "Alex McCarroll", "Laura Ng", ]
-_costume designer: ["Mayes C. Rubeo", ]
-_genres: ["Action", ]
-_runtimes: ["130", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjMyNDkzMzI1OF5BMl5BanBnXkFtZTgwODcxODg5MjI@.jpg"
-_ratio: "1.90 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjMyNDkzMzI1OF5BMl5BanBnXkFtZTgwODcxODg5MjI@._V1._SX94_SY140_.jpg"
-_releasedate: "26 October 2017"
+title: "Thor Ragnarök"
+stars: "3/5"
+revision: [datetime.date(2017, 11, 11)]
+desc: "Thor Ragnarök. Thor: Ragnarok (USA, 2017). Dirigido por Taika Waititi. Escrito por Eric Pearson, Craig Kyle, Christopher Yost. Com Chris Hemsworth (Thor), Tom Hiddleston (Loki), Cate Blanchett (Hela), Idris Elba (Heimdall), Jeff Goldblum (Grandmaster), Tessa Thompson (Valkyrie), Karl Urban (Skurge), Mark Ruffalo (Bruce Banner / Hulk), Anthony Hopkins (Odin)."
 ---
 Este é o terceiro filme solo do Thor, e talvez o mais longo deles? Bom, isso não importa. Thor Ragnarök passa voando. Não apenas o personagem-título, mas o filme como um todo. Isso talvez porque ele tenha esse elenco secundário tão fofinho, fazendo piadas bem-humoradas, de bem com a vida, entrando em seus personagens. Tudo isso para suportar o Avenger mais sem-graça. E do jeito que ele perde vários elementos de sua história nessa aventura, espero que ele não tenha mais aventuras para contar.
 

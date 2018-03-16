@@ -1,25 +1,10 @@
 ---
-date: "2015-01-18"
 imdb: "2788710"
+date: "2015-01-18"
+categories: "movies"
 title: "A Entrevista"
 stars: "2/5"
-categories: "movies"
-_title: "The Interview"
-_year: "2014"
-_director: ["Evan Goldberg", "Seth Rogen", ]
-_writer: ["Dan Sterling", "Seth Rogen", "Evan Goldberg", "Dan Sterling", ]
-_cast: ["James Franco", "Seth Rogen", "Lizzy Caplan", "Randall Park", "Diana Bang", "Timothy Simons", "Reese Alexander", "James Yi", "Paul Bae", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Zene Baker", "Evan Henke", ]
-_cinematographer: ["Brandon Trost", ]
-_music: ["Henry Jackman", ]
-_genres: ["Action", ]
-_runtimes: ["112", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQzMTcwMzgyMV5BMl5BanBnXkFtZTgwMzAyMzQ2MzE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQzMTcwMzgyMV5BMl5BanBnXkFtZTgwMzAyMzQ2MzE@._V1._SX94_SY140_.jpg"
+desc: "A Entrevista. The Interview (USA, 2014). Dirigido por Evan Goldberg, Seth Rogen. Escrito por Dan Sterling, Seth Rogen, Evan Goldberg, Dan Sterling. Com James Franco, Seth Rogen, Lizzy Caplan, Randall Park, Diana Bang, Timothy Simons, Reese Alexander, James Yi, Paul Bae."
 ---
 A Entrevista é daqueles filmes que se aproveitam de um momento histórico atual para tentar chamar atenção para si mesmo, quando na verdade não passa de uma comédia medíocre construída sob uma estrutura falha que, assim como Zohan: O Agente Bom de Corte, tenta resolver um problema complexo de maneira simplória jogando ao público o que ele quer ver.
 

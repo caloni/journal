@@ -1,28 +1,12 @@
 ---
+tags: ['series', 'mrrobot']
+imdb: "4158110"
 date: "2016-09-11"
 categories: "series"
 title: "Mr. Robot"
-imdb: "4158110"
 stars: "5/5"
-tags: ['series', 'mrrobot']
-revision: [ '2017-09-02' ]
-_title: "Mr. Robot"
-_year: "2015"
-_director: ["Sam Esmail", "Jim McKay", ]
-_writer: ["Sam Esmail", "Randolph Leon", "Adam Penn", "Kyle Bradstreet", ]
-_cast: ["Rami Malek", "Carly Chaikin", "Portia Doubleday", "Martin Wallström", "Christian Slater", "Stephanie Corneliussen", "Michael Cristofer", "Sunita Mani", "Azhar Khan", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Franklin Peterson", "Philip Harrison", "John Petaja", "Sam Seig", "Sharidan Sotelo", ]
-_cinematographer: ["Tod Campbell", ]
-_music: ["Mac Quayle", ]
-_artdirection: ["Miguel López-Castillo", "Alison Ford", ]
-_costume designer: ["Catherine Marie Thomas", "Kim Wilcox", ]
-_genres: ["Crime", ]
-_runtimes: ["49", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTYzMDE2MzI4MF5BMl5BanBnXkFtZTgwNTkxODgxOTE@.jpg"
-_kind: "tv series"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTYzMDE2MzI4MF5BMl5BanBnXkFtZTgwNTkxODgxOTE@._V1._SX94_SY140_.jpg"
+revision: ['2017-09-02']
+desc: "Mr. Robot. Mr. Robot (USA, 2015). Dirigido por Sam Esmail, Jim McKay. Escrito por Sam Esmail, Randolph Leon, Adam Penn, Kyle Bradstreet. Com Rami Malek, Carly Chaikin, Portia Doubleday, Martin Wallström, Christian Slater, Stephanie Corneliussen, Michael Cristofer, Sunita Mani, Azhar Khan."
 ---
 Finalmente uma série que retrata o hacker de uma maneira realista. Mais do que isso: retrata o hacker inserido na realidade que vivemos hoje, nesse exato momento. E, por que não, alguns meses à frente?
 

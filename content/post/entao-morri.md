@@ -1,20 +1,10 @@
 ---
+tags: ['mostrasp']
 date: "2016-11-02"
 categories: "movies"
 title: "Então Morri"
 stars: "4/5"
-tags: ["mostrasp"]
-_title: "Então Morri"
-_year: "2016"
-_director: ["Bia Lessa", "Dany Roland", ]
-_writer: ["Bia Lessa", ]
-_countries: ["Brazil", ]
-_languages: ["Portuguese", ]
-_editor: ["Bia Lessa", "Julia Bernstein" ]
-_cinematographer: ["Bia Lessa", "Dany Roland", ]
-_genres: ["Documentary", ]
-_runtimes: ["89", ]
-_kind: "movie"
+desc: "Então Morri. Então Morri (Brazil, 2016). Dirigido por Bia Lessa, Dany Roland. Escrito por Bia Lessa."
 ---
 Um documentário que passa direto para nossos sentidos. Começa na morte e vai voltando pela dor, alegria, ou seja, emoções dos seus personagens da vida real.
 

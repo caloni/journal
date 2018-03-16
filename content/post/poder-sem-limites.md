@@ -1,24 +1,10 @@
 ---
-date: "2012-03-14"
 imdb: "1706593"
+date: "2012-03-14"
+categories: "movies"
 title: "Poder sem Limites"
 stars: "4/5"
-categories: "movies"
-_title: "Chronicle"
-_year: "2012"
-_director: ["Josh Trank", ]
-_writer: ["Max Landis", "Max Landis", "Josh Trank", ]
-_cast: ["Dane DeHaan", "Alex Russell", "Michael B. Jordan", "Michael Kelly", "Ashley Hinshaw", "Bo Petersen", "Anna Wood", "Rudi Malcolm", "Luke Tyler", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Elliot Greenberg", ]
-_cinematographer: ["Matthew Jensen", ]
-_genres: ["Drama", ]
-_runtimes: ["USA:84", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjEzMjYzMDQ0MV5BMl5BanBnXkFtZTcwNzE1OTM5Ng@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjEzMjYzMDQ0MV5BMl5BanBnXkFtZTcwNzE1OTM5Ng@@._V1._SX94_SY140_.jpg"
+desc: "Poder sem Limites. Chronicle (USA, 2012). Dirigido por Josh Trank. Escrito por Max Landis, Max Landis, Josh Trank. Com Dane DeHaan, Alex Russell, Michael B. Jordan, Michael Kelly, Ashley Hinshaw, Bo Petersen, Anna Wood, Rudi Malcolm, Luke Tyler."
 ---
 Entrando na onda dos filmes gravados como documentários, só que sem os problemas técnicos presentes no gênero, como a qualidade de vídeo, Poder Sem Limites explora a descoberta de três jovens de uma caverna escondida dentro de um buraco e que acaba lhes dando poderes tele cinéticos. Os motivos para isso nunca são revelados, pois o objetivo do longa é mostrar os rapazes explorando esse poder gradativamente, e como cada um deles o usa de forma particular.
 

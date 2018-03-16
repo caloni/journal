@@ -1,27 +1,11 @@
 ---
-imdb: "4677578"
-stars: "3/5"
 tags: ['netflix']
+imdb: "4677578"
 date: 2017-10-22T21:57:15
-title: "A Leoa"
 categories: "movies"
-_title: "Løvekvinnen"
-_year: "2016"
-_director: ["Vibeke Idsøe", ]
-_writer: ["Erik Fosnes Hansen", "Vibeke Idsøe", ]
-_cast: ["Rolf Lassgård (Gustav)", "Kjersti Tveterås (Hannah)", "Aurora Lindseth-Løkka (Eva)", "Mathilde Thomine Storm (Eva)", "Ida Ursin-Holm (Eva)", "Karen-Lise Mynster (Mrs. Birgerson)", "Lars Knutzon (Professor Stroem)", "Kåre Conradi (Jahnn)", "Rolf Kristian Larsen (Sparky)", ]
-_countries: ["Norway", ]
-_languages: ["Norwegian", ]
-_editor: ["Perry Eriksen", ]
-_cinematographer: ["Dan Laustsen", ]
-_music: ["Uno Helmersson", ]
-_artdirection: ["Alexander Scherer", ]
-_costume designer: ["Frauke Firl", ]
-_genres: ["Drama", ]
-_runtimes: ["126", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNmVhZDY1NDUtN2UzNS00MWViLWEyZjItNmNmODBlOWNhNmYxXkEyXkFqcGdeQXVyNjUxODU0NzU@.jpg"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNmVhZDY1NDUtN2UzNS00MWViLWEyZjItNmNmODBlOWNhNmYxXkEyXkFqcGdeQXVyNjUxODU0NzU@._V1._SX93_SY140_.jpg"
+title: "A Leoa"
+stars: "3/5"
+desc: "A Leoa. Løvekvinnen (Norway, 2016). Dirigido por Vibeke Idsøe. Escrito por Erik Fosnes Hansen, Vibeke Idsøe. Com Rolf Lassgård (Gustav), Kjersti Tveterås (Hannah), Aurora Lindseth-Løkka (Eva), Mathilde Thomine Storm (Eva), Ida Ursin-Holm (Eva), Karen-Lise Mynster (Mrs. Birgerson), Lars Knutzon (Professor Stroem), Kåre Conradi (Jahnn), Rolf Kristian Larsen (Sparky)."
 ---
 A Leoa é um filme norueguês que passaria despercebido não fosse sua produção cara e sua característica peculiar: ser um filme sobre um caso anormal que no fundo é a história da vida de uma pessoa que, independente de sua situação física, parece estar muito bem obrigado. Dessa forma, a grande "atração" do filme é servir de isca para o grande público comprar a ideia de acompanhar a vida de uma mulher que sofre de uma anomalia genética que a faz crescer pelos por todos os poros de sua pele, tendo a feição de uma leoa e digna dos bizarros shows que existiam até na primeira metade do século passado. E agora nós, espectadores de um filme de 2016, somos a plateia ainda interessada nessa história. Isso de certa forma resume como as pessoas continuam as mesmas, apesar de novas regras de conduta.
 

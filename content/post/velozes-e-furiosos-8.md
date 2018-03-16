@@ -1,29 +1,11 @@
 ---
+tags: ['cinema']
+imdb: "4630562"
 date: "2017-04-18"
 categories: "movies"
 title: "Velozes e Furiosos 8"
-imdb: "4630562"
 stars: "4/5"
-tags: ['cinema']
-_title: "The Fate of the Furious"
-_year: "2017"
-_director: ["F. Gary Gray", ]
-_writer: ["Chris Morgan", "Gary Scott Thompson", ]
-_cast: ["Vin Diesel (Dom)", "Jason Statham (Deckard)", "Dwayne Johnson (Hobbs)", "Michelle Rodriguez (Letty)", "Tyrese Gibson (Roman)", "Ludacris (Tej Parker)", "Charlize Theron (Cipher)", "Kurt Russell (Mr. Nobody)", "Nathalie Emmanuel (Ramsey)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Paul Rubell", "Christian Wagner", ]
-_cinematographer: ["Stephen F. Windon", ]
-_music: ["Brian Tyler", ]
-_artdirection: ["Andrew Max Cahn", "Jonathan Carlos", "Desma Murphy", "Jay Pelissier", "Aramís Balebona Recio", "Brian Stultz", ]
-_costume designer: ["Sanja Milkovic Hays", ]
-_genres: ["Action", ]
-_runtimes: ["136", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjMxODI2NDM5Nl5BMl5BanBnXkFtZTgwNjgzOTk1MTI@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjMxODI2NDM5Nl5BMl5BanBnXkFtZTgwNjgzOTk1MTI@._V1._SX88_SY140_.jpg"
-_releasedate: "13 April 2017"
+desc: "Velozes e Furiosos 8. The Fate of the Furious (USA, 2017). Dirigido por F. Gary Gray. Escrito por Chris Morgan, Gary Scott Thompson. Com Vin Diesel (Dom), Jason Statham (Deckard), Dwayne Johnson (Hobbs), Michelle Rodriguez (Letty), Tyrese Gibson (Roman), Ludacris (Tej Parker), Charlize Theron (Cipher), Kurt Russell (Mr. Nobody), Nathalie Emmanuel (Ramsey)."
 ---
 A série Velozes e Furiosos divide opiniões. Este é o mundo fantasioso onde motoristas/mecânicos habilidosos vivem à margem do crime e realizam manobras não apenas arriscadas, mas impossíveis. E para muitos isso é demais para acreditar. Porém, uma vez que você morda a isca tende a enxergá-lo basicamente como um filme de ação bem arquitetado ou pelo menos bem executado, com personagens com mais estilo do que verossimilhança. E depois de sete filmes, o oitavo vai fácil.
 

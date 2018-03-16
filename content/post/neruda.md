@@ -1,26 +1,11 @@
 ---
+tags: ['cabine']
+imdb: "4698584"
 date: "2016-12-12"
 categories: "movies"
 title: "Neruda"
-imdb: "4698584"
 stars: "3/5"
-tags: ['cabine']
-_title: "Neruda"
-_year: "2016"
-_director: ["Pablo Larraín", ]
-_writer: ["Guillermo Calderón", ]
-_cast: ["Gael García Bernal (Óscar Peluchonneau)", "Luis Gnecco (Pablo Neruda)", "Alfredo Castro (Gabriel González Videla)", "Pablo Derqui (Víctor Pey)", "Mercedes Morán (Delia del Carril)", "Emilio Gutiérrez Caba (Picasso)", "Alejandro Goic (Jorge Bellet)", "Marcelo Alonso (Pepe Rodríguez)", "Jaime Vadell (Arturo Alessandri)", ]
-_countries: ["Chile", ]
-_languages: ["Spanish", ]
-_editor: ["Hervé Schneid", ]
-_cinematographer: ["Sergio Armstrong", ]
-_music: ["Federico Jusid", ]
-_genres: ["Biography", ]
-_runtimes: ["107", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMzM0NDI4Mjc5NV5BMl5BanBnXkFtZTgwMTM0NzQ0MDI@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMzM0NDI4Mjc5NV5BMl5BanBnXkFtZTgwMTM0NzQ0MDI@._V1._SX94_SY140_.jpg"
+desc: "Neruda. Neruda (Chile, 2016). Dirigido por Pablo Larraín. Escrito por Guillermo Calderón. Com Gael García Bernal (Óscar Peluchonneau), Luis Gnecco (Pablo Neruda), Alfredo Castro (Gabriel González Videla), Pablo Derqui (Víctor Pey), Mercedes Morán (Delia del Carril), Emilio Gutiérrez Caba (Picasso), Alejandro Goic (Jorge Bellet), Marcelo Alonso (Pepe Rodríguez), Jaime Vadell (Arturo Alessandri)."
 ---
 Neruda é um filme divertido, selecionado para competir no Oscar (Chile), que fala sobre o poeta comunista que não tinha nada melhor pra falar. Porém, divertido mesmo é acompanhar Gael García Bernal como o diretor de polícia que vai atrás do gordinho porque... porque... porque o presidente comandado pela CIA mandou.
 

@@ -1,27 +1,11 @@
 ---
+tags: ['curtas']
+imdb: "2591814"
 date: "2016-08-06"
 categories: "blog"
-imdb: "2591814"
-stars: "4/5"
 title: "O Jardim das Palavras"
-tags: ['curtas']
-_title: "Koto no ha no niwa"
-_year: "2013"
-_director: ["Makoto Shinkai", ]
-_writer: ["Makoto Shinkai", ]
-_cast: ["Miyu Irino", "Kana Hanazawa", "Fumi Hirano", "Gou Maeda", "Takeshi Maeda", "Yuka Terasaki", "Takanori Hoshino", "Suguru Inoue", "Megumi Han", ]
-_countries: ["Japan", ]
-_languages: ["Japanese", ]
-_editor: ["Makoto Shinkai", ]
-_cinematographer: ["Makoto Shinkai", ]
-_music: ["Daisuke Kashiwa", ]
-_artdirection: ["Hiroshi Takiguchi", ]
-_genres: ["Animation", ]
-_runtimes: ["46", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNDEyYmI1MjQtNDNhYi00MmUxLTgyZmItZTU3MTJiMWIwYmFjXkEyXkFqcGdeQXVyNjQ2NjMyNzA@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNDEyYmI1MjQtNDNhYi00MmUxLTgyZmItZTU3MTJiMWIwYmFjXkEyXkFqcGdeQXVyNjQ2NjMyNzA@._V1._SX100_SY119_.jpg"
+stars: "4/5"
+desc: "O Jardim das Palavras. Koto no ha no niwa (Japan, 2013). Dirigido por Makoto Shinkai. Escrito por Makoto Shinkai. Com Miyu Irino, Kana Hanazawa, Fumi Hirano, Gou Maeda, Takeshi Maeda, Yuka Terasaki, Takanori Hoshino, Suguru Inoue, Megumi Han."
 ---
 Makoto Shinkai tem um apuro visual muito interessante. Adentrando em uma megalópole para narrar este conto intimista entre uma professora e um aluno, ele consegue encontrar os quadros perfeitos para animar e dar a sensação, através do som, de estarmos de fato experimentando um dia-a-dia naquela cidade movimentada que contém em seus dias de chuva um refúgio secreto entre duas pessoas.
 

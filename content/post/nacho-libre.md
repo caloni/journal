@@ -1,25 +1,10 @@
 ---
-date: "2014-09-20"
 imdb: "0457510"
+date: "2014-09-20"
+categories: "movies"
 title: "Nacho Libre"
 stars: "2/5"
-categories: "movies"
-_title: "Nacho Libre"
-_year: "2006"
-_director: ["Jared Hess", ]
-_writer: ["Jared Hess", "Jerusha Hess", "Mike White", ]
-_cast: ["Jack Black", "Ana de la Reguera", "Héctor Jiménez", "Darius Rose", "Moises Arias", "Diego Eduardo Gomez", "Carlos Maycotte", "Richard Montoya", "Cesar Gonzalez", ]
-_countries: ["Germany", ]
-_languages: ["English", ]
-_editor: ["Billy Weber", ]
-_cinematographer: ["Xavier Grobet", ]
-_music: ["Danny Elfman", ]
-_genres: ["Comedy", ]
-_runtimes: ["UK:92", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjE1OTQxNTk4NV5BMl5BanBnXkFtZTcwNDQzMjYzMQ@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjE1OTQxNTk4NV5BMl5BanBnXkFtZTcwNDQzMjYzMQ@@._V1._SX90_SY140_.jpg"
+desc: "Nacho Libre. Nacho Libre (Germany, 2006). Dirigido por Jared Hess. Escrito por Jared Hess, Jerusha Hess, Mike White. Com Jack Black, Ana de la Reguera, Héctor Jiménez, Darius Rose, Moises Arias, Diego Eduardo Gomez, Carlos Maycotte, Richard Montoya, Cesar Gonzalez."
 ---
 Comédias com Jack Black e Jim Carrey não são protagonizadas por atores atuando, mas antes por comediantes que usam a oportunidade para fazer suas esquisitices e deixar a plateia rir no vácuo de suas piadas muitas vezes de gosto duvidoso.
 

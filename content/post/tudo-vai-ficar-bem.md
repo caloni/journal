@@ -1,28 +1,11 @@
 ---
-date: "2016-03-01"
-tags: [ "cabine" ]
+tags: ['cabine']
 imdb: "1707380"
-stars: "4/5"
+date: "2016-03-01"
 categories: "movies"
 title: "Tudo Vai Ficar Bem"
-_title: "Every Thing Will Be Fine"
-_year: "2015"
-_director: ["Wim Wenders", ]
-_writer: ["Bjørn Olaf Johannessen", ]
-_cast: ["Rachel McAdams", "James Franco", "Peter Stormare", "Charlotte Gainsbourg", "Julia Sarah Stone", "Marie-Josée Croze", "Jack Fulton", "Patrick Bauchau", "Robert Naylor", ]
-_countries: ["Germany", ]
-_languages: ["English", ]
-_editor: ["Toni Froschhammer", ]
-_cinematographer: ["Benoît Debie", ]
-_music: ["Alexandre Desplat", ]
-_artdirection: ["Emmanuel Frechette", "Sebastian Soukup", ]
-_costume designer: ["Sophie Lefebvre", ]
-_genres: ["Drama", ]
-_runtimes: ["118", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNzQ2OTg1MTYwOF5BMl5BanBnXkFtZTgwMTY3MDA2NjE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNzQ2OTg1MTYwOF5BMl5BanBnXkFtZTgwMTY3MDA2NjE@._V1._SX97_SY140_.jpg"
+stars: "4/5"
+desc: "Tudo Vai Ficar Bem. Every Thing Will Be Fine (Germany, 2015). Dirigido por Wim Wenders. Escrito por Bjørn Olaf Johannessen. Com Rachel McAdams, James Franco, Peter Stormare, Charlotte Gainsbourg, Julia Sarah Stone, Marie-Josée Croze, Jack Fulton, Patrick Bauchau, Robert Naylor."
 ---
 Wim Wenders me chamou a atenção há alguns anos com seu Pina em versão 3D. É fascinante quando um diretor se entrega ao visual do Cinema com tanto afinco, a ponto de fazer funcionar até um roteiro sutil demais e com atores de menos, como este Tudo Vai Ficar Bem.
 

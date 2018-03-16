@@ -1,22 +1,10 @@
 ---
-date: "2010-08-06"
 imdb: "1781755"
+date: "2010-08-06"
+categories: "movies"
 title: "400 contra 1 A História do Comando Vermelho"
 stars: "1/5"
-categories: "movies"
-_title: "400 Contra 1 - Uma História do Crime Organizado"
-_year: "2010"
-_director: ["Caco Souza", ]
-_writer: ["William Lima da Silva", "Julio Ludemir", "Júlio Ludemir", "Victor Navas", ]
-_cast: ["Daniel de Oliveira", "Fabrício Boliveira", "Daniela Escobar", "Branca Messina", "Negra Li", "Lui Mendes", "Felipe Kannenberg", "Rodrigo Brassoloto", "Jonathan Azevedo", ]
-_countries: ["Brazil", ]
-_languages: ["Portuguese", ]
-_editor: ["Marcio Canella", ]
-_cinematographer: ["Rodolfo Sánchez", ]
-_music: ["Max de Castro", ]
-_genres: ["Action", ]
-_runtimes: ["Brazil:98", ]
-_kind: "movie"
+desc: "400 contra 1 A História do Comando Vermelho. 400 Contra 1 - Uma História do Crime Organizado (Brazil, 2010). Dirigido por Caco Souza. Escrito por William Lima da Silva, Julio Ludemir, Júlio Ludemir, Victor Navas. Com Daniel de Oliveira, Fabrício Boliveira, Daniela Escobar, Branca Messina, Negra Li, Lui Mendes, Felipe Kannenberg, Rodrigo Brassoloto, Jonathan Azevedo."
 ---
 Essa é a história do nascimento do Comando Vermelho, uma das quadrilhas de assalto a bancos mais organizada do Brasil. O filme oscila espasmodicamente entre os anos 70 e 80, respectivamente os anos em que os membros fundadores estavam presos, desenvolvendo os conceitos que unem o banco, e soltos, época em que o número de assaltos a bancos multiplicou-se consideravelmente, e coincidentemente a última década do regime ditatorial.
 

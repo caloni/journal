@@ -1,26 +1,11 @@
 ---
-date: "2016-04-30"
-tags: [ "cabine" ]
+tags: ['cabine']
 imdb: "4598764"
-stars: "3/5"
+date: "2016-04-30"
 categories: "movies"
 title: "Nós, Eles e Eu"
-_title: "NEY: Nosotros, ellos y yo"
-_year: "2015"
-_director: ["Nicolás Avruj", ]
-_writer: ["Nicolás Avruj", "Alejandro Dujovne", "Andrea Kleinman", ]
-_cast: ["Nur Al Levi", "Frieda Geffner", "Abu Harbed", "Sebastián Muller", "Iosef Shai", ]
-_countries: ["Argentina", ]
-_languages: ["Spanish", ]
-_editor: ["Andrea Kleinman", ]
-_cinematographer: ["Nicolás Avruj", ]
-_music: ["Simja Dujov", ]
-_artdirection: ["Giorgina Mesiano", ]
-_genres: ["Documentary", ]
-_runtimes: ["88", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNWIwYTIzNTQtYTNlMy00ZTYxLWFjNmUtMjRiYTc1YzZjMjhlXkEyXkFqcGdeQXVyMTY3MTIwMTg@.jpg"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNWIwYTIzNTQtYTNlMy00ZTYxLWFjNmUtMjRiYTc1YzZjMjhlXkEyXkFqcGdeQXVyMTY3MTIwMTg@._V1._SX98_SY140_.jpg"
+stars: "3/5"
+desc: "Nós, Eles e Eu. NEY: Nosotros, ellos y yo (Argentina, 2015). Dirigido por Nicolás Avruj. Escrito por Nicolás Avruj, Alejandro Dujovne, Andrea Kleinman. Com Nur Al Levi, Frieda Geffner, Abu Harbed, Sebastián Muller, Iosef Shai."
 ---
 Eis um dos primeiros filmes de um "isentão". Pelo menos um dos primeiros feito depois que o termo foi cunhado. Um argentino judeu leva 15 anos para editar o documentário de suas memórias gravadas da viagem que fez para a terra prometida quando mais jovem. Talvez tentando achar o equilíbrio perfeito de opiniões a respeito do conflito palestino, acaba se transformando em uma ode à covardia.
 

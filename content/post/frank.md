@@ -1,25 +1,10 @@
 ---
-date: "2015-01-04"
 imdb: "1605717"
+date: "2015-01-04"
+categories: "movies"
 title: "Frank"
 stars: "3/5"
-categories: "movies"
-_title: "Frank"
-_year: "2014"
-_director: ["Lenny Abrahamson", ]
-_writer: ["Jon Ronson", "Peter Straughan", ]
-_cast: ["Domhnall Gleeson", "Moira Brooker", "Paul Butterworth", "Phil Kingston", "Billie Traynor", "Shane O'Brien", "Scoot McNairy", "Maggie Gyllenhaal", "François Civil", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Nathan Nugent", ]
-_cinematographer: ["James Mather", ]
-_music: ["Stephen Rennicks", ]
-_genres: ["Comedy", ]
-_runtimes: ["95", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjM0OTczMTcxOV5BMl5BanBnXkFtZTgwMDU1MDUwMjE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjM0OTczMTcxOV5BMl5BanBnXkFtZTgwMDU1MDUwMjE@._V1._SX94_SY140_.jpg"
+desc: "Frank. Frank (UK, 2014). Dirigido por Lenny Abrahamson. Escrito por Jon Ronson, Peter Straughan. Com Domhnall Gleeson, Moira Brooker, Paul Butterworth, Phil Kingston, Billie Traynor, Shane O'Brien, Scoot McNairy, Maggie Gyllenhaal, François Civil."
 ---
 As bandas de música cada vez mais se medem pela quantidade de seu público online: pessoas que baixam seus singles, seguem nas redes sociais, compartilham e curtem. Porém, nem toda banda tem ou precisa de um público. São coisas independentes. Mas é claro que essa não é a opinião do jovem Jon (Domhnall Gleeson), que luta para ter a inspiração de um grande compositor e durante o processo já tem uma conta no Twitter onde compartilha sua evolução como se já fosse um pop-star.
 

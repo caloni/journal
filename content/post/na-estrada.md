@@ -1,25 +1,10 @@
 ---
-date: "2012-07-31"
 imdb: "0337692"
+date: "2012-07-31"
+categories: "movies"
 title: "Na Estrada"
 stars: "4/5"
-categories: "movies"
-_title: "On the Road"
-_year: "2012"
-_director: ["Walter Salles", ]
-_writer: ["Jack Kerouac", "Jose Rivera", ]
-_cast: ["Sam Riley", "Garrett Hedlund", "Kristen Stewart", "Amy Adams", "Tom Sturridge", "Alice Braga", "Elisabeth Moss", "Danny Morgan", "Kirsten Dunst", ]
-_countries: ["France", ]
-_languages: ["English", ]
-_editor: ["François Gédigier", ]
-_cinematographer: ["Eric Gautier", ]
-_music: ["Gustavo Santaolalla", ]
-_genres: ["Adventure", ]
-_runtimes: ["124", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTc1MzU5MDgzMF5BMl5BanBnXkFtZTcwMDQ4ODY2OA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTc1MzU5MDgzMF5BMl5BanBnXkFtZTcwMDQ4ODY2OA@@._V1._SX94_SY140_.jpg"
+desc: "Na Estrada. On the Road (France, 2012). Dirigido por Walter Salles. Escrito por Jack Kerouac, Jose Rivera. Com Sam Riley, Garrett Hedlund, Kristen Stewart, Amy Adams, Tom Sturridge, Alice Braga, Elisabeth Moss, Danny Morgan, Kirsten Dunst."
 ---
 É impressionante a capacidade que o filme tem de se manter coeso e tenso, apesar de cansativo. Porém, esse cansaço, permita-me deduzir, é proposital: estamos vendo uma história que se passa principalmente em horas de viagem, preenchidas pelos diálogos, sentimentos e sensações dos amigos/amantes de Dean Moriarty (Garrett Hedlund), uma dessas pessoas com personalidade magnética. Ele atrai inclusive o jovem escritor Sal Paradise (Sam Riley), que busca se envolver em sua vida justamente para conseguir material para seu primeiro grande livro.
 

@@ -1,23 +1,10 @@
 ---
-date: "2011-10-24"
 imdb: "1841584"
+date: "2011-10-24"
+categories: "movies"
 title: "El gato desaparece"
 stars: "4/5"
-categories: "movies"
-_title: "El gato desaparece"
-_year: "2011"
-_director: ["Carlos Sorin", ]
-_writer: ["Carlos Sorin", ]
-_cast: ["Luis Luque", "Beatriz Spelzini", "Maria Abadi", "Norma Argentina", "Gisela Aringoli", "Alejandro Javier Bures", "Emma Jayne Carlton", "Kiko Cerone", "Tristán Colombo", ]
-_countries: ["Argentina", ]
-_languages: ["Spanish", ]
-_editor: ["Mohamed Rajid", ]
-_cinematographer: ["Julián Apezteguia", ]
-_music: ["Nicolás Sorin", ]
-_genres: ["Drama", ]
-_runtimes: ["Argentina:90", ]
-_ratio: "2.35 : 1"
-_kind: "movie"
+desc: "El gato desaparece. El gato desaparece (Argentina, 2011). Dirigido por Carlos Sorin. Escrito por Carlos Sorin. Com Luis Luque, Beatriz Spelzini, Maria Abadi, Norma Argentina, Gisela Aringoli, Alejandro Javier Bures, Emma Jayne Carlton, Kiko Cerone, Tristán Colombo."
 ---
 Diferente da ótica tão comum nos filmes de encarar a loucura como uma doença trágica, Carlos Sorín dedica seus esforços em sua nova película para entreter o espectador e deixá-lo ver com seus próprios olhos que a loucura, de uma maneira geral, pode estar em todos nós, da maneira mais corriqueira e cotidiana que for. De maneira brilhante, O Desaparecimento do Gato consegue transmitir essa sensação através de inúmeras facetas.
 

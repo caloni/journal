@@ -1,24 +1,10 @@
 ---
-date: "2013-07-09"
 imdb: "1690953"
+date: "2013-07-09"
+categories: "movies"
 title: "Meu Malvado Favorito 2"
 stars: "4/5"
-categories: "movies"
-_title: "Despicable Me 2"
-_year: "2013"
-_director: ["Pierre Coffin", "Chris Renaud", ]
-_writer: ["Cinco Paul", "Ken Daurio", ]
-_cast: ["Steve Carell", "Kristen Wiig", "Benjamin Bratt", "Miranda Cosgrove", "Russell Brand", "Ken Jeong", "Steve Coogan", "Elsie Fisher", "Dana Gaier", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Gregory Perler", ]
-_music: ["Heitor Pereira", ]
-_genres: ["Animation", ]
-_runtimes: ["98", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjExNjAyNTcyMF5BMl5BanBnXkFtZTgwODQzMjQ3MDE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjExNjAyNTcyMF5BMl5BanBnXkFtZTgwODQzMjQ3MDE@._V1._SX95_SY140_.jpg"
+desc: "Meu Malvado Favorito 2. Despicable Me 2 (USA, 2013). Dirigido por Pierre Coffin, Chris Renaud. Escrito por Cinco Paul, Ken Daurio. Com Steve Carell, Kristen Wiig, Benjamin Bratt, Miranda Cosgrove, Russell Brand, Ken Jeong, Steve Coogan, Elsie Fisher, Dana Gaier."
 ---
 Apesar de suas fraquezas expostas por uma trama simplista, Meu Malvado Favorito (2010) possui momentos divertidos demais para ser esquecido (ainda mais se comparado com franquias já bem mais desgastadas, como A Era do Gelo e Madagadascar). Pegando carona no sucesso conquistado, a sua sequência explora melhor a relação entre seus personagens sem deixar de perder a sua identidade: piadas ligeiras e rasteiras que divertem pontualmente e dialogam muito bem com seu público.
 

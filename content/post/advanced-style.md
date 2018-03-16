@@ -1,24 +1,10 @@
 ---
-date: "2015-10-25"
 imdb: "3268030"
-stars: "4/5"
+date: "2015-10-25"
 categories: "movies"
 title: "Advanced Style"
-_title: "Advanced Style"
-_year: "2014"
-_director: ["Lina Plioplyte", ]
-_writer: ["Ari Cohen", "Lina Plioplyte", ]
-_cast: ["Joyce Carpati", "Ari Cohen", "Lynn Dell", "Zelda Kaplan", "Jacquie Murdock", "Debra Rapoport", "Tziporah Salamon", "Ilona Smithkin", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Michael Carter", "Yianna Dellatolla", "Hye Mee Na", ]
-_cinematographer: ["Lina Plioplyte", ]
-_music: ["Chairlift", "Daughtervision", "Matt and Kim", "Kelli Scarr", "Swear and Shake", ]
-_genres: ["Documentary", ]
-_runtimes: ["72", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjM1MDc0NTE1NV5BMl5BanBnXkFtZTgwNzY0ODMzMjE@.jpg"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjM1MDc0NTE1NV5BMl5BanBnXkFtZTgwNzY0ODMzMjE@._V1._SX93_SY140_.jpg"
+stars: "4/5"
+desc: "Advanced Style. Advanced Style (USA, 2014). Dirigido por Lina Plioplyte. Escrito por Ari Cohen, Lina Plioplyte. Com Joyce Carpati, Ari Cohen, Lynn Dell, Zelda Kaplan, Jacquie Murdock, Debra Rapoport, Tziporah Salamon, Ilona Smithkin."
 ---
 A partir do blogue do fotógrafo Ari Cohen, que iniciou este projeto de registrar as mulheres mais idosas e mais bem vestidas das ruas de Nova Iorque, o filme de Lina Plioplyte esbanja charme, espiritualidade e uma energia sobrenatural vinda da vida de sete senhoras que usam a moda e outras artes como expressão de suas avançadas vidas com um toque de humor e leveza que raramente encontramos no fim da vida. Nenhuma delas aparente as idades que têm, e é por isso que o filme faz questão de dizê-las a cada nova apresentação. A lucidez em se expressar, verbal e visualmente, além das reflexões muito bem-vindas sobre o que é este último passo em suas vidas, transforma uma experiência sem quase nenhum foco em um passeio glorioso pelo significado de viver tanto tempo e ainda descobrir mais vida na próxima esquina.
 

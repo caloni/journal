@@ -1,26 +1,11 @@
 ---
-date: "2011-12-04"
 imdb: "0078748"
+date: "2011-12-04"
+categories: "movies"
 title: "Alien o Oitavo Passageiro"
 stars: "5/5"
-categories: "movies"
-revision: [2015-11-03]
-_title: "Alien"
-_year: "1979"
-_director: ["Ridley Scott", ]
-_writer: ["Dan O'Bannon", "Ronald Shusett", "Dan O'Bannon", ]
-_cast: ["Tom Skerritt", "Sigourney Weaver", "Veronica Cartwright", "Harry Dean Stanton", "John Hurt", "Ian Holm", "Yaphet Kotto", "Bolaji Badejo", "Helen Horton", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["David Crowther", "Terry Rawlings", "Peter Weatherley", ]
-_cinematographer: ["Derek Vanlint", ]
-_music: ["Jerry Goldsmith", ]
-_genres: ["Horror", ]
-_runtimes: ["117", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTU1ODQ4NjQyOV5BMl5BanBnXkFtZTgwOTQ3NDU2MTE@.jpg"
-_ratio: "2.20 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTU1ODQ4NjQyOV5BMl5BanBnXkFtZTgwOTQ3NDU2MTE@._V1._SX93_SY140_.jpg"
+revision: [datetime.date(2015, 11, 3)]
+desc: "Alien o Oitavo Passageiro. Alien (USA, 1979). Dirigido por Ridley Scott. Escrito por Dan O'Bannon, Ronald Shusett, Dan O'Bannon. Com Tom Skerritt, Sigourney Weaver, Veronica Cartwright, Harry Dean Stanton, John Hurt, Ian Holm, Yaphet Kotto, Bolaji Badejo, Helen Horton."
 ---
 Falar de "Alien, o Oitavo Passageiro" é falar de ficção científica, terror e suspense. Todos esses gêneros estão em um grau quase equivalente na produção de 1979. Dirigido por Ridley Scott (Blade Runner, 1492, Hannibal, Gladiador) e com roteiro e história de Dan O'Bannon (A Volta dos Mortos Vivos, O Vingador do Futuro), o filme inicia no momento em que a nave Nostromo, inicialmente programada para retornar à Terra, decide acordar seus tripulantes da hibernação para averiguar um possível sinal de vida inteligente em um planeta inóspito. Sem muitas informações do que possa existir na origem do sinal é montado um grupo de exploração.
 

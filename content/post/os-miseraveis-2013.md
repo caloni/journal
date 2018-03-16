@@ -1,24 +1,10 @@
 ---
-date: "2013-02-07"
 imdb: "1707386"
+date: "2013-02-07"
+categories: "movies"
 title: "Os Miseráveis"
 stars: "3/5"
-categories: "movies"
-_title: "Les Misérables"
-_year: "2012"
-_director: ["Tom Hooper", ]
-_writer: ["William Nicholson", "Alain Boublil", "Claude-Michel Schönberg", "Herbert Kretzmer", "Alain Boublil", "Claude-Michel Schönberg", "Victor Hugo", ]
-_cast: ["Hugh Jackman", "Russell Crowe", "Anne Hathaway", "Amanda Seyfried", "Sacha Baron Cohen", "Helena Bonham Carter", "Eddie Redmayne", "Aaron Tveit", "Samantha Barks", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Chris Dickens", "Melanie Oliver", ]
-_cinematographer: ["Danny Cohen", ]
-_genres: ["Drama", ]
-_runtimes: ["158", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQ4NDI3NDg4M15BMl5BanBnXkFtZTcwMjY5OTI1OA@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQ4NDI3NDg4M15BMl5BanBnXkFtZTcwMjY5OTI1OA@@._V1._SX94_SY140_.jpg"
+desc: "Os Miseráveis. Les Misérables (USA, 2012). Dirigido por Tom Hooper. Escrito por William Nicholson, Alain Boublil, Claude-Michel Schönberg, Herbert Kretzmer, Alain Boublil, Claude-Michel Schönberg, Victor Hugo. Com Hugh Jackman, Russell Crowe, Anne Hathaway, Amanda Seyfried, Sacha Baron Cohen, Helena Bonham Carter, Eddie Redmayne, Aaron Tveit, Samantha Barks."
 ---
 Baseado em uma peça musical (que é baseado no clássico literário de Vitor Hugo), a história de Os Miseráveis se passa na França pós-revolução e gira em torno de Jean Valjean (Hugh Jackman), um ex-prisioneiro que foi condenado por ter roubado um pão e que cumpriu pena por 19 anos. Os destinos de diversos personagens se encontram com Valjean, inclusive Javert (Russell Crowe), o inspetor que cuidava das galés onde realizava trabalhos forçados, e Fantine (Anne Hathaway), mãe da pequena Cosette (Amanda Seyfried crescida) e que faz de tudo para sustentar a filha, inclusive chegando a se prostituir.
 

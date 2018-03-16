@@ -1,28 +1,11 @@
 ---
-imdb: "1605777"
-stars: "4/5"
 tags: ['netflix']
+imdb: "1605777"
 date: 2017-08-07T02:08:52
-title: "Estranha Obsessão"
 categories: "movies"
-_title: "La femme du Vème"
-_year: "2011"
-_director: ["Pawel Pawlikowski", ]
-_writer: ["Douglas Kennedy", "Pawel Pawlikowski", ]
-_cast: ["Ethan Hawke (Tom Ricks)", "Kristin Scott Thomas (Margit)", "Joanna Kulig (Ania)", "Samir Guesmi (Sezer)", "Delphine Chuillot (Nathalie)", "Julie Papillon (Chloé)", "Geoffrey Carey (Laurent)", "Mamadou Minte (Omar)", "Mohamed Aroussi (Moussa)", ]
-_countries: ["France", ]
-_languages: ["English", ]
-_editor: ["David Charap", ]
-_cinematographer: ["Ryszard Lenczewski", ]
-_music: ["Max de Wardener", ]
-_artdirection: ["Christophe Couzon", ]
-_costume designer: ["Julian Day", "Shahida Day", ]
-_genres: ["Drama", ]
-_runtimes: ["84", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc0MDE3MDgwNV5BMl5BanBnXkFtZTcwOTg3NTA5Nw@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc0MDE3MDgwNV5BMl5BanBnXkFtZTcwOTg3NTA5Nw@@._V1._SX94_SY140_.jpg"
+title: "Estranha Obsessão"
+stars: "4/5"
+desc: "Estranha Obsessão. La femme du Vème (France, 2011). Dirigido por Pawel Pawlikowski. Escrito por Douglas Kennedy, Pawel Pawlikowski. Com Ethan Hawke (Tom Ricks), Kristin Scott Thomas (Margit), Joanna Kulig (Ania), Samir Guesmi (Sezer), Delphine Chuillot (Nathalie), Julie Papillon (Chloé), Geoffrey Carey (Laurent), Mamadou Minte (Omar), Mohamed Aroussi (Moussa)."
 ---
 Pawel Pawlikowski, diretor e roteirista do mais recente e interessante Ida, traça aqui através do romance de Douglas Kennedy um thriller que vai escalando naturalmente, dando tempo ao espectador para se habituar ao drama do escritor Tom Ricks (o habilidoso Ethan Hawke), que chega em Paris em busca da fiha de seis anos e sua esposa, aparentemente possui problemas com a polícia e ainda tem sua mala e carteira roubados. A partir dessa premissa surge um suspense tenso sem forçar muito a situação. Um trabalho econômico e eficiente.
 

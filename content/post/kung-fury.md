@@ -1,24 +1,11 @@
 ---
+tags: ['curtas']
+imdb: "3472226"
 date: "2015-10-29"
 categories: "blog"
-imdb: "3472226"
-stars: "3/5"
 title: "Kung Fury"
-tags: ['curtas']
-_title: "Kung Fury"
-_year: "2015"
-_director: ["David Sandberg", ]
-_writer: ["David Sandberg", ]
-_cast: ["David Sandberg", "Jorma Taccone", "Steven Chew", "Leopold Nilsson", "Andreas Cahling", "Per-Henrik Arvidius", "Erik Hörnqvist", "Frank Sanderson", "Eleni Young", ]
-_countries: ["Sweden", ]
-_languages: ["English", ]
-_editor: ["Nils Moström", ]
-_cinematographer: ["Linus Andersson", "Mattias Andersson", "Jonas Ernhill", "Martin Gärdemalm", "Anton Hjalmarsson", "Henning Sandström", ]
-_music: ["Johan Bengtsson", "Lost Years", "Patrik Öberg", ]
-_genres: ["Short", ]
-_runtimes: ["31", ]
-_ratio: "1.85 : 1"
-_kind: "movie"
+stars: "3/5"
+desc: "Kung Fury. Kung Fury (Sweden, 2015). Dirigido por David Sandberg. Escrito por David Sandberg. Com David Sandberg, Jorma Taccone, Steven Chew, Leopold Nilsson, Andreas Cahling, Per-Henrik Arvidius, Erik Hörnqvist, Frank Sanderson, Eleni Young."
 ---
 Este curta (média?) metragem mistura anos 80, _raptors_, _cop-raptor_, arcades, Hitler, hackerismo, gostosas medievais, lasers, Thor, Kung-Fu, viagem no tempo, uma profecia e esse é apenas o começo de uma salada que apela para o absurdo usando efeitos digitais grotescos que se tornam caricatos e conseguem manter pelo menos meia-hora de um sentimento de confusão, identificação e êxtase juvenil. Afinal de contas, em que universo paralelo você pensou que veria um dinossauro lutar contra uma água dourada nazista?
 

@@ -1,25 +1,10 @@
 ---
-date: "2012-06-18"
 imdb: "0268126"
+date: "2012-06-18"
+categories: "movies"
 title: "Adaptação"
 stars: "5/5"
-categories: "movies"
-_title: "Adaptation."
-_year: "2002"
-_director: ["Spike Jonze", ]
-_writer: ["Susan Orlean", "Charlie Kaufman", "Donald Kaufman", ]
-_cast: ["Nicolas Cage", "Tilda Swinton", "Meryl Streep", "Chris Cooper", "Jay Tavare", "Litefoot", "Roger Willie", "Jim Beaver", "Cara Seymour", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Eric Zumbrunnen", ]
-_cinematographer: ["Lance Acord", ]
-_music: ["Carter Burwell", ]
-_genres: ["Comedy", ]
-_runtimes: ["114", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjAxNjMwNDQwNF5BMl5BanBnXkFtZTYwNDIzNTc2.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjAxNjMwNDQwNF5BMl5BanBnXkFtZTYwNDIzNTc2._V1._SX94_SY140_.jpg"
+desc: "Adaptação. Adaptation. (USA, 2002). Dirigido por Spike Jonze. Escrito por Susan Orlean, Charlie Kaufman, Donald Kaufman. Com Nicolas Cage, Tilda Swinton, Meryl Streep, Chris Cooper, Jay Tavare, Litefoot, Roger Willie, Jim Beaver, Cara Seymour."
 ---
 Apenas três anos após Charlie Kaufman surpreender o mundo do Cinema com Quero ser John Malkovich, um dos roteiros mais originais de todos os tempos, temos o lançamento de seu próximo trabalho que coloca como protagonista ninguém nada menos do que... Charlie Kaufman! Apesar de isso aparentar uma auto-indulgência sem limites, é preciso lembrarmos de estarmos falando de uma versão insegura, tímida e menos talentosa de Charlie Kaufman (talvez o motivo dele ser interpretado por ninguém nada menos do que Nicholas Cage, em uma surpreendente atuação dupla).
 

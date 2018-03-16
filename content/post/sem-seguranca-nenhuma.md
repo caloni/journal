@@ -1,25 +1,10 @@
 ---
-date: "2015-07-20"
 imdb: "1862079"
-stars: "3/5"
+date: "2015-07-20"
 categories: "movies"
 title: "Sem Segurança Nenhuma"
-_title: "Safety Not Guaranteed"
-_year: "2012"
-_director: ["Colin Trevorrow", ]
-_writer: ["Derek Connolly", ]
-_cast: ["Aubrey Plaza", "Lauren Carlos", "Basil Harris", "Mary Lynn Rajskub", "Jake Johnson", "Karan Soni", "David Schultz", "Jeff Garlin", "Mark Duplass", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Joe Landauer", "Franklin Peterson", ]
-_cinematographer: ["Benjamin Kasulke", ]
-_music: ["Ryan Miller", ]
-_genres: ["Comedy", ]
-_runtimes: ["USA:86", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjIzOTgyNjEzMV5BMl5BanBnXkFtZTcwNzY1ODY2Nw@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjIzOTgyNjEzMV5BMl5BanBnXkFtZTcwNzY1ODY2Nw@@._V1._SX94_SY140_.jpg"
+stars: "3/5"
+desc: "Sem Segurança Nenhuma. Safety Not Guaranteed (USA, 2012). Dirigido por Colin Trevorrow. Escrito por Derek Connolly. Com Aubrey Plaza, Lauren Carlos, Basil Harris, Mary Lynn Rajskub, Jake Johnson, Karan Soni, David Schultz, Jeff Garlin, Mark Duplass."
 ---
 Até que não incomoda tanto o fato de Sem Segurança Nenhuma não se esforçar para sair de sua própria mediocridade, pois é possível constatar durante todo o trajeto guiado pela tensão de sua premissa inicial (a viagem no tempo) que há algo de agradável em sua eloquência, mesmo que seus personagens sejam batidos, suas histórias sejam clichês e suas piadas, assim como o melancólico Regular Show, tenham viajado para o presente direto dos anos 80.
 

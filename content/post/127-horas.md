@@ -1,25 +1,10 @@
 ---
-date: "2011-02-23"
 imdb: "1542344"
-stars: "3/5"
+date: "2011-02-23"
 categories: "movies"
 title: "127 Horas"
-_title: "127 Hours"
-_year: "2010"
-_director: ["Danny Boyle", ]
-_writer: ["Danny Boyle", "Simon Beaufoy", "Aron Ralston", ]
-_cast: ["James Franco", "Kate Mara", "Amber Tamblyn", "Sean Bott", "Koleman Stinger", "Treat Williams", "John Lawrence", "Kate Burton", "Bailee Michelle Johnson", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Jon Harris", ]
-_cinematographer: ["Enrique Chediak", "Anthony Dod Mantle", ]
-_music: ["A.R. Rahman", ]
-_genres: ["Adventure", ]
-_runtimes: ["94", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTc2NjMzOTE3Ml5BMl5BanBnXkFtZTcwMDE0OTc5Mw@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTc2NjMzOTE3Ml5BMl5BanBnXkFtZTcwMDE0OTc5Mw@@._V1._SX95_SY140_.jpg"
+stars: "3/5"
+desc: "127 Horas. 127 Hours (USA, 2010). Dirigido por Danny Boyle. Escrito por Danny Boyle, Simon Beaufoy, Aron Ralston. Com James Franco, Kate Mara, Amber Tamblyn, Sean Bott, Koleman Stinger, Treat Williams, John Lawrence, Kate Burton, Bailee Michelle Johnson."
 ---
 Com uma introdução em tela cortada em três partes, mostrando diversos cenários que evocam o dia-a-dia das pessoas e, principalmente, a correria dessas pessoas para quem o tempo é um bem cada vez mais escasso, o novo longa de Danny Boyle (Quem Quer Ser Um Milionário?) nos apresenta Aaron, sem muita distinção do resto da multidão. Na verdade, ele não é muito diferente de nenhum de nós.
 

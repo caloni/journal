@@ -1,28 +1,11 @@
 ---
+tags: ['oscar']
+imdb: "0475290"
 date: "2016-08-01"
 categories: "movies"
-imdb: "0475290"
-stars: "4/5"
 title: "Ave, César!"
-tags: ['oscar']
-_title: "Hail, Caesar!"
-_year: "2016"
-_director: ["Ethan Coen", "Joel Coen", ]
-_writer: ["Joel Coen", "Ethan Coen", ]
-_cast: ["Josh Brolin", "George Clooney", "Alden Ehrenreich", "Ralph Fiennes", "Scarlett Johansson", "Tilda Swinton", "Channing Tatum", "Frances McDormand", "Jonah Hill", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Ethan Coen", "Joel Coen", ]
-_cinematographer: ["Roger Deakins", ]
-_music: ["Carter Burwell", ]
-_artdirection: ["Cara Brower", "Dawn Swiderski", ]
-_costume designer: ["Mary Zophres", ]
-_genres: ["Comedy", ]
-_runtimes: ["106", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjQyODc3MTI2NF5BMl5BanBnXkFtZTgwNDMxMjU2NzE@.jpg"
-_ratio: "1.37 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjQyODc3MTI2NF5BMl5BanBnXkFtZTgwNDMxMjU2NzE@._V1._SX88_SY140_.jpg"
+stars: "4/5"
+desc: "Ave, César!. Hail, Caesar! (UK, 2016). Dirigido por Ethan Coen, Joel Coen. Escrito por Joel Coen, Ethan Coen. Com Josh Brolin, George Clooney, Alden Ehrenreich, Ralph Fiennes, Scarlett Johansson, Tilda Swinton, Channing Tatum, Frances McDormand, Jonah Hill."
 ---
 O próprio ato de se fazer filmes é um filme em si. Os irmãos Coen (Bravura Indômita, Fargo, O Grande Lebowski) elencam um alto escalão para fazer parte de uma série de desventuras em várias produções hollywoodianas. Com diferentes gêneros, atores, diretores, roteiristas e figurantes, o filme nos convida a repensar a própria vida sob a lógica do faz-de-conta que tem encantado gerações de famílias. Até, é claro, o surgimento da TV.
 

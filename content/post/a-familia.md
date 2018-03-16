@@ -1,27 +1,10 @@
 ---
-date: "2013-10-04"
 imdb: "2404311"
-stars: "3/5"
+date: "2013-10-04"
 categories: "movies"
 title: "A Família"
-_title: "The Family"
-_year: "2013"
-_director: ["Luc Besson", ]
-_writer: ["Luc Besson", "Michael Caleo", "Tonino Benacquista", ]
-_cast: ["Robert De Niro", "Michelle Pfeiffer", "Dianna Agron", "John D'Leo", "Tommy Lee Jones", "Jimmy Palumbo", "Domenick Lombardozzi", "Stan Carp", "Vincent Pastore", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Julien Rey", ]
-_cinematographer: ["Thierry Arbogast", ]
-_music: ["Evgueni Galperine", "Sacha Galperine", ]
-_artdirection: ["Gilles Boillot", "Eric Dean", "Dominique Moisan", "Stéphane Robuchon", "Thierry Zemmour", ]
-_costume designer: ["Aude Bronson-Howard", "Olivier Bériot", ]
-_genres: ["Comedy", ]
-_runtimes: ["111", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjE2MzI0MzkyNV5BMl5BanBnXkFtZTcwMjQ2MDM2OQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjE2MzI0MzkyNV5BMl5BanBnXkFtZTcwMjQ2MDM2OQ@@._V1._SX91_SY140_.jpg"
+stars: "3/5"
+desc: "A Família. The Family (USA, 2013). Dirigido por Luc Besson. Escrito por Luc Besson, Michael Caleo, Tonino Benacquista. Com Robert De Niro, Michelle Pfeiffer, Dianna Agron, John D'Leo, Tommy Lee Jones, Jimmy Palumbo, Domenick Lombardozzi, Stan Carp, Vincent Pastore."
 ---
 Aquele filme esquecível que até que tem uma ideia interessante: proteger uma família de mafiosos. Protagonizada por Robert de Niro. Encabeçada por Michelle Pfeiffer. Assessorada por Tommy Lee Jones. O que poderia dar errado?
 

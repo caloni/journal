@@ -1,25 +1,11 @@
 ---
+tags: ['cabine']
+imdb: "5215952"
 date: "2016-12-15"
 categories: "movies"
 title: "O Lamento"
-imdb: "5215952"
 stars: "3/5"
-tags: ['cabine']
-_title: "Goksung"
-_year: "2016"
-_director: ["Hong-jin Na", ]
-_writer: ["Hong-jin Na", ]
-_cast: ["Do Won Kwak (Jong-Goo)", "Woo-hee Chun (The Woman of No-name)", "Jung-min Hwang (Il-Gwang)", "So-yeon Jang", "Han-Cheol Jo", "Hwan-hee Kim (Hyo-jin)", "Jun Kunimura (The Stranger)", ]
-_countries: ["South Korea", ]
-_languages: ["Korean", ]
-_editor: ["Sun-min Kim", ]
-_cinematographer: ["Kyung-pyo Hong", ]
-_genres: ["Drama", ]
-_runtimes: ["156", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BODkwMTgxNjA2NF5BMl5BanBnXkFtZTgwMDc0OTcwOTE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BODkwMTgxNjA2NF5BMl5BanBnXkFtZTgwMDc0OTcwOTE@._V1._SX95_SY140_.jpg"
+desc: "O Lamento. Goksung (South Korea, 2016). Dirigido por Hong-jin Na. Escrito por Hong-jin Na. Com Do Won Kwak (Jong-Goo), Woo-hee Chun (The Woman of No-name), Jung-min Hwang (Il-Gwang), So-yeon Jang, Han-Cheol Jo, Hwan-hee Kim (Hyo-jin), Jun Kunimura (The Stranger)."
 ---
 Poucos filmes de terror que eu vi são tão eficientes na estética e deficitários na história. Se bem que menos filmes ainda em que a história é muito boa, mas a estética apelativa, brutal.
 

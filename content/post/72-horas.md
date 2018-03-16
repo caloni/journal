@@ -1,25 +1,10 @@
 ---
-date: "2011-01-14"
 imdb: "1458175"
-stars: "4/5"
+date: "2011-01-14"
 categories: "movies"
 title: "72 horas"
-_title: "The Next Three Days"
-_year: "2010"
-_director: ["Paul Haggis", ]
-_writer: ["Paul Haggis", "Fred Cavayé", "Guillaume Lemans", ]
-_cast: ["Russell Crowe", "Elizabeth Banks", "Michael Buie", "Moran Atias", "Remy Nozik", "Toby Green", "Tyler Green", "Jason Beghe", "Aisha Hinds", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Jo Francis", ]
-_cinematographer: ["Stéphane Fontaine", ]
-_music: ["Danny Elfman", ]
-_genres: ["Crime", ]
-_runtimes: ["133", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjAzMjk4NjI4M15BMl5BanBnXkFtZTcwNjQ4OTEwNA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjAzMjk4NjI4M15BMl5BanBnXkFtZTcwNjQ4OTEwNA@@._V1._SX94_SY140_.jpg"
+stars: "4/5"
+desc: "72 horas. The Next Three Days (USA, 2010). Dirigido por Paul Haggis. Escrito por Paul Haggis, Fred Cavayé, Guillaume Lemans. Com Russell Crowe, Elizabeth Banks, Michael Buie, Moran Atias, Remy Nozik, Toby Green, Tyler Green, Jason Beghe, Aisha Hinds."
 ---
 Um drama contado em um ritmo adequado, que consegue avançar para um filme de ação em seu terceiro ato de forma surpreendentemente competente, visto que o filme consegue uma identificação com o drama de seus personagens, mesmo que perifericamente, e extrai disso uma emoção maior da perseguição final, pois não estamos assistindo mais um filme de perseguição qualquer.
 

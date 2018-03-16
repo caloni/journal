@@ -1,25 +1,10 @@
 ---
-date: "2014-06-15"
 imdb: "2386278"
+date: "2014-06-15"
+categories: "movies"
 title: "A Face do Mal"
 stars: "4/5"
-categories: "movies"
-_title: "Haunt"
-_year: "2013"
-_director: ["Mac Carter", ]
-_writer: ["Andrew Barrer", ]
-_cast: ["Harrison Gilbertson", "Liana Liberato", "Jacki Weaver", "Ione Skye", "Brian Wimmer", "Danielle Chuchran", "Ella Harris", "Carl Hadra", "Sebastian Michael Barr", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Tom Elkins", "Ruben Sebban", ]
-_cinematographer: ["Adam Marsden", ]
-_music: ["Reinhold Heil", ]
-_genres: ["Horror", ]
-_runtimes: ["86", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQ4MDAyNzEyNl5BMl5BanBnXkFtZTgwNjU5OTUwMTE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQ4MDAyNzEyNl5BMl5BanBnXkFtZTgwNjU5OTUwMTE@._V1._SX94_SY140_.jpg"
+desc: "A Face do Mal. Haunt (USA, 2013). Dirigido por Mac Carter. Escrito por Andrew Barrer. Com Harrison Gilbertson, Liana Liberato, Jacki Weaver, Ione Skye, Brian Wimmer, Danielle Chuchran, Ella Harris, Carl Hadra, Sebastian Michael Barr."
 ---
 O que faz um terror eficiente? Uma história convincente ou sustos convincentes? No caso de A Face do Medo, seus sustos pré-adolescentes com cortes bruscos e o volume do som aumentado é tão descartável quanto qualquer outro filmeco de terror do nosso tempo, assim como os efeitos digitais tão bonitos que perdem sua razão de existir. Porém, sua história nos convida a olhar para o sobrenatural como uma possibilidade mais aterrorizante do que os próprios fantasmas que rondam uma casa recém-habitada por uma família (e lá vamos nós para o clichê).
 

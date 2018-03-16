@@ -1,28 +1,11 @@
 ---
-date: "2016-04-02"
+tags: ['cinema', 'dceu']
 imdb: "2975590"
-stars: "3/5"
+date: "2016-04-02"
 categories: "movies"
 title: "Batman vs Superman: A Origem da Justiça"
-tags: ['cinema', 'dceu']
-_title: "Batman v Superman: Dawn of Justice"
-_year: "2016"
-_director: ["Zack Snyder", ]
-_writer: ["Chris Terrio", "David S. Goyer", "Bob Kane", "Bill Finger", "Jerry Siegel", "Joe Shuster", ]
-_cast: ["Ben Affleck", "Henry Cavill", "Amy Adams", "Jesse Eisenberg", "Diane Lane", "Laurence Fishburne", "Jeremy Irons", "Holly Hunter", "Gal Gadot", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["David Brenner", ]
-_cinematographer: ["Larry Fong", ]
-_music: ["Junkie XL", "Hans Zimmer", ]
-_artdirection: ["Patricio M. Farrell", "Lorin Flemming", "Beat Frutiger", "Gregory S. Hooper", "Kevin Ishioka", "Troy Sizemore", ]
-_costume designer: ["Michael Wilkinson", ]
-_genres: ["Action", ]
-_runtimes: ["151", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNTE5NzU3MTYzOF5BMl5BanBnXkFtZTgwNTM5NjQxODE@.jpg"
-_ratio: "1.44 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNTE5NzU3MTYzOF5BMl5BanBnXkFtZTgwNTM5NjQxODE@._V1._SX95_SY140_.jpg"
+stars: "3/5"
+desc: "Batman vs Superman: A Origem da Justiça. Batman v Superman: Dawn of Justice (USA, 2016). Dirigido por Zack Snyder. Escrito por Chris Terrio, David S. Goyer, Bob Kane, Bill Finger, Jerry Siegel, Joe Shuster. Com Ben Affleck, Henry Cavill, Amy Adams, Jesse Eisenberg, Diane Lane, Laurence Fishburne, Jeremy Irons, Holly Hunter, Gal Gadot."
 ---
 Os deuses da DC descem do Olimpo para se exibir. Não há muito o que mostrar senão uma demonstração interminável de força, poder e loucura. São tempos sinistros para amantes dos quadrinhos, mas mais sinistros ainda para cinéfilos que se enveredam pelos filmes dessa trupe que gosta de se vestir engraçado.
 

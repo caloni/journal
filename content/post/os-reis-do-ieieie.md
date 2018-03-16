@@ -1,26 +1,10 @@
 ---
-date: "2015-12-12"
 imdb: "0058182"
-stars: "4/5"
+date: "2015-12-12"
 categories: "movies"
 title: "Os Reis do Ié-Ié-Ié"
-_title: "A Hard Day's Night"
-_year: "1964"
-_director: ["Richard Lester", ]
-_writer: ["Alun Owen", ]
-_cast: ["The Beatles", "John Lennon", "Paul McCartney", "George Harrison", "Ringo Starr", "Wilfrid Brambell", "Norman Rossington", "John Junkin", "Victor Spinetti", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["John Jympson", ]
-_cinematographer: ["Gilbert Taylor", ]
-_artdirection: ["Ray Simm", ]
-_costume designer: ["Julie Harris", "Dougie Millings", ]
-_genres: ["Comedy", ]
-_runtimes: ["87", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BODQ4NjAwOTkyMl5BMl5BanBnXkFtZTgwMDk4ODA3MTE@.jpg"
-_ratio: "1.75 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BODQ4NjAwOTkyMl5BMl5BanBnXkFtZTgwMDk4ODA3MTE@._V1._SX99_SY140_.jpg"
+stars: "4/5"
+desc: "Os Reis do Ié-Ié-Ié. A Hard Day's Night (UK, 1964). Dirigido por Richard Lester. Escrito por Alun Owen. Com The Beatles, John Lennon, Paul McCartney, George Harrison, Ringo Starr, Wilfrid Brambell, Norman Rossington, John Junkin, Victor Spinetti."
 ---
 "Um filme é um documentário de sua época", dizia um crítico cujo nome não me recordo. No caso de "A Hard Day's Nigh", cinquenta anos depois, isso não poderia ser mais verdade.
 

@@ -1,26 +1,11 @@
 ---
-date: "2014-04-16"
+tags: ['swordartonline', 'series', 'netflix']
 imdb: "2250192"
+date: "2014-04-16"
+categories: "blog"
 title: "Sword Art Online - Segunda Temporada"
 stars: "3/5"
-categories: "blog"
-tags: ['swordartonline', 'series', 'netflix']
-_title: "Sword Art Online"
-_year: "2012"
-_director: ["Tomohiko Ito", "Alex Von David", "Pyeon-Gang Ho", "Yoshiyuki Fujiwara", "Yasuyuki Fuse", "Makoto Hoshino", "Shigetaka Ikeda", "Takahiro Shikama", "Tatsumi Fujii", ]
-_writer: ["Reki Kawahara", "Alex Von David", "Yukito Kizawa", "Yukie Sugawara", "Yoshikazu Mukai", "Munemasa Nakamoto", "Shûji Iriyama", "Naoki Shôji", ]
-_cast: ["Yoshitsugu Matsuoka", "Bryce Papenbrook", "Cherami Leigh", "Haruka Tomatsu", "Kanae Itô", "Ayana Taketatsu", ]
-_countries: ["Japan", ]
-_languages: ["Japanese", ]
-_editor: ["Shigeru Nishiyama", ]
-_cinematographer: ["Takeshi Hirooka", "Mutsumi Usuda", ]
-_music: ["Yuki Kajiura", ]
-_genres: ["Animation", ]
-_runtimes: ["24", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQ0NTY1NDA4Ml5BMl5BanBnXkFtZTgwODU1NTAxMzE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "tv series"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQ0NTY1NDA4Ml5BMl5BanBnXkFtZTgwODU1NTAxMzE@._V1._SX100_SY75_.jpg"
+desc: "Sword Art Online - Segunda Temporada. Sword Art Online (Japan, 2012). Dirigido por Tomohiko Ito, Alex Von David, Pyeon-Gang Ho, Yoshiyuki Fujiwara, Yasuyuki Fuse, Makoto Hoshino, Shigetaka Ikeda, Takahiro Shikama, Tatsumi Fujii. Escrito por Reki Kawahara, Alex Von David, Yukito Kizawa, Yukie Sugawara, Yoshikazu Mukai, Munemasa Nakamoto, Shûji Iriyama, Naoki Shôji. Com Yoshitsugu Matsuoka, Bryce Papenbrook, Cherami Leigh, Haruka Tomatsu, Kanae Itô, Ayana Taketatsu."
 ---
 A série japonesa de animação SAO (Sword Art Online) possui uma estrutura bem confusa. Essa segunda temporada é formada por duas histórias, assim como a primeira, mas diferente da primeira as histórias quase não têm relação.
 

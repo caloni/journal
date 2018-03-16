@@ -1,25 +1,10 @@
 ---
-date: "2013-02-10"
 imdb: "1907668"
+date: "2013-02-10"
+categories: "movies"
 title: "O Voo"
 stars: "5/5"
-categories: "movies"
-_title: "Flight"
-_year: "2012"
-_director: ["Robert Zemeckis", ]
-_writer: ["John Gatins", ]
-_cast: ["Nadine Velazquez", "Denzel Washington", "Carter Cabassa", "Adam C. Edwards", "Tamara Tunie", "Brian Geraghty", "Kelly Reilly", "Conor O'Neill", "Charlie E. Schmidt", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Jeremiah O'Driscoll", ]
-_cinematographer: ["Don Burgess", ]
-_music: ["Alan Silvestri", ]
-_genres: ["Drama", ]
-_runtimes: ["138", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTUxMjI1OTMxNl5BMl5BanBnXkFtZTcwNjc3NTY1OA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTUxMjI1OTMxNl5BMl5BanBnXkFtZTcwNjc3NTY1OA@@._V1._SX95_SY140_.jpg"
+desc: "O Voo. Flight (USA, 2012). Dirigido por Robert Zemeckis. Escrito por John Gatins. Com Nadine Velazquez, Denzel Washington, Carter Cabassa, Adam C. Edwards, Tamara Tunie, Brian Geraghty, Kelly Reilly, Conor O'Neill, Charlie E. Schmidt."
 ---
 No início do drama intimista somos apresentados a Whip Whitaker, um piloto "old-timer" que pilota um avião comercial com 102 pessoas a bordo como quem dirige um carro. Só que seu próximo voo apresentaria um defeito mecânico que o deixaria na mão. Utilizando seu instinto e habilidade, decide girar o avião de cabeça para baixo e com isso ganha impulso o suficiente para um pouso forçado em campo aberto, sendo obstruído apenas  que ironia  por uma torre de igreja. A sequência é arrebatadora por sua dramaticidade e impacto visual de um acidente em tempo real acontecendo diante de nós. Não é um espetáculo visual, mas um drama visceral ocorrendo no ar. Quando tudo termina, o resultado frio e matemático é de 6 mortes.
 

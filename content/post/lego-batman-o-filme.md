@@ -1,25 +1,11 @@
 ---
+tags: ['cinema', '3d']
+imdb: "4116284"
 date: "2017-02-12"
 categories: "movies"
 title: "LEGO Batman: O Filme"
-imdb: "4116284"
 stars: "4/5"
-tags: ['cinema', '3d']
-_title: "The LEGO Batman Movie"
-_year: "2017"
-_director: ["Chris McKay", ]
-_writer: ["Seth Grahame-Smith", "Chris McKenna", "Erik Sommers", "Jared Stern", "John Whittington", "Bob Kane", "Bill Finger", "Jerry Siegel", "Joe Shuster", ]
-_cast: ["Will Arnett (Batman / Bruce Wayne)", "Michael Cera (Robin / Dick Grayson)", "Rosario Dawson (Batgirl / Barbara Gordon)", "Ralph Fiennes (Alfred Pennyworth)", "Siri ('Puter)", "Zach Galifianakis (Joker)", "Jenny Slate (Harley Quinn)", "Jason Mantzoukas (Scarecrow)", "Conan O'Brien (The Riddler)", ]
-_countries: ["Denmark", ]
-_languages: ["English", ]
-_editor: ["David Burrows", "John Venzon", "Matt Villa", ]
-_music: ["Lorne Balfe", ]
-_genres: ["Animation", ]
-_runtimes: ["104", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTcyNTEyOTY0M15BMl5BanBnXkFtZTgwOTAyNzU3MDI@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTcyNTEyOTY0M15BMl5BanBnXkFtZTgwOTAyNzU3MDI@._V1._SX94_SY140_.jpg"
+desc: "LEGO Batman: O Filme. The LEGO Batman Movie (Denmark, 2017). Dirigido por Chris McKay. Escrito por Seth Grahame-Smith, Chris McKenna, Erik Sommers, Jared Stern, John Whittington, Bob Kane, Bill Finger, Jerry Siegel, Joe Shuster. Com Will Arnett (Batman / Bruce Wayne), Michael Cera (Robin / Dick Grayson), Rosario Dawson (Batgirl / Barbara Gordon), Ralph Fiennes (Alfred Pennyworth), Siri ('Puter), Zach Galifianakis (Joker), Jenny Slate (Harley Quinn), Jason Mantzoukas (Scarecrow), Conan O'Brien (The Riddler)."
 ---
 Dos mesmos "mestres construtores" de Uma Aventura LEGO, este Lego Batman vem para iniciar uma franquia já sugerida no original. E vira um dos melhores filmes de Batman sobre filmes de Batman já idealizados por uma criança!
 

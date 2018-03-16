@@ -1,26 +1,10 @@
 ---
-date: "2016-04-10"
 imdb: "3374966"
-stars: "3/5"
+date: "2016-04-10"
 categories: "movies"
 title: "A Máfia Mata Apenas no Verão"
-_title: "La mafia uccide solo d'estate"
-_year: "2013"
-_director: ["Pif", ]
-_writer: ["Michele Astori", "Pif", "Marco Martani", ]
-_cast: ["Cristiana Capotondi", "Pif", "Alex Bisconti", "Ginevra Antona", "Claudio Gioè", "Barbara Tabita", "Rosario Lisma", "Enzo Salomone", "Maurizio Marchetti", ]
-_countries: ["Italy", ]
-_languages: ["Italian", ]
-_editor: ["Cristiano Travaglioli", ]
-_cinematographer: ["Roberto Forza", ]
-_music: ["Santi Pulvirenti", ]
-_costume designer: ["Cristiana Ricceri", ]
-_genres: ["Comedy", ]
-_runtimes: ["90", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BODQzNTY1Mjg0MF5BMl5BanBnXkFtZTgwNDU4MjcyNjE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BODQzNTY1Mjg0MF5BMl5BanBnXkFtZTgwNDU4MjcyNjE@._V1._SX100_SY67_.jpg"
+stars: "3/5"
+desc: "A Máfia Mata Apenas no Verão. La mafia uccide solo d'estate (Italy, 2013). Dirigido por Pif. Escrito por Michele Astori, Pif, Marco Martani. Com Cristiana Capotondi, Pif, Alex Bisconti, Ginevra Antona, Claudio Gioè, Barbara Tabita, Rosario Lisma, Enzo Salomone, Maurizio Marchetti."
 ---
 Um filme político disfarçado de comédia com crianças. De quebra, usa o velho clichê de inserir acontecimentos reais sobre a máfia de Palermo, mortes reais, dentro de um romance, tentando ligá-lo, mas sem muito grude. Falta alguma originalidade no contexto dessa história.
 

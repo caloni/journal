@@ -1,27 +1,10 @@
 ---
-date: "2016-01-14"
 imdb: "2503944"
-stars: "4/5"
+date: "2016-01-14"
 categories: "movies"
 title: "Pegando Fogo"
-_title: "Burnt"
-_year: "2015"
-_director: ["John Wells", ]
-_writer: ["Steven Knight", "Michael Kalesniko", ]
-_cast: ["Bradley Cooper", "Sienna Miller", "Daniel Brühl", "Riccardo Scamarcio", "Omar Sy", "Sam Keeley", "Henry Goodman", "Matthew Rhys", "Stephen Campbell Moore", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Nick Moore", ]
-_cinematographer: ["Adriano Goldman", ]
-_music: ["Rob Simonsen", ]
-_artdirection: ["John Frankish", "Joe Howard", "Karen Schulz Gropman", ]
-_costume designer: ["Lyn Paolo", ]
-_genres: ["Comedy", ]
-_runtimes: ["101", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNjEzNTk2OTEwNF5BMl5BanBnXkFtZTgwNzExMTg0NjE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNjEzNTk2OTEwNF5BMl5BanBnXkFtZTgwNzExMTg0NjE@._V1._SX94_SY140_.jpg"
+stars: "4/5"
+desc: "Pegando Fogo. Burnt (USA, 2015). Dirigido por John Wells. Escrito por Steven Knight, Michael Kalesniko. Com Bradley Cooper, Sienna Miller, Daniel Brühl, Riccardo Scamarcio, Omar Sy, Sam Keeley, Henry Goodman, Matthew Rhys, Stephen Campbell Moore."
 ---
 Pegando Fogo é um filme de sensações mistas. Em seu roteiro, é simplesinho e clichê. Em sua direção e, principalmente, sua edição, é ágil, dinâmico e tão fluido que quase é possível esquecer sua pouca força na história.
 

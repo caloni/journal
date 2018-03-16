@@ -1,9 +1,10 @@
 ---
-date: 2018-01-17T21:05:25-02:00
-title: "A Repartição do Tempo"
-categories: "movies"
+date: 2018-01-17T23:05:25
 imdb: "6244144"
+categories: "movies"
 stars: "2/5"
+title: "A Repartição do Tempo"
+desc: "A Repartição do Tempo."
 ---
 Todos querem fazer piada com a burocracia e ineficiência de Brasília. Vamos lá, é como chutar cachorro morto. E todos querem ainda usar os xingamentos que aprenderam no Facebook: petralha e comunista. Tanto é que uma equipe inteira que recebeu dinheiro para isso decidiu fazê-lo na forma de filme. E, aparentemente, nem eles parecem levar muito a sério o que fizeram. Não dá pra culpá-los. A Repartição do Tempo usa em sua história uma máquina do tempo e o prédio de invenções e patentes (risadas incontroláveis), uma das divisões mais inúteis e ineficientes do Estado (como se eles estivessem competindo). O resultado é uma piada sem graça contada várias vezes. Se me dizessem que filme é 100% estatal, eu não duvidaria.
 

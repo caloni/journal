@@ -1,25 +1,10 @@
 ---
-date: "2013-01-21"
 imdb: "0292542"
+date: "2013-01-21"
+categories: "movies"
 title: "O Filho da Noiva"
 stars: "3/5"
-categories: "movies"
-_title: "El hijo de la novia"
-_year: "2001"
-_director: ["Juan José Campanella", ]
-_writer: ["Juan José Campanella", "Fernando Castets", ]
-_cast: ["Ricardo Darín", "Héctor Alterio", "Norma Aleandro", "Eduardo Blanco", "Natalia Verbeke", "Gimena Nóbile", "David Masajnik", "Claudia Fontán", "Atilio Pozzobon", ]
-_countries: ["Argentina", ]
-_languages: ["Spanish", ]
-_editor: ["Camilo Antolini", ]
-_cinematographer: ["Daniel Shulman", ]
-_music: ["Ángel Illarramendi", ]
-_genres: ["Comedy", ]
-_runtimes: ["123", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNjM2NzY2NzE5Nl5BMl5BanBnXkFtZTYwNzg5NTc5.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNjM2NzY2NzE5Nl5BMl5BanBnXkFtZTYwNzg5NTc5._V1._SX96_SY140_.jpg"
+desc: "O Filho da Noiva. El hijo de la novia (Argentina, 2001). Dirigido por Juan José Campanella. Escrito por Juan José Campanella, Fernando Castets. Com Ricardo Darín, Héctor Alterio, Norma Aleandro, Eduardo Blanco, Natalia Verbeke, Gimena Nóbile, David Masajnik, Claudia Fontán, Atilio Pozzobon."
 ---
 O Filho da Noiva se esforça para soar tão engraçado quanto dramático e impede que ambos os lados evoluam. Ancorando sua experiência em um personagem que vive para o trabalho que construiu em torno do restaurante que herdou dos pais (um Ricardo Darín ainda jovem) o objetivo do roteiro do diretor Juan José Campanella (O Segredo dos Seus Olhos) e de Fernando Castets (Clube da Lua, Heleno) é mostrar a curva de mudança desse personagem depois de sofrer um ataque cardíaco.
 

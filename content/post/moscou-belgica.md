@@ -1,25 +1,10 @@
 ---
-date: "2010-09-24"
 imdb: "0948530"
+date: "2010-09-24"
+categories: "movies"
 title: "Moscow Belgium"
 stars: "5/5"
-categories: "movies"
-_title: "Aanrijding in Moscou"
-_year: "2008"
-_director: ["Christophe Van Rompaey", ]
-_writer: ["Jean-Claude Van Rijckeghem", "Pat van Beirs", ]
-_cast: ["Barbara Sarafian", "Jurgen Delnaet", "Johan Heldenbergh", "Anemone Valcke", "Sofia Ferri", "Julian Borsani", "Bob De Moor", "Jits Van Belle", "Griet van Damme", ]
-_countries: ["Belgium", ]
-_languages: ["Flemish", ]
-_editor: ["Alain Dessauvage", ]
-_cinematographer: ["Ruben Impens", ]
-_music: ["Tuur Florizoone", ]
-_genres: ["Comedy", ]
-_runtimes: ["102", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQ2NTE2MDkwN15BMl5BanBnXkFtZTcwNzQwMTAyMg@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQ2NTE2MDkwN15BMl5BanBnXkFtZTcwNzQwMTAyMg@@._V1._SX94_SY140_.jpg"
+desc: "Moscow Belgium. Aanrijding in Moscou (Belgium, 2008). Dirigido por Christophe Van Rompaey. Escrito por Jean-Claude Van Rijckeghem, Pat van Beirs. Com Barbara Sarafian, Jurgen Delnaet, Johan Heldenbergh, Anemone Valcke, Sofia Ferri, Julian Borsani, Bob De Moor, Jits Van Belle, Griet van Damme."
 ---
 Essa é uma "comédia romântica" dramática que conta a história de uma mulher recém-separada que quer viver uma vida normal, mas bate o carro em um caminhão e conhece um italiano charmoso que a convida para sair. O resto é passado em uma longa história onde veremos, com nossos olhos incrédulos, a maneira deliciosa que a narrativa nos conta a evolução daquela mulher recém-separada que está literalmente acabada na primeira cena, no corredor escuro e fechado, com a câmera mais alta, fazendo compras no supermercado, e a outra, radiante, caminhando em direção ao nascer do sol do lado dos trilhos, abertos e livres.
 

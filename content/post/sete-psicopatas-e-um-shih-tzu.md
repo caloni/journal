@@ -1,27 +1,10 @@
 ---
-date: "2016-04-24"
 imdb: "1931533"
-stars: "4/5"
+date: "2016-04-24"
 categories: "movies"
 title: "Sete Psicopatas e um Shih Tzu"
-_title: "Seven Psychopaths"
-_year: "2012"
-_director: ["Martin McDonagh", ]
-_writer: ["Martin McDonagh", ]
-_cast: ["Michael Pitt", "Michael Stuhlbarg", "Sam Rockwell", "Colin Farrell", "Abbie Cornish", "Christopher Walken", "Linda Bright Clay", "Harry Dean Stanton", "James Landry Hébert", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Lisa Gunning", ]
-_cinematographer: ["Ben Davis", ]
-_music: ["Carter Burwell", ]
-_artdirection: ["John Dexter", ]
-_costume designer: ["Karen Patch", ]
-_genres: ["Comedy", ]
-_runtimes: ["110", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTgwMzUxMjc0M15BMl5BanBnXkFtZTcwMzQ2MjYyOA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTgwMzUxMjc0M15BMl5BanBnXkFtZTcwMzQ2MjYyOA@@._V1._SX94_SY140_.jpg"
+stars: "4/5"
+desc: "Sete Psicopatas e um Shih Tzu. Seven Psychopaths (UK, 2012). Dirigido por Martin McDonagh. Escrito por Martin McDonagh. Com Michael Pitt, Michael Stuhlbarg, Sam Rockwell, Colin Farrell, Abbie Cornish, Christopher Walken, Linda Bright Clay, Harry Dean Stanton, James Landry Hébert."
 ---
 Você irá rir pelos motivos errados. Este é um filme que apresenta a realidade de um escritor de Hollywood quando ele decide escrever um roteiro com sete psicopatas e zero violência. Não há a menor surpresa que ele não irá conseguir.
 

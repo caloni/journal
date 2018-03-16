@@ -1,28 +1,11 @@
 ---
+tags: ['paulocoelho', 'oscar']
+imdb: "3741834"
 date: "2017-02-17"
 categories: "movies"
 title: "Lion: Uma Jornada Para Casa"
-imdb: "3741834"
 stars: "4/5"
-tags: ['paulocoelho', 'oscar']
-_title: "Lion"
-_year: "2016"
-_director: ["Garth Davis", ]
-_writer: ["Saroo Brierley", "Luke Davies", ]
-_cast: ["Sunny Pawar (Young Saroo)", "Abhishek Bharate (Guddu)", "Priyanka Bose (Kamla)", "Khushi Solanki (Young Shekila)", "Shankar Nisode (Shankar)", "Tannishtha Chatterjee (Noor)", "Nawazuddin Siddiqui (Rawa)", "Riddhi Sen (Café Man)", "Koushik Sen (Police Official)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Alexandre de Franceschi", ]
-_cinematographer: ["Greig Fraser", ]
-_music: ["Volker Bertelmann", "Dustin O'Halloran", ]
-_costume designer: ["Cappi Ireland", ]
-_genres: ["Drama", ]
-_runtimes: ["118", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA3NjkzNjg2MF5BMl5BanBnXkFtZTgwMDkyMzgzMDI@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA3NjkzNjg2MF5BMl5BanBnXkFtZTgwMDkyMzgzMDI@._V1._SX95_SY140_.jpg"
-_releasedate: "16 February 2017"
+desc: "Lion: Uma Jornada Para Casa. Lion (USA, 2016). Dirigido por Garth Davis. Escrito por Saroo Brierley, Luke Davies. Com Sunny Pawar (Young Saroo), Abhishek Bharate (Guddu), Priyanka Bose (Kamla), Khushi Solanki (Young Shekila), Shankar Nisode (Shankar), Tannishtha Chatterjee (Noor), Nawazuddin Siddiqui (Rawa), Riddhi Sen (Café Man), Koushik Sen (Police Official)."
 ---
 Este é o filme indicado ao Oscar por fazer chorar. E por falar de um caso real, emocionante, e por falar sobre miséria e como os brancos são privilegiados. Se for um branco que fala inglês, então, nem se fala: a maioria do filme é falado em inglês.
 

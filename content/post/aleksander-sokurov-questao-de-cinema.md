@@ -1,22 +1,10 @@
 ---
-date: "2011-10-24"
 imdb: 4296736
+date: "2011-10-24"
+categories: "movies"
 title: "Aleksander Sokurov Uma Questão de Cinema"
 stars: "3/5"
-categories: "movies"
-_title: "Alexandre Sokurov: Questions de cinéma"
-_year: "2008"
-_director: ["Anne Imbert", ]
-_writer: ["Anne Imbert", ]
-_cast: ["Aleksandr Sokurov", ]
-_countries: ["France", ]
-_languages: ["Russian", ]
-_editor: ["Anne Gigleux", ]
-_cinematographer: ["Sacha Demyanenko", ]
-_music: ["Olivier Messiaen", ]
-_genres: ["Documentary", ]
-_runtimes: ["60", ]
-_kind: "movie"
+desc: "Aleksander Sokurov Uma Questão de Cinema. Alexandre Sokurov: Questions de cinéma (France, 2008). Dirigido por Anne Imbert. Escrito por Anne Imbert. Com Aleksandr Sokurov."
 ---
 Quando o diretor de A Arca Russa tem algo a falar sobre movimento e sonoridade no cinema, ou da própria questão do cinema em si, deve haver algo de importante, ou até mesmo essencial, para se captar. No entanto, Alexandre Sokurov (ou a montagem de Anne Gigleux) não é exatamente didática. É necessário, assim como o trabalho do próprio diretor-tema, sentir a ação antes dela acontecer. O resultado, como um todo, é no mínimo inspirador.
 

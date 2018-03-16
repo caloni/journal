@@ -1,25 +1,10 @@
 ---
-date: "2013-09-28"
 imdb: "0445922"
+date: "2013-09-28"
+categories: "movies"
 title: "Across the Universe"
 stars: "5/5"
-categories: "movies"
-_title: "Across the Universe"
-_year: "2007"
-_director: ["Julie Taymor", ]
-_writer: ["Dick Clement", "Ian La Frenais", "Julie Taymor", "Dick Clement", "Ian La Frenais", ]
-_cast: ["Evan Rachel Wood", "Jim Sturgess", "Joe Anderson", "Dana Fuchs", "Martin Luther", "T.V. Carpio", "Spencer Liff", "Lisa Hogg", "Nicholas Lumley", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Françoise Bonnot", ]
-_cinematographer: ["Bruno Delbonnel", ]
-_music: ["Elliot Goldenthal", ]
-_genres: ["Drama", ]
-_runtimes: ["133", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTIyMTUwNzg3Nl5BMl5BanBnXkFtZTcwMjM1MDI1MQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTIyMTUwNzg3Nl5BMl5BanBnXkFtZTcwMjM1MDI1MQ@@._V1._SX94_SY140_.jpg"
+desc: "Across the Universe. Across the Universe (USA, 2007). Dirigido por Julie Taymor. Escrito por Dick Clement, Ian La Frenais, Julie Taymor, Dick Clement, Ian La Frenais. Com Evan Rachel Wood, Jim Sturgess, Joe Anderson, Dana Fuchs, Martin Luther, T.V. Carpio, Spencer Liff, Lisa Hogg, Nicholas Lumley."
 ---
 Este não é simplesmente um musical que utiliza a trilha sonora dos Beatles. Across the Universe respira as influências da banda desde seu título até o final, recriando diversos momentos de sua "antologia" (real ou ficção) e fortalecendo suas obras em um contexto narrativo que, ainda que frágil em diversos momentos, mais do que compensa essa revisita ao universo criado e vivido por John Lennon, Paul McCartney, Ringo Starr e George Harrison.
 

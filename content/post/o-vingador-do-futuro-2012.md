@@ -1,25 +1,10 @@
 ---
-date: "2012-09-05"
 imdb: "1386703"
+date: "2012-09-05"
+categories: "movies"
 title: "O Vingador do Futuro"
 stars: "3/5"
-categories: "movies"
-_title: "Total Recall"
-_year: "2012"
-_director: ["Len Wiseman", ]
-_writer: ["Kurt Wimmer", "Mark Bomback", "Ronald Shusett", "Dan O'Bannon", "Jon Povill", "Kurt Wimmer", "Ronald Shusett", "Dan O'Bannon", "Gary Goldman", ]
-_cast: ["Colin Farrell", "Kate Beckinsale", "Jessica Biel", "Bryan Cranston", "Bokeem Woodbine", "Bill Nighy", "John Cho", "Will Yun Lee", "Milton Barnes", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Christian Wagner", ]
-_cinematographer: ["Paul Cameron", ]
-_music: ["Harry Gregson-Williams", ]
-_genres: ["Action", ]
-_runtimes: ["118", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMzQ2NzYwOTEzMl5BMl5BanBnXkFtZTcwNjExNTMxOA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMzQ2NzYwOTEzMl5BMl5BanBnXkFtZTcwNjExNTMxOA@@._V1._SX88_SY140_.jpg"
+desc: "O Vingador do Futuro. Total Recall (USA, 2012). Dirigido por Len Wiseman. Escrito por Kurt Wimmer, Mark Bomback, Ronald Shusett, Dan O'Bannon, Jon Povill, Kurt Wimmer, Ronald Shusett, Dan O'Bannon, Gary Goldman. Com Colin Farrell, Kate Beckinsale, Jessica Biel, Bryan Cranston, Bokeem Woodbine, Bill Nighy, John Cho, Will Yun Lee, Milton Barnes."
 ---
 Chega a ser impressionante a capacidade do diretor Len Wiseman (da "saga" Anjos da Noite/Underworld) em empregar sequências de ação descerebradas mas completamente extasiantes. Durante as quase duas horas de projeção somos jogados em uma realidade sci-fi não apenas verossímil, mas igualmente surreal. A direção de arte de Patrick Banister (Sucker Punch, Mandando Bala, Blade: Trinity) recria o mundo do original com Arnold Schwarzenegger no mesmo clima arrebatador que os efeitos visuais da época causaram.
 

@@ -1,25 +1,10 @@
 ---
-date: "2012-10-03"
 imdb: "0052357"
+date: "2012-10-03"
+categories: "movies"
 title: "Um Corpo Que Cai"
 stars: "5/5"
-categories: "movies"
-_title: "Vertigo"
-_year: "1958"
-_director: ["Alfred Hitchcock", ]
-_writer: ["Alec Coppel", "Samuel A. Taylor", "Pierre Boileau", "Thomas Narcejac", "Maxwell Anderson", ]
-_cast: ["James Stewart", "Kim Novak", "Barbara Bel Geddes", "Tom Helmore", "Henry Jones", "Raymond Bailey", "Ellen Corby", "Konstantin Shayne", "Lee Patrick", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["George Tomasini", ]
-_cinematographer: ["Robert Burks", ]
-_music: ["Bernard Herrmann", ]
-_genres: ["Mystery", ]
-_runtimes: ["128", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNzY0NzQyNzQzOF5BMl5BanBnXkFtZTcwMTgwNTk4OQ@@.jpg"
-_ratio: "1.50 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNzY0NzQyNzQzOF5BMl5BanBnXkFtZTcwMTgwNTk4OQ@@._V1._SX93_SY140_.jpg"
+desc: "Um Corpo Que Cai. Vertigo (USA, 1958). Dirigido por Alfred Hitchcock. Escrito por Alec Coppel, Samuel A. Taylor, Pierre Boileau, Thomas Narcejac, Maxwell Anderson. Com James Stewart, Kim Novak, Barbara Bel Geddes, Tom Helmore, Henry Jones, Raymond Bailey, Ellen Corby, Konstantin Shayne, Lee Patrick."
 ---
 No topo da lista de melhores filmes de todos os tempos, Cidadão Kane, em 2012, deixa a respeitável posição para o suspense Um Corpo que Cai. É uma notícia que não muda em praticamente nada a importância da obra de Orson Welles para o Cinema, mas altera a percepção do espectador médio para com a Sétima Arte. Se antes as pessoas não enxergavam como que fosse possível que um filme preto e branco recheado de diálogos e múltiplos pontos de vista  uma bagunça, enfim  pudesse ser considerada a obra máxima audiovisual, com o filme de Hitchcock as coisas ficam um pouco mais fáceis.
 

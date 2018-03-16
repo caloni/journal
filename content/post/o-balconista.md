@@ -1,24 +1,10 @@
 ---
-date: "2013-10-20"
 imdb: "0109445"
+date: "2013-10-20"
+categories: "movies"
 title: "O Balconista"
 stars: "3/5"
-categories: "movies"
-_title: "Clerks"
-_year: "1994"
-_director: ["Kevin Smith", ]
-_writer: ["Kevin Smith", ]
-_cast: ["Brian O'Halloran", "Jeff Anderson", "Marilyn Ghigliotti", "Lisa Spoonauer", "Jason Mewes", "Kevin Smith", "Scott Mosier", "Scott Schiaffo", "Al Berkowitz", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Scott Mosier", "Kevin Smith", ]
-_cinematographer: ["David Klein", ]
-_genres: ["Comedy", ]
-_runtimes: ["92", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTg3MTkyMzA0NF5BMl5BanBnXkFtZTgwNTg0NDI1MDE@.jpg"
-_ratio: "1.37 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTg3MTkyMzA0NF5BMl5BanBnXkFtZTgwNTg0NDI1MDE@._V1._SX91_SY140_.jpg"
+desc: "O Balconista. Clerks (USA, 1994). Dirigido por Kevin Smith. Escrito por Kevin Smith. Com Brian O'Halloran, Jeff Anderson, Marilyn Ghigliotti, Lisa Spoonauer, Jason Mewes, Kevin Smith, Scott Mosier, Scott Schiaffo, Al Berkowitz."
 ---
 Primeiro longa do diretor Kevin Smith, O Balconista não poderia deixar de ter algo a mais dos outros filmes que o trouxesse para os holofotes. No entanto, quase 20 anos depois, ele permanece como um dos filmes esquecidos que não merece ser revisitado.
 

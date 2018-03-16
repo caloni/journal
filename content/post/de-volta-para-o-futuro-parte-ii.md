@@ -1,27 +1,11 @@
 ---
-date: "2012-07-20"
 imdb: "0096874"
-title: "De Volta para o Futuro Parte II"
 date: 2016-03-20
-revision: [2016-03-18]
-stars: "5/5"
 categories: "movies"
-_title: "Back to the Future Part II"
-_year: "1989"
-_director: ["Robert Zemeckis", ]
-_writer: ["Robert Zemeckis", "Bob Gale", "Robert Zemeckis", "Bob Gale", "Bob Gale", ]
-_cast: ["Michael J. Fox", "Christopher Lloyd", "Lea Thompson", "Thomas F. Wilson", "Elisabeth Shue", "James Tolkan", "Jeffrey Weissman", "Casey Siemaszko", "Billy Zane", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Harry Keramidas", "Arthur Schmidt", ]
-_cinematographer: ["Dean Cundey", ]
-_music: ["Alan Silvestri", ]
-_genres: ["Adventure", ]
-_runtimes: ["108", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNjE5ODg4NzY1MF5BMl5BanBnXkFtZTcwMjI3MzYwMg@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNjE5ODg4NzY1MF5BMl5BanBnXkFtZTcwMjI3MzYwMg@@._V1._SX100_SY136_.jpg"
+title: "De Volta para o Futuro Parte II"
+stars: "5/5"
+revision: [datetime.date(2016, 3, 18)]
+desc: "De Volta para o Futuro Parte II. Back to the Future Part II (USA, 1989). Dirigido por Robert Zemeckis. Escrito por Robert Zemeckis, Bob Gale, Robert Zemeckis, Bob Gale, Bob Gale. Com Michael J. Fox, Christopher Lloyd, Lea Thompson, Thomas F. Wilson, Elisabeth Shue, James Tolkan, Jeffrey Weissman, Casey Siemaszko, Billy Zane."
 ---
 Quatro anos depois do sucesso do filme sobre viagem no tempo, o diretor Robert Semeckis e seu companheiro de roteirização Bob Gale planejam uma continuação em duas partes, o que criaria um desfecho de uma trilogia em dois passos. Para isso, dois roteiros foram produzidos e filmados praticamente ao mesmo tempo.
 

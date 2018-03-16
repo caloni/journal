@@ -1,24 +1,10 @@
 ---
-date: "2015-01-02"
 imdb: "2113659"
+date: "2015-01-02"
+categories: "movies"
 title: "Elsa e Fred"
 stars: "3/5"
-categories: "movies"
-_title: "Elsa & Fred"
-_year: "2014"
-_director: ["Michael Radford", ]
-_writer: ["Anna Pavignano", "Michael Radford", ]
-_cast: ["Shirley MacLaine", "Christopher Plummer", "Marcia Gay Harden", "Scott Bakula", "Chris Noth", "George Segal", "James Brolin", "Erika Alexander", "Wendell Pierce", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Peter Boyle", ]
-_cinematographer: ["Michael McDonough", ]
-_genres: ["Comedy", ]
-_runtimes: ["97", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjM4MzIyNzQ1N15BMl5BanBnXkFtZTgwMjQyNzY3MjE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjM4MzIyNzQ1N15BMl5BanBnXkFtZTgwMjQyNzY3MjE@._V1._SX95_SY140_.jpg"
+desc: "Elsa e Fred. Elsa & Fred (USA, 2014). Dirigido por Michael Radford. Escrito por Anna Pavignano, Michael Radford. Com Shirley MacLaine, Christopher Plummer, Marcia Gay Harden, Scott Bakula, Chris Noth, George Segal, James Brolin, Erika Alexander, Wendell Pierce."
 ---
 "A noção de felicidade na sociedade atual acaba a tornando inalcançável. Quanto mais busca-se o mundo ideal, mais perde-se a satisfação do real". É com essa introdução que inicio minha crítica ao original Elsa e Fred, de 2005, comparando como o ideal de todos nós se subverte com a dura realidade de uma velhinha no fim de sua vida que insiste em viver a despeito das imperfeições em sua volta. O remake americano, apesar dos ótimos esforços de Shirley MacLaine e Christopher Plummer, é sabotado por uma direção que tenta justamente fazer o contrário do que o espírito do filme ordena.
 

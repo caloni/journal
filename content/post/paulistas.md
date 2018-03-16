@@ -1,9 +1,10 @@
 ---
-date: 2018-02-10T20:30:31-02:00
-title: "Paulistas"
-categories: "movies"
+date: 2018-02-10T22:30:31
 imdb: "7115328"
+categories: "movies"
 stars: "3/5"
+title: "Paulistas"
+desc: "Paulistas."
 ---
 Paulistas é um documentário que, de acordo com o diretor, Daniel Nolasco, quer registrar as causas do êxodo rural de uma região de Goiás (incluindo ele próprio), mas que acaba, apesar da sequência de imagens evocativas, sendo "apenas" um registro de atividades simples, "humildes" e tradicionais da região interiorana de Goiás, e por que não, do ser humano trabalhando terra e animais.
 

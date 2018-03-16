@@ -1,25 +1,10 @@
 ---
-date: "2015-01-15"
 imdb: "2103281"
+date: "2015-01-15"
+categories: "movies"
 title: "Planeta dos Macacos: O Confronto"
 stars: "4/5"
-categories: "movies"
-_title: "Dawn of the Planet of the Apes"
-_year: "2014"
-_director: ["Matt Reeves", ]
-_writer: ["Mark Bomback", "Rick Jaffa", "Amanda Silver", "Rick Jaffa", "Amanda Silver", "Pierre Boulle", ]
-_cast: ["Andy Serkis", "Jason Clarke", "Gary Oldman", "Keri Russell", "Toby Kebbell", "Kodi Smit-McPhee", "Kirk Acevedo", "Nick Thurston", "Terry Notary", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["William Hoy", "Stan Salfas", ]
-_cinematographer: ["Michael Seresin", ]
-_music: ["Michael Giacchino", ]
-_genres: ["Action", ]
-_runtimes: ["130", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTgwODk3NDc1N15BMl5BanBnXkFtZTgwNTc1NjQwMjE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTgwODk3NDc1N15BMl5BanBnXkFtZTgwNTc1NjQwMjE@._V1._SX94_SY140_.jpg"
+desc: "Planeta dos Macacos: O Confronto. Dawn of the Planet of the Apes (USA, 2014). Dirigido por Matt Reeves. Escrito por Mark Bomback, Rick Jaffa, Amanda Silver, Rick Jaffa, Amanda Silver, Pierre Boulle. Com Andy Serkis, Jason Clarke, Gary Oldman, Keri Russell, Toby Kebbell, Kodi Smit-McPhee, Kirk Acevedo, Nick Thurston, Terry Notary."
 ---
 A raça humana foi dizimada por uma gripe. O fato do vírus ter vindo de um macaco não teria significado nada se esse animal não tivesse agora inteligência e aparentemente uma consciência, ainda que coletiva. Agora vocês vão me perdoar, mas essa "consciência coletiva" dá asas para a imaginação. Você pode falar que o filme é uma metáfora da libertação de grupos étnicos, tribais, religiosos, povos subdesenvolvidos e virtualmente qualquer massa rotulada. Eu prefiro ver apenas um filme sobre macacos, pois obviamente a questão sobre o que o ele representa foge à compreensão do próprio filme e adentra a nossa cultura com todas as forças. Se você tiver obsessões políticas, qualquer que seja sua posição, vai gostar do enredo porque ele lida com força, poder e supremacia (além da possibilidade bem remota de paz).
 

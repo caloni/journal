@@ -1,27 +1,10 @@
 ---
+imdb: "2400463"
 date: "2016-07-16"
 categories: "movies"
-imdb: "2400463"
-stars: "4/5"
 title: "the Invitation"
-_title: "The Invitation"
-_year: "2015"
-_director: ["Karyn Kusama", ]
-_writer: ["Phil Hay", "Matt Manfredi", ]
-_cast: ["Logan Marshall-Green", "Emayatzy Corinealdi", "Aiden Lovekamp", "Michelle Krusiec", "Mike Doyle", "Jordi Vilasuso", "Jay Larson", "Marieh Delfino", "Tammy Blanchard", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Plummy Tucker", ]
-_cinematographer: ["Bobby Shore", ]
-_music: ["Theodore Shapiro", ]
-_artdirection: ["Tom Obed", ]
-_costume designer: ["Alysia Raycraft", ]
-_genres: ["Horror", ]
-_runtimes: ["100", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTkzODMwNDkzOF5BMl5BanBnXkFtZTgwNDA4NzA1ODE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTkzODMwNDkzOF5BMl5BanBnXkFtZTgwNDA4NzA1ODE@._V1._SX96_SY140_.jpg"
+stars: "4/5"
+desc: "the Invitation. The Invitation (USA, 2015). Dirigido por Karyn Kusama. Escrito por Phil Hay, Matt Manfredi. Com Logan Marshall-Green, Emayatzy Corinealdi, Aiden Lovekamp, Michelle Krusiec, Mike Doyle, Jordi Vilasuso, Jay Larson, Marieh Delfino, Tammy Blanchard."
 ---
 Esse filme de 2015 não estreou nos cinemas do Brasil, mas graças à Netflix -- que não precisa de nenhuma cota idiota -- ele está disponível para espectadores caseiros. Se trata de um thriller travestido de drama, com todos os atores desconhecidos, algumas técnicas batidas e um certo gosto de estranheza que acompanha a tela pela maioria do tempo.
 

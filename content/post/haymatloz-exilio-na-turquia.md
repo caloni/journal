@@ -1,23 +1,11 @@
 ---
+tags: ['mostrasp']
+imdb: "1121024"
 date: "2016-10-31"
 categories: "movies"
 title: "Haymatloz - Exílio na Turquia"
-imdb: "1121024"
 stars: "1/5"
-tags: ['mostrasp']
-_title: "Import-Export - Eine Reise in die deutsch-türkische Vergangenheit"
-_year: "2006"
-_director: ["Eren Önsöz", ]
-_writer: ["Eren Önsöz", ]
-_cast: ["Götz Aly", "Ayhan Ayrilmaz", "Cornelius Bischoff", "Christoph Daum", "Gültekin Emre", "Hartmut Heller", "Jörg Hustiak (Narrator)", "Rudi Höhnow", "Bayram Kaya", ]
-_countries: ["Germany", ]
-_languages: ["German", ]
-_cinematographer: ["Holger Hahn", "Eren Önsöz", ]
-_music: ["Joachim Becker", ]
-_genres: ["Documentary", ]
-_runtimes: ["90", ]
-_ratio: "1.33 : 1"
-_kind: "movie"
+desc: "Haymatloz - Exílio na Turquia. Import-Export - Eine Reise in die deutsch-türkische Vergangenheit (Germany, 2006). Dirigido por Eren Önsöz. Escrito por Eren Önsöz. Com Götz Aly, Ayhan Ayrilmaz, Cornelius Bischoff, Christoph Daum, Gültekin Emre, Hartmut Heller, Jörg Hustiak (Narrator), Rudi Höhnow, Bayram Kaya."
 ---
 Este é um documentário quase televisivo, descritivo, que não tem praticamente nada a falar. Burocrático do começo ao fim, tem por objetivo uma homenagem aos professores expulsos da Alemanha Nazista que lecionaram em Istambul, na Turquia, além de alguns na Suíça. Seus filhos e netos voltam, então, às origens e o que vemos acaba por aí.
 

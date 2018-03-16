@@ -1,24 +1,10 @@
 ---
-date: "2013-07-01"
 imdb: "0098635"
+date: "2013-07-01"
+categories: "movies"
 title: "Harry e Sally"
 stars: "5/5"
-categories: "movies"
-_title: "When Harry Met Sally..."
-_year: "1989"
-_director: ["Rob Reiner", ]
-_writer: ["Nora Ephron", ]
-_cast: ["Billy Crystal", "Meg Ryan", "Carrie Fisher", "Bruno Kirby", "Steven Ford", "Lisa Jane Persky", "Michelle Nicastro", "Gretchen Palmer", "Robert Alan Beuth", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Robert Leighton", ]
-_cinematographer: ["Barry Sonnenfeld", ]
-_genres: ["Comedy", ]
-_runtimes: ["96", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjE0ODEwNjM2NF5BMl5BanBnXkFtZTcwMjU2Mzg3NA@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjE0ODEwNjM2NF5BMl5BanBnXkFtZTcwMjU2Mzg3NA@@._V1._SX93_SY140_.jpg"
+desc: "Harry e Sally. When Harry Met Sally... (USA, 1989). Dirigido por Rob Reiner. Escrito por Nora Ephron. Com Billy Crystal, Meg Ryan, Carrie Fisher, Bruno Kirby, Steven Ford, Lisa Jane Persky, Michelle Nicastro, Gretchen Palmer, Robert Alan Beuth."
 ---
 Nora Ephron morreu ano passado. Escreveu e dirigiu trabalhos desde os anos 80 que hoje são agradáveis passeios pelas origens da comédia romântica como hoje a vemos (ainda que algumas bem datadas, como A Difícil Arte de Amar). No entanto, "Harry & Sally", comparado com a média das com-rom atuais, possui virtudes o suficiente para elevá-lo à categoria de grande filme.
 

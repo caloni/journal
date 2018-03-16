@@ -1,27 +1,10 @@
 ---
-date: "2016-01-22"
 imdb: "0448157"
-stars: "2/5"
+date: "2016-01-22"
 categories: "movies"
 title: "Hancock"
-_title: "Hancock"
-_year: "2008"
-_director: ["Peter Berg", ]
-_writer: ["Vincent Ngo", "Vince Gilligan", ]
-_cast: ["Will Smith", "Charlize Theron", "Jason Bateman", "Jae Head", "Eddie Marsan", "David Mattey", "Maetrix Fitten", "Thomas Lennon", "Johnny Galecki", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Colby Parker Jr.", "Paul Rubell", ]
-_cinematographer: ["Tobias A. Schliessler", ]
-_music: ["John Powell", ]
-_artdirection: ["William Hawkins", "Dawn Swiderski", ]
-_costume designer: ["Louise Mingenbach", ]
-_genres: ["Action", ]
-_runtimes: ["92", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTgyMzc4ODU3NV5BMl5BanBnXkFtZTcwNjk5Mzc1MQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTgyMzc4ODU3NV5BMl5BanBnXkFtZTcwNjk5Mzc1MQ@@._V1._SX94_SY140_.jpg"
+stars: "2/5"
+desc: "Hancock. Hancock (USA, 2008). Dirigido por Peter Berg. Escrito por Vincent Ngo, Vince Gilligan. Com Will Smith, Charlize Theron, Jason Bateman, Jae Head, Eddie Marsan, David Mattey, Maetrix Fitten, Thomas Lennon, Johnny Galecki."
 ---
 Imagine que existe um super-herói que não gosta que lhe chamem de "asshole" (idiota na legenda brasileira, mas em inglês um xingamento que remete ao orifício anal). A maneira mais comum dele ameaçar quem lhe incomoda é enfiar a cabeça de um no orifício anal do outro. Achou engraçado? Se sim, esse é um filme de ação que você não pode perder. Se não, então talvez seja melhor assistir um filme da Marvel menos pretencioso (já viu Guardiões da Galáxia?).
 

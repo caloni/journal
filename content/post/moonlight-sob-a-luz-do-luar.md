@@ -1,28 +1,11 @@
 ---
+tags: ['cabine', 'oscar']
+imdb: "4975722"
 date: "2017-01-12"
 categories: "movies"
 title: "Moonlight: Sob a Luz do Luar"
-imdb: "4975722"
 stars: "3/5"
-tags: ['cabine', 'oscar']
-_title: "Moonlight"
-_year: "2016"
-_director: ["Barry Jenkins", ]
-_writer: ["Barry Jenkins", "Tarell Alvin McCraney", ]
-_cast: ["Mahershala Ali (Juan)", "Shariff Earp (Terrence)", "Duan Sanderson (Azu)", "Alex R. Hibbert (Little)", "Janelle Monáe (Teresa)", "Naomie Harris (Paula)", "Jaden Piner (Kevin)", "Herman 'Caheei McGloun (Longshoreman)", "Kamal Ani-Bellow (Portable Boy 1)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Joi McMillon", "Nat Sanders", ]
-_cinematographer: ["James Laxton", ]
-_music: ["Nicholas Britell", ]
-_artdirection: ["Mabel Barba", ]
-_costume designer: ["Caroline Eselin", ]
-_genres: ["Drama", ]
-_runtimes: ["111", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNzQxNTIyODAxMV5BMl5BanBnXkFtZTgwNzQyMDA3OTE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNzQxNTIyODAxMV5BMl5BanBnXkFtZTgwNzQyMDA3OTE@._V1._SX94_SY140_.jpg"
+desc: "Moonlight: Sob a Luz do Luar. Moonlight (USA, 2016). Dirigido por Barry Jenkins. Escrito por Barry Jenkins, Tarell Alvin McCraney. Com Mahershala Ali (Juan), Shariff Earp (Terrence), Duan Sanderson (Azu), Alex R. Hibbert (Little), Janelle Monáe (Teresa), Naomie Harris (Paula), Jaden Piner (Kevin), Herman 'Caheei McGloun (Longshoreman), Kamal Ani-Bellow (Portable Boy 1)."
 ---
 O que faz um filme notório? É seu estilo? Ou a história que quer contar? Ou seriam os dois? Moonlight, do diretor/roteirista Barry Jenkins, tem uma bela história com personagens de alguma forma genéricos, em uma época genérica, mas com alguns pequenos traços... genéricos também. E isso é narrado através de uma estilo forte, que bate no enquadramento, bate na trilha sonora, bate na fotografia, mas em nenhum deles parece conseguir extrair significado dessa história. Perdido com diálogos óbvios e atores mecanizados, o que temos é um filme muito bonito, desses que quem gosta de "filme de arte" deve gostar, mas que não diz muita coisa ou se posiciona sobre nada.
 

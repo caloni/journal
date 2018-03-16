@@ -1,25 +1,10 @@
 ---
-date: "2010-05-14"
 imdb: "1285246"
+date: "2010-05-14"
+categories: "movies"
 title: "Mademoiselle Chambon"
 stars: "4/5"
-categories: "movies"
-_title: "Mademoiselle Chambon"
-_year: "2009"
-_director: ["Stéphane Brizé", ]
-_writer: ["Stéphane Brizé", "Florence Vignon", "Eric Holder", ]
-_cast: ["Vincent Lindon", "Sandrine Kiberlain", "Aure Atika", "Jean-Marc Thibault", "Arthur Le Houérou", "Bruno Lochet", "Abdellah Moundy", "Michelle Goddet", "Anne Houdy", ]
-_countries: ["France", ]
-_languages: ["French", ]
-_editor: ["Anne Klotz", ]
-_cinematographer: ["Antoine Héberlé", ]
-_music: ["Ange Ghinozzi", ]
-_genres: ["Drama", ]
-_runtimes: ["France:101", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNTA1NjA2NzMzNV5BMl5BanBnXkFtZTcwMjgyMDMzNA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNTA1NjA2NzMzNV5BMl5BanBnXkFtZTcwMjgyMDMzNA@@._V1._SX99_SY140_.jpg"
+desc: "Mademoiselle Chambon. Mademoiselle Chambon (France, 2009). Dirigido por Stéphane Brizé. Escrito por Stéphane Brizé, Florence Vignon, Eric Holder. Com Vincent Lindon, Sandrine Kiberlain, Aure Atika, Jean-Marc Thibault, Arthur Le Houérou, Bruno Lochet, Abdellah Moundy, Michelle Goddet, Anne Houdy."
 ---
 Mademoiselle Chambon é daqueles filmes um tanto naturalistas, em que você precisa prestar atenção, mas não muita, para perceber a relação sutil entre os personagens, e os acontecimentos poderiam ter sido narrados de eventos da vida real e não soariam fantásticos. A bem da verdade, o núcleo narrativo do filme de Stéphane Brizé com certeza já deve ter acontecido na realidade uma série de vezes. A virtude do filme é conseguir representar isso sem escandalizar em demasiado, se focando nos personagens.
 

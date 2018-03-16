@@ -1,25 +1,11 @@
 ---
-date: "2014-06-20"
+tags: ['ahs', 'series']
 imdb: "1844624"
+date: "2014-06-20"
+categories: "blog"
 title: "História de Horror Americana - Asylum"
 stars: "4/5"
-categories: "blog"
-tags: ['ahs', 'series']
-_title: "American Horror Story"
-_year: "2011"
-_director: ["Alfonso Gomez-Rejon", "Bradley Buecker", "Michael Uppendahl", "Michael Lehmann", "David Semel", "Howard Deutch", "Ryan Murphy", "Jeremy Podeswa", "Michael Rymer", ]
-_writer: ["Brad Falchuk", "Ryan Murphy", "Jennifer Salt", "Jessica Sharzer", "Tim Minear", "James Wong", "Crystal Liu", "John J. Gray", "Todd Kubrak", ]
-_cast: ["Evan Peters", "Jessica Lange", "Sarah Paulson", "Frances Conroy", "Denis O'Hare", "Lily Rabe", "Emma Roberts", "Kathy Bates", "Taissa Farmiga", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Fabienne Bouville", "Adam Penn", "Stewart Schill", "Bradley Buecker", "Regis Kimble", "Robert Komatsu", ]
-_cinematographer: ["Michael Goi", "John B. Aronson", "Tom Houghton", ]
-_music: ["James S. Levine", "Mac Quayle", ]
-_genres: ["Drama", ]
-_runtimes: ["USA:60::(with commercials)", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjA1MzAwNjYzMl5BMl5BanBnXkFtZTgwMDg1ODU3MjE@.jpg"
-_kind: "tv series"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjA1MzAwNjYzMl5BMl5BanBnXkFtZTgwMDg1ODU3MjE@._V1._SX93_SY140_.jpg"
+desc: "História de Horror Americana - Asylum. American Horror Story (USA, 2011). Dirigido por Alfonso Gomez-Rejon, Bradley Buecker, Michael Uppendahl, Michael Lehmann, David Semel, Howard Deutch, Ryan Murphy, Jeremy Podeswa, Michael Rymer. Escrito por Brad Falchuk, Ryan Murphy, Jennifer Salt, Jessica Sharzer, Tim Minear, James Wong, Crystal Liu, John J. Gray, Todd Kubrak. Com Evan Peters, Jessica Lange, Sarah Paulson, Frances Conroy, Denis O'Hare, Lily Rabe, Emma Roberts, Kathy Bates, Taissa Farmiga."
 ---
 A segunda temporada de American Horror Story utiliza outra história, outros personagens  com alguns atores da temporada anterior  e outros dramas. Porém, o que permanece marca registrada da série é a maldade. Não a maldade dos demônios espirituais que dominam as trevas, nem dos E.T.s (se há demônios, por que não aliens?) que nos tratam como ratos de laboratório. Essa maldade é fictícia, metafórica demais para que cause algum impacto além do gráfico. A maior maldade ainda continua sendo a do próprio ser humano. Essa é visível nos olhares da inveja, ódio, loucura, medo. É palpável em suas ações. Rotuladores como seres sociais por natureza, não haveria nada com maior senso de comunidade e solidariedade do que um asilo para deficientes mentais. No entanto, homenageando novamente outra grande obra cinematográfica (estou falando, claro, de Um Estranho no Ninho), o Asilo Briarcliff é um simulacro da nossa sociedade para o estudo da crueldade.
 

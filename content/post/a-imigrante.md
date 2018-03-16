@@ -1,28 +1,11 @@
 ---
+tags: ['netflix']
+imdb: "1951181"
 date: "2016-11-17"
 categories: "movies"
 title: "Era Uma Vez em Nova York"
-imdb: "1951181"
 stars: "4/5"
-tags: ['netflix']
-_title: "The Immigrant"
-_year: "2013"
-_director: ["James Gray", ]
-_writer: ["James Gray", "Ric Menello", ]
-_cast: ["Marion Cotillard (Ewa Cybulska)", "Joaquin Phoenix (Bruno Weiss)", "Jeremy Renner (Orlando the Magician / Emil)", "Dagmara Dominczyk (Belva)", "Jicky Schnee (Clara)", "Elena Solovey (Rosie Hertz)", "Maja Wampuszyc (Edyta Bistricky)", "Ilia Volok (Wojtek Bistricky)", "Angela Sarafyan (Magda Cybulska)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["John Axelrad", "Kayla Emter", ]
-_cinematographer: ["Darius Khondji", ]
-_music: ["Christopher Spelman", ]
-_artdirection: ["Pete Zumba", ]
-_costume designer: ["Patricia Norris", ]
-_genres: ["Drama", ]
-_runtimes: ["120", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNjQ2OTAyNTUzNl5BMl5BanBnXkFtZTgwMTkxNzA2MTE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNjQ2OTAyNTUzNl5BMl5BanBnXkFtZTgwMTkxNzA2MTE@._V1._SX94_SY140_.jpg"
+desc: "Era Uma Vez em Nova York. The Immigrant (USA, 2013). Dirigido por James Gray. Escrito por James Gray, Ric Menello. Com Marion Cotillard (Ewa Cybulska), Joaquin Phoenix (Bruno Weiss), Jeremy Renner (Orlando the Magician / Emil), Dagmara Dominczyk (Belva), Jicky Schnee (Clara), Elena Solovey (Rosie Hertz), Maja Wampuszyc (Edyta Bistricky), Ilia Volok (Wojtek Bistricky), Angela Sarafyan (Magda Cybulska)."
 ---
 A Imigrante é filmada como um épico, e apresenta, assim como Era Uma Vez Na América, um retrato depressivo e opressivo da imigração americana no começo do século 19. Além disso, não fornece muitos pontos de escape desse universo angustiante, se tornando portanto uma experiência pesada, ainda que bela e que figurada por grandes atores.
 

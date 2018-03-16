@@ -1,25 +1,10 @@
 ---
-date: "2014-06-13"
 imdb: "2318092"
+date: "2014-06-13"
+categories: "movies"
 title: "Amor Sem Fim"
 stars: "4/5"
-categories: "movies"
-_title: "Endless Love"
-_year: "2014"
-_director: ["Shana Feste", ]
-_writer: ["Shana Feste", "Joshua Safran", "Scott Spencer", ]
-_cast: ["Alex Pettyfer", "Gabriella Wilde", "Bruce Greenwood", "Joely Richardson", "Robert Patrick", "Rhys Wakefield", "Dayo Okeniyi", "Emma Rigby", "Anna Enger", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Maryann Brandon", ]
-_cinematographer: ["Andrew Dunn", ]
-_music: ["Christophe Beck", ]
-_genres: ["Drama", ]
-_runtimes: ["104", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BOTYzNDU1MzEyN15BMl5BanBnXkFtZTgwOTYwMTU0MDE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BOTYzNDU1MzEyN15BMl5BanBnXkFtZTgwOTYwMTU0MDE@._V1._SX88_SY140_.jpg"
+desc: "Amor Sem Fim. Endless Love (USA, 2014). Dirigido por Shana Feste. Escrito por Shana Feste, Joshua Safran, Scott Spencer. Com Alex Pettyfer, Gabriella Wilde, Bruce Greenwood, Joely Richardson, Robert Patrick, Rhys Wakefield, Dayo Okeniyi, Emma Rigby, Anna Enger."
 ---
 Filme que revisita os clichês estilo Diário de uma Paixão sob a ótica contemporânea. Foca principalmente no jogo de forças entre pai e filha, mas se estende desnecessariamente ao final repetindo a mesma dinâmica já vista durante o filme.
 

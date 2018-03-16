@@ -1,25 +1,10 @@
 ---
-date: "2011-04-27"
 imdb: "0416508"
+date: "2011-04-27"
+categories: "movies"
 title: "Amor e Inocência"
 stars: "5/5"
-categories: "movies"
-_title: "Becoming Jane"
-_year: "2007"
-_director: ["Julian Jarrold", ]
-_writer: ["Jane Austen", "Kevin Hood", "Sarah Williams", ]
-_cast: ["Anne Hathaway", "James McAvoy", "Julie Walters", "James Cromwell", "Maggie Smith", "Anna Maxwell Martin", "Lucy Cohu", "Laurence Fox", "Ian Richardson", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Emma E. Hickox", ]
-_cinematographer: ["Eigil Bryld", ]
-_music: ["Adrian Johnston", ]
-_genres: ["Biography", ]
-_runtimes: ["120", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTIzMjQyMDMxM15BMl5BanBnXkFtZTcwMjAwOTM1MQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTIzMjQyMDMxM15BMl5BanBnXkFtZTcwMjAwOTM1MQ@@._V1._SX94_SY140_.jpg"
+desc: "Amor e Inocência. Becoming Jane (UK, 2007). Dirigido por Julian Jarrold. Escrito por Jane Austen, Kevin Hood, Sarah Williams. Com Anne Hathaway, James McAvoy, Julie Walters, James Cromwell, Maggie Smith, Anna Maxwell Martin, Lucy Cohu, Laurence Fox, Ian Richardson."
 ---
 Depois de acompanharmos as divertidas adaptações dos romances de Jane Austen (Razão e Sensibilidade, Emma, Orgulho e Preconceito), chegou a hora de vermos a história da própria Jane, e como ela se tornou a escritora dos romances de época.
 

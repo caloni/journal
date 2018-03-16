@@ -1,26 +1,11 @@
 ---
-imdb: "5818818"
-stars: "4/5"
 tags: ['cabine']
+imdb: "5818818"
 date: 2017-12-03T23:22:57
-title: "Mulheres Divinas"
 categories: "movies"
-_title: "Die göttliche Ordnung"
-_year: "2017"
-_director: ["Petra Biondina Volpe", ]
-_writer: ["Petra Biondina Volpe", ]
-_cast: ["Marie Leuenberger (Nora)", "Maximilian Simonischek (Hans)", "Rachel Braunschweig (Theresa)", "Sibylle Brunner (Vroni)", "Marta Zoffoli (Graziella)", "Bettina Stucky (Magda)", "Noe Krejcí (Max)", "Finn Sutter (Luki)", "Peter Freiburghaus (Gottfried)", ]
-_countries: ["Switzerland", ]
-_languages: ["German", ]
-_editor: ["Hansjörg Weißbrich", ]
-_cinematographer: ["Judith Kaufmann", ]
-_music: ["Annette Focks", ]
-_costume designer: ["Linda Harper", ]
-_genres: ["Comedy", ]
-_runtimes: ["96", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNTY3NDg1ZGMtZjU0ZC00M2ExLWEyZmMtMWY4NmZjZjFiMmUzXkEyXkFqcGdeQXVyMjI3NDAyNg@@.jpg"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNTY3NDg1ZGMtZjU0ZC00M2ExLWEyZmMtMWY4NmZjZjFiMmUzXkEyXkFqcGdeQXVyMjI3NDAyNg@@._V1._SX94_SY140_.jpg"
+title: "Mulheres Divinas"
+stars: "4/5"
+desc: "Mulheres Divinas. Die göttliche Ordnung (Switzerland, 2017). Dirigido por Petra Biondina Volpe. Escrito por Petra Biondina Volpe. Com Marie Leuenberger (Nora), Maximilian Simonischek (Hans), Rachel Braunschweig (Theresa), Sibylle Brunner (Vroni), Marta Zoffoli (Graziella), Bettina Stucky (Magda), Noe Krejcí (Max), Finn Sutter (Luki), Peter Freiburghaus (Gottfried)."
 ---
 Mulheres Divinas está dando um tiro no pé das feministas de hoje em dia? Ao explicar o movimento social dos anos 70 o filme de Petra Volpe explica como aquelas mulheres lutavam por algo legítimo e paupável. O problema era político na época, e só existe um jeito de resolver as coisas na política: pé na porta. Hoje o problema é que caiu o leite com pera no chão e as mulheres resolverem mostrar a bunda e os peitos para irem contra a objetificação da mulher. Isso não é político. Isso se chama estupidez.
 

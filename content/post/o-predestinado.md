@@ -1,25 +1,10 @@
 ---
-date: "2015-01-18"
 imdb: "2397535"
+date: "2015-01-18"
+categories: "movies"
 title: "O Predestinado"
 stars: "5/5"
-categories: "movies"
-_title: "Predestination"
-_year: "2014"
-_director: ["Michael Spierig", "Peter Spierig", ]
-_writer: ["Michael Spierig", "Peter Spierig", "Robert A. Heinlein", ]
-_cast: ["Ethan Hawke", "Sarah Snook", "Christopher Kirby", "Christopher Sommers", "Kuni Hashimoto", "Sara El-Yafi", "Paul Moder", "Grant Piro", "Christopher Bunworth", ]
-_countries: ["Australia", ]
-_languages: ["English", ]
-_editor: ["Matt Villa", ]
-_cinematographer: ["Ben Nott", ]
-_music: ["Peter Spierig", ]
-_genres: ["Drama", ]
-_runtimes: ["97", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTAzODc3NjU1NzNeQTJeQWpwZ15BbWU4MDk5NTQ4NTMx.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTAzODc3NjU1NzNeQTJeQWpwZ15BbWU4MDk5NTQ4NTMx._V1._SX95_SY140_.jpg"
+desc: "O Predestinado. Predestination (Australia, 2014). Dirigido por Michael Spierig, Peter Spierig. Escrito por Michael Spierig, Peter Spierig, Robert A. Heinlein. Com Ethan Hawke, Sarah Snook, Christopher Kirby, Christopher Sommers, Kuni Hashimoto, Sara El-Yafi, Paul Moder, Grant Piro, Christopher Bunworth."
 ---
 Apesar de ser um fã incondicional de Efeito Borboleta, sei que o longa possui alguns defeitos indesculpáveis. Sua lógica interna, como todo instigante filme de viagem no tempo, não foi costurada tão bem a ponto do espectador não se preocupar muito com seus paradoxos, e embora sua maior virtude resida nas possibilidades múltiplas de seus personagens, não existe essa de licença poética no Cinema. Se sua narrativa não consegue ser coesa, suas pontas soltas irão te ferir por dentro.
 

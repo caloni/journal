@@ -1,25 +1,10 @@
 ---
-date: "2013-05-27"
 imdb: "0099077"
+date: "2013-05-27"
+categories: "movies"
 title: "Tempo de Despertar"
 stars: "4/5"
-categories: "movies"
-_title: "Awakenings"
-_year: "1990"
-_director: ["Penny Marshall", ]
-_writer: ["Oliver Sacks", "Steven Zaillian", ]
-_cast: ["Robert De Niro", "Robin Williams", "Julie Kavner", "Ruth Nelson", "John Heard", "Penelope Ann Miller", "Alice Drummond", "Judith Malina", "Barton Heyman", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Battle Davis", "Gerald B. Greenberg", ]
-_cinematographer: ["Miroslav Ondrícek", ]
-_music: ["Randy Newman", ]
-_genres: ["Biography", ]
-_runtimes: ["121", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNzQ3MjkxNjM0MF5BMl5BanBnXkFtZTcwMTMzMjk3OA@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNzQ3MjkxNjM0MF5BMl5BanBnXkFtZTcwMTMzMjk3OA@@._V1._SX93_SY140_.jpg"
+desc: "Tempo de Despertar. Awakenings (USA, 1990). Dirigido por Penny Marshall. Escrito por Oliver Sacks, Steven Zaillian. Com Robert De Niro, Robin Williams, Julie Kavner, Ruth Nelson, John Heard, Penelope Ann Miller, Alice Drummond, Judith Malina, Barton Heyman."
 ---
 Robin Williams é sempre Robin Williams. Felizmente, esse fato não é o suficiente para estragar um filme que se esforça de maneira tocante ao tentar estabelecer uma conexão entre quem assiste e o drama dos pacientes que, sem se mover por décadas, conseguem experimentar milagrosamente uma janela de normalidade.
 

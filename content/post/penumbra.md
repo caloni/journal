@@ -1,24 +1,10 @@
 ---
-date: "2012-02-15"
 imdb: "1725073"
+date: "2012-02-15"
+categories: "movies"
 title: "Penumbra"
 stars: "2/5"
-categories: "movies"
-_title: "Penumbra"
-_year: "2011"
-_director: ["Adrián García Bogliano", "Ramiro García Bogliano", ]
-_writer: ["Adrián García Bogliano", "Ramiro García Bogliano", ]
-_cast: ["Cristina Brondo", "Camila Bordonaba", "Berta Muñiz", "Arnaldo André", "Mirella Pascual", "Victoria Witemburg", "Diego Cremonesi", "Gustavo Garzón", "Hernan Penner", ]
-_countries: ["Argentina", ]
-_languages: ["Spanish", ]
-_editor: ["Hernán Moyano", ]
-_cinematographer: ["Ernesto Herrera", ]
-_genres: ["Horror", ]
-_runtimes: ["Argentina:90", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTkwODI4ODY5N15BMl5BanBnXkFtZTcwMzQyOTU2Nw@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTkwODI4ODY5N15BMl5BanBnXkFtZTcwMzQyOTU2Nw@@._V1._SX95_SY140_.jpg"
+desc: "Penumbra. Penumbra (Argentina, 2011). Dirigido por Adrián García Bogliano, Ramiro García Bogliano. Escrito por Adrián García Bogliano, Ramiro García Bogliano. Com Cristina Brondo, Camila Bordonaba, Berta Muñiz, Arnaldo André, Mirella Pascual, Victoria Witemburg, Diego Cremonesi, Gustavo Garzón, Hernan Penner."
 ---
 O roteiro é uma bobagem, que brinca com o julgamento da protagonista de uma forma, mas faz questão de nos avisar muito antes o que está acontecendo. Não contente com isso, seu final comprova não apenas o delírio de complexidade (quando na verdade temos um desfecho simplista).
 

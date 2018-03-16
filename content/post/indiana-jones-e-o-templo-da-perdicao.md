@@ -1,28 +1,11 @@
 ---
+tags: ['netflix']
+imdb: "0087469"
 date: "2016-10-23"
 categories: "movies"
 title: "Indiana Jones e o Templo da Perdição"
-imdb: "0087469"
 stars: "5/5"
-tags: ['netflix']
-_title: "Indiana Jones and the Temple of Doom"
-_year: "1984"
-_director: ["Steven Spielberg", ]
-_writer: ["Willard Huyck", "Gloria Katz", "George Lucas", ]
-_cast: ["Harrison Ford (Indiana Jones)", "Kate Capshaw (Willie Scott)", "Jonathan Ke Quan (Short Round)", "Amrish Puri (Mola Ram)", "Roshan Seth (Chattar Lal)", "Philip Stone (Captain Blumburtt)", "Roy Chiao (Lao Che)", "David Yip (Wu Han)", "Ric Young (Kao Kan)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Michael Kahn", "George Lucas", ]
-_cinematographer: ["Douglas Slocombe", ]
-_music: ["John Williams", ]
-_artdirection: ["Roger Cain", "Alan Cassie", ]
-_costume designer: ["Anthony Powell", ]
-_genres: ["Action", ]
-_runtimes: ["118", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTMyNzI4OTA5OV5BMl5BanBnXkFtZTcwMDQ2MjAxNA@@.jpg"
-_ratio: "2.20 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTMyNzI4OTA5OV5BMl5BanBnXkFtZTcwMDQ2MjAxNA@@._V1._SX92_SY140_.jpg"
+desc: "Indiana Jones e o Templo da Perdição. Indiana Jones and the Temple of Doom (USA, 1984). Dirigido por Steven Spielberg. Escrito por Willard Huyck, Gloria Katz, George Lucas. Com Harrison Ford (Indiana Jones), Kate Capshaw (Willie Scott), Jonathan Ke Quan (Short Round), Amrish Puri (Mola Ram), Roshan Seth (Chattar Lal), Philip Stone (Captain Blumburtt), Roy Chiao (Lao Che), David Yip (Wu Han), Ric Young (Kao Kan)."
 ---
 A continuação das aventuras de Indiana Jones é tudo aquilo que eu lembrava de quando era criança e muito mais. A trilha sonora de John William conserta o plágio de Star Wars; "Indy" ganha um jeito mais escrachado, bonachão e cínico; Jonathan Ke Quan é o melhor alívio cômico da década; e Steven Spielberg faz em 1984 o que George Miller fez em "Fury Road": um filme de ação quase que completamente sem pausa para respirar. Dado a distância de nossos tempos digitais, o feito de Spielberg (e George Lucas como produtor) parece ainda maior.
 

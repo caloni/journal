@@ -1,25 +1,10 @@
 ---
-date: "2015-01-17"
 imdb: "1972571"
+date: "2015-01-17"
+categories: "movies"
 title: "O Homem Mais Procurado"
 stars: "3/5"
-categories: "movies"
-_title: "A Most Wanted Man"
-_year: "2014"
-_director: ["Anton Corbijn", ]
-_writer: ["Andrew Bovell", "John le Carré", "Stephen Cornwell", ]
-_cast: ["Grigoriy Dobrygin", "Philip Seymour Hoffman", "Homayoun Ershadi", "Mehdi Dehbi", "Neil Malik Abdullah", "Nina Hoss", "Daniel Brühl", "Vicky Krieps", "Kostja Ullmann", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Claire Simpson", ]
-_cinematographer: ["Benoît Delhomme", ]
-_music: ["Herbert Grönemeyer", ]
-_genres: ["Thriller", ]
-_runtimes: ["122", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BODY2MTA0MjYzMl5BMl5BanBnXkFtZTgwOTE3NzE4MTE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BODY2MTA0MjYzMl5BMl5BanBnXkFtZTgwOTE3NzE4MTE@._V1._SX94_SY140_.jpg"
+desc: "O Homem Mais Procurado. A Most Wanted Man (UK, 2014). Dirigido por Anton Corbijn. Escrito por Andrew Bovell, John le Carré, Stephen Cornwell. Com Grigoriy Dobrygin, Philip Seymour Hoffman, Homayoun Ershadi, Mehdi Dehbi, Neil Malik Abdullah, Nina Hoss, Daniel Brühl, Vicky Krieps, Kostja Ullmann."
 ---
 O Homem Mais Procurado é um daqueles filmes que tenta te manter quase que completamente atento apenas pelo poder de persuasão de seu protagonista. Para sorte do diretor Anton Corbijn (Um Homem Misterioso), o intérprete Philip Seymour Hoffman, apesar de ter ido jovem, foi um dos grandes de sua geração, e constrói mais uma vez um personagem, se não multidimensional, crível naquele esquema de espionagem pós-atentados 11/9.
 

@@ -1,24 +1,10 @@
 ---
-date: "2011-11-20"
 imdb: "0382932"
+date: "2011-11-20"
+categories: "movies"
 title: "Ratatouille"
 stars: "5/5"
-categories: "movies"
-_title: "Ratatouille"
-_year: "2007"
-_director: ["Brad Bird", "Jan Pinkava", ]
-_writer: ["Brad Bird", "Jan Pinkava", "Jim Capobianco", "Brad Bird", "Emily Cook", "Kathy Greenberg", "Bob Peterson", ]
-_cast: ["Patton Oswalt", "Ian Holm", "Lou Romano", "Brian Dennehy", "Peter Sohn", "Peter O'Toole", "Brad Garrett", "Janeane Garofalo", "Will Arnett", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Darren T. Holmes", ]
-_music: ["Michael Giacchino", ]
-_genres: ["Animation", ]
-_runtimes: ["111", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTMzODU0NTkxMF5BMl5BanBnXkFtZTcwMjQ4MzMzMw@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTMzODU0NTkxMF5BMl5BanBnXkFtZTcwMjQ4MzMzMw@@._V1._SX94_SY140_.jpg"
+desc: "Ratatouille. Ratatouille (USA, 2007). Dirigido por Brad Bird, Jan Pinkava. Escrito por Brad Bird, Jan Pinkava, Jim Capobianco, Brad Bird, Emily Cook, Kathy Greenberg, Bob Peterson. Com Patton Oswalt, Ian Holm, Lou Romano, Brian Dennehy, Peter Sohn, Peter O'Toole, Brad Garrett, Janeane Garofalo, Will Arnett."
 ---
 Ratatouille na época representou a capacidade grandiosa que um bom roteiro e uma excepcional produção conseguiam fazer, na animação computadorizada, como limite máximo de expressão na arte cinematográfica.
 

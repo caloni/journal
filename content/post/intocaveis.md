@@ -1,27 +1,11 @@
 ---
-date: "2012-09-03"
 imdb: "1675434"
+date: 2016-07-28
+categories: "movies"
 title: "Intocáveis"
 stars: "4/5"
-categories: "movies"
-revision: [2015-10-11, 2016-07-28]
-date: 2016-07-28
-_title: "Intouchables"
-_year: "2011"
-_director: ["Olivier Nakache", "Eric Toledano", ]
-_writer: ["Olivier Nakache", "Eric Toledano", ]
-_cast: ["François Cluzet", "Omar Sy", "Anne Le Ny", "Audrey Fleurot", "Joséphine de Meaux", "Clotilde Mollet", "Alba Gaïa Kraghede Bellugi", "Cyril Mendy", "Salimata Kamate", ]
-_countries: ["France", ]
-_languages: ["French", ]
-_editor: ["Dorian Rigal-Ansous", ]
-_cinematographer: ["Mathieu Vadepied", ]
-_music: ["Ludovico Einaudi", ]
-_genres: ["Biography", ]
-_runtimes: ["112", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@._V1._SX94_SY140_.jpg"
+revision: [datetime.date(2015, 10, 11), datetime.date(2016, 7, 28)]
+desc: "Intocáveis. Intouchables (France, 2011). Dirigido por Olivier Nakache, Eric Toledano. Escrito por Olivier Nakache, Eric Toledano. Com François Cluzet, Omar Sy, Anne Le Ny, Audrey Fleurot, Joséphine de Meaux, Clotilde Mollet, Alba Gaïa Kraghede Bellugi, Cyril Mendy, Salimata Kamate."
 ---
 Uma das falas mais emocionantes do novo longa de Olivier Nakache e Eric Toledano é quando Philippe (François Cluzet) -- um tetraplégico ricaço que contratou recentemente Driss (Omar Sy), um rapaz pobre e sem experiência como seu enfermeiro -- é questionado por seu amigo se não acharia perigoso estar sempre ao lado de uma pessoa que notadamente não demonstra qualquer compaixão pelo ser humano. Contrariando nossas expectativas, Philippe confessa que é exatamente isso que ele precisa no momento: de alguém que não tenha compaixão de si e de sua condição de dependente da ajuda dos outros para uma vida toda.
 

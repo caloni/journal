@@ -1,25 +1,10 @@
 ---
-date: "2014-03-06"
 imdb: "0084516"
+date: "2014-03-06"
+categories: "movies"
 title: "Poltergeist O Fenômeno"
 stars: "4/5"
-categories: "movies"
-_title: "Poltergeist"
-_year: "1982"
-_director: ["Tobe Hooper", ]
-_writer: ["Steven Spielberg", "Michael Grais", "Mark Victor", "Steven Spielberg", ]
-_cast: ["Craig T. Nelson", "JoBeth Williams", "Beatrice Straight", "Dominique Dunne", "Oliver Robins", "Heather O'Rourke", "Michael McManus", "Virginia Kiser", "Martin Casella", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Michael Kahn", ]
-_cinematographer: ["Matthew F. Leonetti", ]
-_music: ["Jerry Goldsmith", ]
-_genres: ["Horror", ]
-_runtimes: ["114", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTU4NzMyMjAyOV5BMl5BanBnXkFtZTYwNjY0MzI5.jpg"
-_ratio: "2.20 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTU4NzMyMjAyOV5BMl5BanBnXkFtZTYwNjY0MzI5._V1._SX96_SY140_.jpg"
+desc: "Poltergeist O Fenômeno. Poltergeist (USA, 1982). Dirigido por Tobe Hooper. Escrito por Steven Spielberg, Michael Grais, Mark Victor, Steven Spielberg. Com Craig T. Nelson, JoBeth Williams, Beatrice Straight, Dominique Dunne, Oliver Robins, Heather O'Rourke, Michael McManus, Virginia Kiser, Martin Casella."
 ---
 Um terror produzido e roteirizado em parte por Steven Spielberg não poderia ser lá muito assustador. Chega a ser até um pouco engraçado, como na cena inicial com dois controles remotos que controlam a mesma televisão. Porém, diferente de metade dos terrores produzidos antigamente e hoje em dia, pelo menos é coeso e tenta puxar um pouco mais o espectador.
 

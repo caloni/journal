@@ -1,25 +1,10 @@
 ---
-date: "2015-08-24"
 imdb: "1832382"
-stars: "5/5"
+date: "2015-08-24"
 categories: "movies"
 title: "A Separação"
-_title: "Jodaeiye Nader az Simin"
-_year: "2011"
-_director: ["Asghar Farhadi", ]
-_writer: ["Asghar Farhadi", ]
-_cast: ["Peyman Moaadi", "Leila Hatami", "Sareh Bayat", "Shahab Hosseini", "Sarina Farhadi", "Merila Zare'i", "Ali-Asghar Shahbazi", "Babak Karimi", "Kimia Hosseini", ]
-_countries: ["Iran", ]
-_languages: ["Persian", ]
-_editor: ["Hayedeh Safiyari", ]
-_cinematographer: ["Mahmoud Kalari", ]
-_music: ["Sattar Oraki", ]
-_genres: ["Drama", ]
-_runtimes: ["123", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTYzMzU4NDUwOF5BMl5BanBnXkFtZTcwMTM5MjA5Ng@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTYzMzU4NDUwOF5BMl5BanBnXkFtZTcwMTM5MjA5Ng@@._V1._SX94_SY140_.jpg"
+stars: "5/5"
+desc: "A Separação. Jodaeiye Nader az Simin (Iran, 2011). Dirigido por Asghar Farhadi. Escrito por Asghar Farhadi. Com Peyman Moaadi, Leila Hatami, Sareh Bayat, Shahab Hosseini, Sarina Farhadi, Merila Zare'i, Ali-Asghar Shahbazi, Babak Karimi, Kimia Hosseini."
 ---
 Esse filme foi o vencedor do Oscar de melhor filme estrangeiro, além de indicado a melhor roteiro original. Ele também está aí para provar como falso esse preconceito de "filme iraniano" como sinônimo de filme parado, difícil, do tipo que só os críticos gostam.
 

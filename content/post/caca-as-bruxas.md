@@ -1,25 +1,10 @@
 ---
-date: "2011-02-05"
 imdb: "0479997"
+date: "2011-02-05"
+categories: "movies"
 title: "Caça às Bruxas"
 stars: "3/5"
-categories: "movies"
-_title: "Season of the Witch"
-_year: "2011"
-_director: ["Dominic Sena", ]
-_writer: ["Bragi F. Schut", ]
-_cast: ["Nicolas Cage", "Ron Perlman", "Stephen Campbell Moore", "Stephen Graham", "Ulrich Thomsen", "Claire Foy", "Robert Sheehan", "Christopher Lee", "Kevin Rees", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Bob Ducsay", "Mark Helfrich", "Dan Zimmerman", ]
-_cinematographer: ["Amir Mokri", ]
-_music: ["Atli Örvarsson", ]
-_genres: ["Action", ]
-_runtimes: ["95", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMzc3MjYxNzg2N15BMl5BanBnXkFtZTcwNzQyMTkwNA@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMzc3MjYxNzg2N15BMl5BanBnXkFtZTcwNzQyMTkwNA@@._V1._SX95_SY140_.jpg"
+desc: "Caça às Bruxas. Season of the Witch (USA, 2011). Dirigido por Dominic Sena. Escrito por Bragi F. Schut. Com Nicolas Cage, Ron Perlman, Stephen Campbell Moore, Stephen Graham, Ulrich Thomsen, Claire Foy, Robert Sheehan, Christopher Lee, Kevin Rees."
 ---
 Nicholas Cage estreia mais um filme com feitiçarias. Depois do inofensivo Aprendiz de Feiticeiro, podemos considerar Caça como uma versão inserida histórica e politicamente em um contexto mais sério: a campanha das Cruzadas da época medieval e o extermínio de centenas (milhares?) de mulheres acusadas de bruxaria, enquanto a famigerada Peste matava 75% da população.
 

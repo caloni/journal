@@ -1,25 +1,10 @@
 ---
-date: "2015-05-20"
 imdb: "2802144"
-stars: "5/5"
+date: "2015-05-20"
 categories: "movies"
 title: "Kingsman: Serviço Secreto"
-_title: "Kingsman: The Secret Service"
-_year: "2014"
-_director: ["Matthew Vaughn", ]
-_writer: ["Jane Goldman", "Matthew Vaughn", "Mark Millar", "Dave Gibbons", ]
-_cast: ["Adrian Quinton", "Colin Firth", "Mark Strong", "Jonno Davies", "Taron Egerton", "Jack Davenport", "Alex Nikolov", "Samantha Womack", "Mark Hamill", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Eddie Hamilton", "Jon Harris", ]
-_cinematographer: ["George Richmond", ]
-_music: ["Henry Jackman", "Matthew Margeson", ]
-_genres: ["Action", ]
-_runtimes: ["129", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTkxMjgwMDM4Ml5BMl5BanBnXkFtZTgwMTk3NTIwNDE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTkxMjgwMDM4Ml5BMl5BanBnXkFtZTgwMTk3NTIwNDE@._V1._SX95_SY140_.jpg"
+stars: "5/5"
+desc: "Kingsman: Serviço Secreto. Kingsman: The Secret Service (UK, 2014). Dirigido por Matthew Vaughn. Escrito por Jane Goldman, Matthew Vaughn, Mark Millar, Dave Gibbons. Com Adrian Quinton, Colin Firth, Mark Strong, Jonno Davies, Taron Egerton, Jack Davenport, Alex Nikolov, Samantha Womack, Mark Hamill."
 ---
 Estou passando atualmente por uns mal bocados à noite por causa de um culto religioso organizado por retardados mentais em um galpão próximo daqui. Além da figura horrenda de um pastor cuspindo seu ódio em gritos ao microfone que "elevam" a raça humana à posição de escória do planeta, tal evento é realizado muito provavelmente em um local infetado de pessoas cujo passado eu temo saber, já que ele tem que ser terrível o suficiente para que alguém se sujeite a um ritual que denigre a dignidade humana a níveis que, caso um mendigo estivesse presente, sem tomar banho nos últimos meses, tossindo um catarro de cor e forma desconhecidos enquanto grunhe e coça seus órgãos genitais, por comparação ele se transformaria no cavalheiro mais refinado, educado e interessante de todo o recinto.
 

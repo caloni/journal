@@ -1,25 +1,10 @@
 ---
-date: "2011-08-09"
 imdb: "0458339"
+date: "2011-08-09"
+categories: "movies"
 title: "Capitão América O Primeiro Vingador"
 stars: "3/5"
-categories: "movies"
-_title: "Captain America: The First Avenger"
-_year: "2011"
-_director: ["Joe Johnston", ]
-_writer: ["Christopher Markus", "Stephen McFeely", "Joe Simon", "Jack Kirby", ]
-_cast: ["Chris Evans", "Hayley Atwell", "Sebastian Stan", "Tommy Lee Jones", "Hugo Weaving", "Dominic Cooper", "Richard Armitage", "Stanley Tucci", "Samuel L. Jackson", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Robert Dalva", "Jeffrey Ford", ]
-_cinematographer: ["Shelly Johnson", ]
-_music: ["Alan Silvestri", ]
-_genres: ["Action", ]
-_runtimes: ["124", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTYzOTc2NzU3N15BMl5BanBnXkFtZTcwNjY3MDE3NQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTYzOTc2NzU3N15BMl5BanBnXkFtZTcwNjY3MDE3NQ@@._V1._SX90_SY140_.jpg"
+desc: "Capitão América O Primeiro Vingador. Captain America: The First Avenger (USA, 2011). Dirigido por Joe Johnston. Escrito por Christopher Markus, Stephen McFeely, Joe Simon, Jack Kirby. Com Chris Evans, Hayley Atwell, Sebastian Stan, Tommy Lee Jones, Hugo Weaving, Dominic Cooper, Richard Armitage, Stanley Tucci, Samuel L. Jackson."
 ---
 A Marvel parece que resolveu esquecer de vez a construção de histórias com profundidade dramática para dar vazão aos seus heróis secundários. O objetivo maior é o lançamento dos Vingadores, seu ambicioso projeto que exigiu a criação de diversos filmes, cada um retratando um personagem diferente que fará parte dessa equipe de super-heróis.
 

@@ -1,25 +1,10 @@
 ---
-date: "2012-09-03"
 imdb: "1764651"
+date: "2012-09-03"
+categories: "movies"
 title: "Os Mercenários 2"
 stars: "3/5"
-categories: "movies"
-_title: "The Expendables 2"
-_year: "2012"
-_director: ["Simon West", ]
-_writer: ["Richard Wenk", "Sylvester Stallone", "Ken Kaufman", "David Agosto", "Richard Wenk", "Dave Callaham", ]
-_cast: ["Sylvester Stallone", "Jason Statham", "Jet Li", "Dolph Lundgren", "Chuck Norris", "Jean-Claude Van Damme", "Bruce Willis", "Arnold Schwarzenegger", "Terry Crews", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Todd E. Miller", ]
-_cinematographer: ["Shelly Johnson", ]
-_music: ["Brian Tyler", ]
-_genres: ["Action", ]
-_runtimes: ["103", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQzODkwNDQxNV5BMl5BanBnXkFtZTcwNTQ1ODAxOA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQzODkwNDQxNV5BMl5BanBnXkFtZTcwNTQ1ODAxOA@@._V1._SX93_SY140_.jpg"
+desc: "Os Mercenários 2. The Expendables 2 (USA, 2012). Dirigido por Simon West. Escrito por Richard Wenk, Sylvester Stallone, Ken Kaufman, David Agosto, Richard Wenk, Dave Callaham. Com Sylvester Stallone, Jason Statham, Jet Li, Dolph Lundgren, Chuck Norris, Jean-Claude Van Damme, Bruce Willis, Arnold Schwarzenegger, Terry Crews."
 ---
 Mercenários 2 já começa sua história querendo arrebentar o maior número de muros, cabeças e corpos humanos por centímetro cinematográfico quadrado. O som das armas parece verdadeiro, ou melhor: parece surreal. Não há nada pode deter o maior arrebatamento de heróis de ação de um passado já distante, mas que é aqui comemorado de uma maneira perigosamente indulgente.
 

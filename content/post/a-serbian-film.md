@@ -1,25 +1,10 @@
 ---
-date: "2011-07-31"
 imdb: "1273235"
+date: "2011-07-31"
+categories: "movies"
 title: "A Serbian Film Terror sem Limites"
 stars: "4/5"
-categories: "movies"
-_title: "Srpski film"
-_year: "2010"
-_director: ["Srdjan Spasojevic", ]
-_writer: ["Aleksandar Radivojevic", "Srdjan Spasojevic", ]
-_cast: ["Srdjan Todorovic", "Sergej Trifunovic", "Jelena Gavrilovic", "Slobodan Bestic", "Katarina Zutic", "Luka Mijatovic", "Ana Sakic", "Lena Bogdanovic", "Miodrag Krcmarik", ]
-_countries: ["Serbia", ]
-_languages: ["Serbian", ]
-_editor: ["Darko Simic", ]
-_cinematographer: ["Nemanja Jovanov", ]
-_music: ["Sky Wikluh", ]
-_genres: ["Horror", ]
-_runtimes: ["104", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTU2NzI3OTk4M15BMl5BanBnXkFtZTcwMTEyNzIxNA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTU2NzI3OTk4M15BMl5BanBnXkFtZTcwMTEyNzIxNA@@._V1._SX99_SY140_.jpg"
+desc: "A Serbian Film Terror sem Limites. Srpski film (Serbia, 2010). Dirigido por Srdjan Spasojevic. Escrito por Aleksandar Radivojevic, Srdjan Spasojevic. Com Srdjan Todorovic, Sergej Trifunovic, Jelena Gavrilovic, Slobodan Bestic, Katarina Zutic, Luka Mijatovic, Ana Sakic, Lena Bogdanovic, Miodrag Krcmarik."
 ---
 Segundo um relatório sobre a Guerra da Bósnia feito pela Agência Central de Inteligência americana, 90% dos crimes de guerra foram cometidos pelos sérvios. Em uma região conturbada política e religiosamente por mais de um século, o povo sérvio se acostumou a um ambiente instável. A grande questão é como isso afeta a moral dessas pessoas.
 

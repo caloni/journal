@@ -1,26 +1,10 @@
 ---
-date: "2015-09-25"
 imdb: "3064298"
-stars: "4/5"
+date: "2015-09-25"
 categories: "movies"
 title: "Man Up"
-_title: "Man Up"
-_year: "2015"
-_director: ["Ben Palmer", ]
-_writer: ["Tess Morris", ]
-_cast: ["Lake Bell", "Simon Pegg", "Olivia Williams", "Ophelia Lovibond", "Ken Stott", "Henry Lloyd-Hughes", "Rory Kinnear", "Sharon Horgan", "Dean-Charles Chapman", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Paul Machliss", ]
-_cinematographer: ["Andrew Dunn", ]
-_music: ["Dickon Hinchliffe", ]
-_artdirection: ["Andrea Matheson", ]
-_costume designer: ["Suzie Harman", ]
-_genres: ["Comedy", ]
-_runtimes: ["88", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTUzODcxNDcxMl5BMl5BanBnXkFtZTgwODE1NjM4NTE@.jpg"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTUzODcxNDcxMl5BMl5BanBnXkFtZTgwODE1NjM4NTE@._V1._SX95_SY140_.jpg"
+stars: "4/5"
+desc: "Man Up. Man Up (UK, 2015). Dirigido por Ben Palmer. Escrito por Tess Morris. Com Lake Bell, Simon Pegg, Olivia Williams, Ophelia Lovibond, Ken Stott, Henry Lloyd-Hughes, Rory Kinnear, Sharon Horgan, Dean-Charles Chapman."
 ---
 Comédia despretensiosa (e britânica, vale afirmar) sobre uma mulher "velha" de 30 e poucos anos e insegura em conseguir um companheiro, apesar de sua família e sua mãe sempre tentarem suportá-la. Ela carrega um caderninho de anotações onde há mantras que ela repete para se sentir auto-confiante. Um desses mantras é o batido "arrisque-se".
 

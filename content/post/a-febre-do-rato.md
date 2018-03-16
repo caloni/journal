@@ -1,23 +1,10 @@
 ---
-date: "2012-08-03"
 imdb: "2200908"
+date: "2012-08-03"
+categories: "movies"
 title: "A Febre do Rato"
 stars: "5/5"
-categories: "movies"
-_title: "A Febre do Rato"
-_year: "2011"
-_director: ["Cláudio Assis", ]
-_writer: ["Hilton Lacerda", ]
-_cast: ["Irandhir Santos", "Juliano Cazarré", "Matheus Nachtergaele", "Tânia Granussi", "Maria Gladys", "Ângela Leal", "Conceição Camaroti", "Mariana Nunes", "Hugo Gila", ]
-_countries: ["Brazil", ]
-_languages: ["Portuguese", ]
-_editor: ["Karen Harley", ]
-_cinematographer: ["Walter Carvalho", ]
-_music: ["Jorge Du Peixe", ]
-_genres: ["Drama", ]
-_runtimes: ["110", ]
-_ratio: "1.78 : 1"
-_kind: "movie"
+desc: "A Febre do Rato. A Febre do Rato (Brazil, 2011). Dirigido por Cláudio Assis. Escrito por Hilton Lacerda. Com Irandhir Santos, Juliano Cazarré, Matheus Nachtergaele, Tânia Granussi, Maria Gladys, Ângela Leal, Conceição Camaroti, Mariana Nunes, Hugo Gila."
 ---
 Acredito que a maior virtude do filme de Cláudio Assis é conseguir, a despeito das cenas chocantes de cunho sexual, criar uma atmosfera tão natural para o desenvolvimento de seus personagens que é quase como se estivéssemos assistindo à própria vida real. Claro, em uma versão embalada no formato dos filmes revolucionários das décadas de 60 e 70 no Brasil, e que nunca viriam a público em sessões abertas. A vantagem de uma democracia é que podemos, hoje, entender a bandeira que esses filmes tentaram levantar no passado.
 

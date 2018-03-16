@@ -1,27 +1,10 @@
 ---
-date: "2016-03-07"
 imdb: "0780536"
-stars: "4/5"
+date: "2016-03-07"
 categories: "movies"
 title: "Na Mira do Chefe"
-_title: "In Bruges"
-_year: "2008"
-_director: ["Martin McDonagh", ]
-_writer: ["Martin McDonagh", ]
-_cast: ["Elizabeth Berrington", "Rudy Blomme", "Olivier Bonjour", "Mark Donovan", "Ann Elsley", "Colin Farrell", "Jean-Marc Favorin", "Ralph Fiennes", "Brendan Gleeson", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Jon Gregory", ]
-_cinematographer: ["Eigil Bryld", ]
-_music: ["Carter Burwell", ]
-_artdirection: ["Chris Lowe", ]
-_costume designer: ["Jany Temime", ]
-_genres: ["Comedy", ]
-_runtimes: ["107", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTY4OTYxODg4MV5BMl5BanBnXkFtZTcwMDcyNzM2MQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTY4OTYxODg4MV5BMl5BanBnXkFtZTcwMDcyNzM2MQ@@._V1._SX95_SY140_.jpg"
+stars: "4/5"
+desc: "Na Mira do Chefe. In Bruges (UK, 2008). Dirigido por Martin McDonagh. Escrito por Martin McDonagh. Com Elizabeth Berrington, Rudy Blomme, Olivier Bonjour, Mark Donovan, Ann Elsley, Colin Farrell, Jean-Marc Favorin, Ralph Fiennes, Brendan Gleeson."
 ---
 Esse filme parece uma coisa, mas é outra. Vendido como uma comédia despretensiosa e potencialmente um pastelão, Na Mira do Chefe é um trabalho de roteiro que brinca com seu universo próprio achando graça em levar a sério as histórias de máfia.
 

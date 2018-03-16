@@ -1,18 +1,10 @@
 ---
-date: "2016-02-05"
+title: "Os Dez Mandamentos - O Filme"
 imdb: "5431016"
 stars: "3/5"
+date: "2016-02-05"
 categories: "movies"
-title: "Os Dez Mandamentos - O Filme"
-_title: "Os Dez Mandamentos"
-_year: "2016"
-_director: ["Alexandre Avancini", ]
-_writer: ["Vivian de Oliveira", ]
-_cast: ["Denise Del Vecchio", "Petronio Gontijo", "Giselle Itié", "Camila Rodrigues", "Guilherme Winter", ]
-_countries: ["Brazil", ]
-_languages: ["Portuguese", ]
-_genres: ["History", ]
-_kind: "movie"
+desc: "Os Dez Mandamentos - O Filme. Os Dez Mandamentos (Brazil, 2016). Dirigido por Alexandre Avancini. Escrito por Vivian de Oliveira. Com Denise Del Vecchio, Petronio Gontijo, Giselle Itié, Camila Rodrigues, Guilherme Winter."
 ---
 A novela da Rede Record -- uma emissora comprada por umas das igrejas mais poderosas do Brasil -- foi transformada em um longa-metragem -- com dinheiro próprio, graças a Deus -- que na verdade é um remake dos filmes originais de Cecil B. de Mille (os de 1923 e 1956). No entanto, as histórias são tão semelhantes ao relato bíblico que tudo no fundo não passa de uma literação do que foi registrado por aquela tribo judaica em uma época em que historiadores inventavam muito, e documentavam pouco.
 

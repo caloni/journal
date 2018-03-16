@@ -1,24 +1,10 @@
 ---
-date: "2013-07-01"
 imdb: "1453405"
+date: "2013-07-01"
+categories: "movies"
 title: "Universidade Monstros"
 stars: "4/5"
-categories: "movies"
-_title: "Monsters University"
-_year: "2013"
-_director: ["Dan Scanlon", ]
-_writer: ["Dan Scanlon", "Daniel Gerson", "Robert L. Baird", "Daniel Gerson", "Robert L. Baird", "Dan Scanlon", ]
-_cast: ["Billy Crystal", "John Goodman", "Steve Buscemi", "Helen Mirren", "Peter Sohn", "Joel Murray", "Sean Hayes", "Dave Foley", "Charlie Day", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Greg Snyder", ]
-_music: ["Randy Newman", ]
-_genres: ["Animation", ]
-_runtimes: ["104", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTUyODgwMDU3M15BMl5BanBnXkFtZTcwOTM4MjcxOQ@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTUyODgwMDU3M15BMl5BanBnXkFtZTcwOTM4MjcxOQ@@._V1._SX94_SY140_.jpg"
+desc: "Universidade Monstros. Monsters University (USA, 2013). Dirigido por Dan Scanlon. Escrito por Dan Scanlon, Daniel Gerson, Robert L. Baird, Daniel Gerson, Robert L. Baird, Dan Scanlon. Com Billy Crystal, John Goodman, Steve Buscemi, Helen Mirren, Peter Sohn, Joel Murray, Sean Hayes, Dave Foley, Charlie Day."
 ---
 Usando o bê-a-bá que aprendemos em Monstros S.A., o diretor Dan Scanlon  auxiliado pelos quatro grandes da Pixar na produção e os dois roteiristas originais  reutiliza tudo que já foi visto no longa anterior e acrescenta detalhes que compõem o estilo de vida daqueles seres em uma evolução natural que usa a faculdade como um outro ponto de partida. O resultado é um filme que carece de um início que avise o espectador que este não é apenas uma continuação, mas um agradável e saudoso estudo de personagens. Na outra ponta, carece também de uma conclusão climática que o separe do trabalho original, ou revela um sintoma importante de todo o projeto: não há muito mais o que explorar no mundo dos monstros.
 

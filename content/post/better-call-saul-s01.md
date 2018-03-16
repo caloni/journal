@@ -1,27 +1,11 @@
 ---
-date: "2015-04-07"
+tags: ['netflix', 'bettercallsaul', 'series']
 imdb: "3032476"
-stars: "5/5"
+date: "2016-04-22"
 categories: "series"
 title: "Better Call Saul - Primeira Temporada"
-date: "2016-04-22"
-tags: ['netflix', 'bettercallsaul', 'series']
-_title: "Better Call Saul"
-_year: "2015"
-_director: ["Colin Bucksey", ]
-_writer: ["Vince Gilligan", "Peter Gould", "Gennifer Hutchison", "Thomas Schnauz", "Gordon Smith", ]
-_cast: ["Bob Odenkirk", "Jonathan Banks", "Rhea Seehorn", "Patrick Fabian", "Michael Mando", "Michael McKean", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Kelley Dixon", ]
-_cinematographer: ["Arthur Albert", ]
-_music: ["Dave Porter", ]
-_genres: ["Crime", ]
-_runtimes: ["60::(with commercials)", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTAxOTQ0MjUzMzJeQTJeQWpwZ15BbWU4MDY0NTAxNzMx.jpg"
-_ratio: "1.78 : 1"
-_kind: "tv series"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTAxOTQ0MjUzMzJeQTJeQWpwZ15BbWU4MDY0NTAxNzMx._V1._SX94_SY140_.jpg"
+stars: "5/5"
+desc: "Better Call Saul - Primeira Temporada. Better Call Saul (USA, 2015). Dirigido por Colin Bucksey. Escrito por Vince Gilligan, Peter Gould, Gennifer Hutchison, Thomas Schnauz, Gordon Smith. Com Bob Odenkirk, Jonathan Banks, Rhea Seehorn, Patrick Fabian, Michael Mando, Michael McKean."
 ---
 A primeira temporada de Better Call Saul, spin-off do personagem Saul Goodman da série Breaking Bad, realiza um arco tão lendário quando o Walter White da série original. Esse arco é mais simples, previsível em sua própria estrutura, mas simplório jamais. Oscilando entre o cômico e o dramático, ganha mais o espectador que encara tudo aquilo como um drama tão intenso que consegue soar às vezes caricato, mas no final acaba se transformando em um tema digno de reflexão: como pode um sujeito ser esmagado de tantas formas diferentes e, ainda assim, continuar resistindo?
 

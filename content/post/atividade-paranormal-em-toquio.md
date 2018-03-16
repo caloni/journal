@@ -1,21 +1,10 @@
 ---
-date: "2011-03-28"
-title: "Atividade Paranormal Tóquio"
 imdb: "1728179"
-stars: "3/5"
+date: "2011-03-28"
 categories: "movies"
-_title: "Paranômaru akutibiti: Dai-2-shô - Tokyo Night"
-_year: "2010"
-_director: ["Toshikazu Nagae", ]
-_writer: ["Toshikazu Nagae", "Oren Peli", ]
-_cast: ["Aoi Nakamura", "Noriko Aoyama", ]
-_countries: ["Japan", ]
-_languages: ["Japanese", ]
-_genres: ["Horror", ]
-_runtimes: ["Japan:90", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTc1NDgwODE0MF5BMl5BanBnXkFtZTgwNTIwMDY0MDE@.jpg"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTc1NDgwODE0MF5BMl5BanBnXkFtZTgwNTIwMDY0MDE@._V1._SX98_SY140_.jpg"
+title: "Atividade Paranormal Tóquio"
+stars: "3/5"
+desc: "Atividade Paranormal Tóquio. Paranômaru akutibiti: Dai-2-shô - Tokyo Night (Japan, 2010). Dirigido por Toshikazu Nagae. Escrito por Toshikazu Nagae, Oren Peli. Com Aoi Nakamura, Noriko Aoyama."
 ---
 Verdade seja dita: os asiáticos sabem fazer terror como nunca.
 

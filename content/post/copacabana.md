@@ -1,25 +1,10 @@
 ---
-date: "2011-10-11"
 imdb: "1454910"
+date: "2011-10-11"
+categories: "movies"
 title: "Copacabana"
 stars: "5/5"
-categories: "movies"
-_title: "Copacabana"
-_year: "2010"
-_director: ["Marc Fitoussi", ]
-_writer: ["Marc Fitoussi", ]
-_cast: ["Isabelle Huppert", "Aure Atika", "Lolita Chammah", "Jurgen Delnaet", "Chantal Banlier", "Magali Woch", "Nelly Antignac", "Guillaume Gouix", "Joachim Lombard", ]
-_countries: ["France", ]
-_languages: ["French", ]
-_editor: ["Martine Giordano", ]
-_cinematographer: ["Hélène Louvart", ]
-_music: ["Tim Gane", "Seán O'Hagan", ]
-_genres: ["Comedy", ]
-_runtimes: ["France:107", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNTU4NDA3Nzc3NV5BMl5BanBnXkFtZTcwNDE3MDcxNQ@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNTU4NDA3Nzc3NV5BMl5BanBnXkFtZTcwNDE3MDcxNQ@@._V1._SX93_SY140_.jpg"
+desc: "Copacabana. Copacabana (France, 2010). Dirigido por Marc Fitoussi. Escrito por Marc Fitoussi. Com Isabelle Huppert, Aure Atika, Lolita Chammah, Jurgen Delnaet, Chantal Banlier, Magali Woch, Nelly Antignac, Guillaume Gouix, Joachim Lombard."
 ---
 O novo trabalho do diretor-roteirista Marc Fitoussi faz um paralelo entre o estado de espírito de uma pessoa e o lugar onde esta vive. Para chegar a seus objetivos, rege de maneira impecável uma história em que as apostas que uma pessoa precisa fazer para chegar aonde quer não estão relacionadas com sua situação aparente, mas muito mais com seu estado interior e sua capacidade de transformar o mundo ao seu redor.
 

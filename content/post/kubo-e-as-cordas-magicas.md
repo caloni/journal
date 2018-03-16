@@ -1,27 +1,11 @@
 ---
+tags: ['paulocoelho', 'oscar']
+imdb: "4302938"
 date: "2016-12-03"
 categories: "movies"
 title: "Kubo e as Cordas Mágicas"
-imdb: "4302938"
 stars: "4/5"
-tags: ['paulocoelho', 'oscar']
-_title: "Kubo and the Two Strings"
-_year: "2016"
-_director: ["Travis Knight", ]
-_writer: ["Marc Haimes", "Chris Butler", "Shannon Tindle", ]
-_cast: ["Charlize Theron (Monkey)", "Art Parkinson (Kubo)", "Ralph Fiennes (Moon King)", "George Takei (Hosato)", "Cary-Hiroyuki Tagawa (Hashi)", "Brenda Vaccaro (Kameyo)", "Rooney Mara (The Sisters)", "Matthew McConaughey (Beetle)", "Meyrick Murphy (Mari)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Christopher Murrie", ]
-_cinematographer: ["Frank Passingham", ]
-_music: ["Dario Marianelli", ]
-_costume designer: ["Deborah Cook", ]
-_genres: ["Animation", ]
-_runtimes: ["101", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA2Mzg2NDMzNl5BMl5BanBnXkFtZTgwMjcwODUzOTE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA2Mzg2NDMzNl5BMl5BanBnXkFtZTgwMjcwODUzOTE@._V1._SX94_SY140_.jpg"
+desc: "Kubo e as Cordas Mágicas. Kubo and the Two Strings (USA, 2016). Dirigido por Travis Knight. Escrito por Marc Haimes, Chris Butler, Shannon Tindle. Com Charlize Theron (Monkey), Art Parkinson (Kubo), Ralph Fiennes (Moon King), George Takei (Hosato), Cary-Hiroyuki Tagawa (Hashi), Brenda Vaccaro (Kameyo), Rooney Mara (The Sisters), Matthew McConaughey (Beetle), Meyrick Murphy (Mari)."
 ---
 Kubo é uma animação em stop motion que usa um monte de elementos computacionais para tornar tudo muito mais fluido, mágico e... não-stop motion. Porém, ao mesmo tempo, ele se aproveita da técnica para tornar tudo muito mais real. Ele conta uma história oriental com o herói sendo uma criança, mas não são exatamente coisas de criança que ocorrem com ele. A maior virtude do filme talvez seja sua não-infantilização de um filme que entende que crianças podem aguentar discussões que envolvam a morte, e não há nada de errado em um garoto não ter seu olho esquerdo.
 

@@ -1,29 +1,11 @@
 ---
-imdb: "3553976"
-stars: "5/5"
 tags: ['paulocoelho']
+imdb: "3553976"
 date: 2017-11-25T13:54:00
-title: "Capitão Fantástico"
 categories: "movies"
-_title: "Captain Fantastic"
-_year: "2016"
-_director: ["Matt Ross", ]
-_writer: ["Matt Ross", ]
-_cast: ["Viggo Mortensen (Ben)", "George MacKay (Bodevan)", "Samantha Isler (Kielyr)", "Annalise Basso (Vespyr)", "Nicholas Hamilton (Rellian)", "Shree Crooks (Zaja)", "Charlie Shotwell (Nai)", "Trin Miller (Leslie)", "Kathryn Hahn (Harper)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Joseph Krings", ]
-_cinematographer: ["Stéphane Fontaine", ]
-_music: ["Alex Somers", ]
-_artdirection: ["Erick Donaldson", ]
-_costume designer: ["Courtney Hoffman", ]
-_genres: ["Comedy", ]
-_runtimes: ["118", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE5OTM0OTY5NF5BMl5BanBnXkFtZTgwMDcxOTQ3ODE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE5OTM0OTY5NF5BMl5BanBnXkFtZTgwMDcxOTQ3ODE@._V1._SX94_SY140_.jpg"
-_releasedate: "22 December 2016"
+title: "Capitão Fantástico"
+stars: "5/5"
+desc: "Capitão Fantástico. Captain Fantastic (USA, 2016). Dirigido por Matt Ross. Escrito por Matt Ross. Com Viggo Mortensen (Ben), George MacKay (Bodevan), Samantha Isler (Kielyr), Annalise Basso (Vespyr), Nicholas Hamilton (Rellian), Shree Crooks (Zaja), Charlie Shotwell (Nai), Trin Miller (Leslie), Kathryn Hahn (Harper)."
 ---
 "Poder para o povo. Abaixo o sistema." Essas duas frases tipicamente anarquistas resumem a filosofia de mais este filme sobre uma família disfuncional. A virtude deste filme é que ele nos faz enxergar a sociedade atual do ponto de vista de uma outra forma de viver. E se todos nós fôssemos criados para sermos filósofos e seguir a razão? Bom, se isso fosse possível seria o paraíso na Terra.
 

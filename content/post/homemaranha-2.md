@@ -1,28 +1,11 @@
 ---
+tags: ['spiderman']
+imdb: "0316654"
 date: "2016-07-07"
 categories: "movies"
 title: "Homem-Aranha 2"
-imdb: "0316654"
 stars: "5/5"
-tags: ['spiderman']
-_title: "Spider-Man 2"
-_year: "2004"
-_director: ["Sam Raimi", ]
-_writer: ["Stan Lee", "Steve Ditko", "Alfred Gough", "Miles Millar", "Michael Chabon", "Alvin Sargent", ]
-_cast: ["Tobey Maguire", "Kirsten Dunst", "James Franco", "Alfred Molina", "Rosemary Harris", "J.K. Simmons", "Donna Murphy", "Daniel Gillies", "Dylan Baker", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Bob Murawski", ]
-_cinematographer: ["Bill Pope", ]
-_music: ["Danny Elfman", ]
-_artdirection: ["Jeff Knipp", "Scott P. Murphy", "Steve Saklad", "Thomas Valentine", "Thomas P. Wilkins", ]
-_costume designer: ["James Acheson", "Gary Jones", ]
-_genres: ["Action", ]
-_runtimes: ["127", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjE0Njc1NDYzN15BMl5BanBnXkFtZTcwNjAxMzYyMQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjE0Njc1NDYzN15BMl5BanBnXkFtZTcwNjAxMzYyMQ@@._V1._SX94_SY140_.jpg"
+desc: "Homem-Aranha 2. Spider-Man 2 (USA, 2004). Dirigido por Sam Raimi. Escrito por Stan Lee, Steve Ditko, Alfred Gough, Miles Millar, Michael Chabon, Alvin Sargent. Com Tobey Maguire, Kirsten Dunst, James Franco, Alfred Molina, Rosemary Harris, J.K. Simmons, Donna Murphy, Daniel Gillies, Dylan Baker."
 ---
 Doze anos e toneladas de super-heróis depois, Homem-Aranha 2 continua sendo um dos melhores filmes do sub-gênero já feito, digno de ocupar o pódio junto de pequenas obras-primas como "Superman: O Filme" e "Dark Knight".
 

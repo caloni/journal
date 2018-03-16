@@ -1,25 +1,10 @@
 ---
-date: "2012-11-18"
 imdb: "0918927"
+date: "2012-11-18"
+categories: "movies"
 title: "Dúvida"
 stars: "5/5"
-categories: "movies"
-_title: "Doubt"
-_year: "2008"
-_director: ["John Patrick Shanley", ]
-_writer: ["John Patrick Shanley", "John Patrick Shanley", ]
-_cast: ["Meryl Streep", "Philip Seymour Hoffman", "Amy Adams", "Viola Davis", "Alice Drummond", "Audrie Neenan", "Susan Blommaert", "Carrie Preston", "John Costelloe", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Dylan Tichenor", ]
-_cinematographer: ["Roger Deakins", ]
-_music: ["Howard Shore", ]
-_genres: ["Drama", ]
-_runtimes: ["104", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTY4NDk0NzE4Nl5BMl5BanBnXkFtZTcwMjk1NDE4MQ@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTY4NDk0NzE4Nl5BMl5BanBnXkFtZTcwMjk1NDE4MQ@@._V1._SX96_SY140_.jpg"
+desc: "Dúvida. Doubt (USA, 2008). Dirigido por John Patrick Shanley. Escrito por John Patrick Shanley, John Patrick Shanley. Com Meryl Streep, Philip Seymour Hoffman, Amy Adams, Viola Davis, Alice Drummond, Audrie Neenan, Susan Blommaert, Carrie Preston, John Costelloe."
 ---
 Baseado em uma peça de teatro escrita por John Patrick Shanley, que aqui também faz o papel duplo de diretor/roteirista. Conseguindo para os papéis principais Philip Seymour Hoffman como o padre Brendan Flynn, um orador com capacidade ímpar de sugar a atenção de seus fiéis, e Meryl Streep, como a severa irmã Aloysius Beauvier, que zela por regras que parecem ter sido definidas 2000 anos atrás. A história, pode-se arriscar, gira em torno dos dois conceitos que esses personagens representam, que não deveriam, mas parecem opostos na igreja católica: compaixão e tradição.
 

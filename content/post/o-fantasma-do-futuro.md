@@ -1,26 +1,10 @@
 ---
-date: "2016-05-01"
 imdb: "0113568"
-stars: "5/5"
+date: "2016-05-01"
 categories: "movies"
 title: "O Fantasma do Futuro"
-_title: "Kôkaku Kidôtai"
-_year: "1995"
-_director: ["Mamoru Oshii", ]
-_writer: ["Kazunori Itô", "Masamune Shirow", ]
-_cast: ["Atsuko Tanaka", "Akio Ôtsuka", "Kôichi Yamadera", "Yutaka Nakano", "Tamio Ôki", "Tesshô Genda", "Namaki Masakazu", "Masato Yamanouchi", "Shinji Ogawa", ]
-_countries: ["Japan", ]
-_languages: ["Japanese", ]
-_editor: ["Shûichi Kakesu", ]
-_cinematographer: ["Hisao Shirai", ]
-_music: ["Kenji Kawai", ]
-_artdirection: ["Hiromasa Ogura", ]
-_genres: ["Animation", ]
-_runtimes: ["83", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTk2ODE4MDUzNF5BMl5BanBnXkFtZTYwNTI2OTA5.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTk2ODE4MDUzNF5BMl5BanBnXkFtZTYwNTI2OTA5._V1._SX99_SY140_.jpg"
+stars: "5/5"
+desc: "O Fantasma do Futuro. Kôkaku Kidôtai (Japan, 1995). Dirigido por Mamoru Oshii. Escrito por Kazunori Itô, Masamune Shirow. Com Atsuko Tanaka, Akio Ôtsuka, Kôichi Yamadera, Yutaka Nakano, Tamio Ôki, Tesshô Genda, Namaki Masakazu, Masato Yamanouchi, Shinji Ogawa."
 ---
 Não, esse não é o "original". Aliás, o conceito de originalidade, ou individualidade, é justamente o que é atacado em Ghost in the Shell, uma animação japonesa que precede em muito toda a discussão filosófica gerada pelo filme Matrix, dos irmãos Wachoski, e que marca a predominância do tema em Hollywood.
 

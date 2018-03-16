@@ -1,24 +1,10 @@
 ---
-date: "2015-03-19"
 imdb: "0298203"
-stars: "3/5"
+date: "2015-03-19"
 categories: "movies"
 title: "8 Mile: Rua das Ilusões"
-_title: "8 Mile"
-_year: "2002"
-_director: ["Curtis Hanson", ]
-_writer: ["Scott Silver", ]
-_cast: ["Eminem", "Kim Basinger", "Mekhi Phifer", "Brittany Murphy", "Evan Jones", "Omar Benson Miller", "De'Angelo Wilson", "Eugene Byrd", "Taryn Manning", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Craig Kitson", "Jay Rabinowitz", ]
-_cinematographer: ["Rodrigo Prieto", ]
-_genres: ["Drama", ]
-_runtimes: ["110", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTU2MTgyOTk3MF5BMl5BanBnXkFtZTYwOTg2NTI5.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTU2MTgyOTk3MF5BMl5BanBnXkFtZTYwOTg2NTI5._V1._SX94_SY140_.jpg"
+stars: "3/5"
+desc: "8 Mile: Rua das Ilusões. 8 Mile (USA, 2002). Dirigido por Curtis Hanson. Escrito por Scott Silver. Com Eminem, Kim Basinger, Mekhi Phifer, Brittany Murphy, Evan Jones, Omar Benson Miller, De'Angelo Wilson, Eugene Byrd, Taryn Manning."
 ---
 Eminem não é um ator: é um rapper. Esse é o pecado original de 8 Mile, um filme que tenta reproduzir a história de vida do cantor através dele mesmo e de uma atmosfera inebriante nos guetos de Detroit. Usa um elenco inspirado -- Mekhi Phifer como o "paizão" Future e o hilário Evan Jones como o ingênuo Cheddar -- e uma fotografia sombria que aposta nos verdes e que ajuda a entrar no universo da fumaça, das gangues, das rimas improvisadas, do frio das ruas e do carro lotado. Há diversas cenas no carro da mãe de B-Rabbit (Eminem) e parece haver uma trocentas pessoas lá dentro. As câmeras responsáveis por filmar a cena são incríveis, mas melhor ainda são os cortes realizados que geram uma fluidez que te coloca como o enésimo passageiro daquele carro que pode falhar a qualquer momento.
 

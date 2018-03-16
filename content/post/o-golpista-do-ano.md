@@ -1,25 +1,10 @@
 ---
-date: "2010-06-04"
 imdb: "1045772"
+date: "2010-06-04"
+categories: "movies"
 title: "O Golpista do Ano"
 stars: "4/5"
-categories: "movies"
-_title: "I Love You Phillip Morris"
-_year: "2009"
-_director: ["Glenn Ficarra", "John Requa", ]
-_writer: ["John Requa", "Glenn Ficarra", "Steve McVicker", ]
-_cast: ["Jim Carrey", "Ewan McGregor", "Leslie Mann", "Rodrigo Santoro", "Antoni Corone", "Brennan Brown", "Michael Mandell", "Annie Golden", "Marylouise Burke", ]
-_countries: ["France", ]
-_languages: ["English", ]
-_editor: ["Thomas J. Nordberg", ]
-_cinematographer: ["Xavier Grobet", ]
-_music: ["Nick Urata", ]
-_genres: ["Biography", ]
-_runtimes: ["Germany:102::(European Film Market)", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNDkzMjkwNjc5NV5BMl5BanBnXkFtZTcwNzEyOTk5Mw@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNDkzMjkwNjc5NV5BMl5BanBnXkFtZTcwNzEyOTk5Mw@@._V1._SX94_SY140_.jpg"
+desc: "O Golpista do Ano. I Love You Phillip Morris (France, 2009). Dirigido por Glenn Ficarra, John Requa. Escrito por John Requa, Glenn Ficarra, Steve McVicker. Com Jim Carrey, Ewan McGregor, Leslie Mann, Rodrigo Santoro, Antoni Corone, Brennan Brown, Michael Mandell, Annie Golden, Marylouise Burke."
 ---
 Um filme com estilo episódico (fade out em vários momentos), narração em off de um protagonista que supostamente está morto (acho que já pensaram nisso antes...) e invencionices demasiadas com a câmera, muitas vezes na mão. Apesar de ter tudo para dar errado, O Golpista do Ano apresenta Jim Carrey, Ewan McGregor e até Rodrigo Santoro em personagens que acompanham as personas dos atores, mas desafiam a realidade dos eventos (sim, o filme é baseado em alguns fatos em torno da figura de Phillip Morris).
 

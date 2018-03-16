@@ -1,25 +1,10 @@
 ---
-date: "2013-04-12"
 imdb: "1634003"
+date: "2013-04-12"
+categories: "movies"
 title: "Um Time Show de Bola"
 stars: "3/5"
-categories: "movies"
-_title: "Metegol"
-_year: "2013"
-_director: ["Juan José Campanella", ]
-_writer: ["Michael Broadbridge", "David Burgess", "Juan José Campanella", "Roberto Fontanarrosa", "Gastón Gorali", "Eduardo Sacheri", ]
-_cast: ["Gabriel Almirón", "Federico Cecere", "Ezequiel Cipols", "Luciana Falcón", "Roberto Kim", "Lucía Maciel", "Marcos Mundstock", "Mariana Otero", "Alejandro Piar", ]
-_countries: ["Spain", ]
-_languages: ["Spanish", ]
-_editor: ["Juan José Campanella", "Abel Goldfarb", ]
-_cinematographer: ["Félix Monti", ]
-_music: ["Emilio Kauderer", ]
-_genres: ["Animation", ]
-_runtimes: ["Argentina:106", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTEzMjY1OTM5NjVeQTJeQWpwZ15BbWU3MDcyMjU2NTk@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTEzMjY1OTM5NjVeQTJeQWpwZ15BbWU3MDcyMjU2NTk@._V1._SX99_SY140_.jpg"
+desc: "Um Time Show de Bola. Metegol (Spain, 2013). Dirigido por Juan José Campanella. Escrito por Michael Broadbridge, David Burgess, Juan José Campanella, Roberto Fontanarrosa, Gastón Gorali, Eduardo Sacheri. Com Gabriel Almirón, Federico Cecere, Ezequiel Cipols, Luciana Falcón, Roberto Kim, Lucía Maciel, Marcos Mundstock, Mariana Otero, Alejandro Piar."
 ---
 Um Time Show de Bola possui a grande vantagem de ser dirigido por Campanella, que consegue impregnar uma emoção desproporcionalmente divertida nas cenas "em campo", conseguindo, por ser uma animação, a fluidez completa de suas longas sequências de ação. Por outro lado, acaba sendo uma desvantagem que o controle da produção esteja nas mãos do auto-inflado e "oscarizado" diretor de O Segredo dos Seus Olhos, que adota um roteiro misto que não consegue contar bem uma única história e vira uma miscelânea de sentimentos a respeito de como o futebol atual é mais um jogo de negócios do que da paixão antiga e nostálgica.
 

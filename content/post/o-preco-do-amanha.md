@@ -1,25 +1,10 @@
 ---
-date: "2011-11-17"
 imdb: "1637688"
+date: "2011-11-17"
+categories: "movies"
 title: "O Preço do Amanhã"
 stars: "3/5"
-categories: "movies"
-_title: "In Time"
-_year: "2011"
-_director: ["Andrew Niccol", ]
-_writer: ["Andrew Niccol", ]
-_cast: ["Justin Timberlake", "Olivia Wilde", "Shyloh Oostwald", "Johnny Galecki", "Colin McGurk", "Will Harris", "Michael William Freeman", "Jesse Lee Soffer", "Aaron Perilo", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Zach Staenberg", ]
-_cinematographer: ["Roger Deakins", ]
-_music: ["Craig Armstrong", ]
-_genres: ["Action", ]
-_runtimes: ["109", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjA3NzI1ODc1MV5BMl5BanBnXkFtZTcwMzI5NjQwNg@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjA3NzI1ODc1MV5BMl5BanBnXkFtZTcwMzI5NjQwNg@@._V1._SX100_SY139_.jpg"
+desc: "O Preço do Amanhã. In Time (USA, 2011). Dirigido por Andrew Niccol. Escrito por Andrew Niccol. Com Justin Timberlake, Olivia Wilde, Shyloh Oostwald, Johnny Galecki, Colin McGurk, Will Harris, Michael William Freeman, Jesse Lee Soffer, Aaron Perilo."
 ---
 A grande sacada do gênero de ficção-científica, tanto no cinema quanto na literatura, é conseguir discutir alguma questão da sociedade atual sob a ótica de um mundo fantasioso. Para isso, as pessoas são colocadas em situações em que normalmente não existiriam, mas que lembram ou simbolizam uma questão do mundo real, ainda que encoberto de uma aura futurista.
 

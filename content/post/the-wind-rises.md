@@ -1,23 +1,10 @@
 ---
-date: "2013-10-28"
 imdb: "2013293"
+date: "2013-10-28"
+categories: "movies"
 title: "O Vento Está Soprando"
 stars: "4/5"
-categories: "movies"
-_title: "Kaze tachinu"
-_year: "2013"
-_director: ["Hayao Miyazaki", ]
-_writer: ["Hayao Miyazaki", "Hayao Miyazaki", "Mike Jones", ]
-_cast: ["Hideaki Anno", "Hidetoshi Nishijima", "Miori Takimoto", "Masahiko Nishimura", "Mansai Nomura", "Jun Kunimura", "Mirai Shida", "Shinobu Ôtake", "Morio Kazama", ]
-_countries: ["Japan", ]
-_languages: ["Japanese", ]
-_music: ["Joe Hisaishi", ]
-_genres: ["Animation", ]
-_runtimes: ["126", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTU4NDg0MzkzNV5BMl5BanBnXkFtZTgwODA3Mzc1MDE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTU4NDg0MzkzNV5BMl5BanBnXkFtZTgwODA3Mzc1MDE@._V1._SX94_SY140_.jpg"
+desc: "O Vento Está Soprando. Kaze tachinu (Japan, 2013). Dirigido por Hayao Miyazaki. Escrito por Hayao Miyazaki, Hayao Miyazaki, Mike Jones. Com Hideaki Anno, Hidetoshi Nishijima, Miori Takimoto, Masahiko Nishimura, Mansai Nomura, Jun Kunimura, Mirai Shida, Shinobu Ôtake, Morio Kazama."
 ---
 Não há o que criticar da perfeição técnica dos estúdios Ghibli. Acostumados a entregar desenhos que já seriam motivo de prazer e satisfação só de olhar, os filmes dirigidos pelo mestre Hayao Miyazaki prezam também por uma história completa, uma trilha sonora, uma fotografia, direção de arte, efeitos sonoros que representam juntos sempre o ápice daquele estilo.
 

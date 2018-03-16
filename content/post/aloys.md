@@ -1,26 +1,11 @@
 ---
+tags: ['mostrasp']
+imdb: "5065810"
 date: "2016-10-21"
 categories: "movies"
 title: "Aloys"
-imdb: "5065810"
 stars: "5/5"
-tags: ['mostrasp']
-_title: "Aloys"
-_year: "2016"
-_director: ["Tobias Nölle", ]
-_writer: ["Tobias Nölle", ]
-_cast: ["Georg Friedrich (Aloys Adorn)", "Tilde von Overbeck (Vera)", "Kamil Krejcí (Herr Schoch)", "Yufei Li (Yen Lee)", "Koi Lee (Herr Lee)", "Sebastian Krähenbühl (Hauswart)", "Karl Friedrich (Vater Aloys)", "Peter Zumstein (Bestatter)", "Agnes Lampkin (Julie Kramer)", ]
-_countries: ["Switzerland", ]
-_languages: ["Swiss German", ]
-_editor: ["Tobias Nölle", ]
-_cinematographer: ["Simon Guy Fässler", ]
-_music: ["Tom Huber", "Beat Jegen", ]
-_costume designer: ["Leonie Zykan", ]
-_genres: ["Drama", ]
-_runtimes: ["91", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BYzZjMDBhMzQtMDIwYi00MDM3LWIzZmUtNTUzNWIxNjcyMmI0XkEyXkFqcGdeQXVyMTEyNjU4OTA@.jpg"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BYzZjMDBhMzQtMDIwYi00MDM3LWIzZmUtNTUzNWIxNjcyMmI0XkEyXkFqcGdeQXVyMTEyNjU4OTA@._V1._SX98_SY140_.jpg"
+desc: "Aloys. Aloys (Switzerland, 2016). Dirigido por Tobias Nölle. Escrito por Tobias Nölle. Com Georg Friedrich (Aloys Adorn), Tilde von Overbeck (Vera), Kamil Krejcí (Herr Schoch), Yufei Li (Yen Lee), Koi Lee (Herr Lee), Sebastian Krähenbühl (Hauswart), Karl Friedrich (Vater Aloys), Peter Zumstein (Bestatter), Agnes Lampkin (Julie Kramer)."
 ---
 Aloys é uma viagem fascinante pelo mundo dos efeitos sonoros que criam a realidade em torno dos dois personagens principais. Para esse feito, é necessário uma edição e montagem impecáveis, além de um design de som que prima pela redundância. Redundância essa necessária para que o espectador consiga penetrar no mundo dividido entre todas as pessoas que vivem dentro do mundo interno de cada um de nós.
 

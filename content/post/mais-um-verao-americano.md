@@ -1,26 +1,11 @@
 ---
+tags: ['netflix', 'series']
+imdb: "4341500"
 date: "2015-09-12"
 categories: "blog"
-imdb: "4341500"
-stars: "2/5"
 title: "Mais um Verão Americano (piloto)"
-tags: ['netflix', 'series']
-_title: "Wet Hot American Summer: First Day of Camp"
-_year: "2015"
-_director: ["David Wain", ]
-_writer: ["Michael Showalter", "David Wain", ]
-_cast: ["Marguerite Moreau", "Zak Orth", "Paul Rudd", "Michael Showalter", "Michael Ian Black", "Bradley Cooper", "Janeane Garofalo", "Amy Poehler", "Molly Shannon", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Matthew Barbato", "Matthew Freund", "Robert Nassau", "Dean Pollack", ]
-_cinematographer: ["Kevin Atkinson", ]
-_music: ["Craig Wedren", ]
-_artdirection: ["Eric Berg", ]
-_costume designer: ["Leslie Schilling", ]
-_genres: ["Comedy", ]
-_runtimes: ["30", ]
-_ratio: "1.78 : 1"
-_kind: "tv series"
+stars: "2/5"
+desc: "Mais um Verão Americano (piloto). Wet Hot American Summer: First Day of Camp (USA, 2015). Dirigido por David Wain. Escrito por Michael Showalter, David Wain. Com Marguerite Moreau, Zak Orth, Paul Rudd, Michael Showalter, Michael Ian Black, Bradley Cooper, Janeane Garofalo, Amy Poehler, Molly Shannon."
 ---
 A Netflix é uma empresa, e como toda empresa ambiciona o lucro. Por causa disso obviamente não consegue se desvencilhar do seu destino Hollywoodiano de descobrir uma fórmula e repeti-la à exaustão. É assim com seu conteúdo adulto -- sexo ocasional + violência exarcebada -- e é assim com suas comédias agrada-público-medíocre -- atores divertidos/comediantes, uma ou outra fala interessante, o tema acima da arte.
 

@@ -1,25 +1,10 @@
 ---
-date: "2012-12-17"
 imdb: "1920849"
+date: "2012-12-17"
+categories: "movies"
 title: "Quatro Amigas e um Casamento"
 stars: "3/5"
-categories: "movies"
-_title: "Bachelorette"
-_year: "2012"
-_director: ["Leslye Headland", ]
-_writer: ["Leslye Headland", "Leslye Headland", ]
-_cast: ["Kirsten Dunst", "Rebel Wilson", "Lizzy Caplan", "Paul Corning", "Isla Fisher", "Andrew Rannells", "Anna Rose Hopkins", "Sue Jean Kim", "Horatio Sanz", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Jeffrey Wolf", ]
-_cinematographer: ["Doug Emmett", ]
-_music: ["Andrew Feltenstein", "John Nau", ]
-_genres: ["Comedy", ]
-_runtimes: ["87", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNzk3MjA1NzE5OV5BMl5BanBnXkFtZTcwNTQ0NTcxOA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNzk3MjA1NzE5OV5BMl5BanBnXkFtZTcwNTQ0NTcxOA@@._V1._SX94_SY140_.jpg"
+desc: "Quatro Amigas e um Casamento. Bachelorette (USA, 2012). Dirigido por Leslye Headland. Escrito por Leslye Headland, Leslye Headland. Com Kirsten Dunst, Rebel Wilson, Lizzy Caplan, Paul Corning, Isla Fisher, Andrew Rannells, Anna Rose Hopkins, Sue Jean Kim, Horatio Sanz."
 ---
 Parece que a "moda" iniciada por Missão Madrinha de Casamento (Paul Feig, 2011) está gerando seus primeiros frutos. Esse "Quatro Amigas..." possui o que faltava nas comédias românticas e que pode reinventar o gênero nos próximos anos: mulheres independentes e protagonistas.
 

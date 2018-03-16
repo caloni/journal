@@ -1,25 +1,10 @@
 ---
-date: "2011-04-27"
 imdb: "1217613"
+date: "2011-04-27"
+categories: "movies"
 title: "Invasão do Mundo Batalha de Los Angeles"
 stars: "3/5"
-categories: "movies"
-_title: "Battle Los Angeles"
-_year: "2011"
-_director: ["Jonathan Liebesman", ]
-_writer: ["Christopher Bertolini", ]
-_cast: ["Aaron Eckhart", "Ramon Rodriguez", "Will Rothhaar", "Cory Hardrict", "Jim Parrack", "Gino Anthony Pesi", "Ne-Yo", "James Hiroyuki Liao", "Bridget Moynahan", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Christian Wagner", ]
-_cinematographer: ["Lukas Ettlin", ]
-_music: ["Brian Tyler", ]
-_genres: ["Action", ]
-_runtimes: ["116", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjA2MjQ2MzMwMV5BMl5BanBnXkFtZTcwMjIwODgzNA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjA2MjQ2MzMwMV5BMl5BanBnXkFtZTcwMjIwODgzNA@@._V1._SX94_SY140_.jpg"
+desc: "Invasão do Mundo Batalha de Los Angeles. Battle Los Angeles (USA, 2011). Dirigido por Jonathan Liebesman. Escrito por Christopher Bertolini. Com Aaron Eckhart, Ramon Rodriguez, Will Rothhaar, Cory Hardrict, Jim Parrack, Gino Anthony Pesi, Ne-Yo, James Hiroyuki Liao, Bridget Moynahan."
 ---
 Cloverfield abriu o portal de obras de ficção filmados em estilo documental, mesmo em uma produção cara e mais aprimorada que o experimento primordial de Bruxa de Blair.
 

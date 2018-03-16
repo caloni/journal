@@ -1,26 +1,11 @@
 ---
-date: "2014-06-19"
+tags: ['netflix', 'orangeisthenewblack', 'series']
 imdb: "2372162"
+date: "2014-06-19"
+categories: "blog"
 title: "Orange is the New Black - Terceira Temporada"
 stars: "3/5"
-categories: "blog"
-tags: ['netflix', 'orangeisthenewblack', 'series']
-_title: "Orange Is the New Black"
-_year: "2013"
-_director: ["Michael Trim", "Andrew McCarthy", "Phil Abraham", "Constantine Makris", "Uta Briesewitz", "Jodie Foster", ]
-_writer: ["Piper Kerman", "Jenji Kohan", "Sian Heder", "Nick Jones", "Lauren Morelli", "Sara Hess", "Tara Herrmann", "Marco Ramirez", ]
-_cast: ["Taylor Schilling", "Michael Harney", "Kate Mulgrew", "Natasha Lyonne", "Uzo Aduba", "Danielle Brooks", "Samira Wiley", "Dascha Polanco", "Selenis Leyva", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Bill Turro", "Michael Stern", "Shannon Mitchell", "Tim Boettcher", ]
-_cinematographer: ["Vanja Cernjul", "Yaron Orbach", "Michael Trim", ]
-_music: ["Scott Doherty", "Brandon Jay", "Gwendolyn Sanford", ]
-_genres: ["Comedy", ]
-_runtimes: ["55", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjA1ODMzNDM5Ml5BMl5BanBnXkFtZTgwNDU0NjQ5MTE@.jpg"
-_ratio: "1.78 : 1"
-_kind: "tv series"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjA1ODMzNDM5Ml5BMl5BanBnXkFtZTgwNDU0NjQ5MTE@._V1._SX95_SY140_.jpg"
+desc: "Orange is the New Black - Terceira Temporada. Orange Is the New Black (USA, 2013). Dirigido por Michael Trim, Andrew McCarthy, Phil Abraham, Constantine Makris, Uta Briesewitz, Jodie Foster. Escrito por Piper Kerman, Jenji Kohan, Sian Heder, Nick Jones, Lauren Morelli, Sara Hess, Tara Herrmann, Marco Ramirez. Com Taylor Schilling, Michael Harney, Kate Mulgrew, Natasha Lyonne, Uzo Aduba, Danielle Brooks, Samira Wiley, Dascha Polanco, Selenis Leyva."
 ---
 Orange is the New Black, apesar do título ultrapassado, ainda se mantém acima de sua irregular média. Digo irregular porque a série, apesar de possuir picos dramáticos e temáticos bem definidos, também possui os seus vales. Ou seja: se quiser aproveitar o que a série tem de bom, vai ter que aguentar muito lenga-lenga de mulher.
 

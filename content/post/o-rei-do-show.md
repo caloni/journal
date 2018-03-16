@@ -1,9 +1,10 @@
 ---
-date: 2018-01-14T14:23:49-02:00
-title: "O Rei do Show"
-categories: "movies"
+date: 2018-01-14T16:23:49
 imdb: "1485796"
+categories: "movies"
 stars: "3/5"
+title: "O Rei do Show"
+desc: "O Rei do Show."
 ---
 O Rei do Show já foi formatado para ser de fato um show. Na broadway. Todos os elementos permanecem em cena. De repente um grupo começa a cantar (de novo! e de novo!) e eles participam de todos os cenários e grupos no palco na mesma canção. O show que está sendo celebrado é o da própria vida. Os números de dança não privilegiam ninguém em específico. Todos possuem igual importância no quadro. Tal qual a vida. Estamos todos aqui, na mesma pedra rochosa orbitando uma estrela média e onde as pessoas ainda têm medo e raiva do diferente. Só nos resta cantar em vez de falar. Não porque estamos em um musical, mas porque essa é a maneira de espantar o lado sombrio de nossa existência.
 

@@ -1,26 +1,11 @@
 ---
+tags: ['netflix', 'series']
+imdb: "5467814"
 date: "2016-12-04"
 categories: "series"
 title: "Haters Back Off!"
-imdb: "5467814"
 stars: "3/5"
-tags: ['netflix', 'series']
-_title: "Haters Back Off!"
-_year: "2016"
-_director: ["Andrew Gaynord", "Todd Rohal", ]
-_writer: ["Christopher Ballinger", "Colleen Ballinger", "Gigi McCreery", "Perry M. Rein", "Justin Varava", "Russ Woody", ]
-_cast: ["Colleen Ballinger (Miranda Sings)", "Angela Kinsey (Bethany)", "Francesca Reale (Emily)", "Erik Stocklin (Patrick)", "Steve Little (Jim / ...)", "Chaz Lamar Shepherd (Keith)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Christopher Donlon", ]
-_cinematographer: ["Michael Balfry", ]
-_music: ["Amotz Plessner", ]
-_costume designer: ["Katrina McCarthy", ]
-_genres: ["Comedy", ]
-_runtimes: ["30", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjMzNzEwNDIzNl5BMl5BanBnXkFtZTgwMzI4OTMyMDI@.jpg"
-_kind: "tv series"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjMzNzEwNDIzNl5BMl5BanBnXkFtZTgwMzI4OTMyMDI@._V1._SX94_SY140_.jpg"
+desc: "Haters Back Off!. Haters Back Off! (USA, 2016). Dirigido por Andrew Gaynord, Todd Rohal. Escrito por Christopher Ballinger, Colleen Ballinger, Gigi McCreery, Perry M. Rein, Justin Varava, Russ Woody. Com Colleen Ballinger (Miranda Sings), Angela Kinsey (Bethany), Francesca Reale (Emily), Erik Stocklin (Patrick), Steve Little (Jim / ...), Chaz Lamar Shepherd (Keith)."
 ---
 É difícil saber o que esperar dessa série de humor da Netflix. Ela oferece personagens que são sobrenaturalmente estúpidos. Mas, ao mesmo tempo, é tentador tentar entender a mente de pessoas tão estúpidas interagindo, especialmente se essas pessoas possuem uma visão tão fechada sobre o mundo e pretendem ganhá-lo, elevando à fama a garota mais midada da casa: Miranda Sings (o nome veios antes da fama, para saberem que o que ela faz no YouTube é cantar). Se os personagens são estúpidos, e alguns deles possuem atuações dignos de nota, eu arrisco dizer que nada disso é relevante se você não olhar para o desempenho de Colleen Ballinger e constatar: esse projeto nasceu nessa performance. Quer dizer... o que é isso?
 

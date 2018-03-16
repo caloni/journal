@@ -1,28 +1,11 @@
 ---
+tags: ['cabine']
+imdb: "2364897"
 date: "2016-10-11"
 categories: "movies"
 title: "O Quarto dos Esquecidos"
-imdb: "2364897"
 stars: "4/5"
-tags: ['cabine']
-_title: "The Disappointments Room"
-_year: "2016"
-_director: ["D.J. Caruso", ]
-_writer: ["D.J. Caruso", "Wentworth Miller", ]
-_cast: ["Lucas Till (Ben)", "Kate Beckinsale (Dana)", "Gerald McRaney (Judge Blacker)", "Michael Landes (Teddy)", "Michaela Conlin (Jules)", "Celia Weston (Marti)", "Mel Raido (David)", "Duncan Joiner (Lucas)", "Charles Carroll (Old Man)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Vince Filippone", ]
-_cinematographer: ["Rogier Stoffers", ]
-_music: ["Brian Tyler", ]
-_artdirection: ["Kevin Hardison", ]
-_costume designer: ["Marian Toy", ]
-_genres: ["Drama", ]
-_runtimes: ["92", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTE0MTE3MzI4ODFeQTJeQWpwZ15BbWU4MDI1MDI0ODkx.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTE0MTE3MzI4ODFeQTJeQWpwZ15BbWU4MDI1MDI0ODkx._V1._SX94_SY140_.jpg"
+desc: "O Quarto dos Esquecidos. The Disappointments Room (USA, 2016). Dirigido por D.J. Caruso. Escrito por D.J. Caruso, Wentworth Miller. Com Lucas Till (Ben), Kate Beckinsale (Dana), Gerald McRaney (Judge Blacker), Michael Landes (Teddy), Michaela Conlin (Jules), Celia Weston (Marti), Mel Raido (David), Duncan Joiner (Lucas), Charles Carroll (Old Man)."
 ---
 The Disappointments Room é um terror que se aproveita dos clichês já consagrados nesta década -- família em trauma se muda para casa no campo onde algo terrível aconteceu -- para fazer Cinema inteligente, abordando questões como feminismo e o terror dentro de nós mesmos. E, como já comprovou o excelente Babadook, existe pior terror do que o que guardamos em nossos corações?
 

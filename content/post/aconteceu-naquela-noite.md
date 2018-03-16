@@ -1,27 +1,10 @@
 ---
-date: "2015-11-01"
 imdb: "0025316"
-stars: "4/5"
+date: "2015-11-01"
 categories: "movies"
 title: "Aconteceu Naquela Noite"
-_title: "It Happened One Night"
-_year: "1934"
-_director: ["Frank Capra", ]
-_writer: ["Robert Riskin", "Samuel Hopkins Adams", ]
-_cast: ["Clark Gable", "Claudette Colbert", "Walter Connolly", "Roscoe Karns", "Jameson Thomas", "Alan Hale", "Arthur Hoyt", "Blanche Friderici", "Charles C. Wilson", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Gene Havlick", ]
-_cinematographer: ["Joseph Walker", ]
-_music: ["Howard Jackson", ]
-_artdirection: ["Stephen Goosson", ]
-_costume designer: ["Robert Kalloch", ]
-_genres: ["Comedy", ]
-_runtimes: ["105", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTczOTQ1MTQ4MF5BMl5BanBnXkFtZTcwODI2MDk4OQ@@.jpg"
-_ratio: "1.37 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTczOTQ1MTQ4MF5BMl5BanBnXkFtZTcwODI2MDk4OQ@@._V1._SX92_SY140_.jpg"
+stars: "4/5"
+desc: "Aconteceu Naquela Noite. It Happened One Night (USA, 1934). Dirigido por Frank Capra. Escrito por Robert Riskin, Samuel Hopkins Adams. Com Clark Gable, Claudette Colbert, Walter Connolly, Roscoe Karns, Jameson Thomas, Alan Hale, Arthur Hoyt, Blanche Friderici, Charles C. Wilson."
 ---
 Será esta a comédia romântica mãe de todas as comédias românticas? Bom, uma coisa ela é: o exemplo perfeito de como, mesmo se tratando de um sub-gênero maniqueísta, é possível extrair boas histórias e um ótimo elenco em cima do que hoje são clichês mais que consagrados. Alguns já são jurássicos!
 

@@ -1,26 +1,11 @@
 ---
-date: "2013-03-05"
 imdb: "2125435"
+date: "2013-03-05"
+categories: "movies"
 count: 2
 title: "Indomável Sonhadora"
 stars: "4/5"
-categories: "movies"
-_title: "Beasts of the Southern Wild"
-_year: "2012"
-_director: ["Benh Zeitlin", ]
-_writer: ["Lucy Alibar", "Benh Zeitlin", "Lucy Alibar", ]
-_cast: ["Quvenzhané Wallis", "Dwight Henry", "Levy Easterly", "Lowell Landes", "Pamela Harper", "Gina Montana", "Amber Henry", "Jonshel Alexander", "Nicholas Clark", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Crockett Doob", "Affonso Gonçalves", ]
-_cinematographer: ["Ben Richardson", ]
-_music: ["Dan Romer", "Benh Zeitlin", ]
-_genres: ["Drama", ]
-_runtimes: ["93", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTgxNDM5MDM1Ml5BMl5BanBnXkFtZTcwOTYwNzQ3Nw@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTgxNDM5MDM1Ml5BMl5BanBnXkFtZTcwOTYwNzQ3Nw@@._V1._SX94_SY140_.jpg"
+desc: "Indomável Sonhadora. Beasts of the Southern Wild (USA, 2012). Dirigido por Benh Zeitlin. Escrito por Lucy Alibar, Benh Zeitlin, Lucy Alibar. Com Quvenzhané Wallis, Dwight Henry, Levy Easterly, Lowell Landes, Pamela Harper, Gina Montana, Amber Henry, Jonshel Alexander, Nicholas Clark."
 ---
 Desde o começo Hushpuppy (Quvenzhané Wallis)  a Indomável Sonhadora do título nacional  carrega a história nas costas. O que não é pouca coisa se considerarmos que ela mal aparenta dez anos de idade. Acompanhamos sua jornada precoce rumo à maturidade junto de uma inspirada orquestra que toca cada passagem da história como se fosse um momento único e solene rumo a sua emancipação. A fotografia árida, ajudada pelos grãos difusos e o foco oscilante, e a sempre tremendo câmera parecem sugerir um mundo instável prestes a acabar em um deserto. Pudera. Se até para os adultos a vida não é fácil conseguimos imaginar os esforços da pequena. Sua experiência de vida é muito diferente da vida na cidade, e o que parece cruel ou duro demais a uma criança acaba soando apenas como mais um rito de iniciação.
 

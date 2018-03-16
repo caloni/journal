@@ -1,25 +1,10 @@
 ---
-date: "2011-09-27"
 imdb: "1529572"
+date: "2011-09-27"
+categories: "movies"
 title: "Confiar"
 stars: "3/5"
-categories: "movies"
-_title: "Trust"
-_year: "2010"
-_director: ["David Schwimmer", ]
-_writer: ["Andy Bellin", "Robert Festinger", ]
-_cast: ["Clive Owen", "Catherine Keener", "Liana Liberato", "Jason Clarke", "Viola Davis", "Chris Henry Coffey", "Spencer Curnutt", "Aislinn DeButch", "Noah Emmerich", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Douglas Crise", ]
-_cinematographer: ["Andrzej Sekula", ]
-_music: ["Nathan Larson", ]
-_genres: ["Crime", ]
-_runtimes: ["106", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMzM2Mjc0Nzc4NF5BMl5BanBnXkFtZTcwNDk0MjY0NA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMzM2Mjc0Nzc4NF5BMl5BanBnXkFtZTcwNDk0MjY0NA@@._V1._SX95_SY140_.jpg"
+desc: "Confiar. Trust (USA, 2010). Dirigido por David Schwimmer. Escrito por Andy Bellin, Robert Festinger. Com Clive Owen, Catherine Keener, Liana Liberato, Jason Clarke, Viola Davis, Chris Henry Coffey, Spencer Curnutt, Aislinn DeButch, Noah Emmerich."
 ---
 Dirigido e escrito pelos estreante no cinema David Schwimmer e Andy Bellin (esta co-roteirizada por Robert Festinger, do excelente Entre Quatro Paredes), este drama de tons realistas e de caráter emergencial conta a história de Annie, uma jovem colegial que acaba de completar 14 anos e que pertence a uma família tranquila e estruturada. Como todas as jovens de sua idade, costuma passar o tempo alheia à vida em sua volta, se comunicando com amigos virtuais através do celular e de seu computador (presente de aniversário de seu pai, um detalhe sutil, mas trágico).
 

@@ -1,25 +1,10 @@
 ---
-date: "2012-03-04"
 imdb: "0088930"
+date: "2012-03-04"
+categories: "movies"
 title: "Os 7 Suspeitos"
 stars: "3/5"
-categories: "movies"
-_title: "Clue"
-_year: "1985"
-_director: ["Jonathan Lynn", ]
-_writer: ["John Landis", "Jonathan Lynn", "Jonathan Lynn", "Anthony E. Pratt", ]
-_cast: ["Eileen Brennan", "Tim Curry", "Madeline Kahn", "Christopher Lloyd", "Michael McKean", "Martin Mull", "Lesley Ann Warren", "Colleen Camp", "Lee Ving", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["David Bretherton", "Richard Haines", ]
-_cinematographer: ["Victor J. Kemper", ]
-_music: ["John Morris", ]
-_genres: ["Comedy", ]
-_runtimes: ["94", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNTc3NDc1ODYxNl5BMl5BanBnXkFtZTcwMjc5MDMyMQ@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNTc3NDc1ODYxNl5BMl5BanBnXkFtZTcwMjc5MDMyMQ@@._V1._SX99_SY140_.jpg"
+desc: "Os 7 Suspeitos. Clue (USA, 1985). Dirigido por Jonathan Lynn. Escrito por John Landis, Jonathan Lynn, Jonathan Lynn, Anthony E. Pratt. Com Eileen Brennan, Tim Curry, Madeline Kahn, Christopher Lloyd, Michael McKean, Martin Mull, Lesley Ann Warren, Colleen Camp, Lee Ving."
 ---
 Já faz algumas décadas que não revia essa comédia ambientada nos anos 50 que mistura elementos de suspense, terror e policial de uma maneira particularmente competente. De certa forma, quando eu tinha cerca de 10 anos já sabia que a graça do filme residia tanto em sua história quanto na dinâmica do grupo, os suspeitos do título.
 

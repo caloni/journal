@@ -1,27 +1,11 @@
 ---
-date: "2016-07-16"
-tags: [ "cabine" ]
-categories: "movies"
+tags: ['cabine']
 imdb: "4721400"
-stars: "4/5"
+date: "2016-07-16"
+categories: "movies"
 title: "De Longe Te Observo"
-_title: "Desde allá"
-_year: "2015"
-_director: ["Lorenzo Vigas", ]
-_writer: ["Lorenzo Vigas", "Guillermo Arriaga", "Lorenzo Vigas", ]
-_cast: ["Alfredo Castro", "Luis Silva", "Jericó Montilla", "Catherina Cardozo", "Jorge Luis Bosque", "Greymer Acosta", "Auffer Camacho", "Ivan Peña", "Joretsis Ibarra", ]
-_countries: ["Venezuela", ]
-_languages: ["Spanish", ]
-_editor: ["Isabela Monteiro de Castro", ]
-_cinematographer: ["Sergio Armstrong", ]
-_artdirection: ["Matías Tikas", ]
-_costume designer: ["Marisela Marin", ]
-_genres: ["Drama", ]
-_runtimes: ["93", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTUxNzI0MjUyNV5BMl5BanBnXkFtZTgwODE1NzYwOTE@.jpg"
-_ratio: "2.66 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTUxNzI0MjUyNV5BMl5BanBnXkFtZTgwODE1NzYwOTE@._V1._SX94_SY140_.jpg"
+stars: "4/5"
+desc: "De Longe Te Observo. Desde allá (Venezuela, 2015). Dirigido por Lorenzo Vigas. Escrito por Lorenzo Vigas, Guillermo Arriaga, Lorenzo Vigas. Com Alfredo Castro, Luis Silva, Jericó Montilla, Catherina Cardozo, Jorge Luis Bosque, Greymer Acosta, Auffer Camacho, Ivan Peña, Joretsis Ibarra."
 ---
 Este é o filme que levou o Leão de Ouro de Veneza, do diretor estreante Lorenzo Vigas, que também assina o roteiro. Conta a história de um velho tarado por jovens e que sente um rancor incomensurável a respeito do pai, que está de volta a Caracas.
 

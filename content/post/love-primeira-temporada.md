@@ -1,26 +1,11 @@
 ---
+tags: ['netflix', 'series']
+imdb: "4061080"
 date: "2016-03-01"
 categories: "series"
-imdb: "4061080"
-stars: "3/5"
 title: "Love - Primeira Temporada"
-tags: ['netflix', 'series']
-_title: "Love"
-_year: "2016"
-_director: ["Dean Holland", "John Slattery", ]
-_writer: ["Judd Apatow", "Lesley Arfin", "Paul Rust", "Brent Forrester", ]
-_cast: ["Gillian Jacobs", "Paul Rust", "Claudia O'Doherty", "Jordan Rock", "Tracie Thoms", "Mike Mitchell", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Dan Schalk", ]
-_music: ["Lyle Workman", ]
-_artdirection: ["Robert Vukasovich", "Jamie Walker McCall", ]
-_costume designer: ["Jennifer Eve", ]
-_genres: ["Comedy", ]
-_runtimes: ["50", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQ1NjYwMzI5Ml5BMl5BanBnXkFtZTgwMTAwNTg5NzE@.jpg"
-_kind: "tv series"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQ1NjYwMzI5Ml5BMl5BanBnXkFtZTgwMTAwNTg5NzE@._V1._SX94_SY140_.jpg"
+stars: "3/5"
+desc: "Love - Primeira Temporada. Love (USA, 2016). Dirigido por Dean Holland, John Slattery. Escrito por Judd Apatow, Lesley Arfin, Paul Rust, Brent Forrester. Com Gillian Jacobs, Paul Rust, Claudia O'Doherty, Jordan Rock, Tracie Thoms, Mike Mitchell."
 ---
 O que significa se relacionar? Por que para algumas pessoas isso funciona tão bem, enquanto para outras é como dirigir um trator esmagando todos os corações pelo caminho?
 

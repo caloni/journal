@@ -1,25 +1,10 @@
 ---
-date: "2013-01-20"
 imdb: "1922777"
+date: "2013-01-20"
+categories: "movies"
 title: "A Entidade"
 stars: "3/5"
-categories: "movies"
-_title: "Sinister"
-_year: "2012"
-_director: ["Scott Derrickson", ]
-_writer: ["Scott Derrickson", "C. Robert Cargill", ]
-_cast: ["Ethan Hawke", "Juliet Rylance", "Fred Dalton Thompson", "James Ransone", "Michael Hall D'Addario", "Clare Foley", "Rob Riley", "Tavis Smiley", "Janet Zappala", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Frédéric Thoraval", ]
-_cinematographer: ["Chris Norr", ]
-_music: ["Christopher Young", ]
-_genres: ["Horror", ]
-_runtimes: ["110", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjI5MTg1Njg0Ml5BMl5BanBnXkFtZTcwNzg2Mjc4Nw@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjI5MTg1Njg0Ml5BMl5BanBnXkFtZTcwNzg2Mjc4Nw@@._V1._SX94_SY140_.jpg"
+desc: "A Entidade. Sinister (USA, 2012). Dirigido por Scott Derrickson. Escrito por Scott Derrickson, C. Robert Cargill. Com Ethan Hawke, Juliet Rylance, Fred Dalton Thompson, James Ransone, Michael Hall D'Addario, Clare Foley, Rob Riley, Tavis Smiley, Janet Zappala."
 ---
 O desenvolvimento de A Entidade diz mais sobre o espectador do que sobre a própria história. Em um mundo cada vez mais cínico e cético, a dificuldade em gerar tensão em um filme de horror  com exceção das inúmeras versões de Atividade Paranormal  permanece na credibilidade dos acontecimentos. Se nossas crenças já não mais estabelecem espíritos e demônios como os seres supremos do mal a imersão nas histórias contemporâneas caminham cada vez mais para os efeitos dessas forças malignas: a morte, simplesmente.
 

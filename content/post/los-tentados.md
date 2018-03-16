@@ -1,20 +1,10 @@
 ---
-date: "2013-10-26"
-title: "Los tentados"
 imdb: "2805584"
-stars: "2/5"
+date: "2013-10-26"
 categories: "movies"
-_title: "Los tentados"
-_year: "2013"
-_director: ["Mariano Blanco", ]
-_writer: ["Mariano Blanco", ]
-_cast: ["Fany Palmieri", "Lucía Romero", "Javier Abril Rotger", "Ramiro Sciallo", ]
-_countries: ["Argentina", ]
-_languages: ["Spanish", ]
-_editor: ["Mariano Blanco", ]
-_cinematographer: ["Ian Feld", ]
-_runtimes: ["82", ]
-_kind: "movie"
+title: "Los tentados"
+stars: "2/5"
+desc: "Los tentados. Los tentados (Argentina, 2013). Dirigido por Mariano Blanco. Escrito por Mariano Blanco. Com Fany Palmieri, Lucía Romero, Javier Abril Rotger, Ramiro Sciallo."
 ---
 Primeiro longa do diretor Mariano Blanco, não existem muitas ideias a serem seguidas em Los Tentados, ou elas estão tão sutilmente colocadas ali que fica difícil encontrar base para qualquer tipo de interpretação.
 

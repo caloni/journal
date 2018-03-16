@@ -1,27 +1,10 @@
 ---
-date: "2016-01-04"
 imdb: "0119528"
-stars: "4/5"
+date: "2016-01-04"
 categories: "movies"
 title: "O Mentiroso"
-_title: "Liar Liar"
-_year: "1997"
-_director: ["Tom Shadyac", ]
-_writer: ["Paul Guay", "Stephen Mazur", ]
-_cast: ["Jim Carrey", "Maura Tierney", "Justin Cooper", "Cary Elwes", "Anne Haney", "Jennifer Tilly", "Amanda Donohoe", "Jason Bernard", "Swoosie Kurtz", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Don Zimmerman", ]
-_cinematographer: ["Russell Boyd", ]
-_music: ["John Debney", ]
-_artdirection: ["Richard Toyon", ]
-_costume designer: ["Judy L. Ruskin", ]
-_genres: ["Comedy", ]
-_runtimes: ["86", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjEzMzA3NzgwNF5BMl5BanBnXkFtZTcwNzQ4MDgyMQ@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjEzMzA3NzgwNF5BMl5BanBnXkFtZTcwNzQ4MDgyMQ@@._V1._SX99_SY140_.jpg"
+stars: "4/5"
+desc: "O Mentiroso. Liar Liar (USA, 1997). Dirigido por Tom Shadyac. Escrito por Paul Guay, Stephen Mazur. Com Jim Carrey, Maura Tierney, Justin Cooper, Cary Elwes, Anne Haney, Jennifer Tilly, Amanda Donohoe, Jason Bernard, Swoosie Kurtz."
 ---
 Jim Carrey é um comediante tão talentoso que, se inserido no projeto certo, pode render um filme que sem ele seria apenas um passatempo da sessão da tarde, mas com ele ganha contornos cartunescos que remetem o significado da história que acompanhamos para algo além do trivial.
 

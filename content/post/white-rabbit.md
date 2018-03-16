@@ -1,25 +1,10 @@
 ---
-date: "2016-01-04"
 imdb: "2241116"
-stars: "3/5"
+date: "2016-01-04"
 categories: "movies"
 title: "White Rabbit"
-_title: "White Rabbit"
-_year: "2013"
-_director: ["Tim McCann", ]
-_writer: ["Anthony Di Pietro", "Anthony Di Pietro", ]
-_cast: ["Britt Robertson", "Sam Trammell", "Ryan Lee", "Nick Krause", "Dodie Brown", "Kelcy Baker", "Gabrielle N. Brown", "Hayden Price", "Cameron Feucht", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Tim McCann", ]
-_cinematographer: ["Alan McIntyre Smith", ]
-_music: ["John Vincent McCauley", ]
-_costume designer: ["Caryn Frankenfield", ]
-_genres: ["Drama", ]
-_runtimes: ["90", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTkyOTIxMjk3Ml5BMl5BanBnXkFtZTgwNzgyMzQ2MzE@.jpg"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTkyOTIxMjk3Ml5BMl5BanBnXkFtZTgwNzgyMzQ2MzE@._V1._SX100_SY138_.jpg"
+stars: "3/5"
+desc: "White Rabbit. White Rabbit (USA, 2013). Dirigido por Tim McCann. Escrito por Anthony Di Pietro, Anthony Di Pietro. Com Britt Robertson, Sam Trammell, Ryan Lee, Nick Krause, Dodie Brown, Kelcy Baker, Gabrielle N. Brown, Hayden Price, Cameron Feucht."
 ---
 O que esse filme quer dizer? Que é assim que se forma um psicopata que mata jovens em uma escola? Ou que é assim que se salva uma das vítimas? Qual a lição apresentada por um filme que já revela seu desfecho nos primeiros 30 segundos?
 

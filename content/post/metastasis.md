@@ -1,27 +1,11 @@
 ---
+tags: ['netflix', 'series']
+imdb: "3190448"
 date: "2015-03-03"
 categories: "blog"
-imdb: "3190448"
-stars: "4/5"
 title: "Metástasis (piloto)"
-tags: ['netflix', 'series']
-_title: "Metástasis"
-_year: "2014"
-_director: ["Andrés Baiz", "Andrés Biermann", ]
-_writer: ["Vince Gilligan", "Lina Maria Arboleda", "Andrés Burgos", "Peter Gould", ]
-_cast: ["Diego Trujillo", "Roberto Urbina", "Sandra Reyes", "Constanza Camelo", "Diego Garzon Flores", "Julián Arango", "Julio Pachón", ]
-_countries: ["Colombia", ]
-_languages: ["Spanish", ]
-_editor: ["Ramiro Otalora", "Edwin Benavides", "Jefferson Flórez", "Jorge Forero", "Harold Londoño", ]
-_cinematographer: ["Oswaldo Ramírez", "Manuel Castañeda", ]
-_music: ["Juan Pablo Martínez", "Martha Lucía Miranda", "Dave Porter", ]
-_artdirection: ["Juan Fernando Pérez", ]
-_costume designer: ["Lina Carvajal", ]
-_genres: ["Crime", ]
-_runtimes: ["60::(with commercials)", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTgzNzUzODk4MV5BMl5BanBnXkFtZTgwODIzNTAwNjE@.jpg"
-_kind: "tv series"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTgzNzUzODk4MV5BMl5BanBnXkFtZTgwODIzNTAwNjE@._V1._SX100_SY77_.jpg"
+stars: "4/5"
+desc: "Metástasis (piloto). Metástasis (Colombia, 2014). Dirigido por Andrés Baiz, Andrés Biermann. Escrito por Vince Gilligan, Lina Maria Arboleda, Andrés Burgos, Peter Gould. Com Diego Trujillo, Roberto Urbina, Sandra Reyes, Constanza Camelo, Diego Garzon Flores, Julián Arango, Julio Pachón."
 ---
 Tive uma experiência no mínimo curiosa esta noite. Não, não é o que você pode estar pensando se você não me conhece. Quem participou da experiência comigo foi a Netflix. E Saul Goodman, ou James McGill. E Walter White e seu alter ego latino, "Señor Blanco".
 

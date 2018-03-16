@@ -1,26 +1,10 @@
 ---
-date: "2015-10-01"
 imdb: "2282016"
-stars: "4/5"
+date: "2015-10-01"
 categories: "movies"
 title: "A Possessão do Mal"
-_title: "The Possession of Michael King"
-_year: "2014"
-_director: ["David Jung", ]
-_writer: ["David Jung", "David Jung", "Tedi Sarafian", ]
-_cast: ["Shane Johnson", "Ella Anderson", "Cara Pifko", "Krystal Alvarez", "Tomas Arana", "Luke Baines", "Dale Dickey", "Cullen Douglas", "Michael Ray Escamilla", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Jake York", ]
-_cinematographer: ["Phil Parmet", ]
-_artdirection: ["Julie Ziah", ]
-_costume designer: ["Francine Lecoultre", ]
-_genres: ["Horror", ]
-_runtimes: ["83", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNTUzMzUxNzU4OF5BMl5BanBnXkFtZTgwNzUyMTcxMjE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNTUzMzUxNzU4OF5BMl5BanBnXkFtZTgwNzUyMTcxMjE@._V1._SX95_SY140_.jpg"
+stars: "4/5"
+desc: "A Possessão do Mal. The Possession of Michael King (USA, 2014). Dirigido por David Jung. Escrito por David Jung, David Jung, Tedi Sarafian. Com Shane Johnson, Ella Anderson, Cara Pifko, Krystal Alvarez, Tomas Arana, Luke Baines, Dale Dickey, Cullen Douglas, Michael Ray Escamilla."
 ---
 O terror atual se estabelece como uma repetição exaustiva da fórmula da Bruxa de Blair (de 99) "refinado" por seus trabalhos mais caseiros no estilo Atividade Paranormal (de 2007). Tudo que gira em torno desse micro-cosmos são pequenas variações do mesmo tema. Sempre foi assim e sempre será. De vez em quando temos uma surpresa, mas geralmente ela demora a chegar.
 

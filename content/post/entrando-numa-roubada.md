@@ -1,23 +1,11 @@
 ---
-date: "2015-08-23"
-tags: [ "cabine" ]
+tags: ['cabine']
 imdb: "3108662"
-stars: "3/5"
+date: "2015-08-23"
 categories: "movies"
 title: "Entrando Numa Roubada"
-_title: "Entrando Numa Roubada"
-_year: "2015"
-_director: ["André Moraes", ]
-_writer: ["André Moraes", "André Moraes", ]
-_cast: ["Deborah Secco", "Lúcio Mauro Filho", "Júlio Andrade", "Bruno Torres", "Ana Carolina Machado", "Marcos Veras", "Tadeu Mello", "Tonico Pereira", "Thogun", ]
-_countries: ["Brazil", ]
-_languages: ["Portuguese", ]
-_editor: ["Willem Dias", ]
-_cinematographer: ["André Lavenére", ]
-_music: ["Vivian Aguiar-Buff", "André Moraes", ]
-_genres: ["Action", ]
-_runtimes: ["Brazil:90", ]
-_kind: "movie"
+stars: "3/5"
+desc: "Entrando Numa Roubada. Entrando Numa Roubada (Brazil, 2015). Dirigido por André Moraes. Escrito por André Moraes, André Moraes. Com Deborah Secco, Lúcio Mauro Filho, Júlio Andrade, Bruno Torres, Ana Carolina Machado, Marcos Veras, Tadeu Mello, Tonico Pereira, Thogun."
 ---
 Este é o primeiro filme dirigido por André Moraes, compositor que esteve envolvido naquele desastre chamado Assalto ao Banco Central. Aqui ele dirige, escreve e co-produz uma suposta comédia que se traveste de road-movie com uma dramatização que torna o resultado final meio bipolar.
 

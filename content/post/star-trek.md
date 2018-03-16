@@ -1,26 +1,11 @@
 ---
-date: "2012-04-16"
 imdb: "0796366"
-revision: [2013-06-17]
+date: "2012-04-16"
+categories: "movies"
 title: "Star Trek"
 stars: "5/5"
-categories: "movies"
-_title: "Star Trek"
-_year: "2009"
-_director: ["J.J. Abrams", ]
-_writer: ["Roberto Orci", "Alex Kurtzman", "Gene Roddenberry", ]
-_cast: ["Chris Pine", "Zachary Quinto", "Leonard Nimoy", "Eric Bana", "Bruce Greenwood", "Karl Urban", "Zoe Saldana", "Simon Pegg", "John Cho", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Maryann Brandon", "Mary Jo Markey", ]
-_cinematographer: ["Daniel Mindel", ]
-_music: ["Michael Giacchino", ]
-_genres: ["Action", ]
-_runtimes: ["127", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjE5NDQ5OTE4Ml5BMl5BanBnXkFtZTcwOTE3NDIzMw@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjE5NDQ5OTE4Ml5BMl5BanBnXkFtZTcwOTE3NDIzMw@@._V1._SX94_SY140_.jpg"
+revision: [datetime.date(2013, 6, 17)]
+desc: "Star Trek. Star Trek (USA, 2009). Dirigido por J.J. Abrams. Escrito por Roberto Orci, Alex Kurtzman, Gene Roddenberry. Com Chris Pine, Zachary Quinto, Leonard Nimoy, Eric Bana, Bruce Greenwood, Karl Urban, Zoe Saldana, Simon Pegg, John Cho."
 ---
 ## Um filme que foi onde a série antiga de filmes jamais esteve.
 

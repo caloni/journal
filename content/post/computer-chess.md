@@ -1,24 +1,10 @@
 ---
-date: "2014-06-06"
 imdb: "2007360"
+date: "2014-06-06"
+categories: "movies"
 title: "Computer Chess"
 stars: "3/5"
-categories: "movies"
-_title: "Computer Chess"
-_year: "2013"
-_director: ["Andrew Bujalski", ]
-_writer: ["Andrew Bujalski", ]
-_cast: ["Kriss Schludermann", "Tom Fletcher", "Wiley Wiggins", "Patrick Riester", "Kevin Bewersdorf", "Gene Williams", "Jim Lewis", "Cole Noppenberg", "Myles Paige", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Andrew Bujalski", ]
-_cinematographer: ["Matthias Grunsky", ]
-_genres: ["Comedy", ]
-_runtimes: ["92", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNTIzNzA0MDE1Nl5BMl5BanBnXkFtZTcwMDIxMDY2OQ@@.jpg"
-_ratio: "1.33 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNTIzNzA0MDE1Nl5BMl5BanBnXkFtZTcwMDIxMDY2OQ@@._V1._SX94_SY140_.jpg"
+desc: "Computer Chess. Computer Chess (USA, 2013). Dirigido por Andrew Bujalski. Escrito por Andrew Bujalski. Com Kriss Schludermann, Tom Fletcher, Wiley Wiggins, Patrick Riester, Kevin Bewersdorf, Gene Williams, Jim Lewis, Cole Noppenberg, Myles Paige."
 ---
 Já virou um clichê cinematográfico: se vai fazer filme de xadrez, sua história tem que ser complexa. No caso de Computer Chess, essa complexidade nos personagens e em suas relações é complementada pelo fato de um filme de 2013 emular os anos 80 através de filmagens em preto e branco com razão de aspecto quadrada e erros de edição um possível encontro de programadores entusiastas em um torneio disputado entre suas máquinas de fazer cálculo. A ideia é parecer um documentário, mas sua estrutura possui o tom ficcional, com cortes definidos e diálogos obviamente vindos de um roteiro. Vemos a câmera e o cameraman diversas vezes, o que obviamente já nos revela aquele ser um filme amador sobre um documentário sendo feito em um campeonato de programas de xadrez, o que com certeza dá o tom da complexidade que comentei.
 

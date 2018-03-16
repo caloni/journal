@@ -1,25 +1,10 @@
 ---
-date: "2011-08-22"
 imdb: "0090305"
+date: "2011-08-22"
+categories: "movies"
 title: "Mulher Nota Mil"
 stars: "2/5"
-categories: "movies"
-_title: "Weird Science"
-_year: "1985"
-_director: ["John Hughes", ]
-_writer: ["John Hughes", ]
-_cast: ["Anthony Michael Hall", "Kelly LeBrock", "Ilan Mitchell-Smith", "Bill Paxton", "Suzanne Snyder", "Judie Aronson", "Robert Downey Jr.", "Robert Rusler", "Vernon Wells", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Chris Lebenzon", "Scott K. Wallace", "Mark Warner", ]
-_cinematographer: ["Matthew F. Leonetti", ]
-_music: ["Ira Newborn", ]
-_genres: ["Comedy", ]
-_runtimes: ["94", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNTE2MzkxNzExM15BMl5BanBnXkFtZTgwNzIwODQxMTE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNTE2MzkxNzExM15BMl5BanBnXkFtZTgwNzIwODQxMTE@._V1._SX93_SY140_.jpg"
+desc: "Mulher Nota Mil. Weird Science (USA, 1985). Dirigido por John Hughes. Escrito por John Hughes. Com Anthony Michael Hall, Kelly LeBrock, Ilan Mitchell-Smith, Bill Paxton, Suzanne Snyder, Judie Aronson, Robert Downey Jr., Robert Rusler, Vernon Wells."
 ---
 Mulher Nota Mil representa precisamente a época em que foi produzido, bem no meio da década de 80. E, ao mesmo tempo, serve como um belo reflexo de produções recentes, como American Pie, que demonstram que no que tange à síndrome dos garotos impopulares que nunca conseguem namoradas no colégio, o cinema não avançou quase nada: foi apenas atualizado para os padrões modernos.
 

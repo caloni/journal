@@ -1,26 +1,11 @@
 ---
-date: "2015-05-22"
 imdb: "1392190"
-stars: "5/5"
+date: "2015-05-22"
 categories: "movies"
 title: "Mad Max: Estrada da Fúria"
-revision: [2015-06-03]
-_title: "Mad Max: Fury Road"
-_year: "2015"
-_director: ["George Miller", ]
-_writer: ["George Miller", "Brendan McCarthy", "Nick Lathouris", ]
-_cast: ["Tom Hardy", "Charlize Theron", "Nicholas Hoult", "Hugh Keays-Byrne", "Josh Helman", "Nathan Jones", "Zoë Kravitz", "Rosie Huntington-Whiteley", "Riley Keough", ]
-_countries: ["Australia", ]
-_languages: ["English", ]
-_editor: ["Margaret Sixel", ]
-_cinematographer: ["John Seale", ]
-_music: ["Junkie XL", ]
-_genres: ["Action", ]
-_runtimes: ["120", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTUyMTE0ODcxNF5BMl5BanBnXkFtZTgwODE4NDQzNTE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTUyMTE0ODcxNF5BMl5BanBnXkFtZTgwODE4NDQzNTE@._V1._SX96_SY140_.jpg"
+stars: "5/5"
+revision: [datetime.date(2015, 6, 3)]
+desc: "Mad Max: Estrada da Fúria. Mad Max: Fury Road (Australia, 2015). Dirigido por George Miller. Escrito por George Miller, Brendan McCarthy, Nick Lathouris. Com Tom Hardy, Charlize Theron, Nicholas Hoult, Hugh Keays-Byrne, Josh Helman, Nathan Jones, Zoë Kravitz, Rosie Huntington-Whiteley, Riley Keough."
 ---
 Quando vi Kingsman estava convicto que qualquer filme de ação esse ano seria uma versão menor deste trabalho exemplar do que o uso da paródia com toques de realismo pode fazer. Até tomar coragem e ir conferir na telona esse novo Mad Max, que retorna aos anos 80 (ou 1979, estreia do original), mas mantém sua ideologia com um pé nos anos atuais enquanto realiza não só uma homenagem, mas uma redimensionada na série de filmes que estava já há algum tempo esquecida.
 

@@ -1,25 +1,10 @@
 ---
-date: "2011-01-31"
 imdb: "0396171"
+date: "2011-01-31"
+categories: "movies"
 title: "Perfume A História de um Assassino"
 stars: "5/5"
-categories: "movies"
-_title: "Perfume: The Story of a Murderer"
-_year: "2006"
-_director: ["Tom Tykwer", ]
-_writer: ["Andrew Birkin", "Bernd Eichinger", "Tom Tykwer", "Patrick Süskind", ]
-_cast: ["Ben Whishaw", "Francesc Albiol", "Gonzalo Cunill", "Roger Salvany", "Andrés Herrera", "Simon Chandler", "David Calder", "Richard Felix", "Birgit Minichmayr", ]
-_countries: ["Germany", ]
-_languages: ["English", ]
-_editor: ["Alexander Berner", ]
-_cinematographer: ["Frank Griebe", ]
-_music: ["Reinhold Heil", "Johnny Klimek", "Tom Tykwer", ]
-_genres: ["Crime", ]
-_runtimes: ["147", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTI0NjUyMTk3Nl5BMl5BanBnXkFtZTcwOTA5MzkzMQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTI0NjUyMTk3Nl5BMl5BanBnXkFtZTcwOTA5MzkzMQ@@._V1._SX94_SY140_.jpg"
+desc: "Perfume A História de um Assassino. Perfume: The Story of a Murderer (Germany, 2006). Dirigido por Tom Tykwer. Escrito por Andrew Birkin, Bernd Eichinger, Tom Tykwer, Patrick Süskind. Com Ben Whishaw, Francesc Albiol, Gonzalo Cunill, Roger Salvany, Andrés Herrera, Simon Chandler, David Calder, Richard Felix, Birgit Minichmayr."
 ---
 Jean-Baptiste Grenouille é um personagem atípico. Abandonado pela mãe logo após o parto, sua maior (única?) destreza são suas capacidades olfativas: capaz de sentir o cheiro até mesmo de elementos normalmente inodoros como vidro e cobre, e isso nos submete imediatamente ao conceito de fábula, ele segue seu destino tendo como única obsessão na vida criar o perfume perfeito.
 

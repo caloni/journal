@@ -1,25 +1,10 @@
 ---
-date: "2014-12-20"
 imdb: "0129167"
+date: "2014-12-20"
+categories: "movies"
 title: "O Gigante de Ferro"
 stars: "4/5"
-categories: "movies"
-_title: "The Iron Giant"
-_year: "1999"
-_director: ["Brad Bird", ]
-_writer: ["Tim McCanlies", "Brad Bird", "Ted Hughes", ]
-_cast: ["Jennifer Aniston", "Harry Connick Jr.", "Vin Diesel", "James Gammon", "Cloris Leachman", "Christopher McDonald", "John Mahoney", "Eli Marienthal", "M. Emmet Walsh", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Darren T. Holmes", ]
-_cinematographer: ["Steven Wilzbach", ]
-_music: ["Michael Kamen", ]
-_genres: ["Animation", ]
-_runtimes: ["86", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjE2NDc4MzY1NV5BMl5BanBnXkFtZTcwNDcxNjgxMQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjE2NDc4MzY1NV5BMl5BanBnXkFtZTcwNDcxNjgxMQ@@._V1._SX96_SY140_.jpg"
+desc: "O Gigante de Ferro. The Iron Giant (USA, 1999). Dirigido por Brad Bird. Escrito por Tim McCanlies, Brad Bird, Ted Hughes. Com Jennifer Aniston, Harry Connick Jr., Vin Diesel, James Gammon, Cloris Leachman, Christopher McDonald, John Mahoney, Eli Marienthal, M. Emmet Walsh."
 ---
 Primeiro trabalho em longas de Brad Bird ("Os Incríveis", Ratatouille), essa simpática animação peca apenas por ter alguns efeitos desajeitados e por carecer de expressões melhores para seus personagens. Fora isso, é um trabalho conciso e coeso e uma espécie de "reimaginação" de ET como um ser robótico e construído realmente com fins militares.
 

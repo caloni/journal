@@ -1,25 +1,10 @@
 ---
-date: "2010-04-03"
 imdb: "1228705"
+date: "2010-04-03"
+categories: "movies"
 title: "Homem de Ferro 2"
 stars: "3/5"
-categories: "movies"
-_title: "Iron Man 2"
-_year: "2010"
-_director: ["Jon Favreau", ]
-_writer: ["Justin Theroux", "Stan Lee", "Don Heck", "Larry Lieber", "Jack Kirby", ]
-_cast: ["Robert Downey Jr.", "Gwyneth Paltrow", "Don Cheadle", "Scarlett Johansson", "Sam Rockwell", "Mickey Rourke", "Samuel L. Jackson", "Clark Gregg", "John Slattery", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Dan Lebental", "Richard Pearson", ]
-_cinematographer: ["Matthew Libatique", ]
-_music: ["John Debney", ]
-_genres: ["Action", ]
-_runtimes: ["124", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTM0MDgwNjMyMl5BMl5BanBnXkFtZTcwNTg3NzAzMw@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTM0MDgwNjMyMl5BMl5BanBnXkFtZTcwNTg3NzAzMw@@._V1._SX94_SY140_.jpg"
+desc: "Homem de Ferro 2. Iron Man 2 (USA, 2010). Dirigido por Jon Favreau. Escrito por Justin Theroux, Stan Lee, Don Heck, Larry Lieber, Jack Kirby. Com Robert Downey Jr., Gwyneth Paltrow, Don Cheadle, Scarlett Johansson, Sam Rockwell, Mickey Rourke, Samuel L. Jackson, Clark Gregg, John Slattery."
 ---
 Se a primeira aventura do até então desconhecido Homem de Ferro impressionou o público, a crítica e a própria Marvel, essa continuação morna é a consolidação de Tony Stark como garoto-propaganda dessa fase. Não só isso, mas serve como o gancho que os produtores precisavam para inserir novos personagens secundários que serão mais ou menos relevantes na teia de eventos (ou colcha de retalhos) criada em torno da tão esperada estreia de Os Vingadores, filme que pretende unir uma série de heróis que terão cada um seus trabalhos solo. Uma aposta inédita que parece ter ganhado força justamente por conta da atuação surpreendente de Robert Downey Jr.
 

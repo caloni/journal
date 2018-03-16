@@ -1,25 +1,10 @@
 ---
-date: "2012-11-20"
 imdb: "1673434"
+date: "2012-11-20"
+categories: "movies"
 title: "A Saga Crepúsculo Amanhecer Parte 2"
 stars: "4/5"
-categories: "movies"
-_title: "The Twilight Saga: Breaking Dawn - Part 2"
-_year: "2012"
-_director: ["Bill Condon", ]
-_writer: ["Melissa Rosenberg", "Stephenie Meyer", ]
-_cast: ["Kristen Stewart", "Robert Pattinson", "Taylor Lautner", "Peter Facinelli", "Elizabeth Reaser", "Ashley Greene", "Jackson Rathbone", "Kellan Lutz", "Nikki Reed", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Virginia Katz", "Ian Slater", ]
-_cinematographer: ["Guillermo Navarro", ]
-_music: ["Carter Burwell", ]
-_genres: ["Adventure", ]
-_runtimes: ["115", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTcyMzUyMzY1OF5BMl5BanBnXkFtZTcwNDQ4ODk1OA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTcyMzUyMzY1OF5BMl5BanBnXkFtZTcwNDQ4ODk1OA@@._V1._SX94_SY140_.jpg"
+desc: "A Saga Crepúsculo Amanhecer Parte 2. The Twilight Saga: Breaking Dawn - Part 2 (USA, 2012). Dirigido por Bill Condon. Escrito por Melissa Rosenberg, Stephenie Meyer. Com Kristen Stewart, Robert Pattinson, Taylor Lautner, Peter Facinelli, Elizabeth Reaser, Ashley Greene, Jackson Rathbone, Kellan Lutz, Nikki Reed."
 ---
 Ao analisar um filme, mesmo que já existam preconceitos envolvendo a produção  como terríveis e risíveis produções anteriores  é preciso saber dar o braço a torcer quando o que vemos na tela é resultado de uma interpretação do diretor que não apenas melhora as premissas criadas nos filmes anteriores como consegue ainda corrigir impressões deixadas pelos erros do passado. Foi assim que me senti ao assistir ao último capítulo da novela Crepúsculo.
 

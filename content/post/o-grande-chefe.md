@@ -1,25 +1,10 @@
 ---
-date: "2015-09-30"
 imdb: "0469754"
-stars: "5/5"
+date: "2015-09-30"
 categories: "movies"
 title: "O Grande Chefe"
-_title: "Direktøren for det hele"
-_year: "2006"
-_director: ["Lars von Trier", ]
-_writer: ["Lars von Trier", ]
-_cast: ["Jens Albinus", "Peter Gantzler", "Friðrik Þór Friðriksson", "Benedikt Erlingsson", "Iben Hjejle", "Henrik Prip", "Mia Lyhne", "Casper Christensen", "Louise Mieritz", ]
-_countries: ["Denmark", ]
-_languages: ["Danish", ]
-_editor: ["Molly Marlene Stensgaard", ]
-_cinematographer: ["Claus Rosenløv Jensen", ]
-_music: ["Mikkel Maltha", ]
-_genres: ["Comedy", ]
-_runtimes: ["99", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjAzNjM0NzM1MV5BMl5BanBnXkFtZTcwMDE5Mzg0MQ@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjAzNjM0NzM1MV5BMl5BanBnXkFtZTcwMDE5Mzg0MQ@@._V1._SX94_SY140_.jpg"
+stars: "5/5"
+desc: "O Grande Chefe. Direktøren for det hele (Denmark, 2006). Dirigido por Lars von Trier. Escrito por Lars von Trier. Com Jens Albinus, Peter Gantzler, Friðrik Þór Friðriksson, Benedikt Erlingsson, Iben Hjejle, Henrik Prip, Mia Lyhne, Casper Christensen, Louise Mieritz."
 ---
 Uma comédia pautada no absurdo, mas que ancora suas situações em neuroses realistas nos colegas de uma empresa. No entanto, tais neuroses nunca seriam expostas por pessoas reais, e a beleza de O Grande Chefe é justamente deixar fluir o comportamento humano até suas últimas consequências, enquanto ironicamente o comportamento de um ator medíocre é analisado sob a ótica da incompetência.
 

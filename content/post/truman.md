@@ -1,27 +1,10 @@
 ---
-date: "2016-05-03"
 imdb: "3754940"
-stars: "3/5"
+date: "2016-05-03"
 categories: "movies"
 title: "Truman"
-_title: "Truman"
-_year: "2015"
-_director: ["Cesc Gay", ]
-_writer: ["Tomàs Aragay", "Cesc Gay", ]
-_cast: ["Ricardo Darín", "Javier Cámara", "Dolores Fonzi", "Eduard Fernández", "Troilo", "Alex Brendemühl", "Pedro Casablanc", "José Luis Gómez", "Javier Gutiérrez", ]
-_countries: ["Spain", ]
-_languages: ["Spanish", ]
-_editor: ["Pablo Barbieri Carrera", ]
-_cinematographer: ["Andreu Rebés", ]
-_music: ["Nico Cota", "Toti Soler", ]
-_artdirection: ["Jorien Sont", ]
-_costume designer: ["Anna Güell", ]
-_genres: ["Comedy", ]
-_runtimes: ["108", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BZGI3ZjI3ZTgtMmUwMy00YTgzLWIyYzQtMzg3ZWMyMjVlYThmXkEyXkFqcGdeQXVyMzE1ODcwNDc@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BZGI3ZjI3ZTgtMmUwMy00YTgzLWIyYzQtMzg3ZWMyMjVlYThmXkEyXkFqcGdeQXVyMzE1ODcwNDc@._V1._SX98_SY140_.jpg"
+stars: "3/5"
+desc: "Truman. Truman (Spain, 2015). Dirigido por Cesc Gay. Escrito por Tomàs Aragay, Cesc Gay. Com Ricardo Darín, Javier Cámara, Dolores Fonzi, Eduard Fernández, Troilo, Alex Brendemühl, Pedro Casablanc, José Luis Gómez, Javier Gutiérrez."
 ---
 Esse talvez seja um dos mais decepcionantes filmes com Ricardo Darín, mas não deixa de ser interessante em alguns momentos, como quando discute a diferença entre ser tratado como um ser humano ordinário e um ser humano moribundo.
 

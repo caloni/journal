@@ -1,25 +1,11 @@
 ---
-date: "2015-06-24"
 imdb: "2096673"
-stars: "4/5"
+date: "2015-06-24"
 categories: "movies"
 title: "Divertida Mente"
-revision: [2016-07-28]
-_title: "Inside Out"
-_year: "2015"
-_director: ["Pete Docter", "Ronaldo Del Carmen", ]
-_writer: ["Pete Docter", "Ronaldo Del Carmen", "Meg LeFauve", "Josh Cooley", "Pete Docter", ]
-_cast: ["Amy Poehler", "Phyllis Smith", "Richard Kind", "Bill Hader", "Lewis Black", "Mindy Kaling", "Kaitlyn Dias", "Diane Lane", "Kyle MacLachlan", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Kevin Nolting", ]
-_music: ["Michael Giacchino", ]
-_genres: ["Animation", ]
-_runtimes: ["94", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1._SX94_SY140_.jpg"
+stars: "4/5"
+revision: [datetime.date(2016, 7, 28)]
+desc: "Divertida Mente. Inside Out (USA, 2015). Dirigido por Pete Docter, Ronaldo Del Carmen. Escrito por Pete Docter, Ronaldo Del Carmen, Meg LeFauve, Josh Cooley, Pete Docter. Com Amy Poehler, Phyllis Smith, Richard Kind, Bill Hader, Lewis Black, Mindy Kaling, Kaitlyn Dias, Diane Lane, Kyle MacLachlan."
 ---
 Divertida Mente é um sinal de que Disney/Pixar, apesar de às vezes parecer que está saindo dos trilhos, produzindo mais e mais continuações e se transformando em uma franquia comercialmente poderosa enquanto artisticamente repetitiva, dessa vez arrisca pra valer, apostando em uma versão de Ela (Spike Jonze, 2013) para o público infantil, destrinchando as emoções que nos formam de uma maneira que dificilmente você verá em produções do gênero.
 

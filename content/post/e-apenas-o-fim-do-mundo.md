@@ -1,26 +1,11 @@
 ---
+tags: ['cabine']
+imdb: "4645368"
 date: "2016-10-26"
 categories: "movies"
 title: "É Apenas o Fim do Mundo"
-imdb: "4645368"
 stars: "5/5"
-tags: ['cabine']
-_title: "Juste la fin du monde"
-_year: "2016"
-_director: ["Xavier Dolan", ]
-_writer: ["Xavier Dolan", "Jean-Luc Lagarce", ]
-_cast: ["Nathalie Baye (La mère)", "Vincent Cassel (Antoine Knipper)", "Marion Cotillard (Catherine)", "Léa Seydoux (Suzanne Knipper)", "Gaspard Ulliel (Louis-Jean Knipper)", "Antoine Desrochers (Pierre Jolicoeur)", "William Boyce Blanchette (Louis)", "Sasha Samar (Le chauffeur de taxi)", "Arthur Couillard (Petit garçon avion)", ]
-_countries: ["Canada", ]
-_languages: ["French", ]
-_editor: ["Xavier Dolan", ]
-_cinematographer: ["André Turpin", ]
-_music: ["Gabriel Yared", ]
-_genres: ["Drama", ]
-_runtimes: ["97", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMzk5OWJkZDItODdmMS00ZWIyLWJmYjUtOTQyYzlmNDk4ZDY0XkEyXkFqcGdeQXVyNTAzMDcxMjM@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMzk5OWJkZDItODdmMS00ZWIyLWJmYjUtOTQyYzlmNDk4ZDY0XkEyXkFqcGdeQXVyNTAzMDcxMjM@._V1._SX97_SY140_.jpg"
+desc: "É Apenas o Fim do Mundo. Juste la fin du monde (Canada, 2016). Dirigido por Xavier Dolan. Escrito por Xavier Dolan, Jean-Luc Lagarce. Com Nathalie Baye (La mère), Vincent Cassel (Antoine Knipper), Marion Cotillard (Catherine), Léa Seydoux (Suzanne Knipper), Gaspard Ulliel (Louis-Jean Knipper), Antoine Desrochers (Pierre Jolicoeur), William Boyce Blanchette (Louis), Sasha Samar (Le chauffeur de taxi), Arthur Couillard (Petit garçon avion)."
 ---
 Este filme é um estudo de personagem. E o personagem em questão é a família. Qualquer família. Ao mostrar os rancores gerados pela volta do filho pródigo, Xavier Dolan expõe mais uma vez seu lado pessoal, mas também o universaliza, em um trabalho simples, mas eficaz. Um tiro certeiro nas emoções humanas.
 

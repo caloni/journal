@@ -1,26 +1,11 @@
 ---
+tags: ['cinema']
+imdb: "3470600"
 date: "2016-12-29"
 categories: "movies"
 title: "Sing: Quem Canta Seus Males Espanta"
-imdb: "3470600"
 stars: "3/5"
-tags: ['cinema']
-_title: "Sing"
-_year: "2016"
-_director: ["Garth Jennings", "Christophe Lourdelet", ]
-_writer: ["Garth Jennings", ]
-_cast: ["Matthew McConaughey (Buster Moon)", "Reese Witherspoon (Rosita)", "Seth MacFarlane (Mike)", "Scarlett Johansson (Ash)", "John C. Reilly (Eddie)", "Taron Egerton (Johnny)", "Tori Kelly (Meena)", "Jennifer Saunders (Nana)", "Jennifer Hudson (Young Nana)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Gregory Perler", ]
-_music: ["Joby Talbot", ]
-_artdirection: ["François Moret", ]
-_genres: ["Animation", ]
-_runtimes: ["108", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYzODYzODU2Ml5BMl5BanBnXkFtZTgwNTc1MTA2NzE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYzODYzODU2Ml5BMl5BanBnXkFtZTgwNTc1MTA2NzE@._V1._SX94_SY140_.jpg"
+desc: "Sing: Quem Canta Seus Males Espanta. Sing (USA, 2016). Dirigido por Garth Jennings, Christophe Lourdelet. Escrito por Garth Jennings. Com Matthew McConaughey (Buster Moon), Reese Witherspoon (Rosita), Seth MacFarlane (Mike), Scarlett Johansson (Ash), John C. Reilly (Eddie), Taron Egerton (Johnny), Tori Kelly (Meena), Jennifer Saunders (Nana), Jennifer Hudson (Young Nana)."
 ---
 Este é o ano em que temos musicais animados que abraçam sua cafonice da maneira mais fofa possível ("Trolls") e filmes como "Sing", que entrega bichinhos fofinhos cantando como pop stars em uma pequena fábula sobre um produtor musical com um sonho que... bem, isso não importa. O que importa neste filme é única e simplesmente seus números musicais. A história que os cerca serve única e simplesmente para conseguir colocar os bichinhos fofinhos cantando mais uma vez. E mais uma. E mais uma. Até você cansar.
 

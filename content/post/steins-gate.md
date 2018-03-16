@@ -1,26 +1,11 @@
 ---
-imdb: "1910272"
-stars: "4/5"
 tags: ['anime', 'streaming']
+imdb: "1910272"
 date: 2017-10-05T00:36:17
-title: "Steins;Gate"
 categories: "blog"
-_title: "Steins;Gate"
-_year: "2011"
-_director: ["Kazuhiro Ozawa", "Kanji Wakabayashi", "Tomoki Kobayashi", "Kôji Kobayashi", "Tomoko Hiramuki", "Shigetaka Ikeda", "Hisato Shimoda", "Hiroshi Hamazaki", "Takuya Satô", ]
-_writer: ["Jukki Hanada", "Toshizo Nemoto", "Masahiro Yokotani", ]
-_cast: ["Mamoru Miyano (Rintaro Okabe / ...)", "Asami Imai (Kurisu Makise)", "Kana Hanazawa (Mayuri Shiina)", "Trina Nishimura (Kurisu Makise / ...)", "Jackie Ross (Mayuri Shiina / ...)", "J. Michael Tatum (Rintaro Okabe / ...)", "Tomokazu Seki (Itaru Hashida)", "Tyson Rinehart (Daru)", "Cherami Leigh (Suzuha Amane / ...)", ]
-_countries: ["Japan", ]
-_languages: ["Japanese", ]
-_editor: ["Masahiro Gotô", ]
-_cinematographer: ["Keisuke Nakamura", ]
-_music: ["Takeshi Abo", "Jun Murakami", ]
-_artdirection: ["Kôji Etô", ]
-_genres: ["Animation", ]
-_runtimes: ["Japan:24", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BOGUwYzZjY2EtNzMwZS00NGM0LWE4Y2QtNGIwNTMzNzYxNzVhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjk5NDI1MjY@.jpg"
-_kind: "tv series"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BOGUwYzZjY2EtNzMwZS00NGM0LWE4Y2QtNGIwNTMzNzYxNzVhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjk5NDI1MjY@._V1._SX100_SY135_.jpg"
+title: "Steins;Gate"
+stars: "4/5"
+desc: "Steins;Gate. Steins;Gate (Japan, 2011). Dirigido por Kazuhiro Ozawa, Kanji Wakabayashi, Tomoki Kobayashi, Kôji Kobayashi, Tomoko Hiramuki, Shigetaka Ikeda, Hisato Shimoda, Hiroshi Hamazaki, Takuya Satô. Escrito por Jukki Hanada, Toshizo Nemoto, Masahiro Yokotani. Com Mamoru Miyano (Rintaro Okabe / ...), Asami Imai (Kurisu Makise), Kana Hanazawa (Mayuri Shiina), Trina Nishimura (Kurisu Makise / ...), Jackie Ross (Mayuri Shiina / ...), J. Michael Tatum (Rintaro Okabe / ...), Tomokazu Seki (Itaru Hashida), Tyson Rinehart (Daru), Cherami Leigh (Suzuha Amane / ...)."
 ---
 Não é fácil contar bem uma história de viagem no tempo. Mais difícil ainda é conseguir fazer ela ter sentido. E mais difícil ainda é conseguir que o espectador sinta o movimento espaço/tempo dos personagens, a apoteose de todo criador de sci-fi desta linha. Poucos devem ter chegado a essa proeza: De Volta para o Futuro (a trilogia), A Máquina do Tempo, Os 12 Macacos, Efeito Borboleta, O Predestinado, Primer, Harry Potter e o Prisioneiro de Azkaban. E Steins;Gate, que se esforça em homenagear todos os exemplos citados e ainda superá-los em inventividade. Uma viagem e tanto.
 

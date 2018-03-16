@@ -1,25 +1,10 @@
 ---
-date: "2010-11-19"
 imdb: "0926084"
+date: "2010-11-19"
+categories: "movies"
 title: "Harry Potter e as Relíquias da Morte Parte 1"
 stars: "5/5"
-categories: "movies"
-_title: "Harry Potter and the Deathly Hallows: Part 1"
-_year: "2010"
-_director: ["David Yates", ]
-_writer: ["Steve Kloves", "J.K. Rowling", ]
-_cast: ["Bill Nighy", "Emma Watson", "Richard Griffiths", "Harry Melling", "Daniel Radcliffe", "Julie Walters", "Bonnie Wright", "Rupert Grint", "Ian Kelly", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Mark Day", ]
-_cinematographer: ["Eduardo Serra", ]
-_music: ["Alexandre Desplat", ]
-_genres: ["Adventure", ]
-_runtimes: ["146", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQ2OTE1Mjk0N15BMl5BanBnXkFtZTcwODE3MDAwNA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQ2OTE1Mjk0N15BMl5BanBnXkFtZTcwODE3MDAwNA@@._V1._SX95_SY140_.jpg"
+desc: "Harry Potter e as Relíquias da Morte Parte 1. Harry Potter and the Deathly Hallows: Part 1 (UK, 2010). Dirigido por David Yates. Escrito por Steve Kloves, J.K. Rowling. Com Bill Nighy, Emma Watson, Richard Griffiths, Harry Melling, Daniel Radcliffe, Julie Walters, Bonnie Wright, Rupert Grint, Ian Kelly."
 ---
 A sensação do final é de que poderíamos muito bem assistir muito mais. Isso porque, com transições equilibradas entre cenas de ação e de reflexão, as quase duas horas e meia não soam cansativas durante a experiência, que é ao mesmo tempo empolgante e visualmente emocionante.
 

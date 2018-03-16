@@ -1,25 +1,10 @@
 ---
-date: "2013-04-04"
 imdb: "1583421"
+date: "2013-04-04"
+categories: "movies"
 title: "G.I. Joe Retaliação"
 stars: "3/5"
-categories: "movies"
-_title: "G.I. Joe: Retaliation"
-_year: "2013"
-_director: ["Jon M. Chu", ]
-_writer: ["Rhett Reese", "Paul Wernick", ]
-_cast: ["Dwayne Johnson", "Jonathan Pryce", "Byung-hun Lee", "Elodie Yung", "Ray Stevenson", "D.J. Cotrona", "Adrianne Palicki", "Channing Tatum", "Ray Park", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Roger Barton", "Jim May", ]
-_cinematographer: ["Stephen F. Windon", ]
-_music: ["Henry Jackman", ]
-_genres: ["Action", ]
-_runtimes: ["110", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNzk5ODM0OTQ0N15BMl5BanBnXkFtZTcwODg2ODE4OA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNzk5ODM0OTQ0N15BMl5BanBnXkFtZTcwODg2ODE4OA@@._V1._SX91_SY140_.jpg"
+desc: "G.I. Joe Retaliação. G.I. Joe: Retaliation (USA, 2013). Dirigido por Jon M. Chu. Escrito por Rhett Reese, Paul Wernick. Com Dwayne Johnson, Jonathan Pryce, Byung-hun Lee, Elodie Yung, Ray Stevenson, D.J. Cotrona, Adrianne Palicki, Channing Tatum, Ray Park."
 ---
 Na cena inicial de "G.I. Joe: Retaliação" (que nomezinho) o comandante de uma missão (Dwayne Johnson) que precisa adentrar uma zona militar da Coreia do Norte ao lado de uma guarita vigiada em uma quase total escuridão resolve derreter a cerca de arame e formar um círculo de fogo que provavelmente poderia ser avistado a uns dois quilômetros. Essa introdução espetacular do grupo de operações especiais secreta do governo norte-americano  os chamados G.I. Joes  é o bastante para termos certeza que nada do que aparecer diante de nós deve ser levado a sério.
 

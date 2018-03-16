@@ -1,26 +1,11 @@
 ---
-imdb: "6048930"
-stars: "1/5"
 tags: ['netflix']
+imdb: "6048930"
 date: 2017-08-14T20:48:15
-title: "Naked"
 categories: "movies"
-_title: "Naked"
-_year: "2017"
-_director: ["Michael Tiddes", ]
-_writer: ["Rick Alvarez", "Mårten Knutsson", "Torkel Knutsson", "Cory Koller", "Marlon Wayans", ]
-_cast: ["Marlon Wayans (Rob Anderson)", "Regina Hall (Megan)", "Dennis Haysbert (Reginald Swope)", "J.T. Jackson (Benny)", "Scott Foley (Cody Favors)", "Eliza Coupe (Vicky)", "Brian McKnight (Brian McKnight)", "Loretta Devine (Carol)", "Cory Hardrict (Drill)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Lawrence Jordan", ]
-_cinematographer: ["David Ortkiese", ]
-_music: ["David Newman", ]
-_artdirection: ["Cynthia E. Hill", ]
-_costume designer: ["Ariyela Wald-Cohain", ]
-_genres: ["Comedy", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BYmIzMzk2OTgtNWI1ZC00YTQxLWJiYWYtMzE5MTY4ODRiMTEzXkEyXkFqcGdeQXVyNzAwMjc4ODA@.jpg"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BYmIzMzk2OTgtNWI1ZC00YTQxLWJiYWYtMzE5MTY4ODRiMTEzXkEyXkFqcGdeQXVyNzAwMjc4ODA@._V1._SX100_SY133_.jpg"
+title: "Naked"
+stars: "1/5"
+desc: "Naked. Naked (USA, 2017). Dirigido por Michael Tiddes. Escrito por Rick Alvarez, Mårten Knutsson, Torkel Knutsson, Cory Koller, Marlon Wayans. Com Marlon Wayans (Rob Anderson), Regina Hall (Megan), Dennis Haysbert (Reginald Swope), J.T. Jackson (Benny), Scott Foley (Cody Favors), Eliza Coupe (Vicky), Brian McKnight (Brian McKnight), Loretta Devine (Carol), Cory Hardrict (Drill)."
 ---
 É possível imaginar que este seria um dos primeiros filmes da Netflix cujo roteiro está mais próximo de ter sido feito por Machine Learning do que por roteiristas humanos. Ele é esquemático, usa fórmulas antigas, consagradas ou comentadas por décadas. Apela para movimentos de câmera fáceis, sem construção de cena. A ação está toda pronta já em trabalhos como GTA. E GTA é "apenas" um video-game.
 

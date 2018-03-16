@@ -1,24 +1,10 @@
 ---
-date: "2012-12-12"
 imdb: "1764234"
+date: "2012-12-12"
+categories: "movies"
 title: "O Homem da Máfia"
 stars: "5/5"
-categories: "movies"
-_title: "Killing Them Softly"
-_year: "2012"
-_director: ["Andrew Dominik", ]
-_writer: ["Andrew Dominik", "George V. Higgins", ]
-_cast: ["Brad Pitt", "Scoot McNairy", "Ben Mendelsohn", "James Gandolfini", "Richard Jenkins", "Vincent Curatola", "Ray Liotta", "Trevor Long", "Max Casella", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["John Paul Horstmann", "Brian A. Kates", ]
-_cinematographer: ["Greig Fraser", ]
-_genres: ["Crime", ]
-_runtimes: ["97", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BODk3MDg2NDk5M15BMl5BanBnXkFtZTcwMjcxMjMzOA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BODk3MDg2NDk5M15BMl5BanBnXkFtZTcwMjcxMjMzOA@@._V1._SX96_SY140_.jpg"
+desc: "O Homem da Máfia. Killing Them Softly (USA, 2012). Dirigido por Andrew Dominik. Escrito por Andrew Dominik, George V. Higgins. Com Brad Pitt, Scoot McNairy, Ben Mendelsohn, James Gandolfini, Richard Jenkins, Vincent Curatola, Ray Liotta, Trevor Long, Max Casella."
 ---
 Esse é um ótimo filme sobre as ações e decisões de um grupo de mafiosos a respeito do destino do seu negócio de jogatina. Basicamente o que se coloca em jogo é a confiança dos donos dessas casas depois que um deles, Markie Trattman (Ray Liotta), rouba seu próprio negócio. O que o torna um filme excepcional é que essa manutenção da confiança no sistema ilegal de jogos de azar traça um paralelo direto com a crise econômica nos Estados Unidos iniciada em 2007 e que até hoje ecoa pelas casas vazias e massas de desempregados cheios de dívidas. A confiança no sistema financeiro também foi abalada naquele momento e algo teve que ser feito.
 

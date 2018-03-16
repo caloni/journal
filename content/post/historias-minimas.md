@@ -1,27 +1,10 @@
 ---
-date: "2015-11-01"
 imdb: "0291988"
-stars: "4/5"
+date: "2015-11-01"
 categories: "movies"
 title: "Historias mínimas"
-_title: "Historias mínimas"
-_year: "2002"
-_director: ["Carlos Sorin", ]
-_writer: ["Pablo Solarz", ]
-_cast: ["Javier Lombardo", "Antonio Benedicti", "Javiera Bravo", "Julia Solomonoff", "Laura Vagnoni", "Enrique Otranto", "Mariela Díaz", "María Rosa Cianferoni", "María Jiménez del Carmen", ]
-_countries: ["Argentina", ]
-_languages: ["Spanish", ]
-_editor: ["Mohamed Rajid", ]
-_cinematographer: ["Hugo Colace", ]
-_music: ["Nicolás Sorin", ]
-_artdirection: ["Margarita Jusid", ]
-_costume designer: ["Ruth Fischerman", ]
-_genres: ["Comedy", ]
-_runtimes: ["92", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTMyNTI1NzA0Nl5BMl5BanBnXkFtZTcwMzg1NDMzMQ@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTMyNTI1NzA0Nl5BMl5BanBnXkFtZTcwMzg1NDMzMQ@@._V1._SX99_SY140_.jpg"
+stars: "4/5"
+desc: "Historias mínimas. Historias mínimas (Argentina, 2002). Dirigido por Carlos Sorin. Escrito por Pablo Solarz. Com Javier Lombardo, Antonio Benedicti, Javiera Bravo, Julia Solomonoff, Laura Vagnoni, Enrique Otranto, Mariela Díaz, María Rosa Cianferoni, María Jiménez del Carmen."
 ---
 Parece um road movie disfarçado, já que todas as cidadezinhas e pessoas envolvidas vivem à beira da estrada. Estamos no interior da Patagônia, Argentina, terra do vinho e da empanada. Um velho senhor nutre a esperança de poder reaver seu velho cão que fugiu diante de um comportamento condenável de seu dono. Uma jovem e humilde mãe é sorteada em um programa de televisão para concorrer a um multiprocessador de alimentos. Um vendedor detalhista e falastrão tenta entregar o bolo perfeito para o filho de seu interesse amoroso.
 

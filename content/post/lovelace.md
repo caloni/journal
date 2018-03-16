@@ -1,25 +1,10 @@
 ---
-date: "2013-09-18"
 imdb: "1426329"
+date: "2013-09-18"
+categories: "movies"
 title: "Lovelace"
 stars: "3/5"
-categories: "movies"
-_title: "Lovelace"
-_year: "2013"
-_director: ["Rob Epstein", "Jeffrey Friedman", ]
-_writer: ["Andy Bellin", ]
-_cast: ["Amanda Seyfried", "Peter Sarsgaard", "Sharon Stone", "Robert Patrick", "Juno Temple", "Chris Noth", "Bobby Cannavale", "Hank Azaria", "Adam Brody", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Robert Dalva", "Matt Landon", ]
-_cinematographer: ["Eric Alan Edwards", ]
-_music: ["Stephen Trask", ]
-_genres: ["Biography", ]
-_runtimes: ["93", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BOTM0Mzc2MjgyN15BMl5BanBnXkFtZTcwOTIzNDQ4OQ@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BOTM0Mzc2MjgyN15BMl5BanBnXkFtZTcwOTIzNDQ4OQ@@._V1._SX94_SY140_.jpg"
+desc: "Lovelace. Lovelace (USA, 2013). Dirigido por Rob Epstein, Jeffrey Friedman. Escrito por Andy Bellin. Com Amanda Seyfried, Peter Sarsgaard, Sharon Stone, Robert Patrick, Juno Temple, Chris Noth, Bobby Cannavale, Hank Azaria, Adam Brody."
 ---
 Aquele tipo de filme que não caminha para o melhor nem para o pior. Sua falta de ambição e sensualidade destoam completamente dos burburinhos e do sucesso escandaloso do único trabalho pornográfico protagonizado por Linda Lovelace (Amanda Seyfried), Garganta Profunda, que representou para muitos um marco na revolução sexual da época, enquanto para outros o renascimento do pornô como "Cinema".
 

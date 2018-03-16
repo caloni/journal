@@ -1,25 +1,10 @@
 ---
-date: "2011-12-04"
 imdb: "0112471"
+date: "2011-12-04"
+categories: "movies"
 title: "Antes do Amanhecer"
 stars: "5/5"
-categories: "movies"
-_title: "Before Sunrise"
-_year: "1995"
-_director: ["Richard Linklater", ]
-_writer: ["Richard Linklater", "Kim Krizan", ]
-_cast: ["Ethan Hawke", "Julie Delpy", "Andrea Eckert", "Hanno Pöschl", "Karl Bruckschwaiger", "Tex Rubinowitz", "Erni Mangold", "Dominik Castell", "Haymon Maria Buttinger", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Sandra Adair", ]
-_cinematographer: ["Lee Daniel", ]
-_music: ["Fred Frith", ]
-_genres: ["Drama", ]
-_runtimes: ["105", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQyMTM3MTQxMl5BMl5BanBnXkFtZTcwMDAzNjQ4Mg@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQyMTM3MTQxMl5BMl5BanBnXkFtZTcwMDAzNjQ4Mg@@._V1._SX97_SY140_.jpg"
+desc: "Antes do Amanhecer. Before Sunrise (USA, 1995). Dirigido por Richard Linklater. Escrito por Richard Linklater, Kim Krizan. Com Ethan Hawke, Julie Delpy, Andrea Eckert, Hanno Pöschl, Karl Bruckschwaiger, Tex Rubinowitz, Erni Mangold, Dominik Castell, Haymon Maria Buttinger."
 ---
 Os personagens de Jesse e Celine são adoráveis desde o começo, e é agradável vê-los conversando sobre temas tão universais e constantemente abordados por casais que nós mesmos formamos na vida. O mais interessante, porém, é a forma natural e (aparentemente) despropositada que o roteiro e direção de Richard Linklater nos apresenta seus personagens, criando mais ou menos um pacto com o espectador, que aceita aquela situação em prol da poesia e da mágica daqueles momentos.
 

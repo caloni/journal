@@ -1,25 +1,10 @@
 ---
-date: "2011-04-02"
 imdb: "0964517"
+date: "2011-04-02"
+categories: "movies"
 title: "O Vencedor"
 stars: "4/5"
-categories: "movies"
-_title: "The Fighter"
-_year: "2010"
-_director: ["David O. Russell", ]
-_writer: ["Scott Silver", "Paul Tamasy", "Eric Johnson", "Paul Tamasy", "Eric Johnson", "Keith Dorrington", ]
-_cast: ["Mark Wahlberg", "Christian Bale", "Amy Adams", "Melissa Leo", "Mickey O'Keefe", "Jack McGee", "Melissa McMeekin", "Bianca Hunter", "Erica McDermott", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Pamela Martin", ]
-_cinematographer: ["Hoyte Van Hoytema", ]
-_music: ["Michael Brook", ]
-_genres: ["Biography", ]
-_runtimes: ["116", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTM0ODk3MjM1MV5BMl5BanBnXkFtZTcwNzc1MDIwNA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTM0ODk3MjM1MV5BMl5BanBnXkFtZTcwNzc1MDIwNA@@._V1._SX90_SY140_.jpg"
+desc: "O Vencedor. The Fighter (USA, 2010). Dirigido por David O. Russell. Escrito por Scott Silver, Paul Tamasy, Eric Johnson, Paul Tamasy, Eric Johnson, Keith Dorrington. Com Mark Wahlberg, Christian Bale, Amy Adams, Melissa Leo, Mickey O'Keefe, Jack McGee, Melissa McMeekin, Bianca Hunter, Erica McDermott."
 ---
 O filme começa como um documentário, mas corta para outro documentário sobre o vício do irmão. Isso acaba derrubando nossa visão inicial, mas o tom documental dá realismo ao filme.
 

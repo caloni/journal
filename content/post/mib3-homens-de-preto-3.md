@@ -1,25 +1,10 @@
 ---
-date: "2012-06-04"
 imdb: "1409024"
+date: "2012-06-04"
+categories: "movies"
 title: "MIB Homens de Preto 3"
 stars: "3/5"
-categories: "movies"
-_title: "Men in Black 3"
-_year: "2012"
-_director: ["Barry Sonnenfeld", ]
-_writer: ["Etan Cohen", "Lowell Cunningham", ]
-_cast: ["Will Smith", "Tommy Lee Jones", "Josh Brolin", "Jemaine Clement", "Emma Thompson", "Michael Stuhlbarg", "Mike Colter", "Nicole Scherzinger", "Michael Chernus", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Don Zimmerman", ]
-_cinematographer: ["Bill Pope", ]
-_music: ["Danny Elfman", ]
-_genres: ["Action", ]
-_runtimes: ["USA:106", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTU2NTYxODcwMF5BMl5BanBnXkFtZTcwNDk1NDY0Nw@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTU2NTYxODcwMF5BMl5BanBnXkFtZTcwNDk1NDY0Nw@@._V1._SX94_SY140_.jpg"
+desc: "MIB Homens de Preto 3. Men in Black 3 (USA, 2012). Dirigido por Barry Sonnenfeld. Escrito por Etan Cohen, Lowell Cunningham. Com Will Smith, Tommy Lee Jones, Josh Brolin, Jemaine Clement, Emma Thompson, Michael Stuhlbarg, Mike Colter, Nicole Scherzinger, Michael Chernus."
 ---
 Possuindo uma dinâmica que se assemelha menos do que deveria com o original e mais do que deveria com sua continuação, além de já confiar desde o início na identificação que o público fará da dupla de agentes K e J, que trabalham em prol de uma organização que zela pelo convívio pacífico com inúmeros seres intergalácticos, o terceiro filme da série Homens de Preto conta com um novo ator (Josh Brolin, Wall Street 2) que interpreta a versão mais jovem de K, originalmente vivido por Tommy Lee Jones, e um novo vilão ? Bóris, o Animal (Jemaine Clement, de Loucos por Nada) ? que munido de ótimos efeitos visuais faz uma grande promessa em sua sequência inicial que infelizmente nunca é cumprida: a de de fato representar uma ameaça para os excelentes agentes da MIB.
 

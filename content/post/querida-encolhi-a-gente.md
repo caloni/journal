@@ -1,25 +1,10 @@
 ---
-date: "2015-01-26"
 imdb: "0119310"
+date: "2015-01-26"
+categories: "movies"
 title: "Querida, Encolhi a Gente"
 stars: "2/5"
-categories: "movies"
-_title: "Honey, We Shrunk Ourselves"
-_year: "1997"
-_director: ["Dean Cundey", ]
-_writer: ["Karey Kirkpatrick", "Nell Scovell", "Joel Hodgson", ]
-_cast: ["Rick Moranis", "Eve Gordon", "Bug Hall", "Robin Bartlett", "Stuart Pankin", "Allison Mack", "Jake Richardson", "JoJo Adams", "Bryson Aust", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Charles Bornstein", ]
-_cinematographer: ["Raymond Stella", ]
-_music: ["Michael Tavera", ]
-_genres: ["Action", ]
-_runtimes: ["74", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNjAzNzk4OTg0NF5BMl5BanBnXkFtZTYwNDUyNjU5.jpg"
-_ratio: "1.33 : 1"
-_kind: "video movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNjAzNzk4OTg0NF5BMl5BanBnXkFtZTYwNDUyNjU5._V1._SX98_SY140_.jpg"
+desc: "Querida, Encolhi a Gente. Honey, We Shrunk Ourselves (USA, 1997). Dirigido por Dean Cundey. Escrito por Karey Kirkpatrick, Nell Scovell, Joel Hodgson. Com Rick Moranis, Eve Gordon, Bug Hall, Robin Bartlett, Stuart Pankin, Allison Mack, Jake Richardson, JoJo Adams, Bryson Aust."
 ---
 Parece demais um filme inteiro com a ideia de mostrar como as crianças conseguem se virar sozinhas sem a presença dos pais. Ainda mais por se tratar de uma continuação da continuação e tentar reciclar velhas ideias da série usando os mesmo efeitos que hoje já se pode notar algumas marcas do passado. E isso em um filme de 97!
 

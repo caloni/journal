@@ -1,25 +1,11 @@
 ---
+tags: ['paulocoelho']
+imdb: "0018756"
 date: "2017-01-18"
 categories: "movies"
 title: "Champagne"
-imdb: "0018756"
 stars: "4/5"
-tags: ['paulocoelho']
-_title: "Champagne"
-_year: "1928"
-_director: ["Alfred Hitchcock", ]
-_writer: ["Alfred Hitchcock", "Walter C. Mycroft", "Eliot Stannard", ]
-_cast: ["Betty Balfour (The Girl)", "Jean Bradin (The Boy)", "Ferdinand von Alten (The Man)", "Gordon Harker (The Father)", "Alexander D'Arcy", "Vivian Gibson", "Clifford Heatherley (The Manager)", "Claude Hulbert (Club Guest)", "Hannah Jones (Club Servant)", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_cinematographer: ["Jack E. Cox", ]
-_artdirection: ["C. Wilfred Arnold", ]
-_genres: ["Comedy", ]
-_runtimes: ["86", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjI4MDcwMTc5OF5BMl5BanBnXkFtZTgwMDQ3NTIwMjE@.jpg"
-_ratio: "1.33 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjI4MDcwMTc5OF5BMl5BanBnXkFtZTgwMDQ3NTIwMjE@._V1._SX100_SY130_.jpg"
+desc: "Champagne. Champagne (UK, 1928). Dirigido por Alfred Hitchcock. Escrito por Alfred Hitchcock, Walter C. Mycroft, Eliot Stannard. Com Betty Balfour (The Girl), Jean Bradin (The Boy), Ferdinand von Alten (The Man), Gordon Harker (The Father), Alexander D'Arcy, Vivian Gibson, Clifford Heatherley (The Manager), Claude Hulbert (Club Guest), Hannah Jones (Club Servant)."
 ---
 Champagne é uma divertida comédia dramática que esbanja críticas à alta sociedade. Em seu núcleo está a figura carismática e intensa de Betty Balfour, que faz, conforme o IMDB, "The Girl". Em torno dela orbitam as pessoas comuns, que a veem como excêntrica. Mas, tudo bem, já que seu pai é rico. Mesmo se vestindo de empregada ela diverte e se diverte.
 

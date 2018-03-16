@@ -1,26 +1,10 @@
 ---
-date: "2015-12-11"
 imdb: "0076666"
-stars: "5/5"
+date: "2015-12-11"
 categories: "movies"
 title: "Os Embalos de Sábado à Noite"
-_title: "Saturday Night Fever"
-_year: "1977"
-_director: ["John Badham", ]
-_writer: ["Nik Cohn", "Norman Wexler", ]
-_cast: ["John Travolta", "Karen Lynn Gorney", "Barry Miller", "Joseph Cali", "Paul Pape", "Donna Pescow", "Bruce Ornstein", "Julie Bovasso", "Martin Shakar", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["David Rawlins", ]
-_cinematographer: ["Ralf D. Bode", ]
-_music: ["Barry Gibb", "Maurice Gibb", "Robin Gibb", ]
-_costume designer: ["Patrizia von Brandenstein", ]
-_genres: ["Drama", ]
-_runtimes: ["118", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTU0NDk4MzA0NV5BMl5BanBnXkFtZTcwOTYwODIyMQ@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTU0NDk4MzA0NV5BMl5BanBnXkFtZTcwOTYwODIyMQ@@._V1._SX100_SY134_.jpg"
+stars: "5/5"
+desc: "Os Embalos de Sábado à Noite. Saturday Night Fever (USA, 1977). Dirigido por John Badham. Escrito por Nik Cohn, Norman Wexler. Com John Travolta, Karen Lynn Gorney, Barry Miller, Joseph Cali, Paul Pape, Donna Pescow, Bruce Ornstein, Julie Bovasso, Martin Shakar."
 ---
 John Travolta nos apresenta Tony Manero, o rapaz pobre que trabalha em uma loja de tinta e vive com sua sempre esquentada família italiana. Tony é fã de Bruce Lee e, claro, Rocky Balboa e Al Pacino (que alguém diz que ele é parecido). Ele tem uma irmã mais jovem e um irmão mais velho, que para orgulho da família virou padre (sim, é uma família realmente italiana). Tony gosta mesmo é de preparar seu cabelo e sair pela noite com seus amigos. Eles vão à danceteria e é lá que ele mostra seu potencial como dançarino.
 

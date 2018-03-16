@@ -1,27 +1,11 @@
 ---
-imdb: "2463154"
-stars: "2/5"
 tags: ['netflix']
+imdb: "2463154"
 date: 2017-11-20T01:12:07
-title: "Póstumo"
 categories: "movies"
-_title: "Posthumous"
-_year: "2014"
-_director: ["Lulu Wang", ]
-_writer: ["Lulu Wang", ]
-_cast: ["Jack Huston (Liam Price)", "Brit Marling (McKenzie Grain)", "Tom Schilling (Ben)", "Lambert Wilson (Daniel S. Volpe)", "Alexander Fehling (Erik Alder)", "Nikolai Kinski (Kaleb Moo)", "Martin Stange (Detective)", "Oleg Tikhomirov (Waiter)", "Joost Siedhoff (Landlord)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Matt Friedman", "Antje Zynga", ]
-_cinematographer: ["Stefan Ciupek", ]
-_music: ["Brian Crosby", "Dustin O'Halloran", ]
-_artdirection: ["Nina Hirschberg", ]
-_costume designer: ["Claudia Torsiello", ]
-_genres: ["Comedy", ]
-_runtimes: ["94", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY3MTQyODkxNl5BMl5BanBnXkFtZTgwNDA0NTg4OTE@.jpg"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY3MTQyODkxNl5BMl5BanBnXkFtZTgwNDA0NTg4OTE@._V1._SX94_SY140_.jpg"
+title: "Póstumo"
+stars: "2/5"
+desc: "Póstumo. Posthumous (USA, 2014). Dirigido por Lulu Wang. Escrito por Lulu Wang. Com Jack Huston (Liam Price), Brit Marling (McKenzie Grain), Tom Schilling (Ben), Lambert Wilson (Daniel S. Volpe), Alexander Fehling (Erik Alder), Nikolai Kinski (Kaleb Moo), Martin Stange (Detective), Oleg Tikhomirov (Waiter), Joost Siedhoff (Landlord)."
 ---
 A diretora/roteirista Lulu Wang parece se achar tão esperta... nesse seu primeiro longa ela explora uma história comum o suficiente para não despertar muita surpresa e rasa o suficiente para não despertar interesse em um ou outro diálogo de fato interessante. Porém, próximo da direção, o roteiro se torna muito bom. Planos confusos e ângulos sobrepostos em uma bagunça de temas parece tentar mostrar como a arte deste homem é tão boa se comparada ao que é feito nesse filme.
 

@@ -1,28 +1,11 @@
 ---
+tags: ['netflix', 'cabine']
+imdb: "0907134"
 date: "2016-11-30"
 categories: "movies"
 title: "Saneamento Básico, O Filme"
-imdb: "0907134"
 stars: "4/5"
-tags: ['netflix', 'cabine']
-_title: "Saneamento Básico, O Filme"
-_year: "2007"
-_director: ["Jorge Furtado", ]
-_writer: ["Jorge Furtado", ]
-_cast: ["Fernanda Torres (Marina)", "Wagner Moura (Joaquim)", "Camila Pitanga (Silene)", "Bruno Garcia (Fabrício)", "Janaína Kremer Motta (Marcela)", "Lázaro Ramos (Zico)", "Tonico Pereira (Antônio)", "Paulo José (Otaviano)", "Marcelo Aquino (Leonardo)", ]
-_countries: ["Brazil", ]
-_languages: ["Portuguese", ]
-_editor: ["Giba Assis Brasil", ]
-_cinematographer: ["Jacob Solitrenick", ]
-_music: ["Leo Henkin", ]
-_artdirection: ["Fiapo Barth", ]
-_costume designer: ["Rosângela Cortinhas", ]
-_genres: ["Comedy", ]
-_runtimes: ["112", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BZGMzYjE4MzEtNTUzOC00OGQyLWI5YTUtYzc1ODU3M2NhOTQ2XkEyXkFqcGdeQXVyNDc2MTA2NDg@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BZGMzYjE4MzEtNTUzOC00OGQyLWI5YTUtYzc1ODU3M2NhOTQ2XkEyXkFqcGdeQXVyNDc2MTA2NDg@._V1._SX94_SY140_.jpg"
+desc: "Saneamento Básico, O Filme. Saneamento Básico, O Filme (Brazil, 2007). Dirigido por Jorge Furtado. Escrito por Jorge Furtado. Com Fernanda Torres (Marina), Wagner Moura (Joaquim), Camila Pitanga (Silene), Bruno Garcia (Fabrício), Janaína Kremer Motta (Marcela), Lázaro Ramos (Zico), Tonico Pereira (Antônio), Paulo José (Otaviano), Marcelo Aquino (Leonardo)."
 ---
 Dirigido e escrito por Jorge Furtado (O Homem Que Copiava, Meu Tio Matou um Cara), esta é praticamente uma obra didática a respeito da produção de um filme, desde a produção, argumento, roteiro inicial até a montagem, pós-produção, créditos finais. O esforço que o filme faz para que seu espectador perceba isso é tão irritante quanto tocante, já que cineasta brasileiro, muito provavelmente ele está acostumado a trabalhar com orçamento apertado, o que quase que justifica todos os maneirismos que sua direção (e seu elenco) aplicam ao roteiro, tornando este um trabalho digno de nota por conta da realidade que o cerca, mas também pela maneira original com que a metalinguagem aqui é utilizada.
 

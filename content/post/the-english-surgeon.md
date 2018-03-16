@@ -1,23 +1,10 @@
 ---
-date: "2015-10-24"
 imdb: "1200060"
-stars: "4/5"
+date: "2015-10-24"
 categories: "movies"
 title: "The English Surgeon"
-_title: "The English Surgeon"
-_year: "2007"
-_director: ["Geoffrey Smith", ]
-_cast: ["Henry Marsh", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Kathy O'Shea", ]
-_cinematographer: ["Graham Day", ]
-_music: ["Nick Cave", "Warren Ellis", ]
-_genres: ["Documentary", ]
-_runtimes: ["USA:93", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTg5NTAxMTc3OF5BMl5BanBnXkFtZTgwNDY0MjA2MDE@.jpg"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTg5NTAxMTc3OF5BMl5BanBnXkFtZTgwNDY0MjA2MDE@._V1._SX100_SY133_.jpg"
+stars: "4/5"
+desc: "The English Surgeon. The English Surgeon (UK, 2007). Dirigido por Geoffrey Smith. Com Henry Marsh."
 ---
 A história do neurocirurgião Henry Marsh e de sua amizade com um médico na Ucrânia se confunde com os métodos vistos como arcaicos por ele em comparação com o sistema de saúde inglês. Acostumado a operar todo e qualquer paciente com um turmo detectado, lá ele leva sempre que visita a região apetrechos criados por ele em sua oficina a partir de restos de operações realizadas em sua terra natal. Quando uma broca de perfuração custa em torno de 80 euros e é usada só uma vez enquanto na ex-URSS uma é usada por muitos anos, nota-se um abismo gigantesco entre os sistemas de saúde dos dois países.
 

@@ -1,25 +1,10 @@
 ---
-date: "2014-08-16"
 imdb: "2446192"
+date: "2014-08-16"
+categories: "movies"
 title: "Bronies The Extremely Unexpected Adult Fans of My Little Pony"
 stars: "3/5"
-categories: "movies"
-_title: "Bronies: The Extremely Unexpected Adult Fans of My Little Pony"
-_year: "2012"
-_director: ["Laurent Malaquais", ]
-_writer: ["Nat Segaloff", ]
-_cast: ["John de Lancie", "Alex Tibcken", "Tim Star", "Lauren Faust", "Lyle Gilpatrick", "Jeanne Gilpatrick", "Tom Gilpatrick", "Yoav Landau", "S.R. Foxley", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Jay Miracle", ]
-_cinematographer: ["Laurent Malaquais", ]
-_music: ["David O", ]
-_genres: ["Documentary", ]
-_runtimes: ["90", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTAzMDE1NjY1NjReQTJeQWpwZ15BbWU4MDIyNTcwNjAx.jpg"
-_ratio: "1.78 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTAzMDE1NjY1NjReQTJeQWpwZ15BbWU4MDIyNTcwNjAx._V1._SX100_SY133_.jpg"
+desc: "Bronies The Extremely Unexpected Adult Fans of My Little Pony. Bronies: The Extremely Unexpected Adult Fans of My Little Pony (USA, 2012). Dirigido por Laurent Malaquais. Escrito por Nat Segaloff. Com John de Lancie, Alex Tibcken, Tim Star, Lauren Faust, Lyle Gilpatrick, Jeanne Gilpatrick, Tom Gilpatrick, Yoav Landau, S.R. Foxley."
 ---
 Fiquei curioso a respeito desses fãs adultos de My Little Pony por dois motivos: primeiro um amigo meu (adulto, até mais velho) confessou sua adoração pelo desenho dos pôneis fofinhos. Ele assistiu pela primeira vez por conta de seu filho, mas ele mesmo conseguiu enxergar virtudes inimagináveis em um desenho para crianças. O segundo fato foi o lançamento da Netflix de um filme que já nomeia essa comunidade inusitada em um título à altura com "Bronies: The Extremely Unexpected Adult Fans of My Little Pony", o que praticamente explica todo o teor deste documentário de Laurent Malaquais (Men from Nowhere).
 

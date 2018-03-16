@@ -1,25 +1,10 @@
 ---
-date: "2012-08-17"
 imdb: "1345836"
+date: "2012-08-17"
+categories: "movies"
 title: "Batman O Cavaleiro das Trevas Ressurge"
 stars: "4/5"
-categories: "movies"
-_title: "The Dark Knight Rises"
-_year: "2012"
-_director: ["Christopher Nolan", ]
-_writer: ["Jonathan Nolan", "Christopher Nolan", "Christopher Nolan", "David S. Goyer", "Bob Kane", ]
-_cast: ["Christian Bale", "Gary Oldman", "Tom Hardy", "Joseph Gordon-Levitt", "Anne Hathaway", "Marion Cotillard", "Morgan Freeman", "Michael Caine", "Matthew Modine", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Lee Smith", ]
-_cinematographer: ["Wally Pfister", ]
-_music: ["Hans Zimmer", ]
-_genres: ["Action", ]
-_runtimes: ["165", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@.jpg"
-_ratio: "1.44 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1._SX94_SY140_.jpg"
+desc: "Batman O Cavaleiro das Trevas Ressurge. The Dark Knight Rises (USA, 2012). Dirigido por Christopher Nolan. Escrito por Jonathan Nolan, Christopher Nolan, Christopher Nolan, David S. Goyer, Bob Kane. Com Christian Bale, Gary Oldman, Tom Hardy, Joseph Gordon-Levitt, Anne Hathaway, Marion Cotillard, Morgan Freeman, Michael Caine, Matthew Modine."
 ---
 O Batman de Nolan possui uma virtude cada vez mais ausente em produções Hollywoodianas de super-heróis: a capacidade de fazer pensar. O que é uma pena, já que o universo fantasioso em que se passam essas histórias tem potencial para ser o pano de fundo de questões filosóficas das mais diversas. No caso de Batman, O Cavaleiro das Trevas, a grande discussões que Nolan se propõe a fazer é com respeito à violência nas grandes cidades e como essa violência transforma o destino das pessoas que nela vivem.
 

@@ -1,26 +1,10 @@
 ---
+imdb: "0401792"
 date: "2016-10-09"
 categories: "movies"
 title: "Sin City: A Cidade do Pecado"
-imdb: "0401792"
 stars: "5/5"
-_title: "Sin City"
-_year: "2005"
-_director: ["Frank Miller", "Robert Rodriguez", "Quentin Tarantino", ]
-_writer: ["Frank Miller", ]
-_cast: ["Jessica Alba (Nancy Callahan)", "Devon Aoki (Miho)", "Alexis Bledel (Becky)", "Powers Boothe (Senator Roark)", "Cara D. Briggs (Hearing Panel Person)", "Jude Ciccolella (Liebowitz)", "Jeffrey J. Dashnaw (Motorcycle Cop)", "Rosario Dawson (Gail)", "Jesse De Luna (Corporal Rivera)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Robert Rodriguez", ]
-_cinematographer: ["Robert Rodriguez", ]
-_music: ["John Debney", "Graeme Revell", "Robert Rodriguez", ]
-_artdirection: ["Steve Joyner", "Jeanette Scott", ]
-_genres: ["Crime", ]
-_runtimes: ["124", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BODZmYjMwNzEtNzVhNC00ZTRmLTk2M2UtNzE1MTQ2ZDAxNjc2XkEyXkFqcGdeQXVyMTQxNzMzNDI@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BODZmYjMwNzEtNzVhNC00ZTRmLTk2M2UtNzE1MTQ2ZDAxNjc2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1._SX94_SY140_.jpg"
+desc: "Sin City: A Cidade do Pecado. Sin City (USA, 2005). Dirigido por Frank Miller, Robert Rodriguez, Quentin Tarantino. Escrito por Frank Miller. Com Jessica Alba (Nancy Callahan), Devon Aoki (Miho), Alexis Bledel (Becky), Powers Boothe (Senator Roark), Cara D. Briggs (Hearing Panel Person), Jude Ciccolella (Liebowitz), Jeffrey J. Dashnaw (Motorcycle Cop), Rosario Dawson (Gail), Jesse De Luna (Corporal Rivera)."
 ---
 Muitos não gostaram do resultado final em Sin City, um longa que emula com perfeição o visual de uma graphic novel. Isso, de certa forma, explica o marasmo do Cinema comercial, onde a mesmice é condecorada, e as criações originais, boas ou ruins, são vistas simplesmente como chatas. Não se engane: quando alguém diz que não gostou de algo diferente, na esmagadora maioria dos casos não é porque ela possui uma visão crítica com argumentos de por que aquilo, em sua visão, é ruim. É simplesmente porque, sabe como é, "eu só queria me divertir um pouco e deixar o cérebro em casa. E agora vocês querem que eu pense?"
 

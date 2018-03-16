@@ -1,25 +1,10 @@
 ---
-date: "2011-11-16"
 imdb: "1462041"
+date: "2011-11-16"
+categories: "movies"
 title: "A Casa dos Sonhos"
 stars: "3/5"
-categories: "movies"
-_title: "Dream House"
-_year: "2011"
-_director: ["Jim Sheridan", ]
-_writer: ["David Loucka", ]
-_cast: ["Daniel Craig", "Naomi Watts", "Rachel Weisz", "Elias Koteas", "Marton Csokas", "Taylor Geare", "Claire Geare", "Rachel G. Fox", "Jane Alexander", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Glen Scantlebury", "Barbara Tulliver", ]
-_cinematographer: ["Caleb Deschanel", ]
-_music: ["John Debney", ]
-_genres: ["Drama", ]
-_runtimes: ["92", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTM5MzUxMDc5Ml5BMl5BanBnXkFtZTcwMTMwMjIwNg@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTM5MzUxMDc5Ml5BMl5BanBnXkFtZTcwMTMwMjIwNg@@._V1._SX95_SY140_.jpg"
+desc: "A Casa dos Sonhos. Dream House (USA, 2011). Dirigido por Jim Sheridan. Escrito por David Loucka. Com Daniel Craig, Naomi Watts, Rachel Weisz, Elias Koteas, Marton Csokas, Taylor Geare, Claire Geare, Rachel G. Fox, Jane Alexander."
 ---
 Vendido como uma história de terror/suspense, a história gira em torno de Will Atenton (Craig) que, depois de anos dedicado ao seu emprego, se aposenta e volta a morar junto de sua família em um bairro afastado, onde terá todo o tempo para, além de curtir sua amada esposa (Weisz) e suas adoráveis filhas (ambas irmãs na vida real, que já fizeram ponta em A Origem), terminar o romance que vinha escrevendo nas horas vagas.
 

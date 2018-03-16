@@ -1,23 +1,10 @@
 ---
+imdb: "4853102"
 date: "2016-08-07"
 categories: "movies"
-imdb: "4853102"
-stars: "3/5"
 title: "Batman: A Piada Mortal"
-_title: "Batman: The Killing Joke"
-_year: "2016"
-_director: ["Sam Liu", ]
-_writer: ["Bob Kane", "Bill Finger", "Alan Moore", "Brian Bolland", "Brian Azzarello", "Bill Finger", "Bob Kane", "Jerry Robinson", ]
-_cast: ["Kevin Conroy", "Mark Hamill", "Tara Strong", "Ray Wise", "John DiMaggio", "Robin Atkin Downes", "Brian George", "JP Karliak", "Andrew Kishino", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Christopher D. Lozinski", ]
-_music: ["Kristopher Carter", "Michael McCuistion", "Lolita Ritmanis", ]
-_genres: ["Animation", ]
-_runtimes: ["76", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BODcxYTc5NmQtZTZjNS00MjRiLTgxMjQtN2VhYjY2YjdmMzYzXkEyXkFqcGdeQXVyNjUwNzk3NDc@.jpg"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BODcxYTc5NmQtZTZjNS00MjRiLTgxMjQtN2VhYjY2YjdmMzYzXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1._SX100_SY118_.jpg"
+stars: "3/5"
+desc: "Batman: A Piada Mortal. Batman: The Killing Joke (USA, 2016). Dirigido por Sam Liu. Escrito por Bob Kane, Bill Finger, Alan Moore, Brian Bolland, Brian Azzarello, Bill Finger, Bob Kane, Jerry Robinson. Com Kevin Conroy, Mark Hamill, Tara Strong, Ray Wise, John DiMaggio, Robin Atkin Downes, Brian George, JP Karliak, Andrew Kishino."
 ---
 A relação entre Coringa e Batman sempre foi um ponto alto do universo do herói, como vimos em Dark Knight (Christopher Nolan, 2008). Em "A Piada Mortal", uma graphic novel específica de 1988, roteirizada por Alan Moore e ilustrada por Brian Bolland, essa relação já havia sido explorada de uma maneira bem peculiar.
 

@@ -1,27 +1,10 @@
 ---
-date: "2015-11-22"
 imdb: "2381249"
-stars: "5/5"
+date: "2015-11-22"
 categories: "movies"
 title: "Missão: Impossível - Nação Secreta"
-_title: "Mission: Impossible - Rogue Nation"
-_year: "2015"
-_director: ["Christopher McQuarrie", ]
-_writer: ["Christopher McQuarrie", "Christopher McQuarrie", "Drew Pearce", "Bruce Geller", ]
-_cast: ["Tom Cruise", "Jeremy Renner", "Simon Pegg", "Rebecca Ferguson", "Ving Rhames", "Sean Harris", "Simon McBurney", "Jingchu Zhang", "Tom Hollander", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Eddie Hamilton", ]
-_cinematographer: ["Robert Elswit", ]
-_music: ["Joe Kraemer", ]
-_artdirection: ["Andrew Bennett", "Steve Carter", "Matthew Gray", "Aziz Hamichi", "Paul Inglis", "Amanda Leggatt", "Florian Reichmann", "Helen Xenopoulos", ]
-_costume designer: ["Joanna Johnston", ]
-_genres: ["Action", ]
-_runtimes: ["131", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQ1NDI2MzU2MF5BMl5BanBnXkFtZTgwNTExNTU5NDE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQ1NDI2MzU2MF5BMl5BanBnXkFtZTgwNTExNTU5NDE@._V1._SX90_SY140_.jpg"
+stars: "5/5"
+desc: "Missão: Impossível - Nação Secreta. Mission: Impossible - Rogue Nation (USA, 2015). Dirigido por Christopher McQuarrie. Escrito por Christopher McQuarrie, Christopher McQuarrie, Drew Pearce, Bruce Geller. Com Tom Cruise, Jeremy Renner, Simon Pegg, Rebecca Ferguson, Ving Rhames, Sean Harris, Simon McBurney, Jingchu Zhang, Tom Hollander."
 ---
 É brilhante e até comovente perceber como o gênero de espionagem moderna que corre nas veias dessa franquia se atualiza a cada novo trabalho, e como "Rogue Nation" se sai infinitamente melhor que o último James Bond de Daniel Craig ("Spectre"). Mesmo em momentos óbvios como a "missão impossível" tradicional de todo filme o filme consegue manter a tensão e sua eficácia, marca de um filme verdadeiramente competente em seu gênero: quando sabemos o que vai acontecer, e mesmo assim funciona maravilhosamente bem.
 

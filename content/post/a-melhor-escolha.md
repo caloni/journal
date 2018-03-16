@@ -1,9 +1,10 @@
 ---
-date: 2018-01-18T19:25:58-02:00
-title: "A Melhor Escolha"
-categories: "movies"
+date: 2018-01-18T21:25:58
 imdb: "6018306"
+categories: "movies"
 stars: "4/5"
+title: "A Melhor Escolha"
+desc: "A Melhor Escolha."
 ---
 Você não adora ver um filme sem nenhuma resposta pronta? Sem nenhuma conclusão inteligente, sagaz, que quer demonstrar como é bem pensado e articulado. Não. A Melhor Escolha possui apenas três amigos saindo juntos, dormindo juntos, conversando juntos. E rindo juntos. Eles envelheceram, mas são os mesmos. Mesmo com a troca de atores. O espírito desses personagens passou 30 anos intocados, apenas marcados. Mas este não é um drama, a vida continua, e ninguém está chorando. É hora de rever os velhos amigos.
 

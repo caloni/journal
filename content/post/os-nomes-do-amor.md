@@ -1,25 +1,10 @@
 ---
-date: "2011-12-12"
 imdb: "1646974"
+date: "2011-12-12"
+categories: "movies"
 title: "Os Nomes do Amor"
 stars: "4/5"
-categories: "movies"
-_title: "Le nom des gens"
-_year: "2010"
-_director: ["Michel Leclerc", ]
-_writer: ["Baya Kasmi", "Michel Leclerc", ]
-_cast: ["Jacques Gamblin", "Sara Forestier", "Zinedine Soualem", "Carole Franck", "Jacques Boudet", "Michèle Moretti", "Zakariya Gouram", "Julia Vaidis-Bogard", "Adrien Stoclet", ]
-_countries: ["France", ]
-_languages: ["French", ]
-_editor: ["Nathalie Hubert", ]
-_cinematographer: ["Vincent Mathias", ]
-_music: ["Jérôme Bensoussan", "David Euverte", ]
-_genres: ["Comedy", ]
-_runtimes: ["100", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjEzODY2MjgxMV5BMl5BanBnXkFtZTcwNDA5ODI1NQ@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjEzODY2MjgxMV5BMl5BanBnXkFtZTcwNDA5ODI1NQ@@._V1._SX94_SY140_.jpg"
+desc: "Os Nomes do Amor. Le nom des gens (France, 2010). Dirigido por Michel Leclerc. Escrito por Baya Kasmi, Michel Leclerc. Com Jacques Gamblin, Sara Forestier, Zinedine Soualem, Carole Franck, Jacques Boudet, Michèle Moretti, Zakariya Gouram, Julia Vaidis-Bogard, Adrien Stoclet."
 ---
 Ele, um esquerdista especialista em epidemias nos animais. Ela, uma libertária tão libertária que às vezes se esquece de colocar a roupa para sair de casa. Ambos, uma relação que mescla tanto as visões políticas quanto sexuais da França atual. Porém, mais importante, levanta a sensível questão da imigração, que vem engrossando caldo desde o movimento anti-terrorista liderado pelo governo Bush e evidenciado na crise europeia.
 

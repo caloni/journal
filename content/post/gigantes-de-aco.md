@@ -1,25 +1,10 @@
 ---
-date: "2014-04-16"
 imdb: "0433035"
+date: "2014-04-16"
+categories: "movies"
 title: "Gigantes de Aço"
 stars: "4/5"
-categories: "movies"
-_title: "Real Steel"
-_year: "2011"
-_director: ["Shawn Levy", ]
-_writer: ["John Gatins", "Dan Gilroy", "Jeremy Leven", "Richard Matheson", ]
-_cast: ["Hugh Jackman", "Dakota Goyo", "Evangeline Lilly", "Anthony Mackie", "Kevin Durand", "Hope Davis", "James Rebhorn", "Karl Yune", "Olga Fonda", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Dean Zimmerman", ]
-_cinematographer: ["Mauro Fiore", ]
-_music: ["Danny Elfman", ]
-_genres: ["Action", ]
-_runtimes: ["127", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjEzMzEzNjg0N15BMl5BanBnXkFtZTcwMzg4NDk0Ng@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjEzMzEzNjg0N15BMl5BanBnXkFtZTcwMzg4NDk0Ng@@._V1._SX94_SY140_.jpg"
+desc: "Gigantes de Aço. Real Steel (USA, 2011). Dirigido por Shawn Levy. Escrito por John Gatins, Dan Gilroy, Jeremy Leven, Richard Matheson. Com Hugh Jackman, Dakota Goyo, Evangeline Lilly, Anthony Mackie, Kevin Durand, Hope Davis, James Rebhorn, Karl Yune, Olga Fonda."
 ---
 Esse é aquele tipinho de filme que tem o espírito Disney e Spielberg ao mesmo tempo  tanto que é produzido por ambos  mas felizmente consegue lançar uma nova e empolgante luz para uma história já batida. Conduzido pelo diretor/produtor Shawn Levy e escrito por John Gatins (O Voo e... arght! Norbit), ambos estão claramente "inspirados" pelo coração de Mickey Mouse e o dedo de E.T.: a história une pai e filho, até então completos desconhecidos, em torno da luta de robôs de aço gigantes, uma mania que se tornou a regra após a decadência do boxe e das lutas de UFC por conta da sede cada vez maior do público por destruição total.
 

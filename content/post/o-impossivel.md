@@ -1,25 +1,10 @@
 ---
-date: "2013-01-07"
 imdb: "1649419"
+date: "2013-01-07"
+categories: "movies"
 title: "O Impossível"
 stars: "4/5"
-categories: "movies"
-_title: "Lo imposible"
-_year: "2012"
-_director: ["J.A. Bayona", ]
-_writer: ["Sergio G. Sánchez", "María Belón", ]
-_cast: ["Naomi Watts", "Ewan McGregor", "Tom Holland", "Samuel Joslin", "Oaklee Pendergast", "Marta Etura", "Sönke Möhring", "Geraldine Chaplin", "Ploy Jindachote", ]
-_countries: ["Spain", ]
-_languages: ["English", ]
-_editor: ["Elena Ruiz", "Bernat Vilaplana", ]
-_cinematographer: ["Oscar Faura", ]
-_music: ["Fernando Velázquez", ]
-_genres: ["Drama", ]
-_runtimes: ["114", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjA5NTA3NzQ5Nl5BMl5BanBnXkFtZTcwOTYxNjY0OA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjA5NTA3NzQ5Nl5BMl5BanBnXkFtZTcwOTYxNjY0OA@@._V1._SX94_SY140_.jpg"
+desc: "O Impossível. Lo imposible (Spain, 2012). Dirigido por J.A. Bayona. Escrito por Sergio G. Sánchez, María Belón. Com Naomi Watts, Ewan McGregor, Tom Holland, Samuel Joslin, Oaklee Pendergast, Marta Etura, Sönke Möhring, Geraldine Chaplin, Ploy Jindachote."
 ---
 A abordagem que o diretor espanhol Juan Antonio Bayona realiza para contar a história da família que se separa durante o Tsunami de 2004 que matou mais de 230 mil pessoas consegue transmitir a emoção pelo drama específico sem se esquecer da perda incomensurável de vidas naquela tragédia que mudou a vida de muito mais pessoas que podemos imaginar. Diz ainda o que números nunca serão capazes de dizer: que cada vida que se perde é uma tragédia particular.
 

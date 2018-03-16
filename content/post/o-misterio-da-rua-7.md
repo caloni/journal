@@ -1,25 +1,10 @@
 ---
-date: "2011-03-14"
 imdb: "1452628"
+date: "2011-03-14"
+categories: "movies"
 title: "Mistério da Rua 7"
 stars: "3/5"
-categories: "movies"
-_title: "Vanishing on 7th Street"
-_year: "2010"
-_director: ["Brad Anderson", ]
-_writer: ["Anthony Jaswinski", ]
-_cast: ["Hayden Christensen", "John Leguizamo", "Thandie Newton", "Jacob Latimore", "Taylor Groothuis", "Jordan Trovillion", "Arthur Cartwright", "Neal Huff", "Hugh Maguire", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Jeffrey Wolf", ]
-_cinematographer: ["Uta Briesewitz", ]
-_music: ["Lucas Vidal", ]
-_genres: ["Horror", ]
-_runtimes: ["92", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQxMTU4NDg5OF5BMl5BanBnXkFtZTcwMzU5OTcxNA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQxMTU4NDg5OF5BMl5BanBnXkFtZTcwMzU5OTcxNA@@._V1._SX94_SY140_.jpg"
+desc: "Mistério da Rua 7. Vanishing on 7th Street (USA, 2010). Dirigido por Brad Anderson. Escrito por Anthony Jaswinski. Com Hayden Christensen, John Leguizamo, Thandie Newton, Jacob Latimore, Taylor Groothuis, Jordan Trovillion, Arthur Cartwright, Neal Huff, Hugh Maguire."
 ---
 Mensagem de cunho católico no mesmo molde de O Nevoeiro, porém, determinado a sacrificar a história pelo bem de um contra-ataque nada elegante?
 

@@ -1,27 +1,10 @@
 ---
+imdb: "4326444"
 date: "2016-07-31"
 categories: "movies"
-imdb: "4326444"
-stars: "3/5"
 title: "Julieta"
-_title: "Julieta"
-_year: "2016"
-_director: ["Pedro Almodóvar", ]
-_writer: ["Pedro Almodóvar", "Alice Munro", ]
-_cast: ["Adriana Ugarte", "Rossy de Palma", "Inma Cuesta", "Michelle Jenner", "Emma Suárez", "Daniel Grao", "Darío Grandinetti", "Nathalie Poza", "Agustín Almodóvar", ]
-_countries: ["Spain", ]
-_languages: ["Spanish", ]
-_editor: ["José Salcedo", ]
-_cinematographer: ["Jean-Claude Larrieu", ]
-_music: ["Alberto Iglesias", ]
-_artdirection: ["Carlos Bodelón", "Federico García Cambero", ]
-_costume designer: ["Sonia Grande", ]
-_genres: ["Drama", ]
-_runtimes: ["99", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BZjI3ZTdmNjMtMTI5My00M2EyLTg5YmItMDAwODU4ZWYyYjFhXkEyXkFqcGdeQXVyMTA0MjU0Ng@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BZjI3ZTdmNjMtMTI5My00M2EyLTg5YmItMDAwODU4ZWYyYjFhXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1._SX98_SY140_.jpg"
+stars: "3/5"
+desc: "Julieta. Julieta (Spain, 2016). Dirigido por Pedro Almodóvar. Escrito por Pedro Almodóvar, Alice Munro. Com Adriana Ugarte, Rossy de Palma, Inma Cuesta, Michelle Jenner, Emma Suárez, Daniel Grao, Darío Grandinetti, Nathalie Poza, Agustín Almodóvar."
 ---
 Como sempre, sabemos desde o começo que este é um filme de Pedro Almodóvar, no estilo melodramático dele (e das cores do figurino, da direção de arte de muito bom gosto, etc). A trama mais uma vez envolve o passado misterioso de uma mulher -- a Julieta do título -- e mais uma vez as mulheres são as personagens fortes. E, para não deixar em branco, há uma tragédia grega senso usada como pano de fundo. Almodóvar nunca muda seus trejeitos, mas sua inventividade reciclada não gera os melhores frutos.
 

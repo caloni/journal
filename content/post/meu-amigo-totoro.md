@@ -1,26 +1,10 @@
 ---
-date: "2016-05-15"
 imdb: "0096283"
-stars: "5/5"
+date: "2016-05-15"
 categories: "movies"
 title: "Meu Amigo Totoro"
-_title: "Tonari no Totoro"
-_year: "1988"
-_director: ["Hayao Miyazaki", ]
-_writer: ["Hayao Miyazaki", ]
-_cast: ["Chika Sakamoto", "Hitoshi Takagi", "Noriko Hidaka", "Shigesato Itoi", "Tanie Kitabayashi", "Toshiyuki Amagasa", "Naoki Tatsuta", "Frank Welker", "Lea Salonga", ]
-_countries: ["Japan", ]
-_languages: ["Japanese", ]
-_editor: ["Takeshi Seyama", ]
-_cinematographer: ["Mark Henley", ]
-_music: ["Joe Hisaishi", ]
-_artdirection: ["Kazuo Oga", ]
-_genres: ["Animation", ]
-_runtimes: ["86", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjE3NzY5ODQwMV5BMl5BanBnXkFtZTcwNzY1NzcxNw@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjE3NzY5ODQwMV5BMl5BanBnXkFtZTcwNzY1NzcxNw@@._V1._SX100_SY138_.jpg"
+stars: "5/5"
+desc: "Meu Amigo Totoro. Tonari no Totoro (Japan, 1988). Dirigido por Hayao Miyazaki. Escrito por Hayao Miyazaki. Com Chika Sakamoto, Hitoshi Takagi, Noriko Hidaka, Shigesato Itoi, Tanie Kitabayashi, Toshiyuki Amagasa, Naoki Tatsuta, Frank Welker, Lea Salonga."
 ---
 Uma animação imortal e irretocável. Meu Amigo Totoro é um dos primeiros filmes dos Estúdios Ghibli, de Hayao Miyazaki, e foi feito no auge dos anos 80. Ele apresenta uma história simples e ao mesmo tempo fascinante, sobre duas meninas que se mudam para um vilarejo no interior com o pai e a mãe, internada em um hospital. A região é conhecida pelas plantações de arroz, e pela imponente floresta. Totoro e seus amigos, espíritos protetores da região, se encontram com a doce e enérgica Mei e a mais velha, mas ainda criança, Satsuki.
 

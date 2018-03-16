@@ -1,25 +1,10 @@
 ---
-date: "2012-10-25"
 imdb: "1643222"
+date: "2012-10-25"
+categories: "movies"
 title: "Um Inferno"
 stars: "4/5"
-categories: "movies"
-_title: "Hell"
-_year: "2011"
-_director: ["Tim Fehlbaum", ]
-_writer: ["Tim Fehlbaum", "Oliver Kahl", "Thomas Wöbke", ]
-_cast: ["Hannah Herzsprung", "Lars Eidinger", "Stipe Erceg", "Lisa Vicari", "Angela Winkler", "Yoann Blanc", "Christoph Gaugler", "Lilo Baur", "Marco Calamandrei", ]
-_countries: ["Germany", ]
-_languages: ["German", ]
-_editor: ["Andreas Menn", ]
-_cinematographer: ["Markus Förderer", ]
-_music: ["Lorenz Dangel", ]
-_genres: ["Horror", ]
-_runtimes: ["Germany:89", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTgxMDA3OTUwNF5BMl5BanBnXkFtZTgwNTEzMTg5MDE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTgxMDA3OTUwNF5BMl5BanBnXkFtZTgwNTEzMTg5MDE@._V1._SX99_SY140_.jpg"
+desc: "Um Inferno. Hell (Germany, 2011). Dirigido por Tim Fehlbaum. Escrito por Tim Fehlbaum, Oliver Kahl, Thomas Wöbke. Com Hannah Herzsprung, Lars Eidinger, Stipe Erceg, Lisa Vicari, Angela Winkler, Yoann Blanc, Christoph Gaugler, Lilo Baur, Marco Calamandrei."
 ---
 Inferno cresce bem, como qualquer trabalho de terror/suspense bem executado. O que fortalece o primeiro trabalho do diretor Tim Fehlbaum como trama, porém, é o uso sem ressalvas de um dos seus personagens mais importantes: o sol.
 

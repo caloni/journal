@@ -1,25 +1,10 @@
 ---
-date: "2011-07-22"
 imdb: "1201607"
+date: "2011-07-22"
+categories: "movies"
 title: "Harry Potter e as Relíquias da Morte Parte 2"
 stars: "5/5"
-categories: "movies"
-_title: "Harry Potter and the Deathly Hallows: Part 2"
-_year: "2011"
-_director: ["David Yates", ]
-_writer: ["Steve Kloves", "J.K. Rowling", ]
-_cast: ["Ralph Fiennes", "Michael Gambon", "Alan Rickman", "Daniel Radcliffe", "Rupert Grint", "Emma Watson", "Evanna Lynch", "Domhnall Gleeson", "Clémence Poésy", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Mark Day", ]
-_cinematographer: ["Eduardo Serra", ]
-_music: ["Alexandre Desplat", ]
-_genres: ["Adventure", ]
-_runtimes: ["130", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTY2MTk3MDQ1N15BMl5BanBnXkFtZTcwMzI4NzA2NQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTY2MTk3MDQ1N15BMl5BanBnXkFtZTcwMzI4NzA2NQ@@._V1._SX94_SY140_.jpg"
+desc: "Harry Potter e as Relíquias da Morte Parte 2. Harry Potter and the Deathly Hallows: Part 2 (USA, 2011). Dirigido por David Yates. Escrito por Steve Kloves, J.K. Rowling. Com Ralph Fiennes, Michael Gambon, Alan Rickman, Daniel Radcliffe, Rupert Grint, Emma Watson, Evanna Lynch, Domhnall Gleeson, Clémence Poésy."
 ---
 Prólogo
 Um filme que carrega o peso de uma saga que dura quase dez anos merece um final, no mínimo, apropriado. Felizmente, nas mãos do visualmente habilidoso David Yates, essa premissa é cumprida com louvor.

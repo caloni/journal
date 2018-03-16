@@ -1,29 +1,11 @@
 ---
-imdb: "2463288"
-stars: "3/5"
 tags: ['netflix']
+imdb: "2463288"
 date: 2017-07-31T20:18:15
-title: "A Minha Casa Caiu"
 categories: "movies"
-_title: "Walk of Shame"
-_year: "2014"
-_director: ["Steven Brill", ]
-_writer: ["Steven Brill", ]
-_cast: ["Elizabeth Banks (Meghan)", "James Marsden (Gordon)", "Gillian Jacobs (Rose)", "Sarah Wright (Denise)", "Ethan Suplee (Officer Dave)", "Bill Burr (Officer Walter)", "Ken Davitian (Cab Driver)", "Lawrence Gilliard Jr. (Scrilla)", "Alphonso McAuley (Pookie)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Patrick J. Don Vito", ]
-_cinematographer: ["Jonathan Brown", ]
-_music: ["John Debney", ]
-_artdirection: ["Alan Au", ]
-_costume designer: ["Lindsay McKay", ]
-_genres: ["Comedy", ]
-_runtimes: ["95", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BODg2Mzk0NzU2M15BMl5BanBnXkFtZTgwMjAyNjYxMTE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BODg2Mzk0NzU2M15BMl5BanBnXkFtZTgwMjAyNjYxMTE@._V1._SX94_SY140_.jpg"
-_releasedate: "3 July 2014"
+title: "A Minha Casa Caiu"
+stars: "3/5"
+desc: "A Minha Casa Caiu. Walk of Shame (USA, 2014). Dirigido por Steven Brill. Escrito por Steven Brill. Com Elizabeth Banks (Meghan), James Marsden (Gordon), Gillian Jacobs (Rose), Sarah Wright (Denise), Ethan Suplee (Officer Dave), Bill Burr (Officer Walter), Ken Davitian (Cab Driver), Lawrence Gilliard Jr. (Scrilla), Alphonso McAuley (Pookie)."
 ---
 Este é mais um daqueles filmes da safra de filmes sobre mulheres. Mas não é um comrom, e sim uma comédia escrachada sobre os absurdos de uma repórter que deseja o cargo de âncora de um jornal importante da região que até então tinha apenas em seu currículo de gafes ser atacada por gatos.
 

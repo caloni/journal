@@ -1,26 +1,10 @@
 ---
+imdb: "0053604"
 date: "2016-07-19"
 categories: "movies"
-imdb: "0053604"
-stars: "5/5"
 title: "Se Meu Apartamento Falasse"
-_title: "The Apartment"
-_year: "1960"
-_director: ["Billy Wilder", ]
-_writer: ["Billy Wilder", "I.A.L. Diamond", ]
-_cast: ["Jack Lemmon", "Shirley MacLaine", "Fred MacMurray", "Ray Walston", "Jack Kruschen", "David Lewis", "Hope Holiday", "Joan Shawlee", "Naomi Stevens", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Daniel Mandell", ]
-_cinematographer: ["Joseph LaShelle", ]
-_music: ["Adolph Deutsch", ]
-_artdirection: ["Alexandre Trauner", ]
-_genres: ["Comedy", ]
-_runtimes: ["125", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTM1OTc4MzgzNl5BMl5BanBnXkFtZTcwNTE2NjgyMw@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTM1OTc4MzgzNl5BMl5BanBnXkFtZTcwNTE2NjgyMw@@._V1._SX84_SY140_.jpg"
+stars: "5/5"
+desc: "Se Meu Apartamento Falasse. The Apartment (USA, 1960). Dirigido por Billy Wilder. Escrito por Billy Wilder, I.A.L. Diamond. Com Jack Lemmon, Shirley MacLaine, Fred MacMurray, Ray Walston, Jack Kruschen, David Lewis, Hope Holiday, Joan Shawlee, Naomi Stevens."
 ---
 Jack Lemmon consegue a proeza de fazer dois personagens absolutamente distintos em duas comédias de Billy Wilder um ano seguido do outro. A primeira, "Quanto Mais Quente Melhor", Lemmon faz com Tony Curtis dois foragidos da polícia que se vestem de mulher e participam de uma banda que contém ninguém menos que Marylin Monroe. Já em "Se Meu Apartamento Falasse", Lemmon mora em um apartamento que serve de pulada de muro para seus "amigos" no escritório, incluindo um deles que tenta levar uma loira parecida com Marylin Monroe. O detalhe é que a única semelhança é que ela é loira.
 

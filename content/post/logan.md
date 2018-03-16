@@ -1,29 +1,11 @@
 ---
+tags: ['cinema', 'mcu', 'xmen']
+imdb: "3315342"
 date: "2017-03-05"
 categories: "movies"
 title: "Logan"
-imdb: "3315342"
 stars: "4/5"
-tags: ['cinema', 'mcu', 'xmen']
-_title: "Logan"
-_year: "2017"
-_director: ["James Mangold", ]
-_writer: ["James Mangold", "Scott Frank", "Michael Green", "Craig Kyle", "John Romita Sr", "Roy Thomas", "Herb Trimpe", "Len Wein", "Christopher Yost", ]
-_cast: ["Hugh Jackman (Logan)", "Patrick Stewart (Charles)", "Dafne Keen (Laura)", "Boyd Holbrook (Pierce)", "Stephen Merchant (Caliban)", "Elizabeth Rodriguez (Gabriela)", "Richard E. Grant (Dr. Rice)", "Eriq La Salle (Will Munson)", "Elise Neal (Kathryn Munson)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Michael McCusker", "Dirk Westervelt", ]
-_cinematographer: ["John Mathieson", ]
-_music: ["Marco Beltrami", ]
-_artdirection: ["Chris Farmer", "Jordan Ferrer", "Luke Freeborn", "Scott Plauche", ]
-_costume designer: ["Daniel Orlandi", ]
-_genres: ["Action", ]
-_runtimes: ["137", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjI1MjkzMjczMV5BMl5BanBnXkFtZTgwNDk4NjYyMTI@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjI1MjkzMjczMV5BMl5BanBnXkFtZTgwNDk4NjYyMTI@._V1._SX95_SY140_.jpg"
-_releasedate: "2 March 2017"
+desc: "Logan. Logan (USA, 2017). Dirigido por James Mangold. Escrito por James Mangold, Scott Frank, Michael Green, Craig Kyle, John Romita Sr, Roy Thomas, Herb Trimpe, Len Wein, Christopher Yost. Com Hugh Jackman (Logan), Patrick Stewart (Charles), Dafne Keen (Laura), Boyd Holbrook (Pierce), Stephen Merchant (Caliban), Elizabeth Rodriguez (Gabriela), Richard E. Grant (Dr. Rice), Eriq La Salle (Will Munson), Elise Neal (Kathryn Munson)."
 ---
 O diretor e roteirista James Mangold apresenta um fechamento de personagem que soa estranho aos fãs da Marvel mais coloridos e menos afoitos com a dura realidade da vida: pessoas morrem nesses filmes.
 

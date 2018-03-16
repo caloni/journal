@@ -1,23 +1,10 @@
 ---
-date: "2015-10-27"
 imdb: "3118874"
-stars: "2/5"
+date: "2015-10-27"
 categories: "movies"
 title: "Back in Time"
-_title: "Back in Time"
-_year: "2015"
-_director: ["Jason Aron", ]
-_cast: ["Michael J. Fox", "Christopher Lloyd", "Lea Thompson", "Claudia Wells", "Steven Spielberg", "Robert Zemeckis", "Jeffrey Weissman", "James Tolkan", "Bob Gale", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Thomas Griffin", ]
-_cinematographer: ["Jason Aron", "Derek Brown", "Mark Cambria", "Mitchell Hooper", "Jay Lafayette", "Greg Lassik", ]
-_music: ["Allen Calmes", "G.C. Johnson", ]
-_genres: ["Documentary", ]
-_runtimes: ["95", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTUxNDc0MTQzMV5BMl5BanBnXkFtZTgwNTMwNzQ4NDE@.jpg"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTUxNDc0MTQzMV5BMl5BanBnXkFtZTgwNTMwNzQ4NDE@._V1._SX94_SY140_.jpg"
+stars: "2/5"
+desc: "Back in Time. Back in Time (USA, 2015). Dirigido por Jason Aron. Com Michael J. Fox, Christopher Lloyd, Lea Thompson, Claudia Wells, Steven Spielberg, Robert Zemeckis, Jeffrey Weissman, James Tolkan, Bob Gale."
 ---
 Um documentário sobre De Volta para o Futuro possui um timing tão menos empolgante que os filmes que homenageia que soa o tempo todo como uma pegadinha. No entanto, o trabalho do diretor Jason Aron realmente entrevista diversas pessoas envolvidas com a produção dos filmes, os atores, os fãs. Algumas curiosidades são ditas, alguns casos engraçados, mas nada que justifique sua existência a não ser justamente o que Robert Zemeckis negou fazer com uma camiseta "não-De Volta Para o Futuro IV": um caça-níqueis.
 

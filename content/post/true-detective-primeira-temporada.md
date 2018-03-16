@@ -1,28 +1,11 @@
 ---
-imdb: "2356777"
-stars: "4/5"
 tags: ['truedetective', 'paulocoelho']
+imdb: "2356777"
 date: 2017-11-01T21:42:54
-title: "True Detective: Primeira Temporada"
 categories: "blog"
-_title: "True Detective"
-_year: "2014"
-_director: ["Cary Fukunaga", "John Crowley", "Justin Lin", ]
-_writer: ["Nic Pizzolatto", "Scott Lasser", ]
-_cast: ["Matthew McConaughey (Detective Rust Cohle)", "Colin Farrell (Detective Ray Velcoro)", "Woody Harrelson (Detective Marty Hart)", "Rachel McAdams (Detective Ani Bezzerides)", "Michelle Monaghan (Maggie Hart)", "Taylor Kitsch (Officer Paul Woodrugh)", "Michael Potts (Detective Maynard Gilbough)", "Kelly Reilly (Jordan Semyon)", "Tory Kittles (Detective Thomas Papania)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Alex Hall", "Affonso Gonçalves", "Chris Figler", "Byron Smith", "Meg Reticker", ]
-_cinematographer: ["Adam Arkapaw", "Nigel Bluck", ]
-_music: ["T Bone Burnett", ]
-_artdirection: ["Tim Beach", "Mara LePere-Schloop", "Richard Bloom", "Maya Shimoguchi", ]
-_costume designer: ["Jenny Eagan", "Alix Friedberg", ]
-_genres: ["Crime", ]
-_runtimes: ["55", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMmRlYmE0Y2UtNDk2Yi00NzczLWEwZTEtZmE2OTcyYzcxYmU5XkEyXkFqcGdeQXVyNTMxMjgxMzA@.jpg"
-_ratio: "1.78 : 1"
-_kind: "tv series"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMmRlYmE0Y2UtNDk2Yi00NzczLWEwZTEtZmE2OTcyYzcxYmU5XkEyXkFqcGdeQXVyNTMxMjgxMzA@._V1._SX100_SY140_.jpg"
+title: "True Detective: Primeira Temporada"
+stars: "4/5"
+desc: "True Detective: Primeira Temporada. True Detective (USA, 2014). Dirigido por Cary Fukunaga, John Crowley, Justin Lin. Escrito por Nic Pizzolatto, Scott Lasser. Com Matthew McConaughey (Detective Rust Cohle), Colin Farrell (Detective Ray Velcoro), Woody Harrelson (Detective Marty Hart), Rachel McAdams (Detective Ani Bezzerides), Michelle Monaghan (Maggie Hart), Taylor Kitsch (Officer Paul Woodrugh), Michael Potts (Detective Maynard Gilbough), Kelly Reilly (Jordan Semyon), Tory Kittles (Detective Thomas Papania)."
 ---
 Este é o tipo de série que pode ir de maçante para fascinante, dependendo de quem assiste. Com um roteiro intrincado, sério, sisudo demais, a história contada em oito capítulos segue uma sequência difícil de ser equiparada. Porém, mais do que isso, aqui temos dois personagens em pés de igualdade. Cada um deles é interpretado por um monstro da atuação. Como não amar Matthew McConaughey e Woody Harrelson depois de seus Rus Cohle e Marty Hart? Esta, sim, é uma tarefa difícil.
 

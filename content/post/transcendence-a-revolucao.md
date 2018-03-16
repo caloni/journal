@@ -1,25 +1,10 @@
 ---
-date: "2014-10-23"
 imdb: "2209764"
+date: "2014-10-23"
+categories: "movies"
 title: "Transcendence: A Revolução"
 stars: "4/5"
-categories: "movies"
-_title: "Transcendence"
-_year: "2014"
-_director: ["Wally Pfister", ]
-_writer: ["Jack Paglen", ]
-_cast: ["Johnny Depp", "Rebecca Hall", "Paul Bettany", "Cillian Murphy", "Kate Mara", "Cole Hauser", "Morgan Freeman", "Clifton Collins Jr.", "Cory Hardrict", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["David Rosenbloom", ]
-_cinematographer: ["Jess Hall", ]
-_music: ["Mychael Danna", ]
-_genres: ["Drama", ]
-_runtimes: ["119", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTc1MjQ3ODAyOV5BMl5BanBnXkFtZTgwNjI1NDQ0MTE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTc1MjQ3ODAyOV5BMl5BanBnXkFtZTgwNjI1NDQ0MTE@._V1._SX94_SY140_.jpg"
+desc: "Transcendence: A Revolução. Transcendence (UK, 2014). Dirigido por Wally Pfister. Escrito por Jack Paglen. Com Johnny Depp, Rebecca Hall, Paul Bettany, Cillian Murphy, Kate Mara, Cole Hauser, Morgan Freeman, Clifton Collins Jr., Cory Hardrict."
 ---
 Tecnologia, consciência, religião, internet, conectividade, ecologia, inteligência artificial, moral, ética, filosofia, existência, nanotecnologia, computação quântica, privacidade, realidade virtual: todos representados em Transcendence, primeiro trabalho de direção de Wally Pfister, fotógrafo habitual dos trabalhos de Christopher Nolan (que aqui assina a produção) e primeiro trabalho de roteiro de Jack Paglen, um roteiro que já figurava na Black List: a lista hollywoodiana dos roteiros famosos que nunca são produzidos.
 

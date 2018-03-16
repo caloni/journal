@@ -1,25 +1,10 @@
 ---
-date: "2012-04-30"
 imdb: "0301199"
+date: "2012-04-30"
+categories: "movies"
 title: "Coisas Belas E Sujas"
 stars: "4/5"
-categories: "movies"
-_title: "Dirty Pretty Things"
-_year: "2002"
-_director: ["Stephen Frears", ]
-_writer: ["Steven Knight", ]
-_cast: ["Chiwetel Ejiofor", "Audrey Tautou", "Sergi López", "Sophie Okonedo", "Benedict Wong", "Zlatko Buric", "Kriss Dosanjh", "Israel Oyelumade", "Yemi Ajibade", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Mick Audsley", ]
-_cinematographer: ["Chris Menges", ]
-_music: ["Nathan Larson", ]
-_genres: ["Crime", ]
-_runtimes: ["97", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTYyODQ5NDY5N15BMl5BanBnXkFtZTYwMDg5NjQ3.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTYyODQ5NDY5N15BMl5BanBnXkFtZTYwMDg5NjQ3._V1._SX94_SY140_.jpg"
+desc: "Coisas Belas E Sujas. Dirty Pretty Things (UK, 2002). Dirigido por Stephen Frears. Escrito por Steven Knight. Com Chiwetel Ejiofor, Audrey Tautou, Sergi López, Sophie Okonedo, Benedict Wong, Zlatko Buric, Kriss Dosanjh, Israel Oyelumade, Yemi Ajibade."
 ---
 No começo, assistimos à rotina de Okwe (Chiwetel Ejiofor) em seus inúmeros empregos, incluindo taxista clandestino no aeroporto e recepcionista de um sombrio hotel nos subúrbios de Londres. O clima opressivo e pessimista apenas aumenta conforme a história se desenrola, e a única esperança de paz parece residir nas gavetas do IML, junto do único amigo de Okwe. Vemos tudo sob o ponto de vista de Okwe, o que não é necessariamente uma coisa boa.
 

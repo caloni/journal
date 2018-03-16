@@ -1,24 +1,10 @@
 ---
-date: "2012-07-03"
 imdb: "1859650"
+date: "2012-07-03"
+categories: "movies"
 title: "Para Roma com Amor"
 stars: "4/5"
-categories: "movies"
-_title: "To Rome with Love"
-_year: "2012"
-_director: ["Woody Allen", ]
-_writer: ["Woody Allen", ]
-_cast: ["Judy Davis", "Flavio Parenti", "Roberto Benigni", "Alison Pill", "Alessandro Tiberi", "Alessandra Mastronardi", "Alec Baldwin", "Carol Alt", "David Pasquesi", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Alisa Lepselter", ]
-_cinematographer: ["Darius Khondji", ]
-_genres: ["Comedy", ]
-_runtimes: ["112", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTcwNTg4MDMxM15BMl5BanBnXkFtZTcwNjAzMzY3Nw@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTcwNTg4MDMxM15BMl5BanBnXkFtZTcwNjAzMzY3Nw@@._V1._SX94_SY140_.jpg"
+desc: "Para Roma com Amor. To Rome with Love (USA, 2012). Dirigido por Woody Allen. Escrito por Woody Allen. Com Judy Davis, Flavio Parenti, Roberto Benigni, Alison Pill, Alessandro Tiberi, Alessandra Mastronardi, Alec Baldwin, Carol Alt, David Pasquesi."
 ---
 Quais diretores você conhece que conseguem fazer o velho clichê da "pessoa engasgando com o copo na mão ao ver cena inusitada" funcionar novamente? Eu conheço um: Woody Allen.
 

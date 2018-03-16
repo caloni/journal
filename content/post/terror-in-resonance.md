@@ -1,23 +1,11 @@
 ---
+tags: ['netflix', 'series']
+imdb: "3613454"
 date: "2015-09-19"
 categories: "series"
-imdb: "3613454"
-stars: "3/5"
 title: "Terror in Resonance"
-tags: ['netflix', 'series']
-_title: "Zankyo no Terror"
-_year: "2014"
-_director: ["Shinichirô Watanabe", "Kazuto Nakazawa", ]
-_cast: ["Kaito Ishikawa", "Soma Saito", "Shunsuke Sakuya", "Atsumi Tanezaki", "Megumi Han", ]
-_countries: ["Japan", ]
-_languages: ["Japanese", ]
-_editor: ["Kiyoshi Hirose", ]
-_music: ["Yôko Kanno", ]
-_artdirection: ["Hidetoshi Kaneko", ]
-_genres: ["Animation", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMzE5ODY4NjcxMl5BMl5BanBnXkFtZTgwNzc0OTU4NTE@.jpg"
-_kind: "tv series"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMzE5ODY4NjcxMl5BMl5BanBnXkFtZTgwNzc0OTU4NTE@._V1._SX100_SY75_.jpg"
+stars: "3/5"
+desc: "Terror in Resonance. Zankyo no Terror (Japan, 2014). Dirigido por Shinichirô Watanabe, Kazuto Nakazawa. Com Kaito Ishikawa, Soma Saito, Shunsuke Sakuya, Atsumi Tanezaki, Megumi Han."
 ---
 Esse aparentemente é um seriado de uma temporada apenas, com cada um de seus onze episódios com cerca de 20 minutos ou menos, dando no final das contas um filme de pouco mais de três horas com os famigerados cortes e padrões de mídia japonesa.
 

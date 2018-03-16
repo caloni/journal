@@ -1,26 +1,10 @@
 ---
-date: "2015-12-27"
 imdb: "0074958"
-stars: "5/5"
+date: "2015-12-27"
 categories: "movies"
 title: "Rede de Intrigas"
-_title: "Network"
-_year: "1976"
-_director: ["Sidney Lumet", ]
-_writer: ["Paddy Chayefsky", ]
-_cast: ["Faye Dunaway", "William Holden", "Peter Finch", "Robert Duvall", "Wesley Addy", "Ned Beatty", "Arthur Burghardt", "Bill Burrows", "John Carpenter", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Alan Heim", ]
-_cinematographer: ["Owen Roizman", ]
-_music: ["Elliot Lawrence", ]
-_costume designer: ["Theoni V. Aldredge", ]
-_genres: ["Drama", ]
-_runtimes: ["121", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNzk5MjcxNTg2MF5BMl5BanBnXkFtZTgwMzY2MTUxMDE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNzk5MjcxNTg2MF5BMl5BanBnXkFtZTgwMzY2MTUxMDE@._V1._SX100_SY134_.jpg"
+stars: "5/5"
+desc: "Rede de Intrigas. Network (USA, 1976). Dirigido por Sidney Lumet. Escrito por Paddy Chayefsky. Com Faye Dunaway, William Holden, Peter Finch, Robert Duvall, Wesley Addy, Ned Beatty, Arthur Burghardt, Bill Burrows, John Carpenter."
 ---
 Sidney Lumet é um gênio em pegar questões delicadas e profundas da nossa sociedade e inseri-las em histórias corriqueiras ou com uma roupagem 100% pessoal. É assim com os clássicos Um Dia de Cão e Serpico, e não seria diferente quando o tema agora é a TV como ferramenta de divulgação de notícias. Ou pelo menos essa era a ideia original.
 

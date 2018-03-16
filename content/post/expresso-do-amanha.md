@@ -1,27 +1,10 @@
 ---
-date: "2016-01-13"
 imdb: "1706620"
-stars: "4/5"
+date: "2016-01-13"
 categories: "movies"
 title: "Expresso do Amanhã"
-_title: "Snowpiercer"
-_year: "2013"
-_director: ["Joon Ho Bong", ]
-_writer: ["Joon Ho Bong", "Kelly Masterson", "Joon Ho Bong", "Jacques Lob", "Benjamin Legrand", "Jean-Marc Rochette", ]
-_cast: ["Chris Evans", "Kang-ho Song", "Ed Harris", "John Hurt", "Tilda Swinton", "Jamie Bell", "Octavia Spencer", "Ewen Bremner", "Ah-sung Ko", ]
-_countries: ["South Korea", ]
-_languages: ["English", ]
-_editor: ["Steve M. Choe", "Changju Kim", ]
-_cinematographer: ["Kyung-pyo Hong", ]
-_music: ["Marco Beltrami", ]
-_artdirection: ["Stefan Kovacik", ]
-_costume designer: ["Catherine George", ]
-_genres: ["Action", ]
-_runtimes: ["126", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQ3NzA1MTY3MV5BMl5BanBnXkFtZTgwNzE2Mzg5MTE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQ3NzA1MTY3MV5BMl5BanBnXkFtZTgwNzE2Mzg5MTE@._V1._SX94_SY140_.jpg"
+stars: "4/5"
+desc: "Expresso do Amanhã. Snowpiercer (South Korea, 2013). Dirigido por Joon Ho Bong. Escrito por Joon Ho Bong, Kelly Masterson, Joon Ho Bong, Jacques Lob, Benjamin Legrand, Jean-Marc Rochette. Com Chris Evans, Kang-ho Song, Ed Harris, John Hurt, Tilda Swinton, Jamie Bell, Octavia Spencer, Ewen Bremner, Ah-sung Ko."
 ---
 O quão bom é a mensagem de um filme à medida que ela vai se tornando óbvia demais? Em Expresso do Amanhã, um filme violentamente gráfico e com desvios de caráter para o bem de seu argumento, talvez esse limite seja quando um personagem declara que "o trem é o mundo, nós somos a humanidade", em um momento tão avançado na história que até para aquele espectador que dormiu metade do filme a mensagem já é pura e cristalina como água derretida das calotas polares.
 

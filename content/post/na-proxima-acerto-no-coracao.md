@@ -1,26 +1,11 @@
 ---
-date: "2015-06-08"
-tags: [ "cabine" ]
+tags: ['cabine']
 imdb: "3324494"
-stars: "4/5"
+date: "2015-06-08"
 categories: "movies"
 title: "Na Próxima, Acerto no Coração"
-_title: "La prochaine fois je viserai le coeur"
-_year: "2014"
-_director: ["Cédric Anger", ]
-_writer: ["Cédric Anger", "Yvan Stefanovitch", ]
-_cast: ["Guillaume Canet", "Ana Girardot", "Jean-Yves Berteloot", "Patrick Azam", "Arnaud Henriet", "Douglas Attal", "Pierick Tournier", "Alexandre Carrière", "François-Dominique Blin", ]
-_countries: ["France", ]
-_languages: ["French", ]
-_editor: ["Julien Leloup", ]
-_cinematographer: ["Thomas Hardmeier", ]
-_music: ["Grégoire Hetzel", ]
-_genres: ["Thriller", ]
-_runtimes: ["111", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQ1MzA1NjIwN15BMl5BanBnXkFtZTgwMTc0NDg5MjE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQ1MzA1NjIwN15BMl5BanBnXkFtZTgwMTc0NDg5MjE@._V1._SX100_SY133_.jpg"
+stars: "4/5"
+desc: "Na Próxima, Acerto no Coração. La prochaine fois je viserai le coeur (France, 2014). Dirigido por Cédric Anger. Escrito por Cédric Anger, Yvan Stefanovitch. Com Guillaume Canet, Ana Girardot, Jean-Yves Berteloot, Patrick Azam, Arnaud Henriet, Douglas Attal, Pierick Tournier, Alexandre Carrière, François-Dominique Blin."
 ---
 No começo de Na Próxima, Acerto no Coração, os letreiros informam que esta é uma das histórias mais estranhas da polícia da França. Obviamente isso eleva a expectativa de quem assiste o filme e faz pensar que não foi tão estranho assim. E, na verdade, não foi mesmo. Dando um ar cinematográfico à história (real) de Alain Lamare, um psicopata que fez parte da polícia francesa, o diretor/roteirista Cédric Anger explora de todas as maneiras as sutilezas de um sujeito que vive à margem da empatia e que precisa matar para dar vazão à sua própria existência.
 

@@ -1,27 +1,10 @@
 ---
-date: "2015-12-01"
 imdb: "0095705"
-stars: "3/5"
+date: "2015-12-01"
 categories: "movies"
 title: "Corra que a Polícia Vem Aí!"
-_title: "The Naked Gun: From the Files of Police Squad!"
-_year: "1988"
-_director: ["David Zucker", ]
-_writer: ["Jerry Zucker", "Jim Abrahams", "David Zucker", "Pat Proft", "Jim Abrahams", "David Zucker", "Jerry Zucker", ]
-_cast: ["Leslie Nielsen", "Priscilla Presley", "Ricardo Montalban", "George Kennedy", "O.J. Simpson", "Susan Beaubian", "Nancy Marchand", "Raye Birk", "Jeannette Charles", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Michael Jablow", ]
-_cinematographer: ["Robert M. Stevens", ]
-_music: ["Ira Newborn", ]
-_artdirection: ["Donald B. Woodruff", ]
-_costume designer: ["Mary E. Vogt", ]
-_genres: ["Comedy", ]
-_runtimes: ["85", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQwMDczODE4M15BMl5BanBnXkFtZTcwNTM1NDIyMQ@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQwMDczODE4M15BMl5BanBnXkFtZTcwNTM1NDIyMQ@@._V1._SX99_SY140_.jpg"
+stars: "3/5"
+desc: "Corra que a Polícia Vem Aí!. The Naked Gun: From the Files of Police Squad! (USA, 1988). Dirigido por David Zucker. Escrito por Jerry Zucker, Jim Abrahams, David Zucker, Pat Proft, Jim Abrahams, David Zucker, Jerry Zucker. Com Leslie Nielsen, Priscilla Presley, Ricardo Montalban, George Kennedy, O.J. Simpson, Susan Beaubian, Nancy Marchand, Raye Birk, Jeannette Charles."
 ---
 Nunca datado, mas um pouco óbvio. O primeiro filme da série do policial atrapalhado interpretado por Leslie Nielsen tem um bom coração, é cheio de piadas positivas, mesmo que envolva um homem ser amassado por um rolo compressor.
 

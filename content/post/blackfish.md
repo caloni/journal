@@ -1,25 +1,10 @@
 ---
-date: "2015-01-11"
 imdb: "2545118"
+date: "2015-01-11"
+categories: "movies"
 title: "Blackfish: Fúria Animal"
 stars: "5/5"
-categories: "movies"
-_title: "Blackfish"
-_year: "2013"
-_director: ["Gabriela Cowperthwaite", ]
-_writer: ["Gabriela Cowperthwaite", "Eli B. Despres", "Tim Zimmermann", ]
-_cast: ["Tilikum", "John Hargrove", "Samantha Berg", "Mark Simmons", "Kim Ashdown", "Dean Gomersall", "James Earl Jones", "Shamu", "Carol Ray", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Eli B. Despres", "Gabriela Cowperthwaite", ]
-_cinematographer: ["Jonathan Ingalls", "Chris Towey", ]
-_music: ["Jeff Beal", ]
-_genres: ["Documentary", ]
-_runtimes: ["83", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNTkyNTkwMzkxMl5BMl5BanBnXkFtZTcwMzAwOTE2OQ@@.jpg"
-_ratio: "1.78 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNTkyNTkwMzkxMl5BMl5BanBnXkFtZTcwMzAwOTE2OQ@@._V1._SX94_SY140_.jpg"
+desc: "Blackfish: Fúria Animal. Blackfish (USA, 2013). Dirigido por Gabriela Cowperthwaite. Escrito por Gabriela Cowperthwaite, Eli B. Despres, Tim Zimmermann. Com Tilikum, John Hargrove, Samantha Berg, Mark Simmons, Kim Ashdown, Dean Gomersall, James Earl Jones, Shamu, Carol Ray."
 ---
 Blackfish expõe como nunca a ignorância humana aliada à sua arrogância em se achar superior a qualquer outra espécie animal com quem compartilhamos o planeta. Porém, melhor do que isso, entrega um dossiê rico em imagens e depoimentos que fluem dinamicamente em torno da história do parque de entretenimento Sea World, relatando diferentes mortes de treinadores por quatro décadas até o fatídico assassinato anunciado da carismática treinadora Dawn Brancheau pela baleia Tilikum.
 

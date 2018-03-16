@@ -1,26 +1,11 @@
 ---
+tags: ['cabine']
+imdb: "3854770"
 date: "2016-12-15"
 categories: "movies"
 title: "A Última Lição"
-imdb: "3854770"
 stars: "4/5"
-tags: ['cabine']
-_title: "La dernière leçon"
-_year: "2015"
-_director: ["Pascale Pouzadoux", ]
-_writer: ["Laurent de Bartillat", "Pascale Pouzadoux", ]
-_cast: ["Marthe Villalonga (Madeleine)", "Sandrine Bonnaire (Diane)", "Antoine Duléry (Pierre)", "Gilles Cohen (Clovis)", "Grégoire Montana (Max)", "Sabine Pakora (Victoria)", "Jonas Dinal (Didid)", "Xavier Alcan (L'ami)", "Armelle", ]
-_countries: ["France", ]
-_languages: ["French", ]
-_editor: ["Sylvie Gadmer", ]
-_cinematographer: ["Nicolas Brunet", ]
-_music: ["Éric Neveux", ]
-_costume designer: ["Charlotte Betaillole", ]
-_genres: ["Family", ]
-_runtimes: ["105", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BZDQwYzI4Y2UtZTBkNy00MjAyLThjMWUtY2NjMmIwYmQ4YmQzXkEyXkFqcGdeQXVyMzU0NDkxNQ@@.jpg"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BZDQwYzI4Y2UtZTBkNy00MjAyLThjMWUtY2NjMmIwYmQ4YmQzXkEyXkFqcGdeQXVyMzU0NDkxNQ@@._V1._SX100_SY135_.jpg"
+desc: "A Última Lição. La dernière leçon (France, 2015). Dirigido por Pascale Pouzadoux. Escrito por Laurent de Bartillat, Pascale Pouzadoux. Com Marthe Villalonga (Madeleine), Sandrine Bonnaire (Diane), Antoine Duléry (Pierre), Gilles Cohen (Clovis), Grégoire Montana (Max), Sabine Pakora (Victoria), Jonas Dinal (Didid), Xavier Alcan (L'ami), Armelle."
 ---
 Mais um filme que lida com a decisão das pessoas de exercer o direito sobre o próprio corpo. Dessa vez decidindo quando morrer. E é um filme família, mas de família francesa. O que não quer dizer que é tão denso (ou depressivo) quanto um Michael Haneke ("Amor"), mas claro e didático o suficiente para se tornar importante para o tema.
 

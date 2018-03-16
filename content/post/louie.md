@@ -1,26 +1,11 @@
 ---
-date: "2015-07-28"
-imdb: "1492966"
-stars: "5/5"
-title: "Louie"
-categories: "blog"
 tags: ['series']
-_title: "Louie"
-_year: "2010"
-_director: ["Louis C.K.", ]
-_writer: ["Louis C.K.", "Pamela Adlon", ]
-_cast: ["Louis C.K.", "Hadley Delany", "Ursula Parker", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Louis C.K.", "Susan E. Morse", "Doug Abel", ]
-_cinematographer: ["Paul Koestner", ]
-_music: ["Maxfield Gast", "Matt Kilmer", "Adam Platt", "John Shannon", "Mike Shobe", "Benjamin Wright", "Reggie Watts", "Brent Arnold", ]
-_genres: ["Comedy", ]
-_runtimes: ["22", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTU2MDkyNzgxMV5BMl5BanBnXkFtZTcwNzcyNjk4Nw@@.jpg"
-_ratio: "1.78 : 1"
-_kind: "tv series"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTU2MDkyNzgxMV5BMl5BanBnXkFtZTcwNzcyNjk4Nw@@._V1._SX100_SY135_.jpg"
+imdb: "1492966"
+date: "2015-07-28"
+categories: "blog"
+title: "Louie"
+stars: "5/5"
+desc: "Louie. Louie (USA, 2010). Dirigido por Louis C.K.. Escrito por Louis C.K., Pamela Adlon. Com Louis C.K., Hadley Delany, Ursula Parker."
 ---
 O comediante/diretor/roteirista/ator Louis C. K. já protagonizou diferentes shows de stand up comedy e é um veterano no assunto. Talvez veterano seja dizer pouco: o cara é simplesmente fodástico na arte do humor. É uma das referências do gênero, e após a morte do mestre (que deus não o tenha) George Carlin, talvez Louis seja o melhor comediante norte-americano da atualidade.
 

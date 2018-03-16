@@ -1,25 +1,10 @@
 ---
-date: "2012-11-25"
 imdb: "0780653"
+date: "2012-11-25"
+categories: "movies"
 title: "O Lobisomem"
 stars: "3/5"
-categories: "movies"
-_title: "The Wolfman"
-_year: "2010"
-_director: ["Joe Johnston", ]
-_writer: ["Andrew Kevin Walker", "David Self", "Curt Siodmak", ]
-_cast: ["Simon Merrells", "Gemma Whelan", "Emily Blunt", "Benicio Del Toro", "Mario Marin-Borquez", "Asa Butterfield", "Cristina Contes", "Anthony Hopkins", "Art Malik", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Walter Murch", "Dennis Virkler", "Mark Goldblatt", ]
-_cinematographer: ["Shelly Johnson", ]
-_music: ["Danny Elfman", ]
-_genres: ["Drama", ]
-_runtimes: ["103", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BOTUyODEyMDIyM15BMl5BanBnXkFtZTcwNTYxMzg5Mg@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BOTUyODEyMDIyM15BMl5BanBnXkFtZTcwNTYxMzg5Mg@@._V1._SX95_SY140_.jpg"
+desc: "O Lobisomem. The Wolfman (USA, 2010). Dirigido por Joe Johnston. Escrito por Andrew Kevin Walker, David Self, Curt Siodmak. Com Simon Merrells, Gemma Whelan, Emily Blunt, Benicio Del Toro, Mario Marin-Borquez, Asa Butterfield, Cristina Contes, Anthony Hopkins, Art Malik."
 ---
 Desde o início é possível perceber que a fotografia e a direção de arte usadas para narrar a lenda do homem que se transforma em "lobo", ou fera, é de uma beleza ímpar, estetizada ao máximo e que cobre os cenários de maneira quase onírica, já lembrando do caráter lendário do monstro em questão. No entanto, toda essa beleza acaba sendo desperdiçada em uma história pedestre, que transforma os personagens em meras caricaturas, e suas relações absurdas fazem cair abaixo o teor realista da trama.
 

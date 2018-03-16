@@ -1,22 +1,10 @@
 ---
-date: "2013-03-11"
-title: "Atrás da Porta"
 imdb: "1194577"
-stars: "3/5"
+date: "2013-03-11"
 categories: "movies"
-_title: "The Door"
-_year: "2012"
-_director: ["István Szabó", ]
-_writer: ["Magda Szabó", "István Szabó", "Andrea Vészits", ]
-_cast: ["Helen Mirren", "Martina Gedeck", "Károly Eperjes", "Gábor Koncz", "Enikö Börcsök", "Ági Szirtes", "Erika Marozsán", "Ildikó Tóth", "Mari Nagy", ]
-_countries: ["Hungary", ]
-_languages: ["English", ]
-_editor: ["Réka Lemhényi", ]
-_cinematographer: ["Elemér Ragályi", ]
-_genres: ["Drama", ]
-_runtimes: ["97", ]
-_ratio: "1.85 : 1"
-_kind: "movie"
+title: "Atrás da Porta"
+stars: "3/5"
+desc: "Atrás da Porta. The Door (Hungary, 2012). Dirigido por István Szabó. Escrito por Magda Szabó, István Szabó, Andrea Vészits. Com Helen Mirren, Martina Gedeck, Károly Eperjes, Gábor Koncz, Enikö Börcsök, Ági Szirtes, Erika Marozsán, Ildikó Tóth, Mari Nagy."
 ---
 Dirigido e escrito por István Szabó a partir de um romance de Magda Szabó (nenhuma relação) da década de 80, Atrás da Porta é parte ficção, parte biográfico. Como filme, se transformou em uma experiência simpática com um elenco harmonioso (e a sempre versátil Helen Mirren), mas que parece não encontrar amparo em seu roteiro e direção. Há qualidades na produção, e o diretor muitas vezes parece ensaiar qualquer coisa fora do convencional (como a tempestade e as passagens em flashback fantasiosas). No entanto, todo momento que achamos encontrar o fio da meada ele nos escapa, deixando-nos em companhia de uma história pra lá de clichê, que infelizmente precisa lidar com o lugar-comum e parece não fazer esforços para se desvencilhar do previsível.
 

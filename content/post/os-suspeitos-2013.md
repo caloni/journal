@@ -1,25 +1,10 @@
 ---
-date: "2013-10-25"
 imdb: "1392214"
+date: "2013-10-25"
+categories: "movies"
 title: "Os Suspeitos"
 stars: "5/5"
-categories: "movies"
-_title: "Prisoners"
-_year: "2013"
-_director: ["Denis Villeneuve", ]
-_writer: ["Aaron Guzikowski", ]
-_cast: ["Hugh Jackman", "Jake Gyllenhaal", "Viola Davis", "Maria Bello", "Terrence Howard", "Melissa Leo", "Paul Dano", "Dylan Minnette", "Zoë Soul", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Joel Cox", "Gary Roach", ]
-_cinematographer: ["Roger Deakins", ]
-_music: ["Jóhann Jóhannsson", ]
-_genres: ["Crime", ]
-_runtimes: ["153", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTg0NTIzMjQ1NV5BMl5BanBnXkFtZTcwNDc3MzM5OQ@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTg0NTIzMjQ1NV5BMl5BanBnXkFtZTcwNDc3MzM5OQ@@._V1._SX95_SY140_.jpg"
+desc: "Os Suspeitos. Prisoners (USA, 2013). Dirigido por Denis Villeneuve. Escrito por Aaron Guzikowski. Com Hugh Jackman, Jake Gyllenhaal, Viola Davis, Maria Bello, Terrence Howard, Melissa Leo, Paul Dano, Dylan Minnette, Zoë Soul."
 ---
 O cansaço, desânimo e um envolvimento ilimitado na busca de duas meninas desaparecidas é o que forma a base de Os Suspeitos, mantida todo o tempo por três pilares fundamentais: o detetive e o pai incansáveis formam dois deles; a direção impecável de Denis Villeneuve (do excelente Incêndios) no desenvolvimento da trama forma o terceiro.
 

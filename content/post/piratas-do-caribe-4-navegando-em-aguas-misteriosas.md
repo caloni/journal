@@ -1,25 +1,10 @@
 ---
-date: "2011-06-01"
 imdb: "1298650"
+date: "2011-06-01"
+categories: "movies"
 title: "Piratas do Caribe Navegando em Águas Misteriosas"
 stars: "2/5"
-categories: "movies"
-_title: "Pirates of the Caribbean: On Stranger Tides"
-_year: "2011"
-_director: ["Rob Marshall", ]
-_writer: ["Ted Elliott", "Terry Rossio", "Ted Elliott", "Terry Rossio", "Ted Elliott", "Terry Rossio", "Stuart Beattie", "Jay Wolpert", "Tim Powers", ]
-_cast: ["Johnny Depp", "Penélope Cruz", "Geoffrey Rush", "Ian McShane", "Kevin McNally", "Sam Claflin", "Astrid Bergès-Frisbey", "Stephen Graham", "Keith Richards", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["David Brenner", "Wyatt Smith", ]
-_cinematographer: ["Dariusz Wolski", ]
-_music: ["Hans Zimmer", ]
-_genres: ["Action", ]
-_runtimes: ["USA:136", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjE5MjkwODI3Nl5BMl5BanBnXkFtZTcwNjcwMDk4NA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjE5MjkwODI3Nl5BMl5BanBnXkFtZTcwNjcwMDk4NA@@._V1._SX95_SY140_.jpg"
+desc: "Piratas do Caribe Navegando em Águas Misteriosas. Pirates of the Caribbean: On Stranger Tides (USA, 2011). Dirigido por Rob Marshall. Escrito por Ted Elliott, Terry Rossio, Ted Elliott, Terry Rossio, Ted Elliott, Terry Rossio, Stuart Beattie, Jay Wolpert, Tim Powers. Com Johnny Depp, Penélope Cruz, Geoffrey Rush, Ian McShane, Kevin McNally, Sam Claflin, Astrid Bergès-Frisbey, Stephen Graham, Keith Richards."
 ---
 A direção de Bob Marshall resgata o antigo objetivo da Disney em transformar a atração do seu parque de diversões em um longa-metragem que tenha as mesmas características do seu brinquedo: um passeio que diverte em pontos estratégicos, localizados em cenários dedicados e com piratas que se parecem com os de verdade, porém, é claro, inofensivos. Talvez não uma mera coincidência, os trabalhos do diretor também navegam em águas mornas: acostumado com eventos episódicos típicos do gênero musical (Nine e Chicago estão em sua lista), Marshall repete o feito de nos levar por um simples passeio turístico por sets de filmagem que mal conseguem se unir para contar uma história coesa, tudo sob o rótulo de aventura.
 

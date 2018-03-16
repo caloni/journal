@@ -1,24 +1,10 @@
 ---
-date: "2014-12-20"
 imdb: "1065073"
+date: "2014-12-20"
+categories: "movies"
 title: "Boyhood: Da Infância à Juventude"
 stars: "5/5"
-categories: "movies"
-_title: "Boyhood"
-_year: "2014"
-_director: ["Richard Linklater", ]
-_writer: ["Richard Linklater", ]
-_cast: ["Ellar Coltrane", "Patricia Arquette", "Elijah Smith", "Lorelei Linklater", "Steven Chester Prince", "Bonnie Cross", "Sydney Orta", "Libby Villari", "Ethan Hawke", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Sandra Adair", ]
-_cinematographer: ["Lee Daniel", "Shane F. Kelly", ]
-_genres: ["Drama", ]
-_runtimes: ["165", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTYzNDc2MDc0N15BMl5BanBnXkFtZTgwOTcwMDQ5MTE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTYzNDc2MDc0N15BMl5BanBnXkFtZTgwOTcwMDQ5MTE@._V1._SX95_SY140_.jpg"
+desc: "Boyhood: Da Infância à Juventude. Boyhood (USA, 2014). Dirigido por Richard Linklater. Escrito por Richard Linklater. Com Ellar Coltrane, Patricia Arquette, Elijah Smith, Lorelei Linklater, Steven Chester Prince, Bonnie Cross, Sydney Orta, Libby Villari, Ethan Hawke."
 ---
 Boyhood: Da Infância à Juventude -- que possui esse subtítulo nacional horrível para as pessoas ficarem atentas quando o filme termina -- é o trabalho de doze anos de filmagens (na verdade, 45 dias espaçados em períodos de cerca de um ano) para que os atores principais -- eu seu início crianças de sete e oito anos -- pudessem crescer naturalmente e com isso interpretassem todas as fases de crescimento da infância à adolescência. Seu diretor, Richard Linklater, já era conhecido por seu estilo realista em sua até o momento trilogia Antes do Amanhecer, "Antes do Por-do-Sol" e Antes da Meia-Noite, filmados de dez em dez anos com Julie Delpy e Ethan Hawke (este último também participa de Boyhood) para analisar o amadurecimento dos seus personagens. O que ele nunca fez, e, sinceramente, não me lembro de ter visto sido feito com tanto afinco, foi filmar uma ficção que tirasse proveito do processo de envelhecimento da vida real.
 

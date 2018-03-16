@@ -1,26 +1,11 @@
 ---
+tags: ['netflix']
+imdb: "4844288"
 date: "2016-09-04"
 categories: "movies"
 title: "O Traidor"
-imdb: "4844288"
 stars: "2/5"
-tags: ['netflix']
-_title: "Gansin"
-_year: "2015"
-_director: ["Kyu-dong Min", ]
-_writer: ["Yoon-Seong Lee", "Kyu-dong Min", ]
-_cast: ["Ji-hun Ju", "Kang-woo Kim", "Ho-jin Chun", "Ji-Yeon Lim", "Young-chang Song", "Han-Cheol Jo", "Cha Ji-Yeon", ]
-_countries: ["South Korea", ]
-_languages: ["Korean", ]
-_editor: ["Sun-min Kim", ]
-_cinematographer: ["Hong-yeol Park", ]
-_music: ["Jun-seong Kim", ]
-_genres: ["History", ]
-_runtimes: ["133", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BY2IzMDJhNWItZDNlNS00NzVlLTkxODEtOTNlODBhZDIzNDAyXkEyXkFqcGdeQXVyNjUyNzUyMDI@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BY2IzMDJhNWItZDNlNS00NzVlLTkxODEtOTNlODBhZDIzNDAyXkEyXkFqcGdeQXVyNjUyNzUyMDI@._V1._SX98_SY140_.jpg"
+desc: "O Traidor. Gansin (South Korea, 2015). Dirigido por Kyu-dong Min. Escrito por Yoon-Seong Lee, Kyu-dong Min. Com Ji-hun Ju, Kang-woo Kim, Ho-jin Chun, Ji-Yeon Lim, Young-chang Song, Han-Cheol Jo, Cha Ji-Yeon."
 ---
 Uma narradora que é uma velha e que faz graça com a desgraça de uma nação. Belas mulheres asiáticas que são estupradas por um imperador maluco, auxiliado por dois caçadores de beleza, pai e filho, que não confiam um no outro. Uma putaria e violência que começam desenfreadas, mas aos poucos caem no clichê moralista não sei bem por quê. Uma história mais ou menos histórica (Yeonsangun of Joseon, o décimo-rei da Coreia) que falha em uma narrativa sem entender a que veio.
 

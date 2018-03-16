@@ -1,25 +1,10 @@
 ---
-date: "2013-01-15"
 imdb: "0047396"
+date: "2013-01-15"
+categories: "movies"
 title: "Janela Indiscreta"
 stars: "4/5"
-categories: "movies"
-_title: "Rear Window"
-_year: "1954"
-_director: ["Alfred Hitchcock", ]
-_writer: ["John Michael Hayes", "Cornell Woolrich", ]
-_cast: ["James Stewart", "Grace Kelly", "Wendell Corey", "Thelma Ritter", "Raymond Burr", "Judith Evelyn", "Ross Bagdasarian", "Georgine Darcy", "Sara Berner", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["George Tomasini", ]
-_cinematographer: ["Robert Burks", ]
-_music: ["Franz Waxman", ]
-_genres: ["Mystery", ]
-_runtimes: ["112", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTg5MjM4NzEwOF5BMl5BanBnXkFtZTgwMDE1NjM0MTE@.jpg"
-_ratio: "1.66 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTg5MjM4NzEwOF5BMl5BanBnXkFtZTgwMDE1NjM0MTE@._V1._SX96_SY140_.jpg"
+desc: "Janela Indiscreta. Rear Window (USA, 1954). Dirigido por Alfred Hitchcock. Escrito por John Michael Hayes, Cornell Woolrich. Com James Stewart, Grace Kelly, Wendell Corey, Thelma Ritter, Raymond Burr, Judith Evelyn, Ross Bagdasarian, Georgine Darcy, Sara Berner."
 ---
 Um dos trabalhos mais lembrados da carreira do mestre de suspense Alfred Hitchcock, o ponto mais marcante da história de L.B. 'Jeff' Jefferies (James Stewart)  um fotógrafo que precisa manter-se em seu apartamento por conta de sua perna engessada  é o seu único ponto de vista de todos os acontecimentos. Acostumando-se a observar a vida dos outros prédios em volta, é ele que testemunha um suposto crime. Note que a incerteza dos acontecimentos aliado às histórias paralelas dos seus vizinhos contribui para nossa desorientação, que chega ao seu ápice quando o próprio protagonista passa também a correr perigo.
 

@@ -1,26 +1,11 @@
 ---
-imdb: "6304046"
-stars: "4/5"
 tags: ['cabine']
+imdb: "6304046"
 date: 2017-11-16T01:06:11
-title: "Thelma"
 categories: "movies"
-_title: "Thelma"
-_year: "2017"
-_director: ["Joachim Trier", ]
-_writer: ["Joachim Trier", "Eskil Vogt", ]
-_cast: ["Eili Harboe (Thelma)", "Kaya Wilkins (Anja)", "Henrik Rafaelsen (Trond)", "Ellen Dorrit Petersen (Unni)", "Ludvig Algeback (Little brother)", "Isabel Christine Andreasen (Student)", "Camilla Belsvik (Nurse)", "Lars Berge (Lifeguard)", "Vanessa Borgli (Anja's mother Vilde)", ]
-_countries: ["Norway", ]
-_languages: ["Norwegian", ]
-_editor: ["Olivier Bugge Coutté", ]
-_cinematographer: ["Jakob Ihre", ]
-_music: ["Ola Fløttum", ]
-_genres: ["Drama", ]
-_runtimes: ["116", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjk0NjI2MjM1NF5BMl5BanBnXkFtZTgwODc2NjU0MzI@.jpg"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjk0NjI2MjM1NF5BMl5BanBnXkFtZTgwODc2NjU0MzI@._V1._SX94_SY140_.jpg"
-_releasedate: "11 October 2017 (Rio de Janeiro International Film Festival)"
+title: "Thelma"
+stars: "4/5"
+desc: "Thelma. Thelma (Norway, 2017). Dirigido por Joachim Trier. Escrito por Joachim Trier, Eskil Vogt. Com Eili Harboe (Thelma), Kaya Wilkins (Anja), Henrik Rafaelsen (Trond), Ellen Dorrit Petersen (Unni), Ludvig Algeback (Little brother), Isabel Christine Andreasen (Student), Camilla Belsvik (Nurse), Lars Berge (Lifeguard), Vanessa Borgli (Anja's mother Vilde)."
 ---
 Thelma é a continuação visualmente temática do último filme de Joachim Trier, o [Mais Forte Que Bombas](/mais-forte-que-bombas). E quando digo visualmente me refiro à paleta fria, aos enquadramento deslumbrantes e aos ângulos inusitados. Tudo para construir-se um thriller que leva contornos de Carrie, a Estranha, porém sem a parte humana de Brian de Palma. Apesar deste thriller flertar com drama intimista, ele é muito insípido e não nos dá o gosto de se aproximar melhor de sua personagem-título.
 

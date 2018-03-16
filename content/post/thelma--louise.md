@@ -1,27 +1,10 @@
 ---
-date: "2015-12-28"
 imdb: "0103074"
-stars: "5/5"
+date: "2015-12-28"
 categories: "movies"
 title: "Thelma & Louise"
-_title: "Thelma & Louise"
-_year: "1991"
-_director: ["Ridley Scott", ]
-_writer: ["Callie Khouri", ]
-_cast: ["Susan Sarandon", "Geena Davis", "Harvey Keitel", "Michael Madsen", "Christopher McDonald", "Stephen Tobolowsky", "Brad Pitt", "Timothy Carhart", "Lucinda Jenney", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Thom Noble", ]
-_cinematographer: ["Adrian Biddle", ]
-_music: ["Hans Zimmer", ]
-_artdirection: ["Lisa Dean", ]
-_costume designer: ["Elizabeth McBride", ]
-_genres: ["Adventure", ]
-_runtimes: ["130", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjIxNDgzMDE2MF5BMl5BanBnXkFtZTcwNzY5NTk1NA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjIxNDgzMDE2MF5BMl5BanBnXkFtZTcwNzY5NTk1NA@@._V1._SX94_SY140_.jpg"
+stars: "5/5"
+desc: "Thelma & Louise. Thelma & Louise (USA, 1991). Dirigido por Ridley Scott. Escrito por Callie Khouri. Com Susan Sarandon, Geena Davis, Harvey Keitel, Michael Madsen, Christopher McDonald, Stephen Tobolowsky, Brad Pitt, Timothy Carhart, Lucinda Jenney."
 ---
 "Quantas vezes mais essas mulheres vão ser maltratadas?", pergunta um personagem perto do final do filme. Se formos considerar tudo que aconteceu com essas mulheres e por que elas seguiram por esse caminho, veremos que além da pergunta ser retórica, ela se dirige muito mais para o espectador do que para as pessoas do filme.
 

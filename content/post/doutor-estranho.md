@@ -1,28 +1,11 @@
 ---
+tags: ['cinema', '3d', 'oscar']
+imdb: "1211837"
 date: "2016-11-17"
 categories: "movies"
 title: "Doutor Estranho"
-imdb: "1211837"
 stars: "3/5"
-tags: ['cinema', '3d', 'oscar']
-_title: "Doctor Strange"
-_year: "2016"
-_director: ["Scott Derrickson", ]
-_writer: ["Jon Spaihts", "Scott Derrickson", "C. Robert Cargill", "Steve Ditko", ]
-_cast: ["Benedict Cumberbatch (Dr. Stephen Strange)", "Chiwetel Ejiofor (Mordo)", "Rachel McAdams (Christine Palmer)", "Benedict Wong (Wong)", "Mads Mikkelsen (Kaecilius)", "Tilda Swinton (The Ancient One)", "Michael Stuhlbarg (Dr. Nicodemus West)", "Benjamin Bratt (Jonathan Pangborn)", "Scott Adkins (Lucian / Strong Zealot)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Sabrina Plisco", "Wyatt Smith", ]
-_cinematographer: ["Ben Davis", ]
-_music: ["Michael Giacchino", ]
-_artdirection: ["Jim Barr", "Thomas Brown", "Ray Chan", "Jason T. Clark", "Jordan Crockett", "Michael Manson Supervising Art Director: additional photography,Los Angeles", "Mike Stallion", "Mark Swain", ]
-_costume designer: ["Alexandra Byrne", ]
-_genres: ["Action", ]
-_runtimes: ["115", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjM2ODA4MTM0M15BMl5BanBnXkFtZTgwNzE5OTYxMDI@.jpg"
-_ratio: "1.90 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjM2ODA4MTM0M15BMl5BanBnXkFtZTgwNzE5OTYxMDI@._V1._SX96_SY140_.jpg"
+desc: "Doutor Estranho. Doctor Strange (USA, 2016). Dirigido por Scott Derrickson. Escrito por Jon Spaihts, Scott Derrickson, C. Robert Cargill, Steve Ditko. Com Benedict Cumberbatch (Dr. Stephen Strange), Chiwetel Ejiofor (Mordo), Rachel McAdams (Christine Palmer), Benedict Wong (Wong), Mads Mikkelsen (Kaecilius), Tilda Swinton (The Ancient One), Michael Stuhlbarg (Dr. Nicodemus West), Benjamin Bratt (Jonathan Pangborn), Scott Adkins (Lucian / Strong Zealot)."
 ---
 Algo vem me incomodando nos filmes da Marvel. Algo que normalmente passa batido em outros filmes menores: não há personagem nenhum nas histórias, exceto seu herói protagonista. Às vezes um vilão. Aqui há apenas um inicial anti-herói, cercado de pessoas que estão aí para falar o resto dos diálogos. São coadjuvantes. Normalmente possuem funções mais elaboradas do que descrever o universo onde se passa a história ou como o personagem é desagradável com as pessoas. Mas aqui fazem apenas isso. Mais um trampolim para mais um herói em uma grande cidade sitiada de supers. Dessa vez com magia.
 

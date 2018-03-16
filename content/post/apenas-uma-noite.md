@@ -1,25 +1,10 @@
 ---
-date: "2012-06-18"
 imdb: "1294688"
+date: "2012-06-18"
+categories: "movies"
 title: "Apenas uma Noite"
 stars: "4/5"
-categories: "movies"
-_title: "Last Night"
-_year: "2010"
-_director: ["Massy Tadjedin", ]
-_writer: ["Massy Tadjedin", ]
-_cast: ["Keira Knightley", "Sam Worthington", "Guillaume Canet", "Eva Mendes", "Daniel Eric Gold", "Scott Adsit", "Griffin Dunne", "Stephanie Romanov", "Anson Mount", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Susan E. Morse", ]
-_cinematographer: ["Peter Deming", ]
-_music: ["Clint Mansell", ]
-_genres: ["Drama", ]
-_runtimes: ["93", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNTk1Nzc5OTkwN15BMl5BanBnXkFtZTcwNjEyMTA4NA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNTk1Nzc5OTkwN15BMl5BanBnXkFtZTcwNjEyMTA4NA@@._V1._SX94_SY140_.jpg"
+desc: "Apenas uma Noite. Last Night (USA, 2010). Dirigido por Massy Tadjedin. Escrito por Massy Tadjedin. Com Keira Knightley, Sam Worthington, Guillaume Canet, Eva Mendes, Daniel Eric Gold, Scott Adsit, Griffin Dunne, Stephanie Romanov, Anson Mount."
 ---
 Primeiro filme ao mesmo tempo dirigido e escrito por Massy Tadjedin (roteirista de Camisa de Força) dois anos atrás, o casamento entre Joanna e Michael poderia ser o de qualquer pessoa (talvez por isso nunca sabemos seus sobrenomes). Quem nunca aspirou mudar suas escolhas baseado tão somente em seus sentimentos passados? Quando Michael (Sam Worthington) faz uma viagem a negócios, logo após uma pequena briga de casal, ele e Joanna (Keira Knightley) experimentam a velha sensação de desejo de mudança junto de um velho amigo/companheiro e uma colega de trabalho.
 

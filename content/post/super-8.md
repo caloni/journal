@@ -1,25 +1,10 @@
 ---
-date: "2011-08-15"
 imdb: "1650062"
+date: "2011-08-15"
+categories: "movies"
 title: "Super 8"
 stars: "3/5"
-categories: "movies"
-_title: "Super 8"
-_year: "2011"
-_director: ["J.J. Abrams", ]
-_writer: ["J.J. Abrams", ]
-_cast: ["Joel Courtney", "Jessica Tuck", "Joel McKinnon Miller", "Ryan Lee", "Zach Mills", "Riley Griffiths", "Gabriel Basso", "Kyle Chandler", "Ron Eldard", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Maryann Brandon", "Mary Jo Markey", ]
-_cinematographer: ["Larry Fong", ]
-_music: ["Michael Giacchino", ]
-_genres: ["Mystery", ]
-_runtimes: ["112", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTM5NzkxMzQ5MF5BMl5BanBnXkFtZTcwNDYwMTA3NA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTM5NzkxMzQ5MF5BMl5BanBnXkFtZTcwNDYwMTA3NA@@._V1._SX95_SY140_.jpg"
+desc: "Super 8. Super 8 (USA, 2011). Dirigido por J.J. Abrams. Escrito por J.J. Abrams. Com Joel Courtney, Jessica Tuck, Joel McKinnon Miller, Ryan Lee, Zach Mills, Riley Griffiths, Gabriel Basso, Kyle Chandler, Ron Eldard."
 ---
 É tarefa injusta falar de Super 8 de J.J. Abrams (Lost, Missão: Impossível III , Star Trek) sem ter que enumerar todas as semelhanças/referência/homenagens que este faz para a obra de Spielberg (que aqui - coincidência? - é um dos produtores). Desde o ponto de vista das crianças até a escolha de um vilarejo com características semelhantes à cidade de E.T., somos levados por um grupo de jovens que está produzindo um filme de zumbis e acaba presenciando um acontecimento catastrófico que atinge proporções maiores que eles imaginavam a princípio, e que vai aos poucos tomando conta de toda a cidade.
 

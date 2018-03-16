@@ -1,26 +1,10 @@
 ---
-date: "2015-09-29"
 imdb: "0367027"
-stars: "3/5"
+date: "2015-09-29"
 categories: "movies"
 title: "Shortbus"
-_title: "Shortbus"
-_year: "2006"
-_director: ["John Cameron Mitchell", ]
-_writer: ["John Cameron Mitchell", ]
-_cast: ["Sook-Yin Lee", "Paul Dawson", "Lindsay Beamish", "PJ DeBoy", "Raphael Barker", "Peter Stickles", "Jay Brannan", "Alan Mandell", "Adam Hardman", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Brian A. Kates", ]
-_cinematographer: ["Frank G. DeMarco", ]
-_music: ["Yo La Tengo", ]
-_costume designer: ["Kurt and Bart", ]
-_genres: ["Comedy", ]
-_runtimes: ["101", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjE2NjQ5MDE2MF5BMl5BanBnXkFtZTcwOTc4ODA0MQ@@.jpg"
-_ratio: "1.78 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjE2NjQ5MDE2MF5BMl5BanBnXkFtZTcwOTc4ODA0MQ@@._V1._SX100_SY123_.jpg"
+stars: "3/5"
+desc: "Shortbus. Shortbus (USA, 2006). Dirigido por John Cameron Mitchell. Escrito por John Cameron Mitchell. Com Sook-Yin Lee, Paul Dawson, Lindsay Beamish, PJ DeBoy, Raphael Barker, Peter Stickles, Jay Brannan, Alan Mandell, Adam Hardman."
 ---
 Um indie por natureza, apresentado em uma Nova Iorque de maquete com textura surreal, colorido todo o tempo com uma extensa e agradável trilha sonora, protagonizado por atores em sua maioria completos desconhecidos e, para salpicar ainda mais, recheado de cenas de sexo reais, por casais, trios e grupos inteiros.
 

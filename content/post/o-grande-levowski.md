@@ -1,25 +1,10 @@
 ---
-date: "2014-02-07"
 imdb: "0118715"
+date: "2014-02-07"
+categories: "movies"
 title: "O Grande Lebowski"
 stars: "5/5"
-categories: "movies"
-_title: "The Big Lebowski"
-_year: "1998"
-_director: ["Joel Coen", "Ethan Coen", ]
-_writer: ["Ethan Coen", "Joel Coen", ]
-_cast: ["Jeff Bridges", "John Goodman", "Julianne Moore", "Steve Buscemi", "David Huddleston", "Philip Seymour Hoffman", "Tara Reid", "Philip Moon", "Mark Pellegrino", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Ethan Coen", "Joel Coen", "Tricia Cooke", ]
-_cinematographer: ["Roger Deakins", ]
-_music: ["Carter Burwell", ]
-_genres: ["Comedy", ]
-_runtimes: ["117", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQ0NjUzMDMyOF5BMl5BanBnXkFtZTgwODA1OTU0MDE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQ0NjUzMDMyOF5BMl5BanBnXkFtZTgwODA1OTU0MDE@._V1._SX94_SY140_.jpg"
+desc: "O Grande Lebowski. The Big Lebowski (USA, 1998). Dirigido por Joel Coen, Ethan Coen. Escrito por Ethan Coen, Joel Coen. Com Jeff Bridges, John Goodman, Julianne Moore, Steve Buscemi, David Huddleston, Philip Seymour Hoffman, Tara Reid, Philip Moon, Mark Pellegrino."
 ---
 Um filme é basicamente contar uma história. A forma como você conta é que pode fazer toda a diferença entre um pedaço inútil de película (ou bits) ou um grande filme que, faça rir, faça chorar, mas, principalmente, faça pensar.
 

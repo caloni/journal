@@ -1,26 +1,11 @@
 ---
-date: "2012-05-14"
 imdb: "0075314"
-revision: [2012-06-04]
+date: "2012-05-14"
+categories: "movies"
 title: "Taxi Driver"
 stars: "5/5"
-categories: "movies"
-_title: "Taxi Driver"
-_year: "1976"
-_director: ["Martin Scorsese", ]
-_writer: ["Paul Schrader", ]
-_cast: ["Diahnne Abbott", "Frank Adu", "Victor Argo", "Gino Ardito", "Garth Avery", "Peter Boyle", "Albert Brooks", "Harry Cohn", "Copper Cunningham", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Tom Rolf", "Melvin Shapiro", ]
-_cinematographer: ["Michael Chapman", ]
-_music: ["Bernard Herrmann", ]
-_genres: ["Crime", ]
-_runtimes: ["113", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQ1Nzg3MDQwN15BMl5BanBnXkFtZTcwNDE2NDU2MQ@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQ1Nzg3MDQwN15BMl5BanBnXkFtZTcwNDE2NDU2MQ@@._V1._SX100_SY136_.jpg"
+revision: [datetime.date(2012, 6, 4)]
+desc: "Taxi Driver. Taxi Driver (USA, 1976). Dirigido por Martin Scorsese. Escrito por Paul Schrader. Com Diahnne Abbott, Frank Adu, Victor Argo, Gino Ardito, Garth Avery, Peter Boyle, Albert Brooks, Harry Cohn, Copper Cunningham."
 ---
 A primeira coisa que senti ao iniciar a sessão do filme noir do Scorcese foi pensar que talvez eu não estivesse pronto para o que veria a seguir. De certa forma, "Táxi Driver" é um filme com tantas camadas e significados que fica difícil classificá-lo apenas como um excelente filme. A princípio, ele nem parece tão bom assim. Se perde em uma história sem cabimento, ou que tenha algum tipo de lógica em sua trama. Porém, ao olhar mais de perto, o que vemos é o resultado de uma catarse artística que pode-se notar em diversos indícios da produção: um roteiro (Paul Schrader, que assina também "Touro Indomável") que foca mais em seu personagem e não em suas falas; uma direção que assegura que o ponto de vista do motorista de táxi seja o único ponto de vista do filme inteiro; interpretações que enriquecem os personagens pelas expressões e movimentos, não se tornando afáveis para o público, mas antes soando autênticos (Robert de Niro e Jodie Foster); a fotografia de Michael Chapman que anda de mãos dadas com uma montagem segura feita por uma dupla que investe nas tomadas noturnas em planos-detalhe significativos apenas para o protagonista (como o espelho do motorista), enfocando sempre o que ele vê; por fim, uma trilha sonora ocasional mas impactante de Bernard Herrmann  colaborador frequente de Hitckcock  que, mesmo que repetitiva, mescla com competência seus dois temas principais.
 

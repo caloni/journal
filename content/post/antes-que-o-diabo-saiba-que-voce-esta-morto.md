@@ -1,25 +1,10 @@
 ---
-date: "2012-05-02"
 imdb: "0292963"
+date: "2012-05-02"
+categories: "movies"
 title: "Antes que o Diabo Saiba que Você Está Morto"
 stars: "5/5"
-categories: "movies"
-_title: "Before the Devil Knows You're Dead"
-_year: "2007"
-_director: ["Sidney Lumet", ]
-_writer: ["Kelly Masterson", ]
-_cast: ["Philip Seymour Hoffman", "Ethan Hawke", "Albert Finney", "Marisa Tomei", "Aleksa Palladino", "Michael Shannon", "Amy Ryan", "Sarah Livingston", "Brían F. O'Byrne", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Tom Swartwout", ]
-_cinematographer: ["Ron Fortunato", ]
-_music: ["Carter Burwell", ]
-_genres: ["Crime", ]
-_runtimes: ["117", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQ1NzM2ODQxNF5BMl5BanBnXkFtZTcwMDczMDU1MQ@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQ1NzM2ODQxNF5BMl5BanBnXkFtZTcwMDczMDU1MQ@@._V1._SX94_SY140_.jpg"
+desc: "Antes que o Diabo Saiba que Você Está Morto. Before the Devil Knows You're Dead (USA, 2007). Dirigido por Sidney Lumet. Escrito por Kelly Masterson. Com Philip Seymour Hoffman, Ethan Hawke, Albert Finney, Marisa Tomei, Aleksa Palladino, Michael Shannon, Amy Ryan, Sarah Livingston, Brían F. O'Byrne."
 ---
 Não é fácil perceber a genialidade de um dos diretores mais esquecidos pela academia (nunca ganhou um Oscar) e pelo público em geral. Regente de projetos aparentemte simplórios, mas que envolvem o espectador de uma maneira sem volta (Um Dia de Cão), quem leu seu livro Making Movies (Fazendo Filmes) percebe que sua maneira de trabalhar é ordenada e disciplinada, o que mais ou menos garante que os objetivos do filme estejam tanto no início do projeto quanto no final, na sessão de estreia.
 

@@ -1,25 +1,11 @@
 ---
+tags: ['cabine']
+imdb: "4072352"
 date: "2016-09-17"
 categories: "movies"
 title: "A Passageira"
-imdb: "4072352"
 stars: "4/5"
-tags: ['cabine']
-_title: "Magallanes"
-_year: "2015"
-_director: ["Salvador del Solar", ]
-_writer: ["Salvador del Solar", ]
-_cast: ["Damián Alcázar", "Tatiana Astengo", "Jairo Camargo", "Tatiana Espinoza", "Nicolás Galindo", "Federico Luppi", "Camila MacLennan", "Christian Meier", "Bruno Odar", ]
-_countries: ["Peru", ]
-_languages: ["Spanish", ]
-_editor: ["Eric Williams", ]
-_cinematographer: ["Diego Jiménez", ]
-_music: ["Federico Jusid", ]
-_genres: ["Drama", ]
-_runtimes: ["109", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjI1NDU4OTM2Ml5BMl5BanBnXkFtZTgwMjgxMTc2OTE@.jpg"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjI1NDU4OTM2Ml5BMl5BanBnXkFtZTgwMjgxMTc2OTE@._V1._SX99_SY140_.jpg"
+desc: "A Passageira. Magallanes (Peru, 2015). Dirigido por Salvador del Solar. Escrito por Salvador del Solar. Com Damián Alcázar, Tatiana Astengo, Jairo Camargo, Tatiana Espinoza, Nicolás Galindo, Federico Luppi, Camila MacLennan, Christian Meier, Bruno Odar."
 ---
 Este é um filme com premissas todas erradas, um quê de relativização do estupro com requintes de exploração da miséria alheia, e um guia para sociedades dispostas a afundar em um esgoto moral. Infelizmente, essas sociedades nunca sairiam do lugar, já que o universo de A Passageira é um lodo cercado de pena e culpa de todos os lados. Não importa qual decisão você tome neste universo: ele estará indubitavelmente errado. Pelo menos para este filme.
 

@@ -1,23 +1,11 @@
 ---
+tags: ['netflix', 'blackmirror', 'series']
+imdb: "5709230"
 date: "2016-10-28"
 categories: "blog"
 title: "Black Mirror - Terceira Temporada, Episódio 3: Manda Quem Pode"
-imdb: "5709230"
 stars: "4/5"
-tags: ['netflix', 'blackmirror', 'series']
-_title: "Shut Up and Dance"
-_year: "2016"
-_director: ["James Watkins", ]
-_writer: ["William Bridges", "Charlie Brooker", ]
-_cast: ["Alex Lawther (Kenny)", "Jerome Flynn (Hector)", "Susannah Doyle (Blackmailed Woman)", "Frankie Wilson (Tom)", "Jimmy Roye-Dunne (Red)", "Hannah Steele (Melissa)", "Sarah Beck Mather (Restaurant Mother)", "Beatrice Robertson-Jones (Restaurant Daughter)", "Maya Gerber (Lindsay)", ]
-_editor: ["Jon Harris", ]
-_cinematographer: ["Tim Maurice-Jones", ]
-_music: ["Alex Heffes", ]
-_artdirection: ["Richard Field", ]
-_genres: ["Drama", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ3OTQ5OTIxNl5BMl5BanBnXkFtZTgwNzI2MzgzMDI@.jpg"
-_kind: "episode"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ3OTQ5OTIxNl5BMl5BanBnXkFtZTgwNzI2MzgzMDI@._V1._SX100_SY67_.jpg"
+desc: "Black Mirror - Terceira Temporada, Episódio 3: Manda Quem Pode. Dirigido por James Watkins. Escrito por William Bridges, Charlie Brooker. Com Alex Lawther (Kenny), Jerome Flynn (Hector), Susannah Doyle (Blackmailed Woman), Frankie Wilson (Tom), Jimmy Roye-Dunne (Red), Hannah Steele (Melissa), Sarah Beck Mather (Restaurant Mother), Beatrice Robertson-Jones (Restaurant Daughter), Maya Gerber (Lindsay)."
 ---
 Após um episódio medíocre, Black Mirror volta a fazer história com a tecnologia atual. Sem apelar (muito) para o futurismo, conta a história de como quem não vive através da verdade vira refém dos outros, além de jogar o público a favor dos roteiristas usando a moral da sociedade como pêndulo de justiça (isso nunca dá certo).
 

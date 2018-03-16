@@ -1,9 +1,10 @@
 ---
-date: 2018-01-31T21:40:19-02:00
-title: "Os Meyerowitz: Família Não se Escolhe"
-categories: "movies"
+date: 2018-01-31T23:40:19
 imdb: "5536736"
+categories: "movies"
 stars: "4/5"
+title: "Os Meyerowitz: Família Não se Escolhe"
+desc: "Os Meyerowitz: Família Não se Escolhe."
 ---
 Esta parece ser uma grande oportunidade para vermos grandes atores contracenando juntos. Ben Stiller, Dustin Hoffman, Emma Thompson. Além disso há Adam Sandler. E também é uma ótima oportunidade de vermos o diretor Noah Baumbach realizando um drama familiar que cheira a Woody Allen, já que todo mundo é artista e disfuncional. Mas me pergunto: será que estou sendo redundante aqui?
 

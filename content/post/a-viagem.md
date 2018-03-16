@@ -1,25 +1,10 @@
 ---
-date: "2013-02-18"
 imdb: "1371111"
+date: "2013-02-18"
+categories: "movies"
 title: "A Viagem"
 stars: "5/5"
-categories: "movies"
-_title: "Cloud Atlas"
-_year: "2012"
-_director: ["Tom Tykwer", "Andy Wachowski", "Lana Wachowski", ]
-_writer: ["David Mitchell", "Lana Wachowski", "Tom Tykwer", "Andy Wachowski", ]
-_cast: ["Tom Hanks", "Halle Berry", "Jim Broadbent", "Hugo Weaving", "Jim Sturgess", "Doona Bae", "Ben Whishaw", "Keith David", "James D'Arcy", ]
-_countries: ["Germany", ]
-_languages: ["English", ]
-_editor: ["Alexander Berner", "Claus Wehlisch", ]
-_cinematographer: ["Frank Griebe", "John Toll", ]
-_music: ["Reinhold Heil", "Johnny Klimek", "Tom Tykwer", ]
-_genres: ["Drama", ]
-_runtimes: ["172", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTczMTgxMjc4NF5BMl5BanBnXkFtZTcwNjM5MTA2OA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTczMTgxMjc4NF5BMl5BanBnXkFtZTcwNjM5MTA2OA@@._V1._SX94_SY140_.jpg"
+desc: "A Viagem. Cloud Atlas (Germany, 2012). Dirigido por Tom Tykwer, Andy Wachowski, Lana Wachowski. Escrito por David Mitchell, Lana Wachowski, Tom Tykwer, Andy Wachowski. Com Tom Hanks, Halle Berry, Jim Broadbent, Hugo Weaving, Jim Sturgess, Doona Bae, Ben Whishaw, Keith David, James D'Arcy."
 ---
 Há uma belíssima transição em A Viagem quando duas pessoas fogem de sua escravidão e procuram provar o seu valor enquanto ainda se acostumam com o recente status adquirido. A diferença poética dessa mudança de cena é que ela ocorre em espaço e tempo completamente díspars, mas compartilham dos mesmos sentimentos e ideais humanos: a luta pela liberdade.
 

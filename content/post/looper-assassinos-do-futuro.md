@@ -1,25 +1,10 @@
 ---
-date: "2012-10-09"
 imdb: "1276104"
+date: "2012-10-09"
+categories: "movies"
 title: "Looper Assassinos do Futuro"
 stars: "4/5"
-categories: "movies"
-_title: "Looper"
-_year: "2012"
-_director: ["Rian Johnson", ]
-_writer: ["Rian Johnson", ]
-_cast: ["Joseph Gordon-Levitt", "Bruce Willis", "Emily Blunt", "Paul Dano", "Noah Segan", "Piper Perabo", "Jeff Daniels", "Pierce Gagnon", "Qing Xu", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Bob Ducsay", ]
-_cinematographer: ["Steve Yedlin", ]
-_music: ["Nathan Johnson", ]
-_genres: ["Action", ]
-_runtimes: ["119", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTY3NTY0MjEwNV5BMl5BanBnXkFtZTcwNTE3NDA1OA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTY3NTY0MjEwNV5BMl5BanBnXkFtZTcwNTE3NDA1OA@@._V1._SX100_SY129_.jpg"
+desc: "Looper Assassinos do Futuro. Looper (USA, 2012). Dirigido por Rian Johnson. Escrito por Rian Johnson. Com Joseph Gordon-Levitt, Bruce Willis, Emily Blunt, Paul Dano, Noah Segan, Piper Perabo, Jeff Daniels, Pierce Gagnon, Qing Xu."
 ---
 Não é sempre que uma ideia fantasiosa pode render uma boa história, como infelizmente foi visto no irregular O Preço do Amanhã. Porém, apenas a tentativa de usar um conceito futurístico como viagem no tempo e tentar aplicá-lo em um filme de ação já merece créditos. No caso de Looper estamos falando de um roteiro original escrito e dirigido por Rian Johnson, que também assina a dupla função em Vigaristas e A Ponta de um Crime.
 

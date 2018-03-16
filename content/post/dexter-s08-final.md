@@ -1,25 +1,11 @@
 ---
-date: "2014-11-09"
+tags: ['dexter', 'series']
 imdb: "0773262"
+date: "2014-11-09"
+categories: "blog"
 title: "Dexter - O Final"
 stars: "2/5"
-categories: "blog"
-tags: ['dexter', 'series']
-_title: "Dexter"
-_year: "2006"
-_director: ["John Dahl", "Steve Shill", "Keith Gordon", "Marcos Siega", "Ernest R. Dickerson", "Romeo Tirone", "Michael Cuesta", "Tony Goldwyn", "S.J. Clarkson", ]
-_writer: ["Jeff Lindsay", "James Manos Jr.", "Scott Buck", "Tim Schlattmann", "Lauren Gussis", "Karen Campbell", "Jennifer Yale", "Melissa Rosenberg", "Scott Reynolds", ]
-_cast: ["Michael C. Hall", "Jennifer Carpenter", "David Zayas", "James Remar", "C.S. Lee", "Bruce Holman", "Lauren Vélez", "Desmond Harrington", "Julie Benz", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Louis Cioffi", "Stewart Schill", "Keith Henderson", "Matthew Colonna", "Amy E. Duddleston", "Michael Ruscio", "Elena Maganini", "Scott K. Wallace", "David Latham", ]
-_cinematographer: ["Romeo Tirone", "Jeff Jur", "Martin J. Layton", "Alan Caso", ]
-_music: ["Daniel Licht", ]
-_genres: ["Crime", ]
-_runtimes: ["55", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTM5MjkwMTI0MV5BMl5BanBnXkFtZTcwODQwMTc0OQ@@.jpg"
-_kind: "tv series"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTM5MjkwMTI0MV5BMl5BanBnXkFtZTcwODQwMTc0OQ@@._V1._SX100_SY136_.jpg"
+desc: "Dexter - O Final. Dexter (USA, 2006). Dirigido por John Dahl, Steve Shill, Keith Gordon, Marcos Siega, Ernest R. Dickerson, Romeo Tirone, Michael Cuesta, Tony Goldwyn, S.J. Clarkson. Escrito por Jeff Lindsay, James Manos Jr., Scott Buck, Tim Schlattmann, Lauren Gussis, Karen Campbell, Jennifer Yale, Melissa Rosenberg, Scott Reynolds. Com Michael C. Hall, Jennifer Carpenter, David Zayas, James Remar, C.S. Lee, Bruce Holman, Lauren Vélez, Desmond Harrington, Julie Benz."
 ---
 "Dexter Morgan é um ser humano buscando seu lugar no mundo." Essa frase inicial do meu texto sobre a sétima temporada foi minha conclusão a respeito de toda a série e as motivações de seu anti-herói, protagonizado de maneira extremamente competente por Michael C. Hall do começo ao fim. Para mim, portanto, essa ambição de Dexter seria a direção natural por onde o grand finale se nortearia, já que vimos até então tentativas -- muitas frustadas, mas em sua maioria não -- de um sociopata se encaixar na sociedade de uma forma a não machucar pessoas, ou pelo menos pessoas que não "mereçam" ser machucadas (isso depende do nível do politicamente correto de cada um).
 

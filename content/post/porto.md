@@ -1,26 +1,11 @@
 ---
+tags: ['mostrasp']
+imdb: "4446472"
 date: "2016-10-25"
 categories: "movies"
 title: "Porto"
-imdb: "4446472"
 stars: "3/5"
-tags: ['mostrasp']
-_title: "Porto"
-_year: "2016"
-_director: ["Gabe Klinger", ]
-_writer: ["Larry Gross", "Gabe Klinger", ]
-_cast: ["Anton Yelchin (Jake Kleeman)", "Lucie Lucas (Mati Vargnier)", "Françoise Lebrun (Mother)", "Paulo Calatré (João Monteiro Oliveira)", "Chantal Akerman", "Florie Auclerc-Vialens (Blanca)", "Diana de Sousa", "Filomena Gigante", "Rita Pinheiro", ]
-_countries: ["France", ]
-_languages: ["English", ]
-_editor: ["Gabe Klinger", "Géraldine Mangenot", ]
-_cinematographer: ["Wyatt Garfield", ]
-_costume designer: ["Susana Abreu", ]
-_genres: ["Drama", ]
-_runtimes: ["76", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BYmE2MWUzM2QtNmYxNC00Mzc4LWEwM2UtZDM5ZWQ2YmVmNTAzXkEyXkFqcGdeQXVyMzE5NzM2MDU@.jpg"
-_ratio: "1.37 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BYmE2MWUzM2QtNmYxNC00Mzc4LWEwM2UtZDM5ZWQ2YmVmNTAzXkEyXkFqcGdeQXVyMzE5NzM2MDU@._V1._SX100_SY56_.jpg"
+desc: "Porto. Porto (France, 2016). Dirigido por Gabe Klinger. Escrito por Larry Gross, Gabe Klinger. Com Anton Yelchin (Jake Kleeman), Lucie Lucas (Mati Vargnier), Françoise Lebrun (Mother), Paulo Calatré (João Monteiro Oliveira), Chantal Akerman, Florie Auclerc-Vialens (Blanca), Diana de Sousa, Filomena Gigante, Rita Pinheiro."
 ---
 Um romance pode terminar em algo bom ou algo ruim, mas ele sempre será um romance. A montagem de Porto também nos mostra que pedaços de informação não são a mesma coisa que a coisa em si, que pertence apenas aos que viveram o momento. Contando a história de um breve romance de suas problemáticas pessoas, o roteiro do diretor estreante Gabe Kleeman atravessa a questão do final feliz problematizando tanto a questão do ponto de vista quanto a causalidade do mundo que nos leva a concluir um sentido para as histórias a partir do seu final. O que acontece, então, quando enxergamos a série de eventos que fazem parte da vida de duas pessoas sob uma outra ordem? 
 

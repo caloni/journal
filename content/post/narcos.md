@@ -1,27 +1,11 @@
 ---
-date: "2015-09-11"
-imdb: "2707408"
-stars: "3/5"
-title: "Narcos"
-categories: "blog"
 tags: ['netflix', 'series']
-_title: "Narcos"
-_year: "2015"
-_director: ["Andrés Baiz", "Guillermo Navarro", "Fernando Coimbra", "José Padilha", ]
-_writer: ["Chris Brancato", "Samir Mehta", "Andrew Black", "Dana Ledoux Miller", "Carlo Bernard", "Doug Miro", "Dana Calvo", "Nick Schenk", "Paul Eckstein", ]
-_cast: ["Wagner Moura", "Maurice Compte", "Boyd Holbrook", "Pedro Pascal", "Joanna Christie", "Roberto Urbina", "Ana de la Reguera", "Danielle Kennedy", "Stephanie Sigman", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Leo Trombetta", "Matthew Colonna", ]
-_cinematographer: ["Mauricio Vidal", "Lula Carvalho", "Adrian Teijido", ]
-_music: ["Pedro Bromfman", ]
-_artdirection: ["Camila Arocha", ]
-_costume designer: ["Bina Daigeler", ]
-_genres: ["Biography", ]
-_runtimes: ["52", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjIyMjc1MzQ0OF5BMl5BanBnXkFtZTgwNTM4NDcyNjE@.jpg"
-_kind: "tv series"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjIyMjc1MzQ0OF5BMl5BanBnXkFtZTgwNTM4NDcyNjE@._V1._SX97_SY140_.jpg"
+imdb: "2707408"
+date: "2015-09-11"
+categories: "blog"
+title: "Narcos"
+stars: "3/5"
+desc: "Narcos. Narcos (USA, 2015). Dirigido por Andrés Baiz, Guillermo Navarro, Fernando Coimbra, José Padilha. Escrito por Chris Brancato, Samir Mehta, Andrew Black, Dana Ledoux Miller, Carlo Bernard, Doug Miro, Dana Calvo, Nick Schenk, Paul Eckstein. Com Wagner Moura, Maurice Compte, Boyd Holbrook, Pedro Pascal, Joanna Christie, Roberto Urbina, Ana de la Reguera, Danielle Kennedy, Stephanie Sigman."
 ---
 Assisti os três (quatro?) primeiro episódio de Narcos, a série da Netflix produzida por José Padilha (Tropa de Elite) e que dirigiu o piloto. No elenco, Wagner Moura faz o famigerado criminoso que roubou o dinheiro dos americanos e os corações dos colombianos em um negócio ilegal que custou vidas e uma investigação difícil da polícia.
 

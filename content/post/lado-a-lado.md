@@ -1,25 +1,10 @@
 ---
-date: "2012-10-21"
 imdb: "2014338"
+date: "2012-10-21"
+categories: "movies"
 title: "Lado a Lado"
 stars: "3/5"
-categories: "movies"
-_title: "Side by Side"
-_year: "2012"
-_director: ["Christopher Kenneally", ]
-_writer: ["Christopher Kenneally", ]
-_cast: ["Derek Ambrosi", "Michael Ballhaus", "Andrzej Bartkowiak", "Dion Beebe", "Jill Bogdanowicz", "Danny Boyle", "Geoff Boyle", "James Cameron", "Michael Chapman", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Malcolm Hearn", "Mike Long", ]
-_cinematographer: ["Chris Cassidy", ]
-_music: ["Bill Ryan", "Brendan Ryan", ]
-_genres: ["Documentary", ]
-_runtimes: ["99", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNjY4MTE5NTE1M15BMl5BanBnXkFtZTcwODA4MzEzOA@@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNjY4MTE5NTE1M15BMl5BanBnXkFtZTcwODA4MzEzOA@@._V1._SX94_SY140_.jpg"
+desc: "Lado a Lado. Side by Side (USA, 2012). Dirigido por Christopher Kenneally. Escrito por Christopher Kenneally. Com Derek Ambrosi, Michael Ballhaus, Andrzej Bartkowiak, Dion Beebe, Jill Bogdanowicz, Danny Boyle, Geoff Boyle, James Cameron, Michael Chapman."
 ---
 Lado a Lado coloca a questão do formato digital no cinema exatamente como defende o título: uma alternativa para a arte que, assim como o colorido, o som e o 3D, talvez tenha ganho não uma ameaça, mas uma ferramenta.
 

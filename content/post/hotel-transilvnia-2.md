@@ -1,25 +1,10 @@
 ---
-date: "2016-02-22"
 imdb: "2510894"
-stars: "3/5"
+date: "2016-02-22"
 categories: "movies"
 title: "Hotel Transilvânia 2"
-_title: "Hotel Transylvania 2"
-_year: "2015"
-_director: ["Genndy Tartakovsky", ]
-_writer: ["Robert Smigel", "Adam Sandler", ]
-_cast: ["Adam Sandler", "Andy Samberg", "Selena Gomez", "Kevin James", "Steve Buscemi", "David Spade", "Keegan-Michael Key", "Asher Blinkoff", "Fran Drescher", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Catherine Apple", ]
-_music: ["Mark Mothersbaugh", ]
-_artdirection: ["Steve Lumley", ]
-_genres: ["Animation", ]
-_runtimes: ["89", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjEzNzc4NzEyMV5BMl5BanBnXkFtZTgwMTAxMDQ2NTE@.jpg"
-_ratio: "1.85 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjEzNzc4NzEyMV5BMl5BanBnXkFtZTgwMTAxMDQ2NTE@._V1._SX95_SY140_.jpg"
+stars: "3/5"
+desc: "Hotel Transilvânia 2. Hotel Transylvania 2 (USA, 2015). Dirigido por Genndy Tartakovsky. Escrito por Robert Smigel, Adam Sandler. Com Adam Sandler, Andy Samberg, Selena Gomez, Kevin James, Steve Buscemi, David Spade, Keegan-Michael Key, Asher Blinkoff, Fran Drescher."
 ---
 Adam Sandler consegue a proeza de tornar a tosca dublagem brasileira menos pior do que ouvi-lo arriscar um sotaque que é uma mistura de Zohan com trechos de Little Nick.
 

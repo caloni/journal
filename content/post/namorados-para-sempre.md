@@ -1,25 +1,10 @@
 ---
-date: "2012-06-09"
 imdb: "1120985"
+date: "2012-06-09"
+categories: "movies"
 title: "Namorados Para Sempre"
 stars: "5/5"
-categories: "movies"
-_title: "Blue Valentine"
-_year: "2010"
-_director: ["Derek Cianfrance", ]
-_writer: ["Derek Cianfrance", "Joey Curtis", "Cami Delavigne", ]
-_cast: ["Ryan Gosling", "Michelle Williams", "Faith Wladyka", "John Doman", "Mike Vogel", "Marshall Johnson", "Jen Jones", "Maryann Plunkett", "James Benatti", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Jim Helton", "Ron Patane", ]
-_cinematographer: ["Andrij Parekh", ]
-_music: ["Grizzly Bear", ]
-_genres: ["Drama", ]
-_runtimes: ["112", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTU4MTQ2MzA1Ml5BMl5BanBnXkFtZTcwODE3NTgwNA@@.jpg"
-_ratio: "1.66 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTU4MTQ2MzA1Ml5BMl5BanBnXkFtZTcwODE3NTgwNA@@._V1._SX95_SY140_.jpg"
+desc: "Namorados Para Sempre. Blue Valentine (USA, 2010). Dirigido por Derek Cianfrance. Escrito por Derek Cianfrance, Joey Curtis, Cami Delavigne. Com Ryan Gosling, Michelle Williams, Faith Wladyka, John Doman, Mike Vogel, Marshall Johnson, Jen Jones, Maryann Plunkett, James Benatti."
 ---
 O relacionamento entre Dean e Cindy mostrado pelas lentes de Derek Cianfrance oscila entre o peso da rotina do dia-a-dia e a leveza de quando se conheceram, tudo mais ou menos se equilibrando em um retrato intimista e não-romantizado de como é a relação de qualquer casal na vida real.
 

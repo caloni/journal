@@ -1,25 +1,10 @@
 ---
-date: "2011-02-23"
 imdb: "0947798"
+date: "2011-02-23"
+categories: "movies"
 title: "Cisne Negro"
 stars: "5/5"
-categories: "movies"
-_title: "Black Swan"
-_year: "2010"
-_director: ["Darren Aronofsky", ]
-_writer: ["Mark Heyman", "Andres Heinz", "John J. McLaughlin", "Andres Heinz", ]
-_cast: ["Natalie Portman", "Mila Kunis", "Vincent Cassel", "Barbara Hershey", "Winona Ryder", "Benjamin Millepied", "Ksenia Solo", "Kristina Anapau", "Janet Montgomery", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Andrew Weisblum", ]
-_cinematographer: ["Matthew Libatique", ]
-_music: ["Clint Mansell", ]
-_genres: ["Drama", ]
-_runtimes: ["108", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BNzY2NzI4OTE5MF5BMl5BanBnXkFtZTcwMjMyNDY4Mw@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BNzY2NzI4OTE5MF5BMl5BanBnXkFtZTcwMjMyNDY4Mw@@._V1._SX94_SY140_.jpg"
+desc: "Cisne Negro. Black Swan (USA, 2010). Dirigido por Darren Aronofsky. Escrito por Mark Heyman, Andres Heinz, John J. McLaughlin, Andres Heinz. Com Natalie Portman, Mila Kunis, Vincent Cassel, Barbara Hershey, Winona Ryder, Benjamin Millepied, Ksenia Solo, Kristina Anapau, Janet Montgomery."
 ---
 Nina é uma dançarina de balé que, assim como muitas, devota toda sua vida a essa arte. Perfeccionista ao extremo e apoiada pela mãe controladora, ela está prestes a participar da escolha de quem será a nova protagonista de uma nova versão do clássico O Lago dos Cisnes, dirigida pelo seu controverso diretor Thomas Leroy (Cassel).
 

@@ -1,26 +1,11 @@
 ---
-imdb: "3519048"
-stars: "3/5"
 tags: ['cabine']
+imdb: "3519048"
 date: 2017-11-04T00:05:03
-title: "Olhando Para As Estrelas"
 categories: "movies"
-_title: "Olhando para as Estrelas"
-_year: "2016"
-_director: ["Alexandre Peralta", ]
-_writer: ["Melissa Rebelo Kerezsi", "Alexandre Peralta", ]
-_cast: ["Geyza Pereira (Geyza)", "Fernanda C. Bianchini Saad (Fernanda Bianchini)", "Thalia Macedo (Thalia)", "Cesar Albuquerque (Cesar)", "Sandra Macedo (Sandra)", ]
-_countries: ["Brazil", ]
-_languages: ["Portuguese", ]
-_editor: ["Alexandre Peralta", ]
-_cinematographer: ["Alejandro Ernesto", "Guan Xi", ]
-_music: ["Samuel Jones", "Alexis Marsh", ]
-_artdirection: ["Mayra Ometto", "Thais Reis Corte Peralta", ]
-_genres: ["Documentary", ]
-_runtimes: ["90", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNGJhMjY1ZGQtNzYwOS00ZTE1LWI3ZTctN2M5ODZiZDkxNjdjXkEyXkFqcGdeQXVyNjYwNDQwMDk@.jpg"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNGJhMjY1ZGQtNzYwOS00ZTE1LWI3ZTctN2M5ODZiZDkxNjdjXkEyXkFqcGdeQXVyNjYwNDQwMDk@._V1._SX92_SY140_.jpg"
+title: "Olhando Para As Estrelas"
+stars: "3/5"
+desc: "Olhando Para As Estrelas. Olhando para as Estrelas (Brazil, 2016). Dirigido por Alexandre Peralta. Escrito por Melissa Rebelo Kerezsi, Alexandre Peralta. Com Geyza Pereira (Geyza), Fernanda C. Bianchini Saad (Fernanda Bianchini), Thalia Macedo (Thalia), Cesar Albuquerque (Cesar), Sandra Macedo (Sandra)."
 ---
 Olhando para as Estrelas era um curta-metragem do mesmo diretor, Alexandre Peralta. Deveria continuar assim, ou ser expandido no mínimo. Porém, este longa possui bons momentos, que entretem. Perde-se um pouco da intensidade da história nos primeiroa quinze minutos. O que aconteceu? Talvez os grandes desafios das protagonistas não existam. Elas são bailarinas de sucesso, já. Qualquer tentativa de estereotipá-las cai na mesma armadilha de todas as pessoas preconceituosas do mundo.
 

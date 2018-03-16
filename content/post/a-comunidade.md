@@ -1,27 +1,11 @@
 ---
-date: "2016-08-04"
-tags: [ "cabine" ]
-categories: "movies"
+tags: ['cabine']
 imdb: "3082854"
-stars: "5/5"
+date: "2016-08-04"
+categories: "movies"
 title: "A Comunidade"
-_title: "Kollektivet"
-_year: "2016"
-_director: ["Thomas Vinterberg", ]
-_writer: ["Tobias Lindholm", "Thomas Vinterberg", ]
-_cast: ["Ulrich Thomsen", "Fares Fares", "Trine Dyrholm", "Julie Agnete Vang", "Helene Reingaard Neumann", "Lars Ranthe", "Ole Dupont", "Martha Sofie Wallstrøm Hansen", "Magnus Millang", ]
-_countries: ["Denmark", ]
-_languages: ["Danish", ]
-_editor: ["Janus Billeskov Jansen", "Anne Østerud", ]
-_cinematographer: ["Jesper Tøffner", ]
-_music: ["Fons Merkies", ]
-_costume designer: ["Ellen Lens", ]
-_genres: ["Drama", ]
-_runtimes: ["111", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTc0Mjk3NzUyNl5BMl5BanBnXkFtZTgwNTM0ODUzNzE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTc0Mjk3NzUyNl5BMl5BanBnXkFtZTgwNTM0ODUzNzE@._V1._SX95_SY140_.jpg"
+stars: "5/5"
+desc: "A Comunidade. Kollektivet (Denmark, 2016). Dirigido por Thomas Vinterberg. Escrito por Tobias Lindholm, Thomas Vinterberg. Com Ulrich Thomsen, Fares Fares, Trine Dyrholm, Julie Agnete Vang, Helene Reingaard Neumann, Lars Ranthe, Ole Dupont, Martha Sofie Wallstrøm Hansen, Magnus Millang."
 ---
 Thomas Vinterberg (A Caça, Submarino) parece ser um diretor obcecado em entender relações humanas. Em A Comunidade, ele nos leva para o misterioso mundo do apego emocional, nos jogando para o mundo onírico dos anos 70 e o confundindo com nossa história seres humanos convivendo com outros. No processo, ele esfrega na cara a realidade do "poliamor", ou pelo menos uma de suas vertentes. Tudo bem, Vinterberg, "o sonho acabou". Mas precisava ser tão incisivo?
 

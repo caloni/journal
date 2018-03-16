@@ -1,27 +1,12 @@
 ---
-date: "2013-09-30"
-imdb: "0903747"
-title: "Breaking Bad - Quinta Temporada"
-revision: [2016-07-17]
-stars: "5/5"
-categories: "blog"
-date: "2016-07-16"
 tags: ['breakingbad', 'series']
-_title: "Breaking Bad"
-_year: "2008"
-_director: ["Michelle MacLaren", "Adam Bernstein", "Vince Gilligan", "Colin Bucksey", "Michael Slovis", "Bryan Cranston", "Terry McDonough", "Johan Renck", "Rian Johnson", ]
-_writer: ["Vince Gilligan", "Peter Gould", "George Mastras", "Sam Catlin", "Moira Walley-Beckett", "Thomas Schnauz", "Gennifer Hutchison", "John Shiban", "J. Roberts", ]
-_cast: ["Bryan Cranston", "Anna Gunn", "Aaron Paul", "Dean Norris", "Betsy Brandt", "RJ Mitte", "Bob Odenkirk", "Steven Michael Quezada", "Jonathan Banks", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Kelley Dixon", "Skip Macdonald", "Lynne Willingham", ]
-_cinematographer: ["Michael Slovis", "Reynaldo Villalobos", "Peter Reniers", "Nelson Cragg", "Arthur Albert", ]
-_music: ["Dave Porter", ]
-_genres: ["Crime", ]
-_runtimes: ["45", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQ0ODYzODc0OV5BMl5BanBnXkFtZTgwMDk3OTcyMDE@.jpg"
-_kind: "tv series"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQ0ODYzODc0OV5BMl5BanBnXkFtZTgwMDk3OTcyMDE@._V1._SX95_SY140_.jpg"
+imdb: "0903747"
+date: "2016-07-16"
+categories: "blog"
+title: "Breaking Bad - Quinta Temporada"
+stars: "5/5"
+revision: [datetime.date(2016, 7, 17)]
+desc: "Breaking Bad - Quinta Temporada. Breaking Bad (USA, 2008). Dirigido por Michelle MacLaren, Adam Bernstein, Vince Gilligan, Colin Bucksey, Michael Slovis, Bryan Cranston, Terry McDonough, Johan Renck, Rian Johnson. Escrito por Vince Gilligan, Peter Gould, George Mastras, Sam Catlin, Moira Walley-Beckett, Thomas Schnauz, Gennifer Hutchison, John Shiban, J. Roberts. Com Bryan Cranston, Anna Gunn, Aaron Paul, Dean Norris, Betsy Brandt, RJ Mitte, Bob Odenkirk, Steven Michael Quezada, Jonathan Banks."
 ---
 Assim como Tropa de Elite (1 e 2), Breaking Bad tem seu próprio arsenal para o campeonato de frases famosas dita ao longo da série. Cada temporada apresenta pelo menos uma, de "I am the Danger" a "Say My Name" até para frases que não são particularmente brilhantes, mas fecham diálogos memoráveis como uma cereja no bolo. Muitas dessas frases são ditas pelo protagonista interpretado por Bryan Cranston, mas eu diria que há uma bela de uma competição entre todos os inesquecíveis personagens.
 

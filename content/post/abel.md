@@ -1,24 +1,10 @@
 ---
-date: "2014-04-26"
 imdb: "1479668"
+date: "2014-04-26"
+categories: "movies"
 title: "Abel"
 stars: "3/5"
-categories: "movies"
-_title: "Abel"
-_year: "2010"
-_director: ["Diego Luna", ]
-_writer: ["Augusto Mendoza", "Diego Luna", ]
-_cast: ["Christopher Ruíz-Esparza", "José María Yazpik", "Karina Gidi", "Carlos Aragón", "Gerardo Ruíz-Esparza", "Geraldine Galván", "Gabino Rodríguez", "Lucero Trejo", "Maria Elena Cervantes", ]
-_countries: ["Mexico", ]
-_languages: ["Spanish", ]
-_editor: ["Miguel Schverdfinger", ]
-_cinematographer: ["Patrick Murguia", ]
-_music: ["Alejandro Castaños", ]
-_genres: ["Comedy", ]
-_runtimes: ["82", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTU3NjczMDQxNl5BMl5BanBnXkFtZTcwNjgwODY1NA@@.jpg"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTU3NjczMDQxNl5BMl5BanBnXkFtZTcwNjgwODY1NA@@._V1._SX96_SY140_.jpg"
+desc: "Abel. Abel (Mexico, 2010). Dirigido por Diego Luna. Escrito por Augusto Mendoza, Diego Luna. Com Christopher Ruíz-Esparza, José María Yazpik, Karina Gidi, Carlos Aragón, Gerardo Ruíz-Esparza, Geraldine Galván, Gabino Rodríguez, Lucero Trejo, Maria Elena Cervantes."
 ---
 Abel é um filme-fantasia que se deixa levar pela premissa que o garoto-título resgata a memória do pai ausente como sendo a dele mesmo. Aconteceu algo no passado que não sabemos  possivelmente o não-retorno do pai  que fez com que Abel fosse internado em um hospital e voltasse apenas dois anos depois com a mãe, seu irmão e sua irmã para uma casa em um condomínio abandonado.
 

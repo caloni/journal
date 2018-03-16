@@ -1,25 +1,10 @@
 ---
-date: "2013-11-15"
 imdb: "0264472"
+date: "2013-11-15"
+categories: "movies"
 title: "Fora de Controle"
 stars: "3/5"
-categories: "movies"
-_title: "Changing Lanes"
-_year: "2002"
-_director: ["Roger Michell", ]
-_writer: ["Chap Taylor", "Chap Taylor", "Michael Tolkin", ]
-_cast: ["Ben Affleck", "Samuel L. Jackson", "Kim Staunton", "Toni Collette", "Sydney Pollack", "Tina Sloan", "Richard Jenkins", "Akil Walker", "Cole Hawkins", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Christopher Tellefsen", ]
-_cinematographer: ["Salvatore Totino", ]
-_music: ["David Arnold", ]
-_genres: ["Drama", ]
-_runtimes: ["98", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTM4MTM0MzYyMV5BMl5BanBnXkFtZTcwMjM2NzEyMQ@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTM4MTM0MzYyMV5BMl5BanBnXkFtZTcwMjM2NzEyMQ@@._V1._SX99_SY140_.jpg"
+desc: "Fora de Controle. Changing Lanes (USA, 2002). Dirigido por Roger Michell. Escrito por Chap Taylor, Chap Taylor, Michael Tolkin. Com Ben Affleck, Samuel L. Jackson, Kim Staunton, Toni Collette, Sydney Pollack, Tina Sloan, Richard Jenkins, Akil Walker, Cole Hawkins."
 ---
 Um drama moral tão bem construído não deveria ser conduzido de forma tão insegura como é feito aqui. A direção de Roger Michell (Um Lugar Chamado Notting Hill, Uma Manhã Gloriosa) combina uma atmosfera de thriller policial com filme de ação e peca justamente ao não nos aproximar dos seus dois personagens quando essa abordagem seria merecida ou necessária.
 

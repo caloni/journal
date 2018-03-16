@@ -1,25 +1,10 @@
 ---
-date: "2013-01-10"
 imdb: "1663661"
+date: "2013-01-10"
+categories: "movies"
 title: "Era Uma Vez Eu Verônica"
 stars: "3/5"
-categories: "movies"
-_title: "Era Uma Vez Eu, Verônica"
-_year: "2012"
-_director: ["Marcelo Gomes", ]
-_writer: ["Marcelo Gomes", ]
-_cast: ["Hermila Guedes", "Júlio Rocha", "João Miguel", "Maeve Jinkings", "Anthero Montenegro", "W.J. Solha", "Dandara Pagu", "Karina Buhr", "Madalena Accioly", ]
-_countries: ["Brazil", ]
-_languages: ["Portuguese", ]
-_editor: ["Karen Harley", ]
-_cinematographer: ["Mauro Pinheiro Jr.", ]
-_music: ["Tomaz Alves Souza", ]
-_genres: ["Drama", ]
-_runtimes: ["91", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjA2MjYwOTMwMV5BMl5BanBnXkFtZTgwMDE1NTYwMjE@.jpg"
-_ratio: "1.78 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjA2MjYwOTMwMV5BMl5BanBnXkFtZTgwMDE1NTYwMjE@._V1._SX99_SY140_.jpg"
+desc: "Era Uma Vez Eu Verônica. Era Uma Vez Eu, Verônica (Brazil, 2012). Dirigido por Marcelo Gomes. Escrito por Marcelo Gomes. Com Hermila Guedes, Júlio Rocha, João Miguel, Maeve Jinkings, Anthero Montenegro, W.J. Solha, Dandara Pagu, Karina Buhr, Madalena Accioly."
 ---
 Cinema, Aspirinas e Urubus se tornava mais interessante à medida que prestávamos menos atenção à história e mais em seus personagens. Aqui, o diretor Marcelo Gomes repete a fórmula de maneira mais introspectiva ainda, acompanhando a vida de Verônica através quase apenas de seu gravador e seus pensamentos.
 

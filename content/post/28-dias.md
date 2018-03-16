@@ -1,29 +1,11 @@
 ---
+tags: ['netflix']
+imdb: "0191754"
 date: "2017-04-21"
 categories: "movies"
 title: "28 Dias"
-imdb: "0191754"
 stars: "5/5"
-tags: ['netflix']
-_title: "28 Days"
-_year: "2000"
-_director: ["Betty Thomas", ]
-_writer: ["Susannah Grant", ]
-_cast: ["Sandra Bullock (Gwen Cummings)", "Viggo Mortensen (Eddie Boone)", "Dominic West (Jasper)", "Elizabeth Perkins (Lily)", "Azura Skye (Andrea)", "Steve Buscemi (Cornell)", "Alan Tudyk (Gerhardt)", "Mike O'Malley (Oliver)", "Marianne Jean-Baptiste (Roshanda)", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Peter Teschner", ]
-_cinematographer: ["Declan Quinn", ]
-_music: ["Richard Gibbs", ]
-_artdirection: ["Bo Johnson", ]
-_costume designer: ["Ellen Lutter", ]
-_genres: ["Comedy", ]
-_runtimes: ["103", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMDlkMmE5ZTEtNTA0YS00OTBjLTgyYmEtMGExMzJkOTRjNDg4XkEyXkFqcGdeQXVyMTQxNzMzNDI@.jpg"
-_ratio: "1.37 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMDlkMmE5ZTEtNTA0YS00OTBjLTgyYmEtMGExMzJkOTRjNDg4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1._SX94_SY140_.jpg"
-_releasedate: "23 June 2000"
+desc: "28 Dias. 28 Days (USA, 2000). Dirigido por Betty Thomas. Escrito por Susannah Grant. Com Sandra Bullock (Gwen Cummings), Viggo Mortensen (Eddie Boone), Dominic West (Jasper), Elizabeth Perkins (Lily), Azura Skye (Andrea), Steve Buscemi (Cornell), Alan Tudyk (Gerhardt), Mike O'Malley (Oliver), Marianne Jean-Baptiste (Roshanda)."
 ---
 Como você faria para mostrar ao grande público que ter uma vida boêmia pode ser algo terrível, mesmo que você se divirta no processo? Bom, 28 dias faz isso de maneira brilhante, desfocando e diminuindo direto nas cenas a qualidade dos momentos da vida em que sua protagonista, Gwen, não consegue se lembrar direito. Ela e seu namorado estão em uma festa, chegam em seu apartamento, colocam fogo em um sutiã, fazem sexo, acordam atrasados para o casamento de sua irmã, fazem um verdadeiro vexame no dia mais importante de sua vida e Gwen acaba em uma clínica de habilitação onde, contrariando os filmes mais bonitinhos sobre o tema, as pessoas não são agradáveis ou dignas de pena, mas seres humanos muito reais, que estão cansadas dessa vida que Gwen acabou de interromper.
 

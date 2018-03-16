@@ -1,26 +1,11 @@
 ---
-date: "2015-04-16"
-tags: [ "cabine" ]
+tags: ['cabine']
 imdb: "2822742"
-stars: "5/5"
+date: "2015-04-16"
 categories: "movies"
 title: "Três Corações"
-_title: "3 coeurs"
-_year: "2014"
-_director: ["Benoît Jacquot", ]
-_writer: ["Julien Boivent", "Benoît Jacquot", ]
-_cast: ["Benoît Poelvoorde", "Charlotte Gainsbourg", "Chiara Mastroianni", "Catherine Deneuve", "André Marcon", "Patrick Mille", "Cédric Vieira", "Thomas Doret", "Francis Leplay", ]
-_countries: ["France", ]
-_languages: ["French", ]
-_editor: ["Julia Gregory", ]
-_cinematographer: ["Julien Hirsch", ]
-_music: ["Bruno Coulais", ]
-_genres: ["Drama", ]
-_runtimes: ["106", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjAxOTY1MDg2N15BMl5BanBnXkFtZTgwNDQ3OTI0NDE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjAxOTY1MDg2N15BMl5BanBnXkFtZTgwNDQ3OTI0NDE@._V1._SX97_SY140_.jpg"
+stars: "5/5"
+desc: "Três Corações. 3 coeurs (France, 2014). Dirigido por Benoît Jacquot. Escrito por Julien Boivent, Benoît Jacquot. Com Benoît Poelvoorde, Charlotte Gainsbourg, Chiara Mastroianni, Catherine Deneuve, André Marcon, Patrick Mille, Cédric Vieira, Thomas Doret, Francis Leplay."
 ---
 Três corações tem aquelas histórias nascidas para ser catártica. Porém, o que mais impressiona na direção de Benoît Jacquot, assim como eu seu roteiro co-escrito por Benoît Jacquot, é como a mensagem a respeito do fatalismo, do destino, e de como pequenas decisões impensadas criam uma cornucópia mágica de desastres. Desastres esses que nunca existiriam caso a história desse uma leve guinada em um sentido diferente.
 

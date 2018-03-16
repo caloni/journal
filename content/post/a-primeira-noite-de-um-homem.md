@@ -1,24 +1,10 @@
 ---
-date: "2015-06-16"
 imdb: "0061722"
-stars: "5/5"
+date: "2015-06-16"
 categories: "movies"
 title: "A Primeira Noite de um Homem"
-_title: "The Graduate"
-_year: "1967"
-_director: ["Mike Nichols", ]
-_writer: ["Calder Willingham", "Buck Henry", "Charles Webb", ]
-_cast: ["Anne Bancroft", "Dustin Hoffman", "Katharine Ross", "William Daniels", "Murray Hamilton", "Elizabeth Wilson", "Buck Henry", "Brian Avery", "Walter Brooke", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Sam O'Steen", ]
-_cinematographer: ["Robert Surtees", ]
-_genres: ["Comedy", ]
-_runtimes: ["106", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMTQ0ODc4MDk4Nl5BMl5BanBnXkFtZTcwMTEzNzgzNA@@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMTQ0ODc4MDk4Nl5BMl5BanBnXkFtZTcwMTEzNzgzNA@@._V1._SX93_SY140_.jpg"
+stars: "5/5"
+desc: "A Primeira Noite de um Homem. The Graduate (USA, 1967). Dirigido por Mike Nichols. Escrito por Calder Willingham, Buck Henry, Charles Webb. Com Anne Bancroft, Dustin Hoffman, Katharine Ross, William Daniels, Murray Hamilton, Elizabeth Wilson, Buck Henry, Brian Avery, Walter Brooke."
 ---
 Esse é um filme que possui a alma dos anos 60. Quebra de convenções por todos os lados, e um cuidado especial na condução de uma... quem diria, comédia romântica, em tons sortidos; pelo menos o suficiente para que não encaremos os detalhes inseridos na trama apenas como engraçados, mas também dramáticos; e fiquemos apreensivos pelo destino de um dos heróis mais icônicos e irônicos do Cinema: Ben Braddock.
 

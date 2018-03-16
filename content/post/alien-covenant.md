@@ -1,29 +1,11 @@
 ---
+tags: ['cinema']
+imdb: "2316204"
 date: "2017-05-23"
 categories: "movies"
 title: "Alien: Covenant"
-imdb: "2316204"
 stars: "3/5"
-tags: ['cinema']
-_title: "Alien: Covenant"
-_year: "2017"
-_director: ["Ridley Scott", ]
-_writer: ["Dan O'Bannon", "Ronald Shusett", "Jack Paglen", "Michael Green", "John Logan", "Dante Harper", ]
-_cast: ["Michael Fassbender (David / Walter)", "Katherine Waterston (Daniels)", "Billy Crudup (Oram)", "Danny McBride (Tennessee)", "Demián Bichir (Lope)", "Carmen Ejogo (Karine)", "Jussie Smollett (Ricks)", "Callie Hernandez (Upworth)", "Amy Seimetz (Faris)", ]
-_countries: ["UK", ]
-_languages: ["English", ]
-_editor: ["Pietro Scalia", ]
-_cinematographer: ["Dariusz Wolski", ]
-_music: ["Jed Kurzel", ]
-_artdirection: ["Damien Drew", "Ian Gracie", "Jacinta Leong", "Adam O'Neill", "Charlie Revai", ]
-_costume designer: ["Janty Yates", ]
-_genres: ["Horror", ]
-_runtimes: ["122", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNzI5MzM3MzkxNF5BMl5BanBnXkFtZTgwOTkyMjI4MTI@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNzI5MzM3MzkxNF5BMl5BanBnXkFtZTgwOTkyMjI4MTI@._V1._SX94_SY140_.jpg"
-_releasedate: "11 May 2017"
+desc: "Alien: Covenant. Alien: Covenant (UK, 2017). Dirigido por Ridley Scott. Escrito por Dan O'Bannon, Ronald Shusett, Jack Paglen, Michael Green, John Logan, Dante Harper. Com Michael Fassbender (David / Walter), Katherine Waterston (Daniels), Billy Crudup (Oram), Danny McBride (Tennessee), Demián Bichir (Lope), Carmen Ejogo (Karine), Jussie Smollett (Ricks), Callie Hernandez (Upworth), Amy Seimetz (Faris)."
 ---
 É muito bom poder assistir um terror espacial novamente. Reviver o pouco do brilho da tripulação original de Alien. Eu faria isso facilmente pela vida toda. E depois do infelizmente medíocre Prometheus, é possível quase perdoar as pequenas falhas de "Alien: Covenant,", a segunda aventura dessa nova fase que pretende se estender pelo menos mais um episódio.
 

@@ -1,23 +1,10 @@
 ---
+imdb: "1181840"
 date: "2016-11-17"
 categories: "movies"
 title: "Jack e a Mecânica do Coração"
-imdb: "1181840"
 stars: "4/5"
-_title: "Jack et la mécanique du coeur"
-_year: "2013"
-_director: ["Stéphane Berla", "Mathias Malzieu", ]
-_writer: ["Mathias Malzieu", ]
-_cast: ["Mathias Malzieu (Jack)", "Olivia Ruiz (Miss Acacia)", "Grand Corps Malade (Joe)", "Jean Rochefort (Méliès)", "Rossy de Palma (Luna)", "Babet (Anna)", "Marie Vincent (Madeleine #1)", "Emily Loizeau (Madeleine #2)", "Arthur H. (Arthur)", ]
-_countries: ["France", ]
-_languages: ["French", ]
-_editor: ["Soline Guyonneau", ]
-_music: ["Dionysos", ]
-_genres: ["Animation", ]
-_runtimes: ["94", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNDcxNjYxMTE2M15BMl5BanBnXkFtZTgwNDY5MjY1MjE@.jpg"
-_kind: "movie"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNDcxNjYxMTE2M15BMl5BanBnXkFtZTgwNDY5MjY1MjE@._V1._SX97_SY140_.jpg"
+desc: "Jack e a Mecânica do Coração. Jack et la mécanique du coeur (France, 2013). Dirigido por Stéphane Berla, Mathias Malzieu. Escrito por Mathias Malzieu. Com Mathias Malzieu (Jack), Olivia Ruiz (Miss Acacia), Grand Corps Malade (Joe), Jean Rochefort (Méliès), Rossy de Palma (Luna), Babet (Anna), Marie Vincent (Madeleine #1), Emily Loizeau (Madeleine #2), Arthur H. (Arthur)."
 ---
 Esta animação é a conquista emo e gótica ao mesmo tempo. Feito com um apuro artístico incomum para produções de baixo orçamento, a história possui um clima pessimista, romântico e inalcançável que crianças não irão gostar, e muito menos adultos não muito afeitos a água com açúcar.
 
