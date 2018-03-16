@@ -1,25 +1,10 @@
 ---
-date: "2015-01-18"
 imdb: "3322940"
+date: "2015-01-18"
+categories: "movies"
 title: "Annabelle"
 stars: "3/5"
-categories: "movies"
-_title: "Annabelle"
-_year: "2014"
-_director: ["John R. Leonetti", ]
-_writer: ["Gary Dauberman", ]
-_cast: ["Annabelle Wallis", "Ward Horton", "Tony Amendola", "Alfre Woodard", "Kerry O'Malley", "Brian Howe", "Eric Ladin", "Ivar Brogger", "Geoff Wehner", ]
-_countries: ["USA", ]
-_languages: ["English", ]
-_editor: ["Tom Elkins", ]
-_cinematographer: ["James Kniest", ]
-_music: ["Joseph Bishara", ]
-_genres: ["Horror", ]
-_runtimes: ["99", ]
-_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjM2MTYyMzk1OV5BMl5BanBnXkFtZTgwNDg2MjMyMjE@.jpg"
-_ratio: "2.35 : 1"
-_kind: "movie"
-_cover: "http://ia.media-imdb.com/images/M/MV5BMjM2MTYyMzk1OV5BMl5BanBnXkFtZTgwNDg2MjMyMjE@._V1._SX94_SY140_.jpg"
+desc: "Annabelle. Annabelle (USA, 2014). Dirigido por John R. Leonetti. Escrito por Gary Dauberman. Com Annabelle Wallis, Ward Horton, Tony Amendola, Alfre Woodard, Kerry O'Malley, Brian Howe, Eric Ladin, Ivar Brogger, Geoff Wehner."
 ---
 Annabelle é um spin-off de uma pequena personagem com um pequeno papel em Invocação do Mal, de James Wan (da série Jogos Mortais). O filme original retrata um casal de médiuns que coletam objetos relacionados com atos demoníacos, e a boneca homônima é um deles, pois foi protagonista em um evento dos anos 60. Esses detalhes são completamente irrelevantes para o resultado final, pois Annabelle tem outra direção (John R. Leonetti, do péssimo Efeito Borboleta 2), outro roteirista (o semi-estreante Gary Dauberman) e apenas a mão na produção de James Wan, que entrega um trabalho plasticamente interessante, mas sem alma.
 

@@ -1,27 +1,11 @@
 ---
+tags: ['paulocoelho', 'series']
+imdb: "1639109"
 date: "2016-11-04"
 categories: "series"
 title: "Angel Beats!"
-imdb: "1639109"
 stars: "1/5"
-tags: ['paulocoelho', 'series']
-_title: "Angel Beats!"
-_year: "2010"
-_director: ["Seiji Kishi", "Takefumi Anzai", "Hiroyuki Hashimoto", "Yoshimichi Hirai", "Jong Heo", "Kôdai Kakimoto", "Masanori Takahashi", ]
-_writer: ["Takahiro Baba", "Jun Maeda", ]
-_cast: ["Hiroshi Kamiya (Yuzuru Otonashi)", "Harumi Sakurai (Yuri Nakamura)", "Kana Hanazawa (Kanade 'Angel' Tachibana)", "Ryohei Kimura (Hinata)", "Blake Shepard (Yuzuru Otonashi)", "Brittney Karbowski (Yuri Nakamura)", "Emily Neves (Kanade 'Angel' Tachibana / ...)", "David Matranga (Hinata)", "Shun Takagi (Noda)", ]
-_countries: ["Japan", ]
-_languages: ["Japanese", ]
-_editor: ["Ayumu Takahashi", ]
-_cinematographer: ["Katsufumi Satô", ]
-_music: ["Ai Kamachi", "Jun Maeda", "Tatsuo Nagami", ]
-_artdirection: ["Kazuki Higashiji", ]
-_genres: ["Animation", ]
-_runtimes: ["25", ]
-_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY3ODMzMjM3N15BMl5BanBnXkFtZTgwNzg2MTgwMzE@.jpg"
-_ratio: "1.78 : 1"
-_kind: "tv series"
-_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY3ODMzMjM3N15BMl5BanBnXkFtZTgwNzg2MTgwMzE@._V1._SX100_SY75_.jpg"
+desc: "Angel Beats!. Angel Beats! (Japan, 2010). Dirigido por Seiji Kishi, Takefumi Anzai, Hiroyuki Hashimoto, Yoshimichi Hirai, Jong Heo, Kôdai Kakimoto, Masanori Takahashi. Escrito por Takahiro Baba, Jun Maeda. Com Hiroshi Kamiya (Yuzuru Otonashi), Harumi Sakurai (Yuri Nakamura), Kana Hanazawa (Kanade 'Angel' Tachibana), Ryohei Kimura (Hinata), Blake Shepard (Yuzuru Otonashi), Brittney Karbowski (Yuri Nakamura), Emily Neves (Kanade 'Angel' Tachibana / ...), David Matranga (Hinata), Shun Takagi (Noda)."
 ---
 "Não fazer sentido é com a gente!", repete a heroína Ryuko Matoi nos capítulos finais do anime "Kill La Kill", uma série ousada e inteligente, mas que acaba em seus capítulos finais descanbando para o clichê de lutas sem fim. Mesmo assim... pobre Ryuko; mal sabia ela que seria ultrapassada de longe por "Angel Beats!", um trabalho digno de colegiais sem ter o que fazer na hora do recreio, e que une diferentes conceitos em prol da diversão interna desses alunos, pois qualquer tentativa de entender a lógica interna desse universo cairá por terra.
 

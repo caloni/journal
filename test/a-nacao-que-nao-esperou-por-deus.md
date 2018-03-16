@@ -1,21 +1,11 @@
 ---
-date: "2015-07-18"
-tags: [ "cabine" ]
+tags: ['cabine']
 imdb: "4659524"
-stars: "4/5"
+date: "2015-07-18"
 categories: "movies"
 title: "A Nação Que Não Esperou Por Deus"
-_title: "A Nação Que Não Esperou Por Deus: The Nation That Didn't Wait for God"
-_year: "2015"
-_director: ["Rodrigo Hinrichsen", "Lúcia Murat", ]
-_writer: ["Lúcia Murat", ]
-_countries: ["Brazil", ]
-_languages: ["Portuguese", ]
-_editor: ["Lucas Cesario Pereira", "Mair Tavares", ]
-_cinematographer: ["Leo Bittencourt", ]
-_genres: ["Documentary", ]
-_runtimes: ["89", ]
-_kind: "movie"
+stars: "4/5"
+desc: "A Nação Que Não Esperou Por Deus. A Nação Que Não Esperou Por Deus: The Nation That Didn't Wait for God (Brazil, 2015). Dirigido por Rodrigo Hinrichsen, Lúcia Murat. Escrito por Lúcia Murat."
 ---
 O trabalho de Lúcia Murat, de Brava Gente Brasileira, já se torna relevante uma vez que é um documentário que brinca com uma ficção dirigida por ela mesma 15 anos atrás, antes da vinda da tecnologia na aldeia dos Kadiwéus, o último povo guerreiro indígena em solo brasileiro, que já tendo sua cultura destroçada pela TV e religião brancas, agora corre o risco de ter suas terras completamente tomadas por fazendeiros, já que o governo brasileiro aparentemente "se esqueceu" que elas foram reconhecidas em retribuição por lutarem lado-a-lado na Guerra do Paraguai.
 
