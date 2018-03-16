@@ -184,7 +184,16 @@ def writereview(filePath, header, review, imdbData):
           v = v.isoformat()
         f.write(str(k) + ': ' + str(v) + '\n')
     if not header.has_key('desc'):
-        f.write('desc: "Here comes the movie description."\n')
+        desc = header['title'] + '.'
+        if header.has_key('_title') and header.has_key('_countries') and header.has_key('_year'):
+            desc = desc + ' ' + header['_title'] + ' (' + ', '.join(header['_countries']) + ', ' + header['_year'] + ').'
+        if header.has_key('_director'):
+            desc = desc + ' Dirigido por ' + ', '.join(header['_director']) + '.'
+        if header.has_key('_writer'):
+            desc = desc + ' Escrito por ' + ', '.join(header['_writer']) + '.'
+        if header.has_key('_cast'):
+            desc = desc + ' Com ' + ', '.join(header['_cast']) + '.'
+        f.write('desc: "' + desc.encode('utf8') + '"\n')
   f.write('---\n')
   f.write(review)
   f.close()
