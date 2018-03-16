@@ -70,8 +70,7 @@ def PublishToTwitter(postInfo, img):
 
     stars = PrintStars(postInfo['stars']) if postInfo.has_key('stars') else ''
     remaining = 130 - len(stars.decode('utf8') + ' ' + postInfo['title'].decode('utf8') + '\n' + '\n' + postInfo['shortlink'])
-    sentence = GetSentence(postInfo, remaining)
-    st = stars.decode('utf8') + ' ' + postInfo['title'].decode('utf8') + '\n' + sentence + '\n' + postInfo['shortlink']
+    st = stars.decode('utf8') + ' ' + postInfo['title'].decode('utf8') + '\n' + postInfo['shortlink']
     t.statuses.update(status=st, media_ids=",".join([id_img1]))
 
 
