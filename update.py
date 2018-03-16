@@ -18,7 +18,7 @@ CoversPath = r'C:\daytoday\cinetenisverde.github.io\images\covers'
 CoversDownloader = urllib.URLopener()
 DefaultCoverSize = 95, 150
 access = imdb.IMDb()
-forceUpdate = len(sys.argv) > 1 and sys.argv[1] == '--force-update'
+forceUpdate = False
 specificReview = len(sys.argv) > 1 and sys.argv[1].find('.md') != -1
 
 
@@ -151,29 +151,30 @@ def writereview(filePath, header, review, imdbData):
       elif isinstance(v, datetime.datetime) or isinstance(v, datetime.date):
         v = v.isoformat()
       f.write(str(k) + ': ' + str(v) + '\n')
-  if imdbData.has_key('title'): 
-    write(f, imdbData['title'], '_title')
-  if imdbData.has_key('year'): write(f, imdbData['year'], '_year')
-  if imdbData.has_key('director'): writearray(f, imdbData['director'], '_director')
-  if imdbData.has_key('writer'): writepersonarray(f, imdbData['writer'], '_writer')
-  if imdbData.has_key('cast'): writecastarray(f, imdbData['cast'], '_cast')
-  if imdbData.has_key('countries'): writesimplearray(f, imdbData['countries'], '_countries')
-  if imdbData.has_key('languages'): writesimplearray(f, imdbData['languages'], '_languages')
-  if imdbData.has_key('editor'): writearray(f, imdbData['editor'], '_editor')
-  if imdbData.has_key('cinematographer'): writearray(f, imdbData['cinematographer'], '_cinematographer')
-  if imdbData.has_key('original music'): writearray(f, imdbData['original music'], '_music')
-  if imdbData.has_key('art direction'): writearray(f, imdbData['art direction'], '_artdirection')
-  if imdbData.has_key('costume designer'): writearray(f, imdbData['costume designer'], '_costume designer')
-  if imdbData.has_key('genres'): writesimplearray(f, imdbData['genres'], '_genres')
-  if imdbData.has_key('runtimes'): writesimplearray(f, imdbData['runtimes'], '_runtimes')
-  if imdbData.has_key('full-size cover url'): write(f, imdbData['full-size cover url'], '_fullcover')
-  if imdbData.has_key('aspect ratio'): write(f, imdbData['aspect ratio'], '_ratio')
-  if imdbData.has_key('kind'): write(f, imdbData['kind'], '_kind')
-  if imdbData.has_key('cover url'): write(f, imdbData['cover url'], '_cover')
-  access.update(imdbData, 'release dates')
-  for rd in imdbData['release dates']:
-    if rd.find('Brazil::') != -1:
-        write(f, rd[rd.rfind(':')+1:], '_releasedate')
+  if imdbData:
+    if imdbData.has_key('title'): 
+      write(f, imdbData['title'], '_title')
+    if imdbData.has_key('year'): write(f, imdbData['year'], '_year')
+    if imdbData.has_key('director'): writearray(f, imdbData['director'], '_director')
+    if imdbData.has_key('writer'): writepersonarray(f, imdbData['writer'], '_writer')
+    if imdbData.has_key('cast'): writecastarray(f, imdbData['cast'], '_cast')
+    if imdbData.has_key('countries'): writesimplearray(f, imdbData['countries'], '_countries')
+    if imdbData.has_key('languages'): writesimplearray(f, imdbData['languages'], '_languages')
+    if imdbData.has_key('editor'): writearray(f, imdbData['editor'], '_editor')
+    if imdbData.has_key('cinematographer'): writearray(f, imdbData['cinematographer'], '_cinematographer')
+    if imdbData.has_key('original music'): writearray(f, imdbData['original music'], '_music')
+    if imdbData.has_key('art direction'): writearray(f, imdbData['art direction'], '_artdirection')
+    if imdbData.has_key('costume designer'): writearray(f, imdbData['costume designer'], '_costume designer')
+    if imdbData.has_key('genres'): writesimplearray(f, imdbData['genres'], '_genres')
+    if imdbData.has_key('runtimes'): writesimplearray(f, imdbData['runtimes'], '_runtimes')
+    if imdbData.has_key('full-size cover url'): write(f, imdbData['full-size cover url'], '_fullcover')
+    if imdbData.has_key('aspect ratio'): write(f, imdbData['aspect ratio'], '_ratio')
+    if imdbData.has_key('kind'): write(f, imdbData['kind'], '_kind')
+    if imdbData.has_key('cover url'): write(f, imdbData['cover url'], '_cover')
+    access.update(imdbData, 'release dates')
+    for rd in imdbData['release dates']:
+      if rd.find('Brazil::') != -1:
+          write(f, rd[rd.rfind(':')+1:], '_releasedate')
   f.write('---\n')
   f.write(review)
   f.close()
@@ -185,6 +186,11 @@ def updatereview(filePath):
       imdbId = int(header['imdb'])
       movieData = access.get_movie(imdbId)
       writereview(filePath, header, review, movieData)
+
+def updatereview2(filePath):
+  print filePath
+  header, review = loadreview(filePath)
+  writereview(filePath, header, review, None)
 
 def update(filePath, imdbId):
   resultFile = ''
@@ -199,8 +205,11 @@ def update(filePath, imdbId):
   updatereview(filePath)
 
 if __name__ == "__main__":
-  if len(sys.argv) < 3:
-    print 'Usage: update.py [file-path] [imdb-id]'
-  else:
+  if len(sys.argv) == 3:
     update(sys.argv[1], sys.argv[2])
+  elif len(sys.argv) == 2:
+    for f in glob.glob(sys.argv[1] + '\\*.md'):
+        updatereview2(f)
+  else:
+    print 'Usage: update.py [file-path] [imdb-id]'
 
