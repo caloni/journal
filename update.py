@@ -144,14 +144,14 @@ def writereview(filePath, header, review, imdbData):
 
   f = open(filePath, 'w')
   f.write('---\n')
-  for k, v in header.iteritems():
-    if k[0] != '_':
-      if isinstance(v, basestring):
-        v = '"' + v.encode('utf-8') + '"'
-      elif isinstance(v, datetime.datetime) or isinstance(v, datetime.date):
-        v = v.isoformat()
-      f.write(str(k) + ': ' + str(v) + '\n')
   if imdbData:
+    for k, v in header.iteritems():
+      if k[0] != '_':
+        if isinstance(v, basestring):
+          v = '"' + v.encode('utf-8') + '"'
+        elif isinstance(v, datetime.datetime) or isinstance(v, datetime.date):
+          v = v.isoformat()
+        f.write(str(k) + ': ' + str(v) + '\n')
     if imdbData.has_key('title'): 
       write(f, imdbData['title'], '_title')
     if imdbData.has_key('year'): write(f, imdbData['year'], '_year')
@@ -175,6 +175,16 @@ def writereview(filePath, header, review, imdbData):
     for rd in imdbData['release dates']:
       if rd.find('Brazil::') != -1:
           write(f, rd[rd.rfind(':')+1:], '_releasedate')
+  else:
+    for k, v in header.iteritems():
+      if k[0] != '_':
+        if isinstance(v, basestring):
+          v = '"' + v.encode('utf-8') + '"'
+        elif isinstance(v, datetime.datetime) or isinstance(v, datetime.date):
+          v = v.isoformat()
+        f.write(str(k) + ': ' + str(v) + '\n')
+    if not header.has_key('desc'):
+        f.write('desc: "Here comes the movie description."\n')
   f.write('---\n')
   f.write(review)
   f.close()
