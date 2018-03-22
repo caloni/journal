@@ -5,7 +5,6 @@ categories: "blog"
 imdb: "1773185"
 stars: "5/5"
 desc: "Puella Magi Madoka Magica (2011). Dirigido por Akiyuki Shinbo. Escrito por Gen Urobuchi (personagens por Ume Aoki). Com Aoi Yûki (Madoka Kaname), Chiwa Saitô (Homura), Emiri Kato (Kyubey)"
-draft: "true"
 ---
 Acho que não há nada mais clichê no mundo dos animes japoneses do que aquela figura das garotas de cosplay com poderes mágicos (e muito glitter) lutando contra o mal e se divertido juntas. Essa é a essência por trás de um costume de um povo que parece venerar imagens fofinhas e divertidas, muitas delas presentes na puberdade, mas que remetem mais tarde aos valores mais arraigados no íntimo dos indivíduos adultos ainda com esperança nesse poder mágico de cada um de nós. Não é tanto pelo erotismo, mas pelo poder que o erotismo remete a cada um de nós, essa força vital do sexo e da vida, dos veneradores para as veneradas. Estamos falando aqui da própria luta pela existência.
 
