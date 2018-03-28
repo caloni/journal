@@ -12,6 +12,8 @@ import webbrowser
 import msvcrt as m
 from pyshorteners import Shortener
 import frontmatter
+from bs4 import BeautifulSoup
+from markdown import markdown
 
 sys.path.append(r'c:\users\caloni\.pwd')
 import twitter_cinetenisverde as twitter_credentials
@@ -134,6 +136,15 @@ def SearchAdoroCinema(postInfo):
     webbrowser.open_new_tab('http://www.adorocinema.com/busca/?q=' + titleSearch)
 
 
+def TreatParagraph(p):
+    p = p.decode('utf8')
+    p = unicode(p)
+    html = markdown(p)
+    text = ''.join(BeautifulSoup(html, 'lxml').findAll(text=True))
+    text = text.encode('utf8')
+    return text
+
+
 def GetPostInfo(post):
     postInfo = { 'file' : 'content\\post\\' + post + '.md' }
     postInfo['permalink'] =  post
@@ -146,7 +157,7 @@ def GetPostInfo(post):
             m = re.search('^([^.]*.)', l)
             if m:
                 postInfo['tagline'] = m.group(1)
-                postInfo['paragraph'] = l
+                postInfo['paragraph'] = TreatParagraph(l)
                 endHeader = 0
         if l == '---\n':
             endHeader += 1
