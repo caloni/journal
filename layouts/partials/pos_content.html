@@ -12,4 +12,4 @@
   {{ end }}
 </span>
 
-{{ if .Params.date }}Wanderley Caloni, {{ .Date.Format "2006-01-02" }}{{ end }}{{ with .Params.desc }}. {{ . }}{{ end }}{{ with .Params.imdb }} <a title="IMDB: Internet Movie DataBase" href="http://www.imdb.com/title/tt{{ . }}">imdb</a>{{ end }}
+{{ if .Params.date }}Wanderley Caloni, {{ .Date.Format "2006-01-02" }}{{ end }}{{ with .Params.desc }}. {{ . }}{{ end }}{{ with .Params.imdb }} <a title="IMDB: Internet Movie DataBase" href="http://www.imdb.com/title/tt{{ . }}">IMDB</a>.{{ end }}{{ if .Params.cabine }} Em breve crítica no <a href="www.cinemaqui.com.br">CinemAqui</a>.{{ end }}
