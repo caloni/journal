@@ -174,6 +174,9 @@ def GetPostInfo(post):
         m = re.match('^cabine: \"(.*)\"', l)
         if m:
             postInfo['cabine'] = True
+        m = re.match('^desc: \"(.*)\"', l)
+        if m:
+            postInfo['desc'] = m.group(1)
     return postInfo
 
 
