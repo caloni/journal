@@ -1,3 +1,4 @@
+# coding=utf8
 import twitter
 import sys
 import re
@@ -82,6 +83,8 @@ def PublishToFacebook(postInfo, img):
     """
     stars = PrintStars(postInfo['stars']) if postInfo.has_key('stars') else ''
     st = stars.decode('utf8') + ' ' + postInfo['title'].decode('utf8') + '\n\n' + postInfo['desc'].decode('utf8') + '\n\n' + postInfo['paragraph'].decode('utf8') + '\n\n' + postInfo['shortlink'].decode('utf8')
+    if postInfo.has_key('cabine'):
+        st = st + '\n\n' + 'Em breve crítica completa no www.cinemaqui.com.br.'.decode('utf8')
     post = facebook_credentials.auth.put_photo(image=img, message=st)
 
 
@@ -225,8 +228,8 @@ def PublishToSocialMedia(post, img):
 
         imgUrl = urllib2.urlopen(img)
         img = imgUrl.read()
-        print '*** Publishing to Twitter'
-        PublishToTwitter(postInfo, img)
+        #print '*** Publishing to Twitter'
+        #PublishToTwitter(postInfo, img)
         print '*** Publishing to Facebook'
         PublishToFacebook(postInfo, img)
         print '*** Publishing to Telegram'
