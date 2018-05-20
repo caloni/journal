@@ -1,6 +1,6 @@
 ---
 date: 2018-05-20T13:07:43-03:00
-title: "Kakegurui (Anime e Live Action)"
+title: "Kakegurui é alegoria anti-capitalista e atrizes live action não são eróticas (Anime e Live Action)"
 categories: "blog"
 imdb: "7131720"
 stars: "3/5"
