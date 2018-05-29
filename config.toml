@@ -1,7 +1,7 @@
 baseURL = "http://www.cinetenisverde.com.br/"
 languageCode = "en-us"
 title = "Cine Tênis Verde"
-theme = "hugo-xmin"
+theme = "capsule"
 googleAnalytics = "UA-50557403-1"
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
