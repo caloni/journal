@@ -1,7 +1,7 @@
 ---
 imdb: "3090670"
 date: "2015-09-20"
-categories: "movies"
+categories: [ "movies" ]
 title: "Advantageous"
 stars: "2/5"
 desc: "Advantageous. Advantageous (USA, 2015). Dirigido por Jennifer Phang. Escrito por Jacqueline Kim, Jennifer Phang. Com Jacqueline Kim, James Urbaniak, Freya Adams, Ken Jeong, Jennifer Ehle, Samantha Kim, Troi Zee, Olivia Horton, Jennifer Ikeda."

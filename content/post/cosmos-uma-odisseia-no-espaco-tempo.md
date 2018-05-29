@@ -2,7 +2,7 @@
 tags: ['netflix', 'series']
 imdb: "2395695"
 date: "2014-09-25"
-categories: "series"
+categories: [ "series" ]
 title: "Cosmos: Uma Odisséia do Espaço-Tempo"
 stars: "5/5"
 revision: [datetime.date(2015, 9, 19)]

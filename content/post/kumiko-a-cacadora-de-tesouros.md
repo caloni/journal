@@ -1,7 +1,7 @@
 ---
 imdb: "3263614"
 date: "2015-06-21"
-categories: "movies"
+categories: [ "movies" ]
 title: "Kumiko, a Caçadora de Tesouros"
 stars: "3/5"
 desc: "Kumiko, a Caçadora de Tesouros. Kumiko, the Treasure Hunter (USA, 2014). Dirigido por David Zellner. Escrito por David Zellner, Nathan Zellner. Com Rinko Kikuchi, Nobuyuki Katsube, Shirley Venard, David Zellner, Nathan Zellner, Kanako Higashi, Ichi Kyokaku, Ayaka Ohnishi, Mayuko Kawakita."

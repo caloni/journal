@@ -1,7 +1,7 @@
 ---
 imdb: "0983193"
 date: "2015-05-17"
-categories: "movies"
+categories: [ "movies" ]
 title: "As Aventuras de Tintim"
 stars: "4/5"
 desc: "As Aventuras de Tintim. The Adventures of Tintin (USA, 2011). Dirigido por Steven Spielberg. Escrito por Steven Moffat, Edgar Wright, Joe Cornish, Hergé. Com Jamie Bell, Andy Serkis, Daniel Craig, Nick Frost, Simon Pegg, Daniel Mays, Gad Elmaleh, Toby Jones, Joe Starr."

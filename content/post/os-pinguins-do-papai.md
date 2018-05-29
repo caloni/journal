@@ -1,7 +1,7 @@
 ---
 imdb: "1396218"
 date: "2011-07-04"
-categories: "movies"
+categories: [ "movies" ]
 title: "Os Pinguins do Papai"
 stars: "3/5"
 desc: "Os Pinguins do Papai. Mr. Popper's Penguins (USA, 2011). Dirigido por Mark Waters. Escrito por Sean Anders, John Morris, Jared Stern, Richard Atwater, Florence Atwater. Com Jim Carrey, Carla Gugino, Angela Lansbury, Ophelia Lovibond, Madeline Carroll, Clark Gregg, Jeffrey Tambor, David Krumholtz, Philip Baker Hall."

@@ -2,7 +2,7 @@
 tags: ['mostrasp']
 imdb: "4538652"
 date: "2016-10-31"
-categories: "movies"
+categories: [ "movies" ]
 title: "Sonar"
 stars: "3/5"
 desc: "Sonar. Sonar (France, 2016). Dirigido por Jean-Philippe Martin. Escrito por Jean-Philippe Martin. Com Naidra Ayadi (Leïla), Bernie Bonvoisin (Wyatt), Emine Meyrem (Amina), Batiste Sornin (Thomas), Bruno Clairefond (Daniel Metz), Sébastien Fouillade."

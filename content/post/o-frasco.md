@@ -1,7 +1,7 @@
 ---
 imdb: "1278055"
 date: "2012-10-28"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Frasco"
 stars: "3/5"
 desc: "O Frasco. El frasco (Argentina, 2008). Dirigido por Alberto Lecchi. Escrito por Verónica Chen, Peto Menahem, Pablo Solarz. Com Darío Grandinetti, Leticia Brédice, Rubén Altamirano, Manuela Alvarez, Marta Benbenutti, Virgilio Benítez, Raúl Calandra, Vanesa Ciani, Mario Cracogna."

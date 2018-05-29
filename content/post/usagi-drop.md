@@ -2,7 +2,7 @@
 tags: ['netflix']
 imdb: "1672214"
 date: 2017-07-31T20:10:47
-categories: "movies"
+categories: [ "movies" ]
 title: "Usagi Drop"
 stars: "3/5"
 desc: "Usagi Drop. Usagi doroppu (Japan, 2011). Dirigido por SABU. Escrito por Yumi Unita, Tamio Hayashi, SABU. Com Ken'ichi Matsuyama (Daikichi Kawachi), Karina (Yukari Nitani), Mana Ashida (Rin Kaga), Mirei Kiritani (Kazumi Kawachi), Mayu Kitaki (Masako Yoshii), Ruiki Satô (Koki Nitani), Gô Ayano (Kyoichi), Ryô Kimura (Yuichi Suzuki), Atsuko Takahata (Yumiko Sugiyama)."

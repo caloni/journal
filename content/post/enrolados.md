@@ -1,7 +1,7 @@
 ---
 imdb: "0398286"
 date: "2011-01-30"
-categories: "movies"
+categories: [ "movies" ]
 title: "Enrolados"
 stars: "3/5"
 revision: [datetime.date(2014, 6, 18)]

@@ -2,7 +2,7 @@
 tags: ['mostrasp']
 imdb: "3757648"
 date: "2016-10-21"
-categories: "movies"
+categories: [ "movies" ]
 title: "Tempestade"
 stars: "3/5"
 desc: "Tempestade. Tempête (France, 2015). Dirigido por Samuel Collardey. Escrito por Samuel Collardey, Catherine Paillé. Com Dominique Leborne (Dom), Matteo Leborne (Matteo), Mailys Leborne (Mailys), Vincent Bessonnet (Vincent), Claude-Estelle Guitter (La gynécologue), Patrick d'Assumçao (Le patron de Dom), Sandra Richard (Enquêtrice sociale), Chantal Leborne (La mère de Dom), Carole Perineau (La vendeuse)."

@@ -1,7 +1,7 @@
 ---
 imdb: "0058150"
 date: "2012-11-11"
-categories: "movies"
+categories: [ "movies" ]
 title: "007 Contra Goldfinger"
 stars: "4/5"
 desc: "007 Contra Goldfinger. Goldfinger (UK, 1964). Dirigido por Guy Hamilton. Escrito por Richard Maibaum, Paul Dehn, Ian Fleming. Com Sean Connery, Honor Blackman, Gert Fröbe, Shirley Eaton, Tania Mallet, Harold Sakata, Bernard Lee, Martin Benson, Cec Linder."

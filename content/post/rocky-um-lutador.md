@@ -1,7 +1,7 @@
 ---
 imdb: "0075148"
 date: "2015-03-17"
-categories: "movies"
+categories: [ "movies" ]
 title: "Rocky - Um Lutador"
 stars: "5/5"
 desc: "Rocky - Um Lutador. Rocky (USA, 1976). Dirigido por John G. Avildsen. Escrito por Sylvester Stallone. Com Sylvester Stallone, Talia Shire, Burt Young, Carl Weathers, Burgess Meredith, Thayer David, Joe Spinell, Jimmy Gambina, Bill Baldwin."

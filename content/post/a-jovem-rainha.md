@@ -3,7 +3,7 @@ tags: ['cabine']
 cinemaqui: "http://www.cinemaqui.com.br/a-jovem-rainha"
 imdb: "1254322"
 date: "2017-02-16"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Jovem Rainha"
 stars: "3/5"
 desc: "A Jovem Rainha. The Girl King (Finland, 2015). Dirigido por Mika Kaurismäki. Escrito por Michel Marc Bouchard. Com Malin Buska (Queen Kristina), Sarah Gadon (Countess Ebba Sparre), Michael Nyqvist (Chancellor Axel Oxenstierna), Lucas Bryant (Count Johan Oxenstierna), Laura Birn (Countess Erika Erksein), Hippolyte Girardot (Ambassador Pierre Hector Chanut), Peter Lohmeyer (Bishop Of Stockholm), François Arnaud (Karl Gustav Kasimir), Patrick Bauchau (René Descartes)."

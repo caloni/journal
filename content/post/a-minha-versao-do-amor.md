@@ -1,7 +1,7 @@
 ---
 imdb: "1423894"
 date: "2011-04-27"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Minha Versão do Amor"
 stars: "5/5"
 desc: "A Minha Versão do Amor. Barney's Version (Canada, 2010). Dirigido por Richard J. Lewis. Escrito por Mordecai Richler, Michael Konyves. Com Paul Giamatti, Macha Grenon, Paul Gross, Atom Egoyan, Mark Camacho, David Pryde, Paula Jean Hixson, Mark Addy, Scott Speedman."

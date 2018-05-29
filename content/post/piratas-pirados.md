@@ -1,7 +1,7 @@
 ---
 imdb: "1430626"
 date: "2012-11-04"
-categories: "movies"
+categories: [ "movies" ]
 title: "Piratas Pirados!"
 stars: "2/5"
 desc: "Piratas Pirados!. The Pirates! In an Adventure with Scientists! (UK, 2012). Dirigido por Peter Lord, Jeff Newitt. Escrito por Gideon Defoe, Gideon Defoe. Com Hugh Grant, Martin Freeman, Imelda Staunton, David Tennant, Jeremy Piven, Salma Hayek, Lenny Henry, Brian Blessed, Russell Tovey."

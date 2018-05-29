@@ -1,7 +1,7 @@
 ---
 date: 2018-01-12T01:19:37
 imdb: "2085059"
-categories: "blog"
+categories: [ "blog" ]
 stars: "2/5"
 title: "Black Mirror: Arkangel"
 desc: "Black Mirror: Arkangel."

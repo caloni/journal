@@ -1,7 +1,7 @@
 ---
 imdb: "0816711"
 date: "2014-09-23"
-categories: "movies"
+categories: [ "movies" ]
 title: "World War Z"
 stars: "4/5"
 desc: "World War Z. World War Z (USA, 2013). Dirigido por Marc Forster. Escrito por Matthew Michael Carnahan, Drew Goddard, Damon Lindelof, Matthew Michael Carnahan, J. Michael Straczynski, Max Brooks. Com Brad Pitt, Mireille Enos, Daniella Kertesz, James Badge Dale, Ludi Boeken, Matthew Fox, Fana Mokoena, David Morse, Elyes Gabel."

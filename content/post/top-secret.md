@@ -1,7 +1,7 @@
 ---
 imdb: "0088286"
 date: "2011-12-04"
-categories: "movies"
+categories: [ "movies" ]
 title: "Top Secret! Super Confidencial"
 stars: "4/5"
 desc: "Top Secret! Super Confidencial. Top Secret! (USA, 1984). Dirigido por Jim Abrahams, David Zucker, Jerry Zucker. Escrito por Jim Abrahams, David Zucker, Jerry Zucker, Martyn Burke. Com Omar Sharif, Jeremy Kemp, Warren Clarke, Tristram Jellinek, Val Kilmer, Billy J. Mitchell, Major Wiley, Gertan Klauber, Richard Mayes."

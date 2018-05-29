@@ -1,7 +1,7 @@
 ---
 imdb: "1415283"
 date: "2012-09-03"
-categories: "movies"
+categories: [ "movies" ]
 title: "Nanny McPhee e as Lições Mágicas"
 stars: "3/5"
 desc: "Nanny McPhee e as Lições Mágicas. Nanny McPhee and the Big Bang (UK, 2010). Dirigido por Susanna White. Escrito por Emma Thompson, Christianna Brand. Com Maggie Gyllenhaal, Oscar Steer, Asa Butterfield, Lil Woods, Eros Vlahos, Rosie Taylor-Ritson, Daniel Mays, Rhys Ifans, Maggie Smith."

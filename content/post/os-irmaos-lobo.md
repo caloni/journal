@@ -2,7 +2,7 @@
 tags: ['netflix']
 imdb: "2415458"
 date: "2016-10-12"
-categories: "movies"
+categories: [ "movies" ]
 title: "Os Irmãos Lobo"
 stars: "2/5"
 desc: "Os Irmãos Lobo. The Wolfpack (USA, 2015). Dirigido por Crystal Moselle. Com Bhagavan Angulo, Govinda Angulo, Jagadisa Angulo, Krsna Angulo, Mukunda Angulo, Narayana Angulo, Tyler Hollinger (Naked / Spurious Actor), Chloe Pecorino (Herself)."

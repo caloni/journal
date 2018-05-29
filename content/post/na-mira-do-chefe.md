@@ -1,7 +1,7 @@
 ---
 imdb: "0780536"
 date: "2016-03-07"
-categories: "movies"
+categories: [ "movies" ]
 title: "Na Mira do Chefe"
 stars: "4/5"
 desc: "Na Mira do Chefe. In Bruges (UK, 2008). Dirigido por Martin McDonagh. Escrito por Martin McDonagh. Com Elizabeth Berrington, Rudy Blomme, Olivier Bonjour, Mark Donovan, Ann Elsley, Colin Farrell, Jean-Marc Favorin, Ralph Fiennes, Brendan Gleeson."

@@ -1,7 +1,7 @@
 ---
 imdb: "3168230"
 date: "2015-12-27"
-categories: "movies"
+categories: [ "movies" ]
 title: "Mr. Holmes"
 stars: "3/5"
 desc: "Mr. Holmes. Mr. Holmes (UK, 2015). Dirigido por Bill Condon. Escrito por Mitch Cullin, Jeffrey Hatcher, Arthur Conan Doyle. Com Ian McKellen, Laura Linney, Milo Parker, Hiroyuki Sanada, Hattie Morahan, Patrick Kennedy, Roger Allam, Philip Davis, Frances de la Tour."

@@ -1,7 +1,7 @@
 ---
 imdb: "1103153"
 date: "2010-08-27"
-categories: "movies"
+categories: [ "movies" ]
 title: "Par Perfeito"
 stars: "3/5"
 desc: "Par Perfeito. Killers (USA, 2010). Dirigido por Robert Luketic. Escrito por Bob DeRosa, Ted Griffin, Bob DeRosa. Com Ashton Kutcher, Katherine Heigl, Tom Selleck, Catherine O'Hara, Katheryn Winnick, Kevin Sussman, Lisa Ann Walter, Casey Wilson, Rob Riggle."

@@ -1,7 +1,7 @@
 ---
 imdb: "0067204"
 date: "2015-01-21"
-categories: "movies"
+categories: [ "movies" ]
 title: "Pistoleiro Sem Destino"
 stars: "4/5"
 desc: "Pistoleiro Sem Destino. The Hired Hand (USA, 1971). Dirigido por Peter Fonda. Escrito por Alan Sharp. Com Peter Fonda, Warren Oates, Verna Bloom, Robert Pratt, Severn Darden, Rita Rogers, Ann Doran, Ted Markland, Owen Orr."

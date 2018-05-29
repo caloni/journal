@@ -1,7 +1,7 @@
 ---
 imdb: "2024544"
 date: "2015-03-19"
-categories: "movies"
+categories: [ "movies" ]
 title: "12 Anos de Escravidão"
 stars: "5/5"
 desc: "12 Anos de Escravidão. 12 Years a Slave (USA, 2013). Dirigido por Steve McQueen. Escrito por John Ridley, Solomon Northup. Com Chiwetel Ejiofor, Dwight Henry, Dickie Gravois, Bryan Batt, Ashley Dyke, Kelsey Scott, Quvenzhané Wallis, Cameron Zeigler, Tony Bentley."

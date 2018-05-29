@@ -1,7 +1,7 @@
 ---
 imdb: "1623288"
 date: "2013-01-20"
-categories: "movies"
+categories: [ "movies" ]
 title: "ParaNorman"
 stars: "3/5"
 desc: "ParaNorman. ParaNorman (USA, 2012). Dirigido por Chris Butler, Sam Fell. Escrito por Chris Butler. Com Kodi Smit-McPhee, Tucker Albrizzi, Anna Kendrick, Casey Affleck, Christopher Mintz-Plasse, Leslie Mann, Jeff Garlin, Elaine Stritch, Bernard Hill."

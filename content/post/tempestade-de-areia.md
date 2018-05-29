@@ -2,7 +2,7 @@
 tags: ['mostrasp']
 imdb: "4365518"
 date: "2016-10-21"
-categories: "movies"
+categories: [ "movies" ]
 title: "Tempestade de Areia"
 stars: "4/5"
 desc: "Tempestade de Areia. Sufat Chol (Israel, 2016). Dirigido por Elite Zexer. Escrito por Elite Zexer. Com Lamis Ammar (Layla), Ruba Blal (Jalila), Hitham Omari (Suliman), Khadija Al Akel (Tasnim), Jalal Masrwa (Anwar)."

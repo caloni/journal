@@ -1,7 +1,7 @@
 ---
 imdb: "1320253"
 date: "2010-08-13"
-categories: "movies"
+categories: [ "movies" ]
 title: "Os Mercenários"
 stars: "2/5"
 desc: "Os Mercenários. The Expendables (USA, 2010). Dirigido por Sylvester Stallone. Escrito por Dave Callaham, Sylvester Stallone, Dave Callaham. Com Sylvester Stallone, Jason Statham, Jet Li, Dolph Lundgren, Eric Roberts, Randy Couture, Steve Austin, David Zayas, Giselle Itié."

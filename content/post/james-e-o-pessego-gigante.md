@@ -1,7 +1,7 @@
 ---
 imdb: "0116683"
 date: "2014-12-30"
-categories: "movies"
+categories: [ "movies" ]
 title: "James e o Pêssego Gigante"
 stars: "4/5"
 desc: "James e o Pêssego Gigante. James and the Giant Peach (UK, 1996). Dirigido por Henry Selick. Escrito por Roald Dahl, Karey Kirkpatrick, Jonathan Roberts, Steve Bloom. Com Simon Callow, Richard Dreyfuss, Jane Leeves, Joanna Lumley, Miriam Margolyes, Pete Postlethwaite, Susan Sarandon, Paul Terry, David Thewlis."

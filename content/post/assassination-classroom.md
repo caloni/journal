@@ -1,7 +1,7 @@
 ---
 imdb: "3853452"
 date: "2015-12-28"
-categories: "movies"
+categories: [ "movies" ]
 title: "Assassination Classroom"
 stars: "3/5"
 desc: "Assassination Classroom. Ansatsu kyôshitsu (Japan, 2015). Dirigido por Eiichirô Hasumi. Escrito por Yûsei Matsui, Tatsuya Kanazawa. Com Okuma Anmi, Wakana Aoi, Shôta Arai, Tanaka Nichinan Ayano, Ozawa Guami, Miyahara Hana-on, Kanna Hashimoto, Riku Ichikawa, Jiyoung Kang."

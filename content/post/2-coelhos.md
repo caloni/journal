@@ -1,7 +1,7 @@
 ---
 imdb: "1753722"
 date: "2012-02-15"
-categories: "movies"
+categories: [ "movies" ]
 title: "2 Coelhos"
 stars: "4/5"
 desc: "2 Coelhos. 2 Coelhos (Brazil, 2012). Dirigido por Afonso Poyart. Escrito por Afonso Poyart. Com Fernando Alves Pinto, Alessandra Negrini, Caco Ciocler, Marat Descartes, Neco Villa Lobos, Thaíde, Robson Nunes, Thogun, Roberto Marchese."

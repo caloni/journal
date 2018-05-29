@@ -1,7 +1,7 @@
 ---
 imdb: "0156610"
 date: "2012-04-12"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Buraco"
 stars: "3/5"
 desc: "O Buraco. Dong (Taiwan, 1998). Dirigido por Ming-liang Tsai. Escrito por Ming-liang Tsai, Pi-ying Yang. Com Kuei-Mei Yang, Kang-sheng Lee, Tien Miao, Hui-Chin Lin, Hsiang-Chu Tong, Lin Kun-huei, Jacques Picoux."

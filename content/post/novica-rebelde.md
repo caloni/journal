@@ -1,7 +1,7 @@
 ---
 imdb: "0059742"
 date: "2014-11-15"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Noviça Rebelde"
 stars: "5/5"
 desc: "A Noviça Rebelde. The Sound of Music (USA, 1965). Dirigido por Robert Wise. Escrito por George Hurdalek, Howard Lindsay, Russel Crouse, Ernest Lehman, Maria von Trapp. Com Julie Andrews, Christopher Plummer, Eleanor Parker, Richard Haydn, Peggy Wood, Charmian Carr, Heather Menzies-Urich, Nicholas Hammond, Duane Chase."

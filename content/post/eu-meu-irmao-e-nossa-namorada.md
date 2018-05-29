@@ -1,7 +1,7 @@
 ---
 imdb: "0480242"
 date: "2012-07-20"
-categories: "movies"
+categories: [ "movies" ]
 title: "Eu Meu Irmão e Nossa Namorada"
 stars: "3/5"
 desc: "Eu Meu Irmão e Nossa Namorada. Dan in Real Life (USA, 2007). Dirigido por Peter Hedges. Escrito por Pierce Gardner, Peter Hedges. Com Steve Carell, Juliette Binoche, Dane Cook, Alison Pill, Britt Robertson, Marlene Lawston, Dianne Wiest, John Mahoney, Norbert Leo Butz."

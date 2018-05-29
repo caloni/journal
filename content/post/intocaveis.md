@@ -1,7 +1,7 @@
 ---
 imdb: "1675434"
 date: 2016-07-28
-categories: "movies"
+categories: [ "movies" ]
 title: "Intocáveis"
 stars: "4/5"
 revision: [datetime.date(2015, 10, 11), datetime.date(2016, 7, 28)]

@@ -2,7 +2,7 @@
 tags: ['paulocoelho']
 imdb: "0017075"
 date: "2017-01-11"
-categories: "movies"
+categories: [ "movies" ]
 title: "The Lodger: A Story of the London Fog"
 stars: "4/5"
 desc: "The Lodger: A Story of the London Fog. The Lodger: A Story of the London Fog (UK, 1927). Dirigido por Alfred Hitchcock. Escrito por Marie Belloc Lowndes, Eliot Stannard, Alfred Hitchcock. Com Marie Ault (The landlady), Arthur Chesney (Her husband), June Tripp (a mannequin Daisy), Malcolm Keen (a police detective Joe), Ivor Novello (The Lodger), Reginald Gardiner (Dancer at Ball), Eve Gray (Showgirl Victim), Alfred Hitchcock (Extra in Newspaper Office), Alma Reville (Woman Listening to Wireless)."

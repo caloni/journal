@@ -1,7 +1,7 @@
 ---
 imdb: "0100157"
 date: "2014-02-09"
-categories: "movies"
+categories: [ "movies" ]
 title: "Louca Obsessão"
 stars: "5/5"
 desc: "Louca Obsessão. Misery (USA, 1990). Dirigido por Rob Reiner. Escrito por Stephen King, William Goldman. Com James Caan, Kathy Bates, Richard Farnsworth, Frances Sternhagen, Lauren Bacall, Graham Jarvis, Jerry Potter, Thomas Brunelle, June Christopher."

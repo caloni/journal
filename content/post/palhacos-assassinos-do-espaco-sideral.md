@@ -1,7 +1,7 @@
 ---
 imdb: "0095444"
 date: "2012-09-24"
-categories: "movies"
+categories: [ "movies" ]
 title: "Palhaços Assassinos"
 stars: "3/5"
 desc: "Palhaços Assassinos. Killer Klowns from Outer Space (USA, 1988). Dirigido por Stephen Chiodo. Escrito por Charles Chiodo, Edward Chiodo, Stephen Chiodo. Com Grant Cramer, Suzanne Snyder, John Allen Nelson, John Vernon, Michael S. Siegel, Peter Licassi, Royal Dano, Christopher Titus, Irene Michaels."

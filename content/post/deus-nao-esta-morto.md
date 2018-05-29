@@ -1,7 +1,7 @@
 ---
 imdb: "2528814"
 date: "2015-09-28"
-categories: "movies"
+categories: [ "movies" ]
 title: "Deus Não Está Morto"
 stars: "2/5"
 desc: "Deus Não Está Morto. God's Not Dead (USA, 2014). Dirigido por Harold Cronk. Escrito por Hunter Dennis, Chuck Konzelman, Chuck Konzelman, Cary Solomon, Cary Solomon. Com Kevin Sorbo, Shane Harper, David A.R. White, Dean Cain, Michael Tait, Jody Davis, Jeff Frankenstein, Duncan Phillips, Willie Robertson."

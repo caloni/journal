@@ -1,7 +1,7 @@
 ---
 imdb: "2069985"
 date: "2012-10-28"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Peso da Culpa"
 stars: "3/5"
 desc: "O Peso da Culpa. Schuld sind immer die Anderen (Germany, 2012). Dirigido por Lars-Gunnar Lotz. Escrito por Anna Prassler. Com Edin Hasanovic, Julia Brendler, Marc Benjamin Puch, Pit Bukowski, Natalia Rudziewicz, Alexander Becht, Attila Borlan, Hassan Chahrour, Benjamin Erdmann."

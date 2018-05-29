@@ -1,7 +1,7 @@
 ---
 imdb: "1182345"
 date: "2015-10-06"
-categories: "movies"
+categories: [ "movies" ]
 title: "Lunar"
 stars: "4/5"
 desc: "Lunar. Moon (UK, 2009). Dirigido por Duncan Jones. Escrito por Duncan Jones, Nathan Parker. Com Sam Rockwell, Kevin Spacey, Dominique McElligott, Rosie Shaw, Adrienne Shaw, Kaya Scodelario, Benedict Wong, Matt Berry, Malcolm Stewart."

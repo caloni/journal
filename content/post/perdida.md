@@ -1,7 +1,7 @@
 ---
 imdb: "1524566"
 date: "2015-12-04"
-categories: "movies"
+categories: [ "movies" ]
 title: "Perdida"
 stars: "4/5"
 desc: "Perdida. Perdida (Mexico, 2009). Dirigido por Viviana García-Besné. Escrito por Viviana García-Besné, Edson Lechuga. Com Guillermo Calderón, José Luis Calderón, Pedro A. Calderón, Joaquín Cordero, Emilia Guiú, Antonio de Hud, Rafael Inclán, Agustín Lara, Lyn May."

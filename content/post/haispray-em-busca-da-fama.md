@@ -1,7 +1,7 @@
 ---
 imdb: "0427327"
 date: "2012-05-14"
-categories: "movies"
+categories: [ "movies" ]
 title: "Hairspray Em Busca da Fama"
 stars: "3/5"
 desc: "Hairspray Em Busca da Fama. Hairspray (USA, 2007). Dirigido por Adam Shankman. Escrito por Leslie Dixon, John Waters, Mark O'Donnell, Thomas Meehan. Com John Travolta, Michelle Pfeiffer, Christopher Walken, Amanda Bynes, James Marsden, Queen Latifah, Brittany Snow, Zac Efron, Elijah Kelley."

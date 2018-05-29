@@ -1,7 +1,7 @@
 ---
 imdb: "0120601"
 date: "2012-01-02"
-categories: "movies"
+categories: [ "movies" ]
 title: "Quero Ser John Malkovich"
 stars: "5/5"
 desc: "Quero Ser John Malkovich. Being John Malkovich (USA, 1999). Dirigido por Spike Jonze. Escrito por Charlie Kaufman. Com John Cusack, Cameron Diaz, Ned Bellamy, Eric Weinstein, Madison Lanc, Octavia Spencer, Mary Kay Place, Orson Bean, Catherine Keener."

@@ -2,7 +2,7 @@
 tags: ['cinema', 'mcu', 'guardioesdagalaxia']
 imdb: "3896198"
 date: "2017-04-27"
-categories: "movies"
+categories: [ "movies" ]
 title: "Guardiões da Galáxia Vol. 2"
 stars: "5/5"
 desc: "Guardiões da Galáxia Vol. 2. Guardians of the Galaxy Vol. 2 (USA, 2017). Dirigido por James Gunn. Escrito por James Gunn, Dan Abnett, Andy Lanning, Steve Englehart, Steve Gan, Jim Starlin, Stan Lee, Larry Lieber, Jack Kirby. Com Chris Pratt (Peter Quill / Star-Lord), Zoe Saldana (Gamora), Dave Bautista (Drax), Vin Diesel (Baby Groot), Bradley Cooper (Rocket), Michael Rooker (Yondu), Karen Gillan (Nebula), Pom Klementieff (Mantis), Sylvester Stallone (Stakar Ogord), Kurt Russell (Ego)."

@@ -1,7 +1,7 @@
 ---
 imdb: "0472181"
 date: "2011-09-11"
-categories: "movies"
+categories: [ "movies" ]
 title: "Os Smurfs"
 stars: "3/5"
 desc: "Os Smurfs. The Smurfs (USA, 2011). Dirigido por Raja Gosnell. Escrito por J. David Stem, David N. Weiss, Jay Scherick, David Ronn, J. David Stem, David N. Weiss, Peyo. Com Hank Azaria, Neil Patrick Harris, Jayma Mays, Sofía Vergara, Tim Gunn, Madison McKinley, Meg Phillips, Julie Chang, Roger Clark."

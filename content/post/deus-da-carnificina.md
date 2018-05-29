@@ -1,7 +1,7 @@
 ---
 imdb: "1692486"
 date: "2015-10-07"
-categories: "movies"
+categories: [ "movies" ]
 title: "Deus da Carnificina"
 stars: "4/5"
 desc: "Deus da Carnificina. Carnage (France, 2011). Dirigido por Roman Polanski. Escrito por Yasmina Reza, Yasmina Reza, Roman Polanski, Michael Katims. Com Jodie Foster, Kate Winslet, Christoph Waltz, John C. Reilly, Elvis Polanski, Eliot Berger, Joseph Rezwin, Nathan Rippy, Tanya Lopert."

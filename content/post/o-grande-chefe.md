@@ -1,7 +1,7 @@
 ---
 imdb: "0469754"
 date: "2015-09-30"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Grande Chefe"
 stars: "5/5"
 desc: "O Grande Chefe. Direktøren for det hele (Denmark, 2006). Dirigido por Lars von Trier. Escrito por Lars von Trier. Com Jens Albinus, Peter Gantzler, Friðrik Þór Friðriksson, Benedikt Erlingsson, Iben Hjejle, Henrik Prip, Mia Lyhne, Casper Christensen, Louise Mieritz."

@@ -1,7 +1,7 @@
 ---
 imdb: "1285246"
 date: "2010-05-14"
-categories: "movies"
+categories: [ "movies" ]
 title: "Mademoiselle Chambon"
 stars: "4/5"
 desc: "Mademoiselle Chambon. Mademoiselle Chambon (France, 2009). Dirigido por Stéphane Brizé. Escrito por Stéphane Brizé, Florence Vignon, Eric Holder. Com Vincent Lindon, Sandrine Kiberlain, Aure Atika, Jean-Marc Thibault, Arthur Le Houérou, Bruno Lochet, Abdellah Moundy, Michelle Goddet, Anne Houdy."

@@ -1,7 +1,7 @@
 ---
 imdb: "1179259"
 date: "2016-07-28"
-categories: "movies"
+categories: [ "movies" ]
 title: "Colegas"
 stars: "1/5"
 desc: "Colegas. Colegas (Brazil, 2012). Dirigido por Marcelo Galvão. Escrito por Marcelo Galvão. Com Ariel Goldenberg, Rita Pokk, Breno Viola, Lima Duarte, Marco Luque, Daniel Torres, Monaliza Marchi, Amélia Bittencourt, Giulia Merigo de Souza."

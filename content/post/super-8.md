@@ -1,7 +1,7 @@
 ---
 imdb: "1650062"
 date: "2011-08-15"
-categories: "movies"
+categories: [ "movies" ]
 title: "Super 8"
 stars: "3/5"
 desc: "Super 8. Super 8 (USA, 2011). Dirigido por J.J. Abrams. Escrito por J.J. Abrams. Com Joel Courtney, Jessica Tuck, Joel McKinnon Miller, Ryan Lee, Zach Mills, Riley Griffiths, Gabriel Basso, Kyle Chandler, Ron Eldard."

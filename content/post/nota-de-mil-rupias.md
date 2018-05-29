@@ -2,7 +2,7 @@
 tags: ['netflix']
 imdb: "2937158"
 date: "2017-04-16"
-categories: "movies"
+categories: [ "movies" ]
 title: "Nota de 1000 Rúpias"
 stars: "3/5"
 desc: "Nota de 1000 Rúpias. Ek Hazarachi Note (India, 2014). Dirigido por Shrihari Sathe. Escrito por Shrikant Bojewar. Com Devendra Gaikwad (Constable Shinde), Usha Naik (Budhi), Pooja Nayak (Sudama's Wife), Sandeep Pathak (Sudama), Shekhar Sathe (Photo Frame Maker), Ganesh Yadav (Uttamrao Jadhav), Shrikant Yadav (Sub-Inspector)."

@@ -1,7 +1,7 @@
 ---
 imdb: "0210843"
 date: "2013-07-13"
-categories: "movies"
+categories: [ "movies" ]
 title: "El Mismo Amor La Misma Lluvia"
 stars: "3/5"
 desc: "El Mismo Amor La Misma Lluvia. El mismo amor, la misma lluvia (Argentina, 1999). Dirigido por Juan José Campanella. Escrito por Juan José Campanella, Fernando Castets. Com Ricardo Darín, Soledad Villamil, Ulises Dumont, Eduardo Blanco, Graciela Tenenbaum, Alfonso De Grazia, Alicia Zanca, Mariana Richaudeau, Alejandro Buzzoni."

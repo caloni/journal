@@ -1,7 +1,7 @@
 ---
 imdb: "1781820"
 date: "2011-10-25"
-categories: "movies"
+categories: [ "movies" ]
 title: "As Flores de Kirkuk"
 stars: "3/5"
 desc: "As Flores de Kirkuk. Golakani Kirkuk - The Flowers of Kirkuk (Italy, 2010). Dirigido por Fariborz Kamkari. Escrito por Fariborz Kamkari, Naseh Kamkari. Com Morjana Alaoui, Ertem Eser, Mohamed Zouaoui, Mohammad Bakri, Maryam Hassouni, Ashraf Hamdi, Falah Fleveh, Shilan Rahmani, Sarkaw Gorany."

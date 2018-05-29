@@ -1,7 +1,7 @@
 ---
 imdb: "2305051"
 date: "2015-05-05"
-categories: "movies"
+categories: [ "movies" ]
 title: "Livre"
 stars: "4/5"
 desc: "Livre. Wild (USA, 2014). Dirigido por Jean-Marc Vallée. Escrito por Nick Hornby, Cheryl Strayed. Com Reese Witherspoon, Laura Dern, Thomas Sadoski, Keene McRae, Michiel Huisman, W. Earl Brown, Gaby Hoffmann, Kevin Rankin, Brian Van Holt."

@@ -1,7 +1,7 @@
 ---
 imdb: "5026038"
 date: "2016-02-06"
-categories: "movies"
+categories: [ "movies" ]
 title: "Reza a Lenda"
 stars: "4/5"
 desc: "Reza a Lenda. Reza a Lenda (Brazil, 2016). Dirigido por Homero Olivetto. Escrito por Homero Olivetto, Patrícia Andrade, Newton Cannito, Homero Olivetto. Com Cauã Reymond, Humberto Martins, Sophie Charlotte, Luisa Arraes, Júlio Andrade, Sílvia Buarque, Jesuíta Barbosa, Nanego Lira, Zezita Matos."

@@ -3,7 +3,7 @@ tags: ['cabine']
 cinemaqui: "http://www.cinemaqui.com.br/variacoes-de-casanova/"
 imdb: "2614400"
 date: "2017-04-11"
-categories: "movies"
+categories: [ "movies" ]
 title: "Variações de Casanova"
 stars: "3/5"
 desc: "Variações de Casanova. Casanova Variations (France, 2014). Dirigido por Michael Sturminger. Escrito por Michael Sturminger, Markus Schleinzer. Com John Malkovich (Giacomo), Veronica Ferres (Elisa), Florian Boesch (Giacomo II), Miah Persson (Elisa II), Lola Naymark (Cecile), Kerstin Avemo (Leonilda), Tracy Ann Oberman (Jessica), Maria João Bastos (Lady Doctor), Kate Lindsey (Belline)."

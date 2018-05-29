@@ -2,7 +2,7 @@
 tags: ['cabine']
 imdb: "3203620"
 date: 2017-08-09T23:43:21
-categories: "movies"
+categories: [ "movies" ]
 title: "O Jantar"
 stars: "4/5"
 desc: "O Jantar. The Dinner (USA, 2017). Dirigido por Oren Moverman. Escrito por Oren Moverman, Herman Koch. Com Michael Chernus (Dylan Heinz), Taylor Rae Almonte (Kamryn Velez), Steve Coogan (Paul Lohman), Charlie Plummer (Michael Lohman), Seamus Davey-Fitzpatrick (Rick Lohman), Miles J. Harvey (Beau Lohman), Laura Hajek (Anna), Laura Linney (Claire Lohman), Richard Gere (Stan Lohman)."

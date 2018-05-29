@@ -1,7 +1,7 @@
 ---
 imdb: "0027977"
 date: "2015-01-05"
-categories: "movies"
+categories: [ "movies" ]
 title: "Tempos Modernos"
 stars: "5/5"
 desc: "Tempos Modernos. Modern Times (USA, 1936). Dirigido por Charles Chaplin. Escrito por Charles Chaplin. Com Charles Chaplin, Paulette Goddard, Henry Bergman, Tiny Sandford, Chester Conklin, Hank Mann, Stanley Blystone, Garcia Al Ernest, Richard Alexander."

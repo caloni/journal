@@ -1,7 +1,7 @@
 ---
 imdb: "1320082"
 date: "2010-12-24"
-categories: "movies"
+categories: [ "movies" ]
 title: "O concerto"
 stars: "4/5"
 desc: "O concerto. Le concert (France, 2009). Dirigido por Radu Mihaileanu. Escrito por Radu Mihaileanu, Alain-Michel Blanc, Matthew Robbins, Radu Mihaileanu, Héctor Cabello Reyes, Thierry Degrandi. Com Aleksey Guskov, Dmitriy Nazarov, Mélanie Laurent, François Berléand, Miou-Miou, Valeriy Barinov, Lionel Abelanski, Laurent Bateau, Vlad Ivanov."

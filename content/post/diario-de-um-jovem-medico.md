@@ -2,7 +2,7 @@
 tags: ['netflix', 'series']
 imdb: "2164430"
 date: "2014-12-01"
-categories: "series"
+categories: [ "series" ]
 title: "Diário de um Jovem Médico"
 stars: "3/5"
 revision: [datetime.date(2016, 6, 12)]

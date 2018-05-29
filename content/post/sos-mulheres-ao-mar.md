@@ -1,7 +1,7 @@
 ---
 imdb: "3035582"
 date: "2016-01-04"
-categories: "movies"
+categories: [ "movies" ]
 title: "S.O.S.: Mulheres ao Mar"
 stars: "2/5"
 desc: "S.O.S.: Mulheres ao Mar. S.O.S.: Mulheres ao Mar (Brazil, 2014). Dirigido por Cris D'Amato. Escrito por Sylvio Gonçalves, Rodrigo Nogueira, Marcelo Saback. Com Giovanna Antonelli, Reynaldo Gianecchini, Fabiula Nascimento, Thalita Carauta, Emanuelle Araújo, Marcello Airoldi, Theresa Amayo, Rodrigo Ferrarini, Sergio Múñiz."

@@ -1,7 +1,7 @@
 ---
 imdb: "1723811"
 date: "2012-03-18"
-categories: "movies"
+categories: [ "movies" ]
 title: "Shame"
 stars: "4/5"
 desc: "Shame. Shame (UK, 2011). Dirigido por Steve McQueen. Escrito por Steve McQueen, Abi Morgan. Com Michael Fassbender, Lucy Walters, Mari-Ange Ramirez, James Badge Dale, Nicole Beharie, Alex Manette, Hannah Ware, Elizabeth Masucci, Rachel Farrar."

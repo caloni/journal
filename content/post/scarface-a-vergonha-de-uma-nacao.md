@@ -1,7 +1,7 @@
 ---
 imdb: "0023427"
 date: "2015-12-29"
-categories: "movies"
+categories: [ "movies" ]
 title: "Scarface: A Vergonha de uma Nação"
 stars: "5/5"
 desc: "Scarface: A Vergonha de uma Nação. Scarface (USA, 1932). Dirigido por Howard Hawks, Richard Rosson. Escrito por Armitage Trail, Ben Hecht, Seton I. Miller, John Lee Mahin, W.R. Burnett, Seton I. Miller, John Lee Mahin, W.R. Burnett, Howard Hawks. Com Paul Muni, Ann Dvorak, Karen Morley, Osgood Perkins, C. Henry Gordon, George Raft, Vince Barnett, Boris Karloff, Purnell Pratt."

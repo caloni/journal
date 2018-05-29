@@ -1,7 +1,7 @@
 ---
 imdb: "1340800"
 date: "2012-01-17"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Espião Que Sabia Demais"
 stars: "4/5"
 desc: "O Espião Que Sabia Demais. Tinker Tailor Soldier Spy (France, 2011). Dirigido por Tomas Alfredson. Escrito por Bridget O'Connor, Peter Straughan, John le Carré. Com Mark Strong, John Hurt, Zoltán Mucsi, Péter Kálloy Molnár, Ilona Kassai, Imre Csuja, Gary Oldman, Toby Jones, David Dencik."

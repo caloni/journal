@@ -1,7 +1,7 @@
 ---
 imdb: "1228705"
 date: "2010-04-03"
-categories: "movies"
+categories: [ "movies" ]
 title: "Homem de Ferro 2"
 stars: "3/5"
 desc: "Homem de Ferro 2. Iron Man 2 (USA, 2010). Dirigido por Jon Favreau. Escrito por Justin Theroux, Stan Lee, Don Heck, Larry Lieber, Jack Kirby. Com Robert Downey Jr., Gwyneth Paltrow, Don Cheadle, Scarlett Johansson, Sam Rockwell, Mickey Rourke, Samuel L. Jackson, Clark Gregg, John Slattery."

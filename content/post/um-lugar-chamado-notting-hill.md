@@ -1,7 +1,7 @@
 ---
 imdb: "0125439"
 date: "2010-08-27"
-categories: "movies"
+categories: [ "movies" ]
 title: "Um Lugar Chamado Notting Hill"
 stars: "4/5"
 desc: "Um Lugar Chamado Notting Hill. Notting Hill (UK, 1999). Dirigido por Roger Michell. Escrito por Richard Curtis. Com Julia Roberts, Hugh Grant, Richard McCabe, Rhys Ifans, James Dreyfus, Dylan Moran, Roger Frost, Henry Goodman, Julian Rhind-Tutt."

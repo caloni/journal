@@ -1,7 +1,7 @@
 ---
 imdb: "0278504"
 date: "2012-04-02"
-categories: "movies"
+categories: [ "movies" ]
 title: "Insônia"
 stars: "5/5"
 desc: "Insônia. Insomnia (USA, 2002). Dirigido por Christopher Nolan. Escrito por Hillary Seitz, Nikolaj Frobenius, Erik Skjoldbjærg. Com Al Pacino, Martin Donovan, Oliver 'Ole' Zemen, Hilary Swank, Paul Dooley, Nicky Katt, Larry Holden, Jay Brazeau, Lorne Cardinal."

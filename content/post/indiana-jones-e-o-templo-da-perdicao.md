@@ -2,7 +2,7 @@
 tags: ['netflix']
 imdb: "0087469"
 date: "2016-10-23"
-categories: "movies"
+categories: [ "movies" ]
 title: "Indiana Jones e o Templo da Perdição"
 stars: "5/5"
 desc: "Indiana Jones e o Templo da Perdição. Indiana Jones and the Temple of Doom (USA, 1984). Dirigido por Steven Spielberg. Escrito por Willard Huyck, Gloria Katz, George Lucas. Com Harrison Ford (Indiana Jones), Kate Capshaw (Willie Scott), Jonathan Ke Quan (Short Round), Amrish Puri (Mola Ram), Roshan Seth (Chattar Lal), Philip Stone (Captain Blumburtt), Roy Chiao (Lao Che), David Yip (Wu Han), Ric Young (Kao Kan)."

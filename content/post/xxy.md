@@ -1,7 +1,7 @@
 ---
 imdb: "0995829"
 date: "2012-01-24"
-categories: "movies"
+categories: [ "movies" ]
 title: "XXY"
 stars: "2/5"
 desc: "XXY. XXY (Argentina, 2007). Dirigido por Lucía Puenzo. Escrito por Lucía Puenzo, Sergio Bizzio. Com Ricardo Darín, Valeria Bertuccelli, Germán Palacios, Carolina Pelleritti, Martín Piroyansky, Inés Efron, Guillermo Angelelli, César Troncoso, Jean Pierre Reguerraz."

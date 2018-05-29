@@ -1,7 +1,7 @@
 ---
 imdb: "1821549"
 date: "2015-01-11"
-categories: "movies"
+categories: [ "movies" ]
 title: "Nebraska"
 stars: "5/5"
 desc: "Nebraska. Nebraska (USA, 2013). Dirigido por Alexander Payne. Escrito por Bob Nelson. Com Bruce Dern, Will Forte, June Squibb, Bob Odenkirk, Stacy Keach, Mary Louise Wilson, Rance Howard, Tim Driscoll, Devin Ratray."

@@ -2,7 +2,7 @@
 tags: ['paulocoelho']
 imdb: "0017825"
 date: "2016-12-15"
-categories: "movies"
+categories: [ "movies" ]
 title: "Downhill"
 stars: "4/5"
 desc: "Downhill. Downhill (UK, 1927). Dirigido por Alfred Hitchcock. Escrito por Constance Collier, Ivor Novello, Eliot Stannard. Com Ivor Novello (Roddy Berwick), Ben Webster (Dr. Dawson), Norman McKinnel (Sir Thomas Berwick), Robin Irvine (Tim Wakeley), Jerrold Robertshaw (The Rev. Henry Wakeley), Sybil Rhoda (Sybil Wakeley), Annette Benson (Mabel), Lilian Braithwaite (Lady Berwick), Isabel Jeans (Julia)."

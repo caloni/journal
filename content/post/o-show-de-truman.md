@@ -1,7 +1,7 @@
 ---
 imdb: "0120382"
 date: "2013-10-20"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Show de Truman"
 stars: "5/5"
 desc: "O Show de Truman. The Truman Show (USA, 1998). Dirigido por Peter Weir. Escrito por Andrew Niccol. Com Jim Carrey, Laura Linney, Noah Emmerich, Natascha McElhone, Holland Taylor, Brian Delate, Blair Slater, Peter Krause, Heidi Schanz."

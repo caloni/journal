@@ -2,7 +2,7 @@
 tags: ['netflix']
 imdb: "5728684"
 date: "2016-11-23"
-categories: "movies"
+categories: [ "movies" ]
 title: "Sour Grapes"
 stars: "4/5"
 desc: "Sour Grapes. Sour Grapes (UK, 2016). Dirigido por Reuben Atlas, Jerry Rothwell. Com Laurent Ponsot (Himself, wine producer in Burgundy, France), Jay McInerney (novelist and wine columnist Himself), Jefery Levy (Himself), Maureen Downey (wine consultant Herself), Rudy Kurniawan (convicted wine counterfeiter Himself), Rajat Parr (sommelier Himself), Arthur M. Sarkissian (Himself), Corie Brown (Herself, food and wine writer, Zester Daily), Don Cornwell (lawyer and burgundy wine expert Himself)."

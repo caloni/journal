@@ -1,7 +1,7 @@
 ---
 imdb: "0255477"
 date: "2012-02-20"
-categories: "movies"
+categories: [ "movies" ]
 title: "Pinóquio"
 stars: "2/5"
 desc: "Pinóquio. Pinocchio (Italy, 2002). Dirigido por Roberto Benigni. Escrito por Roberto Benigni, Vincenzo Cerami, Carlo Collodi, Brendan Donnison. Com Roberto Benigni, Nicoletta Braschi, Mino Bellei, Carlo Giuffrè, Peppe Barra, Franco Iavarone, Max Cavallari, Bruno Arena, Corrado Pani."

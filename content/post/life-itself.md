@@ -1,7 +1,7 @@
 ---
 imdb: "2382298"
 date: "2015-03-22"
-categories: "movies"
+categories: [ "movies" ]
 title: "Life Itself"
 stars: "4/5"
 desc: "Life Itself. Life Itself (USA, 2014). Dirigido por Steve James. Com Martin Scorsese, Werner Herzog, Ava DuVernay, Roger Ebert, Errol Morris, Stephen Stanton, Ramin Bahrani, Steve James, Chaz Ebert."

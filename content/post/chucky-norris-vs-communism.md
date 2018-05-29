@@ -2,7 +2,7 @@
 tags: ['netflix']
 imdb: "2442080"
 date: "2017-03-26"
-categories: "movies"
+categories: [ "movies" ]
 title: "Chuck Norris vs. Communism"
 stars: "4/5"
 desc: "Chuck Norris vs. Communism. Chuck Norris vs. Communism (UK, 2015). Dirigido por Ilinca Calugareanu. Escrito por Ilinca Calugareanu. Com Irina Margareta Nistor (Herself), Ana Maria Moldovan (Irina Margareta Nistor), Dan Chiorean (Teodor Zamfir), Valentin Oncu (Mircea), Cristian Stanca (Orzan), Petre Bacioiu (Petrulea), Elena Ivanca (Mrs. Cristea), Florin Mircea (Mihaies), Ileana Negru (Mrs. Urse)."

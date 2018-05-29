@@ -1,7 +1,7 @@
 ---
 imdb: "1942884"
 date: "2013-06-17"
-categories: "movies"
+categories: [ "movies" ]
 title: "Indie Game The Movie"
 stars: "3/5"
 desc: "Indie Game The Movie. Indie Game: The Movie (Canada, 2012). Dirigido por Lisanne Pajot, James Swirsky. Com Jonathan Blow, Phil Fish, Edmund McMillen, Tommy Refenes, Joe Drilling."

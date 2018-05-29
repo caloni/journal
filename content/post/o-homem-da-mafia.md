@@ -1,7 +1,7 @@
 ---
 imdb: "1764234"
 date: "2012-12-12"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Homem da Máfia"
 stars: "5/5"
 desc: "O Homem da Máfia. Killing Them Softly (USA, 2012). Dirigido por Andrew Dominik. Escrito por Andrew Dominik, George V. Higgins. Com Brad Pitt, Scoot McNairy, Ben Mendelsohn, James Gandolfini, Richard Jenkins, Vincent Curatola, Ray Liotta, Trevor Long, Max Casella."

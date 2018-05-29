@@ -1,7 +1,7 @@
 ---
 imdb: "0492044"
 date: "2014-06-12"
-categories: "movies"
+categories: [ "movies" ]
 title: "Evocando Espíritos"
 stars: "3/5"
 desc: "Evocando Espíritos. The Haunting in Connecticut (USA, 2009). Dirigido por Peter Cornwell. Escrito por Adam Simon, Tim Metcalfe. Com Virginia Madsen, Kyle Gallner, Elias Koteas, Amanda Crew, Martin Donovan, Sophi Knight, Ty Wood, Erik J. Berg, John Bluethner."

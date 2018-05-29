@@ -1,7 +1,7 @@
 ---
 imdb: "3302820"
 date: "2015-12-17"
-categories: "movies"
+categories: [ "movies" ]
 title: "Cowspiracy: The Sustainability Secret"
 stars: "3/5"
 desc: "Cowspiracy: The Sustainability Secret. Cowspiracy: The Sustainability Secret (USA, 2014). Dirigido por Kip Andersen, Keegan Kuhn. Escrito por Kip Andersen, Keegan Kuhn. Com Lisa Agabian, Manucher Alemi, Lindsey Allen, Kip Andersen, Will Anderson, Deniz Bolbol, Heather Cooley, Kamyar Guivetchi, Bruce Hamilton."

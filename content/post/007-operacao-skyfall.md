@@ -1,7 +1,7 @@
 ---
 imdb: "1074638"
 date: "2012-11-08"
-categories: "movies"
+categories: [ "movies" ]
 title: "007 Operação Skyfall"
 stars: "5/5"
 desc: "007 Operação Skyfall. Skyfall (UK, 2012). Dirigido por Sam Mendes. Escrito por Neal Purvis, Robert Wade, John Logan, Ian Fleming. Com Daniel Craig, Judi Dench, Javier Bardem, Ralph Fiennes, Naomie Harris, Bérénice Marlohe, Albert Finney, Ben Whishaw, Rory Kinnear."

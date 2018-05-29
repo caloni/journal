@@ -1,7 +1,7 @@
 ---
 imdb: "1823664"
 date: "2015-02-22"
-categories: "movies"
+categories: [ "movies" ]
 title: "Annie"
 stars: "2/5"
 desc: "Annie. Annie (USA, 2014). Dirigido por Will Gluck. Escrito por Will Gluck, Aline Brosh McKenna, Thomas Meehan, Harold Gray. Com Jamie Foxx, Quvenzhané Wallis, Rose Byrne, Bobby Cannavale, Adewale Akinnuoye-Agbaje, David Zayas, Cameron Diaz, Zoe Margaret Colletti, Nicolette Pierini."

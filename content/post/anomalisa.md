@@ -1,7 +1,7 @@
 ---
 imdb: "2401878"
 date: "2016-07-31"
-categories: "movies"
+categories: [ "movies" ]
 title: "Anomalisa"
 stars: "5/5"
 desc: "Anomalisa. Anomalisa (USA, 2015). Dirigido por Duke Johnson, Charlie Kaufman. Escrito por Charlie Kaufman, Charlie Kaufman. Com David Thewlis, Jennifer Jason Leigh, Tom Noonan."

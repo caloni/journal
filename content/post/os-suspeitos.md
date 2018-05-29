@@ -1,7 +1,7 @@
 ---
 imdb: "0114814"
 date: "2014-10-04"
-categories: "movies"
+categories: [ "movies" ]
 title: "Os Suspeitos"
 stars: "5/5"
 desc: "Os Suspeitos. The Usual Suspects (USA, 1995). Dirigido por Bryan Singer. Escrito por Christopher McQuarrie. Com Stephen Baldwin, Gabriel Byrne, Benicio Del Toro, Kevin Pollak, Kevin Spacey, Chazz Palminteri, Pete Postlethwaite, Suzy Amis, Giancarlo Esposito."

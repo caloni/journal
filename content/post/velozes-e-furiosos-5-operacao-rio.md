@@ -1,7 +1,7 @@
 ---
 imdb: "1596343"
 date: "2011-05-25"
-categories: "movies"
+categories: [ "movies" ]
 title: "Velozes e Furiosos 5 Operação Rio"
 stars: "4/5"
 desc: "Velozes e Furiosos 5 Operação Rio. Fast Five (USA, 2011). Dirigido por Justin Lin. Escrito por Chris Morgan, Gary Scott Thompson. Com Vin Diesel, Paul Walker, Jordana Brewster, Tyrese Gibson, Ludacris, Matt Schulze, Sung Kang, Gal Gadot, Tego Calderon."

@@ -1,7 +1,7 @@
 ---
 imdb: "0120595"
 date: "2012-01-30"
-categories: "movies"
+categories: [ "movies" ]
 title: "Babe O Porquinho Atrapalhado na Cidade"
 stars: "4/5"
 desc: "Babe O Porquinho Atrapalhado na Cidade. Babe: Pig in the City (Australia, 1998). Dirigido por George Miller. Escrito por George Miller, Judy Morris, Mark Lamprell, Dick King-Smith. Com Magda Szubanski, James Cromwell, Mary Stein, Mickey Rooney, Elizabeth Daily, Danny Mann, Glenne Headly, Steven Wright, James Cosmo."

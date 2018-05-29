@@ -2,7 +2,7 @@
 tags: ['netflix']
 imdb: "0473753"
 date: "2017-03-26"
-categories: "movies"
+categories: [ "movies" ]
 title: "Angel-A"
 stars: "3/5"
 desc: "Angel-A. Angel-A (France, 2005). Dirigido por Luc Besson. Escrito por Luc Besson. Com Jamel Debbouze (André Moussah), Rie Rasmussen (Angel-A), Gilbert Melki (Franck), Serge Riaboukine (Pedro), Akim Chir (Le chef des malfrats), Eric Balliet (Garde du corps Franck), Loïc Pora (Le malfrat #2), Venus Boone (La mère d'Angela), Jérôme Guesdon (Le malfrat #3)."

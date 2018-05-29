@@ -2,7 +2,7 @@
 tags: ['cinema', 'dceu']
 imdb: "0770828"
 date: "2013-07-13"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Homem de Aço"
 stars: "3/5"
 desc: "O Homem de Aço. Man of Steel (USA, 2013). Dirigido por Zack Snyder. Escrito por David S. Goyer, David S. Goyer, Christopher Nolan, Jerry Siegel, Joe Shuster. Com Henry Cavill, Amy Adams, Michael Shannon, Diane Lane, Russell Crowe, Antje Traue, Harry Lennix, Richard Schiff, Christopher Meloni."

@@ -1,7 +1,7 @@
 ---
 imdb: "0074958"
 date: "2015-12-27"
-categories: "movies"
+categories: [ "movies" ]
 title: "Rede de Intrigas"
 stars: "5/5"
 desc: "Rede de Intrigas. Network (USA, 1976). Dirigido por Sidney Lumet. Escrito por Paddy Chayefsky. Com Faye Dunaway, William Holden, Peter Finch, Robert Duvall, Wesley Addy, Ned Beatty, Arthur Burghardt, Bill Burrows, John Carpenter."

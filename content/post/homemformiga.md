@@ -1,7 +1,7 @@
 ---
 imdb: "0478970"
 date: "2015-11-07"
-categories: "movies"
+categories: [ "movies" ]
 title: "Homem-Formiga"
 stars: "3/5"
 desc: "Homem-Formiga. Ant-Man (USA, 2015). Dirigido por Peyton Reed. Escrito por Edgar Wright, Joe Cornish, Adam McKay, Paul Rudd, Edgar Wright, Joe Cornish, Stan Lee, Larry Lieber, Jack Kirby. Com Paul Rudd, Michael Douglas, Evangeline Lilly, Corey Stoll, Bobby Cannavale, Anthony Mackie, Judy Greer, Abby Ryder Fortson, Michael Peña."

@@ -2,7 +2,7 @@
 tags: ['paulocoelho']
 imdb: "1219827"
 date: 2017-08-25T22:52:16
-categories: "movies"
+categories: [ "movies" ]
 title: "A Vigilante do Amanhã: Ghost In The Shell"
 stars: "3/5"
 desc: "A Vigilante do Amanhã: Ghost In The Shell. Ghost in the Shell (USA, 2017). Dirigido por Rupert Sanders. Escrito por Shirow Masamune, Jamie Moss, William Wheeler, Ehren Kruger. Com Scarlett Johansson (Major), Pilou Asbæk (Batou), Takeshi Kitano (Aramaki), Juliette Binoche (Dr. Ouelet), Michael Pitt (Kuze), Chin Han (Togusa), Danusia Samal (Ladriya), Lasarus Ratuere (Ishikawa), Yutaka Izumihara (Saito)."

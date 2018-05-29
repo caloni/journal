@@ -1,7 +1,7 @@
 ---
 imdb: "1504320"
 date: "2011-11-02"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Discurso do Rei"
 stars: "3/5"
 desc: "O Discurso do Rei. The King's Speech (UK, 2010). Dirigido por Tom Hooper. Escrito por David Seidler. Com Colin Firth, Helena Bonham Carter, Derek Jacobi, Robert Portal, Richard Dixon, Paul Trussell, Adrian Scarborough, Andrew Havill, Charles Armstrong."

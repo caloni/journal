@@ -1,7 +1,7 @@
 ---
 imdb: "0337926"
 date: "2016-03-15"
-categories: "movies"
+categories: [ "movies" ]
 title: "Chatô - O Rei do Brasil"
 stars: "1/5"
 desc: "Chatô - O Rei do Brasil. Chatô - O Rei do Brasil (Brazil, 2015). Dirigido por Guilherme Fontes. Escrito por João Emanuel Carneiro, Guilherme Fontes, Matthew Robbins, Fernando Morais. Com Andrea Beltrão, Paulo Betti, Ingrid Borgoin, Gabriel Braga Nunes, Nathália França, Eliane Giardini, Leandra Leal, Tatiana Monteiro, Luís Antônio Pilar."

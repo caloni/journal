@@ -1,7 +1,7 @@
 ---
 imdb: "0084516"
 date: "2014-03-06"
-categories: "movies"
+categories: [ "movies" ]
 title: "Poltergeist O Fenômeno"
 stars: "4/5"
 desc: "Poltergeist O Fenômeno. Poltergeist (USA, 1982). Dirigido por Tobe Hooper. Escrito por Steven Spielberg, Michael Grais, Mark Victor, Steven Spielberg. Com Craig T. Nelson, JoBeth Williams, Beatrice Straight, Dominique Dunne, Oliver Robins, Heather O'Rourke, Michael McManus, Virginia Kiser, Martin Casella."

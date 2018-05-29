@@ -1,7 +1,7 @@
 ---
 imdb: "1600524"
 date: "2011-11-20"
-categories: "movies"
+categories: [ "movies" ]
 title: "Amores Imaginários"
 stars: "4/5"
 desc: "Amores Imaginários. Les amours imaginaires (Canada, 2010). Dirigido por Xavier Dolan. Escrito por Xavier Dolan. Com Monia Chokri, Niels Schneider, Xavier Dolan, Anne Dorval, Anne-Élisabeth Bossé, Olivier Morin, Magalie Lépine Blondeau, Éric Bruneau, Gabriel Lessard."

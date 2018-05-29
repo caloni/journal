@@ -1,7 +1,7 @@
 ---
 imdb: "1951264"
 date: "2013-07-12"
-categories: "movies"
+categories: [ "movies" ]
 title: "Jogos Vorazes Em Chamas"
 stars: "4/5"
 revision: [datetime.date(2014, 8, 11)]

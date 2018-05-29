@@ -1,7 +1,7 @@
 ---
 imdb: "0096734"
 date: "2012-07-20"
-categories: "movies"
+categories: [ "movies" ]
 title: "Meus Vizinhos São um Terror"
 stars: "3/5"
 desc: "Meus Vizinhos São um Terror. The 'Burbs (USA, 1989). Dirigido por Joe Dante. Escrito por Dana Olsen. Com Tom Hanks, Bruce Dern, Carrie Fisher, Rick Ducommun, Corey Feldman, Wendy Schaal, Henry Gibson, Brother Theodore, Courtney Gains."

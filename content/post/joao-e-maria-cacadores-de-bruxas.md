@@ -1,7 +1,7 @@
 ---
 imdb: "1428538"
 date: "2013-01-28"
-categories: "movies"
+categories: [ "movies" ]
 title: "João e Maria Caçadores de Bruxas"
 stars: "3/5"
 desc: "João e Maria Caçadores de Bruxas. Hansel & Gretel: Witch Hunters (Germany, 2013). Dirigido por Tommy Wirkola. Escrito por Tommy Wirkola. Com Jeremy Renner, Gemma Arterton, Famke Janssen, Pihla Viitala, Derek Mears, Robin Atkin Downes, Ingrid Bolsø Berdal, Joanna Kulig, Thomas Mann."

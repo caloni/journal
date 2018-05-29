@@ -2,7 +2,7 @@
 tags: ['netflix']
 imdb: "1605777"
 date: 2017-08-07T02:08:52
-categories: "movies"
+categories: [ "movies" ]
 title: "Estranha Obsessão"
 stars: "4/5"
 desc: "Estranha Obsessão. La femme du Vème (France, 2011). Dirigido por Pawel Pawlikowski. Escrito por Douglas Kennedy, Pawel Pawlikowski. Com Ethan Hawke (Tom Ricks), Kristin Scott Thomas (Margit), Joanna Kulig (Ania), Samir Guesmi (Sezer), Delphine Chuillot (Nathalie), Julie Papillon (Chloé), Geoffrey Carey (Laurent), Mamadou Minte (Omar), Mohamed Aroussi (Moussa)."

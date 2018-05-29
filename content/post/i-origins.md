@@ -1,7 +1,7 @@
 ---
 imdb: "2884206"
 date: "2015-06-03"
-categories: "movies"
+categories: [ "movies" ]
 title: "I Origins"
 stars: "4/5"
 desc: "I Origins. I Origins (USA, 2014). Dirigido por Mike Cahill. Escrito por Mike Cahill. Com Michael Pitt, Steven Yeun, Astrid Bergès-Frisbey, Brit Marling, Dorien Makhloghi, Charles W. Gray, John Schiumo, Farasha Baylock, Ako."

@@ -1,7 +1,7 @@
 ---
 date: 2018-01-13T18:13:38
 imdb: "5607714"
-categories: "movies"
+categories: [ "movies" ]
 stars: "3/5"
 title: "Corpo e Alma"
 desc: "Corpo e Alma."

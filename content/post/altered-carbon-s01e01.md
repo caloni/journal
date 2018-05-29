@@ -1,7 +1,7 @@
 ---
 date: 2018-03-04T19:25:26
 imdb: "2261227"
-categories: "blog"
+categories: [ "blog" ]
 stars: "3/5"
 title: "Altered Carbon: Piloto"
 desc: "Altered Carbon: Piloto."

@@ -1,7 +1,7 @@
 ---
 imdb: "0066995"
 date: "2013-06-25"
-categories: "movies"
+categories: [ "movies" ]
 title: "007 Os Diamantes São Eternos"
 stars: "3/5"
 desc: "007 Os Diamantes São Eternos. Diamonds Are Forever (UK, 1971). Dirigido por Guy Hamilton. Escrito por Richard Maibaum, Tom Mankiewicz, Ian Fleming. Com Sean Connery, Jill St. John, Charles Gray, Lana Wood, Jimmy Dean, Bruce Cabot, Putter Smith, Bruce Glover, Norman Burton."

@@ -1,7 +1,7 @@
 ---
 date: 2018-05-07T12:59:32-03:00
 title: "Pauline Kael: A Pior e Mais Ridícula Crítica de Todos os Tempos?"
-categories: "blog"
+categories: [ "blog" ]
 desc: "Pauline Kael: one of film's worst and most ridiculous critics. Alex Sheremet. Site: http://alexsheremet.com/pauline-kael-one-films-worst-ridiculous-critics. Data: 2014-11-19. Acessado em: 2018-05-07."
 ---
 ![](https://i.imgur.com/TYUa9ud.jpg) Estava lendo um dos livros de Pauline Kael, uma das poucas coletâneas disponíveis dessa escritora que é considerada a melhor da história do Cinema, **5001 Nights at the Movies**. Nesse livro em questão há resenhas rápidas que eram publicadas nos rodapés do jornal onde Kael escrevia. São texto curtos, de um parágrafo no máximo, mas que fluem, embora condensados em uma ou duas impressões no máximo sobre o filme analisado. Apesar de ser divertido de ler, falta textura, conteúdo, nesses recortes. Portanto procurei por esta textura que tanto falam a respeito dos textos de Kael pela internet. Por um bom tempo me perguntei onde estariam esses textos completos e mais densos dessa escritora, e por que eles não viraram relevantes coletâneas para a análise da crítica cinematográfica. E no meio dessas minhas pesquisas eis que surge o texto de Alex Sheremet.

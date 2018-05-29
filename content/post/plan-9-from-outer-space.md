@@ -1,7 +1,7 @@
 ---
 imdb: "0052077"
 date: "2015-09-23"
-categories: "movies"
+categories: [ "movies" ]
 title: "Plano 9 do Espaço Sideral"
 stars: "2/5"
 desc: "Plano 9 do Espaço Sideral. Plan 9 from Outer Space (USA, 1959). Dirigido por Edward D. Wood Jr.. Escrito por Edward D. Wood Jr. Com Gregory Walcott, Mona McKinnon, Duke Moore, Tom Keene, Carl Anthony, Paul Marco, Tor Johnson, Dudley Manlove, Joanna Lee."

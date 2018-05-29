@@ -1,7 +1,7 @@
 ---
 imdb: "2209418"
 date: "2013-06-27"
-categories: "movies"
+categories: [ "movies" ]
 title: "Antes da Meia-Noite"
 stars: "5/5"
 desc: "Antes da Meia-Noite. Before Midnight (USA, 2013). Dirigido por Richard Linklater. Escrito por Richard Linklater, Julie Delpy, Ethan Hawke, Richard Linklater, Kim Krizan. Com Ethan Hawke, Julie Delpy, Seamus Davey-Fitzpatrick, Jennifer Prior, Charlotte Prior, Xenia Kalogeropoulou, Walter Lassally, Ariane Labed, Yiannis Papadopoulos."

@@ -2,7 +2,7 @@
 tags: ['netflix']
 imdb: "1229822"
 date: "2017-01-15"
-categories: "movies"
+categories: [ "movies" ]
 title: "Jane Eyre"
 stars: "5/5"
 desc: "Jane Eyre. Jane Eyre (UK, 2011). Dirigido por Cary Joji Fukunaga. Escrito por Charlotte Brontë, Moira Buffini. Com Mia Wasikowska (Jane Eyre), Jamie Bell (St John Rivers), Su Elliot (Hannah), Holliday Grainger (Diana Rivers), Tamzin Merchant (Mary Rivers), Amelia Clarkson (Young Jane), Craig Roberts (John Reed), Sally Hawkins (Mrs. Reed), Lizzie Hopley (Miss Abbot)."

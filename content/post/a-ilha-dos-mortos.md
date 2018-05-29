@@ -1,7 +1,7 @@
 ---
 imdb: "1134854"
 date: "2010-12-20"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Ilha dos Mortos"
 stars: "4/5"
 desc: "A Ilha dos Mortos. Survival of the Dead (USA, 2009). Dirigido por George A. Romero. Escrito por George A. Romero. Com Alan Van Sprang, Joshua Peace, Hardee T. Lineham, Dru Viergever, Eric Woolfe, Shawn Roberts, Scott Wentworth, Amy Lalonde, Michelle Morgan."

@@ -2,7 +2,7 @@
 tags: ['netflix', 'paulocoelho']
 imdb: "2861424"
 date: 2017-10-21T21:16:24
-categories: "blog"
+categories: [ "blog" ]
 title: "A Filosofia de Rick And Morty: Primeira Temporada (anotações)"
 stars: "5/5"
 desc: "A Filosofia de Rick And Morty: Primeira Temporada (anotações). Rick and Morty (USA, 2013). Dirigido por Pete Michels, Wesley Archer, Bryan Newton, Juan Jose Meza-Leon, Dominic Polcino, John Rice, Stephen Sandoval, Anthony Chun, Jeff Myers. Escrito por Dan Harmon, Justin Roiland, Tom Kauffman, Eric Acosta, Wade Randolph, Mike McMahan, Ryan Ridley, Matt Roller, Jane Becker. Com Chris Parnell (Jerry Smith / ...), Spencer Grammer (Summer Smith / ...), Sarah Chalke (Beth Smith / ...), Justin Roiland (Rick Sanchez / ...), Kari Wahlgren (Jessica / ...), Tom Kenny (Squanchy / ...), Ryan Ridley (Additional Voices / ...), Maurice LaMarche (Abradolph Lincler / ...)."

@@ -1,7 +1,7 @@
 ---
 imdb: "2293640"
 date: "2015-06-27"
-categories: "movies"
+categories: [ "movies" ]
 title: "Minions"
 stars: "2/5"
 desc: "Minions. Minions (USA, 2015). Dirigido por Kyle Balda, Pierre Coffin. Escrito por Brian Lynch. Com Sandra Bullock, Jon Hamm, Michael Keaton, Allison Janney, Steve Coogan, Jennifer Saunders, Geoffrey Rush, Steve Carell, Pierre Coffin."

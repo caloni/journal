@@ -1,7 +1,7 @@
 ---
 imdb: "1013856"
 date: "2011-05-29"
-categories: "movies"
+categories: [ "movies" ]
 title: "Singularidades de uma Rapariga Loura"
 stars: "2/5"
 desc: "Singularidades de uma Rapariga Loura. Singularidades de uma Rapariga Loura (Portugal, 2009). Dirigido por Manoel de Oliveira. Escrito por Eça de Queirós, Manoel de Oliveira, Manoel de Oliveira. Com Ricardo Trêpa, Catarina Wallenstein, Diogo Dória, Júlia Buisel, Leonor Silveira, Luís Miguel Cintra, Glória de Matos, Filipe Vargas, Rogério Samora."

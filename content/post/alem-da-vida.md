@@ -1,7 +1,7 @@
 ---
 imdb: "1212419"
 date: "2011-07-01"
-categories: "movies"
+categories: [ "movies" ]
 title: "Além da Vida"
 stars: "3/5"
 desc: "Além da Vida. Hereafter (USA, 2010). Dirigido por Clint Eastwood. Escrito por Peter Morgan. Com Cécile De France, Thierry Neuvic, Cyndi Mayo Davis, Lisa Griffiths, Jessica Griffiths, Ferguson Reid, Derek Sakakura, Jay Mohr, Richard Kind."

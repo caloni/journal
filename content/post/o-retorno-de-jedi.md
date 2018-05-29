@@ -1,7 +1,7 @@
 ---
 imdb: "0086190"
 date: "2011-12-31"
-categories: "movies"
+categories: [ "movies" ]
 title: "Star Wars Episódio VI O Retorno do Jedi"
 stars: "4/5"
 desc: "Star Wars Episódio VI O Retorno do Jedi. Star Wars: Episode VI - Return of the Jedi (USA, 1983). Dirigido por Richard Marquand. Escrito por Lawrence Kasdan, George Lucas, George Lucas. Com Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams, Anthony Daniels, Peter Mayhew, Sebastian Shaw, Ian McDiarmid, Frank Oz."

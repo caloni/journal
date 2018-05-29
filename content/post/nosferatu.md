@@ -1,7 +1,7 @@
 ---
 imdb: "0013442"
 date: "2012-11-02"
-categories: "movies"
+categories: [ "movies" ]
 title: "Nosferatu"
 stars: "4/5"
 desc: "Nosferatu. Nosferatu, eine Symphonie des Grauens (Germany, 1922). Dirigido por F.W. Murnau. Escrito por Henrik Galeen, Bram Stoker. Com Max Schreck, Gustav von Wangenheim, Greta Schröder, Georg H. Schnell, Ruth Landshoff, Gustav Botz, Alexander Granach, John Gottowt, Max Nemetz."

@@ -1,7 +1,7 @@
 ---
 imdb: "0038190"
 date: "2011-10-27"
-categories: "movies"
+categories: [ "movies" ]
 title: "Laços Humanos"
 stars: "5/5"
 desc: "Laços Humanos. A Tree Grows in Brooklyn (USA, 1945). Dirigido por Elia Kazan. Escrito por Tess Slesinger, Frank Davis, Betty Smith, Anita Loos. Com Dorothy McGuire, Joan Blondell, James Dunn, Lloyd Nolan, James Gleason, Ted Donaldson, Peggy Ann Garner, Ruth Nelson, John Alexander."

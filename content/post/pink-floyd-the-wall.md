@@ -1,7 +1,7 @@
 ---
 imdb: "0084503"
 date: "2010-11-06"
-categories: "movies"
+categories: [ "movies" ]
 title: "Pink Floyd The Wall"
 stars: "4/5"
 desc: "Pink Floyd The Wall. Pink Floyd The Wall (UK, 1982). Dirigido por Alan Parker. Escrito por Roger Waters, Roger Waters. Com Bob Geldof, Christine Hargreaves, James Laurenson, Eleanor David, Kevin McKeon, Bob Hoskins, David Bingham, Jenny Wright, Alex McAvoy."

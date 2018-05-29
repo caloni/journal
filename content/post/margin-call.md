@@ -2,7 +2,7 @@
 tags: ['netflix']
 imdb: "1615147"
 date: "2016-12-21"
-categories: "movies"
+categories: [ "movies" ]
 title: "Margin Call - O Dia Antes do Fim"
 stars: "4/5"
 desc: "Margin Call - O Dia Antes do Fim. Margin Call (USA, 2011). Dirigido por J.C. Chandor. Escrito por J.C. Chandor. Com Kevin Spacey (Sam Rogers), Paul Bettany (Will Emerson), Jeremy Irons (John Tuld), Zachary Quinto (Peter Sullivan), Penn Badgley (Seth Bregman), Simon Baker (Jared Cohen), Mary McDonnell (Mary Rogers), Demi Moore (Sarah Robertson), Stanley Tucci (Eric Dale)."

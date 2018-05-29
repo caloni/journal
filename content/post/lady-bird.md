@@ -1,7 +1,7 @@
 ---
 date: 2018-03-13T02:09:25
 imdb: "4925292"
-categories: "movies"
+categories: [ "movies" ]
 stars: "4/5"
 title: "Lady Bird: A Hora de Voar"
 desc: "Lady Bird: A Hora de Voar."

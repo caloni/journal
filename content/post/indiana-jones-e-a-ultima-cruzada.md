@@ -2,7 +2,7 @@
 tags: ['netflix']
 imdb: "0097576"
 date: "2016-11-03"
-categories: "movies"
+categories: [ "movies" ]
 title: "Indiana Jones e a Última Cruzada"
 stars: "5/5"
 desc: "Indiana Jones e a Última Cruzada. Indiana Jones and the Last Crusade (USA, 1989). Dirigido por Steven Spielberg. Escrito por Jeffrey Boam, George Lucas, Menno Meyjes, Philip Kaufman. Com Harrison Ford (Indiana Jones), Sean Connery (Professor Henry Jones), Denholm Elliott (Marcus Brody), Alison Doody (Elsa), John Rhys-Davies (Sallah), Julian Glover (Walter Donovan), River Phoenix (Young Indy), Michael Byrne (Vogel), Kevork Malikyan (Kazim)."

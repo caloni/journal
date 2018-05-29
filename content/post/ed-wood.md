@@ -1,7 +1,7 @@
 ---
 imdb: "0109707"
 date: "2013-08-23"
-categories: "movies"
+categories: [ "movies" ]
 title: "Ed Wood"
 stars: "5/5"
 desc: "Ed Wood. Ed Wood (USA, 1994). Dirigido por Tim Burton. Escrito por Rudolph Grey, Scott Alexander, Larry Karaszewski. Com Johnny Depp, Martin Landau, Sarah Jessica Parker, Patricia Arquette, Jeffrey Jones, G.D. Spradlin, Vincent D'Onofrio, Bill Murray, Mike Starr."

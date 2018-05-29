@@ -1,7 +1,7 @@
 ---
 imdb: "0841044"
 date: "2010-05-16"
-categories: "movies"
+categories: [ "movies" ]
 title: "2 Dias em Paris"
 stars: "2/5"
 desc: "2 Dias em Paris. 2 Days in Paris (France, 2007). Dirigido por Julie Delpy. Escrito por Julie Delpy. Com Adam Goldberg, Julie Delpy, Daniel Brühl, Marie Pillet, Albert Delpy, Alexia Landeau, Adan Jodorowsky, Alexandre Nahon, Charlotte Maury-Sentier."

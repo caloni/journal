@@ -2,7 +2,7 @@
 tags: ['cabine']
 imdb: "2935564"
 date: "2016-07-08"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Conexão Francesa"
 stars: "4/5"
 desc: "A Conexão Francesa. La French (France, 2014). Dirigido por Cédric Jimenez. Escrito por Audrey Diwan, Cédric Jimenez. Com Jean Dujardin, Gilles Lellouche, Céline Sallette, Mélanie Doutey, Benoît Magimel, Guillaume Gouix, Bruno Todeschini, Féodor Atkine, Moussa Maaskri."

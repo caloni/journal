@@ -2,7 +2,7 @@
 tags: ['netflix', 'series']
 imdb: "0182576"
 date: "2015-07-28"
-categories: "series"
+categories: [ "series" ]
 title: "Family Guy"
 stars: "4/5"
 desc: "Family Guy. Family Guy (USA, 1999). Dirigido por Peter Shin, James Purdum, Dominic Bianchi, Pete Michels, John Holmquist, Greg Colton, Brian Iles, Julius Wu, Roy Allen Smith. Escrito por Seth MacFarlane, David Zuckerman, Alex Borstein, Teresa Hsiao, Steve Callaghan, Patrick Meighan, Andrew Goldberg, Spencer Porter, Tom Devanney. Com Seth MacFarlane, Alex Borstein, Seth Green, Mila Kunis, Mike Henry, Danny Smith, John Viener, Patrick Warburton, Alec Sulkin."

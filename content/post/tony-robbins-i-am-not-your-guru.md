@@ -2,7 +2,7 @@
 tags: ['netflix']
 imdb: "5151716"
 date: "2017-03-15"
-categories: "blog"
+categories: [ "blog" ]
 title: "Tony Robbins: I Am Not Your Guru"
 stars: "3/5"
 desc: "Tony Robbins: I Am Not Your Guru. Tony Robbins: I Am Not Your Guru (USA, 2016). Dirigido por Joe Berlinger. Com Sage Bonnie Humphrey (Herself), Anthony Robbins (Himself), Dawn Watson (Herself)."

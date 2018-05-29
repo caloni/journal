@@ -1,7 +1,7 @@
 ---
 tags: ['mostrasp']
 date: "2016-11-02"
-categories: "movies"
+categories: [ "movies" ]
 title: "Então Morri"
 stars: "4/5"
 desc: "Então Morri. Então Morri (Brazil, 2016). Dirigido por Bia Lessa, Dany Roland. Escrito por Bia Lessa."

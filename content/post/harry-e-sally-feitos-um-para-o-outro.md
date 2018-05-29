@@ -1,7 +1,7 @@
 ---
 imdb: "0098635"
 date: "2013-07-01"
-categories: "movies"
+categories: [ "movies" ]
 title: "Harry e Sally"
 stars: "5/5"
 desc: "Harry e Sally. When Harry Met Sally... (USA, 1989). Dirigido por Rob Reiner. Escrito por Nora Ephron. Com Billy Crystal, Meg Ryan, Carrie Fisher, Bruno Kirby, Steven Ford, Lisa Jane Persky, Michelle Nicastro, Gretchen Palmer, Robert Alan Beuth."

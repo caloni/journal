@@ -1,7 +1,7 @@
 ---
 imdb: "1399533"
 date: "2012-10-28"
-categories: "movies"
+categories: [ "movies" ]
 title: "Carmel"
 stars: "1/5"
 desc: "Carmel. Carmel (Israel, 2009). Dirigido por Amos Gitai. Escrito por Amos Gitai. Com Amitai Ashkenazi, Ben Eidel, Samuel Fuller, Efratia Gitai, Ben Gitaï, Masha Itkina, Makram Khoury, Jerome Koenig, Amos Lavi."

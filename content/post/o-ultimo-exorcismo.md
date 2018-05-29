@@ -1,7 +1,7 @@
 ---
 imdb: "1320244"
 date: "2010-09-24"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Último Exorcismo"
 stars: "4/5"
 desc: "O Último Exorcismo. The Last Exorcism (USA, 2010). Dirigido por Daniel Stamm. Escrito por Huck Botko, Andrew Gurland. Com Patrick Fabian, Ashley Bell, Iris Bahr, Louis Herthum, Caleb Landry Jones, Tony Bentley, John Wright Jr., Shanna Forrestall, Justin Shafer."

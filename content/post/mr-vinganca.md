@@ -1,7 +1,7 @@
 ---
 imdb: "0310775"
 date: "2015-05-26"
-categories: "movies"
+categories: [ "movies" ]
 title: "Mr. Vingança"
 stars: "4/5"
 desc: "Mr. Vingança. Boksuneun naui geot (South Korea, 2002). Dirigido por Chan-wook Park. Escrito por Jae-sun Lee, Jong-yong Lee, Mu-yeong Lee, Chan-wook Park. Com Kang-ho Song, Ha-kyun Shin, Doona Bae, Ji-Eun Lim, Bo-bae Han, Se-dong Kim, Dae-yeon Lee, Masashi Fujimoto, Ju-bong Gi."

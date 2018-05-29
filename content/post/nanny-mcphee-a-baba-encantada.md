@@ -1,7 +1,7 @@
 ---
 imdb: "0396752"
 date: "2012-02-15"
-categories: "movies"
+categories: [ "movies" ]
 title: "Nanny McPhee A Babá Encantada"
 stars: "3/5"
 desc: "Nanny McPhee A Babá Encantada. Nanny McPhee (USA, 2005). Dirigido por Kirk Jones. Escrito por Emma Thompson, Christianna Brand. Com Emma Thompson, Colin Firth, Kelly Macdonald, Thomas Brodie-Sangster, Eliza Bennett, Jennifer Rae Daykin, Raphaël Coleman, Samuel Honywood, Holly Gibbs."

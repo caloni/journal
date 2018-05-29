@@ -1,7 +1,7 @@
 ---
 imdb: "1458175"
 date: "2011-01-14"
-categories: "movies"
+categories: [ "movies" ]
 title: "72 horas"
 stars: "4/5"
 desc: "72 horas. The Next Three Days (USA, 2010). Dirigido por Paul Haggis. Escrito por Paul Haggis, Fred Cavayé, Guillaume Lemans. Com Russell Crowe, Elizabeth Banks, Michael Buie, Moran Atias, Remy Nozik, Toby Green, Tyler Green, Jason Beghe, Aisha Hinds."

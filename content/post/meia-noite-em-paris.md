@@ -1,7 +1,7 @@
 ---
 imdb: "1605783"
 date: "2011-07-31"
-categories: "movies"
+categories: [ "movies" ]
 title: "Meia-Noite em Paris"
 stars: "4/5"
 desc: "Meia-Noite em Paris. Midnight in Paris (Spain, 2011). Dirigido por Woody Allen. Escrito por Woody Allen. Com Owen Wilson, Rachel McAdams, Kurt Fuller, Mimi Kennedy, Michael Sheen, Nina Arianda, Carla Bruni, Maurice Sonnenberg, Thierry Hancisse."

@@ -2,7 +2,7 @@
 tags: ['thewalkingdead', 'series']
 imdb: "1520211"
 date: "2013-04-03"
-categories: "series"
+categories: [ "series" ]
 title: "The Walking Dead - Primeira Temporada"
 stars: "4/5"
 desc: "The Walking Dead - Primeira Temporada. The Walking Dead (USA, 2010). Dirigido por Ernest R. Dickerson, Greg Nicotero, Guy Ferland, David Boyd, Bill Gierhart, Michelle MacLaren, Tricia Brock, Seith Mann, Gwyneth Horder-Payton. Escrito por Charlie Adlard, Frank Darabont, Robert Kirkman, Tony Moore, Scott M. Gimple, Angela Kang, Glen Mazzara, Evan T. Reilly, Seth Hoffman. Com Andrew Lincoln, Steven Yeun, Chandler Riggs, Norman Reedus, Melissa McBride, Lauren Cohan, Emily Kinney, Danai Gurira, Sonequa Martin-Green."

@@ -1,7 +1,7 @@
 ---
 imdb: "0099077"
 date: "2013-05-27"
-categories: "movies"
+categories: [ "movies" ]
 title: "Tempo de Despertar"
 stars: "4/5"
 desc: "Tempo de Despertar. Awakenings (USA, 1990). Dirigido por Penny Marshall. Escrito por Oliver Sacks, Steven Zaillian. Com Robert De Niro, Robin Williams, Julie Kavner, Ruth Nelson, John Heard, Penelope Ann Miller, Alice Drummond, Judith Malina, Barton Heyman."

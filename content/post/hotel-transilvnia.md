@@ -1,7 +1,7 @@
 ---
 imdb: "0837562"
 date: "2016-02-22"
-categories: "movies"
+categories: [ "movies" ]
 title: "Hotel Transilvânia"
 stars: "2/5"
 desc: "Hotel Transilvânia. Hotel Transylvania (USA, 2012). Dirigido por Genndy Tartakovsky. Escrito por Peter Baynham, Robert Smigel, Todd Durham, Dan Hageman, Kevin Hageman. Com Adam Sandler, Andy Samberg, Selena Gomez, Kevin James, Fran Drescher, Steve Buscemi, Molly Shannon, David Spade, CeeLo Green."

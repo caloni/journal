@@ -1,7 +1,7 @@
 ---
 imdb: "1605717"
 date: "2015-01-04"
-categories: "movies"
+categories: [ "movies" ]
 title: "Frank"
 stars: "3/5"
 desc: "Frank. Frank (UK, 2014). Dirigido por Lenny Abrahamson. Escrito por Jon Ronson, Peter Straughan. Com Domhnall Gleeson, Moira Brooker, Paul Butterworth, Phil Kingston, Billie Traynor, Shane O'Brien, Scoot McNairy, Maggie Gyllenhaal, François Civil."

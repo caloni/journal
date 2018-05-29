@@ -1,7 +1,7 @@
 ---
 imdb: "2674426"
 date: "2016-06-26"
-categories: "movies"
+categories: [ "movies" ]
 title: "Como Eu Era Antes de Você"
 stars: "3/5"
 desc: "Como Eu Era Antes de Você. Me Before You (UK, 2016). Dirigido por Thea Sharrock. Escrito por Jojo Moyes, Jojo Moyes. Com Sam Claflin, Emilia Clarke, Vanessa Kirby, Eileen Dunwoodie, Pablo Raybould, Gabrielle Downey, Henri Charles, Samantha Spiro, Brendan Coyle."

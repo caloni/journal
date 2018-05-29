@@ -1,7 +1,7 @@
 ---
 imdb: "0100802"
 date: "2012-11-04"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Vingador do Futuro"
 stars: "4/5"
 desc: "O Vingador do Futuro. Total Recall (USA, 1990). Dirigido por Paul Verhoeven. Escrito por Philip K. Dick, Ronald Shusett, Dan O'Bannon, Jon Povill, Ronald Shusett, Dan O'Bannon, Gary Goldman. Com Arnold Schwarzenegger, Rachel Ticotin, Sharon Stone, Ronny Cox, Michael Ironside, Marshall Bell, Mel Johnson Jr., Michael Champion, Roy Brocksmith."

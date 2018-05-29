@@ -2,7 +2,7 @@
 tags: ['cinema']
 imdb: "6085308"
 date: 2017-12-14T23:44:06
-categories: "movies"
+categories: [ "movies" ]
 title: "Algo de Novo"
 stars: "3/5"
 desc: "Algo de Novo. Qualcosa di nuovo (Italy, 2016). Dirigido por Cristina Comencini. Escrito por Giulia Calenda, Cristina Comencini, Paola Cortellesi. Com Paola Cortellesi (Lucia), Micaela Ramazzotti (Maria), Eduardo Valdarnini (Luca), Eleonora Danco (Flavia)."

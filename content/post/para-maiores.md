@@ -1,7 +1,7 @@
 ---
 imdb: "1333125"
 date: "2016-07-03"
-categories: "movies"
+categories: [ "movies" ]
 title: "Para Maiores"
 stars: "4/5"
 desc: "Para Maiores. Movie 43 (USA, 2013). Dirigido por Elizabeth Banks, Steven Brill, Steve Carr, Rusty Cundieff, James Duffy, Griffin Dunne, Peter Farrelly, Patrik Forsberg, Will Graham. Escrito por Rocky Russo, Jeremy Sosenko, Ricky Blitt, Rocky Russo, Jeremy Sosenko, Bill O'Malley, Will Graham, Jack Kukoda, Rocky Russo. Com Dennis Quaid, Greg Kinnear, Common, Charlie Saxton, Will Sasso, Odessa Rae, Seth MacFarlane, Mike Meldman, Hugh Jackman."

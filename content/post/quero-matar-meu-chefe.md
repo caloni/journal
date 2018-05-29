@@ -1,7 +1,7 @@
 ---
 imdb: "1499658"
 date: "2011-08-17"
-categories: "movies"
+categories: [ "movies" ]
 title: "Quero Matar Meu Chefe"
 stars: "3/5"
 desc: "Quero Matar Meu Chefe. Horrible Bosses (USA, 2011). Dirigido por Seth Gordon. Escrito por Michael Markowitz, John Francis Daley, Jonathan M. Goldstein, Michael Markowitz. Com Jason Bateman, Steve Wiebe, Kevin Spacey, Charlie Day, Lindsay Sloane, Michael Albala, Jennifer Aniston, Jason Sudeikis, Jennifer Hasty."

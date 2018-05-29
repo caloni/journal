@@ -1,7 +1,7 @@
 ---
 imdb: "0079501"
 date: "2014-11-30"
-categories: "movies"
+categories: [ "movies" ]
 title: "Mad Max"
 stars: "3/5"
 desc: "Mad Max. Mad Max (Australia, 1979). Dirigido por George Miller. Escrito por James McCausland, George Miller, Byron Kennedy, George Miller. Com Mel Gibson, Joanne Samuel, Hugh Keays-Byrne, Steve Bisley, Tim Burns, Roger Ward, Lisa Aldenhoven, David Bracks, Bertrand Cadart."

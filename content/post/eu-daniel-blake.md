@@ -2,7 +2,7 @@
 tags: ['cabine']
 imdb: "5168192"
 date: "2016-12-20"
-categories: "movies"
+categories: [ "movies" ]
 title: "Eu, Daniel Blake"
 stars: "4/5"
 desc: "Eu, Daniel Blake. I, Daniel Blake (UK, 2016). Dirigido por Ken Loach. Escrito por Paul Laverty. Com Dave Johns (Daniel), Hayley Squires (Katie), Sharon Percy (Sheila), Briana Shann (Daisy), Dylan McKiernan (Dylan), Natalie Ann Jamieson (Employment Support Allowance Assessor), Jane Birch (Librarian), Mark Burns (Job seeker), Stephen Clegg (Job Centre Floor Manager)."

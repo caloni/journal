@@ -1,7 +1,7 @@
 ---
 imdb: "1954379"
 date: "2011-10-29"
-categories: "movies"
+categories: [ "movies" ]
 title: "Kids of Töday"
 stars: "3/5"
 desc: "Kids of Töday. Des jeunes gens mödernes (France, 2011). Dirigido por Jérôme de Missolz. Escrito por Jérôme de Missolz, Gilles Le Guen, Jean-François Sanz. Com Yves Adrien, Lio, Edwige, Aurélie Benchekri, Antoine Capet, Mathieu Chausseron, Sabine Noble, Joris Larochelle, Anne-Sophie Le Creurer."

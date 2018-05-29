@@ -1,7 +1,7 @@
 ---
 imdb: "0116313"
 date: "2013-07-01"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Clube das Desquitadas"
 stars: "3/5"
 desc: "O Clube das Desquitadas. The First Wives Club (USA, 1996). Dirigido por Hugh Wilson. Escrito por Olivia Goldsmith, Robert Harling. Com Goldie Hawn, Bette Midler, Diane Keaton, Maggie Smith, Sarah Jessica Parker, Dan Hedaya, Stockard Channing, Victor Garber, Stephen Collins."

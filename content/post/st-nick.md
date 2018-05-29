@@ -1,7 +1,7 @@
 ---
 imdb: "2479066"
 date: "2012-05-04"
-categories: "movies"
+categories: [ "movies" ]
 title: "The Real St. Nick"
 stars: "5/5"
 desc: "The Real St. Nick. The Real St. Nick (USA, 2012). Dirigido por Penelope Spheeris. Escrito por Stephanie Rennie, Steven Palmer Peterson, Steven Palmer Peterson. Com Torrey DeVitto, Callard Harris, Roma Maffia, Kenneth Choi, Matt Felker, Alix Elizabeth Gitter, Mark Adair-Rios, Aaron Landon, Thomas Sellwood."

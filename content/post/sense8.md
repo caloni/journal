@@ -2,7 +2,7 @@
 tags: ['netflix', 'sense8', 'series']
 imdb: "2431438"
 date: "2015-07-06"
-categories: "series"
+categories: [ "series" ]
 title: "Sense8"
 stars: "4/5"
 desc: "Sense8. Sense8 (USA, 2015). Dirigido por Andy Wachowski, Lana Wachowski, James McTeigue, Tom Tykwer. Escrito por J. Michael Straczynski, Andy Wachowski, Lana Wachowski. Com Aml Ameen, Doona Bae, Jamie Clayton, Tina Desai, Tuppence Middleton, Max Riemelt, Miguel Ángel Silvestre, Brian J. Smith, Freema Agyeman."

@@ -1,7 +1,7 @@
 ---
 imdb: "0078748"
 date: "2011-12-04"
-categories: "movies"
+categories: [ "movies" ]
 title: "Alien o Oitavo Passageiro"
 stars: "5/5"
 revision: [datetime.date(2015, 11, 3)]

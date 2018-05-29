@@ -1,7 +1,7 @@
 ---
 imdb: "1250777"
 date: "2010-06-18"
-categories: "movies"
+categories: [ "movies" ]
 title: "Kick-Ass Quebrando Tudo"
 stars: "4/5"
 desc: "Kick-Ass Quebrando Tudo. Kick-Ass (UK, 2010). Dirigido por Matthew Vaughn. Escrito por Jane Goldman, Matthew Vaughn, Mark Millar, John Romita Jr. Com Aaron Taylor-Johnson, Garrett M. Brown, Evan Peters, Deborah Twiss, Lyndsy Fonseca, Sophie Wu, Elizabeth McGovern, Christopher Mintz-Plasse, Stu 'Large' Riley."

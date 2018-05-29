@@ -1,7 +1,7 @@
 ---
 imdb: "1385826"
 date: "2011-05-19"
-categories: "movies"
+categories: [ "movies" ]
 title: "Os Agentes do Destino"
 stars: "4/5"
 desc: "Os Agentes do Destino. The Adjustment Bureau (USA, 2011). Dirigido por George Nolfi. Escrito por George Nolfi, Philip K. Dick. Com Matt Damon, Emily Blunt, Lisa Thoreson, Florence Kastriner, Michael Kelly, Phyllis MacBryde, Natalie Carter, Chuck Scarborough, Jon Stewart."

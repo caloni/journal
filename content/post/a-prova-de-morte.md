@@ -1,7 +1,7 @@
 ---
 imdb: "1028528"
 date: "2010-07-16"
-categories: "movies"
+categories: [ "movies" ]
 title: "À Prova de Morte"
 stars: "4/5"
 desc: "À Prova de Morte. Death Proof (USA, 2007). Dirigido por Quentin Tarantino. Escrito por Quentin Tarantino. Com Kurt Russell, Zoë Bell, Rosario Dawson, Vanessa Ferlito, Sydney Tamiia Poitier, Tracie Thoms, Rose McGowan, Jordan Ladd, Mary Elizabeth Winstead."

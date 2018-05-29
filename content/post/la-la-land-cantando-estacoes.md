@@ -2,7 +2,7 @@
 tags: ['cinema', 'oscar', 'revisita']
 imdb: "3783958"
 date: "2017-01-27"
-categories: "movies"
+categories: [ "movies" ]
 title: "La La Land: Cantando Estações"
 stars: "4/5"
 revision: [datetime.date(2017, 2, 27)]

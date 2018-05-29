@@ -1,7 +1,7 @@
 ---
 imdb: "2386278"
 date: "2014-06-15"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Face do Mal"
 stars: "4/5"
 desc: "A Face do Mal. Haunt (USA, 2013). Dirigido por Mac Carter. Escrito por Andrew Barrer. Com Harrison Gilbertson, Liana Liberato, Jacki Weaver, Ione Skye, Brian Wimmer, Danielle Chuchran, Ella Harris, Carl Hadra, Sebastian Michael Barr."

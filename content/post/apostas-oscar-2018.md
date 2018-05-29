@@ -1,6 +1,6 @@
 ---
 date: 2018-03-05
-categories: "blog"
+categories: [ "blog" ]
 title: "Apostas Oscar 2018 (com resultados)"
 desc: "Apostas Oscar 2018 (com resultados)."
 ---

@@ -1,7 +1,7 @@
 ---
 imdb: "0332280"
 date: "2014-03-15"
-categories: "movies"
+categories: [ "movies" ]
 title: "Diário de uma Paixão"
 stars: "4/5"
 desc: "Diário de uma Paixão. The Notebook (USA, 2004). Dirigido por Nick Cassavetes. Escrito por Jeremy Leven, Jan Sardi, Nicholas Sparks. Com Tim Ivey, Gena Rowlands, Starletta DuPois, James Garner, Anthony-Michael Q. Thomas, Ed Grady, Renée Amber, Jennifer Echols, Geoffrey Knight."

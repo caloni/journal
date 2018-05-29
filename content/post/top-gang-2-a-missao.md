@@ -2,7 +2,7 @@
 tags: ['netflix']
 imdb: "0107144"
 date: "2017-03-05"
-categories: "movies"
+categories: [ "movies" ]
 title: "Top Gang 2! - A Missão"
 stars: "4/5"
 desc: "Top Gang 2! - A Missão. Hot Shots! Part Deux (USA, 1993). Dirigido por Jim Abrahams. Escrito por Jim Abrahams, Pat Proft. Com Charlie Sheen (Topper Harley), Lloyd Bridges (Tug Benson), Valeria Golino (Ramada Rodham Hayman), Richard Crenna (Col. Denton Walters), Brenda Bakke (Michelle Rodham Huddleston), Miguel Ferrer (Harbinger), Rowan Atkinson (Dexter Hayman), Jerry Haleva (Saddam Hussein), David Wohl (Gerou)."

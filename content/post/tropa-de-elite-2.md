@@ -1,7 +1,7 @@
 ---
 imdb: "1555149"
 date: "2010-10-08"
-categories: "movies"
+categories: [ "movies" ]
 title: "Tropa de Elite 2 O Inimigo Agora É Outro"
 stars: "5/5"
 desc: "Tropa de Elite 2 O Inimigo Agora É Outro. Tropa de Elite 2: O Inimigo Agora é Outro (Brazil, 2010). Dirigido por José Padilha. Escrito por Bráulio Mantovani, Bráulio Mantovani, José Padilha, José Padilha, Rodrigo Pimentel. Com Wagner Moura, Irandhir Santos, André Ramiro, Milhem Cortaz, Maria Ribeiro, Seu Jorge, Sandro Rocha, Tainá Müller, André Mattos."

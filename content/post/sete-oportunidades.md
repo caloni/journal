@@ -1,7 +1,7 @@
 ---
 imdb: "0016332"
 date: "2015-09-17"
-categories: "movies"
+categories: [ "movies" ]
 title: "Sete Oportunidades"
 stars: "5/5"
 desc: "Sete Oportunidades. Seven Chances (USA, 1925). Dirigido por Buster Keaton. Escrito por Roi Cooper Megrue, Clyde Bruckman, Jean C. Havez, Joseph A. Mitchell. Com Buster Keaton, T. Roy Barnes, Snitz Edwards, Ruth Dwyer, Frances Raymond, Erwin Connelly, Jules Cowles, Jean Arthur, Lori Bara."

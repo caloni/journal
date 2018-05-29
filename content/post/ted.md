@@ -1,7 +1,7 @@
 ---
 imdb: "1637725"
 date: "2012-10-03"
-categories: "movies"
+categories: [ "movies" ]
 title: "Ted"
 stars: "4/5"
 revision: [datetime.date(2014, 1, 14)]

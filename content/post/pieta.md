@@ -1,7 +1,7 @@
 ---
 imdb: "2299842"
 date: "2013-03-19"
-categories: "movies"
+categories: [ "movies" ]
 title: "Pieta"
 stars: "4/5"
 desc: "Pieta. Pieta (South Korea, 2012). Dirigido por Ki-duk Kim. Escrito por Ki-duk Kim. Com Min-soo Jo, Jung-Jin Lee, Ki-Hong Woo, Eunjin Kang, Jae-ryong Cho, Myeong-ja Lee, Jun-seok Heo, Se-in Kwon, Mun-su Song."

@@ -1,7 +1,7 @@
 ---
 imdb: "0266489"
 date: "2012-07-31"
-categories: "movies"
+categories: [ "movies" ]
 title: "Duplex"
 stars: "3/5"
 desc: "Duplex. Duplex (USA, 2003). Dirigido por Danny DeVito. Escrito por Larry Doyle. Com Ben Stiller, Drew Barrymore, Eileen Essell, Harvey Fierstein, Justin Theroux, James Remar, Robert Wisdom, Swoosie Kurtz, Wallace Shawn."

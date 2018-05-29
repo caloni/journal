@@ -1,7 +1,7 @@
 ---
 imdb: "1673434"
 date: "2012-11-20"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Saga Crepúsculo Amanhecer Parte 2"
 stars: "4/5"
 desc: "A Saga Crepúsculo Amanhecer Parte 2. The Twilight Saga: Breaking Dawn - Part 2 (USA, 2012). Dirigido por Bill Condon. Escrito por Melissa Rosenberg, Stephenie Meyer. Com Kristen Stewart, Robert Pattinson, Taylor Lautner, Peter Facinelli, Elizabeth Reaser, Ashley Greene, Jackson Rathbone, Kellan Lutz, Nikki Reed."

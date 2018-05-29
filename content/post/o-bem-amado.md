@@ -1,7 +1,7 @@
 ---
 imdb: "1410297"
 date: "2010-07-24"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Bem Amado"
 stars: "4/5"
 desc: "O Bem Amado. O Bem Amado (Brazil, 2010). Dirigido por Guel Arraes. Escrito por Guel Arraes, Cláudio Paiva. Com Edmilson Barros, Andrea Beltrão, Caio Blat, Maria Flor, Bruno Garcia, Drica Moraes, Matheus Nachtergaele, Marco Nanini, Tonico Pereira."

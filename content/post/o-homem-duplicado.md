@@ -1,7 +1,7 @@
 ---
 imdb: "2316411"
 date: "2015-03-13"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Homem Duplicado"
 stars: "4/5"
 revision: [datetime.date(2016, 3, 13)]

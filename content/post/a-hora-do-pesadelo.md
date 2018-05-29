@@ -1,7 +1,7 @@
 ---
 imdb: "0087800"
 date: "2013-07-28"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Hora do Pesadelo"
 stars: "4/5"
 desc: "A Hora do Pesadelo. A Nightmare on Elm Street (USA, 1984). Dirigido por Wes Craven. Escrito por Wes Craven. Com John Saxon, Ronee Blakley, Heather Langenkamp, Amanda Wyss, Jsu Garcia, Johnny Depp, Charles Fleischer, Joseph Whipp, Robert Englund."

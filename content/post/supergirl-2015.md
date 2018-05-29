@@ -2,7 +2,7 @@
 tags: ['netflix', 'series']
 imdb: "4016454"
 date: "2016-10-22"
-categories: "blog"
+categories: [ "blog" ]
 title: "Supergirl"
 stars: "3/5"
 desc: "Supergirl. Supergirl (piloto) (USA, 2015). Dirigido por Glen Winter, Larry Teng, Dermott Downs. Escrito por Ali Adler, Greg Berlanti, Andrew Kreisberg, Joe Shuster, Jerry Siegel, Otto Binder, Jerry Ordway, Caitlin Parrish, Al Plastino. Com Melissa Benoist (Kara Danvers / ...), Mehcad Brooks (James Olsen), Chyler Leigh (Alex Danvers), Jeremy Jordan (Winn Schott), David Harewood (Hank Henshaw / ...), Calista Flockhart (Cat Grant), Chris Wood (Mon-El)."

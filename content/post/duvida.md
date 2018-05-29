@@ -1,7 +1,7 @@
 ---
 imdb: "0918927"
 date: "2012-11-18"
-categories: "movies"
+categories: [ "movies" ]
 title: "Dúvida"
 stars: "5/5"
 desc: "Dúvida. Doubt (USA, 2008). Dirigido por John Patrick Shanley. Escrito por John Patrick Shanley, John Patrick Shanley. Com Meryl Streep, Philip Seymour Hoffman, Amy Adams, Viola Davis, Alice Drummond, Audrie Neenan, Susan Blommaert, Carrie Preston, John Costelloe."

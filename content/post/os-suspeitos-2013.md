@@ -1,7 +1,7 @@
 ---
 imdb: "1392214"
 date: "2013-10-25"
-categories: "movies"
+categories: [ "movies" ]
 title: "Os Suspeitos"
 stars: "5/5"
 desc: "Os Suspeitos. Prisoners (USA, 2013). Dirigido por Denis Villeneuve. Escrito por Aaron Guzikowski. Com Hugh Jackman, Jake Gyllenhaal, Viola Davis, Maria Bello, Terrence Howard, Melissa Leo, Paul Dano, Dylan Minnette, Zoë Soul."

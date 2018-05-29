@@ -1,7 +1,7 @@
 ---
 imdb: "0121766"
 date: "2011-06-12"
-categories: "movies"
+categories: [ "movies" ]
 title: "Star Wars Episódio III A Vingança dos Sith"
 stars: "4/5"
 desc: "Star Wars Episódio III A Vingança dos Sith. Star Wars: Episode III - Revenge of the Sith (USA, 2005). Dirigido por George Lucas. Escrito por George Lucas. Com Ewan McGregor, Natalie Portman, Hayden Christensen, Ian McDiarmid, Samuel L. Jackson, Jimmy Smits, Frank Oz, Anthony Daniels, Christopher Lee."

@@ -1,7 +1,7 @@
 ---
 date: 2018-04-26T13:48:12-03:00
 title: "Todos os Paulos do Mundo"
-categories: "movies"
+categories: [ "movies" ]
 imdb: "7633052"
 stars: "2/5"
 desc: "Todos Os Paulos Do Mundo (Brasil, 2017), escrito e dirigido por Rodrigo de Oliveira, Gustavo Ribeiro, com Paulo José, Selton Mello, Joana Fomm, Fernanda Montenegro."

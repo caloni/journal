@@ -2,7 +2,7 @@
 tags: ['cabine']
 imdb: "2174934"
 date: "2015-06-22"
-categories: "movies"
+categories: [ "movies" ]
 title: "Casadentro"
 stars: "3/5"
 desc: "Casadentro. Casadentro (Peru, 2013). Dirigido por Joanna Lombardi. Escrito por Joanna Lombardi. Com Élide Brero, Stephanie Orúe, Delfina Paredes."

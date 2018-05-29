@@ -1,7 +1,7 @@
 ---
 imdb: "2562232"
 date: "2015-03-13"
-categories: "movies"
+categories: [ "movies" ]
 title: "Birdman ou (A Inesperada Virtude da Ignorância)"
 stars: "5/5"
 revision: [datetime.date(2015, 5, 8)]

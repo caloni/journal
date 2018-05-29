@@ -3,7 +3,7 @@ tags: ['cabine']
 cinemaqui: "http://www.cinemaqui.com.br/tal-mae-tal-filha/"
 imdb: "5975354"
 date: "2017-05-30"
-categories: "movies"
+categories: [ "movies" ]
 title: "Tal Mãe, Tal Filha"
 stars: "2/5"
 desc: "Tal Mãe, Tal Filha. Telle mère, telle fille (France, 2017). Dirigido por Noémie Saglio. Escrito por Agathe Pastorino, Noémie Saglio. Com Juliette Binoche (Mado), Camille Cottin (Avril), Lambert Wilson (Marc Daursault), Catherine Jacob (la mère de Louis Irène), Jean-Luc Bideau (l'obstétricien Debulac), Michaël Dichter (Louis), Stéfi Celma (Charlotte), Philippe Vieux (le père de Louis Michel), Olivia Côte (Cécile)."

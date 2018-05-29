@@ -1,7 +1,7 @@
 ---
 imdb: "0472160"
 date: "2014-04-05"
-categories: "movies"
+categories: [ "movies" ]
 title: "Penelope"
 stars: "3/5"
 desc: "Penelope. Penelope (UK, 2006). Dirigido por Mark Palansky. Escrito por Leslie Caveny. Com Richard E. Grant, Catherine O'Hara, Nick Prideaux, Michael Feast, Christina Ricci, Ronni Ancona, Simon Woods, Paul Herbert, Simon Chandler."

@@ -2,7 +2,7 @@
 tags: ['cinema']
 imdb: "3470600"
 date: "2016-12-29"
-categories: "movies"
+categories: [ "movies" ]
 title: "Sing: Quem Canta Seus Males Espanta"
 stars: "3/5"
 desc: "Sing: Quem Canta Seus Males Espanta. Sing (USA, 2016). Dirigido por Garth Jennings, Christophe Lourdelet. Escrito por Garth Jennings. Com Matthew McConaughey (Buster Moon), Reese Witherspoon (Rosita), Seth MacFarlane (Mike), Scarlett Johansson (Ash), John C. Reilly (Eddie), Taron Egerton (Johnny), Tori Kelly (Meena), Jennifer Saunders (Nana), Jennifer Hudson (Young Nana)."

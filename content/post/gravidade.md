@@ -1,7 +1,7 @@
 ---
 imdb: "1454468"
 date: "2013-10-17"
-categories: "movies"
+categories: [ "movies" ]
 title: "Gravidade"
 stars: "5/5"
 desc: "Gravidade. Gravity (USA, 2013). Dirigido por Alfonso Cuarón. Escrito por Alfonso Cuarón, Jonás Cuarón, George Clooney. Com Sandra Bullock, George Clooney, Ed Harris, Orto Ignatiussen, Phaldut Sharma, Amy Warren, Basher Savage, Adam Cozens."

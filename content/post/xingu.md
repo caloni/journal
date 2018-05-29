@@ -1,7 +1,7 @@
 ---
 imdb: "2142055"
 date: "2012-04-20"
-categories: "movies"
+categories: [ "movies" ]
 title: "Xingu"
 stars: "3/5"
 desc: "Xingu. Xingu (Brazil, 2012). Dirigido por Cao Hamburger. Escrito por Elena Soarez, Cao Hamburger, Anna Muylaert. Com João Miguel, Felipe Camargo, Caio Blat, Maiarim Kaiabi, Awakari Tumã Kaiabi, Adana Kambeba, Tapaié Waurá, Totomai Yawalapiti, Maria Flor."

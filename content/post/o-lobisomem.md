@@ -1,7 +1,7 @@
 ---
 imdb: "0780653"
 date: "2012-11-25"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Lobisomem"
 stars: "3/5"
 desc: "O Lobisomem. The Wolfman (USA, 2010). Dirigido por Joe Johnston. Escrito por Andrew Kevin Walker, David Self, Curt Siodmak. Com Simon Merrells, Gemma Whelan, Emily Blunt, Benicio Del Toro, Mario Marin-Borquez, Asa Butterfield, Cristina Contes, Anthony Hopkins, Art Malik."

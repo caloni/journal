@@ -2,7 +2,7 @@
 tags: ['netflix']
 imdb: "5640450"
 date: "2017-04-01"
-categories: "movies"
+categories: [ "movies" ]
 title: "ARQ"
 stars: "3/5"
 desc: "ARQ. ARQ (USA, 2016). Dirigido por Tony Elliott. Escrito por Tony Elliott. Com Robbie Amell (Renton), Rachael Taylor (Hannah), Shaun Benson (Sonny), Gray Powell (Father), Jacob Neayem (Brother), Adam Butcher (Cuz), Tantoo Cardinal (The Pope), Nicolas Van Burek (News Anchor), Jamie Spilchuk (Mobius Common)."

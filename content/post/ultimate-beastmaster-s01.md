@@ -2,7 +2,7 @@
 tags: ['netflix', 'series']
 imdb: "5607970"
 date: "2017-04-04"
-categories: "blog"
+categories: [ "blog" ]
 title: "Ultimate Beastmaster - Primeira Temporada"
 stars: "4/5"
 desc: "Ultimate Beastmaster - Primeira Temporada. Ultimate Beastmaster (USA, 2017). Escrito por David Broome, Sylvester Stallone. Com Rafinha Bastos (Brazil host), Anderson Silva (Brazil host), Terry Crews (Host - US Version), Charissa Thompson (Host - US Version)."

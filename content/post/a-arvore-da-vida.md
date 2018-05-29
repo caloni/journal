@@ -1,7 +1,7 @@
 ---
 imdb: "0478304"
 date: "2011-08-17"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Árvore da Vida"
 stars: "5/5"
 desc: "A Árvore da Vida. The Tree of Life (USA, 2011). Dirigido por Terrence Malick. Escrito por Terrence Malick. Com Brad Pitt, Sean Penn, Jessica Chastain, Hunter McCracken, Laramie Eppler, Tye Sheridan, Fiona Shaw, Jessica Fuselier, Nicolas Gonda."

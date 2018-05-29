@@ -1,7 +1,7 @@
 ---
 imdb: "1646974"
 date: "2011-12-12"
-categories: "movies"
+categories: [ "movies" ]
 title: "Os Nomes do Amor"
 stars: "4/5"
 desc: "Os Nomes do Amor. Le nom des gens (France, 2010). Dirigido por Michel Leclerc. Escrito por Baya Kasmi, Michel Leclerc. Com Jacques Gamblin, Sara Forestier, Zinedine Soualem, Carole Franck, Jacques Boudet, Michèle Moretti, Zakariya Gouram, Julia Vaidis-Bogard, Adrien Stoclet."

@@ -1,7 +1,7 @@
 ---
 imdb: "0831387"
 date: "2014-05-28"
-categories: "movies"
+categories: [ "movies" ]
 title: "Godzilla"
 stars: "5/5"
 desc: "Godzilla. Godzilla (USA, 2014). Dirigido por Gareth Edwards. Escrito por Max Borenstein, Dave Callaham. Com Aaron Taylor-Johnson, CJ Adams, Ken Watanabe, Bryan Cranston, Elizabeth Olsen, Carson Bolde, Sally Hawkins, Juliette Binoche, David Strathairn."

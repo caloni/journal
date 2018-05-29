@@ -2,7 +2,7 @@
 tags: ['cinema']
 imdb: "2140479"
 date: "2016-10-28"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Contador"
 stars: "4/5"
 revision: ['2016-11-17']

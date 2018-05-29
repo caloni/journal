@@ -1,7 +1,7 @@
 ---
 imdb: "2179136"
 date: "2015-04-30"
-categories: "movies"
+categories: [ "movies" ]
 title: "Sniper Americano"
 stars: "3/5"
 desc: "Sniper Americano. American Sniper (USA, 2014). Dirigido por Clint Eastwood. Escrito por Jason Hall, Chris Kyle, Scott McEwen, James Defelice. Com Bradley Cooper, Kyle Gallner, Cole Konis, Ben Reed, Elise Robertson, Luke Sunshine, Troy Vincent, Brandon Salgado Telis, Keir O'Donnell."

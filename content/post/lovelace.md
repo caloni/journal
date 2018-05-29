@@ -1,7 +1,7 @@
 ---
 imdb: "1426329"
 date: "2013-09-18"
-categories: "movies"
+categories: [ "movies" ]
 title: "Lovelace"
 stars: "3/5"
 desc: "Lovelace. Lovelace (USA, 2013). Dirigido por Rob Epstein, Jeffrey Friedman. Escrito por Andy Bellin. Com Amanda Seyfried, Peter Sarsgaard, Sharon Stone, Robert Patrick, Juno Temple, Chris Noth, Bobby Cannavale, Hank Azaria, Adam Brody."

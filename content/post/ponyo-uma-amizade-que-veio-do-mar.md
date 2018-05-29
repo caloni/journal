@@ -1,7 +1,7 @@
 ---
 imdb: "0876563"
 date: "2010-06-30"
-categories: "movies"
+categories: [ "movies" ]
 title: "Ponyo Uma Amizade que Veio do Mar"
 stars: "4/5"
 revision: [datetime.date(2013, 9, 2)]

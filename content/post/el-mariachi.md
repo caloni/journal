@@ -1,7 +1,7 @@
 ---
 imdb: "0104815"
 date: "2012-02-26"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Mariachi"
 stars: "4/5"
 desc: "O Mariachi. El mariachi (USA, 1992). Dirigido por Robert Rodriguez. Escrito por Robert Rodriguez. Com Carlos Gallardo, Consuelo Gómez, Jaime de Hoyos, Peter Marquardt, Reinol Martinez, Ramiro Gómez, Jesús López, Luis Baró, Oscar Fabila."

@@ -1,7 +1,7 @@
 ---
 imdb: "1535438"
 date: "2012-08-24"
-categories: "movies"
+categories: [ "movies" ]
 title: "Um Divã para Dois"
 stars: "4/5"
 desc: "Um Divã para Dois. Hope Springs (USA, 2012). Dirigido por David Frankel. Escrito por Vanessa Taylor. Com Meryl Streep, Tommy Lee Jones, Steve Carell, Jean Smart, Ben Rappaport, Marin Ireland, Patch Darragh, Brett Rice, Becky Ann Baker."

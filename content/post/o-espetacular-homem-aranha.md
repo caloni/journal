@@ -1,7 +1,7 @@
 ---
 imdb: "0948470"
 date: "2012-08-04"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Espetacular Homem-Aranha"
 stars: "3/5"
 desc: "O Espetacular Homem-Aranha. The Amazing Spider-Man (USA, 2012). Dirigido por Marc Webb. Escrito por James Vanderbilt, Alvin Sargent, Steve Kloves, James Vanderbilt, Stan Lee, Steve Ditko. Com Andrew Garfield, Emma Stone, Rhys Ifans, Denis Leary, Martin Sheen, Sally Field, Irrfan Khan, Campbell Scott, Embeth Davidtz."

@@ -1,7 +1,7 @@
 ---
 imdb: "0313792"
 date: "2015-11-02"
-categories: "movies"
+categories: [ "movies" ]
 title: "Igual a Tudo na Vida"
 stars: "2/5"
 desc: "Igual a Tudo na Vida. Anything Else (USA, 2003). Dirigido por Woody Allen. Escrito por Woody Allen. Com Woody Allen, Jason Biggs, Fisher Stevens, Anthony Arkin, Danny DeVito, Christina Ricci, KaDee Strickland, Jimmy Fallon, Diana Krall."

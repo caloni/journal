@@ -1,7 +1,7 @@
 ---
 imdb: "0095705"
 date: "2015-12-01"
-categories: "movies"
+categories: [ "movies" ]
 title: "Corra que a Polícia Vem Aí!"
 stars: "3/5"
 desc: "Corra que a Polícia Vem Aí!. The Naked Gun: From the Files of Police Squad! (USA, 1988). Dirigido por David Zucker. Escrito por Jerry Zucker, Jim Abrahams, David Zucker, Pat Proft, Jim Abrahams, David Zucker, Jerry Zucker. Com Leslie Nielsen, Priscilla Presley, Ricardo Montalban, George Kennedy, O.J. Simpson, Susan Beaubian, Nancy Marchand, Raye Birk, Jeannette Charles."

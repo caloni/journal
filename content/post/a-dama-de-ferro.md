@@ -1,7 +1,7 @@
 ---
 imdb: "1007029"
 date: "2012-03-04"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Dama de Ferro"
 stars: "2/5"
 desc: "A Dama de Ferro. The Iron Lady (UK, 2011). Dirigido por Phyllida Lloyd. Escrito por Abi Morgan. Com Meryl Streep, Jim Broadbent, Susan Brown, Alice da Cunha, Phoebe Waller-Bridge, Iain Glen, Alexandra Roach, Victoria Bewick, Emma Dewhurst."

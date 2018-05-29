@@ -1,7 +1,7 @@
 ---
 imdb: "2132324"
 date: "2013-02-06"
-categories: "movies"
+categories: [ "movies" ]
 title: "Elefante Branco"
 stars: "4/5"
 desc: "Elefante Branco. Elefante blanco (Argentina, 2012). Dirigido por Pablo Trapero. Escrito por Alejandro Fadel, Martín Mauregui, Santiago Mitre, Pablo Trapero. Com Ricardo Darín, Jérémie Renier, Martina Gusman, Miguel Arancibia, Federico Barga, Esteban Díaz, Pablo Gatti, Walter Jakob, Raul Ramos."

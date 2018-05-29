@@ -1,7 +1,7 @@
 ---
 imdb: "0459666"
 date: "2012-04-11"
-categories: "movies"
+categories: [ "movies" ]
 title: "Three Times"
 stars: "4/5"
 desc: "Three Times. Zui hao de shi guang (France, 2005). Dirigido por Hsiao-Hsien Hou. Escrito por T'ien-wen Chu, Hsiao-Hsien Hou. Com Qi Shu, Chen Chang, Fang Mei, Shu-Chen Liao, Mei Di, Shi-Shan Chen, Lee Pei-Hsuan, Lawrence Ko."

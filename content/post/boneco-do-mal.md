@@ -2,7 +2,7 @@
 tags: ['netflix']
 imdb: "3882082"
 date: "2016-09-11"
-categories: "movies"
+categories: [ "movies" ]
 title: "Boneco do Mal"
 stars: "4/5"
 desc: "Boneco do Mal. The Boy (Canada, 2016). Dirigido por William Brent Bell. Escrito por Stacey Menear. Com Lauren Cohan, Rupert Evans, James Russell, Jim Norton, Diana Hardcastle, Ben Robson, Jett Klyne, Lily Pater, Matthew Walker."

@@ -1,7 +1,7 @@
 ---
 imdb: "1659337"
 date: "2012-11-29"
-categories: "movies"
+categories: [ "movies" ]
 title: "As Vantagens de Ser Invisível"
 stars: "5/5"
 desc: "As Vantagens de Ser Invisível. The Perks of Being a Wallflower (USA, 2012). Dirigido por Stephen Chbosky. Escrito por Stephen Chbosky, Stephen Chbosky. Com Logan Lerman, Dylan McDermott, Kate Walsh, Patrick de Ledebur, Johnny Simmons, Brian Balzerini, Tom Kruszewski, Nina Dobrev, Nicholas Braun."

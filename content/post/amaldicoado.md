@@ -1,7 +1,7 @@
 ---
 imdb: "1528071"
 date: "2015-06-07"
-categories: "movies"
+categories: [ "movies" ]
 title: "Amaldiçoado"
 stars: "3/5"
 desc: "Amaldiçoado. Horns (USA, 2013). Dirigido por Alexandre Aja. Escrito por Keith Bunin, Joe Hill. Com Daniel Radcliffe, Max Minghella, Joe Anderson, Juno Temple, Kelli Garner, James Remar, Kathleen Quinlan, Heather Graham, David Morse."

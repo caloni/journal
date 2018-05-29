@@ -1,7 +1,7 @@
 ---
 imdb: "2981768"
 date: "2015-04-19"
-categories: "movies"
+categories: [ "movies" ]
 title: "Patema Inverted"
 stars: "4/5"
 desc: "Patema Inverted. Sakasama no Patema (Japan, 2013). Dirigido por Yasuhiro Yoshiura. Escrito por Marc Diraison, Yasuhiro Yoshiura. Com Yukiyo Fujii, Nobuhiko Okamoto, Shintarô Oohata, Shinya Fukumatsu, Masayuki Katô, Hiroki Yasumoto, Maaya Uchida, Takaya Hashi, Hideyuki Umezu."

@@ -1,7 +1,7 @@
 ---
 imdb: "0064757"
 date: "2013-02-01"
-categories: "movies"
+categories: [ "movies" ]
 title: "007 A Serviço Secreto de Sua Majestade"
 stars: "5/5"
 desc: "007 A Serviço Secreto de Sua Majestade. On Her Majesty's Secret Service (UK, 1969). Dirigido por Peter R. Hunt. Escrito por Simon Raven, Richard Maibaum, Ian Fleming. Com George Lazenby, Diana Rigg, Telly Savalas, Gabriele Ferzetti, Ilse Steppat, Lois Maxwell, George Baker, Bernard Lee, Bernard Horsfall."

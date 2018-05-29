@@ -1,7 +1,7 @@
 ---
 imdb: "3918584"
 date: "2016-07-14"
-categories: "movies"
+categories: [ "movies" ]
 title: "Mais Forte que o Mundo: A História de José Aldo"
 stars: "4/5"
 desc: "Mais Forte que o Mundo: A História de José Aldo. Mais Forte que o Mundo: A História de José Aldo (Brazil, 2016). Dirigido por Afonso Poyart. Escrito por Afonso Poyart, Marcelo Aleixo Machado. Com Cleo Pires, Milhem Cortaz, Romulo Neto, Claudia Ohana, José Loreto, Paloma Bernardi, Robson Nunes, Felipe Titto, Jackson Antunes."

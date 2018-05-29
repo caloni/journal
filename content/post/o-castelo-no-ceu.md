@@ -1,7 +1,7 @@
 ---
 imdb: "0092067"
 date: "2014-12-24"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Castelo no Céu"
 stars: "5/5"
 desc: "O Castelo no Céu. Tenkû no shiro Rapyuta (Japan, 1986). Dirigido por Hayao Miyazaki. Escrito por Hayao Miyazaki. Com Anna Paquin, James Van Der Beek, Cloris Leachman, Mark Hamill, Richard Dysart, Jim Cummings, John Hostetter, Michael McShane, Mandy Patinkin."

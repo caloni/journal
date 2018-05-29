@@ -2,7 +2,7 @@
 tags: ['cabine']
 imdb: "1974419"
 date: "2016-09-23"
-categories: "movies"
+categories: [ "movies" ]
 title: "Demônio de Neon"
 stars: "5/5"
 desc: "Demônio de Neon. The Neon Demon (France, 2016). Dirigido por Nicolas Winding Refn. Escrito por Nicolas Winding Refn, Nicolas Winding Refn, Mary Laws, Polly Stenham. Com Elle Fanning, Karl Glusman, Jena Malone, Bella Heathcote, Abbey Lee, Desmond Harrington, Christina Hendricks, Keanu Reeves, Charles Baker."

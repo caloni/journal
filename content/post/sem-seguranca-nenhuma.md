@@ -1,7 +1,7 @@
 ---
 imdb: "1862079"
 date: "2015-07-20"
-categories: "movies"
+categories: [ "movies" ]
 title: "Sem Segurança Nenhuma"
 stars: "3/5"
 desc: "Sem Segurança Nenhuma. Safety Not Guaranteed (USA, 2012). Dirigido por Colin Trevorrow. Escrito por Derek Connolly. Com Aubrey Plaza, Lauren Carlos, Basil Harris, Mary Lynn Rajskub, Jake Johnson, Karan Soni, David Schultz, Jeff Garlin, Mark Duplass."

@@ -1,7 +1,7 @@
 ---
 imdb: "0089218"
 date: "2011-10-13"
-categories: "movies"
+categories: [ "movies" ]
 title: "Os Goonies"
 stars: "5/5"
 desc: "Os Goonies. The Goonies (USA, 1985). Dirigido por Richard Donner. Escrito por Steven Spielberg, Chris Columbus. Com Sean Astin, Josh Brolin, Jeff Cohen, Corey Feldman, Kerri Green, Martha Plimpton, Jonathan Ke Quan, John Matuszak, Robert Davi."

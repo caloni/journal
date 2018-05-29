@@ -1,7 +1,7 @@
 ---
 imdb: "1645109"
 date: "2011-11-01"
-categories: "movies"
+categories: [ "movies" ]
 title: "Maria My Love"
 stars: "3/5"
 desc: "Maria My Love. Maria My Love (USA, 2011). Dirigido por Jasmine McGlade. Escrito por Lauren Fales, Jasmine McGlade, Jasmine McGlade. Com Judy Marte, Karen Black, Brian Rieger, Lauren Fales, Nick Alexander, Ginger Allegre, Lucy Angelo, Briley Barrett, Debi Bradshaw."

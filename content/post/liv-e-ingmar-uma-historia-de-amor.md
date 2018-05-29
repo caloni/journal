@@ -1,7 +1,7 @@
 ---
 imdb: "2327430"
 date: "2012-12-19"
-categories: "movies"
+categories: [ "movies" ]
 title: "Liv e Igmar Uma História de Amor"
 stars: "3/5"
 desc: "Liv e Igmar Uma História de Amor. Liv & Ingmar (Norway, 2012). Dirigido por Dheeraj Akolkar. Escrito por Dheeraj Akolkar, Ragnhild Lund. Com Liv Ullmann, Ingmar Bergman, Samuel Fröler, Erland Josephson, Bibi Andersson, Max von Sydow, Harriet Andersson, Ingrid Thulin, Ingrid Bergman."

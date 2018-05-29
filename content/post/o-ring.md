@@ -2,7 +2,7 @@
 tags: ['paulocoelho']
 imdb: "0018328"
 date: "2017-01-17"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Ring"
 stars: "2/5"
 desc: "O Ring. The Ring (UK, 1927). Dirigido por Alfred Hitchcock. Escrito por Alfred Hitchcock, Alma Reville, Eliot Stannard. Com Carl Brisson ('One-Round' Jack Sander), Lillian Hall-Davis (The Girl), Ian Hunter (Bob Corby), Forrester Harvey (The Promoter), Harry Terry (The Showman), Gordon Harker (Jack's Trainer), Eugene Corri (Himself - Referee), Charles Farrell (Second), Clare Greet (Fortune Teller)."

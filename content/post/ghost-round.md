@@ -2,7 +2,7 @@
 tags: ['netflix', 'series']
 imdb: "1097194"
 date: "2016-10-23"
-categories: "series"
+categories: [ "series" ]
 title: "Ghost Hound"
 stars: "3/5"
 desc: "Ghost Hound. Ghost Hound (Japan, 2007). Dirigido por Ryûtarô Nakamura. Escrito por Chiaki Konaka. Com Kara Greenberg (Miki Komori / ...)."

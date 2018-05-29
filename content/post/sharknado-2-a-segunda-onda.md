@@ -2,7 +2,7 @@
 tags: ['netflix']
 imdb: "3062074"
 date: "2016-08-20"
-categories: "movies"
+categories: [ "movies" ]
 title: "Sharknado 2: A Segunda Onda"
 stars: "1/5"
 desc: "Sharknado 2: A Segunda Onda. Sharknado 2: The Second One (USA, 2014). Dirigido por Anthony C. Ferrante. Escrito por Thunder Levin. Com Ian Ziering, Tara Reid, Vivica A. Fox, Mark McGrath, Kari Wuhrer, Courtney Baxter, Dante Palminteri, Judd Hirsch, Stephanie Abrams."

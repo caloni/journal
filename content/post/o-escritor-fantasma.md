@@ -1,7 +1,7 @@
 ---
 imdb: "1139328"
 date: "2010-05-28"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Escritor Fantasma"
 stars: "5/5"
 desc: "O Escritor Fantasma. The Ghost Writer (France, 2010). Dirigido por Roman Polanski. Escrito por Robert Harris, Roman Polanski, Robert Harris. Com Ewan McGregor, Jon Bernthal, Tim Preece, James Belushi, Timothy Hutton, Anna Botting, Yvonne Tomlinson, Milton Welsh, Alister Mazzotti."

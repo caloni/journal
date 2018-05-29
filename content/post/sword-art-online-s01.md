@@ -2,7 +2,7 @@
 tags: ['swordartonline', 'series']
 imdb: "2250192"
 date: "2014-04-16"
-categories: "series"
+categories: [ "series" ]
 title: "Sword Art Online - Primeira Temporada"
 stars: "4/5"
 desc: "Sword Art Online - Primeira Temporada. Sword Art Online (Japan, 2012). Dirigido por Tomohiko Ito, Alex Von David, Pyeon-Gang Ho, Yoshiyuki Fujiwara, Yasuyuki Fuse, Makoto Hoshino, Shigetaka Ikeda, Takahiro Shikama, Tatsumi Fujii. Escrito por Reki Kawahara, Alex Von David, Yukito Kizawa, Yukie Sugawara, Yoshikazu Mukai, Munemasa Nakamoto, Shûji Iriyama, Naoki Shôji. Com Yoshitsugu Matsuoka, Bryce Papenbrook, Cherami Leigh, Haruka Tomatsu, Kanae Itô, Ayana Taketatsu."

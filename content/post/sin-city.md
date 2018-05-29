@@ -1,7 +1,7 @@
 ---
 imdb: "0401792"
 date: "2016-10-09"
-categories: "movies"
+categories: [ "movies" ]
 title: "Sin City: A Cidade do Pecado"
 stars: "5/5"
 desc: "Sin City: A Cidade do Pecado. Sin City (USA, 2005). Dirigido por Frank Miller, Robert Rodriguez, Quentin Tarantino. Escrito por Frank Miller. Com Jessica Alba (Nancy Callahan), Devon Aoki (Miho), Alexis Bledel (Becky), Powers Boothe (Senator Roark), Cara D. Briggs (Hearing Panel Person), Jude Ciccolella (Liebowitz), Jeffrey J. Dashnaw (Motorcycle Cop), Rosario Dawson (Gail), Jesse De Luna (Corporal Rivera)."

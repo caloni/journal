@@ -2,7 +2,7 @@
 tags: ['cinema']
 imdb: "4624424"
 date: "2016-10-15"
-categories: "movies"
+categories: [ "movies" ]
 title: "Cegonhas - A História Que Não Te Contaram"
 stars: "4/5"
 desc: "Cegonhas - A História Que Não Te Contaram. Storks (USA, 2016). Dirigido por Nicholas Stoller, Doug Sweetland. Escrito por Nicholas Stoller. Com Andy Samberg (Junior), Katie Crown (Tulip), Kelsey Grammer (Hunter), Jennifer Aniston (Sarah Gardner), Ty Burrell (Henry Gardner), Anton Starkman (Nate Gardner), Keegan-Michael Key (Alpha Wolf), Jordan Peele (Beta Wolf), Danny Trejo (Jasper)."

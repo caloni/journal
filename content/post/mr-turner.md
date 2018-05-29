@@ -1,7 +1,7 @@
 ---
 imdb: "2473794"
 date: "2015-02-22"
-categories: "movies"
+categories: [ "movies" ]
 title: "Mr. Turner"
 stars: "4/5"
 desc: "Mr. Turner. Mr. Turner (UK, 2014). Dirigido por Mike Leigh. Escrito por Mike Leigh. Com Timothy Spall, Paul Jesson, Dorothy Atkinson, Marion Bailey, Karl Johnson, Ruth Sheen, Sandy Foster, Amy Dawson, Lesley Manville."

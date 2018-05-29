@@ -1,7 +1,7 @@
 ---
 imdb: "2087864"
 date: "2011-10-25"
-categories: "movies"
+categories: [ "movies" ]
 title: "Là-bas A Criminal Education"
 stars: "3/5"
 desc: "Là-bas A Criminal Education. Là-bas (Italy, 2011). Dirigido por Guido Lombardi. Escrito por Guido Lombardi. Com Kader Alassane, Moussa Mone, Esther Elisha, Billi Serigne Faye, Alassane Doulougou, Fatima Traore, Salvatore Ruocco, Marco De Notaris."

@@ -1,7 +1,7 @@
 ---
 imdb: "2551492"
 date: "2013-10-19"
-categories: "movies"
+categories: [ "movies" ]
 title: "Wajma"
 stars: "3/5"
 desc: "Wajma. Wajma (Afghanistan, 2013). Dirigido por Barmak Akram. Escrito por Barmak Akram. Com Wajma Bahar, Mustafa Abdulsatar, Haji Gul Aser, Brehna Bahar."

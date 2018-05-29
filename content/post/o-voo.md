@@ -1,7 +1,7 @@
 ---
 imdb: "1907668"
 date: "2013-02-10"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Voo"
 stars: "5/5"
 desc: "O Voo. Flight (USA, 2012). Dirigido por Robert Zemeckis. Escrito por John Gatins. Com Nadine Velazquez, Denzel Washington, Carter Cabassa, Adam C. Edwards, Tamara Tunie, Brian Geraghty, Kelly Reilly, Conor O'Neill, Charlie E. Schmidt."

@@ -1,7 +1,7 @@
 ---
 imdb: "1305806"
 date: "2011-06-26"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Segredo dos Seus Olhos"
 stars: "5/5"
 desc: "O Segredo dos Seus Olhos. El secreto de sus ojos (Argentina, 2009). Dirigido por Juan José Campanella. Escrito por Eduardo Sacheri, Juan José Campanella, Eduardo Sacheri. Com Soledad Villamil, Ricardo Darín, Carla Quevedo, Pablo Rago, Javier Godino, Bárbara Palladino, Rudy Romano, Alejandro Abelenda, Mario Alarcón."

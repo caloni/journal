@@ -1,7 +1,7 @@
 ---
 imdb: "1535108"
 date: "2013-09-21"
-categories: "movies"
+categories: [ "movies" ]
 title: "Elysium"
 stars: "3/5"
 desc: "Elysium. Elysium (USA, 2013). Dirigido por Neill Blomkamp. Escrito por Neill Blomkamp. Com Matt Damon, Jodie Foster, Sharlto Copley, Alice Braga, Diego Luna, Wagner Moura, William Fichtner, Brandon Auret, Josh Blacker."

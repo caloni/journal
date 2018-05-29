@@ -1,7 +1,7 @@
 ---
 imdb: "0864835"
 date: "2015-01-01"
-categories: "movies"
+categories: [ "movies" ]
 title: "Mr. Peabody e Sherman"
 stars: "4/5"
 desc: "Mr. Peabody e Sherman. Mr. Peabody & Sherman (USA, 2014). Dirigido por Rob Minkoff. Escrito por Jay Ward, Craig Wright, Robert Ben Garant, Thomas Lennon, Ted Key, Michael McCullers. Com Ty Burrell, Max Charles, Lauri Fraser, Guillaume Aretos, Patrice A. Musick, Ariel Winter, Karan Brar, Joshua Rush, Stephen Tobolowsky."

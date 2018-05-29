@@ -1,7 +1,7 @@
 ---
 imdb: "0903624"
 date: "2012-12-17"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Hobbit Uma Jornada Inesperada"
 stars: "3/5"
 desc: "O Hobbit Uma Jornada Inesperada. The Hobbit: An Unexpected Journey (USA, 2012). Dirigido por Peter Jackson. Escrito por Fran Walsh, Philippa Boyens, Peter Jackson, Guillermo del Toro, J.R.R. Tolkien. Com Ian McKellen, Martin Freeman, Richard Armitage, Ken Stott, Graham McTavish, William Kircher, James Nesbitt, Stephen Hunter, Dean O'Gorman."

@@ -1,7 +1,7 @@
 ---
 imdb: "1650554"
 date: "2015-03-10"
-categories: "movies"
+categories: [ "movies" ]
 title: "Kick Ass 2"
 stars: "2/5"
 desc: "Kick Ass 2. Kick-Ass 2 (USA, 2013). Dirigido por Jeff Wadlow. Escrito por Jeff Wadlow, Mark Millar, John Romita Jr. Com Aaron Taylor-Johnson, Chloë Grace Moretz, Morris Chestnut, Claudia Lee, Amy Anzel, Clark Duke, Augustus Prew, Mary Kitchen, Donald Faison."

@@ -1,7 +1,7 @@
 ---
 imdb: "0198781"
 date: "2012-02-20"
-categories: "movies"
+categories: [ "movies" ]
 title: "Monstros S/A"
 stars: "4/5"
 desc: "Monstros S/A. Monsters, Inc. (USA, 2001). Dirigido por Pete Docter, David Silverman, Lee Unkrich. Escrito por Pete Docter, Jill Culton, Jeff Pidgeon, Ralph Eggleston, Andrew Stanton, Daniel Gerson, Robert L. Baird, Rhett Reese, Jonathan Roberts. Com John Goodman, Billy Crystal, Mary Gibbs, Steve Buscemi, James Coburn, Jennifer Tilly, Bob Peterson, John Ratzenberger, Frank Oz."

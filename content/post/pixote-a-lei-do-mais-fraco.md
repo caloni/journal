@@ -1,7 +1,7 @@
 ---
 imdb: "0082912"
 date: "2015-12-07"
-categories: "movies"
+categories: [ "movies" ]
 title: "Pixote: A Lei do Mais Fraco"
 stars: "5/5"
 desc: "Pixote: A Lei do Mais Fraco. Pixote: A Lei do Mais Fraco (Brazil, 1981). Dirigido por Hector Babenco. Escrito por Hector Babenco, Jorge Durán, Hector Babenco, Jorge Durán, José Louzeiro. Com Fernando Ramos da Silva, Jorge Julião, Gilberto Moura, Edilson Lino, Zenildo Oliveira Santos, Claudio Bernardo, Israel Feres David, Jose Nilson Martin Dos Santos, Marília Pêra."

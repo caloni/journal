@@ -1,7 +1,7 @@
 ---
 imdb: "3398268"
 date: "2015-09-13"
-categories: "movies"
+categories: [ "movies" ]
 title: "Quando Estou Com Marnie"
 stars: "4/5"
 revision: [datetime.date(2015, 11, 22)]

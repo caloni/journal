@@ -1,7 +1,7 @@
 ---
 imdb: "2925942"
 date: "2013-05-17"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Que Se Move"
 stars: "4/5"
 desc: "O Que Se Move. O Que Se Move (Brazil, 2013). Dirigido por Caetano Gotardo. Escrito por Caetano Gotardo. Com Cida Moreira, Andréa Marquee, Fernanda Vianna, Rômulo Braga, Wandré Gouveia, Henrique Schafer, Gabriel Dos Reis, Dagoberto Feliz, Adriana Mendonça."

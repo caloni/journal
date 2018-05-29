@@ -1,7 +1,7 @@
 ---
 imdb: "0096874"
 date: 2016-03-20
-categories: "movies"
+categories: [ "movies" ]
 title: "De Volta para o Futuro Parte II"
 stars: "5/5"
 revision: [datetime.date(2016, 3, 18)]

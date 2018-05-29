@@ -1,7 +1,7 @@
 ---
 imdb: "1480656"
 date: "2012-10-12"
-categories: "movies"
+categories: [ "movies" ]
 title: "Cosmópolis"
 stars: "4/5"
 desc: "Cosmópolis. Cosmopolis (Canada, 2012). Dirigido por David Cronenberg. Escrito por David Cronenberg, Don DeLillo. Com Robert Pattinson, Sarah Gadon, Paul Giamatti, Kevin Durand, Abdul Ayoola, Juliette Binoche, Emily Hampshire, Bob Bainborough, Samantha Morton."

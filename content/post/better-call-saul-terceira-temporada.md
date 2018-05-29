@@ -2,7 +2,7 @@
 tags: ['netflix', 'bettercallsaul', 'series']
 imdb: "3032476"
 date: "2017-07-03"
-categories: "blog"
+categories: [ "blog" ]
 title: "Better Call Saul - Terceira Temporada"
 stars: "4/5"
 desc: "Better Call Saul - Terceira Temporada. Better Call Saul (USA, 2015). Dirigido por Vince Gilligan, Thomas Schnauz, Adam Bernstein, Peter Gould, Colin Bucksey, Larysa Kondracki, Terry McDonough, John Shiban. Escrito por Vince Gilligan, Peter Gould, Gordon Smith, Ann Cherkis, Gennifer Hutchison, Thomas Schnauz, Jonathan Glatzer, Heather Marion. Com Bob Odenkirk (Jimmy McGill), Jonathan Banks (Mike Ehrmantraut), Rhea Seehorn (Kim Wexler), Patrick Fabian (Howard Hamlin), Michael Mando (Nacho Varga), Michael McKean (Chuck McGill)."

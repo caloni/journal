@@ -1,7 +1,7 @@
 ---
 imdb: "2200144"
 date: "2016-03-13"
-categories: "movies"
+categories: [ "movies" ]
 title: "Demi-soeur"
 stars: "4/5"
 desc: "Demi-soeur. Demi-soeur (France, 2013). Dirigido por Josiane Balasko. Escrito por Josiane Balasko, Franck Le Joseph. Com Josiane Balasko, Michel Blanc, Brigitte Roüan, Françoise Lépine, George Aguilar, Christine Murillo, Grégoire Baujat, Jean-Yves Chatelais, Stéphan Wojtowicz."

@@ -1,7 +1,7 @@
 ---
 imdb: "2510894"
 date: "2016-02-22"
-categories: "movies"
+categories: [ "movies" ]
 title: "Hotel Transilvânia 2"
 stars: "3/5"
 desc: "Hotel Transilvânia 2. Hotel Transylvania 2 (USA, 2015). Dirigido por Genndy Tartakovsky. Escrito por Robert Smigel, Adam Sandler. Com Adam Sandler, Andy Samberg, Selena Gomez, Kevin James, Steve Buscemi, David Spade, Keegan-Michael Key, Asher Blinkoff, Fran Drescher."

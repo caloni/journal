@@ -1,7 +1,7 @@
 ---
 imdb: "1655442"
 date: "2012-02-16"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Artista"
 stars: "5/5"
 desc: "O Artista. The Artist (France, 2011). Dirigido por Michel Hazanavicius. Escrito por Michel Hazanavicius. Com Jean Dujardin, Bérénice Bejo, John Goodman, James Cromwell, Penelope Ann Miller, Missi Pyle, Beth Grant, Ed Lauter, Joel Murray."

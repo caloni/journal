@@ -2,7 +2,7 @@
 tags: ['filosofia']
 imdb: "0242653"
 date: 2017-09-18T21:53:43
-categories: "blog"
+categories: [ "blog" ]
 title: "Matrix: Ghost in The Shell"
 stars: "5/5"
 desc: "Matrix: Ghost in The Shell. The Matrix Revolutions (Australia, 2003). Dirigido por Lana Wachowski, Lilly Wachowski. Escrito por Lilly Wachowski, Lana Wachowski. Com Mary Alice (The Oracle), Tanveer K. Atwal (Sati), Helmut Bakaitis (The Architect), Kate Beahan (Coat Check Girl), Francine Bell (Councillor Grace), Monica Bellucci (Persephone), Rachel Blackman (Charra), Henry Blasingame (Deus Ex Machina), Ian Bliss (Bane)."

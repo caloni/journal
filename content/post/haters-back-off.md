@@ -2,7 +2,7 @@
 tags: ['netflix', 'series']
 imdb: "5467814"
 date: "2016-12-04"
-categories: "series"
+categories: [ "series" ]
 title: "Haters Back Off!"
 stars: "3/5"
 desc: "Haters Back Off!. Haters Back Off! (USA, 2016). Dirigido por Andrew Gaynord, Todd Rohal. Escrito por Christopher Ballinger, Colleen Ballinger, Gigi McCreery, Perry M. Rein, Justin Varava, Russ Woody. Com Colleen Ballinger (Miranda Sings), Angela Kinsey (Bethany), Francesca Reale (Emily), Erik Stocklin (Patrick), Steve Little (Jim / ...), Chaz Lamar Shepherd (Keith)."

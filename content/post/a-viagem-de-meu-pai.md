@@ -2,7 +2,7 @@
 tags: ['cabine']
 imdb: "4163636"
 date: "2016-07-22"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Viagem de Meu Pai"
 stars: "4/5"
 desc: "A Viagem de Meu Pai. Floride (France, 2015). Dirigido por Philippe Le Guay. Escrito por Florian Zeller, Philippe Le Guay, Jérôme Tonnerre. Com Jean Rochefort, Sandrine Kiberlain, Laurent Lucas, Anamaria Marinca, Clément Métayer, Coline Beal, Édith Le Merdy, Christèle Tual, Carine Piazzi."

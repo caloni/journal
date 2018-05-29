@@ -2,7 +2,7 @@
 tags: ['cinema', 'oscar']
 imdb: "1679335"
 date: "2016-11-17"
-categories: "movies"
+categories: [ "movies" ]
 title: "Trolls"
 review: ['2016-11-20']
 stars: "5/5"

@@ -1,7 +1,7 @@
 ---
 imdb: "2758890"
 date: "2014-09-11"
-categories: "movies"
+categories: [ "movies" ]
 title: "Bem-Vindo a Nova York"
 stars: "4/5"
 desc: "Bem-Vindo a Nova York. Welcome to New York (USA, 2014). Dirigido por Abel Ferrara. Escrito por Abel Ferrara, Christ Zois. Com Jacqueline Bisset, Gérard Depardieu, Amy Ferguson, Drena De Niro, Paul Calderon, Paul Hipp, Maria Di Angelis, Ronald Guttman, Natasha Romanova."

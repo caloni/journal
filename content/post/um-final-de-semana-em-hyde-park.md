@@ -1,7 +1,7 @@
 ---
 imdb: "1477855"
 date: "2014-02-08"
-categories: "movies"
+categories: [ "movies" ]
 title: "Um Final de Semana em Hyde Park"
 stars: "3/5"
 desc: "Um Final de Semana em Hyde Park. Hyde Park on Hudson (UK, 2012). Dirigido por Roger Michell. Escrito por Richard Nelson. Com Bill Murray, Laura Linney, Samuel West, Olivia Colman, Elizabeth Marvel, Olivia Williams, Elizabeth Wilson, Martin McDougall, Andrew Havill."

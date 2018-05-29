@@ -1,7 +1,7 @@
 ---
 imdb: "0091188"
 date: "2012-06-13"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Difícil Arte de Amar"
 stars: "3/5"
 desc: "A Difícil Arte de Amar. Heartburn (USA, 1986). Dirigido por Mike Nichols. Escrito por Nora Ephron, Nora Ephron. Com Meryl Streep, Jack Nicholson, Jeff Daniels, Maureen Stapleton, Stockard Channing, Richard Masur, Catherine O'Hara, Steven Hill, Milos Forman."

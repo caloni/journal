@@ -1,7 +1,7 @@
 ---
 imdb: "1234548"
 date: "2014-02-15"
-categories: "movies"
+categories: [ "movies" ]
 title: "Os Homens que Encaravam Cabras"
 stars: "4/5"
 desc: "Os Homens que Encaravam Cabras. The Men Who Stare at Goats (USA, 2009). Dirigido por Grant Heslov. Escrito por Peter Straughan, Jon Ronson. Com George Clooney, Ewan McGregor, Jeff Bridges, Kevin Spacey, Stephen Lang, Robert Patrick, Waleed Zuaiter, Stephen Root, Glenn Morshower."

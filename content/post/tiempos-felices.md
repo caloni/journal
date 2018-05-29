@@ -2,7 +2,7 @@
 tags: ['netflix']
 imdb: "2173244"
 date: "2017-03-10"
-categories: "movies"
+categories: [ "movies" ]
 title: "Tiempos Felices"
 stars: "3/5"
 desc: "Tiempos Felices. Tiempos Felices (Mexico, 2014). Dirigido por Luis Javier M. Henaine. Escrito por Luis Javier M. Henaine, Alejandra Olvera Avila. Com Luis Arrieta (Max Quintana), Cassandra Ciangherotti (Mónica Villalobos), Humberto Busto (Niko), Iván Arana (Rigo), Daniela Gerdes (Andrea Villalobos), Miguel Rodarte (Psicólogo Agencia), J.C. Montes-Roldan (Investigador Agencia), Jorge Caballero (Investigador Agencia), Elizabeth Guindi (Señora Villalobos)."

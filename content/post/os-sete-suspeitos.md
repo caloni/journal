@@ -1,7 +1,7 @@
 ---
 imdb: "0088930"
 date: "2012-03-04"
-categories: "movies"
+categories: [ "movies" ]
 title: "Os 7 Suspeitos"
 stars: "3/5"
 desc: "Os 7 Suspeitos. Clue (USA, 1985). Dirigido por Jonathan Lynn. Escrito por John Landis, Jonathan Lynn, Jonathan Lynn, Anthony E. Pratt. Com Eileen Brennan, Tim Curry, Madeline Kahn, Christopher Lloyd, Michael McKean, Martin Mull, Lesley Ann Warren, Colleen Camp, Lee Ving."

@@ -1,7 +1,7 @@
 ---
 imdb: "1764651"
 date: "2012-09-03"
-categories: "movies"
+categories: [ "movies" ]
 title: "Os Mercenários 2"
 stars: "3/5"
 desc: "Os Mercenários 2. The Expendables 2 (USA, 2012). Dirigido por Simon West. Escrito por Richard Wenk, Sylvester Stallone, Ken Kaufman, David Agosto, Richard Wenk, Dave Callaham. Com Sylvester Stallone, Jason Statham, Jet Li, Dolph Lundgren, Chuck Norris, Jean-Claude Van Damme, Bruce Willis, Arnold Schwarzenegger, Terry Crews."

@@ -2,7 +2,7 @@
 tags: ['dexter', 'series']
 imdb: "0773262"
 date: "2014-11-09"
-categories: "series"
+categories: [ "series" ]
 title: "Dexter - Sétima Temporada"
 stars: "3/5"
 desc: "Dexter - Sétima Temporada. Dexter (USA, 2006). Dirigido por John Dahl, Steve Shill, Keith Gordon, Marcos Siega, Ernest R. Dickerson, Romeo Tirone, Michael Cuesta, Tony Goldwyn, S.J. Clarkson. Escrito por Jeff Lindsay, James Manos Jr., Scott Buck, Tim Schlattmann, Lauren Gussis, Karen Campbell, Jennifer Yale, Melissa Rosenberg, Scott Reynolds. Com Michael C. Hall, Jennifer Carpenter, David Zayas, James Remar, C.S. Lee, Bruce Holman, Lauren Vélez, Desmond Harrington, Julie Benz."

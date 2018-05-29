@@ -1,7 +1,7 @@
 ---
 imdb: "0115641"
 date: "2015-11-28"
-categories: "movies"
+categories: [ "movies" ]
 title: "Beavis and Butt-head Conquistam a América"
 stars: "3/5"
 desc: "Beavis and Butt-head Conquistam a América. Beavis and Butt-Head Do America (USA, 1996). Dirigido por Mike Judge, Mike de Seve, Yvette Kaplan, Brian Mulroney. Escrito por Mike Judge, Joe Stillman, Brian Mulroney. Com Mike Judge, Bruce Willis, Demi Moore, Cloris Leachman, Robert Stack, Jacqueline Barba, Pamela Blair, Eric Bogosian, Kristofor Brown."

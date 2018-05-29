@@ -1,7 +1,7 @@
 ---
 date: "2016-09-05"
 title: "200 Grandes Diretores"
-categories: "blog"
+categories: [ "blog" ]
 tags: ['listas', 'paulocoelho', 'diretores']
 desc: "200 Grandes Diretores."
 ---

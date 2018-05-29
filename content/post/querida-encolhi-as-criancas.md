@@ -1,7 +1,7 @@
 ---
 imdb: "0097523"
 date: "2016-01-16"
-categories: "movies"
+categories: [ "movies" ]
 title: "Querida, Encolhi as Crianças"
 stars: "3/5"
 desc: "Querida, Encolhi as Crianças. Honey, I Shrunk the Kids (USA, 1989). Dirigido por Joe Johnston. Escrito por Stuart Gordon, Brian Yuzna, Ed Naha, Ed Naha, Tom Schulman. Com Rick Moranis, Matt Frewer, Marcia Strassman, Kristine Sutherland, Thomas Wilson Brown, Jared Rushton, Amy O'Neill, Robert Oliveri, Carl Steven."

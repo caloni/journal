@@ -1,7 +1,7 @@
 ---
 imdb: "2180411"
 date: "2015-05-11"
-categories: "movies"
+categories: [ "movies" ]
 title: "Caminhos da Floresta"
 stars: "2/5"
 desc: "Caminhos da Floresta. Into the Woods (USA, 2014). Dirigido por Rob Marshall. Escrito por James Lapine, James Lapine, Stephen Sondheim. Com Anna Kendrick, Daniel Huttlestone, James Corden, Emily Blunt, Christine Baranski, Tammy Blanchard, Lucy Punch, Tracey Ullman, Lilla Crawford."

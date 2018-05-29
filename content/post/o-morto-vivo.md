@@ -1,7 +1,7 @@
 ---
 imdb: "1336006"
 date: "2013-08-05"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Morto Vivo"
 stars: "4/5"
 desc: "O Morto Vivo. The Revenant (USA, 2009). Dirigido por D. Kerry Prior. Escrito por D. Kerry Prior. Com David Anders, Chris Wylde, Louise Griffiths, Jacy King, Eric Payne, Bernardo Badillo, Theda Reichman, Richard Reichman, Wally White."

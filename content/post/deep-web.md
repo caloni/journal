@@ -2,7 +2,7 @@
 tags: ['netflix']
 imdb: "3312868"
 date: "2017-03-26"
-categories: "movies"
+categories: [ "movies" ]
 title: "Deep Web"
 stars: "4/5"
 desc: "Deep Web. Deep Web (USA, 2015). Dirigido por Alex Winter. Escrito por Alex Winter. Com Nicolas Christin (Himself), Cindy Cohn (Herself), Joshua L. Dratel (Himself), Andy Greenberg (Himself), Keanu Reeves (Narration), Runa Sandvik (Herself), Todd Shipley (Himself), Christopher Soghoian (Himself), Amir Taaki (Himself)."

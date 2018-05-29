@@ -1,7 +1,7 @@
 ---
 imdb: "2582802"
 date: "2015-04-22"
-categories: "movies"
+categories: [ "movies" ]
 title: "Whiplash: Em Busca da Perfeição"
 stars: "5/5"
 desc: "Whiplash: Em Busca da Perfeição. Whiplash (USA, 2014). Dirigido por Damien Chazelle. Escrito por Damien Chazelle. Com Miles Teller, J.K. Simmons, Paul Reiser, Melissa Benoist, Austin Stowell, Nate Lang, Chris Mulkey, Damon Gupton, Suanne Spoke."

@@ -1,7 +1,7 @@
 ---
 imdb: "1860353"
 date: "2014-05-23"
-categories: "movies"
+categories: [ "movies" ]
 title: "Turbo"
 stars: "4/5"
 desc: "Turbo. Turbo (USA, 2013). Dirigido por David Soren. Escrito por Darren Lemke, Robert D. Siegel, David Soren, David Soren. Com Ryan Reynolds, Paul Giamatti, Michael Peña, Samuel L. Jackson, Luis Guzmán, Bill Hader, Snoop Dogg, Maya Rudolph, Ben Schwartz."

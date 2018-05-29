@@ -3,7 +3,7 @@ tags: ['cabine']
 cinemaqui: "http://www.cinemaqui.com.br/julho-agosto/"
 imdb: "5078158"
 date: "2017-07-05"
-categories: "movies"
+categories: [ "movies" ]
 title: "Julho Agosto"
 stars: "3/5"
 desc: "Julho Agosto. Juillet août (France, 2016). Dirigido por Diastème. Escrito por Diastème, Camille Pouzol. Com Luna Lou (Laura), Pascale Arbillot (Anne Bruant), Alma Jodorowsky (Joséphine), Patrick Chesnais (Michel Lanoy), Thierry Godard (Franck), Jérémie Laheurte (Romain), Lou Chauvain (Moon), Ali Marhyar (Chérif), Délia Espinat-Dief (Gwen)."

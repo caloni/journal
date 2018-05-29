@@ -1,7 +1,7 @@
 ---
 imdb: "2277860"
 date: "2016-07-18"
-categories: "movies"
+categories: [ "movies" ]
 title: "Procurando Dory"
 stars: "2/5"
 desc: "Procurando Dory. Finding Dory (USA, 2016). Dirigido por Andrew Stanton, Angus MacLane. Escrito por Andrew Stanton, Andrew Stanton, Victoria Strouse, Bob Peterson, Angus MacLane. Com Ellen DeGeneres, Albert Brooks, Ed O'Neill, Kaitlin Olson, Hayden Rolence, Ty Burrell, Diane Keaton, Eugene Levy, Sloane Murray."

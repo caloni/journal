@@ -1,7 +1,7 @@
 ---
 imdb: "1712170"
 date: "2012-12-22"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Sombra do Inimigo"
 stars: "1/5"
 desc: "A Sombra do Inimigo. Alex Cross (USA, 2012). Dirigido por Rob Cohen. Escrito por Marc Moss, Kerry Williamson, James Patterson. Com Tyler Perry, Edward Burns, Matthew Fox, Jean Reno, Carmen Ejogo, Cicely Tyson, Rachel Nichols, John C. McGinley, Werner Daehn."

@@ -2,7 +2,7 @@
 tags: ['paulocoelho']
 imdb: "0458352"
 date: 2017-10-21T20:36:04
-categories: "movies"
+categories: [ "movies" ]
 title: "O Diabo Veste Prada"
 stars: "5/5"
 desc: "O Diabo Veste Prada. The Devil Wears Prada (USA, 2006). Dirigido por David Frankel. Escrito por Aline Brosh McKenna, Lauren Weisberger. Com Meryl Streep (Miranda Priestly), Anne Hathaway (Andy Sachs), Emily Blunt (Emily), Stanley Tucci (Nigel), Simon Baker (Christian Thompson), Adrian Grenier (Nate), Tracie Thoms (Lily), Rich Sommer (Doug), Daniel Sunjata (James Holt)."

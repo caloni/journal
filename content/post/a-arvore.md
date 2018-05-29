@@ -1,7 +1,7 @@
 ---
 imdb: "1496005"
 date: "2011-07-01"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Árvore"
 stars: "3/5"
 desc: "A Árvore. The Tree (France, 2010). Dirigido por Julie Bertuccelli. Escrito por Judy Pascoe, Julie Bertuccelli, Elizabeth J. Mars. Com Charlotte Gainsbourg, Morgana Davies, Marton Csokas, Christian Byers, Tom Russell, Gabriel Gotting, Aden Young, Penne Hackforth-Jones, Gillian Jones."

@@ -1,7 +1,7 @@
 ---
 imdb: "2241116"
 date: "2016-01-04"
-categories: "movies"
+categories: [ "movies" ]
 title: "White Rabbit"
 stars: "3/5"
 desc: "White Rabbit. White Rabbit (USA, 2013). Dirigido por Tim McCann. Escrito por Anthony Di Pietro, Anthony Di Pietro. Com Britt Robertson, Sam Trammell, Ryan Lee, Nick Krause, Dodie Brown, Kelcy Baker, Gabrielle N. Brown, Hayden Price, Cameron Feucht."

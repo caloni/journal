@@ -1,7 +1,7 @@
 ---
 imdb: "0059800"
 date: "2012-11-11"
-categories: "movies"
+categories: [ "movies" ]
 title: "007 Contra a Chantagem Atômica"
 stars: "3/5"
 desc: "007 Contra a Chantagem Atômica. Thunderball (UK, 1965). Dirigido por Terence Young. Escrito por Richard Maibaum, John Hopkins, Jack Whittingham, Kevin McClory, Jack Whittingham, Ian Fleming. Com Sean Connery, Claudine Auger, Adolfo Celi, Luciana Paluzzi, Rik Van Nutter, Guy Doleman, Molly Peters, Martine Beswick, Bernard Lee."

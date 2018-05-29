@@ -1,7 +1,7 @@
 ---
 imdb: "1024899"
 date: "2010-09-03"
-categories: "movies"
+categories: [ "movies" ]
 title: "Enfim Viúva"
 stars: "4/5"
 desc: "Enfim Viúva. Enfin veuve (France, 2007). Dirigido por Isabelle Mergault. Escrito por Isabelle Mergault, Isabelle Mergault, Jean-Pierre Hasson. Com Michèle Laroque, Jacques Gamblin, Wladimir Yordanoff, Tom Morton, Valérie Mairesse, Claire Nadeau, Eva Darlan, Caroline Raynaud, Paul Crauchet."

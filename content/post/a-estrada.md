@@ -1,7 +1,7 @@
 ---
 imdb: "0898367"
 date: "2012-12-31"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Estrada"
 stars: "4/5"
 desc: "A Estrada. The Road (USA, 2009). Dirigido por John Hillcoat. Escrito por Cormac McCarthy, Joe Penhall. Com Viggo Mortensen, Kodi Smit-McPhee, Robert Duvall, Guy Pearce, Molly Parker, Michael Kenneth Williams, Garret Dillahunt, Charlize Theron, Bob Jennings."

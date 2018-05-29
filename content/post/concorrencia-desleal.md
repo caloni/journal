@@ -1,7 +1,7 @@
 ---
 imdb: "0254235"
 date: "2010-12-20"
-categories: "movies"
+categories: [ "movies" ]
 title: "Concorrência Desleal"
 stars: "3/5"
 desc: "Concorrência Desleal. Concorrenza sleale (Italy, 2001). Dirigido por Ettore Scola. Escrito por Furio Scarpelli, Ettore Scola, Furio Scarpelli, Silvia Scola, Giacomo Scarpelli. Com Diego Abatantuono, Sergio Castellitto, Gérard Depardieu, Antonella Attili, Claudio Bigagli, Sandra Collodel, Augusto Fornari, Elio Germano, Sabrina Impacciatore."

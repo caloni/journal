@@ -1,7 +1,7 @@
 ---
 imdb: "0119396"
 date: "2016-02-08"
-categories: "movies"
+categories: [ "movies" ]
 title: "Jackie Brown"
 stars: "4/5"
 desc: "Jackie Brown. Jackie Brown (USA, 1997). Dirigido por Quentin Tarantino. Escrito por Quentin Tarantino, Elmore Leonard. Com Pam Grier, Samuel L. Jackson, Robert Forster, Bridget Fonda, Michael Keaton, Robert De Niro, Michael Bowen, Chris Tucker, LisaGay Hamilton."

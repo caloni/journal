@@ -1,7 +1,7 @@
 ---
 imdb: "0364569"
 date: "2012-07-22"
-categories: "movies"
+categories: [ "movies" ]
 title: "Old Boy"
 stars: "5/5"
 desc: "Old Boy. Oldeuboi (South Korea, 2003). Dirigido por Chan-wook Park. Escrito por Garon Tsuchiya, Nobuaki Minegishi, Jo-yun Hwang, Chun-hyeong Lim, Joon-hyung Lim, Chan-wook Park. Com Min-sik Choi, Ji-tae Yu, Hye-jeong Kang, Dae-han Ji, Dal-su Oh, Byeong-ok Kim, Seung-Shin Lee, Jin-seo Yoon, Dae-yeon Lee."

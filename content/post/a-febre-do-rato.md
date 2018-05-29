@@ -1,7 +1,7 @@
 ---
 imdb: "2200908"
 date: "2012-08-03"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Febre do Rato"
 stars: "5/5"
 desc: "A Febre do Rato. A Febre do Rato (Brazil, 2011). Dirigido por Cláudio Assis. Escrito por Hilton Lacerda. Com Irandhir Santos, Juliano Cazarré, Matheus Nachtergaele, Tânia Granussi, Maria Gladys, Ângela Leal, Conceição Camaroti, Mariana Nunes, Hugo Gila."

@@ -1,7 +1,7 @@
 ---
 imdb: "3072482"
 date: "2016-08-16"
-categories: "movies"
+categories: [ "movies" ]
 title: "Hardcore: Missão Extrema"
 stars: "4/5"
 desc: "Hardcore: Missão Extrema. Hardcore Henry (Russia, 2015). Dirigido por Ilya Naishuller. Escrito por Ilya Naishuller, Will Stewart. Com Sharlto Copley, Danila Kozlovsky, Haley Bennett, Tim Roth, Andrei Dementiev, Svetlana Ustinova, Darya Charusha, Oleg Poddubnyy, Jack Hahn."

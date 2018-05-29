@@ -1,7 +1,7 @@
 ---
 imdb: "0382932"
 date: "2011-11-20"
-categories: "movies"
+categories: [ "movies" ]
 title: "Ratatouille"
 stars: "5/5"
 desc: "Ratatouille. Ratatouille (USA, 2007). Dirigido por Brad Bird, Jan Pinkava. Escrito por Brad Bird, Jan Pinkava, Jim Capobianco, Brad Bird, Emily Cook, Kathy Greenberg, Bob Peterson. Com Patton Oswalt, Ian Holm, Lou Romano, Brian Dennehy, Peter Sohn, Peter O'Toole, Brad Garrett, Janeane Garofalo, Will Arnett."

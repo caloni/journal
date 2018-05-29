@@ -2,7 +2,7 @@
 tags: ['netflix', 'orangeisthenewblack', 'series']
 imdb: "2372162"
 date: "2014-06-19"
-categories: "blog"
+categories: [ "blog" ]
 title: "Orange is the New Black - Terceira Temporada"
 stars: "3/5"
 desc: "Orange is the New Black - Terceira Temporada. Orange Is the New Black (USA, 2013). Dirigido por Michael Trim, Andrew McCarthy, Phil Abraham, Constantine Makris, Uta Briesewitz, Jodie Foster. Escrito por Piper Kerman, Jenji Kohan, Sian Heder, Nick Jones, Lauren Morelli, Sara Hess, Tara Herrmann, Marco Ramirez. Com Taylor Schilling, Michael Harney, Kate Mulgrew, Natasha Lyonne, Uzo Aduba, Danielle Brooks, Samira Wiley, Dascha Polanco, Selenis Leyva."

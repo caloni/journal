@@ -3,7 +3,7 @@ tags: ['cabine']
 cinemaqui: "http://www.cinemaqui.com.br/una/"
 imdb: "2315582"
 date: "2017-04-06"
-categories: "movies"
+categories: [ "movies" ]
 title: "Una"
 stars: "4/5"
 desc: "Una. Una (UK, 2016). Dirigido por Benedict Andrews. Escrito por David Harrower. Com Rooney Mara (Una), Riz Ahmed (Scott), Ben Mendelsohn (Ray), Tobias Menzies (Mark), Poppy Corby-Tuech (Poppy), Tara Fitzgerald (Andrea), Natasha Little (Yvonne), Isobelle Molloy (Holly), Ciarán McMenamin (John)."

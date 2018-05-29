@@ -1,7 +1,7 @@
 ---
 imdb: "2241605"
 date: "2015-12-23"
-categories: "movies"
+categories: [ "movies" ]
 title: "Tese Sobre um Homicídio"
 stars: "3/5"
 desc: "Tese Sobre um Homicídio. Tesis sobre un homicidio (Argentina, 2013). Dirigido por Hernán Goldfrid. Escrito por Diego Paszkowski, Patricio Vega. Com Ricardo Darín, Alberto Ammann, Calu Rivero, Arturo Puig, Fabián Arenillas, Mara Bestelli, Antonio Ugo, José Luis Mazza, Mateo Chiarino."

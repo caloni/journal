@@ -2,7 +2,7 @@
 tags: ['netflix']
 imdb: "2614722"
 date: "2016-10-28"
-categories: "movies"
+categories: [ "movies" ]
 title: "Umrika"
 stars: "4/5"
 desc: "Umrika. Umrika (India, 2015). Dirigido por Prashant Nair. Escrito por Prashant Nair. Com Aashish Bhatt (Arun), Uplaksh Kochhar (Balwinder), Megh Pant (Bhima), Mayur More (Delivery Boy), Pankaj Chaudhary (Deliver Boy #1), Mukesh Agrohari (Farmer #1), Pramod Pathak (Father), Shreyas Pandit (Gopi), Rajesh Singh (Inspector at Docks #1)."

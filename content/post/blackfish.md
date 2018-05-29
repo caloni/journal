@@ -1,7 +1,7 @@
 ---
 imdb: "2545118"
 date: "2015-01-11"
-categories: "movies"
+categories: [ "movies" ]
 title: "Blackfish: Fúria Animal"
 stars: "5/5"
 desc: "Blackfish: Fúria Animal. Blackfish (USA, 2013). Dirigido por Gabriela Cowperthwaite. Escrito por Gabriela Cowperthwaite, Eli B. Despres, Tim Zimmermann. Com Tilikum, John Hargrove, Samantha Berg, Mark Simmons, Kim Ashdown, Dean Gomersall, James Earl Jones, Shamu, Carol Ray."

@@ -2,7 +2,7 @@
 tags: ['mostrasp']
 imdb: "5447294"
 date: "2016-10-28"
-categories: "movies"
+categories: [ "movies" ]
 title: "Hee"
 stars: "2/5"
 desc: "Hee. Hee (Japan, 2015). Dirigido por Kaori Momoi. Escrito por Fuminori Nakamura, Miyuki Takahashi, Kaori Momoi, Daisuke Kamijô. Com Kaori Momoi (Azusa), Yûgo Sasô (Sanada), Ayako Fujitani (Mrs. Sanada), Brian Sturges (Detective), Janilee Svärdstål (Patient), Sarah Kei Brooks (Nurse), Melody Thi (Miku), Mimosa Pagkaliwangan (Yume), Chris Harrison (John)."

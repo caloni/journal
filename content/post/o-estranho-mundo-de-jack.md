@@ -1,7 +1,7 @@
 ---
 imdb: "0107688"
 date: "2014-03-02"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Estranho Mundo de Jack"
 stars: "4/5"
 revision: [datetime.date(2015, 5, 29)]

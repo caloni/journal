@@ -1,7 +1,7 @@
 ---
 date: 2018-04-29T22:09:52-03:00
 title: "Os Fantasmas de Ismael"
-categories: "movies"
+categories: [ "movies" ]
 imdb: "5687040"
 stars: "4/5"
 desc: "Les fantômes d'Ismaël (França, 2017), escrito por Arnaud Desplechin, Julie Peyr e Léa Mysius, dirigido por Desplechin, com Mathieu Amalric, Marion Cotillard, Charlotte Gainsbourg, Louis Garrel, Alba Rohrwacher."

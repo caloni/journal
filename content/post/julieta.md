@@ -1,7 +1,7 @@
 ---
 imdb: "4326444"
 date: "2016-07-31"
-categories: "movies"
+categories: [ "movies" ]
 title: "Julieta"
 stars: "3/5"
 desc: "Julieta. Julieta (Spain, 2016). Dirigido por Pedro Almodóvar. Escrito por Pedro Almodóvar, Alice Munro. Com Adriana Ugarte, Rossy de Palma, Inma Cuesta, Michelle Jenner, Emma Suárez, Daniel Grao, Darío Grandinetti, Nathalie Poza, Agustín Almodóvar."

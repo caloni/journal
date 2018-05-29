@@ -1,7 +1,7 @@
 ---
 imdb: "2004420"
 date: "2015-01-17"
-categories: "movies"
+categories: [ "movies" ]
 title: "Vizinhos"
 stars: "3/5"
 desc: "Vizinhos. Neighbors (USA, 2014). Dirigido por Nicholas Stoller. Escrito por Andrew J. Cohen, Brendan O'Brien. Com Seth Rogen, Rose Byrne, Elise Vargas, Zoey Vargas, Brian Huskey, Ike Barinholtz, Carla Gallo, Zac Efron, Dave Franco."

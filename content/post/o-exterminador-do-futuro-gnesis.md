@@ -1,7 +1,7 @@
 ---
 imdb: "1340138"
 date: "2015-10-16"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Exterminador do Futuro: Gênesis"
 stars: "3/5"
 desc: "O Exterminador do Futuro: Gênesis. Terminator Genisys (USA, 2015). Dirigido por Alan Taylor. Escrito por Laeta Kalogridis, Patrick Lussier, James Cameron, Gale Anne Hurd. Com Arnold Schwarzenegger, Jason Clarke, Emilia Clarke, Jai Courtney, J.K. Simmons, Dayo Okeniyi, Matt Smith, Courtney B. Vance, Byung-hun Lee."

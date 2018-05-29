@@ -2,7 +2,7 @@
 tags: ['cabine']
 imdb: "4400038"
 date: "2016-06-03"
-categories: "movies"
+categories: [ "movies" ]
 title: "Chocolat"
 stars: "4/5"
 desc: "Chocolat. Chocolat (France, 2015). Dirigido por Roschdy Zem. Escrito por Cyril Gely, Olivier Gorce, Gérard Noiriel, Roschdy Zem. Com Omar Sy, James Thierrée, Clotilde Hesme, Olivier Gourmet, Frédéric Pierrot, Noémie Lvovsky, Alice de Lencquesaing, Alex Descas, Olivier Rabourdin."

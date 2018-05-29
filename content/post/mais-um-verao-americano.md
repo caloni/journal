@@ -2,7 +2,7 @@
 tags: ['netflix', 'series']
 imdb: "4341500"
 date: "2015-09-12"
-categories: "blog"
+categories: [ "blog" ]
 title: "Mais um Verão Americano (piloto)"
 stars: "2/5"
 desc: "Mais um Verão Americano (piloto). Wet Hot American Summer: First Day of Camp (USA, 2015). Dirigido por David Wain. Escrito por Michael Showalter, David Wain. Com Marguerite Moreau, Zak Orth, Paul Rudd, Michael Showalter, Michael Ian Black, Bradley Cooper, Janeane Garofalo, Amy Poehler, Molly Shannon."

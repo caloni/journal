@@ -1,7 +1,7 @@
 ---
 imdb: "0089606"
 date: "2015-08-02"
-categories: "movies"
+categories: [ "movies" ]
 title: "Minha Vida de Cachorro"
 stars: "4/5"
 desc: "Minha Vida de Cachorro. Mitt liv som hund (Sweden, 1985). Dirigido por Lasse Hallström. Escrito por Reidar Jönsson, Lasse Hallström, Reidar Jönsson, Brasse Brännström, Per Berglund. Com Anton Glanzelius, Tomas von Brömssen, Anki Lidén, Melinda Kinnaman, Kicki Rundgren, Lennart Hjulström, Ing-Marie Carlsson, Leif Ericson, Christina Carlwind."

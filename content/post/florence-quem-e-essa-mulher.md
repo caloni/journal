@@ -2,7 +2,7 @@
 tags: ['cabine', 'oscar']
 imdb: "4136084"
 date: "2016-06-10"
-categories: "movies"
+categories: [ "movies" ]
 title: "Florence - Quem é Essa Mulher?"
 review: ['2016-09-18']
 stars: "4/5"

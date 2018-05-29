@@ -1,7 +1,7 @@
 ---
 imdb: "1441952"
 date: "2012-07-02"
-categories: "movies"
+categories: [ "movies" ]
 title: "Amor Impossível"
 stars: "3/5"
 desc: "Amor Impossível. Salmon Fishing in the Yemen (UK, 2011). Dirigido por Lasse Hallström. Escrito por Simon Beaufoy, Paul Torday. Com Amr Waked, Emily Blunt, Catherine Steadman, Tom Mison, Ewan McGregor, Rachael Stirling, Kristin Scott Thomas, Tom Beard, Jill Baker."

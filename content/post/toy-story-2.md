@@ -1,7 +1,7 @@
 ---
 imdb: "0120363"
 date: "2010-06-25"
-categories: "movies"
+categories: [ "movies" ]
 title: "Toy Story 2"
 stars: "4/5"
 desc: "Toy Story 2. Toy Story 2 (USA, 1999). Dirigido por John Lasseter, Ash Brannon, Lee Unkrich. Escrito por John Lasseter, Pete Docter, Ash Brannon, Andrew Stanton, Andrew Stanton, Rita Hsiao, Doug Chamberlin, Chris Webb. Com Tom Hanks, Tim Allen, Joan Cusack, Kelsey Grammer, Don Rickles, Jim Varney, Wallace Shawn, John Ratzenberger, Annie Potts."

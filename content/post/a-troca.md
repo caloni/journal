@@ -1,7 +1,7 @@
 ---
 imdb: "0824747"
 date: "2012-03-18"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Troca"
 stars: "4/5"
 desc: "A Troca. Changeling (USA, 2008). Dirigido por Clint Eastwood. Escrito por J. Michael Straczynski. Com Angelina Jolie, Gattlin Griffith, Michelle Gunn, Michael Kelly, Jan Devereaux, Erica Grant, Antonia Bennett, Kerri Randles, Frank Wood."

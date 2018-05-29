@@ -1,7 +1,7 @@
 ---
 imdb: "2294629"
 date: "2014-01-09"
-categories: "movies"
+categories: [ "movies" ]
 title: "Frozen Uma Aventura Congelante"
 stars: "4/5"
 revision: [datetime.date(2015, 5, 2)]

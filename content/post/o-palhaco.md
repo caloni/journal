@@ -1,7 +1,7 @@
 ---
 imdb: "1921043"
 date: "2011-11-06"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Palhaço"
 stars: "5/5"
 revision: [datetime.date(2014, 11, 22)]

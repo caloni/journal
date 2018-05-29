@@ -1,7 +1,7 @@
 ---
 imdb: "0800369"
 date: "2012-04-02"
-categories: "movies"
+categories: [ "movies" ]
 title: "Thor"
 stars: "2/5"
 desc: "Thor. Thor (USA, 2011). Dirigido por Kenneth Branagh. Escrito por Ashley Miller, Zack Stentz, Don Payne, J. Michael Straczynski, Mark Protosevich, Stan Lee, Larry Lieber, Jack Kirby, Nicole Perlman. Com Chris Hemsworth, Natalie Portman, Tom Hiddleston, Anthony Hopkins, Stellan Skarsgård, Kat Dennings, Clark Gregg, Colm Feore, Idris Elba."

@@ -2,7 +2,7 @@
 tags: ['cinema']
 imdb: "4465564"
 date: "2017-02-16"
-categories: "movies"
+categories: [ "movies" ]
 title: "Cinquenta Tons Mais Escuros"
 stars: "2/5"
 desc: "Cinquenta Tons Mais Escuros. Fifty Shades Darker (USA, 2017). Dirigido por James Foley. Escrito por Niall Leonard, E.L. James. Com Dakota Johnson (Anastasia Steele), Jamie Dornan (Christian Grey), Eric Johnson (Jack Hyde), Eloise Mumford (Kate Kavanagh), Bella Heathcote (Leila), Rita Ora (Mia Grey), Luke Grimes (Elliot Grey), Victor Rasuk (Jose), Max Martini (Taylor)."

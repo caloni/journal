@@ -2,7 +2,7 @@
 tags: ['mostrasp']
 imdb: "4990694"
 date: "2016-10-28"
-categories: "movies"
+categories: [ "movies" ]
 title: "Dolores"
 stars: "4/5"
 desc: "Dolores. Dolores (Germany, 2016). Dirigido por Michael Rösel. Escrito por Sebastian Feld. Com Franziska Petri (Dolores Moor), Udo Schenk (Georg Letterer), Mathias Herrmann (Chauffeur Anton), Mona Petri (Managerin Simone), Christian Koch (Wolf Schäfer), Vilmar Bieri (Gerichtsvollzieher Müller), Alexander Hörbe (Franz Letterer), Hede Beck (Lotte Keller), Antonio Di Mauro (Gunter)."

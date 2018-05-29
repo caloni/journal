@@ -2,7 +2,7 @@
 tags: ['cinema', '3d', 'oscar', 'dceu']
 imdb: "1386697"
 date: "2016-08-12"
-categories: "movies"
+categories: [ "movies" ]
 title: "Esquadrão Suicida"
 stars: "2/5"
 desc: "Esquadrão Suicida. Suicide Squad (USA, 2016). Dirigido por David Ayer. Escrito por David Ayer, John Ostrander. Com Will Smith, Jaime FitzSimons, Ike Barinholtz, Margot Robbie, Christopher Dyson, Bambadjan Bamba, Viola Davis, Ted Whittall, David Harbour."

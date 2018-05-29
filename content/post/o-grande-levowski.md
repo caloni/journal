@@ -1,7 +1,7 @@
 ---
 imdb: "0118715"
 date: "2014-02-07"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Grande Lebowski"
 stars: "5/5"
 desc: "O Grande Lebowski. The Big Lebowski (USA, 1998). Dirigido por Joel Coen, Ethan Coen. Escrito por Ethan Coen, Joel Coen. Com Jeff Bridges, John Goodman, Julianne Moore, Steve Buscemi, David Huddleston, Philip Seymour Hoffman, Tara Reid, Philip Moon, Mark Pellegrino."

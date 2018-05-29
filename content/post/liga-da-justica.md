@@ -2,7 +2,7 @@
 tags: ['cinema', 'dceu']
 imdb: "0974015"
 date: 2017-11-24T19:14:37
-categories: "movies"
+categories: [ "movies" ]
 title: "Liga da Justiça"
 stars: "2/5"
 desc: "Liga da Justiça. Justice League (USA, 2017). Dirigido por Zack Snyder. Escrito por Chris Terrio, Joss Whedon, Zack Snyder, Jerry Siegel, Joe Shuster, Gardner Fox, Bob Kane, Bill Finger, William Moulton Marston. Com Ben Affleck (Batman / Bruce Wayne), Henry Cavill (Superman / Clark Kent), Amy Adams (Lois Lane), Gal Gadot (Wonder Woman / Diana Prince), Ezra Miller (The Flash / Barry Allen), Jason Momoa (Aquaman / Arthur Curry), Ray Fisher (Cyborg / Victor Stone), Jeremy Irons (Alfred), Diane Lane (Martha Kent)."

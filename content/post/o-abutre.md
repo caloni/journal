@@ -1,7 +1,7 @@
 ---
 imdb: "2872718"
 date: "2015-04-30"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Abutre"
 stars: "5/5"
 desc: "O Abutre. Nightcrawler (USA, 2014). Dirigido por Dan Gilroy. Escrito por Dan Gilroy. Com Jake Gyllenhaal, Michael Papajohn, Marco Rodríguez, Bill Paxton, James Huang, Kent Shocknek, Pat Harvey, Sharon Tay, Rick Garcia."

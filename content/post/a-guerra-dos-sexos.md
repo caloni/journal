@@ -2,7 +2,7 @@
 tags: ['cabine']
 imdb: "4622512"
 date: 2017-10-11T20:23:34
-categories: "movies"
+categories: [ "movies" ]
 title: "A Guerra dos Sexos"
 stars: "4/5"
 desc: "A Guerra dos Sexos. Battle of the Sexes (UK, 2017). Dirigido por Jonathan Dayton, Valerie Faris. Escrito por Simon Beaufoy. Com Emma Stone (Billie Jean King), Steve Carell (Bobby Riggs), Andrea Riseborough (Marilyn Barnett), Natalie Morales (Rosie Casals), Sarah Silverman (Gladys Heldman), Bill Pullman (Jack Kramer), Alan Cumming (Cuthbert 'Ted' Tinling), Elisabeth Shue (Priscilla Riggs), Eric Christian Olsen (Lornie Kuhle)."

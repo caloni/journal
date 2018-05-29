@@ -1,7 +1,7 @@
 ---
 imdb: "0457510"
 date: "2014-09-20"
-categories: "movies"
+categories: [ "movies" ]
 title: "Nacho Libre"
 stars: "2/5"
 desc: "Nacho Libre. Nacho Libre (Germany, 2006). Dirigido por Jared Hess. Escrito por Jared Hess, Jerusha Hess, Mike White. Com Jack Black, Ana de la Reguera, Héctor Jiménez, Darius Rose, Moises Arias, Diego Eduardo Gomez, Carlos Maycotte, Richard Montoya, Cesar Gonzalez."

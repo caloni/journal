@@ -1,7 +1,7 @@
 ---
 imdb: "0087843"
 date: "2015-04-02"
-categories: "movies"
+categories: [ "movies" ]
 title: "Era Uma Vez na América"
 stars: "5/5"
 desc: "Era Uma Vez na América. Once Upon a Time in America (Italy, 1984). Dirigido por Sergio Leone. Escrito por Harry Grey, Leonardo Benvenuti, Piero De Bernardi, Enrico Medioli, Franco Arcalli, Franco Ferrini, Sergio Leone, Stuart Kaminsky, Ernesto Gastaldi. Com Robert De Niro, James Woods, Elizabeth McGovern, Joe Pesci, Burt Young, Tuesday Weld, Treat Williams, Danny Aiello, Richard Bright."

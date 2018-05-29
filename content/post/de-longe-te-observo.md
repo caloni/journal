@@ -2,7 +2,7 @@
 tags: ['cabine']
 imdb: "4721400"
 date: "2016-07-16"
-categories: "movies"
+categories: [ "movies" ]
 title: "De Longe Te Observo"
 stars: "4/5"
 desc: "De Longe Te Observo. Desde allá (Venezuela, 2015). Dirigido por Lorenzo Vigas. Escrito por Lorenzo Vigas, Guillermo Arriaga, Lorenzo Vigas. Com Alfredo Castro, Luis Silva, Jericó Montilla, Catherina Cardozo, Jorge Luis Bosque, Greymer Acosta, Auffer Camacho, Ivan Peña, Joretsis Ibarra."

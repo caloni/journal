@@ -1,7 +1,7 @@
 ---
 imdb: "1587707"
 date: "2014-06-07"
-categories: "movies"
+categories: [ "movies" ]
 title: "Exit Through the Gift Shop"
 stars: "5/5"
 revision: ['2017-08-02']

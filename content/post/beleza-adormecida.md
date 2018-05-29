@@ -1,7 +1,7 @@
 ---
 imdb: "1588398"
 date: "2012-04-07"
-categories: "movies"
+categories: [ "movies" ]
 title: "Beleza Adormecida"
 stars: "4/5"
 desc: "Beleza Adormecida. Sleeping Beauty (Australia, 2011). Dirigido por Julia Leigh. Escrito por Julia Leigh. Com Bridgette Barrett, Rachael Blake, Hannah Bella Bowden, Emily Browning, Alan Cardy, Peter Carroll, Les Chantery, Benita Collings, Michael Dorman."

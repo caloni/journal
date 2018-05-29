@@ -1,7 +1,7 @@
 ---
 imdb: "0080678"
 date: "2014-12-01"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Homem Elefante"
 stars: "4/5"
 desc: "O Homem Elefante. The Elephant Man (USA, 1980). Dirigido por David Lynch. Escrito por Christopher De Vore, Eric Bergren, David Lynch, Frederick Treves, Ashley Montagu. Com Anthony Hopkins, John Hurt, Anne Bancroft, John Gielgud, Wendy Hiller, Freddie Jones, Michael Elphick, Hannah Gordon, Helen Ryan."

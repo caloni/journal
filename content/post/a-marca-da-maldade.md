@@ -1,7 +1,7 @@
 ---
 imdb: "0052311"
 date: "2012-01-31"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Marca da Maldade"
 stars: "4/5"
 desc: "A Marca da Maldade. Touch of Evil (USA, 1958). Dirigido por Orson Welles. Escrito por Orson Welles, Whit Masterson, Franklin Coen, Paul Monash. Com Charlton Heston, Janet Leigh, Orson Welles, Joseph Calleia, Akim Tamiroff, Joanna Moore, Ray Collins, Dennis Weaver, Valentin de Vargas."

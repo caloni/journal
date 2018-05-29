@@ -1,7 +1,7 @@
 ---
 imdb: "1361313"
 date: "2015-08-23"
-categories: "movies"
+categories: [ "movies" ]
 title: "Os Acompanhantes"
 stars: "3/5"
 desc: "Os Acompanhantes. The Extra Man (USA, 2010). Dirigido por Shari Springer Berman, Robert Pulcini. Escrito por Robert Pulcini, Jonathan Ames, Shari Springer Berman, Jonathan Ames. Com Paul Dano, Marian Seldes, Celia Weston, Patti D'Arbanville, John C. Reilly, Dan Hedaya, Kevin Kline, Jason Butler Harner, Alex Burns."

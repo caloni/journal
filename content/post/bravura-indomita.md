@@ -1,7 +1,7 @@
 ---
 imdb: "1403865"
 date: "2011-11-02"
-categories: "movies"
+categories: [ "movies" ]
 title: "Bravura Indômita"
 stars: "5/5"
 desc: "Bravura Indômita. True Grit (USA, 2010). Dirigido por Ethan Coen, Joel Coen. Escrito por Joel Coen, Ethan Coen, Charles Portis. Com Jeff Bridges, Hailee Steinfeld, Matt Damon, Josh Brolin, Barry Pepper, Dakin Matthews, Jarlath Conroy, Paul Rae, Domhnall Gleeson."

@@ -1,7 +1,7 @@
 ---
 imdb: "1355630"
 date: "2015-05-04"
-categories: "movies"
+categories: [ "movies" ]
 title: "Se Eu Ficar"
 stars: "1/5"
 desc: "Se Eu Ficar. If I Stay (USA, 2014). Dirigido por R.J. Cutler. Escrito por Shauna Cross, Gayle Forman. Com Chloë Grace Moretz, Mireille Enos, Jamie Blackley, Joshua Leonard, Liana Liberato, Stacy Keach, Gabrielle Rose, Jakob Davies, Ali Milner."

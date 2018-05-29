@@ -1,7 +1,7 @@
 ---
 imdb: "0071360"
 date: "2013-11-16"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Conversação"
 stars: "5/5"
 desc: "A Conversação. The Conversation (USA, 1974). Dirigido por Francis Ford Coppola. Escrito por Francis Ford Coppola. Com Gene Hackman, John Cazale, Allen Garfield, Frederic Forrest, Cindy Williams, Michael Higgins, Elizabeth MacRae, Teri Garr, Harrison Ford."

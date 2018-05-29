@@ -1,7 +1,7 @@
 ---
 imdb: "3460252"
 date: "2016-07-29"
-categories: "movies"
+categories: [ "movies" ]
 title: "Os Oito Odiados"
 stars: "3/5"
 desc: "Os Oito Odiados. The Hateful Eight (USA, 2015). Dirigido por Quentin Tarantino. Escrito por Quentin Tarantino. Com Samuel L. Jackson, Kurt Russell, Jennifer Jason Leigh, Walton Goggins, Demián Bichir, Tim Roth, Michael Madsen, Bruce Dern, James Parks."

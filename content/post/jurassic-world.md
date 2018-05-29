@@ -1,7 +1,7 @@
 ---
 imdb: "0369610"
 date: "2015-06-24"
-categories: "movies"
+categories: [ "movies" ]
 title: "Jurassic World: O Mundo dos Dinossauros"
 stars: "4/5"
 desc: "Jurassic World: O Mundo dos Dinossauros. Jurassic World (USA, 2015). Dirigido por Colin Trevorrow. Escrito por Rick Jaffa, Amanda Silver, Colin Trevorrow, Derek Connolly, Rick Jaffa, Amanda Silver, Michael Crichton. Com Chris Pratt, Bryce Dallas Howard, Vincent D'Onofrio, Ty Simpkins, Irrfan Khan, Nick Robinson, Jake Johnson, Omar Sy, BD Wong."

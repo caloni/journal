@@ -1,7 +1,7 @@
 ---
 imdb: "0978764"
 date: "2011-03-29"
-categories: "movies"
+categories: [ "movies" ]
 title: "Sucker Punch Mundo Surreal"
 stars: "3/5"
 desc: "Sucker Punch Mundo Surreal. Sucker Punch (USA, 2011). Dirigido por Zack Snyder. Escrito por Zack Snyder, Steve Shibuya, Zack Snyder. Com Emily Browning, Abbie Cornish, Jena Malone, Vanessa Hudgens, Jamie Chung, Carla Gugino, Oscar Isaac, Jon Hamm, Scott Glenn."

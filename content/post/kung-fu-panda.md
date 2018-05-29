@@ -1,7 +1,7 @@
 ---
 imdb: "0441773"
 date: "2014-12-14"
-categories: "movies"
+categories: [ "movies" ]
 title: "Kung Fu Panda"
 stars: "5/5"
 desc: "Kung Fu Panda. Kung Fu Panda (USA, 2008). Dirigido por Mark Osborne, John Stevenson. Escrito por Jonathan Aibel, Glenn Berger, Ethan Reiff, Cyrus Voris. Com Jack Black, Dustin Hoffman, Angelina Jolie, Ian McShane, Jackie Chan, Seth Rogen, Lucy Liu, David Cross, Randall Duk Kim."

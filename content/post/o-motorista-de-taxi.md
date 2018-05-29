@@ -2,7 +2,7 @@
 tags: ['cabine', 'mostrasp']
 imdb: "6878038"
 date: 2017-10-20T19:21:42
-categories: "movies"
+categories: [ "movies" ]
 title: "O Motorista de Táxi"
 stars: "3/5"
 desc: "O Motorista de Táxi. Taeksi Woonjunsa (South Korea, 2017). Dirigido por Hun Jang. Escrito por Yu-na Eom. Com Kang-ho Song (Man-seob / Kim), Thomas Kretschmann (Peter), Hae-jin Yoo (Tae-sul / Hwang), Jun-yeol Ryu (Jae-sik / Gu), Hyuk-kwon Park (Reporter Choi), Gwi-hwa Choi, Daniel Joey Albright (BBC Reporter David John)."

@@ -1,7 +1,7 @@
 ---
 imdb: "0926084"
 date: "2010-11-19"
-categories: "movies"
+categories: [ "movies" ]
 title: "Harry Potter e as Relíquias da Morte Parte 1"
 stars: "5/5"
 desc: "Harry Potter e as Relíquias da Morte Parte 1. Harry Potter and the Deathly Hallows: Part 1 (UK, 2010). Dirigido por David Yates. Escrito por Steve Kloves, J.K. Rowling. Com Bill Nighy, Emma Watson, Richard Griffiths, Harry Melling, Daniel Radcliffe, Julie Walters, Bonnie Wright, Rupert Grint, Ian Kelly."

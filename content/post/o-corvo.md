@@ -1,7 +1,7 @@
 ---
 imdb: "1486192"
 date: "2012-05-24"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Corvo"
 stars: "3/5"
 desc: "O Corvo. The Raven (USA, 2012). Dirigido por James McTeigue. Escrito por Hannah Shakespeare, Ben Livingston. Com John Cusack, Luke Evans, Alice Eve, Brendan Gleeson, Kevin McNally, Oliver Jackson-Cohen, Jimmy Yuill, Sam Hazeldine, Pam Ferris."

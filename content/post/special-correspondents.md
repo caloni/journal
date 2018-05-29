@@ -1,7 +1,7 @@
 ---
 imdb: "4181052"
 date: "2016-05-22"
-categories: "movies"
+categories: [ "movies" ]
 title: "Special Correspondents"
 stars: "3/5"
 desc: "Special Correspondents. Special Correspondents (UK, 2016). Dirigido por Ricky Gervais. Escrito por Ricky Gervais, Jacques Labib, Simon Michaël. Com Ricky Gervais, Eric Bana, Vera Farmiga, Kelly Macdonald, Kevin Pollak, America Ferrera, Raúl Castillo, Benjamin Bratt, Kim Ramirez."

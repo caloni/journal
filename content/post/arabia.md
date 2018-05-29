@@ -1,7 +1,7 @@
 ---
 date: 2018-03-24T01:41:32-03:00
 title: "Arábia"
-categories: "movies"
+categories: [ "movies" ]
 imdb: "6400280"
 stars: "5/5"
 desc: "Arábia (Brasil, 2017), escrito por João Dumans, Affonso Uchoa, dirigido por João Dumans, Affonso Uchoa, com Aristides de Sousa, Murilo Caliari, Gláucia Vandeveld."

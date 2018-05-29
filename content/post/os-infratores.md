@@ -1,7 +1,7 @@
 ---
 imdb: "1212450"
 date: "2012-10-19"
-categories: "movies"
+categories: [ "movies" ]
 title: "Os Infratores"
 stars: "4/5"
 desc: "Os Infratores. Lawless (USA, 2012). Dirigido por John Hillcoat. Escrito por Nick Cave, Matt Bondurant. Com Shia LaBeouf, Tom Hardy, Jason Clarke, Guy Pearce, Jessica Chastain, Mia Wasikowska, Dane DeHaan, Chris McGarry, Tim Tolin."

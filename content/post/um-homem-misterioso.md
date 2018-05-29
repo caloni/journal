@@ -1,7 +1,7 @@
 ---
 imdb: "1440728"
 date: "2010-11-19"
-categories: "movies"
+categories: [ "movies" ]
 title: "Um Homem Misterioso"
 stars: "5/5"
 desc: "Um Homem Misterioso. The American (USA, 2010). Dirigido por Anton Corbijn. Escrito por Rowan Joffe, Martin Booth. Com George Clooney, Irina Björklund, Lars Hjelm, Björn Granath, Johan Leysen, Paolo Bonacelli, Giorgio Gobbi, Silvana Bosi, Thekla Reuten."

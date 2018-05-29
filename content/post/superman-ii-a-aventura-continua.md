@@ -1,7 +1,7 @@
 ---
 imdb: "0081573"
 date: "2014-09-13"
-categories: "movies"
+categories: [ "movies" ]
 title: "Superman II - A Aventura Continua"
 stars: "4/5"
 desc: "Superman II - A Aventura Continua. Superman II (USA, 1980). Dirigido por Richard Lester, Richard Donner. Escrito por Joe Shuster, Jerry Siegel, Mario Puzo, Mario Puzo, David Newman, Leslie Newman, Tom Mankiewicz. Com Gene Hackman, Christopher Reeve, Ned Beatty, Jackie Cooper, Sarah Douglas, Margot Kidder, Jack O'Halloran, Valerie Perrine, Susannah York."

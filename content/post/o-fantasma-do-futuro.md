@@ -1,7 +1,7 @@
 ---
 imdb: "0113568"
 date: "2016-05-01"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Fantasma do Futuro"
 stars: "5/5"
 desc: "O Fantasma do Futuro. Kôkaku Kidôtai (Japan, 1995). Dirigido por Mamoru Oshii. Escrito por Kazunori Itô, Masamune Shirow. Com Atsuko Tanaka, Akio Ôtsuka, Kôichi Yamadera, Yutaka Nakano, Tamio Ôki, Tesshô Genda, Namaki Masakazu, Masato Yamanouchi, Shinji Ogawa."

@@ -1,7 +1,7 @@
 ---
 tags: ['mostrasp']
 date: "2016-10-25"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Silêncio da Noite É Que Tem Sido Testemunha das Minhas Amarguras"
 stars: "4/5"
 desc: "O Silêncio da Noite É Que Tem Sido Testemunha das Minhas Amarguras. O Silêncio da Noite É Que Tem Sido Testemunha das Minhas Amarguras (Brazil, 2016). Dirigido por Petrônio Lorena. Escrito por Narjara Medeiros, Petrônio Lorena."

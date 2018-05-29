@@ -1,7 +1,7 @@
 ---
 imdb: "1424432"
 date: "2010-11-26"
-categories: "movies"
+categories: [ "movies" ]
 title: "Senna"
 stars: "5/5"
 desc: "Senna. Senna (UK, 2010). Dirigido por Asif Kapadia. Escrito por Manish Pandey. Com Ayrton Senna, Alain Prost, Frank Williams, Ron Dennis, Viviane Senna, Milton da Silva, Neide Senna, Jackie Stewart, Sid Watkins."

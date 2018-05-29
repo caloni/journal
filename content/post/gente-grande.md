@@ -1,7 +1,7 @@
 ---
 imdb: "1375670"
 date: "2010-09-24"
-categories: "movies"
+categories: [ "movies" ]
 title: "Gente Grande"
 stars: "3/5"
 desc: "Gente Grande. Grown Ups (USA, 2010). Dirigido por Dennis Dugan. Escrito por Adam Sandler, Fred Wolf. Com Adam Sandler, Kevin James, Chris Rock, David Spade, Rob Schneider, Salma Hayek, Maria Bello, Maya Rudolph, Joyce Van Patten."

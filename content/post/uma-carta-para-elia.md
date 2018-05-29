@@ -1,7 +1,7 @@
 ---
 imdb: "0808245"
 date: "2010-10-04"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Letter to Elia"
 stars: "3/5"
 desc: "A Letter to Elia. A Letter to Elia (USA, 2010). Dirigido por Kent Jones, Martin Scorsese. Escrito por Kent Jones, Martin Scorsese. Com Martin Scorsese, Elia Kazan, Elias Koteas."

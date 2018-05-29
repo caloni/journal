@@ -1,7 +1,7 @@
 ---
 imdb: "0347618"
 date: "2013-11-09"
-categories: "movies"
+categories: [ "movies" ]
 title: "Reino dos Gatos"
 stars: "3/5"
 desc: "Reino dos Gatos. Neko no ongaeshi (Japan, 2002). Dirigido por Hiroyuki Morita. Escrito por Aoi Hiiragi, Reiko Yoshida, Cindy Davis Hewitt, Donald H. Hewitt. Com Chizuru Ikewaki, Yoshihiko Hakamada, Aki Maeda, Takayuki Yamada, Hitomi Satô, Kenta Satoi, Mari Hamada, Tetsu Watanabe, Yôsuke Saitô."

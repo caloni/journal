@@ -1,7 +1,7 @@
 ---
 imdb: "1784599"
 date: "2012-03-28"
-categories: "movies"
+categories: [ "movies" ]
 title: "Raul O Início o Fim e o Meio"
 stars: "5/5"
 desc: "Raul O Início o Fim e o Meio. Raul - O Início, o Fim e o Meio (Brazil, 2012). Dirigido por Walter Carvalho, Leonardo Gudel. Escrito por Leonardo Gudel. Com Paulo Coelho, Daniel de Oliveira, Tárik de Souza, Luiz Carlos Maciel, Roberto Menescal, André Midani, Marcelo Nova, Caetano Veloso, Tom Zé."

@@ -1,7 +1,7 @@
 ---
 imdb: "1646971"
 date: "2014-06-19"
-categories: "movies"
+categories: [ "movies" ]
 title: "Como Treinar o Seu Dragão 2"
 stars: "5/5"
 desc: "Como Treinar o Seu Dragão 2. How to Train Your Dragon 2 (USA, 2014). Dirigido por Dean DeBlois. Escrito por Dean DeBlois, Cressida Cowell. Com Jay Baruchel, Cate Blanchett, Gerard Butler, Craig Ferguson, America Ferrera, Jonah Hill, Christopher Mintz-Plasse, T.J. Miller, Kristen Wiig."

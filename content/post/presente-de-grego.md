@@ -1,7 +1,7 @@
 ---
 imdb: "0092605"
 date: "2014-05-02"
-categories: "movies"
+categories: [ "movies" ]
 title: "Presente de Grego"
 stars: "4/5"
 desc: "Presente de Grego. Baby Boom (USA, 1987). Dirigido por Charles Shyer. Escrito por Nancy Meyers, Charles Shyer. Com Diane Keaton, Sam Shepard, Harold Ramis, Kristina Kennedy, Michelle Kennedy, Sam Wanamaker, James Spader, Pat Hingle, Britt Leach."

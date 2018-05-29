@@ -1,7 +1,7 @@
 ---
 imdb: "0373074"
 date: "2013-10-06"
-categories: "movies"
+categories: [ "movies" ]
 title: "Kung-Fusão"
 stars: "4/5"
 desc: "Kung-Fusão. Kung fu (Hong Kong, 2004). Dirigido por Stephen Chow. Escrito por Man Keung Chan, Stephen Chow, Xin Huo, Kan-Cheung Tsang. Com Stephen Chow, Xiaogang Feng, Wah Yuen, Zhi Hua Dong, Kwok-Kwan Chan, Chi Chung Lam, Siu-Lung Leung, Qiu Yuen, Kai Man Tin."

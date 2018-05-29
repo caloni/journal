@@ -1,7 +1,7 @@
 ---
 imdb: "0373469"
 date: "2012-07-22"
-categories: "movies"
+categories: [ "movies" ]
 title: "Beijos e Tiros"
 stars: "4/5"
 desc: "Beijos e Tiros. Kiss Kiss Bang Bang (USA, 2005). Dirigido por Shane Black. Escrito por Brett Halliday, Shane Black, Shane Black. Com Robert Downey Jr., Val Kilmer, Michelle Monaghan, Corbin Bernsen, Dash Mihok, Larry Miller, Rockmond Dunbar, Shannyn Sossamon, Angela Lindvall."

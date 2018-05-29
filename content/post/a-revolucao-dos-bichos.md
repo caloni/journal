@@ -1,7 +1,7 @@
 ---
 imdb: "0204824"
 date: "2011-04-27"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Revolução dos Bichos"
 stars: "5/5"
 desc: "A Revolução dos Bichos. Animal Farm (USA, 1999). Dirigido por John Stephenson. Escrito por George Orwell, Alan Janes, Martyn Burke. Com Kelsey Grammer, Ian Holm, Julia Louis-Dreyfus, Julia Ormond, Pete Postlethwaite, Paul Scofield, Patrick Stewart, Peter Ustinov, Alan Stanford."

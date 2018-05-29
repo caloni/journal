@@ -1,7 +1,7 @@
 ---
 imdb: "1124035"
 date: "2011-12-30"
-categories: "movies"
+categories: [ "movies" ]
 title: "Tudo pelo Poder"
 stars: "5/5"
 desc: "Tudo pelo Poder. The Ides of March (USA, 2011). Dirigido por George Clooney. Escrito por George Clooney, Grant Heslov, Beau Willimon, Beau Willimon. Com Ryan Gosling, George Clooney, Philip Seymour Hoffman, Paul Giamatti, Evan Rachel Wood, Marisa Tomei, Jeffrey Wright, Max Minghella, Jennifer Ehle."

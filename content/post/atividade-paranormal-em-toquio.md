@@ -1,7 +1,7 @@
 ---
 imdb: "1728179"
 date: "2011-03-28"
-categories: "movies"
+categories: [ "movies" ]
 title: "Atividade Paranormal Tóquio"
 stars: "3/5"
 desc: "Atividade Paranormal Tóquio. Paranômaru akutibiti: Dai-2-shô - Tokyo Night (Japan, 2010). Dirigido por Toshikazu Nagae. Escrito por Toshikazu Nagae, Oren Peli. Com Aoi Nakamura, Noriko Aoyama."

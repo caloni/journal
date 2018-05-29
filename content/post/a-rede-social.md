@@ -1,7 +1,7 @@
 ---
 imdb: "1285016"
 date: "2010-12-03"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Rede Social"
 stars: "4/5"
 desc: "A Rede Social. The Social Network (USA, 2010). Dirigido por David Fincher. Escrito por Aaron Sorkin, Ben Mezrich. Com Jesse Eisenberg, Rooney Mara, Bryan Barter, Dustin Fitzsimons, Joseph Mazzello, Patrick Mapel, Andrew Garfield, Toby Meuli, Alecia Svensen."

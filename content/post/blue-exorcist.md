@@ -2,7 +2,7 @@
 tags: ['netflix', 'series']
 imdb: "1799631"
 date: "2014-08-31"
-categories: "series"
+categories: [ "series" ]
 title: "Blue Exorcist"
 stars: "3/5"
 desc: "Blue Exorcist. Ao no ekusoshisuto (Japan, 2011). Dirigido por Tensai Okamura, Alex Von David. Escrito por Alex Von David, Ryôta Yamaguchi, Shinsuke Ônishi, Ikuko Takahashi, Natsuko Takahashi, Kazue Katô. Com Nobuhiko Okamoto, Johnny Yong Bosch, Tobias Diakow, Bryce Papenbrook, Jun Fukuyama, Hiroshi Kamiya, Kôji Yusa, Sam Riegel, Kana Hanazawa."

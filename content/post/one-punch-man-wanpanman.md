@@ -2,7 +2,7 @@
 tags: ['paulocoelho']
 imdb: "4508902"
 date: "2017-01-17"
-categories: "series"
+categories: [ "series" ]
 title: "One Punch Man: Wanpanman"
 stars: "4/5"
 revision: ['2017-07-19']

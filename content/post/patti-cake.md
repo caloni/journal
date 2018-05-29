@@ -2,7 +2,7 @@
 tags: ['cabine']
 imdb: "6288250"
 date: 2017-11-18T20:59:14
-categories: "movies"
+categories: [ "movies" ]
 title: "Patti Cake$"
 stars: "5/5"
 desc: "Patti Cake$. Patti Cake$ (USA, 2017). Dirigido por Geremy Jasper. Escrito por Geremy Jasper. Com Danielle Macdonald (Patti), Bridget Everett (Barb), Siddharth Dhananjay (Jheri), Mamoudou Athie (Basterd), Cathy Moriarty (Nana), McCaul Lombardi (Danny), Patrick Brana (Slaz), Dylan Blue (Drewsky / Master of Ceremonies), Warren Bub (Mr. Bagadella)."

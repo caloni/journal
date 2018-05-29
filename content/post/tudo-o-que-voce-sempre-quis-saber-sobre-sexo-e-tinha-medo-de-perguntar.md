@@ -1,7 +1,7 @@
 ---
 imdb: "0068555"
 date: "2014-05-10"
-categories: "movies"
+categories: [ "movies" ]
 title: "Tudo o Que Você Sempre Quis Saber Sobre Sexo E Tinha Medo de Perguntar"
 stars: "3/5"
 desc: "Tudo o Que Você Sempre Quis Saber Sobre Sexo E Tinha Medo de Perguntar. Everything You Always Wanted to Know About Sex * But Were Afraid to Ask (USA, 1972). Dirigido por Woody Allen. Escrito por David Reuben, Woody Allen. Com Woody Allen, John Carradine, Lou Jacobi, Louise Lasser, Anthony Quayle, Tony Randall, Lynn Redgrave, Burt Reynolds, Gene Wilder."

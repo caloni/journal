@@ -1,7 +1,7 @@
 ---
 imdb: "2262227"
 date: "2014-11-09"
-categories: "movies"
+categories: [ "movies" ]
 count: 2
 title: "O Livro da Vida"
 stars: "4/5"

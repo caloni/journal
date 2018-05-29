@@ -2,7 +2,7 @@
 tags: ['netflix']
 imdb: "1825157"
 date: "2017-03-26"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Duplo"
 stars: "5/5"
 desc: "O Duplo. The Double (UK, 2013). Dirigido por Richard Ayoade. Escrito por Fyodor Dostoevsky, Richard Ayoade, Avi Korine. Com Jesse Eisenberg (Simon / James), Mia Wasikowska (Hannah), Wallace Shawn (Mr Papadopoulos), Yasmin Paige (Melanie), Noah Taylor (Harris), James Fox (The Colonel), Cathy Moriarty (Kiki), Phyllis Somerville (Simon's Mother), Gabrielle Downey (Strange Woman)."

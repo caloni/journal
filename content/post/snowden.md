@@ -2,7 +2,7 @@
 tags: ['cabine']
 imdb: "3774114"
 date: "2016-11-02"
-categories: "movies"
+categories: [ "movies" ]
 title: "Snowden"
 stars: "4/5"
 desc: "Snowden. Snowden (France, 2016). Dirigido por Oliver Stone. Escrito por Kieran Fitzgerald, Oliver Stone, Anatoly Kucherena, Luke Harding. Com Melissa Leo (Laura Poitras), Zachary Quinto (Glenn Greenwald), Joseph Gordon-Levitt (Edward Snowden), Jaymes Butler (Drill Sergeant), Robert Firth (Dr. Stillwell), Rachel Handshaw (CIA Polygraph Adminstrator), Christian Contreras (CIA Psychologist), Parker Sawyers (CIA Interviewer), Rhys Ifans (Corbin O'Brian)."

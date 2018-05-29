@@ -1,7 +1,7 @@
 ---
 imdb: "1653653"
 date: "2012-08-19"
-categories: "movies"
+categories: [ "movies" ]
 title: "Corações Sujos"
 stars: "1/5"
 desc: "Corações Sujos. Corações Sujos (Brazil, 2011). Dirigido por Vicente Amorim. Escrito por David França Mendes, Fernando Morais. Com Tsuyoshi Ihara, Takako Tokiwa, Eiji Okuda, Shun Sugata, Kimiko Yo, Eduardo Moscovis, Celine Fukumoto."

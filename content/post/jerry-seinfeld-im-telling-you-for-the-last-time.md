@@ -1,7 +1,7 @@
 ---
 date: 2018-03-18T22:06:43-03:00
 title: "Standup de 98 de Seinfeld é melhor que último do Gervais (graças ao SJW)"
-categories: "blog"
+categories: [ "blog" ]
 imdb: "0500140"
 stars: "3/5"
 desc: "Jerry Seinfeld: 'I'm Telling You For The Last Time'"

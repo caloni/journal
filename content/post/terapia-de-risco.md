@@ -1,7 +1,7 @@
 ---
 imdb: "2053463"
 date: "2013-12-24"
-categories: "movies"
+categories: [ "movies" ]
 title: "Terapia de Risco"
 stars: "4/5"
 desc: "Terapia de Risco. Side Effects (USA, 2013). Dirigido por Steven Soderbergh. Escrito por Scott Z. Burns. Com Rooney Mara, Carmen Pelaez, Marin Ireland, Channing Tatum, Polly Draper, Ann Dowd, Haraldo Alvarez, Jude Law, James Martinez."

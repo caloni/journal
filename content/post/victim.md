@@ -1,7 +1,7 @@
 ---
 imdb: "0918575"
 date: "2013-08-11"
-categories: "movies"
+categories: [ "movies" ]
 title: "Victim"
 stars: "5/5"
 desc: "Victim. Victim (USA, 2010). Dirigido por Matt Eskandari, Michael A. Pierce. Escrito por Michael Hultquist, Robert Martinez. Com Stephen Weigand, Bob Bancroft, Brendan Kelly, Jelly Howie, Stacy Haiduk, Bru Muller, Wayne Morse, Dianne Kwon, Tara Holt."

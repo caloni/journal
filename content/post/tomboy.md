@@ -1,7 +1,7 @@
 ---
 imdb: "1847731"
 date: "2012-01-15"
-categories: "movies"
+categories: [ "movies" ]
 title: "Tomboy"
 stars: "4/5"
 desc: "Tomboy. Tomboy (France, 2011). Dirigido por Céline Sciamma. Escrito por Céline Sciamma. Com Zoé Héran, Malonn Lévana, Jeanne Disson, Sophie Cattani, Mathieu Demy, Rayan Boubekri, Yohan Vero, Noah Vero, Cheyenne Lainé."

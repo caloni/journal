@@ -1,7 +1,7 @@
 ---
 imdb: "2637276"
 date: "2015-12-31"
-categories: "movies"
+categories: [ "movies" ]
 title: "Ted 2"
 stars: "2/5"
 desc: "Ted 2. Ted 2 (USA, 2015). Dirigido por Seth MacFarlane. Escrito por Seth MacFarlane, Alec Sulkin, Wellesley Wild. Com Mark Wahlberg, Seth MacFarlane, Amanda Seyfried, Jessica Barth, Giovanni Ribisi, Morgan Freeman, Sam J. Jones, Patrick Warburton, Michael Dorn."

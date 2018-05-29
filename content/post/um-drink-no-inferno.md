@@ -1,7 +1,7 @@
 ---
 imdb: "0116367"
 date: "2012-09-19"
-categories: "movies"
+categories: [ "movies" ]
 title: "Um Drink no Inferno"
 stars: "4/5"
 desc: "Um Drink no Inferno. From Dusk Till Dawn (USA, 1996). Dirigido por Robert Rodriguez. Escrito por Robert Kurtzman, Quentin Tarantino. Com George Clooney, Quentin Tarantino, Harvey Keitel, Juliette Lewis, Ernest Liu, Salma Hayek, Cheech Marin, Danny Trejo, Tom Savini."

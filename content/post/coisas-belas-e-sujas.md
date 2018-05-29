@@ -1,7 +1,7 @@
 ---
 imdb: "0301199"
 date: "2012-04-30"
-categories: "movies"
+categories: [ "movies" ]
 title: "Coisas Belas E Sujas"
 stars: "4/5"
 desc: "Coisas Belas E Sujas. Dirty Pretty Things (UK, 2002). Dirigido por Stephen Frears. Escrito por Steven Knight. Com Chiwetel Ejiofor, Audrey Tautou, Sergi López, Sophie Okonedo, Benedict Wong, Zlatko Buric, Kriss Dosanjh, Israel Oyelumade, Yemi Ajibade."

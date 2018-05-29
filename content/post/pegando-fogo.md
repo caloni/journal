@@ -1,7 +1,7 @@
 ---
 imdb: "2503944"
 date: "2016-01-14"
-categories: "movies"
+categories: [ "movies" ]
 title: "Pegando Fogo"
 stars: "4/5"
 desc: "Pegando Fogo. Burnt (USA, 2015). Dirigido por John Wells. Escrito por Steven Knight, Michael Kalesniko. Com Bradley Cooper, Sienna Miller, Daniel Brühl, Riccardo Scamarcio, Omar Sy, Sam Keeley, Henry Goodman, Matthew Rhys, Stephen Campbell Moore."

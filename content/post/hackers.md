@@ -1,7 +1,7 @@
 ---
 imdb: "0113243"
 date: "2011-11-19"
-categories: "movies"
+categories: [ "movies" ]
 title: "Hackers"
 stars: "3/5"
 desc: "Hackers. Hackers (USA, 1995). Dirigido por Iain Softley. Escrito por Rafael Moreu. Com Jonny Lee Miller, Angelina Jolie, Jesse Bradford, Matthew Lillard, Laurence Mason, Renoly Santiago, Fisher Stevens, Alberta Watson, Darren Lee."

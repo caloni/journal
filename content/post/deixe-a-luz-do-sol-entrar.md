@@ -1,7 +1,7 @@
 ---
 date: 2018-03-24T01:51:20-03:00
 title: "Deixe a Luz Do Sol Entrar"
-categories: "movies"
+categories: [ "movies" ]
 imdb: "6423776"
 stars: "4/5"
 desc: "Un beau soleil intérieur (França, 2017), escrito por Christine Angot, Claire Denis , dirigido por Claire Denis, com Juliette Binoche, Xavier Beauvois, Philippe Katerine."

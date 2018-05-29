@@ -1,7 +1,7 @@
 ---
 imdb: "0320691"
 date: "2013-03-04"
-categories: "movies"
+categories: [ "movies" ]
 title: "Anjos da Noite"
 stars: "1/5"
 desc: "Anjos da Noite. Underworld (UK, 2003). Dirigido por Len Wiseman. Escrito por Kevin Grevioux, Len Wiseman, Danny McBride, Danny McBride. Com Kate Beckinsale, Scott Speedman, Michael Sheen, Shane Brolly, Bill Nighy, Erwin Leder, Sophia Myles, Robbie Gee, Wentworth Miller."

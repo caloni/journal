@@ -1,7 +1,7 @@
 ---
 imdb: "0103644"
 date: "2011-12-10"
-categories: "movies"
+categories: [ "movies" ]
 title: "Aliens 3"
 stars: "3/5"
 desc: "Aliens 3. Alien³ (USA, 1992). Dirigido por David Fincher. Escrito por Dan O'Bannon, Ronald Shusett, Vincent Ward, David Giler, Walter Hill, Larry Ferguson. Com Sigourney Weaver, Charles S. Dutton, Charles Dance, Paul McGann, Brian Glover, Ralph Brown, Danny Webb, Christopher John Fields, Holt McCallany."

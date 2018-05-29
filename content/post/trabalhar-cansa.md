@@ -1,7 +1,7 @@
 ---
 imdb: "1686328"
 date: "2011-10-18"
-categories: "movies"
+categories: [ "movies" ]
 title: "Trabalhar Cansa"
 stars: "5/5"
 desc: "Trabalhar Cansa. Trabalhar Cansa (Brazil, 2011). Dirigido por Marco Dutra, Juliana Rojas. Escrito por Marco Dutra, Juliana Rojas. Com Helena Albergaria, Marat Descartes, Naloana Lima, Gilda Nomacce, Marina Flores, Lilian Blanc, Thiago Carreira, Hugo Villavicenzio, Thais Almeida Prado."

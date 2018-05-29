@@ -1,7 +1,7 @@
 ---
 imdb: "1437357"
 date: "2012-07-27"
-categories: "movies"
+categories: [ "movies" ]
 title: "Faust"
 stars: "5/5"
 desc: "Faust. Faust (Russia, 2011). Dirigido por Aleksandr Sokurov. Escrito por Yuriy Arabov, Aleksandr Sokurov, Marina Koreneva, Johann Wolfgang Goethe. Com Johannes Zeiler, Anton Adasinsky, Isolda Dychauk, Georg Friedrich, Hanna Schygulla, Antje Lewald, Florian Brückner, Sigurður Skúlason, Maxim Mehmet."

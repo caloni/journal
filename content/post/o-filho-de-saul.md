@@ -2,7 +2,7 @@
 tags: ['cabine']
 imdb: "3808342"
 date: "2016-01-28"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Filho de Saul"
 stars: "4/5"
 desc: "O Filho de Saul. Saul fia (Hungary, 2015). Dirigido por László Nemes. Escrito por László Nemes, Clara Royer. Com Géza Röhrig, Levente Molnár, Urs Rechn, Todd Charmont, Jerzy Walczak, Gergö Farkas, Balázs Farkas, Sándor Zsótér, Marcin Czarnik."

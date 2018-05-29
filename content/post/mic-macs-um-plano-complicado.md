@@ -1,7 +1,7 @@
 ---
 imdb: "1149361"
 date: "2010-12-20"
-categories: "movies"
+categories: [ "movies" ]
 title: "Micmacs Um Plano Complicado"
 stars: "4/5"
 revision: [datetime.date(2012, 6, 4)]

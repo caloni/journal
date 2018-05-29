@@ -2,7 +2,7 @@
 tags: ['mostrasp']
 imdb: "5065810"
 date: "2016-10-21"
-categories: "movies"
+categories: [ "movies" ]
 title: "Aloys"
 stars: "5/5"
 desc: "Aloys. Aloys (Switzerland, 2016). Dirigido por Tobias Nölle. Escrito por Tobias Nölle. Com Georg Friedrich (Aloys Adorn), Tilde von Overbeck (Vera), Kamil Krejcí (Herr Schoch), Yufei Li (Yen Lee), Koi Lee (Herr Lee), Sebastian Krähenbühl (Hauswart), Karl Friedrich (Vater Aloys), Peter Zumstein (Bestatter), Agnes Lampkin (Julie Kramer)."

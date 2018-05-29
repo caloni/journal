@@ -1,7 +1,7 @@
 ---
 imdb: "1302011"
 date: "2011-06-12"
-categories: "movies"
+categories: [ "movies" ]
 title: "Kung Fu Panda 2"
 stars: "4/5"
 desc: "Kung Fu Panda 2. Kung Fu Panda 2 (USA, 2011). Dirigido por Jennifer Yuh. Escrito por Jonathan Aibel, Glenn Berger. Com Jack Black, Angelina Jolie, Dustin Hoffman, Gary Oldman, Jackie Chan, Seth Rogen, Lucy Liu, David Cross, James Hong."

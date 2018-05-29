@@ -1,7 +1,7 @@
 ---
 imdb: "1643222"
 date: "2012-10-25"
-categories: "movies"
+categories: [ "movies" ]
 title: "Um Inferno"
 stars: "4/5"
 desc: "Um Inferno. Hell (Germany, 2011). Dirigido por Tim Fehlbaum. Escrito por Tim Fehlbaum, Oliver Kahl, Thomas Wöbke. Com Hannah Herzsprung, Lars Eidinger, Stipe Erceg, Lisa Vicari, Angela Winkler, Yoann Blanc, Christoph Gaugler, Lilo Baur, Marco Calamandrei."

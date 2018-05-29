@@ -1,7 +1,7 @@
 ---
 imdb: "1231583"
 date: "2011-08-22"
-categories: "movies"
+categories: [ "movies" ]
 title: "Um Parto de Viagem"
 stars: "3/5"
 desc: "Um Parto de Viagem. Due Date (USA, 2010). Dirigido por Todd Phillips. Escrito por Alan R. Cohen, Alan Freedland, Adam Sztykiel, Todd Phillips, Alan R. Cohen, Alan Freedland. Com Robert Downey Jr., Zach Galifianakis, Michelle Monaghan, Jamie Foxx, Juliette Lewis, Danny McBride, RZA, Matt Walsh, Brody Stevens."

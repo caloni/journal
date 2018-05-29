@@ -1,7 +1,7 @@
 ---
 imdb: "0363163"
 date: "2011-06-12"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Queda! As Últimas Horas de Hitler"
 stars: "4/5"
 desc: "A Queda! As Últimas Horas de Hitler. Der Untergang (Germany, 2004). Dirigido por Oliver Hirschbiegel. Escrito por Bernd Eichinger, Joachim Fest, Traudl Junge, Melissa Müller. Com Bruno Ganz, Alexandra Maria Lara, Corinna Harfouch, Ulrich Matthes, Juliane Köhler, Heino Ferch, Christian Berkel, Matthias Habich, Thomas Kretschmann."

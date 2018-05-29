@@ -1,7 +1,7 @@
 ---
 imdb: "3498820"
 date: "2016-05-31"
-categories: "movies"
+categories: [ "movies" ]
 title: "Capitão América: Guerra Civil"
 stars: "3/5"
 desc: "Capitão América: Guerra Civil. Captain America: Civil War (USA, 2016). Dirigido por Anthony Russo, Joe Russo. Escrito por Christopher Markus, Stephen McFeely, Mark Millar, Joe Simon, Jack Kirby. Com Chris Evans, Robert Downey Jr., Scarlett Johansson, Sebastian Stan, Anthony Mackie, Don Cheadle, Jeremy Renner, Chadwick Boseman, Paul Bettany."

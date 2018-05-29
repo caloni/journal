@@ -1,7 +1,7 @@
 ---
 imdb: "3063516"
 date: "2014-12-02"
-categories: "movies"
+categories: [ "movies" ]
 title: "Jackass Apresenta: Vovô Sem Vergonha"
 stars: "3/5"
 desc: "Jackass Apresenta: Vovô Sem Vergonha. Jackass Presents: Bad Grandpa (USA, 2013). Dirigido por Jeff Tremaine. Escrito por Johnny Knoxville, Spike Jonze, Jeff Tremaine, Johnny Knoxville, Spike Jonze, Jeff Tremaine, Fax Bahr, Adam Small. Com Johnny Knoxville, Jackson Nicoll, Greg Harris, Georgina Cates, Kamber Hejlik, Jill Kill, Madison Davis, George Faughnan, Grasie Mercedes."

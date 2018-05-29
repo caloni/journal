@@ -1,7 +1,7 @@
 ---
 imdb: "0092890"
 date: "2012-02-15"
-categories: "movies"
+categories: [ "movies" ]
 title: "Dirty Dancing Ritmo Quente"
 stars: "4/5"
 desc: "Dirty Dancing Ritmo Quente. Dirty Dancing (USA, 1987). Dirigido por Emile Ardolino. Escrito por Eleanor Bergstein. Com Jennifer Grey, Patrick Swayze, Jerry Orbach, Cynthia Rhodes, Jack Weston, Jane Brucker, Kelly Bishop, Lonny Price, Max Cantor."

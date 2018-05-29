@@ -1,7 +1,7 @@
 ---
 imdb: "2194499"
 date: "2015-12-27"
-categories: "movies"
+categories: [ "movies" ]
 title: "About Time"
 stars: "3/5"
 desc: "About Time. About Time (UK, 2013). Dirigido por Richard Curtis. Escrito por Richard Curtis. Com Domhnall Gleeson, Rachel McAdams, Bill Nighy, Lydia Wilson, Lindsay Duncan, Richard Cordery, Joshua McGuire, Tom Hollander, Margot Robbie."

@@ -1,7 +1,7 @@
 ---
 imdb: "0079588"
 date: "2012-02-15"
-categories: "movies"
+categories: [ "movies" ]
 title: "Muppets O Filme"
 stars: "3/5"
 desc: "Muppets O Filme. The Muppet Movie (UK, 1979). Dirigido por James Frawley. Escrito por Jack Burns, Jerry Juhl. Com Jim Henson, Frank Oz, Jerry Nelson, Richard Hunt, Dave Goelz, Charles Durning, Austin Pendleton, Edgar Bergen, Milton Berle."

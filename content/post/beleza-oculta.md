@@ -2,7 +2,7 @@
 tags: ['cinema']
 imdb: "4682786"
 date: "2017-03-01"
-categories: "movies"
+categories: [ "movies" ]
 title: "Beleza Oculta"
 stars: "3/5"
 desc: "Beleza Oculta. Collateral Beauty (USA, 2016). Dirigido por David Frankel. Escrito por Allan Loeb. Com Will Smith (Howard), Edward Norton (Whit), Kate Winslet (Claire), Michael Peña (Simon), Helen Mirren (Brigitte), Naomie Harris (Madeleine), Keira Knightley (Amy), Jacob Latimore (Raffi), Ann Dowd (Sally Price)."

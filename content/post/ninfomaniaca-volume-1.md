@@ -2,7 +2,7 @@
 tags: ['ninfomaniaca']
 imdb: "1937390"
 date: 2016-06-06
-categories: "movies"
+categories: [ "movies" ]
 title: "Ninfomaníaca Vol. 1"
 stars: "4/5"
 desc: "Ninfomaníaca Vol. 1. Nymphomaniac: Vol. I (Denmark, 2013). Dirigido por Lars von Trier. Escrito por Lars von Trier. Com Charlotte Gainsbourg, Stellan Skarsgård, Stacy Martin, Shia LaBeouf, Christian Slater, Uma Thurman, Sophie Kennedy Clark, Connie Nielsen, Ronja Rissmann."

@@ -2,7 +2,7 @@
 tags: ['netflix']
 imdb: "0103776"
 date: 2017-12-10T14:11:47
-categories: "movies"
+categories: [ "movies" ]
 title: "Batman: O Retorno"
 stars: "3/5"
 desc: "Batman: O Retorno. Batman Returns (USA, 1992). Dirigido por Tim Burton. Escrito por Bob Kane, Daniel Waters, Sam Hamm. Com Michael Keaton (Batman / Bruce Wayne), Danny DeVito (Penguin / Oswald Cobblepot), Michelle Pfeiffer (Catwoman / Selina Kyle), Christopher Walken (Max Shreck), Michael Gough (Alfred Pennyworth), Michael Murphy (The Mayor), Cristi Conaway (Ice Princess), Andrew Bryniarski (Charles 'Chip' Shreck), Pat Hingle (Commissioner James Gordon)."

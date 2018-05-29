@@ -1,7 +1,7 @@
 ---
 imdb: "0097757"
 date: "2012-07-21"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Pequena Sereia"
 stars: "4/5"
 desc: "A Pequena Sereia. The Little Mermaid (USA, 1989). Dirigido por Ron Clements, John Musker. Escrito por John Musker, Ron Clements, Hans Christian Andersen, Howard Ashman, Gerrit Graham, Sam Graham, Chris Hubbell. Com Rene Auberjonois, Christopher Daniel Barnes, Jodi Benson, Pat Carroll, Paddi Edwards, Buddy Hackett, Jason Marin, Kenneth Mars, Edie McClurg."

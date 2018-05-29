@@ -1,7 +1,7 @@
 ---
 imdb: "0247586"
 date: "2012-11-18"
-categories: "movies"
+categories: [ "movies" ]
 title: "Nove Rainhas"
 stars: "5/5"
 desc: "Nove Rainhas. Nueve reinas (Argentina, 2000). Dirigido por Fabián Bielinsky. Escrito por Fabián Bielinsky. Com Ricardo Darín, Gastón Pauls, Leticia Brédice, María Mercedes Villagra, Gabriel Correa, Pochi Ducasse, Luis Armesto, Ernesto Arias, Amancay Espíndola."

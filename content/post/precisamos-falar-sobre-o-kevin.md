@@ -1,7 +1,7 @@
 ---
 imdb: "1242460"
 date: "2012-12-30"
-categories: "movies"
+categories: [ "movies" ]
 title: "Precisamos Falar Sobre o Kevin"
 stars: "5/5"
 desc: "Precisamos Falar Sobre o Kevin. We Need to Talk About Kevin (UK, 2011). Dirigido por Lynne Ramsay. Escrito por Lynne Ramsay, Rory Stewart Kinnear, Lionel Shriver. Com Tilda Swinton, John C. Reilly, Ezra Miller, Jasper Newell, Rock Duer, Ashley Gerasimovich, Siobhan Fallon, Alex Manette, Kenneth Franklin."

@@ -1,7 +1,7 @@
 ---
 imdb: "0086250"
 date: "2014-05-10"
-categories: "movies"
+categories: [ "movies" ]
 title: "Scarface"
 stars: "5/5"
 desc: "Scarface. Scarface (USA, 1983). Dirigido por Brian De Palma. Escrito por Oliver Stone, Howard Hawks, Ben Hecht, Armitage Trail. Com Al Pacino, Steven Bauer, Michelle Pfeiffer, Mary Elizabeth Mastrantonio, Robert Loggia, Miriam Colon, F. Murray Abraham, Paul Shenar, Harris Yulin."

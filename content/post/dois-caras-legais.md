@@ -1,7 +1,7 @@
 ---
 imdb: "3799694"
 date: "2016-07-28"
-categories: "movies"
+categories: [ "movies" ]
 title: "Dois Caras Legais"
 stars: "3/5"
 desc: "Dois Caras Legais. The Nice Guys (USA, 2016). Dirigido por Shane Black. Escrito por Shane Black, Anthony Bagarozzi. Com Russell Crowe, Ryan Gosling, Angourie Rice, Matt Bomer, Margaret Qualley, Yaya DaCosta, Keith David, Beau Knapp, Lois Smith."

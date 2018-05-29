@@ -1,7 +1,7 @@
 ---
 imdb: "1284575"
 date: "2012-02-15"
-categories: "movies"
+categories: [ "movies" ]
 title: "Professora Sem Classe"
 stars: "2/5"
 desc: "Professora Sem Classe. Bad Teacher (USA, 2011). Dirigido por Jake Kasdan. Escrito por Gene Stupnitsky, Lee Eisenberg. Com Cameron Diaz, Lucy Punch, Jason Segel, Justin Timberlake, Phyllis Smith, John Michael Higgins, Dave Allen, Jillian Armenante, Matthew J. Evans."

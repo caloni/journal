@@ -1,7 +1,7 @@
 ---
 imdb: "0286112"
 date: "2014-09-07"
-categories: "movies"
+categories: [ "movies" ]
 title: "Kung-Fu Futebol Clube"
 stars: "4/5"
 desc: "Kung-Fu Futebol Clube. Siu lam juk kau (Hong Kong, 2001). Dirigido por Stephen Chow. Escrito por Stephen Chow, Kan-Cheung Tsang, Min Hun Fung, Chi Keung Fung, Marc Handler, Wei Lu. Com Stephen Chow, Wei Zhao, Man Tat Ng, Yin Tse, Cecilia Cheung, Karen Mok, Vincent Kok, Hui Li, Yat-Fei Wong."

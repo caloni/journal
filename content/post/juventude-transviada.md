@@ -1,7 +1,7 @@
 ---
 imdb: "0048545"
 date: "2016-01-30"
-categories: "movies"
+categories: [ "movies" ]
 title: "Juventude Transviada"
 stars: "4/5"
 desc: "Juventude Transviada. Rebel Without a Cause (USA, 1955). Dirigido por Nicholas Ray. Escrito por Stewart Stern, Irving Shulman, Nicholas Ray. Com James Dean, Natalie Wood, Sal Mineo, Jim Backus, Ann Doran, Corey Allen, William Hopper, Rochelle Hudson, Dennis Hopper."

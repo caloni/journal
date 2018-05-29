@@ -1,7 +1,7 @@
 ---
 imdb: "1529572"
 date: "2011-09-27"
-categories: "movies"
+categories: [ "movies" ]
 title: "Confiar"
 stars: "3/5"
 desc: "Confiar. Trust (USA, 2010). Dirigido por David Schwimmer. Escrito por Andy Bellin, Robert Festinger. Com Clive Owen, Catherine Keener, Liana Liberato, Jason Clarke, Viola Davis, Chris Henry Coffey, Spencer Curnutt, Aislinn DeButch, Noah Emmerich."

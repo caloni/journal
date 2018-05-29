@@ -1,7 +1,7 @@
 ---
 imdb: "0422295"
 date: "2012-12-30"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Pele"
 stars: "3/5"
 desc: "A Pele. Fur: An Imaginary Portrait of Diane Arbus (USA, 2006). Dirigido por Steven Shainberg. Escrito por Erin Cressida Wilson, Patricia Bosworth. Com Nicole Kidman, Robert Downey Jr., Ty Burrell, Harris Yulin, Jane Alexander, Emmy Clarke, Genevieve McCarthy, Boris McGiver, Marceline Hugot."

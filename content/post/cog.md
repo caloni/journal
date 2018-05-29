@@ -1,7 +1,7 @@
 ---
 imdb: "1650393"
 date: "2015-09-27"
-categories: "movies"
+categories: [ "movies" ]
 title: "C.O.G."
 stars: "3/5"
 desc: "C.O.G.. C.O.G. (USA, 2013). Dirigido por Kyle Patrick Alvarez. Escrito por Kyle Patrick Alvarez, David Sedaris. Com Jonathan Groff, Tyra Richards, Beth Furumasu, Keiko Green, Kamyar Jahan, Danny Belrose, Zachary Vitale, Marvella McPartland, Tim Patteron."

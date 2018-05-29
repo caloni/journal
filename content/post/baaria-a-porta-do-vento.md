@@ -1,7 +1,7 @@
 ---
 imdb: "1081935"
 date: "2010-09-17"
-categories: "movies"
+categories: [ "movies" ]
 title: "Baarìa A Porta do Vento"
 stars: "3/5"
 desc: "Baarìa A Porta do Vento. Baarìa (Italy, 2009). Dirigido por Giuseppe Tornatore. Escrito por Giuseppe Tornatore. Com Francesco Scianna, Margareth Madè, Lina Sastri, Ángela Molina, Nicole Grimaudo, Ficarra, Picone, Gaetano Aronica, Alfio Sorbello."

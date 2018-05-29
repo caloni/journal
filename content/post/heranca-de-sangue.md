@@ -2,7 +2,7 @@
 tags: ['cabine']
 imdb: "3647498"
 date: "2016-09-04"
-categories: "movies"
+categories: [ "movies" ]
 title: "Herança de Sangue"
 stars: "4/5"
 desc: "Herança de Sangue. Blood Father (France, 2016). Dirigido por Jean-François Richet. Escrito por Peter Craig, Andrea Berloff, Peter Craig. Com Mel Gibson, Erin Moriarty, Diego Luna, Michael Parks, William H. Macy, Miguel Sandoval, Dale Dickey, Richard Cabral, Daniel Moncada."

@@ -2,7 +2,7 @@
 tags: ['netflix', 'oscar']
 imdb: "5895028"
 date: "2017-02-05"
-categories: "movies"
+categories: [ "movies" ]
 title: "A 13a. Emenda"
 stars: "2/5"
 desc: "A 13a. Emenda. 13th (USA, 2016). Dirigido por Ava DuVernay. Escrito por Spencer Averick, Ava DuVernay. Com Melina Abdullah (Herself - Interviewee), Michelle Alexander (Herself - Interviewee), Cory Booker (Himself - Interviewee), Dolores Canales (Herself - Interviewee), Gina Clayton (Herself - Interviewee), Jelani Cobb (Himself - Interviewee), Malkia Cyril (Herself - Interviewee), Angela Davis (Herself - Interviewee), Craig DeRoche (Himself - Interviewee)."

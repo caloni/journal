@@ -2,7 +2,7 @@
 tags: ['netflix']
 imdb: "2463288"
 date: 2017-07-31T20:18:15
-categories: "movies"
+categories: [ "movies" ]
 title: "A Minha Casa Caiu"
 stars: "3/5"
 desc: "A Minha Casa Caiu. Walk of Shame (USA, 2014). Dirigido por Steven Brill. Escrito por Steven Brill. Com Elizabeth Banks (Meghan), James Marsden (Gordon), Gillian Jacobs (Rose), Sarah Wright (Denise), Ethan Suplee (Officer Dave), Bill Burr (Officer Walter), Ken Davitian (Cab Driver), Lawrence Gilliard Jr. (Scrilla), Alphonso McAuley (Pookie)."

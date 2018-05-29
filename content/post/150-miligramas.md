@@ -2,7 +2,7 @@
 tags: ['cabine']
 imdb: "5247544"
 date: 2017-08-21T15:10:18
-categories: "movies"
+categories: [ "movies" ]
 title: "150 Miligramas"
 stars: "3/5"
 desc: "150 Miligramas. La fille de Brest (France, 2016). Dirigido por Emmanuelle Bercot. Escrito por Emmanuelle Bercot, Séverine Bosschem, Romain Compingt, Irène Frachon. Com Sidse Babett Knudsen (Irène Frachon), Benoît Magimel (Antoine Le Bihan), Charlotte Laemmel (Patoche), Isabelle de Hertogh (Corinne Zacharria), Lara Neumann (Anne Jouan), Patrick Ligardes (Bruno Frachon), Olivier Pasquier (le Père Noël Arsène Weber), Philippe Uchan (Aubert), Gustave Kervern (Kermarec)."

@@ -2,7 +2,7 @@
 tags: ['netflix', 'series']
 imdb: "6315640"
 date: 2017-08-21T17:12:52
-categories: "series"
+categories: [ "series" ]
 title: "Atypical"
 stars: "3/5"
 desc: "Atypical. Atypical (USA, 2017). Dirigido por Michael Patrick Jann, Seth Gordon. Escrito por Jen Regan, Ava Tramer, Robia Rashid, Dennis Saldua, Michael Oppenhuizen. Com Jennifer Jason Leigh (Elsa Gardner / ...), Brigette Lundy-Paine (Casey Gardner / ...), Amy Okuda (Julia Sasaki), Keir Gilchrist (Sam / ...), Michael Rapaport (Doug Gardner), Nik Dodani (Zahid), Graham Rogers (Evan), Jenna Boyd (Paige), Raúl Castillo (Nick)."

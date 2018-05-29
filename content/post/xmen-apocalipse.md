@@ -2,7 +2,7 @@
 tags: ['mcu', 'xmen']
 imdb: "3385516"
 date: "2016-06-27"
-categories: "movies"
+categories: [ "movies" ]
 title: "X-Men: Apocalipse"
 stars: "3/5"
 desc: "X-Men: Apocalipse. X-Men: Apocalypse (USA, 2016). Dirigido por Bryan Singer. Escrito por Simon Kinberg, Bryan Singer, Simon Kinberg, Michael Dougherty, Dan Harris. Com James McAvoy, Michael Fassbender, Jennifer Lawrence, Nicholas Hoult, Oscar Isaac, Rose Byrne, Evan Peters, Josh Helman, Sophie Turner."

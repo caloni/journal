@@ -1,7 +1,7 @@
 ---
 date: 2018-04-03T17:49:59-03:00
 title: "Antes que Tudo Desapareça"
-categories: "movies"
+categories: [ "movies" ]
 imdb: "5999530"
 stars: "2/5"
 desc: "Sanpo suru shinryakusha (Japão, 2017), escrito por Kiyoshi Kurosawa e Sachiko Tanaka (baseados na peça de Tomohiro Maekawa), dirigido por Kiyoshi Kurosawa, com Masami Nagasawa, Ryûhei Matsuda, Hiroki Hasegawa."

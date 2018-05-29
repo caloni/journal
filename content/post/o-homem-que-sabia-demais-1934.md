@@ -1,7 +1,7 @@
 ---
 imdb: "0025452"
 date: "2011-06-16"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Homem que Sabia Demais"
 stars: "4/5"
 desc: "O Homem que Sabia Demais. The Man Who Knew Too Much (UK, 1934). Dirigido por Alfred Hitchcock. Escrito por Charles Bennett, D.B. Wyndham-Lewis, Edwin Greenwood, A.R. Rawlinson, Emlyn Williams. Com Leslie Banks, Edna Best, Peter Lorre, Frank Vosper, Hugh Wakefield, Nova Pilbeam, Pierre Fresnay, Cicely Oates, D.A. Clarke-Smith."

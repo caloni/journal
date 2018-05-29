@@ -1,7 +1,7 @@
 ---
 imdb: "1618447"
 date: "2012-01-09"
-categories: "movies"
+categories: [ "movies" ]
 title: "Adeus Primeiro Amor"
 stars: "3/5"
 desc: "Adeus Primeiro Amor. Un amour de jeunesse (France, 2011). Dirigido por Mia Hansen-Løve. Escrito por Mia Hansen-Løve. Com Lola Créton, Sebastian Urzendowsky, Magne-Håvard Brekke, Valérie Bonneton, Serge Renko, Özay Fecht, Max Ricat, Louis Dunbar, Philippe Paimblanc."

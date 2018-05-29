@@ -1,7 +1,7 @@
 ---
 imdb: "0399295"
 date: "2011-04-07"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Senhor das Armas"
 stars: "5/5"
 desc: "O Senhor das Armas. Lord of War (USA, 2005). Dirigido por Andrew Niccol. Escrito por Andrew Niccol. Com Nicolas Cage, Bridget Moynahan, Jared Leto, Shake Tukhmanyan, Jean-Pierre Nshanian, Jared Burke, Eric Uys, David Shumbris, Stewart Morgan."

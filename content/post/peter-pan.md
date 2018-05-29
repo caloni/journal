@@ -1,7 +1,7 @@
 ---
 imdb: "3332064"
 date: "2015-10-15"
-categories: "movies"
+categories: [ "movies" ]
 title: "Peter Pan"
 stars: "3/5"
 desc: "Peter Pan. Pan (USA, 2015). Dirigido por Joe Wright. Escrito por Jason Fuchs, J.M. Barrie. Com Hugh Jackman, Levi Miller, Garrett Hedlund, Rooney Mara, Adeel Akhtar, Nonso Anozie, Amanda Seyfried, Kathy Burke, Lewis MacDougall."

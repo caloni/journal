@@ -2,7 +2,7 @@
 tags: ['paulocoelho']
 imdb: "3553976"
 date: 2017-11-25T13:54:00
-categories: "movies"
+categories: [ "movies" ]
 title: "Capitão Fantástico"
 stars: "5/5"
 desc: "Capitão Fantástico. Captain Fantastic (USA, 2016). Dirigido por Matt Ross. Escrito por Matt Ross. Com Viggo Mortensen (Ben), George MacKay (Bodevan), Samantha Isler (Kielyr), Annalise Basso (Vespyr), Nicholas Hamilton (Rellian), Shree Crooks (Zaja), Charlie Shotwell (Nai), Trin Miller (Leslie), Kathryn Hahn (Harper)."

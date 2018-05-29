@@ -1,7 +1,7 @@
 ---
 imdb: "1069238"
 date: "2017-01-15"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Partida"
 stars: "5/5"
 desc: "A Partida. Okuribito (Japan, 2008). Dirigido por Yôjirô Takita. Escrito por Kundô Koyama. Com Masahiro Motoki (Daigo Kobayashi), Tsutomu Yamazaki (Ikuei Sasaki), Ryôko Hirosue (Mika Kobayashi), Kazuko Yoshiyuki (Tsuyako Yamashita), Kimiko Yo (Yuriko Uemura), Takashi Sasano (Shokichi Hirata), Tetta Sugimoto (Yamashita), Tôru Minegishi (Yoshiki Kobayashi), Tatsuo Yamada (Togashi)."

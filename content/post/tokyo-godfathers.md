@@ -1,7 +1,7 @@
 ---
 imdb: "0388473"
 date: "2013-12-22"
-categories: "movies"
+categories: [ "movies" ]
 title: "Tokyo Godfathers"
 stars: "3/5"
 desc: "Tokyo Godfathers. Tokyo Godfathers (Japan, 2003). Dirigido por Satoshi Kon, Shôgo Furuya. Escrito por Satoshi Kon, Satoshi Kon, Keiko Nobumoto. Com Tôru Emori, Aya Okamoto, Yoshiaki Umegaki, Shôzô Iizuka, Seizô Katô, Hiroya Ishimaru, Ryûji Saikachi, Yûsaku Yara, Kyôko Terase."

@@ -1,7 +1,7 @@
 ---
 imdb: "1231587"
 date: "2010-09-10"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Ressaca"
 stars: "3/5"
 desc: "A Ressaca. Hot Tub Time Machine (USA, 2010). Dirigido por Steve Pink. Escrito por Josh Heald, Sean Anders, John Morris, Josh Heald. Com John Cusack, Clark Duke, Craig Robinson, Rob Corddry, Sebastian Stan, Lyndsy Fonseca, Crispin Glover, Chevy Chase, Charlie McDermott."

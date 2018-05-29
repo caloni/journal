@@ -1,7 +1,7 @@
 ---
 imdb: "0453047"
 date: "2010-12-30"
-categories: "movies"
+categories: [ "movies" ]
 title: "Elsa e Fred"
 stars: "4/5"
 desc: "Elsa e Fred. Elsa y Fred (Argentina, 2005). Dirigido por Marcos Carnevale. Escrito por Marcos Carnevale, Marcela Guerty, Lily Ann Martin. Com Manuel Alexandre, China Zorrilla, Blanca Portillo, José Ángel Egido, Omar Muñoz, Roberto Carnaghi, Carlos Álvarez-Nóvoa, Gonzalo Urtizberéa, Fanny Gautier."

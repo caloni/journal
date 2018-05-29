@@ -1,7 +1,7 @@
 ---
 imdb: "2243389"
 date: "2013-07-28"
-categories: "movies"
+categories: [ "movies" ]
 title: "Os Amantes Passageiros"
 stars: "3/5"
 desc: "Os Amantes Passageiros. Los amantes pasajeros (Spain, 2013). Dirigido por Pedro Almodóvar. Escrito por Pedro Almodóvar. Com Antonio Banderas, Penélope Cruz, Coté Soler, Antonio de la Torre, Hugo Silva, Miguel Ángel Silvestre, Laya Martí, Javier Cámara, Carlos Areces."

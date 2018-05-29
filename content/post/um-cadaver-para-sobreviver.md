@@ -2,7 +2,7 @@
 tags: ['netflix']
 imdb: "4034354"
 date: "2017-01-05"
-categories: "movies"
+categories: [ "movies" ]
 title: "Um Cadáver Para Sobreviver"
 stars: "4/5"
 desc: "Um Cadáver Para Sobreviver. Swiss Army Man (USA, 2016). Dirigido por Dan Kwan, Daniel Scheinert. Escrito por Dan Kwan, Daniel Scheinert. Com Paul Dano (Hank), Daniel Radcliffe (Manny), Mary Elizabeth Winstead (Sarah), Antonia Ribero (Crissie), Timothy Eulich (Preston), Richard Gross (Hank's Dad), Marika Casteel (Reporter), Andy Hull (Cameraman), Aaron Marshall (Officer #1)."

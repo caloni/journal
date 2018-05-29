@@ -1,7 +1,7 @@
 ---
 imdb: "0480687"
 date: "2011-03-22"
-categories: "movies"
+categories: [ "movies" ]
 title: "Passe Livre"
 stars: "4/5"
 desc: "Passe Livre. Hall Pass (USA, 2011). Dirigido por Bobby Farrelly, Peter Farrelly. Escrito por Pete Jones, Peter Farrelly, Kevin Barnett, Bobby Farrelly, Pete Jones. Com Owen Wilson, Jason Sudeikis, Jenna Fischer, Christina Applegate, Nicky Whelan, Richard Jenkins, Stephen Merchant, Larry Joe Campbell, Bruce Thomas."

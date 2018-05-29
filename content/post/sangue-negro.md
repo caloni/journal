@@ -1,7 +1,7 @@
 ---
 imdb: "0469494"
 date: "2018-01-23"
-categories: "movies"
+categories: [ "movies" ]
 title: "Sangue Negro"
 stars: "5/5"
 desc: "Sangue Negro. There Will Be Blood (USA, 2007). Dirigido por Paul Thomas Anderson. Escrito por Paul Thomas Anderson, Upton Sinclair. Com Daniel Day-Lewis, Martin Stringer, Matthew Braden Stringer, Jacob Stringer, Joseph Mussey, Barry Del Sherman, Harrison Taylor, Stockton Taylor, Paul F. Tompkins."

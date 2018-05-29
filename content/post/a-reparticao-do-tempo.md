@@ -1,7 +1,7 @@
 ---
 date: 2018-01-17T23:05:25
 imdb: "6244144"
-categories: "movies"
+categories: [ "movies" ]
 stars: "2/5"
 title: "A Repartição do Tempo"
 desc: "A Repartição do Tempo."

@@ -1,7 +1,7 @@
 ---
 imdb: "0960890"
 date: "2013-07-28"
-categories: "movies"
+categories: [ "movies" ]
 title: "As Strippers Zumbi"
 stars: "2/5"
 desc: "As Strippers Zumbi. Zombie Strippers! (USA, 2008). Dirigido por Jay Lee. Escrito por Jay Lee. Com Jenna Jameson, Robert Englund, Roxy Saint, Penny Vital, Whitney Anderson, Jennifer Holland, Shamron Moore, Jeannette Sousa, Carmit Levité."

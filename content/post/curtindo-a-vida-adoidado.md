@@ -1,7 +1,7 @@
 ---
 imdb: "0091042"
 date: "2014-04-02"
-categories: "movies"
+categories: [ "movies" ]
 title: "Curtindo a Vida Adoidado"
 stars: "5/5"
 desc: "Curtindo a Vida Adoidado. Ferris Bueller's Day Off (USA, 1986). Dirigido por John Hughes. Escrito por John Hughes. Com Matthew Broderick, Alan Ruck, Mia Sara, Jeffrey Jones, Jennifer Grey, Cindy Pickett, Lyman Ward, Edie McClurg, Charlie Sheen."

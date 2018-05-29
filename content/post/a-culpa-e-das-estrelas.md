@@ -1,7 +1,7 @@
 ---
 imdb: "2582846"
 date: "2014-06-14"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Culpa é das Estrelas"
 stars: "5/5"
 desc: "A Culpa é das Estrelas. The Fault in Our Stars (USA, 2014). Dirigido por Josh Boone. Escrito por Scott Neustadter, Michael H. Weber, John Green. Com Shailene Woodley, Ansel Elgort, Nat Wolff, Laura Dern, Sam Trammell, Willem Dafoe, Lotte Verbeek, Ana Dela Cruz, Randy Kovitz."

@@ -2,7 +2,7 @@
 tags: ['netflix']
 imdb: "2319580"
 date: 2017-08-04T02:31:04
-categories: "movies"
+categories: [ "movies" ]
 title: "Tickle Head, O Melhor Lugar Da Terra"
 stars: "3/5"
 desc: "Tickle Head, O Melhor Lugar Da Terra. The Grand Seduction (Canada, 2013). Dirigido por Don McKellar. Escrito por Ken Scott, Michael Dowse. Com Percy Hynes White (Young Murray), Sean Panting (Ernest French), Crystal Dawn Parsons (Alice French), Brendan Gleeson (Murray French), Cathy Jones (Barbara French), Liane Balaban (Kathleen), Mark Critch (Henry Tilley), Gordon Pinsent (Simon), Lawrence Barry (Mayor Tom Fitzpatrick)."

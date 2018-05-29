@@ -1,7 +1,7 @@
 ---
 imdb: "1560747"
 date: "2013-02-20"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Mestre"
 stars: "4/5"
 desc: "O Mestre. The Master (USA, 2012). Dirigido por Paul Thomas Anderson. Escrito por Paul Thomas Anderson. Com Joaquin Phoenix, Price Carson, Mike Howard, Sarah Shoshana David, Bruce Goodchild, Matt Hering, Dan Anderson, Andrew Koponen, Jeffrey W. Jenkins."

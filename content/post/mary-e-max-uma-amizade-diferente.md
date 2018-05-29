@@ -1,7 +1,7 @@
 ---
 imdb: "0978762"
 date: "2010-04-16"
-categories: "movies"
+categories: [ "movies" ]
 title: "Mary e Max uma Amizade Diferente"
 stars: "5/5"
 revision: [datetime.date(2010, 4, 16)]

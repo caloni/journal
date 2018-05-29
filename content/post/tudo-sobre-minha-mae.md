@@ -1,7 +1,7 @@
 ---
 imdb: "0185125"
 date: "2011-12-31"
-categories: "movies"
+categories: [ "movies" ]
 title: "Tudo Sobre Minha Mãe"
 stars: "5/5"
 desc: "Tudo Sobre Minha Mãe. Todo sobre mi madre (Spain, 1999). Dirigido por Pedro Almodóvar. Escrito por Pedro Almodóvar. Com Cecilia Roth, Marisa Paredes, Candela Peña, Antonia San Juan, Penélope Cruz, Rosa Maria Sardà, Fernando Fernán Gómez, Toni Cantó, Eloy Azorín."

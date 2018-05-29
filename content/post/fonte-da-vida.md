@@ -2,7 +2,7 @@
 tags: ['netflix']
 imdb: "0414993"
 date: "2017-03-21"
-categories: "movies"
+categories: [ "movies" ]
 title: "Fonte da Vida"
 stars: "5/5"
 desc: "Fonte da Vida. The Fountain (USA, 2006). Dirigido por Darren Aronofsky. Escrito por Darren Aronofsky, Ari Handel. Com Hugh Jackman (Tomas / Tommy / Tom Creo), Rachel Weisz (Isabel Creo), Ellen Burstyn (Dr. Lillian Guzetti), Mark Margolis (Father Avila), Stephen McHattie (Grand Inquisitor Silecio), Fernando Hernandez (Lord of Xibalba), Cliff Curtis (Captain Ariel), Sean Patrick Thomas (Antonio), Donna Murphy (Betty)."

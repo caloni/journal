@@ -2,7 +2,7 @@
 tags: ['paulocoelho']
 imdb: "3469046"
 date: 2017-11-23T01:13:13
-categories: "movies"
+categories: [ "movies" ]
 title: "Meu Malvado Favorito 3"
 stars: "3/5"
 desc: "Meu Malvado Favorito 3. Despicable Me 3 (USA, 2017). Dirigido por Kyle Balda, Pierre Coffin, Eric Guillon. Escrito por Cinco Paul, Ken Daurio. Com Steve Carell (Gru / Dru), Kristen Wiig (Lucy), Trey Parker (Balthazar Bratt), Miranda Cosgrove (Margo), Dana Gaier (Edith), Nev Scharrel (Agnes), Pierre Coffin (Minions / Museum Director / Additional Voice), Steve Coogan (Fritz / Silas Ramsbottom), Julie Andrews (Gru's Mom)."

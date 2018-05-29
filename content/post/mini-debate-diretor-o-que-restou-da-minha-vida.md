@@ -1,7 +1,7 @@
 ---
 date: "2016-10-21"
 title: "Mini-Debate com diretor de O Que Restou da Minha Vida"
-categories: "blog"
+categories: [ "blog" ]
 tags: ['mostrasp']
 desc: "Mini-Debate com diretor de O Que Restou da Minha Vida."
 ---

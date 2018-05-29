@@ -1,7 +1,7 @@
 ---
 imdb: "1371111"
 date: "2013-02-18"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Viagem"
 stars: "5/5"
 desc: "A Viagem. Cloud Atlas (Germany, 2012). Dirigido por Tom Tykwer, Andy Wachowski, Lana Wachowski. Escrito por David Mitchell, Lana Wachowski, Tom Tykwer, Andy Wachowski. Com Tom Hanks, Halle Berry, Jim Broadbent, Hugo Weaving, Jim Sturgess, Doona Bae, Ben Whishaw, Keith David, James D'Arcy."

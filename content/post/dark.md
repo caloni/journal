@@ -1,7 +1,7 @@
 ---
 date: 2018-01-30T19:52:28
 imdb: "5753856"
-categories: "blog"
+categories: [ "blog" ]
 stars: "3/5"
 title: "Dark: Piloto"
 desc: "Dark: Piloto."

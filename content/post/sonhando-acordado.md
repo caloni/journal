@@ -1,7 +1,7 @@
 ---
 imdb: "0484111"
 date: "2014-01-19"
-categories: "movies"
+categories: [ "movies" ]
 title: "Sonhando Acordado"
 stars: "4/5"
 desc: "Sonhando Acordado. The Good Night (USA, 2007). Dirigido por Jake Paltrow. Escrito por Jake Paltrow. Com Keith Allen, Steffan Boje, Penélope Cruz, Danny DeVito, Sonia Doubell, Martin Freeman, Michael Gambon, Stephen Graham, Kate Harper."

@@ -1,7 +1,7 @@
 ---
 imdb: "0454876"
 date: "2013-01-03"
-categories: "movies"
+categories: [ "movies" ]
 title: "As Aventuras de Pi"
 stars: "3/5"
 desc: "As Aventuras de Pi. Life of Pi (USA, 2012). Dirigido por Ang Lee. Escrito por Yann Martel, David Magee. Com Suraj Sharma, Irrfan Khan, Ayush Tandon, Gautam Belur, Adil Hussain, Tabu, Ayaan Khan, Mohd. Abbas Khaleeli, Vibish Sivakumar."

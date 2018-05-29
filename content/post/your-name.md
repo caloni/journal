@@ -2,7 +2,7 @@
 tags: ['cinema']
 imdb: "5311514"
 date: 2017-10-31T16:37:36
-categories: "movies"
+categories: [ "movies" ]
 title: "Your Name"
 stars: "3/5"
 desc: "Your Name. Kimi no na wa. (Japan, 2016). Dirigido por Makoto Shinkai. Escrito por Makoto Shinkai, Clark Cheng. Com Ryûnosuke Kamiki (Taki Tachibana), Mone Kamishiraishi (Mitsuha Miyamizu), Ryô Narita (Katsuhiko Teshigawara), Aoi Yûki (Sayaka Natori), Nobunaga Shimazaki (Tsukasa Fujii), Kaito Ishikawa (Shinta Takagi), Kanon Tani (Yotsuha Miyamizu), Masaki Terasoma (Toshiki Miyamizu), Sayaka Ohara (Futaha Miyamizu)."

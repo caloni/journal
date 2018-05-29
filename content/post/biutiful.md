@@ -1,7 +1,7 @@
 ---
 imdb: "1164999"
 date: "2011-02-13"
-categories: "movies"
+categories: [ "movies" ]
 title: "Biutiful"
 stars: "2/5"
 desc: "Biutiful. Biutiful (Mexico, 2010). Dirigido por Alejandro González Iñárritu. Escrito por Alejandro González Iñárritu, Armando Bo, Nicolás Giacobone, Alejandro González Iñárritu. Com Javier Bardem, Maricel Álvarez, Hanaa Bouchaib, Guillermo Estrella, Eduard Fernández, Cheikh Ndiaye, Diaryatou Daff, Taisheng Chen, Jin Luo."

@@ -1,7 +1,7 @@
 ---
 imdb: "0079367"
 date: "2013-11-27"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Panaca"
 stars: "4/5"
 desc: "O Panaca. The Jerk (USA, 1979). Dirigido por Carl Reiner. Escrito por Steve Martin, Carl Gottlieb, Michael Elias, Steve Martin, Carl Gottlieb. Com Steve Martin, Bernadette Peters, Catlin Adams, Mabel King, Richard Ward, Dick Anthony Williams, Bill Macy, M. Emmet Walsh, Dick O'Neill."

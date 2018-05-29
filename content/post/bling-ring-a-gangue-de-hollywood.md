@@ -1,7 +1,7 @@
 ---
 imdb: "2132285"
 date: "2014-01-02"
-categories: "movies"
+categories: [ "movies" ]
 title: "Bling Ring A Gangue de Hollywood"
 stars: "4/5"
 desc: "Bling Ring A Gangue de Hollywood. The Bling Ring (USA, 2013). Dirigido por Sofia Coppola. Escrito por Sofia Coppola, Nancy Jo Sales. Com Katie Chang, Israel Broussard, Emma Watson, Claire Julien, Taissa Farmiga, Georgia Rock, Leslie Mann, Carlos Miranda, Gavin Rossdale."

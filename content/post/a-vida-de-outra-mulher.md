@@ -1,7 +1,7 @@
 ---
 imdb: "1817191"
 date: "2015-08-23"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Vida de Outra Mulher"
 stars: "4/5"
 desc: "A Vida de Outra Mulher. La vie d'une autre (France, 2012). Dirigido por Sylvie Testud. Escrito por Frederique Deghelt, Claire Lemaréchal, Sylvie Testud. Com Juliette Binoche, Mathieu Kassovitz, Aure Atika, Danièle Lebrun, Vernon Dobtcheff, Yvi Dachary-Le Béon, François Berléand, Marie-Christine Adam, Nicolas Carpentier."

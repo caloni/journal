@@ -1,7 +1,7 @@
 ---
 imdb: "0815245"
 date: "2014-05-01"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Mistério das Duas Irmãs"
 stars: "3/5"
 desc: "O Mistério das Duas Irmãs. The Uninvited (USA, 2009). Dirigido por Charles Guard, Thomas Guard. Escrito por Craig Rosenberg, Doug Miro, Carlo Bernard, Jee-Woon Kim. Com Emily Browning, Arielle Kebbel, David Strathairn, Elizabeth Banks, Maya Massar, Kevin McNulty, Jesse Moss, Dean Paul Gibson, Don S. Davis."

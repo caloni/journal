@@ -3,7 +3,7 @@ tags: ['cabine']
 cinemaqui: "http://www.cinemaqui.com.br/mulher-do-pai/"
 imdb: "6032376"
 date: "2017-06-13"
-categories: "movies"
+categories: [ "movies" ]
 title: "Mulher do Pai"
 stars: "3/5"
 desc: "Mulher do Pai. Mulher do Pai (Brazil, 2016). Dirigido por Cristiane Oliveira. Escrito por Cristiane Oliveira, Michele Frantz. Com Maria Galant (Nalu), Marat Descartes (Ruben), Verónica Perrotta (Rosario), Áurea Baptista (Vera), Amélia Bittencourt (Olga), Jorge Esmoris (Antonio), Fabiana Amorim (Elisa), Liane Venturella (Carmen), Diego Trinidad (Juan)."

@@ -1,7 +1,7 @@
 ---
 imdb: "0213847"
 date: "2014-02-05"
-categories: "movies"
+categories: [ "movies" ]
 title: "Malena"
 stars: "4/5"
 desc: "Malena. Malèna (Italy, 2000). Dirigido por Giuseppe Tornatore. Escrito por Giuseppe Tornatore, Luciano Vincenzoni. Com Monica Bellucci, Giuseppe Sulfaro, Luciano Federico, Matilde Piana, Pietro Notarianni, Gaetano Aronica, Gilberto Idonea, Angelo Pellegrino, Gabriella Di Luzio."

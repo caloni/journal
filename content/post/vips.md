@@ -1,7 +1,7 @@
 ---
 imdb: "1235548"
 date: "2013-03-04"
-categories: "movies"
+categories: [ "movies" ]
 title: "VIPs"
 stars: "5/5"
 desc: "VIPs. VIPs (Brazil, 2010). Dirigido por Toniko Melo. Escrito por Mariana Caltabiano, Thiago Dottori, Bráulio Mantovani. Com Wagner Moura, Gisele Fróes, Emiliano Ruschel, Marcela Falci, Heitor Goldflus, Cecília Homem de Mello, Roger Gobeth, Amaury Jr., João Francisco Tottene."

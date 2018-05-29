@@ -2,7 +2,7 @@
 tags: ['cabine']
 imdb: "4699388"
 date: "2016-06-03"
-categories: "movies"
+categories: [ "movies" ]
 title: "Um Amor À Altura"
 stars: "3/5"
 desc: "Um Amor À Altura. Un homme à la hauteur (France, 2016). Dirigido por Laurent Tirard. Escrito por Marcos Carnevale, Laurent Tirard, Laurent Tirard, Laurent Tirard, Grégoire Vigneron, Grégoire Vigneron, Grégoire Vigneron. Com Jean Dujardin, Virginie Efira, Cédric Kahn, Stéphanie Papanian, César Domboy, Edmonde Franchi, Manoëlle Gaillard, Bruno Gomila, Camille Damour."

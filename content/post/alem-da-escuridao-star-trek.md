@@ -1,7 +1,7 @@
 ---
 imdb: "1408101"
 date: "2013-06-17"
-categories: "movies"
+categories: [ "movies" ]
 title: "Além da Escuridão Star Trek"
 stars: "5/5"
 desc: "Além da Escuridão Star Trek. Star Trek Into Darkness (USA, 2013). Dirigido por J.J. Abrams. Escrito por Roberto Orci, Alex Kurtzman, Damon Lindelof, Gene Roddenberry. Com Chris Pine, Zachary Quinto, Zoe Saldana, Karl Urban, Simon Pegg, John Cho, Benedict Cumberbatch, Anton Yelchin, Bruce Greenwood."

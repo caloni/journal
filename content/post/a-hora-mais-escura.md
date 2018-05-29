@@ -1,7 +1,7 @@
 ---
 imdb: "1790885"
 date: "2013-02-21"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Hora Mais Escura"
 stars: "4/5"
 desc: "A Hora Mais Escura. Zero Dark Thirty (USA, 2012). Dirigido por Kathryn Bigelow. Escrito por Mark Boal. Com Jason Clarke, Reda Kateb, Jessica Chastain, Kyle Chandler, Jennifer Ehle, Harold Perrineau, Jeremy Strong, J.J. Kandel, Wahab Sheikh."

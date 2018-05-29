@@ -1,7 +1,7 @@
 ---
 imdb: "0129167"
 date: "2014-12-20"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Gigante de Ferro"
 stars: "4/5"
 desc: "O Gigante de Ferro. The Iron Giant (USA, 1999). Dirigido por Brad Bird. Escrito por Tim McCanlies, Brad Bird, Ted Hughes. Com Jennifer Aniston, Harry Connick Jr., Vin Diesel, James Gammon, Cloris Leachman, Christopher McDonald, John Mahoney, Eli Marienthal, M. Emmet Walsh."

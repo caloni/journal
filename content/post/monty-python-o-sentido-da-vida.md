@@ -1,7 +1,7 @@
 ---
 imdb: "0085959"
 date: "2014-05-10"
-categories: "movies"
+categories: [ "movies" ]
 title: "Monty Python O Sentido da Vida"
 stars: "5/5"
 desc: "Monty Python O Sentido da Vida. The Meaning of Life (UK, 1983). Dirigido por Terry Jones, Terry Gilliam. Escrito por Graham Chapman, John Cleese, Terry Gilliam, Eric Idle, Terry Jones, Michael Palin. Com Graham Chapman, John Cleese, Terry Gilliam, Eric Idle, Terry Jones, Michael Palin, Carol Cleveland, Simon Jones, Patricia Quinn."

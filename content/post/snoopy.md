@@ -1,7 +1,7 @@
 ---
 imdb: "2452042"
 date: "2016-01-17"
-categories: "movies"
+categories: [ "movies" ]
 title: "Snoopy & Charlie Brown: Peanuts, o Filme"
 stars: "5/5"
 desc: "Snoopy & Charlie Brown: Peanuts, o Filme. The Peanuts Movie (USA, 2015). Dirigido por Steve Martino. Escrito por Bryan Schulz, Craig Schulz, Cornelius Uliano, Charles M. Schulz. Com Trombone Shorty, Rebecca Bloom, Anastasia Bredikhina, Francesca Capaldi, Kristin Chenoweth, Alexander Garfin, Noah Johnston, Bill Melendez, Hadley Belle Miller."

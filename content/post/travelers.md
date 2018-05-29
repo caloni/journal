@@ -2,7 +2,7 @@
 tags: ['netflix', 'series']
 imdb: "5651844"
 date: "2017-02-28"
-categories: "series"
+categories: [ "series" ]
 title: "Travelers"
 stars: "3/5"
 desc: "Travelers. Travelers (Canada, 2016). Dirigido por Andy Mikita, Helen Shaver, William Waring, Martin Wood, Nick Hurran. Escrito por Pat Smith, Jason Whiting, Brad Wright, Ashley Park, S.B. Edwards, Ken Kabatoff. Com Eric McCormack (Grant MacLaren), MacKenzie Porter (Marcy Warton), Nesta Cooper (Carly Shannon), Jared Abrahamson (Trevor Holden), Reilly Dolman (Philip Pearson), Patrick Gilmore (David Mailer), Leah Cairns (Kathryn MacLaren), Arnold Pinnock (Walt Forbes), J. Alex Brinson (Jeff Conniker)."

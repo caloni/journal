@@ -1,7 +1,7 @@
 ---
 imdb: "1985949"
 date: "2016-08-21"
-categories: "movies"
+categories: [ "movies" ]
 title: "Angry Birds: O Filme"
 stars: "4/5"
 desc: "Angry Birds: O Filme. Angry Birds (USA, 2016). Dirigido por Clay Kaytis, Fergal Reilly. Escrito por John Cohen, Mikael Hed, Mikko Pöllä, Jon Vitti. Com Jason Sudeikis, Josh Gad, Danny McBride, Maya Rudolph, Bill Hader, Peter Dinklage, Sean Penn, Keegan-Michael Key, Kate McKinnon."

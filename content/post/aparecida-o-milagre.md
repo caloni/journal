@@ -1,7 +1,7 @@
 ---
 imdb: "1832288"
 date: "2010-12-19"
-categories: "movies"
+categories: [ "movies" ]
 title: "Aparecida O Milagre"
 stars: "3/5"
 desc: "Aparecida O Milagre. Aparecida - O Milagre (Brazil, 2010). Dirigido por Tizuka Yamasaki. Escrito por Pedro Antônio, Carlos Gregório, Paulo Halm, Marco Schiavon. Com Leona Cavalli, Maria Fernanda Cândido, Jonatas Faro, Vinícius Franco, Dandara Mariana, Bete Mendes, Leopoldo Pacheco, Janaína Prado, Murilo Rosa."

@@ -1,7 +1,7 @@
 ---
 imdb: "1512235"
 date: "2016-08-05"
-categories: "movies"
+categories: [ "movies" ]
 title: "Super"
 stars: "5/5"
 desc: "Super. Super (USA, 2010). Dirigido por James Gunn. Escrito por James Gunn. Com Rainn Wilson, Ellen Page, Liv Tyler, Kevin Bacon, Gregg Henry, Michael Rooker, Andre Royo, Sean Gunn, Stephen Blackehart."

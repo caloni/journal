@@ -1,7 +1,7 @@
 ---
 imdb: "1411238"
 date: "2011-03-21"
-categories: "movies"
+categories: [ "movies" ]
 title: "Sexo Sem Compromisso"
 stars: "3/5"
 desc: "Sexo Sem Compromisso. No Strings Attached (USA, 2011). Dirigido por Ivan Reitman. Escrito por Elizabeth Meriwether, Michael Samonek, Elizabeth Meriwether. Com Natalie Portman, Ashton Kutcher, Kevin Kline, Cary Elwes, Greta Gerwig, Lake Bell, Olivia Thirlby, Ludacris, Jake Johnson."

@@ -1,7 +1,7 @@
 ---
 imdb: "0478724"
 date: "2011-02-20"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Noiva Perfeita"
 stars: "3/5"
 desc: "A Noiva Perfeita. Prête-moi ta main (France, 2006). Dirigido por Eric Lartigau. Escrito por Alain Chabat, Philippe Mechelen, Laurent Tirard, Grégoire Vigneron, Laurent Zeitoun. Com Alain Chabat, Charlotte Gainsbourg, Bernadette Lafont, Wladimir Yordanoff, Grégoire Oestermann, Véronique Barrault, Marie-Armelle Deguy, Katia Lewkowicz, Louise Monot."

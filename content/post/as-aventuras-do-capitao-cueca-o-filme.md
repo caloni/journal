@@ -2,7 +2,7 @@
 tags: ['paulocoelho']
 imdb: "2091256"
 date: 2017-10-21T23:13:48
-categories: "movies"
+categories: [ "movies" ]
 title: "As Aventuras Do Capitao Cueca O Filme"
 stars: "5/5"
 desc: "As Aventuras Do Capitao Cueca O Filme. Captain Underpants: The First Epic Movie (USA, 2017). Dirigido por David Soren. Escrito por Nicholas Stoller, Dav Pilkey, David Soren. Com Kevin Hart (George), Ed Helms (Captain Underpants / Mr. Krupp), Nick Kroll (Professor Poopypants), Thomas Middleditch (Harold), Jordan Peele (Melvin), Kristen Schaal (Edith), DeeDee Rescher (Ms. Ribble), Brian Posehn (Mr. Rected), David Soren (Tommy)."

@@ -1,7 +1,7 @@
 ---
 imdb: "0118884"
 date: "2013-12-29"
-categories: "movies"
+categories: [ "movies" ]
 title: "Contato"
 stars: "5/5"
 desc: "Contato. Contact (USA, 1997). Dirigido por Robert Zemeckis. Escrito por Carl Sagan, Carl Sagan, Ann Druyan, James V. Hart, Michael Goldenberg. Com Jena Malone, David Morse, Jodie Foster, Geoffrey Blake, William Fichtner, Sami Chester, Timothy McNeil, Laura Elena Surillo, Matthew McConaughey."

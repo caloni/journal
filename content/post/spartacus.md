@@ -1,7 +1,7 @@
 ---
 imdb: "0054331"
 date: "2010-07-20"
-categories: "movies"
+categories: [ "movies" ]
 title: "Spartacus"
 stars: "5/5"
 desc: "Spartacus. Spartacus (USA, 1960). Dirigido por Stanley Kubrick. Escrito por Dalton Trumbo, Howard Fast, Peter Ustinov, Calder Willingham. Com Kirk Douglas, Laurence Olivier, Jean Simmons, Charles Laughton, Peter Ustinov, John Gavin, Nina Foch, John Ireland, Herbert Lom."

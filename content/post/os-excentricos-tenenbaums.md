@@ -1,7 +1,7 @@
 ---
 imdb: "0265666"
 date: "2015-12-05"
-categories: "movies"
+categories: [ "movies" ]
 title: "Os Excêntricos Tenenbaums"
 stars: "4/5"
 desc: "Os Excêntricos Tenenbaums. The Royal Tenenbaums (USA, 2001). Dirigido por Wes Anderson. Escrito por Wes Anderson, Owen Wilson. Com Gene Hackman, Anjelica Huston, Ben Stiller, Gwyneth Paltrow, Luke Wilson, Owen Wilson, Bill Murray, Danny Glover, Seymour Cassel."

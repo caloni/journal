@@ -1,7 +1,7 @@
 ---
 imdb: "0296915"
 date: "2012-06-13"
-categories: "movies"
+categories: [ "movies" ]
 title: "Valentin"
 stars: "3/5"
 desc: "Valentin. Valentín (Argentina, 2002). Dirigido por Alejandro Agresti. Escrito por Alejandro Agresti. Com Rodrigo Noya, Carmen Maura, Julieta Cardinali, Jean Pierre Noher, Mex Urtizberea, Lorenzo Quinteros, Alejandro Agresti, Carlos Roffé, Marina Glezer."

@@ -1,7 +1,7 @@
 ---
 date: 2018-01-30T17:55:35
 imdb: "5723272"
-categories: "movies"
+categories: [ "movies" ]
 stars: "4/5"
 title: "Em Pedaços"
 desc: "Em Pedaços."

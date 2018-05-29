@@ -1,7 +1,7 @@
 ---
 imdb: "0800320"
 date: "2010-05-21"
-categories: "movies"
+categories: [ "movies" ]
 title: "Fúria de Titãs"
 stars: "3/5"
 desc: "Fúria de Titãs. Clash of the Titans (USA, 2010). Dirigido por Louis Leterrier. Escrito por Travis Beacham, Phil Hay, Matt Manfredi, Beverley Cross. Com Sam Worthington, Liam Neeson, Ralph Fiennes, Jason Flemyng, Gemma Arterton, Alexa Davalos, Tine Stapelfeldt, Mads Mikkelsen, Luke Evans."

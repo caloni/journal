@@ -1,7 +1,7 @@
 ---
 imdb: "0805564"
 date: "2014-09-07"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Garota Ideal"
 stars: "4/5"
 desc: "A Garota Ideal. Lars and the Real Girl (USA, 2007). Dirigido por Craig Gillespie. Escrito por Nancy Oliver. Com Ryan Gosling, Emily Mortimer, Paul Schneider, R.D. Reid, Kelli Garner, Nancy Beatty, Doug Lennox, Joe Bostick, Liz Gordon."

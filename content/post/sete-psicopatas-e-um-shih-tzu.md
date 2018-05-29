@@ -1,7 +1,7 @@
 ---
 imdb: "1931533"
 date: "2016-04-24"
-categories: "movies"
+categories: [ "movies" ]
 title: "Sete Psicopatas e um Shih Tzu"
 stars: "4/5"
 desc: "Sete Psicopatas e um Shih Tzu. Seven Psychopaths (UK, 2012). Dirigido por Martin McDonagh. Escrito por Martin McDonagh. Com Michael Pitt, Michael Stuhlbarg, Sam Rockwell, Colin Farrell, Abbie Cornish, Christopher Walken, Linda Bright Clay, Harry Dean Stanton, James Landry Hébert."

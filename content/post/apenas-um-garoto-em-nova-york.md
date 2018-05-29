@@ -2,7 +2,7 @@
 tags: ['cabine']
 imdb: "0460890"
 date: 2017-11-29T23:29:38
-categories: "movies"
+categories: [ "movies" ]
 title: "Apenas um Garoto em Nova York"
 stars: "4/5"
 desc: "Apenas um Garoto em Nova York. The Only Living Boy in New York (USA, 2017). Dirigido por Marc Webb. Escrito por Allan Loeb. Com Callum Turner (Thomas Webb), Jeff Bridges (W.F. Gerald), Kate Beckinsale (Johanna), Pierce Brosnan (Ethan Webb), Cynthia Nixon (Judith Webb), Kiersey Clemons (Mimi Pastori), Tate Donovan (George), Wallace Shawn (David), Anh Duong (Barbara)."

@@ -2,7 +2,7 @@
 tags: ['netflix', 'series']
 imdb: "6304676"
 date: "2017-04-16"
-categories: "series"
+categories: [ "series" ]
 title: "Samurai Gourmet"
 stars: "4/5"
 desc: "Samurai Gourmet. Samurai Gourmet (Japan, 2017). Escrito por Masayuki Kusumi. Com Naoto Takenaka (Takeshi Kasumi), Tetsuji Tamayama (Samurai), Honami Suzuki (Wife)."

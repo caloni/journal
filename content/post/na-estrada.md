@@ -1,7 +1,7 @@
 ---
 imdb: "0337692"
 date: "2012-07-31"
-categories: "movies"
+categories: [ "movies" ]
 title: "Na Estrada"
 stars: "4/5"
 desc: "Na Estrada. On the Road (France, 2012). Dirigido por Walter Salles. Escrito por Jack Kerouac, Jose Rivera. Com Sam Riley, Garrett Hedlund, Kristen Stewart, Amy Adams, Tom Sturridge, Alice Braga, Elisabeth Moss, Danny Morgan, Kirsten Dunst."

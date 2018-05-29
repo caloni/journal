@@ -2,7 +2,7 @@
 tags: ['netflix', 'series']
 imdb: "3148266"
 date: "2017-03-29"
-categories: "series"
+categories: [ "series" ]
 title: "12 Macacos - Primeira Temporada, Episódios 1 ao 3"
 stars: "3/5"
 desc: "12 Macacos - Primeira Temporada, Episódios 1 ao 3. 12 Monkeys (USA, 2015). Dirigido por David Grossman, Magnus Martens, Michael Waxman, Steven A. Adelson, David Greene, Grant Harvey. Escrito por Travis Fickett, Terry Matalas, David Webb Peoples, Janet Peoples, Sean Tretta, Richard Robbins, Matt Morgan, Ian Sobel, Christopher Monfette. Com Aaron Stanford (James Cole), Amanda Schull (Dr. Cassandra Railly), Kirk Acevedo (José Ramse), Barbara Sukowa (Katarina Jones), Demore Barnes (Whitley), Emily Hampshire (Jennifer Goines), Andrew Gillies (Dr. Adler), Todd Stashwick (Deacon), Noah Bean (Aaron Marker)."

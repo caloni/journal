@@ -1,7 +1,7 @@
 ---
 imdb: "3488710"
 date: "2015-12-15"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Travessia"
 stars: "5/5"
 desc: "A Travessia. The Walk (USA, 2015). Dirigido por Robert Zemeckis. Escrito por Robert Zemeckis, Christopher Browne, Philippe Petit. Com Joseph Gordon-Levitt, Guillaume Baillargeon, Émilie Leclerc, Mark Trafford, Inka Malovic, Lucas Ramaciere, Martin Lefebvre, Philippe Bertrand, Laurence Deschenes."

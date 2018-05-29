@@ -1,7 +1,7 @@
 ---
 imdb: "1243957"
 date: "2011-02-20"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Turista"
 stars: "2/5"
 desc: "O Turista. The Tourist (USA, 2010). Dirigido por Florian Henckel von Donnersmarck. Escrito por Florian Henckel von Donnersmarck, Christopher McQuarrie, Julian Fellowes, Jérôme Salle. Com Johnny Depp, Angelina Jolie, Paul Bettany, Timothy Dalton, Steven Berkoff, Rufus Sewell, Christian De Sica, Alessio Boni, Daniele Pecci."

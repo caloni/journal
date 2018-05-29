@@ -1,7 +1,7 @@
 ---
 imdb: "0057012"
 date: "2012-08-06"
-categories: "movies"
+categories: [ "movies" ]
 title: "Dr. Fantástico"
 stars: "5/5"
 desc: "Dr. Fantástico. Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (USA, 1964). Dirigido por Stanley Kubrick. Escrito por Stanley Kubrick, Terry Southern, Peter George, Peter George. Com Peter Sellers, George C. Scott, Sterling Hayden, Keenan Wynn, Slim Pickens, Peter Bull, James Earl Jones, Tracy Reed, Jack Creley."

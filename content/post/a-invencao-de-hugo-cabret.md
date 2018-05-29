@@ -2,7 +2,7 @@
 tags: ['3d', 'revisita']
 imdb: "0970179"
 date: "2012-02-25"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Invenção de Hugo Cabret"
 stars: "3/5"
 revision: [datetime.date(2014, 6, 10), datetime.date(2017, 2, 28)]

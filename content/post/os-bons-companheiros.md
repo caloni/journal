@@ -1,7 +1,7 @@
 ---
 imdb: "0099685"
 date: "2013-01-01"
-categories: "movies"
+categories: [ "movies" ]
 title: "Os Bons Companheiros"
 stars: "5/5"
 desc: "Os Bons Companheiros. Goodfellas (USA, 1990). Dirigido por Martin Scorsese. Escrito por Nicholas Pileggi, Nicholas Pileggi, Martin Scorsese. Com Robert De Niro, Ray Liotta, Joe Pesci, Lorraine Bracco, Paul Sorvino, Frank Sivero, Tony Darrow, Mike Starr, Frank Vincent."

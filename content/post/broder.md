@@ -1,7 +1,7 @@
 ---
 imdb: "1679538"
 date: "2010-10-26"
-categories: "movies"
+categories: [ "movies" ]
 title: "Bróder"
 stars: "3/5"
 desc: "Bróder. Bróder (Brazil, 2010). Dirigido por Jeferson De. Escrito por Newton Cannito, Jeferson De, Laura Malin. Com Caio Blat, Jonathan Haagensen, Silvio Guindane, Cássia Kis Magro, Ailton Graça, Cintia Rosa, Zezé Motta, Lidiane Lisboa."

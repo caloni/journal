@@ -1,7 +1,7 @@
 ---
 imdb: "0113670"
 date: "2014-03-23"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Princesinha"
 stars: "5/5"
 desc: "A Princesinha. A Little Princess (USA, 1995). Dirigido por Alfonso Cuarón. Escrito por Frances Hodgson Burnett, Richard LaGravenese, Elizabeth Chandler. Com Liesel Matthews, Eleanor Bron, Liam Cunningham, Rusty Schwimmer, Arthur Malet, Vanessa Lee Chester, Errol Sitahal, Heather DeLoach, Taylor Fry."

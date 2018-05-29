@@ -2,7 +2,7 @@
 tags: ['cinema']
 imdb: "2404435"
 date: "2016-10-12"
-categories: "movies"
+categories: [ "movies" ]
 title: "Sete Homens e um Destino"
 stars: "3/5"
 desc: "Sete Homens e um Destino. The Magnificent Seven (USA, 2016). Dirigido por Antoine Fuqua. Escrito por Akira Kurosawa, Shinobu Hashimoto, Hideo Oguni, Nic Pizzolatto, Richard Wenk. Com Denzel Washington (Chisolm), Chris Pratt (Josh Faraday), Ethan Hawke (Goodnight Robicheaux), Vincent D'Onofrio (Jack Horne), Byung-hun Lee (Billy Rocks), Manuel Garcia-Rulfo (Vasquez), Martin Sensmeier (Red Harvest), Haley Bennett (Emma Cullen), Peter Sarsgaard (Bartholomew Bogue)."

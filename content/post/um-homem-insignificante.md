@@ -2,7 +2,7 @@
 tags: ['mostrasp']
 imdb: "3917908"
 date: "2016-11-02"
-categories: "movies"
+categories: [ "movies" ]
 title: "Um Homem Insignificante"
 stars: "4/5"
 desc: "Um Homem Insignificante. An Insignificant Man (India, 2016). Dirigido por Khushboo Ranka, Vinay Shukla. Escrito por Khushboo Ranka, Vinay Shukla. Com Arvind Kejriwal (Arvind Kejriwal), Santosh Koli (Santosh Koli), Manish Sisodia (Manish Sisodia), Yogendra Yadav (Yogendra Yadav)."

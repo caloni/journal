@@ -1,7 +1,7 @@
 ---
 imdb: "0821642"
 date: "2011-08-22"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Solista"
 stars: "3/5"
 desc: "O Solista. The Soloist (UK, 2009). Dirigido por Joe Wright. Escrito por Susannah Grant, Steve Lopez. Com Jamie Foxx, Robert Downey Jr., Catherine Keener, Tom Hollander, LisaGay Hamilton, Nelsan Ellis, Rachael Harris, Stephen Root, Lorraine Toussaint."

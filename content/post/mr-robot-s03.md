@@ -1,7 +1,7 @@
 ---
 date: 2018-02-27T22:04:08
 imdb: "4158110"
-categories: "blog"
+categories: [ "blog" ]
 stars: "5/5"
 title: "Mr Robot: Terceira Temporada"
 desc: "Mr Robot: Terceira Temporada."

@@ -1,7 +1,7 @@
 ---
 imdb: "1126618"
 date: "2014-04-19"
-categories: "movies"
+categories: [ "movies" ]
 title: "Uma Manhã Gloriosa"
 stars: "4/5"
 desc: "Uma Manhã Gloriosa. Morning Glory (USA, 2010). Dirigido por Roger Michell. Escrito por Aline Brosh McKenna. Com Rachel McAdams, Noah Bean, Jack Davidson, Vanessa Aspillaga, Jeff Hiller, Linda Powell, Mike Hydeck, Joseph J. Vargas, Mario Frieson."

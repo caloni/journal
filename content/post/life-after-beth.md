@@ -1,7 +1,7 @@
 ---
 imdb: "2581244"
 date: "2015-08-07"
-categories: "movies"
+categories: [ "movies" ]
 title: "Life After Beth"
 stars: "3/5"
 desc: "Life After Beth. Life After Beth (USA, 2014). Dirigido por Jeff Baena. Escrito por Jeff Baena. Com Aubrey Plaza, Dane DeHaan, John C. Reilly, Molly Shannon, Cheryl Hines, Paul Reiser, Matthew Gray Gubler, Anna Kendrick, Eva La Dare."

@@ -2,7 +2,7 @@
 tags: ['cabine']
 imdb: "4645368"
 date: "2016-10-26"
-categories: "movies"
+categories: [ "movies" ]
 title: "É Apenas o Fim do Mundo"
 stars: "5/5"
 desc: "É Apenas o Fim do Mundo. Juste la fin du monde (Canada, 2016). Dirigido por Xavier Dolan. Escrito por Xavier Dolan, Jean-Luc Lagarce. Com Nathalie Baye (La mère), Vincent Cassel (Antoine Knipper), Marion Cotillard (Catherine), Léa Seydoux (Suzanne Knipper), Gaspard Ulliel (Louis-Jean Knipper), Antoine Desrochers (Pierre Jolicoeur), William Boyce Blanchette (Louis), Sasha Samar (Le chauffeur de taxi), Arthur Couillard (Petit garçon avion)."

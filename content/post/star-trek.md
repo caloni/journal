@@ -1,7 +1,7 @@
 ---
 imdb: "0796366"
 date: "2012-04-16"
-categories: "movies"
+categories: [ "movies" ]
 title: "Star Trek"
 stars: "5/5"
 revision: [datetime.date(2013, 6, 17)]

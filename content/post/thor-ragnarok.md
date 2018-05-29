@@ -2,7 +2,7 @@
 tags: ['cabine']
 imdb: "3501632"
 date: 2017-10-25T00:05:52
-categories: "movies"
+categories: [ "movies" ]
 title: "Thor Ragnarök"
 stars: "3/5"
 revision: [datetime.date(2017, 11, 11)]

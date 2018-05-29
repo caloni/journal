@@ -1,7 +1,7 @@
 ---
 imdb: "1424746"
 date: "2011-07-31"
-categories: "movies"
+categories: [ "movies" ]
 title: "Apenas o Fim"
 stars: "3/5"
 desc: "Apenas o Fim. Apenas o Fim (Brazil, 2008). Dirigido por Matheus Souza. Escrito por Matheus Souza. Com Gregório Duvivier, Érika Mader, Marcelo Adnet, Nathalia Dill, Álamo Facó."

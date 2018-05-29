@@ -2,7 +2,7 @@
 tags: ['netflix', 'fisforfamily', 'series']
 imdb: "4326894"
 date: "2016-01-30"
-categories: "series"
+categories: [ "series" ]
 title: "F is for Family"
 stars: "3/5"
 desc: "F is for Family. F is for Family (USA, 2015). Dirigido por Laurent Nicolas, Benjamin Marsaud. Escrito por Bill Burr, Michael Price, David Richardson. Com Bill Burr, Laura Dern, Justin Long, Debi Derryberry, Sam Rockwell, Haley Reinhart, Mo Collins, Trevor Devall, Phil Hendrie."

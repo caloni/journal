@@ -1,7 +1,7 @@
 ---
 imdb: "0477080"
 date: "2011-01-19"
-categories: "movies"
+categories: [ "movies" ]
 title: "Incontrolável"
 stars: "3/5"
 desc: "Incontrolável. Unstoppable (USA, 2010). Dirigido por Tony Scott. Escrito por Mark Bomback. Com Denzel Washington, Chris Pine, Rosario Dawson, Ethan Suplee, Kevin Dunn, Kevin Corrigan, Kevin Chapman, Lew Temple, T.J. Miller."

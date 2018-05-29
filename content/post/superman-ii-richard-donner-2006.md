@@ -1,7 +1,7 @@
 ---
 imdb: "0839995"
 date: "2014-09-19"
-categories: "movies"
+categories: [ "movies" ]
 title: "Superman II"
 stars: "5/5"
 desc: "Superman II. Superman II (UK, 2006). Dirigido por Richard Donner, Richard Lester. Escrito por Jerry Siegel, Joe Shuster, Mario Puzo, Mario Puzo, David Newman, Leslie Newman, Tom Mankiewicz. Com Gene Hackman, Christopher Reeve, Marlon Brando, Ned Beatty, Jackie Cooper, Sarah Douglas, Margot Kidder, Jack O'Halloran, Valerie Perrine."

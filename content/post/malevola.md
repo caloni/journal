@@ -1,7 +1,7 @@
 ---
 imdb: "1587310"
 date: "2014-06-11"
-categories: "movies"
+categories: [ "movies" ]
 title: "Malévola"
 stars: "4/5"
 desc: "Malévola. Maleficent (USA, 2014). Dirigido por Robert Stromberg. Escrito por Linda Woolverton, Charles Perrault, Erdman Penner, Joe Rinaldi, Winston Hibler, Bill Peet, Ted Sears, Ralph Wright, Milt Banta. Com Angelina Jolie, Elle Fanning, Sharlto Copley, Lesley Manville, Imelda Staunton, Juno Temple, Sam Riley, Brenton Thwaites, Kenneth Cranham."

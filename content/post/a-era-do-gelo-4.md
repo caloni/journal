@@ -1,7 +1,7 @@
 ---
 imdb: "1667889"
 date: "2012-07-21"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Era do Gelo 4"
 stars: "2/5"
 desc: "A Era do Gelo 4. Ice Age: Continental Drift (USA, 2012). Dirigido por Steve Martino, Mike Thurmeier. Escrito por Michael Berg, Jason Fuchs, Michael Berg, Lori Forte. Com Aziz Ansari, Joy Behar, Christopher Campbell, Alain Chabat, Ester Dean, Peter Dinklage, Karen Disher, Aubrey Graham, Jason Fricchione."

@@ -1,7 +1,7 @@
 ---
 imdb: "1951266"
 date: "2015-11-22"
-categories: "movies"
+categories: [ "movies" ]
 title: "Jogos Vorazes: A Esperança - O Final"
 stars: "5/5"
 desc: "Jogos Vorazes: A Esperança - O Final. The Hunger Games: Mockingjay - Part 2 (USA, 2015). Dirigido por Francis Lawrence. Escrito por Peter Craig, Danny Strong, Suzanne Collins, Suzanne Collins. Com Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth, Woody Harrelson, Donald Sutherland, Philip Seymour Hoffman, Julianne Moore, Willow Shields, Sam Claflin."

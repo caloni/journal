@@ -1,7 +1,7 @@
 ---
 imdb: "1542344"
 date: "2011-02-23"
-categories: "movies"
+categories: [ "movies" ]
 title: "127 Horas"
 stars: "3/5"
 desc: "127 Horas. 127 Hours (USA, 2010). Dirigido por Danny Boyle. Escrito por Danny Boyle, Simon Beaufoy, Aron Ralston. Com James Franco, Kate Mara, Amber Tamblyn, Sean Bott, Koleman Stinger, Treat Williams, John Lawrence, Kate Burton, Bailee Michelle Johnson."

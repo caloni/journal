@@ -2,7 +2,7 @@
 tags: ['cabine']
 imdb: "3163304"
 date: "2015-08-31"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Festa de Despedida"
 stars: "4/5"
 desc: "A Festa de Despedida. Mita Tova (Israel, 2014). Dirigido por Tal Granit, Sharon Maymon. Escrito por Tal Granit, Sharon Maymon. Com Ze'ev Revach, Levana Finkelstein, Aliza Rosen, Ilan Dar, Raffi Tavor, Yosef Carmon, Hilla Sarjon, Assaf Ben-Shimon, Ilanit Dado."

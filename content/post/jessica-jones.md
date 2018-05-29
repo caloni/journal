@@ -2,7 +2,7 @@
 tags: ['netflix', 'series']
 imdb: "2357547"
 date: "2016-08-18"
-categories: "series"
+categories: [ "series" ]
 title: "Jessica Jones"
 stars: "3/5"
 desc: "Jessica Jones. Jessica Jones (USA, 2015). Dirigido por Simon Cellan Jones, S.J. Clarkson, David Petrarca, Stephen Surjik. Escrito por Melissa Rosenberg, Brian Bendis, Michael Gaydos, Ruth Atkinson, Otto Binder, Stan Lee, Joe Orlando, John Byrne, Chris Claremont. Com Krysten Ritter, Rachael Taylor, Eka Darville, David Tennant."

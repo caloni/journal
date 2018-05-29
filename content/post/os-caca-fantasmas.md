@@ -1,7 +1,7 @@
 ---
 imdb: "0087332"
 date: "2013-01-24"
-categories: "movies"
+categories: [ "movies" ]
 title: "Os Caça-Fantasmas"
 stars: "4/5"
 desc: "Os Caça-Fantasmas. Ghost Busters (USA, 1984). Dirigido por Ivan Reitman. Escrito por Dan Aykroyd, Harold Ramis, Rick Moranis. Com Bill Murray, Dan Aykroyd, Sigourney Weaver, Harold Ramis, Rick Moranis, Annie Potts, William Atherton, Ernie Hudson, David Margulies."

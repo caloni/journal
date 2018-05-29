@@ -1,7 +1,7 @@
 ---
 imdb: "1515091"
 date: "2012-02-15"
-categories: "movies"
+categories: [ "movies" ]
 title: "Sherlock Holmes e o Jogo das Sombras"
 stars: "4/5"
 desc: "Sherlock Holmes e o Jogo das Sombras. Sherlock Holmes: A Game of Shadows (USA, 2011). Dirigido por Guy Ritchie. Escrito por Michele Mulroney, Kieran Mulroney, Arthur Conan Doyle. Com Robert Downey Jr., Jude Law, Noomi Rapace, Rachel McAdams, Jared Harris, Stephen Fry, Paul Anderson, Kelly Reilly, Geraldine James."

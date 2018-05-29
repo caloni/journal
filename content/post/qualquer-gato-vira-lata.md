@@ -1,7 +1,7 @@
 ---
 imdb: "1730133"
 date: "2012-05-10"
-categories: "movies"
+categories: [ "movies" ]
 title: "Qualquer Gato Vira-Lata"
 stars: "2/5"
 desc: "Qualquer Gato Vira-Lata. Qualquer Gato Vira-Lata (Brazil, 2011). Dirigido por Tomas Portella, Daniela De Carlo. Escrito por Claudia Levay, Ricardo Tiezzi, Tati Bernardi, Júlia Spadaccini, Reginaldo Prandi, Leonardo Levis, Guilherme Serran, Aline Bittencourt, Patricia Corso. Com Cleo Pires, Malvino Salvador, Dudu Azevedo, Rita Guedes, Álamo Facó, Leticia Novaes, Gillray Coutinho, Jean Pierre Noher, Tatsu Carvalho."

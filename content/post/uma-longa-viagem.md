@@ -1,7 +1,7 @@
 ---
 imdb: "2058107"
 date: "2015-01-04"
-categories: "movies"
+categories: [ "movies" ]
 title: "Uma Longa Viagem"
 stars: "3/5"
 desc: "Uma Longa Viagem. The Railway Man (Australia, 2013). Dirigido por Jonathan Teplitzky. Escrito por Frank Cottrell Boyce, Andy Paterson, Eric Lomax. Com Jeremy Irvine, Colin Firth, Stellan Skarsgård, Michael MacKenzie, Nicole Kidman, Jeffrey Daunton, Tanroh Ishida, Tom Stokes, Bryan Probets."

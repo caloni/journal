@@ -1,7 +1,7 @@
 ---
 imdb: "0049406"
 date: "2013-10-24"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Grande Golpe"
 stars: "4/5"
 desc: "O Grande Golpe. The Killing (USA, 1956). Dirigido por Stanley Kubrick. Escrito por Stanley Kubrick, Jim Thompson, Lionel White. Com Sterling Hayden, Coleen Gray, Vince Edwards, Jay C. Flippen, Ted de Corsia, Marie Windsor, Elisha Cook Jr., Joe Sawyer, James Edwards."

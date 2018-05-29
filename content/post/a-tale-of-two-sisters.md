@@ -1,7 +1,7 @@
 ---
 imdb: "0365376"
 date: "2014-02-02"
-categories: "movies"
+categories: [ "movies" ]
 title: "Medo"
 stars: "2/5"
 desc: "Medo. Janghwa, Hongryeon (South Korea, 2003). Dirigido por Jee-Woon Kim. Escrito por Jee-Woon Kim. Com Kap-su Kim, Jung-ah Yum, Su-jeong Lim, Geun-young Moon, Seung-bi Lee, Park Mi-Hyun."

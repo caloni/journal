@@ -1,7 +1,7 @@
 ---
 imdb: "1131734"
 date: "2011-05-21"
-categories: "movies"
+categories: [ "movies" ]
 title: "Garota Infernal"
 stars: "2/5"
 desc: "Garota Infernal. Jennifer's Body (USA, 2009). Dirigido por Karyn Kusama. Escrito por Diablo Cody. Com Megan Fox, Amanda Seyfried, Johnny Simmons, Adam Brody, Sal Cortez, Ryan Levine, Juan Riedinger, Colin Askey, Chris Pratt."

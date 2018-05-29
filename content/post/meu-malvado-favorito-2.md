@@ -1,7 +1,7 @@
 ---
 imdb: "1690953"
 date: "2013-07-09"
-categories: "movies"
+categories: [ "movies" ]
 title: "Meu Malvado Favorito 2"
 stars: "4/5"
 desc: "Meu Malvado Favorito 2. Despicable Me 2 (USA, 2013). Dirigido por Pierre Coffin, Chris Renaud. Escrito por Cinco Paul, Ken Daurio. Com Steve Carell, Kristen Wiig, Benjamin Bratt, Miranda Cosgrove, Russell Brand, Ken Jeong, Steve Coogan, Elsie Fisher, Dana Gaier."

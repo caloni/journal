@@ -1,7 +1,7 @@
 ---
 imdb: "0015648"
 date: "2010-11-20"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Encouraçado Potemkin"
 stars: "4/5"
 desc: "O Encouraçado Potemkin. Bronenosets Potemkin (Soviet Union, 1925). Dirigido por Sergei M. Eisenstein. Escrito por Nina Agadzhanova, Nikolai Aseyev, Sergei M. Eisenstein, Sergei Tretyakov. Com Aleksandr Antonov, Vladimir Barsky, Grigori Aleksandrov, Ivan Bobrov, Mikhail Gomorov, Aleksandr Levshin, N. Poltavtseva, Konstantin Feldman, Prokopenko."

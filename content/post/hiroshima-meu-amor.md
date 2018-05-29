@@ -1,7 +1,7 @@
 ---
 imdb: "0052893"
 date: "2015-01-09"
-categories: "movies"
+categories: [ "movies" ]
 title: "Hiroshima Meu Amor"
 stars: "3/5"
 desc: "Hiroshima Meu Amor. Hiroshima mon amour (France, 1959). Dirigido por Alain Resnais. Escrito por Marguerite Duras. Com Emmanuelle Riva, Eiji Okada, Stella Dassas, Pierre Barbaud, Bernard Fresson."

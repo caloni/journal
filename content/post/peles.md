@@ -2,7 +2,7 @@
 tags: ['netflix']
 imdb: "5808778"
 date: "2017-04-21"
-categories: "movies"
+categories: [ "movies" ]
 title: "Peles"
 stars: "4/5"
 desc: "Peles. Pieles (Spain, 2017). Dirigido por Eduardo Casanova. Escrito por Eduardo Casanova. Com Macarena Gómez (Laura), Jon Kortajarena (Guille), Carolina Bang (Psiquiatra), Ana Polvorosa (Samantha), Candela Peña (Ana), Carmen Machi (Claudia), Secun de la Rosa (Ernesto), Eloi Costa (Cristian), Joaquín Climent (Alexis)."

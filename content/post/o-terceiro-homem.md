@@ -1,7 +1,7 @@
 ---
 imdb: "0041959"
 date: "2016-01-11"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Terceiro Homem"
 stars: "5/5"
 desc: "O Terceiro Homem. The Third Man (UK, 1949). Dirigido por Carol Reed. Escrito por Graham Greene, Graham Greene, Alexander Korda, Carol Reed, Orson Welles. Com Joseph Cotten, Alida Valli, Orson Welles, Trevor Howard, Bernard Lee, Paul Hörbiger, Ernst Deutsch, Siegfried Breuer, Erich Ponto."

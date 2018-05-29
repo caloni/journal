@@ -2,7 +2,7 @@
 tags: ['cinema']
 imdb: "3874544"
 date: "2017-04-16"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Poderoso Chefinho"
 stars: "4/5"
 desc: "O Poderoso Chefinho. The Boss Baby (USA, 2017). Dirigido por Tom McGrath. Escrito por Michael McCullers, Marla Frazee. Com Alec Baldwin (Boss Baby), Steve Buscemi (Francis Francis), Jimmy Kimmel (Dad), Lisa Kudrow (Mom), Tobey Maguire (Adult Tim / Narrator), Miles Christopher Bakshi (Tim), James McGrath (Wizzie / Elvis Impersonator), Conrad Vernon (Eugene), ViviAnn Yee (Staci)."

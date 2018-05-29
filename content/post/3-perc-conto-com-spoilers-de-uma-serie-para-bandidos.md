@@ -2,7 +2,7 @@
 tags: ['netflix', 'series', '3perc']
 imdb: "4922804"
 date: "2017-01-01"
-categories: "blog"
+categories: [ "blog" ]
 title: "3%: spoilers sobre uma série para bandidos"
 desc: "3%: spoilers sobre uma série para bandidos. 3% (Brazil, 2016). Dirigido por César Charlone, Jotagá Crema, Daina Giannecchini, Dani Libardi. Escrito por Pedro Aguilera, Jotagá Crema, Cássio Koshikumo, Ivan Nakamura, Denis Nielsen. Com João Miguel (Ezequiel), Bianca Comparato (Michele Santana), Michel Gomes (Fernando Carvalho), Rodolfo Valente (Rafael Moreira), Vaneza Oliveira (Joana Coelho), Viviane Porto (Aline), Sérgio Mamberti (Matheus), Zezé Motta (Nair), Celso Frateschi (Líder da Causa)."
 ---

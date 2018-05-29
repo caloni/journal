@@ -2,7 +2,7 @@
 tags: ['netflix', 'dublado']
 imdb: "0471042"
 date: "2017-01-21"
-categories: "movies"
+categories: [ "movies" ]
 title: "Roubo nas Alturas"
 stars: "2/5"
 desc: "Roubo nas Alturas. Tower Heist (USA, 2011). Dirigido por Brett Ratner. Escrito por Adam Cooper, Bill Collage, Ted Griffin, Jeff Nathanson. Com Ben Stiller (Josh Kovaks), Eddie Murphy (Slide), Casey Affleck (Charlie), Alan Alda (Arthur Shaw), Matthew Broderick (Mr. Fitzhugh), Stephen Henderson (Lester), Judd Hirsch (Mr. Simon), Téa Leoni (Special Agent Claire Denham), Michael Peña (Enrique Dev'Reaux)."

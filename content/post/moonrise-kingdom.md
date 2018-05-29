@@ -1,7 +1,7 @@
 ---
 imdb: "1748122"
 date: "2014-12-21"
-categories: "movies"
+categories: [ "movies" ]
 title: "Moonrise Kingdom"
 stars: "3/5"
 desc: "Moonrise Kingdom. Moonrise Kingdom (USA, 2012). Dirigido por Wes Anderson. Escrito por Wes Anderson, Roman Coppola. Com Bruce Willis, Edward Norton, Bill Murray, Frances McDormand, Tilda Swinton, Jared Gilman, Kara Hayward, Jason Schwartzman, Bob Balaban."

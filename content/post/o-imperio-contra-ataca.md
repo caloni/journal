@@ -1,7 +1,7 @@
 ---
 imdb: "0080684"
 date: "2011-12-31"
-categories: "movies"
+categories: [ "movies" ]
 title: "Star Wars Episódio V O Império Contra-Ataca"
 stars: "4/5"
 desc: "Star Wars Episódio V O Império Contra-Ataca. Star Wars: Episode V - The Empire Strikes Back (USA, 1980). Dirigido por Irvin Kershner. Escrito por Leigh Brackett, Lawrence Kasdan, George Lucas. Com Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams, Anthony Daniels, David Prowse, Peter Mayhew, Kenny Baker, Frank Oz."

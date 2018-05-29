@@ -2,7 +2,7 @@
 tags: ['netflix']
 imdb: "0178868"
 date: "2016-09-15"
-categories: "movies"
+categories: [ "movies" ]
 title: "Ring: O Chamado"
 stars: "4/5"
 desc: "Ring: O Chamado. Ringu (Japan, 1998). Dirigido por Hideo Nakata. Escrito por Hiroshi Takahashi, Kôji Suzuki. Com Nanako Matsushima, Miki Nakatani, Yûko Takeuchi, Hitomi Satô, Yôichi Numata, Yutaka Matsushige, Katsumi Muramatsu, Rikiya Ôtaka, Masako."

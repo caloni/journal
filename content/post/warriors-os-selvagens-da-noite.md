@@ -1,7 +1,7 @@
 ---
 imdb: "0080120"
 date: "2013-08-02"
-categories: "movies"
+categories: [ "movies" ]
 title: "Warriors Os Selvagens da Noite"
 stars: "5/5"
 desc: "Warriors Os Selvagens da Noite. The Warriors (USA, 1979). Dirigido por Walter Hill. Escrito por Sol Yurick, David Shaber, Walter Hill. Com Michael Beck, James Remar, Dorsey Wright, Brian Tyler, David Harris, Tom McKitterick, Marcelino Sánchez, Terry Michos, Deborah Van Valkenburgh."

@@ -1,7 +1,7 @@
 ---
 imdb: "0120623"
 date: "2012-12-08"
-categories: "movies"
+categories: [ "movies" ]
 title: "Vida de Inseto"
 stars: "3/5"
 desc: "Vida de Inseto. A Bug's Life (USA, 1998). Dirigido por John Lasseter, Andrew Stanton. Escrito por John Lasseter, Andrew Stanton, Joe Ranft, Andrew Stanton, Don McEnery, Bob Shaw, Geefwee Boedoe, Jason Katz, Jorgen Klubien. Com Dave Foley, Kevin Spacey, Julia Louis-Dreyfus, Hayden Panettiere, Phyllis Diller, Richard Kind, David Hyde Pierce, Joe Ranft, Denis Leary."

@@ -1,7 +1,7 @@
 ---
 imdb: "2258345"
 date: "2014-05-08"
-categories: "movies"
+categories: [ "movies" ]
 title: "Amante a Domicílio"
 stars: "3/5"
 desc: "Amante a Domicílio. Fading Gigolo (USA, 2013). Dirigido por John Turturro. Escrito por John Turturro. Com John Turturro, Woody Allen, Vanessa Paradis, Liev Schreiber, Sharon Stone, Sofía Vergara, Tonya Pinkins, Aubrey Joseph, Dante Hoagland."

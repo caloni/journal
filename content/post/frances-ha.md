@@ -1,7 +1,7 @@
 ---
 imdb: "2347569"
 date: "2013-12-29"
-categories: "movies"
+categories: [ "movies" ]
 title: "Frances Ha"
 stars: "4/5"
 desc: "Frances Ha. Frances Ha (USA, 2012). Dirigido por Noah Baumbach. Escrito por Noah Baumbach, Greta Gerwig. Com Greta Gerwig, Mickey Sumner, Michael Esper, Adam Driver, Michael Zegen, Charlotte d'Amboise, Grace Gummer, Daiva Deupree, Isabelle McNally."

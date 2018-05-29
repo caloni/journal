@@ -2,7 +2,7 @@
 tags: ['cabine']
 imdb: "3991412"
 date: "2016-10-04"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Nona Vida de Louis Drax"
 stars: "4/5"
 desc: "A Nona Vida de Louis Drax. The 9th Life of Louis Drax (UK, 2016). Dirigido por Alexandre Aja. Escrito por Liz Jensen, Max Minghella. Com Jamie Dornan (Dr. Allan Pascal), Aiden Longworth (Louis Drax), Sarah Gadon (Natalie), Michael Adamthwaite (Doctor), Aaron Paul (Peter), Beckham Skodje (Louis), Adam Abrams (Doctor), Molly Parker (Dalton), Terry Chen (Elliott)."

@@ -1,7 +1,7 @@
 ---
 imdb: "1959490"
 date: "2014-04-09"
-categories: "movies"
+categories: [ "movies" ]
 title: "Noé"
 stars: "4/5"
 desc: "Noé. Noah (USA, 2014). Dirigido por Darren Aronofsky. Escrito por Darren Aronofsky, Ari Handel. Com Russell Crowe, Jennifer Connelly, Ray Winstone, Anthony Hopkins, Emma Watson, Logan Lerman, Douglas Booth, Nick Nolte, Mark Margolis."

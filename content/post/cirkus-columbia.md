@@ -1,7 +1,7 @@
 ---
 imdb: "1417067"
 date: "2010-11-01"
-categories: "movies"
+categories: [ "movies" ]
 title: "Circus Columbia"
 stars: "5/5"
 desc: "Circus Columbia. Cirkus Columbia (Bosnia and Herzegovina, 2010). Dirigido por Danis Tanovic. Escrito por Ivica Djikic, Danis Tanovic. Com Predrag Manojlovic, Mira Furlan, Boris Ler, Jelena Stupljanin, Milan Strljic, Mario Knezovic, Svetislav Goncic, Almir Mehic, Mirza Tanovic."

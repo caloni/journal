@@ -1,7 +1,7 @@
 ---
 imdb: "0058182"
 date: "2015-12-12"
-categories: "movies"
+categories: [ "movies" ]
 title: "Os Reis do Ié-Ié-Ié"
 stars: "4/5"
 desc: "Os Reis do Ié-Ié-Ié. A Hard Day's Night (UK, 1964). Dirigido por Richard Lester. Escrito por Alun Owen. Com The Beatles, John Lennon, Paul McCartney, George Harrison, Ringo Starr, Wilfrid Brambell, Norman Rossington, John Junkin, Victor Spinetti."

@@ -2,7 +2,7 @@
 tags: ['cinema', 'oscar']
 imdb: "2660888"
 date: "2016-09-07"
-categories: "movies"
+categories: [ "movies" ]
 title: "Star Trek: Sem Fronteiras"
 stars: "3/5"
 desc: "Star Trek: Sem Fronteiras. Star Trek Beyond (USA, 2016). Dirigido por Justin Lin. Escrito por Simon Pegg, Doug Jung, Gene Roddenberry, Patrick McKay, Roberto Orci, John D. Payne. Com Chris Pine, Zachary Quinto, Karl Urban, Zoe Saldana, Simon Pegg, John Cho, Anton Yelchin, Idris Elba, Sofia Boutella."

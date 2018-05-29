@@ -1,7 +1,7 @@
 ---
 imdb: "1343727"
 date: "2012-10-05"
-categories: "movies"
+categories: [ "movies" ]
 title: "Dredd"
 stars: "4/5"
 desc: "Dredd. Dredd (UK, 2012). Dirigido por Pete Travis. Escrito por John Wagner, Carlos Ezquerra, Alex Garland. Com Karl Urban, Rachel Wood, Andile Mngadi, Porteus Xandau, Jason Cope, Emma Breschi, Olivia Thirlby, Rakie Ayola, Lena Headey."

@@ -3,7 +3,7 @@ tags: ['cabine']
 cinemaqui: "http://www.cinemaqui.com.br/carros-3/"
 imdb: "3606752"
 date: "2017-07-08"
-categories: "movies"
+categories: [ "movies" ]
 title: "Carros 3"
 stars: "3/5"
 desc: "Carros 3. Cars 3 (USA, 2017). Dirigido por Brian Fee. Escrito por Brian Fee, Ben Queen, Eyal Podell, Jonathon E. Stewart, Kiel Murray, Bob Peterson, Mike Rich. Com Owen Wilson (Lightning McQueen), Cristela Alonzo (Cruz Ramirez), Chris Cooper (Smokey), Nathan Fillion (Sterling), Larry Guy the Cable (Mater), Armie Hammer (Jackson Storm), Ray Magliozzi (Dusty), Tony Shalhoub (Luigi), Bonnie Hunt (Sally)."

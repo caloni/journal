@@ -2,7 +2,7 @@
 tags: ['cabine']
 imdb: "3956754"
 date: "2015-04-19"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Vida Privada dos Hipopótamos"
 stars: "4/5"
 desc: "A Vida Privada dos Hipopótamos. A vida privada dos hipopótamos (Brazil, 2014). Dirigido por Maíra Bühler, Matias Mariani. Escrito por Maíra Bühler, Matias Mariani."

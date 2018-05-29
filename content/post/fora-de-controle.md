@@ -1,7 +1,7 @@
 ---
 imdb: "0264472"
 date: "2013-11-15"
-categories: "movies"
+categories: [ "movies" ]
 title: "Fora de Controle"
 stars: "3/5"
 desc: "Fora de Controle. Changing Lanes (USA, 2002). Dirigido por Roger Michell. Escrito por Chap Taylor, Chap Taylor, Michael Tolkin. Com Ben Affleck, Samuel L. Jackson, Kim Staunton, Toni Collette, Sydney Pollack, Tina Sloan, Richard Jenkins, Akil Walker, Cole Hawkins."

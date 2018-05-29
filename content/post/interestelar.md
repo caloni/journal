@@ -1,7 +1,7 @@
 ---
 imdb: "0816692"
 date: "2014-11-15"
-categories: "movies"
+categories: [ "movies" ]
 count: 2
 title: "Interestelar"
 stars: "3/5"

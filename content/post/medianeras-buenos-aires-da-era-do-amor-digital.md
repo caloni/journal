@@ -1,7 +1,7 @@
 ---
 imdb: "1235841"
 date: "2011-09-11"
-categories: "movies"
+categories: [ "movies" ]
 title: "Medianeras Buenos Aires da Era do Amor Virtual"
 stars: "3/5"
 revision: [datetime.date(2013, 12, 30)]

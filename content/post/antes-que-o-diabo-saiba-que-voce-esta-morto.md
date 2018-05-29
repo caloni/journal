@@ -1,7 +1,7 @@
 ---
 imdb: "0292963"
 date: "2012-05-02"
-categories: "movies"
+categories: [ "movies" ]
 title: "Antes que o Diabo Saiba que Você Está Morto"
 stars: "5/5"
 desc: "Antes que o Diabo Saiba que Você Está Morto. Before the Devil Knows You're Dead (USA, 2007). Dirigido por Sidney Lumet. Escrito por Kelly Masterson. Com Philip Seymour Hoffman, Ethan Hawke, Albert Finney, Marisa Tomei, Aleksa Palladino, Michael Shannon, Amy Ryan, Sarah Livingston, Brían F. O'Byrne."

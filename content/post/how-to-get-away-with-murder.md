@@ -2,7 +2,7 @@
 tags: ['netflix', 'series']
 imdb: "3205802"
 date: "2015-11-28"
-categories: "blog"
+categories: [ "blog" ]
 title: "How to Get Away with Murder - Primeira Temporada, Episódios 1 ao 3"
 stars: "3/5"
 desc: "How to Get Away with Murder - Primeira Temporada, Episódios 1 ao 3. How to Get Away with Murder (USA, 2014). Dirigido por Bill D'Elia, Mike Listo, Laura Innes, Michael Offer, Stephen Williams. Escrito por Peter Nowalk, Michael Foley, Erika Green Swafford, Warren Hsu Leonard, Tracy Bellomo, Doug Stockstill, Erika Harrison. Com Viola Davis, Billy Brown, Alfred Enoch, Jack Falahee, Aja Naomi King, Matt McGorry, Karla Souza, Charlie Weber, Liza Weil."

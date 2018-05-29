@@ -1,7 +1,7 @@
 ---
 imdb: "3316960"
 date: "2015-02-14"
-categories: "movies"
+categories: [ "movies" ]
 title: "Para Sempre Alice"
 stars: "4/5"
 desc: "Para Sempre Alice. Still Alice (USA, 2014). Dirigido por Richard Glatzer, Wash Westmoreland. Escrito por Lisa Genova, Richard Glatzer, Wash Westmoreland. Com Julianne Moore, Kate Bosworth, Shane McRae, Hunter Parrish, Alec Baldwin, Seth Gilliam, Kristen Stewart, Stephen Kunken, Erin Drake."

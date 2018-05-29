@@ -1,7 +1,7 @@
 ---
 imdb: "1714206"
 date: "2016-04-13"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Maravilhoso Agora"
 stars: "3/5"
 desc: "O Maravilhoso Agora. The Spectacular Now (USA, 2013). Dirigido por James Ponsoldt. Escrito por Scott Neustadter, Michael H. Weber, Tim Tharp. Com Miles Teller, Shailene Woodley, Brie Larson, Masam Holden, Dayo Okeniyi, Kyle Chandler, Jennifer Jason Leigh, Nicci Faires, Ava London."

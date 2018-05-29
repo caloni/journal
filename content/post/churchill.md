@@ -2,7 +2,7 @@
 tags: ['cabine']
 imdb: "2674454"
 date: 2017-09-28T19:13:47
-categories: "movies"
+categories: [ "movies" ]
 title: "Churchill"
 stars: "2/5"
 desc: "Churchill. Churchill (UK, 2017). Dirigido por Jonathan Teplitzky. Escrito por Alex von Tunzelmann. Com Brian Cox (Winston Churchill), Miranda Richardson (Clementine Churchill), John Slattery (Dwight Eisenhower), Ella Purnell (Helen Garrett), Julian Wadham (Bernard Montgomery), Richard Durden (Jan Smuts), James Purefoy (King George VI), Danny Webb (Alan Brooke), Jonathan Aris (Trafford Leigh-Mallory)."

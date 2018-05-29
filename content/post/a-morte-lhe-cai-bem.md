@@ -1,7 +1,7 @@
 ---
 imdb: "0104070"
 date: "2013-11-02"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Morte lhe Cai Bem"
 stars: "4/5"
 desc: "A Morte lhe Cai Bem. Death Becomes Her (USA, 1992). Dirigido por Robert Zemeckis. Escrito por Martin Donovan, David Koepp. Com Meryl Streep, Bruce Willis, Goldie Hawn, Isabella Rossellini, Ian Ogilvy, Adam Storke, Nancy Fish, Alaina Reed-Hall, Michelle Johnson."

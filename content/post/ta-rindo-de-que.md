@@ -1,7 +1,7 @@
 ---
 imdb: "1201167"
 date: "2012-04-09"
-categories: "movies"
+categories: [ "movies" ]
 title: "Tá Rindo de Que?"
 stars: "4/5"
 desc: "Tá Rindo de Que?. Funny People (USA, 2009). Dirigido por Judd Apatow. Escrito por Judd Apatow. Com Adam Sandler, Seth Rogen, Leslie Mann, Eric Bana, Jonah Hill, Jason Schwartzman, Aubrey Plaza, Maude Apatow, Iris Apatow."

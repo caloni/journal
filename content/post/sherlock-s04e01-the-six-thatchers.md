@@ -2,7 +2,7 @@
 tags: ['netflix', 'sherlock', 'series']
 imdb: "3538760"
 date: "2017-04-16"
-categories: "blog"
+categories: [ "blog" ]
 title: "Sherlock - Quarta Temporada, Episódio 1: The Six Thatchers"
 stars: "4/5"
 desc: "Sherlock - Quarta Temporada, Episódio 1: The Six Thatchers. Dirigido por Rachel Talalay. Escrito por Mark Gatiss, Arthur Conan Doyle, Steven Moffat. Com Benedict Cumberbatch (Sherlock Holmes), Martin Freeman (Dr. John Watson), Una Stubbs (Mrs. Hudson), Rupert Graves (DI Lestrade), Mark Gatiss (Mycroft Holmes), Louise Brealey (Molly Hooper), Amanda Abbington (Mary Watson), Lindsay Duncan (Lady Smallwood), Simon Kunz (Sir Edwin)."

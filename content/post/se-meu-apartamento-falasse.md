@@ -1,7 +1,7 @@
 ---
 imdb: "0053604"
 date: "2016-07-19"
-categories: "movies"
+categories: [ "movies" ]
 title: "Se Meu Apartamento Falasse"
 stars: "5/5"
 desc: "Se Meu Apartamento Falasse. The Apartment (USA, 1960). Dirigido por Billy Wilder. Escrito por Billy Wilder, I.A.L. Diamond. Com Jack Lemmon, Shirley MacLaine, Fred MacMurray, Ray Walston, Jack Kruschen, David Lewis, Hope Holiday, Joan Shawlee, Naomi Stevens."

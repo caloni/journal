@@ -2,7 +2,7 @@
 tags: ['cabine']
 imdb: "5859238"
 date: 2017-12-07T00:17:31
-categories: "movies"
+categories: [ "movies" ]
 title: "Lucky"
 stars: "5/5"
 desc: "Lucky. Lucky (USA, 2017). Dirigido por John Carroll Lynch. Escrito por Logan Sparks, Drago Sumonja. Com Harry Dean Stanton (Lucky), David Lynch (Howard), Ron Livingston (Bobby Lawrence), Ed Begley Jr. (Dr. Christian Kneedler), Tom Skerritt (Fred), Beth Grant (Elaine), James Darren (Paulie), Barry Shabaka Henley (Joe), Yvonne Huff (Loretta)."

@@ -2,7 +2,7 @@
 tags: ['cabine']
 imdb: "4746484"
 date: "2016-11-21"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Economia do Amor"
 stars: "4/5"
 desc: "A Economia do Amor. L'économie du couple (France, 2016). Dirigido por Joachim Lafosse. Escrito por Fanny Burdino, Joachim Lafosse, Mazarine Pingeot, Thomas van Zuylen. Com Bérénice Bejo (Marie Barrault), Cédric Kahn (Boris Marker), Marthe Keller (dite Babou Christine), Jade Soentjens (Jade Marker), Margaux Soentjens (Margaux Marker), Francesco Italiano (Ami soirée), Tibo Vandenborre (Ami soirée), Catherine Salée (Amie soirée), Ariane Rousseau (Amie soirée)."

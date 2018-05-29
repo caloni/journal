@@ -1,7 +1,7 @@
 ---
 imdb: "1707386"
 date: "2013-02-07"
-categories: "movies"
+categories: [ "movies" ]
 title: "Os Miseráveis"
 stars: "3/5"
 desc: "Os Miseráveis. Les Misérables (USA, 2012). Dirigido por Tom Hooper. Escrito por William Nicholson, Alain Boublil, Claude-Michel Schönberg, Herbert Kretzmer, Alain Boublil, Claude-Michel Schönberg, Victor Hugo. Com Hugh Jackman, Russell Crowe, Anne Hathaway, Amanda Seyfried, Sacha Baron Cohen, Helena Bonham Carter, Eddie Redmayne, Aaron Tveit, Samantha Barks."

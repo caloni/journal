@@ -1,7 +1,7 @@
 ---
 imdb: "0119488"
 date: "2014-11-09"
-categories: "movies"
+categories: [ "movies" ]
 title: "L.A. Confidential"
 stars: "5/5"
 desc: "L.A. Confidential. L.A. Confidential (USA, 1997). Dirigido por Curtis Hanson. Escrito por James Ellroy, Brian Helgeland, Curtis Hanson. Com Kevin Spacey, Russell Crowe, Guy Pearce, James Cromwell, Kim Basinger, Danny DeVito, David Strathairn, Ron Rifkin, Matt McCoy."

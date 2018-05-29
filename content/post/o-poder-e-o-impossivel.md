@@ -2,7 +2,7 @@
 tags: ['cabine']
 imdb: "5503688"
 date: 2017-12-09T01:24:13
-categories: "movies"
+categories: [ "movies" ]
 title: "O Poder e o Impossível"
 stars: "4/5"
 desc: "O Poder e o Impossível. 6 Below: Miracle on the Mountain (USA, 2017). Dirigido por Scott Waugh. Escrito por Madison Turner, Eric LeMarque, Davin Seay. Com Josh Hartnett (Eric LeMarque), Mira Sorvino (Susan LeMarque), Sarah Dumont (Sarah), Kale Culley (Young Eric LeMarque), Jason Cottle (David LeMarque), Austin R. Grant (Corey), Nathan Stevens (Seth), Marty McSorely (Boston Bruins Coach), Sean Pilz (Jake)."

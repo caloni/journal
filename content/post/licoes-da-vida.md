@@ -1,7 +1,7 @@
 ---
 imdb: "0446687"
 date: "2011-12-20"
-categories: "movies"
+categories: [ "movies" ]
 title: "Lições de Vida"
 stars: "3/5"
 desc: "Lições de Vida. Driving Lessons (UK, 2006). Dirigido por Jeremy Brock. Escrito por Jeremy Brock. Com Rupert Grint, Fay Cohen, Ruby Mortlock, Don Wetherhead, Laura Linney, Oliver Milburn, Tamsin Egerton, Nicholas Farrell, Jim Norton."

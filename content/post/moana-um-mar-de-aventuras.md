@@ -2,7 +2,7 @@
 tags: ['cinema', 'oscar']
 imdb: "3521164"
 date: "2017-01-07"
-categories: "movies"
+categories: [ "movies" ]
 title: "Moana: Um Mar de Aventuras"
 stars: "5/5"
 desc: "Moana: Um Mar de Aventuras. Moana (USA, 2016). Dirigido por Ron Clements, Don Hall, John Musker, Chris Williams. Escrito por Jared Bush, Ron Clements, John Musker, Chris Williams, Don Hall, Pamela Ribon, Aaron Kandell, Jordan Kandell. Com Auli'i Cravalho (Moana), Dwayne Johnson (Maui), Rachel House (Gramma Tala), Temuera Morrison (Chief Tui), Jemaine Clement (Tamatoa), Nicole Scherzinger (Sina), Alan Tudyk (Heihei / Villager #3), Oscar Kightley (Fisherman), Troy Polamalu (Villager #1)."

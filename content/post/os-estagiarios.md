@@ -1,7 +1,7 @@
 ---
 imdb: "2234155"
 date: "2015-03-07"
-categories: "movies"
+categories: [ "movies" ]
 title: "Os Estagiários"
 stars: "3/5"
 desc: "Os Estagiários. The Internship (USA, 2013). Dirigido por Shawn Levy. Escrito por Vince Vaughn, Jared Stern, Vince Vaughn. Com Vince Vaughn, Owen Wilson, Rose Byrne, Aasif Mandvi, Max Minghella, Josh Brener, Dylan O'Brien, Tiya Sircar, Tobit Raphael."

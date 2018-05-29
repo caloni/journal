@@ -1,7 +1,7 @@
 ---
 imdb: "0096283"
 date: "2016-05-15"
-categories: "movies"
+categories: [ "movies" ]
 title: "Meu Amigo Totoro"
 stars: "5/5"
 desc: "Meu Amigo Totoro. Tonari no Totoro (Japan, 1988). Dirigido por Hayao Miyazaki. Escrito por Hayao Miyazaki. Com Chika Sakamoto, Hitoshi Takagi, Noriko Hidaka, Shigesato Itoi, Tanie Kitabayashi, Toshiyuki Amagasa, Naoki Tatsuta, Frank Welker, Lea Salonga."

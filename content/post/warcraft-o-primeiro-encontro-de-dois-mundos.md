@@ -1,7 +1,7 @@
 ---
 imdb: "0803096"
 date: "2016-08-08"
-categories: "movies"
+categories: [ "movies" ]
 title: "Warcraft: O Primeiro Encontro de Dois Mundos"
 stars: "4/5"
 desc: "Warcraft: O Primeiro Encontro de Dois Mundos. Warcraft (USA, 2016). Dirigido por Duncan Jones. Escrito por Charles Leavitt, Duncan Jones. Com Travis Fimmel, Paula Patton, Ben Foster, Dominic Cooper, Toby Kebbell, Ben Schnetzer, Robert Kazinsky, Clancy Brown, Daniel Wu."

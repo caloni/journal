@@ -1,7 +1,7 @@
 ---
 imdb: "0080339"
 date: "2014-09-24"
-categories: "movies"
+categories: [ "movies" ]
 title: "Apertem os Cintos... O Piloto Sumiu"
 stars: "5/5"
 desc: "Apertem os Cintos... O Piloto Sumiu. Airplane! (USA, 1980). Dirigido por Jim Abrahams, David Zucker, Jerry Zucker. Escrito por Jim Abrahams, David Zucker, Jerry Zucker, Hall Bartlett, John C. Champion, Arthur Hailey, Arthur Hailey. Com Kareem Abdul-Jabbar, Lloyd Bridges, Peter Graves, Julie Hagerty, Robert Hays, Leslie Nielsen, Lorna Patterson, Robert Stack, Stephen Stucker."

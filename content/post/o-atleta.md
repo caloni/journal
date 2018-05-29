@@ -1,7 +1,7 @@
 ---
 imdb: "1130965"
 date: "2010-11-04"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Atleta"
 stars: "5/5"
 desc: "O Atleta. Atletu (USA, 2009). Dirigido por Davey Frankel, Rasselas Lakew. Escrito por Rasselas Lakew, Davey Frankel, Mikael Awake. Com Rasselas Lakew, Dag Malmberg, Ruta Gedmintas, Abba Waka Dessalegn, Johnny Ashenafi, Woyneshet Belachew, Abebe Bikila, Arne Boysen, Yeneneh Ezra."

@@ -1,7 +1,7 @@
 ---
 imdb: "2870756"
 date: "2016-06-30"
-categories: "movies"
+categories: [ "movies" ]
 title: "Magia ao Luar"
 stars: "4/5"
 desc: "Magia ao Luar. Magic in the Moonlight (USA, 2014). Dirigido por Woody Allen. Escrito por Woody Allen. Com Colin Firth, Antonia Clarke, Natasha Andrews, Valérie Beaulieu, Peter Wollasch, Jürgen Zwingel, Wolfgang Pissors, Sébastien Siroux, Simon McBurney."

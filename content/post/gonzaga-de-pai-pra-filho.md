@@ -1,7 +1,7 @@
 ---
 imdb: "2478746"
 date: "2012-12-02"
-categories: "movies"
+categories: [ "movies" ]
 title: "Gonzaga De Pai pra Filho"
 stars: "3/5"
 desc: "Gonzaga De Pai pra Filho. Gonzaga: De Pai pra Filho (Brazil, 2012). Dirigido por Breno Silveira. Escrito por Maria Hernandez, Patrícia Andrade, George Moura, Adriana Falcão, Breno Silveira, Leonardo Gudel, Maria Hernandez, Regina Echeverria. Com Adélio Lima, Chambinho do Acordeon, Land Vieira, Júlio Andrade, Giancarlo Di Tommaso, Alison Santos, Nanda Costa, Magdale Alves, Roberta Gualda."

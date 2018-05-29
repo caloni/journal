@@ -1,7 +1,7 @@
 ---
 imdb: "1045670"
 date: "2011-02-20"
-categories: "movies"
+categories: [ "movies" ]
 title: "Simplesmente Feliz"
 stars: "2/5"
 desc: "Simplesmente Feliz. Happy-Go-Lucky (UK, 2008). Dirigido por Mike Leigh. Escrito por Mike Leigh. Com Sally Hawkins, Elliot Cowan, Alexis Zegerman, Andrea Riseborough, Sinead Matthews, Kate O'Flynn, Sarah Niles, Eddie Marsan, Joseph Kloska."

@@ -1,7 +1,7 @@
 ---
 imdb: "0381681"
 date: "2012-01-03"
-categories: "movies"
+categories: [ "movies" ]
 title: "Antes do Pôr-do-Sol"
 stars: "5/5"
 desc: "Antes do Pôr-do-Sol. Before Sunset (USA, 2004). Dirigido por Richard Linklater. Escrito por Richard Linklater, Julie Delpy, Ethan Hawke, Richard Linklater, Kim Krizan, Richard Linklater, Kim Krizan. Com Ethan Hawke, Julie Delpy, Vernon Dobtcheff, Louise Lemoine Torres, Rodolphe Pauly, Mariane Plasteig, Diabolo, Denis Evrard, Albert Delpy."

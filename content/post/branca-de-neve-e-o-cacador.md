@@ -1,7 +1,7 @@
 ---
 imdb: "1735898"
 date: "2012-07-20"
-categories: "movies"
+categories: [ "movies" ]
 title: "Branca de Neve e o Caçador"
 stars: "4/5"
 desc: "Branca de Neve e o Caçador. Snow White and the Huntsman (USA, 2012). Dirigido por Rupert Sanders. Escrito por Evan Daugherty, John Lee Hancock, Hossein Amini, Evan Daugherty. Com Kristen Stewart, Chris Hemsworth, Charlize Theron, Sam Claflin, Sam Spruell, Ian McShane, Bob Hoskins, Ray Winstone, Nick Frost."

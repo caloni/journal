@@ -1,7 +1,7 @@
 ---
 imdb: "1623205"
 date: "2013-03-14"
-categories: "movies"
+categories: [ "movies" ]
 title: "Oz Mágico e Poderoso"
 stars: "3/5"
 desc: "Oz Mágico e Poderoso. Oz the Great and Powerful (USA, 2013). Dirigido por Sam Raimi. Escrito por Mitchell Kapner, David Lindsay-Abaire, Mitchell Kapner, L. Frank Baum. Com James Franco, Mila Kunis, Rachel Weisz, Michelle Williams, Zach Braff, Bill Cobbs, Joey King, Tony Cox, Stephen R. Hart."

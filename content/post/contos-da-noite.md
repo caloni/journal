@@ -1,7 +1,7 @@
 ---
 imdb: "1828229"
 date: "2014-06-22"
-categories: "movies"
+categories: [ "movies" ]
 title: "Contos da Noite"
 stars: "3/5"
 desc: "Contos da Noite. Les contes de la nuit (France, 2011). Dirigido por Michel Ocelot. Escrito por Michel Ocelot. Com Julien Beramis, Marine Griset, Michel Elias, Olivier Claverie, Isabelle Guiard, Yves Barsacq, Legrand Bemba-Debert, Fatoumata Diawara, Fabrice Daudet Grazaï."

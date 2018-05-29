@@ -1,7 +1,7 @@
 ---
 imdb: "1821694"
 date: "2013-08-05"
-categories: "movies"
+categories: [ "movies" ]
 title: "Red 2 Aposentados e Ainda Mais Perigosos"
 stars: "3/5"
 desc: "Red 2 Aposentados e Ainda Mais Perigosos. RED 2 (USA, 2013). Dirigido por Dean Parisot. Escrito por Jon Hoeber, Erich Hoeber, Warren Ellis, Cully Hamner. Com Bruce Willis, John Malkovich, Mary-Louise Parker, Helen Mirren, Anthony Hopkins, Byung-hun Lee, Jong Kun Lee, Catherine Zeta-Jones, Neal McDonough."

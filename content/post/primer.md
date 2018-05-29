@@ -1,7 +1,7 @@
 ---
 imdb: "0390384"
 date: "2010-07-09"
-categories: "movies"
+categories: [ "movies" ]
 title: "Primer"
 stars: "4/5"
 desc: "Primer. Primer (USA, 2004). Dirigido por Shane Carruth. Escrito por Shane Carruth. Com Shane Carruth, David Sullivan, Casey Gooden, Anand Upadhyaya, Carrie Crawford, Jay Butler, John Carruth, Juan Tapia, Ashley Warren."

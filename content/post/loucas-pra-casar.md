@@ -1,7 +1,7 @@
 ---
 imdb: "3948438"
 date: "2016-01-04"
-categories: "movies"
+categories: [ "movies" ]
 title: "Loucas pra Casar"
 stars: "1/5"
 desc: "Loucas pra Casar. Loucas pra Casar (Brazil, 2015). Dirigido por Roberto Santucci. Escrito por Marcelo Saback, Júlia Spadaccini. Com Ingrid Guimarães, Marcio Garcia, Tatá Werneck, Suzana Pires, Camila Amado, Billy Blanco Jr., Alice Borges, Aline Fanju, Edmilson Filho."

@@ -2,7 +2,7 @@
 tags: ['cinema']
 imdb: "5442430"
 date: "2017-04-24"
-categories: "movies"
+categories: [ "movies" ]
 title: "Vida"
 stars: "3/5"
 desc: "Vida. Life (USA, 2017). Dirigido por Daniel Espinosa. Escrito por Rhett Reese, Paul Wernick. Com Hiroyuki Sanada (Sho Murakami), Ryan Reynolds (Rory Adams), Rebecca Ferguson (Miranda North), Jake Gyllenhaal (David Jordan), Olga Dihovichnaya (Ekaterina Golovkina), Ariyon Bakare (Hugh Derry), Jesus Del Orden (Student 2), Allen McLean (Student 1), Leila Grace Bostwick-Riddell (Student 3)."

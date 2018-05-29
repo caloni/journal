@@ -2,7 +2,7 @@
 tags: ['netflix']
 imdb: "2948472"
 date: 2017-07-31T18:05:42
-categories: "movies"
+categories: [ "movies" ]
 title: "Coração de Leão"
 stars: "2/5"
 desc: "Coração de Leão. Corazón de león (Argentina, 2013). Dirigido por Marcos Carnevale. Escrito por Betiana Blum, Marcos Carnevale. Com Guillermo Francella (León), Julieta Díaz (Ivana), Mauricio Dayub (Diego), Jorgelina Aruzzi (Corina), Nora Cárpena (Adriana), Nicolás Francella (Toto), María Nela Sinisterra (Glenda), Claudia Fontán (Toto's mother Sabrina), Carlos Donigian (Hombre de la calle con celular)."

@@ -1,7 +1,7 @@
 ---
 imdb: "0780504"
 date: "2012-03-13"
-categories: "movies"
+categories: [ "movies" ]
 title: "Drive"
 stars: "4/5"
 desc: "Drive. Drive (USA, 2011). Dirigido por Nicolas Winding Refn. Escrito por Hossein Amini, James Sallis. Com Ryan Gosling, Carey Mulligan, Bryan Cranston, Albert Brooks, Oscar Isaac, Christina Hendricks, Ron Perlman, Kaden Leos, Jeff Wolfe."

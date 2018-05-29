@@ -2,7 +2,7 @@
 tags: ['mostrasp']
 imdb: "1121024"
 date: "2016-10-31"
-categories: "movies"
+categories: [ "movies" ]
 title: "Haymatloz - Exílio na Turquia"
 stars: "1/5"
 desc: "Haymatloz - Exílio na Turquia. Import-Export - Eine Reise in die deutsch-türkische Vergangenheit (Germany, 2006). Dirigido por Eren Önsöz. Escrito por Eren Önsöz. Com Götz Aly, Ayhan Ayrilmaz, Cornelius Bischoff, Christoph Daum, Gültekin Emre, Hartmut Heller, Jörg Hustiak (Narrator), Rudi Höhnow, Bayram Kaya."

@@ -2,7 +2,7 @@
 tags: ['series', 'mrrobot']
 imdb: "4158110"
 date: 2017-08-28T19:17:19
-categories: "blog"
+categories: [ "blog" ]
 title: "Filosofia De Mr Robot"
 stars: "5/5"
 desc: "Filosofia De Mr Robot. Mr. Robot (USA, 2015). Dirigido por Sam Esmail, Jim McKay. Escrito por Sam Esmail, Randolph Leon, Adam Penn, Kyle Bradstreet. Com Rami Malek, Carly Chaikin, Portia Doubleday, Martin Wallström, Christian Slater, Stephanie Corneliussen, Michael Cristofer, Sunita Mani, Azhar Khan."

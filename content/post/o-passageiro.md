@@ -1,7 +1,7 @@
 ---
 date: 2018-02-17T21:51:13
 imdb: "1590193"
-categories: "movies"
+categories: [ "movies" ]
 stars: "3/5"
 title: "O Passageiro"
 desc: "O Passageiro."

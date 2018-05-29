@@ -1,7 +1,7 @@
 ---
 imdb: "2036388"
 date: "2012-10-28"
-categories: "movies"
+categories: [ "movies" ]
 title: "Shun Li e o Poeta"
 stars: "3/5"
 desc: "Shun Li e o Poeta. Io sono Li (Italy, 2011). Dirigido por Andrea Segre. Escrito por Andrea Segre, Andrea Segre, Marco Pettenello. Com Tao Zhao, Rade Serbedzija, Marco Paolini, Roberto Citran, Giuseppe Battiston, Giordano Bacci, Spartaco Mainardi, Zhong Cheng, Wang Yuan."

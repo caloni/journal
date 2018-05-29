@@ -1,7 +1,7 @@
 ---
 imdb: "1077258"
 date: "2015-09-27"
-categories: "movies"
+categories: [ "movies" ]
 title: "Planeta Terror"
 stars: "3/5"
 desc: "Planeta Terror. Planet Terror (USA, 2007). Dirigido por Robert Rodriguez. Escrito por Robert Rodriguez. Com Rose McGowan, Freddy Rodríguez, Josh Brolin, Marley Shelton, Jeff Fahey, Michael Biehn, Rebel Rodriguez, Bruce Willis, Naveen Andrews."

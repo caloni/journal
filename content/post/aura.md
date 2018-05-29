@@ -1,7 +1,7 @@
 ---
 imdb: "0420509"
 date: "2015-12-27"
-categories: "movies"
+categories: [ "movies" ]
 title: "Aura"
 stars: "5/5"
 desc: "Aura. El aura (Argentina, 2005). Dirigido por Fabián Bielinsky. Escrito por Fabián Bielinsky, Pablo De Santis. Com Ricardo Darín, Dolores Fonzi, Pablo Cedrón, Nahuel Pérez Biscayart, Jorge D'Elía, Alejandro Awada, Rafa Castejón, Manuel Rodal, Walter Reyno."

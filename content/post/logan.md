@@ -2,7 +2,7 @@
 tags: ['cinema', 'mcu', 'xmen']
 imdb: "3315342"
 date: "2017-03-05"
-categories: "movies"
+categories: [ "movies" ]
 title: "Logan"
 stars: "4/5"
 desc: "Logan. Logan (USA, 2017). Dirigido por James Mangold. Escrito por James Mangold, Scott Frank, Michael Green, Craig Kyle, John Romita Sr, Roy Thomas, Herb Trimpe, Len Wein, Christopher Yost. Com Hugh Jackman (Logan), Patrick Stewart (Charles), Dafne Keen (Laura), Boyd Holbrook (Pierce), Stephen Merchant (Caliban), Elizabeth Rodriguez (Gabriela), Richard E. Grant (Dr. Rice), Eriq La Salle (Will Munson), Elise Neal (Kathryn Munson)."

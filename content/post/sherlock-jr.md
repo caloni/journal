@@ -1,7 +1,7 @@
 ---
 imdb: "0015324"
 date: "2014-06-06"
-categories: "movies"
+categories: [ "movies" ]
 title: "Sherlock Jr."
 stars: "5/5"
 desc: "Sherlock Jr.. Sherlock Jr. (USA, 1924). Dirigido por Buster Keaton. Escrito por Jean C. Havez, Joseph A. Mitchell, Clyde Bruckman. Com Buster Keaton, Kathryn McGuire, Joe Keaton, Erwin Connelly, Ward Crane, Jane Connelly, George Davis, Doris Deane, Betsy Ann Hisle."

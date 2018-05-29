@@ -1,7 +1,7 @@
 ---
 imdb: "1099212"
 date: "2012-06-10"
-categories: "movies"
+categories: [ "movies" ]
 title: "Crepúsculo"
 stars: "2/5"
 desc: "Crepúsculo. Twilight (USA, 2008). Dirigido por Catherine Hardwicke. Escrito por Melissa Rosenberg, Stephenie Meyer. Com Kristen Stewart, Sarah Clarke, Matt Bushell, Billy Burke, Gil Birmingham, Taylor Lautner, Gregory Tyree Boyce, Justin Chon, Michael Welch."

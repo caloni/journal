@@ -1,7 +1,7 @@
 ---
 imdb: "1411704"
 date: "2011-05-01"
-categories: "movies"
+categories: [ "movies" ]
 title: "Hop Rebeldes sem Páscoa"
 stars: "3/5"
 desc: "Hop Rebeldes sem Páscoa. Hop (USA, 2011). Dirigido por Tim Hill. Escrito por Cinco Paul, Ken Daurio, Brian Lynch, Cinco Paul, Ken Daurio. Com James Marsden, Russell Brand, Kaley Cuoco-Sweeting, Hank Azaria, Gary Cole, Elizabeth Perkins, Hugh Laurie, Tiffany Espensen, David Hasselhoff."

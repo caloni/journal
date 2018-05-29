@@ -1,7 +1,7 @@
 ---
 imdb: "0165078"
 date: "2012-01-15"
-categories: "movies"
+categories: [ "movies" ]
 title: "Depois da Vida"
 stars: "3/5"
 desc: "Depois da Vida. Wandâfuru raifu (Japan, 1998). Dirigido por Hirokazu Koreeda. Escrito por Hirokazu Koreeda. Com Arata Iura, Erika Oda, Susumu Terajima, Takashi Naitô, Kyôko Kagawa, Kei Tani, Taketoshi Naitô, Tôru Yuri, Yûsuke Iseya."

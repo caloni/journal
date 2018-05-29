@@ -1,7 +1,7 @@
 ---
 imdb: "1915581"
 date: "2015-02-15"
-categories: "movies"
+categories: [ "movies" ]
 title: "Magic Mike"
 stars: "5/5"
 desc: "Magic Mike. Magic Mike (USA, 2012). Dirigido por Steven Soderbergh. Escrito por Reid Carolin. Com Matthew McConaughey, Channing Tatum, Olivia Munn, Alex Pettyfer, James Martin Kelly, Cody Horn, Reid Carolin, Avery Camp, George A. Sack."

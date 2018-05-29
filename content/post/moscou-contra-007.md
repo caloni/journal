@@ -1,7 +1,7 @@
 ---
 imdb: "0057076"
 date: "2012-11-11"
-categories: "movies"
+categories: [ "movies" ]
 title: "Moscou Contra 007"
 stars: "4/5"
 desc: "Moscou Contra 007. From Russia with Love (UK, 1963). Dirigido por Terence Young. Escrito por Richard Maibaum, Johanna Harwood, Ian Fleming, Berkely Mather. Com Sean Connery, Daniela Bianchi, Pedro Armendáriz, Lotte Lenya, Robert Shaw, Bernard Lee, Eunice Gayson, Walter Gotell, Francis De Wolff."

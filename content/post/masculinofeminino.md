@@ -1,7 +1,7 @@
 ---
 imdb: "0060675"
 date: "2016-02-19"
-categories: "movies"
+categories: [ "movies" ]
 title: "Masculino-Feminino"
 stars: "4/5"
 desc: "Masculino-Feminino. Masculin féminin (France, 1966). Dirigido por Jean-Luc Godard. Escrito por Guy de Maupassant, Jean-Luc Godard. Com Jean-Pierre Léaud, Chantal Goya, Marlène Jobert, Michel Debord, Catherine-Isabelle Duport, Evabritt Strandberg, Birger Malmsten, Yves Afonso, Henri Attal."

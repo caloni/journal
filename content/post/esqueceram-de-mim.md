@@ -1,7 +1,7 @@
 ---
 imdb: "0099785"
 date: "2014-10-13"
-categories: "movies"
+categories: [ "movies" ]
 title: "Esqueceram de Mim"
 stars: "5/5"
 desc: "Esqueceram de Mim. Home Alone (USA, 1990). Dirigido por Chris Columbus. Escrito por John Hughes. Com Macaulay Culkin, Joe Pesci, Daniel Stern, John Heard, Roberts Blossom, Catherine O'Hara, Angela Goethals, Devin Ratray, Gerry Bamman."

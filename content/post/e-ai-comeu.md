@@ -1,7 +1,7 @@
 ---
 imdb: "2209400"
 date: "2012-06-25"
-categories: "movies"
+categories: [ "movies" ]
 title: "E Aí... Comeu?"
 stars: "3/5"
 desc: "E Aí... Comeu?. E Aí... Comeu? (Brazil, 2012). Dirigido por Felipe Joffily. Escrito por Marcelo Rubens Paiva, Marcelo Rubens Paiva, Lusa Silvestre. Com Bruno Mazzeo, Marcos Palmeira, Emílio Orciollo Netto, Dira Paes, Juliana Schalch, Laura Neiva, Seu Jorge, Tainá Müller, Murilo Benício."

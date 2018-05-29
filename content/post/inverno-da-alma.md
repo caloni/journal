@@ -1,7 +1,7 @@
 ---
 imdb: "1399683"
 date: "2011-01-30"
-categories: "movies"
+categories: [ "movies" ]
 title: "Inverno da Alma"
 stars: "4/5"
 desc: "Inverno da Alma. Winter's Bone (USA, 2010). Dirigido por Debra Granik. Escrito por Debra Granik, Anne Rosellini, Daniel Woodrell. Com Jennifer Lawrence (Ree), Isaiah Stone (Sonny), Ashlee Thompson (Ashlee), Valerie Richards (Connie), Shelley Waggener (Sonya), Garret Dillahunt (Sheriff Baskin), William White (Blond Milton), Ramona Blair (Parenting Teacher), Lauren Sweetser (Gail)."

@@ -2,7 +2,7 @@
 tags: ['netflix']
 imdb: "3341582"
 date: "2016-12-04"
-categories: "movies"
+categories: [ "movies" ]
 title: "Killa"
 stars: "3/5"
 desc: "Killa. Killa (India, 2014). Dirigido por Avinash Arun. Escrito por Tushar Paranjape, Upendra Sidhaye. Com Amruta Subhash, Archit Deodhar (Chinmay), Parth Bhalerao (Bandya), Gaurish Gawade (Yuvraj), Atharva Upasni (Omkar), Swandand Raikar (Umesh), Shrikant Yadav (Mr.Nivte), Umesh Jagtap (Fisherman), Shivalati Bokil (Damle Aaji)."

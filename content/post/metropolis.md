@@ -1,7 +1,7 @@
 ---
 imdb: "0017136"
 date: "2014-06-06"
-categories: "movies"
+categories: [ "movies" ]
 title: "Metrópolis"
 stars: "5/5"
 desc: "Metrópolis. Metropolis (Germany, 1927). Dirigido por Fritz Lang. Escrito por Thea von Harbou, Thea von Harbou, Fritz Lang. Com Alfred Abel, Gustav Fröhlich, Rudolf Klein-Rogge, Fritz Rasp, Theodor Loos, Erwin Biswanger, Heinrich George, Brigitte Helm, Fritz Alberti."

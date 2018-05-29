@@ -2,7 +2,7 @@
 tags: ['mostrasp']
 imdb: "5104002"
 date: "2016-11-02"
-categories: "movies"
+categories: [ "movies" ]
 title: "Irmandade"
 stars: "1/5"
 desc: "Irmandade. Kapatiran (Philippines, 2015). Dirigido por Pepe Diokno. Escrito por Pepe Diokno, Lilit Reyes, Benjamin Gonzales Tolentino. Com Giancarlo Abrahan, Bianca Balbuena, Regina Belmonte, Bryan Bendanillo, Joenel Canaria, Barbie Capacio, Teddie Co, Menggie Cobarrubias, Milabel Cristobal."

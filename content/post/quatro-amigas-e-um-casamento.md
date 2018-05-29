@@ -1,7 +1,7 @@
 ---
 imdb: "1920849"
 date: "2012-12-17"
-categories: "movies"
+categories: [ "movies" ]
 title: "Quatro Amigas e um Casamento"
 stars: "3/5"
 desc: "Quatro Amigas e um Casamento. Bachelorette (USA, 2012). Dirigido por Leslye Headland. Escrito por Leslye Headland, Leslye Headland. Com Kirsten Dunst, Rebel Wilson, Lizzy Caplan, Paul Corning, Isla Fisher, Andrew Rannells, Anna Rose Hopkins, Sue Jean Kim, Horatio Sanz."

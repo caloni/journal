@@ -2,7 +2,7 @@
 tags: ['netflix', 'series']
 imdb: "2191671"
 date: "2015-01-11"
-categories: "blog"
+categories: [ "blog" ]
 title: "Elementary (piloto)"
 stars: "3/5"
 desc: "Elementary (piloto). Elementary (USA, 2012). Dirigido por John Polson, Guy Ferland, Seith Mann, Christine Moore, Larry Teng, Jerry Levine, Aaron Lipstadt, Ron Fortunato, Andrew Bernstein. Escrito por Robert Doherty, Craig Sweeny, Jason Tracey, Jeffrey Paul King, Bob Goodman, Liz Friedman, Robert Hewitt Wolfe, Arthur Conan Doyle, Corinne Brinkerhoff. Com Jonny Lee Miller, Lucy Liu, Aidan Quinn, Jon Michael Hill."

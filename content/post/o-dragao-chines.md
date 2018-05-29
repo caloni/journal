@@ -1,7 +1,7 @@
 ---
 imdb: "0067824"
 date: "2016-01-07"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Dragão Chinês"
 stars: "3/5"
 desc: "O Dragão Chinês. Tang shan da xiong (Hong Kong, 1971). Dirigido por Wei Lo, Chia-Hsiang Wu. Escrito por Wei Lo. Com Bruce Lee, Maria Yi, James Tien, Marilyn Bautista, Ying-Chieh Han, Tony Liu, Kun Li, Nora Miao, Shan Chin."

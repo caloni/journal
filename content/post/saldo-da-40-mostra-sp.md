@@ -1,7 +1,7 @@
 ---
 date: "2016-11-02"
 title: "Saldo da 40a. MostraSP"
-categories: "blog"
+categories: [ "blog" ]
 tags: ['mostrasp']
 desc: "Saldo da 40a. MostraSP."
 ---

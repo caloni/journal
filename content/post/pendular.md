@@ -2,7 +2,7 @@
 tags: ['cabine']
 imdb: "6368132"
 date: 2017-09-18T21:32:29
-categories: "movies"
+categories: [ "movies" ]
 title: "Pendular"
 stars: "3/5"
 desc: "Pendular. Pendular (Brazil, 2017). Dirigido por Júlia Murat. Escrito por Júlia Murat, Matias Mariani. Com Raquel Karro (Ela), Rodrigo Bolzan (Ele), Valeria Barretta (Dolores), Renato Linhares (Leco), Neto Machado (Gal), Martina Revollo (Martina), Felipe Rocha (Donato), Larissa Siqueira (Luiza), Marcio Vito (Rui)."

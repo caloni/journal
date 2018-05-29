@@ -1,7 +1,7 @@
 ---
 imdb: "0396171"
 date: "2011-01-31"
-categories: "movies"
+categories: [ "movies" ]
 title: "Perfume A História de um Assassino"
 stars: "5/5"
 desc: "Perfume A História de um Assassino. Perfume: The Story of a Murderer (Germany, 2006). Dirigido por Tom Tykwer. Escrito por Andrew Birkin, Bernd Eichinger, Tom Tykwer, Patrick Süskind. Com Ben Whishaw, Francesc Albiol, Gonzalo Cunill, Roger Salvany, Andrés Herrera, Simon Chandler, David Calder, Richard Felix, Birgit Minichmayr."

@@ -1,7 +1,7 @@
 ---
 imdb: "2488496"
 date: "2016-01-08"
-categories: "movies"
+categories: [ "movies" ]
 title: "Star Wars: O Despertar da Força"
 stars: "4/5"
 revision: ['2016-01-15']

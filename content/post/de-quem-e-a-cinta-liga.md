@@ -1,7 +1,7 @@
 ---
 imdb: "0797093"
 date: "2012-09-30"
-categories: "movies"
+categories: [ "movies" ]
 title: "De Quem é a Cinta Liga?"
 stars: "2/5"
 desc: "De Quem é a Cinta Liga?. ¿De quién es el portaligas? (Argentina, 2007). Dirigido por María Cecilia López, Fito Páez. Escrito por Fito Páez. Com Julieta Cardinali, Romina Ricci, Leonora Balcarce, Gonzalo Aloras, Darío Grandinetti, Verónica Llinás, Cristina Banegas, Fabiana Cantilo, Lía Crucet."

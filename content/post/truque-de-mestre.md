@@ -1,7 +1,7 @@
 ---
 imdb: "1670345"
 date: "2016-06-21"
-categories: "movies"
+categories: [ "movies" ]
 title: "Truque de Mestre"
 stars: "2/5"
 desc: "Truque de Mestre. Now You See Me (France, 2013). Dirigido por Louis Leterrier. Escrito por Ed Solomon, Boaz Yakin, Edward Ricourt, Boaz Yakin, Edward Ricourt. Com Jesse Eisenberg, Mark Ruffalo, Woody Harrelson, Isla Fisher, Dave Franco, Mélanie Laurent, Morgan Freeman, Michael Caine, Michael Kelly."

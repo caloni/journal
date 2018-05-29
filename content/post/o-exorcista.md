@@ -1,7 +1,7 @@
 ---
 date: 2018-01-18T21:34:13
 imdb: "0070047"
-categories: "movies"
+categories: [ "movies" ]
 stars: "5/5"
 title: "O Exorcista"
 desc: "O Exorcista."

@@ -1,7 +1,7 @@
 ---
 imdb: "1951090"
 date: "2011-06-23"
-categories: "movies"
+categories: [ "movies" ]
 title: "Quebrando o Tabu"
 stars: "3/5"
 desc: "Quebrando o Tabu. Quebrando o Tabu (UK, 2011). Dirigido por Fernando Grostein Andrade, Cosmo Feilding-Mellen. Escrito por Fernando Grostein Andrade, Thomaz Souto Correa, Rodrigo de Oliveira, Cosmo Feilding-Mellen, Carolina Kotscho, Bruno R. Modolo, Ricardo Setti, Ilona Szabo. Com Fran Boyd Andrews, Brenda Blom, Fernando Henrique Cardoso, Jimmy Carter, Jorge Castañeda, Bill Clinton, Paulo Coelho, Richard Dannatt, Ruth Dreifuss."

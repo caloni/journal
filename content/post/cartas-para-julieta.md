@@ -1,7 +1,7 @@
 ---
 imdb: "0892318"
 date: "2011-10-10"
-categories: "movies"
+categories: [ "movies" ]
 title: "Cartas Para Julieta"
 stars: "2/5"
 desc: "Cartas Para Julieta. Letters to Juliet (USA, 2010). Dirigido por Gary Winick. Escrito por Jose Rivera, Tim Sullivan. Com Amanda Seyfried, Marcia DeBonis, Gael García Bernal, Giordano Formenti, Paolo Arvedi, Dario Conti, Ivana Lotito, Luisa Ranieri, Marina Massironi."

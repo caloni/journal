@@ -1,7 +1,7 @@
 ---
 imdb: "1769383"
 date: "2014-03-03"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Big Love Story"
 stars: "3/5"
 desc: "A Big Love Story. A Big Love Story (USA, 2012). Dirigido por Ryan Sage. Escrito por Dale Zawada. Com Robbie Kaller, Jillian Leigh, Tommy Snider, Constance Reese, Jacquelyn Umof, Jess Allen, Bryan Bellomo, Wendy Worthington, Bruno Oliver."

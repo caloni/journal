@@ -1,7 +1,7 @@
 ---
 imdb: "0327597"
 date: "2011-11-29"
-categories: "movies"
+categories: [ "movies" ]
 title: "Coraline e o Mundo Secreto"
 stars: "4/5"
 desc: "Coraline e o Mundo Secreto. Coraline (USA, 2009). Dirigido por Henry Selick. Escrito por Henry Selick, Neil Gaiman. Com Dakota Fanning, Teri Hatcher, Jennifer Saunders, Dawn French, Keith David, John Hodgman, Robert Bailey Jr., Ian McShane, Aankha Neal."

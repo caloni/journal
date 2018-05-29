@@ -1,7 +1,7 @@
 ---
 imdb: "0075686"
 date: "2015-12-27"
-categories: "movies"
+categories: [ "movies" ]
 title: "Noivo Neurótico, Noiva Nervosa"
 stars: "5/5"
 desc: "Noivo Neurótico, Noiva Nervosa. Annie Hall (USA, 1977). Dirigido por Woody Allen. Escrito por Woody Allen, Marshall Brickman. Com Woody Allen, Diane Keaton, Tony Roberts, Carol Kane, Paul Simon, Shelley Duvall, Janet Margolin, Colleen Dewhurst, Christopher Walken."

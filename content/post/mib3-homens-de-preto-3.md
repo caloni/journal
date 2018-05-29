@@ -1,7 +1,7 @@
 ---
 imdb: "1409024"
 date: "2012-06-04"
-categories: "movies"
+categories: [ "movies" ]
 title: "MIB Homens de Preto 3"
 stars: "3/5"
 desc: "MIB Homens de Preto 3. Men in Black 3 (USA, 2012). Dirigido por Barry Sonnenfeld. Escrito por Etan Cohen, Lowell Cunningham. Com Will Smith, Tommy Lee Jones, Josh Brolin, Jemaine Clement, Emma Thompson, Michael Stuhlbarg, Mike Colter, Nicole Scherzinger, Michael Chernus."

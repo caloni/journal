@@ -1,7 +1,7 @@
 ---
 date: "2016-10-25"
 title: "Mini-Entrevista com Olaf Kraemer, diretor de 5 Mulheres"
-categories: "blog"
+categories: [ "blog" ]
 tags: ['mostrasp']
 desc: "Mini-Entrevista com Olaf Kraemer, diretor de 5 Mulheres."
 ---

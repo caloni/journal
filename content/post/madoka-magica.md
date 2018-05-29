@@ -2,7 +2,7 @@
 tags: ['netflix', 'series']
 imdb: "1773185"
 date: "2014-04-14"
-categories: "series"
+categories: [ "series" ]
 title: "Madoka Magica"
 stars: "5/5"
 revision: [datetime.date(2014, 9, 19)]

@@ -1,7 +1,7 @@
 ---
 imdb: "1821641"
 date: "2015-01-04"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Congresso Futurista"
 stars: "3/5"
 desc: "O Congresso Futurista. The Congress (Israel, 2013). Dirigido por Ari Folman. Escrito por Stanislaw Lem, Ari Folman. Com Robin Wright, Harvey Keitel, Jon Hamm, Kodi Smit-McPhee, Danny Huston, Sami Gayle, Michael Stahl-David, Paul Giamatti, Ed Corbin."

@@ -1,7 +1,7 @@
 ---
 imdb: "1568921"
 date: "2012-12-06"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Mundo dos Pequeninos"
 stars: "3/5"
 desc: "O Mundo dos Pequeninos. Kari-gurashi no Arietti (Japan, 2010). Dirigido por Hiromasa Yonebayashi. Escrito por Mary Norton, Hayao Miyazaki, Keiko Niwa. Com Moises Arias, Bridgit Mendler, David Henrie, Will Arnett, Carol Burnett, Amy Poehler, Shin'ichi Hatori, Saoirse Ronan, Tom Holland."

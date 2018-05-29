@@ -2,7 +2,7 @@
 tags: ['netflix']
 imdb: "2390253"
 date: "2016-09-04"
-categories: "movies"
+categories: [ "movies" ]
 title: "Eungyo - A Musa"
 stars: "4/5"
 desc: "Eungyo - A Musa. Eungyo (South Korea, 2012). Dirigido por Ji-woo Jung. Escrito por Ji-woo Jung, Beom-shin Park. Com Hae-il Park, Mu-Yeol Kim, Go-eun Kim, Man-sik Jeong, Park Cheol-Hyeon, Jang Yun-sil, Jeong Seo-in, Kim Kyeong-il, Ahn Min-Yeong."

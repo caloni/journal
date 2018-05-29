@@ -1,7 +1,7 @@
 ---
 date: 2018-04-11T17:48:24-03:00
 title: "Jogador No. 1 é Spielberg mostrando que carisma não cura qualquer filme"
-categories: "movies"
+categories: [ "movies" ]
 imdb: "1677720"
 stars: "2/5"
 desc: "Ready Player One, 2018. Dirigido por Steven Spielberg, escrito por Zak Penn baseado no romance de Ernest Cline. Com Tye Sheridan, Olivia Cooke, Ben Mendelsohn."

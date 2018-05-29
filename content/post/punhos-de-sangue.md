@@ -3,7 +3,7 @@ tags: ['cabine']
 cinemaqui: "http://www.cinemaqui.com.br/punhos-de-sangue/"
 imdb: "1610525"
 date: "2017-05-18"
-categories: "movies"
+categories: [ "movies" ]
 title: "Punhos de Sangue"
 stars: "4/5"
 desc: "Punhos de Sangue. The Bleeder (USA, 2016). Dirigido por Philippe Falardeau. Escrito por Jeff Feuerzeig, Jerry Stahl, Michael Cristofer, Liev Schreiber. Com Elisabeth Moss (Phyliss), Naomi Watts (Linda), Ron Perlman (Al Braverman), Liev Schreiber (Chuck Wepner), Pooch Hall (Muhammad Ali), Jim Gaffigan (John), Jason Jones, Morgan Spector (Stallone), Zina Wilde (Roberta)."

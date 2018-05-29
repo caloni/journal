@@ -1,7 +1,7 @@
 ---
 imdb: "2625270"
 date: "2016-03-18"
-categories: "movies"
+categories: [ "movies" ]
 title: "Vinho para Roubar"
 stars: "2/5"
 desc: "Vinho para Roubar. Vino Para Robar (Argentina, 2013). Dirigido por Ariel Winograd. Escrito por Adrián Garelik. Com Daniel Hendler, Valeria Bertuccelli, Martín Piroyansky, Pablo Rago, Juan Leyrado, Mario Alarcón, Alan Sabbagh, Luis Sagasti, Esteban Balbi."

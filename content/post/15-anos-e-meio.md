@@ -1,7 +1,7 @@
 ---
 imdb: "1075111"
 date: "2010-07-07"
-categories: "movies"
+categories: [ "movies" ]
 title: "15 Anos e Meio"
 stars: "3/5"
 desc: "15 Anos e Meio. 15 ans et demi ... (France, 2008). Dirigido por François Desagnat, Thomas Sorriaux. Escrito por Vincent Ravalec, François Desagnat, Thomas Sorriaux, Romain Protat. Com Daniel Auteuil, Juliette Lamboley, François Damiens, Lionel Abelanski, Julie Ferrier, François Berléand, Elise Larnicol, Sara Mortensen, Coura Traoré."

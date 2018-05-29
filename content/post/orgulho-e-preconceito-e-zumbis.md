@@ -2,7 +2,7 @@
 tags: ['cabine']
 imdb: "1374989"
 date: "2016-02-12"
-categories: "movies"
+categories: [ "movies" ]
 title: "Orgulho e Preconceito e Zumbis"
 stars: "3/5"
 desc: "Orgulho e Preconceito e Zumbis. Pride and Prejudice and Zombies (USA, 2016). Dirigido por Burr Steers. Escrito por Burr Steers, Jane Austen, Seth Grahame-Smith. Com Lily James, Sam Riley, Bella Heathcote, Ellie Bamber, Millie Brady, Suki Waterhouse, Douglas Booth, Sally Phillips, Charles Dance."

@@ -1,7 +1,7 @@
 ---
 imdb: "1920980"
 date: "2012-02-15"
-categories: "movies"
+categories: [ "movies" ]
 title: "Juan e Evita Uma História de Amor"
 stars: "2/5"
 desc: "Juan e Evita Uma História de Amor. Juan y Eva (Argentina, 2011). Dirigido por Paula de Luque. Escrito por Paula de Luque. Com Osmar Núñez, Julieta Díaz, Alfredo Casero, Fernán Mirás, Sergio Boris, María Ucedo, Alberto Ajaka, Lorena Vega, Fabián Arenillas."

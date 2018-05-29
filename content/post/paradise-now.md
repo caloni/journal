@@ -1,7 +1,7 @@
 ---
 imdb: "0445620"
 date: "2012-05-09"
-categories: "movies"
+categories: [ "movies" ]
 title: "Paradise Now"
 stars: "3/5"
 desc: "Paradise Now. Paradise Now (Occupied Palestinian Territory, 2005). Dirigido por Hany Abu-Assad. Escrito por Hany Abu-Assad, Bero Beyer. Com Lubna Azabal, Hamza Abu-Aiaash, Kais Nashif, Lutuf Nouasser, Ali Suliman, Mohammad Bustami, Ahmad Fares, Waleed On-Allah, Asaad Dwikat."

@@ -2,7 +2,7 @@
 tags: ['cabine']
 imdb: "5290524"
 date: "2016-08-12"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Funcionário do Mês"
 stars: "4/5"
 desc: "O Funcionário do Mês. Quo vado? (Italy, 2016). Dirigido por Gennaro Nunziante. Escrito por Gennaro Nunziante, Checco Zalone. Com Checco Zalone, Eleonora Giovanardi, Sonia Bergamasco, Maurizio Micheli, Lino Banfi, Ludovica Modugno, Antonino Bruschetta, Paolo Pierobon, Azzurra Martino."

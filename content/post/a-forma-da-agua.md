@@ -1,7 +1,7 @@
 ---
 date: 2018-04-20T21:05:49-03:00
 title: "A Forma da Água ou como transformar a luta pela tolerância em sessão da tarde com água e açúcar"
-categories: "movies"
+categories: [ "movies" ]
 imdb: "5580390"
 stars: "3/5"
 desc: "The Shape of Water. EUA, 2017. Escrito por Vanessa Taylor e Guillermo del Toro (a partir de sua história), dirigido por Guillermo del Toro. Com Sally Hawkins, Octavia Spencer, Michael Shannon e Richard Jenkins."

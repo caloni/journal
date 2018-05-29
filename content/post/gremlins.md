@@ -1,7 +1,7 @@
 ---
 imdb: "0087363"
 date: "2014-11-27"
-categories: "movies"
+categories: [ "movies" ]
 title: "Gremlins"
 stars: "4/5"
 desc: "Gremlins. Gremlins (USA, 1984). Dirigido por Joe Dante. Escrito por Chris Columbus. Com Hoyt Axton, John Louie, Keye Luke, Don Steele, Susan Burgess, Scott Brady, Arnie Moore, Corey Feldman, Harry Carey Jr.."

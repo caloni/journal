@@ -1,7 +1,7 @@
 ---
 date: 2018-01-12T00:18:24
 imdb: "4809638"
-categories: "movies"
+categories: [ "movies" ]
 stars: "2/5"
 title: "Tô Ryca!"
 desc: "Tô Ryca!."

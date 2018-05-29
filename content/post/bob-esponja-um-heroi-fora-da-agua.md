@@ -1,7 +1,7 @@
 ---
 imdb: "2279373"
 date: "2015-02-16"
-categories: "movies"
+categories: [ "movies" ]
 title: "Bob Esponja: Um Herói Fora d'Água"
 stars: "4/5"
 desc: "Bob Esponja: Um Herói Fora d'Água. The SpongeBob Movie: Sponge Out of Water (USA, 2015). Dirigido por Paul Tibbitt. Escrito por Glenn Berger, Jonathan Aibel, Stephen Hillenburg, Paul Tibbitt, Stephen Hillenburg. Com Antonio Banderas, Eric Bauza, Tim Conway, Eddie Deezen, Rob Paulsen, Kevin Michael Richardson, April Stewart, Cree Summer, Billy West."

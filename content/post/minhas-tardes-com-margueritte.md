@@ -1,7 +1,7 @@
 ---
 imdb: "1455151"
 date: "2015-03-29"
-categories: "movies"
+categories: [ "movies" ]
 title: "Minhas Tardes com Margueritte"
 stars: "4/5"
 desc: "Minhas Tardes com Margueritte. La tête en friche (France, 2010). Dirigido por Jean Becker. Escrito por Jean Becker, Jean-Loup Dabadie, Marie-Sabine Roger. Com Gérard Depardieu, Gisèle Casadesus, Maurane, Patrick Bouchitey, Jean-François Stévenin, François-Xavier Demaison, Claire Maurier, Sophie Guillemin, Mélanie Bernier."

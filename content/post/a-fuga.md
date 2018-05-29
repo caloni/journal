@@ -1,7 +1,7 @@
 ---
 imdb: "1667310"
 date: "2013-03-22"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Fuga"
 stars: "3/5"
 desc: "A Fuga. Deadfall (USA, 2012). Dirigido por Stefan Ruzowitzky. Escrito por Zach Dean. Com Eric Bana, Olivia Wilde, Charlie Hunnam, Patrick Kerton, Kwasi Songui, Kris Kristofferson, Sissy Spacek, John Robinson, Job Daniel."

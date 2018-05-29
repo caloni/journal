@@ -2,7 +2,7 @@
 tags: ['cabine']
 imdb: "3019796"
 date: "2014-12-18"
-categories: "movies"
+categories: [ "movies" ]
 title: "As Férias do Pequeno Nicolau"
 stars: "4/5"
 revision: [datetime.date(2015, 7, 28)]

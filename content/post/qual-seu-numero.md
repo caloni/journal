@@ -1,7 +1,7 @@
 ---
 imdb: "0770703"
 date: "2011-10-17"
-categories: "movies"
+categories: [ "movies" ]
 title: "Qual Seu Número?"
 stars: "3/5"
 desc: "Qual Seu Número?. What's Your Number? (USA, 2011). Dirigido por Mark Mylod. Escrito por Gabrielle Allan, Jennifer Crittenden, Karyn Bosnak. Com Anna Faris, Chris Evans, Ari Graynor, Blythe Danner, Ed Begley Jr., Oliver Jackson-Cohen, Heather Burns, Eliza Coupe, Kate Simses."

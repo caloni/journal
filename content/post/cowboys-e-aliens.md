@@ -1,7 +1,7 @@
 ---
 imdb: "0409847"
 date: "2011-09-18"
-categories: "movies"
+categories: [ "movies" ]
 title: "Cowboys e Aliens"
 stars: "3/5"
 desc: "Cowboys e Aliens. Cowboys & Aliens (USA, 2011). Dirigido por Jon Favreau. Escrito por Roberto Orci, Alex Kurtzman, Damon Lindelof, Mark Fergus, Hawk Ostby, Mark Fergus, Hawk Ostby, Steve Oedekerk, Scott Mitchell Rosenberg. Com Daniel Craig, Abigail Spencer, Buck Taylor, Matthew Taylor, Cooper Taylor, Clancy Brown, Paul Dano, Chris Browning, Adam Beach."

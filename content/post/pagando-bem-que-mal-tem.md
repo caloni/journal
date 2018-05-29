@@ -1,7 +1,7 @@
 ---
 imdb: "1007028"
 date: "2011-02-13"
-categories: "movies"
+categories: [ "movies" ]
 title: "Pagando Bem Que Mal Tem"
 stars: "2/5"
 desc: "Pagando Bem Que Mal Tem. Zack and Miri Make a Porno (USA, 2008). Dirigido por Kevin Smith. Escrito por Kevin Smith. Com Elizabeth Banks, Seth Rogen, Craig Robinson, Gerry Bednob, Edward Janda, Nicholas Lombardi, Chris Milan, Jennifer Schwalbach Smith, Kenny Hotz."

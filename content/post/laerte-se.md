@@ -2,7 +2,7 @@
 tags: ['netflix']
 imdb: "6795136"
 date: 2017-09-24T22:25:35
-categories: "movies"
+categories: [ "movies" ]
 title: "Laerte Se"
 stars: "3/5"
 desc: "Laerte Se. Laerte-se (Brazil, 2017). Dirigido por Lygia Barbosa, Eliane Brum. Com Laerte Coutinho (Laerte Coutinho), Rita Lee (Herself)."

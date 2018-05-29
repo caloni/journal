@@ -2,7 +2,7 @@
 tags: ['netflix']
 imdb: "0790663"
 date: "2016-12-09"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Aluno"
 stars: "3/5"
 desc: "O Aluno. The First Grader (UK, 2010). Dirigido por Justin Chadwick. Escrito por Ann Peacock. Com Naomie Harris (Jane Obinchu), Oliver Litondo (Kimani Ng'ang'a Maruge), Tony Kgoroge (Charles Obinchu), Alfred Munyua (Teacher Alfred), Shoki Mokgapa (Teacher Elizabeth), Vusi Kunene (Mr. Kipruto), Agnes Simaloi (Agnes), Kamau Mbaya (Kamau Chege), Emily Njoki (Young Maruge's Wife)."

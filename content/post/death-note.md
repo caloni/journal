@@ -2,7 +2,7 @@
 tags: ['netflix']
 imdb: "0877057"
 date: 2017-09-18T21:47:41
-categories: "series"
+categories: [ "series" ]
 title: "Death Note: Notas da Morte"
 stars: "3/5"
 desc: "Death Note: Notas da Morte. Death Note: Desu nôto (Japan, 2006). Dirigido por Tetsurô Araki, Tomohiko Itô, Hiroyuki Tsuchiya, Mitsuhiro Yoneda, Eiko Nishi, Makoto Bessho, Shinji Nagamura, Oyunamu, Naoyasu Habu. Escrito por Takeshi Obata, Tsugumi Ôba, Toshiki Inoue, Shôji Yonemura, Yasuko Kobayashi. Com Mamoru Miyano (Light Yagami), Brad Swaile (Light Yagami), Vincent Tong (Touta Matsuda / ...), Ryô Naitô (Touta Matsuda / ...), Trevor Devall (Shuichi Aizawa / ...), Brian Drummond (Ryuk / ...), Naoya Uchida (Soichiro Yagami), Chris Britton (Soichiro Yagami), Keiji Fujiwara (Shuichi Aizawa / ...)."

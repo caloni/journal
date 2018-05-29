@@ -1,7 +1,7 @@
 ---
 imdb: "1365050"
 date: "2016-03-11"
-categories: "movies"
+categories: [ "movies" ]
 title: "Beasts of No Nation"
 stars: "5/5"
 desc: "Beasts of No Nation. Beasts of No Nation (USA, 2015). Dirigido por Cary Joji Fukunaga. Escrito por Cary Joji Fukunaga, Uzodinma Iweala. Com Abraham Attah, Emmanuel Affadzi, Ricky Adelayitor, Andrew Adote, Vera Nyarkoah Antwi, Ama K. Abebrese, Kobina Amissah-Sam, Francis Weddey, Fred Nii Amugi."

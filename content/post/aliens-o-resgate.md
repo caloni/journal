@@ -1,7 +1,7 @@
 ---
 imdb: "0090605"
 date: "2011-12-08"
-categories: "movies"
+categories: [ "movies" ]
 title: "Aliens O Resgate"
 stars: "5/5"
 desc: "Aliens O Resgate. Aliens (USA, 1986). Dirigido por James Cameron. Escrito por James Cameron, David Giler, Walter Hill, Dan O'Bannon, Ronald Shusett, James Cameron. Com Sigourney Weaver, Carrie Henn, Michael Biehn, Paul Reiser, Lance Henriksen, Bill Paxton, Jenette Goldstein, William Hope, Al Matthews."

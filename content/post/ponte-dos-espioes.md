@@ -1,7 +1,7 @@
 ---
 imdb: "3682448"
 date: "2016-01-20"
-categories: "movies"
+categories: [ "movies" ]
 title: "Ponte dos Espiões"
 stars: "4/5"
 desc: "Ponte dos Espiões. Bridge of Spies (USA, 2015). Dirigido por Steven Spielberg. Escrito por Matt Charman, Ethan Coen, Joel Coen. Com Mark Rylance, Domenick Lombardozzi, Victor Verhaeghe, Mark Fichera, Brian Hutchison, Tom Hanks, Joshua Harto, Henny Russell, Rebekah Brockman."

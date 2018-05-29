@@ -3,7 +3,7 @@ tags: ['cabine', 'oscar']
 cinemaqui: "http://www.cinemaqui.com.br/silencio/"
 imdb: "0490215"
 date: "2017-02-22"
-categories: "movies"
+categories: [ "movies" ]
 title: "Silêncio"
 stars: "4/5"
 desc: "Silêncio. Silence (USA, 2016). Dirigido por Martin Scorsese. Escrito por Jay Cocks, Martin Scorsese, Shûsaku Endô. Com Andrew Garfield (Rodrigues), Adam Driver (Garupe), Liam Neeson (Ferreira), Tadanobu Asano (Interpreter), Ciarán Hinds (Father Valignano), Issei Ogata (Old Samurai / Inoue), Shin'ya Tsukamoto (Mokichi), Yoshi Oida (Ichizo), Yôsuke Kubozuka (Kichijiro)."

@@ -1,7 +1,7 @@
 ---
 imdb: "0109040"
 date: "2016-05-29"
-categories: "movies"
+categories: [ "movies" ]
 title: "Ace Ventura - Um Detetive Diferente"
 stars: "3/5"
 desc: "Ace Ventura - Um Detetive Diferente. Ace Ventura: Pet Detective (USA, 1994). Dirigido por Tom Shadyac. Escrito por Jack Bernstein, Jack Bernstein, Tom Shadyac, Jim Carrey. Com Jim Carrey, Courteney Cox, Sean Young, Tone Loc, Dan Marino, Noble Willingham, Troy Evans, Raynor Scheine, Udo Kier."

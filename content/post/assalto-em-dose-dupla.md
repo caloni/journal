@@ -1,7 +1,7 @@
 ---
 imdb: "1541160"
 date: "2011-11-28"
-categories: "movies"
+categories: [ "movies" ]
 title: "Assalto em Dose Dupla"
 stars: "3/5"
 desc: "Assalto em Dose Dupla. Flypaper (Germany, 2011). Dirigido por Rob Minkoff. Escrito por Jon Lucas, Scott Moore. Com Patrick Dempsey, Ashley Judd, Tim Blake Nelson, Mekhi Phifer, Matt Ryan, Jeffrey Tambor, John Ventimiglia, Pruitt Taylor Vince, Curtis Armstrong."

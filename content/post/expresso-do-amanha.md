@@ -1,7 +1,7 @@
 ---
 imdb: "1706620"
 date: "2016-01-13"
-categories: "movies"
+categories: [ "movies" ]
 title: "Expresso do Amanhã"
 stars: "4/5"
 desc: "Expresso do Amanhã. Snowpiercer (South Korea, 2013). Dirigido por Joon Ho Bong. Escrito por Joon Ho Bong, Kelly Masterson, Joon Ho Bong, Jacques Lob, Benjamin Legrand, Jean-Marc Rochette. Com Chris Evans, Kang-ho Song, Ed Harris, John Hurt, Tilda Swinton, Jamie Bell, Octavia Spencer, Ewen Bremner, Ah-sung Ko."

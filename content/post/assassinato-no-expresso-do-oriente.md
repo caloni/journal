@@ -2,7 +2,7 @@
 tags: ['cinema']
 imdb: "3402236"
 date: 2017-12-11T17:34:52
-categories: "movies"
+categories: [ "movies" ]
 title: "Assassinato no Expresso do Oriente"
 stars: "3/5"
 desc: "Assassinato no Expresso do Oriente. Murder on the Orient Express (USA, 2017). Dirigido por Kenneth Branagh. Escrito por Michael Green, Agatha Christie. Com Paapa Essiedu (Young Policeman), Yassine Zeroual (Young Boy), Asan N'Jie (Hotel Waiter), Michael Rouse (British Police Chief Inspector), Kenneth Branagh (Hercule Poirot), Elliot Levey (Rabbi), David Annen (Priest), Joseph Long (Imam), Andy Apollo (Armed Policeman), Hadley Fraser (British Military Escort), Daisy Ridley (Miss Mary Debenham), Leslie Odom Jr. (Dr. Arbuthnot), Ziad Abaza (Arab Shipmate), Nari Blair-Mangat (Waiter), Luke Brady (Waiter), Miltos Yerolemou (Old Turk Baker), Tom Bateman (Bouc), Kathryn Wilder (Prostitute), Gerard Horan (Aynesworth)."

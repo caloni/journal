@@ -1,7 +1,7 @@
 ---
 imdb: "0097239"
 date: "2013-07-11"
-categories: "movies"
+categories: [ "movies" ]
 title: "Conduzindo Miss Daisy"
 stars: "4/5"
 desc: "Conduzindo Miss Daisy. Driving Miss Daisy (USA, 1989). Dirigido por Bruce Beresford. Escrito por Alfred Uhry, Alfred Uhry. Com Morgan Freeman, Jessica Tandy, Dan Aykroyd, Patti LuPone, Esther Rolle, Joann Havrilla, William Hall Jr., Alvin M. Sugarman, Clarice F. Geigerman."

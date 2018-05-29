@@ -1,7 +1,7 @@
 ---
 imdb: "1843866"
 date: "2014-04-27"
-categories: "movies"
+categories: [ "movies" ]
 title: "Capitão América 2 O Soldado Invernal"
 stars: "3/5"
 desc: "Capitão América 2 O Soldado Invernal. Captain America: The Winter Soldier (USA, 2014). Dirigido por Anthony Russo, Joe Russo. Escrito por Christopher Markus, Stephen McFeely, Ed Brubaker, Joe Simon, Jack Kirby. Com Chris Evans, Samuel L. Jackson, Scarlett Johansson, Robert Redford, Sebastian Stan, Anthony Mackie, Cobie Smulders, Frank Grillo, Maximiliano Hernández."

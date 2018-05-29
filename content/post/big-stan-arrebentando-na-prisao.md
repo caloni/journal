@@ -1,7 +1,7 @@
 ---
 imdb: "0490086"
 date: "2010-04-04"
-categories: "movies"
+categories: [ "movies" ]
 title: "Big Stan Arrebentando na Prisão"
 stars: "3/5"
 desc: "Big Stan Arrebentando na Prisão. Big Stan (USA, 2007). Dirigido por Rob Schneider. Escrito por Josh Lieb. Com Rob Schneider, David Carradine, Jennifer Morrison, Scott Wilson, Richard Kind, Sally Kirkland, M. Emmet Walsh, Henry Gibson, Jackson Rathbone."

@@ -1,7 +1,7 @@
 ---
 imdb: "0101272"
 date: "2012-09-19"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Família Addams"
 stars: "3/5"
 desc: "A Família Addams. The Addams Family (USA, 1991). Dirigido por Barry Sonnenfeld. Escrito por Charles Addams, Caroline Thompson, Larry Wilson. Com Anjelica Huston, Raul Julia, Christopher Lloyd, Dan Hedaya, Elizabeth Wilson, Judith Malina, Carel Struycken, Dana Ivey, Paul Benedict."

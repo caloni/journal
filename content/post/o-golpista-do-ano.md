@@ -1,7 +1,7 @@
 ---
 imdb: "1045772"
 date: "2010-06-04"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Golpista do Ano"
 stars: "4/5"
 desc: "O Golpista do Ano. I Love You Phillip Morris (France, 2009). Dirigido por Glenn Ficarra, John Requa. Escrito por John Requa, Glenn Ficarra, Steve McVicker. Com Jim Carrey, Ewan McGregor, Leslie Mann, Rodrigo Santoro, Antoni Corone, Brennan Brown, Michael Mandell, Annie Golden, Marylouise Burke."

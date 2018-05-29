@@ -1,7 +1,7 @@
 ---
 imdb: "0166396"
 date: "2015-11-06"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Fortuna de Ned"
 stars: "4/5"
 desc: "A Fortuna de Ned. Waking Ned (UK, 1998). Dirigido por Kirk Jones. Escrito por Kirk Jones. Com Ian Bannen, David Kelly, Fionnula Flanagan, Susan Lynch, James Nesbitt, Paul Vaughan, Adrian Robinson, Maura O'Malley, Robert Hickey."

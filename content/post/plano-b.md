@@ -1,7 +1,7 @@
 ---
 imdb: "1212436"
 date: "2010-06-11"
-categories: "movies"
+categories: [ "movies" ]
 title: "Plano B"
 stars: "2/5"
 desc: "Plano B. The Back-up Plan (USA, 2010). Dirigido por Alan Poul. Escrito por Kate Angelo. Com Jennifer Lopez, Alex O'Loughlin, Michaela Watkins, Eric Christian Olsen, Anthony Anderson, Noureen DeWulf, Melissa McCarthy, Tom Bosley, Maribeth Monroe."

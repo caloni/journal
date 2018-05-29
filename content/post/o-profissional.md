@@ -1,7 +1,7 @@
 ---
 imdb: "0110413"
 date: "2015-03-23"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Profissional"
 stars: "5/5"
 desc: "O Profissional. Léon (France, 1994). Dirigido por Luc Besson. Escrito por Luc Besson. Com Jean Reno, Gary Oldman, Natalie Portman, Danny Aiello, Peter Appel, Willi One Blood, Don Creech, Keith A. Glascoe, Randolph Scott."

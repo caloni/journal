@@ -1,7 +1,7 @@
 ---
 imdb: "1200060"
 date: "2015-10-24"
-categories: "movies"
+categories: [ "movies" ]
 title: "The English Surgeon"
 stars: "4/5"
 desc: "The English Surgeon. The English Surgeon (UK, 2007). Dirigido por Geoffrey Smith. Com Henry Marsh."

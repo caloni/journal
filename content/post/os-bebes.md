@@ -1,7 +1,7 @@
 ---
 imdb: "1020938"
 date: "2011-05-01"
-categories: "movies"
+categories: [ "movies" ]
 title: "Bebês"
 stars: "4/5"
 desc: "Bebês. Bébé(s) (France, 2010). Dirigido por Thomas Balmès. Escrito por Alain Chabat, Thomas Balmès. Com Bayar, Hattie, Mari, Ponijao."

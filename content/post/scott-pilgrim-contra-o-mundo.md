@@ -1,7 +1,7 @@
 ---
 imdb: "0446029"
 date: "2011-05-16"
-categories: "movies"
+categories: [ "movies" ]
 title: "Scott Pilgrim Contra o Mundo"
 stars: "5/5"
 revision: [datetime.date(2013, 12, 28)]

@@ -1,7 +1,7 @@
 ---
 imdb: "4853102"
 date: "2016-08-07"
-categories: "movies"
+categories: [ "movies" ]
 title: "Batman: A Piada Mortal"
 stars: "3/5"
 desc: "Batman: A Piada Mortal. Batman: The Killing Joke (USA, 2016). Dirigido por Sam Liu. Escrito por Bob Kane, Bill Finger, Alan Moore, Brian Bolland, Brian Azzarello, Bill Finger, Bob Kane, Jerry Robinson. Com Kevin Conroy, Mark Hamill, Tara Strong, Ray Wise, John DiMaggio, Robin Atkin Downes, Brian George, JP Karliak, Andrew Kishino."

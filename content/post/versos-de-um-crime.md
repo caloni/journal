@@ -2,7 +2,7 @@
 tags: ['netflix']
 imdb: "1311071"
 date: "2016-09-10"
-categories: "movies"
+categories: [ "movies" ]
 title: "Versos de Um Crime"
 stars: "3/5"
 desc: "Versos de Um Crime. Kill Your Darlings (USA, 2013). Dirigido por John Krokidas. Escrito por Austin Bunn, Austin Bunn, John Krokidas. Com Daniel Radcliffe, Dane DeHaan, Michael C. Hall, Jack Huston, Ben Foster, David Cross, Jennifer Jason Leigh, Elizabeth Olsen, John Cullum."

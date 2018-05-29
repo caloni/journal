@@ -2,7 +2,7 @@
 tags: ['paulocoelho', 'westworld', 'series']
 imdb: "0475784"
 date: 2017-07-31T20:25:46
-categories: "blog"
+categories: [ "blog" ]
 title: "Westworld - Primeira Temporada (Revisita com algumas questões e Spoilers)"
 stars: "5/5"
 desc: "Westworld - Primeira Temporada (Revisita com algumas questões e Spoilers). Westworld (USA, 2016). Dirigido por Jonathan Nolan, Fred Toye. Escrito por Lisa Joy, Jonathan Nolan, Michael Crichton, Dan Dietz, Halley Wegryn Gross, Charles Yu. Com Evan Rachel Wood (Dolores Abernathy), Thandie Newton (Maeve Millay), James Marsden (Teddy Flood), Jeffrey Wright (Bernard Lowe), Ed Harris (Man in Black), Talulah Riley (Angela), Louis Herthum (Peter Abernathy), Anthony Hopkins (Dr. Robert Ford)."

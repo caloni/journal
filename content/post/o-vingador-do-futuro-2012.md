@@ -1,7 +1,7 @@
 ---
 imdb: "1386703"
 date: "2012-09-05"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Vingador do Futuro"
 stars: "3/5"
 desc: "O Vingador do Futuro. Total Recall (USA, 2012). Dirigido por Len Wiseman. Escrito por Kurt Wimmer, Mark Bomback, Ronald Shusett, Dan O'Bannon, Jon Povill, Kurt Wimmer, Ronald Shusett, Dan O'Bannon, Gary Goldman. Com Colin Farrell, Kate Beckinsale, Jessica Biel, Bryan Cranston, Bokeem Woodbine, Bill Nighy, John Cho, Will Yun Lee, Milton Barnes."

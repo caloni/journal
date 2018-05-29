@@ -1,7 +1,7 @@
 ---
 imdb: "0268126"
 date: "2012-06-18"
-categories: "movies"
+categories: [ "movies" ]
 title: "Adaptação"
 stars: "5/5"
 desc: "Adaptação. Adaptation. (USA, 2002). Dirigido por Spike Jonze. Escrito por Susan Orlean, Charlie Kaufman, Donald Kaufman. Com Nicolas Cage, Tilda Swinton, Meryl Streep, Chris Cooper, Jay Tavare, Litefoot, Roger Willie, Jim Beaver, Cara Seymour."

@@ -1,7 +1,7 @@
 ---
 imdb: "1322312"
 date: "2010-09-10"
-categories: "movies"
+categories: [ "movies" ]
 title: "Amor à Distância"
 stars: "3/5"
 desc: "Amor à Distância. Going the Distance (USA, 2010). Dirigido por Nanette Burstein. Escrito por Geoff LaTulippe. Com Drew Barrymore, Justin Long, Charlie Day, Jason Sudeikis, Christina Applegate, Ron Livingston, Oliver Jackson-Cohen, Jim Gaffigan, Natalie Morales."

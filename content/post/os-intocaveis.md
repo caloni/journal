@@ -1,7 +1,7 @@
 ---
 imdb: "0094226"
 date: "2010-11-20"
-categories: "movies"
+categories: [ "movies" ]
 title: "Os Intocáveis"
 stars: "5/5"
 desc: "Os Intocáveis. The Untouchables (USA, 1987). Dirigido por Brian De Palma. Escrito por Oscar Fraley, Eliot Ness, David Mamet. Com Kevin Costner, Sean Connery, Charles Martin Smith, Andy Garcia, Robert De Niro, Richard Bradford, Jack Kehoe, Brad Sullivan, Billy Drago."

@@ -2,7 +2,7 @@
 tags: ['cabine']
 imdb: "4291600"
 date: 2017-07-31T17:12:44
-categories: "movies"
+categories: [ "movies" ]
 title: "Lady Macbeth"
 stars: "4/5"
 desc: "Lady Macbeth. Lady Macbeth (UK, 2016). Dirigido por William Oldroyd. Escrito por Nikolai Leskov, Alice Birch. Com Florence Pugh (Katherine), Cosmo Jarvis (Sebastian), Paul Hilton (Alexander), Naomi Ackie (Anna), Christopher Fairbank (Boris), Golda Rosheuvel (Agnes), Anton Palmer (Teddy), Rebecca Manley (Mary), Fleur Houdijk (Tessa)."

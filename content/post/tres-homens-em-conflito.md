@@ -1,7 +1,7 @@
 ---
 imdb: "0060196"
 date: "2010-12-20"
-categories: "movies"
+categories: [ "movies" ]
 title: "Três Homens em Conflito"
 stars: "5/5"
 desc: "Três Homens em Conflito. Il buono, il brutto, il cattivo. (Italy, 1966). Dirigido por Sergio Leone. Escrito por Luciano Vincenzoni, Sergio Leone, Agenore Incrocci, Furio Scarpelli, Luciano Vincenzoni, Sergio Leone, Mickey Knox. Com Eli Wallach, Clint Eastwood, Lee Van Cleef, Aldo Giuffrè, Luigi Pistilli, Rada Rassimov, Enzo Petito, Claudio Scarchilli, John Bartha."

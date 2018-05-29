@@ -1,7 +1,7 @@
 ---
 imdb: "1583421"
 date: "2013-04-04"
-categories: "movies"
+categories: [ "movies" ]
 title: "G.I. Joe Retaliação"
 stars: "3/5"
 desc: "G.I. Joe Retaliação. G.I. Joe: Retaliation (USA, 2013). Dirigido por Jon M. Chu. Escrito por Rhett Reese, Paul Wernick. Com Dwayne Johnson, Jonathan Pryce, Byung-hun Lee, Elodie Yung, Ray Stevenson, D.J. Cotrona, Adrianne Palicki, Channing Tatum, Ray Park."

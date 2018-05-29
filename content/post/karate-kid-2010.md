@@ -1,7 +1,7 @@
 ---
 imdb: "1155076"
 date: "2010-08-27"
-categories: "movies"
+categories: [ "movies" ]
 title: "Karate Kid"
 stars: "3/5"
 desc: "Karate Kid. The Karate Kid (USA, 2010). Dirigido por Harald Zwart. Escrito por Christopher Murphey, Robert Mark Kamen. Com Jaden Smith, Jackie Chan, Taraji P. Henson, Wenwen Han, Rongguang Yu, Zhensu Wu, Zhiheng Wang, Zhenwei Wang, Jared Minns."

@@ -1,7 +1,7 @@
 ---
 imdb: "1213663"
 date: "2016-03-19"
-categories: "movies"
+categories: [ "movies" ]
 title: "Heróis de Ressaca"
 stars: "3/5"
 desc: "Heróis de Ressaca. The World's End (UK, 2013). Dirigido por Edgar Wright. Escrito por Simon Pegg, Edgar Wright. Com Thomas Law, Zachary Bailess, Jasper Levine, James Tarpey, Luke Bromley, Sophie Evans, Samantha White, Rose Reynolds, Richard Hadfield."

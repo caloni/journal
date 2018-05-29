@@ -1,7 +1,7 @@
 ---
 imdb: "0240468"
 date: "2015-08-23"
-categories: "movies"
+categories: [ "movies" ]
 title: "Kung Pow - O Mestre da Kung-Fu-São"
 stars: "2/5"
 desc: "Kung Pow - O Mestre da Kung-Fu-São. Kung Pow: Enter the Fist (USA, 2002). Dirigido por Steve Oedekerk. Escrito por Steve Oedekerk. Com Steve Oedekerk, Fei Lung, Leo Lee, Ling-Ling Hsieh, Lin Yan, Chia Yung Liu, Hui Lou Chen, Chi Ma, Jennifer Tung."

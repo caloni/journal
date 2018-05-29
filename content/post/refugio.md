@@ -2,7 +2,7 @@
 tags: ['cabine']
 imdb: "4163644"
 date: "2016-09-30"
-categories: "movies"
+categories: [ "movies" ]
 title: "Refúgio"
 stars: "4/5"
 desc: "Refúgio. Comme un avion (France, 2015). Dirigido por Bruno Podalydès. Escrito por Bruno Podalydès. Com Bruno Podalydès (Michel), Sandrine Kiberlain (Rachelle), Agnès Jaoui (Laëtitia), Vimala Pons (Mila), Denis Podalydès (Rémi), Michel Vuillermoz (Christophe), Jean-Noël Brouté (Damien), Pierre Arditi (Le pêcheur qui ressemble à Pierre Arditi), Noémie Lvovsky (la voisine Mme Pirchtate)."

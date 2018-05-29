@@ -1,7 +1,7 @@
 ---
 imdb: "0435761"
 date: "2010-06-18"
-categories: "movies"
+categories: [ "movies" ]
 title: "Toy Story 3"
 stars: "5/5"
 desc: "Toy Story 3. Toy Story 3 (USA, 2010). Dirigido por Lee Unkrich. Escrito por John Lasseter, Andrew Stanton, Lee Unkrich, Michael Arndt. Com Tom Hanks, Tim Allen, Joan Cusack, Ned Beatty, Don Rickles, Michael Keaton, Wallace Shawn, John Ratzenberger, Estelle Harris."

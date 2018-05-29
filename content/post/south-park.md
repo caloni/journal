@@ -2,7 +2,7 @@
 tags: ['netflix', 'series', 'southpark']
 imdb: "0121955"
 date: "2015-07-28"
-categories: "series"
+categories: [ "series" ]
 title: "South Park"
 stars: "5/5"
 revision: [datetime.date(2015, 9, 15)]

@@ -1,7 +1,7 @@
 ---
 imdb: "0107207"
 date: "2016-02-27"
-categories: "movies"
+categories: [ "movies" ]
 title: "Em Nome do Pai"
 stars: "5/5"
 desc: "Em Nome do Pai. In the Name of the Father (Ireland, 1993). Dirigido por Jim Sheridan. Escrito por Gerry Conlon, Terry George, Jim Sheridan. Com Alison Crosbie, Daniel Day-Lewis, Philip King, Emma Thompson, Nye Heron, Anthony Brophy, Frankie McCafferty, Paul Warriner, Julian Walsh."

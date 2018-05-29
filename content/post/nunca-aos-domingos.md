@@ -1,7 +1,7 @@
 ---
 imdb: "0054198"
 date: "2015-08-13"
-categories: "movies"
+categories: [ "movies" ]
 title: "Nunca Aos Domingos"
 stars: "3/5"
 desc: "Nunca Aos Domingos. Pote tin Kyriaki (Greece, 1960). Dirigido por Jules Dassin. Escrito por Jules Dassin. Com Melina Mercouri, Jules Dassin, Giorgos Foundas, Titos Vandis, Mitsos Ligizos, Despo Diamantidou, Dimos Starenios, Dimitris Papamichael, Alexis Solomos."

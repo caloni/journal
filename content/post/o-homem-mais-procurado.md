@@ -1,7 +1,7 @@
 ---
 imdb: "1972571"
 date: "2015-01-17"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Homem Mais Procurado"
 stars: "3/5"
 desc: "O Homem Mais Procurado. A Most Wanted Man (UK, 2014). Dirigido por Anton Corbijn. Escrito por Andrew Bovell, John le Carré, Stephen Cornwell. Com Grigoriy Dobrygin, Philip Seymour Hoffman, Homayoun Ershadi, Mehdi Dehbi, Neil Malik Abdullah, Nina Hoss, Daniel Brühl, Vicky Krieps, Kostja Ullmann."

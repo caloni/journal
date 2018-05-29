@@ -1,7 +1,7 @@
 ---
 imdb: "0445922"
 date: "2013-09-28"
-categories: "movies"
+categories: [ "movies" ]
 title: "Across the Universe"
 stars: "5/5"
 desc: "Across the Universe. Across the Universe (USA, 2007). Dirigido por Julie Taymor. Escrito por Dick Clement, Ian La Frenais, Julie Taymor, Dick Clement, Ian La Frenais. Com Evan Rachel Wood, Jim Sturgess, Joe Anderson, Dana Fuchs, Martin Luther, T.V. Carpio, Spencer Liff, Lisa Hogg, Nicholas Lumley."

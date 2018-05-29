@@ -1,7 +1,7 @@
 ---
 imdb: "0072684"
 date: "2013-10-18"
-categories: "movies"
+categories: [ "movies" ]
 title: "Barry Lyndon"
 stars: "5/5"
 desc: "Barry Lyndon. Barry Lyndon (UK, 1975). Dirigido por Stanley Kubrick. Escrito por Stanley Kubrick, William Makepeace Thackeray. Com Ryan O'Neal, Marisa Berenson, Patrick Magee, Hardy Krüger, Steven Berkoff, Gay Hamilton, Marie Kean, Diana Körner, Murray Melvin."

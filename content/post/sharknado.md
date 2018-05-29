@@ -1,7 +1,7 @@
 ---
 imdb: "2724064"
 date: "2014-03-01"
-categories: "movies"
+categories: [ "movies" ]
 title: "Sharknado"
 stars: "1/5"
 desc: "Sharknado. Sharknado (USA, 2013). Dirigido por Anthony C. Ferrante. Escrito por Thunder Levin. Com Ian Ziering, Tara Reid, John Heard, Cassie Scerbo, Jaason Simmons, Alex Arleo, Neil H. Berkow, Heather Jocelyn Blair, Sumiko Braun."

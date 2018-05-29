@@ -1,7 +1,7 @@
 ---
 imdb: "0433035"
 date: "2014-04-16"
-categories: "movies"
+categories: [ "movies" ]
 title: "Gigantes de Aço"
 stars: "4/5"
 desc: "Gigantes de Aço. Real Steel (USA, 2011). Dirigido por Shawn Levy. Escrito por John Gatins, Dan Gilroy, Jeremy Leven, Richard Matheson. Com Hugh Jackman, Dakota Goyo, Evangeline Lilly, Anthony Mackie, Kevin Durand, Hope Davis, James Rebhorn, Karl Yune, Olga Fonda."

@@ -1,7 +1,7 @@
 ---
 imdb: "2397619"
 date: "2015-03-23"
-categories: "movies"
+categories: [ "movies" ]
 title: "Woody Allen: A Documentary"
 stars: "3/5"
 desc: "Woody Allen: A Documentary. Woody Allen: A Documentary (USA, 2012). Dirigido por Robert B. Weide. Escrito por Robert B. Weide. Com Woody Allen, Letty Aronson, Marshall Brickman, Josh Brolin, Dick Cavett, Penélope Cruz, John Cusack, Larry David, F.X. Feeney."

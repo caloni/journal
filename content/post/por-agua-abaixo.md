@@ -1,7 +1,7 @@
 ---
 imdb: "0424095"
 date: "2012-10-12"
-categories: "movies"
+categories: [ "movies" ]
 title: "Por Água Abaixo"
 stars: "4/5"
 desc: "Por Água Abaixo. Flushed Away (UK, 2006). Dirigido por David Bowers, Sam Fell. Escrito por Dick Clement, Ian La Frenais, Christopher Lloyd, Joe Keenan, William Davies, Sam Fell, Peter Lord, Dick Clement, Ian La Frenais. Com Hugh Jackman, Kate Winslet, Ian McKellen, Jean Reno, Bill Nighy, Andy Serkis, Shane Richie, Kathy Burke, David Suchet."

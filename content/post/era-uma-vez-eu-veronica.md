@@ -1,7 +1,7 @@
 ---
 imdb: "1663661"
 date: "2013-01-10"
-categories: "movies"
+categories: [ "movies" ]
 title: "Era Uma Vez Eu Verônica"
 stars: "3/5"
 desc: "Era Uma Vez Eu Verônica. Era Uma Vez Eu, Verônica (Brazil, 2012). Dirigido por Marcelo Gomes. Escrito por Marcelo Gomes. Com Hermila Guedes, Júlio Rocha, João Miguel, Maeve Jinkings, Anthero Montenegro, W.J. Solha, Dandara Pagu, Karina Buhr, Madalena Accioly."

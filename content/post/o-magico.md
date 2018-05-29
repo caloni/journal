@@ -1,7 +1,7 @@
 ---
 imdb: "0775489"
 date: "2010-10-27"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Mágico"
 stars: "3/5"
 desc: "O Mágico. L'illusionniste (France, 2010). Dirigido por Sylvain Chomet. Escrito por Sylvain Chomet, Jacques Tati. Com Jean-Claude Donda, Eilidh Rankin, Duncan MacNeil, Raymond Mearns, James T. Muir, Tom Urie, Paul Bandey."

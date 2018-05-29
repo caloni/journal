@@ -2,7 +2,7 @@
 tags: ['netflix', 'series']
 imdb: "0426769"
 date: "2016-10-16"
-categories: "blog"
+categories: [ "blog" ]
 title: "Peppa Pig"
 stars: "3/5"
 desc: "Peppa Pig. Peppa Pig (episódios diversos) (UK, 2004). Dirigido por Mark Baker, Neville Astley, Mark Baker, Phil Hall, Joris van Hulzen. Escrito por Neville Astley, Phil Hall, Mark Baker, Mark Baker, Sam Morrison, Sarah Ann Kennedy, Alison Snowden. Com John Sparkes (Narrator / ...), Alice May (George Pig / ...), Morwenna Banks (Mummy Pig / ...), Richard Ridings (Daddy Pig), Oliver May (George Pig / ...), Lily Snowden-Fine (Peppa Pig), Meg Hall (Suzy Sheep)."

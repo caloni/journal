@@ -1,7 +1,7 @@
 ---
 imdb: "2224026"
 date: "2015-09-25"
-categories: "movies"
+categories: [ "movies" ]
 title: "Cada Um Na Sua Casa"
 stars: "4/5"
 desc: "Cada Um Na Sua Casa. Home (USA, 2015). Dirigido por Tim Johnson. Escrito por Tom J. Astle, Matt Ember, Adam Rex. Com Jim Parsons, Rihanna, Steve Martin, Jennifer Lopez, Matt Jones, Brian Stepanek, April Lawrence, Stephen Kearin, Lisa Stewart."

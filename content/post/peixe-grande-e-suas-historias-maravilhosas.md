@@ -1,7 +1,7 @@
 ---
 imdb: "0319061"
 date: "2013-12-30"
-categories: "movies"
+categories: [ "movies" ]
 title: "Peixe Grande e Suas Histórias Maravilhosas"
 stars: "4/5"
 desc: "Peixe Grande e Suas Histórias Maravilhosas. Big Fish (USA, 2003). Dirigido por Tim Burton. Escrito por Daniel Wallace, John August. Com Ewan McGregor, Albert Finney, Billy Crudup, Jessica Lange, Helena Bonham Carter, Alison Lohman, Robert Guillaume, Marion Cotillard, Matthew McGrory."

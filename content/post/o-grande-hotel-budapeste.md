@@ -1,7 +1,7 @@
 ---
 imdb: "2278388"
 date: "2015-01-18"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Grande Hotel Budapeste"
 stars: "4/5"
 desc: "O Grande Hotel Budapeste. The Grand Budapest Hotel (USA, 2014). Dirigido por Wes Anderson. Escrito por Stefan Zweig, Wes Anderson, Wes Anderson, Hugo Guinness. Com Ralph Fiennes, F. Murray Abraham, Mathieu Amalric, Adrien Brody, Willem Dafoe, Jeff Goldblum, Harvey Keitel, Jude Law, Bill Murray."

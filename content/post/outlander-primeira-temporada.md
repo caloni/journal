@@ -2,7 +2,7 @@
 tags: ['netflix', 'series', 'outlander']
 imdb: "3006802"
 date: 2017-07-19T00:47:55
-categories: "series"
+categories: [ "series" ]
 title: "Outlander - Primeira Temporada"
 stars: "4/5"
 desc: "Outlander - Primeira Temporada. Outlander (USA, 2014). Dirigido por Metin HÃ¼seyin, Anna Foerster, Brian Kelly, Mike Barker, Philip John, Brendan Maher, John Dahl, Richard Clark, Douglas Mackinnon. Escrito por Ronald D. Moore, Diana Gabaldon, Ira Steven Behr, Toni Graphia, Anne Kenney, Matthew B. Roberts. Com Caitriona Balfe (Claire Randall), Sam Heughan (Jamie Fraser), Duncan Lacroix (Murtagh Fraser), Tobias Menzies (Jack Randall / ...), Grant O'Rourke (Rupert MacKenzie), Graham McTavish (Dougal MacKenzie), Stephen Walters (Angus Mhor)."

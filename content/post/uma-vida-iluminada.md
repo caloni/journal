@@ -1,7 +1,7 @@
 ---
 imdb: "0404030"
 date: "2012-07-31"
-categories: "movies"
+categories: [ "movies" ]
 title: "Uma Vida Iluminada"
 stars: "4/5"
 desc: "Uma Vida Iluminada. Everything Is Illuminated (USA, 2005). Dirigido por Liev Schreiber. Escrito por Jonathan Safran Foer, Liev Schreiber. Com Eugene Hutz, Elijah Wood, Jonathan Safran Foer, Jana Hrabetova, Stephen Samudovsky, Ljubomir Dezera, Oleksandr Choroshko, Gil Kazimirov, Zuzana Hodkova."

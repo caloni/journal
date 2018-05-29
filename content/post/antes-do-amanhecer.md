@@ -1,7 +1,7 @@
 ---
 imdb: "0112471"
 date: "2011-12-04"
-categories: "movies"
+categories: [ "movies" ]
 title: "Antes do Amanhecer"
 stars: "5/5"
 desc: "Antes do Amanhecer. Before Sunrise (USA, 1995). Dirigido por Richard Linklater. Escrito por Richard Linklater, Kim Krizan. Com Ethan Hawke, Julie Delpy, Andrea Eckert, Hanno Pöschl, Karl Bruckschwaiger, Tex Rubinowitz, Erni Mangold, Dominik Castell, Haymon Maria Buttinger."

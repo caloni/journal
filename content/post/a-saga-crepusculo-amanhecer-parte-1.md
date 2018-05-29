@@ -1,7 +1,7 @@
 ---
 imdb: "1324999"
 date: "2012-11-17"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Saga Crepúsculo Amanhecer Parte 1"
 stars: "2/5"
 desc: "A Saga Crepúsculo Amanhecer Parte 1. The Twilight Saga: Breaking Dawn - Part 1 (USA, 2011). Dirigido por Bill Condon. Escrito por Melissa Rosenberg, Stephenie Meyer. Com Taylor Lautner, Gil Birmingham, Billy Burke, Sarah Clarke, Ty Olsson, Kristen Stewart, Ashley Greene, Jackson Rathbone, Peter Facinelli."

@@ -1,7 +1,7 @@
 ---
 imdb: "1027718"
 date: "2010-09-24"
-categories: "movies"
+categories: [ "movies" ]
 title: "Wall Street O Dinheiro Nunca Dorme"
 stars: "4/5"
 desc: "Wall Street O Dinheiro Nunca Dorme. Wall Street: Money Never Sleeps (USA, 2010). Dirigido por Oliver Stone. Escrito por Allan Loeb, Stephen Schiff, Stanley Weiser, Oliver Stone. Com Richard Stratton, Harry Kerrigan, Michael Douglas, Carey Mulligan, Shia LaBeouf, Sunil Hirani, Maria Bartiromo, Austin Pendleton, Thomas Belesis."

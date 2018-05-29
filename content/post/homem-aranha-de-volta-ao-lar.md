@@ -2,7 +2,7 @@
 tags: ['cinema', 'dublado', 'mcu', 'spiderman']
 imdb: "2250912"
 date: "2017-07-09"
-categories: "movies"
+categories: [ "movies" ]
 title: "Homem-Aranha: De Volta ao Lar"
 stars: "3/5"
 revison: ['2017-08-03']

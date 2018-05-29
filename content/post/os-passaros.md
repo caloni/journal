@@ -1,7 +1,7 @@
 ---
 imdb: "0056869"
 date: "2011-12-20"
-categories: "movies"
+categories: [ "movies" ]
 title: "Os Pássaros"
 stars: "5/5"
 desc: "Os Pássaros. The Birds (USA, 1963). Dirigido por Alfred Hitchcock. Escrito por Daphne Du Maurier, Evan Hunter. Com Tippi Hedren, Suzanne Pleshette, Rod Taylor, Jessica Tandy, Veronica Cartwright, Ethel Griffies, Charles McGraw, Doreen Lang, Ruth McDevitt."

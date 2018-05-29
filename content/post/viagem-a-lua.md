@@ -2,7 +2,7 @@
 tags: ['curtas']
 imdb: "0000417"
 date: "2011-09-01"
-categories: "blog"
+categories: [ "blog" ]
 title: "Viagem à Lua"
 stars: "4/5"
 desc: "Viagem à Lua. Le voyage dans la lune (France, 1902). Dirigido por Georges Méliès. Escrito por Georges Méliès, Jules Verne, H.G. Wells. Com François Lallement, Jules-Eugène Legris, Victor André, Bleuette Bernon, Brunnet, Jeanne d'Alcy, Henri Delannoy, Depierre, Farjaut."

@@ -1,7 +1,7 @@
 ---
 imdb: "0219822"
 date: "2014-01-19"
-categories: "movies"
+categories: [ "movies" ]
 title: "Natureza Quase Humana"
 stars: "4/5"
 desc: "Natureza Quase Humana. Human Nature (France, 2001). Dirigido por Michel Gondry. Escrito por Charlie Kaufman. Com Patricia Arquette, Rhys Ifans, Tim Robbins, Ken Magee, Sy Richardson, David Warshofsky, Hilary Duff, Stanley DeSantis, Peter Dinklage."

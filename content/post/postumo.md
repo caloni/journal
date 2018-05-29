@@ -2,7 +2,7 @@
 tags: ['netflix']
 imdb: "2463154"
 date: 2017-11-20T01:12:07
-categories: "movies"
+categories: [ "movies" ]
 title: "Póstumo"
 stars: "2/5"
 desc: "Póstumo. Posthumous (USA, 2014). Dirigido por Lulu Wang. Escrito por Lulu Wang. Com Jack Huston (Liam Price), Brit Marling (McKenzie Grain), Tom Schilling (Ben), Lambert Wilson (Daniel S. Volpe), Alexander Fehling (Erik Alder), Nikolai Kinski (Kaleb Moo), Martin Stange (Detective), Oleg Tikhomirov (Waiter), Joost Siedhoff (Landlord)."

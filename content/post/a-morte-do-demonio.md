@@ -1,7 +1,7 @@
 ---
 imdb: "1288558"
 date: "2013-05-09"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Morte do Demônio"
 stars: "4/5"
 desc: "A Morte do Demônio. Evil Dead (USA, 2013). Dirigido por Fede Alvarez. Escrito por Fede Alvarez, Rodo Sayagues, Sam Raimi. Com Jane Levy, Shiloh Fernandez, Lou Taylor Pucci, Jessica Lucas, Elizabeth Blackmore, Phoenix Connolly, Jim McLarty, Stephen Butterworth, Karl Willetts."

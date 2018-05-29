@@ -1,7 +1,7 @@
 ---
 imdb: "1621039"
 date: "2014-08-15"
-categories: "movies"
+categories: [ "movies" ]
 title: "Free Birds"
 stars: "3/5"
 desc: "Free Birds. Free Birds (USA, 2013). Dirigido por Jimmy Hayward. Escrito por Scott Mosier, Jimmy Hayward, David I. Stern, John J. Strauss. Com Owen Wilson, Woody Harrelson, Amy Poehler, George Takei, Colm Meaney, Keith David, Dan Fogler, Jimmy Hayward, Kaitlyn Maher."

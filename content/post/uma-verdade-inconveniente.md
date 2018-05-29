@@ -1,7 +1,7 @@
 ---
 imdb: "0497116"
 date: "2015-12-06"
-categories: "movies"
+categories: [ "movies" ]
 title: "Uma Verdade Inconveniente"
 stars: "4/5"
 desc: "Uma Verdade Inconveniente. An Inconvenient Truth (USA, 2006). Dirigido por Davis Guggenheim. Com Al Gore, Billy West, George Bush, George W. Bush, Ronald Reagan."

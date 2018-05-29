@@ -1,7 +1,7 @@
 ---
 imdb: "2156927"
 date: "2013-02-04"
-categories: "movies"
+categories: [ "movies" ]
 title: "País do Desejo"
 stars: "2/5"
 desc: "País do Desejo. País do Desejo (Brazil, 2012). Dirigido por Paulo Caldas. Escrito por Paulo Caldas, Pedro Severien, Amin Stepple. Com Fábio Assunção, Gabriel Braga Nunes, Nicolau Breyner, Germano Haiut, Maria Padilha."

@@ -2,7 +2,7 @@
 tags: ['netflix', 'series']
 imdb: "3613454"
 date: "2015-09-19"
-categories: "series"
+categories: [ "series" ]
 title: "Terror in Resonance"
 stars: "3/5"
 desc: "Terror in Resonance. Zankyo no Terror (Japan, 2014). Dirigido por Shinichirô Watanabe, Kazuto Nakazawa. Com Kaito Ishikawa, Soma Saito, Shunsuke Sakuya, Atsumi Tanezaki, Megumi Han."

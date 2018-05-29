@@ -1,7 +1,7 @@
 ---
 imdb: "0427392"
 date: "2014-01-11"
-categories: "movies"
+categories: [ "movies" ]
 title: "Invasores"
 stars: "4/5"
 desc: "Invasores. The Invasion (USA, 2007). Dirigido por Oliver Hirschbiegel, James McTeigue. Escrito por David Kajganich, Jack Finney. Com Nicole Kidman, Daniel Craig, Jeremy Northam, Jackson Bond, Jeffrey Wright, Veronica Cartwright, Josef Sommer, Celia Weston, Roger Rees."

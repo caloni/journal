@@ -1,7 +1,7 @@
 ---
 imdb: "0234215"
 date: "2016-05-06"
-categories: "movies"
+categories: [ "movies" ]
 title: "Matrix Reloaded"
 stars: "4/5"
 desc: "Matrix Reloaded. The Matrix Reloaded (USA, 2003). Dirigido por Lana Wachowski, Lilly Wachowski. Escrito por Lilly Wachowski, Lana Wachowski, Lilly Wachowski, Lana Wachowski. Com Ray Anthony, Christine Anu, Andy Arness, Alima Ashton-Sheibu, Helmut Bakaitis, Steve Bastoni, Don Battee, Monica Bellucci, Daniel Bernhardt."

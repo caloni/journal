@@ -1,7 +1,7 @@
 ---
 imdb: "1731141"
 date: "2014-06-21"
-categories: "movies"
+categories: [ "movies" ]
 title: "Enders Game O Jogo do Exterminador"
 stars: "3/5"
 desc: "Enders Game O Jogo do Exterminador. Ender's Game (USA, 2013). Dirigido por Gavin Hood. Escrito por Gavin Hood, Orson Scott Card. Com Asa Butterfield, Harrison Ford, Hailee Steinfeld, Abigail Breslin, Ben Kingsley, Viola Davis, Aramis Knight, Suraj Partha, Moises Arias."

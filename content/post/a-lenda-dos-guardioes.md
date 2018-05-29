@@ -1,7 +1,7 @@
 ---
 imdb: "1219342"
 date: "2010-08-08"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Lenda dos Guardiões"
 stars: "2/5"
 desc: "A Lenda dos Guardiões. Legend of the Guardians: The Owls of Ga'Hoole (USA, 2010). Dirigido por Zack Snyder. Escrito por John Orloff, Emil Stern, Kathryn Lasky. Com Emily Barclay, Abbie Cornish, Essie Davis, Adrienne DeFaria, Joel Edgerton, Deborra-Lee Furness, Sacha Horler, Bill Hunter, Ryan Kwanten."

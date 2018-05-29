@@ -1,7 +1,7 @@
 ---
 imdb: "0371746"
 date: "2015-07-30"
-categories: "movies"
+categories: [ "movies" ]
 title: "Homem de Ferro"
 stars: "4/5"
 desc: "Homem de Ferro. Iron Man (USA, 2008). Dirigido por Jon Favreau. Escrito por Mark Fergus, Hawk Ostby, Art Marcum, Matt Holloway, Stan Lee, Don Heck, Larry Lieber, Jack Kirby. Com Robert Downey Jr., Terrence Howard, Jeff Bridges, Gwyneth Paltrow, Leslie Bibb, Shaun Toub, Faran Tahir, Clark Gregg, Bill Smitrovich."

@@ -1,7 +1,7 @@
 ---
 imdb: "1486834"
 date: "2015-02-14"
-categories: "movies"
+categories: [ "movies" ]
 title: "Será Que?"
 stars: "4/5"
 desc: "Será Que?. What If (Ireland, 2013). Dirigido por Michael Dowse. Escrito por Elan Mastai, T.J. Dawe, Michael Rinaldi. Com Daniel Radcliffe, Zoe Kazan, Megan Park, Adam Driver, Mackenzie Davis, Rafe Spall, Lucius Hoyos, Jemima Rooper, Tommie-Amber Pirie."

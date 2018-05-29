@@ -1,7 +1,7 @@
 ---
 imdb: "0363547"
 date: "2015-02-14"
-categories: "movies"
+categories: [ "movies" ]
 title: "Madrugada dos Mortos"
 stars: "5/5"
 desc: "Madrugada dos Mortos. Dawn of the Dead (USA, 2004). Dirigido por Zack Snyder. Escrito por George A. Romero, James Gunn. Com Sarah Polley, Ving Rhames, Jake Weber, Mekhi Phifer, Ty Burrell, Michael Kelly, Kevin Zegers, Michael Barry, Lindy Booth."

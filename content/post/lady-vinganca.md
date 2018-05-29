@@ -1,7 +1,7 @@
 ---
 imdb: "0451094"
 date: "2015-07-14"
-categories: "movies"
+categories: [ "movies" ]
 title: "Lady Vingança"
 stars: "4/5"
 desc: "Lady Vingança. Chinjeolhan geumjassi (South Korea, 2005). Dirigido por Chan-wook Park. Escrito por Seo-Gyeong Jeong, Chan-wook Park. Com Yeong-ae Lee, Min-sik Choi, Shi-hoo Kim, Yea-young Kwon, Tony Barry, Anne Cordiner, Su-hee Go, Hye-jeong Kang, Bu-seon Kim."

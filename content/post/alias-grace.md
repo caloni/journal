@@ -2,7 +2,7 @@
 tags: ['netflix']
 imdb: "1034007"
 date: 2017-11-12T20:25:38
-categories: "blog"
+categories: [ "blog" ]
 title: "Alias Grace"
 stars: "3/5"
 desc: "Alias Grace. Alias Grace (Canada, 2017). Dirigido por Mary Harron. Escrito por Margaret Atwood, Sarah Polley. Com Sarah Gadon (Grace Marks), Edward Holcroft (Dr. Simon Jordan), Rebecca Liddiard (Mary Whitney), Zachary Levi (Jeremiah Pontelli), Kerr Logan (James McDermott), David Cronenberg (Reverend Verringer / ...), Paul Gross (Thomas Kinnear), Anna Paquin (Nancy Montgomery), Sarah Manninen (Mrs. Humphrey)."

@@ -1,7 +1,7 @@
 ---
 imdb: "1490017"
 date: "2015-10-04"
-categories: "movies"
+categories: [ "movies" ]
 title: "Uma Aventura LEGO"
 stars: "5/5"
 revision: [datetime.date(2014, 3, 3), datetime.date(2015, 10, 4), datetime.date(2016, 7, 28)]

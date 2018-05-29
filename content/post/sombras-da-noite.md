@@ -1,7 +1,7 @@
 ---
 imdb: "1077368"
 date: "2012-06-27"
-categories: "movies"
+categories: [ "movies" ]
 title: "Sombras da Noite"
 stars: "3/5"
 desc: "Sombras da Noite. Dark Shadows (USA, 2012). Dirigido por Tim Burton. Escrito por Seth Grahame-Smith, John August, Seth Grahame-Smith, Dan Curtis. Com Johnny Depp, Michelle Pfeiffer, Helena Bonham Carter, Eva Green, Jackie Earle Haley, Jonny Lee Miller, Bella Heathcote, Chloë Grace Moretz, Gulliver McGrath."

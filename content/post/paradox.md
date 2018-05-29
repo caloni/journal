@@ -2,7 +2,7 @@
 tags: ['netflix']
 imdb: "4540434"
 date: "2017-04-01"
-categories: "movies"
+categories: [ "movies" ]
 title: "Paradox"
 stars: "3/5"
 desc: "Paradox. Paradox (USA, 2016). Dirigido por Michael Hurst. Escrito por Michael Hurst. Com Zoë Bell (Gale), Malik Yoba (Mr. Landau), Adam Huss (Jim), Bjørn Alexander (Lewis Aberricki), Brian Flaccus (William Wishman), Michael Aaron Milligan (Randy Fraker), Steve Suh (Van Lang), Darren Bailey (SWAT Team), Nick Benseman (SWAT Team)."

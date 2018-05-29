@@ -1,7 +1,7 @@
 ---
 imdb: "1594460"
 date: "2010-10-23"
-categories: "movies"
+categories: [ "movies" ]
 title: "Suécia Hoje"
 stars: "3/5"
 desc: "Suécia Hoje. Den nya tiden (Sweden, 2010). Dirigido por Peter Magnusson. Escrito por Peter Magnusson. Com Nana Heilmann, Per Johansson, Nils Tomas Labba, Christos Neo, Patrik Olofsson, Håkan Thornell, Frida Torgeby, Markus Torgeby."

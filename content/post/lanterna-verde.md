@@ -1,7 +1,7 @@
 ---
 imdb: "1133985"
 date: "2011-08-29"
-categories: "movies"
+categories: [ "movies" ]
 title: "Lanterna Verde"
 stars: "3/5"
 desc: "Lanterna Verde. Green Lantern (USA, 2011). Dirigido por Martin Campbell. Escrito por Greg Berlanti, Michael Green, Marc Guggenheim, Michael Goldenberg, Greg Berlanti, Michael Green, Marc Guggenheim. Com Ryan Reynolds, Blake Lively, Peter Sarsgaard, Mark Strong, Tim Robbins, Jay O. Sanders, Taika Waititi, Angela Bassett, Mike Doyle."

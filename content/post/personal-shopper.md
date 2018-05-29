@@ -3,7 +3,7 @@ tags: ['cabine']
 cinemaqui: " http://www.cinemaqui.com.br/personal-shopper/"
 imdb: "4714782"
 date: "2017-02-20"
-categories: "movies"
+categories: [ "movies" ]
 title: "Personal Shopper"
 stars: "4/5"
 desc: "Personal Shopper. Personal Shopper (France, 2016). Dirigido por Olivier Assayas. Escrito por Olivier Assayas. Com Kristen Stewart (Maureen Cartwright), Lars Eidinger (Ingo), Sigrid Bouaziz (Lara), Anders Danielsen Lie (Erwin), Ty Olwin (Gary), Hammou Graïa (Police Officer), Nora von Waldstätten (Kyra), Benjamin Biolay (Victor Hugo), Audrey Bonnet (Cassandre)."

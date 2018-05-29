@@ -2,7 +2,7 @@
 tags: ['mostrasp']
 imdb: "4446472"
 date: "2016-10-25"
-categories: "movies"
+categories: [ "movies" ]
 title: "Porto"
 stars: "3/5"
 desc: "Porto. Porto (France, 2016). Dirigido por Gabe Klinger. Escrito por Larry Gross, Gabe Klinger. Com Anton Yelchin (Jake Kleeman), Lucie Lucas (Mati Vargnier), Françoise Lebrun (Mother), Paulo Calatré (João Monteiro Oliveira), Chantal Akerman, Florie Auclerc-Vialens (Blanca), Diana de Sousa, Filomena Gigante, Rita Pinheiro."

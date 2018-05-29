@@ -1,7 +1,7 @@
 ---
 imdb: "1049413"
 date: "2013-04-01"
-categories: "movies"
+categories: [ "movies" ]
 title: "Up Altas Aventuras"
 stars: "5/5"
 desc: "Up Altas Aventuras. Up (USA, 2009). Dirigido por Pete Docter, Bob Peterson. Escrito por Pete Docter, Bob Peterson, Thomas McCarthy, Bob Peterson, Pete Docter. Com Edward Asner, Christopher Plummer, Jordan Nagai, Bob Peterson, Delroy Lindo, Jerome Ranft, John Ratzenberger, David Kaye, Elie Docter."

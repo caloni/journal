@@ -2,7 +2,7 @@
 tags: ['netflix']
 imdb: "0082971"
 date: "2016-10-16"
-categories: "movies"
+categories: [ "movies" ]
 title: "Os Caçadores da Arca Perdida"
 stars: "5/5"
 desc: "Os Caçadores da Arca Perdida. Raiders of the Lost Ark (USA, 1981). Dirigido por Steven Spielberg. Escrito por Lawrence Kasdan, George Lucas, Philip Kaufman. Com Harrison Ford (Indy), Karen Allen (Marion Ravenwood), Paul Freeman (Dr. René Belloq), Ronald Lacey (Major Arnold Toht), John Rhys-Davies (Sallah), Denholm Elliott (Dr. Marcus Brody), Alfred Molina (Satipo), Wolf Kahler (Colonel Dietrich), Anthony Higgins (Gobler)."

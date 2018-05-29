@@ -2,7 +2,7 @@
 tags: ['netflix']
 imdb: "2669336"
 date: "2017-04-04"
-categories: "movies"
+categories: [ "movies" ]
 title: "Time Lapse"
 stars: "3/5"
 desc: "Time Lapse. Time Lapse (USA, 2014). Dirigido por Bradley King. Escrito por Bradley King, Bp Cooper. Com Danielle Panabaker (Callie), Matt O'Leary (Finn), George Finn (Jasper), John Rhys-Davies (Mr. Bezzerides), Amin Joseph (Big Joe), Jason Spisak (Ivan), Sharon Maughan (Dr. Heidecker), David Figlioli (Marcus), Judith Drake (Mrs. Anderson)."

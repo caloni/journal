@@ -1,7 +1,7 @@
 ---
 imdb: "0448694"
 date: "2012-01-09"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Gato de Botas"
 stars: "3/5"
 desc: "O Gato de Botas. Puss in Boots (USA, 2011). Dirigido por Chris Miller. Escrito por Charles Perrault, Tom Wheeler, Brian Lynch, William Davies, Tom Wheeler, David H. Steinberg. Com Antonio Banderas, Salma Hayek, Zach Galifianakis, Billy Bob Thornton, Amy Sedaris, Constance Marie, Guillermo del Toro, Mike Mitchell, Rich Dietl."

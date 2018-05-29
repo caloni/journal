@@ -1,7 +1,7 @@
 ---
 imdb: "3317522"
 date: "2015-10-11"
-categories: "movies"
+categories: [ "movies" ]
 title: "The Nightmare"
 stars: "3/5"
 desc: "The Nightmare. The Nightmare (USA, 2015). Dirigido por Rodney Ascher. Com Siegfried Peters, Stephen Michael Joseph, Nicole Bosworth, Yatoya Toy, Elise Robson, Age Wilson."

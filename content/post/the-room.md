@@ -1,7 +1,7 @@
 ---
 date: 2018-05-24T22:41:19-03:00
 title: "The Room: você nunca viu nada igual"
-categories: "movies"
+categories: [ "movies" ]
 imdb: "0368226"
 stars: "1/5"
 desc: "The Room. EUA, 2003. Escrito, produzido, dirigido e estrelado por Tommy Wiseau. Também com Greg Sestero e Juliette Danielle."

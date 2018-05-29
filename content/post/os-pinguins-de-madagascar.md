@@ -1,7 +1,7 @@
 ---
 imdb: "1911658"
 date: "2015-01-28"
-categories: "movies"
+categories: [ "movies" ]
 title: "Os Pinguins de Madagascar"
 stars: "2/5"
 desc: "Os Pinguins de Madagascar. Penguins of Madagascar (USA, 2014). Dirigido por Eric Darnell, Simon J. Smith. Escrito por Michael Colton, John Aboud, Brandon Sawyer, Alan J. Schoolcraft, Brent Simons, Michael Colton, John Aboud, Eric Darnell, Tom McGrath. Com Tom McGrath, Chris Miller, Christopher Knights, Conrad Vernon, John Malkovich, Benedict Cumberbatch, Ken Jeong, Annet Mahendru, Peter Stormare."

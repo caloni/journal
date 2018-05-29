@@ -1,7 +1,7 @@
 ---
 imdb: "1979388"
 date: "2016-02-09"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Bom Dinossauro"
 stars: "4/5"
 desc: "O Bom Dinossauro. The Good Dinosaur (USA, 2015). Dirigido por Peter Sohn. Escrito por Bob Peterson, Peter Sohn, Erik Benson, Meg LeFauve, Kelsey Mann, Bob Peterson, Meg LeFauve. Com Jeffrey Wright, Frances McDormand, Maleah Nipay-Padilla, Ryan Teeple, Jack McGraw, Marcus Scribner, Raymond Ochoa, Jack Bright, Peter Sohn."

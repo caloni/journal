@@ -1,7 +1,7 @@
 ---
 imdb: "3268030"
 date: "2015-10-25"
-categories: "movies"
+categories: [ "movies" ]
 title: "Advanced Style"
 stars: "4/5"
 desc: "Advanced Style. Advanced Style (USA, 2014). Dirigido por Lina Plioplyte. Escrito por Ari Cohen, Lina Plioplyte. Com Joyce Carpati, Ari Cohen, Lynn Dell, Zelda Kaplan, Jacquie Murdock, Debra Rapoport, Tziporah Salamon, Ilona Smithkin."

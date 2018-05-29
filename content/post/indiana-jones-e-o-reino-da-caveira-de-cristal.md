@@ -2,7 +2,7 @@
 tags: ['netflix']
 imdb: "0367882"
 date: "2016-11-04"
-categories: "movies"
+categories: [ "movies" ]
 title: "Indiana Jones e o Reino da Caveira de Cristal"
 stars: "1/5"
 desc: "Indiana Jones e o Reino da Caveira de Cristal. Indiana Jones and the Kingdom of the Crystal Skull (USA, 2008). Dirigido por Steven Spielberg. Escrito por David Koepp, George Lucas, Jeff Nathanson, Philip Kaufman. Com Harrison Ford (Indiana Jones), Cate Blanchett (Irina Spalko), Karen Allen (Marion Ravenwood), Shia LaBeouf (Mutt Williams), Ray Winstone ('Mac' George Michale), John Hurt (Professor Oxley), Jim Broadbent (Dean Charles Stanforth), Igor Jijikine (Dovchenko), Dimitri Diatchenko (Russian Suit)."

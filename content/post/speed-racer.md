@@ -1,7 +1,7 @@
 ---
 imdb: "0811080"
 date: "2013-11-28"
-categories: "movies"
+categories: [ "movies" ]
 title: "Speed Racer"
 stars: "5/5"
 desc: "Speed Racer. Speed Racer (USA, 2008). Dirigido por Andy Wachowski, Lana Wachowski. Escrito por Andy Wachowski, Lana Wachowski, Tatsuo Yoshida. Com Emile Hirsch, Nicholas Elia, Susan Sarandon, Melissa Holroyd, Ariel Winter, Scott Porter, Gian Ganziano, Peter Fernandez, Harvey Friedman."

@@ -1,7 +1,7 @@
 ---
 imdb: "0109445"
 date: "2013-10-20"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Balconista"
 stars: "3/5"
 desc: "O Balconista. Clerks (USA, 1994). Dirigido por Kevin Smith. Escrito por Kevin Smith. Com Brian O'Halloran, Jeff Anderson, Marilyn Ghigliotti, Lisa Spoonauer, Jason Mewes, Kevin Smith, Scott Mosier, Scott Schiaffo, Al Berkowitz."

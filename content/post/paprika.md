@@ -1,7 +1,7 @@
 ---
 imdb: "0851578"
 date: "2012-03-25"
-categories: "movies"
+categories: [ "movies" ]
 title: "Paprika"
 stars: "4/5"
 desc: "Paprika. Papurika (Japan, 2006). Dirigido por Satoshi Kon. Escrito por Yasutaka Tsutsui, Seishi Minakami, Satoshi Kon. Com Megumi Hayashibara, Tôru Furuya, Kôichi Yamadera, Katsunosuke Hori, Tôru Emori, Akio Ôtsuka, Hideyuki Tanaka, Satomi Koorogi, Daisuke Sakaguchi."

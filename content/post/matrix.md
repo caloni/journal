@@ -1,7 +1,7 @@
 ---
 imdb: "0133093"
 date: "2011-12-20"
-categories: "movies"
+categories: [ "movies" ]
 title: "Matrix"
 stars: "5/5"
 desc: "Matrix. The Matrix (USA, 1999). Dirigido por Andy Wachowski, Lana Wachowski. Escrito por Andy Wachowski, Lana Wachowski. Com Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving, Gloria Foster, Joe Pantoliano, Marcus Chong, Julian Arahanga, Matt Doran."

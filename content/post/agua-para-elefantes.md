@@ -1,7 +1,7 @@
 ---
 imdb: "1067583"
 date: "2012-08-27"
-categories: "movies"
+categories: [ "movies" ]
 title: "Água para Elefantes"
 stars: "3/5"
 desc: "Água para Elefantes. Water for Elephants (USA, 2011). Dirigido por Francis Lawrence. Escrito por Richard LaGravenese, Sara Gruen. Com Reese Witherspoon, Robert Pattinson, Christoph Waltz, Paul Schneider, Jim Norton, Hal Holbrook, Mark Povinelli, Richard Brake, Stephen Monroe Taylor."

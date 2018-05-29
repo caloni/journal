@@ -3,7 +3,7 @@ title: "Se Puder... Dirija!"
 imdb: "2211808"
 stars: "2/5"
 date: "2013-09-07"
-categories: "movies"
+categories: [ "movies" ]
 desc: "Se Puder... Dirija!. Se Puder... Dirija! (Brazil, 2013). Dirigido por Anita Barbosa, Paulo Fontenelle. Escrito por Paulo Fontenelle. Com Luiz Fernando Guimarães, Leandro Hassum, Lavínia Vlasak, Bárbara Paz, Reynaldo Gianecchini, Eri Johnson, Gabriel Palhares, Renata Castro Barbosa, Lívia de Bueno."
 ---
 Muitas vezes as comédias televisivas que passam no Cinema, às vezes, nem antes da própria TV, atraem o público pelas boas piadas e pelo ótimo (e desperdiçado) elenco. No caso de Se Puder... Dirija! o único foco parece ter sido fazer um filme com uma história suficiente para preencher um bloco do Zorra Total e utilizar a propaganda de ser o primeiro live-action em 3D, e o fato de que será lembrado por isso torna as coisas ainda mais desagradáveis.

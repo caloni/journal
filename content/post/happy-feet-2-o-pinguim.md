@@ -1,7 +1,7 @@
 ---
 imdb: "1402488"
 date: "2011-12-04"
-categories: "movies"
+categories: [ "movies" ]
 title: "Happy Feet 2 O Pinguim"
 stars: "2/5"
 desc: "Happy Feet 2 O Pinguim. Happy Feet Two (Australia, 2011). Dirigido por George Miller, Gary Eck, David Peers. Escrito por George Miller, Gary Eck, Warren Coleman, Paul Livingston, Warren Coleman, John Collee, George Miller, Judy Morris. Com Carlos Alazraqui, Lombardo Boyar, Jeffrey Garcia, Johnny A. Sanchez, Sofía Vergara, Robin Williams, Elijah Wood, Pink, Ava Acres."

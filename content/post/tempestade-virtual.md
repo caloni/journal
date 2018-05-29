@@ -1,7 +1,7 @@
 ---
 imdb: "0311866"
 date: "2012-08-18"
-categories: "movies"
+categories: [ "movies" ]
 title: "Tempestade Virtual"
 stars: "2/5"
 desc: "Tempestade Virtual. Storm Watch (USA, 2002). Dirigido por Terry Cunningham. Escrito por Flavia Carrozzi, Terry Cunningham, Steve Latshaw. Com Nick Cornish, Vanessa Marcil, Adrian Paul, Bai Ling, Coolio, Scott Rinker, Serena Scott Thomas, Richard Cox, Jerry Doyle."

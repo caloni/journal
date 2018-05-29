@@ -1,7 +1,7 @@
 ---
 imdb: "0494834"
 date: "2014-01-18"
-categories: "movies"
+categories: [ "movies" ]
 title: "Silk"
 stars: "2/5"
 desc: "Silk. Silk (Canada, 2007). Dirigido por François Girard. Escrito por Alessandro Baricco, François Girard, Michael Golding. Com Sei Ashina, Michael Pitt, Tony Vogel, Toni Bertorelli, Keira Knightley, Kenneth Welsh, Martha Burns, Alfred Molina, Michael Golding."

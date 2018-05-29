@@ -1,7 +1,7 @@
 ---
 imdb: "0090756"
 date: "2016-01-14"
-categories: "movies"
+categories: [ "movies" ]
 title: "Veludo Azul"
 stars: "5/5"
 desc: "Veludo Azul. Blue Velvet (USA, 1986). Dirigido por David Lynch. Escrito por David Lynch. Com Isabella Rossellini, Kyle MacLachlan, Dennis Hopper, Laura Dern, Hope Lange, Dean Stockwell, George Dickerson, Priscilla Pointer, Frances Bay."

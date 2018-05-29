@@ -1,7 +1,7 @@
 ---
 imdb: "0110912"
 date: "2012-12-23"
-categories: "movies"
+categories: [ "movies" ]
 title: "Pulp Fiction Tempo de Violência"
 stars: "5/5"
 desc: "Pulp Fiction Tempo de Violência. Pulp Fiction (USA, 1994). Dirigido por Quentin Tarantino. Escrito por Quentin Tarantino, Roger Avary, Quentin Tarantino. Com Tim Roth, Amanda Plummer, Laura Lovelace, John Travolta, Samuel L. Jackson, Phil LaMarr, Frank Whaley, Burr Steers, Bruce Willis."

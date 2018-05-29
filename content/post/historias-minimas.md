@@ -1,7 +1,7 @@
 ---
 imdb: "0291988"
 date: "2015-11-01"
-categories: "movies"
+categories: [ "movies" ]
 title: "Historias mínimas"
 stars: "4/5"
 desc: "Historias mínimas. Historias mínimas (Argentina, 2002). Dirigido por Carlos Sorin. Escrito por Pablo Solarz. Com Javier Lombardo, Antonio Benedicti, Javiera Bravo, Julia Solomonoff, Laura Vagnoni, Enrique Otranto, Mariela Díaz, María Rosa Cianferoni, María Jiménez del Carmen."

@@ -2,7 +2,7 @@
 tags: ['cinema', 'mcu', 'avengers']
 imdb: "0848228"
 date: "2012-04-28"
-categories: "movies"
+categories: [ "movies" ]
 title: "The Avengers Os Vingadores"
 stars: "3/5"
 desc: "The Avengers Os Vingadores. The Avengers (USA, 2012). Dirigido por Joss Whedon. Escrito por Joss Whedon, Zak Penn, Joss Whedon. Com Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner, Tom Hiddleston, Clark Gregg, Cobie Smulders."

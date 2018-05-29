@@ -2,7 +2,7 @@
 tags: ['netflix']
 imdb: "0488085"
 date: "2016-09-08"
-categories: "movies"
+categories: [ "movies" ]
 title: "Grande Coisa"
 stars: "3/5"
 desc: "Grande Coisa. Big Nothing (UK, 2006). Dirigido por Jean-Baptiste Andrea. Escrito por Jean-Baptiste Andrea, William Rosenfeld. Com David Schwimmer, Simon Pegg, Alice Eve, Natascha McElhone, Jon Polito, Mimi Rogers, William Rosenfeld, Julian Glover, Olivia Peterson."

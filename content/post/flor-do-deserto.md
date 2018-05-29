@@ -1,7 +1,7 @@
 ---
 imdb: "1054580"
 date: "2010-06-25"
-categories: "movies"
+categories: [ "movies" ]
 title: "Flor do Deserto"
 stars: "4/5"
 desc: "Flor do Deserto. Desert Flower (UK, 2009). Dirigido por Sherry Hormann. Escrito por Smita Bhide, Waris Dirie, Sherry Hormann, Cathleen Miller, Wüstenblume. Com Soraya Omar-Scego, Idriss Abdillahi Houfaneh, Awa Saïd Darar, Roun Daher Aïnan, Osman Aden Dalieg, Liya Kebede, Sally Hawkins, Meera Syal, Anna Hilgedieck."

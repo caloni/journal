@@ -1,7 +1,7 @@
 ---
 imdb: "1570728"
 date: "2016-07-28"
-categories: "movies"
+categories: [ "movies" ]
 title: "Amor a Toda Prova"
 stars: "4/5"
 desc: "Amor a Toda Prova. Crazy, Stupid, Love. (USA, 2011). Dirigido por Glenn Ficarra, John Requa. Escrito por Dan Fogelman. Com Steve Carell, Ryan Gosling, Julianne Moore, Emma Stone, Analeigh Tipton, Jonah Bobo, Joey King, Marisa Tomei, Beth Littleford."

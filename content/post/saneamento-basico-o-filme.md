@@ -2,7 +2,7 @@
 tags: ['netflix', 'cabine']
 imdb: "0907134"
 date: "2016-11-30"
-categories: "movies"
+categories: [ "movies" ]
 title: "Saneamento Básico, O Filme"
 stars: "4/5"
 desc: "Saneamento Básico, O Filme. Saneamento Básico, O Filme (Brazil, 2007). Dirigido por Jorge Furtado. Escrito por Jorge Furtado. Com Fernanda Torres (Marina), Wagner Moura (Joaquim), Camila Pitanga (Silene), Bruno Garcia (Fabrício), Janaína Kremer Motta (Marcela), Lázaro Ramos (Zico), Tonico Pereira (Antônio), Paulo José (Otaviano), Marcelo Aquino (Leonardo)."

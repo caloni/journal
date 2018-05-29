@@ -1,7 +1,7 @@
 ---
 imdb: "1389096"
 date: "2013-03-12"
-categories: "movies"
+categories: [ "movies" ]
 title: "Amigos Inseparáveis"
 stars: "4/5"
 desc: "Amigos Inseparáveis. Stand Up Guys (USA, 2012). Dirigido por Fisher Stevens. Escrito por Noah Haidle. Com Al Pacino, Christopher Walken, Alan Arkin, Julianna Margulies, Mark Margolis, Lucy Punch, Addison Timlin, Vanessa Ferlito, Katheryn Winnick."

@@ -1,7 +1,7 @@
 ---
 date: 2018-05-16T18:05:25-03:00
 title: "A Vida Extra-Ordinária de Tarso de Castro, seus litros de uísque e suas quinhentas mulheres"
-categories: "movies"
+categories: [ "movies" ]
 imdb: "8327798"
 stars: "3/5"
 desc: "A Vida Extra-Ordinária de Tarso De Castro (Brasil, 2017), escrito e dirigido por Leo Garcia e Zeca Brito, com João Vicente de Castro, Paulo Cesar Pereio, Caetano Veloso e outros."

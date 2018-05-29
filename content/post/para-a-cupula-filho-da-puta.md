@@ -1,7 +1,7 @@
 ---
 date: 2017-08-25T15:52:15
 title: "Para a Cúpula Filho Da Puta"
-categories: "blog"
+categories: [ "blog" ]
 tags: ['humor']
 desc: "Para a Cúpula Filho Da Puta."
 ---

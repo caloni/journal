@@ -2,7 +2,7 @@
 tags: ['series', 'mrrobot']
 imdb: "4158110"
 date: "2016-09-11"
-categories: "series"
+categories: [ "series" ]
 title: "Mr. Robot"
 stars: "5/5"
 revision: ['2017-09-02']

@@ -2,7 +2,7 @@
 tags: ['paulocoelho', 'oscar']
 imdb: "4034228"
 date: "2017-02-13"
-categories: "movies"
+categories: [ "movies" ]
 title: "Manchester À Beira-Mar"
 stars: "4/5"
 desc: "Manchester À Beira-Mar. Manchester by the Sea (USA, 2016). Dirigido por Kenneth Lonergan. Escrito por Kenneth Lonergan. Com Casey Affleck (Lee Chandler), Ben O'Brien (Young Patrick), Kyle Chandler (Joe Chandler), Richard Donelly (Mr. Martinez), Virginia Loring Cooke (Mrs. Groom), Quincy Tyler Bernstine (Marianne), Missy Yager (Mrs. Olsen), Stephen Henderson (Mr. Emery), Ben Hanson (Lenny - the bartender)."

@@ -2,7 +2,7 @@
 tags: ['cinema']
 imdb: "4972582"
 date: "2017-04-18"
-categories: "movies"
+categories: [ "movies" ]
 title: "Fragmentado"
 stars: "3/5"
 desc: "Fragmentado. Split (USA, 2016). Dirigido por M. Night Shyamalan. Escrito por M. Night Shyamalan. Com James McAvoy (Dennis / Patricia / Hedwig / The Beast / Kevin Wendell Crumb / Barry / Orwell / Jade), Anya Taylor-Joy (Casey Cooke), Betty Buckley (Dr. Karen Fletcher), Haley Lu Richardson (Claire Benoit), Jessica Sula (Marcia), Izzie Coffey (Five-Year-Old Casey), Brad William Henke (Uncle John), Sebastian Arcelus (Casey's Father), Neal Huff (Mr. Benoit)."

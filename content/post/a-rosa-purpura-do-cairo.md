@@ -1,7 +1,7 @@
 ---
 imdb: "0089853"
 date: "2013-12-16"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Rosa Púrpura do Cairo"
 stars: "4/5"
 desc: "A Rosa Púrpura do Cairo. The Purple Rose of Cairo (USA, 1985). Dirigido por Woody Allen. Escrito por Woody Allen. Com Mia Farrow, Jeff Daniels, Danny Aiello, Irving Metzman, Stephanie Farrow, David Kieserman, Elaine Grollman, Victoria Zussin, Mark Hammond."

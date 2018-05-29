@@ -2,7 +2,7 @@
 tags: ['cabine']
 imdb: "3365280"
 date: "2016-10-20"
-categories: "movies"
+categories: [ "movies" ]
 title: "Entre Linhas"
 stars: "2/5"
 desc: "Entre Linhas. The Unattainable Story (USA, 2016). Dirigido por Emilia Ferreira. Escrito por Gay Walley, Guinevere Turner. Com Irina Björklund (Jacqueline), Harry Hamlin (David), Kevin Kilner (Peter), Edoardo Ballerini (Skene), Caprice Benedetti (Annette), Margot Bingham (Alma), Ewa Da Cruz (Annick), Lukas Hassel (Stefka), Benjamin Eakeley (Teacher)."

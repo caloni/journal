@@ -1,7 +1,7 @@
 ---
 imdb: "2630336"
 date: "2015-06-29"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Mordomo de Preto"
 stars: "2/5"
 desc: "O Mordomo de Preto. Kuroshitsuji (Japan, 2014). Dirigido por Kentarô Ohtani, Kei'ichi Sato. Escrito por Yana Toboso. Com Hiro Mizushima, Ayame Gôriki, Yûka, Mizuki Yamamoto, Tomomi Maruyama, Takurô Ohno, Louis Kurihara, Ken Kaito, Chiaki Horan."

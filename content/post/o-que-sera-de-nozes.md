@@ -2,7 +2,7 @@
 tags: ['netflix']
 imdb: "1821658"
 date: "2017-01-01"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Que Será de Nozes?"
 stars: "1/5"
 desc: "O Que Será de Nozes?. The Nut Job (Canada, 2014). Dirigido por Peter Lepeniotis. Escrito por Lorne Cameron, Peter Lepeniotis, Robert Reece, Daniel Woo. Com Will Arnett (Surly), Brendan Fraser (Grayson), Liam Neeson (Raccoon), Katherine Heigl (Andie), Stephen Lang (King), Maya Rudolph (Precious), Jeff Dunham (Mole), Gabriel Iglesias (Jimmy), Sarah Gadon (Lana)."

@@ -1,7 +1,7 @@
 ---
 imdb: "0374546"
 date: "2010-12-20"
-categories: "movies"
+categories: [ "movies" ]
 title: "Primavera Verão Outono Inverno e Primavera"
 stars: "4/5"
 desc: "Primavera Verão Outono Inverno e Primavera. Bom yeoreum gaeul gyeoul geurigo bom (South Korea, 2003). Dirigido por Ki-duk Kim. Escrito por Ki-duk Kim. Com Yeong-su Oh, Ki-duk Kim, Young-min Kim, Jae-kyeong Seo, Yeo-jin Ha, Jong-ho Kim, Jung-young Kim, Dae-han Ji, Min Choi."

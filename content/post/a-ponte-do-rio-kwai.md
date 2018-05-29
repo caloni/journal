@@ -1,7 +1,7 @@
 ---
 imdb: "0050212"
 date: "2016-07-18"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Ponte do Rio Kwai"
 stars: "5/5"
 desc: "A Ponte do Rio Kwai. The Bridge on the River Kwai (UK, 1957). Dirigido por David Lean. Escrito por Pierre Boulle, Carl Foreman, Michael Wilson. Com William Holden, Alec Guinness, Jack Hawkins, Sessue Hayakawa, James Donald, Geoffrey Horne, André Morell, Peter Williams, John Boxer."

@@ -1,7 +1,7 @@
 ---
 imdb: "0080455"
 date: "2014-03-30"
-categories: "movies"
+categories: [ "movies" ]
 title: "Os Irmãos Cara de Pau"
 stars: "5/5"
 desc: "Os Irmãos Cara de Pau. The Blues Brothers (USA, 1980). Dirigido por John Landis. Escrito por Dan Aykroyd, John Landis. Com John Belushi, Dan Aykroyd, James Brown, Cab Calloway, Ray Charles, Aretha Franklin, Steve Cropper, Donald Dunn, Murphy Dunne."

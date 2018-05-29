@@ -2,7 +2,7 @@
 tags: ['netflix']
 imdb: "2101383"
 date: "2016-11-26"
-categories: "movies"
+categories: [ "movies" ]
 title: "Cavaleiro de Copas"
 stars: "4/5"
 desc: "Cavaleiro de Copas. Knight of Cups (USA, 2015). Dirigido por Terrence Malick. Escrito por Terrence Malick. Com Christian Bale (Rick), Cate Blanchett (Nancy), Natalie Portman (Elizabeth), Brian Dennehy (Joseph), Antonio Banderas (Tonio), Freida Pinto (Helen), Wes Bentley (Barry), Isabel Lucas (Isabel), Teresa Palmer (Karen)."

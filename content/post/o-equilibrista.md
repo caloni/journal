@@ -1,7 +1,7 @@
 ---
 imdb: "1155592"
 date: "2014-03-02"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Equilibrista"
 stars: "5/5"
 desc: "O Equilibrista. Man on Wire (UK, 2008). Dirigido por James Marsh. Escrito por Philippe Petit. Com Philippe Petit, Jean François Heckel, Jean-Louis Blondeau, Annie Allix, David Forman, Alan Welner, Mark Lewis, Barry Greenhouse, Jim Moore."

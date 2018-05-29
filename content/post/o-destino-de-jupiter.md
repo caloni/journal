@@ -1,7 +1,7 @@
 ---
 imdb: "1617661"
 date: "2015-05-12"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Destino de Júpiter"
 stars: "3/5"
 desc: "O Destino de Júpiter. Jupiter Ascending (USA, 2015). Dirigido por Andy Wachowski, Lana Wachowski. Escrito por Andy Wachowski, Lana Wachowski. Com Mila Kunis, Channing Tatum, Sean Bean, Eddie Redmayne, Douglas Booth, Tuppence Middleton, Nikki Amuka-Bird, Christina Cole, Nicholas A. Newman."

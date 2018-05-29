@@ -2,7 +2,7 @@
 tags: ['paulocoelho']
 imdb: "0016230"
 date: "2016-12-09"
-categories: "movies"
+categories: [ "movies" ]
 title: "The Pleasure Garden"
 stars: "4/5"
 desc: "The Pleasure Garden. The Pleasure Garden (UK, 1925). Dirigido por Alfred Hitchcock. Escrito por Oliver Sandys, Eliot Stannard. Com Virginia Valli (Patsy Brand), Carmelita Geraghty (Jill Cheyne), Miles Mander (Levett), John Stuart (Hugh Fielding), Ferdinand Martini (Mr. Sidey), Florence Helminger (Mrs. Sidey), Georg H. Schnell (Oscar Hamilton), Karl Falkenberg (Prince Ivan), Louis Brody (Plantation Manager)."

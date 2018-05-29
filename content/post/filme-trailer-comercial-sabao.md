@@ -1,7 +1,7 @@
 ---
 date: "2015-02-17"
 title: "Como é escolher um filme pelo trailer"
-categories: "blog"
+categories: [ "blog" ]
 tags: ['youtube', 'comerciais', 'humor']
 desc: "Como é escolher um filme pelo trailer."
 ---

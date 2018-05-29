@@ -1,7 +1,7 @@
 ---
 imdb: "0155711"
 date: "2013-07-14"
-categories: "movies"
+categories: [ "movies" ]
 title: "Ninguém é Perfeito"
 stars: "3/5"
 desc: "Ninguém é Perfeito. Flawless (USA, 1999). Dirigido por Joel Schumacher. Escrito por Joel Schumacher. Com Robert De Niro, Philip Seymour Hoffman, Barry Miller, Chris Bauer, Skipp Sudduth, Wilson Jermaine Heredia, Nashom Benjamin, Scott Allen Cooper, Rory Cochrane."

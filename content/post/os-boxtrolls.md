@@ -1,7 +1,7 @@
 ---
 imdb: "0787474"
 date: "2014-12-23"
-categories: "movies"
+categories: [ "movies" ]
 title: "Os Boxtrolls"
 stars: "4/5"
 desc: "Os Boxtrolls. The Boxtrolls (USA, 2014). Dirigido por Graham Annable, Anthony Stacchi. Escrito por Irena Brignull, Phil Dale, Adam Pava, Alan Snow, Anthony Stacchi. Com Ben Kingsley, Jared Harris, Nick Frost, Richard Ayoade, Tracy Morgan, Dee Bradley Baker, Steve Blum, Nika Futterman, Pat Fraley."

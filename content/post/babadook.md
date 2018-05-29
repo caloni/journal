@@ -1,7 +1,7 @@
 ---
 imdb: "2321549"
 date: "2015-01-22"
-categories: "movies"
+categories: [ "movies" ]
 title: "The Babadook"
 stars: "5/5"
 revision: [datetime.date(2015, 9, 27)]

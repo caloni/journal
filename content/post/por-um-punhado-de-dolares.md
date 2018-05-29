@@ -1,7 +1,7 @@
 ---
 imdb: "0058461"
 date: "2012-06-10"
-categories: "movies"
+categories: [ "movies" ]
 title: "Por Um Punhado de Dólares"
 stars: "5/5"
 desc: "Por Um Punhado de Dólares. Per un pugno di dollari (Italy, 1964). Dirigido por Sergio Leone. Escrito por Adriano Bolzoni, Víctor Andrés Catena, Sergio Leone, Víctor Andrés Catena, Jaime Comas Gil, Sergio Leone, Fernando Di Leo, Duccio Tessari, Tonino Valerii. Com Clint Eastwood, Marianne Koch, Gian Maria Volonté, Wolfgang Lukschy, Sieghardt Rupp, Joseph Egger, Antonio Prieto, José Calvo, Margarita Lozano."

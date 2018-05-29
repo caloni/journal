@@ -2,7 +2,7 @@
 tags: ['cabine']
 imdb: "1663655"
 date: "2016-03-31"
-categories: "movies"
+categories: [ "movies" ]
 title: "Martyrs"
 stars: "4/5"
 desc: "Martyrs. Martyrs (USA, 2015). Dirigido por Kevin Goetz, Michael Goetz. Escrito por Pascal Laugier, Mark L. Smith. Com Troian Bellisario, Bailey Noble, Kate Burton, Caitlin Carmichael, Melissa Tracy, Romy Rosemont, Toby Huss, Elyse Cole, Ever Prishkulnik."

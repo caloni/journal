@@ -2,7 +2,7 @@
 tags: ['cabine']
 imdb: "2720826"
 date: 2017-12-14T23:20:35
-categories: "movies"
+categories: [ "movies" ]
 title: "A Origem do Dragão"
 stars: "4/5"
 desc: "A Origem do Dragão. Birth of the Dragon (China, 2016). Dirigido por George Nolfi. Escrito por Stephen J. Rivele, Christopher Wilkinson, Michael Dorgan. Com Yu Xia (Wong Jack Man), Wang Xi'An (Tai Chi Grandmaster / Wang Lian), Hai Yu (Shaolin Abbot), Yue Wu (Wang Biao), Billy Magnussen (Steve McKee), Steven Roberts (Beat Poet), Riley Wood (Hippie Girl), Philip Ng (Bruce Lee), Simon Yin (Vinnie Wei), Terry Chen (Frankie Chen), Ron Yuan (Tony Yu), Lillian Lim (Janet Wei), Yee Jee Tso (Winston Peng), Jingjing Qu (Xiulan Quan), Simon Chin (Wai Fu), Nickson Kong (Wong's Cousin), Peter Chao (Busboy), Hawlan Ng (Valet), Xing Jin (Auntie Blossom)."

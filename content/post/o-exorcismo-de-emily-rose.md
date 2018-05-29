@@ -1,7 +1,7 @@
 ---
 imdb: "0404032"
 date: "2014-03-08"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Exorcismo de Emily Rose"
 stars: "4/5"
 desc: "O Exorcismo de Emily Rose. The Exorcism of Emily Rose (USA, 2005). Dirigido por Scott Derrickson. Escrito por Paul Harris Boardman, Scott Derrickson. Com Laura Linney, Tom Wilkinson, Campbell Scott, Jennifer Carpenter, Colm Feore, Joshua Close, Kenneth Welsh, Duncan Fraser, JR Bourne."

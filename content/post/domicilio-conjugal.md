@@ -1,7 +1,7 @@
 ---
 imdb: "0065651"
 date: "2010-08-17"
-categories: "movies"
+categories: [ "movies" ]
 title: "Domicilio Conjugal"
 stars: "4/5"
 desc: "Domicilio Conjugal. Domicile conjugal (France, 1970). Dirigido por François Truffaut. Escrito por François Truffaut, Claude de Givray, Bernard Revon. Com Jean-Pierre Léaud, Claude Jade, Hiroko Berghauer, Barbara Laage, Danièle Girard, Daniel Ceccaldi, Claire Duhamel, Daniel Boulanger, Silvana Blasi."

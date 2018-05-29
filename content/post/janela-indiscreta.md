@@ -1,7 +1,7 @@
 ---
 imdb: "0047396"
 date: "2013-01-15"
-categories: "movies"
+categories: [ "movies" ]
 title: "Janela Indiscreta"
 stars: "4/5"
 desc: "Janela Indiscreta. Rear Window (USA, 1954). Dirigido por Alfred Hitchcock. Escrito por John Michael Hayes, Cornell Woolrich. Com James Stewart, Grace Kelly, Wendell Corey, Thelma Ritter, Raymond Burr, Judith Evelyn, Ross Bagdasarian, Georgine Darcy, Sara Berner."

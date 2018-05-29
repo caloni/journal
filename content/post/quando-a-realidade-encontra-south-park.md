@@ -1,7 +1,7 @@
 ---
 date: "2016-11-18"
 title: "Quando a realidade encontra South Park"
-categories: "blog"
+categories: [ "blog" ]
 tags: ['southpark', 'series']
 desc: "Quando a realidade encontra South Park."
 ---

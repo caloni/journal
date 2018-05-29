@@ -1,7 +1,7 @@
 ---
 imdb: "1407050"
 date: "2014-06-13"
-categories: "movies"
+categories: [ "movies" ]
 title: "American Pie Apresenta O Livro do Amor"
 stars: "3/5"
 desc: "American Pie Apresenta O Livro do Amor. American Pie Presents: The Book of Love (USA, 2009). Dirigido por John Putch. Escrito por David H. Steinberg, Adam Herz. Com Eugene Levy, Bug Hall, Kevin M. Horton, Brandon Hardesty, Beth Behrs, Melanie Papalia, Jennifer Holland, John Patrick Jordan, Louisa Lytton."

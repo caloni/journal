@@ -2,7 +2,7 @@
 tags: ['cinema', 'dublado']
 imdb: "2114504"
 date: 2017-11-06T21:26:48
-categories: "movies"
+categories: [ "movies" ]
 title: "Pica Pau: o Filme"
 stars: "1/5"
 desc: "Pica Pau: o Filme. Woody Woodpecker (USA, 2017). Dirigido por Alex Zamm. Escrito por Alex Zamm, William Robertson, Walter Lantz, Ben Hardaway, Daniel Altiere, Steven Altiere. Com Timothy Omundson (Lance Walters), Thaila Ayala (Brittany), Eric Bauza (Woody Woodpecker), Graham Verchere (Tommy Walters), Jordana Largy (Samantha Bartlett), Scott McNeil (Nate Grimes), Adrian Glynn McMorran (Ottis Grimes), Chelsea Miller (Jill Ferguson), Jakob Davies (Lyle)."

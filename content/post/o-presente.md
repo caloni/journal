@@ -1,7 +1,7 @@
 ---
 imdb: "0482629"
 date: "2013-01-06"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Presente"
 stars: "2/5"
 desc: "O Presente. The Ultimate Gift (USA, 2006). Dirigido por Michael O. Sajbel. Escrito por Cheryl McKay, Jim Stovall. Com James Garner, Bill Cobbs, Lee Meriwether, George Lee, Brett Rice, D. David Morin, Abigail Breslin, Ali Hillis, Drew Fuller."

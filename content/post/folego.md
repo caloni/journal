@@ -1,7 +1,7 @@
 ---
 imdb: "0901475"
 date: "2010-12-20"
-categories: "movies"
+categories: [ "movies" ]
 title: "Fôlego"
 stars: "4/5"
 desc: "Fôlego. Soom (South Korea, 2007). Dirigido por Ki-duk Kim. Escrito por Ki-duk Kim. Com Chen Chang, In-Hyeong Gang, Jung-woo Ha, Ki-duk Kim, Ji-a Park."

@@ -2,7 +2,7 @@
 tags: ['netflix']
 imdb: "0093409"
 date: "2016-11-28"
-categories: "movies"
+categories: [ "movies" ]
 title: "Máquina Mortífera"
 stars: "4/5"
 desc: "Máquina Mortífera. Lethal Weapon (USA, 1987). Dirigido por Richard Donner. Escrito por Shane Black. Com Mel Gibson (Martin Riggs), Danny Glover (Roger Murtaugh), Gary Busey (Joshua), Mitchell Ryan (The General), Tom Atkins (Michael Hunsaker), Darlene Love (Trish Murtaugh), Traci Wolfe (Rianne Murtaugh), Jackie Swanson (Amanda Hunsaker), Damon Hines (Nick Murtaugh)."

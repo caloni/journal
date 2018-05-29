@@ -1,7 +1,7 @@
 ---
 imdb: "1895587"
 date: "2016-02-29"
-categories: "movies"
+categories: [ "movies" ]
 title: "Spotlight: Segredos Revelados"
 stars: "4/5"
 desc: "Spotlight: Segredos Revelados. Spotlight (USA, 2015). Dirigido por Tom McCarthy. Escrito por Josh Singer, Tom McCarthy. Com Mark Ruffalo, Michael Keaton, Rachel McAdams, Liev Schreiber, John Slattery, Brian d'Arcy James, Stanley Tucci, Elena Wohl, Gene Amoroso."

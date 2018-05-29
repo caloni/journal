@@ -1,7 +1,7 @@
 ---
 imdb: "1300854"
 date: "2013-05-03"
-categories: "movies"
+categories: [ "movies" ]
 title: "Homem de Ferro 3"
 stars: "3/5"
 desc: "Homem de Ferro 3. Iron Man 3 (USA, 2013). Dirigido por Shane Black. Escrito por Drew Pearce, Shane Black, Stan Lee, Don Heck, Larry Lieber, Jack Kirby, Warren Ellis, Adi Granov. Com Robert Downey Jr., Gwyneth Paltrow, Don Cheadle, Guy Pearce, Rebecca Hall, Jon Favreau, Ben Kingsley, James Badge Dale, Stephanie Szostak."

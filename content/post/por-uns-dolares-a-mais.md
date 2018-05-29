@@ -1,7 +1,7 @@
 ---
 imdb: "0059578"
 date: "2012-06-10"
-categories: "movies"
+categories: [ "movies" ]
 title: "Por uns Dólares a Mais"
 stars: "5/5"
 desc: "Por uns Dólares a Mais. Per qualche dollaro in più (Italy, 1965). Dirigido por Sergio Leone. Escrito por Sergio Leone, Fulvio Morsella, Luciano Vincenzoni, Sergio Leone, Luciano Vincenzoni, Fernando Di Leo, Sergio Donati. Com Clint Eastwood, Lee Van Cleef, Gian Maria Volonté, Mario Brega, Luigi Pistilli, Aldo Sambrell, Klaus Kinski, Benito Stefanelli, Luis Rodríguez."

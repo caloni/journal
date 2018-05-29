@@ -1,7 +1,7 @@
 ---
 imdb: "0842926"
 date: "2011-06-08"
-categories: "movies"
+categories: [ "movies" ]
 title: "Minhas Mães e Meu Pai"
 stars: "3/5"
 desc: "Minhas Mães e Meu Pai. The Kids Are All Right (USA, 2010). Dirigido por Lisa Cholodenko. Escrito por Lisa Cholodenko, Stuart Blumberg. Com Julianne Moore, Annette Bening, Mark Ruffalo, Mia Wasikowska, Josh Hutcherson, Yaya DaCosta, Kunal Sharma, Eddie Hassell, Zosia Mamet."

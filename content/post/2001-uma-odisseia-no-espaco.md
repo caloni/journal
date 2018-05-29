@@ -1,7 +1,7 @@
 ---
 imdb: "0062622"
 date: "2013-10-23"
-categories: "movies"
+categories: [ "movies" ]
 title: "2001: Uma Odisseia no Espaço"
 stars: "5/5"
 desc: "2001: Uma Odisseia no Espaço. 2001: A Space Odyssey (UK, 1968). Dirigido por Stanley Kubrick. Escrito por Stanley Kubrick, Arthur C. Clarke. Com Keir Dullea (Dr. Dave Bowman), Gary Lockwood (Dr. Frank Poole), William Sylvester (Dr. Heywood R. Floyd), Daniel Richter (Moon-Watcher), Leonard Rossiter (Dr. Andrei Smyslov), Margaret Tyzack (Elena), Robert Beatty (Dr. Ralph Halvorsen), Sean Sullivan (Dr. Bill Michaels), Douglas Rain (HAL 9000)."

@@ -1,7 +1,7 @@
 ---
 imdb: "1802810"
 date: "2014-04-18"
-categories: "movies"
+categories: [ "movies" ]
 title: "Woman in Love"
 stars: "3/5"
 desc: "Woman in Love. Rubbeldiekatz (Germany, 2011). Dirigido por Detlev Buck. Escrito por Anika Decker, Detlev Buck. Com Alexandra Maria Lara, Jenny Moore, Dejan Bucin, Gerd Pape, Joachim Pollax, Franko Melisch, Guido Maria Kretschmer, Denis Moschitto, Maximilian Brückner."

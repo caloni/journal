@@ -1,7 +1,7 @@
 ---
 date: 2018-05-08T17:36:55-03:00
 title: "Novo Desejo de Matar é tapa na cara da sociedade de cordeirinhos pacifistas"
-categories: "movies"
+categories: [ "movies" ]
 imdb: "1137450"
 stars: "4/5"
 desc: "Death Wish (EUA, 2018), escrito por Joe Carnahan baseado no romance de Brian Garfield e no filme de 1974 de Wendell Mayes, dirigido por Eli Roth, com Bruce Willis, Vincent D'Onofrio, Elisabeth Shue."

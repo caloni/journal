@@ -1,7 +1,7 @@
 ---
 imdb: "0367027"
 date: "2015-09-29"
-categories: "movies"
+categories: [ "movies" ]
 title: "Shortbus"
 stars: "3/5"
 desc: "Shortbus. Shortbus (USA, 2006). Dirigido por John Cameron Mitchell. Escrito por John Cameron Mitchell. Com Sook-Yin Lee, Paul Dawson, Lindsay Beamish, PJ DeBoy, Raphael Barker, Peter Stickles, Jay Brannan, Alan Mandell, Adam Hardman."

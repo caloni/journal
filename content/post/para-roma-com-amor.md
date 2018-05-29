@@ -1,7 +1,7 @@
 ---
 imdb: "1859650"
 date: "2012-07-03"
-categories: "movies"
+categories: [ "movies" ]
 title: "Para Roma com Amor"
 stars: "4/5"
 desc: "Para Roma com Amor. To Rome with Love (USA, 2012). Dirigido por Woody Allen. Escrito por Woody Allen. Com Judy Davis, Flavio Parenti, Roberto Benigni, Alison Pill, Alessandro Tiberi, Alessandra Mastronardi, Alec Baldwin, Carol Alt, David Pasquesi."

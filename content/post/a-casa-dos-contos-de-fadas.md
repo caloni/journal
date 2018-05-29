@@ -1,7 +1,7 @@
 ---
 imdb: "1429430"
 date: "2016-01-30"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Casa dos Contos de Fadas"
 stars: "3/5"
 desc: "A Casa dos Contos de Fadas. Kérity, la maison des contes (France, 2009). Dirigido por Dominique Monfery. Escrito por Anik Leray, Anik Leray, Alexandre Reverend, Murielle Canta. Com Paul Bandey, Pascal Berger, Lorànt Deutsch, Joanne Farrell, Christine Flowers, David Gasman, Julie Gayet, Gonzales, Gursharan Mann."

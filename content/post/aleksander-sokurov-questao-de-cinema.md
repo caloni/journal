@@ -1,7 +1,7 @@
 ---
 imdb: 4296736
 date: "2011-10-24"
-categories: "movies"
+categories: [ "movies" ]
 title: "Aleksander Sokurov Uma Questão de Cinema"
 stars: "3/5"
 desc: "Aleksander Sokurov Uma Questão de Cinema. Alexandre Sokurov: Questions de cinéma (France, 2008). Dirigido por Anne Imbert. Escrito por Anne Imbert. Com Aleksandr Sokurov."

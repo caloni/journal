@@ -1,7 +1,7 @@
 ---
 imdb: "3715320"
 date: "2016-07-29"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Homem Irracional"
 stars: "3/5"
 desc: "O Homem Irracional. Irrational Man (USA, 2015). Dirigido por Woody Allen. Escrito por Woody Allen. Com Joaquin Phoenix, Emma Stone, Joe Stapleton, Nancy Carroll, Allison Gallerani, Brigette Lundy-Paine, Katelyn Semer, Betsy Aidem, Ethan Phillips."

@@ -1,7 +1,7 @@
 ---
 imdb: "0112604"
 date: "2015-03-25"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Beijo da Borboleta"
 stars: "5/5"
 desc: "O Beijo da Borboleta. Butterfly Kiss (UK, 1995). Dirigido por Michael Winterbottom. Escrito por Frank Cottrell Boyce, Frank Cottrell Boyce, Michael Winterbottom. Com Amanda Plummer, Kathy Jamieson, Saskia Reeves, Des McAleer, Lisa Riley, Freda Dowie, Paula Tilbrook, Fine Time Fontayne, Elizabeth McGrath."

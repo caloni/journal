@@ -2,7 +2,7 @@
 tags: ['netflix']
 imdb: "6048930"
 date: 2017-08-14T20:48:15
-categories: "movies"
+categories: [ "movies" ]
 title: "Naked"
 stars: "1/5"
 desc: "Naked. Naked (USA, 2017). Dirigido por Michael Tiddes. Escrito por Rick Alvarez, Mårten Knutsson, Torkel Knutsson, Cory Koller, Marlon Wayans. Com Marlon Wayans (Rob Anderson), Regina Hall (Megan), Dennis Haysbert (Reginald Swope), J.T. Jackson (Benny), Scott Foley (Cody Favors), Eliza Coupe (Vicky), Brian McKnight (Brian McKnight), Loretta Devine (Carol), Cory Hardrict (Drill)."

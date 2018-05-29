@@ -1,7 +1,7 @@
 ---
 imdb: "1882041"
 date: "2011-04-27"
-categories: "movies"
+categories: [ "movies" ]
 title: "As Mães de Chico Xavier"
 stars: "2/5"
 desc: "As Mães de Chico Xavier. As Mães de Chico Xavier (Brazil, 2011). Dirigido por Glauber Filho, Halder Gomes. Escrito por Glauber Filho, Marcel Souto Maior, Emmanuel Nogueira. Com Paulo Goulart Filho, Nelson Xavier, Herson Capri, Vanessa Gerbelli, Tainá Müller, Vya Negromonte, Caio Blat, Gustavo Falcão, Joelson Medeiros."

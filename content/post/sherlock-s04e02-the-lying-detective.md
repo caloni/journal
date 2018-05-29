@@ -2,7 +2,7 @@
 tags: ['netflix', 'sherlock', 'series']
 imdb: "3845888"
 date: "2017-04-16"
-categories: "blog"
+categories: [ "blog" ]
 title: "Sherlock - Quarta Temporada, Episódio 2: The Lying Detective"
 stars: "5/5"
 desc: "Sherlock - Quarta Temporada, Episódio 2: The Lying Detective. Dirigido por Nick Hurran. Escrito por Steven Moffat, Arthur Conan Doyle, Mark Gatiss. Com Benedict Cumberbatch (Sherlock Holmes), Martin Freeman (Dr. John Watson), Una Stubbs (Mrs. Hudson), Rupert Graves (DI Lestrade), Mark Gatiss (Mycroft Holmes), Louise Brealey (Molly Hooper), Amanda Abbington (Mary Watson), Toby Jones (Culverton Smith), Lindsay Duncan (Lady Smallwood)."

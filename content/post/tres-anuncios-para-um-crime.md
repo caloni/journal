@@ -1,7 +1,7 @@
 ---
 date: 2018-03-13T18:42:29
 imdb: "5027774"
-categories: "movies"
+categories: [ "movies" ]
 stars: "4/5"
 title: "Tres Anúncios Para Um Crime"
 desc: "Tres Anúncios Para Um Crime."

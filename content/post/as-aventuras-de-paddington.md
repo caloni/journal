@@ -1,7 +1,7 @@
 ---
 imdb: "1109624"
 date: "2014-12-10"
-categories: "movies"
+categories: [ "movies" ]
 title: "As Aventuras de Paddington"
 stars: "4/5"
 revision: [datetime.date(2016, 3, 25)]

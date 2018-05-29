@@ -1,7 +1,7 @@
 ---
 imdb: "0037638"
 date: "2010-10-13"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Curva do Destino"
 stars: "4/5"
 desc: "A Curva do Destino. Detour (USA, 1945). Dirigido por Edgar G. Ulmer. Escrito por Martin Goldsmith, Martin Goldsmith, Martin Mooney. Com Tom Neal, Ann Savage, Claudia Drake, Edmund MacDonald, Tim Ryan, Esther Howard, Pat Gleason, Don Brodie, Roger Clark."

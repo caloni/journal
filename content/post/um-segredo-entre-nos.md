@@ -1,7 +1,7 @@
 ---
 imdb: "0961108"
 date: "2011-02-13"
-categories: "movies"
+categories: [ "movies" ]
 title: "Um Segredo entre Nós"
 stars: "2/5"
 desc: "Um Segredo entre Nós. Fireflies in the Garden (USA, 2008). Dirigido por Dennis Lee. Escrito por Robert Frost, Dennis Lee. Com Ryan Reynolds, Willem Dafoe, Emily Watson, Carrie-Anne Moss, Julia Roberts, Ioan Gruffudd, Hayden Panettiere, Shannon Lucio, Cayden Boyd."

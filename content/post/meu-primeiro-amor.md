@@ -2,7 +2,7 @@
 tags: ['paulocoelho']
 imdb: "0102492"
 date: 2017-10-29T17:52:19
-categories: "movies"
+categories: [ "movies" ]
 title: "Meu Primeiro Amor"
 stars: "5/5"
 desc: "Meu Primeiro Amor. My Girl (USA, 1991). Dirigido por Howard Zieff. Escrito por Laurice Elehwany. Com Dan Aykroyd (Harry Sultenfuss), Jamie Lee Curtis (Shelly DeVoto), Macaulay Culkin (Thomas J. Sennett), Anna Chlumsky (Vada Sultenfuss), Richard Masur (Phil Sultenfuss), Griffin Dunne (Mr. Bixler), Ann Nelson (Gramoo Sultenfuss), Peter Michael Goetz (Dr. Welty), Jane Hallaren (Nurse Randall)."

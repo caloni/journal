@@ -2,7 +2,7 @@
 tags: ['cabine']
 imdb: "2325977"
 date: "2016-10-09"
-categories: "movies"
+categories: [ "movies" ]
 title: "Terra Estranha"
 stars: "4/5"
 desc: "Terra Estranha. Strangerland (Australia, 2015). Dirigido por Kim Farrant. Escrito por Michael Kinirons, Fiona Seres, Fiona Seres. Com Nicole Kidman (Catherine), Joseph Fiennes (Matthew), Hugo Weaving (Rae), Lisa Flanagan (Coreen), Meyne Wyatt (Burtie), Maddison Brown (Lily), Nicholas Hamilton (Tom), Jim Russell (Alan Robertson), Sean Keenan (Steve Robertson)."

@@ -1,7 +1,7 @@
 ---
 imdb: "0120915"
 date: "2011-05-27"
-categories: "movies"
+categories: [ "movies" ]
 title: "Star Wars Episódio I A Ameaça Fantasma"
 stars: "3/5"
 desc: "Star Wars Episódio I A Ameaça Fantasma. Star Wars: Episode I - The Phantom Menace (USA, 1999). Dirigido por George Lucas. Escrito por George Lucas. Com Liam Neeson, Ewan McGregor, Natalie Portman, Jake Lloyd, Ian McDiarmid, Pernilla August, Oliver Ford Davies, Hugh Quarshie, Ahmed Best."

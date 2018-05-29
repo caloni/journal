@@ -1,7 +1,7 @@
 ---
 imdb: "1840309"
 date: "2014-05-13"
-categories: "movies"
+categories: [ "movies" ]
 title: "Divergente"
 stars: "3/5"
 desc: "Divergente. Divergent (USA, 2014). Dirigido por Neil Burger. Escrito por Veronica Roth, Evan Daugherty, Vanessa Taylor. Com Shailene Woodley, Theo James, Ashley Judd, Jai Courtney, Ray Stevenson, Zoë Kravitz, Miles Teller, Tony Goldwyn, Ansel Elgort."

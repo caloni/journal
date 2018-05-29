@@ -1,7 +1,7 @@
 ---
 date: 2018-04-02T19:42:49-03:00
 title: "Uma Temporada na França"
-categories: "movies"
+categories: [ "movies" ]
 imdb: "7177156"
 stars: "3/5"
 desc: "Une saison en France (França, 2017), escrito e dirigido por Mahamat-Saleh Haroun, com Eriq Ebouaney, Sandrine Bonnaire, Aalayna Lys."

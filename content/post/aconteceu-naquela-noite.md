@@ -1,7 +1,7 @@
 ---
 imdb: "0025316"
 date: "2015-11-01"
-categories: "movies"
+categories: [ "movies" ]
 title: "Aconteceu Naquela Noite"
 stars: "4/5"
 desc: "Aconteceu Naquela Noite. It Happened One Night (USA, 1934). Dirigido por Frank Capra. Escrito por Robert Riskin, Samuel Hopkins Adams. Com Clark Gable, Claudette Colbert, Walter Connolly, Roscoe Karns, Jameson Thomas, Alan Hale, Arthur Hoyt, Blanche Friderici, Charles C. Wilson."

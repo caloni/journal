@@ -1,7 +1,7 @@
 ---
 imdb: "0947798"
 date: "2011-02-23"
-categories: "movies"
+categories: [ "movies" ]
 title: "Cisne Negro"
 stars: "5/5"
 desc: "Cisne Negro. Black Swan (USA, 2010). Dirigido por Darren Aronofsky. Escrito por Mark Heyman, Andres Heinz, John J. McLaughlin, Andres Heinz. Com Natalie Portman, Mila Kunis, Vincent Cassel, Barbara Hershey, Winona Ryder, Benjamin Millepied, Ksenia Solo, Kristina Anapau, Janet Montgomery."

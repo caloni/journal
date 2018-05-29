@@ -1,7 +1,7 @@
 ---
 imdb: "0494222"
 date: "2011-03-24"
-categories: "movies"
+categories: [ "movies" ]
 title: "Loucos por Nada"
 stars: "3/5"
 desc: "Loucos por Nada. Eagle vs Shark (New Zealand, 2007). Dirigido por Taika Waititi. Escrito por Loren Taylor, Taika Waititi, Taika Waititi. Com Loren Taylor, Jemaine Clement, Joel Tobeck, Brian Sergent, Craig Hall, Rachel House, Morag Hills, Bernard Stewart, Taika Waititi."

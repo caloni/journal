@@ -1,7 +1,7 @@
 ---
 date: 2018-03-26T22:17:35-03:00
 title: "José Padilha encontra o fundo do poço graças à Netflix e sua cegueira ideológica"
-categories: "blog"
+categories: [ "blog" ]
 imdb: "6873658"
 stars: "2/5"
 desc: "O Mecanismo. Brasil, 2018. Direção e roteiro de José Padilha, com Selton Mello, Caroline Abras, Enrique Diaz."

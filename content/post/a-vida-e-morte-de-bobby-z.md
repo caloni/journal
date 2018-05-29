@@ -1,7 +1,7 @@
 ---
 imdb: "0473188"
 date: "2014-01-01"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Vida e a Morte De Bobby Z"
 stars: "1/5"
 desc: "A Vida e a Morte De Bobby Z. The Death and Life of Bobby Z (USA, 2007). Dirigido por John Herzfeld. Escrito por Bob Krakower, Larry Schapiro, Don Winslow. Com Paul Walker, Laurence Fishburne, Olivia Wilde, Jason Flemyng, Keith Carradine, Joaquim de Almeida, J.R. Villarreal, Jason Lewis, Jacob Vargas."

@@ -1,7 +1,7 @@
 ---
 imdb: "0094012"
 date: "2013-01-23"
-categories: "movies"
+categories: [ "movies" ]
 title: "SOS Tem um Louco Solto no Espaço"
 stars: "4/5"
 desc: "SOS Tem um Louco Solto no Espaço. Spaceballs (USA, 1987). Dirigido por Mel Brooks. Escrito por Mel Brooks, Thomas Meehan, Ronny Graham. Com Mel Brooks, John Candy, Rick Moranis, Bill Pullman, Daphne Zuniga, Dick Van Patten, George Wyner, Michael Winslow, Joan Rivers."

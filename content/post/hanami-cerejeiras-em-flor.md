@@ -1,7 +1,7 @@
 ---
 imdb: "0910559"
 date: "2011-10-29"
-categories: "movies"
+categories: [ "movies" ]
 title: "Hanami Cerejeiras em Flor"
 stars: "5/5"
 revision: [datetime.date(2014, 5, 25)]

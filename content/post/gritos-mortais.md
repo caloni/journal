@@ -1,7 +1,7 @@
 ---
 imdb: "0455760"
 date: "2014-12-10"
-categories: "movies"
+categories: [ "movies" ]
 title: "Gritos Mortais"
 stars: "3/5"
 desc: "Gritos Mortais. Dead Silence (USA, 2007). Dirigido por James Wan. Escrito por Leigh Whannell, James Wan, Leigh Whannell. Com Ryan Kwanten, Amber Valletta, Donnie Wahlberg, Michael Fairman, Joan Heney, Bob Gunton, Laura Regan, Dmitry Chepovetsky, Judith Roberts."

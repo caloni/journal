@@ -2,7 +2,7 @@
 tags: ['mcu', 'xmen']
 imdb: "1877832"
 date: "2014-05-26"
-categories: "movies"
+categories: [ "movies" ]
 title: "X-Men Dias de um Futuro Esquecido"
 stars: "4/5"
 desc: "X-Men Dias de um Futuro Esquecido. X-Men: Days of Future Past (USA, 2014). Dirigido por Bryan Singer. Escrito por Simon Kinberg, Jane Goldman, Simon Kinberg, Matthew Vaughn. Com Hugh Jackman, James McAvoy, Michael Fassbender, Jennifer Lawrence, Halle Berry, Nicholas Hoult, Anna Paquin, Ellen Page, Peter Dinklage."

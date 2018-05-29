@@ -1,7 +1,7 @@
 ---
 imdb: "1634524"
 date: "2011-10-24"
-categories: "movies"
+categories: [ "movies" ]
 title: "Jitters"
 stars: "3/5"
 desc: "Jitters. Órói (Iceland, 2010). Dirigido por Baldvin Zophoníasson. Escrito por Ingibjörg Reynisdóttir, Baldvin Zophoníasson. Com Atli Oskar Fjalarsson, Ilva Holmes, Gísli Örn Garðarsson, Birna Rún Eiríksdóttir, Lilja Guðrún Þorvaldsdóttir, Elías Helgi Kofoed-Hansen, Haraldur Ari Stefánsson, María Birta, Ingibjörg Reynisdóttir."

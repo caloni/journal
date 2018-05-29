@@ -1,7 +1,7 @@
 ---
 imdb: "3118452"
 date: "2015-10-24"
-categories: "movies"
+categories: [ "movies" ]
 title: "Circle"
 stars: "4/5"
 desc: "Circle. Circle (USA, 2015). Dirigido por Aaron Hann, Mario Miscione. Escrito por Aaron Hann, Mario Miscione. Com Julie Benz, Mercy Malick, Carter Jenkins, Sara Sanderson, Lisa Pelikan, Lawrence Kao, Cesar Garcia, Michael Nardelli, Jordi Vilasuso."

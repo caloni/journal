@@ -1,7 +1,7 @@
 ---
 imdb: "1596365"
 date: "2012-03-04"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Mulher de Preto"
 stars: "3/5"
 desc: "A Mulher de Preto. The Woman in Black (UK, 2012). Dirigido por James Watkins. Escrito por Susan Hill, Jane Goldman. Com Emma Shorey, Molly Harmon, Ellisa Walker-Reid, Sophie Stuckey, Daniel Radcliffe, Misha Handley, Jessica Raine, Roger Allam, Lucy May Barker."

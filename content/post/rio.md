@@ -1,7 +1,7 @@
 ---
 imdb: "1436562"
 date: "2011-04-27"
-categories: "movies"
+categories: [ "movies" ]
 title: "Rio"
 stars: "3/5"
 desc: "Rio. Rio (USA, 2011). Dirigido por Carlos Saldanha. Escrito por Carlos Saldanha, Earl Richey Jones, Todd R. Jones, Don Rhymer, Joshua Sternin, Jennifer Ventimilia, Sam Harper. Com Karen Disher, Jason Fricchione, Sofia Scarpa Saldanha, Leslie Mann, Kelly Keaton, Jesse Eisenberg, Wanda Sykes, Jane Lynch, Rodrigo Santoro."

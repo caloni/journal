@@ -1,7 +1,7 @@
 ---
 imdb: "0076759"
 date: "2017-12-26"
-categories: "movies"
+categories: [ "movies" ]
 title: "Guerra nas Estrelas (aka Star Wars Episódio IV: Uma Nova Esperança)"
 stars: "3/5"
 revision: [datetime.date(2017, 12, 26)]

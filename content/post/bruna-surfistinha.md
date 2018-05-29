@@ -1,7 +1,7 @@
 ---
 imdb: "1587828"
 date: "2011-03-15"
-categories: "movies"
+categories: [ "movies" ]
 title: "Bruna Surfistinha"
 stars: "3/5"
 desc: "Bruna Surfistinha. Bruna Surfistinha (Brazil, 2011). Dirigido por Marcus Baldini. Escrito por José Carvalho, Homero Olivetto, Raquel Pacheco, Antônia Pellegrino, Jorge Tarquini. Com Deborah Secco, Cássio Gabus Mendes, Drica Moraes, Fabiula Nascimento, Cristina Lago, Guta Ruiz, Clarisse Abujamra, Luciano Chirolli, Sérgio Guizé."

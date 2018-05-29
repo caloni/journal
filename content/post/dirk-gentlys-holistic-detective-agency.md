@@ -2,7 +2,7 @@
 tags: ['netflix', 'dirkgently', 'series']
 imdb: "4047038"
 date: "2017-01-01"
-categories: "series"
+categories: [ "series" ]
 title: "Dirk Gently's Holistic Detective Agency - Primeira Temporada, Episódios 1 ao 3"
 stars: "3/5"
 desc: "Dirk Gently's Holistic Detective Agency - Primeira Temporada, Episódios 1 ao 3. Dirk Gently's Holistic Detective Agency (USA, 2016). Dirigido por Paco Cabezas, Tamra Davis, Michael Patrick Jann, Dean Parisot. Escrito por Douglas Adams, Max Landis, Andrew Black. Com Samuel Barnett (Dirk Gently), Elijah Wood (Todd Brotzman / ...), Hannah Marks (Amanda Brotzman / ...), Fiona Dourif (Bart Curlish), Jade Eshete (Farah Black), Mpho Koaho (Ken), Michael Eklund (Martin), Dustin Milligan (Sgt. Hugo Friedkin / ...), Neil Brown Jr. (Estevez)."

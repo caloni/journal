@@ -2,7 +2,7 @@
 tags: ['cabine']
 imdb: "3612984"
 date: "2016-09-30"
-categories: "movies"
+categories: [ "movies" ]
 title: "Caprice: Amor à Francesa"
 stars: "5/5"
 desc: "Caprice: Amor à Francesa. Caprice (France, 2015). Dirigido por Emmanuel Mouret. Escrito por Emmanuel Mouret. Com Virginie Efira, Anaïs Demoustier, Laurent Stocker, Emmanuel Mouret, Thomas Blanchard, Mathilde Warnier, Olivier Cruveiller, Botum Dupuis, Néo Rouleau."

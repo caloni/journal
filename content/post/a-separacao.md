@@ -1,7 +1,7 @@
 ---
 imdb: "1832382"
 date: "2015-08-24"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Separação"
 stars: "5/5"
 desc: "A Separação. Jodaeiye Nader az Simin (Iran, 2011). Dirigido por Asghar Farhadi. Escrito por Asghar Farhadi. Com Peyman Moaadi, Leila Hatami, Sareh Bayat, Shahab Hosseini, Sarina Farhadi, Merila Zare'i, Ali-Asghar Shahbazi, Babak Karimi, Kimia Hosseini."

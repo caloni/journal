@@ -1,7 +1,7 @@
 ---
 imdb: "0085407"
 date: "2014-03-01"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Hora da Zona Morta"
 stars: "4/5"
 desc: "A Hora da Zona Morta. The Dead Zone (USA, 1983). Dirigido por David Cronenberg. Escrito por Jeffrey Boam, Stephen King. Com Christopher Walken, Brooke Adams, Tom Skerritt, Herbert Lom, Anthony Zerbe, Colleen Dewhurst, Martin Sheen, Nicholas Campbell, Sean Sullivan."

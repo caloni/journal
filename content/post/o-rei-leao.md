@@ -1,7 +1,7 @@
 ---
 imdb: "0110357"
 date: "2011-09-05"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Rei Leão"
 stars: "4/5"
 revision: [datetime.date(2012, 12, 25)]

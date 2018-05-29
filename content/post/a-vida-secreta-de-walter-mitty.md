@@ -1,7 +1,7 @@
 ---
 imdb: "0359950"
 date: "2013-12-26"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Vida Secreta de Walter Mitty"
 stars: "4/5"
 desc: "A Vida Secreta de Walter Mitty. The Secret Life of Walter Mitty (USA, 2013). Dirigido por Ben Stiller. Escrito por Steve Conrad, Steve Conrad, James Thurber. Com Ben Stiller, Kristen Wiig, Jon Daly, Kathryn Hahn, Terence Bernie Hines, Adam Scott, Paul Fitzgerald, Grace Rex, Alex Anfanger."

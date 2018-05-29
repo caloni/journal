@@ -1,7 +1,7 @@
 ---
 imdb: "1694539"
 date: "2010-12-20"
-categories: "movies"
+categories: [ "movies" ]
 title: "Sem Medo As Canções De Luciano Ligabue"
 stars: "3/5"
 desc: "Sem Medo As Canções De Luciano Ligabue. Niente paura (Italy, 2010). Dirigido por Piergiorgio Gay. Escrito por Piergiorgio Gay, Piergiorgio Paterlini. Com Luciana Castellina, Luigi Ciotti, Beppino Englaro, Margherita Hack, Luciano Ligabue, Stefano Rodotà, Sabina Rossa, Paolo Rossi, Giovanni Soldini."

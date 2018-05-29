@@ -1,7 +1,7 @@
 ---
 imdb: "0481499"
 date: "2014-01-31"
-categories: "movies"
+categories: [ "movies" ]
 title: "Os Croods"
 stars: "3/5"
 desc: "Os Croods. The Croods (USA, 2013). Dirigido por Kirk De Micco, Chris Sanders. Escrito por Chris Sanders, Kirk De Micco, John Cleese, Kirk De Micco, Chris Sanders. Com Nicolas Cage, Emma Stone, Ryan Reynolds, Catherine Keener, Cloris Leachman, Clark Duke, Chris Sanders, Randy Thom."

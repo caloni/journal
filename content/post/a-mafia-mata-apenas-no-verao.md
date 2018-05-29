@@ -1,7 +1,7 @@
 ---
 imdb: "3374966"
 date: "2016-04-10"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Máfia Mata Apenas no Verão"
 stars: "3/5"
 desc: "A Máfia Mata Apenas no Verão. La mafia uccide solo d'estate (Italy, 2013). Dirigido por Pif. Escrito por Michele Astori, Pif, Marco Martani. Com Cristiana Capotondi, Pif, Alex Bisconti, Ginevra Antona, Claudio Gioè, Barbara Tabita, Rosario Lisma, Enzo Salomone, Maurizio Marchetti."

@@ -2,7 +2,7 @@
 tags: ['cabine']
 imdb: "1361318"
 date: "2015-03-05"
-categories: "movies"
+categories: [ "movies" ]
 title: "Risco Imediato"
 stars: "3/5"
 desc: "Risco Imediato. Good People (USA, 2014). Dirigido por Henrik Ruben Genz. Escrito por Marcus Sakey, Kelly Masterson. Com Sam Spruell, Michael Fox, Diarmaid Murtagh, Francis Magee, Omar Sy, Maarten Dannenberg, Kate Hudson, Orlando Burns-Tucker, Bertram Burns-Tucker."

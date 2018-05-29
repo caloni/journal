@@ -1,7 +1,7 @@
 ---
 imdb: "0948530"
 date: "2010-09-24"
-categories: "movies"
+categories: [ "movies" ]
 title: "Moscow Belgium"
 stars: "5/5"
 desc: "Moscow Belgium. Aanrijding in Moscou (Belgium, 2008). Dirigido por Christophe Van Rompaey. Escrito por Jean-Claude Van Rijckeghem, Pat van Beirs. Com Barbara Sarafian, Jurgen Delnaet, Johan Heldenbergh, Anemone Valcke, Sofia Ferri, Julian Borsani, Bob De Moor, Jits Van Belle, Griet van Damme."

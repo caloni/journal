@@ -1,7 +1,7 @@
 ---
 imdb: "3118874"
 date: "2015-10-27"
-categories: "movies"
+categories: [ "movies" ]
 title: "Back in Time"
 stars: "2/5"
 desc: "Back in Time. Back in Time (USA, 2015). Dirigido por Jason Aron. Com Michael J. Fox, Christopher Lloyd, Lea Thompson, Claudia Wells, Steven Spielberg, Robert Zemeckis, Jeffrey Weissman, James Tolkan, Bob Gale."

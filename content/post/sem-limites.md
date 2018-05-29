@@ -1,7 +1,7 @@
 ---
 imdb: "1219289"
 date: "2016-03-19"
-categories: "movies"
+categories: [ "movies" ]
 title: "Sem Limites"
 stars: "3/5"
 desc: "Sem Limites. Limitless (USA, 2011). Dirigido por Neil Burger. Escrito por Leslie Dixon, Alan Glynn. Com Bradley Cooper, Robert De Niro, Abbie Cornish, Andrew Howard, Anna Friel, Johnny Whitworth, Tomas Arana, Robert John Burke, Darren Goldstein."

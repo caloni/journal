@@ -1,7 +1,7 @@
 ---
 imdb: "0758752"
 date: "2011-02-05"
-categories: "movies"
+categories: [ "movies" ]
 title: "Amor e Outras Drogas"
 stars: "3/5"
 desc: "Amor e Outras Drogas. Love & Other Drugs (USA, 2010). Dirigido por Edward Zwick. Escrito por Charles Randolph, Edward Zwick, Marshall Herskovitz, Jamie Reidy. Com Jake Gyllenhaal, Anne Hathaway, Oliver Platt, Hank Azaria, Josh Gad, Gabriel Macht, Judy Greer, George Segal, Jill Clayburgh."

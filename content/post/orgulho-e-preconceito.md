@@ -1,7 +1,7 @@
 ---
 imdb: "0414387"
 date: "2012-07-20"
-categories: "movies"
+categories: [ "movies" ]
 title: "Orgulho e Preconceito"
 stars: "5/5"
 desc: "Orgulho e Preconceito. Pride & Prejudice (France, 2005). Dirigido por Joe Wright. Escrito por Jane Austen, Deborah Moggach, Emma Thompson. Com Keira Knightley, Talulah Riley, Rosamund Pike, Jena Malone, Carey Mulligan, Donald Sutherland, Brenda Blethyn, Claudie Blakley, Sylvester Morand."

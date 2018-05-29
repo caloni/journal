@@ -2,7 +2,7 @@
 tags: ['cabine']
 imdb: "2364897"
 date: "2016-10-11"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Quarto dos Esquecidos"
 stars: "4/5"
 desc: "O Quarto dos Esquecidos. The Disappointments Room (USA, 2016). Dirigido por D.J. Caruso. Escrito por D.J. Caruso, Wentworth Miller. Com Lucas Till (Ben), Kate Beckinsale (Dana), Gerald McRaney (Judge Blacker), Michael Landes (Teddy), Michaela Conlin (Jules), Celia Weston (Marti), Mel Raido (David), Duncan Joiner (Lucas), Charles Carroll (Old Man)."

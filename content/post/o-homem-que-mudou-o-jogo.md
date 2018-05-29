@@ -1,7 +1,7 @@
 ---
 imdb: "1210166"
 date: "2012-03-06"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Homem Que Mudou o Jogo"
 stars: "5/5"
 desc: "O Homem Que Mudou o Jogo. Moneyball (USA, 2011). Dirigido por Bennett Miller. Escrito por Steven Zaillian, Aaron Sorkin, Stan Chervin, Michael Lewis. Com Brad Pitt, Jonah Hill, Philip Seymour Hoffman, Robin Wright, Chris Pratt, Stephen Bishop, Reed Diamond, Brent Jennings, Ken Medlock."

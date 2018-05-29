@@ -1,7 +1,7 @@
 ---
 imdb: "1431045"
 date: "2016-02-27"
-categories: "movies"
+categories: [ "movies" ]
 title: "Deadpool"
 stars: "4/5"
 revision: [datetime.date(2016, 6, 14)]

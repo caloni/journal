@@ -1,7 +1,7 @@
 ---
 imdb: "0366551"
 date: "2014-01-17"
-categories: "movies"
+categories: [ "movies" ]
 title: "Madrugada Muito Louca"
 stars: "3/5"
 desc: "Madrugada Muito Louca. Harold & Kumar Go to White Castle (USA, 2004). Dirigido por Danny Leiner. Escrito por Jon Hurwitz, Hayden Schlossberg. Com John Cho, Ethan Embry, Rob Tinkler, Fred Willard, Kal Penn, Steve Braun, Dan Bochart, Paula Garcés, Mike Sheer."

@@ -2,7 +2,7 @@
 tags: ['paulocoelho']
 imdb: "4877122"
 date: 2017-11-23T01:21:08
-categories: "movies"
+categories: [ "movies" ]
 title: "Emoji: O Filme"
 stars: "1/5"
 desc: "Emoji: O Filme. The Emoji Movie (USA, 2017). Dirigido por Tony Leondis. Escrito por Tony Leondis, Eric Siegel, Mike White, John Hoffman. Com T.J. Miller (Gene), James Corden (Hi-5), Anna Faris (Jailbreak), Maya Rudolph (Smiler), Steven Wright (Mel Meh), Jennifer Coolidge (Mary Meh), Patrick Stewart (Poop), Christina Aguilera (Akiko Glitter), Sofía Vergara (Flamenca)."

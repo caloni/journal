@@ -1,7 +1,7 @@
 ---
 imdb: "1318514"
 date: "2011-08-31"
-categories: "movies"
+categories: [ "movies" ]
 title: "Planeta dos Macacos A Origem"
 stars: "5/5"
 revision: [datetime.date(2016, 1, 23)]

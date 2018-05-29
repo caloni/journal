@@ -2,7 +2,7 @@
 tags: ['dublado']
 imdb: "0120631"
 date: "2016-11-17"
-categories: "movies"
+categories: [ "movies" ]
 title: "Para Sempre Cinderela"
 stars: "4/5"
 desc: "Para Sempre Cinderela. EverAfter (USA, 1998). Dirigido por Andy Tennant. Escrito por Susannah Grant, Andy Tennant, Rick Parks, Charles Perrault. Com Drew Barrymore (Danielle), Anjelica Huston (Rodmilla), Dougray Scott (Prince Henry), Patrick Godfrey (Leonardo), Megan Dodds (Marguerite), Melanie Lynskey (Jacqueline), Timothy West (King Francis), Judy Parfitt (Queen Marie), Jeroen Krabbé (Auguste)."

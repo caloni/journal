@@ -2,7 +2,7 @@
 tags: ['netflix']
 imdb: "4677578"
 date: 2017-10-22T21:57:15
-categories: "movies"
+categories: [ "movies" ]
 title: "A Leoa"
 stars: "3/5"
 desc: "A Leoa. Løvekvinnen (Norway, 2016). Dirigido por Vibeke Idsøe. Escrito por Erik Fosnes Hansen, Vibeke Idsøe. Com Rolf Lassgård (Gustav), Kjersti Tveterås (Hannah), Aurora Lindseth-Løkka (Eva), Mathilde Thomine Storm (Eva), Ida Ursin-Holm (Eva), Karen-Lise Mynster (Mrs. Birgerson), Lars Knutzon (Professor Stroem), Kåre Conradi (Jahnn), Rolf Kristian Larsen (Sparky)."

@@ -1,7 +1,7 @@
 ---
 imdb: "2446192"
 date: "2014-08-16"
-categories: "movies"
+categories: [ "movies" ]
 title: "Bronies The Extremely Unexpected Adult Fans of My Little Pony"
 stars: "3/5"
 desc: "Bronies The Extremely Unexpected Adult Fans of My Little Pony. Bronies: The Extremely Unexpected Adult Fans of My Little Pony (USA, 2012). Dirigido por Laurent Malaquais. Escrito por Nat Segaloff. Com John de Lancie, Alex Tibcken, Tim Star, Lauren Faust, Lyle Gilpatrick, Jeanne Gilpatrick, Tom Gilpatrick, Yoav Landau, S.R. Foxley."

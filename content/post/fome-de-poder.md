@@ -2,7 +2,7 @@
 tags: ['paulocoelho']
 imdb: "4276820"
 date: "2017-05-28"
-categories: "movies"
+categories: [ "movies" ]
 title: "Fome de Poder"
 stars: "4/5"
 desc: "Fome de Poder. The Founder (USA, 2016). Dirigido por John Lee Hancock. Escrito por Robert D. Siegel. Com Michael Keaton (Ray Kroc), Nick Offerman (Dick McDonald), John Carroll Lynch (Mac McDonald), Linda Cardellini (Joan Smith), B.J. Novak (Harry J. Sonneborn), Laura Dern (Ethel Kroc), Justin Randell Brooke (Fred Turner), Kate Kneeland (June Martino), Patrick Wilson (Rollie Smith)."

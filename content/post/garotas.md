@@ -2,7 +2,7 @@
 tags: ['cabine']
 imdb: "3655522"
 date: "2015-04-24"
-categories: "movies"
+categories: [ "movies" ]
 title: "Garotas"
 stars: "5/5"
 desc: "Garotas. Bande de filles (France, 2014). Dirigido por Céline Sciamma. Escrito por Céline Sciamma. Com Karidja Touré, Assa Sylla, Lindsay Karamoh, Mariétou Touré, Idrissa Diabaté, Simina Soumaré, Dielika Coulibaly, Cyril Mendy, Djibril Gueye."

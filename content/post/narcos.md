@@ -2,7 +2,7 @@
 tags: ['netflix', 'series']
 imdb: "2707408"
 date: "2015-09-11"
-categories: "blog"
+categories: [ "blog" ]
 title: "Narcos"
 stars: "3/5"
 desc: "Narcos. Narcos (USA, 2015). Dirigido por Andrés Baiz, Guillermo Navarro, Fernando Coimbra, José Padilha. Escrito por Chris Brancato, Samir Mehta, Andrew Black, Dana Ledoux Miller, Carlo Bernard, Doug Miro, Dana Calvo, Nick Schenk, Paul Eckstein. Com Wagner Moura, Maurice Compte, Boyd Holbrook, Pedro Pascal, Joanna Christie, Roberto Urbina, Ana de la Reguera, Danielle Kennedy, Stephanie Sigman."

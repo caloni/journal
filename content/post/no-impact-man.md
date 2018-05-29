@@ -1,7 +1,7 @@
 ---
 imdb: "1280011"
 date: "2014-04-27"
-categories: "movies"
+categories: [ "movies" ]
 title: "No Impact Man"
 stars: "3/5"
 desc: "No Impact Man. No Impact Man: The Documentary (USA, 2009). Dirigido por Laura Gabbert, Justin Schein. Com Colin Beavan, Michelle Conlin."

@@ -1,7 +1,7 @@
 ---
 imdb: "0019760"
 date: "2015-09-21"
-categories: "movies"
+categories: [ "movies" ]
 title: "Um Homem com uma Câmera"
 stars: "5/5"
 desc: "Um Homem com uma Câmera. Chelovek s kino-apparatom (Soviet Union, 1929). Dirigido por Dziga Vertov. Escrito por Dziga Vertov. Com Mikhail Kaufman."

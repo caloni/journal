@@ -1,7 +1,7 @@
 ---
 imdb: "4176826"
 date: "2016-04-16"
-categories: "movies"
+categories: [ "movies" ]
 title: "Ele Está de Volta"
 stars: "2/5"
 desc: "Ele Está de Volta. Er ist wieder da (Germany, 2015). Dirigido por David Wnendt. Escrito por David Wnendt, Minna Fischgartl, Timur Vermes, Marco Kreuzpaintner, Johannes Boss, Collin McMahon. Com Oliver Masucci, Fabian Busch, Thomas M. Köppl, Marc-Marvin Israel, David Gebigke, Paul Busche, Michael Kessler, Gerdy Zint, Nancy Maria Brüning."

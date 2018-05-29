@@ -1,7 +1,7 @@
 ---
 imdb: "0985694"
 date: "2010-10-10"
-categories: "movies"
+categories: [ "movies" ]
 title: "Machete"
 stars: "2/5"
 desc: "Machete. Machete (USA, 2010). Dirigido por Ethan Maniquis, Robert Rodriguez. Escrito por Robert Rodriguez, Álvaro Rodríguez. Com Danny Trejo, Robert De Niro, Jessica Alba, Steven Seagal, Michelle Rodriguez, Jeff Fahey, Cheech Marin, Don Johnson, Shea Whigham."

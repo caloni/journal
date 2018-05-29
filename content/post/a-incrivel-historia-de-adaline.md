@@ -1,7 +1,7 @@
 ---
 imdb: "1655441"
 date: "2015-09-11"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Incrível História de Adaline"
 stars: "3/5"
 desc: "A Incrível História de Adaline. The Age of Adaline (USA, 2015). Dirigido por Lee Toland Krieger. Escrito por J. Mills Goodloe, Salvador Paskowitz, J. Mills Goodloe, J. Mills Goodloe, Salvador Paskowitz. Com Blake Lively, Michiel Huisman, Harrison Ford, Ellen Burstyn, Kathy Baker, Amanda Crew, Lynda Boyd, Hugh Ross, Richard Harmon."

@@ -2,7 +2,7 @@
 tags: ['netflix', '3perc', 'series']
 imdb: "4922804"
 date: "2016-12-04"
-categories: "series"
+categories: [ "series" ]
 title: "3%"
 stars: "3/5"
 desc: "3%. 3% (Brazil, 2016). Dirigido por César Charlone, Jotagá Crema, Daina Giannecchini, Dani Libardi. Escrito por Pedro Aguilera, Jotagá Crema, Cássio Koshikumo, Ivan Nakamura, Denis Nielsen. Com João Miguel (Ezequiel), Bianca Comparato (Michele Santana), Michel Gomes (Fernando Carvalho), Rodolfo Valente (Rafael Moreira), Vaneza Oliveira (Joana Coelho), Viviane Porto (Aline), Sérgio Mamberti (Matheus), Zezé Motta (Nair), Celso Frateschi (Líder da Causa)."

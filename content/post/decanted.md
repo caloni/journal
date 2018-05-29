@@ -2,7 +2,7 @@
 tags: ['netflix']
 imdb: "6085362"
 date: "2017-05-30"
-categories: "movies"
+categories: [ "movies" ]
 title: "Decanted."
 stars: "3/5"
 desc: "Decanted.. Decanted. (USA, 2016). Dirigido por Nick Kovacic. Com Steve Reynolds (Himself), Julien Fayard (Himself), Heidi Barrett (Herself), Aaron Pott (Himself), Philippe Melka (Himself), Mike Martin (Himself), Anthony Bell (Himself)."

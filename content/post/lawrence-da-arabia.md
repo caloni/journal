@@ -1,7 +1,7 @@
 ---
 imdb: "0056172"
 date: "2016-01-18"
-categories: "movies"
+categories: [ "movies" ]
 title: "Lawrence da Arábia"
 stars: "5/5"
 desc: "Lawrence da Arábia. Lawrence of Arabia (UK, 1962). Dirigido por David Lean. Escrito por T.E. Lawrence, Robert Bolt, Michael Wilson. Com Peter O'Toole, Alec Guinness, Anthony Quinn, Jack Hawkins, Omar Sharif, José Ferrer, Anthony Quayle, Claude Rains, Arthur Kennedy."

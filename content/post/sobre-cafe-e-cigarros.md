@@ -1,7 +1,7 @@
 ---
 imdb: "0379217"
 date: "2010-12-20"
-categories: "movies"
+categories: [ "movies" ]
 title: "Sobre Café e Cigarros"
 stars: "3/5"
 desc: "Sobre Café e Cigarros. Coffee and Cigarettes (USA, 2003). Dirigido por Jim Jarmusch. Escrito por Jim Jarmusch. Com Roberto Benigni, Steven Wright, Joie Lee, Cinqué Lee, Steve Buscemi, Iggy Pop, Tom Waits, Joseph Rigano, Vinny Vella."

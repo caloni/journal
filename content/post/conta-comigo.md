@@ -1,7 +1,7 @@
 ---
 imdb: "0092005"
 date: "2012-04-25"
-categories: "movies"
+categories: [ "movies" ]
 title: "Conta Comigo"
 stars: "5/5"
 desc: "Conta Comigo. Stand by Me (USA, 1986). Dirigido por Rob Reiner. Escrito por Stephen King, Raynold Gideon, Bruce A. Evans. Com Wil Wheaton, River Phoenix, Corey Feldman, Jerry O'Connell, Kiefer Sutherland, Casey Siemaszko, Gary Riley, Bradley Gregg, Jason Oliver."

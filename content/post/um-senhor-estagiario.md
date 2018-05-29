@@ -1,7 +1,7 @@
 ---
 imdb: "2361509"
 date: "2015-12-27"
-categories: "movies"
+categories: [ "movies" ]
 title: "Um Senhor Estagiário"
 stars: "3/5"
 desc: "Um Senhor Estagiário. The Intern (USA, 2015). Dirigido por Nancy Meyers. Escrito por Nancy Meyers. Com Robert De Niro, Anne Hathaway, Rene Russo, Anders Holm, JoJo Kushner, Andrew Rannells, Adam DeVine, Ilan Krigsfeld, Zack Pearlman."

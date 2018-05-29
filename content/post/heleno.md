@@ -1,7 +1,7 @@
 ---
 imdb: "1720114"
 date: "2013-01-20"
-categories: "movies"
+categories: [ "movies" ]
 title: "Heleno"
 stars: "4/5"
 desc: "Heleno. Heleno (Brazil, 2011). Dirigido por José Henrique Fonseca. Escrito por L.G. Bayão, Felipe Bragança, Fernando Castets, Roberto Ceuninck, José Henrique Fonseca. Com Rodrigo Santoro, Alinne Moraes, Angie Cepeda, Marcelo Adnet, Priscila Assum, Othon Bastos, Billy Blanco Jr., Herson Capri, Erom Cordeiro."

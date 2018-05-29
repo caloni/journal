@@ -2,7 +2,7 @@
 tags: ['cabine']
 imdb: "5598102"
 date: 2017-11-27T19:05:55
-categories: "movies"
+categories: [ "movies" ]
 title: "Visages, Villages"
 stars: "3/5"
 desc: "Visages, Villages. Visages, villages (France, 2017). Dirigido por JR, Agnès Varda. Escrito por JR, Agnès Varda. Com Jean-Paul Beaujon (Himself), Amaury Bossy (Himself), Yves Boulen (Himself), Jeannine Carpentier (Herself), Marie Douvet (Herself), Claude Ferchal (Himself), Claude Flaert (Himself), Vincent Gils (Himself), Jean-Luc Godard (Himself)."

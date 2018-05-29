@@ -1,7 +1,7 @@
 ---
 imdb: "0112431"
 date: "2012-01-30"
-categories: "movies"
+categories: [ "movies" ]
 title: "Babe O Porquinho Atrapalhado"
 stars: "5/5"
 desc: "Babe O Porquinho Atrapalhado. Babe (Australia, 1995). Dirigido por Chris Noonan. Escrito por Dick King-Smith, George Miller, Chris Noonan. Com Christine Cavanaugh, Miriam Margolyes, Danny Mann, Hugo Weaving, Miriam Flynn, Russi Taylor, Evelyn Krape, Michael Edward-Stevens, Charles Bartlett."

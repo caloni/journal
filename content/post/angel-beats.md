@@ -2,7 +2,7 @@
 tags: ['paulocoelho', 'series']
 imdb: "1639109"
 date: "2016-11-04"
-categories: "series"
+categories: [ "series" ]
 title: "Angel Beats!"
 stars: "1/5"
 desc: "Angel Beats!. Angel Beats! (Japan, 2010). Dirigido por Seiji Kishi, Takefumi Anzai, Hiroyuki Hashimoto, Yoshimichi Hirai, Jong Heo, Kôdai Kakimoto, Masanori Takahashi. Escrito por Takahiro Baba, Jun Maeda. Com Hiroshi Kamiya (Yuzuru Otonashi), Harumi Sakurai (Yuri Nakamura), Kana Hanazawa (Kanade 'Angel' Tachibana), Ryohei Kimura (Hinata), Blake Shepard (Yuzuru Otonashi), Brittney Karbowski (Yuri Nakamura), Emily Neves (Kanade 'Angel' Tachibana / ...), David Matranga (Hinata), Shun Takagi (Noda)."

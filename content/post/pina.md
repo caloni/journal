@@ -1,7 +1,7 @@
 ---
 imdb: "1440266"
 date: "2012-04-04"
-categories: "movies"
+categories: [ "movies" ]
 title: "Pina"
 stars: "5/5"
 desc: "Pina. Pina (Germany, 2011). Dirigido por Wim Wenders. Escrito por Wim Wenders. Com Regina Advento, Malou Airaudo, Ruth Amarante, Jorge Puerta, Pina Bausch, Rainer Behr, Andrey Berezin, Damiano Ottavio Bigi, Bénédicte Billet."

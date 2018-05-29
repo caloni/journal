@@ -2,7 +2,7 @@
 tags: ['netflix', 'houseofcards', 'series']
 imdb: "1856010"
 date: "2016-03-13"
-categories: "series"
+categories: [ "series" ]
 title: "House of Cards - Primeira Temporada"
 stars: "4/5"
 desc: "House of Cards - Primeira Temporada. House of Cards (USA, 2013). Dirigido por James Foley, John David Coles, Carl Franklin, Robin Wright, Allen Coulter, David Fincher, Charles McDougall, Joel Schumacher, John Dahl. Escrito por Andrew Davies, Michael Dobbs, Beau Willimon, Kate Barnow, Sam Forman, John Mankiewicz, Laura Eason, Rick Cleveland, Keith Huff. Com Kevin Spacey, Robin Wright, Michael Kelly, Nathan Darrow, Mahershala Ali, Justin Doescher, Michael Gill, Molly Parker, Derek Cecil."

@@ -1,7 +1,7 @@
 ---
 imdb: "0450278"
 date: "2014-12-15"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Albergue"
 stars: "3/5"
 desc: "O Albergue. Hostel (USA, 2005). Dirigido por Eli Roth. Escrito por Eli Roth. Com Jay Hernandez, Derek Richardson, Eythor Gudjonsson, Barbara Nedeljakova, Jan Vlasák, Jana Kaderabkova, Jennifer Lim, Keiko Seiko, Lubomír Bukový."

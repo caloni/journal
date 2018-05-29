@@ -1,7 +1,7 @@
 ---
 imdb: "0151804"
 date: "2011-08-22"
-categories: "movies"
+categories: [ "movies" ]
 title: "Como Enlouquecer seu Chefe"
 stars: "3/5"
 revision: [datetime.date(2012, 9, 19)]

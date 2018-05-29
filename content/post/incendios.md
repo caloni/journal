@@ -1,7 +1,7 @@
 ---
 imdb: "1255953"
 date: "2011-09-28"
-categories: "movies"
+categories: [ "movies" ]
 title: "Incêndios"
 stars: "5/5"
 desc: "Incêndios. Incendies (Canada, 2010). Dirigido por Denis Villeneuve. Escrito por Valérie Beaugrand-Champagne, Wajdi Mouawad, Denis Villeneuve. Com Mustafa Kamel, Hussein Sami, Rémy Girard, Mélissa Désormeaux-Poulin, Maxim Gaudette, Dominique Briand, Lubna Azabal, Frédéric Paquet, Hamed Najem."

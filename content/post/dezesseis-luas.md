@@ -1,7 +1,7 @@
 ---
 imdb: "1559547"
 date: "2013-07-10"
-categories: "movies"
+categories: [ "movies" ]
 title: "Dezesseis Luas"
 stars: "1/5"
 desc: "Dezesseis Luas. Beautiful Creatures (USA, 2013). Dirigido por Richard LaGravenese. Escrito por Richard LaGravenese, Kami Garcia, Margaret Stohl. Com Alden Ehrenreich, Alice Englert, Jeremy Irons, Viola Davis, Emmy Rossum, Thomas Mann, Emma Thompson, Eileen Atkins, Margo Martindale."

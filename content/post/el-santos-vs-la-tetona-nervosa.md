@@ -1,7 +1,7 @@
 ---
 imdb: "2243275"
 date: "2014-03-02"
-categories: "movies"
+categories: [ "movies" ]
 title: "El Santos VS la Tetona Mendoza"
 stars: "3/5"
 desc: "El Santos VS la Tetona Mendoza. El Santos VS la Tetona Mendoza (Mexico, 2012). Dirigido por Alejandro Lozano, Andrés Couturier, Álvaro Curiel. Escrito por Jose Ignacio Solorzano, Augusto Mendoza, Trino. Com Daniel Giménez Cacho, Héctor Jiménez, José María Yazpik, Regina Orozco, Joaquín Cosio, Cecilia Suárez, Irene Azuela, Jesús Ochoa, Cheech Marin."

@@ -2,7 +2,7 @@
 tags: ['cabine']
 imdb: "4659524"
 date: "2015-07-18"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Nação Que Não Esperou Por Deus"
 stars: "4/5"
 desc: "A Nação Que Não Esperou Por Deus. A Nação Que Não Esperou Por Deus: The Nation That Didn't Wait for God (Brazil, 2015). Dirigido por Rodrigo Hinrichsen, Lúcia Murat. Escrito por Lúcia Murat."

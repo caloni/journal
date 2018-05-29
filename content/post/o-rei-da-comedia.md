@@ -1,7 +1,7 @@
 ---
 imdb: "0085794"
 date: "2016-07-20"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Rei da Comédia"
 stars: "5/5"
 desc: "O Rei da Comédia. The King of Comedy (USA, 1982). Dirigido por Martin Scorsese. Escrito por Paul D. Zimmerman. Com Robert De Niro, Jerry Lewis, Diahnne Abbott, Sandra Bernhard, Ed Herlihy, Lou Brown, Loretta Tupper, Peter Potulski, Vinnie Gonzales."

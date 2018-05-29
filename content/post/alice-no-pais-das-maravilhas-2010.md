@@ -1,7 +1,7 @@
 ---
 imdb: "1014759"
 date: "2010-04-23"
-categories: "movies"
+categories: [ "movies" ]
 title: "Alice no País das Maravilhas"
 stars: "3/5"
 desc: "Alice no País das Maravilhas. Alice in Wonderland (USA, 2010). Dirigido por Tim Burton. Escrito por Linda Woolverton, Lewis Carroll. Com Johnny Depp, Mia Wasikowska, Helena Bonham Carter, Anne Hathaway, Crispin Glover, Matt Lucas, Michael Sheen, Stephen Fry, Alan Rickman."

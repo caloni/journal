@@ -1,7 +1,7 @@
 ---
 imdb: "1663662"
 date: "2013-08-10"
-categories: "movies"
+categories: [ "movies" ]
 title: "Círculo de Fogo"
 stars: "4/5"
 desc: "Círculo de Fogo. Pacific Rim (USA, 2013). Dirigido por Guillermo del Toro. Escrito por Travis Beacham, Guillermo del Toro, Travis Beacham. Com Charlie Hunnam, Diego Klattenhoff, Idris Elba, Rinko Kikuchi, Charlie Day, Burn Gorman, Max Martini, Robert Kazinsky, Clifton Collins Jr.."

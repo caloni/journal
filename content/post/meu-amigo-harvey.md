@@ -1,7 +1,7 @@
 ---
 imdb: "0042546"
 date: "2014-09-13"
-categories: "movies"
+categories: [ "movies" ]
 title: "Meu Amigo Harvey"
 stars: "5/5"
 desc: "Meu Amigo Harvey. Harvey (USA, 1950). Dirigido por Henry Koster. Escrito por Mary Chase, Mary Chase, Oscar Brodney, Myles Connolly. Com James Stewart, Josephine Hull, Peggy Dow, Charles Drake, Cecil Kellaway, Victoria Horne, Jesse White, William H. Lynn, Wallace Ford."

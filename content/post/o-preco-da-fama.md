@@ -2,7 +2,7 @@
 tags: ['cabine']
 imdb: "3194410"
 date: "2015-09-24"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Preço da Fama"
 stars: "3/5"
 desc: "O Preço da Fama. La rançon de la gloire (France, 2014). Dirigido por Xavier Beauvois. Escrito por Xavier Beauvois, Etienne Comar, Marie-Julie Maille. Com Benoît Poelvoorde, Roschdy Zem, Séli Gmach, Chiara Mastroianni, Nadine Labaki, Peter Coyote, Xavier Maly, Arthur Beauvois, Jean-Daniel Bigler."

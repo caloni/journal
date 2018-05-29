@@ -1,7 +1,7 @@
 ---
 imdb: "0450405"
 date: "2011-06-20"
-categories: "movies"
+categories: [ "movies" ]
 title: "Cirque du Freak O Aprendiz de Vampiro"
 stars: "3/5"
 desc: "Cirque du Freak O Aprendiz de Vampiro. Cirque du Freak: The Vampire's Assistant (USA, 2009). Dirigido por Paul Weitz. Escrito por Paul Weitz, Brian Helgeland, Darren Shan. Com John C. Reilly, Josh Hutcherson, Chris Massoglia, Jessica Carlson, Michael Cerveris, Ray Stevenson, Patrick Fugit, Morgan Saylor, Don McManus."

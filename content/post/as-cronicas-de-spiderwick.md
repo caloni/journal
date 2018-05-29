@@ -1,7 +1,7 @@
 ---
 imdb: "0416236"
 date: "2014-04-17"
-categories: "movies"
+categories: [ "movies" ]
 title: "As Crônicas de Spiderwick"
 stars: "3/5"
 desc: "As Crônicas de Spiderwick. The Spiderwick Chronicles (USA, 2008). Dirigido por Mark Waters. Escrito por Karey Kirkpatrick, David Berenbaum, John Sayles, Tony DiTerlizzi, Holly Black. Com Freddie Highmore, Mary-Louise Parker, Nick Nolte, Sarah Bolger, Andrew McCarthy, Joan Plowright, David Strathairn, Seth Rogen, Martin Short."

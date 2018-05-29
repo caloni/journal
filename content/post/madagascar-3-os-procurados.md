@@ -1,7 +1,7 @@
 ---
 imdb: "1277953"
 date: "2012-06-13"
-categories: "movies"
+categories: [ "movies" ]
 title: "Madagascar 3 Os Procurados"
 stars: "3/5"
 desc: "Madagascar 3 Os Procurados. Madagascar 3: Europe's Most Wanted (USA, 2012). Dirigido por Eric Darnell, Tom McGrath, Conrad Vernon. Escrito por Eric Darnell, Noah Baumbach. Com Ben Stiller, Chris Rock, David Schwimmer, Jada Pinkett Smith, Sacha Baron Cohen, Cedric the Entertainer, Andy Richter, Tom McGrath, Frances McDormand."

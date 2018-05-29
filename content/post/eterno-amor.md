@@ -1,7 +1,7 @@
 ---
 imdb: "0344510"
 date: "2016-01-06"
-categories: "movies"
+categories: [ "movies" ]
 title: "Eterno Amor"
 stars: "4/5"
 desc: "Eterno Amor. Un long dimanche de fiançailles (France, 2004). Dirigido por Jean-Pierre Jeunet. Escrito por Sébastien Japrisot, Jean-Pierre Jeunet, Guillaume Laurant, Guillaume Laurant. Com Audrey Tautou, Gaspard Ulliel, Dominique Pinon, Chantal Neuwirth, André Dussollier, Ticky Holgado, Marion Cotillard, Dominique Bettenfeld, Jodie Foster."

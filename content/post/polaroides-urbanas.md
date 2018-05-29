@@ -1,7 +1,7 @@
 ---
 imdb: "0798732"
 date: "2011-04-27"
-categories: "movies"
+categories: [ "movies" ]
 title: "Polaróides Urbanas"
 stars: "4/5"
 desc: "Polaróides Urbanas. Polaróides Urbanas (Brazil, 2008). Dirigido por Miguel Falabella. Escrito por Miguel Falabella, Miguel Falabella. Com Marília Pêra, Arlete Salles, Natália do Vale, Neuza Borges, Roberta Gualda, Stella Miranda, Marcos Caruso, Otávio Augusto, Juliana Baroni."

@@ -1,7 +1,7 @@
 ---
 imdb: "1067106"
 date: "2011-03-21"
-categories: "movies"
+categories: [ "movies" ]
 title: "Os Fantasmas de Scrooge"
 stars: "4/5"
 desc: "Os Fantasmas de Scrooge. A Christmas Carol (USA, 2009). Dirigido por Robert Zemeckis. Escrito por Charles Dickens, Robert Zemeckis. Com Jim Carrey, Steve Valentine, Daryl Sabara, Sage Ryan, Amber Gainey Meade, Ryan Ochoa, Bobbi Page, Ron Bottitta, Sammi Hanratty."

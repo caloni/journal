@@ -1,7 +1,7 @@
 ---
 imdb: "0199777"
 date: "2012-04-20"
-categories: "movies"
+categories: [ "movies" ]
 title: "Molokh"
 stars: "4/5"
 desc: "Molokh. Molokh (Russia, 1999). Dirigido por Aleksandr Sokurov. Escrito por Yuriy Arabov, Marina Koreneva. Com Elena Rufanova, Leonid Mozgovoy, Irina Sokolova, Yelena Spiridonova, Vladimir Bogdanov, Anatoli Shvedersky, Franco Moscon, Natalya Nikulenko, Rosina Tsidulko."

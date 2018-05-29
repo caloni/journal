@@ -1,7 +1,7 @@
 ---
 imdb: "0040522"
 date: "2015-06-18"
-categories: "movies"
+categories: [ "movies" ]
 title: "Ladrões de Bicicletas"
 stars: "5/5"
 desc: "Ladrões de Bicicletas. Ladri di biciclette (Italy, 1948). Dirigido por Vittorio De Sica. Escrito por Cesare Zavattini, Luigi Bartolini, Oreste Biancoli, Suso Cecchi D'Amico, Vittorio De Sica, Adolfo Franci, Gherardo Gherardi, Gerardo Guerrieri, Cesare Zavattini. Com Lamberto Maggiorani, Enzo Staiola, Lianella Carell, Gino Saltamerenda, Vittorio Antonucci, Giulio Chiari, Elena Altieri, Carlo Jachino, Michele Sakara."

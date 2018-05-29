@@ -1,7 +1,7 @@
 ---
 imdb: "1967545"
 date: "2016-07-18"
-categories: "movies"
+categories: [ "movies" ]
 title: "Refém da Paixão"
 stars: "3/5"
 desc: "Refém da Paixão. Labor Day (USA, 2013). Dirigido por Jason Reitman. Escrito por Jason Reitman, Joyce Maynard. Com Kate Winslet, Josh Brolin, Gattlin Griffith, Tobey Maguire, Tom Lipinski, Maika Monroe, Clark Gregg, James Van Der Beek, J.K. Simmons."

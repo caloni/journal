@@ -1,7 +1,7 @@
 ---
 imdb: "3064298"
 date: "2015-09-25"
-categories: "movies"
+categories: [ "movies" ]
 title: "Man Up"
 stars: "4/5"
 desc: "Man Up. Man Up (UK, 2015). Dirigido por Ben Palmer. Escrito por Tess Morris. Com Lake Bell, Simon Pegg, Olivia Williams, Ophelia Lovibond, Ken Stott, Henry Lloyd-Hughes, Rory Kinnear, Sharon Horgan, Dean-Charles Chapman."

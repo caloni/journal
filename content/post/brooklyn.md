@@ -1,7 +1,7 @@
 ---
 imdb: "2381111"
 date: "2016-07-31"
-categories: "movies"
+categories: [ "movies" ]
 title: "Brooklyn"
 stars: "4/5"
 desc: "Brooklyn. Brooklyn (UK, 2015). Dirigido por John Crowley. Escrito por Nick Hornby, Colm Tóibín. Com Saoirse Ronan, Hugh Gormley, Brid Brennan, Maeve McGrath, Emma Lowe, Barbara Drennan, Gillian McCarthy, Fiona Glascott, Jane Brennan."

@@ -1,7 +1,7 @@
 ---
 imdb: "1611224"
 date: "2012-12-24"
-categories: "movies"
+categories: [ "movies" ]
 title: "Abraham Lincoln Caçador de Vampiros"
 stars: "2/5"
 desc: "Abraham Lincoln Caçador de Vampiros. Abraham Lincoln: Vampire Hunter (USA, 2012). Dirigido por Timur Bekmambetov. Escrito por Seth Grahame-Smith, Seth Grahame-Smith. Com Benjamin Walker, Dominic Cooper, Anthony Mackie, Mary Elizabeth Winstead, Rufus Sewell, Marton Csokas, Jimmi Simpson, Joseph Mawle, Robin McLeavy."

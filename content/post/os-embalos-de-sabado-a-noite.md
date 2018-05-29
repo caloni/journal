@@ -1,7 +1,7 @@
 ---
 imdb: "0076666"
 date: "2015-12-11"
-categories: "movies"
+categories: [ "movies" ]
 title: "Os Embalos de Sábado à Noite"
 stars: "5/5"
 desc: "Os Embalos de Sábado à Noite. Saturday Night Fever (USA, 1977). Dirigido por John Badham. Escrito por Nik Cohn, Norman Wexler. Com John Travolta, Karen Lynn Gorney, Barry Miller, Joseph Cali, Paul Pape, Donna Pescow, Bruce Ornstein, Julie Bovasso, Martin Shakar."

@@ -1,7 +1,7 @@
 ---
 date: 2018-05-16T19:35:32-03:00
 title: "Aggretsuko"
-categories: "blog"
+categories: [ "blog" ]
 imdb: "8019444"
 stars: "4/5"
 desc: "Aggretsuko. Série criada, digirida e roteirizada por Rareko."

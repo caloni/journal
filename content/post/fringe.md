@@ -2,7 +2,7 @@
 tags: ['series']
 imdb: "1119644"
 date: "2015-12-12"
-categories: "blog"
+categories: [ "blog" ]
 title: "Fringe (piloto)"
 stars: "3/5"
 desc: "Fringe (piloto). Fringe (USA, 2008). Dirigido por Joe Chappelle, Brad Anderson, Fred Toye, Jeannot Szwarc, Charles Beeson, Dennis Smith, Akiva Goldsman, Jeffrey G. Hunt, David Straiton. Escrito por J.J. Abrams, Alex Kurtzman, Roberto Orci, J.H. Wyman, Jeff Pinkner, Akiva Goldsman, Graham Roland, Alison Schapker, Josh Singer. Com Anna Torv, Joshua Jackson, Jasika Nicole, John Noble, Lance Reddick, Blair Brown."

@@ -1,7 +1,7 @@
 ---
 imdb: "1065073"
 date: "2014-12-20"
-categories: "movies"
+categories: [ "movies" ]
 title: "Boyhood: Da Infância à Juventude"
 stars: "5/5"
 desc: "Boyhood: Da Infância à Juventude. Boyhood (USA, 2014). Dirigido por Richard Linklater. Escrito por Richard Linklater. Com Ellar Coltrane, Patricia Arquette, Elijah Smith, Lorelei Linklater, Steven Chester Prince, Bonnie Cross, Sydney Orta, Libby Villari, Ethan Hawke."

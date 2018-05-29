@@ -2,7 +2,7 @@
 tags: ['cabine']
 imdb: "4698584"
 date: "2016-12-12"
-categories: "movies"
+categories: [ "movies" ]
 title: "Neruda"
 stars: "3/5"
 desc: "Neruda. Neruda (Chile, 2016). Dirigido por Pablo Larraín. Escrito por Guillermo Calderón. Com Gael García Bernal (Óscar Peluchonneau), Luis Gnecco (Pablo Neruda), Alfredo Castro (Gabriel González Videla), Pablo Derqui (Víctor Pey), Mercedes Morán (Delia del Carril), Emilio Gutiérrez Caba (Picasso), Alejandro Goic (Jorge Bellet), Marcelo Alonso (Pepe Rodríguez), Jaime Vadell (Arturo Alessandri)."

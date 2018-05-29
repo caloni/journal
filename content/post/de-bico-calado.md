@@ -1,7 +1,7 @@
 ---
 imdb: "0444653"
 date: "2012-10-28"
-categories: "movies"
+categories: [ "movies" ]
 title: "De Bico Calado"
 stars: "3/5"
 desc: "De Bico Calado. Keeping Mum (UK, 2005). Dirigido por Niall Johnson. Escrito por Richard Russo, Niall Johnson, Richard Russo. Com Rowan Atkinson, Kristin Scott Thomas, Maggie Smith, Patrick Swayze, Tamsin Egerton, Toby Parkes, Liz Smith, Emilia Fox, James Booth."

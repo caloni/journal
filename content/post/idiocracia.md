@@ -1,7 +1,7 @@
 ---
 imdb: "0387808"
 date: "2013-06-07"
-categories: "movies"
+categories: [ "movies" ]
 title: "Idiocracia"
 stars: "4/5"
 desc: "Idiocracia. Idiocracy (USA, 2006). Dirigido por Mike Judge. Escrito por Mike Judge, Mike Judge, Etan Cohen. Com Luke Wilson, Maya Rudolph, Dax Shepard, Terry Crews, Anthony 'Citric' Campos, David Herman, Sonny Castillo, Kevin McAfee, Robert Musgrave."

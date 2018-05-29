@@ -1,7 +1,7 @@
 ---
 imdb: "1264904"
 date: "2010-06-02"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Pequeno Nicolau"
 stars: "3/5"
 revision: [datetime.date(2013, 12, 29)]

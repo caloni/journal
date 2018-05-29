@@ -2,7 +2,7 @@
 tags: ['paulocoelho']
 imdb: "1292566"
 date: "2016-11-17"
-categories: "movies"
+categories: [ "movies" ]
 title: "Como Ser Solteira"
 stars: "4/5"
 desc: "Como Ser Solteira. How to Be Single (USA, 2016). Dirigido por Christian Ditter. Escrito por Abby Kohn, Marc Silverstein, Dana Fox, Liz Tuccillo. Com Dakota Johnson (Alice), Rebel Wilson (Robin), Leslie Mann (Meg), Damon Wayans Jr. (David), Anders Holm (Tom), Alison Brie (Lucy), Nicholas Braun (Josh), Jake Lacy (Ken), Jason Mantzoukas (George)."

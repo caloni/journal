@@ -1,7 +1,7 @@
 ---
 imdb: "1839494"
 date: "2016-08-05"
-categories: "movies"
+categories: [ "movies" ]
 title: "Viagem Para Agartha"
 stars: "3/5"
 desc: "Viagem Para Agartha. Hoshi o ou kodomo (Japan, 2011). Dirigido por Makoto Shinkai. Escrito por Makoto Shinkai. Com Hilary Haag, Corey Hartzog, Leraldo Anzaldua, David Matranga, Shelley Calene-Black, Shannon Emerick, Sam Roman, Emily Neves, Brittney Karbowski."

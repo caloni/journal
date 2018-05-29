@@ -1,7 +1,7 @@
 ---
 imdb: "0118583"
 date: "2011-12-12"
-categories: "movies"
+categories: [ "movies" ]
 title: "Aliens A Ressueição"
 stars: "4/5"
 desc: "Aliens A Ressueição. Alien: Resurrection (USA, 1997). Dirigido por Jean-Pierre Jeunet. Escrito por Dan O'Bannon, Ronald Shusett, Joss Whedon. Com Sigourney Weaver, Winona Ryder, Dominique Pinon, Ron Perlman, Gary Dourdan, Michael Wincott, Kim Flowers, Dan Hedaya, J.E. Freeman."

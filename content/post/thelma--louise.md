@@ -1,7 +1,7 @@
 ---
 imdb: "0103074"
 date: "2015-12-28"
-categories: "movies"
+categories: [ "movies" ]
 title: "Thelma & Louise"
 stars: "5/5"
 desc: "Thelma & Louise. Thelma & Louise (USA, 1991). Dirigido por Ridley Scott. Escrito por Callie Khouri. Com Susan Sarandon, Geena Davis, Harvey Keitel, Michael Madsen, Christopher McDonald, Stephen Tobolowsky, Brad Pitt, Timothy Carhart, Lucinda Jenney."

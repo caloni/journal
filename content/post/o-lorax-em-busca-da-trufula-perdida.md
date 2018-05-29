@@ -1,7 +1,7 @@
 ---
 imdb: "1482459"
 date: "2012-04-02"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Lorax Em Busca da Trúfula Perdida"
 stars: "3/5"
 desc: "O Lorax Em Busca da Trúfula Perdida. The Lorax (USA, 2012). Dirigido por Chris Renaud, Kyle Balda. Escrito por Dr. Seuss, Cinco Paul, Ken Daurio. Com Danny DeVito, Ed Helms, Zac Efron, Taylor Swift, Betty White, Rob Riggle, Jenny Slate, Nasim Pedrad, Joel Swetow."

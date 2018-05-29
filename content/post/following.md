@@ -1,7 +1,7 @@
 ---
 imdb: "0154506"
 date: "2014-05-14"
-categories: "movies"
+categories: [ "movies" ]
 title: "Following"
 stars: "4/5"
 desc: "Following. Following (UK, 1998). Dirigido por Christopher Nolan. Escrito por Christopher Nolan. Com Jeremy Theobald, Alex Haw, Lucy Russell, John Nolan, Dick Bradsell, Gillian El-Kadi, Jennifer Angel, Nicolas Carlotti, Darren Ormandy."

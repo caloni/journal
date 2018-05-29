@@ -1,7 +1,7 @@
 ---
 imdb: "1767382"
 date: "2014-01-13"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Casa Silenciosa"
 stars: "4/5"
 desc: "A Casa Silenciosa. Silent House (USA, 2011). Dirigido por Chris Kentis, Laura Lau. Escrito por Gustavo Hernández, Laura Lau. Com Elizabeth Olsen, Adam Trese, Eric Sheffer Stevens, Julia Taylor Ross, Adam Barnett, Haley Murphy."

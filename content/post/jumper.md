@@ -1,7 +1,7 @@
 ---
 imdb: "0489099"
 date: "2011-04-27"
-categories: "movies"
+categories: [ "movies" ]
 title: "Jumper"
 stars: "3/5"
 desc: "Jumper. Jumper (USA, 2008). Dirigido por Doug Liman. Escrito por David S. Goyer, Jim Uhls, Simon Kinberg, Steven Gould. Com Hayden Christensen, Jamie Bell, Rachel Bilson, Diane Lane, Samuel L. Jackson, Michael Rooker, AnnaSophia Robb, Max Thieriot, Jesse James."

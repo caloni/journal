@@ -2,7 +2,7 @@
 tags: ['cinema', 'oscar']
 imdb: "3748528"
 date: "2016-12-28"
-categories: "movies"
+categories: [ "movies" ]
 title: "Rogue One: Uma História Star Wars"
 stars: "4/5"
 desc: "Rogue One: Uma História Star Wars. Rogue One (USA, 2016). Dirigido por Gareth Edwards. Escrito por Chris Weitz, Tony Gilroy, John Knoll, Gary Whitta, George Lucas. Com Felicity Jones (Jyn Erso), Diego Luna (Cassian Andor), Alan Tudyk (K-2SO), Donnie Yen (Chirrut Îmwe), Wen Jiang (Baze Malbus), Ben Mendelsohn (Orson Krennic), Guy Henry (Governor Tarkin), Forest Whitaker (Saw Gerrera), Riz Ahmed (Bodhi Rook)."

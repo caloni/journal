@@ -1,7 +1,7 @@
 ---
 imdb: "2059255"
 date: "2013-01-02"
-categories: "movies"
+categories: [ "movies" ]
 title: "No"
 stars: "4/5"
 desc: "No. No (Chile, 2012). Dirigido por Pablo Larraín. Escrito por Pedro Peirano, Antonio Skármeta. Com Gael García Bernal, Alfredo Castro, Luis Gnecco, Néstor Cantillana, Antonia Zegers, Marcial Tagle, Pascal Montero, Jaime Vadell, Elsa Poblete."

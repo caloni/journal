@@ -1,7 +1,7 @@
 ---
 imdb: "2014338"
 date: "2012-10-21"
-categories: "movies"
+categories: [ "movies" ]
 title: "Lado a Lado"
 stars: "3/5"
 desc: "Lado a Lado. Side by Side (USA, 2012). Dirigido por Christopher Kenneally. Escrito por Christopher Kenneally. Com Derek Ambrosi, Michael Ballhaus, Andrzej Bartkowiak, Dion Beebe, Jill Bogdanowicz, Danny Boyle, Geoff Boyle, James Cameron, Michael Chapman."

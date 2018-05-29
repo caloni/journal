@@ -1,7 +1,7 @@
 ---
 imdb: "2718492"
 date: "2015-10-08"
-categories: "movies"
+categories: [ "movies" ]
 title: "Ida"
 stars: "4/5"
 desc: "Ida. Ida (Poland, 2013). Dirigido por Pawel Pawlikowski. Escrito por Pawel Pawlikowski, Rebecca Lenkiewicz. Com Agata Kulesza, Agata Trzebuchowska, Dawid Ogrodnik, Jerzy Trela, Adam Szyszkowski, Halina Skoczynska, Joanna Kulig, Dorota Kuduk, Natalia Lagiewczyk."

@@ -2,7 +2,7 @@
 tags: ['netflix']
 imdb: "2735996"
 date: "2017-06-05"
-categories: "movies"
+categories: [ "movies" ]
 title: "Ninguém Deseja a Noite"
 stars: "4/5"
 desc: "Ninguém Deseja a Noite. Nadie quiere la noche (Spain, 2015). Dirigido por Isabel Coixet. Escrito por Miguel Barros. Com Juliette Binoche (Josephine), Rinko Kikuchi (Allaka), Gabriel Byrne (Bram), Orto Ignatiussen, Matt Salinger (Captain Spalding), Ben Temple (Frand), Reed Brody (Lucius), Alberto Jo Lee (Odaq), Clarence Smith."

@@ -1,7 +1,7 @@
 ---
 imdb: "0443272"
 date: "2013-01-31"
-categories: "movies"
+categories: [ "movies" ]
 title: "Lincoln"
 stars: "4/5"
 desc: "Lincoln. Lincoln (USA, 2012). Dirigido por Steven Spielberg. Escrito por Tony Kushner, Doris Kearns Goodwin. Com Daniel Day-Lewis, Sally Field, David Strathairn, Joseph Gordon-Levitt, James Spader, Hal Holbrook, Tommy Lee Jones, John Hawkes, Jackie Earle Haley."

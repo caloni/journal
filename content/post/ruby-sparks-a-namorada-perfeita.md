@@ -1,7 +1,7 @@
 ---
 imdb: "1839492"
 date: "2012-10-17"
-categories: "movies"
+categories: [ "movies" ]
 title: "Ruby Sparks A Namorada Perfeita"
 stars: "4/5"
 desc: "Ruby Sparks A Namorada Perfeita. Ruby Sparks (USA, 2012). Dirigido por Jonathan Dayton, Valerie Faris. Escrito por Zoe Kazan. Com Paul Dano, Zoe Kazan, Chris Messina, Annette Bening, Antonio Banderas, Aasif Mandvi, Steve Coogan, Toni Trucks, Deborah Ann Woll."

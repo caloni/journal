@@ -1,7 +1,7 @@
 ---
 date: 2018-05-16T18:18:48-03:00
 title: "Thi Mai: Rumo ao Vietnam"
-categories: "movies"
+categories: [ "movies" ]
 imdb: "6126346"
 stars: "3/5"
 desc: "Thi Mai, rumbo a Vietnam. Espanha, 2018. Escrito por Marta Sánchez, dirigido por Patricia Ferreira. Com Carmen Machi, Adriana Ozores, Aitana Sánchez-Gijón."

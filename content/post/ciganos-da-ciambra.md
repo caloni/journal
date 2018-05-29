@@ -1,7 +1,7 @@
 ---
 date: 2018-04-20T15:00:15-03:00
 title: "Ciganos da Ciambra usa elenco de pessoas reais e cria sentimento mais estranho que a ficção"
-categories: "movies"
+categories: [ "movies" ]
 imdb: "6802896"
 stars: "5/5"
 desc: "Ciambra (Itália, 2017), escrito e dirigido por Jonas Carpignano, com Pio Amato, Koudous Seihon, Damiano Amato."

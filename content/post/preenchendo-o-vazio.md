@@ -1,7 +1,7 @@
 ---
 imdb: "2219514"
 date: "2013-10-16"
-categories: "movies"
+categories: [ "movies" ]
 title: "Preenchendo o Vazio"
 stars: "3/5"
 desc: "Preenchendo o Vazio. Lemale et ha'halal (Israel, 2012). Dirigido por Rama Burshtein. Escrito por Rama Burshtein. Com Hadas Yaron, Yiftach Klein, Irit Sheleg, Chayim Sharir, Razia Israeli, Hila Feldman, Renana Raz, Yael Tal, Michael David Weigl."

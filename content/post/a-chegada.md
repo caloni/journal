@@ -2,7 +2,7 @@
 tags: ['paulocoelho', 'oscar']
 imdb: "2543164"
 date: "2017-02-04"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Chegada"
 stars: "5/5"
 desc: "A Chegada. Arrival (USA, 2016). Dirigido por Denis Villeneuve. Escrito por Eric Heisserer, Ted Chiang. Com Amy Adams (Louise Banks), Jeremy Renner (Ian Donnelly), Forest Whitaker (Colonel Weber), Michael Stuhlbarg (Agent Halpern), Mark O'Brien (Captain Marks), Tzi Ma (General Shang), Abigail Pniowsky (8-Year-Old-Hannah), Julia Scarlett Dan (12-Year-Old-Hannah), Jadyn Malone (6-Year-Old-Hannah)."

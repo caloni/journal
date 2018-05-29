@@ -2,7 +2,7 @@
 tags: ['cabine']
 imdb: "3854770"
 date: "2016-12-15"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Última Lição"
 stars: "4/5"
 desc: "A Última Lição. La dernière leçon (France, 2015). Dirigido por Pascale Pouzadoux. Escrito por Laurent de Bartillat, Pascale Pouzadoux. Com Marthe Villalonga (Madeleine), Sandrine Bonnaire (Diane), Antoine Duléry (Pierre), Gilles Cohen (Clovis), Grégoire Montana (Max), Sabine Pakora (Victoria), Jonas Dinal (Didid), Xavier Alcan (L'ami), Armelle."

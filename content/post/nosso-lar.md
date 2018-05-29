@@ -1,7 +1,7 @@
 ---
 imdb: "1467388"
 date: "2010-09-03"
-categories: "movies"
+categories: [ "movies" ]
 title: "Nosso Lar"
 stars: "3/5"
 desc: "Nosso Lar. Astral City: A Spiritual Journey (Brazil, 2010). Dirigido por Wagner de Assis. Escrito por Wagner de Assis, Laura Malin. Com Renato Prieto, Fernando Alves Pinto, Rosanne Mulholland, Inez Viana, Rodrigo dos Santos, Werner Schünemann, Clemente Viscaíno, Ana Rosa, Othon Bastos."

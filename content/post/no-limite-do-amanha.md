@@ -1,7 +1,7 @@
 ---
 imdb: "1631867"
 date: "2014-06-10"
-categories: "movies"
+categories: [ "movies" ]
 title: "No Limite do Amanhã"
 stars: "4/5"
 desc: "No Limite do Amanhã. Edge of Tomorrow (USA, 2014). Dirigido por Doug Liman. Escrito por Christopher McQuarrie, Jez Butterworth, John-Henry Butterworth, Hiroshi Sakurazaka. Com Tom Cruise, Emily Blunt, Brendan Gleeson, Bill Paxton, Jonas Armstrong, Tony Way, Kick Gurry, Franz Drameh, Dragomir Mrsic."

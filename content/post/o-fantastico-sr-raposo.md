@@ -1,7 +1,7 @@
 ---
 imdb: "0432283"
 date: "2011-04-27"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Fantástico Sr. Raposo"
 stars: "4/5"
 desc: "O Fantástico Sr. Raposo. Fantastic Mr. Fox (USA, 2009). Dirigido por Wes Anderson. Escrito por Roald Dahl, Wes Anderson, Noah Baumbach. Com George Clooney, Meryl Streep, Jason Schwartzman, Bill Murray, Wallace Wolodarsky, Eric Chase Anderson, Michael Gambon, Willem Dafoe, Owen Wilson."

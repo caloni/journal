@@ -2,7 +2,7 @@
 tags: ['paulocoelho']
 imdb: "3631112"
 date: "2017-01-23"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Garota no Trem"
 stars: "3/5"
 desc: "A Garota no Trem. The Girl on the Train (USA, 2016). Dirigido por Tate Taylor. Escrito por Erin Cressida Wilson, Paula Hawkins. Com Emily Blunt (Rachel), Haley Bennett (Megan), Rebecca Ferguson (Anna), Justin Theroux (Tom), Luke Evans (Scott), Edgar Ramírez (Dr. Kamal Abdic), Laura Prepon (Cathy), Allison Janney (Detective Riley), Darren Goldstein (Man in the Suit)."

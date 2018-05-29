@@ -1,7 +1,7 @@
 ---
 imdb: "1307010"
 date: "2011-11-03"
-categories: "movies"
+categories: [ "movies" ]
 title: "Shocking Blue"
 stars: "3/5"
 desc: "Shocking Blue. Shocking Blue (Netherlands, 2010). Dirigido por Mark de Cloe. Escrito por Céline Linssen. Com Lisa Smit, Dragan Bakema, Niels Gomperts, Sarah Bannier, Jim van der Panne, Thijs Feenstra, Ruben van Weelden, Tsilla Voet, Caro de Jonge."

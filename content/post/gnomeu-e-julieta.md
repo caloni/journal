@@ -1,7 +1,7 @@
 ---
 imdb: "0377981"
 date: "2011-03-10"
-categories: "movies"
+categories: [ "movies" ]
 title: "Gnomeu e Julieta"
 stars: "3/5"
 desc: "Gnomeu e Julieta. Gnomeo & Juliet (UK, 2011). Dirigido por Kelly Asbury. Escrito por Rob Sprackling, John R. Smith, Andy Riley, Kevin Cecil, Kelly Asbury, Steve Hamilton Shaw, Andy Riley, Kevin Cecil, Mark Burton. Com James McAvoy, Emily Blunt, Ashley Jensen, Michael Caine, Matt Lucas, Jim Cummings, Maggie Smith, Jason Statham, Ozzy Osbourne."

@@ -1,7 +1,7 @@
 ---
 imdb: "1130080"
 date: "2015-04-15"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Desinformante!"
 stars: "4/5"
 desc: "O Desinformante!. The Informant! (USA, 2009). Dirigido por Steven Soderbergh. Escrito por Scott Z. Burns, Kurt Eichenwald. Com Matt Damon, Lucas McHugh Carroll, Eddie Jemison, Rusty Schwimmer, Craig Ricci Shaynak, Tom Papa, Rick Overton, Melanie Lynskey, Thomas F. Wilson."

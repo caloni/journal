@@ -1,7 +1,7 @@
 ---
 imdb: "0120586"
 date: "2014-02-26"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Outra História Americana"
 stars: "4/5"
 desc: "A Outra História Americana. American History X (USA, 1998). Dirigido por Tony Kaye. Escrito por David McKenna. Com Edward Norton, Edward Furlong, Beverly D'Angelo, Jennifer Lien, Ethan Suplee, Fairuza Balk, Avery Brooks, Elliott Gould, Stacy Keach."

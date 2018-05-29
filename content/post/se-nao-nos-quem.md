@@ -1,7 +1,7 @@
 ---
 imdb: "1671496"
 date: "2011-11-17"
-categories: "movies"
+categories: [ "movies" ]
 title: "Se Não Nós Quem?"
 stars: "3/5"
 desc: "Se Não Nós Quem?. Wer wenn nicht wir (Germany, 2011). Dirigido por Andres Veiel. Escrito por Gerd Koenen, Andres Veiel. Com August Diehl, Lena Lauzemis, Alexander Fehling, Thomas Thieme, Imogen Kogge, Michael Wittenborn, Susanne Lothar, Sebastian Blomberg, Vicky Krieps."

@@ -2,7 +2,7 @@
 tags: ['netflix']
 imdb: "2788716"
 date: 2017-10-22T21:49:27
-categories: "movies"
+categories: [ "movies" ]
 title: "Bem Vindos Ao Mundo"
 stars: "3/5"
 desc: "Bem Vindos Ao Mundo. Welcome to Me (USA, 2014). Dirigido por Shira Piven. Escrito por Eliot Laurence. Com Kristen Wiig (Alice Klieg), Wes Bentley (Gabe Ruskin), Linda Cardellini (Gina Selway), Joan Cusack (Dawn Hurley), Loretta Devine (Barb Vaughn), Jennifer Jason Leigh (Deb Moseley), Thomas Mann (Rainer Ybarra), James Marsden (Rich Ruskin), Tim Robbins (Dr. Daryl Moffet)."

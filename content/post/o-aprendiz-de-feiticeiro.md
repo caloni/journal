@@ -1,7 +1,7 @@
 ---
 imdb: "0963966"
 date: "2010-08-13"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Aprendiz de Feiticeiro"
 stars: "3/5"
 desc: "O Aprendiz de Feiticeiro. The Sorcerer's Apprentice (USA, 2010). Dirigido por Jon Turteltaub. Escrito por Lawrence Konner, Mark Rosenthal, Matt Lopez, Matt Lopez, Doug Miro, Carlo Bernard. Com Nicolas Cage, Jay Baruchel, Alfred Molina, Teresa Palmer, Toby Kebbell, Omar Benson Miller, Monica Bellucci, Alice Krige, Jake Cherry."

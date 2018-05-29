@@ -2,7 +2,7 @@
 tags: ['cabine']
 imdb: "7308092"
 date: 2017-10-02T21:55:47
-categories: "movies"
+categories: [ "movies" ]
 title: "Entre Irmãs"
 stars: "2/5"
 desc: "Entre Irmãs. Entre Irmãs (Brazil, 2017). Dirigido por Breno Silveira. Escrito por Patrícia Andrade, Frances Peebles de Pontes. Com Ângelo Antônio (Dr. Eronildes), Rita Assemany (Dona Dulce), Cyria Coentro (Tia Sofia), Letícia Colin (Lindalva), Nanda Costa (Luzia), Marjorie Estiano (Emília), Rômulo Estrela (Degas), Claudio Jaborandy (Dr. Duarte), Fábio Lago (Orelha)."

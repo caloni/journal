@@ -1,7 +1,7 @@
 ---
 imdb: "0041998"
 date: "2012-06-15"
-categories: "movies"
+categories: [ "movies" ]
 title: "Sede de Paixões"
 stars: "3/5"
 desc: "Sede de Paixões. Törst (Sweden, 1949). Dirigido por Ingmar Bergman. Escrito por Herbert Grevenius, Birgit Tengroth. Com Eva Henning, Birger Malmsten, Birgit Tengroth, Hasse Ekman, Mimi Nelson, Bengt Eklund, Gaby Stenberg, Naima Wifstrand, Carl Andersson."

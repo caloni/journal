@@ -1,7 +1,7 @@
 ---
 imdb: "0242653"
 date: "2016-05-07"
-categories: "movies"
+categories: [ "movies" ]
 title: "Matrix Revolutions"
 stars: "5/5"
 desc: "Matrix Revolutions. The Matrix Revolutions (Australia, 2003). Dirigido por Lana Wachowski, Lilly Wachowski. Escrito por Lilly Wachowski, Lana Wachowski, Lilly Wachowski, Lana Wachowski. Com Mary Alice, Tanveer K. Atwal, Helmut Bakaitis, Kate Beahan, Francine Bell, Monica Bellucci, Rachel Blackman, Henry Blasingame, Ian Bliss."

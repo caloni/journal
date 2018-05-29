@@ -3,7 +3,7 @@ tags: ['cabine']
 cinemaqui: "http://www.cinemaqui.com.br/o-ornitologo/"
 imdb: "4929038"
 date: "2017-03-22"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Ornitólogo"
 stars: "3/5"
 desc: "O Ornitólogo. O Ornitólogo (Portugal, 2016). Dirigido por João Pedro Rodrigues. Escrito por João Pedro Rodrigues. Com Paul Hamy (Fernando / António), Xelo Cagiao (Jesus / Tomé), João Pedro Rodrigues, Han Wen (Fei), Chan Suan (Ling), Juliane Elting (Caçadora Loira), Flora Bulcao (Caçadora 1), Isabelle Puntel (Caçadora 2), Alexandre Alverca."

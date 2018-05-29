@@ -1,7 +1,7 @@
 ---
 imdb: "1661382"
 date: "2014-01-25"
-categories: "movies"
+categories: [ "movies" ]
 title: "Ajuste de Contas"
 stars: "4/5"
 desc: "Ajuste de Contas. Grudge Match (USA, 2013). Dirigido por Peter Segal. Escrito por Tim Kelleher, Rodney Rothman, Tim Kelleher. Com Jim Lampley, Sylvester Stallone, Robert De Niro, Rich Little, Ireland Baldwin, Anthony Bean, Mason Mackie, Kevin Hart, Barry Primus."

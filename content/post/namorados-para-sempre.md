@@ -1,7 +1,7 @@
 ---
 imdb: "1120985"
 date: "2012-06-09"
-categories: "movies"
+categories: [ "movies" ]
 title: "Namorados Para Sempre"
 stars: "5/5"
 desc: "Namorados Para Sempre. Blue Valentine (USA, 2010). Dirigido por Derek Cianfrance. Escrito por Derek Cianfrance, Joey Curtis, Cami Delavigne. Com Ryan Gosling, Michelle Williams, Faith Wladyka, John Doman, Mike Vogel, Marshall Johnson, Jen Jones, Maryann Plunkett, James Benatti."

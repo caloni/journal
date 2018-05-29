@@ -1,7 +1,7 @@
 ---
 imdb: "2007360"
 date: "2014-06-06"
-categories: "movies"
+categories: [ "movies" ]
 title: "Computer Chess"
 stars: "3/5"
 desc: "Computer Chess. Computer Chess (USA, 2013). Dirigido por Andrew Bujalski. Escrito por Andrew Bujalski. Com Kriss Schludermann, Tom Fletcher, Wiley Wiggins, Patrick Riester, Kevin Bewersdorf, Gene Williams, Jim Lewis, Cole Noppenberg, Myles Paige."

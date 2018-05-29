@@ -1,7 +1,7 @@
 ---
 imdb: "0019421"
 date: "2015-01-06"
-categories: "movies"
+categories: [ "movies" ]
 title: "Marinheiro de Encomenda"
 stars: "4/5"
 desc: "Marinheiro de Encomenda. Steamboat Bill, Jr. (USA, 1928). Dirigido por Charles Reisner, Buster Keaton. Escrito por Carl Harbaugh, Carl Harbaugh, Carl Harbaugh. Com Buster Keaton, Tom McGuire, Ernest Torrence, Tom Lewis, Marion Byron, James T. Mack."

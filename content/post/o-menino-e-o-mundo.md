@@ -1,7 +1,7 @@
 ---
 imdb: "3183630"
 date: "2016-02-23"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Menino e o Mundo"
 stars: "3/5"
 desc: "O Menino e o Mundo. O Menino e o Mundo (Brazil, 2013). Dirigido por Alê Abreu. Escrito por Alê Abreu. Com Vinicius Garcia, Felipe Zilse, Alê Abreu, Lu Horta, Marco Aurélio Campos."

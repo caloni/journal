@@ -1,7 +1,7 @@
 ---
 imdb: "0879870"
 date: "2010-10-01"
-categories: "movies"
+categories: [ "movies" ]
 title: "Comer Rezar Amar"
 stars: "3/5"
 desc: "Comer Rezar Amar. Eat Pray Love (USA, 2010). Dirigido por Ryan Murphy. Escrito por Ryan Murphy, Jennifer Salt, Elizabeth Gilbert. Com Julia Roberts, I. Gusti Ayu Puspawati, Hadi Subiyanto, Billy Crudup, Viola Davis, A. Jay Radcliff, Mike O'Malley, Ashlie Atkinson, James Franco."

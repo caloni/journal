@@ -1,7 +1,7 @@
 ---
 imdb: "3518012"
 date: "2016-02-17"
-categories: "movies"
+categories: [ "movies" ]
 title: "Best of Enemies"
 stars: "3/5"
 desc: "Best of Enemies. Best of Enemies (USA, 2015). Dirigido por Robert Gordon, Morgan Neville. Escrito por Robert Gordon, Morgan Neville. Com Paul Newman, Kelsey Grammer, John Lithgow, Gore Vidal, Arthur Miller, Dick Cavett, Walter Cronkite, Christopher Hitchens, Noam Chomsky."

@@ -1,7 +1,7 @@
 ---
 imdb: "0364343"
 date: "2016-03-13"
-categories: "movies"
+categories: [ "movies" ]
 title: "Violação de Privacidade"
 stars: "4/5"
 desc: "Violação de Privacidade. The Final Cut (USA, 2004). Dirigido por Omar Naim. Escrito por Omar Naim. Com Robin Williams, Mira Sorvino, Jim Caviezel, Mimi Kuzyk, Stephanie Romanov, Thom Bishops, Genevieve Buechner, Brendan Fletcher, Vincent Gale."

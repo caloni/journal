@@ -2,7 +2,7 @@
 tags: ['paulocoelho']
 imdb: "1289401"
 date: "2016-10-12"
-categories: "movies"
+categories: [ "movies" ]
 title: "Caça-Fantasmas"
 stars: "3/5"
 desc: "Caça-Fantasmas. Ghostbusters (USA, 2016). Dirigido por Paul Feig. Escrito por Katie Dippold, Paul Feig, Ivan Reitman, Dan Aykroyd, Harold Ramis. Com Zach Woods (Tour Guide), Kristen Wiig (Erin Gilbert), Ed Begley Jr. (Ed Mulgrave), Charles Dance (Harold Filmore), John Milhiser (Higgins Student), Ben Harris (Higgins Student), Melissa McCarthy (Abby Yates), Karan Soni (Bennie), Kate McKinnon (Jillian Holtzmann)."

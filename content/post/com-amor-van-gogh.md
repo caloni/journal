@@ -2,7 +2,7 @@
 tags: ['cinema']
 imdb: "3262342"
 date: 2017-12-09T22:42:16
-categories: "movies"
+categories: [ "movies" ]
 title: "Com Amor Van Gogh"
 stars: "4/5"
 desc: "Com Amor Van Gogh. Loving Vincent (UK, 2017). Dirigido por Dorota Kobiela, Hugh Welchman. Escrito por Dorota Kobiela, Hugh Welchman, Jacek Dehnel. Com Douglas Booth (Armand Roulin), Josh Burdett (The Zouave), Holly Earl (La Mousme), Robin Hodges (Lieutenant Milliet), Chris O'Dowd (Postman Joseph Roulin), John Sessions (Pere Tanguy), Helen McCrory (Louise Chevalier), Eleanor Tomlinson (Adeline Ravoux), Aidan Turner (The Boatman)."

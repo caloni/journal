@@ -2,7 +2,7 @@
 tags: ['cinema', 'dublado']
 imdb: "2709768"
 date: "2016-09-11"
-categories: "movies"
+categories: [ "movies" ]
 title: "Pets: A Vida Secreta dos Bichos"
 stars: "3/5"
 desc: "Pets: A Vida Secreta dos Bichos. The Secret Life of Pets (Japan, 2016). Dirigido por Yarrow Cheney, Chris Renaud. Escrito por Cinco Paul, Ken Daurio, Brian Lynch, Simon Rich. Com Louis C.K., Eric Stonestreet, Kevin Hart, Jenny Slate, Ellie Kemper, Albert Brooks, Lake Bell, Dana Carvey, Hannibal Buress."

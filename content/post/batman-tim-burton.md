@@ -1,7 +1,7 @@
 ---
 imdb: "0096895"
 date: "2014-12-01"
-categories: "movies"
+categories: [ "movies" ]
 title: "Batman de Tim Burton"
 stars: "3/5"
 desc: "Batman de Tim Burton. Batman (USA, 1989). Dirigido por Tim Burton. Escrito por Bob Kane, Sam Hamm, Sam Hamm, Warren Skaaren. Com Michael Keaton, Jack Nicholson, Kim Basinger, Robert Wuhl, Pat Hingle, Billy Dee Williams, Michael Gough, Jack Palance, Jerry Hall."

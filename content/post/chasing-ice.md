@@ -1,7 +1,7 @@
 ---
 imdb: "1579361"
 date: "2014-02-09"
-categories: "movies"
+categories: [ "movies" ]
 title: "Chasing Ice"
 stars: "4/5"
 desc: "Chasing Ice. Chasing Ice (USA, 2012). Dirigido por Jeff Orlowski. Escrito por Mark Monroe. Com James Balog, Svavar Jónatansson, Louie Psihoyos, Kitty Boone, Sylvia Earle, Dennis Dimick, Adam LeWinter, Jason Box, Tad Pfeffer."

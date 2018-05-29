@@ -2,7 +2,7 @@
 tags: ['netflix']
 imdb: "5161502"
 date: "2016-12-04"
-categories: "movies"
+categories: [ "movies" ]
 title: "SOMM: Into the Bottle"
 stars: "3/5"
 desc: "SOMM: Into the Bottle. SOMM: Into the Bottle (USA, 2015). Dirigido por Jason Wise. Escrito por Christina Tucker, Jason Wise. Com Silvia Altare (Herself), Brian Carmody (Diner in Restaurant), Ian Cauble (Himself), Jean-Louis Chave (Himself), Fred Dame (Himself), Aubert De Villaine (Himself), Peter Gago (Himself), Jessica Goldapple (Diner in Restaurant), Geoff Kruth (Himself)."

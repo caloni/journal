@@ -1,7 +1,7 @@
 ---
 imdb: "1216475"
 date: "2011-07-20"
-categories: "movies"
+categories: [ "movies" ]
 title: "Carros 2"
 stars: "2/5"
 desc: "Carros 2. Cars 2 (USA, 2011). Dirigido por John Lasseter, Brad Lewis. Escrito por John Lasseter, Brad Lewis, Dan Fogelman, Ben Queen. Com Larry Guy the Cable, Owen Wilson, Michael Caine, Emily Mortimer, Eddie Izzard, John Turturro, Brent Musburger, Joe Mantegna, Thomas Kretschmann."

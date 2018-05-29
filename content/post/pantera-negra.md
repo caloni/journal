@@ -1,7 +1,7 @@
 ---
 date: 2018-05-24T23:49:27-03:00
 title: "Pantera Afrodescendente"
-categories: "movies"
+categories: [ "movies" ]
 imdb: "1825683"
 stars: "3/5"
 desc: "Black Panther. EUA, 2018. Escrito por Ryan Coogler e Joe Robert Cole baseados nos quadrinhos de Stan Lee (que faz uma ponta) e Jack Kirby. Dirigido por Ryan Coogler (que é negro, e isso é importante), este filme conta com a participação de um monte de negros, entre eles Chadwick Boseman, Michael B. Jordan, Lupita Nyong'o."

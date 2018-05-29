@@ -1,7 +1,7 @@
 ---
 imdb: "0397892"
 date: "2013-12-13"
-categories: "movies"
+categories: [ "movies" ]
 title: "Bolt Supercão"
 stars: "4/5"
 desc: "Bolt Supercão. Bolt (USA, 2008). Dirigido por Byron Howard, Chris Williams. Escrito por Dan Fogelman, Chris Williams, Byron Howard, Jared Stern. Com John Travolta, Miley Cyrus, Susie Essman, Mark Walton, Malcolm McDowell, James Lipton, Greg Germann, Diedrich Bader, Nick Swardson."

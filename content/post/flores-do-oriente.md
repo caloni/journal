@@ -1,7 +1,7 @@
 ---
 imdb: "1410063"
 date: "2012-08-06"
-categories: "movies"
+categories: [ "movies" ]
 title: "Flores do Oriente"
 stars: "3/5"
 desc: "Flores do Oriente. Jin líng shí san chai (China, 2011). Dirigido por Yimou Zhang. Escrito por Heng Liu, Geling Yan. Com Christian Bale, Ni Ni, Xinyi Zhang, Tianyuan Huang, Xiting Han, Doudou Zhang, Dawei Tong, Atsurô Watabe, Kefan Cao."

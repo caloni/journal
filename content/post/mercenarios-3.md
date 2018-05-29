@@ -1,7 +1,7 @@
 ---
 imdb: "2333784"
 date: "2015-01-23"
-categories: "movies"
+categories: [ "movies" ]
 title: "Os Mercenários 3"
 stars: "3/5"
 desc: "Os Mercenários 3. The Expendables 3 (USA, 2014). Dirigido por Patrick Hughes. Escrito por Sylvester Stallone, Creighton Rothenberger, Katrin Benedikt, Sylvester Stallone, Dave Callaham. Com Sylvester Stallone, Jason Statham, Harrison Ford, Arnold Schwarzenegger, Mel Gibson, Wesley Snipes, Dolph Lundgren, Randy Couture, Terry Crews."

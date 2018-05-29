@@ -1,7 +1,7 @@
 ---
 imdb: "2278871"
 date: "2013-12-23"
-categories: "movies"
+categories: [ "movies" ]
 title: "Azul é a Cor Mais Quente"
 stars: "3/5"
 desc: "Azul é a Cor Mais Quente. La vie d'Adèle (France, 2013). Dirigido por Abdellatif Kechiche. Escrito por Abdellatif Kechiche, Ghalia Lacroix, Julie Maroh. Com Léa Seydoux, Adèle Exarchopoulos, Salim Kechiouche, Aurélien Recoing, Catherine Salée, Benjamin Siksou, Mona Walravens, Alma Jodorowsky, Jérémie Laheurte."

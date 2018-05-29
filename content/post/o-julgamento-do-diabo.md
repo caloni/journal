@@ -1,7 +1,7 @@
 ---
 imdb: "0263265"
 date: "2011-03-28"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Julgamento do Diabo"
 stars: "3/5"
 desc: "O Julgamento do Diabo. The Devil and Daniel Webster (USA, 2003). Dirigido por Alec Baldwin. Escrito por Stephen Vincent Benet, Archibald Macleish, Peter Dexter, Peter Dexter, Bill Condon, Nancy Cassaro. Com Virl Andrick, Ray Aranha, Kaniel Arocho, Jorge Arocho, Mary Ashton, Howard Atlee, Dan Aykroyd, Alec Baldwin, Gregg Bello."

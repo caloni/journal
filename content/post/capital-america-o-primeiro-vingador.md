@@ -1,7 +1,7 @@
 ---
 imdb: "0458339"
 date: "2011-08-09"
-categories: "movies"
+categories: [ "movies" ]
 title: "Capitão América O Primeiro Vingador"
 stars: "3/5"
 desc: "Capitão América O Primeiro Vingador. Captain America: The First Avenger (USA, 2011). Dirigido por Joe Johnston. Escrito por Christopher Markus, Stephen McFeely, Joe Simon, Jack Kirby. Com Chris Evans, Hayley Atwell, Sebastian Stan, Tommy Lee Jones, Hugo Weaving, Dominic Cooper, Richard Armitage, Stanley Tucci, Samuel L. Jackson."

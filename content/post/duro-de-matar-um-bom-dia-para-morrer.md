@@ -1,7 +1,7 @@
 ---
 imdb: "1606378"
 date: "2013-03-06"
-categories: "movies"
+categories: [ "movies" ]
 title: "Duro de Matar Um Bom Dia para Morrer"
 stars: "2/5"
 desc: "Duro de Matar Um Bom Dia para Morrer. A Good Day to Die Hard (USA, 2013). Dirigido por John Moore. Escrito por Skip Woods, Roderick Thorp. Com Bruce Willis, Jai Courtney, Sebastian Koch, Mary Elizabeth Winstead, Yuliya Snigir, Radivoje Bukvic, Cole Hauser, Amaury Nolasco, Sergey Kolesnikov."

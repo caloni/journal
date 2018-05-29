@@ -1,7 +1,7 @@
 ---
 imdb: "1421051"
 date: "2013-12-25"
-categories: "movies"
+categories: [ "movies" ]
 title: "Um Lugar Qualquer"
 stars: "4/5"
 desc: "Um Lugar Qualquer. Somewhere (USA, 2010). Dirigido por Sofia Coppola. Escrito por Sofia Coppola. Com Stephen Dorff, Chris Pontius, Erin Wasson, Alexandra Williams, Nathalie Fay, Kristina Shannon, Karissa Shannon, John Prudhont, Ruby Corley."

@@ -2,7 +2,7 @@
 tags: ['spiderman']
 imdb: "0145487"
 date: "2015-07-28"
-categories: "movies"
+categories: [ "movies" ]
 title: "Homem-Aranha"
 stars: "4/5"
 desc: "Homem-Aranha. Spider-Man (USA, 2002). Dirigido por Sam Raimi. Escrito por Stan Lee, Steve Ditko, David Koepp. Com Tobey Maguire, Willem Dafoe, Kirsten Dunst, James Franco, Cliff Robertson, Rosemary Harris, J.K. Simmons, Joe Manganiello, Gerry Becker."

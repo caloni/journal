@@ -1,7 +1,7 @@
 ---
 imdb: "0051622"
 date: "2015-11-28"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Mosca da Cabeça Branca"
 stars: "5/5"
 desc: "A Mosca da Cabeça Branca. The Fly (USA, 1958). Dirigido por Kurt Neumann. Escrito por James Clavell, George Langelaan. Com David Hedison, Patricia Owens, Vincent Price, Herbert Marshall, Kathleen Freeman, Betty Lou Gerson, Charles Herbert, Eugene Borden, Harry Carter."

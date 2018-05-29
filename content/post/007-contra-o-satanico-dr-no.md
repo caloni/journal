@@ -1,7 +1,7 @@
 ---
 imdb: "0055928"
 date: "2012-11-10"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Satânico Dr. No"
 stars: "4/5"
 desc: "O Satânico Dr. No. Dr. No (UK, 1962). Dirigido por Terence Young. Escrito por Richard Maibaum, Johanna Harwood, Berkely Mather, Ian Fleming, Wolf Mankowitz, Terence Young. Com Sean Connery, Ursula Andress, Joseph Wiseman, Jack Lord, Bernard Lee, Anthony Dawson, Zena Marshall, John Kitzmiller, Eunice Gayson."

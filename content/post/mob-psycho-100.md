@@ -1,7 +1,7 @@
 ---
 date: 2018-05-28T19:43:06-03:00
 title: "Mob Psycho 100 tem síndrome de Death Note: a primeira metade é foda e a segunda #pelamor"
-categories: "movies"
+categories: [ "movies" ]
 imdb: "5897304"
 stars: "3/5"
 desc: "Mob Psycho 100"

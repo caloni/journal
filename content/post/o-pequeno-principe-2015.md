@@ -1,7 +1,7 @@
 ---
 imdb: "1754656"
 date: "2015-08-29"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Pequeno Príncipe"
 stars: "5/5"
 desc: "O Pequeno Príncipe. The Little Prince (France, 2015). Dirigido por Mark Osborne. Escrito por Irena Brignull, Bob Persichetti, Antoine de Saint-Exupéry. Com Rachel McAdams, Paul Rudd, James Franco, Benicio Del Toro, Marion Cotillard, Paul Giamatti, Jeff Bridges, Mackenzie Foy, Vincent Cassel."

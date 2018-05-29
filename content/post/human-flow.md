@@ -2,7 +2,7 @@
 tags: ['cabine', 'mostrasp']
 imdb: "6573444"
 date: 2017-10-20T20:02:54
-categories: "movies"
+categories: [ "movies" ]
 title: "Human Flow"
 stars: "3/5"
 desc: "Human Flow. Human Flow (Germany, 2017). Dirigido por Ai Weiwei. Escrito por Chin-Chin Yap, Tim Finch, Boris Cheshirkov. Com Israa Abboud (Herself), Hiba Abed (Herself), Rami Abu Sondos (Himself), Asmaa Al-Bahiyya (Herself), Eman Al-Masina (Herself), Maya Ameratunga (Herself), Hanan Ashrawi (Interviewee), Peter Bouckaert (Himself), Boris Cheshirkov (Himself)."

@@ -2,7 +2,7 @@
 tags: ['netflix', 'series']
 imdb: "5295524"
 date: "2017-07-04"
-categories: "series"
+categories: [ "series" ]
 title: "Crashing"
 stars: "3/5"
 desc: "Crashing. Crashing (UK, 2016). Dirigido por George Kane. Escrito por Phoebe Waller-Bridge. Com Phoebe Waller-Bridge (Lulu), Jonathan Bailey (Sam), Julie Dray (Melody), Louise Ford (Kate), Damien Molony (Anthony), Adrian Scarborough (Colin), Amit Shah (Fred), Lachie Chapman (Will), Susan Wokoma (Jessica)."

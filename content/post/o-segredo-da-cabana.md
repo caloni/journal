@@ -1,7 +1,7 @@
 ---
 imdb: "1259521"
 date: "2014-11-28"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Segredo da Cabana"
 stars: "4/5"
 desc: "O Segredo da Cabana. The Cabin in the Woods (USA, 2012). Dirigido por Drew Goddard. Escrito por Joss Whedon, Drew Goddard. Com Kristen Connolly, Chris Hemsworth, Anna Hutchison, Fran Kranz, Jesse Williams, Richard Jenkins, Bradley Whitford, Brian White, Amy Acker."

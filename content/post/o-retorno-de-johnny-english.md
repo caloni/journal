@@ -1,7 +1,7 @@
 ---
 imdb: "1634122"
 date: "2011-11-13"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Retorno de Johnny English"
 stars: "3/5"
 desc: "O Retorno de Johnny English. Johnny English Reborn (USA, 2011). Dirigido por Oliver Parker. Escrito por Hamish McColl, William Davies, Neal Purvis, Robert Wade. Com Roger Barclay, Eric Carte, Rowan Atkinson, Togo Igawa, Eleanor Wyld, Mandi Sidhu, Margaret Clunie, Gillian Anderson, Rosamund Pike."

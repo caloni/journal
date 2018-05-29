@@ -1,7 +1,7 @@
 ---
 imdb: "1781866"
 date: "2010-11-20"
-categories: "movies"
+categories: [ "movies" ]
 title: "Muita Calma Nessa Hora"
 stars: "4/5"
 desc: "Muita Calma Nessa Hora. Muita Calma Nessa Hora (Brazil, 2010). Dirigido por Felipe Joffily. Escrito por João Avelino, Augusto Casé, Rosana Ferrão, Bruno Mazzeo, Rik Nogueira. Com Marcelo Adnet, Gianne Albertoni, Marco Antônio Alves, Dudu Azevedo, Laura Cardoso, Louise Cardoso, Fausto Fanti, Thelmo Fernandes, Nelson Freitas."

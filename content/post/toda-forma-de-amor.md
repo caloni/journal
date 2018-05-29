@@ -1,7 +1,7 @@
 ---
 imdb: "1532503"
 date: "2013-12-22"
-categories: "movies"
+categories: [ "movies" ]
 title: "Toda Forma de Amor"
 stars: "3/5"
 desc: "Toda Forma de Amor. Beginners (USA, 2010). Dirigido por Mike Mills. Escrito por Mike Mills. Com Ewan McGregor, Christopher Plummer, Mélanie Laurent, Goran Visnjic, Kai Lennox, Mary Page Keller, Keegan Boos, China Shavers, Melissa Tang."

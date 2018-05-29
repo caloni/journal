@@ -1,7 +1,7 @@
 ---
 imdb: "1443518"
 date: "2010-11-01"
-categories: "movies"
+categories: [ "movies" ]
 title: "Vc Tá Aí?"
 stars: "3/5"
 desc: "Vc Tá Aí?. R U There (Taiwan, 2010). Dirigido por David Verbeek. Escrito por Rogier de Blok. Com Stijn Koomen, Huan-Ju Ko, Tom De Hoog, Phi Nguyen, Pavio Bilak, David Eugene Callegari, David Davis, Amanda Philipson, Robert Samudion."

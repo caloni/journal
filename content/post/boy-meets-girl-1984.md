@@ -1,7 +1,7 @@
 ---
 imdb: "0086994"
 date: "2014-01-23"
-categories: "movies"
+categories: [ "movies" ]
 title: "Boy Meets Girl"
 stars: "4/5"
 desc: "Boy Meets Girl. Boy Meets Girl (France, 1984). Dirigido por Leos Carax. Escrito por Leos Carax. Com Denis Lavant, Mireille Perrier, Carroll Brooks, Maïté Nahyr, Elie Poicard, Christian Cloarec, Lorraine Berger, Marc Desclozeaux, Anna Baldaccini."

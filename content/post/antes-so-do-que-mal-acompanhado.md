@@ -1,7 +1,7 @@
 ---
 imdb: "0093748"
 date: "2013-11-16"
-categories: "movies"
+categories: [ "movies" ]
 title: "Antes Só do que Mal Acompanhado"
 stars: "5/5"
 desc: "Antes Só do que Mal Acompanhado. Planes, Trains & Automobiles (USA, 1987). Dirigido por John Hughes. Escrito por John Hughes. Com Steve Martin, John Candy, Laila Robins, Michael McKean, Dylan Baker, Carol Bruce, Olivia Burnette, Diana Douglas, Martin Ferrero."

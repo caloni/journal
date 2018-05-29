@@ -1,7 +1,7 @@
 ---
 imdb: "0033563"
 date: "2012-01-08"
-categories: "movies"
+categories: [ "movies" ]
 title: "Dumbo"
 stars: "5/5"
 revision: [datetime.date(2013, 7, 9)]

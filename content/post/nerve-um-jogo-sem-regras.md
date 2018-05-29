@@ -2,7 +2,7 @@
 tags: ['paulocoelho']
 imdb: "3531824"
 date: "2016-11-17"
-categories: "movies"
+categories: [ "movies" ]
 title: "Nerve: Um Jogo Sem Regras"
 stars: "2/5"
 desc: "Nerve: Um Jogo Sem Regras. Nerve (USA, 2016). Dirigido por Henry Joost, Ariel Schulman. Escrito por Jeanne Ryan, Jessica Sharzer. Com Emma Roberts (Vee), Dave Franco (Ian), Emily Meade (Sydney), Miles Heizer (Tommy), Juliette Lewis (Nancy), Kimiko Glenn (Liv), Marc John Jefferies (Wes), Machine Gun Kelly (Ty), Brian 'Sene' Marc (J.P.)."

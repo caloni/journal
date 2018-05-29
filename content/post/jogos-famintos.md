@@ -1,7 +1,7 @@
 ---
 imdb: "2403029"
 date: "2015-11-18"
-categories: "movies"
+categories: [ "movies" ]
 title: "Jogos Famintos"
 stars: "3/5"
 desc: "Jogos Famintos. The Starving Games (USA, 2013). Dirigido por Jason Friedberg, Aaron Seltzer. Escrito por Jason Friedberg, Aaron Seltzer. Com Maiara Walsh, Cody Christian, Brant Daugherty, Diedrich Bader, Ross Wyngaarden, Lauren Bowles, Dean J. West, Michael Hartson, Theodus Crane."

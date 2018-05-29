@@ -1,7 +1,7 @@
 ---
 imdb: "1483013"
 date: "2014-04-06"
-categories: "movies"
+categories: [ "movies" ]
 title: "Oblivion"
 stars: "3/5"
 desc: "Oblivion. Oblivion (USA, 2013). Dirigido por Joseph Kosinski. Escrito por Karl Gajdusek, Michael Arndt, Joseph Kosinski. Com Tom Cruise, Morgan Freeman, Olga Kurylenko, Andrea Riseborough, Nikolaj Coster-Waldau, Melissa Leo, Zoë Bell, Abigail Lowe, Isabelle Lowe."

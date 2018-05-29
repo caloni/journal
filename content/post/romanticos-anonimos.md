@@ -1,7 +1,7 @@
 ---
 imdb: "1565958"
 date: "2012-01-04"
-categories: "movies"
+categories: [ "movies" ]
 title: "Românticos Anônimos"
 stars: "4/5"
 desc: "Românticos Anônimos. Les émotifs anonymes (France, 2010). Dirigido por Jean-Pierre Améris. Escrito por Jean-Pierre Améris, Philippe Blasband. Com Benoît Poelvoorde, Isabelle Carré, Lorella Cravotta, Lise Lamétrie, Swann Arlaud, Pierre Niney, Stéphan Wojtowicz, Jacques Boudet, Alice Pol."

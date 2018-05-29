@@ -1,7 +1,7 @@
 ---
 imdb: "0079522"
 date: "2014-05-20"
-categories: "movies"
+categories: [ "movies" ]
 title: "Manhattan"
 stars: "4/5"
 desc: "Manhattan. Manhattan (USA, 1979). Dirigido por Woody Allen. Escrito por Woody Allen, Marshall Brickman. Com Woody Allen, Diane Keaton, Michael Murphy, Mariel Hemingway, Meryl Streep, Anne Byrne Hoffman, Karen Ludwig, Michael O'Donoghue, Victor Truro."

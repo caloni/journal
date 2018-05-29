@@ -1,7 +1,7 @@
 ---
 imdb: "2452200"
 date: "2015-04-27"
-categories: "movies"
+categories: [ "movies" ]
 title: "Son of a Gun"
 stars: "3/5"
 desc: "Son of a Gun. Son of a Gun (Australia, 2014). Dirigido por Julius Avery. Escrito por Julius Avery, John Collee. Com Ewan McGregor, Brendan Kerkvliet, Brenton Thwaites, Alicia Vikander, Geoff Kelso, Jacek Koman, Matt Nable, Peter Neaves, Tom Budge."

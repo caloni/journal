@@ -1,7 +1,7 @@
 ---
 date: 2018-04-11T17:31:48-03:00
 title: "Tudo que Quero e os filmes produzidos para virar música de elevador"
-categories: "movies"
+categories: [ "movies" ]
 imdb: "4652650"
 stars: "3/5"
 desc: "Tudo que Quero (Please Stand By). EUA, 2017. Escrito por Michael Golamco, dirigido por Ben Lewin, com Dakota Fanning, Toni Collette, Alice Eve."

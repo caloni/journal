@@ -1,7 +1,7 @@
 ---
 date: 2018-05-03T22:42:56-03:00
 title: "Vingadores: Guerra Infinita é um filme que passa rápido apesar de longo; e isso é uma coisa boa"
-categories: "movies"
+categories: [ "movies" ]
 imdb: "4154756"
 stars: "4/5"
 desc: "Avengers: Infinity War. EUA, 2018. Escrito por uma porrada de gente, dirigido por Anthony Russo, Joe Russo. Com uma porrada de gente."

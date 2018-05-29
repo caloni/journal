@@ -1,7 +1,7 @@
 ---
 imdb: "2113659"
 date: "2015-01-02"
-categories: "movies"
+categories: [ "movies" ]
 title: "Elsa e Fred"
 stars: "3/5"
 desc: "Elsa e Fred. Elsa & Fred (USA, 2014). Dirigido por Michael Radford. Escrito por Anna Pavignano, Michael Radford. Com Shirley MacLaine, Christopher Plummer, Marcia Gay Harden, Scott Bakula, Chris Noth, George Segal, James Brolin, Erika Alexander, Wendell Pierce."

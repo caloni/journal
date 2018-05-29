@@ -2,7 +2,7 @@
 tags: ['paulocoelho']
 imdb: "3508840"
 date: "2017-01-05"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Assassina"
 stars: "4/5"
 desc: "A Assassina. Cìkè Niè Yinniáng (Taiwan, 2015). Dirigido por Hsiao-Hsien Hou. Escrito por Cheng Ah, T'ien-wen Chu, Hsiao-Hsien Hou, Hai-Meng Hsieh, Xing Pei. Com Chen Chang (Tian Ji'an), Qi Shu (Nie Yinniang), Yun Zhou (Lady Tian), Satoshi Tsumabuki (The Mirror Polisher), Dahong Ni (Nie Feng), Mei Yong (Yinniang' Mother), Zhen Yu Lei (Tien Xing), Nikki Hsin-Ying Hsieh (Huji), Ethan Juan (Xia Jing)."

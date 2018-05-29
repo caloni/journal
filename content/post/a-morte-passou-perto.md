@@ -1,7 +1,7 @@
 ---
 imdb: "0048254"
 date: "2013-10-19"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Morte Passou Perto"
 stars: "3/5"
 desc: "A Morte Passou Perto. Killer's Kiss (USA, 1955). Dirigido por Stanley Kubrick. Escrito por Stanley Kubrick, Howard Sackler. Com Frank Silvera, Jamie Smith, Irene Kane, Jerry Jarrett, Mike Dana, Felice Orlandi, Shaun O'Brien, Barbara Brand, David Vaughan."

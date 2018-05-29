@@ -1,7 +1,7 @@
 ---
 imdb: "0448157"
 date: "2016-01-22"
-categories: "movies"
+categories: [ "movies" ]
 title: "Hancock"
 stars: "2/5"
 desc: "Hancock. Hancock (USA, 2008). Dirigido por Peter Berg. Escrito por Vincent Ngo, Vince Gilligan. Com Will Smith, Charlize Theron, Jason Bateman, Jae Head, Eddie Marsan, David Mattey, Maetrix Fitten, Thomas Lennon, Johnny Galecki."

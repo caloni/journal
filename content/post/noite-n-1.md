@@ -1,7 +1,7 @@
 ---
 imdb: "2016955"
 date: "2012-10-23"
-categories: "movies"
+categories: [ "movies" ]
 title: "Noite #1"
 stars: "3/5"
 desc: "Noite #1. Nuit #1 (Canada, 2011). Dirigido por Anne Émond. Escrito por Anne Émond. Com Catherine de Léan, Dimitri Storoge, Véronique Rebizov, Raphaël Boulanger, Mika Pluviose, Maïsa Bastien."

@@ -1,7 +1,7 @@
 ---
 imdb: "0119528"
 date: "2016-01-04"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Mentiroso"
 stars: "4/5"
 desc: "O Mentiroso. Liar Liar (USA, 1997). Dirigido por Tom Shadyac. Escrito por Paul Guay, Stephen Mazur. Com Jim Carrey, Maura Tierney, Justin Cooper, Cary Elwes, Anne Haney, Jennifer Tilly, Amanda Donohoe, Jason Bernard, Swoosie Kurtz."

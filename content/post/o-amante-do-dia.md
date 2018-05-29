@@ -2,7 +2,7 @@
 tags: ['mostrasp']
 imdb: "5642124"
 date: 2017-10-28T00:35:06
-categories: "movies"
+categories: [ "movies" ]
 title: "O Amante Do Dia"
 stars: "3/5"
 desc: "O Amante Do Dia. L'amant d'un jour (France, 2017). Dirigido por Philippe Garrel. Escrito por Jean-Claude Carrière, Caroline Deruas-Garrel, Philippe Garrel, Arlette Langmann. Com Éric Caravaca (Gilles), Esther Garrel (Jeanne), Louise Chevillotte (Ariane), Paul Toucang (Matéo), Félix Kysyl (Stéphane), Michel Charrel (Le patron du bar), Nicolas Bridet (Le prof), Marie Sergeant (Yentel), Raphaël Naasz (Le jeune homme à la cigarette)."

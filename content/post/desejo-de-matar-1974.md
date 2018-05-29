@@ -1,7 +1,7 @@
 ---
 date: 2018-05-22T17:52:58-03:00
 title: "Desejo de Matar (1974)"
-categories: "movies"
+categories: [ "movies" ]
 imdb: "0071402"
 stars: "4/5"
 desc: "Death Wish (EUA, 1971). Escrito por Wendell Mayes baseado no romance de Brian Garfield. Dirigido por Michael Winner. Com Charles Bronson, Hope Lange, Vincent Gardenia."

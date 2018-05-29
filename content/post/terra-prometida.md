@@ -2,7 +2,7 @@
 tags: ['mostrasp']
 imdb: "0072446"
 date: "2016-10-26"
-categories: "movies"
+categories: [ "movies" ]
 title: "Terra Prometida"
 stars: "5/5"
 desc: "Terra Prometida. Ziemia obiecana (Poland, 1975). Dirigido por Andrzej Wajda. Escrito por Wladyslaw Stanislaw Reymont, Andrzej Wajda. Com Daniel Olbrychski (Karol Borowiecki), Wojciech Pszoniak (Moryc Welt), Andrzej Seweryn (Maks Baum), Anna Nehrebecka (Anka Kurowska), Tadeusz Bialoszczynski (Ojciec Karola - Karol's Father), Bozena Dykiel (Mada Müller), Franciszek Pieczka (Müller), Danuta Wodynska (Müllerowa), Marian Glinka (Wilhelm Müller)."

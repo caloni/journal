@@ -1,7 +1,7 @@
 ---
 imdb: "1571222"
 date: "2015-10-02"
-categories: "movies"
+categories: [ "movies" ]
 title: "Um Método Perigoso"
 stars: "3/5"
 desc: "Um Método Perigoso. A Dangerous Method (UK, 2011). Dirigido por David Cronenberg. Escrito por Christopher Hampton, Christopher Hampton, John Kerr. Com Keira Knightley, Viggo Mortensen, Michael Fassbender, Vincent Cassel, Sarah Gadon, André Hennicke, Arndt Schwering-Sohnrey, Mignon Remé, Mareike Carrière."

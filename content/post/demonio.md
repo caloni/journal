@@ -1,7 +1,7 @@
 ---
 imdb: "1314655"
 date: "2011-10-30"
-categories: "movies"
+categories: [ "movies" ]
 title: "Demônio"
 stars: "3/5"
 desc: "Demônio. Devil (USA, 2010). Dirigido por John Erick Dowdle. Escrito por Brian Nelson, M. Night Shyamalan. Com Chris Messina, Logan Marshall-Green, Jenny O'Hara, Bojana Novakovic, Bokeem Woodbine, Geoffrey Arend, Jacob Vargas, Matt Craven, Joshua Peace."

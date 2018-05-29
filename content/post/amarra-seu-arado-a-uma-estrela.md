@@ -1,7 +1,7 @@
 ---
 date: 2018-03-20T17:09:19-03:00
 title: "Filme após a coletiva de abertura do 'É Tudo Verdade' apresenta homenagem a Fernando Birri"
-categories: "movies"
+categories: [ "movies" ]
 imdb: "7697854"
 stars: "3/5"
 desc: "Amarra Seu Arado em Uma Estrela/Ata tu arado a una estrella (Argentina, 2017), escrito por Carmen Guarini, dirigido por Carmen Guarini, com Fernando Birri, Osvaldo Bayer, Carmen Papio Birri."

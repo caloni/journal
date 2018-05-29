@@ -2,7 +2,7 @@
 tags: ['cabine']
 imdb: "4255626"
 date: "2015-06-10"
-categories: "movies"
+categories: [ "movies" ]
 title: "Beijei uma Garota"
 stars: "3/5"
 desc: "Beijei uma Garota. Toute première fois (France, 2015). Dirigido por Maxime Govare, Noémie Saglio. Escrito por Maxime Govare, Noémie Saglio. Com Pio Marmaï, Franck Gastambide, Adrianna Gradziel, Lannick Gautry, Camille Cottin, Frédéric Pierrot, Isabelle Candelier, Nicole Ferroni, Etienne Guiraud."

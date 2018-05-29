@@ -1,7 +1,7 @@
 ---
 imdb: "1440161"
 date: "2011-09-21"
-categories: "movies"
+categories: [ "movies" ]
 title: "Pronta Para Amar"
 stars: "3/5"
 desc: "Pronta Para Amar. A Little Bit of Heaven (USA, 2011). Dirigido por Nicole Kassell. Escrito por Gren Wells. Com Kate Hudson, Gael García Bernal, Kathy Bates, Lucy Punch, Romany Malco, Rosemarie DeWitt, Whoopi Goldberg, Treat Williams, Steven Weber."

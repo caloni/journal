@@ -1,7 +1,7 @@
 ---
 imdb: "0052357"
 date: "2012-10-03"
-categories: "movies"
+categories: [ "movies" ]
 title: "Um Corpo Que Cai"
 stars: "5/5"
 desc: "Um Corpo Que Cai. Vertigo (USA, 1958). Dirigido por Alfred Hitchcock. Escrito por Alec Coppel, Samuel A. Taylor, Pierre Boileau, Thomas Narcejac, Maxwell Anderson. Com James Stewart, Kim Novak, Barbara Bel Geddes, Tom Helmore, Henry Jones, Raymond Bailey, Ellen Corby, Konstantin Shayne, Lee Patrick."

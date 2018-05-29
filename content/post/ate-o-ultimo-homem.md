@@ -2,7 +2,7 @@
 tags: ['paulocoelho', 'oscar']
 imdb: "2119532"
 date: "2017-02-15"
-categories: "movies"
+categories: [ "movies" ]
 title: "Até o Último Homem"
 stars: "5/5"
 desc: "Até o Último Homem. Hacksaw Ridge (Australia, 2016). Dirigido por Mel Gibson. Escrito por Robert Schenkkan, Andrew Knight. Com Andrew Garfield (Desmond Doss), Richard Pyros (Teach), Jacob Warner (James Pinnick), Milo Gibson (Lucky Ford), Darcy Bryce (Young Desmond), Roman Guerriero (Young 'Hal' Doss), James Lugton (Hiker), Kasia Stelmach (Hiker's Friend), Hugo Weaving (Tom Doss)."

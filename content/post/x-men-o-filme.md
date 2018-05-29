@@ -1,7 +1,7 @@
 ---
 imdb: "0120903"
 date: "2015-07-16"
-categories: "movies"
+categories: [ "movies" ]
 title: "X-Men: O Filme"
 stars: "4/5"
 desc: "X-Men: O Filme. X-Men (USA, 2000). Dirigido por Bryan Singer. Escrito por Tom DeSanto, Bryan Singer, David Hayter. Com Hugh Jackman, Patrick Stewart, Ian McKellen, Famke Janssen, James Marsden, Halle Berry, Anna Paquin, Tyler Mane, Ray Park."

@@ -1,7 +1,7 @@
 ---
 imdb: "0372588"
 date: "2014-03-19"
-categories: "movies"
+categories: [ "movies" ]
 title: "Team America Detonando o Mundo"
 stars: "4/5"
 desc: "Team America Detonando o Mundo. Team America: World Police (USA, 2004). Dirigido por Trey Parker. Escrito por Trey Parker, Matt Stone, Pam Brady. Com Trey Parker, Matt Stone, Kristen Miller, Masasa Moyo, Daran Norris, Phil Hendrie, Maurice LaMarche, Chelsea Marguerite, Jeremy Shada."

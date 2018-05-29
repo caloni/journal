@@ -1,7 +1,7 @@
 ---
 imdb: "2872750"
 date: "2015-06-01"
-categories: "movies"
+categories: [ "movies" ]
 title: "Shaun: O Carneiro"
 stars: "4/5"
 revision: [datetime.date(2017, 12, 21)]

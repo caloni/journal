@@ -1,7 +1,7 @@
 ---
 imdb: "1192628"
 date: "2018-02-19"
-categories: "movies"
+categories: [ "movies" ]
 title: "Rango"
 stars: "4/5"
 desc: "Rango. Rango (USA, 2011). Dirigido por Gore Verbinski. Escrito por John Logan, John Logan, Gore Verbinski, James Ward Byrkit. Com Johnny Depp, Isla Fisher, Abigail Breslin, Ned Beatty, Alfred Molina, Bill Nighy, Stephen Root, Harry Dean Stanton, Timothy Olyphant."

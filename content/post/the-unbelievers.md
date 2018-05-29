@@ -1,7 +1,7 @@
 ---
 imdb: "2636522"
 date: "2014-11-30"
-categories: "movies"
+categories: [ "movies" ]
 title: "The Unbelievers"
 stars: "2/5"
 desc: "The Unbelievers. The Unbelievers (USA, 2013). Dirigido por Gus Holwerda. Escrito por Gus Holwerda, Luke Holwerda, Lawrence Krauss. Com Ayaan Hirsi Ali, Woody Allen, Richard Dawkins, Daniel C. Dennett, Cameron Diaz, Ricky Gervais, Sam Harris, Stephen Hawking, Werner Herzog."

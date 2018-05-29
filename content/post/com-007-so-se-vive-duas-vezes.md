@@ -1,7 +1,7 @@
 ---
 imdb: "0062512"
 date: "2012-11-28"
-categories: "movies"
+categories: [ "movies" ]
 title: "Com 007 Só Se Vive Duas Vezes"
 stars: "4/5"
 desc: "Com 007 Só Se Vive Duas Vezes. You Only Live Twice (UK, 1967). Dirigido por Lewis Gilbert. Escrito por Harold Jack Bloom, Roald Dahl, Ian Fleming. Com Sean Connery, Akiko Wakabayashi, Mie Hama, Tetsurô Tanba, Teru Shimada, Karin Dor, Donald Pleasence, Bernard Lee, Lois Maxwell."

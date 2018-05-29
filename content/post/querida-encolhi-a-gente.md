@@ -1,7 +1,7 @@
 ---
 imdb: "0119310"
 date: "2015-01-26"
-categories: "movies"
+categories: [ "movies" ]
 title: "Querida, Encolhi a Gente"
 stars: "2/5"
 desc: "Querida, Encolhi a Gente. Honey, We Shrunk Ourselves (USA, 1997). Dirigido por Dean Cundey. Escrito por Karey Kirkpatrick, Nell Scovell, Joel Hodgson. Com Rick Moranis, Eve Gordon, Bug Hall, Robin Bartlett, Stuart Pankin, Allison Mack, Jake Richardson, JoJo Adams, Bryson Aust."

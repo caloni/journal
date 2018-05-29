@@ -2,7 +2,7 @@
 tags: ['netflix']
 imdb: "2463512"
 date: "2017-03-21"
-categories: "movies"
+categories: [ "movies" ]
 title: "Amores Inversos"
 stars: "3/5"
 desc: "Amores Inversos. Hateship Loveship (USA, 2013). Dirigido por Liza Johnson. Escrito por Mark Poirier, Alice Munro. Com Kristen Wiig (Johanna Parry), Guy Pearce (Ken), Hailee Steinfeld (Sabitha), Jennifer Jason Leigh (Chloe), Sami Gayle (Edith), Christine Lahti (Eileen), Nick Nolte (Mr. McCauley), Lauren Swinney (Mrs. Willets), Jeff Pope (Oxygen Delivery Man)."

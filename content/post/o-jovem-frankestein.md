@@ -1,7 +1,7 @@
 ---
 imdb: "0072431"
 date: "2015-04-11"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Jovem Frankenstein"
 stars: "4/5"
 desc: "O Jovem Frankenstein. Young Frankenstein (USA, 1974). Dirigido por Mel Brooks. Escrito por Gene Wilder, Mel Brooks, Mary Shelley. Com Gene Wilder, Peter Boyle, Marty Feldman, Madeline Kahn, Cloris Leachman, Teri Garr, Kenneth Mars, Richard Haydn, Liam Dunn."

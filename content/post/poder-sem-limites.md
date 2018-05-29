@@ -1,7 +1,7 @@
 ---
 imdb: "1706593"
 date: "2012-03-14"
-categories: "movies"
+categories: [ "movies" ]
 title: "Poder sem Limites"
 stars: "4/5"
 desc: "Poder sem Limites. Chronicle (USA, 2012). Dirigido por Josh Trank. Escrito por Max Landis, Max Landis, Josh Trank. Com Dane DeHaan, Alex Russell, Michael B. Jordan, Michael Kelly, Ashley Hinshaw, Bo Petersen, Anna Wood, Rudi Malcolm, Luke Tyler."

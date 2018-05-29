@@ -1,7 +1,7 @@
 ---
 imdb: "1266029"
 date: "2010-12-03"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Garoto de Liverpool"
 stars: "3/5"
 desc: "O Garoto de Liverpool. Nowhere Boy (UK, 2009). Dirigido por Sam Taylor-Johnson. Escrito por Julia Baird, Matt Greenhalgh. Com Aaron Taylor-Johnson, Kristin Scott Thomas, David Threlfall, Josh Bolt, Ophelia Lovibond, Kerrie Hayes, Angela Walsh, Paul Ritter, Richard Syms."

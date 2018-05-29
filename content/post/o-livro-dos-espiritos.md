@@ -1,7 +1,7 @@
 ---
 imdb: "2210871"
 date: "2011-10-08"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Filme dos Espíritos"
 stars: "1/5"
 desc: "O Filme dos Espíritos. O Filme dos Espíritos (Brazil, 2011). Dirigido por Michel Dubret, André Marouço. Escrito por André Marouço. Com Flávio Barollo, Sandra Corveloni, Blota Filho, Etty Fraser, Luciana Gimenez, Ênio Gonçalves, Briza Menezes, Alethea Miranda, Reinaldo Rodrigues."

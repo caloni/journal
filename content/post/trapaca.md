@@ -1,7 +1,7 @@
 ---
 imdb: "1800241"
 date: "2014-02-13"
-categories: "movies"
+categories: [ "movies" ]
 title: "Trapaça"
 stars: "4/5"
 desc: "Trapaça. American Hustle (USA, 2013). Dirigido por David O. Russell. Escrito por Eric Warren Singer, David O. Russell. Com Christian Bale, Bradley Cooper, Amy Adams, Jeremy Renner, Jennifer Lawrence, Louis C.K., Jack Huston, Michael Peña, Shea Whigham."

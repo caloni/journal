@@ -1,7 +1,7 @@
 ---
 imdb: "1127877"
 date: "2010-06-09"
-categories: "movies"
+categories: [ "movies" ]
 title: "Almas à venda"
 stars: "2/5"
 desc: "Almas à venda. Cold Souls (USA, 2009). Dirigido por Sophie Barthes. Escrito por Sophie Barthes. Com Paul Giamatti, Armand Schultz, Michael Tucker, Dina Korzun, Ted Koch, Oksana Lada, Natalia Zvereva, Larisa Bell, Anna Dyukova."

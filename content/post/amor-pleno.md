@@ -1,7 +1,7 @@
 ---
 imdb: "1595656"
 date: "2013-08-01"
-categories: "movies"
+categories: [ "movies" ]
 title: "Amor Pleno"
 stars: "4/5"
 desc: "Amor Pleno. To the Wonder (USA, 2012). Dirigido por Terrence Malick. Escrito por Terrence Malick. Com Ben Affleck, Olga Kurylenko, Rachel McAdams, Javier Bardem, Tatiana Chiline, Romina Mondello, Tony O'Gans, Charles Baker, Marshall Bell."

@@ -1,7 +1,7 @@
 ---
 imdb: "0914798"
 date: "2012-10-21"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Menino do Pijama Listrado"
 stars: "4/5"
 desc: "O Menino do Pijama Listrado. The Boy in the Striped Pyjamas (UK, 2008). Dirigido por Mark Herman. Escrito por John Boyne, Mark Herman. Com Asa Butterfield, Zac Mattoon O'Brien, Domonkos Németh, Henry Kingsmill, Vera Farmiga, Cara Horgan, Zsuzsa Holl, Amber Beattie, László Áron."

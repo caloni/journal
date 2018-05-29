@@ -1,7 +1,7 @@
 ---
 imdb: "1576382"
 date: "2010-10-08"
-categories: "movies"
+categories: [ "movies" ]
 title: "Dois Irmãos"
 stars: "4/5"
 desc: "Dois Irmãos. Dos hermanos (Argentina, 2010). Dirigido por Daniel Burman. Escrito por Daniel Burman, Diego Dubcovsky, Diego Dubcovsky. Com Antonio Gasalla, Graciela Borges, Elena Lucena, Rita Cortese, Osmar Núñez, Gustavo Jalife."

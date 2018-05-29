@@ -1,7 +1,7 @@
 ---
 imdb: "0318034"
 date: "2011-03-28"
-categories: "movies"
+categories: [ "movies" ]
 title: "Arca Russa"
 stars: "3/5"
 desc: "Arca Russa. Russkiy kovcheg (Russia, 2002). Dirigido por Aleksandr Sokurov. Escrito por Boris Khaimsky, Anatoli Nikiforov, Svetlana Proskurina, Aleksandr Sokurov, Aleksandr Sokurov. Com Sergey Dreyden, Mariya Kuznetsova, Leonid Mozgovoy, Mikhail Piotrovsky, David Giorgobiani, Aleksandr Chaban, Lev Eliseev, Oleg Khmelnitsky, Alla Osipenko."

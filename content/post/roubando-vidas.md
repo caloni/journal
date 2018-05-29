@@ -1,7 +1,7 @@
 ---
 imdb: "0364045"
 date: "2011-10-23"
-categories: "movies"
+categories: [ "movies" ]
 title: "Roubando Vidas"
 stars: "2/5"
 desc: "Roubando Vidas. Taking Lives (USA, 2004). Dirigido por D.J. Caruso. Escrito por Michael Pye, Jon Bokenkamp, Jon Bokenkamp. Com Angelina Jolie, Ethan Hawke, Kiefer Sutherland, Gena Rowlands, Olivier Martinez, Tchéky Karyo, Jean-Hugues Anglade, Paul Dano, Justin Chatwin."

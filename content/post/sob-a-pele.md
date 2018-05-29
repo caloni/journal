@@ -1,7 +1,7 @@
 ---
 imdb: "1441395"
 date: "2015-01-20"
-categories: "movies"
+categories: [ "movies" ]
 title: "Sob a Pele"
 stars: "4/5"
 desc: "Sob a Pele. Under the Skin (UK, 2013). Dirigido por Jonathan Glazer. Escrito por Walter Campbell, Jonathan Glazer, Michel Faber. Com Scarlett Johansson, Jeremy McWilliams, Lynsey Taylor Mackay, Dougie McConnell, Kevin McAlinden, D. Meade, Andrew Gorman, Joe Szula, Krystof Hádek."

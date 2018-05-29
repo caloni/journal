@@ -1,7 +1,7 @@
 ---
 imdb: "0238380"
 date: "2016-05-08"
-categories: "movies"
+categories: [ "movies" ]
 title: "Equilibrium"
 stars: "3/5"
 desc: "Equilibrium. Equilibrium (USA, 2002). Dirigido por Kurt Wimmer. Escrito por Kurt Wimmer. Com Christian Bale, Dominic Purcell, Sean Bean, Christian Kahrmann, John Keogh, Sean Pertwee, William Fichtner, Angus Macfadyen, David Barrash."

@@ -1,7 +1,7 @@
 ---
 imdb: "0088128"
 date: "2013-12-15"
-categories: "movies"
+categories: [ "movies" ]
 title: "Gatinhas e Gatões"
 stars: "4/5"
 desc: "Gatinhas e Gatões. Sixteen Candles (USA, 1984). Dirigido por John Hughes. Escrito por John Hughes. Com Molly Ringwald, Justin Henry, Michael Schoeffling, Haviland Morris, Gedde Watanabe, Anthony Michael Hall, Paul Dooley, Carlin Glynn, Blanche Baker."

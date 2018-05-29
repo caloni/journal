@@ -2,7 +2,7 @@
 tags: ['cinema', 'mcu', 'avengers']
 imdb: "2395427"
 date: "2015-05-05"
-categories: "movies"
+categories: [ "movies" ]
 title: "Vingadores: Era de Ultron"
 stars: "3/5"
 desc: "Vingadores: Era de Ultron. Avengers: Age of Ultron (USA, 2015). Dirigido por Joss Whedon. Escrito por Joss Whedon, Stan Lee, Jack Kirby. Com Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans, Scarlett Johansson, Jeremy Renner, James Spader, Samuel L. Jackson, Don Cheadle."

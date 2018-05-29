@@ -2,7 +2,7 @@
 tags: ['cabine']
 imdb: "2639254"
 date: "2015-06-27"
-categories: "movies"
+categories: [ "movies" ]
 title: "Um Pouco de Caos"
 stars: "3/5"
 desc: "Um Pouco de Caos. A Little Chaos (UK, 2014). Dirigido por Alan Rickman. Escrito por Jeremy Brock, Alison Deegan, Alan Rickman. Com Thomas Allam, Alan Rickman, Hope Hancock, Isabella Steinbarth, Hal Hewetson, Carolina Valdés, Eleanor Montgomery, Matthias Schoenaerts, Danny Webb."

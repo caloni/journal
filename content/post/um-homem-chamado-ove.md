@@ -3,7 +3,7 @@ tags: ['cabine', 'oscar']
 cinemaqui: "http://www.cinemaqui.com.br/um-homem-chamado-ove"
 imdb: "4080728"
 date: "2017-02-04"
-categories: "movies"
+categories: [ "movies" ]
 title: "Um Homem Chamado Ove"
 stars: "3/5"
 desc: "Um Homem Chamado Ove. En man som heter Ove (Sweden, 2015). Dirigido por Hannes Holm. Escrito por Hannes Holm, Fredrik Backman. Com Rolf Lassgård (Ove), Bahar Pars (Parvaneh), Filip Berg (Unga Ove), Ida Engvoll (Sonja), Tobias Almborg (Patrick), Klas Wiljergård (Jimmy), Chatarina Larsson (Anita), Börje Lundberg (Rune), Stefan Gödicke (Oves pappa)."

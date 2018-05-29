@@ -2,7 +2,7 @@
 tags: ['netflix']
 imdb: "0191754"
 date: "2017-04-21"
-categories: "movies"
+categories: [ "movies" ]
 title: "28 Dias"
 stars: "5/5"
 desc: "28 Dias. 28 Days (USA, 2000). Dirigido por Betty Thomas. Escrito por Susannah Grant. Com Sandra Bullock (Gwen Cummings), Viggo Mortensen (Eddie Boone), Dominic West (Jasper), Elizabeth Perkins (Lily), Azura Skye (Andrea), Steve Buscemi (Cornell), Alan Tudyk (Gerhardt), Mike O'Malley (Oliver), Marianne Jean-Baptiste (Roshanda)."

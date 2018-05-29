@@ -1,7 +1,7 @@
 ---
 imdb: "0388419"
 date: "2011-12-25"
-categories: "movies"
+categories: [ "movies" ]
 title: "Um Natal Muito Muito Louco"
 stars: "3/5"
 desc: "Um Natal Muito Muito Louco. Christmas with the Kranks (USA, 2004). Dirigido por Joe Roth. Escrito por John Grisham, Chris Columbus. Com Tim Allen, Jamie Lee Curtis, Dan Aykroyd, M. Emmet Walsh, Elizabeth Franz, Erik Per Sullivan, Cheech Marin, Jake Busey, Austin Pendleton."

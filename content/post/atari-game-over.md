@@ -1,7 +1,7 @@
 ---
 imdb: "3715406"
 date: "2015-12-13"
-categories: "movies"
+categories: [ "movies" ]
 title: "Atari: Game Over"
 stars: "4/5"
 desc: "Atari: Game Over. Atari: Game Over (USA, 2014). Dirigido por Zak Penn. Com Zak Penn, Joe Lewandowski, Robert Rentschler, Paul Sanchez, Manny Gerard, Nolan Bushnell, Seamus Blackley, Howard Scott Warshaw, Son Huffmon."

@@ -1,7 +1,7 @@
 ---
 imdb: "2339741"
 date: "2015-01-30"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Mulher de Preto 2: O Anjo da Morte"
 stars: "2/5"
 desc: "A Mulher de Preto 2: O Anjo da Morte. The Woman in Black 2: Angel of Death (UK, 2014). Dirigido por Tom Harper. Escrito por Jon Croker, Jon Croker, Susan Hill. Com Phoebe Fox, Merryn Pearse, Mary Roscoe, Helen McCrory, Amelia Crouch, Amelia Pidgeon, Casper Allpress, Pip Pearce, Leilah de Meza."

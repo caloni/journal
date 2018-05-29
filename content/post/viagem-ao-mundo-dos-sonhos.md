@@ -1,7 +1,7 @@
 ---
 imdb: "0089114"
 date: "2012-06-04"
-categories: "movies"
+categories: [ "movies" ]
 title: "Viagem ao Mundo dos Sonhos"
 stars: "3/5"
 desc: "Viagem ao Mundo dos Sonhos. Explorers (USA, 1985). Dirigido por Joe Dante. Escrito por Eric Luke. Com Ethan Hawke, River Phoenix, Bobby Fite, Bradley Gregg, Georg Olden, Chance Schwass, Amanda Peterson, Danny Nucci, Jason Presson."

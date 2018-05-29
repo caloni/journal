@@ -1,7 +1,7 @@
 ---
 imdb: "1034314"
 date: "2015-09-25"
-categories: "movies"
+categories: [ "movies" ]
 title: "Deu a Louca nos Nazis"
 stars: "3/5"
 desc: "Deu a Louca nos Nazis. Iron Sky (Finland, 2012). Dirigido por Timo Vuorensola. Escrito por Jarmo Puskala, Johanna Sinisalo, Michael Kalesniko, Timo Vuorensola. Com Julia Dietze, Christopher Kirby, Götz Otto, Udo Kier, Peta Sergeant, Stephanie Paul, Tilo Prückner, Michael Cullen, Kym Jackson."

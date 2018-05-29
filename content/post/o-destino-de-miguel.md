@@ -3,7 +3,7 @@ tags: ['youtube', 'curtas']
 title: "O Destino de Miguel"
 stars: "2/5"
 date: "2016-09-11"
-categories: "blog"
+categories: [ "blog" ]
 desc: "O Destino de Miguel. Com Aramis Trindade, Wagner Moura, Zéu Britto, Tadeu Mello, João Falcão, Caetano Veloso, Mario Martinelli, Derrick Green, Daniel Oliveira, Bruno Garcia, Lázaro Ramos, Sidney Magal."
 ---
 Graças às leis de propriedade intelectual não temos muitas produções desse tipo, mas felizmente temos algumas. E essa, produzida de forma profissional por grandes nomes da dramaturgia brasileira, realiza um curta-metragem mais que necessário como extra de DVD do filme Shakespeare Apaixonado, aquele hollywoodiano que ganhou Oscar porque... porque... bom, porque não é dublado como O Destino de Miguel.

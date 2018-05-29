@@ -1,7 +1,7 @@
 ---
 imdb: "0054215"
 date: "2011-06-30"
-categories: "movies"
+categories: [ "movies" ]
 title: "Psicose"
 stars: "5/5"
 desc: "Psicose. Psycho (USA, 1960). Dirigido por Alfred Hitchcock. Escrito por Joseph Stefano, Robert Bloch. Com Anthony Perkins, Vera Miles, John Gavin, Janet Leigh, Martin Balsam, John McIntire, Simon Oakland, Frank Albertson, Patricia Hitchcock."

@@ -2,7 +2,7 @@
 tags: ['paulocoelho', 'oscar']
 imdb: "2671706"
 date: "2017-02-07"
-categories: "movies"
+categories: [ "movies" ]
 title: "Um Limite Entre Nós"
 stars: "4/5"
 desc: "Um Limite Entre Nós. Fences (USA, 2016). Dirigido por Denzel Washington. Escrito por August Wilson. Com Denzel Washington (Troy Maxson), Viola Davis (Rose Maxson), Stephen Henderson (Jim Bono), Jovan Adepo (Cory), Russell Hornsby (Lyons), Mykelti Williamson (Gabriel), Saniyya Sidney (Raynell), Christopher Mele (Deputy Commissioner), Lesley Boone (Evangelist Preacher)."

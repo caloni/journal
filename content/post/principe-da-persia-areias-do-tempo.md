@@ -1,7 +1,7 @@
 ---
 imdb: "0473075"
 date: "2010-06-14"
-categories: "movies"
+categories: [ "movies" ]
 title: "Príncipe da Pérsia As Areias do Tempo"
 stars: "3/5"
 desc: "Príncipe da Pérsia As Areias do Tempo. Prince of Persia: The Sands of Time (USA, 2010). Dirigido por Mike Newell. Escrito por Boaz Yakin, Doug Miro, Carlo Bernard, Jordan Mechner, Jordan Mechner. Com Jake Gyllenhaal, Gemma Arterton, Ben Kingsley, Alfred Molina, Steve Toussaint, Toby Kebbell, Richard Coyle, Ronald Pickup, Reece Ritchie."

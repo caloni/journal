@@ -1,7 +1,7 @@
 ---
 imdb: "0977642"
 date: "2012-11-04"
-categories: "movies"
+categories: [ "movies" ]
 title: "Chega de Saudade"
 stars: "4/5"
 desc: "Chega de Saudade. Chega de Saudade (Brazil, 2007). Dirigido por Laís Bodanzky. Escrito por Laís Bodanzky, Luiz Bolognesi, Nando Bolognesi, Adriana Falcão, Roberto Gervitz, Ricardo Kauffman, Bráulio Mantovani, Silvana Matteusi, Sérgio Penna. Com Leonardo Villar, Tônia Carrero, Cássia Kis Magro, Betty Faria, Stepan Nercessian, Maria Flor, Paulo Vilhena, Elza Soares, Marku Ribas."

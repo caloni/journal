@@ -1,7 +1,7 @@
 ---
 imdb: "1046173"
 date: "2011-08-14"
-categories: "movies"
+categories: [ "movies" ]
 title: "G.I. Joe A Origem de Cobra"
 stars: "1/5"
 desc: "G.I. Joe A Origem de Cobra. G.I. Joe: The Rise of Cobra (USA, 2009). Dirigido por Stephen Sommers. Escrito por Stuart Beattie, David Elliot, Paul Lovett, Michael Gordon, Stuart Beattie, Stephen Sommers. Com Adewale Akinnuoye-Agbaje, Christopher Eccleston, Grégory Fitoussi, Joseph Gordon-Levitt, Leo Howard, Karolina Kurkova, Byung-hun Lee, Sienna Miller, David Murray."

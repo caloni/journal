@@ -2,7 +2,7 @@
 tags: ['netflix', 'series']
 imdb: "3114390"
 date: "2014-10-19"
-categories: "series"
+categories: [ "series" ]
 title: "Kill La Kill"
 stars: "4/5"
 desc: "Kill La Kill. Kill La Kill (Japan, 2013). Dirigido por Akira Amemiya, Hiroyuki Imaishi, Alex Von David. Escrito por Kazuki Nakashima, Alex Von David. Com Ami Koshimizu, Aya Suzaki, Toshihiko Seki, Shin'ichirô Miki, Zach Aguilar, Ryôka Yuzuki, Ayumi Fujimura, Christine Marie Cabanos, Erica Mendez."

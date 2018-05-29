@@ -1,7 +1,7 @@
 ---
 imdb: "0327056"
 date: "2012-10-08"
-categories: "movies"
+categories: [ "movies" ]
 title: "Sobre Meninos e Lobos"
 stars: "5/5"
 desc: "Sobre Meninos e Lobos. Mystic River (USA, 2003). Dirigido por Clint Eastwood. Escrito por Brian Helgeland, Dennis Lehane. Com Sean Penn, Tim Robbins, Kevin Bacon, Laurence Fishburne, Marcia Gay Harden, Laura Linney, Kevin Chapman, Tom Guiry, Emmy Rossum."

@@ -1,7 +1,7 @@
 ---
 imdb: "3148834"
 date: "2014-12-30"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Mansão Mágica"
 stars: "4/5"
 desc: "A Mansão Mágica. The House of Magic (Belgium, 2013). Dirigido por Jeremy Degruson, Ben Stassen. Escrito por Ben Stassen, James Flynn, Domonic Paris, Ben Stassen. Com Cinda Adams, George Babbit, Murray Blue, Kathleen Browers, Joey Camen, Grant George, Shanelle Gray, Nina Grillo, Ella Rouhier."

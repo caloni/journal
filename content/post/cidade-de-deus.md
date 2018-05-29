@@ -1,7 +1,7 @@
 ---
 imdb: "0317248"
 date: "2015-12-30"
-categories: "movies"
+categories: [ "movies" ]
 title: "Cidade de Deus"
 stars: "5/5"
 desc: "Cidade de Deus. Cidade de Deus (Brazil, 2002). Dirigido por Fernando Meirelles, Kátia Lund. Escrito por Paulo Lins, Bráulio Mantovani. Com Alexandre Rodrigues, Leandro Firmino, Phellipe Haagensen, Douglas Silva, Jonathan Haagensen, Matheus Nachtergaele, Seu Jorge, Jefechander Suplino, Alice Braga."

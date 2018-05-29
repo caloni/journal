@@ -2,7 +2,7 @@
 tags: ['cabine']
 imdb: "5968964"
 date: "2016-12-13"
-categories: "movies"
+categories: [ "movies" ]
 title: "Eu Fico Loko"
 stars: "3/5"
 desc: "Eu Fico Loko. Eu Fico Loko (Brazil, 2017). Dirigido por Bruno Garotti. Escrito por Christian Figueiredo, Bruno Garotti, Sylvio Gonçalves. Com Christian Figueiredo (Christian), Alessandra Negrini (Lilian Figueiredo), Filipe Bragança (Christian), Suely Franco (Tatiana Figueiredo), Marcello Airoldi (Wanderley de Caldas), José Victor Pires (Yan), Thomaz Costa (Rodrigo), Isabella Moreira (Alice), Giovanna Grigio (Gabriela Coelho)."

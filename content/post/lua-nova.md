@@ -1,7 +1,7 @@
 ---
 imdb: "1259571"
 date: "2012-06-10"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Saga Crepúsculo: Lua Nova"
 stars: "1/5"
 desc: "A Saga Crepúsculo: Lua Nova. The Twilight Saga: New Moon (USA, 2009). Dirigido por Chris Weitz. Escrito por Melissa Rosenberg, Stephenie Meyer. Com Kristen Stewart, Christina Jastrzembska, Robert Pattinson, Billy Burke, Anna Kendrick, Michael Welch, Justin Chon, Christian Serratos, Taylor Lautner."

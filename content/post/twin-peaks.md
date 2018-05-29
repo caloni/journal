@@ -1,7 +1,7 @@
 ---
 date: 2018-02-27T23:02:12
 imdb: "4093826"
-categories: "blog"
+categories: [ "blog" ]
 stars: "4/5"
 title: "Twin Peaks (2017): Primeira Temporada, Episódios 1 e 2"
 desc: "Twin Peaks (2017): Primeira Temporada, Episódios 1 e 2."

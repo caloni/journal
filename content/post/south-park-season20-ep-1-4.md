@@ -2,7 +2,7 @@
 tags: ['paulocoelho', 'series', 'southpark']
 imdb: "0121955"
 date: "2016-10-15"
-categories: "blog"
+categories: [ "blog" ]
 title: "South Park - Vigésima Temporada, Episódios 1 a 4"
 stars: "4/5"
 desc: "South Park - Vigésima Temporada, Episódios 1 a 4. South Park (USA, 1997). Dirigido por Trey Parker, Eric Stough, Matt Stone. Escrito por Trey Parker, Matt Stone, Brian Graden, Kyle McCulloch, Vernon Chatman, David R. Goodman, Erica Rivinoja, Pam Brady, Nancy Pimental. Com Trey Parker (Stan Marsh / ...), Matt Stone (Kyle Broflovski / ...), Mona Marshall (Sheila Broflovski / ...), April Stewart (Sharon Marsh / ...), Isaac Hayes (Chef)."

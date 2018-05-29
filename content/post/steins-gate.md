@@ -2,7 +2,7 @@
 tags: ['anime', 'streaming']
 imdb: "1910272"
 date: 2017-10-05T00:36:17
-categories: "blog"
+categories: [ "blog" ]
 title: "Steins;Gate"
 stars: "4/5"
 desc: "Steins;Gate. Steins;Gate (Japan, 2011). Dirigido por Kazuhiro Ozawa, Kanji Wakabayashi, Tomoki Kobayashi, Kôji Kobayashi, Tomoko Hiramuki, Shigetaka Ikeda, Hisato Shimoda, Hiroshi Hamazaki, Takuya Satô. Escrito por Jukki Hanada, Toshizo Nemoto, Masahiro Yokotani. Com Mamoru Miyano (Rintaro Okabe / ...), Asami Imai (Kurisu Makise), Kana Hanazawa (Mayuri Shiina), Trina Nishimura (Kurisu Makise / ...), Jackie Ross (Mayuri Shiina / ...), J. Michael Tatum (Rintaro Okabe / ...), Tomokazu Seki (Itaru Hashida), Tyson Rinehart (Daru), Cherami Leigh (Suzuha Amane / ...)."

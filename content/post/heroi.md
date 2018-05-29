@@ -1,7 +1,7 @@
 ---
 imdb: "0299977"
 date: "2012-08-25"
-categories: "movies"
+categories: [ "movies" ]
 title: "Herói"
 stars: "5/5"
 desc: "Herói. Ying xiong (China, 2002). Dirigido por Yimou Zhang. Escrito por Feng Li, Bin Wang, Yimou Zhang. Com Jet Li, Tony Chiu Wai Leung, Maggie Cheung, Ziyi Zhang, Daoming Chen, Donnie Yen, Zhongyuan Liu, Tianyong Zheng, Yan Qin."

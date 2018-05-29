@@ -1,7 +1,7 @@
 ---
 imdb: "0032138"
 date: "2015-01-11"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Mágico de Oz"
 stars: "4/5"
 desc: "O Mágico de Oz. The Wizard of Oz (USA, 1939). Dirigido por Victor Fleming, George Cukor, Mervyn LeRoy, Norman Taurog, King Vidor. Escrito por Noel Langley, Florence Ryerson, Edgar Allan Woolf, Noel Langley, L. Frank Baum, Irving Brecher, William H. Cannon, Herbert Fields, Arthur Freed. Com Judy Garland, Frank Morgan, Ray Bolger, Bert Lahr, Jack Haley, Billie Burke, Margaret Hamilton, Charley Grapewin, Pat Walshe."

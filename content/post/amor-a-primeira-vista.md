@@ -1,7 +1,7 @@
 ---
 imdb: "0087233"
 date: "2013-01-23"
-categories: "movies"
+categories: [ "movies" ]
 title: "Amor à Primeira Vista"
 stars: "4/5"
 desc: "Amor à Primeira Vista. Falling in Love (USA, 1984). Dirigido por Ulu Grosbard. Escrito por Michael Cristofer. Com Robert De Niro, Meryl Streep, Harvey Keitel, Jane Kaczmarek, George Martin, David Clennon, Dianne Wiest, Victor Argo, Wiley Earl."

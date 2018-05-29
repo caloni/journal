@@ -1,7 +1,7 @@
 ---
 imdb: "2170299"
 date: "2016-06-26"
-categories: "movies"
+categories: [ "movies" ]
 title: "Palavrões"
 stars: "3/5"
 desc: "Palavrões. Bad Words (USA, 2013). Dirigido por Jason Bateman. Escrito por Andrew Dodge. Com Jason Bateman, Kathryn Hahn, Rohan Chand, Philip Baker Hall, Allison Janney, Ben Falcone, Steve Witting, Beth Grant, Gwen Parden."

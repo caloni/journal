@@ -2,7 +2,7 @@
 tags: ['netflix']
 imdb: "0054047"
 date: "2016-10-03"
-categories: "movies"
+categories: [ "movies" ]
 title: "Sete Homens E um Destino"
 stars: "4/5"
 desc: "Sete Homens E um Destino. The Magnificent Seven (USA, 1960). Dirigido por John Sturges. Escrito por William Roberts, Walter Bernstein, Shinobu Hashimoto, Akira Kurosawa, Walter Newman, Hideo Oguni. Com Yul Brynner (Chris Larabee Adams), Eli Wallach (Calvera), Steve McQueen (Vin Tanner), Horst Buchholz (Chico), Charles Bronson (Bernardo O'Reilly), Robert Vaughn (Lee), Brad Dexter (Harry Luck), James Coburn (Britt), Jorge Martínez de Hoyos (Hilario)."

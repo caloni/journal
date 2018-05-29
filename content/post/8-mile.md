@@ -1,7 +1,7 @@
 ---
 imdb: "0298203"
 date: "2015-03-19"
-categories: "movies"
+categories: [ "movies" ]
 title: "8 Mile: Rua das Ilusões"
 stars: "3/5"
 desc: "8 Mile: Rua das Ilusões. 8 Mile (USA, 2002). Dirigido por Curtis Hanson. Escrito por Scott Silver. Com Eminem, Kim Basinger, Mekhi Phifer, Brittany Murphy, Evan Jones, Omar Benson Miller, De'Angelo Wilson, Eugene Byrd, Taryn Manning."

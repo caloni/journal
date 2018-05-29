@@ -1,7 +1,7 @@
 ---
 imdb: "1939659"
 date: "2014-09-26"
-categories: "movies"
+categories: [ "movies" ]
 title: "Carrie, a Estranha"
 stars: "3/5"
 desc: "Carrie, a Estranha. Carrie (USA, 2013). Dirigido por Kimberly Peirce. Escrito por Lawrence D. Cohen, Roberto Aguirre-Sacasa, Stephen King. Com Julianne Moore, Chloë Grace Moretz, Gabriella Wilde, Portia Doubleday, Zoë Belkin, Samantha Weinstein, Karissa Strain, Katie Strain, Ansel Elgort."

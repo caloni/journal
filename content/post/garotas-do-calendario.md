@@ -1,7 +1,7 @@
 ---
 imdb: "0337909"
 date: "2011-01-27"
-categories: "movies"
+categories: [ "movies" ]
 title: "Garotas do Calendário"
 stars: "2/5"
 desc: "Garotas do Calendário. Calendar Girls (UK, 2003). Dirigido por Nigel Cole. Escrito por Juliette Towhidi, Tim Firth. Com Helen Mirren, Julie Walters, John Alderton, Linda Bassett, Annette Crosbie, Philip Glenister, Ciarán Hinds, Celia Imrie, Geraldine James."

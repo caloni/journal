@@ -1,7 +1,7 @@
 ---
 imdb: "1602620"
 date: "2013-02-13"
-categories: "movies"
+categories: [ "movies" ]
 title: "Amor"
 stars: "3/5"
 desc: "Amor. Amour (France, 2012). Dirigido por Michael Haneke. Escrito por Michael Haneke. Com Jean-Louis Trintignant, Emmanuelle Riva, Isabelle Huppert, Alexandre Tharaud, William Shimell, Ramón Agirre, Rita Blanco, Carole Franck, Dinara Drukarova."

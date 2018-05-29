@@ -1,7 +1,7 @@
 ---
 imdb: "0837156"
 date: "2016-03-29"
-categories: "movies"
+categories: [ "movies" ]
 title: "Pee-wee's Big Holiday"
 stars: "2/5"
 desc: "Pee-wee's Big Holiday. Pee-wee's Big Holiday (USA, 2016). Dirigido por John Lee. Escrito por Paul Reubens, Paul Rust. Com Paul Reubens, Jordan Black, Doug Cox, Linda Porter, Monica Horan, Brian Palermo, Katherine VanderLinden, Tara Buck, John H. Mayer."

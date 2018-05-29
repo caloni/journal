@@ -1,7 +1,7 @@
 ---
 imdb: "1226236"
 date: "2011-12-25"
-categories: "movies"
+categories: [ "movies" ]
 title: "Um Sonho de Amor"
 stars: "3/5"
 desc: "Um Sonho de Amor. Io sono l'amore (Italy, 2009). Dirigido por Luca Guadagnino. Escrito por Barbara Alberti, Ivan Cotroneo, Walter Fasano, Luca Guadagnino, Luca Guadagnino. Com Tilda Swinton, Flavio Parenti, Edoardo Gabbriellini, Alba Rohrwacher, Pippo Delbono, Maria Paiato, Diane Fleri, Waris Ahluwalia, Mattia Zaccaro."

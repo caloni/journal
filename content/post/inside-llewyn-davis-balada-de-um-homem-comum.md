@@ -1,7 +1,7 @@
 ---
 imdb: "2042568"
 date: "2014-03-24"
-categories: "movies"
+categories: [ "movies" ]
 title: "Inside Llewyn Davis Balada de Um Homem Comum"
 stars: "5/5"
 desc: "Inside Llewyn Davis Balada de Um Homem Comum. Inside Llewyn Davis (USA, 2013). Dirigido por Ethan Coen, Joel Coen. Escrito por Joel Coen, Ethan Coen. Com Oscar Isaac, Carey Mulligan, Justin Timberlake, Ethan Phillips, Robin Bartlett, Max Casella, Jerry Grayson, Jeanine Serralles, Adam Driver."

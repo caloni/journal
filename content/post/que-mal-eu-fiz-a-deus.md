@@ -1,7 +1,7 @@
 ---
 imdb: "2800240"
 date: "2015-11-01"
-categories: "movies"
+categories: [ "movies" ]
 title: "Que Mal Eu Fiz a Deus?"
 stars: "3/5"
 desc: "Que Mal Eu Fiz a Deus?. Qu'est-ce qu'on a fait au Bon Dieu? (France, 2014). Dirigido por Philippe de Chauveron. Escrito por Philippe de Chauveron, Guy Laurent. Com Christian Clavier, Chantal Lauby, Ary Abittan, Medi Sadoun, Frédéric Chau, Noom Diawara, Frédérique Bel, Julia Piaton, Emilie Caen."

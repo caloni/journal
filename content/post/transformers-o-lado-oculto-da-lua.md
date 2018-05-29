@@ -1,7 +1,7 @@
 ---
 imdb: "1399103"
 date: "2011-07-06"
-categories: "movies"
+categories: [ "movies" ]
 title: "Transformers O Lado Oculto da Lua"
 stars: "1/5"
 desc: "Transformers O Lado Oculto da Lua. Transformers: Dark of the Moon (USA, 2011). Dirigido por Michael Bay. Escrito por Ehren Kruger. Com Shia LaBeouf, Rosie Huntington-Whiteley, Josh Duhamel, John Turturro, Tyrese Gibson, Patrick Dempsey, Frances McDormand, John Malkovich, Kevin Dunn."

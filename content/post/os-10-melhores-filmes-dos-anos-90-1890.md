@@ -1,7 +1,7 @@
 ---
 date: "2016-09-11"
 title: "Os 10 melhores filmes dos anos 90... 1890!"
-categories: "blog"
+categories: [ "blog" ]
 tags: ['curtas', 'youtube']
 desc: "Os 10 melhores filmes dos anos 90... 1890!."
 ---

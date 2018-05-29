@@ -1,7 +1,7 @@
 ---
 imdb: "0431021"
 date: "2012-11-07"
-categories: "movies"
+categories: [ "movies" ]
 title: "Possessão"
 stars: "3/5"
 desc: "Possessão. The Possession (USA, 2012). Dirigido por Ole Bornedal. Escrito por Juliet Snowden, Stiles White, Leslie Gornstein. Com Jeffrey Dean Morgan, Kyra Sedgwick, Natasha Calis, Madison Davenport, Matisyahu, Grant Show, Rob LaBelle, Nana Gbewonyo, Anna Hagan."

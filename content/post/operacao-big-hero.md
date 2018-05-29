@@ -1,7 +1,7 @@
 ---
 imdb: "2245084"
 date: "2014-12-31"
-categories: "movies"
+categories: [ "movies" ]
 title: "Operação Big Hero"
 stars: "3/5"
 desc: "Operação Big Hero. Big Hero 6 (USA, 2014). Dirigido por Don Hall, Chris Williams. Escrito por Jordan Roberts, Daniel Gerson, Robert L. Baird, Duncan Rouleau, Steven T. Seagle, Paul Briggs, Joseph Mateo. Com Scott Adsit, Ryan Potter, Daniel Henney, T.J. Miller, Jamie Chung, Damon Wayans Jr., Genesis Rodriguez, James Cromwell, Alan Tudyk."

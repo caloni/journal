@@ -1,7 +1,7 @@
 ---
 imdb: "2652118"
 date: "2016-03-09"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Tigre e o Dragão: A Espada do Destino"
 stars: "2/5"
 desc: "O Tigre e o Dragão: A Espada do Destino. Crouching Tiger, Hidden Dragon: Sword of Destiny (China, 2016). Dirigido por Woo-Ping Yuen. Escrito por John Fusco, Wang Du Lu. Com Donnie Yen, Michelle Yeoh, Harry Shum Jr., Natasha Liu Bordizzo, Jason Scott Lee, Eugenia Yuan, Roger Yuan, Juju Chan, Chris Pang."

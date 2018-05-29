@@ -1,7 +1,7 @@
 ---
 imdb: "3399024"
 date: "2015-09-08"
-categories: "movies"
+categories: [ "movies" ]
 title: "Samba"
 stars: "4/5"
 desc: "Samba. Samba (France, 2014). Dirigido por Olivier Nakache, Eric Toledano. Escrito por Delphine Coulin, Muriel Coulin, Olivier Nakache, Eric Toledano. Com Omar Sy, Charlotte Gainsbourg, Tahar Rahim, Izïa Higelin, Isaka Sawadogo, Hélène Vincent, Youngar Fall, Christiane Millet, Jacqueline Jehanneuf."

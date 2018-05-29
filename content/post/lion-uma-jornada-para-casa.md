@@ -2,7 +2,7 @@
 tags: ['paulocoelho', 'oscar']
 imdb: "3741834"
 date: "2017-02-17"
-categories: "movies"
+categories: [ "movies" ]
 title: "Lion: Uma Jornada Para Casa"
 stars: "4/5"
 desc: "Lion: Uma Jornada Para Casa. Lion (USA, 2016). Dirigido por Garth Davis. Escrito por Saroo Brierley, Luke Davies. Com Sunny Pawar (Young Saroo), Abhishek Bharate (Guddu), Priyanka Bose (Kamla), Khushi Solanki (Young Shekila), Shankar Nisode (Shankar), Tannishtha Chatterjee (Noor), Nawazuddin Siddiqui (Rawa), Riddhi Sen (Café Man), Koushik Sen (Police Official)."

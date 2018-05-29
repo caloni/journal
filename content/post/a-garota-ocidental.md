@@ -3,7 +3,7 @@ tags: ['cabine']
 cinemaqui: "http://www.cinemaqui.com.br/garota-ocidental-entre-o-coracao-e-tradicao"
 imdb: "5771640"
 date: "2017-06-21"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Garota Ocidental - Entre o Coração e a Tradição"
 stars: "4/5"
 desc: "A Garota Ocidental - Entre o Coração e a Tradição. Noces (France, 2016). Dirigido por Stephan Streker. Escrito por Stephan Streker. Com Lina El Arabi (Zahira Kazim), Sébastien Houbani (Amir Kazim), Babak Karimi (Mansoor Kazim), Nina Kulkarni (Yelda Kazim), Olivier Gourmet (André), Alice de Lencquesaing (Aurore), Zacharie Chasseriaud (Pierre), Aurora Marion (Hina Kazim), Rania Mellouli (Amara Kazim)."

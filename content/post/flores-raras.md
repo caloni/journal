@@ -1,7 +1,7 @@
 ---
 imdb: "2217458"
 date: "2013-08-26"
-categories: "movies"
+categories: [ "movies" ]
 title: "Flores Raras"
 stars: "4/5"
 desc: "Flores Raras. Flores Raras (Brazil, 2013). Dirigido por Bruno Barreto. Escrito por Matthew Chapman, Julie Sayres, Carmen L. Oliveira, Carolina Kotscho. Com Glória Pires, Miranda Otto, Tracy Middendorf, Marcello Airoldi, Lola Kirke, Tânia Costa, Marianna Mac Niven, Marcio Ehrlich, Treat Williams."

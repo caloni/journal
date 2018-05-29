@@ -1,7 +1,7 @@
 ---
 imdb: "1045658"
 date: "2013-02-07"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Lado Bom da Vida"
 stars: "5/5"
 desc: "O Lado Bom da Vida. Silver Linings Playbook (USA, 2012). Dirigido por David O. Russell. Escrito por David O. Russell, Matthew Quick. Com Bradley Cooper, Jennifer Lawrence, Robert De Niro, Jacki Weaver, Chris Tucker, Anupam Kher, John Ortiz, Shea Whigham, Julia Stiles."

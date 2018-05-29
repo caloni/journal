@@ -1,7 +1,7 @@
 ---
 date: 2018-03-26T22:05:17-03:00
 title: "Zama ou como Ancine gosta de gastar seu dinheiro na Argentina"
-categories: "movies"
+categories: [ "movies" ]
 imdb: "3409848"
 stars: "2/5"
 desc: "Zama (Argentina, 2017), escrito por Antonio Di Benedetto, Lucrecia Martel, dirigido por Lucrecia Martel, com Daniel Giménez Cacho, Lola Dueñas, Matheus Nachtergaele."

@@ -1,7 +1,7 @@
 ---
 imdb: "0022100"
 date: "2016-01-21"
-categories: "movies"
+categories: [ "movies" ]
 title: "M, O Vampiro de Dusseldorf"
 stars: "5/5"
 desc: "M, O Vampiro de Dusseldorf. M (Germany, 1931). Dirigido por Fritz Lang. Escrito por Thea von Harbou, Fritz Lang, Egon Jacobson. Com Peter Lorre, Ellen Widmann, Inge Landgut, Otto Wernicke, Theodor Loos, Gustaf Gründgens, Friedrich Gnaß, Fritz Odemar, Paul Kemp."

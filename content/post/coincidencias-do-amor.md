@@ -1,7 +1,7 @@
 ---
 imdb: "0889573"
 date: "2011-05-16"
-categories: "movies"
+categories: [ "movies" ]
 title: "Coincidências do Amor"
 stars: "3/5"
 desc: "Coincidências do Amor. The Switch (USA, 2010). Dirigido por Josh Gordon, Will Speck. Escrito por Allan Loeb, Jeffrey Eugenides. Com Jason Bateman, Victor Pagan, Jennifer Aniston, Jeff Goldblum, Juliette Lewis, Todd Louiso, Scott Elrod, Patrick Wilson, Rebecca Naomi Jones."

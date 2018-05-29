@@ -1,7 +1,7 @@
 ---
 imdb: "0961097"
 date: "2014-04-05"
-categories: "movies"
+categories: [ "movies" ]
 title: "Um Monstro em Paris"
 stars: "3/5"
 desc: "Um Monstro em Paris. Un monstre à Paris (France, 2011). Dirigido por Bibo Bergeron. Escrito por Bibo Bergeron, Stéphane Kazandjian. Com Matthieu Chedid, Vanessa Paradis, Gad Elmaleh, François Cluzet, Ludivine Sagnier, Julie Ferrier, Bruno Salomone, Sébastien Desjours, Philippe Peythieu."

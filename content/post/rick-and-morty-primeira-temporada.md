@@ -2,7 +2,7 @@
 tags: ['netflix', 'series']
 imdb: "2861424"
 date: "2017-01-01"
-categories: "series"
+categories: [ "series" ]
 title: "Rick and Morty - Primeira Temporada"
 stars: "4/5"
 desc: "Rick and Morty - Primeira Temporada. Rick and Morty (USA, 2013). Dirigido por Pete Michels, Bryan Newton, John Rice, Stephen Sandoval, Wesley Archer, Dominic Polcino, Jeff Myers, Juan Jose Meza-Leon. Escrito por Dan Harmon, Justin Roiland, Eric Acosta, Tom Kauffman, Wade Randolph, Mike McMahan, Matt Roller, Brian Wysol, David Phillips. Com Justin Roiland (Rick / ...), Chris Parnell (Jerry / ...), Spencer Grammer (Summer / ...), Sarah Chalke (Beth / ...)."

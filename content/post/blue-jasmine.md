@@ -1,7 +1,7 @@
 ---
 imdb: "2334873"
 date: "2014-01-07"
-categories: "movies"
+categories: [ "movies" ]
 title: "Blue Jasmine"
 stars: "3/5"
 desc: "Blue Jasmine. Blue Jasmine (USA, 2013). Dirigido por Woody Allen. Escrito por Woody Allen. Com Cate Blanchett, Joy Carlin, Richard Conti, Glen Caspillo, Alec Baldwin, Charlie Tahan, Annie McNamara, Sally Hawkins, Daniel Jenks."

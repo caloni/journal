@@ -1,7 +1,7 @@
 ---
 imdb: "0061722"
 date: "2015-06-16"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Primeira Noite de um Homem"
 stars: "5/5"
 desc: "A Primeira Noite de um Homem. The Graduate (USA, 1967). Dirigido por Mike Nichols. Escrito por Calder Willingham, Buck Henry, Charles Webb. Com Anne Bancroft, Dustin Hoffman, Katharine Ross, William Daniels, Murray Hamilton, Elizabeth Wilson, Buck Henry, Brian Avery, Walter Brooke."

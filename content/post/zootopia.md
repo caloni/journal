@@ -2,7 +2,7 @@
 tags: ['oscar']
 imdb: "2948356"
 date: "2016-07-02"
-categories: "movies"
+categories: [ "movies" ]
 title: "Zootopia"
 stars: "4/5"
 desc: "Zootopia. Zootopia (USA, 2016). Dirigido por Byron Howard, Rich Moore, Jared Bush. Escrito por Byron Howard, Rich Moore, Jared Bush, Jim Reardon, Josie Trinidad, Phil Johnston, Jennifer Lee, Jared Bush, Phil Johnston. Com Ginnifer Goodwin, Jason Bateman, Idris Elba, Jenny Slate, Nate Torrence, Bonnie Hunt, Don Lake, Tommy Chong, J.K. Simmons."

@@ -1,7 +1,7 @@
 ---
 imdb: "2006109"
 date: "2011-10-16"
-categories: "movies"
+categories: [ "movies" ]
 title: "Família Vende Tudo"
 stars: "2/5"
 desc: "Família Vende Tudo. Família Vende Tudo (Brazil, 2011). Dirigido por Alain Fresnot. Escrito por Alain Fresnot, Alain Fresnot, Marcus Aurelius Pimenta, José Rubens Chasseraux, Laerte Coutinho, Sabina Anzuategui. Com Lima Duarte, Vera Holtz, Caco Ciocler, Marisol Ribeiro, Luana Piovani, Imara Reis, Juliana Galdino, Ailton Graça, Robson Nunes."

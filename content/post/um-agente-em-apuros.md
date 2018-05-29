@@ -1,7 +1,7 @@
 ---
 imdb: "0283534"
 date: "2015-07-14"
-categories: "movies"
+categories: [ "movies" ]
 title: "Um Agente em Apuros"
 stars: "3/5"
 desc: "Um Agente em Apuros. The Parole Officer (UK, 2001). Dirigido por John Duigan. Escrito por Steve Coogan, Henry Normal. Com Steve Coogan, Emma Gilmour, Susan Jane Tanner, Iain Mitchell, James Smith, Om Puri, Steven Waddington, Ben Miller, Emma Williams."

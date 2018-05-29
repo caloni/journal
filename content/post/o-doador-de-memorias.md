@@ -2,7 +2,7 @@
 tags: ['netflix']
 imdb: "0435651"
 date: "2017-04-01"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Doador de Memórias"
 stars: "3/5"
 desc: "O Doador de Memórias. The Giver (South Africa, 2014). Dirigido por Phillip Noyce. Escrito por Michael Mitnick, Robert B. Weide, Lois Lowry. Com Jeff Bridges (The Giver), Meryl Streep (Chief Elder), Brenton Thwaites (Jonas), Alexander Skarsgård (Father), Katie Holmes (Mother), Odeya Rush (Fiona), Cameron Monaghan (Asher), Taylor Swift (Rosemary), Emma Tremblay (Lilly)."

@@ -1,7 +1,7 @@
 ---
 imdb: "1615918"
 date: "2012-02-15"
-categories: "movies"
+categories: [ "movies" ]
 title: "Alvin e os Esquilos 3"
 stars: "3/5"
 desc: "Alvin e os Esquilos 3. Alvin and the Chipmunks: Chipwrecked (USA, 2011). Dirigido por Mike Mitchell. Escrito por Jonathan Aibel, Glenn Berger, Ross Bagdasarian, Janice Karman. Com Jason Lee, David Cross, Jenny Slate, Justin Long, Matthew Gray Gubler, Jesse McCartney, Amy Poehler, Anna Faris, Christina Applegate."

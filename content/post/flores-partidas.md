@@ -1,7 +1,7 @@
 ---
 imdb: "0412019"
 date: "2012-05-07"
-categories: "movies"
+categories: [ "movies" ]
 title: "Flores Partidas"
 stars: "5/5"
 desc: "Flores Partidas. Broken Flowers (USA, 2005). Dirigido por Jim Jarmusch. Escrito por Jim Jarmusch, Bill Raden, Sara Driver. Com Bill Murray, Julie Delpy, Heather Simms, Brea Frazier, Jarry Fall, Korka Fall, Saul Holland, Zakira Holland, Niles Lee Wilson."

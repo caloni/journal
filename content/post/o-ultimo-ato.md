@@ -2,7 +2,7 @@
 tags: ['cabine']
 imdb: "1568343"
 date: "2015-03-13"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Último Ato"
 stars: "3/5"
 desc: "O Último Ato. The Humbling (USA, 2014). Dirigido por Barry Levinson. Escrito por Buck Henry, Philip Roth, Michal Zebede. Com Al Pacino, Kyra Sedgwick, Greta Gerwig, Dianne Wiest, Dylan Baker, Dan Hedaya, Charles Grodin, Nina Arianda, Li Jun Li."

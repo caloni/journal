@@ -1,7 +1,7 @@
 ---
 imdb: "0452594"
 date: "2014-01-13"
-categories: "movies"
+categories: [ "movies" ]
 title: "Separados pelo Casamento"
 stars: "4/5"
 desc: "Separados pelo Casamento. The Break-Up (USA, 2006). Dirigido por Peyton Reed. Escrito por Jeremy Garelick, Jay Lavender, Vince Vaughn, Jeremy Garelick, Jay Lavender. Com Vince Vaughn, Jennifer Aniston, Joey Lauren Adams, Cole Hauser, Jon Favreau, Jason Bateman, Judy Davis, Justin Long, Ivan Sergei."

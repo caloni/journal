@@ -1,7 +1,7 @@
 ---
 imdb: "2381249"
 date: "2015-11-22"
-categories: "movies"
+categories: [ "movies" ]
 title: "Missão: Impossível - Nação Secreta"
 stars: "5/5"
 desc: "Missão: Impossível - Nação Secreta. Mission: Impossible - Rogue Nation (USA, 2015). Dirigido por Christopher McQuarrie. Escrito por Christopher McQuarrie, Christopher McQuarrie, Drew Pearce, Bruce Geller. Com Tom Cruise, Jeremy Renner, Simon Pegg, Rebecca Ferguson, Ving Rhames, Sean Harris, Simon McBurney, Jingchu Zhang, Tom Hollander."

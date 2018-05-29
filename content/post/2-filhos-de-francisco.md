@@ -1,7 +1,7 @@
 ---
 imdb: "0439547"
 date: "2012-03-25"
-categories: "movies"
+categories: [ "movies" ]
 title: "2 Filhos De Francisco A História De Zezé Di Camargo e Luciano"
 stars: "5/5"
 desc: "2 Filhos De Francisco A História De Zezé Di Camargo e Luciano. 2 Filhos de Francisco: A História de Zezé di Camargo & Luciano (Brazil, 2005). Dirigido por Breno Silveira. Escrito por Carolina Kotscho, Patrícia Andrade, Luciano Camargo, Breno Silveira, Domingos de Oliveira. Com Ângelo Antônio, Dira Paes, Márcio Kieling, Thiago Mendonça, Paloma Duarte, Dablio Moreira, Marcos Henrique, Natália Lage, Wigor Lima."

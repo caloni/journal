@@ -1,7 +1,7 @@
 ---
 imdb: "0432289"
 date: "2010-08-10"
-categories: "movies"
+categories: [ "movies" ]
 title: "Marcas do Passado"
 stars: "2/5"
 desc: "Marcas do Passado. First Snow (Germany, 2006). Dirigido por Mark Fergus. Escrito por Mark Fergus, Hawk Ostby. Com Guy Pearce, Steven Michael Quezada, J.K. Simmons, Nicholas Ballas, Piper Perabo, Rick Gonzalez, William Fichtner, David House, Julie Gawkowski."

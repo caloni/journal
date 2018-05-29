@@ -1,7 +1,7 @@
 ---
 imdb: "0100530"
 date: "2013-01-14"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Casa da Rússia"
 stars: "3/5"
 desc: "A Casa da Rússia. The Russia House (USA, 1990). Dirigido por Fred Schepisi. Escrito por John le Carré, Tom Stoppard. Com Sean Connery, Michelle Pfeiffer, Roy Scheider, James Fox, John Mahoney, Michael Kitchen, J.T. Walsh, Ken Russell, David Threlfall."

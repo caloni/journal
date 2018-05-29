@@ -1,7 +1,7 @@
 ---
 imdb: "0109446"
 date: "2014-01-24"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Cliente"
 stars: "4/5"
 desc: "O Cliente. The Client (USA, 1994). Dirigido por Joel Schumacher. Escrito por John Grisham, Akiva Goldsman, Robert Getchell. Com Susan Sarandon, Tommy Lee Jones, Mary-Louise Parker, Anthony LaPaglia, J.T. Walsh, Anthony Edwards, Brad Renfro, Will Patton, Bradley Whitford."

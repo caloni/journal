@@ -2,7 +2,7 @@
 tags: ['cabine']
 imdb: "2398231"
 date: "2015-01-20"
-categories: "movies"
+categories: [ "movies" ]
 title: "Dívida de Honra"
 stars: "4/5"
 desc: "Dívida de Honra. The Homesman (France, 2014). Dirigido por Tommy Lee Jones. Escrito por Tommy Lee Jones, Kieran Fitzgerald, Wesley A. Oliver, Glendon Swarthout. Com Tommy Lee Jones, Hilary Swank, Grace Gummer, Miranda Otto, Sonja Richter, Jo Harvey Allen, Barry Corbin, David Dencik, William Fichtner."

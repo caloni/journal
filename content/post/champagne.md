@@ -2,7 +2,7 @@
 tags: ['paulocoelho']
 imdb: "0018756"
 date: "2017-01-18"
-categories: "movies"
+categories: [ "movies" ]
 title: "Champagne"
 stars: "4/5"
 desc: "Champagne. Champagne (UK, 1928). Dirigido por Alfred Hitchcock. Escrito por Alfred Hitchcock, Walter C. Mycroft, Eliot Stannard. Com Betty Balfour (The Girl), Jean Bradin (The Boy), Ferdinand von Alten (The Man), Gordon Harker (The Father), Alexander D'Arcy, Vivian Gibson, Clifford Heatherley (The Manager), Claude Hulbert (Club Guest), Hannah Jones (Club Servant)."

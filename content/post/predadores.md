@@ -1,7 +1,7 @@
 ---
 imdb: "1424381"
 date: "2010-06-23"
-categories: "movies"
+categories: [ "movies" ]
 title: "Predadores"
 stars: "3/5"
 desc: "Predadores. Predators (USA, 2010). Dirigido por Nimród Antal. Escrito por Alex Litvak, Michael Finch, Jim Thomas, John Thomas. Com Adrien Brody, Topher Grace, Alice Braga, Walton Goggins, Oleg Taktarov, Laurence Fishburne, Danny Trejo, Louis Ozawa Changchien, Mahershala Ali."

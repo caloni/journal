@@ -1,7 +1,7 @@
 ---
 imdb: "1924394"
 date: "2013-04-01"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Parte dos Anjos"
 stars: "3/5"
 desc: "A Parte dos Anjos. The Angels' Share (UK, 2012). Dirigido por Ken Loach. Escrito por Paul Laverty. Com Paul Brannigan, Siobhan Reilly, John Henshaw, Gary Maitland, William Ruane, Jasmin Riggins, Scott Dymond, Scott Kyle, Neil Leiper."

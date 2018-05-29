@@ -1,7 +1,7 @@
 ---
 imdb: "1020773"
 date: "2014-11-16"
-categories: "movies"
+categories: [ "movies" ]
 title: "Cópia Fiel"
 stars: "5/5"
 desc: "Cópia Fiel. Copie conforme (France, 2010). Dirigido por Abbas Kiarostami. Escrito por Caroline Eliacheff, Abbas Kiarostami. Com Juliette Binoche, William Shimell, Jean-Claude Carrière, Agathe Natanson, Gianna Giachetti, Adrian Moore, Angelo Barbagallo, Andrea Laurenzi, Filippo Trojano."

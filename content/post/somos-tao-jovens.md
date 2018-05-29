@@ -1,7 +1,7 @@
 ---
 imdb: "2215537"
 date: "2013-05-14"
-categories: "movies"
+categories: [ "movies" ]
 title: "Somos Tão Jovens"
 stars: "3/5"
 desc: "Somos Tão Jovens. Somos Tão Jovens (Brazil, 2013). Dirigido por Antonio Carlos da Fontoura. Escrito por Victor Atherino, Marcos Bernstein. Com Thiago Mendonça, Laila Zaid, Bruno Torres, Daniel Passi, Sandra Corveloni, Marcos Breda, Bianca Comparato, Conrado Godoy, Nicolau Villa-Lobos."

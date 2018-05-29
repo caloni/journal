@@ -2,7 +2,7 @@
 tags: ['netflix']
 imdb: "3903322"
 date: 2017-09-24T22:43:51
-categories: "movies"
+categories: [ "movies" ]
 title: "The Birth Of Sake"
 stars: "3/5"
 desc: "The Birth Of Sake. The Birth of Saké (Japan, 2015). Dirigido por Erik Shirai. Escrito por Erik Shirai."

@@ -1,7 +1,7 @@
 ---
 imdb: "0120201"
 date: "2016-04-03"
-categories: "movies"
+categories: [ "movies" ]
 title: "Tropas Estelares"
 stars: "4/5"
 desc: "Tropas Estelares. Starship Troopers (USA, 1997). Dirigido por Paul Verhoeven. Escrito por Edward Neumeier, Robert A. Heinlein. Com Casper Van Dien, Dina Meyer, Denise Richards, Jake Busey, Neil Patrick Harris, Clancy Brown, Seth Gilliam, Patrick Muldoon, Michael Ironside."

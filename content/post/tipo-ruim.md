@@ -1,7 +1,7 @@
 ---
 imdb: "0307213"
 date: "2014-04-05"
-categories: "movies"
+categories: [ "movies" ]
 title: "Tipo Ruim"
 stars: "4/5"
 desc: "Tipo Ruim. Nabbeun namja (South Korea, 2001). Dirigido por Ki-duk Kim. Escrito por Ki-duk Kim. Com Jae-hyeon Jo, Won Seo, Yun-tae Kim, Duek-mun Choi, Yoon-young Choi, Yoo-jin Shin, Jung-young Kim, Gung-Min Nam."

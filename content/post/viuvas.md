@@ -1,7 +1,7 @@
 ---
 imdb: "1785670"
 date: "2013-01-14"
-categories: "movies"
+categories: [ "movies" ]
 title: "Viúvas"
 stars: "3/5"
 desc: "Viúvas. Viudas (Argentina, 2011). Dirigido por Marcos Carnevale. Escrito por Marcos Carnevale, Bernarda Pagés. Com Graciela Borges, Valeria Bertuccelli, Rita Cortese, Martín Bossi, Chang Sung Kim, Mário José Paz, Mariana Richaudeau."

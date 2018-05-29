@@ -1,7 +1,7 @@
 ---
 imdb: "0078346"
 date: "2010-08-12"
-categories: "movies"
+categories: [ "movies" ]
 title: "Superman O Filme"
 stars: "5/5"
 revision: [datetime.date(2013, 11, 20)]

@@ -1,7 +1,7 @@
 ---
 imdb: "00054067"
 date: "2015-08-11"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Maldição do Demônio"
 stars: "4/5"
 desc: "A Maldição do Demônio. La maschera del demonio (Italy, 1960). Dirigido por Mario Bava. Escrito por Ennio De Concini, Mario Serandrei, Nikolai Gogol, Mario Bava, Marcello Coscia. Com Barbara Steele, John Richardson, Andrea Checchi, Ivo Garrani, Arturo Dominici, Enrico Olivieri, Antonio Pierfederici, Tino Bianchi, Clara Bindi."

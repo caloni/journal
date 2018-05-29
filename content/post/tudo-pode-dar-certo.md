@@ -1,7 +1,7 @@
 ---
 imdb: "1178663"
 date: "2010-04-30"
-categories: "movies"
+categories: [ "movies" ]
 title: "Tudo Pode Dar Certo"
 stars: "4/5"
 desc: "Tudo Pode Dar Certo. Whatever Works (USA, 2009). Dirigido por Woody Allen. Escrito por Woody Allen. Com Larry David, Adam Brooks, Lyle Kanouse, Michael McKean, Clifford Lee Dickson, Yolonda Ross, Carolyn McCormick, Samantha Bee, Conleth Hill."

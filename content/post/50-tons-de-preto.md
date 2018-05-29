@@ -2,7 +2,7 @@
 tags: ['cabine']
 imdb: "4667094"
 date: "2016-02-19"
-categories: "movies"
+categories: [ "movies" ]
 title: "50 Tons de Preto"
 stars: "3/5"
 desc: "50 Tons de Preto. Fifty Shades of Black (USA, 2016). Dirigido por Michael Tiddes. Escrito por Marlon Wayans, Rick Alvarez. Com Marlon Wayans, Kali Hawk, Fred Willard, Mike Epps, Affion Crockett, Jane Seymour, Florence Henderson, Andrew Bachelor, Jenny Zigrino."

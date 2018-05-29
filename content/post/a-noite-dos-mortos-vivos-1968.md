@@ -1,7 +1,7 @@
 ---
 imdb: "0063350"
 date: "2012-05-07"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Noite dos Mortos-Vivos"
 stars: "4/5"
 desc: "A Noite dos Mortos-Vivos. Night of the Living Dead (USA, 1968). Dirigido por George A. Romero. Escrito por John A. Russo, George A. Romero. Com Duane Jones, Judith O'Dea, Karl Hardman, Marilyn Eastman, Keith Wayne, Judith Ridley, Kyra Schon, Charles Craig, S. William Hinzman."

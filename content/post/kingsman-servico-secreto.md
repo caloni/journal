@@ -1,7 +1,7 @@
 ---
 imdb: "2802144"
 date: "2015-05-20"
-categories: "movies"
+categories: [ "movies" ]
 title: "Kingsman: Serviço Secreto"
 stars: "5/5"
 desc: "Kingsman: Serviço Secreto. Kingsman: The Secret Service (UK, 2014). Dirigido por Matthew Vaughn. Escrito por Jane Goldman, Matthew Vaughn, Mark Millar, Dave Gibbons. Com Adrian Quinton, Colin Firth, Mark Strong, Jonno Davies, Taron Egerton, Jack Davenport, Alex Nikolov, Samantha Womack, Mark Hamill."

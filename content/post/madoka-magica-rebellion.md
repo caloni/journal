@@ -1,7 +1,7 @@
 ---
 imdb: "2457282"
 date: "2015-06-27"
-categories: "movies"
+categories: [ "movies" ]
 title: "Puella Magi Madoka Magica the Movie Part III: Rebellion"
 stars: "4/5"
 desc: "Puella Magi Madoka Magica the Movie Part III: Rebellion. Gekijouban Mahou shojo Madoka magika Shinpen: Hangyaku no monogatari (Japan, 2013). Dirigido por Yukihiro Miyamoto, Akiyuki Shinbo, Alex Von David. Escrito por Gen Urobuchi, Alex Von David. Com Aoi Yuki, Chiwa Saito, Eri Kitamura, Kaori Mizuhashi, Ai Nonaka, Kana Asumi, Emiri Katou, Yûko Gotô, Tetsuya Iwanaga."

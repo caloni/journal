@@ -1,7 +1,7 @@
 ---
 imdb: "1781755"
 date: "2010-08-06"
-categories: "movies"
+categories: [ "movies" ]
 title: "400 contra 1 A História do Comando Vermelho"
 stars: "1/5"
 desc: "400 contra 1 A História do Comando Vermelho. 400 Contra 1 - Uma História do Crime Organizado (Brazil, 2010). Dirigido por Caco Souza. Escrito por William Lima da Silva, Julio Ludemir, Júlio Ludemir, Victor Navas. Com Daniel de Oliveira, Fabrício Boliveira, Daniela Escobar, Branca Messina, Negra Li, Lui Mendes, Felipe Kannenberg, Rodrigo Brassoloto, Jonathan Azevedo."

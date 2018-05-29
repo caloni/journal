@@ -1,7 +1,7 @@
 ---
 imdb: "0185431"
 date: "2015-08-09"
-categories: "movies"
+categories: [ "movies" ]
 title: "Little Nick - Um Diabo Diferente"
 stars: "3/5"
 desc: "Little Nick - Um Diabo Diferente. Little Nicky (USA, 2000). Dirigido por Steven Brill. Escrito por Tim Herlihy, Adam Sandler, Steven Brill. Com Adam Sandler, Patricia Arquette, Harvey Keitel, Rhys Ifans, Tommy 'Tiny' Lister, Rodney Dangerfield, Allen Covert, Peter Dante, Jonathan Loughran."

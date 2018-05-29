@@ -1,7 +1,7 @@
 ---
 date: 2018-05-19T17:15:39-03:00
 title: "Deadpool 2 tem um roteiro preguiçoso; mas é sobre isso que estamos falando, não?"
-categories: "movies"
+categories: [ "movies" ]
 imdb: "5463162"
 stars: "3/5"
 desc: "Deadpool 2 (EUA, 2018). Escrito pelos verdadeiros vilões (Rhett Reese, Paul Wernick e Ryan Reynolds baseados nos quadrinhos de Rob Liefeld e Fabian Nicieza). Dirigido por David Leitch. Com Josh Brolin, Ryan Reynolds, Morena Baccarin."

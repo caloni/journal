@@ -1,7 +1,7 @@
 ---
 imdb: "1588173"
 date: "2013-02-14"
-categories: "movies"
+categories: [ "movies" ]
 title: "Meu Namorado é um Zumbi"
 stars: "4/5"
 desc: "Meu Namorado é um Zumbi. Warm Bodies (USA, 2013). Dirigido por Jonathan Levine. Escrito por Jonathan Levine, Isaac Marion. Com Nicholas Hoult, Teresa Palmer, Analeigh Tipton, Rob Corddry, Dave Franco, John Malkovich, Cory Hardrict, Daniel Rindress-Kay, Vincent Leclerc."

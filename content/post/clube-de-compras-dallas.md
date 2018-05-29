@@ -1,7 +1,7 @@
 ---
 imdb: "0790636"
 date: "2015-11-30"
-categories: "movies"
+categories: [ "movies" ]
 title: "Clube de Compras Dallas"
 stars: "5/5"
 desc: "Clube de Compras Dallas. Dallas Buyers Club (USA, 2013). Dirigido por Jean-Marc Vallée. Escrito por Craig Borten, Melisa Wallack. Com Matthew McConaughey, Jennifer Garner, Jared Leto, Denis O'Hare, Steve Zahn, Michael O'Neill, Dallas Roberts, Griffin Dunne, Kevin Rankin."

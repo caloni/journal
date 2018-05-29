@@ -1,7 +1,7 @@
 ---
 imdb: "2027140"
 date: "2015-07-20"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Espuma dos Dias"
 stars: "5/5"
 desc: "A Espuma dos Dias. L'écume des jours (France, 2013). Dirigido por Michel Gondry. Escrito por Michel Gondry, Luc Bossi, Boris Vian. Com Romain Duris, Audrey Tautou, Gad Elmaleh, Omar Sy, Aïssa Maïga, Charlotte Le Bon, Sacha Bourdo, Vincent Rottiers, Philippe Torreton."

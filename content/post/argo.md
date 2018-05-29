@@ -1,7 +1,7 @@
 ---
 imdb: "1024648"
 date: "2012-11-18"
-categories: "movies"
+categories: [ "movies" ]
 title: "Argo"
 stars: "5/5"
 desc: "Argo. Argo (USA, 2012). Dirigido por Ben Affleck. Escrito por Chris Terrio, Tony Mendez, Joshuah Bearman. Com Ben Affleck, Bryan Cranston, Alan Arkin, John Goodman, Victor Garber, Tate Donovan, Clea DuVall, Scoot McNairy, Rory Cochrane."

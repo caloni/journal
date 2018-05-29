@@ -1,7 +1,7 @@
 ---
 imdb: "1298650"
 date: "2011-06-01"
-categories: "movies"
+categories: [ "movies" ]
 title: "Piratas do Caribe Navegando em Águas Misteriosas"
 stars: "2/5"
 desc: "Piratas do Caribe Navegando em Águas Misteriosas. Pirates of the Caribbean: On Stranger Tides (USA, 2011). Dirigido por Rob Marshall. Escrito por Ted Elliott, Terry Rossio, Ted Elliott, Terry Rossio, Ted Elliott, Terry Rossio, Stuart Beattie, Jay Wolpert, Tim Powers. Com Johnny Depp, Penélope Cruz, Geoffrey Rush, Ian McShane, Kevin McNally, Sam Claflin, Astrid Bergès-Frisbey, Stephen Graham, Keith Richards."

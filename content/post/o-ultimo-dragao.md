@@ -1,7 +1,7 @@
 ---
 imdb: "0089461"
 date: "2010-07-07"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Último Dragão"
 stars: "2/5"
 desc: "O Último Dragão. The Last Dragon (USA, 1985). Dirigido por Michael Schultz. Escrito por Louis Venosta. Com Taimak, Vanity, Christopher Murney, Julius Carry, Faith Prince, Leo O'Brien, Mike Starr, Jim Moody, Glen Eaton."

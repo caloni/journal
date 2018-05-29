@@ -3,7 +3,7 @@ tags: ['cabine']
 cinemaqui: "http://www.cinemaqui.com.br/alem-da-ilusao/"
 imdb: "4680196"
 date: "2017-04-21"
-categories: "movies"
+categories: [ "movies" ]
 title: "Além da Ilusão"
 stars: "3/5"
 desc: "Além da Ilusão. Planetarium (France, 2016). Dirigido por Rebecca Zlotowski. Escrito por Rebecca Zlotowski, Robin Campillo. Com Natalie Portman (Laura Barlow), Lily-Rose Depp (Kate Barlow), Emmanuel Salinger (André Korben), Amira Casar (Eva Saïd), Pierre Salvadori (André Servier), Louis Garrel (Fernand Prouvé), David Bennent (Juncker), Damien Chapelle (Louis), Jerzy Rogulski (Professeur Ulé)."

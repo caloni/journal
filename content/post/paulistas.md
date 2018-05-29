@@ -1,7 +1,7 @@
 ---
 date: 2018-02-10T22:30:31
 imdb: "7115328"
-categories: "movies"
+categories: [ "movies" ]
 stars: "3/5"
 title: "Paulistas"
 desc: "Paulistas."

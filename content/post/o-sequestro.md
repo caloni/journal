@@ -2,7 +2,7 @@
 tags: ['cabine']
 imdb: "1458169"
 date: 2017-08-28T17:55:37
-categories: "movies"
+categories: [ "movies" ]
 title: "O Sequestro"
 stars: "4/5"
 desc: "O Sequestro. Kidnap (USA, 2017). Dirigido por Luis Prieto. Escrito por Knate Lee. Com Halle Berry (Karla Dyson), Sage Correa (Frankie), Chris McGinn (Margo), Lew Temple (Terry), Jason George (David), Christopher Berry (Bearded Man), Arron Shiver (Bill), Kurtis Bedford (Del), Carmella Riley (Stephanie)."

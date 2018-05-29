@@ -1,7 +1,7 @@
 ---
 imdb: "0938283"
 date: "2010-08-20"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Último Mestre do Ar"
 stars: "1/5"
 desc: "O Último Mestre do Ar. The Last Airbender (USA, 2010). Dirigido por M. Night Shyamalan. Escrito por M. Night Shyamalan. Com Noah Ringer, Dev Patel, Nicola Peltz, Jackson Rathbone, Shaun Toub, Aasif Mandvi, Cliff Curtis, Seychelle Gabriel, Katharine Houghton."

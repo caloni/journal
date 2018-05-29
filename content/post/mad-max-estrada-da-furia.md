@@ -1,7 +1,7 @@
 ---
 imdb: "1392190"
 date: "2015-05-22"
-categories: "movies"
+categories: [ "movies" ]
 title: "Mad Max: Estrada da Fúria"
 stars: "5/5"
 revision: [datetime.date(2015, 6, 3)]

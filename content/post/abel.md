@@ -1,7 +1,7 @@
 ---
 imdb: "1479668"
 date: "2014-04-26"
-categories: "movies"
+categories: [ "movies" ]
 title: "Abel"
 stars: "3/5"
 desc: "Abel. Abel (Mexico, 2010). Dirigido por Diego Luna. Escrito por Augusto Mendoza, Diego Luna. Com Christopher Ruíz-Esparza, José María Yazpik, Karina Gidi, Carlos Aragón, Gerardo Ruíz-Esparza, Geraldine Galván, Gabino Rodríguez, Lucero Trejo, Maria Elena Cervantes."

@@ -1,7 +1,7 @@
 ---
 date: 2018-05-16T23:17:13-03:00
 title: "2001: Uma Odisseia no Espaço: O Livro (até a metade)"
-categories: "blog"
+categories: [ "blog" ]
 stars: "5/5"
 desc: "2001: A Space Odyssey. Arthur C. Clarke, 1968."
 ---

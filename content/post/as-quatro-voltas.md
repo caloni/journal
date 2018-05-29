@@ -1,7 +1,7 @@
 ---
 imdb: "1646975"
 date: "2010-11-06"
-categories: "movies"
+categories: [ "movies" ]
 title: "As Quatro Voltas"
 stars: "3/5"
 desc: "As Quatro Voltas. Le quattro volte (Italy, 2010). Dirigido por Michelangelo Frammartino. Escrito por Michelangelo Frammartino. Com Giuseppe Fuda, Bruno Timpano, Nazareno Timpano, Artemio Vallone, Domenico Cavallo, Santo Cavallo, Peppe Cavallo, Isidoro Chiera, Iolanda Manno."

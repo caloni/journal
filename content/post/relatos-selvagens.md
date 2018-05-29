@@ -1,7 +1,7 @@
 ---
 imdb: "3011894"
 date: "2014-12-16"
-categories: "movies"
+categories: [ "movies" ]
 title: "Relatos Selvagens"
 stars: "5/5"
 desc: "Relatos Selvagens. Relatos salvajes (Argentina, 2014). Dirigido por Damián Szifrón. Escrito por Damián Szifrón. Com Darío Grandinetti, María Marull, Mónica Villa, Rita Cortese, Julieta Zylberberg, César Bordón, Leonardo Sbaraglia, Walter Donado, Ricardo Darín."

@@ -1,7 +1,7 @@
 ---
 imdb: "1791682"
 date: "2015-07-03"
-categories: "movies"
+categories: [ "movies" ]
 title: "Enquanto Somos Jovens"
 stars: "4/5"
 revision: [datetime.date(2017, 10, 14)]

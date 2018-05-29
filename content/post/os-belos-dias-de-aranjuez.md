@@ -3,7 +3,7 @@ tags: ['cabine']
 cinemaqui: "http://www.cinemaqui.com.br/os-belos-dias-de-aranjuez/"
 imdb: "4715652"
 date: "2017-03-26"
-categories: "movies"
+categories: [ "movies" ]
 title: "Os Belos Dias de Aranjuez"
 stars: "3/5"
 desc: "Os Belos Dias de Aranjuez. Les beaux jours d'Aranjuez (France, 2016). Dirigido por Wim Wenders. Escrito por Wim Wenders, Peter Handke. Com Reda Kateb (L'homme), Sophie Semin (La femme), Jens Harzer (L'écrivain), Peter Handke (Le jardinier), Nick Cave (Nick Cave)."

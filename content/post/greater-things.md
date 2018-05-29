@@ -2,7 +2,7 @@
 tags: ['mostrasp']
 imdb: "3044584"
 date: "2016-10-20"
-categories: "movies"
+categories: [ "movies" ]
 title: "Greater Things"
 stars: "4/5"
 desc: "Greater Things. Greater Things (UK, 2015). Dirigido por Vahid Hakimzadeh. Escrito por Vahid Hakimzadeh. Com Kaori Momoi, Toshinori Kondo, Marius Zaromskis, Nezam Ardalan, Ken Maeda, Kumud Pant (Supporting artist), Jozef Aoki (Referee), Shaun Lucas (Spectacor)."

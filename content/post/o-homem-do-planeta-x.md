@@ -1,7 +1,7 @@
 ---
 imdb: "0043778"
 date: "2014-03-04"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Homem do Planeta X"
 stars: "2/5"
 desc: "O Homem do Planeta X. The Man from Planet X (USA, 1951). Dirigido por Edgar G. Ulmer. Escrito por Aubrey Wisberg, Jack Pollexfen. Com Robert Clarke, Margaret Field, Raymond Bond, William Schallert, Roy Engel, David Ormont, Gilbert Fallman, Tom Daly, June Jeffery."

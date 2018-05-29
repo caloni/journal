@@ -2,7 +2,7 @@
 tags: ['cabine']
 imdb: "4258698"
 date: "2016-10-19"
-categories: "movies"
+categories: [ "movies" ]
 title: "Michelle e Obama"
 stars: "4/5"
 desc: "Michelle e Obama. Southside with You (USA, 2016). Dirigido por Richard Tanne. Escrito por Richard Tanne. Com Tika Sumpter (Michelle Robinson), Parker Sawyers (Barack Obama), Vanessa Bell Calloway (Marian Robinson), Phillip Edward Van Lear (Fraser Robinson), Taylar Fondren (Janice), Deanna Reed-Foster (Bernadette), Jerod Haynes (Tommy), Gabrielle Lott-Rogers (Rafiqa), Preston Tate Jr. (Kyle)."

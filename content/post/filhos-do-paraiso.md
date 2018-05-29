@@ -1,7 +1,7 @@
 ---
 imdb: "0118849"
 date: "2012-03-11"
-categories: "movies"
+categories: [ "movies" ]
 title: "Filhos do Paraíso"
 stars: "4/5"
 desc: "Filhos do Paraíso. Bacheha-Ye aseman (Iran, 1997). Dirigido por Majid Majidi. Escrito por Majid Majidi. Com Mohammad Amir Naji, Amir Farrokh Hashemian, Bahare Seddiqi, Nafise Jafar-Mohammadi, Fereshte Sarabandi, Kamal Mirkarimi, Behzad Rafi, Dariush Mokhtari, Mohammad-Hasan Hosseinian."

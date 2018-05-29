@@ -2,7 +2,7 @@
 tags: ['netflix']
 imdb: "1596363"
 date: "2016-11-26"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Grande Aposta"
 stars: "5/5"
 desc: "A Grande Aposta. The Big Short (USA, 2015). Dirigido por Adam McKay. Escrito por Charles Randolph, Adam McKay, Michael Lewis. Com Ryan Gosling (Jared Vennett), Rudy Eisenzopf (Lewis Ranieri), Casey Groves (Fund Manager), Charlie Talbert (Lewis Bond Trader), Harold Gervais (Lewis Bond Trader), Maria Frangos (Exotic Dancer), Christian Bale (Michael Burry), Hunter Burke (Analyst), Bernard Hocke (Coach)."

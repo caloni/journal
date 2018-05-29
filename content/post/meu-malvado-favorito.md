@@ -1,7 +1,7 @@
 ---
 imdb: "1323594"
 date: "2010-12-20"
-categories: "movies"
+categories: [ "movies" ]
 title: "Meu Malvado Favorito"
 stars: "3/5"
 revision: [datetime.date(2011, 11, 13)]

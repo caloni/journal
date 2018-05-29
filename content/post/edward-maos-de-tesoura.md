@@ -1,7 +1,7 @@
 ---
 imdb: "0099487"
 date: "2011-07-31"
-categories: "movies"
+categories: [ "movies" ]
 title: "Edward Mãos de Tesoura"
 stars: "3/5"
 desc: "Edward Mãos de Tesoura. Edward Scissorhands (USA, 1990). Dirigido por Tim Burton. Escrito por Tim Burton, Caroline Thompson, Caroline Thompson. Com Johnny Depp, Winona Ryder, Dianne Wiest, Anthony Michael Hall, Kathy Baker, Robert Oliveri, Conchata Ferrell, Caroline Aaron, Dick Anthony Williams."

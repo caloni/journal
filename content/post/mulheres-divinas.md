@@ -2,7 +2,7 @@
 tags: ['cabine']
 imdb: "5818818"
 date: 2017-12-03T23:22:57
-categories: "movies"
+categories: [ "movies" ]
 title: "Mulheres Divinas"
 stars: "4/5"
 desc: "Mulheres Divinas. Die göttliche Ordnung (Switzerland, 2017). Dirigido por Petra Biondina Volpe. Escrito por Petra Biondina Volpe. Com Marie Leuenberger (Nora), Maximilian Simonischek (Hans), Rachel Braunschweig (Theresa), Sibylle Brunner (Vroni), Marta Zoffoli (Graziella), Bettina Stucky (Magda), Noe Krejcí (Max), Finn Sutter (Luki), Peter Freiburghaus (Gottfried)."

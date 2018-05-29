@@ -1,7 +1,7 @@
 ---
 imdb: "0286244"
 date: "2014-07-23"
-categories: "movies"
+categories: [ "movies" ]
 title: "As Bicicletas de Belleville"
 stars: "5/5"
 desc: "As Bicicletas de Belleville. Les triplettes de Belleville (France, 2003). Dirigido por Sylvain Chomet. Escrito por Sylvain Chomet. Com Béatrice Bonifassi, Lina Boudreau, Michèle Caucheteux, Jean-Claude Donda, Mari-Lou Gauthier, Charles Linton, Michel Robin, Monica Viegas."

@@ -1,7 +1,7 @@
 ---
 imdb: "1564916"
 date: "2010-12-30"
-categories: "movies"
+categories: [ "movies" ]
 title: "De Pernas pro Ar"
 stars: "3/5"
 desc: "De Pernas pro Ar. De Pernas pro Ar (Brazil, 2010). Dirigido por Roberto Santucci. Escrito por Paulo Cursino, Marcelo Saback. Com Ingrid Guimarães, Maria Paula, Bruno Garcia, Denise Weinberg, Antonio Pedro, Cristina Pereira, Charles Paraventi, João Fernandes, Flávia Alessandra."

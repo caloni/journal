@@ -1,7 +1,7 @@
 ---
 imdb: "1082868"
 date: "2012-11-18"
-categories: "movies"
+categories: [ "movies" ]
 title: "Quarentena"
 stars: "2/5"
 desc: "Quarentena. Quarantine (USA, 2008). Dirigido por John Erick Dowdle. Escrito por John Erick Dowdle, Drew Dowdle, Jaume Balagueró, Luiso Berdejo, Paco Plaza. Com Jennifer Carpenter, Steve Harris, Jay Hernandez, Johnathon Schaech, Columbus Short, Andrew Fiscella, Rade Serbedzija, Greg Germann, Bernard White."

@@ -1,7 +1,7 @@
 ---
 imdb: "1161864"
 date: "2011-11-02"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Ritual"
 stars: "2/5"
 desc: "O Ritual. The Rite (USA, 2011). Dirigido por Mikael Håfström. Escrito por Michael Petroni, Matt Baglio. Com Anthony Hopkins, Colin O'Donoghue, Alice Braga, Ciarán Hinds, Toby Jones, Rutger Hauer, Marta Gastini, Maria Grazia Cucinotta, Arianna Veronesi."

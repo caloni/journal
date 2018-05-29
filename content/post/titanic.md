@@ -2,7 +2,7 @@
 tags: ['cinema']
 imdb: "0120338"
 date: 2017-09-17T23:22:45
-categories: "movies"
+categories: [ "movies" ]
 title: "Titanic"
 stars: "5/5"
 desc: "Titanic. Titanic (USA, 1997). Dirigido por James Cameron. Escrito por James Cameron. Com Leonardo DiCaprio (Jack Dawson), Kate Winslet (Rose Dewitt Bukater), Billy Zane (Cal Hockley), Kathy Bates (Molly Brown), Frances Fisher (Ruth Dewitt Bukater), Gloria Stuart (Old Rose), Bill Paxton (Brock Lovett), Bernard Hill (Captain Smith), David Warner (Spicer Lovejoy)."

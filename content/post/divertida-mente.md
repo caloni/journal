@@ -1,7 +1,7 @@
 ---
 imdb: "2096673"
 date: "2015-06-24"
-categories: "movies"
+categories: [ "movies" ]
 title: "Divertida Mente"
 stars: "4/5"
 revision: [datetime.date(2016, 7, 28)]

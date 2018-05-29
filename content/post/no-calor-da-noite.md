@@ -1,7 +1,7 @@
 ---
 imdb: "0061811"
 date: "2016-02-08"
-categories: "movies"
+categories: [ "movies" ]
 title: "No Calor da Noite"
 stars: "4/5"
 desc: "No Calor da Noite. In the Heat of the Night (USA, 1967). Dirigido por Norman Jewison. Escrito por Stirling Silliphant, John Ball. Com Sidney Poitier, Rod Steiger, Warren Oates, Lee Grant, Larry Gates, James Patterson, William Schallert, Beah Richards, Peter Whitney."

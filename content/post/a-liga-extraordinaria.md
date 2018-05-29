@@ -1,7 +1,7 @@
 ---
 imdb: "0311429"
 date: "2012-01-01"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Liga Extraordinária"
 stars: "1/5"
 desc: "A Liga Extraordinária. The League of Extraordinary Gentlemen (USA, 2003). Dirigido por Stephen Norrington. Escrito por Alan Moore, Kevin O'Neill, James Robinson. Com Sean Connery, Naseeruddin Shah, Peta Wilson, Tony Curran, Stuart Townsend, Shane West, Jason Flemyng, Richard Roxburgh, Max Ryan."

@@ -1,7 +1,7 @@
 ---
 imdb: "0780571"
 date: "2011-04-27"
-categories: "movies"
+categories: [ "movies" ]
 title: "Instinto Secreto"
 stars: "5/5"
 desc: "Instinto Secreto. Mr. Brooks (USA, 2007). Dirigido por Bruce A. Evans. Escrito por Bruce A. Evans, Raynold Gideon. Com Kevin Costner, Demi Moore, Dane Cook, William Hurt, Marg Helgenberger, Ruben Santiago-Hudson, Danielle Panabaker, Aisha Hinds, Lindsay Crouse."

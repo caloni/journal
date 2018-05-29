@@ -2,7 +2,7 @@
 tags: ['cabine']
 imdb: "3667648"
 date: "2016-04-15"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Que Eu Fiz Para Merecer Isso?"
 stars: "5/5"
 desc: "O Que Eu Fiz Para Merecer Isso?. Une heure de tranquillité (France, 2014). Dirigido por Patrice Leconte. Escrito por Patrice Leconte, Florian Zeller. Com Christian Clavier, Carole Bouquet, Valérie Bonneton, Rossy de Palma, Stéphane De Groodt, Sébastien Castro, Christian Charmetant, Arnaud Henriet, Ricardo Arciaga."

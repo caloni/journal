@@ -2,7 +2,7 @@
 tags: ['netflix', 'series']
 imdb: "5706996"
 date: "2017-04-26"
-categories: "series"
+categories: [ "series" ]
 title: "Girlboss - Primeira Temporada"
 stars: "4/5"
 desc: "Girlboss - Primeira Temporada. Girlboss (USA, 2017). Dirigido por Christian Ditter, Jamie Babbit, Amanda Brotchie, Steven K. Tsuchida. Escrito por Jen Braeden, Kay Cannon, Karen Graci, Brian Shortall, Sophia Amoruso, Sonny Lee, Eben Russell, Caroline Williams. Com Britt Robertson (Sophia / ...), Ellie Reed (Annie), Johnny Simmons (Shane), Alphonso McAuley (Dax), RuPaul (Lionel)."

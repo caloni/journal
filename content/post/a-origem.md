@@ -1,7 +1,7 @@
 ---
 imdb: "1375666"
 date: "2010-08-06"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Origem"
 stars: "5/5"
 revision: [datetime.date(2015, 5, 17)]

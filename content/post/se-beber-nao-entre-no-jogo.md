@@ -1,7 +1,7 @@
 ---
 imdb: "3138104"
 date: "2015-12-05"
-categories: "movies"
+categories: [ "movies" ]
 title: "Se Beber, Não Entre no Jogo"
 stars: "1/5"
 desc: "Se Beber, Não Entre no Jogo. The Hungover Games (USA, 2014). Dirigido por Josh Stolberg. Escrito por Kyle Barnett Anderson, Kyle Barnett Anderson, David Bernstein, David Bernstein, Jamie Kennedy. Com Ross Nathan, Sam Pancake, Ben Begley, Herbert Russell, John Livingston, Damien Bray, Tara Reid, Jamie Kennedy, Chanel Gaines."

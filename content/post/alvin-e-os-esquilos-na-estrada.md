@@ -1,7 +1,7 @@
 ---
 imdb: "2974918"
 date: "2016-01-10"
-categories: "movies"
+categories: [ "movies" ]
 title: "Alvin e os Esquilos: Na Estrada"
 stars: "2/5"
 desc: "Alvin e os Esquilos: Na Estrada. Alvin and the Chipmunks: The Road Chip (USA, 2015). Dirigido por Walt Becker. Escrito por Ross Bagdasarian, Janice Karman, Randi Mayem Singer, Adam Sztykiel. Com Jason Lee, Justin Long, Matthew Gray Gubler, Jesse McCartney, Kimberly Williams-Paisley, Josh Green, Tony Hale, Bella Thorne, Eddie Steeples."

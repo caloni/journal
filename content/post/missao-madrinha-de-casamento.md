@@ -1,7 +1,7 @@
 ---
 imdb: "1478338"
 date: "2013-12-14"
-categories: "movies"
+categories: [ "movies" ]
 title: "Missão Madrinha de Casamento"
 stars: "5/5"
 desc: "Missão Madrinha de Casamento. Bridesmaids (USA, 2011). Dirigido por Paul Feig. Escrito por Kristen Wiig, Annie Mumolo. Com Kristen Wiig, Terry Crews, Maya Rudolph, Tom Yi, Elaine Kao, Michael Hitchcock, Kali Hawk, Joe Nunez, Rebel Wilson."

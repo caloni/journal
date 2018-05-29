@@ -1,7 +1,7 @@
 ---
 imdb: "1064964"
 date: "2012-03-04"
-categories: "movies"
+categories: [ "movies" ]
 title: "Leur morale... et la nôtre"
 stars: "2/5"
 desc: "Leur morale... et la nôtre. Leur morale... et la nôtre (France, 2008). Dirigido por Florence Quentin. Escrito por Florence Quentin, Alexis Quentin. Com André Dussollier, Victoria Abril, Samir Guesmi, Micha Lescot, Françoise Bertin, Catherine Hosmalin, Isabelle Caubère, Raphaël Mezrahi, Michel Muller."

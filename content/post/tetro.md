@@ -1,7 +1,7 @@
 ---
 imdb: "0964185"
 date: "2010-12-10"
-categories: "movies"
+categories: [ "movies" ]
 title: "Tetro"
 stars: "3/5"
 desc: "Tetro. Tetro (USA, 2009). Dirigido por Francis Ford Coppola. Escrito por Mauricio Kartun, Francis Ford Coppola. Com Vincent Gallo, Alden Ehrenreich, Maribel Verdú, Silvia Pérez, Rodrigo De la Serna, Erica Rivas, Mike Amigorena, Lucas Di Conza, Adriana Mastrángelo."

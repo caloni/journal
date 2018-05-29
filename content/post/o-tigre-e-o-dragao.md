@@ -1,7 +1,7 @@
 ---
 imdb: "0190332"
 date: "2016-03-15"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Tigre e o Dragão"
 stars: "5/5"
 desc: "O Tigre e o Dragão. Wo hu cang long (Taiwan, 2000). Dirigido por Ang Lee. Escrito por Wang Du Lu, Hui-Ling Wang, James Schamus, Kuo Jung Tsai. Com Yun-Fat Chow, Michelle Yeoh, Ziyi Zhang, Chen Chang, Sihung Lung, Pei-Pei Cheng, Fa Zeng Li, Xian Gao, Yan Hai."

@@ -2,7 +2,7 @@
 tags: ['ninfomaniaca']
 imdb: "2382009"
 date: 2016-06-06
-categories: "movies"
+categories: [ "movies" ]
 title: "Ninfomaníaca Volume 2"
 stars: "4/5"
 desc: "Ninfomaníaca Volume 2. Nymphomaniac: Vol. II (Denmark, 2013). Dirigido por Lars von Trier. Escrito por Lars von Trier. Com Charlotte Gainsbourg, Stellan Skarsgård, Stacy Martin, Shia LaBeouf, Christian Slater, Jamie Bell, Uma Thurman, Willem Dafoe, Mia Goth."

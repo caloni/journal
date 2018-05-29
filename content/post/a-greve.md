@@ -1,7 +1,7 @@
 ---
 imdb: "0015361"
 date: "2012-04-02"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Greve"
 stars: "4/5"
 desc: "A Greve. Stachka (Soviet Union, 1925). Dirigido por Sergei M. Eisenstein. Escrito por Grigori Aleksandrov, Sergei M. Eisenstein, Ilya Kravchunovsky, Valerian Pletnev. Com Maksim Shtraukh, Grigori Aleksandrov, Mikhail Gomorov, I. Ivanov, Ivan Klyukvin, Aleksandr Antonov, Yudif Glizer, Anatoliy Kuznetsov, Vera Yanukova."

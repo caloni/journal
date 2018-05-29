@@ -1,7 +1,7 @@
 ---
 imdb: "2084970"
 date: "2015-03-15"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Jogo da Imitação"
 stars: "3/5"
 desc: "O Jogo da Imitação. The Imitation Game (USA, 2014). Dirigido por Morten Tyldum. Escrito por Andrew Hodges, Graham Moore. Com Benedict Cumberbatch, Keira Knightley, Matthew Goode, Rory Kinnear, Allen Leech, Matthew Beard, Charles Dance, Mark Strong, James Northcote."

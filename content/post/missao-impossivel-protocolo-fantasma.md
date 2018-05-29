@@ -1,7 +1,7 @@
 ---
 imdb: "1229238"
 date: "2012-01-09"
-categories: "movies"
+categories: [ "movies" ]
 title: "Missão Impossível Protocolo Fantasma"
 stars: "4/5"
 desc: "Missão Impossível Protocolo Fantasma. Mission: Impossible - Ghost Protocol (USA, 2011). Dirigido por Brad Bird. Escrito por Josh Appelbaum, André Nemec, Bruce Geller. Com Tom Cruise, Paula Patton, Simon Pegg, Jeremy Renner, Michael Nyqvist, Vladimir Mashkov, Samuli Edelmann, Ivan Shvedoff, Anil Kapoor."

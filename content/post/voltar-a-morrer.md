@@ -1,7 +1,7 @@
 ---
 imdb: "0101669"
 date: "2014-03-04"
-categories: "movies"
+categories: [ "movies" ]
 title: "Voltar a Morrer"
 stars: "3/5"
 desc: "Voltar a Morrer. Dead Again (USA, 1991). Dirigido por Kenneth Branagh. Escrito por Scott Frank. Com Kenneth Branagh, Andy Garcia, Derek Jacobi, Wayne Knight, Hanna Schygulla, Campbell Scott, Emma Thompson, Jo Anderson, Christine Ebersole."

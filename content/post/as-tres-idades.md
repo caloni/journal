@@ -1,7 +1,7 @@
 ---
 imdb: "0014538"
 date: "2015-09-18"
-categories: "movies"
+categories: [ "movies" ]
 title: "As Três Idades"
 stars: "4/5"
 desc: "As Três Idades. Three Ages (USA, 1923). Dirigido por Edward F. Cline, Buster Keaton. Escrito por Clyde Bruckman, Joseph A. Mitchell, Jean C. Havez, Buster Keaton. Com Buster Keaton, Margaret Leahy, Wallace Beery, Joe Roberts, Lillian Lawrence, Kewpie Morgan, Lionel Belmore, George Davis, Louise Emmons."

@@ -1,7 +1,7 @@
 ---
 imdb: "0070666"
 date: "2015-08-31"
-categories: "movies"
+categories: [ "movies" ]
 title: "Serpico"
 stars: "5/5"
 desc: "Serpico. Serpico (USA, 1973). Dirigido por Sidney Lumet. Escrito por Peter Maas, Waldo Salt, Norman Wexler. Com Al Pacino, John Randolph, Jack Kehoe, Biff McGuire, Barbara Eda-Young, Cornelia Sharpe, Tony Roberts, John Medici, Allan Rich."

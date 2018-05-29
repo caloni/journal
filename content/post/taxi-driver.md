@@ -1,7 +1,7 @@
 ---
 imdb: "0075314"
 date: "2012-05-14"
-categories: "movies"
+categories: [ "movies" ]
 title: "Taxi Driver"
 stars: "5/5"
 revision: [datetime.date(2012, 6, 4)]

@@ -2,7 +2,7 @@
 tags: ['netflix', 'series']
 imdb: "3958276"
 date: "2016-10-23"
-categories: "series"
+categories: [ "series" ]
 title: "Midnight Diner: Tokyo Stories"
 stars: "4/5"
 desc: "Midnight Diner: Tokyo Stories. Shinya shokudô (Japan, 2014). Dirigido por Joji Matsuoka. Escrito por Yarô Abe, Katsuhiko Manabe, Kensaku Kojima, Joji Matsuoka. Com Kaoru Kobayashi (Master), Saki Takaoka (Tamako Kawashima), Tokio Emoto (Hajime Nishida), Hiroyuki Motoi, Akira Sagara, Mikako Tabe (Michiru Kuriyama), Kiyohiko Shibukawa (Tadao), Mitsuki Tanimura, Yoshiyuki Morishita."

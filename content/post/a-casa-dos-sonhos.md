@@ -1,7 +1,7 @@
 ---
 imdb: "1462041"
 date: "2011-11-16"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Casa dos Sonhos"
 stars: "3/5"
 desc: "A Casa dos Sonhos. Dream House (USA, 2011). Dirigido por Jim Sheridan. Escrito por David Loucka. Com Daniel Craig, Naomi Watts, Rachel Weisz, Elias Koteas, Marton Csokas, Taylor Geare, Claire Geare, Rachel G. Fox, Jane Alexander."

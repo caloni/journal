@@ -1,7 +1,7 @@
 ---
 imdb: "1835980"
 date: "2012-10-25"
-categories: "movies"
+categories: [ "movies" ]
 title: "Felicidade"
 stars: "4/5"
 desc: "Felicidade. Glück (Germany, 2012). Dirigido por Doris Dörrie. Escrito por Doris Dörrie, Ferdinand von Schirach. Com Alba Rohrwacher, Vinzenz Kiefer, Matthias Brandt, Oliver Nägele, Maren Kroymann, Christina Große, Paraschiva Dragus, Margarita Broich, Irene Rindje."

@@ -1,7 +1,7 @@
 ---
 imdb: "1637688"
 date: "2011-11-17"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Preço do Amanhã"
 stars: "3/5"
 desc: "O Preço do Amanhã. In Time (USA, 2011). Dirigido por Andrew Niccol. Escrito por Andrew Niccol. Com Justin Timberlake, Olivia Wilde, Shyloh Oostwald, Johnny Galecki, Colin McGurk, Will Harris, Michael William Freeman, Jesse Lee Soffer, Aaron Perilo."

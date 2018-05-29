@@ -1,7 +1,7 @@
 ---
 imdb: "1498569"
 date: "2011-11-29"
-categories: "movies"
+categories: [ "movies" ]
 title: "Inquietos"
 stars: "4/5"
 desc: "Inquietos. Restless (USA, 2011). Dirigido por Gus Van Sant. Escrito por Jason Lew. Com Henry Hopper, Mia Wasikowska, Ryô Kase, Schuyler Fisk, Lusia Strus, Jane Adams, Paul Parson, Thomas Lauderdale, Christopher D. Harder."

@@ -1,7 +1,7 @@
 ---
 imdb: "0112641"
 date: "2016-02-10"
-categories: "movies"
+categories: [ "movies" ]
 title: "Cassino"
 stars: "4/5"
 desc: "Cassino. Casino (USA, 1995). Dirigido por Martin Scorsese. Escrito por Nicholas Pileggi, Nicholas Pileggi, Martin Scorsese. Com Robert De Niro, Sharon Stone, Joe Pesci, James Woods, Don Rickles, Alan King, Kevin Pollak, L.Q. Jones, Dick Smothers."

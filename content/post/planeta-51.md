@@ -1,7 +1,7 @@
 ---
 imdb: "0762125"
 date: "2011-11-06"
-categories: "movies"
+categories: [ "movies" ]
 title: "Planeta 51"
 stars: "3/5"
 desc: "Planeta 51. Planet 51 (Spain, 2009). Dirigido por Jorge Blanco, Javier Abad, Marcos Martínez. Escrito por Javier Abad, Jorge Blanco, Marcos Martínez, Ignacio Pérez Dolset, Joe Stillman. Com Jessica Biel, John Cleese, Gary Oldman, Dwayne Johnson, Justin Long, Seann William Scott, Freddie Benedict, Alan Marriott, Mathew Horne."

@@ -2,7 +2,7 @@
 tags: ['cabine']
 cinemaqui: "http://www.cinemaqui.com.br/olhar-instigado/"
 date: "2017-02-23"
-categories: "movies"
+categories: [ "movies" ]
 title: "Olhar Instigado"
 stars: "3/5"
 desc: "Olhar Instigado. Olhar Instigado (Brasil, 2015). Dirigido por Chico Gomes, Felipe Lion. Escrito por Guilherme Moraes Quintella, Chico Gomes. Com Alexandre Orion, Bruno Locuras, André Monteiro."

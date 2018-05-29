@@ -1,7 +1,7 @@
 ---
 imdb: "2231208"
 date: "2013-04-11"
-categories: "movies"
+categories: [ "movies" ]
 title: "Uma História de Amor e Fúria"
 stars: "4/5"
 desc: "Uma História de Amor e Fúria. Uma História de Amor e Fúria (Brazil, 2013). Dirigido por Luiz Bolognesi. Escrito por Luiz Bolognesi. Com Selton Mello, Camila Pitanga, Rodrigo Santoro."

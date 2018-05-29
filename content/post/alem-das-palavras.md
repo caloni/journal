@@ -3,7 +3,7 @@ tags: ['cabine']
 cinemaqui: "http://www.cinemaqui.com.br/alem-das-palavras/"
 imdb: "2392830"
 date: "2017-04-05"
-categories: "movies"
+categories: [ "movies" ]
 title: "Além das Palavras"
 stars: "4/5"
 desc: "Além das Palavras. A Quiet Passion (UK, 2016). Dirigido por Terence Davies. Escrito por Terence Davies. Com Cynthia Nixon (Emily Dickinson), Jennifer Ehle (Vinnie Dickinson), Duncan Duff (Austin Dickinson), Keith Carradine (Father), Jodhi May (Susan Gilbert), Joanna Bacon (Mother), Catherine Bailey (Vryling Buffam), Emma Bell (Young Emily Dickinson), Benjamin Wainwright (Young Austin Dickinson)."

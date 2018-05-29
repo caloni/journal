@@ -1,7 +1,7 @@
 ---
 imdb: "1817273"
 date: "2013-11-22"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Lugar Onde Tudo Termina"
 stars: "5/5"
 desc: "O Lugar Onde Tudo Termina. The Place Beyond the Pines (USA, 2012). Dirigido por Derek Cianfrance. Escrito por Derek Cianfrance, Ben Coccio, Derek Cianfrance, Ben Coccio, Darius Marder. Com Ryan Gosling, Craig Van Hook, Eva Mendes, Olga Merediz, Anthony Pizza, Mahershala Ali, John Facci, Ben Mendelsohn, Tula."

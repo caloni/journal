@@ -1,7 +1,7 @@
 ---
 imdb: "0423294"
 date: "2011-12-30"
-categories: "movies"
+categories: [ "movies" ]
 title: "Tá Dando Onda"
 stars: "3/5"
 desc: "Tá Dando Onda. Surf's Up (USA, 2007). Dirigido por Ash Brannon, Chris Buck. Escrito por Don Rhymer, Ash Brannon, Chris Buck, Christopher Jenkins, Christopher Jenkins, Christian Darren, Lisa Addario, Joe Syracuse. Com Shia LaBeouf, Jeff Bridges, Zooey Deschanel, Jon Heder, James Woods, Diedrich Bader, Mario Cantone, Kelly Slater, Rob Machado."

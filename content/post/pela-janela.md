@@ -2,7 +2,7 @@
 tags: ['cabine']
 imdb: "7230476"
 date: 2017-12-08T23:21:05
-categories: "movies"
+categories: [ "movies" ]
 title: "Pela Janela"
 stars: "4/5"
 desc: "Pela Janela. Pela Janela (Brazil, 2017). Dirigido por Caroline Leone. Escrito por Caroline Leone. Com Mayara Constantino, Cacá Amaral (José), Magali Biff (Rosália)."

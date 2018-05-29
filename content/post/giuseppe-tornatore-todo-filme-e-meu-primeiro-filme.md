@@ -1,7 +1,7 @@
 ---
 imdb: "3031762"
 date: "2013-10-26"
-categories: "movies"
+categories: [ "movies" ]
 title: "Giuseppe Tornatore Todo Filme é Meu Primeiro Filme"
 stars: "3/5"
 desc: "Giuseppe Tornatore Todo Filme é Meu Primeiro Filme. Giuseppe Tornatore - Ogni film un'opera prima (Italy, 2012). Dirigido por Luciano Barcaroli, Gerardo Panichi. Escrito por Luciano Barcaroli, Gerardo Panichi. Com Monica Bellucci, Sergio Castellitto, Vittorio Cecchi Gori, Massimo De Rita, Laura Fattori, Ben Gazzara, Giuseppe Giglietti, Blasco Giurato, Tonino Guerra."

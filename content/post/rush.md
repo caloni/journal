@@ -1,7 +1,7 @@
 ---
 imdb: "1979320"
 date: "2016-03-20"
-categories: "movies"
+categories: [ "movies" ]
 title: "Rush: No Limite da Emoção"
 stars: "4/5"
 desc: "Rush: No Limite da Emoção. Rush (UK, 2013). Dirigido por Ron Howard. Escrito por Peter Morgan. Com Chris Hemsworth, Daniel Brühl, Olivia Wilde, Alexandra Maria Lara, Pierfrancesco Favino, David Calder, Natalie Dormer, Stephen Mangan, Christian McKay."

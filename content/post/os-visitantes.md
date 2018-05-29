@@ -1,7 +1,7 @@
 ---
 imdb: "2208192"
 date: "2012-11-01"
-categories: "movies"
+categories: [ "movies" ]
 title: "Os Visitantes"
 stars: "4/5"
 desc: "Os Visitantes. Die Besucher (Germany, 2012). Dirigido por Constanze Knoche. Escrito por Leis Bagdach, Constanze Knoche. Com Uwe Kockisch, Corinna Kirchhoff, Anjorka Strechel, Anne Müller, Jakob Diehl, Irina Potapenko, Bernhard Schütz, Andreas Leupold, Janusz Kocaj."

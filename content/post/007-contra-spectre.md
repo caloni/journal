@@ -1,7 +1,7 @@
 ---
 imdb: "2379713"
 date: "2015-11-14"
-categories: "movies"
+categories: [ "movies" ]
 title: "007 Contra Spectre"
 stars: "2/5"
 desc: "007 Contra Spectre. Spectre (UK, 2015). Dirigido por Sam Mendes. Escrito por John Logan, Neal Purvis, Robert Wade, Jez Butterworth, John Logan, Neal Purvis, Robert Wade, Ian Fleming. Com Daniel Craig, Christoph Waltz, Léa Seydoux, Ralph Fiennes, Monica Bellucci, Ben Whishaw, Naomie Harris, Dave Bautista, Andrew Scott."

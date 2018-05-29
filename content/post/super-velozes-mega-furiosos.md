@@ -1,7 +1,7 @@
 ---
 imdb: "2933474"
 date: "2015-05-11"
-categories: "movies"
+categories: [ "movies" ]
 title: "Super Velozes, Mega Furiosos"
 stars: "3/5"
 desc: "Super Velozes, Mega Furiosos. Superfast! (USA, 2015). Dirigido por Jason Friedberg, Aaron Seltzer. Escrito por Jason Friedberg, Aaron Seltzer. Com Lili Mirojnick, Andrea Navedo, Shantel Wislawski, Dale Pavinski, Veronica McCluskey, Daniel Booko, Alex Ashbaugh, Shakira Barrera, Joseph Julian Soria."

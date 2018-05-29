@@ -2,7 +2,7 @@
 tags: ['cabine']
 imdb: "5390504"
 date: 2017-09-27T18:59:25
-categories: "movies"
+categories: [ "movies" ]
 title: "Detroit em Rebelião"
 stars: "5/5"
 desc: "Detroit em Rebelião. Detroit (USA, 2017). Dirigido por Kathryn Bigelow. Escrito por Mark Boal. Com John Boyega (Dismukes), Will Poulter (Krauss), Algee Smith (Larry), Jacob Latimore (Fred), Jason Mitchell (Carl), Hannah Murray (Julie), Jack Reynor (Demens), Kaitlyn Dever (Karen), Ben O'Toole (Flynn)."

@@ -1,7 +1,7 @@
 ---
 imdb: "1720038"
 date: "2010-10-29"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Suprema Felicidade"
 stars: "3/5"
 desc: "A Suprema Felicidade. A Suprema Felicidade (Brazil, 2010). Dirigido por Arnaldo Jabor. Escrito por Arnaldo Jabor, Ananda Rubinstein. Com Fernanda Avellar, César Cardadeiro, Tammy Di Calafiori, Maria Flor, Ary Fontoura, Michel Joelsas, Mariana Lima, Jorge Loredo, Caio Manhente."

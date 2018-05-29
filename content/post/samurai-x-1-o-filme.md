@@ -1,7 +1,7 @@
 ---
 imdb: "1979319"
 date: "2015-10-05"
-categories: "movies"
+categories: [ "movies" ]
 title: "Samurai X 1: O Filme"
 stars: "2/5"
 desc: "Samurai X 1: O Filme. Rurôni Kenshin: Meiji kenkaku roman tan (Japan, 2012). Dirigido por Keishi Ohtomo. Escrito por Nobuhiro Watsuki, Kiyomi Fujii, Keishi Ohtomo. Com Takeru Satô, Emi Takei, Yû Aoi, Teruyuki Kagawa, Yôsuke Eguchi, Munetaka Aoki, Taketo Tanaka, Kôji Kikkawa."

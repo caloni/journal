@@ -1,7 +1,7 @@
 ---
 imdb: "1649419"
 date: "2013-01-07"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Impossível"
 stars: "4/5"
 desc: "O Impossível. Lo imposible (Spain, 2012). Dirigido por J.A. Bayona. Escrito por Sergio G. Sánchez, María Belón. Com Naomi Watts, Ewan McGregor, Tom Holland, Samuel Joslin, Oaklee Pendergast, Marta Etura, Sönke Möhring, Geraldine Chaplin, Ploy Jindachote."

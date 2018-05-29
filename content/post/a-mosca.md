@@ -2,7 +2,7 @@
 tags: ['netflix']
 imdb: "0091064"
 date: 2017-11-27T19:26:57
-categories: "movies"
+categories: [ "movies" ]
 title: "A Mosca"
 stars: "4/5"
 desc: "A Mosca. The Fly (USA, 1986). Dirigido por David Cronenberg. Escrito por George Langelaan, Charles Edward Pogue, David Cronenberg. Com Jeff Goldblum (Seth Brundle), Geena Davis (Veronica Quaife), John Getz (Stathis Borans), Joy Boushel (Tawny), Leslie Carlson (Dr. Brent Cheevers), George Chuvalo (Marky), Michael Copeman (2nd Man in Bar), David Cronenberg (Gynecologist), Carol Lazare (Nurse)."

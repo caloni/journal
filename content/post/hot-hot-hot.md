@@ -1,7 +1,7 @@
 ---
 imdb: "1665412"
 date: "2012-11-02"
-categories: "movies"
+categories: [ "movies" ]
 title: "Hot Hot Hot"
 stars: "4/5"
 desc: "Hot Hot Hot. Hot Hot Hot (Luxembourg, 2011). Dirigido por Beryl Koltz. Escrito por Beryl Koltz. Com Rob Stanley, Joanna Scanlan, Gary Cady, Amber Doyle, Angela Bain, Wendy Kweh, Jane Goddard, Bentley Kalu, Leila Schaus."

@@ -1,7 +1,7 @@
 ---
 imdb: "2209764"
 date: "2014-10-23"
-categories: "movies"
+categories: [ "movies" ]
 title: "Transcendence: A Revolução"
 stars: "4/5"
 desc: "Transcendence: A Revolução. Transcendence (UK, 2014). Dirigido por Wally Pfister. Escrito por Jack Paglen. Com Johnny Depp, Rebecca Hall, Paul Bettany, Cillian Murphy, Kate Mara, Cole Hauser, Morgan Freeman, Clifton Collins Jr., Cory Hardrict."

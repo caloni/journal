@@ -1,7 +1,7 @@
 ---
 imdb: "2322441"
 date: "2015-02-28"
-categories: "movies"
+categories: [ "movies" ]
 title: "Cinquenta Tons de Cinza"
 stars: "2/5"
 desc: "Cinquenta Tons de Cinza. Fifty Shades of Grey (USA, 2015). Dirigido por Sam Taylor-Johnson. Escrito por Kelly Marcel, E.L. James. Com Dakota Johnson, Jamie Dornan, Jennifer Ehle, Eloise Mumford, Victor Rasuk, Luke Grimes, Marcia Gay Harden, Rita Ora, Max Martini."

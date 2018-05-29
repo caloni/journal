@@ -1,7 +1,7 @@
 ---
 imdb: "2141773"
 date: "2016-03-13"
-categories: "movies"
+categories: [ "movies" ]
 title: "Hell and Back"
 stars: "1/5"
 desc: "Hell and Back. Hell and Back (USA, 2015). Dirigido por Tom Gianas, Ross Shuman. Escrito por Tom Gianas, Hugh Sterbakov, Zeb Wells. Com Nick Swardson, Mila Kunis, Bob Odenkirk, T.J. Miller, Rob Riggle, Susan Sarandon, Danny McBride, Maria Bamford, Lance Bass."

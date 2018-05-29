@@ -2,7 +2,7 @@
 tags: ['paulocoelho']
 imdb: "1126590"
 date: "2017-05-02"
-categories: "movies"
+categories: [ "movies" ]
 title: "Grandes Olhos"
 stars: "3/5"
 desc: "Grandes Olhos. Big Eyes (USA, 2014). Dirigido por Tim Burton. Escrito por Scott Alexander, Larry Karaszewski. Com Amy Adams (Margaret Keane), Christoph Waltz (Walter Keane), Danny Huston (Dick Nolan), Krysten Ritter (DeeAnn), Jason Schwartzman (Ruben), Terence Stamp (John Canaday), Jon Polito (Enrico Banducci), Delaney Raye (Young Jane), Madeleine Arthur (Older Jane)."

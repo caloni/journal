@@ -3,7 +3,7 @@ tags: ['cabine']
 cinemaqui: "http://www.cinemaqui.com.br/insubstituivel/"
 imdb: "5078326"
 date: "2017-02-24"
-categories: "movies"
+categories: [ "movies" ]
 title: "Insubstituível"
 stars: "3/5"
 desc: "Insubstituível. Médecin de campagne (France, 2016). Dirigido por Thomas Lilti. Escrito por Thomas Lilti, Baya Kasmi, Khalladi Shérazade. Com François Cluzet (Jean-Pierre Werner), Marianne Denicourt (Nathalie Delezia), Christophe Odent (Norès), Patrick Descamps (Francis Maroini), Guy Faucher (Monsieur Sorlin), Margaux Fabre (Ninon), Julien Lucas (Le fiancé de Ninon), Yohann Goetzmann (Alexis), Josée Laprun (La mère d'Alexis)."

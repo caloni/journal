@@ -1,7 +1,7 @@
 ---
 imdb: "0280760"
 date: "2015-09-10"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Estranha Famíllia de Igby"
 stars: "4/5"
 desc: "A Estranha Famíllia de Igby. Igby Goes Down (USA, 2002). Dirigido por Burr Steers. Escrito por Burr Steers. Com Kieran Culkin, Claire Danes, Jeff Goldblum, Jared Harris, Amanda Peet, Ryan Phillippe, Bill Pullman, Susan Sarandon, Rory Culkin."

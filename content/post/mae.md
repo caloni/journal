@@ -2,7 +2,7 @@
 tags: ['cabine']
 imdb: "5109784"
 date: 2017-09-15T19:03:03
-categories: "movies"
+categories: [ "movies" ]
 title: "Mãe!"
 stars: "5/5"
 desc: "Mãe!. Mother! (USA, 2017). Dirigido por Darren Aronofsky. Escrito por Darren Aronofsky. Com Jennifer Lawrence (Mother), Javier Bardem (Him), Ed Harris (Man), Michelle Pfeiffer (Woman), Brian Gleeson (Younger Brother), Domhnall Gleeson (Oldest Son), Jovan Adepo (Cupbearer), Amanda Chiu (Damsel), Patricia Summersett (Consoler)."

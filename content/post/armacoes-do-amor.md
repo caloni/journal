@@ -1,7 +1,7 @@
 ---
 imdb: "0427229"
 date: "2014-06-12"
-categories: "movies"
+categories: [ "movies" ]
 title: "Armações do Amor"
 stars: "3/5"
 desc: "Armações do Amor. Failure to Launch (USA, 2006). Dirigido por Tom Dey. Escrito por Tom J. Astle, Matt Ember. Com Matthew McConaughey, Sarah Jessica Parker, Zooey Deschanel, Justin Bartha, Bradley Cooper, Terry Bradshaw, Kathy Bates, Tyrel Jackson Williams, Katheryn Winnick."

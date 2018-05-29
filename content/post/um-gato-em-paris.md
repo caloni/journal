@@ -1,7 +1,7 @@
 ---
 imdb: "1673702"
 date: "2011-06-12"
-categories: "movies"
+categories: [ "movies" ]
 title: "Um Gato em Paris"
 stars: "4/5"
 desc: "Um Gato em Paris. Une vie de chat (France, 2010). Dirigido por Jean-Loup Felicioli, Alain Gagnol. Escrito por Alain Gagnol, Jacques-Rémy Girerd, Alain Gagnol, Michael Sinterniklaas. Com Dominique Blanc, Bernadette Lafont, Bruno Salomone, Jean Benguigui, Oriane Zani, Bernard Bouillon, Jacques Ramade, Jean-Pierre Yvars, Patrick Ridremont."

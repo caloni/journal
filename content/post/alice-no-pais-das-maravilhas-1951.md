@@ -1,7 +1,7 @@
 ---
 imdb: "0043274"
 date: "2011-11-13"
-categories: "movies"
+categories: [ "movies" ]
 title: "Alice no País das Maravilhas"
 stars: "5/5"
 revision: [datetime.date(2013, 7, 10)]

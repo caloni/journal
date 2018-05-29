@@ -1,7 +1,7 @@
 ---
 imdb: "1189073"
 date: "2011-11-18"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Pele que Habito"
 stars: "5/5"
 desc: "A Pele que Habito. La piel que habito (Spain, 2011). Dirigido por Pedro Almodóvar. Escrito por Agustín Almodóvar, Pedro Almodóvar, Thierry Jonquet. Com Antonio Banderas, Elena Anaya, Marisa Paredes, Jan Cornet, Roberto Álamo, Eduard Fernández, José Luis Gómez, Blanca Suárez, Susi Sánchez."

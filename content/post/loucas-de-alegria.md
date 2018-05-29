@@ -2,7 +2,7 @@
 tags: ['cabine']
 imdb: "4621872"
 date: "2016-08-17"
-categories: "movies"
+categories: [ "movies" ]
 title: "Loucas de Alegria"
 stars: "5/5"
 desc: "Loucas de Alegria. La pazza gioia (Italy, 2016). Dirigido por Paolo Virzì. Escrito por Paolo Virzì, Paolo Virzì, Francesca Archibugi. Com Micaela Ramazzotti, Valeria Bruni Tedeschi, Valentina Carnelutti, Marco Messeri, Bob Messini, Roberto Rondelli, Anna Galiena, Tommaso Ragno, Sergio Albelli."

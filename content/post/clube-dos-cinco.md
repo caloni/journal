@@ -1,7 +1,7 @@
 ---
 imdb: "0088847"
 date: "2012-01-24"
-categories: "movies"
+categories: [ "movies" ]
 title: "Clube dos Cinco"
 stars: "5/5"
 desc: "Clube dos Cinco. The Breakfast Club (USA, 1985). Dirigido por John Hughes. Escrito por John Hughes. Com Emilio Estevez, Paul Gleason, Anthony Michael Hall, John Kapelos, Judd Nelson, Molly Ringwald, Ally Sheedy, Perry Crawford, Mary Christian."

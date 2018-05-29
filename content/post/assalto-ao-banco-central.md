@@ -1,7 +1,7 @@
 ---
 imdb: "1579223"
 date: "2011-08-23"
-categories: "movies"
+categories: [ "movies" ]
 title: "Assalto ao Banco Central"
 stars: "2/5"
 desc: "Assalto ao Banco Central. Assalto ao Banco Central (Brazil, 2011). Dirigido por Marcos Paulo. Escrito por Rene Belmonte, Lucio Manfredi, Tais Moreno. Com Milhem Cortaz, Eriberto Leão, Hermila Guedes, Lima Duarte, Giulia Gam, Tonico Pereira, Gero Camilo, Vinícius de Oliveira, Heitor Martinez Mello."

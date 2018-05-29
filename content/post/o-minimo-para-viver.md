@@ -2,7 +2,7 @@
 tags: ['netflix']
 imdb: "5541240"
 date: 2017-08-06T18:30:44
-categories: "movies"
+categories: [ "movies" ]
 title: "O Mínimo Para Viver"
 stars: "3/5"
 desc: "O Mínimo Para Viver. To the Bone (USA, 2017). Dirigido por Marti Noxon. Escrito por Marti Noxon. Com Rebekah Kennedy (Penny), Lily Collins (Ellen), Dana L. Wilson (Margo), Ziah Colon (Angel), Joanna Sanchez (Rosa), Liana Liberato (Kelly), Carrie Preston (Susan), Don O. Knowlton (Jack), Valerie Palincar (Mother)."

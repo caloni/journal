@@ -1,7 +1,7 @@
 ---
 imdb: "1307068"
 date: "2014-12-20"
-categories: "movies"
+categories: [ "movies" ]
 title: "Procura-se um Amigo para o Fim do Mundo"
 stars: "1/5"
 desc: "Procura-se um Amigo para o Fim do Mundo. Seeking a Friend for the End of the World (USA, 2012). Dirigido por Lorene Scafaria. Escrito por Lorene Scafaria. Com Brad Morris, Steve Carell, Nancy Carell, Mark Moses, Roger Aaron Brown, Rob Huebel, Trisha Gorman, Keira Knightley, Adam Brody."

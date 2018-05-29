@@ -2,7 +2,7 @@
 tags: ['breakingbad', 'series']
 imdb: "0903747"
 date: "2016-07-16"
-categories: "series"
+categories: [ "series" ]
 title: "Breaking Bad - Primeira Temporada"
 stars: "5/5"
 revision: [datetime.date(2016, 7, 17)]

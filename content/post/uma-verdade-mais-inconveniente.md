@@ -2,7 +2,7 @@
 tags: ['cabine', 'mostrasp']
 imdb: "6322922"
 date: 2017-10-20T21:47:12
-categories: "movies"
+categories: [ "movies" ]
 title: "Uma Verdade Mais Inconveniente"
 stars: "3/5"
 desc: "Uma Verdade Mais Inconveniente. An Inconvenient Sequel: Truth to Power (USA, 2017). Dirigido por Bonni Cohen, Jon Shenk. Escrito por Al Gore. Com Al Gore (Himself), George W. Bush (Himself), John Kerry (Himself), Marco Krapels (Himself), Angela Merkel (Herself), Barack Obama (Himself), Vladimir Putin (Himself), Donald J. Trump (Himself), Tom Rielly (Himself)."

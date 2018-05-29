@@ -1,7 +1,7 @@
 ---
 imdb: "0048356"
 date: "2012-03-06"
-categories: "movies"
+categories: [ "movies" ]
 title: "Marty"
 stars: "5/5"
 desc: "Marty. Marty (USA, 1955). Dirigido por Delbert Mann. Escrito por Paddy Chayefsky. Com Esther Minciotti, Augusta Ciolli, Joe Mantell, Karen Steele, Jerry Paris, Betsy Blair, Ernest Borgnine, James Bell, Joe Bell."

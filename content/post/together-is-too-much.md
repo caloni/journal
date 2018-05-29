@@ -1,7 +1,7 @@
 ---
 imdb: "1570577"
 date: "2014-02-01"
-categories: "movies"
+categories: [ "movies" ]
 title: "Together Is Too Much"
 stars: "3/5"
 desc: "Together Is Too Much. Ensemble, c'est trop (France, 2010). Dirigido por Léa Fazer. Escrito por Léa Fazer. Com Nathalie Baye, Pierre Arditi, Jocelyn Quivrin, Aïssa Maïga, Jacques Weber, Eric Cantona, Laurent Lafitte, Olivia Côte, Françoise Bertin."

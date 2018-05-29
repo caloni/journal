@@ -1,7 +1,7 @@
 ---
 imdb: "0289879"
 date: "2015-06-13"
-categories: "movies"
+categories: [ "movies" ]
 title: "Efeito Borboleta"
 stars: "4/5"
 desc: "Efeito Borboleta. The Butterfly Effect (USA, 2004). Dirigido por Eric Bress, J. Mackye Gruber. Escrito por J. Mackye Gruber, Eric Bress. Com Ashton Kutcher, Melora Walters, Amy Smart, Elden Henson, William Lee Scott, John Patrick Amedori, Irina Gorovaia, Kevin G. Schmidt, Jesse James."

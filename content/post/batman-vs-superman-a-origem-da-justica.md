@@ -2,7 +2,7 @@
 tags: ['cinema', 'dceu']
 imdb: "2975590"
 date: "2016-04-02"
-categories: "movies"
+categories: [ "movies" ]
 title: "Batman vs Superman: A Origem da Justiça"
 stars: "3/5"
 desc: "Batman vs Superman: A Origem da Justiça. Batman v Superman: Dawn of Justice (USA, 2016). Dirigido por Zack Snyder. Escrito por Chris Terrio, David S. Goyer, Bob Kane, Bill Finger, Jerry Siegel, Joe Shuster. Com Ben Affleck, Henry Cavill, Amy Adams, Jesse Eisenberg, Diane Lane, Laurence Fishburne, Jeremy Irons, Holly Hunter, Gal Gadot."

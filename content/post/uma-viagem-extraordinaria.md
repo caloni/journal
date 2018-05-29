@@ -1,7 +1,7 @@
 ---
 imdb: "1981107"
 date: "2014-12-01"
-categories: "movies"
+categories: [ "movies" ]
 title: "Uma Viagem Extraordinária"
 stars: "3/5"
 desc: "Uma Viagem Extraordinária. The Young and Prodigious T.S. Spivet (France, 2013). Dirigido por Jean-Pierre Jeunet. Escrito por Jean-Pierre Jeunet, Guillaume Laurant, Guillaume Laurant, Reif Larsen. Com Kyle Catlett, Helena Bonham Carter, Judy Davis, Callum Keith Rennie, Niamh Wilson, Jakob Davies, Rick Mercer, Dominique Pinon, Julian Richings."

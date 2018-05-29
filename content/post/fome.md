@@ -2,7 +2,7 @@
 tags: ['cabine']
 imdb: "5142532"
 date: "2016-07-28"
-categories: "movies"
+categories: [ "movies" ]
 title: "Fome"
 stars: "3/5"
 desc: "Fome. Hunger (Brazil, 2015). Dirigido por Cristiano Burlan. Escrito por Jean-Claude Bernardet, Cristiano Burlan, Ana Carolina Marinho, Henrique Zanoni. Com Henrique Zanoni, Ana Carolina Marinho, Jean-Claude Bernardet."

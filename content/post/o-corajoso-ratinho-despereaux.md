@@ -1,7 +1,7 @@
 ---
 imdb: "0420238"
 date: "2012-02-20"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Corajoso Ratinho Despereaux"
 stars: "3/5"
 desc: "O Corajoso Ratinho Despereaux. The Tale of Despereaux (UK, 2008). Dirigido por Sam Fell, Robert Stevenhagen. Escrito por Kate DiCamillo, Will McRobb, Gary Ross, Chris Viscardi. Com Matthew Broderick, Dustin Hoffman, Emma Watson, Tracey Ullman, Kevin Kline, William H. Macy, Stanley Tucci, Ciarán Hinds, Robbie Coltrane."

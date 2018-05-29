@@ -1,7 +1,7 @@
 ---
 imdb: "2788710"
 date: "2015-01-18"
-categories: "movies"
+categories: [ "movies" ]
 title: "A Entrevista"
 stars: "2/5"
 desc: "A Entrevista. The Interview (USA, 2014). Dirigido por Evan Goldberg, Seth Rogen. Escrito por Dan Sterling, Seth Rogen, Evan Goldberg, Dan Sterling. Com James Franco, Seth Rogen, Lizzy Caplan, Randall Park, Diana Bang, Timothy Simons, Reese Alexander, James Yi, Paul Bae."

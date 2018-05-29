@@ -1,7 +1,7 @@
 ---
 imdb: "1039651"
 date: "2010-12-24"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Mundo Encantado de Gigi"
 stars: "2/5"
 desc: "O Mundo Encantado de Gigi. Yonayona pengin (Japan, 2009). Dirigido por Rintaro. Escrito por Tomoko Konparu. Com Féodor Atkine, Jeanne Savary, Rica Matsumoto, Ludmila Ruoso, Michel Elias, Yves Barsacq, Cédric Dumond, Pierre Baton, Ei Morisako."

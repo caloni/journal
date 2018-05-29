@@ -2,7 +2,7 @@
 tags: ['cabine']
 imdb: "2667960"
 date: "2015-05-17"
-categories: "movies"
+categories: [ "movies" ]
 title: "Miss Julie"
 stars: "3/5"
 desc: "Miss Julie. Miss Julie (Norway, 2014). Dirigido por Liv Ullmann. Escrito por August Strindberg, Liv Ullmann. Com Jessica Chastain, Colin Farrell, Samantha Morton, Nora McMenamy."

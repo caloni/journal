@@ -1,7 +1,7 @@
 ---
 imdb: "2076220"
 date: "2014-05-15"
-categories: "movies"
+categories: [ "movies" ]
 title: "Holy Motors"
 stars: "5/5"
 desc: "Holy Motors. Holy Motors (France, 2012). Dirigido por Leos Carax. Escrito por Leos Carax. Com Denis Lavant, Edith Scob, Eva Mendes, Kylie Minogue, Elise Lhomeau, Jeanne Disson, Michel Piccoli, Leos Carax, Nastya Golubeva Carax."

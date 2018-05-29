@@ -1,7 +1,7 @@
 ---
 imdb: "0064116"
 date: "2012-10-31"
-categories: "movies"
+categories: [ "movies" ]
 title: "Era Uma Vez no Oeste"
 stars: "5/5"
 desc: "Era Uma Vez no Oeste. C'era una volta il West (Italy, 1968). Dirigido por Sergio Leone. Escrito por Sergio Leone, Sergio Donati, Dario Argento, Bernardo Bertolucci, Sergio Leone, Mickey Knox. Com Claudia Cardinale, Henry Fonda, Jason Robards, Charles Bronson, Gabriele Ferzetti, Paolo Stoppa, Woody Strode, Jack Elam, Keenan Wynn."

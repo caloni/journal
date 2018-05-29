@@ -1,7 +1,7 @@
 ---
 imdb: "1602098"
 date: "2016-03-27"
-categories: "movies"
+categories: [ "movies" ]
 title: "Albert Nobbs"
 stars: "4/5"
 desc: "Albert Nobbs. Albert Nobbs (UK, 2011). Dirigido por Rodrigo García. Escrito por Gabriella Prekop, John Banville, Glenn Close, George Moore, István Szabó. Com Glenn Close, Antonia Campbell-Hughes, Mia Wasikowska, Pauline Collins, Maria Doyle Kennedy, Mark Williams, James Greene, Serena Brabazon, Michael McElhatton."

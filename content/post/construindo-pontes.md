@@ -1,7 +1,7 @@
 ---
 date: 2018-03-28T19:14:05-03:00
 title: "Construindo Pontes"
-categories: "movies"
+categories: [ "movies" ]
 imdb: "7368464"
 stars: "3/5"
 desc: "Construindo Pontes (Brasil, 2017), escrito por Stefanie Kremser, Heloísa Passos, Letícia Simões, dirigido por Heloísa Passos."

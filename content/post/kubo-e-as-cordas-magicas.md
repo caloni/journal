@@ -2,7 +2,7 @@
 tags: ['paulocoelho', 'oscar']
 imdb: "4302938"
 date: "2016-12-03"
-categories: "movies"
+categories: [ "movies" ]
 title: "Kubo e as Cordas Mágicas"
 stars: "4/5"
 desc: "Kubo e as Cordas Mágicas. Kubo and the Two Strings (USA, 2016). Dirigido por Travis Knight. Escrito por Marc Haimes, Chris Butler, Shannon Tindle. Com Charlize Theron (Monkey), Art Parkinson (Kubo), Ralph Fiennes (Moon King), George Takei (Hosato), Cary-Hiroyuki Tagawa (Hashi), Brenda Vaccaro (Kameyo), Rooney Mara (The Sisters), Matthew McConaughey (Beetle), Meyrick Murphy (Mari)."

@@ -2,7 +2,7 @@
 tags: ['curtas']
 imdb: "1522238"
 date: "2011-11-03"
-categories: "blog"
+categories: [ "blog" ]
 title: "Pedaço de Papel"
 stars: "3/5"
 desc: "Pedaço de Papel. Pedaço de Papel (Brazil, 2010). Dirigido por Cesar Raphael. Escrito por Cesar Raphael. Com Jeferson Alves, Maria Mourão, Cesar Raphael, Carlos Magno Ribeiro, Paulo Udi, Harley Winter."

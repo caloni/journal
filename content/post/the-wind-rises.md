@@ -1,7 +1,7 @@
 ---
 imdb: "2013293"
 date: "2013-10-28"
-categories: "movies"
+categories: [ "movies" ]
 title: "O Vento Está Soprando"
 stars: "4/5"
 desc: "O Vento Está Soprando. Kaze tachinu (Japan, 2013). Dirigido por Hayao Miyazaki. Escrito por Hayao Miyazaki, Hayao Miyazaki, Mike Jones. Com Hideaki Anno, Hidetoshi Nishijima, Miori Takimoto, Masahiko Nishimura, Mansai Nomura, Jun Kunimura, Mirai Shida, Shinobu Ôtake, Morio Kazama."
