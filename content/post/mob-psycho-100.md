@@ -4,7 +4,7 @@ title: "Mob Psycho 100 tem síndrome de Death Note: a primeira metade é foda e 
 categories: [ "movies" ]
 imdb: "5897304"
 stars: "3/5"
-desc: "Mob Psycho 100"
+desc: "Mob Psycho 100. Teleplay por Kei Kunii e Reiko Yoshida baseados no mangá de One. Com Tatsuomi Hamada, Atsushi Arai, Masayuki Deai."
 ---
 Mob Psycho 100 sofre do mesmo problema de Death Note: a primeira metade é fascinante e a segunda metade é quase insuportável. Isso porque a grande sacada da série -- um paranormal super-poderoso que tem ambições onde o seu poder é inútil -- se trai totalmente em um momento onde seu irmão é envolvido na trama principal e todos os valores do protagonista são automaticamente descartados apenas por capricho de um roteiro que pega uma excelente ideia e transforma em mais uma daquelas aventuras com pessoas poderosas que falam demais. Não que você não tivesse visto isso antes em qualquer outro anime do passado.
 
