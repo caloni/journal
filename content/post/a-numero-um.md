@@ -1,5 +1,5 @@
 ---
-cabine: "cinemaqui"
+tags: [ 'cabine' ]
 imdb: "6741568"
 stars: "3/5"
 title: "A Número Um"

@@ -1,5 +1,5 @@
 ---
-cabine: "cinemaqui"
+tags: [ 'cabine' ]
 imdb: "4157844"
 stars: "3/5"
 title: "Torquato Neto - Todas as horas do fim"
