@@ -1,5 +1,6 @@
 ---
 tags: ['cabine']
+cabine: "cinemaqui"
 cinemaqui: "http://www.cinemaqui.com.br/o-mundo-fora-do-lugar/"
 imdb: "3790172"
 date: "2017-03-28"

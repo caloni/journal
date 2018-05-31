@@ -1,5 +1,6 @@
 ---
 tags: ['cabine']
+cabine: "cinemaqui"
 cinemaqui: "http://www.cinemaqui.com.br/o-ornitologo/"
 imdb: "4929038"
 date: "2017-03-22"

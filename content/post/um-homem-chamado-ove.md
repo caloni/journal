@@ -1,5 +1,6 @@
 ---
 tags: ['cabine', 'oscar']
+cabine: "cinemaqui"
 cinemaqui: "http://www.cinemaqui.com.br/um-homem-chamado-ove"
 imdb: "4080728"
 date: "2017-02-04"

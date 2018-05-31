@@ -1,5 +1,6 @@
 ---
 tags: ['cabine']
+cabine: "cinemaqui"
 imdb: "3068194"
 date: "2016-07-06"
 categories: [ "movies" ]

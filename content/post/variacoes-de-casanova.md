@@ -1,5 +1,6 @@
 ---
 tags: ['cabine']
+cabine: "cinemaqui"
 cinemaqui: "http://www.cinemaqui.com.br/variacoes-de-casanova/"
 imdb: "2614400"
 date: "2017-04-11"

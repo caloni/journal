@@ -1,5 +1,6 @@
 ---
 tags: ['cabine']
+cabine: "cinemaqui"
 cinemaqui: "http://www.cinemaqui.com.br/una/"
 imdb: "2315582"
 date: "2017-04-06"

@@ -1,5 +1,6 @@
 ---
 tags: ['netflix', 'cabine', 'oscar']
+cabine: "cinemaqui"
 cinemaqui: "http://www.cinemaqui.com.br/minha-vida-de-abobrinha/"
 imdb: "2321405"
 date: "2017-01-27"

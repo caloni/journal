@@ -1,5 +1,6 @@
 ---
 tags: ['cabine']
+cabine: "cinemaqui"
 cinemaqui: "http://www.cinemaqui.com.br/degrade/"
 imdb: "4429074"
 date: "2017-05-19"

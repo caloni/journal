@@ -1,5 +1,6 @@
 ---
 tags: ['cabine']
+cabine: "cinemaqui"
 cinemaqui: "http://www.cinemaqui.com.br/garota-ocidental-entre-o-coracao-e-tradicao"
 imdb: "5771640"
 date: "2017-06-21"

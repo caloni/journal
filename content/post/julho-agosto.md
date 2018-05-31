@@ -1,5 +1,6 @@
 ---
 tags: ['cabine']
+cabine: "cinemaqui"
 cinemaqui: "http://www.cinemaqui.com.br/julho-agosto/"
 imdb: "5078158"
 date: "2017-07-05"

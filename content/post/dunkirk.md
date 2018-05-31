@@ -1,5 +1,6 @@
 ---
 tags: ['cabine', '70mm']
+cabine: "cinemaqui"
 imdb: "5013056"
 date: 2017-07-25T11:23:01
 categories: [ "movies" ]

@@ -1,6 +1,7 @@
 ---
 title: "24 Frames"
 tags: ['cabine', 'mostrasp']
+cabine: "cinemaqui"
 imdb: "6777170"
 stars: "4/5"
 date: 2017-10-24T01:51:39

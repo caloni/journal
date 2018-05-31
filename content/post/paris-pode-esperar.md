@@ -1,5 +1,6 @@
 ---
 tags: ['cabine']
+cabine: "cinemaqui"
 cinemaqui: "http://www.cinemaqui.com.br/paris-pode-esperar/"
 imdb: "4429194"
 date: "2017-05-31"

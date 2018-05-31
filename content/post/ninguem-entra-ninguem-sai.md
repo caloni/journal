@@ -1,5 +1,6 @@
 ---
 tags: ['cabine']
+cabine: "cinemaqui"
 cinemaqui: "http://www.cinemaqui.com.br/ninguem-entra-ninguem-sai/"
 imdb: "6230488"
 date: "2017-04-18"

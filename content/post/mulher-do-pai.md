@@ -1,5 +1,6 @@
 ---
 tags: ['cabine']
+cabine: "cinemaqui"
 cinemaqui: "http://www.cinemaqui.com.br/mulher-do-pai/"
 imdb: "6032376"
 date: "2017-06-13"

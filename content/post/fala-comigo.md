@@ -1,5 +1,6 @@
 ---
 tags: ['cabine']
+cabine: "cinemaqui"
 cinemaqui: "http://www.cinemaqui.com.br/fala-comigo/"
 imdb: "5657776"
 date: "2017-07-04"
