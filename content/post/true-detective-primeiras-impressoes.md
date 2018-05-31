@@ -2,7 +2,7 @@
 tags: ['truedetective', 'paulocoelho']
 imdb: "2356777"
 date: 2017-10-29T18:28:42
-categories: [ "blog" ]
+categories: [ "series" ]
 title: "True Detective: Primeiras Impressões do Piloto"
 stars: "5/5"
 desc: "True Detective: Primeiras Impressões do Piloto. True Detective (USA, 2014). Dirigido por Cary Fukunaga, John Crowley, Justin Lin. Escrito por Nic Pizzolatto, Scott Lasser. Com Matthew McConaughey (Detective Rust Cohle), Colin Farrell (Detective Ray Velcoro), Woody Harrelson (Detective Marty Hart), Rachel McAdams (Detective Ani Bezzerides), Michelle Monaghan (Maggie Hart), Taylor Kitsch (Officer Paul Woodrugh), Michael Potts (Detective Maynard Gilbough), Kelly Reilly (Jordan Semyon), Tory Kittles (Detective Thomas Papania)."

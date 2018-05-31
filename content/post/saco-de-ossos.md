@@ -2,7 +2,7 @@
 tags: ['netflix', 'series']
 imdb: "1212452"
 date: "2014-02-22"
-categories: [ "blog" ]
+categories: [ "series" ]
 title: "Saco de Ossos"
 stars: "4/5"
 desc: "Saco de Ossos. Bag of Bones (USA, 2011). Dirigido por Mick Garris. Escrito por Stephen King, Matt Venne. Com Pierce Brosnan, Melissa George, Annabeth Gish, Anika Noni Rose, Matt Frewer, Jason Priestley, Caitlin Carmichael, Peter MacNeill, William Schallert."

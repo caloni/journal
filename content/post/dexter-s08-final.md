@@ -2,7 +2,7 @@
 tags: ['dexter', 'series']
 imdb: "0773262"
 date: "2014-11-09"
-categories: [ "blog" ]
+categories: [ "series" ]
 title: "Dexter - O Final"
 stars: "2/5"
 desc: "Dexter - O Final. Dexter (USA, 2006). Dirigido por John Dahl, Steve Shill, Keith Gordon, Marcos Siega, Ernest R. Dickerson, Romeo Tirone, Michael Cuesta, Tony Goldwyn, S.J. Clarkson. Escrito por Jeff Lindsay, James Manos Jr., Scott Buck, Tim Schlattmann, Lauren Gussis, Karen Campbell, Jennifer Yale, Melissa Rosenberg, Scott Reynolds. Com Michael C. Hall, Jennifer Carpenter, David Zayas, James Remar, C.S. Lee, Bruce Holman, Lauren Vélez, Desmond Harrington, Julie Benz."

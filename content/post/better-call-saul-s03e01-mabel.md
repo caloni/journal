@@ -2,7 +2,7 @@
 tags: ['netflix', 'bettercallsaul', 'series']
 imdb: "5554490"
 date: "2017-04-16"
-categories: [ "blog" ]
+categories: [ "series" ]
 title: "Better Call Saul - Terceira Temporada, Episódio 1: Mabel"
 stars: "5/5"
 desc: "Better Call Saul - Terceira Temporada, Episódio 1: Mabel. Dirigido por Vince Gilligan. Escrito por Vince Gilligan, Peter Gould. Com Bob Odenkirk (Jimmy McGill), Jonathan Banks (Mike Ehrmantraut), Rhea Seehorn (Kim Wexler), Patrick Fabian (Howard Hamlin), Michael Mando (Nacho Varga), Michael McKean (Chuck McGill), Cara Pifko (Paige Novick), Brendan Fehr (Captain Bauer), Joe DeRosa (Veterinarian)."

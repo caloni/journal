@@ -2,7 +2,7 @@
 tags: ['netflix', 'series']
 imdb: "2741602"
 date: "2016-05-20"
-categories: [ "blog" ]
+categories: [ "series" ]
 title: "Blacklist (piloto)"
 stars: "3/5"
 desc: "Blacklist (piloto). The Blacklist (USA, 2013). Dirigido por Michael W. Watkins, Steven A. Adelson, Andrew McCarthy, Karen Gaviola, Joe Carnahan, Donald E. Thorin Jr., Vincent Misiano, David Platt, Paul A. Edwards. Escrito por Jon Bokenkamp, Brandon Margolis, Brandon Sonnier, Amanda Kate Shuman, Brian Studler, Lukas Reiter, J.R. Orci, John Eisendrath, Daniel Knauf. Com James Spader, Megan Boone, Diego Klattenhoff, Harry Lennix, Hisham Tawfiq, Ryan Eggold, Amir Arison, Mozhan Marnò."

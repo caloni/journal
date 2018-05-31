@@ -2,7 +2,7 @@
 tags: ['netflix', 'blackmirror', 'series']
 imdb: "5497778"
 date: "2016-10-23"
-categories: [ "blog" ]
+categories: [ "series" ]
 title: "Black Mirror - Terceira Temporada, Episódio 1: Nosedive"
 stars: "5/5"
 desc: "Black Mirror - Terceira Temporada, Episódio 1: Nosedive. Dirigido por Joe Wright. Escrito por Charlie Brooker, Rashida Jones, Rashida Jones, Michael Schur, Michael Schur. Com Bryce Dallas Howard (Lacie), Alice Eve (Naomie), Nambitha Ben-Wazi (Glam Woman), Michaela Coel (Airport Stewardess), Jeffrey Davenport (Cab Driver), Sope Dirisu (Man in Jail), Clayton Evertson (Ted), Demetri Goritsas (Lacie's Reputelligent Agent), Daisy Haggard (Bets)."

@@ -1,7 +1,7 @@
 ---
 date: 2018-02-27T22:44:51
 imdb: "6468322"
-categories: [ "blog" ]
+categories: [ "series" ]
 stars: "2/5"
 title: "La Casa De Papel: Temporada 1, Episódios 1 e 2"
 desc: "La Casa De Papel: Temporada 1, Episódios 1 e 2."

@@ -1,7 +1,7 @@
 ---
 imdb: "4574334"
 date: "2016-08-04"
-categories: [ "blog" ]
+categories: [ "series" ]
 title: "Stranger Things (e a irrelevância da bilheteria Netflixiana)"
 stars: "3/5"
 desc: "Stranger Things (e a irrelevância da bilheteria Netflixiana). Stranger Things (USA, 2016). Dirigido por Matt Duffer, Ross Duffer, Shawn Levy. Escrito por Matt Duffer, Ross Duffer, Justin Doble. Com Winona Ryder, David Harbour, Finn Wolfhard, Millie Bobby Brown, Gaten Matarazzo, Caleb McLaughlin, Natalia Dyer, Charlie Heaton, Cara Buono."

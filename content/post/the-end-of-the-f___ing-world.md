@@ -1,7 +1,7 @@
 ---
 date: 2018-02-06T20:52:37
 imdb: "6257970"
-categories: [ "blog" ]
+categories: [ "series" ]
 stars: "3/5"
 title: "The End Of The F***ing World: Primeira Temporada, Eps 1-3"
 desc: "The End Of The F***ing World: Primeira Temporada, Eps 1-3."

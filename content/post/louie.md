@@ -2,7 +2,7 @@
 tags: ['series']
 imdb: "1492966"
 date: "2015-07-28"
-categories: [ "blog" ]
+categories: [ "series" ]
 title: "Louie"
 stars: "5/5"
 desc: "Louie. Louie (USA, 2010). Dirigido por Louis C.K.. Escrito por Louis C.K., Pamela Adlon. Com Louis C.K., Hadley Delany, Ursula Parker."

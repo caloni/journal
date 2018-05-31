@@ -2,7 +2,7 @@
 tags: ['netflix', 'blackmirror', 'series']
 imdb: "5709242"
 date: "2016-10-25"
-categories: [ "blog" ]
+categories: [ "series" ]
 title: "Black Mirror - Terceira Temporada, Episódio 2: Playtest"
 stars: "3/5"
 desc: "Black Mirror - Terceira Temporada, Episódio 2: Playtest. Dirigido por Dan Trachtenberg. Escrito por Charlie Brooker. Com Wyatt Russell (Cooper), Hannah John-Kamen (Sonja), Wunmi Mosaku (Katie), Ken Yamamura (Shou Saito), Elizabeth Moynihan (Cooper's Mum), Jamie Paul (Josh Peters), Jessica Nell (Scared Girl on Plane), Jade Clarke (Pub Local), Deborah Rock (Airline Passenger)."

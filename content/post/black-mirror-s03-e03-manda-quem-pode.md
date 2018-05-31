@@ -2,7 +2,7 @@
 tags: ['netflix', 'blackmirror', 'series']
 imdb: "5709230"
 date: "2016-10-28"
-categories: [ "blog" ]
+categories: [ "series" ]
 title: "Black Mirror - Terceira Temporada, Episódio 3: Manda Quem Pode"
 stars: "4/5"
 desc: "Black Mirror - Terceira Temporada, Episódio 3: Manda Quem Pode. Dirigido por James Watkins. Escrito por William Bridges, Charlie Brooker. Com Alex Lawther (Kenny), Jerome Flynn (Hector), Susannah Doyle (Blackmailed Woman), Frankie Wilson (Tom), Jimmy Roye-Dunne (Red), Hannah Steele (Melissa), Sarah Beck Mather (Restaurant Mother), Beatrice Robertson-Jones (Restaurant Daughter), Maya Gerber (Lindsay)."

@@ -2,7 +2,7 @@
 tags: ['netflix', 'series']
 imdb: "4613520"
 date: "2017-04-16"
-categories: [ "blog" ]
+categories: [ "series" ]
 title: "The Sound of Your Heart - Primeira Temporada"
 stars: "3/5"
 desc: "The Sound of Your Heart - Primeira Temporada. Maeumui sori (South Korea, 2016). Dirigido por Byung-Hoon Ha. Escrito por Byung-Hoon Lee. Com Kwang Soo Lee (Cho Seok), Dae-Myung Kim (Cho Jun), So-Min Jung (Ae-bong), Byeong-ok Kim (Cho Cheol-wang), Mi-kyung Kim (Kwon Jeong-kwon)."

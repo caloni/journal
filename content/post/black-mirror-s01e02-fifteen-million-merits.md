@@ -2,7 +2,7 @@
 tags: ['netflix', 'blackmirror', 'series']
 imdb: "2085059"
 date: "2015-12-13"
-categories: [ "blog" ]
+categories: [ "series" ]
 title: "Black Mirror - Fifteen Million Merits"
 stars: "5/5"
 desc: "Black Mirror - Fifteen Million Merits. Black Mirror (UK, 2011). Dirigido por Carl Tibbetts. Escrito por Charlie Brooker. Com Bryony Neylan-Francis, Shawn Aldin-Burnett."

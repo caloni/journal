@@ -2,7 +2,7 @@
 tags: ['ahs', 'series']
 imdb: "1844624"
 date: 2015-11-28
-categories: [ "blog" ]
+categories: [ "series" ]
 title: "História de Horror Americana - Coven"
 stars: "3/5"
 desc: "História de Horror Americana - Coven. American Horror Story (USA, 2011). Dirigido por Alfonso Gomez-Rejon, Bradley Buecker, Michael Uppendahl, Michael Lehmann, David Semel, Howard Deutch, Ryan Murphy, Jeremy Podeswa, Michael Rymer. Escrito por Brad Falchuk, Ryan Murphy, Jennifer Salt, Jessica Sharzer, Tim Minear, James Wong, Crystal Liu, John J. Gray, Todd Kubrak. Com Evan Peters, Jessica Lange, Sarah Paulson, Frances Conroy, Denis O'Hare, Lily Rabe, Emma Roberts, Kathy Bates, Taissa Farmiga."

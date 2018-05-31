@@ -2,7 +2,7 @@
 tags: ['netflix', 'sense8', 'series']
 imdb: "2431438"
 date: "2017-07-01"
-categories: [ "blog" ]
+categories: [ "series" ]
 title: "Sense8 - Segunda Temporada"
 stars: "4/5"
 desc: "Sense8 - Segunda Temporada. Sense8 (USA, 2015). Dirigido por Lana Wachowski, Lilly Wachowski, James McTeigue, Tom Tykwer, Dan Glass. Escrito por J. Michael Straczynski, Lana Wachowski, Lilly Wachowski. Com Doona Bae (Sun Bak), Jamie Clayton (Nomi Marks), Tina Desai (Kala Dandekar), Tuppence Middleton (Riley Blue), Max Riemelt (Wolfgang Bogdanow), Miguel Ángel Silvestre (Lito Rodriguez), Brian J. Smith (Will Gorski), Freema Agyeman (Amanita Caplan), Daryl Hannah (Angelica Turing)."

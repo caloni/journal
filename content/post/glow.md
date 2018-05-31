@@ -2,7 +2,7 @@
 tags: ['netflix', 'series']
 imdb: "5770786"
 date: 2017-07-31T20:21:24
-categories: [ "blog" ]
+categories: [ "series" ]
 title: "Glow"
 stars: "3/5"
 desc: "Glow. GLOW (USA, 2017). Dirigido por Jesse Peretz. Escrito por Kristoffer Diaz, Liz Flahive, Carly Mensch, Emma Rathbone, Rachel Shukert, Nick Jones. Com Alison Brie (Ruth Wilder), Betty Gilpin (Debbie Eagan), Sydelle Noel (Cherry Bang), Britney Young (Carmen Wade), Marc Maron (Sam Sylvia), Britt Baron (Justine Biagi), Kimmy Gatewood (Stacey Beswick), Rebekka Johnson (Dawn Rivecca), Sunita Mani (Arthie Premkumar)."

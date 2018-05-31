@@ -2,7 +2,7 @@
 tags: ['netflix', 'series']
 imdb: "3190448"
 date: "2015-03-03"
-categories: [ "blog" ]
+categories: [ "series" ]
 title: "Metástasis (piloto)"
 stars: "4/5"
 desc: "Metástasis (piloto). Metástasis (Colombia, 2014). Dirigido por Andrés Baiz, Andrés Biermann. Escrito por Vince Gilligan, Lina Maria Arboleda, Andrés Burgos, Peter Gould. Com Diego Trujillo, Roberto Urbina, Sandra Reyes, Constanza Camelo, Diego Garzon Flores, Julián Arango, Julio Pachón."

@@ -2,7 +2,7 @@
 tags: ['netflix', 'series']
 imdb: "3322314"
 date: "2016-10-17"
-categories: [ "blog" ]
+categories: [ "series" ]
 title: "Luke Cage"
 stars: "3/5"
 desc: "Luke Cage. Luke Cage (piloto) (USA, 2016). Dirigido por Paul McGuigan. Escrito por Cheo Hodari Coker, Archie Goodwin, John Romita Jr., Roy Thomas, George Tuska, Akela Cooper, Aïda Mashaka Croal, Jason Horwitch, Charles Murray. Com Mike Colter (Luke Cage / ...), Simone Missick (Detective Mercedes 'Misty' Knight), Theo Rossi (Hernan 'Shades' Alvarez), Alfre Woodard (Mariah Dillard), Jaiden Kaine (Zip), Rosario Dawson (Claire Temple), Ron Cephas Jones (Bobby Fish), Erik LaRay Harvey (Willis 'Diamondback' Stryker), Karen Pittman (Inspector Priscilla Ridley)."

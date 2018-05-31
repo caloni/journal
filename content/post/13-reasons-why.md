@@ -2,7 +2,7 @@
 tags: ['netflix']
 imdb: "1837492"
 date: 2017-12-07T01:12:59
-categories: [ "blog" ]
+categories: [ "series" ]
 title: "13 Reasons Why"
 stars: "1/5"
 desc: "13 Reasons Why. 13 Reasons Why (USA, 2017). Dirigido por Gregg Araki, Kyle Patrick Alvarez, Carl Franklin, Tom McCarthy, Helen Shaver, Jessica Yu. Escrito por Jay Asher, Brian Yorkey, Nic Sheff, Thomas Higgins, Elizabeth Benjamin, Diana Son. Com Jesus N Jimenez (Student / ...), Ke'Mari Moore (Jock), Michele Selene Ang (Courtney Crimsen), Joseph C. Phillips (Mr. Davis), Alexander Gomez (Student / ...), Jeff Redlick (Pedestrian / ...), Dylan Minnette (Clay Jensen), Katherine Langford (Hannah Baker), Christian Navarro (Tony Padilla)."

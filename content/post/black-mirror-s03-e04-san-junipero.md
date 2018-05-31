@@ -2,7 +2,7 @@
 tags: ['netflix', 'blackmirror', 'series']
 imdb: "4538072"
 date: "2016-10-28"
-categories: [ "blog" ]
+categories: [ "series" ]
 title: "Black Mirror - Terceira Temporada, Episódio 4: San Junipero"
 stars: "5/5"
 desc: "Black Mirror - Terceira Temporada, Episódio 4: San Junipero. Dirigido por Owen Harris. Escrito por Charlie Brooker. Com Gugu Mbatha-Raw (Kelly), Mackenzie Davis (Yorkie), Denise Burse (Elder Kelly), Raymond McAnally (Greg), Gavin Stenhouse (Wes), Cheryl Anderson (Laura), Jackson Bews (Harvey), Annabel Davis (Elder Yorkie), Billy Griffin Jr. (Davis)."

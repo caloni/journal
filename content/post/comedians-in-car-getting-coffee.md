@@ -1,7 +1,7 @@
 ---
 date: 2018-02-23T14:42:28
 imdb: "2314952"
-categories: [ "blog" ]
+categories: [ "series" ]
 stars: "4/5"
 title: "Comedians In Car Getting Coffee"
 desc: "Comedians In Car Getting Coffee."

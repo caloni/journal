@@ -1,7 +1,7 @@
 ---
 date: 2018-05-20T13:07:43-03:00
 title: "Kakegurui é alegoria anti-capitalista e atrizes live action não são eróticas (Anime e Live Action)"
-categories: [ "blog" ]
+categories: [ "series" ]
 imdb: "7131720"
 stars: "3/5"
 desc: "Kakegurui. Japão, 2017. Mangá original escrito por Homura Kawamoto e ilustrado por Toru Naomura. Com Saori Hayami, Minami Tanaka, Tatsuya Tokutake. Live Action com Minami Hamabe, Aoi Morikawa."

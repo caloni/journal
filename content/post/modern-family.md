@@ -2,7 +2,7 @@
 tags: ['netflix', 'series']
 imdb: "1442437"
 date: "2016-08-04"
-categories: [ "blog" ]
+categories: [ "series" ]
 title: "Modern Family - Primeira Temporada, Episódios 1 ao 5"
 stars: "3/5"
 desc: "Modern Family - Primeira Temporada, Episódios 1 ao 5. Modern Family (USA, 2009). Dirigido por Gail Mancuso, Michael Alan Spiller, Jason Winer, Steven Levitan, Beth McCarthy-Miller, James R. Bagdonas, Chris Koch, James Alan Hensz, Fred Savage. Escrito por Steven Levitan, Christopher Lloyd, Paul Corrigan, Brad Walsh, Ryan Walls, Jeffrey Richman, Danny Zuker, Abraham Higginbotham, Elaine Ko. Com Ed O'Neill, Sofía Vergara, Julie Bowen, Ty Burrell, Jesse Tyler Ferguson, Eric Stonestreet, Rico Rodriguez, Nolan Gould, Sarah Hyland."

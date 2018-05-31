@@ -2,7 +2,7 @@
 tags: ['swordartonline', 'series', 'netflix']
 imdb: "2250192"
 date: "2014-04-16"
-categories: [ "blog" ]
+categories: [ "series" ]
 title: "Sword Art Online - Segunda Temporada"
 stars: "3/5"
 desc: "Sword Art Online - Segunda Temporada. Sword Art Online (Japan, 2012). Dirigido por Tomohiko Ito, Alex Von David, Pyeon-Gang Ho, Yoshiyuki Fujiwara, Yasuyuki Fuse, Makoto Hoshino, Shigetaka Ikeda, Takahiro Shikama, Tatsumi Fujii. Escrito por Reki Kawahara, Alex Von David, Yukito Kizawa, Yukie Sugawara, Yoshikazu Mukai, Munemasa Nakamoto, Shûji Iriyama, Naoki Shôji. Com Yoshitsugu Matsuoka, Bryce Papenbrook, Cherami Leigh, Haruka Tomatsu, Kanae Itô, Ayana Taketatsu."
