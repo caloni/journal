@@ -1,8 +1,7 @@
 ---
 date: {{ .Date }}
 title: "{{ replace .TranslationBaseName "-" " " | title }}"
-subtitle: ""
-desc: "{{ replace .TranslationBaseName "-" " " | title }}"
+desc: ""
 imdb: "0000000"
 categories: [ "movies" ]
 tags: [ "netflix", "cabine" ]
