@@ -4,7 +4,6 @@ date: "2014-06-07"
 categories: [ "movies" ]
 title: "Exit Through the Gift Shop"
 stars: "5/5"
-revision: ['2017-08-02']
 desc: "Exit Through the Gift Shop. Exit Through the Gift Shop (UK, 2010). Dirigido por Banksy. Com Banksy, Mr. Brainwash, Debora Guetta, Space Invader, Monsieur André, Zeus, Shepard Fairey, Ron English, Caledonia Curry."
 ---
 Exit Through the Gift Shop, ou "Saia Pela Loja de Souvenires" (alguém viu isso lançado no Brasil?), um dos indicados ao Oscar 2011 de melhor documentário, parece um documentário, e se assume como um. No entanto, seu terceiro ato é tão surreal, mas tão surreal, que surgiu a especulação de que o personagem cuja vida serviu de base para a história na realidade nunca existiu. Mais do que isso, a estrutura criada (supostamente) pelo diretor e artista de rua "Banksy"  que no próprio filme dá um depoimento com seu rosto censurado e sua voz transformada  é incrivelmente bem arquitetada, pois não faz o espectador se perder ao acompanhar o filme que conta a história do homem que queria fazer um filme sobre artistas de rua, incluindo o próprio Bansky.

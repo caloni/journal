@@ -1,6 +1,6 @@
 ---
 date: 2018-05-29T16:28:08-03:00
-title: "Turma do Peito é uma série Netflix que... o quê? Turma do Peito? What?"
+title: "Turma do Peito"
 categories: [ "series" ]
 tags: [ "netflix" ]
 imdb: "7320300"

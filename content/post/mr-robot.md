@@ -5,7 +5,6 @@ date: "2016-09-11"
 categories: [ "series" ]
 title: "Mr. Robot"
 stars: "5/5"
-revision: ['2017-09-02']
 desc: "Mr. Robot. Mr. Robot (USA, 2015). Dirigido por Sam Esmail, Jim McKay. Escrito por Sam Esmail, Randolph Leon, Adam Penn, Kyle Bradstreet. Com Rami Malek, Carly Chaikin, Portia Doubleday, Martin Wallström, Christian Slater, Stephanie Corneliussen, Michael Cristofer, Sunita Mani, Azhar Khan."
 ---
 Finalmente uma série que retrata o hacker de uma maneira realista. Mais do que isso: retrata o hacker inserido na realidade que vivemos hoje, nesse exato momento. E, por que não, alguns meses à frente?

@@ -2,9 +2,8 @@
 imdb: "0076759"
 date: "2017-12-26"
 categories: [ "movies" ]
-title: "Guerra nas Estrelas (aka Star Wars Episódio IV: Uma Nova Esperança)"
+title: "Guerra nas Estrelas (Star Wars Episódio IV: Uma Nova Esperança)"
 stars: "3/5"
-revision: [datetime.date(2017, 12, 26)]
 desc: "Guerra nas Estrelas (aka Star Wars Episódio IV: Uma Nova Esperança). Star Wars (USA, 1977). Dirigido por George Lucas. Escrito por George Lucas. Com Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing, Alec Guinness, Anthony Daniels, Kenny Baker, Peter Mayhew, David Prowse."
 ---
 Sem modelos anteriores além dos arquétipos narrativos como a clássica jornada do herói, o primeiro Guerra nas Estrelas brilha pela sua produção inusitada. Flertando entre o trash e o onírico fantasioso precursor da era das superproduções, o trabalho de George Lucas transita sem avisar entre o risível e o épico. Ele pode ser entendido como a mescla perfeita que gera o pop, esse sentimento de auto-importância criado na base do berro que fascinou e fascina gerações.

@@ -1,6 +1,6 @@
 ---
 date: 2018-05-03T14:15:27-03:00
-title: "A Câmera de Claire é banal demais para ser ruim"
+title: "A Câmera de Claire"
 categories: [ "movies" ]
 imdb: "5989220"
 stars: "3/5"

@@ -4,7 +4,6 @@ date: "2011-12-04"
 categories: [ "movies" ]
 title: "Alien o Oitavo Passageiro"
 stars: "5/5"
-revision: [datetime.date(2015, 11, 3)]
 desc: "Alien o Oitavo Passageiro. Alien (USA, 1979). Dirigido por Ridley Scott. Escrito por Dan O'Bannon, Ronald Shusett, Dan O'Bannon. Com Tom Skerritt, Sigourney Weaver, Veronica Cartwright, Harry Dean Stanton, John Hurt, Ian Holm, Yaphet Kotto, Bolaji Badejo, Helen Horton."
 ---
 Falar de "Alien, o Oitavo Passageiro" é falar de ficção científica, terror e suspense. Todos esses gêneros estão em um grau quase equivalente na produção de 1979. Dirigido por Ridley Scott (Blade Runner, 1492, Hannibal, Gladiador) e com roteiro e história de Dan O'Bannon (A Volta dos Mortos Vivos, O Vingador do Futuro), o filme inicia no momento em que a nave Nostromo, inicialmente programada para retornar à Terra, decide acordar seus tripulantes da hibernação para averiguar um possível sinal de vida inteligente em um planeta inóspito. Sem muitas informações do que possa existir na origem do sinal é montado um grupo de exploração.

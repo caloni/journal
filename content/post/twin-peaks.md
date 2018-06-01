@@ -3,8 +3,8 @@ date: 2018-02-27T23:02:12
 imdb: "4093826"
 categories: [ "series" ]
 stars: "4/5"
-title: "Twin Peaks (2017): Primeira Temporada, Episódios 1 e 2"
-desc: "Twin Peaks (2017): Primeira Temporada, Episódios 1 e 2."
+title: "Twin Peaks (2017)"
+desc: "Twin Peaks. EUA, 2017. Criado por Mark Frost e David Lynch. Com Kyle MacLachlan, Sheryl Lee, Michael Horse."
 ---
 Você que conhece o diretor David Lynch sabe que ele não é muito afeito a narrativas ortodoxas e pensamentos não-oníricos. Então faz muito sentido você, que não assistiu à primeira versão de Twin Peaks, se tornar completamente perdido ao acompanhar esta pseudo-continuação do diretor em uma versão mais moderna, mas ainda assim, hermética.
 

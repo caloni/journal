@@ -4,7 +4,6 @@ date: "2016-01-08"
 categories: [ "movies" ]
 title: "Star Wars: O Despertar da Força"
 stars: "4/5"
-revision: ['2016-01-15']
 desc: "Star Wars: O Despertar da Força. Star Wars: The Force Awakens (USA, 2015). Dirigido por J.J. Abrams. Escrito por Lawrence Kasdan, J.J. Abrams, Michael Arndt, George Lucas. Com Harrison Ford, Mark Hamill, Carrie Fisher, Adam Driver, Daisy Ridley, John Boyega, Oscar Isaac, Lupita Nyong'o, Andy Serkis."
 ---
 É previsível, esperado e inevitável que o primeiro filme que não é controlado pelo idealizador da série, George Lucas, contivesse tantos elementos repetidos, que soam como um remake ou homenagem bem intencionados. Ou podemos refletir um pouco mais e chegar à conclusão comercial que, do ponto de vista dos fãs, faz todo o sentido abraçar os três filmes clássicos, agora sob as asas da fabricante e líder de franquias em vendas -- e isso quase nada nos cinemas -- que é a Disney.

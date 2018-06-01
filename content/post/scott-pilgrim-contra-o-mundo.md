@@ -4,7 +4,6 @@ date: "2011-05-16"
 categories: [ "movies" ]
 title: "Scott Pilgrim Contra o Mundo"
 stars: "5/5"
-revision: [datetime.date(2013, 12, 28)]
 desc: "Scott Pilgrim Contra o Mundo. Scott Pilgrim vs. the World (USA, 2010). Dirigido por Edgar Wright. Escrito por Michael Bacall, Edgar Wright, Bryan Lee O'Malley. Com Michael Cera, Alison Pill, Mark Webber, Johnny Simmons, Ellen Wong, Kieran Culkin, Anna Kendrick, Aubrey Plaza, Mary Elizabeth Winstead."
 ---
 Scott Pilgrim é o tipo de filme que abraça um conceito até o fim. Melhor: começa como um filme comum, mas vai apresentando o seu conceito de forma orgânica e cada vez mais intensa. E intensidade é uma palavra que resume muito bem toda a experiência que esse filme proporciona.

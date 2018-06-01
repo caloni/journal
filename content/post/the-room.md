@@ -1,6 +1,6 @@
 ---
 date: 2018-05-24T22:41:19-03:00
-title: "The Room: você nunca viu nada igual"
+title: "The Room"
 categories: [ "movies" ]
 imdb: "0368226"
 stars: "1/5"

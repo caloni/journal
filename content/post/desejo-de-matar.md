@@ -1,6 +1,6 @@
 ---
 date: 2018-05-08T17:36:55-03:00
-title: "Novo Desejo de Matar é tapa na cara da sociedade de cordeirinhos pacifistas"
+title: "Desejo de Matar"
 categories: [ "movies" ]
 imdb: "1137450"
 stars: "4/5"

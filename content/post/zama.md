@@ -1,6 +1,6 @@
 ---
 date: 2018-03-26T22:05:17-03:00
-title: "Zama ou como Ancine gosta de gastar seu dinheiro na Argentina"
+title: "Zama"
 categories: [ "movies" ]
 imdb: "3409848"
 stars: "2/5"

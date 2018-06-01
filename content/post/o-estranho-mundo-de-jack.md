@@ -4,7 +4,6 @@ date: "2014-03-02"
 categories: [ "movies" ]
 title: "O Estranho Mundo de Jack"
 stars: "4/5"
-revision: [datetime.date(2015, 5, 29)]
 desc: "O Estranho Mundo de Jack. The Nightmare Before Christmas (USA, 1993). Dirigido por Henry Selick. Escrito por Tim Burton, Michael McDowell, Caroline Thompson. Com Danny Elfman, Chris Sarandon, Catherine O'Hara, William Hickey, Glenn Shadix, Paul Reubens, Ken Page, Edward Ivory, Susan McBride."
 ---
 O diretor Henry Selick já tem seu lugar de destaque nas animações por produzir com sua equipe trabalhos com tanto esmero quanto Coraline e o Mundo Secreto e este O Estranho Mundo de Jack. Bancado por Tim Burton  cujos projetos góticos possuem total similaridade com ambos os filmes  Selick em 93 já investia no que seria quase que um renascimento da arte stop-motion nos cinemas, de onde surgiriam ótimos trabalhos como A Noiva-Cadáver (esse sim dirigido por Tim Burton) e atingiria seu ápice em Mary e Max (Adam Elliot, 2009).

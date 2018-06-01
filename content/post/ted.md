@@ -4,7 +4,6 @@ date: "2012-10-03"
 categories: [ "movies" ]
 title: "Ted"
 stars: "4/5"
-revision: [datetime.date(2014, 1, 14)]
 desc: "Ted. Ted (USA, 2012). Dirigido por Seth MacFarlane. Escrito por Seth MacFarlane, Alec Sulkin, Wellesley Wild, Seth MacFarlane. Com Mark Wahlberg, Mila Kunis, Seth MacFarlane, Joel McHale, Giovanni Ribisi, Patrick Warburton, Matt Walsh, Jessica Barth, Aedin Mincks."
 ---
 Quando assistimos à introdução que marca o início da amizade entre John, um garoto de 8 anos (Bretton Manley), e Ted, um ursinho de pelúcia que começa a falar a partir de um desejo que o garoto faz para uma estrela cadente, entendemos ser essa amizade o núcleo da história dirigida e escrita por Seth MacFarlane, do desenho politicamente incorreto Family Guy, e que aqui além de dirigir dubla o ursinho com sua voz. Apenas o fato do filme acreditar nessa relação entre os dois é o suficiente para fazer com que o espectador faça o mesmo, e desista de assistir mais um besteirol com piadas envolvendo ursinhos de pelúcia falantes. Ted é tão ou mais real do que John, e depois que ele e John "crescem" (Mark Wahlberg) nunca deixam de honrar a promessa que fizeram quando crianças: que seriam companheiros inseparáveis.

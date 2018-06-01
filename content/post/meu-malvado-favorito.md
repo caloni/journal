@@ -4,7 +4,6 @@ date: "2010-12-20"
 categories: [ "movies" ]
 title: "Meu Malvado Favorito"
 stars: "3/5"
-revision: [datetime.date(2011, 11, 13)]
 desc: "Meu Malvado Favorito. Despicable Me (USA, 2010). Dirigido por Pierre Coffin, Chris Renaud. Escrito por Cinco Paul, Ken Daurio, Sergio Pablos. Com Steve Carell, Jason Segel, Russell Brand, Julie Andrews, Will Arnett, Kristen Wiig, Miranda Cosgrove, Dana Gaier, Elsie Fisher."
 ---
 Meu Malvado Favorito é um ótimo exemplo de filme que divide opiniões, assim como Transformers: de um lado as pessoas que veem claramente uma péssima construção de história em conjunto com péssimas sequências para esta história. De outro, as pessoas que enxergam seus méritos no projeto ou 1) por gostarem do argumento desde o início ou 2) por entenderem sua proposta de uma maneira menos... crítica?

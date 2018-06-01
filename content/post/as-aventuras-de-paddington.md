@@ -4,7 +4,6 @@ date: "2014-12-10"
 categories: [ "movies" ]
 title: "As Aventuras de Paddington"
 stars: "4/5"
-revision: [datetime.date(2016, 3, 25)]
 desc: "As Aventuras de Paddington. Paddington (UK, 2014). Dirigido por Paul King. Escrito por Paul King, Hamish McColl, Paul King, Michael Bond. Com Tim Downie, Madeleine Worrall, Lottie Steer, Geoffrey Palmer, Theresa Watson, Imelda Staunton, Michael Gambon, Ben Whishaw, Hugh Bonneville."
 ---
 É uma espécie de Pequeno Stuart Little britânico para ursos. A consequência de ser um filme mais recente são os efeitos que tornam um pequeno urso falante algo natural em praticamente todas as cenas que ele aparece com humanos.

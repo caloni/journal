@@ -1,6 +1,6 @@
 ---
 date: 2018-05-10T14:54:06-03:00
-title: "O Renascimento do Parto 2 é o 1, só que com esteroides SJW"
+title: "O Renascimento do Parto 2"
 categories: [ "movies" ]
 stars: "1/5"
 desc: "O Renascimento Do Parto 2 (Brasil, 2018), dirigido por Eduardo Chauvet."

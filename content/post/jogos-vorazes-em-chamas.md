@@ -4,7 +4,6 @@ date: "2013-07-12"
 categories: [ "movies" ]
 title: "Jogos Vorazes Em Chamas"
 stars: "4/5"
-revision: [datetime.date(2014, 8, 11)]
 desc: "Jogos Vorazes Em Chamas. The Hunger Games: Catching Fire (USA, 2013). Dirigido por Francis Lawrence. Escrito por Simon Beaufoy, Michael Arndt, Suzanne Collins. Com Jennifer Lawrence, Liam Hemsworth, Jack Quaid, Taylor St. Clair, Sandra Ellis Lafferty, Woody Harrelson, Josh Hutcherson, Paula Malcomson, Willow Shields."
 ---
 É curioso que quase uma década depois a estrutura narrativa de Catching Fire nos faça lembrar do ótimo Matrix Reloaded. Apesar de também ser uma continuação, Jogos Vorazes pelo menos sabia que não terminaria no primeiro. No entanto, ambos tratam de esperança surgida em meio a uma guerra eterna, e embora a escravidão consentida pelos Distritos à Capital por tantas gerações soe às vezes meio forçada, o fato é que o aspecto político e social é o que mais cativa na história.

@@ -5,7 +5,6 @@ date: "2017-03-26"
 categories: [ "series" ]
 title: "Westworld - Primeira Temporada"
 stars: "4/5"
-revision: ['2017-08-02']
 desc: "Westworld - Primeira Temporada. Westworld (USA, 2016). Dirigido por Jonathan Nolan, Fred Toye. Escrito por Lisa Joy, Jonathan Nolan, Michael Crichton, Halley Wegryn Gross, Dan Dietz, Charles Yu. Com Evan Rachel Wood (Dolores Abernathy), Thandie Newton (Maeve Millay), James Marsden (Teddy Flood), Jeffrey Wright (Bernard Lowe), Ed Harris (Man in Black), Anthony Hopkins (Dr. Robert Ford)."
 ---
 Eu fui programado para escrever esse texto? Posso responder, na melhor das hipóteses, que eu estar escrevendo este texto é consequência da soma das minhas ações. No entanto, volta outra pergunta no lugar: eu fui programado para executar tais ações?

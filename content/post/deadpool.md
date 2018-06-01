@@ -4,7 +4,6 @@ date: "2016-02-27"
 categories: [ "movies" ]
 title: "Deadpool"
 stars: "4/5"
-revision: [datetime.date(2016, 6, 14)]
 desc: "Deadpool. Deadpool (USA, 2016). Dirigido por Tim Miller. Escrito por Rhett Reese, Paul Wernick, Fabian Nicieza, Rob Liefeld. Com Ryan Reynolds, Karan Soni, Ed Skrein, Michael Benyaer, Stefan Kapicic, Brianna Hildebrand, Style Dayne, Kyle Cassie, Taylor Hickson."
 ---
 A fórmula Marvel de produzir super-heróis enlatados é tão maldita que só um filme como Deadpool, que brinca com toda a produção desses mesmos enlatados, para conseguir se desvencilhar, ainda que parcialmente, dos seus outros filmes lançados a balde.

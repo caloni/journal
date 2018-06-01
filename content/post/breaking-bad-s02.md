@@ -5,7 +5,6 @@ date: "2016-07-16"
 categories: [ "series" ]
 title: "Breaking Bad - Segunda Temporada"
 stars: "5/5"
-revision: [datetime.date(2016, 7, 17)]
 desc: "Breaking Bad - Segunda Temporada. Breaking Bad (USA, 2008). Dirigido por Michelle MacLaren, Adam Bernstein, Vince Gilligan, Colin Bucksey, Michael Slovis, Bryan Cranston, Terry McDonough, Johan Renck, Rian Johnson. Escrito por Vince Gilligan, Peter Gould, George Mastras, Sam Catlin, Moira Walley-Beckett, Thomas Schnauz, Gennifer Hutchison, John Shiban, J. Roberts. Com Bryan Cranston, Anna Gunn, Aaron Paul, Dean Norris, Betsy Brandt, RJ Mitte, Bob Odenkirk, Steven Michael Quezada, Jonathan Banks."
 ---
 Temporada S02 revista. Alguns sentimentos mistos. A saga do Walter White ganha alguns contornos novelísticos, mas a paixão cromática do diretor de fotografia é contagiante do começo ao fim. Não me lembro de nenhum episódio onde não estivesse procurando nos cenários e figurino a presença das cores verde, amarelo, azul e roxo; pior: agora temos um novo tom que começa a despontar: o cinza/preto.

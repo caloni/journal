@@ -5,7 +5,6 @@ date: "2017-01-27"
 categories: [ "movies" ]
 title: "La La Land: Cantando Estações"
 stars: "4/5"
-revision: [datetime.date(2017, 2, 27)]
 desc: "La La Land: Cantando Estações. La La Land (USA, 2016). Dirigido por Damien Chazelle. Escrito por Damien Chazelle. Com Ryan Gosling (Sebastian), Emma Stone (Mia), Amiée Conn (Famous Actress), Terry Walters (Linda), Thom Shelton (Coffee Spiller), Cinda Adams (Casting Director), Callie Hernandez (Tracy), Jessica Rothe (Alexis), Sonoya Mizuno (Caitlin)."
 ---
 Existe uma aura de saudosismo misturado com melancolia que cobre Hollywood. Junto dela os sentimentos mais exagerados no Cinema são celebrados em La La Land, que constrói, sim, mais uma homenagem à Sétima Arte (e aos musicais), mas ao mesmo tempo não para por aí. O seu sentimento de que há algo especial nisso tudo que merece ser preservado se une com a ideia ambiciosa de que é justamente a mudança que preserva os fundamentos que tornam o Cinema tão especial. Hipócrita em ser mais um filme de clichês, ele entrega o que pode de coração aberto e espírito leve, conquistando primeiro os mais fanáticos, para depois os cinéfilos mais "exigentes" com um produto metalinguístico de primeira qualidade ao brincar de maneira inequívoca com os nossos conceitos de espectador sobre o que é ficção e o que é realidade.

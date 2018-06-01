@@ -5,7 +5,6 @@ categories: [ "movies" ]
 count: 2
 title: "O Livro da Vida"
 stars: "4/5"
-revision: [datetime.date(2014, 12, 10)]
 desc: "O Livro da Vida. The Book of Life (USA, 2014). Dirigido por Jorge R. Gutiérrez. Escrito por Jorge R. Gutiérrez, Douglas Langdale. Com Diego Luna, Zoe Saldana, Channing Tatum, Ron Perlman, Christina Applegate, Ice Cube, Kate del Castillo, Hector Elizondo, Danny Trejo."
 ---
 Essa é a estreia em longas do diretor Jorge R. Gutierrez, que já trabalhava no setor de animação e foi escalado pelo produtor Guilhermo del Toro para contar uma lenda mexicana através de uma história que usa duas camadas: a guia de um museu decide "ensinar uma lição" a um grupo de crianças por serem... mimadas? Não ficou muito claro o objetivo dessa ideia, que nem é tão relevante para a história, exceto em algumas intervenções aqui e ali.

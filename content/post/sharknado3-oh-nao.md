@@ -1,6 +1,6 @@
 ---
 date: 2018-03-18T21:55:28-03:00
-title: "Por que Sharknado 3 é ruim mas não tem a menor graça?"
+title: "Sharknado 3"
 categories: [ "movies" ]
 imdb: "3899796"
 stars: "1/5"

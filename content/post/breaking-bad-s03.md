@@ -5,7 +5,6 @@ date: "2016-07-16"
 categories: [ "series" ]
 title: "Breaking Bad - Terceira Temporada"
 stars: "5/5"
-revision: [datetime.date(2016, 7, 17)]
 desc: "Breaking Bad - Terceira Temporada. Breaking Bad (USA, 2008). Dirigido por Michelle MacLaren, Adam Bernstein, Vince Gilligan, Colin Bucksey, Michael Slovis, Bryan Cranston, Terry McDonough, Johan Renck, Rian Johnson. Escrito por Vince Gilligan, Peter Gould, George Mastras, Sam Catlin, Moira Walley-Beckett, Thomas Schnauz, Gennifer Hutchison, John Shiban, J. Roberts. Com Bryan Cranston, Anna Gunn, Aaron Paul, Dean Norris, Betsy Brandt, RJ Mitte, Bob Odenkirk, Steven Michael Quezada, Jonathan Banks."
 ---
 Após a sequência de coincidências discutível no final da temporada anterior, Skyler agora sabe da droga, Walt decide em um ímpeto queimar o dinheiro, mas volta atrás. Todos são culpados na terceira temporada, dos usuários aos distribuidores e produtores, mas também os defensores da lei. Ninguém está a salvo do escrutínio moral, mas em vez de criticar, a série os entende perfeitamente. É a moral do indivíduo que está em jogo, e não uma série de leis absurdas em torno das quais todos lutam ferozmente.

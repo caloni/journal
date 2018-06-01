@@ -2,7 +2,7 @@
 imdb: "1104001"
 date: 2018-05-14
 categories: [ "movies" ]
-title: "Tron: o Legado é Daft Punk, Direção de Arte e o desejo de uma história de verdade"
+title: "Tron: o Legado"
 stars: "3/5"
 desc: "TRON: Legacy (USA, 2010). Dirigido por Joseph Kosinski. Escrito por Edward Kitsis, Adam Horowitz, Edward Kitsis, Adam Horowitz, Brian Klugman, Lee Sternthal, Steven Lisberger, Bonnie MacBird. Com Jeff Bridges, Garrett Hedlund, Olivia Wilde, Bruce Boxleitner, James Frain, Beau Garrett, Michael Sheen, Anis Cheurfa, Serinda Swan."
 ---

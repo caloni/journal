@@ -1,6 +1,6 @@
 ---
 date: 2018-04-15T21:12:02-03:00
-title: "The Handmaid's Tale (O Conto da Aia): feminismo de verdade e uma distopia sendo desconstruída"
+title: "The Handmaid's Tale (O Conto da Aia)"
 categories: [ "series" ]
 imdb: "5834204"
 stars: "4/5"

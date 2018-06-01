@@ -4,7 +4,6 @@ date: 2016-03-20
 categories: [ "movies" ]
 title: "De Volta para o Futuro Parte III"
 stars: "5/5"
-revision: [datetime.date(2016, 3, 18)]
 desc: "De Volta para o Futuro Parte III. Back to the Future Part III (USA, 1990). Dirigido por Robert Zemeckis. Escrito por Robert Zemeckis, Bob Gale, Robert Zemeckis, Bob Gale, Bob Gale. Com Michael J. Fox, Christopher Lloyd, Mary Steenburgen, Thomas F. Wilson, Lea Thompson, Elisabeth Shue, Matt Clark, Richard Dysart, Pat Buttram."
 ---
 Encerrando a trilogia da viagem no tempo, o diretor-roteirista Robert Zemeckis vai audaciosamente 100 anos atrás, no velho oeste, para buscar a aventura e a curva dramática de um personagem até então esquecido, mas vital para o sucesso da franquia: o cientista pseudo-maluco Dr. Brown (Christopher Lloyd). Mais audaciosamente ainda, fecha com chave de ouro uma das trilogias mais bem sucedidas do Cinema ao fazer referência à própria Sétima Arte ao brincar com figuras como Clint Eastwood. Alan Silvestri adapta sua música-tema e sua orquestração para a época, e as tomadas tomam um aspecto completamente inusitado do que poderia se esperar de um filme de ficção científica.

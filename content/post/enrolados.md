@@ -4,7 +4,6 @@ date: "2011-01-30"
 categories: [ "movies" ]
 title: "Enrolados"
 stars: "3/5"
-revision: [datetime.date(2014, 6, 18)]
 desc: "Enrolados. Tangled (USA, 2010). Dirigido por Nathan Greno, Byron Howard. Escrito por Dan Fogelman, Jacob Grimm, Wilhelm Grimm, Mark Kennedy, Dean Wellins. Com Mandy Moore, Zachary Levi, Donna Murphy, Ron Perlman, M.C. Gainey, Jeffrey Tambor, Brad Garrett, Paul F. Tompkins, Richard Kiel."
 ---
 A história clássica de Rapunzel é recriada com o novo senso se humor Disney/Pixar, em que o príncipe é um ladrão procurado, e a frágil princesa não é tão frágil assim. Temos aí os mesmos elementos que tornaram a Disney tão amada pelas crianças e adultos: números de música inspirados (com destaque para o bar do patinho) e uma história sem muitos conflitos e um final feliz.

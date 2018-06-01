@@ -1,6 +1,6 @@
 ---
 date: 2018-05-24T23:49:27-03:00
-title: "Pantera Afrodescendente"
+title: "Pantera Negra"
 categories: [ "movies" ]
 imdb: "1825683"
 stars: "3/5"

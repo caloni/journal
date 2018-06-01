@@ -5,7 +5,6 @@ date: "2014-04-14"
 categories: [ "series" ]
 title: "Madoka Magica"
 stars: "5/5"
-revision: [datetime.date(2014, 9, 19)]
 desc: "Madoka Magica. Maho Shojo Madoka Magica (Japan, 2011). Dirigido por Tomoyuki Itamura, Yukihiro Miyamoto, Akiyuki Shinbo, Masahiro Mukai, Yuki Yase, Toshiaki Kidokoro, Shinichi Omata. Escrito por Gen Urobuchi, Alex Von David. Com Christine Marie Cabanos, Emiri Katou, Cassandra Morris, Chiwa Saito, Cristina Valenzuela, Aoi Yuki, Eri Kitamura, Sarah Anne Williams, Shelby Lindley."
 ---
 A revisita a este animê que para mim ainda é meu favorito -- pela originalidade e pela fuga do lugar-comum e dos roteiros fáceis que a maioria das adaptações dos quadrinhos japoneses são submetidos -- foi feita em apenas uma noite. Mais de quatro horas depois posso reafirmar com convicção: é uma obra ousada para seu formato tanto em história quanto na direção/edição/arte. Desafia o espectador a esquecer os detalhes centrais de uma história que vai se abrindo muito lentamente, e sua força é sentida exatamente por esse cuidado em cada detalhe.

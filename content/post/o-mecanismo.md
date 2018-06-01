@@ -1,6 +1,6 @@
 ---
 date: 2018-03-26T22:17:35-03:00
-title: "José Padilha encontra o fundo do poço graças à Netflix e sua cegueira ideológica"
+title: "O Mecanismo"
 categories: [ "series" ]
 imdb: "6873658"
 stars: "2/5"

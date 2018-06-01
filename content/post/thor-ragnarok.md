@@ -6,7 +6,6 @@ date: 2017-10-25T00:05:52
 categories: [ "movies" ]
 title: "Thor Ragnarök"
 stars: "3/5"
-revision: [datetime.date(2017, 11, 11)]
 desc: "Thor Ragnarök. Thor: Ragnarok (USA, 2017). Dirigido por Taika Waititi. Escrito por Eric Pearson, Craig Kyle, Christopher Yost. Com Chris Hemsworth (Thor), Tom Hiddleston (Loki), Cate Blanchett (Hela), Idris Elba (Heimdall), Jeff Goldblum (Grandmaster), Tessa Thompson (Valkyrie), Karl Urban (Skurge), Mark Ruffalo (Bruce Banner / Hulk), Anthony Hopkins (Odin)."
 ---
 Este é o terceiro filme solo do Thor, e talvez o mais longo deles? Bom, isso não importa. Thor Ragnarök passa voando. Não apenas o personagem-título, mas o filme como um todo. Isso talvez porque ele tenha esse elenco secundário tão fofinho, fazendo piadas bem-humoradas, de bem com a vida, entrando em seus personagens. Tudo isso para suportar o Avenger mais sem-graça. E do jeito que ele perde vários elementos de sua história nessa aventura, espero que ele não tenha mais aventuras para contar.

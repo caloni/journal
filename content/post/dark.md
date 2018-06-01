@@ -3,8 +3,8 @@ date: 2018-01-30T19:52:28
 imdb: "5753856"
 categories: [ "series" ]
 stars: "3/5"
-title: "Dark: Piloto"
-desc: "Dark: Piloto."
+title: "Dark"
+desc: "Dark. Alemanha, 2017. Criado por Baran bo Odar, Jantje Friese. Com Oliver Masucci, Karoline Eichhorn, Jördis Triebel."
 ---
 Mais uma produção enlatada da Netflix, mas dessa vez as pessoas falam alemão. É um conto alemão, em uma cidadezinha no interior da Alemanha, com muitos jovens em um colégio e uma fotografia sombria. Um prefácio anuncia que acontecimentos fantásticos irão ocorrer (Stranger Things feelings). Esses acontecimentos irão mexer com nossa noção do tempo. E de fato mexem: ao final do primeiro episódio de 50 minutos a sensação é ter visto um filme de três horas onde nada acontece.
 

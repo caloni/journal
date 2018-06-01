@@ -1,6 +1,6 @@
 ---
 date: 2018-05-26T15:33:19-03:00
-title: "Toc Toc é culpa do Politicamente Correto (mais uma vez)"
+title: "Toc Toc"
 categories: [ "movies" ]
 imdb: "6060156"
 stars: "2/5"

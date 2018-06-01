@@ -4,7 +4,6 @@ date: "2015-03-13"
 categories: [ "movies" ]
 title: "Birdman ou (A Inesperada Virtude da Ignorância)"
 stars: "5/5"
-revision: [datetime.date(2015, 5, 8)]
 desc: "Birdman ou (A Inesperada Virtude da Ignorância). Birdman: Or (The Unexpected Virtue of Ignorance) (USA, 2014). Dirigido por Alejandro González Iñárritu. Escrito por Alejandro González Iñárritu, Nicolás Giacobone, Alexander Dinelaris, Armando Bo, Raymond Carver. Com Michael Keaton, Emma Stone, Kenny Chin, Jamahl Garrison-Lowe, Zach Galifianakis, Naomi Watts, Jeremy Shamos, Andrea Riseborough, Katherine O'Sullivan."
 ---
 Antes de falar sobre Bidman, vamos aproveitar para tirar um elefante branco da sala: o plano-sequência. O que são? O que comem? Como se reproduzem?

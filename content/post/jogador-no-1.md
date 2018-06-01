@@ -1,6 +1,6 @@
 ---
 date: 2018-04-11T17:48:24-03:00
-title: "Jogador No. 1 é Spielberg mostrando que carisma não cura qualquer filme"
+title: "Jogador No. 1"
 categories: [ "movies" ]
 imdb: "1677720"
 stars: "2/5"

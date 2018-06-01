@@ -3,8 +3,8 @@ date: 2018-02-06T20:52:37
 imdb: "6257970"
 categories: [ "series" ]
 stars: "3/5"
-title: "The End Of The F***ing World: Primeira Temporada, Eps 1-3"
-desc: "The End Of The F***ing World: Primeira Temporada, Eps 1-3."
+title: "The End Of The F***ing World"
+desc: "The End Of The F***ing World. EUA, 2017. Com Jessica Barden, Alex Lawther, Steve Oram."
 ---
 Apesar do piloto desta série apresentar desde o começo dois adolescentes problemáticos, um psicopata e uma ninfomaníaca, não é à toa que fuck... ops, f***, está encoberto no título. Este é mais um sintoma da geração abobalhada que acha que é cool, mas não consegue falar de sexo sem corar nem falar da morte de inocentes por diversão. Propaganda enganosa em cima de outra, este é um casal bonitinho que, como Arlequina em Esquadrão Suicida, adora falar que é louca. Não porque ela seja, mas porque é cool ser louca.
 

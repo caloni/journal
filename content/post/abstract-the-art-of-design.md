@@ -3,9 +3,9 @@ tags: ['netflix', 'series']
 imdb: "6397576"
 date: "2017-03-08"
 categories: [ "series" ]
-title: "Abstract: The Art of Design - (Christoph Niemann: Illustration)"
+title: "Abstract: The Art of Design"
 stars: "4/5"
-desc: "Abstract: The Art of Design - (Christoph Niemann: Illustration). Dirigido por Morgan Neville. Com Christoph Niemann (Himself), Tom Selleck, Lisa Zeitz (Herself - Christoph's Wife)."
+desc: "Abstract: The Art of Design. Dirigido por Morgan Neville. Com Christoph Niemann (Himself), Tom Selleck, Lisa Zeitz (Herself - Christoph's Wife)."
 ---
 O mais decepcionante desta série documental da Netflix é que ela termina cedo demais. Estava pronto para acompanhar mais umas duas horas -- ou até o seriado inteiro -- a respeito de Christoph Niemann, o ilustrador de capas da revista The New Yorker. A criatividade e sagacidade aparentemente inocentes de Niemann encantam, mas é a capacidade do diretor Morgan Neville em desenhar o episódio que é o mais fascinante. Encontrando uma forma de unir a cidade de Nova Iorque aos delírios criativos de Niemann, Neville embarca em uma viagem deliciosa a respeito do dia-a-dia de um criador e sua mente, algo que o documentário indicado ao Oscar esse ano, "Life, Animated", deveria aprender algumas lições.
 

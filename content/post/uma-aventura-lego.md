@@ -4,7 +4,6 @@ date: "2015-10-04"
 categories: [ "movies" ]
 title: "Uma Aventura LEGO"
 stars: "5/5"
-revision: [datetime.date(2014, 3, 3), datetime.date(2015, 10, 4), datetime.date(2016, 7, 28)]
 desc: "Uma Aventura LEGO. The Lego Movie (Australia, 2014). Dirigido por Phil Lord, Christopher Miller. Escrito por Phil Lord, Christopher Miller, Dan Hageman, Kevin Hageman, Phil Lord, Christopher Miller. Com Will Arnett, Elizabeth Banks, Craig Berry, Alison Brie, David Burrows, Anthony Daniels, Charlie Day, Amanda Farinos, Keith Ferguson."
 ---
 Eis um filme que constrói sua história em um universo de bonecos e peças montáveis que juntos somam todos os clichês possíveis e imagináveis do gênero aventura. Partindo dessa premissa tímida para um filme onde "Tudo é Incrível" talvez seja pretencioso demais, mas não para um ser cheia de sonhos, medos e desejos que se misturam para contar uma história jamais vista: a que sai da cabeça de uma criança.

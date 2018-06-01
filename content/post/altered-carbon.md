@@ -3,8 +3,8 @@ date: 2018-03-04T19:25:26
 imdb: "2261227"
 categories: [ "series" ]
 stars: "3/5"
-title: "Altered Carbon: Piloto"
-desc: "Altered Carbon: Piloto."
+title: "Altered Carbon"
+desc: "Altered Carbon. EUA, 2018. Criado por Laeta Kalogridis. Com Joel Kinnaman, James Purefoy, Martha Higareda."
 ---
 Esta é uma série que lida com algumas questões já abordadas em trabalhos clássicos, como Blade Runner, Ghost in the Shell, etc. E por isso mesmo faz questão de homenageá-las em seu design. Dessa forma, é curioso ver como a megalópole é retratada como um misto entre esses dois trabalhos citados.
 

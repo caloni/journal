@@ -5,7 +5,6 @@ date: "2016-10-28"
 categories: [ "movies" ]
 title: "O Contador"
 stars: "4/5"
-revision: ['2016-11-17']
 desc: "O Contador. The Accountant (USA, 2016). Dirigido por Gavin O'Connor. Escrito por Bill Dubuque. Com Ben Affleck (Christian Wolff), Anna Kendrick (Dana Cummings), J.K. Simmons (Ray King), Jon Bernthal (Brax), Jeffrey Tambor (Francis Silverberg), Cynthia Addai-Robinson (Marybeth Medina), John Lithgow (Lamar Black), Jean Smart (Rita Blackburn), Andy Umberger (Ed Chilton)."
 ---
 O Contador é um filme que se divide em duas metades. A primeira metade é envolvente e possui uma forma de contar histórias de maneira inteligente, embora óbvia. A segunda metade se abstém em servir como catarse para os fãs de filmes de ação e Ben Affleck.

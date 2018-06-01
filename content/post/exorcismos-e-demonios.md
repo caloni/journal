@@ -1,6 +1,6 @@
 ---
 date: 2018-03-27T22:31:52-03:00
-title: "Exorcismos e Demônios emplaca jornalista-mirim e rápida cena de peitinho para seu público jovem"
+title: "Exorcismos e Demônios"
 categories: [ "movies" ]
 imdb: "4181782"
 stars: "2/5"

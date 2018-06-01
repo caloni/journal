@@ -4,7 +4,6 @@ date: "2011-08-22"
 categories: [ "movies" ]
 title: "Como Enlouquecer seu Chefe"
 stars: "3/5"
-revision: [datetime.date(2012, 9, 19)]
 desc: "Como Enlouquecer seu Chefe. Office Space (USA, 1999). Dirigido por Mike Judge. Escrito por Mike Judge, Mike Judge. Com Ron Livingston, Jennifer Aniston, David Herman, Ajay Naidu, Diedrich Bader, Stephen Root, Gary Cole, Richard Riehle, Alexandra Wentworth."
 ---
 Depois de ter visto Como Matar seu Chefe, resolvi rever o que eu considero uma versão melhorada (ou mais profunda) da questão do "Dilbert Life Style", que é esse Como Enlouquecer seu Chefe, ou mais corretamente no original, Office Space (Ambiente de Escritório?).

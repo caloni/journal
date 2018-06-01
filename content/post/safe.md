@@ -1,6 +1,6 @@
 ---
 date: 2018-05-29T16:19:06-03:00
-title: "Safe, nova série Netflix, começa com draminha, talvez crítica social e suspense"
+title: "Safe"
 categories: [ "series" ]
 tags: [ "netflix" ]
 imdb: "7902072"

@@ -1,6 +1,6 @@
 ---
 date: 2018-04-20T21:05:49-03:00
-title: "A Forma da Água ou como transformar a luta pela tolerância em sessão da tarde com água e açúcar"
+title: "A Forma da Água"
 categories: [ "movies" ]
 imdb: "5580390"
 stars: "3/5"

@@ -1,6 +1,6 @@
 ---
 date: 2018-04-16T22:53:45-03:00
-title: "The IT Crowd, ou como enxergamos o resto do mundo daqui do suporte técnico"
+title: "The IT Crowd"
 categories: [ "series" ]
 imdb: "0487831"
 stars: "4/5"
