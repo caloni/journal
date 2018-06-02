@@ -72,8 +72,8 @@ def PublishToTwitter(postInfo, img):
     id_img1 = t_up.media.upload(media=img)["media_id_string"]
 
     stars = PrintStars(postInfo['stars']) if postInfo.has_key('stars') else ''
-    remaining = 130 - len(stars.decode('utf8') + ' ' + postInfo['title'].decode('utf8') + '\n' + '\n' + postInfo['shortlink'])
-    st = stars.decode('utf8') + ' ' + postInfo['title'].decode('utf8') + '\n' + postInfo['shortlink']
+    remaining = 130 - len(stars.decode('utf8') + ' ' + postInfo['subtitle'].decode('utf8') + '\n' + '\n' + postInfo['shortlink'])
+    st = stars.decode('utf8') + ' ' + postInfo['subtitle'].decode('utf8') + '\n' + postInfo['shortlink']
     t.statuses.update(status=st, media_ids=",".join([id_img1]))
 
 
@@ -82,56 +82,10 @@ def PublishToFacebook(postInfo, img):
     http://nodotcom.org/python-facebook-tutorial.html
     """
     stars = PrintStars(postInfo['stars']) if postInfo.has_key('stars') else ''
-    st = stars.decode('utf8') + ' ' + postInfo['title'].decode('utf8') + '\n\n' + postInfo['desc'].decode('utf8') + '\n\n' + postInfo['paragraph'].decode('utf8') + '\n\n' + postInfo['shortlink'].decode('utf8')
+    st = stars.decode('utf8') + ' ' + postInfo['subtitle'].decode('utf8') + '\n\n' + postInfo['desc'].decode('utf8') + '\n\n' + postInfo['paragraph'].decode('utf8') + '\n\n' + postInfo['shortlink'].decode('utf8')
     if postInfo.has_key('cabine'):
         st = st + '\n\n' + 'Em breve crítica completa no www.cinemaqui.com.br.'.decode('utf8')
     post = facebook_credentials.auth.put_photo(image=img, message=st)
-
-
-def PublishToTelegram(postInfo, img):
-    stars = PrintStars(postInfo['stars']) if postInfo.has_key('stars') else ''
-    st = stars + ' ' + postInfo['title'] + '\n\n' + postInfo['paragraph'] + '\n\n'
-    if postInfo.has_key('cabine'):
-        st = st + 'https://github.com/Caloni/cinetenisverde/tree/master/content/cinemaqui/' + postInfo['permalink'] + '.md'
-    else:
-        st = st + 'http://www.cinetenisverde.com.br/' + postInfo['permalink']
-    print st
-
-
-#def PublishToAdoroCinema(postInfo):
-#    driver = webdriver.Chrome()
-#    postUrl = 'http://www.cinetenisverde.com.br/' + postInfo['permalink']
-#    adoroCinemaUrl = 'http://www.adorocinema.com/comunidade/filmes/filme-' + postInfo['adoroCinemaId'] + '/escrever-critica/'
-#    starIndex = int(postInfo['stars']) * 2 - 1
-#
-#    driver.get(adoroCinemaUrl);
-#
-#    # login
-#    login = driver.find_elements_by_class_name('input_txt')
-#    login[0].send_keys(adorocinema_credentials.email)
-#    login[1].send_keys(adorocinema_credentials.pwd)
-#    btnLogin = driver.find_element_by_class_name('btn-primary')
-#    btnLogin.click()
-#
-#    # fill
-#    reviewArea = driver.find_element_by_class_name('review-textarea')
-#    reviewArea.send_keys(postInfo['paragraph'].decode('utf8'))
-#    time.sleep(5)
-#    reviewUrl = driver.find_element_by_class_name('review-url-input')
-#    reviewUrl.send_keys(postUrl)
-#    time.sleep(5)
-#    reviewStars = driver.find_elements_by_class_name('rating-star')
-#    reviewStars[starIndex].click()
-#
-#    # publish
-#    #time.sleep(10)
-#    #reviewSubmit = driver.find_element_by_class_name('review-submit')
-#    #reviewSubmit.send_keys(Keys.RETURN)
-#
-#    # exit
-#    #time.sleep(10)
-#    ret = input('Type enter to continue')
-
 
 def SearchAdoroCinema(postInfo):
     titleSearch = postInfo['title'].decode('utf8')
@@ -206,7 +160,7 @@ def FindPostImageAndPrepare(postInfo):
         if origPath != newPath:
             os.remove(origPath)
 
-def PublishToSocialMedia(post, img):
+def PublishToSocialMedia(comment, post, img):
     print 'Publishing ' + post + '...'
     afterMove = False
     republish = False
@@ -220,6 +174,8 @@ def PublishToSocialMedia(post, img):
             time.sleep(10)
 
         postInfo['shortlink'] = baseUrl + postInfo['permalink']
+        comment = comment.decode(sys.stdin.encoding)
+        postInfo['subtitle'] = comment.encode('utf8')
         try:
             shortener = Shortener('Google', api_key= 'AIzaSyCuDCcM1utV1zbkiRDd-TX_8FrYT9ApISw')
             postInfo['shortlink'] = shortener.short(postInfo['shortlink'])
@@ -244,9 +200,9 @@ def PublishToSocialMedia(post, img):
         print '*** Something gone wrong!'
         raise
 
-if len(sys.argv) < 3:
-    print 'How to use: share.py post-slug http://image-link'
+if len(sys.argv) < 4:
+    print 'How to use: share.py comment post-slug http://image-link'
 else:
-    PublishToSocialMedia(sys.argv[1], sys.argv[2])
+    PublishToSocialMedia(sys.argv[1], sys.argv[2], sys.argv[3])
 
 
