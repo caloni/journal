@@ -188,8 +188,6 @@ def PublishToSocialMedia(comment, post, img):
         PublishToTwitter(postInfo, img)
         print '*** Publishing to Facebook'
         PublishToFacebook(postInfo, img)
-        print '*** Publishing to Telegram'
-        PublishToTelegram(postInfo, img)
         print '*** Done!'
         SearchAdoroCinema(postInfo)
         webbrowser.open_new_tab(link)
