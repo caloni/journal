@@ -12,12 +12,23 @@ footnotereturnlinkcontents = "?"
     note = "/:filename/"
 
 [[menu.main]]
-    name = "Subscribe"
-    url = "/index.xml"
+    name = "search"
+    url = "https://www.google.com?q=site:cinetenisverde.com.br"
     weight = 1
+[[menu.main]]
+    name = "twitter"
+    url = "https://twitter.com/cinetenisverde"
+    weight = 2
+[[menu.main]]
+    name = "facebook"
+    url = "https://www.facebook.com/cinetenisverde"
+    weight = 3
+[[menu.main]]
+    name = "rss"
+    url = "/index.xml"
+    weight = 4
 
 [params]
     description = "A website built through Hugo and blogdown."
-    googleSearch = "005399618489749432245:uxhode2mus4"
     googleAnalytics = "UA-50557403-1"
     yandexVerification = "48a8210fc043c5e8"
