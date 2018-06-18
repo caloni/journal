@@ -1,6 +1,6 @@
 baseURL = "http://www.cinetenisverde.com.br/"
 languageCode = "en-us"
-title = "Cine Tênis Verde"
+title = "Cine TÃªnis Verde"
 theme = "capsule"
 disqusShortname = "cinetenisverde"
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
@@ -13,7 +13,7 @@ footnotereturnlinkcontents = "?"
 
 [[menu.main]]
     name = "search"
-    url = "https://cse.google.com/cse/publicurl?cx=005399618489749432245:uxhode2mus4"
+    url = "https://www.google.com?q=site:cinetenisverde.com.br"
     weight = 1
 [[menu.main]]
     name = "twitter"
