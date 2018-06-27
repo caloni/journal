@@ -1,5 +1,4 @@
 ---
-tags: ['netflix', 'orangeisthenewblack', 'series']
 imdb: "2372162"
 date: "2014-06-19"
 categories: [ "series" ]

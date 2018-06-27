@@ -1,6 +1,5 @@
 ---
 title: "Branco Sai, Preto Fica"
-tags: ['cabine']
 cabine: "cinemaqui"
 imdb: "4287610"
 stars: "3/5"

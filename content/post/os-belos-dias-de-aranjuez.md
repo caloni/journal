@@ -1,5 +1,4 @@
 ---
-tags: ['cabine']
 cabine: "cinemaqui"
 cinemaqui: "http://www.cinemaqui.com.br/os-belos-dias-de-aranjuez/"
 imdb: "4715652"

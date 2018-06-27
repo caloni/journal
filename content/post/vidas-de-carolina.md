@@ -1,5 +1,4 @@
 ---
-tags: ['youtube', 'curtas']
 title: "Vidas de Carolina"
 stars: "3/5"
 date: "2017-01-12"

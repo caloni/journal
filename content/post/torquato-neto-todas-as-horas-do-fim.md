@@ -1,5 +1,4 @@
 ---
-tags: [ 'cabine' ]
 cabine: "cinemaqui"
 imdb: "4157844"
 stars: "3/5"

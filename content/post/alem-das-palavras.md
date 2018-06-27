@@ -1,5 +1,4 @@
 ---
-tags: ['cabine']
 cabine: "cinemaqui"
 cinemaqui: "http://www.cinemaqui.com.br/alem-das-palavras/"
 imdb: "2392830"

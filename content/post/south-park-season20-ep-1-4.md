@@ -1,5 +1,4 @@
 ---
-tags: ['paulocoelho', 'series', 'southpark']
 imdb: "0121955"
 date: "2016-10-15"
 categories: [ "series" ]

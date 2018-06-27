@@ -4,7 +4,6 @@ title: "Artista do Desastre"
 desc: "The Disaster Artist. EUA, 2017. Escrito por Scott Neustadter e Michael H. Weber baseado no romance autobiográfico de Greg Sestero e Tom Bissell. Dirigido por James Franco. Com James e Dave Franco, Seth Rogen, Ari Graynor, Alison Brie, Jacki Weaver, Paul Scheer."
 imdb: "3521126"
 categories: [ "movies" ]
-tags: [ "plex", "biografias" ]
 stars: "4/5"
 ---
 [The Room](/the-room) é um filme especial para muita gente (eu incluso). A maioria dos filmes ruins são apenas filmes com um roteiro equivocado, baixo orçamento, atuações pedestres e uma direção perdida. Os sharknados da vida, por exemplo, são divertidos, mas foram já feitos sem a intenção de serem bons. E a saga [Transformers](/transformers-a-era-da-extincao) apenas comprova que Michael Bay está cada vez mais senil. Já obras como The Room possui um charme em sua produção que transcende o trash, o gore ou qualquer outro atributo que você utilize para a categoria dos filmes ruins. Ele transcende de tal forma que ele merece um filme sobre ele, tal poder de sedução ele exerce para o cinéfilo apaixonado pelo Cinema e o que quer que seja que ele tem a oferecer. Vamos analisar um pouco o que é isso.

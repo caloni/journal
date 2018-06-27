@@ -1,5 +1,4 @@
 ---
-tags: ['cabine', '3d']
 cabine: "cinemaqui"
 cinemaqui: "http://www.cinemaqui.com.br/bugigangue-no-espaco"
 imdb: "5812510"

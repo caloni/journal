@@ -1,5 +1,4 @@
 ---
-tags: ['netflix']
 imdb: "3312868"
 date: "2017-03-26"
 categories: [ "movies" ]

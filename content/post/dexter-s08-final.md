@@ -1,5 +1,4 @@
 ---
-tags: ['dexter', 'series']
 imdb: "0773262"
 date: "2014-11-09"
 categories: [ "series" ]

@@ -1,5 +1,4 @@
 ---
-tags: ['cabine']
 cabine: "cinemaqui"
 cinemaqui: "http://www.cinemaqui.com.br/degrade/"
 imdb: "4429074"

@@ -1,5 +1,4 @@
 ---
-tags: ['dublado']
 imdb: "0120631"
 date: "2016-11-17"
 categories: [ "movies" ]

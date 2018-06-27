@@ -1,5 +1,4 @@
 ---
-tags: ['cinema', 'mcu', 'avengers']
 imdb: "2395427"
 date: "2015-05-05"
 categories: [ "movies" ]

@@ -1,5 +1,4 @@
 ---
-tags: ['cinema']
 imdb: "2527336"
 date: 2017-12-14T21:49:10
 categories: [ "movies" ]

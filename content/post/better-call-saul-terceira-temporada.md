@@ -1,5 +1,4 @@
 ---
-tags: ['netflix', 'bettercallsaul', 'series']
 imdb: "3032476"
 date: "2017-07-03"
 categories: [ "series" ]

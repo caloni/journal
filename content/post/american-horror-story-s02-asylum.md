@@ -1,5 +1,4 @@
 ---
-tags: ['ahs', 'series']
 imdb: "1844624"
 date: "2014-06-20"
 categories: [ "series" ]

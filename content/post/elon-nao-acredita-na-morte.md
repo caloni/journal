@@ -1,5 +1,4 @@
 ---
-tags: ['cabine']
 cabine: "cinemaqui"
 cinemaqui: "http://www.cinemaqui.com.br/elon-nao-acredita-na-morte/"
 imdb: "6096528"

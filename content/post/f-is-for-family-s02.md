@@ -1,5 +1,4 @@
 ---
-tags: ['netflix', 'fisforfamily', 'series']
 imdb: "4326894"
 date: "2017-08-21"
 categories: [ "series" ]

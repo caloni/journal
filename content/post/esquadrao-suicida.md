@@ -1,5 +1,4 @@
 ---
-tags: ['cinema', '3d', 'oscar', 'dceu']
 imdb: "1386697"
 date: "2016-08-12"
 categories: [ "movies" ]

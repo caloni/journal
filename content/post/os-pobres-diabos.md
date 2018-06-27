@@ -1,5 +1,4 @@
 ---
-tags: ['cabine']
 cabine: "cinemaqui"
 cinemaqui: "http://www.cinemaqui.com.br/os-pobres-diabos/"
 imdb: "3072174"

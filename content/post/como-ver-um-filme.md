@@ -1,5 +1,4 @@
 ---
-tags: ['livros']
 title: "Livro: Como Ver Um Filme"
 stars: "4/5"
 date: "2016-05-14"

@@ -1,5 +1,4 @@
 ---
-tags: ['cabine', 'mostrasp']
 cabine: "cinemaqui"
 imdb: "6322922"
 date: 2017-10-20T21:47:12

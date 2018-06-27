@@ -1,5 +1,4 @@
 ---
-tags: ['netflix', 'series']
 title: "Chef & My Fridge"
 stars: "4/5"
 date: 2017-08-25T23:22:02

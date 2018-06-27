@@ -1,5 +1,4 @@
 ---
-tags: ['series']
 imdb: "1119644"
 date: "2015-12-12"
 categories: [ "series" ]

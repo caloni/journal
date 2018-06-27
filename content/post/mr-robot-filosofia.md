@@ -1,5 +1,4 @@
 ---
-tags: ['series', 'mrrobot']
 imdb: "4158110"
 date: 2017-08-28T19:17:19
 categories: [ "series" ]

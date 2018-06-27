@@ -1,5 +1,4 @@
 ---
-tags: ['mcu', 'xmen']
 imdb: "1877832"
 date: "2014-05-26"
 categories: [ "movies" ]

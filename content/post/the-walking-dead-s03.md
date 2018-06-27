@@ -1,5 +1,4 @@
 ---
-tags: ['thewalkingdead', 'series']
 imdb: "1520211"
 date: "2013-04-03"
 categories: [ "series" ]

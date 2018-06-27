@@ -1,5 +1,4 @@
 ---
-tags: ['cinema', 'oscar', 'revisita']
 imdb: "3783958"
 date: "2017-01-27"
 categories: [ "movies" ]

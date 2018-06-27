@@ -1,5 +1,4 @@
 ---
-tags: ['spiderman']
 imdb: "0145487"
 date: "2015-07-28"
 categories: [ "movies" ]

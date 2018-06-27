@@ -1,5 +1,4 @@
 ---
-tags: ['paulocoelho']
 imdb: "3508840"
 date: "2017-01-05"
 categories: [ "movies" ]

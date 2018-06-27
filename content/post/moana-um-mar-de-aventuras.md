@@ -1,5 +1,4 @@
 ---
-tags: ['cinema', 'oscar']
 imdb: "3521164"
 date: "2017-01-07"
 categories: [ "movies" ]

@@ -1,5 +1,4 @@
 ---
-tags: ['paulocoelho', 'series']
 imdb: "1639109"
 date: "2016-11-04"
 categories: [ "series" ]

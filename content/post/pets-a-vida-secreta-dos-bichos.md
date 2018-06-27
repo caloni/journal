@@ -1,5 +1,4 @@
 ---
-tags: ['cinema', 'dublado']
 imdb: "2709768"
 date: "2016-09-11"
 categories: [ "movies" ]

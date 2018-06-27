@@ -1,5 +1,4 @@
 ---
-tags: ['cabine', 'oscar']
 cabine: "cinemaqui"
 cinemaqui: "http://www.cinemaqui.com.br/eu-nao-sou-seu-negro"
 imdb: "5804038"

@@ -1,5 +1,4 @@
 ---
-tags: ['mostrasp']
 date: "2016-10-25"
 categories: [ "movies" ]
 title: "O Silêncio da Noite É Que Tem Sido Testemunha das Minhas Amarguras"

@@ -1,7 +1,6 @@
 ---
 imdb: "6724372"
 stars: "4/5"
-tags: ['netflix', 'series']
 date: "2017-04-01"
 title: "Netflix Live"
 categories: [ "blog" ]

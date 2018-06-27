@@ -1,6 +1,5 @@
 ---
 title: "Casamento de Verdade"
-tags: ['cabine']
 cabine: "cinemaqui"
 imdb: "3289712"
 stars: "3/5"

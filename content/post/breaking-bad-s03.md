@@ -1,5 +1,4 @@
 ---
-tags: ['breakingbad', 'series']
 imdb: "0903747"
 date: "2016-07-16"
 categories: [ "series" ]

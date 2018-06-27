@@ -1,5 +1,4 @@
 ---
-tags: ['cabine', 'oscar']
 cabine: "cinemaqui"
 imdb: "2582782"
 date: "2016-12-08"

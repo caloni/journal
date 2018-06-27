@@ -1,5 +1,4 @@
 ---
-tags: ['truedetective', 'paulocoelho']
 imdb: "2356777"
 date: 2017-10-29T18:28:42
 categories: [ "series" ]

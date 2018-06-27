@@ -1,5 +1,4 @@
 ---
-tags: ['cinema', 'dceu']
 imdb: "0451279"
 date: "2017-06-01"
 categories: [ "movies" ]

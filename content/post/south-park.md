@@ -1,5 +1,4 @@
 ---
-tags: ['netflix', 'series', 'southpark']
 imdb: "0121955"
 date: "2015-07-28"
 categories: [ "series" ]

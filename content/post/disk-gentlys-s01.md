@@ -1,5 +1,4 @@
 ---
-tags: ['netflix', 'dirkgently', 'series']
 imdb: "4047038"
 date: "2017-04-21"
 categories: [ "series" ]

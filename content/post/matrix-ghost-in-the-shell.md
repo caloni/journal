@@ -1,5 +1,4 @@
 ---
-tags: ['filosofia']
 imdb: "0242653"
 date: 2017-09-18T21:53:43
 categories: [ "blog" ]

@@ -1,5 +1,4 @@
 ---
-tags: ['ninfomaniaca']
 imdb: "1937390"
 date: 2016-06-06
 categories: [ "movies" ]

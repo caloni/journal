@@ -1,5 +1,4 @@
 ---
-tags: ['swordartonline', 'series', 'netflix']
 imdb: "2250192"
 date: "2014-04-16"
 categories: [ "series" ]

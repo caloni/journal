@@ -1,5 +1,4 @@
 ---
-tags: ['cinema', 'dublado', 'mcu', 'spiderman']
 imdb: "2250912"
 date: "2017-07-09"
 categories: [ "movies" ]

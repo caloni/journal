@@ -1,5 +1,4 @@
 ---
-tags: ['youtube', 'curtas']
 title: "O Destino de Miguel"
 stars: "2/5"
 date: "2016-09-11"

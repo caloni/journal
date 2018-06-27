@@ -1,5 +1,4 @@
 ---
-tags: ['cabine', 'oscar']
 cabine: "cinemaqui"
 cinemaqui: "http://www.cinemaqui.com.br/silencio/"
 imdb: "0490215"

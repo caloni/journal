@@ -1,5 +1,4 @@
 ---
-tags: ['mostrasp']
 date: "2016-11-02"
 categories: [ "movies" ]
 title: "Então Morri"

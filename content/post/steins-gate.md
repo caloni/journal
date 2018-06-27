@@ -1,5 +1,4 @@
 ---
-tags: ['anime', 'streaming']
 imdb: "1910272"
 date: 2017-10-05T00:36:17
 categories: [ "series" ]

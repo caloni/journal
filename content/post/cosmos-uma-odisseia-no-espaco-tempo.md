@@ -1,5 +1,4 @@
 ---
-tags: ['netflix', 'series']
 imdb: "2395695"
 date: "2014-09-25"
 categories: [ "series" ]

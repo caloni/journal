@@ -1,5 +1,4 @@
 ---
-tags: ['netflix', '3perc', 'series']
 imdb: "4922804"
 date: "2016-12-04"
 categories: [ "series" ]

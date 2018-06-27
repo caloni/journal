@@ -1,5 +1,4 @@
 ---
-tags: ['paulocoelho', 'westworld', 'series']
 imdb: "0475784"
 date: 2017-07-31T20:25:46
 categories: [ "series" ]

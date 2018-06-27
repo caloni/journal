@@ -1,5 +1,4 @@
 ---
-tags: ['curtas']
 imdb: "3472226"
 date: "2015-10-29"
 categories: [ "blog" ]

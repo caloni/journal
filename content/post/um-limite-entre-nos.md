@@ -1,5 +1,4 @@
 ---
-tags: ['paulocoelho', 'oscar']
 imdb: "2671706"
 date: "2017-02-07"
 categories: [ "movies" ]

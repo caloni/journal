@@ -1,5 +1,4 @@
 ---
-tags: ['netflix', 'houseofcards', 'series']
 imdb: "1856010"
 date: "2017-06-05"
 categories: [ "series" ]

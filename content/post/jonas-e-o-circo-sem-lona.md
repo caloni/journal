@@ -1,5 +1,4 @@
 ---
-tags: ['cabine']
 cabine: "cinemaqui"
 cinemaqui: "http://www.cinemaqui.com.br/jonas-e-o-circo-sem-lona/"
 title: "Jonas e o Circo sem Lona"

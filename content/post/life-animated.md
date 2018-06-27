@@ -1,5 +1,4 @@
 ---
-tags: ['cabine', 'oscar']
 cabine: "cinemaqui"
 cinemaqui: "http://www.cinemaqui.com.br/life-animated/"
 imdb: "3917210"

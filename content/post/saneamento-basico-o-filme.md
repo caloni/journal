@@ -1,5 +1,4 @@
 ---
-tags: ['netflix', 'cabine']
 cabine: "cinemaqui"
 imdb: "0907134"
 date: "2016-11-30"

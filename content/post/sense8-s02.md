@@ -4,7 +4,6 @@ title: "Sense8 S02: Amor Vincit Omnia"
 desc: "Sense8 S02: Amor Vincit Omnia. Escrito por Alexander Hemon, David Mitchell, J. Michael Straczynski, e as irmãs Wachowski. Dirigido por Lana Wachowski. Com Doona Bae, Jamie Clayton, Tina Desai, Tuppence Middleton, Toby Onwumere, Max Riemelt, Miguel Ángel Silvestre, Brian J. Smith, Freema Agyeman."
 imdb: "7083044"
 categories: [ "series" ]
-tags: [ "netflix" ]
 stars: "3/5"
 ---
 O cancelamento da série Sense8 pela Netflix nos apresentou um exemplo muito óbvio de como séries bem-feitas não podem funcionar como filmes, pois foram concebidas para expandir o seu mundo personagem a personagem, caso a caso. Quase como uma novela bem feita. E no caso do delírio criativo, poético e existencial de Lana Wachowski, mais do que nunca.

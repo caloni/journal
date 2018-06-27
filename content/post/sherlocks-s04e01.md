@@ -1,5 +1,4 @@
 ---
-tags: ['netflix', 'sherlock', 'series']
 imdb: "1475582"
 date: "2016-04-07"
 categories: [ "series" ]

@@ -1,5 +1,4 @@
 ---
-tags: ['livros']
 title: "Livro: Darkly Dreaming Dexter"
 stars: "4/5"
 date: "2016-08-24"

@@ -1,5 +1,4 @@
 ---
-tags: ['netflix']
 imdb: "4677578"
 date: 2017-10-22T21:57:15
 categories: [ "movies" ]

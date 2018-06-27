@@ -1,5 +1,4 @@
 ---
-tags: ['netflix', 'sense8', 'series']
 imdb: "2431438"
 date: "2017-07-01"
 categories: [ "series" ]

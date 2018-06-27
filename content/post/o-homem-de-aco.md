@@ -1,5 +1,4 @@
 ---
-tags: ['cinema', 'dceu']
 imdb: "0770828"
 date: "2013-07-13"
 categories: [ "movies" ]

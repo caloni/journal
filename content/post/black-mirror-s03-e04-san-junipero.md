@@ -1,5 +1,4 @@
 ---
-tags: ['netflix', 'blackmirror', 'series']
 imdb: "4538072"
 date: "2016-10-28"
 categories: [ "series" ]

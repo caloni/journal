@@ -1,5 +1,4 @@
 ---
-tags: ['mostrasp']
 imdb: "1121024"
 date: "2016-10-31"
 categories: [ "movies" ]

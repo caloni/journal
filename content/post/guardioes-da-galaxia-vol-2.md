@@ -1,5 +1,4 @@
 ---
-tags: ['cinema', 'mcu', 'guardioesdagalaxia']
 imdb: "3896198"
 date: "2017-04-27"
 categories: [ "movies" ]
