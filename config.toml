@@ -7,6 +7,9 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
 footnotereturnlinkcontents = "?"
 
+[taxonomies]
+     category = "categories"
+
 [permalinks]
     post = "/:filename/"
     note = "/:filename/"
