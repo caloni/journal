@@ -14,7 +14,7 @@ A primeira e principal pista para entendermos o que se passa em Matrix Reloaded 
 
 No entando, como este discurso é muito complexo, cheio de detalhes feitos para confundir o espectador, peço que preste atenção não a ele, mas à fuga do Agente Smith da realidade virtual para a qual foi criado. Ele vira um vírus e uma de suas cópias escapa para o cérebro de um dos humanos de Zion. A partir daí é ele que toma controle desse humano e as máquinas o respeitam. Ele é um agente infiltrado, apesar de ser um bug. Ele não é herói nem vilão, mas um problema a ser resolvido por ambos os lados.
 
-O que ocorre no final de Reloaded e em todo Revolutions é que Neo aparentemente consegue controlar as máquinas do lado de fora da Matrix e também enxergá-las, apesar de ter ficado cego. Isso não deveria ser uma suspresa se nos lembrássemos que, uma vez que vimos que é possível a programas como Smith se infiltrar no cérebro de humanos e assim controlá-los direto na realidade, nada mais justo que os humanos presos no gigante casulo estejam à mercê do mesmo procedimento.
+O que ocorre no final de Reloaded e em todo Revolutions é que Neo aparentemente consegue controlar as máquinas do lado de fora da Matrix e também enxergá-las, apesar de ter ficado cego. Isso não deveria ser uma surpresa se nos lembrássemos que, uma vez que vimos que é possível a programas como Smith se infiltrar no cérebro de humanos e assim controlá-los direto na realidade, nada mais justo que os humanos presos no gigante casulo estejam à mercê do mesmo procedimento.
 
 E é exatamente esse o procedimento de injetar código que o Arquiteto se refere quando se dirige a Neo.
 
