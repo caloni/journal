@@ -83,7 +83,7 @@ def MakeSharePost(postInfo):
         st = st + '\n\n' + 'Em breve crítica completa no www.cinemaqui.com.br.'.decode('utf8')
     return st
 
-def PublishToFacebook(st, img):
+def PublishToFacebook(postInfo, st, img):
     """
     http://nodotcom.org/python-facebook-tutorial.html
     """
