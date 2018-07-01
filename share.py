@@ -77,14 +77,18 @@ def PublishToTwitter(postInfo, img):
     t.statuses.update(status=st, media_ids=",".join([id_img1]))
 
 
-def PublishToFacebook(postInfo, img):
+def MakeSharePost(postInfo):
+    st = postInfo['subtitle'].decode('utf8') + '\n\n' + postInfo['desc'].decode('utf8') + '\n\n' + postInfo['paragraph'].decode('utf8') + '\n\n' + postInfo['shortlink'].decode('utf8')
+    if postInfo.has_key('cabine'):
+        st = st + '\n\n' + 'Em breve crítica completa no www.cinemaqui.com.br.'.decode('utf8')
+    return st
+
+def PublishToFacebook(st, img):
     """
     http://nodotcom.org/python-facebook-tutorial.html
     """
     stars = PrintStars(postInfo['stars']) if postInfo.has_key('stars') else ''
-    st = stars.decode('utf8') + ' ' + postInfo['subtitle'].decode('utf8') + '\n\n' + postInfo['desc'].decode('utf8') + '\n\n' + postInfo['paragraph'].decode('utf8') + '\n\n' + postInfo['shortlink'].decode('utf8')
-    if postInfo.has_key('cabine'):
-        st = st + '\n\n' + 'Em breve crítica completa no www.cinemaqui.com.br.'.decode('utf8')
+    st = stars.decode('utf8') + ' ' + st
     post = facebook_credentials.auth.put_photo(image=img, message=st)
 
 def SearchAdoroCinema(postInfo):
@@ -184,16 +188,18 @@ def PublishToSocialMedia(comment, post, img):
 
         imgUrl = urllib2.urlopen(img)
         img = imgUrl.read()
+        st = MakeSharePost(postInfo)
+        print '========== cut here =========='
+        print st
+        print '========== cut here =========='
         print '*** Publishing to Twitter'
         PublishToTwitter(postInfo, img)
         print '*** Publishing to Facebook'
-        PublishToFacebook(postInfo, img)
+        PublishToFacebook(postInfo, st, img)
         print '*** Done!'
         SearchAdoroCinema(postInfo)
         webbrowser.open_new_tab(link)
         webbrowser.open_new_tab('https://plus.google.com/b/116314610297829036822')
-        webbrowser.open_new_tab('https://www.facebook.com/cinetenisverde/')
-        webbrowser.open_new_tab('https://twitter.com/')
     except Exception as e:
         print '*** Something gone wrong!'
         raise
