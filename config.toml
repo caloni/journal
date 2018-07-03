@@ -16,20 +16,24 @@ footnotereturnlinkcontents = "?"
 
 [[menu.main]]
     name = "search"
-    url = "https://www.google.com/search?as_sitesearch=cinetenisverde.com.br"
+    url = "/post"
     weight = 1
+[[menu.main]]
+    name = "google"
+    url = "https://www.google.com/search?as_sitesearch=cinetenisverde.com.br"
+    weight = 2
 [[menu.main]]
     name = "twitter"
     url = "https://twitter.com/cinetenisverde"
-    weight = 2
+    weight = 3
 [[menu.main]]
     name = "facebook"
     url = "https://www.facebook.com/cinetenisverde"
-    weight = 3
+    weight = 4
 [[menu.main]]
     name = "rss"
     url = "/index.xml"
-    weight = 4
+    weight = 5
 
 [params]
     description = "A website built through Hugo and blogdown."
