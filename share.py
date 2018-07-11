@@ -81,6 +81,7 @@ def MakeSharePost(postInfo):
     st = postInfo['subtitle'].decode('utf8') + '\n\n' + postInfo['desc'].decode('utf8') + '\n\n' + postInfo['paragraph'].decode('utf8') + '\n\n' + postInfo['shortlink'].decode('utf8')
     if postInfo.has_key('cabine'):
         st = st + '\n\n' + 'Em breve crítica completa no www.cinemaqui.com.br.'.decode('utf8')
+        st = st + '\nOu se você é membro do Artxs Humanxs basta clicar aqui ;) https://github.com/Caloni/cinetenisverde/tree/master/content/cinemaqui/'.decode('utf8') + postInfo['permalink'] + '.md'
     return st
 
 def PublishToFacebook(postInfo, st, img):
