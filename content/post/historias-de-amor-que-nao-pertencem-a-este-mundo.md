@@ -25,6 +25,6 @@ Ou talvez essa bagunça seja planejada. Nunca saberemos. O que sabemos é que a 
 
 _PS: Uma leitora me recomendou incluir nesta crítica um complemento audio-visual que achei bem pertinente. Apresento a vocês Julieta Venegas - Ilusión, a dúo con Marisa Monte._
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/Cd2mcbMsoeE" frameborder="0" allowfullscreen></iframe>
+<div class="auto-resizable-iframe"><div><iframe frameborder="0" allowfullscreen="1" src="https://www.youtube.com/embed/Cd2mcbMsoeE"></iframe></div></div>
 
 Obrigado =)
