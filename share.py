@@ -15,6 +15,7 @@ from pyshorteners import Shortener
 import frontmatter
 from bs4 import BeautifulSoup
 from markdown import markdown
+import git
 
 sys.path.append(r'c:\users\caloni\.pwd')
 import twitter_cinetenisverde as twitter_credentials
@@ -165,7 +166,22 @@ def FindPostImageAndPrepare(postInfo):
         if origPath != newPath:
             os.remove(origPath)
 
-def PublishToSocialMedia(comment, post, img):
+def GetPermalinkFromCommit(ref):
+	g = git.Repo('.')
+	ci = g.commit(ref)
+	for f, d in ci.stats.files.iteritems():
+		if f.find('content') != -1:
+			return f[f.rfind('/')+1:f.rfind('.')]
+
+
+def GetCommentFromCommit(ref):
+	g = git.Repo('.')
+	ci = g.commit(ref)
+	return ci.message
+
+
+def PublishToSocialMedia(ref, img):
+    post = GetPermalinkFromCommit(ref) 
     print 'Publishing ' + post + '...'
     afterMove = False
     republish = False
@@ -179,7 +195,7 @@ def PublishToSocialMedia(comment, post, img):
             time.sleep(10)
 
         postInfo['shortlink'] = baseUrl + postInfo['permalink']
-        comment = comment.decode(sys.stdin.encoding)
+        comment = GetCommentFromCommit(ref)
         postInfo['subtitle'] = comment.encode('utf8')
         try:
             shortener = Shortener('Google', api_key= 'AIzaSyCuDCcM1utV1zbkiRDd-TX_8FrYT9ApISw')
@@ -205,9 +221,9 @@ def PublishToSocialMedia(comment, post, img):
         print '*** Something gone wrong!'
         raise
 
-if len(sys.argv) < 4:
-    print 'How to use: share.py comment post-slug http://image-link'
-else:
-    PublishToSocialMedia(sys.argv[1], sys.argv[2], sys.argv[3])
 
+if len(sys.argv) < 3:
+    print 'How to use: share.py commit_or_head http://image-link'
+else:
+    PublishToSocialMedia(sys.argv[1], sys.argv[2])
 
