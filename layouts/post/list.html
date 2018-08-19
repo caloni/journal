@@ -127,7 +127,7 @@
               
               <table class="sortable">
               <input type="text" name="filter" value="" id="filter" style="width: 100%; font-size: 22px;" title=""/>
-              {{ range $index, $element := (where .Data.Pages "Section" "post") }} <tr><td> <a href="{{ .Permalink }}" title="{{ .Params.desc }} {{ .Params.stars }}"> {{ .Title }} </a> </td></tr> 
+              {{ range $index, $element := (where .Data.Pages "Section" "post") }} <tr><td> <a href="{{ .Permalink }}" title="{{ .Params.desc }} {{ .Params.stars }} {{ .Params.cabine }}"> {{ .Title }} </a> </td></tr> 
               {{ end }}
               </table>
             </div>
