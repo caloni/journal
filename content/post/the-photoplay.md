@@ -4,7 +4,6 @@ title: "The Photoplay"
 desc: "The Photoplay - A Psychological Study. 1916. Escrito por Hugo Münsterberg."
 categories: [ "blog" ]
 stars: "4/5"
-draft: true
 ---
 [The Photoplay, A Psychological Study](https://www.amazon.com.br/Photoplay-Psychological-Study-English-ebook/dp/B00849VY8G), é considerado o primeiro livro que levou a sério a linguagem cinematográfica como uma nova forma de arte. Ele realiza duas manobras interessantíssimas para a época: retira a impressão que Cinema é apenas um teatro para as massas e eleva as fotos em movimento como uma nova forma de estética que atinge seu status de arte justamente por se destacar do mundo.
 
