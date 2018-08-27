@@ -1,5 +1,5 @@
 ---
-date: 2018-08-19T14:56:45-03:00
+date: 2018-08-27
 title: "The Photoplay"
 desc: "The Photoplay - A Psychological Study. 1916. Escrito por Hugo Münsterberg."
 categories: [ "blog" ]
