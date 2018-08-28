@@ -6,9 +6,9 @@ imdb: "8792492"
 categories: [ "movies" ]
 stars: "3/5"
 ---
-Um pai de família procura um emprego de taxista. E nem como taxista ele é aceito. Então ele caminha pela rua, observa os transeuntes em uma praça, e avista uma senhora idosa vendendo alguma coisa de aspecto sujo em uma forma levantada pelo seu único braço. O outro braço ela não tinha. Ele tem um insight, e decide que precisa fazer um sequestro para conseguir ter meios para viver.
+Um "pai de família" procura um emprego de taxista. E nem como taxista ele é aceito. Então ele caminha pela rua, observa os transeuntes em uma praça, e avista uma senhora idosa vendendo alguma coisa de aspecto sujo em uma forma levantada pelo seu único braço. O outro braço ela não tinha. Ele tem um insight, e decide que precisa fazer um sequestro para conseguir ter meios para viver.
 
-O filme de Julia Rezende baseado na peça de Fernando Ceylão (que assina o roteiro) não deixa de ser teatral, por ter muitas falas, embora os cenários e a movimentação estilo "câmera na mão" aliado a enquadramentos distorcidos daquelas pessoas tentem tornar a história mais dinâmica e mais caricata. Consegue parcialmente. Quem completa é a fotografia Dante Belluti, que narra uma comédia usando tons opacos que deixam o humor triste.
+O filme de Julia Rezende baseado na peça de Fernando Ceylão (que assina o roteiro) não deixa de ser teatral, por ter muitas falas, embora os cenários e a movimentação estilo "câmera na mão" aliado a enquadramentos distorcidos daquelas pessoas tentem tornar a história mais dinâmica e mais caricata. Consegue parcialmente. Quem completa é a fotografia de Dante Belluti, que narra uma comédia usando tons opacos que deixam o humor triste.
 
 Isso porque, apesar de ser comédia, "Como é Cruel Viver Assim" tenta ao mesmo tempo ser uma crítica social sobre as injustiças do mundo. Conseque parcialmente. As interpretações inspiradas de Silvio Guindane, como o Primo (esse é o apelido dele) do protagonista que mora com a mãe protetora e tem problemas de temperamento, e de Fabiula Nascimento, como Clivia, a esposa amorosa que faz comentários aleatórios a qualquer hora do dia, pincelam de maneira tão carismática e realista aquele mundo de desajustados tentando sobreviver que ambos já valem o ingresso.
 
