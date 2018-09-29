@@ -27,8 +27,8 @@ footnotereturnlinkcontents = "?"
     url = "https://twitter.com/cinetenisverde"
     weight = 3
 [[menu.main]]
-    name = "facebook"
-    url = "https://www.facebook.com/cinetenisverde"
+    name = "link"
+    url = "/leituras"
     weight = 4
 [[menu.main]]
     name = "rss"

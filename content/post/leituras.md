@@ -64,3 +64,15 @@ Filmes:
  - Ropázio (Topaz, 1969)
  - Frenesi (Frenzy, 1972)
  - Trama Macabra (Family Plot, 1976)
+
+Séries:
+
+ - Sopranos
+ - Lost
+ - Game of Thrones
+
+Sugestões recebidas:
+
+ - Wilfred (@colemaker)
+ - Over the Garden Wall (@colemaker)
+
