@@ -2,9 +2,9 @@
 imdb: "5709230"
 date: "2016-10-28"
 categories: [ "series" ]
-title: "Black Mirror - Terceira Temporada, Episódio 3: Manda Quem Pode"
+title: "Black Mirror - S03E03 - Shut Up and Dance"
 stars: "4/5"
-desc: "Black Mirror - Terceira Temporada, Episódio 3: Manda Quem Pode. Dirigido por James Watkins. Escrito por William Bridges, Charlie Brooker. Com Alex Lawther (Kenny), Jerome Flynn (Hector), Susannah Doyle (Blackmailed Woman), Frankie Wilson (Tom), Jimmy Roye-Dunne (Red), Hannah Steele (Melissa), Sarah Beck Mather (Restaurant Mother), Beatrice Robertson-Jones (Restaurant Daughter), Maya Gerber (Lindsay)."
+desc: "Shut Up and Dance. Black Mirror (UK, 2011). Dirigido por James Watkins. Escrito por William Bridges, Charlie Brooker. Com Alex Lawther, Jerome Flynn, Susannah Doyle."
 ---
 Após um episódio medíocre, Black Mirror volta a fazer história com a tecnologia atual. Sem apelar (muito) para o futurismo, conta a história de como quem não vive através da verdade vira refém dos outros, além de jogar o público a favor dos roteiristas usando a moral da sociedade como pêndulo de justiça (isso nunca dá certo).
 

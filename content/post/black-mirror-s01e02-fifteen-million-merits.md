@@ -2,9 +2,9 @@
 imdb: "2085059"
 date: "2015-12-13"
 categories: [ "series" ]
-title: "Black Mirror - Fifteen Million Merits"
+title: "Black Mirror - S01E02 - Fifteen Million Merits"
 stars: "5/5"
-desc: "Black Mirror - Fifteen Million Merits. Black Mirror (UK, 2011). Dirigido por Carl Tibbetts. Escrito por Charlie Brooker. Com Bryony Neylan-Francis, Shawn Aldin-Burnett."
+desc: "Fifteen Million Merits. Black Mirror (UK, 2011). Dirigido por Euros Lyn. Escrito por Charlie Brooker, Konnie Huq. Com Daniel Kaluuya, Jessica Brown Findlay, Rupert Everett."
 ---
 Black Mirror é uma série que explora o que há de pior em nossa era da comunicação instantânea e da tecnologia crescente. Na verdade, eles vão um pouco além da nossa realidade atual, avançando alguns anos/décadas, onde algumas novidades brincam com nosso conceito de humanidade e relacionamentos, mídia e governos.
 

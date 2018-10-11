@@ -2,9 +2,9 @@
 imdb: "2085059"
 date: "2015-12-13"
 categories: [ "series" ]
-title: "Black Mirror - Be Right Back"
+title: "Black Mirror - S02E01 - Be Right Back"
 stars: "5/5"
-desc: "Black Mirror - Be Right Back. Black Mirror (UK, 2011). Dirigido por Carl Tibbetts. Escrito por Charlie Brooker. Com Bryony Neylan-Francis, Shawn Aldin-Burnett."
+desc: "Be Right Back. Black Mirror (UK, 2011). Dirigido por Owen Harris. Escrito por Charlie Brooker. Com Hayley Atwell, Domhnall Gleeson, Claire Keelan."
 ---
 Black Mirror é uma série que explora o que há de pior em nossa era da comunicação instantânea e da tecnologia crescente. Na verdade, eles vão um pouco além da nossa realidade atual, avançando alguns anos/décadas, onde algumas novidades brincam com nosso conceito de humanidade e relacionamentos, mídia e governos.
 
