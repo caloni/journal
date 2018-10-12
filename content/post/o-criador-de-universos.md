@@ -1,7 +1,7 @@
 ---
 date: 2018-10-10T18:26:38-03:00
 title: "O Criador de Universos"
-desc: "El Creador de Universos (Uruguai, 2017), escrito e dirigido por Mercedes Dominioni, com atores desconhecidos. #mostrasp"
+desc: "El Creador de Universos (Uruguai, 2017), escrito e dirigido por Mercedes Dominioni, com atores desconhecidos.  #mostrasp"
 categories: [ "movies" ]
 stars: "2/5"
 cabine: "cinemaqui"
