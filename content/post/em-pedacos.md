@@ -4,7 +4,7 @@ imdb: "5723272"
 categories: [ "movies" ]
 stars: "4/5"
 title: "Em Pedaços"
-desc: "Em Pedaços."
+desc: "In the Fade (Alemanha/França, 2017), escrito por Fatih Akin e Hark Bohm, dirigido por Fatih Akin, com Diane Kruger, Denis Moschitto, Numan Acar."
 ---
 O filme de Fatih Akin, ganhador do Globo de Ouro e que deu o prêmio de melhor atriz para Diane Kruger, é um pedaço de emoções pesadas e tensas que se acopla como uma luva na situação dramática em que a Alemanha se encontra, com uma crise de imigração insolúvel e movimentos extremistas aumentando cada vez mais. Este não é um filme fácil para corações fracos, e vai ter um final tão perturbador quando seu começo. Portanto, se segure em sua poltrona e apenas aproveite pensar a respeito das muitas coisas erradas que existem no mundo.
 
