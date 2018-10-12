@@ -1,0 +1,10 @@
+---
+date: 2018-10-11T23:50:26-03:00
+title: "Um Noir nos Balcãs"
+desc: "Bankan Noir (Suécia, Montenegro, 2017), escrito e dirigido por Draen Kuljanin, com Disa Östrand, Johannes Bah Kuhnkee, Sergej Trifunovic."
+imdb: "6100336"
+categories: [ "movies" ]
+stars: "3/5"
+cabine: "cinemaqui"
+---
+Não é possível extrair significado de uma bagunça como Um Noir nos Balcãs que finge ser noir enquanto é apenas confuso. Não há história, ou ela é mera isca para apreciamos vídeos antigos de médicos promovendo marcas de cigarro ou imagens de bebês que piscam em alguns momentos. Um Clube da Luta sem imaginação nem propósito preparado artesanalmente em dois dias na Suécia e cinco na Sérvia. Não me admira que tenha sido feito tão rápido: não há roteiro enquanto o filme pisca para você. Vai um cigarro aí?
