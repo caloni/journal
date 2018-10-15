@@ -3,7 +3,7 @@ date: 2018-07-29T12:39:21-03:00
 title: "Cinquenta Tons de Liberdade"
 desc: "Fifty Shades Freed. EUA, 2018. Escrito por Niall Leonard baseado no 'romance' de E.L. James. Dirigido por James Foley, meu filho, que está a fazer por aqui. Com Dakota Johnson, Jamie Dornan, Eric Johnson."
 imdb: "4477536"
-categories: [ "series" ]
+categories: [ "movies" ]
 stars: "1/5"
 ---
 Cinquenta Tons de Liberdade é um grande vídeo de casamento feito para um casal rico que tenta criar algum drama em suas vidas vazias e desinteressantes. Para isso se tornar minimamente assistível para nós, reles mortais e espectadores boquiabertos pelo fiapo de vida das pessoas ricas, foi necessário lotar o vídeo com mansões, jatos, iates, carrões, guarda-costas, alguns acontecimentos levemente empolgantes, uma trama sem sentido e com um clímax enjoativo, e a luxúria que parece tornar a sala vermelha do casal Grey a coisa mais sexy e controversa que existe no Cinema da atualidade. Esses americanos, aparentemente, nunca viram um filme europeu na vida.
