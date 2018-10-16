@@ -5,7 +5,7 @@ date: "2016-10-20"
 categories: [ "movies" ]
 title: "Depois da Tempestade"
 stars: "4/5"
-desc: "Depois da Tempestade. Umi yori mo mada fukaku (Japan, 2016). Dirigido por Hirokazu Koreeda. Escrito por Hirokazu Koreeda, Hirokazu Koreeda. Com Hiroshi Abe (Shinoda Ryota), Yôko Maki (Shiraishi Kyoko), Taiyô Yoshizawa (Shiraishi Shingo), Kirin Kiki (Shinoda Yoshiko), Lily Franky, Isao Hashizume, Shôno Hayama (High school student), Sôsuke Ikematsu, Satomi Kobayashi."
+desc: "Depois da Tempestade. Umi yori mo mada fukaku (Japan, 2016). Dirigido por Hirokazu Kore-eda. Escrito por Hirokazu Koreeda, Hirokazu Koreeda. Com Hiroshi Abe (Shinoda Ryota), Yôko Maki (Shiraishi Kyoko), Taiyô Yoshizawa (Shiraishi Shingo), Kirin Kiki (Shinoda Yoshiko), Lily Franky, Isao Hashizume, Shôno Hayama (High school student), Sôsuke Ikematsu, Satomi Kobayashi."
 ---
 Se Tokyo Story (Era Uma Vez Em Tóquio), clássico de Yasujirô Ozu, sabia contar uma história tipicamente japonesa que se tornou universal com o passar do tempo, Kooeda agora narra uma história que reflete a situação atual do Japão baseado em uma família e que percorre diferentes temas de sua cultura, seja o declínio econômico, o envelhecimento da população ou até o papel cada vez mais independente da mulher. Talvez esse último seja o resumo de todo o filme.
 
