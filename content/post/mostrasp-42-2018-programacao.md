@@ -434,7 +434,7 @@ GRASS, de Hong Sangsoo / Coreia do Sul
 
 A GUERRA DE ANNA, de Aleksey Fedorchenko / Rússia
 
-GUERRA FRIA, de Pawel Pawlikowski / Polônia, França, Reino Unido
+GUERRA FRIA, de [Pawel Pawlikowski](/post/?q=Pawel Pawlikowski) / Polônia, França, Reino Unido
 
 GUTLAND, de Govinda Van Maele / Luxemburgo, Bélgica, Alemanha
 
