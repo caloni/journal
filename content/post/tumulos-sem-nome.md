@@ -1,10 +1,10 @@
 ---
 date: 2018-10-26T00:19:07-02:00
-title: "T˙mulos Sem Nome"
-desc: "Les tombeaux sans noms (aka Graves Without a Name) (CambÛdia, FranÁa, 2018), escrito por Rithy Panh, AgnËs SÈnÈmaud, dirigido por Panh. Document·ro, guerra, comunismo, polÌtica, atrocidades, fome. #mostrasp"
+title: "T√∫mulos Sem Nome"
+desc: "Les tombeaux sans noms (aka Graves Without a Name) (Camb√≥dia, Fran√ßa, 2018), escrito por Rithy Panh, Agn√®s S√©n√©maud, dirigido por Panh. Document√°ro, guerra, comunismo, pol√≠tica, atrocidades, fome. #mostrasp"
 imdb: "8790662"
 categories: [ "movies" ]
 stars: "4/5"
 cabine: "cinemaqui"
 ---
-A conclus„o do sobrevivente desse verdadeiro genocÌdio È de culpa e dor por ter sido um revolucion·rio ao lugar por um ideal impossÌvel. Para o espectador que assiste resta a lembranÁa e o aviso para que, assim como outras tragÈdias do sÈculo 20 como o Holocausto, muito mais lembrado e curiosamente com muito menos mortes que os regimes comunistas da mesma Època, que isso n„o aconteÁa jamais. … material digno de passar nas escolas, por mais forte que seja.
+A conclus√£o do sobrevivente desse verdadeiro genoc√≠dio √© de culpa e dor por ter sido um revolucion√°rio ao lugar por um ideal imposs√≠vel. Para o espectador que assiste resta a lembran√ßa e o aviso para que, assim como outras trag√©dias do s√©culo 20 como o Holocausto, muito mais lembrado e curiosamente com muito menos mortes que os regimes comunistas da mesma √©poca, que isso n√£o aconte√ßa jamais. √â material digno de passar nas escolas, por mais forte que seja.
