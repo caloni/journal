@@ -2,10 +2,9 @@
 imdb: "1856010"
 date: 2018-11-16
 categories: [ "series" ]
-title: "House of Cards - Sexta Temporada (Season Finale). Bagunça, feminismo, política."
+title: "House of Cards - Sexta Temporada (Season Finale)."
 stars: "2/5"
-desc: "House of Cards - Sexta Temporada. House of Cards (USA, 2013). Dirigido por James Foley, Robin Wright, John David Coles, Carl Franklin, Tucker Gates, Tom Shankland, Alik Sakharov, Allen Coulter, David Fincher. Escrito por Beau Willimon, Andrew Davies, Michael Dobbs, Laura Eason, Bill Kennedy, Kate Barnow, Sam Forman, John Mankiewicz, Melissa James Gibson. Com Robin Wright (Claire Underwood), Michael Kelly (Doug Stamper), Diane Lane (Annette Shepherd), Campbell Scott (Mark Usher), Greg Kinnear (Bill Shepherd), Cody Fern (Duncan Shepherd), Derek Cecil (Seth Grayson)."
-draft: true
+desc: "House of Cards - Sexta Temporada. House of Cards (USA, 2013). Dirigido por James Foley, Robin Wright, John David Coles, Carl Franklin, Tucker Gates, Tom Shankland, Alik Sakharov, Allen Coulter, David Fincher. Escrito por Beau Willimon, Andrew Davies, Michael Dobbs, Laura Eason, Bill Kennedy, Kate Barnow, Sam Forman, John Mankiewicz, Melissa James Gibson. Com Robin Wright (Claire Underwood), Michael Kelly (Doug Stamper), Diane Lane (Annette Shepherd), Campbell Scott (Mark Usher), Greg Kinnear (Bill Shepherd), Cody Fern (Duncan Shepherd), Derek Cecil (Seth Grayson). Bagunça, feminismo, política."
 ---
 A sexta e última temporada de House of Cards foi marcada por alterações drásticas em seu elenco, todas encabeçadas pela saída do seu protagonista, Francis Underwood, interpretado pelo insubstituível Kevin Spacey e que teve que ser substituído porque a patrulha dos bons costumes estava de olho em um caso ocorrido há mais de 30 anos onde Spacey avançou sexualmente para cima de um jovem de 14 anos (algo assim; leia os jornais se quiser saber mais). Apesar do ator também ser o produtor executivo da série, isso não impediu sua distribuidora por streaming, a [Sjwflix](https://www.google.com.br/search?q=sjwflix&), decidir reorganizar todo o meio de campo da produção da série antes de estrear esta que será sua última temporada, excluindo (apenas) nela todo e qualquer envolvimento do ator. Não se pode corrigir o passado quando ele está ainda dando lucro.
 
