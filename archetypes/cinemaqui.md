@@ -7,7 +7,7 @@ draft: "true"
 ---
 
 <hr>
-Original Title (País, Ano), escrito por <roteirista>, dirigido por <diretor>, com <atores>.
+"{{ replace .TranslationBaseName "-" " " | title }}" (País, Ano), escrito por <roteirista>, dirigido por <diretor>, com <atores>.
 </hr>
 
 <h2>Trailer - {{ replace .TranslationBaseName "-" " " | title }}</h2>
