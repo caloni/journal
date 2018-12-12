@@ -12,4 +12,4 @@
   {{ end }}
 </span>
 
-{{ if .Params.date }}Wanderley Caloni, {{ .Date.Format "2006-01-02" }}{{ end }}{{ with .Params.desc }}. {{ . }}{{ end }}{{ with .Params.imdb }} <a title="IMDB: Internet Movie DataBase" href="http://www.imdb.com/title/tt{{ . }}">IMDB</a>.{{ end }}{{ if .Params.cabine }} Texto completo próximo ou após a estreia no <a href="http://www.cinemaqui.com.br?s={{ .Params.title }}">CinemAqui</a> (<a href="https://github.com/Caloni/cinetenisverde/tree/master/content/cinemaqui/{{ .File.LogicalName }}">Source</a>).{{ end }}
+{{ if .Params.date }}Wanderley Caloni, {{ .Date.Format "2006-01-02" }}{{ end }}{{ with .Params.desc }}. {{ . }}{{ end }}
