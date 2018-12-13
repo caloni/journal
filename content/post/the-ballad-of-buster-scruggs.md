@@ -1,7 +1,7 @@
 ---
 date: 2018-12-11T22:15:49-02:00
 title: "The Ballad of Buster Scruggs"
-desc: "The Ballad of Buster Scruggs. EUA, 2018. Escrito por Joel Coen e Ethan Coen (mas as estórias "All Gold Canyon" e "The Gal Who Got Rattled" são respectivamente atribuídas a Jack London e Stewart Edward White. Dirigido pelos irmãos Coen. Com Tim Blake Nelson, Willie Watson, Clancy Brown, James Franco, Stephen Root, Liam Neeson, Harry Melling, Tom Waits, Sam Dillon, Bill Heck, Grainger Hines, Jonjo O'Neill e tantos outros de um cast que é uma miscelânea de figuras diferentes e escolhidas a dedo. A produção surge na Netflix. Faroeste, velho oeste, antologia, contos."
+desc: "The Ballad of Buster Scruggs. EUA, 2018. Escrito por Joel Coen e Ethan Coen (mas as estórias 'All Gold Canyon' e 'The Gal Who Got Rattled' são respectivamente atribuídas a Jack London e Stewart Edward White. Dirigido pelos irmãos Coen. Com Tim Blake Nelson, Willie Watson, Clancy Brown, James Franco, Stephen Root, Liam Neeson, Harry Melling, Tom Waits, Sam Dillon, Bill Heck, Grainger Hines, Jonjo O'Neill e tantos outros de um cast que é uma miscelânea de figuras diferentes e escolhidas a dedo. A produção surge na Netflix. Faroeste, velho oeste, antologia, contos."
 imdb: "6412452"
 categories: [ "movies" ]
 stars: "4/5"
