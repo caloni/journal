@@ -27,13 +27,9 @@ footnotereturnlinkcontents = "?"
     url = "https://twitter.com/cinetenisverde"
     weight = 3
 [[menu.main]]
-    name = "link"
-    url = "/leituras"
-    weight = 4
-[[menu.main]]
     name = "rss"
     url = "/index.xml"
-    weight = 5
+    weight = 4
 
 [params]
     description = "A website built through Hugo and blogdown."
