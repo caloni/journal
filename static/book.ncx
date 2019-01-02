@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+"http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+<head>
+</head>
+<docTitle>
+   <text>Cine Tênis Verde</text>
+</docTitle>
+
+<navMap>
+
+<navPoint id="" playOrder="3"> <navLabel> <text> </text> </navLabel> <content src="book.html#" /> </navPoint>
+
+<navPoint id="toc"            playOrder="1"><navLabel>  <text>Sumário</text>                </navLabel> <content src="book.html#toc"          /> </navPoint>
+<navPoint id="idx"            playOrder="2"><navLabel>  <text>Índice</text>                 </navLabel> <content src="book.html#idx"          /> </navPoint>
+<navPoint id="posts"          playOrder="3"><navLabel>  <text>Conteúdo</text>               </navLabel> <content src="book.html#posts"        /> </navPoint>
+
+</navMap>
+</ncx>
