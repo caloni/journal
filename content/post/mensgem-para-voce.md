@@ -14,4 +14,4 @@ Isso porque ele fala sobre a modernização do mundo. Ele, Joe Fox (Hanks), é u
 
 Este é um filme bonitinho, que tem ótimas atuações, mas que infelizmente é uma comédia romântica, e que no final terá que forçar uma situação para fazer o casal principal terminar junto. É uma pena, pois a história seguia por um caminho natural tão mais poético e realista que manteve sua força quase até os últimos momentos, quase como uma outra triste mensagem: as histórias ricas e independentes estão cada vez mais perdendo terreno para a fórmula fácil e decadente de uma comédia romântica.
 
-Rest in peace, internet discada.
+Rest in peace, internet discada. 
