@@ -17,7 +17,7 @@ O curioso é como a vida imita a arte, e no caso como o personagem de Spacey se 
 Segue o roteiro completo com as instigantes frases. O vídeo você acha rapidamente na internet [procurando pelo título](https://www.google.com/search?q=let+me+be+frank).
 
 >
-> I know what you want. Oh sure they may have tried to separate us but what we have is too strong  is too powerful.
+> I know what you want. Oh sure they may have tried to separate us but what we have is too strong -- is too powerful.
 > 
 > I mean after all we shared everything you and I.
 > 
