@@ -213,8 +213,8 @@ def PublishToSocialMedia(ref, img):
         print '========== cut here =========='
         print '*** Publishing to Twitter'
         PublishToTwitter(postInfo, img)
-        print '*** Publishing to Facebook'
-        PublishToFacebook(postInfo, st, img)
+        #print '*** Publishing to Facebook'
+        #PublishToFacebook(postInfo, st, img)
         print '*** Done!'
         #SearchAdoroCinema(postInfo)
         webbrowser.open_new_tab(link)
