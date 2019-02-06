@@ -141,6 +141,9 @@ def GetPostInfo(post):
         m = re.match('^desc: \"(.*)\"', l)
         if m:
             postInfo['desc'] = m.group(1)
+        m = re.match('^imdb: \"(.*)\"', l)
+        if m:
+            postInfo['imdb'] = m.group(1)
     return postInfo
 
 
@@ -218,6 +221,8 @@ def PublishToSocialMedia(ref, img):
         print '*** Done!'
         #SearchAdoroCinema(postInfo)
         webbrowser.open_new_tab(link)
+        if postInfo.has_key('imdb'):
+            webbrowser.open_new_tab('http://www.letterboxd.com/imdb/' + postInfo['imdb'])
         #webbrowser.open_new_tab('https://plus.google.com/b/116314610297829036822')
     except Exception as e:
         print '*** Something gone wrong!'
