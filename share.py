@@ -79,7 +79,7 @@ def PublishToTwitter(postInfo, img):
 
 
 def MakeSharePost(postInfo):
-    st = postInfo['subtitle'].decode('utf8') + '\n\n' + postInfo['desc'].decode('utf8') + '\n\n' + postInfo['paragraph'].decode('utf8') + '\n\n' + postInfo['shortlink'].decode('utf8')
+    st = postInfo['subtitle'].decode('utf8') + '\n\n' + postInfo['desc'].decode('utf8') + '\n\n' + postInfo['paragraph'].decode('utf8') + '\n\n' + postInfo['link'].decode('utf8')
     st2 = ''
     if postInfo.has_key('cabine'):
         st = st + '\n\n' + 'Em breve crítica completa no www.cinemaqui.com.br.'.decode('utf8')
@@ -198,7 +198,8 @@ def PublishToSocialMedia(ref, img):
         while WebPageExists(link) == False:
             time.sleep(10)
 
-        postInfo['shortlink'] = baseUrl + postInfo['permalink']
+        postInfo['link'] = baseUrl + postInfo['permalink']
+        postInfo['shortlink'] = postInfo['link']
         comment = GetCommentFromCommit(ref)
         postInfo['subtitle'] = comment.encode('utf8')
         try:
