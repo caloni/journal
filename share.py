@@ -23,17 +23,20 @@ import facebook_cinetenisverde as facebook_credentials
 import adorocinema_cinetenisverde as adorocinema_credentials
 
 
-baseUrl = 'http://www.cinetenisverde.com.br/' 
+baseUrl = 'http://cinetenisverde.com.br/' 
 
 
 
 def WebPageExists(url):
     try:
-        urllib2.urlopen(url)
+        urllib2.urlopen(url + '/')
     except urllib2.HTTPError as e:
+        print 'HTTPError', e.reason
         return False
     except urllib2.URLError as e:
+        print 'URLError'
         return False
+    print 'that is ok'
     return True
 
 
@@ -197,6 +200,7 @@ def PublishToSocialMedia(ref, img):
         print '*** Waiting page ' + link
         while WebPageExists(link) == False:
             time.sleep(10)
+            print '.'
 
         postInfo['link'] = baseUrl + postInfo['permalink']
         postInfo['shortlink'] = postInfo['link']
