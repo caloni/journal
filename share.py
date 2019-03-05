@@ -29,7 +29,7 @@ baseUrl = 'http://cinetenisverde.com.br/'
 
 def WebPageExists(url):
     try:
-        urllib2.urlopen(url + '/')
+        urllib2.urlopen(url + '/index.html')
     except urllib2.HTTPError as e:
         print 'HTTPError', e.reason
         return False
