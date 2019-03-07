@@ -28,8 +28,10 @@ baseUrl = 'http://cinetenisverde.com.br/'
 
 
 def WebPageExists(url):
+    url = url + '/'
+    print '*** Waiting page ' + url
     try:
-        urllib2.urlopen(url + '/index.html')
+        urllib2.urlopen(url)
     except urllib2.HTTPError as e:
         print 'HTTPError', e.reason
         return False
@@ -197,7 +199,6 @@ def PublishToSocialMedia(ref, img):
         postInfo = GetPostInfo(post)
         link = baseUrl + postInfo['permalink']
 
-        print '*** Waiting page ' + link
         while WebPageExists(link) == False:
             time.sleep(10)
             print '.'
