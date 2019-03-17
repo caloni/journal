@@ -120,7 +120,7 @@ def PublishToSocialMedia(ref, img):
         print('waiting for page ' + postInfo['link'], end='')
         sys.stdout.flush()
         while not WebPageExists(postInfo['link']):
-            sys.stdout.write('.') 
+            print('.', end='')
             sys.stdout.flush()
             time.sleep(1)
         print('')
