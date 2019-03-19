@@ -104,37 +104,23 @@ def FindPostImageAndPrepare(postInfo):
             os.remove(origPath)
 
 
-def WebPageExists(url):
-    try:
-        urlopen(url)
-        return True
-    except urllib.error.HTTPError as e:
-        print(e)
-        return False
-
-
 def PublishToSocialMedia(ref, img):
     try:
         print('getting post info')
         postInfo = GetPostInfo(ref)
-        print('waiting for page ' + postInfo['link'], end='')
-        sys.stdout.flush()
-        while not WebPageExists(postInfo['link']):
-            print('.', end='')
-            sys.stdout.flush()
-            time.sleep(1)
-        print('')
+        webbrowser.open_new_tab(postInfo['link'])
+        input('if the page is ok type enter ' + postInfo['link'])
 
         print('opening image to share')
         imgUrl = urlopen(img)
         img = imgUrl.read()
 
         print('publishing to twitter')
-        #PublishToTwitter(postInfo, img)
-        webbrowser.open_new_tab(postInfo['link'])
+        PublishToTwitter(postInfo, img)
         if 'imdb' in postInfo:
             print('share on letterboxd, please')
             webbrowser.open_new_tab('http://www.letterboxd.com/imdb/' + postInfo['imdb'])
+        printt('everything is awewome')
     except Exception as e:
         print('something gone wrong')
         raise
