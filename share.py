@@ -120,7 +120,7 @@ def PublishToSocialMedia(ref, img):
         if 'imdb' in postInfo:
             print('share on letterboxd, please')
             webbrowser.open_new_tab('http://www.letterboxd.com/imdb/' + postInfo['imdb'])
-        printt('everything is awewome')
+        print('everything is awewome')
     except Exception as e:
         print('something gone wrong')
         raise
