@@ -2,7 +2,7 @@
 imdb: "0078346"
 date: "2010-08-12"
 categories: [ "movies" ]
-title: "Superman O Filme"
+title: "Superman: o Filme"
 stars: "5/5"
 desc: "Superman O Filme. Superman (USA, 1978). Dirigido por Richard Donner. Escrito por Jerry Siegel, Joe Shuster, Mario Puzo, Mario Puzo, David Newman, Leslie Newman, Robert Benton, Tom Mankiewicz. Com Marlon Brando, Gene Hackman, Christopher Reeve, Ned Beatty, Jackie Cooper, Glenn Ford, Trevor Howard, Margot Kidder, Jack O'Halloran."
 ---
