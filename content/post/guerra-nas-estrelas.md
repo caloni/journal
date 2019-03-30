@@ -1,6 +1,7 @@
 ---
 imdb: "0076759"
-date: "2017-12-26"
+date: "2011-06-23"
+review: [ "2017" ]
 categories: [ "movies" ]
 title: "Guerra nas Estrelas (Star Wars Episódio IV: Uma Nova Esperança)"
 stars: "3/5"

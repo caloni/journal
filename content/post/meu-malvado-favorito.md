@@ -1,6 +1,7 @@
 ---
 imdb: "1323594"
 date: "2010-12-20"
+review: [ "2011" ]
 categories: [ "movies" ]
 title: "Meu Malvado Favorito"
 stars: "3/5"

@@ -1,6 +1,7 @@
 ---
 imdb: "1264904"
 date: "2010-06-02"
+review: [ "2013", "2019" ]
 categories: [ "movies" ]
 title: "O Pequeno Nicolau"
 stars: "3/5"

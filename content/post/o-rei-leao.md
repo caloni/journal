@@ -1,6 +1,7 @@
 ---
 imdb: "0110357"
 date: "2011-09-05"
+review: [ "2012" ]
 categories: [ "movies" ]
 title: "O Rei Leão"
 stars: "4/5"
