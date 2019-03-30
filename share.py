@@ -11,11 +11,9 @@ import glob
 from PIL import Image
 import os
 import webbrowser
-from bs4 import BeautifulSoup
-from markdown import markdown
 import git
 
-sys.path.append(r'c:\users\caloni\.pwd')
+sys.path.append(".auth")
 import twitter_cinetenisverde as twitter_credentials
 
 baseUrl = 'http://cinetenisverde.com.br/' 
