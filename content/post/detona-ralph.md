@@ -4,7 +4,7 @@ date: "2012-12-30"
 categories: [ "movies" ]
 title: "Detona Ralph"
 stars: "4/5"
-review: ['2016-11-22']
+review: [ "2016" ]
 desc: "Detona Ralph. Wreck-It Ralph (USA, 2012). Dirigido por Rich Moore. Escrito por Rich Moore, Phil Johnston, Jim Reardon, Phil Johnston, Jennifer Lee, John C. Reilly, Sam J. Levine, Jared Stern. Com John C. Reilly, Sarah Silverman, Jack McBrayer, Jane Lynch, Alan Tudyk, Mindy Kaling, Joe Lo Truglio, Ed O'Neill, Dennis Haysbert."
 ---
 Detona Ralph é daqueles filmes que apelam para o saudosismo dos mais velhos  e do seu choro fácil  mas não deixa de lado a história, aproveitando ao máximo o tema que tanto desperta fascínio hoje em dia para os quarentões e trintões que jogavam aqueles joguinhos de fliperama com um ou dois botões.

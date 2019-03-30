@@ -3,7 +3,7 @@ imdb: "0470752"
 date: "2015-05-19"
 categories: [ "movies" ]
 title: "Ex Machina"
-review: ['2016-11-17']
+review: [ "2016" ]
 stars: "4/5"
 desc: "Ex Machina. Ex Machina (UK, 2015). Dirigido por Alex Garland. Escrito por Alex Garland. Com Domhnall Gleeson, Corey Johnson, Oscar Isaac, Alicia Vikander, Sonoya Mizuno, Claire Selby, Symara A. Templeman, Gana Bayarsaikhan, Tiffany Pisani."
 ---

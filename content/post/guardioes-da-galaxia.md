@@ -3,7 +3,7 @@ imdb: "2015381"
 date: "2014-12-06"
 categories: [ "movies" ]
 title: "Guardiões da Galáxia"
-review: ['2017-05-02']
+review: [ "2017" ]
 stars: "3/5"
 desc: "Guardiões da Galáxia. Guardians of the Galaxy (USA, 2014). Dirigido por James Gunn. Escrito por James Gunn, Nicole Perlman, Dan Abnett, Andy Lanning. Com Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel, Bradley Cooper, Lee Pace, Michael Rooker, Karen Gillan, Djimon Hounsou."
 ---
