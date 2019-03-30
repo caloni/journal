@@ -20,7 +20,7 @@
   
               $.each( $('.sortable'), function(i, sortable) {
                 $('tr', sortable).each(function() {
-                  var srch = $(this).text() + $(this).find('a').prop('title');
+                  var srch = $(this).text() // colocando tudo no texto em vez de title + $(this).find('a').prop('title');
                   if( srch.search(regex) < 0 )
                   {
                       $(this).hide()
@@ -35,7 +35,7 @@
               });
   
               total = shows + hides;
-              $('#filter').prop('title', shows + ' de ' + total);
+              $('#results').text('Mostrando ' + shows + ' de ' + total + '.');
           }
           else 
           {
@@ -126,8 +126,8 @@
               {{ .Content }}
               
               <table class="sortable">
-              <input type="text" name="filter" value="" id="filter" style="width: 100%; font-size: 22px;" title=""/>
-              {{ range $index, $element := (where .Data.Pages "Section" "post") }} <tr><td> <a href="{{ .Permalink }}" title="{{ .Params.desc }} {{ .Params.stars }} {{ .Params.categories }} {{ .Params.cabine }}"> {{ if .Params.stars }}{{ partial "stars.html" . }} | {{ end }}{{ .Title }} </a> </td></tr> 
+              <input type="text" name="filter" value="" id="filter" style="width: 100%; font-size: 22px;" title=""/><span name="results" id="results"></span>
+              {{ range $index, $element := (where .Data.Pages "Section" "post") }} <tr><td> <a href="{{ .Permalink }}"> {{ if .Params.stars }}{{ partial "stars.html" . }} {{ end }}{{ .Title }}. {{ .Params.desc }} Nota: {{ .Params.stars }}. Categoria: {{ delimit .Params.categories "," }}. {{ if .Params.cabine }} Visto em cabine de imprensa pelo {{ .Params.cabine }}.{{ end }} Publicado em {{ .PublishDate.Format "2006-01-30" }}. {{ if .Params.review }}Revisto em {{ delimit .Params.review "," }}{{ end }}</a> </td></tr> 
               {{ end }}
               </table>
             </div>
