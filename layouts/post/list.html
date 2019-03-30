@@ -127,7 +127,7 @@
               
               <table class="sortable">
               <input type="text" name="filter" value="" id="filter" style="width: 100%; font-size: 22px;" title=""/><span name="results" id="results"></span>
-              {{ range $index, $element := (where .Data.Pages "Section" "post") }} <tr><td> <a href="{{ .Permalink }}"> {{ if .Params.stars }}{{ partial "stars.html" . }} {{ end }}{{ .Title }}. {{ .Params.desc }} Nota: {{ .Params.stars }}. Categoria: {{ delimit .Params.categories "," }}. {{ if .Params.cabine }} Visto em cabine de imprensa pelo {{ .Params.cabine }}.{{ end }} Publicado em {{ .PublishDate.Format "2006-01-30" }}. {{ if .Params.review }}Revisto em {{ delimit .Params.review "," }}{{ end }}</a> </td></tr> 
+              {{ range $index, $element := (where .Data.Pages "Section" "post") }} <tr><td> <a href="{{ .Permalink }}"> {{ if .Params.stars }}{{ partial "stars.html" . }} {{ end }}{{ .Title }}. {{ .Params.desc }} Nota: {{ .Params.stars }}. Categoria: {{ delimit .Params.categories ", " }}. {{ if .Params.cabine }} Visto em cabine de imprensa pelo {{ .Params.cabine }}.{{ end }} Publicado em {{ .PublishDate.Format "2006-01-02" }}. {{ if .Params.review }}Revisto em {{ delimit .Params.review ", " }}{{ end }} Texto escrito por {{ if .Params.author }}{{ .Params.author }}{{ else }}Wanderley Caloni{{ end }}.</a> </td></tr> 
               {{ end }}
               </table>
             </div>

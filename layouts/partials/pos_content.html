@@ -1,1 +1,1 @@
-<p><i>{{ with .Params.desc }}{{ . }}{{ end }}</i>.</p>
+{{ if .Params.stars }}{{ partial "stars.html" . }} {{ end }}{{ .Title }} &#9679; {{ .Params.desc }} &#9679; Nota: {{ .Params.stars }}. Categoria: {{ delimit .Params.categories ", " }}. {{ if .Params.cabine }} Visto em cabine de imprensa pelo {{ .Params.cabine }}.{{ end }} Publicado em {{ .PublishDate.Format "2006-01-02" }}. {{ if .Params.review }}Revisto em {{ delimit .Params.review ", " }}.{{ end }} Texto escrito por {{ if .Params.author }}{{ .Params.author }}{{ else }}Wanderley Caloni{{ end }}.

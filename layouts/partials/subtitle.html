@@ -1,3 +1,2 @@
-<p class="subtitle">{{ partial "stars.html" . }} | Wanderley Caloni</p>
-<p class="subtitle"><a href="{{ .Site.Params.repo }}/commits/master/content/post/{{ .File.LogicalName }}">{{ .Date.Format "January 2, 2006" }}</a></p>
+<p class="subtitle">{{ partial "stars.html" . }} {{ if .Params.author }}{{ .Params.author }}{{ else }}Wanderley Caloni{{ end }}, <a href="{{ .Site.Params.repo }}/commits/master/content/post/{{ .File.LogicalName }}">{{ .Date.Format "January 2, 2006" }}</a></p>
 <p>{{.TableOfContents}}<p>
