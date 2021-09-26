@@ -4,7 +4,6 @@ categories:
 date: '2019-01-20'
 link: https://www.imdb.com/title/tt0428803
 tags:
-- draft
 - movies
 title: A Marcha dos Pinguins
 ---
@@ -13,7 +12,7 @@ Um documentário sobre o pinguim imperador, que vive no polo sul e que possui um
 
 O resultado é extremamente fofo por se tratar de criaturas adoráveis, e piegas, porque é uma produção francesa que adora poetizar as coisas com frases rasas que só impressionam garotas que querem ser impressionadas. Bom, é só notar o título original (A Marcha do Imperador) para entender esse misto cultural francês entre reverência ao monarquismo com toques pós-revolução.
 
-Mas por trás das filmagens há os verdadeiros heróis: a equipe de filmagem, que participa de todo o processo de migração das aves até um local seguro, a fecundação e proteção dos ovos, passando pela sobrevivência no meio de tormentas e um frio e noite intermináveis. É preciso acompanhar cada evento, que se divide em o que os machos e fêmeas precisam fazer, como um buscar comida enquanto o outro protege o ovo. Sem dar muitos spoilers, imagine que é preciso de uma dedicação admirável para criar um documentário completo como esse.
+Mas nos bastidores há os verdadeiros heróis: a equipe de filmagem, que participa de todo o processo de migração das aves até um local seguro, a fecundação e proteção dos ovos, passando pela sobrevivência no meio de tormentas e um frio e noite intermináveis. É preciso acompanhar cada evento, que se divide em o que os machos e fêmeas precisam fazer, como um buscar comida enquanto o outro protege o ovo. Sem dar muitos spoilers, imagine que é preciso de uma dedicação admirável para criar um documentário completo como esse.
 
 A grande virtude do longa é de fato tratar isso como uma história, com seus momentos de tranquilidade e de tensão. A edição da dezenas de horas de filmagem passaram por um processo criterioso, onde só ficou a parte que consegue dizer mais sobre a história e movê-la adiante. Uma produção modesta de 8 milhões virou um sucesso de mais de 100. Além de levar, claro, o Oscar de melhor documentário aquele ano.
 

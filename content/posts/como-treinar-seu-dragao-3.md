@@ -4,7 +4,6 @@ categories:
 date: '2019-01-18'
 link: https://www.imdb.com/title/tt2386490
 tags:
-- draft
 - movies
 title: Como Treinar Seu Dragão 3
 ---
@@ -15,8 +14,8 @@ E como todo rito de passagem Soluço deve ultrapassar seus pais, o que ele é fo
 
 Mas isso não quer dizer que a execução não seja bem feita. Dotado de efeitos equiparáveis à sua concorrente gigante Disney/Pixar e com uma trilha sonora adorável de John Powell que dá vontade verdadeira de ouvir, Como Treinar Seu Dragão 3 não é um trabalho amador, mas onde sobra técnica parece faltar uma alma.
 
-A crítica Pauline Kael falou algo semelhante do primeiro Star Wars ("um épico sem um sonho") e acho que a comparação aqui cabe, já que há uma tentativa subliminar de transformar esta saga em uma versão Viking do trabalho de George Lucas. Note a espada de fogo de Soluço e o aspecto rebelde que seu povo assume diante dos outros vikings e terá um vislumbre do que quero dizer. E em ambos os trabalhos o risco de se render ao caminho preguiçoso da jornada do herói é enorme. Nenhuma das duas séries de filmes parece ter ouvido a máxima do Tio Ben (Homem-Aranha): "com grandes poderes vem grandes responsabilidades".
+A crítica Pauline Kael falou algo semelhante do primeiro Star Wars ("um épico sem um sonho") e acho que a comparação aqui cabe, já que há uma tentativa subliminar de transformar esta saga em uma versão Viking do trabalho de George Lucas. Note a espada de fogo de Soluço e o aspecto rebelde que seu povo assume diante dos outros vikings e terá um vislumbre do que quero dizer. E em ambos os trabalhos o risco de se render ao caminho preguiçoso da jornada do herói é enorme. Nenhuma das duas séries de filmes parece ter ouvido a máxima do Tio Ben (Homem-Aranha): "com grandes poderes vêm grandes responsabilidades".
 
-Mas este não é um filme infanto juvenil com ideias adultas. Se trata de uma aventura sem riscos palpáveis onde aguardamos por uma resolução burocrática onde deveria haver mais emoção. Há um subtexto envolvendo os dragões que cheira a crítica social sobre imigrantes e conflito de povos, mas é um aroma suave demais para prestarmos atenção. Como eu disse, este é um trabalho que precisa de mais tratamento. Do jeito que está, é uma versão extendida da série que estão passando nos cinemas.
+Mas este não é um filme infanto-juvenil com ideias adultas. Se trata de uma aventura sem riscos palpáveis onde aguardamos por uma resolução burocrática onde deveria haver mais emoção. Há um subtexto envolvendo os dragões que cheira a crítica social sobre imigrantes e conflito de povos, mas é um aroma suave demais para prestarmos atenção. Como eu disse, este é um trabalho que precisa de mais tratamento. Do jeito que está, é uma versão extendida da série que estão passando nos cinemas.
 
 Mas eu gostaria de poder dizer que é interessante notar o rosto com pelos crescendo em Soluço anunciando seu status de pré-adulto, que os flashbacks com o pai é uma muleta emocional para nos envolvermos mais com a história e que o mundo dos dragões é um prisma caótico e esteticamente fascinante construído pela equipe Dreamworks. É uma ótima produção. Pena que com grandes produções nem sempre venham grandes histórias...

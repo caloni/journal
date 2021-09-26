@@ -5,14 +5,13 @@ date: '2019-01-17'
 link: https://www.imdb.com/title/tt6266538
 tags:
 - cinemaqui
-- draft
 - movies
 title: Vice
 ---
 
 Vice é logo depois de A Grande Aposta mais um filme escrito e dirigido por Adam McKay tentando dialogar com o público leigo a respeito de detalhes sórdidos da máquina estatal americana. Se no filme anterior o alvo era o sistema financeiro responsável pela crise de 2008 agora vamos um pouco mais para o passado dar de cara com o vice-presidente Dick Cheney durante a era Bush Jr.
 
-Este é um filme sobre bastidores da política, mas diferente da série House of Cards, há um tom bem menos glorioso. Quase todo o filme se passa em lugares apertados e escuros (um jogo de lentes na câmera que torna todos muito próximos e a profundidade da cena muito menor), com poucas pessoas e geralmente essas pessoas estão cabisbaixas, querendo não chamar atenção. Essa é a síntese comportamental do próprio Dick Cheney, que acumulou poderes durante a presidência de Bush Filho ainda que a função de vice-presidente seja considerada praticamente simbólica naquele país. Mas há motivos para a carreira de Cheney desbancar em uma posição de menos prestígio, e justamente por isso é que a sensação geral do filme é tudo estar sendo feito às escondidas.
+Este é um filme sobre bastidores da política, mas diferente da série House of Cards, há um tom bem menos glorioso. Quase todo o filme se passa em lugares apertados e escuros (um jogo de lentes na câmera que torna todos muito próximos e a profundidade de campo muito menor), com poucas pessoas e geralmente essas pessoas estão cabisbaixas, querendo não chamar atenção. Essa é a síntese comportamental do próprio Dick Cheney, que acumulou poderes durante a presidência de Bush Filho ainda que a função de vice-presidente seja considerada praticamente simbólica naquele país. Mas há motivos para a carreira de Cheney desbancar em uma posição de menos prestígio, e justamente por isso é que a sensação geral do filme é tudo estar sendo feito às escondidas.
 
 A atuação de Christian Bale é tão perfeccionista que é quase como se o ator não estivesse lá. Em seu lugar há uma versão furtiva e devidamente ridicularizada de Cheney. Criação de sua brilhante mulher Lynne, interpretada por uma Amy Adams, que melhora sua desenvoltura dramática a cada novo projeto que pega, ela percebe o potencial amoral de seu marido, ainda que nós mesmos não consigamos enxergar potencial algum. Então, como que um reflexo do voto de confiança de sua esposa, o próprio Cheney começa a aproveitar toda e qualquer oportunidade para subir um novo degrau no jogo de influências de Washington.
 
@@ -22,7 +21,7 @@ Adam McKay parece particularmente fascinado pelo seu estilo em explicar conceito
 
 Aliás, o humor constante em todo o filme consegue amenizar as barbaridades que testemunhamos serem cometidas em nome do poder a todo custo. E talvez a maior sacada de todas tenha sido de fato o narrador do filme, interpretado por Jesse Plemons e que se mantém como um personagem-coringa até um momento derradeiro que pega o espectador de sopetão. Se há justiça poética nos filmes mais sombrios, o personagem de Plemons poderia muito bem entrar na categoria.
 
-Porém, McKay não nos deixa nunca esquecer o esquema macabro que se estabelece na Casa Branca, ao demonstrar na primeira decisão governamental vista no filme o impacto direto do que foi dito por um presidente e os camponeses de uma vila do outro lado do mundo sendo massacrados por decisão estratégica. Essa dinâmica se repete durante todo o filme, em uma das decisões fortes na trama, que estabelece um peso difícil de esquecer e que nos lembra os momentos que a galera que comenta sobre o "imperialismo norte-americano" têm razão.
+Porém, McKay não nos deixa nunca esquecer o esquema macabro que se estabelece na Casa Branca, ao demonstrar na primeira decisão governamental vista no filme o impacto direto do que foi dito por um presidente e os camponeses de uma vila do outro lado do mundo sendo massacrados por decisão estratégica. Essa dinâmica se repete durante todo o filme, em uma das decisões fortes na trama, que estabelece um peso difícil de esquecer e que nos lembra os momentos que a galera que comenta sobre o "imperialismo norte-americano" tem razão.
 
 Ao mesmo tempo há um certo sarcasmo implícito na figura dos personagens, pois apesar deles conseguirem galgar os níveis de poder da nação mais poderosa do mundo, e fazer o que muitas pessoas ingênuas a respeito de política duvidariam que pudesse ser de fato feito, "Vice" nunca nos deixa de lembrar que todas aquelas pessoas, além de seres humanos horríveis, são medíocres no que fazem. E eu não gostaria de assistir um filme comandado pelos verdadeiros profissionais.
 
