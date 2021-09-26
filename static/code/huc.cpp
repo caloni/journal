@@ -2,6 +2,7 @@
 
 #include <string>
 #include <vector>
+#include <thread>
 
 
 using namespace std;
@@ -55,6 +56,7 @@ int main(int argc, char* argv[])
   if( argc == 3 )
   {
     WriteJob job = { argv[1], argv[2] };
+    vector<thread> jobs;
     string filesInFind = job.inPath + "\\*.md";
 
     WIN32_FIND_DATAA findData;
@@ -65,13 +67,22 @@ int main(int argc, char* argv[])
       do
       {
         job.files.push_back(findData.cFileName);
+
+        if( job.files.size() > 100 )
+        {
+          jobs.push_back(thread(Writer, job));
+          job.files.clear();
+        }
       }
       while( FindNextFileA(findH, &findData) );
 
       FindClose(findH);
     }
 
-    Writer(job);
+    for( auto& j: jobs )
+    {
+      j.join();
+    }
   }
 }
 
