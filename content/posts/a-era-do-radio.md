@@ -4,7 +4,6 @@ categories:
 date: '2019-01-29'
 link: https://www.imdb.com/title/tt0093818
 tags:
-- draft
 - movies
 title: A Era do Rádio
 ---
@@ -17,7 +16,7 @@ O de Allen era um show para crianças chamado O Vingador Mascarado, e nas palavr
 
 Ele descreve vários momentos que o rádio fez parte, como o anúncio da segunda guerra com o ataque a Pear Harbor ou a virada para o ano novo. Ele acompanha de longe alguns causos que colecionava das celebridades, como escândalos de traição, e mistura com detalhes das vidas de seus familiares, como a mania do seu tio de sempre trazer peixe ou a eterna busca de sua tia solteirona por um bom partido.
 
-A parte familiar se sai muitíssimo bem. Ela é aconchegante e faz lembrar de nossa própria família, mesmo que em outra época e sem ser judia. Se trata da atmosfera capturada pelos olhos de uma criança. Eu já me lembrava de cenas do filme quando eu mesmo o assista com meu pai na televisão, mas não entendia metade da piadas.
+A parte familiar se sai muitíssimo bem. Ela é aconchegante e faz lembrar de nossa própria família, mesmo que em outra época e sem ser judia. Se trata da atmosfera capturada pelos olhos de uma criança. Eu já me lembrava de cenas do filme quando eu mesmo o assista com meu pai na televisão, mas não entendia metade das piadas.
 
 Mas este não é um filme difícil se você é adulto. Ele é um pouco do ar que Allen respirou quando criança. O filme é doce ao mesmo tempo que esperto. E deixa alguns bons momentos.
 

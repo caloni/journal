@@ -5,7 +5,6 @@ date: '2019-02-02'
 link: https://www.imdb.com/title/tt5507620
 tags:
 - cinemaqui
-- draft
 - movies
 title: Jovens Infelizes Ou Um Homem Que Grita Não É Um Urso Que Dança
 ---
@@ -24,7 +23,7 @@ Ao mesmo tempo, como citei, esses jovens fazem sexo como forma de arte e escapis
 
 Para tentar "chocar" o espectador, ou melhor dizendo, para tirar sua sensação de escândalo, vários momentos do filme são crus. A história é introduzida por uma mulher sensual com os dois braços e pernas arrancados. Há um suicídio coletivo de jovens como ato político. Há uma orgia em uma igreja. Um negro é linchado simbolicamente em praça pública (um momento bem bonitinho na Avenida Paulista). Não há limites para nos fazer tirar da zona de conforto. E ainda assim eu fiquei abismado todo momento em como as jovens de esquerda revolucionária feministas poderiam ter os corpos tão esbeltos. Liberdade poética em meio a tanto realismo?
 
-Mas nada mais choca as pessoas, como alguém comenta no filme. É verdade. Estamos anestesiados com tanta exposição gerada pelas mídias sociais. Não há mais limites e os que se dizem revolucionários soam como crianças mimadas. Colocar um pôster do Che Guevara na parede envolve em haver um motivo. Sem ela se torna um clichê em forma de capitalismo. Nunca se vendeu tão bem a ideia de que jovens podem ser rebeldes sem causa e, pior, se sentir bem por isso.
+Mas nada mais choca as pessoas, como alguém comenta no filme. É verdade. Estamos anestesiados com tanta exposição gerada pelas mídias sociais. Não há mais limites e os que se dizem revolucionários soam como crianças mimadas. Colocar um pôster do Che Guevara na parede envolve um motivo. Sem ela se torna um clichê em forma de capitalismo. Nunca se vendeu tão bem a ideia de que jovens podem ser rebeldes sem causa e, pior, se sentir bem por isso.
 
 Eu fico curioso em como pessoas de diferentes visões políticas irão encarar os Jovens Infelizes. Imagino que a direita brasileira deve achar tudo aquilo uma representação repulsiva da realidade, um exemplo de como essa geração está perdida. Já a esquerda senil que vive nos jardins (bairro nobre de São Paulo) irá finalmente largar seus livros de masturbação intelectoide e encontrar seu verdadeiro espírito revolucionário em algum cinema da Augusta (rua para filmes anternativos em São Paulo) e sentir que os heróis da causa estão escondidos em algum beco do centro renovado, talvez em alguma ocupação mais limpinha.
 

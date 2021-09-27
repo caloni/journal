@@ -1,10 +1,9 @@
 ---
 categories:
-- blog
+- reviews
 date: '2019-02-02'
 link: https://www.imdb.com/title/tt9495238
 tags:
-- draft
 - movies
 title: Let Me Be Frank
 ---

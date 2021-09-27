@@ -4,14 +4,13 @@ categories:
 date: '2019-01-21'
 link: https://www.imdb.com/title/tt3534282
 tags:
-- draft
 - movies
 title: 'Don Verdean: o Que o Passado nos Reserva'
 ---
 
 Esta é uma comédia que pega pesado com as religiões protestantes dos EUA. A maneira com que ele faz isso é muito maldosa. Ela é... como posso dizer... sincera.
 
-Os religiosos nesse filme, podemos dizer com alguma segurança, seguem fielmente seus princípios. O engraçado no caso é que eles parecem tão ingênuos por fora que parece mentira. Tony Lazarus foi um homem que quase morreu em um acidente de carro com uma prostituta. Tendo sido ressuscitado no hospital se converteu e fundou uma igreja. O personagem-título, Don Verdean (Sam Rockwell), é um arqueólogo a serviço da fé. Encontra "provas" de que tudo que está escrito na Bíblia é verdade.
+Os religiosos nesse filme, podemos dizer com alguma segurança, seguem fielmente seus princípios. O engraçado no caso é que eles são tão ingênuos por fora que parece mentira. Tony Lazarus foi um homem que quase morreu em um acidente de carro com uma prostituta. Tendo sido ressuscitado no hospital se converteu e fundou uma igreja. O personagem-título, Don Verdean (Sam Rockwell), é um arqueólogo a serviço da fé. Encontra "provas" de que tudo que está escrito na Bíblia é verdade.
 
 Quando esses dois se encontram o próximo artefato a ser encomendado por Verdean de Israel é a estátua de sal da esposa de Ló (sobre a destruição das cidades Sodoma e Gomorra). Toda a trama criada através dessa estátua, que é um bloco sem forma, incluindo a especulação de que ela fosse hermafrodita (por ter uma protuberância em um local...) ou que ela fosse fake (vindo do pastor da igreja concorrente, ex-satanista) deveria ser hilária do começo ao fim, mas ela é tão absurda que fica difícil entender se é para comprar a ideia dessas pessoas ou... apenas dar risada.
 

@@ -4,7 +4,6 @@ categories:
 date: '2019-01-28'
 link: https://www.imdb.com/title/tt0069824
 tags:
-- draft
 - movies
 title: Irmão Sol, Irmã Lua
 ---
@@ -15,6 +14,6 @@ A produção é feita com atores simples, que atuam o mínimo necessário para a
 
 O que torna esse filme tão poderoso é sua mensagem simples e direta: seja como Jesus. Abandone suas riquezas, pois elas não entrarão no reino dos céus. Busque ajudar ao próximo e viver no minimalismo. Muitos encontram essa mesma resposta hoje em dia, em pleno ápice da riqueza humana graças ao capitalismo. Francisco já tinha encontrado isso 800 anos atrás, onde a miséria imperava e ele dizia a todos: jogue mais coisas foras. Apenas o pão necessário nos basta.
 
-Seu pai era um próspero fabricante de tecidos. Explorando duzentas pessoas que não viam a luz do sol, quando Francisco se livra de todo seu estoque e de sua própria roupa, vindo a vestir um saco rústico costurado como roupa, é de uma transformação tão poderosa que não há como não se encontar com tamanho idealismo. E isso em pleno inverno. Seus antigos amigos vão sendo convertidos um a um, porque aos poucos eles entendem que se realmente são cristãos a voz da razão está com Francisco. E isso muda toda a história.
+Seu pai era um próspero fabricante de tecidos. Explorando duzentas pessoas que não viam a luz do sol, quando Francisco se livra de todo seu estoque e de sua própria roupa, vindo a vestir um saco rústico costurado como roupa, é de uma transformação tão poderosa que não há como não se encantar com tamanho idealismo. E isso em pleno inverno. Seus antigos amigos vão sendo convertidos um a um, porque aos poucos eles entendem que se realmente são cristãos a voz da razão está com Francisco. E isso muda toda a história.
 
 Um exemplo de como o mundo pode ser transformado quando uma pessoa decide não se colocar contra todo mundo, mas viver a sua Verdade.
