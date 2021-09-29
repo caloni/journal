@@ -4,7 +4,7 @@ categories:
 date: '2019-02-13'
 tags:
 - cinemaqui
-- draft
+- movies
 title: Como a geração de Sai de Baixo se encontra com a geração Não me Toque
 ---
 
@@ -12,7 +12,7 @@ A coletiva de imprensa para "Sai de Baixo: O Filme" pode ser resumida da seguint
 
 Para quem chegou no planeta faz pouco tempo, Sai de Baixo foi uma série de sucesso nos anos 90 exibida pela Rede Globo de Televisão por cerca de quatro anos no horário nobre de domingo. A ideia idealizada por Luis Gustavo e Daniel Filho foi inspirada em outro programa, A Família Trapo, que estreou nos anos 60 o formato de teatro com plateia ao vivo, depois editado para a TV mas com direito a improvisos. Sucesso absoluto, não à toa a TV "se inspirou" pelo menos mais duas vezes, em A Grande Família e Toma Lá Dá Cá (onde Miguel Falabella e Marisa Orth também participam).
 
-Para quem lembra da velha discussão sobre a mudança do humor por conta de outros tempos através de outro programa antigo e hoje polêmico, Os Trapalhões, com suas piadas envolvendo temas sensíveis como racismo e homossexualidade, Sai de Baixo poderia fazer parte hoje da mesma sabatina feito pelo pelotão do politicamente correto, já que o programa trabalha com caricaturas do imaginário popular envolvendo o que o pelotão chama de "pessoas em situação vulnerável", seja a faxineira pobre ou o resto dos personagnes, formados por uma falida família de classe média fingindo nobreza em um apartamento decadente em bairro idem da cidade de São Paulo.
+Para quem lembra da velha discussão sobre a mudança do humor por conta de outros tempos através de outro programa antigo e hoje polêmico, Os Trapalhões, com suas piadas envolvendo temas sensíveis como racismo e homossexualidade, Sai de Baixo poderia fazer parte hoje da mesma sabatina feito pelo pelotão do politicamente correto, já que o programa trabalha com caricaturas do imaginário popular envolvendo o que o pelotão chama de "pessoas em situação vulnerável", seja a faxineira pobre ou o resto dos personagens, formados por uma falida família de classe média fingindo nobreza em um apartamento decadente em bairro idem da cidade de São Paulo.
 
 Mas tanto o roteirista Miguel Falabella quanto todo o elenco defenderam e ensinaram na entrevista como funciona o humor, pelo princípio de que o exagero dos personagens faz com que a plateia se identifique e se sinta mais à vontade exatamente por ser representada. Não se trata apenas de dar boas risadas, mas da identificação de nossas próprias caricaturas brazucas, esse personagem patético que comercializava pau-brasil e que desde o início sempre almejou ser o inalcançável e "perfeito" comprador europeu.
 

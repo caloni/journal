@@ -5,14 +5,13 @@ date: '2019-02-05'
 link: https://www.imdb.com/title/tt0437086
 tags:
 - cinemaqui
-- draft
 - movies
 title: 'Alita: Anjo de Combate'
 ---
 
 As cabines de imprensa de superproduções são lotadas de jovens, e "Alita: Anjo de Combate" é um desses filmes, apesar de sua cara de segundo escalão seu orçamento foi de cerca de duzentos milhões de dólares. Duzentos. Milhões. De. Dólares. E o dinheiro do roteirista?
 
-O filme foi escrito por três pessoas: James Cameron (obcecado por Avatar há uma década), Laeta Kalogridis (da série Altered Carbon) e Robert Rodriguez (da série Pequenos Espiões). Eles se basearam no mangá de Yukito Kishiro dos anos 90 que já contava basicamente a mesma história. Não há muito o que inventar quando seu objetivo é fazer/copiar uma distopia genérica no futuro distante onde deve haver luta de robôs/andróides. A história é como já foi visto em um ou outro trabalho de referência, como o comércio de partes do corpo em Blade Runner, a questão da consciência/alma em Ghost in the Shell e a velha disputa sanguinária cujo vencedor ganha o direito de participar da elite que comanda essa sociedade.
+O filme foi escrito por três pessoas: James Cameron (obcecado por Avatar há uma década), Laeta Kalogridis (da série Altered Carbon) e Robert Rodriguez (da série Pequenos Espiões). Eles se basearam no mangá de Yukito Kishiro dos anos 90 que já contava basicamente a mesma história. Não há muito o que inventar quando seu objetivo é fazer/copiar uma distopia genérica no futuro distante onde deve haver luta de robôs/andróides. A história é como já foi vista em um ou outro trabalho de referência, como o comércio de partes do corpo em Blade Runner, a questão da consciência/alma em Ghost in the Shell e a velha disputa sanguinária cujo vencedor ganha o direito de participar da elite que comanda essa sociedade.
 
 Aliás, sobre essa sociedade do filme, me vem à mente uma frase de outro filme recente que assisti. Independente de qual ele seja, havia uma pergunta recorrente ao espectador: "qual é a sua utopia?". Essa pergunta implica que cada um tem sua visão de um futuro ideal, ou muito errado quando se torna uma distopia. Alita me fez lembrar disso porque a distopia do filme parece ser a única produzida em Hollywood há uma década e de forma cada vez menos sutil: a eterna luta de classes e os 1% ficando com tudo. Aqui os 1% vivem em uma cidade suspensa como os jardins de Babilônia, mas com tecnologia de 500 anos no futuro, enquanto a Cidade de Ferro é tudo que está estratificado no chão.
 

@@ -5,7 +5,6 @@ date: '2019-02-07'
 link: https://www.imdb.com/title/tt6768578
 tags:
 - cinemaqui
-- draft
 - movies
 title: Dogman
 ---
@@ -16,7 +15,7 @@ Dirigido por Matteo Garrone e escrito por um batalhão de gente, Dogman é uma h
 
 Isso porque ele, logo veremos, não passa de chupim de Simone, o grandalhão do bairro que intimida a todos porque não se sabe até onde vai sua insanidade em usar a força bruta. Marcello vive praticamente como uma sombra (pequena) de Simone, pois é a menor e mais franzina pessoa por perto, se passando apenas como mais um coitado que não tem outra alternativa senão obedecer o grandalhão. Fornecedor pro bono de cocaína, Marcello vive diferentes níveis de abuso de Simone, quase sempre girando em torno da ameaça constante de que um soco lhe arranque a cabeça.
 
-Ao mesmo tempo vamos acompanhando a rotina desse pequeno e pacato pedaço de vilarejo que apesar de beira-mar parece entregue ao pó e ao esquecimento. A lei chega tardia nesse lugar, e é por isso que todos institivamente tentam se unir contra qualquer ameaça mais grave de Simone. Porém, não é fácil peitar alguém quando enquantos todos têm algo a perder (Marcello tem sua filha) e fica ainda pior ao perceber que o descerebrado Simone não.
+Ao mesmo tempo vamos acompanhando a rotina desse pequeno e pacato pedaço de vilarejo que apesar de beira-mar parece entregue ao pó e ao esquecimento. A lei chega tardia nesse lugar, e é por isso que todos institivamente tentam se unir contra qualquer ameaça mais grave de Simone. Porém, não é fácil peitar alguém quando todos têm algo a perder (Marcello tem sua filha) e fica ainda pior ao perceber que o descerebrado Simone não.
 
 E é essa tensão inimente durante todo o longa que nos mantém atentos para o que pode acontecer. Tão atentos que é capaz que passe despercebido que Marcello, apesar do elo mais fraco, parece tentar domar essa fera, ainda que à distância e ainda que se submetendo. Como o cão feroz que dava banho no início da história. Marcello quer fazer parte das vantagens de ser grande e forte. Ele parece viver no limiar entre a vítima potencialmente heróica e o covarde aproveitador. É possível sentir empatia por Marcello por ele ser pequeno e parecer sempre fazer a coisa certa, mas é impossível tomar parte disso depois que aprendemos que ele vive (ou tenta viver) das migalhas dos pães arrancados à força por Simone de quem quer que esteja no seu caminho.
 

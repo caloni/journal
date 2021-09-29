@@ -4,7 +4,6 @@ categories:
 date: '2019-02-06'
 link: https://www.imdb.com/title/tt8359848
 tags:
-- draft
 - movies
 title: Clímax
 ---
