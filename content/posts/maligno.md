@@ -5,7 +5,6 @@ date: '2019-03-13'
 link: https://www.imdb.com/title/tt4504044
 tags:
 - cinemaqui
-- draft
 - movies
 title: Maligno
 ---
@@ -14,7 +13,7 @@ Para fãs de terror, "Maligno" é uma viagem que no mínimo paga o ingresso, mas
 
 Essa é uma história horripilante demais para sermos racionais e científicos. Ela coloca o espírito de um serial killer morto pela polícia de volta à Terra no corpo de um recém-nascido. Já crescido, Miles é visto como um prodígio pelos pais, Sarah e John, pois aprende rápido e dá sinais de uma inteligência fora do comum. Porém, seus problemas em socializar o torna uma criança solitária, e aos poucos sua mãe percebe que há algo de errado e sombrio na natureza de seu filho.
 
-Maligo é escrito por Jeff Buhler, que esse ano também estreia uma nova adaptação de A Colheita Tardia. Jeff insere detalhes da trama que torna aquelas pessoais mais reais e fragilizadas. O pai de Miles, por exemplo, possui um histórico de violência com seu próprio pai, o que o torna impotente como uma voz que contrarie seu menino. Ao mesmo tempo Sarah está encantada por ter um filho especial, e ninguém parece possuir autoridade para punir Miles quando coisas estranhas começam a acontecer em sua volta.
+Maligno é escrito por Jeff Buhler, que esse ano também estreia uma nova adaptação de O Cemitério Maldito. Jeff insere detalhes da trama que torna aquelas pessoais mais reais e fragilizadas. O pai de Miles, por exemplo, possui um histórico de violência com seu próprio pai, o que o torna impotente como uma voz que contrarie seu menino. Ao mesmo tempo Sarah está encantada por ter um filho especial, e ninguém parece possuir autoridade para punir Miles quando coisas estranhas começam a acontecer em sua volta.
 
 Ao mesmo tempo nós, espectadores, sabemos que Miles não é culpado. Ele entra em transes e realiza ações perversas, mas quando volta sabemos que ele conscientemente não as fez. E isso torna tudo muito mais complexo, já que ao mesmo tempo que temos uma criança sinistra em casa essa mesma criança também é uma vítima.
 

@@ -4,7 +4,6 @@ categories:
 date: '2019-03-11'
 link: https://www.imdb.com/title/tt0105236
 tags:
-- draft
 - movies
 title: Cães de Aluguel
 ---
@@ -13,7 +12,7 @@ Há uma entrevista no Blu-Ray do filme em que Michael Madsen (Mr. Blonde) coment
 
 Primeiro filme de Quentin Tarantino, Reservoir Dogs é um filme que vem envelhecendo muito bem. Se antes era um exemplo de um diretor promissor, embora com orçamento apertado e técnica a ser aprimorada, revendo nota-se a auto-confiança com que o filme é conduzido. É mais surpreendente se lembrarmos do elenco de peso. E mesmo assim a câmera de Tarantino passeia por aquele galpão. Ele encontra enquadramentos de clássico instantâneo e movimentos de câmera que mantém o espectador com a visão privilegiada da violência bizarra inserida em uma história cheia de personagens reais.
 
-Os diálogos de Tarantino impressionam mais que as cenas de ação. Eles são reais. As pessoas falam ao mesmo tempo. A primeira conversa, na mesa do restaurante, podemos ouvir uma ou duas pessoas falando ao fundo enquanto Mr. Brown (o personagem que Tarantino interpreta) tenta explicar como a música "Like a Virgin" de Madonna no fundo era sobre uma garota que já tinha deitado com tantos homens que não sentia mais nada lá embaixo. Logo em seguida há um mini-discurso sobre os valores de Mr. Pink (Steve Buscemi) e sua prática de nunca dar gorjeta. A única certeza que temos quando eles saem do restaurante de terno com gravata fina e caminham em câmera lenta sob o som da música-tema inicial é que esperamos esta cena será o início de algo grandioso, pois aquelas pessoas, cara, elas têm personalidade para conduzir uma grande história.
+Os diálogos de Tarantino impressionam mais que as cenas de ação. Eles são reais. As pessoas falam ao mesmo tempo. A primeira conversa, na mesa do restaurante, podemos ouvir uma ou duas pessoas falando ao fundo enquanto Mr. Brown (o personagem que Tarantino interpreta) tenta explicar como a música "Like a Virgin" de Madonna no fundo era sobre uma garota que já tinha deitado com tantos homens que não sentia mais nada lá embaixo. Logo em seguida há um mini-discurso sobre os valores de Mr. Pink (Steve Buscemi) e sua prática de nunca dar gorjeta. A única certeza que temos quando eles saem do restaurante, de terno com gravata fina, e caminham em câmera lenta sob o som da música-tema inicial, é que esta cena é o início de algo grandioso, pois aquelas pessoas têm personalidade para conduzir uma grande história.
 
 E a promessa se cumpre. Inicialmente inserindo o núcleo da narrativa em um galpão onde os Mr. Pink e Mr. White (Harvey Keitel) se escondem após um assalto mal sucedido, você pode pensar que este será um filme de um cenário só com diálogos feitos para o teatro. Ledo engano. Tarantino está interessado não apenas em nos inserir na ação com sua câmera que vai observando de vários ângulos a situação (emulando assim os diferentes pontos de vista daquelas pessoas envolvidas), mas também em seu roteiro há uma não-linearidade que mais pra frente será sua marca registrada, mas que aqui cumpre perfeitamente o papel de ir nos deixando mais tensos. Conforme entendemos melhor quem é cada uma daquelas pessoas o desfecho que se aproxima vai ganhando mais peso.
 

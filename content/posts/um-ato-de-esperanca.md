@@ -5,7 +5,6 @@ date: '2019-03-13'
 link: https://www.imdb.com/title/tt6040662
 tags:
 - cinemaqui
-- draft
 - movies
 title: Um Ato de Esperança
 ---
@@ -16,7 +15,7 @@ Mas há um outro motivo do porquê esse filme de Richard Eyre sair na vantagem. 
 
 O roteiro de Ian McEwan, que se baseou em seu próprio livro, é uma imersão realista no mundo dos juízes de primeira instância, mas que usa um drama fácil para incitar algumas questões universais. Todos sabemos que a grande maioria dos casos são simples enunciações do que a lei já prevê ou uma coleção massiva de julgamentos anteriores. É muito difícil que no mesmo ano um juiz decida casos inéditos e polêmicos. Fazer a juíza Fiona Maye, a personagem de Thompson, decidir dois casos polêmicos de vida e morte na mesma semana é forçar um pouco demais a ficção.
 
-Porém, essa é a vantagem da ficção: intensificar um pouco as coisas para que elas ganhem uma nova tonalidade. E nós nos acostumamos a esse drama, vendo uma ou outra novela mexicano ou um filme de sangue latino que usa daquela tensão falsa que soa real porque a música está muito tensa e o rosto dos atores muito sombrio. Esse é um caso típico que ainda é alimentado pela intepretação intensa de Thompson, o que garante uma sessão exaustiva, ainda que intelectualmente desafiadora.
+Porém, essa é a vantagem da ficção: intensificar um pouco as coisas para que elas ganhem uma nova tonalidade. E nós nos acostumamos a esse drama, vendo uma ou outra novela mexicana ou um filme de sangue latino que usa daquela tensão falsa que soa real porque a música está muito tensa e o rosto dos atores muito sombrio. Esse é um caso típico que ainda é alimentado pela intepretação intensa de Thompson, o que garante uma sessão exaustiva, ainda que intelectualmente desafiadora.
 
 Thompson faz uma pessoa que chega aos cinquenta anos compenetrada em um trabalho que adora fazer. Ela pula de caso em caso e se esquece dos finais de semana e das noites com o marido (Stanley Tucci, que consegue dizer coisas crueis para a esposa com afeto). Não tendo filhos, logo se vê que há anos ela executa a mesma rotina. E ao observarmos os casos de vida e morte que está julgando, como podemos pensar diferente? Sua personagem soa não apenas absolta no trabalho, mas uma verdadeira altruísta, sacrificando sua vida pessoal pelo bem comum; evitando ao máximo que suas emoções nunca atrapalhem suas ações.
 

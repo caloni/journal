@@ -4,7 +4,6 @@ categories:
 date: '2019-03-27'
 link: https://www.imdb.com/title/tt0372784
 tags:
-- draft
 - movies
 title: Batman Begins
 ---
@@ -17,7 +16,7 @@ Christian Bale é o Batman mais completo dos cinemas, e por isso mesmo o mais bo
 
 E é essa a verdadeira força de Batman Begins. Esqueça o pseudo-realismo digital de uma Ghotan representando as injustiças do mundo e suas consequências. Esqueça as lutas físicas e os apetrechos militares usados pelo anti-heroi. Batman é o símbolo de alguém que quer fazer alguma coisa, qualquer coisa, para melhorar o mundo. Ele parte dos seus medos e traumas de infância e usa suas montanhas de dinheiro e dedicação sobrenatural para conseguir. Ainda é um personagem de quadrinhos, mas que personagem!
 
-Nos esquecemos por um momento da verossimilhança que o filme tenta passar. Ele nos engana por tempo o suficiente, uma hora para ser exato, antes que Bruce Wayne coloque sua capa e sem semblante assustador aterrorize os únicos que não sentem medo: os criminosos. O roteiro mantém algumas frases na manga para a segunda metade, onde os diálogos se repetem sob um novo prisma, e quando elas são ditas de novo é quando a lenda já começa a ser conhecida pelo povo de Ghotan.
+Nos esquecemos por um momento da verossimilhança que o filme tenta passar. Ele nos engana por tempo o suficiente, uma hora para ser exato, antes que Bruce Wayne coloque sua capa e seu semblante assustador aterrorize os únicos que não sentem medo: os criminosos. O roteiro mantém algumas frases na manga para a segunda metade, onde os diálogos se repetem sob um novo prisma, e quando elas são ditas de novo é quando a lenda já começa a ser conhecida pelo povo de Ghotan.
 
 Assim como Superman de Richard Donner e Homem-Aranha de Sam Raimi nasce uma lenda do Cinema, e não rimos dela, mas com ela. Essa é a mágica de super-heróis bem desenvolvidos sem toda aquela reverência boba dos filmes de hoje em dia da Marvel e da DC. São pessoas fantasiadas para o Carnaval, pelo amor de deus. Que haja uma forma de contextualizar isso no mundo real.
 

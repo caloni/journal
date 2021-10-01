@@ -4,7 +4,6 @@ categories:
 date: '2019-03-24'
 link: https://www.imdb.com/title/tt0089530
 tags:
-- draft
 - movies
 title: 'Mad Max 3: Além da Cúpula do Trovão'
 ---
@@ -15,8 +14,8 @@ Turner participa de algumas cenas como a dona de Cidade-Feira, e não me pergunt
 
 Mel Gibson, em seu terceiro e último filme da série, começa com cabelo grandão e todo maltrapilho (é assim que Turner o chama), mas já impõe respeito. Seu arco é o filme inteiro: ele é roubado pelo ex-companheiro do filme anterior intepretado por Bruce Spence, que agora tem um filho, que é tão pentelho quanto o pai. Que dupla! Agora eles possuem um mini-avião. A saga Mad Max nunca perde a graça por causa dessas piadas bem-humoradas. É desse 3 também a "cara de criança" usada em Rick And Morty, além de outras referências.
 
-Há uma sequência sensacional fora da cidade, em um Oásis, onde acharmos jovens e crianças à espera do seu salvador. O filme se paga durante a explicação da lenda que eles acreditam. É um exemplo de como religiões surgem. É patético, incrível e transcendental ao mesmo tempo. Há uma cena dessas crianças em cima de um avião comercial. Não perca esse momento.
+Há uma sequência sensacional fora da cidade, em um Oásis, onde achamos jovens e crianças à espera do seu salvador. O filme se paga durante a explicação da lenda que eles acreditam. É um exemplo de como religiões surgem. É patético, incrível e transcendental ao mesmo tempo. Há uma cena dessas crianças em cima de um avião comercial. Não perca esse momento.
 
-Assim como não se pode perder os detalhes da fotografia desse filme no deserto, em uma contra luz belíssima. Aliás, este é o primeiro filme da saga a usar uma fotografia e uma trilha sonora decente, que mistura batidas que lembram máquinas e uma sequência de acordes desconexos que lembram o caos que o mundo se tornou.
+Assim como não se pode perder os detalhes da fotografia desse filme no deserto, em uma contra-luz belíssima. Aliás, este é o primeiro filme da saga a usar uma fotografia e uma trilha sonora decente, que mistura batidas que lembram máquinas e uma sequência de acordes desconexos que lembram o caos que o mundo se tornou.
 
 Com menos ação e mais história, este filme pode desagradar ou agradar alguns justamente por isso. Mas como todo filme não é preciso assistir para ver os outros. Todos os filmes são independentes e possuem suas boas ideias. George Miller parece ter juntado as melhores para o ainda inesquecível Fury Road.

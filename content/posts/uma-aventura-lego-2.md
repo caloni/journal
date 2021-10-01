@@ -4,7 +4,6 @@ categories:
 date: '2019-03-05'
 link: https://www.imdb.com/title/tt3513498
 tags:
-- draft
 - movies
 title: Uma Aventura Lego 2
 ---

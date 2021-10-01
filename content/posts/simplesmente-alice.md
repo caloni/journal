@@ -4,7 +4,6 @@ categories:
 date: '2019-02-26'
 link: https://www.imdb.com/title/tt0099012
 tags:
-- draft
 - movies
 title: Simplesmente Alice
 ---
@@ -15,9 +14,9 @@ A primeira impressão deste filme é que muitas donas de casa gostariam de ter u
 
 Ao mesmo tempo Woody Allen demonstra uma sensibilidade admirável sobre a natureza humana, criando personagens que são não apenas críveis, mas como os que gostaríamos que existissem na vida real. Por exemplo: em um momento é oferecido a um homem um chá que o torna invisível. O primeiro pensamento que vem para ele é se há algum efeito colateral, pois ele é pai de uma criança. Quantos roteiristas se preocupam com esse grau de humanidade ao escrever seus filmes?
 
-E unir fantasia com realismo não é o trabalho completo. Há diálogos maravilhosos que irão divertir o espectador mais atento ao contexto em que são ditos. O humor de Allen dialoga em vários níveis, indo do escrach completo (um casal invisível saindo de um carro: "caramba, nada mesmo surpreende esses motoristas de táxi em Nova York!") ao comentário social sagaz ("não há nada mais sexy que uma católica que já expirou").
+E unir fantasia com realismo não é o trabalho completo. Há diálogos maravilhosos que irão divertir o espectador mais atento ao contexto em que são ditos. O humor de Allen dialoga em vários níveis, indo do escracho completo (um casal invisível saindo de um carro: "caramba, nada mesmo surpreende esses motoristas de táxi em Nova York!") ao comentário social sagaz ("não há nada mais sexy que uma católica que já expirou").
 
-A história é simples, mas caminha por detalhes sutis: madame de meia-idade mãe de filhos após 16 anos casada à deriva sonha com a possibilidade de se encontrar romanticamente com alguém que conheceu no colégio das crianças. Conheceu é muito: trocou duas frases de passagem quando ela derrubou seu livro e o comum, mas artista, Joe o pegou para devolver. O livro era sobre um romance, o que já diz sobre Alice, que é uma ex-religiosa, mas que ainda vive em um conto de fadas burguês, respirando mais do ar de Platão do que no planeta Terra.
+A história é simples, mas caminha por detalhes sutis: madame de meia-idade mãe de filhos após 16 anos casada à deriva sonha com a possibilidade de se encontrar romanticamente com alguém que conheceu no colégio das crianças. Conheceu é muito: trocou duas frases de passagem com o comum mas artista Joe. O livro responsável pelo reencontro era sobre um romance, o que já diz sobre Alice, que é uma ex-religiosa, mas que ainda vive em um conto de fadas burguês, respirando mais do ar de Platão do que no planeta Terra.
 
 Os chás de um curandeiro oriental, Doutor Yang, servem como escape e tratamento de uma pessoa orientada pela culpa e ressentimentos. Ela se arrepende de ter interrompido seu sonho de trabalhar com moda, mas agora começa a pensar em virar escritora ("eu escrevia quando era pequena"). Estamos falando de fato de uma madame mimada que passa o dia inteiro fazendo compras e é casada com um ricaço herdeiro que logicamente a trai com mulheres mais provocantes. Alice sempre usa o mesmo figurino, e seu chapéu com detalhe vermelho soa quase como uma gozação do seu puritanismo com um pequeno fio de malícia.
 

@@ -4,7 +4,6 @@ categories:
 date: '2019-02-26'
 tags:
 - cinemaqui
-- draft
 - movies
 title: Vida em Movimento
 ---
@@ -13,7 +12,7 @@ Vida em Movimento, documentário que propõe mudanças em nossos hábitos para c
 
 A Coca-Cola, junto da Nestlé, McDonalds e Pepsi, criaram o Instituto Internacional de Ciências da Vida (International Life Sciences Institute, ILSI) como uma ponte entre governos, academia científica e indústria, fornecendo evidências para tomadas de decisões políticas sobre nutrição, segurança alimentar, além de controle e prevenção de doenças crônicas. Agora, você deveria estar se perguntando, por que corporações conhecidas por vender junk food estão tão preocupadas com a saúde de seus consumidores?
 
-Na verdade não estão. O objetivo dessas empresas, de acordo com um extensivo estudo em Harvard publicado no British Medical Journal, é desviar o foco sobre alimentação saudável priorizando um estilo de vida baseado em atividades físicas. Ao chamar a atenção dos governos e populações para a necessidade de exercícios para uma vida saudável a indústria de alimentos ganha um respiro, e uma desculpa, para que pessoas continuem se alimentando mal através de bedidas açucaradas e alimentos pobres em nutrientes. O assunto é complexo demais para este texto, mas esses dados nos faz levantar o nível de ceticismo sobre exercícios sendo a solução para tudo, além do nosso senso crítico a respeito do que mega-corporações alimentícias andam fazendo com seu dinheiro a título de influência governamental.
+Na verdade não estão. O objetivo dessas empresas, de acordo com um extensivo estudo em Harvard publicado no British Medical Journal, é desviar o foco sobre alimentação saudável priorizando um estilo de vida baseado em atividades físicas. Ao chamar a atenção dos governos e populações para a necessidade de exercícios para uma vida saudável a indústria de alimentos ganha um respiro, e uma desculpa, para que pessoas continuem se alimentando mal através de bebidas açucaradas e alimentos pobres em nutrientes. O assunto é complexo demais para este texto, mas esses dados nos faz levantar o nível de ceticismo sobre exercícios sendo a solução para tudo, além do nosso senso crítico a respeito do que mega-corporações alimentícias andam fazendo com seu dinheiro a título de influência governamental.
 
 Mas voltando ao texto, o que me fez relacionar o documentário de Eduardo Rajabally foi apenas um elemento em comum: de onde vem o dinheiro. Um dos maiores patrocinadores deste filme é a Ambev, a maior produtora de cervejas do mundo. Considere a introdução como um conselho para que mantenha um ceticismo saudável a respeito do que se vê em documentários. E não apenas desse filme, mas de todos os outros que se espalham facilmente pelos cinemas e, principalmente, os serviços de streaming, que através de centenas de documentários encomendados são os novos portadores de "notícias confiáveis". Documentários são como livros publicados por editoras que almejam o lucro: não há a necessidade de rigidez científica sobre as informações passadas ao público.
 

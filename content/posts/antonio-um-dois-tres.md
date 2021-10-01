@@ -5,12 +5,11 @@ date: '2019-03-25'
 link: https://www.imdb.com/title/tt6275840
 tags:
 - cinemaqui
-- draft
 - movies
-title: António Um Dois Três
+title: Antônio Um Dois Três
 ---
 
-"António Um, Dois, Três" é um filme simpático de se ver. Você vai acompanhando a historinha e quando menos espera está assistindo a mais um filme sobre criação artística.
+"Antônio Um Dois Três" é um filme simpático de se ver. Você vai acompanhando a historinha e quando menos espera está assistindo a mais um filme sobre criação artística.
 
 E são tantos outros que já existem, mais adultos ou profundos que esse, que "António" acaba virando uma brisa nova sobre o tema, vinda das Terras Portugas, unindo nacionalidades e experiências diversas (russo e brasileiro, pra ser exato).
 

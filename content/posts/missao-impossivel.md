@@ -4,7 +4,6 @@ categories:
 date: '2019-03-17'
 link: https://www.imdb.com/title/tt0117060
 tags:
-- draft
 - movies
 title: 'Missão: Impossível'
 ---
@@ -15,11 +14,11 @@ Eu me lembro que fui assistir ao primeiro Missão Impossível no Cinema. Só nã
 
 Mas verdade seja dita: o filme envelheceu. Já não é a mesma coisa a cena de um helicóptero entrando no túnel do trem Londres/Paris. Soa absurda demais e possui efeitos datados demais para apenas 20 anos. Muita coisa mudou. Algumas para melhor, outras para pior.
 
-Um exemplo do que mudou para pior é justamente a facilidade com que efeitos são criados hoje em dia. Ainda que em Missão Impossível seu grande astro (e produtor) Tom Cruise se arrisque a fazer suas cenas sem dublê todo o resto da filme é estilizado com uma camada de irrealismo que reflete muito bem o que estamos sentindo hoje em dia com essa Marvel e seus filmes esquecíveis de centenas de milhões de dólares.
+Um exemplo do que mudou para pior é justamente a facilidade com que efeitos são criados hoje em dia. Ainda que em Missão Impossível seu grande astro (e produtor) Tom Cruise se arrisque a fazer suas cenas sem dublê todo o resto do filme é estilizado com uma camada de irrealismo que reflete muito bem o que estamos sentindo hoje em dia com essa Marvel e seus filmes esquecíveis de centenas de milhões de dólares.
 
 Repare, por exemplo, a diferença do significado do suor no rosto dos personagens. Hoje é em alta definição e conseguimos imaginar ele saindo de um saquinho fabricado por Hollywood. Neste primeiro filme Tom Cruise escala a tubulação do ar condicionado usando ventosas e sua força física. Ele sua como um porco, mas é um suor legítimo, pois ventosas por si só não garantem que ele consiga chegar onde quer. O esforço é visto na tela desse primeiro filme em momentos que não existem mais nos últimos, onde todos fazem parkour, musculação, cross fit e cujo suor é limpo, álcool-free e vegan.
 
-Já no quesito roteiro, David Koepp faz um excelente trabalho nos entregando material que não precisa de quase nada para funcionar. Quando os personagens de Jean Reno e Tom Cruise, Krieger e Ethan Hunt, debatem calorosamente a respeito de quem tem a fita com os dados valiosos, um truque de mágica é o efeito, mas é o discurso de Hunt que convence Krieger. O que acontece logo após Krieger se retirar é mais uma prova de respeito pelo espectador, mantendo o nível de interações entre os personagens sempre alto.
+Já no quesito roteiro, David Koepp faz um excelente trabalho nos entregando material que não precisa de quase nada para funcionar. Quando os personagens de Jean Reno (Krieger) e Tom Cruise (Ethan Hunt) debatem calorosamente a respeito de quem tem a fita com os dados valiosos, um truque de mágica é o efeito, mas é o discurso de Hunt que convence Krieger. O que acontece logo após Krieger se retirar é mais uma prova de respeito pelo espectador, mantendo o nível de interações entre os personagens sempre alto.
 
 A CIA é um monte de caras engravatados com cara fechada. Há autenticidade ainda nas interações, até por que não há tantas traições duplas acontecendo por aí, algo que foi se tornando enfadonho na série e quando ela mesma resolveu abandonar e partir para o cinismo descarado. Este é um momento ingênuo da série (de filmes) e é um verdadeiro prazer juvenil voltar a vê-lo após entender através de Efeito Fallout que desarmar uma bomba para salvar o mundo não basta: é preciso ter um bom motivo para o herói.
 

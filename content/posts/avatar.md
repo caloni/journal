@@ -4,7 +4,6 @@ categories:
 date: '2019-03-07'
 link: https://www.imdb.com/title/tt0499549
 tags:
-- draft
 - movies
 title: Avatar
 ---
@@ -21,12 +20,12 @@ Do outro lado temos o capitalismo predador irracional, em um mundo onde provavel
 
 O que importa é que nos primeiros segundos dentro deste universo completamente idealizado por Cameron o coração pulsa mais forte. É quase como se fôssemos transportados para esse sonho, em um novo formato, mais azul e mais brilhante à noite. Mas ainda selvagem. Ainda desejado. Ainda essencial.
 
-O que o torna poderoso pode ser os gigabytes de uma computação gráfica absurdamente perfeccionista, que entrega cada quadro como uma pequena obra de arte, embalada sob a densa e correta trilha sonora de James Horner, mas nada disso importaria se não fosse a coesão narrativa e o controle absoluto de seu diretor, que quando decide impressionar uma plateia, rapaz, ele impressiona.
+O que o torna poderoso podem ser os gigabytes de uma computação gráfica absurdamente perfeccionista, que entrega cada quadro como uma pequena obra de arte, embalada sob a densa e correta trilha sonora de James Horner, mas nada disso importaria se não fosse a coesão narrativa e o controle absoluto de seu diretor, que quando decide impressionar uma plateia, rapaz, ele consegue.
 
-James Cameron se apaixonou em suas explorações no oceano e nutriu o sonho de Avatar em seu coração. Para conseguir o dinheiro ele inventou esse romance clichê em outra mega-produção chamado Titanic, ganhou bilhões (além de uma dúzia de Oscars) e usou-os "para o bem". Ele explora Pandora aqui com a melhor das intenções, e o subtexto da invasão do Iraque está sonora e clara nas falas dos personagens ("vamos combater terror com terror").
+James Cameron se apaixonou em suas explorações no oceano e nutriu o sonho de Avatar em seu coração. Para conseguir o dinheiro ele inventou um romance clichê em outra mega-produção chamada Titanic, ganhou bilhões (além de uma dúzia de Oscars) e usou-os "para o bem". Ele explora Pandora aqui com a melhor das intenções, e o subtexto da invasão do Iraque está sonora e clara nas falas dos personagens ("vamos combater terror com terror").
 
 O visual do filme é fantástico como uma animação. É como se os Estúdios Ghibli, de Hayao Miyasaki, com suas mensagens de ecologia, decididem dar uma guinada de 180 graus ao Ocidente e realizar tudo à moda do Oeste. Não se pode criticar qual lado inicia um movimento que tem valores tão nobres.
 
-E para os que reclamam da história batida há sempre a desculpa que uso para produções com a marca de Cameron: ele é perfeccionista demais. Seu roteiro é simples para o grande público, que o assiste porque sabe que irá se impressionar sem precisar pensar muito. Este é um filme pensado no Cinema para as telonas e para que as pessoas vão às salas. Mas ao mesmo tempo é um roteiro correto, honesto, com ganchos bem pensados do começo ao fim. Cada novo elemento é apresentado pelo menos algumas páginas antes de ser usado, e faz parte de nosso passeio turístico ao exótico mundo azul.
+E para os que reclamam da história batida há sempre a desculpa que uso para produções com a marca de Cameron: ele é perfeccionista demais. Seu roteiro é simples para o grande público, que o assiste porque sabe que irá se impressionar sem precisar pensar muito. Este é um filme pensado no Cinema para as telonas. Mas ao mesmo tempo é um roteiro correto, honesto, com ganchos bem pensados do começo ao fim. Cada novo elemento é apresentado pelo menos algumas páginas antes de ser usado, e faz parte de nosso passeio turístico ao exótico mundo azul.
 
 Por falar em passeio, Cameron planeja há vários anos continuações para Avatar. Pelo menos duas, que mais tarde foram expandidas para quatro. Os dois primeiros em produção. Se eles não fizerem dinheiro o diretor, roteirista e produtor disse que não haverá mais dois. O que é natural. O capitalismo precisa de dinheiro para mover a indústria do Cinema, ainda que sua mensagem seja a de fazer-nos olhar para trás e irmos em busca de nossa própria essência como seres vivos em um planeta que precisa de nossa ajuda para alcançar o equilíbrio. Como esse é o maior desafio de nossa existência, acho que vale a pena tentar pensar sob diferentes olhos, voadores ou não.

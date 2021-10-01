@@ -4,7 +4,6 @@ categories:
 date: '2019-03-22'
 link: https://www.imdb.com/title/tt0401711
 tags:
-- draft
 - movies
 title: Paris, Te Amo
 ---
@@ -13,7 +12,7 @@ Este é um mega-projeto de cinema, com dezenas de diretores e roteiristas. Não 
 
 E exatamente por conta dessa mesmice o projeto é sabotado. A ideia é mostrar diferentes visões do amor por Paris, essa cidade cosmopolita em que metade dos curtas falam inglês e a outra metade francês. Temos um cego, um não-falante, uma árabe, casais de idades diferentes, casais separados, casais brigando e casais se formando. A atitude com que o filme impõe Paris como o local onde todos esses eventos devem ocorrer é limitadora. É como se apenas em uma cidade como Paris tudo isso pudesse acontecer. Ao mesmo tempo, se considerarmos toda cidade grande como incubadora desses relacionamentos o filme está certo, pois relacionamentos em cidades pequenas nunca ganham tamanha diversificação cultural e histórica que vemos no filme.
 
-Mas estou pintando a experiência de outra cor. Estamos falando de grandes nomes na direção mundial escrevendo pequenos ensaios sobre situações fictícias que dão apenas uma pincelada nesse enorme quadro. O filme já começa mostrando esse mosaico em pequenos retângulos onde se passa a ação, e vamos no decorrer da história preenchendo esses retângulos com os rápidos momentos que cada cineast dedica ao projeto. Algumas histórias são muito boas, a maioria é medíocre e esquecível. Você com certeza terá sua favorita, ou favoritas.
+Mas estou pintando a experiência de outra cor. Estamos falando de grandes nomes na direção mundial escrevendo pequenos ensaios sobre situações fictícias que dão apenas uma pincelada nesse enorme quadro. O filme já começa mostrando esse mosaico em pequenos retângulos onde se passa a ação, e vamos no decorrer da história preenchendo esses retângulos com os rápidos momentos que cada cineasta dedica ao projeto. Algumas histórias são muito boas, a maioria é medíocre e esquecível. Você com certeza terá sua favorita, ou favoritas.
 
 O importante aqui é perceber como diferentes estilos se unem em uma reunião improvável. Essa experiência por si só é mais interessante do que o tema Paris. Temos Irmãos Coen em um lado, Assayas de outro e Cuarón de outro. Uma mistura totalmente nova se forma na tela e isso nos faz pensar na imensidão de vozes cinematográficas que há no mundo atualmente. É uma sensação de mostra cultural, de festival de cinema. Mas um festival só frequentado por gente de primeira.
 

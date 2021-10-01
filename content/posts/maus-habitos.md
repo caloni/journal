@@ -4,7 +4,6 @@ categories:
 date: '2019-03-30'
 link: https://www.imdb.com/title/tt0085496
 tags:
-- draft
 - movies
 title: Maus Hábitos
 ---

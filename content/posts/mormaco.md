@@ -5,7 +5,6 @@ date: '2019-04-18'
 link: https://www.imdb.com/title/tt8169178
 tags:
 - cinemaqui
-- draft
 - movies
 title: Mormaço
 ---
@@ -14,7 +13,7 @@ Mormaço tem a cara da ficção do documentário Favela Olímpica. Ambos são so
 
 O tema escolhido pela diretora Marina Meliande lembra muito o que o cineasta Kleber Mendonça Filho discute em seus filmes sobre o sistema opressivo do poder que esmaga as relações sociais e desencadeia uma degradação lenta, mas fatal, da sociedade como um todo. Porém, a visão que Marina nos traz se distancia de O Som ao Redor ou Aquarius (para citar trabalhos de Mendonça) porque ela traz um nível de humanidade que se materializa no problema principal, conseguindo assim um poder de síntese admirável.
 
-Além disso, e muito satisfatório constatar que o que vemos no final está ancorado com os símbolos do começo quando vemos uma visão micro do que nos espera. Uma formiga carrega outra visivelmente seca. O musgo ao lado de uma queda d'água se expande. Em corte abrupto avistamos o Pão de Açúcar. Uma ponte se explode. A fumaça da explosão se apresenta de diferentes formas, todas cobrindo seus cidadãos, pela cidade.
+Além disso, é muito satisfatório constatar que o que vemos no final está ancorado com os símbolos do começo quando vemos uma visão micro do que nos espera. Uma formiga carrega outra visivelmente seca. O musgo ao lado de uma queda d'água se expande. Em corte abrupto avistamos o Pão de Açúcar. Uma ponte se explode. A fumaça da explosão se apresenta de diferentes formas, todas cobrindo seus cidadãos, pela cidade.
 
 O palco desse tenso drama com leves toques sobrenaturais (ou metafísicos) é a cidade do Rio de Janeiro, uma vez maravilhosa, mas que hoje vive uma decadência trágica causada por crise econômica, especulação imobiliária e o consequente caos urbano. E o pilar humano dessa história pertence a Ana, que trabalha na defensoria pública e luta pelos moradores da Vila Autódromo, um bairro de moradores de mais de quarenta anos e que agora está sendo desapropriado pela prefeitura para a construção de empreendimentos relacionados às Olimpíadas.
 

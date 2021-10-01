@@ -4,7 +4,6 @@ categories:
 date: '2019-03-26'
 link: https://www.imdb.com/title/tt0330229
 tags:
-- draft
 - movies
 title: Dolls
 ---
@@ -15,7 +14,7 @@ A analogia é óbvia e martelada desde o começo até o final. Bonecos de teatro
 
 Quando surge em cena um casal unido por uma corda, andando a esmo, de maneira melancólica, em meio às famosas e lindas cerejeiras japonesas, a mensagem se torna clara. Para a comunidade eles são os "mendigos amarrados". Nenhum dos dois parece ligar para o apelido. O peso que eles carregam é muito maior que o motivo de piada de desconhecidos. E quando descobrimos esse motivo o drama do filme passa a nos controlar como bonecos.
 
-Este é um filme que não consegue evitar nos deixar compenetrados por suas três histórias, porque elas são muito boas. Elas carregam ensinamentos que ultrapassam eras e convenções sociais. Ainda assim, o diretor Takeshi Kitano e sua equipe possuem em um esmero admirável, seja na montagem (também de Kitano) ou na econômica mas pensativa trilha sonora. E suas lindas paisagens naturais, fotografadas com uma luz sobrenatural, evocam o poder da luz e cores acima dos desejos humanos. Este filme ganhou vários prêmios técnicos pelo mundo, e assistindo ele torna-se compreensível.
+Este é um filme que não consegue evitar nos deixar compenetrados por suas três histórias, porque elas são muito boas. Elas carregam ensinamentos que ultrapassam eras e convenções sociais. Ainda assim, o diretor Takeshi Kitano e sua equipe possuem um esmero admirável, seja na montagem (também de Kitano) ou na econômica mas pensativa trilha sonora. E suas lindas paisagens naturais, fotografadas com uma luz sobrenatural, evocam o poder da luz e cores acima dos desejos humanos. Este filme ganhou vários prêmios técnicos pelo mundo, e assistindo ele torna-se compreensível.
 
 O elenco, por sua vez, é levado pela direção completamente. As interpretações são esquemáticas. Isso economiza atuações, além de aqui funcionar maravilhosamente bem. Há pouquíssimo diálogo e a narrativa é construída praticamente na montagem, na direção de arte, no figurino. Há uma mulher que aguarda a vida inteira pelo seu namorado, todo sábado esperando por ele com seu almoço no parque. Ela usa sempre o mesmo vestido. É o mesmo vestido por décadas? Ela fez mais vestidos com o mesmo tecido? O filme te dá brecha para pensar em tudo isso. Seu ritmo é contemplativo justamente para isso.
 

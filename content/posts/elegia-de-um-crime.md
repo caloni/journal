@@ -5,7 +5,6 @@ date: '2019-03-07'
 link: https://www.imdb.com/title/tt8389758
 tags:
 - cinemaqui
-- draft
 - movies
 title: Elegia De Um Crime
 ---
@@ -24,6 +23,6 @@ Já seu irmão, ex-detento e reformado não pelo sistema, mas pela sua vontade d
 
 Cristiano usa uma rima visual eficiente, tornando as pessoas próximas da câmera, ocupando toda a tela, nas cenas que lembram aqueles momentos que é como se a câmera estivesse desligada e as pessoas se soltassem para serem elas mesmas. Alternando entre o modo confessionário e o modo formal o filme vai tecendo uma narrativa poderosa que confia no poder da vida real. Auxiliado pelo teórico e crítico Jean-Claude Bernardet, que já trabalhou com o diretor como protagonista em Fome, existe em Elegia de Um Crime uma fina camada que separa realidade e ficção, tal como foi no filme onde Jean-Claude faz um mendigo que desistiu de sua vida de intelectual, ou levou-a até as últimas consequências. Aqui, lembrando de longe Cabra Marcado Para Morrer, as últimas consequências da impunidade é fazer um filme sobre o assunto.
 
-Este é o último filme da entitulada Trilogia do Luto e sua história também utiliza alguns traços sociais, como a violência contra a mulher. Não se trata do tema principal, mas se algo que paira no ar, alimentado pelos depoimentos que Cristiano coleta para seu filme, principalmente vindo das mulheres e quando elas parecem menos naturais em seu depoimento. O único que parece dar seu depoimento de maneira completamente honesta e natural é seu tio, que além da sinceridade mantés os pés no chão: como uma mulher vai se defender dos canalhas da vida real?
+Este é o último filme da entitulada Trilogia do Luto e sua história também utiliza alguns traços sociais, como a violência contra a mulher. Não se trata do tema principal, mas de algo que paira no ar, alimentado pelos depoimentos que Cristiano coleta para seu filme, principalmente vindo das mulheres e quando elas parecem menos naturais em seu depoimento. O único que parece dar seu depoimento de maneira completamente honesta e natural é seu tio, que além da sinceridade mantém os pés no chão: como uma mulher vai se defender dos canalhas da vida real?
 
 A pergunta se mantém não-respondida durante todo o longa, mas vemos uma cena em que Cristiano treina dar tiros com uma pistola em um alvo inerte. Essa não é a resposta. Cristiano confessa que seu irmão e pai, se estivessem vivos, fariam justiça com as próprias mãos. Ele é incapaz. Seu jeito de se vingar é documentar tudo em um filme. E o jeito das mulheres se defenderem é denunciar essa violência. Tanto o filme quanto a denúncia parecem rasos demais. Principalmente quando Cristiano revela foto do assassino de sua mãe, por alguns poucos segundos. De aparência humilde, negro, ele não é um personagem no filme. O trabalho documental desaba um pouquinho no final ao percebermos que o realismo nem sempre é verdadeiro, mas construído. Mas quem irá criticar frente às injustiças da vida real, onde torneiras e policiais não funcionam como deveriam?
