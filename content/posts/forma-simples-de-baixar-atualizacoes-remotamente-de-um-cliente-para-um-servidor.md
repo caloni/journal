@@ -52,7 +52,7 @@ c:\fileserver\fileserver.exe
 
 Para testar basta acessar o endereço via browser:
 
-![](http://i.imgur.com/hSnmzqv.png)
+![](/img/hSnmzqv.png)
 
 ### Lado cliente
 

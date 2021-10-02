@@ -22,7 +22,7 @@ De acordo com o meu amigo [Rafael](http://www.sk5.com.br), a melhor definição 
 
 Deve ter ficado óbvio, mas se não ficou: o armário é a memória RAM, as gavetas são váriáveis e as gavetas onde guardamos pedaços de papel são ponteiros, que não deixam de ser variáveis, e apontam para outras gavetas que são... adivinha? Outras variáveis!
 
-[![Gavetas representando posições na memória.](http://i.imgur.com/sx9fYjS.gif)](/images/pointers-drawer.gif)
+![Gavetas representando posições na memória.](/img/pointers-drawer.gif)
 
 ![Draft: Pointers, Strings and Arrays](/img/draft-pointers-strings-arrays.jpg)
 

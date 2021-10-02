@@ -12,7 +12,7 @@ Como viagem Floripa é uma cidade que se divide em ilha e continente. Na ilha h�
 
 Felizmente o povo do sul é um povo decente, de respeito e que graças a Deus não parece ter dado muita atenção nos movimentos de "justiça social" que assolam o país. Há uma casa de coxinhas muito boa, a Maria Coxinha, onde um dos pratos se chama Kibexinha. Isso é tudo que precisa ser dito sobre a saúde do povo da cidade.
 
-![](https://i.imgur.com/nBLf4ZB.png)
+![](/img/nBLf4ZB.png)
 
 O evento teve lugar, como no ano passado, na [Acate](https://www.acate.com.br/), uma incubadora de startups, nos dias 22 e 23 de setembro de 2018 (sábado e domingo). Houve em alguns momentos duas trilhas, que eu condeno por ser um evento pequeno, mas no salão principal houve a filmagem para publicação na internet, que eu invejo, pois logo teremos disponível para todos as palestras da trilha principal. Essa filmagem se torna ainda mais especial quando se percebe que houve muitos poucos participante no evento, girando em torno de 20 no sábado e 10 no domingo. As palestras do ano passado já se encontram publicadas, mas como houve uma demora de alguns meses talvez esse ano teremos a mesma espera.
 
@@ -20,11 +20,11 @@ Confesso que fazia um bom tempo que não participava de um evento como esses. No
 
 O destaque do evento com certeza foram as corrotinas em C++. Verdadeiras máquinas de performance onde se economiza troca de contexto, houve três palestras sobre o assunto, podemos dizer. Duas delas ministradas por Vinicius, mantenedor da Boost.Http, onde ambas dialogam sobre a fascinante questão de como adequar o uso de corrotinas sem interferir no fluxo do programa. A terceira palestra é minha, onde discurso sobre a dificuldade atual de depurar corrotinas sem ferramentas atualizadas para este "novo" paradigma.
 
-![](https://i.imgur.com/gx0X8pr.png)
+![](/img/gx0X8pr.png)
 
 Outra palestra que me lembro com muita empolgação é a sobre WebAssenbly. Não torça o nariz antes de entender. O palestrante nos apresenta algo ainda em andamento sobre transpilar código C/C++ para uma máquina virtual criada a partir de JavaScript. A estrutura da palestra é muito boa e o palestrante melhor ainda. Ele chegou a alterar o código durante a palestra para nos demonstrar diversos usos dessa tecnologia. Ainda em testes, mas muito promissora.
 
-![](https://i.imgur.com/l8iCVUL.png)
+![](/img/l8iCVUL.png)
 
 Por fim, as conversas entre os palestrantes e os participantes foi muito frutífera. Assim como nosso grupo do Telegram, importa menos o tema do que as pessoas envolvidas. E todos concordam que não há nada melhor no mundo que conversar com pessoas inteligentes e beber chopes do Sul. E lá na Acate há a melhor praça de alimentação que já vi na vida. Comida e bebida (chopes e vinhos por taça) boa e barata. Há massas e carnes de muita qualidade. O Madero do lado, que já não é nada de mais, ficou ainda menor.
 
@@ -35,7 +35,7 @@ Por fim, as conversas entre os palestrantes e os participantes foi muito frutíf
 
 Ficamos hospedados em uma casa na Barra da Lagoa pelo AirBnB em alta concentração de temas filosóficos. Fizemos um churrasco imprestável, fomos em restaurantes medíocres da orla, mas a conversa foi sempre interessante. Era como se o grupo de filosofia do Telegram tivesse se mudado temporariamente para lá. Temas como metafísica, política, social justice, auto ajuda e imprint de traumas eram frequentes. A paisagem belíssima, a casa aconchegante e a companhia agradável.
 
-![](https://i.imgur.com/tQXeDFn.png)
+![](/img/tQXeDFn.png)
 
 Native Floripa virou já uma tradição. Ano que vem nos vemos de novo.
 

@@ -62,7 +62,7 @@ Para nos comunicarmos com a raça alienígena que usa dois símbolos poderíamos
     111,
     ...
 
-[![Os bichos-preguiça possuem dois dedos!](http://i.imgur.com/jQTGnH6.gif)](http://www.colegiosaofrancisco.com.br/alfa/animais/bicho-preguica.php)O valor do número, como sabemos, depende de sua posição. Mas, calma lá! O 111 logo acima não é idêntico ao 111 que vimos anteriormente, pois **mudamos a base**! Agora só temos dois símbolos para representar números, quando antes tínhamos dez.
+[![Os bichos-preguiça possuem dois dedos!](/img/jQTGnH6.gif)](http://www.colegiosaofrancisco.com.br/alfa/animais/bicho-preguica.php)O valor do número, como sabemos, depende de sua posição. Mas, calma lá! O 111 logo acima não é idêntico ao 111 que vimos anteriormente, pois **mudamos a base**! Agora só temos dois símbolos para representar números, quando antes tínhamos dez.
 
 O "segredo" do valor posicional também está na base, pois o zero, apesar de não possuir valor, marca a quantidade de símbolos que foram utilizados para se esgotar uma posição qualquer. Dessa forma, enquanto o nosso conhecido 10 (dez) vale todos os símbolos não-nulos (nove) mais um (nove + um = dez), o outro 10 (um-zero) da raça alienígena de dois dedos também vale todos os símbolos deles nã-nulos (um) mais um (um + um = dois).
 

@@ -8,7 +8,7 @@ title: Como usar WTL com o ATL do DDK
 
 Eu simplemente não entendo a organização dos cabeçalhos e fontes dos SDKs da Microsoft. Houve uma vez em que o [ATL](http://www.1bit.com.br/content.1bit/weblog/sopa_de_letrinhas_ATL) era distribuído junto com o SDK, e dessa forma conseguíamos usar o [WTL](http://www.1bit.com.br/content.1bit/weblog/sopa_de_letrinhas_wtl) sem ônus. Porém, um belo dia, isso é retirado do pacote, para tristeza dos que já haviam convertido a biblioteca de janelas para fonte aberto.
 
-No entanto, num belo dia, qual não foi minha surpresa ao notar [umas pastinhas](http://i.imgur.com/OoiV6X7.png) chamadas atl21, atl30 e atl71 dentro da distribuição do WDK (o finado DDK, renomeado sabe-se-lá-por-quê)? Pelo visto, tem alguém arrastando coisa errada pra onde não devia nos instaladores de Seattle. Esses estagiários!
+No entanto, num belo dia, qual não foi minha surpresa ao notar [umas pastinhas](http://www.caloni.com.br/img/OoiV6X7.png) chamadas atl21, atl30 e atl71 dentro da distribuição do WDK (o finado DDK, renomeado sabe-se-lá-por-quê)? Pelo visto, tem alguém arrastando coisa errada pra onde não devia nos instaladores de Seattle. Esses estagiários!
 
 O fato é que eles fizeram isso, e agora é possível ter o WTL mais novo compilado com o WDK. E nem é tão difícil assim.
 
@@ -18,9 +18,9 @@ A primeira coisa a fazer é obter o tal doWDK. Para variar um pouco, agora exist
 
 Após instalado, em qualquer lugar da sua escolha, configure no seu [Visual Studio Express](http://www.microsoft.com/Express/) o caminho de onde se encontra a pasta atl71 (ou a 30, ou a 21). Aproveite também para colocar a pasta do WTL e o diretório de LIBs:
 
-![Configurando o diretório de cabeçalhos no Visual Studio.](http://i.imgur.com/TJyNrlE.png)
+![Configurando o diretório de cabeçalhos no Visual Studio.](/img/TJyNrlE.png)
 
-![Configurando o diretório de biblioteca no Visual Studio.](http://i.imgur.com/VLryS9L.png)
+![Configurando o diretório de biblioteca no Visual Studio.](/img/VLryS9L.png)
 
 Isso vai fazer com que pelo menos os exemplos que vêem com o WTL compilem.
 

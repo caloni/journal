@@ -75,9 +75,9 @@ ClientSocket = socket(result->ai_family, result->ai_socktype, result->ai_protoco
 
 Esses dois sockets são herdáveis por default (implementação da função socket) e são representados pelos handles listados no Process Explorer como já visto, pelo nome "\Device\Afd". O contador de handles é aumentado a partir da criação do processo-filho e esses dois handles aparecem em ambos os processos.
 
-![](https://i.imgur.com/3LV7k8G.png)
+![](/img/3LV7k8G.png)
 
-![](https://i.imgur.com/S7qT3Sd.png)
+![](/img/S7qT3Sd.png)
 
 Até aí tudo bem. O problema na verdade ocorre no segundo request enviado quando o primeiro request não terminou (e.g. o primeiro request é um notepad.exe que irá demorar e o segundo request um "cmd /c dir", que executa e já volta com a saída). Nessa situação todos os sockets criados até aqui -- incluindo o cliente do primeiro request -- são herdados para o segundo processo-filho, e por questões que estão além do escopo desse estudo, mas que poderão ser verificados ao se analistar os drivers das camadas de TDI do Windows (kernel mode), o send da saída do segundo request para o socket cliente fica travado até a saída do primeiro processo-filho, onde ocorre dos handles serem fechados.
 
@@ -107,7 +107,7 @@ A terceira solução encontrada durante a compilação deste artigo é usar em v
 
 **Update (2019-01-07)**: Na verdade a flag de não-herança do socket só passou a existir no Windows 7 com SP1, o que inviabiliza essa solução para Windows Vista e XP, como previamente foi dito.
 
-![](https://i.imgur.com/FUrSKg2.png)
+![](/img/FUrSKg2.png)
 
 ## Solução #4: Boost.Asio
 

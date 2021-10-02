@@ -14,7 +14,7 @@ Porém, existe um método infalível. Um método que transforma os programadores
 
 Esse método chama-se: Programa, Filho da P\*\*\*
 
-![](http://i.imgur.com/O2dhzNc.png)
+![](/img/O2dhzNc.png)
 
 Ou, do inglês, PMF.
 

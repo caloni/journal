@@ -50,4 +50,4 @@ E o melhor de tudo: não há segredo. Tudo que precisa fazer é instalar o Bazaa
     Committed revision 3.
     C:\Projetos\caloni>bzr qlog
 
-[![](http://i.imgur.com/TpvTyTf.png)](/images/bazaar-subversion.png)
+![](/img/bazaar-subversion.png)

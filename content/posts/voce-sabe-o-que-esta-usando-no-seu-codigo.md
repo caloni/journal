@@ -31,7 +31,7 @@ static const char* LIB_VERSION = "minhalib 0.0.1";
 
 Dessa forma, por pior que seja a situação do controle de seus binários, sempre haverá a possibilidade de procurar a string lá dentro.
 
-![Strings na minha lib]({{ site.baseurl }}public/images/screenshots/strings-minha-lib.png)
+![Strings na minha lib](/img/strings-minha-lib.png)
 
 Ops, esqueci que nesses compiladores modernos __o que você não usa não será incluído no binário final__. Isso quer dizer que se quisermos que essas strings de identificação de dependências apareça no binário compilado precisamos pelo menos dar a impressão de que ele esteja sendo usado:
 
@@ -60,7 +60,7 @@ int main()
 }
 ```
 
-![Strings na minha lib]({{ site.baseurl }}public/images/screenshots/strings-minha-lib-ok.png)
+![Strings na minha lib](/img/strings-minha-lib-ok.png)
 
 Uma solução mais genérica pode ser aplicada utilizando as famigeradas macros e...
 

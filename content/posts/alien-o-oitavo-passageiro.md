@@ -28,5 +28,5 @@ Nesse desenrolar, um personagem se destaca de forma praticamente natural e inusi
 
 [2001: Uma Odisseia no Espaço]: /2001-uma-odisseia-no-espaco
 [Blade Runner]: /blade-runner
-[Contato]: /contato-filme
+[Contato]: /contato
 [O Vingador do Futuro]: /o-vingador-do-futuro-1990

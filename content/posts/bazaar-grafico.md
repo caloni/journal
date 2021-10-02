@@ -38,26 +38,26 @@ Os que eu mais uso no dia-a-dia são:
 
 #### qlog e qbrowse
 
-![Comando qlog do Bazaar](http://i.imgur.com/kskAIzb.png)
+![Comando qlog do Bazaar](/img/kskAIzb.png)
 
 Diversão garantida. Por meio destes simples comandos podemos ver o histórico de commits e navegar pela árvore de pastas e arquivos com a anotação do último commit para cada elemento. Só para ter uma ideia de quanto uso isso, transformei-os em opções do Explorer.
 
-![Bazaar Shell Extension na Mão](http://i.imgur.com/UoeYg7V.png)
+![Bazaar Shell Extension na Mão](/img/UoeYg7V.png)
 
 Além da utilidade básica, de quebra, o qbrowse pode te levar para um qlog filtrado, e o qlog pode te levar a um diff gráfico, que é o próximo comando que eu iria mostrar.
 
-![Comando qbrowse do Bazaar](http://i.imgur.com/ejnlqLn.png)
+![Comando qbrowse do Bazaar](/img/ejnlqLn.png)
 
 #### qdiff
 
 Coisa linda de Deus. Existem dois modos de exibição, mas o padrão já é show de bola, mostrando as mudanças em todos os arquivos de um commit de uma só vez ou do arquivo/pasta especificado pelo comando. É lógico que é possível especificar qualquer faixa de commits que você quiser ver.
 
-![Comando qdiff do Bazaar](http://i.imgur.com/PZW0KOr.png)
+![Comando qdiff do Bazaar](/img/PZW0KOr.png)
 
 Uma desvantagem desse comando é que ele oculta o resto das linhas do fonte e não mostra de jeito nenhum (pelo menos não descobri ainda como fazer isso). Sendo assim, para uma análise mais detalhada das diferenças no código-fonte sempre use um editor externo que consiga comparar arquivos inteiros (eu uso o WinMerge). Você pode colocar esse comando na forma de um diff personalizado, com o uso do qconfig.
 
-![Comando qconfig do Bazaar](http://i.imgur.com/TyYMS4s.png)
+![Comando qconfig do Bazaar](/img/TyYMS4s.png)
 
 ####  Bônus
 
-Para quem não sabe fazer comandos de contexto no Explorer sem instalar Shell Extensions, deem uma olhada no [REG exportado](/images/bzr.txt).  Bom proveito.
+Para quem não sabe fazer comandos de contexto no Explorer sem instalar Shell Extensions, deem uma olhada no [REG exportado](https://caloni.com.br/text/bzr.txt).  Bom proveito.

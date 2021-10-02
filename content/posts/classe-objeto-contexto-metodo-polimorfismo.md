@@ -59,7 +59,7 @@ int main()
 }
 ```
 
-![](http://i.imgur.com/Ye5mA8L.png)
+![](/img/Ye5mA8L.png)
 
 Como você deve imaginar, é possível também fazer isso em C. Basta mudar os endereços das variáveis do tipo ponteiro de função que estão na struct usada como contexto. Para ficar o mais próximo possível do "modo C++" de fazer polimorfirmo, podemos escrever _hardcoded_ a tal _vtable_ para os diferentes tipos de "classe":
 
@@ -112,10 +112,10 @@ int main()
 }
 ```
 
-![](http://i.imgur.com/tRAtU9d.png)
+![](/img/tRAtU9d.png)
 
 A versão C ainda tem a vantagem de não precisar de uma vtable const (embora seja adequado em situações normais de temperatura e pressão). Os "métodos" poderiam mudar caso algum estado mudasse, alguma exceção fosse disparada, mantendo o mesmo contexto, mas um comportamento (vtable) diferente. Quem utiliza muito essa estratégia é o _kernel_ do Windows, que mexe com estruturas que contém não apenas listas ligadas genéricas, mas funções de _callback_ que não apenas o código da Microsoft precisa chamar, mas os próprios _drivers_ de terceiros que se preocupam com bom comportamento e _guidelines_ que tornam o SO rodando perfeitamente.
 
-![](http://i.imgur.com/k20fqVJ.gif)
+![](/img/k20fqVJ.gif)
 
 O importante deste artigo é demonstrar como conceitos aparentemente complicados ou escondidos de uma linguagem como C++ podem ser compreendidos completamente utilizando apenas linguagem de alto nível no bom e velho C. Essa estratégia de descer camadas de abstração, como verá, funciona para linguagens de mais alto nível, como C# ou Java, pois ambas são implementadas em linguagens como C++. No fundo, engenharia de software é um universo multi-camadas transitando pela última camada que conhecemos -- a física. Pelo menos a última camada que ainda conhecemos.

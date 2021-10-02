@@ -12,7 +12,7 @@ O software WinSCP, um client SFTP para Windows, possui [um guia](https://winscp.
 
 Se você preferir não compilar [a partir dos fontes](https://github.com/PowerShell/openssh-portable) você pode baixar um pacote dos [binários](https://github.com/PowerShell/Win32-OpenSSH/releases) pelo GitHub. Basta extrair tudo para uma pasta e rodar o script PowerShell de instalação e o serviço sshd estará instalado no modo manual (se você já usou o cygwin sabe que o nome é o mesmo). O local indicado para conter os arquivos é em `C:\Program Files\OpenSSH`, conforme [o tutorial do WinSCP](https://winscp.net/eng/docs/guide_windows_openssh_server).
 
-![](https://i.imgur.com/7qdGAFB.png)
+![](/img/7qdGAFB.png)
 
 Após instalado você deve abrir a porta 22 pelo firewall do Windows (há uma maneira PowerShell de fazer se tiver um Windows novo ou usar a interface mesmo se tiver um antigo). Após esse último passo tudo deverá estar funcionando, e basta criar seu par de chaves pública/privada com o `ssh-keygen.exe` e adicionar no servidor com `ssh-add.exe`, além de copiar para um arquivo chamado `authorized_keys`... enfim, está tudo no tutorial.
 

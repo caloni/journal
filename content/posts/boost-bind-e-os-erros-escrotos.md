@@ -115,7 +115,7 @@ Este é o erro encontrado usando o último Visual Studio (2017 15.9.0 Preview 2.
 
 Mas não. Se olharmos para o código-fonte onde ocorreu o problema, a caixa de encaixe perfeito se quebra:
 
-![](https://i.imgur.com/MsRp03e.png)
+![](/img/MsRp03e.png)
 
 O que isso quer dizer? O que aconteceu? Onde que eu errei?
 

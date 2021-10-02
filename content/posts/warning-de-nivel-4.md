@@ -28,7 +28,7 @@ Você já colocou aquele seu projeto favorito em /W4? Por padrão, o Visual Stud
 
 OK, este foi o nível 3 do tioserver, o projeto principal do [tiodb](https://github.com/tiodb), uma ferramenta para manter contêineres assináveis na memória e acessíveis via socket. Note que já existe um warning, mas vamos ignorar por enquanto. O objetivo aqui é descobrir quais os warnings mais comuns do projeto que você vai escolher. Vejamos o meu:
 
-![](http://i.imgur.com/XjbqVh9.png)
+![](/img/XjbqVh9.png)
 
 ```
 1>------ Rebuild All started: Project: tioserver, Configuration: Debug x64 ------
