@@ -4,8 +4,6 @@ categories:
 date: '2019-05-04'
 link: https://www.imdb.com/title/tt0408664
 tags:
-- draft
-- movies
 title: Ninguém Pode Saber
 ---
 
@@ -13,7 +11,7 @@ Este é um filme baseado em fatos reais, mas eles se explicam tanto no começo s
 
 Mas o filme se limita a nos contar algumas coisas sobre a mãe dessas crianças (que hoje é uma das juradas do Big Brother japonês Terrace House), os diferentes pais e sobre o risco deles se separarem se alguém souber que estão sozinhos. Há algo também sobre a mãe não querer que eles vão à escola.
 
-Seu protagonista é o mais velho, que começa parecendo que será a criança que irá amadurecer, mas conforme as coisas ficam mais tensas ele volta a ser uma criança. Há algo tráfico na história e isso deve ter sido o estopim desse filme, mas quando chegamos nessa parte já não nos interessamos mais por aqueles pequeninos.
+Seu protagonista é o mais velho, que começa parecendo que será a criança que irá amadurecer, mas conforme as coisas ficam mais tensas ele volta a ser uma criança. Há algo trágico na história e isso deve ter sido o estopim desse filme, mas quando chegamos nessa parte já não nos interessamos mais por aqueles pequeninos.
 
 Isso porque o filme não consegue nos dar uma personalidade para eles. São apenas crianças jogadas em uma casa. No começo com a mãe presente não parece haver nada demais, e quando elas ficam sozinhas por muito tempo o drama se constrói, mas a única coisa que se sustenta é a espera de mudança.
 

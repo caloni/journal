@@ -4,7 +4,6 @@ categories:
 date: '2019-05-01'
 link: https://www.imdb.com/title/tt0168629
 tags:
-- draft
 - movies
 title: Dançando No Escuro
 ---
@@ -17,7 +16,7 @@ Ela é fã de musicais. Nas horas vagas da fábrica, onde trabalha sem parar par
 
 Este é um filme onde uma comunista cega se sacrifica para salvar seu filho na terra do Tio Sam e ainda é crucificada. Ou seja, para ganhar a Palma de Ouro em Cannes com todos aplaudindo de pé por meia-hora. (Ironias à parte, décadas depois seu diretor deve ter entendido melhor a lógica sócio-polìtica do mundo e declara entender Hitler, virando persona non grata do festival.)
 
-Björk está entregue ao papel, do começo ao fim, mas principalmente no fim. Não preciso dizer para reparar em nada. Apenas olhe para ela. Está em frangalhos, mas resiste sempre que consegue ser imaginar em um musical. O mundo te entende. Eu adoro imaginar que estamos encenando para daqui a pouco começarmos a dançar ao som das digitações dos escritórios, das impressoras velozes, das buzinas ferozes.
+Björk está entregue ao papel, do começo ao fim, mas principalmente no fim. Não preciso dizer para reparar em nada. Apenas olhe para ela. Está em frangalhos, mas resiste sempre que consegue se imaginar em um musical. O mundo te entende. Eu adoro imaginar que estamos encenando para daqui a pouco começarmos a dançar ao som das digitações dos escritórios, das impressoras velozes, das buzinas ferozes.
 
 Lars Von Trier pega uma história específica, mas consegue universalizar em sua mensagem. Não se trata de uma mensagem de injustiça. Como sempre em seus filmes parece que a soma das circunstâncias mais a natureza humana nos levam a conclusões depressivas sobre nós mesmos, mas sempre com uma profundidade admirável.
 

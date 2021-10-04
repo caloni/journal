@@ -4,7 +4,6 @@ categories:
 date: '2019-04-29'
 link: https://www.imdb.com/title/tt0359254
 tags:
-- draft
 - movies
 title: Família Rodante
 ---
@@ -19,4 +18,4 @@ Há a bordo um casal de primos e uma amiga. A tensão sexual vista pelos olhos d
 
 O garoto mais novo da família acha um cachorro em um posto e o adota. Vemos a mãe dele lavando o pobre coitado dentro do vaso sanitário do trailer. A vovó, sempre com calor, reclama a viagem inteira. Quem tem pessoas mais velhas na família irá se identificar muito. Aliás, toda a viagem é a vida inteira em família resumida em um fim-de-semana.
 
-Este é um filme que usa o naturalismo de suas situações e tem a vantagem de um diretor obcecado pelo controle da câmera, entregando o melhor de dois mundos: uma história que evoca a vida real com um filtro estilizado que torna aquela pobreza das situações de uma beleza bucólica. Nunca se torna enfadonho, sempre está preocupado em mostrar a evolução das histórias paralelas e de seus personagens. Acompanhamos oito, nove pessoas e depois de dois dias as conhecemos como se fizesse parte da família.
+Este é um filme que usa o naturalismo de suas situações e tem a vantagem de um diretor obcecado pelo controle da câmera, entregando o melhor de dois mundos: uma história que evoca a vida real com um filtro estilizado que torna aquela pobreza das situações de uma beleza bucólica. Nunca se torna enfadonho, sempre está preocupado em mostrar a evolução das histórias paralelas e de seus personagens. Acompanhamos oito, nove pessoas e depois de dois dias as conhecemos como se fizessem parte da família.

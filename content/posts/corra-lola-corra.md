@@ -4,7 +4,6 @@ categories:
 date: '2019-04-27'
 link: https://www.imdb.com/title/tt0130827
 tags:
-- draft
 - movies
 title: Corra, Lola, Corra
 ---

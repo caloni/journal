@@ -5,7 +5,6 @@ date: '2019-04-26'
 link: https://www.imdb.com/title/tt5584756
 tags:
 - cinemaqui
-- draft
 - movies
 title: Mademoiselle Paradis
 ---
@@ -14,7 +13,7 @@ Mademoiselle Paradis segue a cartilha dos filmes de época, mas não deveria. O 
 
 Baseado em fatos históricos e inspirado pelo livro de Alissa Walser (Mesmerized), sua heroína é Maria Theresia Paradis, uma moça que desenvolveu cegueira completa pela idade de três anos. Tocando o piano de maneira impecável, seus pais parecem adestradores orgulhosos de sua filha nas exibições que realiza em sua casa.
 
-Ninguém possui tato no século 19 e os deficientes são tratados como um estorvo e julgamentos estéticos são ditos na cara (uma de suas "amiga" diz a ela: "depois do tratamento sua cabeça começou a feder e seus olhos ficaram ainda pior!"). Como se não bastasse, os "cientistas" da época tinham à sua disposição uma vasta gama de experimentos completamente anti-éticos a ser realizados em seus pacientes.
+Ninguém possui tato no século 19 e os deficientes são tratados como um estorvo e julgamentos estéticos são ditos na cara (uma de suas "amigas" a diz "depois do tratamento sua cabeça começou a feder e seus olhos ficaram ainda pior"). Como se não bastasse, os "cientistas" da época tinham à sua disposição uma vasta gama de experimentos completamente anti-éticos a ser realizados em seus pacientes.
 
 Um deles, Franz Anton Mesmer (Devid Striesow), tem tido êxito com vários pacientes usando o "poder mágico" do invisível e indetectável (e indolor) eletromagnetismo, o que causa um frisson na comunidade. Infelizmente estão todos cegos nesse mundo da realeza e ninguém percebe que na verdade cuidado e atenção são o segredo para as curas milagrosas.
 
