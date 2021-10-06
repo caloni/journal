@@ -4,7 +4,6 @@ categories:
 date: '2019-05-10'
 link: https://www.imdb.com/title/tt9097148
 tags:
-- draft
 - movies
 title: Minhas Famílias
 ---

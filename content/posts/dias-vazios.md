@@ -5,7 +5,6 @@ date: '2019-05-06'
 link: https://www.imdb.com/title/tt8301540
 tags:
 - cinemaqui
-- draft
 - movies
 title: Dias Vazios
 ---
@@ -14,7 +13,7 @@ Dias Vazios repousa convenientemente no marasmo narrativo da metalinguagem e na 
 
 Estreante nas telonas, o diretor e roteirista Robney Bruno Almeida passa dez anos arrecadando fundos para adaptar o livro de André de Leones, Hoje Está Um Dia Morto. O livro é sobre a adolescência e seus sonhos sabotados, vivendo em um fim de mundo sem perspectiva alguma. Leones fez sucesso com seu livro e saiu da cidadezinha onde morava. Agora o filme adaptado realiza a mesma manobra ficcional ao usar Daniel como seu porta-voz.
 
-Daniel (Arthur Avila), assim como os quatro personagens principais deste longa, é um garoto isolado. No recreio ele se mantém escrevendo seu livro na sala de aula. Ele tem asma, mas você só vai ver ele usando sua bombinha de ar uma vez, no início do filme. Até porque depois a realidade que vive e a ficção por trás do destino de dois outros alunos, Jean (Vinícius Queiroz) e Fabiana (Nayara Tavares). Jean se matou, e Fabiana, que era sua namorada, é o mistério que Daniel deseja desvendar para finalizar seu livro.
+Daniel (Arthur Avila), assim como os quatro personagens principais deste longa, é um garoto isolado. No recreio ele se mantém escrevendo seu livro na sala de aula. Ele tem asma, mas você só vai ver ele usando sua bombinha de ar uma vez, no início do filme. Até porque essa realidade é a ficção por trás do destino de dois outros alunos, Jean (Vinícius Queiroz) e Fabiana (Nayara Tavares). Jean se matou, e Fabiana, que era sua namorada, é o mistério que Daniel deseja desvendar para finalizar seu livro.
 
 Este é um filme pesado, que bate sempre na mesma tecla depressiva em todos os momentos. Os jovens que vemos são extremamente apáticos e aparentemente só se divertem fazendo sexo, um sexo deprimente como eles. Eles estudam em um colégio católico, o que quer dizer que além de viver em uma cidadezinha do interior de Goiás estão cercados de figuras religiosas, vivas ou não. Isso inclui a Irmã Corina (Carla Ribas), que faz o papel da adulta malvada porque faz entrevistas com os alunos tentando se livrar da culpa de seus destinos (já que os pais, mais safos, já fugiram há muito tempo).
 
