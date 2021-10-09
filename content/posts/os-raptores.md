@@ -4,7 +4,6 @@ categories:
 date: '2019-06-05'
 link: https://www.imdb.com/title/tt0201003
 tags:
-- draft
 - movies
 title: Os Raptores
 ---
@@ -15,6 +14,6 @@ Mas isso é normal. Meus avós falavam assim. O estranho é haver tantas informa
 
 A direção é pedestre e engraçada, daquelas que sabemos que os atores estão sendo dublados (em estúdio) e com cortes entre as cenas que sabemos que foram feitas sob outra luz e provavelmente outro dia. Por outro lado é curioso o efeito de aproximar o rosto dos atores em diálogos, sabendo que não é possível colocar uma câmera àquela distância e manter o outro ator do lado. Nessa lista de gafes entra também as cenas que foram filmadas sem foco ou com foco oscilando.
 
-A história é sobre dois golpes de sequestro relâmpago feito por uma quadrilha cujo mandante é uma pessoa erudita. Ele dá as ordens com um ar de conhecimento superior aos outros, mas ao mesmo tempo sentimos que ele também não é de confiança. A história é boa, mas a produção nem tanto. Ele se disfarça com peruca e barba branca, além de mancar, mas seus capangas nem isso percebem.
+A história é sobre dois golpes de sequestro-relâmpago executados por uma quadrilha cujo mandante é uma pessoa erudita. Ele dá as ordens com um ar de conhecimento superior aos outros, mas ao mesmo tempo sentimos que ele também não é de confiança. A história é boa, mas a produção nem tanto. Ele se disfarça com peruca e barba branca, além de mancar, mas seus capangas nem isso percebem.
 
 Este é um filme que hoje vale pela curiosidade. Acompanhar as investigações é uma atividade prazerosa no filme. Quem não gosta de um filme policial? Que tal ver como eram filmados no Brasil na década de 60 e produzidos por ninguém menos que Herbert Richers?

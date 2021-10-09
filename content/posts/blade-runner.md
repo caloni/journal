@@ -4,7 +4,6 @@ categories:
 date: '2019-06-19'
 link: https://www.imdb.com/title/tt0083658
 tags:
-- draft
 - movies
 title: 'Blade Runner: O Caçador de Androides'
 ---
@@ -17,7 +16,7 @@ O forte é o design de produção e de arte. Note as pirâmides como mega corpor
 
 A escalação de Harrison Ford hoje é discutível. Caçador de androides, na época era o mocinho indiscutível com trabalhos como Star Wars e Indiana Jones, mas hoje seu sorriso abobado soa destoante perto daquela realidade opressiva. Ele diz as falas, ok, mas seu espírito não parece estar ciente de que está realizando um clássico.
 
-O que deveria saber pelo roteiro. Não podemos ignorar hoje a performance visceral, shakespeariana, do andróide macho alfa, interpretado por Rutger Hauer. Ele está em um estado de alteração permanente. Suas falas tem o potencial de roubar a cena, mas apenas uma atuação desse calibre consegue entregá-las. Apenas note em seus olhos e em seus movimentos, mas a prova final é constatar que toda cena em que ele aparece o filme melhora, enquanto que com Ford não piora, mas se suporta pelo design. É como se o detetive Deckard estivesse pela primeira vez nesse mundo, o que não condiz com sua fama de melhor caçador.
+O que deveria saber pelo roteiro. Não podemos ignorar hoje a performance visceral, shakespeariana, do andróide macho alfa, interpretado por Rutger Hauer. Ele está em um estado de alteração permanente. Suas falas têm o potencial de roubar a cena, mas apenas uma atuação desse calibre consegue entregá-las. Apenas note em seus olhos e em seus movimentos, mas a prova final é constatar que toda cena em que ele aparece o filme melhora, enquanto que com Ford não piora, mas se suporta pelo design. É como se o detetive Deckard estivesse pela primeira vez nesse mundo, o que não condiz com sua fama de melhor caçador.
 
 A trupe de androides rouba sua postura do trio de criptonianos de Superman: O Filme. Mas é por um bom motivo: essa é a postura adequada de semi-deuses que são. Nada abaixo disso seria aceitável, e o roteiro entende que não se deve explicar muito o que já foi explicados no letreiro inicial do filme.
 

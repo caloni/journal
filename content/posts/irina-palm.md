@@ -4,7 +4,6 @@ categories:
 date: '2019-06-17'
 link: https://www.imdb.com/title/tt0762110
 tags:
-- draft
 - movies
 title: Irina Palm
 ---
@@ -17,6 +16,6 @@ Este é um filme que lembra mais uma fábula, simples e sem muitos empecilhos. E
 
 Ela também precisa lidar com suas amigas fofoqueiras e intrometidas que o roteiro coloca na história para que Irina saia por cima de todos seus círculos sociais. Eu respeito esse desejo de quebrar preconceitos, mas me afasto com a facilidade com que isso ocorre e toda manipulação para tornar o processo simples.
 
-E isso de maneira algma é culpa de sua atriz, Marianne Faithfull, que curiosamente também é cantora. Faithfull possui as melhores expressões, entregues de forma cabisbaixa, e a melhor postura do corpo enquanto vai e volta do seu primeiro serviço na vida, com as mãos juntas segurando sua bolsa. Ela pendura um quadro em seu lugar de trabalho e arruma um avental. A fábula segue a música de um refrão só, um refrão bem feito, mas que não oferece nada mais, nenhum personagem interessante para colorir as ruas de Londres.
+E isso de maneira alguma é culpa de sua atriz, Marianne Faithfull, que curiosamente também é cantora. Faithfull possui as melhores expressões, entregues de forma cabisbaixa, e a melhor postura do corpo enquanto vai e volta do seu primeiro serviço na vida, com as mãos juntas segurando sua bolsa. Ela pendura um quadro em seu lugar de trabalho e arruma um avental. A fábula segue a música de um refrão só, um refrão bem feito, mas que não oferece nada mais, nenhum personagem interessante para colorir as ruas de Londres.
 
-Agora, graças ao roteiro de Philippe Blasband (também pelo OK [Românticos Anônimos[(/romanticos-anonimo) todos reconhecem o sacrifício de Irina. Que boa avó que ela foi. Uma pena que a história se enfraqueça diante da força de sua única inspiradora personagem. Irina Palm em nossos sonhos. Como diziam os Beatles, "I wanna hold your hand".
+Agora, graças ao roteiro de Philippe Blasband (responsável pelo também mediano Românticos Anônimos) todos reconhecem o sacrifício de Irina. Que boa avó que ela foi. Uma pena que a história se enfraqueça diante da força de sua única inspiradora personagem. Irina Palm em nossos sonhos. Como diziam os Beatles, "I wanna hold your hand".

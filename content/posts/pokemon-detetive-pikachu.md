@@ -4,12 +4,11 @@ categories:
 date: '2019-05-25'
 link: https://www.imdb.com/title/tt5884052
 tags:
-- draft
 - movies
 title: 'Pokemon: Detetive Pikachu'
 ---
 
-É bom que você se certifique que é realmente fã de pokemon antes de entrar na sala de cinema. Eu fui assistir em um local cheia de fãs da nova geração, desses que assistem comentando vários easter eggs do filme, detalhes irrelevantes e o gosto da pipoca (tudo isso ao vivo ou pelo celular) e posso dizer que toda a trama de "Detetive Pikachu" merece exatamente esse nível de atenção. Você pode ler abaixo meu resumo em um ou dois tweets e relaxar para fazer o que quiser durante todo o resto da sessão. Vamos lá:
+É bom que você se certifique que é realmente fã de pokemon antes de entrar na sala de cinema. Eu fui assistir em um local cheio de fãs da nova geração, desses que assistem comentando vários easter eggs do filme, detalhes irrelevantes e o gosto da pipoca (tudo isso ao vivo ou pelo celular) e posso dizer que toda a trama de "Detetive Pikachu" merece exatamente esse nível de atenção. Você pode ler abaixo meu resumo em um ou dois tweets e relaxar para fazer o que quiser durante todo o resto da sessão. Vamos lá:
 
 "Clássica história de erro de comunicação entre pai e filho carente. Reviravoltas infinitas até achar o gênio do mal. Resolução sem riscos para os heróis. Pokemons de montão. Fim."
 
@@ -25,6 +24,6 @@ Continuando a falar em pokemons (porque é sobre isso o filme), eu nunca entendi
 
 Mas aqui as lutas entre pokemonn, ou rinhas de galos para crianças, não ocorrem. Este é um filme censura livre e politicamente correto que abomina violência, o que quer dizer que toda agressão vista no filme existe apenas para as pessoas sairem voando de um lugar a outro e caindo como se fossem de borracha. Toda a aventura é inofensiva, o que torna a experiência, mais uma vez, uma revisita aos seus pokemons favoritos. Seria melhor vê-los no YouTube no site do pokemon. Não é preciso refilmar uma história batida se pokemons não a tornarão mais interessante.
 
-Além disso, depois de A Vigilante do Amanhã, live-action de O Fantasma do Futuro (Ghost in The Shell), este é mais um filme norte-americano retratando personagens asiáticos. Não acredito que haja muitas minorias mais insignificativas no Ocidente do que japoneses, mas por algum motivo no Cinema tem baixado uma crise de consciência afrodescendente com toques de Netflix, e por isso o protagonista é um garoto negro, constituindo esse um raro espécime de blackwashing em yellow faces. E ele ser negro, diferente do espetacular Aranhaverso, não tem qualquer diferença para o personagem.
+Além disso, depois de A Vigilante do Amanhã, live-action de O Fantasma do Futuro (Ghost in The Shell), este é mais um filme norte-americano retratando personagens asiáticos. Não acredito que haja muitas minorias mais insignificantes no Ocidente do que japoneses, mas por algum motivo no Cinema tem baixado uma crise de consciência afrodescendente com toques de Netflix, e por isso o protagonista é um garoto negro, constituindo esse um raro espécime de blackwashing em yellow faces. E ele ser negro, diferente do espetacular Aranhaverso, não tem qualquer diferença para o personagem.
 
 De qualquer forma, estou pensando demais um filme que não merece muita atenção. É possível dormir em dois ou três momentos em Detetive Pikachu e você não perde nada. Aproveite também para ir ao banheiro ou pegar mais pipoca. Ah, sim, tem o Pikachu com a narração de Ryan Reynolds. Bom, teria, já que no Brasil a maioria das cópias é dublada de maneria pedestre, e a voz do Pikachu não faz a mínima diferença. Se trata da voz de um adulto contando piadas que não funcionam, pois Pikachu não pode sequer protagonizar cenas em que ele deixa de ser fofinho. Tudo pela marca. Uma marca que eu não sou nem um pouco fã, nem acompanho, mas que certamente já deu no saco. E você pode censurar essa frase na sua cabeça se preferir conteúdo livre. Eis o seu noir sem riscos.

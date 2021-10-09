@@ -4,7 +4,6 @@ categories:
 date: '2019-05-17'
 link: https://www.imdb.com/title/tt0059592
 tags:
-- draft
 - movies
 title: O Demônio das Onze Horas
 ---
@@ -19,4 +18,4 @@ Esse nonsense do filme com roubos patéticos de carro ou golpes infantis em turi
 
 O que no fundo Godard está fazendo é a sua teoria e versão do que deve ser feito no cinema: linguagem de guerrilha. A base para isso é que a linguagem que determina sua crítica. Então ele nos mostra como uma narrativa convencional é patética, com erros de lógica e continuidade dentro do controle narrativo. É um filme ruim porque o cineasta quer que assim o seja, para mostrar como a arte burguesa é de fato, mas para isso a fabrica desprovida do que a torna excelente: comunicação, onde coerência é fundamental.
 
-No fundo a esquerda não consegue lutar contra o sistema, sendo suas tentativas de contra cultura enfadonhas. Eu sei, o objetivo é mostrar como cinema é enfadonho. Ou a vida burguesa. Mas e a vida aventureira do casal não é divertida? Acho que me perdi na tradução. Não importa, este Godard de 65 é tão irrelevante que filmes ruins feitos sem querer entram no mesmo patamar.
+No fundo a esquerda não consegue lutar contra o sistema, sendo suas tentativas de contracultura enfadonhas. Eu sei, o objetivo é mostrar como cinema é enfadonho. Ou a vida burguesa. Mas e a vida aventureira do casal não é divertida? Acho que me perdi na tradução. Não importa, este Godard de 65 é tão irrelevante que filmes ruins feitos sem querer entram no mesmo patamar.

@@ -4,7 +4,6 @@ categories:
 date: '2019-06-22'
 link: https://www.imdb.com/title/tt0162346
 tags:
-- draft
 - movies
 title: 'Ghost World: Aprendendo a Viver'
 ---

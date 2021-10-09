@@ -5,7 +5,6 @@ date: '2019-06-09'
 link: https://www.imdb.com/title/tt1489887
 tags:
 - cinemaqui
-- draft
 - movies
 title: Fora de Série
 ---
@@ -22,8 +21,8 @@ Este é daqueles roteiros escritos por quatro pessoas ligadas à moda de filmes 
 
 A diretora (também atriz, mas não nesse filme) Olívia Wilde estreia em seu primeiro longa com o pé direito. Ela faz um filme dinâmico, que sabe quando a cena precisa passear com a câmera ou cortar freneticamente. E há tantos cortes frenéticos quanto cenas em câmera lenta, o que geralmente não é bom sinal, mas que aqui funciona, pois conversa com um público jovem, em idade ou em espírito, além de uma montagem que chega à audácia de possuir gags visuais, na introdução de cada festa que elas encontram ou da improvável e engraçadíssima reaparição de uma certa personagem interpretada por Billie Lourd. Wilde faz tudo isso sem medo de ser feliz e demonstra que está trabalhando com um material de primeira.
 
-E está mesmo, pois quando estamos no terceiro ato, que é o momento de todo filme desse gênero onde se separam as mulheres das meninas, que o filme se mantém firme e forte. Mais importante que isso: as personagens se mantém. Não há maniqueísmos e o super-clichê da falha de comunicação das amigas se resolve porque é isso o que geralmente ocorre na vida real. E esse é um filme onde os jovens, além de você lembrar deles no decorrer da história, são versões reais, embora exageradas, de adolescentes de carne e osso. Uma versão jovem da série Community sem referências nerds.
+E está mesmo, pois quando estamos no terceiro ato, que é o momento de todo filme desse gênero onde se separam as mulheres das meninas, o filme se mantém firme e forte. Mais importante que isso: as personagens se mantém. Não há maniqueísmos e o super-clichê da falha de comunicação das amigas se resolve porque é isso o que geralmente ocorre na vida real. E esse é um filme onde os jovens, além de você lembrar deles no decorrer da história, são versões reais, embora exageradas, de adolescentes de carne e osso. Uma versão jovem da série Community sem referências nerds.
 
-A seleção de músicas desse filme é insana na medida do desejável. Usa Alanis Morissette em um karaokê e praticamente nos convida a cantar juntos no cinema (não faça isso). Usa o tema de Ghost repaginado porque além de ser engraçado no começo da cena se transforma em uma declaração de fato emocionam. Esta é a playlist do millenial do bem, que não veio reclamar que tá tudo errado, mas que dá pra pegar os mesmos clichês e fazer do jeito certo.
+A seleção de músicas desse filme é insana na medida do desejável. Usa Alanis Morissette em um karaokê e praticamente nos convida a cantar juntos no cinema (não faça isso). Usa o tema de Ghost repaginado porque além de ser engraçado no começo da cena se transforma em uma declaração de fato emocionante. Esta é a playlist do millenial do bem, que não veio reclamar que tá tudo errado, mas que dá pra pegar os mesmos clichês e fazer do jeito certo.
 
 E por falar em fazer do jeito certo, eu termino voltando a esta nova diretora, que me fez voltar a ter esperanças de comédias no cinema, como um divertimento de escape, claro, mas com bom gosto. Eu deveria comentar sobre a cartilha lésbica e essas coisas de minorias no filme, mas passou batido, porque é assim que deve ser na vida real. Sinal de que o filme é tão bem feito que não precisa de muletas sociais, pois gira em torno simplesmente de seres humanos.

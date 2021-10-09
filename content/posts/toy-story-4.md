@@ -5,7 +5,6 @@ date: '2019-06-19'
 link: https://www.imdb.com/title/tt1979376
 tags:
 - cinemaqui
-- draft
 - movies
 title: Toy Story 4
 ---
@@ -14,9 +13,9 @@ Toy Story 4 é a quebra de uma trilogia, e isso é ótimo. Chacoalhando um pouco
 
 A história gira em torno de uma curiosa e engraçada espécie de crise de meia-idade de Woody, o brinquedo favorito de Andy, mas que agora nas mãos da pequena Bonnie não está mais recebendo atenção. A partir da necessidade obsessiva do vaqueiro da Pixar em fazer parte da vida de Bonnie somos apresentados a novos brinquedos e uma nova aventura, dessa vez com um grupo mais coeso.
 
-Entendendo que a mágica deste universo reside mais na interação entre crianças e brinquedos, este se torna o filme mais existencialista dos quatro. Uso um termo profundo como esse porque os assuntos tratados são profundos, mesmo, envolvendo em suas entrelinhas questões sobre "de onde viemos" para crianças, além de, assim como Divertida Mente, a função de cada brinquedo (pessoa) na vida de uma criança (na vida).
+Entendendo que a mágica deste universo reside mais na interação entre crianças e brinquedos, este se torna o filme mais existencialista dos quatro. Uso um termo profundo como esse porque os assuntos tratados são profundos, mesmo, envolvendo em suas entrelinhas questões sobre "de onde viemos" para crianças, além de, assim como Divertida Mente, a função de cada brinquedo (pessoa) na vida de uma criança.
 
-Woody tenta comandar o time de brinquedos com sua nova criança, Bonnie, que serve como subtítulo ao filme quando percebemos que é Jessie o brinquedo favorito da criança, ao escrever seu nome na sola da vaqueira. Woody não é escolhidos mais nas brincadeiras da pequena. Exceto seu distintivo de xerife, que ela coloca na Jessie. A passagem de bastão não pode ser mais óbvia.
+Woody tenta comandar o time de brinquedos com sua nova criança, Bonnie, que serve como subtítulo ao filme quando percebemos que é Jessie o brinquedo favorito da criança, ao escrever seu nome na sola da vaqueira. Woody não é escolhido mais nas brincadeiras da pequena. Exceto seu distintivo de xerife, que ela coloca na Jessie. A passagem de bastão não pode ser mais óbvia.
 
 Mas Woody ainda vive nos velhos tempos e tenta cuidar de Bonnie como se ela fosse uma nova versão de Andy. Ele acompanha ela no primeiro dia no primário e fornece o lixo que ela usa para criar seu novo melhor amigo: o previsivelmente divertido Garfinho. Mais uma vez, a passagem de bastão não pode ser mais óbvia, e conforme Woody tenta convencer Garfinho que ele é um brinquedo e não o lixo de onde ele veio descobrimos que mais uma vez não há vilões em Toy Story, apenas brinquedos traumatizados que precisam de amor e compreensão, o que é uma linda mensagem para as crianças.
 
@@ -24,11 +23,11 @@ TS4 caminha por várias boas ideias e consegue aproveitar todas elas em uma hist
 
 Aliás, a Pixar faz aqui um trabalho admirável de nos mostrar alguns "Easter Eggs" (surpresas escondidas) que não acrescentam nada à história, mas nos faz perceber quantos anos e quantos trabalhos memoráveis a produtora possui. Esta é também uma homenagem aos antigos membros da equipe de animação, que mais se pareciam uma grande família em seus melhores trabalhos, ou pelo menos os que eles mais possuem afeto, como Up!, Monstros SA e um de seus primeiros curtas, Tin Toy. Essas aparições alimentam "divertidamente" a teoria da conspiração de que todos seus filmes fazem parte do mesmo universo em outros tempos e sob diferentes pontos de vista.
 
-Porém, o filme não se deixa distrair por esses detalhes, preferindo usar sem tempo para nos envolver com seus conceitos criados. Por exemplo, a forma com que Buzz entende a explicação de Woody sobre sua "voz interior" rende as melhores piadas e inserções, que nunca são gratuitas, o que torna o humor ainda melhor. É um roteiro que trabalha muito bem as maneiras de conectar seus personagens e suas gags.
+Porém, o filme não se deixa distrair por esses detalhes, preferindo usar seu tempo para nos envolver com seus conceitos criados. Por exemplo, a forma com que Buzz entende a explicação de Woody sobre sua "voz interior" rende as melhores piadas e inserções, que nunca são gratuitas, o que torna o humor ainda melhor. É um roteiro que trabalha muito bem as maneiras de conectar seus personagens e suas gags.
 
 Outra decisão acertada é não envolver muitos personagens, o que quer dizer, para tristeza de alguns fãs, que Rex, Sr. e Sra. Cabeça de Batata e Paul, além da própria Jesse, ficarão de fora na maior parte do tempo, se limitando a ser espectadores das loucuras de Woody em manter as coisas como sempre foram.
 
-Mas é inútil. Você não luta contra as mudanças na vida, apenas se adapta, e essa é outra linda mensagem para as crianças. Se você já sabe o que está acontecendo com o Cinema na última década e pensou em comentário social, você está certo. Esta história possui uma personagem feminina forte (que você vai adivinhar nos primeiros minutos) às custas de um Woody mais abobalhado, quase senil. Mas esse desenvolvimento não é simplesmente jogado a esmo como uma forma de forçar uma situação, mas se adequa de maneira acerta em unir passado e futuro em uma aventura que celebra a diversidade de brinquedos e de formas desses brinquedos de viver.
+Mas é inútil. Você não luta contra as mudanças na vida, apenas se adapta, e essa é outra linda mensagem para as crianças. Se você já sabe o que está acontecendo com o Cinema na última década e pensou em comentário social, você está certo. Esta história possui uma personagem feminina forte (que você vai adivinhar nos primeiros minutos) às custas de um Woody mais abobalhado, quase senil. Mas esse desenvolvimento não é simplesmente jogado a esmo como uma forma de forçar uma situação, mas se adequa de maneira certeira em unir passado e futuro em uma aventura que celebra a diversidade de brinquedos e de formas desses brinquedos de viver.
 
 O que nos remete a outra ideia encantadora. Se durante boa parte da série de filmes ser um brinquedo envolvia fazer sua criança feliz, aqui essa questão é rediscutida, como ao mostrar que brinquedos podem ser compartilhados por várias crianças, sendo igualmente importante para todas elas. Da mesma forma, também aprendemos sobre como brinquedos podem sempre receber uma segunda chance em suas vidas úteis, como o significativo nome da loja de antiguidades onde boa parte do filme se passa já denota.
 

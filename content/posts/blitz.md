@@ -4,7 +4,6 @@ categories:
 date: '2019-06-19'
 tags:
 - cinemaqui
-- draft
 - movies
 title: Blitz
 ---
