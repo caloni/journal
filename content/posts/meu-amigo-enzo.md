@@ -5,7 +5,6 @@ date: '2019-08-01'
 link: https://www.imdb.com/title/tt1478839
 tags:
 - cinemaqui
-- draft
 - movies
 title: Meu Amigo Enzo
 ---
@@ -24,7 +23,7 @@ Este se torna um filme tocante e em alguns momentos tenso porque é isso o que e
 
 Para quem possui animais, e eu digo de fato para suas vidas, e não como muletas de carência como têm sido usados cada vez mais, a resposta para "onde encontro esse animal" deve parecer boba, pois uma vez que você estabelece um laço com uma criatura dessas é como se você tivesse de fato um amigo, e ainda que não da mesma espécie, próximo o suficiente para termos empatia e conexão. E como Marley e Eu e Meu Amigo Enzo tentam demonstrar, uma amizade entre um homem e seu cão pode adquirir significado com o tempo sem necessariamente nenhum truque além do convívio dia após dia. Afinal, somos animais sociais e os lobos desde os tempos mais primórdios são nossa versão menos consciente e mais confiável para a vida selvagem.
 
-O motivo dos dramas e conflitos no filme serem tão artificiais possui um significado, também, pois o mundo onde a história se passa possui um viés ligeiramente religioso, ou pelo menos espiritual, com o objetivo de nos fazer sentir bem apesar das mortes que acompanhareos. Ele usa reencarnação como paz para o espírito, mas de uma forma muito sutil ele ultrapassa interpretações fechadas e adquire um ar mais metafísico. O dono de Enzo é um piloto tão bom porque ele não vive no passado ou futuro, mas no presente. Cachorros são companhias eternas porque, não dotados da voz interior que ajuda e atrapalha, eles sempre vivem no presente, também.
+O motivo dos dramas e conflitos no filme serem tão artificiais possui um significado, também, pois o mundo onde a história se passa possui um viés ligeiramente religioso, ou pelo menos espiritual, com o objetivo de nos fazer sentir bem apesar das mortes que acompanharemos. Ele usa reencarnação como paz para o espírito, mas de uma forma muito sutil ele ultrapassa interpretações fechadas e adquire um ar mais metafísico. O dono de Enzo é um piloto tão bom porque ele não vive no passado ou futuro, mas no presente. Cachorros são companhias eternas porque, não dotados da voz interior que ajuda e atrapalha, eles sempre vivem no presente, também.
 
 Porém, apesar deste fato, para maior participação de Enzo suas falas refletem momentos que não testemunhamos, quando seu dono fala sobre o que é ser um piloto e coisas da vida. Seria estranho testemunhamos ambos, porque apesar do título brasileiro Enzo é o protagonista dessa história, e apesar de nenhum ser humano ter sido ferido durante as filmagens eles foram cobaias neste experimento de troca de protagonismo.
 

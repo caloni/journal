@@ -4,7 +4,6 @@ categories:
 date: '2019-07-04'
 link: https://www.imdb.com/title/tt0312843
 tags:
-- draft
 - movies
 title: O Pacto
 ---
@@ -21,4 +20,4 @@ Porém, há um limite para tudo, e quando o filme começa a brincar com fantasma
 
 O surgimento de um bando de garotos liderados por um rapaz de salto alto e muito glitter na roupa, uma versão metrossexual japonesa de Laranja Mecânica, faz o pouco sentido que havia no mistério ir por água abaixo. Ouvimos o salto alto cantar sua icônica (e bonita) canção, e é um dos momentos mais chamativos do longa. Mas o que ele quer dizer? Não pergunte.
 
-O Pacto tem claras tendências niilistas, mas sequer sabe disso. Ele lida com suicídio muito melhor que o Ocidente. Deve ser os recordes da prática. No entanto, fazer um bando de crianças recitar filosofia barata e sem sentido sobre ligações não nos deixa sair satisfeitos com a "resolução" da trama.
+O Pacto tem claras tendências niilistas, mas sequer sabe disso. Ele lida com suicídio muito melhor que o Ocidente. Devem ser os recordes da prática. No entanto, fazer um bando de crianças recitar filosofia barata e sem sentido sobre ligações não nos deixa sair satisfeitos com a "resolução" da trama.

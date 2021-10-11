@@ -5,7 +5,6 @@ date: '2019-08-03'
 link: https://www.imdb.com/title/tt9358204
 tags:
 - cinemaqui
-- draft
 - movies
 title: Privacidade Hackeada
 ---
@@ -26,8 +25,8 @@ O documentário gira em torno do seu remorso pelo que ela ajudou a construir, pe
 
 O que mais me incomodou neste filme foi o tom absolutamente irreal com que ele realiza suas manobras, como se essas pessoas fossem seres iluminados sem posição política alguma, enxergando a realidade fora da Matrix e prontos para mudar o mundo para melhor. Porém, até o espectador mais ingênuo deveria se questionar se haveria essa luta pela verdade e a questão de como seus dados são usados se, por exemplo, o resultado dessas duas votações fosse diferente.
 
-A figura mais emblemática, e é virtude do longa não esconder, é de Brittany, que não se sentiu arrependida por ajudar na campanha de Obama, mas estar vivendo agora seu inverno astral por conta de todos os seus amigos estarem furiosos por ela ajudar "o outro lado". Note como ela entende o problema da polarização cada vez mais crescente na opinião política das pessoas, mas por algum motivo que talvez nem ela saiba é incapaz de acusar o lado teoricamente mais empático de ser violento.
+A figura mais emblemática, e é virtude do longa não esconder, é de Brittany, que não se sentiu arrependida por ajudar na campanha de Obama, mas estar vivendo agora seu inferno astral por conta de todos os seus amigos estarem furiosos por ela ajudar "o outro lado". Note como ela entende o problema da polarização cada vez mais crescente na opinião política das pessoas, mas por algum motivo que talvez nem ela saiba é incapaz de acusar o lado teoricamente mais empático de ser violento.
 
-Ou isso ou os diretores do filme, Karim Amer e Jehane Noujaim, trabalham no caso específico e que deixou o mundo inteiro atordoado: a eleição de Donald Trump. Toda sua campanha é utilizada como o bode expiatório para dar suporte à teoria de que os eleitores americanos foram enganados, utilizando para isso a análise do perfil dos indevidos antes do dia da votação e o envio massivo de propaganda negativa contra sua adversária, Hillary Clinton.
+Ou isso ou os diretores do filme, Karim Amer e Jehane Noujaim, trabalham no caso específico e que deixou o mundo inteiro atordoado: a eleição de Donald Trump. Toda sua campanha é utilizada como o bode expiatório para dar suporte à teoria de que os eleitores americanos foram enganados, utilizando para isso a análise do perfil dos indivíduos antes do dia da votação e o envio massivo de propaganda negativa contra sua adversária, Hillary Clinton.
 
 No entanto, por nunca conseguir de fato acesso ao modus operandi da famigerada Cambridge Analytica, o filme é incapaz de trazer respostas satisfatórias às questões que levanta, e acaba se limitando no velho jogo de propaganda que já conhecemos desde a Rússia soviética. Logo, fica difícil reconhecer o trabalho deste filme como inovadora quando o que ele no final das contas denuncia é: a propaganda faz as pessoas mudarem de idéia. Não me parece um material muito revolucionário para mim. O que você acha?

@@ -5,7 +5,6 @@ date: '2019-07-11'
 link: https://www.imdb.com/title/tt7175992
 tags:
 - cinemaqui
-- draft
 - movies
 title: O Professor Substituto
 ---
@@ -14,7 +13,7 @@ Uma classe de alunos está compenetrada estudando. O calor é tão forte que é 
 
 Este é um thriller que acompanha o processo em que um quarentão galã e perdido se vê no direito de cuidar e de se preocupar com seus alunos e ao mesmo tempo não consegue evitar mergulhar em sua análise comportamental quando ele próprio se vê diante de um thriller comandado por seis crianças que seriam consideradas problemáticas se não fossem espertas demais para disfarçar isso para os outros professores.
 
-O filme nos prende nessa dinâmica repetitiva que infelizmente funciona. Elaborada junto de um design de som preocupado em nos manter ocupados analisando o significado dessa estranheza, acompanhamos os devaneios do grupo de jovens inseridos em forma de vídeos caseiros sobre o destino do aquecimento global, da extinção em massa e da tortura dos animais, tudo em cenas fortes que pode pegar alguém desprevenido caso a pessoa já não tenha sido impactada com a tentativa de suicídio da primeira cena.
+O filme nos prende nessa dinâmica repetitiva que infelizmente funciona. Elaborada junto de um design de som preocupado em nos manter ocupados analisando o significado dessa estranheza, acompanhamos os devaneios do grupo de jovens inseridos em forma de vídeos caseiros sobre o destino do aquecimento global, da extinção em massa e da tortura dos animais, tudo em cenas fortes que podem pegar alguém desprevenido caso a pessoa já não tenha sido impactada com a tentativa de suicídio da primeira cena.
 
 Para, assim como o professor, prestarmos atenção no que essas crianças estão aprontando, o filme os coloca em um pedestal de supremacia. São alunos adiantados do resto da escola e que se vêem como tendo que carregar o fardo de verem o que ninguém mais consegue ver, isolados em sua arrogância e compenetrados em rituais de auto-tortura como a passar uma mensagem aos sobreviventes do fim do mundo que está chegando.
 

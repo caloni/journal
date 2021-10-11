@@ -5,7 +5,6 @@ date: '2019-08-06'
 link: https://www.imdb.com/title/tt7778680
 tags:
 - cinemaqui
-- draft
 - movies
 title: Retrato do Amor
 ---
@@ -24,7 +23,7 @@ Rafi é um homem preso pelo passado de seu pai, que contraiu dívidas que fez co
 
 Já tendo trabalhado com o diretor em The Lunchbox, o ator Nawazuddin Siddiqui se encaixa perfeitamente nesse papel que mistura contemplação com possibilidades. Sua interpretação, assim como de Sanya, também é minimalista, porque ambos precisam trabalhar nossas percepções do que ocorre internamente com essas duas pessoas quando Rafi pede para ela que finja ser sua namorada para a visita da avó.
 
-Cansado da mesmice da velha história do casal que não deve ficar junto pelas barreiras sociais, o diretor/roteirista Ritesh Batra entende isso como ninguém. Ele sequer cita Bollywood para evitar algo como uma contaminação do estereótipo de "tudo termina em dança", e na única cena onde há uma sala de cinema envolvida um rato aparece entre as pernas de Miloni. (E isso serve de alerta também a reseito do final do filme, que pode te surpreender, para o bem ou para o mal.)
+Cansado da mesmice da velha história do casal que não deve ficar junto pelas barreiras sociais, o diretor/roteirista Ritesh Batra entende isso como ninguém. Ele sequer cita Bollywood para evitar algo como uma contaminação do estereótipo de "tudo termina em dança", e na única cena onde há uma sala de cinema envolvida um rato aparece entre as pernas de Miloni. (E isso serve de alerta também a respeito do final do filme, que pode te surpreender, para o bem ou para o mal.)
 
 Não, o Sr. Batra não está afim de filmar mais uma amor impossível. Ele mira mais longe, no espaço e no tempo. Ele quer que nos lembremos de sonhos que provavelmente muitos poucos de nós viveram, seja dentro do microcosmos indiano ou em outras regiões do planeta, depois que todos os seres humanos migraram do campo para as cidades. Esse sonho tem a ver com a vida simples, onde a rotina se dividia em acordar cedo para cuidar da terra e dormir cedo para ter forças para o dia seguinte. "Mas não é uma vida tão fácil quanto a poesia quer que seja", você já deve estar pensando, na defensiva. Se estiver, eu concordo. Mas não é isso que está em jogo. É algo mais profundo.
 

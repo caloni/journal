@@ -5,7 +5,6 @@ date: '2019-08-10'
 link: https://www.imdb.com/title/tt8663516
 tags:
 - cinemaqui
-- draft
 - movies
 title: Brinquedo Assassino
 ---
@@ -18,7 +17,7 @@ Aparentemente crianças muito carentes. Como Andy, que vive com sua mãe, que vi
 
 Buddi é um boneco high-tech com inteligência artificial, capaz de se conectar com todos os dispositivos feitos pela mesma grande e maligna corporação Kaslam, que explora trabalhadores do Vietnã para fazer seus produtos (exploraria da China, mas agora os trabalhadores de lá ganham muito mais). Entre seus funcionários um deles é demitido e se vinga no boneco que estava consertando, retirando todas as travas: agora ele pode falar palavrão, esfaquear pessoas. Provavelmente até dançar lambada.
 
-Agora é esta versão dos infernos de Buddi que está na casa de Andy. Ele se autodenomina Chucky e está pronto para tocar o terror, certo? Na verdade, não. Uma das duas grandes sacadas deste filme, sendo a primeira escalar Mark Hamill para a voz de Chucky, é fazer o boneco primeiro se tornar uma criatura do mal conforme ele aprende através do comportamento humano. Ele quer que Andy sempre se divirta, o que quer dizer estar sempre sorrindo e rindo. Ele vê seus amigos se divertindo ao assistir O Massacre da Serra Elétrica e concluir muito sabiamente que se ele sair por aí retalhando as pessoas Andy estaria se divertindo.
+Agora é esta versão dos infernos de Buddi que está na casa de Andy. Ele se autodenomina Chucky e está pronto para tocar o terror, certo? Na verdade, não. Uma das duas grandes sacadas deste filme, sendo a primeira escalar Mark Hamill para a voz de Chucky, é fazer o boneco primeiro se tornar uma criatura do mal conforme ele aprende através do comportamento humano. Ele quer que Andy sempre se divirta, o que quer dizer estar sempre sorrindo e rindo. Ele vê seus amigos se divertindo ao assistir O Massacre da Serra Elétrica e conclui muito sabiamente que se ele sair por aí retalhando as pessoas Andy vai cair na gargalhada.
 
 Nós sabemos por experiências passadas que a IA, quando exposta a humanos, principalmente na internet, ela se torna um "ser" altamente preconceituoso. O exemplo mais icônico é o de Tay, uma IA desenvolvida pela Microsoft para interagir com adolescentes nas redes sociais e que em menos de um dia começa a reproduzir pensamentos nazistas. Portanto, o roteiro de Tyler Burton acerta em seu início ao tentar escalar esse aprendizado quando a IA que aprende possui capacidades físicas que a permite se tornar agressiva, também.
 
@@ -26,4 +25,4 @@ No entanto, o show de horrores precisa continuar, e Brinquedo Assassino descarta
 
 Este não é daqueles filmes que já começa "errado" e apenas desenvolve sua ideia, como, por exemplo, Matadores de Vampiras Lésbicas. Se fosse o caso ele seria ruim e divertido. Este é um filme reconstruído para os novos tempos, que começa interessante, coeso, e parte para o gênero slasher de onde veio apenas porque isso é o esperado por sua legião de fãs. Isso torna ele um filme apenas ruim. OK, se você for fã e não estiver pensando muito, pode se divertir, também.
 
-Por outro lado, é possível captar uma fina ironia em seu terceiro ato. Olhe a alegoria: é lançamento de um novo boneco Buddi. Pessoas se aglomeram na entrada da loja para a inauguração, e quando a loja abre elas se atropela no meio do caminho. São pessoas ensandecidas, adultos e crianças, agitadas porque há um novo brinquedo em que elas podem depositar todas suas carências afetivas, não importando se ele é medonho pra cacete. Isso no fundo diz um pouquinho sobre nossa sociedade adoecida pelo consumismo (troque Chucky por um novo iPhone) e pelo hype da mesmice (os próprios fãs do Chucky dos anos 80). Eu não vejo diferença. E nem Chucky: ele mata todos sem distinção alguma. Meu herói.
+Por outro lado, é possível captar uma fina ironia em seu terceiro ato. Olhe a alegoria: é lançamento de um novo boneco Buddi. Pessoas se aglomeram na entrada da loja para a inauguração, e quando a loja abre elas se atropelam no meio do caminho. São pessoas ensandecidas, adultos e crianças, agitadas porque há um novo brinquedo em que elas podem depositar todas suas carências afetivas, não importando se ele é medonho pra cacete. Isso no fundo diz um pouquinho sobre nossa sociedade adoecida pelo consumismo (troque Chucky por um novo iPhone) e pelo hype da mesmice (os próprios fãs do Chucky dos anos 80). Eu não vejo diferença. E nem Chucky: ele mata todos sem distinção alguma. Meu herói.

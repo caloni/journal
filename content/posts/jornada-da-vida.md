@@ -5,7 +5,6 @@ date: '2019-07-02'
 link: https://www.imdb.com/title/tt8058904
 tags:
 - cinemaqui
-- draft
 - movies
 title: Jornada da Vida
 ---
@@ -16,7 +15,7 @@ Já o garoto Yao, interpretado com energia por Lionel Louis Basse e que leva o t
 
 Juntos eles criam uma química básica de amizade, companheirismo e de certa forma cumplicidade. Chega um momento em que uma bela mulher os abandona no meio da aventura e eles não precisam trocar uma palavra para entender que este é apenas o final de mais um capítulo.
 
-Jornada da Vida tenta valorizar de todas as formas o caminho, exaltando cenários com árvores milenares enquadrando nossos heróis e pores-do-sol estonteantes, mas se esquece de introduzir um desafio digno de uma aventura. É como se todo o percurso de volta à casa de Yao fosse demarcada em um mapa que prevê pequenas sensações de aventura, apenas o suficiente para que o espectador fique na sala.
+Jornada da Vida tenta valorizar de todas as formas o caminho, exaltando cenários com árvores milenares enquadrando nossos heróis e pores do sol estonteantes, mas se esquece de introduzir um desafio digno de uma aventura. É como se todo o percurso de volta à casa de Yao fosse demarcada em um mapa que prevê pequenas sensações de aventura, apenas o suficiente para que o espectador fique na sala.
 
 Pegue, por exemplo, as infinitas menções aos antepassados, às tradições da música, da dança, das cerimônias. São homenagens fechadas, que não abrem portas para o espectador curioso, mas apenas piscam para o já iniciado, que sabe do que o filme está falando. Sem menosprezar a competente produção, lembra aqueles filmes caseiros que assistimos em família porque pessoas estranhas a essa realidade não vão entender, e mesmo que a intenção fosse manter o mistério, passa longe de ser hipnotizante.
 

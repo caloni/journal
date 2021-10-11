@@ -4,7 +4,6 @@ categories:
 date: '2019-08-17'
 link: https://www.imdb.com/title/tt0461804
 tags:
-- draft
 - movies
 title: Pingue-Pongue da Mongólia
 ---
@@ -19,7 +18,7 @@ O filme de Hao Ning navega por essas percepções de encontro entre dois mundos.
 
 Mas Hao Ning se perde facilmente em sua fascinação pelo mundo infantil de descobertas, perdendo muito tempo em mostrar a briga de diferentes "gangues" de crianças, que se dividem por idade, além das brincadeiras sem brinquedo, mas com binóculos e motocicleta, que elas inventam no seu dia-a-dia.
 
-O resultado acaba se tornando um misto entre lúdico e quase uma análise humana das diferenças culturais. É engraçado acompanhar as percepções das crianças e de sua busca por compreender o que de fato aquela bola de pingue-pongue é. A membro mais antiga da família, a avó, diz ser um tesouro deixado pelos espíritos no rio, mas isso não convence mais essa geração, que recebe conhecimento novo de outras partes do mundo.
+O resultado acaba se tornando um misto entre lúdico e quase uma análise humana das diferenças culturais. É engraçado acompanhar as percepções das crianças e de sua busca por compreender o que de fato aquela bola de pingue-pongue é. A membra mais antiga da família, a avó, diz ser um tesouro deixado pelos espíritos no rio, mas isso não convence mais essa geração, que recebe conhecimento novo de outras partes do mundo.
 
 Este é um filme da diferença entre um mundo isolado no antigo império de Genghis Khan, que proliferou seus genes por aquelas bandas, e a comunicação com o mundo contemporâneo de hoje. Diz-se que o guerreiro possui até 16 milhões de descendentes homens hoje. Isso não adiantou hoje, pois a Mongólia é no máximo uma colônia da China, que é a nação para qual os filhos de Khan se viram no nascer do sol. Sobre o que é, então, esta história?
 

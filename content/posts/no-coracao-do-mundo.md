@@ -5,7 +5,6 @@ date: '2019-07-24'
 link: https://www.imdb.com/title/tt9646768
 tags:
 - cinemaqui
-- draft
 - movies
 title: No Coração do Mundo
 ---
@@ -24,10 +23,10 @@ Fechando o elenco, os coadjuvantes de No Coração do Mundo são uma familiar po
 
 Ela e o resto do elenco foram escolhidos a dedo para diálogos montados pela dupla de diretores/roteiristas, Gabriel Martins e Maurílio Martins, que exibem uma boa parcela dessa antologia mineira. Usando não apenas do sotaque típico, como das expressões da região, como o autêntico "garrar" (estar preso no trânsito em alguma situação), a dupla Martins trouxe à vida um mundinho linguístico conhecido de quem mora ou já se aventurou por aquelas bandas, mas além disso mescla diferentes tons sociais de uma periferia da região sendo descoberta.
 
-Porém, "No Coração" é muito mais que seu coeso roteiro, já que é através das escolhas de locação e dos cenários montados que muitos elementos da mineiridade se revelam quase que como sem querer, em uma abordagem realista e orgânica da cultura da região e em grande parte do Brasil. Sua caracterização é potente no mesmo nível do excelente Arábia (2017), a ponto de fazer crer que um se inspirou no outro, embora as filmagens tenham sido feitas quase na mesma época.
+Porém, "No Coração" é muito mais que seu coeso roteiro, já que é através das escolhas de locação e dos cenários montados que muitos elementos da mineiridade se revelam sem querer, em uma abordagem realista e orgânica da cultura da região e em grande parte do Brasil. Sua caracterização é potente no mesmo nível do excelente Arábia (2017), a ponto de fazer crer que um se inspirou no outro, embora as filmagens tenham sido feitas quase na mesma época.
 
 Como produção, também, o filme esteticamente se aproxima muito do trabalho de João Dumans e Affonso Uchoa, seja pelo exemplar trabalho de som, que consegue mesclar sons do ambiente que revelam uma tridimensionalidade da vida surpreendente, como ouvir sons de carro passando na rua ou pessoas realizando um canto religioso ao fundo ou a fotografia que favorece as cores desbotadas de uma Minas charmosamente decadente; talvez até esquecida, pelos que aprenderam sobre a região apenas do ponto de vista turístico.
 
 Porém, além disso, o filme ainda se destaca pela sua inusitada escolha de músicas, que mesclando rap com pops icônicos demonstra também sonoramente essa diversidade querendo enriquecer ainda mais a experiência da inserção naquela realidade múltipla, mas que se observarmos de perto se sintetizam na luta do dia-a-dia.
 
-Todos os ricos elementos de cena de "No Coração" somam em seu ato final, quando o filme de duas horas parece curto e acabar prematuramente. Isso porque há momentos de clímax pesado próximo do final, e essa quebra no marasmo nos enche de adrenalina. Uma má escolha de timing ou uma mensagem proposital do filme, a busca pelo coração do mundo, o lugar onde finalmente nos sentimos bem com nós mesmos, é eterna. O filme nos fazer pensar a respeito e uma baita de uma virtude.
+Todos os ricos elementos de cena de "No Coração" somam em seu ato final, quando o filme de duas horas parece curto e acaba prematuramente. Isso porque há momentos de clímax pesado próximo do final, e essa quebra no marasmo nos enche de adrenalina. Uma má escolha de timing ou uma mensagem proposital do filme, a busca pelo coração do mundo, o lugar onde finalmente nos sentimos bem com nós mesmos, é eterna. O filme nos fazer pensar a respeito é uma baita de uma virtude.
