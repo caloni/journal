@@ -4,7 +4,6 @@ categories:
 date: '2019-08-18'
 link: https://www.imdb.com/title/tt0191043
 tags:
-- draft
 - movies
 title: A Cor do Paraíso
 ---
@@ -17,7 +16,7 @@ Ainda assim, não há como não apreciar a poesia por trás de um garoto cego qu
 
 As cores de A Cor do Paraíso são também alegóricas. Quando pai e filho chegam na aldeia onde moram, o verde do pasto e as diferentes cores das flores que dão origem à tintura das peças que manufaturam na vila dá todo o tom onírico que o filme quer passar. O pequeno Mohammad é puro, bondoso e doce. Ele quer ser justo em um mundo injusto, cercado de cores que ele não consegue ver.
 
-A figura paterna é muito maltratada em A Cor do Paraíso. O pai de Mohammad é egoísta e covarde. Viúvo, se sentem uma vítima das circunstâncias enquanto todos em volta tentam viver da melhor forma possível. Ele gostaria muito que Mohammad um dia desaparecesse ou sofresse um acidente e morresse. Vemos isso em seus olhos, mas o filme não nos faz pensar muito sobre essa simbologia. O espectador comum ficará apenas com raiva deste homem.
+A figura paterna é muito maltratada em A Cor do Paraíso. O pai de Mohammad é egoísta e covarde. Viúvo, se sente uma vítima das circunstâncias enquanto todos em volta tentam viver da melhor forma possível. Ele gostaria muito que Mohammad um dia desaparecesse ou sofresse um acidente e morresse. Vemos isso em seus olhos, mas o filme não nos faz pensar muito sobre essa simbologia. O espectador comum ficará apenas com raiva deste homem.
 
 Mas por mais maniqueísta e óbvio que este filme seja, ele possui uma ponta de ingenuidade ou de abertura em seu núcleo que nos faz lembrar das histórias bíblicas, estas pequenas relíquias em formato de história, frutos de uma humanidade ainda muito simples, quase uma não-civilização, dividida em tribos e arquétipos bem conhecidos. Por se passar no Oriente Médio, você pode relacionar com o Alcorão ou algo do tipo. Tanto faz. No fundo é uma história atemporal acontecendo sem moral e sem mensagem, mas muito profunda.
 

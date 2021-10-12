@@ -4,7 +4,6 @@ categories:
 date: '2019-08-25'
 link: https://www.imdb.com/title/tt0303408
 tags:
-- draft
 - movies
 title: O Invasor
 ---
@@ -13,7 +12,7 @@ O Invasor é um experimento da época de reabertura do cinema nacional, lá pelo
 
 O resultado disso é que Brant precisa criar uma narrativa que não precise de decupagem ou muito enquadramento de suas cenas. Todas as cenas do filme são feitas com câmeras em movimento, pois elas estão de fato invadindo o local de filmagem para a cena, e não se preparando desde o começo do dia com iluminação, cenário, etc.
 
-Isso torna o título "O Invasor" de uma ambiguidade admirável se compreendermos o processo da filmagem com a história que o filme quer contar, que é uma história da violência e da força. Quando dois sócios encomendam a morte do terceiro através de um assassino de aluguel, isso se vira contra eles quando o assassino começa a tocar o terror na empresa deles. E quem é que vai falar alguma coisa para alguém que não pensa duas vezes em tirar uma vida a mais do mundo?
+Isso torna o título "O Invasor" de uma ambiguidade admirável se compreendermos o processo da filmagem com a história que o filme quer contar, que é uma história da violência e da força. Quando dois sócios encomendam a morte do terceiro através de um assassino de aluguel, isso se vira contra eles quando o assassino toca o terror na empresa. E quem é que vai falar alguma coisa para alguém que não pensa duas vezes em tirar uma vida a mais do mundo?
 
 Além do desafio das filmagens para o diretor há também o desafio redobrado para os atores. Marco Ricca, Alexandre Borges e, principalmente, Paulo Miklos, que faz o assassino, precisam lidar sua mise en scène com o corpo inteiro, e não apenas as expressões do pescoço pra cima, pois a câmera passeia pelo local e os personagens precisam estar de corpo e alma no projeto.
 

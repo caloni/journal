@@ -4,7 +4,6 @@ categories:
 date: '2019-08-23'
 link: https://www.imdb.com/title/tt7131622
 tags:
-- draft
 - movies
 title: Era Uma Vez em... Hollywood
 ---
@@ -27,7 +26,7 @@ No fundo os filmes dele acabam se revelando uma grande e aberta discussão sobre
 
 A história gira em torno do núcleo desses dois amigos, ou chame-os como quiser. Rick Dalton é o astro de uma série icônica de TV de faroeste dos anos 60, e Cliff Booth é seu dublê. Um vive em uma casa chique de Hollywood, bem no topo, o outro tem um carro velho e surrado que faz a comparação entre os dois sem nenhuma palavra ser dita. Suas histórias estão em decadência de maneiras distintas. Rick é um ator de um papel só, e Cliff vive como pode com as migalhas que recebe do amigo em declínio. Independente de como você interprete essa relação, nunca entenderemos de fato quem são essas pessoas, pois são recortes de algo maior.
 
-"Era Uma Vez" junta a esse núcleo eventos violentos que se ocorreram com pessoas reais no final da década de 60 envolvendo famosos e hippies porque você precisa dos ingredientes Tarantinescos. Dessa junção surgem as obrigatoriedades de sua marca, como títulos, referências, narrações em off com detalhes de horário de algo importante que irá acontecer, flashbacks e memórias, diálogos não-vitais, sequências "cinematográficas" e, claro, violência desmedida. Sem esse check-list o filme não estaria completo para os fãs.
+"Era Uma Vez" junta a esse núcleo eventos violentos que ocorreram com pessoas reais no final da década de 60 envolvendo famosos e hippies porque você precisa dos ingredientes tarantinescos. Dessa junção surgem as obrigatoriedades de sua marca, como títulos, referências, narrações em off com detalhes de horário de algo importante que irá acontecer, flashbacks e memórias, diálogos não-vitais, sequências "cinematográficas" e, claro, violência desmedida. Sem esse check-list o filme não estaria completo para os fãs.
 
 Ao mesmo tempo este é um trabalho que pode ser comparado com A Noite Americana (François Truffaut, 1973) e "Ave, César!" (Irmãos Coen, 2016) no que se diz sobre analisar a indústria do cinema, e é adorável acompanhar como o filme escolhe falar sobre o tema. Os cortes secos no meio de um diálogo que se estendeu mais do que devemos acompanhar mostram estar aí para o espectador perceber a linguagem; a trilha sonora vinda do carro que de repente é "desligada", pois era só o rádio, demonstram o poder diegético do som; os erros de fala de Rick nos faz finalmente perceber que estão filmando uma cena. Tudo isso é não apenas falar sobre cinema, mas nos fazer pensar em estrutura e linguagem. Não é uma aula profunda nem rasa, mas uma análise que fica no meio, entre a arte e a técnica.
 

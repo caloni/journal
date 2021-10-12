@@ -4,7 +4,6 @@ categories:
 date: '2019-08-19'
 link: https://www.imdb.com/title/tt0074360
 tags:
-- draft
 - movies
 title: Cria Corvos
 ---
