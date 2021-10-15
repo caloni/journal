@@ -6,7 +6,7 @@ tags:
 - draft
 - movies
 -cinemaqui
-title: Armugan
+title: 'Armugan'
 ---
 
 "Ninguém morre sozinho" é uma frase que contraria o conhecimento comum que diz justamente o contrário: todo mundo morre sozinho. Assim começa esse filme do diretor espanhol Jo Sol, que cria uma figura mitológica contemporânea responsável por ajudar os que respiram pelos últimos minutos a passar dessa pra melhor.
