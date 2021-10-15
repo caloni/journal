@@ -5,7 +5,6 @@ date: '2019-08-31'
 link: https://www.imdb.com/title/tt8569390
 tags:
 - cinemaqui
-- draft
 - movies
 title: Adeus à Noite
 ---
@@ -14,11 +13,11 @@ Catherine Deneuve está fazendo cada vez mais papéis em que sua idade e sua per
 
 Isso porque a história é sobre um fenômeno recente em nossa geração, e por isso está totalmente deslocada de sua realidade. Tem início com jovens entediados com a vida de primeiro mundo e a esperança de algo mais significativo na promessa fácil do Estado islâmico e sua além-vida pela religião. Lavagem cerebral, basicamente.
 
-Não é muito difícil fazer isso com as mentes fracas e influenciáveis de hoje em dia. Sem o apoio de uma família funcional perdem-se as bases de uma sociedade saudável. Deneuve faz aqui Muriel, a avó de Alex, um rapaz que é órfão de mãe e cujo pai o abandonou para criar outra família. Sua namorada, Lila, também é órfã, e foi adotada por um motivo egoísta: servir de companhia ao seu responsável na velhice, o sócio de Muriel eu seu negócio para turistas. Note que é nesse corte entre as gerações, dos "avós" direto para os "netos", que se estabelece o drama no filme.
+Não é muito difícil fazer isso com as mentes fracas e influenciáveis de hoje em dia. Sem o apoio de uma família funcional perdem-se as bases de uma sociedade saudável. Deneuve faz aqui Muriel, a avó de Alex, um rapaz que é órfão de mãe e cujo pai o abandonou para criar outra família. Sua namorada, Lila, também é órfã, e foi adotada por um motivo egoísta: servir de companhia ao seu responsável na velhice, o sócio de Muriel em seu negócio para turistas. Note que é nesse corte entre as gerações, dos "avós" direto para os "netos", que se estabelece o drama no filme.
 
 Alex quase não visita a avó, mas dessa vez, vários meses depois, ele chega muçulmano, fazendo sua reza diária e se mantendo distante deste mundo. A lógica da narrativa parte da observação de Muriel do comportamento desses jovens, que acreditam no paraíso pós-morte com todas as forças através da abnegação, e portanto o aqui e agora não valem de nada. Isso soa estranho também para a maioria de nós, espectadores ocidentais não muito religiosos ou com uma religião mais light.
 
-Esse comportamento, por outro lado, é criticado no filme de uma maneira muito engajada, pois coloca a tecnologia como o verdadeiro "recrutador" desses jovens. Eles não vão à mesquita como um muçulmano tradicional, mas aprendem sobre a religião na internet. O grupo ao qual pertencem não está fisicamente próximo, mas está interconectado a todo momento pelos seus celulares. E se não há sinal de antena é o fim do mundo para eles.
+Esse comportamento, por outro lado, é criticado no filme de uma maneira muito engajada, pois coloca a tecnologia como o verdadeiro "recrutador" desses jovens. Eles não vão à mesquita como um muçulmano tradicional, mas aprendem sobre a religião na internet. O grupo ao qual pertencem não está fisicamente próximo, mas está conectado a todo momento pelos seus celulares. E se não há sinal de antena é o fim do mundo para eles.
 
 O filme nos introduz essa mudança entre as gerações começando com um eclipse. Muriel não liga de observá-lo a olho nu, correndo o risco de ficar com problemas na visão. Já Lila assistiu ao evento pela televisão. Enquanto para os mais velhos o dia se torna noite em um eclipse, para os jovens não existe noite, o período de repouso. A internet conecta a todos o tempo todo, 24 horas.
 
