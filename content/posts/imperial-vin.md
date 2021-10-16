@@ -4,7 +4,7 @@ categories:
 date: '2021-09-28T21:17:15-03:00'
 tags:
 - draft
-- wines
+- wine
 title: Imperial Vin
 ---
 
