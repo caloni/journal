@@ -4,7 +4,6 @@ categories:
 date: '2019-09-02'
 link: https://www.imdb.com/title/tt0290823
 tags:
-- draft
 - movies
 title: O Voto é Secreto
 ---
@@ -17,6 +16,6 @@ Essa agente é mulher, o que gera estranheza do guarda que a deve acompanhar, ma
 
 Então ambos saem de carro à caça de eleitores. Ela fala todas as obviedades sobre o poder do voto. Ela tenta vender o voto como políticos vendem promessa de campanha, como se ao escrever dois nomes em um pedaço de papel fosse mudar a vida de todos em volta. E pra melhor, claro. Sempre pra melhor.
 
-A farsa se torna clara conforme nenhum dos supostos coadjuvantes não gera qualquer empatia do espectador e quando nos momentos finais até o guarda faz um questionamento desses de universidade pública (por que não há eleições três ou quatro vezes ao ano, em vez de quatro em quatro anos?), geralmente a pergunta que pessoas ingênuas e estudantes de universidade pública fazem.
+A farsa se torna clara conforme nenhum dos supostos coadjuvantes ganha a empatia do espectador, e quando nos momentos finais até o guarda faz um questionamento desses de universidade pública (por que não há eleições três ou quatro vezes ao ano, em vez de quatro em quatro anos?), geralmente a pergunta que pessoas ingênuas e estudantes de universidade pública fazem.
 
 Sem a mínima condição de sustentar alguma reflexão de fato, o diretor Babak Payami ainda demora para cortar algumas cenas em que ele imagina o espectador pensando no que acabou de ver. Afinal, pensar sobre o voto faz as pessoas discutirem ideias, não? Não realmente. Voto é uma variante desse mesmo mecanismo que fez lavagem cerebral nessa menina. É um filme triste, que se alonga e não entrega nem essa reflexão.
