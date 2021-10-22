@@ -5,7 +5,6 @@ date: '2019-10-12'
 link: https://www.imdb.com/title/tt10074454
 tags:
 - cinemaqui
-- draft
 - movies
 title: Mente Perversa
 ---
@@ -14,7 +13,7 @@ Mente Perversa pode causar extremo desconforto a mentes mais sensíveis, mas é 
 
 Esse julgamento ético e moral poderia ser dado a homossexuais antigamente (ou em alguns países ainda hoje) e serial killers em qualquer lugar do mundo. Porém, existe um grupo de pessoas em que suas ações não dependem apenas da conivência dos participantes, nem são tão brutais quanto assassinar uma pessoa: os pedófilos.
 
-Markus (Max Riemelt) é um deles; arquiteto bonitão, vem tentando viver sem fazer mal a nenhuma criança. Ele tira e revela fotos de garotos de sua TV e da piscina, e se masturba compulsivamente, além de usar o boxe como escape. Recusa investidas de qualquer mulher que queira se aproximar, além de evitar se socializar com conhecidos por medo das situações que podem envolver perigos para seu comportamento. Portanto ele é recluso e tudo estaria bem se ele pudesse manter assim, mas as circunstâncias não estão a favor do auto-controle de Markus depois que uma mãe e seu filho Arthur vem morar no apartamento do lado.
+Markus (Max Riemelt) é um deles; arquiteto bonitão, vem tentando viver sem fazer mal a nenhuma criança. Ele tira e revela fotos de garotos de sua TV e da piscina, e se masturba compulsivamente, além de usar o boxe como escape. Recusa investidas de qualquer mulher que queira se aproximar, além de evitar se socializar com conhecidos por medo das situações que podem envolver perigos para seu comportamento. Portanto ele é recluso e tudo estaria bem se ele pudesse manter assim, mas as circunstâncias não estão a favor do auto-controle de Markus depois que uma mãe e seu filho Arthur vêm morar no apartamento do lado.
 
 "Mente Perversa" foi escrito e dirigido por Savas Cevik conseguindo abordar praticamente qualquer dúvida que teríamos sobre se seu protagonista não poderia resolver seu problema de alguma forma sem machucar crianças. Indo além, ele torna óbvio que o próprio Markus está ciente do que pode acontecer se um dia perder o controle e não desejaria em nenhum momento ser quem ele é. Acompanhamos sua escalada em direção ao inevitável abuso infantil de maneira intensa, mas é quando ele se encontra com um psiquiatra que o filme assume uma forma muito mais densa e depressiva.
 

@@ -3,8 +3,8 @@ categories:
 - blog
 date: '2019-09-22'
 tags:
-- draft
 - lists
+- movies
 title: Roger Ebert Great Movies
 ---
 

@@ -4,6 +4,7 @@ categories:
 date: '2019-10-07'
 tags:
 - lists
+- movies
 title: Seleção de Filmes da 43a MostraSP
 ---
 

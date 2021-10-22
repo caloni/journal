@@ -4,7 +4,6 @@ categories:
 date: '2019-09-12'
 link: https://www.imdb.com/title/tt0401383
 tags:
-- draft
 - movies
 title: O Escafandro e a Borboleta
 ---

@@ -4,7 +4,6 @@ categories:
 date: '2019-09-17'
 link: https://www.imdb.com/title/tt9252508
 tags:
-- draft
 - movies
 title: Crush à Altura
 ---

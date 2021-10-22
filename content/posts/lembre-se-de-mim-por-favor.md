@@ -5,7 +5,6 @@ date: '2019-10-05'
 link: https://www.imdb.com/title/tt9608078
 tags:
 - cinemaqui
-- draft
 - movies
 title: Lembre-se de Mim, Por Favor
 ---
@@ -16,7 +15,7 @@ Membro da quinta geração de diretoras mulheres da China, Xiaolian Peng manteve
 
 "Lembre-se de Mim, Por Favor" acaba sendo uma espécie de antologia do cinema chinês que Peng participou. O filme evoca dois personagens populares para os cinéfilos: o diretor que não consegue parar de filmar e sua atriz, que não consegue parar de incentivá-lo. Juntos eles passarão por dificuldades morando em uma casa prestes a ser demolida, representando as mudanças aceleradas da economia chinesa e a crescente e frenética transformação dos horizontes das grandes cidades.
 
-A antologia se constrói a partir do personagem do diretor. Documentarista por vocação, o personagem interpretado por Yiping Jia resgata a história do cinema chinês através de depoimentos dados por verdadeiros cineastas da época. Xiaolian Peng está interessada em contar uma história de elementos clichê subvertendo-os no processo, e o faz criando uma estética ainda crua, mas fascinante justamente por causa disso. Truques como refletir o passado em um espelho ou criar movimento através de uma sequência de selfies não são apenas elementos técnicos quando estão em um filme sobre a história do cinema.
+A antologia se constrói a partir do personagem do diretor. Documentarista por vocação, o personagem interpretado por Yiping Jia resgata a história do cinema chinês através de depoimentos dados por verdadeiros cineastas da época. Xiaolian Peng está interessada em contar uma história de elementos clichês, subvertendo-os no processo, e o faz criando uma estética ainda crua, mas fascinante justamente por causa disso. Truques como refletir o passado em um espelho ou criar movimento através de uma sequência de selfies não são apenas elementos técnicos quando estão em um filme sobre a história do cinema.
 
 Enquanto isso a atriz principal, a belíssima e cômica Wenjuan Feng, faz o que toda mulher acaba fazendo nos bastidores: ajudar o homem a se mexer. Ela protagoniza as cenas mais dinâmicas, representa o coração do filme e o espírito libertador das amarras da decadência. Enigmática em seus objetivos, a personagem de Feng está pronta para partir em um épico, como a cena da escada comprova, mas lhe falta substância para atuar.
 

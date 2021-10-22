@@ -4,7 +4,6 @@ categories:
 date: '2019-09-28'
 tags:
 - cinemaqui
-- draft
 - movies
 title: 'Frans Krajcberg: Manifesto'
 ---
@@ -23,6 +22,6 @@ O documentário que tinha a ambição inicial de falar também do movimento art�
 
 Porém, o filme corre o sério risco de parecer chato para a maioria das pessoas que vivem nas cidades. Desconectados de nós mesmos, escondidos nessa selva de pedra caótica e impessoal, pode ser difícil enxergar a essência do que está sendo dito, sobre a elevação da consciência através na natureza. E não é tarefa fácil para o filme fazer isso.
 
-No entanto, uma vez que você abra sua mente o mínimo possível e deixe as imagens captadas e montadas pela diretora falarem mais alto, você estará dando um passo não apenas em direção a compreender quem foi Frans e seu movimento, mas também a compreensão de si mesmo. É que na correria do dia-a-dia nos esquecemos de nós mesmos, e nem todos vivem na floresta, podendo se nutrir da essência de quem somos, da beleza oculta na água, nas plantas, nos animais e no por do sol.
+No entanto, uma vez que você abra sua mente o mínimo possível e deixe as imagens captadas e montadas pela diretora falarem mais alto, você estará dando um passo não apenas em direção a compreender quem foi Frans e seu movimento, mas também a compreensão de si mesmo. É que na correria do dia-a-dia nos esquecemos de nós mesmos, e nem todos vivem na floresta, podendo se nutrir da essência de quem somos, da beleza oculta na água, nas plantas, nos animais e no pôr do sol.
 
 Este é um filme difícil para a maioria, mas que recompensa no final. Você pode sair mais leve da sala de cinema. E quem sabe disposto a entrar nessa luta e fazer algo pelo meio ambiente. Pelo nosso ambiente.

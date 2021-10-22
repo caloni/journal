@@ -5,7 +5,6 @@ date: '2019-10-15'
 link: https://www.imdb.com/title/tt7844518
 tags:
 - cinemaqui
-- draft
 - movies
 title: 'Bellingcat: A Verdade Em Um Mundo Pós-Verdade'
 ---
@@ -14,7 +13,7 @@ Bellingcat é um documentário sobre esse grupo de jornalistas investigativos am
 
 O objetivo do filme é demonstrar como a tecnologia que nos conecta há mais de 20 anos tem mudado nossa percepção da verdade. Se antes não tínhamos dúvidas do publicado na mídia tradicional, hoje ela ganha um concorrente à altura com a união indireta entre pessoas que estão no momento da notícia ou que possuem informações privilegiadas, que compartilham essa informação online, e pessoas que possuem a habilidade e o interesse em juntar essas informações em um caso muito mais cheio de evidências concretas do que o modus operandi antigo de confiar nas autoridades.
 
-A introdução do filme nos prepara para esta nova realidade com uma citação de Foucault que relaciona poder e verdade, e conclui com pertinente e ambígua frase de Obama durante os acontecimentos da queda do avião: "let the truth out", que no inglês pode significar tanto trazer a verdade à tona quanto manter a verdade fora da equação.
+A introdução do filme nos prepara para esta nova realidade com uma citação de Foucault que relaciona poder e verdade, e conclui com pertencimento a ambígua frase de Obama durante os acontecimentos da queda do avião: "let the truth out", que no inglês pode significar tanto trazer a verdade à tona quanto manter a verdade fora da equação.
 
 O núcleo do filme, que caracteriza seu início, desenvolvimento e fim é a investigação sobre a queda do avião da Malasya Airlines, mas esse é um gancho que permite ao diretor, roteirista e cinegrafista Hans Pool mostrar ao espectador de uma forma muito didática como trabalhar os dados online disponíveis a qualquer pessoa com acesso à internet.
 
