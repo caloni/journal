@@ -5,14 +5,13 @@ date: '2019-10-17'
 link: https://www.imdb.com/title/tt9514970
 tags:
 - cinemaqui
-- draft
 - movies
 title: Filhos da Dinamarca
 ---
 
 Filhos da Dinamarca junta o tema óbvio do momento político atual de extremos com uma pesada dose de drama shakespeariano, e para isso nada como estar na Dinamarca. E há algo de podre nesse reino.
 
-Um tanto fora do cenário europeu de refugiados, onde Alemanha, França e Suécia são os países mais noticiados, o diretor e roteirista Ulaa Salim abraça a causa com uma história, assim como o brasileiro Bacurau, em um "futuro próximo" (mas nesse caso não tão distópico), quando partidos nacionalistas estão próximos de chegar ao poder. Já tendo fechadas as fronteiras, o próximo passo é expulsar os imigrantes recentes, e junto disso o país vira uma panela de pressão cozinha extremistas de ambos os lados.
+Um tanto fora do cenário europeu de refugiados, onde Alemanha, França e Suécia são os países mais noticiados, o diretor e roteirista Ulaa Salim abraça a causa com uma história, assim como o brasileiro Bacurau, em um "futuro próximo" (mas nesse caso não tão distópico), quando partidos nacionalistas estão próximos de chegar ao poder. Já tendo fechadas as fronteiras, o próximo passo é expulsar os imigrantes recentes, e junto disso o país vira uma panela de pressão que cozinha extremistas de ambos os lados.
 
 Delineando sua história primeiro do lado de extremistas muçulmanos que se unem em um movimento político da maneira que podem, planejando assassinar o líder político do partido que representa uma versão neonazista no cenário dinamarquês, o filme muda sua visão de maneira inteligente a partir da metade e de uma reviravolta esperada pela duração do filme, chegando a alterar o protagonista de maneira orgânica.
 

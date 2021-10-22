@@ -5,9 +5,8 @@ date: '2019-10-22'
 link: https://www.imdb.com/title/tt9016026
 tags:
 - cinemaqui
-- draft
 - movies
-title: Fotográfo De Guerra
+title: Fotógrafo De Guerra
 ---
 
 Fotógrafo de Guerra é um filme quase cru, sem substância, cujo titulo já anuncia sem rodeios seu conteúdo, que pode ser chocante para a maioria das pessoas, mas como espectadores nos acostumamos com o que vemos.

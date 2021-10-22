@@ -5,7 +5,6 @@ date: '2019-10-19'
 link: https://www.imdb.com/title/tt6390668
 tags:
 - cinemaqui
-- draft
 - movies
 title: A Vida Invisível
 ---
@@ -20,7 +19,7 @@ Mas apenas impressões visuais não seriam suficiente para nos transportar. A cr
 
 É por isso que sabemos que o pai delas, um português, além de seguir o estereótipo e ter uma padaria é rígido demais com as meninas. Mais do que rígido, na verdade. São tempos (os últimos) em que os homens de fato controlam por absoluto o destino da mulher. Mas os homens do filme não são maquiavélicos ou vilões por escolha própria. São meio bobões, até, alheios à existência de um ser humano por trás de sua esposa ou filha. Tão acostumados que estão aos costumes chegam a ser patéticos seus comportamentos. Eles mal sustentam um personagem.
 
-E por isso a escalação de Gregório Duvidier, comediante do canal no YouTube Porta dos Fundos e palpitador de assuntos que não conhece em outros lugares, é a escola perfeita para Antenor, marido de Eurídice. Por que ela o escolheu como esposo? Nem esse detalhe merecemos saber, mas podemos inferir, pois não que ela tivesse um leque apetitoso para selecionar. O mais provável é que ele fora a opção que parecia mais inofensiva para ela, e de fato é. Duvivier aqui reproduz uma persona comum em seus papéis no Porta: um homem sensível (leia: mimado) egocêntrico que nunca vai crescer.
+E por isso a escalação de Gregório Duvidier, comediante do canal no YouTube Porta dos Fundos e palpitador de assuntos que não conhece em outros lugares, é a escolha perfeita para Antenor, marido de Eurídice. Por que ela o escolheu como esposo? Nem esse detalhe merecemos saber, mas podemos inferir, pois não que ela tivesse um leque apetitoso para selecionar. O mais provável é que ele fora a opção que parecia mais inofensiva para ela, e de fato é. Duvivier aqui reproduz uma persona comum em seus papéis no Porta: um homem sensível (leia: mimado) egocêntrico que nunca vai crescer.
 
 Já Eurídice e Guida, interpretadas respectivamente por Carol Duarte e Julia Stockler, exibem uma afinidade com seus papéis que podemos usar a expressão "viver a personagem" de forma literal ao nos referirmos a essas irmãs. Não que elas possuam características que as individualizem, pois são meros símbolos do que era ser mulher na época. No entanto, elas são questionadoras do status quo. Principalmente Guida, a mais velha, à frente do seu tempo e representa tão bem essa transição de costumes, que foram se perdendo na geração de imigrantes para dar lugar a pequenos lampejos de emancipação que a tornam uma protagonista forte, inquisidora, e perfeitamente plausível. Ela é tão boa que nos faz desejar que ela existisse, mas tão dolorosamente real que ficamos felizes por não.
 

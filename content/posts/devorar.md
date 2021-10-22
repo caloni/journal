@@ -5,7 +5,6 @@ date: '2019-10-19'
 link: https://www.imdb.com/title/tt8372298
 tags:
 - cinemaqui
-- draft
 - movies
 title: Devorar
 ---
@@ -18,6 +17,6 @@ Bom, primeiro pela nossa atual pré-disposição em desconfiar de executivos, ri
 
 Esta é uma família que controla por completo a vida da estranha a ponto dela ser um mero detalhe em suas vidas. Disposta como uma decoração de enfeite necessária para a vida do seu bem-sucedido marido, as pessoas sequer a esperam terminar de falar, ou simplesmente não prestam atenção. E quando ela de repente começa a engolir objetos perigosos, como uma bola de gude, um pino e uma pilha, qual a solução dessa "família"? Mais controle, é claro!
 
-Mas mesmo partindo dessa premissa inusitada não conseguimos achar a ideia de engolir objetos estranha demais: pelo contrário, ela parece fascinante. Grande parte dessa proeza de mudança de expectativas é sua protagonista, interpretada de maneira completamente entregue por Haley Bennett. Ela não imita uma caricatura da esposa americana, pios isso iria nos jogar para fora do filme, mas sabemos que ela sofre por dentro. Por quê? Porque diferente dos outros em sua volta, ela não é uma natural. Ela se esforça para ser o ideal para eles. E só nós vemos os micromomentos em que ela se esforça.
+Mas mesmo partindo dessa premissa inusitada não conseguimos achar a ideia de engolir objetos estranha demais: pelo contrário, ela parece fascinante. Grande parte dessa proeza de mudança de expectativas é sua protagonista, interpretada de maneira completamente entregue por Haley Bennett. Ela não imita uma caricatura da esposa americana, pois isso iria nos jogar para fora do filme, mas sabemos que ela sofre por dentro. Por quê? Porque diferente dos outros em sua volta, ela não é uma natural. Ela se esforça para ser o ideal para eles. E só nós vemos os micromomentos em que ela se esforça.
 
-Devorar é um thriller psicológico que vai se transformando em um drama eficiente conforme sua inusitada premissa vai se transformando em algo mais familiar. O roteiro, também de Mirabella-Davis, não escolhe partir para expandir o tema engolir coisas literalmente, preferindo usá-lo como uma metáfora de como na vida às vezes precisamos passar por experiências desagradáveis, processá-las e seguir em frente. Se chama amadurecer. Que forma fascinante de oxigenar velhos temas.
+Devorar é um thriller psicológico e um drama eficiente conforme sua inusitada premissa vai se transformando em algo mais familiar. O roteiro, também de Mirabella-Davis, não escolhe partir para expandir o tema engolir coisas literalmente, preferindo usá-lo como uma metáfora de como na vida às vezes precisamos passar por experiências desagradáveis, processá-las e seguir em frente. Se chama amadurecer. Que forma fascinante de oxigenar velhos temas.

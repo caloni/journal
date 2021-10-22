@@ -5,7 +5,6 @@ date: '2019-10-21'
 link: https://www.imdb.com/title/tt9100090
 tags:
 - cinemaqui
-- draft
 - movies
 title: E Em Cada Lentilha Um Deus
 ---
@@ -16,6 +15,6 @@ Este acaba virando um passeio gastronômico próximo da experiência de um epis�
 
 Luis busca, de acordo com ele mesmo, uma certa ordem no caos, seja em ficção ou documentário, e sua introdução faz o duplo papel de filme intimista e um pedido de desculpas antecipado por sua história não ir pra lugar algum. Talvez aguardando por uma estrela Michelin para um final derradeiro que nunca acontece.
 
-Mas não ter ordem não é desculpa para este não ser uma experiência no mínimo agradável. Eu falo de maneira parcial porque gosto de degustar bebidas e alimentos que têm uma história pra contar, e isso é exatamente o que o diretor Miguel Ángel faz, acompanhando Luis em sua jornada nos mostrando não apenas a história de sua família nem apenas a origem local dos ingredientes principais dos pratos, mas a origem dos próprios artefatos onde o alimento irá ser servido.
+Mas não ter ordem não é desculpa para esta não ser uma experiência no mínimo agradável. Eu falo de maneira parcial porque gosto de degustar bebidas e alimentos que têm uma história pra contar, e isso é exatamente o que o diretor Miguel Ángel faz, acompanhando Luis em sua jornada nos mostrando não apenas a história de sua família nem apenas a origem local dos ingredientes principais dos pratos, mas a origem dos próprios artefatos onde o alimento irá ser servido.
 
 Inspirador nos momentos que o autor fala sobre passagem do tempo entre gerações e o que nos torna quem somos, constrangedor quando ouvimos sua opinião não muito embasada sobre a sociedade atual e para onde ela deve caminhar, "E Em Cada Lentilha" poderia ser um desastre completo por não ter começo, meio e fim, mas se transforma em uma série de experiências documentais em uma ficção que não é forçada, mas simplesmente surge. Assim como os melhores pratos.
