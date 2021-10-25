@@ -4,7 +4,6 @@ categories:
 date: '2019-10-23'
 tags:
 - cinemaqui
-- draft
 - movies
 title: Partida
 ---

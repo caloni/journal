@@ -5,7 +5,6 @@ date: '2019-10-26'
 link: https://www.imdb.com/title/tt10384744
 tags:
 - cinemaqui
-- draft
 - movies
 title: A Odisseia dos Tontos
 ---
@@ -16,6 +15,6 @@ A primeira linha já assusta ou faz rir de nervoso, pois a Argentina é o país 
 
 Mas este não é um filme como A Grande Aposta, que quer ensinar ao espectador conceitos complexos de economia, pois ele se atenta apenas ao básico necessário para entendermos que aquela pobre gente foi enganada em um jogo que nunca poderiam ganhar. Porém, assim como o filme de Adam McKay, este também fala sobre crise moral, e de onde emergem os heróis, no caso os tolos, que têm todas suas economias confiscadas e irão à forra pegar o que lhes é de direito.
 
-Baseado no livro Eduardo Sacheri, "La Noche de la Usina", o filme dirigido e escrito por Sebastián Borensztein começa com o clímax do final para em retrospecto contar sua história no estilo filme de roubo, onde cada passo será explicado e cada obstáculo ultrapassado. Ele é didático, pois lida com problemas da vida real, onde abrir o cofre não é tão difícil quanto impedir que seu dono descubra.
+Baseado no livro de Eduardo Sacheri, "La Noche de la Usina", o filme dirigido e escrito por Sebastián Borensztein começa com o clímax do final para em retrospecto contar sua história no estilo filme de roubo, onde cada passo será explicado e cada obstáculo ultrapassado. Ele é didático, pois lida com problemas da vida real, onde abrir o cofre não é tão difícil quanto impedir que seu dono descubra.
 
 O pano de fundo justiceiro usado para justificar as ações dos seus heróis não poderia ser mais enfatizado. A gangue montada é de pessoas simples, pacíficas e sem intenções de tornar aquilo uma carreira. Há uma perda do personagem de Darín, o que entrega um certo peso dramático ao personagem, mas que nunca é explorado direito, apenas contando como agravante. O vilão do filme, um advogado, além de ter uma profissão tradicionalmente odiada por todos, ainda é ganancioso, materialista, mau-caráter e explosivo. Não há nuances de nenhum dos lados. Esta é a vingança dos argentinos da classe-média, explorados sempre que possível, dos párias que exploram o sistema econômico de seu país.

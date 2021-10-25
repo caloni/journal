@@ -5,7 +5,6 @@ date: '2019-10-23'
 link: https://www.imdb.com/title/tt8236336
 tags:
 - cinemaqui
-- draft
 - movies
 title: O Relatório
 ---

@@ -5,7 +5,6 @@ date: '2019-10-23'
 link: https://www.imdb.com/title/tt8054608
 tags:
 - cinemaqui
-- draft
 - movies
 title: Deus é Mulher e Seu Nome é Petúnia
 ---
@@ -14,7 +13,7 @@ title: Deus é Mulher e Seu Nome é Petúnia
 
 Petúnia aos 32 anos se formou em história e nunca trabalhou. Com problemas de peso e baixa auto-estima, muito provavelmente infringidos pela própria mãe, o único gostinho de vida dessa mulher aparece quando ela consegue capturar uma cruz sagrada lançada tradicionalmente ao rio para que homens a peguem. Ao vencedor deste ritual diz-se que tem um ano de sorte, e agora Petúnia será criticada, xingada e escrutinada por homens radicais, o sacerdote da igreja e o comandante da polícia.
 
-O filme da diretora da Iugoslávia Teona Strugar e escrita por ela e Elma Tataragic conseguem estabelecer uma maravilhosa ideia em seu início, que permite a discussão de até quando tradições religiosas ainda são pertinentes e o quanto elas devem influir em um Estado secular (resposta sensata: nada). Toda a fúria e o alvoroço causado pelo incidente é o estopim perfeito para esses temas, principalmente se repararmos que apenas uma parcela ínfima da população realmente se preocupa com essas ninharias religiosas.
+O filme da diretora da Iugoslávia Teona Strugar, escrita por ela e por Elma Tataragic, consegue estabelecer uma maravilhosa ideia em seu início, que permite a discussão de até quando tradições religiosas ainda são pertinentes e o quanto elas devem influir em um Estado secular (resposta sensata: nada). Toda a fúria e o alvoroço causado pelo incidente é o estopim perfeito para esses temas, principalmente se repararmos que apenas uma parcela ínfima da população realmente se preocupa com essas ninharias religiosas.
 
 Zorica Nusheva faz Petúnia com uma energia presente em cada cena. Seu olhar muitas vezes já diz tudo que é necessário, e na maioria delas é melhor seu olhar do que seus diálogos. Ela é a alma de um filme que merece personagens mais trabalhados.
 
