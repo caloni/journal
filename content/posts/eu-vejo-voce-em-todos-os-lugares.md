@@ -9,7 +9,7 @@ tags:
 title: Eu Vejo Você em Todos os Lugares
 ---
 
-O quão intensos são os diálogos das situações vividas pelos personagens em Eu Vejo Você em Todos os Lugares. Não são situações comuns, e por isso nos lembrariam a todo momento este ser um filme, mas a natureza naturalista das filmagens do diretor húngaro Bence Fliegauf, nos colocando em aproximação constante com essas pessoas é de uma intimidade tão acachapante que nos rendemos ao filme e embarcamos na angústia desses seres humanos vivendo no seu limite, ainda que todas as conversas se desenvolvam dentro do lar.
+O quão intensos são os diálogos das situações vividas pelos personagens em Eu Vejo Você em Todos os Lugares. Não são situações comuns, e por isso nos lembrariam a todo momento este ser um filme, mas a natureza naturalista das filmagens do diretor húngaro Bence Fliegauf, nos colocando em aproximação constante com essas pessoas, é de uma intimidade tão acachapante que nos rendemos ao filme e embarcamos na angústia desses seres humanos vivendo no seu limite, ainda que todas as conversas se desenvolvam dentro do lar.
 
 Eu nem vou explorar os sete temas escolhidos pelo diretor/roteirista. Você precisa experimentar isso. Muitos lidam com a morte e torturas psicológicas, mas não há cenas fortes, apenas diálogos e atuações pra lá de inspiradas. É no não-exagero que o elenco se situa, e nos entrega um intrincado jogo psicológico, difícil de se desvencilhar. A todo momento estamos observando o momento. Há um cabo de força estendido e invisível entre os protagonistas das discussões, mas ele está tão tenso por causa dos temas abordados que fica difícil não senti-lo. Ele está quase partindo, mas a habilidade do roteirista Bence Fliegauf é mantê-lo íntegro até o fim. E tenso.
 
