@@ -5,7 +5,6 @@ date: '2019-11-06'
 link: https://www.imdb.com/title/tt8331988
 tags:
 - cinemaqui
-- draft
 - movies
 title: A Camareira
 ---

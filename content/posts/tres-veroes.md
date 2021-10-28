@@ -5,14 +5,13 @@ date: '2019-10-28'
 link: https://www.imdb.com/title/tt10785310
 tags:
 - cinemaqui
-- draft
 - movies
 title: Três Verões
 ---
 
-Regina Casé é um colírio de interpretação para os olhos. A maneira com que ela torna a caseira Madá uma representante da brasilidade pobre da periferia do Rio de Janeiro convivendo com figurões de uma família de ricaços é o suficiente para sustentar "Três Verões" sozinho, do começo ao fim.
+Regina Casé é um colírio de interpretação para os olhos. Ela torna a caseira Madá uma representante da brasilidade pobre da periferia do Rio de Janeiro convivendo com figurões de uma família de ricaços, e isso é o suficiente para sustentar "Três Verões" sozinha, do começo ao fim.
 
-Porém, além de Casé, a direção de Sandra Kogut de um roteiro escrito por ela e Iana Cossoy Paro é hábil em entender que ela possui uma atriz de peso muito díspare para se concentrar apenas na visão sócio-econômica do Brasil entre os anos de 2015 a 2018. A premissa básica é observarmos o que acontece com essa família de ricos e sua casa à beira-mar conforme o pai de família é acusado e preso por crimes contra o patrimônio público, mas a sacada de mestre é observarmos tudo isso sob os olhos da simples, não não ingênua, Madá.
+Porém, além de Casé, a direção de Sandra Kogut de um roteiro escrito por ela e Iana Cossoy Paro é hábil em entender que ela possui uma atriz de peso muito díspare para se concentrar apenas na visão sócio-econômica do Brasil entre os anos de 2015 a 2018. A premissa básica é observarmos o que acontece com essa família de ricos e sua casa à beira-mar conforme o pai de família é acusado e preso por crimes contra o patrimônio público, mas a sacada de mestre é observarmos tudo isso sob os olhos da simples, não tão ingênua, Madá.
 
 Madalena é uma cria direta da personagem Val que Casé também interpretou em "Que Horas Ela Volta?", um filme que lida com outras questões sob o ponto de vista da empregada doméstica de uma família de ricos de São Paulo. Curiosamente, o filme e a história são de 2015, e é como se Três Verões acompanhasse essa progressão nos anos seguintes do que é fazer parte da vida dos ricos neste novo período. Porém, Val é totalmente o oposto de Madá. Ambas são simples, mas Val é ingênua de fato, emigrante do Nordeste e grata eternamente aos patrões, mesmo que eles se desfaçam dela depois de uma vida de convívio ao surgir a menor das dificuldades.
 

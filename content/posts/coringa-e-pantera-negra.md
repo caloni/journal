@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2019-11-16'
 tags:
-- draft
 - movies
 title: Por que esses Coringa e Pantera se tornaram fenômenos de bilheteria?
 ---
@@ -24,6 +23,6 @@ Mas voltando ao Coringa, é óbvio que Gothan City/Nova York da década de 70 e 
 
 Realidade não é o forte na mente de Todd Phillips, a quem foi dada liberdade criativa o suficiente para que o universo do seu filme e o seu "herói" tivessem os desvios morais tão conhecidos dos fãs do diretor de Se Beber Não Case e Um Parto de Viagem. Esse desvio moral pode não harmonizar muito bem com o resto dos filmes citados neste texto que elencam o top 20 de maiores vendas, mas é um escapismo de qualquer forma. Todo cidadão de bem já se cansou alguma vez de ouvir as reportagens do Datena e quis dar um tiro na cabeça do sujeito responsável por trazer sempre desgraças para seu lar. E eventualmente também já se sentiu na necessidade de questionar o que ocorre com o mundo onde tantos pobres engraçados pagam o pato e humoristas medíocres, de Jô Soares a Danilo Gentili, ganham milhões por fazer piadas de tio em rede nacional. E pensou em dar um tiro na cabeça de ambos, também, claro.
 
-De qualquer forma, ninguém se identifica com o Coringa, pois isso é simplista demais até para a grande massa. O que todos compartilham é essa incompreensão do mundo em que vivemos, um mundo que acelerou demais sua tecnologia, onde as crianças que já nasceram com internet são versão diferentes demais da geração anterior. Esse gap crescente entre gerações causa um desconforto e uma alienação com a vida real que as opressora mentes de primatas com quem somos obrigados a fazer as pazes precisamos de um escap... ismo.
+De qualquer forma, ninguém se identifica com o Coringa, pois isso é simplista demais até para a grande massa. O que todos compartilham é essa incompreensão do mundo em que vivemos, um mundo que acelerou demais sua tecnologia, onde as crianças que já nasceram com internet são versão diferentes demais da geração anterior. Esse gap crescente entre gerações causa um desconforto e uma alienação com a vida real que as opressoras mentes de primatas com quem somos obrigados a fazer as pazes precisamos de um escapismo.
 
 Se você quer chamar isso de identificação ou representatividade, vá em frente. Reciclar nomes para significarem o que bem quisermos também é um traço do novo século. Portanto, se empodere, e tente ser feliz.

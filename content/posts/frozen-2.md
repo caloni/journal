@@ -5,7 +5,6 @@ date: '2019-11-26'
 link: https://www.imdb.com/title/tt4520988
 tags:
 - cinemaqui
-- draft
 - movies
 title: Frozen 2
 ---
@@ -18,7 +17,7 @@ Porém, toda essa beleza vai esvanecendo conforme ouvimos a primeira, a segunda 
 
 O que nos mantinha compenetrados na história do original de 2013, a sua força, residia na introdução poderosa da relação entre Elsa e Anna, que a move do começo ao fim, pois nos importamos com essas personagens assim que descobrimos que o poder de Elsa era visto como um problema em sua infância, e causava ainda mais problemas ao conviver com sua estabanada irmã. Ao tentar replicar os mesmos elementos de personalidade das duas sem inserir qualquer conflito minimamente complexo ou desafiador, a mesma equipe de roteiristas começa com um problema básico e intransponível na continuação: gerar o interesse no espectador através do perigo de algo que possa ser perdido, algo que deve ser arriscado. E nada neste longa chega perto de representar uma ameaça física real.
 
-Para suprir a carência de sentido surgem as piadas engraçadíssimas de Olaf, o boneco de neve mágico criada por Elsa no primeiro filme. Na versão brasileira foi usada a dublagem do comediante, ou seja, um não-dublador, Fabio Porchat, que inseria um sotaque estranho em sua criação, como se bonecos de neve tivessem um sotaque diferente por terem gelo na boca e uma cenoura como nariz. Nessa segunda aventura a voz vem mais natural, com menos daquela estranheza que Porchat tentou inserir. Agora há uma dicção mais profissional, afiada, mas ao mesmo tempo engraçada, que evita que pensemos por muito tempo quem está por trás dessa voz e nos concentremos mais na presença de espírito e sabedoria inusitados de um personagem tão ingênuo e eficiente.
+Para suprir a carência de sentido surgem as piadas engraçadíssimas de Olaf, o boneco de neve mágico criado por Elsa no primeiro filme. Na versão brasileira foi usada a dublagem do comediante, ou seja, um não-dublador, Fabio Porchat, que inseria um sotaque estranho em sua criação, como se bonecos de neve tivessem um sotaque diferente por terem gelo na boca e uma cenoura como nariz. Nessa segunda aventura a voz vem mais natural, com menos daquela estranheza que Porchat tentou inserir. Agora há uma dicção mais profissional, afiada, mas ao mesmo tempo engraçada, que evita que pensemos por muito tempo quem está por trás dessa voz e nos concentremos mais na presença de espírito e sabedoria inusitados de um personagem tão ingênuo e eficiente.
 
 Porém, ao se aproveitar demais do alívio cômico, o segundo longa, que já não contava com um conflito forte o suficiente para nos interessarmos por seus heróis, enfraquece mais ainda. As duas irmãs já estão com sua relação bem resolvida, e a insistência no clichê de uma estar preocupada com a segurança da outra acaba virando uma muleta em toda cena onde se espera que haja algum tipo de obstáculo na aventura criada para inserir Elsa, Anna, Olaf e outra dupla de alívio cômico, Kristoff e Hans, mas que vai se desfazendo de seus personagens conforme a aventura avança por mera conveniência.
 
