@@ -5,7 +5,6 @@ date: '2019-12-06'
 link: https://www.imdb.com/title/tt10199640
 tags:
 - cinemaqui
-- draft
 - movies
 title: Uma Mulher Alta
 ---
@@ -20,4 +19,4 @@ Viktoria Miroshnichenko vive Iya com ajuda da direção sensível de Kantemir Ba
 
 Personagens secundários como Andrey Bykov, que vive um cínico doutor do hospital onde ambas trabalham, e Konstantin Balakirev, que vive o namoradinho burguês Stepan, fecham o ciclo necessário para que haja uma conexão mínima com o mundo que elas vivem. O esforço do filme em nos manter o mais distante possível do que ocorre do lado de fora das quatro paredes é estonteante e reflete diretamente a visão da vida pós-guerra de Masha e Iya.
 
-Feito para acompanhar o ritmo irregular da vida de Iya e seus ataques de paralisia, a música de Evgueni Galperine é a única coisa no longa que irá chamar muito a atenção. Com um ritmo irregular e repetitivo, nos créditos finais é possível observar com mais cuidado, mas o cuidado de Galperine em dar o tom com que essa inusitada história se desenvolve é primordial para entendermos o ponto de vista de Iya, cuja vida é uma sucessão de catarses sem recompensa. Catarses essas que resume muito bem o último século da história russa, desde a revolução socialista.
+Feito para acompanhar o ritmo irregular da vida de Iya e seus ataques de paralisia, a música de Evgueni Galperine é a única coisa no longa que irá chamar muito a atenção. Com um ritmo irregular e repetitivo, nos créditos finais é possível observar com mais cuidado, mas o cuidado de Galperine em dar o tom com que essa inusitada história se desenvolve é primordial para entendermos o ponto de vista de Iya, cuja vida é uma sucessão de catarses sem recompensa. Catarses essas que resumem muito bem o último século da história russa, desde a revolução socialista.

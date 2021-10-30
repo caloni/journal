@@ -5,7 +5,6 @@ date: '2019-12-09'
 link: https://www.imdb.com/title/tt11310004
 tags:
 - cinemaqui
-- draft
 - movies
 title: A Primeira Tentação de Cristo
 ---

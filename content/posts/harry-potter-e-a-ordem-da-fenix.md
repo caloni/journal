@@ -1,10 +1,9 @@
 ---
 categories:
 - reviews
-date: '2019-12-29'
+date: '2019-12-27T18:24:00-03:00'
 link: https://www.imdb.com/title/tt0373889
 tags:
-- draft
 - movies
 title: Harry Potter e a Ordem da Fênix
 ---
