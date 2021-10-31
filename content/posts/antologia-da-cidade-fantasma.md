@@ -5,14 +5,13 @@ date: '2020-01-11'
 link: https://www.imdb.com/title/tt9068100
 tags:
 - cinemaqui
-- draft
 - movies
 title: Antologia da Cidade Fantasma
 ---
 
 Antologia da Cidade Fantasma é um terror psicológico que flerta com questões sociais sem conseguir desenvolver com sucesso nenhuma delas. Porém, a atmosfera opressiva que o clima de inverno exerce sobre essas pessoas é quase um personagem à parte, e isso vale a pena acompanhar.
 
-A fotografia escura, quase a apagar as casas e as pessoas que vivem em torno de toda aquela neve, as ventanias que correm pela estrada e pela planície deserta, os ambientes fechados com pouca luz. Tudo isso colabora para esse clima claustrofóbico que começa quando vemos toda a cidade reunida em uma casa para velar pela morte de um de seus habitantes mais jovens, Simon. Todos concordam que ele cometeu suicídio ao jogar seu carro em um muro. Concordam porque todos já pensaram em fazer o mesmo alguma vez em duas vidas.
+A fotografia escura, quase a apagar as casas e as pessoas que vivem em torno de toda aquela neve, as ventanias que correm pela estrada e pela planície deserta, os ambientes fechados com pouca luz. Tudo isso colabora para esse clima claustrofóbico que começa quando vemos toda a cidade reunida em uma casa para velar pela morte de um de seus habitantes mais jovens, Simon. Todos concordam que ele cometeu suicídio ao jogar seu carro em um muro. Concordam porque todos já pensaram em fazer o mesmo alguma vez em suas vidas.
 
 Este é um filme que cria um ambiente depressivo coletivo e o sustenta como tema principal. Há uma prefeita que adota seus cidadãos como uma mãe possessiva e ciumenta que evita ajuda externa. O isolamento no inverno vai se tornando menos geográfico e mais psicológico, e aos poucos alguns de seus habitantes vão sendo apresentados através da dinâmica do dia-a-dia.
 

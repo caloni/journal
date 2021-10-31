@@ -5,7 +5,6 @@ date: '2020-01-07'
 link: https://www.imdb.com/title/tt5774060
 tags:
 - cinemaqui
-- draft
 - movies
 title: Ameaça Profunda
 ---
@@ -22,6 +21,6 @@ Se há uma coisa que você irá notar durante o filme inteiro é que ele é muit
 
 Os efeitos visuais são bem feitos, e a arte em cima dos monstros não é nada criativa, mas bem executada. Porém, é difícil acreditar que um filme dessa escala gastou 80 milhões de dólares tão fácil, e está prestes a não recuperar nem metade dessa quantia. Além disso, por melhor que seja o visual, o diretor William Eubank não nos deixa ver muita coisa, pelos dois motivos consideráveis de estarmos no fundo do oceano e porque mostrar demais no terror pode causar o efeito contrário. Entretanto, há uma diferença entre ocultar para gerar medo e ser incapaz de conduzir cenas de tensão sem que a câmera trema tanto que não conseguimos ver nada exceto borrões.
 
-Nós sabemos que a maioria dos personagens irá morrer, cada uma de sua forma horrível concebida para o filme, mas essas pessoas estão tão alheias a tudo nesta luta pela sobrevivência que não sentimos a falta de ninguém. No final são seres humanos genéricos escolhidos pela diversidade étnica e de gênero, mas nunca intelectual. No final das contas todas elas se parecem na única dimensão que apresentam: querem sair vivas, embora estejam paralisadas de medo para conseguir.
+Nós sabemos que a maioria dos personagens irá morrer, cada um de sua forma horrível concebida para o filme, mas essas pessoas estão tão alheias a tudo nesta luta pela sobrevivência que não sentimos a falta de ninguém. No final são seres humanos genéricos escolhidos pela diversidade étnica e de gênero, mas nunca intelectual. No final das contas todas elas se parecem na única dimensão que apresentam: querem sair vivas, embora estejam paralisadas de medo para conseguir.
 
 A reviravolta final, envolvendo escolha de quais vidas salvar e monstros de um calibre maior, é de uma imbecilidade que se torna o momento climático em que você pensa se tudo não passa de uma piada. Mas a trilha sonora dramática está aí para nos fazer crer que não é, que tudo aquilo é para ser visto como trágico e arrebatador.
