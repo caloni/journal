@@ -4,14 +4,13 @@ categories:
 date: '2020-01-16'
 link: https://www.imdb.com/title/tt0226540
 tags:
-- draft
 - movies
 title: Sensual Demais
 ---
 
 Segundo filme da trilogia iniciada por Lovers, que é o quinto filme do Dogma 95, este filme do ator e diretor Jean-Marc Barr ainda possui as influências do movimento artístico iniciado por Lars von Trier de quando o ator participou do Dançando no Escuro: sem edições de fotografia e iluminação, cenários praticamente ou muito próximos do real, sons diegéticos, câmera na mão. O que o dogma não cobre é a parte boa: atores fingindo estarem em um filme amador, se divertindo loucamente com uma história estapafúrdia e divertindo o espectador, incerto se está vendo um soft porn caseiro ou um trabalho de apelo ao cinema íntimo e pessoal, longe das grandes avenidas dos estúdios de Hollywood.
 
-Apesar das técnicas pedestres, a história não perde seu ritmo, e os atores são todos conhecidos e fizeram vários filmes, embora este soe totalmente amador e digno de comparação com The Room, o novo clásico dos filmes ruins. No entanto, ele é coerente, apesar de inchado, mas seu inchaço e suposto amadorismo é o que torna ele adorável, impossível de não gostar, porque ele apresenta um protagonista cativante e um diretor despretensioso, apesar de ambos, ou o mesmo, empenhados. Várias cenas parecem mal feitas, mas cumprem o que um filme precisa para fluir. Isso o torna um ótimo filme ruim.
+Apesar das técnicas pedestres, a história não perde seu ritmo, e os atores são todos conhecidos e fizeram vários filmes, embora este soe totalmente amador e digno de comparação com The Room, o novo clásico dos filmes ruins. No entanto, ele é coerente, apesar de inchado, mas seu inchaço e suposto amadorismo é o que torna ele adorável, impossível de não gostar, porque ele apresenta um protagonista cativante e um diretor despretensioso empenhados. Várias cenas parecem mal feitas, mas cumprem o que um filme precisa para fluir. Isso o torna um ótimo filme ruim.
 
 A história envolve um casamento em ruínas porque o marido nunca pode tocar em sua esposa. Fruto de uma peça pregada ainda na adolescência, a pequena cidade está de olho nos bons costumes para garantir que aquela vida pacata e sem graça continue assim para sempre. O que muda a rotina de cabeça pra baixo é quando surge uma francesinha com "sexo livre" estampado em sua testa. Um prato cheio para Lyle, que garantia o funcionamento adequado dos seus hormônios se masturbando no meio do milharal. Agora ele pode sempre pedir a ajuda da sexy Juliette.
 

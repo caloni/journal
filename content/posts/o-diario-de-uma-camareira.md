@@ -4,9 +4,8 @@ categories:
 date: '2020-02-06'
 link: https://www.imdb.com/title/tt0058249
 tags:
-- draft
 - movies
-title: O Diario De Uma Camareira
+title: O Diário de Uma Camareira
 ---
 
 Meu primeiro Luis Buñuel, este maluco surrealista (como deve ser todo surrealista) que abdica da razão para conseguir atingir a emoção freudiana. Com medo de se tornar o tipo mais comum e surrado das teorias do psicanalista, o neurótico, o cineasta escreve errado por linhas apagadas e conta a história de uma camareira deliciosa de Paris e como todos os homens do interior adorariam fazer qualquer coisa com ela.

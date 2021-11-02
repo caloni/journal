@@ -4,7 +4,6 @@ categories:
 date: '2020-01-21'
 link: https://www.imdb.com/title/tt0235060
 tags:
-- draft
 - movies
 title: O Caminho Para Casa
 ---

@@ -5,7 +5,6 @@ date: '2020-02-05'
 link: https://www.imdb.com/title/tt4693588
 tags:
 - cinemaqui
-- draft
 - movies
 title: A Chance de Fahim
 ---
@@ -16,7 +15,7 @@ Eu jogava xadrez frequentemente na minha adolescência, voltei a jogar quase tod
 
 Filmes sobre este esporte (está nas Olimpíadas, inclusive) costumam ser fascinantes porque o que está em jogo não são peças em um tabuleiro, mas personalidades e vidas. Entre os exemplos mais vitais estão dois filmes dos anos 90, Lances Inocentes (Steven Zaillian) e Fresh (Boaz Yakin). Enquanto o primeiro nos apresenta essa metamorfose na personalidade necessária para dominar o nosso eu psicológico, o segundo vai pras ruas e demonstra o que acabei de afirmar sobre a universalidade do xadrez, mesmo que você seja um garoto vivendo sob a asa de gangues em Nova York.
 
-O roteirista Martin-Laval com certeza assistiu esses dois filmes e aplicou alguns de seus elementos em sua história, mas não conseguiu mesclar o jogo com a vida real. Xadrez é praticamente tudo que o instrutor de Fahim lhe diz durante sua jornada, mas não é praticamente nada do que vemos no filme, que usa o contexto do tabuleiro para referenciar grandes mestres (campeões mundiais) e nomes de aberturas famosas (lances iniciais de uma partida), enquanto a história de Fahim e sua família segue em paralelo, sem conexão.
+O roteirista Martin-Laval com certeza assistiu esses dois filmes e aplicou alguns de seus elementos em sua história, mas não conseguiu mesclar o jogo com a vida real. Regras e táticas no jogo é praticamente tudo que o instrutor de Fahim lhe ensina durante sua jornada, mas não é nada do que vemos no filme, que usa o contexto do tabuleiro para referenciar grandes mestres (campeões mundiais) e nomes de aberturas famosas (lances iniciais de uma partida), enquanto a história de Fahim e sua família segue em paralelo, sem conexão.
 
 O formato deste filme é frustrante para fãs do jogo do cavalo porque ele nos entrega tanta previsibilidade que se torna uma análise post mortem de uma partida que já sabemos o resultado. Para acrescentar um pouco de reviravolta o roteiro omite os acontecimentos que levaram Fahim e seu pai a fugir do país, mas quando descobrimos é como se isso não importasse mais. Soma-se a isso todos os momentos em que Fahim dramaticamente se atrasa e todas as coincidências que convergem para uma partida crucial que decidirá algo que o filme com ambivalência deseja e não deseja contar, ignorando que já sabemos tanto o que será decidido quanto qual será o desfecho.
 

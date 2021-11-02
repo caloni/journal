@@ -4,7 +4,6 @@ categories:
 date: '2020-01-16'
 link: https://www.imdb.com/title/tt0103791
 tags:
-- draft
 - movies
 title: Sedução
 ---
@@ -15,4 +14,4 @@ O material dos roteiristas Rafael Azcona e José Luis García Sánchez possui to
 
 Há quatro beldades espanholas neste filme, e Penélope Cruz está longe de estar no topo da lista. Clara, Violeta, Rócio e Luz são as filhas desse senhor espirituoso que comentei. Elas visitam o pai durante as férias em um desses vilarejos esquecidos no tempo, ainda que próximos de Madrid, e encontram Fernando, um belo jovem que fica perdidamente apaixonado pelas quatro beldades, a ponto de "perder o trem" e passar mais tempo naquele agradável fim de mundo.
 
-A história é inteligente o suficiente para separar as quatro moças em personalidades bem distintas, mas é a Fernando que elas serão apresentadas. Nunca a vemos interagindo entre elas para entendê-las, pois elas são meros estereótipos, a virgem, a sapatona, a gostosa e a viúva, e apenas sendo interpretadas por um elenco talentoso essas personagens conseguem se desvencilhar de seus unidimensionais destinos. Cada uma delas terá cenas de sexo com Fernando, mas cada uma à sua maneira. Aos homens resta ter inveja desse rapaz, mas seu jeito é tão carismático que o perdoamos logo após cada trepada.
+A história é inteligente o suficiente para separar as quatro moças em personalidades bem distintas, mas é a Fernando que elas serão apresentadas. Nunca a vemos interagindo entre elas para entendê-las, pois elas são meros estereótipos: a virgem, a sapatona, a gostosa e a viúva; e apenas sendo interpretadas por um elenco talentoso essas personagens conseguem se desvencilhar de seus unidimensionais destinos. Cada uma delas terá cenas de sexo com Fernando, mas cada uma à sua maneira. Aos homens resta ter inveja desse rapaz, mas seu jeito é tão carismático que o perdoamos logo após cada trepada.
