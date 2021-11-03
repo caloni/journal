@@ -5,7 +5,6 @@ date: '2020-03-04'
 link: https://www.imdb.com/title/tt9056192
 tags:
 - cinemaqui
-- draft
 - movies
 title: Zombi Child
 ---
@@ -18,8 +17,8 @@ Porém, nada disso. Este é um filme francês, e franceses têm o péssimo costu
 
 É entre esses dois climas e épocas tão diferentes que brilha a fotografia de Yves Cape, que evoca o contraste entre a luz vista por um homem livre e a escuridão vista por um escravo, o mesmo homem, mas a sombra do que já foi, vagando pela terra. A analogia com escravidão de negros é óbvia, mas a fotografia acaba sendo mais poderosa, mais perene. Romero já nos havia apresentado a ideia de zumbi/escravo desde o começo, mas Zombi Child sugere uma perspectiva mais fascinante ainda, pegando carona em obras contemporâneas como a série Westworld, que já havia feito a inversão de papéis entre mocinhos e bandidos na adaptação de um filme homônimo, e que faz aqui uma pequena poesia sobre um homem sem vida e sem memória tentando resgatar o seu passado idílico.
 
-Essa Haiti também é habitada pelas crendices e rituais dos que acreditam não apenas em zumbis, mas em espíritos e demônios. Os rituais são embalados com uma música penetrante, que hipnotiza pela sua beleza natural. São apenas batuques, tambores e a voz poderosa que emerge do povo, que anuncia com seu ritmo a súbita mudança de humor. São momentos mágicos no filme que nos tiram do marasmo.
+Esse Haiti também é habitado pelas crendices e rituais dos que acreditam não apenas em zumbis, mas em espíritos e demônios. Os rituais são embalados com uma música penetrante, que hipnotiza pela sua beleza natural. São apenas batuques, tambores e a voz poderosa que emerge do povo, que anuncia com seu ritmo a súbita mudança de humor. São momentos mágicos no filme que nos tiram do marasmo.
 
-Fanny, a bela garota haitiana da história contemporânea, também dança, ainda que timidamente, pois receia que sua música não seja bem vista na irmandade formada por francesas branquinhas ricas que agora faz parte. É curioso a maneira banalizante com que elas enxergam as crenças do povo de Fanny. Uma delas quer usar os "poderes mágicos" para se livrar da dor por ter levado um fora do namorado. A falta de dramas reais nos transformam em zumbis afetivos em um ocidente rico e intelectualizado, encontrando pelo meio acadêmico sempre os mesmos motivos pelos quais a Revolução Francesa fracassou e continua fracassando.
+Fanny, a bela garota haitiana da história contemporânea, também dança, ainda que timidamente, pois receia que sua música não seja bem vista na irmandade formada por francesas branquinhas ricas que agora faz parte. É curiosa a maneira banalizante com que elas enxergam as crenças do povo de Fanny. Uma delas quer usar os "poderes mágicos" para se livrar da dor por ter levado um fora do namorado. A falta de dramas reais nos transformam em zumbis afetivos em um ocidente rico e intelectualizado, encontrando pelo meio acadêmico sempre os mesmos motivos pelos quais a Revolução Francesa fracassou e continua fracassando.
 
 Os elementos sociais em Zombi Child se somam, mas são apenas largados e deixados como exercício para o espectador. Este é daqueles filmes que a mensagem é óbvia se você tiver o viés político adequado, mas se não tiver, é chato demais. E errado. E não apresenta zumbis strippers. Quero meu dinheiro de volta.

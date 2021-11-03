@@ -5,7 +5,6 @@ date: '2020-03-08'
 link: https://www.imdb.com/title/tt6523720
 tags:
 - cinemaqui
-- draft
 - movies
 title: Terremoto
 ---
@@ -22,6 +21,6 @@ E por isso o clichê do herói traumatizado não funciona como guia para o espec
 
 Este insight é maravilhoso, pois consegue se desvencilhar da fórmula americana de como "problemas" são resolvidos, geralmente com receitas de anti-depressivos. Esta obra norueguesa demonstra uma rara atitude humana em um filme com efeitos de nos fazer prender nas cadeiras e prender a respiração em pelo menos dois momentos muito pontuais, momentos esses que ficarão em sua memória após a sessão e que envolvem obviamente situações de vida ou morte. E diferente de um filme com uma explicação, sairemos da sessão sem saber o que pensar sobre o que acabamos de ver. Não estamos satisfeitos. Não houve a resolução do conflito interno do herói. Nos lembraremos disto para sempre, enquanto os heróis americanos repousam em nossa memória como uma cópia de uma cópia de uma cópia.
 
-Esta é uma continuação do segundo filme-catástrofe roteirizado pela dupla norueguesa John Kåre Raake e Harald Rosenløw-Eeg. O primeiro filme foi enviado para concorrer ao Oscar como melhor filme-estrangeiro. Para os que assistirem apenas este segundo (meu caso), a primeira cena, quando um geólogo anônimo for aplaudido efusivamente por uma plateira de uma programa de televisão, o significado será diferente. Para quem o vê pela primeira vez, este é um filme em que os heróis anônimos valem mais do que cientistas burocratas.
+Esta é uma continuação do segundo filme-catástrofe roteirizado pela dupla norueguesa John Kåre Raake e Harald Rosenløw-Eeg. O primeiro filme foi enviado para concorrer ao Oscar como melhor filme estrangeiro. Para os que assistirem apenas este segundo (meu caso), a primeira cena, quando um geólogo anônimo for aplaudido efusivamente por uma plateia de uma programa de televisão, o significado será diferente. Para quem o vê pela primeira vez, este é um filme em que os heróis anônimos valem mais do que cientistas burocratas.
 
 O diretor de fotografia John Andreas Andersen toma as rédeas da câmera pela terceira vez em sua carreira e realiza um trabalho original em cima de uma tonelada de clichês. É difícil perceber o que ele está querendo dizer por trás de um suposto blockbuster, mas no momento em que entendermos que este é mais um drama do que seus efeitos, as coisas começam a fazer mais sentido.

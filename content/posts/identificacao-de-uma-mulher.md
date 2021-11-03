@@ -4,7 +4,6 @@ categories:
 date: '2020-02-19'
 link: https://www.imdb.com/title/tt0084116
 tags:
-- draft
 - movies
 title: Identificação de Uma Mulher
 ---
@@ -17,4 +16,4 @@ Porque Antonioni não consegue encontrar nesta obra algo que seja diferente do q
 
 Quando um cineasta decide que irá fazer um filme porque não consegue evitar, as chances de sair um grande filme são grandes, e as chances de alguém pará-lo, mínimas. Contudo, depois que um cineasta tem seu nome consagrado e pode fazer o que quiser, a ideia que não sai mais de sua cabeça é escrever e/ou digirir um filme sobre ele mesmo e seus percalços até a fama. E agora que veio a fama, a dificuldade de entrar na rodinha dos milionários.
 
-O protagonista desse filme é Niccolò, um diretor de cinema que está em busca de um rosto feminino para seu próximo filme. Enquanto isso se enamora de uma cliente de sua irmã ginecologista e frequenta as rodas de amigo da bela e lascívia Mavi. Ele não se encaixa com ela nessas rodas, apenas na cama. E quando ela some toda a construção da trama em boa parte do filme parece desandar de uma vez.
+O protagonista desse filme é Niccolò, um diretor de cinema que está em busca de um rosto feminino para seu próximo filme. Enquanto isso se enamora de uma cliente de sua irmã ginecologista e frequenta as rodas de amigo da bela e lascívia Mavi. Ele não se encaixa com ela nessas rodas, apenas na cama. E quando ela some toda a construção da trama em boa parte do filme desanda de uma vez.

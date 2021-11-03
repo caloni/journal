@@ -5,7 +5,6 @@ date: '2020-02-12'
 link: https://www.imdb.com/title/tt2398149
 tags:
 - cinemaqui
-- draft
 - movies
 title: O Oficial e O Espião
 ---
@@ -14,7 +13,7 @@ O Oficial e O Espião é mais um filme do diretor Roman Polanski que, muito seme
 
 Iniciando com um aviso, ou alerta, de que todos os personagens vistos nesse filme são reais, o roteiro escrito por Polanski adaptou o livro do escritor Robert Harris para botar em foco o processo de desmoralização de uma nação, iniciando pelo seu exército. Para isso ele narra o caso do capitão francês Alfred Dreyfus (Louis Garrel), acusado injustamente de ser um espião e condenado a ter suas vestes oficiais degradadas em público e permanecer isolado em uma ilha por sabe-se-lá Deus quando.
 
-Pontuando a passagem do tempo de maneira claustofóbica, pois parece que ele luta para não andar, em seguida acompanhamos a vinda do coronel Georges Picquart (Jean Dujardin) no batalhão de espionagem francês, que busca descobrir traidores e onde em seu escritório, do seu predecessor, está enquadrado o bilhete que incriminou Dreyfus. E é curioso e sintomático que a fonte da futura humilhação francesa esteja sendo exibido como um exemplo de investigação.
+Pontuando a passagem do tempo de maneira claustofóbica, pois parece que ele luta para não andar, em seguida acompanhamos a vinda do coronel Georges Picquart (Jean Dujardin) no batalhão de espionagem francês, que busca descobrir traidores e onde em seu escritório, do seu predecessor, está enquadrado o bilhete que incriminou Dreyfus. E é curioso e sintomático que a fonte da futura humilhação francesa esteja sendo exibida como um exemplo de investigação.
 
 Dujardin como Picquart está imóvel. As reações de seu personagem são reflexo do que o espectador está achando da história e suas reviravoltas. Nossos valores morais se espelham no caráter desse oficial francês porque este é um ator que não sustenta suas reações como suas, mas apenas como um animal reage, por instinto, quando sabe que está sendo atacado. Mesmo assim sua noção de honra reside justamente em sua resiliência em evitar fazer o mesmo jogo de seus colegas. Curiosamente o papel de Dujardin não é muito diferente do de Adrien Brody em O Pianista, do mesmo diretor, pois ambos observam de maneira impassiva o mundo se radicalizar, e essa maneira de olhar as coisas é de certa forma um protesto silencioso.
 

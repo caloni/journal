@@ -4,7 +4,6 @@ categories:
 date: '2020-03-08'
 link: https://www.imdb.com/title/tt0090798
 tags:
-- draft
 - movies
 title: Caravaggio
 ---
