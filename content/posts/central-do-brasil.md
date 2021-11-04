@@ -5,6 +5,7 @@ date: '2020-04-05'
 link: https://www.imdb.com/title/tt0140888
 tags:
 - movies
+- draft
 title: Central do Brasil
 ---
 

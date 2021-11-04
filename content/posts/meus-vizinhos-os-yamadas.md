@@ -6,6 +6,7 @@ link: https://www.imdb.com/title/tt0206013
 tags:
 - movies
 - animes
+- draft
 title: Meus Vizinhos, Os Yamadas
 ---
 

@@ -5,6 +5,7 @@ date: '2020-07-05'
 link: https://www.imdb.com/title/tt6914542
 tags:
 - movies
+- draft
 title: The Drug King
 ---
 

@@ -5,6 +5,7 @@ date: '2020-07-11'
 link: https://www.imdb.com/title/tt0254312
 tags:
 - movies
+- draft
 title: Estrela Nua
 ---
 

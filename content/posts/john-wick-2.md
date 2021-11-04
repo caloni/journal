@@ -5,6 +5,7 @@ date: '2020-08-03'
 link: https://www.imdb.com/title/tt4425200
 tags:
 - movies
+- draft
 title: John Wick 2
 ---
 
