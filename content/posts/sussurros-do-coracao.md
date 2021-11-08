@@ -5,7 +5,6 @@ date: '2020-05-04'
 link: https://www.imdb.com/title/tt0113824
 tags:
 - movies
-- draft
 title: Sussurros do Coração
 ---
 
@@ -15,4 +14,4 @@ Assim como faz a equipe dos estúdios Ghibli de animação nessa história que s
 
 A necessidade de auto-referenciar outras obras é por causa da internacionalização dos estúdios. Esse é o filme mais ocidental até agora dos estúdios. Há momentos que a estrada muda de lado e o livro se vira pra direita. Os japoneses se vendendo lá fora, mas ainda de uma maneira artisticamente ambiciosa (não ao modo Shinkai, comercial e efêmero demais).
 
-Os detalhes de caracterização dos personagens lembra a dedicação nos detalhes do imperdível Memórias de Ontem, mas com roteiro mais formulaico. É sempre um prazer ver paisagens e ambientes recriados pela equipe. Eles são perfeccionistas técnicos, mas o mais importante, o coração, não fica de fora.
+Os detalhes de caracterização dos personagens lembram a dedicação nos detalhes do imperdível Memórias de Ontem, mas com roteiro mais formulaico. É sempre um prazer ver paisagens e ambientes recriados pela equipe. Eles são perfeccionistas técnicos, mas o mais importante, o coração, não fica de fora.

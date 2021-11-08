@@ -5,7 +5,6 @@ date: '2020-04-20'
 link: https://www.imdb.com/title/tt0347149
 tags:
 - movies
-- draft
 title: O Castelo Animado
 ---
 

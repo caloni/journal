@@ -5,7 +5,6 @@ date: '2020-04-05'
 link: https://www.imdb.com/title/tt7533152
 tags:
 - movies
-- draft
 title: O Menino que Descobriu o Vento
 ---
 

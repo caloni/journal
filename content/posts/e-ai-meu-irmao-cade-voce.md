@@ -5,7 +5,6 @@ date: '2020-04-07'
 link: https://www.imdb.com/title/tt0190590
 tags:
 - movies
-- draft
 title: E Aí, Meu Irmão, Cadê Você?
 ---
 
@@ -15,7 +14,7 @@ George Clooney diverte, mas ele está em muito melhor companhia pelos coadjuvant
 
 A seleção musical tem alguns clássicos em uma produção de primeira linha, feito como um musical. O destaque fica para o tema principal, que faz os "Sonny Boys" famosos em vários estados. Lembra muito o que os diretores farão em [Inside Llewyn Davis].
 
-Algo que incomoda o filme inteiro é essa fotografia com cores drenada, como um livro amarelado que existe na imaginação humana coletiva das aventuras fantásticas. Não é preciso ser letrado para entender a mensagem, que é fácil porque é profunda.
+Algo que incomoda o filme inteiro é essa fotografia com cores drenadas, como um livro amarelado que existe na imaginação humana coletiva das aventuras fantásticas. Não é preciso ser letrado para entender a mensagem, que é fácil porque é profunda.
 
 Mas da metade para o final fica claro que eles não amarraram bem a trama. Alguns momentos soam gratuitos, como a disputa eleitoral e a aparição de KKK. A mensagem se perde, e o humor tão bem dosado soa exagerado e sem sentido.
 

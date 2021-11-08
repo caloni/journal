@@ -5,7 +5,6 @@ date: '2020-05-04'
 link: https://www.imdb.com/title/tt0018478
 tags:
 - movies
-- draft
 title: Tesouro Perdido
 ---
 
@@ -17,4 +16,4 @@ O filme está disponível em DVD em péssimo estado. Os negativos se perderam e 
 
 Duas características marcantes (e entediantes) deste longa mudo é ele não possuir música de fundo e conter muitas falas. A ausência de música é até didática, pois ensina ao espectador a falta que faz, sobretudo para impor ritmo e tema às cenas. Já as falas são um embaraço. Nenhuma delas, apesar de cheia de palavras, diz muita coisa. Só faz o espectador ler e ler. E nessa versão do DVD tem que tentar ler uns borrões mal iluminados, estourando no contraste. Em algum momento você desiste e apenas continua vendo as imagens borradas, tentando discernir uma vaca de um cachorro. O cachorro é preto neste filme e parece uma falha no negativo.
 
-Este é um filme quase documental. Um making off do estado lamentável do cinema brasileiro. Mais tarde o diretor começaria outra parceria em que produziria mini-documentários da vida brasileira. Foi aí que ficou conhecido como alguém de valor.
+Este é um filme quase documental. Um making off do estado lamentável do cinema brasileiro. Mais tarde o diretor começaria outra parceria em que produziria minidocumentários da vida brasileira. Foi aí que ficou conhecido como alguém de valor.

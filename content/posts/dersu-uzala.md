@@ -5,7 +5,6 @@ date: '2020-04-07'
 link: https://www.imdb.com/title/tt0071411
 tags:
 - movies
-- draft
 title: Dersu Uzala
 ---
 
@@ -21,4 +20,4 @@ Em alguns momentos a trilha sonora lembra clássicos russos e nos remete à gran
 
 Efeitos visuais simples, mas eficientes, compõem os quadros milimetricamente escolhidos por Kurosawa para pintar seus movimentos em cena. Vemos o batalhão ao fundo e esses dois amigos isolados ao canto. Dersu é um lobo solitário, mas viu no Capitão o respeito que merece como ser humano. Ou gente, como ele chama tanto as forças da natureza como fogo e vento ou os animais.
 
-Crítica ao acúmulo de capital, à ganância e ao uso do dinheiro são fáceis demais do ponto de vista de quem vive na floresta. Mas o filme os faz do mesmo jeito. Ele busca entender em que momento o homem perdeu sua alma. O filme não responde, mas deixa claro a diferença entre o antes e o depois. Mas essa história já faz muito tempo que passou.
+Críticas ao acúmulo de capital, à ganância e ao uso do dinheiro são fáceis demais do ponto de vista de quem vive na floresta. Mas o filme os faz do mesmo jeito. Ele busca entender em que momento o homem perdeu sua alma. O filme não responde, mas deixa clara a diferença entre o antes e o depois. Mas essa história já faz muito tempo que passou.

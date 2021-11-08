@@ -5,7 +5,6 @@ date: '2020-04-05'
 link: https://www.imdb.com/title/tt0110008
 tags:
 - movies
-- draft
 title: 'PomPoko: A Grande Batalha dos Guaxinins'
 ---
 
