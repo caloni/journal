@@ -5,7 +5,6 @@ date: '2020-07-05'
 link: https://www.imdb.com/title/tt6914542
 tags:
 - movies
-- draft
 title: The Drug King
 ---
 
@@ -25,7 +24,7 @@ Martin já nos fez o favor de refutar The Drug King com duas obras primas do cin
 
 The Drug King não é um filme nem divertido, nem dramático, nem honesto. Nós nunca sabemos porque um ourives vira de repente o traficante do pedaço. Nós não sabemos quem esse cara é nem porque virou quem a justiça quer por as mãos, encarnado por um promotor que sabe atirar com espingarda em uma Coreia desarmada, e cuja falta de motivação rivaliza com seu antagonista. Eu não sei quem é o mais sem graça, mas isso não impede que um fique perseguindo o outro.
 
-Há outros personagens jogados em uma história que passa literalmente por décadas enquanto para nós parece apenas um final de semana. A história é inspirada em eventos reais, nas não quer botar a mão no fogo sobre nada, então prefere apenas sugerir relações entre os envolvidos. Não consegue nem evitar usar personagens da vida real nem criar personagens interessante para acompanharmos. Atrizes talentosas como Donna Bae estão no filme e é um desperdício. Tomara que pelo menos tenham pago um bom cachê por suas lindas pernas.
+Há outros personagens jogados em uma história que passa literalmente por décadas enquanto para nós parece apenas um final de semana. A história é inspirada em eventos reais, nas não quer botar a mão no fogo sobre nada, então prefere apenas sugerir relações entre os envolvidos. Não consegue nem evitar usar personagens da vida real nem criar personagens interessantes para acompanharmos. Atrizes talentosas como Donna Bae estão no filme e é um desperdício. Tomara que pelo menos tenham pago um bom cachê por suas lindas pernas.
 
 Drogas, dinheiro, armas, mulheres. Poucos conseguem fazer essa coleção ser tão broxante. E The Drug King, além de defender que filmes de máfia já deram, também prova que até esses temas pulsantes se tornam fracos em uma produção algorítmica de streaming. Uma mulher e um homem de divertem em um carrão conversível, mas eles nunca se conectaram de verdade. E mesmo que for um jogo de interesses não sabemos muito bem quais as regras nem porque eles deveriam estar juntos. Eu nem sei se eles estão realmente juntos, pois o filme é incapaz de criar qualquer química entre eles, seja amor ou ódio, quem dirá ambos, ou ódio e luxúria, como visto entre Jordan Belfort e Margot Robbie em O Lobo de Wall Street.
 

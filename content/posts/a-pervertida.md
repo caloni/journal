@@ -5,7 +5,6 @@ date: '2020-07-11'
 link: https://www.imdb.com/title/tt0200192
 tags:
 - movies
-- draft
 title: A Pervertida
 ---
 
