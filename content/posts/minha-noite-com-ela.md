@@ -5,7 +5,6 @@ date: '2020-08-10'
 link: https://www.imdb.com/title/tt0064612
 tags:
 - movies
-- draft
 title: Minha Noite Com Ela
 ---
 
@@ -23,4 +22,4 @@ Este é um filme naquele estilo intelectualizado, porque o francês típico reza
 
 Nessa receita inusitada de temas o filme soa banal, apesar de tratar de grandes temas. Seus personagens ficam sufocados, soterrados de diálogos. Não é o melhor do diretor no quesito de exploração da natureza humana. É diversão ocasional sem a garantia de que nos lembraremos de alguma cena no dia seguinte.
 
-Bom, há o pai nosso em francês. Talvez isso baste.
+Bom, há o pai-nosso em francês. Talvez isso baste.

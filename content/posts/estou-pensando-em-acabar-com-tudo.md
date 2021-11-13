@@ -5,7 +5,6 @@ date: '2020-09-18'
 link: https://www.imdb.com/title/tt7939766
 tags:
 - movies
-- draft
 title: Estou Pensando em Acabar com Tudo
 ---
 
@@ -21,7 +20,7 @@ A forma de Kaufman é o que traz o sabor a filmes como esse. Seu lado surrealist
 
 Há tanto por dizer e refletir que é como se o filme inteiro fosse relevante e ao mesmo tempo parte nenhuma dele. É a sensação que fica no ar. Não são detalhes, por mais geniais que sejam. Este é um Kaufman surpreendentemente mais humilde em suas pretensões. Quanto mais genial ele se torna menos convicto está de que é capaz de escrever estas pérolas que anda escrevendo já faz décadas.
 
-Como consequência, insere referências que o tornam menor em frente às telas. Em uma piada tão espirituosa quanto acidental, um filme dentro do filme, uma comédia romântica piegas, se revela como dirigido por ninguém menos que Robert Zemeckis. Ao encontrar em cena um discurso sobre uma vida inteira, Kaufman usa nada menos que o diálogo mais icônico dos anos 90, direto da boca de John Nash de [Uma Mente Brilhante]. E, incerto de suas capacidades, ele nos dá a exata noção de pequenez quando "ele próprio" de certa forma se diminiu, ou se coloca em seu devido lugar, ao inserir um longo monólogo vindo de uma análise da crítica de cinema mais brilhante de todos os tempos, [Pauline Kael]. O cineasta não está atacando a figura do crítico como muitos fazem. Seria banal demais para seus objetivos. Pelo contrário: ele sempre a admirou, e cresceu a lendo, como muitos de nós. E como todos nós, ele sabe que Kael foi muito mais esperta.
+Como consequência, insere referências que o tornam menor frente às telas. Em uma piada tão espirituosa quanto acidental, um filme dentro do filme, uma comédia romântica piegas, se revela como dirigido por ninguém menos que Robert Zemeckis. Ao encontrar em cena um discurso sobre uma vida inteira, Kaufman usa nada menos que o diálogo mais icônico dos anos 90, direto da boca de John Nash de [Uma Mente Brilhante]. E, incerto de suas capacidades, ele nos dá a exata noção de pequenez quando "ele próprio" de certa forma se diminiu, ou se coloca em seu devido lugar, ao inserir um longo monólogo vindo de uma análise da crítica de cinema mais brilhante de todos os tempos, [Pauline Kael]. O cineasta não está atacando a figura do crítico como muitos fazem. Seria banal demais para seus objetivos. Pelo contrário: ele sempre a admirou, e cresceu a lendo, como muitos de nós. E como todos nós, ele sabe que Kael foi muito mais esperta.
 
 Soando interpretativo, a mensagem de Estou Pensando em Acabar com Tudo é óbvia demais para ficarmos apenas nesses joguinhos. Jake não consegue o que tanto deseja nem em seus próprios pensamentos. E ele não está sozinho. Quantos de nós está em completo descontrole emocional, reagindo instintivamente à rotina diária, presos à situação do momento, nos conformando com o breve e aconchegante calor depositado em nossas costas por um sol indiferente à vida quando saímos de uma sombra em direção à próxima. Todos nós sabemos que o destino de cada um é em direção à maior sombra de todas, da qual nunca mais vamos voltar. Estarmos gratos pelo sol fazer o que sequer controlamos é um dos mecanismos da natureza que nos assombra pela poesia e pelo horror que o caos representa.
 

@@ -5,7 +5,6 @@ date: '2020-09-06'
 link: https://www.imdb.com/title/tt0322629
 tags:
 - movies
-- draft
 title: Houve uma Vez Dois Verões
 ---
 
@@ -17,4 +16,4 @@ Mas a sorte de Chico muda com a aparição milagrosa de Roza (com Z mesmo), enca
 
 Os diálogos descompromissados do cineasta Jorge Furtado, o mesmo de Meu Tio Matou um Cara, valem o filme, e seus elenco, apesar de amador, é filmado em uma edição vibrante, que se solta do teatral por ser dinâmico. É ágil, de cortes elegantes e decupagem primordial em uma produção de baixo orçamento.
 
-O resultado é uma divertida comédia adolescente, despretensiosa e esquecível. Há algumas tiradas difíceis de esquecer, principalmente porque nunca mais serão permitidas ("hoje eu como até gorda"). Vem de um universo inocente, menos politizado, onde nem tudo precisa ser descontruído, discutido, debatido. É bom para esquecer a derrocada da sociedade que vivemos.
+O resultado é uma divertida comédia adolescente, despretensiosa e esquecível. Há algumas tiradas difíceis de esquecer, principalmente porque nunca mais serão permitidas ("hoje eu como até gorda"). Vem de um universo inocente, menos politizado, onde nem tudo precisa ser desconstruído, discutido, debatido. É bom para esquecer a derrocada da sociedade que vivemos.

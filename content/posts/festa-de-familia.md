@@ -5,7 +5,6 @@ date: '2020-09-29'
 link: https://www.imdb.com/title/tt0154420
 tags:
 - movies
-- draft
 title: Festa de Família
 ---
 

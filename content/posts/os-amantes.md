@@ -4,7 +4,6 @@ categories:
 date: '2020-10-18'
 link: https://www.imdb.com/title/tt0101317
 tags:
-- draft
 - movies
 title: Os Amantes
 ---

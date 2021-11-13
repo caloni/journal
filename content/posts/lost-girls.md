@@ -6,7 +6,6 @@ link: https://www.imdb.com/title/tt3111426
 tags:
 - cinemaqui
 - movies
-- draft
 title: Lost Girls
 ---
 

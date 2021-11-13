@@ -6,7 +6,6 @@ link: https://www.imdb.com/title/tt10168672
 tags:
 - cinemaqui
 - movies
-- draft
 title: Os Infiéis
 ---
 
@@ -20,6 +19,6 @@ E por que as mulheres se preocupam tanto com a fidelidade dos seus machos? Às v
 
 Pera. Nosso?
 
-Depois de assistido, você irá se lembrar mais do episódio no hotel, porque ele é ágil, verdadeiro e tragicômico na medida certa. A direção de Stefano Mordini flui durante todo o filme, mas nesses minutos seu poder de compactação atingo o máximo. A história beira o surreal, mas todos entendemos o que está nas entrelinhas vermelhas. O macho alfa não pede muitas desculpas e a mulher fica com cara de tonta. A enganada. Mas o que passa despercebido é que o homem não está nem aí que a mulher curta também seus momentos de prazer terceirizado.
+Depois de assistido, você irá se lembrar mais do episódio no hotel, porque ele é ágil, verdadeiro e tragicômico na medida certa. A direção de Stefano Mordini flui durante todo o filme, mas nesses minutos seu poder de compactação atinge o máximo. A história beira o surreal, mas todos entendemos o que está nas entrelinhas vermelhas. O macho alfa não pede muitas desculpas e a mulher fica com cara de tonta. A enganada. Mas o que passa despercebido é que o homem não está nem aí que a mulher curta também seus momentos de prazer terceirizado.
 
 Como deveria ser, aliás.

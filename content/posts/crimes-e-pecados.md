@@ -5,7 +5,6 @@ date: '2020-10-04'
 link: https://www.imdb.com/title/tt0097123
 tags:
 - movies
-- draft
 title: Crimes e Pecados
 ---
 
