@@ -6,13 +6,12 @@ link: https://mostraplay.mostra.org/film/apenas-mortais/
 tags:
 - cinemaqui
 - movies
-- draft
 title: Apenas Mortais
 ---
 
 Apenas Mortais pode ser visto por diversos ângulos, mas em termos gerais, mais amplos, é uma "ficção-denúncia" sobre o envelhecimento da sociedade chinesa e o aumento de doenças degenerativas entre a população. Com isso os problemas decorrentes do sistema de saúde se tornam mais presentes, embora o longa fique em cima do muro em questões governamentais e esteja mais disposto a explorar o drama familiar, deixando questões maiores em segundo plano.
 
-Em uma sequência na rua vemos dezenas de isosos conversando e se exercitando nos parques temáticos. Apenas idosos. O exagero da cena reflete na presença onisciente de Xian Tian, a protagonista do filme, que não é idosa, mas que sofre através da doença do pai e dos cada vez mais presentes sacrifícios da mãe. Apesar de estar vivendo um momento de transição na vida amorosa e profissional Xian não consegue ter uma vida independente dos dois, principalmente sabendo que nesses próximos anos eles estarão cada vez mais frágeis. Este filme é um misto entre os últimos momentos em que ela conviveu com eles, suas memórias e a reflexão que isso gera quando pensamos na imensa quantidade de velhinhos desamparados na China.
+Em uma sequência na rua vemos dezenas de idosos conversando e se exercitando nos parques temáticos. Apenas idosos. O exagero da cena reflete na presença onisciente de Xian Tian, a protagonista do filme, que não é idosa, mas que sofre através da doença do pai e dos cada vez mais presentes sacrifícios da mãe. Apesar de estar vivendo um momento de transição na vida amorosa e profissional Xian não consegue ter uma vida independente dos dois, principalmente sabendo que nesses próximos anos eles estarão cada vez mais frágeis. Este filme é um misto entre os últimos momentos em que ela conviveu com eles, suas memórias e a reflexão que isso gera quando pensamos na imensa quantidade de velhinhos desamparados na China.
 
 Quando o filme começa seu pai já está com Alzheimer em uma fase avançada e sua mãe insiste em manter seu orgulho de cuidá-lo sem quase qualquer ajuda das filhas, apesar de sugerir a ausência de uma delas como uma carência pior do que a financeira. A mãe de Xian Tian é uma personagem obviamente forte com uma atriz que pelo olhar sabemos ter sido escolhida a dedo, mas sem um passado para entendê-la a dinâmica acaba sendo confusa. A sua relutância em pedir ajuda, por exemplo, gera momentos constrangedores e incompreensíveis em família, como em um momento em que seu marido precisa ser levado até o banheiro porque ele urinou na cama e ela impede ser ajudada por todos os presentes, fisicamente mais jovens e capazes do que ela.
 

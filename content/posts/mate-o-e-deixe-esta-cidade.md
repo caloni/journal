@@ -6,7 +6,6 @@ link: https://www.imdb.com/title/tt8387918
 tags:
 - cinemaqui
 - movies
-- draft
 title: Mate-o e Deixe Esta Cidade
 ---
 

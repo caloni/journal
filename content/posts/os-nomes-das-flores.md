@@ -6,7 +6,6 @@ link: https://www.imdb.com/title/tt10528564
 tags:
 - cinemaqui
 - movies
-- draft
 title: Os Nomes das Flores
 ---
 
@@ -18,6 +17,6 @@ Brincadeiras à parte, o filme escrito e dirigido por Bahman Tavoosi é uma cole
 
 O tom com que o filme narra a aventura dos 50 anos da morte de Che é como se fosse um conto, sem muitos detalhes verossímeis e apenas sensações sutis do ambiente. Não é o tom que incomoda, mas o ritmo. Ele é lento, pois a cada momento não nos diz nada. E quando avança se mistura com tantas cenas inúteis que quase não vemos o tempo passar, e quando algo de fato acontece já perdemos o interesse. Eu só queria saber quando o filme acaba.
 
-Detalhes que poderiam enriquecer um pouco a atmofesta são omitidos. Por exemplo Che Guerava, além de médico e guerrilheiro, era também poeta, um detalhe que resgata sentido ao mítico relato de suas últimas horas. Mas nada é dito sobre Che; nem sobre a região. Nos é negada a geografia do local. Não dá para saber se é uma cidade mais ou menos populosa, ou se é de fato uma cidade. Com planos fechados sem localizarmos os lugares-chave que são mostrados, vemos dezenas de cadeiras sendo organizadas para as festividades, como a exibição de filmes de comemoração. E o próprio filme que os convidados assistem, visto em dois momentos do longa, possui a mesma cena. A mesma cena. Este é um filme realmente disposto a induzir coma nos seus espectadores.
+Detalhes que poderiam enriquecer um pouco a atmosfera são omitidos. Por exemplo Che Guerava, além de médico e guerrilheiro, era também poeta, um detalhe que resgata sentido ao mítico relato de suas últimas horas. Mas nada é dito sobre Che; nem sobre a região. Nos é negada a geografia do local. Não dá para saber se é uma cidade mais ou menos populosa, ou se é de fato uma cidade. Com planos fechados sem localizarmos os lugares-chave que são mostrados, vemos dezenas de cadeiras sendo organizadas para as festividades, como a exibição de filmes de comemoração. E o próprio filme que os convidados assistem, visto em dois momentos do longa, possui a mesma cena. A mesma cena. Este é um filme realmente disposto a induzir coma nos seus espectadores.
 
 A caminhada da professora é vista pelo menos três vezes do mesmo ângulo. O diretor, que homenageia a mãe com este filme, quer defender um ponto de vista sobre a suposta professora que fez parte do relato, mas não tem as mínimas condições de fazê-lo, pois não há história a ser contada. O resultado acaba sendo o oposto: ficamos com raiva da passividade inerente ao filme. E talvez seja isso o que ele quer dizer: não temos paciência com os que não se defendem. Vai saber.
