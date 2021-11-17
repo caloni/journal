@@ -8,4 +8,6 @@ tags:
 title: Blade Runner do Crunchyroll
 ---
 
-É o Blade Runner da Barbie. Os Ocidentais estão no filme e no Oriente para ganhar dublagem em japonês e jogar go no lugar de xadrez. Esta versão se aproxima de um Westworld versão anime, mas seu design de jogo 3D nunca escapa de nossa percepção do design deste universo. Por isso todos parecem orbitar nas prateleiras das infinitas versões de Barbie e Ken.
+## Blade Runner da Barbie
+
+Os Ocidentais estão no filme e no Oriente para ganhar dublagem em japonês e jogar go no lugar de xadrez. Esta versão se aproxima de um Westworld versão anime, mas seu design de jogo 3D nunca escapa de nossa percepção do design deste universo. Por isso todos parecem orbitar nas prateleiras das infinitas versões de Barbie e Ken.
