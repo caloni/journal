@@ -17,7 +17,7 @@ Mas não este rapaz que se torna homem. Zhao Xiaolong deseja de todas as formas 
 
 A ideia por trás de "O Enigma" é justamente brincar com nossa percepção do que é lembrado dos momentos nostálgicos. Isso cria um filme leve, pois para brincar com isso precisamos passar por esses momentos, que são doces, ingênuos. Tudo o que você precisa quando se é jovem: bebidas, garotas, zoeira.
 
-Parte da brincadeira primeiro é comparar o nível de maturidade entre os meninos e as meninas. Elas estão anos luz à frente e é divertido entender toda a lógica por trás de um convite do tipo "vamos dar uma volta pela balsa à noite" e um jovem tirar a conclusão totalmente errada dias depois.
+Parte da brincadeira primeiro é comparar o nível de maturidade entre os meninos e as meninas. Elas estão anos-luz à frente e é divertido entender toda a lógica por trás de um convite do tipo "vamos dar uma volta pela balsa à noite" e um jovem tirar a conclusão totalmente errada dias depois.
 
 Outra parte da brincadeira é entender as diferentes versões que cada um dos meninos se lembra de como foram aqueles momentos mágicos e inconsequentes, que se tornam quase umas férias escolares em suas lembranças.
 
