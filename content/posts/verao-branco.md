@@ -6,7 +6,6 @@ link: https://www.imdb.com/title/tt11394288
 tags:
 - cinemaqui
 - movies
-- draft
 title: Verão Branco
 ---
 

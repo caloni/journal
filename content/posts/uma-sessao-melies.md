@@ -5,7 +5,6 @@ date: '2020-12-16'
 link: https://www.imdb.com/title/tt6774848
 tags:
 - movies
-- draft
 title: Uma Sessão Méliès
 ---
 

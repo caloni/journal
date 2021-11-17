@@ -4,7 +4,6 @@ categories:
 date: '2020-12-12'
 link: https://www.imdb.com/title/tt0345061
 tags:
-- draft
 - movies
 title: Código 46
 ---

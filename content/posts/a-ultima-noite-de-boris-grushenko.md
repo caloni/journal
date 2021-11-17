@@ -4,7 +4,6 @@ categories:
 date: '2020-12-09'
 link: https://www.imdb.com/title/tt0073312
 tags:
-- draft
 - movies
 title: A Última Noite de Bóris Grushenko
 ---

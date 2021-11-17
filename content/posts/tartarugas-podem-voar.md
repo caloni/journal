@@ -4,7 +4,6 @@ categories:
 date: '2021-03-27'
 link: https://www.imdb.com/title/tt0424227
 tags:
-- draft
 - movies
 title: Tartarugas Podem Voar
 ---

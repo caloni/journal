@@ -6,7 +6,6 @@ link: https://www.imdb.com/title/tt11394182
 tags:
 - cinemaqui
 - movies
-- draft
 title: Feels Good Man
 ---
 
@@ -18,7 +17,7 @@ Por isso eu entendo por completo a frustração de Matt Furie, o cartunista cria
 
 O filme se divide em dois. Na primeira parte o significado de Pepe The Frog foi deturpado ao virar um meme simpático usado por milhões de pessoas, algo que Matt até curtiu, pois passou a vender camisetas com o sapo pela internet e faturar uma grana. O que ele não gostou, fruto da segunda parte do filme, e a mais dispersa na narrativa do diretor Arthur Jones, foi quando o meme caiu nas graças do povo do 4chan, um fórum na internet conhecido pelos progressistas estadunidenses como esconderijo dos supremacistas brancos, da extrema direita, da direita alternativa, dos neonazistas ou de qualquer outro termo que define um grupo de pessoas muito más e com cara de melão.
 
-O resumo dessa história é que o povo da internet transformou esse sapo no símbolo de toda essa galera, que virou um fomentador dessas ideologias na rede, em formato de memes. De forma anônima, claro, pois há perseguição ativa desses grupos. Principalmente se alguém decide propagar teorias anti-semitas ou que sugira que o mundo é controlado por judeus. Aliás, esse detalhe em específico gerou mais um efeito hilário no documentário. Em determinado momento da escalada de Pepe The Frog em direção à Casa Branca é dito que o personagem foi inserido na lista da Liga Anti-Difamação. Essa Liga é um órgão não-governamental que "define" o que é bom e ruim na internet. O detalhe hilário é que se trata de uma organização judaica.
+O resumo dessa história é que o povo da internet transformou esse sapo no símbolo de toda essa galera, que virou um fomentador dessas ideologias na rede, em formato de memes. De forma anônima, claro, pois há perseguição ativa desses grupos. Principalmente se alguém decide propagar teorias antissemitas ou que sugira que o mundo é controlado por judeus. Aliás, esse detalhe em específico gerou mais um efeito hilário no documentário. Em determinado momento da escalada de Pepe The Frog em direção à Casa Branca é dito que o personagem foi inserido na lista da Liga Antidifamação. Essa Liga é um órgão não-governamental que "define" o que é bom e ruim na internet. O detalhe hilário é que se trata de uma organização judaica.
 
 Feels Good Man flerta de maneira sublime com aqueles momentos em que a vida é maior do que a arte, e se torna material potencial para trabalhos do nível de Exit Through the Gift Shop, um documentário sensacional que foi fruto de um projeto que começou com o objetivo de mostrar a vida de um francês maluco e terminou da maneira mais inesperada possível vendendo arte estilo Bansky, o pixador anarquista de rua, da maneira mais capitalista possível. Imperdível para quem ainda não viu.
 

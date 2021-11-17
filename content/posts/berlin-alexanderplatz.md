@@ -6,7 +6,6 @@ link: https://www.imdb.com/title/tt6470924
 tags:
 - cinemaqui
 - movies
-- draft
 title: Berlin Alexanderplatz
 ---
 
@@ -14,7 +13,7 @@ Berlin Alexanderplatz é um filme de três horas que passam voando. Se trata do 
 
 Não à toa. Baseado no romance de Alfred Döblin, esta é a terceira vez que a história ganha vida nas telas, sendo que a do meio foi dirigido por Fassbinder na década de 80. Possuía 15 horas de duração. Quando estreou nos cinemas de Nova York os espectadores tinham que ir ao cinema em três noites consecutivas com o mesmo bilhete para ver o resto do filme. Por isso fico muito feliz com essas três horas dessa versão de Burhan Qurbani, diretor igualmente alemão, mas de origem afegã.
 
-A história, adaptada para os tempos atuais, gira em torno da epopeia de Francis, refugiado de Guiné-Bissau que depois de praticar um ato de moral duvidosa para conseguir chegar a Berlim faz um pacto com Deus e decide a partir daquele dia ser uma pessoa boa, embora a partir daquele momento ele tome todos os caminhos errados. No meio do caminho ele encontra um psicopata, Reinhold (Albrecht Schuch, absoluto), que o alerta para a futilidade de sua promessa. O que é bem? O que é mal? "Você está querendo ser bom em um mundo mau." Essa frase tem um misto entre coitadismo e fatalismo. Além de uma contradição filosófica braba.
+A história, adaptada para os tempos atuais, gira em torno da epopeia de Francis, refugiado de Guiné-Bissau que depois de praticar um ato de moral duvidosa para conseguir chegar a Berlim faz um pacto com Deus e decide a partir daquele dia ser uma pessoa boa, embora a partir daquele momento ele tome todos os caminhos errados. No meio ele encontra um psicopata, Reinhold (Albrecht Schuch, absoluto), que o alerta para a futilidade de sua promessa. O que é bem? O que é mal? "Você está querendo ser bom em um mundo mau." Essa frase tem um misto entre coitadismo e fatalismo. Além de uma contradição filosófica braba.
 
 O título do filme leva o nome do bairro de Berlim que é a terra dos refugiados que trabalham por merreca ou se prostituem como traficantes. É traçado um paralelo bacana com uma prostituta alemã, Mieze, e figuras marginalizadas com um certo poder de mafioso. Faz pensar em como os fora da sociedade conseguem sucesso por não poderem se dar ao luxo de viver uma vida honesta.
 

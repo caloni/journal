@@ -4,7 +4,6 @@ categories:
 date: '2020-12-06'
 link: https://www.imdb.com/title/tt0112445
 tags:
-- draft
 - movies
 title: O Balão Branco
 ---

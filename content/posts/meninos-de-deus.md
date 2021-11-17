@@ -4,7 +4,6 @@ categories:
 date: '2021-03-27'
 link: https://www.imdb.com/title/tt0238924
 tags:
-- draft
 - movies
 title: Meninos de Deus
 ---
@@ -17,6 +16,6 @@ Se aproveitando do formato jovens fazendo besteira e desafiando a autoridade da 
 
 Já a história envolvendo a personagem de Jena Malone (Contato, Jogos Vorazes, Sucker Punch) é a que melhor nos transporta para as incertezas e medos de uma vida sexual que começa de um jeito torto. Malone escolhe o garoto mais bonitinho para compartilhar seus anseios, e todos nós sabemos por quê, menos o garoto. Talvez nem o filme saiba direito por quê, pois traduz os sentimentos adolescentes do ponto de vista de um. Mas não importa. O sorriso de Jena é o suficiente para elevar a sub-trama.
 
-Outro ator talentoso é Kieran Culkin, mais até que seu irmão, o astro-mirim de Esqueceram de Mim. Ele possui o auto-controle de seu sorriso irônico e é bem aproveitado em dois momentos tensos sobre a morte. É o personagem masculino que mais levamos a sério.
+Outro ator talentoso é Kieran Culkin, mais até que seu irmão, o astro-mirim de Esqueceram de Mim. Ele possui o autocontrole de seu sorriso irônico e é bem aproveitado em dois momentos tensos sobre a morte. É o personagem masculino que mais levamos a sério.
 
 A direção de Peter Care é automática demais para deixarmos nossas mentes trabalhando durante o filme. Ele entrega o serviço, mas não é caprichado como seu trabalho em videoclipes. Há algo que incomoda o diretor neste material que tem tudo para ser sensível e profundo, mas que acaba sendo uma história sobre como ignorar os reais problemas da vida nessa fase jovem.

@@ -4,7 +4,6 @@ categories:
 date: '2021-03-14'
 link: https://www.imdb.com/title/tt0086022
 tags:
-- draft
 - movies
 title: Nostalgia
 ---
@@ -13,7 +12,7 @@ Pedir para um ser humano médio ler algum autor russo já é maldade. Para um oc
 
 Nos mesmos moldes, dizer para um espectador médio de cinema que se ele quiser transcender na cinefilia ele precisa assistir às obras de Andrei Tarkovsky já não é nem maldade: é tortura pura.
 
-Mas é verdade. Cineasta russo da época soviética, seu pai ou avô foi um famoso poeta e seu filho agora segue os passos do pai (um documentário sobre Andrei de sua autoria passou na Mostra de SP de 2019). O diretor de Solaris, Stalker, entre outros, não é apenas um habilidoso cineasta fora do circuito narrarivo convencional: ele é um dos poucos poetas da sétima arte que figura entre os grandes.
+Mas é verdade. Cineasta russo da época soviética, seu pai ou avô foi um famoso poeta e seu filho agora segue os passos do pai (um documentário sobre Andrei de sua autoria passou na Mostra de SP de 2019). O diretor de Solaris, Stalker, entre outros, não é apenas um habilidoso cineasta fora do circuito narrativo convencional: ele é um dos poucos poetas da sétima arte que figura entre os grandes.
 
 Suas obras são imensas pérolas intimistas e pessoais que ganham a universalidade quase que por mágica.
 

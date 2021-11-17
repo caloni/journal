@@ -4,7 +4,6 @@ categories:
 date: '2021-03-13'
 link: https://www.imdb.com/title/tt0333074
 tags:
-- draft
 - movies
 title: Amarelo Manga
 ---
@@ -21,6 +20,6 @@ E no centro da cidade temos o decadente Hotel Texas, o nome de um dos curtas pre
 
 Uma coletânea de momentos soberbamente dirigidos, montados e editados, Amarelo Manga nunca peca pelos seus detalhes técnicos. Sua equipe domina a arte cinematográfica. Seu elenco é afiado em protagonizar pontas onde capricha no sotaque e nas falas teatrais. Tudo isso cria uma antologia impecável, embora sem alma.
 
-Falta conclusão nesse emaranhado de personagens e situações. E diferente de Pulp Fiction, que tem um tema e atmosfera para desenvolvê-lo, Amarelo Manga tem a virtude da narrativa sem saber muito bem o que quer desenvolver até seu final. Acaba não indo muitona fundo em nada. Vira uma curiosidade divertida e esquecível de estereótipos dançando ao sabor da edição e de uma trilha sonora característica, bem escolhida. Virtuosa.
+Falta conclusão nesse emaranhado de personagens e situações. E diferente de Pulp Fiction, que tem um tema e atmosfera para desenvolvê-lo, Amarelo Manga tem a virtude da narrativa sem saber muito bem o que quer desenvolver até seu final. Acaba não indo muito a fundo em nada. Vira uma curiosidade divertida e esquecível de estereótipos dançando ao sabor da edição e de uma trilha sonora característica, bem escolhida. Virtuosa.
 
 Mas já vimos que os problemas do filme nunca são técnicos, mas do que fazer com tanto talento.

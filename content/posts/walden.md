@@ -6,7 +6,6 @@ link: https://www.imdb.com/title/tt5024672
 tags:
 - cinemaqui
 - movies
-- draft
 title: Walden
 ---
 
@@ -14,7 +13,7 @@ Nascida em Praga nos anos 60, a cineasta Bojena Horackova busca por liberdade no
 
 Horackova já desenvolveu suas ideias sobre o passado em "A l'est de moi", um semi-documentário de 2008, mas aqui existe a possibilidade de revisitar mais uma vez a época do comunismo no Leste Europeu em um filme que se localiza geograficamente na Lituânia e é falado em um idioma que pouquíssimas pessoas fora da região conhecem.
 
-Apesar da barreira da língua a história é bem comum: casal de jovens decide que é hora de partir do inferno do comunismo em busca de oportunidades na Europa civilizada. Há empecilhos que ambos devem transpor primeiro, mas a primeira delas é entender o quê querem da vida.
+Apesar da barreira da língua a história é bem comum: casal de jovens decide que é hora de partir do inferno do comunismo em busca de oportunidades na Europa civilizada. Há empecilhos que ambos devem transpor, mas o primeiro delos é entender o quê querem da vida.
 
 Ele é o que mais deseja partir. Vivendo com os pais e a avó em uma casa que é um cubículo, revende itens no mercado negro até surgir a chance de passar a fronteira.
 
