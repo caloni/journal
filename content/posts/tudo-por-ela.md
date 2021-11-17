@@ -6,7 +6,6 @@ link: https://www.imdb.com/title/tt14164234
 tags:
 - cinemaqui
 - movies
-- draft
 title: Tudo Por Ela
 ---
 
@@ -20,7 +19,7 @@ A cena do assassinato é de uma beleza ímpar. Não apenas pelo nu de Kiko Muzuh
 
 Então ocorre o primeiro flashback. E o segundo. Caminhamos pelas suas emoções represadas por décadas. E finalmente a entendemos. Ou pensamos entender. O filme tenta tornar essa fagulha da paixão de juventude em algo mais. Verbaliza demais. E nessa hora parte para o vazio dos lugares comuns.
 
-Há um melodrama envolvendo essa história que foge dos rótulos fáceis de amor e amizade. Está mais próximo de fascinação. A micro-sinopse da Netflix nos diz: "Rei ajuda a mulher dos seus sonhos a escapar do seu marido violento. Durante a fuga, o sentimentos das duas pegam fogo. Censura 18." Claro que é injusto julgar chamadas de duas frases em um catálogo gigante de streaming, e é certo entender que o filme é muito mais que isso. Infelizmente nem o filme tem muita ideia do quão mais, se perdendo em conjecturas que nenhum espectador questionou.
+Há um melodrama envolvendo essa história que foge dos rótulos fáceis de amor e amizade. Está mais próximo de fascinação. A microssinopse da Netflix nos diz: "Rei ajuda a mulher dos seus sonhos a escapar do seu marido violento. Durante a fuga, o sentimentos das duas pegam fogo. Censura 18." Claro que é injusto julgar chamadas de duas frases em um catálogo gigante de streaming, e é certo entender que o filme é muito mais que isso. Infelizmente nem o filme tem muita ideia do quão mais, se perdendo em conjecturas que nenhum espectador questionou.
 
 Ao tentar explicar a bela história e argumento conduzidos pelo sexagenário diretor Ryuichi Hiroki ambos viram mais do mesmo. Mas é um mais do mesmo belo, poético, e com cenas explícitas lembrando o soft porn Azul é A Cor Mais Quente. Hiroki gosta de transitar por suas cenas movendo o ângulo da câmera em 180 graus. É bonito de se ver, embora na maioria das vezes discutível. Há apenas um momento em que o movimento está embutido de significado, que é quando as duas, fugindo de carro, começam a atravessar uma longa ponte, e a vemos se afastando. No girar da câmera a fuga se transforma no início de um road movie, e agora o carro se aproxima de nós. E se foi talvez a última cena impecável de um longa de mais de duas horas de duração.
 
@@ -30,4 +29,4 @@ Mas esqueça o lesbianismo, esse filme não foca inteiramente nisso, até porque
 
 A destreza com que Ride or Die (o título original, cafona e divertido do filme) muda os parâmetros e motivações de suas personagens seria divertidíssimo se o filme não começasse a se levar a sério da metade para o final. Caindo na armadilha de sair da trilha de Amado Batista e começar a tocar um Roberto Carlos mais clássico, passando dos cinquenta, a fascinante discussão metalinguística sobre filmes de paixões arrebatadoras no mundo contemporâneo vira algo sério. Mas essas meninas já deixaram de ser sérias na primeira curva da estrada. Antes seus olhares em ultraclose diziam muito mais. Agora elas abriram a boca e colocaram tudo por água abaixo.
 
-Ao introduzir personagens já no terceiro ato, Tudo Por Ela nos confessa não ter tido a frieza de esquematizar melhor essas duas horas e meia de emoções. É a paixão que pega fogo rápido e logo apaga, sem a intensidade com que merece ser tratado o drama da violência e do amor exarcebado. Fica a imagem dos seios ensanguentados de Rei nos primeiros quinze minutos de filme. Essa cena merecia um filme mais digno de ser mostrada.
+Ao introduzir personagens já no terceiro ato, Tudo Por Ela nos confessa não ter tido a frieza de esquematizar melhor essas duas horas e meia de emoções. É a paixão que pega fogo rápido e logo apaga, sem a intensidade com que merece ser tratado o drama da violência e do amor exacerbado. Fica a imagem dos seios ensanguentados de Rei nos primeiros quinze minutos de filme. Essa cena merecia um filme mais digno de ser mostrada.
