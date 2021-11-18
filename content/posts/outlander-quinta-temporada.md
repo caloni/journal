@@ -5,7 +5,7 @@ date: '2021-06-12'
 link: https://www.imdb.com/title/tt3006802
 tags:
 - draft
-- movies
+- series
 title: Outlander Quinta Temporada
 ---
 
