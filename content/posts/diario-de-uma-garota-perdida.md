@@ -2,9 +2,7 @@
 categories:
 - reviews
 date: '2021-06-25T13:13:00+03:00'
-link: 'null'
 tags:
-- draft
 - movies
 title: Diário de Uma Garota Perdida
 ---

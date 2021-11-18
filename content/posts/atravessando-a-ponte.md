@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2021-07-05T21:51:00-03:00'
 tags:
-- draft
 - movies
 title: Atravessando a Ponte
 ---
