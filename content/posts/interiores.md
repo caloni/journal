@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2021-09-03T21:53:04-03:00'
 tags:
-- draft
 - movies
 title: Interiores
 ---
@@ -14,4 +13,4 @@ Bom, esta não é uma comédia de Allen. Sua direção nos sufoca em incessantes
 
 Não é um filme fácil. Sua inexistente trilha sonora nos joga para o silêncio ensurdecedor de diálogos dessa família que vive o clichê de serem muito iguais, mas não exatamente. Então há uma rixa interna de relacionamento entre as três irmãs e cunhados acerca do impulso criativo de toda a família, de sangue ou não, e a inevitável cisão de mãe e pai é o epicentro dos rancores aflorados.
 
-Esta seria uma ótima peça de teatro, mas a direção nos entrega uma intimidade impossível de atingir no palco. Então não são apenas os diálogos, muitas vezes brilhantes, outras um pouco de mais, outras um pouco de menos, faltando lustre. Nenhuma fala é desinteressante. As piores apenas não estão no contexto do filme, e soam soltas. Poderiam estar em outros trabalhos do roteirista.
+Esta seria uma ótima peça de teatro, mas a direção nos entrega uma intimidade impossível de atingir no palco. Então não são apenas os diálogos, muitas vezes brilhantes, outras um pouco de mais, outras um pouco de menos, faltando lustrar. Nenhuma fala é desinteressante. As piores apenas não estão no contexto do filme, e soam soltas. Poderiam estar em outros trabalhos do roteirista.

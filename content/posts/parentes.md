@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2021-09-25T21:15:21-03:00'
 tags:
-- draft
 - cinemaqui
 - movies
 title: Parentes
@@ -19,4 +18,4 @@ Há muitos momentos divertidos nesse filme, que fazem rir com aquele tom de estr
 
 Este é também um filmes sobre família, e há lindos momentos de harmonia entre parentes, que se tornam mais lindos justamente por causa dos momentos vergonha alheia logo atrás. Então entendemos a odisseia do medíocre. Tudo faz sentido no final, mas é difícil chegar até lá.
 
-Muitas piadas estão soltas que soam boas ideias no papale e são filmadas sem pensar no todo. Roubar pães ou repintar a lápide da mãe não são detalhes que se encaixam na história, mas por isso mesmo ela acaba ganhando uma aura mais realista, menos esquemático de um roteiro onde nada sobra ou falta. Por não ser muito esperto o filme acaba ganhando dimensão. Que surpresa o diretor deve ter tido ao assistir o resultado.
+Muitas piadas estão soltas que soam boas ideias no papel e são filmadas sem pensar no todo. Roubar pães ou repintar a lápide da mãe não são detalhes que se encaixam na história, mas por isso mesmo ela acaba ganhando uma aura mais realista, menos esquemático de um roteiro onde nada sobra ou falta. Por não ser muito esperto o filme acaba ganhando dimensão. Que surpresa o diretor deve ter tido ao assistir o resultado.

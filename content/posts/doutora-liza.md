@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2021-09-25T21:17:09-03:00'
 tags:
-- draft
 - cinemaqui
 - movies
 title: Doutora Liza
@@ -11,7 +10,7 @@ title: Doutora Liza
 
 Esta é uma biografia louvável, que você irá descobrir que é baseada na história de vida de Elizaveta Petrovna Glinka, uma humanitária e palioativista russa. Os palioativistas são pessoas que auxiliam outras a diminuir sua dor frente as agruras do mundo. Eles não são a solução final, são um tapinha nas costas e uma sopa quente. No caso de Glinka é muito mais que isso: são todos os seus dias, de corpo e alma. Ela só consegue respirar quando está ajudando as pessoas em sua volta. Não digo que literalmente ela só consiga respirar nessa condição, mas é o que sentimos nesse soberbo, tenso, compenetrante filme.
 
-O trabalho de roteiro é louvável porque não segue a cartilha de santificar ou explicar os eventos da vida da pessoa que homenageia. Esta é uma ficção que recira um dia na vida de Liza que exemplifica como foi sua vida inteira. Poético e poderoso. Ela começa rua rotina normal e de repente precisa conseguir morfina rápido para uma criança doente terminal, e de repente não sabemos se essa é sua rotina normal ou um dia atípico. Em seu semblante vemos a expressão da rotina. Não uma expressão cansada, no entanto. Ela brilha enquanto se move e abre caminho para que todos estejam bem.
+O trabalho de roteiro é louvável porque não segue a cartilha de santificar ou explicar os eventos da vida da pessoa que homenageia. Esta é uma ficção que recria um dia na vida de Liza que exemplifica como foi sua vida inteira. Poético e poderoso. Ela começa rua rotina normal e de repente precisa conseguir morfina rápido para uma criança doente terminal, e de repente não sabemos se essa é sua rotina normal ou um dia atípico. Em seu semblante vemos a expressão da rotina. Não uma expressão cansada, no entanto. Ela brilha enquanto se move e abre caminho para que todos estejam bem.
 
 Seus empecilhos são as leis burocráticas russas e em consequência seus executores, simbolizados pela figura do policial que a persegue o dia inteiro. Porém, o policial vai acabar se envolvendo no processo humanitário do trabalho de Liza, mas nada é forçado. É um processo amplo e gradual de duas horas. Você nem percebe o que está acontecendo no filme porque ele passa voando. As cena aéreas de Moscou, sempre em movimento, criam uma rima com Liza, que também nunca está parada. Seu almoço é trazido pelo marido e filho e ela engole em questão de minutos. Troca algumas frases com eles e volta à labuta.
 

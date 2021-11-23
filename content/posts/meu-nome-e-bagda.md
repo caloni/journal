@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2021-09-13T23:04:48-03:00'
 tags:
-- draft
 - movies
 - cinemaqui
 title: Meu Nome é Badgá

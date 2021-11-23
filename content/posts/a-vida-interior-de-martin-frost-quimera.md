@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2021-08-08T21:37:24-03:00'
 tags:
-- draft
 - movies
 title: A Vida Interior de Martin Frost
 ---

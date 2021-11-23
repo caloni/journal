@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2021-09-25T21:15:35-03:00'
 tags:
-- draft
 - cinemaqui
 - movies
 title: Luta

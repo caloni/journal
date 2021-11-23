@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2021-09-10T21:19:07-03:00'
 tags:
-- draft
 - movies
 title: O Que os Homens Falam
 ---
