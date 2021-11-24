@@ -24,5 +24,7 @@ Se você guardar o mínimo de conhecimento que aprendeu em um dia de sua vida e 
 
  - 2020-12-08: é possível abrir uma VPN pelo WSL e direcionar a porta RDP de uma máquina remota para uma porta local no Windows e acessar máquinas via RDP em uma porta local. Para a VPN uso o Openvpn. Para o redirect um projeto no GitHub chamado [rinetd].
 
+ - 2021-11-22: quando fechamos um socket no Windows na parte cliente ele fica uns 4 minutos ainda no estado TIME_WAIT, o que está certo de acordo com o protocolo TCP/IP. No entanto, nem sempre a arquiteta consegue dar conta desse comportamento, como quando infinitas conexões e desconexões estão acontecendo. Nesse caso o jeito é liberar o socket o mais rápido possíve. E existe um jeito, bem específico. É preciso setar a opção de linger como 0, chamar o shutdown apenas para RECEIVE e aí sim fechar a conexão. Funciona de imediato. Porém, deve ser usado com moderação, pois um socket que está rapidamente disponível para o sistema pode conter bytes vindos da outra ponta que serão ainda processados. Eu não sei se isso pode ocorrer de fato, foi uma observação que vi no fórum onde encontrei a solução do linger. Fica o aviso.
+
 [rinetd]: https://github.com/boutell/rinetd
 [jardim digital]: https://joelhooks.com/digital-garden
