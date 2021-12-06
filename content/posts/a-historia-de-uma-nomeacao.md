@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2021-10-02T22:19:42-03:00'
 tags:
-- draft
 - cinemaqui
 - movies
 title: A História de uma Nomeação

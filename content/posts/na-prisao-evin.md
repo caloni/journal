@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2021-10-27T22:30:15-03:00'
 tags:
-- draft
 - movies
 - cinemaqui
 title: Na Prisão Evin

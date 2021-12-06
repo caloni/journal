@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2021-10-16T12:11:57-03:00'
 tags:
-- draft
 - cinemaqui
 - movies
 title: I Comete - Um Verão na Córsega

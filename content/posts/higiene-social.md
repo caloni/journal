@@ -5,7 +5,6 @@ date: '2021-10-12T12:38:11-03:00'
 tags:
 - cinemaqui
 - movies
-- draft
 title: Higiene Social
 ---
 
@@ -13,7 +12,7 @@ O nome Higiene Social para um filme pós-pandemia pode querer dizer muitas coisa
 
 Eles também estão em um espaço aberto, o campo, junto de vaquinhas, mato e árvores. Eles poderiam estar no teatro para dizer suas falas e não faria muita diferença do ponto de vista do espectador. Bom, seria um espaço fechado e teríamos que evitar lotação, passar álcool gel, estar de máscara e estar com a carteirinha de vacinação em dia. Você já está pronto para sua quarta dose em 2022?
 
-Voltando (ou começando) a história, ela trata das tentativas deste homem se livrar de quatro mulheres em sua vida: sua irmã, sua esposa, sua amada, sua vítima de um de seus roubos e sua fiscal do imposto de renda. Haja verbetes para conseguir se salvar!
+Voltando (ou começando) a história, ela trata das tentativas deste homem se livrar de cinco mulheres em sua vida: sua irmã, sua esposa, sua amada, sua vítima de um de seus roubos e sua fiscal do imposto de renda. Haja verbetes para conseguir se salvar!
 
 O homem fala e fala, mas elas não arredam o pé. Todos estão vestidos à moda antiga porque esta história é praticamente atemporal, mas o real motivo é porque o discurso é pomposo, sujeito a inúmeros devaneios. Há mais devaneios do que "conversa produtiva".
 

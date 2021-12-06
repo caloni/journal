@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2021-10-24T21:50:33-03:00'
 tags:
-- draft
 - movies
 - cinemaqui
 title: Laranjas Sangrentas
@@ -17,4 +16,4 @@ Uma cena é praticamente a mesma de Pulp Fiction, quando o líder de uma gangue 
 
 A segunda cena é a mais catártica, hilária e fantasiosa. Uma licença poética das feministas que defendem vingança violenta contra homens violentos. Aliás, quem defende isso nem os chamam de homens. Animais, mesmo. Dou todo o apoio. Pela maior dor e sofrimento possível, por favor. Essa cena é imperdível, apesar de perder as estribeiras do real, fugindo um pouco desse tecido levemente desproporcional que é o filme.
 
-No meio de algumas loucuras o que mais sobressai no filme é um frescor de linguagem e diálogos soltos, cotidianos, que nos fazem pertence à discussão. O roteirista Jean-Christophe não está interessado em defender lados, mas pincelar um pouco de contemporaneidade de todos os lados. Há representação para todo mundo nesse caos que estamos vivendo. Um caos divertidos para alguns (eu incluso) e trágicos para a maioria. Se você faz parte da maioria, não desanime. Vai piorar. Venha assistir TV e curtir os melhores momentos da derrocada da sociedade.
+No meio de algumas loucuras o que mais sobressai no filme é um frescor de linguagem e diálogos soltos, cotidianos, que nos fazem pertencer à discussão. O roteirista Jean-Christophe não está interessado em defender lados, mas pincelar um pouco de contemporaneidade de todos os lados. Há representação para todo mundo nesse caos que estamos vivendo. Um caos divertido para alguns (eu incluso) e trágico para a maioria (ops, foi mal). Se você faz parte da maioria, não desanime. Vai piorar. Venha assistir TV e curtir os melhores momentos da derrocada da sociedade.

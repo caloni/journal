@@ -3,13 +3,12 @@ categories:
 - reviews
 date: '2021-10-31T13:25:32-03:00'
 tags:
-- draft
 - movies
 - cinemaqui
 title: A Lei
 ---
 
-A Lei funciona assim: um desses maconheiros de elite, de vanguarda, pós-moderno, usando metalinguagem, fazendo livres associações, decide que vai fazer um filme sobre "todas essas porra aí". Ele monta um texto pra ser dito em primeira pessoa, escrito errado e com palavrões para soar certo com a vida real (como neste parágrafo). Seu objetivo? Comer umas ninfetinha maconheira por aí, lógico. Isso e ganhar dinheiro.
+A Lei funciona assim: um desses maconheiros de elite, de vanguarda, pós-moderno, usando metalinguagem, fazendo livres associações, decide que vai fazer um filme sobre "todas essas porra aí". Ele monta um texto pra ser dito em primeira pessoa, escrito errado e com palavrões para soar certo com a vida real (como neste parágrafo). Seu objetivo? Comer umas ninfetinhas maconheiras por aí, lógico. Isso e ganhar dinheiro.
 
 Porém, as leis de incentivo à "cultura" estão sendo remodeladas, ou nos termos da esquerda, desmontadas. Então falta dinheiro para estes projetos mais experimentais. Como a Resistência não pode parar a solução é filmar tudo em um boteco de esquina em uma sequência só. Isso sim, é vanguarda. Pós-modernista. Metalinguagem. Essas porra aí. E barato. A equipe já come no estabelecimento. Fecha um pacotão pra descontar da mais-valia (na real do salário dos funcionários).
 

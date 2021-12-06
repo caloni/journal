@@ -3,12 +3,11 @@ categories:
 - reviews
 date: '2021-10-14T22:22:40-03:00'
 tags:
-- draft
 - movies
 title: Flor do Meu Segredo
 ---
 
-Eu sempre penso que já vi um Almodóvar. Sobretudo os antigos. Devo ter visto no Belas Artes, esse antro artístico da Augusta/Consolação na capital paulista, há muito tempo atrás. Ou não. O diretor é repetitivo como Woody Allen, mas isso é ótimo, pois o estilo de ambos podem ser repetidos à exaustão. Quando estão em forma ninguém segura o amor desses dois pelo cinema.
+Eu sempre penso que já vi um Almodóvar. Sobretudo os antigos. Devo ter visto no Belas Artes, esse antro artístico da Augusta/Consolação na capital paulista, há muito tempo atrás. Ou não. O diretor é repetitivo como Woody Allen, mas isso é ótimo, pois o estilo de ambos pode ser repetido à exaustão. Quando estão em forma ninguém segura o amor desses dois pelo cinema.
 
 E no caso de Almodóvar o amor pelo cinema, pela Espanha, pelas mulheres, pelas criaturas que conversam em seu imaginário, de suas memórias. Almodóvar é autêntico, e seus personagens acabam sendo também. E não tem como desgostar de personagens autênticos. Você pode achar a trama fraca e novelesca, mas seus personagens têm pertencimento, por onde quer que andem no universo almodovariano.
 

@@ -3,13 +3,12 @@ categories:
 - reviews
 date: '2021-10-04T20:40:55-03:00'
 tags:
-- draft
 - movies
 - cinemaqui
 title: Confissões de uma Garota Excluída
 ---
 
-Vamos recapitular como funciona o roteiro de Confissões de uma Garota Excluída para entender o que há de errado com o mundo: ele começa com o drama particular de uma garota normal que quer se sentir especial e desejada por garotos mais lindos do que ela; então ela chega na sala de aula com a auto-estima lá embaixo e carente de amizades; logo ela encontra os outros excluídos, que se juntam para fazer uma crítica social disruptiva sobre o papel dos jovens nesse milênio que se encaixam fora da caixa do que era considerado esteticamente aceitável no século passado, e por fim decidem que basta existir para ter direito à felicidade. Fofo, não?
+Vamos recapitular como funciona o roteiro de Confissões de uma Garota Excluída para entender o que há de errado com o mundo: ele começa com o drama particular de uma garota normal que quer se sentir especial e desejada por garotos mais lindos do que ela; então ela chega na sala de aula com a autoestima lá embaixo e carente de amizades; logo ela encontra os outros excluídos, que se juntam para fazer uma crítica social disruptiva sobre o papel dos jovens nesse milênio que se encaixam fora da caixa do que era considerado esteticamente aceitável no século passado, e por fim decidem que basta existir para ter direito à felicidade. Fofo, não?
 
 Questões nunca vistas no cinema estão neste trabalho inovador que discute sobre bullying, pelos em mulheres, festas de aniversário com tema anos 60 (com música do ano passado) e a vovó zoando a neta a cada oportunidade. Um festival de humor misturado com cartilha social. Eu nem sei o que deve ser drama e o que é comédia. Não tenho sensibilidade suficiente para entender essa molecada que nasceu ontem. São espertos, simpáticos e possuem o super-poder da juventude, onde todo mundo é lindo e sarado (ou quase), mas as mentes estão zumbificadas, petrificadas, e quem tem conhecimentos básicos de biologia aos 16 anos é considerada uma gênia.
 

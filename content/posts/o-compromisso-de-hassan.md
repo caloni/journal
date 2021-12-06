@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2021-10-21T22:22:02-03:00'
 tags:
-- draft
 - movies
 - cinemaqui
 title: O Compromisso de Hassan

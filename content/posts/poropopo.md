@@ -3,13 +3,12 @@ categories:
 - reviews
 date: '2021-10-23T23:07:49-03:00'
 tags:
-- draft
 - movies
 - cinemaqui
 title: Poropopó
 ---
 
-Quando os palhaços chegam no cinema não sabemos mais se é a linguagem do cinema que faz rir ou é a linguagem dos palhaços que faz cinema. De qualquer forma, Poropopó é o primeiro filme dirigido pelo artista circense Luís Antônio Igreja está em cartaz nessa Mostra de São Paulo para quebrar um pouco o ritmo incessante dos dramas da vida real.
+Quando os palhaços chegam no cinema não sabemos mais se é a linguagem do cinema que faz rir ou é a linguagem dos palhaços que faz cinema. De qualquer forma, Poropopó é o primeiro filme dirigido pelo artista circense Luís Antônio Igreja e está em cartaz nessa Mostra de São Paulo para quebrar um pouco o ritmo incessante dos dramas da vida real.
 
 Aqui tudo funciona e não precisa de legenda, pois é usada a linguagem universal dos palhaços: gestos. A história é sobre uma família de palhaços que vivia em um circo itinerante e resolvem tentar vida nova em uma cidade. Eles enxergam a realidade em sua volta do ponto de vista de um palhaço, eles não deixam os narizes vermelhos quando saem do picadeiro. É o mundo invertido, o que já causa estranheza desde o início, e nos faz pensar ao inverso, o que já é uma diversão à parte.
 

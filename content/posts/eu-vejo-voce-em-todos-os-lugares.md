@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2021-10-25T22:04:08-03:00'
 tags:
-- draft
 - movies
 - cinemaqui
 title: Eu Vejo Você em Todos os Lugares
