@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2021-11-13T15:54:02-03:00'
 tags:
-- draft
 - movies
 - cinemaqui
 title: Quero Uma Vida Com Você

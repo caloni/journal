@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2021-11-08T19:01:58-03:00'
 tags:
-- draft
 - movies
 - cinemaqui
 title: A Arca do Sr. Chow
@@ -21,6 +20,6 @@ Justamente por isso este método tem sido alvo de inúmeras críticas dos que ch
 
 A Arca do Sr. Chow torna tudo isso explícito e gritante quando coloca esse grupo de superdotados no circo que é uma universidade. Todos os outros alunos assediam moralmente os recém-chegados por serem muito inteligentes. A reação básica dos homens é violência física. Das mulheres sedução seguido de humilhação. Hoje em dia se chama de bullying a abordagem masculina. A feminina não se chama de nada, mas as vítimas ganham um novo rótulo: incel. Isso quer dizer que as vítimas masculinas são culpadas pelo assédio moral feminino. O filme demonstra isso da forma mais dolorosa: uma única garota vira a paixão de todos os homens da trupe e motivo de ciúmes da única integrante feminina do grupo de gênios.
 
-A Arca do Sr. Chow não quer ser impopular, e por isso segue uma direção e roteiro convencionais, apesar de estupidamente divertidos. Nunca vi material recente tão subersivo enquanto clichê. Nós nos divertimos com Fung, o garoto de 11 anos que mal chegou na puberdade, mas já tem planos para explorar o espaço. Nós nos encantamos com Dafa e seu esoterismo que encontra as respostas exatas da matemática por meios misteriosos. Nós nos compadecemos da discrição de Lan, cujos sentimentos entendemos e é talvez a que mais nos identificamos, pois ela é incompreendida por ambos os grupos, gênios e não-gênios.
+A Arca do Sr. Chow não quer ser impopular, e por isso segue uma direção e roteiro convencionais, apesar de estupidamente divertidos. Nunca vi material recente tão subversivo enquanto clichê. Nós nos divertimos com Fung, o garoto de 11 anos que mal chegou na puberdade, mas já tem planos para explorar o espaço. Nós nos encantamos com Dafa e seu esoterismo que encontra as respostas exatas da matemática por meios misteriosos. Nós nos compadecemos da discrição de Lan, cujos sentimentos entendemos e é talvez a que mais nos identificamos, pois ela é incompreendida por ambos os grupos, gênios e não-gênios.
 
 Este filme de fundo bibliográfico dirigido por Yang Xiao é ágil e dinâmico. Realiza infinitas transições de um amontoado de eventos que é difícil de lembrar, pois são muitos, e são caóticos, por mais que o roteiro tente amarrar em símbolos e momentos de farofada com música solene. Ele é autêntico, pois a única forma de nos conquistar a simpatia é querer ir além do desafio de matemática que um dia foi o motivo dessa empreitada. E ele é bem produzido, fotografado e enquadrado, como uma arte exótica: referenciar heróis que nunca se tornaram em uma narrativa que não se pode confiar.

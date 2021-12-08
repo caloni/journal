@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2021-10-23T12:19:59-03:00'
 tags:
-- draft
 - movies
 - cinemaqui
 title: A Garota e A Aranha
