@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2021-11-16T21:36:17-03:00'
 tags:
-- draft
 - movies
 title: Moulin Rouge
 ---
@@ -16,6 +15,6 @@ Começa o filme. Já estou com minhas mãos sujas de manteiga. A primeira sequê
 
 Estamos em 2001. A montagem de vídeo-clipe está na moda. É a era pós-Matrix, com efeitos sendo a sensação. Sobe um sentimento poderoso sobre o brega e o pop que tomam conta do meu coração. A adaptação de Like a Virgin foi simplesmente a gota d'água. Este filme se torna oficialmente um show de horrores delicioso de se ver. Não consigo desgrudar os olhos e os ouvidos da tela.
 
-Estou apaixonado. Uma paixão relâmpago como a de Nicole quando olha para Ewan, ainda garoto, cantando sem filtros. E Moulin Rouge é o musical mais gritantemente editado da história. Tudo é falso nesse filme que canta sobre o amor. O joguete é explícito e delicioso de se ver. Nicole está possuída na cena em sua suíte-elefante. McGregor acredita de fato ter a representação de todos os príncipes dos contos de fada encarnado em um boêmio escritor que conhece pela primeira vez absinto antes do que é o amor de verdade. Ele vive a ilusão enquanto nós a respiramos na sala de cinema, infectada com Moulin-Rougeness.
+Estou apaixonado. Uma paixão relâmpago como a de Nicole quando olha para Ewan, ainda garoto, cantando sem filtros. E Moulin Rouge é o musical mais gritantemente editado da história. Tudo é falso nesse filme que canta sobre o amor. O joguete é explícito e delicioso de se ver. Nicole está possuída na cena em sua suíte-elefante. McGregor acredita de fato ser a representação de todos os príncipes dos contos de fada encarnado em um boêmio escritor que conhece pela primeira vez absinto antes do que é o amor de verdade. Ele vive a ilusão enquanto nós a respiramos na sala de cinema, infectada com Moulin-Rougeness.
 
 Hoje, 20 anos depois, revejo este filme com outros olhos. Olhos mais cínicos, talvez. Mas ainda gosto do que vejo. Não bateria palmas como bati (mentalmente) na sala de cinema naquele fim de noite, indo embora pedalando leve e feliz, cantarolando Material Girl. Lá eu queria acreditar no amor. Nossa época não cabe mais essa crença. Algo mudou ou eu mudei? Não consigo assistir a este filme como se fosse a minha primeira vez?

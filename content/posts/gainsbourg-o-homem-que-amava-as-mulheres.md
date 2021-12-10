@@ -3,9 +3,8 @@ categories:
 - reviews
 date: '2021-12-05T21:28:09-03:00'
 tags:
-- draft
 - movies
-title: Gainsbourg O Homem Que Amava as Mulheres
+title: Gainsbourg - O Homem Que Amava as Mulheres
 ---
 
 Serge Gainsbourg é o icônico músico que criou aquela música inesquecível sobre amor lascivo: Je t'aime... moi non plus. Essas poucas notas mescladas com sons de prazer incompreensível pela racionalidade, mas palpável de todos os ângulos pelo nosso ser interior, é um dos ápices na história da música recente que merece ser celebrada. Gainsbourg também merece ser celebrado por dois motivos distintos: 1) por ter criado inúmeras músicas fora a já citada que misturam gêneros e chacoalha nossa percepção de mundo ordenado, e 2) por ter participado na geração de sua filha Charlotte Gainsbourg, uma atriz francesa que gosto muito. Bem feito, Gainsbourg.

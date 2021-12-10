@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2021-11-14T20:45:55-03:00'
 tags:
-- draft
 - movies
 - cinemaqui
 title: Yuan Longping

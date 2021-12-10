@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2021-11-16T21:36:36-03:00'
 tags:
-- draft
 - movies
 - cinemaqui
 title: Turbilhão

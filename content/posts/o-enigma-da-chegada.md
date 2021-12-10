@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2021-11-17T19:43:31-03:00'
 tags:
-- draft
 - movies
 - cinemaqui
 title: O Enigma da Chegada
