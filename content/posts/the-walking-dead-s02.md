@@ -4,7 +4,6 @@ categories:
 date: '2013-04-03'
 link: https://www.imdb.com/title/tt1520211
 tags:
-- draft
 - series
 title: The Walking Dead - Segunda Temporada
 ---
@@ -15,7 +14,7 @@ Baseado na criação de Frank Darabont e com a participação de inúmeros rotei
 
 O ritmo é lento, se arrasta em cômodos 13 episódios. Mas esse não é o problema fundamental da série. Afinal, Breaking Bad se aproveitava do marasmo para criar sua tensão psicológica. Só que em TWD a tensão fica em suas bordas, salpicado aqui e ali com algumas cenas mais fortes. Tirando um zumbi ou outro que aparece quase sempre de repente, podemos dizer que essas pessoas estão tirando umas merecidas férias no campo depois de terem visto Atlanta se dissipar em uma fogueira de humanos. Agora é a tensão entre os humanos que cria o drama.
 
-Sem muito o que dizer em sua narrativa além de uma possível discussão moral a respeito da lei natural do mais forte, a história se limita em usar o artifício de pessoa ferida, convenientemente inserindo um médico (Hershel, Scott Wilson) Ele, aliás, possui uma crença particularmente peculiar a respeito dos zumbis (ou errantes, como de fato chamam a criatura na série e legendada de forma errada na versão brasileira). Essa maneira atípica de encarar essas criaturas faz sentido vindo de um profissional que dedicou sua vida salvando vidas e constitui a parte que melhor sintetiza a bondade nesse mundo dos avessos.
+Sem muito o que dizer em sua narrativa além de uma possível discussão moral a respeito da lei natural do mais forte, a história se limita em usar o artifício de pessoa ferida, convenientemente inserindo um médico (Hershel, Scott Wilson). Ele, aliás, possui uma crença particularmente peculiar a respeito dos zumbis (ou errantes, como de fato chamam a criatura na série e legendada de forma errada na versão brasileira). Essa maneira atípica de encarar essas criaturas faz sentido vindo de um profissional que dedicou sua vida salvando vidas e constitui a parte que melhor sintetiza a bondade nesse mundo dos avessos.
 
 Sem medo de repetir os mesmos conflitos e dúvidas, o novo episódio de suicídio, por exemplo, não consegue trazer à tona as mesmas reflexões da primeira temporada. Ele acaba gerando o efeito contrário, banalizando o ato, assim como a morte de maneira geral. Será que já estamos no inferno e não sabemos? Essas almas errantes em que se transformaram os humanos, talvez já esteja habitando também o mundo dos vivos.
 
