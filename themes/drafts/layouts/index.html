@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+  <head>
+    <title>Blogue do Caloni (Rascunhos)</title>
+    <meta http-equiv="content-type" content="text/html; charset=utf8">
+  </head>
+
+  <body style="min-height:100vh;display:flex;flex-direction:column">
+
+    <h2 id="text" style="page-break-before: always;">E Deus disse: 'int main() {}'. E pronto: surgiu o primeiro erro de compilação...</h2>
+    {{ range .Site.RegularPages.ByDate }}
+      {{ if in .Params.tags "draft" }}
+        <h3 class="title" style="page-break-before: always" id="{{ .File.ContentBaseName }}">{{ if .Title }}{{ .Title }}{{ else }}{{ .File.TranslationBaseName }}{{ end }}</h3>
+        {{ if .Date.After (time "2001-01-01")}}
+          <i>{{ $.Site.Params.author }}, {{ .Date.Format "2006-01-02" }}</i>
+        {{ end }}
+        {{ .Content }}
+        {{ if .Date.After (time "2001-01-01")}}
+            <span>{{ if .Params.categories }} {{ range .Params.categories }} <a href="#categories-{{ . | urlize }}">{{ . }}</a> {{ end }}{{ end }}
+            {{ if .Params.tags }} {{ range .Params.tags }} <a href="#tags-{{ . | urlize }}">{{ . }}</a> {{ end }}{{ end }}</span>
+        {{ end }}
+      {{ end }}
+    {{ end }}
+
+    <div id="end" style="page-break-before: always;"><p>Obrigado por revisar! =)</p><p>Blogue do Caloni {{ .Date.Format "2006" }}. {{ .Site.Copyright }}</p></div>
+
+  </body>
+</html>
