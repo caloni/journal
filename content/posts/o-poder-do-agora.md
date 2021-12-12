@@ -4,7 +4,6 @@ categories:
 date: '2015-06-29'
 tags:
 - books
-- draft
 title: O Poder do Agora
 ---
 
@@ -24,9 +23,9 @@ O primeiro exercício que ele pede que se faça é "observar o pensador", essa v
 
 A partir desse estado de extrema consciência no presente não existem problemas, apenas situações no momento, que podem ser gerenciadas facilmente, pois agora não são apenas projeções mentais de um tempo e espaço inatingíveis: estão bem na nossa frente. E mesmo assim, a situação existe no tempo, enquanto a nossa vida é agora. Enquanto a situação de vida continua sendo uma coisa da mente, a nossa vida é muito mais: é real.
 
-# Recortes: Leitura de 2021-05 a 2021-08
+## Recortes: Leitura de 2021-05 a 2021-08
 
-## capítulo um: Você Não é Sua Mente
+### capítulo um: Você Não é Sua Mente
 
 > O pensador compulsivo – ou seja, quase todas as pessoas – vive em um estado de aparente isolamento, em um mundo povoado de conflitos e problemas.
 
@@ -63,7 +62,7 @@ A partir desse estado de extrema consciência no presente não existem problemas
 > Todos os anseios nascem da busca da mente por salvação ou satisfação nas coisas externas e no futuro, como substitutos da alegria do Ser. Se somos nossas mentes, somos aqueles anseios, aquelas necessidades, desejos, apegos e aversões. Fora deles não existe o eu, exceto como uma mera possibilidade, um potencial não preenchido, uma semente que ainda não germinou. Nessa condição, até mesmo o desejo de nos tornarmos livres ou iluminados não passa de mais um desejo a ser realizado ou concluído no futuro. Portanto, não busque se libertar do desejo ou “adquirir” a iluminação. Torne-se presente. Esteja lá, como um observador da mente. Em lugar de citar Buda, seja Buda, seja “O Iluminado”, que é o que a palavra buda significa.
 
 
-## capítulo dois: Consciência: O Caminho para o Sofrimento
+### capítulo dois: Consciência: O Caminho para o Sofrimento
 
 > O sofrimento que sentimos neste exato momento é sempre alguma forma de não aceitação, uma forma de resistência inconsciente ao que é. No nível do pensamento, a resistência é uma forma de julgamento. No nível emocional, ela é uma forma de negação. O sofrimento varia de intensidade de acordo com o nosso grau de resistência ao momento atual, e isso, por sua vez, depende da intensidade com que nos identificamos com as nossas mentes. A mente procura sempre negar e escapar do Agora. Em outras palavras, quanto mais nos identificamos com as nossas mentes, mais sofremos. Ou ainda, quanto mais respeitamos e aceitamos o Agora, mais nos libertamos da dor, do sofrimento e da mente.
 
@@ -88,7 +87,7 @@ A partir desse estado de extrema consciência no presente não existem problemas
 > O segredo da vida é “morrer antes que você morra” – e descobrir que não existe morte.
 
 
-## capítulo três: Entrando Profundamente no Agora
+### capítulo três: Entrando Profundamente no Agora
 
 > O tempo e a mente são inseparáveis. Tire o tempo da mente e ele para, a menos que você escolha utilizá-lo.
 
@@ -113,7 +112,7 @@ A partir desse estado de extrema consciência no presente não existem problemas
 > Tudo inspira respeito, mas nada importa. As formas nascem e morrem, ainda que estejamos conscientes de uma eternidade subjacente às formas. Sabemos que “nada de verdade pode ser ameaçado”.3 Quando esse é o seu estado de Ser, como é possível não alcançar o sucesso? Você já o alcançou.
 
 
-## capítulo quatro: Estratégias da Mente para Evitar o Agora
+### capítulo quatro: Estratégias da Mente para Evitar o Agora
 
 > As contas de amanhã não são um problema. A degeneração do corpo não é um problema. A perda do Agora é o problema, ou melhor, a ilusão central que transforma uma situação simples, um acontecimento ou uma emoção em um problema pessoal e em sofrimento. Perder o Agora é perder o Ser.
 
@@ -146,7 +145,7 @@ A partir desse estado de extrema consciência no presente não existem problemas
 > Nossa jornada de vida tem um propósito externo e um interno. O propósito externo é o de alcançarmos o objetivo ou destino, realizarmos o que estabelecemos cumprir, adquirirmos uma coisa ou outra, o que, é claro, envolve o futuro. Mas se o destino ou os passos que vamos dar no futuro tomam tanto nossa atenção que se tornam mais importantes do que o passo que estamos dando agora, isso significa que perdemos completamente o propósito interno da vida, que não tem nada a ver com aonde estamos indo ou com o que estamos fazendo, mas tudo a ver com de que modo. Esse propósito interno não está relacionado com o futuro, e sim com a qualidade da nossa consciência no momento presente.
 
 
-## capítulo cinco: O Estado de Presença
+### capítulo cinco: O Estado de Presença
 
 > Faça uma experiência rápida. Feche os olhos e diga: “Imagino qual será o meu próximo pensamento.” Depois fique bem alerta e espere pelo próximo pensamento. Aja como um gato espreitando o buraco do rato. Que pensamento será que vai sair do buraco do rato? Experimente já.
 
@@ -163,7 +162,7 @@ A partir desse estado de extrema consciência no presente não existem problemas
 > Ouvir o silêncio cria imediatamente uma serenidade dentro de nós. Só a serenidade dentro de nós percebe o silêncio lá fora. E o que é serenidade senão a presença, a consciência livre das formas de pensamento?
 
 
-## capítulo seis: O Corpo Interior
+### capítulo seis: O Corpo Interior
 
 > Enquanto sua mente absorver toda a sua atenção, você não conseguirá estar em conexão com o Ser. A mente absorve toda a sua consciência e a transforma em matéria mental. Você não consegue parar de pensar. O pensamento compulsivo se tornou uma doença coletiva. Tudo o que você achava que sabia a seu respeito passa a se originar da atividade mental. Sua identidade, como não tem mais raízes no Ser, se transforma em uma construção mental vulnerável e indispensável que cria o medo e este passa a ser a emoção oculta predominante. Fica faltando, então, a única coisa que realmente importa em sua vida, que é a percepção do seu eu interior mais profundo, a sua indestrutível e invisível realidade.
 
@@ -196,7 +195,7 @@ A partir desse estado de extrema consciência no presente não existem problemas
 > A maioria das relações humanas consiste principalmente na interação das mentes umas com as outras, e não de seres humanos se comunicando, ficando em comunhão. Nenhuma relação pode florescer por esse caminho, e essa é a razão de tantos conflitos nas relações. Quando a mente dirige a nossa vida, o conflito, as lutas e os problemas são inevitáveis. Estar em contato com o seu corpo interior cria um espaço de mente vazia dentro do qual a relação pode florescer.
 
 
-## capítulo sete: Portais para o Não Manifesto
+### capítulo sete: Portais para o Não Manifesto
 
 > Junte-se de tal modo ao campo de energia que você não mais perceba a dualidade entre o observador e o observado, entre você e seu corpo.
 
@@ -222,7 +221,7 @@ A partir desse estado de extrema consciência no presente não existem problemas
 
 > Todo portal é um portal da morte, da morte do falso eu.
 
-## capítulo oito: Relacionamentos Iluminados
+### capítulo oito: Relacionamentos Iluminados
 
 > A verdadeira salvação é satisfação, paz, vida em toda a sua plenitude. É ser quem somos, sentir dentro de nós o bem que não tem opositores, a alegria do Ser que não depende de nada que esteja fora de nós. Não é sentida como uma experiência passageira, mas como uma presença permanente. Na linguagem dos que creem em Deus, é “conhecer Deus”, não como algo externo a nós, mas sim como a nossa essência mais profunda. A verdadeira salvação consiste em conhecermos a nós mesmos como parte inseparável da Vida Única, livre do tempo e da forma, de onde se origina tudo o que existe.
 
@@ -252,7 +251,7 @@ A partir desse estado de extrema consciência no presente não existem problemas
 
 > Mas será que você precisa ter um relacionamento com você mesmo? Por que não ser apenas você? Quando se relaciona com você mesmo, já se dividiu em dois: “eu” e “eu mesmo”, sujeito e objeto. Essa dualidade criada pela mente é a raiz de toda complexidade desnecessária, de todos os problemas e conflitos em sua vida. No estado de iluminação, você é você mesmo – “você” e “você mesmo” se fundem em um só. Você não se julga, não sente pena de si, não se orgulha de si, não se ama, não se odeia, etc. A divisão provocada pela consciência está curada, e sua maldição, removida. Não existe um “você mesmo” que seja preciso proteger, defender ou alimentar. Quando você está iluminado, não tem mais um relacionamento consigo mesmo. Uma vez que tenha aberto mão disso, todos os seus outros relacionamentos serão de amor.
 
-## capítulo nove: Muito Além Da Felicidade E Da Infelicidade Existe A Paz
+### capítulo nove: Muito Além Da Felicidade E Da Infelicidade Existe A Paz
 
 > Perdoar o presente é até mais importante do que perdoar o passado. Se perdoarmos cada momento, se permitirmos que ele seja como é, não haverá nenhum acúmulo de ressentimento a ser perdoado mais tarde.
 
@@ -292,7 +291,7 @@ A partir desse estado de extrema consciência no presente não existem problemas
 
 > Nesse nível profundo, a compaixão se torna um remédio no sentido mais amplo. Nesse estado, a sua influência curativa se baseia não no fazer, mas no ser. Todas as pessoas com quem você mantiver contato serão tocadas pela sua presença e afetadas pela paz que você emana, quer elas estejam ou não conscientes disso. Quando estiver inteiramente presente e as pessoas à sua volta tiverem um comportamento inconsciente, você não vai sentir necessidade de reagir. A sua paz será tão grande e profunda que tudo que não for paz desaparecerá nela, como se nunca tivesse existido. Isso quebra o ciclo cármico de ação e reação. Os animais, as árvores, as flores vão sentir a sua paz e reagir a ela. Você ensinará através do ser, através da demonstração da paz de Deus. Você passará a ser a “luz do mundo”, uma emanação da pura consciência, e assim eliminará a causa do sofrimento. Você eliminará a inconsciência do mundo.
 
-## capítulo dez: O Significado da Entrega
+### capítulo dez: O Significado da Entrega
 
 > Você está andando por uma estrada à noite, com uma neblina cerrada, mas possui uma lanterna potente que corta a neblina e cria um espaço estreito e nítido na sua frente. A neblina é a sua situação de vida, que inclui o passado e o futuro. A lanterna é a sua presença consciente, e o espaço nítido é o Agora.
 

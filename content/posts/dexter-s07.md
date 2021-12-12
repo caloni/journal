@@ -1,10 +1,9 @@
 ---
 categories:
 - reviews
-date: '2014-11-09'
+date: '2014-11-09T20:00:00-03:00'
 link: https://www.imdb.com/title/tt0773262
 tags:
-- draft
 - series
 title: Dexter - Sétima Temporada
 ---
@@ -23,7 +22,7 @@ Como, por exemplo, a necessidade de Debra de reprimir o desejo assassino de seu 
 
 E se Stevenson consegue roubar a cena sempre que aparece, Michael C. Hall traz novas nuances de um personagem que vem sendo estudado há 60 horas, tornando Dexter paradoxalmente o personagem mais humano de toda a trama. Claro que os personagens secundários nunca tiveram muita chance em seus sub-dramas, mas até aqui suas histórias são menos simplistas e conseguem com pouco tempo de tela dar suporte aos temas principais.
 
-Mesmo assim os primeiros episódios de Dexter S07 vem cambaleando, tentando se acertar com o passado primoroso que se perdeu na quarta temporada. O que o faz acima da média não é roteiro nem direção, mas a "queima de cartucho" de finalmente assistirmos a irmã descobrindo seu heroi de infância é um monstro que bate de frente com seus princípios de defensora da lei. 
+Mesmo assim os primeiros episódios de Dexter S07 vem cambaleando, tentando se acertar com o passado primoroso que se perdeu na quarta temporada. O que o faz acima da média não é roteiro nem direção, mas a "queima de cartucho" de finalmente assistirmos à irmã descobrindo que seu heroi de infância é um monstro que bate de frente com seus princípios de defensora da lei. 
 
 Por mais que a forma de contar a história seja desajeitada, novelística, seu conteúdo colabora imensamente para nossa admiração.
 

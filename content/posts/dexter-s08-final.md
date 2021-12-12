@@ -1,10 +1,9 @@
 ---
 categories:
 - reviews
-date: '2014-11-09'
+date: '2014-11-09T21:00:00-03:00'
 link: https://www.imdb.com/title/tt0773262
 tags:
-- draft
 - series
 title: Dexter - O Final
 ---

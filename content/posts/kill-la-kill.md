@@ -4,9 +4,7 @@ categories:
 date: '2014-10-19'
 link: https://www.imdb.com/title/tt3114390
 tags:
-- draft
 - animes
-- series
 title: Kill La Kill
 ---
 
@@ -18,7 +16,7 @@ E por que o roteiro não é tão bom? Tirando uma ou duas reviravoltas particula
 
 A direção também comete seus pecadilhos, abusando de repetições engessadas em demasia. Podemos notar isso nos letreiros e apresentações gigantescas (mesmo que estilosas), rituais de transformação reexibidos quadro-a-quadro, como o uso da música-tema de seus personagens mesmo em momentos onde é totalmente inapropriado (como em uma batalha com uma menina que ataca pelo som de sua orquestra).
 
-Tudo isso, porém, é compensado pelas trucagens visuais e uma inspiração que transforma uma "gameficaçao" dos personagens em um apelo surreal que funciona maravilhosamente bem: um mangá exagerado e em movimento. A edição é ágil em criar sequências de quadros praticamente paralisados, mas significativos esteticamente (lembrando Dragon Ball Z e Cavaleiros do Zodíaco).
+Tudo isso, porém, é compensado pelas trucagens visuais e uma inspiração que transforma uma gamificação dos personagens em um apelo surreal que funciona maravilhosamente bem: um mangá exagerado e em movimento. A edição é ágil em criar sequências de quadros praticamente paralisados, mas significativos esteticamente (lembrando Dragon Ball Z e Cavaleiros do Zodíaco).
 
 Tenho uma queda particular por filmes (ou séries) que exploram seu tema ao máximo. No caso de Kill La Kill como o tema são as roupas, não dá para negar que é um conceito explorado desde o básico até o mais inusitado. Aliás, as roupas são um lugar-comum tão natural em um mundo dominado por cosplays que até me admiro não ter visto mais trabalhos que explorassem essa relação dos poderes dos personagens e suas roupas. e isso ganha contornos (sem trocadilho) bem mais ambiciosos ao tentar unir a academia cercada de miseráveis, a eleição natural que ocorre e uma guerra onde todos são convocados. E o que dizer quando as explicações se desdobram em cada vez mais analogias.
 

@@ -4,9 +4,8 @@ categories:
 date: '2015-03-03'
 link: https://www.imdb.com/title/tt3190448
 tags:
-- draft
 - series
-title: Metástasis (piloto)
+title: Better Call Saul e Metástasis (piloto)
 ---
 
 Tive uma experiência no mínimo curiosa esta noite. Não, não é o que você pode estar pensando se você não me conhece. Quem participou da experiência comigo foi a Netflix. E Saul Goodman, ou James McGill. E Walter White e seu alter ego latino, "Señor Blanco".
@@ -25,7 +24,7 @@ Através de um desempenho desajeitado, mas eficaz, Saul consegue salvar a vida d
 
 E onde chegamos no irretocável quarto episodio, quando aprendemos que o jovem Saul aplicava golpes que garantiam uma grana para garantir a birita da noite, mas que, principalmente serve de gancho para uma sequência que irá se desenrolar quase no outro extremo da história. Aqui a atuação de Bob Odenkirk começa a sair um pouco do arroz-com-feijão que estávamos acostumados (e que era ótimo) em Breaking Bad. Tenho bons pressentimentos sobre o desenrolar desse roteiro de Vince Gilligan e Peter Gould.
 
-Não cansado daquele universo, resolvi dar uma olhada na nova série latina que estreou também na Netflix, Metástasis. E adivinha só? É do mesmo Vince Gilligan, ajudado por mais três roteiristas e dirigido por Andrés Baiz e Andrés Biermann, que não possuem nenhuma relação com a série original. Daí você me pergunta: "e daí?" Bom, se trata do mesmíssimo roteiro, com o mesmíssimo número de episódios. Daí você me pergunta (já impaciante). "OK, e daí?" E eu já vi que você não se interessa muito pela arte cinematográfica. O. Mesmo. Roteiro. Mas. Outra. Direção! Podemos comparar a mesma história, com praticamente os mesmos diálogos, mesmas cenas, mesmos personagens, e sentir qual o verdadeiro peso de uma direção em um filme/série.
+Não cansado daquele universo, resolvi dar uma olhada na nova série latina que estreou também na Netflix, Metástasis. E adivinha só? É do mesmo Vince Gilligan, ajudado por mais três roteiristas e dirigido por Andrés Baiz e Andrés Biermann, que não possuem nenhuma relação com a série original. Daí você me pergunta: "e daí?" Bom, se trata do mesmíssimo roteiro, com o mesmíssimo número de episódios. Daí você me pergunta (já impaciente). "OK, e daí?" E eu já vi que você não se interessa muito pela arte cinematográfica. O. Mesmo. Roteiro. Mas. Outra. Direção! Podemos comparar a mesma história, com praticamente os mesmos diálogos, mesmas cenas, mesmos personagens, e sentir qual o verdadeiro peso de uma direção em um filme/série.
 
 Obviamente que não é apenas a direção que muda. Fotografia, figurino, direção de arte, atores... digamos que pelo menos o roteiro não muda. E a trilha sonora ainda está por conta de Dave Porter, que faz as trilhas de Breaking Bad e Better Caul Saul também.
 
@@ -35,4 +34,4 @@ https://www.youtube.com/embed/K-JvsP56zbk
 
 Não é preciso dizer, claro, que não se pode esperar nada próximo do Walter White de Brian Cranston, que também oferece uma atuação digna de prêmios já no piloto da temporada. Não encontrei a sequência completa, mas o momento em que ele decide pôr fim à própria vida é hilário e tocante ao mesmo tempo. (A do remake também é, mas de uma maneira engessada e pausterizada.)
 
-Ainda assim, a sensação geral foi que direções muitas vezes são supervalorizadas. Um roteiro bem escrito consegue milagres, como é provado nesse piloto de Metastasis. Um trabalho menos, de baixo orçamento, mas que se fosse o original, atrairia um público pronto para sensações diferentes do mais do mesmo (assim como eu fui fisgado alguns anos atrás por Breaking Bad).
+Ainda assim, a sensação geral foi que direções muitas vezes são supervalorizadas. Um roteiro bem escrito consegue milagres, como é provado nesse piloto de Metastasis. Um trabalho menor, de baixo orçamento, mas que se fosse o original, atrairia um público pronto para sensações diferentes do mais do mesmo (assim como eu fui fisgado alguns anos atrás por Breaking Bad).
