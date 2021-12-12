@@ -4,12 +4,11 @@ categories:
 date: '2015-07-28'
 link: https://www.imdb.com/title/tt2616280
 tags:
-- draft
 - series
 title: Derek
 ---
 
-Derek é uma série britânica totalmente dirigida e roteirizada, além de ser protagonizada, pelo comediante Ricky Gervais. Seu personagem é a espinha dorsal e moral de um lar para idosos orquestrado pela perseverante Hanna (Kerry Godliman). A câmera trabalha da mesma forma com que seu trabalho em The Office (o britânico original), como se estivessem filmando um documentário e mesmo assim as pessoas fossem elas mesmas. É um formato popular, também usado em Parks and Recreation e copiado no The Office americano. Possui no momento apenas uma temporada com seis episódios de 20 minutos cada, o que no fundo dá um filme de duas horas.
+Derek é uma série britânica dirigida e roteirizada e protagonizada pelo comediante Ricky Gervais. Seu personagem é a espinha dorsal e moral de um lar para idosos orquestrado pela perseverante Hanna (Kerry Godliman). A câmera trabalha da mesma forma com que seu trabalho em The Office (o britânico original), como se estivessem filmando um documentário e mesmo assim as pessoas fossem elas mesmas. É um formato popular, também usado em Parks and Recreation e copiado no The Office americano. Possui no momento apenas uma temporada com seis episódios de 20 minutos cada, o que no fundo dá um filme de duas horas.
 
 E é um dos seriados mais fofos atualmente.
 
@@ -21,6 +20,6 @@ O objetivo da série na primeira temporada não era entrar a fundo no estudo de 
 
 Por isso que o alcoolismo de Kev (personagem de David Earl) e o utilitarismo do novato Geoff (Colin Hoult) são pauta em um ou mais episódios, além da relação de Derek com o pai. Podemos dizer, sim, que isso constitui uma sutil, cômica e tocante análise de personagens daquele asilo, mas também no final de cada historieta conseguimos entender -- assim como nos episódios originais -- que aquelas pessoas não representam apenas elas naquele momento, mas são símbolos de comportamento humano que podemos ver em qualquer lugar. Basta abrir os olhos e desgrudá-los do seu celular.
 
-Não se dedicando mais ao choro e riso fáceis, Derek mais uma vez prova ser um seriado essencial hoje em dia, onde perdemos cada vez mais nossa humanidade, nem sempre para o utilitarismo de Geoff, nem sempre por causa do alcoolismo usado para esquecer a chatice das pessoas, mas muitas vezes nos relacionamentos tecnológicos, nas redes sociais, nos fóruns onde é fácil e barato ofender um avatar qualquer que discorda de você em uma discussão muitas vezes inútil.
+Não se dedicando mais ao choro e ao riso fáceis, Derek mais uma vez prova ser um seriado essencial hoje em dia, onde perdemos cada vez mais nossa humanidade, nem sempre para o utilitarismo de Geoff, nem sempre por causa do alcoolismo usado para esquecer a chatice das pessoas, mas muitas vezes nos relacionamentos tecnológicos, nas redes sociais, nos fóruns onde é fácil e barato ofender um avatar qualquer que discorda de você em uma discussão muitas vezes inútil.
 
-A câmera do ator/diretor/roteirista Derek navega cada vez mais naturalmente, e as falas soam cada vez mais humanas. Se torna um tanto estranho enxergar a nós mesmos naquelas pessoas que geralmente não teriam nada a ver com nossas vidas. Mais uma prova de que os seres humanos estão cada vez mais iguais, ou procurando as mesmas coisas, embora fiquemos cada vez mais enclausurados olhando insistentemente para a atualização de nosso perfil virtual, imaginário e, mais do que a vida real: efêmero.
+A câmera do ator/diretor/roteirista Derek navega naturalmente, e as falas soam cada vez mais humanas. Se torna um tanto estranho enxergar a nós mesmos naquelas pessoas que geralmente não teriam nada a ver com nossas vidas. Mais uma prova de que os seres humanos estão cada vez mais iguais, ou procurando as mesmas coisas, embora fiquemos cada vez mais enclausurados olhando insistentemente para a atualização de nosso perfil virtual, imaginário e, mais do que a vida real: efêmero.
