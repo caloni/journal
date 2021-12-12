@@ -7,6 +7,7 @@ sed -i "s/src=\"\//src=\"/g" index.html
 sed -i "s/href=\"#[a-z]\+\/[a-z.-]\+/href=\"#/g" index.html
 kindlegen.exe book.opf -o caloni-drafts.mobi
 if exist k:\ cp caloni-drafts.mobi k:\documents
+if exist k:\ rm k:\documents\caloni-drafts.han
 popd
 
 choice /M "Do you want to build the entire book (default yes in 10 seconds)?" /D Y /T 10
