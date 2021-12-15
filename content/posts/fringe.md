@@ -4,7 +4,6 @@ categories:
 date: '2015-12-12'
 link: https://www.imdb.com/title/tt1119644
 tags:
-- draft
 - series
 title: Fringe (piloto)
 ---

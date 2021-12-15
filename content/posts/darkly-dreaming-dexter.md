@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2016-08-24'
 tags:
-- draft
 - books
 title: Darkly Dreaming Dexter
 ---

@@ -4,7 +4,6 @@ categories:
 date: '2016-08-04'
 link: https://www.imdb.com/title/tt1442437
 tags:
-- draft
 - series
 title: Modern Family - Primeira Temporada, Episódios 1 ao 5
 ---
@@ -17,4 +16,4 @@ Aliás, tem sido assim com grande parte das séries americanas, que lotam a prog
 
 No caso de Modern Family a experiência se torna mais medíocre ainda, já que a suposta câmera para a qual os personagens conversam não faz o menor sentido. Além disso, os dramas e situações vividos pelos personagens não possuem qualquer justificativa de existir apenas em famílias não-convencionais. Apenas a ideia de explorar o tema porque está na moda é revoltante.
 
-Porém, é uma série divertidinha. Não provoca, não ofende e não explora nenhuma de suas "minorias" por conta de uma maioria. Apenas explora o estereótipo, o rebaixando a comédia de situação, para conseguir risadinhas simpáticas; exatamente como o (agora enlatado) The Big Bang Theory (que provaelmente irá terminar em um casamento).
+Porém, é uma série divertidinha. Não provoca, não ofende e não explora nenhuma de suas "minorias" por conta de uma maioria. Apenas explora o estereótipo, o rebaixando a comédia de situação, para conseguir risadinhas simpáticas; exatamente como o (agora enlatado) The Big Bang Theory (que provavelmente irá terminar em um casamento).

@@ -1,12 +1,11 @@
 ---
 categories:
 - reviews
-date: '2015-11-28'
+date: '2015-11-28T20:10:00-03:00'
 link: https://www.imdb.com/title/tt1844624
 tags:
-- draft
 - series
-title: História de Horror Americana - Murder House
+title: História de Horror Americana - Season 1 - Murder House
 ---
 
 Pela primeira temporada de American Horror Story (ou História de Horror Americana) pode-se perceber que, apesar de recriar muitas (quase todas) histórias de horror que fazem parte não apenas do imaginário de terror coletivo como foi responsável pelos maiores clássicos do gênero no Cinema, a direção e o roteiro mistos quase sempre referenciam de uma forma tão orgânica essas histórias que fica impossível não apreciar tamanha homenagem que a série proporciona para os fãs de terror.

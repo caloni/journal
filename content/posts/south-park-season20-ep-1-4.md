@@ -4,7 +4,6 @@ categories:
 date: '2016-10-15'
 link: https://www.imdb.com/title/tt0121955
 tags:
-- draft
 - series
 title: South Park - Vigésima Temporada, Episódios 1 a 4
 ---
@@ -21,4 +20,4 @@ E é justamente essa a outra vertente da trama esse ano. Quando uma aluna cuja m
 
 É em cima dessa estrutura que os meninos e meninas de South Park adentram em uma luta de classes... quer dizer, de gêneros. Bom, pouco importa. Quando o diretor da escola é um SJW (Social Justice Warrior, ou Guerreiro da Justiça), ou seja, um levantador de bandeiras sociais com o uso do escudo do politicamente correto, qualquer motivo é um motivo válido para que grupos se ordenem não por causa do que indivíduos fizeram, mas sua representatividade nesse caldo irracional das maiorias e minorias.
 
-Com os levantes dessas bandeiras, e com a criação novamente de uma mega-trama que tende a tomar a temporada inteira -- como foi, aliás, no ano passado -- South Park oficialmente parece ter se dedicado imensamente mais a criar histórias dentro do contexto, e não perder mais tempo com piadas pontuais. Nesse sentido, ultrapassa Family Guy em milênios. Porém, fica a dúvida: isso será, de fato, engraçado?
+Com os levantes dessas bandeiras, e com a criação novamente de uma mega-trama que tende a tomar a temporada inteira -- como foi, aliás, no ano passado -- South Park oficialmente se dedica imensamente a criar histórias dentro do contexto, e não perder mais tempo com piadas pontuais. Nesse sentido, ultrapassa Family Guy em milênios. Porém, fica a dúvida: isso será, de fato, engraçado?

@@ -1,10 +1,9 @@
 ---
 categories:
 - reviews
-date: '2016-07-16'
+date: '2016-07-16T20:30:00-03:00'
 link: https://www.imdb.com/title/tt0903747
 tags:
-- draft
 - series
 title: Breaking Bad - Terceira Temporada
 ---
@@ -17,7 +16,7 @@ Afinal de contas, é com o dinheiro da produção de metanfetamina que Walter Wh
 
 Os gêmeos impressionam e representam a loucura da máfia latina, e por contraste mostra como Gus chegou ao topo sendo a pessoa fria e calculista que W.W. aos poucos vai se transformando.
 
-O relativismo moral mais uma vez é discutido quando Skyler começa a trair Walter. É compreensível, e faz pensar sobre os limites dos personagens. O realismo desse limite é o forte na trama. O fraco, como sempre, são as coincidências incríveis que acontecem, e até o jogos forçado como a corrida de Hank para o hospital em busca de sua mulher pode parecer forçada, apesar de existirem motivos pincelados durante os episódios que justificassem sua precipitada ação.
+O relativismo moral mais uma vez é discutido quando Skyler começa a trair Walter. É compreensível, e faz pensar sobre os limites dos personagens. O realismo desse limite é o forte na trama. O fraco, como sempre, são as coincidências incríveis que acontecem, e até jogos como a corrida de Hank para o hospital em busca de sua mulher podem parecer forçados, apesar de existirem motivos pincelados durante os episódios que justificassem sua precipitada ação.
 
 Tudo isso para um dos poucos episódios dirigido pela interessante Michelle MacLaren (o outro dessa temporada, I.F.T., também irrepreensível) e que contém um dos melhores tiroteios de toda a série, perdendo talvez para a sequência que se precede o melhor episódio, "Ozymandias", de Rian Johnson (estou falando do final de  "To'hajiilee"). Tive que assistir mais umas três vezes o tiroteio entre os irmãos e Hank; primeiro para contar as balas; segundo para contar os segundos.
 

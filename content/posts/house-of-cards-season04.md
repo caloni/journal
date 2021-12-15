@@ -1,10 +1,9 @@
 ---
 categories:
 - reviews
-date: '2016-03-13'
+date: '2016-03-13T20:40:00-03:00'
 link: https://www.imdb.com/title/tt1856010
 tags:
-- draft
 - series
 title: House of Cards - Quarta Temporada
 ---
@@ -17,6 +16,6 @@ E é justamente esse acontecimento que altera de uma vez a relação entre Clair
 
 No entanto, o que a torna infinitamente mais crível é assumir que todos seus personagens são corruptos, em menor ou maior grau, pois todos estão dispostos a realizar ações que irão lhes garantir uma ou outra vantagem. Por isso até personagens menores como Seth Grayson se revelam apenas como mais do mesmo, e ironicamente é por isso que considero Doug Stamper como o personagem mais íntegro de toda a série.
 
-Até porque, convenhamos, integridade não combina com realidade. Heather Dunbar (Elizabeth Marvel), apesar de flertar com a possibilidade de ser íntegra até os ossos -- e potencialmente ser a queridinha da esquerda, alguém por quem torcer -- vira aos poucos uma figura medíocre que nada consegue por sua falta de flexibilidade moral. E é isso o que torna tão fascinante a figura de Will Conway (Joel Kinnaman), um novo rival que ataca de queridinhos da América e que pertence ao mesmo jogo político que aqui nos trouxe Fernando Collor. Jovem e disposto a usar as mídias sociais ostensivamente ao seu favor, chegando ao cúmulo de embolsar o criador de um saite de buscas famoso -- ainda que não seja uma acusação, uma espetada interessante no poder de empresas como Google. Em contrapartida, isso traz à tona questões como o poder da NSA, que não possui um saite de buscas, mas algo muito mais poderoso: rastrear todos os americanos na internet e nas linhas tenefônicas.
+Até porque, convenhamos, integridade não combina com realidade. Heather Dunbar (Elizabeth Marvel), apesar de flertar com a possibilidade de ser íntegra até os ossos -- e potencialmente ser a queridinha da esquerda, alguém por quem torcer -- vira aos poucos uma figura medíocre que nada consegue por sua falta de flexibilidade moral. E é isso o que torna tão fascinante a figura de Will Conway (Joel Kinnaman), um novo rival que ataca de queridinhos da América e que pertence ao mesmo jogo político que aqui nos trouxe Fernando Collor. Jovem e disposto a usar as mídias sociais ostensivamente ao seu favor, chegando ao cúmulo de embolsar o criador de um saite de buscas famoso -- ainda que não seja uma acusação, uma espetada interessante no poder de empresas como Google. Em contrapartida, isso traz à tona questões como o poder da NSA, que não possui um saite de buscas, mas algo muito mais poderoso: rastrear todos os americanos na internet e nas linhas telefônicas.
 
 Ganhando pontos também por nos trazer um roteiro que não se priva de criar caminhos falsos, expectativas invertidas e tramas desconexas que de repente se tornam relevantes, House of Cards S04 é tudo que sua primeira temporada nos trouxe, e isso já é muita coisa. Infelizmente, ainda se parece com mais do mesmo, embora isso já seja por si só fascinante de acompanhar.

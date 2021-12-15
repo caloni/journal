@@ -3,8 +3,8 @@ categories:
 - blog
 date: '2016-09-11'
 tags:
-- draft
 - lists
+- movies
 title: Os 10 melhores filmes dos anos 90... 1890!
 ---
 
@@ -50,4 +50,4 @@ Na época o Raio-X havia sido descoberto e a criatividade já começava a aflora
 
 https://www.youtube.com/embed/3gMCkFRMJQQ
 
-Fonte: A.V. Club - The 10 best films of the 1890s
+Fonte: [A.V. Club - The 10 best films of the 1890s](https://www.avclub.com/the-10-best-films-of-the-1890s-1798234254)

@@ -3,15 +3,15 @@ categories:
 - blog
 date: '2016-10-16'
 tags:
-- draft
-title: 'Crítica: Comercial Friboi - A certeza do churrasco perfeito'
+- movies
+title: 'Comercial Friboi - A certeza do churrasco perfeito'
 ---
 
-Em tempos de regravações de westerns como Sete Homens e um Destino, a Friboi aposta no gênero e já parte em seu último comercial, "A certeza do churrasco perfeito", inovando com o conceito já inovador há pelo menos uma década de "câmera lenta com partículas em suspensão" introduzido por Guy Ritchie (Sherlock Holmes, 2009). Aqui o churrasco é visto através daquela trilha sonora afiada, fogos gerados por computação e, claro, close na destreza e precisão do mestre churrasqueiro.
+Em tempos de regravações de westerns como Sete Homens e um Destino, a Friboi aposta no gênero e já parte em seu último comercial, "A certeza do churrasco perfeito", inovando com o conceito já inovador há pelo menos uma década de "câmera lenta com partículas em suspensão" introduzido por Guy Ritchie e filmes como Jogos, Trapaças e Dois Canos Fumegantes. Aqui o churrasco é visto através daquela trilha sonora afiada, fogos gerados por computação e, claro, close na destreza e precisão do mestre churrasqueiro.
 
 https://www.youtube.com/embed/19RrxCMKI4
 
-Note como essas partículas de sal são vistas não uma, nem duas, mas pelo menos três vezes em um comercial de 30 segundos. O sal, de acordo com o narrador com voz pseudo-sensual-pseudo-rouca, é muitas vezes vista pelo mestre churrasqueiro como o segredo do bom churrasco (o que explicaria as altas doses de dinheiro trocadas por sal-vesgo de cor diferente da chapada amazônica trazida pelos índios friboizés). Porém, isso ainda não é o que garante o sucesso dessa churrascada. Vemos, então, o mestre do churrasco preparando com toda a dedicação sua carne. Ou seja, tirando da sacolinha a vácuo da Friboi, jogando sal e metendo na brasa.
+Note como essas partículas de sal são vistas não uma, nem duas, mas pelo menos três vezes em um comercial de 30 segundos. O sal, de acordo com o narrador com voz meio sensual, meio rouca (são sinônimos?), é muitas vezes vista pelo mestre churrasqueiro como o segredo do bom churrasco (o que explicaria as altas doses de dinheiro trocadas por sal-vesgo de cor diferente da chapada amazônica trazida pelos índios friboizés). Porém, isso ainda não é o que garante o sucesso dessa churrascada. Vemos, então, o mestre do churrasco preparando com toda a dedicação sua carne. Ou seja, tirando da sacolinha a vácuo da Friboi, jogando sal e metendo na brasa.
 
 Note também que os velhos clichês da Friboi estragam um pouco o prazer da aventura. "Carne selecionada"? Só se for seleção de espécie. O apelo ao macio também soa vazio, embora o "mestre" churrasqueiro aparentemente tenha decidido jogar ela na pedra, sem mais nem menos, machucando um bom bife pelo preço de uma boa tomada em câmera lenta (e se isso é realmente uma carne selecionada, começo a sentir pena do boi que foi sacrificado para um comercial que joga carne boa em pedra ruim).
 

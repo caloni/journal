@@ -1,10 +1,9 @@
 ---
 categories:
 - reviews
-date: '2016-07-16'
+date: '2016-07-16T20:10:00-03:00'
 link: https://www.imdb.com/title/tt0903747
 tags:
-- draft
 - series
 title: Breaking Bad - Primeira Temporada
 ---
@@ -29,8 +28,8 @@ Ou favorece? Surpreendendo a cada episódio, o pacato Sr. White vai aos poucos c
 
 As metáforas com a química e a vida são a parte que mais vale a pena acompanhar. Em determinado episódio, ele está com uma colega "desmontando" o corpo humano em seus componentes químicos, até chegar em uma porcentagem quase total, mas ainda faltando algo. Sem saber o que é, sua colega sugere: seria a alma? A resposta é simplória ("só há química aqui"), mas poderosa nas imagens. É o momento em que Mr. White irá realizar seu primeiro homicídio pensado.
 
-Falar sobre o uso das cores, um assunto abordado à exaustão. Jesse Pinkman, seu parceiro no crime e ex-aluno problemático, é representado pelo amarelo. Skyler, sua esposa e um bem desejável, ainda que sempre seja alvo de problemas, é o azul. Walter White, e sua ganância que às vezes parece sair do controle, é sempre o verde. E como os cenários são pintados com essas cores, e os figurinos utilizados com essa lógica, é o prazer do fã em caçar detalhes de fotografia por toda a história. Isso ajuda a entender o que está acontecendo, às vezes. Quando Pinkman volta para a casa dos pais, a ganância deles verem seu filho um não-drogado, e alguém mais como seu irmão mais novo, vestido de camisa social, é um óbvio ululante. Porém, mais óbvio que isso são os detalhes em verde, que representa justamente essa visão linear e destrutiva do poder criativo das pessoas. Pinkman, quando mais jovem, era um artista. Em que ele se transformou?
+Agora decidi falar um pouco sobre o uso das cores, um assunto abordado à exaustão. Jesse Pinkman, seu parceiro no crime e ex-aluno problemático, é representado pelo amarelo. Skyler, sua esposa e um bem desejável, ainda que sempre seja alvo de problemas, é o azul. Walter White, e sua ganância que às vezes parece sair do controle, é sempre o verde. E como os cenários são pintados com essas cores, e os figurinos utilizados com essa lógica, é o prazer do fã em caçar detalhes de fotografia por toda a história. Isso ajuda a entender o que está acontecendo, às vezes. Quando Pinkman volta para a casa dos pais, a ganância deles verem seu filho um não-drogado, e alguém mais como seu irmão mais novo, vestido de camisa social, é um óbvio ululante. Porém, mais óbvio que isso são os detalhes em verde, que representa justamente essa visão linear e destrutiva do poder criativo das pessoas. Pinkman, quando mais jovem, era um artista. Em que ele se transformou?
 
-Transformação... talvez essa seja a palavra-chave de toda a série. Bom, pelo menos é a da primeira temporada. Vemos diferentes personagens interagindo de uma forma que não veríamos não fosse o poder de transformação dos elementos químicos. Sejam célular malignas trabalhando de forma caótica... seja uma droga viciante, que faz esquecer que essa vida, quando passa, nos toma cada vez mais tempo, nos deixando ver os sonhos que tínhamos irem embora para sempre.
+Transformação... talvez essa seja a palavra-chave de toda a série. Bom, pelo menos é a da primeira temporada. Vemos diferentes personagens interagindo de uma forma que não veríamos não fosse o poder de transformação dos elementos químicos. Sejam células malignas trabalhando de forma caótica... seja uma droga viciante, que faz esquecer que essa vida, quando passa, nos toma cada vez mais tempo, nos deixando ver os sonhos que tínhamos irem embora para sempre.
 
 A não ser que você tome as rédeas de sua vida. Isso é ser libertário.

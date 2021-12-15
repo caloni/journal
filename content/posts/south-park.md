@@ -4,7 +4,6 @@ categories:
 date: '2015-07-28'
 link: https://www.imdb.com/title/tt0121955
 tags:
-- draft
 - series
 title: South Park
 ---
@@ -21,4 +20,4 @@ Mesmo as questões ainda inertes em nossa sociedade já começam a tomar forma, 
 
 E por falar em temas contemporâneos, não é que uma década antes de The Walking Dead já temos um exemplo de futuro pós-apocalíptico com Olhos Cor-de-Rosa? E a questão do convívio entre diferentes religiões em um mundo cada vez mais ateu em um exemplo secular e completamente hilário de figura natalina em Soretinho, o Cocô de Natal? E se pensar em um cocô de natal parece repugnante, o que dizer do episódio em que o Sr. Garrison se vê perseguido por mulheres por ter feito uma plástica que o deixou atraente e a namorada de Stan fazer de tudo para acabar com sua professora substituta simplesmente por ela ser bonita? E claro que não posso deixar de citar no parágrafo sobre religião a visão extremamente cínica da sociedade vista na luta entre o Diabo e Jesus, claramente um dos pontos altos dessa semente de auto-crítica forçando para dominar sobre o escatológico.
 
-Mesmo que ainda seja extremamente escroto e se divirta com a construção irregular de seus personagens (que muitas vezes oscilam todos para um perfil Cartman para logo depois voltar de um aprendizado de moral), South Park S01 já possui um subtexto superior a qualquer coisa animada (ou mesmo comédias) que saiu do Cinema nos últimos 5 anos. Apenas isso é prova do poder da caixinha luminosa frente ao horrivelmente politicamente correto da indústria cinematográfica americana.
+Mesmo que ainda seja extremamente escroto e se divirta com a construção irregular de seus personagens (que muitas vezes oscilam todos para um perfil Cartman para logo depois voltar de um aprendizado de moral), South Park S01 já possui um subtexto superior a qualquer coisa animada (ou mesmo comédias) que saiu do Cinema nos últimos 5 anos. Apenas isso é prova do poder da caixinha luminosa frente à obscuridade do politicamente correto da indústria cinematográfica americana.

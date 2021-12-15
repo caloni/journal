@@ -1,12 +1,11 @@
 ---
 categories:
 - reviews
-date: '2015-11-28'
+date: '2015-11-28T20:40:00-03:00'
 link: https://www.imdb.com/title/tt1844624
 tags:
-- draft
 - series
-title: História de Horror Americana - Freak Show
+title: História de Horror Americana - Season 4 - Freak Show
 ---
 
 Acho que já disse que AHS não é uma série de terror no sentido convencional -- assustar pessoas -- mas muito pior do que isso: mostrar o horror implícito no ser humano, e ir às últimas consequências do que a violência de seres egoístas, mesquinhos, vaidosos, orgulhosos e invejosos consegue produzir. E o resultado impressona, mas impressiona muito mais a capacidade dessas pessoas de fazer o mal, quase como se o mal nem precisasse depender dessas pessoas para existir, como se fosse materializado e aparecesse diante de nossos olhos sob a forma de ação, representada pelo horror gráfico, mas com um significado muito maior do que chocar pelo ato em si. É a pessoa responsável pelo ato -- ou às vezes apenas a situação -- que chocam muito mais.
@@ -15,7 +14,7 @@ Nesse sentido ele manteve seu tema na terceira e mais fraca temporada, onde um c
 
 Portanto, nada mais natural que explorar mais uma figura desse imaginário coletivo, dessa vez com um tom mais europeu e na década de 50 na Flórida, com um circo de horrores que contém, seguindo a cartilha básica da série, uma coletânea de "aberrações" da natureza, ou pelo menos como eram vistas na época. Dessa coletânea, ela é enfraquecida com figuras como o mocinho que só tem mãos estranhas (Evan Peters, já se repetindo) ou a alemã de guerra que luta por um sucesso que não lhe pertence (novamente Jessica Lange, a vergonha coletiva que diverte). Ainda assim, o palhaço desfigurado que caça crianças e jovens mulheres à noite, a mulher-anã e sua doçura contagiante, o psicopata milionário mimado (ecos de Psicopata Americano encarnados no ótimo Finn Wittrock) e outros freaks menos impressonantes como a mulher-barbada (Kathy Bates em mais uma atuação interessante) e um homem com braços de barbatana, uma mulher gigante e uma mulher com três peitos (ecos de... deixa pra lá). Com pelo menos uma participação especial de destaque, Neil Patrick Harris (de How I Met Your Mother) faz um ventríloquo esquizofrênico que me deixa incomodado pela sua origem e seu destino trágicos.
 
-Como sempre começando morno, seus episódios televisivos divertem moderadamente, enquanto vão apresentando seus personagens em flashbacks cada vez menos orgânicos e mais expositivos (o primeiro, do palhaço assassino, é o melhor deles). Da metade para o final temos um ritmo mais acelerados graças às mortes que começam a ficar mais frequentes. Porém, seja no começo ou no final, em ambos temos episódios que sobrevivem por si só, escritos não por acaso por James Wong e Jennifer Salt, responsáveis pelos melhores momentos da série em questão de roteiro, auxiliados obviamente por uma equipe de diretores que já se acostumou em mostrar o horror de uma maneira fascinantemente gráfica. Infelizmente, para se "deliciar" com Edward Mordrake (dividido em duas partes), Orphans e Magical Thinking, assistir a temporada toda é uma necessidade, o que não é ruim, e está acima da média de toda a série, mas que se perde em desvios televisivos, como diria um dos personagens, chatos.
+Como sempre começando morno, seus episódios televisivos divertem moderadamente, enquanto vão apresentando seus personagens em flashbacks cada vez menos orgânicos e mais expositivos (o primeiro, do palhaço assassino, é o melhor deles). Da metade para o final temos um ritmo mais acelerado graças às mortes que começam a ficar mais frequentes. Porém, seja no começo ou no final, em ambos temos episódios que sobrevivem por si só, escritos não por acaso por James Wong e Jennifer Salt, responsáveis pelos melhores momentos da série em questão de roteiro, auxiliados obviamente por uma equipe de diretores que já se acostumou em mostrar o horror de uma maneira fascinantemente gráfica. Infelizmente, para se "deliciar" com Edward Mordrake (dividido em duas partes), Orphans e Magical Thinking, assistir a temporada toda é uma necessidade, o que não é ruim, e está acima da média de toda a série, mas que se perde em desvios televisivos, como diria um dos personagens, chatos.
 
 Das virtudes técnicas, a que mais se destaca é a direção de arte auxiliada pelo figurino e fotografia. Todas essas equipes contribuem imensamente para construir um universo que meio que homenageia os filmes desse sub-gênero das décadas de 50, 60 e 70, quase sempre rodadas como filmes B e que passavam nas madrugadas da televisão aberta. O tom meio amadorístico da fotografia, e os elementos em cena meio empoeirados e bagunçados, dá um ar nostálgico e que funciona muito melhor do que a maior parte do roteiro.
 

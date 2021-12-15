@@ -1,10 +1,9 @@
 ---
 categories:
 - reviews
-date: '2016-04-22'
+date: '2016-04-22T20:10:00-03:00'
 link: https://www.imdb.com/title/tt3032476
 tags:
-- draft
 - series
 title: Better Call Saul - Primeira Temporada
 ---
@@ -13,7 +12,7 @@ A primeira temporada de Better Call Saul, spin-off do personagem Saul Goodman da
 
 É óbvio que, idealizado pelo mesmo Vinge Gilligan de Breaking Bad e sua inteligente equipe, essa primeira faceta antes desconhecida de Saul, ou em seu nome original, James McGill, irá certamente formar o alicerce moral do sujeito para futuras temporadas. Porém, mesmo que tivéssemos visto o último episódio ever da história, esta poderia muito bem acabar dessa forma e não soaria incompleta, da mesma forma que a maioria das temporadas de Breaking Bad (particularmente a quarta).
 
-O primeiro episódio é mais sério e dramático (o único dirigido por Gilligan), e já determina o tom de prequel ao mostrar o final trágico do advogado no anonimato e sempre temendo pela sua vida, o que gera pelo menos dois problemas, um visível de cara e outro escondido no resto dos episódios: 1) se você já assistiu a série original (ainda recente) tomou um spoiler de início (ele não vai morrer), 2) o destino do personagem não acrescenta em nada sua trajetória da primeira temporada (talvez isso se resolve no final da série, veremos).
+O primeiro episódio é mais sério e dramático (o único dirigido por Gilligan), e já determina o tom de prequel ao mostrar o final trágico do advogado no anonimato e sempre temendo pela sua vida, o que gera pelo menos dois problemas, um visível de cara e outro escondido no resto dos episódios: 1) se você já assistiu a série original (ainda recente) tomou um spoiler de início (ele não vai morrer), 2) o destino do personagem não acrescenta em nada sua trajetória da primeira temporada (talvez isso se resolva no final da série, veremos).
 
 O segundo episódio já é dirigido por Michele McLaren, uma das minha favoritas em Breaking Bad (outro é Rian Johnson, de Looper). A partir daí felizmente a série já assume o seu lado cômico vindo das trevas, ou o mais conhecido humor negro. O primeiro acordo/caso de Saul/Jimmy no mundo do crime envolve o código de Hamurabi -- um dos códigos morais mais antigos do mundo -- com (spoiler!) Tuco tentando decidir entre matar dois jovens ou quebrar-lhes as pernas. É lindo perceber a mudança no discurso do futuro Saul durante a conversação no deserto, assim como ironicamente a criação de um advogado em defesa de seus "clientes".
 
