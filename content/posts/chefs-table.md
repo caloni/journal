@@ -4,12 +4,11 @@ categories:
 date: '2016-12-04'
 link: https://www.imdb.com/title/tt4295140
 tags:
-- draft
 - series
 title: Chef's Table
 ---
 
-As séries que costumo testar/acompanhar da Netflix me fazem às vezes questionar a capacidade da distribuidora de conteúdo de se manter na média das outras produtoras. Às vezes eles parecem ligeiramente superiores. E é o caso de Chef's Table, que se veste de uma série documental com cada episódios abordando um chefe de cozinha e o que ele tem a oferecer à alta gastronomia. Porém, no fundo, os idealizadores da série vão além, e embora sigam constantemente uma cartilha estática no roteiro (e na direção), os resultados podem surpreender.
+As séries que costumo testar/acompanhar da Netflix me fazem às vezes questionar a capacidade da distribuidora de conteúdo de se manter na média das outras produtoras. Às vezes eles parecem ligeiramente superiores. E é o caso de Chef's Table, que se veste de uma série documental com cada episódio abordando um chefe de cozinha e o que ele tem a oferecer à alta gastronomia. Porém, no fundo, os idealizadores da série vão além, e embora sigam constantemente uma cartilha estática no roteiro (e na direção), os resultados podem surpreender.
 
 É o caso, por exemplo, na primeira temporada, o primeiro episódio (Massimo Bottura), que trata de um chef italiano que subverteu a ordem em uma das cozinhas mais tradicionais do mundo. Sua história o favorece, mas também há uma certa virtude da direção e roteiro de aproveitarem essa história ao máximo. E é o que fazem, em um dos melhores episódios da temporada.
 

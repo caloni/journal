@@ -1,10 +1,9 @@
 ---
 categories:
 - reviews
-date: '2016-10-28'
+date: '2016-10-28T20:00:00-03:00'
 link: https://www.imdb.com/title/tt5709230
 tags:
-- draft
 - series
 title: Black Mirror - S03E03 - Shut Up and Dance
 ---
@@ -15,6 +14,6 @@ A história começa com o jovem, ingênuo e introvertido Kenny (Alex Lawther), q
 
 O roteiro de William Bridges e Charlie Brooker só se torna eficiente através das mãos do diretor James Watkins, que realiza um trabalho tenso, imediatista, através do uso de câmeras colocadas em objetos manipulados pelos personagens (como bicicletas) e o uso de cortes rápidos, que muitas vezes deixam o espectador meio desorientado. Exatamente como os personagens, que vão cambaleando de um lugar a outro seguindo instruções recebidas em seus celulares, vendo onde estão através de seu GPS.
 
-Mas é a atuação de Alex Lawther que de fato entrega o grande prêmio do episódio, que se revela maniqueísta, mas ainda assim, eficiente. Lawther possui uma cara confiável e ingênua, e consegue tremer como ninguém, trazendo o inquietamento do episódio para fora da tela com facilidade. Seu rosto branco logo se torna vermelho, e de fato acreditamos que o sujeito, prestes a assaltar um banco, está mijando pelas calças.
+Mas é a atuação de Alex Lawther que de fato entrega o grande prêmio do episódio, que se revela maniqueísta, mas ainda assim, eficiente. Lawther possui uma cara confiável e ingênua, e consegue tremer como ninguém, trazendo o inquietamento do episódio para fora da tela com facilidade. Seu rosto branco logo se torna vermelho, e de fato acreditamos que o sujeito, prestes a assaltar um banco, está mijando nas calças.
 
 A história mexe com alguns conceitos fascinantes, mas para mim o maior deles é a mentira. A mentira é imoral porque faz as pessoas serem reféns de uma não-realidade, que precisam proteger a todo custo. No caso do episódio, não podemos relevar a intensidade que as pessoas podem ser autênticas por causa de alguns de seus atos serem crimes (embora sem vítima; portanto, ilegítimos, como pedofilia). Porém, como um caso geral, quem tem algo a esconder não tem o direito de não ter toda sua persona revelada, mas apenas o dever de se proteger. E uma vez revelado, o indivíduo tem uma escolha: ser íntegro a si mesmo e assumir quem é através de seus atos, ou continuar vivendo uma mentira, sendo escravizado pelos outros que o mantém nessa pseudo-realidade em que são obrigados a viver por não serem seres humanos completos.

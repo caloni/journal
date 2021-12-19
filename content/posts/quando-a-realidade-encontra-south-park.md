@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2016-11-18'
 tags:
-- draft
 - series
 title: Quando a realidade encontra South Park
 ---

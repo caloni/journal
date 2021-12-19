@@ -4,7 +4,6 @@ categories:
 date: '2016-12-04'
 link: https://www.imdb.com/title/tt4922804
 tags:
-- draft
 - series
 title: 3%
 ---
@@ -15,9 +14,9 @@ Há uma boa história em 3%, no entanto. Futuro distópico, humanidade (ou aquel
 
 Sim, estou sugerindo que tudo isso é muito clichê. Além disso, esse futuro distópico, apesar de possuir partes rica e pobre, é pobremente idealizado. A direção de arte e os efeitos visuais são pedestres. E parte dessa visão que nos é oferecida é culpa da direção, que insiste em tratar um "Ensaio sobre a Cegueira" como se fosse "Jogos Mortais".
 
-Aparentemente, não só eles. A gangue de roteiristas parece se dividir entre os que conseguem arrancar ótimos momentos onde as equipes dos competidores interagem, construindo alianças e rixas temporárias e convenientes, além de atuações particularmente curiosas de acompanhar -- como um cadeirante traindo seu orgulho, se vitimizando, para conseguir passar de fase. No entanto, esses ótimos momentos estão embalados em um verdadeiro show de horrores de personagens da parte rica, que são paradoxalmente pobremente desenvolvidos, além de possuírem os diálogos mais cafonas (apesar disso, os participantes do campeonato também possui uma grande dose de diálogos pavorosos e reveladores demais do que estão sentido ou o que está acontecendo).
+Aparentemente, não só eles. A gangue de roteiristas parece se dividir entre os que conseguem arrancar ótimos momentos onde as equipes dos competidores interagem, construindo alianças e rixas temporárias e convenientes, além de atuações particularmente curiosas de acompanhar -- como um cadeirante traindo seu orgulho, se vitimizando, para conseguir passar de fase. No entanto, esses ótimos momentos estão embalados em um verdadeiro show de horrores de personagens da parte rica, que são paradoxalmente pobremente desenvolvidos, além de possuírem os diálogos mais cafonas (apesar disso, os participantes do campeonato possuem uma grande dose de diálogos pavorosos e reveladores demais do que estão sentido ou o que está acontecendo).
 
-Além disso, o elenco está atipicamente irregular. Mesmo com alguns atores famosos e um elenco jovem que parece ter potencial, a série parece subutilizá-los, oferecendo comportamentos e atuações pedestres, mecânicas, que repetem diálogos novelísticos quando poderiam improvisar um conteúdo muito mais interessante.
+Além disso, o elenco está atipicamente irregular. Mesmo com alguns atores famosos e um elenco jovem que parece ter potencial, a série subutiliza, oferecendo comportamentos e atuações pedestres, mecânicas, que repetem diálogos novelísticos quando poderiam improvisar um conteúdo muito mais interessante.
 
 No entanto, esta parece ser uma série didática que busca entregar tudo mastigado para seu espectador. E o motivo, eu posso estar sendo preconceituoso, mas tudo indica que é mais uma vez uma cartilha de esquerda, que mais uma vez quer subverter bons temas em prol de uma ideologia falida, e que em 2016 encontra símbolos grandiosos de seu retumbante fracasso. Isso explicaria, por exemplo, porque o mundo mostrado na série é tão simplório, que ignora fundamentos econômicas dos mais básicos para entregar a velha luta de classes embalada em um velho formato enlatado de série B.
 

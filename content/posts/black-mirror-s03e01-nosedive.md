@@ -1,19 +1,18 @@
 ---
 categories:
 - reviews
-date: '2016-10-23'
+date: '2016-10-23T20:00:00-03:00'
 link: https://www.imdb.com/title/tt5497778
 tags:
-- draft
 - series
 title: Black Mirror - S03E01 - Nosedive
 ---
 
 É muito bom ter o Black Mirror de volta na Netflix, com episódios novos. Nenhum me desapontou até agora, tanto pelos aspectos técnicos, narrativos, mas, principalmente: em fazer pensar. E esse nos faz pensar apesar da ideia óbvia: redes sociais. Todas juntas, na vida "real", fazendo as pessoas se esforçarem por aumentar suas notas, sua popularidade. Tudo depende disso. E no caso, o tudo é uma vida cercada de mentiras. Como não amar uma série como essas?
 
-Black Mirror tem esfregado a realidade na cara do espectador já faz três temporadas agora. Agora ele conta a história de Lacie, uma garota solteira que vive com o irmão e que precisa se tornar extremamente popular rapidamente para conseguir mudar para a casa de seus sonhos (vendida pela corretora da maneira mais covarde possível: a colocando do lado de um grande amor, um holograma usado para todas as potenciais compradoras).
+Black Mirror tem esfregado a realidade na cara do espectador há três temporadas. Agora ele conta a história de Lacie, uma garota solteira que vive com o irmão e que precisa se tornar extremamente popular rapidamente para conseguir mudar para a casa de seus sonhos (vendida pela corretora da maneira mais covarde possível: a colocando do lado de um grande amor, um holograma usado para todas as potenciais compradoras).
 
-Lacie tem se esforçado no social. Faz corridas pela manhã com o celular na mão, atualizando sua timeline e curtindo a dos outros. Na hora do café, cria uma foto fofa para conseguir mais likes (embora odeie café). No serviço, evita ficar do lado dos impopulares, além de bajular pessoas no elevador que mal conhece pessoalmente. Mas quem precisa conhecer pessoas hoje em dia, se a vida inteira delas, em tempo real, está o Facebook?
+Lacie tem se esforçado no social. Faz corridas pela manhã com o celular na mão, atualizando sua timeline e curtindo a dos outros. Na hora do café, cria uma foto fofa para conseguir mais likes (embora odeie café). No serviço, evita ficar do lado dos impopulares, além de bajular pessoas no elevador que mal conhece pessoalmente. Mas quem precisa conhecer pessoas hoje em dia, se a vida inteira delas, em tempo real, está no Facebook?
 
 Lacie é interpretada por um achado. Bryce Dallas Howard consegue manter uma risada nervosa e falsa e hilária ao mesmo tempo que diz o nome "Greg". Apesar de pesadamente maquiada, seus olhos exibem uma versão mais doentia de Leslie Knope (a bem-intencionada da série Parks and Recreation), onde o objetivo é subir a pontuação de popularidade. Ela é enérgica consigo mesmo e com os outros, e consegue esconder sua raiva, angústia e frustração pelo bem de seus pontos.
 

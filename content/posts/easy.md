@@ -4,7 +4,6 @@ categories:
 date: '2016-10-23'
 link: https://www.imdb.com/title/tt5562056
 tags:
-- draft
 - series
 title: Easy
 ---
@@ -15,6 +14,6 @@ A série dirigida e escrita por Joe Swanberg (que também faz parte da edição)
 
 Não há atuações de destaque, mas há personagem carismáticos. E para isso o elenco dá conta perfeitamente. A série apela para a vanguarda artística de esquerda, mas nem por isso se torna politicamente correta no nível insuportável. É algo muito menos apelativo que isso.
 
-Tome o episódio da vegam (o segundo), por exemplo. Ele trata da dieta da namorada de uma pessoa completamente diferente em costumes de uma maneira como se fosse um detalhe a influenciar o relacionamento entre elas, e não uma ode ao veganismo. Da mesma forma o próximo episódios, que parece destilar o veneno em cima de esposas grávidas chatas, mas entende as complicações da vida real, sem tentar minimizá-las. A série só quer explicar como as coisas podem ser mais simples do que parecem em um diálogo simples, direto e charmoso (a trilha sonora é particularmente fraca, mas agradável).
+Tome o episódio da vegana (o segundo), por exemplo. Ele trata da dieta da namorada de uma pessoa completamente diferente em costumes de uma maneira como se fosse um detalhe a influenciar o relacionamento entre elas, e não uma ode ao veganismo. Da mesma forma o próximo episódio destila o veneno em cima de esposas grávidas chatas, mas entende as complicações da vida real, sem tentar minimizá-las. A série só quer explicar como as coisas podem ser mais simples do que parecem em um diálogo simples, direto e charmoso (a trilha sonora é particularmente fraca, mas agradável).
 
 E com esse objetivo, é uma ótima pedida.

@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2016-11-03'
 tags:
-- draft
 - books
 title: O Mundo de Sofia
 ---
@@ -18,6 +17,6 @@ Aliás, o livro também consegue separar e explicar bem tanto o hiato racional e
 
 Já a historinha entre Sofia, a protagonista, e seu professor de filosofia, Alberto, é um passatempo relativamente divertido, que no melhor formato dos contos juvenis, expõe um mistério a ser resolvido. E enquanto o mistério existe, o livro é ótimo. No decorrer de sua resolução, a ficção se despedaça como um castelo no ar. Gaarder arrisca uma metafísica e epistemologias ligeiramente infantis pelo bem da compreensão da epistemologia adulta, pois os adultos apenas conseguem filosofar depois que assumem uma visão de criança acerca dos mistérios do mundo (como bem explica o ótimo capítulo sobre o coelho dentro de uma cartola).
 
-E embora as descrições de Gaarder sejam instigantes no começo, além de particularmente precisas, o desenvolvimento pós-Idade Média demonstra um absoluto despego com o pensamento crítico ou uma simplificação que torna o conteúdo tão enfadonho quanto uma aula de história que não explica os mecanismo por trás das mudanças. Quando o misticismo impera entre os filósofos, e a maioria das conclusões vistas no livro contrariam a própria proposta do personagem Alberto, que diz constantemente para que sua pupila não pule direto para conclusões, o livro desaba novamente.
+E embora as descrições de Gaarder sejam instigantes no começo, além de particularmente precisas, o desenvolvimento pós-Idade Média demonstra um absoluto desapego com o pensamento crítico ou uma simplificação que torna o conteúdo tão enfadonho quanto uma aula de história que não explica os mecanismo por trás das mudanças. Quando o misticismo impera entre os filósofos, e a maioria das conclusões vistas no livro contrariam a própria proposta do personagem Alberto, que diz constantemente para que sua pupila não pule direto para conclusões, o livro desaba novamente.
 
-Gaarder quando escreveu o livro era um professor de filosofia relativamente jovem, e seu interesse no livro consegue ser descoberto apenas pelo plot. Aliás, talvez todos que gostem de fazer perguntar que não podem ser respondidas devem adorar a primeira metade do livro, independente da ficção e até se você não concordar com a visão dos antigos. E isso independente da idade. Afinal de contas, todos nós podemos ainda nos admirar com o coelho gigante saindo da cartola. Eternamente.
+Gaarder quando escreveu o livro era um professor de filosofia relativamente jovem, e seu interesse no livro consegue ser descoberto apenas pelo plot. Aliás, talvez todos que gostam de fazer perguntas que não podem ser respondidas devem adorar a primeira metade do livro, independente da ficção e até se você não concordar com a visão dos antigos. E isso independente da idade. Afinal de contas, todos nós podemos ainda nos admirar com o coelho gigante saindo da cartola. Eternamente.
