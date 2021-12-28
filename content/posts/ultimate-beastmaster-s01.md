@@ -4,7 +4,6 @@ categories:
 date: '2017-04-04'
 link: https://www.imdb.com/title/tt5607970
 tags:
-- draft
 - series
 title: Ultimate Beastmaster - Primeira Temporada
 ---

@@ -4,7 +4,6 @@ categories:
 date: '2017-01-01'
 link: https://www.imdb.com/title/tt4047038
 tags:
-- draft
 - series
 title: Dirk Gently's Holistic Detective Agency - Primeira Temporada, Episódios 1 ao
   3

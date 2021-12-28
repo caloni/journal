@@ -4,8 +4,8 @@ categories:
 date: '2017-01-01'
 link: https://www.imdb.com/title/tt2861424
 tags:
-- draft
 - series
+- animation
 title: Rick and Morty - Primeira Temporada
 ---
 
@@ -17,4 +17,4 @@ Como diversão inconseqüente, sinto lhe informar, mas esta não é uma série p
 
 Parte dessa tensão provém da ágil edição da dupla Lee Harting e Ken MacKenzie, que não deixam o espectador bocejar. A outra parte provém de uma trilha sonora surpreendentemente iluminada de Ryan Elder, resgatando mais uma vez essa tradição que as grandes animações possuem (desde Pica-Pau e Tom e Jerry) de elevar a arte dos desenhistas em arte audiovisual.
 
-Mas, voltando aos personagens. Repare como os diálogos entre Rick e Morty soam artificiais, quase monólogos. Há vários momentos em que diferentes sequências de frases são encadeadas por Rick, dando a nítida impressão que Justin Roiland parece estar desenvolvendo o roteiro exatamente naquele momento, referenciando (talvez acidentalmente) os diálogos neo-realistas e absurdamente amadores e bem feitos de South Park. O universo paralelo onde essa animação se passa possui um furo: deixou entrar um dublador/criador de situações absurdas em que pessoas do planeta Terra acabam assistindo. Uma ótima sacada, aliás.
+Mas, voltando aos personagens. Repare como os diálogos entre Rick e Morty soam artificiais, quase monólogos. Há vários momentos em que diferentes sequências de frases são encadeadas por Rick, dando a nítida impressão que Justin Roiland está desenvolvendo o roteiro exatamente naquele momento, referenciando (talvez acidentalmente) os diálogos neo-realistas e absurdamente amadores e bem feitos de South Park. O universo paralelo onde essa animação se passa possui um furo: deixou entrar um dublador/criador de situações absurdas em que pessoas do planeta Terra acabam assistindo. Uma ótima sacada, aliás.

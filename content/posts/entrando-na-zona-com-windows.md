@@ -1,9 +1,8 @@
 ---
 categories:
-- blog
+- code
 date: '2017-03-14'
 tags:
-- draft
 title: Entrando na zona com Windows
 ---
 
@@ -19,7 +18,7 @@ Mas é possível arrancar tudo isso e deixar na barra de tarefas pinado apenas a
 
 O terminal do Windows, o Command Prompt, ou cmd para os íntimos, sofreu algumas mudanças ultimamente. Entre elas há a transparência, o que o tornou cool, e a tela cheia (atalho Alt+Enter), o que o tornou ideal como ferramenta de navegação para programadores (melhor do que o explorer, que virou um penduricalho de atalhos inúteis também). Você pode ativá-lo já entrando na tela cheia e com o code page de sua preferência (o meu é 65001, que é o utf8) usando esse pequeno programa:
 
-```c++
+```
 #include <iostream>
 #include <windows.h>
 

@@ -3,16 +3,15 @@ categories:
 - reviews
 date: '2017-03-14'
 tags:
-- draft
-- reading
+- books
 title: 'Mastery: The Keys to Success and Long-Term Fulfillment'
 ---
 
 O livro de George Leonard é um curto e didático passeio através dos mistérios que tornam o ser humano cada vez mais habituado ao seu "eudaimonia" aristotélico, ou seja, o estado de plenitude do ser que está ao alcance de todos que se derem a liberdade da melhora contínua em qualquer coisa que fizermos nesse mundo.
 
-Ele parte do princípio que para melhorarmos em qualquer aspecto de nossa vida, seja uma habilidade em um esporte ou na cozinha ou até na faxina, é necessário amar a prática do dia-a-dia e se esforçar de vez em quando para atingir cada vez níveis mais altos, em uma graduação torta, mas constante, de auto-melhora progressiva e agradável. Seria a síntese da vida no próprio conceito aristotélico, onde a virtude do ser humano está em atingir a perfeição de cada uma de suas virtudes e tentar sempre manter-se em equilíbrio.
+Ele parte do princípio que para melhorarmos em qualquer aspecto de nossa vida, seja uma habilidade em um esporte ou na cozinha ou até na faxina, é necessário amar a prática do dia-a-dia e se esforçar de vez em quando para atingir cada vez níveis mais altos, em uma gradação torta, mas constante, de auto-melhora progressiva e agradável. Seria a síntese da vida no próprio conceito aristotélico, onde a virtude do ser humano está em atingir a perfeição de cada uma de suas virtudes e tentar sempre manter-se em equilíbrio.
 
-Como contra-exemplos ele cita três típicos personas que tentam burlar o caminho duro e legítimo da auto-melhora:
+Como contra-exemplos ele cita três típicas personas que tentam burlar o caminho duro e legítimo da auto-melhora:
 
 1. __The Dabbler__. Esse é o que queima no começo e logo depois desiste.
 2. __The Obsessive__. Esse é o obstinado em sempre melhorar, mas que por isso mesmo entra em uma espiral de terror e auto-mutilação.
@@ -32,7 +31,7 @@ Por fim, seus últimos capítulos são mais voltados para a prática esportista 
 
 #### Citações Favoritas
 
-> To love the plateau is to love the eternal now, to enjoy the inevitable spurts of progress and the fruits of accomplish- The Master's Journey 49 ment, then serenely to accept the new plateau that waits just beyond them.
+> To love the plateau is to love the eternal now, to enjoy the inevitable spurts of progress and the fruits of accomplishment, then serenely to accept the new plateau that waits just beyond them.
 
 > Ultimately, the master and the master's path are one.
 

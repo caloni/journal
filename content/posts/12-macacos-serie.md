@@ -4,7 +4,6 @@ categories:
 date: '2017-03-29'
 link: https://www.imdb.com/title/tt3148266
 tags:
-- draft
 - series
 title: 12 Macacos
 ---
