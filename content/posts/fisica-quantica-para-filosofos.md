@@ -3,8 +3,9 @@ author: Wanderley Caloni
 categories:
 - blog
 date: '2017-05-28'
+link: http://www.owl232.net/papers/qm.htm
 tags:
-- draft
+- reading
 title: Física Quântica para Filósofos
 ---
 
@@ -35,5 +36,3 @@ Além disso, a CI confere um aspecto diferente de todas as partículas da realid
 Há uma interpretação mais simples onde faltam ainda lacunas criada pelo físico Niehs Bohr. Ele analisa esses fenômenos pela dualidade partícula/onda e cria uma abstração matemática para explicar como o elétron tem seu caminho influenciado pelas medidas feitas e pelo bloqueio do caminho de uma das ondas do que ele chama de "espaço configuracional", uma abstração que divide a onda associada à partícula em duas (ainda que a partícula seja apenas uma).
 
 Ainda há de nascer uma teoria que explique melhor os efeitos descobertos na física quântica, mas por enquanto é necessário um pouco de ceticismo sobre qualquer explicação atual, principalmente a que precisa negar a própria lógica que tornou possível chegar às conclusões dos experimentos e da própria ciência como um todo.
-
-Original: http://www.owl232.net/qm.htm

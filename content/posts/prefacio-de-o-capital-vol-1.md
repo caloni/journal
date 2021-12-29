@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
+- blog
 date: '2017-06-27'
 tags:
-- draft
 - reading
 title: Prefácio de O Capital Vol. 1
 ---

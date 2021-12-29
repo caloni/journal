@@ -1,9 +1,9 @@
 ---
 categories:
-- reviews
+- blog
 date: '2017-06-27'
+link: https://spot.colorado.edu/~huemer/papers/confirm.htm
 tags:
-- draft
 - reading
 title: 'Confirmation Theory: Hume''s Refutation of Induction'
 ---
@@ -18,5 +18,3 @@ Este recorte se trata da explicação do filósofo Michael Huemer sobre a "refut
 6. And since all inductive inference presupposes the Uniformity Principle, any inductive argument for it would be circular. 
 7. So the Uniformity principle cannot be justified. (from 1,4,5,6) 
 8. Hence, no inductive conclusion is justified.
-
-Fonte: http://www.owl232.net/confirma.htm

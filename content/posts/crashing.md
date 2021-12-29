@@ -4,12 +4,11 @@ categories:
 date: '2017-07-04'
 link: https://www.imdb.com/title/tt5295524
 tags:
-- draft
 - series
 title: Crashing
 ---
 
-Eu já falei que a filmografia britânica é obviamente superior aos puritanos estadunidenses, seja no cinema ou em séries de tv. E Crashing não é exceção. Aliás, além de regra, é uma prova que, por contraste, besteiras como How I Met Your Mother já se beneficiariam só de serem produzidas na terra da rainha. A desvantagem dos ingleses é que suas séries são curtas demais.
+Eu já falei que a filmografia britânica é obviamente superior aos puritanos estadunidenses, seja no cinema ou em séries de TV. E Crashing não é exceção. Aliás, além de regra, é uma prova que, por contraste, besteiras como How I Met Your Mother já se beneficiariam só de serem produzidas na terra da rainha. A desvantagem dos ingleses é que suas séries são curtas demais.
 
 Essa tem em sua primeira temporada seis episódios de meia-hora cada. Apresenta casais inusitados vivendo em um prédio abandonado. Seu núcleo é um triângulo amoroso previsível e mesmo assim divertido. Os personagens da série parecem não fazer muito esforço e naturalmente são divertidos.
 

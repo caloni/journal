@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- blog
 date: '2017-05-30'
 tags:
 - recipes
-- draft
 - food
 title: Pão de Alho
 ---

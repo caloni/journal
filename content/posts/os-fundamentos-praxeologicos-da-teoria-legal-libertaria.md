@@ -1,16 +1,16 @@
 ---
 categories:
-- reviews
+- blog
 date: '2017-05-28'
+link: https://ideallibertario.wordpress.com/2016/04/25/os-fundamentos-praxeologicos-da-teoria-legal-libertaria/
 tags:
-- draft
 - reading
 title: Os fundamentos praxeológicos da Teoria Legal Libertária
 ---
 
 Em essência, a ética libertária não ambiciona buscar o que é certo, mas em determinar o que com certeza não pode ser justificado. Este meu artigo cita alguns pontos vitais do artigo de Lacombi Lauss.
 
-Este raciocínio não deduz um "dever ser" de um "ser"; ele apenas enfatiza a autocontradição ao se negar uma proposição de dever ser o homesteanding ou a autopropriedade. 
+Este raciocínio não deduz um "dever ser" de um "ser"; ele apenas enfatiza a autocontradição ao se negar uma proposição de dever ser o homesteading ou a autopropriedade. 
 
 Apesar do nome "propriedade privada", é necessário que suas fronteiras estejam publicamente visíveis e objetivamente determinadas, pois somente assim a divisão entre o seu e o meu estará clara e o comportamento ético será possível. 
 
@@ -18,8 +18,6 @@ O fronteiramento atua como uma comunicação não-verbal, funcionando como uma d
 
 Com esses conceitos em mente, pode-se observar que, se existisse uma regra ética segundo a qual os cidadãos pacíficos teriam que punir agressores, então, além de irrealista, ela iria contradizer a já estabelecida norma da autopropriedade, pois o indivíduo pacífico que negar segui-la teria também que ser agredido. Além disso, uma regra ética distinguindo pessoas em grupos como "pacíficos" e "agressores" sequer passaria no primeiro teste formal da universalização. 
 
-Tomemos, para fins de ilustração, o socialismo marxista como exemplo. A partir dessa nossa perspectiva, fica claro que tal filosofia política está longe de ser um sistema igualitário, visto que, declarar todos como coproprietários de tudo resolve os problemas das diferenças de propriedade apenas nominalmente, mas não resolve o real problema subjacente: diferenças de poder para controlar. O problema de determinar o que deve ser feito com os meios de produção ainda existe e deve ser resolvido de algum modo, sabido que não há nenhuma harmonia pré-estabelecida e presincronizada de interesses entre todas as pessoas, mas, ao contrário, algum grau de desacordo. Apenas uma opinião sobre o que deve ser feito pode de fato prevalecer e as outras devem serem excluídas. Entretanto, então novamente outras desigualdades aparecerão entre o povo: a opinião de um indivíduo ou de algum grupo deve sobrepor-se às dos demais. 
+Tomemos, para fins de ilustração, o socialismo marxista como exemplo. A partir dessa nossa perspectiva, fica claro que tal filosofia política está longe de ser um sistema igualitário, visto que, declarar todos como coproprietários de tudo resolve os problemas das diferenças de propriedade apenas nominalmente, mas não resolve o real problema subjacente: diferenças de poder para controlar. O problema de determinar o que deve ser feito com os meios de produção ainda existe e deve ser resolvido de algum modo, sabido que não há nenhuma harmonia pré-estabelecida e pré-sincronizada de interesses entre todas as pessoas, mas, ao contrário, algum grau de desacordo. Apenas uma opinião sobre o que deve ser feito pode de fato prevalecer e as outras devem serem excluídas. Entretanto, então novamente outras desigualdades aparecerão entre o povo: a opinião de um indivíduo ou de algum grupo deve sobrepor-se às dos demais. 
 
 No socialismo, também, diferenças reais entre controladores e não controladores devem necessariamente existir; mas são determinadas de modo arbitrário, pelas vias da regra do mais forte daqueles que detém maior poder político. 
-
-Fonte: https://ideallibertario.wordpress.com/2016/04/25/os-fundamentos-praxeologicos-da-teoria-legal-libertaria/

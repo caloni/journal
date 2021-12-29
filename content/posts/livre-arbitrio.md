@@ -1,9 +1,9 @@
 ---
 categories:
-- reviews
+- blog
 date: '2017-05-28'
+link: https://www.owl232.net/papers/fwill.htm
 tags:
-- draft
 - reading
 title: Uma prova simples e modesta da existência do livre-arbítrio
 ---
@@ -14,7 +14,7 @@ Uma prova simples e modesta do livre-arbítrio, ou pelo menos que refute o "dete
 2. O que deveria ser feito pode ser feito (não se pode fazer o impossível).
 3. Se o determinismo (duro) é verdadeiro, então qualquer coisa que pode ser feita será feita (não há alternativa).
 4. Eu acredito no livre arbítrio (premissa).
-5. Com respeito ao livre arbítrio, nós podemos evitar evitar acreditar no que é falso (de 1,2).
+5. Com respeito ao livre arbítrio, nós podemos evitar acreditar no que é falso (de 1,2).
 6. Se o determinismo é verdadeiro, então com respeito ao livre arbítrio, nós evitamos acreditar no que é falso (de 3,5).
 7. Se o determinismo é verdadeiro, então o livre arbítrio é verdadeiro (de 6,8).
 8. O livre arbítrio é verdadeiro
@@ -35,5 +35,3 @@ O núcleo do raciocínio é que vemos que se o determinismo é verdadeiro o livr
 Há quatro objeções à lógica aplicada no raciocínio, sendo que algumas delas são interessantes, outras não. Sugiro dar uma lida no original. A mais interessante de todas é a primeira, que afirma a premissa (1) implorar a questão. No entanto, como Huemer desenvolve, a questão só consegue de fato cair na falácia circular de quem desenvolver o raciocínio já assumir que o determinismo é verdadeiro. Porém, se este for o caso, não há abertura para o desenvolvimento racional da questão, que é a própria conclusão final de Huemer. Ao aceitar o determinismo, as premissas básicas da própria lógica não podem ser aceitas, já que os conceitos de falso e verdadeiro são inúteis.
 
 E esse é um ótimo motivo para acreditar em livre arbítrio.
-
-Fonte: http://www.owl232.net/fwill.htm.
