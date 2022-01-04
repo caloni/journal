@@ -4,7 +4,6 @@ categories:
 date: '2018-02-27'
 link: https://www.imdb.com/title/tt4158110
 tags:
-- draft
 - series
 title: 'Mr Robot: Terceira Temporada'
 ---
@@ -23,6 +22,6 @@ Esta temporada conta mais do mesmo, mas parece ser justamente o que procuramos: 
 
 Há o crescimento de muitos personagens que começam a se tornar mais interessantes que apenas meros coadjuvantes, como Bobby Cannavale, que chega chegando com seu vendedor de carros falastrão. A personagem que se torna ligeiramente forçada é Angela, que apesar da boa atuação de Portia Doubleday vai se tornando cada vez mais inverossímil. Me lembrou a irmã de Dexter...
 
-A dupla imbatível é mesmo Rami Malek e Christian Slater. Ou deveria dizer o trio? O diretor/idealizador Sam Esmail Eu Estava Justamente Pensando em Você consegue melhorar sua técnica de direção ao extremo. Afeito a brincadeiras e truques, seu uso de enquadramentos aqui beira o perfeccionismo. "Mr. Robot", apesar de ser um jogo mental, ganha outros contornos artísticos bem articulados, como o episódio inteiro em plano-sequência do ataque ao prédio da E-Corp, uma aula de cinema.
+A dupla imbatível é mesmo Rami Malek e Christian Slater. Ou deveria dizer o trio? O diretor e idealizador Sam Esmail (Eu Estava Justamente Pensando em Você) consegue melhorar sua técnica de direção ao extremo. Afeito a brincadeiras e truques, seu uso de enquadramentos aqui beira o perfeccionismo. "Mr. Robot", apesar de ser um jogo mental, ganha outros contornos artísticos bem articulados, como o episódio inteiro em plano-sequência do ataque ao prédio da E-Corp, uma aula de cinema.
 
 Sempre disposto a não tornar fácil para o espectador acompanhar Elliot em sua jornada do herói/anti-herói, Esmail impulsiona o que há de melhor na série nesta temporada e apesar dos furos e deslizes do roteiro se aproxima mais ainda do universo idealizado do hacker. Não meramente o hacker de computador, mas o hacker da vida, que quer entender tudo, e que se aproxima cada vez mais da dura realidade...

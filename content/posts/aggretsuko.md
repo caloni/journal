@@ -4,7 +4,6 @@ categories:
 date: '2018-05-16'
 link: https://www.imdb.com/title/tt8019444
 tags:
-- draft
 - animes
 - series
 title: Aggretsuko
@@ -16,6 +15,6 @@ A grande sacada da série é explorar tanto o lado feminino da protagonista quan
 
 O design dos personagens é realmente fofinho, e é isso que torna tudo muito mais engraçado. Uma Retsuko dramática não conseguiria extrair toda a tragicomédia de uma Retsuko com mil e uma formas de alterar seu rosto, com os toques tão característicos dos animes japoneses em colocar detalhes nos rostos de seus personagens quando seu humor se altera.
 
-Sem ter a menor condição de evoluir qualquer história sem trair o princípio da história, Aggretsuko se retorce e faz nascer em seu terceiro ato um dos momentos mais maduros que um anime fofinho poderia ter: uma análise visual e visceral da paixão. E junto dela, o porquê que toda e qualquer mulher deveria se ver do lado de fora dessa doença.
+Sem ter a menor condição de evoluir qualquer história sem trair seu princípio, Aggretsuko se retorce e faz nascer em seu terceiro ato um dos momentos mais maduros que um anime fofinho poderia ter: uma análise visual e visceral da paixão. E junto dela, o porquê que toda e qualquer mulher deveria se ver do lado de fora dessa doença.
 
 Não se engane, não é um desenho fofinho para crianças. É um desenho para mulheres se divertirem ao final do fastidioso dia no escritório.

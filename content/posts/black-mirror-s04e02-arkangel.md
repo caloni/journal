@@ -4,7 +4,6 @@ categories:
 date: '2018-01-12'
 link: https://www.imdb.com/title/tt2085059
 tags:
-- draft
 - series
 title: Black Mirror - S04E02 - Arkangel
 ---

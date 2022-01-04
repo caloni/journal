@@ -4,7 +4,6 @@ categories:
 date: '2018-02-27'
 link: https://www.imdb.com/title/tt4093826
 tags:
-- draft
 - series
 title: Twin Peaks (2017)
 ---

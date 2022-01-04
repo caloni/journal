@@ -4,8 +4,8 @@ categories:
 date: '2017-10-21'
 link: https://www.imdb.com/title/tt2861424
 tags:
-- draft
 - series
+- animation
 title: 'A Filosofia de Rick And Morty: Primeira Temporada (anotações)'
 ---
 
@@ -19,7 +19,7 @@ Reassistindo a Primeira Temporada de Rick & Morty para revisar alguns pontos fil
 
  - S01E04 Episódio sobre simulações consegue ao mesmo tempo levantar a questão se eventos significativos de nossa vida continuariam assim se soubéssemos que estamos em uma simulação (Jerry novamente), e ainda tem a questão de como uma raça avançada ainda tem vergonha da nudez (alegoria dos estúpidos americanos?).
 
- - S01E05 Morty tem sua aventura como principal e vai na terra de gigantes. Lá descobre que uma aventura não tem muito sentido por ela mesma, e é traumatizado ao tentar ser estuprado (Thelma e Louise?). Já na terra os meeseeks precisam atender os desejos de um ser medíocre como Jerry, o que os leva à loucura completa. Como meeseks têm sua existência curta definida em atender um desejo e sumid, vem a mesma questão das vacas em Mochileiro das Galáxias. Rick aprende que é a postura diante dos eventos do mundo o que o torna melhor. Ele acena no final do desenho para nós, piscando sua existência.
+ - S01E05 Morty tem sua aventura como principal e vai na terra de gigantes. Lá descobre que uma aventura não tem muito sentido por ela mesma, e é traumatizado ao tentar ser estuprado (Thelma e Louise?). Já na terra os meeseeks precisam atender os desejos de um ser medíocre como Jerry, o que os leva à loucura completa. Como meeseks têm sua existência curta definida em atender um desejo e sumir, vem a mesma questão das vacas em Mochileiro das Galáxias. Rick aprende que é a postura diante dos eventos do mundo o que o torna melhor. Ele acena no final do desenho para nós, piscando sua existência.
 
  - S01E06 Múltiplos universos, Rick and Morty vão para um onde tudo foi consertado e eles morreram ao mesmo tempo. O nosso desejo por reprodução aparentemente está abaixo do super-homem que Rick decidiu ser quando aceitou o absurdo da realidade que vive. Referência a Cronenberg.
 

@@ -4,7 +4,6 @@ categories:
 date: '2017-09-18'
 link: https://www.imdb.com/title/tt0877057
 tags:
-- draft
 - animes
 - series
 title: 'Death Note: Notas da Morte'
@@ -28,4 +27,4 @@ A fotografia de Death Note é sempre sombria, mesmo que seus personagens princip
 
 Detendo o poder de subjugar a raça humana, ele decide acabar com os maus. Quantos teriam revelado a mesma virtude, em vez de trilhar o caminho mais fácil do poder, dinheiro e fama? Light quer fama, mas está disposto a sacrificar todo o resto para seguir seu código moral que, na visão dele, irá trazer o melhor dos seres humanos à tona, eliminando as víboras, os parasitas, as pragas da sociedade. Não é um objetivo digno de um vilão, mas de um herói. E o fato de sabermos que Light é um gênio apenas eleva suas ideias como provavelmente certas.
 
-A questão que o "filme" de 13 horas se recusa a explorar essa questão de maneira dúbia, o que o tornaria aí sim algo de respeito. Ele prefere o caminho fácil, com o final fácil. Light ficaria extremamente desapontado, mais uma vez, com a humanidade.
+O "filme" de 13 horas se recusa a explorar essa questão de maneira dúbia, o que o tornaria aí sim algo de respeito. Ele prefere o caminho e o final fáceis. Light ficaria extremamente desapontado, mais uma vez, com a humanidade.

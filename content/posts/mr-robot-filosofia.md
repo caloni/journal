@@ -4,7 +4,6 @@ categories:
 date: '2017-08-28'
 link: https://www.imdb.com/title/tt4158110
 tags:
-- draft
 - series
 title: Filosofia De Mr Robot
 ---
@@ -15,7 +14,7 @@ Elliot e o mundo que o cerca é a tradução do que estamos vivendo após a cris
 
 Dessa forma pessoas endividadas por uma mega-corporação e uma criança abusada quando criança são reflexos dessas pessoas e dessa criança. Isso não significa que a criança possui alguma culpa por ter sido abusada. Significa que as pessoas não têm culpa, individualmente, de ter gerado essa crise. Porém, de maneira ambígua, os pais e o sistema financeiro mundial são ao mesmo tempo algozes e criaturas.
 
-Mr. Robot coloca tudo sob perspectiva. Todas as explicações, de todos os lados, são jogadas em cima da mesa. A consequência disso é que não é possível, logicamente, dizer que há bandidos e mocinhos nesta história. Quando fulano diz que gostou de sicrano ter de matado, pois era um fraco, sim, ele está logicamente correto. O que expõe a verdade crua da natureza humana do homem: a Teoria da Evolução. Só os mais "fortes", ou aptos, sobrevivem. Não de força física, mas mental. Somos animais racionais. Os que suportarem a existência humana e sua condenação inicial de que somos livres (Sartre) terão que tomar a decisão de cumprirem suas funções na sociedade (seja ela qual for) ou se transformarem conscientemente em robôs, vivendo uma ilusão onde há controle.
+Mr. Robot coloca tudo sob perspectiva. Todas as explicações, de todos os lados, são jogadas em cima da mesa. A consequência disso é que não é possível, logicamente, dizer que há bandidos e mocinhos nesta história. Quando fulano diz que gostou de sicrano ter se matado, pois era um fraco, sim, ele está logicamente correto. O que expõe a verdade crua da natureza humana do homem: a Teoria da Evolução. Só os mais "fortes", ou aptos, sobrevivem. Não de força física, mas mental. Somos animais racionais. Os que suportarem a existência humana e sua condenação inicial de que somos livres (Sartre) terão que tomar a decisão de cumprirem suas funções na sociedade (sejam elas quais forem) ou se transformarem conscientemente em robôs, vivendo uma ilusão onde há controle.
 
 Mas, adivinha só? Em ambos os casos, ninguém possui esse controle muito além de nossas próprias cabeças, e é por isso que o nível máximo de liberdade está chegando e está nas mãos de quem controla computadores. Software, máquinas inteligentes e inertes. Código maleável. Engenharia social, hackeando a própria mente humana. Bitcons, a solução tecnológica da moeda.
 
