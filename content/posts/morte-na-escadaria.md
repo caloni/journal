@@ -4,9 +4,8 @@ categories:
 date: '2018-06-25'
 link: https://www.imdb.com/title/tt0388644
 tags:
-- draft
 - series
-title: Morte Na Escadaria (Staircase)
+title: Morte na Escadaria (Staircase)
 ---
 
 Mais uma série que demonstra a incompetência e/ou a má fé do sistema americano de justiça. Ou podemos dizer a má fé de qualquer sistema de justiça estatal? Perdoem-me os religiosos, mas um sistema que paga juiz e advogado de acusação pela mesma folha não tem muitas chances de ser algo remotamente imparcial.
@@ -19,4 +18,4 @@ Só que racionalidade não existe no condado de Durham, que apesar de bem ao nor
 
 Além disso temos a situação da sexualidade de Peterson. Dentro de um casamento heterossexual em uma família formada por outro casamento e diversos filhas e um filho vivendo em harmonia por tantos anos, Peterson também tinha um lado homossexual conhecido apenas por sua esposa. Quando isso vem à tona é como se fosse sua declaração de culpado por homicídio estampado em sua testa.
 
-Recheado de incongruências em seu processo, e nos dando de brinde sua conclusão em 2017 (os documentaristas estavam a postos para fechar seu arco da vida real), Staircase é um trabalho coerente do começo ao fim, que consgue aparar as arestas de um tortuoso processo, que no começo nos dá o benefício da dúvida de ambos os lados, mas que acaba descambando para o inevitável: a justiça humana possui falhas tão inerentes à nossa natureza, que a única coisa que nos resta é lamentar.
+Recheado de incongruências em seu processo, e nos dando de brinde sua conclusão em 2017 (os documentaristas estavam a postos para fechar seu arco da vida real), Staircase é um trabalho coerente do começo ao fim, que consegue aparar as arestas de um tortuoso processo, que no começo nos dá o benefício da dúvida de ambos os lados, mas que acaba descambando para o inevitável: a justiça humana possui falhas tão inerentes à nossa natureza que a única coisa que nos resta é lamentar.

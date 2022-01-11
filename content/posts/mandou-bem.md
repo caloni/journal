@@ -4,7 +4,6 @@ categories:
 date: '2018-07-01'
 link: https://www.imdb.com/title/tt6987788
 tags:
-- draft
 - series
 title: Mandou Bem
 ---

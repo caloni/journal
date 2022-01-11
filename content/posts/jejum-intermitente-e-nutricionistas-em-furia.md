@@ -1,9 +1,9 @@
 ---
 categories:
-- reviews
+- blog
 date: '2018-08-18'
+link: https://youtu.be/-X0A5etb0kk
 tags:
-- draft
 - reading
 title: Jejum Intermitente e Nutricionistas em Fúria
 ---
@@ -12,7 +12,7 @@ Eu entendo que nutricionistas precisem defender sua profissão. Muitas pessoas n
 
 O que eu não entendo de tudo isso é a razão pela qual conteúdo duvidoso é escolhido como base de notícias pelo canais de mídia. O jejum intermitente finalmente foi escolhido para ser explicado (e criticado) cientificamente aos leigos, mesmo já sendo moda há alguns anos mas entre dezenas de papers e experimentos realizados em camundongos e humanos por vários anos foi escolhido apenas um experimento recente feito por dois estudantes de pós da USP, sem revisão por pares e já com algumas críticas da comunidade científica por conta de sua metodologia.
 
-O motivo pelo qual resolvi escrever um pouco a respeito disso é que eu faço jejum intermitente há mais de um ano por sugestão de um amigo que havia começado há pouco tempo e que antes de ter tomada essa decisão resolveu estudar a fundo os efeitos dessa, podemos dizer, dieta. Eu comecei a fazer e em paralelo fui estudando, seja em blogs para algo mais informal, descartando mitos ou até em papers mais detalhados, onde se observou longevidade em camundongos e aplicações moleculares da dieta. Por fim, há até uma palestra no TED sobre como funciona o aprimoramento do cérebro pelo jejum (e uma possível conspiração da indústria alimentícia contra esse método de dieta) e, para os mais radicais, uma observação molecular de como funciona o processo de acúmulo e uso de energia no corpo humano.
+O motivo pelo qual resolvi escrever um pouco a respeito disso é que eu faço jejum intermitente há mais de um ano por sugestão de um amigo que havia começado há pouco tempo e que antes de ter tomado essa decisão resolveu estudar a fundo os efeitos dessa, podemos dizer, dieta. Eu comecei a fazer e em paralelo fui estudando, seja em blogs para algo mais informal, descartando mitos ou até em papers mais detalhados, onde se observou longevidade em camundongos e aplicações moleculares da dieta. Por fim, há até uma palestra no TED sobre como funciona o aprimoramento do cérebro pelo jejum (e uma possível conspiração da indústria alimentícia contra esse método de dieta) e, para os mais radicais, uma observação molecular de como funciona o processo de acúmulo e uso de energia no corpo humano.
 
 Dessa forma, fiquei muito surpreso ao ver um vídeo no canal Notícias de Garagem, um canal que supostamente era um dos mais conceituados sobre notícias científicas em português do YouTube, falando sobre Jejum Intermitente apenas sob três aspectos principais, dois negativos: ele gera queda de peso, ele pode prejudicar o senso de fome e ele pode causar diabetes.
 
@@ -26,13 +26,11 @@ Considerando todas as infomações coletadas em diversas fontes é possível per
 
 Fontes citadas:
 
- - https://www.healthline.com/nutrition/intermittent-fasting-guide
- - https://www.google.com.br/search?q=intermittent+fasting
- - https://www.healthline.com/nutrition/11-myths-fasting-and-meal-frequency
- - http://openwritings.net/sites/default/files/excerpt/files/J.%20Nutr.-1946-Carlson-363-75.pdf
- - https://www.ncbi.nlm.nih.gov/pubmed/24440038
- - https://youtu.be/4UkZAwKoCP8
- - https://youtu.be/0xj4etF0wkw
- - https://youtu.be/-X0A5etb0kk
- - https://jornal.usp.br/ciencias/ciencias-biologicas/jejum-intermitente-24-por-24-horas-aumenta-risco-de-diabete-em-ratos/
- - http://www.sciencemediacentre.org/expert-reaction-to-unpublished-poster-presentation-on-diabetes-and-fasting-as-presented-at-the-european-society-of-endocrinology-annual-meeting-ece-2018/
+ - [Intermittent Fasting 101 — The Ultimate Beginner’s Guide](https://www.healthline.com/nutrition/intermittent-fasting-guide)
+ - [Google](https://www.google.com.br/search?q=intermittent+fasting)
+ - [11 Myths About Fasting and Meal Frequency](https://www.healthline.com/nutrition/11-myths-fasting-and-meal-frequency)
+ - [Fasting: molecular mechanisms and clinical applications](https://www.ncbi.nlm.nih.gov/pubmed/24440038)
+ - [Why fasting bolsters brain power: Mark Mattson at TED](https://youtu.be/4UkZAwKoCP8)
+ - [Glycogen in Four Parts](https://youtu.be/0xj4etF0wkw)
+ - [Jejum intermitente “24 por 24” horas aumenta risco de diabete em ratos](https://jornal.usp.br/ciencias/ciencias-biologicas/jejum-intermitente-24-por-24-horas-aumenta-risco-de-diabete-em-ratos/)
+ - [expert reaction to unpublished poster presentation on diabetes and fasting as presented at the European Society of Endocrinology annual meeting, ECE 2018](http://www.sciencemediacentre.org/expert-reaction-to-unpublished-poster-presentation-on-diabetes-and-fasting-as-presented-at-the-european-society-of-endocrinology-annual-meeting-ece-2018/)

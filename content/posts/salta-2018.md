@@ -3,7 +3,7 @@ categories:
 - blog
 date: '2018-07-04'
 tags:
-- draft
+- trips
 title: Salta, 2018
 ---
 
@@ -13,7 +13,7 @@ Ano passado conheci a região em uma integração de vôo complicada entre São 
 
 De qualquer forma, pela Argentina há dois aeroportos por onde é possível chegar próximo da região de vinhos, que gira em torno da cidadezinha ("inha" mesmo) de Cafayate, na província de Salta: em Salta (cidade) ou Tucumán, na província vizinha. Ambas as capitais possuem estradas que conectam a Cafayate, e ambas possuem companhias de ônibus operando por esses caminhos (é só chegar no guichê e pedir pelo destino de Cafayate, geralmente há três ou quatro viagens por dia; se não souber qual companhia pergunte em qualquer guichê; quando fui por Salta operava a Flecha Bus e por Tucumán a Aconquija).
 
-A região é bem montanhosa e existe praticamente no meio da cordilheira dos Andes. Indo por Salta, na Ruta 40, o caminho passa por diversos cartões postais, como a Garganta do Diabo. Um trajeto de tirar o fôlego (a primeira imagem deste texto é de lá). O caminho por Tucumán é mais longo, cerca de cinco horas de ônibus e uma parada no meio, e reserva algumas paisagens bem interessantes também. Ambos os caminhos sobem e descem por montanhas. Para quem já fez o trajeto Santiago/Mendoza irá se lembrar mais do caminho de Salta pelas similaridades com o clima desértico. Por Tucumán há mais vales no meio que são uma surpresa. Se pegar o ônibus peça para ir na frente. Comprando com mais antecedência há chance de ir nos primeiros assentos de cima (são dois andares) e a vista vale a pena.
+A região é bem montanhosa e existe praticamente no meio da cordilheira dos Andes. Indo por Salta, na Ruta 40, o caminho passa por diversos cartões postais, como a Garganta do Diabo. Um trajeto de tirar o fôlego. O caminho por Tucumán é mais longo, cerca de cinco horas de ônibus e uma parada no meio, e reserva algumas paisagens bem interessantes também. Ambos os caminhos sobem e descem por montanhas. Para quem já fez o trajeto Santiago/Mendoza irá se lembrar mais do caminho de Salta pelas similaridades com o clima desértico. Por Tucumán há mais vales no meio que são uma surpresa. Se pegar o ônibus peça para ir na frente. Comprando com mais antecedência há chance de ir nos primeiros assentos de cima (são dois andares) e a vista vale a pena.
 
 Sobre dinheiro, Salta e Tucumán trocam reais. Cafayate apenas dólar. Em Salta e Cafayate procure pelo Banco de La Nación Argentina e peça para "cambiar reales". Em Tucumán compensa buscar a rua desse mesmo banco e buscar por uma casa de câmbio de rua. Não é clandestina, eles emitem recibo e tudo. Aliás, use notas de moedas sem rasgos nem rasuras; eles são muito chatos com isso, principalmente nos bancos. Procure por "cambio" no Google Maps e vai achar a rua dos bancos.
 

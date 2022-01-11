@@ -4,7 +4,6 @@ categories:
 date: '2018-07-04'
 link: https://www.imdb.com/title/tt3781836
 tags:
-- draft
 - series
 title: Botched
 ---
@@ -15,4 +14,4 @@ Mas Botched não começa de uma pessoa insatisfeita com seu corpo natural e a pa
 
 Quer dizer, não é apenas design. Quando pessoas possuem alguma carência em sua auto estima há um problema de socialização gigante que apenas um par de seios ainda maior pode resolver.
 
-Nesse sentido a série é um misto entre o entretenimento de acompanharmos operações que são possíveis hoje em dia, mesmo que com riscos consideráveis envolvidos, e uma análise curiosa, diretamente sobre os envolvidos, de como o psicológico trabalha na cabeça dessas pessoas, e como nossa visão estética da sociedade como um todo trabalha para criar algumas distorções de realidade.
+Nesse sentido a série é um misto entre o entretenimento de acompanharmos operações que são possíveis hoje em dia, mesmo que com riscos consideráveis, e uma análise curiosa e direta sobre os envolvidos, de como o psicológico trabalha na cabeça dessas pessoas, e como nossa visão estética da sociedade como um todo trabalha para criar algumas distorções de realidade.

@@ -4,7 +4,6 @@ categories:
 date: '2018-08-06'
 link: https://www.imdb.com/title/tt4580372
 tags:
-- draft
 - series
 title: Merlí
 ---

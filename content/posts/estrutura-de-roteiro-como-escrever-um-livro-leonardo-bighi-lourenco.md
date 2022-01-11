@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2018-07-17'
 tags:
-- draft
 - books
 title: Estrutura de Roteiro
 ---
