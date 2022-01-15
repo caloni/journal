@@ -1,19 +1,18 @@
 ---
 categories:
 - reviews
-date: '2018-12-30'
+date: '2018-12-30T19:10:00-03:00'
 link: https://www.imdb.com/title/tt0475784
 tags:
-- draft
 - series
 title: Westworld (Revisita ao S01 com algumas questões e spoilers)
 ---
 
-A revisita a Westworld vale muito a pena. Detalhes que só serão revelados no final são percebidos desde o começo, e a experiência de torna única novamente. Em meu primeiro texto não me lembro se liberei spoilers (vendo agora... não), mas este aqui é certeza que terá. Como toda revisita a esta série deve ter.
+A revisita a Westworld vale muito a pena. Detalhes que só serão revelados no final são percebidos desde o começo, e a experiência se torna única novamente. Em meu primeiro texto não me lembro se liberei spoilers (vendo agora... não), mas este aqui é certeza que terão. Como toda revisita a esta série deve ter.
 
-Em primeiro lugar, fui desnecessariamente duro com a série em meu primeiro texto. Se trata de uma história necessária para os dias de hoje, e uma história cujo roteirista necessário é possível contar nos dedos. E Jonathan Nolan obviamente está na lista. É dele O Grande Truque, Amnésia e Interestelar. Todos eles possuem algo com Westworl em comum: lidam com mudanças bruscas no tempo, com tempos paralelos e trucagens no tempo.
+Em primeiro lugar, fui desnecessariamente duro com a série em meu primeiro texto. Se trata de uma história necessária para os dias de hoje, e uma história cujo roteirista necessário é possível contar nos dedos. E Jonathan Nolan obviamente está na lista. É dele O Grande Truque, Amnésia e Interestelar. Todos eles possuem algo com Westworld em comum: lidam com mudanças bruscas no tempo, com tempos paralelos e trucagens no tempo.
 
-Aqui a grande trucagem está nos bonecos de Westworld, que por não envelhecerem, podem pertencem a períodos temporais distintos. Porém, seus personagens humanos, esses sim, estão bloqueados no tempo e em sua visão limitada da realidade. Os bonecos conseguem reprogramar suas narrativas de maneira muito mais eficiente que um ser humano, embora vivam seus sonhos (e pesadelos) como se fossem a própria vida. Essas diferenças entre humanos e andróides são vitais para entendermos a escalada dessas criaturas para sua merecida liberdade e consciência.
+Aqui a grande trucagem está nos bonecos de Westworld, que por não envelhecerem podem pertencer a períodos temporais distintos. Porém, seus personagens humanos, esses sim, estão bloqueados no tempo e em sua visão limitada da realidade. Os bonecos conseguem reprogramar suas narrativas de maneira muito mais eficiente que um ser humano, embora vivam seus sonhos (e pesadelos) como se fossem a própria vida. Essas diferenças entre humanos e andróides são vitais para entendermos a escalada dessas criaturas para sua merecida liberdade e consciência.
 
 Mas isso ainda está em xeque. Terão alguns andróides atingido a consciência, ainda que da forma deles? O que dizer de um programador de androides onde ele próprio é um androide? Ele está consciente?
 

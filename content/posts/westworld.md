@@ -1,10 +1,9 @@
 ---
 categories:
 - reviews
-date: '2018-12-30'
+date: '2018-12-30T19:00:00-03:00'
 link: https://www.imdb.com/title/tt0475784
 tags:
-- draft
 - series
 title: Westworld
 ---
@@ -13,7 +12,7 @@ Eu fui programado para escrever esse texto? Posso responder, na melhor das hipó
 
 A série televisiva -- leia-se: lotada de enchimento de linguiça -- Westworld tenta explorar essa questão nos entregando em sua história um parque temático com representações físicas fidedignas de seres humanos, que interagem com os visitantes como personagens "de carne e osso" do velho oeste. Isso permite que os clientes satisfaçam seus desejos mais profundos, geralmente sádicos e sexuais, e ao mesmo tempo coloca em xeque nossos conceitos de moral e ética.
 
-Mas Westworld é mais que isso. Preso ao parque, o conhecimento e tecnologias desenvolvidos durante décadas está nas mãos de poucos investidores, e a criação de histórias e personagens nas mãos de seu fundador. Isso quer dizer que ainda estamos nos limiares do que torna possível desenvolver "cérebros" capazes de conter memórias e processar os mais diferentes tons de emoções humanas, mas ao mesmo conter a racionalidade dessas máquinas em roteiros feitos não apenas para entreter a platéia, mas controlar os anfitriões em um mundo onde todos carregam facas e pistolas.
+Mas Westworld é mais que isso. Preso ao parque, o conhecimento e tecnologias desenvolvidos durante décadas está nas mãos de poucos investidores, e a criação de histórias e personagens nas mãos de seu fundador. Isso quer dizer que ainda estamos nos limiares do que torna possível desenvolver "cérebros" capazes de conter memórias e processar os mais diferentes tons de emoções humanas, mas ao mesmo tempo conter a racionalidade dessas máquinas em roteiros feitos não apenas para entreter a platéia, mas controlar os anfitriões em um mundo onde todos carregam facas e pistolas.
 
 As ideias por trás do seriado ultrapassam sua narrativa em anos-luz. Ainda assim, o tratamento dado pelos idealizadores é digna de respeito, pois pensou nos mais diferentes empecilhos para que aquele experimento pioneiro se contivesse ainda em uma espécie de laboratório mental. O preço para isso são personagens mal desenvolvidos e diálogos que se repetem sem muitas vezes querer dizer alguma coisa mais profunda, e mesmo com os mais devidos respeitos ao personagem de Anthony Hopkins, é difícil não entender desde a primeira cena em que ele aparece que este é um estereótipo tão básico quanto os primeiros bonecos colocados no parque (como Dolores, a eterna mocinha que aguarda pelo resgate).
 

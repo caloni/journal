@@ -3,12 +3,11 @@ categories:
 - reviews
 date: '2018-08-26'
 tags:
-- draft
 - reading
 title: 'George Orwell: Politics and the English Language'
 ---
 
-Politics and the English Language é um texto do George Orwell sobre como escrever de forma mais clara que os confusos escritores de nossa época. A língua inglesa era o que ele estava defendendo, não contra o empobrecimento como muitos eruditos, mas contra o seu uso por si mesma, tornando a mensagem, a coisa mais importante em um texto, secundário. Ao mesmo tempo ele, que é ídolo de vários movimentos totalitários, dá umas alfinetadas tão específicas nos "revolucionários" de hoje em dia que é merecida a citação. Vamos começar:
+Politics and the English Language é um texto do George Orwell sobre como escrever de forma mais clara que os confusos escritores de nossa época. A língua inglesa era o que ele estava defendendo, não contra o empobrecimento como muitos eruditos, mas contra o seu uso por si mesma, tornando a mensagem, a coisa mais importante em um texto, secundária. Ao mesmo tempo ele, que é ídolo de vários movimentos totalitários, dá umas alfinetadas tão específicas nos "revolucionários" de hoje em dia que é merecida a citação. Vamos começar:
 
 > The word Fascism has now no meaning except in so far as it signifies 'something not desirable'. 
 
@@ -29,7 +28,7 @@ Para isso é necessário se fazer algumas perguntas antes de começar a escrever
  - Que imagem ou expressão irá tornar mais claro?
  - Essa imagem é atual suficiente para ter efeito?
  - Eu posso dizer de maneira mais sucinta? E, por último:
- - Eu disse alguma coisa feita que posso evitar?
+ - Eu disse alguma coisa feia que posso evitar?
 
 > A scrupulous writer, in every sentence that he writes, will ask himself at least four questions, thus: What am I trying to say? What words will express it? What image or idiom will make it clearer? Is this image fresh enough to have an effect? And he will probably ask himself two more: Could I put it more shortly? Have I said anything that is avoidably ugly? 
 

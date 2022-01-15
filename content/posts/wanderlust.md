@@ -4,7 +4,6 @@ categories:
 date: '2018-12-26'
 link: https://www.imdb.com/title/tt7608238
 tags:
-- draft
 - series
 title: Wanderlust
 ---
@@ -15,7 +14,7 @@ O que acontece com a moral americana? Monogâmica até as últimas consequência
 
 O problema é que essa premissa não é uma conclusão em si mesma, mas o sintoma de um problema maior na vida de Joy, que irá realizar uma terapia cheia de caminhos óbvios e intelectualizados a respeito da relação de Joy com uma figura paterna inesperada, algo que é mal explorado pela série, que vai colecionando detalhes para tentar criar uma reviravolta inesperada e até certo ponto indesejada pelo espectador, que espera que aquela relação dê certo independente da forma.
 
-Ainda assim, Wanderlust é um trabalho sólido sobre como relacionamentos abertos funcionam, pois ele assume que as pessoas envolvidas são maduras o suficiente para fazer funcionar, mesmo que em alguns momentos as emoções leve essas pessoas a rediscutir a coisa toda. Porém, a pedra no sapato dessa história é revelada de maneira torta, através de um longuíssimo episódio onde duas pessoas conversam em uma terapia cheia de obviedades que são genéricas demais para dizer algo da personagem, exceto que mal a conhecemos.
+Ainda assim, Wanderlust é um trabalho sólido sobre como relacionamentos abertos funcionam, pois ele assume que as pessoas envolvidas são maduras o suficiente para fazer funcionar, mesmo que em alguns momentos as emoções levem essas pessoas a rediscutir a coisa toda. Porém, a pedra no sapato dessa história é revelada de maneira torta, através de um longuíssimo episódio onde duas pessoas conversam em uma terapia cheia de obviedades que são genéricas demais para dizer algo da personagem, exceto que mal a conhecemos.
 
 Joy é vivida por Toni Collette com alma e uma intensidade que flertam com o exagero. Os cacoetes de Collette parecem perfeitamente normais para essa mãe moderna e disposta a balançar sua vida, desde que ela se recupere de uma queda física e psicológica traumatizante. Collette e Mackintosh são as coisas boas nas atuações.
 

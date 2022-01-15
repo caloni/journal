@@ -4,7 +4,6 @@ categories:
 date: '2018-12-08'
 link: https://www.imdb.com/title/tt7255502
 tags:
-- draft
 - series
 title: O Método Kominsky
 ---

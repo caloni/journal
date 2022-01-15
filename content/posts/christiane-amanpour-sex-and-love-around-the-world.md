@@ -4,7 +4,6 @@ categories:
 date: '2018-12-16'
 link: https://www.imdb.com/title/tt8205180
 tags:
-- draft
 - series
 title: 'Christiane Amanpour: Sex and Love Around the World'
 ---

@@ -1,10 +1,9 @@
 ---
 categories:
 - reviews
-date: '2018-12-30'
+date: '2018-12-30T20:00:00-03:00'
 link: https://www.imdb.com/title/tt0475784
 tags:
-- draft
 - series
 title: Westworld S02 Season Finale
 ---

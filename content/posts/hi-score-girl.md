@@ -4,7 +4,6 @@ categories:
 date: '2019-01-17'
 link: https://www.imdb.com/title/tt8963328
 tags:
-- draft
 - animes
 - series
 title: Hi Score Girl
@@ -16,7 +15,7 @@ Ou não. Tendo um estilo que parece obviamente biográfico, acompanhamos a hist�
 
 Se você já foi nerd, gamer, ou nerd gamer, e talvez japonês, sabe que um dos maiores fetiches é por garotas que jogam videogames. Peças raras nos anos 90, quando uma garota entrava no fliperama do bairro quase sempre ela não parecia uma garota. Portanto, não deixa de ser sintomático que aqui ela seja a garota mais bonita da escola.
 
-Haruo tem sua vida pautada nos videogames, e uma relação especial, claro, com Stree Fighter. Seu melhor amigo (imaginário) é um dos lutadores desse jogo, e há alguns momentos que o anime mescla os dois mundos. A trilha sonora, composta pela pianista com foco em videogames Yoko Shimomura, também é um deleite à parte, pois a trilha sonora da série possui aqueles toques conhecidíssimos dos jogos vintage.
+Haruo tem sua vida pautada nos videogames, e uma relação especial, claro, com Street Fighter. Seu melhor amigo (imaginário) é um dos lutadores desse jogo, e há alguns momentos que o anime mescla os dois mundos. A trilha sonora, composta pela pianista com foco em videogames Yoko Shimomura, também é um deleite à parte, pois a trilha sonora da série possui aqueles toques conhecidíssimos dos jogos vintage.
 
 A melhor parte de Hi Score Girl diz respeito à comunicação entre os dois e a passagem dos anos. A óbvia imaturidade de Haruo reflete a imaturidade dos garotos em geral, que, incapaz de perceber que Akira está interessada em sua companhia e não em um adversário, cria boa parte dos conflitos entre os dois. Para apimentar um pouco mais a relação eles colocam uma terceira personagem, outra garota bonita, e agora sim temos o fetiche completo do garoto games: duas lindas garotas disputando sua atenção. E ele autista em torno delas.
 

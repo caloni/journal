@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2018-12-30'
 tags:
-- draft
 - books
 title: 12 Regras Para a Vida, por Jordan Peterson
 ---
@@ -32,7 +31,7 @@ A Regra #4: Se compare com quem você foi ontem, não com o que outra pessoa é 
 
 Parece óbvio, mas não faz o menor sentido se comparar com as outras pessoas. Por outro lado, você mesmo no passado é um ótimo indicativo; principalmente se decidir estar sempre melhor todo dia no decorrer de alguns anos. E sempre trabalhar em parceria com você mesmo, e não como um tirano mandando e desmandando em seu corpo e mente.
 
-A Regra #5: Não deixe suas crianças faça qualquer coisa que faça você desgostar delas (Do not let your children do anything that makes you dislike them)
+A Regra #5: Não deixe que suas crianças façam qualquer coisa que faça você desgostar delas (Do not let your children do anything that makes you dislike them)
 
 Violência na natureza não é algo que precise ser explicado, pois é o padrão. Sociedades organizadas é que precisam de explicação, e às crianças deve ser permitido se socializar o quanto antes para que aprendam a ser úteis nessa organização que temos e a serem indivíduos que as pessoas gostam de ter por perto.
 

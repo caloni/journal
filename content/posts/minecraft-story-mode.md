@@ -4,7 +4,6 @@ categories:
 date: '2018-12-08'
 link: https://www.imdb.com/title/tt4291714
 tags:
-- draft
 - series
 title: Minecraft Story Mode
 ---
