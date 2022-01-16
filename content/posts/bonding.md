@@ -4,7 +4,6 @@ categories:
 date: '2019-04-24'
 link: https://www.imdb.com/title/tt7718088
 tags:
-- draft
 - series
 title: Bonding
 ---
@@ -15,4 +14,4 @@ Bonding, ou Amizade Dolorida (como está na Netflix Brasil), é uma série curti
 
 Os personagens que vão se acumulando nos curtos episódios são assim como eles engraçados e espirituosos. Não é que o roteirista escreveu frases de efeito para todos eles e foi distribuindo. As piadas funcionam do ponto de vista de cada um deles. Este é um trabalho acima da média da Netflix, pois vitimiza pouco os bizarros que tenta homenagear/prencher cota, preferindo dessa vez comemorar as diferenças.
 
-E nesse sentido temos um movimento Community (quando os nerds foram homenageados como deveriam, e não com os retardados de The Big Bang Theory) para variantes sexuais. Os especialistas da área da saúde talvez pirem, mas bem feito para eles, que dependem que as diferenças comportamentais dos mortais existam e sejam tratadas como doença.
+E nesse sentido temos um movimento semelhante à série Community, quando os nerds foram homenageados como deveriam, difernete da série comunzinha The Big Bang Theory. Quer dizer, é este movimento, mas para variantes sexuais. Os especialistas da área da saúde talvez pirem, mas bem feito para eles, que dependem que as diferenças comportamentais dos mortais existam e sejam tratadas como doença.

@@ -4,7 +4,6 @@ categories:
 date: '2019-04-24'
 link: https://www.imdb.com/title/tt9381622
 tags:
-- draft
 - series
 title: Special
 ---

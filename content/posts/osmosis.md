@@ -4,7 +4,6 @@ categories:
 date: '2019-04-16'
 link: https://www.imdb.com/title/tt7043380
 tags:
-- draft
 - series
 title: Osmosis
 ---

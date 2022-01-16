@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- blog
 date: '2019-06-23'
 tags:
 - recipes
-- draft
 - food
 title: Pão de Queijo Mineiro
 ---

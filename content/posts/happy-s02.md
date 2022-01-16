@@ -4,7 +4,6 @@ categories:
 date: '2019-06-09'
 link: https://www.imdb.com/title/tt2452242
 tags:
-- draft
 - series
 title: Feliz! S02
 ---
@@ -15,4 +14,4 @@ O problema aqui é que Happy! Season One no fundo é um grande filme com começo
 
 Nesse não há premissa, apenas a apresentação daqueles personagens que não davam a mínima e um problema infinitamente menor para ser resolvido: o trauma psicológico de uma criança raptada.
 
-E só tem uma coisa a fazer quando o desafio é superar um trauma em uma série violenta: mandar a série de foder e procurar outra coisa pra ver.
+E só tem uma coisa a fazer quando o desafio é superar um trauma em uma série violenta: mandar a série se foder e procurar outra coisa pra ver.

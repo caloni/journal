@@ -3,7 +3,7 @@ categories:
 - blog
 date: '2019-02-18'
 tags:
-- draft
+- movies
 title: Dogville Teatro
 ---
 

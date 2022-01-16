@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- blog
 date: '2019-06-18'
 tags:
 - recipes
-- draft
 - food
 title: Massa Folheada Caseira
 ---

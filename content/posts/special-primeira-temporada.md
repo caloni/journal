@@ -4,7 +4,6 @@ categories:
 date: '2019-04-26'
 link: https://www.imdb.com/title/tt9381622
 tags:
-- draft
 - series
 title: Special Primeira Temporada
 ---
@@ -19,4 +18,4 @@ De acordo com Ryan, sim. Ele fica a temporada inteira mentindo sobre um detalhe 
 
 Special se aproxima de outra série Netflix chamada Love, onde toda a trama é tipo um Big Brother do bem e ficção. Os acontecimentos das duas séries em cada episódio são coisas do tipo "agora fulano vai fazer sexo pela primeira vez", e o que acontece? Ele faz sexo pela primeira vez. "Que legal!", exclama a única pessoa que achou o plot interessante (o próprio roteirista).
 
-Chega uma que a Netflix pausa e pergunta: "tem alguém assistindo essa série?" (Eles fazem isso quando vc deixa os episódios passando no auto-play). E a resposta é "não, mas pode continuar passando; eu não ligo mais, mas vou escrever sobre essa bosta de qualquer jeito".
+Chega uma hora que a Netflix pausa e pergunta: "tem alguém assistindo essa série?" (Eles fazem isso quando vc deixa os episódios passando no auto-play). E a resposta é "não, mas pode continuar passando; eu não ligo mais, mas vou escrever sobre essa bosta de qualquer jeito".
