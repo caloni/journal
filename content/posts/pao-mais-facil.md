@@ -1,11 +1,9 @@
 ---
 categories:
-- reviews
+- blog
 date: '2019-12-26'
 tags:
 - recipes
-- draft
-- food
 title: Pão mais Fácil do Mundo
 ---
 

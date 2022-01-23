@@ -1,9 +1,9 @@
 ---
 categories:
-- blog
+- reviews
 date: '2019-08-17'
 tags:
-- draft
+- food
 title: Restaurante Jojo Ramen
 ---
 
@@ -23,4 +23,4 @@ Próximo prato: tonkotsu, ou miojo de massa feita na hora com caldo de porco, em
 
 Eu comi das diferentes formas que se pode comer este prato: joguei o caldo por cima do macarrão do prato, joguei o macarrão dentro da cumbuca de mar salgado, agarrei um pedaço super-salgado de bacon com um monte de macarrão. Nenhum deles funcionou muito bem, pois o sal usado nessa mistura me lembrará para sempre de quão desagradável é comprar bacon mal curado em mercadinho, daqueles que tem um pouco de gordura além do aceitável e com tantos condimentos usados no maldito porco que a quantidade de sal é explosiva. Eu poderia jurar que o glutamato monossódico estava comendo solto no meu estômago.
 
-Eu posso dizer agora que já tenho mais experiência em Jojo Rámen. Posso dizer que é muito interessante o conceito de Mc Donald's que cobra o olho da cara para que se forme a fila de hipsters na frente e que se trate com pressa seu cliente. Mas, tirando as pequenas reclamações que fiz neste posts, acho importante frisar que a comida não precisa ser boa para refeições com bons amigos. Isso é detalhe, mesmo, se for pensar no que ganha pelo social. Mas se gosta de um bom prato, essa é a única diversão que não terá no Jojo Rámen. Se preferir, na volta para casa passe no Express e pega aquele miojo de frango "caipira". Pelo menos é barato.
+Eu posso dizer agora que já tenho mais experiência em Jojo Rámen. Posso dizer que é muito interessante o conceito de Mc Donald's que cobra o olho da cara para que se forme a fila de hipsters na frente e que se trate com pressa seu cliente. Mas, tirando as pequenas reclamações que fiz neste post, acho importante frisar que a comida não precisa ser boa para refeições com bons amigos. Isso é detalhe, mesmo, se for pensar no que ganha pelo social. Mas se gosta de um bom prato, essa é a única diversão que não terá no Jojo Rámen. Se preferir, na volta para casa passe no Express e pega aquele miojo de frango "caipira". Pelo menos é barato.

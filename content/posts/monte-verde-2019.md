@@ -3,7 +3,7 @@ categories:
 - blog
 date: '2019-12-10'
 tags:
-- draft
+- trips
 title: Monte Verde 2019
 ---
 

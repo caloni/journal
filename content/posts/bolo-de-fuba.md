@@ -1,11 +1,9 @@
 ---
 categories:
-- reviews
+- blog
 date: '2019-09-08'
 tags:
 - recipes
-- draft
-- food
 title: Bolo de Fubá
 ---
 

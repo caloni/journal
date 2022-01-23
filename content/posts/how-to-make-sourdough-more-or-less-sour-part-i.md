@@ -3,7 +3,7 @@ categories:
 - blog
 date: '2019-12-26'
 tags:
-- draft
+- recipes
 title: How to Make Sourdough More or Less Sour Part I
 ---
 

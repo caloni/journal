@@ -4,7 +4,6 @@ categories:
 date: '2019-12-26'
 link: https://www.imdb.com/title/tt7808344
 tags:
-- draft
 - animes
 - series
 title: 'Teasing Master: Takagi-san'
@@ -14,7 +13,7 @@ title: 'Teasing Master: Takagi-san'
 
 A maturidade da série em explorar esta lúdica situação eternamente é uma das melhores coisas que surgiu na Netflix em anos. É simples, mas não simples demais; apenas o suficiente. A complexidade das relações homem/mulher emergem naturalmente, em traços tão significativos que não requer muitos diálogos, e nunca falas que expõem o que está realmente acontecendo, e por que existe essa tensão entre eles.
 
-É quase imperativo que seja assim, pois se trata de crianças, mas é na maneira ingênua que é possível entender melhor como agem os homens e mulheres depois de adultos, além de nos lembrarmos como agíamos nessa idade, e entender que pouca coisa mudou, pelo menos para a maioria.
+É quase imperativo que seja assim, pois se tratam de crianças, mas é na maneira ingênua que é possível entender melhor como agem os homens e mulheres depois de adultos, além de nos lembrarmos como agíamos nessa idade, e entender que pouca coisa mudou, pelo menos para a maioria.
 
 Que homens são imaturos por natureza não é novidade, mas o frescor com que a série apresenta a contraparte desse fato, através de uma menina adorável que contraria as regras orientais de etiqueta para seu gênero, que deve ser tímida por obrigação, é um dos pontos fortes. Pode não parecer para nós, ocidentais, mas esta menina de 12, 13 anos está desafiando o status quo dos papéis da sociedade japonesa.
 

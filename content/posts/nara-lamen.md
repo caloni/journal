@@ -1,9 +1,9 @@
 ---
 categories:
-- blog
+- reviews
 date: '2019-08-21'
 tags:
-- draft
+- food
 title: Restaurante Nara Lámen
 ---
 

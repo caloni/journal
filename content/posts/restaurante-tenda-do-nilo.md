@@ -1,9 +1,8 @@
 ---
 categories:
-- blog
+- reviews
 date: '2019-08-19'
 tags:
-- draft
 - food
 title: Restaurante Tenda Do Nilo
 ---

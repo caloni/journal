@@ -1,9 +1,9 @@
 ---
 categories:
-- blog
+- reviews
 date: '2019-09-29'
 tags:
-- draft
+- food
 title: Restaurante Daiki Sushi
 ---
 
@@ -15,10 +15,8 @@ Outra combinação que costuma falhar em SP é o sushi com tarê. Esse molho agr
 
 Por falar nisso, os sushis com peixe e arroz vêm na combinação certa. Não é necessário colocar wasabi ou shoyu. Dê uma chance ao chef. Aqui ele sabe o que está fazendo.
 
-Sashimis de peixe com tamanho carnudo e firme, sashimis de polvo que guardam a textura característica com o favor do mar ao final e skins que vêm intenso como deveriam. A rodada principal faz lembrar porque a culinária japonesa é tão requisitada. Nós, paulistanos, nos esquecemos disso nos infinitos rodízios com cebolinha e cream cheese industrial.
+Sashimis de peixe com tamanho carnudo e firme, sashimis de polvo que guardam a textura característica com o sabor do mar ao final e skins que vêm intensos como deveriam. A rodada principal faz lembrar por que a culinária japonesa é tão requisitada. Nós, paulistanos, nos esquecemos disso nos infinitos rodízios com cebolinha e cream cheese industrial.
 
-Experimentei o saquê que estava escrito no cardápio para os "bons bebedores", o Hakushika Harakuchi, seco e intenso, com final levemente amargo. Aprendi a importância da temperatura fria. Deve ser um saquê muito requisitado, pois acabou a garrafa. Tivemos que pedir outro mais comum, doce e suave, e mais frutado, o Hakushika Yamadanishi Honozo. Os saquêws Honozo se chamam assim porque há adição de álcool destilado (no máximo 30%) e o polimento do arroz mínimo também de 30%. Não entendo nada de saquês, mas este combinou bem com a comida, apesar de obviamente mais leve que o Hakushika Harakuchi.
+Experimentei o saquê que estava escrito no cardápio para os "bons bebedores", o Hakushika Harakuchi, seco e intenso, com final levemente amargo. Aprendi a importância da temperatura fria. Deve ser um saquê muito requisitado, pois acabou a garrafa. Tivemos que pedir outro mais comum, doce e suave, e mais frutado, o Hakushika Yamadanishi Honozo. Os saquês Honozo se chamam assim porque há adição de álcool destilado (no máximo 30%) e o polimento do arroz mínimo também de 30%. Não entendo nada de saquês, mas este combinou bem com a comida, apesar de obviamente mais leve que o Hakushika Harakuchi.
 
 Tudo funciona nesse restaurante no bairro Vila Mariana, quase em frente à Cinemateca. Ir uma vez é certeza de querer voltar.
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14625.493002926101!2d-46.6459614!3d-23.5909432!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x2809c25bc3a4865d!2sDaiki%20Sushi!5e0!3m2!1sen!2sbr!4v1569774868195!5m2!1sen!2sbr" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
