@@ -4,7 +4,6 @@ categories:
 date: '2021-04-25'
 link: https://www.imdb.com/title/tt6352180
 tags:
-- draft
 - animes
 title: Little Witch Academia
 ---

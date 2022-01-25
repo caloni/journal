@@ -4,8 +4,8 @@ categories:
 date: '2021-03-27'
 link: https://www.imdb.com/title/tt6591406
 tags:
-- draft
 - animes
+- series
 title: Depois da Chuva (aka Koi wa Ameagari no You ni)
 ---
 

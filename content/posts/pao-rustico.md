@@ -1,12 +1,10 @@
 ---
 categories:
-- reviews
+- blog
 date: '2020-12-23'
 link: https://www.kingarthurbaking.com/recipes/rustic-sourdough-bread-recipe
 tags:
 - recipes
-- draft
-- food
 title: Pão Rústico
 ---
 
@@ -31,8 +29,6 @@ Se bater no fundo e não estiver oco pode assar mais.
 Deixe o pão esfriar em local arejado e a manteiga esquentar fora da geladeira. Bom apetite.
 
  - 2021-05-01 Refiz a receita usando o fermento natural alimentado por uns três dias. Apesar de vigoroso no crescimento eu apelei ainda para uma ajuda de uma pitada do instantâneo. Também fiz algo inusitado: deixei o autólise agir junto do fermento. O resultado foi muito bom ou não teve diferença, mas é uma maneira interessante de deixar o fermento natural agir um pouco antes do instantâneo. Antes mesmo de colocar o instantâneo já deu pra ver como ele estava fazendo a massa crescer. Então acredito que devo usar essa estratégia na primeira vez que usar apenas o natural.
-
- - 2021-04-25 Nova vez que faço. Dessa vez com menos fermento instantâneo para ver como fica (o objetivo é eliminar por completo). A autólise feita foi de mais de duas horas e ficou perfeito. É preciso misturar bem antes de deixar a farinha de boa. Acho que deixei a massa ligeiramente mais úmida ou foi o tempo. Ela ficou um pouco pesada. Também cobri com um pano mais úmido que o normal. Já passou uma hora e agora que formei uma bola para que ela comece a crescer (ainda não tinha se mexido). Próximo passo é aguardar o crescimento e deixar descansando na geladeira. Se não ativar até o final da noite deixarei do lado de fora. Fiz algo inusitado dessa vez: aqueci o forno abaixo do indicado. Em vez de 220 coloquei em 200 e depois de meia-hora o miolo continuou totalmente cru. Tive que dividir em fatias e voltar ao forno, mas fica a observação do que acontece quando não se presta atenção aos detalhes.
 
  - 2021-04-24 Nova vez que faço. Dessa vez com menos fermento instantâneo para ver como fica (o objetivo é eliminar por completo). A autólise feita foi de mais de duas horas e ficou perfeito. É preciso misturar bem antes de deixar a farinha de boa. Acho que deixei a massa ligeiramente mais úmida ou foi o tempo. Ela ficou um pouco pesada. Também cobri com um pano mais úmido que o normal. Já passou uma hora e agora que formei uma bola para que ela comece a crescer (ainda não tinha se mexido). Próximo passo é aguardar o crescimento e deixar descansando na geladeira. Se não ativar até o final da noite deixarei do lado de fora. Fiz algo inusitado dessa vez: aqueci o forno abaixo do indicado. Em vez de 220 coloquei em 200 e depois de meia-hora o miolo continuou totalmente cru. Tive que dividir em fatias e voltar ao forno, mas fica a observação do que acontece quando não se presta atenção aos detalhes.
 

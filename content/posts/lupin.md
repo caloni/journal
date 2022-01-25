@@ -4,7 +4,6 @@ categories:
 date: '2021-02-19'
 link: https://www.imdb.com/title/tt2531336
 tags:
-- draft
 - series
 title: Lupin
 ---
@@ -15,4 +14,4 @@ Ela conta a história do ladrão literário misterioso cheio de artimanhas em um
 
 Ele é Omar Sy, que anda no automático em um roteiro que desmere o personagem e os fãs do ótimo ator (Chocolate, Intocáveis). O personagem porque a trama é fraca, bobinha e serve apenas para entreter quem já não está prestando atenção no que passa na TV, e o ator porque este papel requer apenas alguém no piloto automático.
 
-Há alguns altos e baixos pelos capítulos, mas nada marcante. A direção piegas de George Kay, que pensa estar filmando um Ocean's Eleven da vida, nunca nos trás conforto visual. É uma bagunça burocrática que se transforma em 4 horas de sua vida perdida no sofá.
+Há alguns altos e baixos pelos capítulos, mas nada marcante. A direção piegas de George Kay, que pensa estar filmando um Ocean's Eleven da vida, nunca nos traz conforto visual. É uma bagunça burocrática que se transforma em 4 horas de sua vida perdida no sofá.

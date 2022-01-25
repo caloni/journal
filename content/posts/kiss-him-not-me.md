@@ -4,8 +4,8 @@ categories:
 date: '2021-03-03'
 link: https://www.imdb.com/title/tt5879454
 tags:
-- draft
 - animes
+- series
 title: Kiss Him Not Me (aka Watashi ga Motete Dousunda)
 ---
 

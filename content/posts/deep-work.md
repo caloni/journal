@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2020-03-15'
 tags:
-- draft
 - books
 title: Deep Work
 ---
@@ -22,7 +21,7 @@ Newport nos dá motivos econômicos no começo do seu livro de por quê seria in
 
 Ele cita uma substância rica em gordura que envolve fibras nervosas entre os neurônios chamada mielina. O motivo de sua existência em alguns neurônios é facilitar e agilizar a condução de impulsos nervosos. Fibras nervosas sem mielina possuem uma condução de impulsos mais lenta. O racional por trás dessa informação científica sobre neurologia e seu papel na melhora contínua é que habilidades, sejam intelectuais ou físicas, irão eventualmente ser explicadas ou reduzidas em funções do circuito neural.
 
-Na prática o que isso quer dizer é que ao forçarmos circuitos relevantes do nosso cérebro a ser usados continuamente, eles desenvolverão uma capacidade maior de condução. O uso repetido aciona circuitos de células chamadas oligodendrocytes, que começa a formar camadas de mielina (myelin no inglês) em volta dos neurônios, o que na prática "coloca cimento" na habilidade sendo treinada. O motivo científico, portanto, pelo qual é importante se focar intensamente em uma dada tarefa, evitando distrações, é porque essa é a única maneira de isolar de com mielina suficiente os circuitos neurais relevantes. Por contraste, imagine que você está aprendendo algo que exija concentração e deixa o Facebook aberto, por exemplo, você está disparando muitos circuitos em paralelo, minimizando a capacidade de fortalecer e agilizar o grupo de neurônios que lhe interessa no momento (no caso, aprender essa habilidade nova).
+Na prática o que isso quer dizer é que ao forçarmos circuitos relevantes do nosso cérebro a ser usados continuamente, eles desenvolverão uma capacidade maior de condução. O uso repetido aciona circuitos de células chamadas oligodendrocytes, que começa a formar camadas de mielina (myelin no inglês) em volta dos neurônios, o que na prática "coloca cimento" na habilidade sendo treinada. O motivo científico, portanto, pelo qual é importante se focar intensamente em uma dada tarefa, evitando distrações, é porque essa é a única maneira de isolar com mielina o suficiente os circuitos neurais relevantes. Por contraste, imagine que você está aprendendo algo que exija concentração e deixa o Facebook aberto, por exemplo, você está disparando muitos circuitos em paralelo, minimizando a capacidade de fortalecer e agilizar o grupo de neurônios que lhe interessa no momento (no caso, aprender essa habilidade nova).
 
 Fora isso, também existem dados sobre a ineficiência do multitasking. Pesquisadores descobriram que a estratégia de trabalhar em uma tarefa A por um tempo e depois trocar para a tarefa B, sua atenção não troca totalmente para a tarefa A. Existe um resíduo de atenção que fica preso na tarefa A, pensando na tarefa original. E quanto menor a intensidade de concentração da tarefa A, mais atenção residual ela exige. É preciso frisar que mesmo que você termine a tarefa A há efeitos colaterais: sua atenção permanece dividida ainda por um tempo (o que exigiria um tempo de descanso entre tarefas).
 

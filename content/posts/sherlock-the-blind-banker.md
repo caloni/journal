@@ -4,7 +4,6 @@ categories:
 date: '2020-11-22'
 link: https://www.imdb.com/title/tt1664529
 tags:
-- draft
 - series
 title: 'Sherlock: The Blind Banker'
 ---

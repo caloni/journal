@@ -1,12 +1,10 @@
 ---
 categories:
-- reviews
+- blog
 date: '2020-12-12'
 link: https://www.kingarthurbaking.com/recipes/buttery-sourdough-sandwich-biscuits-recipe
 tags:
 - recipes
-- draft
-- food
 title: Fermento Amanteigado para o Café da Manhã
 ---
 

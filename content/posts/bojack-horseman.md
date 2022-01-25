@@ -4,7 +4,6 @@ categories:
 date: '2021-05-15'
 link: https://www.imdb.com/title/tt3398228
 tags:
-- draft
 - series
 title: BoJack Horseman
 ---

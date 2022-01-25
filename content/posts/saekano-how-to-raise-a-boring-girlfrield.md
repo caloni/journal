@@ -4,7 +4,6 @@ categories:
 date: '2021-04-04'
 link: https://www.imdb.com/title/tt3612626
 tags:
-- draft
 - animes
 title: Saekano How to Raise a Boring Girlfrield (Saenai heroine no sodatekata)
 ---

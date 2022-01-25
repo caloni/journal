@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- blog
 date: '2021-04-17'
 link: https://amopaocaseiro.com.br/receita/pao-frances/
 tags:
-- draft
-- food
+- recipes
 title: Pão Francês (Amo Pão Caseiro)
 ---
 

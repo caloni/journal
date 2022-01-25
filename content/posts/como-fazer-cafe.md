@@ -1,17 +1,16 @@
 ---
 categories:
-- reviews
+- blog
 date: '2021-03-14'
 tags:
 - coffee
-- draft
-- food
+- recipes
 title: Como Fazer Café
 ---
 
-Ao longo dos anos meu processo de fazer café mudou radicalmente. Já experimentei coado em papel, coado em pano, moka, prensa francesa, Aeropress. Alguns princípios mudaram, outros se mantiveram ou foram descobertos e mantidos no dia-a-dia. Este é um guia básico e genérico, mas não necessariamente prático, para quem deseja trilhar essa aventura de fazer sempre um café melhor que o de ontem. Ou pelo menos tentar. É um insight filosófico e um pouco científico; um apanhado de conhecimento que talvez você não saiba ainda, ou não dessa forma.
+Ao longo dos anos meu processo de fazer uma xícara de café mudou radicalmente. Já experimentei coado em papel, coado em pano, moka, prensa francesa, Aeropress. Alguns princípios mudaram, outros se mantiveram ou foram descobertos e mantidos no dia-a-dia. Este é um guia básico e genérico, mas não necessariamente prático, para quem deseja trilhar essa aventura de fazer sempre um café melhor que o de ontem. Ou pelo menos tentar. É um insight filosófico e um pouco científico; um apanhado de conhecimento que talvez você não saiba ainda, ou não dessa forma.
 
-Antes de tudo um aviso: é necessário ter vontade de se arriscar. Se você deseja consistência e simplicidade no seu café pode adquirir uma máquina automática de espresso por cápsula por um preço razoável e apertar o mesmo botão todo dia. Com isso o problema da consistência está resolvida, basta achar sua cápsula favorita. Porém, se você aceita riscos para obter novos aromas, sabores e conhecimento sobre a arte de fazer café, vem comigo, pois eu estou aos poucos trilhando o mesmo caminho.
+Antes de tudo um aviso: é necessário ter vontade de se arriscar. Se você deseja consistência e simplicidade no seu café pode adquirir uma máquina automática de espresso por cápsula por um preço razoável e apertar o mesmo botão todo dia. Com isso o problema da consistência está resolvido, basta achar sua cápsula favorita. Porém, se você aceita riscos para obter novos aromas, sabores e conhecimento sobre a arte de fazer café, vem comigo, pois eu estou aos poucos trilhando o mesmo caminho.
 
 ## Produção
 
@@ -29,17 +28,17 @@ Agora que você já sabe o suficiente sobre as diferentes fases na produção de
 
 As variáveis envolvidas na extração são muitas, então é melhor pensar primeiro no processo para depois extrair as variáveis, mais ou menos como o café é feito. Nós sabemos que as propriedades do café são extraídas pela água em contato com a superfície dos grãos torrados. Com isso em mente, imagine que pode-se usar mais ou menos café para a mesma quantidade de água (uma variável), a água pode ser usada em diferentes temperaturas (outra variável), ela pode entrar em contato por mais ou menos tempo (outra variável), ela pode ser agitada ou pressionada durante esse tempo (outra variável), pode haver mais ou menos superfície dependendo do nível de moagem utilizada que, como vimos, é responsável por aumentar a superfície dos grãos (outra variável).
 
-Portanto, estas são as principais variáveis que você deve se atentar: **proporção entre café e água, temperatura da água, tempo de extração, forma de extração e nível de moagem dos grãos**. Qualquer mínima mudança em uma dessas variáveis irá alterar radicalmente o resultado final. Portanto, preste muita atenção quando estiver fazendo café, pois é esse momento que deverá ser medido para depois ser aprimorado. Até se você faz um café ruim pode fazer um menos pior.
+Portanto, estas são as principais variáveis que você deve se atentar: **proporção entre café e água, temperatura da água, tempo de extração, forma de extração e nível de moagem dos grãos**. Qualquer mínima mudança em uma dessas variáveis irá alterar radicalmente o resultado final. Portanto, preste muita atenção quando estiver fazendo café, pois é esse momento que deverá ser medido para depois ser aprimorado. Até se você faz um café ruim pode fazer um menos ruim da próxima vez.
 
 Após a moagem, os métodos de extração são diversos e variados, e como você já viu existem muitas variáveis para você cuidar. Essas variáveis são importantes porque como você percebeu café é altamente perecível. Cada detalhe durante a extração irá impactar no sabor e aroma final. Se duvida, faça alguns testes alterando uma dessas variáveis e veja o quanto você é sensível a essas variações. Talvez eu esteja exagerando e você é bem mais tolerante a essas mudanças. Se for o caso, não entendi porque está lendo este texto =)
 
-Independente do processo e medidas utilizadas tenha isso em mente: fazer café é extrair suas propriedades químicas do fruto para a água. Essa extração pode retirar mais ou menos do café. Por ordem de exposição (tempo + superfície + temperatura) a água retira esses sabores básicos do seu café, na ordem: **acidez, corpo, doçura, corpo novamente, amargor**. Quanto mais equilibrada a extração mais essas propriedades trabalharão juntas e em harmonia quando você degustar seu café. O que quer dizer que você conseguirá obter mais sensações a cada gole. Mais sensações é uma coisa boa, pois torna a bebida mais complexa. Mais complexidade é bom porque torna a experiência mais intensa, demandando mais nossa atenção e proporcionando uma experiência mais rica.
+Independente do processo e medidas utilizadas tenha isso em mente: fazer um líquido chamado café é extrair suas propriedades químicas do fruto para a água. Essa extração pode retirar mais ou menos do café. Há uma ordem cronológica por tempo de infusão do café com a água, na ordem: **acidez, corpo, doçura, corpo novamente, amargor**. Quanto mais equilibrada a extração mais essas propriedades trabalharão juntas e em harmonia quando você degustar seu café. O que quer dizer que você conseguirá obter mais sensações a cada gole. Mais sensações é uma coisa boa, pois torna a bebida mais complexa. Mais complexidade é bom porque torna a busca por aromas e sabores um processo mais intenso, demandando mais nossa atenção e proporcionando uma experiência mais rica. E isso é bom porque experiências ricas nos tornam mais felizes.
 
 Uma última observação importante, além de uma curiosidade sobre o equilíbrio e harmonia no café a respeito do pó. Existe um efeito colateral em moagens muito finas em que a água fica impedida de prosseguir seu caminho e acaba encontrando no meio do café alguns caminhos que cedem mais facilmente. Isso é ruim porque ela irá passar muito mais por alguns lugares e muito menos por outros. O café estará desbalanceado, pois ficará super-extraído em algumas partes e sub-extraído em outras. Note que isso pode explicar alguns efeitos indesejáveis que você possa observar em seu dia-a-dia, como um amargor muito forte ao passar seu café, e o motivo pelo qual quando você dispõe o café para a passagem da água ele deve estar bem uniforme, além de se atentar de que quanto mais pressão for exercida na extração mais uniforme deverá ser o tamanho das partículas de sua moagem.
 
 ## Método
 
-Como já visto, a superfície do café é responsável pelo desgaste do tempo. Sendo assim, o melhor investimento em equipamento para fazer café que você pode fazer é em um moedor, para que você possa adquirir café em grãos que desgastam mais lentamente que os já moídos. Se não tiver jeito e você consuma grãos previamente moídos, tente obtê-los em pacotes menores para expor menos café quando for abrir a embalagem. Moer na hora de fazer o café é importante para manter esse frescor mantido dentro do grão ainda não-moído. Após isso todo o resto é menos importante, pois qualquer técnica bem executada em cima de excelentes grãos irá fazer pelo menos um ótimo café.
+Como já visto, a superfície do café é responsável pelo desgaste do tempo. Sendo assim, o melhor investimento em equipamento de café que você pode fazer é em um moedor, para que você possa adquirir café em grãos que desgastam mais lentamente que os já moídos. Se não tiver jeito e você consuma grãos previamente moídos, tente obtê-los em pacotes menores para expor menos café quando for abrir a embalagem. Moer na hora de fazer o café é importante para manter esse frescor mantido dentro do grão ainda não-moído. Após isso todo o resto é menos importante, pois qualquer técnica bem executada em cima de excelentes grãos irá fazer pelo menos um ótimo café.
 
 Voltando às variáveis, sabendo que existem inúmeras para se trabalhar, a primeira coisa, talvez a única, que você vai precisar para aprimorar sua técnica de extração é métrica. Seja um cientista: meça seu procedimento de fazer café todo dia, um após o outro, para ajustar suas variáveis na próxima vez que quiser um resultado diferente.
 
@@ -51,7 +50,7 @@ Um padrão para saber quanto de café por xícara está sendo utilizado. Exemplo
 
 Um padrão para medir o tempo de extração. Exemplos: contar mentalmente os segundos, usar um timer que conte segundos ou minutos por você.
 
-Na vida real nem tudo pode ser controlado como em um laboratório, e o próprio café tem sua vida própria; nenhuma caneca de café é exatamente igual a outra. Porém, outro objetivo além do controle é prestar atenção em qual é a sua receita de hoje você pode alterá-la amanhã.
+Na vida real nem tudo pode ser controlado como em um laboratório, e o próprio café tem sua vida própria; nenhuma caneca de café é exatamente igual a outra. Porém, outro objetivo além desse controle é prestar atenção em qual é a sua receita de hoje, nem que seja para alterá-la amanhã.
 
 A minha dica para quem está começando a prestar atenção, além de saber de cor como funciona a extração de café, é pensar em termos de mais e menos. Por exemplo, se você prefere um café menos forte deve diminuir uma ou mais variáveis de entrada quando for fazer café de novo. Se deseja um café mais forte deve aumentar. Mas o quê exatamente? Não sei. Depende de muitas variáveis. Pode-se aumentar a temperatura da água, a quantidade de café, o tempo de infusão. Então comece alterando uma delas e note a diferença. Se estiver indo pro caminho certo mantenha. Se estiver errado, volte pro começo e mude uma outra variável. Perceba em que a mudança interfere na hora de sentir o sabor do seu café.
 

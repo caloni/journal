@@ -3,7 +3,6 @@ categories:
 - blog
 date: '2021-01-02'
 tags:
-- draft
 title: Resoluções 2021
 ---
 
@@ -19,7 +18,7 @@ Vejamos os resultados.
 
 ## Assistir um DVD por semana
 
-Acredito que tenha cumprido essa meta em sua maioria. Alterei a funcionalidade de busca no blog para conseguir filtrar os filmes assistidos que não foram em cabines de imprensa e deram 110 resultados. Sabendo que há 54 semanas em um ano e que durante o ano cada vez menos assisti conteúdo via streaming por conta da péssima qualidade do cinema e TV contemporâneos, em uma conta de padaria acredito ter atingido o objetivo na média. Outro fator que contribui para meus cálculos é a quantidade de pilhas de DVDs que foram desovados da nossa coleção temporária. (A ideia é assistir os mais de 400 títulos e vendê-los.)
+Acredito que tenha cumprido essa meta em sua maioria. Alterei a funcionalidade de busca no blog para conseguir filtrar os filmes assistidos que não foram em cabines de imprensa e deram 110 resultados. Sabendo que há 54 semanas em um ano e que durante o ano cada vez menos assisti conteúdo via streaming por conta da péssima qualidade do cinema e TV contemporâneos, em uma conta de padaria acredito ter atingido o objetivo na média. Outro fator que contribui para meus cálculos é a quantidade de pilhas de DVDs que foram removidos da nossa coleção temporária. (A ideia é assistir os mais de 400 títulos e vendê-los.)
 
 ## Escrever 10 minutos por dia.
 

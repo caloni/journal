@@ -1,12 +1,10 @@
 ---
 categories:
-- reviews
+- blog
 date: '2021-03-20'
 link: https://youtu.be/5cEKGHSv0Vg
 tags:
 - recipes
-- draft
-- food
 title: Bolo Cremoso de Milho
 ---
 

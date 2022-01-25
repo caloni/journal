@@ -4,7 +4,6 @@ categories:
 date: '2020-12-08'
 link: https://www.imdb.com/title/tt3845892
 tags:
-- draft
 - series
 title: 'Sherlock: The Final Problem'
 ---

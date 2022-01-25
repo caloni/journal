@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2020-03-15'
 tags:
-- draft
 - books
 title: Comunicação em Prosa Moderna
 ---
@@ -18,7 +17,7 @@ A parte dedicada à frase nos dá o sabor da língua portuguesa, através de alg
 
 > Cada qual é livre para dizer o que quer, mas sob a condição de ser compreendido por aquele a quem se dirija.
 
-Muito se frisa a respeito do ensino formal nas escolas, e como o principal problema dos alunos não é fazer a análise de uma frase ou parágrafo, mas a falta do pensar claro sobre o que se quer expressar na hora de colocar esses pensamentos em palavras escritas. E na hora de ler, este mesmos alunos terão dificuldade de entender a mensagem nos textos, mesmo que consigam eventualmente analisá-los sintaticamente, sabendo qual o sujeito, o predicado, etc.
+Muito se frisa a respeito do ensino formal nas escolas, e como o principal problema dos alunos não é fazer a análise de uma frase ou parágrafo, mas a falta do pensar claro sobre o que se quer expressar na hora de colocar esses pensamentos em palavras escritas. E na hora de ler, estes mesmos alunos terão dificuldade de entender a mensagem nos textos, mesmo que consigam eventualmente analisá-los sintaticamente, sabendo qual o sujeito, o predicado, etc.
 
 Essa questão é a das mais atuais no livro, pois mesmo décadas depois não apenas os alunos são incapazes de entender a dinâmica da língua como já formadas, mas pessoas sofrem para conseguir expressar suas opiniões na internet. Falhas de comunicação se reproduzem como pragas, gerando discussões infrutíferas e descabidas. A democratização do acesso à informação gerou através das massas a impressão de que hoje em dia há mais desinformação do que conteúdo, o que reflete como a má qualidade do pensamento da sociedade como um todo.
 
@@ -53,7 +52,7 @@ Misturado com os aspectos finais da frase, como os tipos de discurso, mas ao mes
 
 > Chama-se circunstância (do lat. circum, em redor; stare, estar, o que está em redor ou em torno) a condição particular que acompanha um fato, o acidente que o atenua ou agrava. Em retórica, entende-se por circunstância a própria ação (o quê? lat. quid?), a pessoa (quem? lat. quis?), o lugar (onde? lat. ubi?), o tempo (quando? lat. quando?), a causa (por quê? lat. cur?), o modo (como? lat. quomodo?) e os meios (com quê? lat. quibus auxiliis?).
 
-Além disso, o autor dá dicas de onde encontrar sinônimos, antônimos e palavras associadas às que se pretende usar em um texto. Não é apenas no dicionário usual que se encontram palavras. Existe um risco arcabouço de ferramentas que estão escondidas do público que hoje em dia, mais do que nunca, estão disponíveis ao clique de um botão. Mais do que a busca denotativa, no entanto, há uma necessidade quase obsessiva dele se debruçar sobre as figuras de linguagem, e através delas conseguirmos escapar da vulgarização do mundo objetivo. Algo louvável nos anos 60, mas primordial hoje em dia, em que a ciência é cada vez mais ferramenta opressora da narrativa, do humano, dos valores.
+Além disso, o autor dá dicas de onde encontrar sinônimos, antônimos e palavras associadas às que se pretende usar em um texto. Não é apenas no dicionário usual que se encontram palavras. Existe um rico arcabouço de ferramentas que estão escondidas do público que hoje em dia, mais do que nunca, estão disponíveis ao clique de um botão. Mais do que a busca denotativa, no entanto, há uma necessidade quase obsessiva dele se debruçar sobre as figuras de linguagem, e através delas conseguirmos escapar da vulgarização do mundo objetivo. Algo louvável nos anos 60, mas primordial hoje em dia, em que a ciência é cada vez mais ferramenta opressora da narrativa, do humano, dos valores.
 
 > A existência de similitudes no mundo objetivo, a incapacidade de abstração, a pobreza relativa do vocabulário disponível em contraste com a riqueza e a numerosidade das ideias a transmitir e, ainda, o prazer estético da caracterização pitoresca constituem as motivações da metáfora.
 
