@@ -4,7 +4,6 @@ categories:
 date: '2019-06-23'
 tags:
 - recipes
-- food
 title: Pão de Queijo Mineiro
 ---
 
@@ -31,3 +30,4 @@ Preparo: ferver leite, água, óleo e sal; escaldar no polvilho quando estiver f
  - 2017-11-25 Terceira vez: Usei as proporções corretas para um copo americano, mas ficou líquido demais. Pode ter sido por ter usado uma vasilha funda para escaldar o polvilho. Usei cerca de 1/4 de azedo. Depois fui colocando polvilho na mistura até conseguir manipular, mas ainda ficou muito grudento e mole. O resultado saindo agora parece meio seco demais. Faltou sal (uma colherzinha não basta) e o queijo ficou bem sutil. Pode colocar um pouco mais de queijo da próxima vez. Cresceu a massa a ponto de abrir, ficou sequinho, grudento e oco por dentro. Acho que consegui sovar direito.
  - 2017-11-12 Segunda vez: Exagerei no queijo (dobro) e na gordura (dobro); ficou pesado e muito salgado.
  - 2017-11-11 Primeira tentativa com o queijo de Poços quando fomos com o Incrível no 7 de setembro; queijo bem curado, quase metade; resultado só com polvilho doce não secou muito nem cresceu, mas não ficou massudo; faltou sal na massa.
+ - 2022-01-30 Lições aprendidas nas férias com as meninas: pão de queijo sem gema fica mais duro, ou deixar no forno após desligar o deixa seco demais. Sem leite vira biscoito de polvilho sabor queijo.
