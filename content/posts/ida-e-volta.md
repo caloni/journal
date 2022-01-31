@@ -4,7 +4,6 @@ categories:
 date: '2021-12-16T18:22:03-03:00'
 link: https://www.chess.com/analysis/game/live/33427847267?tab=review
 tags:
-- draft
 - chess
 title: Ida e Volta
 ---

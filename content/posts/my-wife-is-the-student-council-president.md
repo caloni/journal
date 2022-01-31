@@ -4,7 +4,6 @@ categories:
 date: '2021-06-12'
 link: https://www.imdb.com/title/tt5373222
 tags:
-- draft
 - animes
 title: My Wife Is the Student Council President!
 ---

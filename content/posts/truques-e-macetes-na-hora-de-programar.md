@@ -4,7 +4,6 @@ categories:
 date: '2021-05-20'
 link: 'null'
 tags:
-- draft
 title: Truques e Macetes na Hora de Programar
 toc: true
 ---
@@ -21,7 +20,7 @@ Lembrando que as sugestões foram bem vagas e gerais, então essa é só uma pin
 
  - Nunca use a primeira resposta do Stack Overflow. Por quê? Porque ela é a mais popular.
 
- - Stack Overflow para pedaço de código; artigos para entender o código; livros para estender o código.
+ - Stack Overflow para pedaço de código; artigos para entender o código; livros para entender o código.
 
 ## Como otimizar o tempo programando
 

@@ -4,7 +4,6 @@ categories:
 date: '2021-05-22'
 link: https://www.imdb.com/title/tt14536144/
 tags:
-- draft
 - series
 title: 'Love, Death & Robots: All Through the House'
 ---

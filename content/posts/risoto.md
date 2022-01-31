@@ -3,13 +3,11 @@ categories:
 - blog
 date: '2021-09-28T21:09:43-03:00'
 tags:
-- draft
-- food
 - recipes
 title: Risoto
 ---
 
-Fazer risoto não deveria ser difícil, apesar de ser considerado um vinho sofisticado. E a verdade é que não é mesmo. Talvez um pouco trabalhoso. A primeira coisa a ser feita é se servir uma taça de vinho.
+Fazer risoto não deveria ser difícil, apesar de ser considerado um prato sofisticado. E a verdade é que não é mesmo. Talvez um pouco trabalhoso. A primeira coisa a ser feita é se servir uma taça de vinho.
 
 Então você doura um pouco de cebola picada no azeite, talvez com um pouco de manteiga, e talvez com um pouco de alho, para depois jogar o arroz direto da embalagem. Não lave! Você precisa extrair todo o amido que faz a diferença em tipos de arroz para risoto (e há tipos específicos para isso, não é o arroz brasileiro padrão).
 
@@ -17,7 +15,7 @@ Depois você pega um pouco desse vinho e joga em cima do arroz. O ideal é cobri
 
 Agora você começa a mexer de vez em quando. Não deixe o arroz muito quieto, pois são as mexidas que ajudam a extrair o amido.
 
-Mantenha do seu lado caldo quente para ir molhando o arroz sempre que ele começar a secar. Então você deixa cozinhando até secar novamente, e joga mais um pouco de caldo. Você pode jogar de concha em concha. Pode ser água no lugar de caldo, mas deve ser quente, pois do contrário demora mais ainda seu risoto, e se tiver caldo use caldo. Tudo pelo sabor.
+Mantenha do seu lado qualquer caldo quente para ir molhando o arroz sempre que ele começar a secar. Então você deixa cozinhando até secar novamente, e joga mais um pouco de caldo. Você pode jogar de concha em concha. Pode ser água no lugar de caldo, mas deve ser quente, pois do contrário demora mais ainda seu risoto, e se tiver caldo use caldo. Tudo pelo sabor.
 
 Qual a textura do risoto? Muitos preferem ao dente, outros tantos um pouco mais macio. Vá experimentando até achar que está legal. Quando estiver quase lá pode misturar com alguns ingredientes que preferir que o sabor se misture com o arroz. Foi aí que eu joguei minha carne desfiada. Isso com o fogo ainda ligado.
 
@@ -25,4 +23,4 @@ Quando a textura estiver finalmente pronta desligue o fogo e coloque queijo duro
 
 Sirva de preferência em um prato fundo, mas em qualquer lugar deve servir, pois o objetivo de um risoto é não ter caldo vazando dele, mas o resultado é contido nele mesmo, brilhante, úmido, mas sem escorrer nada de seu sabor.
 
-Jogue um pouco de verdinho em cima para não se sentir mal por tanta manteiga e bota provar com seu vinho. Irá notar uma harmonização instantânea. E quanto mais complexo o vinho melhor o sabor. Experimente fazer sem para notar a diferença (eu fiz, o sabor perde a complexidade fácil).
+Jogue um pouco de verdinho em cima para não se sentir mal por tanta manteiga e bora provar com seu vinho. Irá notar uma harmonização instantânea. E quanto mais complexo o vinho melhor o sabor. Experimente fazer sem álcool para notar a diferença (eu fiz, o sabor perde a complexidade fácil).

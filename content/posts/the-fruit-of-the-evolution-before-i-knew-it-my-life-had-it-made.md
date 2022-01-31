@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2021-11-03T21:34:22-03:00'
 tags:
-- draft
 - animes
 title: 'The Fruit of The Evolution: Before I Knew It, My Life Had It Made'
 ---

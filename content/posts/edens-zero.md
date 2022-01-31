@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2021-08-30T22:51:16-03:00'
 tags:
-- draft
 - animes
 title: Edens Zero
 ---

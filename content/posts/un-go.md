@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2021-11-13T15:41:24-03:00'
 tags:
-- draft
 - animes
 title: Un-Go
 ---
@@ -16,4 +15,4 @@ Um anime feito por elementos do mangá vira uma composição de quadros inertes 
 
 O primeiro episódio de Un-Go falha em nos atrair para seu universo por resumi-lo como uma lista de compras. Não há emoção alguma. Os personagens são introduzidos com um letreiro, um deles morre e logo vira palco para um joguete de deduções sherlockianas.
 
-Mas não se empolgue. Deduções vazias em cima de um evento único de um assassinato tratado como corriqueiro afasta qualquer possibilidade de engajamento emocional do espectador. Se trata de um jogo de tabuleiro como muitos da Grow, mas sem sequer a lógica de pistas.
+Mas não se empolgue. Deduções vazias em cima de um evento único de um assassinato tratado como corriqueiro afasta qualquer possibilidade de engajamento emocional do espectador. Se trata de um jogo de tabuleiro como muitos daquela velha produtora nacional, a Grow, mas sem sequer a lógica de pistas.

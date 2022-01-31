@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2021-12-28T22:25:28-03:00'
 tags:
-- draft
 - movies
 title: Samsara
 ---

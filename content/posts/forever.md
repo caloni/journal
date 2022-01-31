@@ -4,7 +4,6 @@ categories:
 date: '2021-06-12'
 link: https://www.imdb.com/title/tt7720790
 tags:
-- draft
 - series
 title: Forever
 ---

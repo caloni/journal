@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2021-10-08T22:15:16-03:00'
 tags:
-- draft
 - series
 title: Round 6 (Squid Game)
 ---
@@ -20,4 +19,4 @@ Porém, este não é um roteiro que anda por caminhos tão fáceis. Em sua eloqu
 
 Seu final, o verdadeiro final (ignorando o gancho pós-final para continuações), que ocorre em uma das melhores cenas dessas 8 horas de filme, acontece do alto de um prédio e com cortes exatos, milimétricos, entre um relógio, um doente terminal e um ser humano jogado na neve. São momentos tensos? Nem tanto. O que cria tensão é que a série nos faz pensar sobre tudo que passamos e qual a mensagem de tudo isso. O ser humano merece mais uma chance? Existe esperança? A resposta não é fácil, e a série não desaponta.
 
-Este seria um filme impecável de no máximo três horas de duração. Há momentos muito, muito bons, espalhados pelas rodadas sanguinárias. Mas era uma história boa demais para o serviço de streaming produzir em versão enxuta e acabável. Uma pena, mas um pecadilho menos frente à coesão dessa aventura pensante. Na medida do possível.
+Este seria um filme impecável de no máximo três horas de duração. Há momentos muito, muito bons, espalhados pelas rodadas sanguinárias. Mas era uma história boa demais para o serviço de streaming produzir em versão enxuta e acabável. Uma pena, mas um pecadilho frente à coesão dessa aventura pensante. Na medida do possível.

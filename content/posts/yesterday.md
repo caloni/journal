@@ -3,12 +3,11 @@ categories:
 - reviews
 date: '2022-01-11T19:04:00-03:00'
 tags:
-- draft
 - movies
 title: Yesterday
 ---
 
-Danny Boyle (Quem Quer Ser um Milionário?) dirige sem medo de ser feliz esse roteiro de Richard Curtis Simplesmente Amor e ambos se divertem no processo. É um filme simples e despretencioso, mas diferente das bobagens de Hollywood ele quer mostrar mais que um romance bobo e um plot previsível. Ele quer que olhemos para trás e pensemos: o que mudou desde que a geração internet entrou no comando?
+Danny Boyle (Quem Quer Ser um Milionário?) dirige sem medo de ser feliz esse roteiro de Richard Curtis (Simplesmente Amor) e ambos se divertem no processo. É um filme simples e despretensioso, mas diferente das bobagens de Hollywood ele quer mostrar mais que um romance bobo e um plot previsível. Ele quer que olhemos para trás e pensemos: o que mudou desde que a geração internet entrou no comando?
 
 Talvez os Beatles nem seriam tão populares assim, quanto mais suas músicas. Talvez Ed Sheeran (ótimo no filme) seja mais conhecido dessa galerinha do que John, Paul, George e Ringo. Talvez um mundo sem coca-cola e cigarros não valesse a pena viver.
 

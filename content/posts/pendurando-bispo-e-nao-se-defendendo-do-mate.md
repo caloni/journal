@@ -4,7 +4,6 @@ categories:
 date: '2021-12-17T21:42:51-03:00'
 link: https://www.chess.com/analysis/game/live/33526209569?tab=review
 tags:
-- draft
 - chess
 title: Pendurando Bispo e Não se Defendendo do Mate
 ---

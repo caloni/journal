@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2021-11-01T22:34:43-03:00'
 tags:
-- draft
 - animes
 title: Tawawa on Monday
 ---

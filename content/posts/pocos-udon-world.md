@@ -4,7 +4,6 @@ categories:
 date: '2021-05-22'
 link: https://www.crunchyroll.com/pt-br/pocos-udon-world
 tags:
-- draft
 - animes
 title: Poco's Udon World
 ---

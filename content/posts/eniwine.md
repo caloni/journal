@@ -4,8 +4,7 @@ categories:
 date: '2021-05-17'
 link: https://www.eniwine.com
 tags:
-- draft
-- food
+- wine
 title: Eniwine
 ---
 
@@ -34,7 +33,7 @@ E o vinho é... [Virtus Reservado Suave Cabernet Sauvignon 2020]: "Apresenta col
 
 ### Rótulo 2
 
- - Caloni 2021-05-15 (4.0): Quentinho, puco alcoólico, tânico, ácido, amadeirado e/ou envelhecido, quero beber mais. Cabernet?
+ - Caloni 2021-05-15 (4.0): Quentinho, pouco alcoólico, tânico, ácido, amadeirado e/ou envelhecido, quero beber mais. Cabernet?
  - Mitiko 2021-05-15 (~~1.5~~ 2.5): Gosto ruim meio Merlot, não-doce.
  - Caloni 2021-05-22 (2.5): Encorpado, mistura de doce com amargo, não é alcoólico, mas é vibrante demais. Cor escura.
 
@@ -62,7 +61,7 @@ E o vinho é... [Tierra Sur 2019]: "Este vinho segue é aromático, leve e vers�
  - Mitiko 2021-05-15 (2.5): Sabor vem e some. Nada "presencioso". Tânico.
  - Caloni 2021-05-22 (2.5): Tânico, amargo, corpo médio, quente. Agradável, mas amargor é mais persistente que os outros sabores; já perdeu o aroma.
 
-E o vinho é... [Vecchia Cantina Chianti 2019]: "Apresenta coloração vermelho rubi, aromas de frutas vermelhas como amora, framboesa e cereja, acidez equilibrada, apresenta corpo médio e acidez equilibrada, álcool mediano e grande persistência com taninos marcantes e sedosos. É um vinho equilibrado e agradável de se tomar."
+E o vinho é... [Vecchia Cantina Chianti 2019]: "Apresenta coloração vermelho rubi, aromas de frutas vermelhas como amora, framboesa e cereja, apresenta corpo médio e acidez equilibrada, álcool mediano e grande persistência com taninos marcantes e sedosos. É um vinho equilibrado e agradável de se tomar."
 
  - Acertos: alcoólico vs álcool mediano.
  - Erros: jovem vs taninos marcantes e sedosos, ácido vs acidez equilibrada, tosco vs agradável.
@@ -88,7 +87,7 @@ E o vinho é... [Sunrise Cabernet Sauvignon 2020]: "Apenas as vinhas mais ensola
 
 E o vinho é... [French Dog Merlot 2019]: "Vinho de cor vermelho rubi brilhante. Apresenta no aroma notas de frutas vermelhas negras como ameixa e amora, framboesa, groselha e mirtilo. Em boca, apresenta corpo médio, com taninos sedosos, acidez média e teor alcoólico equilibrado, sendo equilibrado e muito macio no paladar."
 
- - Acertos: semi-frutado vs fruta vermelhas negras (ameixa, amora, framboesa, groselha, mirtilo), Mitiko Merlot, ácido vs acidez média.
+ - Acertos: semi-frutado vs frutas vermelhas negras (ameixa, amora, framboesa, groselha, mirtilo), Mitiko Merlot, ácido vs acidez média.
  - Erros: Malbec vs Merlot, pouco de vegetal.
 
 
@@ -112,7 +111,7 @@ E o vinho é... [Rio Sol Reserva 2015]: "O Vinho apresenta coloração vermelho 
 
 E o vinho é... [San Valentin Garnacha 2018]: "Cor vermelho cereja escuro com brilho violeta. Aromas de frutas vermelhas, ameixas suculentas, figos secos e discretas notas de especiarias do Mediterrâneo. Generoso no álcool mas sem desequilíbrio, taninos macios, acidez correta e corpo médio."
 
- - Acertos: envelhecido pelo tanino vs taninos macios, quente vs genroso no álcool.
+ - Acertos: envelhecido pelo tanino vs taninos macios, quente vs generoso no álcool.
  - Erros: encorpado vs corpo médio, quase nada frutado vs aromas de frutas vermelhas (ameixas suculentas, figos secos).
 
 
@@ -160,7 +159,7 @@ E o vinho é... [Solar Viejo Crianza 2016]: "Coloração vermelho rubi de média
 
 E o vinho é... [Coutada Velha Signature 2019]: "Este Coutada velha Signature evidencia as características do terroir local, com coloração vermelho rubi, com reflexos violáceos, aromas de frutas negras em compota, como ameixa, amora, cereja preta, figo, romã e groselha, além de notas de amêndoas, baunilha, chocolate e tabaco, provenientes da maturação em barricas de carvalho. Em boca, o vinho é seco, com acidez média, taninos marcantes, corpo médio para alto e álcool equilibrado."
 
- - Acertos: cor rubi escura vs coloração vermelhor rubi, frutas maduras vs frutas negras em compota (ameixa, amora, cereja preto, figo, româ, groselha), quente vs álcool equilibrado.
+ - Acertos: cor rubi escura vs coloração vermelha-rubi, frutas maduras vs frutas negras em compota (ameixa, amora, cereja preta, figo, romã, groselha), quente vs álcool equilibrado.
  - Erros: não encontrou taninos?
 
 

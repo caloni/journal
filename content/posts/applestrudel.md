@@ -3,8 +3,7 @@ categories:
 - blog
 date: '2021-08-30T23:10:10-03:00'
 tags:
-- draft
-- food
+- recipes
 title: Como fazer a finíssima massa do Applestrudel
 ---
 

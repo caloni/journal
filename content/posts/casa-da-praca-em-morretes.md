@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2021-06-26T10:25:00-03:00'
 tags:
-- draft
 - food
 title: Casa da Praça em Morretes
 ---

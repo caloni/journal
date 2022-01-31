@@ -3,7 +3,7 @@ categories:
 - blog
 date: '2021-08-16T21:01:37-03:00'
 tags:
-- draft
+- reading
 title: Manifesto Comunista (recortes)
 ---
 > The history of all hitherto existing society is the history of class struggles. 

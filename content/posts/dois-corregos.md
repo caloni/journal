@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2022-01-11T18:39:06-03:00'
 tags:
-- draft
 - movies
 title: Dois Córregos
 ---

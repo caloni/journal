@@ -1,9 +1,9 @@
 ---
 categories:
-- reviews
+- blog
 date: '2021-06-30T08:40:00-03:00'
 tags:
-- draft
+- movies
 title: Carolina Caldas de Vivente Andante
 ---
 

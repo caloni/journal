@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2021-08-08T21:36:05-03:00'
 tags:
-- draft
 - animes
 title: Plastic Memories
 ---

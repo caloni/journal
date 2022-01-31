@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2022-01-24T23:23:56-03:00'
 tags:
-- draft
 - coffee
 title: Saga
 ---
@@ -12,4 +11,4 @@ Havia achado este café bem diferente na questão de sabor. Existe um amargo, ma
 
 Então sem querer eu provei junto de um queijo canastra que trouxe da mesma região, e minha surpresa: é o mesmo amargor. Feitos do mesmo solo as propriedades se combinam. É quase mágica.
 
-Esse cafezal fica em São Roque da Serra, próximo de Capitólio, para onde fomos viajar final do ano passado. Os queijos da Serra são intensos demais e os mais curados precisam de aprender a degustar devido ao alto amargor e os sabores menos doces. E a mesma coisa serve para este café.
+Esse cafezal fica em São Roque de Minas, próximo de Capitólio, para onde fomos viajar final do ano passado. Os queijos da Serra da Canastra são intensos demais e os mais curados precisam de aprender a degustar devido ao alto amargor e os sabores menos doces. E a mesma coisa serve para este café.

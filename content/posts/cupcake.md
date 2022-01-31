@@ -3,7 +3,6 @@ categories:
 - blog
 date: '2021-09-25T21:17:33-03:00'
 tags:
-- draft
 - recipes
 title: Cupcake
 ---

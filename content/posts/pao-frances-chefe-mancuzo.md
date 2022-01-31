@@ -4,8 +4,7 @@ categories:
 date: '2021-12-28T22:26:03-03:00'
 link: https://www.youtube.com/watch?v=PLDdc5CLKko&ab_channel=ChefMancuzo
 tags:
-- draft
-- food
+- recipes
 title: Pão Francês, por Chefe Mancuzo
 ---
 

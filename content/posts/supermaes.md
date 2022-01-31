@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2021-07-05T21:53:00-03:00'
 tags:
-- draft
 - series
 title: Supermães
 ---

@@ -4,7 +4,6 @@ categories:
 date: '2021-06-25T13:10:00+03:00'
 link: 'null'
 tags:
-- draft
 - animes
 title: To Your Eternity
 ---

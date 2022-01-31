@@ -4,7 +4,6 @@ categories:
 date: '2021-12-19T22:57:39-03:00'
 link: https://www.chess.com/game/live/33703189087
 tags:
-- draft
 - chess
 title: Perdi a Dama, mas Estava Equilibrado
 ---

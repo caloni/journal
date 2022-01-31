@@ -4,8 +4,7 @@ categories:
 date: '2021-12-27T21:30:15-03:00'
 link: https://www.youtube.com/watch?v=VGQFEiyMe-M
 tags:
-- draft
-- food
+- recipes
 title: No-Bake Peach Cheesecake
 ---
 

@@ -4,8 +4,7 @@ categories:
 date: '2021-05-22'
 link: https://www.vivino.com/wineries/etchart
 tags:
-- draft
-- food
+- wine
 title: Etchart
 ---
 

@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2022-01-11T18:40:12-03:00'
 tags:
-- draft
 - food
 title: Soroko
 ---

@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2021-11-14T20:46:48-03:00'
 tags:
-- draft
 - series
 title: Homem de Castanha
 ---

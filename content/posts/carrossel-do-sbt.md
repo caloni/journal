@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2021-07-24T22:27:23-03:00'
 tags:
-- draft
 - series
 title: Carrossel do SBT
 ---
@@ -14,7 +13,7 @@ Sendo publicadas por uma revista argentina, as histórias chamam a atenção par
 
 A obra primeiro é adaptada para o rádio e alguns anos depois vira uma telenovela. Através de seu sucesso surgem dois filmes e exibições pela América Latina. Décadas depois é reproduzida no México e vira Carrossel, aquela versão que encantou brasileiros e coreanos por uma geração.
 
-O remake brasileiro feito pela emissora de Sílvio Santos, se inspira mais na versão mexicana original, não as continuações que vieram, e dá uma atualizada em seus estereótipos. É uma obra encantadora pela pureza de visão de mundo. Dificilmente uma novela se desvencilha do mundo adulto para mostrar sua versão em miniatura.
+O remake brasileiro feito pela emissora de Sílvio Santos se inspira mais na versão mexicana original, não as continuações que vieram, e dá uma atualizada em seus estereótipos. É uma obra encantadora pela pureza de visão de mundo. Dificilmente uma novela se desvencilha do mundo adulto para mostrar sua versão em miniatura.
 
 A Escola Mundial onde se unem as crianças cujas vidas serão retratadas em pequenos contos de aventuras é claramente um simulacro da vida, ou, melhor dizendo, um preparativo para ela. Nunca a essência do que é passar tanto tempo na infância com outros ser humaninhos foi melhor retratado como aqui.
 

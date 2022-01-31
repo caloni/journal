@@ -3,9 +3,7 @@ categories:
 - reviews
 date: '2021-06-22T23:11:00-03:00'
 tags:
-- draft
 - coffee
-- food
 title: The Coffee Curt Hering em Blumenau
 ---
 

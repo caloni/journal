@@ -3,7 +3,7 @@ categories:
 - blog
 date: '2021-10-09T12:07:53-03:00'
 tags:
-- draft
+- movies
 title: Lista da pessoas que estavam no grupo de cabines de imprensa da Mostra 45
 ---
 

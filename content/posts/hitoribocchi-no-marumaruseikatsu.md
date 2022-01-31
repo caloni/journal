@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2021-10-04T20:41:16-03:00'
 tags:
-- draft
 - animes
 title: Hitoribocchi no Marumaruseikatsu
 ---

@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2021-08-08T21:35:16-03:00'
 tags:
-- draft
 - animes
 title: Pilotos de Dragão
 ---

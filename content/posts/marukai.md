@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2021-12-21T11:00:31-03:00'
 tags:
-- draft
 - food
 title: Marukai
 ---

@@ -4,7 +4,6 @@ categories:
 date: '2021-05-22'
 link: https://www.imdb.com/title/tt5824736
 tags:
-- draft
 - animes
 title: Shônen Ashibe GO! GO! Goma-chan
 ---
