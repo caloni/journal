@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2022-01-31T20:51:35-03:00'
 tags:
-- draft
 - trips
 title: Casa na Praia
 ---
