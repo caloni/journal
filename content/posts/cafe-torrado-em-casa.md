@@ -3,7 +3,6 @@ categories:
 - blog
 date: '2022-02-15T22:29:13-03:00'
 tags:
-- draft
 - coffee
 title: Café Verde Torrado em Casa
 ---
