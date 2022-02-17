@@ -5,10 +5,10 @@ date: '2021-12-19T17:13:34-03:00'
 link: https://youtu.be/Uhy3gGR2d6s
 tags:
 - recipes
-title: Pão Francês Isamara Amâncio
+title: Pão Francês da Isamara Amâncio
 ---
 
-Essa receita é o primeiro resultado no Google quando você busca por "como deixar o miolo de pão francês caseiro mais leve sem batedeira", onde eu conheci o canal dessa mulher maravilhosa, que trata sua massa com carinho e suas receitas com dedicação. Só o maravilhamento dela com os resultados já compensa o vídeo, além das ótimas explicações.
+Esta é uma das receitas-base para a criação da [minha receita](/pao-frances). É o primeiro resultado no Google quando você busca por "como deixar o miolo de pão francês caseiro mais leve sem batedeira", onde eu conheci o canal dessa mulher maravilhosa, que trata sua massa com carinho e suas receitas com dedicação. Só o maravilhamento dela com os resultados já compensa o vídeo, além das ótimas explicações.
 
 Segue minha anotação inicial dessa nova receita de pão francês. Primeiro se faz a esponja com 35g de farinha de trigo, 7.5g de fermento biológico seco (3/4 do saquinho do instantâneo) e 40g de água. Meia-hora depois, ou 45 minutos se estiver bem frio, está pronta a esponja.
 
@@ -23,11 +23,3 @@ Na forma é aquele esquema: dar espaço para os pães crescerem de lado e um ded
 O forno deve ficar na temperatura máxima. Deixe pré-aquecido. Enquanto isso faça o corte nos pãezinhos, quase de ponta a ponta com uma faquinha bem fina, navalha, etc. Antes de colocar no forno umedecer em volta com as mãos molhadas ou com o borrifador. O pão deve ficar assando entre uma hora e pouquinho (forno convencional sem dourador), mas depois de 20 minutos assando deve-se tirar a forma com água (parar de umedecer o forno).
 
 Depois é só tirar do forno e só alegria =).
-
-### 2021-12-21 
-
-O pão francês da moça ficou supimpa! São muitos passos incrementais, algo que particularmente não gosto, mas ao final uma fornada que deixou o miolo mole e a casca crocante. Ele assa super-rápido, em 15 minutos no fogo mais alto, então é preciso de um pouco de cuidado. Mantive a vaporização pelo borrifador.
-
-No entanto isso ainda não convenceu a Mitiko, que achou o pão pesado e ainda lembrando mais pão sovado. Eu entendi a crítica. A casca, apesar de crocante, ficou mole depois de um tempo (ganhou umidade?) e apesar de miolo mole este ainda é um pão com o dobro do peso do francês, com 100g em comparação com o padrão nacional de 50.
-
-O próximo passo em busca desse pãozinho francês caseiro é saber como fazer um mais leve. Dei uma pesquisada de leve e talvez o melhorador de pães sirva, mas uma outra opção caseira é tentar com ovo. De qualquer forma o próximo passo prático é conseguir deixar fermentando por mais tempo uma massa com a forma da metade do pãozinho de uma receita de 100g.
