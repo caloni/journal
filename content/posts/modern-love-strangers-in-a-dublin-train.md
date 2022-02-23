@@ -5,7 +5,7 @@ date: '2022-02-22T21:29:30-03:00'
 tags:
 - draft
 - series
-title: Modern Love S02 E03: Strangers in a Dublin Train
+title: 'Modern Love S02 E03: Strangers in a Dublin Train'
 ---
 
 Um experimento. Uma espécie de Antes do Amanhecer resumido e destacado no tempo. Esses dois se conhecem um dia antes do isolamento da pandemia e não trocam celulares pela magia do momento. Não é romântico, é comédia. Ou deveria ser. Os momentos relacionados com o que passamos extrai um pouco de drama de nossas memórias que viveram tudo isso. E quem não viveu?
