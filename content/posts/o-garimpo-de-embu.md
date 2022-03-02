@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2022-02-22T21:29:57-03:00'
 tags:
-- draft
 - food
 title: O Garimpo de Embu
 ---
