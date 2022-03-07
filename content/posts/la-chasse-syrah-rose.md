@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2022-03-02T12:12:37-03:00'
 tags:
-- draft
 - wine
 title: La Châsse Syrah Rosé
 ---
