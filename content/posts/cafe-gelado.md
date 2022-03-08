@@ -3,7 +3,6 @@ categories:
 - blog
 date: '2022-03-05T19:43:39-03:00'
 tags:
-- draft
 - recipes
 - coffee
 title: Café Gelado

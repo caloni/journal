@@ -5,11 +5,10 @@ date: '2022-03-06T21:15:48-03:00'
 tags:
 - movies
 - cinemaqui
-- draft
 title: Rua Mercantil Nº3
 ---
 
-O que se ganha em ver um filme tão velho quanto Rua Mercantil Nº3 hoje em dia? O cinema não tem evoluído tanto que essas velharias que sequer têm som deixam de fazer sentido? Este texto tenta dar algumas respostas para essa questão cinéfila.
+O que se ganha em ver um filme tão velho quanto Rua Mercantil Nº3 hoje em dia? Será que o cinema tem evoluído tanto que essas velharias sem som deixam de fazer sentido? Este texto tenta dar algumas respostas iniciais para essa questão cinéfila.
 
 Em primeiro lugar sugiro um exercício análogo, já que estamos pensando em obras de arte. Responda a seguinte pergunta: o que se ganha em analisar ou admirar obras como Mona Lisa de séculos atrás se as técnicas de desenho evoluíram absurdamente nas últimas décadas, sobretudo as digitais? Com certeza alguém já deve ter feito trabalhos muito superiores usando computadores e ferramentas como Photoshop.
 
