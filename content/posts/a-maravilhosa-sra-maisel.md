@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2022-03-09T22:25:14-03:00'
 tags:
-- draft
 - series
 title: A Maravilhosa Sra. Maisel
 ---
