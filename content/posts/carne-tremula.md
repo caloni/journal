@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2022-03-13T23:33:36-03:00'
 tags:
-- draft
 - movies
 title: Carne Trêmula
 ---
