@@ -24,3 +24,11 @@ Estava curioso para saber quais as últimas pesquisas, ou melhor, o apanhado de 
 > Glucose from the bloodstream is the main source of energy for the brain 
 
 > In contrast, fructose cannot directly supply the brain with energy as it crosses the blood brain barrier to a much lesser degree than glucose 
+
+> There are two principal rewarding aspects of sugar consumption: nutrition and taste. Rodent studies have indicated that these two aspects are distinct and dissociable and may follow different neural pathways 
+
+> While the nutritive reward of sugar in mice causes DA release primarily in the dorsal striatum, the sweetness reward is concentrated in the ventral striatum 
+
+> This suggests that DRD2 in the NAc are essential both for regulating peripheral glucose levels as well as the reinforcement/reward learning of glucose consumption (), which explains why dysregulation of this system may lead to overeating. 
+
+> Just as fructose and glucose have different metabolic pathways, they have different hedonic effects on the brain and behavior. 

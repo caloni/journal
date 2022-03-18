@@ -5,6 +5,7 @@ date: '2015-09-15'
 link: https://www.imdb.com/title/tt3742378
 tags:
 - movies
+- drafts
 title: Que Horas Ela Volta?
 ---
 
@@ -19,3 +20,7 @@ Val é uma empregada secular que acompanha a família há tanto tempo que trata 
 Então, vejamos: um drama familiar existe nessa família no nordeste, e possivelmente a pobreza faz com que Val se mude para a cidade grande e consiga um emprego que lhe permita sustentar a filha à distância. O medo de perder essa capacidade é o que a faz temer qualquer possível destrato com seus patrões, o que os acaba acostumando com essa forma de tratamento. O que vemos no filme são pelo menos dez anos de um costume solidificado pela repetição. A consequência é essa distância cultura entre a mãe e a filha, o que é natural e saudável. No entanto, a filha não reconhece os sacrifícios da mãe, e enxerga na relação contratual entre Val e seus patrões uma relação de exploração.
 
 E acreditando piamente em uma versão pseudo-trágica da história, o terceiro e catártico ato resolve escancarar de vez o ódio nutrido pelos idealizadores de "Que Horas Ela Volta" (possivelmente encabeçado por Marilena de Souza Chaui) e através disso revela-se unidimensional ao bolar uma "solução" óbvia e nem um pouco impactante. Conseguindo tornar irritante até um momento simbólico de Regina Casé na piscina, "Que Horas Ela Volta" é a síntese de tudo o que está de errado na cabeça dessas pessoas, e talvez nos mesmos moldes de "O Nascimento de uma Nação", mostre como o Cinema como arte -- e, portanto, belo enquanto imoral -- pode ser triste e bilhante ao mesmo tempo.
+
+# 2022-03-16
+
+Quando assisti este filme no cinema estava em uma fase politizada e não conseguia enxergar sem o viés que muitos de nós carrega no hipotálamo. Hoje revendo sei que exagerei na interpretação de um filme competente tecnicamente, que apresenta uma Regina Casé em um carismático personagem que trabalha o minimalismo nos diálogos e na forma de dizê-los, mas que ao mesmo tempo está imersa em um filme para a crítica ver, para o público socialmente "engajado" aplaudir, e os mais distraídos até se emocionarem com uma versão plástica, alegórica, da realidade. Somos brindados com um filme muito bem feito por uma diretora e roteirista carregada de fundo ideológico. Não que isso seja ruim. Só que transparece ao ponto de incomodar. O filme poderia ser infinitamente melhor se fosse honesto. É um retrato sensível que captura momentos de contraste de histórias, mas que acaba revelando seus preconceitos, bons ou ruins, a respeito dos que considera iguais ou diferentes. Seja como for, Casé ainda brilha.
