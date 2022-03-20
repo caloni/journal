@@ -32,3 +32,15 @@ Estava curioso para saber quais as últimas pesquisas, ou melhor, o apanhado de 
 > This suggests that DRD2 in the NAc are essential both for regulating peripheral glucose levels as well as the reinforcement/reward learning of glucose consumption (), which explains why dysregulation of this system may lead to overeating. 
 
 > Just as fructose and glucose have different metabolic pathways, they have different hedonic effects on the brain and behavior. 
+
+> Sugar consumption alone will not lead to weight gain or obesity--even rats exhibiting addictive behavior towards sugar do not gain weight (,). The same is true for fat--rats given intermittent access to fat will binge on it, but will not gain significant weight (). However, like sugar, fat also increases food palatability, which can lead to hyperphagia. 
+
+> While fat or sugar alone may not induce weight gain, together they do. Highly processed foods, which are often over-consumed, tend to contain both fat and added sugar (e.g. ice cream, pizza, etc). 
+
+> Unlike sugars, which can be absorbed in the upper half of the GI tract, certain complex carbohydrates are not digestible by human enzymes and must be broken down by microbes in the large intestine (,,,,). Gut microbes produce short chain fatty acids (SCFAs) as a byproduct of the fermentation of these complex carbohydrates. The primary SCFAs produced are acetate, propionate, and butyrate, which can be used by the body as an energy source. Complex carbohydrates are more filling than sugars because SCFAs can increase the release of hormones and peptides from enteroendocrine cells that result in increased satiety, thus reducing food seeking behavior 
+
+> Sugar is a highly palatable food that triggers our reward systems due to both caloric input and taste. Taken in excess, sugar can trigger these reward systems too strongly, inducing compulsive eating. The nutritive and taste reward centered in the striatum and the homeostatic signaling from the hypothalamus become less effective at communicating with each other to signal satiety. Added fructose is especially disruptive because it is not immediately available as an energy source for the brain, providing a sweet taste without the accompanying beneficial and timely nutritive input. The following dysregulation of eating behavior in many ways parallels the compulsive consumption of drugs in addiction. 
+
+> When we examine glucose and fructose separately, added fructose is associated with many more health risks than glucose. Fructose can increase food-seeking and lead to fat production and storage. It may also be related to neurodegenerative inflammatory disease like diabetes and Alzheimer’s. As an alternative to sugar, complex carbohydrates in fruits, vegetables, legumes and fiber-rich grains are fermented by gut microbes, producing SCFAs, which may counterbalance the inflammatory effects of sugar. 
+
+> The combination of sugar and fat is especially potent for triggering food overconsumption and weight gain. While each alone will not cause weight gain, sugar and fat together are highly palatable and can induce weight gain and obesity. 
