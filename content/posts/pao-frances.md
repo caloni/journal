@@ -4,7 +4,6 @@ categories:
 date: '2022-02-06'
 tags:
 - recipes
-- draft
 title: Pão Francês
 ---
 

@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2022-03-20T16:07:36-03:00'
 tags:
-- draft
 - food
 title: Cantina do Araújo
 ---

@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2022-03-20T16:07:59-03:00'
 tags:
-- draft
 - series
 title: Amor e Anarquia
 ---

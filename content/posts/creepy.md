@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2022-03-17T22:51:26-03:00'
 tags:
-- draft
 - movies
 title: Creepy
 ---
