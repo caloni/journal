@@ -1,0 +1,10 @@
+---
+categories:
+- blog
+date: '2022-04-10T13:56:03-03:00'
+tags:
+- draft
+- trip
+title: Estadia em Pocos de Caldas 2022
+---
+As fotos mostram bem cada espaço, mas não onde estão localizados. Um dos quartos fica ao lado da garagem do lado de baixo, e o outro quarto em cima ao lado da sala. A sala é aberta para o lado interno com o acesso à piscina e fechada com uma varanda e porta de vidro. Há muito barulho na rua na frente e nos vizinhos atrás, mas parte do barulho que ouvimos é temporário por causa da reforma da praça à frente, então acredito que tenha sido pontual. Porém, dias de semana o barulho dos carros de manhã vai acontecer, pois é uma via bem usada para trânsito das pessoas do bairro. Sobre os utensílios, tudo é muito antigo e a única forma de fazer café disponível era um coador de pano (apesar de ter filtros de papel disponíveis). Há itens de cozinha disponíveis, como sal (até grosso), açúcar e até óleo. A grelha da churrasqueira é improvisada, a original está debaixo de uma escada que não leva a lugar nenhum, e é metade do tamanho do espaço. A mesa de bilhar está precisando de uma reforma urgente. Para quem gosta, tem TVs em todos os cantos. Este local tem cara de rolê de jovens pela proximidade que irá acontecer entre as pessoas, pois só há um grande espaço comum. Há um carro antigo coberto bem na entrada da garagem, o que pode atrapalhar um pouco quem precisar colocar dois carros (há espaço para três). A comunicação com o Alessandro sempre foi muito rápida e eficiente, ele deu um jeito para fazermos o checkin enquanto ele não estava e respondeu rápido sobre um problema na chave do portão que não estava funcionando (mau contato), mas não foi preciso de ajuda, pois logo depois conseguimos fazer funcionar abrindo a capinha. A localização é ótima para uma caminhada para o centro, pois fica a quadras de distância da ciclovia e da pista de caminhada que leva até o centro, cheio de árvores em volta. Há mercado, açougue e alguns restaurantes na mesma distância da avenida.
