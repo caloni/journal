@@ -3,7 +3,6 @@ categories:
 - blog
 date: '2022-04-01T14:09:24-03:00'
 tags:
-- draft
 - movies
 title: Cats é obra de arte incompreendida
 ---
