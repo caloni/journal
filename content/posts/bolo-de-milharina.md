@@ -3,7 +3,6 @@ categories:
 - blog
 date: '2022-04-06T15:34:18-03:00'
 tags:
-- draft
 - recipes
 title: Bolo de Milharina
 ---

@@ -8,7 +8,7 @@ tags:
 title: Piadina e Falcone
 ---
 
-Este restaurante está na Restaurant Week em SP esse ano e fomos com um casal de amigos conferir. Ele parece um restaurante daqueles comuns de bairro nobre que oferece uma ambiente bacana e comida normal, dessas que dá pra fazer em sua cozinha. A vantagem é não precisar lavar a louça.
+Este restaurante está na Restaurant Week em SP esse ano e fomos com um casal de amigos conferir. Ele parece um restaurante daqueles comuns de bairro nobre que oferece um ambiente bacana e comida normal, dessas que dá pra fazer em sua cozinha. A vantagem é não precisar lavar a louça.
 
 Os restaurantes que oferecem o cardápio da Week precisam ter as opções de entrada, prato principal e sobremesa. Experimentamos as seguintes entre outras (descrição abaixo ipsis literis do cardápio):
 
