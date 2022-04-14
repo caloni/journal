@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2022-04-05T20:54:00-03:00'
 tags:
-- draft
 - food
 - wine
 title: Piadina e Falcone

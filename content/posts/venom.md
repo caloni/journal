@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2022-04-05T21:07:51-03:00'
 tags:
-- draft
 - movies
 title: Venom
 ---

@@ -5,12 +5,10 @@ date: '2022-04-12T23:01:57-03:00'
 tags:
 - movies
 - cinemaqui
-- draft
 title: A História da Guerra Civil
 ---
 
 Do cineasta soviético Dziga Vertov e feita para divulgar o Partido e imortalizar os militares que apoiaram o golpe contra o Império Russo, esta série de filmagens é desconexa e não conta uma história de fato. É mais um registro de momentos em que havia alguma oposição aos revolucionários e como eles foram desbancados pelos bolcheviques.
-
 
 Esse conjunto de filmagens foi restaurado por Nikolai Izvolov depois de mais de 100 anos em que se pensava terem sido perdidas. E o resultado é impressionante se imaginarmos as condições precárias de armazenamento de uma Rússia em plena guerra interna. Dos 90 minutos pode-se encontrar apenas meros segundos de um filme borrado sem contraste, o que é uma vitória para os arquivos de cinematografia.
 
