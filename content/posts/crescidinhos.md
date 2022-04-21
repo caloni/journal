@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2022-04-18T21:37:28-03:00'
 tags:
-- draft
 - series
 title: Crescidinhos
 ---
