@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2022-04-18T21:35:33-03:00'
 tags:
-- draft
 - movies
 - cinemaqui
 title: Sorte de Quem?
