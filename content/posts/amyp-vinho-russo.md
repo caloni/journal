@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2022-04-24T12:22:29-03:00'
 tags:
-- draft
 - wine
 title: Vinho Russo
 ---
