@@ -4,7 +4,6 @@ categories:
 date: '2019-01-07'
 tags:
 - recipes
-- draft
 title: Empanadas Argentinas
 ---
 
@@ -14,13 +13,17 @@ Para o peso em farinha de trigo, 2% de sal, cerca de 25% de gordura em temperatu
 
 ## Ingredientes para o recheio de carne
 
-Esse recheio vai basicamente carne (moída ou em pedaços) e cebola (picada ou fatiada), ambos com o mesmo volume. Coloque gordura para cobrir a panela e coloque a carne, reduzindo e deixando queimar levemente enquanto joga água quente para não grudar no fundo. Para o tempero, além de sal e pimenta a gosto, cominho, semente de mostarda, páprica, pimenta calabresa. Estes temperos podem ser colocados enquanto a carne está sendo queimada e reduzida. Quando o sabor da carne estiver ressaltado pode jogar a cebola para reduzi-la da mesma forma. Ao final jogue um pouco de tomate picado ou seu molho. Ao reduzir todo o líquido desligue o fogo e tempere com orégano, salsa picada, azeitona em pedaços.
+Esse recheio vai basicamente carne (moída ou em pedaços) e cebola (picada ou fatiada), ambos com o mesmo volume.
 
 Uma versão saltenha da mesma receita pode ser feita com batata cozida, mas ainda firme, em pequenos pedaços. Uma outra versão usa ovos cozidos em pedaços.
 
-## Preparo
+## Preparo da massa
 
-Coloque em um recipiente a farinha e o sal. Acrescente a gordura em temperatura ambiente e a água aos poucos até dar ponto. Mexa bastante a massa até ela ficar elástica. Em uma panela, doure a cebola no óleo. Adicione a carne e refogue. Acrescente o cominho, a semente de mostarda, o orégano, o caldo de carne, a pimenta calabresa, o molho de tomate e deixe apurar. Quando estiver pronto, coloque a salsa e a azeitona e finalize com o ovo cozido. Abra a massa e corte em formas redondas. Recheie e feche. Pincele a gema de ovo e asse em forno médio por aproximadamente 20 minutos.
+Coloque em um recipiente a farinha e junte a água, o sal e a gordura e coloque bem pouco no fogo, apenas para amornar. Jogue por cima da farinha e comece a mexer. Mexa o suficiente para que a massa fique elástica mesmo que ainda rasgando (isso é normal nessa massa). Mexa até você sentir que esta é a melhor massa para mexer com as mãos do mundo. Embale em plástico filme e deixe repousar na geladeira por algumas horas ou de um dia para outro.
+
+## Preparo do recheio
+
+Coloque gordura para cobrir a panela e coloque a carne, reduzindo e deixando queimar levemente enquanto joga água quente para não grudar no fundo. Para o tempero, além de sal e pimenta a gosto, cominho, semente de mostarda, páprica, pimenta calabresa. Estes temperos podem ser colocados enquanto a carne está sendo queimada e reduzida. Quando o sabor da carne estiver ressaltado pode jogar a cebola para reduzi-la da mesma forma. Ao final jogue um pouco de tomate picado ou seu molho. Ao reduzir todo o líquido desligue o fogo e tempere com orégano, salsa picada, azeitona em pedaços.
 
 ## Histórico
 
