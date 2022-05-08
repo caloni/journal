@@ -45,12 +45,15 @@
   {{ with .Params.css }}{{ . | safeHTML }}{{ end }}
   <link rel="stylesheet" type="text/css" href="/css/custom.css"/>
   <link rel="stylesheet" type="text/css" href="/css/jquery-ui.css"/>
+  <link rel="stylesheet" type="text/css" href="/css/board-min.css"/>
 
   <!-- JS -->
   {{ with .Params.js }}{{ . | safeJS | htmlUnescape | safeHTML }}{{ end -}}
 
   <script src="/js/jquery-1.10.2.js"></script>
   <script src="/js/jquery-ui.js"></script>
+  <script src="/js/pgnyui.js"></script>
+  <script src="/js/pgnviewer.js"></script>
   {{ if .IsHome }}
     {{ partial "quick_search_head.html" . }}
     <script src="/js/quick_search.js"></script>
