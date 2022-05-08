@@ -4,10 +4,10 @@
   {{ range $.Site.Params.external }}
     {{ if in $.Params.tags .tag }}
       {{ if .searchLink }}
-        escrito para <a href="{{ .searchLink }}{{ $.Params.title }}">{{ .name }}</a>,
+        escrito para ou com a ajuda de <a href="{{ .searchLink }}{{ $.Params.title }}">{{ .name }}</a>,
       {{ end }}
       {{ if .link }}
-        escrito para <a href="{{ .link }}">{{ .name }}</a>,
+        escrito para ou com a ajuda de <a href="{{ .link }}">{{ .name }}</a>,
       {{ end }}
     {{ end }}
   {{ end }}
