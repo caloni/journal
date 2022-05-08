@@ -6,7 +6,7 @@ link: '/text/cavaloni.txt'
 tags:
 - chess
 - chesstempo
-title: Cavaloni (ou minhas partidas)
+title: Cavaloni (ou todas minhas partidas)
 ---
 
 {{< rawhtml >}}
