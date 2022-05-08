@@ -2,10 +2,9 @@
 categories:
 - blog
 date: '2021-12-16T18:22:03-03:00'
-link:  '/text/Mauo12_vs_cavaloni_2021.12.16.txt'
+link:  '/chess/Mauo12_vs_cavaloni_2021.12.16.txt'
 tags:
 - chess
-- chesstempo
 title: Ida e Volta
 ---
 
@@ -17,7 +16,7 @@ new PgnViewer(
   {
     boardName: "cavaloni",
     showCoordinates: true,
-    pgnFile: '/text/Mauo12_vs_cavaloni_2021.12.16.txt',
+    pgnFile: '/chess/Mauo12_vs_cavaloni_2021.12.16.txt',
     pieceSet: 'merida',
     pieceSize: 65
   }

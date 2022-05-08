@@ -1,11 +1,11 @@
 ---
 categories:
 - blog
-date: '2022-05-07'
-link: '/chess/cavaloni.txt'
+date: '{{ .Date }}'
 tags:
+- draft
 - chess
-title: Cavaloni (ou todas minhas partidas)
+title: {{ replace .TranslationBaseName "-" " " | title }}
 ---
 
 {{< rawhtml >}}
@@ -14,7 +14,7 @@ new PgnViewer(
   {
     boardName: "cavaloni",
     showCoordinates: true,
-    pgnFile: '/chess/cavaloni.txt',
+    pgnFile: '/text/cavaloni.txt',
     pieceSet: 'merida',
     pieceSize: 65
   }

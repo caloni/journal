@@ -1,11 +1,11 @@
 ---
 categories:
 - blog
-date: '2022-05-07'
-link: '/chess/cavaloni.txt'
+date: '2022-05-08T09:22:17-03:00'
 tags:
+- draft
 - chess
-title: Cavaloni (ou todas minhas partidas)
+title: Minhas Partidas Com Fabio
 ---
 
 {{< rawhtml >}}
@@ -14,7 +14,7 @@ new PgnViewer(
   {
     boardName: "cavaloni",
     showCoordinates: true,
-    pgnFile: '/chess/cavaloni.txt',
+    pgnFile: '/chess/cavaloni_fssantana.txt',
     pieceSet: 'merida',
     pieceSize: 65
   }

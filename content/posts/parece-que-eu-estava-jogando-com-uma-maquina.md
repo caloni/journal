@@ -2,10 +2,9 @@
 categories:
 - blog
 date: '2021-09-13T23:04:07-03:00'
-link: '/text/cavaloni_vs_mrthomas2190_2021.09.11.txt'
+link: '/chess/cavaloni_vs_mrthomas2190_2021.09.11.txt'
 tags:
 - chess
-- chesstempo
 title: Parece que estava jogando com uma máquina
 ---
 
@@ -17,7 +16,7 @@ new PgnViewer(
   {
     boardName: "cavaloni",
     showCoordinates: true,
-    pgnFile: '/text/cavaloni_vs_mrthomas2190_2021.09.11.txt',
+    pgnFile: '/chess/cavaloni_vs_mrthomas2190_2021.09.11.txt',
     pieceSet: 'merida',
     pieceSize: 65
   }

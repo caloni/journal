@@ -2,10 +2,9 @@
 categories:
 - blog
 date: '2021-09-19T11:28:00-03:00'
-link: '/text/cavaloni_vs_alex4935_2021.09.19.txt'
+link: '/chess/cavaloni_vs_alex4935_2021.09.19.txt'
 tags:
 - chess
-- chesstempo
 title: Partida longa com pouco tempo
 ---
 
@@ -17,7 +16,7 @@ new PgnViewer(
   {
     boardName: "cavaloni",
     showCoordinates: true,
-    pgnFile: '/text/cavaloni_vs_alex4935_2021.09.19.txt',
+    pgnFile: '/chess/cavaloni_vs_alex4935_2021.09.19.txt',
     pieceSet: 'merida',
     pieceSize: 65
   }
