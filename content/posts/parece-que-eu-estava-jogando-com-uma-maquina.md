@@ -10,20 +10,4 @@ title: Parece que estava jogando com uma máquina
 
 Eu perdi a Dama em um sacrifício de cavalo, mas após alguns lances em um jogo fechado fiquei ganho depois de um tático que me deixou dar um xeque duplo e capturar sua Dama. O mais interessante é que com o jogo fechado para mim foi simples entender que bastava levar meu rei para o outro lado e deixar o bispo ameaçando o peão adversário no canto. O rei não pode se mover. Em mais alguns lances ele abandona.
 
-{{< rawhtml >}}
-<script>
-new PgnViewer(
-  {
-    boardName: "cavaloni",
-    showCoordinates: true,
-    pgnFile: '/chess/cavaloni_vs_mrthomas2190_2021.09.11.txt',
-    pieceSet: 'merida',
-    pieceSize: 65
-  }
-);
-</script>
-
-<div id="cavaloni-container"></div>  
-
-<div id="cavaloni-moves"></div>  
-{{< /rawhtml >}}
+{{< chess board="cavaloni" src="cavaloni_vs_mrthomas2190_2021.09.11.txt">}}

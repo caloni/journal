@@ -1,0 +1,18 @@
+<!-- chess shortcode -->
+{{ $board := .Get "board" }}
+{{ $src := (printf "/chess/%s" (.Get "src") ) }}
+<script>
+new PgnViewer(
+  {
+    boardName: "{{ $board }}",
+    showCoordinates: true,
+    pgnFile: '{{ $src }}',
+    pieceSet: 'merida',
+    pieceSize: 65
+  }
+);
+</script>
+
+<div id="{{ $board }}-container"></div>
+
+<div id="{{ $board }}-moves"></div>
