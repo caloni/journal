@@ -10,3 +10,5 @@ title: Minhas Partidas Com Fabio
 ---
 
 {{< chess board="cavaloni" src="cavaloni_fssantana.txt">}}
+
+A primeira partida foi brincadeira de criança, mas a segunda é a que eu me lembro mais. Aquele sacrifício de dama de longo prazo ficou em alguns momentos quase na igualdade, mas perdi tanto a oposição dos reis quanto a promoção da dama por um lance. Analisando com o computador vi uma linha melhor que elimina os peões avançados e mantém as damas no tabuleiro que até parecia em pé de igualdade. Vale a pena o exercício de raciocínio à distância.

@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2022-05-14T20:40:34-03:00'
 tags:
-- draft
 - coffee
 title: Casa do Colono
 ---
