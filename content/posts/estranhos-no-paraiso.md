@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2022-05-17T21:15:52-03:00'
 tags:
-- draft
 - movies
 title: Estranhos no Paraíso
 ---

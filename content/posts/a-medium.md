@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2022-05-17T21:15:35-03:00'
 tags:
-- draft
 - movies
 - cinemaqui
 title: A Médium
@@ -23,6 +22,6 @@ Logo surge a trilha sonora e os cortes que tiram o espectador desse faz-de-conta
 
 Então chegamos no terceiro ato, onde toda a plateia está esperando pelos fogos de artifício e quem é que vai segurar a câmera por último antes de morrer. E, meus leitores, é preciso dizer: é um show de horrores. No melhor e no pior sentidos. Há um pouco de gore além da conta, assim como algumas tripas filmadas com pouca luz, já que "o grande ritual", aquela parte integrante dos finais de terror, é conduzido em uma casa abandonada cercada apenas pela floresta. Aos poucos surgem aqueles jump scares que empolgam um pouquinho, e não demora para começarmos a nos entediar. Hora de pensar na vida, no que vamos fazer para o almoço... será que essa atriz vai fazer mais algum trabalho ou vai sair na revista?
 
-Eu não consigo falar muito sobre as atuações por causa da dublagem. Algumas expressões, principalmente da atriz que faz a médium, me sugere que esté é uma boa interpretação até para o conteúdo do filme,mas sua voz não me chega. Apenas a leitura burocrática de uma tradução sem personalidade não é o suficiente para entendermos se A Médium pode ter alguns pontos fortes no elenco além de transformar um mockumentary em trem-fantasma com roteiro manjado.
+Eu não consigo falar muito sobre as atuações por causa da dublagem. Algumas expressões, principalmente da atriz que faz a médium, me sugere que esta é uma boa interpretação até para o conteúdo do filme,mas sua voz não me chega. Apenas a leitura burocrática de uma tradução sem personalidade não é o suficiente para entendermos se A Médium pode ter alguns pontos fortes no elenco além de transformar um mockumentary em trem-fantasma com roteiro manjado.
 
-Porém, caro leitor, se você gosta de se assustar e tiver a oportunidade de assistir a esta experiência em uma telona com o som original, garanto que irá sentir alguns arrepios. Poderá se entediar eventualmente, mas será menos e será rápido, pois os trilhos colocados para os sustos rápidos são bem escondidos, e a atmosfera bucólica e charmosa facilita a experiência. Tudo facilita no filme. Menos a dublagem e a história difícil de engolir.
+Porém, caro leitor, se você gosta de se assustar e tiver a oportunidade de assistir a esta experiência em uma telona com o som original, garanto que irá sentir alguns arrepios. Poderá se entediar eventualmente, mas será menos e será rápido, pois os trilhos desse trem-fantasma são dispostos para sustos rápidos, não tão bem escondidos, mas a atmosfera bucólica e charmosa facilita a experiência. Aliás, tudo facilita no filme. Menos a dublagem e a história difícil de engolir.
