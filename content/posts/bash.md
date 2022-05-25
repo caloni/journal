@@ -3,7 +3,6 @@ categories:
 - code
 date: '2022-05-20'
 tags:
-- draft
 title: Programando bash script
 ---
 
@@ -45,7 +44,7 @@ ordenar_numeros() {
 ordenar_numeros $1 $2 $3
 ```
 
-Como você deve ter percebido lendo o primeiro script da sua vida variáveis em bash script começam com `$´. As variáveis `$0` a `$9` são os argumentos do programa, mas de resto pode ser um nome qualquer e usado em qualquer lugar, mas caso você precise tornar o nome não-ambíguo é importante colocar entre chaves:
+Como você deve ter percebido lendo o primeiro script da sua vida variáveis em bash script começam com `$`. As variáveis de `$0` a `$9` são os argumentos do programa, mas de resto pode ser um nome qualquer e usado em qualquer lugar, mas caso você precise tornar o nome não-ambíguo é importante colocar entre chaves:
 
 ```sh
 [ ${var}text -ne $vartext ]
@@ -72,7 +71,7 @@ No começo dos scripts em geral você irá notar a seguinte linha:
 set -e
 ```
 
-O uso o parâmetro `-e` é para sair imediatamente caso qualquer comando dê ruim. Além disso, há a possibilidade de setar funções de saída para limpar coisas deixadas pelo caminho. É o garbage collector do script. Há [outras opções](https://www.gnu.org/software/bash/manual/html_node/The-Set-Builtin.html) para modificar o comportamento do shell.
+O uso do parâmetro `-e` é para sair imediatamente caso qualquer comando dê ruim. Além disso, há a possibilidade de setar funções de saída para limpar coisas deixadas pelo caminho. É o garbage collector do script. Há [outras opções](https://www.gnu.org/software/bash/manual/html_node/The-Set-Builtin.html) para modificar o comportamento do shell.
 
 A opção de limpeza pode ser setada através do [comando trap](https://linuxhint.com/bash_trap_command/). O comando trap permite associar chamadas de funções aos diferentes tipos de sinais que o programa pode receber. Por exemplo, abaixo é setada a função de limpeza para quando o script sair.
 
@@ -187,7 +186,7 @@ fi
 
 ### Dicas sobre uso do if
 
- - Sempre mantenha espaços entre os colchetes e a checage/comparação; e.g. erro: “missing `]'“;
+ - Sempre mantenha espaços entre os colchetes e a checagem/comparação; e.g. erro: “missing `]'“;
 
  - Palavras-chave não podem compartilhar a mesma linha (mesmo comando); solução: ou coloque um ponto-e-vírgula entre as palavras-chave ou quebra uma nova linha; e.g. erro: “syntax error near unexpected token `fi”;
 
@@ -306,7 +305,7 @@ case $1 in
 | expand      | expande tabs para espaços                                                |
 | expr        | avalia expressões                                                        |
 | factor      | fatora números                                                           |
-| false       | retorn false (duh), aka 1 (vide bash true/false)                         |
+| false       | retorna false (duh), aka 1 (vide bash true/false)                        |
 | fido2-sth   | coisas de autenticação/criptografia                                      |
 | file        | identifica tipo de arquivo                                               |
 | find        | encontra arquivos                                                        |
@@ -314,7 +313,7 @@ case $1 in
 | fold        | formata texto para limitar máximo de colunas                             |
 | funzip      | descompacta gzip                                                         |
 | gawk        | versão GNU do awk                                                        |
-| getconf     | retorna configurações do sistema via varáveis POSIX                      |
+| getconf     | retorna configurações do sistema via variáveis POSIX                     |
 | getopt      | parser de parâmetros de linha de comando (para scripts)                  |
 | gettext     | tradução de mensagens do sistema                                         |
 | gpg-sth     | comandos relacionados a PGP da GNU                                       |
@@ -438,7 +437,7 @@ case $1 in
 | xz          | comprime arquivos no formato... er... xz?                                |
 | xzcat       | mostra arquivos comprimidos no formato... er... xz?                      |
 | xzdec       | descompacta arquivos do formato xz                                       |
-| yat2m       | extraí man pages de dentro de um Texinfo                                 |
+| yat2m       | extrai man pages de dentro de um Texinfo                                 |
 | yes         | imprime para sempre yes! yes! yes! (útil para aceitar sempre perguntas)  |
 | zipcmp      | comparador de zips                                                       |
 | zipinfo     | informações sobre um zip                                                 |
