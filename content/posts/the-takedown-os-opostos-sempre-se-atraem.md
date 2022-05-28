@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2022-05-24T21:39:06-03:00'
 tags:
-- draft
 - movies
 title: Os Opostos Sempre se Atraem
 ---

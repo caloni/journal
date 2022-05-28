@@ -1,0 +1,28 @@
+---
+categories:
+- blog
+date: '2022-05-27T20:07:01-03:00'
+tags:
+- draft
+- books
+title: A Brief History of Japan (Jonathan Clements)
+---
+
+> I was arriving not in the Tōkyō region, but in Japan’s ancient heartland of Kyōto, which would soon bewitch me with its history and culture. I was there to study premodern Japanese foreign relations and Japanese literature.
+> Twenty-five years and three degrees later, I still felt very much like a beginner.
+> I was now an author, the biographer of several figures in Japanese history—Prince Saionji and Admiral Tōgō, the teenage rebel Ama-kusa Shirō and the pirate king Coxinga.
+> My speciality had always been the snatching of weird and wonderful stories, and their popularization for a general audience.
+> Whom to mention? Whom to discard? Which of the 125 emperors is worth including? Which of the dozens of shōguns? And should I put an “s” on the end of shōgun? Who will make the cut from Japan’s writers and artists, philosophers and samurai? When others have written entire books about the subjects of single pages—even single lines—the task is daunting.
+> Unlike, say, China, where history can be broken up into discrete dynasties, there is only one dynasty in Japan, and it claims to have ruled the nation since the dawn of history.
+> Politics remains a powerful influence on Japanese history. When it comes to ancient times, the big problem comes from the reality gap between a national mythology that claims the emperors are all descended from the Sun Goddess and archaeology that suggests that they are descended from Korean aristocrats.
+> Japan’s imperial graves remain closed to archaeology, and that drastically reduces the chances of ever uncovering a Japanese manuscript that predates the 700s.
+> Japan was born fifteen million years ago, pushed away from the edge of Eurasia by the formation of the Japan Sea. At the time it was quite flat, but it sits at the confluence of three massive tectonic plates—the Eurasian, the Pacific, and the Philippine—which mashed together to buckle and warp the land into towering mountains.
+> The map of Japan remains dotted with suspiciously round lakes and islands, or curved bays that indicate the forgotten edge of ancient craters. Even in the era of human settlements, occasional disasters have depopulated entire regions. Parts of Japan have been settled “for the first time” on multiple occasions, the newcomers being unaware that the bones of earlier inhabitants lay beneath their feet, under layers of ash and mud.
+> It is no coincidence that tsunami is a Japanese word. Once every 800 to 1,100 years, for example, the sediments of north Japan show the evidence of a “tsunamigenic” deposit—a thick layer of mud left behind by an immense flood from the sea, caused by an offshore earthquake in a fault line to be found 70 kilometers (43.5 miles) away on the sea bed. Court chronicles in 869 CE reported an earthquake and an onrushing tidal wave that killed a thousand people and wiped out the garrison town of Tagajō. It would be 1,142 years before the process repeated itself in 2011.
+> Inland, more than two-thirds of Japan’s area comprises uninhabitable mountains, thickly forested today with non-native trees. In prehistoric times, the land was covered in woods of evergreen oak, hinoki cypress, and camphorwood.
+> But Japan’s cities huddle on a remarkably small area of land, much of it only reclaimed from the sea in the last century. Tōkyō, Nagoya, and Ōsaka occupy the only large areas of flat terrain in the whole country south of Hokkaidō: the plains of Kantō, Nōbi, and Kansai. Even these, however, are relatively small by global standards.
+> By the time the Japanese first began to write down their own history, those ancient forests were disappearing, replaced by red pines, deciduous oaks, and greater concentrations of chestnut and walnut.
+> One of the most crucial elements of Japanese geography has been the size of the Korea Strait (known in Japan as the Tsushima Strait, so named for the island in its middle) that separates it from mainland Asia. With a width of 200 kilometers (124.5 miles) at its narrowest point, this body of water arguably keeps Japan at a perfect “Goldilocks” distance—not so far as to make it impossible to trade and communicate, but far enough to prevent most large-scale military operations.
+> Beyond the archaeological record, our understanding of the Japanese past largely drops out of the sky in the early 700s CE, when courtiers collaborated on two documents designed to replace lost archives—the Kojiki (Account of Ancient Matters), and the Nihongi or Nihon-shoki (Chronicles of Japan).
+> The era from around 300 BCE to 250 CE, Japan’s “iron age,” is known to modern archaeologists as the Yayoi period, named for the Tōkyō district where its most famous remains were uncovered in 1884. Its origins, however, lie across the sea in Korea, from which several hundred thousand new migrants would cross the straits in search of a safe home.
+> These new arrivals hailed from a world that, if it was not openly Chinese, at least aspired to emulate Chinese civilization. They brought with them knowledge of the Chinese writing system, which was used inexpertly and inaccurately in early attempts to transcribe the words and concepts of the Japanese islands. They also brought new technology and materials—most notably metals and the potter’s wheel—as well as a culture steeped in patriarchal Confucianism.
