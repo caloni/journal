@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2022-05-27T20:08:07-03:00'
 tags:
-- draft
 - movies
 - cinemaqui
 title: Está Tudo Bem
