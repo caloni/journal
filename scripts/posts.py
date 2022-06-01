@@ -82,3 +82,49 @@ def remove_category(category):
     remove_item(post, 'categories', category)
   transform([ func ], files)
 
+
+def select(filter):
+  global files, path
+
+  if filter == '':
+    for f in files:
+      print(f)
+    print(f'{len(files)} items')
+  elif filter == '*':
+    files = glob(path)
+  else:
+    newFiles = []
+    def func(post, fname):
+      terms = [ 'tags', 'categories' ]
+      for t in terms:
+        if post.get(t):
+          if filter in post[t]:
+            newFiles.append(fname)
+            break
+      return True
+    transform([ func ], files)
+    files = newFiles
+
+
+def main():
+  funcs = {
+    'format': format, 
+    'select': select, 
+    'add_tag': add_tag,
+    'add_category': add_category,
+    'remove_tag': remove_tag,
+    'remove_category': remove_category,
+    'move_category_to_tag': move_category_to_tag,
+    'move_tag_to_category': move_tag_to_category
+  }
+
+  while True:
+    print("|".join(funcs))
+    cmd = input()
+    arg = input()
+    funcs[cmd](arg)
+
+
+if __name__ == "__main__":
+  main()
+
