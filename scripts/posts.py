@@ -3,7 +3,7 @@ from glob import glob
 
 
 path = "content/posts/*.md"
-files = [ glob(path) ]
+files = glob(path)
 verbose = False
 
 
