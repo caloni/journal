@@ -14,15 +14,15 @@ def transform(operations, files):
     with open(fname, 'r', encoding='utf8') as f:
       post = frontmatter.load(f)
       for op in operations:
-        op(post)
+        op(post, fname)
       post_str = frontmatter.dumps(post)
       f.close()
       with open(fname, 'w', encoding='utf8') as f:
         f.write(post_str)
 
 
-def format():
-  def nothing(post):
+def format(none):
+  def nothing(post, fname):
     pass
   transform([ nothing ], files)
 
@@ -46,39 +46,39 @@ def remove_item(post, collection, item):
 
 
 def move_category_to_tag(category):
-  def func(post):
+  def func(post, fname):
     if remove_item(post, 'categories', category):
       add_item(post, 'tags', category)
   transform([ func ], files)
 
 
 def move_tag_to_category(tag):
-  def func(post):
+  def func(post, fname):
     if remove_item(post, 'tags', tag):
       add_item(post, 'categories', tag)
   transform([ func ], files)
 
 
 def add_tag(tag):
-  def func(post):
+  def func(post, fname):
     add_item(post, 'tags', tag)
   transform([ func ], files)
 
 
 def add_category(category):
-  def func(post):
+  def func(post, fname):
     add_item(post, 'categories', category)
   transform([ func ], files)
 
 
 def remove_tag(tag):
-  def func(post):
+  def func(post, fname):
     remove_item(post, 'tags', tag)
   transform([ func ], files)
 
 
 def remove_category(category):
-  def func(post):
+  def func(post, fname):
     remove_item(post, 'categories', category)
   transform([ func ], files)
 
