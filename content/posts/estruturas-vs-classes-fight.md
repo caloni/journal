@@ -3,7 +3,7 @@ categories:
 - code
 date: '2014-05-20'
 link: https://www.youtube.com/watch?v=zn7-fVtT16k
-tags:
+tags: null
 title: 'Estruturas VS Classes: fight!'
 ---
 

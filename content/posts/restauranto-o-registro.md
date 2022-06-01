@@ -2,7 +2,7 @@
 categories:
 - code
 date: '2010-02-08'
-tags:
+tags: null
 title: Restaurando o registro
 ---
 

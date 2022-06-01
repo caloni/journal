@@ -2,7 +2,7 @@
 categories:
 - code
 date: '2010-11-05'
-tags:
+tags: null
 title: Suporte técnico
 ---
 

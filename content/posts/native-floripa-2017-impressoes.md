@@ -2,7 +2,7 @@
 categories:
 - blog
 date: '2017-03-21'
-tags:
+tags: null
 title: 'NativeFloripa 2017: Impressões'
 ---
 

@@ -2,7 +2,7 @@
 categories:
 - blog
 date: '2015-03-04'
-tags:
+tags: null
 title: Guia de alocação (nos clientes)
 ---
 

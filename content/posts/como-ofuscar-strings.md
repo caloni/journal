@@ -2,7 +2,7 @@
 categories:
 - code
 date: '2010-08-30'
-tags:
+tags: null
 title: Como ofuscar strings
 ---
 

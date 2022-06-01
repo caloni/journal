@@ -2,7 +2,7 @@
 categories:
 - code
 date: '2021-05-13'
-tags:
+tags: null
 title: Como Ordenar Três Números em Uma Entrevista
 ---
 

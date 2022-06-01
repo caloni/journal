@@ -2,7 +2,7 @@
 categories:
 - blog
 date: '2013-10-02'
-tags:
+tags: null
 title: Mais um CPP MVP
 ---
 

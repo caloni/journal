@@ -3,7 +3,7 @@ categories:
 - blog
 date: '2014-01-08'
 link: https://github.com/Caloni/money
-tags:
+tags: null
 title: BovespaBacktesting
 ---
 

@@ -2,7 +2,7 @@
 categories:
 - code
 date: '2016-01-21'
-tags:
+tags: null
 title: Log de chamadas API direto do WinDbg
 ---
 

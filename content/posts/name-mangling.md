@@ -2,7 +2,7 @@
 categories:
 - code
 date: '2009-07-13'
-tags:
+tags: null
 title: Name mangling
 ---
 

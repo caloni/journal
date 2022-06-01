@@ -24,8 +24,3 @@ Por fim, este é um trabalho técnico, e os fãs autistas geralmente se apaixona
 A fotografia, por exemplo, que encara essa arte gótica ressignificada, é a mais escura de todos os Batmans, além de amarelo âmbar, e com o uso de muitos cortes e algumas cenas de ação deixa tudo geograficamente bem confuso de acompanhar. O lado bom é que há pouca iconografia e aqueles momentos solenes de Snyder em câmera lenta que todos nós agradecemos por não existir neste filme, mas ainda assim todas as cenas dramáticas continuam solenes demais a ponto de não ter a mínima graça e zero engajamento. Este é um Batman de passagem, não liga muito para si mesmo, e nós nos lembraremos dos de Nolan daqui a alguns anos. Desse não.
 
 E por fim novamente, já que detalhes técnicos são o parâmetro de qualidade na arte cinematográfica do século 21, talvez a exceção virtuosa seja mesmo a trilha sonora, que vem com um tema bacana, de Michael Giacchino, que poderá ser inserido em continuações mais lentas e cínicas. Quem sabe a produção emplaca e poderemos aguardar por um Robert Pattinson mais velho e igualmente cínico, próximo da persona de Ben Affleck em BvS, que assim como Paul Dano tem se tornado uma versão distorcida de alguém verdadeiramente maluco. Poderá o envelhecimento ser a salvação dos heróis e vilões da DC?
-
-
-
-
-

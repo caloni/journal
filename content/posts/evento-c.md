@@ -2,7 +2,7 @@
 categories:
 - code
 date: '2010-08-16'
-tags:
+tags: null
 title: Evento C++
 ---
 

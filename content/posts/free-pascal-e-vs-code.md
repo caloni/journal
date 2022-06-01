@@ -2,7 +2,7 @@
 categories:
 - blog
 date: '2019-03-09'
-tags:
+tags: null
 title: Free Pascal e VS Code
 ---
 

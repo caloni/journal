@@ -2,7 +2,7 @@
 categories:
 - code
 date: '2016-04-16'
-tags:
+tags: null
 title: Rank and File (Code Jam)
 ---
 

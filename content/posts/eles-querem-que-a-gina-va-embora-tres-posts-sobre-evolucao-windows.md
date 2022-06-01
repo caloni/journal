@@ -2,7 +2,7 @@
 categories:
 - code
 date: '2014-06-11'
-tags:
+tags: null
 title: 'Eles querem que a GINA vá embora: três posts sobre evolução Windows'
 ---
 

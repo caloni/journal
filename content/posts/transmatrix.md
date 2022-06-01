@@ -3,9 +3,9 @@ categories:
 - blog
 date: '2020-12-06'
 link: https://www.imdb.com/title/tt0133093
-title: Transmatrix
 tags:
 - movies
+title: Transmatrix
 ---
 
 Os irmãos Wachowski hoje são irmãs. Ambos passaram por cirurgias de mudança de sexo. Recentemente, durante entrevistas sobre a produção de Matrix 4, foi comentado por uma delas que o primeiro Matrix era uma alegoria sobre transexualidade.

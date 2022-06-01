@@ -2,7 +2,7 @@
 categories:
 - blog
 date: '2018-03-07'
-tags:
+tags: null
 title: 'PHP Experience 2018 Dia 2: Críticas'
 ---
 

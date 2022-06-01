@@ -2,7 +2,7 @@
 categories:
 - blog
 date: '2009-03-19'
-tags:
+tags: null
 title: Provas de conceito... yes!
 ---
 

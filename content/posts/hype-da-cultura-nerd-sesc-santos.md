@@ -2,7 +2,7 @@
 categories:
 - blog
 date: '2015-07-28'
-tags:
+tags: null
 title: Hype da Cultura Nerd em Sesc Santos
 ---
 

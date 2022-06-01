@@ -3,7 +3,7 @@ categories:
 - code
 date: '2021-05-20'
 link: 'null'
-tags:
+tags: null
 title: Truques e Macetes na Hora de Programar
 toc: true
 ---

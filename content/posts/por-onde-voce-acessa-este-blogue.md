@@ -2,7 +2,7 @@
 categories:
 - blog
 date: '2017-02-01'
-tags:
+tags: null
 title: Por onde você acessa este blogue?
 ---
 

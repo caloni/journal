@@ -2,7 +2,7 @@
 categories:
 - blog
 date: '2011-06-04'
-tags:
+tags: null
 title: Cronogramas baseados em fatos reais
 ---
 

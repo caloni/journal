@@ -2,7 +2,7 @@
 categories:
 - blog
 date: 2018-09-28 19:43:04-03:00
-tags:
+tags: null
 title: Native Floripa 2018
 ---
 

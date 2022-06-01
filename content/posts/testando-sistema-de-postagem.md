@@ -2,7 +2,7 @@
 categories:
 - blog
 date: '2016-04-10'
-tags:
+tags: null
 title: Testando sistema de postagem
 ---
 

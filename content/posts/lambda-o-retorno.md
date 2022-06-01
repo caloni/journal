@@ -2,7 +2,7 @@
 categories:
 - code
 date: '2014-04-08'
-tags:
+tags: null
 title: 'Lambda: o Retorno!'
 ---
 

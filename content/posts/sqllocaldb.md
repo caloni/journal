@@ -2,7 +2,7 @@
 categories:
 - blog
 date: '2019-07-21'
-tags:
+tags: null
 title: SLQLocalDB
 ---
 

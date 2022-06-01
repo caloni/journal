@@ -2,7 +2,7 @@
 categories:
 - code
 date: '2009-09-09'
-tags:
+tags: null
 title: 'O boot no Windows: pré-NTLDR'
 ---
 

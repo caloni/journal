@@ -2,7 +2,7 @@
 categories:
 - code
 date: '2010-08-08'
-tags:
+tags: null
 title: Não é minha culpa
 ---
 

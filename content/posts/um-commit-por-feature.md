@@ -2,7 +2,7 @@
 categories:
 - blog
 date: '2017-02-04'
-tags:
+tags: null
 title: Um commit por feature
 ---
 

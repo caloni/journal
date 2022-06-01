@@ -2,7 +2,7 @@
 categories:
 - code
 date: '2010-01-18'
-tags:
+tags: null
 title: Passagem por valor e emails com anexo
 ---
 

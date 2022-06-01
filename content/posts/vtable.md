@@ -2,7 +2,7 @@
 categories:
 - code
 date: '2011-03-01'
-tags:
+tags: null
 title: VTable
 ---
 

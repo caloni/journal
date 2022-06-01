@@ -2,7 +2,7 @@
 categories:
 - code
 date: '2010-04-21'
-tags:
+tags: null
 title: Por que Long Pointer
 ---
 

@@ -2,7 +2,7 @@
 categories:
 - code
 date: '2010-08-26'
-tags:
+tags: null
 title: Gerando dumps automatizados
 ---
 

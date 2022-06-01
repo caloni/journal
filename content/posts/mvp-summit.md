@@ -2,7 +2,7 @@
 categories:
 - blog
 date: '2014-11-21'
-tags:
+tags: null
 title: MVP C++ Summit e/ou Visual C++ ressurgindo das cinzas.
 ---
 

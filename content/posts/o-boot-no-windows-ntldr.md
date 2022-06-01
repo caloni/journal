@@ -2,7 +2,7 @@
 categories:
 - code
 date: '2009-11-26'
-tags:
+tags: null
 title: 'O boot no Windows: NTLDR'
 ---
 

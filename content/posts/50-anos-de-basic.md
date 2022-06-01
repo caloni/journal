@@ -2,7 +2,7 @@
 categories:
 - blog
 date: '2014-05-13'
-tags:
+tags: null
 title: 50 Anos de BASIC
 ---
 

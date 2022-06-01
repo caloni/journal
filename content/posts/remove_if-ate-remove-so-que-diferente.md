@@ -2,7 +2,7 @@
 categories:
 - code
 date: '2014-01-21'
-tags:
+tags: null
 title: remove_if até remove, só que diferente
 ---
 

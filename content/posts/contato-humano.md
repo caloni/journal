@@ -2,7 +2,7 @@
 categories:
 - blog
 date: '2022-01-22T23:45:15-03:00'
-tags:
+tags: null
 title: Contato humano
 ---
 

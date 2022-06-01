@@ -2,7 +2,7 @@
 categories:
 - code
 date: '2008-12-12'
-tags:
+tags: null
 title: 'Básico do básico: tipos'
 ---
 

@@ -2,7 +2,7 @@
 categories:
 - blog
 date: '2019-01-06'
-tags:
+tags: null
 title: 'Minecraft: O Jogo'
 ---
 

@@ -2,7 +2,7 @@
 categories:
 - blog
 date: '2010-07-26'
-tags:
+tags: null
 title: Sétimo Encontro de Programadores C++
 ---
 

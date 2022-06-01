@@ -2,7 +2,7 @@
 categories:
 - blog
 date: '2015-09-12'
-tags:
+tags: null
 title: É o fonte, idiota!
 ---
 

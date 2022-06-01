@@ -2,7 +2,7 @@
 categories:
 - code
 date: 2018-07-14 14:11:43-03:00
-tags:
+tags: null
 title: Python27, protobuf, py2exe e build_exe
 ---
 

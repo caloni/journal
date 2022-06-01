@@ -3,7 +3,7 @@ categories:
 - blog
 date: '2011-06-10'
 link: http://blip.tv/boostcon
-tags:
+tags: null
 title: Vídeos do boostcon
 ---
 

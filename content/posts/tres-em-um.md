@@ -2,7 +2,7 @@
 categories:
 - code
 date: '2010-10-09'
-tags:
+tags: null
 title: Três em um
 ---
 
@@ -65,4 +65,4 @@ A partir do Vista temos uma nova API para fazer isso. E é muito simples:
 
 Quando ao receber a famigerada WM_QUERYENDSESSION, basta retornar FALSE. O Windows faz o resto.
 
-PS: E com uma ajudinha do Windows Internals ainda fiquei sabendo que dá pra [se colocar na frente da fila](http://msdn.microsoft.com/en-us/library/ms686227%28VS.85%29.aspx) para receber essa mensagem. 
+PS: E com uma ajudinha do Windows Internals ainda fiquei sabendo que dá pra [se colocar na frente da fila](http://msdn.microsoft.com/en-us/library/ms686227%28VS.85%29.aspx) para receber essa mensagem.

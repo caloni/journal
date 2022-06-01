@@ -2,7 +2,7 @@
 categories:
 - code
 date: '2016-01-14'
-tags:
+tags: null
 title: Templates em C no lugar de macros
 ---
 

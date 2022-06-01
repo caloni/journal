@@ -2,7 +2,7 @@
 categories:
 - blog
 date: '2014-08-11'
-tags:
+tags: null
 title: 'TDC2014: Trilhas de Segurança: o que é ser hacker?'
 ---
 

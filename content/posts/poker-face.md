@@ -2,7 +2,7 @@
 categories:
 - code
 date: '2014-05-06'
-tags:
+tags: null
 title: Poker Face
 ---
 

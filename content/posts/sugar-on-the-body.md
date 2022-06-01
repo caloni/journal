@@ -42,4 +42,4 @@ Estava curioso para saber quais as últimas pesquisas, ou melhor, o apanhado de 
 
 > When we examine glucose and fructose separately, added fructose is associated with many more health risks than glucose. Fructose can increase food-seeking and lead to fat production and storage. It may also be related to neurodegenerative inflammatory disease like diabetes and Alzheimer’s. As an alternative to sugar, complex carbohydrates in fruits, vegetables, legumes and fiber-rich grains are fermented by gut microbes, producing SCFAs, which may counterbalance the inflammatory effects of sugar. 
 
-> The combination of sugar and fat is especially potent for triggering food overconsumption and weight gain. While each alone will not cause weight gain, sugar and fat together are highly palatable and can induce weight gain and obesity. 
+> The combination of sugar and fat is especially potent for triggering food overconsumption and weight gain. While each alone will not cause weight gain, sugar and fat together are highly palatable and can induce weight gain and obesity.

@@ -2,7 +2,7 @@
 categories:
 - blog
 date: '2014-07-03'
-tags:
+tags: null
 title: Sobre a BitForge
 ---
 

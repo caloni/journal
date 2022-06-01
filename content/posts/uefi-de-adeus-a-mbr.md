@@ -2,7 +2,7 @@
 categories:
 - blog
 date: '2017-02-09'
-tags:
+tags: null
 title: 'UEFI: dê adeus à MBR'
 ---
 

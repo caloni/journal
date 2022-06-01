@@ -85,4 +85,3 @@ Among the most common uses some are as it follows:
     * Class::Property(int x); // setter
     * int x Class::Property() const; // getter
   * Well, whatever your imagination and needs demand =)
-

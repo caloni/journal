@@ -2,7 +2,7 @@
 categories:
 - code
 date: '2009-03-31'
-tags:
+tags: null
 title: Depurando até o último segundo
 ---
 

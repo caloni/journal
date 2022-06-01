@@ -2,7 +2,7 @@
 categories:
 - blog
 date: '2018-07-04'
-tags:
+tags: null
 title: Manipulando Mouse e Teclado no Windows
 ---
 

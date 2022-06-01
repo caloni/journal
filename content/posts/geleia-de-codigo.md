@@ -2,7 +2,7 @@
 categories:
 - blog
 date: '2014-04-15'
-tags:
+tags: null
 title: Geleia de Código
 ---
 

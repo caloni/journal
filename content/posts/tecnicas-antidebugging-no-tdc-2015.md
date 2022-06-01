@@ -3,7 +3,7 @@ categories:
 - blog
 date: '2015-07-27'
 link: http://pt.slideshare.net/slideshow/embedcode/key/g5lKLH15KTcenu
-tags:
+tags: null
 title: Técnicas antidebugging no TDC 2015
 ---
 

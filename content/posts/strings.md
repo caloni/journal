@@ -2,7 +2,7 @@
 categories:
 - code
 date: '2009-07-07'
-tags:
+tags: null
 title: Strings
 ---
 

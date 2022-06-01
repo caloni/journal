@@ -2,7 +2,7 @@
 categories:
 - code
 date: '2011-05-18'
-tags:
+tags: null
 title: Sem reflection
 ---
 

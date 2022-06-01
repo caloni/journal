@@ -13,4 +13,3 @@ title: American Horror Story
 - [História de Horror Americana - Season 3 - Coven](/american-horror-story-s03-coven)
 - [História de Horror Americana - Season 4 - Freak Show](/american-horror-story-s04-freak-show)
 - [American Horror Story Season 5](/american-horror-story-s05)
-

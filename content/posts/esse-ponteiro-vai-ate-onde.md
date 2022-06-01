@@ -2,7 +2,7 @@
 categories:
 - code
 date: '2011-01-17'
-tags:
+tags: null
 title: Esse ponteiro vai até onde?
 ---
 

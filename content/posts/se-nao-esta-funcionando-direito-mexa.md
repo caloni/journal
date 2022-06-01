@@ -2,7 +2,7 @@
 categories:
 - blog
 date: '2016-08-17'
-tags:
+tags: null
 title: Se não está funcionando direito, mexa!
 ---
 

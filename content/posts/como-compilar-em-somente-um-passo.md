@@ -2,7 +2,7 @@
 categories:
 - code
 date: '2009-05-25'
-tags:
+tags: null
 title: Como compilar em somente um passo
 ---
 

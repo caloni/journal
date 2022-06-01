@@ -2,7 +2,7 @@
 categories:
 - code
 date: '2010-05-31'
-tags:
+tags: null
 title: Enum
 ---
 

@@ -16,4 +16,3 @@ title: House of Cards
 - [Quinta Temporada](/house-of-cards-s05)
 - [Sexta Temporada](/house-of-cards-s06)
 - [Let Me Be Frank](/let-me-be-frank)
-

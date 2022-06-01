@@ -7,7 +7,7 @@ tags:
 title: Livros sobre Cinema
 ---
 
- - 50 Anos: Luz, Câmera e Ação, Edgar Moura.
+- 50 Anos: Luz, Câmera e Ação, Edgar Moura.
  - O Cinema Além das Montanhas, Pablo Villaça.
  - O Cinema da Retomada, Lúcia Nagib.
  - Criando Kane e Outros Ensaios, Pauline Kael.

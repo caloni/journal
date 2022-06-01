@@ -2,7 +2,7 @@
 categories:
 - blog
 date: '2010-02-25'
-tags:
+tags: null
 title: Bazaar gráfico
 ---
 

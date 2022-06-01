@@ -2,7 +2,7 @@
 categories:
 - blog
 date: '2010-12-27'
-tags:
+tags: null
 title: Trabalhando em múltiplos ambientes
 ---
 

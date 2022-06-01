@@ -2,7 +2,7 @@
 categories:
 - code
 date: '2011-05-22'
-tags:
+tags: null
 title: Comparando strings no WinDbg
 ---
 

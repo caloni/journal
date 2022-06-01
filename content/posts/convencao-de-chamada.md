@@ -2,7 +2,7 @@
 categories:
 - code
 date: '2015-04-20'
-tags:
+tags: null
 title: Convenção de Chamada
 ---
 

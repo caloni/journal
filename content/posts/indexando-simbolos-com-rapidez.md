@@ -2,7 +2,7 @@
 categories:
 - code
 date: '2015-10-28'
-tags:
+tags: null
 title: Indexando símbolos com rapidez
 ---
 

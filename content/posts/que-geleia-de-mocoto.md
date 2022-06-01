@@ -2,7 +2,7 @@
 categories:
 - code
 date: '2014-04-29'
-tags:
+tags: null
 title: Que geleia de mocotó
 ---
 

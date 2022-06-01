@@ -2,7 +2,7 @@
 categories:
 - blog
 date: '2009-05-08'
-tags:
+tags: null
 title: Últimas pesquisas na blogosfera nacional
 ---
 

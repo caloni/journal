@@ -2,7 +2,7 @@
 categories:
 - blog
 date: '2012-07-21'
-tags:
+tags: null
 title: Minha palestra do TDC 2012
 ---
 

@@ -2,7 +2,7 @@
 categories:
 - blog
 date: '2009-07-27'
-tags:
+tags: null
 title: Cuidado com a cópia de arquivos na VMWare
 ---
 

@@ -2,7 +2,7 @@
 categories:
 - code
 date: '2017-03-14'
-tags:
+tags: null
 title: Entrando na zona com Windows
 ---
 

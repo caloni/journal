@@ -2,7 +2,7 @@
 categories:
 - code
 date: '2008-10-15'
-tags:
+tags: null
 title: Como usar WTL com o ATL do DDK
 ---
 

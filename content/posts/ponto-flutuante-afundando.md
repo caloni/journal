@@ -2,7 +2,7 @@
 categories:
 - code
 date: '2013-11-07'
-tags:
+tags: null
 title: Ponto Flutuante Afundando
 ---
 

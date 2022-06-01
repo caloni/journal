@@ -2,7 +2,7 @@
 categories:
 - code
 date: '2009-05-20'
-tags:
+tags: null
 title: Meu roteiro C++
 ---
 

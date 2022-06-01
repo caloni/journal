@@ -2,7 +2,7 @@
 categories:
 - code
 date: '2010-06-04'
-tags:
+tags: null
 title: Const e Volatile
 ---
 

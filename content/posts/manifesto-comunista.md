@@ -6,6 +6,7 @@ tags:
 - reading
 title: Manifesto Comunista (recortes)
 ---
+
 > The history of all hitherto existing society is the history of class struggles. 
 
 > Our epoch, the epoch of the bourgeoisie, possesses, however, this distinctive feature; it has simplified the class antagonisms. Society as a whole is more and more splitting up into two great hostile camps, into two great classes directly facing each other: Bourgeoisie and Proletariat. 
@@ -18,4 +19,4 @@ title: Manifesto Comunista (recortes)
 
 > Modern industry has converted the little workshop of the patriarchal master into the great factory of the industrial capitalist. 
 
-> At this stage the laborers still form an incoherent mass scattered over the whole country, and broken up by their mutual competition. 
+> At this stage the laborers still form an incoherent mass scattered over the whole country, and broken up by their mutual competition.

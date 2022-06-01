@@ -3,7 +3,7 @@ categories:
 - blog
 date: '2009-06-18'
 link: http://www.pbm.com/~lindahl/real.programmers.html
-tags:
+tags: null
 title: Programadores de verdade não usam Java
 ---
 

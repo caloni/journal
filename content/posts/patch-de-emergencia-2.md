@@ -2,7 +2,7 @@
 categories:
 - code
 date: '2010-11-09'
-tags:
+tags: null
 title: Patch de emergência 2
 ---
 

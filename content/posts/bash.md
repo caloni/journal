@@ -2,7 +2,7 @@
 categories:
 - code
 date: '2022-05-20'
-tags:
+tags: null
 title: Programando bash script
 ---
 
@@ -501,4 +501,3 @@ bash sort-number.sh 1 2 3
 + set +x
 maior=3, menor=1, media=2.00
 ```
-

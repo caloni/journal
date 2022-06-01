@@ -2,7 +2,7 @@
 categories:
 - blog
 date: '2011-10-22'
-tags:
+tags: null
 title: Vida e Software
 ---
 

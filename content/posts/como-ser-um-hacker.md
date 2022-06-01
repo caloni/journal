@@ -2,7 +2,7 @@
 categories:
 - blog
 date: '2015-11-18'
-tags:
+tags: null
 title: Como ser um hacker
 ---
 

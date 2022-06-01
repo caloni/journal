@@ -2,7 +2,7 @@
 categories:
 - code
 date: '2010-05-28'
-tags:
+tags: null
 title: Modificadores e qualificadores de tipo
 ---
 

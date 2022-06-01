@@ -2,7 +2,7 @@
 categories:
 - blog
 date: '2009-12-30'
-tags:
+tags: null
 title: Devaneio nerd rápido sobre profecias
 ---
 

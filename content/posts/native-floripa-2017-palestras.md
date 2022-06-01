@@ -2,7 +2,7 @@
 categories:
 - blog
 date: '2017-02-09'
-tags:
+tags: null
 title: 'Native Floripa 2017: Palestras'
 ---
 

@@ -2,7 +2,7 @@
 categories:
 - code
 date: '2014-09-03'
-tags:
+tags: null
 title: Shareando Ponteiros
 ---
 

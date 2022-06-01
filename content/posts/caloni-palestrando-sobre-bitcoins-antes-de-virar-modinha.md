@@ -2,7 +2,7 @@
 categories:
 - blog
 date: '2018-02-20'
-tags:
+tags: null
 title: Caloni Palestrando Sobre Bitcoins Antes De Virar (Muito) Modinha
 ---
 

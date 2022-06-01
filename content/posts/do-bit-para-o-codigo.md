@@ -2,7 +2,7 @@
 categories:
 - code
 date: '2019-09-03'
-tags:
+tags: null
 title: Do Bit para o Código
 ---
 

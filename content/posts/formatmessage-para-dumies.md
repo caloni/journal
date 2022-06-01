@@ -2,7 +2,7 @@
 categories:
 - code
 date: '2010-10-26'
-tags:
+tags: null
 title: FormatMessage para... dumies?
 ---
 

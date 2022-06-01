@@ -2,7 +2,7 @@
 categories:
 - blog
 date: '2021-12-05T21:30:42-03:00'
-tags:
+tags: null
 title: O tempo é relativo quando se está focado
 ---
 

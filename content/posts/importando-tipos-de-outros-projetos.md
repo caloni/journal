@@ -2,7 +2,7 @@
 categories:
 - code
 date: '2010-01-11'
-tags:
+tags: null
 title: Importando tipos de outros projetos
 ---
 

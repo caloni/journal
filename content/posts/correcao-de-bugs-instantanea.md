@@ -2,7 +2,7 @@
 categories:
 - blog
 date: '2010-02-01'
-tags:
+tags: null
 title: Correção de bugs instantânea
 ---
 

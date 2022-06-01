@@ -2,7 +2,7 @@
 categories:
 - blog
 date: 2017-07-25 16:59:05-03:00
-tags:
+tags: null
 title: CppTests
 ---
 

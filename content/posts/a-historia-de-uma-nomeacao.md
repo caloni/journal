@@ -7,6 +7,7 @@ tags:
 - movies
 title: A História de uma Nomeação
 ---
+
 A diretora russa Avdotya Smirnova, junto dos roteiristas Pavel Basinsky e Anna Parmas, constrói este conto de guerra ambientado na época de ninguém menos que Leo Tolstoy, o escritor nomeado ao Nobel por cinco vezes e que nunca ganhou. Toda a humanidade do personagem de Tolstoy está a serviço da trama de A História de uma Nomeação, que gasta muito tempo no seu desenvolvimento até chegar em seus finalmente e começar a ficar bom.
 
 A história é baseada em fato real, o que impacta quando vemos seu final. Gira em torno da vinda de um filho de general para servir a uma tropa interiorana em época de paz, treinando para servir o tsar no ainda império russo. Grigoriy Apollonovich Kolokoltsev é um jovem imaturo que junto de seus colegas se diverte com brincadeiras inconsequentes, como embebedar um elefante até a morte. Sua chegada intimida o capitão em serviço, além de revelar mágoas de parte do pelotão, em especial do alferes, um alcoólatra cuja idade já avançada contém uma história escondida em seu passado.

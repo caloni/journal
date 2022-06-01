@@ -2,7 +2,7 @@
 categories:
 - blog
 date: '2017-03-15'
-tags:
+tags: null
 title: qt5.natvis
 ---
 

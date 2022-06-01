@@ -2,7 +2,7 @@
 categories:
 - blog
 date: '2012-04-17'
-tags:
+tags: null
 title: Engenharia Reversa em Itajubá
 ---
 

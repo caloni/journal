@@ -2,7 +2,7 @@
 categories:
 - code
 date: '2011-10-18'
-tags:
+tags: null
 title: 'Depuração de emergência: receita de bolo'
 ---
 

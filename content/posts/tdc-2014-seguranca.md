@@ -2,7 +2,7 @@
 categories:
 - blog
 date: '2014-07-16'
-tags:
+tags: null
 title: 'TDC 2014: Segurança'
 ---
 

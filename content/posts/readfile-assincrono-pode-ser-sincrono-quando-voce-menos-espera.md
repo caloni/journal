@@ -2,7 +2,7 @@
 categories:
 - code
 date: '2017-01-16'
-tags:
+tags: null
 title: ReadFile assíncrono pode ser síncrono quando você menos espera
 ---
 

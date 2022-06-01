@@ -2,7 +2,7 @@
 categories:
 - code
 date: '2010-08-12'
-tags:
+tags: null
 title: Foto dos melhores momentos
 ---
 

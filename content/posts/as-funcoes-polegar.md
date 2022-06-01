@@ -2,7 +2,7 @@
 categories:
 - code
 date: '2009-01-30'
-tags:
+tags: null
 title: As funções-polegar
 ---
 

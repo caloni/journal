@@ -2,7 +2,7 @@
 categories:
 - code
 date: '2012-03-27'
-tags:
+tags: null
 title: Header Inútil
 ---
 

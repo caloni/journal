@@ -2,7 +2,7 @@
 categories:
 - blog
 date: '2021-09-13T23:04:07-03:00'
-link: '/chess/cavaloni_vs_mrthomas2190_2021.09.11.txt'
+link: /chess/cavaloni_vs_mrthomas2190_2021.09.11.txt
 tags:
 - chess
 title: Parece que estava jogando com uma máquina

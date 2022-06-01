@@ -2,7 +2,7 @@
 categories:
 - code
 date: '2015-06-05'
-tags:
+tags: null
 title: Logs em serviços (e outras coisas)
 ---
 

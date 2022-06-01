@@ -2,7 +2,7 @@
 categories:
 - blog
 date: '2009-04-09'
-tags:
+tags: null
 title: Deixe o programador programar
 ---
 

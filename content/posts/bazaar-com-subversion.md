@@ -2,7 +2,7 @@
 categories:
 - blog
 date: '2011-03-23'
-tags:
+tags: null
 title: Bazaar com Subversion
 ---
 

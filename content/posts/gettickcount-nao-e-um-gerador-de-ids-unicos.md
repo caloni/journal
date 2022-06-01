@@ -2,7 +2,7 @@
 categories:
 - blog
 date: '2012-06-25'
-tags:
+tags: null
 title: GetTickCount não é um gerador de IDs únicos
 ---
 

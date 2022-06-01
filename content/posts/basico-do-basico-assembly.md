@@ -2,7 +2,7 @@
 categories:
 - code
 date: '2009-01-26'
-tags:
+tags: null
 title: 'Básico do básico: assembly'
 ---
 
