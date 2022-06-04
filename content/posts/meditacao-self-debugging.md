@@ -12,11 +12,7 @@ Depois que a tempestade na cabeça chega em um nível insuportável há uma calm
 
 Quando se percebe que se está vivendo a partir de um algoritmo genético que está rodando há algumas décadas em um saco de carne com peças móveis é o momento que começamos a entender o que é reflexão, um poderoso mecanismo que nem o melhor dos psicólogos conseguiria te ajudar, já que ele nunca teria acesso a tanta informação quanto você tem sobre suas próprias memórias e sobre seu próprio algoritmo.
 
-Só você conseguirá extrair de uma auto-análise o conhecimento necessário para melhorar seu entendimento de como esse algoritmo funciona e como melhorar.
-
-Porém, há um problema: a própria reflexão faz parte desse algoritmo. O processo não pode analisar o processo. Isso é impossível.
-
-A não ser que você pare por completo esse processo mental constante a respeito de quem você é e deixe a análise desse dump em tempo real aconteça.
+Só você conseguirá extrair de uma auto-análise o conhecimento necessário para melhorar seu entendimento de como esse algoritmo funciona e como melhorar. Porém, há um problema: a própria reflexão faz parte desse algoritmo. O processo não pode analisar o processo. Isso é impossível. E a solução é parar por completo. Interrompa esse fluxo mental constante a respeito de quem você é e deixe a análise desse dump em tempo real aconteça.
 
 A essa pausa no processo para análise do mesmo processo chamamos de meditação. É pausar a execução dos pensamentos, ou observar a execução de algumas threads, para entender onde pode estar o próximo mecanismo a ser aprimorado ou corrigido.
 
