@@ -5,7 +5,7 @@ date: '2022-04-24T12:22:06-03:00'
 tags:
 - movies
 - cinemaqui
-title: Master
+title: Fantasmas do Passado (Master)
 ---
 
 A área de tecnologia costuma estar totalmente apartada das discussões sociais que rolam no mundo lá fora. No entanto, anos atrás surgiu um tema completamente aleatório e desnecessário que uniu temporariamente esses dois ambientes, misturando no processo conceitos históricos e uma prática comum de engenharia, o que trouxe à consciência de pessoas que nunca tinham parado para pensar sobre a futilidade de alguns movimentos humanos.
