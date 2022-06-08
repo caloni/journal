@@ -1,9 +1,11 @@
 ---
 categories:
-- blog
+- reviews
 date: '2022-06-07T23:05:23-03:00'
 tags:
 - draft
+- movies
+- cinemaqui
 title: A Suspeita
 ---
 
