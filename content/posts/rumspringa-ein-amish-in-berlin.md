@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2022-06-07T23:04:39-03:00'
 tags:
-- draft
 - movies
 title: Rumspringa - Ein Amish in Berlin
 ---
