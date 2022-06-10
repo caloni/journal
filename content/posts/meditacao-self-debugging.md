@@ -3,7 +3,6 @@ categories:
 - code
 date: '2022-05-31T20:23:43-03:00'
 tags:
-- draft
 - debug
 title: 'Meditação é self debugging'
 ---
