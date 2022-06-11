@@ -1,4 +1,3 @@
-#include "stdafx.h"
 #include <iostream>
 #include <string>
  
@@ -25,7 +24,7 @@ void* AlocaMasNaoDevolve(__int64 largeBytes)
     return ret;
 }
  
-int _tmain(int argc, _TCHAR* argv[])
+int main(int argc, char* argv[])
 {
     __int64 totalBytes = 0;
     __int64 bytes = 0;

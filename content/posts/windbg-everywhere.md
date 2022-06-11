@@ -2,7 +2,6 @@
 categories:
 - code
 date: '2022-06-09T11:43:45-03:00'
-draft: true
 tags:
 - draft
 - windbg
@@ -13,29 +12,68 @@ title: Windbg Everywhere
 
 Com essa premissa me vem à mente os seguintes cenários:
 
-## Não é possível instalar Visual Studio
+ - Não é possível instalar Visual Studio
+   - Só copiar a pasta onde está rodando o windbg.exe.
+ - Arquivos de dump muito grandes
+   - Processo que capota consumindo o mundo de memória.
+   - Cópia de arquivos em alguns ambientes demoraria séculos.
+ - Processos que não podem parar
+   - Bug raro de acontecer e se parar o processo já era.
+   - Manter processo em observação até reprodução (memory leaks macabros).
+ - Único lugar que acontece o bug
+   - É raro, mas acontece sempre.
 
-O WinDbg vem com o Debugging Tools for Windows ou pelo Microsoft Store. De qualquer forma, onde ele estiver rodando você pode copiar a pasta e jogar em qualquer outra máquina e ele vai funcionar.
+## Colinha de todo dia
 
-## Arquivos de dump muito grandes
+ - !analyze -v
+ - !sym noisy, .symfix, .sympath
+ - .reload /f, x
+ - bp, bl, bu, g
+ - db, dd, dv, da, du
+ - ~, k, kv, kvn
 
-Pode ocorrer do processo consumir muita memória (e até capotar por isso) e ter gerado um arquivo de dump gigante
+## Leak de memória
 
-## Processos que não podem parar
+ - !address -summary
+ - !heap -stat, -srch AllocSize
 
-## Único lugar que acontece o bug
+## [Máquina com rede e com firewall](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/process-servers--user-mode-)
 
-## Máquina com rede e com firewall
+ - WinDbg é de hackudos, então [firewall não funciona](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/two-firewalls) com ele graças ao proxy reverso.
 
 ## Preciso do kernel
 
+ - Começa a parte divertida: [gerar tela azul](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/forcing-a-system-crash-from-the-keyboard).
+
 ## Boot da máquina
 
-O WinDbg consegue depurar o kernel desde muito cedo, até quando o Windows ainda não entrou no modo protegido. Nesse momento o que temos é memória em modo real e memória física, acessível não pode endereços virtuais, mas por localização na placa RAM. E o WinDbg consegue [acessar essa memória também](/acessando-memoria-fisica-no-windbg).
+ - bcdedit /dbgsettings, /copy {current}, set debug on
+ - VM: \\.\pipe\kd
+ - windbg.exe -k com:pipe,port=\\.\pipe\kd,resets=0,reconnect -b
+ - Para bem no [código-fonte de David Cutler](https://systemroot.gitee.io/pages/apiexplorer/d6/d5/4_2kdinit_8c-source.html) para um debugger portável do kernel.
+ - !process 0 0
 
-## Serviços no limite da existência
+## [Serviços no limite da existência](https://www.infoq.com/br/presentations/depurando-ate-o-fim-do-mundo/)
 
-## Sem símbolos
+ - I get by with a [little help](/kernel-mode-user-mode/) [from my kernel](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/controlling-the-user-mode-debugger-from-the-kernel-debugger).
+
+## Profiling
+
+ - Para ver [quanto tempo leva](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/wt--trace-and-watch-data-) chamar uma função.
 
 ## Engenharia reversa
 
+ - [Breakpoints condicionais](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/setting-a-conditional-breakpoint).
+ - [Quebrando Houaiss](/conversor-de-houaiss-para-babylon-parte-1).
+
+## [Servidor de símbolos](https://docs.microsoft.com/en-us/windows/win32/debug/using-symstore)
+
+ - Use o [symstore](https://docs.microsoft.com/en-us/windows/win32/debug/using-symstore) para montar uma fazenda de símbolos.
+ - Use o [SymProxy](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/symproxy) para [publicar](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/http-symbol-stores).
+ - O SymProxy também é útil como um... proxy =).
+
+## [GFlags](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/gflags)
+
+ - Heap tagging e stack trace database para caçar leaks de memória.
+ - Coleta silenciosa de dumps.
+ - Chamar kernel debugger ao iniciar processo (parâmetro `-d` do ntsd.exe).
