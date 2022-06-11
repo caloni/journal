@@ -7,4 +7,4 @@ tags:
 title: Zuccolo
 ---
 
-Vinho branco Italiano. Não fede nem cheira. Sabores levemente cítricos. Às vezes não sei beber esses vinhos.
+Azedo. E é só.
