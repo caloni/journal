@@ -7,7 +7,16 @@ tags:
 title: Pão de Queijo Mineiro
 ---
 
-Quantidade: 4 formas, pode congelar
+O pão de queijo é polvilho em pó, a decantação da fécula de mandioca, escaldado em uma mistura de água, leite e óleo ferventes sovado junto de ovos, e misturado com queijo ralado (sal a gosto) para ir ao forno em bolinhas feitas à mão dos mais diversos tamanhos. De acordo com o poste [Química do pão de queijo](https://brasilescola.uol.com.br/quimica/quimica-pao-queijo.htm) cada ingrediente tem sua função:
+
+ - Água: dissolve materiais e favorece uma melhor distribuição da temperatura;
+ - Polvilho: promove o crescimento do produto e fornece uma melhor textura e aspecto crocante;
+ - Óleo: aumenta a retenção da umidade e promove um aumento do volume da massa;
+ - Leite: dá maior estabilidade à massa e retém uma maior quantidade de umidade;
+ - Ovos: apresenta ação emulsificante, ou seja, auxilia na dissolução de um material em outro;
+ - Queijo: dá uma maior maciez ao produto final.
+
+Caso o polvilho usado seja o doce o resultado final fica menos crescido e com mais maciez. Caso você utilize o polvilho azedo ele irá crescer mais (pois se expande ao ser aquecido) e terá, como já diz o nome, um gosto azedo, pois ele é o polvilho fermentado.
 
 Ingredientes: 4 unidades de polvilho (doce/azedo), 1 unidades de leite, 1 unidade de óleo, 1 unidade de água, 2 unidades de queijo, cerca de 1 ovo por copo americano (depende da umidade do polvilho), sal a gosto para a massa (para equilibrar o queijo).
 

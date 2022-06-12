@@ -4,7 +4,7 @@ categories:
 date: '2021-07-05T23:50:00-03:00'
 tags:
 - recipes
-title: Fiz Trança de Banana
+title: Fiz Trança de Banana (Pão)
 ---
 
 Essa receita originalmente iria cará e foi adaptada para usar banana madura. As porcentagens dos ingredientes abaixo são em relação ao peso da farinha usada.
