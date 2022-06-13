@@ -40,15 +40,11 @@ body, button, input, select, textarea {
 
 table {
     table-layout: fixed;
-    margin-top: 1em;
 }
 
-td, th {
-    border-right: 1px solid; 
+td {
+    border-bottom: 1px dotted black; 
     padding: 5px;
-}
-th {
-    border-bottom: 1px solid; 
 }
 tr:hover, tr:hover a {
     background-color: lightgray;
