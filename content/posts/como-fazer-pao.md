@@ -26,7 +26,7 @@ O resultado é um pão macio, de casca ligeiramente dura e sabor acentuado, depe
 
 ## Pão francês
 
-O pão francês é uma versão brasileira mais industrializável do pão de sal. Vai açúcar e um pouquinho de gordura na receita, ambos para dar as características que tornam este um pão francês brasileiro: casca fina e rachada, miolo leve e macio no estilo redemoinho. Pela seu caráter uniforme ele exige um controle melhor do seu tamanho, de sua sova, dos períodos de fermentação e da umidificação do forno. Na prática o segredo é fermentar pouco e crescer muito (boa extensibilidade com estrutura elástica para aguentar).
+O pão francês é uma versão brasileira mais industrializável do pão de sal. Vai açúcar e um pouquinho de gordura na receita, ambos para dar as características que tornam este um pão francês brasileiro: casca fina e rachada, miolo leve e macio no estilo redemoinho. Pelo seu caráter uniforme ele exige um controle melhor do seu tamanho, de sua sova, dos períodos de fermentação e da umidificação do forno. Na prática o segredo é fermentar pouco e crescer muito (boa extensibilidade com estrutura elástica para aguentar).
 
 Para começar, algumas anotações ao longo dos meus experimentos:
 
@@ -46,7 +46,7 @@ Receitas que testei:
 
 A do canal [Pão da Casa](/pao-frances-pao-da-casa) fica um pão honesto, mas pesado. A melhor dica dessa receita é usar papel alumínio para manter vapor na primeira fase no forno.
 
-No site [Amo Pão Caseiro](/pao-frances-amo-pao-caseiro) há uma receita com proporçõesm mais bizarras e informações mais detalhadas sobre sova.
+No site [Amo Pão Caseiro](/pao-frances-amo-pao-caseiro) há uma receita com proporções mais bizarras e informações mais detalhadas sobre sova.
 
 A receita da [Isamara Amâncio](/pao-frances-isamara-amancio) é gostoso de seguir porque ela é fofinha, mas o modo de preparo é mais granular. Foi o primeiro resultado mais leve que obtive.
 
@@ -91,6 +91,11 @@ Tenho também uma receita de [pão de queijo mais rápida e fácil](/pao-de-quei
 Originalmente a receita era com cará, mas com a ajuda da Mitiko criei este formato que [usa banana reduzida](/pao-tranca-de-banana) e que fica sensacional. Vão muitos ovos, o que torna a massa macia, e um pouco de leite também. Com longa fermentação e a quantidade certa de banana o aroma e sabor são imbatíveis.
 
 
+## Panetone
+
+Sim, ele é um tipo de pão: festivo, doce, aromático e, quando feito com paciência e dedicação, delicioso. Minha [receita oficial](/panetone) tem melhorado a cada ano. Não confunda com a [versão de pobre](/panetone-de-pobre) (nunca faça a versão de pobre; melhor comprar).
+
+
 ## Histórico
 
  - 2017-11-11 Pão de queijo. Primeira tentativa com o queijo de Poços quando fomos com o Incrível no 7 de setembro; queijo bem curado, quase metade; resultado só com polvilho doce não secou muito nem cresceu, mas não ficou massudo; faltou sal na massa.
@@ -127,7 +132,13 @@ Originalmente a receita era com cará, mas com a ajuda da Mitiko criei este form
 
  - 2019-06-23 Fui fazer um pão de queijo hoje com meio copo de polvilho, mas um ovo é demais para isso ficou líquido demais. Daí joguei polvilho sem escaldar e quando vi que não dava jeito escaldei o resto com mais água e óleo, gerei a pasta e incorporei ao resto. Ficou ainda molenga, juntei o queijo e joguei colheradas na forma. Virou os monstros de queijo. Por eu ter mexido bem o pão cresceu, ficou fofinho e oco dentro, mas por ter colocado o polvilho sem escaldar uma crosta crocante do lado de fora como um biscoito. Somando os prós e contras eu me virei bem em uma situação de emergência.
 
+ - 2019-12-12 Na versão alfa do panetone usei água de frutas cristalizadas com essência de baunilha com resultado fraco.
+
+ - 2019-12-16 Na beta já usei a essência de panetone que produzi com resultados aromáticos agradáveis. Mesmo colocando muito fermento seco a massa ainda demorou a crescer, e acredito que na próxima devo já ensacar a massa na forma e aguardar apenas pelo primeiro crescimento. Na hora de assar, muito cuidado para não queimar, e principalmente secar, pois irá perder todo o sabor molhado produzido pela essência e pela massa.
+
  - 2019-12-18 Segunda vez que faço esse pão mais fácil do mundo, mas dessa vez com o fermento natural. O resultado ficou igualmente ou pouco mais azedo, mas com um crescimento interessante.
+
+ - 2019-12-22 Assado um panetone no mesmo dia quente, pois cresceu bem, e os outros quatro no dia seguinte, mas ao cortar eles afundaram. Não devo cortar de ponta a ponta, apenas uma pequena cruz no meio (ou nem isso).
 
  - 2019-12-24 Meu próximo teste de pão mais fácil do mundo foi sem balança, com um fermento alimentado três horas antes, com farinha da marca Dia e com a umidade do ar alta e temperatura baixando em Osasco. Deixei 16 horas descansando e estava bem molhado, apesar de ter crescido. Usei bastante farinha para conseguir manipular a massa para dobrar e virar a massa para novo descanso, e penso que boa parte do ar se foi. Veremos se a farinha extra deu uma potência extra ao crescimento daqui a algumas horas antes de ir para o forno.
 
@@ -141,7 +152,15 @@ Originalmente a receita era com cará, mas com a ajuda da Mitiko criei este form
 
  - 2020-05-11 Pão da Casa. Coloquei pano úmido para dormir na geladeira e diminuiu a secura, mas ficou muito fofo depois e acho que massudo. Ter colocado água no forno deve ter deixado úmido em demasiado.
 
+ - 2020-12-13 Primeira fornada, dividido em meio panetone e meio chocotone, não cresceu novamente, como na minha primeira tentativa da receita. Coloquei no forno mesmo assim ele dobrou de tamanho, mas ficou massudo.
+
+ - 2020-12-15 Panetone: deixei 24 horas fermentando e não cresceu a segunda massa. Preparei mais uma esponja com fermento seco para se certificar que ele estava funcionando e para dar um power na massa e misturei. Depois de quase o dia inteiro o chocotone deu sinais de vida. Ele cresceu e foi sucesso. Apenas deveria ter deixado mais uns 10 mins no forno, pois houve partes que não assaram no topo. O de frutas não cresceu tanto, mas a massa ficou agradável, menos massuda que a primeira. Preciso ver como resolver de maneira fácil a questão do crescimento. Talvez mudar de receita ou adaptar.
+
  - 2020-12-19 Ficou muito bom o pão rústico, mas só depois de eu sovar e ficar parecido com a gosma do jogo Portal. Deixei na geladeira da noite pro dia e depois tirei, dividi em dois e moldei de maneira oval. A massa é fácil de modelar. Untei com manteiga e deu esse aspecto meio queimado/crocante embaixo. Por dentro macio com um leve azedo do fermento natural. Ficou macio, nada parecido com o sem sovar com alta hidratação, que gera uma casca grossa (ou seria porque asso dentro da panela?).
+
+ - 2020-12-21 Terceira tentativa do ano para panetone e apelei para o ativador novamente e usei um truque que vi em algum lugar de ligar o forno, desligar e colocar os panetones para crescerem quentinhos. Deu certo, mas a massa não cresceu tanto quanto poderia ou a textura não ficou elástica como poderia ficar. Deu um certo trabalho sovar, mas sovei melhor. Próxima tentativa de hoje estou pensando em sovar bem antes sem colocar as gemas para desenvolver um bom glúten e manter a sova colocando as gemas e anexando tudo.
+
+ - 2020-12-25 A textura do panetone ainda não está nível Bauducco, apesar do sabor e aroma estar próximo e a massa ter crescido o desejado com a estratégia de sovar antes sem as gemas. Pretendo na próxima fazer o mesmo, mas talvez não abusar da farinha. Deve haver um meio termo entre elasticidade e estrutura.
 
  - 2021-03-14 Sem saber direito a receita do pão de forma misturei os ingredientes molhados com uma colher e depois juntei com a farinha; ficou duro. Fui colocando mais água até ficar pegajoso. No forno coloquei a 240 graus, mas morenou muito rápido por fora e por dentro ainda tinha ficado meio cru e massudo. Por isso atualizei a receita com o que acho a versão oficial para a próxima vez.
 
@@ -149,9 +168,21 @@ Originalmente a receita era com cará, mas com a ajuda da Mitiko criei este form
 
  - 2021-05-01 Refiz a receita do pão rústico usando o fermento natural alimentado por uns três dias. Apesar de vigoroso no crescimento eu apelei ainda para uma ajuda de uma pitada do instantâneo. Também fiz algo inusitado: deixei o autólise agir junto do fermento. O resultado foi muito bom ou não teve diferença, mas é uma maneira interessante de deixar o fermento natural agir um pouco antes do instantâneo. Antes mesmo de colocar o instantâneo já deu pra ver como ele estava fazendo a massa crescer. Então acredito que devo usar essa estratégia na primeira vez que usar apenas o natural.
 
+ - 2021-10-30 Testei direto a autólise da base do panetone hidratando a farinha com 50% antes, e o resultado foi que a massa ficou úmida demais porque continuei usando a mesma quantidade de gema. Porém, essa fornada coloquei na forma inglesa (apenas teste preliminar) e algo curioso aconteceu: a massa cresceu mais rápido. No esquema de deixar a isca de fermento no começo do dia, sovar no final da tarde, aguardar até o final da noite e deixar a dobra dentro do forno pro dia seguinte logo ao acordar já pude colocar para assar. Não coloquei para morcegar, pois não sabia como, e a massa desabou um pouco. Mas havia crescido mais que o dobro e ficou fofo. Fácil de tirar depois de esfriar por completo.
+
+ - 2021-11-02 Segundo chocotone do ano. Usei o esquema clássico das gemas sem água. Demorou mais para crescer, umas 8 horas a mais pelo menos, e dessa vez deixei morcegando com uns hashis em cima de uma forma maior. Não desabou, mas também não cresceu tanto. Esqueci de comentar que na primeira fornada do ano queimou demais em cima, devia ter usado alumínio mais cedo.
+
+ - 2021-11-06 Panetone com uva passa. Autólise com menos gemas (metade). A consistência ficou próxima de com oito gemas, mas a cor menos amarela. O crescimento ficou próximo da primeira fornada, mas o segredo é dar tempo ao tempo. Uma hora sobe. Colocando no forno no tempo certo é só alegria. E tirando antes de secar. Isso é importante. Prestar atenção aos tempos.
+
  - 2021-11-10 Peguei a receita do pão rústico e estou testando como um pão recheado, mas colocando o recheio como de panetone, antes do crescimento. Não sei se vai dar certo, pois parece que o recheio de queijo e salame de Blumenau arrebentou a rede de glúten. Além do fermento natural adicionei uma pitada, quase nada, de instantâneo. A ideia é passar a noite fora e observar amanhã. Não deu certo, a rede de glúten ficou de fato danificada. Eu corrigi colocando mais farinha, água e uma porrada de fermento instantâneo, deixando a autólise agir e em seguida sovando até ficar elástico. Segui o mesmo procedimento de manter um tempo em crescimento (cresceu), em seguida dividi em dois e coloquei no forno. O crescimento foi corrigido, apesar do recheio ter ficado triturado. Acredito que o queijo ficou muito forte (já estava amargo puro), mas o resultado está aceitável. Mas não pretendo repetir essa ideia de sovar junto como panetone. Essa massa não é para isso.
 
+ - 2021-11-10 Quarto preparo do ano de panetone. Já estou confiante e fiz duas receitas de uma vez, chocotone e panetone. Deixei fazendo a autólise com gemas, mas como havia ficado muito seca a mistura adicionei um pouco mais de água (morna), ficou molenga demais, adicionei mais farinha, até ficar próximo do ponto de uma autólise com água. Se passou oito horas. Massa ótima para sovar, mas o grude na bancada sempre existirá. O segredo é relevar a limpeza. Coisas da vida. Gostei dessa massa. A isca também estava tinindo, mais que o dobro. Por via das dúvidas coloquei um pouco mais de fermento instantâneo dessa vez para observar se o crescimento muda o ritmo. Não tenho certeza sobre a mudança, pois demorou mais 48h o processo. Coloquei pra assar no final do segundo dia. O resultado ficou perfeito esteticamente, mas um pouco seco demais. Acho que porque deixei morcegando dentro do forno e a massa já tinha secado antes. Tem que colocar ainda meio molhada nesse estado.
+
+ - 2021-11-18 Panetone de Banana. Coloquei 200g de banana reduzida junto da massa, além de menos açúcar (40g) e um pouco de canela junto. As "frutas" foram os chocolates culinários meio-amargo mesmo. Essa massa deixei em autólise junto do fermento natural, além das gemas, um dia quente (e seco). Esse fermento natural está um pouco estranho, demorando para crescer, ou a textura está molenga. Coloquei mais pela unidade e o sabor. Ao final do dia sova com os ingredientes e vou deixar descansando até amanhã em temperatura ambiente.
+
  - 2021-12-21 Isamara Amâncio. São muitos passos incrementais, algo que particularmente não gosto, mas ao final uma fornada que deixou o miolo mole e a casca crocante. Ele assa super-rápido, em 15 minutos no fogo mais alto, então é preciso de um pouco de cuidado. Mantive a vaporização pelo borrifador. No entanto isso ainda não convenceu a Mitiko, que achou o pão pesado e ainda lembrando mais pão sovado. Eu entendi a crítica. A casca, apesar de crocante, ficou mole depois de um tempo (ganhou umidade?) e apesar de miolo mole este ainda é um pão com o dobro do peso do francês, com 100g em comparação com o padrão nacional de 50.
+
+ - 2021-12-24 Chocotone sovado tudo junto e assado 24h depois cresceu, ficou algodão, mas também ficou bem seco. Pode ter sido falta de isolamento da massa ou o tempo de assar, mas o sabor ficou bom, só ficou muito seco.
 
  - 2022-01-30 Pão de queijo. Lições aprendidas nas férias com as meninas: pão de queijo sem gema fica mais duro, ou deixar no forno após desligar o deixa seco demais. Sem leite vira biscoito de polvilho sabor queijo.
 
@@ -180,4 +211,3 @@ Originalmente a receita era com cará, mas com a ajuda da Mitiko criei este form
  - 2022-03-15 Ontem fiz mais pão com um esquema diferente que tenho tentado, de misturar água, açúcar, fermento instantâneo e farinha. Essa é minha esponja. Em meia-hora a uma hora já está borbulhando. Porém, a sova foi acelerada porque tinha pouco tempo. A ideia dessa "fornada" foi esperar crescer e jogar no freezer. Que foi o que eu fiz. No dia seguinte tirei um dos três pãezinhos e deixei na forma por uns minutos antes de colocar no forno pré-aquecido. Tostou ligeiramente embaixo, mas o resultado ficou muito próximo de um pão fresco. Ainda há mais testes para fazer, mas o básico funciona: congelar no freezer massa não assada.
 
  - 2022-03-19 Hoje aprendi [nesse post](https://www.madrepaesartesanais.com.br/autolise/) sobre autólise (e outros posts relacionados no mesmo site) que o tempo que se deixa a massa em autólise pode modificar a estrutura final, tornando o glúten mais ou menos forte. Também aprendi que não existe glúten na farinha, mas duas proteínas, a gliadina (extensibilidade) e a glutenina (elasticidade), que se juntam ao umedecer a farinha formando o glúten. A questão do crescimento da massa tem relação com o equilíbrio entre a extensibilidade e a elasticidade da massa, ou seja, a capacidade dela aumentar de tamanho e haver tensão para voltar ao tamanho original. Se for muito extensa e a massa não for forte ela se desfaz. Se for muito elástica ela fica muito resistente ao crescimento. Durante a autólise a extensibilidade da massa vai sendo desenvolvida. Quando começa a sova é que vem a elasticidade. A autólise muda a estrutura do pão, dando mais estrutura ao miolo e tornando ele mais leve.
-

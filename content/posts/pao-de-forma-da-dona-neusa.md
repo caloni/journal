@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2017-10-21'
 tags:
-- draft
 - recipes
 - food
 title: Pão de Forma da Dona Neusa

@@ -4,7 +4,6 @@ categories:
 date: '2020-12-23'
 link: https://www.kingarthurbaking.com/recipes/rustic-sourdough-bread-recipe
 tags:
-- draft
 - recipes
 title: Pão Rústico
 ---
@@ -28,4 +27,3 @@ Deixe cerca de meia-hora até começar a ganhar cor na casca. Na panela 45 minut
 Se bater no fundo e não estiver oco pode assar mais.
 
 Deixe o pão esfriar em local arejado e a manteiga esquentar fora da geladeira. Bom apetite.
-
