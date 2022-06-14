@@ -3,7 +3,6 @@ categories:
 - blog
 date: '2019-06-23'
 tags:
-- draft
 - recipes
 title: Pão de Queijo Mineiro
 ---
