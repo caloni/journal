@@ -4,23 +4,14 @@ categories:
 date: '2022-03-15T20:12:03-03:00'
 tags:
 - recipes
+- draft
 title: Medidas
 ---
 
-Medidas de ingredientes básicos com as minhas colheres de casa.
+Uma medida aproximada que pode ser usada em casos onde não há balança de alta precisão:
 
-## Sal
- - 1 colher de chá rasa: 2g
- - 1 colher de café rasa: 1.5g
+# Uma colher de chá de sal cheia equivale a 10g
 
-## Açúcar
- - 1 colher de chá rasa: 1.5g
- - 1 colher de café rasa: 1g
+Agora considere que o açúcar e a manteiga são a metade do peso do sal (5g uma colher de chá).
 
-## Fermento
- - 1 colher de chá rasa: 1.3g
- - 1 colher de café rasa: 0.75g
-
-## Manteiga
- - 1 colher de chá: 5g
- - 1 colher de café: 2.5g
+E agora considere que o fermento em pó é a metade do peso do açúcar (3g uma colher de chá).
