@@ -6,6 +6,7 @@ sed -i "s/href=\"\//href=\"#/g" index.html
 sed -i "s/src=\"\//src=\"/g" index.html
 sed -i "s/href=\"#[a-z]\+\/[a-z.-]\+/href=\"#/g" index.html
 kindlegen.exe book.opf -o caloni-drafts.mobi
+if not exist k: echo !! WARNING !! NO KINDLE CONNECTED IN THIS COMPUTER !!
 cp caloni-drafts.mobi k:\documents
 rm k:\documents\caloni-drafts.han
 popd
@@ -17,6 +18,7 @@ pushd book
 sed -i "s/href=\"\//href=\"#/g" index.html
 sed -i "s/src=\"\//src=\"/g" index.html
 sed -i "s/href=\"#[a-z]\+\/[a-z.-]\+/href=\"#/g" index.html
+if not exist k: echo !! WARNING !! NO KINDLE CONNECTED IN THIS COMPUTER !!
 kindlegen.exe book.opf -o caloni.mobi
 cp caloni.mobi k:\documents
 popd
