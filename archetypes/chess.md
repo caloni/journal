@@ -8,4 +8,4 @@ tags:
 title: {{ replace .TranslationBaseName "-" " " | title }}
 ---
 
-{{< chess board="cavaloni" src="chess_games.txt">}}
+{{< chess board="cavaloni" src="{{ .TranslationBaseName }}.txt">}}
