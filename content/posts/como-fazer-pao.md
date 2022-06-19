@@ -4,11 +4,23 @@ categories:
 date: '2022-02-06'
 tags:
 - recipes
-- draft
 title: Como fazer pão
 ---
 
 O pão clássico é resultado da fermentação de leveduras numa mistura de farinha e água.
+
+> Quando misturamos fermento na farinha com água, a levedura se alimenta do amido encontrado na farinha, produzindo dióxido de carbono. O dióxido de carbono expande as proteínas do glúten da farinha e faz com que a massa cresça.
+>
+> Todos os fermentos industrializados comprados no supermercado são a levedura Saccharomyces cerevisiae em diferentes formas: tabletes, em grãos ou um pó.
+>
+> O fermento natural era o único tipo existente antes da produção industrial e voltou à moda nos últimos anos pela sua qualidade inigualável. É o mesma levedura dos fermentos industrializados, mas em seu estado selvagem combinado com lactobacilos. Você não encontra esse fermento no supermercado, pois ele precisa ser cultivado por 7 a 10 dias através de uma mistura de água e farinha.
+>
+> Umedecer a superfície da massa serve para manter o crescimento interno e atrasar a formação da casca. Cuidado para não exagerar na quantidade de água.
+>
+> É importante que o calor atue de maneira uniforme em toda superfície do pão. Se o calor atinge apenas a parte de cima, as bolhas de gás na base não irão se expandir tão rápido quanto as do topo. Assim o miolo ficará muito denso na parte de baixo. O ideal é colocar uma pedra de assar no forno durante o pré-aquecimento e deslizar a massa dentro do forno com uma pá de padeiro, mas essa não é uma técnica recomendada para quem está começando.
+>
+> Adriano Ribeiro (Guia do Pão Caseiro para Iniciantes)
+
 
 É possível adicionar outros ingredientes ao processo, assim como outras fermentações (ou nenhuma), para cumprir objetivos diferentes do pão clássico.
 
@@ -217,7 +229,7 @@ Sim, ele é um tipo de pão: festivo, doce, aromático e, quando feito com paci�
 
  - 2022-03-19 Hoje aprendi [nesse post](https://www.madrepaesartesanais.com.br/autolise/) sobre autólise (e outros posts relacionados no mesmo site) que o tempo que se deixa a massa em autólise pode modificar a estrutura final, tornando o glúten mais ou menos forte. Também aprendi que não existe glúten na farinha, mas duas proteínas, a gliadina (extensibilidade) e a glutenina (elasticidade), que se juntam ao umedecer a farinha formando o glúten. A questão do crescimento da massa tem relação com o equilíbrio entre a extensibilidade e a elasticidade da massa, ou seja, a capacidade dela aumentar de tamanho e haver tensão para voltar ao tamanho original. Se for muito extensa e a massa não for forte ela se desfaz. Se for muito elástica ela fica muito resistente ao crescimento. Durante a autólise a extensibilidade da massa vai sendo desenvolvida. Quando começa a sova é que vem a elasticidade. A autólise muda a estrutura do pão, dando mais estrutura ao miolo e tornando ele mais leve.
 
- - 2022-06-13 Voltando a fazer pão francês com uma receita simples: 100g de farinha em autólise por quase 10 horas com 50% de água. Esponja de fermento com 10g de farinha mais 10g de água e uma colher de café de fermento. A mesma colher de açúcar, manteiga e sal. Sova e ia modelar, mas dessa vez deixei crescer demais a massa antes de modelar e ficou tarde pra assar. Deixei mas geladeira e no dia seguinte voltou a crescer em temperatura ambiente. Coloquei no forno com papel alumínio e bastante umidade, mas por ter colocado na temperatura máxima e na parte mais embaixo queimou a parte de baixo. Cresceu até que bem. Na hora de modelar fiz apenas uma dobra. Posso manter essa base com mais dobras, sem esperar crescer e colocar na geladeira quando estiver próximo do tamanho ideal. O corte também saiu meio fraco demais, mas ainda está difícil fazer o corte e não murchar a massa.
+ - 2022-06-13 Voltando a fazer pão francês com uma receita simples: 100g de farinha em autólise por quase 10 horas com 50% de água. Esponja de fermento com 10g de farinha mais 10g de água e uma colher de café de fermento. A mesma colher de açúcar, manteiga e sal. Sovei e ia modelar, mas dessa vez deixei crescer demais a massa antes e ficou tarde pra assar. Deixei na geladeira e no dia seguinte voltou a crescer em temperatura ambiente. Coloquei no forno com papel alumínio e bastante umidade, mas por ter colocado na temperatura máxima (acho) queimou na parte de baixo. Cresceu até que bem. Na hora de modelar fiz apenas uma dobra. Posso manter essa base com mais dobras, sem esperar crescer e colocar na geladeira quando estiver próximo do tamanho ideal. O corte também saiu meio fraco demais, mas ainda está difícil fazer o corte e não murchar a massa.
 
  - 2022-06-19 Fiz a receita da última massa de pizza que tinha feito e segui à risca os passos para fazer no próprio dia com fermento instantâneo em um dia frio. Comecei antes das 14h e estava colocando para assar depois das 18h. A massa ficou boa, não inchou e assou bem. Só achei crocante demais. Devo usar menos azeite da próxima vez.
 

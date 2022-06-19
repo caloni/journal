@@ -4,7 +4,6 @@ categories:
 date: '2022-03-15T20:12:03-03:00'
 tags:
 - recipes
-- draft
 title: Medidas
 ---
 
