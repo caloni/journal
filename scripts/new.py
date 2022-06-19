@@ -13,5 +13,5 @@ if len(sys.argv) > 1:
     post.content = '\n'.join(clip[2:])
   posts.transform([ edit ], [ 'content/' + file ])
 else:
-  print('How to use: new [slug]')
+  print('How to use: new.py [slug]')
 
