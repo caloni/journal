@@ -3,7 +3,7 @@ categories:
 - blog
 date: '2022-06-19T22:10:07-03:00'
 tags:
-- draft
+- movies
 title: A Bela Junie
 ---
 
