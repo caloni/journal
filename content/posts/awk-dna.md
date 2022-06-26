@@ -2,23 +2,17 @@
 categories:
 - code
 date: '2022-06-25T20:32:56-03:00'
+link: https://livefreeordichotomize.com/2019/06/04/using_awk_and_r_to_parse_25tb/
 tags:
 - draft
 title: Awk é seu próximo passo na produtividade do dia-a-dia
 ---
 
-# Introduction
-
-Você aprendeu expressões regulares, grep e sed, e acredita já conseguir lidar com análise de logs e código com bastante velocidade, certo? Pois bem, este post contém um ou dois truques com o uso de outra ferramenta chamada awk que irá impulsionar ainda mais sua análise de texto.
-
- - Casos de sucesso: leitura de DNA
- - Uso básico e um tutorial recomendado
- - Funcionamento interno e performance
- - Programação, depuração e profiling
-
-# [DNA and AWK](https://livefreeordichotomize.com/2019/06/04/using_awk_and_r_to_parse_25tb/)
+# DNA and AWK
 
 ![](/img/dna-chips.png)
+
+Pesquisando sobre otimização de AWK eu encontro este post em que uma pessoa tenta tornar a análise de sequências de DNA na nuvem algo financeiramente e computacionalmente viável. Ela começa tentando o óbvio, usando SQL nas próprias estruturas de CSV hospedadas na S3, passa por tentativas de particionar os blocos, por entender como paralelizar a operação e termina em uma solução que usa AWK junto de GNU Parallel que consegue redirecionar via pipe a saída que precisa para que a linguagem R consiga processar.
 
 ```
 select * from intensityData limit 10;
@@ -36,9 +30,6 @@ Lessons Learned:
  - [gnu parallel](https://www.gnu.org/software/parallel/) is magic and everyone should use it.
  - Associative arrays in AWK are super powerful.
 
-
-## Don't sleep on the basics
-
 ```
 yp1234,577,1,3
 yp5678,577,3,5
@@ -46,84 +37,9 @@ yp9012,132,8,9
 
 # This will create the two files 577.csv and 132.csv in your current directory.
 awk -F, '{ print > $2 ".csv" }' file.csv
-```
 
-
-## gnu parallel
-
-```
 parallel --block 100M --pipe  \
         "awk -F '\t' '{print \$1\",...\"$30\">\"chunked/{#}_chr\"\$15\".csv\"}'"
-```
-
-
-# [Back to the basics](https://www.grymoire.com/Unix/Awk.html)
-
-> 
-> Awk also maintains a delicate balance between being a line-oriented utility like grep and a full programming language. - Andy Oram
->
-
-```
-pattern { action }
-
-BEGIN { print "START" }
-      { print         }
-END   { print "STOP"  }
-
-BEGIN { print "File\tOwner"}
-{ print $8, "\t", $3}
-END { print " - DONE -" }
-```
-
-## Notas
-
- - Awk tem intermamente dois tipos primitivos (fora o array associativo): `float` e `string`.
- - Awk converte "123X" em 0; Nawk converte em 123.
- - A value of 0 is false, while anything else is true.
- - Undefined variables has the value of 0.
- - Unlike AWK, NAWK lets you use booleans as integers.
- - A positional variable is not a special variable, but a function triggered by the dollar sign.
- - All interpreter scripts accept one and only one argument; so, `/bin/awk -f`.
-
-```
-# do the same thing: print the first field on the line.
-print $1;
-X=1;
-print $X;
-```
-
-If you had four fields, and wanted to print out the second and fourth field, there are two ways. This is the first:
-
-```
-#!/bin/awk -f
-{
-  $1="";
-  $3="";
-  print;
-}
-```
-
-and the second
-
-```
-#!/bin/awk -f
-{
-  print $2, $4;
-}
-```
-
-Similar, but not identical. The number of spaces between the values vary. There are two reasons for this:
-
- - The actual number of fields does not change.
- - There is a field separator that specifies what character to put between the fields on output.
-
-Other cool stuff:
-
- - If you change the field separator before you read the line, the change affects what you read.
- - If you change it after you read the line, it will not redefine the variables.
-
-Trick to re-evaluate the fields: `$0=$0`
-
 
 # [An Stack Overflow Issue](https://stackoverflow.com/questions/43513975/awk-gawk-performance)
 
@@ -196,13 +112,4 @@ What about [mawk](https://invisible-island.net/mawk/)?
 
 # [Code](https://www.gnu.org/software/gawk/manual/gawk.html), [debug](https://www.gnu.org/software/gawk/manual/html_node/Debugging.html) and [profile](https://www.gnu.org/software/gawk/manual/gawk.html#Profiling)
 
-
-# Reference
-
- - [Gawk Guide](https://www.gnu.org/software/gawk/manual/gawk.html)
- - [Tutorial from an Experient Mind](https://www.grymoire.com/Unix/Awk.html)
- - [Awk Performance](https://stackoverflow.com/questions/43513975/awk-gawk-performance)
- - [Mawk](https://invisible-island.net/mawk/)
- - [DNA](https://livefreeordichotomize.com/2019/06/04/using_awk_and_r_to_parse_25tb/)
- - [Gnu Parallel](https://www.gnu.org/software/parallel/)
 
