@@ -1,0 +1,11 @@
+---
+categories:
+- reviews
+date: '2022-06-25T21:50:37-03:00'
+tags:
+- draft
+- coffee
+title: Minha Torra Dark
+---
+
+Ficou amargo? Um pouco. Mas isso é devido às imperfeições. Ficou intenso e doce também. Não ficou ruim. É um bom café. Mineiro e honesto.
