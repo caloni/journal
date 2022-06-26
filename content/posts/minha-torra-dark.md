@@ -8,4 +8,4 @@ tags:
 title: Minha Torra Dark
 ---
 
-Ficou amargo? Um pouco. Mas isso é devido às imperfeições. Ficou intenso e doce também. Não ficou ruim. É um bom café. Mineiro e honesto.
+Fiz nova torra na pipoqueira, com uma quantidade bem razoável (meio quilo talvez) e o resultado ficou bem dark, quase queimado. Depois de três a quatro dias descansando: ficou amargo? Um pouco. Mas isso é devido às imperfeições. Ficou intenso e doce também. Não ficou ruim. É um bom café. Mineiro e honesto.
