@@ -56,7 +56,7 @@ awk '{ if( $0 ~ "test" ) print $2 }'
 
 
 > 
-> Awk also maintains a delicate balance between being a line-oriented utility like grep and a full programming language. - Andy Oram
+> Awk maintains a delicate balance between being a line-oriented utility like grep and a full programming language. - Andy Oram
 >
 
 ## Program

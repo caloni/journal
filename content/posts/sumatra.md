@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2022-06-25T21:50:26-03:00'
 tags:
-- draft
 - coffee
 title: Sumatra
 ---
