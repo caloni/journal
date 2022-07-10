@@ -2,9 +2,8 @@
 categories:
 - code
 date: '2020-06-07'
-link: https://docs.google.com/presentation/d/1_MuDUv6omMDIFQfdOCpBYNaGEgwxT0OTz02MklY1s6Y/edit#slide=id.g137aac54c56_0_1
+link: /ppt/awk
 tags:
-- draft
 title: Awk
 ---
 
@@ -93,7 +92,7 @@ END { print " - DONE -" }
 
 ## Tricks
 
- - Awk tem intermamente dois tipos primitivos (fora o array associativo): `float` e `string`.
+ - Awk tem internamente dois tipos primitivos (fora o array associativo): `float` e `string`.
  - Awk converte "123X" em 0; Nawk converte em 123.
  - A value of 0 is false, while anything else is true.
  - Undefined variables has the value of 0.

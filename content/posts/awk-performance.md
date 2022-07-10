@@ -4,7 +4,6 @@ categories:
 date: '2022-06-25T20:32:56-03:00'
 link: https://stackoverflow.com/questions/43513975/awk-gawk-performance
 tags:
-- draft
 title: AWK and Stack Overflow
 ---
 

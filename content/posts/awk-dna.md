@@ -4,13 +4,12 @@ categories:
 date: '2022-06-25T20:32:56-03:00'
 link: https://livefreeordichotomize.com/2019/06/04/using_awk_and_r_to_parse_25tb/
 tags:
-- draft
 title: AWK and DNA
 ---
 
 ![](/img/dna-chips.png)
 
-Pesquisando sobre otimização de AWK eu encontro este post em que uma pessoa tenta tornar a análise de sequências de DNA na nuvem algo financeiramente e computacionalmente viável. Ela começa tentando o óbvio, usando SQL nas próprias estruturas de CSV hospedadas na S3, passa por tentativas de particionar os blocos, por entender como paralelizar a operação e termina em uma solução que usa AWK junto de GNU Parallel que consegue redirecionar via pipe a saída que precisa para que a linguagem R consiga processar.
+Pesquisando sobre otimização de AWK eu encontro este post em que uma pessoa tenta tornar a análise de sequências de DNA na nuvem algo financeiramente e computacionalmente viável. Ela começa tentando o óbvio, usando SQL nas próprias estruturas de CSV hospedadas na S3, passa por tentativas de particionar os blocos, por entender como paralelizar a operação e termina em uma solução que usa AWK junto de GNU Parallel, redirecionando a saída para que a linguagem R processe.
 
 ```
 select * from intensityData limit 10;
