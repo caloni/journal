@@ -7,7 +7,7 @@ tags:
 title: Comunicação em Prosa Moderna
 ---
 
-"Comunicação em Prosa Moderna", escrito por Othon M. Garcia em 1967, foi um dos livros de referência de quando iniciei a faculdade de Letras na FFLCH da USP. Adquiri uma cópia velha em um sebo com uma diagramação absurda, sem margens e com cheiro de mofado. Li de cabo a rabo. Atualmente eu encontrei a versão digital graças à comunidade do LeLivros, totalmente reformada para o formato digital após várias edições. A versão Kindle dá até gosto de ver, com suas inúmeras e famosas referências bibliográfica com que foi escrito, que ocupam pelo menos a quinta parte do livro, junto dos inúmeros exercícios no final.
+"Comunicação em Prosa Moderna", escrito por Othon M. Garcia em 1967, foi um dos livros de referência de quando iniciei a faculdade de Letras na FFLCH da USP. Adquiri uma cópia velha em um sebo com uma diagramação absurda, sem margens e com cheiro de mofado. Li de cabo a rabo. Atualmente eu encontrei a versão digital graças à comunidade do LeLivros, totalmente reformada para o formato digital após várias edições. A versão Kindle dá até gosto de ver, com suas inúmeras e famosas referências bibliográficas com que foi escrito, que ocupam pelo menos a quinta parte do livro, junto dos inúmeros exercícios no final.
 
 O livro é dividido em dez partes, mas podemos dividir essas partes em dois montantes. No primeiro montante temos o conteúdo sobre a escrita de fato: a frase, o vocabulário, o parágrafo, a argumentação, a ordenação. O montante final se concentra nos formalismos e disciplina para trabalhos mais densos: pesquisa, planejamento, redação técnica, preparação e exercícios. Vou falar brevemente sobre as quatro primeiras partes, que considero as mais importantes, e as que sempre me foco na hora de elogiar este livro atemporal.
 
@@ -86,7 +86,7 @@ Esta parte, como o autor próprio anuncia, não é um tratado de lógica nem de 
 
 Analogias, hipóteses, silogismos, definições. Todo esse arcabouço básico para quem está acostumado a discutir é explicado em detalhes, para que o leitor saiba utilizar cada ferramenta no momento certo. Um pouco de filosofia também é usado, quase que como um convite à reflexão.
 
-> A legítima argumentação, tal como deve ser entendida, não se confunde com o "bate-boca" estéril ou carregado de animosidade. Ela deve ser, ao contrário, "construtiva na sua finalidade, cooperativa em espírito e socialmente útil.
+> A legítima argumentação, tal como deve ser entendida, não se confunde com o "bate-boca" estéril ou carregado de animosidade. Ela deve ser, ao contrário, "construtiva na sua finalidade, cooperativa em espírito e socialmente útil".
 
 Comunicação em Prosa Moderna possui em seu núcleo as próprias ferramentas para refutá-lo como livro contemporâneo. Contudo, a maioria dos seus detratores são incapazes de explicar por que este é um livro ruim sobre comunicação em língua portuguesa, sendo a única constante nas críticas é a falta de uma didática em compasso com o ensino escolar. Oras, mas se é justamente a qualidade desse ensino que é atacado no livro, e sabe-se que a maioria das críticas provém do corpo docente do mesmo ensino, a ironia torna-se completa.
 

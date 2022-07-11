@@ -3,7 +3,6 @@ categories:
 - blog
 date: '2022-07-09T14:37:00-03:00'
 tags:
-- draft
 - recipes
 title: Bolo de Cenoura Aromática
 ---

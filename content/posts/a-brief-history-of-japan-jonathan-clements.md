@@ -8,6 +8,14 @@ tags:
 title: A Brief History of Japan (Jonathan Clements)
 ---
 
+A seleção desse livro é fruto de pesquisas na internet por um conteúdo enxuto o suficiente para saber um pouco mais das origens do Japão em menos de seis meses. Jonathan Clements, como o nome indica, não é japonês, mas viveu um bom tempo no país e se tornou um historiador que resgata tanto a História quanto suas dúvidas. Sua palavra final é de dúvidas sobre questões polêmicas de qual a versão canônica. Seus devaneios são opiniões contemporâneas dessa ciência tão castigada por ideologias e narrativas do opressor.
+
+O resultado é morno. Empolga saber mais da história desse povo icônico e ainda muito misterioso, mas ao mesmo tempo desencanta ver transformada sua jornada pelas eras como quem despe rapidamente uma gueixa e aponta algumas de suas falhas como quem não gosta de mulher.
+
+Dropei antes da metade.
+
+# Recortes
+
 > I was arriving not in the Tōkyō region, but in Japan’s ancient heartland of Kyōto, which would soon bewitch me with its history and culture. I was there to study premodern Japanese foreign relations and Japanese literature.
 
 > Twenty-five years and three degrees later, I still felt very much like a beginner.
