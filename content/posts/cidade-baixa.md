@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2022-07-11T20:42:06-03:00'
 tags:
-- draft
 - movies
 title: Cidade Baixa
 ---

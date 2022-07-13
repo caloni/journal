@@ -3,7 +3,6 @@ categories:
 - blog
 date: '2022-05-27T20:07:01-03:00'
 tags:
-- draft
 - books
 title: A Brief History of Japan (Jonathan Clements)
 ---
