@@ -1,3 +1,5 @@
 <big><b>
-{{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}<b><a href="/{{ $taxonomyname }}">{{ $taxonomyname }}</a> - </b>{{ end }}
+{{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
+> <b><a href="/{{ $taxonomyname }}">{{ $taxonomyname }}</a></b></br>
+{{ end }}
 </b></big>
