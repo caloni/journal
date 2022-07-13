@@ -1,6 +1,6 @@
 ---
 categories:
-- blog
+- none
 date: '{{ .Date }}'
 tags:
 - draft

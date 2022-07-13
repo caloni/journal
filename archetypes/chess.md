@@ -1,10 +1,9 @@
 ---
 categories:
-- blog
+- chess
 date: '{{ .Date }}'
 tags:
 - draft
-- chess
 title: {{ replace .TranslationBaseName "-" " " | title }}
 ---
 
