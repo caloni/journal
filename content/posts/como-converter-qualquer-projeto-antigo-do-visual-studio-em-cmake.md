@@ -2,7 +2,7 @@
 categories:
 - code
 date: '2022-07-12T21:02:54-03:00'
-tags:
+tags: null
 title: Como converter qualquer projeto antigo do Visual Studio em CMake
 ---
 
