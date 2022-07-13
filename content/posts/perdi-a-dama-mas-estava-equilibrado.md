@@ -1,10 +1,9 @@
 ---
 categories:
-- blog
+- chess
 date: '2021-12-19T22:57:39-03:00'
 link: /chess/knightsdilemma244_vs_cavaloni_2021.12.19.txt
-tags:
-- chess
+tags: []
 title: Perdi a Dama, mas Estava Equilibrado
 ---
 

@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2008-06-03'
 tags:
 - ccppbr

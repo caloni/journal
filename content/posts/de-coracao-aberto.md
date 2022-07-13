@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2013-03-15'
 link: https://www.imdb.com/title/tt2088962
-tags:
-- movies
+tags: []
 title: De Coração Aberto
 ---
 

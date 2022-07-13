@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2017-08-29'
 tags: null
 title: Ativando Ubuntu No Windows 10

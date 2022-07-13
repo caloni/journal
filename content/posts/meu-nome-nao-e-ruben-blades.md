@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-04-15'
 link: https://www.imdb.com/title/tt6789126
-tags:
-- movies
+tags: []
 title: Meu Nome Não é Ruben Blades
 ---
 

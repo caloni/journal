@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2013-02-21'
 link: https://www.imdb.com/title/tt1790885
-tags:
-- movies
+tags: []
 title: A Hora Mais Escura
 ---
 

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- animes
 date: '2020-12-26'
 link: https://www.imdb.com/title/tt8400662
-tags:
-- animes
+tags: []
 title: Dropkick on My Devil
 ---
 

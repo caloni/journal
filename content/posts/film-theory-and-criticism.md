@@ -1,9 +1,8 @@
 ---
 categories:
-- blog
-date: '2019-06-17'
-tags:
 - reading
+date: '2019-06-17'
+tags: []
 title: Film Theory and Criticism
 ---
 

@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2015-07-14'
-tags:
 - food
+date: '2015-07-14'
+tags: []
 title: CarinaE Hommage Malbed 2009
 ---
 

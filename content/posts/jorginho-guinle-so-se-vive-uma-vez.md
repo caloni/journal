@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-03-18'
 tags:
 - cinemaqui
-- movies
 title: Jorginho Guinle - $o se Vive Uma Vez
 ---
 

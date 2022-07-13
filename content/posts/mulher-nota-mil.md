@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2011-08-22'
 link: https://www.imdb.com/title/tt0090305
-tags:
-- movies
+tags: []
 title: Mulher Nota Mil
 ---
 

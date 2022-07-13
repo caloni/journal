@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2008-05-19'
 tags: null
 title: Busca do Google com atalhos

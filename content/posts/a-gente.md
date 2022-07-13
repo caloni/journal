@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2017-09-05'
 link: https://www.imdb.com/title/tt3790756
 tags:
 - cinemaqui
-- movies
 title: A Gente
 ---
 

@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2015-07-02'
-tags:
 - food
+date: '2015-07-02'
+tags: []
 title: Gourmet da Bonnie
 ---
 

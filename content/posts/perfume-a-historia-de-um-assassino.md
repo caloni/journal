@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2011-01-31'
 link: https://www.imdb.com/title/tt0396171
-tags:
-- movies
+tags: []
 title: 'Perfume: A História de um Assassino'
 ---
 

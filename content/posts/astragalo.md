@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2016-03-07'
 link: https://www.imdb.com/title/tt3712088
 tags:
 - cinemaqui
-- movies
 title: Astrágalo
 ---
 

@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
+- movies
 date: '2021-11-01T21:16:04-03:00'
 tags:
-- movies
 - cinemaqui
 title: Primeiro Encontro
 ---

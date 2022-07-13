@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2009-03-05'
 tags: null
 title: Os problemas mais cabeludos

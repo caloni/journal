@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2020-08-24'
 link: https://rog.asus.com/forum/showthread.php?92088-GL553VD-Gaming-Normal-CPU-Temperature-Range&s=b1f7689c0bb3092110ec06ad4fe25684
 title: CPU Fritando com Intel Turbo Boost

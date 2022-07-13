@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2017-08-07'
-tags:
 - food
+date: '2017-08-07'
+tags: []
 title: Paulistânia IPA Caminho das Índias
 ---
 

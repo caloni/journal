@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2016-03-29'
 link: https://www.imdb.com/title/tt3806654
 tags:
 - cinemaqui
-- movies
 title: Para Minha Amada Morta
 ---
 

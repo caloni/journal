@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2012-02-15'
 link: https://www.imdb.com/title/tt0396752
-tags:
-- movies
+tags: []
 title: Nanny McPhee A Babá Encantada
 ---
 

@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2008-09-10'
 tags: null
 title: Retorno do PathIsDirectory

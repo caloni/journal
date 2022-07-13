@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2021-11-17T19:43:49-03:00'
-tags:
 - animes
+date: '2021-11-17T19:43:49-03:00'
+tags: []
 title: Blade Runner do Crunchyroll
 ---
 

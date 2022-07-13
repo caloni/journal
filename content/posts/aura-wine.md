@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
-date: '2020-09-29'
-link: https://www.aurawines.cl
-tags:
 - wine
 - food
+date: '2020-09-29'
+link: https://www.aurawines.cl
+tags: []
 title: Aura Wayra
 ---
 

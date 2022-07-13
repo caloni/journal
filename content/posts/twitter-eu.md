@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2010-07-28'
 tags: null
 title: Twitter, eu?

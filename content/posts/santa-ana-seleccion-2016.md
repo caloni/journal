@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2017-08-10'
-tags:
 - food
+date: '2017-08-10'
+tags: []
 title: Santa Ana Seleccion 2016
 ---
 

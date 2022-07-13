@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2021-08-17T21:07:55-03:00'
-tags:
 - animes
+date: '2021-08-17T21:07:55-03:00'
+tags: []
 title: Gabriel Dropout
 ---
 

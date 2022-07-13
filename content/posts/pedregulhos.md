@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
+- movies
 date: '2021-10-23T12:20:19-03:00'
 tags:
-- movies
 - cinemaqui
 title: Pedregulhos
 ---

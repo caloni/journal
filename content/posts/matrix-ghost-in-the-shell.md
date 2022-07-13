@@ -1,10 +1,9 @@
 ---
 categories:
-- blog
+- movies
 date: '2017-09-18'
 link: https://www.imdb.com/title/tt0242653
-tags:
-- movies
+tags: []
 title: 'Matrix: Ghost in The Shell'
 ---
 

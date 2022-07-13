@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2020-09-16'
 tags:
 - lists

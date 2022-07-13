@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- animes
 date: '2020-10-04'
 link: https://www.crunchyroll.com/love-tyrant
-tags:
-- animes
+tags: []
 title: Love Tyrant
 ---
 

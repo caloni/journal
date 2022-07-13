@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2011-03-28'
 link: https://www.imdb.com/title/tt0318034
-tags:
-- movies
+tags: []
 title: Arca Russa
 ---
 

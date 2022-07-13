@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- series
 date: '2020-10-04'
 link: https://www.imdb.com/title/tt0184175
-tags:
-- series
+tags: []
 title: Pica Pau
 ---
 

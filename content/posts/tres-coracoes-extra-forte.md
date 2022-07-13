@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2016-11-18'
-tags:
 - food
+date: '2016-11-18'
+tags: []
 title: Três Corações Extra Forte
 ---
 

@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2018-06-24'
-tags:
 - food
+date: '2018-06-24'
+tags: []
 title: El Esteco Tinto Tardio Malbec 2015
 ---
 

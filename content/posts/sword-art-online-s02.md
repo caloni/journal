@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- animes
 date: '2014-04-16'
 link: https://www.imdb.com/title/tt2250192
-tags:
-- animes
+tags: []
 title: Sword Art Online - Segunda Temporada
 ---
 

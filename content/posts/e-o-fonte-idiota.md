@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2015-09-12'
 tags: null
 title: É o fonte, idiota!

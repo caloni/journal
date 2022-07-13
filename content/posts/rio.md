@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2011-04-27'
 link: https://www.imdb.com/title/tt1436562
-tags:
-- movies
+tags: []
 title: Rio
 ---
 

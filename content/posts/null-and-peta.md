@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2021-10-04T20:40:37-03:00'
-tags:
 - animes
+date: '2021-10-04T20:40:37-03:00'
+tags: []
 title: Null & Peta
 ---
 

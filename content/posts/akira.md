@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2021-08-08T21:35:39-03:00'
-tags:
 - movies
+date: '2021-08-08T21:35:39-03:00'
+tags: []
 title: Akira
 ---
 

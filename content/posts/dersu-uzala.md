@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2020-04-07'
 link: https://www.imdb.com/title/tt0071411
-tags:
-- movies
+tags: []
 title: Dersu Uzala
 ---
 

@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2022-04-05T21:07:32-03:00'
-tags:
 - series
+date: '2022-04-05T21:07:32-03:00'
+tags: []
 title: 'LOL: Austrália'
 ---
 

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2014-11-30'
 link: https://www.imdb.com/title/tt2872732
-tags:
-- movies
+tags: []
 title: Lucy
 ---
 

@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
-date: '2021-01-07'
-link: https://www.vivino.com/villa-doluca-klasik-red/w/1178475
-tags:
 - wine
 - food
+date: '2021-01-07'
+link: https://www.vivino.com/villa-doluca-klasik-red/w/1178475
+tags: []
 title: Villa do Luca
 ---
 

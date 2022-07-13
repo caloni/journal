@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2016-11-04'
 link: https://www.imdb.com/title/tt0367882
-tags:
-- movies
+tags: []
 title: Indiana Jones e o Reino da Caveira de Cristal
 ---
 

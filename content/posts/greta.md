@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-09-30'
 link: https://www.imdb.com/title/tt9477532
 tags:
 - cinemaqui
-- movies
 title: Greta
 ---
 

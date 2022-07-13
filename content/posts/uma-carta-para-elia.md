@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2010-10-04'
 link: https://www.imdb.com/title/tt0808245
-tags:
-- movies
+tags: []
 title: A Letter to Elia
 ---
 

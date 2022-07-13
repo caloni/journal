@@ -1,10 +1,9 @@
 ---
 categories:
-- blog
+- movies
 date: '2019-09-22'
 tags:
 - lists
-- movies
 title: Roger Ebert Great Movies
 ---
 

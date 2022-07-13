@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2011-12-20'
 link: https://www.imdb.com/title/tt0067690
-tags:
-- movies
+tags: []
 title: Escravas do Desejo
 ---
 

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2012-06-13'
 link: https://www.imdb.com/title/tt0091188
-tags:
-- movies
+tags: []
 title: A Difícil Arte de Amar
 ---
 

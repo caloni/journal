@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
-date: '2019-01-07'
-tags:
-- recipes
 - food
+- recipes
+date: '2019-01-07'
+tags: []
 title: Chimichurri
 ---
 

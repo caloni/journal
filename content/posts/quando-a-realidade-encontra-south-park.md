@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2016-11-18'
-tags:
 - series
+date: '2016-11-18'
+tags: []
 title: Quando a realidade encontra South Park
 ---
 

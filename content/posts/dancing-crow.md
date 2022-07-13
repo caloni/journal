@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
-date: '2018-12-31'
-tags:
 - wine
 - food
+date: '2018-12-31'
+tags: []
 title: Dancing Crow
 ---
 

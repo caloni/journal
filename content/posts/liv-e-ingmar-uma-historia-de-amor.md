@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2012-12-19'
 link: https://www.imdb.com/title/tt2327430
-tags:
-- movies
+tags: []
 title: 'Liv & Ingmar: Uma História de Amor'
 ---
 

@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2008-10-05'
 tags: null
 title: O que acontece com um programador com pressa

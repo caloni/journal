@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2011-02-13'
 link: https://www.imdb.com/title/tt1007028
-tags:
-- movies
+tags: []
 title: Pagando Bem, que Mal Tem?
 ---
 

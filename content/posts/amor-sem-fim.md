@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2014-06-13'
 link: https://www.imdb.com/title/tt2318092
-tags:
-- movies
+tags: []
 title: Amor Sem Fim
 ---
 

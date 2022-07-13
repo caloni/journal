@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2014-05-31'
 link: https://www.imdb.com/title/tt0489458
-tags:
-- movies
+tags: []
 title: O Cheiro do Ralo
 ---
 

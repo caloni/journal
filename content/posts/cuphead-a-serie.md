@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2022-03-06T21:15:31-03:00'
-tags:
 - series
+date: '2022-03-06T21:15:31-03:00'
+tags: []
 title: Cuphead
 ---
 

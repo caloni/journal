@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2016-04-10'
 tags: null
 title: Testando sistema de postagem

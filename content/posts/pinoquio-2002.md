@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2012-02-20'
 link: https://www.imdb.com/title/tt0255477
-tags:
-- movies
+tags: []
 title: Pinóquio
 ---
 

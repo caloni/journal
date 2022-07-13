@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2019-07-16'
-tags:
 - books
+date: '2019-07-16'
+tags: []
 title: Amazonita é ficção curtinha de época sobre folclore brasileiro
 ---
 

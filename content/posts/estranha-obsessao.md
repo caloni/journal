@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2017-08-07'
 link: https://www.imdb.com/title/tt1605777
-tags:
-- movies
+tags: []
 title: Estranha Obsessão
 ---
 

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2018-11-19'
 link: https://www.imdb.com/title/tt3450958
-tags:
-- movies
+tags: []
 title: 'Planeta dos Macacos: A Guerra'
 ---
 

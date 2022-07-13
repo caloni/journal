@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2020-04-22'
 link: https://www.imdb.com/title/tt0091954
-tags:
-- movies
+tags: []
 title: Sid & Nancy, o Amor Mata
 ---
 

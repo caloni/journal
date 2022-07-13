@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2021-07-31T22:33:26-03:00'
 tags:
 - cinemaqui
-- movies
 title: Palavras que Borbulham como Refrigerante
 ---
 

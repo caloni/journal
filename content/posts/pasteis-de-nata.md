@@ -1,10 +1,9 @@
 ---
 categories:
-- blog
-date: '2019-06-23'
-tags:
-- recipes
 - food
+- recipes
+date: '2019-06-23'
+tags: []
 title: Pastéis de Nata
 ---
 

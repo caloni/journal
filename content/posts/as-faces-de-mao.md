@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
+- movies
 date: '2021-10-24T21:50:18-03:00'
 tags:
-- movies
 - cinemaqui
 title: As Faces de Mao
 ---

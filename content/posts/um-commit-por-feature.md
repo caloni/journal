@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2017-02-04'
 tags: null
 title: Um commit por feature

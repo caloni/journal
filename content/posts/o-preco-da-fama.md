@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2015-09-24'
 link: https://www.imdb.com/title/tt3194410
 tags:
 - cinemaqui
-- movies
 title: O Preço da Fama
 ---
 

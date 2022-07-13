@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2015-02-15'
 link: https://www.imdb.com/title/tt1915581
-tags:
-- movies
+tags: []
 title: Magic Mike
 ---
 

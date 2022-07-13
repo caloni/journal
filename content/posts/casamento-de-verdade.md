@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2016-05-19'
 link: https://www.imdb.com/title/tt3289712
 tags:
 - cinemaqui
-- movies
 title: Casamento de Verdade
 ---
 

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- series
 date: '2019-04-24'
 link: https://www.imdb.com/title/tt7718088
-tags:
-- series
+tags: []
 title: Bonding
 ---
 

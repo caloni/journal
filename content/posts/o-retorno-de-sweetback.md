@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-02-18'
 link: https://www.imdb.com/title/tt0367790
-tags:
-- movies
+tags: []
 title: O Retorno de Sweetback
 ---
 

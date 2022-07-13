@@ -1,10 +1,9 @@
 ---
 categories:
-- blog
+- recipes
 date: '2021-12-28T22:25:10-03:00'
 link: https://youtu.be/pTnMImhXVI8
-tags:
-- recipes
+tags: []
 title: Como fazer pão francês de padaria
 ---
 

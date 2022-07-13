@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2016-10-16'
 link: https://www.imdb.com/title/tt0082971
-tags:
-- movies
+tags: []
 title: Os Caçadores da Arca Perdida
 ---
 

@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2015-01-24'
-tags:
 - food
+date: '2015-01-24'
+tags: []
 title: Nerderburgh Sul-Africano 2013
 ---
 

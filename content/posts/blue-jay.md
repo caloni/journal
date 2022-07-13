@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2016-12-10'
 link: https://www.imdb.com/title/tt5912454
-tags:
-- movies
+tags: []
 title: Blue Jay
 ---
 

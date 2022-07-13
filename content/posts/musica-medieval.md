@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2021-12-21T11:00:49-03:00'
-tags:
 - music
+date: '2021-12-21T11:00:49-03:00'
+tags: []
 title: Música gótica sacra e secular
 ---
 

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2015-06-01'
 link: https://www.imdb.com/title/tt2872750
-tags:
-- movies
+tags: []
 title: 'Shaun, o Carneiro: O Filme'
 ---
 

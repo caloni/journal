@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
-date: '2017-06-07'
-tags:
 - beer
 - food
+date: '2017-06-07'
+tags: []
 title: Colorado Appia
 ---
 

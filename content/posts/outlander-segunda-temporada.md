@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- series
 date: '2017-07-27'
 link: https://www.imdb.com/title/tt3006802
-tags:
-- series
+tags: []
 title: Outlander - Segunda Temporada
 ---
 

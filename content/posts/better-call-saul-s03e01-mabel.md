@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- series
 date: '2017-04-16'
 link: https://www.imdb.com/title/tt5554490
-tags:
-- series
+tags: []
 title: 'Better Call Saul - Terceira Temporada, Episódio 1: Mabel'
 ---
 

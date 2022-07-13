@@ -1,10 +1,9 @@
 ---
 categories:
-- blog
+- movies
 date: '2020-04-26'
 link: https://www.imdb.com/title/tt0056119
-tags:
-- movies
+tags: []
 title: A Pista (La Jetée)
 ---
 

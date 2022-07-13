@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2018-08-08'
 link: https://www.imdb.com/title/tt4575576
 tags:
 - cinemaqui
-- movies
 title: 'Christopher Robin: Um Reencontro Inesquecível'
 ---
 

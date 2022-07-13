@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2018-03-15'
-tags:
 - food
+date: '2018-03-15'
+tags: []
 title: Blend Pinhal
 ---
 

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- series
 date: '2017-04-16'
 link: https://www.imdb.com/title/tt4613520
-tags:
-- series
+tags: []
 title: The Sound of Your Heart - Primeira Temporada
 ---
 

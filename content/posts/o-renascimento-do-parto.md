@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2018-05-07'
 link: https://www.imdb.com/title/tt2974412
-tags:
-- movies
+tags: []
 title: O Renascimento do Parto
 ---
 

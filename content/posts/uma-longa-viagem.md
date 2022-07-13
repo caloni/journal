@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2015-01-04'
 link: https://www.imdb.com/title/tt2058107
-tags:
-- movies
+tags: []
 title: Uma Longa Viagem
 ---
 

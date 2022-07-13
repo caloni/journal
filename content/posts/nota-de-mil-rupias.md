@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2017-04-16'
 link: https://www.imdb.com/title/tt2937158
-tags:
-- movies
+tags: []
 title: Nota de 1000 Rúpias
 ---
 

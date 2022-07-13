@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2021-09-18T20:34:43-03:00'
-tags:
 - series
+date: '2021-09-18T20:34:43-03:00'
+tags: []
 title: Olá? Sou Eu!
 ---
 

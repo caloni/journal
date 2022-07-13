@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2008-07-08'
 tags: null
 title: Projeto-modelo

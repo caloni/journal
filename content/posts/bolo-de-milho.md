@@ -1,9 +1,8 @@
 ---
 categories:
-- blog
-date: '2022-07-09T14:20:41-03:00'
-tags:
 - recipes
+date: '2022-07-09T14:20:41-03:00'
+tags: []
 title: Bolo de Milho
 ---
 

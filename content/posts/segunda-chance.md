@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2015-05-10'
 link: https://www.imdb.com/title/tt3305316
 tags:
 - cinemaqui
-- movies
 title: Segunda Chance
 ---
 

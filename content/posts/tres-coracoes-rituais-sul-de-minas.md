@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2018-09-22'
-tags:
 - food
+date: '2018-09-22'
+tags: []
 title: Três Corações Rituais Sul de Minas
 ---
 

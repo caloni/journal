@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2020-05-19'
 link: https://www.imdb.com/title/tt0137439
-tags:
-- movies
+tags: []
 title: Conto de Outono
 ---
 

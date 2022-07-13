@@ -1,10 +1,9 @@
 ---
 categories:
-- blog
+- wine
 date: '2021-05-17'
 link: https://www.eniwine.com
-tags:
-- wine
+tags: []
 title: Eniwine
 ---
 

@@ -1,9 +1,8 @@
 ---
 categories:
-- blog
-date: '2017-05-28'
-tags:
 - books
+date: '2017-05-28'
+tags: []
 title: Os Axiomas de Zurique
 ---
 

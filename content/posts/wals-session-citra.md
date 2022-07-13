@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
-date: '2017-07-20'
-tags:
 - beer
 - food
+date: '2017-07-20'
+tags: []
 title: Wäls Session Citra
 ---
 

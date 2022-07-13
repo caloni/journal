@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- series
 date: '2017-03-05'
 link: https://www.imdb.com/title/tt0458284
-tags:
-- series
+tags: []
 title: Science of Star Wars - Primeira Temporada, Episódio 1
 ---
 

@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2010-02-25'
 tags: null
 title: Bazaar gráfico

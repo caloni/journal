@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2022-06-19T14:32:14-03:00'
-tags:
 - movies
+date: '2022-06-19T14:32:14-03:00'
+tags: []
 title: Amores Brutos
 ---
 

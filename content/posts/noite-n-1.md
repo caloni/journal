@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2012-10-23'
 link: https://www.imdb.com/title/tt2016955
-tags:
-- movies
+tags: []
 title: 'Noite #1'
 ---
 

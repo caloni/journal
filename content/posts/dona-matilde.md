@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2022-05-12T22:37:35-03:00'
-tags:
 - wine
+date: '2022-05-12T22:37:35-03:00'
+tags: []
 title: Dona Matilde
 ---
 

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-07-29'
 link: https://www.imdb.com/title/tt8443704
-tags:
-- movies
+tags: []
 title: Querido Ex
 ---
 

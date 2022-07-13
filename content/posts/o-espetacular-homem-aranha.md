@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2012-08-04'
 link: https://www.imdb.com/title/tt0948470
-tags:
-- movies
+tags: []
 title: O Espetacular Homem-Aranha
 ---
 

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2012-03-14'
 link: https://www.imdb.com/title/tt1706593
-tags:
-- movies
+tags: []
 title: Poder sem Limites
 ---
 

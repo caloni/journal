@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2020-11-01'
 link: https://www.imdb.com/title/tt11394182
 tags:
 - cinemaqui
-- movies
 title: Feels Good Man
 ---
 

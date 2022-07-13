@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
+- movies
 date: '2021-10-14T22:22:14-03:00'
 tags:
-- movies
 - cinemaqui
 title: Armugan
 ---

@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2021-08-26T22:50:02-03:00'
-tags:
 - beer
+date: '2021-08-26T22:50:02-03:00'
+tags: []
 title: Aventinus Eisbock da Schneider Weisse
 ---
 

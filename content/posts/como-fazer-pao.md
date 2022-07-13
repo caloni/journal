@@ -1,9 +1,8 @@
 ---
 categories:
-- blog
-date: '2022-02-06'
-tags:
 - recipes
+date: '2022-02-06'
+tags: []
 title: Como fazer pão
 ---
 
@@ -232,4 +231,3 @@ Sim, ele é um tipo de pão: festivo, doce, aromático e, quando feito com paci�
  - 2022-06-13 Voltando a fazer pão francês com uma receita simples: 100g de farinha em autólise por quase 10 horas com 50% de água. Esponja de fermento com 10g de farinha mais 10g de água e uma colher de café de fermento. A mesma colher de açúcar, manteiga e sal. Sovei e ia modelar, mas dessa vez deixei crescer demais a massa antes e ficou tarde pra assar. Deixei na geladeira e no dia seguinte voltou a crescer em temperatura ambiente. Coloquei no forno com papel alumínio e bastante umidade, mas por ter colocado na temperatura máxima (acho) queimou na parte de baixo. Cresceu até que bem. Na hora de modelar fiz apenas uma dobra. Posso manter essa base com mais dobras, sem esperar crescer e colocar na geladeira quando estiver próximo do tamanho ideal. O corte também saiu meio fraco demais, mas ainda está difícil fazer o corte e não murchar a massa.
 
  - 2022-06-19 Fiz a receita da última massa de pizza que tinha feito e segui à risca os passos para fazer no próprio dia com fermento instantâneo em um dia frio. Comecei antes das 14h e estava colocando para assar depois das 18h. A massa ficou boa, não inchou e assou bem. Só achei crocante demais. Devo usar menos azeite da próxima vez.
-

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- reading
 date: '2020-10-11'
 link: /text/a-propriedade-e-um-roubo.txt
-tags:
-- reading
+tags: []
 title: A Propriedade é um Roubo
 ---
 

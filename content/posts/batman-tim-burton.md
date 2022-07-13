@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2014-12-01'
 link: https://www.imdb.com/title/tt0096895
-tags:
-- movies
+tags: []
 title: Batman
 ---
 

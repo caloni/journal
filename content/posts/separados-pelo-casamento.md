@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2014-01-13'
 link: https://www.imdb.com/title/tt0452594
-tags:
-- movies
+tags: []
 title: Separados pelo Casamento
 ---
 

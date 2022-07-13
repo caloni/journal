@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2020-04-15'
 link: https://www.imdb.com/title/tt0243133
-tags:
-- movies
+tags: []
 title: O Homem que Não Estava Lá
 ---
 

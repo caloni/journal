@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2015-08-30'
-tags:
 - food
+date: '2015-08-30'
+tags: []
 title: Blend Paraná e Piatã
 ---
 

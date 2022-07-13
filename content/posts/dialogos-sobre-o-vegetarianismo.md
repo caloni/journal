@@ -1,9 +1,8 @@
 ---
 categories:
-- blog
-date: '2019-02-03'
-tags:
 - reading
+date: '2019-02-03'
+tags: []
 title: Diálogos Sobre o Vegetarianismo
 ---
 

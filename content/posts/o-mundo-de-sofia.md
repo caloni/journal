@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2016-11-03'
-tags:
 - books
+date: '2016-11-03'
+tags: []
 title: O Mundo de Sofia
 ---
 

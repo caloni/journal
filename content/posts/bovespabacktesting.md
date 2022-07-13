@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2014-01-08'
 link: https://github.com/Caloni/money
 tags: null

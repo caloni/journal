@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2013-04-11'
 link: https://www.imdb.com/title/tt2231208
-tags:
-- movies
+tags: []
 title: Uma História de Amor e Fúria
 ---
 

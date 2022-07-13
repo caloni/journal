@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2012-10-08'
 link: https://www.imdb.com/title/tt0327056
-tags:
-- movies
+tags: []
 title: Sobre Meninos e Lobos
 ---
 

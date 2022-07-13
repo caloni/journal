@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2015-03-01'
-tags:
 - food
+date: '2015-03-01'
+tags: []
 title: Luna Benegas Cabernet Sauvignon 2011
 ---
 

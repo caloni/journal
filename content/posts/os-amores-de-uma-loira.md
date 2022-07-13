@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2022-03-17T22:52:17-03:00'
-tags:
 - movies
+date: '2022-03-17T22:52:17-03:00'
+tags: []
 title: Os Amores de Uma Loira
 ---
 

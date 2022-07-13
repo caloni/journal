@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2018-04-11'
 link: https://www.imdb.com/title/tt4652650
 tags:
 - cinemaqui
-- movies
 title: Tudo que Quero
 ---
 

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2018-02-26'
 link: https://www.imdb.com/title/tt4555426
-tags:
-- movies
+tags: []
 title: O Destino de uma Nação
 ---
 

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2012-06-15'
 link: https://www.imdb.com/title/tt0041998
-tags:
-- movies
+tags: []
 title: Sede de Paixões
 ---
 

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2020-02-16'
 link: https://www.imdb.com/title/tt0108432
-tags:
-- movies
+tags: []
 title: Eu Posso Ouvir o Oceano
 ---
 

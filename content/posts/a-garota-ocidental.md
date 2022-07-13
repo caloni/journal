@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2017-06-21'
 link: https://www.imdb.com/title/tt5771640
 tags:
 - cinemaqui
-- movies
 title: A Garota Ocidental - Entre o Coração e a Tradição
 ---
 

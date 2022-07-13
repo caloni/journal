@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- series
 date: '2018-12-16'
 link: https://www.imdb.com/title/tt2513228
-tags:
-- series
+tags: []
 title: 'Derren Brown: Apocalypse'
 ---
 

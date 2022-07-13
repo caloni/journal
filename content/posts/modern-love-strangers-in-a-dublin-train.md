@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2022-02-22T21:29:30-03:00'
-tags:
 - series
+date: '2022-02-22T21:29:30-03:00'
+tags: []
 title: 'Modern Love S02 E03: Strangers in a Dublin Train'
 ---
 

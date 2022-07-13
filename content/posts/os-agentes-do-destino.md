@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2011-05-19'
 link: https://www.imdb.com/title/tt1385826
-tags:
-- movies
+tags: []
 title: Os Agentes do Destino
 ---
 

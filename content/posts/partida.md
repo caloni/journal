@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-10-23'
 tags:
 - cinemaqui
-- movies
 title: Partida
 ---
 

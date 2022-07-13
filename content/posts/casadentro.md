@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2015-06-22'
 link: https://www.imdb.com/title/tt2174934
 tags:
 - cinemaqui
-- movies
 title: Casadentro
 ---
 

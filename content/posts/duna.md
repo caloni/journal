@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2021-11-23T20:27:37-03:00'
-tags:
 - movies
+date: '2021-11-23T20:27:37-03:00'
+tags: []
 title: Duna
 ---
 

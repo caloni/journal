@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2017-02-01'
 tags: null
 title: Por onde você acessa este blogue?

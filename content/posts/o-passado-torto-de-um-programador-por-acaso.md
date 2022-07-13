@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2007-09-06'
 title: O passado torto de um programador por acaso
 ---

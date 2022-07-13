@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2015-03-19'
 link: https://www.imdb.com/title/tt2172584
 tags:
 - cinemaqui
-- movies
 title: Mapas para as Estrelas
 ---
 

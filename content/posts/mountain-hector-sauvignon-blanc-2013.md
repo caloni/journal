@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2014-12-24'
-tags:
 - food
+date: '2014-12-24'
+tags: []
 title: Mountain Hector Sauvignon Blanc 2013
 ---
 

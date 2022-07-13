@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2016-09-04'
 link: https://www.imdb.com/title/tt3647498
 tags:
 - cinemaqui
-- movies
 title: Herança de Sangue
 ---
 

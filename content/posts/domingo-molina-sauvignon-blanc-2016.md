@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2017-12-20'
-tags:
 - food
+date: '2017-12-20'
+tags: []
 title: Domingo Molina Sauvignon Blanc 2016
 ---
 

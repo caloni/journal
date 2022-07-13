@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-12-27T18:22:00-03:00'
 link: https://www.imdb.com/title/tt0304141
-tags:
-- movies
+tags: []
 title: Harry Potter e o Prisioneiro de Azkaban
 ---
 

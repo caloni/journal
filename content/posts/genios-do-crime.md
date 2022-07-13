@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2016-08-12'
 link: https://www.imdb.com/title/tt2461150
 tags:
 - cinemaqui
-- movies
 title: Gênios do Crime
 ---
 

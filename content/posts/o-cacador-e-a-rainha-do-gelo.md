@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2018-07-01'
 link: https://www.imdb.com/title/tt2381991
-tags:
-- movies
+tags: []
 title: O Caçador e a Rainha do Gelo
 ---
 

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2010-04-30'
 link: https://www.imdb.com/title/tt1178663
-tags:
-- movies
+tags: []
 title: Tudo Pode Dar Certo
 ---
 

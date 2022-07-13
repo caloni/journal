@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2009-03-19'
 tags: null
 title: Provas de conceito... yes!

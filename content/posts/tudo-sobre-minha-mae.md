@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2011-12-31'
 link: https://www.imdb.com/title/tt0185125
-tags:
-- movies
+tags: []
 title: Tudo Sobre Minha Mãe
 ---
 

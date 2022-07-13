@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2015-09-20'
 link: https://www.imdb.com/title/tt2625598
-tags:
-- movies
+tags: []
 title: Vivendo Com Um Dólar
 ---
 

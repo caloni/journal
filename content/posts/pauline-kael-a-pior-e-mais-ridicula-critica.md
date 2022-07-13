@@ -1,9 +1,8 @@
 ---
 categories:
-- blog
-date: '2018-05-07'
-tags:
 - movies
+date: '2018-05-07'
+tags: []
 title: A Pior e Mais Ridícula Crítica de Todos os Tempos
 ---
 

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2014-01-11'
 link: https://www.imdb.com/title/tt0427392
-tags:
-- movies
+tags: []
 title: Invasores
 ---
 

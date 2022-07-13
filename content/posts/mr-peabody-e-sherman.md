@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2015-01-01'
 link: https://www.imdb.com/title/tt0864835
-tags:
-- movies
+tags: []
 title: As Aventuras de Peabody & Sherman
 ---
 

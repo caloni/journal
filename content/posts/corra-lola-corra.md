@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-04-27'
 link: https://www.imdb.com/title/tt0130827
-tags:
-- movies
+tags: []
 title: Corra, Lola, Corra
 ---
 

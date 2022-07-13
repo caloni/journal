@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2018-11-18'
 link: https://www.imdb.com/title/tt5164214
-tags:
-- movies
+tags: []
 title: Oito Mulheres e Um Segredo
 ---
 

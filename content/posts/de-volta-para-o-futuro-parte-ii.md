@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2016-03-20'
 link: https://www.imdb.com/title/tt0096874
-tags:
-- movies
+tags: []
 title: De Volta para o Futuro II
 ---
 

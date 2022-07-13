@@ -1,9 +1,8 @@
 ---
 categories:
-- blog
-date: '2019-07-20'
-tags:
 - movies
+date: '2019-07-20'
+tags: []
 title: Anti-Spoilers e o Escudo Pró-Hype
 ---
 

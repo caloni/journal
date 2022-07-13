@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2012-09-03'
 link: https://www.imdb.com/title/tt1415283
-tags:
-- movies
+tags: []
 title: Nanny McPhee e as Lições Mágicas
 ---
 

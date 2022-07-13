@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2014-12-24'
 link: https://www.imdb.com/title/tt0092067
-tags:
-- movies
+tags: []
 title: O Castelo no Céu
 ---
 

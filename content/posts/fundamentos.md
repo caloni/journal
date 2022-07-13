@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2015-10-21'
 tags: null
 title: Fundamentos

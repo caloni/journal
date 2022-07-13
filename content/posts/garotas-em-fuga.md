@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2018-10-16'
 link: https://www.imdb.com/title/tt8633250
 tags:
 - cinemaqui
-- movies
 title: Garotas em Fuga
 ---
 

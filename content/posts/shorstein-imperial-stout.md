@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
-date: '2016-05-29'
-tags:
 - beer
 - food
+date: '2016-05-29'
+tags: []
 title: Shorstein Imperial Stout
 ---
 

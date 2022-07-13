@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2016-10-05'
 tags: null
 title: Guardando senhas com Vim

@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2015-08-23'
 link: https://www.imdb.com/title/tt3108662
 tags:
 - cinemaqui
-- movies
 title: Entrando Numa Roubada
 ---
 

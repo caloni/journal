@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
-date: '2019-05-11'
-tags:
 - wine
 - food
+date: '2019-05-11'
+tags: []
 title: Zorro Y Arena
 ---
 

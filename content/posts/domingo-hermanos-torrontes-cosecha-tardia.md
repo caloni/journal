@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2017-05-10'
-tags:
 - food
+date: '2017-05-10'
+tags: []
 title: Domingo Hermanos Torrontes Cosecha Tardia
 ---
 

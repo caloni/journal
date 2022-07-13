@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2012-07-21'
 link: https://www.imdb.com/title/tt1667889
-tags:
-- movies
+tags: []
 title: A Era do Gelo 4
 ---
 

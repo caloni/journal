@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-11-11'
 link: https://www.imdb.com/title/tt0116629
-tags:
-- movies
+tags: []
 title: Independence Day
 ---
 

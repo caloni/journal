@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-10-28'
 tags:
 - cinemaqui
-- movies
 title: O Paradoxo da Democracia
 ---
 

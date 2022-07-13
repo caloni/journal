@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2016-12-03'
 link: https://www.imdb.com/title/tt4686692
 tags:
 - cinemaqui
-- movies
 title: O Ídolo
 ---
 

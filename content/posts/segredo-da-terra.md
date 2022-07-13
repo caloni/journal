@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2018-09-21'
-tags:
 - food
+date: '2018-09-21'
+tags: []
 title: Segredo da Terra
 ---
 

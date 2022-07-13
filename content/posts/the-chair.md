@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2021-09-03T21:52:16-03:00'
-tags:
 - series
+date: '2021-09-03T21:52:16-03:00'
+tags: []
 title: The Chair
 ---
 

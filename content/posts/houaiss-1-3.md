@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2011-04-28'
 link: https://github.com/Caloni/HouaissParaBabylon
 tags: null

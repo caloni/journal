@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2013-05-03'
 link: https://www.imdb.com/title/tt1300854
-tags:
-- movies
+tags: []
 title: Homem de Ferro 3
 ---
 

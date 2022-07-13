@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2016-01-13'
-tags:
 - food
+date: '2016-01-13'
+tags: []
 title: Blend Melitta e Café dos Reis
 ---
 

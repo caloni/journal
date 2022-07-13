@@ -1,9 +1,8 @@
 ---
 categories:
-- blog
-date: '2020-01-04'
-tags:
 - recipes
+date: '2020-01-04'
+tags: []
 title: Suspiro
 ---
 

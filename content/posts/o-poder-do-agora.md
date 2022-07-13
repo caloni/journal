@@ -1,9 +1,8 @@
 ---
 categories:
-- blog
-date: '2015-06-29'
-tags:
 - books
+date: '2015-06-29'
+tags: []
 title: O Poder do Agora
 ---
 

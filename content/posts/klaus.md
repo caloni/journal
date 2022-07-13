@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-12-08'
 link: https://www.imdb.com/title/tt4729430
-tags:
-- movies
+tags: []
 title: Klaus
 ---
 

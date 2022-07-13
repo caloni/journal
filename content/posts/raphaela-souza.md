@@ -1,9 +1,8 @@
 ---
 categories:
-- blog
-date: '2021-06-30T09:01:00-03:00'
-tags:
 - movies
+date: '2021-06-30T09:01:00-03:00'
+tags: []
 title: Raphaela Souza de O Quarto Nerd
 ---
 

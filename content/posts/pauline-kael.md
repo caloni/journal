@@ -1,10 +1,9 @@
 ---
 categories:
-- blog
-date: '2020-07-12'
-tags:
-- quotes
 - movies
+- quotes
+date: '2020-07-12'
+tags: []
 title: Pauline Kael
 ---
 

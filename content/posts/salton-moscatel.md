@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
-date: '2020-12-27'
-link: https://www.vivino.com/salton-moscatel/w/1129909
-tags:
 - wine
 - food
+date: '2020-12-27'
+link: https://www.vivino.com/salton-moscatel/w/1129909
+tags: []
 title: Salton Moscatel
 ---
 

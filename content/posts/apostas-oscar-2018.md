@@ -1,9 +1,8 @@
 ---
 categories:
-- blog
-date: '2018-03-05'
-tags:
 - movies
+date: '2018-03-05'
+tags: []
 title: Apostas Oscar 2018 (com resultados)
 ---
 

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- animes
 date: '2021-05-04'
 link: https://www.imdb.com/title/tt12343534
-tags:
-- animes
+tags: []
 title: Jujutsu Kaisen
 ---
 

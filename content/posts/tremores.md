@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-10-26'
 link: https://www.imdb.com/title/tt7128732
 tags:
 - cinemaqui
-- movies
 title: Tremores
 ---
 

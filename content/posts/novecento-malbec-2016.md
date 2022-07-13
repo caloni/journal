@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2017-01-15'
-tags:
 - food
+date: '2017-01-15'
+tags: []
 title: Novecento Malbec 2016
 ---
 

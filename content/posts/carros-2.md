@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2011-07-20'
 link: https://www.imdb.com/title/tt1216475
-tags:
-- movies
+tags: []
 title: Carros 2
 ---
 

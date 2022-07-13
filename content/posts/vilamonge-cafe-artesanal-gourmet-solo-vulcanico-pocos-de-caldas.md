@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2017-09-11'
-tags:
 - food
+date: '2017-09-11'
+tags: []
 title: Vilamonge Café Artesanal Gourmet Solo Vulcânico Poços de Caldas
 ---
 

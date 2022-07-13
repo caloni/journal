@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2011-04-07'
 link: https://www.imdb.com/title/tt0399295
-tags:
-- movies
+tags: []
 title: O Senhor das Armas
 ---
 

@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2021-06-26T22:23:00-03:00'
-tags:
 - food
+date: '2021-06-26T22:23:00-03:00'
+tags: []
 title: Sorveteria Banana da Terra em Morretes
 ---
 

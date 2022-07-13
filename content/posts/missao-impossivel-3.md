@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-03-18'
 link: https://www.imdb.com/title/tt0317919
-tags:
-- movies
+tags: []
 title: 'Missão Impossível: 3'
 ---
 

@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2017-12-14'
 link: https://www.imdb.com/title/tt2720826
 tags:
 - cinemaqui
-- movies
 title: A Origem do Dragão
 ---
 

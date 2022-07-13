@@ -1,9 +1,8 @@
 ---
 categories:
-- blog
-date: '2021-09-19T11:29:07-03:00'
-tags:
 - beer
+date: '2021-09-19T11:29:07-03:00'
+tags: []
 title: Stout da Container
 ---
 

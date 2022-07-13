@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2015-04-27'
 tags:
 - ccpp

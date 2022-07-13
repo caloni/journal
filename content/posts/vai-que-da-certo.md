@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2013-04-08'
 link: https://www.imdb.com/title/tt2220408
-tags:
-- movies
+tags: []
 title: Vai que dá Certo
 ---
 

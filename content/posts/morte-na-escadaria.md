@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- series
 date: '2018-06-25'
 link: https://www.imdb.com/title/tt0388644
-tags:
-- series
+tags: []
 title: Morte na Escadaria (Staircase)
 ---
 

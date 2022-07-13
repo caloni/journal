@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2010-04-01'
 tags: null
 title: Antigo bem-vindo do Cine Tênis Verde

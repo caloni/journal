@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2009-07-20'
 title: À procura de vida extraterrestre
 ---

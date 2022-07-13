@@ -1,10 +1,9 @@
 ---
 categories:
-- blog
+- reading
 date: '2017-06-27'
 link: https://rintintin.colorado.edu/~vancecd/phil3600/Huemer1.pdf
-tags:
-- reading
+tags: []
 title: Why People Are Irrational about Politics
 ---
 

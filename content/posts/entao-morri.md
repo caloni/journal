@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2016-11-02'
-tags:
 - movies
+date: '2016-11-02'
+tags: []
 title: Então Morri
 ---
 

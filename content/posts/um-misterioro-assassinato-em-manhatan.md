@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2012-05-14'
 link: https://www.imdb.com/title/tt0107507
-tags:
-- movies
+tags: []
 title: Um Misterioso Assassinato em Manhattan
 ---
 

@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2017-12-03'
 link: https://www.imdb.com/title/tt5818818
 tags:
 - cinemaqui
-- movies
 title: Mulheres Divinas
 ---
 

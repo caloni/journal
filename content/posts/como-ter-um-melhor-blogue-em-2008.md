@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2008-01-08'
 title: Como ter um melhor blogue em 2008
 ---

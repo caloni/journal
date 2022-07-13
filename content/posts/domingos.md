@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2011-11-28'
-tags:
 - movies
+date: '2011-11-28'
+tags: []
 title: Domingos
 ---
 

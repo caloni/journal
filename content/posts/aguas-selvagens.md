@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
+- movies
 date: '2022-05-05T18:39:40-03:00'
 tags:
-- movies
 - cinemaqui
 title: Águas Selvagens
 ---

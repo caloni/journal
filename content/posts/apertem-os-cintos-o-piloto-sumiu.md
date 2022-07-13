@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2014-09-24'
 link: https://www.imdb.com/title/tt0080339
-tags:
-- movies
+tags: []
 title: Apertem os Cintos, o Piloto Sumiu
 ---
 

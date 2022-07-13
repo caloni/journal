@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2022-01-14T22:34:43-03:00'
-tags:
 - coffee
+date: '2022-01-14T22:34:43-03:00'
+tags: []
 title: Sete Quedas
 ---
 

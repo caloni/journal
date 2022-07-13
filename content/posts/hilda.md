@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- series
 date: '2021-05-28'
 link: https://www.imdb.com/title/tt6385540
 tags:
-- series
 - animation
 title: Hilda
 ---

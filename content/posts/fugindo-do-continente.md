@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- series
 date: '2018-07-01'
 link: https://www.imdb.com/title/tt3641246
-tags:
-- series
+tags: []
 title: Fugindo do Continente
 ---
 

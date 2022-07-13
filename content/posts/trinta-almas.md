@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2018-10-26'
 link: https://www.imdb.com/title/tt3886454
 tags:
 - cinemaqui
-- movies
 title: Trinta Almas
 ---
 

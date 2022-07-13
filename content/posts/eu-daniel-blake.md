@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2016-12-20'
 link: https://www.imdb.com/title/tt5168192
 tags:
 - cinemaqui
-- movies
 title: Eu, Daniel Blake
 ---
 

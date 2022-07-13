@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2016-11-02'
 link: https://www.imdb.com/title/tt3917908
-tags:
-- movies
+tags: []
 title: Um Homem Insignificante
 ---
 

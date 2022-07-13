@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-08-10'
 link: https://www.imdb.com/title/tt0087928
-tags:
-- movies
+tags: []
 title: Loucademia de Polícia
 ---
 

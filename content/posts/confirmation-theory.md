@@ -1,10 +1,9 @@
 ---
 categories:
-- blog
+- reading
 date: '2017-06-27'
 link: https://spot.colorado.edu/~huemer/papers/confirm.htm
-tags:
-- reading
+tags: []
 title: 'Confirmation Theory: Hume''s Refutation of Induction'
 ---
 

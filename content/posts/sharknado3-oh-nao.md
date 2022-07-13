@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2018-03-18'
 link: https://www.imdb.com/title/tt3899796
-tags:
-- movies
+tags: []
 title: Sharknado 3
 ---
 

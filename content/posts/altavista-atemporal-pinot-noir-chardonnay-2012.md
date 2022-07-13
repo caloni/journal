@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2014-12-31'
-tags:
 - food
+date: '2014-12-31'
+tags: []
 title: Altavista Atemporal Pinot Noir/Chardonnay 2012
 ---
 

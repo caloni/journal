@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-10-09'
 link: https://www.imdb.com/title/tt6616336
 tags:
 - cinemaqui
-- movies
 title: Hálito Azul
 ---
 

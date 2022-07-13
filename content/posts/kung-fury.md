@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2015-10-29'
 link: https://www.imdb.com/title/tt3472226
-tags:
-- movies
+tags: []
 title: Kung Fury
 ---
 

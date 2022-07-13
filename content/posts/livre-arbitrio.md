@@ -1,10 +1,9 @@
 ---
 categories:
-- blog
+- reading
 date: '2017-05-28'
 link: https://www.owl232.net/papers/fwill.htm
-tags:
-- reading
+tags: []
 title: Uma prova simples e modesta da existência do livre-arbítrio
 ---
 

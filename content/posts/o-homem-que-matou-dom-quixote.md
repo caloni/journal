@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2018-10-26'
 link: https://www.imdb.com/title/tt1318517
 tags:
 - cinemaqui
-- movies
 title: O Homem Que Matou Dom Quixote
 ---
 

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- series
 date: '2021-06-12'
 link: 'null'
-tags:
-- series
+tags: []
 title: Lúcifer
 ---
 

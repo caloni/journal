@@ -1,10 +1,9 @@
 ---
 categories:
-- blog
-date: '2021-10-16T12:39:56-03:00'
-tags:
-- quotes
 - movies
+- quotes
+date: '2021-10-16T12:39:56-03:00'
+tags: []
 title: Harold Rosenberg
 ---
 

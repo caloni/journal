@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2015-12-10'
-tags:
 - food
+date: '2015-12-10'
+tags: []
 title: Tarapaca Cabernet Carmenére 2013
 ---
 

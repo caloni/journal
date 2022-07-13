@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2021-06-26T21:06:00-03:00'
-tags:
 - movies
+date: '2021-06-26T21:06:00-03:00'
+tags: []
 title: Bagdad Café
 ---
 

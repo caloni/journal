@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2017-02-09'
 tags: null
 title: 'UEFI: dê adeus à MBR'

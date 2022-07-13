@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2008-08-15'
 tags: null
 title: Duas pequenas dicas para programar no caos

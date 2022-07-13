@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2015-06-04'
 link: https://www.imdb.com/title/tt1816518
-tags:
-- movies
+tags: []
 title: Ernest and Célestine
 ---
 

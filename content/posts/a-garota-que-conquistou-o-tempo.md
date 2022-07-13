@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-04-22'
 link: https://www.imdb.com/title/tt0808506
-tags:
-- movies
+tags: []
 title: A Garota Que Conquistou O Tempo
 ---
 

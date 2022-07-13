@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- series
 date: '2016-10-23T20:00:00-03:00'
 link: https://www.imdb.com/title/tt5497778
-tags:
-- series
+tags: []
 title: Black Mirror - S03E01 - Nosedive
 ---
 

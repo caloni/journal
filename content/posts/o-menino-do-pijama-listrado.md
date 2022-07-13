@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2012-10-21'
 link: https://www.imdb.com/title/tt0914798
-tags:
-- movies
+tags: []
 title: O Menino do Pijama Listrado
 ---
 

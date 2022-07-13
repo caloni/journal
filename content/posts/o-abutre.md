@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2015-04-30'
 link: https://www.imdb.com/title/tt2872718
-tags:
-- movies
+tags: []
 title: O Abutre
 ---
 

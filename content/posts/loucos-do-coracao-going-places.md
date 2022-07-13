@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2022-04-26T22:45:13-03:00'
-tags:
 - movies
+date: '2022-04-26T22:45:13-03:00'
+tags: []
 title: Loucos do Coração (Going Places)
 ---
 

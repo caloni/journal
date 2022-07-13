@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2015-06-29'
 link: https://www.imdb.com/title/tt2630336
-tags:
-- movies
+tags: []
 title: O Mordomo de Preto
 ---
 

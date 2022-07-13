@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-01-20'
 link: https://www.imdb.com/title/tt0428803
-tags:
-- movies
+tags: []
 title: A Marcha dos Pinguins
 ---
 

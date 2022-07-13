@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- series
+- animes
 date: '2020-07-11'
 link: https://www.imdb.com/title/tt0434665
-tags:
-- animes
-- series
+tags: []
 title: Bleach
 ---
 

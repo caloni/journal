@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2011-05-01'
 link: https://www.imdb.com/title/tt1411704
-tags:
-- movies
+tags: []
 title: Hop Rebeldes sem Páscoa
 ---
 

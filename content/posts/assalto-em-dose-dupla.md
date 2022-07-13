@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2011-11-28'
 link: https://www.imdb.com/title/tt1541160
-tags:
-- movies
+tags: []
 title: Assalto em Dose Dupla
 ---
 

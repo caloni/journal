@@ -1,10 +1,9 @@
 ---
 categories:
-- blog
+- reading
 date: '2019-02-03'
 link: https://www.newyorker.com/magazine/2017/02/27/why-facts-dont-change-our-minds
-tags:
-- reading
+tags: []
 title: Why Facts Don't Change Our Minds
 ---
 

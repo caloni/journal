@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2016-10-21'
 link: https://www.imdb.com/title/tt3757648
-tags:
-- movies
+tags: []
 title: Tempestade
 ---
 

@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2017-05-16'
-tags:
 - food
+date: '2017-05-16'
+tags: []
 title: Amalaya Gran Corte 2013
 ---
 

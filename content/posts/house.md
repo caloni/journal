@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2010-01-25'
 tags: null
 title: House

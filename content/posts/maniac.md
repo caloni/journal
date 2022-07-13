@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- series
 date: '2018-09-30'
 link: https://www.imdb.com/title/tt5580146
-tags:
-- series
+tags: []
 title: Maniac
 ---
 

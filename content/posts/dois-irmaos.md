@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2010-10-08'
 link: https://www.imdb.com/title/tt1576382
-tags:
-- movies
+tags: []
 title: Dois Irmãos
 ---
 

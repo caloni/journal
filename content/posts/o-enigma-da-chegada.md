@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
+- movies
 date: '2021-11-17T19:43:31-03:00'
 tags:
-- movies
 - cinemaqui
 title: O Enigma da Chegada
 ---

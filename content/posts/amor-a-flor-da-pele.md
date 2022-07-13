@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-08-24'
 link: https://www.imdb.com/title/tt0118694
-tags:
-- movies
+tags: []
 title: Amor à Flor da Pele
 ---
 

@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
+- movies
 date: '2021-10-31T21:14:53-03:00'
 tags:
-- movies
 - cinemaqui
 title: Fogo nas Montanhas
 ---

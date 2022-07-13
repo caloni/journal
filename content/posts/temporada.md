@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-01-11'
 link: https://www.imdb.com/title/tt8731138
 tags:
 - cinemaqui
-- movies
 title: Temporada
 ---
 

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2011-10-23'
 link: https://www.imdb.com/title/tt2166420
-tags:
-- movies
+tags: []
 title: O Manuscrito Perdido
 ---
 

@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2014-12-31'
-tags:
 - food
+date: '2014-12-31'
+tags: []
 title: Cepas Nobles Tannat 2009
 ---
 

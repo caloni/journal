@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2017-03-26'
 link: https://www.imdb.com/title/tt3312868
-tags:
-- movies
+tags: []
 title: Deep Web
 ---
 

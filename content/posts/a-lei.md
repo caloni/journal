@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
+- movies
 date: '2021-10-31T13:25:32-03:00'
 tags:
-- movies
 - cinemaqui
 title: A Lei
 ---

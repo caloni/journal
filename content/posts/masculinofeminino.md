@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2016-02-19'
 link: https://www.imdb.com/title/tt0060675
-tags:
-- movies
+tags: []
 title: Masculino-Feminino
 ---
 

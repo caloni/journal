@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2011-07-07'
 tags: null
 title: E foi-se o TDC

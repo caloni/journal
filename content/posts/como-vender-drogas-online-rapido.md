@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- series
 date: '2019-06-09'
 link: https://www.imdb.com/title/tt9184994
-tags:
-- series
+tags: []
 title: Como Vender Drogas Online (Rápido)
 ---
 

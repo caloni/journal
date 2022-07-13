@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2014-05-13'
 tags: null
 title: 50 Anos de BASIC

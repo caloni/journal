@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- series
 date: '2017-06-05'
 link: https://www.imdb.com/title/tt1856010
-tags:
-- series
+tags: []
 title: House of Cards - Quinta Temporada
 ---
 

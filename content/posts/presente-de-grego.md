@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2014-05-02'
 link: https://www.imdb.com/title/tt0092605
-tags:
-- movies
+tags: []
 title: Presente de Grego
 ---
 

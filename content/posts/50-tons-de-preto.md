@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2016-02-19'
 link: https://www.imdb.com/title/tt4667094
 tags:
 - cinemaqui
-- movies
 title: 50 Tons de Preto
 ---
 

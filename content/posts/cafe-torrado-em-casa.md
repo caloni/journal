@@ -1,9 +1,8 @@
 ---
 categories:
-- blog
-date: '2022-02-15T22:29:13-03:00'
-tags:
 - coffee
+date: '2022-02-15T22:29:13-03:00'
+tags: []
 title: Café Verde Torrado em Casa
 ---
 

@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2022-03-02T12:15:30-03:00'
-tags:
 - movies
+date: '2022-03-02T12:15:30-03:00'
+tags: []
 title: Luca
 ---
 

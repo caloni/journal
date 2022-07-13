@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- series
 date: '2014-02-22'
 link: https://www.imdb.com/title/tt1212452
-tags:
-- series
+tags: []
 title: Saco de Ossos
 ---
 

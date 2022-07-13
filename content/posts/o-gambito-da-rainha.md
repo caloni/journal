@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- series
 date: '2020-11-14'
 link: https://www.imdb.com/title/tt10048342
-tags:
-- series
+tags: []
 title: O Gambito da Rainha
 ---
 

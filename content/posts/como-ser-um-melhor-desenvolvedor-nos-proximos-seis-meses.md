@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2007-07-18'
 title: Como ser um melhor desenvolvedor nos próximos seis meses
 ---

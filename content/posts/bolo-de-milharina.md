@@ -1,9 +1,8 @@
 ---
 categories:
-- blog
-date: '2022-04-06T15:34:18-03:00'
-tags:
 - recipes
+date: '2022-04-06T15:34:18-03:00'
+tags: []
 title: Bolo de Milharina
 ---
 

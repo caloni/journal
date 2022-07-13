@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- series
 date: '2017-08-21'
 link: https://www.imdb.com/title/tt4326894
 tags:
-- series
 - animation
 title: F is for Family - Segunda Temporada
 ---

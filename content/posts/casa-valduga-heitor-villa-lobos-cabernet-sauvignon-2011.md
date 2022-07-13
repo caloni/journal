@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2017-11-13'
-tags:
 - food
+date: '2017-11-13'
+tags: []
 title: Casa Valduga Heitor Villa-Lobos Cabernet Sauvignon 2011
 ---
 

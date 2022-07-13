@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2018-11-09'
 link: https://www.imdb.com/title/tt7472352
-tags:
-- movies
+tags: []
 title: 'Shirkers: O Filme Roubado'
 ---
 

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2016-07-28'
 link: https://www.imdb.com/title/tt1570728
-tags:
-- movies
+tags: []
 title: Amor a Toda Prova
 ---
 

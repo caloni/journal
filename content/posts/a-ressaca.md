@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2010-09-10'
 link: https://www.imdb.com/title/tt1231587
-tags:
-- movies
+tags: []
 title: A Ressaca
 ---
 

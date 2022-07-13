@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2017-02-13'
 tags: null
 title: Convertendo Windows de UEFI para MBR

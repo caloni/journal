@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2016-12-31'
-tags:
 - food
+date: '2016-12-31'
+tags: []
 title: Santa Rita 120 Reserva Especial Syrah 2014
 ---
 

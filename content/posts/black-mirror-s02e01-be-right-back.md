@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- series
 date: '2015-12-13'
 link: https://www.imdb.com/title/tt2085059
-tags:
-- series
+tags: []
 title: Black Mirror - S02E01 - Be Right Back
 ---
 

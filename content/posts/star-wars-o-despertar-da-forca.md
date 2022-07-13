@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-05-15'
 link: https://www.imdb.com/title/tt2488496
-tags:
-- movies
+tags: []
 title: 'Star Wars: O Despertar da Força'
 ---
 

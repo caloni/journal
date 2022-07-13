@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2011-06-10'
 tags: null
 title: Trilha de C++ organizada pelo grupo C/C++ Brasil

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2015-01-21'
 link: https://www.imdb.com/title/tt0067204
-tags:
-- movies
+tags: []
 title: Pistoleiro Sem Destino
 ---
 

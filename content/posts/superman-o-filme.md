@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2010-08-12'
 link: https://www.imdb.com/title/tt0078346
-tags:
-- movies
+tags: []
 title: 'Superman: O Filme'
 ---
 

@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2016-02-06'
 link: https://www.imdb.com/title/tt5026038
 tags:
 - cinemaqui
-- movies
 title: Reza a Lenda
 ---
 

@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2017-02-18'
-tags:
 - food
+date: '2017-02-18'
+tags: []
 title: Jean Bousquet Finca Lalande Malbec 2006
 ---
 

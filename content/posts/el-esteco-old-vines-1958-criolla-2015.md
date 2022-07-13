@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2017-05-17'
-tags:
 - food
+date: '2017-05-17'
+tags: []
 title: El Esteco Old Vines 1958 Criolla 2015
 ---
 

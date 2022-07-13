@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- series
 date: '2017-04-01'
 link: https://www.imdb.com/title/tt6724372
-tags:
-- series
+tags: []
 title: Netflix Live
 ---
 

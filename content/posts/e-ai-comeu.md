@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2012-06-25'
 link: https://www.imdb.com/title/tt2209400
-tags:
-- movies
+tags: []
 title: E Aí... Comeu?
 ---
 

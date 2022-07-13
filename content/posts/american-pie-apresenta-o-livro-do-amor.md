@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2014-06-13'
 link: https://www.imdb.com/title/tt1407050
-tags:
-- movies
+tags: []
 title: 'American Pie: O Livro do Amor'
 ---
 

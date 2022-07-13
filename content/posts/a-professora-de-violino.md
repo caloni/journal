@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
+- movies
 date: '2022-03-07T22:32:08-03:00'
 tags:
-- movies
 - cinemaqui
 title: A Professora de Violino
 ---

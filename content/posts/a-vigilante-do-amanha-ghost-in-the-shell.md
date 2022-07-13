@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2017-08-25'
 link: https://www.imdb.com/title/tt1219827
-tags:
-- movies
+tags: []
 title: 'A Vigilante do Amanhã: Ghost In The Shell'
 ---
 

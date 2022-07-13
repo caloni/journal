@@ -1,10 +1,9 @@
 ---
 categories:
-- blog
+- series
 date: '2021-12-15T20:10:00-03:00'
 tags:
 - lists
-- series
 title: House of Cards
 ---
 

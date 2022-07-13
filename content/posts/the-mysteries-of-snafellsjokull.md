@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2012-04-02'
 link: https://www.imdb.com/title/tt1508304
-tags:
-- movies
+tags: []
 title: Le mystère du Snæfellsjökull
 ---
 

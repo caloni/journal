@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2017-02-23'
 tags:
 - cinemaqui
-- movies
 title: Olhar Instigado
 ---
 

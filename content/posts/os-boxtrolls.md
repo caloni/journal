@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2014-12-23'
 link: https://www.imdb.com/title/tt0787474
 tags:
 - cinemaqui
-- movies
 title: Os Boxtrolls
 ---
 

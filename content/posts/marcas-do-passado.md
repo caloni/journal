@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2010-08-10'
 link: https://www.imdb.com/title/tt0432289
-tags:
-- movies
+tags: []
 title: Marcas do Passado
 ---
 

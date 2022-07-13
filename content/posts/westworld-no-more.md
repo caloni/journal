@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- series
 date: '2020-06-21'
 link: https://www.imdb.com/title/tt0475784
-tags:
-- series
+tags: []
 title: Westworld No More
 ---
 

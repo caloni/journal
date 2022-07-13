@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2022-01-31T20:50:28-03:00'
 tags:
 - cinemaqui
-- movies
 title: Mãe x Androides
 ---
 

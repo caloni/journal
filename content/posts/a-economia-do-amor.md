@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2016-11-21'
 link: https://www.imdb.com/title/tt4746484
 tags:
 - cinemaqui
-- movies
 title: A Economia do Amor
 ---
 

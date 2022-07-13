@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
-date: '2015-07-10'
-tags:
 - beer
 - food
+date: '2015-07-10'
+tags: []
 title: Serra Malte
 ---
 

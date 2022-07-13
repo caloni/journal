@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2015-11-22'
 link: https://www.imdb.com/title/tt2381249
-tags:
-- movies
+tags: []
 title: 'Missão: Impossível - Nação Secreta'
 ---
 

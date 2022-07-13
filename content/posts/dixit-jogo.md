@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2019-05-20'
 tags: null
 title: Dixit (Jogo)

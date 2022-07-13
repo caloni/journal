@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
-date: '2018-06-24'
-tags:
 - wine
 - food
+date: '2018-06-24'
+tags: []
 title: Domingo Molina Tannat 2014
 ---
 

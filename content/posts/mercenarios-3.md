@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2015-01-23'
 link: https://www.imdb.com/title/tt2333784
-tags:
-- movies
+tags: []
 title: Os Mercenários 3
 ---
 

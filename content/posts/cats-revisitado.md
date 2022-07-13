@@ -1,9 +1,8 @@
 ---
 categories:
-- blog
-date: '2022-04-01T14:09:24-03:00'
-tags:
 - movies
+date: '2022-04-01T14:09:24-03:00'
+tags: []
 title: Cats é obra de arte incompreendida
 ---
 

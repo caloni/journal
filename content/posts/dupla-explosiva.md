@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2017-08-24'
 link: https://www.imdb.com/title/tt1959563
 tags:
 - cinemaqui
-- movies
 title: Dupla Explosiva
 ---
 

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- animes
 date: '2021-05-15'
 link: https://www.imdb.com/title/tt8253044
-tags:
-- animes
+tags: []
 title: Hinamatsuri
 ---
 

@@ -1,9 +1,8 @@
 ---
 categories:
-- blog
-date: '2022-06-11T21:06:42-03:00'
-tags:
 - recipes
+date: '2022-06-11T21:06:42-03:00'
+tags: []
 title: Iogurte
 ---
 

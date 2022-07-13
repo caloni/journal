@@ -1,11 +1,10 @@
 ---
 categories:
-- blog
+- movies
 date: '2018-04-24'
 link: https://www.imdb.com/title/tt4154756
 tags:
 - cinemaqui
-- movies
 title: 'Hype da Prévia de Vingadores: Guerra Infinita'
 ---
 

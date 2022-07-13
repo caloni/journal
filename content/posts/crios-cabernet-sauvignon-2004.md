@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2015-03-23'
-tags:
 - food
+date: '2015-03-23'
+tags: []
 title: Crios Cabernet Sauvignon 2004
 ---
 

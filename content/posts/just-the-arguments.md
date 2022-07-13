@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2018-02-27'
-tags:
 - books
+date: '2018-02-27'
+tags: []
 title: Just the Arguments
 ---
 

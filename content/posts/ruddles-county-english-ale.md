@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
-date: '2018-08-08'
-tags:
 - beer
 - food
+date: '2018-08-08'
+tags: []
 title: Ruddles County English Ale
 ---
 

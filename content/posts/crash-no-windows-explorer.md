@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2016-03-01'
 tags: null
 title: Crash no Windows Explorer

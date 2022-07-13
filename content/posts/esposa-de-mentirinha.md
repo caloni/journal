@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2011-03-09'
 link: https://www.imdb.com/title/tt1564367
-tags:
-- movies
+tags: []
 title: Esposa de Mentirinha
 ---
 

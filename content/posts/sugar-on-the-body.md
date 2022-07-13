@@ -1,10 +1,9 @@
 ---
 categories:
-- blog
+- reading
 date: '2022-03-15T19:54:43-03:00'
 link: https://www.fbscience.com/Landmark/articles/10.2741/4704
-tags:
-- reading
+tags: []
 title: Impact of sugar on the body, brain, and behavior
 ---
 

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2015-08-07'
 link: https://www.imdb.com/title/tt2581244
-tags:
-- movies
+tags: []
 title: Vida Após Beth
 ---
 

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2014-04-09'
 link: https://www.imdb.com/title/tt1959490
-tags:
-- movies
+tags: []
 title: Noé
 ---
 

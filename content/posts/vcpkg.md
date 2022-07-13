@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2018-07-14'
 tags: null
 title: 'Vcpkg: gerenciador de libs c++ para Linux, Mac OS... e Windows!'

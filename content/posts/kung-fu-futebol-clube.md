@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2014-09-07'
 link: https://www.imdb.com/title/tt0286112
-tags:
-- movies
+tags: []
 title: Kung-Fu Futebol Clube
 ---
 

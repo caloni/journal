@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2011-05-25'
 link: https://www.imdb.com/title/tt1596343
-tags:
-- movies
+tags: []
 title: 'Velozes & Furiosos 5: Operação Rio'
 ---
 

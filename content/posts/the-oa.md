@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2021-12-28T22:25:39-03:00'
-tags:
 - series
+date: '2021-12-28T22:25:39-03:00'
+tags: []
 title: The OA
 ---
 

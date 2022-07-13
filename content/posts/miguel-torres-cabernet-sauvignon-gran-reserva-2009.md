@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2015-09-07'
-tags:
 - food
+date: '2015-09-07'
+tags: []
 title: Miguel Torres Cabernet Sauvignon Gran Reserva 2009
 ---
 

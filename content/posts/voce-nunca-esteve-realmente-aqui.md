@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2018-08-04'
 link: https://www.imdb.com/title/tt5742374
 tags:
 - cinemaqui
-- movies
 title: Você Nunca Esteve Realmente Aqui
 ---
 

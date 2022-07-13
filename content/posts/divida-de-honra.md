@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2015-01-20'
 link: https://www.imdb.com/title/tt2398231
 tags:
 - cinemaqui
-- movies
 title: Dívida de Honra
 ---
 

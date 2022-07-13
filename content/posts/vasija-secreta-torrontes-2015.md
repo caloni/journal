@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2017-05-11'
-tags:
 - food
+date: '2017-05-11'
+tags: []
 title: Vasija Secreta Torrontes 2015
 ---
 

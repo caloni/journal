@@ -1,11 +1,10 @@
 ---
 author: Wanderley Caloni
 categories:
-- blog
+- reading
 date: '2017-05-28'
 link: http://www.owl232.net/papers/qm.htm
-tags:
-- reading
+tags: []
 title: Física Quântica para Filósofos
 ---
 

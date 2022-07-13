@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2016-07-07'
 link: https://www.imdb.com/title/tt0316654
-tags:
-- movies
+tags: []
 title: Homem-Aranha 2
 ---
 

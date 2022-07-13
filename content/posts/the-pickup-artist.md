@@ -1,10 +1,9 @@
 ---
 categories:
-- blog
+- series
 date: '2022-07-12T20:54:53-03:00'
 tags:
 - draft
-- series
 title: The Pickup Artist
 ---
 

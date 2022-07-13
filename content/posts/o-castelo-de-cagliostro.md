@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-05-25'
 link: https://www.imdb.com/title/tt0079833
-tags:
-- movies
+tags: []
 title: O Castelo de Cagliostro
 ---
 

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- series
 date: '2016-04-07'
 link: https://www.imdb.com/title/tt3845232
-tags:
-- series
+tags: []
 title: 'Sherlock: The Abominable Bride'
 ---
 

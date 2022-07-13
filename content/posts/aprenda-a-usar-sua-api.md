@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2008-07-22'
 tags: null
 title: Aprenda a usar sua API

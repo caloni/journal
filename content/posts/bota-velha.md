@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
-date: '2020-10-11'
-tags:
 - wine
 - food
+date: '2020-10-11'
+tags: []
 title: Bota Velha
 ---
 

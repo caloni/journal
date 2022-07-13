@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2017-04-04'
-tags:
 - food
+date: '2017-04-04'
+tags: []
 title: Juan Carrau Tannat de Reserva 2014
 ---
 

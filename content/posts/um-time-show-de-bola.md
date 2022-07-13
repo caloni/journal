@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2013-04-12'
 link: https://www.imdb.com/title/tt1634003
-tags:
-- movies
+tags: []
 title: Um Time Show de Bola
 ---
 

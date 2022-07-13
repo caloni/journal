@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
-date: '2019-01-02'
-tags:
 - beer
 - food
+date: '2019-01-02'
+tags: []
 title: Vixnu
 ---
 

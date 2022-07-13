@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2012-11-04'
 link: https://www.imdb.com/title/tt0100802
-tags:
-- movies
+tags: []
 title: O Vingador do Futuro (1990)
 ---
 

@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2022-01-11T18:40:12-03:00'
-tags:
 - food
+date: '2022-01-11T18:40:12-03:00'
+tags: []
 title: Soroko
 ---
 

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2012-12-17'
 link: https://www.imdb.com/title/tt0903624
-tags:
-- movies
+tags: []
 title: 'O Hobbit: Uma Jornada Inesperada'
 ---
 

@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2016-02-02'
 link: https://www.imdb.com/title/tt3296658
 tags:
 - cinemaqui
-- movies
 title: A Ovelha Negra
 ---
 

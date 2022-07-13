@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2016-03-07'
 link: https://www.imdb.com/title/tt0780536
-tags:
-- movies
+tags: []
 title: Na Mira do Chefe
 ---
 

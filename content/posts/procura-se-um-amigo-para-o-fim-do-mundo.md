@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2014-12-20'
 link: https://www.imdb.com/title/tt1307068
-tags:
-- movies
+tags: []
 title: Procura-se um Amigo para o Fim do Mundo
 ---
 

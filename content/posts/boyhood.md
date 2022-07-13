@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2014-12-20'
 link: https://www.imdb.com/title/tt1065073
-tags:
-- movies
+tags: []
 title: 'Boyhood: Da Infância à Juventude'
 ---
 

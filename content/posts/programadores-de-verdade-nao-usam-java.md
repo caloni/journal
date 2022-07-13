@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2009-06-18'
 link: http://www.pbm.com/~lindahl/real.programmers.html
 tags: null

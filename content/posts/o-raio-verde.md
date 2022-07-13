@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2020-06-27'
 link: https://www.imdb.com/title/tt0091830
-tags:
-- movies
+tags: []
 title: O Raio Verde
 ---
 

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- series
 date: '2021-06-12'
 link: https://www.imdb.com/title/tt7720790
-tags:
-- series
+tags: []
 title: Forever
 ---
 

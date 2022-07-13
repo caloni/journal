@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2016-01-18'
 link: https://www.imdb.com/title/tt0056172
-tags:
-- movies
+tags: []
 title: Lawrence da Arábia
 ---
 

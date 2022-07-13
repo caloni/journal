@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
-date: '2020-04-26'
-tags:
-- recipes
 - food
+- recipes
+date: '2020-04-26'
+tags: []
 title: Aproveitando Fermento Natural
 ---
 

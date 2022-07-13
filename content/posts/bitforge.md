@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2014-07-03'
 tags: null
 title: Sobre a BitForge

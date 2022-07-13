@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2014-02-09'
 link: https://www.imdb.com/title/tt0100157
-tags:
-- movies
+tags: []
 title: Louca Obsessão
 ---
 

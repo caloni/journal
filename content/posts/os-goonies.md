@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2011-10-13'
 link: https://www.imdb.com/title/tt0089218
-tags:
-- movies
+tags: []
 title: Os Goonies
 ---
 

@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2011-03-22'
 link: http://zeribeiropena.wordpress.com/2011/03/21/dicionario-houaiss-e-babylon-no-kindle/#comment-3
 tags: null

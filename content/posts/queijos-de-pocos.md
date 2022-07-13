@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2022-01-11T18:39:32-03:00'
-tags:
 - food
+date: '2022-01-11T18:39:32-03:00'
+tags: []
 title: Queijos do Mercado Municipal de Poços
 ---
 

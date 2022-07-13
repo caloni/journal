@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2012-06-09'
 link: https://www.imdb.com/title/tt1120985
-tags:
-- movies
+tags: []
 title: Namorados para Sempre
 ---
 

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
-date: '2018-10-28'
-tags:
 - wine
 - food
+date: '2018-10-28'
+tags: []
 title: Quará Torrontes Dulce
 ---
 

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2020-04-07'
 link: https://www.imdb.com/title/tt0190590
-tags:
-- movies
+tags: []
 title: E Aí, Meu Irmão, Cadê Você?
 ---
 

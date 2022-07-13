@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2016-04-13'
 link: https://www.imdb.com/title/tt1714206
-tags:
-- movies
+tags: []
 title: O Maravilhoso Agora
 ---
 

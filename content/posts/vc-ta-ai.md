@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2010-11-01'
 link: https://www.imdb.com/title/tt1443518
-tags:
-- movies
+tags: []
 title: Vc Tá Aí?
 ---
 

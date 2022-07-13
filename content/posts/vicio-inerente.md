@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2015-03-27'
 link: https://www.imdb.com/title/tt1791528
 tags:
 - cinemaqui
-- movies
 title: Vício Inerente
 ---
 

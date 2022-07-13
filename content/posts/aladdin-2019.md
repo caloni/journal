@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-05-22'
 link: https://www.imdb.com/title/tt6139732
 tags:
 - cinemaqui
-- movies
 title: Aladdin (2019)
 ---
 

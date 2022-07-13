@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2009-12-11'
 tags: null
 title: Aprendendo um terceiro idioma

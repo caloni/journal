@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2018-08-03'
-tags:
 - food
+date: '2018-08-03'
+tags: []
 title: Fazenda Bom Destino Padre Fialho MG
 ---
 

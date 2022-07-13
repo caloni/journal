@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2016-06-27'
 link: https://www.imdb.com/title/tt3385516
-tags:
-- movies
+tags: []
 title: 'X-Men: Apocalipse'
 ---
 

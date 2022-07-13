@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2018-07-05'
 link: https://www.imdb.com/title/tt6462462
 tags:
 - cinemaqui
-- movies
 title: O Orgulho
 ---
 

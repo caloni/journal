@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2021-11-16T21:36:17-03:00'
-tags:
 - movies
+date: '2021-11-16T21:36:17-03:00'
+tags: []
 title: Moulin Rouge
 ---
 

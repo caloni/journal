@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2008-07-14'
 tags: null
 title: Segunda versão do Houaiss2Babylon

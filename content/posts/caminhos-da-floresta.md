@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2015-05-11'
 link: https://www.imdb.com/title/tt2180411
-tags:
-- movies
+tags: []
 title: Caminhos da Floresta
 ---
 

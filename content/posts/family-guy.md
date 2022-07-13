@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- series
 date: '2015-07-28'
 link: https://www.imdb.com/title/tt0182576
-tags:
-- series
+tags: []
 title: Family Guy
 ---
 

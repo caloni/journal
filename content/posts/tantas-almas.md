@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
+- movies
 date: '2022-05-29T20:54:48-03:00'
 tags:
-- movies
 - cinemaqui
 title: Tantas Almas
 ---

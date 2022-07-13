@@ -1,10 +1,9 @@
 ---
 categories:
-- blog
+- chess
 date: '2022-06-19T21:47:14-03:00'
 link: https://www.chess.com/game/live/49423127947
-tags:
-- chess
+tags: []
 title: Como ganhar quando há um peão sobrando em briga de torres
 ---
 

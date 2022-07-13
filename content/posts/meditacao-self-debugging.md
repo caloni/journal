@@ -4,7 +4,7 @@ categories:
 date: '2022-05-31T20:23:43-03:00'
 tags:
 - debug
-title: 'Meditação é self debugging'
+title: Meditação é self debugging
 ---
 
 Depois que a tempestade na cabeça chega em um nível insuportável há uma calmaria, ou deveria haver, onde o corpo percebe que está vivo, que não existe no tempo e espaço. Existe apenas agora, e tão somente agora, pois o passado é uma máquina de estado mantida pelo cérebro, e o futuro a projeção extrapolada dessa máquina.

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2017-03-10'
 link: https://www.imdb.com/title/tt2173244
-tags:
-- movies
+tags: []
 title: Tiempos Felices
 ---
 

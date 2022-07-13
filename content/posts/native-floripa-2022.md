@@ -1,8 +1,7 @@
 ---
-categories:
-- blog
+categories: []
 date: '2022-07-09T19:40:01-03:00'
-tags:
+tags: null
 title: Native Floripa 2022
 ---
 

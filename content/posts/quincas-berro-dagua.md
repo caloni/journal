@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2010-05-21'
 link: https://www.imdb.com/title/tt1068962
-tags:
-- movies
+tags: []
 title: Quincas Berro d'Água
 ---
 

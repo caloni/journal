@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2015-04-19'
 link: https://www.imdb.com/title/tt2981768
-tags:
-- movies
+tags: []
 title: Patema Inverted
 ---
 

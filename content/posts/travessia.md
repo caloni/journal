@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
-date: '2018-09-26'
-tags:
 - wine
 - food
+date: '2018-09-26'
+tags: []
 title: Travessia
 ---
 

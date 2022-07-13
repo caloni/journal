@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
+- movies
 date: '2021-09-13T23:04:22-03:00'
 tags:
-- movies
 - cinemaqui
 title: Los Lobos
 ---

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-02-26'
 tags:
 - cinemaqui
-- movies
 title: Vida em Movimento
 ---
 

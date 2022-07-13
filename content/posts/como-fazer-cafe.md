@@ -1,10 +1,9 @@
 ---
 categories:
-- blog
-date: '2021-03-14'
-tags:
 - coffee
 - recipes
+date: '2021-03-14'
+tags: []
 title: Como Fazer Café
 ---
 

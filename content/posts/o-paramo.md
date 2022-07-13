@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2022-01-31T20:52:53-03:00'
 tags:
 - cinemaqui
-- movies
 title: O Páramo
 ---
 

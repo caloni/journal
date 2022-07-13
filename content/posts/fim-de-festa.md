@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2020-02-17'
 tags:
 - cinemaqui
-- movies
 title: Fim de Festa
 ---
 

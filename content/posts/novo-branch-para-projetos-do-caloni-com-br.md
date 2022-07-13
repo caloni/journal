@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2011-05-29'
 tags: null
 title: Novo branch para projetos do Caloni.com.br

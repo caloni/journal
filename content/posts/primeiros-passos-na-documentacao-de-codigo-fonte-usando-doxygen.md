@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2008-06-26'
 tags: null
 title: Primeiros passos na documentação de código-fonte usando Doxygen

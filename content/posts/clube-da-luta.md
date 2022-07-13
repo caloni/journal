@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-02-15'
 link: https://www.imdb.com/title/tt0137523
-tags:
-- movies
+tags: []
 title: Clube da Luta
 ---
 

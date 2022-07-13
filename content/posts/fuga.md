@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2018-10-26'
 link: https://www.imdb.com/title/tt7051048
 tags:
 - cinemaqui
-- movies
 title: Fuga
 ---
 

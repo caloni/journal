@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-01-17'
 link: https://www.imdb.com/title/tt6266538
 tags:
 - cinemaqui
-- movies
 title: Vice
 ---
 

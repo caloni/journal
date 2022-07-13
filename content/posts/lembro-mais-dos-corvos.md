@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-02-19'
 link: https://www.imdb.com/title/tt7972528
 tags:
 - cinemaqui
-- movies
 title: Lembro Mais Dos Corvos
 ---
 

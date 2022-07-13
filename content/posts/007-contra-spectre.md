@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2015-11-14'
 link: https://www.imdb.com/title/tt2379713
-tags:
-- movies
+tags: []
 title: 007 Contra Spectre
 ---
 

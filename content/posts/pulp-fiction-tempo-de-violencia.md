@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2012-12-23'
 link: https://www.imdb.com/title/tt0110912
-tags:
-- movies
+tags: []
 title: 'Pulp Fiction: Tempo de Violência'
 ---
 

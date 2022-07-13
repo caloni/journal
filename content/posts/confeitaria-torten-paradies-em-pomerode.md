@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2021-06-22T22:44:00-03:00'
-tags:
 - food
+date: '2021-06-22T22:44:00-03:00'
+tags: []
 title: Confeitaria Torten Paradies em Pomerode
 ---
 

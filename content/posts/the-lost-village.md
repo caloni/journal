@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- animes
 date: '2021-06-05'
 link: https://www.imdb.com/title/tt5614348
-tags:
-- animes
+tags: []
 title: The Lost Village (Mayoiga)
 ---
 

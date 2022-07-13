@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2017-02-17'
-tags:
 - food
+date: '2017-02-17'
+tags: []
 title: Especial de Poços de Caldas
 ---
 

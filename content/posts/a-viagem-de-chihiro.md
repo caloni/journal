@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2015-12-27'
 link: https://www.imdb.com/title/tt0245429
-tags:
-- movies
+tags: []
 title: A Viagem de Chihiro
 ---
 

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2013-10-23'
 link: https://www.imdb.com/title/tt0062622
-tags:
-- movies
+tags: []
 title: '2001: Uma Odisseia no Espaço'
 ---
 

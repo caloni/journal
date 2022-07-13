@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2017-09-28'
 link: https://www.imdb.com/title/tt2674454
 tags:
 - cinemaqui
-- movies
 title: Churchill
 ---
 

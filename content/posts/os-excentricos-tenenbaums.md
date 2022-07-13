@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2015-12-05'
 link: https://www.imdb.com/title/tt0265666
-tags:
-- movies
+tags: []
 title: Os Excêntricos Tenenbaums
 ---
 

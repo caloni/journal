@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2010-02-01'
 tags: null
 title: Correção de bugs instantânea

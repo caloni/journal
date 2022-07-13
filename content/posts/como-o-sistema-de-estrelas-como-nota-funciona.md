@@ -1,9 +1,8 @@
 ---
 categories:
-- blog
-date: '2018-12-15'
-tags:
 - movies
+date: '2018-12-15'
+tags: []
 title: Como o Sistema de Estrelas como Nota Funciona
 ---
 

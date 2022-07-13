@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2017-05-20'
-tags:
 - food
+date: '2017-05-20'
+tags: []
 title: Susana Balbo Crios Malbec 2016
 ---
 

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2018-01-23'
 link: https://www.imdb.com/title/tt0469494
-tags:
-- movies
+tags: []
 title: Sangue Negro
 ---
 

@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2021-08-20T21:43:06-03:00'
-tags:
 - movies
+date: '2021-08-20T21:43:06-03:00'
+tags: []
 title: Café da Manhã em Plutão
 ---
 

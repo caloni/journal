@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2016-04-16'
 link: https://www.imdb.com/title/tt4176826
-tags:
-- movies
+tags: []
 title: Ele Está de Volta
 ---
 

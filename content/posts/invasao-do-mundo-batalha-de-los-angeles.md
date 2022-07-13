@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2011-04-27'
 link: https://www.imdb.com/title/tt1217613
-tags:
-- movies
+tags: []
 title: 'Invasão do Mundo: Batalha de Los Angeles'
 ---
 

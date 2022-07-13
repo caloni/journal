@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- series
+- animes
 date: '2017-10-05'
 link: https://www.imdb.com/title/tt1910272
-tags:
-- animes
-- series
+tags: []
 title: Steins;Gate
 ---
 

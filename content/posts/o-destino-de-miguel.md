@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2016-09-11'
 link: https://www.youtube.com/embed/-vOIA0eWwTw
-tags:
-- movies
+tags: []
 title: O Destino de Miguel
 ---
 

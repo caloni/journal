@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2011-07-01'
 link: https://www.imdb.com/title/tt0970866
-tags:
-- movies
+tags: []
 title: Entrando Numa Fria Maior Ainda com a Família
 ---
 

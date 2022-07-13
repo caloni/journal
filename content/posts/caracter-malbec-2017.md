@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2017-09-23'
-tags:
 - food
+date: '2017-09-23'
+tags: []
 title: Caracter Malbec 2017
 ---
 

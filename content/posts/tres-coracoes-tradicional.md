@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2016-04-08'
-tags:
 - food
+date: '2016-04-08'
+tags: []
 title: Três Corações Tradicional
 ---
 

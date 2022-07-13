@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2016-05-14'
-tags:
 - books
+date: '2016-05-14'
+tags: []
 title: Como Ver Um Filme
 ---
 

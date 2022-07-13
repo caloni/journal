@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2016-08-17'
 tags: null
 title: Se não está funcionando direito, mexa!

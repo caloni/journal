@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2015-10-26'
-tags:
 - food
+date: '2015-10-26'
+tags: []
 title: CarinaE Prestige Blend Mendoza 2009
 ---
 

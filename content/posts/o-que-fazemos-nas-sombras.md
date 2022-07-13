@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2018-10-07'
 link: https://www.imdb.com/title/tt3416742
-tags:
-- movies
+tags: []
 title: O Que Fazemos nas Sombras
 ---
 

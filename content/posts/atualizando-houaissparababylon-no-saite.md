@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2010-10-22'
 tags: null
 title: Atualizando HouaissParaBabylon no saite

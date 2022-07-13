@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2015-09-11'
 link: https://www.imdb.com/title/tt1655441
-tags:
-- movies
+tags: []
 title: A Incrível História de Adaline
 ---
 

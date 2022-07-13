@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2020-10-26'
 link: https://www.imdb.com/title/tt10528564
 tags:
 - cinemaqui
-- movies
 title: Os Nomes das Flores
 ---
 

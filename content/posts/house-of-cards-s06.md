@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- series
 date: '2018-11-16'
 link: https://www.imdb.com/title/tt1856010
-tags:
-- series
+tags: []
 title: House of Cards - Sexta Temporada (Series Finale)
 ---
 

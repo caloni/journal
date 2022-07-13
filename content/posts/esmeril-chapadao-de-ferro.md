@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2018-05-16'
-tags:
 - food
+date: '2018-05-16'
+tags: []
 title: Esmeril Chapadão de Ferro
 ---
 

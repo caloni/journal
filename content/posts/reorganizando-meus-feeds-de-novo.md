@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2011-03-10'
 tags: null
 title: Reorganizando meus feeds (de novo)

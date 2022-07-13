@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
-date: '2018-09-23'
-tags:
 - beer
 - food
+date: '2018-09-23'
+tags: []
 title: Strappa Gingerberry
 ---
 

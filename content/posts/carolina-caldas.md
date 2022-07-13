@@ -1,9 +1,8 @@
 ---
 categories:
-- blog
-date: '2021-06-30T08:40:00-03:00'
-tags:
 - movies
+date: '2021-06-30T08:40:00-03:00'
+tags: []
 title: Carolina Caldas de Vivente Andante
 ---
 

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2020-12-08'
 link: https://www.imdb.com/title/tt0066808
-tags:
-- movies
+tags: []
 title: Bananas
 ---
 

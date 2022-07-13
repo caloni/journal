@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-06-23'
 link: https://www.imdb.com/title/tt0104036
-tags:
-- movies
+tags: []
 title: Traídos pelo Desejo
 ---
 

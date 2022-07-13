@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2011-12-25'
 link: https://www.imdb.com/title/tt0012349
-tags:
-- movies
+tags: []
 title: O Garoto
 ---
 

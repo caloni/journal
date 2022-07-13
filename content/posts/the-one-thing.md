@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- books
 date: '2019-04-12'
 dest: 'The ONE Thing: The Surprisingly Simple Truth Behind Extraordinary Results.
   Por Gary Keller.'
-tags:
-- books
+tags: []
 title: The ONE Thing
 ---
 

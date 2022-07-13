@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-02-07'
 link: https://www.imdb.com/title/tt6768578
 tags:
 - cinemaqui
-- movies
 title: Dogman
 ---
 

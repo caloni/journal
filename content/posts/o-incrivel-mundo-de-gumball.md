@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- series
 date: '2016-10-16'
 link: https://www.imdb.com/title/tt1942683
-tags:
-- series
+tags: []
 title: O Incrível Mundo de Gumball
 ---
 

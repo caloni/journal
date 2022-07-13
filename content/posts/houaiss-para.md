@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2014-10-25'
 tags: null
 title: Houaiss Para *

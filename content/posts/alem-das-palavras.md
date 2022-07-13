@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2017-04-05'
 link: https://www.imdb.com/title/tt2392830
 tags:
 - cinemaqui
-- movies
 title: Além das Palavras
 ---
 

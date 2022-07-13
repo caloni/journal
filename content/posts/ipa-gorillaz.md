@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
-date: '2019-07-01'
-tags:
 - beer
 - food
+date: '2019-07-01'
+tags: []
 title: IPA Gorillaz
 ---
 

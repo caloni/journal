@@ -1,9 +1,8 @@
 ---
 categories:
-- blog
-date: '2018-07-04'
-tags:
 - trips
+date: '2018-07-04'
+tags: []
 title: Salta, 2018
 ---
 

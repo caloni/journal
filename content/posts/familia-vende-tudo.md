@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2011-10-16'
 link: https://www.imdb.com/title/tt2006109
-tags:
-- movies
+tags: []
 title: Família Vende Tudo
 ---
 

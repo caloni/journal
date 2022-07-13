@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-03-29'
 link: https://www.imdb.com/title/tt9353436
 tags:
 - cinemaqui
-- movies
 title: Mike Wallace Está Aqui
 ---
 

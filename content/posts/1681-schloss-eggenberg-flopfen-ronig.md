@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2018-07-26'
-tags:
 - food
+date: '2018-07-26'
+tags: []
 title: 1681 Schloss Eggenberg Flopfen Rönig
 ---
 

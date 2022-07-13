@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2022-04-01T21:46:04-03:00'
-tags:
 - movies
+date: '2022-04-01T21:46:04-03:00'
+tags: []
 title: Rambo
 ---
 

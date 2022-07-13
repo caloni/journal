@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2018-03-05'
 tags: null
 title: iMasters PHP Experience

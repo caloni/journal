@@ -1,9 +1,8 @@
 ---
 categories:
-- blog
-date: '2022-06-19T22:10:07-03:00'
-tags:
 - movies
+date: '2022-06-19T22:10:07-03:00'
+tags: []
 title: A Bela Junie
 ---
 

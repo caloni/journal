@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-03-12'
 link: https://www.imdb.com/title/tt4154664
-tags:
-- movies
+tags: []
 title: Capitã Marvel
 ---
 

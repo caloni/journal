@@ -1,9 +1,8 @@
 ---
 categories:
-- blog
-date: '2019-12-10'
-tags:
 - trips
+date: '2019-12-10'
+tags: []
 title: Monte Verde 2019
 ---
 

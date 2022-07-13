@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- series
 date: '2017-04-04'
 link: https://www.imdb.com/title/tt5607970
-tags:
-- series
+tags: []
 title: Ultimate Beastmaster - Primeira Temporada
 ---
 

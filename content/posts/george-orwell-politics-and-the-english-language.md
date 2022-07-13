@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2018-08-26'
-tags:
 - reading
+date: '2018-08-26'
+tags: []
 title: 'George Orwell: Politics and the English Language'
 ---
 

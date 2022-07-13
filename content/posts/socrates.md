@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-09-20'
 link: https://www.imdb.com/title/tt8026554
 tags:
 - cinemaqui
-- movies
 title: Sócrates
 ---
 

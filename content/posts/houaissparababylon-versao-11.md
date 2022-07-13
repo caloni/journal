@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2008-12-30'
 tags: null
 title: HouaissParaBabylon versão 1.1

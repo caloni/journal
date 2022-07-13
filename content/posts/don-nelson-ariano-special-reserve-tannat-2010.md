@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2016-11-13'
-tags:
 - food
+date: '2016-11-13'
+tags: []
 title: Don Nelson Ariano Special Reserve Tannat 2010
 ---
 

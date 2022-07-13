@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
+- movies
 date: '2022-06-07T23:05:23-03:00'
 tags:
-- movies
 - cinemaqui
 title: A Suspeita
 ---

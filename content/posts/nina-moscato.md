@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
-date: '2019-04-22'
-tags:
 - wine
 - food
+date: '2019-04-22'
+tags: []
 title: Nina Moscato
 ---
 

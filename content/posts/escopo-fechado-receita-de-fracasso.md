@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2017-09-12'
 tags: null
 title: 'Escopo Fechado: Receita De Fracasso'

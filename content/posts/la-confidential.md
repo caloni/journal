@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2014-11-09'
 link: https://www.imdb.com/title/tt0119488
-tags:
-- movies
+tags: []
 title: 'Los Angeles: Cidade Proibida'
 ---
 

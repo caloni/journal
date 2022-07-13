@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2012-10-31'
 link: https://www.imdb.com/title/tt0064116
-tags:
-- movies
+tags: []
 title: Era Uma Vez no Oeste
 ---
 

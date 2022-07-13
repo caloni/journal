@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
+- movies
 date: '2022-04-18T21:35:33-03:00'
 tags:
-- movies
 - cinemaqui
 title: Sorte de Quem?
 ---

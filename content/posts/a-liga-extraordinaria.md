@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2012-01-01'
 link: https://www.imdb.com/title/tt0311429
-tags:
-- movies
+tags: []
 title: A Liga Extraordinária
 ---
 

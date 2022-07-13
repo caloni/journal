@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2015-06-11'
 tags: null
 title: TDC SP 2015 (Call for Papers)

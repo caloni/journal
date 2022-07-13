@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- series
 date: '2019-06-14'
 link: https://www.imdb.com/title/tt8758202
-tags:
-- series
+tags: []
 title: Black Mirror S05 E02 Smithereens
 ---
 

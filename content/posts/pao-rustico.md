@@ -1,10 +1,9 @@
 ---
 categories:
-- blog
+- recipes
 date: '2020-12-23'
 link: https://www.kingarthurbaking.com/recipes/rustic-sourdough-bread-recipe
-tags:
-- recipes
+tags: []
 title: Pão Rústico
 ---
 

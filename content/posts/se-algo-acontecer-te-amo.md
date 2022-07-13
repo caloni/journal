@@ -1,9 +1,8 @@
 ---
 categories:
-- blog
-date: '2021-08-08T21:35:32-03:00'
-tags:
 - movies
+date: '2021-08-08T21:35:32-03:00'
+tags: []
 title: Se Algo Acontecer... Te Amo
 ---
 

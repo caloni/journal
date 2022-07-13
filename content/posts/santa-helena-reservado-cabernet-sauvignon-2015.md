@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2017-12-25'
-tags:
 - food
+date: '2017-12-25'
+tags: []
 title: Santa Helena Reservado Cabernet Sauvignon 2015
 ---
 

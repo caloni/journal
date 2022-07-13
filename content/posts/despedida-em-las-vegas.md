@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2011-10-22'
 link: https://www.imdb.com/title/tt0113627
-tags:
-- movies
+tags: []
 title: Despedida em Las Vegas
 ---
 

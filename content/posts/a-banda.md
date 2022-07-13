@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2020-09-06'
 link: https://www.imdb.com/title/tt1032856
-tags:
-- movies
+tags: []
 title: A Banda
 ---
 

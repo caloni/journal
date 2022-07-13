@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2020-03-15'
-tags:
 - books
+date: '2020-03-15'
+tags: []
 title: Comunicação em Prosa Moderna
 ---
 

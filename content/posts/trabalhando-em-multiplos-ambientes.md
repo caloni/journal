@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2010-12-27'
 tags: null
 title: Trabalhando em múltiplos ambientes

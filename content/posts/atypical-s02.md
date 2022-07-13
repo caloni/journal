@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- series
 date: '2018-11-17'
 link: https://www.imdb.com/title/tt6315640
-tags:
-- series
+tags: []
 title: Atypical - Segunda Temporada
 ---
 

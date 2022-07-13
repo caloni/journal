@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2016-01-10'
-tags:
 - food
+date: '2016-01-10'
+tags: []
 title: Melitta Tradicional
 ---
 

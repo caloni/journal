@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2011-02-13'
 link: https://www.imdb.com/title/tt0961108
-tags:
-- movies
+tags: []
 title: Um Segredo entre Nós
 ---
 

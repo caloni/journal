@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2011-11-20'
 link: https://www.imdb.com/title/tt0382932
-tags:
-- movies
+tags: []
 title: Ratatouille
 ---
 

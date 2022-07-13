@@ -1,9 +1,8 @@
 ---
 categories:
-- blog
-date: '2021-07-05T23:50:00-03:00'
-tags:
 - recipes
+date: '2021-07-05T23:50:00-03:00'
+tags: []
 title: Fiz Trança de Banana (Pão)
 ---
 

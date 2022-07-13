@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2014-02-15'
 link: https://www.imdb.com/title/tt2023587
-tags:
-- movies
+tags: []
 title: Mama
 ---
 

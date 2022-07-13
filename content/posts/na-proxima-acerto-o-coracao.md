@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2015-06-08'
 link: https://www.imdb.com/title/tt3324494
 tags:
 - cinemaqui
-- movies
 title: Na Próxima, Acerto o Coração
 ---
 

@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2015-01-06'
 link: https://www.imdb.com/title/tt2639344
 tags:
 - cinemaqui
-- movies
 title: O Amor é Estranho
 ---
 

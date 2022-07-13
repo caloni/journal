@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-07-01'
 link: https://www.imdb.com/title/tt0287645
-tags:
-- movies
+tags: []
 title: Chuva de Verão
 ---
 

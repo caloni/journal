@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2009-12-14'
 tags: null
 title: Devaneio nerd rápido sobre aniversários

@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- series
+- animes
 date: '2019-01-17'
 link: https://www.imdb.com/title/tt8963328
-tags:
-- animes
-- series
+tags: []
 title: Hi Score Girl
 ---
 

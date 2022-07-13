@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2014-03-19'
 link: https://www.imdb.com/title/tt0372588
-tags:
-- movies
+tags: []
 title: 'Team America: Detonando o Mundo'
 ---
 

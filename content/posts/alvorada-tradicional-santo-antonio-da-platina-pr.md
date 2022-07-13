@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2016-05-29'
-tags:
 - food
+date: '2016-05-29'
+tags: []
 title: Alvorada Tradicional Santo Antonio da Platina PR
 ---
 

@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2007-07-06'
 tags:
 - english

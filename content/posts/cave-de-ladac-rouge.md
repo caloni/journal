@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
-date: '2018-09-01'
-tags:
 - wine
 - food
+date: '2018-09-01'
+tags: []
 title: Cave De Ladac Rouge
 ---
 

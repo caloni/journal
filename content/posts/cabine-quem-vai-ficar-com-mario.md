@@ -1,9 +1,8 @@
 ---
 categories:
-- blog
-date: '2021-06-09'
-tags:
 - movies
+date: '2021-06-09'
+tags: []
 title: Cabine Quem Vai Ficar Com Mario
 ---
 

@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-10-15'
 link: https://www.imdb.com/title/tt7844518
 tags:
 - cinemaqui
-- movies
 title: 'Bellingcat: A Verdade Em Um Mundo Pós-Verdade'
 ---
 

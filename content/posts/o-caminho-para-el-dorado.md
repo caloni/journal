@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2021-05-28'
 link: https://www.imdb.com/title/tt0138749
-tags:
-- movies
+tags: []
 title: O Caminho Para El Dorado
 ---
 

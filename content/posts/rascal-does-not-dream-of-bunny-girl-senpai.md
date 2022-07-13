@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- series
+- animes
 date: '2020-10-11'
 link: https://www.crunchyroll.com/pt-pt/rascal-does-not-dream-of-bunny-girl-senpai
-tags:
-- animes
-- series
+tags: []
 title: Rascal Does Not Dream of Bunny Girl Senpai
 ---
 

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2015-12-27'
 link: https://www.imdb.com/title/tt2361509
-tags:
-- movies
+tags: []
 title: Um Senhor Estagiário
 ---
 

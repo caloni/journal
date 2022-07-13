@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2008-08-07'
 tags: null
 title: Aprendizado em kernel mode

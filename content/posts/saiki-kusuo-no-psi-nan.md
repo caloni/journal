@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- animes
 date: '2021-05-15'
 link: https://www.imdb.com/title/tt6354518
-tags:
-- animes
+tags: []
 title: Saiki Kusuo No Psi Nan
 ---
 

@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2014-12-31'
-tags:
 - food
+date: '2014-12-31'
+tags: []
 title: JP Zeitão Red Castelão/Aragonez/Syrah 2013
 ---
 

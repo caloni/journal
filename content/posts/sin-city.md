@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2016-10-09'
 link: https://www.imdb.com/title/tt0401792
-tags:
-- movies
+tags: []
 title: 'Sin City: A Cidade do Pecado'
 ---
 

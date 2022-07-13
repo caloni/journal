@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2014-07-16'
 tags: null
 title: 'TDC 2014: Segurança'

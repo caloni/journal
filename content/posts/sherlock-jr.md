@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2014-06-06'
 link: https://www.imdb.com/title/tt0015324
-tags:
-- movies
+tags: []
 title: Bancando o Águia (aka Sherlock Jr.)
 ---
 

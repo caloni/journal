@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-01-12'
 link: https://www.imdb.com/title/tt4633694
-tags:
-- movies
+tags: []
 title: Homem-Aranha no Aranhaverso
 ---
 

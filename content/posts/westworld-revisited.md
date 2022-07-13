@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- series
 date: '2018-12-30T19:10:00-03:00'
 link: https://www.imdb.com/title/tt0475784
-tags:
-- series
+tags: []
 title: Westworld (Revisita ao S01 com algumas questões e spoilers)
 ---
 

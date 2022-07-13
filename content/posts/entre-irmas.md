@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2017-10-02'
 link: https://www.imdb.com/title/tt7308092
 tags:
 - cinemaqui
-- movies
 title: Entre Irmãs
 ---
 

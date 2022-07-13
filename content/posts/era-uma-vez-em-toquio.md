@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2013-10-31'
 link: https://www.imdb.com/title/tt0046438
-tags:
-- movies
+tags: []
 title: Era uma Vez em Tóquio
 ---
 

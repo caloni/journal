@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2015-08-03'
 tags: null
 title: Sobre debates no SESC Santos

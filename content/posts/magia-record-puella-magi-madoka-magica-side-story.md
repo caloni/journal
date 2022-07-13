@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- animes
 date: '2020-10-11'
 link: https://www.crunchyroll.com/pt-pt/magia-record-puella-magi-madoka-magica-side-story
-tags:
-- animes
+tags: []
 title: 'Magia Record: Puella Magi Madoka Magica Side Story'
 ---
 

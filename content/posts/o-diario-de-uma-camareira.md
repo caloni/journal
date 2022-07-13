@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2020-02-06'
 link: https://www.imdb.com/title/tt0058249
-tags:
-- movies
+tags: []
 title: O Diário de Uma Camareira
 ---
 

@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- series
+- animes
 date: '2021-03-07'
 link: https://www.imdb.com/title/tt9828696
-tags:
-- animes
-- series
+tags: []
 title: Ao-chan Can't Study
 ---
 

@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2019-05-20'
-tags:
 - food
+date: '2019-05-20'
+tags: []
 title: Gran Tarapaca Carménère Reserva 2017
 ---
 

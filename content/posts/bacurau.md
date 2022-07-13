@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-10-09'
 link: https://www.imdb.com/title/tt2762506
-tags:
-- movies
+tags: []
 title: Bacurau
 ---
 

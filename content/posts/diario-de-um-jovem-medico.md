@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- series
 date: '2014-12-01'
 link: https://www.imdb.com/title/tt2164430
-tags:
-- series
+tags: []
 title: Diário de um Jovem Médico
 ---
 

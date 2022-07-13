@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2016-08-01'
 link: https://www.imdb.com/title/tt0475290
-tags:
-- movies
+tags: []
 title: Ave, César!
 ---
 

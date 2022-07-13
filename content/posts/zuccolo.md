@@ -1,9 +1,8 @@
 ---
 categories:
-- blog
-date: '2022-05-12T22:37:13-03:00'
-tags:
 - wine
+date: '2022-05-12T22:37:13-03:00'
+tags: []
 title: Zuccolo
 ---
 

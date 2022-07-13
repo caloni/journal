@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2010-11-20'
 link: https://www.imdb.com/title/tt1781866
-tags:
-- movies
+tags: []
 title: Muita Calma Nessa Hora
 ---
 

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2012-02-19'
 link: https://www.imdb.com/title/tt1568346
-tags:
-- movies
+tags: []
 title: 'Millennium: Os Homens que Não Amavam as Mulheres'
 ---
 

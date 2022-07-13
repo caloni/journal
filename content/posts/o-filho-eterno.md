@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2016-11-22'
 link: https://www.imdb.com/title/tt5341098
 tags:
 - cinemaqui
-- movies
 title: O Filho Eterno
 ---
 

@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-05-08'
 link: https://www.imdb.com/title/tt7615302
 tags:
 - cinemaqui
-- movies
 title: A Espiã Vermelha
 ---
 

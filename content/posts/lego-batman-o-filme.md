@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2017-02-12'
 link: https://www.imdb.com/title/tt4116284
-tags:
-- movies
+tags: []
 title: 'LEGO Batman: O Filme'
 ---
 

@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2019-01-06'
 tags: null
 title: 'Minecraft: O Jogo'

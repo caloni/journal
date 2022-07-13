@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2018-01-17'
-tags:
 - food
+date: '2018-01-17'
+tags: []
 title: Mantissa Café Fazenda Campestre
 ---
 

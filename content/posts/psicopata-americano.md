@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2012-02-26'
 link: https://www.imdb.com/title/tt0144084
-tags:
-- movies
+tags: []
 title: Psicopata Americano
 ---
 

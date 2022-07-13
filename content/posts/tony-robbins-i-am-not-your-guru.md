@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2017-03-15'
 link: https://www.imdb.com/title/tt5151716
-tags:
-- movies
+tags: []
 title: 'Tony Robbins: I Am Not Your Guru'
 ---
 

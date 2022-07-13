@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2013-01-15'
 link: https://www.imdb.com/title/tt0047396
-tags:
-- movies
+tags: []
 title: Janela Indiscreta
 ---
 

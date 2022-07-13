@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2012-02-15'
 link: https://www.imdb.com/title/tt1725073
-tags:
-- movies
+tags: []
 title: Penumbra
 ---
 

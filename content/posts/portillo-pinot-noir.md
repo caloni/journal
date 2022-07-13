@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
-date: '2018-06-25'
-tags:
 - wine
 - food
+date: '2018-06-25'
+tags: []
 title: Portillo Pinot Noir 2016
 ---
 

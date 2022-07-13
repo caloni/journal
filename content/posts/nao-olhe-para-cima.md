@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2021-12-28T22:24:07-03:00'
-tags:
 - movies
+date: '2021-12-28T22:24:07-03:00'
+tags: []
 title: Não Olhe Para Cima
 ---
 

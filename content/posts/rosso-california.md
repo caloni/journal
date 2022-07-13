@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
-date: '2018-12-30'
-tags:
 - wine
 - food
+date: '2018-12-30'
+tags: []
 title: Rosso California Red Wine
 ---
 

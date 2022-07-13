@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2012-07-20'
 link: https://www.imdb.com/title/tt0480242
-tags:
-- movies
+tags: []
 title: Eu, Meu Irmão e Nossa Namorada
 ---
 

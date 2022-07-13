@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2012-07-27'
 link: https://www.imdb.com/title/tt1437357
-tags:
-- movies
+tags: []
 title: Fausto
 ---
 

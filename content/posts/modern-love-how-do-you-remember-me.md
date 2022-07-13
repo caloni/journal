@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2022-03-06T21:17:50-03:00'
-tags:
 - series
+date: '2022-03-06T21:17:50-03:00'
+tags: []
 title: 'Modern Love: How Do You Remember Me'
 ---
 

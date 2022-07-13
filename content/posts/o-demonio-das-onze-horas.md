@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-05-17'
 link: https://www.imdb.com/title/tt0059592
-tags:
-- movies
+tags: []
 title: O Demônio das Onze Horas
 ---
 

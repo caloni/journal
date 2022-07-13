@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2012-10-21'
 link: https://www.imdb.com/title/tt1674057
-tags:
-- movies
+tags: []
 title: E se Vivêssemos Todos Juntos?
 ---
 

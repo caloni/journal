@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
+- movies
 date: '2021-10-31T17:18:57-03:00'
 tags:
-- movies
 - cinemaqui
 title: Filho das Monarcas
 ---

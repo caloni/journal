@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2012-10-28'
 link: https://www.imdb.com/title/tt2069985
-tags:
-- movies
+tags: []
 title: O Peso da Culpa
 ---
 

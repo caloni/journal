@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2017-05-09'
-tags:
 - food
+date: '2017-05-09'
+tags: []
 title: Nanni Tannat Reserva 2016
 ---
 

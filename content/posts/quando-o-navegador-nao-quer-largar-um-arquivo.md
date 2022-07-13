@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2008-08-13'
 tags: null
 title: Quando o navegador não quer largar um arquivo

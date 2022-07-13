@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2013-07-28'
 link: https://www.imdb.com/title/tt0087800
-tags:
-- movies
+tags: []
 title: A Hora do Pesadelo
 ---
 

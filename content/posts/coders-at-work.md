@@ -1,9 +1,8 @@
 ---
 categories:
-- blog
-date: '2011-10-14'
-tags:
 - books
+date: '2011-10-14'
+tags: []
 title: 'Coders at Work: Reflections on the Craft of Programming'
 ---
 

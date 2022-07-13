@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2021-10-16T12:56:11-03:00'
-tags:
 - beer
+date: '2021-10-16T12:56:11-03:00'
+tags: []
 title: Paulaner
 ---
 

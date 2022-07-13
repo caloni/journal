@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2022-03-06T21:16:41-03:00'
-tags:
 - series
+date: '2022-03-06T21:16:41-03:00'
+tags: []
 title: Rua Augusta
 ---
 

@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-08-07'
 link: https://www.imdb.com/title/tt6386748
 tags:
 - cinemaqui
-- movies
 title: Pássaros de Verão
 ---
 

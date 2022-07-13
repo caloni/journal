@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2016-06-20'
-tags:
 - food
+date: '2016-06-20'
+tags: []
 title: De Gras Gran Reserva Carmenére 2015
 ---
 

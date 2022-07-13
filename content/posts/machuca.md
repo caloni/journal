@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2021-06-21T11:33:00-03:00'
-tags:
 - movies
+date: '2021-06-21T11:33:00-03:00'
+tags: []
 title: Machuca
 ---
 

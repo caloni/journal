@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
+- movies
 date: '2021-10-21T22:22:02-03:00'
 tags:
-- movies
 - cinemaqui
 title: O Compromisso de Hassan
 ---

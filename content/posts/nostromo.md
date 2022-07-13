@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
+- movies
 date: '2021-10-25T22:03:56-03:00'
 tags:
-- movies
 - cinemaqui
 title: Nostromo
 ---

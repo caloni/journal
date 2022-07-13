@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2012-11-28'
 link: https://www.imdb.com/title/tt0062512
-tags:
-- movies
+tags: []
 title: Com 007 Só Se Vive Duas Vezes
 ---
 

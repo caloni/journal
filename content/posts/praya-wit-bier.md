@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
-date: '2019-02-28'
-tags:
 - beer
 - food
+date: '2019-02-28'
+tags: []
 title: Praya Wit Bier
 ---
 

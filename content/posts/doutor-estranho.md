@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2016-11-17'
 link: https://www.imdb.com/title/tt1211837
-tags:
-- movies
+tags: []
 title: Doutor Estranho
 ---
 

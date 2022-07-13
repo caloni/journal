@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2017-10-14'
 link: https://www.imdb.com/title/tt2931140
 tags:
 - cinemaqui
-- movies
 title: Uma Razão Para Recomeçar
 ---
 

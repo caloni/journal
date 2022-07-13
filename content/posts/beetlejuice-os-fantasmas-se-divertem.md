@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-03-06'
 link: https://www.imdb.com/title/tt0094721
-tags:
-- movies
+tags: []
 title: 'Beetlejuice: Os Fantasmas Se Divertem'
 ---
 

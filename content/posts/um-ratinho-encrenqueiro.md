@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2012-06-18'
 link: https://www.imdb.com/title/tt0119715
-tags:
-- movies
+tags: []
 title: Um Ratinho Encrenqueiro
 ---
 

@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2014-04-15'
 tags: null
 title: Geleia de Código

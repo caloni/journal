@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2018-10-11'
 link: https://www.imdb.com/title/tt5774796
 tags:
 - cinemaqui
-- movies
 title: Rosas Selvagens
 ---
 

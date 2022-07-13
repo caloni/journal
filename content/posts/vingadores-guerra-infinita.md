@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2018-05-03'
 link: https://www.imdb.com/title/tt4154756
-tags:
-- movies
+tags: []
 title: 'Vingadores: Guerra Infinita'
 ---
 

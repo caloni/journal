@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
+- movies
 date: '2022-05-17T21:15:35-03:00'
 tags:
-- movies
 - cinemaqui
 title: A Médium
 ---

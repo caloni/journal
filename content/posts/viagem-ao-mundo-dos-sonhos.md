@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2012-06-04'
 link: https://www.imdb.com/title/tt0089114
-tags:
-- movies
+tags: []
 title: Viagem ao Mundo dos Sonhos
 ---
 

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2011-05-27'
 link: https://www.imdb.com/title/tt0120915
-tags:
-- movies
+tags: []
 title: 'Star Wars, Episódio I: A Ameaça Fantasma'
 ---
 

@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2014-07-30'
 tags: null
 title: Vestindo a Camisa da Minha Empresa

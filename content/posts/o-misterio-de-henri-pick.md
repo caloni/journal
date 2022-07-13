@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-07-19'
 link: https://www.imdb.com/title/tt8263936
 tags:
 - cinemaqui
-- movies
 title: O Mistério de Henri Pick
 ---
 

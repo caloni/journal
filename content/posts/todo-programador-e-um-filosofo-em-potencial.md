@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2008-09-12'
 tags: null
 title: Todo programador é um filósofo em potencial

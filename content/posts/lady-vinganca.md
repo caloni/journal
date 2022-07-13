@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2015-07-14'
 link: https://www.imdb.com/title/tt0451094
-tags:
-- movies
+tags: []
 title: Lady Vingança
 ---
 

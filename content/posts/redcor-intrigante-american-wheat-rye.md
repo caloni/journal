@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2018-02-23'
-tags:
 - food
+date: '2018-02-23'
+tags: []
 title: RedCor Intrigante American Wheat Rye
 ---
 

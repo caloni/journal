@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
+- movies
 date: '2021-11-13T15:54:13-03:00'
 tags:
-- movies
 - cinemaqui
 title: Um Porto Seguro
 ---

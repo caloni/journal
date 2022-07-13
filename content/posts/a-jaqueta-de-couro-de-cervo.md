@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-12-21'
 link: https://www.imdb.com/title/tt8193790
 tags:
 - cinemaqui
-- movies
 title: A Jaqueta de Couro de Cervo
 ---
 

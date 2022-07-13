@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2019-07-01'
-tags:
 - food
+date: '2019-07-01'
+tags: []
 title: Valpolicella
 ---
 

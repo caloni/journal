@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2014-03-04'
 link: https://www.imdb.com/title/tt1542852
-tags:
-- movies
+tags: []
 title: Abutres
 ---
 

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
-date: '2018-11-11'
-tags:
 - wine
 - food
+date: '2018-11-11'
+tags: []
 title: Domingo Molina
 ---
 

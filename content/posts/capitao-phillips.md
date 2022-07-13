@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2018-01-12'
 link: https://www.imdb.com/title/tt1535109
-tags:
-- movies
+tags: []
 title: Capitão Phillips
 ---
 

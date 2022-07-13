@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2011-01-18'
 tags: null
 title: Atividades extracurriculares

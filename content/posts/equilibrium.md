@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2016-05-08'
 link: https://www.imdb.com/title/tt0238380
-tags:
-- movies
+tags: []
 title: Equilibrium
 ---
 

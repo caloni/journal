@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2015-07-26'
-tags:
 - food
+date: '2015-07-26'
+tags: []
 title: Manos Negras Pinot Noir 2013
 ---
 

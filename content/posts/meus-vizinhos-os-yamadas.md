@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
-date: '2020-03-30'
-link: https://www.imdb.com/title/tt0206013
-tags:
 - movies
 - animes
+date: '2020-03-30'
+link: https://www.imdb.com/title/tt0206013
+tags: []
 title: Meus Vizinhos, Os Yamadas
 ---
 

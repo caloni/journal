@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2018-02-20'
 link: https://www.imdb.com/title/tt1659619
 tags:
 - cinemaqui
-- movies
 title: A Odisseia
 ---
 

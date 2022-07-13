@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2018-07-19'
 link: https://www.imdb.com/title/tt0819953
-tags:
-- movies
+tags: []
 title: A Era da Inocência
 ---
 

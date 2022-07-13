@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2008-01-02'
 title: Como ser um melhor desenvolvedor em 2008
 ---

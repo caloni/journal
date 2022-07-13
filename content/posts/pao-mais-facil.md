@@ -1,10 +1,9 @@
 ---
 categories:
-- blog
+- recipes
 date: '2019-12-26'
 link: https://youtu.be/_UIjznz7Xzg
-tags:
-- recipes
+tags: []
 title: Pão mais fácil do mundo
 ---
 

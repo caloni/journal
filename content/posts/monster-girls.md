@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- animes
 date: '2021-05-22'
 link: https://www.imdb.com/title/tt6435350
-tags:
-- animes
+tags: []
 title: Monster Girls (Demi-chan wa kataritai)
 ---
 

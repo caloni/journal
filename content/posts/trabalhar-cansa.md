@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2011-10-18'
 link: https://www.imdb.com/title/tt1686328
-tags:
-- movies
+tags: []
 title: Trabalhar Cansa
 ---
 

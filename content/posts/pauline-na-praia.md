@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2020-05-19'
 link: https://www.imdb.com/title/tt0086087
-tags:
-- movies
+tags: []
 title: Pauline na Praia
 ---
 

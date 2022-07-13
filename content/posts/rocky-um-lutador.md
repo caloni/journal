@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2015-03-17'
 link: https://www.imdb.com/title/tt0075148
-tags:
-- movies
+tags: []
 title: 'Rocky: Um Lutador'
 ---
 

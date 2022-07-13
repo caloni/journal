@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2016-09-10'
 link: https://www.imdb.com/title/tt1311071
-tags:
-- movies
+tags: []
 title: Versos de Um Crime
 ---
 

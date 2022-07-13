@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-10-26'
 tags:
 - cinemaqui
-- movies
 title: O Mês Que Não Terminou
 ---
 

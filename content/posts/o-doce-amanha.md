@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2020-01-04'
 link: https://www.imdb.com/title/tt0120255
-tags:
-- movies
+tags: []
 title: O Doce Amanhã
 ---
 

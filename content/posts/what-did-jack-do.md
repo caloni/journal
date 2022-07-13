@@ -1,10 +1,9 @@
 ---
 categories:
-- blog
+- movies
 date: '2020-03-22'
 link: https://www.imdb.com/title/tt11644096
-tags:
-- movies
+tags: []
 title: What Did Jack Do?
 ---
 

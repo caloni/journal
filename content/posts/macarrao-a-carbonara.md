@@ -1,12 +1,9 @@
 ---
 categories:
-- reviews
-- blog
-date: '2020-04-05'
-tags:
-- recipes
 - food
-- home
+- recipes
+date: '2020-04-05'
+tags: []
 title: Macarrão a Carbonara
 ---
 

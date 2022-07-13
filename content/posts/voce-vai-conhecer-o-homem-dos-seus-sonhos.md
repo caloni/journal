@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2010-11-26'
 link: https://www.imdb.com/title/tt1182350
-tags:
-- movies
+tags: []
 title: Você Vai Conhecer o Homem dos Seus Sonhos
 ---
 

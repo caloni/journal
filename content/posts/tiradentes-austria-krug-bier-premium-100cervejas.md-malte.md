@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2015-01-27'
-tags:
 - food
+date: '2015-01-27'
+tags: []
 title: Tiradentes Áustria Krug Bier Premium 100% Malte
 ---
 

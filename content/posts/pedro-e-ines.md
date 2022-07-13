@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2018-10-09'
 link: https://www.imdb.com/title/tt2050452
 tags:
 - cinemaqui
-- movies
 title: Pedro e Inês
 ---
 

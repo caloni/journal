@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2021-06-20T19:45:00-03:00'
-tags:
 - movies
+date: '2021-06-20T19:45:00-03:00'
+tags: []
 title: A Boa Esposa
 ---
 

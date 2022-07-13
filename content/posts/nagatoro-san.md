@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- animes
 date: '2021-05-15'
 link: https://www.imdb.com/title/tt12635162
-tags:
-- animes
+tags: []
 title: Don't Toy With Me, Miss Nagatoro (Ijiranaide, Nagatoro-san)
 ---
 

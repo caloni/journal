@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2015-11-06'
 link: https://www.imdb.com/title/tt0166396
-tags:
-- movies
+tags: []
 title: A Fortuna de Ned
 ---
 

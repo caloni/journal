@@ -1,10 +1,9 @@
 ---
 categories:
-- blog
-date: '2017-05-30'
-tags:
-- recipes
 - food
+- recipes
+date: '2017-05-30'
+tags: []
 title: Molho de Tomate
 ---
 

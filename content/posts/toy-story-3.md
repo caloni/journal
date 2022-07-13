@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2010-06-18'
 link: https://www.imdb.com/title/tt0435761
-tags:
-- movies
+tags: []
 title: Toy Story 3
 ---
 

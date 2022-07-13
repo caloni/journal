@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2020-10-25'
 link: https://www.imdb.com/title/tt7900106
 tags:
 - cinemaqui
-- movies
 title: Pari
 ---
 

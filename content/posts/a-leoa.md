@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2017-10-22'
 link: https://www.imdb.com/title/tt4677578
-tags:
-- movies
+tags: []
 title: A Leoa
 ---
 

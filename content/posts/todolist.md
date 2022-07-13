@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2007-08-27'
 title: ToDoList
 ---

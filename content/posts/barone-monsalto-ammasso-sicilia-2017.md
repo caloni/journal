@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2021-06-28T21:43:00-03:00'
-tags:
 - wine
+date: '2021-06-28T21:43:00-03:00'
+tags: []
 title: Barone Montalto Ammasso Sicilia 2017
 ---
 

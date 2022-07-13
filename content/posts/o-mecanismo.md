@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- series
 date: '2018-03-26'
 link: https://www.imdb.com/title/tt6873658
-tags:
-- series
+tags: []
 title: O Mecanismo
 ---
 

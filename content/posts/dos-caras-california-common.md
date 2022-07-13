@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
-date: '2018-01-03'
-tags:
 - beer
 - food
+date: '2018-01-03'
+tags: []
 title: Dos Caras California Common
 ---
 

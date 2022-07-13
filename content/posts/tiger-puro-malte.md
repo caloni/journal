@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2022-03-02T12:12:50-03:00'
-tags:
 - beer
+date: '2022-03-02T12:12:50-03:00'
+tags: []
 title: Tiger Puro Malte
 ---
 

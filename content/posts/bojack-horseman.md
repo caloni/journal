@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- series
 date: '2021-05-15'
 link: https://www.imdb.com/title/tt3398228
-tags:
-- series
+tags: []
 title: BoJack Horseman
 ---
 

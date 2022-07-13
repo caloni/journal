@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2019-04-28'
-tags:
 - food
+date: '2019-04-28'
+tags: []
 title: Café do Vovô Joel
 ---
 

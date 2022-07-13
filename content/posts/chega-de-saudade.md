@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2012-11-04'
 link: https://www.imdb.com/title/tt0977642
-tags:
-- movies
+tags: []
 title: Chega de Saudade
 ---
 

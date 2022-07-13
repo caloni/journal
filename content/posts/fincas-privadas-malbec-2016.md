@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2017-06-11'
-tags:
 - food
+date: '2017-06-11'
+tags: []
 title: Fincas Privadas Malbec 2016
 ---
 

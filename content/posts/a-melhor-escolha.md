@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2018-01-18'
 link: https://www.imdb.com/title/tt6018306
 tags:
 - cinemaqui
-- movies
 title: A Melhor Escolha
 ---
 

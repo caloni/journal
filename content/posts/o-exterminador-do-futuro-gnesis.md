@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2015-10-16'
 link: https://www.imdb.com/title/tt1340138
-tags:
-- movies
+tags: []
 title: 'O Exterminador do Futuro: Gênesis'
 ---
 

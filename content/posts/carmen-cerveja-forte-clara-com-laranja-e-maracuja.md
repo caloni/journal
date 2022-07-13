@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2019-02-03'
-tags:
 - food
+date: '2019-02-03'
+tags: []
 title: Carmen Cerveja Forte Clara com Laranja e Maracujá
 ---
 

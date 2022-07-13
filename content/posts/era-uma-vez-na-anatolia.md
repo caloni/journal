@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2020-06-22'
 link: https://www.imdb.com/title/tt1827487
-tags:
-- movies
+tags: []
 title: Era uma Vez na Anatolia
 ---
 

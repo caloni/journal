@@ -1,9 +1,8 @@
 ---
 categories:
-- blog
-date: '2014-10-03'
-tags:
 - movies
+date: '2014-10-03'
+tags: []
 title: Walter de Carvalho
 ---
 

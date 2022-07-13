@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2016-11-26'
 link: https://www.imdb.com/title/tt1596363
-tags:
-- movies
+tags: []
 title: A Grande Aposta
 ---
 

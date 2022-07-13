@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2017-06-05'
 link: https://www.imdb.com/title/tt2735996
-tags:
-- movies
+tags: []
 title: Ninguém Deseja a Noite
 ---
 

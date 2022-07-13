@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2009-02-10'
 tags: null
 title: WinDbg.info

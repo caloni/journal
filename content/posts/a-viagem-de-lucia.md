@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2011-09-07'
 link: https://www.imdb.com/title/tt1463167
-tags:
-- movies
+tags: []
 title: A Viagem de Lucia
 ---
 

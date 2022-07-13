@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2011-06-26'
 link: https://www.imdb.com/title/tt1305806
-tags:
-- movies
+tags: []
 title: O Segredo dos Seus Olhos
 ---
 

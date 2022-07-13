@@ -1,9 +1,8 @@
 ---
 categories:
-- blog
-date: '2022-04-18T21:35:10-03:00'
-tags:
 - movies
+date: '2022-04-18T21:35:10-03:00'
+tags: []
 title: Três Canções Para Benazir
 ---
 

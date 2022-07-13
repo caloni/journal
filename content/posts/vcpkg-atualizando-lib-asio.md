@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2019-09-07'
 tags: null
 title: 'Vcpkg: Atualizando Lib Asio'

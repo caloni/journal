@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2020-04-05'
 link: https://www.imdb.com/title/tt0110008
-tags:
-- movies
+tags: []
 title: 'PomPoko: A Grande Batalha dos Guaxinins'
 ---
 

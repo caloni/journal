@@ -1,7 +1,6 @@
 ---
 author: Wanderley Caloni
-categories:
-- blog
+categories: []
 date: '2017-04-24'
 tags: null
 title: Como publicar um livro na Amazon

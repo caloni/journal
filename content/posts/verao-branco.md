@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2020-11-02'
 link: https://www.imdb.com/title/tt11394288
 tags:
 - cinemaqui
-- movies
 title: Verão Branco
 ---
 

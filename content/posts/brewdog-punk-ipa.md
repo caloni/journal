@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
-date: '2018-07-15'
-tags:
 - beer
 - food
+date: '2018-07-15'
+tags: []
 title: Brewdog Punk IPA
 ---
 

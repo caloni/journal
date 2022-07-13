@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2020-03-17'
 link: https://www.imdb.com/title/tt0283431
-tags:
-- movies
+tags: []
 title: A Caminho de Kandahar
 ---
 

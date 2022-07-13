@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2008-06-16'
 tags: null
 title: Como fazer merge de projetos distintos no Bazaar

@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2022-02-15T22:28:09-03:00'
-tags:
 - wine
+date: '2022-02-15T22:28:09-03:00'
+tags: []
 title: Burebista Feteasca Neagra Rose 2020
 ---
 

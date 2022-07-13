@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2020-02-05'
 link: https://www.imdb.com/title/tt4693588
 tags:
 - cinemaqui
-- movies
 title: A Chance de Fahim
 ---
 

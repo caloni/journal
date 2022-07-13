@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2012-07-20'
 link: https://www.imdb.com/title/tt1735898
-tags:
-- movies
+tags: []
 title: Branca de Neve e o Caçador
 ---
 

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- animes
 date: '2021-06-05'
 link: https://www.imdb.com/title/tt14022814
-tags:
-- animes
+tags: []
 title: 'Jouran: The Princess of Snow and Blood'
 ---
 

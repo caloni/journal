@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
+- movies
 date: '2021-10-04T20:40:55-03:00'
 tags:
-- movies
 - cinemaqui
 title: Confissões de uma Garota Excluída
 ---

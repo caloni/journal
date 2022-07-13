@@ -3,7 +3,7 @@ categories:
 - code
 date: '2020-06-07'
 link: /ppt/awk
-tags:
+tags: null
 title: Awk
 ---
 
@@ -110,4 +110,3 @@ END { print " - DONE -" }
  - [Awk in 20 Minutes](https://ferd.ca/awk-in-20-minutes.html), de Fred Hebert.
  - [Tutorial from an Experient Mind](https://www.grymoire.com/Unix/Awk.html), de Bruce Barnett.
  - [Gawk Guide](https://www.gnu.org/software/gawk/manual/gawk.html).
-

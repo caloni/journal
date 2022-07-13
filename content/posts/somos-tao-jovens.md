@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2013-05-14'
 link: https://www.imdb.com/title/tt2215537
-tags:
-- movies
+tags: []
 title: Somos Tão Jovens
 ---
 

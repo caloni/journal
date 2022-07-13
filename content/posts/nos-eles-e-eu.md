@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2016-04-30'
 link: https://www.imdb.com/title/tt4598764
 tags:
 - cinemaqui
-- movies
 title: Nós, Eles e Eu
 ---
 

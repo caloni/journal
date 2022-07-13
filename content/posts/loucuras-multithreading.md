@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2011-03-18'
 tags: null
 title: Loucuras multithreading

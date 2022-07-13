@@ -1,9 +1,8 @@
 ---
 categories:
-- blog
-date: '2019-09-08'
-tags:
 - books
+date: '2019-09-08'
+tags: []
 title: Story, by Robert McKee
 ---
 

@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2017-10-22'
-tags:
 - food
+date: '2017-10-22'
+tags: []
 title: Sete Quedas Poços de Caldas Expresso Torrado
 ---
 

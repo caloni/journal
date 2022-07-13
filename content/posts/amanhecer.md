@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
+- movies
 date: '2021-10-27T22:30:33-03:00'
 tags:
-- movies
 - cinemaqui
 title: Amanhecer
 ---

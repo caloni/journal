@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-08-28'
 link: https://www.imdb.com/title/tt4523910
 tags:
 - cinemaqui
-- movies
 title: Chicuarotes
 ---
 

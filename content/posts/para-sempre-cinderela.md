@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2016-11-17'
 link: https://www.imdb.com/title/tt0120631
-tags:
-- movies
+tags: []
 title: Para Sempre Cinderela
 ---
 

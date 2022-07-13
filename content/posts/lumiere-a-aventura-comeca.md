@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2017-12-02'
 link: https://www.imdb.com/title/tt5954462
 tags:
 - cinemaqui
-- movies
 title: Lumière! A Aventura Começa
 ---
 

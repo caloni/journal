@@ -1,10 +1,9 @@
 ---
 categories:
-- blog
+- reading
 date: '2017-05-28'
 link: https://ideallibertario.wordpress.com/2016/04/25/os-fundamentos-praxeologicos-da-teoria-legal-libertaria/
-tags:
-- reading
+tags: []
 title: Os fundamentos praxeológicos da Teoria Legal Libertária
 ---
 

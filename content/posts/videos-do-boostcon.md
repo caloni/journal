@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2011-06-10'
 link: http://blip.tv/boostcon
 tags: null

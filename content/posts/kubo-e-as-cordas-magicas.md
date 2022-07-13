@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2016-12-03'
 link: https://www.imdb.com/title/tt4302938
-tags:
-- movies
+tags: []
 title: Kubo e as Cordas Mágicas
 ---
 

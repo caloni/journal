@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2021-03-13'
 link: https://www.imdb.com/title/tt0241683
-tags:
-- movies
+tags: []
 title: O Casamento de Louise
 ---
 

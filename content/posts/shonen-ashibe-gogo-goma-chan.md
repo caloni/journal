@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- animes
 date: '2021-05-22'
 link: https://www.imdb.com/title/tt5824736
-tags:
-- animes
+tags: []
 title: Shônen Ashibe GO! GO! Goma-chan
 ---
 

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
-date: '2016-01-31'
-tags:
 - beer
 - food
+date: '2016-01-31'
+tags: []
 title: Löwenbräu
 ---
 

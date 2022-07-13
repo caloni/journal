@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2021-02-15'
 link: https://www.imdb.com/title/tt10883506
-tags:
-- movies
+tags: []
 title: A Sun
 ---
 

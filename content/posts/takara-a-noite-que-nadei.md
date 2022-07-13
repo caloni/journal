@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2018-08-16'
 link: https://www.imdb.com/title/tt7336012
 tags:
 - cinemaqui
-- movies
 title: 'Takara: A Noite que Nadei'
 ---
 

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2011-11-03'
 link: https://www.imdb.com/title/tt1522238
-tags:
-- movies
+tags: []
 title: Pedaço de Papel
 ---
 

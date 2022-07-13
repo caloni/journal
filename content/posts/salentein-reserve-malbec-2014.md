@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2017-05-03'
-tags:
 - food
+date: '2017-05-03'
+tags: []
 title: Salentein Reserve Malbec 2014
 ---
 

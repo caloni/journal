@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2017-10-24'
 link: https://www.imdb.com/title/tt4693358
-tags:
-- movies
+tags: []
 title: Otherlife
 ---
 

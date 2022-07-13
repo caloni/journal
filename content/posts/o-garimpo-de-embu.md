@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2022-02-22T21:29:57-03:00'
-tags:
 - food
+date: '2022-02-22T21:29:57-03:00'
+tags: []
 title: O Garimpo de Embu
 ---
 

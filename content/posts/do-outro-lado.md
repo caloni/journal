@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2021-07-05T21:49:00-03:00'
-tags:
 - movies
+date: '2021-07-05T21:49:00-03:00'
+tags: []
 title: Do Outro Lado
 ---
 

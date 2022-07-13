@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2018-12-30'
-tags:
 - food
+date: '2018-12-30'
+tags: []
 title: WP Reserve
 ---
 

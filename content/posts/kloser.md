@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
-date: '2019-04-13'
-tags:
 - beer
 - food
+date: '2019-04-13'
+tags: []
 title: Kloser
 ---
 

@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
+- movies
 date: '2021-11-08T19:01:32-03:00'
 tags:
-- movies
 - cinemaqui
 title: Tudo ou Nada
 ---

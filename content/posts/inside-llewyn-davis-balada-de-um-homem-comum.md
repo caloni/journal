@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2014-03-24'
 link: https://www.imdb.com/title/tt2042568
-tags:
-- movies
+tags: []
 title: 'Inside Llewyn Davis: Balada de um Homem Comum'
 ---
 

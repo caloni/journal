@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2016-05-31'
 tags: null
 title: Cezinha Explica

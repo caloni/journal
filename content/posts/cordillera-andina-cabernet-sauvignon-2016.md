@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2017-11-05'
-tags:
 - food
+date: '2017-11-05'
+tags: []
 title: Cordillera Andina Cabernet Sauvignon 2016
 ---
 

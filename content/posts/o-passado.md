@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-05-04'
 link: https://www.imdb.com/title/tt0765469
-tags:
-- movies
+tags: []
 title: O Passado
 ---
 

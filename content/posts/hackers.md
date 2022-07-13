@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2011-11-19'
 link: https://www.imdb.com/title/tt0113243
-tags:
-- movies
+tags: []
 title: Hackers
 ---
 

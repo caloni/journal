@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2022-06-13T20:00:18-03:00'
-tags:
 - movies
+date: '2022-06-13T20:00:18-03:00'
+tags: []
 title: O Mistério de Silver Lake
 ---
 

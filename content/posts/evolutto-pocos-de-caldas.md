@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2015-04-13'
-tags:
 - food
+date: '2015-04-13'
+tags: []
 title: Evolutto Poços de Caldas
 ---
 

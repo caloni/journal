@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2012-06-04'
 tags: null
 title: Meus repositórios no GitHub

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2012-10-28'
 link: https://www.imdb.com/title/tt0444653
-tags:
-- movies
+tags: []
 title: De Bico Calado
 ---
 

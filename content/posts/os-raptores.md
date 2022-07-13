@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-06-05'
 link: https://www.imdb.com/title/tt0201003
-tags:
-- movies
+tags: []
 title: Os Raptores
 ---
 

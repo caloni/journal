@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-09-29'
 link: https://www.imdb.com/title/tt0117500
-tags:
-- movies
+tags: []
 title: A Rocha
 ---
 

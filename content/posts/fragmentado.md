@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2017-04-18'
 link: https://www.imdb.com/title/tt4972582
-tags:
-- movies
+tags: []
 title: Fragmentado
 ---
 

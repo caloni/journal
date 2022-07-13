@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2018-03-21'
 tags: null
 title: Projeto Aluno

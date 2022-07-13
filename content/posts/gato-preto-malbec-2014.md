@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2016-05-12'
-tags:
 - food
+date: '2016-05-12'
+tags: []
 title: Gato Preto Malbec 2014
 ---
 

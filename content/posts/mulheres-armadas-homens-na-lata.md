@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-08-05'
 link: https://www.imdb.com/title/tt8083606
 tags:
 - cinemaqui
-- movies
 title: Mulheres Armadas, Homens na Lata
 ---
 

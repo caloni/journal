@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-10-27'
 link: https://www.imdb.com/title/tt4154796
-tags:
-- movies
+tags: []
 title: 'Vingadores: Ultimato'
 ---
 

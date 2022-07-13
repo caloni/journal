@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2017-02-05'
-tags:
 - food
+date: '2017-02-05'
+tags: []
 title: Callia Alta Malbec 2016
 ---
 

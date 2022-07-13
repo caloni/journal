@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2020-08-29'
 link: https://www.imdb.com/title/tt8946378
-tags:
-- movies
+tags: []
 title: Entre Facas e Segredos
 ---
 

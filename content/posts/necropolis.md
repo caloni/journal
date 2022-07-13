@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- series
 date: '2019-04-22'
 link: https://www.imdb.com/title/tt9893572
-tags:
-- series
+tags: []
 title: Necrópolis
 ---
 

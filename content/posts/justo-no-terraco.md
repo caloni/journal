@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2022-03-20T16:07:49-03:00'
-tags:
 - food
+date: '2022-03-20T16:07:49-03:00'
+tags: []
 title: Justo no Terraço
 ---
 

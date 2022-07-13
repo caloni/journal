@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-08-02'
 link: https://www.imdb.com/title/tt0308071
-tags:
-- movies
+tags: []
 title: Queimando ao Vento
 ---
 

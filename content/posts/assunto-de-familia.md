@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-09-09'
 link: https://www.imdb.com/title/tt8075192
-tags:
-- movies
+tags: []
 title: Assunto de Família
 ---
 

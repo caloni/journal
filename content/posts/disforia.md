@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2020-03-08'
 tags:
 - cinemaqui
-- movies
 title: Disforia
 ---
 

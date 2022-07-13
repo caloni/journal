@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2017-11-16'
 link: https://www.imdb.com/title/tt3810810
 tags:
 - cinemaqui
-- movies
 title: Ninguém Está Olhando
 ---
 

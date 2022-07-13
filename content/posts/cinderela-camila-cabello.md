@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2021-09-08T20:30:08-03:00'
-tags:
 - movies
+date: '2021-09-08T20:30:08-03:00'
+tags: []
 title: Cinderela (2021)
 ---
 

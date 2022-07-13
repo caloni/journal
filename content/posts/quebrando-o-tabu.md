@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2011-06-23'
 link: https://www.imdb.com/title/tt1951090
-tags:
-- movies
+tags: []
 title: Quebrando o Tabu
 ---
 

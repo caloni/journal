@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2017-03-21'
 tags: null
 title: 'NativeFloripa 2017: Impressões'

@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2016-07-06'
 link: https://www.imdb.com/title/tt3068194
 tags:
 - cinemaqui
-- movies
 title: Amor e Amizade
 ---
 

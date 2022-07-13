@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2013-01-01'
 link: https://www.imdb.com/title/tt0353969
-tags:
-- movies
+tags: []
 title: Memórias de um Assassino
 ---
 

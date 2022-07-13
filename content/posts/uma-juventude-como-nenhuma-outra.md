@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2020-01-06'
 link: https://www.imdb.com/title/tt0478999
-tags:
-- movies
+tags: []
 title: Uma Juventude Como Nenhuma Outra
 ---
 

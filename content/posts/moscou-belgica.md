@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2010-09-24'
 link: https://www.imdb.com/title/tt0948530
-tags:
-- movies
+tags: []
 title: Moscou Bélgica
 ---
 

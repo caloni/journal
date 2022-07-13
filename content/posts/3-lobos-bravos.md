@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
-date: '2015-01-07'
-tags:
 - beer
 - food
+date: '2015-01-07'
+tags: []
 title: 3 Lobos Bravos
 ---
 

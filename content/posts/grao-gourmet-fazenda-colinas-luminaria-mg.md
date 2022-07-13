@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2018-04-25'
-tags:
 - food
+date: '2018-04-25'
+tags: []
 title: Grão Gourmet Fazenda Colinas Luminária MG
 ---
 

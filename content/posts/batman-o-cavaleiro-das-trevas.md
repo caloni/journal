@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-03-29'
 link: https://www.imdb.com/title/tt0468569
-tags:
-- movies
+tags: []
 title: 'Batman: O Cavaleiro Das Trevas'
 ---
 

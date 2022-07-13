@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2008-09-25'
 tags: null
 title: Cnasi, geração Y e seus gastos em TI

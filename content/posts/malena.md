@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2014-02-05'
 link: https://www.imdb.com/title/tt0213847
-tags:
-- movies
+tags: []
 title: Malena
 ---
 

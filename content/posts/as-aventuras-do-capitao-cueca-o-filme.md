@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2017-10-21'
 link: https://www.imdb.com/title/tt2091256
-tags:
-- movies
+tags: []
 title: As Aventuras Do Capitao Cueca O Filme
 ---
 

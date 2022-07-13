@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2012-09-24'
 link: https://www.imdb.com/title/tt0095444
-tags:
-- movies
+tags: []
 title: Palhaços Assassinos do Espaço Sideral
 ---
 

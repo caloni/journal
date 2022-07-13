@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2016-12-15'
 link: https://www.imdb.com/title/tt5215952
 tags:
 - cinemaqui
-- movies
 title: O Lamento
 ---
 

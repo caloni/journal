@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2017-01-05'
 link: https://www.imdb.com/title/tt3263904
-tags:
-- movies
+tags: []
 title: 'Sully: O Herói do Rio Hudson'
 ---
 

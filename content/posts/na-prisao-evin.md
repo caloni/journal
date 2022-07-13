@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
+- movies
 date: '2021-10-27T22:30:15-03:00'
 tags:
-- movies
 - cinemaqui
 title: Na Prisão Evin
 ---

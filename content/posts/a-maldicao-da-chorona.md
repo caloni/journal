@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-12-21'
 link: https://www.imdb.com/title/tt4913966
-tags:
-- movies
+tags: []
 title: A Maldição da Chorona
 ---
 

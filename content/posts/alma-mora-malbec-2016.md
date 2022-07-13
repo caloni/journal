@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2017-03-02'
-tags:
 - food
+date: '2017-03-02'
+tags: []
 title: Alma Mora Malbec 2016
 ---
 

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2015-01-26'
 link: https://www.imdb.com/title/tt0119310
-tags:
-- movies
+tags: []
 title: Querida, Encolhi a Gente
 ---
 

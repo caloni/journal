@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2020-06-21'
 link: https://t.me/progclucb/29383
 title: Teoria, Prática e Código

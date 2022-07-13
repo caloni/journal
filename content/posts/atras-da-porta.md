@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2013-03-11'
 link: https://www.imdb.com/title/tt1194577
-tags:
-- movies
+tags: []
 title: Atrás da Porta
 ---
 

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2012-09-30'
 link: https://www.imdb.com/title/tt0797093
-tags:
-- movies
+tags: []
 title: De Quem é a Cinta Liga?
 ---
 

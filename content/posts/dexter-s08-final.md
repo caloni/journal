@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- series
 date: '2014-11-09T21:00:00-03:00'
 link: https://www.imdb.com/title/tt0773262
-tags:
-- series
+tags: []
 title: Dexter - O Final
 ---
 

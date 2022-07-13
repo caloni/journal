@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2018-06-27'
 link: https://www.imdb.com/title/tt5095030
 tags:
 - cinemaqui
-- movies
 title: Homem-Formiga e a Vespa
 ---
 

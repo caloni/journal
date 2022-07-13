@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2011-02-07'
 tags: null
 title: Mudança

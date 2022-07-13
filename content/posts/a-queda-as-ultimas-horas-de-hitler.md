@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2011-06-12'
 link: https://www.imdb.com/title/tt0363163
-tags:
-- movies
+tags: []
 title: A Queda! As Últimas Horas de Hitler
 ---
 

@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2019-08-21'
-tags:
 - food
+date: '2019-08-21'
+tags: []
 title: Restaurante Nara Lámen
 ---
 

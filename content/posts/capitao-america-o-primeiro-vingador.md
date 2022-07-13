@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2011-08-09'
 link: https://www.imdb.com/title/tt0458339
-tags:
-- movies
+tags: []
 title: 'Capitão América: O Primeiro Vingador'
 ---
 

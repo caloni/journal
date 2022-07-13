@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2015-08-31'
 link: https://www.imdb.com/title/tt3163304
 tags:
 - cinemaqui
-- movies
 title: A Festa de Despedida
 ---
 

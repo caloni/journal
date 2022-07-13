@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2020-11-14'
 link: https://www.imdb.com/title/tt7846844
-tags:
-- movies
+tags: []
 title: Enola Holmes
 ---
 

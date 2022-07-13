@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2012-06-10'
 link: https://www.imdb.com/title/tt1259571
-tags:
-- movies
+tags: []
 title: 'A Saga Crepúsculo: Lua Nova'
 ---
 

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2017-04-01'
 link: https://www.imdb.com/title/tt0435651
-tags:
-- movies
+tags: []
 title: O Doador de Memórias
 ---
 

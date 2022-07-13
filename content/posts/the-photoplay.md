@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2018-08-27'
-tags:
 - books
+date: '2018-08-27'
+tags: []
 title: The Photoplay
 ---
 

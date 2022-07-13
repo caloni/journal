@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2008-04-23'
 title: 'CSI: Crashed Server Investigation?'
 ---

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- series
 date: '2014-10-05'
 link: https://www.imdb.com/title/tt3069212
-tags:
-- series
+tags: []
 title: 'Street Fighter: Assassin''s Fist'
 ---
 

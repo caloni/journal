@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2009-04-09'
 tags: null
 title: Deixe o programador programar

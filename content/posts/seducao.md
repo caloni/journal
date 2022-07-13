@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2020-01-16'
 link: https://www.imdb.com/title/tt0103791
-tags:
-- movies
+tags: []
 title: Sedução
 ---
 

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2012-03-11'
 link: https://www.imdb.com/title/tt0118849
-tags:
-- movies
+tags: []
 title: Filhos do Paraíso
 ---
 

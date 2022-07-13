@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2015-07-13'
 tags: null
 title: TDC 2015 No More

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- series
 date: '2019-01-02'
 link: https://www.imdb.com/title/tt9170638
-tags:
-- series
+tags: []
 title: Amor Ocasional
 ---
 

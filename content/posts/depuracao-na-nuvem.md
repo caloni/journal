@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2013-04-01'
 tags: null
 title: Depuração na nuvem com o novo Visual Studio

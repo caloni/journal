@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2021-06-05'
 link: https://www.imdb.com/title/tt11126036
 tags:
 - cinemaqui
-- movies
 title: Acqua Movie
 ---
 

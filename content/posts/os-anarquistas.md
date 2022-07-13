@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2016-05-14'
 link: https://www.imdb.com/title/tt4466336
 tags:
 - cinemaqui
-- movies
 title: Os Anarquistas
 ---
 

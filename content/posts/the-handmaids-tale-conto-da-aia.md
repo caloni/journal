@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- series
 date: '2018-04-15'
 link: https://www.imdb.com/title/tt5834204
-tags:
-- series
+tags: []
 title: The Handmaid's Tale (O Conto da Aia)
 ---
 

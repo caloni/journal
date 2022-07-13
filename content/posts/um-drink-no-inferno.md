@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2012-09-19'
 link: https://www.imdb.com/title/tt0116367
-tags:
-- movies
+tags: []
 title: Um Drink no Inferno
 ---
 

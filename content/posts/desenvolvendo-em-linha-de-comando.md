@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2007-11-01'
 title: Desenvolvendo em linha de comando
 ---

@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2018-03-28'
 link: https://www.imdb.com/title/tt7368464
 tags:
 - cinemaqui
-- movies
 title: Construindo Pontes
 ---
 

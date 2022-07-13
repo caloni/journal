@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2022-04-18T21:36:53-03:00'
-tags:
 - series
+date: '2022-04-18T21:36:53-03:00'
+tags: []
 title: Ninguém Pode Saber (Pieces of Her)
 ---
 

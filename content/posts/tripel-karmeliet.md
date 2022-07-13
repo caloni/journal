@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
-date: '2018-08-06'
-tags:
 - beer
 - food
+date: '2018-08-06'
+tags: []
 title: Tripel Karmeliet
 ---
 

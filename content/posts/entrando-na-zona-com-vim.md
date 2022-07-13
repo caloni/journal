@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2017-01-05'
 title: Entrando na zona com Vim
 ---

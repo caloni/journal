@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2015-01-04'
 link: https://www.imdb.com/title/tt2368672
-tags:
-- movies
+tags: []
 title: Minúsculos O Filme
 ---
 

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2015-06-13'
 link: https://www.imdb.com/title/tt0289879
-tags:
-- movies
+tags: []
 title: Efeito Borboleta
 ---
 

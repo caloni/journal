@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2021-05-22'
 link: https://www.imdb.com/title/tt0051983
-tags:
-- movies
+tags: []
 title: Nazarín
 ---
 

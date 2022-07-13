@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2021-09-21T22:34:42-03:00'
-tags:
 - food
+date: '2021-09-21T22:34:42-03:00'
+tags: []
 title: Docinhos e bolo da chefe equilibrada
 ---
 

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2011-09-11'
 link: https://www.imdb.com/title/tt0472181
-tags:
-- movies
+tags: []
 title: Os Smurfs
 ---
 

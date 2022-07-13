@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2015-04-11'
 link: https://www.imdb.com/title/tt0072431
-tags:
-- movies
+tags: []
 title: O Jovem Frankenstein
 ---
 

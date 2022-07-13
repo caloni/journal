@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2020-12-09'
 link: https://www.imdb.com/title/tt0073312
-tags:
-- movies
+tags: []
 title: A Última Noite de Bóris Grushenko
 ---
 

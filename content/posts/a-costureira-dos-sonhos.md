@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2018-10-22'
 link: https://www.imdb.com/title/tt7142506
 tags:
 - cinemaqui
-- movies
 title: A Costureira dos Sonhos
 ---
 

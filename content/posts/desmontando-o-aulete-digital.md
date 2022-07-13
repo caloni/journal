@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2014-05-27'
 tags: null
 title: Desmontando o Aulete Digital

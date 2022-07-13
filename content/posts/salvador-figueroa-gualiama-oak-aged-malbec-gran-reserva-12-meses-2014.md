@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2017-05-10'
-tags:
 - food
+date: '2017-05-10'
+tags: []
 title: Salvador Figueroa Gualiama Oak Aged Malbec Gran Reserva 12 meses 2014
 ---
 

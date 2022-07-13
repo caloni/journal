@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2015-02-17'
 tags: null
 title: Como é escolher um filme pelo trailer

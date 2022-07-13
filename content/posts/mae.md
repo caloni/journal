@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2017-09-15'
 link: https://www.imdb.com/title/tt5109784
 tags:
 - cinemaqui
-- movies
 title: Mãe!
 ---
 

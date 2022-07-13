@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2015-08-20'
-tags:
 - food
+date: '2015-08-20'
+tags: []
 title: Manos Negras Malbec 2012
 ---
 

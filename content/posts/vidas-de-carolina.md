@@ -1,9 +1,8 @@
 ---
 categories:
-- blog
-date: '2017-01-12'
-tags:
 - movies
+date: '2017-01-12'
+tags: []
 title: Vidas de Carolina
 ---
 

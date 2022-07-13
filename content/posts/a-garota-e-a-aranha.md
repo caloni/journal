@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
+- movies
 date: '2021-10-23T12:19:59-03:00'
 tags:
-- movies
 - cinemaqui
 title: A Garota e A Aranha
 ---

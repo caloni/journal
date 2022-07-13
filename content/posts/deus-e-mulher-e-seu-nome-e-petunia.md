@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-10-23'
 link: https://www.imdb.com/title/tt8054608
 tags:
 - cinemaqui
-- movies
 title: Deus é Mulher e Seu Nome é Petúnia
 ---
 

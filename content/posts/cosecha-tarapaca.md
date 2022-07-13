@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
-date: '2018-10-09'
-tags:
 - wine
 - food
+date: '2018-10-09'
+tags: []
 title: Cosecha Tarapaca
 ---
 

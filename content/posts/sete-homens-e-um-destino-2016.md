@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2016-10-12'
 link: https://www.imdb.com/title/tt2404435
-tags:
-- movies
+tags: []
 title: Sete Homens e um Destino (2016)
 ---
 

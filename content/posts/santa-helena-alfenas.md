@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
-date: '2021-01-14'
-link: https://www.graogourmet.com/cafes-selecionados/cafes/fazenda-santa-helena/
-tags:
 - coffee
 - food
+date: '2021-01-14'
+link: https://www.graogourmet.com/cafes-selecionados/cafes/fazenda-santa-helena/
+tags: []
 title: Santa Helena Alfenas
 ---
 

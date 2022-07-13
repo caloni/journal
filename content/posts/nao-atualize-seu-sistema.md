@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2016-01-28'
 tags: null
 title: Não Atualize seu Sistema

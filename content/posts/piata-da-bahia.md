@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2015-06-05'
-tags:
 - food
+date: '2015-06-05'
+tags: []
 title: Piatã da Bahia
 ---
 

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
-date: '2018-10-28'
-tags:
 - beer
 - food
+date: '2018-10-28'
+tags: []
 title: Colorado Okto Session
 ---
 

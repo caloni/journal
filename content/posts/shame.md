@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2012-03-18'
 link: https://www.imdb.com/title/tt1723811
-tags:
-- movies
+tags: []
 title: Shame
 ---
 

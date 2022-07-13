@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-02-20'
 link: https://www.imdb.com/title/tt0368667
-tags:
-- movies
+tags: []
 title: Interstella 5555
 ---
 

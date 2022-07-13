@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2021-12-18T22:22:31-03:00'
-tags:
 - movies
+date: '2021-12-18T22:22:31-03:00'
+tags: []
 title: Cairo 678
 ---
 

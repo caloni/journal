@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2007-10-04'
 title: Cronogramas
 ---

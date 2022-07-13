@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2008-11-15'
 tags: null
 title: HouaissParaBabylon versão beta

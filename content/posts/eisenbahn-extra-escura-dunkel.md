@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
-date: '2017-09-12'
-tags:
 - beer
 - food
+date: '2017-09-12'
+tags: []
 title: Eisenbahn Extra Escura Dunkel
 ---
 

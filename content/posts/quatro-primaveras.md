@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
+- movies
 date: '2021-11-10T20:43:49-03:00'
 tags:
-- movies
 - cinemaqui
 title: Quatro Primaveras
 ---

@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2007-06-15'
 title: O bom filho à casa retorna
 ---

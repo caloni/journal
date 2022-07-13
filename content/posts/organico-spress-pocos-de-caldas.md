@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2015-04-28'
-tags:
 - food
+date: '2015-04-28'
+tags: []
 title: Orgânico Spress Poços de Caldas
 ---
 

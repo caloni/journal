@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2017-11-05'
-tags:
 - food
+date: '2017-11-05'
+tags: []
 title: Sítio Morada dos Pássaros Campestre MG
 ---
 

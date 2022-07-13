@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2015-09-25'
 link: https://www.imdb.com/title/tt3064298
-tags:
-- movies
+tags: []
 title: (Des)encontro Perfeito (Man Up)
 ---
 

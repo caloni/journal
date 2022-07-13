@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2012-05-27'
 tags: null
 title: Problemas comuns no WinDbg e suas soluções

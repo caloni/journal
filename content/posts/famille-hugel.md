@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
-date: '2018-09-23'
-tags:
 - wine
 - food
+date: '2018-09-23'
+tags: []
 title: Famille Hugel
 ---
 

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-06-17'
 link: https://www.imdb.com/title/tt0762110
-tags:
-- movies
+tags: []
 title: Irina Palm
 ---
 

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2014-06-07'
 link: https://www.imdb.com/title/tt1587707
-tags:
-- movies
+tags: []
 title: Saída pela Loja de Presentes
 ---
 

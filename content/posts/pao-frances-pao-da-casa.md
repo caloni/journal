@@ -1,10 +1,9 @@
 ---
 categories:
-- blog
+- recipes
 date: '2019-12-29'
 link: https://youtu.be/KCe85lhkfOg
-tags:
-- recipes
+tags: []
 title: Pão Francês do Pão da Casa
 ---
 

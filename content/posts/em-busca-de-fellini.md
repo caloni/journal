@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2017-11-23'
 link: https://www.imdb.com/title/tt4801232
 tags:
 - cinemaqui
-- movies
 title: Em Busca de Fellini
 ---
 

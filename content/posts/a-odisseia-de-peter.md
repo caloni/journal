@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2018-10-10'
 tags:
 - cinemaqui
-- movies
 title: A Odisseia de Peter
 ---
 

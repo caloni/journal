@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
-date: '2018-12-30'
-tags:
 - beer
 - food
+date: '2018-12-30'
+tags: []
 title: Minerva Viena de Guadalajara
 ---
 

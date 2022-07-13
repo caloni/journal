@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2011-02-23'
 link: https://www.imdb.com/title/tt1542344
-tags:
-- movies
+tags: []
 title: 127 Horas
 ---
 

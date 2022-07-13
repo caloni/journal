@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2016-06-09'
 link: https://www.imdb.com/title/tt3480164
 tags:
 - cinemaqui
-- movies
 title: Vida Selvagem
 ---
 

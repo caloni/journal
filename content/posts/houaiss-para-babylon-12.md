@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2010-04-08'
 tags: null
 title: Houaiss Para Babylon!

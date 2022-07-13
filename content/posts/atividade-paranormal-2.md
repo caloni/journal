@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2010-11-07'
 link: https://www.imdb.com/title/tt1536044
-tags:
-- movies
+tags: []
 title: Atividade Paranormal 2
 ---
 

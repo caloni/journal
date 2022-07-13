@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2022-06-07T23:04:18-03:00'
-tags:
 - movies
+date: '2022-06-07T23:04:18-03:00'
+tags: []
 title: Aconteceu na Primavera
 ---
 

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-02-22'
 link: https://www.imdb.com/title/tt0362227
-tags:
-- movies
+tags: []
 title: O Terminal
 ---
 

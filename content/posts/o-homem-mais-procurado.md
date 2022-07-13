@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2015-01-17'
 link: https://www.imdb.com/title/tt1972571
-tags:
-- movies
+tags: []
 title: O Homem Mais Procurado
 ---
 

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2016-05-29'
 link: https://www.imdb.com/title/tt2567026
-tags:
-- movies
+tags: []
 title: Alice Através do Espelho
 ---
 

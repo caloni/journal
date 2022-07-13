@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2021-11-14T20:46:48-03:00'
-tags:
 - series
+date: '2021-11-14T20:46:48-03:00'
+tags: []
 title: Homem de Castanha
 ---
 

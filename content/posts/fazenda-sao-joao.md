@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
-date: '2020-06-13'
-link: https://www.coffeehunter.com/the-coffee/fazenda-sao-joao-2/
-tags:
 - coffee
 - food
+date: '2020-06-13'
+link: https://www.coffeehunter.com/the-coffee/fazenda-sao-joao-2/
+tags: []
 title: Fazenda São João (Produtor Osvaldo Bachião, Nova Rezende, Sul de Minas)
 ---
 

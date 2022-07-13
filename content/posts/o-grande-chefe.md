@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2015-09-30'
 link: https://www.imdb.com/title/tt0469754
-tags:
-- movies
+tags: []
 title: O Grande Chefe
 ---
 

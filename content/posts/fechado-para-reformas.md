@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2020-05-19'
 title: Fechado Para Reformas
 ---

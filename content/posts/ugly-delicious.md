@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- series
 date: '2018-11-17'
 link: https://www.imdb.com/title/tt7907916
-tags:
-- series
+tags: []
 title: Ugly Delicious
 ---
 

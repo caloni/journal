@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-09-28'
 tags:
 - cinemaqui
-- movies
 title: 'Frans Krajcberg: Manifesto'
 ---
 

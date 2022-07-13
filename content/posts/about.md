@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 css: '<style>section .title, .subtitle, .taglist { display: none; }</style>'
 date: '2007-06-14'
 title: Wanderley Caloni

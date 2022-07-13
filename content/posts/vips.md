@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2013-03-04'
 link: https://www.imdb.com/title/tt1235548
-tags:
-- movies
+tags: []
 title: VIPs
 ---
 

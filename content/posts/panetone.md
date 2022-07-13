@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- food
+- recipes
 date: '2019-12-11'
 link: https://youtu.be/bLA2hUJvX6s
-tags:
-- recipes
-- food
+tags: []
 title: Panetone
 ---
 

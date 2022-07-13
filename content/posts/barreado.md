@@ -1,10 +1,9 @@
 ---
 categories:
-- blog
+- recipes
 date: '2022-06-11T20:55:23-03:00'
 link: https://caldobom.com.br/receita/barreado.html
-tags:
-- recipes
+tags: []
 title: Barreado
 ---
 

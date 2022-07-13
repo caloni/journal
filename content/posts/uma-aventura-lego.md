@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2014-03-03'
 link: https://www.imdb.com/title/tt1490017
-tags:
-- movies
+tags: []
 title: Uma Aventura Lego
 ---
 

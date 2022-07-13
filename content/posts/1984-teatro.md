@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2018-10-26'
 tags: null
 title: '1984: A Peça'

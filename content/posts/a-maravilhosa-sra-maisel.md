@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2022-03-09T22:25:14-03:00'
-tags:
 - series
+date: '2022-03-09T22:25:14-03:00'
+tags: []
 title: A Maravilhosa Sra. Maisel
 ---
 

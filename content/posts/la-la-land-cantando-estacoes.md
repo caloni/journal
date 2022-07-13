@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2017-01-27'
 link: https://www.imdb.com/title/tt3783958
-tags:
-- movies
+tags: []
 title: 'La La Land: Cantando Estações'
 ---
 

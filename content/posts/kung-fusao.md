@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2013-10-06'
 link: https://www.imdb.com/title/tt0373074
-tags:
-- movies
+tags: []
 title: Kung-Fusão
 ---
 

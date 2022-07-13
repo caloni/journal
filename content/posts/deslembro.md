@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-06-03'
 link: https://www.imdb.com/title/tt8900098
 tags:
 - cinemaqui
-- movies
 title: Deslembro
 ---
 

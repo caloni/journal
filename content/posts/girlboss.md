@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- series
 date: '2017-04-26'
 link: https://www.imdb.com/title/tt5706996
-tags:
-- series
+tags: []
 title: Girlboss - Primeira Temporada
 ---
 

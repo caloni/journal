@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2015-03-13'
 link: https://www.imdb.com/title/tt2316411
-tags:
-- movies
+tags: []
 title: O Homem Duplicado
 ---
 

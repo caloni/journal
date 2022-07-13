@@ -1,9 +1,8 @@
 ---
 categories:
-- blog
-date: '2022-07-09T14:41:45-03:00'
-tags:
 - movies
+date: '2022-07-09T14:41:45-03:00'
+tags: []
 title: Beavis and Butt-Head Do The Universe
 ---
 

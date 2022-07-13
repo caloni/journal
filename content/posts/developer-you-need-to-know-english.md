@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2007-09-28'
 title: 'Developer: you need to know English!'
 ---

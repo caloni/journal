@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2018-02-19'
 link: https://www.imdb.com/title/tt1192628
-tags:
-- movies
+tags: []
 title: Rango
 ---
 

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2011-11-02'
 link: https://www.imdb.com/title/tt1403865
-tags:
-- movies
+tags: []
 title: Bravura Indômita
 ---
 

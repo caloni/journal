@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2015-06-07'
 link: https://www.imdb.com/title/tt1528071
-tags:
-- movies
+tags: []
 title: Amaldiçoado
 ---
 

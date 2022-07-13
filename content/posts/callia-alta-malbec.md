@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2015-04-19'
-tags:
 - food
+date: '2015-04-19'
+tags: []
 title: Callia Alta Malbec
 ---
 

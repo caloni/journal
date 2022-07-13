@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2014-02-01'
 link: https://www.imdb.com/title/tt0816442
-tags:
-- movies
+tags: []
 title: A Menina que Roubava Livros
 ---
 

@@ -3,7 +3,7 @@ categories:
 - code
 date: '2022-06-25T20:32:56-03:00'
 link: https://livefreeordichotomize.com/2019/06/04/using_awk_and_r_to_parse_25tb/
-tags:
+tags: null
 title: AWK and DNA
 ---
 
@@ -41,4 +41,3 @@ awk -F, '{ print > $2 ".csv" }' file.csv
 parallel --block 100M --pipe  \
         "awk -F '\t' '{print \$1\",...\"$30\">\"chunked/{#}_chr\"\$15\".csv\"}'"
 ```
-

@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2015-05-01'
-tags:
 - food
+date: '2015-05-01'
+tags: []
 title: Pilão Extra Forte
 ---
 

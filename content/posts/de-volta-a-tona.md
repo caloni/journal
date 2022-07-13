@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2008-09-07'
 tags: null
 title: De volta à tona

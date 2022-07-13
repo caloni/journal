@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- series
+- animes
 date: '2021-03-13'
 link: https://www.imdb.com/title/tt2309312
-tags:
-- animes
-- series
+tags: []
 title: Say I Love You (aka Suki-tte Ii na yo)
 ---
 

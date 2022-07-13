@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2015-08-02'
 link: https://www.imdb.com/title/tt0089606
-tags:
-- movies
+tags: []
 title: Minha Vida de Cachorro
 ---
 

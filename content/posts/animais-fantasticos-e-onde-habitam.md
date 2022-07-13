@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2016-12-15'
 link: https://www.imdb.com/title/tt3183660
-tags:
-- movies
+tags: []
 title: Animais Fantásticos e Onde Habitam
 ---
 

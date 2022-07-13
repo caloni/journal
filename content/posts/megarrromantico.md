@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-03-10'
 link: https://www.imdb.com/title/tt2452244
-tags:
-- movies
+tags: []
 title: Megarrromântico
 ---
 

@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2015-07-27'
 link: http://pt.slideshare.net/slideshow/embedcode/key/g5lKLH15KTcenu
 tags: null

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2015-09-27'
 link: https://www.imdb.com/title/tt1650393
-tags:
-- movies
+tags: []
 title: C.O.G.
 ---
 

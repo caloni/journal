@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-02-02'
 link: https://www.imdb.com/title/tt0093940
-tags:
-- movies
+tags: []
 title: Setembro
 ---
 

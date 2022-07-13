@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2020-01-21'
 link: https://www.imdb.com/title/tt0235060
-tags:
-- movies
+tags: []
 title: O Caminho Para Casa
 ---
 

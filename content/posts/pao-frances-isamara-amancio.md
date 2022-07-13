@@ -1,10 +1,9 @@
 ---
 categories:
-- blog
+- recipes
 date: '2021-12-19T17:13:34-03:00'
 link: https://youtu.be/Uhy3gGR2d6s
-tags:
-- recipes
+tags: []
 title: Pão Francês da Isamara Amâncio
 ---
 

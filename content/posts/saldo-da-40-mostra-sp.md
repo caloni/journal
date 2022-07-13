@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2016-11-02'
 tags:
 - lists

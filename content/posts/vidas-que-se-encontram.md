@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2020-09-26'
 link: https://www.imdb.com/title/tt9354118
 tags:
 - cinemaqui
-- movies
 title: Vidas que se Encontram
 ---
 

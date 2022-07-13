@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- series
 date: '2018-08-08'
 link: https://www.imdb.com/title/tt5554490
-tags:
-- series
+tags: []
 title: Better Call Saul - Quarta Temporada, Episódio 1
 ---
 

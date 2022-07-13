@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2022-06-11T20:56:01-03:00'
-tags:
 - coffee
+date: '2022-06-11T20:56:01-03:00'
+tags: []
 title: Colombia
 ---
 

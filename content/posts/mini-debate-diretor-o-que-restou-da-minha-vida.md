@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2016-10-21'
 tags: null
 title: Mini-Debate com diretor de O Que Restou da Minha Vida

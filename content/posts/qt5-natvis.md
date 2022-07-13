@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2017-03-15'
 tags: null
 title: qt5.natvis

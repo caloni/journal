@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2016-09-29'
 link: https://www.imdb.com/title/tt3612984
 tags:
 - cinemaqui
-- movies
 title: Romance à Francesa
 ---
 

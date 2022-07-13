@@ -1,10 +1,8 @@
 ---
 categories:
 - code
-- blog
 date: '2020-05-10'
-tags:
-- home
+tags: []
 title: O Bug Mais Bizarro que já Resolvi
 ---
 

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
-date: '2019-05-01'
-tags:
 - wine
 - food
+date: '2019-05-01'
+tags: []
 title: Miolo
 ---
 

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2015-05-17'
 link: https://www.imdb.com/title/tt0983193
-tags:
-- movies
+tags: []
 title: As Aventuras de Tintim
 ---
 

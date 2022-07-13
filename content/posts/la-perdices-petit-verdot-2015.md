@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2016-08-30'
-tags:
 - food
+date: '2016-08-30'
+tags: []
 title: La Perdices Petit Verdot 2015
 ---
 

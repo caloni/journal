@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2021-10-14T22:22:40-03:00'
-tags:
 - movies
+date: '2021-10-14T22:22:40-03:00'
+tags: []
 title: Flor do Meu Segredo
 ---
 

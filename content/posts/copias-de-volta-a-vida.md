@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2022-01-11T19:15:46-03:00'
-tags:
 - movies
+date: '2022-01-11T19:15:46-03:00'
+tags: []
 title: 'Cópias: De Volta à Vida'
 ---
 

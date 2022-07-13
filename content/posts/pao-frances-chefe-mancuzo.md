@@ -1,10 +1,9 @@
 ---
 categories:
-- blog
+- recipes
 date: '2021-12-28T22:26:03-03:00'
 link: https://youtu.be/PLDdc5CLKko
-tags:
-- recipes
+tags: []
 title: Pão Francês do Chefe Mancuzo
 ---
 

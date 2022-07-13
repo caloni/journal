@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2017-02-27'
 tags: null
 title: Atalhos no terminal do Linux/Unix

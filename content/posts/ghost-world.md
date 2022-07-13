@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-06-22'
 link: https://www.imdb.com/title/tt0162346
-tags:
-- movies
+tags: []
 title: 'Ghost World: Aprendendo a Viver'
 ---
 

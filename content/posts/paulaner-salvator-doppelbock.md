@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
-date: '2017-10-20'
-tags:
 - beer
 - food
+date: '2017-10-20'
+tags: []
 title: Paulaner Salvator Doppelbock
 ---
 

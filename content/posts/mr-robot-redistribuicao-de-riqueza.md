@@ -1,9 +1,8 @@
 ---
 categories:
-- blog
-date: '2021-11-01T22:34:22-03:00'
-tags:
 - series
+date: '2021-11-01T22:34:22-03:00'
+tags: []
 title: Mr. Robot e sua redistribuição de riqueza
 ---
 

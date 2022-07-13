@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2019-09-29'
-tags:
 - food
+date: '2019-09-29'
+tags: []
 title: Restaurante Daiki Sushi
 ---
 

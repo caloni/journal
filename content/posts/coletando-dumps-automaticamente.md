@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2012-05-17'
 link: https://docs.microsoft.com/en-us/windows/win32/wer/collecting-user-mode-dumps
 tags: null

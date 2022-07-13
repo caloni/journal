@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2021-01-02'
 tags: null
 title: Resoluções 2021

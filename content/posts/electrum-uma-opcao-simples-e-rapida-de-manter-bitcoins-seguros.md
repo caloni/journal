@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2016-08-16'
 tags: null
 title: 'Electrum: uma opção simples e rápida de manter bitcoins seguros'

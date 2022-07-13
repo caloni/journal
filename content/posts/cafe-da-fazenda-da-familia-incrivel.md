@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2021-12-05T21:30:03-03:00'
-tags:
 - coffee
+date: '2021-12-05T21:30:03-03:00'
+tags: []
 title: Café da Fazenda da Família Incrível
 ---
 

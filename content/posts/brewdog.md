@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
-date: '2018-07-13'
-tags:
 - beer
 - food
+date: '2018-07-13'
+tags: []
 title: Brewdog
 ---
 

@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2015-05-11'
 link: https://www.imdb.com/title/tt2933474
 tags:
 - cinemaqui
-- movies
 title: Super Velozes, Mega Furiosos
 ---
 

@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2016-06-03'
 link: https://www.imdb.com/title/tt4400038
 tags:
 - cinemaqui
-- movies
 title: Chocolate
 ---
 

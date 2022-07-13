@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2016-07-18'
 link: https://www.imdb.com/title/tt1967545
-tags:
-- movies
+tags: []
 title: Refém da Paixão
 ---
 

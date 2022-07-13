@@ -1,9 +1,8 @@
 ---
 categories:
-- blog
-date: '2021-08-16T21:01:37-03:00'
-tags:
 - reading
+date: '2021-08-16T21:01:37-03:00'
+tags: []
 title: Manifesto Comunista (recortes)
 ---
 

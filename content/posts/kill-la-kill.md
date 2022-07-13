@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- animes
 date: '2014-10-19'
 link: https://www.imdb.com/title/tt3114390
-tags:
-- animes
+tags: []
 title: Kill La Kill
 ---
 

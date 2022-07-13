@@ -1,9 +1,8 @@
 ---
 categories:
-- blog
-date: '2018-08-26'
-tags:
 - reading
+date: '2018-08-26'
+tags: []
 title: O Papel da Genética na Mobilidade Social
 ---
 

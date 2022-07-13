@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2017-02-20'
-tags:
 - food
+date: '2017-02-20'
+tags: []
 title: Poços de Caldas Amore Gourmet
 ---
 

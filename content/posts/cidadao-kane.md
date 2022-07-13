@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-07-09'
 link: https://www.imdb.com/title/tt0033467
-tags:
-- movies
+tags: []
 title: Cidadão Kane
 ---
 

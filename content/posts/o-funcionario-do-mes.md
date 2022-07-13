@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2016-08-12'
 link: https://www.imdb.com/title/tt5290524
 tags:
 - cinemaqui
-- movies
 title: O Funcionário do Mês
 ---
 

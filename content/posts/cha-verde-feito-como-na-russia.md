@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2018-10-04'
-tags:
 - food
+date: '2018-10-04'
+tags: []
 title: Chá Verde Feito Como Na Rússia
 ---
 

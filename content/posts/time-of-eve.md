@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- animes
 date: '2021-05-28'
 link: https://www.imdb.com/title/tt1506339
-tags:
-- animes
+tags: []
 title: Time of Eve (Eve no jikan)
 ---
 

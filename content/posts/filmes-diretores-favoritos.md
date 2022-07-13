@@ -1,9 +1,8 @@
 ---
 categories:
-- blog
-date: '2017-08-23'
-tags:
 - movies
+date: '2017-08-23'
+tags: []
 title: Filmes e Diretores Favoritos
 ---
 

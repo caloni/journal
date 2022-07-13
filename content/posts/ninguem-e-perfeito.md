@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2013-07-14'
 link: https://www.imdb.com/title/tt0155711
-tags:
-- movies
+tags: []
 title: Ninguém é Perfeito
 ---
 

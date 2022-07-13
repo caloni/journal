@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2014-01-25'
 link: https://www.imdb.com/title/tt1661382
-tags:
-- movies
+tags: []
 title: Ajuste de Contas
 ---
 

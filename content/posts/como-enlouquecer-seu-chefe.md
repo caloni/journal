@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2011-08-22'
 link: https://www.imdb.com/title/tt0151804
-tags:
-- movies
+tags: []
 title: Como Enlouquecer seu Chefe
 ---
 

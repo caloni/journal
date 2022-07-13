@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2021-08-12T22:19:11-03:00'
-tags:
 - movies
+date: '2021-08-12T22:19:11-03:00'
+tags: []
 title: Uma Mulher é Uma Mulher
 ---
 

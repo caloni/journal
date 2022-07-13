@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2019-07-21'
 tags: null
 title: SLQLocalDB

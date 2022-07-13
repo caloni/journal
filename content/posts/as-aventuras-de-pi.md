@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2013-01-03'
 link: https://www.imdb.com/title/tt0454876
-tags:
-- movies
+tags: []
 title: As Aventuras de Pi
 ---
 

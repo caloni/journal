@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2017-07-31'
 link: https://www.imdb.com/title/tt1672214
-tags:
-- movies
+tags: []
 title: Usagi Drop
 ---
 

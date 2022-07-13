@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-08-31'
 link: https://www.imdb.com/title/tt8569390
 tags:
 - cinemaqui
-- movies
 title: Adeus à Noite
 ---
 

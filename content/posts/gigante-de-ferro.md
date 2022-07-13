@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2014-12-20'
 link: https://www.imdb.com/title/tt0129167
-tags:
-- movies
+tags: []
 title: O Gigante de Ferro
 ---
 

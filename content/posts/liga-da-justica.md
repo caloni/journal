@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2017-11-24'
 link: https://www.imdb.com/title/tt0974015
-tags:
-- movies
+tags: []
 title: Liga da Justiça
 ---
 

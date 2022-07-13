@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- series
 date: '2017-03-29'
 link: https://www.imdb.com/title/tt3148266
-tags:
-- series
+tags: []
 title: 12 Macacos
 ---
 

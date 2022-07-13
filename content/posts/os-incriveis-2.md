@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2018-07-18'
 link: https://www.imdb.com/title/tt3606756
-tags:
-- movies
+tags: []
 title: Os Incríveis 2
 ---
 

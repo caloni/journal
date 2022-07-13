@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2017-09-18'
 link: https://www.imdb.com/title/tt6368132
 tags:
 - cinemaqui
-- movies
 title: Pendular
 ---
 

@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2011-03-23'
 tags: null
 title: Bazaar com Subversion

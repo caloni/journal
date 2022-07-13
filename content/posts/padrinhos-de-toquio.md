@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2013-12-22'
 link: https://www.imdb.com/title/tt0388473
-tags:
-- movies
+tags: []
 title: Padrinhos de Tóquio
 ---
 

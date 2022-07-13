@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2018-10-26'
 link: https://www.imdb.com/title/tt8790662
 tags:
 - cinemaqui
-- movies
 title: Túmulos Sem Nome
 ---
 

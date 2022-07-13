@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
-date: '2015-09-28'
-tags:
 - beer
 - food
+date: '2015-09-28'
+tags: []
 title: Eisenbahn Pilsen
 ---
 

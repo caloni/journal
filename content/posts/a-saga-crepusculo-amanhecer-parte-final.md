@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2012-11-20'
 link: https://www.imdb.com/title/tt1673434
-tags:
-- movies
+tags: []
 title: 'A Saga Crepúsculo: Amanhecer - Parte 2'
 ---
 

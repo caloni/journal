@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2017-12-10'
 link: https://www.imdb.com/title/tt0103776
-tags:
-- movies
+tags: []
 title: 'Batman: O Retorno'
 ---
 

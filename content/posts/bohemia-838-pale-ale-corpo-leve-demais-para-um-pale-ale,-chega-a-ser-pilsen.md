@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2017-10-07'
-tags:
 - food
+date: '2017-10-07'
+tags: []
 title: Bohemia 838 Pale Ale Corpo leve demais para um Pale Ale, chega a ser Pilsen
 ---
 

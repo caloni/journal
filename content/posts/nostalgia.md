@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2021-03-14'
 link: https://www.imdb.com/title/tt0086022
-tags:
-- movies
+tags: []
 title: Nostalgia
 ---
 

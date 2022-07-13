@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2022-06-25T21:50:37-03:00'
-tags:
 - coffee
+date: '2022-06-25T21:50:37-03:00'
+tags: []
 title: Minha Torra Dark
 ---
 

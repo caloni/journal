@@ -1,9 +1,8 @@
 ---
 categories:
-- blog
-date: '2016-10-16'
-tags:
 - movies
+date: '2016-10-16'
+tags: []
 title: Comercial Friboi - A certeza do churrasco perfeito
 ---
 

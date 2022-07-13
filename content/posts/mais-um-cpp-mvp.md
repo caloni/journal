@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2013-10-02'
 tags: null
 title: Mais um CPP MVP

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-09-12'
 link: https://www.imdb.com/title/tt0401383
-tags:
-- movies
+tags: []
 title: O Escafandro e a Borboleta
 ---
 

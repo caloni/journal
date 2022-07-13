@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2015-02-22'
 link: https://www.imdb.com/title/tt1823664
 tags:
 - cinemaqui
-- movies
 title: Annie
 ---
 

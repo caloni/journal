@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2017-09-08'
-tags:
 - food
+date: '2017-09-08'
+tags: []
 title: Chope Gorillaz Lager Poços de Caldas
 ---
 

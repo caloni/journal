@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2016-03-15'
 link: https://www.imdb.com/title/tt0190332
-tags:
-- movies
+tags: []
 title: O Tigre e o Dragão
 ---
 

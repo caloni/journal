@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2014-03-07'
 link: https://www.imdb.com/title/tt1798709
-tags:
-- movies
+tags: []
 title: Ela
 ---
 

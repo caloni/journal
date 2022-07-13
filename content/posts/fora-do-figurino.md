@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2011-11-01'
-tags:
 - movies
+date: '2011-11-01'
+tags: []
 title: Fora do Figurino
 ---
 

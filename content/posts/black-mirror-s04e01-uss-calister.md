@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- series
 date: '2018-01-12'
 link: https://www.imdb.com/title/tt2085059
-tags:
-- series
+tags: []
 title: Black Mirror - S04E01 - USS Calister
 ---
 

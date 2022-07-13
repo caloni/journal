@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2013-01-14'
 link: https://www.imdb.com/title/tt1785670
-tags:
-- movies
+tags: []
 title: Viúvas
 ---
 

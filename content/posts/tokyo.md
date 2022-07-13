@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-06-11'
 link: https://www.imdb.com/title/tt0976060
-tags:
-- movies
+tags: []
 title: Tokyo!
 ---
 

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2012-10-05'
 link: https://www.imdb.com/title/tt1343727
-tags:
-- movies
+tags: []
 title: Dredd
 ---
 

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
-date: '2021-02-15'
-tags:
 - coffee
 - food
+date: '2021-02-15'
+tags: []
 title: Uma Breve História Sobre Preconceito (e Café)
 ---
 

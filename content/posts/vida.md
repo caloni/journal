@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2017-04-24'
 link: https://www.imdb.com/title/tt5442430
-tags:
-- movies
+tags: []
 title: Vida
 ---
 

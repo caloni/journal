@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2015-12-05'
 link: https://www.imdb.com/title/tt3138104
-tags:
-- movies
+tags: []
 title: Se Beber, Não Entre no Jogo
 ---
 

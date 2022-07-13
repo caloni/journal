@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2016-09-18'
 tags: null
 title: Usando GVim com projetos do Visual Studio

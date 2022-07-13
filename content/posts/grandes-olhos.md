@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2017-05-02'
 link: https://www.imdb.com/title/tt1126590
-tags:
-- movies
+tags: []
 title: Grandes Olhos
 ---
 

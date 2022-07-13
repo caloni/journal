@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2010-08-04'
 tags: null
 title: Novas diferenças no Bazaar

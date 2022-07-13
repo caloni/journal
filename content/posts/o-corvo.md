@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2012-05-24'
 link: https://www.imdb.com/title/tt1486192
-tags:
-- movies
+tags: []
 title: O Corvo
 ---
 

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2020-02-13'
 link: https://www.imdb.com/title/tt0068205
-tags:
-- movies
+tags: []
 title: Amor à Tarde
 ---
 

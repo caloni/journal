@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2015-02-08'
-tags:
 - food
+date: '2015-02-08'
+tags: []
 title: Portillo Malbec Salentein
 ---
 

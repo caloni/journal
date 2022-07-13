@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- animes
 date: '2021-05-15'
 link: https://www.imdb.com/title/tt7571676
-tags:
-- animes
+tags: []
 title: Nyanbo!
 ---
 

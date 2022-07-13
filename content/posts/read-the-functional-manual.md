@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2008-05-07'
 title: Read The Functional Manual
 ---

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2018-01-30'
 link: https://www.imdb.com/title/tt1433775
-tags:
-- movies
+tags: []
 title: Garoojigi
 ---
 

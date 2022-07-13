@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
-date: '2018-08-10'
-tags:
 - wine
 - food
+date: '2018-08-10'
+tags: []
 title: Catena Zapata
 ---
 

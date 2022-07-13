@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2015-09-16'
 link: https://www.imdb.com/title/tt2406252
 tags:
 - cinemaqui
-- movies
 title: A Pele de Vênus
 ---
 

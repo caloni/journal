@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-05-11'
 link: https://www.imdb.com/title/tt0263124
-tags:
-- movies
+tags: []
 title: Bicho de Sete Cabeças
 ---
 

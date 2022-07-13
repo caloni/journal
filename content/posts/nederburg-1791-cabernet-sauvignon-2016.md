@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2017-08-20'
-tags:
 - food
+date: '2017-08-20'
+tags: []
 title: Nederburg 1791 Cabernet Sauvignon 2016
 ---
 

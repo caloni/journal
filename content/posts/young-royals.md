@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2021-07-31T22:34:13-03:00'
-tags:
 - series
+date: '2021-07-31T22:34:13-03:00'
+tags: []
 title: Young Royals
 ---
 

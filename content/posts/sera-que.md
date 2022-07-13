@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2015-02-14'
 link: https://www.imdb.com/title/tt1486834
-tags:
-- movies
+tags: []
 title: Será Que?
 ---
 

@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- series
+- animes
 date: '2016-11-04'
 link: https://www.imdb.com/title/tt1639109
-tags:
-- animes
-- series
+tags: []
 title: Angel Beats!
 ---
 

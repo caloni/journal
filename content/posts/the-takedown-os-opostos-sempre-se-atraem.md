@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2022-05-24T21:39:06-03:00'
-tags:
 - movies
+date: '2022-05-24T21:39:06-03:00'
+tags: []
 title: Os Opostos Sempre se Atraem
 ---
 

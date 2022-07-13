@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2022-01-24T23:24:20-03:00'
-tags:
 - movies
+date: '2022-01-24T23:24:20-03:00'
+tags: []
 title: Onze Homens e Um Segredo
 ---
 

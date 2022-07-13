@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2012-06-04'
 link: https://www.imdb.com/title/tt1409024
-tags:
-- movies
+tags: []
 title: 'MIB: Homens de Preto III'
 ---
 

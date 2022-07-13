@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2019-01-07'
-tags:
 - recipes
+date: '2019-01-07'
+tags: []
 title: Empanadas Argentinas
 ---
 

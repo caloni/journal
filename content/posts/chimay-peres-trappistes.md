@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
-date: '2016-12-27'
-tags:
 - beer
 - food
+date: '2016-12-27'
+tags: []
 title: Chimay Pères Trappistes
 ---
 

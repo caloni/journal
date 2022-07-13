@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2017-01-17'
 link: https://www.imdb.com/title/tt0018328
-tags:
-- movies
+tags: []
 title: O Ring
 ---
 

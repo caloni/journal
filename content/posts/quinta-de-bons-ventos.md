@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
-date: '2018-11-10'
-tags:
 - wine
 - food
+date: '2018-11-10'
+tags: []
 title: Quinta de Bons-Ventos
 ---
 

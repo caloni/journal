@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-08-27'
 link: https://www.imdb.com/title/tt8682932
 tags:
 - cinemaqui
-- movies
 title: Minha Lua de Mel Polonesa
 ---
 

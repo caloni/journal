@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2010-06-04'
 link: https://www.imdb.com/title/tt1045772
-tags:
-- movies
+tags: []
 title: O Golpista do Ano
 ---
 

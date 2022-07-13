@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2020-12-06'
 link: https://www.imdb.com/title/tt0101700
-tags:
-- movies
+tags: []
 title: Delicatessen
 ---
 

@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
+- movies
 date: '2022-04-24T12:22:06-03:00'
 tags:
-- movies
 - cinemaqui
 title: Fantasmas do Passado (Master)
 ---

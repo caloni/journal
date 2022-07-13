@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2008-07-04'
 tags: null
 title: VirtualBox

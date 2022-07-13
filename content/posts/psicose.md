@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2011-06-30'
 link: https://www.imdb.com/title/tt0054215
-tags:
-- movies
+tags: []
 title: Psicose
 ---
 

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2010-12-03'
 link: https://www.imdb.com/title/tt1266029
-tags:
-- movies
+tags: []
 title: O Garoto de Liverpool
 ---
 

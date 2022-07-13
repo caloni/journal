@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-06-19'
 tags:
 - cinemaqui
-- movies
 title: Blitz
 ---
 

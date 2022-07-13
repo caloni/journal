@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2017-08-27'
-tags:
 - food
+date: '2017-08-27'
+tags: []
 title: Grão Gourmet Fazenda Macaubas de Cima Patrocínio MG
 ---
 

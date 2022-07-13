@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2016-12-15'
 link: https://www.imdb.com/title/tt3854770
 tags:
 - cinemaqui
-- movies
 title: A Última Lição
 ---
 

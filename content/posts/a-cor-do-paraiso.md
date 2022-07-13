@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-08-18'
 link: https://www.imdb.com/title/tt0191043
-tags:
-- movies
+tags: []
 title: A Cor do Paraíso
 ---
 

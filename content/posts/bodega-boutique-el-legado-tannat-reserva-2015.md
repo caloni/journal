@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2017-06-12'
-tags:
 - food
+date: '2017-06-12'
+tags: []
 title: Bodega Boutique El Legado Tannat Reserva 2015
 ---
 

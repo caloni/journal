@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2017-05-11'
-tags:
 - food
+date: '2017-05-11'
+tags: []
 title: El Esteco Ciclos Cabernet 2014
 ---
 

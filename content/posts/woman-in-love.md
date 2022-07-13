@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2014-04-18'
 link: https://www.imdb.com/title/tt1802810
-tags:
-- movies
+tags: []
 title: Woman in Love (aka Rubbeldiekatz)
 ---
 

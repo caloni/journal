@@ -1,8 +1,7 @@
 ---
-categories:
-- blog
+categories: []
 date: '2021-12-21T11:00:19-03:00'
-tags:
+tags: null
 title: Panetone de Pobre
 ---
 

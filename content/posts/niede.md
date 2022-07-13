@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-03-27'
 tags:
 - cinemaqui
-- movies
 title: Niède
 ---
 

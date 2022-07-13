@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2017-05-31'
 link: https://www.imdb.com/title/tt4429194
 tags:
 - cinemaqui
-- movies
 title: Paris Pode Esperar
 ---
 

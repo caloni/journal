@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2010-09-03'
 link: https://www.imdb.com/title/tt1467388
-tags:
-- movies
+tags: []
 title: Nosso Lar
 ---
 

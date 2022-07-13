@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2012-04-11'
 link: https://www.imdb.com/title/tt0459666
-tags:
-- movies
+tags: []
 title: Três Tempos
 ---
 

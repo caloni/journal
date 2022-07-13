@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2011-07-01'
 link: https://www.imdb.com/title/tt1212419
-tags:
-- movies
+tags: []
 title: Além da Vida
 ---
 

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2013-05-17'
 link: https://www.imdb.com/title/tt2925942
-tags:
-- movies
+tags: []
 title: O Que Se Move
 ---
 

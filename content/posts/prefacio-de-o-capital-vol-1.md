@@ -1,9 +1,8 @@
 ---
 categories:
-- blog
-date: '2017-06-27'
-tags:
 - reading
+date: '2017-06-27'
+tags: []
 title: Prefácio de O Capital Vol. 1
 ---
 

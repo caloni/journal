@@ -1,9 +1,8 @@
 ---
 categories:
-- blog
-date: 2018-07-15 21:53:55-03:00
-tags:
 - reading
+date: 2018-07-15 21:53:55-03:00
+tags: []
 title: Stanford Encyclopedia of Philosophy para Kindle
 ---
 

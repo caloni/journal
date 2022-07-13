@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2021-10-04T20:41:16-03:00'
-tags:
 - animes
+date: '2021-10-04T20:41:16-03:00'
+tags: []
 title: Hitoribocchi no Marumaruseikatsu
 ---
 

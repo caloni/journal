@@ -1,10 +1,9 @@
 ---
 categories:
-- blog
+- movies
 date: '2016-12-27'
 tags:
 - lists
-- movies
 title: Dez melhores filmes de 2016
 ---
 

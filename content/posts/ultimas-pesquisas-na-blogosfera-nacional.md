@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2009-05-08'
 tags: null
 title: Últimas pesquisas na blogosfera nacional

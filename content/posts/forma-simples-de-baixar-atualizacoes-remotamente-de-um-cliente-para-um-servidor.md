@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2017-03-23'
 tags: null
 title: Forma simples de baixar atualizações remotamente de um cliente para um servidor

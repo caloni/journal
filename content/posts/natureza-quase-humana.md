@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2014-01-19'
 link: https://www.imdb.com/title/tt0219822
-tags:
-- movies
+tags: []
 title: Natureza Quase Humana
 ---
 

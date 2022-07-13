@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2017-05-30'
-tags:
 - food
+date: '2017-05-30'
+tags: []
 title: Portillo Malbec
 ---
 

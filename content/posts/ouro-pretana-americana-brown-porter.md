@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2015-01-13'
-tags:
 - food
+date: '2015-01-13'
+tags: []
 title: Ouro Pretana Americana Brown Porter
 ---
 

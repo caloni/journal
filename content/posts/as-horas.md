@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-03-24'
 link: https://www.imdb.com/title/tt0274558
-tags:
-- movies
+tags: []
 title: As Horas
 ---
 

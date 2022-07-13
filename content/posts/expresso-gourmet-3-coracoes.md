@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2019-06-17'
-tags:
 - food
+date: '2019-06-17'
+tags: []
 title: Expresso Gourmet 3 Corações
 ---
 

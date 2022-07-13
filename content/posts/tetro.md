@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2010-12-10'
 link: https://www.imdb.com/title/tt0964185
-tags:
-- movies
+tags: []
 title: Tetro
 ---
 

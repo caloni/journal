@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2012-04-20'
 link: https://www.imdb.com/title/tt2142055
-tags:
-- movies
+tags: []
 title: Xingu
 ---
 

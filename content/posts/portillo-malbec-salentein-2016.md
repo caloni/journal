@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2016-12-20'
-tags:
 - food
+date: '2016-12-20'
+tags: []
 title: Portillo Malbec Salentein 2016
 ---
 

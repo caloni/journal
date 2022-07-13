@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2019-09-04'
 link: https://www.imdb.com/title/tt8291806
-tags:
-- movies
+tags: []
 title: Dor e Glória
 ---
 

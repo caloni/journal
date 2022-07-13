@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2019-01-23'
-tags:
 - food
+date: '2019-01-23'
+tags: []
 title: Cold Brew
 ---
 

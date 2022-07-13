@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2012-09-20'
 link: https://www.imdb.com/title/tt0134402
-tags:
-- movies
+tags: []
 title: Cabra Marcado Para Morrer
 ---
 

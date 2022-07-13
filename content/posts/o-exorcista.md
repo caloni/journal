@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2018-01-18'
 link: https://www.imdb.com/title/tt0070047
-tags:
-- movies
+tags: []
 title: O Exorcista
 ---
 

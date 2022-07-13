@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2018-01-07'
-tags:
 - food
+date: '2018-01-07'
+tags: []
 title: Wee Heavy Bodebrown Strong Scotch Ale
 ---
 

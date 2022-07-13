@@ -1,6 +1,5 @@
 ---
-categories:
-- blog
+categories: []
 date: '2008-06-13'
 tags: null
 title: Primeiro ano do novo Caloni.com.br

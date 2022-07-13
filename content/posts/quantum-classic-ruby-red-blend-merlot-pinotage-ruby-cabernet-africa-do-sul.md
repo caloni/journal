@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2017-01-10'
-tags:
 - food
+date: '2017-01-10'
+tags: []
 title: Quantum Classic Ruby Red Blend Merlot/Pinotage/Ruby Cabernet África do Sul
 ---
 

@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2017-12-01'
-tags:
 - food
+date: '2017-12-01'
+tags: []
 title: Mantissa Café Fazenda
 ---
 

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- series
 date: '2013-04-03'
 link: https://www.imdb.com/title/tt1520211
-tags:
-- series
+tags: []
 title: The Walking Dead - Primeira Temporada
 ---
 

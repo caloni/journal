@@ -1,11 +1,10 @@
 ---
 categories:
-- reviews
+- movies
 date: '2018-07-17'
 link: https://www.imdb.com/title/tt6515342
 tags:
 - cinemaqui
-- movies
 title: O Doutor da Felicidade
 ---
 

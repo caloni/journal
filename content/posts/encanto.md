@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2022-07-11T20:42:21-03:00'
 tags:
 - draft
-- movies
 title: Encanto
 ---
 

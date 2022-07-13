@@ -1,9 +1,8 @@
 ---
 categories:
-- reviews
-date: '2021-07-24T22:26:41-03:00'
-tags:
 - beer
+date: '2021-07-24T22:26:41-03:00'
+tags: []
 title: Colorado Vs Bierland
 ---
 

@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2016-10-12'
 link: https://www.imdb.com/title/tt1289401
-tags:
-- movies
+tags: []
 title: Caça-Fantasmas (2016)
 ---
 

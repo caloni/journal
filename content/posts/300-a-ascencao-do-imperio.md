@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- movies
 date: '2014-03-25'
 link: https://www.imdb.com/title/tt1253863
-tags:
-- movies
+tags: []
 title: '300: A Ascensão do Império'
 ---
 

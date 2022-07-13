@@ -1,10 +1,9 @@
 ---
 categories:
-- reviews
+- series
 date: '2016-03-13T20:10:00-03:00'
 link: https://www.imdb.com/title/tt1856010
-tags:
-- series
+tags: []
 title: House of Cards - Primeira Temporada
 ---
 
