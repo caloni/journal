@@ -9,15 +9,9 @@
     {{ partial "section_begin.html" . }}
     {{ with .Site.Params.home.intro }}<p>{{ . }}</p>{{ end }}
     {{ partial "quick_search.html" . }}
-    {{ partial "lists.html" . }}
+    <big><b><a title="lista todos os títulos do saite" href="/posts">posts</a> - </b></big>
+    {{ partial "taxonomies.html" . }}
     {{ partial "list_begin.html" . }}
-    {{ range first .Site.Params.home.postsCount (where .Site.RegularPages "Params.tags" "intersect" .Site.Params.home.tags) }}
-        <tr><td>
-        <i>{{ .Summary | safeHTML | truncate 200 "..." -}}</i>
-        <b><a href="{{ .Permalink }}">{{ .Title }}</a></b>
-        <i>{{ range .Params.categories }}<a style="color: gray;" href="/categories/{{ . | urlize }}">{{ printf "%s%s" " " . }}</a>{{ end }}</i>
-        </td></tr>
-    {{ end }}
     {{ partial "list_end.html" . }}
     {{ partial "section_end.html" . }}
     {{ partial "footer.html" . }}

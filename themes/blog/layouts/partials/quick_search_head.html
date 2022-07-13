@@ -1,6 +1,7 @@
 <script>
 var quick_search_posts = [
 {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}{{ range $key, $value := $taxonomy }}
+"{{ $taxonomyname }}",
 "{{ $taxonomyname }}/{{ $key }}",
 {{ end }}{{ end }}
 {{ range .Site.RegularPages }}
