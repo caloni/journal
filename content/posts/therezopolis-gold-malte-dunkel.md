@@ -1,7 +1,6 @@
 ---
 categories:
 - beer
-- food
 date: '2015-08-30'
 tags: []
 title: Therezopolis Gold Malte Dunkel

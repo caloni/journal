@@ -1,7 +1,6 @@
 ---
 categories:
 - wine
-- food
 date: '2019-04-13'
 tags: []
 title: La Poderosa

@@ -1,7 +1,6 @@
 ---
 categories:
 - beer
-- food
 date: '2018-08-06'
 tags: []
 title: La Guapa Carmen

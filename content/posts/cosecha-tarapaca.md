@@ -1,7 +1,6 @@
 ---
 categories:
 - wine
-- food
 date: '2018-10-09'
 tags: []
 title: Cosecha Tarapaca

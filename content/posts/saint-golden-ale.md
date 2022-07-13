@@ -1,7 +1,6 @@
 ---
 categories:
 - beer
-- food
 date: '2018-09-20'
 tags: []
 title: Saint Golden Ale

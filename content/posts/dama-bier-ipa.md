@@ -1,7 +1,6 @@
 ---
 categories:
 - beer
-- food
 date: '2019-07-01'
 tags: []
 title: Dama Bier IPA

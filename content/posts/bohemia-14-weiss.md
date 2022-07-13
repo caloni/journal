@@ -1,7 +1,6 @@
 ---
 categories:
 - beer
-- food
 date: '2017-10-05'
 tags: []
 title: Bohemia 14-Weiss

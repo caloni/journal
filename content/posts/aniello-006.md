@@ -1,7 +1,6 @@
 ---
 categories:
 - wine
-- food
 date: '2019-04-28'
 tags: []
 title: Aniello 006

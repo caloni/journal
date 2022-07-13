@@ -1,7 +1,6 @@
 ---
 categories:
 - beer
-- food
 date: '2016-11-24'
 tags: []
 title: Budweiser Lager

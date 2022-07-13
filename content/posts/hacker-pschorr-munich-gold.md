@@ -1,7 +1,6 @@
 ---
 categories:
 - beer
-- food
 date: '2017-08-07'
 tags: []
 title: Hacker-Pschorr Munich Gold

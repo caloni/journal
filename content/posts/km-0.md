@@ -1,7 +1,6 @@
 ---
 categories:
 - wine
-- food
 date: '2021-02-16'
 link: http://www.irurtia.com.uy/km0_cabernet.htm
 tags: []

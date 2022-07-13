@@ -1,7 +1,6 @@
 ---
 categories:
 - beer
-- food
 date: '2017-06-01'
 tags: []
 title: Baden Baden American IPA

@@ -1,7 +1,6 @@
 ---
 categories:
 - wine
-- food
 date: '2019-04-20'
 tags: []
 title: Aimé Ruca Malen

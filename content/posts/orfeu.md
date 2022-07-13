@@ -1,7 +1,6 @@
 ---
 categories:
 - coffee
-- food
 date: '2020-08-12'
 link: https://loja.cafeorfeu.com.br/
 tags: []

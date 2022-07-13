@@ -1,7 +1,6 @@
 ---
 categories:
 - wine
-- food
 date: '2014-12-21'
 tags: []
 title: Concha Y Toro

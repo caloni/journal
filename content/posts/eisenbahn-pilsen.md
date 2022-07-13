@@ -1,7 +1,6 @@
 ---
 categories:
 - beer
-- food
 date: '2015-09-28'
 tags: []
 title: Eisenbahn Pilsen

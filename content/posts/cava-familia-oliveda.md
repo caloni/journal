@@ -1,7 +1,6 @@
 ---
 categories:
 - wine
-- food
 date: '2019-01-04'
 tags: []
 title: Cava Família Oliveda

@@ -1,7 +1,6 @@
 ---
 categories:
 - beer
-- food
 date: '2018-05-20'
 tags: []
 title: Old Specked Hen

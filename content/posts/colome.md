@@ -1,7 +1,6 @@
 ---
 categories:
 - wine
-- food
 date: '2019-06-17'
 tags: []
 title: Colomé de Rio Negro

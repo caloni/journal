@@ -1,7 +1,6 @@
 ---
 categories:
 - beer
-- food
 date: '2019-01-02'
 tags: []
 title: Vixnu

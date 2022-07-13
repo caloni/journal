@@ -1,7 +1,6 @@
 ---
 categories:
 - beer
-- food
 date: '2018-01-08'
 tags: []
 title: Ouropretana Pale Ale

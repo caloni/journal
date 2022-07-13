@@ -1,7 +1,6 @@
 ---
 categories:
 - beer
-- food
 date: '2020-11-08'
 tags: []
 title: Skol Puro Malte

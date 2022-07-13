@@ -1,7 +1,6 @@
 ---
 categories:
 - beer
-- food
 date: '2018-11-05'
 tags: []
 title: Tupiniquim Chocolate

@@ -1,7 +1,6 @@
 ---
 categories:
 - wine
-- food
 date: '2019-03-22'
 tags: []
 title: Estancia Mendoza

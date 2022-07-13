@@ -1,7 +1,6 @@
 ---
 categories:
 - beer
-- food
 date: '2018-07-07'
 tags: []
 title: Colorado Murica

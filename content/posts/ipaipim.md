@@ -1,7 +1,6 @@
 ---
 categories:
 - beer
-- food
 date: '2016-06-01'
 tags: []
 title: Ipaipim

@@ -1,7 +1,6 @@
 ---
 categories:
 - beer
-- food
 date: '2018-01-02'
 tags: []
 title: Krug Bier Chope

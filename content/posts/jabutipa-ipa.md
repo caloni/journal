@@ -1,7 +1,6 @@
 ---
 categories:
 - beer
-- food
 date: '2015-10-27'
 tags: []
 title: Jabutipa IPA

@@ -1,7 +1,6 @@
 ---
 categories:
 - wine
-- food
 date: '2018-12-31'
 tags: []
 title: Portillo

@@ -1,7 +1,6 @@
 ---
 categories:
 - beer
-- food
 date: '2017-05-15'
 tags: []
 title: Imperial Lager

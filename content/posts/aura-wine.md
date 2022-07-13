@@ -1,7 +1,6 @@
 ---
 categories:
 - wine
-- food
 date: '2020-09-29'
 link: https://www.aurawines.cl
 tags: []

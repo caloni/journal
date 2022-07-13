@@ -1,7 +1,6 @@
 ---
 categories:
 - wine
-- food
 date: '2018-08-13'
 tags: []
 title: Gato Negro

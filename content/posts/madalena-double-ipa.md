@@ -1,7 +1,6 @@
 ---
 categories:
 - beer
-- food
 date: '2018-03-10'
 tags: []
 title: Madalena Double IPA

@@ -1,7 +1,6 @@
 ---
 categories:
 - wine
-- food
 date: '2018-06-24'
 tags: []
 title: San Pedro de Yacochuya Cabernet Sauvignon 2015 Rancho Cuatro

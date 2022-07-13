@@ -1,7 +1,6 @@
 ---
 categories:
 - beer
-- food
 date: '2016-12-04'
 tags: []
 title: Ashby Ganesha IPA Ambar

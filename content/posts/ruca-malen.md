@@ -1,7 +1,6 @@
 ---
 categories:
 - wine
-- food
 date: '2019-05-15'
 tags: []
 title: Ruca Malen
