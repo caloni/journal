@@ -3,7 +3,6 @@ categories:
 - code
 date: '2022-07-12T21:02:54-03:00'
 tags:
-- draft
 title: Como converter qualquer projeto antigo do Visual Studio em CMake
 ---
 
@@ -34,4 +33,4 @@ Os erros mais comuns a partir daí são erros de inclusão e linkedição. Para 
 
 Em geral é melhor seguir esse passo-a-passo de como gerar um projeto limpo em vez de tentar converter. Se houver algum truque na solução Visual Studio ela deverá ser portada de maneira mais documentada e pronta para portabilidade. Com o CMake você não terá mais que se preocupar com qual versão do Visual Studio irá trabalhar, e quando migrar basta instalar ou apontar a versão correta (direto no comando cmake).
 
-A tempo: trate os arquivos da solução do Visual Studio gerada pelo cmake como temporários. Não use controle de fonte em cima deles. Isso o ajudará a manter a base do seu projeto apenas nos arquivos `CMakeLists.txt`.
+A tempo: trate os arquivos da solução do Visual Studio gerados pelo cmake como temporários. Não use controle de fonte em cima deles. Isso o ajudará a manter a base do seu projeto apenas nos arquivos `CMakeLists.txt`.

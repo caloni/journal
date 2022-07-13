@@ -3,7 +3,6 @@ categories:
 - wine
 date: '2022-07-12T20:47:02-03:00'
 tags:
-- draft
 title: Vinho romeno
 ---
 
