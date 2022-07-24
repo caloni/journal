@@ -7,7 +7,9 @@ sed -i "s/src=\"\//src=\"/g" index.html
 sed -i "s/href=\"#[a-z]\+\/[a-z.-]\+/href=\"#/g" index.html
 kindlegen.exe book.opf -o caloni-drafts.mobi
 if not exist k: echo !! WARNING !! NO KINDLE CONNECTED IN THIS COMPUTER !!
-cp caloni-drafts.mobi k:\documents
+copy /y caloni-drafts.mobi k:\documents
+if %ERRORLEVEL% EQU 0 echo === DRAFT COPIED SUCCESSFULLY ===
+if %ERRORLEVEL% NEQ 0 echo === ERROR COPYING DRAFT ===
 rm k:\documents\caloni-drafts.han
 popd
 
@@ -20,6 +22,8 @@ sed -i "s/src=\"\//src=\"/g" index.html
 sed -i "s/href=\"#[a-z]\+\/[a-z.-]\+/href=\"#/g" index.html
 if not exist k: echo !! WARNING !! NO KINDLE CONNECTED IN THIS COMPUTER !!
 kindlegen.exe book.opf -o caloni.mobi
-cp caloni.mobi k:\documents
+copy /y caloni.mobi k:\documents
+if %ERRORLEVEL% EQU 0 echo === BOOK COPIED SUCCESSFULLY ===
+if %ERRORLEVEL% NEQ 0 echo === ERROR COPYING BOOK ===
 popd
 
