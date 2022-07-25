@@ -7,7 +7,7 @@ tags:
 title: 'The Pickup Artist: The New and Improved Art of Seduction (Mystery)'
 ---
 
-Uma série de duas temporadas apresenta um rapaz magro, bem alto e cheio de adereços. Ele junta um grupo de jovens desajustados com nenhuma experiência em ficar com mulheres. Seu objetivo: torná-los mestres na arte de pegação.
+Uma série de duas temporadas apresenta um rapaz magro, bem alto e cheio de adereços. Ele junta um grupo de jovens desajustados sem nenhuma experiência em ficar com mulheres. Seu objetivo: torná-los mestres na arte de pegação.
 
 Alguns anos depois surge este livro, uma versão atualizada em que Mistery, o rapaz magro, irá narrar alguns momentos junto de seus "dudes" e como consequência dar aquelas dicas matadoras na arte do sexo e amor.
 
@@ -105,3 +105,7 @@ Alguns anos depois surge este livro, uma versão atualizada em que Mistery, o ra
 > “RULE: Never give your number to a girl unless there is an exchange. If you get around to asking for her number and she says, ‘I’ll call you,’ just say, ‘No, I’ll call you.’ If she doesn’t give her number, she wouldn’t call you anyway, so just say, ‘Nice meeting you,’ and leave. After a girl does give her number to you, you may then write yours for her as you say, ‘We’ll trade … fair?’ She will smile and say, ‘Fair.’
 
 > “Going for fives is just a self-esteem thing, not a skills thing. If you decide to chase nines and tens and only them, then that will be the skill set you get good at. They aren’t harder to get, only different.
+
+> “Society has its mating rituals. When a woman wants to find a mate, she will get emotions driving her to seek social situations. She doesn’t bother getting dressed and looking good just to dance. Dancing is even a way of showing the health of the body for a suitor—you! She is seeking a mate. And yes, she will go to a place where there are possible mates. Granted, she will only pick the best. But girls don’t put body and looks high on the priority list. The top three traits are a good smile, a sense of humor, and confidence. The fourth is connection, by the way. So there you go.”
+
+> “The problem is,” I replied, “people don’t go to public gatherings without music. When there is no music, many people are too scared to chat with strangers so they feel uncomfortable and don’t go to that place. Thing is, most people aren’t players. A club is actually very logical. You are thinking about only your intentions. See, for a girl, the main reason to be there is to meet a guy. But, they have to do something to look busy while in there. Some need an alternative excuse, like coming to drink with friends, which is utterly absurd. Who the hell really wants to pay five dollars just to get into a noisy place to talk with friends? Then you’ve got the old-style mating ritual: dancing. This shows off your health, vitality, and physique. Everyone has a different way of meeting others. Thing is, players should know the most efficient way. This doesn’t mean the rest of the world does, too. So it looks like noisy clubs are the way. They attract lots of people. What other thing does that without actually taking the people’s attention totally, as a play or concert does? The entire club industry is designed to make money off people wanting to meet a mate.

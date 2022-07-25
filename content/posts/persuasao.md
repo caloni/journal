@@ -3,7 +3,6 @@ categories:
 - movies
 date: '2022-07-24T14:18:03-03:00'
 tags:
-- draft
 - cinemaqui
 title: Persuasão
 ---
