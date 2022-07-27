@@ -3,7 +3,6 @@ categories:
 - movies
 date: '2022-07-25T19:57:29-03:00'
 tags:
-- draft
 - cinemaqui
 title: Não Me Diga Adeus
 ---
@@ -16,7 +15,7 @@ O roteiro de Vera Herbert (da série This is Us) vai pelo caminho fácil do choq
 
 A história é fácil de seguir, mas nada se compara à direção de Hannah Marks (ela atua como a irmã de Elijah Wood na série Dirk Gently's), que combina os diálogos com os melhores ângulos de seus heróis. É no por do sol constante ou nas luzes do horizonte que revela uma direção segura de si ao mesmo tempo ciente de estar preparando conteúdo para TV e, ainda assim, cinematográfico em seu charme.
 
-Este é um filme com dois protagonistas. Eles surgem juntos logo no começo na piada menos eficiente do long. Ou pelo menos um protagonista e uma narradora, mas a narrativa não é confusa; apenas diferente. Você verá nos minutos finais (como anunciado pela narradora). Engraçado. Filmes como esse parecem ter nascido de algum site de escritores independentes, muito pelo frescor de ingenuidade e de novas possibilidades em contar velhas histórias com ganchos inesperados. Não chega a ser uma surpresa orgânica, nem desejável, mas somos avisados de antemão que haverá reviravoltas amargas no final.
+Este é um filme com dois protagonistas. Eles surgem juntos logo no começo na piada menos eficiente do longa. Ou pelo menos um protagonista e uma narradora, mas a narrativa não é confusa; apenas diferente. Você verá nos minutos finais (como anunciado pela narradora). Engraçado. Filmes como esse parecem ter nascido de algum site de escritores independentes, muito pelo frescor de ingenuidade e de novas possibilidades em contar velhas histórias com ganchos inesperados. Não chega a ser uma surpresa orgânica, nem desejável, mas somos avisados de antemão que haverá reviravoltas amargas no final.
 
 Eu gostei de assistir a Não Me Diga Adeus. Sua falta de pretensão é sua maior virtude. Faz com que fiquemos mais confortáveis na poltrona, apenas curtindo o momento. E que melhor clima para assistir um road movie que é sobre se sentir bem consigo mesmo. A vida já é bruta demais para conflitos desnecessários e brigas eternas. A vida é muito curta e sem sentido para ficarmos parados pensando no que poderia ser, em vez de simplesmente fazermos ser.
 
