@@ -14,6 +14,13 @@ Esse estudo contém vários insights curiosos, mas nenhum link para pesquisa. Po
 
 No entanto, como tudo o que nos é empurrado goela abaixo, existe uma forma de saber se é verdade: faça o teste.
 
+# Links
+
+ - [Want to stop craving chocolate? Here are two options](https://www.washingtonpost.com/lifestyle/wellness/want-to-stop-craving-chocolate-here-are-two-options/2018/06/25/48a0e698-7407-11e8-805c-4b67019fcfe4_story.html)
+ - [Suppressing images of desire: Neural correlates of chocolate-related thoughts in high and low trait chocolate cravers](https://pubmed.ncbi.nlm.nih.gov/29518469/)
+ - [Acceptance- and imagery-based strategies can reduce chocolate cravings: A test of the elaborated-intrusion theory of desire](https://pubmed.ncbi.nlm.nih.gov/28196711/)
+ - [Targeting acceptance in the management of food craving: The mediating roles of eating styles and thought suppression](https://pubmed.ncbi.nlm.nih.gov/29665461/)
+
 # Recortes
 
 > “Cravings start with a trigger. This could be external, such as the scent of chocolate chip cookies. Or it could be internal, such as being angry or bored. Second, you elaborate on these thoughts by using mental imagery, and this is what turns it into a full-fledged craving.” To banish the craving, you need to interrupt this process. One approach is to practise mindfulness, accept the thoughts and move on. Another is to try to suppress the thoughts altogether by distracting yourself.
