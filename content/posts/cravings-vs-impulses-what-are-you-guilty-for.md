@@ -4,7 +4,7 @@ categories:
 date: '2022-07-31T17:16:50-03:00'
 link: https://gulfnews.com/going-out/society/cravings-vs-impulses-what-are-you-guilty-of-1.2267596
 tags:
-- draft
+- health
 title: 'Cravings vs impulses: What are you guilty of?'
 ---
 
@@ -89,3 +89,16 @@ Chocolates and cakes equal reminder of celebrations.
 > Consume water or just ignore the craving will make the brain dissociate popcorn with movies.
 
 > Aversion therapy: When a craving arises in association with an action, choosing foods which we dislike makes the brain decode the associations.
+
+> “Thoughts come and go,” Hormes says. “You don’t have to linger on them. You certainly don’t have to act on them.”
+
+> Cravings are transient — think about a wave that rises up and levels off after some time — which is why different strategies work to ‘ride the wave’ until it’s gone.”
+
+> Unexpectedly, high trait chocolate cravers successfully reduced their elevated chocolate thoughts in the suppression condition. This lends support for the use of thought suppression as a means of regulating unwanted thoughts, cravings and imagery.
+
+> the Food Craving Acceptance and Awareness Questionnaire (FAAQ), the Dutch Eating Behavior Questionnaire (DEBQ), the White Bear Suppression Inventory (WBSI; a measure of thought suppression), and the reduced version of the Food Craving Questionnaire- Trait (FCQ-T-r).
+
+> The elaborated-intrusion theory of desire proposes that craving is a two-stage process whereby initial intrusions about a desired target are subsequently elaborated with mental imagery.
+
+> Guided imagery reduced chocolate-related thoughts, intrusiveness, vividness and craving intensity for chocolate cravers (Experiment 2), but not for the general sample (Experiment 1).
+

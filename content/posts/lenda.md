@@ -3,7 +3,6 @@ categories:
 - movies
 date: '2022-07-31T17:23:43-03:00'
 tags:
-- draft
 title: Lenda (Legend)
 ---
 
