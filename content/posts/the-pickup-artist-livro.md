@@ -141,3 +141,59 @@ Alguns anos depois surge este livro, uma versão atualizada em que Mistery, o ra
 > (B) I IMMEDIATELY LEAD HER INTO AN EXPERIENCE. I say things like “I was flying all around here in Google Earth …” and “Look at this seashell. I was walking with some friends …” and “When I was a kid, I went…” Notice how my words focus on stimulating the listener and creating an experience, rather than trying to win approval or get something.
 
 > But I do the opposite of this—I show disinterest toward the target, disarming her, but I show great interest in what I am saying. My excitement about my words causes her to also feel excited about my words. She begins to find me intriguing.
+
+> (F) I DON’T IMPOSE UPON THE GROUP, I ENTICE THEM. They don’t feel pressured to commit to some long discussion or pushy sales pitch. There is no implied demand for a certain level of participation. They don’t have to defend themselves from some needy agenda. They feel safe to respond freely, without fear of provoking anger or encouraging neediness.
+
+> When I open a set, I don’t need to impress them, or win their approval, or prove myself to anyone. I just offer the tiniest bit of conversational value—just being friendly—and all I need is for someone to bite just enough so that I can toss them the next bit, and the next bit.
+
+> The best way is to open sets that are already in your proximity, so that you don’t have to approach them in the first place.
+
+> If you must approach a set in order to get close enough to open them, draw near to them at a 45-degree angle. Walk very slowly and comfortably, as though you are in your own world. Don’t walk straight toward them or come from directly behind them. Do all these things for the same reason that you would avoid spooking an animal.
+
+> As you walk along that curve and get closer to the group, you then “notice” them out of the corner of your eye, and then you “spontaneously” think to open them. That is when you turn your head naturally, and open them over your shoulder.
+
+> To disarm any suspicions, use false time constraints and body rocking. It is very disarming when you come across as carefree and unaffected.
+
+> Do not turn your body to face toward the group until they are turning toward you in the same way. If you appear eager, you could get blown out. Be aware of how the value differential is affected by your physical positioning.
+
+> Remember, if you do not add value, then you are just another guy who’s only here to get something.
+
+> The energy level of your personality should be calibrated to be high enough to stimulate the set, but without spooking them. The reason I say to calibrate energy levels is that it will spook the set if you come in too energetically. Anyone who has approached a thousand sets will already know this intuitively, so get a feel for it.
+
+> Don’t milk the opener— just take control of the conversation and practice stacking forward to your next piece of material. Better yet, vibe with them and practice getting into a fun, humorous mood, which is more important than using canned routines. Routines are only training wheels to get you started.
+
+> “Stack the openers and yes, if an opener doesn’t work, don’t finish it. Just cut yourself off and open with another one (stacking) just like a comedian does if a joke starts to stall the audience. He just drops it and moves on to another bit from scratch. You’ve got to be super ready for this. And, if you finally open the set, you can—but only if you want—go back and finish up open threads during the pickup.”
+
+> “There is no such thing as a second first impression,” I replied. “It’s a ‘one time at bat’ sort of thing. A girl will decide, based on the first five minutes of knowing you, whether or not she is interested.
+
+> Passion is not something that builds over weeks but instead ignites instantly. The best relationships come from beginning passionately.
+
+> “That is the plan. Train as if every girl is merely practice for the next one and you won’t get nervous to mess up, because nothing important is on the line. Once you start playing, it’s more fun. The first three approaches are always the hardest of the night.
+
+> “Sometimes it’s hard to view practicing pickup as fun!” exclaimed Adam. “Personally,” I said, “I think it’s a blast. If, after all the stress and fear, you aren’t having fun practicing pickup, you need to get yourself another hobby.
+
+> Go out alone. All the best Venusian artists do it. It’s fun to explore by yourself. Approach everyone. Become a social guy. Fake your smile. It will biofeedback and make you feel better. Crash and burn. Experiment! Open hotties with “So … who the hell are you?” Talk to strangers. Don’t try to make them like you. Instead, make them think you are from the future.
+
+> “Think of this as surfing,” I said. “It’s like you’re surfing people and every potential approach is the next wave. And you have to take them all on. Or think of it as a video game.”
+
+> “Well,” I said, “first of all, consider removing redundant sentences from your intro. How are you? Excuse me. How’s it going? How are you tonight? How are you today? Can I ask you a 
+
+> “Starting the conversation by asking for directions is bad, because it will cause an uncomfortable transition when you change the thread to something more conversational.
+
+> Also, it’s not asking directions. Girls know that is a possible line. They are cautious and you haven’t disarmed them. The Elvis Script disarms the ‘he’s hitting on me’ emotion.”
+
+> Just look around sometime and notice that most guys hold their drinks up high—higher than heart level even. Those are the scared ones. I wonder if you can remember where you had your drink all this time. If it’s high up, it’s time to change, ‘cause you are conveying fear. Leave the drink at the bar!”
+
+> Smile 100 percent of the time. Smile at everyone! Eye contact to all in the group. Don’t wait for a smile back. Say hi. Pause and then use your opener. Don’t be a smart-ass. Don’t annoy. Be genuine.
+
+> “I can’t believe that so many people hit up against the bitch shield and they actually think she is really like that. They leave thinking, ‘Oh man, I’m glad I didn’t get her; she’s such a bitch.’ Well, by giving you the attitude, she got rid of you, yes? This is a typical tactic of particularly beautiful women. They learned this through years of men hitting on them to the point of annoyance. So you have to be different and not hit on them. That is what negs are all about.
+
+> “‘Excuse me’ sucks. It just doesn’t work. I wish it would but we all know it doesn’t. She doesn’t care. ‘Excuse me what? Fuck off. I’ve got better things to do than get hit on by some guy in a doorway, buddy.’ Never use ‘excuse me’ as an opener. Ever.
+
+> Please don’t introduce yourself and give an excuse as to why you approached, as this shows a low self-esteem. Don’t give reasons. Just talk. The only reason you should have is ‘I’m entertaining myself.’ Go in really fun. I mean point to things and say ‘Bam! Killed it!’ Don’t try to pick her up. Instead merely convey an amazing personality and let her close you.
+
+> Are your friends approaching groups? If they aren’t doing group theory, they’re cutting themselves off at the knees. There are women in the bar who went out by themselves, but they are few and far between. Most hotties are found in groups, plain and simple. And if you don’t go indirect, you’ll creep out the friends and possibly alienate them. It is a group, after all.
+
+> “You have a choice from here. Bail out with a ‘Pleasure meeting you’ or wing it for the rest of the set, ‘cause by now you are in. As long as you don’t hit on them in this first minute or two of talk and you convey confidence, charisma, a good sense of humor, smile, are well-dressed and groomed, and humorously neg the beauty of the group, you are money! Be the man they want. Be fun. Be funny. Let them hit on you. Be a cool friend, not a slimy pickup artist. If by the end of this minute-to-two-minute opening act, if a girl is interested she will respond; if not, move on. You are out to get good at this, so practice.
+
+> “Now is the time to stop just watching. Get into a fun mood—which I know is hard for the very first girl, but you can fake it—and walk up to many girls, attractive or not, and say hi. Remember to smile when you approach. Then, and here is the best part, say any nonstereotypical opening line you would like, and then after whatever banter you began with, say, ‘Pleasure meeting you,’ and walk off with a smile and a skip to your walk.
