@@ -1,9 +1,10 @@
 ---
 categories:
-- none
+- movies
 date: '2022-08-08T20:30:35-03:00'
 tags:
 - draft
+- cinemaqui
 title: A Marca da Morte
 ---
 
