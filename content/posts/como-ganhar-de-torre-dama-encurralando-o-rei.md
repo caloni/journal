@@ -2,6 +2,7 @@
 categories:
 - chess
 date: '2022-08-13T17:41:14-03:00'
+link: https://www.chess.com/analysis/game/live/54161416339
 tags:
 - draft
 title: Como Ganhar De Torre Dama Encurralando O Rei

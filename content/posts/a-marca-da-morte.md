@@ -3,7 +3,6 @@ categories:
 - movies
 date: '2022-08-08T20:30:35-03:00'
 tags:
-- draft
 - cinemaqui
 title: A Marca da Morte
 ---
@@ -22,6 +21,6 @@ Outro traço artístico que saiu de moda, mas aqui é quase necessário, são es
 
 Os vilões desse filme não chegam a ser tridimensionais, mas seus estereótipos possuem uma alma perene demais para ser ignorada. E isso é valioso quando eles começam a tocar o terror. Torcemos por eles. Isso é errado? Pode ser. Mas torcemos para os mocinhos e moçoilas também, o que torna as emoções mais complexas. Não espere um slasher de quinta categoria. Esse está mais para uma terceira, e com sorte passará no teste do tempo como um exemplo de como fazer um filme de gênero e se tornar inesquecível pela pureza das intenções.
 
-O slasher em si é eficiente e gráfico. O uso da noite sempre favorece os efeitos visuais. Os cortes rápidos também. Não há muita tortura para os que não gostam de olhar. Basta virar a cara algumas vezes. Já para os que gostam, tenho boas notícias para você: sabe quando alguém pisa em um lindo prego no chão com o pé descalço? Está lá, e um pouco mais do que isso. Há uma certa homenagem à escatologia também, o que me faz lembrar Arraste-me para o Inferno, aquele terror divertidíssima dirigido por Sam Raimi depois que ele se cansou dos primeiros filmes do Homem Aranha. Onde será que anda, aliás, o diretor de filmes tão fantásticos quanto arrepiantes? Ah, sim, no universo Marvel, que consome tantos talentos quanto Thanos consome de vidas em seu projeto megalomaníaco. E a Disney.
+O slasher em si é eficiente e gráfico. O uso da noite sempre favorece os efeitos visuais. Os cortes rápidos também. Não há muita tortura para os que não gostam de olhar. Basta virar a cara algumas vezes. Já para os que gostam, tenho boas notícias para você: sabe quando alguém pisa em um lindo prego no chão com o pé descalço? Está lá, e um pouco mais do que isso. Há uma certa homenagem à escatologia também, o que me faz lembrar Arraste-me para o Inferno, aquele terror divertidíssimo dirigido por Sam Raimi depois que ele se cansou dos primeiros filmes do Homem Aranha. Onde será que anda, aliás, o diretor de filmes tão fantásticos quanto arrepiantes?
 
-Bom, torçamos por Ti West e sua frente slasher de qualidade. Não é pelo "neo terror" ou qualquer nome apelativo do gênero. É pelo bom e velho susto que logo antes leva à reflexão. Ou à loucura. West é um cineasta que soube aqui equilibrar todas essas emoções muito bem.
+Bom, torçamos por Ti West e sua frente slasher de qualidade. Não é pelo "neo terror" ou qualquer nome apelativo do gênero. É pelo bom e velho susto que logo antes leva à reflexão. Ou à loucura. West é um cineasta equilibra emoções em filmes de baixo orçamento.
