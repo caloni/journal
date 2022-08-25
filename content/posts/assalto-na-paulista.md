@@ -1,9 +1,10 @@
 ---
 categories:
-- none
+- movies
 date: '2022-08-24T20:48:31-03:00'
 tags:
 - draft
+- cinemaqui
 title: Assalto na Paulista
 ---
 

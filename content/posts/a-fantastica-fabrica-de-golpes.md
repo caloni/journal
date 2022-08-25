@@ -1,9 +1,10 @@
 ---
 categories:
-- none
+- movies
 date: '2022-08-24T21:00:04-03:00'
 tags:
 - draft
+- cinemaqui
 title: A Fantástica Fábrica De Golpes
 ---
 
