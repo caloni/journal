@@ -1,0 +1,6 @@
+<!-- rawfile -->
+{{ $src := (printf "/static/chess/%s" (.Get "src") ) }}
+{{ $fileContent := readFile $src }}
+<pre>
+{{ $fileContent }}
+</pre>
