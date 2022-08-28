@@ -7,9 +7,9 @@ tags:
 title: Sandman
 ---
 
-Para compor o elenco dessa produção a Netflix encomendou um navio negreiro privado, como nos velhos tempos. Um navio com superlotação de mulheres. Chama a atenção de um jeito ruim, pois falta significado exceto o mercadológico, pois grandes corporações como a gigante de streaming estão há uma década seguindo a tendência, que deve ter se provada lucrativa.
+Para compor o elenco dessa produção a Netflix encomendou um navio negreiro privado, como nos velhos tempos. Um navio com superlotação de mulheres. Chama a atenção de um jeito ruim, pois falta significado exceto o mercadológico, pois grandes corporações como a gigante de streaming estão há uma década seguindo a tendência, que a essa altura deve ter se provada lucrativa.
 
-Para tornar o suporte de segundo escalão em alto relevo a série escala atores brancos de pouca expressividade como o mocinho e os vilões. Sandman, o personagem-título sem ser protagonista, faz biquinho quando está nervoso e seu arqui-inimigo, ou algo que o valha, Coríntio, sorri como o vilão do primeiro Vingadores, filme da Marvel que comprovou que para ser um vilão de sucesso basta mostrar os dentes. Coríntio mostra os lábios. E é gay. Há mais cenas sensuais com gays do que hétero, o que é outro sintoma mercadológico.
+Para colocar o suporte de segundo escalão em alto relevo a série escala por contraste atores brancos de pouca expressividade como o mocinho e os vilões. Sandman, o personagem-título sem ser protagonista, faz biquinho quando está nervoso e seu arqui-inimigo, ou algo que o valha, Coríntio, sorri como o vilão do primeiro Vingadores, filme da Marvel que comprovou que para ser um vilão de sucesso basta mostrar os dentes. Coríntio mostra os lábios. E é gay. Há mais cenas sensuais com gays do que hétero, o que é outro sintoma mercadológico.
 
 Talvez eu esteja pegando no pé de fatos irrelevante para uma série baseada nos quadrinhos. As atuações em obras do gênero deixaram de serem importantes desde… série da Marvel? O importante é o universo. E o quanto os fãs se sentem acariciados.
 
