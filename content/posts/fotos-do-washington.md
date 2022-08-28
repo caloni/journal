@@ -3,7 +3,6 @@ categories:
 - chat
 date: '2022-08-13T20:49:21-03:00'
 tags:
-- draft
 title: Fotos do Washington
 ---
 

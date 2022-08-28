@@ -3,7 +3,6 @@ categories:
 - movies
 date: '2022-08-24T21:00:04-03:00'
 tags:
-- draft
 - cinemaqui
 title: A Fantástica Fábrica De Golpes
 ---
@@ -18,6 +17,6 @@ Porém, ao mesmo tempo seu objetivo é unir estes anos com acontecimentos mais r
 
 Para isso o protagonista fundamental é outro documentário, bem conhecido e já velhinho. Se trata do Muito Além do Cidadão Kane, produzido lá fora e que esboça a arquitetura do poder midiático de Roberto Marinho no comando de produzir conteúdo de comunicação em massa para os milhões de pobres alienados leitores e espectadores brasileiros.
 
-E aqui começa a ironia. Para nos iluminar a respeito da construção de narrativa o filme constrói uma versão completamente partidária. Na sua inocência espera, acredito, que o espectador identifique a sua forma de contar a História como a correta, e a outra, em contrapartida, como a errada. Não há meios termos.
+E aqui começa a ironia. Para nos iluminar a respeito da construção de narrativa o filme constrói uma versão completamente partidária. Na sua inocência espera, acredito, que o espectador identifique a sua forma de contar a História como a correta, e a outra, em contrapartida, como a errada. Não há meio-termo.
 
-É muito curioso esse processo, pois quando há o mero consumo somos movidos pelos nossos preconceitos a usar nossa pré-formada opinião como lente de interpretação dos fatos. Ao assistir a um filme que explica como as narrativas são criadas, sendo ele próprio uma narrativa, a questão se limita a uma escolha de opiniões, que é uma decisão, se formos analisar, totalmente disassociada do pensamento crítico. E como já comentei, o discurso é abertamente enviesado. Não são ouvidos lados para a expansão das múltiplas visões a respeito de um fato. A única visão defendida pelo filme é mostrada pelos diferentes ângulos de seus entrevistados, que percorrem as opiniões de esquerda que todos minimamente informados conhecem, para potencialmente informar alguém desinformado. Seria esse o objetivo? Como eu comentei no começo, a consequência é confusa, na melhor das hipóteses, e de mau caráter na pior. Como um YouTuber já dizia, ou a pessoa está enganada, ou está enganando.
+É muito curioso esse processo, pois quando há o mero consumo somos movidos pelos nossos preconceitos a usar nossa pré-formada opinião como lente de interpretação dos fatos. Ao assistir a um filme que explica como as narrativas são criadas, sendo ele próprio uma narrativa, a questão se limita a uma escolha de opiniões, que é uma decisão, se formos analisar, totalmente dissociada do pensamento crítico. E como já comentei, o discurso é abertamente enviesado. Não são ouvidos lados para a expansão das múltiplas visões a respeito de um fato. A única visão defendida pelo filme é mostrada pelos diferentes ângulos de seus entrevistados, que percorrem as opiniões de esquerda que todos minimamente informados conhecem, para potencialmente informar alguém desinformado. Seria esse o objetivo? Como eu comentei no começo, a consequência é confusa na melhor das hipóteses e de mau caráter na pior. Como um YouTuber já dizia, ou a pessoa está enganada, ou está enganando.

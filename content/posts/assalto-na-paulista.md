@@ -3,14 +3,13 @@ categories:
 - movies
 date: '2022-08-24T20:48:31-03:00'
 tags:
-- draft
 - cinemaqui
 title: Assalto na Paulista
 ---
 
 Noite fria na pré-estreia de Assalto na Paulista em um cinema a poucas quadras de onde ocorreu a ação criminosa que inspirou o filme, um assalto a cofres privados na calada da noite em um banco famoso que levou cerca de 500 milhões de reais em pertences e espécie. O frio não impediu que tivéssemos uma sala lotada para ver a nova obra dirigida por Flávio Frederico e roteirizada por Mariana Pamplona, nem a ilustre presença da grande maioria do elenco e equipes. Este projeto ficou anos em marcha lenta por conta da pandemia, mas finalmente irá atingir 22 salas no país esta semana.
 
-A sensação geral dessa noite foi de vitória, e a sessão convenceu ao público, que aplaudiu no final. Nem que fosse por educação. O filme tem um quê de apelo comercial misturado com um estilo de arte cada vez mais em voga: uma narrativa solta sem pretensão alguma em contar uma história de começo, meio e fim. É o cinema de sensações desprovidas de contexto. Seus protagonistas são pessoas comuns com histórias de vida pautadas por traumas geradas pela violência. E ambos respondem aos seus traumas com violência.
+A sensação geral dessa noite foi de vitória, e a sessão convenceu ao público, que aplaudiu no final. Nem que fosse por educação. O filme tem um quê de apelo comercial misturado com um estilo de arte cada vez mais em voga: uma narrativa solta sem pretensão alguma em contar uma história de começo, meio e fim. É o cinema de sensações desprovidas de contexto. Seus protagonistas são pessoas comuns com histórias de vida pautadas por traumas gerados pela violência. E ambos respondem com mais violência.
 
 Embora de maneiras distintas. Enquanto Rubens (Eriberto Leão) é a explosão do chefe, de quem dá as cartas custe a quem custar e que mantém as rédeas da operação mais na base do medo e do berro, Leônia (Bianca Bin) é a figura feminina ou sentimental da trama, que reconhece que pode haver uma luz no fim do túnel sem ser o trem. Seu choro em meio à ação pode ser entendido como o desespero de quem não consegue que as coisas sejam do jeito que quer. É o mimimi das vítimas de abuso, mesmo que a vítima atire bem.
 

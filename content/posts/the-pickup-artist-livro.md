@@ -3,7 +3,6 @@ categories:
 - books
 date: '2022-07-24T14:05:20-03:00'
 tags:
-- draft
 title: 'The Pickup Artist: The New and Improved Art of Seduction (Mystery)'
 ---
 
@@ -176,7 +175,7 @@ Alguns anos depois surge este livro, uma versão atualizada em que Mistery, o ra
 
 > “Think of this as surfing,” I said. “It’s like you’re surfing people and every potential approach is the next wave. And you have to take them all on. Or think of it as a video game.”
 
-> “Well,” I said, “first of all, consider removing redundant sentences from your intro. How are you? Excuse me. How’s it going? How are you tonight? How are you today? Can I ask you a 
+> “Well,” I said, “first of all, consider removing redundant sentences from your intro. How are you? Excuse me. How’s it going? How are you tonight? How are you today? Can I ask you a
 
 > “Starting the conversation by asking for directions is bad, because it will cause an uncomfortable transition when you change the thread to something more conversational.
 
@@ -269,3 +268,174 @@ Alguns anos depois surge este livro, uma versão atualizada em que Mistery, o ra
 > Adam, I want to tell you something powerful: As long as it comes from the right place inside of you, the inner game of humor, you can make up anything you want and it will work. I am not saying that you should lie to people and they will believe it. Rather, I am saying that you can improvise conversationally, even to the point of the obvious nontruth, even if no one even takes it seriously; it will still work. All it takes is that you are actually laughing inside when you say it. Literal truth and factual accuracy are not necessary for vibing and conveying value. When they are vibing, people only care that it feels good.
 
 > “This is the same reason why you can invent bullshit off the top of your head, embed value indicators in it, and even though everyone knows it’s bullshit, they will still feel attracted to you—because the value indicators are processed at an emotional level. How cool is that?”
+
+> “This is also the way that I use absurdity in order to control the frame. For example, if someone says to me, ‘You’re an asshole,’ then I reply, ‘I’m an asshole, and I’m fun.’ Everyone laughs. I accept what is said and then take it in my own direction. This is so important!”
+
+> Reality is literally a waking dream. You can control the dream. You can create moments. Moments filled with pain, loneliness, war. Moments of absolute bliss. Watching your firstborn open her eyes for the first time. If you’re kind to the universe, the universe will be kind to you. It’s your choice. It’s filled with potential. And I know by helping you to see it, my grand work here will be far-reaching when I’m gone.
+
+> I couldn’t help but notice all the math! The universe calculating in real time! I became conscious of the smell of the breeze, of the deep blue in the sky, and the sunlight that shone down on the hills like beams of gold, warming my skin, with the entire city spread out before me in the valley below. This is what really matters. Here I was now, with good friends, feeling nothing but love, and I was within seconds of meeting a beautiful woman in a bikini who would become my next girlfriend. As the universe danced for me, I heard Lovedrop’s words again, “You’re Mystery. Think about it.” And I thought: He’s right! I am Mystery. The universe provides.
+
+> The moment you put down this book, that’s when the excuses will start and the distractions will come. You’ll have all of the BS reasons to forget your goals and aspirations and any commitments you made while reading this book. The path to mastery in this world isn’t reading. If you really want to master this, you need to engage yourself in its application. Reading is one thing and understanding is another. But application is where the real game is played.
+
+# Glossary
+
+ - ACCOMPLISHMENT INTRO: Mentioning one of your wing’s notable accomplishments as you introduce him to the group.
+
+ - AMOG: The “alpha male” of the group.
+
+ - ANTI-SLUT DEFENSE (ASD): A logical trigger in a woman’s mind that activates to interrupt whatever is happening whenever she feels that her social value could be compromised.
+
+ - APPROACH ANXIETY: The anxiety that many men feel when they are about to approach a group of strangers to start a conversation.
+
+ - AVERAGE FRUSTRATED CHUMP (AFC): The typical “loser guy” who is unsuccessful with women. Coined by Ross Jeffries.
+
+ - BAIT-HOOK-REEL-RELEASE: A metaphor describing the basic concepts of microcalibration. See chapter 2.
+
+ - BITCH SHIELD: The rude attitude that some women use in public to blow off the men who approach them.
+
+ - BODY ROCKING: Using your body language to cause the group to feel like you are leaving even when you aren’t, in order to preserve comfort levels in the group, allowing you more time to hook them.
+
+ - BOUNCE: To leave the current venue, usually with your target, and go to the next venue. Normally the entire group will bounce together.
+
+ - BUYER’S REMORSE: The sense of regret that a woman will feel if you push for too much physical escalation before qualifying her properly. The pickup artist who causes buyer’s remorse will complain that, although he was kissing his target the night before, now she won’t even return his phone calls.
+
+ - BUYING TEMPERATURE: A temporary emotional state, associated with higher levels of compliance, that can be installed into women through gaming focused on stimulating the emotions. Characterized by giggling.
+
+ - CANNED MATERIAL: Routines that have been practiced in the past and are “in the can” and ready to be used when necessary in the field.
+
+ - CHEAT SHEET: See “Stack.”
+
+ - COMPLIANCE MOMENTUM: The process of baiting your target to jump into progressively larger and larger hoops, and thus giving you a higher and higher level of compliance.
+
+ - COMPLIANCE TESTING: The actual tests, verbal and physical, that a pickup artist uses to bait the target to give more and more compliance. Compliance testing is part of the microcalibration process.
+
+ - CONSPIRACY: A sense between two people that they are “in on something” together that other people are outside of and wouldn’t understand. Conspiracy is a connection switch, which means that using it installs and deepens a sense of connection between two people.
+
+ - CRASH AND BURN: Approaching a group and being rejected. Often a new pickup artist will do “crash and burns” ten or twenty times in a row just for the learning experience and to desensitize himself to rejection.
+
+ - CUTTING THE THREAD: Changing the subject of conversation by ignoring someone’s thread and instead introducing a new thread of your own. Usually, people just go along with it.
+
+ - DEMONSTRATION OF HIGHER VALUE (DHV): An indicator of higher evolutionary value, triggering attraction. See chart in chapter 10.
+
+ - DEMONSTRATION OF LOWER VALUE (DLV): An indicator of lower evolutionary value. See chart in chapter 10.
+
+ - DISARM: To neutralize an obstacle in the group, usually by winning over the group.
+
+ - DISQUALIFIER: A statement or action disqualifying oneself as a potential suitor to the target. See “Neg.”
+
+ - EMOTIONAL STIMULATION: The use of sensory and emotional descriptions, rather than logical recitations of fact, to stimulate the imagination of the listener and install various emotional states.
+
+ - FALSE TIME CONSTRAINT: Mentioning that you need to leave soon, for some logical reason. This is done for the same reason as body rocking: to preserve comfort levels in the set, allowing more time for the pickup artist to hook the set.
+
+ - FIELD: The social gathering, usually a public venue such as a bar, where a pickup artist goes to practice approaching women.
+
+ - FIELD REPORT: A report of a night in the field, usually written. Video and audio field reports are not unheard-of.
+
+ - FIELD-TEST: To test a new tactic or idea in the field in order to ascertain its usefulness in pickup.
+
+ - THE FLAME: The Flame is an inward vibe where you are happy, smiling, playful, having fun, adding value, positive, talkative, you make things happen, warm, friendly, enthusiastic, appreciative, and a little crazy.
+
+ - FLASH GAME: Game that, while flashy and impressive to the observer, is superficial and only based on a temporary emotional state of fun. See “Solid Game.”
+
+ - FLUFF TALK: Mundane conversation used for “passing the time” when you have nothing better to say.
+
+ - FMAC: Find, Meet, Attract, Close.
+
+ - FRAME: The context through which something is interpreted.
+
+ - GAMBIT: A memorized routine used to accomplish a certain piece of your game. Usually a funny story used to captivate the group and demonstrate value to the target.
+
+ - THE GHOST: The Ghost is an inward vibe where you feel comfortable and relaxed, unreactive, unaffected, content, satisfied, not needy, not trying to impress anyone, and without agenda.
+
+ - GROUP THEORY: The process of becoming the center of attention in a group, and demonstrating value to the group, usually through storytelling, while negging the target, in an attempt to disarm the obstacles and create attraction in the target.
+
+ - HIRED GUNS: Women who are hired for their beauty. This category can include exotic dancers, bartenders, shot girls, hostesses, and so on.
+
+ - HOOK: You can say that you have “hooked” your target when she is starting to give you IOIs instead of IODs.
+
+ - HOOP THEORY: Hoop theory is the concept that people are constantly putting up hoops, metaphorically, and trying to get other people to “jump into the hoop.” Part of having power in the conversation is about understanding when this happens and being able to control it.
+
+ - INCONGRUENCE: A funny feeling that people get when the words you say, and the way you say them, don’t line up. This goes away with practice.
+
+ - INDICATOR OF DISINTEREST (IOD): An IOD is a cue that your target will give when she is not attracted to you or interested in what you have to say. She will turn away, look away, disagree, and so on. See the chart in chapter 2.
+
+ - INDICATOR OF INTEREST (IOI): An IOI is a signal that your target will display when she is attracted to you and/or interested in what you have to say. She will smile, ask questions, touch you, continue the conversation when you let it drop, and so on. See the chart in chapter 2.
+
+ - INNER GAME: This is your inner confidence and intuitive grasp of the game.
+
+ - INTERRUPT: An interrupt often occurs when you are talking to your target, and suddenly one of her friends appears out of nowhere and they start talking to each other. A skilled pickup artist will have a gambit ready to use for such situations.
+
+ - INVESTMENT: The amount of time and energy that a woman has put into her interaction with you, including how emotionally involved she has allowed herself to be. The more invested she is, the more compliance you will get.
+
+ - KINO: A euphemism for the sense of physical touch.
+
+ - KINO ESCALATION: Physical escalation. See chapter 2.
+
+ - KISSING: A romantic embrace related to erotic love. See chapter 2 for instructions on getting the kiss.
+
+ - LEADER OF MEN: A demonstration of higher value, triggering attraction. Pickup artists demonstrate leader of men by taking over the group with storytelling, or by winning over the men in the group and vibing with them, or by teaching them some trick in order to demonstrate authority.
+
+ - LOCKING IN: A pickup artist is “locked in” when he has physically positioned himself as the central feature of the group, and when he is physically more comfortable than the other people in the group. LOCK-IN
+
+ - PROP: An item that you hand to your target in order to “lock her in” so that she has to sit and watch while you ignore her and demonstrate value by telling a cool story to someone else.
+
+ - MERGING BACKWARD: Introducing the people in your new group to people that you have previously gamed.
+
+ - MERGING FORWARD: Merging forward is accomplished by opening a new group while in set and then introducing both sets to each other. Often this is done by putting your target on your arm and then taking her as your pawn into your next set; you have merged her forward into the next set.
+
+ - MICROCALIBRATION: A process of interpreting signals from the target and responding with the appropriate indicator, whether a DHV or an IOI, or an IOD, or a compliance test, that will be most effective in that moment, so that over time the pickup artist will gain more and more compliance from his target.
+
+ - MOVE: A good pickup artist will move his target to different parts of the venue in order to build the sense of comfort and trust between them. He will take her to the bar, to the dance floor, to meet his friends, back to her friends, and so on.
+
+ - MULTIPLE CONVERSATIONAL THREADS: A good pickup artist Will introduce multiple conversational threads and shift between them comfortably, as friends do when speaking. This is as opposed to speaking only about one conversational thread at a time, which will make people feel like they are talking to a stranger, a common mistake made by inexperienced pickup artists.
+
+ - MYSTERY METHOD: See “Venusian Arts.”
+
+ - NEG: A statement or action disqualifying oneself as a potential suitor to the target. See “Disqualifier.”
+
+ - NICE GUY: The guy who builds comfort with his target but fails to build attraction. He often ends up as her “friend.”
+
+ - NUMBER CLOSE: The act of obtaining a woman’s phone number. A pickup artist will view this as perfunctory, and not as important as building attraction, qualifying the target, escalating physically, building comfort and trust, and so on. A newbie will place too much emphasis on the phone number itself and not enough emphasis on the emotional process that the target must undergo in order for her phone number to have any real value to the pickup artist.
+
+ - OBSTACLE: A jealous friend of the target or otherwise member of her group who acts to block approaching men from picking up the target. Often an unattractive friend or a male friend.
+
+ - OPENER: A gambit that a pickup artist uses to start a conversation.
+
+ - OUTER GAME: The various tactics and techniques of game.
+
+ - PAWN: A woman who is paraded about, without her knowledge, by a pickup artist so that he can demonstrate preselection to his real target. The pickup artist will be willing to lose the pawn in order to demonstrate to his real target that he is willing to walk away from a woman. A skilled pickup artist will also use pawns to create jealousy plots with the target.
+
+ - PEACOCKING: Wearing at least one attention-getting item in order to cause murmuring about oneself in the field, and to give women an excuse to say something. Peacocking also attracts social pressure, which enables the pickup artist to demonstrate that he is accustomed to, and unreactive to, such attention.
+
+ - PIVOT: A woman friend you use to convey preselection and to make groups more receptive to your approach.
+
+ - PRESELECTION: A powerful DHV. The target will feel more attracted to the pickup artist when she sees that other women are giving him IOIs.
+
+ - PROXIMITY: One IOI that women use when they want you to approach is that they will give you proximity by standing nearby. You may also notice them talking louder as you walk by. PUSH-PULL: Alternating between IOIs and IODs as a way of pumping buying temperature in the target.
+
+ - QUALIFYING: Showing approval or interest as a reward, usually timed to come just after the target has demonstrated value to you, or complied with escalation, or otherwise jumped into one of your hoops. ROLL-OFF: To turn as if to walk away. Often a pickup artist will turn back into the group again after a roll-off, using the move as a quick IOD as part of his microcalibration.
+
+ - ROUTINE: See “Gambit.”
+
+ - SET: A group of people that a pickup artist approaches, usually at a social gathering.
+
+ - SOCIAL ALIGNMENTS: A powerful DHV. Your friends, hookups, connections, employees, sources, and other forms of social value. You can directly demonstrate social alignments, and you can also embed it as a DHV in your stories.
+
+ - SOLID GAME: As opposed to flash game, which is superficial and only stimulates temporary emotions, solid game involves demonstrating evolutionary value in order to trigger attraction switches in the target. After this, a skilled pickup artist will bait the target to jump into his hoops, building more and more compliance and physical escalation between the two of them.
+
+ - STACK: A series of routines, often listed on a Cheat Sheet, that a pickup artist uses to practice his delivery. See “Cheat Sheet.” STATEMENT OF INTEREST (sol): An overt statement of desire for the target. A great move if done at the right time, which is usually not the approach, but rather after the target has been working for your affection.
+
+ - STICKING POINTS: The parts of your game that are giving you trouble and still need practice.
+
+ - TARGET: The woman you want to win with your current approach. She is the one you are negging. Her friends are the ones you are winning over in order to disarm as obstacles. She is the one you are using Bait-Hook-Reel-Release on and escalating physically. THREE-SECOND
+
+ - RULE: Within three seconds of entering the venue, approach a set and get warmed up. If you are later not in set, and you spot a set worth approaching, then you have three seconds to approach. This will put you into a talkative state and will avoid problems where girls sense you “hovering” before your approach. Try it.
+
+ - TIME BRIDGE: The act of making date plans with your target and visualizing those plans together, instead of merely getting her phone number.
+
+ - VENUSIAN ARTS: Mystery’s system of pickup and his flagship school, located at www.VenusianArts.com.
+
+ - WING: Short for “wingman,” from Top Gun. Your wing is your pickup artist buddy who goes out with you so that you can help each other to pick up chicks. Usually girls who want to meet someone are out in pairs as well, so it works out.
+
+ - THE ZEN OF COOL: See “The Ghost” and “The Flame.”
+

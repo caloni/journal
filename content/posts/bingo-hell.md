@@ -3,7 +3,6 @@ categories:
 - movies
 date: '2022-08-24T21:00:51-03:00'
 tags:
-- draft
 title: Bingo Hell
 ---
 
