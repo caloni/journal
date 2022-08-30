@@ -3,6 +3,7 @@ categories:
 - books
 date: '2022-07-24T14:05:20-03:00'
 tags:
+- draft
 title: 'The Pickup Artist: The New and Improved Art of Seduction (Mystery)'
 ---
 

@@ -3,7 +3,6 @@ categories:
 - series
 date: '2022-08-28T19:07:42-03:00'
 tags:
-- draft
 title: Sandman
 ---
 
@@ -21,6 +20,6 @@ O início da série peca por nos jogar na ação de heróis que não ligamos. Sa
 
 Um dos motivos é a falta de substância em histórias para quadrinhos. Não dá para gastar tanto tempo em arcos muito rasos. Outro motivo são os gastos com a produção, que esbanja efeitos visuais invejáveis para uma série de TV. Em alguns momentos chega a ser mais convincente que muitos filmes recentes de supers. Não precisamos pesquisar quanto isso custou. A resposta é "mais do que deveria".
 
-E o resultado são altos e baixos em um universo com momentos que dão apenas um gostinho do que seria uma temporada apenas com alguns personagens. O arco de Rose Walker, por exemplo, a única protagonista da primeira temporada (que surge da metade para o final), é uma vibração de energias que se esvai no ar bem rápido. Há pouco cinismo no ar e muita fantasia, lembrando conteúdo infantil. Há uma casa de pessoas peculiares para ajudar nessa imersão que lembra Tim Burton sem criatividade.
+E o resultado são altos e baixos em um universo com momentos que dão apenas um gostinho do que seria uma temporada apenas com alguns personagens. O arco de Rose Walker, por exemplo, a única protagonista da primeira temporada (que surge da metade para o final), é uma vibração de energias que se esvai bem rápido. Há pouco cinismo no ar e muita fantasia, lembrando conteúdo infantil. Há uma casa de pessoas peculiares para ajudar nessa imersão que lembra Tim Burton sem criatividade.
 
 Com uma estrutura no roteiro deficitária -- para não dizer uma zona -- e um universo repleto de ideias fascinantes que compõem historietas que fariam mais sentido em uma antologia que não se preocupa em contar uma história maior, Sandman é uma boa surpresa em adaptações. Ele promete uma certa densidade e cumpre. Seu tom dark é mais do que espectadores de TV mereceriam. E parte desse mérito vem do navio negreiro. Muito bem, Srs. brancos produtores.

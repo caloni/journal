@@ -4,7 +4,6 @@ categories:
 date: '2022-08-27T14:04:34-03:00'
 link: https://cinemaqui.com.br/wp-admin/post.php?post=41303&action=edit
 tags:
-- draft
 - cinemaqui
 title: Encontros
 ---

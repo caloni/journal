@@ -4,7 +4,6 @@ categories:
 date: '2022-08-24T21:00:04-03:00'
 link: https://cinemaqui.com.br/wp-admin/post.php?post=41299&action=edit
 tags:
-- draft
 - cinemaqui
 title: A Fantástica Fábrica De Golpes
 ---
