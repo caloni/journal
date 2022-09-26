@@ -233,7 +233,30 @@ Alguns anos depois surge este livro, uma versão atualizada em que Mistery, o ra
 
 > “Personally, I have a few favorite DHVs,” I said. Preselection. Two women on your arms, or a story of a hot ex-girlfriend actress. Just examples. Leader of men. She observes you holding court in her group. Other men comply with your requests. Protector of loved ones. She detects that your emotional programming is healthy. Disinterest. Using negs, roll-offs, and other IODs. Show willingness to walk.
 
-> DEMONSTRATIONS OF … HIGHER VALUE (DHV) LOWER VALUE (DLV) Preselection Isn’t seen with girls Social proof Rolls alone or with guys Popularity and status Seeks approval Holding court in a set Wallflower, hoverer Social alignments No friends or connections Disinterest (negs, etc.) Needy, try-hard Social intelligence Doesn’t “get it” Storytelling (Flame) Boring, doesn’t add value Creative expression Talentless or a show-off Unreactive (Ghost) Fidgets, leans in, talks fast Has weird emotional Healthy emotions responses Humorous and fun (Flame)     Kills the vibe Dominance and strength Weak, no ambition, lazy Protector of loved ones Not protective (miswired) Competence and lifestyle Incompetent, low-rent Health and fitness Soft, out of shape Fashion and grooming Dirty, unkempt, bad fashion Wealth and resources Broke, loser Height and looks Short, ugly Embedded value Brags instead of vibing
+# Demonstrations of higher/lower value
+
+| HIGHER VALUE (DHV)       | LOWER VALUE (DLV)             |
+| ------------------------ | ----------------------------- |
+| Preselection             | Isn’t seen with girls         |
+| Social proof             | Rolls alone or with guys      |
+| Popularity and status    | Seeks approval                |
+| Holding court in a set   | Wallflower, hoverer           |
+| Social alignments        | No friends or connections     |
+| Disinterest (negs, etc.) | Needy, try-hard               |
+| Social intelligence      | Doesn’t “get it”              |
+| Storytelling (Flame)     | Boring, doesn’t add value     |
+| Creative expression      | Talentless or a show-off      |
+| Unreactive (Ghost)       | Fidgets, leans in, talks fast |
+| Has weird emotional      | Healthy emotions responses    |
+| Humorous and fun (Flame) | Kills the vibe                |
+| Dominance and strength   | Weak, no ambition, lazy       |
+| Protector of loved ones  | Not protective (miswired)     |
+| Competence and lifestyle | Incompetent, low-rent         |
+| Health and fitness       | Soft, out of shape            |
+| Fashion and grooming     | Dirty, unkempt, bad fashion   |
+| Wealth and resources     | Broke, loser                  |
+| Height and looks         | Short, ugly                   |
+| Embedded value           | Brags instead of vibing       |
 
 > “It’s rather easy, and you’d be surprised how often a guy will screw up on these basic things. A good seventy-five percent of guys in clubs don’t smile when approaching. Then you’ve got the guys whose shoes are ugly. And they don’t shave the back of their neck. Then they reveal their shyness by not going up to the girl with a smile right away. Then they are all serious, saying things like, ‘Wow, you are so beautiful,’ instead of ‘I like Pearl Jam. I’m not ashamed.’”
 
@@ -411,9 +434,13 @@ Alguns anos depois surge este livro, uma versão atualizada em que Mistery, o ra
 
  - PRESELECTION: A powerful DHV. The target will feel more attracted to the pickup artist when she sees that other women are giving him IOIs.
 
- - PROXIMITY: One IOI that women use when they want you to approach is that they will give you proximity by standing nearby. You may also notice them talking louder as you walk by. PUSH-PULL: Alternating between IOIs and IODs as a way of pumping buying temperature in the target.
+ - PROXIMITY: One IOI that women use when they want you to approach is that they will give you proximity by standing nearby. You may also notice them talking louder as you walk by.
 
- - QUALIFYING: Showing approval or interest as a reward, usually timed to come just after the target has demonstrated value to you, or complied with escalation, or otherwise jumped into one of your hoops. ROLL-OFF: To turn as if to walk away. Often a pickup artist will turn back into the group again after a roll-off, using the move as a quick IOD as part of his microcalibration.
+ - PUSH-PULL: Alternating between IOIs and IODs as a way of pumping buying temperature in the target.
+
+ - QUALIFYING: Showing approval or interest as a reward, usually timed to come just after the target has demonstrated value to you, or complied with escalation, or otherwise jumped into one of your hoops.
+
+ - ROLL-OFF: To turn as if to walk away. Often a pickup artist will turn back into the group again after a roll-off, using the move as a quick IOD as part of his microcalibration.
 
  - ROUTINE: See “Gambit.”
 
@@ -423,13 +450,15 @@ Alguns anos depois surge este livro, uma versão atualizada em que Mistery, o ra
 
  - SOLID GAME: As opposed to flash game, which is superficial and only stimulates temporary emotions, solid game involves demonstrating evolutionary value in order to trigger attraction switches in the target. After this, a skilled pickup artist will bait the target to jump into his hoops, building more and more compliance and physical escalation between the two of them.
 
- - STACK: A series of routines, often listed on a Cheat Sheet, that a pickup artist uses to practice his delivery. See “Cheat Sheet.” STATEMENT OF INTEREST (sol): An overt statement of desire for the target. A great move if done at the right time, which is usually not the approach, but rather after the target has been working for your affection.
+ - STACK: A series of routines, often listed on a Cheat Sheet, that a pickup artist uses to practice his delivery. See “Cheat Sheet.”
+
+ - STATEMENT OF INTEREST (sol): An overt statement of desire for the target. A great move if done at the right time, which is usually not the approach, but rather after the target has been working for your affection.
 
  - STICKING POINTS: The parts of your game that are giving you trouble and still need practice.
 
- - TARGET: The woman you want to win with your current approach. She is the one you are negging. Her friends are the ones you are winning over in order to disarm as obstacles. She is the one you are using Bait-Hook-Reel-Release on and escalating physically. THREE-SECOND
+ - TARGET: The woman you want to win with your current approach. She is the one you are negging. Her friends are the ones you are winning over in order to disarm as obstacles. She is the one you are using Bait-Hook-Reel-Release on and escalating physically.
 
- - RULE: Within three seconds of entering the venue, approach a set and get warmed up. If you are later not in set, and you spot a set worth approaching, then you have three seconds to approach. This will put you into a talkative state and will avoid problems where girls sense you “hovering” before your approach. Try it.
+  - THREE-SECOND RULE: Within three seconds of entering the venue, approach a set and get warmed up. If you are later not in set, and you spot a set worth approaching, then you have three seconds to approach. This will put you into a talkative state and will avoid problems where girls sense you “hovering” before your approach. Try it.
 
  - TIME BRIDGE: The act of making date plans with your target and visualizing those plans together, instead of merely getting her phone number.
 
