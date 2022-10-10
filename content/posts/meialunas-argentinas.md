@@ -1,0 +1,33 @@
+---
+categories:
+- recipes
+date: '2022-10-09T17:58:48-03:00'
+link: https://youtu.be/k6iBmUSPEzY
+tags:
+- draft
+title: Meialunas argentinas
+---
+
+Essa será minha primeira nova tentativa de fazer meialunas ao estilo argentino. Meialunas são como croissants, mas mais doces e com mais sabor. Vou usar como base a receita do canal CUKit!, embora irei usar como referência um pior, o [vídeo da Paulina Cocina](https://youtu.be/N_PcT2diLcM), onde ela faz bem nas coxas, o que me dará forças para quando a minha também ficar meia-boca, e o [vídeo de Isabel Vermal](https://youtu.be/gpVHElzSebg), que me pareceu um meio termo melhor e com mais explicações do processo.
+
+Para a massa de 25 meialunas vamos usar 500g de farinha de trigo da mais fina (na Argentina 0000, no Brasil peneira bem o Tipo 1). Junte 40g de açúcar, 5g de sal, raspas de laranja a gosto e misture. Acrescente 8g de fermento seco, 300ml de leite frio, 15g de mel e 1 colher de sopa de essência de baunilha. Misture novamente para incorporar e em seguida amasse um pouco até conseguir uma massa uniforme. Coloque dentro de uma tigela, cubra e leve à geladeira por meia-hora.
+
+Agora pegue 200g de manteiga. Se for um bloco corte em dois e deixe um do lado do outro. Cubra com plástico filme e comece a dar umas batidinhas, esmagando com pressão, com o rolo e vá aos poucos abaixando sua altura com a ajuda do rolo. É importante que a manteiga esteja fria para conseguir trabalhar melhor, assim como será com a massa durante as dobras. Estique até a espessura de 5 milímetros, dobre as pontas para manter a forma retangular. Leve também à geladeira por meia-hora.
+
+Agora é a hora de iniciar as dobras. Polvilhe farinha na mesa e pouse a massa sobre ela. Tire o ar que ficou na massa e comece a passar o rolo para esticar. O objetivo é um formato retangular; você pode ir esticando um pouco para os lados com a mão. A grossura final deve ser de até 1 centímetro. Após isso você coloca a folha de manteiga em um dos lados da massa e dobra a massa para cobrir por completo, envelopando a manteiga; deixe um espaço generoso nas bordas para não vazar e pressione as bordas após dobrar. Agora você polvilha farinha novamente na mesa, deixe a dobra lateral para a frente e começa a esticar novamente com o rolo, sempre focando em um retângulo alongado. Depois dobre a massa em três, como um envelope, cobrindo o meio com a parte superior e inferior da massa. Por final role mais um pouco a massa para dar uma esticada leve, só para deixar a massa um pouco mais fina, e coloque em uma forma. Cubra e leve à geladeira por meia-hora.
+
+Depois de meia-hora você deverá repetir os procedimentos de alongar a massa, dobrar três vezes e repousar mais duas vezes, sempre descansando na geladeira por meia-hora. Sempre polvilhe farinha na mesa antes de começar e use as dobras laterais para cima. Os descansos são frios com dois objetivos: evitar que a massa fermente e evitar que a manteiga derreta.
+
+Após o último descanso retirar a massa da geladeira para começar os cortes. Polvilhe a mesa com farinha e comece a alongar a massa, tendo a largura de cerca de 24 centímetros. Se começar a grudar o rolo pode polvilhar um pouquinho de farinha por cima da massa. A espessura final também deve ser de 1 centímetro. Depois de alongada corte as bordas ao longo da massa e dobre a massa ao meio para marcar o centro. Corte a massa nessa marca para dividir em duas partes. Para cada parte vá cortando triângulos com 6 centímetros de base (cerca dos quatro dedos juntos), ou seja, com os dois outros lados mais alongados. Coloque esses triângulos sobre a forma, cubra e volte à geladeira por meia-hora.
+
+Depois do descanso é a hora de modelar. Com as mãos abra suavemente a massa, tanto na base quanto esticando a ponta mais longa do triângulo. Depois na mesa comece a enrolar da base para a ponta. Coloque a base para cima e vá enrolando. Enquanto enrola vá estirando levemente a massa, ou seja, puxando um pouquinha toda a parte que ainda falta enrolar. Depois de enrolar todas comece a montar na forma uma após a outra, bem próximas, mas sem encostar. Deixe a pontinha final sempre no sentido para baixo, estique um pouquinho as pontas laterais e dobre-as para baixo, formando uma meialuna, amassando as pontas para fixar na forma. Cubra e leve à geladeira para descansar por 12 horas. Boa noite.
+
+No dia seguinte ou 12 horas depois, ao retirar as meialunas da geladeiras elas devem ter dobrado de tamanho. Se isso não aconteceu deixe-as na temperatura ambiente até que dobrem. Depois de dobradas deixe-as cobertas ainda em temperatura ambiente.
+
+Prepare o xarope pós-forno. Coloque em uma panela 150g de açúcar e 150g de água. Tire uma lasca de casca de laranja e coloque junto. Deixe ferver por cinco minutos. A consistência final deve ser fluida. Reserve o xarope.
+
+Prepare a cobertura pré-forno. Quebre um ovo com uma pitada de açúcar, uma pitada de sal e 2 colheres de sopa de leite. Bata levemente. Pegue o resultado e pinte a superfície de todas as meialunas. Agora coloque-as no forno alto a 210 graus por 20 minutos, ou até, acredito eu, elas estarem amarronzadas.
+
+Depois que retirar do forno, enquanto ainda estiver quente, cubra-as com bastante xarope pós-forno. Alguns chefs furam as meialunas antes disso para o xarope penetrar na massa.
+
+Pronto!
