@@ -77,6 +77,14 @@ sal: 3.20%
 acucar: 0.80%
 ```
 
+# A Few Notes
+
+ - While dough is ready to use within 18 to 24 hours, a prolonged rise deepens the flavor. We've found the sweet spot to be around 72 hours (3 days). Allow the dough to rise for 18 to 24 hours at room temperature, then transfer it to the refrigerator for up to 6 days. Allow dough 2 hours to come back to room temperature before dividing. Dough that's divided and stretched while cold won't proof properly, and will render smaller, breadier pizzas.
+
+ - For a crisper crust, try placing the oven rack farther away from the broiler. For a softer crust, add a little more water to the dough. Play around with hydration and oven placement until you've found your pizza crust sweet spot.
+
+ - Don't over-top or over-sauce your pizza! If you want five different toppings, use less of each. Cut veggies small, and macerate especially wet veggies, like zucchini or eggplant, in salt prior to cooking, to release some of their moisture.
+
 [massa básica de pão rústico]: /pao-rustico
 [última massa que trabalhei]: https://www.kingarthurbaking.com/recipes/pizza-crust-recipe
 [mesma receita com fermento natural]: https://www.kingarthurbaking.com/recipes/sourdough-pizza-crust-recipe
