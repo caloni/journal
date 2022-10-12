@@ -8,7 +8,7 @@ tags:
 title: Meialunas argentinas
 ---
 
-Essa será minha primeira nova tentativa de fazer meialunas ao estilo argentino. Meialunas são como croissants, mas mais doces e com mais sabor. Vou usar como base a receita do canal CUKit!, embora irei usar como referência um pior, o [vídeo da Paulina Cocina](https://youtu.be/N_PcT2diLcM), onde ela faz bem nas coxas, o que me dará forças para quando a minha também ficar meia-boca, e o [vídeo de Isabel Vermal](https://youtu.be/gpVHElzSebg), que me pareceu um meio termo melhor e com mais explicações do processo.
+Meialunas são como croissants mais doces e com mais sabor. Vou usar como base a receita do canal CUKit! (link principal), embora irei usar também como referência um pior, o [vídeo da Paulina Cocina](https://youtu.be/N_PcT2diLcM), onde ela faz meialunas bem nas coxas, mas é justamente o que me dará forças para quando a minha também ficar meia-boca, e o [vídeo de Isabel Vermal](https://youtu.be/gpVHElzSebg), que me pareceu um bom meio termo entre os dois vídeos, e de brinde com mais explicações do processo.
 
 Para a massa de 25 meialunas vamos usar 500g de farinha de trigo da mais fina (na Argentina 0000, no Brasil peneira bem o Tipo 1). Junte 40g de açúcar, 5g de sal, raspas de laranja a gosto e misture. Acrescente 8g de fermento seco, 300ml de leite frio, 15g de mel e 1 colher de sopa de essência de baunilha. Misture novamente para incorporar e em seguida amasse um pouco até conseguir uma massa uniforme. Coloque dentro de uma tigela, cubra e leve à geladeira por meia-hora.
 
@@ -31,3 +31,9 @@ Prepare a cobertura pré-forno. Quebre um ovo com uma pitada de açúcar, uma pi
 Depois que retirar do forno, enquanto ainda estiver quente, cubra-as com bastante xarope pós-forno. Alguns chefs furam as meialunas antes disso para o xarope penetrar na massa.
 
 Pronto!
+
+# Histórico
+
+2020-10-02 Primeira fornada de meia receita: ficou a metade do tamanho (não deveria ter cortado ao meio), ficou com muita laranja (não usar raspas de uma laranja inteira), ficou com um tanto de baunilha demais. Não tive tempo de deixar crescer em temperatura ambiente, mas na geladeira cresceu, acredito, uns 50%. A textura ficou boa, macia e com as dobras visíveis. Uma das meialunas destacou a pontinha e é por isso que ela deve ser deixada para baixo na forma. Queimou um pouco demas embaixo, melhor deixar na parte de cima do forno.
+
+2020-10-03 Segundo preparo. Estou tentando usar o tamanho original. Uma parte importante de preparo da manteiga é não deixar ela muito fina ou não vai caber quando a massa estiver com 5 milímetros. Deixe ambas com essa espessura. Esqueci de cortar as bordas. Untei com manteiga e farinha a forma e acho que isso foi demais, pois as orelhas das meialunas não ficaram presas; melhor manter apenas a manteiga, mesmo. Hoje de manhã a massa ainda não tinha dobrado. Coloquei na luzinha e uma hora depois senti que já estava bom. Ter untado demais atrapalhou as orelhas, que não ficaram presas e se perderam. Ter colocado na parte de cima do forno ajudou a não queimar tanto no fundo. Eu ter esquecido o corte das bordas não atrapalhou a textura final como eu achava que seria, nem ter vazado um pouco de manteiga. Manter mais de meia-hora entre as dobras parece que tornou a massa mais maleável, pois ela já estava crescendo um pouco. Como fui votar entre uma dobra e outra isso também deve ter influenciado. O bottom line é que não precisa se preocupar tanto assim com o tempo entre as dobras, desde que seja acima de meia-hora e mantenha a massa fria.
