@@ -3,7 +3,6 @@ categories:
 - movies
 date: '2022-10-09T14:21:25-03:00'
 tags:
-- draft
 - cinemaqui
 - mostra
 title: Restos do Vento
@@ -17,6 +16,6 @@ O mais importante nesse contexto é notar que Laureano se mistura porque pertenc
 
 Comentário social com viés realista e uma pitada de provocação que se revela mais teatral, Restos do Vento confia na percepção do espectador de que algumas permissões poéticas se fazem necessárias pelo bem do drama. Mais relevante não é a pensar se tudo isso aconteceria na vida real, mas entender a essência dos personagens e o que eles significam na esfera maior de uma sociedade.
 
-Samuel, por exemplo, representa o poder puro. Seu gênio incontrolável e caprichoso ecoa na personalidade do próprio filho, líder de um grupo semelhante ao visto no início da história. Samuel é o tipo de pessoa que dá as cartas na mesa e puxa mais algumas da manga se for necessário para ganhar a mão. Já Paulo é um seguidor de ordens; ordens de você sabe quem. É o clássico pau-mandado que quando veste um uniforme policial na fase adulta revela a rede de influências que todos nós gostaríamos que não existisse em um mundo ideal.
+Samuel, por exemplo, representa o poder puro. Seu gênio incontrolável e caprichoso ecoa na personalidade do próprio filho, líder de um grupo semelhante ao visto no início da história. Samuel é o tipo de pessoa que dá as cartas na mesa e puxa mais algumas da manga; o que for necessário para ficar por cima. Paulo é um seguidor de ordens; ordens de você sabe quem. É o clássico pau-mandado que quando veste um uniforme policial na fase adulta revela a rede de influências que todos nós gostaríamos que não existisse em um mundo ideal.
 
 Essa percepção do mecanismo da sociedade por trás da personalidade dos personagens principais é o que rouba nossa surpresa no final, pois já sabemos como uma história dessas termina na vida real: de maneira injusta. O filme de Tiago Guedes vai se alongando em múltiplos falsos-finais, já que ele apenas precisa repetir na tela o que já captamos em nossa mente. Pode ser previsível e doloroso para alguns, surpreendente para outros.
