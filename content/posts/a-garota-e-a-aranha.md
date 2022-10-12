@@ -4,6 +4,7 @@ categories:
 date: '2021-10-23T12:19:59-03:00'
 tags:
 - cinemaqui
+- mostra
 title: A Garota e A Aranha
 ---
 

@@ -4,6 +4,7 @@ categories:
 date: '2019-10-23'
 tags:
 - cinemaqui
+- mostra
 title: Partida
 ---
 

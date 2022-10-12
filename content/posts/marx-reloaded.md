@@ -5,6 +5,7 @@ date: '2018-10-31'
 link: https://www.imdb.com/title/tt1884351
 tags:
 - cinemaqui
+- mostra
 title: Marx Reloaded
 ---
 

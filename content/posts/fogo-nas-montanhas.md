@@ -4,6 +4,7 @@ categories:
 date: '2021-10-31T21:14:53-03:00'
 tags:
 - cinemaqui
+- mostra
 title: Fogo nas Montanhas
 ---
 

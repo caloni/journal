@@ -5,6 +5,7 @@ date: '2019-10-05'
 link: https://www.imdb.com/title/tt10225288
 tags:
 - cinemaqui
+- mostra
 title: Viver Para Cantar
 ---
 

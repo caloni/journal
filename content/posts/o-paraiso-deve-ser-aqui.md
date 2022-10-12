@@ -5,6 +5,7 @@ date: '2019-10-23'
 link: https://www.imdb.com/title/tt8359842
 tags:
 - cinemaqui
+- mostra
 title: O Paraíso Deve Ser Aqui
 ---
 

@@ -5,6 +5,7 @@ date: '2019-10-26'
 link: https://www.imdb.com/title/tt10850518
 tags:
 - cinemaqui
+- mostra
 title: 'Andrey Tarkovsky: Uma Oração de Cinema'
 ---
 

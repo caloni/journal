@@ -5,6 +5,7 @@ date: '2022-10-09T14:21:25-03:00'
 tags:
 - draft
 - cinemaqui
+- mostra
 title: Restos do Vento
 ---
 

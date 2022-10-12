@@ -5,6 +5,7 @@ date: '2019-10-15'
 link: https://www.imdb.com/title/tt9682578
 tags:
 - cinemaqui
+- mostra
 title: Vivir Ilesos
 ---
 

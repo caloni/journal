@@ -5,6 +5,7 @@ date: '2018-10-26'
 link: https://www.imdb.com/title/tt8710234
 tags:
 - cinemaqui
+- mostra
 title: Com Todo Meu Hipotálamo
 ---
 

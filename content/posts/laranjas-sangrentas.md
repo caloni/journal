@@ -4,6 +4,7 @@ categories:
 date: '2021-10-24T21:50:33-03:00'
 tags:
 - cinemaqui
+- mostra
 title: Laranjas Sangrentas
 ---
 

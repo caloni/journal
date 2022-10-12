@@ -5,6 +5,7 @@ date: '2019-10-21'
 link: https://www.imdb.com/title/tt9041234
 tags:
 - cinemaqui
+- mostra
 title: Eu Prometo Ser Sensato
 ---
 

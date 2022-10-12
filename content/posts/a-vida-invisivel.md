@@ -5,6 +5,7 @@ date: '2019-10-19'
 link: https://www.imdb.com/title/tt6390668
 tags:
 - cinemaqui
+- mostra
 title: A Vida Invisível
 ---
 

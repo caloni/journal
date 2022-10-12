@@ -4,6 +4,7 @@ categories:
 date: '2021-10-31T13:25:32-03:00'
 tags:
 - cinemaqui
+- mostra
 title: A Lei
 ---
 

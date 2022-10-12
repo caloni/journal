@@ -4,6 +4,7 @@ categories:
 date: '2019-10-28'
 tags:
 - cinemaqui
+- mostra
 title: O Paradoxo da Democracia
 ---
 

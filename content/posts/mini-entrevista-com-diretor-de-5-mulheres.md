@@ -1,7 +1,8 @@
 ---
 categories: []
 date: '2016-10-25'
-tags: null
+tags:
+- mostra
 title: Mini-Entrevista com Olaf Kraemer, diretor de 5 Mulheres
 ---
 

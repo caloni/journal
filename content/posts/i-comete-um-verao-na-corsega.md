@@ -4,6 +4,7 @@ categories:
 date: '2021-10-16T12:11:57-03:00'
 tags:
 - cinemaqui
+- mostra
 title: I Comete - Um Verão na Córsega
 ---
 

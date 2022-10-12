@@ -4,6 +4,7 @@ categories:
 date: '2021-10-25T22:03:56-03:00'
 tags:
 - cinemaqui
+- mostra
 title: Nostromo
 ---
 

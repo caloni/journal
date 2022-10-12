@@ -4,6 +4,7 @@ categories:
 date: '2019-10-26'
 tags:
 - cinemaqui
+- mostra
 title: O Mês Que Não Terminou
 ---
 

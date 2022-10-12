@@ -5,6 +5,7 @@ date: '2020-11-02'
 link: https://www.imdb.com/title/tt11394288
 tags:
 - cinemaqui
+- mostra
 title: Verão Branco
 ---
 
