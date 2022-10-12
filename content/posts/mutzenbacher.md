@@ -9,7 +9,7 @@ tags:
 title: Mutzenbacher
 ---
 
-Este livro pornográfico lançado na Áustria no início do século 20 é um clássico porque é bem escrito e foi alvo de críticas e censura por décadas. O motivo é se tratar das experiências de uma jovem que começou cedo sua vida sexual. Aos cinco anos. Todo o livro são suas experiências na infância e adolescência com todo tipo de homem que ela pudesse encontrar. E agora em Ruth Beckermann, filme da Mostra de SP, a diretora Ruth Beckermann reúne em um mesmo set todo tipo de homem que ela pudesse encontrar para falar a respeito.
+Este livro pornográfico lançado na Áustria no início do século 20 é um clássico porque é bem escrito e foi alvo de críticas e censura por décadas. O motivo é se tratar das experiências de uma jovem que começou cedo sua vida sexual. Aos cinco anos. Todo o livro são suas experiências na infância e adolescência com todo tipo de homem que ela pudesse encontrar. E agora em Mutzenbacher, filme da Mostra de SP, a diretora Ruth Beckermann reúne em um mesmo set todo tipo de homem que ela pudesse encontrar para falar a respeito.
 
 Descrito lindamente de forma vulgar, é óbvio que o livro se trata de um autor masculino fantasiando sobre a luxúria de possuir uma jovem, já que ela sente êxtase por fazer parte de tudo disso. As suspeitas maiores de autoria recaem sobre Felix Salten, escritor de Bambi. No entanto, apesar de óbvio, seu conteúdo não é tão simples e manipulador assim, pois do contrário seria esquecido há muito tempo. Nas entrelinhas se enxerga um misto de vergonha e dor intercalados às cenas que talvez todo homem secretamente queira fazer parte.
 
