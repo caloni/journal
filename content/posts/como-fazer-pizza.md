@@ -5,11 +5,10 @@ categories:
 date: '2021-06-06'
 link: https://www.youtube.com/c/vitoiacopelli
 tags:
-- draft
 title: Como fazer pizza
 ---
 
-Decida quantas massas de pizza vão ser feitas. Cada pizza consome cerca de 160g. Partindo disso, arrume 0.5% de fermento seco, 1% de mel, 65% de água, 2.5% de sal e 5% de azeite de oliva, sendo tudo medido em gramas.
+Decida quantas massas de pizza vão ser feitas. Cada pizza consome cerca de 160g de farinha. Partindo disso, arrume 0.5% de fermento seco, 1% de mel, 65% de água, 2.5% de sal e 5% de azeite de oliva, sendo tudo medido em gramas.
 
 A sacada na hora de preparar a massa é fortalecer o fermento antes de fazer a massa. Para isso vamos utilizar o polish, uma farinha pré-fermentada que se faz misturando a mesma quantidade de água e farinha com o fermento usado na receita. Você pode usar cerca de um terço de farinha para fazer essa mistura. Após juntar a quantidade de farinha e água com o fermento, e o mel para acelerar o processo, deixe 1h em temperatura ambiente para ativar o fermento.
 
@@ -31,7 +30,7 @@ Uma vez que as bolas cresceram, cerca de 6 a 8h em temperatura ambiente, é hora
 
 Dica importante: durante a formação das bolas e também na hora de abrir a massa um conceito muito importante é o do balão: tratar a massa como um balão, e mantê-lo sempre cheio de ar. Para isso a parte com furinhos da massa se deixa sempre pra baixo e é a parte que se tenta fechar em toda moldagem. Usa-se farinha sempre que necessário para não grudar nas mãos. A sova da pizza ou mesmo sua abertura não precisam ser com muito contato manual.
 
-Após aberta a massa é hora de colocar o molho de tomate. Uma colcha espalhada deve bastar. Se estiver cozinhando com pouca temperatura faça uma pré-assada antes de colocar o queijo por uns 5 minutos. Se quiser mais cor e crocância nas bordas unte-a com azeite. Mantenha a massa bem aberta antes de colocar no forno. A pizza está pronta para ser retirada quando o queijo que estiver em cima começar a borbulhar. Os pontos pretos que aparecem após assar nas pontas e embaixo da massa indicam uma boa fermentação.
+Após aberta a massa é hora de colocar o molho de tomate. Uma concha espalhada pelo disco deve bastar. Se estiver cozinhando com pouca temperatura faça uma pré-assada antes de colocar o queijo por uns 5 minutos. Se quiser mais cor e crocância nas bordas unte-a com azeite. Mantenha a massa bem aberta antes de colocar no forno. A pizza está pronta para ser retirada quando o queijo que estiver em cima começar a borbulhar. Os pontos pretos que aparecem após assar nas pontas e embaixo da massa indicam uma boa fermentação.
 
 # Histórico
 
