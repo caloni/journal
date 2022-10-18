@@ -3,7 +3,6 @@ categories:
 - wine
 date: '2022-10-12T17:57:30-03:00'
 tags:
-- draft
 title: Sin Reglas
 ---
 

@@ -3,7 +3,6 @@ categories:
 - movies
 date: '2022-10-13T18:41:12-03:00'
 tags:
-- draft
 - cinemaqui
 - mostra
 title: A Saída Está à Nossa Frente

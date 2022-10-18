@@ -3,7 +3,6 @@ categories:
 - blog
 date: '2022-10-15T10:53:05-03:00'
 tags:
-- draft
 - mostra
 title: O Que Esperar da 46 Mostra SP
 ---
@@ -38,7 +37,7 @@ Cristiano Burlan é um dos responsáveis pela Trilogia do Luto, entre elas [Eleg
 
 A fotografia de César Charlone em [Cidade de Deus](/cidade-de-deus) ainda deve ser lembrada. O curioso é que ele virou diretor de cinema também. E está nessa mostra.
 
-Damien Manivel dirige em conjunto com Kohei Igarashi este [Takara: A Noite que Nade](/takara-a-noite-que-nadei), que é bem fofinho e inocente. Sem diálogos, ele conduz o público por uma experiência minimalista e gratificante. Vale a pena dar uma olhada no que Manivel e Igarashi andam aprontando recentemente.
+Damien Manivel dirige em conjunto com Kohei Igarashi este [Takara: A Noite que Nadei](/takara-a-noite-que-nadei), que é bem fofinho e inocente. Sem diálogos, ele conduz o público por uma experiência minimalista e gratificante. Vale a pena dar uma olhada no que Manivel e Igarashi andam aprontando recentemente.
 
 Denis Côté já impressionou em [Antologia da Cidade Fantasma](/antologia-da-cidade-fantasma), um terror psicológico que flerta com questões sociais sem conseguir desenvolver com sucesso nenhuma delas. E na Mostra passada (ou retrasada) veio com esse [Higiene Social](/higiene-social), pós-pandemia (é, foi a passada) e que explora o minimalismo e distanciamento social. E quando um diretor tem dois filmes citados com social no nome pode esperar alguma coisa ou nada.
 
@@ -46,15 +45,15 @@ Emmanuel Mouret é responsável por uma comédia de Woody Allen sem Woody Allen.
 
 Farkhat Sharipov é um diretor proeminente do Cazaquistão e estreia nessa mostra com [Scheme](/scheme), um filme sobre o esquema de prostituição juvenil de Jeffrey Epstein. Curioso.
 
-[Domingo](/domingo) é um trabalho ambicioso ou mais do mesmo? Se você gostou da fábula sobre a classe média às vésperar de "uma grande mudança social" no país, então deve gostar de trabalhos que interessem a Fellipe Barbosa, um dos diretores deste filme que passou na mostra (eu estava lá). Talvez tenham selecionado este diretor (e talvez o filme) por se tratar de vésperar de eleição e Lula estar se candidatando mais uma vez? Nah, coincidência.
+[Domingo](/domingo) é um trabalho ambicioso ou mais do mesmo? Se você gostou da fábula sobre a classe média às vésperas de "uma grande mudança social" no país, então deve gostar de trabalhos que interessem a Fellipe Barbosa, um dos diretores deste filme que passou na mostra (eu estava lá). Talvez tenham selecionado este diretor (e talvez o filme) por se tratar de vésperar de eleição e Lula estar se candidatando mais uma vez? Nah, coincidência.
 
 Gero Camilo não conseguiu soltar seu [Os Pobres Diabos](/os-pobres-diabos) a tempo no cinema. Quatro anos entre a estreia em Brasília e chegar nos cinemas comerciais. E o filme é uma merda colossal. Acho que você precisa ter paciência se quiser explorar próximos trabalhos desse diretor.
 
-Hong Sang-soo é um diretor focado nas relações humanas do cotidiano, e sem muita lógica na narrativa em si. Em [A Câmera de Claire](/a-camera-de-claire), os próprios acontecimentos marginais ocorrem como na vida real, onde a mecânica não apenas reflete, como simplesmente é. Já em [Encontros](/encontros), último filme, há um quê de "oi sumido" nas relações pós-pandemia curioso, mas insosso.
+Hong Sang-soo é um diretor focado nas relações humanas do cotidiano, e sem muita lógica na narrativa em si. Em [A Câmera de Claire](/a-camera-de-claire) os acontecimentos lembram muito a vida real, onde a mecânica não apenas se reflete, como simplesmente é. Já em [Encontros](/encontros), último filme, há um quê de "oi sumido" nas relações pós-pandemia curioso, mas insosso.
 
-Isabel Coixet dirigiu a versão feminina de Dança com Lobos, o [Ninguém Deseja a Noite/(/ninguem-deseja-a-noite), com Juliette Binoche e aquela menina, Kumiko, do [Caçadora de Tesouros](/kumiko-a-cacadora-de-tesouros), em que ela busca o tesouro escondido do filme [Fargo](/fargo), dos irmãos Coen. Que mistureba, não?
+Isabel Coixet dirigiu a versão feminina de Dança com Lobos, o [Ninguém Deseja a Noite](/ninguem-deseja-a-noite), com Juliette Binoche e aquela menina, Kumiko, do [Caçadora de Tesouros](/kumiko-a-cacadora-de-tesouros), em que ela busca o tesouro escondido do filme [Fargo](/fargo), dos irmãos Coen. Que mistureba, não?
 
-Jafar Panahi é conhecido da garotada da mostra. Ele já estreou com [O Balão Branco](/o-balao-branco) e [O Círculo](/o-circulo), sobre uma sociedade realmente sexista no Irã e ele filma a opressão como um documentário em tempo real. Se for hora de assistir cinema iraniano na mostra, fica a dica.
+Jafar Panahi é conhecido da garotada da mostra. Estreou com [O Balão Branco](/o-balao-branco), e [O Círculo](/o-circulo) passou em uma das mostras, sobre uma sociedade realmente sexista no Irã. Ele filma a opressão como um documentário em tempo real. Se for hora de assistir cinema iraniano na mostra, fica a dica.
 
 James Gray, diretor norte-americano, habituado a grandes produções alternativas como [Era Uma Vez em Nova Iorque](/a-imigrante) ou [Ad Astra](/ad-astra), aventura emoespacial com Brad Pitt, está na mostra. Fazendo o quê? Acho que não interessa muito, já que deve estrear no circuito comercial de qualquer forma.
 
@@ -72,9 +71,9 @@ Quentin Dupieux pode ser uma surpresa nessa mostra. O último filme que vi dele,
 
 Ruth Beckermann eu já vi em mostras recentes. Seu [A Valsa de Waldheim](/a-valsa-de-waldheim) é uma investigação que torna fascinante observar as engrenagens do poder girando de ambos os lados. Já seu [Mutzenbacher](/mutzenbacher) é sobre um clássico da literatura pornográfica austríaca que envolve pedofilia e abuso de menor. E a virtude de Beckermann no projeto é reunir em um mesmo set todo tipo de homem que ela pudesse encontrar para falar a respeito.
 
-A atriz Sabrina Greve, mais acostumada a personagens dramáticos, cria em [Onde Quer Que Você Esteja](/onde-quer-que-voce-esteja) a personagem Zélia, que vira um respiro de novos ares muito bem-vindos, pois sua dedicação ao humor da personagem, sob o controle dos diretores, manteve o interesse do espectador em uma história trivial em torno de tantos temas pesados como um respiro necessário. Agora Greve está na direção em um dos filmes da mostra. Interessante, vai.
+A atriz Sabrina Greve, mais acostumada a personagens dramáticos, criou em [Onde Quer Que Você Esteja](/onde-quer-que-voce-esteja) a personagem Zélia, que virou um respiro do novo muito bem-vindo, pois sua dedicação ao humor da personagem, sob o controle dos diretores, manteve o interesse do espectador em uma história trivial em torno de tantos temas pesados. Agora Greve está na direção em um dos filmes da mostra.
 
-Sérgio Machado dispensa introduçõe. Além de seu trabalho fotográfico ele dirigiu [Cidade Baixa](/cidade-baixa), no mínimo um entretenimento sobre as castas inferiores e no máximo um romance triangular com tensão de respeito.
+Sérgio Machado dispensa introduções. Além de seu trabalho fotográfico ele dirigiu [Cidade Baixa](/cidade-baixa), no mínimo um entretenimento sobre as castas inferiores e no máximo um romance triangular com tensão de respeito.
 
 Sérgio Tréfaut transforma o romance [Raiva](/raiva) de uma ficção para outra: a famigerada luta de classes do qual tanto se fala ultimamente. Sua estética chama atenção e sua cadência merece ser ressaltada. Seria ele um Robert Eggers ([O Farol](/o-farol), [A Bruxa](/a-bruxa-2015)) mais tímido e focado em dramas?
 
@@ -82,7 +81,7 @@ Terence Davies é o nome por trás da adaptação cinematográfica de [Além das
 
 Tiago Afonso dirige [A Causa e a Sombra](/a-causa-e-a-sombra), filme sobre pessoas torturadas que se torna ruim por causa de ideologia. Quando um diretor consegue segurar suas opiniões para si mesmo é quando ele consegue criar algo mais complexo que um textão no Facebook. Torçamos para Afonso se segurar em suas próximas obras, pois este é um diretor competente em conseguir trazer uma narrativa com fluidez em uma história contada aos poucos por cada um dos envolvidos.
 
-Tiago Guedes é um diretor português já conhecido. Ele passa nessa mostra com um thriller dramático mais que interessante: [Restos do Vento](/restos-do-vento). Assisti na cabine de imprensa antes de iniciar o festival e posso dizer algumas cabines depois que continua ainda na minha memória. Anote o nome.
+Tiago Guedes é um diretor português já conhecido. Ele passa nessa mostra com um thriller dramático mais que interessante: [Restos do Vento](/restos-do-vento). Assisti na cabine de imprensa antes de iniciar o festival e posso dizer, algumas cabines já passadas, que continua ainda na minha memória. Anote o nome.
 
 Valentin Merz é o responsável por [À Noite Todos os Gatos São Pardos](/a-noite-todos-os-gatos-sao-pardos), um filme metalinguagem em que ele coloca seu elenco em câmera lenta em movimentos sensuais ao som de músicas italianas da década de 70. Quem não gosta disso?
 

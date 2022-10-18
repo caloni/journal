@@ -3,7 +3,6 @@ categories:
 - movies
 date: '2022-10-13T23:03:39-03:00'
 tags:
-- draft
 title: Nós Que Aqui Estamos Por Vós Esperamos
 ---
 

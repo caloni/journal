@@ -3,7 +3,6 @@ categories:
 - movies
 date: '2022-10-14T21:05:54-03:00'
 tags:
-- draft
 - cinemaqui
 - mostra
 title: À Noite Todos os Gatos São Pardos

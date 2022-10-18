@@ -3,7 +3,6 @@ categories:
 - movies
 date: '2022-10-11T21:31:48-03:00'
 tags:
-- draft
 - cinemaqui
 - mostra
 title: Mutzenbacher
