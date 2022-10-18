@@ -3,7 +3,6 @@ categories:
 - movies
 date: '2022-10-17T19:50:12-03:00'
 tags:
-- draft
 - cinemaqui
 - mostra
 title: Objetos de Luz

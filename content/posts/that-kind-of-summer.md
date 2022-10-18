@@ -3,7 +3,6 @@ categories:
 - movies
 date: '2022-10-17T19:49:36-03:00'
 tags:
-- draft
 - cinemaqui
 - mostra
 title: That Kind of Summer
@@ -17,4 +16,4 @@ Elas tiram umas férias de 26 dias de tudo isso em um retiro que não irá julg�
 
 Antes que você imagine, sim, é claro que haverá tentativas de sedução mirando em Sami, mas ele está nesse programa já faz um tempo e não cede à tentação. E Octavia, apesar de bissexual, está em um relacionamento em crise e não tem tempo para ser seduzida, o que não daria frutos, pois todas as garotas demonstram serem héteros.
 
-Depois de longa jornada de duas horas e meia a conclusão a que quer chegar That Kind of Summer é que todos possuem seus problemas em se relacionar e se expressar, sexuais ou não. Este filme é longo demais para uma conclusão tão óbvia e desinteressante. Lá pela metade já não estamos sequer curiosos em seu desfecho. Côté, que também assina o roteiro, é mestre conseguir trazer monotonia em um conteúdo sensual. Ele consegue com pouco esforço nos fazer perder a curiosidade por essas lindas garotas.
+Depois de longa jornada de duas horas e meia a conclusão a que quer chegar That Kind of Summer é que todos possuem seus problemas em se relacionar e se expressar, sexuais ou não. Este filme é longo demais para uma conclusão tão óbvia e desinteressante. Lá pela metade já não estamos sequer curiosos em seu desfecho. Côté, que também assina o roteiro, é mestre conseguir trazer monotonia, mesmo com conteúdo sensual em seu filme. É com muito pouco esforço que ele nos fazer perder a curiosidade por essas lindas garotas.
