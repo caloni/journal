@@ -9,7 +9,7 @@ tags:
 title: Objetos de Luz
 ---
 
-Filmes bons de 4 horas de duração podem ser curtos demais. Objetos de Luz, com sua pouco mas de uma hora, é longo demais. Porém, eficiente. Depois de cinco minutos de projeção ele já dá poderes a qualquer espectador itinerante de rotulá-lo como um porre descomunal.
+Filmes bons de 4 horas de duração podem ser curtos demais. Porém, Objetos de Luz, com sua pouco mas de uma hora, é longo demais. E depois de cinco minutos de projeção ele já dá poderes a qualquer espectador itinerante de rotulá-lo com muita propriedade como um porre descomunal.
 
 Esta é uma reflexão sobre a luz (trocadilho proposital) trazida por um diretor de fotografia, Acácio de Almeida (do filme Raiva, entre dezenas), auxiliado pela atriz Marie Carré. O filme é movido a recortes de outros filmes, montagens com imagens do espaço e suas infinitas estrelas, trilha sonora constante e narrações em off para dar uma perspectiva do assunto. Há infinitos artifícios narrativos menos a própria protagonista: a luz.
 
