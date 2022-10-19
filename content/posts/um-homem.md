@@ -6,7 +6,7 @@ tags:
 - draft
 - cinemaqui
 - mostra
-title: El Cabrón
+title: Um Homem
 ---
 
 A vida lá fora é cruel. Não pode vacilar. Você tem que ser duro. Tem que manter o respeito. Ouvimos vários testemunhos no começo de El Cabrón, filme da Mostra de SP sobre a completa impotência do sexo masculino nesta década.
