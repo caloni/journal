@@ -3,7 +3,6 @@ categories:
 - movies
 date: '2022-10-18T19:42:19-03:00'
 tags:
-- draft
 - cinemaqui
 - mostra
 title: Roza
