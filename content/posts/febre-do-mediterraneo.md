@@ -9,8 +9,10 @@ tags:
 title: Febre do Mediterrâneo
 ---
 
-Este filme ganhou o prêmio de roteiro na categoria Um Certo Olhar de Cannes e agora estreia na Mostra de São Paulo. Sua história é simples de acompanhar e é curioso que já não existam filmes com o mesmo argumento. Isso comprova que sempre é possível reciclar velhas ideias e surgir com algo fresco, instigante.
+Febre do Mediterrâneo é o filme que ganhou o prêmio de roteiro na categoria Um Certo Olhar de Cannes e agora estreia na Mostra de São Paulo. No entanto, o nome também se refere a uma doença congênita que afeta principalmente povos dessa região: árabes, judeus, turcos. O sintoma é uma dor abdominal. No filme, sintoma do filho de Waleed que iniciou logo depois que sua professora de Geografia ensinou-o que Jerusalém é a capital de Israel. Waleed é palestino. E agora você começa a entender o poder da trama nesta comédia de humor negro.
 
-Seu pano de fundo é sobre um escritor sem livros e sem ideias que com depressão crônica decide se matar. As condições se tornam propícias assim que seu novo vizinho se muda, um sujeito que possui atividades ilegais e que precisa urgente de dinheiro.
+Sua história é simples de acompanhar e é curioso que já não existam filmes com o mesmo argumento. Isso comprova que sempre é possível reciclar velhas ideias e surgir com algo fresco, instigante, hipnotizante como este trabalho da cineasta Maha Haj.
 
-Conduzindo a história com toda a calma do mundo, ela nunca fica chata. Isso porque seu ritmo é determinado pelos diálogos entre essas duas pessoas. Você sempre está tentando aprender mais sobre esses personagens pelas suas ações, e sem a maldição da preguiçosa narração em off (o que assombra os roteiros mais preguiçosos) somos obrigados a prestar atenção em qualquer interação em busca das entrelinhas.
+Seu pano de fundo é sobre um escritor sem livros e sem ideias. Com depressão crônica por anos, decide se matar. As condições se tornam propícias quando seu novo vizinho se muda, um sujeito que possui atividades e conexões ilegais e que precisa urgente de dinheiro para uma dívida.
+
+Conduzindo a história com toda a calma do mundo, ela nunca fica chata. Isso porque seu ritmo é determinado pelos diálogos entre essas duas pessoas. Você sempre está tentando aprender mais sobre esses personagens pelas suas ações, e com o bônus de não haver a maldita e preguiçosa narração em off, o que seria muito comum vindo de personagens com background psicológico. Somos obrigados a prestar atenção em qualquer interação entre Waleed (Amer Hlehel) e Jalal (Ashraf Farah) em busca das entrelinhas. Eles estão se dando bem? Qual o limite dessa nova amizade?
