@@ -4,7 +4,9 @@ categories:
 date: '2022-10-20T18:53:11-03:00'
 tags:
 - draft
-title: How is Katya
+- cinemaqui
+- mostra
+title: 'Como Está Katia?'
 ---
 
 Do circuito ucraniano nessa Mostra temos How is Katya, um filme tenso que parece ser sobre as injustiças do mundo, mas que aos poucos vai colorindo uma realidade cinzenta, onde o egoísmo ou o próprio individualismo humano não é desejável em uma sociedade, mas acaba se revelando inevitável e necessário para todos os personagens.

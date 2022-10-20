@@ -6,7 +6,7 @@ tags:
 - draft
 - cinemaqui
 - mostra
-title: Filme sobre palestino suicida
+title: Febre do Mediterrâneo
 ---
 
 Este filme ganhou o prêmio de roteiro na categoria Um Certo Olhar de Cannes e agora estreia na Mostra de São Paulo. Sua história é simples de acompanhar e é curioso que já não existam filmes com o mesmo argumento. Isso comprova que sempre é possível reciclar velhas ideias e surgir com algo fresco, instigante.
