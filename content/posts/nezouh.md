@@ -6,7 +6,7 @@ tags:
 - draft
 - cinemaqui
 - mostra
-title: Desituada
+title: Nezouh
 ---
 
 Há tantos filmes de guerra tristes por aí. Desituada não é um deles. Pautado no lado lúdico de uma menina coming up of age, é uma viagem fofinha de como você lida com a realidade quando sua casa é bombardeada.

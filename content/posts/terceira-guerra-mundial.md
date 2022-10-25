@@ -6,7 +6,7 @@ tags:
 - draft
 - cinemaqui
 - mostra
-title: WWIII
+title: Terceira Guerra Mundial
 ---
 
 Que filme maravilhoso esse WWIII. Ele te coloca em uma posição constante de reavaliar o que está vendo na tela. Sua manipulação é cinema e sua trama é perfeita para isso. O pano de fundo político trazido no título ganha contornos bizarros que flertam com o trash enquanto mantém o drama real e vivo durante toda a história.
