@@ -6,4 +6,6 @@ tags: []
 title: Pipoca Caramelizada
 ---
 
-Preparo: com as mesmas medidas de milho, óleo e açúcar mascavo, deixe o milho e o óleo esquentando na pipoqueira um pouco e jogue o açúcar misturado com água com cuidado. Em seguida jogue umas pastilhas de cacau e feche com fogo médio para alto; se tiver cacau em pó dissolver na água antes. Apenas mexa quando começar a estourar e tire do fogo IMEDIATAMENTE após parar de estourar, pois do contrário vai começar a queimar em pouquíssimos segundos. Jogar em seguida em uma vasilha; aguarde alguns minutos antes de comer, pois estará bem quente por causa do óleo.
+Medidas em peso: 75 milho, 60 açúcar, 25 de óleo.
+
+Jogue tudo na pipoqueira e deixe tudo esquentando em fogo médio para baixo, já misturando tudo. Quando estiver terminando de estourar pode diminuir o fogo para baixo. Quando parar de ouvir barulho de estouro desligue o fogo, mas mantenha mexendo mais um pouquinho. Ao retirar cuidado com a temperatura; espere esfriar um pouco antes de comer.
