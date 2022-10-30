@@ -3,7 +3,6 @@ categories:
 - movies
 date: '2022-10-19T19:09:14-03:00'
 tags:
-- draft
 - cinemaqui
 - mostra
 title: O Deus do Cinema

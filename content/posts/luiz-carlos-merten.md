@@ -3,7 +3,6 @@ categories:
 - blog
 date: '2022-10-22T17:58:23-03:00'
 tags:
-- draft
 title: Luiz Carlos Merten
 ---
 

@@ -3,7 +3,6 @@ categories:
 - trips
 date: '2022-10-03T19:41:16-03:00'
 tags:
-- draft
 title: Argentina 2022
 ---
 
@@ -13,7 +12,7 @@ Dia agitado. Acordamos às seis da manhã para ter tempo de conseguir um Uber pa
 
 Em terra de hermanos e sem nenhum peso, tentamos chamar um Uber, mas eles não estão permitidos de entrar no aeroporto. Como uma ordem de restrição, seu perímetro máximo de aproximação é de cerca de 700 metros. Uma taxista próxima das portas de saída nos ofereceu uma corrida e aceitava cartão ou Mercado Livre, que logo aprendemos ser a forma das pessoas mandarem um Pix por lá. Ela também sugeriu fazer câmbio na praça central. Por que não? Já iríamos trocar dólares de qualquer forma. 
 
-Mas com ela foi ainda melhor: de dentro do táxi se aproxima um senhor pelo vidro da porta. Ele oferece pesos por dólares. Falo que quero vender 100. Ele conta 27 mil pesos e os entrega pelo vidro. Depois de contar meus pesos lhe entrego apenas uma única e singela nota de 100. E o táxi segue por mais uns 100 metros. É o nosso hotel, do lado da praça. Pago a moça com alguns dos pesos que acabei de receber.
+Mas com ela foi ainda melhor: de dentro do táxi se aproxima um senhor pelo vidro da porta. Ele oferece pesos por dólares. Falo que quero vender 100. Ele conta 27 mil pesos e os entrega pelo vidro. Depois de contar todas aquelas notas lhe retorno apenas uma, única e singela, de 100 dólares. E o táxi segue por mais uns 100 metros. É o nosso hotel, do lado da praça. Pago a moça com alguns dos pesos que acabei de receber.
 
 Depois descubro que o câmbio de rua está muitíssimo mais em conta que o oficial, que paga 15 mil pesos por 100 dólares. Há um limite no país de compra de 200 dólares mensais por cidadão, o que explica a escassez. Nem pelo cartão de crédito internacional os argentinos podem ultrapassar esse limite ridículo.
 
@@ -21,7 +20,7 @@ Chegamos na pousada para descansar antes do dia de ir para Cafayate. Check-in tr
 
 Hora de bater perna, tomar um sorvete de doce de leite e de banana muito bons (mas não os melhores), comprar as passagens do ônibus e ir comer algo em um restaurante árabe chamado Dubai. Em outras viagens comíamos sempre lá porque era sempre o único aberto em nossos horários bizarros de almoço (a almojanta).
 
-Porém, o cardápio do jantar não estava disponível; nessa hora havia apenas o menu de café e uma degustação de pães sírios com mini-hambúrgueres, com direito a duas infusões (chá ou café) e um suco de laranja. Acabou que foi muito bem servido. Havia até sobremesa. De quebra experimentei um café turco doce e amargo ao mesmo tempo, e um capuccino apenas amargo e com uma especiaria que não identifiquei. A massa usada nos pratos é saborosa e macia. Os molhos são muito bem preparados e frescos. Do lado de fora havia um vendaval. Um dos guarda-sóis das mesas externas saiu voando e quase pegou uma moça. Ele ficou dançando no meio da rua, parando o trânsito da rua até que alguém conseguiu segurá-lo.
+Porém, o cardápio do jantar não estava disponível; nessa hora havia apenas o menu de café e uma degustação de pães sírios com mini-hambúrgueres, com direito a duas infusões (chá ou café) e um suco de laranja. Acabou que foi muito bem servido. Havia até sobremesa. De quebra experimentei um café turco doce e amargo ao mesmo tempo, e um capuccino apenas amargo e com uma especiaria que não identifiquei. A massa usada nos pratos é saborosa e macia. Os molhos são muito bem preparados e frescos. Do lado de fora havia um vendaval. Um dos guarda-sóis das mesas externas saiu voando e quase pegou uma moça. Ele ficou dançando no meio da rua, parando o trânsito até que alguém conseguiu segurá-lo.
 
 Ah, lembrei. Antes dessa almojanta com vendaval fomos em uma feirinha do lado do teleférico; lá havia uma rápida exibição de grupos de dança. Paramos porque é algo que não faríamos sem estar de férias. São danças típicas da região protagonizadas por crianças e jovens.
 
@@ -40,9 +39,9 @@ Meu segundo sorvete foi o da esquina da praça principal, o Il Cavallino Ice Cre
 
 Depois voltamos para o albergue com o plano de trocar dólares no dentista e ir comer. E lá estávamos, em um lugar que não imaginávamos frequentar nessa viagem: um consultório dentário. A porta estava fechada. Entramos e a mantivemos fechada. Dentro havia duas portas com nomes semelhantes, mas siglas diferentes. Devem ser pai e filho, imaginamos. Aguardamos alguém sair. Cinco minutos depois sai o pai, que nos olha confuso a princípio, mas depois entende sobre o quê se trata. Então pede que aguardemos seu filho. Depois de mais uns dez minutos ele surge. Ele diz falar um pouco de português, já viajou para o Brasil, mas na prática são apenas algumas palavras. Mas não tem problema, o mundo todo fala capitalismo. Ele logo entende o que queremos, diz a cotação e fazemos a troca, por um valor melhor que de Salta: 290 pra 1. 
 
-Ao sair de lá com duzentos dólares em maços de pesos argentinos nos sentimos ricos o suficiente para esbanjar no Bad Brothers, o restaurante que experimenta pratos exóticos e caros harmonizando com vinhos igualmente caros.
+Ao sair de lá com duzentos dólares em maços de pesos argentinos nos sentimos ricos o suficiente para esbanjar no Bad Brothers, o restaurante onde se experimenta pratos exóticos e caros harmonizando com vinhos (igualmente caros).
 
-Porém, ao chegar lá descobrimos que precisávamos de reserva e não havia mesas disponíveis, a não ser que a gente passasse depois das 20:30 para ver se alguém desistiu. Então ficamos andando pela praça até a Casa das Empanadas abrir, outro restaurante favorito, mas ela não abriu. Tentamos o cardápio de um bistrô orgânico na mesma praça, mas só tinha quinoa nos pratos. Exótico demais.
+Porém, ao chegar lá descobrimos que precisávamos de reserva e não havia mesas disponíveis, a não ser que a gente passasse depois das 20:30 para ver se alguém desistiu. Então ficamos andando pela praça até a Casa das Empanadas abrir, outro restaurante favorito, mas ele não abriu. Tentamos o cardápio de um bistrô orgânico na mesma praça, mas só tinha quinoa nos pratos. Exótico demais.
 
 Sem opções seguras e boas, acabamos no restaurante dentro da vinícola Nanni, Retoño, e suas pequenas empanadas de entrada. A de carne saltenha é a melhor, suculenta e com muito molho dentro, a de queijo esquecível e a de quinoa nem sei por quê fizeram isso. De prato principal dividimos o lomo banhado em molho agridoce de Tannat e para combinar pedi um Reserva de 12 meses em barrica da mesma uva, que com muito esforço conseguimos matar. Não por ser ruim, estava delicioso. Esse gosto adstringente, agressivo, dos vinhos de Cafayate já me encantou novamente, mesmo sem ser fã dessa vinícola. O amadeirado chega meia-hora depois de aberto.
 
@@ -81,7 +80,7 @@ Depois disso e depois de trocar dólares com nosso dentista favorito foi a vez d
 
 Degustação (de empanadas)
 
-E finalmente voltamos a experimentar os 13 sabores da Casa de Las Empanadas. O esquema lá é pedir em docenas e uma copa de Torrontés da casa, um vinho honesto para o dia a dia  Hoje excepcionalmente nosso pedido demorou bastante porque muitos pediram para viagem ao mesmo tempo antes de nós. Mas valeu cada minuto de espera. A massa é impossível de fazer em casa. Ela é fina, mas bem fechada, saborosa, não seca e ao mesmo tempo úmida por dentro.
+E finalmente voltamos a experimentar os 13 sabores da Casa de Las Empanadas. O esquema lá é pedir em docenas e uma copa de Torrontés da casa, um vinho honesto para o dia a dia. Hoje excepcionalmente nosso pedido demorou bastante porque muitos pediram para viagem ao mesmo tempo antes de nós. Mas valeu cada minuto de espera. A massa é impossível de fazer em casa. Ela é fina, mas bem fechada, saborosa, não seca e ao mesmo tempo úmida por dentro.
 
 Depois do passeio pela cidade fomos ao El Porvenir para visita e degustação. À noite tentamos comer uma Parrilla popular onde não conseguimos pedir carne: usamos o nome chorizo sem bife e veio uma linguiça! Esse dia estávamos panguando loucamente. De qualquer forma, a Mitiko não gostou muito da aparência da parrilla na mesa do lado, então não voltamos mais.
 
@@ -120,7 +119,7 @@ Hoje acordei com uma surpresa: estava sem reserva alguma para Tafí del Valle, n
 
 Hoje também foi um dia quente. O sol lá pelas 11 já estava de matar. Andamos até a fazenda de cabras novamente para comprar queijos, e foi um bom teste de areia no caminho para os tênis, que se saíram bem. O que entrou de areia entrou por cima.
 
-Na volta passada na bodega El Porvenir para mais degustação e escolha de garrafas. Eles aceitam dólar, então diferente do El Esteco eu comprei garrafas. Sete.
+Na volta pagamos uma visita à bodega El Porvenir, para mais degustação e escolha de garrafas. Eles aceitam dólar, então diferente do El Esteco, de onde saí de mãos vazias, comprei sete garrafas.
 
 Três da linha Gran Reserve, das quais duas só tem essa edição. Quatro de linhas intermediárias, mas igualmente complexas e de personalidade. Dois doces que encantaram a Mitiko. Uma nota final: o vinho mais caro da bodega não vale o preço. Experimentei e achei bem simples.
 
@@ -136,13 +135,13 @@ As empanadas estavam fechadas hoje à noite, quarta-feira. Sem muita opção esc
 No fim da noite assistimos a uma comédia dos anos 90, Como Agarrar um Marido, com um Steve Martin mais pastelão. Fofinho. É sobre um casamento inventado com base em várias mentiras criadas pela atriz luz do filme. É uma ficção em cima de outra ficção, mas muito realista. Como The Pickup Artist nos ensina, o que é dito importa menos do que como é dito. E a menina tem atitude e ganha o cara. Não há muitos traços de ter envelhecido mal.
 
 
-Tafi del Valle
+Tafí del Valle
 
 Dormi bem a noite passada. Assistimos ao primeiro episódio de uma série boa para dar sono. Se chama O Demônio de Ohio e me faz lembrar aquela chamada da Sessão da Tarde: essa moça que surgiu da plantação está com o diabo no corpo, e vai aprontar poucas e boas nessa família que a adotou, vivendo aventuras de arrepiar. Um episódio de 40 minutos para mostrar um pentagrama marcado em suas costas.
 
 Hora de deixar Cafayate. O plano: acordar às 9, fazer o checkout às 10, deixando as malas na recepção. Tomar um café gostoso com as melhores medialunas no Flor del Valle. Passar no El Porvenir e pegar duas garrafas para o Fábio do Malbec de entrada: uma para abrirmos juntos e outra de regalo. Pegar duas cajas de uma docena de alfajores com azúcar no Calchaquitos. Pedir meia-dúzia de empanadas para llevar e comê-las na rodoviária. De lá mesmo pegar um táxi grande o suficiente para nossa equipage (tivemos que escolher o segundo da fila) e levar até o Hostel. Comer as empanadas e entrar no ônibus. Destino: Tafí del Valle.
 
-A viagem a Tafi é uma mudança de biomas. Fomos dos cactos constantes para cada vez mais escassos. Foi surgindo uma vegetação esverdeada e os montes começaram a ficar mais verdes. Há uma montanha na região de Santa Maria que possui uma camada de rochas de cores bem distintas: branco, amarelo e vermelho. O caminho de Santa Maria a Tafí começa em outra rota em um ambiente desértico, branco. E logo se transforma em um amarelo constante na vegetação. Entre vales se usa muitas pedras para torres, muros e construções inteiras. Estamos no outono e os morros de Tafi estão amarelos.
+A viagem a Tafí é uma mudança de biomas. Fomos dos cactos constantes para cada vez mais escassos. Foi surgindo uma vegetação esverdeada e os montes começaram a ficar mais verdes. Há uma montanha na região de Santa Maria que possui uma camada de rochas de cores bem distintas: branco, amarelo e vermelho. O caminho de Santa Maria a Tafí começa em outra rota em um ambiente desértico, branco. E logo se transforma em um amarelo constante na vegetação. Entre vales se usa muitas pedras para torres, muros e construções inteiras. Estamos no outono e os morros de Tafí estão amarelos.
 
 Chegamos no terminal e fomos os únicos a sair, pois o destino final do ônibus era Tucuman. Mitiko vislumbrou o único táxi disponível, caindo aos pedaços com múltiplas cores, incluindo nenhuma. Ela vai ao banheiro e enquanto tiro as malas o único taxista do táxi caindo aos pedaços chega ao meu lado já oferecendo seus serviços. Aceito. Colocamos as malas em cima do seu carro. O painel está totalmente quebrado, com o botão das setas pendurado. No meio da breve viagem de 700 metros, o tiozinho, de nome Turco, já falou tudo sobre a cidade e ofereceu seus serviços para um passeio por todo o vale. Anoto o número do celular e pergunto sobre WhatsApp. Não. O celular dele deve no máximo aceitar ligação. Uma figura anacrônica em uma região teoricamente turística.
 
@@ -159,7 +158,7 @@ Ao final da trilha fomos comer nas Empanadas Don José, a 2 km de lá. Subida. Q
 
 Voltando para o hotel passamos na padaria próxima e de amostra grátis havia brownies e uma espécie de cuca de maçã. Duas simpáticas jovens nos atenderam. Gostei da qualidade da massa e do recheio da cuca. Agora fiquei com vontade de experimentar as meialunas de lá.
 
-À noite fomos no restaurante de uma hosteleria a 700 metros do nosso hotel que parecia melhorzinho que os outros do centro. De nome estranho, Lunahuana repete o design do hotel onde fica. É lindo, combina cores, quadros e piso com a iluminação aconchegante. O atendimento no restaurante é bem deficitário, pouco atencioso Talvez tenha sido uma noite cheia com pouca equipe. Os pratos se fingem de gourmet, pois o sabor deixa a desejar. O cubierto é um pão seco com uma maionese simples. Pedimos um bife de lomo ao molho de vinho, sugestão do chef. Ele vem com fritas ao molho de queijo. O molho das fritas deixa-as murchas e o molho de vinho deixa o bife doce. O ponto da carne estava ligeiramente acima do rosado. Pedimos um prato principal para compartir e por um bom tempo precisamos chamar a atenção de dois garçons até entenderem que precisávamos de um prato extra para dividir. A sensação é de atendentes de mesa inexperientes que não dão conta de muitas mesas. Isso atrapalha ainda mais a experiência.
+À noite fomos no restaurante de uma hosteleria a 700 metros do nosso hotel que parecia melhorzinho que os outros do centro. De nome estranho, Lunahuana repete o design do hotel onde fica. É lindo, combina cores, quadros e piso com a iluminação aconchegante. O atendimento no restaurante é bem deficitário, pouco atencioso. Talvez tenha sido uma noite cheia com pouca equipe. Os pratos se fingem de gourmet, pois o sabor deixa a desejar. O cubierto é um pão seco com uma maionese simples. Pedimos um bife de lomo ao molho de vinho, sugestão do chef. Ele vem com fritas ao molho de queijo. O molho das fritas deixa-as murchas e o molho de vinho deixa o bife doce. O ponto da carne estava ligeiramente acima do rosado. Pedimos um prato principal para compartir e por um bom tempo precisamos chamar a atenção de dois garçons até entenderem que precisávamos de um prato extra para dividir. A sensação é de atendentes de mesa inexperientes que não dão conta de muitas mesas. Isso atrapalha ainda mais a experiência.
 
 
 Domingo Começou de Preguiça
@@ -177,15 +176,15 @@ No final da tarde ficamos pegando sol na frente do hotel e de noite fomos experi
 
 Passeio com o Turco
 
-Turco é o taxista que nos levou as bagagens quando chegamos a Tafi. Hoje iríamos andar de bicicleta até o dique da cidade, mas o aluguel estava muito caro, 800 pesos por hora. Apesar de todo o tempo vermos ciclistas pela cidade, não há nada mais difícil que encontrar aluguel de bicicleta. Fomos ao terminal ver o horário dos ônibus para lá e encontramos o Turco, que nos ofereceu um tour de 3 horas por 5k pesos.
+Turco é o taxista que nos levou as bagagens quando chegamos a Tafí. Hoje iríamos andar de bicicleta até o dique da cidade, mas o aluguel estava muito caro, 800 pesos por hora. Apesar de todo o tempo vermos ciclistas pela cidade, não há nada mais difícil que encontrar aluguel de bicicleta. Fomos ao terminal ver o horário dos ônibus para lá e encontramos o Turco, que nos ofereceu um tour de 3 horas por 5k pesos.
 
-Ele começa subindo com seu táxi até a estátua da Virgem e vai descendo pelos bairros, começando pelo Ovejeiro e indo até o El Mollar, onde está o dique. Há algumas paradas para foto com as paisagem internas do vale e a parada pela queijaria, Estância Los Cardones, fundada por jesuítas há 300 anos. Eles vieram com os espanhóis e trouxeram uma técnica para fazer queijo. Na degustação gostamos do queijo sem nada e iríamos comprar, mas o Turco tinha o contato de uns funcionários que vendiam pelo mesmo preço por fora. Infelizmente eles venderam tudo.
+Ele começa subindo com seu táxi até a estátua da Virgem e vai descendo pelos bairros, começando pelo Ovejeiro e indo até o El Mollar, onde está o dique. Há algumas paradas para foto com as paisagem internas do vale e a parada pela queijaria, Estância Los Cardones, fundada por jesuítas há 300 anos. Eles vieram com os espanhóis e trouxeram uma técnica para fazer queijo. Na degustação gostamos do queijo sem nada e iríamos comprar, mas o Turco avisou que tinha o contato de uns funcionários que vendiam pelo mesmo preço, mas por fora. Ele queria dar o lucro para essas pessoas. Porém, ao chegar em suas casas, no bairro ao lado, fomos informados que eles já haviam vendido tudo. Então ficamos sem queijo.
 
 O passeio pelo dique tem a imagem do jato de água saindo da represa, impressionante, e o próprio passeio pela borda do dique.
 
 Iríamos comer uns tamales sensacionais de acordo com o Turco, mas a dona já tinha vendido tudo também. Lunes não é um bom dia para esses passeios.
 
-Fomos nas redondezas, em um lugar chamado Casa de Piedra. O prato do dia era um guisado, que na verdade era um macarrão com molho picante e pedaços de carne. Bem gostoso. Depois pedimos duas empanadas e a de pollo estava bem temperada e a de carne bem recheada. Durante o almoço perguntei ao Turco se ele morava em Tafi. Ele disse que sim e iria me mostrar onde.
+Fomos nas redondezas, em um lugar chamado Casa de Piedra. O prato do dia era um guisado, que na verdade era um macarrão com molho picante e pedaços de carne. Bem gostoso. Depois pedimos duas empanadas e a de pollo estava bem temperada e a de carne bem recheada. Durante o almoço perguntei ao Turco se ele morava em Tafí. Ele disse que sim e iria me mostrar onde.
 
 O último lugar do passeio era o olho d'água, um lugar de onde sai água da montanha que dizem ser milagrosa. A Mitiko ficou com medo de tomar e ter piriri, e eu troquei pela nossa água; ficou sendo a minha garrafa. Veremos se passo mal.
 
@@ -193,7 +192,7 @@ Disse que era o último lugar. Na verdade era o penúltimo. O último foi a casa
 
 Depois do passeio que durou 4h (ele cobrou um extra de 500 pesos) fomos experimentar o sorvete de dulce de letche da sorveteria gourmet próximo do hotel. Um lugarzinho deprimente. A casquinha também é dura como a anterior. O sorvete lembra gourmet: é caro.
 
-Mais à noite, sem opção de onde comer, demos uma olhada na rua central e quase tudo fechado. Andamos até o hotel/restaurante da Tuna Luana e na frente estava aberto aquela parrilla que geralmente está cheio de gente e música ao vivo, mas por ser lunes só tinha uns gatos pingados e música do Spotify. Entramos e pedimos bife de chorizo, papas fritas e salada mista. Para beber seven up e uma botella pequena de vinho, que no caso foi o AlgumaCoisa Viejas, um blend de uvas sem safra, mas que não estava tão vinagrado quanto o Cafayate do hotel.
+Mais à noite, sem opção de onde comer, demos uma olhada na rua central e quase tudo fechado. Andamos até o hotel/restaurante da Tulla Luana e na frente estava aberto aquela parrilla que geralmente está cheio de gente e música ao vivo, mas por ser lunes só tinha uns gatos pingados e música do Spotify. Entramos e pedimos bife de chorizo, papas fritas e salada mista. Para beber seven up e uma botella pequena de vinho, que no caso foi o AlgumaCoisa Viejas, um blend de uvas sem safra, mas que não estava tão vinagrado quanto o Cafayate do hotel.
 
 A carne chegou rápido e bem passada. O ponto não foi perguntado e nos foi entregue esse bife seco, duro e triste que só os piores lugares da Argentina poderiam oferecer. Eu faço uma carne melhor em casa e nem preciso da raça maravilhosa de boi que eles têm. Basta colocar a carne de um lado até o sangue subir, virar e aguardar cinco minutos. O quão difícil é isso? Nem sal precisa colocar, mesmo porque nesse nosso bife eles não colocaram. Bom, não vou criticar o restaurante de uma Estância tão antiga. Eles devem saber fazer bem a carne e gostam de comer como se fosse a sola de um sapato. No final a Mitiko cortou em pedaços e deu a um perro no caminho para o hotel.
 
@@ -209,17 +208,17 @@ E um lanche rápido na Cafeteria das Meninas, onde pedi uma torta de limão com 
 Já hoje o jantar no hotel revelou que o cozinheiro mudou ou estava de bom humor, pois o bife veio no ponto certo e o purê mais suculento e melhor preparado. Segue o jogo para a mudança de província amanhã.
 
 
-Deixando Tafi
+Deixando Tafí
 
 Dia de ir embora e sem nada pra fazer, o checkout revelou que o hotel só aceita pagamento em dólares pela conversão oficial de 140. O que é um roubo. Dariam 300 e poucos USD, ou mais de 1500 bozos. Em pesos com os dois jantares ficou 50k.
 
-Para passar o tempo jogamos sinuca e pingue pongue no salão de jogos do hotel, bem tranquilo e com mesas novas. Experimentei o último sorvete e meialunas da cidade, de uma padaria da rua subindo a sorveteria mais afastada. As meialunas são as melhores. Há uma tendência de Tafi em as padarias terem os melhores pães, mas não tem opção de comer um lanche no local ou um café, e os bons cafés não têm lanche decente. A cafeteria das meninas por dois dias seguidos não tinha fiambres, e seus doces ficam lá por dias a fio.
+Para passar o tempo jogamos sinuca e pingue pongue no salão de jogos do hotel, bem tranquilo e com mesas novas. Experimentei o último sorvete e meialunas da cidade, de uma padaria da rua subindo a sorveteria mais afastada. As meialunas são as melhores. Há uma tendência de Tafí em as padarias terem os melhores pães, mas não tem opção de comer um lanche no local ou um café, e os bons cafés não têm lanche decente. A cafeteria das meninas por dois dias seguidos não tinha fiambres, e seus doces ficam lá por dias a fio.
 
 Depois partimos para Tucuman e depois de aguardar duas horas pegamos o ônibus da Andersmar para San Juan. Comemos uma boa pizza no shopping do terminal, massa pan saborosa e bom queijo, e servem cerveja em latas de meio litro.
 
 O serviço da Andersmar deixou a desejar. Poltrona semileito que abaixa pouco e não me deixaram despachar minha mochila cheia que não cabe nem em cima nem embaixo da poltrona. A temperatura interna do ônibus variou entre 28 e 31 graus. As paradas em terminais não são anunciadas, incluindo San Juan.
 
-Chegamos no hotel às 8, mas o check-in era apenas 13. Então ficamos zanzando pela cidade, buscando sorveteria e ver o aluguel do carro (que não era onde pensávamos). Depois do check-in fomos comer massa em um lugar bem bom e simpático chamado Siciliano onde tomei um Malbec suave e conhecia Sorrentinos. O meu com ossobuco ao Malbec.
+Chegamos no hotel às 8, mas o check-in era apenas 13. Então ficamos zanzando pela cidade, buscando sorveteria e ver o aluguel do carro (que não era onde pensávamos). Depois do check-in fomos comer massa em um lugar bem bom e simpático chamado Siciliano onde tomei um Malbec suave e conheci um macarrão diferente: sorrentinos. O meu veio com ossobuco ao Malbec.
 
 Depois fomos visitar a bodega Argos de táxi para voltar a pé. Era uma casa e não tinha ninguém. Então voltamos a pé no sentido de outra bodega, de litrão. Mas estava em reforma. No final andamos 9 km.
 
@@ -230,7 +229,7 @@ Também fomos em um café chamado infinito bem meia-boca. Não voltaremos. O ate
 
 Corrida por um Carro
 
-A Mitiko tinha conseguido agendar um almoço hoje em uma bodega em Pedernal. Tudo que faltava era um carro, que devia ser pego a uns 2km do hotel às 10:30. Depois do desaluyo na galeria paga pelo hotel com meialunas ok, mas facturas sem manteiga ou doce (pagamos à parte) e um suco horrível de laranja, andamos até o local, que é uma casa grande com tudo fechado. Tocamos a campainha três vezes e nada. Andamos até uma agência de turismo na esquina da avenida próxima e a moça está ocupada com uma viagem para a Europa com seu cliente. Atravessamos a rua em uma sorveteria, peço o wifi e um sorvete de dulce de letche, muito próximo do da esquina da praça principal.
+A Mitiko tinha conseguido agendar um almoço hoje em uma bodega em Pedernal. Tudo que faltava era um carro, que devia ser pego a uns 2km do hotel às 10:30. Depois do desaluyo na galeria paga pelo hotel com meialunas ok, mas facturas sem manteiga ou doce (pagamos à parte) e um suco horrível de laranja, andamos até o local, que é uma casa grande com tudo fechado. Tocamos a campainha três vezes e nada. Andamos até uma agência de turismo na esquina da avenida próxima e a moça está ocupada com uma viagem para a Europa com seu cliente. Atravessamos a rua em uma sorveteria, peço o wifi e um sorvete de dulce de letche, muito próximo do da esquina da praça principal. Tento ligar pelo Whatsapp da locadora sem sucesso. Envio mensagens, mas não estão sendo lidas. Foi o tempo de tomar o sorvete para decidirmos por buscar um outro local para alugar.
 
 Pegamos um táxi até a Avis, mas eles não têm carro para hoje. Andamos mais duas quadras até o alquiler que vimos fechado na véspera e está aberto. Um casal está devolvendo um carro. São 11:30. Depois que somos atendidos a moça diz que eles têm um carro, mas demora uma hora pra limpar. A Mitiko diz que pode ser sujo mesmo. O almoço é às 15h a uns 100km de lá. Eles limpam interno apenas.
 
@@ -249,7 +248,7 @@ Na volta fomos ao cinema: Me Respeita que Sou Sua Mãe é baseada em alguma obra
 
 Um Dia Perfeito
 
-Hoje foi dia de ir visitar Calia no começo do dia e Sierras Azules no final. Na primeira bodega nos recebeu a Giuliana, muito simpática, em uma visita privada, pois não havia mais ninguém, e com uma informalidade agradável. Ainda mais se pensarmos que essa é a visita de uma produtora gigantesca de vinhos, nível industrial. Ela é dos mesmos donos da Salentein de Mendoza, adquirida quando ainda era menor nos anos 2000 e lançando novas linhas e logo. A degustação foi muito divertida, que sem pressa foi regada a uma conversa que parecia de amigos de longa data.
+Hoje foi dia de ir visitar Calia no começo do dia e Sierras Azules no final. Na primeira bodega nos recebeu a Giuliana, muito simpática, em uma visita privada, pois não havia mais ninguém, e com uma informalidade agradável. Ainda mais se pensarmos que essa é a visita de uma produtora gigantesca de vinhos, nível industrial. Ela é dos mesmos donos da Salentein de Mendoza, adquirida quando ainda era menor nos anos 2000. Hoje está lançando novas linhas e um logotipo mais moderno. A degustação foi muito divertida, que sem pressa foi regada a uma conversa que parecia de amigos de longa data.
 
 Já a última bodega, Sierras Azules, surgiu como hobby em 2003 e hoje continua, pois suas poucas milhares de garrafas anuais são para as visitas e degustações. Foi um evento cheio de gente, a maioria locais, no entardecer ao pé da serra, que fica de fato azulada próximo do pôr do sol. A apresentação da host foi também bem bacana, explicando conceitos simples para um grupo grande. A degustação ao entardecer foi no estilo maridaje; um evento único. Tentamos harmonizar várias comidinhas de picadas com nossa taça de vinho.
 
@@ -283,7 +282,7 @@ Hoje estava chovendo e a ideia de subir o morro e ver a paisagem vai ficar pra d
 
 Depois fomos para a região de Luján de Cuyo, onde estão os vinhos top. Dá pra chegar com uma corrida de táxi de menos de 2k pesos. Luigi Bosca e Trapiche estavam fechadas e fomos para Lagarde, cujo passeio era o mais caro de todos. Pegamos uma degustação de sete taças incluindo uma taça do top de linha por 5k pesos. Os outros eram reservados em barrica e ordenados do menor para o maior tempo de reserva. Todos possuem algo interessante no sabor, mas nenhum deles chega a ser comprável, pois é mais caro que o dobro de vinhos mais acessíveis com o mesmo alcance de paladar. O topzão, Gran Reserve, realmente oferece sabores complexos, que vão mudando com o tempo. Só que ele custa 600 reais.
 
-Depois a Mitiko encontrou uma bodega que foi um achado: Carmine Granata. A atendente Luli não costuma atender sem reserva, mas mora perto e restava coincidentemente por lá quando tocamos a campainha. Ela nos atendeu tão bem e com uma empolgação tão grande em explicar com detalhes técnicos desde a plantação das uvas até a degustação que foi possível aprender coisas novas mesmo depois de tantas bodegas já visitadas. Foi uma visita privada de apenas nós quatro. A bodega fazia 7 milhões de litros e havia tanques gigantescos de concreto em funcionamento. Agora boa parte deles é usada como salas. Inclusive a sala de degustação! Uma das melhores visitas de minha vida em uma bodega.
+Depois a Mitiko encontrou uma bodega que foi um achado: Carmine Granata. A atendente Luli não costuma atender sem reserva, mas mora perto e coincidentemente estava por lá quando tocamos a campainha. Ela nos atendeu tão bem e com uma empolgação tão grande em explicar com detalhes técnicos desde a plantação das uvas até a degustação que foi possível aprender coisas novas mesmo depois de tantas bodegas já visitadas. Foi uma visita privada de apenas nós quatro. A bodega fazia 7 milhões de litros e havia tanques gigantescos de concreto em funcionamento. Agora boa parte deles é usada como salas. Inclusive a sala de degustação! Uma das melhores visitas de minha vida em uma bodega.
 
 Não havíamos comido ainda e o dia já estava acabando. Pedimos um táxi na primeira bodega e voltamos a Mendoza. Iríamos comer no Azafran, mas precisa de reserva. Vamos no La Pasion para mais bife e vegetais assados. Gostoso. Lá provamos um Luigi Bosca jovem com preço de reserva. OK, nada demais.
 
@@ -296,7 +295,7 @@ Hoje foi um dia ensolarado então fomos subir o morro. Não muito quente, nem mu
 
 O táxi nos deixou no começo de uma estrada que dá carro, mas é proibido para pessoal não autorizado, embora alguns subam mesmo assim, pois não há fiscalização. Há um certo movimento de pessoas subindo e descendo, então é seguro caso você precise de ajuda. A subida não é tão íngreme, apenas longa, de 5 km. No final, logo depois da antena, não há sinalização, mas há um mirante para uma paisagem de Mendoza inteira e da cordilheira do lado. Fica ao lado das antenas e você precisa atravessar por elas, um grupo de pessoas que lá estavam nos avisaram. Vale a pena essa vista maravilhosa.
 
-Aproveite após descer o Serro neste boteco/restaurante com empanadas e a cerveja IPA artesanal Quapaq para relaxar. O atendimento é muito cordial, os preços são OK e eles podem pedir o táxi de volta para a cidade. Não espere luxo.
+Após descer o serro, aproveite que este boteco/restaurante tem empanadas e uma cerveja IPA artesanal (Quapaq) para relaxar. O atendimento é muito cordial, os preços são OK e eles podem pedir o táxi de volta para a cidade. Não espere luxo.
 
 Depois rolê no Carrefour pra achar farinha e mate.
 
@@ -304,7 +303,7 @@ Depois jantar no restaurante do Hyatt junto de um amigo do Fábio, o Giovani. El
 
 O atendimento do Hyatt pode ser considerado excelente e cordial pela maioria, mas na minha opinião o tratamento passa um pouco do equilíbrio que deve existir entre intimidade e distância. Exceto isso você pode contar com seus pedidos sendo atendidos de maneira impecável.
 
-A comida estava OK, mas não se esperava apenas OK de um bistrô. Estávamos em cinco e pedimos pratos variados. Aqui vai a impressão geral. O bife de chorizo, meu prato,  estava passado demais (foi pedido ao ponto), embora vistoso. Bem temperado, mas o sabor passa logo porque a carne começa a ficar seca rapidamente quando você não usa o ponto certo. Veio acompanhado de fritas não tão vistosas nem apetitosas. Estavam sem cor. Outro prato, o risoto com ossobuco, não havia nada demais em seu sabor (lembrando que a expectativa era de um bistrô). Foi pedido um cordeiro assado que veio um partes duras. A pessoa que pediu se lembra de como era fácil preparar um bom cordeiro assado no interior da Bahia, no Brasil. Infelizmente o chef do local não conseguiu atingir essas expectativas básicas. Por fim, a sobremesa que me lembro foi a de sorvetes, com o sabor de dulce de letche forte, o de pistache aromático e o de limão azedo demais.
+A comida estava OK, mas não se esperava apenas OK de um bistrô. Estávamos em cinco e pedimos pratos variados. Aqui vai a impressão geral. O bife de chorizo, meu prato,  estava passado demais (foi pedido ao ponto), embora vistoso. Bem temperado, mas o sabor passa logo porque a carne começa a ficar seca rapidamente quando você não usa o ponto certo. Veio acompanhado de fritas não tão vistosas nem apetitosas. Estavam sem cor. Outro prato, o risoto com ossobuco, não havia nada demais em seu sabor (lembrando que a expectativa era de um bistrô). Foi pedido um cordeiro assado que veio com partes duras. A pessoa que pediu se lembra de como era fácil preparar um bom cordeiro assado no interior da Bahia, no Brasil. Infelizmente o chef do local não conseguiu atingir essas expectativas básicas. Por fim, a sobremesa que me lembro foi a de sorvetes, com o sabor de dulce de letche forte, o de pistache aromático e o de limão azedo demais.
 
 O ponto forte da noite foi a sommelier e o vinho escolhido após essa consulta. Depois de pesquisar conosco nossos pedidos, o ponto da carne e a faixa de preço ela nos trouxe algumas opções de não-Malbecs: um Pinot Noir e dois Merlots. Ao escolher por um Merlot de autor feito pela bodega Mendel ela ainda nos deu a opção de duas garrafas em temperaturas diferentes. O melhor atendimento que já recebi de uma sommelier em um restaurante. Até minha esposa que não é tão fã de Merlots adorou, tanto que no dia seguinte fomos visitar a bodega.
 
@@ -336,7 +335,7 @@ Depois fomos procurar um lugar para comer, mas minhas primeiras duas dicas não 
 
 Esta bodega é nossa queridinha desde a nossa primeira visita a Mendoza, há vários anos atrás. Na época era apenas um galpão. Qual não foi nossa boa surpresa de ver um restaurante em anexo com menu de passos.
 
-E a comida do restaurante da estava sensacional. Tanto as entradas de feijãozinho e um choripan memorável quanto ambos os pratos principais (estávamos em quatro), um contra-filé suculento e uma costela de porco desmanchando de tão cozida. As sobremesas estavam boas, embora menos marcantes. Um detalhe: os vinhos servidos durante os passos eram à vontade.
+E a comida do restaurante estava sensacional. Tanto as entradas de feijãozinho e um choripan memorável quanto ambos os pratos principais (estávamos em quatro), um contra-filé suculento e uma costela de porco desmanchando de tão cozida. As sobremesas estavam boas, embora menos marcantes. Um detalhe: os vinhos servidos durante os passos eram à vontade.
 
 Depois havia ainda a visita, feita dentro do galpãozinho da Azul, o mesmo que visitamos vários anos atrás, mas mais apertado, com mais gente participando e com muitas barricas e tanques. Os tanques iniciais, menorzinhos, estavam lá. Mas do lado um novo galpão com tanques bem maiores.
 
@@ -344,7 +343,7 @@ Das 80 mil garrafas da produção da primeira visita que fizemos, muitos anos at
 
 Ao final, seguindo a tradição, experimentamos um gran reserve em processo de evolução direto da barrica. Um Syrah com dez meses. Faltando ainda 14, ele estava bem alcoólico e precisando respirar até sentirmos alguma coisa agradável.
 
-Esta bodega é uma da lista que com certeza voltaremos em nossa próxima visita em Mendoza. Espero vê-la ainda mais próspera, mas mantendo esse ambiente agradável e informal de pessoas comendo boa comida, bebendo um bom vinho e dançando ao sol, com a vista das cordilheiras ao fundo.
+Esta bodega é uma da lista que com certeza voltaremos em nossa próxima visita em Mendoza. Espero vê-la ainda mais próspera, mas mantendo esse ambiente agradável e informal de pessoas comendo boa comida, bebendo um bom vinho e dançando ao sol, com a vista da cordilheira ao fundo.
 
 E foi isso. O final do dia foi degustando mais uma pizza do lado com um Malbec/Bonarda de latinha que peguei no Carrefour. Muito bom, apesar de estar em uma latinha. Melhor que o do López. Amanhã não há grandes planos. Não de vinhos. Até porque já passei das 30 garrafas.
 

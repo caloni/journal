@@ -3,7 +3,6 @@ categories:
 - movies
 date: '2022-10-21T19:56:24-03:00'
 tags:
-- draft
 - cinemaqui
 - mostra
 title: A Noiva
@@ -19,6 +18,6 @@ A duração do filme também me agrada. Com pouco mais de 80 minutos, não é ne
 
 A música-tema é de Amy Winehouse, uma cantora que morreu ainda jovem. Ela nos induz a pensar o mesmo do destino desta mulher com dois filhos e um terceiro chegando. Tudo colabora com essa atmosfera apocalíptica. Além dela vestir a burca com barriga de grávida.
 
-Ela é portuguesa e reza para Alá em português. Detalhes curiosos como esse são a novidade de mais um episódio da região que mais possui ruínas de guerra no mundo. É como se elas não existissem nas filmagens estivesse incompleto. As ruínas completam o panorama desértico do Iraque.
+Ela é portuguesa e reza para Alá em português. Detalhes curiosos como esse são a novidade desse episódio da região que mais possui ruínas de guerra no mundo. Elas fazem parte obrigatória da paisagem. Se elas não existissem nas filmagens o filme estaria incompleto. As ruínas, tristemente, completam o panorama desértico do Iraque.
 
 Mas, enfim. Duração. Este é um filme em cinco atos, divididos por catarse. Econômico e certeiro. Não faz pensar muito, mas é muito bem conduzido.

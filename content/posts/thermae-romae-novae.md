@@ -3,7 +3,6 @@ categories:
 - series
 date: '2022-10-20T21:42:04-03:00'
 tags:
-- draft
 title: Thermae Romae Novae
 ---
 
