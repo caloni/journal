@@ -5,7 +5,7 @@ date: '2022-10-25T20:14:49-03:00'
 tags:
 - draft
 - cinemaqui
-- mostrasp
+- mostra
 title: Lobo e Cão
 ---
 

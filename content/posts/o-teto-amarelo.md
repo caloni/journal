@@ -5,7 +5,7 @@ date: '2022-10-25T20:15:17-03:00'
 tags:
 - draft
 - cinemaqui
-- mostrasp
+- mostra
 title: O Teto Amarelo
 ---
 
