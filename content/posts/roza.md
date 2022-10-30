@@ -8,9 +8,9 @@ tags:
 title: Roza
 ---
 
-Nem sempre “heróis” do cinema são personagens que merecem ser fonte de inspiração para sermos pessoas melhores. No caso desse Roza, uma ode a pessoas fracas. Chega a dar vergonha chamar qualquer uma dessas pessoas de herói.
+Nem sempre "heróis" do cinema são personagens que merecem ser fonte de inspiração para sermos pessoas melhores. No caso desse Roza, uma ode a pessoas fracas, chega a dar vergonha chamar qualquer uma dessas pessoas de herói.
 
-Seu protagonista real, apesar dos créditos finais sugerirem quatro, é Hector (Hector Ramos). Pai de família, ele foge de casa e deixa mãe e pai, esposa e filho. O filme começa quando ele retorna, contra todos os prognósticos da família, e logo começa a arrumar problemas em casa. Mas sua esposa não o reconhece mais e seu filho não sabe sequer como reagir com sua presença. E sua mãe, agora viúva, é um autômato da geração passada, repetindo o que lhe foi ensinada sobre arrumar um porto seguro e sobreviver. Ela ainda fala a língua nativa de seu povo e não usa o espanhol.
+Seu protagonista real, apesar dos créditos finais sugerirem quatro, é Hector. Pai de família, ele foge de casa e deixa mãe e pai, esposa e filho. O filme começa quando ele retorna, contra todos os prognósticos da família, e logo começa a arrumar problemas em casa. Mas sua esposa não o reconhece mais e seu filho não sabe sequer como reagir com sua presença. E sua mãe, agora viúva, é um autômato da geração passada, repetindo o que lhe foi ensinada sobre arrumar um porto seguro e sobreviver. Ela ainda fala a língua nativa de seu povo e não usa o espanhol.
 
 Por falar em povo, este é claramente um filme onde a etnia interessa. De maneira pejorativa, no caso. Existe um descompasso entre o que esperamos que um ser humano ideal seja e as pessoas do filme. Como não fica claro quais os fantasmas que as atormentam, a conclusão natural do espectador é concluir ser este um caso genético, cultural ou ambos. De qualquer forma, sob qualquer ponto de vista de pessoas que almejam o melhor a cada dia, Hector é um desastre.
 

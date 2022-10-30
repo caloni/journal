@@ -8,7 +8,7 @@ tags:
 title: O Deus do Cinema
 ---
 
-Pela Perspectiva Internacional da Mostra de SP em 2022, o japonês está nostálgico e cinéfilo. O Deus do Cinema chega no festival relembrando a indústria que estava nascendo no pós-guerra através de uma ficção inserida na época e recordada em plena pandemia. Feito para fazer chorar, uma vez que a quarta parede se quebra ela vira uma apelação bonitinha e teatral. Um filme difícil de desgostar.
+Pela Perspectiva Internacional da Mostra de SP este ano, o japonês está nostálgico e cinéfilo. O Deus do Cinema chega no festival relembrando a indústria que estava nascendo no pós-guerra através de uma ficção inserida na época e recordada em plena pandemia. Feito para fazer chorar, uma vez que a quarta parede se quebra ela vira uma apelação bonitinha e teatral; um filme difícil de desgostar.
 
 Seu núcleo é um triângulo amoroso formado na juventude e cujas vidas voltam a se cruzar no tempo presente. Suas vidas se cruzaram em torno do cinema japonês. Terashin, um projecionista, Goh, um assistente de direção e Yoshiko, uma atendente de bar tão simpática quanto Setsuko Hara em Era uma Vez em Tóquio (um dos filmes referenciados no longa). O flashback sobre essas pessoas é charmoso e instigante, pois tem relação direta com a produção cinematográfica.
 
