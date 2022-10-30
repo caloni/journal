@@ -3,7 +3,6 @@ categories:
 - movies
 date: '2022-10-26T19:50:17-03:00'
 tags:
-- draft
 - cinemaqui
 - mostra
 title: Nação Valente
@@ -17,4 +16,4 @@ Uma das sacadas do filme é manter esse mesmo suspense para o espectador. Não s
 
 Diferente de História contada em sala de aula as circunstâncias aqui são mais fantasiosas e de certa forma mais atraentes, porque apela para nossa visão subjetiva, emocional, de qual foi o real impacto para os habitantes. O exemplo mais impactante é que os nativos que eram mortos naquela época não podiam ser velados pelos obrigatórios três dias de cantos pelos vivos porque o homem branco os ouviriam e os matariam também. Só que isso faz mal para a alma do defunto, que não se aquieta, e pode levantar do túmulo. E nos sonhos mais terríveis isso de fato acontecia.
 
-A linha entre a morte e a vida é ultrapassada, ou muito tênue. E a saudade dos que ficaram é imensa, de ambos os lados. Só há dores em Nação Valente, e o filme explora o sentimento de dor de vários ângulos. Faz uma sessão dupla boa com Mosquito, outro filme que já passou em Mostras passadas. Se enxerga muita culpa do povo português nessa cinematografia sobre a culpa do passado. E também se enxerga muita violência. Ao menos eles não têm medo de retratar a brutalidade dos acontecimentos, que choca, mas é por motivo justo.
+A linha entre a morte e a vida é ultrapassada, ou muito tênue. E a saudade dos que ficaram é imensa, de ambos os lados. Só há dores em Nação Valente, e o filme explora o sentimento de dor de vários ângulos. Faz uma sessão dupla boa com Mosquito, outro filme que já passou em Mostras passadas. Se enxerga muita culpa do povo português nessa cinematografia sobre as dívidas do passado. E também se enxerga muita violência. Ao menos eles não têm medo de retratar a brutalidade dos acontecimentos, que choca, mas é por motivo justo.

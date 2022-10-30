@@ -3,7 +3,6 @@ categories:
 - movies
 date: '2022-10-27T22:19:03-03:00'
 tags:
-- draft
 - cinemaqui
 - mostra
 title: Don Juan

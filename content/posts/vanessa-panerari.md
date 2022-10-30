@@ -3,7 +3,6 @@ categories:
 - blog
 date: '2022-10-23T21:12:57-03:00'
 tags:
-- draft
 - mostra
 title: Vanessa Panerari
 ---

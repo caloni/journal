@@ -3,7 +3,6 @@ categories:
 - movies
 date: '2022-10-24T20:26:59-03:00'
 tags:
-- draft
 - cinemaqui
 - mostra
 title: Nezouh

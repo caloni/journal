@@ -3,7 +3,6 @@ categories:
 - movies
 date: '2022-10-26T19:50:22-03:00'
 tags:
-- draft
 - cinemaqui
 - mostra
 title: Fire of Love

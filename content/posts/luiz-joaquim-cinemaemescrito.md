@@ -4,7 +4,6 @@ categories:
 date: '2022-10-25T21:53:13-03:00'
 link: https://www.cinemaescrito.com
 tags:
-- draft
 title: Luiz Joaquim (Cinema Escrito)
 ---
 

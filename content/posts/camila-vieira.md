@@ -4,7 +4,6 @@ categories:
 date: '2022-10-23T21:22:18-03:00'
 link: http://multiplotcinema.com.br/2021/10/45a-mostra-internacional-de-cinema-de-sao-paulo/
 tags:
-- draft
 - mostra
 title: Camila Vieira
 ---

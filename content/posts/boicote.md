@@ -3,7 +3,6 @@ categories:
 - movies
 date: '2022-10-27T22:19:14-03:00'
 tags:
-- draft
 - cinemaqui
 - mostra
 title: Boicote
@@ -15,7 +14,7 @@ Porém, o filme em questão fala mais sobre a posição política de se expressa
 
 É aí que surge o tema do filme, que fala sobre uma lei proibindo esse boicote, mesmo que a constituição e a tradição considerem o boicote uma ferramenta legítima de posicionamento e expressão política. O melhor exemplo que o filme encontra está na moda: racismo. Ele usa como exemplo o boicote aos ônibus na época da segregação, quando negros ficaram um ano inteiro sem usar os ônibus para se locomover e finalmente conseguiram fazer com que a lei de segregação no transporte acabasse.
 
-Para focar no combate à lei presente o filme foca em três indivíduos que tiveram seu trabalho afetado. Uma fonoaudióloga palestina, um jornalista independente americano e um consultor de prisioneiros de família judia, uma sacada de mestre para tornar o debate mais equilibrado. E todos os três processaram seus estados responsáveis por criar essa lei que determina que todo contrato assinado deve constar que a pessoa não boicotará Israel. E, sim, a lei cita especificamente Israel.
+Para focar no combate à lei presente o filme aborda o acontecimento sob o ponto de vista de três indivíduos que tiveram seu trabalho afetado. Uma fonoaudióloga palestina, um jornalista independente americano e um consultor de prisioneiros de família judia, uma sacada de mestre para tornar o debate mais equilibrado. E todos os três processaram seus estados responsáveis por criar essa lei que determina que todo contrato assinado deve constar que a pessoa não boicotará Israel. E, sim, a lei cita especificamente Israel.
 
 Essa lei se espalhou por vários estados através de um modelo que foi compilado justamente para isso por uma organização pouco conhecida e que se reúne duas vezes ao ano de portas fechadas. Suspeito? Teoria da conspiração o suficiente para você? E que tal o jornalista investigativo palestino que descobre o mecanismo pelo qual Israel envia recursos a organizações sionistas para os EUA usando uma empresa privada, o que curiosamente faz lembrar muito a campanha de Trump sendo alavancada por uma empresa privada, a Cambridge Analytics?
 
