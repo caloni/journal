@@ -7,7 +7,7 @@ tags: []
 title: Pão Francês da Isamara Amâncio
 ---
 
-Esta é uma das receitas-base para a criação da [minha receita](/pao-frances). É o primeiro resultado no Google quando você busca por "como deixar o miolo de pão francês caseiro mais leve sem batedeira", onde eu conheci o canal dessa mulher maravilhosa, que trata sua massa com carinho e suas receitas com dedicação. Só o maravilhamento dela com os resultados já compensa o vídeo, além das ótimas explicações.
+Esta é uma das receitas-base para a criação da [minha receita](/como-fazer-pao). É o primeiro resultado no Google quando você busca por "como deixar o miolo de pão francês caseiro mais leve sem batedeira", onde eu conheci o canal dessa mulher maravilhosa, que trata sua massa com carinho e suas receitas com dedicação. Só o maravilhamento dela com os resultados já compensa o vídeo, além das ótimas explicações.
 
 Segue minha anotação inicial dessa nova receita de pão francês. Primeiro se faz a esponja com 35g de farinha de trigo, 7.5g de fermento biológico seco (3/4 do saquinho do instantâneo) e 40g de água. Meia-hora depois, ou 45 minutos se estiver bem frio, está pronta a esponja.
 

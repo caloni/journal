@@ -14,4 +14,4 @@ Depois de misturar as maçãs curtidas no açúcar/canela polvilhei com 1 colher
 
 O resultado ficou bem próximo do bolo de banana que costumo comer com um amigo em uma esquina da Alameda Santos e Bela Cintra, se não me engano, na região da Paulista. Se trata de uma massa simples com uma fruta picada em pedaços médios. Você consegue sentir os pedaços da fruta na textura em um bolo ligeiramente doce.
 
-Para a próxima tentativa irei reduzir a maçã no fogo, parecido com o que eu faço com a banana para minha [trança de banana](/tranca-de-banana), imagino com pedaços pequenos e açúcar extra. A ideia é virar quase uma geleia, mas ainda açucarada, e usar essa mistura como base para a massa. Dessa vez vou usar a canela mesmo.
+Para a próxima tentativa irei reduzir a maçã no fogo, parecido com o que eu faço com a banana para minha [trança de banana](/pao-tranca-de-banana), imagino com pedaços pequenos e açúcar extra. A ideia é virar quase uma geleia, mas ainda açucarada, e usar essa mistura como base para a massa. Dessa vez vou usar a canela mesmo.

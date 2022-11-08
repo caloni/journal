@@ -7,7 +7,7 @@ tags: []
 title: Pão Francês do Pão da Casa
 ---
 
-Esta é uma das receitas-base para a criação da [minha receita](/pao-frances).
+Esta é uma das receitas-base para a criação da [minha receita](/como-fazer-pao).
 
 500g de farinha (9 pães), 5g fermento seco, 50g fermento natural, 300ml de água (60%), 10g sal, 5g açúcar, 1 colher de chá de gordura.
 

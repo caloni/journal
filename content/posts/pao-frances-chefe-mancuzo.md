@@ -7,7 +7,7 @@ tags: []
 title: Pão Francês do Chefe Mancuzo
 ---
 
-Esta é uma das receitas-base para a criação da [minha receita](/pao-frances).
+Esta é uma das receitas-base para a criação da [minha receita](/como-fazer-pao).
 
 300g de farinha (8 pães), 3g de fermento seco, 100g de fermento natural (30%) ativo (2 fermento : 1 farinha : 1 água), 180ml de água (60%), 7g de sal (2.3%), 5g de açúcar (1.6%), 5g de manteiga (1.6%).
 

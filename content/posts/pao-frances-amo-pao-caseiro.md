@@ -7,7 +7,7 @@ tags: []
 title: Pão Francês do Amo Pão Caseiro
 ---
 
-Esta é uma das receitas-base para a criação da [minha receita](/pao-frances).
+Esta é uma das receitas-base para a criação da [minha receita](/como-fazer-pao).
 
 Pegue 4g de fermento instantâneo e junte com 30g de água e 30g de farinha para formar a esponja e deixe de meia-hora a uma hora formando a esponja (como sempre depende do tempo, mas a ideia é ficar fofinho com ar dentro). Você pode usar como sempre fermento natural (ativado, não da geladeira), o mesmo peso, mas multiplique por cerca de 4x os tempos de fermentação.
 
