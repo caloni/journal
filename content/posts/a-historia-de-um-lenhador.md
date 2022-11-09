@@ -8,7 +8,7 @@ tags:
 title: A História de Um Lenhador
 ---
 
-Pepe (Jarkko Lahti) é um lenhador. Não sei se muito bom. É uma pessoa feliz. Ou pelo menos não-triste. Tudo muda quando ele e seus amigos perdem o emprego. Quer dizer… muda, mesmo? A História de Um Lenhador tem uma pegada tão budista que fica difícil compreender um protagonista onde a dor e o sofrimento dos demais é uma mera curiosidade.
+Pepe é um lenhador. Não sei se muito bom. É uma pessoa feliz. Ou pelo menos não-triste. Tudo muda quando ele e seus amigos perdem o emprego. Quer dizer... muda, mesmo? A História de Um Lenhador tem uma pegada tão budista que fica difícil compreender um protagonista onde a dor e o sofrimento dos demais é uma mera curiosidade.
 
 O filme escrito e dirigido pelo finlandês Mikko Myllylahti se passa em um vilarejo em que a neve chega até os joelhos. Isolados do mundo, o significado de vida daquelas pessoas era a serralheria, talvez até o motivo de existência da própria vila. Quando a fábrica fecha toda as pessoas ficam desnorteadas. Há traição, mortes, fanatismo religioso, violência e caos. Tudo pode estar conectado com esses lenhadores desempregados, mas não necessariamente.
 
