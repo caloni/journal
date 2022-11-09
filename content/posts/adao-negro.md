@@ -3,7 +3,6 @@ categories:
 - movies
 date: '2022-11-07T22:14:20-03:00'
 tags:
-- draft
 title: Adão Negro
 ---
 
@@ -21,6 +20,6 @@ O time de apoio dos heróis do filme eu nem vou falar nada porque você já viu.
 
 O resto do elenco é das etnias que estão colocando Hollywood abaixo, com nomes difíceis de pronunciar. Eles também estão substituindo estereótipos de personagens até que o pessoal da sala de roteiros saia com algo mais criativo. Mas nunca dá tempo, a produção começa a filmar antes disso. Roteiro é detalhe para os gigantes do entretenimento.
 
-Se há algum momento digno de nossas memórias em Adão Negro, o filme com mais cenas de ação com câmera lenta depois de Liga da Justiça, nunca saberemos. Deve ter ficado na sala dos montadores. Usaram dois nesse filme. O primeiro deve ter passado mal antes de terminar. "Por favor, me matem" devem ter sido suas últimas palavras.
+Este é Adão Negro, o filme com mais cenas de ação com câmera lenta depois de Liga da Justiça. Se há algum momento na projeção digno de nossas memórias nunca saberemos. Deve ter ficado na sala dos dois montadores desse filme. O primeiro deles deve ter passado mal antes de terminar. "Por favor, me matem!" devem ter sido suas últimas palavras, com ponto de exclamação.
 
 Enfim: mal espero pela versão Snyder desse filminho. Estou sendo sarcástico. Piada interna do filme. Acho que é a única que funciona. Por falar nisso, quem arrumou a Formiga Atômica da DC? Cara, que sujeito ruim. Seu escape cômico consegue ser pior que do Flash, que já era um recorde digno do tio do pavê.

@@ -4,13 +4,12 @@ categories:
 link: https://www.donamatilde.pt/
 date: '2022-05-12T22:37:35-03:00'
 tags:
-- draft
 title: Dona Matilde
 ---
 
 Dona Matilde
 
-Esse é bom mesmo, safra 2016. Acho que encontrei naquele teste do eniwine. Não é absurdamente caro, mas é um Gran Reserve. Em outubro de 2020 provo a segunda garrafa. Ainda acho um custo/benefício muito bom. Encorpado e frutado. Não há madeira, mas há taninos. Parece evoluído.
+Esse é bom mesmo, safra 2016. Acho que encontrei naquele teste do eniwine. Não é absurdamente caro, mas é um Gran Reserve. Em outubro desse ano provo a segunda garrafa. Ainda acho um custo/benefício muito bom. Encorpado e frutado. Não há madeira, mas há taninos. Parece evoluído.
 
 Agora descubro que este vinho é produzido na [região do Douro](https://goo.gl/maps/73Uw2FUKkYFcYGE47), em Portugal. A história da vinícola é peculiar. Um empresário preparou o terreno cheio de xisto para o plantio na década de 1920. Há uma pirâmide feita desse xisto retirado onde está gravado o nome da vinícola. Através de algumas gerações manteve a produção de vinho.
 

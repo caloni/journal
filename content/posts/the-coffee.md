@@ -3,7 +3,6 @@ categories:
 - coffee
 date: '2022-11-07T22:14:44-03:00'
 tags:
-- draft
 title: The Coffee
 ---
 

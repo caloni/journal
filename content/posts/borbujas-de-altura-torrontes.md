@@ -3,7 +3,6 @@ categories:
 - wine
 date: '2022-11-07T22:16:11-03:00'
 tags:
-- draft
 title: Borbujas de Altura Torrontés
 ---
 
