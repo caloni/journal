@@ -3,7 +3,6 @@ categories:
 - wine
 date: '2022-11-08T22:27:24-03:00'
 tags:
-- draft
 title: Cave de Ladac
 ---
 
