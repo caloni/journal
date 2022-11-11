@@ -35,3 +35,5 @@ Após aberta a massa é hora de colocar o molho de tomate. Uma concha espalhada 
 # Histórico
 
 2022-10-09 Meu primeiro teste já deu muito certo. Essa receita quis fazer duas pizzas, então a proporção foi dividida em 3: 100g de farinha e água para o polish (posso ter exagerado um pouco no fermento) e 230g de farinha e 130g de água para autólise antes da sova com polish. Deixei a massa após sovar em fermentação longa por 48h, pois tinha compromisso o dia seguinte inteiro, o que acabou dando muito certo. No domingo a massa tinha mais que dobrado e estava bem leve e macia. Com muito cuidado tirei e fiz as bolas e em cerca de 2h o crescimento novamente espantou. Abri-la foi bem simples, o glúten ainda estava bem firme e o uso da farinha impediu que grudasse na mão. A temperatura do forno no máximo com a forma dentro foi o esquema que usei. Ela ficou crocrante por fora e macia por dentro, cheia de ar.
+
+2022-11-09 Fiz a última pizza do freezer hoje. Cresceu um pouco menos. Pus umas três colheres de molho e a Mitiko ainda achou muito (e pouco queijo). Reavaliando proporções para a próxima.
