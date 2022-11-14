@@ -194,7 +194,7 @@ title: Roger Ebert Great Movies
  - The Life of Oharu 1952
  - The Long Goodbye 1973
  - [Lost in Translation](/encontros-e-desencontros) 2003
- - M 1931
+ - [M](/m-o-vampiro-de-dusseldorf) 1931
  - Magnolia 1999
  - Make Way for Tomorrow 1937
  - The Maltese Falcon 1941
