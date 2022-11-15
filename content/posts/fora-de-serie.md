@@ -5,6 +5,7 @@ date: '2019-06-09'
 link: https://www.imdb.com/title/tt1489887
 tags:
 - cinemaqui
+- draft
 title: Fora de Série
 ---
 
@@ -25,3 +26,19 @@ E está mesmo, pois quando estamos no terceiro ato, que é o momento de todo fil
 A seleção de músicas desse filme é insana na medida do desejável. Usa Alanis Morissette em um karaokê e praticamente nos convida a cantar juntos no cinema (não faça isso). Usa o tema de Ghost repaginado porque além de ser engraçado no começo da cena se transforma em uma declaração de fato emocionante. Esta é a playlist do millenial do bem, que não veio reclamar que tá tudo errado, mas que dá pra pegar os mesmos clichês e fazer do jeito certo.
 
 E por falar em fazer do jeito certo, eu termino voltando a esta nova diretora, que me fez voltar a ter esperanças de comédias no cinema, como um divertimento de escape, claro, mas com bom gosto. Eu deveria comentar sobre a cartilha lésbica e essas coisas de minorias no filme, mas passou batido, porque é assim que deve ser na vida real. Sinal de que o filme é tão bem feito que não precisa de muletas sociais, pois gira em torno simplesmente de seres humanos.
+
+# 2022-11-13
+
+Esta revisita, como geralmente acontece em filmes que vão se datando aos poucos, me gerou um pouco de decepção. Beanie Feldstein, a.k.a. a gordinha do filme, não está tão diva quando parecia quando assisti este filme na cabine de imprensa. E é Kaitlyn Dever quem de fato segura a bronca. O que é sintomático, pois a personagem da gordinha seria a protagonista. Mas a gordinha não consegue levantar toda essa bola em muitos momentos que repete sua cara com olhos esbugalhados. E eu já disse quantas vezes a palavra gordinha? Bom, estou usando o termo gordinha, pois foi justamente este filme que deu início à piada "nome da atriz". Explico.
+
+Quando postei este texto para o CinemAqui meu texto foi lapidado pelo editor retirando o termo gordinha quando me referi a esta atriz. No lugar ele usou... o nome da atriz. A piada nasceu pronta. Assim como brincadeiras saudáveis com o tom da pele das pessoas em tempos onde alguns manipulam e muitos seguem as instruções à risca, considerando os comentários sobre tom da pele extremamente sérios. E isso é ultrassério. Verdade. Assim como quando falei sobre nazismo em [uma série](/the-chair) que já ia me esquecendo exceto pela parte que Sandra Oh cai do objeto-título.
+
+Mas divago. Booksmart hoje não é tão smart assim. Sua virtude é conseguir narrar uma comédia colegial sob a censura do politicamente correto e sob a cartilha social militante vigente e ainda assim ser engraçado. Quase tocante.
+
+No entanto, as personagens do filme envelheceram mal. Elas não estão dentro de um papel que as transforma. Elas não são as nerds que nós pensávemos que fossem só porque elas dizem isso no filme. Elas não são nada. São duas atrizes que estão muito bem, obrigado, mas não pingaram uma gota de suor pelos seus papéis. E esse é um sintoma. Um grave sintoma. De que quando elenco e equipe de filmagem são selecionados não por mérito, mas por tom de pele, gênero ou qualquer outro critério arbitrário, as chances de algo dar errado é maior. Porque não são as pessoas capacitadas. Não são brancas.
+
+Sim, eu sei, este filme tem uma participação até que grande ainda de personagens brancos e até héteros. Como eu disse, este é um sintoma. E continuando a metáfora, um sintoma leve, de uma doença ainda desconhecida, mas que hoje, pós-pandemia e todo o carnaval social que veio junto, agora é uma doença conhecida e erradicada. Ninguém mais quer ver heroínas manjadas no cinema em uma luta que já sabem que vão ganhar (e sem afetar o penteado). Ninguém nunca quis ver tal conteúdo. Ele foi enfiado goela abaixo. E, sim, isso ainda é uma metáfora. Ou analogia. Chame como quiser.
+
+Nessa curta epopeia de diversidade e tolerância aos mais sensíveis, Booksmart se constitui um filme médio e neutro. Ele mantém sua virtude de ser engraçado e não ofender praticamente ninguém neste planeta. Mas é fake. Se não é fake a sociedade que se construiu dentro dessas premissas é fake. Um colégio não é habitado por jovens que fazem piadas leves, sem bullying e sem drama. Seria muito bom passar a juventude com esse nível equilibrado de hormônios. Mas não é assim na vida real. E os personagens idealizados por esses não-sei-quantos roteiristas peca ao estabelecer jovens ideais em uma comédia escrachada. Quero dizer, uma das piadas envolve uma caixinha de pó que não é cocaína, mas vitaminas. E um sinal de boas vindas de uma festa de um milionário mimado precisa ser explicada sobre não ser ofensivo por estar implícito que o sexo com as garotas será consensual. Hoje tudo isso é datado, pois parte do princípio que jovens são inofensivos nessa fase de crescimento. Bom, jovens saudáveis não são. Talvez castrados quimicamente sejam. Não sei como estão as estatísticas ao redor dessa nova geração que escolhe seu gênero. No entanto, ainda não é a maioria.
+
+O filme continua bom. Não é mais memorável. Não é mais um dos melhores do ano como eu escrevi na época. Mas é engraçado. Continua respeitando a inteligência do espectador. Mas não sua sensibilidade. Hoje percebemos se tratar de personagens feitos com pressa, sem intensidade, sem realismo. Sem compaixão. Eles castram a verdadeira diversidade de opiniões, essa selva de adolescentes tresloucados, em troca de risadas de eventos bobinhos, de um tour inofensivo de duas jovens em uma noite nada selvagem. É entretenimento. E está ficando velho.
