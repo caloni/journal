@@ -1,3 +1,3 @@
 cmake_minimum_required(VERSION 3.16)
-project (scope_macros)
-add_executable(issues scope_macros.cpp)
+project (new)
+add_executable(new new.cpp)
