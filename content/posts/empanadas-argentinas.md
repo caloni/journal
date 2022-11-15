@@ -2,7 +2,8 @@
 categories:
 - recipes
 date: '2019-01-07'
-tags: []
+tags:
+- draft
 title: Empanadas Argentinas
 ---
 
@@ -25,6 +26,10 @@ Coloque em um recipiente a farinha e junte a água, o sal e a gordura e coloque 
 Coloque gordura para cobrir a panela e coloque a carne, reduzindo e deixando queimar levemente enquanto joga água quente para não grudar no fundo. Para o tempero, além de sal e pimenta a gosto, cominho, semente de mostarda, páprica, pimenta calabresa. Estes temperos podem ser colocados enquanto a carne está sendo queimada e reduzida. Quando o sabor da carne estiver ressaltado pode jogar a cebola para reduzi-la da mesma forma. Ao final jogue um pouco de tomate picado ou seu molho. Ao reduzir todo o líquido desligue o fogo e tempere com orégano, salsa picada, azeitona em pedaços.
 
 ## Histórico
+
+### 2022-11-13 
+
+Dessa vez, no calor de 27 graus, usei 30% de água e achei pouco. Acredito que 35% seja o valor. Estou usando também 30% de gordura... ops, não. Medi errado. Foram 26% de gordura. Resolvi adotar a estratégia de metade do peso da carne em farinha. Vamos ver como fica a proporção na hora de montar.
 
 ### 2022-04-30
 
