@@ -19,7 +19,7 @@ Uma versão saltenha da mesma receita pode ser feita com batata cozida, mas aind
 
 ## Preparo da massa
 
-Coloque em um recipiente a farinha e junte a água, o sal e a gordura e coloque bem pouco no fogo, apenas para amornar. Jogue por cima da farinha e comece a mexer. Mexa o suficiente para que a massa fique elástica mesmo que ainda rasgando (isso é normal nessa massa). Mexa até você sentir que esta é a melhor massa para mexer com as mãos do mundo. Embale em plástico filme e deixe repousar na geladeira por algumas horas ou de um dia para outro.
+Coloque em um recipiente a farinha e a gordura; se for banha, derreta um pouco (sem esquentar muito). Coloque junto para amornar rapidamente a água e o sal. Jogue por cima da farinha aos poucos e comece a misturar. Comece a sovar, o suficiente para que a massa fique elástica mesmo que ainda rasgando (isso é normal nessa massa). Você irá sentir em certo ponto que esta é a melhor massa para mexer com as mãos do mundo. Embale em plástico filme ou coloque em um pote hermético dentro da geladeira por algumas horas ou de um dia pro outro.
 
 ## Preparo do recheio
 
@@ -29,7 +29,7 @@ Coloque gordura para cobrir a panela e coloque a carne, reduzindo e deixando que
 
 ### 2022-11-13 
 
-Dessa vez, no calor de 27 graus, usei 30% de água e achei pouco. Acredito que 35% seja o valor. Estou usando também 30% de gordura... ops, não. Medi errado. Foram 26% de gordura. Resolvi adotar a estratégia de metade do peso da carne em farinha. Vamos ver como fica a proporção na hora de montar.
+Dessa vez, no calor de 27 graus, usei 30% de água e achei pouco. Acredito que 35% seja o valor. Estou usando também 30% de gordura... ops, não. Medi errado. Foram 26% de gordura. Resolvi adotar a estratégia de metade do peso da carne em farinha. Na hora de montar sobrou bem pouco de carne, o suficiente para mais duas ou no máximo três empanadas. Isso quer dizer que a proporção que usei de metade do peso da carne em farinha estava bem próximo. Considerar na próxima 60% do peso da carne em farinha.
 
 ### 2022-04-30
 
