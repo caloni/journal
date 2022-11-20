@@ -3,7 +3,8 @@ categories:
 - movies
 date: '2010-12-03'
 link: https://www.imdb.com/title/tt1285016
-tags: []
+tags:
+- mostra
 title: A Rede Social
 ---
 

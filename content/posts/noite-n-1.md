@@ -3,7 +3,8 @@ categories:
 - movies
 date: '2012-10-23'
 link: https://www.imdb.com/title/tt2016955
-tags: []
+tags:
+- mostra
 title: 'Noite #1'
 ---
 

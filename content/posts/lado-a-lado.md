@@ -3,7 +3,8 @@ categories:
 - movies
 date: '2012-10-21'
 link: https://www.imdb.com/title/tt2014338
-tags: []
+tags:
+- mostra
 title: Lado a Lado
 ---
 

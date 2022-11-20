@@ -3,7 +3,8 @@ categories:
 - movies
 date: '2012-10-23'
 link: https://www.imdb.com/title/tt2164058
-tags: []
+tags:
+- mostra
 title: Pa-dak pa-dak
 ---
 

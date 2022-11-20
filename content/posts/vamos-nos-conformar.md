@@ -3,7 +3,8 @@ categories:
 - movies
 date: '2010-11-01'
 link: https://www.imdb.com/title/tt2186866
-tags: []
+tags:
+- mostra
 title: Vamos nos Conformar
 ---
 
