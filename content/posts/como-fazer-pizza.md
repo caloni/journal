@@ -5,7 +5,6 @@ categories:
 date: '2021-06-06'
 link: https://www.youtube.com/c/vitoiacopelli
 tags:
-- draft
 title: Como fazer pizza
 ---
 

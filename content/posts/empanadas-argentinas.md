@@ -3,13 +3,12 @@ categories:
 - recipes
 date: '2019-01-07'
 tags:
-- draft
 title: Empanadas Argentinas
 ---
 
 ## Ingredientes da massa
 
-Para o peso em farinha de trigo, 2% de sal, cerca de 25% de gordura em temperatura ambiente (banha, manteiga, etc), cerca de 30% de água morna. Antes de ir para o forno reserve gema para pincelar por cima.
+Para o peso em farinha de trigo, que deve ser de cerca de 60% do peso da carne do recheio, 2% de sal, entre 20% a 50% de gordura (dá crocância ao mesmo tempo que peso) em temperatura ambiente (banha, manteiga, etc), cerca de 35% de água morna. Antes de ir para o forno reserve gema para pincelar por cima.
 
 ## Ingredientes para o recheio de carne
 
