@@ -8,12 +8,12 @@ title: Roger Ebert Great Movies
 ---
 
 - 12 Angry Men 1957
- - [2001: A Space Odyssey](/2001-uma-odisseia-no-espaco) 1968
+ - [2001: Uma Odisseia no Espaço](/2001-uma-odisseia-no-espaco) (2001: A Space Odyssey) 1968
  - 25th Hour 2002
  - 3 Women 1977
  - 8½ 1963
  - Ace in the Hole 1951
- - [Adaptation](/adaptacao) 2002
+ - [Adaptação](/adaptacao) (Adaptation) 2002
  - The Adventures of Robin Hood 1938
  - After Dark, My Sweet 1990
  - After Hours 1985
@@ -22,11 +22,11 @@ title: Roger Ebert Great Movies
  - A.I. Artificial Intelligence 2001
  - Ali: Fear Eats the Soul 1974
  - [Alien](/alien-o-oitavo-passageiro) 1979
- - All About Eve 1950
+ - [A Malvada](/a-malvada-all-about-eve) (All About Eve) 1950
  - [Amadeus](/amadeus) 1984
  - Amarcord 1973
- - [Annie Hall](/noivo-neurotico-noiva-nervosa) 1977
- - [The Apartment](/se-meu-apartamento-falasse) 1960
+ - [Noivo Neurótico, Noiva Nervosa](/noivo-neurotico-noiva-nervosa) (Annie Hall) 1977
+ - [Se Meu Apartamento Falasse](/se-meu-apartamento-falasse) (The Apartment) 1960
  - Apocalypse Now 1979
  - Pather Panchali 1955
  - Army of Shadows 1969
@@ -42,16 +42,16 @@ title: Roger Ebert Great Movies
  - Baraka 1992
  - [Barry Lyndon](/barry-lyndon) 1975
  - The Battle of Algiers 1966
- - [Battleship Potemkin](/o-encouracado-potemkin) 1925
+ - [O Encouraçado Potemkin](/o-encouracado-potemkin) (Battleship Potemkin) 1925
  - Beat the Devil 1953
  - Beauty and the Beast 1946
  - Being There 1979
  - Belle de Jour 1967
  - La Belle Noiseuse 1991
  - The Best Years of Our Lives 1946
- - [Bicycle Thieves](/ladroes-de-bicicletas) 1948
+ - [Ladrões de Bicicleta](/ladroes-de-bicicletas) (Bicycle Thieves) 1948
  - The Big Heat 1953
- - [The Big Lebowski](/o-grande-lebowski) 1998
+ - [O Grande Lebowski](/o-grande-lebowski) (The Big Lebowski) 1998
  - The Big Red One 1980
  - The Big Sleep 1946
  - The Birth of a Nation 1915
@@ -63,11 +63,11 @@ title: Roger Ebert Great Movies
  - Bonnie and Clyde 1967
  - Breathless 1960
  - The Bride of Frankenstein 1935
- - [The Bridge on the River Kwai](/a-ponte-do-rio-kwai) 1957
+ - [A Ponte do Rio Kwai](/a-ponte-do-rio-kwai) (The Bridge on the River Kwai) 1957
  - Bring Me the Head of Alfredo Garcia 1974
  - Broken Blossoms 1919
  - Le Boucher 1970
- - [The Cabinet of Dr. Caligari](/o-gabinete-do-dr-caligari) 1920
+ - [O Gabinete do Dr. Caligari](/o-gabinete-do-dr-caligari) (The Cabinet of Dr. Caligari) 1920
  - Cabiria 1914
  - Caché 2005
  - Casablanca 1942
@@ -80,13 +80,13 @@ title: Roger Ebert Great Movies
  - Chop Shop 2007
  - A Christmas Story 1983
  - The Circus 1928
- - [Citizen Kane](/cidadao-kane) 1941
+ - [Cidadão Kane](/cidadao-kane) (Citizen Kane) 1941
  - City Lights 1931
  - Cléo from 5 to 7 1962
  - La Collectionneuse 1967
  - The Color Purple 1985
  - Come and See 1985
- - [Contact](/contato) 1997
+ - [Contato](/contato) (Contact) 1997
  - [The Conversation](/a-conversacao) 1974
  - Cool Hand Luke 1967
  - Cries and Whispers 1972
@@ -97,8 +97,8 @@ title: Roger Ebert Great Movies
  - Days of Heaven 1978
  - The Dead 1987
  - The Decalogue 1989
- - [Departures](/a-partida) 2008
- - [Detour](/curva-do-destino) 1945
+ - [A Partida](/a-partida) (Departures) 2008
+ - [Curva do Destino](/curva-do-destino) (Detour) 1945
  - Diary of a Country Priest 1951
  - Diary of a Lost Girl 1929
  - The Discreet Charm of the Bourgeoisie 1972
@@ -108,7 +108,7 @@ title: Roger Ebert Great Movies
  - Don't Look Now 1973
  - Double Indemnity 1944
  - The Double Life of Véronique 1991
- - [Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb](/dr-fantastico) 1964
+ - [Dr. Fantástico](/dr-fantastico) (Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb) 1964
  - Dracula 1931
  - Duck Soup 1933
  - E.T. the Extra-Terrestrial 1982
@@ -117,7 +117,7 @@ title: Roger Ebert Great Movies
  - El Norte 1983
  - El Topo 1970
  - The Enigma of Kaspar Hauser 1974
- - [Eternal Sunshine of the Spotless Mind](/brilho-eterno-de-uma-mente-sem-lembrancas) 2004
+ - [Brilho Eterno de Uma Mente Sem Lembranças](/brilho-eterno-de-uma-mente-sem-lembrancas) (Eternal Sunshine of the Spotless Mind) 2004
  - Exotica 1994
  - The Exterminating Angel 1962
  - The Fall of the House of Usher 1928
@@ -135,22 +135,22 @@ title: Roger Ebert Great Movies
  - [The General](/general) 1926
  - The Godfather 1972
  - The Godfather: Part II 1974
- - [Goldfinger](/007-contra-goldfinger) 1964
+ - [007 Contra Goldfinger](/007-contra-goldfinger) (Goldfinger) 1964
  - Gone with the Wind 1939
- - [The Good, the Bad and the Ugly](/tres-homens-em-conflito) 1966
- - [GoodFellas](/os-bons-companheiros) 1990
+ - [Três Homens em Conflito](/tres-homens-em-conflito) (The Good, the Bad and the Ugly) 1966
+ - [Os Bons Companheiros](/os-bons-companheiros) (GoodFellas) 1990
  - The Gospel According to Matthew 1964
  - Grand Illusion 1937
  - The Grapes of Wrath 1940
- - [Grave of the Fireflies](/tumulo-dos-vagalumes) 1988
+ - [Túmulo dos Vagalumes](/tumulo-dos-vagalumes) (Grave of the Fireflies) 1988
  - The Great Dictator 1940
  - Great Expectations 1946
  - Greed 1924
  - The Grey Zone 2001
- - [Groundhog Day](/feitico-do-tempo) 1993
+ - [Feitiço do Tempo](/feitico-do-tempo) (Groundhog Day) 1993
  - The Hairdresser's Husband 1990
  - Harakiri 1962
- - [A Hard Day's Night](/os-reis-do-ieieie) 1964
+ - [Os Reis do Iê-Iê-Iê](/os-reis-do-ieieie) (A Hard Day's Night) 1964
  - Heart of Glass 1976
  - Hoop Dreams 1994
  - House of Games 1987
@@ -169,7 +169,7 @@ title: Roger Ebert Great Movies
  - Jules and Jim 1962
  - Juliet of the Spirits 1965
  - Killer of Sheep 1978
- - [The Killing](/o-grande-golpe) 1956
+ - [O Grande Golpe](/o-grande-golpe) (The Killing) 1956
  - Kind Hearts and Coronets 1949
  - King Kong 1933
  - L'Atalante 1934
@@ -193,8 +193,8 @@ title: Roger Ebert Great Movies
  - The Life and Death of Colonel Blimp 1943
  - The Life of Oharu 1952
  - The Long Goodbye 1973
- - [Lost in Translation](/encontros-e-desencontros) 2003
- - [M](/m-o-vampiro-de-dusseldorf) 1931
+ - [Encontros e Desencontros](/encontros-e-desencontros) (Lost in Translation) 2003
+ - [M, O Vampiro de Dusseldorf](/m-o-vampiro-de-dusseldorf) (M) 1931
  - Magnolia 1999
  - Make Way for Tomorrow 1937
  - The Maltese Falcon 1941
@@ -224,12 +224,12 @@ title: Roger Ebert Great Movies
  - My Dinner with Andre 1981
  - My Fair Lady 1964
  - My Man Godfrey 1936
- - [My Neighbor Totoro](/meu-amigo-totoro) 1988
+ - [Meu Amigo Totoro](/meu-amigo-totoro) (My Neighbor Totoro) 1988
  - Mystery Train 1989
  - Nanook of the North 1922
  - Nashville 1975
  - The Navigator 1924
- - [Network](/rede-de-intrigas) 1976
+ - [Rede de Intrigas](/rede-de-intrigas) (Network) 1976
  - Night Moves 1975
  - The Night of the Hunter 1955
  - Nights of Cabiria 1957
@@ -244,7 +244,7 @@ title: Roger Ebert Great Movies
  - Our Hospitality 1923
  - Out of the Past 1947
  - Pale Flower 1964
- - [Pan's Labyrinth](/o-labirinto-do-fauno) 2006
+ - [O Labirinto do Fauno](/o-labirinto-do-fauno) (Pan's Labyrinth) 2006
  - Pandora's Box 1929
  - Paris, Texas 1984
  - The Passion of Joan of Arc 1928
@@ -258,20 +258,20 @@ title: Roger Ebert Great Movies
  - [Pink Floyd: The Wall](/pink-floyd-the-wall) 1982
  - Pinocchio 1940
  - [Pixote](/pixote-a-lei-do-mais-fraco) 1981
- - [Planes, Trains and Automobiles](/antes-so-do-que-mal-acompanhado) 1987
+ - [Antes Só do que Mal Acompanhado](/antes-so-do-que-mal-acompanhado) (Planes, Trains and Automobiles) 1987
  - PlayTime 1967
  - The Pledge 2001
  - A Prairie Home Companion 2006
  - The Producers 1967
- - [Psycho](/psicose) 1960
+ - [Psicose](/psicose) (Psycho) 1960
  - [Pulp Fiction](/pulp-fiction-tempo-de-violencia) 1994
  - Raging Bull 1980
- - [Raiders of the Lost Ark](/os-cacadores-da-arca-perdida) 1981
+ - [Os Caçadores da Arca Perdida](/os-cacadores-da-arca-perdida) (Raiders of the Lost Ark) 1981
  - Raise the Red Lantern 1991
  - Ran 1985
  - Rashomon 1950
- - [Rear Window](/janela-indiscreta) 1954
- - [Rebel Without a Cause](/juventude-transviada) 1955
+ - [Janela Indiscreta](/janela-indiscreta) (Rear Window) 1954
+ - [Juventude Transviada](/juventude-transviada) (Rebel Without a Cause) 1955
  - Red Beard 1965
  - Red River 1948
  - The Red Shoes 1948
@@ -288,7 +288,7 @@ title: Roger Ebert Great Movies
  - Samurai Rebellion 1967
  - Sansho the Bailiff 1954
  - Santa Sangre 1989
- - [Saturday Night Fever](/os-embalos-de-sabado-a-noite) 1977
+ - [Os Embalos de Sábado à Noite](/os-embalos-de-sabado-a-noite) (Saturday Night Fever) 1977
  - Say Anything... 1989
  - [Scarface](/scarface) 1983
  - The Scarlet Empress 1934
@@ -308,16 +308,16 @@ title: Roger Ebert Great Movies
  - The Silence 1963
  - Singin' in the Rain 1952
  - Smiles of a Summer Night 1955
- - [Snow White and the Seven Dwarfs](/branca-de-neve-e-os-sete-anoes) 1937
+ - [Branca de Neve e Os Sete Anões](/branca-de-neve-e-os-sete-anoes) (Snow White and the Seven Dwarfs) 1937
  - [Solaris](/solaris) (1972)
- - [Some Like It Hot](/quanto-mais-quente-melhor) 1959
+ - [Quanto Mais Quente Melhor](/quanto-mais-quente-melhor) (Some Like It Hot) 1959
  - Souls for Sale 1923
  - The Spirit of the Beehive 1973
- - [Spirited Away](/a-viagem-de-chihiro) 2001
- - [Spring, Summer, Fall, Winter… and Spring](/primavera-verao-outono-inverno-e-primavera) 2003
+ - [A Viagem de Chihiro](/a-viagem-de-chihiro) (Spirited Away) 2001
+ - [Primavera, Verão, Outono, Inverno... e Primavera](/primavera-verao-outono-inverno-e-primavera) (Spring, Summer, Fall, Winter... and Spring) 2003
  - Stagecoach 1939
- - [Star Wars](/guerra-nas-estrelas) 1977
- - [Steamboat Bill, Jr.](/marinheiro-de-encomenda) 1928
+ - [Star Wars: Guerra nas Estrelas](/star-wars-guerra-nas-estrelas) 1977
+ - [Marinheiro de Encomenda](/marinheiro-de-encomenda) (Steamboat Bill, Jr.) 1928
  - Strangers on a Train 1951
  - Stroszek 1977
  - A Sunday in the Country 1984
@@ -326,19 +326,19 @@ title: Roger Ebert Great Movies
  - [Superman](/superman-o-filme) 1978
  - Sweet Smell of Success 1957
  - Swing Time 1936
- - [A Tale of Winter](/conto-de-inverno) 1992
+ - [Conto de Inverno](/conto-de-inverno) (A Tale of Winter) 1992
  - [Taxi Driver](/taxi-driver) 1976
  - Tender Mercies 1983
  - The Terrorist 1998
  - The Thief of Bagdad 1940
  - The Thin Man 1934
- - [The Third Man](/o-terceiro-homem) 1949
+ - [O Terceiro Homem](/o-terceiro-homem) (The Third Man) 1949
  - This Is Spinal Tap 1984
  - The Three Colors Trilogy
  - Through a Glass Darkly 1961
- - [Tokyo Story](/era-uma-vez-em-toquio) 1953
+ - [Era Uma Vez em Tóquio](/era-uma-vez-em-toquio) (Tokyo Story) 1953
  - Top Hat 1935
- - [Touch of Evil](/a-marca-da-maldade) 1958
+ - [A Marca da Maldade](/a-marca-da-maldade) (Touch of Evil) 1958
  - Touchez Pas au Grisbi 1954
  - The Treasure of the Sierra Madre 1948
  - Triumph of the Will 1935
@@ -348,7 +348,7 @@ title: Roger Ebert Great Movies
  - Unforgiven 1992
  - Vengeance Is Mine 1979
  - Veronika Voss 1982
- - [Vertigo](/um-corpo-que-cai) 1958
+ - [Um Corpo que Cai](/um-corpo-que-cai) (Vertigo) 1958
  - Victim 1961
  - Viridiana 1961
  - Vivre Sa Vie 1962
@@ -361,7 +361,7 @@ title: Roger Ebert Great Movies
  - Wings of Desire 1987
  - Winter Light 1963
  - Withnail & I 1987
- - [The Wizard of Oz](/o-magico-de-oz) 1939
+ - [O Mágico de Oz](/o-magico-de-oz) (The Wizard of Oz) 1939
  - Woman in the Dunes 1964
  - A Woman Under the Influence 1974
  - A Woman's Tale 1991
