@@ -4,7 +4,6 @@ categories:
 date: '2022-11-20T16:10:12-03:00'
 link: https://youtu.be/i9Focx4UXnc
 tags:
-- draft
 - ccpp
 title: Passagem de Parâmetros C vs C++
 ---
