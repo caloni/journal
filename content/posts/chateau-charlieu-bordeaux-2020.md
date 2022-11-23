@@ -3,7 +3,6 @@ categories:
 - wine
 date: '2022-11-21T20:12:21-03:00'
 tags:
-- draft
 title: Château Charlieu Bordeaux 2020
 ---
 
