@@ -82,7 +82,7 @@ title: Roger Ebert Great Movies
  - The Circus 1928
  - [Cidadão Kane](/cidadao-kane) (Citizen Kane) 1941
  - City Lights 1931
- - Cléo from 5 to 7 1962
+ - [Cléo das 5 às 7](/cleo-das-5-as-7) (Cléo from 5 to 7) 1962
  - La Collectionneuse 1967
  - The Color Purple 1985
  - Come and See 1985
