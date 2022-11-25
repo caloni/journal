@@ -3,7 +3,6 @@ categories:
 - blog
 date: '2022-11-22T21:02:51-03:00'
 tags:
-- draft
 - ccppbr
 title: RIP Basílio Miranda
 ---
