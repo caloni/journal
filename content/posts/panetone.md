@@ -1,9 +1,7 @@
 ---
 categories:
-- food
 - recipes
 date: '2019-12-11'
-link: https://youtu.be/bLA2hUJvX6s
 tags:
  - draft
 title: Panetone
@@ -11,34 +9,92 @@ title: Panetone
 
 O segredo para conseguir fazer um panetone de sucesso é tempo, pois dado tempo suficiente a massa dará sinais de vida. Porém, mais do que isso: a longa fermentação é benéfica para um pão mais aromático, especialmente se usado fermento natural. O processo todo pode demorar de um a dois dias, dependendo da estratégia adotada. De qualquer forma, é necessário se preparar psicologicamente e aproveitar o momento sem pressa.
 
-## A Véspera
+# A Véspera
 
 Quando chegar a hora de pôr a mão na massa devem estar preparados: isca de fermento, recheio de frutas, essência de panetone. Todos com pelo menos 8 horas de antecedência.
 
-Para a isca de fermento misture 50g de farinha, 50g de água e 25g de fermento natural. Pode usar uma pitada de fermento seco se estiver sem o natural ou ele estiver fraco. Deixe pelo menos 8 horas fermentando, quando ele deverá estar ativo e cheio de ar.
+## Isca
 
-Para o recheio de frutas junte 60g de uvas passas pretas, 40g de frutas cristalizadas e 40g de água ou uma bebida alcoólica, como rum preto. O ideal é deixar várias horas essa mistura, pelo menos 8, para que as frutas absorvam o líquido. Essa mistura pode levar baunilha ou essência, raspas de limão e laranja, entre outros. Tenha em mente que é o que irá ser colocado no panetone. Para o chocotone pese a mesma quantidade em gotas de chocolate, podendo fazer imersão na essência de panetone, baunilha ou outros sabores.
+Para a isca de fermento misture 50g de farinha, 50g de água e 25g de fermento natural ou 3g de fermento instantâneo seco (uma colher de chá cheia). Deixe pelo menos 8 horas fermentando, quando ele deverá estar ativo e cheio de ar. Para seguir com o polish, mais aromático e com longa fermentação, deixe uma hora em temperatura ambiente e na geladeira de 16 a 24 horas. Retire da geladeira um pouco menos de uma hora antes de usar.
 
-Para a essência misture em uma panela raspas de um limão e seu suco, raspas de duas laranjas e o suco de apenas uma (chupe a outra), noz-moscada a gosto, 100ml de açúcar, 100ml de água e 200ml de rum com dois paus de canela. A baunilha poderá ser colocada aqui também, desde que dosado com o resto dos ingredientes. Misture e ligue o fogo, cozinhando em fogo baixo até reduzir cerca de 3/4 do líquido ou até ele ficar com uma "aparência de xarope". Cuidado para não caramelizar. Coe todos os ingredientes e guarde num potinho na geladeira por até duas semanas.
+## Recheio
 
-Você pode testar variações do recheio e da essência, até porque o chocotone não leva frutas, mas elas podem ser usadas para gerar a essência, por exemplo. O importante aqui é não sobrecarregar o pão com muito recheio para que ele consiga crescer e ao mesmo tempo conter uma boa proporção de sabor e aroma.
+Se o recheio for de frutas junte 60g de uvas passas pretas, 40g de frutas cristalizadas e 40g de água ou uma bebida alcoólica, como rum preto. Deixe descansando pelo menos 8 horas essa mistura para que as frutas absorvam o líquido. Pode adicionar baunilha ou essência de panetone, raspas de limão e laranja, entre outros. Tenha em mente que é o que irá ser colocado no panetone. Se o recheio for de chocolate pese a mesma quantidade em gotas de chocolate e incorpore na massa após a sova.
 
-## O Dia
+## Essência
 
-Prepare e separe os ingredientes, pois sua mão irá ficar melequenta: agora é hora de preparar a massa. Junte 200g de farinha de trigo branca, a isca de fermento e 125 g de gemas, aproximadamente sete ovos. Adicione 3g de fermento biológico seco, o que dá uma colher de chá cheia, 3g de sal, o que dá um terço da mesma colher de chá, e 3g de mel, o que dá uma colher de café. Hora de sovar como homem por uns 10 minutos até a massa desenvolver glúten, o famoso teste do véu de noiva, e ficar elástica. Usando apenas as gemas é certeza que vai grudar na mesa, mas o importante é não colocar mais farinha para não ficar muito seco o resultado.
+Para a essência misture em uma panela raspas de um limão e seu suco, raspas de duas laranjas e o suco de apenas uma (chupe a outra), noz-moscada a gosto, 100ml de açúcar, 100ml de água e 200ml de rum com dois paus de canela. Baunilha pode ser colocada aqui também, desde que dosada com o resto dos ingredientes. Misture e ligue o fogo, cozinhando em fogo baixo até reduzir cerca de 3/4 do líquido ou até ele ficar com uma "aparência de xarope". Cuidado para não caramelizar. Coe todos os ingredientes e guarde num potinho na geladeira por até duas semanas.
 
-Uma possibilidade usada na última tentativa (2020-12-21) foi desenvolver o glúten antes de adicionar as gemas. Para isso foi usada uma combinação de 100g de farinha com cerca de 75g de água (não tenho certeza sobre esse nível de hidratação, o tempo estava seco). Você deve ser experiente em sova e conseguir sentir que o nível de hidratação da farinha está equilibrada, nem muito seca, nem quase saturada. Nesse estado ela é fácil de manusear e levemente grudenta (só gruda no pomo da mão na hora de esticar). Com isso você deve conseguir gerar um glúten poderoso, quando a massa fica com aspecto daquela coisa grudenta do jogo Portal, ou seja, o véu de noiva se formar facilmente, ela estar muito elástica, sua coloração mudar para bem branco e o barulho que ela faz já é diferente de uma massa quebradiça. Com isso a base estará bem forte e você pode adicionar as gemas e o resto da farinha, onde é o momento que se deve acertar novamente o nível de hidratação; se precisar coloque mais farinha, mas com um glúten bem desenvolvido a necessidade deve diminuir. O que é ótimo, o objetivo é manter o máximo de hidratação com um glúten poderoso para embarcar todos os outros ingredientes pesados.
+## Testes
 
-Depois que a massa estiver estável com glúten desenvolvido é hora de ir adicionando os ingredientes mais pesados aos poucos, aglutinando enquanto se mexe, um seguido do outro: 60g de açúcar e 60g de manteiga fria cortada em cubos pequenos. Por fim o recheio, que pode ser o de frutas preparado na véspera ou o mesmo volume em chocolate para virar um chocotone e agradar todo mundo. Ah, essa é a hora também de usar a essência da geladeira, caso não tenha já juntado com o recheio. A quantidade é a gosto. Sinta o aroma.
+Você pode testar variações do recheio e da essência. O importante aqui é não sobrecarregar o pão com muito recheio para que ele consiga crescer e ao mesmo tempo conter uma boa proporção de sabor e aroma.
 
-Agora é a hora de deixar descansando durante a primeira fermentação, em uma bacia, o que deve demorar umas seis horas em temperatura ambiente. O volume deve quase dobrar. Você pode controlar o tempo colocando na geladeira para uma fermentação mais lenta e de acordo com sua agenda.
+# O (Primeiro) Dia
 
-## Prólogo
+Prepare e separe os ingredientes, pois sua mão irá ficar melequenta: isca de fermento; 200g de farinha de trigo branca; 15g de leite em pó para a maciez; 125g de gemas, aproximadamente sete ovos, ou ovos inteiros; 3g de fermento biológico seco, o que dá uma colher de chá cheia; 3g de sal, o que dá um terço da mesma colher de chá; 3g de mel, o que dá uma colher de café; 60g de açúcar; 60g de manteiga; recheio; essência; baunilha a gosto.
 
-Depois de pronta a massa e passada pela primeira fermentação é hora de tirá-la da bacia para uma mesa untada com azeite, se necessário, e dobrá-la nela mesma, exatamente como um pão; fazer aquela bolinha e colocar gentilmente na forminha de panetone. Agora é a hora de deixar descansando durante a segunda fermentação, dentro da forma que irá para o forno, em local quente. O volume deve também quase dobrar.
+Misture a isca, a farinha, as gemas ou ovos, o fermento seco, o sal, o mel, o açúcar. Depois de incorporar tudo em uma bacie coloque na bancada e sove como um homem por uns 10 minutos até a massa desenvolver glúten, o famoso teste do véu de noiva, e ficar elástica. Usando apenas as gemas é certeza que vai grudar na mesa, mas o importante é não colocar mais farinha para não ficar muito seco o resultado. Quando estiver elástico adicione a manteiga e sove mais um pouco. Seu objetivo é conseguir um véu de noiva bem forte. O objetivo é manter o máximo de hidratação com um glúten poderoso para embarcar todos os ingredientes pesados.
 
-Caso o crescimento tenha dado errado no primeiro ou segundo estágio há adaptações para salvar a receita. Você pode criar nova isca com fermento seco e após algumas horas juntar com a massa (funcionou uma vez quando parecia que a massa não crescia nada). Outra opção que também funcionou foi ligar o forno por uns 10 minutos, desligar e deixar as formas dentro para que a cultura de fermento se multiplique mais rápido, ou pelo menos ative. Cuidado apenas para não assar nesse momento.
+Quando a massa estiver assim coloque o resto dos ingredientes, como o recheio e a essência. Forme uma bola e coloque em um pote hermético descansando por cerca de seis horas em temperatura ambiente. Esta é a primeira fermentação. Ao final o volume deve quase dobrar. Você pode controlar o tempo colocando na geladeira para uma fermentação mais lenta e de acordo com sua agenda, lembrando de retirar pouco menos de uma hora antes de usá-la.
 
-Quando a massa estiver quase dobrando preaqueça o forno de 160 a 170 graus. Unte com ovo o topo do panetone, faça um corte em X e coloque no meio um cubinho de manteiga por cima. Pronto, agora ele pode ir para o forno por meia-hora até uma hora se for necessário. A massa deve dourar, mas não antes de meia-hora. Se dourar antes coloque um papel alumínio para não dourar demais e aguarde assar o resto, medindo com um termômetro ou enfiando um pauzinho no meio e verificando a consistência como um bolo.
+# O (Segundo) Dia
 
-Quando for retirar do forno é aconselhável deixar ele esfriando de ponta-cabeça para diminuir o risco de desabar. A esse método damos o nome de morcegar o panetone. Para isso você pode enfiar dois desses espetinhos de churrasco na base, um de cada lado, e usá-los para pendurar o panetone de ponta cabeça em qualquer lugar que você conseguir.
+Depois de fermentada a massa é hora de colocar em uma mesa untada com azeite ou um pouco de farinha se necessário. Faça as divisões por panetone e dobre cada um deles em torno de si mesmo, exatamente como um pão: fazer aquela bola e colocar gentilmente na forminha. Agora é a hora de deixar descansando na forma, a segunda fermentação. O volume também deve dobrar.
+
+Quando a massa estiver quase dobrando preaqueça o forno de 160 a 170 graus. Misture um ovo e use-o para untar o topo da massa; faça um corte em X em cima e coloque no meio, por cima, um cubinho de manteiga. Pronto, agora ele pode ir para o forno de meia-hora até uma hora se for necessário. A massa deve dourar, mas não antes de meia-hora. Se dourar antes coloque um papel alumínio para não dourar demais e aguarde assar o resto, medindo com um termômetro ou enfiando um palitinho no meio e verificando a consistência, exatamente como um bolo: o palito deve voltar limpo.
+
+Quando for retirar do forno é aconselhável deixar ele esfriando de ponta-cabeça para diminuir o risco de desabar e ainda dentro do forno, mas desligado e aberto. A esse método damos o nome de morcegar o panetone. Para isso você pode enfiar dois desses espetinhos de churrasco na base, um de cada lado, e usá-los para pendurar o panetone de ponta cabeça em qualquer lugar que você conseguir. Quando já estiver frio pode voltar à posição normal. Está pronto!
+
+# Histórico
+
+## 2019-12-12
+
+Na versão alfa do panetone usei água de frutas cristalizadas com essência de baunilha com resultado fraco.
+
+## 2019-12-16
+
+Na beta já usei a essência de panetone que produzi com resultados aromáticos agradáveis. Mesmo colocando muito fermento seco a massa ainda demorou a crescer, e acredito que na próxima devo já ensacar a massa na forma e aguardar apenas pelo primeiro crescimento. Na hora de assar, muito cuidado para não queimar, e principalmente secar, pois irá perder todo o sabor molhado produzido pela essência e pela massa.
+
+## 2019-12-22
+
+Assado um panetone no mesmo dia quente, pois cresceu bem, e os outros quatro no dia seguinte, mas ao cortar eles afundaram. Não devo cortar de ponta a ponta, apenas uma pequena cruz no meio (ou nem isso).
+
+## 2020-12-13
+
+Primeira fornada, dividido em meio panetone e meio chocotone, não cresceu novamente, como na minha primeira tentativa da receita. Coloquei no forno mesmo assim ele dobrou de tamanho, mas ficou massudo.
+
+## 2020-12-15
+
+Panetone: deixei 24 horas fermentando e não cresceu a segunda massa. Preparei mais uma esponja com fermento seco para se certificar que ele estava funcionando e para dar um power na massa e misturei. Depois de quase o dia inteiro o chocotone deu sinais de vida. Ele cresceu e foi sucesso. Apenas deveria ter deixado mais uns 10 mins no forno, pois houve partes que não assaram no topo. O de frutas não cresceu tanto, mas a massa ficou agradável, menos massuda que a primeira. Preciso ver como resolver de maneira fácil a questão do crescimento. Talvez mudar de receita ou adaptar.
+
+## 2020-12-21
+
+Terceira tentativa do ano para panetone e apelei para o ativador novamente e usei um truque que vi em algum lugar de ligar o forno, desligar e colocar os panetones para crescerem quentinhos. Deu certo, mas a massa não cresceu tanto quanto poderia ou a textura não ficou elástica como poderia ficar. Deu um certo trabalho sovar, mas sovei melhor. Próxima tentativa de hoje estou pensando em sovar bem antes sem colocar as gemas para desenvolver um bom glúten e manter a sova colocando as gemas e anexando tudo.
+
+## 2020-12-25
+
+A textura do panetone ainda não está nível Bauducco, apesar do sabor e aroma estar próximo e a massa ter crescido o desejado com a estratégia de sovar antes sem as gemas. Pretendo na próxima fazer o mesmo, mas talvez não abusar da farinha. Deve haver um meio termo entre elasticidade e estrutura.
+
+## 2021-10-30
+
+Testei direto a autólise da base do panetone hidratando a farinha com 50% antes, e o resultado foi que a massa ficou úmida demais porque continuei usando a mesma quantidade de gema. Porém, essa fornada coloquei na forma inglesa (apenas teste preliminar) e algo curioso aconteceu: a massa cresceu mais rápido. No esquema de deixar a isca de fermento no começo do dia, sovar no final da tarde, aguardar até o final da noite e deixar a dobra dentro do forno pro dia seguinte logo ao acordar já pude colocar para assar. Não coloquei para morcegar, pois não sabia como, e a massa desabou um pouco. Mas havia crescido mais que o dobro e ficou fofo. Fácil de tirar depois de esfriar por completo.
+
+## 2021-11-02
+
+Segundo chocotone do ano. Usei o esquema clássico das gemas sem água. Demorou mais para crescer, umas 8 horas a mais pelo menos, e dessa vez deixei morcegando com uns hashis em cima de uma forma maior. Não desabou, mas também não cresceu tanto. Esqueci de comentar que na primeira fornada do ano queimou demais em cima, devia ter usado alumínio mais cedo.
+
+## 2021-11-06
+
+Panetone com uva passa. Autólise com menos gemas (metade). A consistência ficou próxima de com oito gemas, mas a cor menos amarela. O crescimento ficou próximo da primeira fornada, mas o segredo é dar tempo ao tempo. Uma hora sobe. Colocando no forno no tempo certo é só alegria. E tirando antes de secar. Isso é importante. Prestar atenção aos tempos.
+
+## 2021-11-10
+
+Quarto preparo do ano de panetone. Já estou confiante e fiz duas receitas de uma vez, chocotone e panetone. Deixei fazendo a autólise com gemas, mas como havia ficado muito seca a mistura adicionei um pouco mais de água (morna), ficou molenga demais, adicionei mais farinha, até ficar próximo do ponto de uma autólise com água. Se passou oito horas. Massa ótima para sovar, mas o grude na bancada sempre existirá. O segredo é relevar a limpeza. Coisas da vida. Gostei dessa massa. A isca também estava tinindo, mais que o dobro. Por via das dúvidas coloquei um pouco mais de fermento instantâneo dessa vez para observar se o crescimento muda o ritmo. Não tenho certeza sobre a mudança, pois demorou mais 48h o processo. Coloquei pra assar no final do segundo dia. O resultado ficou perfeito esteticamente, mas um pouco seco demais. Acho que porque deixei morcegando dentro do forno e a massa já tinha secado antes. Tem que colocar ainda meio molhada nesse estado.
+
+## 2021-11-18
+
+Panetone de Banana. Coloquei 200g de banana reduzida junto da massa, além de menos açúcar (40g) e um pouco de canela junto. As "frutas" foram os chocolates culinários meio-amargo mesmo. Essa massa deixei em autólise junto do fermento natural, além das gemas, um dia quente (e seco). Esse fermento natural está um pouco estranho, demorando para crescer, ou a textura está molenga. Coloquei mais pela unidade e o sabor. Ao final do dia sova com os ingredientes e vou deixar descansando até amanhã em temperatura ambiente.
+
+## 2022-11-26
+
+Voltando a fazer panetone, mas sem toda a frescura de ir colocando os ingredientes e sem o recheio de frutas ou chocolate forneável. Usei o fermento instantâneo no formato polish de um dia pro outro e mais 3g na hora de sovar. Juntei todos os ingredientes menos a manteiga e a essência, que deixei para o final depois de sentir a elasticidade. No mesmo dia já cresceu e no final já dava para assar. Cresceu até que bem. Ainda não cortei, pois acho que vou levar para a viagem para Campinas amanhã para o batizado. O bottom line é que dá para simplificar minha receita do blog. Inclusive as receitas da Isamara Amâncio e do Chef Mancuzo são diferentes.
