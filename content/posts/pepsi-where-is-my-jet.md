@@ -3,7 +3,6 @@ categories:
 - movies
 date: '2022-11-28T23:36:16-03:00'
 tags:
-- draft
 title: Pepsi, Where is my Jet?
 ---
 

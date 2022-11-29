@@ -3,7 +3,6 @@ categories:
 - books
 date: '2022-08-28T19:17:05-03:00'
 tags:
-- draft
 title: 'Bíblia Sagrada: Gênesis'
 ---
 
@@ -25,6 +24,6 @@ Tome, por exemplo, Abrão, antes de seu nome ter dois as. Esse pobre coitado que
 
 > Venham, vamos descer e confundi-los com línguas diferentes, para que não consigam mais entender uns aos outros.
 
-A Bíblia não é leitura fácil, e quanto mais antigo o livro menos fácil é para nós entendermos o que está acontecendo com aqueles humanos. Mas por ser uma ficção, assim como A Revolta de Atlas, ela se estabelece como algo maior do que uma não-ficção, que hoje soaria pedante, obscura e insensível à causa humana. Como um conjunto de historietas fiéis à visão daquela época, Gênesis nos serve como um guia espiritual para algo além do zeitgest, o espírito do tempo, onde vivemos na era da tecnologia e das libertinagens. Mas há algo além. Ler livros mais antigos nos fornece a pista para buscarmos este algo. Então, sim, ler a Bíblia te leva para mais próximo de deus.
+A Bíblia não é leitura fácil, e quanto mais antigo o livro menos fácil é para nós entendermos o que está acontecendo com aqueles humanos. Mas por ser uma ficção, assim como A Revolta de Atlas, ela se estabelece como algo maior do que uma não-ficção, que hoje soaria pedante, obscura e insensível à causa humana. Como um conjunto de historietas fiéis à visão daquela época, Gênesis nos serve como um guia espiritual para algo além da era da tecnologia e das libertinagens que vivemos. Mas há algo além. Ler livros mais antigos nos fornece a pista para buscarmos este algo. Então, sim, ler a Bíblia te leva para mais próximo de deus.
 
 E você nem precisa cortar seu pingulim.
