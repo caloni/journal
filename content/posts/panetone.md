@@ -98,3 +98,21 @@ Panetone de Banana. Coloquei 200g de banana reduzida junto da massa, além de me
 ## 2022-11-26
 
 Voltando a fazer panetone, mas sem toda a frescura de ir colocando os ingredientes e sem o recheio de frutas ou chocolate forneável. Usei o fermento instantâneo no formato polish de um dia pro outro e mais 3g na hora de sovar. Juntei todos os ingredientes menos a manteiga e a essência, que deixei para o final depois de sentir a elasticidade. No mesmo dia já cresceu e no final já dava para assar. Cresceu até que bem. Ainda não cortei, pois acho que vou levar para a viagem para Campinas amanhã para o batizado. O bottom line é que dá para simplificar minha receita do blog. Inclusive as receitas da Isamara Amâncio e do Chef Mancuzo são diferentes.
+
+## 2022-11-30
+
+Fiz panetone com ovos inteiros. Acabou que apenas três ovos já deram 150g e tive que completar com mais 40g de farinha para manter a proporção na hidratação. Junto dos 15g de leite em pó a massa ficou um algodão, leve e desfiando. Duas coisas a serem melhoradas é ele queimar embaixo e em cima, acho que por conta da temperatura ainda elevada mesmo na temperatura mínima do forno, e o sabor, que ainda ficou ligeiramente seco e sem aroma nem recheio. Creio que dá para manter a porta do forno ligeiramente aberta para o problema 1 e colocar mais recheio, talvez chocolate em pó e algo mais aromático (ainda não sei o quê) para o problema 2. Porém, os ovos inteiros não foram o problema e podemos seguir dessa forma. Dá para salvar os 25g do terceiro ovo para untar o topo antes de ir para o forno.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
