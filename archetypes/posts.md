@@ -1,8 +1,7 @@
 ---
 categories:
-- none
 date: '{{ .Date }}'
+draft: true
 tags:
-- draft
 title: {{ replace .TranslationBaseName "-" " " | title }}
 ---

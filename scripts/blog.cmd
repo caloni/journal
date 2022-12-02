@@ -4,7 +4,7 @@ git commit -m "new posts, updates and promotions. %*"
 git pull
 git push
 
-hugo
+hugo -D
 
 pushd public
 git add -f tags

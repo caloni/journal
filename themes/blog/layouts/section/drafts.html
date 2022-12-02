@@ -8,7 +8,7 @@
     {{ partial "section_begin.html" . }}
     {{ partial "filter.html" . }}
     {{ partial "list_begin.html" . }}
-    {{ range first .Site.Params.home.postsCount (where .Site.RegularPages "Draft" false) }}
+    {{ range first .Site.Params.home.postsCount (where .Site.RegularPages "Draft" true) }}
         <tr><td><b><a href="{{ .Permalink }}" title="">{{ if .Title }}{{ .Title }}{{ else }}{{ .File.TranslationBaseName }}{{ end }}</a></b><small><i> 
         {{ .Params.date.Format "2006-01-02" }} {{ with .Params.categories }} {{ . }} {{ end }} {{ with .Params.tags }} {{ . }} {{ end }} {{ .Summary }} </small></i>
         </td></tr>
