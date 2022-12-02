@@ -3,7 +3,6 @@ categories:
 - recipes
 date: '2022-02-06'
 tags:
- - draft
 title: Como fazer pão
 ---
 
@@ -29,7 +28,7 @@ Ao adicionar fermento na farinha e água a levedura se alimenta do amido encontr
 
 # Sal
 
-O sal irá dar sabor e controle nessa mistura. Ele também mantém o crescimento da levedura sob controle, já que sal mata algumas dessas bactérias. De maneira oposta, adicionar outros açúcares na massa contribui para o maior desenvolvimento da cultura.
+O sal irá realçar o sabor e controlar o crescimento da levedura, já que sal mata algumas dessas bactérias. É semelhante, de maneira oposta, adicionar outros açúcares na massa para contribuir com um maior crescimento da cultura de bactérias.
 
 # Forno
 

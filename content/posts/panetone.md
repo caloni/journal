@@ -3,7 +3,6 @@ categories:
 - recipes
 date: '2019-12-11'
 tags:
- - draft
 title: Panetone
 ---
 
@@ -15,7 +14,7 @@ Quando chegar a hora de pôr a mão na massa devem estar preparados: isca de fer
 
 ## Isca
 
-Para a isca de fermento misture 50g de farinha, 50g de água e 25g de fermento natural ou 3g de fermento instantâneo seco (uma colher de chá cheia). Deixe pelo menos 8 horas fermentando, quando ele deverá estar ativo e cheio de ar. Para seguir com o polish, mais aromático e com longa fermentação, deixe uma hora em temperatura ambiente e na geladeira de 16 a 24 horas. Retire da geladeira um pouco menos de uma hora antes de usar.
+Para a isca de fermento misture 50g de farinha, 50g de água e 25g de fermento natural ou 3g de fermento instantâneo seco (uma colher de chá cheia). Deixe fermentando por cerca de 1h, quando ele deverá estar ativo e cheio de ar. Para seguir com o polish, mais aromático e com longa fermentação, deixe uma hora em temperatura ambiente e na geladeira de 16 a 24 horas. Retire da geladeira um pouco menos de uma hora antes de usar.
 
 ## Recheio
 
@@ -41,9 +40,9 @@ Quando a massa estiver assim coloque o resto dos ingredientes, como o recheio e 
 
 Depois da massa fermentada, tendo crescido cerca do dobro, é hora de colocar em uma mesa untada com azeite ou um pouco de farinha se necessário. Faça a divisão da massa por panetone pelo peso, dando 10% de sobra, que é o peso que será perdido no forno. Por exemplo, para panetones de 500g reserve 550g de massa. Dobre cada um dos pedaços em torno de si mesmo, exatamente como um pão: fazer aquela bola (bolear) e colocar gentilmente na forminha. Agora é a hora de deixar descansando na forma, a segunda fermentação, onde a massa também deve mais que dobrar, atingindo o topo da forma pelo centro.
 
-Quando a massa estiver quase dobrando preaqueça o forno de 160 a 170 graus. Faça um pequeno corte em X em cima e coloque por cima um cubinho de manteiga. Algumas receitas também untam ovo por cima. Agora ele pode ir para o forno de meia-hora até uma hora se for necessário. A massa deve dourar, mas não antes de meia-hora. Se dourar antes coloque um papel alumínio para não dourar demais e aguarde assar o resto, medindo com um termômetro ou enfiando um palitinho no meio e verificando a consistência, exatamente como um bolo: o palito deve voltar quase limpo. Esse é o momento mais delicado para você não deixar o panetone muito seco.
+Quando o centro da massa estiver no topo da forma preaqueça o forno de 160 a 170 graus. Faça um pequeno corte em X em cima e coloque por cima um cubinho de manteiga. Algumas receitas também untam ovo por cima. Agora ele pode ir para o forno de meia-hora até uma hora se for necessário. A massa deve dourar, mas não antes de meia-hora. Se dourar antes coloque um papel alumínio para não dourar demais e aguarde assar o resto, medindo com um termômetro ou enfiando um palitinho no meio e verificando a consistência, exatamente como um bolo: o palito deve voltar quase limpo. Esse é o momento mais delicado para você não deixar o panetone muito seco.
 
-Quando for retirar do forno é aconselhável deixar ele esfriando de ponta-cabeça para diminuir o risco de desabar e ainda dentro do forno, mas desligado e aberto. A esse método damos o nome de morcegar o panetone. Para isso você pode enfiar dois desses espetinhos de churrasco na base, um de cada lado, e usá-los para pendurar o panetone de ponta cabeça em qualquer lugar que você conseguir. Quando já estiver frio pode voltar à posição normal. Está pronto!
+Quando for retirar do forno é aconselhável deixar ele esfriando de ponta-cabeça para diminuir o risco de desabar. A esse método damos o nome de morcegar o panetone. Para isso você pode enfiar dois desses espetinhos de churrasco na base, um de cada lado, e usá-los para pendurar o panetone de ponta cabeça em qualquer lugar que você conseguir. Quando já estiver frio pode voltar à posição normal. Está pronto!
 
 # Histórico
 
