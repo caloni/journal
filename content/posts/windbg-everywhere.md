@@ -54,7 +54,7 @@ Com essa premissa me vem à mente os seguintes cenários:
 
 ## [Serviços no limite da existência](https://www.infoq.com/br/presentations/depurando-ate-o-fim-do-mundo/)
 
- - I get by with a [little help](/kernel-mode-user-mode/) [from my kernel](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/controlling-the-user-mode-debugger-from-the-kernel-debugger).
+ - I get by with a [little help](/kernel-mode-user-mode) [from my kernel](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/controlling-the-user-mode-debugger-from-the-kernel-debugger).
 
 ## Profiling
 

@@ -23,4 +23,4 @@ E se, por fim, a maioria do filme prever o final não-feliz é uma atitude coraj
 [filmes]: /star-wars-episodio-ii-ataque-dos-clones
 [nova]: /o-imperio-contra-ataca
 [trilogia]: /o-retorno-de-jedi
-[uma]: /guerra-nas-estrelas
+[uma]: /star-wars-guerra-nas-estrelas
