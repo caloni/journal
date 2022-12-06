@@ -1,9 +1,11 @@
 ---
-categories: null
+categories:
+ - blog
 date: '2022-12-04T23:13:20-03:00'
 draft: true
 link: https://coletivocritico.com
-tags: null
+tags:
+ - mostra
 title: Natália Bocanera
 ---
 
