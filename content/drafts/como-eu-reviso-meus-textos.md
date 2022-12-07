@@ -1,7 +1,7 @@
 ---
 categories:
+ - blog
 date: '2022-12-04T20:56:46-03:00'
-draft: true
 tags:
 title: Como Eu Reviso Meus Textos
 ---
@@ -18,7 +18,7 @@ Mas devaneio. O que eu gostaria de falar neste post é mais sobre o operacional,
 
 Vou começar descrevendo o que eu faço para publicar novos posts. Bem, eu utilizo o [publicador hugo](https://gohugo.io/), que transforma meus arquivos texto em páginas html estáticas, o que permite colocar em qualquer servidor de arquivos. A partir daí é apenas a boa e velha navegação Web 1.0 com alguns poucos scripts para auxiliar nas buscas.
 
-Para começar um novo post no hugo existe um comando. Este comando é automatizado por mim em um script em que ele já usa um modelo de arquivo com a marcação de rascunho ligada, o que quer dizer que o post se publicado nesse momento não irá aparecer na lista de novidades, já que eu retiro os rascunhos de lá. No entanto, eu mantenho um link publicado apenas para esses rascunhos, por comodidade e porque eu acredito que o processo de escrever texto é muito próximo de escrever código: não há versão final. O que chamamos de final é a melhor versão que conseguimos publicar neste momento, mas sempre é possível melhorar. É por isso que os rascunhos ficam publicados. Não que alguém mereça lê-los. Considere esses textos como minha branch de desenvolvimento, que no caso de um escritor solitário se confunde com a master. Se houvesse um grupo de escritores trabalhando para este blog provavelmente teríamos uma develop e uma master.
+Para começar um novo post no hugo existe um comando. Este comando é automatizado por mim em um script em que ele já usa um modelo de arquivo com a marcação de rascunho ligada, o que quer dizer que o post se publicado nesse momento não irá aparecer na lista de novidades, já que eu retiro os rascunhos de lá. No entanto, eu mantenho uma lista apenas para esses rascunhos, por comodidade e porque eu acredito que o processo de escrever texto é muito próximo de escrever código: não há versão final. O que chamamos de final é a melhor versão que conseguimos publicar neste momento, mas sempre é possível melhorar. É por isso que os rascunhos ficam publicados. Não que alguém mereça lê-los. Considere esses textos como minha branch de desenvolvimento, que no caso de um escritor solitário se confunde com a master. Se houvesse um grupo de escritores trabalhando para este blog provavelmente teríamos uma develop e uma master.
 
 Pois bem. Rascunhos são importantes, mas precisam se manter à distância até que tenhamos uma versão minimamente publicável: um release. Antes que isso aconteça os posts vão sendo publicados em um cantinho à parte, e junto disso eu publico dois livros digitais para uso próprio que vão para meu leitor de ebooks. Um deles contém todos os posts e uso para referência offline. O outro, mais atualizado, é minha branch develop. Ele contém apenas os rascunhos. Que eu preciso ler para poder retrabalhar. E é por isso que ele existe. Eu lerei no momento oportuno, mas, e isso é importante, nunca na hora de escrever. A hora da leitura crítica do próprio texto deve ser diferente e distante da hora da escrita. Por quê isso? Para que o leitor e escritor não se confundam. É preciso haver esse distanciamento para aguçar nosso lado crítico, de quem lê o texto de outra pessoa e acha que poderia ser melhor. No momento de ler meus próprios rascunhos eu sou o revisor deste Pull Request.
 
