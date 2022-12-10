@@ -1,8 +1,8 @@
 ---
-categories: null
+categories:
+ - movies
 date: '2022-12-07T17:31:11-03:00'
-draft: true
-tags: null
+tags:
 title: A Familia Addams 2
 ---
 

@@ -1,8 +1,8 @@
 ---
-categories: null
+categories:
+ - movies
 date: '2022-12-10T15:39:01-03:00'
-draft: true
-tags: null
+tags:
 title: Memórias Póstumas de Brás Cubas
 ---
 
