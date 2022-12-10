@@ -2,6 +2,7 @@
 categories:
 - recipes
 date: '2019-12-11'
+draft: true
 tags:
 title: Panetone
 ---
@@ -102,16 +103,6 @@ Voltando a fazer panetone, mas sem toda a frescura de ir colocando os ingredient
 
 Fiz panetone com ovos inteiros. Acabou que apenas três ovos já deram 150g e tive que completar com mais 40g de farinha para manter a proporção na hidratação. Junto dos 15g de leite em pó a massa ficou um algodão, leve e desfiando. Duas coisas a serem melhoradas é ele queimar embaixo e em cima, acho que por conta da temperatura ainda elevada mesmo na temperatura mínima do forno, e o sabor, que ainda ficou ligeiramente seco e sem aroma nem recheio. Creio que dá para manter a porta do forno ligeiramente aberta para o problema 1 e colocar mais recheio, talvez chocolate em pó e algo mais aromático (ainda não sei o quê) para o problema 2. Porém, os ovos inteiros não foram o problema e podemos seguir dessa forma. Dá para salvar os 25g do terceiro ovo para untar o topo antes de ir para o forno.
 
+## 2022-12-08
 
-
-
-
-
-
-
-
-
-
-
-
-
+Testando primeiro de frutas esse ano com algumas modificações. Deixei a massa crescendo na geladeira da noite pro dia. Usei os 40ml de rum junto das frutas, mas acabei não dando tempo da uva em passas absorver, além de ter misturado sem tirar o excesso do suco restante. Usei pela primeira vez essência de panetone industrial mais a baunilha. E estou fazendo com ovos inteiros desde que descobri não haver problemas. O primeiro resultado visual é que demorou muito para crescer, o dia inteiro, e não chegou ao topo, mesmo deixando na luzinha por boa parte da tarde e noite. Testei deixar o forno bem baixo, mas acho que ficou um pouco abaixo do necessário, então fui aumentando aos poucos. Experimentando. Ficou um pouco seco, mas não por ter assado demais. Faltou ar, mesmo. Da próxima vez dá pra colocar mais essência e não jogar o rum direto na massa. E lembrar de já ativar o crescimento desde o começo.
