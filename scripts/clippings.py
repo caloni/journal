@@ -13,7 +13,7 @@ else:
 
 # todo: parse clippings to clip lines
 lines = []
-with open(dst) as file:
+with open(dst, encoding='utf-8') as file:
   lines = file.readlines()
 
 clips = []
