@@ -4,7 +4,7 @@ git commit -m "new posts."
 git pull
 git push
 
-hugo -D
+hugo -D --cleanDestinationDir
 
 pushd public
 git add -f tags

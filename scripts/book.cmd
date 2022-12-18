@@ -1,6 +1,6 @@
 @echo off
 echo Building drafts...
-hugo --buildDrafts --theme=drafts -d drafts
+hugo --buildDrafts --theme=drafts -d drafts --cleanDestinationDir
 pushd drafts
 sed -i "s/href=\"\//href=\"#/g" index.html
 sed -i "s/src=\"\//src=\"/g" index.html
@@ -15,7 +15,7 @@ popd
 
 choice /M "Do you want to build the entire book (default yes in 10 seconds)?" /D Y /T 10
 if errorlevel 2 goto :eof
-hugo --buildDrafts --theme=book -d book
+hugo --buildDrafts --theme=book -d book --cleanDestinationDir
 pushd book
 sed -i "s/href=\"\//href=\"#/g" index.html
 sed -i "s/src=\"\//src=\"/g" index.html
