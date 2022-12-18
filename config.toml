@@ -15,7 +15,7 @@ theme = "blog"
     mediaType = "text/csv"
 
 [permalinks]
-    posts = "/:filename/"
+    blog = "/:filename/"
     news = "/:filename/"
 
 [params]
