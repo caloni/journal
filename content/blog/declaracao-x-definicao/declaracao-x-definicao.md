@@ -17,7 +17,7 @@ Uma diferença que eu considero crucial na linguagem C/C++ é a questão da decl
 
 Por outro lado, e mais importante ainda, é ela que permite que as funções sejam organizadas em unidades de tradução (cpps) distintas para depois se unirem durante o link, mesmo que entre elas exista uma relação de dependência indissociável:
 
-{{< image src="cdepends.gif" caption="C Dependency" >}}
+![C Dependency](/img/cdepends.gif)
 
 Existem diversas formas de entender esses dois conceitos. Eu prefiro explicar pela mesma experiência que temos quando descobrimos a divisão hardware/software:
 

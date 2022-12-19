@@ -8,7 +8,7 @@ title: Logs em serviços (e outras coisas)
 
 Já uso logs há muito tempo. Me lembro muito bem que quando programava em BASIC o "passou por aqui" já era útil. Depois de fazer muitas bibliotecas super-flexíveis de escrita em saídas diferentes, níveis configuráveis e uso do mais complexo ao mais banal, cheguei à seguinte conclusão:
 
-{{< image src="p9kH1LW.jpg" caption="" >}}
+![](/img/p9kH1LW.jpg)
 
 ### Log("Quero um log mais simples possível (de preferência ", 15, " vezes mais simples)");
 
@@ -51,7 +51,7 @@ Encapsular a saída e o comportamento de um serviço hoje em dia é algo banal. 
 
 Além de ser extremamente flexível e não ter falhado nas vezes que o utilizei, o NSSM consegue redirecionar a saída do aplicativo que encapsula como um serviço para um arquivo e rotacionar o arquivo por tamanho ou data (ou reexecução do serviço):
 
-{{< image src="v12mGG3.png" caption="" >}}
+![](/img/v12mGG3.png)
 
 Abaixo uma receitinha básica para configurar seu aplicativo:
 

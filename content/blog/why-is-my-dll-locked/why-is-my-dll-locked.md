@@ -9,7 +9,7 @@ title: Why is my DLL locked?
 
 The Windows code responsible to call DllMain for each loaded and unloaded DLLs uses an exclusive access object, the so-called mutex, to synchronize its calls. The result is that inside a process just one DllMain can be called at a given moment. This object-mutex is called "loader lock" into the Microsoft documentation.
 
-{{< image src="loader_lock.gif" caption="Loader Lock explained" >}}
+![Loader Lock explained](/img/loader_lock.gif)
 
 I wrote a [silly code] that represents quite well what I've seen in lots of production code. For many times I was unable to realize what was going on (whether because I didn't know about the loader lock or the code readability was too bad). The code say by itself: calling CreateThread inside DllMain must lock your execution forever.
 

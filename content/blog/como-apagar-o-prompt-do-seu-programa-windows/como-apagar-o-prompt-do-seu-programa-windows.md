@@ -27,6 +27,6 @@ int main()
 
 Para isso funcionar você criar um projeto console no Visual Studo. Essa opção está no Linker, System:
 
-{{< image src="uWYtwqL.png" caption="" >}}
+![](/img/uWYtwqL.png)
 
 E voilà!

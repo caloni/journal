@@ -28,7 +28,7 @@ Exatamente o que o comando se dispõe a fazer: imprimir seus argumentos na tela.
 
 Se essa mensagem fosse exibida mais de uma vez, poderíamos supor que é possível existir algum tipo de infecção na execução do aplicativo, como quando o código inicial carrega o original e volta a executar o mesmo ponto.
 
-{{< image src="codigo-malicioso.gif" caption="Código Malicioso" >}}
+![Código Malicioso](/img/codigo-malicioso.gif)
 
 O objetivo aqui é "preparar o terreno" (ficar residente) antes que o código original seja executado. Com um simples breakpoint e um simples .echo conseguimos visualizar esse tipo de ataque. Outra possibilidade é que se trata daqueles executáveis "empacotados" por meio de algum encriptador de códigos como UPX, que desempacota o código e reexecuta o ponto de entrada do executável. Claro que esse é apenas um uso que podemos fazer desses comandos.
 

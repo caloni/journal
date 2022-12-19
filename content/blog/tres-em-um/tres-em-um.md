@@ -46,11 +46,11 @@ CreateWindowEx(0, WC_LINK,
 
 Você que não está fazendo subclassing de janelas existe outra técnica que você pode utilizar: arrastar-e-soltar o controle do seu ToolBox. Qual é a graça?
 
-{{< image src="brmIxLu.png" caption="Arrastar-e-soltar controles do Windows" >}}
+![Arrastar-e-soltar controles do Windows](/img/brmIxLu.png)
 
  Outra coisa que aprendi foi como enviar mensagens ao usuário para impedir que este reinicie a máquina em momentos importantes:
 
-{{< image src="0OKkJKy.png" caption="Bloqueio de reboot no Windows Seven" >}}
+![Bloqueio de reboot no Windows Seven](/img/0OKkJKy.png)
 
 A partir do Vista temos uma nova API para fazer isso. E é muito simples:
 

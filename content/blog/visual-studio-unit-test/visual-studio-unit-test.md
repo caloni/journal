@@ -14,7 +14,7 @@ OK, parei com o merchan. Até porque não ganho nada com isso. Vamos ao código.
 
 Pelo Wizard do VS podemos criar para um projeto C++ qualquer um projeto de teste. No momento estou vendo os tipos de projeto Native Unit Test e Google Test.
 
-{{< image src="Gk5fDHB.png" caption="" >}}
+![](/img/Gk5fDHB.png)
 
 Este é nosso projeto de exemplo:
 
@@ -48,7 +48,7 @@ int main()
 
 Para conseguir testar o projeto principal adicione-o como referência.
 
-{{< image src="TbFrxIr.png" caption="" >}}
+![](/img/TbFrxIr.png)
 
 Após isso basta incluir algum header que contenha os tipos, funções, classes e métodos que deseja testar e vá criando métodos de teste dentro da classe de exemplo:
 
@@ -102,15 +102,15 @@ Por isso eu tirei a tranqueira de precompiled header do projeto de unit test, re
 
 Agora mais mágica: se você abrir a janela Test Explorer ele irá encontrar seus testes e enumerá-los!
 
-{{< image src="1ZVjQ4D.png" caption="" >}}
+![](/img/1ZVjQ4D.png)
 
 Se você já programou um pouco em Windows com C++ já deve saber o truque: como o Unit Test é uma DLL ela simplesmente exporta os símbolos necessários para que o Visual Studio encontre o que precisa. O básico que um plugin dos velhos tempos faz: exportar interfaces com um pouco de reflection.
 
-{{< image src="en6DWQp.png" caption="" >}}
+![](/img/en6DWQp.png)
 
 Se você habilitar Undecorate C++ Functions no Dependency Walker verá que ele exporta justamente uma espécie de reflection, na forma de structs:
 
-{{< image src="jiBQxZ4.png" caption="" >}}
+![](/img/jiBQxZ4.png)
 
 E se você prestar atenção na ordem de exportação desse símbolos verá que o primeiro se chama GetTestClassInfo. Acabou a magia, não é mesmo?
 

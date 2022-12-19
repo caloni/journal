@@ -84,19 +84,19 @@ Para concluir, vamos dar uma espiada nas estruturas de comparação de um progra
 
 If significa "se", ou seja, faz uma comparação, e retorna se a comparação é verdadeira (sim!) ou não (não!). Porém, o if apenas faz alguma coisa se o resultado for sim.
 
-{{< image src="if.gif" caption="If" >}}
+![If](/img/if.gif)
 
 Else significa "senão", ou seja, é o complemento do if. Lembra-se que o if só faz alguma coisa se o resultado da comparação for sim? Pois bem, o else permite fazer outra coisa se o resultado for não.
 
-{{< image src="else.gif" caption="Else" >}}
+![Else](/img/else.gif)
 
 While significa "enquanto", e é o nosso primeiro exemplo de laço, ou loop. Um loop faz constantemente a mesma coisa enquanto o resultado da comparação for sim. Uma vez que for não (pode ser a primeira, inclusive), ele não faz mais nada e o programa continua seu fluxo natural.
 
-{{< image src="while.gif" caption="While" >}}
+![While](/img/while.gif)
 
 For significa "por", com o mesmo sentido que em "ele me chutou por 5 vezes seguidas". Ele pode ter muitos usos, mas o tradicional é fazer n vezes alguma coisa, sabendo que n é um número de vezes já conhecido. Nesse caso, o loop serve apenas para repetir um determinado número de vezes uma ação, sem nunca variar esse número de vezes.
 
-{{< image src="for.gif" caption="For" >}}
+![For](/img/for.gif)
 
 ## É só isso?
 

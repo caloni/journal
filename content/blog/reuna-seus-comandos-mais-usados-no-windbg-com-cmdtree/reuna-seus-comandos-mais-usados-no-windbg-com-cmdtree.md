@@ -22,11 +22,11 @@ E eu estava justamente falando sobre essa mania dos programadores sempre acharem
 
 O resultado:
 
-{{< image src="cmdtree.png" caption=".cmdtree" >}}
+![.cmdtree](/img/cmdtree.png)
 
 E podemos usar essa janela no nosso WinDbg, cada vez mais bonitinho e cada vez mais [WYSIWYG](http://pt.wikipedia.org/wiki/Wysiwyg):
 
-{{< image src="cmdtree2.png" caption=".cmdtree2.png" >}}
+![.cmdtree2.png](/img/cmdtree2.png)
 
 Realmente não há segredos em seu uso. Esse artigo foi apenas um patrocínio do clube do WinDbg.
 

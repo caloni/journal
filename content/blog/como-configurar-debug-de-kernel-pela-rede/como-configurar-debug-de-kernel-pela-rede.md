@@ -19,7 +19,7 @@ Pesquisando sobre pessoas que tiveram o mesmo problema encontro um [post da Ophi
 
 Com uma VM de Windows 10 criada no Hyper-V, desabilite o Secure Boot pelas configurações da VM:
 
-{{< image src="hyper-v-disable-secure-boot.png" caption="" >}}
+![](/img/hyper-v-disable-secure-boot.png)
 
 Desligue a VM. Pelo meno do Hyper-V crie um novo adaptador pelo Virtual Switch Manager; esse deve apontar para um adaptador de sua máquina real, para host e target conseguirem se comunicar. Atribua esse novo adaptador à sua VM desligada e volte a ligá-la.
 

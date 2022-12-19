@@ -61,7 +61,7 @@ Como esse texto é guardado na memória de um computador, se ele só entende nú
 
 Através da nossa já conhecida tabela ASCII! Na verdade, números são armazenados na memória, mas por representarem as letras 'C', 'A', 'S' e 'A', são traduzidos de volta para o formato texto pelo Bloco de Notas, que conhece o que guardou na memória.
 
-{{< image src="W9jtDwK.gif" caption="Bloco de Notas acessando memória RAM." >}}
+![Bloco de Notas acessando memória RAM.](/img/W9jtDwK.gif)
 
 #### A memória pode guardar qualquer coisa com números
 
@@ -84,7 +84,7 @@ Na programação do dia-a-dia, as coisas funcionam da mesma forma. As tão falad
 
 Esses elementos, na memória, são um bando de número que, sem os tipos, não possuem significado algum, como podemos ver na depuração do programa abaixo:
 
-{{< image src="interpretacao-de-memoria-texto-e-numeros.png" caption="Interpretação de memória de texto e números em um programa C." >}}
+![Interpretação de memória de texto e números em um programa C.](/img/interpretacao-de-memoria-texto-e-numeros.png)
 
     Note que os números não estão aqui representados em decimal, onde se esperaria 35 e 42, pois a representação formal da memória geralmente está no formato hexadecimal, transformando esses números em 0x23 e 0x2a, respectivamente. Para entender essa diferença cabe estudar um pouco sobre base numérica, outro tema básico do programador sólido.
 

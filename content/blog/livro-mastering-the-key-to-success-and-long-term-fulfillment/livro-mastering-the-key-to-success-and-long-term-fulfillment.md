@@ -20,7 +20,7 @@ Leonard é incisivo contra a cultura americana que foca nos resultados em vez de
 
 Através de cinco dicas-chave, __instruction, practice, surrender, intentionality e the edge__, o autor nos explica a forma com que o dia-a-dia se traduz de maneira simples em como receber instrução válida para melhorar, a prática contínua, a capacidade de abrir mão do ego e obedecer às ordens do mestre de maneira honesta, a visão clara do objetivo para que não se perca no caminho, e, por fim, aquele boost temporário que irá te levar para o novo nível, sempre ligeiramente acima do anterior, e que após uma pequena queda irá lhe colocar em um novo patamar, onde através da constância irá te manter lá.
 
-{{< image src="UoDkC54.png" caption="" >}}
+![](/img/UoDkC54.png)
 
 Até o próximo boost.
 

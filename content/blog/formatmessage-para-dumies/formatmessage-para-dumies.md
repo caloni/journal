@@ -195,6 +195,6 @@ int CALLBACK wWinMain(HINSTANCE, HINSTANCE, PWSTR errNumberStr, int)
 
 ```
 
-{{< image src="rnrw5UN.png" caption="Saída do nosso projetinho" >}}
+![Saída do nosso projetinho](/img/rnrw5UN.png)
 
 Existem milhares de forma de usar essa função, como você deve ter percebido pelos parâmetros. Não seja tímido: se você conhece algum truquezinho esperto e quer compartilhar com os usuários da FormatMessage, essa é a hora!

@@ -139,7 +139,7 @@ The needed steps to test the code above are:
 
 After the attach process, the debug port is occupied, and the communication between the debugger and debuggee is made throug LPC. Bellow we can see a little illustration of how things work:
 
-{{< image src="debug-port2.gif" caption="Debug port" >}}
+![Debug port](/img/debug-port2.gif)
 
 Basically the process stay receiving debugging events (through the LPC message queue) until the final event, the process exit. Notice that if someone try to terminate the protector process the debuggee process will be terminated, too.
 

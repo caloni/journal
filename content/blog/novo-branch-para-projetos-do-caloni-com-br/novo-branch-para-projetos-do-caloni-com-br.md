@@ -9,6 +9,6 @@ Reestruturei meus projetos caseiros e coloquei todos em um branch no repositóri
 
  - bzr get http://subversion.assembla.com/svn/caloni/trunk
 
-{{< image src="nova-branch-bazaar-assembla.png" caption="" >}}
+![](/img/nova-branch-bazaar-assembla.png)
     
 Para os usuários do Subversion, ou qualquer outro controle de fonte que consiga ler um branch feito em SVN, google for it.

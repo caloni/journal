@@ -13,7 +13,7 @@ Até que veio o dia de juntar.
 
 O processo de merge de um controle de fonte supõe que os branches começaram em algum ponto em comum; do contrário não há como o controlador saber as coisas que mudaram em paralelo. Pois é achando a modificação ancestral, pai de ambos os branches, que ele irá medir a dificuldade de juntar as versões novamente. Se não existe ancestral, não existe análise. Como exemplificado na figura:
 
-{{< image src="branches-sem-ancestral.gif" caption="Branches sem ancestral" >}}
+![Branches sem ancestral](/img/branches-sem-ancestral.gif)
 
 Acontece que existe um plugin esperto que consegue migrar revisões (commits) entre branches sem qualquer parentesco. Não me pergunte como ele faz isso. Mas ele faz. E foi assim que resolvemos o problema dos branches órfãos.
 
@@ -159,4 +159,4 @@ O processo que usei foi de usar esse comando n vezes para buscar revisões de um
 
 O resultado:
 
-{{< image src="branches-com-replay.gif" caption="Branches com replay" >}}
+![Branches com replay](/img/branches-com-replay.gif)

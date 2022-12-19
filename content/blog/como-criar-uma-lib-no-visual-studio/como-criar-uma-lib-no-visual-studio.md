@@ -18,7 +18,7 @@ A partir daí, para chegar em uma LIB, já é meio caminho andado.
 
 Boa pergunta. Uma LIB, ou biblioteca, nada mais é do que um punhado de ".obj" colocados todos no mesmo arquivo, geralmente um ".lib". Esses ".obj" são o resultado da compilação de seus respectivos ".c" de origem.
 
-{{< image src="salada2.gif" caption="Salada Lib" >}}
+![Salada Lib](/img/salada2.gif)
 
 Alguns acreditam ser esse negócio de LIB uma pura perda de tempo, pois existem trocentas configurações diferentes (e incompatíveis) e trocentas compilações diferentes para gerenciar. Outros acham que o problema está no tempo de compilação, enquanto outros defendem o uso dos ".obj" de maneira separada. Esse artigo não presume que nem um nem outro seja melhor. Apenas ensina o que você precisa saber para criar sua primeira LIB usando o Visual Studio Express.
 
@@ -26,15 +26,15 @@ Vamos lá?
 
 Após abrir o VS, tudo que precisamos fazer é ir em New, Project, e escolher a configuração de "Win32 Project":
 
-{{< image src="myfirstlib.png" caption="MyFirstLib" >}}
+![MyFirstLib](/img/myfirstlib.png)
 
 A seguir, escolhemos nas opções do assistente criar uma "Static library", e desmarcamos a opção de "Precompiled header" para evitar má sorte logo no primeiro projeto de LIB (má sorte significa horas procurando erros incríveis que você só irá fazer desaparecer se recompilar tudo com o uso do famigerado "Rebuild All"; espero que isso dê certo para você, para mim não tem funcionado).
 
-{{< image src="myfirstlib2.png" caption="MyFirstLib2" >}}
+![MyFirstLib2](/img/myfirstlib2.png)
 
 E pronto! Temos um projeto de LIB completo, funcional e... um tanto inútil. Mas, calma lá. Ainda não terminamos.
 
-{{< image src="myfirstlib3.png" caption="MyFirstLib3" >}}
+![MyFirstLib3](/img/myfirstlib3.png)
 
 Conforme o programador consegue se livrar das maldições das mil dependências, aos poucos ele vai conseguindo novas funções genéricas e encaixáveis para colocar em sua coleção de objs.  Essa com certeza não é uma tarefa fácil, mas ei, quem disse que esse trampo de programador seria fácil?
 
@@ -78,11 +78,11 @@ MyFirstLib - 0 error(s), 0 warning(s)
 
 Para usar uma LIB temos inúmeras maneiras de fazê-lo. A mais simples que eu conheço é criar um novo projeto no mesmo Solution de sua LIB. Um console, por exemplo:
 
-{{< image src="myfirstlib4.png" caption="MyFirstLib4" >}}
+![MyFirstLib4](/img/myfirstlib4.png)
 
-{{< image src="myfirstlib5.png" caption="MyFirstLib5" >}}
+![MyFirstLib5](/img/myfirstlib5.png)
 
-{{< image src="myfirstlib6.png" caption="MyFirstLib6" >}}
+![MyFirstLib6](/img/myfirstlib6.png)
 
 Se você seguiu todos os passos direitinho, e eu estou assumindo que você já sabia como criar um projeto console, sua saída da compilação talvez seja mais ou menos essa:
 
@@ -103,9 +103,9 @@ Dois erros! Ele não achou os símbolos mult e sum. Mas eles estão logo ali! E 
 
 Nada a temer: tudo que temos que fazer é falar para o Solution que o projeto myfirstcmd depende do projeto myfirstlib:
 
-{{< image src="myfirstlib7.png" caption="MyFirstLib7" >}}
+![MyFirstLib7](/img/myfirstlib7.png)
 
-{{< image src="myfirstlib8.png" caption="MyFirstLib8" >}}
+![MyFirstLib8](/img/myfirstlib8.png)
 
 ```
 ------ Build started: Project: MyFirstCmd, Configuration: Debug Win32 ------

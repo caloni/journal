@@ -16,7 +16,7 @@ Escrevi esta lista de artigos sobre a evolução do sistema operacional Windows 
  - [Parte 5]
  - [Parte 5.1]
 
-{{< image src="windows_history.gif" caption="Windows History" >}}
+![Windows History](/img/windows_history.gif)
 
 [Parte 1]: /historia-do-windows-parte-10 
 [Parte 2]: /historia-do-windows-parte-20 

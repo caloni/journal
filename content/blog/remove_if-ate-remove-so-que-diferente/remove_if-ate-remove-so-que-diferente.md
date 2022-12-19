@@ -74,11 +74,11 @@ int main()
 
 ```
 
-{{< image src="AzliFSS.png" caption="RemoveIfErrado" >}}
+![RemoveIfErrado](/img/AzliFSS.png)
 
 Isso ocorre porque o comportamento do remove_if é copiar todos os elementos que retornem false (não remova) e pular elementos que retornem true (remova). No entanto, o tamanho do contêiner, e consequentemente seu ponteiro end(), permanecem o mesmo.
 
-{{< image src="JHucsWz.png" caption="RemoveIfComportamento" >}}
+![RemoveIfComportamento](/img/JHucsWz.png)
 
 De acordo com [o saite cplusplus.com](http://www.cplusplus.com/reference/algorithm/remove_if/), o algoritmo STL é previsível, simples, e por isso mesmo sujeito a otimizações do compilador:
 
@@ -150,6 +150,6 @@ int main()
 
 ```
 
-{{< image src="Q7f2N1G.png" caption="RemoveIfFunciona" >}}
+![RemoveIfFunciona](/img/Q7f2N1G.png)
 
 Esse C++... intuitivo como nunca!

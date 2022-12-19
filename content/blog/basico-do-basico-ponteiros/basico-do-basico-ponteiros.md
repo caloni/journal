@@ -22,9 +22,9 @@ De acordo com o meu amigo [Rafael](http://www.sk5.com.br), a melhor definição 
 
 Deve ter ficado óbvio, mas se não ficou: o armário é a memória RAM, as gavetas são váriáveis e as gavetas onde guardamos pedaços de papel são ponteiros, que não deixam de ser variáveis, e apontam para outras gavetas que são... adivinha? Outras variáveis!
 
-{{< image src="pointers-drawer.gif" caption="Gavetas representando posições na memória." >}}
+![Gavetas representando posições na memória.](/img/pointers-drawer.gif)
 
-{{< image src="draft-pointers-strings-arrays.jpg" caption="Draft: Pointers, Strings and Arrays" >}}
+![Draft: Pointers, Strings and Arrays](/img/draft-pointers-strings-arrays.jpg)
 
 Outros conceitos que costumo utilizar é relacionar a memória RAM com a memória do programa e contar a memória como se contam carneirinhos. Dessa forma fica fácil pelo menos entender dois conceitos fundamentais na arte dos ponteiros: memória e endereço.
 

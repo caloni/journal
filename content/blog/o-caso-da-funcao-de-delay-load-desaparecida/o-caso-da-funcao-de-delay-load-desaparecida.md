@@ -18,11 +18,11 @@ Para verificar a existência de todas as DLLs e funções necessárias para noss
 
     depends meu_executavel.exe
 
-{{< image src="depends_meu_executavel.png" caption="Depends meu executável" >}}
+![Depends meu executável](/img/depends_meu_executavel.png)
 
 Se a função ou DLL não existe no sistema, o seguinte erro costuma ocorrer (isso depende da versão do Sistema Operacional):
 
-{{< image src="loader_erro.png" caption="Loader error" >}}
+![Loader error](/img/loader_erro.png)
 
 Mas nem tudo está perdido!
 
@@ -46,11 +46,11 @@ Isso costuma sempre funcionar, sendo que tive uma grande surpresa com os seguint
 
 Isso, é claro, depois de ter checado e rechecado a existência da LIB de Delay Load na lista de LIBs a serem lincadas:
 
-{{< image src="delayimp.png" caption="delayimp.lib" >}}
+![delayimp.lib](/img/delayimp.png)
 
 Acontece que eu conheço algumas ferramentas que podem sempre me ajudar em situações de compilação e linque: Process Monitor e dumpbin. O Process Monitor pode ser usado para obter exatamente a localização da LIB que estamos tentando verificar:
 
-{{< image src="delayimpprocmon.png" caption="Delay imp ProcMon" >}}
+![Delay imp ProcMon](/img/delayimpprocmon.png)
 
 Após localizar o local, podemos listar seus símbolos, mais precisamente a função "delayLoadHelper":
 

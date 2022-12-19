@@ -16,15 +16,15 @@ O problema consistia basicamente em usar a saída do [RegMon](http://technet.mic
 
 Para iniciar, filtramos os resultados do RegMon para apenas capturar escritas no registro, não importando se falharam ou deram resultado.
 
-{{< image src="Fz9QRP1.png" caption="Filtro no RegMon" >}}
+![Filtro no RegMon](/img/Fz9QRP1.png)
 
 A partir disso executamos o registro e desregistro do componente, além da restauração do IE6, responsável por limpar a bagunça. O processo responsável por registrar componentes é o **regsvr32** e o responsável por limpar a bagunça, **rundll32**.
 
-{{< image src="Ps7V57G.png" caption="Restauração do IExplore" >}}
+![Restauração do IExplore](/img/Ps7V57G.png)
 
 Tendo a saída do RegMon exportada para formato texto, abrimos no Excel e filtramos o conteúdo pelo nome do processo. Note que existem duas instâncias de regsvr32 para usar, pois não sabemos em qual delas é danificado o registro.
 
-{{< image src="iEB0YQJ.png" caption="Filtro no Excel" >}}
+![Filtro no Excel](/img/iEB0YQJ.png)
 
 Para cada um dos filtros copiamos apenas o endereço da chave alterada para dois arquivos texto: regsvr32.txt e ierestore.txt. Usaremos esse primeiro para encontrar ocorrências no segundo, provando que um modifica o que o outro consertou.
 
@@ -53,7 +53,7 @@ find, espaço, abre aspas, end, fecha aspas, espaço, ierestore.txt, linha abaix
 
 Pronto. Parar macro. Terei que repetir isso dois milhões de vezes até o final do arquivo. Ora, então mando o Notepad++ repetir a minha macro até o final do arquivo e adio minha tendinite para os próximos anos.
 
-{{< image src="XOUfV9L.png" caption="Filtro no Notepad++" >}}
+![Filtro no Notepad++](/img/XOUfV9L.png)
 
 Só preciso agora renomear meu arquivo para .bat e executar. Posso redirecionar a saída da tela para um terceiro arquivo, de onde irei formatar minha lista de entradas no registro que foram adulteradas por ambos os programas (o registro do componente COM e a restauração do Internet Explorer).
 

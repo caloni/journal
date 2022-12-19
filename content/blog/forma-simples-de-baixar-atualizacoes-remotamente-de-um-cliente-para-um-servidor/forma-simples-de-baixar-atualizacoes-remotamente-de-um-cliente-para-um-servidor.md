@@ -51,7 +51,7 @@ c:\fileserver\fileserver.exe
 
 Para testar basta acessar o endereço via browser:
 
-{{< image src="hSnmzqv.png" caption="" >}}
+![](/img/hSnmzqv.png)
 
 ### Lado cliente
 

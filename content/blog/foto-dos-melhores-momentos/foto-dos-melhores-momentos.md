@@ -16,7 +16,7 @@ Por isso pedi encarecidamente por qualquer fragmento de tela azul (minidumps) qu
 
 Mas eis que no dia seguinte ela me liga, comentando que um funcionário, empolgado (?) pela tela azul em sua máquina, havia tirado uma foto da mesma para "recordação". Sem nenhuma cerimônia, então, pedi rapidamente que ela conseguisse essa foto para a minha coleção.
 
-{{< image src="tela-azul-de-recordacao.jpg" caption="Tela azul de recordação" >}}
+![Tela azul de recordação](/img/tela-azul-de-recordacao.jpg)
 
 A foto que ela me manda é exatamente a que está acima, apenas censurado o nome do driver, o que não vem ao caso. Assim que a recebi pude constatar o problema direto no código-fonte, corrigi-lo e enviar uma nova versão, que após alguns dias de testes se revelou bem sucedida.
 

@@ -13,7 +13,7 @@ Porém, existe um método infalível. Um método que transforma os programadores
 
 Esse método chama-se: Programa, Filho da P\*\*\*
 
-{{< image src="O2dhzNc.png" caption="" >}}
+![](/img/O2dhzNc.png)
 
 Ou, do inglês, PMF.
 

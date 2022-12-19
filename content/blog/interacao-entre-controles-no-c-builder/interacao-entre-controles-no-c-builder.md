@@ -41,4 +41,4 @@ Agora iremos fazer algo mais interessante ainda com o segundo botão. Coloque no
 
 Mais simples, impossível. E com um pouco de imaginação, o mais besta dos aplicativos pode se tornar uma utilidade do dia a dia. Até sua mãe vai adorar.
 
-{{< image src="listadecompras.gif" caption="Lista de Compras" >}}
+![Lista de Compras](/img/listadecompras.gif)

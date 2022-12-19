@@ -13,11 +13,11 @@ Assim como adquiri o Houaiss, também comprei o Babylon, um programa-dicionário
 
 O Babylon possui um mecanismo para criação de dicionários chamado Babylon Builder. É muito simples e fácil de usar (além de ser gratuito). Sabendo que possuo ambas as licenças desses dois programas me sinto mais aliviado em tentar desencriptar a base de dados do primeiro para construir um dicionário para o segundo, e assim realizar meu sonho de consumo: um Babylon com um dicionário de peso!
 
-{{< image src="houaiss-license.png" caption="Licença do Houaiss" >}}
+![Licença do Houaiss](/img/houaiss-license.png)
 
 É necessário que, na hora da instalação, seja escolhida a opção de copiar os arquivos para o disco. Estarei utilizando o path padrão de um Windows em português, que é "C:\Arquivos de Programas\Houaiss".
 
-{{< image src="houaiss-install.png" caption="Instalação do Houaiss" >}}
+![Instalação do Houaiss](/img/houaiss-install.png)
 
 A estrutura de diretórios interna da instalação é bem simples:
 
@@ -29,7 +29,7 @@ Se analisarmos o conteúdo dos arquivos dentro da pasta Dicionario vamos descobr
 
     for %i in (*.*) do type %i | less
 
-{{< image src="cmd.gif" caption="Saída dos arquivos do dicionário" >}}
+![Saída dos arquivos do dicionário](/img/cmd.gif)
 
 Sabendo que o conteúdo do dicionário está em arquivos localizados no disco, e que teoricamente o programa não deve copiar todo o conteúdo para a memória, iremos depurar o processo do dicionário de olho nas chamadas da função ReadFile quando clicarmos em uma definição de palavra.
 

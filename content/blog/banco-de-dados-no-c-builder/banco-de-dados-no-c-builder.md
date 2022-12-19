@@ -13,7 +13,7 @@ Visando preencher algumas lacunas na internet sobre esse tema iremos agora nos a
 
 Quase como um prêmio de consolação por participarmos de um sorteio que sabemos que não iremos ganhar nunca, a [Caixa Econômica Federal] generosamente oferece a opção de baixarmos todos os resultados da Mega Sena desde seu início. Iremos utilizar esse banco de dados para criar uma interface de visualização de resultados no C++ Builder.
 
-{{< image src="mega-sena.png" caption="Mega Sena Download" >}}
+![Mega Sena Download](/img/mega-sena.png)
 
 Um problema inicial está no fato que o arquivo está no formato HTML, um formato mais difícil de usarmos no C++ Builder. Portanto, irei converter este formato em algo mais maleável, como um arquivo do Microsoft Access, o famoso MDB, ou um CSV.
 
@@ -23,7 +23,7 @@ Neste tutorial vamos usar aquilo que é o configurador oficial de banco de dados
 
 Criado o MDB, podemos clicar no BDE Administrator do Painel de Controle. A única coisa que precisamos fazer é criar uma nova base de dados, e especificar seus poucos parâmetros, como o tipo de base (MSACCESS) e o path de onde está o arquivo MDB.
 
-{{< image src="bde-config.png" caption="BDE Config" >}}
+![BDE Config](/img/bde-config.png)
 
 Ah, sim, claro, também é importante colocar um nome apropriado para a base de dados: MegaSena.
 
@@ -60,7 +60,7 @@ Após todos esses componentes não-visuais terem sido inseridos no form, nada co
 
 Com isso, nossa janela já exibe o conteúdo da tabela em tempo de design:
 
-{{< image src="cppb-dbgrid.png" caption="DB Grid" >}}
+![DB Grid](/img/cppb-dbgrid.png)
 
 E é isso! Se chegamos até aqui, já sabemos o arroz com feijão de usar banco de dados com o C++ Builder. Mais para a frente podemos nos aventurar em tópicos um pouco mais avançados, como fazer buscas, navegar item a item e essas coisas que as pessoas costumam fazer com um MDB.
 

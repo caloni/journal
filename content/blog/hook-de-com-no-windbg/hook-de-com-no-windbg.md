@@ -9,7 +9,7 @@ Continuando com o tema hooks no WinDbg vamos aqui "hookear" e analisar as chamad
 
 Antes de começar, se você não sabe nada sobre COM, não deveria estar aqui, mas nunca é tarde para aprender. Pra começar, vamos dar uma olhada na representação da interface IUnknown em UML e em memória:
 
-{{< image src="iunknown_disasm.png" caption="Layout da VTable do IUnknown" >}}
+![Layout da VTable do IUnknown](/img/iunknown_disasm.png)
 
 Como podemos ver, para implementar o polimorfismo os endereços das funções virtuais de uma classe são colocados em uma tabela, a chamada vtable, famosa tanto no COM quanto no C++. Existe uma tabela para cada classe-base polimórfica, e não para cada objeto. Se fosse para cada objeto não faria sentido deixar esses endereços "do lado de fora" do leiaute. E não seria nada simples e elegante fazer uma cópia desse objeto.
 
@@ -17,7 +17,7 @@ Assim, quando você chama uma função virtual de um objeto o código em assembl
 
 Sabendo de tudo isso, agora sabemos como teoricamente proceder para colocar uns breakpoints nessas chamadas:
 
-{{< image src="iunknown_breakpoint.png" caption="Breakpoints na VTable" >}}
+![Breakpoints na VTable](/img/iunknown_breakpoint.png)
 
 Note que o breakpoint não é colocado dentro da tabela, o que seria absurdo. Uma tabela são dados e dados geralmente não são executados (eu disse geralmente). Porém, usamos a tabela para saber onde está o começo da função para daí colocar a parada nesse endereço, que por fazer parte do código da função é (quem diria!) executado.
 

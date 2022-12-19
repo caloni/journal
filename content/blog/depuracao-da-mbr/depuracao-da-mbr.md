@@ -17,7 +17,7 @@ O FreeDOS é um projeto de fonte aberto que procura criar uma réplica do sistem
 
 Para conseguirmos essa proeza é necessário reiniciarmos a máquina com algum sistema 16 bits, de preferência que caiba em um disquete. Junto com ele basta uma cópia do debug.com. Após reiniciarmos e aparecer o prompt de comando, podemos chamar o depurador e começar a diversão:
 
-{{< image src="debug.com.png" caption="Debug" >}}
+![Debug](/img/debug.com.png)
 
 A MBR fica localizada no primeiro setor do HD ativo (master). A BIOS automaticamente procura esse HD e faz a leitura usando a INT13, função da própria BIOS para leitura de disquetes e derivados.
 
@@ -54,7 +54,7 @@ Essa organização é diferente do endereço inicial da BIOS, que é por padrão
 
 Após definir corretamente os registradores, tudo que temos que fazer é escrever uma chamada à INT13 no endereço atual e executar. O conteúdo inicial do disco será escrito no endereço de memória 0000:7E00. Após isso trocamos o IP atual para esse endereço e começamos a depurar a MBR, como se estivéssemos logo após o boot da máquina.
 
-{{< image src="debug_debug.png" caption="Debug em ação" >}}
+![Debug em ação](/img/debug_debug.png)
 
 Além da MBR, muitas vezes é preciso depurar a própria BIOS para descobrir o que está acontecendo. Nesse caso, tudo que precisamos fazer é colocar o ponteiro de próxima instrução para a região de memória 0xFFFF0, que traduzido para segmento/offset fica f000:fff0 (mais explicações sobre isso talvez em um futuro artigo).
 

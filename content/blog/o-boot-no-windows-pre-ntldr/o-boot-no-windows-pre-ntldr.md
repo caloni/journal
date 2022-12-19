@@ -12,15 +12,15 @@ O meu [primeiro artigo](http://www.caloni.com.br/o-boot-no-windows-sem-windows) 
 
 Nesse caso decidi salpicar a explicação com uma boa dose de _reversing_ para aproveitarmos a caminhada e fuçarmos um pouco no funcionamento interno dos componentes de boot e ver no que dá. Antes de começar, porém, aviso que este não é um tratado sobre o sistema de boot. Eu diria que é apenas o resultado de algumas mexidas inconsequentes pelo _disassembly _do código de boot. Espero encontrar alguém tão curioso (ou mais) do que eu que compartilhe o que achou de todo esse processo. Antes de mais nada um mapinha para vermos até onde chegamos:
 
-{{< image src="boot-map.png" caption="boot-map.png" >}}
+![boot-map.png](/img/boot-map.png)
 
 Pelo visto esse foi só o começo. O próximo passo é saber como do setor de boot chegamos ao NTLDR. O que não é nenhum segredo, uma vez que o NTLDR é um arquivo que fica na pasta raiz do sistema de arquivos. Como todos sabemos, qualquer assembly 16 bits de 400 bytes de tamanho consegue ler um arquivo de 250 KB na memória e executá-lo.
 
-{{< image src="YSNdf8w.png" caption="boot-components.png" >}}
+![boot-components.png](/img/YSNdf8w.png)
 
 Se o NTLDR não conseguir ser encontrado, o seguinte erro será exibido:
 
-{{< image src="JNekHia.png" caption="error-ntldr-missing.png" >}}
+![error-ntldr-missing.png](/img/JNekHia.png)
 
 Que usuário merece ver isso?
 
@@ -38,15 +38,15 @@ Se bem que, como esse é um quase-tutorial, vão abaixo apenas algumas dicas:
 
 (3) existe um campo onde é possível obter o offset de onde está o primeiro setor dessa partição (em setores);
 
-{{< image src="EfbrmZd.png" caption="finding-part-boot.png" >}}
+![finding-part-boot.png](/img/EfbrmZd.png)
 
 (4) uma simples conversão de Little Endian e de hexadecimal para decimal nos retorna o número do setor que precisamos;
 
-{{< image src="qSx2aLD.png" caption="converting-setor.png" >}}
+![converting-setor.png](/img/qSx2aLD.png)
 
 (5) o próprio HxD nos consegue levar para esse setor, de onde podemos selecioná-lo e salvá-lo em um arquivo!
 
-{{< image src="mZoLCyZ.png" caption="first-partition-sector.png" >}}
+![first-partition-sector.png](/img/mZoLCyZ.png)
 
 Isso é tudo o que você precisa para fazer engenharia reversa do setor de boot. Bom divertimento!
 
@@ -153,7 +153,7 @@ A segunda forma de análise que exixte é para os preguiçosos que não consegue
 
 Se fuçarmos por um tempo esse código podemos encontrar várias coisas interessantes, como por exemplo a mensagem que é exibida quando o setor de boot não contém a assinatura padrão 0x55 0xAA em seu final:
 
-{{< image src="7dZZZag.png" caption="error-checking-part-sect-signature.png" >}}
+![error-checking-part-sect-signature.png](/img/7dZZZag.png)
 
  Outra coisa interessante é encontrar a sub-rotina que carrega blocos e blocos de conteúdo do disco na memória, utilizando-se para isso da [interrupção 0x13 função 0x42](http://www.ctyme.com/intr/rb-0708.htm): a leitura estendida!
 

@@ -56,4 +56,4 @@ Felizmente (e também obviamente) o pessoal do Qt já fez [uma entrada na wiki](
 
 Mas não foi o caso dessa vez. Tudo funcionou perfeitamente assim que incluí os valores da Wiki logo no começo da sessão __Visualizer__.
 
-{{< image src="3dnGwGK.gif" caption="" >}}
+![](/img/3dnGwGK.gif)

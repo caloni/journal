@@ -111,7 +111,7 @@ As opções específicas são para gerar o path completo, as barras invertidas s
 
 A partir dessa configuração já é possível compilar um projeto estando em sua pasta:
 
-{{< image src="GmIwJ19.png" caption="" >}}
+![](/img/GmIwJ19.png)
 
 Para o Visual Studio 2003 (ou qualquer um usando o devenv.com) é necessário mudar esse comando:
 
@@ -121,7 +121,7 @@ Para o Visual Studio 2003 (ou qualquer um usando o devenv.com) é necessário mu
 
 Sim, temos que escolher uma configuração (o msbuild já escolhe por você). E note que ele usa o arquivo atual (%) para compilar. Isso quer dizer que isso irá exigir do usuário de Vim abrir o sln ou o vcproj e executar o :make a partir daí. De qualquer forma, ele funciona também:
 
-{{< image src="PEr73NL.png" caption="" >}}
+![](/img/PEr73NL.png)
 
 ### Refinando a saída
 
@@ -135,15 +135,15 @@ Ele pega também os warnings, mas fazer o quê. Você não quer conviver com war
 
 VS2010:
 
-{{< image src="4FymFj0.png" caption="" >}}
+![](/img/4FymFj0.png)
 
 VS2003:
 
-{{< image src="hXaP1X8.png" caption="" >}}
+![](/img/hXaP1X8.png)
 
 Note que depois de clicar em Enter ele pula para o primeiro erro da lista:
 
-{{< image src="Xjbb5p3.png" caption="" >}}
+![](/img/Xjbb5p3.png)
 
 E para navegar na lista é como o resultado de comandos como :vimgrep. :cnext e :cprevious vão para frente e para trás na lista, sempre pulando para o ponto no código onde está o erro.
 

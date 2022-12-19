@@ -34,7 +34,7 @@ As would say my friend [Thiago], "not good".
 
 Now, when we start Msvcmon service, the process cmd.exe will be create, that on the other hand will run the msvcmon.exe target process. Cmd in this case will only wait for its imminent death.
 
-{{< image src="msvcmon-service.png" caption="MsvcMon Service" >}}
+![MsvcMon Service](/img/msvcmon-service.png)
 
 [GINA]: /gina-x-credential-provider
 [Alex Ionescu article]: http://www.alex-ionescu.com/?p=59

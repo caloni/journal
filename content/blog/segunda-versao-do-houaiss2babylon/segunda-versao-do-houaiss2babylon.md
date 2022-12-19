@@ -9,7 +9,7 @@ Depois de vários comentários de pessoas tendo problemas em converter seus dici
 
 Agora a maioria dos erros que houver será descrita por uma mensagem no seguinte formato:
 
-{{< image src="houaiss2babylonerror.png" caption="Erro no Babylon" >}}
+![Erro no Babylon](/img/houaiss2babylonerror.png)
 
 O primeiro erro acima ocorre principalmente se não houver algum Houaiss instalado que o programa possa detectar. Resolva este problema comprando um.
 

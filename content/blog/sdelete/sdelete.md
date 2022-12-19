@@ -11,13 +11,13 @@ Até aí tudo bem. Quer dizer, mais ou menos. Dados relevantes costumam ser sens
 
 Desde a versão NT o Windows segue as diretivas de segurança do C2, o que entre outras coisas quer dizer que o a reutilização de um objeto no sistema operacional será protegida. Um objeto aqui está para representar recursos da máquina em geral, como páginas de memória e setores do disco. Quando um programa pede um setor de disco livre (ou uma página de memória) para uso próprio, o Windows apaga qualquer conteúdo remanescente naquele espaço de memória, evitando assim que exista uma maneira do atacante obter dados de terceiros (e.g. arquivos protegidos ou memória do sistema) sem autorização.
 
-{{< image src="windows-new-sector.gif" caption="Novo setor do Windows" >}}
+![Novo setor do Windows](/img/windows-new-sector.gif)
 
 Ou seja, desde que o Windows esteja no comando, os dados escritos por um programa não estarão disponíveis ao usuário por meio do reaproveitamento dos setores. Ficou claro?
 
 Se ficou claro, deve ter notado o "desde que o Windows esteja no comando". Essa é uma condição sine qua non, mas que nem sempre é verdadeira. Um atacante que tenha acesso físico ao dispositivo de armazenamento (e.g. meu PenDrive) pode certamente usar outro sistema operacional (ou até mesmo o Windows em condições especiais) e vasculhar os dados que eu já apaguei, pois estes, como mostra a figura, não são apagados de fato até que um programa peça o espaço ocupado por eles.
 
-{{< image src="windows-delete-file.gif" caption="Apagando arquivo no Windows" >}}
+![Apagando arquivo no Windows](/img/windows-delete-file.gif)
 
 Para esse tipo de problema eu costumo usar um programinha esperto chamado SDelete (de Secure Delete). O que ele faz é zerar os setores não usados, da mesma forma com que o Windows faz quando um programa pede um setor não usado. Para isso, basta especificar um ou mais arquivos: sdelete <nome-do-arquivo>.
 

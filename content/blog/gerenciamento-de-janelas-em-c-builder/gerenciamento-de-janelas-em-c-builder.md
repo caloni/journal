@@ -57,7 +57,7 @@ Agora, no evento de OnClose (acho que você conhece o Object Inspector, não? Bo
 
 Pronto! Agora você decide onde termina e onde acaba sua aplicação.
 
-{{< image src="cppbuilder-forms.png" caption="C++ Builder Forms" >}}
+![C++ Builder Forms](/img/cppbuilder-forms.png)
 
 Se dermos uma olhada bem de perto no que acontece por dentro de um aplicativo que usa a VCL descobriremos que o método Run de Application nada mais é que o loop de mensagens que [já conhecemos].
 
@@ -112,9 +112,9 @@ Podemos bater essas informações com as do aplicativo Spy++, que captura janela
 
 Normalmente esses dois rodando juntos podem causar alguns conflitos internos. Por isso, quando for usar o Spy++, procure desabilitar seus breakpoints. Após mexer no Spy++, feche-o antes de continuar depurando.
 
-{{< image src="spyxx-window-search.png" caption="Spy++ Window Search" >}}
+![Spy++ Window Search](/img/spyxx-window-search.png)
 
-{{< image src="spyxx-window-search-result.png" caption="Spy++ Window Search Result" >}}
+![Spy++ Window Search Result](/img/spyxx-window-search-result.png)
 
 Como podemos ver, nesse caso a janela encontrada foi justamente a que não aparece: TApplication! Sim, a classe principal da VCL é representada em runtime por uma janela escondida, que controla algumas mensagens específicas da aplicação.
 

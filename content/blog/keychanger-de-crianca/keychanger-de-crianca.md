@@ -23,7 +23,7 @@ Assim sendo, embora o alfabeto russo seja diferente do alfabeto latino muitos fo
 
 Porém, após a tradução de uma letra no teclado, a posição dela geralmente não é a mesma posição do nosso teclado. Daí temos uma letra de nosso alfabeto em outro lugar. Se for feita uma tradução aproximada entre os dois alfabetos, nossas letras em um teclado russo ficariam dispostas assim:
 
-{{< image src="russian-keyboard.png" caption="Russian Keyboard" >}}
+![Russian Keyboard](/img/russian-keyboard.png)
 
 Bem diferente do QWERT ASDFG que estamos acostumados, não?
 

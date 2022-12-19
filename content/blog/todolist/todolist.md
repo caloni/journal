@@ -14,7 +14,7 @@ No entanto, houve um momento em minha vida em que eu precisava definitivamente r
 
 Bem, me parecia mais do que eu precisava. No entanto ele é flexível, e suas colunas podem ser configuradas da maneira que lhe aprouver. Abaixo um screenshot de como utilizo o ToDoList:
 
-{{< image src="todolist.png" caption="" >}}
+![](/img/todolist.png)
 
 Entre algumas coisas legais que gosto nesse programa que me fizeram ficar com ele, consigo me lembrar da seguinte lista:
 

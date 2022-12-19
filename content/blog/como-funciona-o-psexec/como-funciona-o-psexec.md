@@ -32,13 +32,13 @@ No teste acima o **myprogram.exe** é somente o **cmd.exe** renomeado. Um teste 
 
 Já fizemos isso logo acima. Se trata apenas de observar o programa funcionando. Ao mesmo tempo em que entendemos seu _modus operandi_ coletamos pistas sobre suas entranhas. No caso do PsExec, que faz coisas além-mar, como redirecionar os _pipes_ de entrada/saída de um programa console, iremos checar a existência de algum serviço novo na máquina-alvo e arquivos novos que foram copiados, além de opcionalmente dar uma olhada no registro. Ferramentas da própria SysInternals como [Process Explorer](http://technet.microsoft.com/en-us/sysinternals/bb896653.aspx) e [Process Monitor](http://technet.microsoft.com/en-us/sysinternals/bb896645.aspx) também são úteis nessa análise inicial.
 
-{{< image src="lCf4KiT.png" caption="Serviço do PsExec criado na máquina-alvo." >}}
+![Serviço do PsExec criado na máquina-alvo.](/img/lCf4KiT.png)
 
 Como podemos ver, um serviço com o nome de PsExec foi criado na máquina-alvo. Se procurarmos saber o caminho do arquivo que corresponde a esse serviço, tanto pelo Process Explorer ou o Service Manager, descobriremos que se trata de um arquivo no diretório do windows chamado **psexecsvc.exe**.
 
-{{< image src="qo6PZWS.png" caption="Instalação do Serviço PsExec na máquina-alvo no registro do Windows." >}}
+![Instalação do Serviço PsExec na máquina-alvo no registro do Windows.](/img/qo6PZWS.png)
 
-{{< image src="2sSwUA9.png" caption="Arquivo do serviço do PsExec instalado na máquina-alvo na pasta c:\Windows." >}}
+![Arquivo do serviço do PsExec instalado na máquina-alvo na pasta c:\Windows.](/img/2sSwUA9.png)
 
 Se o arquivo existe nessa pasta, então é óbvio que alguém o copiou. Resta saber **como**.
 
@@ -190,7 +190,7 @@ Muito bem! Chegamos a mais um ponto importante de nossa análise: o psexecsvc.ex
 
 Também podemos notar que, enquanto estamos parados depurando o processo psexec.exe, temos acesso ao compartilhamento admin$:
 
-{{< image src="vBGHXoC.png" caption="Compartilhamento admin$ disponível enquanto depuramos o PsExec." >}}
+![Compartilhamento admin$ disponível enquanto depuramos o PsExec.](/img/vBGHXoC.png)
 
 A análise desses fatos demonstra como é importante fazer as coisas, pelo menos na fase "iniciante",  bem lentamente, e entender a **mudança de estado** durante o processo. Nem sempre isso é possível, é verdade, ainda mais quando estamos falando de análise de kernel. Mas, quando as condições permitem, vale a pena pensar antes de fazer.
 
