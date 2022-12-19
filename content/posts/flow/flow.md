@@ -2,13 +2,10 @@
 categories:
 - books
 date: '2020-09-27'
-draft: true
-link: https://www.goodreads.com/review/show/71694977
-tags: []
 title: 'Flow: The Psychology of Optimal Experience'
 ---
 
-Este é um dos livros mais importantes que já li e acredito que pode ser muito importante para você também. Por isso quero dedicar algumas linhas para argumentar por que você deve lê-lo, ainda que ele seja denso demais para a maioria das pessoas. Há um outro review que gostei bastante no link principal deste post, além das minhas anotações de leitura ao final.
+Este é um dos livros mais importantes que já li e acredito que pode ser muito importante para você também. Por isso quero dedicar algumas linhas para argumentar por que você deve lê-lo, ainda que ele seja denso demais para a maioria das pessoas.
 
 > "Rather than presenting a list of dos and don'ts, this book intends to be a voyage through the realms of the mind, charted with the tools of science. Like all adventures worth having it will not be an easy one. Without some intellectual effort, a commitment to reflect and think hard about your own experience, you will not gain much from what follows."
 
@@ -24,14 +21,23 @@ O próprio ato de ler este livro já se torna fruto de momentos inesquecíveis d
 
 Sobre a consciência, ele revela seus limites usando métricas de processamento de dados, como quantos bits de informação nossa mente focada é capaz de processar por segundo, e por que, seguindo essa métrica, concluímos que é impossível prestar atenção, por exemplo, em quatro pessoas falando ao mesmo tempo.
 
+>
+> The autotelic self transforms potentially entropic experience into flow. Therefore the rules for developing such a self are simple, and they derive directly from the flow model. Briefly, they can be summarized as follows:
+>
+> 1. Setting goals.
+> 2. Becoming immersed in the activity.
+> 3. Paying attention to what is happening.
+> 4. Learning to enjoy immediate experience.
+>
+
 Com essa definição objetiva o livro reduz nossa percepção de mundo através dessa janela que chamamos de consciência para em seguida mostrar como é ela que define nossa realidade de fato, e não o mundo exterior. E isso é vital para entendermos porque não importa de fato qual atividade desempenhamos, mas como nossa consciência a interpreta.
 
-A teoria de flow apresentada no livro diz respeito em como podemos manipular nossa visão de mundo para extrairmos o nosso melhor, sendo melhor relativo ao objetivo que cada um deseja experienciar. No entanto, atingir esse estado de espírito ótimo não é relativo. Contrário ao relativismo de nosso mundo o livro afirma, com base na ciência, haver de fato atividades mais prazeirosas e significativas que outras, ou melhor dizendo, há formas de conduzir essas atividades de maneira a atingir seu máximo de aproveitamento, satisfação, significado, prazer.
+A teoria de flow apresentada no livro diz respeito em como podemos manipular nossa visão de mundo para extrairmos o nosso melhor, sendo melhor relativo ao objetivo que cada um deseja experienciar. No entanto, atingir esse estado de espírito ótimo não é relativo. Contrário ao relativismo de nosso mundo o livro afirma, com base na ciência, haver de fato atividades mais prazeirosas e significativas que outras, ou melhor dizendo, há formas de conduzir essas atividades de maneira a atingir seu máximo de aproveitamento, satisfação, prazer e o mais importante de todos: significado.
 
 # Recortes
 
 "(...) success, like happiness, cannot be pursued; it must ensue... as the unintended side-effect of one's personal dedication to a course greater than oneself."
-    
+
 "Our perceptions about our lives are the outcome of many forces that shape experience, each having an impact on whether we feel good or bad."
 
 "(...) we have all experienced times when, instead of being buffeted by anonymous forces, we do feel in control of our actions, masters of our own fate. On the rare occasions that it happens, we feel a sense of exhilaration, a deep sense of enjoyment that is long cherished and that becomes a landmark in memory for what life should be like."
@@ -60,7 +66,7 @@ A teoria de flow apresentada no livro diz respeito em como podemos manipular nos
 
 "To overcome the anxieties and depressions of contemporary life, individuals must become independent of the social environment to the degree that they no longer respond exclusively in terms of its rewards and punishments."
 
-"achieving control over experience requires a drastic change in attitude about what is important and what is not."
+"Achieving control over experience requires a drastic change in attitude about what is important and what is not."
 
 "(...) emphasis on the postponement of gratification is to a certain extent inevitable. As Freud and many others before and after him have noted, civilization is built on the repression of individual desires. It would be impossible to maintain any kind of social order, any complex division of labor, unless society's members were forced to take on the habits and skills that the culture required, whether the individuals liked it or not. Socialization, or the transformation of a human organism into a person who functions successfully within a particular social system, cannot be avoided. The essence of socialization is to make people dependent on social controls, to have them respond predictably to rewards and punishments. And the most effective form of socialization is achieved when people identify so thoroughly with the social order that they no longer can imagine themselves breaking any of its rules."
 
@@ -236,13 +242,7 @@ A teoria de flow apresentada no livro diz respeito em como podemos manipular nos
 
 "To be distracted against one's will is the surest sign that one is not in control."
 
-"The autotelic self transforms potentially entropic experience into flow. Therefore the rules for developing such a self are simple, and they derive directly from the flow model. Briefly, they can be summarized as follows: 1. Setting goals. To be able to experience flow, one must have clear goals to strive for."
-
-"2. Becoming immersed in the activity. After choosing a system of action, a person with an autotelic personality grows deeply involved with whatever he is doing."
-
-"3. Paying attention to what is happening. Concentration leads to involvement, which can only be maintained by constant inputs of attention."
-
-"4. Learning to enjoy immediate experience. The outcome of having an autotelic self -- of learning to set goals, to develop skills, to be sensitive to feedback, to know how to concentrate and get involved -- is that one can enjoy life even when objective circumstances are brutish and nasty."
+"The outcome of having an autotelic self -- of learning to set goals, to develop skills, to be sensitive to feedback, to know how to concentrate and get involved -- is that one can enjoy life even when objective circumstances are brutish and nasty."
 
 "The mountaineer who decides to scale a difficult peak knows that he will be exhausted and endangered for most of the climb. But if he gives up too easily, his quest will be revealed as having little value. The same is true of all flow experiences: there is a mutual relationship between goals and the effort they require. Goals justify the effort they demand at the outset, but later it is the effort that justifies the goal."
 
