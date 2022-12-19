@@ -1,5 +1,3 @@
-<big><b>
 {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
-> <b><a href="/{{ $taxonomyname }}">{{ $taxonomyname }}</a></b></br>
+<big><b>> <a href="/{{ $taxonomyname }}">{{ $taxonomyname }}</a></b></big><small><i>: todas as {{ $taxonomyname }} do blogue e últimos postes.</small></i></br>
 {{ end }}
-</b></big>

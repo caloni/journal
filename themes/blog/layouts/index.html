@@ -4,17 +4,16 @@
   {{ partial "head.html" . }}
 
   <body style="min-height:100vh;display:flex;flex-direction:column">
-
     {{ partial "navbar.html" . }}
     {{ partial "section_begin.html" . }}
     {{ with .Site.Params.home.intro }}<p>{{ . }}</p>{{ end }}
     {{ partial "quick_search.html" . }}
-    <big><b>> <a title="lista últimos posts do saite" href="/news">news</a></b></big></br>
-    <big><b>> <a title="lista todos os títulos do saite" href="/posts">posts</a></b></big></br>
-    <big><b>> <a title="rascunhos" href="/drafts">drafts</a></b></big></br>
+    <big><b>> <a href="/news">news</a></b></big><small><i>: últimos postes do blogue.</small></i></br>
+    <big><b>> <a href="/posts">posts</a></b></big><small><i>: todos os postes do blogue.</small></i></br>
+    <big><b>> <a href="/drafts">drafts</a></b></big><small><i>: trabalhos em progresso.</small></i></br>
     {{ partial "taxonomies.html" . }}
-    <big><b>>> <a title="todas as baixarias de programador" href="/categories/code">code</a></b></big></br>
-    <big><b>>> <a title="todos os filmes sobre os quais escrevi" href="/categories/movies">movies</a></b></big></br>
+    <big><b>>> <a href="/categories/code">code</a></b></big><small><i>: baixarias de programador.</small></i></br>
+    <big><b>>> <a href="/categories/movies">movies</a></b></big><small><i>: filmes que assisto nas horas vagas.</small></i></br>
     {{ partial "list_begin.html" . }}
     {{ partial "list_end.html" . }}
     {{ partial "section_end.html" . }}
