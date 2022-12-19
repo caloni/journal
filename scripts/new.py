@@ -4,7 +4,7 @@ import sys
 import pyperclip
 
 if len(sys.argv) > 1:
-  file = "posts/{}.md".format(sys.argv[1])
+  file = "posts/{}/{}.md".format(sys.argv[1], sys.argv[1])
   proc = subprocess.Popen("hugo new {}".format(file), stdout=subprocess.PIPE, shell=True)
   proc.wait()
   clip = pyperclip.paste().splitlines()
