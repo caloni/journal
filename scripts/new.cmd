@@ -1,6 +1,6 @@
 @echo off
 if "%1"=="" goto usage
-hugo new blog/%1.md
+hugo new posts/%1.md
 goto :eof
 
 :usage

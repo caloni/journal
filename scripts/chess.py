@@ -7,12 +7,12 @@ import re
 
 if len(sys.argv) > 1:
   baseName = sys.argv[1]
-  file = "blog/{}.md".format(baseName)
+  file = "posts/{}.md".format(baseName)
   link = None
 
   proc = subprocess.Popen("hugo new chess/{}".format(file), stdout=subprocess.PIPE, shell=True)
   proc.wait()
-  os.rename("content/chess/blog/{}.md".format(baseName), "content/blog/{}.md".format(baseName))
+  os.rename("content/chess/posts/{}.md".format(baseName), "content/posts/{}.md".format(baseName))
 
   with open("static/chess/{}.txt".format(baseName), "w", encoding="utf8") as f:
     def findLink(clip):
