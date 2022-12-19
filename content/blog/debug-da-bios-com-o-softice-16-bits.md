@@ -34,13 +34,13 @@ Quando o código da BIOS é executado, ele precisa, entre outras coisas, fazer t
 
 O item 2 é justamente o que utiliza essa interrupção para ler do disco. Eu prefiri colocar o breakpoint no item 2, mas nada impediria de você colocá-lo no item 3 e já iniciar a depuração no código do boot loader. Mas, como eu já passei por problemas encontrados no código da BIOS que impediam o sistema de entregar a execução para o setor de boot, já dei a dica de lambuja caso você também tenha a oportunidade de se divertir em um cliente depurando a BIOS de algum laptop desajustado.
 
-![Breakpoint na int 0x13 função 2 (DL=0)](/img/bpint-boot.png)
+{{< image src="bpint-boot.png" caption="Breakpoint na int 0x13 função 2 (DL=0)" >}}
 
 A referência para saber quais as funções para cada interrupção na hora de depurar a BIOS pode ser encontrada em listas como a Ralf Brown's Interrupt List [^2]
 
 A partir dessa leitura se usa o comando p ret do depurador, que é mais ou menos o step out do SoftIce 32. Ou seja, ele avança a execução até a função retornar. No caso do SoftIce 16 ele irá avançar até o próximo ret/iret. Por isso que também precisamos executar a próxima instrução (o próprio ret) para cair onde queremos. É nesse ponto que o "nosso" código começa a executar e onde conseguimos colocar breakpoints "de verdade", ou seja, escrevendo no parte do código que deve ser interrompida a chamada da interrupção de breakpoint (int 3). Lembre-se que não é isso o que é feito para parar no código da BIOS, uma vez que esta reside em memória de somente leitura (pelo menos durante a execução).
 
-![Código do boot loader carregado no Softice](/img/myos-start.png)
+{{< image src="myos-start.png" caption="Código do boot loader carregado no Softice" >}}
 
 [^1]: [Gerenciamento de memória 386] - Daniel Quadros
 [^2]: [Ralf Brown's Interrupt List na Wikipedia]

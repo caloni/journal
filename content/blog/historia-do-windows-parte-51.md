@@ -7,7 +7,7 @@ title: História do Windows - parte 5.1
 
 Chega às lojas no dia 25 de outubro de 2001 a unificação entre as plataformas de uso doméstico e corporativo do sistema. O Windows XP, de Windows eXPerience, usa o kernel de 32 bits de seus antecessores Windows NT e Windows 2000. É vendido em duas edições: Home e Professional Edition. O design do sistema foi totalmente remodulado para suportar ao mesmo tempo a facilidade de uso do usuário doméstico e a robustez e confiabilidade dos clientes corporativos. Essa é minha versão favorita da [História do Windows] e junto do Windows 7 uma das edições mais robustas já feitas.
 
-![Windows XP (Luna) na Wikipedia](/img/windows_xp.png)
+{{< image src="windows_xp.png" caption="Windows XP (Luna) na Wikipedia" >}}
 
 Oriundo do Projeto Luna um dos grandes trunfos nessa versão do Windows foi (mais uma vez) a "revolução gráfica", baseada em um redesenho do velho conceito de desktop dos sistemas operacionais da Microsoft, em destaque o uso de temas e a total compatibilidade com a grande maioria das placas 3D. Sim, esse Windows foi feito pra jogar. Do ponto de vista da arquitetura, pouca coisa mudou, e essa versão mudou internamente de 5.0 (Windows 2000) para 5.1 (Windows XP). Ou seja, praticamente um patch de correção glorificado pelo departamento de marketing.
 
@@ -19,7 +19,7 @@ Da mesma forma, com o lançamento da versão 64 para a plataforma x86, uma nova 
 
 No decorrer dessa história avançamos uns bons 20 anos até agora. Muita coisa que deveria ter sido falada não foi, e muita coisa que não merecia ser mencionada, foi. Após esta versão outras foram criadas, mas o grande merge foi de fato o Windows XP, que lançou a plataforma NT pura para os usuários caseiros finais.
 
-![Windows History](/img/windows_history.gif)
+{{< image src="windows_history.gif" caption="Windows History" >}}
 
 Não falarei mais aqui sobre a "outra ramificação" do Windows, aquela constituída por Windows 95, 98 e ME. Não falarei do processo antitruste contra a Microsoft por conta da venda do sistema operacional com o Internet Explorer e Media Player embutidos; não discursarei sobre os protestos dos consumidores quando a Microsoft cobrou pela versão de atualização do Windows 98, o Second Edition; muito menos esbravejarei sobre a raiva dos usuários pelo superaquecimento do processador por conta do Windows ME e sua duvidável interface revolucionária.
 
@@ -29,19 +29,19 @@ Na eterna briga entre sistemas operacionais, uma categoria bem abastada (princip
 
 O problema em si não é a organização dos componentes do sistema operacional em torno de um ou de outro design, mas o que isso implica em termos de eficiência. Se o Windows fosse desenvolvido com kernel monolítico todos seus componentes internos acessariam tudo disponível no modo kernel, o que tem o potencial de ser mais rápido. Já um sistema microkernel abstrai mais a comunicação entre os diferentes componentes do sistema.
 
-![Windows Monolithic](/img/windows_monolithic.gif)
+{{< image src="windows_monolithic.gif" caption="Windows Monolithic" >}}
 
 Ao ser projetado o objetivo do Windows nunca foi ser um sistema operacional de microkernel, embora umas boas almas tenham clamado o contrário. No entanto, sua organização monolítica foi feita de tal forma que uma visão lógica do sistema operacional nos diria que a tentativa original foi dividir os serviços em camadas e componentes (servidores), de forma que as camadas superiores pudessem confiar nos serviços das camadas inferiores, tal como é em uma pilha TCP/IP.
 
 Porém, as coisas não são tão simples assim. O SO inteiro não é feito dessa forma. Foram usados diversos modelos para a organização do sistema, e é fácil perceber isso se enxergamos o todo através de várias visões. Quando isso acontece se enxerga o caos, que é o que temos quando só pensamos em módulos acessando módulos e código arbitrário rodando em kernel mode. Contudo, podemos analisar o resultado lógico da divisão em camadas em um kernel monolítico.
 
-![Windows Hibrid](/img/windows_hibrid.gif)
+{{< image src="windows_hibrid.gif" caption="Windows Hibrid" >}}
 
 Dessa forma é possível existir uma organização no mesmo código, mesmo esteja toda em código privilegiado. Basta que os pontos de comunicação entre os módulos esteja bem definido e documentado. O problema dessa abordagem é o acesso, que não é protegido de fato, e eventuamente vão existir existir diversos atalhos (documentados ou não) para alcançar as coisas de maneira mais rápida, para o bem da velocidade.
 
 Uma última e terceira visão, baseada em componentes, divide o código em gerenciadores e provedores de serviços. Conceitualmente essa divisão permitiria a migração de todo o código não-crítico para user mode, embora não seja o que ocorre. Essa divisão foi feita inicialmente e mantida apenas para serviços não-críticos que pudessem rodar em código não-privilegiado e a manutenção dos subsistemas: Win32, POSIX, MS-DOS. Nessa última visão conseguimos ainda visualizar um microkernel, mas é importante notar que não estamos falando aqui do conceito puro e formal que definimos no início da explicação.
 
-![Windows Client Server](/img/windows_client_server.gif)
+{{< image src="windows_client_server.gif" caption="Windows Client Server" >}}
 
 O esboço final, dessa forma, ficou sendo um sistema operacional dividido em componentes, com a maioria rodando em modo privilegiado (kernel mode), cuja divisão lógica primária tende a ser em camadas. É muito importante ter essa visão da coisa conforme nos aprofundamos nos mistérios do ring0, ou kernel mode, que controla tudo isso.
 

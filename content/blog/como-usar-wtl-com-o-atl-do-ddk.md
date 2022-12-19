@@ -18,9 +18,9 @@ A primeira coisa a fazer é obter o tal doWDK. Para variar um pouco, agora exist
 
 Após instalado, em qualquer lugar da sua escolha, configure no seu [Visual Studio Express](http://www.microsoft.com/Express/) o caminho de onde se encontra a pasta atl71 (ou a 30, ou a 21). Aproveite também para colocar a pasta do WTL e o diretório de LIBs:
 
-![Configurando o diretório de cabeçalhos no Visual Studio.](/img/TJyNrlE.png)
+{{< image src="TJyNrlE.png" caption="Configurando o diretório de cabeçalhos no Visual Studio." >}}
 
-![Configurando o diretório de biblioteca no Visual Studio.](/img/VLryS9L.png)
+{{< image src="VLryS9L.png" caption="Configurando o diretório de biblioteca no Visual Studio." >}}
 
 Isso vai fazer com que pelo menos os exemplos que vêem com o WTL compilem.
 

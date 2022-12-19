@@ -10,11 +10,11 @@ title: Pacotes perdidos do NuGet em projetos C++ no Visual Studio
 
 Que nem hoje de manhã, quando fui inocentemente baixar uma versão limpa do [tiodb](https://github.com/tiodb/tiodb) e após baixar todos os pacotes do [NuGet](https://docs.microsoft.com/pt-br/nuget/consume-packages/overview-and-workflow), o gerenciador de pacotes do Visual Studio (inclusive para C++, agora) acusou a falta do boost, sendo que ele havia acabado de baixá-lo:
 
-![](/img/HUp5S4K.png)
+{{< image src="HUp5S4K.png" caption="" >}}
 
-![](/img/IfVDNN9.png)
+{{< image src="IfVDNN9.png" caption="" >}}
 
-![](/img/Yi8kVgC.png)
+{{< image src="Yi8kVgC.png" caption="" >}}
 
 Os pacotes do projeto ficam todos na raiz do diretório da solução na sub-pasta packages. Observando o que foi baixado lá, verifiquei que a versão do boost estava ok: ele havia baixado a 1.61 como pedido, mas o erro dizia respeito justamente a um desses pacotes.
 
@@ -63,7 +63,7 @@ gvim server\tio\tioserver.vcxproj
 :wq
 ```
 
-![](/img/BLUS8XJ.png)
+{{< image src="BLUS8XJ.png" caption="" >}}
 
 ```
 1>------ Build started: Project: tioclientdll, Configuration: Debug x64 ------

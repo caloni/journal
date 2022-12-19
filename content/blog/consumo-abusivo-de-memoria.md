@@ -83,15 +83,15 @@ int main(int argc, char* argv[]) // No princípio havia a pilha, quando Deus dis
 
 Se olharmos de perto o processamento e a memória consumida por esse processo, veremos que no início existe um boom de ambos, mas após um momento de pico, o processamento praticamente pára, mas a memória se mantém:
 
-![](/img/hoxWfdi.png)
+{{< image src="hoxWfdi.png" caption="" >}}
 
 Depois de pesquisar [por meus tweets favoritos](https://twitter.com/#!/caloni/status/138632431765954560), fica fácil ter a receita para verificarmos isso usando nosso depurador favorito: <del>Visual Studio</del> WinDbg!
 
-![](/img/ZKVVT0O.png)
+{{< image src="ZKVVT0O.png" caption="" >}}
 
 windbg -pn MemoryConsumption.exe
 
-![](/img/Bzb2XVY.png)
+{{< image src="Bzb2XVY.png" caption="" >}}
 
 Achamos onde está a memória consumida. Agora precisamos de dicas do que pode estar consumindo essa memória. Vamos começar por listar os chunks alocados por tamanho de alocação:
 
@@ -132,7 +132,7 @@ O Top 3 é de tamanhos conhecidos pelo código, de 1024 a 1024 + QUEUES_SIZE - 
 
 A listagem do depurador nos dá o endereço onde o chunk foi alocado no heap e o endereço devolvido para o usuário, onde colocamos nossas tralhas. Através de ambos é possível trackear a pilha da chamada que alocou cada pedaço de memória. Isso, claro, se previamente tivermos habilitado essa informação através do [GFlags](http://msdn.microsoft.com/en-us/library/windows/hardware/ff549596(v=vs.85).aspx):
 
-![](/img/JeqoBju.png)
+{{< image src="JeqoBju.png" caption="" >}}
 
     
     0:004> !heap -p -a <span style="color: #ff0000;">00558600</span>

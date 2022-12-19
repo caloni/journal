@@ -155,7 +155,7 @@ Note como as pastas de instalação dos pacotes do triplet selecionado são incl
 
 A mágica ocorre já na hora de dar include. E é mágica desde o autocomplete até o link. Por exemplo, digamos que vamos fazer um embedded de Python usando o [exemplo do help](https://docs.python.org/3/extending/embedding.html):
 
-![](/img/7XMj026.png)
+{{< image src="7XMj026.png" caption="" >}}
 
 ```
 int main(int argc, char* argv[])
@@ -290,7 +290,7 @@ if (Test-Path "$installedDir\$_") {
 
 O uso do CMake permite aos usuários do vcpkg ter boas ideias apenas lendo os scripts do projeto. Se você abrir o solution vcpkg.sln dentro de toolsrc vai descobrir todos os scripts listados por lá. Há funções espertinhas como o download e extração de pacotes 7zip do Source Forge.
 
-![](/img/aOHtf5a.png)
+{{< image src="aOHtf5a.png" caption="" >}}
 
 Essa parte fica em **vcpkg/scripts/cmake**. Olhe, por exemplo, como retornar a versão do Windows SDK (vcpkg_get_windows_sdk.cmake):
 
@@ -537,4 +537,4 @@ c:\Libs\vcpkg\installed\x86-windows\share\bitforge
 
 E voilá! Agora o include está disponível, as funções estão disponíveis, o link está funcionando e seu pacote pode ser compartilhado com toda a empresa. Basta copiar a pasta ports/bitforge ou adicioná-la no repositório por um commit.
 
-![](/img/XeeD4Se.png)
+{{< image src="XeeD4Se.png" caption="" >}}

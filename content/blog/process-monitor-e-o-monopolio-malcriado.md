@@ -11,7 +11,7 @@ Essa é uma regra básica, mas não é fácil de cumpri-la. Só quem já tentou 
 
 Primeiramente, quero deixar bem claro que jogamos Monopoly por mais ou menos dois meses sem ter qualquer tipo de problema, em três computadores diferentes. Até que resolvemos usar uma conta mais restrita. Foi o bastante para o programinha inocente começar a chiar.
 
-![Monopoly Crash](/img/monopoly-crash.png)
+{{< image src="monopoly-crash.png" caption="Monopoly Crash" >}}
 
 Mau garoto. Bons tempos em que quando um jogo travava o máximo que tínhamos que fazer era apertar um botão.
 
@@ -21,19 +21,19 @@ Sua função é mostrar tudo, absolutamente tudo que o sistema está fazendo em 
 
 É por isso que ele vem "de fábrica" já com uma série de filtros, que evitam lotar o log de eventos com informação sempre gerada pelo sistema, mas quase sempre inútil. Além dos filtros-padrão, podemos inserir nossos próprios filtros. É isso que faremos aqui para pegar o monopólio malcriado (sem trocadilhos).
 
-![Procmon Filter](/img/monopoly-procmon.png)
+{{< image src="monopoly-procmon.png" caption="Procmon Filter" >}}
 
 Como podemos ver, iremos mostrar em nosso log todos os eventos cujo nome do processo seja monopolyclassic.exe (o nosso amigo faltoso) e iremos excluir do log qualquer evento cujo resultado tenha sido sucesso (se deu certo, provavelmente não é um erro).
 
 Executamos novamente o jogo, dessa vez com o Process Monitor capturando todos seus movimentos.
 
-![Monopoly Crash](/img/monopoly-crash.png)
+{{< image src="monopoly-crash.png" caption="Monopoly Crash" >}}
 
 Agora, uma pequena ressalva: eu estou cansado de ver isso, mas para quem nunca viu, pode não ser tão óbvio. Como eu disse no início do artigo, programas mal-escritos costumam tentar acessar áreas do sistema que não são acessíveis para usuários comuns. Isso quer dizer que, se o problema que está acontecendo com o jogo tem a ver com essa peculiaridade, a primeira coisa a procurar é por erros de acesso negado.
 
-![Monopoly Access Denied](/img/monopoly-procmon-access-denied1.png)
+{{< image src="monopoly-procmon-access-denied1.png" caption="Monopoly Access Denied" >}}
 
-![Monopoly Access Denied 2](/img/monopoly-procmon-access-denied2.png)
+{{< image src="monopoly-procmon-access-denied2.png" caption="Monopoly Access Denied 2" >}}
 
 A primeira busca retorna uma chave no registro referente às propriedades de joystick. Como não estou usando joysticks, podemos ignorar este erro por enquanto e passar adiante.
 
@@ -66,13 +66,13 @@ Como podemos ver, o que é muito natural, um arquivo dentro da pasta de instala�
     
     C:\Arquivos de programas\GameHouse\Monopoly Classic>start monopolyclassic.exe
 
-![Monopoly](/img/monopoly-screenshot.jpg)
+{{< image src="monopoly-screenshot.jpg" caption="Monopoly" >}}
 
 Ora essa, estou conseguindo rodar o jogo! Isso quer dizer que nosso único problema, o acesso a esse arquivo, foi resolvido. Sabendo que um arquivo de log provavelmente não será executado por nenhuma conta privilegiada, podemos deixá-lo com acesso irrestrito para todos.
 
 Para ter certeza que isso resolveu o problema, uma segunda auditoria de execução executada pelo Process Monitor pode nos revelar mais detalhes.
 
-![Monopoly](/img/monopoly-procmon-find2.png)
+{{< image src="monopoly-procmon-find2.png" caption="Monopoly" >}}
 
     MonopolyClassic.exe QueryStandardInformationFile C:\Documents ...\Monopoly\save.gcf SUCCESS
     MonopolyClassic.exe ReadFile C:\Documents ...\Monopoly\save.gcf SUCCESS

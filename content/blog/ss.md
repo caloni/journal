@@ -22,7 +22,7 @@ int main()
 
 ```
 
-![ShiftEstranho](/img/tnVztzy.png)
+{{< image src="tnVztzy.png" caption="ShiftEstranho" >}}
 
 A resposta é, pra variar, depende. Se você combinar com seu cérebro que o operador de shift que você aprendeu em C para cout não tem a mesma semântica, OK. No fundo eu acredito que os criadores dessa sobrecarga de operador pensaram sinceramente que hoje em dia quase ninguém conhece os operadores de shift binário, então tudo bem reaproveitá-lo de uma maneira mais miguxa.
 
@@ -41,7 +41,7 @@ int main()
 
 ```
 
-![Formatação Difícil do Cout](/img/7hFREwa.png)
+{{< image src="7hFREwa.png" caption="Formatação Difícil do Cout" >}}
 
 ## A coisa mais fácil do jeito mais difícil
 

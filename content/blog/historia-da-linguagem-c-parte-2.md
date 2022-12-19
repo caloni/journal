@@ -9,7 +9,7 @@ title: 'História da Linguagem C: Parte 2'
 
 No princípio... não, não, não. Antes do princípio, quando C era considerada a terceira letra do alfabeto e o que tínhamos eram linguagens experimentais para todos os lados, dois famigerados senhores dos Laboratórios Bell, K. Thompson e D. Ritchie, criaram uma linguagem chamada B. E B era bom.
 
-![Ken Thompson (esquerda) e Dennis Ritchie (direita). Fonte: wikipedia.org](/img/kthompson_dritchie.jpg)
+{{< image src="kthompson_dritchie.jpg" caption="Ken Thompson (esquerda) e Dennis Ritchie (direita). Fonte: wikipedia.org" >}}
 
 O bom de B era sua rica expressividade e sua simples gramática. Tão simples que o [manual da linguagem] consistia de apenas 30 páginas. Isso é menos do que as 32 palavras reservadas de C. As instruções eram definidas em termos de ifs e gotos e as variáveis eram definidas em termos de um padrão de bits de tamanho fixo, geralmente a word, ou palavra, da plataforma, que utilizada em expressões definiam seu tipo. Esse padrão de bits era chamado rvalue. Imagine a linguagem C de hoje em dia com apenas um tipo: int.
 

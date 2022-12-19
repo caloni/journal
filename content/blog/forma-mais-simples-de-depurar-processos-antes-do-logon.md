@@ -14,7 +14,7 @@ O depurador do Visual Studio mais novo fica em sua pasta de instalação Program
 
 No caso do msvsmon, se executado com /? (padrão entre programas Windows) ele abre um pequeno help com a ajuda necessária para executar os parâmetros corretos:
 
-![](/img/CZIHbHZ.png)
+{{< image src="CZIHbHZ.png" caption="" >}}
 
 No caso o comando maroto é o seguinte:
 
@@ -82,7 +82,7 @@ Depois de copiar Service.exe e DLL.dll para a máquina-alvo (e não se esquecer 
 nssm.exe install Service service.exe
 ```
 
-![](/img/lgPCGyW.png)
+{{< image src="lgPCGyW.png" caption="" >}}
 
 Agora ache o IP da máquina-alvo e vá em Debug, Attach to Process (Ctrl+Alt+P) no Visual Studio, modo remoto e digite o IP.
 
@@ -90,7 +90,7 @@ Agora ache o IP da máquina-alvo e vá em Debug, Attach to Process (Ctrl+Alt+P) 
 cmd /k ipconfig | find "192"
 ```
 
-![](/img/GpNPhiC.png)
+{{< image src="GpNPhiC.png" caption="" >}}
 
 Lembre-se de iniciar o serviço.
 
@@ -109,6 +109,6 @@ void DLL_Start()
 
 Depois que houver o attach você irá continuar a execução. Portanto, coloque um breakpoint logo depois.
 
-![](/img/hja6Y2Y.png)
+{{< image src="hja6Y2Y.png" caption="" >}}
 
 Depois que isso funcionar já é possível iniciar sua depuração antes da tela de login. Os serviços executarão, e sua DLL estará aguardando um debugger ser atachado. Se houver necessidade é possível deixar esse modo de espera configurável, por timeout, etc.

@@ -8,7 +8,7 @@ title: Resultado do Seminário CCPP
 
 Aconteceu nesse fim-de-semana, como era previsto, o nosso primeiro Seminário CCPP Brasil, com direito a pessoas de todas as idades e origens, mas todas com algo em comum: a paixão e o interesse pelas linguagens-mestre do mundo da programação.
 
-![Seminário CCPP Portabilidade Performance](/img/seminario.jpg)
+{{< image src="seminario.jpg" caption="Seminário CCPP Portabilidade Performance" >}}
 
 Começo esse artigo agradecendo a todos os que direta e indiretamente participaram para o sucesso do evento, entre eles os organizadores, o carro-chefe responsável por acordar o espírito C++ da galera no início do ano, os palestrantes e, claro, óbvio, toda a comunidade C++ que participou em corpo (vulgo hardware) e alma (vulgo software).
 
@@ -18,7 +18,7 @@ Vamos às palestras!
 
 ## Dicas e Truques de Portabilidade, por Wanderley Caloni
 
-![Seminário Caloni](/img/seminario-caloni.jpg)
+{{< image src="seminario-caloni.jpg" caption="Seminário Caloni" >}}
 
 É muito difícil analisar uma palestra feita por você mesmo. É mais difícil ainda quando essa palestra é a primeira de uma batelada de argumentações de alto nível técnico que seguiram o dia. Posso dizer, no entanto, que consegui o que queria quando fui para o evento: demonstrar as dificuldades e as facilidades de tornar um código portável, independente se entre sistemas operacionais, ambientes ou compiladores.
 
@@ -28,7 +28,7 @@ Por fim, foram apresentadas algumas sugestões movidas pela experiência e estud
 
 ## Programação Concorrente com C++, por Fábio Galuppo
 
-![Seminário Galuppo](/img/seminario-galuppo.jpg)
+{{< image src="seminario-galuppo.jpg" caption="Seminário Galuppo" >}}
 
 Para quem está acostumado com os temas geralmente "gerenciados" de Fábio Galuppo com certeza deve ter se surpreendido com a descrição teórica dos inúmeros problemas que cercam a vida do programador multithreading. O palestrante partiu do mais simples, o conceito de threads, conceito que, segundo ele mesmo, pode ser explicado em 15 minutos, para algo mais sutil e que gera muitos erros escondidos: o conceito de locks (semáforos, mutexes, etc).
 
@@ -42,7 +42,7 @@ Mais uma vez voltando à teoria, a palestra foca mais uma vez em bons princípio
 
 ## Programação Multiplataforma Usando STL e Boost, por Rodrigo Strauss
 
-![Seminário Strauss](/img/seminari-strauss.jpg)
+{{< image src="seminari-strauss.jpg" caption="Seminário Strauss" >}}
 
 Como sempre, Strauss está apaixonado pelo Boost (e a STL). Descrevendo as partes mais importantes que todo programador C++ moderno deve saber sobre essas bibliotecas, ambas modernas, a palestra focou principalmente no uso do dia-a-dia, e as vantagens produtivas que o C++ atual pode ter sobre o velho e tradicional programa em C com listas encadeadas artesanais.
 
@@ -58,13 +58,13 @@ Enfim, para quem pôde ver, a palestra focou nos princípios que farão hoje em 
 
 ## Técnicas de Otimização de Código, por Rodrigo Kumpera & André Tupinambá
 
-![Seminário Kumpera](/img/seminario-otimizacao1.jpg)
+{{< image src="seminario-otimizacao1.jpg" caption="Seminário Kumpera" >}}
 
 Aparentemente o que pensei que seria, em minha sincera opinião, um desastre (dois palestrantes falando sobre a mesma coisa) se transformou em uma combinação estupenda de teoria e prática aplicadas à arte de otimização de código. Rodrigo e André conseguiram destrinchar o tema harmoniosamente, sempre dividido entre técnicas avançadas (algumas demonstradas pela experiência dos palestrantes) e teoria disciplinar, que visa alertar o wannabe que otimizar pode ser uma coisa boa; porém, preste atenção aos que já fizeram isso têm a dizer.
 
 Com uma didática impecável, o novato nesse tema (como eu) pôde ver as dificuldades de conseguir determinar o objetivo de todo otimizador de código que, segundo eles, deve estar sempre atento na máxima de que "toda otimização é na verdade uma troca". Ou seja, se o programador quer melhor processamento, pagará com memória, se quiser otimizar espaço na RAM, irá gastar mais com processamento e/ou disco, e assim por diante.
 
-![Seminário Tupinambá](/img/seminario-otimizacao2.jpg)
+{{< image src="seminario-otimizacao2.jpg" caption="Seminário Tupinambá" >}}
 
 Foram apresentados exemplos reais de otimização, além de dicas muito importantes sobre o comportamento das compilações de cada dia.  Você sabia, por exemplo, que ao declarar em escopos mais locais suas variáveis usadas apenas em pequenos trechos de código estará dando uma poderosa dica ao compilador para que ele consiga usar os registradores no máximo de sua capacidade?
 

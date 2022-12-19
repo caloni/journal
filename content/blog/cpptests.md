@@ -29,10 +29,10 @@ A lista que achei interessante (com seu projeto):
 
 A otimização no if através do uso da palavra-chave __constexpr__ possibilita a criação de diferentes instâncias da chamada que não contém o if, mas um dos dois branches dependendo do tipo ser integral ou não.
 
-![](/img/ivRwuGm.png)
+{{< image src="ivRwuGm.png" caption="" >}}
 
 Para que a compilação dessa opção funcione no Visual Studio 2017 15.3 é necessário inserir o parâmetro /std:c++latest nas opções do projeto em __C/C++, Command Line__:
 
-![](/img/tPIS4wL.png)
+{{< image src="tPIS4wL.png" caption="" >}}
 
 Todos (ou a maioria) deles ainda está em teste. Acabei de baixar o preview 5, conforma um dos membros da ML dos MVPs C++ me informou que saiu quentinha do forno. Em breve novidades.

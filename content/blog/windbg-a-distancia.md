@@ -32,7 +32,7 @@ Se for necessário, é possível convidar mais gente pra festa, pois o WinDbg pe
     0:000>.echo E ae, galera? Como que a gente vai consertar essa &%$*&?
     0:000>.echo Putz, sei lá. Acho que vou tomar mais café...
 
-![Windbg Remote](/img/windbg-remote.gif)
+{{< image src="windbg-remote.gif" caption="Windbg Remote" >}}
 
 No ambiente do cliente é muito mais hostil; é salutar e recomendável utilizar um servidor genérico que não imprima coisa alguma na tela "do outro lado". Após iniciar o depurador na máquina que está dando o problema, o programador tem virtualmente uma série de comandos úteis que podem ser executados remotamente, como iniciar novos processos, se anexar a processos já existentes, copiar novas versões de executáveis, etc.
 
@@ -54,7 +54,7 @@ Caso não se saiba a porta usada para iniciar o servidor, ou queira-se listar to
 
 O exemplo acima utilizou uma conexão TCP para montar o ambiente de depuração remota, o que possibilita inclusive correção de problemas via internet. No entanto, nem sempre podemos nos dar ao luxo de abrir portas não-autorizadas, requisito mínimo para estabelecer a conexão com o depurador. Nesse caso, podemos configurar conexões pela porta serial, por pipes nomeados, por SSL. Se for realmente necessário usar a pilha TCP, mas o lado servidor possui um firewall, ainda assim é possível configurar este tipo de conexão com a opção clicon. Dessa forma, quem estabelece a conexão é o servidor, evitando que o cliente fique bloqueado de acessar o ambiente de depuração.
 
-![Windbg Remote](/img/windbg-remote2.gif)
+{{< image src="windbg-remote2.gif" caption="Windbg Remote" >}}
 
 É importante notar que o dbgsrv.exe não é um depurador esperto, no sentido que ele não vai carregar os símbolos para você. Isso é importante na hora de definir qual estratégia utilizar, pois nem sempre os símbolos estarão disponíveis na máquina com problemas, e nem sempre estarão com o desenvolvedor.
 

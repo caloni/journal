@@ -11,7 +11,7 @@ Um [artigo do Alex Ionescu] falava sobre esse aplicativo linha de comando usado 
 
 > "E se eu usasse esse carinha para iniciar o notepad?"
 
-![Wordclip](/img/wordclip.jpg)
+{{< image src="wordclip.jpg" caption="Wordclip" >}}
 
 Bem, o Bloco de Notas é a vítima padrão de testes. Logo, a linha a seguir provaria que é possível rodá-lo na conta de sistema:
 
@@ -33,7 +33,7 @@ Porém porém, o SCM não mata os processos filhos do processo-serviço. Bug? Fe
 
 Agora, quando iniciarmos o serviço Msvcmon, o processo cmd.exe será criado, que por sua vez irá rodar o msvcmon.exe que queríamos, e ficará esperando inocentemente pela sua "funesta morte" pelo SCM.
 
-![MsvcMon Service](/img/msvcmon-service.png)
+{{< image src="msvcmon-service.png" caption="MsvcMon Service" >}}
 
 [GINA]: /gina-x-credential-provider
 [artigo do Alex Ionescu]: http://www.alex-ionescu.com/?p=59

@@ -78,9 +78,9 @@ int main()
 }
 ```
 
-![](/img/uzfJuTC.png)
+{{< image src="uzfJuTC.png" caption="" >}}
 
-![](/img/JLJaAsB.png)
+{{< image src="JLJaAsB.png" caption="" >}}
 
 Parece muito trabalho para algo que é feito "automagicamente" em C++, certo? Certo. Porém, agora sabemos o que acontece por baixo dos panos em C++ e que pode ser feito em C (ainda que "na mão"). Você provavelmente nunca fará esse tipo de código em C para emular C++, mas o objetivo desse código é entender como funciona, por exemplo, a _vtable_ do C++, que permite polimorfismo.
 

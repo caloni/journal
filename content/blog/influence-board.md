@@ -11,21 +11,21 @@ A falta de prática e estudos pesa muito para um enxadrista amador, já que faci
 
 Por isso mesmo aprendi em um livro chamado Xadrez sem Mestre, de J. Carvalho, uma técnica universal e independente de decoreba que levei pra vida toda, e tem me trazido algumas partidas no mínimo interessantes. Se trata de analisar o esquema de influências em cima do tabuleiro. Influências, nesse caso, se refere ao poder de fogo das peças amigas e inimigas. O interessante é que deixa-se de lado a análise das próprias peças! Se estuda tão somente o tabuleiro, e apesar de parecer um método difícil, ele melhora sua percepção gradativamente, e é responsável por muitas das partidas simultâneas jogadas às cegas por alguns ilustres GMIs.
 
-![Chess Board](/img/influence-board.png)
+{{< image src="influence-board.png" caption="Chess Board" >}}
 
 > Atenção: esse artigo trata sobre xadrez admitindo que o leitor saiba as regras básicas do jogo, assim como um pouco de estratégia. Se você chegou até aqui e está viajando, sugiro que pare de ler e vá jogar uma partida.
 
 Vamos supor que a posição no tabuleiro em um dado momento seja a seguinte:
 
-![Winboard Mate](/img/winboard-mate.png)
+{{< image src="winboard-mate.png" caption="Winboard Mate" >}}
 
 Ora, é um mate inevitável, não é? Agora imagine por um momento que você não tenha percebido isso, e precise de uma ajudinha para saber onde cada peça pode ir ou atacar no próximo lance.
 
-![Winboard Mate (com influências)](/img/winboard-mate-influence.png)
+{{< image src="winboard-mate-influence.png" caption="Winboard Mate (com influências)" >}}
 
 Agora ficou muito mais fácil de perceber que a única saída do rei não possui nenhuma proteção, já que tanto o peão quanto o próprio rei não podem fazer muita coisa se a dama atacar a diagonal vulnerável. E ela pode fazer isso.
 
-![Winboard Mate Final](/img/winboard-mate-final.png)
+{{< image src="winboard-mate-final.png" caption="Winboard Mate Final" >}}
 
 Essa maneira de mostrar as influências em um tabuleiro de xadrez eu apelidei de Influence Board, e criei um projeto em linha de comando para fazer as devidas considerações a respeito de uma posição determinada. Mas como ninguém hoje em dia gosta de usar o WinDbg pra jogar xadrez, transformei meu projeto em pseudo-plugin para o [WinBoard], um famoso frontend de xadrez que costumo usar em minhas esporádicas partidas.
 
@@ -37,9 +37,9 @@ Basicamente a única coisa que o futuro usuário das influências deve fazer é 
 
 Após compilado, basta rodar o winboard.exe gerado; haverá uma nova opção "Show Influence" do menu General. Voilà! É possível até jogar às cegas com esse brinquedinho (opção Blindfold).
 
-![WinBoard Options](/img/winboard-options3.png)
+{{< image src="winboard-options3.png" caption="WinBoard Options" >}}
 
-![Winboard Blindfold e Influence](/img/winboard-blindfold.png)
+{{< image src="winboard-blindfold.png" caption="Winboard Blindfold e Influence" >}}
 
 Bom divertimento!
 

@@ -49,7 +49,7 @@ if( findH != INVALID_HANDLE_VALUE )
 //...
 ```
 
-![](/img/dilbert.context.gif)
+{{< image src="dilbert.context.gif" caption="" >}}
 
 No caso de nós, que escrevemos uma "classe", o contexto é recebido "de fora":
 

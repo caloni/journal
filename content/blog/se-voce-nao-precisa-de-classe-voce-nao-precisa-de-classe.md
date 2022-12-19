@@ -50,7 +50,7 @@ Bjarne Stroustrup desde o começo, em seu livro [The C++ Programming Language](h
 
 Então o erro no código acima é supor mecanicamente que como é C++ precisa ter classe.
 
-![](/img/OoGOCOL.jpg)
+{{< image src="OoGOCOL.jpg" caption="" >}}
 
 Não. O código não precisa ter uma classe. No entanto, seu código precisa ter classe. Entendeu?
 

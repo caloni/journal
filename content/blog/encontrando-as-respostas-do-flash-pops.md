@@ -13,13 +13,13 @@ A primeira coisa que pensei a respeito desse jogo foi que ele não seria tão in
 
 A primeira coisa a fazer é carregar o jogo na memória do navegador. Em seguida, seguindo meu raciocínio inicial, digitei a primeira resposta do jogo.
 
-![Flash Pops (Filmes 1)](/img/flash-pops-jogo.png)
+{{< image src="flash-pops-jogo.png" caption="Flash Pops (Filmes 1)" >}}
 
 A partir daí, podemos "atachar" o WinDbg no processo do navegador e rastrear a memória do processo.
 
     windbg -pn firefox.exe
 
-![GPF Now!](/img/gpfnow.gif)
+{{< image src="gpfnow.gif" caption="GPF Now!" >}}
 
 Então, como eu dizia, não faça isso em casa enquanto estiver digitando um artigo de seu blogue dentro do navegador. Ele vai travar!
 
@@ -141,7 +141,7 @@ Bom, vou parar o dump por aqui, já que, entre os leitores, pode haver quem quer
 
 Vimos que o jogo é facilmente quebrável porque armazena as respostas em texto claro. Uma solução alternativa seria utilizar um hash com colisão próxima de zero. Com isso bastaria trocar as respostas possíveis por hashs possíveis e armazená-los no lugar. Quando o usuário digitasse, tudo que o programa precisaria mudar era gerar um hash a partir da resposta do usuário e comparar com o hashs das respostas válidas.
 
-![Flash Pops Seguro](/img/flash-pops.gif)
+{{< image src="flash-pops.gif" caption="Flash Pops Seguro" >}}
 
 Por uma incrível coincidência, esse truquezinho eu aprendi com meu amigo [Thiago] há poucos dias, que está lendo o livro Reversing. Simples, porém funcional.
 

@@ -88,7 +88,7 @@ After the program has been running, every try to attach will show a detection me
 
     windbg -pn antiattach.exe
 
-![Espertinho](/img/espertinho.png)
+{{< image src="espertinho.png" caption="Espertinho" >}}
 
 #### Code peculiarities
 

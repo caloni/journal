@@ -57,7 +57,7 @@ Se notarmos no artigo anterior, veremos que o conteúdo do arquivo lido não é 
 
 A leitura foi feita e o texto direto do arquivo veio em claro? O que está acontecendo? Quando abro pelo comando type ele aparece todo obscuro...
 
-![Saída dos arquivos do dicionário](/img/cmd.gif)
+{{< image src="cmd.gif" caption="Saída dos arquivos do dicionário" >}}
 
 Sim, alguma coisa não-trivial acaba de acontecer. Testei esse procedimento no laptop e no desktop, sendo que esse problema aconteceu apenas no desktop. Dessa vez a curiosidade falou mais alto que a preguiça, e tive que abrir as duas máquinas e comparar os resultados.
 
@@ -143,7 +143,7 @@ A primeira coisa que se faz numa hora dessas é comparar as versões dos compone
 
 OK. A versão instalada no desktop é bem antiga. Pode ser um indício. Fiz então a atualização e comparei novamente a saída de version. Tudo igual. Decidi então usar aquela lógica cética que é desenvolvida por quem costuma depurar coisas sinistras e esotéricas por anos e anos e não duvida de mais nada, mas também acredita piamente que tudo tem um motivo. Se não está aparente, basta descobri-lo. E foi o que eu fiz. Gerei dois dumps distintos, um no laptop e outro no desktop. Ambos estavam com os ponteiros de instrução apontados exatamente para a entrada da função ReadFile, início de todo esse problema. Copiei o dump do desktop para o laptop e vice-versa.
 
-![WinDbg Nerd](/img/windbg-nerd.gif)
+{{< image src="windbg-nerd.gif" caption="WinDbg Nerd" >}}
 
 Abri o dump do desktop no laptop: tudo funcionando. Abri o dump do laptop no desktop: mesmo erro. Conclusão óbvia: é algo relacionado com o WinDbg no desktop, uma vez que o estado da pilha que era mostrado corretamente no laptop em ambos os dumps falhava duplamente na máquina desktop.
 

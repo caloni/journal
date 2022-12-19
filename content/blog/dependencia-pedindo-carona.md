@@ -18,13 +18,13 @@ Para as dependências localizadas fora do executável final, por exemplo, as DLL
 
 Dessa forma, quando existirem unresolved externals fora do executável final, o responsável por dar o erro é o loader do sistema:
 
-![winnt4-process32next-unresolved2.png](/img/winnt4-process32next-unresolved2.png)
+{{< image src="winnt4-process32next-unresolved2.png" caption="winnt4-process32next-unresolved2.png" >}}
 
 Isso significa que o seu processo não poderá ser executado, pois faltam funções no ambiente que ele depende.
 
 Um recurso muito útil para ver essas funções é o Dependency Walker, meu amigo de infância:
 
-![depends-process32-not-found2.png](/img/depends-process32-not-found2.png)
+{{< image src="depends-process32-not-found2.png" caption="depends-process32-not-found2.png" >}}
 
 <blockquote>"Mas, Caloni, eu nem uso essa função! Como ela pode ser necessária?"</blockquote>
 
@@ -143,6 +143,6 @@ void UsingNewApis()
 }
 ```
 
-![depends-process32-not-needed.png](/img/depends-process32-not-needed.png)
+{{< image src="depends-process32-not-needed.png" caption="depends-process32-not-needed.png" >}}
 
 Agora a aplicação poderá rodar em paz naquele que é, como diz meu amigo, um sistema operacional de ponta... da outra ponta!
