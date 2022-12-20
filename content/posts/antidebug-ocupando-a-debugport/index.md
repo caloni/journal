@@ -60,7 +60,7 @@ Partindo desse princípio, podemos imaginar uma proteção baseada nessa exclusi
 
 Após o processo de attach, a porta de debug é ocupada, e a comunicação entre depurador e depurado é feita através do LPC. Abaixo uma pequena ilustração de como as coisas ocorrem:
 
-![Como funciona o LPC](/img/debugport.gif)
+{{< image src="debugport.gif" caption="Como funciona o LPC" >}}
 
 Basicamente o processo fica recebendo eventos de debug (através da fila de mensagens LPC) continuamente até o evento final, o de final de processo. Note que se alguém tentar derrubar o processo que depura o processo depurado cai junto.
 

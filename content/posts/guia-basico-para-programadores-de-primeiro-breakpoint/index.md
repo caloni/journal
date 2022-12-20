@@ -9,7 +9,7 @@ Aproveitando um dos últimos artigos que fala sobre [conceitos básicos de progr
 
 É interessante notar como muitos ignoram a utilidade e conveniência das tradicionais e poderosas ferramentas de depuração passo-a-passo. O motivo pode ser puro desdém ou ignorância (no sentido de desconhecimento). Se for pelo segundo, aí vão algumas dicas para dar uma passada geral no seu programa e, quem sabe, encontrar um ou outro bug pelo caminho.
 
-![](/img/debug.png)
+{{< image src="debug.png" caption="" >}}
 
 Os comandos mais comuns de debug são: Start/Continue, Break, Stop, Restart, Show Next Statement, Step Into, Step Over e Step Out.
 

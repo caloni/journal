@@ -86,7 +86,7 @@ O novo código chama através do mesmo ponteiro o mesmo método (duh), mas atrav
 
 Cada compilador e plataforma tem a liberdade de implementar o padrão C++ da maneira que quiser, mas o conceito no final acaba ficando quase a mesma coisa. No caso de ponteiros de métodos, o ponteiro guarda realmente o endereço da função que pertence à classe. Porém, como todo método não-estático em C++, para chamá-lo é necessário possuir um this, ou seja, o ponteiro para a instância:
 
-![Ponteiros de método](/img/fuzzycall.gif)
+{{< image src="fuzzycall.gif" caption="Ponteiros de método" >}}
 
 Em assembly teremos algo assim:
 

@@ -18,7 +18,7 @@ Os três comandos simples não são nada do outro mundo: criar o repositório, a
 
 Tanto faz qual controle você pretende usar. No meu exemplo usarei o Bazaar, que é a ferramenta que [uso no dia-a-dia](http://www.caloni.com.br/como-estou-trabalhando-com-o-bazaar) com minha pequena equipe e serve bem para programadores solitários também. Basicamente para ter o Bazzar instalado basta [baixá-lo](http://wiki.bazaar.canonical.com/Download), next next e finish.
 
-![Marcar para usar o PATH pode ser uma boa pra quem é fã de linha de comando.](/img/BcRIM4W.png)
+{{< image src="BcRIM4W.png" caption="Marcar para usar o PATH pode ser uma boa pra quem é fã de linha de comando." >}}
 
 _Marcar para usar o PATH pode ser uma boa pra quem é fã de linha de comando._
 

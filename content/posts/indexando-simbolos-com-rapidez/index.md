@@ -21,13 +21,13 @@ rc_new_content = re.sub(u'^.*FILEVERSION.*$', file_version_string, rc_new_conten
 
 Quando algum binário parar na máquina de algum cliente em algum lugar do universo, basta olhar para os detalhes pelo Windows Explorer, e ele estará lá:
 
-![](/img/mogZt3n.png)
+{{< image src="mogZt3n.png" caption="" >}}
 
 Através desse a2f3c... podemos capturar o commit exato de onde saiu o binário. Tudo, é claro, confiando no procedimento de toda a equipe: apenas gerar um binário a partir de um commit publicado.
 
 Você também pode exibir a versão dos binários em uma pasta através das colunas do Windows Explorer:
 
-![](/img/vfY2oan.png)
+{{< image src="vfY2oan.png" caption="" >}}
 
 ### Indexando símbolos e binários
 
@@ -56,7 +56,7 @@ Windows Registry Editor Version 5.00
 
 Você pode baixar um arquivo reg [aqui](/download/index-symbols.reg), copiar as linhas acima em um .reg que você gerar, ou simplesmente seguir o passo-a-passo dessas linhas e gerar seu próprio registro. Após feito isso, surgirá um novo comando para qualquer DLL que você clicar com o outro botão do mouse:
 
-![](/img/tvCCYcm.png)
+{{< image src="tvCCYcm.png" caption="" >}}
 
 Você também pode gerar o mesmo comando para EXEs, bastando realizar o mesmo passo-a-passo na pasta **exefile** em vez de **dllfile**.
 

@@ -52,7 +52,7 @@ A estrutura é uma composição complexa em C, mas permite um organização melh
 
 Aparentemente o tema estrutura é mais simples que ponteiros, e deveria ser tratado antes. Porém, fazer isso impediria abordar o tema de listas ligadas e outras estruturas que dependem do uso de ponteiros para que estruturas referenciem elas mesmas, algo extremamente recorrente no mundo da programação.
 
-![](/img/binary-tree.gif)
+{{< image src="binary-tree.gif" caption="" >}}
 
 É sempre bom lembrar que o uso de estruturas foi o nascimento do C++, que prima pela elegância na organização e harmonia entre seu código e dados. A linguagem C também não fica para trás, mas é importante saber usar.
 

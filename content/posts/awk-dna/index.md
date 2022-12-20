@@ -7,7 +7,7 @@ tags: null
 title: AWK and DNA
 ---
 
-![](/img/dna-chips.png)
+{{< image src="dna-chips.png" caption="" >}}
 
 Pesquisando sobre otimização de AWK eu encontro este post em que uma pessoa tenta tornar a análise de sequências de DNA na nuvem algo financeiramente e computacionalmente viável. Ela começa tentando o óbvio, usando SQL nas próprias estruturas de CSV hospedadas na S3, passa por tentativas de particionar os blocos, por entender como paralelizar a operação e termina em uma solução que usa AWK junto de GNU Parallel, redirecionando a saída para que a linguagem R processe.
 

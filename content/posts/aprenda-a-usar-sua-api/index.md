@@ -76,7 +76,7 @@ int main()
 }
 ```
 
-![Jurassic Park](/img/jurassicpark.png)
+{{< image src="jurassicpark.png" caption="Jurassic Park" >}}
 
 Nem sempre o handle que obtemos é fechado com CloseHandle. As funções abaixo retornam handles que devem ser desalocados com as funções à direita:
 

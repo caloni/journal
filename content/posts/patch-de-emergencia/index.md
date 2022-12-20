@@ -8,11 +8,11 @@ title: Patch de emergência
 
 Após um projeto muito bem sucedido, entregue no prazo e homologado em tempo recorde, você e sua equipe estão aproveitando suas devidas férias nas Bahamas, tomando água de coco na sombra de uma palmeira e apreciando a beleza natural da região. Ambas as belezas. =)
 
-![Club-med-beach-governors-harbour-eleuthera-bahamas](/img/ggKPJuT.jpg)
+{{< image src="ggKPJuT.jpg" caption="Club-med-beach-governors-harbour-eleuthera-bahamas" >}}
 
 Mas eis que liga o seu gerente para o celular vermelho que te entregou no caso de emergências críticas e te avisa que um problema crítico foi detectado em um serviço crítico: o detector de pares. Consegue ver o erro?
 
-![Detector de Pares](/img/wHctVe6.png)
+{{< image src="wHctVe6.png" caption="Detector de Pares" >}}
 
 <blockquote>_Oh, meu Deus!_</blockquote>
 
@@ -55,7 +55,7 @@ Mais uma vez calmo da vida, você diz que isso é coisa de criança. Tudo que pr
 
 Tudo que você precisa é abrir o processo pelo WinDbg, encontrar a versão defeituosa e substituir os bytes certos.
 
-![Corrigindo versão](/img/zrZQir4.png)
+{{< image src="zrZQir4.png" caption="Corrigindo versão" >}}
 
 <blockquote>_Nota: O parâmetro -pv permite depurar um processo de forma não-invasiva, mas as threads serão suspensas. Já com -pvr podemos depurar de forma não-invasiva e ainda conseguir manter as threads do processo rodando._</blockquote>
 
@@ -87,7 +87,7 @@ Podemos começar escrevendo a função nova da memória do processo de teste par
 
 Em seguida iremos sobrescrever a função antiga no processo em execução. Para evitar crashes é vital que tenhamos certeza que a função não estará sendo executada nesse momento. No nosso caso basta aguardar a entrada na função Sleep da API, que dorme por 3 segundos, tempo suficiente para a atualização.
 
-![Live Patch!](/img/bMI63Ka.png)
+{{< image src="bMI63Ka.png" caption="Live Patch!" >}}
 
     
     0:000> .readmem c:\tests\newfunc.dat criticalservice!DoProcess 0040107e

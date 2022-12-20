@@ -37,11 +37,11 @@ A engenharia reversa das entranhas do kernel não tem limites se você sabe o qu
 
 O comando [!peb](http://windbg.info/doc/1-common-cmds.html#11_process) traz inúmeras informações sobre essa estrutura. Mas talvez estivéssemos interessados em coisas não mostradas por esse comando, mas [que existem na estrutura](http://undocumented.ntinternals.net/UserMode/Undocumented%20Functions/NT%20Objects/Process/PEB.html).
 
-![PEB ¿não-documentado¿](/img/L3E4KSS.png)
+{{< image src="L3E4KSS.png" caption="PEB ¿não-documentado¿" >}}
 
 Nesse caso, podemos criar um projeto vazio que contenha a definição da estrutura **como acreditamos** que esteja na versão do kernel que estamos depurando.
 
-![MyPEB](/img/l4oLJHR.png)
+{{< image src="l4oLJHR.png" caption="MyPEB" >}}
 
 Compilamos e geramos um PDB (arquivo de símbolos) que contém a definição desse tipo. Tudo que precisamos fazer agora é carregar esse símbolo na sessão que estivermos depurando.
 

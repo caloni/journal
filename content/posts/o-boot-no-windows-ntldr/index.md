@@ -8,7 +8,7 @@ title: 'O boot no Windows: NTLDR'
 
 Minhas análises estão demorando muito para ser feitas. Talvez seja a hora de revelar o pouco que sei (e pesquisei) sobre o próximo processo de boot do Windows: o NTLDR.
 
-![Galinha Preta](/img/galinha-preta.jpg)
+{{< image src="galinha-preta.jpg" caption="Galinha Preta" >}}
 
 O nosso amigo NT Loader pode ser entendido através da leitura do já citado **Windows Internals** ou através de uma outra leitura que estou fazendo atualmente e que [pouquíssimos amigos blogueiros](http://www.driverentry.com.br) irão se lembrar: o [livro da galinha preta](http://www.amazon.com/Windows-File-System-Internals-Developers/dp/1565922492); formalmente conhecido como **Windows Nt File System Internals**.
 
@@ -20,7 +20,7 @@ Podemos aprender, por exemplo, que ele é carregado **logo depois do NT Detect**
 
 O NTLDR é um executável "híbrido" que possui tanto código em modo real quanto código em modo protegido. Com isso podemos supor que é ele o responsável por entrar em modo protegido, uma tarefa que exige [alguns conhecimentos da arquitetura](http://en.wikipedia.org/wiki/Protected_mode).
 
-![ntldr-phase.png](/img/mRuFXJA.png)
+{{< image src="mRuFXJA.png" caption="ntldr-phase.png" >}}
 
 Além disso, como o próprio nome diz, ele tecnicamente "sobe" o sistema operacional, pois provê a comunicação entre o hardware (processador e periféricos da máquina) e o software (kernel e drivers de boot). O hardware é o que está espetado na máquina e o kernel é o arquivo **ntoskrnl.exe**; para a comunicação entre eles existe uma camada de abstração, o **hal.dll**.
 
@@ -32,13 +32,13 @@ Nesse ponto o nosso amigo loader faz o que todo mundo já fez na infância (não
 
 Como ele leu a lista de kernels bootáveis, é isso que ele exibe naquela famosa tela que qualquer um que depura o kernel vê:
 
-![é ele que exibe o menu de boot do sistema operacional??](/img/iJun9Gw.png)
+{{< image src="iJun9Gw.png" caption="é ele que exibe o menu de boot do sistema operacional??" >}}
 
 Escolheu seu boot, é a partir daí que ele acha o executável do kernel: **ntoskrnl.exe**. Ele deve estar na pasta system32 (em ambientes 32 bits). Também é nesse momento que é carregada a HAL (hal.dll) e isola-se o hardware do software a partir daí. As DLLs que esses dois componentes dependem são identificadas e carregadas na memória.
 
 Agora é hora de abrir o registro. Quer dizer, parte dele. Dentro da pasta system32/config deve estar a [hive](http://en.wikipedia.org/wiki/Windows_Registry#Hives) SYSTEM, que é onde ficam os drivers que devem ser carregados a partir daí em vários níveis. Inicialmente são carregados os que possuem o valor **Start igual a zero**, como o driver Atapi (controlador de disco):
 
-![driver-atapi.png](/img/2ewkFhs.png)
+{{< image src="2ewkFhs.png" caption="driver-atapi.png" >}}
 
 A partir daí vários componentes do kernel serão carregados progressivamente. Só que a partir do momento que é chamada a rotina interna **KiInitializeKernel** o NTLDR não tem mais nada pra fazer: o kernel, em sua forma básica e primitiva, está carregado.
 

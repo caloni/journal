@@ -15,7 +15,7 @@ Portanto, o objetivo desse programa é simples e direto: mover o mouse para um c
 
 Um loop de mensagens é a maneira definida pelo Windows para avisar as aplicações dos eventos que ocorrerem no sistema que são relevantes para as suas janelas. Teremos chance de observar isso mais vezes, mas por enquanto basta ter uma visão geral do fluxo de mensagens que ocorre quando digitarmos a nossa tecla de atalho.
 
-![Ilustração do loop de mensagens no Windows para input do usuário](/img/windows_loop_mensagens_input.gif)
+{{< image src="windows_loop_mensagens_input.gif" caption="Ilustração do loop de mensagens no Windows para input do usuário" >}}
 
 Como você pode ver o [código] não tem muitos segredos. Para registrar os atalhos, usamos a função RegisterHotKey. Para manipular os eventos usamos o tal loop de mensagens e manipulamos a mensagem WM_HOTKEY de acordo com a tecla pressionada. Para mover o mouse usamos a função SetCursorPos (e para armazenar a posição atual GetCursorPos). Por fim, para ler configurações de um .ini usamos a função GetPrivateProfileInt. Abaixo um exemplo desse arquivo texto:
 

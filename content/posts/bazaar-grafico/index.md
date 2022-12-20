@@ -37,25 +37,25 @@ Os que eu mais uso no dia-a-dia são:
 
 #### qlog e qbrowse
 
-![Comando qlog do Bazaar](/img/kskAIzb.png)
+{{< image src="kskAIzb.png" caption="Comando qlog do Bazaar" >}}
 
 Diversão garantida. Por meio destes simples comandos podemos ver o histórico de commits e navegar pela árvore de pastas e arquivos com a anotação do último commit para cada elemento. Só para ter uma ideia de quanto uso isso, transformei-os em opções do Explorer.
 
-![Bazaar Shell Extension na Mão](/img/UoeYg7V.png)
+{{< image src="UoeYg7V.png" caption="Bazaar Shell Extension na Mão" >}}
 
 Além da utilidade básica, de quebra, o qbrowse pode te levar para um qlog filtrado, e o qlog pode te levar a um diff gráfico, que é o próximo comando que eu iria mostrar.
 
-![Comando qbrowse do Bazaar](/img/ejnlqLn.png)
+{{< image src="ejnlqLn.png" caption="Comando qbrowse do Bazaar" >}}
 
 #### qdiff
 
 Coisa linda de Deus. Existem dois modos de exibição, mas o padrão já é show de bola, mostrando as mudanças em todos os arquivos de um commit de uma só vez ou do arquivo/pasta especificado pelo comando. É lógico que é possível especificar qualquer faixa de commits que você quiser ver.
 
-![Comando qdiff do Bazaar](/img/PZW0KOr.png)
+{{< image src="PZW0KOr.png" caption="Comando qdiff do Bazaar" >}}
 
 Uma desvantagem desse comando é que ele oculta o resto das linhas do fonte e não mostra de jeito nenhum (pelo menos não descobri ainda como fazer isso). Sendo assim, para uma análise mais detalhada das diferenças no código-fonte sempre use um editor externo que consiga comparar arquivos inteiros (eu uso o WinMerge). Você pode colocar esse comando na forma de um diff personalizado, com o uso do qconfig.
 
-![Comando qconfig do Bazaar](/img/TyYMS4s.png)
+{{< image src="TyYMS4s.png" caption="Comando qconfig do Bazaar" >}}
 
 ####  Bônus
 

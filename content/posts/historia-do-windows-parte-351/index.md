@@ -21,7 +21,7 @@ Para o Chicago foi desenvolvida uma nova API para substituir a de 16 bits do Win
 
 Em setembro de 1994 é lançada o Windows NT 3.5. A versão Workstation substituiu o Windows NT 3.1 e a versão Server o Windows NT 3.1 Advanced Server.
 
-![Windows NT 3.51 Workstation](/img/windows_workstation.jpg)
+{{< image src="windows_workstation.jpg" caption="Windows NT 3.51 Workstation" >}}
 
 Como todo projeto de sucesso, a primeira coisa a ser feita é definir os objetivos principais. No caso do Windows NT não foi diferente. É importante para nós sabermos que objetivos eram esses e como eles foram mudando de acordo com o momento histórico de forma a analisarmos as conseqüências. Em outubro de 1988 os objetivos do novo sistema operacional eram os seguintes:
 

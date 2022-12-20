@@ -19,7 +19,7 @@ Uma outra frase resume o caminho trilhado pela empresa a partir de então:
 
 Com o advento dos novos lançamentos da Intel, os processadores 80286 e 80386, o Windows acabou sendo atualizado duas vezes para aproveitar as novas características dos dois sistemas. E assim nasceram as versões 2.1.x do Windows, respectivamente conhecidas como Windows/286 e Windows/386.
 
-![Windows 2.0](/img/windows2.jpg)
+{{< image src="windows2.jpg" caption="Windows 2.0" >}}
 
 A próxima versão do Windows é que vai alavancar as vendas da Microsoft de uma vez por todas. Veremos que boa parte da API que usamos hoje em dia já existia no Windows 3.0, e boa parte das peculiaridades que nos perseguem até hoje.
 

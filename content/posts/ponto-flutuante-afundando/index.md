@@ -33,7 +33,7 @@ int main()
 
 Isso ocorre porque sua representação dentro da variável double é diferente de 272.0 do outro double. Depurando vemos mais claramente:
 
-![Ponto Flutuante Afundando](/img/TnsgAlZ.png)
+{{< image src="TnsgAlZ.png" caption="Ponto Flutuante Afundando" >}}
 
 Ou seja, quando fazemos a subtração de d2 em d1, nossa precisão raspa um pouquinho e escapa pela beirada:
 
@@ -47,7 +47,7 @@ Ou seja, quando fazemos a subtração de d2 em d1, nossa precisão raspa um pouq
 
 Na comparação com o valor redondo aparece a falha, mas note que isso não ocorre com os outros valores d1 e d2, já que o armazenamento adquire o mesmo formato:
 
-![Ponto Flutuante Afundando (2)](/img/mqHh0wA.png)
+{{< image src="mqHh0wA.png" caption="Ponto Flutuante Afundando (2)" >}}
 
 ##### Corrigindo o incorrigível
 

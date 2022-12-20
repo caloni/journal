@@ -7,7 +7,7 @@ title: História do Windows - parte 5.0
 
 Em novembro de 1998 (apenas para parceiros Microsoft) é lançada a versão 5.0 do Windows NT, conhecida como Windows 2000. Melhorias significativas foram feitas no acesso à internet, intranet e extranet. Aplicações de gerenciamento se integram fortemente e a grande novidade em termos de estruturação de dados é o Active Directory, uma tecnologia compatível com o conceito de Distributed File System, que viabiliza uma nova forma das empresas organizarem seus dados de maneira mais transparente à rede. Assim começou a [História do Windows] para redes de gente grande.
 
-![Windows 2000 Logo](/img/windows_2000.png)
+{{< image src="windows_2000.png" caption="Windows 2000 Logo" >}}
 
 Vamos aproveitar que a versão NT foi melhorada para dar uma recapitulada geral de como as coisas funcionam internamente no sistema operacional. Em um desenho da arquitetura veremos diferentes módulos que fazem parte do sistema operacional que dividem funções específicas e que possuem métodos específicos de comunicação interna e externa. Importante notar que a divisão entre os componentes que descreverei abaixo já existia desde a primeira versão do NT, sendo que apenas alguns itens foram adicionados, como o Gerenciador de Plug & Play e o Gerenciador de Energia. Os elementos principais do Windows, visto sob camadas de abstração, são:
 
@@ -24,7 +24,7 @@ Vamos aproveitar que a versão NT foi melhorada para dar uma recapitulada geral 
  - Hardware Abstraction Layer (aka HAL);
  - Por fim, o hardware.
 
-![Windows Architecture](/img/windows_architecture.png)
+{{< image src="windows_architecture.png" caption="Windows Architecture" >}}
 
 > Um outro item importantíssimo que foi movido da versão 3.51 para a 4.0 é a GDI, responsável pelos gráficos. Inicialmente ela estava no modo de usuário, mas a necessidade de aumentar o desempenho do sistema fez com que ela fosse incorporada ao núcleo do sistema.  Agora vamos dissecar as partes interessantes.
 
