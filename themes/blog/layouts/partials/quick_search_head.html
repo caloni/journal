@@ -6,7 +6,7 @@ var quick_search_posts = [
 "{{ $taxonomyname }}/{{ $key }}",
 {{ end }}{{ end }}
 {{ range .Site.RegularPages }}
-"{{ .File.TranslationBaseName }}",
+"{{ .Permalink }}",
 {{ end }}
 ];
 </script>
