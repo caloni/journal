@@ -33,7 +33,9 @@ A operação acima é realizada através de microinstruções bem sucintas:
 
 Pilha é uma forma de armazenar memória em blocos empilhados um-a-um. Esses blocos são empilhados na ordem a, b, c e desempilhados na ordem c, b, a. Ou seja, quem foi empilhado por último será o primeiro a ser desempilhado. A analogia com uma pilha de pratos é óbvia e simples de imaginar.
 
-{{< image src="EmiZKdc.gif" caption="Pratos de cozinha empilhados.](/img/wZ6kKs8.jpg)![Exemplo de pilha na memória." >}}
+{{< image src="EmiZKdc.gif" caption="Pratos de cozinha empilhados." >}}
+
+{{< image src="wZ6kKs8.jpg" caption="Exemplo de pilha na memória." >}}
 
 Para isso funcionar em termos de memória computacional, o programa reserva um espaço de memória com começo e fim que irá guardar os blocos empilhados. Além de ter começo e fim é necessário ter um marcador de onde estamos para empilhar o próximo item ou desempilhar o último.
 

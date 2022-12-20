@@ -8,7 +8,9 @@ title: Como usar WTL com o ATL do DDK
 
 Eu simplemente não entendo a organização dos cabeçalhos e fontes dos SDKs da Microsoft. Houve uma vez em que o [ATL](http://www.1bit.com.br/content.1bit/weblog/sopa_de_letrinhas_ATL) era distribuído junto com o SDK, e dessa forma conseguíamos usar o [WTL](http://www.1bit.com.br/content.1bit/weblog/sopa_de_letrinhas_wtl) sem ônus. Porém, um belo dia, isso é retirado do pacote, para tristeza dos que já haviam convertido a biblioteca de janelas para fonte aberto.
 
-No entanto, num belo dia, qual não foi minha surpresa ao notar [umas pastinhas](http://www.caloni.com.br/img/OoiV6X7.png) chamadas atl21, atl30 e atl71 dentro da distribuição do WDK (o finado DDK, renomeado sabe-se-lá-por-quê)? Pelo visto, tem alguém arrastando coisa errada pra onde não devia nos instaladores de Seattle. Esses estagiários!
+No entanto, num belo dia, qual não foi minha surpresa ao notar umas pastinhas chamadas atl21, atl30 e atl71 dentro da distribuição do WDK (o finado DDK, renomeado sabe-se-lá-por-quê)? Pelo visto, tem alguém arrastando coisa errada pra onde não devia nos instaladores de Seattle. Esses estagiários!
+
+{{< image src="OoiV6X7.png" caption="" >}}
 
 O fato é que eles fizeram isso, e agora é possível ter o WTL mais novo compilado com o WDK. E nem é tão difícil assim.
 

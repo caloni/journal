@@ -58,7 +58,9 @@ Vamos fazer algo não tão esperto para ver como o bloco de notas reage. Tente a
 
 {{< image src="notepad_file_not_found.png" caption="Notepad File Not Found" >}}
 
-Como podemos ver o Bloco de Notas exibe uma mensagem de erro indicando que o arquivo cujo nome você digitou não existe, pede para você verificar a [orografia] e tudo o mais. O importante aqui não é que você não sabe digitar nomes de arquivos, mas sim qual a função que o notepad usa para exibir sua mensagem de erro. Na versão original deste post esta função era a MessageBox, e eu seguia explicando o protótipo da função e seus argumentos. Hoje, 2021-03-07, no Windows 10, descubro que o MessageBox não é mais usado, dando lugar ao ShellMessageBoxW. Como eu descobri isso? Bom, eu segui os mesmos passos do post original e coloquei um breakpoint em MessageBox e executei novamente a abertura de um arquivo inválido e... o breakpoint não disparou. Nesse caso eu dei uma olhada na pilha de chamada de todas as threads para encontrar alguma thread que chamou funções de janela. Para isso você pode usar o comando ~*kvn (para todas as threads exiba a pilha de chamadas no modo verbose).
+Como podemos ver o Bloco de Notas exibe uma mensagem de erro indicando que o arquivo cujo nome você digitou não existe, pede para você verificar a orografia e tudo o mais. O importante aqui não é que você não sabe digitar nomes de arquivos, mas sim qual a função que o notepad usa para exibir sua mensagem de erro. Na versão original deste post esta função era a MessageBox, e eu seguia explicando o protótipo da função e seus argumentos. Hoje, 2021-03-07, no Windows 10, descubro que o MessageBox não é mais usado, dando lugar ao ShellMessageBoxW. Como eu descobri isso? Bom, eu segui os mesmos passos do post original e coloquei um breakpoint em MessageBox e executei novamente a abertura de um arquivo inválido e... o breakpoint não disparou. Nesse caso eu dei uma olhada na pilha de chamada de todas as threads para encontrar alguma thread que chamou funções de janela. Para isso você pode usar o comando ~*kvn (para todas as threads exiba a pilha de chamadas no modo verbose).
+
+{{< image src="orografia.jpg" caption="Orografia" >}}
 
 Na saída abaixo você pode encontrar essa chamada na primeira thread, a 2b14.30f8, no stack frame 0x0e.
 
@@ -125,4 +127,3 @@ Note que se estivéssemos tentando exibir uma string Ansi iríamos usar o comand
 Repare que colocamos esse breakpoint diretamente na função API, ou seja, qualquer outro ponto do notepad em que ele tiver vontade de chamar a mesma API irá ativar o mesmo breakpoint e exibir a mesma mensagem, o que pode ser um pouco importuno da parte dele. Um bom exercício pós-leitura seria tratar as condições em que a mensagem será trocada, talvez se baseando na mensagem recebida. Mas isso já é lição de casa, e paramos por aqui.
 
 [primeiro artigo sobre o WinDbg]: /introducao-ao-debugging-tools-for-windows
-[orografia]: /img/orografia.jpg

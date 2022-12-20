@@ -8,7 +8,9 @@ title: 'Básico do básico: tipos'
 
 Um tipo nada mais é que do que uma forma (ô) de bolo, que **molda a memória** como acharmos melhor moldá-la. Bom, para isso fazer sentido é necessário explicar memória, que é um conceito **mais básico ainda**.
 
-A memória é **qualquer lugar** onde eu possa **guardar alguma coisa**. No [artigo anterior](http://www.caloni.com.br/basico-do-basico-ponteiros) era um punhado de [gavetas](http://www.caloni.com.br/img/sx9fYjS.gif). Mas poderiam muito bem ser caixas de presente. Ou um caderno. Ou até uma placa de memória RAM. O que sua criatividade quiser.
+A memória é **qualquer lugar** onde eu possa **guardar alguma coisa**. No [artigo anterior](http://www.caloni.com.br/basico-do-basico-ponteiros) era um punhado de gavetas. Mas poderiam muito bem ser caixas de presente. Ou um caderno. Ou até uma placa de memória RAM. O que sua criatividade quiser.
+
+{{< image src="sx9fYjS.gif" caption="" >}}
 
 O importante no conceito de memória, computacionalmente falando, é saber que ela pode guardar qualquer tipo de informação, mas ela **não sabe o que você está guardando**. E eis que surge o segredo do **tipo**: ele conta para você, e seu programa, o que de fato está guardado na memória.
 
