@@ -108,6 +108,6 @@ Bom, desde o VS 2010 e até o VS2017 RC essa ferramenta está disponível na pas
 
 {{< image src="2yUrl8z.png" caption="" >}}
 
-Você até já sabe qual o caminho do sucesso: **All access to everyoooone**!!! ;)
+Você até já sabe qual o caminho do sucesso: **[All access to everyoooone](/o-profissional)**!!! ;)
 
-[![](/img/ajBG8fM.gif)](http://cinetenisverde.com.br/o-profissional)
+{{< image src="ajBG8fM.gif" caption="" >}}

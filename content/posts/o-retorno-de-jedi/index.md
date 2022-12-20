@@ -12,4 +12,4 @@ Hora de assistir novamente a conclusão da saga de George Lucas, dessa vez após
 Apesar de nossos heróis, é inegável que tudo converge para Darth Vader, e é ele quem rouba a cena, mesmo quando não está presente. É uma figura ameaçadora que foi crescendo a cada filme, onde agora tudo passa a girar em torno dele; até o Imperador, seu mestre, apenas existe para guiar seu pupilo por meio das trevas do Lado Negro da Força e impedir que Luke se torne um Jedi. O sentido da [Guerra nas Estrelas] e suas batalhas converge para a luta entre o bem e o mal, ainda em uma época em que esses conceitos eram muito bem definidos e onde o bem ainda não era relativo, como gostaria que fosse o Imperador Palpatine. Nesse sentido, a inversão temporal das trilogias ganha mais do que perde. Assisti-las em qualquer ordem lhe dará uma visão diferente dos fatos.
 
 [A Vingança dos Sith]: /star-wars-episodio-iii-a-vinganca-dos-sith
-[Guerra nas Estrelas]: /guerra-nas-estrelas
+[Guerra nas Estrelas]: /star-wars-guerra-nas-estrelas

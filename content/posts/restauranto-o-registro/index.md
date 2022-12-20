@@ -59,7 +59,7 @@ Só preciso agora renomear meu arquivo para .bat e executar. Posso redirecionar 
 
 Nesse momento podemos ir tomar café. Bem melhor do que ficar horas e horas dando localizar, copiar, colar em todas as entradas do regsvr.
 
-[![Tomando café](/img/jBRCDmf.jpg)](http://www.caloni.com.br/blog/restauranto-o-registro/tomando-cafe/)
+{{< image src="jBRCDmf.jpg" caption="Tomando café" >}}
 
 Terminada a operação, abrimos o terceiro arquivo, retiramos as entradas insignificantes (por exemplo, o gerador de sementes de números randômicos) e os cabeçalhos do comando, algo bem fácil já que se trata do mesmo arquivo.
 

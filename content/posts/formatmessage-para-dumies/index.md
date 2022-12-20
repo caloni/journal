@@ -35,7 +35,7 @@ As flags do parâmetro dwFlags mudam radicalmente o funcionamento da rotina, o q
 
 No caso do FormatMessage, a variável dwFlags se divide em dois para especificar dois grupos de opções distintos. A parte maior contém as opções armazenadas tradicionalmente como um mapa de bits, enquanto o byte menos significativo define como será tratada a saída final, com respeito às novas linhas e qual será a largura máxima de uma linha na saída.
 
-[![Flags para FormatMessage](/img/8nKXyBs.png)](http://www.caloni.com.br/blog/formatmessage-para-dumies/peixe-gelatinoso-bizarro-do-brasil-conhece-esse-pais/)
+{{< image src="8nKXyBs.png" caption="Flags para FormatMessage" >}}
 
 #### Source
 

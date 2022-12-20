@@ -96,6 +96,6 @@ Variáveis volatile geralmente interagem de alguma forma com o sistema em que ro
     /// endereça o relógio do sistema, atualizado a cada 1/100 milissegundos
     const volatile int* g_systemClock = (const volatile int*) 0x7689B9D4;
 
-[![mutante.jpg](/img/4zUSxmJ.jpg) ](http://fotos-videos-incriveis.blogspot.com/2009/04/tubarao-mutante.html)
+{{< image src="4zUSxmJ.jpg" caption="mutante" >}}
 
 A definição de *g_systemClock é de uma memória que não pode ser alterada; só que ela é, pelo sistema. Então a variável também é volatile. No entanto, independente de ser const ou volatile, o tipo nunca será **alterado**, apenas **qualificado**. São duas coisas diferentes na linguagem.

@@ -17,4 +17,4 @@ Encontrando espaço para "homenagear" de maneira irretocável os clássicos Star
 
 [Aliens]: /aliens-o-resgate
 [Community]: /community
-[Star Wars]: /guerra-nas-estrelas
+[Star Wars]: /star-wars-guerra-nas-estrelas
