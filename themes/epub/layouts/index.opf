@@ -45,7 +45,7 @@
 	{{- with  .Resources.ByType "image" -}}
 		{{- range . }}		
 			{{- $scaled := .Resize $size }}
-   <item href="{{ replace $scaled.RelPermalink "/OEBPS/" "" }}" id="img_{{ $n }}" media-type="image/{{ if in $scaled.RelPermalink ".png"}}png{{ else }}jpeg{{ end }}" />
+   <item href="{{ replace $scaled.RelPermalink "/OEBPS/" "" }}" id="img_{{ $n }}" media-type="image/{{ if in $scaled.RelPermalink ".png"}}png{{ else if in $scaled.RelPermalink ".gif"}}gif{{ else }}jpeg{{ end }}" />
 {{- $n = add $n 1 -}}
 		{{- end -}}
 	{{- end -}}
