@@ -1,6 +1,8 @@
 <!-- rawfile -->
-{{ $src := (printf "/static/chess/%s" (.Get "src") ) }}
-{{ $fileContent := readFile $src }}
+{{ $src := .Get "src" }}
+{{ $src = print "*" $src "*" -}}
+{{- with  $.Page.Resources.GetMatch $src -}}
 <pre>
-{{ $fileContent }}
+{{ .Content }}
 </pre>
+{{- end -}}
