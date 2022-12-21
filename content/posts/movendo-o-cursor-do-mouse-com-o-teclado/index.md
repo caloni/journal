@@ -25,4 +25,4 @@ Como você pode ver o [código] não tem muitos segredos. Para registrar os atal
 
 Você acha que os atalhos "WinKey + Del", "WinKey + Insert" e "WinKey + End" foram uma má escolha para essa função de esconder o mouse? Concordo. Fiz de propósito. Que tal customizar o programa para que as teclas sejam lidas do arquivo de configuração HideCursor.ini?
 
-[código]: {{< ref "code/registerhotkey.cpp" >}}
+[código]: {{< resource "registerhotkey.cpp" >}}
