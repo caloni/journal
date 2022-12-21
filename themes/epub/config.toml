@@ -15,6 +15,8 @@ disablePathToLower = true
 [permalinks]
 # add your section name(s) here. Default is "posts"
   posts = "/OEBPS/chapter/:filename"
+  drafts = "/OEBPS/chapter/:filename"
+  news = "/OEBPS/chapter/:filename"
   "/" = "/OEBPS/:filename"
   
 [mediaTypes]
