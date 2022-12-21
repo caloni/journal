@@ -16,4 +16,4 @@ Embora ou por causa de nunca revelar a estratégia de Bazil por completo, a hist
 
 A capacidade do filme de entreter é tanta que até nos esquecemos do real objetivo do herói, o que pode soar preocupante pois existe drama em sua história. Só que em vez de drama o que vimos são exercícios de relaxamento quando ele, ansioso, parece perder a respiração, e que mais uma vez inevitavelmente relembram a figura idealista de Amélie Poulain, principalmente por estarem esses inseridos como mera curiosidade, sem conexão com o que está ocorrendo na tela.
 
-[Amélie Poulain]: /amelie-poulain
+[Amélie Poulain]: {{< ref "amelie-poulain" >}}

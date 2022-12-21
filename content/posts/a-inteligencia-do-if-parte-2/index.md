@@ -68,4 +68,4 @@ Dessa forma, para executar o salto baseado em um resultado de 0 ou 1 (o Zero Fla
 
 Lembre-se que essa é apenas uma demonstração de como pode funcionar um salto condicional através de cálculos matemáticos. De maneira alguma estou afirmando que é feito dessa forma. Aliás, existem inúmeras formas de realizar esse salto. Uma segunda solução seria adicionar a defasagem (offset) entre o endereço da próxima instrução e o endereço do salto. Meu objetivo foi apenas ilustrar que, dado um problema, pode haver várias soluções. Talvez mais para a frente veremos como é implementado um if em assembly, subindo mais um nível de abstração. Por enquanto estamos apenas trabalhando no nível filosófico. O mais importante de todos.
 
-[primeira parte]: /a-inteligencia-do-if-parte-1
+[primeira parte]: {{< ref "a-inteligencia-do-if-parte-1" >}}

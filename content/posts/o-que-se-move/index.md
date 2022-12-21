@@ -17,4 +17,4 @@ Mesmo assim o diretor/roteirista insiste em sua temática, o que revela em seu t
 
 Enquanto tentamos juntar as peças derrubadas pela catarse gerada pela evolução de personagens e situações, o que mais fica na mente é o tema proposto, o que há de comum naquelas histórias. Nos esquecemos do resto e, assim como o cisne do primeiro episódio, vemos o tempo passar sem muito o que fazer.
 
-[Trabalhar Cansa]: /trabalhar-cansa
+[Trabalhar Cansa]: {{< ref "trabalhar-cansa" >}}

@@ -21,4 +21,4 @@ Aliás, a forma como Burton enfoca a óbvia falta de talento do diretor de manei
 
 Tendo dias para rodar filmes inteiros, a culpa pelos seus fracassos parece não residir apenas em Wood, mas na industria cinematográfica como um todo, e o filme quase o coloca como posição de vítima de um negócio lucrativo que coloca a arte em último lugar das suas prioridades (e não é difícil de imaginar que se estivesse vivo hoje ele se mataria com as atrocidades criadas pela tecnologia 3D, embora pudesse criar infinitos filmes com o baixo custo das produções digitais).
 
-[Piratas do Caribe]: /piratas-do-caribe-4-navegando-em-aguas-misteriosas
+[Piratas do Caribe]: {{< ref "piratas-do-caribe-4-navegando-em-aguas-misteriosas" >}}

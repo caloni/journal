@@ -17,5 +17,5 @@ Primeiramente utilizando uma lente que tira do foco tudo em sua volta menos uma 
 
 Por fim, sua conclusão arrastada criada a partir de uma elipse de uma vida inteira parece necessária apenas para dar algum significado ao que vimos pelas últimas duas horas, e mesmo isso soa artificial demais para reerguer uma "comédia" de erros que nunca conseguiu alçar voo, tal qual as galinhas mortas no chão.
 
-[Dolls]: /dolls
-[filmes]: /pieta
+[Dolls]: {{< ref "dolls" >}}
+[filmes]: {{< ref "pieta" >}}

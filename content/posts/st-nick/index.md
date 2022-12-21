@@ -17,4 +17,4 @@ Cortes certeiros e um ritmo mais que correto dão o tom milimetricamente planeja
 
 Traçando um pouco das influências que Terrence Malick teve para criar sua [A Árvore da Vida], a fotografia naturalista e os movimentos involuntários ao sabor do vento criam uma poesia involuntária incapaz de ser atingida por qualquer filtro fotográfico qualquer, embora as paisagens do horizonte sejam de encher o coração. É a poesia da vida real, da dura realidade de duas crianças que, ainda que passem seus sufocos, ainda podem sonhar.
 
-[A Árvore da Vida]: /a-arvore-da-vida
+[A Árvore da Vida]: {{< ref "a-arvore-da-vida" >}}

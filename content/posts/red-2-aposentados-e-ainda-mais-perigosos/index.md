@@ -11,5 +11,5 @@ Parte divertido e parte esquecível, engraçadinho pelo fato dos seus personagen
 
 É dessa forma que as maiores virtudes do filme acabam sendo as caretas de John Malkovich e uma ou outra cena de ação, que pelo menos são orquestradas de maneira infinitamente melhor do que o sofrível [Duro de Matar 5] (que, aliás, também abandona a premissa da série). Se a coerência é uma virtude, podemos dizer que RED 2 faz jus ao original, se tornando igualmente esquecível a partir do momento que saímos da sala de projeção.
 
-[RED]: /red-aposentados-e-perigosos
-[Duro de Matar 5]: /duro-de-matar-um-bom-dia-para-morrer
+[RED]: {{< ref "red-aposentados-e-perigosos" >}}
+[Duro de Matar 5]: {{< ref "duro-de-matar-um-bom-dia-para-morrer" >}}

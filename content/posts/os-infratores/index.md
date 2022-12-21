@@ -17,4 +17,4 @@ Não menos importante, porém, é a construção enérgica do odiável vilão Ch
 
 Fora o elenco afiado, e voltando ao filme em si, o que mais impressiona em Os Infratores é a montagem do tabuleiro para o seu xeque-mate fatídico, que é sublime em sutilezas. O cuidado e a calma com que os pormenores são colocados fazem valer a pena a paciência empregada na uma hora e meia inicial para a síntese do que a opressão às liberdades pode causar. Ou, por outro lado, talvez a opressão amoral seja o combustível para que nós, como seres humanos, consigamos evoluir ou para que um carro sem gasolina dê a partida.
 
-[A Estrada]: /a-estrada
+[A Estrada]: {{< ref "a-estrada" >}}

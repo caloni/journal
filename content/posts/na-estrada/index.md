@@ -15,4 +15,4 @@ No entanto, apesar de não ter um fio narrativo ou qualquer conflito maior, o gr
 
 Dessa forma, apesar de cansativo em sua forma, quando finalmente encontramos uma conclusão satisfatória, tanto pela sua poesia interna quanto pelo conhecimento que acumulamos dos personagens até aquele momento, há um sentimento de saudade que começa a aflorar assim que vislumbramos os créditos finais. Se essa não é uma prova incontestável da qualidade narrativa de Salles, não imagino o que seja.
 
-[Central do Brasil]: /central-do-brasil
+[Central do Brasil]: {{< ref "central-do-brasil" >}}

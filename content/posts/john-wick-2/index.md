@@ -21,7 +21,7 @@ O filme original tinha um drama tão pertinente para o personagem de Keanu que e
 
 Quanto aos vilões, esse monte de gente fazendo fila para ser o próximo chefão, eles representam O Sistema, o "novo" mal do século para a plateia jovem, ou para os mais velhos que catam as migalhas da virtude que restou desse tipo de protagonismo. Os mais lúdicos não ligam. Há explosão de cabeças para agitar uma noite de filme.
 
-[Mad Max: Fury Road]: /mad-max-estrada-da-furia
-[Matrix]: /matrix
-[original]: /john-wick
-[terceiro filme]: /john-wick-3
+[Mad Max: Fury Road]: {{< ref "mad-max-estrada-da-furia" >}}
+[Matrix]: {{< ref "matrix" >}}
+[original]: {{< ref "john-wick" >}}
+[terceiro filme]: {{< ref "john-wick-3" >}}

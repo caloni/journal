@@ -17,4 +17,4 @@ Algo que incomoda o filme inteiro é essa fotografia com cores drenadas, como um
 
 Mas da metade para o final fica claro que eles não amarraram bem a trama. Alguns momentos soam gratuitos, como a disputa eleitoral e a aparição de KKK. A mensagem se perde, e o humor tão bem dosado soa exagerado e sem sentido.
 
-[Inside Llewyn Davis]: /inside-llewyn-davis-balada-de-um-homem-comum
+[Inside Llewyn Davis]: {{< ref "inside-llewyn-davis-balada-de-um-homem-comum" >}}

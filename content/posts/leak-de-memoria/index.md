@@ -15,4 +15,4 @@ O jeito foi ir destroçando o código, classe por classe, até fazer o padrão d
 
 Essa sessão de debugging me deu alguns insights, entre eles um que é sempre mais frequente: nunca supor nada antes de analisar um problema. Minha estratégia de dividir para conquistar sempre foi a única que gerou resultados rápidos, ainda que às custas de não confiar em minha intuição. A longo prazo essa estratégia é vencedora, pois a intuição não utilizada sem critérios fica mais afiada conforme você acumula conhecimento. É como o cara dos [Axiomas de Zurique] (o livro) dizia, intuição é um quase-conhecimento. Saber cada vez mais irá fazer com que você consiga caminhar mais rapidamente por onde quer chegar.
 
-[Axiomas de Zurique]: /axiomas-de-zurique
+[Axiomas de Zurique]: {{< ref "axiomas-de-zurique" >}}

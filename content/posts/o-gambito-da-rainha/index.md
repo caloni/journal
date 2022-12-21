@@ -25,7 +25,7 @@ Todo e qualquer detalhe sobre torneios de xadrez, incluindo as regras com tempo,
 
 A escalada da moça também é conhecida. Não há reviravoltas em uma história em que os pequenos dramas da protagonista são minimizados ou pelo roteiro ou pela própria atuação monocromática de sentimentos. E justamente por isso, apesar de não ter sido uma escolha muito boa, Anya Taylor-Joy faz milagres em seu papel, extraindo de suas expressões e movimentos em cena mais significado que os diálogos monótonos e mecânicos do roteiro. Ela é uma enxadrista genial e problemática, apesar do roteiro tentar de maneira covarde minimizar seus traços que a tornam quem é.
 
-[Corpo Fechado]: /corpo-fechado
-[Fragmentado]: /fragmentado
-[Logan]: /logan
-[Vidro]: /vidro
+[Corpo Fechado]: {{< ref "corpo-fechado" >}}
+[Fragmentado]: {{< ref "fragmentado" >}}
+[Logan]: {{< ref "logan" >}}
+[Vidro]: {{< ref "vidro" >}}

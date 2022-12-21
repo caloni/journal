@@ -21,5 +21,5 @@ Parte desse desespero encontra reflexo na continuidade de expansão do universo 
 
 A própria psique do alienígena é posta na hora de queimar os ovos, quando a rainha fica enfurecida e vai atrás (e note como a inteligência dos seres é mostrada quando ela consegue usar o elevador para subir). Da mesma forma, a psique de Ripley é apresentada de maneira visual através de Newt, com quem estabelece uma relação de identificação, pois Newt, assim como ela no filme original, é uma sobrevivente.
 
-[Alien]: /alien-o-oitavo-passageiro
-[O Exterminador do Futuro]: /o-exterminador-do-futuro-2-o-julgamento-final
+[Alien]: {{< ref "alien-o-oitavo-passageiro" >}}
+[O Exterminador do Futuro]: {{< ref "o-exterminador-do-futuro-2-o-julgamento-final" >}}

@@ -36,6 +36,6 @@ Now, when we start Msvcmon service, the process cmd.exe will be create, that on 
 
 {{< image src="msvcmon-service.png" caption="MsvcMon Service" >}}
 
-[GINA]: /gina-x-credential-provider
+[GINA]: {{< ref "gina-x-credential-provider" >}}
 [Alex Ionescu article]: http://www.alex-ionescu.com/?p=59
 [Thiago]: http://codebehind.wordpress.com

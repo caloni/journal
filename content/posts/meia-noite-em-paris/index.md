@@ -17,4 +17,4 @@ Mas não é só no roteiro que Meia-Noite empolga: a forma de filmar está aprim
 
 Com uma conclusão talvez atabanada demais, Allen conclui um dos mais belos trabalhos dessa duas décadas, que já nos brindou com bons e ótimos filmes (O Sonho de Cassandra, Dirigindo no Escuro e [Tudo Pode Dar Certo] na primeira categoria, enquanto Vicky Cristina Barcelona e Match Point na segunda). No seu ritmo atual de um trabalho, é sempre agradável saber que, pelo menos uma vez ao ano, temos a chance de assistir mais uma obra de um dos mestres da ironia e da celebração da vida.
 
-[Tudo Pode Dar Certo]: /tudo-pode-dar-certo
+[Tudo Pode Dar Certo]: {{< ref "tudo-pode-dar-certo" >}}

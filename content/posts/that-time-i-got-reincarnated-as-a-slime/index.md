@@ -17,4 +17,4 @@ Mas as regras são muito confusas, as habilidades não fazem sentido. O slimezin
 
 Seria bem mais interessante acompanhar um simples slime em uma caverna escura. Para sempre.
 
-[programadora que encheu a cara e convidou um dragão para morar com ela]: /miss-kobayashi-s-dragon-maid
+[programadora que encheu a cara e convidou um dragão para morar com ela]: {{< ref "miss-kobayashi-s-dragon-maid" >}}

@@ -15,4 +15,4 @@ Mais assustador do que se estivesse exagerando, o futuro utópico do filme tamb�
 
 A melhor ficção é a que consegue te distanciar da realidade para te fazer pensar exatamente nela. Nesse sentido, Idiocracia, infelizmente, é um excelente espécime.
 
-[Como Enlouquecer seu Chefe]: /como-enlouquecer-seu-chefe
+[Como Enlouquecer seu Chefe]: {{< ref "como-enlouquecer-seu-chefe" >}}

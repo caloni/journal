@@ -17,5 +17,5 @@ O roteiro de Richard Maibaum, livre dessa vez do formato clássico imposto nos f
 
 Sean Connery será sempre eternizado por iniciar e estabelecer a adaptação do personagem literário para as telas. A troca de atores, porém, faz um bem enorme para o agente 007 no cinema, pois o torna maleável e eternizável para as futuras gerações, como não podemos negar nos dias de hoje com os [filmes de Daniel Craig].
 
-[007 Contra Goldfinger]: /007-contra-goldfinger
-[filmes de Daniel Craig]: /007-operacao-skyfall
+[007 Contra Goldfinger]: {{< ref "007-contra-goldfinger" >}}
+[filmes de Daniel Craig]: {{< ref "007-operacao-skyfall" >}}

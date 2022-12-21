@@ -13,4 +13,4 @@ Algumas piadas, é verdade, estão datadas, e muito dos comportamentos dos perso
 
 Hoje em dia poderia constar como uma comédia bobinha dos anos 80 para muito dos jovens cinéfilos, mas o fato é que dirigir um filme naquela época e ainda hoje continuar com a maioria das piadas praticamente intactas é um privilégio de poucos (vide [Mulher Nota Mil] e outra cópias da época). Nesse sentido, temos uma pequena aula de como dirigir comédias pastelão.
 
-[Mulher Nota Mil]: /mulher-nota-mil
+[Mulher Nota Mil]: {{< ref "mulher-nota-mil" >}}

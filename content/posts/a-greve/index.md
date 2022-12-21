@@ -11,4 +11,4 @@ A Greve é um belíssimo ensaio do crítico, montador, diretor, roteirista Serge
 
 Ainda que fosse mestre no drama, o filme extrai momentos cômicos que conseguem aliviar um pouco a tensão. As sequências insistem em nos mostrar muito além do óbvio, como quando os grevistas são atacados por mangueiras dos bombeiros. Existem momentos verdadeiramente cruéis durante toda a projeção.
 
-[O Encouraçado Potemkin]: /o-encouracado-potemkin
+[O Encouraçado Potemkin]: {{< ref "o-encouracado-potemkin" >}}

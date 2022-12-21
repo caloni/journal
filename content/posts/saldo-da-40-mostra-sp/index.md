@@ -18,8 +18,8 @@ Minha impressão como cinéfilo foi que, nos dias de semana à tarde, as sessõe
 
 De qualquer forma, um viva para o Cinema. Enquanto houver dinheiro para investir em cultura essa morte tende a ser lenta. Torço para uma Mostra em streaming em breve, como deve ser. A real democratização das artes é dar ao público todas as opções que eles merecem, mesmo que para a grande maioria isso não sirva pra nada.
 
-[Aloys]: /aloys
-[Então Morri]: /entao-morri
-[O Contador]: /o-contador
-[Terra Prometida]: /terra-prometida
-[Um Homem Insignificante]: /um-homem-insignificante
+[Aloys]: {{< ref "aloys" >}}
+[Então Morri]: {{< ref "entao-morri" >}}
+[O Contador]: {{< ref "o-contador" >}}
+[Terra Prometida]: {{< ref "terra-prometida" >}}
+[Um Homem Insignificante]: {{< ref "um-homem-insignificante" >}}

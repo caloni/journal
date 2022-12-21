@@ -21,5 +21,5 @@ O roteiro de Rian Johnson é rico em pequenos detalhes que exploram esse univers
 
 A experiência final, porém, não consegue negar que no fundo estamos vendo a dois filmes diferentes, de tão distintos os conflitos. Isso, contudo, não desmerece a virtude de Looper de conseguir criar tensão justamente pela sua história original o suficiente para ganhar nossa atenção. Um mérito, é preciso dizer, cada vez mais raro em Hollywood.
 
-[O Exterminador do Futuro]: /o-exterminador-do-futuro
-[O Preço do Amanhã]: /o-preco-do-amanha
+[O Exterminador do Futuro]: {{< ref "o-exterminador-do-futuro" >}}
+[O Preço do Amanhã]: {{< ref "o-preco-do-amanha" >}}

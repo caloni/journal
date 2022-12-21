@@ -17,5 +17,5 @@ Bom, não é. Rodado seis anos após [Matrix], o diretor Lea Wiseman não se env
 
 Se os efeitos visuais impressionam, ou impressionavam na época, hoje eles são expostos como meramente exibicionistas. Ainda mais se notarmos que eles ocorrem em quadros isolados da ação, podendo ser trabalhados isoladamente de duas cenas sem sequer se preocupar em inserir parte da ação por trás da transformação das criaturas.
 
-[Crepúsculo]: /crepusculo
-[Matrix]: /matrix
+[Crepúsculo]: {{< ref "crepusculo" >}}
+[Matrix]: {{< ref "matrix" >}}

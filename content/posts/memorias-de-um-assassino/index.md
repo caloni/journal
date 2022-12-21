@@ -15,4 +15,4 @@ O que nos sobra é a investigação em si, que se aproveita sim da psique dos do
 
 Mantendo a coerência narrativa até o fim, um ato de extrema honestidade com o espectador, ainda que muitos possam não gostar da ideia, Memórias de um Assassino inverte nossas expectativas a todo o momento, misturando realismo e fantasia frequentemente. O final pertence ao campo do realismo, o que não o torna melhor nem pior que outros filmes do gênero, mas sim extremamente honesto.
 
-[O Hospedeiro]: /o-hospedeiro
+[O Hospedeiro]: {{< ref "o-hospedeiro" >}}

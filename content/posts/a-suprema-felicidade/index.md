@@ -26,4 +26,4 @@ Porém, mesmo a história principal, do casal apaixonado que forma uma família 
 
 Mesmo com todos seus defeitos narrativos, A Suprema Felicidade poderia muito bem ter sido uma Baarìa nacional, representando no Rio de Janeiro o coração de todos os habitantes do Brasil. Infelizmente, para Jabor, nada restou para unir suas pontas, e a rima final de Tornatore faz a falta merecida em uma conclusão que desmerece em muito todas as belíssimas construções artísticas que vimos durante a projeção.
 
-[Baarìa - A Porta do Vento]: /baaria-a-porta-do-vento
+[Baarìa - A Porta do Vento]: {{< ref "baaria-a-porta-do-vento" >}}

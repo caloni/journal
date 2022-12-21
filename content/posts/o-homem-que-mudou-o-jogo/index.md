@@ -19,4 +19,4 @@ Mais interessante é notar que na dinâmica da história, mesmo com toda a impor
 
 Aliás, fé, razão e intuição são conceitos colocados na mesa a todo momento, e mesmo nós, que assistimos de fora, ficamos com dúvidas durante todo o trajeto. Muitos sairão da sala de exibição convictos que sorte ou talento fazem toda a diferença do mundo, e outros sairão deixando essa convicção na poltrona. De uma forma ou de outra, não dá pra negar que a figura do eterno perdedor não está nas derrotas, mas no pensamento que o define. E uma vez que a pessoa se define perdedora, não há vitórias suficientes que a faça mudar de ideia.
 
-[A Árvore da Vida]: /a-arvore-da-vida
+[A Árvore da Vida]: {{< ref "a-arvore-da-vida" >}}

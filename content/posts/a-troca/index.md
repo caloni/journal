@@ -13,5 +13,5 @@ O fraco roteiro de J. Michael Straczynski (Anjos da Noite: O Despertar) não emp
 
 Ainda que o tema inicial da história seja o desaparecimento do filho de Christine Collins (Jolie), o "Changeling" do título original parece remeter muito mais às mudanças que daí ocasionaram em como a polícia local tratava os direitos de seus cidadãos, uma época em que existia um verdadeiro "[Bope]" nas ruas de Los Angeles, fazendo justiça com as próprias mãos para esconder em seu mecanismo interno uma rede de corrupção e desvios de moral. É com esse pano de fundo que Eastwood parece nunca se esquecer, e são os personagens secundários que de fato conseguem não tornar a experiência apenas subjetiva. Nesse sentido, todo o drama vivido pela Sra. Collins não foi em vão, pois serve de ponte para entendermos como a impunidade muitas vezes consegue prejudicar até o mais inocente dos cidadãos.
 
-[Sobre Meninos e Lobos]: /sobre-meninos-e-lobos
-[Bope]: /tropa-de-elite
+[Sobre Meninos e Lobos]: {{< ref "sobre-meninos-e-lobos" >}}
+[Bope]: {{< ref "tropa-de-elite" >}}

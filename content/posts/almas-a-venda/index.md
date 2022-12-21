@@ -15,4 +15,4 @@ Outro aspecto interessante é que as almas possuem cores e formas diferentes, e 
 
 Ao ver a técnica de extrair almas é inevitável a comparação com o apagar de memória em [Brilho Eterno de uma Mente sem Lembranças], e é notável como pode-se comparar ambos os filmes, principalmente na superioridade do roteiro de Brilho Eterno, que não se deixa intimidar pela ideia original e poderosa. Infelizmente, Almas à Venda sucumbe à sua própria ideia de ser original e em seu segundo e terceiro atos parte para um thriller clichê. É triste ver um tema tão bom não ser expandido em suas potencialidades, se bastando em uma historinha besta que poderia muito bem estar em outro contexto (tráfico de qualquer outro órgão, por exemplo).
 
-[Brilho Eterno de uma Mente sem Lembranças]: /brilho-eterno-de-uma-mente-sem-lembrancas
+[Brilho Eterno de uma Mente sem Lembranças]: {{< ref "brilho-eterno-de-uma-mente-sem-lembrancas" >}}

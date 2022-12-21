@@ -19,4 +19,4 @@ Dotado de uma ótima edição de vídeo e som, lembrando o igualmente ótimo [Pi
 
 O único resquício de atualidade repousa no último ato, onde crítico e seguidores pousam em Pequim, possível nova fonte artística, ou pelo menos de influência, dos artistas futuristas que Yves Adrien tanto estuda. A queda das torres gêmeas e o declínio econômico são citados en passant, em uma clara alusão à virada socio-econômica mundial, e como isso deve afetar o que será produzido desde então.
 
-[Pink Floyd - The Wall]: /pink-floyd-the-wall
+[Pink Floyd - The Wall]: {{< ref "pink-floyd-the-wall" >}}

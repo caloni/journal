@@ -19,4 +19,4 @@ Mas se voltarmos ao filme se nota uma fina camada de dualidade que faz lembrar a
 
 Voltando para a comédia, as partes mais engraçadas são as mortes e é o que você lembra por mais tempo depois do final. Depois é só discussão vazia de boteco, mas com o nível alcoólico alto demais para ser divertido. Hora de tomar a saideira e ir embora.
 
-[Vampiros de Alma]: /vampiros-de-alma
+[Vampiros de Alma]: {{< ref "vampiros-de-alma" >}}

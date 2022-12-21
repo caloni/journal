@@ -11,5 +11,5 @@ title: 007 - Os Diamantes São Eternos
 
 A direção de Guy Hamilton ([Goldfinger]) é precisa e as cenas de ação estão no nível do filme anterior (ainda que um pouco menos ambicioso). Os cortes são rápidos e os detalhes se perdem em meio ao charme e convicção de Sean Connery como o espião britânico mais famoso do Cinema.
 
-[A Serviço de Sua Majestade]: /007-a-servico-secreto-de-sua-majestade
-[Goldfinger]: /007-contra-goldfinger
+[A Serviço de Sua Majestade]: {{< ref "007-a-servico-secreto-de-sua-majestade" >}}
+[Goldfinger]: {{< ref "007-contra-goldfinger" >}}

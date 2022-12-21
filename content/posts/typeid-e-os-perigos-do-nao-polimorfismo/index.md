@@ -84,4 +84,4 @@ Esse é um erro equivalente ao chamar o operador delete usando o ponteiro recebi
     Deriv()
     class Deriv
 
-[sizeof]: /what-happens-inside-the-sizeof-operator
+[sizeof]: {{< ref "what-happens-inside-the-sizeof-operator" >}}

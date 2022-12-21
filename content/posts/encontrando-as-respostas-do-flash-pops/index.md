@@ -146,5 +146,5 @@ Vimos que o jogo é facilmente quebrável porque armazena as respostas em texto 
 Por uma incrível coincidência, esse truquezinho eu aprendi com meu amigo [Thiago] há poucos dias, que está lendo o livro Reversing. Simples, porém funcional.
 
 [artigo de Volker von Einem]: http://voneinem-windbg.blogspot.com/2007/06/scan-full-process-memory-for-pattern.html
-[artigo sobre carregamento de DLLs arbitrárias]: /carregando-dlls-arbitrarias-pelo-windbg-parte-2
+[artigo sobre carregamento de DLLs arbitrárias]: {{< ref "carregando-dlls-arbitrarias-pelo-windbg-parte-2" >}}
 [Thiago]: http://codebehind.wordpress.com/

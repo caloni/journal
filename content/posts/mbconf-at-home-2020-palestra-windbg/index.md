@@ -42,4 +42,4 @@ Recomendo sempre o [WinDbg.info] como cheat sheet e docs.microsoft.com em seus a
 
 [Mercês]: https://twitter.com/mer0x36
 [WinDbg.info]: http://windbg.info/
-[eu me lembre]: /o-bug-mais-bizarro-que-ja-resolvi
+[eu me lembre]: {{< ref "o-bug-mais-bizarro-que-ja-resolvi" >}}

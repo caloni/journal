@@ -21,5 +21,5 @@ Hoje "Táxi Driver" reflete uma filosofia profunda ainda que dita de forma simpl
 
 Em uma América cada vez mais armada, não é o governo que dita as regras. Entre uma tragédia e outra, vidas inocentes são salvas. Diferente do nosso Capitão Nascimento de [Tropa de Elite], um herói com nome para salvar os indefesos dos bandidos cruéis, o Travis dos americanos está pulverizado em milhares de cidadãos inconformados e que decidem agir. Eles estão prontos. Sempre estiveram. Sua cultura os permite isso. Não são ovelhas prontas para serem salvas. São lobos prontos para serem usados. Ao menos isso eles têm.
 
-[Batman de Nolan]: /batman-begins
-[Tropa de Elite]: /tropa-de-elite
+[Batman de Nolan]: {{< ref "batman-begins" >}}
+[Tropa de Elite]: {{< ref "tropa-de-elite" >}}

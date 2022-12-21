@@ -11,4 +11,4 @@ Jogos de Guerra se passa no auge dos anos 80. Matthew Broderick é um nerd/hacke
 
 Este é um filme que flerta com o trash de uma maneira saudosista. Queremos hoje viver esta época mais inocente, com truques para não pagar conta de telefone e o sabor da conquista ao encontrar o contato de uma empresa de jogos eletrônicos para espiar qual a novidade que anunciaram na revista. Os nerds desse filme são reais e vivem na sala ao fundo, e é melhor não levar uma garota para lá. A trilha sonora é empolgada antes de ser empolgante, e a edição fluida do começo ao fim. É um bonito filme, feito com amor e atitude. Vê-se poucos assim hoje em dia. Note todo o ritmo criado de uma coisa puxa outra não nos faz questionar a fantasia disso tudo. Como um [Goonies] para adolescentes fanáticos por tecnologia, War Games é um hino à curiosidade e aos limites entre humano e máquina do ponto de vista de quem viu a revolução da Machine Learning começar.
 
-[Goonies]: /os-goonies
+[Goonies]: {{< ref "os-goonies" >}}

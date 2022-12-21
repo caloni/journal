@@ -21,4 +21,4 @@ E por falar em pista-recompensa, por que não falar de uma muito mais sutil, que
 
 O fato é que O Segredo dos Seus Olhos contém mais segredos em sua composição do que uma resenha sobre ele poderia revelar. Felizmente, sua tecnicidade não afeta sua compreensão e, portanto, nos mesmos moldes de O Poderoso Chefão, é possível, sim, acompanhar a trajetória de Esposito como um "simples" espectador e, ao mesmo tempo, ter uma mini-aula sobre como é fazer Cinema.
 
-[O Filho da Noiva]: /o-filho-da-noiva
+[O Filho da Noiva]: {{< ref "o-filho-da-noiva" >}}

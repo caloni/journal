@@ -19,6 +19,6 @@ E não há de fato como esperar o mesmo charme de Christopher Reeve no papel que
 
 No entanto, é com esse tom quase sempre insípido que Zack Snyder transforma a batalha entre o bem e o mal em algo mais alienígena que os kriptonianos que nela lutam. E a ideia de aos poucos explicar detalhes menores da trama (Louis não pode respirar na atmosfera da nave alienígena...) acaba se tornando um pecado justamente por não prestar a mesma atenção a detalhes muito mais relevantes (se Lois é levada à nave, qual o motivo, e por que diabos ela é colocada naquele compartimento em específico?). Kal-El aparentemente escolhe os humanos quase como um mártir, mas o seu sacrifício esperado nunca vem. A única coisa que parece ser uma constante na história é um roteiro certinho de David S. Goyer e Christopher Nolan que consegue justificar para essa geração boa parte das dúvidas sobre como um herói desse quilate existiria em nosso mundo cético por respostas (como a insistência em explicar sua força descomunal). Se Superman sacrificou algo, foi em prol desse mundo científico em que vivemos, e foi a fantasia dos filmes originais; a possibilidade de voarmos tão alto quanto seu protagonista. Aqui acompanhamos seu voo ao longe, de forma controlada, cientificamente correta. O nosso Superman sacrificou os nossos sonhos de ter um herói onde tudo é possível quando se tem boa vontade.
 
-[Matrix 3]: /matrix-revolutions
-[Superman 2]: /superman-ii-a-aventura-continua
-[insubstituível trabalho de John Williams]: /superman-o-filme
+[Matrix 3]: {{< ref "matrix-revolutions" >}}
+[Superman 2]: {{< ref "superman-ii-a-aventura-continua" >}}
+[insubstituível trabalho de John Williams]: {{< ref "superman-o-filme" >}}

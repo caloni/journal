@@ -108,4 +108,4 @@ Deadlocks são sempre indesejáveis, e é por isso que existem diversas técnica
 
 Espero que tenha ficado claro nossa breve explanação de como podemos controlar programas multithreading. Espero, pois a próxima tarefa é entender outros conceitos mais abstratos e virtuais, como funções virtuais e classes abstratas.
 
-[a fila das threads]: /a-fila-das-threads
+[a fila das threads]: {{< ref "a-fila-das-threads" >}}

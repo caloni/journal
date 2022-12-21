@@ -19,5 +19,5 @@ Outra grande sacada dos roteiros envolvendo o instigante casal é que a sua natu
 
 Se houvesse um grande defeito que eu poderia reclamar das experiências do casal do Amanhecer seria que seus filmes acabam cedo demais. Talvez um aviso necessário de que a vida, por mais pesada que às vezes pareça, é uma simples e breve passagem de e para toda a eternidade.
 
-[Antes do Amanhecer]: /antes-do-amanhecer
-[Antes do Pôr-do-Sol]: /antes-do-por-do-sol
+[Antes do Amanhecer]: {{< ref "antes-do-amanhecer" >}}
+[Antes do Pôr-do-Sol]: {{< ref "antes-do-por-do-sol" >}}

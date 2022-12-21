@@ -70,4 +70,4 @@ Por isso é necessário pensar bem na implementação. Particularmente uma coisa
 
 Dessa vez não vou afirmar que, uma vez entendido o problema, a solução torna-se óbvia. Isso porque ainda não pensei o suficiente para achar uma solução óbvia. Idéias?
 
-[código de exemplo]: /code/antidebug-debugport.cpp
+[código de exemplo]: {{< ref "code/antidebug-debugport.cpp" >}}

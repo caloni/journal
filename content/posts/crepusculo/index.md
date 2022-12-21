@@ -25,5 +25,5 @@ Bom, confuso do jeito que é, dificilmente a história poderia ficar menos dispe
 
 Pois é, fascinante, não? Não posso perder [o resto] dessa saga e entender finalmente o que deu na cabeça de Bella para se meter nessa história. Se bem que já imagino: uma garota que mexe os lábios como um tique nervoso e que parece achar isso sensual de fato não mereceria um destino melhor do que se apaixonar por um psicopata.
 
-[Harry Potter e o Cálice de Fogo]: /harry-potter-e-o-calice-de-fogo
-[o resto]: /a-saga-crepusculo-lua-nova
+[Harry Potter e o Cálice de Fogo]: {{< ref "harry-potter-e-o-calice-de-fogo" >}}
+[o resto]: {{< ref "a-saga-crepusculo-lua-nova" >}}

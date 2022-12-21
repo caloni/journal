@@ -17,4 +17,4 @@ Com uma entrega incondicional de Ethan Hawke e Julie Delpy, as interpretações 
 
 Ironicamente, torcemos pelo mesmo, permitindo que o casal se encontre novamente mais vezes, e permita que experimentemos a beleza de compartilhar nossas vidas com o próximo, não importando que isso se resuma a uma bela tarde em uma cidade qualquer.
 
-[arco iniciado]: /antes-do-amanhecer
+[arco iniciado]: {{< ref "antes-do-amanhecer" >}}

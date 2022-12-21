@@ -13,4 +13,4 @@ Fazendo como David Fincher em [Os Homens que Não Amavam as Mulheres] e refazend
 
 Sem revelar spoilers fica difícil falar sobre a trama, mas podemos dizer que a relação entre Al Pacino e o misterioso assassino consegue produzir as melhores cenas, cheias de significado.
 
-[Os Homens que Não Amavam as Mulheres]: /millennium-os-homens-que-nao-amavam-as-mulheres
+[Os Homens que Não Amavam as Mulheres]: {{< ref "millennium-os-homens-que-nao-amavam-as-mulheres" >}}

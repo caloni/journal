@@ -17,4 +17,4 @@ Com atuações que beiram o automático, o pouco que se salva são as participa�
 
 A contagem de mortos final é o que chega mais próximo de não convencer, mas toda a experiência em geral possui episódios isolados demais para estabelecer uma identidade para essas pessoas. Eu mesmo já esqueci de metade delas. 
 
-[Os Bons Companheiros]: /os-bons-companheiros
+[Os Bons Companheiros]: {{< ref "os-bons-companheiros" >}}

@@ -48,4 +48,4 @@ A HAL, Hardware Abstraction Layer, ou Camada de Abstração de Hardware, é tota
 
 E por fim, a não ser que estejamos falando do XBox, o hardware é feito por terceiros, como a Intel, a AMD e a NVIDIA, e é onde você instala o seu sistema operacional do coração para rodar seus aplicativos do coração. O bom de um sistema operacional do coração é que você não percebe sua existência quando está rodando seu jogo do coração. Pelo menos não deveria. O único momento que o sistema operacional do coração revela sua existência é quando as coisas dão errada e você recebe uma tela azul do coração.
 
-[História do Windows]: /historia-do-windows
+[História do Windows]: {{< ref "historia-do-windows" >}}

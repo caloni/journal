@@ -31,5 +31,5 @@ Agora, os defeitos (sim, eles existem): quando usado em cenas com a luz do dia, 
 
 Se esse espectador médio, não-exigente por padrão, começar a apreciar esse novo formato na sétima arte, poderemos ter mais um dilema indústria x arte no Cinema.
 
-[Avatar]: /avatar
-[Sherlock]: /sherlock-a-study-in-pink
+[Avatar]: {{< ref "avatar" >}}
+[Sherlock]: {{< ref "sherlock-a-study-in-pink" >}}

@@ -17,4 +17,4 @@ Os personagens de Bernard, Tandy e a moça de Thor: Ragnarok (Tessa Thompson) se
 
 Eu só não tenho certeza se gostaria de ver um Westworld Reloaded. A segunda temporada já tinha deixado um gosto insosso e artificial. Gosto de cartilha moralista reciclada.
 
-[primeira temporada]: /westworld
+[primeira temporada]: {{< ref "westworld" >}}

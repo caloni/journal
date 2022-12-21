@@ -129,5 +129,5 @@ O projeto atual está um tanto capenga, mas já desencripta os arquivos do Houai
 
 Para os interessados em incrementar [a versão atual], sintam-se à vontade.
 
-[estar lembrados]: /conversor-de-houaiss-para-babylon-parte-1
+[estar lembrados]: {{< ref "conversor-de-houaiss-para-babylon-parte-1" >}}
 [a versão atual]: https://github.com/Caloni/Houaiss2Babylon

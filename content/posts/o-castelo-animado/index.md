@@ -19,6 +19,6 @@ A equipe de animação dá uma aula de sequências de ação grandiosas. Uma gue
 
 Muitos elementos fantásticos como em Chihiro não são explicados, e isso não é um problema até o momento em que, assim como Chihiro, o filme sente que deve haver uma conclusão satisfatória para os eventos. E é quando o filme passa a ser sobre os eventos, e não as pessoas, que ele nos perde. A ocidentalização deste filme faz perder sua força na mesma proporção em que aumenta suas vendas pelo mundo.
 
-[A Viagem de Chihiro]: /a-viagem-de-chihiro
-[Branca de Neve e os Sete Anões]: /branca-de-neve-e-os-sete-anoes
-[Superman: O Filme]: /superman-o-filme
+[A Viagem de Chihiro]: {{< ref "a-viagem-de-chihiro" >}}
+[Branca de Neve e os Sete Anões]: {{< ref "branca-de-neve-e-os-sete-anoes" >}}
+[Superman: O Filme]: {{< ref "superman-o-filme" >}}

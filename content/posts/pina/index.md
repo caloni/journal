@@ -17,4 +17,4 @@ Indo mais além do que na arte da decupagem, ou seja, dar formas tridimensionais
 
 Apesar de haver talvez um abuso aqui e ali envolvendo um trem suspenso e não haver uma narrativa clara da história, esse espírito de experimentar com o 3D caminha junto com a própria dança de Pina, focada mais na alma e na individualidade. Não existem caminhos errados, mas apenas a descoberta de cada um. Dentro dessa ótica, faz todo o sentido um filme que envolva os dois -- Dança e Cinema -- de maneira indissociável. Sem a tecnologia 3D, esse filme não existiria. E nem deveria. Wenders sabe o que está fazendo, assim como Scorsese. Hugo e Pina são a única coisa hoje em dia que dá esperanças ao 3D de se aliar ao Cinema como arte.
 
-[Martin Scorsese]: /a-invencao-de-hugo-cabret
+[Martin Scorsese]: {{< ref "a-invencao-de-hugo-cabret" >}}

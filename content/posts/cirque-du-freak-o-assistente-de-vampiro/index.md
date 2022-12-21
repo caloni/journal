@@ -19,4 +19,4 @@ Para driblar as muitas falas e situações do roteiro, Weitz cria inúmeras tran
 
 O que é uma pena, pois mesmo com atores tão talentosos quanto Reilly e Hutcherson caímos no lugar comum sem nenhum aviso, criando a desgostosa sensação de auto-sabotagem em uma história no mínimo curiosa, mas que, em seu máximo, se parece com um castelo de cartas.
 
-[Sobre Meninos e Lobos]: /sobre-meninos-e-lobos
+[Sobre Meninos e Lobos]: {{< ref "sobre-meninos-e-lobos" >}}

@@ -11,4 +11,4 @@ Essa versão da obra literária de Carlo Collodi (e cuja história foi eternizad
 
 Dito isso, é inegável que o filme possui seu próprio formato que funciona dadas suas devidas proporções (e limitações). Isso não quer dizer, no entanto, que ele inclua algo de novo, algo que, encontrado pelos cinéfilos, faça valer a pena a experiência. Em suma, ele se torna uma versão pseudo-adulta de um livro para crianças. Com bons momentos, é verdade, mas ainda limitado em seu formato e objetivos.
 
-[O Mágico de Oz]: /o-magico-de-oz
+[O Mágico de Oz]: {{< ref "o-magico-de-oz" >}}

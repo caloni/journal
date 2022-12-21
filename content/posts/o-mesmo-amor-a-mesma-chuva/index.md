@@ -11,4 +11,4 @@ Juan José Companella dirige pela primeira vez o casal d[O Segredo dos Seus Olho
 
 Ricardo Darín como o jornalista Jorge Pellegrini é apenas o olho do furacão que acompanha o processo de redemocratização do país. A morte de um velho colega mexe com todos em volta, e acaba virando um fantasma da redação. A jovem Laura (Villamil) é o combustível que tenta empurrar Jorge para o caminho do sucesso, mesmo este sem o desejo de desengavetar suas ambições literárias. A ironia de Jorge em um momento particularmente hipócrita com Laura reflete a própria ironia da nação. Histórias pessoais se misturam com a história de um povo tentando resgatar sua integridade, e Companella abraça o tema sem dar atenção devida a nenhum dos lados.
 
-[O Segredo dos Seus Olhos]: /o-segredo-dos-seus-olhos
+[O Segredo dos Seus Olhos]: {{< ref "o-segredo-dos-seus-olhos" >}}

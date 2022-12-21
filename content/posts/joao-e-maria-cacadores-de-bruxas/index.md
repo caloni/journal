@@ -17,4 +17,4 @@ O que o roteiro escrito pelo também diretor Tommy Wirkola (Zumbis na Neve) e o 
 
 Mesmo assim, o que [Abraham Lincoln: Caçador de Vampiros] falhou em utilizar efeitos digitais à exaustão e um tom mais sério totalmente inapropriado para sua história, João e Maria: Caçadores de Bruxas entende que não se recria uma fábula com pano de fundo trash sem conter em seu subtexto algumas piadas a respeito de si próprio ou do mundo fora do filme. E se o fato de existir um troll chamado Edward não é prova o suficiente, não sei o que é.
 
-[Abraham Lincoln: Caçador de Vampiros]: /abraham-lincoln-cacador-de-vampiros
+[Abraham Lincoln: Caçador de Vampiros]: {{< ref "abraham-lincoln-cacador-de-vampiros" >}}

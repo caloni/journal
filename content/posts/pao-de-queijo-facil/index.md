@@ -11,4 +11,4 @@ A receita original veio do Instagram de uma queijaria de Poços de Caldas, a Que
 
 Misture uma caixinha de creme de leite (200 ml), 1 copo de queijo ralado (parmesão ou mussarela ralada) e 1 copo de polvilho (polvilho doce) até soltar das mãos. Pode ir colocando mais polvinho até soltar. Faça bolinhas e coloque em forma untada em forno pré-aquecido "quente" (minha primeira tentativa a 200 graus funcionou bem). Aguarde ficarem levemente douradinhos.
 
-[pão de queijo mineiro]: /pao-de-queijo
+[pão de queijo mineiro]: {{< ref "pao-de-queijo" >}}

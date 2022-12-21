@@ -17,4 +17,4 @@ Entre eles, a estrela do filme, Raymond (Jim Cummings), ou Ray, um vagalume que 
 
 Ressalto mais uma vez que Ray é a grande estrela do filme, pois protagoniza a cena mais dramática e a mais poderosa de toda a trama, uma cena capaz de resgatar toda a mágica da hoje gigante Disney. Quando isso acontece dentro de um enredo onde a protagonista vira mera espectadora de seu maior desejo, há algo muito errado nessa história.
 
-[Valente]: /valente
+[Valente]: {{< ref "valente" >}}

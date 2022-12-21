@@ -40,4 +40,4 @@ O Windows NT é um sistema operacional de 32 bits. Isso quer dizer, entre outras
 
 Além disso, foi criada uma camada de abstração do hardware (HAL, Hardware Abstraction Layer) que livrou boa parte do código de ter sido escrito em assembly, fazendo assim que ele fosse facilmente portável.
 
-[História do Windows]: /historia-do-windows
+[História do Windows]: {{< ref "historia-do-windows" >}}

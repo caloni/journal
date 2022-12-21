@@ -87,4 +87,4 @@ O ponto forte da proteção é que a pessoa precisa entender o que está acontec
 Futuramente veremos uma maneira de tornar as coisas mais legíveis e usáveis no dia-a-dia de um programador de software de segurança.
 
 [realmente bons no que fazem]: http://www.codebreakers-journal.com
-[código de exemplo]: /code/antidebug-exception.cpp
+[código de exemplo]: {{< ref "code/antidebug-exception.cpp" >}}

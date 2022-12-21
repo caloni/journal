@@ -15,5 +15,5 @@ De qualquer forma, as cenas com os dois pombinhos aparentemente merece mais temp
 
 Talvez fosse melhor nos focarmos no não-essencial da trama: a possibilidade que um vampiro brilhante e sua amada sem sal suportassem todo esse tédio e acontecimentos previsíveis e estúpidos para finalmente apreciarem o amanhecer de um novo dia, com mais efeitos e menos história. Essa não interessa tanto assim.
 
-[Na Estrada]: /na-estrada
-[seu início]: /crepusculo
+[Na Estrada]: {{< ref "na-estrada" >}}
+[seu início]: {{< ref "crepusculo" >}}

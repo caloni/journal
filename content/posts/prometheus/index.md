@@ -15,6 +15,6 @@ Porém, o que se segue a essa interessante premissa são explicações cada vez 
 
 Esse estado de estagnação é o que domina boa parte seu desfecho, onde acompanhamos consternados mais pelo aumento do volume da trilha sonora e frequência dos cortes do que algo que de fato nos surpreenda. Tudo acaba ocorrendo da mesma forma que imaginada. Não há descoberta. Não há desafio. Não tememos pelo destino dos personagens. O que resta é uma límpida fotografia de um planetinha desinteressante e seus seres idem. Até deus seria uma explicação mais rica e interessante da nossa origem.
 
-[A Ressurreição]: /alien-a-ressureicao
-[seu Oitavo Passageiro]: /alien-o-oitavo-passageiro
-[série Alien]: /aliens-o-resgate
+[A Ressurreição]: {{< ref "alien-a-ressureicao" >}}
+[seu Oitavo Passageiro]: {{< ref "alien-o-oitavo-passageiro" >}}
+[série Alien]: {{< ref "aliens-o-resgate" >}}

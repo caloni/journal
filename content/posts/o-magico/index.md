@@ -18,4 +18,4 @@ Ultrapassados por bandinhas de rock recém-chegadas (como demonstrado de forma h
 
 Mas é injusto comparar a complexidade dos estereótipos criados em Bicicletas com madame Souza, as trigêmeas, o próprio Champion e até o cachorro! Porém, mesmo nos mantendo no universo de O Mágico, do segundo para o terceiro ato vamos perdendo esse deslumbramento e aos poucos perdemos o sentido de estarmos ali assistindo à vida desses personagens, pois já não importa mais. Tudo começa a ficar confuso, pois já não nos interessamos mais pelos personagens que no início nos encantamos. E isso talvez seja, ou não, o reflexo do próprio mágico que as pessoas já não querem mais.
 
-[As Bicicletas de Belleville]: /as-bicicletas-de-belleville
+[As Bicicletas de Belleville]: {{< ref "as-bicicletas-de-belleville" >}}

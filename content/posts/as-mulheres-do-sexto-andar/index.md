@@ -13,4 +13,4 @@ Com um ritmo agradável e piadas que apelam para o absurdo de situações, o fil
 
 Com um final mais longo do que deveria, As Mulheres do 6o. Andar é um filme agradável e ao mesmo tempo esquecível, apesar de conter em sua história elementos inseridos de forma sutil o suficiente para chamar a atenção para si mesmo.
 
-[Histórias Cruzadas]: /historias-cruzadas
+[Histórias Cruzadas]: {{< ref "historias-cruzadas" >}}

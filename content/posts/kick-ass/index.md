@@ -11,5 +11,5 @@ Kick-Ass é uma experiência bem-sucedida que reúne super-heróis da vida real,
 
 A questão da justiça feita pelas próprias mãos e a sensação de impunidade pelo "herói" do filme, Aaron (Aaron Taylor-Johnson), é só o início para uma sequência incrível de ação imaginativa e bem-conduzida pelo diretor Matthew Vaughn. Vaughn só dirigiu depois disso [X-Men: Primeira Classe] e [Kingsman: Serviço Secreto], filmes que possuem energia de sobra e comprovam que, se quer filmes de ação, este é um bom nome de diretor para procurar.
 
-[Kingsman: Serviço Secreto]: /kingsman-servico-secreto
-[X-Men: Primeira Classe]: /x-men-primeira-classe
+[Kingsman: Serviço Secreto]: {{< ref "kingsman-servico-secreto" >}}
+[X-Men: Primeira Classe]: {{< ref "x-men-primeira-classe" >}}

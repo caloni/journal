@@ -17,5 +17,5 @@ Como a maioria das animações cheias de boas ideias, o primeiro e segundo ato c
 
 O terceiro ato, como a maioria das animações, peca pela repetição e necessidade de tramas e sub-tramas, sempre agarradas à sensação falsa que há mais algum perigo da missão do filme não ser concluída. É preguiçoso e automático. Dá vontade de rever o filme, mas só até a metade.
 
-[Shaun: O Carneiro]: /shaun-o-carneiro
-[2001: Uma Odisseia no Espaço]: /2001-uma-odisseia-no-espaco
+[Shaun: O Carneiro]: {{< ref "shaun-o-carneiro" >}}
+[2001: Uma Odisseia no Espaço]: {{< ref "2001-uma-odisseia-no-espaco" >}}

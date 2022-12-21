@@ -21,4 +21,4 @@ Ciente da falta de emoção na maioria do longa, a trilha investe então na cena
 
 Bobo e infantil do começo ao fim, ao menos possui coerência interna, e uma seleção de músicas simpática. Mas é só.
 
-[Capitão América]: /capitao-america-o-primeiro-vingador
+[Capitão América]: {{< ref "capitao-america-o-primeiro-vingador" >}}

@@ -19,5 +19,5 @@ Contudo, o tratamento realista do filme vai aos poucos revelando-nos que as cois
 
 PS: Mais uma vez as distribuidoras brasileiras pisam feio na bola ao nomear esse título com o horrível, incompreensível e oportunista Namorados Para Sempre, um drama intimista que deve ter enganado muitos casais no dias dos namorados daquele ano.
 
-[Antes do Pôr-do-Sol]: /antes-do-por-do-sol
-[Drive]: /drive
+[Antes do Pôr-do-Sol]: {{< ref "antes-do-por-do-sol" >}}
+[Drive]: {{< ref "drive" >}}

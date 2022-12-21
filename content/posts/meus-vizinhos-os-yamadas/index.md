@@ -12,5 +12,5 @@ Isao Takahata foi um gênio da sétima arte. Cada novo trabalho que ele empreend
 
 "Meus Vizinhos, Os Yamadas" é uma diversão à parte. Dividida em blocos de pequenas histórias envolvendo uma família típica japonesa, as situações do dia-a-dia são comuns, mas se tornam imperdíveis com esses traços rabiscados emulando um movimento estabanado, um reflexo da vida percebida, e não a objetiva. Uma versão oriental de Snoopy com o charme dos desenhos japoneses.
 
-[O Conto da Princesa Kaguya]: /o-conto-da-princesa-kaguya
-[Memórias de Ontem]: /memorias-de-ontem
+[O Conto da Princesa Kaguya]: {{< ref "o-conto-da-princesa-kaguya" >}}
+[Memórias de Ontem]: {{< ref "memorias-de-ontem" >}}

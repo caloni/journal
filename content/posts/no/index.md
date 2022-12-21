@@ -19,4 +19,4 @@ Quando ambas as campanhas vão avançando e aprimorando-se é inegável a força
 
 E de certa forma a própria democracia é posta em xeque quando ela pode vencer através não da coragem do seu povo, mas pela visão de pessoas felizes que poderiam estar votando pela sua liberdade e felicidade ou por qualquer outro motivo. Como comprar coca-cola, por exemplo.
 
-[O Passado]: /o-passado
+[O Passado]: {{< ref "o-passado" >}}

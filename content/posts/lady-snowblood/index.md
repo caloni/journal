@@ -19,5 +19,5 @@ A montagem minimalista nas cenas de luta consegue expressar a violência sem mos
 
 Da mesma forma, o destino final do inimigo maior de Yuki pode sugerir muitas coisas, como o sacrifício dos mais novos como uma consequência da ganância (é uma morte forçada, mas o filme a faz parecer necessária, e Snowblood não vacila porque sua própria família já havia sido sacrificada pela mesma ganância). O vermelho sempre tão presente nas cenas ao final dá lugar ao branco, sereno, mas que ao mesmo tempo possui o destino de desaparecer com a chegada do sol. Tantos símbolos é que tornam Lady SnowBlood tão fascinante, e que com certeza devem ter aberto os olhos do mestre Tarantino assim que o viu.
 
-[Kill Bill]: /kill-bill-volume-1
-[dois]: /kill-bill-volume-2
+[Kill Bill]: {{< ref "kill-bill-volume-1" >}}
+[dois]: {{< ref "kill-bill-volume-2" >}}

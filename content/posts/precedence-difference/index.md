@@ -75,4 +75,4 @@ Well, the f1 variable is an integer. And putchar return as well. This is not goi
 This finishes the long explanation about why that little insignificant error at the beginning of this article happened only in the C language. This is a perfect example of the little differences between these two languages. Perhaps do you use parenthesis like a crazy, and are not going to find this kind of problems inside your source code. Perhaps not.
 
 [The International Obfuscated C Code Contest]: http://www.ioccc.org
-[random subjects involving C++]: /disassembling-the-array-operator
+[random subjects involving C++]: {{< ref "disassembling-the-array-operator" >}}

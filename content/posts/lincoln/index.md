@@ -17,6 +17,6 @@ E por isso Spielberg investe em tomadas sempre grandiosas, com muitos figurantes
 
 A trilha sonora acompanha a morosidade da evolução sobre a emenda que poderá vencer a guerra e acabar com a escravidão (e a economia) do sul. Porém, com todo o respeito a John Williams, a única que parece querer dizer de maneira mais expressiva o que está acontecendo é a fotografia, que encobre Lincoln de sombras dentro de sua casa, para apenas depois o vermos sob uma luz forte e renovadora. Não é nenhum segredo o que isso significa e por que acontece, mas continua sempre lindo de se ver.
 
-[Histórias Cruzadas]: /historias-cruzadas
-[Na Estrada]: /na-estrada
-[Sangue Negro]: /sangue-negro
+[Histórias Cruzadas]: {{< ref "historias-cruzadas" >}}
+[Na Estrada]: {{< ref "na-estrada" >}}
+[Sangue Negro]: {{< ref "sangue-negro" >}}

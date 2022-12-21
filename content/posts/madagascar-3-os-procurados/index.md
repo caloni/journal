@@ -15,5 +15,5 @@ Já o ar deprimido e de poucos amigos do tigre russo (reforçando seu estereóti
 
 Mesmo assim, o filme não dá muito espaço para drama, reconhecendo seu público infantil (e sua própria superficial história) e acelerando drasticamente em direção ao seu desfecho. Porém o faz maravilhosamente bem, conseguindo unir com harmonia épocas tão distintas de [Dumbo] e Cirque di Soleu, tudo misturado com música pop em voga, o que aumenta o "appealing" comercial, mas que pode ser um tiro no próprio pé ao revisitarmos sua história daqui uns 10 anos, e Katy Perry ser uma curiosidade tão conhecida quanto The Monkeys.
 
-[O Palhaço]: /o-palhaco
-[Dumbo]: /dumbo
+[O Palhaço]: {{< ref "o-palhaco" >}}
+[Dumbo]: {{< ref "dumbo" >}}

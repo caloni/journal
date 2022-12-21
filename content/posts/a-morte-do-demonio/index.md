@@ -29,4 +29,4 @@ Quanto à lógica. Se a única questão em debate seria o livro (que poderia ter
 
 As interpretações dos atores não é nada demais, mas não prejudica. No entanto, se quiser ter em mente o que assolava tanto o grupo durante todo o tempo, lembre-se da cara de Mia ao retornar da floresta. Essa é a expressão do terror que felizmente ficou do outro lado da tela (espero).
 
-[Homem-Aranha]: /homem-aranha
+[Homem-Aranha]: {{< ref "homem-aranha" >}}

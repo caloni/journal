@@ -31,4 +31,4 @@ No caso de seu programa ser multithreading, ou seja, possuir várias linhas de e
 
 Depurar esteve sempre ligado à programação desde os primórdios da humanidade. Por isso hoje em dia os depuradores estão muito evoluídos, geralmente integrados em um ambiente de desenvolvimento (exs: Visual Studio, KDE Develop) e possuem comandos e mais comandos e mais comandos. Existem comandos, por exemplo, para pular fluxo sem executar, definir um breakpoint temporário, visualizar registradores da máquina, visualizar páginas de memória, controle de exceções, misturar assembly com código-fonte, etc. Enfim, cada comando deve ser usado conforme a necessidade e conveniência. Não adianta querer usar tudo e entender tudo de uma vez. Os comandos acima já são um ótimo começo para uma depuração poderosa o suficiente para pegar alguns bugs.
 
-[conceitos básicos de programação]: /guia-basico-para-programadores-de-primeiro-int-main
+[conceitos básicos de programação]: {{< ref "guia-basico-para-programadores-de-primeiro-int-main" >}}

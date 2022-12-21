@@ -11,4 +11,4 @@ Estreia de Julie Delpy (atriz de [Antes do Amanhecer]) na direção de longas-me
 
 Apenas quem nunca tenha visto qualquer filme francês achará diversos fatos como realmente atípicos. Discussões políticas ou sobre temas polêmicos (como racismo) parecem ter a única função de dar um ar de intelectualidade em toda aquela gente pelo simples estereótipo. Ora, pelo fato de estarmos em Paris, não há muita estranheza sobre os costumes dos próprios habitantes, e a coisa mais engraçada é perceber a estranheza dele frente a isso (e o fato dele ser hipocondríaco talvez tenha sido para arrancar mais risadas, mas não há muito disso no resto do filme).
 
-[Antes do Amanhecer]: /antes-do-amanhecer
+[Antes do Amanhecer]: {{< ref "antes-do-amanhecer" >}}

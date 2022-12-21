@@ -15,4 +15,4 @@ Não dá pra ignorar o imenso carisma que o trio formado por Bruno Mazzeo, Marco
 
 Dessa forma, é compreensível que o espectador se divirta a maior parte do tempo, mas que ao mesmo tempo não sinta qualquer conflito na tela. Esse é o motivo para que seu desfecho soe artificial, pois destoa de todo o resto. Não que ele seja ruim, mas note: não esperamos por um desfecho. Quando ele vem, é como se as noites mágicas em torno do bar se desfaçam em convenções narrativas vazias. É quase como que fazer o espectador torcer para que nada dê certo, e que voltemos a nos encontrar no boteco da esquina para jogar piada fora.
 
-[Muita Calma Nessa Hora]: /muita-calma-nessa-hora
+[Muita Calma Nessa Hora]: {{< ref "muita-calma-nessa-hora" >}}

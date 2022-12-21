@@ -17,4 +17,4 @@ Os detalhes periféricos invadem nossa noção de realidade sem pedir licença. 
 
 Mesmo assim, seu primeiro desfecho é eficiente demais para não gostarmos dele. Tanto que poderíamos aceitar a tristeza e dor de uma partida repentina sem crise (pelo bem e integridade daquele casal). Não é o que acontece, contudo, o que gera o desapontamento do primeiro parágrafo desse texto.
 
-[Encontros e Desencontros]: /encontros-e-desencontros
+[Encontros e Desencontros]: {{< ref "encontros-e-desencontros" >}}

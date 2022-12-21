@@ -13,4 +13,4 @@ Essa figura ficou tão marcada que agora surge em uma reencarnação com a cara 
 
 Uma ponta com Sharon Stone e outra habilidosas atrizes, como Amanda Plummer, vale o ticket, mas nem sempre. É com um design de arte insípido, mas reverencioso com o passados anos 50 e 60 que essa série ousa pegar emprestada algumas trilhas sonoras, como Cabo do Medo (thriller de Martin Scorsese), além de obviamente aplicar um clima Hitchcockiano de quinta categoria.
 
-[American Horror Story]: /american-horror-story-s04-freak-show
+[American Horror Story]: {{< ref "american-horror-story-s04-freak-show" >}}

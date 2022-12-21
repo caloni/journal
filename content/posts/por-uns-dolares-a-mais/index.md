@@ -15,5 +15,5 @@ As viagens aumentam, e não ficamos focados apenas em uma cidade, e embora El Pa
 
 Porém, fora tudo que o filme nos proporciona, sua maior contribuição é ser o primeiro passo para que cheguemos a [Três Homens em Conflito], a obra máxima da trilogia, onde o Cinema atinge seu ápice, sustentado por uma guinada épica no conceito de faroeste.
 
-[Por um Punhado de Dólares]: /por-um-punhado-de-dolares
-[Três Homens em Conflito]: /tres-homens-em-conflito
+[Por um Punhado de Dólares]: {{< ref "por-um-punhado-de-dolares" >}}
+[Três Homens em Conflito]: {{< ref "tres-homens-em-conflito" >}}

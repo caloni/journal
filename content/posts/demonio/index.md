@@ -17,4 +17,4 @@ A única coisa que resta, então, é seguirmos os passos da direção, que pelo 
 
 Com uma conclusão boba, que sequer era esperada pelo espectador, Demônio acaba representando apenas um bom exercício de linguagem cinematográfica, exercício esse desempenhado muitas vezes melhor em obras inspiradas pelas mesmas "limitações técnicas", como O Cubo e [Enterrado Vivo].
 
-[Enterrado Vivo]: /enterrado-vivo
+[Enterrado Vivo]: {{< ref "enterrado-vivo" >}}

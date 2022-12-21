@@ -43,4 +43,4 @@ Para quem está acompanhando [a série de artigos sobre o Windows] deve lembrar 
 
 Bom, acho que para explicar o uso de um sistema multithreading em um artigo só não basta. Mas para explicar por que sua senha deve ter mais de três caracteres, acho que é o bastante. Até a próxima.
 
-[a série de artigos sobre o Windows]: /historia-do-windows
+[a série de artigos sobre o Windows]: {{< ref "historia-do-windows" >}}

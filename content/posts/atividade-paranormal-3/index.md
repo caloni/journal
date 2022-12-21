@@ -23,4 +23,4 @@ Dessa forma, é ponto positivo que a relação entre os membros da família most
 
 Apesar das novas invencionices o novo exemplar mais uma vez cai no conceito ao apresentar um plano final totalmente inspirado nos longas anteriores, o que praticamente revela seu desfecho. É digno de nota como, ao mesmo tempo que se beneficia do fruto de projetos experimentais anteriores como A Bruxa de Blair (até na hora de apresentar ruídos quase inaudíveis para aguçar a imaginação), ainda assim falta coragem artística (ou amarras comerciais?) para que seja apresentada uma conclusão tão corajosa quanto a dessa produção de 12 anos atrás.
 
-[japonês]: /atividade-paranormal-toquio
+[japonês]: {{< ref "atividade-paranormal-toquio" >}}

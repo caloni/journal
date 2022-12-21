@@ -25,4 +25,4 @@ Ambas as virtudes pertencem ao seu diretor, Ozu, que parece deixar fácil uma hi
 
 E nisso entra Hanami, uma reencarnação mais jovem e artística. Hanami é obviamente uma homenagem e referência, e não um remake, pois o próprio assunto de sombra e espírito informam ao espectador que este é um tema antigo sob uma nova roupagem, não melhor ou pior, apenas diferente.
 
-[Hanami]: /hanami-cerejeiras-em-flor
+[Hanami]: {{< ref "hanami-cerejeiras-em-flor" >}}

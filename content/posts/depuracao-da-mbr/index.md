@@ -62,5 +62,5 @@ Além da MBR, muitas vezes é preciso depurar a própria BIOS para descobrir o q
     -rip fff0
     -t
 
-[depuração da BIOS usando SoftIce]: /debug-da-bios-com-o-softice-16-bits
+[depuração da BIOS usando SoftIce]: {{< ref "debug-da-bios-com-o-softice-16-bits" >}}
 [Ralf Brown]: http://www.ctyme.com/rbrown.htm

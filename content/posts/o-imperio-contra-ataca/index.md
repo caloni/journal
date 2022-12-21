@@ -15,4 +15,4 @@ Darth Vader está mais maldoso e presente do que no primeiro filme, provavelment
 
 Mais uma vez com uma precipitada conclusão, o filme passa a ideia de ser apenas um exemplo de um universo inteiro sendo criado aos poucos, com muitas coisas ainda pendentes, e outras um tanto contraditórias. Para muitos fãs, uma religião estava nascendo nesse momento.
 
-[filme inicial]: /star-wars-guerra-nas-estrelas
+[filme inicial]: {{< ref "star-wars-guerra-nas-estrelas" >}}

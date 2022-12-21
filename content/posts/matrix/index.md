@@ -21,4 +21,4 @@ Antigamente, a fotografia verde representava dentro da matrix, enquanto azul rep
 
 Cada vez que entramos a fundo, hoje, na análise de Matrix, são tantas as analogias nas telas com o mundo real (e virtual) que chega a ser uma paródia ou referência do mesmo universo que homenageia. A forma como é demonstrado como o conhecimento instantâneo é adquirido pelo cérebro para o uso prático no mundo virtual, ou a forma como são carregados novos programas, de maneira instantânea.
 
-[Speed Racer]: /speed-racer
+[Speed Racer]: {{< ref "speed-racer" >}}

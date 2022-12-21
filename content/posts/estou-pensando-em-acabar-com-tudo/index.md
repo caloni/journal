@@ -31,5 +31,5 @@ Todos os mistérios cercando a história principal, a interpretação final da a
 
 Kaufman anda se soltando cada vez mais em sua estrutura. Este é o seu filme mais frouxo de longe, e com certeza o menos empolgante. Todo o seu tom intimista e deprimente nos faz sentir mal, mas não pelas pessoas na tela, mas por nós mesmos. Por quais caminhos miseráveis a humanidade avança quando os índices de depressão, suicídio e ansiedade sobem, enquanto nossa maior preocupação é qual termo politicamente correto devemos adotar para não ferir os ouvidos dos que não estão presentes. Que final miserável para uma sociedade tão próspera, não conseguir agarrar o significado que nos faz agir todos os dias, e lamentar pelo passado inevitável que nos conduz ao futuro repetido. E não adianta nada elogiar aquele poeta ou aquela crítica de cinema se não conseguirmos enxergar além para onde devemos ir a partir de onde os que nos precedem chegaram. Este parece ser mesmo o fim da linha. Nos contentamos com uma lambida em um sorvete imaginário no meio de uma nevasca inevitavelmente real e próxima.
 
-[Pauline Kael]: /conversations-with-pauline-kael
-[Uma Mente Brilhante]: /uma-mente-brilhante
+[Pauline Kael]: {{< ref "conversations-with-pauline-kael" >}}
+[Uma Mente Brilhante]: {{< ref "uma-mente-brilhante" >}}

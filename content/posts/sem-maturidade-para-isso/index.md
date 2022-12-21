@@ -13,4 +13,4 @@ Perto de atrocidades como Hoops, que segue a fórmula obtusa e ultrapassada de c
 
 Além disso esta é uma série que de fato dialoga com seu público-alvo e entende seus personagens, um casal com seus trinta anos tentando sobreviver com uma filha nova e compartilhando uma casa com um ex-casal, algo tipicamente moderno. Eles sentem a idade chegando porque trocam a balada pelo chá no final do dia e mesmo na balada procuram um canto tranquilo para sentar.
 
-[Regular Show]: /regular-show
+[Regular Show]: {{< ref "regular-show" >}}

@@ -18,10 +18,10 @@ Escrevi esta lista de artigos sobre a evolução do sistema operacional Windows 
 
 {{< image src="windows_history.gif" caption="Windows History" >}}
 
-[Parte 1]: /historia-do-windows-parte-10 
-[Parte 2]: /historia-do-windows-parte-20 
-[Parte 3]: /historia-do-windows-parte-30 
-[Parte 3.5]: /historia-do-windows-parte-351
-[Parte 4]: /historia-do-windows-parte-40 
-[Parte 5]: /historia-do-windows-parte-50 
-[Parte 5.1]: /historia-do-windows-parte-51
+[Parte 1]: {{< ref "historia-do-windows-parte-10 " >}}
+[Parte 2]: {{< ref "historia-do-windows-parte-20 " >}}
+[Parte 3]: {{< ref "historia-do-windows-parte-30 " >}}
+[Parte 3.5]: {{< ref "historia-do-windows-parte-351" >}}
+[Parte 4]: {{< ref "historia-do-windows-parte-40 " >}}
+[Parte 5]: {{< ref "historia-do-windows-parte-50 " >}}
+[Parte 5.1]: {{< ref "historia-do-windows-parte-51" >}}

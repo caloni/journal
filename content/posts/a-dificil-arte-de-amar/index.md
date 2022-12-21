@@ -13,5 +13,5 @@ Um roteiro e um romance de Nora Ephron ([Julie & Julia], [Mens@gem pra Você], S
 
 No entanto, as relações entre os casais de hoje em dia não poderiam ser mais diferentes do que nesse filme. Muitas coisas mudaram nesses 26 anos, e hoje uma história dessas dificilmente seria rodada, por falta de público. O que não deixa de ser ironicamente um final feliz para o drama da mulher divorciada.
 
-[Julie & Julia]: /julie-e-julia
-[Mens@gem pra Você]: /mensgem-para-voce
+[Julie & Julia]: {{< ref "julie-e-julia" >}}
+[Mens@gem pra Você]: {{< ref "mensgem-para-voce" >}}

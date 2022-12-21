@@ -11,6 +11,6 @@ Um dos trabalhos mais esquecidos da Disney das décadas passadas, e um dos pouco
 
 No entanto, nada disso é o que faz dele um dos meus favoritos do estúdio. Munido da paleta clássica de cartoons, Dumbo ainda consegue trazer drama para a tela em seu momento climático mesmo depois de termos visto a mesma cena várias vezes. O quadro-a-quadro aqui é um exemplo de Cinema a ser copiado e estudado.
 
-[A Princesa e o Sapo]: /a-princesa-e-o-sapo
-[Branca de Neve]: /branca-de-neve-e-os-sete-anoes
+[A Princesa e o Sapo]: {{< ref "a-princesa-e-o-sapo" >}}
+[Branca de Neve]: {{< ref "branca-de-neve-e-os-sete-anoes" >}}
 [Pink Elephants on Parade]: https://en.wikipedia.org/wiki/Pink_Elephants_on_Parade

@@ -15,4 +15,4 @@ Filmado com uma fotografia absolutamente soberba, de comparar-se a outra obra m�
 
 Não há mais nada a dizer sobre Goodfellas por enquanto, pois é um filme que deve ser degustado com certeza mais de uma vez. A primeira é uma imersão tão completa que acabamos fingindo não se tratar de um filme. É a vida real, romantizada, dramatizada, mas tão real que fica difícil separar os elementos que formam a obra de arte.
 
-[Taxi Driver]: /taxi-driver
+[Taxi Driver]: {{< ref "taxi-driver" >}}

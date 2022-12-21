@@ -79,7 +79,7 @@ Como usuário de Windows, posso dizer que a versão funciona muito bem, e é pos
 
 Testei o Mercurial por cerca de três meses desde que o conheci. Esse fim-de-semana conheci mais a fundo o Bazaar, e pretendo começar a testá-lo também para ter uma visão dos dois mundos e optar por um deles. Ambos são projetos relativamente novos que prometem muito. De uma forma ou de outra, os programadores solitários agora possuem um sistema de controle de fontes sem frescura e que funciona para todos.
 
-[escrevi a respeito]: /guia-basico-de-controle-de-codigo-source-safe
+[escrevi a respeito]: {{< ref "guia-basico-de-controle-de-codigo-source-safe" >}}
 [disponível na web]: http://ianclatworthy.files.wordpress.com/2007/10/dvcs-why-and-how3.pdf
 [Git]: http://git.or.cz/
 [Mercurial]: http://www.selenic.com/mercurial/wiki/

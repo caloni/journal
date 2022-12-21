@@ -109,6 +109,6 @@ Venho mantendo as soluções de baixo nível da Intelitrader, principalmente as 
 
 > "Não basta saber: temos que aplicar. Não basta querer: temos que fazer." Goethe
 
-[um ótimo artigo aqui no blog]: /o-bug-mais-bizarro-que-ja-resolvi
+[um ótimo artigo aqui no blog]: {{< ref "o-bug-mais-bizarro-que-ja-resolvi" >}}
 [pelo Code Project]: https://www.codeproject.com/Articles/caloni
 [email]: mailto:wanderleycaloni@gmail.com

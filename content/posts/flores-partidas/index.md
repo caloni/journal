@@ -15,4 +15,4 @@ Sem muitos detalhes sobre quem é aquele homem ou do que vive, a evolução de u
 
 Ao final, um giro de 360 graus nos revela o homem completo e ao mesmo tempo faltando partes. As ideias não encaixam perfeitamente, como a vida muitas vezes é.
 
-[Sobre Café e Cigarros]: /sobre-cafe-e-cigarros
+[Sobre Café e Cigarros]: {{< ref "sobre-cafe-e-cigarros" >}}

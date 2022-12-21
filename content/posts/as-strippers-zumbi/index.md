@@ -11,4 +11,4 @@ Até um filme amador com a premissa de strippers que são infectadas por um vír
 
 Nesse sentido, não dá pra evitar analisar as ideias do diretor/roteirista Jay Lee, que relaciona sexo e violência com a distração que o governo precisa para dar continuidade ao seu regime totalitário de morte e guerras. Não dá para julgar um filme trash que se preocupa em contextualizar ficção e crítica social, mesmo que o resultado seja um apanhado caótico de cenas. Se [A Morte do Demônio] não possui um pano de fundo minimamente livre do puro entretenimento (apesar de muito melhor realizado), as Strippers Zumbi merecem uma olhada. Só que bem rápida.
 
-[A Morte do Demônio]: /a-morte-do-demonio
+[A Morte do Demônio]: {{< ref "a-morte-do-demonio" >}}

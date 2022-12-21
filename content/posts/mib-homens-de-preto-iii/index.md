@@ -19,6 +19,6 @@ Como todo filme de viagem no tempo, existem seus paradoxos, mas eles não atinge
 
 De certa forma, apesar do excelente clímax final, não deixa de soar como a única ideia verdadeiramente digna de uma continuação, pois durante todo o tempo somos levados de cá pra lá sem uma ideia clara de desenvolvimento da história. Dessa forma, a conclusão continua forte e impactante, mas não se pode dizer que leva o resto do filme para o mesmo caminho.
 
-[Loucos por Nada]: /loucos-por-nada
-[Wall Street 2]: /wall-street-o-dinheiro-nunca-dorme
-[o original]: /mib-homens-de-preto
+[Loucos por Nada]: {{< ref "loucos-por-nada" >}}
+[Wall Street 2]: {{< ref "wall-street-o-dinheiro-nunca-dorme" >}}
+[o original]: {{< ref "mib-homens-de-preto" >}}

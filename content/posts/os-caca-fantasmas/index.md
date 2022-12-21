@@ -15,5 +15,5 @@ Com a participação inspirada de todo o elenco, incluindo aí a "musa" Sigourne
 
 Não há essa história de sucesso na época para Ghostbusters. Suas virtudes se mantém mesmo quase 30 anos depois.
 
-[Aliens]: /alien-a-ressureicao
-[S.O.S. Tem um Maluco Solto no Espaço]: /sos-tem-um-louco-solto-no-espaco
+[Aliens]: {{< ref "alien-a-ressureicao" >}}
+[S.O.S. Tem um Maluco Solto no Espaço]: {{< ref "sos-tem-um-louco-solto-no-espaco" >}}

@@ -19,5 +19,5 @@ Curioso constatar que o próprio futebol fica em segundo plano, e nunca sabemos 
 
 Ao nos mostrar o fim e o ápice de Heleno, acompanhamos apenas sua trajetória em direção ao buraco do esquecimento. Sua lenta descaracterização merece aplausos, principalmente pela sua última frase, seu último pensamento, a respeito de si mesmo, e, por que não, a respeito de todo ídolo honrado do esporte nacional.
 
-[A Febre do Rato]: /a-febre-do-rato
-[Central do Brasil]: /central-do-brasil
+[A Febre do Rato]: {{< ref "a-febre-do-rato" >}}
+[Central do Brasil]: {{< ref "central-do-brasil" >}}

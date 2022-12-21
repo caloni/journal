@@ -19,5 +19,5 @@ E, enfim, é Covarde porque simplesmente parece não conseguir finalizar a hist�
 
 Dito isto, que venha [Happy Feet 2].
 
-[Bebês]: /bebes
-[Happy Feet 2]: /happy-feet-2-o-pinguim
+[Bebês]: {{< ref "bebes" >}}
+[Happy Feet 2]: {{< ref "happy-feet-2-o-pinguim" >}}

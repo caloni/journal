@@ -35,6 +35,6 @@ Agora, quando iniciarmos o serviço Msvcmon, o processo cmd.exe será criado, qu
 
 {{< image src="msvcmon-service.png" caption="MsvcMon Service" >}}
 
-[GINA]: /gina-x-credential-provider
+[GINA]: {{< ref "gina-x-credential-provider" >}}
 [artigo do Alex Ionescu]: http://www.alex-ionescu.com/?p=59
 [Thiago]: http://codebehind.wordpress.com/

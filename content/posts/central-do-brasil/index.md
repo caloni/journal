@@ -21,5 +21,5 @@ A religião do filme precisa envolver o sincretismo, mas soa passagem obrigatór
 
 Mas o trabalho de Salles se beneficia do momento que o cinema local desperta e estamos em busca de aprovação externa. A mesa de um conselho autoritário cultural usa um filtro ideológico que aprove, financie e divulgue trabalhos socialmente compatíveis com o projeto da nova democracia. O filme vai revelando suas ambições conforme estamos cada vez mais no interior do país. A Central do Brasil não é a estação do Rio, mas um lugar idílico e mental habitado por professores de história tão arrogantes quanto um garoto de nove anos que sabe tudo sobre a vida.
 
-[Na Estrada]: /na-estrada
-[Pixote: A Lei do Mais Fraco]: /pixote-a-lei-do-mais-fraco
+[Na Estrada]: {{< ref "na-estrada" >}}
+[Pixote: A Lei do Mais Fraco]: {{< ref "pixote-a-lei-do-mais-fraco" >}}

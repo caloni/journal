@@ -15,4 +15,4 @@ O maior problema do filme é criar conflitos onde não existe (se Colosso estava
 
 Com seus prós e contras, a animação de Campanella diverte moderadamente. Tal como um jogo de cartas marcadas que estamos acostumados a assistir hoje em dia.
 
-[O Segredo dos Seus Olhos]: /o-segredo-dos-seus-olhos
+[O Segredo dos Seus Olhos]: {{< ref "o-segredo-dos-seus-olhos" >}}

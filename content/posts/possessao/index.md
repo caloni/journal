@@ -17,5 +17,5 @@ Cozinhando em forno brando, a criação de suspense sem o uso dos artifícios j�
 
 De qualquer forma, criando uma ou duas cenas marcantes, a conclusão possui ótimas sequências que se tornam mais aterrorizantes pelo artifício da urgência. Dessa forma, vemos seus personagens correndo de um canto a outro tentando de todas as maneiras evitar o mal que os assola. Uma linda metáfora de uma família que luta junto para superar um episódio que gostariam de evitar (o divórcio).
 
-[O Exorcismo de Emily Rose]: /o-exorcismo-de-emily-rose
-[O Exorcista]: /o-exorcista
+[O Exorcismo de Emily Rose]: {{< ref "o-exorcismo-de-emily-rose" >}}
+[O Exorcista]: {{< ref "o-exorcista" >}}

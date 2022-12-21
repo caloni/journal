@@ -11,4 +11,4 @@ Talvez o diretor Marc Webb não saiba, mas o fato de estar reiniciando uma franq
 
 Não que o filme seja ruim. Ou talvez fosse até melhor que fosse ruim, já que é necessário um tipo especial de incompetência para tornar um herói tão legal quanto Spider em uma experiência na tela apenas satisfatória. Ou, quem sabe, ainda estou vestindo o antigo uniforme da Aranha Humana (cuja referência está no novo Spider, fria e solitária), ainda estou rindo das antigas piadas que funcionavam pela espontaneidade (e não porque precisavam estar lá), ainda estou torcendo por um herói que não existe mais. Foi substituído. O legado do nerd clássico se foi, junto com a música "Raindrops Keep Fallin' on My Head", deixando no lugar um nerd estiloso, fake, mas dentro dos conceitos da nova década, de jovens que preferem parecer algo do que realmente se preocuparem em viver a aventura da vida.
 
-["Spider"]: /homem-aranha
+["Spider"]: {{< ref "homem-aranha" >}}

@@ -13,5 +13,5 @@ Em Monstros S/A, é preciso lembrar, ainda estamos engatinhando nas animações 
 
 Outro detalhe admirável é entender que entre os princípios de criação do estúdio estava o uso de temas e situações que nunca ficam datadas, servindo para que seus filmes envelheçam bem. No caso de Monstros S/A, isso continua funcionando bem, apesar de algumas referências já mais passadas e da perigosa dublagem brasileira que utiliza maneirismos na língua que logo estarão ultrapassadas.
 
-[Ratatouille]: /ratatouille
-[Up!]: /up
+[Ratatouille]: {{< ref "ratatouille" >}}
+[Up!]: {{< ref "up" >}}

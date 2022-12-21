@@ -41,6 +41,6 @@ Das novidades que aconteceram durante esse ano, a maior e mais interessante foi 
 
 Eu fico sinceramente muito feliz em saber que existem muito mais pessoas interessadas em C++ do que eu mesmo, até porque isso me dá muito mais tempo para escrever sobre outras coisas que não seja C++ que, admiro humildemente, não chego a usar 20% no meu dia-a-dia.
 
-[boas vindas]: /hello-world
-[jogo de xadrez]: /influence-board
-[que eu já escrevi]: /introducao-ao-softice
+[boas vindas]: {{< ref "hello-world" >}}
+[jogo de xadrez]: {{< ref "influence-board" >}}
+[que eu já escrevi]: {{< ref "introducao-ao-softice" >}}

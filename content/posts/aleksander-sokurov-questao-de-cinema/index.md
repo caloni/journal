@@ -14,4 +14,4 @@ A primeira impressão ao acompanhar seu monólogo é uma sopa de conceitos que v
 
 Esse controle que ele se refere, porém, consegue ser visto na maioria dos seus exemplos, com o uso de luz, câmera e efeitos sonoros. Muito do que é visto se mistura com as divagações do diretor, mas o exemplo mais completo, ou pelo menos central no debate sobre a família e o povo russo, é um quadro lentíssimo em que vemos um trem se aproximar e percorrer todo o horizonte enquanto um garoto observa logo à frente. Se o acompanhamento do espectador desse quadro não é o controle absoluto que Sokurov desmente, não sei mais o que é.
 
-[Arca Russa]: /arca-russa
+[Arca Russa]: {{< ref "arca-russa" >}}

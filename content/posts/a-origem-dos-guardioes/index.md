@@ -15,4 +15,4 @@ Mais curioso ainda é constatar que com tantos conceitos "dark" em torno de cria
 
 Apesar de uma história coerente até o fim e emocionante em seus minutos finais a falta de profundidade dos próprios personagens secundários acaba prejudicando sua conclusão. De qualquer forma, a estrutura narrativa compensa a falta de ritmo de todo o resto com uma entrega intensa e inesquecível da magia infantil e sua crença no impossível.
 
-[Adaptação]: /adaptacao
+[Adaptação]: {{< ref "adaptacao" >}}

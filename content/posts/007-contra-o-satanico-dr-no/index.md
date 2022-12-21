@@ -15,4 +15,4 @@ Interessante notar que diversos outros aspectos marginais se mantém ou foram re
 
 O que não está na versão contemporânea de 007 é o charme, a postura e a elegância de Sean Connery no papel. O mesmo realismo visto no personagem vivido por Daniel Craig existe, embora não com a mesma textura, na interpretação de Sir Connery. E o vilão-título, vivido por Joseph Wiseman, possui os trejeitos que marcaram os vilões da série, mas sem o tom exagerado de Javier Bardem. O mistério e o suspense é mantido do início ao fim. Existem cenas de ação moderadas e com os efeitos da época, mas envelheceram bem, com exceção da perseguição de carro e o velho uso da projeção da estrada ao fundo do carro em estúdio. No entanto, se é possível até hoje ver clássicos de Hitchcock sem reclamar desse artifício, também é possível entender que, como filme de espionagem, Dr. No continua atual e interessante.
 
-[o último 007]: /007-operacao-skyfall
+[o último 007]: {{< ref "007-operacao-skyfall" >}}

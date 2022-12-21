@@ -49,4 +49,4 @@ Agora esqueça essa viagem teórica de arquitetura. Para a organização dos rec
 
 Essa organização foi adotada principalmente pela sua grande vantagem de minimizar mudanças, uma vez que as informações sobre os recursos são armazenadas em estruturas opacas, isto é, elas existem, porém não são acessíveis a todos. Isso permite que elas sofram mudanças internas no decorrer do tempo sem impactar para seus usuários. Essa é a abordagem pragmática que tem feito com que mesmo contando já décadas, o projeto Windows consiga avançar rapidamente junto com a tecnologia disponível para que o sistema operacional não fique parado no tempo. O que o futuro nos reserva depende apenas dos fatores externos.
 
-[História do Windows]: /historia-do-windows
+[História do Windows]: {{< ref "historia-do-windows" >}}

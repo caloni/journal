@@ -11,4 +11,4 @@ O lap dance memorável, a fusão elegante dos anos 70, o trash psicodélico, o m
 
 Uma mensagem final aos desavisados de plantão: sim, a conclusão da história é válida e catártica para o conflito das jovens damas e o seu algoz. Ninguém precisa amarrar tantas pontas assim, ainda mais sabendo que essa é uma curva muito mais temática que narrativa.
 
-[Planeta Terror]: /planeta-terror
+[Planeta Terror]: {{< ref "planeta-terror" >}}

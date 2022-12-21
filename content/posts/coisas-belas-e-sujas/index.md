@@ -15,4 +15,4 @@ Mas quem realmente faz diferença é Chiwetel Ejiofor, pois é através de seu o
 
 Com um final enfraquecido justamente por dar ao espectador um pouco de alívio, só que falso, de que vai ficar tudo bem (quando na verdade nada mudou), a situação apresentada está longe de mudar. Nesse sentido não é tão corajoso, por exemplo, quanto O Jardineiro Fiel. Mesmo assim, uma agradável surpresa para quem procura por um olhar diferente sobre a cidade de Londres e suas injustiças ocultas.
 
-[O Fabuloso Destino de Amelie Poulain]: /amelie-poulain
+[O Fabuloso Destino de Amelie Poulain]: {{< ref "amelie-poulain" >}}

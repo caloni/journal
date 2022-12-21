@@ -32,30 +32,30 @@ Foi divulgada a lista dos filmes para a mostra desse ano. Já conheço alguns di
  - Roschdy Zem (filmes nessa Mostra: Persona Non Grata) é diretor do drama histórico sobre racismo em [Chocolate].
  - Yorgos Lanthimos (filmes nessa Mostra: Nimic) é o diretor premiado ano passado pelo espetacular [A Favorita], e que chega com novo filme Nimic.
 
-[2 Coelhos]: /2-coelhos
-[A Bruxa]: /a-bruxa-2015
-[A Favorita]: /a-favorita
-[A Garota Desconhecida]: /a-garota-desconhecida
-[A Gente]: /a-gente
-[Bem-Vindo a Nova York]: /bem-vindo-a-nova-york
-[BugiGangue no Espaço]: /bugigangue-no-espaco
-[Chocolate]: /chocolate
-[Cidade de Deus]: /cidade-de-deus
-[Como é Cruel Viver Assim]: /como-e-cruel-viver-assim
-[Dez]: /dez
-[Domingos]: /domingos
-[Em Pedaços]: /em-pedacos
-[O Amor é Estranho]: /o-amor-e-estranho
-[O Cheiro do Ralo]: /o-cheiro-do-ralo
-[O Farol]: /o-farol
-[O Invasor]: /o-invasor
-[O Mundo Fora do Lugar]: /o-mundo-fora-do-lugar
-[O Voto é Secreto]: /o-voto-e-secreto
-[Para Minha Amada Morta]: /para-minha-amada-morta
-[Paris Te Amo]: /paris-te-amo
-[Partida]: /partida
-[País do Desejo]: /pais-do-desejo
-[Quebrando o Tabu]: /quebrando-o-tabu
-[Segredos Oficiais]: /segredos-oficiais
-[Tropa de Elite]: /tropa-de-elite
-[adaptação do livro Ender's Game]: /enders-game-o-jogo-do-exterminador
+[2 Coelhos]: {{< ref "2-coelhos" >}}
+[A Bruxa]: {{< ref "a-bruxa-2015" >}}
+[A Favorita]: {{< ref "a-favorita" >}}
+[A Garota Desconhecida]: {{< ref "a-garota-desconhecida" >}}
+[A Gente]: {{< ref "a-gente" >}}
+[Bem-Vindo a Nova York]: {{< ref "bem-vindo-a-nova-york" >}}
+[BugiGangue no Espaço]: {{< ref "bugigangue-no-espaco" >}}
+[Chocolate]: {{< ref "chocolate" >}}
+[Cidade de Deus]: {{< ref "cidade-de-deus" >}}
+[Como é Cruel Viver Assim]: {{< ref "como-e-cruel-viver-assim" >}}
+[Dez]: {{< ref "dez" >}}
+[Domingos]: {{< ref "domingos" >}}
+[Em Pedaços]: {{< ref "em-pedacos" >}}
+[O Amor é Estranho]: {{< ref "o-amor-e-estranho" >}}
+[O Cheiro do Ralo]: {{< ref "o-cheiro-do-ralo" >}}
+[O Farol]: {{< ref "o-farol" >}}
+[O Invasor]: {{< ref "o-invasor" >}}
+[O Mundo Fora do Lugar]: {{< ref "o-mundo-fora-do-lugar" >}}
+[O Voto é Secreto]: {{< ref "o-voto-e-secreto" >}}
+[Para Minha Amada Morta]: {{< ref "para-minha-amada-morta" >}}
+[Paris Te Amo]: {{< ref "paris-te-amo" >}}
+[Partida]: {{< ref "partida" >}}
+[País do Desejo]: {{< ref "pais-do-desejo" >}}
+[Quebrando o Tabu]: {{< ref "quebrando-o-tabu" >}}
+[Segredos Oficiais]: {{< ref "segredos-oficiais" >}}
+[Tropa de Elite]: {{< ref "tropa-de-elite" >}}
+[adaptação do livro Ender's Game]: {{< ref "enders-game-o-jogo-do-exterminador" >}}

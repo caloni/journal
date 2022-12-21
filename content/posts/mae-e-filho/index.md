@@ -13,5 +13,5 @@ O filme narra a relação entre uma mãe já debilitada e seu filho, tudo que el
 
 Não há trilha sonora, quase não há efeitos sonoros ou diálogos. Porém, há algo inestimável nesse filme: uma visão diferente. Algo para pensar, nem que seja sobre o que o Cinema representa em obras como essa, ou o que ele consegue evocar apenas com a escolha certa de elementos minimalistas e aprofundar na expressividade com nada mais que isso.
 
-[A Árvore da Vida]: /a-arvore-da-vida
-[Arca Russa]: /arca-russa
+[A Árvore da Vida]: {{< ref "a-arvore-da-vida" >}}
+[Arca Russa]: {{< ref "arca-russa" >}}

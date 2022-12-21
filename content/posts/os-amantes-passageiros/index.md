@@ -15,4 +15,4 @@ A única "polêmica" parece estar apenas na "modernice" de seus temas: fraudes f
 
 Quase nunca deixando de entreter, as mensagens das histórias estão tão interconectadas e tratadas de maneira tão "passageira" que sua força se esvai com a própria conclusão, querendo dizer 1) mais uma vez um eco das nossas efêmeras relações com o mundo moderno ou 2) a falta de foco do próprio idealizador, afetado pelo mundo que tenta criticar. De qualquer forma, ruim ou bom, um filme novo de Pedro Almodóvar sempre será algo bem-vindo.
 
-[A Pele que Habito]: /a-pele-que-habito
+[A Pele que Habito]: {{< ref "a-pele-que-habito" >}}

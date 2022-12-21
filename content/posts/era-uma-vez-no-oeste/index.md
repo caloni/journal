@@ -22,6 +22,6 @@ No entanto o mestre Leone quer deixar sua marca, e para isso tenta transformar s
 
 Se bem que, de certa forma, a trilogia dos dólares dança no mesmo ritmo: fico feliz pelo músico ser o mestre Morricone.
 
-[Era Uma Vez na América]: /era-uma-vez-na-america
-[Sin City]: /sin-city
-[Três Homens em Conflito]: /tres-homens-em-conflito
+[Era Uma Vez na América]: {{< ref "era-uma-vez-na-america" >}}
+[Sin City]: {{< ref "sin-city" >}}
+[Três Homens em Conflito]: {{< ref "tres-homens-em-conflito" >}}

@@ -17,5 +17,5 @@ O constante drama de Ralph de ser um vilão eterno por definição consegue cria
 
 Aliás, essa necessidade de se moldar ao arco dramático padrão com o terceiro ato representando uma óbvia perda de ritmo prejudica levemente a conclusão do filme. De qualquer forma, Detona Ralph se revela uma ótima notícia dos estúdios que começavam a diminuir seu ímpeto criativo após a fusão com a Pixar, o que acabou gerando produções menores como [Carros 2] e [Valente]. Há ótimos motivos, portanto, para comemorar.
 
-[Carros 2]: /carros-2
-[Valente]: /valente
+[Carros 2]: {{< ref "carros-2" >}}
+[Valente]: {{< ref "valente" >}}

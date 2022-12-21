@@ -17,4 +17,4 @@ Porém, mesmo se saindo bem em algumas sequências de ação razoavelmente efici
 
 Nunca conseguindo se firmar como gênero por tempo o suficiente, "G. I. Joe" ao menos parece tentar enxugar bastante a história dos seus personagens, só que mesmo assim parece ter tempo demais na tela. Talvez para que um terceiro filme exista seja necessário enxugar ainda mais caso ele tenha a (fácil) pretensão de se sair melhor que "Retaliação" segundo o mesmo formato. Talvez quinze minutos e tudo já esteja resolvido (e ainda dá tempo para o garoto ir almoçar).
 
-[desprezível predecessor]: /g-i-joe-a-origem-de-cobra
+[desprezível predecessor]: {{< ref "g-i-joe-a-origem-de-cobra" >}}

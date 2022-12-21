@@ -23,4 +23,4 @@ Com o advento dos novos lançamentos da Intel, os processadores 80286 e 80386, o
 
 A próxima versão do Windows é que vai alavancar as vendas da Microsoft de uma vez por todas. Veremos que boa parte da API que usamos hoje em dia já existia no Windows 3.0, e boa parte das peculiaridades que nos perseguem até hoje.
 
-[História do Windows]: /historia-do-windows
+[História do Windows]: {{< ref "historia-do-windows" >}}

@@ -19,4 +19,4 @@ A comparação com [A Febre do Rato] é inevitável: a mesma Recife vista pela m
 
 O grande conflito, talvez, seja entender que a Felicidade pode ser muitas coisas. Menos banal.
 
-[A Febre do Rato]: /a-febre-do-rato
+[A Febre do Rato]: {{< ref "a-febre-do-rato" >}}

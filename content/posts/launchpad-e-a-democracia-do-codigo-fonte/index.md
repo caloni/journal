@@ -58,6 +58,6 @@ Dessa forma os passos são os seguintes:
 
 Simples e direto. E funciona!
 
-[MouseTool]: /mousetool
-[Influence Board]: /influence-board
-[Conversor Houaiss Babylon]: /conversor-de-houaiss-para-babylon-parte-2
+[MouseTool]: {{< ref "mousetool" >}}
+[Influence Board]: {{< ref "influence-board" >}}
+[Conversor Houaiss Babylon]: {{< ref "conversor-de-houaiss-para-babylon-parte-2" >}}

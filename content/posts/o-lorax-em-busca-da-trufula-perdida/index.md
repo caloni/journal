@@ -15,4 +15,4 @@ Misturando flashbacks de uma história cativante a respeito da natureza e como a
 
 De qualquer forma, é sempre bom poder ver ideias novas de uma outra produtora que não seja a Pixar ou a Dreamworks, e nesse ponto podemos dizer que a criadora de [Meu Malvado Favorito] vem avançando em qualidade gráfica. Esperamos apenas que um dia suas histórias sejam tão fascinantes diante das principais rivais.
 
-[Meu Malvado Favorito]: /meu-malvado-favorito
+[Meu Malvado Favorito]: {{< ref "meu-malvado-favorito" >}}

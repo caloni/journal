@@ -60,5 +60,5 @@ Ele vai ficar nessa de aguardar até a máquina target estar disponível, ou sej
 
 Depois de algumas horas eu finalmente consegui. Agora é hora de começar a gravar o vídeo para o post antigo. Ou outro dia.
 
-[o post]: /kernel-mode-user-mode
+[o post]: {{< ref "kernel-mode-user-mode" >}}
 [post da Ophir Harpaz]: https://medium.com/@ophirharpaz/kdnet-tutorial-for-noobs-68669778bbd4

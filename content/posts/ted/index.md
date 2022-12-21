@@ -19,5 +19,5 @@ Vendo dois anos depois, Ted me parece um filme extremamente coeso e coerente com
 
 Porém, é necessário dar o braço a torcer: usando como premissa o urso que magicamente ganha vida para uma criança e passa a conviver com ela até depois dos seus 30 anos é uma metáfora eficiente para os jovens que se recusam a amadurecer e costumam colocar a culpa no resto do mundo pelo seus fracassos. A maneira com que o filme discute isso consegue trazer ao mesmo tempo as piadas sem contexto de Ted assim como o drama de um personagem (um Mark Wahlberg assustadoramente eficiente) que ganha vida pelas conversas com seu urso (dublado pelo próprio MacFarlane).
 
-[Family Guy]: /family-guy
-[Esqueceram de Mim]: /esqueceram-de-mim
+[Family Guy]: {{< ref "family-guy" >}}
+[Esqueceram de Mim]: {{< ref "esqueceram-de-mim" >}}

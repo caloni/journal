@@ -29,5 +29,5 @@ E muito embora a visão idealizada de um hacker esteja bem distante da realidade
 
 E que possuem um nickname.
 
-[1984]: /1984
-[Jogos de Guerra]: /war-games
+[1984]: {{< ref "1984" >}}
+[Jogos de Guerra]: {{< ref "war-games" >}}

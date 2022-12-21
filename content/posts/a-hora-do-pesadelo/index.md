@@ -13,4 +13,4 @@ Mesmo assim, Freddy Krueger (Robert Englund) já não assusta mais, e é apenas 
 
 Por fim, um trabalho completo, embora breve demais. Assistindo o original fica óbvio que ele merecia continuações. A ideia é boa demais para ser usada em apenas 90 minutos de filme.
 
-[A Origem]: /a-origem
+[A Origem]: {{< ref "a-origem" >}}

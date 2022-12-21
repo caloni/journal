@@ -26,4 +26,4 @@ Os desafios dessas pessoas de classe média são hilários. A esposa precisará 
 
 E apenas alguns verão o que realmente importa. E será delas o reino dos céus.
 
-[The Room]: /the-room
+[The Room]: {{< ref "the-room" >}}

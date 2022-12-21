@@ -19,7 +19,7 @@ E o amor, por falar nele, possui uma interpretação especial e irônica na mane
 
 Nunca se esquecendo de sua origem, mas aproveitando os últimos momentos para melhorar todas as [impressões anteriores], Amanhecer: Parte Final deixa uma impressão bem positiva de sua história, o que por si só já é um mérito e tanto se recordarmos cada momento em que nosso desejo era desistir de acompanhar o amor impossível entre um vampiro agressivo e covarde e sua humana sem sal.
 
-[anteriores]: /a-saga-crepusculo-lua-nova
-[casal ou trio]: /eclipse
-[impressões anteriores]: /a-saga-crepusculo-amanhecer-parte-1
-[produções]: /crepusculo
+[anteriores]: {{< ref "a-saga-crepusculo-lua-nova" >}}
+[casal ou trio]: {{< ref "eclipse" >}}
+[impressões anteriores]: {{< ref "a-saga-crepusculo-amanhecer-parte-1" >}}
+[produções]: {{< ref "crepusculo" >}}

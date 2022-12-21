@@ -15,7 +15,7 @@ Além do mais, os conflitos principais da história não se sustentam, virando e
 
 Por fim, mesmo com esses óbvios problemas de caráter burocrático para que o filme conte sua grande história, o fato é que, chegando lá, ele funciona impecavelmente bem, levando facilmente o espectador a esquecer que está em uma sala de projeção e a viajar pela história de um dos criadores da arte de contar histórias. Essas sim, deliciosamente fantasiosas.
 
-[Avatar]: /avatar
-[Kick-Ass]: /kick-ass
-[Os Bons Companheiros]: /os-bons-companheiros
-[Táxi Driver]: /taxi-driver
+[Avatar]: {{< ref "avatar" >}}
+[Kick-Ass]: {{< ref "kick-ass" >}}
+[Os Bons Companheiros]: {{< ref "os-bons-companheiros" >}}
+[Táxi Driver]: {{< ref "taxi-driver" >}}

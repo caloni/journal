@@ -102,4 +102,4 @@ Bem, como o código agora está em uma classe e o erro é baseado em exceção, 
 
 Existem duas mudanças significativas: 1. a variável sozinha já representa a memória compartilhada; 2. o tratamento de erro agora é centralizado em apenas um ponto. Se pra melhor ou pior, eu não sei. Tratamento de exceções e classes são duas "modernisses" que podem ou não se encaixar em um projeto de desenvolvimento. Tudo vai depender de tudo. Por isso a melhor saída depende de como será a entrada.
 
-[implementação das variáveis mapeadas globais]: /compartilhando-variaveis-com-o-mundo
+[implementação das variáveis mapeadas globais]: {{< ref "compartilhando-variaveis-com-o-mundo" >}}

@@ -23,7 +23,7 @@ Exagerado no visual, é econômico nas palavras, não sendo necessários muitos 
 
 Consegue. E, ainda que traga uma certa ansiedade o fato de nunca caminharmos para lugar algum na história, é exatamente esse o sentimento que o filme tenta transmitir. Então consegue em dobro.
 
-[Bonequinha de Luxo]: /bonequinha-de-luxo
-[Eu Matei a Minha Mãe]: /eu-matei-minha-mae
-[James Dean]: /juventude-transviada
-[Kill Bill]: /kill-bill-volume-1
+[Bonequinha de Luxo]: {{< ref "bonequinha-de-luxo" >}}
+[Eu Matei a Minha Mãe]: {{< ref "eu-matei-minha-mae" >}}
+[James Dean]: {{< ref "juventude-transviada" >}}
+[Kill Bill]: {{< ref "kill-bill-volume-1" >}}

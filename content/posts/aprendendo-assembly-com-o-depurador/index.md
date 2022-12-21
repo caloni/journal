@@ -138,5 +138,5 @@ Blogues que eu acho superinteressantes sobre debugging (do mais essencial para o
  - [Advanced Windows Debugging](http://blogs.msdn.com/ntdebugging)
  - [Crash Dump Analysis](http://www.dumpanalysis.org/blog/)
 
-[bugs escabrosos]: /analisando-dumps-com-windbg-e-ida
-[aqui no bloque]: /depuracao-da-mbr
+[bugs escabrosos]: {{< ref "analisando-dumps-com-windbg-e-ida" >}}
+[aqui no bloque]: {{< ref "depuracao-da-mbr" >}}

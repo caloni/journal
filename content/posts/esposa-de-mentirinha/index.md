@@ -19,4 +19,4 @@ O que mais impressiona nesse novo filme é o número de tiradas feitas sobre o f
 
 Com a participação de Jenifer Aniston como sua secretária, é possível comparar o abismo que existe no carisma e na interpretação dessa com a empatia limitada de Sandler. A primeira cena onde marido, "mulher" e "amante" se encontram é icônica nesse sentido.
 
-[Gente Grande]: /gente-grande
+[Gente Grande]: {{< ref "gente-grande" >}}

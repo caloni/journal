@@ -15,6 +15,6 @@ No entanto, mesmo que assim seja, o maior erro dos defeitos não é serem mal fe
 
 Porém, mesmo perdoadas as falhas de estilo, como ideia Dezesseis Luas parece ter pego apenas o que há de pior nos livros de Stephenie Meyer sem qualquer contraponto positivo. Sendo assim, sua conclusão se torna forçada sem um contraponto que faça merecer uma revisita em uma possível continuação. Que o fluxo de dólares na bilheteria impeça uma monstruosidade dessas. Sem trocadilho.
 
-[A Morte Lhe Cai Bem]: /a-morte-lhe-cai-bem
-[Crepúsculo]: /crepusculo
-[Sombras da Noite]: /sombras-da-noite
+[A Morte Lhe Cai Bem]: {{< ref "a-morte-lhe-cai-bem" >}}
+[Crepúsculo]: {{< ref "crepusculo" >}}
+[Sombras da Noite]: {{< ref "sombras-da-noite" >}}

@@ -25,7 +25,7 @@ A partir daí se constrói um suspense arrasador, com a tensão do espectador au
 
 Nesse desenrolar, um personagem se destaca de forma praticamente natural e inusitada. Inusitada porque naquele momento o Cinema ainda não havia experimentado uma heroína de verdade. Natural porque, como podemos facilmente perceber, a personagem não ocupa um lugar importante no início da trama, mas aos poucos se evidencia até tomar as rédeas da sanidade a bordo. Nesse momento, um ícone se forma: Tenente Ripley. Um ícone tão marcante que ainda irá ser reutilizado muitas vezes, como sinônimo do nosso mergulho ao desconhecido dentro de nossa própria mente.
 
-[2001: Uma Odisseia no Espaço]: /2001-uma-odisseia-no-espaco
-[Blade Runner]: /blade-runner
-[Contato]: /contato
-[O Vingador do Futuro]: /o-vingador-do-futuro-1990
+[2001: Uma Odisseia no Espaço]: {{< ref "2001-uma-odisseia-no-espaco" >}}
+[Blade Runner]: {{< ref "blade-runner" >}}
+[Contato]: {{< ref "contato" >}}
+[O Vingador do Futuro]: {{< ref "o-vingador-do-futuro-1990" >}}

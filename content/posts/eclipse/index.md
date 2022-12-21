@@ -15,5 +15,5 @@ E quando digo "que um sente pelo outro" incluo aqui também os sentimentos do lo
 
 Começo a achar agradável a tragicomédia que aqui se configura.
 
-[anteriores]: /a-saga-crepusculo-lua-nova
-[dois]: /crepusculo
+[anteriores]: {{< ref "a-saga-crepusculo-lua-nova" >}}
+[dois]: {{< ref "crepusculo" >}}

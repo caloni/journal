@@ -15,5 +15,5 @@ Mesmo inserindo cortes na trilha e falhas de transição como em [À Prova de Mo
 
 Porém, definitivamente algo novo e digno de assistir na telona.
 
-[Tudo pelo Poder]: /tudo-pelo-poder
-[À Prova de Morte]: /a-prova-de-morte
+[Tudo pelo Poder]: {{< ref "tudo-pelo-poder" >}}
+[À Prova de Morte]: {{< ref "a-prova-de-morte" >}}
