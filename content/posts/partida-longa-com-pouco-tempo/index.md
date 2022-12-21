@@ -2,7 +2,7 @@
 categories:
 - chess
 date: '2021-09-19T11:28:00-03:00'
-link: /chess/cavaloni_vs_alex4935_2021.09.19.txt
+link: cavaloni_vs_alex4935_2021.09.19.txt
 tags: []
 title: Partida longa com pouco tempo
 ---

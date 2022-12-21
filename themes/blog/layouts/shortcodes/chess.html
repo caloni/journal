@@ -1,17 +1,20 @@
 <!-- chess shortcode -->
 {{ $board := .Get "board" }}
-{{ $src := (printf "/chess/%s" (.Get "src") ) }}
+{{ $src := .Get "src" }}
+{{ $src = print "*" $src "*" -}}
+{{- with  $.Page.Resources.GetMatch $src -}}
 <script>
 new PgnViewer(
   {
     boardName: "{{ $board }}",
     showCoordinates: true,
-    pgnFile: '{{ $src }}',
+    pgnFile: '{{ . }}',
     pieceSet: 'merida',
     pieceSize: 65
   }
 );
 </script>
+{{- end -}}
 
 <div id="{{ $board }}-container"></div>
 

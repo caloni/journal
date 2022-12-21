@@ -2,7 +2,7 @@
 categories:
 - chess
 date: '2021-12-16T18:22:03-03:00'
-link: /chess/Mauo12_vs_cavaloni_2021.12.16.txt
+link: Mauo12_vs_cavaloni_2021.12.16.txt
 tags: []
 title: Ida e Volta
 ---
