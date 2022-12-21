@@ -19,7 +19,7 @@ Se ficou claro, deve ter notado o "desde que o Windows esteja no comando". Essa 
 
 {{< image src="windows-delete-file.gif" caption="Apagando arquivo no Windows" >}}
 
-Para esse tipo de problema eu costumo usar um programinha esperto chamado SDelete (de Secure Delete). O que ele faz é zerar os setores não usados, da mesma forma com que o Windows faz quando um programa pede um setor não usado. Para isso, basta especificar um ou mais arquivos: sdelete <nome-do-arquivo>.
+Para esse tipo de problema eu costumo usar um programinha esperto chamado SDelete (de Secure Delete). O que ele faz é zerar os setores não usados, da mesma forma com que o Windows faz quando um programa pede um setor não usado. Para isso, basta especificar um ou mais arquivos: sdelete `<nome-do-arquivo>`.
 
 Uma outra coisa que ele faz, muito útil quando comecei a usá-lo, é apagar todos os setores não usados que existem no disco inteiro (ou uma pasta inteira). Com isso podemos começar uma vida nova. Apenas tome muito cuidado nessa hora para especificar o comando, pois um errinho no comando pode realmente fazer você começar uma vida nova: sdelete -c -s p.
 

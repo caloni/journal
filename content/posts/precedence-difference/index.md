@@ -31,7 +31,7 @@ That happens in the line 6, the first for line. In other words, a C source that 
 Thinking about the problem rather intuitively than rationally I imagined that could be some little difference in the precedence table. Keeping that in mind, wrested the standard papers for both languages and took a look at this reduced C++ table and C ANSI standard from 1989:
 
 | C                      |                    C++ |
-|:---------------------- | ----------------------:|
+| ---------------------- | ---------------------- |
 | [L2R] () [] -> .       | () [] -> .       [L2R] |
 | [R2L] ! ~ ++ --        | ! ~ ++ --        [R2L] |
 | [L2R] * / %            | * / %            [L2R] |

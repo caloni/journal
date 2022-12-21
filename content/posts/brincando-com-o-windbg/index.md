@@ -42,7 +42,7 @@ Não se preocupe, nada aconteceu de errado. Essa é apenas a maneira do WinDbg d
  - Version: versão que está sendo executada do WinDbg (duh).
  - CommandLine: linha de comando que foi usada ao executar o depurador.
  - ModLoad: sempre que um módulo é carregado no processo (DLLs ou o próprio executável) o WinDbg informa os endereços inicial e final de carregamente e o nome do módulo. Para rever a lista de módulos carregados usa-se o comando lm.
- - (<pid>.<tid>): Break instruction exception - code 8000003 (first chance). Qualquer informação específica de uma thread é informada dessa maneira no WinDbg. No caso, foi a exceção de breakpoint (parada na execução) acionada no começo da depuração (e é por isso que o notepad ainda não está aparecendo).
+ - (`<pid>.<tid>`): Break instruction exception - code 8000003 (first chance). Qualquer informação específica de uma thread é informada dessa maneira no WinDbg. No caso, foi a exceção de breakpoint (parada na execução) acionada no começo da depuração (e é por isso que o notepad ainda não está aparecendo).
 
 Explicado o começo o resto é fácil. Para continuar a execução do bloco de notas basta usarmos o comando g (Go), ou pressionar F5, ou ir no menu "Debug, Go", ou ainda apertar um dos botões de fluxo do depurador listado no seu toolbar:
 
