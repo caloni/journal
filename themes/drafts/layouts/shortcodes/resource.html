@@ -1,0 +1,1 @@
+{{ $src := .Get "src" }}{{ $src = print "*" $src "*" -}}{{- with  $.Page.Resources.GetMatch $src -}}{{ .Permalink }}{{- end -}}
