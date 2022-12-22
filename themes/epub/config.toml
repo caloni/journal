@@ -1,10 +1,10 @@
-baseURL = ""
-DefaultContentLanguage = "de"
-languageCode = "de-de"
-title = "Ebook-Generator"
+baseURL = "http://www.caloni.com.br/"
+DefaultContentLanguage = "pt-br"
+languageCode = "pt-br"
+title = "Blogue do Caloni"
 theme = "epub"
-author = "Erhard Maria Klein"
-copyright = "Copyright © 2020 Erhard Maria Klein, https://weitblick.org"
+author = "Wanderley Caloni"
+copyright = "Copyright © NoThankYou"
 
 disableKinds = ["RSS", "robotsTXT", "404", "taxonomy", "section", "term", "sitemap"]
 
@@ -72,11 +72,11 @@ disablePathToLower = true
 # imgsize = "800x png" # png works better with older ebook reader
   bookid = "" # if empty the unix timestamp is taken
 # metadata of your ebook
-  title = "HUGO Epub Theme"
-  subtitle = "from weitblick.org" # (optional)
-  description = "A simple HUGO theme for creating epub ebooks" # (optional)
-  creator = "Klein, Erhard Maria" # format: lastname, firstname
-  author = "Erhard Maria Klein" # format: firstname lastname
-  publisher = "Weitblick Internetwerkstatt"
+  title = "Blogue do Caloni"
+  subtitle = "from caloni.com.br" # (optional)
+  description = "O blogue convertido em epub." # (optional)
+  creator = "Caloni, Wanderley" # format: lastname, firstname
+  author = "Wanderley Caloni" # format: firstname lastname
+  publisher = "Blogue do Caloni"
   audience = "teenagers, adults"
-  subject = ['HUGO', 'Epub', 'Ebook'] # (optional)
+  subject = ['code', 'movies', 'wine', 'beer', 'coffee'] # (optional)
