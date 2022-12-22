@@ -20,7 +20,7 @@
     <h2>{{ .Title }}</h2>
 
       <ol>
-        <li><a href="titelseite.xhtml">Titelseite</a></li>
+        <li><a href="cover.xhtml">Cover</a></li>
 {{- $i := 0 }}
 {{- range ( where .Site.RegularPages "Section" "ne" "" ).Reverse }}
         <li><a href="{{ replace .Permalink "/OEBPS/" "" }}">{{ .Title  }}</a></li>

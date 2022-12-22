@@ -31,8 +31,8 @@
  <manifest>
  
    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
-   <item href="titelseite.xhtml" id="titelseite" media-type="application/xhtml+xml" />
-   <item href="inhaltsverzeichnis.xhtml" id="inhaltsverzeichnis" properties="nav" media-type="application/xhtml+xml" />
+   <item href="cover.xhtml" id="cover" media-type="application/xhtml+xml" />
+   <item href="toc.xhtml" id="toc" properties="nav" media-type="application/xhtml+xml" />
    <item href="cover.jpg" id="cover-image" media-type="image/jpeg" properties="cover-image" />
    <item href="css/stylesheet.css" id="css" media-type="text/css" /> 
 {{ $i := 0 -}}
@@ -56,8 +56,8 @@
 
 
  <spine toc="ncx">
-   <itemref idref="titelseite" />
-   <itemref idref="inhaltsverzeichnis" />
+   <itemref idref="cover" />
+   <itemref idref="toc" />
 {{ $i = 0 }}
 {{- range ( where .Site.RegularPages "Section" "ne" "" ).Reverse }}
   <itemref idref="chapter_{{ $i }}" />   
@@ -68,6 +68,6 @@
  
  <guide>
    <reference type="text" title="Beginning" href="{{ replace $beginning "/OEBPS/" "" }}" />
-   <reference type="toc"  title="Inhalt" href="inhaltsverzeichnis.xhtml" />
+   <reference type="toc"  title="Inhalt" href="toc.xhtml" />
  </guide>
 </package>

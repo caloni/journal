@@ -12,21 +12,21 @@
 
   <navMap>
   
-    <navPoint id="titelseite"
+    <navPoint id="cover"
               playOrder="1">
       <navLabel>
-        <text>Titelseite</text>
+        <text>Cover</text>
       </navLabel>
-      <content src="titelseite.xhtml" />
+      <content src="cover.xhtml" />
     </navPoint>
  
  
-    <navPoint id="inhaltsverzeichnis"
+    <navPoint id="toc"
               playOrder="2">
       <navLabel>
-        <text>Inhaltsverzeichnis</text>
+        <text>TOC</text>
       </navLabel>
-      <content src="inhaltsverzeichnis.xhtml" />
+      <content src="toc.xhtml" />
     </navPoint>
 
 {{ $i := 0 -}}
