@@ -37,15 +37,13 @@
    <item href="css/stylesheet.css" id="css" media-type="text/css" /> 
 {{ $i := 0 -}}
 {{- $n := 0 }}
-{{- $size := .Site.Params.imgsize -}}
 {{- $beginning := "" -}}
 {{- range ( where .Site.RegularPages "Section" "ne" "" ).Reverse }}
    <item href="{{ replace .Permalink "/OEBPS/" "" }}" id="chapter_{{ $i }}" media-type="application/xhtml+xml" />
 	{{- if eq $i 0 }}{{ $beginning = .Permalink }}{{ end -}}
-	{{- with  .Resources.ByType "image" -}}
+	{{- with  .Resources -}}
 		{{- range . }}		
-			{{- $scaled := .Resize $size }}
-   <item href="{{ replace $scaled.RelPermalink "/OEBPS/" "" }}" id="img_{{ $n }}" media-type="image/{{ if in $scaled.RelPermalink ".png"}}png{{ else if in $scaled.RelPermalink ".gif"}}gif{{ else }}jpeg{{ end }}" />
+   <item href="{{ replace .RelPermalink "/OEBPS/" "" }}" id="img_{{ $n }}" media-type="{{ .MediaType }}" />
 {{- $n = add $n 1 -}}
 		{{- end -}}
 	{{- end -}}
