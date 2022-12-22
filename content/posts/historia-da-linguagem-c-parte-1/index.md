@@ -41,5 +41,5 @@ Como é natural, o código-fonte de uma aplicação tende a crescer em muitas li
 
 Para continuar lendo sobre a história da linguagem existe uma [segunda parte].
 
-[o manual]: {{< resource "bcpl.pdf" >}}
+[o manual]: {{< resource src="bcpl.pdf" >}}
 [segunda parte]: {{< ref "historia-da-linguagem-c-parte-2" >}}
