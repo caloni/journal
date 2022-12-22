@@ -8,7 +8,7 @@ title: House M.D.
 
 Estou revendo essa série médica onde na época encontrei a metáfora perfeita para debugging: diagnosticar "doenças" do software. A maioria delas bem comum; mas algumas bem raras.
 
-Há inclusive [um texto da época](/house) onde este era um blog apenas técnico onde demonstro minha empolgação com essa analogia. Hoje é a vez de analisar como série.
+Há inclusive [um texto da época] onde este era um blog apenas técnico onde demonstro minha empolgação com essa analogia. Hoje é a vez de analisar como série.
 
 E House não possui nada demais como trama ou história, exceto seu núcleo. O protagonista vivido por Hugh Laurie é o centro desse drama sobre um médico brilhante e seus métodos não convencionais de diagnosticar seus pacientes, geralmente casos raros.
 
@@ -25,3 +25,5 @@ Tudo no primeiro episódio é feito para explicar qual será a fórmula dos pró
 Lendo comentários feitos [neste site que possui uma visão técnica dos episódios](https://web.archive.org/web/20150117075644/http://www.politedissent.com/house_pd.html) é possível encontrar pontos importantes para quem é de fora da área. Por exemplo, alguém observa que não há outros médicos realizando os exames pedidos para a equipe, e às vezes são procedimentos simples, como um exame de sangue ou raio-X. E o motivo é claro, embora sutil: House não confia em outros médicos.
 
 Como o próprio protagonista vive dizendo, as pessoas não mudam. E no caso da série nem sua narrativa central: surge um novo caso, o primeiro diagnóstico nunca funciona, abre-se o primeiro ato e cria-se uma atmosfera de mistério, que efetivamente gera alguma tensão. Nós leigos apenas imaginamos o que poderá ser, sendo que na realidade não conseguimos sequer mensurar a dificuldade dessa tarefa de adivinhação, embora a série se lembre eventualmente que House é o melhor de sua área. Isso implica que nem o especialista mor consegue acertar de primeira um diagnóstico. Com esses parâmetros em mente essa ciência "exata" de diagnosticadores se torna mais empolgante para alguém com um olhar de fora.
+
+[um texto da época]: {{< ref "house" >}}

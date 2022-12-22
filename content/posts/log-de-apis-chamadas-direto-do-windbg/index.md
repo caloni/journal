@@ -6,7 +6,7 @@ tags: null
 title: Log de chamadas API direto do WinDbg
 ---
 
-Há [muito tempo atrás](/introducao-ao-debugging-tools-for-windows) eu havia falado sobre como a ferramenta logger.exe, do Debugging Tools for Windows, poderia ser usada para gerar um arquivo de log com centenas de APIs detalhadas em sua chamada, como parâmetros de entrada, retorno e tempo. Bom, testando isso hoje, me veio à lembrança o artigo e também a constatação que o logger é muito instável. Tão instável que não consegui logar as APIs que desejava nas inúmeras tentativas que fiz. Isso em um Windows XP!
+Há [muito tempo atrás] eu havia falado sobre como a ferramenta logger.exe, do Debugging Tools for Windows, poderia ser usada para gerar um arquivo de log com centenas de APIs detalhadas em sua chamada, como parâmetros de entrada, retorno e tempo. Bom, testando isso hoje, me veio à lembrança o artigo e também a constatação que o logger é muito instável. Tão instável que não consegui logar as APIs que desejava nas inúmeras tentativas que fiz. Isso em um Windows XP!
 
 Felizmente, as funções do logger também estão em uma DLL estilo plugin do próprio WinDbg, que pode ser chamada facilmente e que -- surpresa! -- internamente ao depurador funciona. Melhor ainda, não é necessário criar um processo para realizar o log, mas pode ser atachado em um processo já em execução, o que facilita bastante seu uso em serviços, por exemplo.
 
@@ -95,3 +95,5 @@ Note, por exemplo, que houve uma falha antes na abertura do mesmo arquivo, mas i
 {{< image src="p2bgEl2.png" caption="" >}}
 
 Como já havia dito no artigo original sobre o logview, você pode criar seu próprio header com as definições das funções de um módulo e o WinDbg graciosamente irá gerar um log de chamadas, incluindo medidas de performance. Esses dados abertos pelo logviewer podem ser exportados também para modo texto. E temos mais uma maneira de perfcounter chulé para eventualidades.
+
+[muito tempo atrás]: {{< ref "introducao-ao-debugging-tools-for-windows" >}}

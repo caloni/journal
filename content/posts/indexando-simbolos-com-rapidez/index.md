@@ -8,7 +8,7 @@ title: Indexando símbolos com rapidez
 
 Trabalhar com inúmeros projetos de diferentes clientes e diferentes binários pode ser uma loucura. Quando o mundo é Windows, algumas medidas precisam ser padronizadas para evitar a perda de informação durante todo o processo de desenvolvimento, testes, deploy e manutenção.
 
-A respeito do deploy e manutenção, um dos principais é manter o código sempre atualizado, limpo e asseado, além de estar dentro de pelo menos um controle de fonte, de preferência distribuído ([Mercurial](http://caloni.com.br/guia-basico-de-controle-de-codigo-mercurial), [Git](http://caloni.com.br/depurando-ate-o-fim-do-mundo-e-de-volta-de-novo-source-server-com-github), [Bazaar](http://caloni.com.br/guia-basico-de-repositorios-no-bazaar)).
+A respeito do deploy e manutenção, um dos principais é manter o código sempre atualizado, limpo e asseado, além de estar dentro de pelo menos um controle de fonte, de preferência distribuído ([Mercurial], [Git], [Bazaar]).
 
 Porém, voltando ao mundo Windows, os fontes não são apenas a única fonte de preocupação e zelo. Os binários também são importante. Binários eu digo os EXEs, DLLs geradas, além dos seus símbolos (PDBs), que contém o mapa entre aquele monte de 1s e 0s e o código-fonte de onde ele saiu.
 
@@ -39,7 +39,7 @@ Para resolver isso, o mínimo que se deve fazer é super-simples e nada difícil
 "c:\Tools\DbgTools(x86)\symstore" add /r /f <MINHA-PASTA-COM-BINÁRIOS> /s c:\Tools\Symbols /t "IndexSymbols"
 ```
 
-Essa e outra técnicas de indexar fontes e binário você pode ver no meu [projeto](https://github.com/Caloni/GitIndex), [artigo](http://caloni.com.br/depurando-ate-o-fim-do-mundo-e-de-volta-de-novo-source-server-com-github), [palestra](http://caloni.com.br/ccppbr-rio-12/) e [vídeo de demonstração](https://www.youtube.com/watch?v=mZewxqlFShA). Se você for cego, ainda tem a vantagem da áudio-narração do vídeo. Brincadeira, ainda não temos isso.
+Essa e outra técnicas de indexar fontes e binário você pode ver no meu [projeto](https://github.com/Caloni/GitIndex), [artigo], [palestra](http://caloni.com.br/ccppbr-rio-12/) e [vídeo de demonstração](https://www.youtube.com/watch?v=mZewxqlFShA). Se você for cego, ainda tem a vantagem da áudio-narração do vídeo. Brincadeira, ainda não temos isso.
 
 ### Simplificando
 
@@ -54,10 +54,15 @@ Windows Registry Editor Version 5.00
 @="cmd.exe /c c:\\tools\\indexsymbols.bat  \"%1\""
 ```
 
-Você pode baixar um arquivo reg [aqui](/download/index-symbols.reg), copiar as linhas acima em um .reg que você gerar, ou simplesmente seguir o passo-a-passo dessas linhas e gerar seu próprio registro. Após feito isso, surgirá um novo comando para qualquer DLL que você clicar com o outro botão do mouse:
+Você pode baixar um arquivo reg aqui (update: não mais), copiar as linhas acima em um .reg que você gerar, ou simplesmente seguir o passo-a-passo dessas linhas e gerar seu próprio registro. Após feito isso, surgirá um novo comando para qualquer DLL que você clicar com o outro botão do mouse:
 
 {{< image src="tvCCYcm.png" caption="" >}}
 
 Você também pode gerar o mesmo comando para EXEs, bastando realizar o mesmo passo-a-passo na pasta **exefile** em vez de **dllfile**.
 
 Procedimentos como esse devem ser uma coisa simples, não difícil. Programadores e pessoas são preguiçosas, e precisam de algum incentivo. E nesse caso, o incentivo é: o que você vai fazer quando der um crash com um binário que você não sabe de onde veio nem qual fonte foi usado para compilá-lo? Pois é.
+
+[Mercurial]: {{< ref "guia-basico-de-controle-de-codigo-mercurial" >}}
+[Git]: {{< ref "depurando-ate-o-fim-do-mundo-e-de-volta-de-novo-source-server-com-github" >}}
+[Bazaar]: {{< ref "guia-basico-de-repositorios-no-bazaar" >}}
+[artigo]: {{< ref "depurando-ate-o-fim-do-mundo-e-de-volta-de-novo-source-server-com-github" >}}

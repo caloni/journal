@@ -54,7 +54,7 @@ Com essa premissa me vem à mente os seguintes cenários:
 
 ## [Serviços no limite da existência](https://www.infoq.com/br/presentations/depurando-ate-o-fim-do-mundo/)
 
- - I get by with a [little help](/kernel-mode-user-mode) [from my kernel](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/controlling-the-user-mode-debugger-from-the-kernel-debugger).
+ - I get by with a [little help] [from my kernel](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/controlling-the-user-mode-debugger-from-the-kernel-debugger).
 
 ## Profiling
 
@@ -63,7 +63,7 @@ Com essa premissa me vem à mente os seguintes cenários:
 ## Engenharia reversa
 
  - [Breakpoints condicionais](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/setting-a-conditional-breakpoint).
- - [Quebrando Houaiss](/conversor-de-houaiss-para-babylon-parte-1).
+ - [Quebrando Houaiss].
 
 ## [Servidor de símbolos](https://docs.microsoft.com/en-us/windows/win32/debug/using-symstore)
 
@@ -76,3 +76,6 @@ Com essa premissa me vem à mente os seguintes cenários:
  - Heap tagging e stack trace database para caçar leaks de memória.
  - Coleta silenciosa de dumps.
  - Chamar kernel debugger ao iniciar processo (parâmetro `-d` do ntsd.exe).
+
+[little help]: {{< ref "kernel-mode-user-mode" >}}
+[Quebrando Houaiss]: {{< ref "conversor-de-houaiss-para-babylon-parte-1" >}}

@@ -6,7 +6,7 @@ tags: null
 title: Patch de emergência 2
 ---
 
-No [artigo anterior](/patch-de-emergencia) fizemos um patch rapidinho na memória se aproveitando de um Sleep nojento que o código nos forneceu.
+No [artigo anterior] fizemos um patch rapidinho na memória se aproveitando de um Sleep nojento que o código nos forneceu.
 
 E se não houvesse Sleep?
 
@@ -93,7 +93,7 @@ Agora a função está pronta para ser usada.
     call 0x00030000
     004010a4
 
-E voilà! A partir do momento em que digitei o call seguido de <enter>, a função nova já começou a operar em cima do processo ainda rodando. Se quisermos voltar a função antiga, sem problemas:
+E voilà! A partir do momento em que digitei o call seguido de enter, a função nova já começou a operar em cima do processo ainda rodando. Se quisermos voltar a função antiga, sem problemas:
 
     
     0:000> a 0040109f
@@ -102,3 +102,5 @@ E voilà! A partir do momento em que digitei o call seguido de <enter>, a funç�
     004010a4
 
 Não façam isso em casa, crianças ;)
+
+[artigo anterior]: {{< ref "patch-de-emergencia" >}}

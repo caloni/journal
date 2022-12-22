@@ -34,7 +34,7 @@ int main()
 
 {{< image src="84Ptrvk.png" caption="" >}}
 
-Continuando nosso tema de fazer as mesmas coisas em C, __templates__ não é tão simples, pois não existe de fato na linguagem. Templates são interpretados pelo compilador, que gera um esqueleto de algoritmo que é usado para preencher código de todos os tipos utilizados. Em C isso era feito usando macros. Porém, macros não fazem parte da linguagem C. É apenas uma ferramenta chamada pré-processador que substitui texto antes do programa ser compilado. É através do pré-processador que, por exemplo, os headers são incluídos em um código-fonte. Isso já foi explicado em um [artigo](/os-diferentes-erros-na-linguagem-c) bem velhinho, e mais recentemente em uma [palestra](/entendendo-a-compilacao).
+Continuando nosso tema de fazer as mesmas coisas em C, __templates__ não é tão simples, pois não existe de fato na linguagem. Templates são interpretados pelo compilador, que gera um esqueleto de algoritmo que é usado para preencher código de todos os tipos utilizados. Em C isso era feito usando macros. Porém, macros não fazem parte da linguagem C. É apenas uma ferramenta chamada pré-processador que substitui texto antes do programa ser compilado. É através do pré-processador que, por exemplo, os headers são incluídos em um código-fonte. Isso já foi explicado em um [artigo] bem velhinho, e mais recentemente em uma [palestra].
 
 ```
 // qual o tipo de x e y? qualquer um que faça comparação
@@ -48,3 +48,6 @@ Eu não recomendaria usar macros em C++, assim como não recomendo em C. Porém,
 Dessa forma, não pretendo ensinar a usar "templates" em C, mas a usá-los em C++ com foco em C. Um amigo conhecido de vocês, o [Fernando/DriverEntry](http://driverentry.com.br/), utilizou essa técnica com maestria em alguns códigos kernel-mode que ele desenvolveu, e é uma maneira válida de se aproveitar de uma linguagem mais "alto nível" como C++ em ambientes limitados como o código que trabalha com o S.O.. Como a API do kernel lida com abstrações em C, seus objetos necessariamente não são objetos no sentido C++, mas os famigerados "ponteiros opacos".
 
 Mais sobre isso em um próximo post.
+
+[artigo]: {{< ref "os-diferentes-erros-na-linguagem-c" >}}
+[palestra]: {{< ref "entendendo-a-compilacao" >}}

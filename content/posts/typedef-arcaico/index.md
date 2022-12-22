@@ -24,9 +24,9 @@ Bom, eu nem sei por onde começar. Talvez pelo conceito de typedef.
 
 Um typedef, basicamente, é um apelido. Você informa um tipo e define "outro tipo".
 
-    typedef <tipo> apelido;
+    typedef tipo apelido;
 
-O <tipo> é tudo que fica entre o typedef e o novo nome, que deve ser um identificador válido na linguagem. Por exemplo, a empresa onde trabalho fez um typedef informal do meu nome:
+O tipo é tudo que fica entre o typedef e o novo nome, que deve ser um identificador válido na linguagem. Por exemplo, a empresa onde trabalho fez um typedef informal do meu nome:
 
     typedef Wanderley Caloni Wandeco;
 
@@ -246,7 +246,9 @@ int main()
 }
 ```
 
-{{< image src="gFNalqB.png" caption="Código Antes x Depois no Visual Studio" >}}Da mesma forma, o uso de uma estrutura simples de tipos mantém a lista de nomes do seu projeto limpa e clara. Compare o visualizador de classes em projetos Windows com algo mais C++ para ter uma ideia.
+{{< image src="gFNalqB.png" caption="Código Antes x Depois no Visual Studio" >}}
+
+Da mesma forma, o uso de uma estrutura simples de tipos mantém a lista de nomes do seu projeto limpa e clara. Compare o visualizador de classes em projetos Windows com algo mais C++ para ter uma ideia.
 
 É claro, essa é apenas uma sugestão. Existem vantagens em sua utilização. Existe alguma vantagem no modo antigo? Existe: a Microsoft usa, e talvez mais pessoas usem. Basta a você decidir qual deve ser o melhor caminho.
 

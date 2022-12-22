@@ -5,7 +5,7 @@ tags: null
 title: Cronogramas baseados em fatos reais
 ---
 
-[Já falei sobre cronogramas](/cronograma) por aqui e tudo que disse ainda se aplica. Contudo, comentei brevemente sobre entender seu próprio ritmo, que, instintivamente, sabia ser verdade. Depois que [li um pouco mais sobre técnicas XP/Scrum](http://www.infoq.com/br/minibooks/scrum-xp-from-the-trenches) (que nada mais são do que formalizações do que os programadores Agile perceberam no decorrer dos seus projetos) achei uma fórmula simples para transformar o tempo estimado em tempo realista.
+[Já falei sobre cronogramas] por aqui e tudo que disse ainda se aplica. Contudo, comentei brevemente sobre entender seu próprio ritmo, que, instintivamente, sabia ser verdade. Depois que [li um pouco mais sobre técnicas XP/Scrum](http://www.infoq.com/br/minibooks/scrum-xp-from-the-trenches) (que nada mais são do que formalizações do que os programadores Agile perceberam no decorrer dos seus projetos) achei uma fórmula simples para transformar o tempo estimado em tempo realista.
 
 Vejamos o texto original (auto-plágio):
 
@@ -66,3 +66,5 @@ _Note que, se quiser, pode fazer a análise contrária também, tanto de um quan
 ### Conclusão
 
 O número de horas ficou muito maior que o esperado? Não me admira que os projetos geralmente atrasem, então. Por pior que pareça o cálculo final, ele foi construído com base na realidade. E não há nada melhor do que nos basearmos na realidade para estimar seriamente o quanto pode custar à empresa um projeto qualquer.
+
+[Já falei sobre cronogramas]: {{< ref "cronograma" >}}

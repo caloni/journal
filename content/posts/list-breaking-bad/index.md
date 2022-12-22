@@ -7,9 +7,16 @@ tags:
 title: Breaking Bad
 ---
 
-- [Primeira Temporada](/breaking-bad-s01)
-- [Segunda Temporada](/breaking-bad-s02)
-- [Terceira Temporada](/breaking-bad-s03)
-- [Quarta Temporada](/breaking-bad-s04)
-- [Quinta Temporada](/breaking-bad-s05)
-- [Conclusão](/breaking-bad)
+- [Primeira Temporada]
+- [Segunda Temporada]
+- [Terceira Temporada]
+- [Quarta Temporada]
+- [Quinta Temporada]
+- [Conclusão]
+
+[Primeira Temporada]: {{< ref "breaking-bad-s01" >}}
+[Segunda Temporada]: {{< ref "breaking-bad-s02" >}}
+[Terceira Temporada]: {{< ref "breaking-bad-s03" >}}
+[Quarta Temporada]: {{< ref "breaking-bad-s04" >}}
+[Quinta Temporada]: {{< ref "breaking-bad-s05" >}}
+[Conclusão]: {{< ref "breaking-bad" >}}

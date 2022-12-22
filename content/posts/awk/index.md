@@ -102,11 +102,15 @@ END { print " - DONE -" }
 
 ## Research
 
- - [Análise de DNA](/awk-dna)
- - [Análise de performance](/awk-performance)
+ - [Análise de DNA]
+ - [Análise de performance]
 
 ## Reference
 
  - [Awk in 20 Minutes](https://ferd.ca/awk-in-20-minutes.html), de Fred Hebert.
  - [Tutorial from an Experient Mind](https://www.grymoire.com/Unix/Awk.html), de Bruce Barnett.
  - [Gawk Guide](https://www.gnu.org/software/gawk/manual/gawk.html).
+
+
+[Análise de DNA]: {{< ref "awk-dna" >}}
+[Análise de performance]: {{< ref "awk-performance" >}}

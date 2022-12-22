@@ -89,6 +89,7 @@ A mudança que fizemos captura o dado monitorado de dez em dez segundos e realiz
 Outra forma de verificar como andam os handles da máquina é usando a já famosa ferramenta da SysInternals. Através das inúmeras colunas que ela fornece existe o contador de handles de cada processo, através do qual é possível verificar quais são os processos com mais handles abertos:
 
 {{< image src="RATAymD.png" caption="" >}}
+
 {{< image src="mR5c2kk.png" caption="" >}}
 
 Se seu programa for um handle hog, vai conseguir até ver esse leak acontecendo em tempo real (como o nosso programa mal-educado):

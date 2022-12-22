@@ -8,7 +8,7 @@ title: Debugger remoto do Visual Studio
 
 Então você está quebrando a cabeça para descobrir por que seu código não faz o que deveria fazer? Então você é desses que acha que é melhor ficar imaginando com um bloquinho de papel na mão do que colocar logo a mão na massa e ver exatamente o código passando pelo processador? Talvez você mude de ideia ao ver como é ridiculamente fácil depurar código em uma máquina remota, seja uma VM ou a máquina do cliente. Neste post vou ensinar a maneira mais antiga e a mais nova que conheço de usar o depurador do Visual Studio. Vamos usar a versão 2003 e a versão 2017 RC.
 
-Há muito tempo atrás eu falei sobre [o depurador remoto do C++ Builder](/debug-remoto-no-c-builder), na época a ferramenta que eu mais utilizava para programar. Hoje disparado é o Visual Studio, já faz mais de uma década. Desde o VS2003 tem sido muito simples depurar remotamente. Tão simples que eu realmente esqueci que talvez algumas pessoas não saibam o quanto é útil essa ferramenta no dia-a-dia.
+Há muito tempo atrás eu falei sobre [o depurador remoto do C++ Builder], na época a ferramenta que eu mais utilizava para programar. Hoje disparado é o Visual Studio, já faz mais de uma década. Desde o VS2003 tem sido muito simples depurar remotamente. Tão simples que eu realmente esqueci que talvez algumas pessoas não saibam o quanto é útil essa ferramenta no dia-a-dia.
 
 É possível depurar qualquer executável, tendo seu código-fonte ou não. A diferença é que sem código você terá que olhar o assembly e se for compilado como release você pode olhar o código mas ele não fará muito sentido em alguns momentos (onde estão minhas variáveis locais?). O melhor dos mundos, é claro, é depurar um executável que você tenha os símbolos, o código e esteja compilado em **debug**. Daí o código irá falar com você da maneira mais fácil.
 
@@ -108,6 +108,9 @@ Bom, desde o VS 2010 e até o VS2017 RC essa ferramenta está disponível na pas
 
 {{< image src="2yUrl8z.png" caption="" >}}
 
-Você até já sabe qual o caminho do sucesso: **[All access to everyoooone](/o-profissional)**!!! ;)
+Você até já sabe qual o caminho do sucesso: **[All access to everyoooone]**!!! ;)
 
 {{< image src="ajBG8fM.gif" caption="" >}}
+
+[o depurador remoto do C++ Builder]: {{< ref "debug-remoto-no-c-builder" >}}
+[All access to everyoooone]: {{< ref "o-profissional" >}}

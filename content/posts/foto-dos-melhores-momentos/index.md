@@ -22,4 +22,6 @@ A foto que ela me manda é exatamente a que está acima, apenas censurado o nome
 
 A questão é: como eu resolvi o problema? Como você teria procedido nessa situação?
 
-A resposta para esse enigma também contará pontos para nossa brincadeira com o livro Windows Internals, como foi explicado no [artigo anterior](/nao-e-minha-culpa). Vamos lá, Sherlock!
+A resposta para esse enigma também contará pontos para nossa brincadeira com o livro Windows Internals, como foi explicado no [artigo anterior]. Vamos lá, Sherlock!
+
+[artigo anterior]: {{< ref "nao-e-minha-culpa" >}}

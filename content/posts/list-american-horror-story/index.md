@@ -7,8 +7,14 @@ tags:
 title: American Horror Story
 ---
 
-- [História de Horror Americana - Season 1 - Murder House](/american-horror-story-s01-murder-house)
-- [História de Horror Americana - Season 2 - Asylum](/american-horror-story-s02-asylum)
-- [História de Horror Americana - Season 3 - Coven](/american-horror-story-s03-coven)
-- [História de Horror Americana - Season 4 - Freak Show](/american-horror-story-s04-freak-show)
-- [American Horror Story Season 5](/american-horror-story-s05)
+- [História de Horror Americana - Season 1 - Murder House]
+- [História de Horror Americana - Season 2 - Asylum]
+- [História de Horror Americana - Season 3 - Coven]
+- [História de Horror Americana - Season 4 - Freak Show]
+- [American Horror Story Season 5]
+
+[História de Horror Americana - Season 1 - Murder House]: {{< ref "american-horror-story-s01-murder-house" >}}
+[História de Horror Americana - Season 2 - Asylum]: {{< ref "american-horror-story-s02-asylum" >}}
+[História de Horror Americana - Season 3 - Coven]: {{< ref "american-horror-story-s03-coven" >}}
+[História de Horror Americana - Season 4 - Freak Show]: {{< ref "american-horror-story-s04-freak-show" >}}
+[American Horror Story Season 5]: {{< ref "american-horror-story-s05" >}}

@@ -10,7 +10,7 @@ title: Como Achar Erros no Printf via Dump
 
 ## Stack
 
-Abrir um dump (dmp) pode ser feito pelo Visual Studio, Windbg ou sua ferramenta de análise favorita. Mais importante que isso é [carregar seus símbolos adequadamente](/depuracao-de-emergencia-receita-de-bolo).
+Abrir um dump (dmp) pode ser feito pelo Visual Studio, Windbg ou sua ferramenta de análise favorita. Mais importante que isso é [carregar seus símbolos adequadamente].
 
 {{< image src="NhkhrJa.png" caption="" >}}
 
@@ -31,3 +31,5 @@ Através dessa string é possível buscar no código usando grep, vim ou até o 
 E voilà! Temos uma chamada de log que teoricamente teria que passar uma string C, mas não passa nada. Isso quer dizer que a função de printf irá procurar na pilha pelo endereço de uma string, mas irá encontrar um endereço aleatório. Lendo esse endereço, que tem ótimas chances de ser inválido, ele irá capotar. Para dores de cabeças mais intensas, ele irá capotar aleatoriamente (ou na máquina do chefe, o mais provável).
 
 E assim terminamos mais uma sessão simples e rápida de debug. Quer dizer, simples e rápida para quem tem 20 anos de experiência nessas coisas. Os estagiários devem ter ficado de cabelos em pé.
+
+[carregar seus símbolos adequadamente]: {{< ref "depuracao-de-emergencia-receita-de-bolo" >}}

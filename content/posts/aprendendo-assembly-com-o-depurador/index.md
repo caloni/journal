@@ -122,21 +122,29 @@ Depurar é um processo que exige dedicação (experiência) tanto ou mais do que
 
 Básico a intermediário:
 
- - [Guia básico para programadores de primeiro breakpoint](/guia-basico-para-programadores-de-primeiro-breakpoint)
- - [Brincando com o WinDbg](/brincando-com-o-windbg)
- - [Encontrando as respostas do Flash Pops](/encontrando-as-respostas-do-flash-pops)
+ - [Guia básico para programadores de primeiro breakpoint]
+ - [Brincando com o WinDbg]
+ - [Encontrando as respostas do Flash Pops]
 
 Intermediário a avançado:
 
- - [Hook de API no WinDbg](/hook-de-api-no-windbg)
- - [Hook de COM no WinDbg](/hook-de-com-no-windbg)
- - [Detectando hooks globais no WinDbg](/detectando-hooks-globais-no-windbg)
- - [Analisando dumps com WinDbg e IDA](/analisando-dumps-com-windbg-e-ida)
+ - [Hook de API no WinDbg]
+ - [Hook de COM no WinDbg]
+ - [Detectando hooks globais no WinDbg]
+ - [Analisando dumps com WinDbg e IDA]
 
 Blogues que eu acho superinteressantes sobre debugging (do mais essencial para o mais avançado):
 
  - [Advanced Windows Debugging](http://blogs.msdn.com/ntdebugging)
  - [Crash Dump Analysis](http://www.dumpanalysis.org/blog/)
 
+
 [bugs escabrosos]: {{< ref "analisando-dumps-com-windbg-e-ida" >}}
 [aqui no bloque]: {{< ref "depuracao-da-mbr" >}}
+[Guia básico para programadores de primeiro breakpoint]: {{< ref "guia-basico-para-programadores-de-primeiro-breakpoint" >}}
+[Brincando com o WinDbg]: {{< ref "brincando-com-o-windbg" >}}
+[Encontrando as respostas do Flash Pops]: {{< ref "encontrando-as-respostas-do-flash-pops" >}}
+[Hook de API no WinDbg]: {{< ref "hook-de-api-no-windbg" >}}
+[Hook de COM no WinDbg]: {{< ref "hook-de-com-no-windbg" >}}
+[Detectando hooks globais no WinDbg]: {{< ref "detectando-hooks-globais-no-windbg" >}}
+[Analisando dumps com WinDbg e IDA]: {{< ref "analisando-dumps-com-windbg-e-ida" >}}

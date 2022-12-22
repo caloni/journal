@@ -46,7 +46,7 @@ Outra virtude para se aprender ao fazer essa massa simples é o nível de hidrat
 
 # Pizza
 
-Pizza é um tipo de pão com uma boa e longa fermentação onde boa parte do ar é expulso da massa antes de assar, mas mantém a maciez interna com a crocância externa. Há uma imensidão de opções disponíveis: massa macia, crocante, fina, grossa, com fermentação rápida, longa fermentação, fermentação natural. É um ramo à parte. Por isso tem [um poste em andamento](/como-fazer-pizza) apenas sobre esse assunto.
+Pizza é um tipo de pão com uma boa e longa fermentação onde boa parte do ar é expulso da massa antes de assar, mas mantém a maciez interna com a crocância externa. Há uma imensidão de opções disponíveis: massa macia, crocante, fina, grossa, com fermentação rápida, longa fermentação, fermentação natural. É um ramo à parte. Por isso tem [um poste em andamento] apenas sobre esse assunto.
 
 # Pão francês
 
@@ -56,16 +56,24 @@ Já testei as receitas dos canais [Pão da Casa](https://youtu.be/KCe85lhkfOg), 
 
 # Pão de forma
 
-O pão de forma, fora o [pão de queijo](/pao-de-queijo), é o primeiro com receita que utiliza mais ingredientes para tornar o pão mais macio. Este é aquele pão extra-macio para passar manteiga no chá da tarde. Delicioso e simples de fazer. A receita-base é [da minha sogra](/pao-de-forma-da-dona-neusa) e não usa fermentação clássica, mas o uso de fermento biológico, junto de ovos, leite e gordura. É o modus operandi da maioria das pessoas que não sova pão e não tem tempo de esperar a fermentação microbiótica. Em meia-hora você tem pão quentinho saindo do forno.
+O pão de forma, fora o [pão de queijo], é o primeiro com receita que utiliza mais ingredientes para tornar o pão mais macio. Este é aquele pão extra-macio para passar manteiga no chá da tarde. Delicioso e simples de fazer. A receita-base é [da minha sogra] e não usa fermentação clássica, mas o uso de fermento biológico, junto de ovos, leite e gordura. É o modus operandi da maioria das pessoas que não sova pão e não tem tempo de esperar a fermentação microbiótica. Em meia-hora você tem pão quentinho saindo do forno.
 
 # Pão de queijo
 
-Sim, este é um pão. Não, não fermenta. O que acontece com pães de queijo que crescem no forno é que o polvilho, se for azedo (fermentado), ele se expande ao aquecimento. De qualquer forma, uma estrutura se forma pelo polvilho (suco da mandioca decantada) durante a sova e isso junto dos ovos, do leite, do queijo, da gordura e da água gera uma massa com propriedades marcantes na culinária mineira. Tenho uma receita de [pão de queijo ao estilo mineiro](/pao-de-queijo), o que envolve sova e um pouco mais de complexidade, e uma receita de um [pão de queijo mais rápido e fácil de fazer](/pao-de-queijo-facil), se estiver com pressa ;)
+Sim, este é um pão. Não, não fermenta. O que acontece com pães de queijo que crescem no forno é que o polvilho, se for azedo (fermentado), ele se expande ao aquecimento. De qualquer forma, uma estrutura se forma pelo polvilho (suco da mandioca decantada) durante a sova e isso junto dos ovos, do leite, do queijo, da gordura e da água gera uma massa com propriedades marcantes na culinária mineira. Tenho uma receita de [pão de queijo ao estilo mineiro], o que envolve sova e um pouco mais de complexidade, e uma receita de um [pão de queijo mais rápido e fácil de fazer], se estiver com pressa ;)
 
 # Pão de banana
 
-Originalmente a receita era com cará, mas com a ajuda da Mitiko criei este formato que [usa banana reduzida](/pao-tranca-de-banana) e que fica sensacional. Vão muitos ovos, o que torna a massa macia, e um pouco de leite também. Com longa fermentação e a quantidade certa de banana o aroma e sabor são imbatíveis.
+Originalmente a receita era com cará, mas com a ajuda da Mitiko criei este formato que [usa banana reduzida] e que fica sensacional. Vão muitos ovos, o que torna a massa macia, e um pouco de leite também. Com longa fermentação e a quantidade certa de banana o aroma e sabor são imbatíveis.
 
 # Panetone
 
-Sim, ele é um tipo de pão: festivo, doce, aromático e, quando feito com paciência e dedicação, delicioso. Minha [receita oficial](/panetone) tem melhorado a cada ano. Não confunda com a versão de pobre (nunca faça a versão de pobre; melhor comprar).
+Sim, ele é um tipo de pão: festivo, doce, aromático e, quando feito com paciência e dedicação, delicioso. Minha [receita oficial] tem melhorado a cada ano. Não confunda com a versão de pobre (nunca faça a versão de pobre; melhor comprar).
+
+[um poste em andamento]: {{< ref "como-fazer-pizza" >}}
+[pão de queijo]: {{< ref "pao-de-queijo" >}}
+[da minha sogra]: {{< ref "pao-de-forma-da-dona-neusa" >}}
+[pão de queijo ao estilo mineiro]: {{< ref "pao-de-queijo" >}}
+[pão de queijo mais rápido e fácil de fazer]: {{< ref "pao-de-queijo-facil" >}}
+[usa banana reduzida]: {{< ref "pao-tranca-de-banana" >}}
+[receita oficial]: {{< ref "panetone" >}}

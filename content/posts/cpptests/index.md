@@ -5,7 +5,7 @@ tags: null
 title: CppTests
 ---
 
-Iniciei um [novo projeto no GitHub](https://github.com/Caloni/ccpptests) que tem por objetivo ser minha prancheta de trabalhos para minha palestra no [próximo encontro ccpp](/13-encontro-ccpp-indaiatuba-sp-2017-08-05). Há uma infinitude de coisinhas novas na linguagem C++, fora as adições à biblioteca STL, mas que devem passar despercebidas da maioria dos programadores, que está mais é querendo terminar seus próprio projetos. Enquanto alguns conceitos, sintaxes e métodos não se solidificam, vale a pena dar uma espiada no futuro?
+Iniciei um [novo projeto no GitHub](https://github.com/Caloni/ccpptests) que tem por objetivo ser minha prancheta de trabalhos para minha palestra no [próximo encontro ccpp]. Há uma infinitude de coisinhas novas na linguagem C++, fora as adições à biblioteca STL, mas que devem passar despercebidas da maioria dos programadores, que está mais é querendo terminar seus próprio projetos. Enquanto alguns conceitos, sintaxes e métodos não se solidificam, vale a pena dar uma espiada no futuro?
 
 Depende.
 
@@ -23,7 +23,7 @@ A lista que achei interessante (com seu projeto):
  - __sfinae_test__. O [SFINAE](https://en.wikipedia.org/wiki/Substitution_failure_is_not_an_error) é um dos pilares do C++, e ele vem melhorando cada vez mais.
  - __static_assert_test__. O que estava faltando que no Boost é macaco velho.
  - __user_defined_literals_test__. Mais uma perfumaria; essa é bonitinha; para uso acadêmico.
- - __variable_templates_test__. Mais algo já velho, que demonstro aqui com minha [superlib de log](/logs-em-servicos-e-outras-coisas).
+ - __variable_templates_test__. Mais algo já velho, que demonstro aqui com minha [superlib de log].
 
 ## constexpr para especialização em ifs
 
@@ -36,3 +36,6 @@ Para que a compilação dessa opção funcione no Visual Studio 2017 15.3 é nec
 {{< image src="tPIS4wL.png" caption="" >}}
 
 Todos (ou a maioria) deles ainda está em teste. Acabei de baixar o preview 5, conforma um dos membros da ML dos MVPs C++ me informou que saiu quentinha do forno. Em breve novidades.
+
+[próximo encontro ccpp]: {{< ref "13-encontro-ccpp-indaiatuba-sp-2017-08-05" >}}
+[superlib de log]: {{< ref "logs-em-servicos-e-outras-coisas" >}}

@@ -45,7 +45,7 @@ Vamos depurar.
 
 {{< image src="WJeFtYq.png" caption="" >}}
 
-Oh, oh! A stack de cooperative nos indica que ela não partiu do main, apesar de ter sido chamada através da construção de coroutine<void>::pull_type. O método sink chamado logo após imprimir "Hello" deve colocar essa rotina para dormir, voltando o controle para main. Vamos ver como isso é feito.
+Oh, oh! A stack de cooperative nos indica que ela não partiu do main, apesar de ter sido chamada através da construção de `coroutine<void>::pull_type`. O método sink chamado logo após imprimir "Hello" deve colocar essa rotina para dormir, voltando o controle para main. Vamos ver como isso é feito.
 
 https://www.youtube.com/embed/xoAxig6vdTM
 

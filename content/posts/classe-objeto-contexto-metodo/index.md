@@ -7,7 +7,7 @@ tags:
 title: Classe, objeto, contexto, método
 ---
 
-No [post anterior](/classe-objeto-contexto) falamos como a passagem de um endereço de uma struct consegue nos passar o contexto de um "objeto", seja em C (manualmente) ou em C++ (automagicamente pelo operador implícito __this__). Trocamos uma propriedade desse "objeto" em C, mas ainda não chamamos um método.
+No [post anterior] falamos como a passagem de um endereço de uma struct consegue nos passar o contexto de um "objeto", seja em C (manualmente) ou em C++ (automagicamente pelo operador implícito __this__). Trocamos uma propriedade desse "objeto" em C, mas ainda não chamamos um método.
 
 Hoje faremos isso.
 
@@ -84,4 +84,7 @@ int main()
 
 Parece muito trabalho para algo que é feito "automagicamente" em C++, certo? Certo. Porém, agora sabemos o que acontece por baixo dos panos em C++ e que pode ser feito em C (ainda que "na mão"). Você provavelmente nunca fará esse tipo de código em C para emular C++, mas o objetivo desse código é entender como funciona, por exemplo, a _vtable_ do C++, que permite polimorfismo.
 
-Mas esse é assunto para [outro post](/classe-objeto-contexto-metodo-polimorfismo).
+Mas esse é assunto para [outro post].
+
+[post anterior]: {{< ref "classe-objeto-contexto" >}}
+[outro post]: {{< ref "classe-objeto-contexto-metodo-polimorfismo" >}}

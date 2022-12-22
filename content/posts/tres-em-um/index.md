@@ -19,7 +19,7 @@ Inserir suporte a linques na biblioteca de controles comuns:
     INITCOMMONCONTROLSEX icc = { sizeof(icc), ICC_LINK_CLASS }; 
     InitCommonControlsEx(&icc);
 
-Usar o CreateWindow com a classe certa, fazer markup html dentro do título e cuidar das mensagens de <click> e <enter> no controle:
+Usar o CreateWindow com a classe certa, fazer markup html dentro do título e cuidar das mensagens de click e enter no controle:
 
 ```
 CreateWindowEx(0, WC_LINK, 

@@ -8,7 +8,7 @@ tags: null
 title: Debug Remoto no Visual Studio 2010 ou Superior
 ---
 
-Já escrevi sobre [debug remoto no finado C++ Builder](/debug-remoto-no-c-builder), sobre [como usar o msvcmon.exe no VS 2003 e o msvsmon.exe no 2010+](/debugger-remoto-do-visual-studio). Sobre [como depurar um serviço quando a máquina está para desligar](/depurando-ate-o-ultimo-segundo), e até sobre [depurar através de um servidor de símbolos](/depurando-ate-o-fim-do-mundo-e-de-volta-de-novo-source-server-com-github). Está na hora de tornar a depuração mais simples para programadores de serviços Win32.
+Já escrevi sobre [debug remoto no finado C++ Builder], sobre [como usar o msvcmon.exe no VS 2003 e o msvsmon.exe no 2010+]. Sobre [como depurar um serviço quando a máquina está para desligar], e até sobre [depurar através de um servidor de símbolos]. Está na hora de tornar a depuração mais simples para programadores de serviços Win32.
 
 Resumo dos comandos:
 
@@ -44,3 +44,8 @@ Se você digitar msvsmon.exe /h ou algo do gênero irá encontrar os parâmetros
 {{< image src="yEpsIR5.png" caption="" >}}
 
 Obs.: Eu costumo executar sem segurança alguma, pois minhas máquinas de teste são VMs locais e o perigo de vulnerabilidade não é menor do que minha própria máquina real.
+
+[debug remoto no finado C++ Builder]: {{< ref "debug-remoto-no-c-builder" >}}
+[como usar o msvcmon.exe no VS 2003 e o msvsmon.exe no 2010+]: {{< ref "debugger-remoto-do-visual-studio" >}}
+[como depurar um serviço quando a máquina está para desligar]: {{< ref "depurando-ate-o-ultimo-segundo" >}}
+[depurar através de um servidor de símbolos]: {{< ref "depurando-ate-o-fim-do-mundo-e-de-volta-de-novo-source-server-com-github" >}}
