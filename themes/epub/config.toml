@@ -1,4 +1,4 @@
-baseURL = "http://www.caloni.com.br/"
+baseURL = ""
 DefaultContentLanguage = "pt-br"
 languageCode = "pt-br"
 title = "Blogue do Caloni"
