@@ -28,19 +28,11 @@
       </navLabel>
       <content src="toc.xhtml" />
     </navPoint>
- 
-    <navPoint id="toc2"
-              playOrder="3">
-      <navLabel>
-        <text>TOC2</text>
-      </navLabel>
-      <content src="toc2.xhtml" />
-    </navPoint>
 
 {{ $i := 0 -}}
 {{- range ( where .Site.RegularPages "Section" "ne" "" ).Reverse }}
     <navPoint id="chapter_{{ $i }}"
-              playOrder="{{ add $i 4 }}">
+              playOrder="{{ add $i 3 }}">
       <navLabel>
         <text>{{ .Title }}</text>
       </navLabel>
