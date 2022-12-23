@@ -17,4 +17,4 @@ O que ocorre em seguida possui lógica mas perde em espírito. Se por um lado a 
 
 De qualquer forma, "Ruby Sparks" agrada principalmente por não cair nos maneirismos do gênero, e por não transformá-lo em uma comédia barata. Existe a parte cômica, mas conforme o filme avança, vemos o lado cruel de seu protagonista, e a coisa deixa de ser engraçada para ganhar um peso dramático inesperado em uma história inicialmente tão leve. Apenas isso garante uma experiência única na telona.
 
-[Pequena Miss Sunshine]: {{< ref "pequena-miss-sunshine" >}}
+[Pequena Miss Sunshine]: {{< relref "pequena-miss-sunshine" >}}

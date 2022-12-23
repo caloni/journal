@@ -17,4 +17,4 @@ Em determinados momentos lembramos de [Fargo] porque a polícia parece estar sem
 
 Com uma ou outra sequência isolada que poderia adicionar mais sobre aquelas pessoas e o que estão vivendo (como a noite na cabana com Addison e uma menina), a cena final que deveria representar todo o clímax daquela situação nunca chega a ser marcante. Piora a situação quando vemos um certo policial realizar um ato completamente insano e sem motivo algum. Se bem que, à essa altura do campeonato, quem se importa com coerência narrativa?
 
-[Fargo]: {{< ref "fargo" >}}
+[Fargo]: {{< relref "fargo" >}}

@@ -13,4 +13,4 @@ Mas mais do que uma crise interna sobre um auto-aclamado vilão, o filme discute
 
 A caricatura de Marlon Brando é óbvia, engraçada e necessária em um filme que trata do caráter dos super-heróis e dos vilões, e não deixa de ser divertido que quem exatamente se disfarça dessa caricatura de mentor é o próprio Megamente, representante máximo da vilania.
 
-[Meu Malvado Favorito]: {{< ref "meu-malvado-favorito" >}}
+[Meu Malvado Favorito]: {{< relref "meu-malvado-favorito" >}}

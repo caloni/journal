@@ -26,4 +26,4 @@ Lendo comentários feitos [neste site que possui uma visão técnica dos episód
 
 Como o próprio protagonista vive dizendo, as pessoas não mudam. E no caso da série nem sua narrativa central: surge um novo caso, o primeiro diagnóstico nunca funciona, abre-se o primeiro ato e cria-se uma atmosfera de mistério, que efetivamente gera alguma tensão. Nós leigos apenas imaginamos o que poderá ser, sendo que na realidade não conseguimos sequer mensurar a dificuldade dessa tarefa de adivinhação, embora a série se lembre eventualmente que House é o melhor de sua área. Isso implica que nem o especialista mor consegue acertar de primeira um diagnóstico. Com esses parâmetros em mente essa ciência "exata" de diagnosticadores se torna mais empolgante para alguém com um olhar de fora.
 
-[um texto da época]: {{< ref "house" >}}
+[um texto da época]: {{< relref "house" >}}

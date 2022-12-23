@@ -13,6 +13,6 @@ E o motivo do humor ser tão necessário em alguns momentos em um drama é que a
 
 A maneira com que o diretor Jeannot Szwarc (Tubarão 2, Santa Claus) desenvolve a trama é digna de outros trabalhos de sci-fi mais ambiciosos, como [De Volta para o Futuro], o já citado Solaris e Os 12 Macacos. O uso da trilha sonora temática e imortal de John Barry (saga 007) à exaustão é justificada pelo aspecto de quase-sonho da trama, que recebe apoio de uma fotografia absurdamente bela e surreal de Isidore Mankofsky, que flerta tanto com caráter onírico da experiência quanto com a visão idealista dos anos 10. Descartável dizer, esses elementos só poderiam ganhar força com um enquadramento que priorizasse os personagens em detrimento do cenário onde se encontram, algo que Szwarc faz maravilhosamente bem usando câmeras em movimento seguras em torno de uma direção de arte primorosa em sua verossimilhança, com destaque para os figurinos caprichados que dão vontade de permanecermos naquela época para sempre (tanto que não nos soa estranho que o próprio Richard pense assim).
 
-[De Volta para o Futuro]: {{< ref "de-volta-para-o-futuro" >}}
-[Solaris]: {{< ref "solaris" >}}
-[Superman - O Filme]: {{< ref "superman-o-filme" >}}
+[De Volta para o Futuro]: {{< relref "de-volta-para-o-futuro" >}}
+[Solaris]: {{< relref "solaris" >}}
+[Superman - O Filme]: {{< relref "superman-o-filme" >}}

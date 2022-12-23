@@ -19,6 +19,6 @@ E por falar em excesso, as repetidas menções que o diretor Neill Blomkamp faz 
 
 Tentando homenagear todos os filmes que compartilham pouco ou muito do enredo ([Matrix], [Aliens], filmes Favela Pop como [Cidade de Deus], etc), não funciona exatamente por não estar à altura de suas comparações. Da metade para o final, o filme sai dos trilhos por justamente diminuir seu ritmo e nos fazer pensar que um futuro naqueles moldes tem muito que ser desenvolvido para parecer mais real. Fora os esforços de Jodie Foster e Alice Braga em seus papéis, Elysium carece de um universo complexo o suficiente para impactar não apenas com os momentos "faça-me chorar", mas principalmente pelo destino de seus semi-dimensionais personagens.
 
-[Matrix]: {{< ref "matrix" >}}
-[Aliens]: {{< ref "aliens-o-resgate" >}}
-[Cidade de Deus]: {{< ref "cidade-de-deus" >}}
+[Matrix]: {{< relref "matrix" >}}
+[Aliens]: {{< relref "aliens-o-resgate" >}}
+[Cidade de Deus]: {{< relref "cidade-de-deus" >}}

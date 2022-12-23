@@ -13,5 +13,5 @@ Uma estrutura ágil disfarça a aparente desconexão com a realidade quando o co
 
 Nesse clima de tudo é possível nasce uma bela metáfora sobre a infância, os humanos e nossa existência. Estamos no meio de uma crise econômica, o que explica de certa forma a figura recorrente do pai desempregado e a narrativa fantasiosa. Os efeitos engasgam nas limitações da época, mas assim como [Tron], a crença pesa mais, ainda que tenha que abrir ressalvas e compreender o momento.
 
-[Os Goonies]: {{< ref "os-goonies" >}}
-[Tron]: {{< ref "tron" >}}
+[Os Goonies]: {{< relref "os-goonies" >}}
+[Tron]: {{< relref "tron" >}}

@@ -17,6 +17,6 @@ Confortável em retornar para fábulas "dark" como em A Noiva Cadáver e [O Estr
 
 Contando ainda com uma conclusão inesperadamente emocionante, pelo menos para mim, que perdi minha cadela Pata em condições emocionalmente abaladoras, Frankenweenie faz eco com outra produção tão inversa quanto Marley e Eu, mas consegue extrair do seu universo a lição de moral que precisava para recolocar a questão da ciência nas mãos dos adultos. Afinal de contas, já é hora de esquecermo-nos dos inúmeros contos de fada em que acreditávamos e assumir que o conhecimento do mundo é uma dádiva que não podemos ignorar.
 
-[Edward Mãos de Tesoura]: {{< ref "edward-maos-de-tesoura" >}}
-[Gremlins]: {{< ref "gremlins" >}}
-[O Estranho Mundo de Jack]: {{< ref "o-estranho-mundo-de-jack" >}}
+[Edward Mãos de Tesoura]: {{< relref "edward-maos-de-tesoura" >}}
+[Gremlins]: {{< relref "gremlins" >}}
+[O Estranho Mundo de Jack]: {{< relref "o-estranho-mundo-de-jack" >}}

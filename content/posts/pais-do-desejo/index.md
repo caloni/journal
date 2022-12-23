@@ -17,5 +17,5 @@ Se todos esses elementos não precisassem ser mastigados pelo espectador perdido
 
 Porém, pelo visto, o diretor não quis entregar nada mais que os eventos enfileirados, o que parece mais material de pesquisa do que uma história pensada e trabalhada para comunicar ideias que ousam desafiar a narrativa clássica do cinema.
 
-[A Febre do Rato]: {{< ref "a-febre-do-rato" >}}
-[O Som ao Redor]: {{< ref "o-som-ao-redor" >}}
+[A Febre do Rato]: {{< relref "a-febre-do-rato" >}}
+[O Som ao Redor]: {{< relref "o-som-ao-redor" >}}

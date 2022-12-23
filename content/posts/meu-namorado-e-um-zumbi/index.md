@@ -19,4 +19,4 @@ De qualquer forma, os humanos e os zumbis já possuem uma "rivalidade natural", 
 
 até o fim que o romance entre seres tão diferentes - faz uma brincadeira com Romeu e Julieta - não pode dar certo em uma atmosfera de medo, Meu Namorado é Um Zumbi poderia ser acusado de meloso. Eu diria que a sua "melosidade" brinca com a nossa percepção de como é difícil para algumas pessoas aceitarem as diferenças, e a maior prova disso é que um beijo entre um humano e um zumbi possa parecer tão romântico quanto... errado.
 
-[tropas de Darth Vader]: {{< ref "star-wars-guerra-nas-estrelas" >}}
+[tropas de Darth Vader]: {{< relref "star-wars-guerra-nas-estrelas" >}}

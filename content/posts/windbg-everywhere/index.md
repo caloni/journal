@@ -77,5 +77,5 @@ Com essa premissa me vem à mente os seguintes cenários:
  - Coleta silenciosa de dumps.
  - Chamar kernel debugger ao iniciar processo (parâmetro `-d` do ntsd.exe).
 
-[little help]: {{< ref "kernel-mode-user-mode" >}}
-[Quebrando Houaiss]: {{< ref "conversor-de-houaiss-para-babylon-parte-1" >}}
+[little help]: {{< relref "kernel-mode-user-mode" >}}
+[Quebrando Houaiss]: {{< relref "conversor-de-houaiss-para-babylon-parte-1" >}}

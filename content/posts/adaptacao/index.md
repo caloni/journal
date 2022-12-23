@@ -23,6 +23,6 @@ Porém, talvez o maior exemplo de sua capacidade artística esteja em fazer com 
 
 Se antes o conceito genial de entrar na mente de um sujeito como John Malkovich era espetacular, é com grande satisfação que podemos afirmar que a ideia e concepção de entrarmos na cabeça de seu roteirista é ainda mais brilhante. Charlie Kaufman ainda é um nome que devemos sempre procurar no meio dos créditos de uma produção hollywoodiana.
 
-[Cidadão Kane]: {{< ref "cidadao-kane" >}}
-[Quero ser John Malkovich]: {{< ref "quero-ser-john-malkovich" >}}
-[Titanic]: {{< ref "titanic" >}}
+[Cidadão Kane]: {{< relref "cidadao-kane" >}}
+[Quero ser John Malkovich]: {{< relref "quero-ser-john-malkovich" >}}
+[Titanic]: {{< relref "titanic" >}}

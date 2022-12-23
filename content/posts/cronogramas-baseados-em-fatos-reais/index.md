@@ -67,4 +67,4 @@ _Note que, se quiser, pode fazer a análise contrária também, tanto de um quan
 
 O número de horas ficou muito maior que o esperado? Não me admira que os projetos geralmente atrasem, então. Por pior que pareça o cálculo final, ele foi construído com base na realidade. E não há nada melhor do que nos basearmos na realidade para estimar seriamente o quanto pode custar à empresa um projeto qualquer.
 
-[Já falei sobre cronogramas]: {{< ref "cronograma" >}}
+[Já falei sobre cronogramas]: {{< relref "cronograma" >}}

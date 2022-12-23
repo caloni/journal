@@ -126,4 +126,4 @@ Note que se estivéssemos tentando exibir uma string Ansi iríamos usar o comand
 
 Repare que colocamos esse breakpoint diretamente na função API, ou seja, qualquer outro ponto do notepad em que ele tiver vontade de chamar a mesma API irá ativar o mesmo breakpoint e exibir a mesma mensagem, o que pode ser um pouco importuno da parte dele. Um bom exercício pós-leitura seria tratar as condições em que a mensagem será trocada, talvez se baseando na mensagem recebida. Mas isso já é lição de casa, e paramos por aqui.
 
-[primeiro artigo sobre o WinDbg]: {{< ref "introducao-ao-debugging-tools-for-windows" >}}
+[primeiro artigo sobre o WinDbg]: {{< relref "introducao-ao-debugging-tools-for-windows" >}}

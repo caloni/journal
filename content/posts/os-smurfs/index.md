@@ -15,4 +15,4 @@ Satisfeito em apenas retratar os Smurfs exatamente como eles sempre foram, resta
 
 Portanto, dadas as devidas proporções, e ignorando uma ou outra falha de roteiro (como o uso artificial de um cachorro ou a relação "macabra" entre Gargamel e a chefe do pai-de-família do filme), Os Smurfs cumpre o que promete sem maiores voos. E faz muito bem.
 
-[continuações]: {{< ref "alvin-e-os-esquilos-na-estrada" >}}
+[continuações]: {{< relref "alvin-e-os-esquilos-na-estrada" >}}

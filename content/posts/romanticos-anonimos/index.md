@@ -13,4 +13,4 @@ O problema mesmo é a falta de ambição em contar a história de Angélique Del
 
 Porém, e mais uma vez voltando ao roteiro, as cartas são jogadas de maneira quase gratuita, sendo que nos primeiros 15 minutos de filme já é possível traçar quase todo o trajeto que ambos irão seguir durante o resto da história, faltando apenas acompanhá-los. Embora ambos tenham visíveis problemas de relacionamento, mesmo assim a sensação geral é que tudo acaba se acertando e que não existe um mínimo conflito que nos dê a sensação de incerteza, como acontece todo o tempo, por exemplo, em [O Fabuloso Destino de Amélie Poulain].
 
-[O Fabuloso Destino de Amélie Poulain]: {{< ref "amelie-poulain" >}}
+[O Fabuloso Destino de Amélie Poulain]: {{< relref "amelie-poulain" >}}

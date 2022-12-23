@@ -19,5 +19,5 @@ Ao chegarmos no ponto de virada da história, igualmente impactante, a narrativa
 
 Kim Ki-duk continua sendo um dos meus diretores favoritos, embora minha lista de diretores favoritos apenas aumente com o tempo. Por mais que às vezes peque na economia narrativa, um filme irregular dele é melhor que a média "do mercado".
 
-[Fôlego]: {{< ref "folego" >}}
-[Primavera, Verão...]: {{< ref "primavera-verao-outono-inverno-e-primavera" >}}
+[Fôlego]: {{< relref "folego" >}}
+[Primavera, Verão...]: {{< relref "primavera-verao-outono-inverno-e-primavera" >}}

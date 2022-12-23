@@ -13,5 +13,5 @@ Lucy é uma estudante que realiza diferentes trabalhos e atividades para consegu
 
 Quem sabe, talvez, estar dormindo não seja o estado normal de Lucy, e nós é que estamos sonhando?
 
-[Desventuras em Série]: {{< ref "desventuras-em-serie" >}}
-[X-Men: Primeira Classe]: {{< ref "x-men-primeira-classe" >}}
+[Desventuras em Série]: {{< relref "desventuras-em-serie" >}}
+[X-Men: Primeira Classe]: {{< relref "x-men-primeira-classe" >}}

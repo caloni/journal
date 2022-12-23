@@ -42,4 +42,4 @@ Hoje tudo isso é datado, pois parte do princípio que jovens são inofensivos n
 
 Não me leve a mal: o filme continua bom. Apenas não é mais memorável. Não é mais um dos melhores do ano como eu escrevi na época. Mas é engraçado. Continua respeitando a inteligência do espectador, mas não sua sensibilidade. Hoje percebemos se tratar de personagens feitos com pressa, sem intensidade, sem realismo. Sem compaixão. Eles castram a verdadeira diversidade de opiniões, essa selva de adolescentes tresloucados, em troca de risadas de eventos bobinhos, de um tour inofensivo de duas jovens em uma noite nada selvagem. É entretenimento de qualidade, mas está ficando velho bem rápido.
 
-[uma série]: {{< ref "the-chair" >}}
+[uma série]: {{< relref "the-chair" >}}

@@ -162,4 +162,4 @@ Procure primeiro verificar as coisas mais simples. Depois você tenta consertar 
 > Configure Seus Símbolos Corretamente
 
 ["mother-fucker" livro]: http://advancedwindowsdebugging.com/
-[artigo]: {{< ref "conversor-de-houaiss-para-babylon-parte-1" >}}
+[artigo]: {{< relref "conversor-de-houaiss-para-babylon-parte-1" >}}

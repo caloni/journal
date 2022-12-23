@@ -32,4 +32,4 @@ E voilà! Temos uma chamada de log que teoricamente teria que passar uma string 
 
 E assim terminamos mais uma sessão simples e rápida de debug. Quer dizer, simples e rápida para quem tem 20 anos de experiência nessas coisas. Os estagiários devem ter ficado de cabelos em pé.
 
-[carregar seus símbolos adequadamente]: {{< ref "depuracao-de-emergencia-receita-de-bolo" >}}
+[carregar seus símbolos adequadamente]: {{< relref "depuracao-de-emergencia-receita-de-bolo" >}}

@@ -15,4 +15,4 @@ A constante é a religião e a puberdade do garoto, que precisa de uma menina ur
 
 É curioso como o primogênito ser inapto para a vida social faz lembrar [Capitão Fantástico], onde o pai torna seus filhos aptos para viver como ermitões e incapazes de abraçar o caos das relações humanas. A certeza dos pais desses dois filmes é a causa do fracasso de seus filhos na vida. Um defende a convicção católica; o outro, a convicção materialista dialética. Cada um com sua religião sem saber o que fazer com cada uma delas, exceto evitar dar respostas ou regras à sua prole. O fracasso acaba sendo o da vida moderna.
 
-[Capitão Fantástico]: {{< ref "capitao-fantastico" >}}
+[Capitão Fantástico]: {{< relref "capitao-fantastico" >}}

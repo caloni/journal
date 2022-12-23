@@ -23,7 +23,7 @@ Triste saber que o único motivo de existência de muitas pessoas é conseguir v
 
 Feliz fico com o fato de tudo ser um filme, fruto da imaginação de produtores e que não existem coincidências com a vida real. Certo?
 
-[Inverno da Alma]: {{< ref "inverno-da-alma" >}}
-[X-Men: Primeira Classe]: {{< ref "x-men-primeira-classe" >}}
-[filmes]: {{< ref "jogos-vorazes-a-esperanca-parte-1" >}}
-[próximos]: {{< ref "jogos-vorazes-em-chamas" >}}
+[Inverno da Alma]: {{< relref "inverno-da-alma" >}}
+[X-Men: Primeira Classe]: {{< relref "x-men-primeira-classe" >}}
+[filmes]: {{< relref "jogos-vorazes-a-esperanca-parte-1" >}}
+[próximos]: {{< relref "jogos-vorazes-em-chamas" >}}

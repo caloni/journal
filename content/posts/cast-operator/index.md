@@ -44,4 +44,4 @@ Já a diferença sintática e semântica dos operadores de função e cast é su
     // function-operator
     int operator();
 
-[sobrecarga de função pelo retorno]: {{< ref "sobrecarga-de-funcao-as-avessas" >}}
+[sobrecarga de função pelo retorno]: {{< relref "sobrecarga-de-funcao-as-avessas" >}}

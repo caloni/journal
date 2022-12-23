@@ -156,8 +156,8 @@ Como diria, edw519, um dos membros mais populares do Hacker News:
 
 ### Perguntas?
 
-[edw519]: {{< ref "the-best-of-edw519" >}}
-[Flow]: {{< ref "flow" >}}
-[The ONE Thing]: {{< ref "the-one-thing" >}}
-[Deep Work]: {{< ref "deep-work" >}}
+[edw519]: {{< relref "the-best-of-edw519" >}}
+[Flow]: {{< relref "flow" >}}
+[The ONE Thing]: {{< relref "the-one-thing" >}}
+[Deep Work]: {{< relref "deep-work" >}}
 [o livro]: https://git-scm.com/book/en/v2

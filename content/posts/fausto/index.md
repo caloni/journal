@@ -17,5 +17,5 @@ Porém, toda a complexidade na figura de Fausto/homem não teria valor se não f
 
 Ciente de que ações conseguem ser mais efusivas que os inspirados diálogos entre os dois, o ato de beijar na boca as figuras de pedra de Jesus e Maria, além de repugnante e hipnotizante, consegue revelar de uma maneira absurdamente econômica o papel do agiota na trama como um todo. São com esses detalhes tão pequenos ("ai, minhas asas!") quanto grandiosos - como as sequências que poderiam ser emolduradas e postas na parede - que o filme recria um universo tão ou mais depressivo e bestial do que o romance máximo de Goethe poderia sugerir em suas páginas.
 
-[Moloch]: {{< ref "moloch" >}}
-[Mãe e Filho]: {{< ref "mae-e-filho" >}}
+[Moloch]: {{< relref "moloch" >}}
+[Mãe e Filho]: {{< relref "mae-e-filho" >}}

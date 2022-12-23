@@ -17,5 +17,5 @@ Porém, e aí está uma grande sequência, no momento em que todas as luzes se d
 
 Esse momento, infelizmente, não dura muito tempo.
 
-[série Dexter]: {{< ref "dexter-s07" >}}
-[O Exorcismo de Emily Rose]: {{< ref "o-exorcismo-de-emily-rose" >}}
+[série Dexter]: {{< relref "dexter-s07" >}}
+[O Exorcismo de Emily Rose]: {{< relref "o-exorcismo-de-emily-rose" >}}

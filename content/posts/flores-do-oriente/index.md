@@ -17,4 +17,4 @@ Infelizmente, o filme parece mais longo do que é, justamente pela maioria das c
 
 Teria sido mais divertido.
 
-[O Albergue]: {{< ref "o-albergue" >}}
+[O Albergue]: {{< relref "o-albergue" >}}

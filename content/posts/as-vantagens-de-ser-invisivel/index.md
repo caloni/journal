@@ -17,5 +17,5 @@ O roteiro, apesar de superficialmente leve e com um caráter de "filme de adoles
 
 Nunca perdendo o ritmo em seus desdobramentos, nem deixando de ser divertido ainda que tratando dos assuntos delicados já descritos, As Vantagens de Ser Invisível possui aquele mérito dos filmes de John Hughes ([Clube dos Cinco]) em abordar o universo adolescente sob o ponto de vista dele mesmo, não nos privando dos sentimentos dessa fase tão confusa quanto libertadora.
 
-[Clube dos Cinco]: {{< ref "clube-dos-cinco" >}}
-[Harry Potter]: {{< ref "harry-potter-e-a-pedra-filosofal" >}}
+[Clube dos Cinco]: {{< relref "clube-dos-cinco" >}}
+[Harry Potter]: {{< relref "harry-potter-e-a-pedra-filosofal" >}}

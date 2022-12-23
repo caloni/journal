@@ -103,4 +103,4 @@ E voilà! A partir do momento em que digitei o call seguido de enter, a função
 
 Não façam isso em casa, crianças ;)
 
-[artigo anterior]: {{< ref "patch-de-emergencia" >}}
+[artigo anterior]: {{< relref "patch-de-emergencia" >}}

@@ -120,5 +120,5 @@ A versão C ainda tem a vantagem de não precisar de uma vtable const (embora se
 
 O importante deste artigo é demonstrar como conceitos aparentemente complicados ou escondidos de uma linguagem como C++ podem ser compreendidos completamente utilizando apenas linguagem de alto nível no bom e velho C. Essa estratégia de descer camadas de abstração, como verá, funciona para linguagens de mais alto nível, como C# ou Java, pois ambas são implementadas em linguagens como C++. No fundo, engenharia de software é um universo multi-camadas transitando pela última camada que conhecemos -- a física. Pelo menos a última camada que ainda conhecemos.
 
-[post anterior]: {{< ref "classe-objeto-contexto-metodo" >}}
-[há muito tempo atrás]: {{< ref "vtable" >}}
+[post anterior]: {{< relref "classe-objeto-contexto-metodo" >}}
+[há muito tempo atrás]: {{< relref "vtable" >}}

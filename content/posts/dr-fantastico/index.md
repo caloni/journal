@@ -15,4 +15,4 @@ A construção do drama de cada lado é feita paulatinamente e com uma dosagem s
 
 Mais para frente, na cinegrafia do autor, poderemos ver a guerra novamente enfocada com seus absurdos em Nascido Para Matar. Porém, como comédia, Dr. Strangelove é uma sátira muito mais dramática e eterna que qualquer outra crítica séria poderia causar.
 
-[2001]: {{< ref "2001-uma-odisseia-no-espaco" >}}
+[2001]: {{< relref "2001-uma-odisseia-no-espaco" >}}

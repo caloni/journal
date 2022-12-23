@@ -17,4 +17,4 @@ Já o problema do longa se encontra no seu desenvolvimento. Nunca conseguindo fo
 
 Porém, esse deve ser o filme que vai impressionar mais as plateias pela maneira impecável que ele junta suas duas pontas extremas, mesmo se despreocupando totalmente em como desenvolvê-las de maneira no mínimo interessante.
 
-[A Marcha dos Pinguins]: {{< ref "a-marcha-dos-pinguins" >}}
+[A Marcha dos Pinguins]: {{< relref "a-marcha-dos-pinguins" >}}

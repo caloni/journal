@@ -117,6 +117,6 @@ Programar não tem segredo. É tudo uma questão de gostar, aprender, executar, 
 [como fazer programas fáceis de manter]: http://dqsoft.blogspot.com/2007/10/desenvolvendo-softwares-agradveis-de.html
 [Arquitetura de von Neumann]: http://pt.wikipedia.org/wiki/Arquitetura_de_von_Neumann
 [Máquina de Turing]: http://pt.wikipedia.org/wiki/M%C3%A1quina_de_Turing
-[A inteligência do if]: {{< ref "a-inteligencia-do-if-parte-1" >}}
-[A inteligência do if]: {{< ref "a-inteligencia-do-if-parte-2" >}}
-[Introdução Ilustrada à Computação]: {{< ref "introducao-a-introducao-a-computacao" >}}
+[A inteligência do if]: {{< relref "a-inteligencia-do-if-parte-1" >}}
+[A inteligência do if]: {{< relref "a-inteligencia-do-if-parte-2" >}}
+[Introdução Ilustrada à Computação]: {{< relref "introducao-a-introducao-a-computacao" >}}

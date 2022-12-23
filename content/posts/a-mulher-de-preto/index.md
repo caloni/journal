@@ -17,4 +17,4 @@ Comprometido apenas pela fraca história, o design de arte impressiona, principa
 
 Me fez pensar que as cenas de susto forçado não devem funcionar mesmo sem o aumento do som, pois é um recurso batido usado até mesmo nesse filme que pode-se considerar mais drama que terror. Por outro lado, olhe em volta e perceba a qualidade dos espectadores dos dias de hoje para perceber como cada vez mais o terror deve ficar mais óbvio e, portanto, menos aterrorizante.
 
-[Harry Potter]: {{< ref "harry-potter-e-as-reliquias-da-morte-parte-2" >}}
+[Harry Potter]: {{< relref "harry-potter-e-as-reliquias-da-morte-parte-2" >}}

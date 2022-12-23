@@ -15,4 +15,4 @@ Essa inversão de expectativas também é muito bem-vinda, principalmente quando
 
 O resultado é que, mesmo que "Quatro Amigas..." divirta a maior parte do tempo, a narrativa quase nunca consegue encaixar o destino de suas personagens em torno de sua história, o que torna o filme esquecível assim que saímos da sala.
 
-[Missão Madrinha de Casamento]: {{< ref "missao-madrinha-de-casamento" >}}
+[Missão Madrinha de Casamento]: {{< relref "missao-madrinha-de-casamento" >}}

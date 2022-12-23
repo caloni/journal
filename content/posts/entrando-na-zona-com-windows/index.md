@@ -60,4 +60,4 @@ Os comandos do git são muito verbose. Duas letras já seriam suficiente (o Wind
 
 Agora, através dos atalhos Win+1, 2, 3... pode-se abrir e alternar entre os aplicativos principais do seu dia-a-dia, que devem ficar "pinados" na barra de tarefas. Os meus atualmente são três: terminal (1 cmd), editor (2 vim) e browser (3 chrome). Não é necessário colocar coisas como Visual Studio, já que minha navegação é feita rapidamente pelo terminal para o projeto que irei mexer. Com isso o foco fica restrito a apenas uma coisa: o que você tem que fazer hoje? =)
 
-[artigo anterior]: {{< ref "entrando-na-zona-com-vim" >}}
+[artigo anterior]: {{< relref "entrando-na-zona-com-vim" >}}

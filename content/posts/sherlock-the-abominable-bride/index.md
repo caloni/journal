@@ -17,4 +17,4 @@ Sendo assim, se é divertido acompanhar os letreiros que pulam na tela quando um
 
 Jogando o espectador nos exatos quatro minutos em que Sherlock foi expatriado, logo no final do episódio anterior, a abertura desta quarta temporada é um trabalho tão ambicioso que mais uma vez sou obrigado a compará-lo com o melhor que o Cinema tem a oferecer. Mais uma vez um trabalho que merece não só estrear em streaming, mas ocupar algumas salas de cinema pelo mundo.
 
-[A Origem]: {{< ref "a-origem" >}}
+[A Origem]: {{< relref "a-origem" >}}

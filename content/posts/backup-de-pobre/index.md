@@ -75,4 +75,4 @@ Só isso já basta para um backup simples, pequeno e fácil de executar. Só pre
 Note que esse procedimento não anula a necessidade de termos um [sistema de versionamento e controle de fontes]. O backup é para aquelas projetos que demoram um tempinho para efetuar commit, projetos temporários ou então sistemas de controle de fonte distribuído, em que podemos ter inúmeras pastas com diversos branchs locais.
 
 [DQ]: http://dqsoft.blogspot.com/
-[sistema de versionamento e controle de fontes]: {{< ref "guia-basico-de-controle-de-codigo-source-safe" >}}
+[sistema de versionamento e controle de fontes]: {{< relref "guia-basico-de-controle-de-codigo-source-safe" >}}

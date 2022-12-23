@@ -13,5 +13,5 @@ A direção de Peter Lord (A Fuga Das Galinhas) auxiliado por Jeff Newitt conseg
 
 Já o roteiro do novato Gideon Defoe aos poucos nos leva do deslumbramento para a desilusão. Criando uma história confusa e inverossímil envolvendo piratas, Charles Darwin e a rainha da Inglaterra, a história tem a proeza de conter a maior coleção de piadas da Aardman que simplesmente não funcionam, seja por falta de timing ou por serem inseridas com elementos-surpresa que parecem tirados da manga. Quando vemos que o resultado irá dar na batidíssima lição de moral sobre o valor dos nossos entes queridos a aventura, que tinha tudo para ser uma envolvente construção de época em animação, se torna incrivelmente enfadonha.
 
-[Cowboys e Aliens]: {{< ref "cowboys-e-aliens" >}}
-[Por Água Abaixo]: {{< ref "por-agua-abaixo" >}}
+[Cowboys e Aliens]: {{< relref "cowboys-e-aliens" >}}
+[Por Água Abaixo]: {{< relref "por-agua-abaixo" >}}

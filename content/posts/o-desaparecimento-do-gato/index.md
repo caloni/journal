@@ -21,4 +21,4 @@ E diferente de um filme recente que vi (o péssimo [Roubando Vidas]), onde o ób
 
 Mantendo o controle absoluto da história, a conclusão tensa enriquece novamente toda a experiência, pois detalhes menos importantes passam a corresponder ao nosso entendimento (como as férias para o Brasil). E isso faz toda a diferença em uma história de qualidade.
 
-[Roubando Vidas]: {{< ref "roubando-vidas" >}}
+[Roubando Vidas]: {{< relref "roubando-vidas" >}}

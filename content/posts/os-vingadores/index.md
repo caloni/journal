@@ -21,6 +21,6 @@ Mesmo assim, se Tom Hiddleston faz um esforço reconhecível para transformar se
 
 Nunca cansativo em seus 142 minutos de duração, o final precoce apenas prenuncia o mais uma vez óbvio: essa é apenas a introdução de um grupo que promete participar em outras aventuras. Considerando que o filme consegue transportar-nos facilmente para esse universo, por mais absurdo que ele seja, e ao mesmo tempo fazer-nos empolgar com a interação entre os heróis e suas cenas de ação de tirar o fôlego, essa é uma ótima notícia.
 
-[Capitão América]: {{< ref "capitao-america-o-primeiro-vingador" >}}
-[Homem de Ferro]: {{< ref "homem-de-ferro" >}}
-[Thor]: {{< ref "thor" >}}
+[Capitão América]: {{< relref "capitao-america-o-primeiro-vingador" >}}
+[Homem de Ferro]: {{< relref "homem-de-ferro" >}}
+[Thor]: {{< relref "thor" >}}

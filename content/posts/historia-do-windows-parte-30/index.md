@@ -154,4 +154,4 @@ Para saber mais dê uma passada no [sítio do Charles Petzold].
 
 [sítio do Charles Petzold]: http://www.charlespetzold.com
 [a versão eletrônica disponível para download]: http://www.charlespetzold.com/books.html
-[da série]: {{< ref "historia-do-windows" >}}
+[da série]: {{< relref "historia-do-windows" >}}

@@ -13,5 +13,5 @@ Não é à toa que uma das subtramas é a reconstrução da cidade, que se chama
 
 Inspirando grandes filmes como a trilogia Batman de Christopher Nolan e as duas Tropa de Elite de José Padilha, RoboCop é mais um filme de revelação do que de esperança. Enquanto torcemos pelo personagem principal, que perdeu não apenas sua vida, mas sua humanidade, vamos aos poucos entendendo que, assim como [Darth Vader de George Lucas], o "Policial do Futuro" apenas obedece ordens, e que por uma ironia sem tamanho, acaba por buscar a justiça para aqueles mesmos que o construíram. Infelizmente, na vida real os culpados pela impunidade não são tão facilmente detectáveis por um programa de computador.
 
-[Star Trek, Além da Escuridão]: {{< ref "alem-da-escuridao-star-trek" >}}
-[Darth Vader de George Lucas]: {{< ref "star-wars-guerra-nas-estrelas" >}}
+[Star Trek, Além da Escuridão]: {{< relref "alem-da-escuridao-star-trek" >}}
+[Darth Vader de George Lucas]: {{< relref "star-wars-guerra-nas-estrelas" >}}

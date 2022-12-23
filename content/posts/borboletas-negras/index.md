@@ -15,4 +15,4 @@ Jonker é interpretada por Carice van Houten de maneira automática, mas ela viv
 
 Os sentimentos da diretora holandesa a respeito do roteiro de Greg Latter flutuam no vácuo, mas sua tecnicidade controla por completo um filme que vai nos levando sem esforço algum. Não há significado, apenas emoções. Jonker é uma força da natureza que não argumenta, apenas segue seu final trágico. E ela serve de instrumento político em um filme que sobre esse assunto se torna monossilábico.
 
-[O Carteiro e o Poeta]: {{< ref "o-carteiro-e-o-poeta" >}}
+[O Carteiro e o Poeta]: {{< relref "o-carteiro-e-o-poeta" >}}

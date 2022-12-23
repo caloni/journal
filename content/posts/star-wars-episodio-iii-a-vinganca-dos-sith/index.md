@@ -19,8 +19,8 @@ Com uma conclusão que infelizmente exclui o público mais infantil, ao escancar
 
 E se, por fim, a maioria do filme prever o final não-feliz é uma atitude corajosa, a decisão de colocar o destino dos filhos de Anakin em foco nas últimas cenas é admirável, pois consegue sucintamente anunciar a vinda de [uma] [nova] [trilogia] que, aí sim, elevará Star Wars na categoria das melhores histórias de aventura espacial já contada de todos os tempos.
 
-[dois]: {{< ref "star-wars-episodio-i-a-ameaca-fantasma" >}}
-[filmes]: {{< ref "star-wars-episodio-ii-ataque-dos-clones" >}}
-[nova]: {{< ref "o-imperio-contra-ataca" >}}
-[trilogia]: {{< ref "o-retorno-de-jedi" >}}
-[uma]: {{< ref "star-wars-guerra-nas-estrelas" >}}
+[dois]: {{< relref "star-wars-episodio-i-a-ameaca-fantasma" >}}
+[filmes]: {{< relref "star-wars-episodio-ii-ataque-dos-clones" >}}
+[nova]: {{< relref "o-imperio-contra-ataca" >}}
+[trilogia]: {{< relref "o-retorno-de-jedi" >}}
+[uma]: {{< relref "star-wars-guerra-nas-estrelas" >}}

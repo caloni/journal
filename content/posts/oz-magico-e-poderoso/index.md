@@ -19,5 +19,5 @@ Embora parta de um roteiro confuso que parece se esquecer que não estamos mais 
 
 Assim como Arthur C. Clarke imaginava a evolução da sociedade, que, apresentada a um povo suficientemente primitivo, se torna indistinguível de mágica. Aqui ironicamente um povo onde a mágica é comum não conseguiria distingui-la de tecnologia. Nesse sentido, a mensagem de "Oz" não poderia ser mais eficiente.
 
-[Mary Poppins]: {{< ref "mary-poppins" >}}
-[filme original]: {{< ref "o-magico-de-oz" >}}
+[Mary Poppins]: {{< relref "mary-poppins" >}}
+[filme original]: {{< relref "o-magico-de-oz" >}}

@@ -19,4 +19,4 @@ Dessa forma, não há muita surpresa quando o filme finalmente chega na hora de 
 
 Entendendo os aspectos que tornam a figura do Drácula tão fascinante, mas deixando de desenvolver os aspectos principais da história apenas por conta dessa fascinação, o roteirista Seth Grahame-Smith, que esse ano também assina por [Abraham Lincoln: Caçador de Vampiros], acaba não só desperdiçando uma ótima ideia como ótimos personagens em potencial. De qualquer forma, a culpa deve ser dividida com seu diretor, pois enquanto Burton se dedica a evasivos planos com a câmera suspensa para enfocar cenas que funcionam, mas que nunca contribuem para a história, desperdiça um elenco de luxo que nada consegue fazer para salvar um projeto começou apenas como uma boa ideia, mas que nunca se desenvolveu.
 
-[Abraham Lincoln: Caçador de Vampiros]: {{< ref "abraham-lincoln-cacador-de-vampiros" >}}
+[Abraham Lincoln: Caçador de Vampiros]: {{< relref "abraham-lincoln-cacador-de-vampiros" >}}

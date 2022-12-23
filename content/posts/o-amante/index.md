@@ -17,4 +17,4 @@ O achado do filme foi Jane March, uma modelo que em seus dezoito anos protagoniz
 
 Cinema é sexo, como já sugeria a crítica Pauline Kael, nos títulos dos seus livros e no prazer que lhe era proporcionado pelos anti-heróis que subvertiam a ordem moral. E O Amante é o filme que ela adoraria escrever sobre.
 
-[Império dos Sentidos]: {{< ref "o-imperio-dos-sentidos" >}}
+[Império dos Sentidos]: {{< relref "o-imperio-dos-sentidos" >}}

@@ -15,4 +15,4 @@ A virtude de Troisi como ator é nos entreter enquanto aguardamos a história es
 
 Ele deve continuar agradando multidões, mas tendo como pano de fundo o saudosismo dos simples e doces anos 90. É um filme fácil de digerir pelas emoções que ele deseja transmitir, mas difícil de engolir por causa do seu formato feito para ser embalado em uma lata e vendido para Hollywood e para o resto do mundo.
 
-[Cinema Paradiso]: {{< ref "cinema-paradiso" >}}
+[Cinema Paradiso]: {{< relref "cinema-paradiso" >}}

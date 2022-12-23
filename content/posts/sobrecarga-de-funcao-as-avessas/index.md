@@ -67,5 +67,5 @@ Uma vez que criamos um novo tipo, e considerando que este tipo é, portanto, dif
 
 E isso conclui a solução meio esquizofrênica de nossa sobrecarga às avessas. E voltando à pergunta original, penso que, com criatividade e C++, nada é impossível. =)
 
-[matar a marmota]: {{< ref "feitico-do-tempo" >}}
-[80 milhas por hora]: {{< ref "de-volta-para-o-futuro" >}}
+[matar a marmota]: {{< relref "feitico-do-tempo" >}}
+[80 milhas por hora]: {{< relref "de-volta-para-o-futuro" >}}

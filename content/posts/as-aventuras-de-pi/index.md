@@ -19,4 +19,4 @@ Porém, é inegável que o filme seja tecnicamente impecável e que isso gere um
 
 Mesmo sem uma história que entregue alma à experiência de Pi, sua conclusão final ainda nos entrega através de um longo diálogo empacotado em uma embalagem de filosofia barata uma versão alternativa e mais realista da mesma história, com que o autor conclui que aceitar a versão mais fantasiosa é equivalente a acreditar em deus (qualquer deus). De uma maneira aparentemente ingênua Ang Lee parece dar mais motivos para os ateístas continuarem ateístas do que um conforto para os religiosos. Se bem que, considerando que o interlocutor de Pi logo em seguida explica toda a versão realista da história, seja compreensível que as pessoas talvez achem dignificante terem participado de um espetáculo visual que ilustra o mais novo conto criado: "A Parábola do Leão".
 
-[Avatar]: {{< ref "avatar" >}}
+[Avatar]: {{< relref "avatar" >}}

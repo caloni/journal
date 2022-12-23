@@ -138,7 +138,7 @@ Tem tudo a ver! Mais do que simplesmente programar interfaces, esses conheciment
     ntdll!KiFastSystemCallRet:
     7c90eb94 c3              ret
 
-[artigo à parte]: {{< ref "introducao-ao-c-builderturbo-c" >}}
-[já conhecemos]: {{< ref "historia-do-windows-parte-30" >}}
+[artigo à parte]: {{< relref "introducao-ao-c-builderturbo-c" >}}
+[já conhecemos]: {{< relref "historia-do-windows-parte-30" >}}
 [projeto simplista]: https://github.com/Caloni/cppbuilder-forms
 [faça uma busca]: http://www.caloni.com.br/posts/?q=windbg

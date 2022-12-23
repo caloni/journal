@@ -23,7 +23,7 @@ A criatura final, por sua vez, assusta pela novidade em seu design e pela forma 
 
 O significado da chegada ao planeta Terra, enquanto remete à esperança, também dá a ideia de renascimento. Talvez o próprio renascimento do título sirva não apenas para seu começo, mas também o seu final. Talvez a forma escolhida para dar abertura à franquia que, apesar de promissora, nunca conseguiu vingar.
 
-[Alien³]: {{< ref "alien-3" >}}
-[Amélie Poulain]: {{< ref "amelie-poulain" >}}
-[Mic-Macs]: {{< ref "mic-macs-um-plano-complicado" >}}
-[Os Suspeitos]: {{< ref "os-suspeitos" >}}
+[Alien³]: {{< relref "alien-3" >}}
+[Amélie Poulain]: {{< relref "amelie-poulain" >}}
+[Mic-Macs]: {{< relref "mic-macs-um-plano-complicado" >}}
+[Os Suspeitos]: {{< relref "os-suspeitos" >}}

@@ -26,7 +26,7 @@ Por fim, a tecnologia crescente pode estar desempenhando uma mudança mais signi
 
 O surgimento do gramofone, do rádio, da TV e dos video-games, segundo o autor, está tornando as relações dos indivíduos com sua realidade cada vez mais um ato passivo, e não mais ativo, como era quando os tempos eram mais difíceis ou manuais, e até visitar um amigo ou ouvir sua música favorita era um esforço e tanto. Claro que o texto parte de um ponto de vista mais bucólico e talvez possa ser descartado em seu todo, mas sua mensagem parece possui algo inerentemente verdadeiro nos tempos de hoje: observamos jovens e adultos cada vez mais passivos e alheios à sua realidade, cada um criando sua própria bolha para se proteger do mundo cruel que um dia existiu lá fora.
 
-[uma análise]: {{< ref "leitura-how-technology-hijacks-peoples-minds" >}}
+[uma análise]: {{< relref "leitura-how-technology-hijacks-peoples-minds" >}}
 [Deep Work]: https://caloni.com.br/deep-work/
 [efeito Zeigarnik]: https://en.wikipedia.org/wiki/Zeigarnik_effect
 [mielina]: https://pt.wikipedia.org/wiki/Bainha_de_mielina

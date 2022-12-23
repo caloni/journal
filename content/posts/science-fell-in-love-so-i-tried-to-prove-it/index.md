@@ -16,4 +16,4 @@ Science Fell in Love tem muito pouco de trama, mas muita criatividade para inser
 
 E ao mesmo tempo se mantém pensando: é possível definir e medir o amor?
 
-[Cells At Work]: {{< ref "cells-at-work" >}}
+[Cells At Work]: {{< relref "cells-at-work" >}}

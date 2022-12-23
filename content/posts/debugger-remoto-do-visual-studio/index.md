@@ -112,5 +112,5 @@ Você até já sabe qual o caminho do sucesso: **[All access to everyoooone]**!!
 
 {{< image src="ajBG8fM.gif" caption="" >}}
 
-[o depurador remoto do C++ Builder]: {{< ref "debug-remoto-no-c-builder" >}}
-[All access to everyoooone]: {{< ref "o-profissional" >}}
+[o depurador remoto do C++ Builder]: {{< relref "debug-remoto-no-c-builder" >}}
+[All access to everyoooone]: {{< relref "o-profissional" >}}

@@ -21,7 +21,7 @@ Para "medir" a falta de ritmo e história no projeto, basta sentir a reação do
 
 Enfim, um filme mediano que pode ter seus méritos próprios, mas que, por aqui se tratar de mais um da série Alien, fica muito aquém dos trabalhos anteriores sobre esse universo tão rico e ainda não totalmente explorado.
 
-[A Rede Social]: {{< ref "a-rede-social" >}}
-[Aliens, o Retorno]: {{< ref "aliens-o-resgate" >}}
-[Clube da Luta]: {{< ref "clube-da-luta" >}}
-[filme original de Ridley Scott]: {{< ref "alien-o-oitavo-passageiro" >}}
+[A Rede Social]: {{< relref "a-rede-social" >}}
+[Aliens, o Retorno]: {{< relref "aliens-o-resgate" >}}
+[Clube da Luta]: {{< relref "clube-da-luta" >}}
+[filme original de Ridley Scott]: {{< relref "alien-o-oitavo-passageiro" >}}

@@ -21,4 +21,4 @@ Mas talvez o problema incurável do filme seja se levar a sério demais, colocan
 
 No entanto, é o que parece sobrar no final. Pelo visto, cada vez mais a coreografia e os efeitos digitais (incluindo o 3D) prevalecem sobre uma história minimamente apresentável.
 
-[Sombras da Noite]: {{< ref "sombras-da-noite" >}}
+[Sombras da Noite]: {{< relref "sombras-da-noite" >}}

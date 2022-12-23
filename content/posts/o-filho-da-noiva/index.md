@@ -15,5 +15,5 @@ Quando de repente surge a figura de sua mãe e seu pai, que decide se casar com 
 
 Mesmo com esse enredo caótico, Campanella consegue extrair essa lógica para nos entregar uma visão menos que perfeita de uma comédia romântica argentina, mas mais que apropriada para um personagem tão contraditório quanto qualquer ser humano que vive para o trabalho.
 
-[Heleno]: {{< ref "heleno" >}}
-[O Segredo dos Seus Olhos]: {{< ref "o-segredo-dos-seus-olhos" >}}
+[Heleno]: {{< relref "heleno" >}}
+[O Segredo dos Seus Olhos]: {{< relref "o-segredo-dos-seus-olhos" >}}

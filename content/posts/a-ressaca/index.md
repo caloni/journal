@@ -19,4 +19,4 @@ Depois de copiar as premissas de De Volta para o Futuro ele copia A Máquina do 
 
 O senso de ridículo se ausenta por breves momentos, como na referência à Bilho Eterno, sem nenhum ganho para a narrativa, ainda mais considerando que Cusack não consegue convencer como o emocional do grupo.
 
-[De Volta para o Futuro]: {{< ref "de-volta-para-o-futuro" >}}
+[De Volta para o Futuro]: {{< relref "de-volta-para-o-futuro" >}}

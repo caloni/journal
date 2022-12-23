@@ -13,6 +13,6 @@ Com cortes elegantes entre inesgotáveis cenas de ação e piadas que criam uma 
 
 Há muito para se divertir na segunda aventura para podermos nos preocupar em demasiado com alguns elementos inseridos em demasia, como a insistência da parceira de Gru em parecer legal e as incontáveis situações em que a adorável Agnes nos faz chorar sem querer.
 
-[A Era do Gelo]: {{< ref "a-era-do-gelo-4" >}}
-[Madagascar]: {{< ref "madagascar-3-os-procurados" >}}
-[Meu Malvado Favorito]: {{< ref "meu-malvado-favorito" >}}
+[A Era do Gelo]: {{< relref "a-era-do-gelo-4" >}}
+[Madagascar]: {{< relref "madagascar-3-os-procurados" >}}
+[Meu Malvado Favorito]: {{< relref "meu-malvado-favorito" >}}

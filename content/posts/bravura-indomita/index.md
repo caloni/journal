@@ -17,4 +17,4 @@ Os planos finais são os mais lindos, com destaque para a noite em que Jeff leva
 
 Há, sobretudo nos aspectos técnicos, uma quase obsessão pelo perfeccionismo, tanto no manejo das armas quanto na própria edição de som, que enaltece o faroeste das antigas usando os mesmos sons característicos, mas que se enquadram no ambiente soando como algo factível.
 
-[Três Homens em Conflito]: {{< ref "tres-homens-em-conflito" >}}
+[Três Homens em Conflito]: {{< relref "tres-homens-em-conflito" >}}

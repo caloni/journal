@@ -15,6 +15,6 @@ No entanto, o roteiro escrito em parceria com Thomas Meehan (Annie) e Ronny Grah
 
 Encontrando espaço para "homenagear" de maneira irretocável os clássicos Star Trek, [Aliens] e Planeta dos Macacos, embora as piadas surjam em cada contexto, a narrativa é seguida à risca e possui começo, meio e fim. E se isso é algo digno de nota hoje em dia é porque a paródia segue hoje sem controle e sem o menor bom gosto em produções patéticas como Espartalhões e a série Todo Mundo em Pânico, que exploram o riso fácil (de uma plateia fácil). Felizmente temos o exemplo passado de Mel Brooks do que é parodiar sem ofender e ainda engrandecer o Cinema como uma arte que pode ser revista de inúmeras maneiras sem soar repetitivo ou apelativo.
 
-[Aliens]: {{< ref "aliens-o-resgate" >}}
-[Community]: {{< ref "community" >}}
-[Star Wars]: {{< ref "star-wars-guerra-nas-estrelas" >}}
+[Aliens]: {{< relref "aliens-o-resgate" >}}
+[Community]: {{< relref "community" >}}
+[Star Wars]: {{< relref "star-wars-guerra-nas-estrelas" >}}

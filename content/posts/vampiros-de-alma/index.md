@@ -17,4 +17,4 @@ A ideia por trás dessa produção dirigida por Don Siegel é gastar pouco dinhe
 
 Os remakes que se seguiram, Invasores de Corpos (1978) e [Invasores] (2007), são tão bem sucedidos quanto esse, mas cada um em sua época. O original parece não ter envelhecido tão bem, pois se perde a referência política e histórica, mas ainda assim, é uma ótima fonte para entendermos como filmes que se esforçavam para entreter o público que ia aos cinemas se transformou em material zumbificado para consumidores de streaming. Fica a reflexão.
 
-[Invasores]: {{< ref "invasores" >}}
+[Invasores]: {{< relref "invasores" >}}

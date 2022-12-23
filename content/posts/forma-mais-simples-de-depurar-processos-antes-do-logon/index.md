@@ -113,4 +113,4 @@ Depois que houver o attach você irá continuar a execução. Portanto, coloque 
 
 Depois que isso funcionar já é possível iniciar sua depuração antes da tela de login. Os serviços executarão, e sua DLL estará aguardando um debugger ser atachado. Se houver necessidade é possível deixar esse modo de espera configurável, por timeout, etc.
 
-[post anterior sobre debug]: {{< ref "debugger-remoto-do-visual-studio" >}}
+[post anterior sobre debug]: {{< relref "debugger-remoto-do-visual-studio" >}}

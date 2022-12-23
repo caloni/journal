@@ -20,4 +20,4 @@ Bette Davis é a marca deste filme. Nas primeiras cenas ela está naquela posiç
 
 Quem entende perfeitamente o que Margo está sentindo é Eve, interpretada pela enigmática Anne Baxter. Ela sente o mundo ao seu redor com autocompaixão, nostalgia e algo a mais. É muito difícil distinguir quais os momentos que Eve está sendo sincera em sua ingenuidade, se é que é possível acreditar que esses momentos existam depois de assistir ao filme. Nós queremos acreditar, isso é fato. Porém, nós sabemos que não devemos. E essa junção entre o acreditar e o fazer parte é o que constitui a persona de Eve, uma garota que surge do nada com uma história tão clichê quanto a derrocada de Margo, mas que por algum motivo nós queremos acreditar. Margo é a ficção que amadureceu tanto que se tornou a vida dura e cruel. Eve é a realidade juvenil que de tão sonhadora é falsa da cabeça aos pés. Ambas poderiam ser falsas, mas não ousam tirar o pé da realidade fantástica de onde vieram. Como o cinema que todos adoramos.
 
-[Grandes Filmes do crítico Roger Ebert]: {{< ref "roger-ebert-great-movies" >}}
+[Grandes Filmes do crítico Roger Ebert]: {{< relref "roger-ebert-great-movies" >}}

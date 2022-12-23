@@ -17,4 +17,4 @@ Na segunda-feira ainda participei de uma terceira trilha, a da Costa da Lagoa, q
 
 Floripa agora nos promete mais que o evento icônico de tecnologia. E por isso prometemos voltar para a próxima edição.
 
-[palestra de AWK]: {{< ref "awk" >}}
+[palestra de AWK]: {{< relref "awk" >}}

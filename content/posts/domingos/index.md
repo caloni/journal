@@ -12,5 +12,5 @@ Dotado de uma narrativa fluida, que consegue alternar com um sucesso crescente e
 
 Em um certo momento, após tantos relatos expositivos, o próprio Domingos confessa que alguém já lhe disse que ele se expõe tanto que a impressão que temos no final é que parece que na verdade ele não se expõe realmente. Discordo. No fundo, a riqueza de seus pensamentos e convicções, talhados em todos esses anos de cinema e teatro, fizeram com que o personagem Domingos tivesse para seu público várias facetas, cada uma delas enriquecendo a pessoa, mas ao mesmo tempo impedindo que pudéssemos resumi-lo dessa forma autocontida. Como o próprio filme sugere, a vida continua, e o próprio Domingos, para alegria dos que não se conformam com tantas homenagens póstumas, vivo e ativo em seus projetos.
 
-[Ratatouille]: {{< ref "ratatouille" >}}
-[Tropa de Elite]: {{< ref "tropa-de-elite" >}}
+[Ratatouille]: {{< relref "ratatouille" >}}
+[Tropa de Elite]: {{< relref "tropa-de-elite" >}}

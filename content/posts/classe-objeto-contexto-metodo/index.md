@@ -86,5 +86,5 @@ Parece muito trabalho para algo que é feito "automagicamente" em C++, certo? Ce
 
 Mas esse é assunto para [outro post].
 
-[post anterior]: {{< ref "classe-objeto-contexto" >}}
-[outro post]: {{< ref "classe-objeto-contexto-metodo-polimorfismo" >}}
+[post anterior]: {{< relref "classe-objeto-contexto" >}}
+[outro post]: {{< relref "classe-objeto-contexto-metodo-polimorfismo" >}}

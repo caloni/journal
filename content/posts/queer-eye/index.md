@@ -11,4 +11,4 @@ Esta série sobre pessoas aumentando a auto-estima das outras com dinheiro, aten
 
 Depois de não sei quantas temporadas ela tem convergido para forçar o espectador a se emocionar com essas histórias e incutir consciência social, mas falta substância, e acaba virando enlatado demais. É extenso e não se transforma. Permanece o mesmo, ainda que pareça ter sempre uma novidade a cada episódio. Não tem. Assim como [Chef's Table], é o formato que importa mais que a substância. Mas é bem queer essa maneira de ver o mundo.
 
-[Chef's Table]: {{< ref "chefs-table" >}}
+[Chef's Table]: {{< relref "chefs-table" >}}

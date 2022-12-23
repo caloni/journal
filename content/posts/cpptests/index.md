@@ -37,5 +37,5 @@ Para que a compilação dessa opção funcione no Visual Studio 2017 15.3 é nec
 
 Todos (ou a maioria) deles ainda está em teste. Acabei de baixar o preview 5, conforma um dos membros da ML dos MVPs C++ me informou que saiu quentinha do forno. Em breve novidades.
 
-[próximo encontro ccpp]: {{< ref "13-encontro-ccpp-indaiatuba-sp-2017-08-05" >}}
-[superlib de log]: {{< ref "logs-em-servicos-e-outras-coisas" >}}
+[próximo encontro ccpp]: {{< relref "13-encontro-ccpp-indaiatuba-sp-2017-08-05" >}}
+[superlib de log]: {{< relref "logs-em-servicos-e-outras-coisas" >}}

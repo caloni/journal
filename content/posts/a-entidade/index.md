@@ -17,7 +17,7 @@ Infelizmente o nosso próprio nível de estresse não é elevado, e tudo o que s
 
 O que nos leva ao impreciso terceiro ato, que está determinado a não deixar pontas soltas, mas que mesmo assim, ou talvez por isso, não nos deixe espaço para nossa própria imaginação. Como um caso de suspense policial, mesmo com seu trágico fim, não há perguntas não respondidas, e o espectador médio sai da sala de cinema satisfeito de ter entendido tudo. Ou seja, o Cinema é rebaixado ao nível de um telejornal para atender ao seu consumidor, e com isso sabota o grande poder do terror em elevar o desconhecido e o seu medo ao grande protagonista desse gênero.
 
-[Atividade Paranormal]: {{< ref "atividade-paranormal-3" >}}
-[O Exorcismo de Emily Rose]: {{< ref "o-exorcismo-de-emily-rose" >}}
-[inúmeras]: {{< ref "atividade-paranormal-2" >}}
-[versões]: {{< ref "atividade-paranormal-toquio" >}}
+[Atividade Paranormal]: {{< relref "atividade-paranormal-3" >}}
+[O Exorcismo de Emily Rose]: {{< relref "o-exorcismo-de-emily-rose" >}}
+[inúmeras]: {{< relref "atividade-paranormal-2" >}}
+[versões]: {{< relref "atividade-paranormal-toquio" >}}

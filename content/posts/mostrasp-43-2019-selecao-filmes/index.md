@@ -32,30 +32,30 @@ Foi divulgada a lista dos filmes para a mostra desse ano. Já conheço alguns di
  - Roschdy Zem (filmes nessa Mostra: Persona Non Grata) é diretor do drama histórico sobre racismo em [Chocolate].
  - Yorgos Lanthimos (filmes nessa Mostra: Nimic) é o diretor premiado ano passado pelo espetacular [A Favorita], e que chega com novo filme Nimic.
 
-[2 Coelhos]: {{< ref "2-coelhos" >}}
-[A Bruxa]: {{< ref "a-bruxa-2015" >}}
-[A Favorita]: {{< ref "a-favorita" >}}
-[A Garota Desconhecida]: {{< ref "a-garota-desconhecida" >}}
-[A Gente]: {{< ref "a-gente" >}}
-[Bem-Vindo a Nova York]: {{< ref "bem-vindo-a-nova-york" >}}
-[BugiGangue no Espaço]: {{< ref "bugigangue-no-espaco" >}}
-[Chocolate]: {{< ref "chocolate" >}}
-[Cidade de Deus]: {{< ref "cidade-de-deus" >}}
-[Como é Cruel Viver Assim]: {{< ref "como-e-cruel-viver-assim" >}}
-[Dez]: {{< ref "dez" >}}
-[Domingos]: {{< ref "domingos" >}}
-[Em Pedaços]: {{< ref "em-pedacos" >}}
-[O Amor é Estranho]: {{< ref "o-amor-e-estranho" >}}
-[O Cheiro do Ralo]: {{< ref "o-cheiro-do-ralo" >}}
-[O Farol]: {{< ref "o-farol" >}}
-[O Invasor]: {{< ref "o-invasor" >}}
-[O Mundo Fora do Lugar]: {{< ref "o-mundo-fora-do-lugar" >}}
-[O Voto é Secreto]: {{< ref "o-voto-e-secreto" >}}
-[Para Minha Amada Morta]: {{< ref "para-minha-amada-morta" >}}
-[Paris Te Amo]: {{< ref "paris-te-amo" >}}
-[Partida]: {{< ref "partida" >}}
-[País do Desejo]: {{< ref "pais-do-desejo" >}}
-[Quebrando o Tabu]: {{< ref "quebrando-o-tabu" >}}
-[Segredos Oficiais]: {{< ref "segredos-oficiais" >}}
-[Tropa de Elite]: {{< ref "tropa-de-elite" >}}
-[adaptação do livro Ender's Game]: {{< ref "enders-game-o-jogo-do-exterminador" >}}
+[2 Coelhos]: {{< relref "2-coelhos" >}}
+[A Bruxa]: {{< relref "a-bruxa-2015" >}}
+[A Favorita]: {{< relref "a-favorita" >}}
+[A Garota Desconhecida]: {{< relref "a-garota-desconhecida" >}}
+[A Gente]: {{< relref "a-gente" >}}
+[Bem-Vindo a Nova York]: {{< relref "bem-vindo-a-nova-york" >}}
+[BugiGangue no Espaço]: {{< relref "bugigangue-no-espaco" >}}
+[Chocolate]: {{< relref "chocolate" >}}
+[Cidade de Deus]: {{< relref "cidade-de-deus" >}}
+[Como é Cruel Viver Assim]: {{< relref "como-e-cruel-viver-assim" >}}
+[Dez]: {{< relref "dez" >}}
+[Domingos]: {{< relref "domingos" >}}
+[Em Pedaços]: {{< relref "em-pedacos" >}}
+[O Amor é Estranho]: {{< relref "o-amor-e-estranho" >}}
+[O Cheiro do Ralo]: {{< relref "o-cheiro-do-ralo" >}}
+[O Farol]: {{< relref "o-farol" >}}
+[O Invasor]: {{< relref "o-invasor" >}}
+[O Mundo Fora do Lugar]: {{< relref "o-mundo-fora-do-lugar" >}}
+[O Voto é Secreto]: {{< relref "o-voto-e-secreto" >}}
+[Para Minha Amada Morta]: {{< relref "para-minha-amada-morta" >}}
+[Paris Te Amo]: {{< relref "paris-te-amo" >}}
+[Partida]: {{< relref "partida" >}}
+[País do Desejo]: {{< relref "pais-do-desejo" >}}
+[Quebrando o Tabu]: {{< relref "quebrando-o-tabu" >}}
+[Segredos Oficiais]: {{< relref "segredos-oficiais" >}}
+[Tropa de Elite]: {{< relref "tropa-de-elite" >}}
+[adaptação do livro Ender's Game]: {{< relref "enders-game-o-jogo-do-exterminador" >}}

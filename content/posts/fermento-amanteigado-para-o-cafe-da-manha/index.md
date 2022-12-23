@@ -25,4 +25,4 @@ Deixe por uns 20 minutos ou até ver que a casca está marrom-dourado com alguns
 
 Sirva quente ou aguarde esfriar para armazenar por uns dias em temperatura ambiente ou no freezer por muito tempo.
 
-[biscoitos]: {{< ref "biscoito-fermento-natural" >}}
+[biscoitos]: {{< relref "biscoito-fermento-natural" >}}

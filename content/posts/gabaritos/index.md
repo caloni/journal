@@ -49,5 +49,5 @@ Dessa forma, não pretendo ensinar a usar "templates" em C, mas a usá-los em C+
 
 Mais sobre isso em um próximo post.
 
-[artigo]: {{< ref "os-diferentes-erros-na-linguagem-c" >}}
-[palestra]: {{< ref "entendendo-a-compilacao" >}}
+[artigo]: {{< relref "os-diferentes-erros-na-linguagem-c" >}}
+[palestra]: {{< relref "entendendo-a-compilacao" >}}

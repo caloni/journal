@@ -191,4 +191,4 @@ Até agora, a maneira que eu tenho utilizado para rastrear esse problema é não
 
 Se você tiver realmente __3 * 10 ^ 666__ de LIBs, boa sorte =).
 
-[passo-a-passo da compilação]: {{< ref "entendendo-a-compilacao" >}}
+[passo-a-passo da compilação]: {{< relref "entendendo-a-compilacao" >}}

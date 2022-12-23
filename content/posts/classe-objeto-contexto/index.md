@@ -78,4 +78,4 @@ void MinhaClasse_MeuMetodo(MinhaClasse* pThis)
 
 Em um [próximo post] vamos ver como fazer para chamar MeuOutroMetodo a partir de uma estrutura em C.
 
-[próximo post]: {{< ref "classe-objeto-contexto-metodo" >}}
+[próximo post]: {{< relref "classe-objeto-contexto-metodo" >}}

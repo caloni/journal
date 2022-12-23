@@ -21,7 +21,7 @@ Por fim, se o uso de uma aposta final que una todos os finais soe a princípio f
 
 Dito isto, O Lado Bom da Vida não se esforça como uma produção "indie" (o estilo, não o orçamento) em tornar os seus personagens queridinhos por terem uma plantação de produtos orgânicos e namorarem uma negra (vide [Minhas Mães e Meu Pai]). Os personagens já são fascinantes apenas por existirem, e o filme apenas nos faz conhecê-los de corpo e alma em duas horas. E o faz muito bem.
 
-[Inverno da Alma]: {{< ref "inverno-da-alma" >}}
-[Minhas Mães e Meu Pai]: {{< ref "minhas-maes-e-meu-pai" >}}
-[O Vencedor]: {{< ref "o-vencedor" >}}
-[Pequena Miss Sunshine]: {{< ref "pequena-miss-sunshine" >}}
+[Inverno da Alma]: {{< relref "inverno-da-alma" >}}
+[Minhas Mães e Meu Pai]: {{< relref "minhas-maes-e-meu-pai" >}}
+[O Vencedor]: {{< relref "o-vencedor" >}}
+[Pequena Miss Sunshine]: {{< relref "pequena-miss-sunshine" >}}

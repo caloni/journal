@@ -27,8 +27,8 @@ Por fim, Tony Stark continuará sendo o mesmo Tony Stark de sempre. Talvez seja 
 
 Obs.: Após os créditos há uma breve, mas espirituosa cena que explica a narrativa da história, e que, sim, mais uma vez remete aos Vingadores.
 
-[Homem de Ferro 2]: {{< ref "homem-de-ferro-2" >}}
-[Os Vingadores]: {{< ref "os-vingadores" >}}
-[Superman de John Williams]: {{< ref "superman-o-filme" >}}
-[Superman]: {{< ref "o-homem-de-aco" >}}
-[último Batman]: {{< ref "batman-o-cavaleiro-das-trevas-ressurge" >}}
+[Homem de Ferro 2]: {{< relref "homem-de-ferro-2" >}}
+[Os Vingadores]: {{< relref "os-vingadores" >}}
+[Superman de John Williams]: {{< relref "superman-o-filme" >}}
+[Superman]: {{< relref "o-homem-de-aco" >}}
+[último Batman]: {{< relref "batman-o-cavaleiro-das-trevas-ressurge" >}}

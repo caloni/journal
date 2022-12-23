@@ -17,4 +17,4 @@ Instigante o suficiente para continuar assistindo, mas preguiçoso nos detalhes 
 
 Além disso, no original, as garota realmente podem morrer. No primeiro episódio isso ocorre. O peso dramático da história se estabelece conforme vemos uma das garota perder a vida na luta contra uma bruxa. O perigo é real. Apenas dessa forma você consegue fazer o espectador prestar atenção. Do contrário é uma fantasia inofensiva. E jogável.
 
-[Madoka Mágica]: {{< ref "madoka-magica" >}}
+[Madoka Mágica]: {{< relref "madoka-magica" >}}

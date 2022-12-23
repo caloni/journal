@@ -15,5 +15,5 @@ O que vimos é uma sucessão de mais do mesmo de [Mercenários], só que melhor 
 
 Podem falar o que quiser do novo filme do Stallone, mas não podem negar o óbvio: a aposta de juntar o maior número possível de peças de musel de filmes de ação de décadas passadas parece estar ganha. Quer dizer, pelo menos até [Mercenários 3].
 
-[Mercenários]: {{< ref "os-mercenarios" >}}
-[Mercenários 3]: {{< ref "mercenarios-3" >}}
+[Mercenários]: {{< relref "os-mercenarios" >}}
+[Mercenários 3]: {{< relref "mercenarios-3" >}}

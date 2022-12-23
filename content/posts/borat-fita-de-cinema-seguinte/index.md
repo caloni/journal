@@ -15,4 +15,4 @@ A garota é interpretada por Maria Bakalova, uma atriz búlgara que nos entrega 
 
 O melhor momento do longa é real: se trata da captura de um discurso no início da pandemia, quando algum dos manda-chuvas do governo diz que por conta da quarentena ter sido iniciada um mês antes do recomendado pela OMS e até mesmo pelo partido dos democratas, oposição na época, as mortes foram contidas em seu mínimo. Um motivo para comemorar no passado que hoje em retrospecto serve de reflexão: teríamos mais mortes aindas caso Hillary estivesse no poder?
 
-[Os Supeitos]: {{< ref "os-suspeitos" >}}
+[Os Supeitos]: {{< relref "os-suspeitos" >}}

@@ -25,4 +25,4 @@ Uma brincadeira/referência interessante a Nikola Tesla, que anda cada vez mais 
 
 Assistindo filmes da Disney hoje em dia quer dizer não ver apenas referências toscas ao seu universo comprado, como o despertador de Buzz Lightyear de [Toy Story], mas uma tentativa de reconstrução admirável da cena das vassouras em Fantasia, com direito à mesma trilha sonora. Foi o momento mais mágico do filme. Pelo esforço e pela nostalgia.
 
-[Toy Story]: {{< ref "toy-story" >}}
+[Toy Story]: {{< relref "toy-story" >}}

@@ -15,4 +15,4 @@ De qualquer forma, a fotografia sóbria e fria nos leva para o campo das memóri
 
 A direção de Phyllida Lloyd, já conhecida pela quase-catástrofe chamada "Mamma Mia! O Filme", apenas piora isso, inserindo idas e vindas que nada acrescentam e em muito complicam. Ao final temos a sensação de realmente nunca termos conhecido MT como esperaríamos de um filme sobre sua vida. Se em [Cidadão Kane] isso é uma virtude, pois afinal estamos ouvindo o depoimento de diversas pessoas que conheciam cada um uma faceta do magnata, em A Dama de Ferro é um grave defeito, pois as impressões vêm direto da própria pessoa, e não há prova mais incontestável das contradições da história do que a última cena, onde vemos nossa protagonista realizar um ato que por si só é simbólico para os espectadores atentos que notarem um dos seus primeiros discursos, voltado para o estereótipo da mulher. Se isso não é covardia cinematográfica, difícil saber o que é.
 
-[Cidadão Kane]: {{< ref "cidadao-kane" >}}
+[Cidadão Kane]: {{< relref "cidadao-kane" >}}

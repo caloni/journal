@@ -171,6 +171,6 @@ Abaixo um código-fonte equivalente, devidamente desencriptado:
 
 [The International Obfuscated C Code Contest]: http://www.ioccc.org
 [menção desonrosa]: http://www.ioccc.org/1984/anonymous/anonymous.c
-[peculiaridades sobre o operador de subscrito]: {{< ref "curiosidades-inuteis-o-operador-de-subscrito-em-c" >}}
-[livro de K&R]: {{< ref "the-c-programming-language" >}}
+[peculiaridades sobre o operador de subscrito]: {{< relref "curiosidades-inuteis-o-operador-de-subscrito-em-c" >}}
+[livro de K&R]: {{< relref "the-c-programming-language" >}}
 [referência GNU]: http://www.gnu.org/software/libc/manual/html_node/Descriptors-and-Streams.html#index-STDIN_005fFILENO-1235

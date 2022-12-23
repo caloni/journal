@@ -15,6 +15,6 @@ Porém, diferente dos trabalhos anteriores do diretor/roteirista que analisam es
 
 Sokurov encanta por sua simplicidade, embora às vezes apenas isso não baste para nossos olhos ansiosos.
 
-[Fausto]: {{< ref "fausto" >}}
-[Felicidade]: {{< ref "felicidade" >}}
-[Mãe e Filho]: {{< ref "mae-e-filho" >}}
+[Fausto]: {{< relref "fausto" >}}
+[Felicidade]: {{< relref "felicidade" >}}
+[Mãe e Filho]: {{< relref "mae-e-filho" >}}

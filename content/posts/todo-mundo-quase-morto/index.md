@@ -17,5 +17,5 @@ A própria sequência do personagem de Simon indo buscar seu jornal e alguma coi
 
 Essa piada foi reciclada por Wright em um de seus trabalhos posteriores, quase uma continuação da vida de Shaun. Em [Heróis de Ressaca], uma comédia sobre perdedores, vemos novamente Simon Pegg, Nick Frost e até Martin Freeman, que faz aqui uma ponta, juntos de novo, mas adultos e quarentões. É uma versão melhorada, onde existe ainda o charme da informalidade, mas junto das habilidades de um diretor mais maduro.
 
-[Scott Pilgrim Contra o Mundo]: {{< ref "scott-pilgrim-contra-o-mundo" >}}
-[Heróis de Ressaca]: {{< ref "herois-de-ressaca" >}}
+[Scott Pilgrim Contra o Mundo]: {{< relref "scott-pilgrim-contra-o-mundo" >}}
+[Heróis de Ressaca]: {{< relref "herois-de-ressaca" >}}

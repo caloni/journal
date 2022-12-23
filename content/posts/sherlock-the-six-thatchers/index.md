@@ -15,4 +15,4 @@ No entanto, este exemplar é obviamente superior a tudo que se faz em torno de s
 
  - 2020-12-02: Sherlock já começa a inventar histórias que soam um pouco melodramáticas demais. Porém, foi o jeito para continuar com esta última, derradeira, temporada. Ladeira abaixo, mas ainda bem acima da média.
 
-[episódio anterior]: {{< ref "sherlock-the-abominable-bride" >}}
+[episódio anterior]: {{< relref "sherlock-the-abominable-bride" >}}

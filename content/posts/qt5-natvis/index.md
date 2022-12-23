@@ -11,4 +11,4 @@ Existe um arquivo pronto circulando pela net chamado qt5.natvis. Alguns funciona
 
 Se você é admin de sua máquina, basta copiar este arquivo em %programfiles(x86)%, Microsoft Visual Studio, 2017, Enterprise, Common7, Packages, Debugger, Visualizers. Se for um usuário mané, em %USERPROFILE%, Documents, Visual Studio 2017, Visualizers.
 
-[último artigo sobre Qt]: {{< ref "visualizando-qstring-no-visual-studio" >}}
+[último artigo sobre Qt]: {{< relref "visualizando-qstring-no-visual-studio" >}}

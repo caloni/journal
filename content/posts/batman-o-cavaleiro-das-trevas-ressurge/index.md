@@ -17,5 +17,5 @@ Nesse ambiente nada saudável, é até natural que Alfred (Michael Caine), mordo
 
 As respostas para essas perguntas não fazem parte do roteiro da família Nolan, apenas a sequência irretocável do seu retorno, que se esforça em nunca deixar que espectador saiba o quão fundo do poço se encontra o nosso Bruce (e daí vem sua força dramática, pois nós mesmos nunca sabemos o quão fundo vivemos). E é nesse universo sombrio e doentio que floresce uma luta sem causa e sem mérito. Onde nós, heróis e vilões anônimos, vamos sendo manipulados em prol da sobrevivência, somente. Não há glórias nesses céu e inferno.
 
-[Batman, O Cavaleiro das Trevas]: {{< ref "batman-o-cavaleiro-das-trevas" >}}
-[fruto da mesma violência]: {{< ref "batman-begins" >}}
+[Batman, O Cavaleiro das Trevas]: {{< relref "batman-o-cavaleiro-das-trevas" >}}
+[fruto da mesma violência]: {{< relref "batman-begins" >}}

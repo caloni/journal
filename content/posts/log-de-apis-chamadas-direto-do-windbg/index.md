@@ -96,4 +96,4 @@ Note, por exemplo, que houve uma falha antes na abertura do mesmo arquivo, mas i
 
 Como já havia dito no artigo original sobre o logview, você pode criar seu próprio header com as definições das funções de um módulo e o WinDbg graciosamente irá gerar um log de chamadas, incluindo medidas de performance. Esses dados abertos pelo logviewer podem ser exportados também para modo texto. E temos mais uma maneira de perfcounter chulé para eventualidades.
 
-[muito tempo atrás]: {{< ref "introducao-ao-debugging-tools-for-windows" >}}
+[muito tempo atrás]: {{< relref "introducao-ao-debugging-tools-for-windows" >}}

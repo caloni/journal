@@ -11,4 +11,4 @@ Essa história sobre a mudança dos valores sob vários aspectos é uma abordage
 
 Com detalhes que mesclam realidade e sonho, o filme acaba realizando um entrecorte que não necessariamente faz sentido, mas que acompanha principalmente a ascensão da mãe dessa família, Emma Recchi (Tilda Swinton), mais sob o aspecto amoroso, mas que faz rima com a ascenção da própria empresa familiar, que para crescer necessita se aventurar no universo das aquisições e fusões do mundo capitalista. E por falar em rima, faz de sua abordagem uma narrativa muito mais efetiva do que seu antecessor temático (outro italiano) [Baarìa], de Tornatore, no sentido de unir pessoas e valores.
 
-[Baarìa]: {{< ref "baaria-a-porta-do-vento" >}}
+[Baarìa]: {{< relref "baaria-a-porta-do-vento" >}}

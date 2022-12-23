@@ -15,4 +15,4 @@ A presença de um jovem padre recém-chegado, um padre veterano e um padre morto
 
 Trapero não diz nada disso, mas mostra através de sons e imagens. O som ecoa e aumenta o seu "grito" em momentos específicos da trama como a querer chamar a atenção do resto do mundo. As belíssimas sequências estão cumprindo a função de nos mostrar extensão: no início a extensão da própria favela (miséria); no protesto dos moradores a extensão da opressão; e, por fim, na irretocável sequência da fuga de carro, a extensão daquele destino que parece insistir em se repetir, imutável.
 
-[Abutres]: {{< ref "abutres" >}}
+[Abutres]: {{< relref "abutres" >}}

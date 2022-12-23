@@ -15,4 +15,4 @@ Mesmo assim, há que se dar créditos por detalhes que divertem enquanto criam u
 
 Não um grande filme, mas longe de ser um desastre.
 
-[Spartacus]: {{< ref "spartacus" >}}
+[Spartacus]: {{< relref "spartacus" >}}

@@ -17,4 +17,4 @@ Mas este nunca vira um filme de fato. É um ou vários episódios da série junt
 
 No entanto, as músicas são muito boas, embora não se encaixem no que vemos na tela. O remix dos créditos finais do tema principal da série é um brinde a mais, por termos assistido a este assassinato do original. E ainda dedicam o filme ao criador da série, Stephen Hillenburg. É um clichê dizer isso, mas ele deve estar se revirando do túmulo.
 
-[filme original]: {{< ref "bob-esponja-o-filme" >}}
+[filme original]: {{< relref "bob-esponja-o-filme" >}}

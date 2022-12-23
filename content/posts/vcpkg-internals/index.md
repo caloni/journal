@@ -539,4 +539,4 @@ E voilá! Agora o include está disponível, as funções estão disponíveis, o
 
 {{< image src="XeeD4Se.png" caption="" >}}
 
-[parseamento de argumentos]: {{< ref "getarg" >}}
+[parseamento de argumentos]: {{< relref "getarg" >}}

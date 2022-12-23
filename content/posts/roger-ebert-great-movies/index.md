@@ -373,73 +373,73 @@ title: Roger Ebert Great Movies
  - Yellow Submarine 1968
  - Yojimbo 1961
 
-[2001: Uma Odisseia no Espaço]: {{< ref "2001-uma-odisseia-no-espaco" >}}
-[Adaptação]: {{< ref "adaptacao" >}}
-[Alien]: {{< ref "alien-o-oitavo-passageiro" >}}
-[A Malvada]: {{< ref "a-malvada-all-about-eve" >}}
-[Amadeus]: {{< ref "amadeus" >}}
-[Noivo Neurótico, Noiva Nervosa]: {{< ref "noivo-neurotico-noiva-nervosa" >}}
-[Se Meu Apartamento Falasse]: {{< ref "se-meu-apartamento-falasse" >}}
-[007 Contra Goldfinger]: {{< ref "007-contra-goldfinger" >}}
-[A Marca da Maldade]: {{< ref "a-marca-da-maldade" >}}
-[A Partida]: {{< ref "a-partida" >}}
-[A Ponte do Rio Kwai]: {{< ref "a-ponte-do-rio-kwai" >}}
-[A Viagem de Chihiro]: {{< ref "a-viagem-de-chihiro" >}}
-[Antes Só do que Mal Acompanhado]: {{< ref "antes-so-do-que-mal-acompanhado" >}}
-[Barry Lyndon]: {{< ref "barry-lyndon" >}}
-[Blade Runner]: {{< ref "blade-runner" >}}
-[Branca de Neve e Os Sete Anões]: {{< ref "branca-de-neve-e-os-sete-anoes" >}}
-[Brilho Eterno de Uma Mente Sem Lembranças]: {{< ref "brilho-eterno-de-uma-mente-sem-lembrancas" >}}
-[Cidadão Kane]: {{< ref "cidadao-kane" >}}
-[Cléo das 5 às 7]: {{< ref "cleo-das-5-as-7" >}}
-[Contato]: {{< ref "contato" >}}
-[Conto de Inverno]: {{< ref "conto-de-inverno" >}}
-[Crimes and Misdemeanors]: {{< ref "crimes-e-pecados" >}}
-[Curva do Destino]: {{< ref "curva-do-destino" >}}
-[Dr. Fantástico]: {{< ref "dr-fantastico" >}}
-[Easy Rider]: {{< ref "easy-rider" >}}
-[Encontros e Desencontros]: {{< ref "encontros-e-desencontros" >}}
-[Era Uma Vez em Tóquio]: {{< ref "era-uma-vez-em-toquio" >}}
-[Fargo]: {{< ref "fargo" >}}
-[Feitiço do Tempo]: {{< ref "feitico-do-tempo" >}}
-[Janela Indiscreta]: {{< ref "janela-indiscreta" >}}
-[Juventude Transviada]: {{< ref "juventude-transviada" >}}
-[L.A. Confidential]: {{< ref "la-confidential" >}}
-[Ladrões de Bicicleta]: {{< ref "ladroes-de-bicicletas" >}}
-[Lawrence of Arabia]: {{< ref "lawrence-da-arabia" >}}
-[Leaving Las Vegas]: {{< ref "despedida-em-las-vegas" >}}
-[M, O Vampiro de Dusseldorf]: {{< ref "m-o-vampiro-de-dusseldorf" >}}
-[Man with a Movie Camera]: {{< ref "man-with-a-movie-camera" >}}
-[Manhattan]: {{< ref "manhattan" >}}
-[Marinheiro de Encomenda]: {{< ref "marinheiro-de-encomenda" >}}
-[Metropolis]: {{< ref "metropolis" >}}
-[Meu Amigo Totoro]: {{< ref "meu-amigo-totoro" >}}
-[Nosferatu]: {{< ref "nosferatu" >}}
-[O Encouraçado Potemkin]: {{< ref "o-encouracado-potemkin" >}}
-[O Gabinete do Dr. Caligari]: {{< ref "o-gabinete-do-dr-caligari" >}}
-[O Grande Golpe]: {{< ref "o-grande-golpe" >}}
-[O Grande Lebowski]: {{< ref "o-grande-lebowski" >}}
-[O Labirinto do Fauno]: {{< ref "o-labirinto-do-fauno" >}}
-[O Mágico de Oz]: {{< ref "o-magico-de-oz" >}}
-[O Terceiro Homem]: {{< ref "o-terceiro-homem" >}}
-[Os Bons Companheiros]: {{< ref "os-bons-companheiros" >}}
-[Os Caçadores da Arca Perdida]: {{< ref "os-cacadores-da-arca-perdida" >}}
-[Os Embalos de Sábado à Noite]: {{< ref "os-embalos-de-sabado-a-noite" >}}
-[Os Reis do Iê-Iê-Iê]: {{< ref "os-reis-do-ieieie" >}}
-[Pink Floyd: The Wall]: {{< ref "pink-floyd-the-wall" >}}
-[Pixote]: {{< ref "pixote-a-lei-do-mais-fraco" >}}
-[Primavera, Verão, Outono, Inverno... e Primavera]: {{< ref "primavera-verao-outono-inverno-e-primavera" >}}
-[Psicose]: {{< ref "psicose" >}}
-[Pulp Fiction]: {{< ref "pulp-fiction-tempo-de-violencia" >}}
-[Quanto Mais Quente Melhor]: {{< ref "quanto-mais-quente-melhor" >}}
-[Rede de Intrigas]: {{< ref "rede-de-intrigas" >}}
-[Scarface]: {{< ref "scarface" >}}
-[Solaris]: {{< ref "solaris" >}}
-[Star Wars: Guerra nas Estrelas]: {{< ref "star-wars-guerra-nas-estrelas" >}}
-[Superman]: {{< ref "superman-o-filme" >}}
-[Taxi Driver]: {{< ref "taxi-driver" >}}
-[The Conversation]: {{< ref "a-conversacao" >}}
-[The General]: {{< ref "general" >}}
-[Três Homens em Conflito]: {{< ref "tres-homens-em-conflito" >}}
-[Túmulo dos Vagalumes]: {{< ref "tumulo-dos-vagalumes" >}}
-[Um Corpo que Cai]: {{< ref "um-corpo-que-cai" >}}
+[2001: Uma Odisseia no Espaço]: {{< relref "2001-uma-odisseia-no-espaco" >}}
+[Adaptação]: {{< relref "adaptacao" >}}
+[Alien]: {{< relref "alien-o-oitavo-passageiro" >}}
+[A Malvada]: {{< relref "a-malvada-all-about-eve" >}}
+[Amadeus]: {{< relref "amadeus" >}}
+[Noivo Neurótico, Noiva Nervosa]: {{< relref "noivo-neurotico-noiva-nervosa" >}}
+[Se Meu Apartamento Falasse]: {{< relref "se-meu-apartamento-falasse" >}}
+[007 Contra Goldfinger]: {{< relref "007-contra-goldfinger" >}}
+[A Marca da Maldade]: {{< relref "a-marca-da-maldade" >}}
+[A Partida]: {{< relref "a-partida" >}}
+[A Ponte do Rio Kwai]: {{< relref "a-ponte-do-rio-kwai" >}}
+[A Viagem de Chihiro]: {{< relref "a-viagem-de-chihiro" >}}
+[Antes Só do que Mal Acompanhado]: {{< relref "antes-so-do-que-mal-acompanhado" >}}
+[Barry Lyndon]: {{< relref "barry-lyndon" >}}
+[Blade Runner]: {{< relref "blade-runner" >}}
+[Branca de Neve e Os Sete Anões]: {{< relref "branca-de-neve-e-os-sete-anoes" >}}
+[Brilho Eterno de Uma Mente Sem Lembranças]: {{< relref "brilho-eterno-de-uma-mente-sem-lembrancas" >}}
+[Cidadão Kane]: {{< relref "cidadao-kane" >}}
+[Cléo das 5 às 7]: {{< relref "cleo-das-5-as-7" >}}
+[Contato]: {{< relref "contato" >}}
+[Conto de Inverno]: {{< relref "conto-de-inverno" >}}
+[Crimes and Misdemeanors]: {{< relref "crimes-e-pecados" >}}
+[Curva do Destino]: {{< relref "curva-do-destino" >}}
+[Dr. Fantástico]: {{< relref "dr-fantastico" >}}
+[Easy Rider]: {{< relref "easy-rider" >}}
+[Encontros e Desencontros]: {{< relref "encontros-e-desencontros" >}}
+[Era Uma Vez em Tóquio]: {{< relref "era-uma-vez-em-toquio" >}}
+[Fargo]: {{< relref "fargo" >}}
+[Feitiço do Tempo]: {{< relref "feitico-do-tempo" >}}
+[Janela Indiscreta]: {{< relref "janela-indiscreta" >}}
+[Juventude Transviada]: {{< relref "juventude-transviada" >}}
+[L.A. Confidential]: {{< relref "la-confidential" >}}
+[Ladrões de Bicicleta]: {{< relref "ladroes-de-bicicletas" >}}
+[Lawrence of Arabia]: {{< relref "lawrence-da-arabia" >}}
+[Leaving Las Vegas]: {{< relref "despedida-em-las-vegas" >}}
+[M, O Vampiro de Dusseldorf]: {{< relref "m-o-vampiro-de-dusseldorf" >}}
+[Man with a Movie Camera]: {{< relref "man-with-a-movie-camera" >}}
+[Manhattan]: {{< relref "manhattan" >}}
+[Marinheiro de Encomenda]: {{< relref "marinheiro-de-encomenda" >}}
+[Metropolis]: {{< relref "metropolis" >}}
+[Meu Amigo Totoro]: {{< relref "meu-amigo-totoro" >}}
+[Nosferatu]: {{< relref "nosferatu" >}}
+[O Encouraçado Potemkin]: {{< relref "o-encouracado-potemkin" >}}
+[O Gabinete do Dr. Caligari]: {{< relref "o-gabinete-do-dr-caligari" >}}
+[O Grande Golpe]: {{< relref "o-grande-golpe" >}}
+[O Grande Lebowski]: {{< relref "o-grande-lebowski" >}}
+[O Labirinto do Fauno]: {{< relref "o-labirinto-do-fauno" >}}
+[O Mágico de Oz]: {{< relref "o-magico-de-oz" >}}
+[O Terceiro Homem]: {{< relref "o-terceiro-homem" >}}
+[Os Bons Companheiros]: {{< relref "os-bons-companheiros" >}}
+[Os Caçadores da Arca Perdida]: {{< relref "os-cacadores-da-arca-perdida" >}}
+[Os Embalos de Sábado à Noite]: {{< relref "os-embalos-de-sabado-a-noite" >}}
+[Os Reis do Iê-Iê-Iê]: {{< relref "os-reis-do-ieieie" >}}
+[Pink Floyd: The Wall]: {{< relref "pink-floyd-the-wall" >}}
+[Pixote]: {{< relref "pixote-a-lei-do-mais-fraco" >}}
+[Primavera, Verão, Outono, Inverno... e Primavera]: {{< relref "primavera-verao-outono-inverno-e-primavera" >}}
+[Psicose]: {{< relref "psicose" >}}
+[Pulp Fiction]: {{< relref "pulp-fiction-tempo-de-violencia" >}}
+[Quanto Mais Quente Melhor]: {{< relref "quanto-mais-quente-melhor" >}}
+[Rede de Intrigas]: {{< relref "rede-de-intrigas" >}}
+[Scarface]: {{< relref "scarface" >}}
+[Solaris]: {{< relref "solaris" >}}
+[Star Wars: Guerra nas Estrelas]: {{< relref "star-wars-guerra-nas-estrelas" >}}
+[Superman]: {{< relref "superman-o-filme" >}}
+[Taxi Driver]: {{< relref "taxi-driver" >}}
+[The Conversation]: {{< relref "a-conversacao" >}}
+[The General]: {{< relref "general" >}}
+[Três Homens em Conflito]: {{< relref "tres-homens-em-conflito" >}}
+[Túmulo dos Vagalumes]: {{< relref "tumulo-dos-vagalumes" >}}
+[Um Corpo que Cai]: {{< relref "um-corpo-que-cai" >}}

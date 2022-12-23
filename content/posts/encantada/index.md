@@ -21,7 +21,7 @@ O que não se pode dizer do sistema de pistas e recompensas com que o filme sabi
 
 Dessa forma, podemos dizer que o esforço narrativo sobre o absurdo da história, assim como a eterna batalha entre o bem e o mal, prevalece.
 
-[Branca de Neve]: {{< ref "branca-de-neve-e-os-sete-anoes" >}}
-[Hop: Rebelde Sem Páscoa]: {{< ref "hop-rebeldes-sem-pascoa" >}}
-[O Vencedor]: {{< ref "o-vencedor" >}}
-[série Harry Potter]: {{< ref "harry-potter-e-o-prisioneiro-de-azkaban" >}}
+[Branca de Neve]: {{< relref "branca-de-neve-e-os-sete-anoes" >}}
+[Hop: Rebelde Sem Páscoa]: {{< relref "hop-rebeldes-sem-pascoa" >}}
+[O Vencedor]: {{< relref "o-vencedor" >}}
+[série Harry Potter]: {{< relref "harry-potter-e-o-prisioneiro-de-azkaban" >}}

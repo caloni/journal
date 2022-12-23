@@ -70,10 +70,10 @@ Originalmente a receita era com cará, mas com a ajuda da Mitiko criei este form
 
 Sim, ele é um tipo de pão: festivo, doce, aromático e, quando feito com paciência e dedicação, delicioso. Minha [receita oficial] tem melhorado a cada ano. Não confunda com a versão de pobre (nunca faça a versão de pobre; melhor comprar).
 
-[um poste em andamento]: {{< ref "como-fazer-pizza" >}}
-[pão de queijo]: {{< ref "pao-de-queijo" >}}
-[da minha sogra]: {{< ref "pao-de-forma-da-dona-neusa" >}}
-[pão de queijo ao estilo mineiro]: {{< ref "pao-de-queijo" >}}
-[pão de queijo mais rápido e fácil de fazer]: {{< ref "pao-de-queijo-facil" >}}
-[usa banana reduzida]: {{< ref "pao-tranca-de-banana" >}}
-[receita oficial]: {{< ref "panetone" >}}
+[um poste em andamento]: {{< relref "como-fazer-pizza" >}}
+[pão de queijo]: {{< relref "pao-de-queijo" >}}
+[da minha sogra]: {{< relref "pao-de-forma-da-dona-neusa" >}}
+[pão de queijo ao estilo mineiro]: {{< relref "pao-de-queijo" >}}
+[pão de queijo mais rápido e fácil de fazer]: {{< relref "pao-de-queijo-facil" >}}
+[usa banana reduzida]: {{< relref "pao-tranca-de-banana" >}}
+[receita oficial]: {{< relref "panetone" >}}

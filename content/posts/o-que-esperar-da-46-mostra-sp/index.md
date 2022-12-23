@@ -87,57 +87,57 @@ Valentin Merz é o responsável por [À Noite Todos os Gatos São Pardos], um fi
 
 Zeca Brito documentou [A Vida Extra-Ordinária de Tarso de Castro], uma figura da época em que os jornalistas faziam jornalismo. Investigativo, inclusive. Teci alguns elogios a esta obra quando fui na cabine. É dele também [Legalidade], um trabalho já mais torto, que apela para o há muito tempo esquecido patriotismo na remota época dos anos 60, de onde se fala ainda muito, mas pouco se conhece. Tem Cleo Pires no elenco. É um diretor que vale a pena ficar de olho, seja pelo seu nome ser um trocadilho engraçado ou por esses dois filmes citados. Quem sabe surge um terceiro com mais concisão?
 
-[Meu Nome Não é Ruben Blades]: {{< ref "meu-nome-nao-e-ruben-blades" >}}
-[Alexandra]: {{< ref "alexandra" >}}
-[O Menino e o Mundo]: {{< ref "o-menino-e-o-mundo" >}}
-[Das Tripas Coração]: {{< ref "das-tripas-coracao" >}}
-[Elegia De Um Crime]: {{< ref "elegia-de-um-crime" >}}
-[Computer Chess]: {{< ref "computer-chess" >}}
-[Que Horas Ela Volta?]: {{< ref "que-horas-ela-volta" >}}
-[Somos Tão Jovens]: {{< ref "somos-tao-jovens" >}}
-[A Suprema Felicidade]: {{< ref "a-suprema-felicidade" >}}
-[Argentina]: {{< ref "argentina" >}}
-[Argentina] é primoroso e seu clássico [Cria Corvos]: {{< ref "cria-corvos" >}}
-[Ninguém Tá Olhando]: {{< ref "ninguem-ta-olhando" >}}
-[Deixe a Luz Do Sol Entrar]: {{< ref "deixe-a-luz-do-sol-entrar" >}}
-[Elegia de Um Crime]: {{< ref "elegia-de-um-crime" >}}
-[Elegia de Um Crime]. Seu filme [Fome]: {{< ref "fome" >}}
-[Cidade de Deus]: {{< ref "cidade-de-deus" >}}
-[Takara: A Noite que Nadei]: {{< ref "takara-a-noite-que-nadei" >}}
-[Antologia da Cidade Fantasma]: {{< ref "antologia-da-cidade-fantasma" >}}
-[Higiene Social]: {{< ref "higiene-social" >}}
-[Caprice: Amor à Francesa]: {{< ref "caprice-amor-a-francesa" >}}
-[Scheme]: {{< ref "scheme" >}}
-[Domingo]: {{< ref "domingo" >}}
-[Os Pobres Diabos]: {{< ref "os-pobres-diabos" >}}
-[A Câmera de Claire]: {{< ref "a-camera-de-claire" >}}
-[Encontros]: {{< ref "encontros" >}}
-[Ninguém Deseja a Noite]: {{< ref "ninguem-deseja-a-noite" >}}
-[Caçadora de Tesouros]: {{< ref "kumiko-a-cacadora-de-tesouros" >}}
-[Fargo]: {{< ref "fargo" >}}
-[O Balão Branco]: {{< ref "o-balao-branco" >}}
-[O Círculo]: {{< ref "o-circulo" >}}
-[Era Uma Vez em Nova Iorque]: {{< ref "a-imigrante" >}}
-[Ad Astra]: {{< ref "ad-astra" >}}
-[Festa de Família]: {{< ref "festa-de-familia" >}}
-[Dançando no Escuro]: {{< ref "dancando-no-escuro" >}}
-[As Invisíveis]: {{< ref "as-invisiveis" >}}
-[Era Uma Vez Eu, Verônica]: {{< ref "era-uma-vez-eu-veronica" >}}
-[Estou Me Guardando Para Quando O Carnaval Chegar]: {{< ref "estou-me-guardando-para-quando-o-carnaval-chegar" >}}
-[Belos Sonhos]: {{< ref "belos-sonhos" >}}
-[Irmãs, Jamais]: {{< ref "irmas-jamais" >}}
-[O Pai dos Meus Filhos]: {{< ref "o-pai-dos-meus-filhos" >}}
-[A Jaqueta de Couro de Cervo]: {{< ref "a-jaqueta-de-couro-de-cervo" >}}
-[A Valsa de Waldheim]: {{< ref "a-valsa-de-waldheim" >}}
-[Mutzenbacher]: {{< ref "mutzenbacher" >}}
-[Onde Quer Que Você Esteja]: {{< ref "onde-quer-que-voce-esteja" >}}
-[Cidade Baixa]: {{< ref "cidade-baixa" >}}
-[Raiva]: {{< ref "raiva" >}}
-[O Farol]: {{< ref "o-farol" >}}
-[A Bruxa]: {{< ref "a-bruxa-2015" >}}
-[Além das Palavras]: {{< ref "alem-das-palavras" >}}
-[A Causa e a Sombra]: {{< ref "a-causa-e-a-sombra" >}}
-[Restos do Vento]: {{< ref "restos-do-vento" >}}
-[À Noite Todos os Gatos São Pardos]: {{< ref "a-noite-todos-os-gatos-sao-pardos" >}}
-[A Vida Extra-Ordinária de Tarso de Castro]: {{< ref "a-vida-extra-ordinaria-de-tarso-de-castro" >}}
-[Legalidade]: {{< ref "legalidade" >}}
+[Meu Nome Não é Ruben Blades]: {{< relref "meu-nome-nao-e-ruben-blades" >}}
+[Alexandra]: {{< relref "alexandra" >}}
+[O Menino e o Mundo]: {{< relref "o-menino-e-o-mundo" >}}
+[Das Tripas Coração]: {{< relref "das-tripas-coracao" >}}
+[Elegia De Um Crime]: {{< relref "elegia-de-um-crime" >}}
+[Computer Chess]: {{< relref "computer-chess" >}}
+[Que Horas Ela Volta?]: {{< relref "que-horas-ela-volta" >}}
+[Somos Tão Jovens]: {{< relref "somos-tao-jovens" >}}
+[A Suprema Felicidade]: {{< relref "a-suprema-felicidade" >}}
+[Argentina]: {{< relref "argentina" >}}
+[Argentina] é primoroso e seu clássico [Cria Corvos]: {{< relref "cria-corvos" >}}
+[Ninguém Tá Olhando]: {{< relref "ninguem-ta-olhando" >}}
+[Deixe a Luz Do Sol Entrar]: {{< relref "deixe-a-luz-do-sol-entrar" >}}
+[Elegia de Um Crime]: {{< relref "elegia-de-um-crime" >}}
+[Elegia de Um Crime]. Seu filme [Fome]: {{< relref "fome" >}}
+[Cidade de Deus]: {{< relref "cidade-de-deus" >}}
+[Takara: A Noite que Nadei]: {{< relref "takara-a-noite-que-nadei" >}}
+[Antologia da Cidade Fantasma]: {{< relref "antologia-da-cidade-fantasma" >}}
+[Higiene Social]: {{< relref "higiene-social" >}}
+[Caprice: Amor à Francesa]: {{< relref "caprice-amor-a-francesa" >}}
+[Scheme]: {{< relref "scheme" >}}
+[Domingo]: {{< relref "domingo" >}}
+[Os Pobres Diabos]: {{< relref "os-pobres-diabos" >}}
+[A Câmera de Claire]: {{< relref "a-camera-de-claire" >}}
+[Encontros]: {{< relref "encontros" >}}
+[Ninguém Deseja a Noite]: {{< relref "ninguem-deseja-a-noite" >}}
+[Caçadora de Tesouros]: {{< relref "kumiko-a-cacadora-de-tesouros" >}}
+[Fargo]: {{< relref "fargo" >}}
+[O Balão Branco]: {{< relref "o-balao-branco" >}}
+[O Círculo]: {{< relref "o-circulo" >}}
+[Era Uma Vez em Nova Iorque]: {{< relref "a-imigrante" >}}
+[Ad Astra]: {{< relref "ad-astra" >}}
+[Festa de Família]: {{< relref "festa-de-familia" >}}
+[Dançando no Escuro]: {{< relref "dancando-no-escuro" >}}
+[As Invisíveis]: {{< relref "as-invisiveis" >}}
+[Era Uma Vez Eu, Verônica]: {{< relref "era-uma-vez-eu-veronica" >}}
+[Estou Me Guardando Para Quando O Carnaval Chegar]: {{< relref "estou-me-guardando-para-quando-o-carnaval-chegar" >}}
+[Belos Sonhos]: {{< relref "belos-sonhos" >}}
+[Irmãs, Jamais]: {{< relref "irmas-jamais" >}}
+[O Pai dos Meus Filhos]: {{< relref "o-pai-dos-meus-filhos" >}}
+[A Jaqueta de Couro de Cervo]: {{< relref "a-jaqueta-de-couro-de-cervo" >}}
+[A Valsa de Waldheim]: {{< relref "a-valsa-de-waldheim" >}}
+[Mutzenbacher]: {{< relref "mutzenbacher" >}}
+[Onde Quer Que Você Esteja]: {{< relref "onde-quer-que-voce-esteja" >}}
+[Cidade Baixa]: {{< relref "cidade-baixa" >}}
+[Raiva]: {{< relref "raiva" >}}
+[O Farol]: {{< relref "o-farol" >}}
+[A Bruxa]: {{< relref "a-bruxa-2015" >}}
+[Além das Palavras]: {{< relref "alem-das-palavras" >}}
+[A Causa e a Sombra]: {{< relref "a-causa-e-a-sombra" >}}
+[Restos do Vento]: {{< relref "restos-do-vento" >}}
+[À Noite Todos os Gatos São Pardos]: {{< relref "a-noite-todos-os-gatos-sao-pardos" >}}
+[A Vida Extra-Ordinária de Tarso de Castro]: {{< relref "a-vida-extra-ordinaria-de-tarso-de-castro" >}}
+[Legalidade]: {{< relref "legalidade" >}}

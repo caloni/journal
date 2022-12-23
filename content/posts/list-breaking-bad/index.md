@@ -14,9 +14,9 @@ title: Breaking Bad
 - [Quinta Temporada]
 - [Conclusão]
 
-[Primeira Temporada]: {{< ref "breaking-bad-s01" >}}
-[Segunda Temporada]: {{< ref "breaking-bad-s02" >}}
-[Terceira Temporada]: {{< ref "breaking-bad-s03" >}}
-[Quarta Temporada]: {{< ref "breaking-bad-s04" >}}
-[Quinta Temporada]: {{< ref "breaking-bad-s05" >}}
-[Conclusão]: {{< ref "breaking-bad" >}}
+[Primeira Temporada]: {{< relref "breaking-bad-s01" >}}
+[Segunda Temporada]: {{< relref "breaking-bad-s02" >}}
+[Terceira Temporada]: {{< relref "breaking-bad-s03" >}}
+[Quarta Temporada]: {{< relref "breaking-bad-s04" >}}
+[Quinta Temporada]: {{< relref "breaking-bad-s05" >}}
+[Conclusão]: {{< relref "breaking-bad" >}}

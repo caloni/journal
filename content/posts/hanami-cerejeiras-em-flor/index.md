@@ -17,4 +17,4 @@ Esse simbolismo, aliás, também é usado na ideia de que é raro que o Monte Fu
 
 Não é assim com a própria vida, tão efêmera, mas tão valiosa?
 
-[Felicidade]: {{< ref "felicidade" >}}
+[Felicidade]: {{< relref "felicidade" >}}

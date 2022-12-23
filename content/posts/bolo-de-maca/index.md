@@ -16,4 +16,4 @@ O resultado ficou bem próximo do bolo de banana que costumo comer com um amigo 
 
 Para a próxima tentativa irei reduzir a maçã no fogo, parecido com o que eu faço com a banana para minha [trança de banana], imagino com pedaços pequenos e açúcar extra. A ideia é virar quase uma geleia, mas ainda açucarada, e usar essa mistura como base para a massa. Dessa vez vou usar a canela mesmo.
 
-[trança de banana]: {{< ref "pao-tranca-de-banana" >}}
+[trança de banana]: {{< relref "pao-tranca-de-banana" >}}

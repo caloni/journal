@@ -15,5 +15,5 @@ Mesmo com tantas limitações inexistentes nas criações originais da Pixar, ju
 
 Uma pena, pois essa dualidade era marca registrada dos estúdios de John Lasseter.
 
-[Harry Potter]: {{< ref "harry-potter-e-a-pedra-filosofal" >}}
-[Monstros S.A.]: {{< ref "monstros-sa" >}}
+[Harry Potter]: {{< relref "harry-potter-e-a-pedra-filosofal" >}}
+[Monstros S.A.]: {{< relref "monstros-sa" >}}

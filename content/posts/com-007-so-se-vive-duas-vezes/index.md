@@ -15,4 +15,4 @@ Toda grandiosidade em torno da missão do agente britânico logo se explica ao d
 
 O Cinema merecia um herói como esse. Depois de "You Only Live Twice" esse mito se solidifica e se mantém por décadas a fio.
 
-[Skyfall]: {{< ref "007-operacao-skyfall" >}}
+[Skyfall]: {{< relref "007-operacao-skyfall" >}}

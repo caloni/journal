@@ -15,4 +15,4 @@ Além do clichê da família problemática ainda temos o melhor amigo gordinho (
 
 E por falar em tendência, a conclusão das aventuras do menino freak volta a interessar pela discussão importantíssima sobre os reflexos atuais de uma sociedade em pleno século XXI e que se comporta de maneira cada vez mais intolerante para com as diferenças alheias. Só que até chegarmos lá teremos que passar por diálogos capengas emoldurados em cenas irritantemente longas e desnecessárias, tudo para que tenhamos a duração mínima de um filme. Paranorman é o filme que já chega tentando vender uma possível franquia ou série quando deveria ter começado apenas pelo último.
 
-[Frankenweenie]: {{< ref "frankenweenie" >}}
+[Frankenweenie]: {{< relref "frankenweenie" >}}

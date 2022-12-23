@@ -13,5 +13,5 @@ Jack Lemmon, como sempre, tem seus momentos brilhantes. Em exatos cinco segundos
 
 Esta comédia de Billy Wilder mistura ação, gângsters e música, mas não consegue fugir dos diálogos como base. Não envelheceu bem. É simpática no melhor dos casos. Um pouco longa demais, como [Irma la Dulce]. Mas trabalhos posteriores de Wilder na direção e roteiro, [Se Meu Apartamento Falasse], já demonstram mais maturidade em seus personagens. A comédia escrachada, quando não é conduzida por Buster Keaton ou Charlie Chaplin, tem prazo de validade.
 
-[Irma la Dulce]: {{< ref "irma-la-dulce" >}}
-[Se Meu Apartamento Falasse]: {{< ref "se-meu-apartamento-falasse" >}}
+[Irma la Dulce]: {{< relref "irma-la-dulce" >}}
+[Se Meu Apartamento Falasse]: {{< relref "se-meu-apartamento-falasse" >}}

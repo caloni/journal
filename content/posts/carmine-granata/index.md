@@ -12,4 +12,4 @@ Fabio trouxe este Gran Reserva para o churras com picanha Argentina. E o jeito f
 
 2022-11-07 Segunda garrafa que experimento e não me surpreendeu. Por ser um Gran Reserva falta madeira e tanino. Ele é menos argentino e mais europeu. Tem o estilo mendocino, o que faz sentido, mas não possui aquele sabor mais presente. É fácil se esquecer o que se está bebendo. Fábio trouxe para o happy hour depois da reunião dos sócios.
 
-[viagem à Argentina em 2022]: {{< ref "argentina-2022" >}}
+[viagem à Argentina em 2022]: {{< relref "argentina-2022" >}}

@@ -17,5 +17,5 @@ Curioso constatar ainda que, mesmo fora de sua prisão, Dae-su mantém-se consta
 
 Como havia dito, há rimas por todas as partes. O final, impactante por si só, se torna visceral por conta dessas rimas. A vida se transforma em uma brincadeira trágica, onde não há sentido em continuar vivendo se não for pela possibilidade de se vingar de algo. Chan-wook vai até as últimas consequências, e é isso que torna Oldboy tão especial não apenas esteticamente, mas tematicamente.
 
-[temática]: {{< ref "lady-vinganca" >}}
-[trilogia]: {{< ref "mr-vinganca" >}}
+[temática]: {{< relref "lady-vinganca" >}}
+[trilogia]: {{< relref "mr-vinganca" >}}

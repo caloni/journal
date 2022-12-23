@@ -15,4 +15,4 @@ Dito isso, Vida de Inseto poderia ser um exercício filosófico e humano caso n�
 
 Presos à necessidade boba de serem fiéis a uma cartilha de moral e finais esquemáticos, como a exigência de um casal plato-romântico, a adequada conclusão não entrega mais que o óbvio.
 
-[Spartacus]: {{< ref "spartacus" >}}
+[Spartacus]: {{< relref "spartacus" >}}

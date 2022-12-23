@@ -19,4 +19,4 @@ Hitler está, mais do que nunca, fora do seu eixo. O trabalho de Leonid Mozgovoy
 
 Porém, muito diferente do que vemos no brilhante "A Queda!", aqui há uma introspecção que ao mesmo tempo que nos revela muito, ainda abre um leque ainda maior de nuances, principalmente na relação entre Hitler e Goebbels e as respectivas esposas Eva Braun e Magda Goebbels. Talvez isso alerte para o fato que, não importa o quanto estudemos sobre essas figuras históricas, elas são e continuarão sendo imensos poços de mistério, e nunca conseguiremos entendê-los, mesmo que conseguíssemos observá-los na privacidade de seus lares.
 
-[Mãe e Filho]: {{< ref "mae-e-filho" >}}
+[Mãe e Filho]: {{< relref "mae-e-filho" >}}

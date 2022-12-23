@@ -17,4 +17,4 @@ De qualquer forma, o relacionamento entre Bella e Jacob acaba revelando que talv
 
 Porém, essa ideia de Bella suicida também é descartada pelo roteiro, que encontra uma outra forma menos original da garota se encontrar com seu amado. A partir dessa sequência e da lógica dos participantes é possível entender que o que a roteirista Melissa Rosenberg está tentando fazer (além de nos confundir) é ofender nosso intelecto de todas as maneiras com que uma comédia de besteirol costuma fazer, só que não sendo engraçada. Talvez essa seja a definição Shakesperiana da dor, e daí a "homenagem".
 
-[filme inicial]: {{< ref "crepusculo" >}}
+[filme inicial]: {{< relref "crepusculo" >}}

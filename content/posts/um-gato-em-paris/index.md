@@ -15,6 +15,6 @@ Além disso, o filme conta com um bando de gângsteres que conseguem divertir na
 
 É com esse clima ao mesmo tempo infantil quanto caricato que Gagnol consegue, sem muitos saltos, narrar de maneira eficiente a história desses personagens e ao mesmo tempo exibir uma versão estilizada da noite parisiense.
 
-[Batman de atualmente]: {{< ref "batman-begins" >}}
-[Cães de Aluguel]: {{< ref "caes-de-aluguel" >}}
-[Os Bons Companheiros]: {{< ref "os-bons-companheiros" >}}
+[Batman de atualmente]: {{< relref "batman-begins" >}}
+[Cães de Aluguel]: {{< relref "caes-de-aluguel" >}}
+[Os Bons Companheiros]: {{< relref "os-bons-companheiros" >}}

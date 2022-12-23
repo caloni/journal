@@ -23,7 +23,7 @@ Dessa forma, se no começo a animação soa estranhamente estilizada, o costume 
 
 "Meus heróis nunca tiveram uma estátua, mas morreram lutando contra os que tinham", lamenta o nosso protagonista. Não podemos culpá-lo de lutar sempre pelo lado mais fraco, se está claro que ao menos parece o lado certo.
 
-[A Viagem]: {{< ref "a-viagem" >}}
-[Cabra Marcado Para Morrer]: {{< ref "cabra-marcado-para-morrer" >}}
-[O Som ao Redor]: {{< ref "o-som-ao-redor" >}}
-[Tropa de Elite]: {{< ref "tropa-de-elite" >}}
+[A Viagem]: {{< relref "a-viagem" >}}
+[Cabra Marcado Para Morrer]: {{< relref "cabra-marcado-para-morrer" >}}
+[O Som ao Redor]: {{< relref "o-som-ao-redor" >}}
+[Tropa de Elite]: {{< relref "tropa-de-elite" >}}

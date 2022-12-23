@@ -17,4 +17,4 @@ Contudo, mesmo com todo esse controle, uma criança acaba sendo esquecida, e ess
 
 Nesse sentido, a forma espontânea, embora atrapalhada de seu filho mais novo fazem um contraponto à toda aquela eficácia, e trazem à frente os valores mais essenciais do natal: as crianças. É nesse momento que o roteiro tem a sacada genial de apresentar o trenó do Papai Noel como um elemento nostálgico na trama, simbolizando as coisas feitas à mão. Note que o trenó em si não seria de muita importância em um filme tradicional de natal, mas aqui ganha um significado tão poderoso quanto o próprio trenó-chave de [Cidadão Kane].
 
-[Cidadão Kane]: {{< ref "cidadao-kane" >}}
+[Cidadão Kane]: {{< relref "cidadao-kane" >}}

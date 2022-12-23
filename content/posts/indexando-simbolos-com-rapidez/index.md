@@ -62,7 +62,7 @@ Você também pode gerar o mesmo comando para EXEs, bastando realizar o mesmo pa
 
 Procedimentos como esse devem ser uma coisa simples, não difícil. Programadores e pessoas são preguiçosas, e precisam de algum incentivo. E nesse caso, o incentivo é: o que você vai fazer quando der um crash com um binário que você não sabe de onde veio nem qual fonte foi usado para compilá-lo? Pois é.
 
-[Mercurial]: {{< ref "guia-basico-de-controle-de-codigo-mercurial" >}}
-[Git]: {{< ref "depurando-ate-o-fim-do-mundo-e-de-volta-de-novo-source-server-com-github" >}}
-[Bazaar]: {{< ref "guia-basico-de-repositorios-no-bazaar" >}}
-[artigo]: {{< ref "depurando-ate-o-fim-do-mundo-e-de-volta-de-novo-source-server-com-github" >}}
+[Mercurial]: {{< relref "guia-basico-de-controle-de-codigo-mercurial" >}}
+[Git]: {{< relref "depurando-ate-o-fim-do-mundo-e-de-volta-de-novo-source-server-com-github" >}}
+[Bazaar]: {{< relref "guia-basico-de-repositorios-no-bazaar" >}}
+[artigo]: {{< relref "depurando-ate-o-fim-do-mundo-e-de-volta-de-novo-source-server-com-github" >}}

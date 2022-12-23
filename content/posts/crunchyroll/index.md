@@ -23,14 +23,14 @@ Sendo assim, segue a lista desse primeiro fim-de-semana. Os textos estão horrí
 
 [^1]: tudo começou com meu amigo sugerindo assistir [Steins;Gate] e após isso me recomendou o vídeo [How to Recognize a Great Anime] (in just one episode).
 
-[Keep Your Hands Off Eizouken!]: {{< ref "keep-your-hands-off-eizouken" >}}
-[Love is Like a Cocktail]: {{< ref "love-is-like-a-cocktail" >}}
-[I Can't Understand What My Husband Is Saying]: {{< ref "i-cant-understand-what-my-husband-is-saying" >}}
-[Blend-S]: {{< ref "blends" >}}
-[Tsudedure Children]: {{< ref "tsudedure-children" >}}
-[Love Tyrant]: {{< ref "love-tyrant" >}}
-[Pop Team Epic]: {{< ref "pop-team-epic" >}}
-[My First Girlfriend is a Gal]: {{< ref "my-first-girlfriend-is-a-gal" >}}
-[Tonari no Seki-kun: The Master of Killing Time]: {{< ref "master-of-killing-time" >}}
-[Steins;Gate]: {{< ref "steins-gate" >}}
+[Keep Your Hands Off Eizouken!]: {{< relref "keep-your-hands-off-eizouken" >}}
+[Love is Like a Cocktail]: {{< relref "love-is-like-a-cocktail" >}}
+[I Can't Understand What My Husband Is Saying]: {{< relref "i-cant-understand-what-my-husband-is-saying" >}}
+[Blend-S]: {{< relref "blends" >}}
+[Tsudedure Children]: {{< relref "tsudedure-children" >}}
+[Love Tyrant]: {{< relref "love-tyrant" >}}
+[Pop Team Epic]: {{< relref "pop-team-epic" >}}
+[My First Girlfriend is a Gal]: {{< relref "my-first-girlfriend-is-a-gal" >}}
+[Tonari no Seki-kun: The Master of Killing Time]: {{< relref "master-of-killing-time" >}}
+[Steins;Gate]: {{< relref "steins-gate" >}}
 [How to Recognize a Great Anime]: https://youtu.be/0kQrT8S2Mrw

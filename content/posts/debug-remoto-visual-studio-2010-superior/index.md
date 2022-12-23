@@ -45,7 +45,7 @@ Se você digitar msvsmon.exe /h ou algo do gênero irá encontrar os parâmetros
 
 Obs.: Eu costumo executar sem segurança alguma, pois minhas máquinas de teste são VMs locais e o perigo de vulnerabilidade não é menor do que minha própria máquina real.
 
-[debug remoto no finado C++ Builder]: {{< ref "debug-remoto-no-c-builder" >}}
-[como usar o msvcmon.exe no VS 2003 e o msvsmon.exe no 2010+]: {{< ref "debugger-remoto-do-visual-studio" >}}
-[como depurar um serviço quando a máquina está para desligar]: {{< ref "depurando-ate-o-ultimo-segundo" >}}
-[depurar através de um servidor de símbolos]: {{< ref "depurando-ate-o-fim-do-mundo-e-de-volta-de-novo-source-server-com-github" >}}
+[debug remoto no finado C++ Builder]: {{< relref "debug-remoto-no-c-builder" >}}
+[como usar o msvcmon.exe no VS 2003 e o msvsmon.exe no 2010+]: {{< relref "debugger-remoto-do-visual-studio" >}}
+[como depurar um serviço quando a máquina está para desligar]: {{< relref "depurando-ate-o-ultimo-segundo" >}}
+[depurar através de um servidor de símbolos]: {{< relref "depurando-ate-o-fim-do-mundo-e-de-volta-de-novo-source-server-com-github" >}}

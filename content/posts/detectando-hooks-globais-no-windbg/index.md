@@ -51,4 +51,4 @@ Lembram-se de nossa peregrinação pela pilha de chamadas quando fizemos um [hoo
 
 Relembrando nosso passeio pela pilha, ao entrar em uma função stdcall, os primeiros 4 bytes são o endereço de retorno, os próximos o primeiro parâmetro e assim por diante. O que quer dizer que poi ( esp + (4 * 4) ). É o apontado do quarto parâmetro (4*4) que está sendo verificado. Concluindo, se o parâmetro dwThreadId for igual a zero, estamos diante de um hook global, e é o momento em que meu .echo vai exibir na tela "*** GLOBAL HOOK ***". Do contrário, a execução vai continuar silenciosamente.
 
-[hook na função MessageBox]: {{< ref "brincando-com-o-windbg" >}}
+[hook na função MessageBox]: {{< relref "brincando-com-o-windbg" >}}

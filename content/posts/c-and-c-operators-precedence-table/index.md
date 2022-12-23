@@ -89,6 +89,6 @@ I hope this second post about the precedence table have cleared a bit more about
  - There are rare expressions where we can't use the precedence table (e.g. ternary operator).
  - Nobody knows so well a language to the point to understand 100% from it; after all, nobody (and nothing) is perfect.
 
-[why a program compiles in C++ and not in C]: {{< ref "precedence-difference" >}}
+[why a program compiles in C++ and not in C]: {{< relref "precedence-difference" >}}
 [Wikipedia]: http://en.wikipedia.org/wiki/Operators_in_C_and_C
 [CppPreference]: http://www.cppreference.com/operator_precedence.html

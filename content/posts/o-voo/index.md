@@ -29,4 +29,4 @@ A partir do momento em que Whip Whitaker decide contar a verdade a respeito da b
 
 Repito a pergunta feita no texto sem spoilers: como não gostar de um filme desses?
 
-[Forrest Gump]: {{< ref "forrest-gump-o-contador-de-historias" >}}
+[Forrest Gump]: {{< relref "forrest-gump-o-contador-de-historias" >}}

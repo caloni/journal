@@ -15,4 +15,4 @@ Ainda assim a crítica moral (para alguns, religiosa) sobrevive e meio que compe
 
 Mesmo com seus problemas estruturais, é uma narrativa ágil e que merece créditos por prender nossa atenção constantemente. Diga-se de passagem, compete com uma direção de arte e figurino que parecem querer chamar a atenção para si mesmos a todo momento (a exceção é um divertido reflexo de um enfeite no espelho que simula pernas abertas). De certa forma até a irregular fotografia parece fazer isso ao mudar constantemente o tamanho do seu grão, que inicia muito maior (ou seja, o filme fica com um aspecto caseiro) e vai aos poucos desistindo do efeito em pró da boniteza dos cenários. Sem contar que é ela que exibe as cores gritantes e óbvias das roupas dos personagens, um artifício que dá realismo histórico e tira todo o peso de um drama que parece querer aparecer.
 
-[Cartas para Julieta]: {{< ref "cartas-para-julieta" >}}
+[Cartas para Julieta]: {{< relref "cartas-para-julieta" >}}

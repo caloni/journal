@@ -17,5 +17,5 @@ Herói este que possui uma curva de aprendizado tão rala quanto outros projetos
 
 As tomadas abertas, por fim, acabam comprovando que os efeitos visuais do filme são elementos mais importantes do que a própria história dessas pessoas. O objetivo da história é sairmos ilesos e termos apresentados mais um personagem do futuro filme [Os Vingadores], que tem gerado mais e mais filmes medíocres sem qualquer personalidade ou argumentação.
 
-[Lanterna Verde]: {{< ref "lanterna-verde" >}}
-[Os Vingadores]: {{< ref "os-vingadores" >}}
+[Lanterna Verde]: {{< relref "lanterna-verde" >}}
+[Os Vingadores]: {{< relref "os-vingadores" >}}

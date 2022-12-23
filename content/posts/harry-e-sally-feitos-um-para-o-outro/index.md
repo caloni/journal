@@ -13,5 +13,5 @@ Note como os personagens não mudam de opinião, não estão loucos por um grand
 
 No caso de Harry e Sally o filme não está datado. Ele serve como experiência romântica e, mais que isso, como um documentário de uma época cheia de transformações sociais.
 
-[A Difícil Arte de Amar]: {{< ref "a-dificil-arte-de-amar" >}}
-[O Clube das Desquitadas]: {{< ref "o-clube-das-desquitadas" >}}
+[A Difícil Arte de Amar]: {{< relref "a-dificil-arte-de-amar" >}}
+[O Clube das Desquitadas]: {{< relref "o-clube-das-desquitadas" >}}

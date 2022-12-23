@@ -102,4 +102,4 @@ Essa lógica embutida nas linguagens de programação são convertidas pelo comp
 
 Neste artigo vimos como todas as construções de uma linguagem de programação, independente do seu nível, podem ser convertidas em um conjunto de saltos, condicionais e incondicionais. Em um [próximo artigo] veremos como o salto condicional verdadeiramente funciona, e como pode ser implementado usando apenas operações matemáticas. Afinal, matemática básica é o bloco lógico mais básico que temos em um computador. Qualquer computador.
 
-[próximo artigo]: {{< ref "a-inteligencia-do-if-parte-2" >}}
+[próximo artigo]: {{< relref "a-inteligencia-do-if-parte-2" >}}

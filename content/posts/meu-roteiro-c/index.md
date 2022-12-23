@@ -76,44 +76,44 @@ Espero que isso me ajude a continuar completando as lacunas do saite. Se não de
 
 Sugestões?
 
-[A linguagem BCPL]: {{< ref "historia-da-linguagem-c-parte-1" >}}
-[O código-objeto]: {{< ref "historia-da-linguagem-c-parte-1" >}}
-[A linguagem B]: {{< ref "historia-da-linguagem-c-parte-2" >}}
-[A "função" char]: {{< ref "historia-da-linguagem-c-parte-2" >}}
-[O primeiro printf da história]: {{< ref "historia-da-linguagem-c-parte-2" >}}
-[A linguagem C]: {{< ref "the-c-programming-language" >}}
-[A linguagem C++]: {{< ref "a-linguagem-de-programacao-cpp-o-inicio" >}}
-[O conceito programa]: {{< ref "guia-basico-para-programadores-de-primeiro-int-main" >}}
-[O código-objeto]: {{< ref "historia-da-linguagem-c-parte-1" >}}
-[Processo de compilação]: {{< ref "os-diferentes-erros-na-linguagem-c" >}}
-[Declaração x definição]: {{< ref "declaracao-x-definicao" >}}
-[Tipos]: {{< ref "basico-do-basico-tipos" >}}
-[Lvalue x Rvalue]: {{< ref "rvalue-e-o-novo-lvalue" >}}
-[A passagem por valor]: {{< ref "passagem-por-valor-e-emails-com-anexo" >}}
-[Ponteiros]: {{< ref "basico-do-basico-ponteiros" >}}
-[Estruturas e classes]: {{< ref "estruturas-vs-classes-fight" >}}
-[Polimorfismo estático]: {{< ref "polimorfismo-estatico" >}}
-[Herança]: {{< ref "classe-objeto-contexto-metodo-polimorfismo" >}}
-[Polimorfismo dinâmico]: {{< ref "vtable" >}}
-[Iteradores]: {{< ref "se-iterando-com-os-pseudo-ponteiros-uma-breve-introducao" >}}
-[Função-objeto]: {{< ref "sobrecarga-de-funcao-as-avessas" >}}
-[Templates]: {{< ref "gabaritos" >}}
-[O conceito RAII]: {{< ref "aquisicao-de-recurso-e-inicializacao" >}}
-[O operador de subscrito]: {{< ref "curiosidades-inuteis-o-operador-de-subscrito-em-c" >}}
-[A proteção protected]: {{< ref "protecao-dos-membros-protected" >}}
-[Sizeof e strings literais]: {{< ref "sizeof-de-novo" >}}
-[Uso de reflexão com typeid]: {{< ref "reflexao-em-c" >}}
-[Typeid e o polimorfismo]: {{< ref "typeid-e-os-perigos-do-nao-polimorfismo" >}}
-[Ponteiros de método]: {{< ref "ponteiros-de-metodo-conceito-fundamental" >}}
-[Ponteiros de método e o this]: {{< ref "ponteiro-de-metodo-qual-this-e-usado" >}}
-[Try-catch fora do corpo da função]: {{< ref "try-catch-flutuante" >}}
-[Sobrecarga de operadores]: {{< ref "sobrecarga-de-funcao-as-avessas" >}}
-[Biblioteca C no Windows]: {{< ref "usando-a-libc-nativa-do-windows" >}}
-[Mobilidade da pilha com prinff]: {{< ref "a-mobilidade-das-variaveis-no-printf" >}}
-[Erros comuns de iteradores]: {{< ref "iteradores-nao-sao-constantes" >}}
-[Erros comuns de iniciantes]: {{< ref "os-diferentes-erros-na-linguagem-c" >}}
-[Ponteiro nulo em entrevistas]: {{< ref "codigos-de-entrevista-o-ponteiro-nulo" >}}
-[Nem todo ponteiro nulo é inválido]: {{< ref "quando-o-ponteiro-nulo-nao-e-invalido" >}}
-[Decifrando código obscuro]: {{< ref "desconstruindo-ioccc" >}}
-[Usando do-while para evitar erros de macro]: {{< ref "aquele-do-while-engracado" >}}
-[Sobrecarga por tipo de retorno]: {{< ref "sobrecarga-de-funcao-as-avessas" >}}
+[A linguagem BCPL]: {{< relref "historia-da-linguagem-c-parte-1" >}}
+[O código-objeto]: {{< relref "historia-da-linguagem-c-parte-1" >}}
+[A linguagem B]: {{< relref "historia-da-linguagem-c-parte-2" >}}
+[A "função" char]: {{< relref "historia-da-linguagem-c-parte-2" >}}
+[O primeiro printf da história]: {{< relref "historia-da-linguagem-c-parte-2" >}}
+[A linguagem C]: {{< relref "the-c-programming-language" >}}
+[A linguagem C++]: {{< relref "a-linguagem-de-programacao-cpp-o-inicio" >}}
+[O conceito programa]: {{< relref "guia-basico-para-programadores-de-primeiro-int-main" >}}
+[O código-objeto]: {{< relref "historia-da-linguagem-c-parte-1" >}}
+[Processo de compilação]: {{< relref "os-diferentes-erros-na-linguagem-c" >}}
+[Declaração x definição]: {{< relref "declaracao-x-definicao" >}}
+[Tipos]: {{< relref "basico-do-basico-tipos" >}}
+[Lvalue x Rvalue]: {{< relref "rvalue-e-o-novo-lvalue" >}}
+[A passagem por valor]: {{< relref "passagem-por-valor-e-emails-com-anexo" >}}
+[Ponteiros]: {{< relref "basico-do-basico-ponteiros" >}}
+[Estruturas e classes]: {{< relref "estruturas-vs-classes-fight" >}}
+[Polimorfismo estático]: {{< relref "polimorfismo-estatico" >}}
+[Herança]: {{< relref "classe-objeto-contexto-metodo-polimorfismo" >}}
+[Polimorfismo dinâmico]: {{< relref "vtable" >}}
+[Iteradores]: {{< relref "se-iterando-com-os-pseudo-ponteiros-uma-breve-introducao" >}}
+[Função-objeto]: {{< relref "sobrecarga-de-funcao-as-avessas" >}}
+[Templates]: {{< relref "gabaritos" >}}
+[O conceito RAII]: {{< relref "aquisicao-de-recurso-e-inicializacao" >}}
+[O operador de subscrito]: {{< relref "curiosidades-inuteis-o-operador-de-subscrito-em-c" >}}
+[A proteção protected]: {{< relref "protecao-dos-membros-protected" >}}
+[Sizeof e strings literais]: {{< relref "sizeof-de-novo" >}}
+[Uso de reflexão com typeid]: {{< relref "reflexao-em-c" >}}
+[Typeid e o polimorfismo]: {{< relref "typeid-e-os-perigos-do-nao-polimorfismo" >}}
+[Ponteiros de método]: {{< relref "ponteiros-de-metodo-conceito-fundamental" >}}
+[Ponteiros de método e o this]: {{< relref "ponteiro-de-metodo-qual-this-e-usado" >}}
+[Try-catch fora do corpo da função]: {{< relref "try-catch-flutuante" >}}
+[Sobrecarga de operadores]: {{< relref "sobrecarga-de-funcao-as-avessas" >}}
+[Biblioteca C no Windows]: {{< relref "usando-a-libc-nativa-do-windows" >}}
+[Mobilidade da pilha com prinff]: {{< relref "a-mobilidade-das-variaveis-no-printf" >}}
+[Erros comuns de iteradores]: {{< relref "iteradores-nao-sao-constantes" >}}
+[Erros comuns de iniciantes]: {{< relref "os-diferentes-erros-na-linguagem-c" >}}
+[Ponteiro nulo em entrevistas]: {{< relref "codigos-de-entrevista-o-ponteiro-nulo" >}}
+[Nem todo ponteiro nulo é inválido]: {{< relref "quando-o-ponteiro-nulo-nao-e-invalido" >}}
+[Decifrando código obscuro]: {{< relref "desconstruindo-ioccc" >}}
+[Usando do-while para evitar erros de macro]: {{< relref "aquele-do-while-engracado" >}}
+[Sobrecarga por tipo de retorno]: {{< relref "sobrecarga-de-funcao-as-avessas" >}}

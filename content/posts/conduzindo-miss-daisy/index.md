@@ -13,5 +13,5 @@ Freeman estava em plena forma, e o seu Hoke Colburn possui momentos inesquecíve
 
 O que nos leva à cena final, que fecha um arco iniciado décadas atrás e que é conduzido a cada passo com precisão por Bruce Beresford em um estilo que lembra um pouco a mesma virtude observada em [Forrest Gump] (só que de Robert Zemeckis). O envelhecimento dos personagens pode ser criticado como pouco natural, mas o comportamento dessas pessoas no decorrer das eras, onde a posição do negro na sociedade americana foi se estabelecendo, é inquestionavelmente mérito de atuação desse afiado elenco.
 
-[Forrest Gump]: {{< ref "forrest-gump-o-contador-de-historias" >}}
-[Tomates Verdes Fritos]: {{< ref "tomates-verdes-fritos" >}}
+[Forrest Gump]: {{< relref "forrest-gump-o-contador-de-historias" >}}
+[Tomates Verdes Fritos]: {{< relref "tomates-verdes-fritos" >}}

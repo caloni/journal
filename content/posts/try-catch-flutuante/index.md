@@ -98,4 +98,4 @@ A saída esperada é a seguinte:
     We're going to blow up
     Something BAD BAD happenned...
 
-[4o. EPA-CCPP]: {{< ref "epa-ccpp-4-nossa-comunidade-ganhando-forma" >}}
+[4o. EPA-CCPP]: {{< relref "epa-ccpp-4-nossa-comunidade-ganhando-forma" >}}

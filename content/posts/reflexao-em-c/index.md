@@ -118,4 +118,4 @@ class MyDerivatedClass1::MyMethod class MyDerivatedClass2::MyMethod
 
 Apenas se lembre de ter de fato uma classe polimórfica (eu consegui isso tornando MyMethod uma função virtual). Do contrário você pode [ter problemas].
 
-[ter problemas]: {{< ref "typeid-e-os-perigos-do-nao-polimorfismo" >}}
+[ter problemas]: {{< relref "typeid-e-os-perigos-do-nao-polimorfismo" >}}

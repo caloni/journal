@@ -112,5 +112,5 @@ END { print " - DONE -" }
  - [Gawk Guide](https://www.gnu.org/software/gawk/manual/gawk.html).
 
 
-[Análise de DNA]: {{< ref "awk-dna" >}}
-[Análise de performance]: {{< ref "awk-performance" >}}
+[Análise de DNA]: {{< relref "awk-dna" >}}
+[Análise de performance]: {{< relref "awk-performance" >}}

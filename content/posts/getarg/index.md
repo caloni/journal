@@ -50,5 +50,5 @@ int main(int argc, char* argv[])
 
 Nessa versão elminamos a necessidade do argc e de brinde ganhamos a possibilidade de usar um único ponteiro como start de um parseamento de argumentos.
 
-[último artigo sobre o tema]: {{< ref "meu-novo-parseador-de-argc-argv" >}}
-[versão com STL]: {{< ref "como-parsear-argc-argv-para-um-map-stl" >}}
+[último artigo sobre o tema]: {{< relref "meu-novo-parseador-de-argc-argv" >}}
+[versão com STL]: {{< relref "como-parsear-argc-argv-para-um-map-stl" >}}

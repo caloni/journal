@@ -8,4 +8,4 @@ title: Montanhas do Cafundó
 
 Depois do desastre que foi o [Café da Vovozinha], lá de Extrema, quando fomos fazer uma trilha, sobrou esse Cafundó, que é de torra média selecionada. Sabor cítrico, fresco e leve. Bom para degustar como suco.
 
-[Café da Vovozinha]: {{< ref "cafe-da-vovozinha" >}}
+[Café da Vovozinha]: {{< relref "cafe-da-vovozinha" >}}

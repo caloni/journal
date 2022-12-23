@@ -15,8 +15,8 @@ O fato do histórico dos Mutuários com os humanos ser problemático é um indí
 
 O mais impressionante na direção segura de Yonebayashi, no entanto, é perceber que mesmo tendo todas as características de uma história infantil o filme evita inteligentemente as brincadeiras tão comuns ao gênero e busca uma abordagem realista e sensível, o que o transforma em um drama humanista extremamente eficaz.
 
-[A Viagem de Chihiro]: {{< ref "a-viagem-de-chihiro" >}}
-[Meu Amigo Totoro]: {{< ref "meu-amigo-totoro" >}}
-[O Castelo Animado]: {{< ref "o-castelo-animado" >}}
-[O Serviço de Entregas da Kiki]: {{< ref "o-servico-de-entregas-da-kiki" >}}
-[Ponyo - Uma Amizade que Veio do Mar]: {{< ref "ponyo-uma-amizade-que-veio-do-mar" >}}
+[A Viagem de Chihiro]: {{< relref "a-viagem-de-chihiro" >}}
+[Meu Amigo Totoro]: {{< relref "meu-amigo-totoro" >}}
+[O Castelo Animado]: {{< relref "o-castelo-animado" >}}
+[O Serviço de Entregas da Kiki]: {{< relref "o-servico-de-entregas-da-kiki" >}}
+[Ponyo - Uma Amizade que Veio do Mar]: {{< relref "ponyo-uma-amizade-que-veio-do-mar" >}}

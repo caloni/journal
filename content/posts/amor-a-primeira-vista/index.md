@@ -17,6 +17,6 @@ Embora o figurino muitas vezes seja risível (como a cena em que Streep escolhe 
 
 Piegas ou não, o romance aqui existe de uma maneira não-convencional, o que para um filme de 84 merece pelo menos uma revisita.
 
-[A Difícil Arte de Amar]: {{< ref "a-dificil-arte-de-amar" >}}
-[A Primeira Noite de Um Homem]: {{< ref "a-primeira-noite-de-um-homem" >}}
-[Cinema Paradiso]: {{< ref "cinema-paradiso" >}}
+[A Difícil Arte de Amar]: {{< relref "a-dificil-arte-de-amar" >}}
+[A Primeira Noite de Um Homem]: {{< relref "a-primeira-noite-de-um-homem" >}}
+[Cinema Paradiso]: {{< relref "cinema-paradiso" >}}

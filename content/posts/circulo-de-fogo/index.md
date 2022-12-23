@@ -19,5 +19,5 @@ Mas nem tudo são robôs, e os cientistas engraçadinhos se saem bem mais ou men
 
 No fundo o que importa mesmo são as lutas corpo a corpo (ou lata). As máquinas criadas pelo homem são estupidamente grandes e fortes, mas seus movimentos gigantescos são coreografados de forma lenta, dando a sensação de fragilidade em frente aos monstros, que parecem dotados de uma rapidez natural e orgânica. O resultado na maioria das vezes é que, mesmo com cenas memoráveis de ação, é fácil se confundir (e não é pra menos: na chuva, no escuro, envolto por criaturas mais escuras ainda).
 
-[Homem de Aço]: {{< ref "o-homem-de-aco" >}}
-[Jaspion]: {{< ref "jaspion" >}}
+[Homem de Aço]: {{< relref "o-homem-de-aco" >}}
+[Jaspion]: {{< relref "jaspion" >}}

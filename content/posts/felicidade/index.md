@@ -14,4 +14,4 @@ Mesmo debilitada emocionalmente, ou talvez por causa disso, Irina começa uma ou
 
 Irina conhece Kalle (Vinzenz Kiefer) e enxerga nele a mesma leveza que possui. Juntos tentam buscar novamente a felicidade, e mesmo que seja difícil nunca sentimos ser mais difícil do que é para qualquer um de nós, que precisamos quase sempre matar um leão por dia. É nesse ponto que a leveza do filme impede que acontecimentos particularmente trágicos e tensos não possuam espaço para crescer. Ao amenizar as situações, perde-se o potencial dramático por uma tenebrosa comédia, e com ela vai-se o significado maior do filme: a felicidade a qualquer custo sacrifica o poder da tristeza.
 
-[Cerejeiras em Flor]: {{< ref "hanami-cerejeiras-em-flor" >}}
+[Cerejeiras em Flor]: {{< relref "hanami-cerejeiras-em-flor" >}}

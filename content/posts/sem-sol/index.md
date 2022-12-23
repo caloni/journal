@@ -15,4 +15,4 @@ Inflado por ter um dos seus filmes, [La Jetée], ter sido escolhido como um dos 
 
 Um completo lixo para ser descartado sem um pingo de remorso.
 
-[La Jetée]: {{< ref "la-jetee" >}}
+[La Jetée]: {{< relref "la-jetee" >}}

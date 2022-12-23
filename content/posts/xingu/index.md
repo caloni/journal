@@ -13,5 +13,5 @@ Baseado nas experiências que três irmãos passaram durante uma expedição de 
 
 Porém, em troca dos ótimos momentos silenciosos entre dois povos no meio da mata virgem há uma mensagem idealizada e romantizada a respeito da situação dos ingênuos e incapacitados índios após a chegada dos brancos maldosos e gananciosos que simplesmente fica difícil de engolir. Podemos sentir esse ponto de vista unilateral não apenas nos representantes do governo central estereotipados, mas também na fotografia granulada que nos remete para uma realidade utópica e distante. Se não é o bastante, a própria visão desgarrada do mundo real de Cláudio Villas-Bôas é destruída por ele próprio e seus impensados atos.
 
-[Cidade de Deus]: {{< ref "cidade-de-deus" >}}
-[Tropa de Elite]: {{< ref "tropa-de-elite" >}}
+[Cidade de Deus]: {{< relref "cidade-de-deus" >}}
+[Tropa de Elite]: {{< relref "tropa-de-elite" >}}

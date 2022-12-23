@@ -19,4 +19,4 @@ A trilha sonora de Jamer Horner, que utiliza a vocal de Charlotte Church, na ép
 
 Esta é uma história que se passa em décadas, e a maquiagem de envelhecimento já denota que este é um filme bem produzido do começo ao fim. Há um certo peso nesta produção que garante uma qualidade inerente em cada cena, cada filtro, cada som. Hollywood está em seu máximo como indústria, na virada do século, provando serem estes os últimos anos em que o Cinema conseguiu realizar algo memorável.
 
-[Batman: O Cavaleiro Das Trevas]: {{< ref "batman-o-cavaleiro-das-trevas" >}}
+[Batman: O Cavaleiro Das Trevas]: {{< relref "batman-o-cavaleiro-das-trevas" >}}

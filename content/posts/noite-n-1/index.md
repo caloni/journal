@@ -14,4 +14,4 @@ A descoberta aos poucos das "verdades" por trás de cada um dos jovens é o grud
 
 Igualmente frustrante é sua conclusão, apressada e que passa despercebido de tão ignorada que é a dimensão dos traumas de Clara, que mesmo passando por uma espécie de catarse, jamais a colocaria na situação da última cena, colocando em xeque o respeito que o roteiro tem da sensibilidade do espectador. Um grave furo, se pensarmos que o filme todo se baseia apenas nisso.
 
-[Antes do Pôr do Sol]: {{< ref "antes-do-por-do-sol" >}}
+[Antes do Pôr do Sol]: {{< relref "antes-do-por-do-sol" >}}

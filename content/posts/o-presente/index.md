@@ -19,4 +19,4 @@ Conseguindo aliar um roteiro de estrutura previsível e situações específicas
 
 Ao transformar o avô de Jason em um vidente-defunto com o desfecho do seu testamento-vídeo, a lição de moral de Jim Stovall consegue ser ainda mais doutrinária, chegando a rivalizar com Um Conto de Natal, de Charles Dickens. Infelizmente estamos a milhas de distância do poder da mensagem de Dickens com o seu Ebenezer Scrooge.
 
-[Pequena Miss Sunshine]: {{< ref "pequena-miss-sunshine" >}}
+[Pequena Miss Sunshine]: {{< relref "pequena-miss-sunshine" >}}

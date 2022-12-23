@@ -15,4 +15,4 @@ Da mesma forma ocorre com todos os outros personagens e com as situações, o qu
 
 É com uma estrutura orgânica e fluida que o diretor Delbert Mann, que parece ter feito dezenas de trabalho para a TV e o Cinema, consegue manipular facilmente nossas emoções e nossa empatia com o rapaz. E é com uma facilidade incrível com que o filme consegue ser transposto quase 50 anos depois e manter praticamente os mesmos efeitos benéficos que o imortalizaram. E muito provavelmente direi o mesmo daqui a 50 anos.
 
-[Laços Humanos]: {{< ref "lacos-humanos" >}}
+[Laços Humanos]: {{< relref "lacos-humanos" >}}

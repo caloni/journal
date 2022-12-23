@@ -15,6 +15,6 @@ Outro benefício desse filme em relação ao anterior é o seu vilão, vivido po
 
 Por fim, o que garante mais uma vez o sucesso na empreitada não são os excelentes (ainda que virtuais) efeitos visuais, mas um elenco afiado e harmônico que a cada passagem ressalta sua função. Impossível não relacionar a Enterprise com uma empresa de sucesso, ou uma família, ou uma nação. Mais uma vez, a iminência de guerra e terrorismo são combustíveis para a Enterprise.
 
-[Kill Bill]: {{< ref "kill-bill-volume-1" >}}
-[Sherlock]: {{< ref "sherlock-a-study-in-pink" >}}
-[genial reboot]: {{< ref "star-trek" >}}
+[Kill Bill]: {{< relref "kill-bill-volume-1" >}}
+[Sherlock]: {{< relref "sherlock-a-study-in-pink" >}}
+[genial reboot]: {{< relref "star-trek" >}}

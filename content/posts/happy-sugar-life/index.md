@@ -13,4 +13,4 @@ Pais desajustados montam o plano de fundo do que vemos, e o que vemos é uma int
 
 Há algumas reviravoltas e a primeira temporada termina inacabada, insatisfatória, embora com um final, mas larga seus personagens no meio da jornada. Há temas bem fortes para o público infantil, embora seja um trabalho fofinho, de esperança, para todos que sofreram traumas no passado. Vale a pena acompanhar? É quase uma viagem experimental. Então perto da mesmice é claro que vale.
 
-[Madoka Mágica]: {{< ref "madoka-magica" >}}
+[Madoka Mágica]: {{< relref "madoka-magica" >}}

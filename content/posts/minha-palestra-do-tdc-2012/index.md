@@ -9,5 +9,5 @@ Duas semanas atrás rolou a trilha C++ do TDC 2012, que contou com além da minh
 
 Na minha palestra foquei no conteúdo dos meus dois artigos sobre um fictício Patch de Emergência ([parte 1] e [parte 2] from Wanderley Caloni).
 
-[parte 1]: {{< ref "patch-de-emergencia" >}}
-[parte 2]: {{< ref "patch-de-emergencia-2" >}}
+[parte 1]: {{< relref "patch-de-emergencia" >}}
+[parte 2]: {{< relref "patch-de-emergencia-2" >}}

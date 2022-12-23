@@ -17,4 +17,4 @@ O que nos leva para o segundo problema do filme: roteiro. Se tratando obviamente
 
 Porém, não me leve a mal: chorei compulsivamente durante muitos momentos da peregrinação do músico do sertão em direção ao "sul" (um Sul que ignorava completamente a existência de um outro Brasil, diga-se de passagem). Anotei mentalmente a criação de Asa Branca como umas das cenas mais marcantes do ano no Cinema. Contudo, um filme não é composto de apenas cenas marcantes. A narrativa é imperativa para que criemos algo marcante. Nesse sentido, Gonzaga é uma experiência emocionalmente catártica, cujo triste fim talvez seja venerar demais o seu personagem-título.
 
-[2 Filhos de Francisco]: {{< ref "2-filhos-de-francisco" >}}
+[2 Filhos de Francisco]: {{< relref "2-filhos-de-francisco" >}}

@@ -53,5 +53,5 @@ A depuração com a linha atual no código-fonte demarcando onde estamos também
 
 Um tipo de problema que só pode ser depurado dessa maneira enfatiza a importância do uso de unit tests, além de um controle de qualidade mais aguçado antes de liberar uma versão para o cliente.
 
-[depuração remota]: {{< ref "windbg-a-distancia" >}}
+[depuração remota]: {{< relref "windbg-a-distancia" >}}
 [depuração de kernel]: http://www.driverentry.com.br

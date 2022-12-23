@@ -17,4 +17,4 @@ Uma curiosidade final diz respeito às piadas. Assim como em O Homem que Sabia D
 
 Por fim, chega a ser inacreditável comentar que hoje, com toda a tecnologia disponível para criar as ameaças mais criativas possíveis, um bando de pássaros voando consegue ser mais assombroso que muitos Blockbusters por aí.
 
-[O Homem que Sabia Demais]: {{< ref "o-homem-que-sabia-demais-1934" >}}
+[O Homem que Sabia Demais]: {{< relref "o-homem-que-sabia-demais-1934" >}}

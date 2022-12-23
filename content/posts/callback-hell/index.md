@@ -21,4 +21,4 @@ A linguagem C permite você fazer a mesma coisa. Basta que o endereço da estrut
 
 No final das contas, depurar um código em C escrito por uma pessoa que evita resolver problemas de arquitetura criando mais um callback deve demonstrar como existem pessoas sem caráter que sabem declarar um ponteiro de função. Cuidado com essas pessoas. Elas podem te levar até uma salinha reservada no inferno.
 
-[Go Horse Power]: {{< ref "extreme-go-horse" >}}
+[Go Horse Power]: {{< relref "extreme-go-horse" >}}

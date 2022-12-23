@@ -17,6 +17,6 @@ Aqui como em Árvore o uso dos sons, da música e principalmente da luz é vital
 
 Não é difícil contemplar as obras de Mallick. A não ser que você precise racionalizar isso de alguma forma.
 
-[A Pele que Habito]: {{< ref "a-pele-que-habito" >}}
-[A Árvore da Vida]: {{< ref "a-arvore-da-vida" >}}
-[Os Amantes Passageiros]: {{< ref "os-amantes-passageiros" >}}
+[A Pele que Habito]: {{< relref "a-pele-que-habito" >}}
+[A Árvore da Vida]: {{< relref "a-arvore-da-vida" >}}
+[Os Amantes Passageiros]: {{< relref "os-amantes-passageiros" >}}

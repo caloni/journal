@@ -33,16 +33,16 @@ title: Dez melhores filmes de 2016
 
  - [Loucas de Alegria]. Um filme italiano que consegue misturar trabalhos tão diferentes quanto O Beijo da Borboleta, O Lado Bom da Vida e Thelma & Louise, e ainda assim soar original, divertido, fascinante e emocionante.
 
-[Trolls]: {{< ref "trolls" >}}
-[Demônio de Neon]: {{< ref "demonio-de-neon" >}}
-[Conexão Escobar]: {{< ref "conexao-escobar" >}}
-[É Apenas o Fim do Mundo]: {{< ref "e-apenas-o-fim-do-mundo" >}}
-[Snowden]: {{< ref "snowden" >}}
-[Animais Fantásticos e Onde Habitam]: {{< ref "animais-fantasticos-e-onde-habitam" >}}
-[Deadpool]: {{< ref "deadpool" >}}
-[O Silêncio do Céu]: {{< ref "o-silencio-do-ceu" >}}
-[A Economia do Amor]: {{< ref "a-economia-do-amor" >}}
-[Sieranevada]: {{< ref "sieranevada" >}}
-[Sour Grapes]: {{< ref "sour-grapes" >}}
-[Como Ser Solteira]: {{< ref "como-ser-solteira" >}}
-[Loucas de Alegria]: {{< ref "loucas-de-alegria" >}}
+[Trolls]: {{< relref "trolls" >}}
+[Demônio de Neon]: {{< relref "demonio-de-neon" >}}
+[Conexão Escobar]: {{< relref "conexao-escobar" >}}
+[É Apenas o Fim do Mundo]: {{< relref "e-apenas-o-fim-do-mundo" >}}
+[Snowden]: {{< relref "snowden" >}}
+[Animais Fantásticos e Onde Habitam]: {{< relref "animais-fantasticos-e-onde-habitam" >}}
+[Deadpool]: {{< relref "deadpool" >}}
+[O Silêncio do Céu]: {{< relref "o-silencio-do-ceu" >}}
+[A Economia do Amor]: {{< relref "a-economia-do-amor" >}}
+[Sieranevada]: {{< relref "sieranevada" >}}
+[Sour Grapes]: {{< relref "sour-grapes" >}}
+[Como Ser Solteira]: {{< relref "como-ser-solteira" >}}
+[Loucas de Alegria]: {{< relref "loucas-de-alegria" >}}

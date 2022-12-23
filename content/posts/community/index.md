@@ -27,5 +27,5 @@ Note como o tema do racismo, tão frequente no início, sequer é colocado em pa
 
 Community era uma aula de como crescer em comunidade mesmo sem ter a mínima noção de como fazer isso. Independente dos fracassos em série na vida desses personagens, o mais importante era trazer a noção de que todo mundo consegue falar e agir sobre algo difícil. Community era um plano de ação. Agora foi podado pela polícia do pensamento. Um triste fim que serve como metalinguagem para o que se vive em nossos tempos.
 
-[Capitã Marvel]: {{< ref "capita-marvel" >}}
-[O Grande Irmão]: {{< ref "1984" >}}
+[Capitã Marvel]: {{< relref "capita-marvel" >}}
+[O Grande Irmão]: {{< relref "1984" >}}

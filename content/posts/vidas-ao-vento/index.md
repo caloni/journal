@@ -15,5 +15,5 @@ Enquanto isso, uma história de amor de configura como um ato relapso, ainda que
 
 Mesmo a parte de lição de moral com história de amor se tornando o lado mais mal resolvido da trama, o conjunto de ideias por trás de alguém que só queria construir os mais belos aviões da época e tendo que ignorar que está no fundo construindo pirâmides, às custas de muita dor e sofrimento, já é o suficiente para amarrar boa parte daquele contexto histórico e o que ele representou para o povo japonês.
 
-[Ponyo]: {{< ref "ponyo-uma-amizade-que-veio-do-mar" >}}
-[A Viagem de Chihiro]: {{< ref "a-viagem-de-chihiro" >}}
+[Ponyo]: {{< relref "ponyo-uma-amizade-que-veio-do-mar" >}}
+[A Viagem de Chihiro]: {{< relref "a-viagem-de-chihiro" >}}

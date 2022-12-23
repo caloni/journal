@@ -15,5 +15,5 @@ Porém, não conte com um enredo simplista demais. Hitchcock faz questão de tor
 
 Até os detalhes cafonas hoje em dia, apesar de datados, possuem um significado maior naquele universo. Ótimos filmes criam ótimas histórias utilizando um tema e gênero qualquer. Filmes inesquecíveis respiram seu tema e se aprofundam nele o tempo todo. É impossível resistir à beleza de uma obra de arte como Vertigo.
 
-[Cidadão Kane]: {{< ref "cidadao-kane" >}}
-[O Artista]: {{< ref "o-artista" >}}
+[Cidadão Kane]: {{< relref "cidadao-kane" >}}
+[O Artista]: {{< relref "o-artista" >}}

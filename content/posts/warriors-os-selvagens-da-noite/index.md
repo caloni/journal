@@ -15,5 +15,5 @@ Mas repare que não é um filme de interpretações, embora os rostos, as expres
 
 E mesmo com tantos estereótipos e o mergulho no épico a questão social daqueles meninos (e menina) é levantada de forma orgânica e que nos faz questionar, como os próprios garotos fazem, se o destino final deles vale tanto a pena.
 
-[Spartacus]: {{< ref "spartacus" >}}
-[Strippers Zumbi]: {{< ref "as-strippers-zumbi" >}}
+[Spartacus]: {{< relref "spartacus" >}}
+[Strippers Zumbi]: {{< relref "as-strippers-zumbi" >}}

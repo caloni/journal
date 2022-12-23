@@ -15,4 +15,4 @@ O que o filme não consegue é estipular os motivos do seu protagonista em reali
 
 Iniciando com um plot piorado do excelente [Flores Partidas] e continuando como uma versão trash de Transamérica, Aqui é o Meu Lugar se estabelece de vez na categoria dos filmes "nonsense" ao emplacar numa investigação e busca de Cheyenne pelo torturador de seu recém-falecido pai.
 
-[Flores Partidas]: {{< ref "flores-partidas" >}}
+[Flores Partidas]: {{< relref "flores-partidas" >}}

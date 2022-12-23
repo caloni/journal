@@ -41,5 +41,5 @@ Sim, continua basicamente o mesmo, exceto o foco no item 2 para revisão em vez 
 
 Não irei adicionar mais tarefas, pois estas estão em andamento e devem continuar consumindo um tempo que é possível se comprometer.
 
-[o livro de Mihaly Csikszentmihalyi]: {{< ref "flow" >}}
+[o livro de Mihaly Csikszentmihalyi]: {{< relref "flow" >}}
 [post que vi]: http://dqsoft.blogspot.com/2021/01/resolucoes-de-ano-novo-edicao-2021.html

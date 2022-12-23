@@ -21,4 +21,4 @@ E essa é a única passagem que nos remete depois do início do sucesso do Legi�
 
 Uma pena que o filme seja tão metalinguístico a ponto de terminar em um Aborto Elétrico.
 
-[Central do Brasil]: {{< ref "central-do-brasil" >}}
+[Central do Brasil]: {{< relref "central-do-brasil" >}}

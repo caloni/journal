@@ -17,6 +17,6 @@ As experiências cinematográficas da diretora afiam seu tema constante. Começa
 
 Apesar de uma filmografia pelo menos competente desde o começo, é apenas em Encontros e Desencontros que encontramos um trabalho menos inciviso e petulante, o que dá abertura para uma experiência mais rica e complexa do que é ter o mundo nas mãos e não conseguir a atenção das pessoas próximas (como a própria família). Se a trilogia de seu pai criou a antologia definitiva da história americana, e por tabela do mundo, os filmes de Coppola são a consequência do acúmulo de riquezas do país mais próspero da História: falta de objetivos na vida, consumismo e o trabalho como ferramenta de alienação.
 
-[As Virgens Suicidas]: {{< ref "as-virgens-suicidas" >}}
-[Bling Ring]: {{< ref "bling-ring-a-gangue-de-hollywood" >}}
-[Um Lugar Qualquer]: {{< ref "um-lugar-qualquer" >}}
+[As Virgens Suicidas]: {{< relref "as-virgens-suicidas" >}}
+[Bling Ring]: {{< relref "bling-ring-a-gangue-de-hollywood" >}}
+[Um Lugar Qualquer]: {{< relref "um-lugar-qualquer" >}}

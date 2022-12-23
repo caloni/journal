@@ -15,5 +15,5 @@ Um grande filme deveria unir todos esses momentos em algo mais coerente ou menos
 
 Talvez em uma próxima revisão mais velho...
 
-[Super 8]: {{< ref "super-8" >}}
-[Superman]: {{< ref "superman-o-filme" >}}
+[Super 8]: {{< relref "super-8" >}}
+[Superman]: {{< relref "superman-o-filme" >}}

@@ -25,4 +25,4 @@ Olhe atentamente para Clark Kent e me diga o seguinte: mesmo sabendo que ele é 
 
 Em contraparte, não há como negar os esforços do diretor Richard Donner em tentar tornar as cenas de voo (a chamada principal para o filme na época era "Você vai acreditar que o homem pode voar") e torná-las leves e poéticas. É um marco nos efeitos visuais, mesmo hoje tendo sido ultrapassado. Já a lenda, essa parece que está longe de ser. Todos os trabalhos futuros devem se render e se deixar influenciar pelo primeiro grande filme sobre um super-herói.
 
-[O Homem de Aço]: {{< ref "o-homem-de-aco" >}}
+[O Homem de Aço]: {{< relref "o-homem-de-aco" >}}

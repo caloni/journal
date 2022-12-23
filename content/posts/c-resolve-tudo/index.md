@@ -201,4 +201,4 @@ int main()
 
 Este é apenas um exemplo besta de polimorfismo, além de um exemplo trivial de como OO em C é infinitamente mais rico e mais complexo. Está nas mãos do programador definir até onde vai a solução proposta. E é bom saber que não existe bala de prata.
 
-[programadores de verdade]: {{< ref "programadores-de-verdade-nao-usam-java" >}}
+[programadores de verdade]: {{< relref "programadores-de-verdade-nao-usam-java" >}}
