@@ -1,7 +1,7 @@
 @echo off
 git pull
 git push
-hugo -D --cleanDestinationDir -d public\blog
+hugo --buildDrafts --cleanDestinationDir -d public\blog --config themes/blog/config.toml
 
 pushd public\blog
 git add --all
