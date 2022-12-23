@@ -34,7 +34,6 @@
    <item href="cover.xhtml" id="cover" media-type="application/xhtml+xml" />
    <item href="toc.xhtml" id="toc" properties="nav" media-type="application/xhtml+xml" />
    <item href="cover.jpg" id="cover-image" media-type="image/jpeg" properties="cover-image" />
-   <item href="css/stylesheet.css" id="css" media-type="text/css" /> 
 {{ $i := 0 -}}
 {{- $n := 0 }}
 {{- $beginning := "" -}}
