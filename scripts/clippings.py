@@ -2,7 +2,7 @@ import shutil
 import os
 
 src = r'k:\documents\My Clippings.txt'
-dst = r'C:\Users\caloni\blog\static\txt\clippings.txt'
+dst = r'C:\Users\caloni\blog\themes\blog\static\txt\clippings.txt'
 vim = r'C:\Users\caloni\blog\scripts\clippings.so'
 
 if os.path.exists(src):
