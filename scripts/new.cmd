@@ -1,6 +1,6 @@
 @echo off
 if "%1"=="" goto usage
-hugo new posts/%1/%1.md
+hugo --config themes/blog/config.toml new posts/%1/index.md
 goto :eof
 
 :usage
