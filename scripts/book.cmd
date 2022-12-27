@@ -1,6 +1,6 @@
 @echo off
 echo Building drafts...
-hugo --buildDrafts --theme=drafts -d public\drafts --cleanDestinationDir
+hugo --buildDrafts --config themes\drafts\config.toml -d public\drafts --cleanDestinationDir
 pushd public\drafts
 sed -i "s/href=\"\//href=\"#/g" index.html
 sed -i "s/src=\"\//src=\"/g" index.html
@@ -18,7 +18,7 @@ popd
 
 choice /M "Do you want to build the entire book (default yes in 10 seconds)?" /D Y /T 10
 if errorlevel 2 goto :eof
-hugo --buildDrafts --theme=book -d public\book --cleanDestinationDir
+hugo --buildDrafts --config themes\book\config.toml -d public\book --cleanDestinationDir
 pushd public\book
 sed -i "s/href=\"\//href=\"#/g" index.html
 sed -i "s/src=\"\//src=\"/g" index.html
