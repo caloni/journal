@@ -4,9 +4,7 @@
   <div class="container">
 
     <div class="navbar-brand">
-        {{- if (fileExists (print "/static" .Site.Data.defaults.icons.brand)) }}
         <img alt="Brand" src="{{ .Site.Data.defaults.icons.brand }}">
-        {{- end }}
         &nbsp;
         {{- if .IsHome }}
         <a class="navbar-item" title="Who is this?" href="/about">
