@@ -12,7 +12,7 @@ title: 'Bíblia Sagrada: Êxodo'
 
 > À meia-noite, o SENHOR feriu mortalmente todos os filhos mais velhos da terra do Egito, desde o filho mais velho do faraó, sentado em seu trono, até o filho mais velho do prisioneiro no calabouço. Até mesmo os primeiros machos dentre os animais foram mortos. O faraó, todos os seus oficiais e todo o povo egípcio acordaram durante a noite, e ouviu-se um grande lamento em toda a terra do Egito. Não houve uma só casa onde não morresse alguém.
 
-> Naquela mesma noite, os israelitas partiram de Ramessés rumo a Sucote. Havia cerca de seiscentos mil homens, 27 além das mulheres e crianças. Saiu com eles uma mistura de gente que não era israelita, além de imensos rebanhos de ovelhas, bois e outros animais.
+> Naquela mesma noite, os israelitas partiram de Ramessés rumo a Sucote. Havia cerca de seiscentos mil homens, além das mulheres e crianças. Saiu com eles uma mistura de gente que não era israelita, além de imensos rebanhos de ovelhas, bois e outros animais.
 
 > O povo de Israel tinha vivido 430 anos no Egito. Na verdade, essa grande multidão do SENHOR deixou a terra exatamente no dia em que se completaram os 430 anos. O SENHOR passou a noite toda em vigília para tirar seu povo do Egito. Essa, portanto, é a noite do SENHOR e deverá ser celebrada por todos os israelitas, de geração em geração.
 
@@ -21,3 +21,8 @@ title: 'Bíblia Sagrada: Êxodo'
 > O SENHOR disse a Moisés: "Ordene aos israelitas que deem a volta e acampem em Pi-Hairote, entre Migdol e o mar. Acampem ali, à beira do mar, em frente a Baal-Zefom. O faraó pensará: 'Os israelitas estão vagando perdidos, prisioneiros do deserto!'. Mais uma vez, endurecerei o coração do faraó, e ele os perseguirá. Planejei tudo isso para mostrar minha glória por meio do faraó e de todo o seu exército. Então os egípcios saberão que eu sou o SENHOR". E os israelitas assim fizeram.
 
 > Então Moisés estendeu a mão sobre o mar e, com um forte vento leste, o SENHOR abriu caminho no meio das águas. O vento soprou a noite toda, transformando o fundo do mar em terra seca. E o povo de Israel atravessou pelo meio do mar, caminhando em terra seca, com uma parede de água de cada lado.
+
+> O SENHOR disse a Moisés: "Até quando este povo se recusará a obedecer às minhas ordens e instruções?"
+
+> Os israelitas comeram maná durante quarenta anos, até chegarem à terra onde se estabeleceriam. Comeram maná até chegarem à fronteira da terra de Canaã. 
+
