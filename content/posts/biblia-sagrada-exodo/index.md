@@ -26,3 +26,21 @@ title: 'Bíblia Sagrada: Êxodo'
 
 > Os israelitas comeram maná durante quarenta anos, até chegarem à terra onde se estabeleceriam. Comeram maná até chegarem à fronteira da terra de Canaã. 
 
+> Eu sou o SENHOR, seu Deus, que o libertou da terra do Egito, onde você era escravo.
+> Não tenha outros deuses além de mim.
+> Não faça para si espécie alguma de ídolo ou imagem de qualquer coisa no céu, na terra ou no mar.
+> Não se curve diante deles nem os adore, pois eu, o SENHOR, seu Deus, sou um Deus zeloso.
+> Trago as consequências do pecado dos pais sobre os filhos até a terceira e quarta geração dos que me rejeitam, mas demonstro amor por até mil gerações dos que me amam e obedecem a meus mandamentos.
+> Não use o nome do SENHOR, seu Deus, de forma indevida.
+> O SENHOR não deixará impune quem usar o nome dele de forma indevida.
+> Lembre-se de guardar o sábado, fazendo dele um dia santo.
+> Você tem seis dias na semana para fazer os trabalhos habituais, mas o sétimo dia é o sábado do SENHOR, seu Deus.
+> Nesse dia, ninguém em sua casa fará trabalho algum: nem você, nem seus filhos e filhas, nem seus servos e servas, nem seus animais, nem os estrangeiros que vivem entre vocês.
+> O SENHOR fez os céus, a terra, o mar e tudo que neles há em seis dias; no sétimo dia, porém, descansou. Por isso o SENHOR abençoou o sábado e fez dele um dia santo.
+> Honre seu pai e sua mãe. Assim você terá vida longa e plena na terra que o SENHOR, seu Deus, lhe dá.
+> Não mate.
+> Não cometa adultério.
+> Não roube.
+> Não dê falso testemunho contra o seu próximo.
+> Não cobice a casa do seu próximo. Não cobice a mulher dele, nem seus servos ou servas, nem seu boi ou jumento, nem qualquer outra coisa que lhe pertença.
+
