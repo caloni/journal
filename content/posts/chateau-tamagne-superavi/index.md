@@ -1,8 +1,7 @@
 ---
 categories:
-- wine
+ - wine
 date: '2022-11-20T15:57:13-03:00'
-tags:
 title: Château Tamagne Superavi Reserve 2017
 ---
 

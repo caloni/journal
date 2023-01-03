@@ -105,3 +105,8 @@ Fiz panetone com ovos inteiros. Acabou que apenas três ovos já deram 150g e ti
 ## 2022-12-08
 
 Testando primeiro de frutas esse ano com algumas modificações. Deixei a massa crescendo na geladeira da noite pro dia. Usei os 40ml de rum junto das frutas, mas acabei não dando tempo da uva em passas absorver, além de ter misturado sem tirar o excesso do suco restante. Usei pela primeira vez essência de panetone industrial mais a baunilha. E estou fazendo com ovos inteiros desde que descobri não haver problemas. O primeiro resultado visual é que demorou muito para crescer, o dia inteiro, e não chegou ao topo, mesmo deixando na luzinha por boa parte da tarde e noite. Testei deixar o forno bem baixo, mas acho que ficou um pouco abaixo do necessário, então fui aumentando aos poucos. Experimentando. Ficou um pouco seco, mas não por ter assado demais. Faltou ar, mesmo. Da próxima vez dá pra colocar mais essência e não jogar o rum direto na massa. E lembrar de já ativar o crescimento desde o começo.
+
+## 2022-12-28
+
+Passou o Natal, mas agora acertei o que queria no panetone. Está tão leve que só de segurar já amassa 👌. Porém, ficou leve demais. O motivo disso é deixar crescer além da conta. O motivo da massa ter ficado mais leve é eu ter deixado fermentando dentro da geladeira por 24 horas. Tempo de fato é a chave para um panetone mais fofinho. Só é melhor não exagerar. Essa foi a lição esse ano.
+
