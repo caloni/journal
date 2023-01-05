@@ -1,8 +1,7 @@
 ---
-categories: null
+categories:
+ - animes
 date: '2023-01-02T22:57:06-03:00'
-draft: true
-tags: null
 title: Lookism
 ---
 
