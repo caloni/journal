@@ -2,7 +2,6 @@
 categories:
  - wine
 date: '2023-01-08T21:02:19-03:00'
-draft: true
 title: Rio Sol Gran Reserva Alicante Bouschet 2018
 ---
 

@@ -2,7 +2,6 @@
 categories:
 date: '2022-12-26T22:16:13-03:00'
 draft: true
-tags:
 title: 'Bíblia Sagrada: Êxodo'
 ---
 

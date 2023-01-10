@@ -6,16 +6,14 @@ draft: true
 title: Leituras e experiência sobre jejum intermitente
 ---
 
-Meu padrão está claro para mim. Ficar em jejum por um tempo é um exercício previsto e após se acostumar de baixo impacto, mas restrição calórica, quando se come apenas um pouco, me causa ansiedade. A ansiedade é o que desencadeia medidas precipitadas como ingerir açúcar e outros alimentos no impulso, me impedindo de sentir a experiência de comer, às pressas. O foco está mais na quantidade consumida no momento do impulso. Enquanto essa satisfação não chega, e demora para chegar, o impulso continua, geralmente alienando tudo que estou consumindo no momento. Não existe consciência alguma nesse momento. Após esse período, uma leve culpa ou remorso. Esse relato não foge muito do que já foi estudado pela ciência, o que é bom. E uma coisa é certa: as soluções para este comportamento nunca pode ser punitiva ou exagerada, pois o efeito rebote sempre faz piorar o impulso. Isso se assemelha muito a um vício.
+Meu padrão alimentar está claro para mim. Ficar em jejum por um tempo é um exercício previsto e que exerço como uma rotina por muitos anos. Após se acostumar o impacto é baixo, tanto da fome quanto da escolha. Porém, fazer restrição calórica, ou seja, comer apenas um pouco, me causa ansiedade. A ansiedade, por sua vez, é o que desencadeia medidas precipitadas, como ingerir açúcar e outros alimentos no impulso, me impedindo de sentir a experiência de comer calmamente. O foco está mais na quantidade consumida no momento do impulso. Enquanto essa satisfação não chega, e demora para chegar, o impulso continua, geralmente alienando tudo que estou consumindo no momento. Não existe consciência nesse momento, apenas instinto se "justificando" com o racional. Após esse período, chega uma leve culpa ou remorso. Esse relato não foge muito do que já foi estudado pela ciência, o que é bom. E uma coisa é certa: as soluções para este comportamento nunca podem ser punitivas ou exageradas, pois o efeito rebote sempre faz piorar esse impulso, que se assemelha muito a um vício.
 
-Estou lendo textos do site WeFast, onde um grupo de mulheres decidiu reunir textos com fundo científico sobre como mulheres podem se aproveitar de jejum intermitente para diminuir a incidência de doenças relacionadas ao desequilíbrio alimentar. É um grupo focado para mulheres, mas ainda melhor, pois mulheres sofrem mais para fazer jejum (isso é fato), o que pode ajudar os mais fracos de força de vontade também, mulheres ou não.
+Estou lendo textos do site WeFast, onde um grupo de mulheres decidiu reunir conteúdo de cunho científico formatado para leigos sobre como mulheres podem se aproveitar de jejum intermitente para diminuir a incidência de doenças relacionadas ao desequilíbrio alimentar. É um grupo focado para mulheres, mas ainda melhor, pois mulheres sofrem mais para fazer jejum (isso é fato), o que pode ajudar os mais fracos de força de vontade também, mulheres ou não. Segue abaixo os recortes dessas leituras, o que pode ser usado mais tarde para o meu texto de como jejum funciona.
 
 
 # [Say Goodbye To Sugar Cravings With Intermittent Fasting]
 
 > Insulin regulates blood sugar levels. When you eat, blood sugar levels rise, and insulin is released. The food consumed is converted to energy for the body. But if you consume more than your body needs, the excess is stored as fat. When your body is in a fasted state, insulin levels are very low, and the body turns to the stored fat to burn for energy.
-
-> Insulin is produced by the pancreas. The pancreas is highly sensitive to melatonin. Because you are fasting when you sleep, the body doesn't need high insulin levels to deal with rising blood sugar. Melatonin binds to receptors in the pancreas, slowing down insulin production.
 
 > When one stays in a fasted state for a long period, leptin levels start to drop. This may cause feelings of increased hunger and desires for sugar the first couple of weeks. As leptin levels normalize, hunger and sugar cravings subside and in time the sugar craving cycle can be broken.
 
@@ -23,19 +21,49 @@ Estou lendo textos do site WeFast, onde um grupo de mulheres decidiu reunir text
 
 > Women may find it difficult to overcome leptin resistance because they naturally have higher leptin levels than men (16).
 
-> Here are a few tips to help you with sugar cravings until your body can normalize leptin levels and the desires go away. Drink sugar-free liquids allowed during the fast Use peppermint essential oil that is safe for ingestion in your water during the fast (22). Chew sugar-free gum during your eating window Make sure to eat enough unprocessed foods during your eating window that include healthy carbohydrates such as fruits and quinoa. Stay busy and out of the kitchen. Keep your hands occupied, and your mind distracted. Dig deep and remember all the healthy reasons you want to reduce your sugar consumption
+>
+> Here are a few tips to help you with sugar cravings until your body can normalize leptin levels and the desires go away:
+>
+>  - Drink sugar-free liquids allowed during the fast
+>  - Use peppermint essential oil that is safe for ingestion in your water during the fast (22).
+>  - Chew sugar-free gum during your eating window
+>  - Make sure to eat enough unprocessed foods during your eating window that include healthy carbohydrates such as fruits and quinoa.
+>  - Stay busy and out of the kitchen.
+>  - Keep your hands occupied, and your mind distracted.
+>  - Dig deep and remember all the healthy reasons you want to reduce your sugar consumption.
+>
 
 
 # [How Intermittent Fasting can help you Sleep better]
 
-> One of the bonuses of intermittent fasting is that it triggers the production of the human growth hormone, which naturally depletes with age (6). The human growth hormone (HgH) is produced during sleep and has amazing benefits for the body, including: Maintains, builds, and repairs healthy tissues in the brain and other organs Burns fat Boosts metabolism Builds muscle mass Slows aging process Improves quality and appearance of skin Speeds up healing and muscle repair
+> Insulin is produced by the pancreas. The pancreas is highly sensitive to melatonin. Because you are fasting when you sleep, the body doesn't need high insulin levels to deal with rising blood sugar. Melatonin binds to receptors in the pancreas, slowing down insulin production.
+
+>
+> One of the bonuses of intermittent fasting is that it triggers the production of the human growth hormone, which naturally depletes with age (6). The human growth hormone (HgH) is produced during sleep and has amazing benefits for the body, including:
+>
+>  - Maintains, builds, and repairs healthy tissues in the brain and other organs.
+>  - Burns fat Boosts metabolism.
+>  - Builds muscle mass.
+>  - Slows aging process.
+>  - Improves quality and appearance of skin.
+>  - Speeds up healing and muscle repair.
+>
 
 > One study showed that after a week of intermittent fasting, people woke up in the night less frequently, moved around in their sleep less, spent more time in the deep REM stage of sleep, and reported better overall sleep quality (7).
 
 
 # [Intermittent Fasting And Hormones For A Better Balance]
 
-> There are a few main hormones, which you can “fix” with intermittent fasting and help yourself to achieve better health conditions: Insulin Leptin Growth hormone Ghrelin Sex hormones Thyroid hormones
+>
+> There are a few main hormones, which you can “fix” with intermittent fasting and help yourself to achieve better health conditions:
+>
+>  - Insulin
+>  - Leptin
+>  - Growth hormone
+>  - Ghrelin
+>  - Sex hormones
+>  - Thyroid hormones
+>
 
 > High levels of insulin are also called hyperinsulinemia. When you develop such a condition, your body becomes insensitive to the hormone and leads to resistance and in the end, your cells are not able to get needed energy and essential nutrients and you starve from inside. At the same time, your body tries to “fix” the situation by releasing more insulin that worsens the resistance even more (1).
 
@@ -70,7 +98,17 @@ Estou lendo textos do site WeFast, onde um grupo de mulheres decidiu reunir text
 
 > A fatty liver is reversible in the early stages. But too much fat in the liver leads to scarring of liver tissue (cirrhosis of the liver), which is hard to reverse and can even lead to liver failure.
 
-> Moreover, insulin resistance leads to the so-called metabolic syndrome. The metabolic syndrome has the following symptoms (4): Enlarged waist circumference: >= 102 cm in men and >= 88 cm in women High blood pressure: systolic blood pressure >= 130 mmHg, diastolic blood pressure >= 85 mmHg Elevated triglycerides (blood lipids): >= 150 mg/dl Low HDL-cholesterol: < 40 mg/dL in men and < 50 mg/dL in women High fasting blood sugar: >= 100 mg/dL Metabolic syndrome is diagnosed when at least three of these symptoms are present.
+>
+> Moreover, insulin resistance leads to the so-called metabolic syndrome. The metabolic syndrome has the following symptoms (4):
+> 
+>  - Enlarged waist circumference: >= 102 cm in men and >= 88 cm in women.
+>  - High blood pressure: systolic blood pressure >= 130 mmHg, diastolic blood pressure >= 85 mmHg.
+>  - Elevated triglycerides (blood lipids): >= 150 mg/dl
+>  - Low HDL-cholesterol: < 40 mg/dL in men and < 50 mg/dL in women.
+>  - High fasting blood sugar: >= 100 mg/dL
+>
+> Metabolic syndrome is diagnosed when at least three of these symptoms are present.
+> 
 
 > Intermittent fasting is very powerful in improving insulin resistance–within a few weeks. Studies show that intermittent fasting can improve all signs of insulin resistance. It: lowers blood pressure (5), facilitates weight loss (especially in the belly area)(6), improves cholesterol (7), lowers triglycerides (8), reduces oxidative stress (a consequence of insulin resistance)(9), improves blood sugar regulation, helps to get the appetite under control (10).
 
