@@ -2,7 +2,6 @@
 categories:
  - reading
 date: '2023-01-07T23:28:12-03:00'
-draft: true
 title: Leituras e experiência sobre jejum intermitente
 ---
 
@@ -17,15 +16,15 @@ Estou lendo textos do site WeFast, onde um grupo de mulheres decidiu reunir cont
 
 > When one stays in a fasted state for a long period, leptin levels start to drop. This may cause feelings of increased hunger and desires for sugar the first couple of weeks. As leptin levels normalize, hunger and sugar cravings subside and in time the sugar craving cycle can be broken.
 
-> Leptin is released from fat cells (13). It creates a feeling of fullness and suppresses appetite for a period. It tells the brain you are full and to start burning calories for energy. When leptin levels increase, metabolism speeds up in normal-weight individuals.
+> Leptin is released from fat cells. It creates a feeling of fullness and suppresses appetite for a period. It tells the brain you are full and to start burning calories for energy. When leptin levels increase, metabolism speeds up in normal-weight individuals.
 
-> Women may find it difficult to overcome leptin resistance because they naturally have higher leptin levels than men (16).
+> Women may find it difficult to overcome leptin resistance because they naturally have higher leptin levels than men.
 
 >
 > Here are a few tips to help you with sugar cravings until your body can normalize leptin levels and the desires go away:
 >
->  - Drink sugar-free liquids allowed during the fast
->  - Use peppermint essential oil that is safe for ingestion in your water during the fast (22).
+>  - Drink sugar-free liquids allowed during the fast.
+>  - Use peppermint essential oil that is safe for ingestion in your water during the fast.
 >  - Chew sugar-free gum during your eating window
 >  - Make sure to eat enough unprocessed foods during your eating window that include healthy carbohydrates such as fruits and quinoa.
 >  - Stay busy and out of the kitchen.
@@ -39,17 +38,18 @@ Estou lendo textos do site WeFast, onde um grupo de mulheres decidiu reunir cont
 > Insulin is produced by the pancreas. The pancreas is highly sensitive to melatonin. Because you are fasting when you sleep, the body doesn't need high insulin levels to deal with rising blood sugar. Melatonin binds to receptors in the pancreas, slowing down insulin production.
 
 >
-> One of the bonuses of intermittent fasting is that it triggers the production of the human growth hormone, which naturally depletes with age (6). The human growth hormone (HgH) is produced during sleep and has amazing benefits for the body, including:
+> One of the bonuses of intermittent fasting is that it triggers the production of the human growth hormone, which naturally depletes with age. The human growth hormone (HgH) is produced during sleep and has amazing benefits for the body, including:
 >
 >  - Maintains, builds, and repairs healthy tissues in the brain and other organs.
->  - Burns fat Boosts metabolism.
+>  - Burns fat
+>  - Boosts metabolism.
 >  - Builds muscle mass.
 >  - Slows aging process.
 >  - Improves quality and appearance of skin.
 >  - Speeds up healing and muscle repair.
 >
 
-> One study showed that after a week of intermittent fasting, people woke up in the night less frequently, moved around in their sleep less, spent more time in the deep REM stage of sleep, and reported better overall sleep quality (7).
+> One study showed that after a week of intermittent fasting, people woke up in the night less frequently, moved around in their sleep less, spent more time in the deep REM stage of sleep, and reported better overall sleep quality.
 
 
 # [Intermittent Fasting And Hormones For A Better Balance]
@@ -65,15 +65,15 @@ Estou lendo textos do site WeFast, onde um grupo de mulheres decidiu reunir cont
 >  - Thyroid hormones
 >
 
-> High levels of insulin are also called hyperinsulinemia. When you develop such a condition, your body becomes insensitive to the hormone and leads to resistance and in the end, your cells are not able to get needed energy and essential nutrients and you starve from inside. At the same time, your body tries to “fix” the situation by releasing more insulin that worsens the resistance even more (1).
+> High levels of insulin are also called hyperinsulinemia. When you develop such a condition, your body becomes insensitive to the hormone and leads to resistance and in the end, your cells are not able to get needed energy and essential nutrients and you starve from inside. At the same time, your body tries to “fix” the situation by releasing more insulin that worsens the resistance even more.
 
-> You can call leptin the main satiety hormone. It is mostly secreted by fat cells (adipocytes) and gives the signal to our brain that there is enough “potential energy” (read fat) to survive, so we don’t need to consume more food (4).
+> You can call leptin the main satiety hormone. It is mostly secreted by fat cells (adipocytes) and gives the signal to our brain that there is enough “potential energy” (read fat) to survive, so we don’t need to consume more food.
 
-> When we keep eating, we store food for later use as fat and our adipocytes get enlarged and they “scream” STOP EATING by producing a lot of leptin. Similarly to insulin, constantly high leptin levels lead to leptin resistance. As a result, our brain stops reacting to the signals and instead of feeling satiated, we feel hungry all the time, we eat more, we store more fat and we develop even stronger resistance to leptin (5).
+> When we keep eating, we store food for later use as fat and our adipocytes get enlarged and they “scream” STOP EATING by producing a lot of leptin. Similarly to insulin, constantly high leptin levels lead to leptin resistance. As a result, our brain stops reacting to the signals and instead of feeling satiated, we feel hungry all the time, we eat more, we store more fat and we develop even stronger resistance to leptin.
 
-> Opposite to satiety hormone leptin, our body releases the “hunger hormone”-ghrelin at certain times and the level of this hormone drops down after a meal. Imbalance in this hormone is associated with increased food intake, which leads to obesity (8). Studies show that overweight and obese people have just a slight drop in ghrelin levels after a meal, which means that they are still hungry even if they’ve eaten (9).
+> Opposite to satiety hormone leptin, our body releases the “hunger hormone”-ghrelin at certain times and the level of this hormone drops down after a meal. Imbalance in this hormone is associated with increased food intake, which leads to obesity. Studies show that overweight and obese people have just a slight drop in ghrelin levels after a meal, which means that they are still hungry even if they’ve eaten.
 
-> Human growth hormone (HGH) is essential for cell regeneration and reproduction, bone density, strong immune system and speed of metabolism. We lose the ability to produce this hormone with ageing, but studies show that intermittent fasting dramatically triggers an increase in HGH as a protective mechanism for bone and tissue (11).
+> Human growth hormone (HGH) is essential for cell regeneration and reproduction, bone density, strong immune system and speed of metabolism. We lose the ability to produce this hormone with ageing, but studies show that intermittent fasting dramatically triggers an increase in HGH as a protective mechanism for bone and tissue.
 
 
 # [How does intermittent fasting help with insulin resistance]
@@ -99,7 +99,7 @@ Estou lendo textos do site WeFast, onde um grupo de mulheres decidiu reunir cont
 > A fatty liver is reversible in the early stages. But too much fat in the liver leads to scarring of liver tissue (cirrhosis of the liver), which is hard to reverse and can even lead to liver failure.
 
 >
-> Moreover, insulin resistance leads to the so-called metabolic syndrome. The metabolic syndrome has the following symptoms (4):
+> Moreover, insulin resistance leads to the so-called metabolic syndrome. The metabolic syndrome has the following symptoms:
 > 
 >  - Enlarged waist circumference: >= 102 cm in men and >= 88 cm in women.
 >  - High blood pressure: systolic blood pressure >= 130 mmHg, diastolic blood pressure >= 85 mmHg.
@@ -110,7 +110,7 @@ Estou lendo textos do site WeFast, onde um grupo de mulheres decidiu reunir cont
 > Metabolic syndrome is diagnosed when at least three of these symptoms are present.
 > 
 
-> Intermittent fasting is very powerful in improving insulin resistance–within a few weeks. Studies show that intermittent fasting can improve all signs of insulin resistance. It: lowers blood pressure (5), facilitates weight loss (especially in the belly area)(6), improves cholesterol (7), lowers triglycerides (8), reduces oxidative stress (a consequence of insulin resistance)(9), improves blood sugar regulation, helps to get the appetite under control (10).
+> Intermittent fasting is very powerful in improving insulin resistance–within a few weeks. Studies show that intermittent fasting can improve all signs of insulin resistance. It: lowers blood pressure, facilitates weight loss (especially in the belly area, improves cholesterol, lowers triglycerides, reduces oxidative stress (a consequence of insulin resistance, improves blood sugar regulation, helps to get the appetite under control.
 
 > Why is intermittent fasting so effective in lowering insulin resistance? By extending the time between meals, you give your body the opportunity to access energy storage areas. Once your stored energy (especially glycogen) gets regularly depleted, insulin resistance improves.
 
