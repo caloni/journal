@@ -34,7 +34,7 @@ if len(sys.argv) > 1:
 
   def edit(post, fname):
     post['link'] = link
-    post.content = '\n'.join(pgn)
+    post.content = post.content + '\n\n' + '\n'.join(pgn)
 
   posts.transform([ edit ], [ path ])
   print("post written in", path)
