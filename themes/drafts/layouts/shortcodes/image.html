@@ -1,5 +1,6 @@
 {{ $src := .Get "src" }}
 {{ $src = print "*" $src "*" -}}
+{{ $ref := .Page.RelPermalink }}
 {{- with  $.Page.Resources.GetMatch $src -}}
-  <img src="{{ . }}" alt="{{ .Permalink }}"/>
+  <img src="{{ $ref }}{{ . }}" alt="{{ $ref }}{{ . }}"/>
 {{- end -}}
