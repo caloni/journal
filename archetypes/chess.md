@@ -4,7 +4,7 @@ categories:
 date: '{{ .Date }}'
 draft: true
 tags:
-title: {{ replace .TranslationBaseName "-" " " | title }}
+title: Este é um título provisório
 ---
 
 {{< image src="board.png" >}}
