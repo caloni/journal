@@ -2,9 +2,10 @@
 categories:
 - chess
 date: '{{ .Date }}'
+draft: true
 tags:
-- draft
 title: {{ replace .TranslationBaseName "-" " " | title }}
 ---
 
-{{< chess board="cavaloni" src="{{ .TranslationBaseName }}.txt">}}
+{{< image src="board.jpeg" >}}
+
