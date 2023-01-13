@@ -7,5 +7,5 @@ tags:
 title: {{ replace .TranslationBaseName "-" " " | title }}
 ---
 
-{{< image src="board.jpeg" >}}
+{{< image src="board.png" >}}
 
