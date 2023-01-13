@@ -2,6 +2,7 @@
 categories:
 - chess
 date: '2022-06-19T20:00:08-03:00'
+draft: true
 link: https://www.chess.com/game/live/49402129447
 title: Partida ganha, mas como?
 ---
