@@ -2,7 +2,6 @@
 categories:
 - chess
 date: '2023-01-12T21:29:00-03:00'
-draft: true
 link: https://www.chess.com/game/daily/457716417
 tags: null
 title: Blunder em cima de blunder e final com um bispo

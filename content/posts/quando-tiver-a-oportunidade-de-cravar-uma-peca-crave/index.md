@@ -2,7 +2,6 @@
 categories:
  - chess
 date: '2023-01-11T10:59:05-03:00'
-draft: true
 link: https://www.chess.com/game/live/67183278085
 title: Quando tiver a oportunidade de cravar uma peça... crave
 ---

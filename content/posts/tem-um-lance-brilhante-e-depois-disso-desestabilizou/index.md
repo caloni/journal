@@ -2,10 +2,9 @@
 categories:
 - chess
 date: '2023-01-12T21:23:43-03:00'
-draft: true
 link: https://www.chess.com/game/daily/329668798
 tags: null
-title: Tem um lance brilhante de depois disso desestabilizou o adversário
+title: Tem um lance brilhante e depois disso desestabilizou o adversário
 ---
 
 ```
