@@ -1,0 +1,19 @@
+---
+categories: null
+date: '2023-01-15T14:18:26-03:00'
+draft: true
+tags: null
+title: StarCraft
+---
+
+Quando eu joguei pela primeira vez estava nos meus dezoito anos. Eu e meu amigo de infância e colégio estávamos aguardando a estréia. A Blizzard já era conhecida pelos trabalhos de respeito WarCraft e Diablo. Mas nada havia nos preparado para o que estaria por vir. Um jogo de estratégia em tempo real com três racas de fato diferentes, com evolução e habilidades que não são simples cópias umas das outras. Havia um estudo por trás do desenvolvimento que criava uma história dentro do universo que parte da própria jogabilidade. Não é uma escolha mercadológica. Existe alma nessas criações. O que explica a paixão de seus desenvolvedores e artistas que demoraram não sei quantos anos para terminar a primeira versão. Terminada, tiveram que refazer porque perderam o CD com os fones. Refizeram. E depois de lancada criaram um pack de expansão com uma nova campanha e mais elementos no jogo. A paixão por StarCraft começa em seu desenvolvimento e contagia beta testers e jogadores finais. Entusiastas gastaram dias e noites para fazer a engenharia reversa do jogo, tão fascinados estavam pelo funcionamento da engine. Depois de vários anos o editor feito pela comunidade tinha mais features e menos bugs que o que vinha no CD, tanto que o original foi aposentado pelos devs. Esse é o nível de paixão insano que este jogo trouxe antes, durante e depois de lancada. Até hoje. Em 2017 foi feita uma versão remasterizada, quase 20 anos depois do lancamento original. E não foi apensas pelo dinheiro. As melhorias apresentadas tornam mais agradável e simples jogar nos computadores atuais. Os novos gráficos e tela wide continuam demostrando essa paixão de um jogo que dividiu Águas no gênero RTS.
+
+A sua história caminha pelo mesmo esmero. Pautada em uma guerra entre as racas, existe um pano de fundo que a maioria dos filmes não consegue tamanha profundidade. Nas profundezas da mente dos criadores, eles resolvem fazer uma brincadeira metalinguístico em que as duas raças alienígenas foram desenhada pelo mesmo criador eras atrás. Os personagens do jogo contam em eras porque é assim que os desenvolvedores se sentem. Este é um projeto que foi adiado por muito tempo até ficar redondo. Mas quando ficou pronto eles podiam exibir com orgulho duas criações.
+
+A narrativa permite você começar a campanha por qualquer uma das três racas, mas o caminho natural é Terrans, Zergs e Protos. Cada episódio te ajuda a usar melhor um recurso e alguns ensinam um pouco sobre estratégia e economia de recursos. Aliás, SC é uma aula sobre gerenciamento de recursos.
+
+Não necessariamente uma fase anterior é mais fácil que uma mais avançada. Tudo depende de como você joga. Você pode se habituar melhor com uma raca específica ou estratégia específica, mas nem sempre ela funciona e a campanha te mostra isso na prática. 
+
+A maior problemática, alias, deste jogo é que o equilíbrio entre as racas é algo delicado. Após lancado eu lembro que os updates que iam surgindo, alem de bugs fe ultims hora, continuam alguma mudança nas regras do kogo para diminuir a vantagem de uma raca em uma situação especifics. Muitos patches surgiram nos primeiros meses e anos. Tudo coletado na Battle Net, a recem inaugirada plataforma para jogos online fa Blizzard que serviu para catapultae de vez este jogo e o próximod sucedodd fa profutora.
+
+Antes de terminar este twxto eu preciso elogiar s trilha sonora deste iogo. Ele é como uma trilha psra filme. É muitp profissional, delicado. É feito parasç quem vai ouvir por horas sem emjoar. Ele contém nusnces wur evoxam obrad de referência bo espaço. Alien, sci fi clasidco. Depois de zerar o iogo vai fazer psrte fo seu repertório mental de músicas que continham uma história, tinham textura, peso, profundidade. E isso vai te fazer jogar de novo.
