@@ -43,3 +43,5 @@ title: 'Bíblia Sagrada: Êxodo'
 > Não dê falso testemunho contra o seu próximo.
 > Não cobice a casa do seu próximo. Não cobice a mulher dele, nem seus servos ou servas, nem seu boi ou jumento, nem qualquer outra coisa que lhe pertença.
 
+> Sacrifique o novilho na presença do SENHOR, à entrada da tenda do encontro. Com o dedo, coloque um pouco do sangue do animal nas pontas do altar e derrame o restante na base do altar. Tome toda a gordura que envolve os órgãos internos, o lóbulo do fígado, os dois rins e a gordura ao redor deles e queime tudo no altar. Depois, tome o restante do novilho, incluindo o couro, a carne e o excremento, e queime-o fora do acampamento como oferta pelo pecado. 
+
