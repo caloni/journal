@@ -1,7 +1,7 @@
 ---
-categories: null
+categories:
+ - movies
 date: '2023-01-16T21:48:16-03:00'
-draft: true
 tags:
  - cinemaqui
 title: A Profecia do Mal
@@ -19,10 +19,10 @@ Mas voltando ao sobrenatural, entra em cena Laura (Alice Orr-Ewing), uma estudio
 
 O exagero no gore e na narrativa faz pensar que há um certo desdém pelos personagens, o que é um sacrilégio na vida real. Indesculpável. Mas todo filme, sobrenatural ou não, precisa de dinheiro para ser produzido. Por ter um tema de nicho, eventualmente surge no contrato a exigência de mostrar demônios, anjos e outras criaturas horrendas de forma literal. E dessa forma a profecia maldita no filme continua poderosa na vida real: a ganância corrompe tudo, e no cinema transforma boas ideias em filmes inchados com efeitos burocráticos que ninguém precisa ver.
 
-Outro problema que surge nesse tipo de projeto é não conseguir um elenco proeminente para segurar a bronca de um roteiro com diálogos sem imaginação. Atores e atrizes de peso fariam alguma coisa mesmo com texto ruim. Nem que seja sarcasmo para cima do primeiro trabalho de Ed Alan. Não é o caso em A Profecia do Mal, que mesmo com esse nome tem a coragem de nos apresentar um elenco que parece acreditar nesse universo sem pensar duas vezes. Parece, mas sem energia, pois ninguém está muito interessado em viver na pele de seus confusos, precários personagens.
+Outro problema que surge nesse tipo de projeto é não conseguir um elenco proeminente para segurar a bronca de um roteiro com diálogos sem imaginação. Atores e atrizes de peso fariam alguma coisa mesmo com texto ruim. Nem que fosse sarcasmo para cima do primeiro trabalho de Ed Alan. Não é o caso em A Profecia do Mal, que mesmo com esse nome tem a coragem de nos apresentar um elenco que parece acreditar nesse universo sem pensar duas vezes. Parece, mas sem energia, pois ninguém está muito interessado em viver na pele de seus confusos, precários personagens.
 
 As exceções talvez sejam duas. Joe Doyle vive a reencarnação do Arcanjo Miguel na Terra e começa a gostar de ser tipo um Exterminador do Futuro na sequência de James Cameron e salvar a loira de parir uma maldição. E Eveline Hall, uma espécie de substituta de Helen Mirren, vive a humana mais devota de Satanás, além da mais insistente. Esses dois preenchem boa parte das duas horas de projeção em um vai-e-vem frenético para decidir o destino da humanidade ou do ventre da loira. Ou ambos.
 
-Porém, visto como um todo, é difícil achar um momento que seja onde se encontra algum traço de paixão pelo filme. Ele poderia ser um pouco mais ruim e incitar risadas acidentais e faria sucesso. Ou poderia ser um pouco melhor e ganhar uma certa fama com o tempo. Ficar no meio termo sabota os esforços que qualquer bem intencionado e incauto espectador teria ao estar na sala de cinema. E por que ele estaria lá? Sei lá, de repente foi o único horário que ele tinha na agenda e ele foi empolgado mesmo com esse título e nomes semi desconhecidos nos créditos. Enfim, não podemos culpar a vítima pelo crime. É raro, mas há boas descobertas quando vamos ao cinema. A notícia triste é que não foi dessa vez.
+Porém, visto como um todo, é difícil achar um momento de paixão pelo filme. Ele poderia ser um pouco mais ruim e incitar risadas acidentais e faria sucesso. Ou poderia ser um pouco melhor e ganhar uma certa fama com o tempo. Ficar no meio termo sabota os esforços que qualquer bem intencionado e incauto espectador teria ao estar na sala de cinema. E por que ele estaria lá? Sei lá, de repente foi o único horário que ele tinha na agenda e ele foi empolgado mesmo com esse título e nomes semi desconhecidos nos créditos. Enfim, não podemos culpar a vítima pelo crime. É raro, mas há boas descobertas quando vamos ao cinema. A notícia triste é que não foi dessa vez.
 
 Todos nós gostaríamos de entender o sobrenatural em uma época cada vez mais objetiva e ganhar um certo amparo. E quando me refiro a sobrenatural não penso apenas em anjos e demônios, mas também em filmes como esse, de material original, que contra todo o bom senso acaba chegando às telonas brasileiras. Por que esses filmes vêm para cá? Pagaremos sempre pelos nossos pecados ao não saber julgar o que passa diante de nossos olhos. Essa, sim, é uma verdadeira maldição.

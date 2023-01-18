@@ -23,7 +23,7 @@ Negras jogam.
 b4 Rd8 16. Qf3 Qf6 17. Qxf6 Bxf6 18. Rad1 Bd7 19. Rd3 Bb5 20. Rxd8+ Rxd8 21. Rc1
 Bg5 22. c4 Ba4 23. b5 Bxe3 24. fxe3 Rd1+ 25. Rxd1 Bxd1 26. c6 bxc6 27. bxc6 Ba4
 28. c7 Bd7 29. c5 Kf8 30. Kf2 Ke7 31. Kf3 Bc8 32. Kf4 f6 33. e4 Kd7 34. e5 fxe5+
-35. Kxe5 Kxc7 36. Kf6 Kc6 37. Kg7 e5 38. Kxh7 Bf5 {<br /><br />Game may have
+35. Kxe5 Kxc7 36. Kf6 Kc6 37. Kg7 e5 38. Kxh7 Bf5 {Game may have
 continued...} (38... Bf5 39. Kh6 e4 40. g4 Bd7 41. Kxg6 e3 42. g5 e2 {-9.94})
 0-1
 ```
