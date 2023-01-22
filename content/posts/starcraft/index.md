@@ -1,8 +1,9 @@
 ---
-categories: null
+categories:
+ - blog
 date: '2023-01-15T14:18:26-03:00'
-draft: true
-tags: null
+tags:
+ - games
 title: StarCraft
 ---
 
@@ -13,7 +14,7 @@ E logo depois criaram um pack de expansão com uma nova campanha e mais elemento
 
 A paixão por StarCraft começa em seu desenvolvimento e contagia beta testers e jogadores finais. Entusiastas gastaram dias e noites para fazer a engenharia reversa deste jogo, tão fascinados estavam pelo funcionamento da engine, baseada na de WarCraft II e que Bob Fitch, o tech lead da equipe, refez em dois meses para resolver de maneira mais simples coisas como invisibilidade. E a paixão estava de ambos os lados. Depois de vários anos o editor de fases criado pela comunidade era mais avançado que o que vinha no CD, tanto que em versões mais recentes o editor original foi aposentado. Esse é o nível de dedicação insana que este jogo trouxe. E até hoje. Em 2017 foi feita uma versão remasterizada, quase 20 anos depois do lançamento original. As melhorias apresentadas tornam mais agradável e simples jogar nos computadores atuais. Os novos gráficos e tela wide, além da possibilidade de alternar entre o modo clássico e o novo com um atalho no teclado em qualquer momento, continuam demonstrando esse capricho de um jogo que definiu um novo patamar de qualidade no gênero de RTS (Real Time Strategy).
 
-A história do jogo caminha pelo mesmo esmero. Pautada em uma guerra entre as raças, a profundidade do pano de fundo muitos filmes do gênero nem sonham em atingir. Nas brincadeiras que ocorreram nas mentes dos seus criadores, Chris Metzen e James Phinney, existe a figura dos humanos adaptáveis do futuro, ex-criminosos transformados em colonos, vagando pela galáxia, e duas raças alienígenas que foram desenhadas por um "grande criador" Xel'Naga. Como jogo este é um projeto que atrasou por muito tempo até ficar redondo, mas quando ficou pronto eles podiam exibir com orgulho as criações do universo.
+A história do jogo caminha pelo mesmo esmero. Pautada em uma guerra entre as raças, a profundidade do pano de fundo muitos filmes do gênero nem sonham em atingir. Nas brincadeiras que ocorreram nas mentes dos seus criadores, Chris Metzen e James Phinney, existe a figura dos humanos adaptáveis do futuro, ex-criminosos transformados em colonos, vagando pela galáxia, e duas raças alienígenas que foram desenhadas por um "grande criador" de nome Xel'Naga. Como jogo este é um projeto que atrasou por muito tempo até ficar redondo, mas quando ficou pronto eles podiam exibir com orgulho as criações do universo.
 
 Até a trilha sonora merece elogios. Compostas por Glenn Stafford e Derek Duke como que para um longa-metragem, as músicas favorecem nossa imersão neste universo. É feito para quem vai ouvir por horas sem enjoar. Ela contém nuances que evocam obras de referência no sci-fi espacial. Alien, por exemplo. Depois de zerar o jogo vai fazer parte de sua memória musical como um repertório que contém uma história, textura, peso e profundidade. Vai te fazer jogar de novo.
 
@@ -21,4 +22,4 @@ Existem três grandes divisões da campanha do jogo, uma por raça, teoricamente
 
 Na campanha, uma fase anterior não necessariamente é mais fácil que uma mais avançada. Tudo depende de como você joga. Você pode se habituar melhor com uma raça específica ou estratégia específica, mas nem sempre ela vai funcionar. Outra função das fases de campanha é te mostrar isso na prática. 
 
-Aliás, a maior problemática no desenvolvimento deste jogo é exigir que o equilíbrio das forças entre as raças seja algo constante. Após lançado houve vários patches de correção. Além de correções de bugs, esses patches continuam uma ou outra mudança nas regras do jogo com o objetivo de diminuir a vantagem de uma raça em uma situação específica. Houve um esforço significativo para evitar também aqueles jogadores que investem tudo na tática do rush, ou seja, construir que nem louco o mesmo tipo de infantaria e atacar com tudo. Hoje essas tentativas acabam falhando se você souber se defender direito. É esse tipo de detalhe que torna a obra um exemplo de esmero na arte da guerra.
+Aliás, a maior problemática no desenvolvimento deste jogo é exigir que o equilíbrio das forças entre as raças seja algo constante. Após lançado houve vários patches de correção. Além de correções de bugs, esses patches continham uma ou outra mudança nas regras do jogo com o objetivo de diminuir a vantagem de uma raça em uma situação específica. Houve um esforço significativo para evitar também aqueles jogadores que investem tudo na tática do rush, ou seja, construir que nem louco o mesmo tipo de infantaria e atacar com tudo. Hoje essas tentativas acabam falhando se você souber se defender direito. É esse tipo de detalhe que torna a obra um exemplo de esmero na arte da guerra.

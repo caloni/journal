@@ -1,8 +1,7 @@
 ---
-categories: null
+categories:
+ - movies
 date: '2023-01-16T22:51:49-03:00'
-draft: true
-tags: null
 title: Eu Sou Juani
 ---
 
