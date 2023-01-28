@@ -1,10 +1,11 @@
 ---
 categories:
- - cinema
+ - movies
 date: '2023-01-23T17:09:11-03:00'
 draft: true
 tags:
  - cinemaqui
+ - mostratiradentes
 title: Mostra Panorama Série 1
 ---
 

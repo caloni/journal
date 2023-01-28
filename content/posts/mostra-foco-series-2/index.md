@@ -5,7 +5,8 @@ date: '2023-01-25T09:51:48-03:00'
 draft: true
 tags:
  - cinemaqui
-title: Mostra Foco - Séries 2
+ - mostratiradentes
+title: Mostra Foco Séries 2
 ---
 
 KENZO ou o triunfo da auto-desintegração, de Pedrokas

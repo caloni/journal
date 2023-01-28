@@ -5,7 +5,8 @@ date: '2023-01-25T09:51:10-03:00'
 draft: true
 tags:
  - cinemaqui
-title: Mostra Panorama - Série 3
+ - mostratiradentes
+title: Mostra Panorama Série 3
 ---
 
 Onde a gente se encontra, de Talita Virginia

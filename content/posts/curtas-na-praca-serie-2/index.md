@@ -5,6 +5,7 @@ date: '2023-01-26T09:56:35-03:00'
 draft: true
 tags:
  - cinemaqui
+ - mostratiradentes
 title: Curtas na Praça Série 2
 ---
 

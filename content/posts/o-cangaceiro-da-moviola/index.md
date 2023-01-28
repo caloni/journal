@@ -5,6 +5,7 @@ date: '2023-01-25T09:51:23-03:00'
 draft: true
 tags:
  - cinemaqui
+ - mostratiradentes
 title: O Cangaceiro da Moviola
 ---
 
