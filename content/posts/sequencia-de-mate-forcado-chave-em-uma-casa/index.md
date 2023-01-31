@@ -2,11 +2,11 @@
 categories:
 - chess
 date: '2023-01-17T18:56:20-03:00'
-draft: true
 link: https://www.chess.com/game/live/67729990167
-tags: null
 title: Sequência de mate forçado onde a chave é o controle de uma casa
 ---
+
+Brancas jogam e eu nem sei mais por que salvei essa partida.
 
 {{< image src="board.png" >}}
 

@@ -2,7 +2,6 @@
 categories:
  - movies
 date: '2023-01-23T17:09:11-03:00'
-draft: true
 tags:
  - cinemaqui
  - mostratiradentes
@@ -23,7 +22,7 @@ Sem diálogos, a sensação de profundidade e movimento no trabalho de Marina Ba
 
 Cine Pornô – Fragmentos de Desejo e Medo, de Luis Teixeira Mendes
 
-Um filme muito curta quase todo montado em cima de fotografias indiscretas de momentos em um cinema pornô no centro do Rio de Janeiro. Já fizeram trabalhos de conclusão de curso com a temática dos dizeres em banheiros públicos. Trabalhos que fizeram alunos passar de ano e consumiram papel. Não há limites para a insignificância humana dentro da esfera social. Com este trabalho Luis Teixeira Mendes demonstra em cinco minutos como há infinitas horas de nada que preste dentro do audiovisual brasileiro. Uma lição para as próximas gerações. Uma falta de respeito com o pessoal da limpeza.
+Um filme muito curto quase todo montado em cima de fotografias indiscretas de momentos em um cinema pornô no centro do Rio de Janeiro. Já fizeram trabalhos de conclusão de curso com a temática dos dizeres em banheiros públicos. Trabalhos que fizeram alunos passar de ano e consumiram papel. Não há limites para a insignificância humana dentro da esfera social. Com este trabalho Luis Teixeira Mendes demonstra em cinco minutos como há infinitas horas de nada que preste dentro do audiovisual brasileiro. Uma lição para as próximas gerações. Uma falta de respeito com o pessoal da limpeza.
 
 Claudio, de Calebe Lopes
 

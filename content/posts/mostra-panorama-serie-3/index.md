@@ -2,7 +2,6 @@
 categories:
  - movies
 date: '2023-01-25T09:51:10-03:00'
-draft: true
 tags:
  - cinemaqui
  - mostratiradentes
@@ -15,7 +14,7 @@ A proposta é discutir a radicalização das opiniões entre a própria diretora
 
 Soberane, de Wara
 
-Este singelo e competente estudo de personagem brinca por um momento com o jogo de cores em um mundo preto e branco que demonstra potencialidade ainda sem realização. A heroína ainda está decidindo o que será dela neste novo planeta habitável que é Cuba. Ela veio do Brasil. Até que chega uma pandemia e põe tudo a perder. E sentimos a dor de ter que retornar e admitir que a pessoa que terá que voltar é outra. Sensível sem precisar de diálogos expositivos. Potente apenas com sua narrativa visual e um momento de catarse em seu final que impacta em mais de uma camada (o que é muito para um curta).
+Este singelo e competente estudo de personagem brinca por um momento com o jogo de cores em um mundo preto e branco que demonstra potência sem aplicação. A heroína ainda está decidindo o que será dela neste novo planeta habitável que é Cuba. Ela veio do Brasil. Até que chega uma pandemia e põe tudo a perder. E sentimos a dor de ter que retornar e admitir que a pessoa que terá que voltar é outra. Sensível sem precisar de diálogos expositivos. Potente apenas com sua narrativa visual e um momento de catarse em seu final que impacta em mais de uma camada (o que é muito para um curta).
 
 Todavia Sinto, de Evelyn Santos
 

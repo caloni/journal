@@ -2,11 +2,11 @@
 categories:
 - chess
 date: '2023-01-17T22:19:20-03:00'
-draft: true
 link: https://www.chess.com/game/live/67741344001
-tags: null
 title: Partida boa, mas computador não acha tanto
 ---
+
+Pretas jogam e é mate em dois.
 
 {{< image src="board.png" >}}
 

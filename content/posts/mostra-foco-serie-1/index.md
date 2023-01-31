@@ -2,7 +2,6 @@
 categories:
  - movies
 date: '2023-01-24T10:50:40-03:00'
-draft: true
 tags:
  - cinemaqui
  - mostratiradentes
@@ -11,7 +10,7 @@ title: Mostra Foco Série 1
 
 Os Animais Mais Fofos e Engraçados do Mundo, de Renato Sircilli
 
-Se há um curta mais sucinto e poderoso que este na Mostra de Tiradentes eu não o vi. Ele fala sobre nossa crise de afeição moderna. Paulo Goya constrói Jorge, um faxineiro de motel que grava áudio dos clientes para vender a Alberto, que vira seu parceiro sexual. Parece um negócio em que todos ganham, mas apesar de ter tudo, Jorge não tem o mínimo para uma vida sã: o afeto do outro. Sua gravação mais emblemática é de um casal hétero em que ela compartilha vídeos de bichinhos com o amante. Repare na conexão entre esse momento e as marcas no corpo de quem um raio o atravessou e verá um trabalho detalhista e carregado de ensinamentos emocionais.
+Se há um curta mais sucinto e poderoso que este na Mostra de Tiradentes eu não o vi. Ele fala sobre nossa crise de afeição moderna. Paulo Goya constrói Jorge, um faxineiro de motel que grava áudio dos clientes para vender a Alberto, que vira seu parceiro sexual. Parece um negócio em que todos ganham, mas apesar de ter tudo, Jorge não tem o mínimo para uma vida sã: o afeto do outro. Sua gravação mais emblemática é de um casal hétero em que ela compartilha vídeos de bichinhos com o amante. Repare nas relações metafóricas do filme, como entre esse momento e as marcas no corpo de quem um raio o atravessou, e verá um trabalho detalhista e carregado de ensinamentos emocionais.
 
 Lalabis, de Noá Bonoba
 

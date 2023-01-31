@@ -2,7 +2,6 @@
 categories:
  - movies
 date: '2023-01-26T09:56:35-03:00'
-draft: true
 tags:
  - cinemaqui
  - mostratiradentes
@@ -11,7 +10,7 @@ title: Curtas na Praça Série 2
 
 Ferro’s Bar, de Cine Sapatão (Aline A. Assis, Fernanda Elias, Nayla Guerra e Rita Quadros)
 
-Este curta documentário mantém um dinamismo e uma fluidez na narrativa invejável para muitos outros filmes da Mostra. Se trata do depoimento de 4 mulheres sobre o clima de um bar tolerante à lésbicas na década de 80 na cidade de São Paulo e o que se seguiu depois de um policial conservador invadir o lugar. Cada frase que uma termina emenda em uma cena ou na frase que outra começa. É enxuto, é eficiente, é emocionante. A construção do senso de direitos humanos e que precisamos lugar por eles em pouquíssimos atos. E por isso mesmo poderoso.
+Este curta documentário mantém um dinamismo e uma fluidez na narrativa invejável para muitos outros filmes da Mostra. Se trata do depoimento de 4 mulheres sobre o clima de um bar tolerante a lésbicas na década de 80 na cidade de São Paulo e o que se seguiu depois de um policial conservador invadir o lugar. Cada frase que uma termina emenda em uma cena ou na frase que outra começa. É enxuto, é eficiente, é emocionante. A construção do senso de direitos humanos e de que precisamos lutar por eles em pouquíssimos atos. E por isso mesmo poderoso.
 
 A Orquestra das Diretas, de Caue Nunes
 

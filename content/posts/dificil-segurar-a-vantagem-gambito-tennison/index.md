@@ -2,9 +2,7 @@
 categories:
 - chess
 date: '2023-01-28T20:05:35-03:00'
-draft: true
 link: https://www.chess.com/game/live/68685197341
-tags: null
 title: Difícil segurar a vantagem no Gambito Tennison
 ---
 

@@ -2,7 +2,6 @@
 categories:
  - movies
 date: '2023-01-22T23:57:31-03:00'
-draft: true
 tags:
  - cinemaqui
  - mostratiradentes

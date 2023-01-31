@@ -45,3 +45,16 @@ title: 'Bíblia Sagrada: Êxodo'
 
 > Sacrifique o novilho na presença do SENHOR, à entrada da tenda do encontro. Com o dedo, coloque um pouco do sangue do animal nas pontas do altar e derrame o restante na base do altar. Tome toda a gordura que envolve os órgãos internos, o lóbulo do fígado, os dois rins e a gordura ao redor deles e queime tudo no altar. Depois, tome o restante do novilho, incluindo o couro, a carne e o excremento, e queime-o fora do acampamento como oferta pelo pecado. 
 
+> Então Moisés disse aos levitas: "Hoje vocês se consagraram para o serviço do SENHOR, pois lhe obedeceram mesmo quando tiveram de matar seus próprios filhos e irmãos. Hoje vocês receberam dele uma bênção". 
+
+> Mas eu não viajarei no meio de vocês, pois são um povo teimoso e rebelde. Se eu os acompanhasse, certamente os destruiria ao longo do caminho". 
+
+> Javé é a transliteração mais provável do nome próprio YHWH; nesta tradução aparece, em geral, como "SENHOR". 
+
+> SENHOR disse ainda: "Fique nesta rocha, perto de mim. Quando minha presença gloriosa passar, eu o colocarei numa abertura da rocha e o cobrirei com minha mão até que eu tenha passado. Depois, tirarei minha mão e você me verá pelas costas. Meu rosto, porém, ninguém poderá ver". 
+
+> "Javé! O SENHOR! O Deus de compaixão e misericórdia! Sou lento para me irar e cheio de amor e fidelidade. Cubro de amor mil gerações e perdoo o mal, a rebeldia e o pecado. Contudo, não absolvo o culpado; trago as consequências do pecado dos pais sobre os filhos até a terceira e quarta geração". 
+
+> Vocês têm seis dias na semana para fazer o trabalho habitual, mas o sétimo dia será um sábado de descanso total, um dia consagrado ao SENHOR. Quem trabalhar no sábado será executado. Nem sequer acendam fogo em suas casas no sábado". 
+
+> O povo contribuiu com ofertas especiais de ouro que totalizaram 1.024 quilos, 132 calculados de acordo com o siclo do santuário. Esse ouro foi usado em toda a construção do santuário. (...) O imposto foi arrecadado de 603.550 homens de 20 anos para cima. 
