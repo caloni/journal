@@ -1,9 +1,9 @@
 ---
 categories:
- - reading
+ - quotes
 date: '2023-01-31T23:05:00-03:00'
 draft: true
-title: Cognitive Dissonance
+title: Cognitive Dissonance (Definition)
 ---
 
 This is why people get upset when their beliefs are challenged
