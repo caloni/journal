@@ -7,3 +7,5 @@ title: Pereira Villela (Itajubá, MG)
 ---
 
 Espresso cremoso, azedo como uma torra mais balanceada. O rapaz lá tem todo equipamento para colher, torrar e moer. É o esquema de minitorrefação. Peguei o intenso local para experimentar e o que provei, de uma fazenda específica.
+
+Na Aeropress a torra intensa da casa ficou muito massa. Baixa acidez e corpo médio com sabor frutado e ligeiramente azedo.
