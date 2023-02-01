@@ -1,8 +1,8 @@
 ---
-categories: null
+categories:
+ - food
 date: '2023-01-31T23:06:58-03:00'
 draft: true
-tags: null
 title: Bar da Maria
 ---
 

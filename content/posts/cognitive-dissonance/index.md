@@ -1,8 +1,8 @@
 ---
-categories: null
+categories:
+ - reading
 date: '2023-01-31T23:05:00-03:00'
 draft: true
-tags: null
 title: Cognitive Dissonance
 ---
 

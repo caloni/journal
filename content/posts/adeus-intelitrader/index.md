@@ -1,8 +1,8 @@
 ---
 categories:
+ - blog
 date: '2023-01-31T22:45:45-03:00'
 draft: true
-tags:
 title: Adeus, Intelitrader
 ---
 

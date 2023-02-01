@@ -1,8 +1,8 @@
 ---
-categories: null
+categories:
+ - quotes
 date: '2023-01-31T23:08:16-03:00'
 draft: true
-tags: null
 title: Felicidade e Pensamentos (Marco Aurélio)
 ---
 

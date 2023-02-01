@@ -1,8 +1,8 @@
 ---
-categories: null
+categories:
+ - food
 date: '2023-01-31T23:07:17-03:00'
 draft: true
-tags: null
 title: Tempero da Angela em Bixinho
 ---
 

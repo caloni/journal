@@ -1,8 +1,8 @@
 ---
-categories: null
+categories:
+ - coffee
 date: '2023-01-31T23:06:52-03:00'
 draft: true
-tags: null
 title: Café de Itajubá
 ---
 

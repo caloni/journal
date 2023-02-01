@@ -1,8 +1,8 @@
 ---
-categories: null
+categories:
+ - movies
 date: '2023-01-31T23:08:26-03:00'
 draft: true
-tags: null
 title: O Banheiro do Papa
 ---
 
