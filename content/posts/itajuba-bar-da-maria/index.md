@@ -2,7 +2,6 @@
 categories:
  - food
 date: '2023-01-31T23:06:58-03:00'
-draft: true
 title: Bar da Maria (Itajubá, MG)
 ---
 
