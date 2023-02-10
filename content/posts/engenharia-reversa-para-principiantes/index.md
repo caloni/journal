@@ -2,7 +2,7 @@
 categories:
 - code
 date: '2007-10-10'
-link: /ppt/engenhariareversaparaprincipiantes.pdf
+link: https://github.com/Caloni/lectures/blob/master/engenhariareversaparaprincipiantes.pdf
 title: Engenharia reversa para principiantes
 ---
 
