@@ -33,5 +33,5 @@ It is important to remember that a DllMain dependant code is a very, very bad th
 
 Among the classic Matt Pietrek posts in Microsoft Journal there is in the [1999 september edition] a short one about DLL initialization. That is the more sucint, didatic and simple text about this question.
 
-[silly code]: http://www.caloni.com.br/code/dll_lock.cpp
+[silly code]: dll_lock.cpp
 [[1999 september edition]]: http://bytepointer.com/resources/pietrek_debug_init_routines.htm

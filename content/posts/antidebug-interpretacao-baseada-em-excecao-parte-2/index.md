@@ -176,4 +176,4 @@ Essa foi a técnica adicionada à solução do lançamento de exceções. E o [c
 Veja que como agora permitimos a seleção do anti-debug por chamada, fica mais fácil escolher quais os pontos a serem protegidos e quais não devem/podem por conta de perfomance ou outro detalhe obscuro que sempre existe na vida de um programador C++.
 
 [primeiro artigo]: {{< relref "antidebug-interpretacao-baseada-em-excecao-parte-1" >}}
-[código final]: https://caloni.com.br/code/antidebug-exception-2.cpp
+[código final]: antidebug-exception-2.cpp

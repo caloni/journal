@@ -5,9 +5,7 @@ tags: null
 title: Breakpoints promíscuos
 ---
 
-Ontem falei sobre como "brincar" com os breakpoints promíscuos, ou seja, aqueles que topam qualquer processo. Isso
-
-é muito simples de se fazer:
+Ontem falei sobre como "brincar" com os breakpoints promíscuos, ou seja, aqueles que topam qualquer processo. Isso é muito simples de se fazer:
 
 - [Configure uma VM para bootar em kernel debug](http://driverentry.com.br/blog/?p=433).
 - Encontre um processo qualquer (vamos usar o notepad pra variar?).

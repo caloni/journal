@@ -195,5 +195,5 @@ Eu não me responsabilizo por qualquer (mau) uso do script aqui disponibilizado,
 O criador do [DriverEntry](http://www.driverentry.com.br) me questionou se não seria mais fácil, em vez de escrever todos os opcodes em hexa, usar o comando a, que permite entrar o código assembly diretamente a partir de um endereço especificado. Essa realmente é uma ótima idéia, e de fato eu tentei isso no começo de meus testes. Porém, infelizmente para scripts isso não funciona bem. A partir do comando a o prompt fica esperando uma entrada do usuário, não lendo o assembly que estaria no próprio script. Pior ainda, a escrita do assembly não permite usar os registradores temporários, como $t0 ou $t1, o que nos força a escrever um código dependende de valores constantes. Por esses motivos, tive que apelar para o comando e, que é a forma mais confusa de escrever e entender assembly. Nesse tipo de edição é vital comentar bem cada linha que se escreve.
 
 [artigo anterior]: {{< relref "carregando-dlls-arbitrarias-pelo-windbg" >}}
-[script que carrega DLLs]: {{< resource src="loadlibrary.txt" >}}
+[script que carrega DLLs]: loadlibrary.txt
 [um artigo do Roberto Farah]: https://docs.microsoft.com/en-us/archive/blogs/debuggingtoolbox/windbg-script-get-portable-executable-headers

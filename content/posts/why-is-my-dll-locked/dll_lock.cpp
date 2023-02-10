@@ -6,7 +6,6 @@
 HANDLE g_thrLock = NULL; // locked thread handle
 BOOL g_getOut = FALSE; // it would be useful to unlock the thread, but it's not
 
-
 /** The thread locker
 
 The function of this thread is to lock. It tries to call DllMain (indirectly). 
@@ -50,4 +49,4 @@ BOOL WINAPI DllMain(HINSTANCE hinstDLL, DWORD fdwReason, LPVOID lpvReserved)
 		WaitForSingleObject(g_thrLock, INFINITE);
 		CloseHandle(g_thrLock), g_thrLock = NULL;
 	}
-}
+} 

@@ -82,4 +82,4 @@ E, por fim, a chamada. Como é a chamada de um método, é quase intuitiva a nec
 
 Esses operadores obrigam o programador a sempre ter um objeto e um ponteiro. Daí não tem como errar. Infelizmente, devido à ordem de precedência, temos que colocar os parênteses em torno da expressão para chamar o método. Pelo menos fica equivalente ao que precisávamos fazer antes da padronização da linguagem C.
 
-[exemplo simples]: http://www.caloni.com.br/code/member_pointer.cpp
+[exemplo simples]: member_pointer.cpp

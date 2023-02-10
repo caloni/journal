@@ -31,7 +31,7 @@ Se não for exatamente o que você precisa, basta fazer uma [pesquisa de quinze 
     devenv "%1" /Rebuild Release
     exit /b %errorlevel%
 
-Note que meu script usa a [estrutura padronizada dos diretórios de um projeto](http://www.caloni.com.br/projeto-modelo), onde cada tipo de componente tem sua pasta e solução.
+Note que meu script usa a estrutura padronizada dos diretórios de um projeto, onde cada tipo de componente tem sua pasta e solução.
 
 Aos poucos você pode ir colocando "frescurinhas" em seu build (executa Debug e Release, roda automatizado no servidor, faz testes unitários, incrementa o número da versão, ...), mas algumas premissas sempre se mantêm:
 

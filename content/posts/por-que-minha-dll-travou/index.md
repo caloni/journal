@@ -31,5 +31,5 @@ Uma simples vítima disso pode ser um pobre executável usando uma pobremente es
 
 Entre os clássicos e inestimáveis artigos de Matt Pietrek no Microsoft Journal há na [edição de setembro de 1999] um bem curto a respeito da inicialização de DLLs. Essa é a leitura mais sucinta, didática e esclarecedora sobre a questão.
 
-[código besta]: http://www.caloni.com.br/code/dll_lock.cpp
+[código besta]: dll_lock.cpp
 [edição de setembro de 1999]: http://bytepointer.com/resources/pietrek_debug_init_routines.htm
