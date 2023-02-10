@@ -1,6 +1,1 @@
-call matchadd("search", "Dá para assistir")
-call matchadd("search", "(Itajubá)")
-call matchadd("search", "de uma fazenda específica.")
-call matchadd("search", "Wong estã com impressionantes 93 anos e segue firme e forte.")
-call matchadd("search", "Já no quesito do áudio há virtudes que trabalham em uníssono entre edicão de som")
-call matchadd("search", "duas singelas pedras dialogando sobre a existência cercados")
+call matchadd("search", "expectador")
