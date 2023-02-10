@@ -113,7 +113,7 @@ foreach( $pushData->commits as $c )
 
 ```
 
-Agora é só testar. Posso pegar esse mesmo artigo e comitá-lo no [repositório do blogue](https://github.com/Caloni/Caloni.com.br) usando o linque único do card da tarefa de escrever este artigo. Ou seja, aqui é Inception na veia, mermão!
+Agora é só testar. Posso pegar esse mesmo artigo e comitá-lo no [repositório do blogue](https://github.com/Caloni/blog) usando o linque único do card da tarefa de escrever este artigo. Ou seja, aqui é Inception na veia, mermão!
 
 {{< image src="NzQPB9o.png" caption="Comitando o artigo para gerar evento que irá comentar no Trello para continuar este artigo que estou comitando.." >}}
 

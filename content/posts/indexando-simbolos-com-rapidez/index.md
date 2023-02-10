@@ -39,7 +39,7 @@ Para resolver isso, o mínimo que se deve fazer é super-simples e nada difícil
 "c:\Tools\DbgTools(x86)\symstore" add /r /f <MINHA-PASTA-COM-BINÁRIOS> /s c:\Tools\Symbols /t "IndexSymbols"
 ```
 
-Essa e outra técnicas de indexar fontes e binário você pode ver no meu [projeto](https://github.com/Caloni/GitIndex), [artigo], [palestra](http://caloni.com.br/ccppbr-rio-12/) e [vídeo de demonstração](https://www.youtube.com/watch?v=mZewxqlFShA). Se você for cego, ainda tem a vantagem da áudio-narração do vídeo. Brincadeira, ainda não temos isso.
+Essa e outra técnicas de indexar fontes e binário você pode ver no meu [artigo], na [palestra](http://caloni.com.br/ccppbr-rio-12/) e [vídeo de demonstração](https://www.youtube.com/watch?v=mZewxqlFShA). Se você for cego, ainda tem a vantagem da áudio-narração do vídeo. Brincadeira, ainda não temos isso.
 
 ### Simplificando
 

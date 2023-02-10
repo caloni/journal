@@ -123,5 +123,3 @@ USING_LIB(lib1, "0.0.1");
 {{< image src="all-strings-using.png" caption="Todas as strings do meu projeto" >}}
 
 Com esse simples mecanismo que não gasta mais do que algumas chamadas de assembly no início da lib (antes do main) e o espaço ocupado na memória pelas strings somadas (menos de 1KB, provavelmente) você tem em suas mãos uma poderosa ferramenta de análise de como os binários estão sendo gerados pela sua equipe remota, ou por qual configuração foi usada na máquina de build para gerar aquela DLL com aquele problema antigo, ou porque algo que funcionava parou de funcionar e nada foi mexido (isso nunca acontece, não é mesmo?).
-
-_O código dessa brincadeira está no meu repositório de [samples](https://github.com/Caloni/samples/tree/master/Using) do GitHub._

@@ -2,8 +2,6 @@
 categories:
 - code
 date: 2019-05-17 19:04:53-03:00
-desc: Implementação de sistema polimórfico de chamada de métodos do CLOS (Common Lisp
-  Object System). Atualizado em 2019-05-19 para retirar todo C++ e usar glib.
 tags: null
 title: C Resolve Tudo Clos
 ---
@@ -13,8 +11,6 @@ Continuando nossa série, conforme sugerido pelo @colemaker do grupo C/C++/42/Im
 {{< image src="VcPXDcJ.jpg" caption="" >}}
 
 O aspecto-chave aqui, conforme eu descobri, é implementar a estratégia de prioridades entre as sobrecargas dos métodos de acordo com os tipos passados. Analisando bem por cima devemos sempre priorizar os métodos com os tipos mais específicos e ir realizando underpromotion até chegarmos no menos específico (se houver).
-
-A implementação está [no GitHub](https://github.com/Caloni/cdefgeneric).
 
 # Sistema de tipos
 

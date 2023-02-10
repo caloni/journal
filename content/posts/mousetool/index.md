@@ -1,7 +1,6 @@
 ---
 categories: []
 date: '2007-11-13'
-link: https://github.com/Caloni/mtool
 tags:
 - english
 title: MouseTool
@@ -15,7 +14,7 @@ There are some options like drag-and-drop and double-click, both available throu
 
 MouseTool was originally a open source tool. That means the lastest open source code is available, right? Wrong. Actually, I was unable to find it in every place I looked for.
 
-Fortunately, my friend [Marcio Andrey] has got the source, and just like me, he wanted to make it available to everyone who would like to use it and change it. That's why I'm publishing it in [GitHub]. It's free, and it's 4all =).
+Fortunately, my friend [Marcio Andrey] has got the source, and just like me, he wanted to make it available to everyone who would like to use it and change it.
 
 Let's make use of this source and show how to explore a code not written by us. Normally the first things to do are: download the compacted file and extract the files into a new folder. So we find the project file (in this case, MouseTool.dsw) and try to open it. The result is a total failure, because I believe no one use the Visual Studio version that opens this kind of file (it will convert it to another one).
 
@@ -28,5 +27,4 @@ Click in the link in the end of the post and make good use of it.
 Update: MouseTool now has a home page and a Source Forge project! Its new name is [GMouseTool].
 
 [Marcio Andrey]: http://marcioandreyoliveira.blogspot.com/search/label/GMouseTool
-[GitHub]: https://github.com/Caloni/mtool
 [GMouseTool]: http://gmousetool.sourceforge.net

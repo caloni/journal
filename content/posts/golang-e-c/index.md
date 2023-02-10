@@ -2,7 +2,6 @@
 categories:
 - code
 date: '2020-04-05'
-link: https://github.com/Caloni/golang_c
 title: Golang e C
 ---
 
@@ -23,5 +22,3 @@ A linguagem Go na versão mais nova precisa que seja definida através da cgo, o
          GoCallback
 
 Em resumo: o main em Go chama C.set_callback (função C exportada) passando o endereço do seu callback (em cgo) e em uma segunda chamada ou nessa mesma pede para chamar esse callback. O módulo em C pode ou não chamar essa função nessa thread ou mais tarde, através do ponteiro de função que estocou (g_callback). Ao chamá-la, ativará a função GoCallback_cgo, que por sua vez chamará GoCallback, essa sim, já no módulo Go (embora ambas estejam no mesmo executável, já que C e Go podem ser linkados juntos de maneira transparente.
-
-Criei um repositório com os fontes deste artigo. Bom proveito =)

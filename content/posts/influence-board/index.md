@@ -29,7 +29,7 @@ Agora ficou muito mais fácil de perceber que a única saída do rei não possui
 
 Essa maneira de mostrar as influências em um tabuleiro de xadrez eu apelidei de Influence Board, e criei um projeto em linha de comando para fazer as devidas considerações a respeito de uma posição determinada. Mas como ninguém hoje em dia gosta de usar o WinDbg pra jogar xadrez, transformei meu projeto em pseudo-plugin para o [WinBoard], um famoso frontend de xadrez que costumo usar em minhas esporádicas partidas.
 
-Basicamente a única coisa que o futuro usuário das influências deve fazer é baixar o projeto WinBoard; no caso a versão disponível [meu repositório do GitHub] (obs.: já contém o XBoard e o WinBoard completos) e compilar (suporta cmake). Caso queira uma versão nova do programa terá que fazer o merge entre as duas versões (a versão base usada foi a 2.4.7).
+Basicamente a única coisa que o futuro usuário das influências deve fazer é baixar o projeto WinBoard; no caso a versão disponível meu repositório do GitHub (update: not anymore) e compilar (suporta cmake). Caso queira uma versão nova do programa terá que fazer o merge entre as duas versões (a versão base usada foi a 2.4.7).
 
     mkdir build && cd build
     cmake -A Win32 ..
@@ -44,4 +44,3 @@ Após compilado, basta rodar o winboard.exe gerado; haverá uma nova opção "Sh
 Bom divertimento!
 
 [WinBoard]: http://www.tim-mann.org/xboard.html
-[meu repositório do GitHub]: https://github.com/Caloni/influence_board

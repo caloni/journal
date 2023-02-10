@@ -127,7 +127,4 @@ Como é normal a qualquer dicionário do Babylon, podemos instalá-lo simplesmen
 
 O projeto atual está um tanto capenga, mas já desencripta os arquivos do Houaiss e gera o projeto do Babylon Builder sozinho. Em anexo já está um projeto do Babylon Builder. Basta copiar o arquivo Houaiss.txt para a pasta do projeto e gerar o projeto do Babylon.
 
-Para os interessados em incrementar [a versão atual], sintam-se à vontade.
-
 [estar lembrados]: {{< relref "conversor-de-houaiss-para-babylon-parte-1" >}}
-[a versão atual]: https://github.com/Caloni/Houaiss2Babylon

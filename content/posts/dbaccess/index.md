@@ -8,7 +8,7 @@ title: DBAccess
 
 Bancos de dados são uma dor de cabeça para o desenvolvedor acessar. Quase tão motivation killer que as configurações do .NET. Se for um programador em C++ para Windows, então, desista.
 
-O [DBAccess](https://github.com/Caloni/DBAccess) é mais um dos códigos-fonte desenterrados dos meus backups. Esse eu usei já em vários projetos, porque é simples e rápido de usar.
+O DBAccess é mais um dos códigos-fonte desenterrados dos meus backups. Esse eu usei já em vários projetos, porque é simples e rápido de usar.
 
 ```
 class DBAccess

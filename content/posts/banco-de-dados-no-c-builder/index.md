@@ -17,7 +17,7 @@ Quase como um prêmio de consolação por participarmos de um sorteio que sabemo
 
 Um problema inicial está no fato que o arquivo está no formato HTML, um formato mais difícil de usarmos no C++ Builder. Portanto, irei converter este formato em algo mais maleável, como um arquivo do Microsoft Access, o famoso MDB, ou um CSV.
 
-Para a conversão, nada mais que algumas [expressões regulares](http://guia-er.sourceforge.net/) e [macros de edição](http://notepad-plus.sourceforge.net/uk/site.htm) não resolvam em 5 minutos, sem contar a opção de importação do próprio Access. Para evitar perder estes 5 minutos deixei disponível o banco de dados gerado no [repositório do projeto] junto com o projeto que criaremos para demonstrar a visualização.
+Para a conversão, nada mais que algumas [expressões regulares](http://guia-er.sourceforge.net/) e [macros de edição](http://notepad-plus.sourceforge.net/uk/site.htm) não resolvam em 5 minutos, sem contar a opção de importação do próprio Access.
 
 Neste tutorial vamos usar aquilo que é o configurador oficial de banco de dados no C++ Builder: o BDE. Se você ainda não observou, após a instalação do C++ Builder um novo item surgiu no Painel de Controle, o BDE Administrator. Vamos usá-lo para configurar uma base de dados baseada no nosso arquivo MDB recém-gerado.
 
@@ -67,4 +67,3 @@ E é isso! Se chegamos até aqui, já sabemos o arroz com feijão de usar banco 
  - 2021-03-27. Durante a revisão deste post eu tentei rodar a aplicação sem sucesso. Existem erros na abertura e configuração do arquivo mdb que não perdi mais tempo tentando resolver.
 
 [Caixa Econômica Federal]: http://loterias.caixa.gov.br
-[repositório do projeto]: https://github.com/Caloni/MegaSena

@@ -22,10 +22,7 @@ Normalmente programadores de projetos de fonte aberto estão acostumados a obter
 
 Por exemplo, dados os arquivos-fonte, nós podemos explorar algumas partes interessantes de coisas que gostaríamos de fazer em nossos próprios programas. São trechos pequenos de código que fazem coisas úteis que gastaríamos algumas horas/dias para pesquisar na internet e achar a resposta procurada. Através de um projeto de fonte aberto, conseguimos usar um programa e ao mesmo tempo aprender seu funcionamento. E a principal parte é: nós temos o fonte, mas não os direitos autorais.
 
-Subi um repo no [GitHub] para baixar o programa; faça bom uso dele.
-
 PS: MouseTool agora tem uma versão Linux em um projeto no Source Forge! Seu nome é [GMouseTool], projeto criado por Márcio de Oliveira.
 	
 [Marcio Andrey]: http://marcioandreyoliveira.blogspot.com/search/label/GMouseTool
-[GitHub]: https://github.com/Caloni/mtool
 [GMouseTool]: http://gmousetool.sourceforge.net

@@ -5,7 +5,7 @@ tags: null
 title: CppTests
 ---
 
-Iniciei um [novo projeto no GitHub](https://github.com/Caloni/ccpptests) que tem por objetivo ser minha prancheta de trabalhos para minha palestra no [próximo encontro ccpp]. Há uma infinitude de coisinhas novas na linguagem C++, fora as adições à biblioteca STL, mas que devem passar despercebidas da maioria dos programadores, que está mais é querendo terminar seus próprio projetos. Enquanto alguns conceitos, sintaxes e métodos não se solidificam, vale a pena dar uma espiada no futuro?
+Iniciei um novo projeto no GitHub que tem por objetivo ser minha prancheta de trabalhos para minha palestra no [próximo encontro ccpp]. Há uma infinitude de coisinhas novas na linguagem C++, fora as adições à biblioteca STL, mas que devem passar despercebidas da maioria dos programadores, que está mais é querendo terminar seus próprio projetos. Enquanto alguns conceitos, sintaxes e métodos não se solidificam, vale a pena dar uma espiada no futuro?
 
 Depende.
 

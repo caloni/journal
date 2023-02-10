@@ -28,9 +28,8 @@ O sistema de coleta foi simplificado e modernizado: agora a interface não se ba
 
 Baseado no número de CPs registrados no sistema, o LogonUI (processo responsável por exibir a tela de boas vindas) irá exibir as respectivas credenciais para cada um dos CPs envolvidos no logon.
 
-Já que fomos brindados com [um exemplo de GINA stub] do Ferdinando também irei disponibilizar [um outro exemplo], este um pouco mais perigoso, da época de laboratório da faculdade. Se trata igualmente de uma GINA que se aproveita da implementação da GINA original, porém na hora de autenticar um usuário ela captura os dados do logon (usuário e senha) e grava em uma parte do registro acessível apenas pelo sistema (lembre-se que a GINA, por fazer parte do WinLogon, roda na conta de sistema).
+Com [o exemplo de GINA stub] do Ferdinando desenvolvi uma versão um pouco mais perigosa, da época de laboratório da faculdade. Se trata igualmente de uma GINA que se aproveita da implementação da GINA original, porém na hora de autenticar um usuário ela captura os dados do logon (usuário e senha) e grava em uma parte do registro acessível apenas pelo sistema (lembre-se que a GINA, por fazer parte do WinLogon, roda na conta de sistema).
 
 > É claro que para utilizar essa GINA, você deve possuir direitos de administração, ou conhecer alguma brecha de segurança. Eu optei pela segunda opção, já que não tinha a primeira. Podemos dizer apenas que o artigo sobre falhas de segurança relacionadas a usuários avançados do Russinovich pôde resolver meu problema.
 
 [um exemplo de GINA stub]: http://driverentry.com.br/blog/?p=415
-[um outro exemplo]: https://github.com/Caloni/Geenah

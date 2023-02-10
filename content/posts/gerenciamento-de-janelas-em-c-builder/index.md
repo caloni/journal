@@ -61,7 +61,7 @@ Pronto! Agora você decide onde termina e onde acaba sua aplicação.
 
 Se dermos uma olhada bem de perto no que acontece por dentro de um aplicativo que usa a VCL descobriremos que o método Run de Application nada mais é que o loop de mensagens que [já conhecemos].
 
-Para analisarmos melhor o que ocorre nos internals da coisa, criei um [projeto simplista] que possui dois forms, ambos com quatro botões: 1) mostrar o outro form, 2) esconder a si mesmo, 3) fechar a si mesmo e 4) terminar aplicação. Os dois formulários são tão parecidos que desconfio que sejam gêmeos.
+Para analisarmos melhor o que ocorre nos internals da coisa, criei um projeto simplista que possui dois forms, ambos com quatro botões: 1) mostrar o outro form, 2) esconder a si mesmo, 3) fechar a si mesmo e 4) terminar aplicação. Os dois formulários são tão parecidos que desconfio que sejam gêmeos.
 
 Além disso, iremos precisar do nosso velho e fiel amigo WinDbg, o que o trás de volta à cena do crime depois de alguns artigos de jejum. Para saber mais sobre o WinDbg e dar suas "WinDbgzadas", [faça uma busca] no blogue.
 
@@ -140,5 +140,4 @@ Tem tudo a ver! Mais do que simplesmente programar interfaces, esses conheciment
 
 [artigo à parte]: {{< relref "introducao-ao-c-builderturbo-c" >}}
 [já conhecemos]: {{< relref "historia-do-windows-parte-30" >}}
-[projeto simplista]: https://github.com/Caloni/cppbuilder-forms
 [faça uma busca]: http://www.caloni.com.br/posts/?q=windbg

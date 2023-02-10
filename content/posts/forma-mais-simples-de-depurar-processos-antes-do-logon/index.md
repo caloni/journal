@@ -74,8 +74,6 @@ void DLL_Stop()
 }
 ```
 
-Todo o projeto está no [GitHub](https://github.com/Caloni/DLLInsideService) para baixar e compilar você mesmo.
-
 Depois de copiar Service.exe e DLL.dll para a máquina-alvo (e não se esquecer de instalar as [dependências](https://www.google.com.br/search?q=visual+c%2B%2B+redistributable+2017&oq=visual+c%2B%2B+redistributable)) instalar da mesma forma com que foi instalado o msvsmon:
 
 ```

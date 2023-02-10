@@ -137,7 +137,3 @@ Entre esses erros, os mais comuns costumam se aproveitar de macros, como max, qu
 Um outro erro que já encontrei algumas vezes é quando a definição de uma classe tem um sizeof diferente do compilado em sua LIB, pela exclusão ou adição de novos membros. Isso pode (vai) fazer com que, durante a execução, a pilha seja corrompida, membros diferentes sejam acessados, entre outras traquinagens. Esses erros costumam acusar a falta de sincronismo entre os headers usados e suas reais implementações.
 
 Enfim, na vida real, é impossível catalogar todos os erros que podem ocorrer em um fonte em C. Se isso fosse possível, ou não existiriam bugs, ou pelo menos existiria uma ferramenta para automaticamente procurar por esses erros e corrigi-los. Bom, existe o Lint.
-
-Criei um [projeto] com alguns erros básicos, alguns demonstrados aqui, outros não, mas enfim, completamente configuráveis e divididos nessas três fases. É possível habilitar e desabilitar erros através do header cpperrors.h. Espero que gostem.
-
-[projeto]: https://github.com/Caloni/cpperrors

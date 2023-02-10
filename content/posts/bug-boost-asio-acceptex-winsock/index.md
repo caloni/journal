@@ -111,7 +111,7 @@ A terceira solução encontrada durante a compilação deste artigo é usar em v
 
 ## Solução #4: Boost.Asio
 
-Essas correções dizem respeito ao sample de uso do winsock como modelo server/client da própria Microsoft. Ele foi modificado em [um repositório que criei](https://github.com/Caloni/simple_winsock_client_server) para meus testes e poderá ser usado como correção de todos que tiverem o mesmo problema utilizando a API do Windows diretamente.
+Essas correções dizem respeito ao sample de uso do winsock como modelo server/client da própria Microsoft. Ele foi modificado para meus testes internos apenas.
 
 Já para o Boost.Asio será necessário um estudo de impacto e o envio de uma proposta de correção (ou uso de um patch em que a criação do socket cliente deve ser feita sem herança). Isso pode potencialmente quebrar o funcionamento de outros tipos de programas que dependem direta ou indiretamente da herança de todos os sockets, ou talvez o Boost.Asio tenha uma maneira educada de entregar o controle da criação de sockets dependente de implementação. Eu não sei. Este é um próximo passo da pesquisa.
 

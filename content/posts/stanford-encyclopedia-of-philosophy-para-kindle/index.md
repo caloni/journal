@@ -15,7 +15,7 @@ Para realizar esta operação será necessário usar as seguintes ferramentas:
  - sort
  - Calibre
 
-O projeto de conversão (disponível [aqui](https://github.com/Caloni/sep_to_kindle)) foi feito pensando em usuários do Windows, mas pode ser adaptado facilmente para qualquer ambiente. Se trata de um conjunto de arquivos batch (script) que realiza vários comandos, a saber:
+O projeto de conversão foi feito pensando em usuários do Windows, mas pode ser adaptado facilmente para qualquer ambiente. Se trata de um conjunto de arquivos batch (script) que realiza vários comandos, a saber:
 
 ### calibre_download.bat (baixa conteúdo do site da Stanford)
 

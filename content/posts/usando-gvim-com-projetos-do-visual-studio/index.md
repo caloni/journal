@@ -156,4 +156,4 @@ map <F7> :set makeprg=devenv\ %\ /build\ Debug<CR>
 map <S-F7> :set makeprg=msbuild\ /nologo\ /v:q\ /property:GenerateFullPaths=true<CR>
 ```
 
-Para alguém curioso para ver minhas configurações do Vim (quem quiser compartilhar também, fique à vontade), [segue](https://github.com/Caloni/Vim/blob/master/_vimrc).
+Para alguém curioso para ver minhas configurações do Vim (quem quiser compartilhar também, fique à vontade), [segue](https://github.com/Caloni/vim).

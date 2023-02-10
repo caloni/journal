@@ -14,7 +14,7 @@ O detalhe que o palestrante (Caloni é o nome do sujeito) citou era que já exis
 
 Já que o tal do Caloni disse que ainda não fizeram scripts para controles mais modernos. Nenhum descentralizado ainda está na lista. Os scripts são feitos em Perl, ou seja, estão disponíveis em uma linguagem um pouco mais fácil que .BAT. Ou talvez não. De qualquer forma, não parece muito difícil de entender a dinâmica do WinDbg e simplesmente gerar o que tem que gerar dentro dos PDBs.
 
-Pensando nisso, resolvi fazer uma primeira versão, em Python, de um script em que você passa alguns dados e ele processa seus PDBs. Depois você pode jogá-los em um Symbol Server e quando o WinDbg encontrá-lo através de um binário analisado, este irá conter o endereço no GitHub e um comando do Curl para baixá-lo, passando a exibi-lo imediatamente na tela do WinDbg. E nada mais lógico do que criar um [repositório no GitHub] para compartilhá-lo, certo?
+Pensando nisso, resolvi fazer uma primeira versão, em Python, de um script em que você passa alguns dados e ele processa seus PDBs. Depois você pode jogá-los em um Symbol Server e quando o WinDbg encontrá-lo através de um binário analisado, este irá conter o endereço no GitHub e um comando do Curl para baixá-lo, passando a exibi-lo imediatamente na tela do WinDbg.
 
 O funcionamento é muito simples, mas pede muitos parâmetros (recomendo criar um batch para armazená-los). Então vejamos:
 
@@ -26,5 +26,3 @@ O funcionamento é muito simples, mas pede muitos parâmetros (recomendo criar u
 Um detalhe importante: o revno que será usado é o HEAD do repositório local. Sim, futuramente podemos adicionar esse argumento como opcional. Porém, no momento, coisas mais urgentes devem ser feitas. Uma delas é que estou usando a visualização raw do GitHub para conseguir pegar um único arquivo-fonte, e para isso uso a ferramenta curl. Ou seja, quem é de Windows vai precisar baixar uma de suas versões e deixar no path do sistema. Quem não é de Windows... o que você está fazendo com um PDB, rapaz?
 
 Como esse ainda é um projeto muito cru, mas gostaria de compartilhar com vocês (pois algo muito cru é melhor que nada), deixei diversos batchs de teste para ficar mais claro o funcionamento do srcsrv. Há um doc muito bom (er... ou mais ou menos) sobre o seu funcionamento na pasta srcsrv (chama-se srcsrv.doc). Usei algumas informações de lá para conseguir fazer a coisa funcionar. Se quiser me ajudar no projeto, tiver alguma dúvida, sugestão de melhoria/evolução, vamos conversar! Esse projeto será muito útil para mim no futuro, e espero que seja muito útil para outras pessoas, também.
-
-[repositório no GitHub]: https://github.com/Caloni/GitIndex
