@@ -1,3 +1,3 @@
 cmake_minimum_required(VERSION 3.16)
-project (corda_no_pescoco)
-add_executable(corda_no_pescoco estudante_com_corda_no_pescoco.c)
+project (joaopedro)
+add_executable(joaopedro joao_pedro_leitura_escrita.cpp padrao.csv)
