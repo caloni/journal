@@ -5,9 +5,6 @@ pushd public\drafts
 sed -i "s/href=\"\//href=\"#/g" index.html
 sed -i "s/src=\"\//src=\"/g" index.html
 sed -i "s/href=\"#[a-z]\+\/[a-z.-]\+/href=\"#/g" index.html
-for /r %%i in (*.png) do mv %%i .
-for /r %%i in (*.jpg) do mv %%i .
-for /r %%i in (*.gif) do mv %%i .
 kindlegen.exe book.opf -o caloni-drafts.mobi
 if not exist k: echo !! WARNING !! NO KINDLE CONNECTED IN THIS COMPUTER !!
 copy /y caloni-drafts.mobi k:\documents
@@ -23,9 +20,6 @@ pushd public\book
 sed -i "s/href=\"\//href=\"#/g" index.html
 sed -i "s/src=\"\//src=\"/g" index.html
 sed -i "s/href=\"#[a-z]\+\/[a-z.-]\+/href=\"#/g" index.html
-for /r %%i in (*.png) do mv %%i .
-for /r %%i in (*.jpg) do mv %%i .
-for /r %%i in (*.gif) do mv %%i .
 if not exist k: echo !! WARNING !! NO KINDLE CONNECTED IN THIS COMPUTER !!
 kindlegen.exe book.opf -o caloni.mobi
 copy /y caloni.mobi k:\documents
