@@ -1,5 +1,6 @@
 ---
-categories: null
+categories:
+ - movies
 date: '2023-02-14T20:28:52-03:00'
 draft: true
 tags: null

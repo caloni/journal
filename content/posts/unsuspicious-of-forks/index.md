@@ -4,7 +4,8 @@ categories:
 date: '2023-02-17T12:59:22-03:00'
 draft: true
 link: https://www.chess.com/game/live/70386935459
-tags: null
+tags:
+ - english
 title: Unsuspicious of forks
 ---
 

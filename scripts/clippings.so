@@ -1,1 +1,3 @@
-call matchadd("search", "expectador")
+call matchadd("search", "chamado 1984,")
+call matchadd("search", "Brazil, o Filme.")
+call matchadd("search", "Agora tem mate em 1 das brancas agora")

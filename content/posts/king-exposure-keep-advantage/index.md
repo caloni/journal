@@ -4,7 +4,8 @@ categories:
 date: '2023-02-15T17:36:26-03:00'
 draft: true
 link: https://www.chess.com/game/live/70231398971
-tags: null
+tags:
+ - english
 title: King exposure is the key to victory
 ---
 

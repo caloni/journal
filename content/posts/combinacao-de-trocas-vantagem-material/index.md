@@ -2,9 +2,7 @@
 categories:
 - chess
 date: '2023-02-03T20:21:34-03:00'
-draft: true
 link: https://www.chess.com/game/live/69204463183
-tags: null
 title: Reviravoltas e combinação de trocas com vantagem material
 ---
 
@@ -20,7 +18,7 @@ Duas torres contra uma e a engine diz que está equilibrado porque tem uma sequ�
 
 {{< image src="board3.png" >}}
 
-Agora tem mate em 1 das brancas agora (elas jogam). Que partida de reviravoltas!
+Agora tem mate em 1 das brancas (elas jogam). Que partida de reviravoltas!
 
 {{< image src="board4.png" >}}
 

@@ -1,11 +1,11 @@
 ---
-categories: null
+categories:
+ - wine
 date: '2023-02-17T13:14:34-03:00'
 draft: true
 tags: null
-title: '[ Album ]'
+title: El Porvenir Amauta (2021)
 ---
-
 
 Amauta, na língua dos nativos de Cafayate, quer dizer o homem sábio, que possui o conhecimento sobre a natureza e o universo. A proposta é o vinho ser uma lição de humildade a respeito do solo e o que ele nos provê.
 
