@@ -2,29 +2,42 @@
 categories:
 - recipes
 date: '2019-01-07'
+draft: true
 tags:
 title: Empanadas Argentinas
 ---
 
 ## Ingredientes da massa
 
-Para o peso em farinha de trigo, que deve ser de cerca de 60% do peso da carne do recheio, 2% de sal, entre 20% a 50% de gordura (dá crocância ao mesmo tempo que peso) em temperatura ambiente (banha, manteiga, etc), cerca de 35% de água morna. Antes de ir para o forno reserve gema para pincelar por cima.
+Para a quantidade de carne moída ou picada pesar 75% de farinha de trigo (se usar mais recheios com volume aumentar essa quantidade). Com base no peso da farinha, usar 2% de sal, 25% de gordura (para a crocância e peso) e 50% de água morna. Antes de ir para o forno reserve um ovo misturado com um pouco de água para pincelar por cima. Algumas receitas vão um ovo na massa também, para a elasticidade.
 
 ## Ingredientes para o recheio de carne
 
-Esse recheio vai basicamente carne (moída ou em pedaços) e cebola (picada ou fatiada), ambos com o mesmo volume.
+Esse recheio vai basicamente a carne, moída ou em pedaços, e cebola, picada ou fatiada, ambos com o mesmo peso.
 
-Uma versão saltenha da mesma receita pode ser feita com batata cozida, mas ainda firme, em pequenos pedaços. Uma outra versão usa ovos cozidos em pedaços.
+Uma versão saltenha da mesma receita pode ser feita com batata cozida, mas ainda firme, em pequenos pedaços. Uma outra versão usa ovos cozidos em pedaços. E, por fim, é comum também usar uvas passas, o que pode ir bem para paladares mais exóticos. Fora esses padrões há infinitas possibilidades de recheio, e todas serão empanadas, do espanhol "embrulhado em massa de pão".
 
 ## Preparo da massa
 
-Coloque em um recipiente a farinha e a gordura; se for banha, derreta um pouco (sem esquentar muito). Coloque junto para amornar rapidamente a água e o sal. Jogue por cima da farinha aos poucos e comece a misturar. Comece a sovar, o suficiente para que a massa fique elástica mesmo que ainda rasgando (isso é normal nessa massa). Você irá sentir em certo ponto que esta é a melhor massa para mexer com as mãos do mundo. Embale em plástico filme ou coloque em um pote hermético dentro da geladeira por algumas horas ou de um dia pro outro.
+Dissolve o sal na água, aqueça até amornar e misture junto a banha. Curiosidade: tradicionalmente usa-se sal grosso, mas na prática tanto faz, uma vez que ele será dissolvido. Jogue por cima da farinha aos poucos e comece a misturar. Não precisa sovar, mas deixe sem nenhuma grunha de farinha, uma massa homogênea. Embale em plástico filme ou coloque em um pote hermético dentro da geladeira por pelo menos uma hora e até de um dia para o outro.
 
 ## Preparo do recheio
 
-Coloque gordura para cobrir a panela e coloque a carne, reduzindo e deixando queimar levemente enquanto joga água quente para não grudar no fundo. Para o tempero, além de sal e pimenta a gosto, cominho, semente de mostarda, páprica, pimenta calabresa. Estes temperos podem ser colocados enquanto a carne está sendo queimada e reduzida. Quando o sabor da carne estiver ressaltado pode jogar a cebola para reduzi-la da mesma forma. Ao final jogue um pouco de tomate picado ou seu molho. Ao reduzir todo o líquido desligue o fogo e tempere com orégano, salsa picada, azeitona em pedaços.
+Há várias formas de preparo. Você pode dourar a carne colocando gordura para cobrir a panela e logo em seguida a carne, reduzindo e deixando queimar levemente enquanto joga água quente para não grudar no fundo. Você pode jogar água quente na carne peneirada para cozinhar levemente por cima, amolecer a cebola com a gordura enquanto isso. De qualquer forma, o que estiver no fogo é para temperar. Além de sal e pimenta a gosto, os temperos tradicionais são cominho e páprica doce. Quando a base estiver temperada e no ponto pode misturar a outra parte (cebola ou carne). Se quiser ao final pode jogar um pouco de tomate picado ou seu molho de preferência. Reduza o líquido, desligue ou diminua muito o fogo para colocar os temperos frágeis (os que preferir): orégano, salsa picada, azeitona em pedaços. Pode manter na geladeira por pelo menos uma hora ou de um dia para outro. Se quiser adicionar batatas, estas são cozidas em cubinhos e se mantém firmes embora moles, e ovos cozidos são picados após frios. Ambos são colocados tradicionalmente em cima da carne, sem misturar. A ideia é não alterar a cor desses ingredientes com a carne.
+
+## Preparo final
+
+Ao retirar a massa ela deve ser alongada até a espessura de cerca de 3 milímetros e cortada em círculos de 12cm mais ou menos. Pode ser usada qualquer utensílio para fazer isso. Após cortada a massa as rebarbas podem ser reaproveitadas amassando e alongando novamente (se preferir deixe descansar novamente na geladeira). Os círculos podem voltar à geladeira para manter o formato e ser mais fácil de manusear antes de rechear.
+
+Para rechear pega-se de uma a duas colheres médias do recheio e coloca-se no meio do círculo. Se estiver com a massa na mão abrace o recheio e sele em volta, começando pela parte de cima e depois as beiradas, encostando as beiradas, com uma grossura de pelo menos 1 a 2cm. Depois que estiver grudada a massa pode-se fazer aquele arranjo característico das empanadas, de fazer as orelhas progressivas do começo ao fim. Isso se faz com dois dedos e um terceiro de guia. É mais simples praticando.
+
+O forno deve estar no seu calor máximo. Unta-se em cima das empanadas com um ovo quebrado e um pouco de água para dourar quando estiver pronto. Algumas receitas usam inclusive um pouco de açúcar cristal para dourar um pouco mais. Em cerca de meia-hora no forno as empanadas devem estar prontas. É possível deixar assada parcialmente para guardar no freezer e voltar ao fogo quando quiser terminar para comer.
 
 ## Histórico
+
+### 2023-02-18
+
+Usando 60% do peso da carne de farinha ainda faltou massa para cerca de 4 empanadas. Considerando que foram feitas 26 o aumento deve ser de 10 a 20%. Vamos de 70% na próxima. Para a gordura foi usado 40%. O resultado ficou gorduroso como uma empada, mas não muito pesado. Ficou menos seco. Parece um ponto ideal para tentar colocar mais água, uns 40%, para ver se retém a umidade. Nessa noite tive insônia e acabei achando o [vídeo de empanadas do cara do Amo Pão Caseiro] onde ele usa o mesmo **peso** de cebola e carne e o mesmo peso de farinha e carne (mas vai batata e uva passa a mais). Achei simples e posso testar na próxima. Outras diferenças na proporção: 20% de banha de porco, 48% de água. No recheio 10% do peso da carne em banha de porco. Uma dica interessante dos comentários é que alguém usou um ovo para a massa, o que deu mais elasticidade. E eu vi um outro vídeo na mesma noite de algum argentino usando ovo também. Vale a pena o experimento. E, por fim: não precisa sovar a massa, só misturar e guardar na geladeira.
 
 ### 2022-11-13 
 
@@ -57,3 +70,5 @@ Usei banha de porco dessa vez na empanada, deixei descansar a massa no pano para
 ### 2018-07-14
 
 Empanadas com a minha receita de massa, mas com farinha de trigo italiana tipo 00 para massa fresca. O resultado após uma hora na geladeira dentro da tigela coberta com pano ficou mais difícil de quebrar (muito difícil), mas difícil de dobrar para fechar também. Porém, não abriu nenhuma, mas continuou seca como a última, quase uma mistura de pão e biscoito. Talvez um pouco mais de água (ou gordura) e o processo de embrulhar no papel filme. Usando banha de porco.
+
+[vídeo de empanadas do cara do Amo Pão Caseiro]: https://youtu.be/jDSh7fBigPU
