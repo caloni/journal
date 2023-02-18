@@ -2,7 +2,6 @@
 categories:
 - chess
 date: '2023-02-18T12:31:52-03:00'
-draft: true
 link: https://www.chess.com/game/live/70472042987
 tags:
  - english

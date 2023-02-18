@@ -1,9 +1,16 @@
 ---
 categories:
+ - books
 date: '2022-12-26T22:16:13-03:00'
 draft: true
 title: 'Bíblia Sagrada: Êxodo'
 ---
+
+O povo judeu é teimoso. Esse é o maior ensinamento que o segundo livro do Pentateuco tem a nos dizer. Se Deus continuasse andando com este povo pelas areias do deserto após terem sido libertos das garras dos egípcios, ele acabaria por matar a todos eles. Palavras do Próprio.
+
+Se Gênesis, [livro anterior], ganhava pontos por uma descrição histórica de uma cultura primitiva de tempos indizíveis para nós, homens modernos, Êxodo é apenas mais um arco pseudo-dramático de um povo se vangloriando de ter o "deus certo". Surgem leis que definem o que este deus considera que deve ser obrigatório na vida de seu povo, como cortar o pingulim e estraçalhar animais e jogar o sangue na mesa do ritual. No meio há algumas leis que lembram as de propriedade, como não cobiçar as coisas dos outros, roubar, matar, etc. Mais tarde ~~os libertários irão resumir estas leis em um conjunto mais sucinto e lógico~~ Jesus irá estabelecer regras mais simples de serem lembradas.
+
+Porém, enquanto isso, celebremos a Festa dos Pães sem Fermento. Que nomezinho mais chinfrim seu Javé.
 
 # Recortes
 
@@ -58,3 +65,5 @@ title: 'Bíblia Sagrada: Êxodo'
 > Vocês têm seis dias na semana para fazer o trabalho habitual, mas o sétimo dia será um sábado de descanso total, um dia consagrado ao SENHOR. Quem trabalhar no sábado será executado. Nem sequer acendam fogo em suas casas no sábado". 
 
 > O povo contribuiu com ofertas especiais de ouro que totalizaram 1.024 quilos, 132 calculados de acordo com o siclo do santuário. Esse ouro foi usado em toda a construção do santuário. (...) O imposto foi arrecadado de 603.550 homens de 20 anos para cima. 
+
+[livro anterior]: {{< ref biblia-sagrada-genesis >}}

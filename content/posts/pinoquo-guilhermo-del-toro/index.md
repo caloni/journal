@@ -2,8 +2,6 @@
 categories:
  - movies
 date: '2023-02-14T20:28:52-03:00'
-draft: true
-tags: null
 title: Pinóquio do Guilhermo del Toro
 ---
 
@@ -15,4 +13,4 @@ As questões filosóficas de dar vida a seres inertes faz lembrar do último tra
 
 E ele cria. Desde um monstro dos mares passando por um macaco maltrapilho e um grilo mecatrônico, Pinóquio busca referências reais e as transforma com o poder da imaginação de seus autores. É difícil olhar para alguns momentos em que vemos a perfeição deste mundo de faz-de-conta e não nos emocionarmos pela técnica e pelo amor dedicado a cada segundo de projeção.
 
-Alguns elementos não são originais, lembram alguns clichês, como o vilão, e nem sempre a arte é fácil de ser vista. Apesar de ser longo o filme possui detalhes demais para merecer uma revisita.
+Alguns elementos não são originais, lembram alguns clichês, como o vilão, e nem sempre a arte é fácil de ser vista. Apesar de ser longo o filme possui alguns detalhes que merecem uma revisita.

@@ -2,8 +2,6 @@
 categories:
  - wine
 date: '2023-02-14T20:29:19-03:00'
-draft: true
-tags: null
 title: Malma 2015
 ---
 
