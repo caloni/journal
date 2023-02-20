@@ -2,8 +2,6 @@
 categories:
 - recipes
 date: '2019-01-07'
-draft: true
-tags:
 title: Empanadas Argentinas
 ---
 
@@ -19,17 +17,17 @@ Uma versão saltenha da mesma receita pode ser feita com batata cozida, mas aind
 
 ## Preparo da massa
 
-Dissolve o sal na água, aqueça até amornar e misture junto a banha. Curiosidade: tradicionalmente usa-se sal grosso, mas na prática tanto faz, uma vez que ele será dissolvido. Jogue por cima da farinha aos poucos e comece a misturar. Não precisa sovar, mas deixe sem nenhuma grunha de farinha, uma massa homogênea. Embale em plástico filme ou coloque em um pote hermético dentro da geladeira por pelo menos uma hora e até de um dia para o outro.
+Dissolva o sal na água, aqueça até amornar e misture junto a banha. Curiosidade: tradicionalmente usa-se sal grosso, mas na prática tanto faz, uma vez que ele será dissolvido. Jogue esta mistura ainda morna por cima da farinha aos poucos e comece a misturar. Aguarde esfriar o suficiente para conseguir misturar com as mãos. Não precisa sovar, mas deixe uma massa homogênea, sem nenhuma grunha de farinha. Embale em plástico filme ou coloque em um pote hermético dentro da geladeira por pelo menos uma hora e até de um dia para o outro.
 
 ## Preparo do recheio
 
-Há várias formas de preparo. Você pode dourar a carne colocando gordura para cobrir a panela e logo em seguida a carne, reduzindo e deixando queimar levemente enquanto joga água quente para não grudar no fundo. Você pode jogar água quente na carne peneirada para cozinhar levemente por cima, amolecer a cebola com a gordura enquanto isso. De qualquer forma, o que estiver no fogo é para temperar. Além de sal e pimenta a gosto, os temperos tradicionais são cominho e páprica doce. Quando a base estiver temperada e no ponto pode misturar a outra parte (cebola ou carne). Se quiser ao final pode jogar um pouco de tomate picado ou seu molho de preferência. Reduza o líquido, desligue ou diminua muito o fogo para colocar os temperos frágeis (os que preferir): orégano, salsa picada, azeitona em pedaços. Pode manter na geladeira por pelo menos uma hora ou de um dia para outro. Se quiser adicionar batatas, estas são cozidas em cubinhos e se mantém firmes embora moles, e ovos cozidos são picados após frios. Ambos são colocados tradicionalmente em cima da carne, sem misturar. A ideia é não alterar a cor desses ingredientes com a carne.
+Há várias formas de preparo, variando se a base será a carne ou a cebola. Você pode dourar a carne em uma panela com banha ou qualquer tipo de gordura com até 10% do peso, reduzindo o líquido e deixando queimar levemente enquanto joga água quente para não grudar no fundo. Você pode também jogar água quente na carne em uma peneira, o que a cozinha levemente apenas na superfície, e na panela amolecer a cebola com a gordura. De qualquer forma, o que estiver no fogo é para temperar. Além de sal e pimenta a gosto, os temperos tradicionais são cominho e páprica doce. Quando a base estiver temperada e no ponto pode misturar a outra parte (cebola ou carne). Se quiser ao final pode jogar um pouco de tomate picado ou seu molho de preferência. Reduza o líquido, desligue ou diminua muito o fogo para colocar os temperos frágeis (os que preferir): orégano, salsa picada, azeitona em pedaços. Pode manter na geladeira por pelo menos uma hora ou de um dia para outro. Se quiser adicionar batatas, estas são cozidas em cubinhos e se mantém firmes embora moles, e ovos cozidos são picados após frios. Ambos são colocados tradicionalmente em cima da carne, sem misturar. A ideia é não alterar a cor desses ingredientes com a carne.
 
 ## Preparo final
 
-Ao retirar a massa ela deve ser alongada até a espessura de cerca de 3 milímetros e cortada em círculos de 12cm mais ou menos. Pode ser usada qualquer utensílio para fazer isso. Após cortada a massa as rebarbas podem ser reaproveitadas amassando e alongando novamente (se preferir deixe descansar novamente na geladeira). Os círculos podem voltar à geladeira para manter o formato e ser mais fácil de manusear antes de rechear.
+Ao retirar a massa ela deve ser alongada até a espessura de cerca de 3 milímetros e cortada em círculos de 12cm mais ou menos. Pode ser usado qualquer utensílio para fazer isso. Após cortada a massa as rebarbas podem ser reaproveitadas amassando e alongando novamente (se preferir deixe descansar novamente na geladeira). Os círculos podem voltar à geladeira para manter o formato e ser mais fácil de manusear antes de rechear.
 
-Para rechear pega-se de uma a duas colheres médias do recheio e coloca-se no meio do círculo. Se estiver com a massa na mão abrace o recheio e sele em volta, começando pela parte de cima e depois as beiradas, encostando as beiradas, com uma grossura de pelo menos 1 a 2cm. Depois que estiver grudada a massa pode-se fazer aquele arranjo característico das empanadas, de fazer as orelhas progressivas do começo ao fim. Isso se faz com dois dedos e um terceiro de guia. É mais simples praticando.
+Para rechear pega-se de uma a duas colheres médias do recheio e coloca-se no meio do círculo. Se estiver com a massa na mão abrace o recheio e sele em volta, começando pela parte de cima e depois as beiradas, encostando as beiradas, com uma margem de cerca de um ou dois dedos. Depois que estiver grudada a massa pode-se fazer aquele arranjo característico das empanadas, de fazer as orelhas progressivas do começo ao fim. Isso se faz com dois dedos e um terceiro de guia. É mais simples praticando.
 
 O forno deve estar no seu calor máximo. Unta-se em cima das empanadas com um ovo quebrado e um pouco de água para dourar quando estiver pronto. Algumas receitas usam inclusive um pouco de açúcar cristal para dourar um pouco mais. Em cerca de meia-hora no forno as empanadas devem estar prontas. É possível deixar assada parcialmente para guardar no freezer e voltar ao fogo quando quiser terminar para comer.
 
