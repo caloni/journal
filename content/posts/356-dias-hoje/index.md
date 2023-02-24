@@ -1,0 +1,9 @@
+---
+categories: null
+date: '2023-02-24T16:55:31-03:00'
+draft: true
+tags: null
+title: 365 Dias - Hoje
+---
+
+A saga de Emanuelle continua. Porém, nesse episódio começo a me tocar que a história baseada em um romance erótico cheira muito mais a Sabrina. Cheiro de orgasmos múltiplos de uma mulher envolta de muito sexo, dinheiro, poder e álcool. A vida dos milionários neste filme pode ofender os olhos da classe média artística por tanta ostentação. Você sabe, aquela classe média que faz filme sobre os pobres e ganha cachês gordos do governo. Mas não é só sobre dinheiro. É o que mais você vê na história, porque não existe história, mas não é sobre isso apenas. É sobre sexo sem limites. Ele mete. Ela goza. Ele chupa. Ela goza. Ele mete. Ela goza mais uma vez. Em meio a cenas muito bem coreografadas dos dois pombinhos se pegando pra valer você percebe que está assistindo a um daqueles pornôs que deseja se sentir único, diferente. E ele é. O filme quer fazer parte do circuito comercial. Normalizar o sexo pelo sexo. Essa realidade já existe nos livros eróticos há tanto tempo nas bancas de jornal, ao lado das capas do Bukowski. É material comum para atiçar o gosto pela leitura das mulheres de meia-idade. Por que diabos não pode passar isso no cinema em grande estilo, com atores e atrizes gostosas vivendo o luxo dos 1% e se divertindo nas trivialidades de não ter que se preocupar com o dia de amanhã? Muitos dos personagens olham compenetrados para o horizonte e nada vêem, pois suas mentes são vazias. Mas é tão belo esse hiato entre uma foda e outra. É lugar comum. Todo filme faz isso, mesmo que sem foda, e a maioria não quer dizer nada. É um ato preguiçoso do roteiro. Dá profundidade sem se preocupar em desenvolver tramas. Tudo isso dá trabalho e o que eles querem é grana e fama.
