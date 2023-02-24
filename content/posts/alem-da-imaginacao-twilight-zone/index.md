@@ -1,9 +1,0 @@
----
-categories: null
-date: '2023-02-20T13:52:39-03:00'
-draft: true
-tags: null
-title: Além da Imaginação (Twilight Zone)
----
-
-Esta reimaginação da série icônica da TV sobre sobrenatural merecia uma atenção. Porém, após ver que a produção e apresentação são de Jordan Peele, o competente cineasta racista, confesso que dei uma pequena brochada. Sem nada para assistir, peguei o primeiro episódio, O Comediante, apenas com personagens negros e indianos sem nenhum motivo aparente. A história segue a mesma cartilha da série original, mas falta um charme. É a poeira dos conteúdos de TV? Como Peele, tão competente em Corra e US, além de fã dessa época e gênero icônicos para a arte audiovisual, não conseguiu embalar uma produção com a mesma sensação do original? Se nem ele conseguiu, deve ser impossível, ou muito difícil. São os novos tempos? A ideia é boa, má executada pelo protagonista, que não tem o talento exato para a situação de estranheza em que seu personagem irá adentrar. As esquisitices do original estão atreladas a uma direção de arte mais fantástica. O fantástico sob os holofotes da computação não é fantástico o suficiente, ou realista e fantástico o suficiente. A grande luta ao final do arco de Avengers foi em um gigantesco fundo verde. O que colocaram no lugar não importa. A sensação é a mesma de ver um ponto de ônibus quebrado que volta ao normal depois que um comediante descobre ser dotado do poder de fazer as pessoas rirem sob o custo do tema de suas piadas sumirem da existência. A metáfora dos standup que fazem carreira em cima de fazer joça dos outros é óbvia demais, mesmo que do ponto de vista da série seja uma "crítica social foda". Ativistas vibram por um conteúdo médio de uma série de TV requentada. Talvez haja episódios acima disso. Ou não, se houver exigências segregacionistas no resto da produção. Não há talentos o suficiente.

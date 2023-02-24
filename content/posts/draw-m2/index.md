@@ -2,10 +2,10 @@
 categories:
 - chess
 date: '2023-02-18T21:07:17-03:00'
-draft: true
 link: https://www.chess.com/game/live/70502605623
-tags: null
-title: Este é um título provisório
+tags:
+ - english
+title: Decided to draw a won game
 ---
 
 I could move (black) and M2, but I decided to draw =P.
