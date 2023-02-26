@@ -1,8 +1,7 @@
 ---
-categories: null
+categories:
+ - movies
 date: '2023-02-24T16:55:31-03:00'
-draft: true
-tags: null
 title: 365 Dias - Hoje
 ---
 

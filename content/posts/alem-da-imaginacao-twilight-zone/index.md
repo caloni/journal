@@ -1,8 +1,7 @@
 ---
-categories: null
+categories:
+ - series
 date: '2023-02-25T11:34:27-03:00'
-draft: true
-tags: null
 title: Além da Imaginação (The Twilight Zone)
 ---
 
