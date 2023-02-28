@@ -2,14 +2,13 @@
 categories:
 - chess
 date: '2023-02-26T14:59:18-03:00'
-draft: true
 link: https://www.chess.com/game/live/71161028245
 tags:
  - english
 title: White move and win the game
 ---
 
-A game with ups and downs. Entirely assymetrical.
+A game with ups and downs. Entirely asymmetrical.
 
 White move and win the game.
 
