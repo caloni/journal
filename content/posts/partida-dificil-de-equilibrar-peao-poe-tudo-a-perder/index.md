@@ -2,9 +2,7 @@
 categories:
 - chess
 date: '2023-03-01T18:44:40-02:00'
-draft: true
 link: https://www.chess.com/game/live/71445213705
-tags: null
 title: Partida difícil de equilibrar
 ---
 

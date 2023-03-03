@@ -2,7 +2,6 @@
 categories:
 - chess
 date: '2023-03-01T17:04:51-03:00'
-draft: true
 link: https://www.chess.com/game/live/71438504179
 title: Sacrifício de bispo infundado
 ---

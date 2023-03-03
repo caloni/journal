@@ -2,7 +2,6 @@
 categories:
 - chess
 date: '2023-03-01T17:13:52-03:00'
-draft: true
 link: https://www.chess.com/game/live/71279727071
 title: Miniatura com sacrifício de bispo
 ---
