@@ -1,2 +1,2 @@
 @echo off
-grep -rl "^draft" content
+hugo --config themes\blog\config.toml list drafts
