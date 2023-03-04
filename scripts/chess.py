@@ -4,15 +4,28 @@ import sys
 import pyperclip
 import os
 import re
+from pathlib import Path
+import shutil
+
+global baseName
+downloadsPath = str(Path.home() / "Downloads")
 
 if len(sys.argv) > 1:
+  global baseName
   baseName = sys.argv[1]
   link = None
 
   proc = subprocess.Popen("hugo --config themes/blog/config.toml new chess/{}/index.md".format(baseName), stdout=subprocess.PIPE, shell=True)
   proc.wait()
   os.rename("content/chess/{}".format(baseName), "content/posts/{}".format(baseName))
-  path = "content/posts/{}/index.md".format(baseName)
+  folder = "content/posts/{}".format(baseName)
+  path = "{}/index.md".format(folder)
+  imagePath = "{}/board.png".format(downloadsPath)
+
+  if Path(imagePath).is_file():
+    destImagePath = "{}/board.png".format(folder)
+    shutil.move(imagePath, destImagePath)
+    print("moved image {} to {}".format(imagePath, destImagePath))
 
   clip = pyperclip.paste().splitlines()
 
@@ -33,6 +46,8 @@ if len(sys.argv) > 1:
   pgn, link = summary(clip)
 
   def edit(post, fname):
+    global baseName
+    post['title'] = baseName.replace('-', ' ').capitalize()
     post['link'] = link
     post.content = post.content + '\n\n' + '\n'.join(pgn)
 
