@@ -1,8 +1,8 @@
 ---
 categories:
  - books
-date: '2023-02-28T21:23:05-03:00'
-draft: true
+date: '2023-03-04'
+tags: null
 title: Algorithms for Dummies
 ---
 

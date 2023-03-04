@@ -1,7 +1,6 @@
 ---
 categories: null
-date: '2023-03-01T17:16:40-03:00'
-draft: true
+date: '2023-03-04'
 tags: null
 title: Parei de tentar ser crítico (de cinema)
 ---

@@ -1,8 +1,7 @@
 ---
 categories:
 - chess
-date: '2023-03-04T14:40:46-02:00'
-draft: true
+date: '2023-03-04'
 link: https://www.chess.com/game/live/71688416247
 tags:
 - english

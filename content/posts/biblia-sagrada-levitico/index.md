@@ -1,8 +1,8 @@
 ---
 categories:
  - books
-date: '2023-02-24T16:46:35-03:00'
-draft: true
+date: '2023-03-04'
+tags: null
 title: 'Bíblia Sagrada: Levítico'
 ---
 
