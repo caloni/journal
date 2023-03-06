@@ -2,7 +2,6 @@
 categories:
 - recipes
 date: '2023-03-05T11:09:57-02:00'
-draft: true
 tags: null
 title: Shogayaki
 ---
