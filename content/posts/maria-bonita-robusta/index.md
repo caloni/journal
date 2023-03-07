@@ -2,6 +2,8 @@
 categories:
  - coffee
 date: '2023-02-09T18:29:18-03:00'
+tags:
+ - decaf
 title: Maria Bonita Robusta
 ---
 
