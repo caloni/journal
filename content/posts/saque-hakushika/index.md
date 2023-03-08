@@ -2,8 +2,6 @@
 categories:
  - wine
 date: '2023-01-02T22:56:39-03:00'
-tags:
- - sake
 title: Hakushika
 ---
 

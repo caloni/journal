@@ -3,7 +3,8 @@ categories:
 - reading
 date: '2018-08-18'
 link: https://youtu.be/-X0A5etb0kk
-tags: []
+tags:
+- body
 title: Jejum Intermitente e Nutricionistas em Fúria
 ---
 

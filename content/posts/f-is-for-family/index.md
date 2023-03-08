@@ -3,8 +3,6 @@ categories:
 - series
 date: '2016-01-30'
 link: https://www.imdb.com/title/tt4326894
-tags:
-- animation
 title: F is for Family
 ---
 

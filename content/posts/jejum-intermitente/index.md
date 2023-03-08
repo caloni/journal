@@ -2,6 +2,8 @@
 categories:
  - reading
 date: '2023-01-07T23:28:12-03:00'
+tags:
+- body
 title: Leituras e experiência sobre jejum intermitente
 ---
 

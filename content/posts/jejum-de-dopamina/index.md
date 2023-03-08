@@ -1,7 +1,10 @@
 ---
-categories: []
+categories:
+- reading
 date: '2020-08-29'
 link: https://youtu.be/5M-8XFkQ33k
+tags:
+- body
 title: Jejum de Dopamina
 ---
 

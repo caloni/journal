@@ -1,6 +1,6 @@
 ---
 categories:
-- chat
+- blog
 date: '2022-08-13T20:49:21-03:00'
 tags:
 title: Fotos do Washington

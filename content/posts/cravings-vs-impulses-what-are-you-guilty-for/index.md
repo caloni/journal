@@ -4,7 +4,7 @@ categories:
 date: '2022-07-31T17:16:50-03:00'
 link: https://gulfnews.com/going-out/society/cravings-vs-impulses-what-are-you-guilty-of-1.2267596
 tags:
-- health
+- body
 title: 'Cravings vs impulses: What are you guilty of?'
 ---
 

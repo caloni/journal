@@ -2,8 +2,6 @@
 categories:
 - movies
 date: '2022-01-24T23:24:07-03:00'
-tags:
-- animation
 title: The House
 ---
 

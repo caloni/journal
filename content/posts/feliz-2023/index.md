@@ -2,8 +2,6 @@
 categories:
  - blog
 date: '2022-12-19T17:03:02-03:00'
-tags:
- - events
 title: Feliz 2023
 ---
 
