@@ -11,6 +11,8 @@ body {
 }
 body, button, input, select, textarea {
     font-family: Monospace;
+    background-color: black;
+    color: white;
 }
 
 .container {
