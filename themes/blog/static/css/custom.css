@@ -6,6 +6,8 @@ body {
     font-size: 1.2rem;
     font-weight: 400;
     line-height: 1.5;
+    background-color: black;
+    color: white;
 }
 body, button, input, select, textarea {
     font-family: Monospace;
@@ -34,7 +36,7 @@ body, button, input, select, textarea {
 }
 .navbar-item {
     align-items: center;
-    color: black;
+    color: firebrick;
     display: flex;
 }
 
@@ -46,9 +48,6 @@ td {
     border-bottom: 1px dotted black; 
     padding: 5px;
 }
-tr:hover, tr:hover a {
-    background-color: lightgray;
-}
 
 .title {
     color: firebrick;
@@ -59,7 +58,7 @@ tr:hover, tr:hover a {
 }
 
 .author {
-    color: black;
+    color: firebrick;
     font-size: 0.75rem;
     font-style: italic;
     font-weight: 400;
@@ -70,9 +69,6 @@ tr:hover, tr:hover a {
 
 .taglist  {
     margin-bottom: 1em;
-}
-.taglist:hover, .navigation-bottom:hover  {
-    background-color: lightgray;
 }
 .taglist a {
     color: gray;
@@ -101,7 +97,7 @@ a {
     text-decoration: none;
 }
 a:hover {
-    color: black;
+    color: white;
 }
 
 .external {
