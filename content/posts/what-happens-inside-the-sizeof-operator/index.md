@@ -19,10 +19,10 @@ The question: how to get the size of a struct member without declaring it as a v
     };
     
     // error C2143: syntax error : missing ')' before '.'
-    char MessageIndexBuffer[sizeof(FEEDER_RECORD_HEADER.MessageIndex) + 1];
+    char MessageIndexBuffer[ sizeof( FEEDER_RECORD_HEADER.MessageIndex ) + 1 ];
     
     // error C2070: '': illegal sizeof operand
-    char MessageIndexBuffer[sizeof(FEEDER_RECORD_HEADER::MessageIndex) + 1]; 
+    char MessageIndexBuffer[ sizeof( FEEDER_RECORD_HEADER::MessageIndex ) + 1 ]; 
 
 In this first try (even being a nice one) we can clearly see by instinct that the construction is not supposed to work. The compiler error is not even clear. The member access operator (the point sign) needs to have as its left some variable or constant of the same type of the struct. Since the operand is the type itself, there is no deal.
 

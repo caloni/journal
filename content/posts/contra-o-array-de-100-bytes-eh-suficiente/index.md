@@ -30,7 +30,7 @@ int main()
     size_t legacyLen = strlen(legacyString);
     wchar_t* convertedString = new wchar_t[legacyLen+1]; // espalhando a merda de alocar dinamicamente
     mbstowcs(convertedString, legacyString, legacyLen+1);
-    WideStringFunction(convertedString);
+    WideStringFunction( convertedString );
     free(legacyString);
     free(convertedString); // espalhando a merda de desalocar manualmente
 }

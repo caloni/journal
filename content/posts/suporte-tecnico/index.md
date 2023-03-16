@@ -14,7 +14,7 @@ Máquina com parte do registro corrompida, notadamente alguma sub-chave de HKEY_
 
 Abaixo um exemplo simples para ter uma ideia em JS:
 
-    var win = window.open('minha_url_do_coracao.htm');
+    var win = window.open( 'minha_url_do_coracao.htm' );
     win.focus(); // aqui dá o erro
 
 A primeira coisa que se faz nesse caso é pesquisar no Google por pessoas que já tiveram esse problema. A [maioria](http://www.google.com/search?q=class+does+not+support+automation) dizia ser necessária registrar novamente as DLLs do navegador/shell, coisa que fizemos à exaustão e não resolveu o problema. Também imaginamos haver relação com a versão da **SDocVw.dll** que estava alocada na lista de assemblies .NET cacheados, o chamado GAC. Ou seja, já estávamos viajando geral.

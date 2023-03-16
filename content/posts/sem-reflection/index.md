@@ -20,7 +20,7 @@ public:
 int main()
 {
         MyClass c;
-        if( auto m = typeid(c).methods.getaddresof("Method1") )
+        if( auto m = typeid(c). methods. getaddresof( "Method1" ) )
                 m();
 }
 ```
