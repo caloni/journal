@@ -1,7 +1,7 @@
 ---
-categories: null
-date: '2023-03-09T11:39:49-02:00'
-draft: true
+categories:
+- wine
+date: 2023-03-20
 tags: null
 title: Pyros Appellation Syrah 2019
 ---
@@ -26,4 +26,4 @@ A garrafa que abri é da série Appellation, mantida em guarda de barricas franc
 
 O nome Pyros vem de fogo, referência ao solo de Perdernal, que pelo próprio nome lembra esse tipo de rocha calcária pré-histórica que se formou na região, única na Argentina, e que dizem as lendas foram usadas para produzir fogo por nossos antepassados. Essa pedra, do inglês flint, é muito fácil de produzir faíscas.
 
-Pyros também me ajudou a produzir faíscas, mas em minha mente. É daquelas surpresa que só quem mantém em sua adega rótulos que prefere não saber quanto custaram nem se ficaram de guarda pode ter. Todas essas descobertas em torno do vinho vieram depois de degustar. Mas assim como a pedra calcária do vale onde suas uvas foram produzidas, ele já tinha potencial de gerar faíscas, traduzidas em sinapses dentro do meu cérebro.
+Pyros também me ajudou a produzir faíscas, mas em minha mente. É daquelas surpresas que só quem mantém em sua adega rótulos que prefere não saber quanto custaram nem se ficaram de guarda pode ter. Todas essas descobertas em torno do vinho vieram depois de degustar. Mas assim como a pedra calcária do vale onde suas uvas foram produzidas, ele já tinha potencial de gerar faíscas, traduzidas em sinapses dentro do meu cérebro.
