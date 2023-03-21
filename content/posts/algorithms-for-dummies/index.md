@@ -28,3 +28,6 @@ Ainda estou lendo, mas já consegui uma frase intrigante logo no início, refere
 
 > In the 1960s, researchers found a common pattern for all of them: They are all equally difficult to solve. This pattern is called the NP-completeness theory (NP stands for nondeterministic polynomial). In a sense, these problems distinguish themselves from others because it's not yet possible to find a solution in a reasonable time —that is, in polynomial time. Polynomial time means that an algorithm runs in powers of the number of inputs (known as P problems). Linear time is polynomial time because it runs O(n1). Also quadratic O(n2) and cubic O(n3) complexities are polynomial time, and though they grow quite fast, they don't compare to NP-complete complexity, which is usually exponential time, that is, O(cn).
 
+> (...) when you can break down a problem into nested subproblems can dynamic programming beat brute-force approaches that repeatedly rework the same subproblems.
+
+> You can trace dynamic programming to two large families of solutions: Bottom-up: Builds an array of partial results that aggregate into a complete solution Top-down: Splits the problem into subproblems, starting from the complete solution (this approach is typical of recursive algorithms) and using memoization (defined in the next section) to avoid repeating computations more than once
