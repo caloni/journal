@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2023-03-19T21:40:33-02:00'
-draft: true
 tags: null
 title: Catarina, a Menina Chamada Passarinha
 ---

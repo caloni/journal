@@ -1,50 +1,15 @@
 ﻿Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 2-3  | Added on Monday, 20 March 23 01:06:33 GMT-03:00
+- Highlight Loc. 18-19  | Added on Monday, 20 March 23 23:54:31 GMT-03:00
 
-Filme feminista de época com gordinha branquela que parece criança 
+mas não tanto a ponto de não nos importarmos. Quem evita que deixemos de nos importar é Jammie Fox 
 ==========
-Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 8  | Added on Monday, 20 March 23 01:06:54 GMT-03:00
+B071XN7LGM EBOK (Unknown)
+- Highlight Loc. 6355-56  | Added on Tuesday, 21 March 23 00:11:56 GMT-03:00
 
-Mac, 
+when you can break down a problem into nested subproblems can dynamic programming beat brute-force approaches that repeatedly rework the same subproblems.
 ==========
-Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 7  | Added on Monday, 20 March 23 01:07:03 GMT-03:00
+B071XN7LGM EBOK (Unknown)
+- Highlight Loc. 6359-62  | Added on Tuesday, 21 March 23 00:12:41 GMT-03:00
 
-não conta uma grande história, 
-==========
-Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 14  | Added on Monday, 20 March 23 01:08:08 GMT-03:00
-
-Nada Pinked Smith. 
-==========
-Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 16  | Added on Monday, 20 March 23 01:08:41 GMT-03:00
-
-nada disso não teria peso 
-==========
-Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 16-17  | Added on Monday, 20 March 23 01:08:59 GMT-03:00
-
-a direção de Michael Mann não nos deixasse sonhar com as possibilidades desses dois atores em construírem uma realidade impossível. 
-==========
-Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 28-29  | Added on Monday, 20 March 23 01:10:47 GMT-03:00
-
-Você começava a fazer e tinha um contador de 90 minutos. 
-==========
-Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 36-37  | Added on Monday, 20 March 23 01:12:08 GMT-03:00
-
-fazer duas infusão 
-==========
-Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 50  | Added on Monday, 20 March 23 01:14:05 GMT-03:00
-
-virem simpáticas? 
-==========
-Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 89-90  | Added on Monday, 20 March 23 01:20:15 GMT-03:00
-
-daquelas surpresa 
+You can trace dynamic programming to two large families of solutions: Bottom-up: Builds an array of partial results that aggregate into a complete solution Top-down: Splits the problem into subproblems, starting from the complete solution (this approach is typical of recursive algorithms) and using memoization (defined in the next section) to avoid repeating computations more than once
 ==========
