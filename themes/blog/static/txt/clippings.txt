@@ -1,15 +1,5 @@
 ﻿Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 18-19  | Added on Monday, 20 March 23 23:54:31 GMT-03:00
+- Highlight Loc. 9-10  | Added on Thursday, 23 March 23 00:15:26 GMT-03:00
 
-mas não tanto a ponto de não nos importarmos. Quem evita que deixemos de nos importar é Jammie Fox 
-==========
-B071XN7LGM EBOK (Unknown)
-- Highlight Loc. 6355-56  | Added on Tuesday, 21 March 23 00:11:56 GMT-03:00
-
-when you can break down a problem into nested subproblems can dynamic programming beat brute-force approaches that repeatedly rework the same subproblems.
-==========
-B071XN7LGM EBOK (Unknown)
-- Highlight Loc. 6359-62  | Added on Tuesday, 21 March 23 00:12:41 GMT-03:00
-
-You can trace dynamic programming to two large families of solutions: Bottom-up: Builds an array of partial results that aggregate into a complete solution Top-down: Splits the problem into subproblems, starting from the complete solution (this approach is typical of recursive algorithms) and using memoization (defined in the next section) to avoid repeating computations more than once
+No entanto, o rótulo 
 ==========

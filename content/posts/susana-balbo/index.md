@@ -1,7 +1,7 @@
 ---
-categories: null
-date: '2023-03-21T19:32:30-02:00'
-draft: true
+categories:
+- wine
+date: '2023-03-23'
 tags: null
 title: Susana Balbo
 ---
@@ -12,6 +12,6 @@ Para começar abrimos um espumante, o Rosso Brut do Michel de Mas, a vinícola o
 
 Para o almoço abrimos um Susana Balbo que peguei na loja do Shopping Palmares em Mendoza na promoção para preencher os vinhos que davam direito ao desconto. O sabor estava deliciosamente equilibrado e sóbrio, mas ao mesmo tempo trazia um frutado elegante em um corpo bojudo, de vinho Mendocino ou sul-americano, aquele corpo agressivo que não se encontra na Europa.
 
-E digo isso porque logo depois abrimos um vinho europeu, o Lá Cittadella. Europeu porque seu rótulo diz ser da zona do euro, que é o que acontece quando as uvas são produzidas em um país e o vinho em outro. No entanto, o rótulo estava em italiano. Neste caso é um vinho com corpo bem mais leve, gostoso de tomar sozinho mesmo.
+E digo isso porque logo depois abrimos um vinho europeu, o Lá Cittadella. Europeu porque seu rótulo diz ser da zona do euro, que é o que acontece quando as uvas são produzidas em um país e o vinho em outro (mas ambos da União). No entanto, importante notar, o rótulo estava em italiano. Neste caso é um vinho com corpo bem mais leve, gostoso de tomar sozinho mesmo.
 
 A última garrafa foi um Santa Carolina ou algo do gênero. Fácil de tomar, mas difícil quando é a quarta garrafa. Porém, zeramos com orgulho.

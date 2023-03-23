@@ -1,3 +1,1 @@
-call matchadd("search", "mas não tanto a ponto de não nos importarmos. Quem evita que deixemos de nos importar é Jammie Fox")
-call matchadd("search", "when you can break down a problem into nested subproblems can dynamic programming beat brute-force approaches that repeatedly rework the same subproblems.")
-call matchadd("search", "You can trace dynamic programming to two large families of solutions: Bottom-up: Builds an array of partial results that aggregate into a complete solution Top-down: Splits the problem into subproblems, starting from the complete solution (this approach is typical of recursive algorithms) and using memoization (defined in the next section) to avoid repeating computations more than once")
+call matchadd("search", "No entanto, o rótulo")
