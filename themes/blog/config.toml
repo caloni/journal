@@ -27,7 +27,7 @@ theme = "blog"
     comments = "https://t.me/bloguedocalonidiscuss"
 
 [params.home]
-    postsCount = 10
+    postsCount = 15
     tagPostsCount = 15
     tags = [ "home" ]
 
