@@ -6,7 +6,7 @@ tags: null
 title: 'O boot no Windows: Kernel'
 ---
 
-Finalmente chegamos em um pouco onde podemos usar o WinDbg.
+Finalmente chegamos em um ponto onde podemos usar o WinDbg.
 
 Podemos espetar o depurador e fazê-lo parar assim que conectado. Se estiver rodando antes do próprio sistema operacional, teremos um sistema sem processos e sem threads, pois ele irá parar assim que o executivo puder enviar o sinal de início pela porta serial, após carregar na memória os módulos básicos.
 
