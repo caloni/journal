@@ -1,14 +1,16 @@
 ---
-categories: null
+categories:
+- blog
+- series
+- code
 date: '2023-03-26T12:47:27-02:00'
-draft: true
 tags: null
 title: O melhor teste técnico até agora
 ---
 
 As três séries citadas neste post foram: "Que Cilada!",  "Três Metros Acima do Céu" e "A Vida Mentirosa dos Adultos".
 
-Hoje fiz mais um teste técnico. O melhor de todos. Não posso contar, por contrato, sobre o que ele se trata, mas posso contextualizar que não é um exercício de lógica, de estrutura de dados e de pegadinhas com complexidade de algoritmo para resolver problemas fictícios. Se trata de um problema que os devs da empresa tiveram que resolver, resolveram e agora pedem para que o candidato resolvam. Dão nove horas para isso, começando quando quiser. O sistema de envio valida a compilação do código, que você pode enviar quantas vezes quiser, semelhante ao HackerRank, e no final, depois dos testes que eles atenciosamente lembram para você fazer, você clica no botão para submeter sua resposta. Caso falhe o sistema te diz por que falhou e lhe dá ainda mais uma segunda chance.
+Hoje fiz mais um teste técnico. O melhor de todos. Não posso contar, por contrato, sobre o que ele se trata, mas posso contextualizar que não é um exercício de lógica, de estrutura de dados e de pegadinhas com complexidade de algoritmo para resolver problemas fictícios. Se trata de um problema que os devs da empresa tiveram que resolver, resolveram e agora pedem para que o candidato resolva. Dão nove horas para isso, começando quando quiser. O sistema de envio valida a compilação do código, que você pode enviar quantas vezes quiser, semelhante ao HackerRank, e no final, depois dos testes que eles atenciosamente lembram para você fazer, você clica no botão para submeter sua resposta. Caso falhe o sistema te diz por que falhou e lhe dá ainda mais uma segunda chance.
 
 Achei tudo muito correto, além de excitante. Lembra trabalho de verdade. É um simulacro do que seria meu dia a dia de trabalho após passar por todo o processo de contratação. Achei foda. Foi um dos dias mais divertidos desde que fui demitido.
 

@@ -1,12 +1,12 @@
 ---
-categories: null
+categories:
+- movies
 date: '2023-03-26T12:47:45-02:00'
-draft: true
 tags: null
 title: Meu Irmão é Filho Único
 ---
 
-Este filme estreou quando eu já conhecia a Mitiko, em 2007, mas nunca havia ouvido falar. Ele é italiano, se passa no pós guerra e seu herói é um fascista. Além de estar do lado certo da história luta bravamente contra o irmão e a namorada, comunistas de carteirinha. Depois que o rapaz transa vira comunista, demonstrando que comunistas são pessoas relaxadas e relapsas.
+Este filme estreou quando eu já conhecia a Mitiko, em 2007, mas nunca havia ouvido falar. Ele é italiano, se passa no pós guerra e seu herói é um fascista. Além de estar do lado certo da história luta bravamente contra o irmão e a namorada, comunistas de carteirinha. Depois que o rapaz transa vira comunista, demonstrando a personalidade de pessoas relaxadas e relapsas.
 
 Há uma parte hilária onde Ode à Alegria de Beethoven é adaptada porque os comunistas estão cansados de lembrar da música associada ao movimento de extrema direita por causa da irmandade e confraternização que ela exala. Então eles começam a citar na letra Mão Tse Tung, Trotsky, Lenin. É uma pataquada.
 
