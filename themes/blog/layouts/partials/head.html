@@ -4,11 +4,11 @@
   <!-- Resize for mobile viewers (gold) -->
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
 
-  {{- if .IsHome }}
+  {{ if .IsHome }}
   <title>{{ .Site.Title }}</title>
-  {{- else }}
+  {{ else }}
   <title>{{ .Site.Title }} - {{ .Title }}</title>
-  {{- end }}
+  {{ end }}
   <meta name="author" content="{{ .Site.Author.name }}" />
 
   {{ hugo.Generator }}

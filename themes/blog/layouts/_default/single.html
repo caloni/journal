@@ -18,8 +18,11 @@
 
       <!-- Content -->
       <div class="container">
+        {{ if eq .Title .Site.Params.author }}
+        {{ else }}
         {{ partial "title.html" . }}
         {{ partial "toc.html" . }}
+        {{ end }}
         
           <div class="content">
 

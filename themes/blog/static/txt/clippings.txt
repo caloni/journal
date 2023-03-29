@@ -1,30 +1,30 @@
-﻿CRACKING the · CODING INTERVIEW ( PDFDrive ) (Unknown)
-- Highlight Loc. 291-94  | Added on Saturday, 25 March 23 00:43:37 GMT-03:00
+﻿Blogue do Caloni (Rascunhos) (Wanderley Caloni)
+- Highlight Loc. 5  | Added on Monday, 27 March 23 00:47:41 GMT-03:00
 
-False negatives are acceptable. This is sad (and frustrating for candidates), but true. From the company's perspective, it's actually acceptable that some good candidates are rejected. The company is out to build a great set of employees. They can accept that they miss out on some good people.
+condescendente 
 ==========
-CRACKING the · CODING INTERVIEW ( PDFDrive ) (Unknown)
-- Highlight Loc. 296-97  | Added on Saturday, 25 March 23 00:43:50 GMT-03:00
+Blogue do Caloni (Rascunhos) (Wanderley Caloni)
+- Highlight Loc. 10  | Added on Monday, 27 March 23 00:48:49 GMT-03:00
 
-They're far more concerned with false positives: people who do well in an interview but are not in fact very good.
+que têm um bom vocal e bom movimento, que 
 ==========
-CRACKING the · CODING INTERVIEW ( PDFDrive ) (Unknown)
-- Highlight Loc. 303-4  | Added on Saturday, 25 March 23 00:44:55 GMT-03:00
+Blogue do Caloni (Rascunhos) (Wanderley Caloni)
+- Highlight Loc. 29  | Added on Monday, 27 March 23 00:51:41 GMT-03:00
 
-Could you learn it as needed? Sure. But it's very difficult to know that you should use a binary search tree if you don't know of its existence. And if you do know of its existence, then you pretty much know the basics.
+comunista, demonstrando que comunistas 
 ==========
-CRACKING the · CODING INTERVIEW ( PDFDrive ) (Unknown)
-- Highlight Loc. 321-22  | Added on Saturday, 25 March 23 00:46:52 GMT-03:00
+Blogue do Caloni (Rascunhos) (Wanderley Caloni)
+- Highlight Loc. 48  | Added on Monday, 27 March 23 00:55:08 GMT-03:00
 
-Whiteboards also tend to encourage candidates to speak more and explain their thought process. When a candidate is given a computer, their communication drops substantially.
+o candidato resolvam. 
 ==========
-CRACKING the · CODING INTERVIEW ( PDFDrive ) (Unknown)
-- Highlight Loc. 924-26  | Added on Sunday, 26 March 23 00:43:19 GMT-03:00
+Blogue do Caloni (Rascunhos) (Wanderley Caloni)
+- Highlight Loc. 67  | Added on Monday, 27 March 23 00:57:28 GMT-03:00
 
-If you are thinking right now that you have too much experience and can't fit it all on one or two pages, trust me, you can. Long resumes are not a reflection of having tons of experience; they're a reflection of not understanding how to prioritize content.
+relacionamento de cada vez, como o primeiro relacionamento 
 ==========
-CRACKING the · CODING INTERVIEW ( PDFDrive ) (Unknown)
-- Highlight Loc. 929-32  | Added on Sunday, 26 March 23 00:44:01 GMT-03:00
+CodeMachine - Article - X64 Deep Dive (CodeMachine Inc.)
+- Highlight Loc. 260-63  | Added on Wednesday, 29 March 23 00:21:01 GMT-03:00
 
-For each role, try to discuss your accomplishments with the following approach: "Accomplished X by implementing Y which led to z:· Here's an example: • "Reduced object rendering time by 75% by implementing distributed caching, leading to a 10% reduction in log-in time:· Here's another example with an alternate wording: • "Increased average match accuracy from 1.2 to 1.5 by implementing a new comparison algorithm based on windiff:'
+On X64, the first 4 parameters are always passed in registers and the rest of the parameters are passed via the stack. This is one of main causes of grief during debugging since register values tend to change as functions execute and it becomes difficult to determine the original parameter values that were passed to a function, half-way into its execution. Other than this one issue with retrieving parameters, x64 debugging is not that different from x86 debugging. 
 ==========
