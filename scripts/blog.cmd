@@ -5,6 +5,6 @@ hugo --buildDrafts --cleanDestinationDir -d public\blog --config themes/blog/con
 
 pushd public\blog
 git add --all
-git commit -m "publishing."
+git commit -m "Publish new version."
 git push
 popd
