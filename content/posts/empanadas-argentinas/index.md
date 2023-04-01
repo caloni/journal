@@ -2,22 +2,23 @@
 categories:
 - recipes
 date: '2019-01-07'
+draft: true
 title: Empanadas Argentinas
 ---
 
 ## Ingredientes da massa
 
-Para a quantidade de carne moída ou picada pesar 75% de farinha de trigo (se usar mais recheios com volume aumentar essa quantidade). Com base no peso da farinha, usar 2% de sal, 25% de gordura (para a crocância e peso) e 50% de água morna. Antes de ir para o forno reserve um ovo misturado com um pouco de água para pincelar por cima. Algumas receitas vão um ovo na massa também, para a elasticidade.
+Se for usar recheio de carne moída, para a quantidade pesada de carne pesar o mesmo de farinha de trigo; você pode usar esta base para outros tipos de recheio, se atentando ao volume que o recheio gera, que é o que deverá ser embrulhado pela empanada. Com base no peso da farinha, usar 2% de sal, de 25% a 50% de gordura em temperatura ambiente, tradicionalmente banha, mas pode ser usado manteiga ou outro tipo de óleo, e de 35% a 40% de água morninha, mas que não queima a mão. Antes de ir para o forno reserve um ovo misturado com um pouco de água para pincelar por cima. Algumas receitas vão um ovo na massa também, para a elasticidade.
 
 ## Ingredientes para o recheio de carne
 
-Esse recheio vai basicamente a carne, moída ou em pedaços, e cebola, picada ou fatiada, ambos com o mesmo peso.
+O recheio que mais uso vai basicamente a carne, moída ou em pedaços, e cebola, picada ou fatiada, ambos com o mesmo peso. Uma versão saltenha da mesma receita pode ser feita com batata cozida, mas ainda firme, em pequenos pedaços. Uma outra versão usa ovos cozidos em pedaços. E, por fim, é comum também usar uvas passas, o que pode ir bem para paladares mais exóticos. Fora esses padrões há infinitas possibilidades de recheio, e todas serão empanadas, do espanhol "embrulhado em massa de pão".
 
-Uma versão saltenha da mesma receita pode ser feita com batata cozida, mas ainda firme, em pequenos pedaços. Uma outra versão usa ovos cozidos em pedaços. E, por fim, é comum também usar uvas passas, o que pode ir bem para paladares mais exóticos. Fora esses padrões há infinitas possibilidades de recheio, e todas serão empanadas, do espanhol "embrulhado em massa de pão".
+Um último recheio que usei e que ficou top foi um mix de linguiças apimentada e calabresa com cebola e azeitonas. Não precisou de mais nenhum tempero.
 
 ## Preparo da massa
 
-Dissolva o sal na água, aqueça até amornar e misture junto a banha. Curiosidade: tradicionalmente usa-se sal grosso, mas na prática tanto faz, uma vez que ele será dissolvido. Jogue esta mistura ainda morna por cima da farinha aos poucos e comece a misturar. Aguarde esfriar o suficiente para conseguir misturar com as mãos. Não precisa sovar, mas deixe uma massa homogênea, sem nenhuma grunha de farinha. Embale em plástico filme ou coloque em um pote hermético dentro da geladeira por pelo menos uma hora e até de um dia para o outro.
+Dissolva o sal na água, aqueça até amornar. Curiosidade: tradicionalmente usa-se sal grosso, mas na prática tanto faz, uma vez que ele será dissolvido. Jogue esta salmora ainda morna por cima da farinha e misture até umedecer toda a massa. Em seguida adiciona a gordura. Não precisa sovar, mas misture até deixar uma massa homogênea, sem nenhuma grunha de farinha. Embale em plástico filme ou coloque em um pote hermético dentro da geladeira por pelo menos uma hora e até de um dia para o outro.
 
 ## Preparo do recheio
 
@@ -25,13 +26,21 @@ Há várias formas de preparo, variando se a base será a carne ou a cebola. Voc
 
 ## Preparo final
 
-Ao retirar a massa ela deve ser alongada até a espessura de cerca de 3 milímetros e cortada em círculos de 12cm mais ou menos. Pode ser usado qualquer utensílio para fazer isso. Após cortada a massa as rebarbas podem ser reaproveitadas amassando e alongando novamente (se preferir deixe descansar novamente na geladeira). Os círculos podem voltar à geladeira para manter o formato e ser mais fácil de manusear antes de rechear.
+Ao retirar a massa cada pedaço deve ser alongado em mais ou menos um palmo com um rolo. Tire um punhado da massa, faça uma bola, jogue em uma mesa ou bancada, dê uma amassadinhas com o rolo e vá alongando para manter um círculo. Os círculos podem voltar à geladeira para manter o formato e ser mais fácil de manusear antes de rechear, mas não é necessário, especialmente se estiver trabalhando em equipe (um abre a massa e o outro recheia e fecha).
 
 Para rechear pega-se de uma a duas colheres médias do recheio e coloca-se no meio do círculo. Se estiver com a massa na mão abrace o recheio e sele em volta, começando pela parte de cima e depois as beiradas, encostando as beiradas, com uma margem de cerca de um ou dois dedos. Depois que estiver grudada a massa pode-se fazer aquele arranjo característico das empanadas, de fazer as orelhas progressivas do começo ao fim. Isso se faz com dois dedos e um terceiro de guia. É mais simples praticando.
 
-O forno deve estar no seu calor máximo. Unta-se em cima das empanadas com um ovo quebrado e um pouco de água para dourar quando estiver pronto. Algumas receitas usam inclusive um pouco de açúcar cristal para dourar um pouco mais. Em cerca de meia-hora no forno as empanadas devem estar prontas. É possível deixar assada parcialmente para guardar no freezer e voltar ao fogo quando quiser terminar para comer.
+Para assar o forno deve estar no seu calor máximo. Unta-se em cima das empanadas com um ovo quebrado e um pouco de água para dourar quando estiver pronto. Algumas receitas usam inclusive um pouco de açúcar cristal para dourar um pouco mais. Em cerca de meia-hora no forno as empanadas devem estar prontas. É possível deixar assada parcialmente para guardar no freezer e voltar ao fogo quando quiser terminar para comer.
 
 ## Histórico
+
+### 2023-04-01
+
+Acho que é possível colocar mais banha durante o preparo do recheio e menos água; 50% ficou muito; vou diminuir para 40%; no entanto, o resultado ficou menos seco. O mesmo peso de cebola na carne é demais porque depois a água da carne é reduzida. Creio que a instrução deva ser por volume nesse caso, porque aí depende do recheio já reduzido. Para a empanada clássica o tempero enquanto cozinha é basicamente sal, pimenta e cominho. Hoje experimentei com pimenta vermelha coreana e deu um sabor a mais (é possível variar). Depois de cozido o tempero é basicamente verde: azeitonas, salsa.
+
+Outra anotação foi o mix de linguiça apimentada e calabreza que fiz, junto de cebolas para suavizar e azeitonas. Ficou muito, muito bom. Anotado mais um recheio.
+
+Uma última anotação, importante como sempre: a massa mais uma vez não deu. Pode ter sido a umidade da massa que não permitiu colocar mais recheio, mas vou voltar a receita para 100% do recheio em carne de farinha, o que com 40% de gordura deve chegar mais próximo do 0 a 0.
 
 ### 2023-02-18
 
