@@ -6,7 +6,18 @@ draft: true
 link: https://youtu.be/hsGgI0ThLG8
 tags:
 - body
-title: Exercícios de aquecimento
+title: 10 Exercícios de aquecimento completos
 ---
 
-30 segundos cada um. Marchinha parado, squat mais puxar o joelho para cima abraçando-o (knee pull), de pé engatinhar com as mãos até ficar na posição inclinada no chão (wall down plank), deitado movimentar os pés no ar um de cada lado como caminhando (flutter kicks), ainda deitado esticar braços e pernas e encolher abraçando os joelhos com as mãos tocando os pés (crunch jack), abdominal de joelho junto com posição de criança (push up + child's pose), de pé curvado totalmente para a frente e os braços abertos girar o tronco de um lado para o outro (windmill turns), encostando uma das mãos no chão e a outra o mais afastado possível para trás, com os pés e mãos no chão fazer um triângulo deitar com o tronco no chão, barriga para baixo e erguer para cima os pés e as mãos (downward dog to back bow), levantar e abrir e curvar os braços para o lado oposto enquanto seu corpo pende de um lado para o outro (arm cross swing), por fim um polichinelo com os braços para a frente (front jack).
+Esta é uma série de exercícios leves para começar o dia e aquecer todos os principais músculos. Gostei da lista porque não envolve (muitos) aeróbicos. Faça 30 segundos de cada movimento.
+
+1. Intro: marchinha leve estando no mesmo lugar;
+2. Squat + Knee Pull: agachar e subir, puxando um joelho de cada vez para cima, abraçando-o com os braços;
+3. Wall Down Plank: de pé engatinhar com as mãos até ao chão na posição inclinada;
+4. Flutter Kicks: deitado, movimentar os pés no ar um de cada lado como caminhando;
+5. Crunch Jack: ainda deitado esticar braços e pernas inclinadas para cima e encolher os joelhos para próximo do corpo com as mãos tocando os calcanhares;
+6. Push Up + Child's Pose: abdominal de joelho junto com posição de criança;
+7. Windmill Turns: de pé curvado totalmente para a frente e os braços abertos girar o tronco de um lado para o outro;
+8. Downward Dog to Back Bow: fazer um triângulo com seu corpo, abaixar para deitar de bruços subindo mãos e pés;
+9. Arm Cross Swing: de pé abrir e curvar os braços para o lado oposto enquanto com as pernas balançar de um lado para o outro;
+10. Front Jack: um polichinelo com os braços para a frente.
