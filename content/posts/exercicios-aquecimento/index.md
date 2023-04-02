@@ -2,7 +2,6 @@
 categories:
 - blog
 date: '2023-03-26T12:47:36-02:00'
-draft: true
 link: https://youtu.be/hsGgI0ThLG8
 tags:
 - body

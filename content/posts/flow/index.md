@@ -251,5 +251,3 @@ A teoria de flow apresentada no livro diz respeito em como podemos manipular nos
 "Inner conflict is the result of competing claims on attention. Too many desires, too many incompatible goals struggle to marshal psychic energy toward their own ends."
 
 "Ever since Freud, psychologists have been interested in explaining how early childhood trauma leads to adult psychic dysfunction. This line of causation is fairly easy to understand. More difficult to explain, and more interesting, is the opposite outcome: the instances when suffering gives a person the incentive to become a great artist, a wise statesman, or a scientist."
-
-"Aristotle's views of happiness are most clearly developed in the Nicomachean Ethics, book 1, and book 9, chapters 9 and 10."

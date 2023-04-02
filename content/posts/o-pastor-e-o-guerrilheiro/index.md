@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2023-03-28T20:30:28-02:00'
-draft: true
 tags:
 - cinemaqui
 title: O Pastor e o Guerrilheiro
@@ -28,4 +27,4 @@ Distantes da era dos celulares, Miguel e Zaqueu convivem em paz. O sentimento do
 
 E este é o lado mais positivo de O Pastor e o Guerrilheiro: nos esquecemos de nossa própria época ao assisti-lo. As duas metades temporais pertencem ao passado e são observadas com um viés do presente que já acabou ano passado, com a transição de poderes em Brasília.
 
-No entanto, é um filme melancólico, de certa forma, por não conseguir responder uma pergunta tão presente em nossos dias. E é um filme esperançoso, de outra forma, pois abre de certa forma um diálogo. Não com o outro lado, mas com o passado. Dialogar com o outro lado não é mais possível. O precipício foi escancarado e não há sinais de que um dia voltaremos a sermos civilizados.
+É um filme melancólico por não conseguir responder uma pergunta tão presente em nossos dias. É um filme esperançoso ao abrir de certa forma um diálogo. Não com o outro lado, mas com o passado. Dialogar com o outro lado não é mais possível. O precipício foi escancarado e não há sinais de que um dia voltaremos a sermos civilizados.

@@ -2,7 +2,6 @@
 categories:
 - recipes
 date: '2019-01-07'
-draft: true
 title: Empanadas Argentinas
 ---
 
@@ -12,7 +11,7 @@ Se for usar recheio de carne moída, para a quantidade pesada de carne pesar o m
 
 ## Ingredientes para o recheio de carne
 
-O recheio que mais uso vai basicamente a carne, moída ou em pedaços, e cebola, picada ou fatiada, ambos com o mesmo peso. Uma versão saltenha da mesma receita pode ser feita com batata cozida, mas ainda firme, em pequenos pedaços. Uma outra versão usa ovos cozidos em pedaços. E, por fim, é comum também usar uvas passas, o que pode ir bem para paladares mais exóticos. Fora esses padrões há infinitas possibilidades de recheio, e todas serão empanadas, do espanhol "embrulhado em massa de pão".
+O recheio que mais uso vai basicamente a carne, moída ou em pedaços, e cebola, picada ou fatiada, ambos com o mesmo volume. Uma versão saltenha da mesma receita pode ser feita com batata cozida, mas ainda firme, em pequenos pedaços. Uma outra versão usa ovos cozidos em pedaços. E, por fim, é comum também usar uvas passas, o que pode ir bem para paladares mais exóticos. Fora esses padrões há infinitas possibilidades de recheio, e todas serão empanadas, do espanhol "embrulhado em massa de pão".
 
 Um último recheio que usei e que ficou top foi um mix de linguiças apimentada e calabresa com cebola e azeitonas. Não precisou de mais nenhum tempero.
 
@@ -22,7 +21,7 @@ Dissolva o sal na água, aqueça até amornar. Curiosidade: tradicionalmente usa
 
 ## Preparo do recheio
 
-Há várias formas de preparo, variando se a base será a carne ou a cebola. Você pode dourar a carne em uma panela com banha ou qualquer tipo de gordura com até 10% do peso, reduzindo o líquido e deixando queimar levemente enquanto joga água quente para não grudar no fundo. Você pode também jogar água quente na carne em uma peneira, o que a cozinha levemente apenas na superfície, e na panela amolecer a cebola com a gordura. De qualquer forma, o que estiver no fogo é para temperar. Além de sal e pimenta a gosto, os temperos tradicionais são cominho e páprica doce. Quando a base estiver temperada e no ponto pode misturar a outra parte (cebola ou carne). Se quiser ao final pode jogar um pouco de tomate picado ou seu molho de preferência. Reduza o líquido, desligue ou diminua muito o fogo para colocar os temperos frágeis (os que preferir): orégano, salsa picada, azeitona em pedaços. Pode manter na geladeira por pelo menos uma hora ou de um dia para outro. Se quiser adicionar batatas, estas são cozidas em cubinhos e se mantém firmes embora moles, e ovos cozidos são picados após frios. Ambos são colocados tradicionalmente em cima da carne, sem misturar. A ideia é não alterar a cor desses ingredientes com a carne.
+Há várias formas de preparo, variando se a base será a carne ou a cebola. Você pode dourar a carne em uma panela com banha ou qualquer tipo de gordura com até 10% do peso, reduzindo o líquido e deixando queimar levemente enquanto joga água quente para não grudar no fundo. Você pode também jogar água quente na carne em uma peneira, o que a cozinha levemente apenas na superfície, e na panela amolecer a cebola com a gordura. De qualquer forma, o que estiver no fogo é para temperar. Além de sal e pimenta a gosto, os temperos tradicionais são cominho e páprica doce. Quando a base estiver temperada e no ponto pode misturar a outra parte (cebola ou carne). Se quiser ao final pode jogar um pouco de tomate picado ou seu molho de preferência. Reduza o líquido, desligue o fogo para colocar os temperos frágeis (os que preferir): orégano, salsa picada, azeitona em pedaços. Pode manter na geladeira por pelo menos uma hora ou de um dia para outro. Se quiser adicionar batatas, estas são cozidas em cubinhos e se mantém firmes embora moles, e ovos cozidos são picados após frios. Ambos são colocados tradicionalmente em cima da carne, sem misturar. A ideia é não alterar a cor desses ingredientes com a carne.
 
 ## Preparo final
 
