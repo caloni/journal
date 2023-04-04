@@ -2,7 +2,8 @@
 categories:
 - movies
 date: '2023-03-31T15:59:17-02:00'
-tags: null
+tags:
+- cinemaqui
 title: Pacifiction
 ---
 
