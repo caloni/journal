@@ -1,7 +1,7 @@
 ---
 categories:
 - blog
-date: '2023-04-02T21:29:48-02:00'
+date: '2023-04-04'
 tags: null
 title: Instalei um contador de visitas
 ---
