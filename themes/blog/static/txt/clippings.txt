@@ -1,130 +1,135 @@
 ﻿Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 8  | Added on Sunday, 2 April 23 01:07:40 GMT-03:00
+- Highlight Loc. 12  | Added on Monday, 3 April 23 00:40:17 GMT-03:00
 
-own." 
+existe a visão clara de que existe 
 ==========
 Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 15  | Added on Sunday, 2 April 23 01:08:47 GMT-03:00
+- Highlight Loc. 14  | Added on Monday, 3 April 23 00:40:58 GMT-03:00
 
-melhor que o Momo. 
+become free of societal rewards 
 ==========
 Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 16  | Added on Sunday, 2 April 23 01:09:02 GMT-03:00
+- Highlight Loc. 16-17  | Added on Monday, 3 April 23 00:42:05 GMT-03:00
 
-picancia, 
+learns to set goals and to recognize and gauge feedback 
 ==========
 Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 17  | Added on Sunday, 2 April 23 01:09:30 GMT-03:00
+- Highlight Loc. 23-24  | Added on Monday, 3 April 23 00:44:00 GMT-03:00
 
-Wassabi, 
+center my attention increasingly upon external objects: 
 ==========
 Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 17  | Added on Sunday, 2 April 23 01:09:37 GMT-03:00
+- Highlight Loc. 25  | Added on Monday, 3 April 23 00:44:14 GMT-03:00
 
-Wassabiru. 
+learning to control the body and its senses. 
 ==========
 Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 18  | Added on Sunday, 2 April 23 01:09:59 GMT-03:00
+- Highlight Loc. 25-26  | Added on Monday, 3 April 23 00:45:02 GMT-03:00
 
-Wassabi 
+set an overall goal, and as many subgoals 
 ==========
 Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 21  | Added on Sunday, 2 April 23 01:10:22 GMT-03:00
+- Highlight Loc. 26  | Added on Monday, 3 April 23 00:45:09 GMT-03:00
 
-obento. 
+find ways of measuring progress 
 ==========
 Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 23  | Added on Sunday, 2 April 23 01:10:59 GMT-03:00
+- Highlight Loc. 26-27  | Added on Monday, 3 April 23 00:45:27 GMT-03:00
 
-e não chega a lugar nenhum, e 
+keep concentrating on what one is doing, 
 ==========
 Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 25  | Added on Sunday, 2 April 23 01:11:20 GMT-03:00
+- Highlight Loc. 27  | Added on Monday, 3 April 23 00:45:42 GMT-03:00
 
-não está interessado interagir. 
+keep making finer and finer distinctions in the challenges involved in the activity; 
 ==========
 Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 26  | Added on Sunday, 2 April 23 01:11:46 GMT-03:00
+- Highlight Loc. 27-28  | Added on Monday, 3 April 23 00:45:56 GMT-03:00
 
-Meu Kimchi 
+develop the skills necessary to interact with the opportunities available; 
 ==========
 Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 28  | Added on Sunday, 2 April 23 01:12:07 GMT-03:00
+- Highlight Loc. 28  | Added on Monday, 3 April 23 00:46:04 GMT-03:00
 
-de uma senhorinha coreana 
+keep raising the stakes 
 ==========
 Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 36  | Added on Sunday, 2 April 23 01:13:36 GMT-03:00
+- Highlight Loc. 30  | Added on Monday, 3 April 23 00:46:48 GMT-03:00
 
-a dar dinheiro, certeza. 
+taking control of the direction of learning from the very first steps 
 ==========
 Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 52  | Added on Sunday, 2 April 23 01:16:09 GMT-03:00
+- Highlight Loc. 35-36  | Added on Monday, 3 April 23 00:47:40 GMT-03:00
 
-de uma tema 
+when external input is lacking, attention begins to wander, and thoughts become chaotic 
 ==========
 Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 59-60  | Added on Sunday, 2 April 23 01:17:21 GMT-03:00
+- Highlight Loc. 44  | Added on Monday, 3 April 23 00:49:18 GMT-03:00
 
-acontecer, mas quando o filme passa da metade nós já entendemos que isso nunca irá acontecer. 
+adjust personal goals when starting a relationship, 
 ==========
-Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 98-99  | Added on Sunday, 2 April 23 01:22:28 GMT-03:00
+CodeMachine - Article - X64 Deep Dive (CodeMachine Inc.)
+- Highlight Loc. 424  | Added on Tuesday, 4 April 23 06:26:25 GMT-03:00
 
-forma, por não conseguir responder uma pergunta tão presente em nossos dias. E é um filme esperançoso, de outra forma, pois abre de certa forma 
+Determine if the parameters are loaded into the registers from memory. 
 ==========
-Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 132  | Added on Sunday, 2 April 23 01:26:18 GMT-03:00
+CodeMachine - Article - X64 Deep Dive (CodeMachine Inc.)
+- Highlight Loc. 425-26  | Added on Tuesday, 4 April 23 06:26:39 GMT-03:00
 
-ambos com o mesmo peso. 
+Determine if the parameters are loaded from non-volatile registers and if those registers are saved by the callee. 
 ==========
-Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 145  | Added on Sunday, 2 April 23 01:29:21 GMT-03:00
+CodeMachine - Article - X64 Deep Dive (CodeMachine Inc.)
+- Highlight Loc. 427  | Added on Tuesday, 4 April 23 06:26:50 GMT-03:00
 
-desligue ou diminua muito 
+Determine if the parameters are saved from the registers into memory. 
 ==========
-Blogue do Caloni (Wanderley Caloni)
-- Highlight Loc. 66787-88  | Added on Sunday, 2 April 23 01:39:14 GMT-03:00
+CodeMachine - Article - X64 Deep Dive (CodeMachine Inc.)
+- Highlight Loc. 428  | Added on Tuesday, 4 April 23 06:27:02 GMT-03:00
 
-"Giving up the self with its instincts, habits, and desires is so unnatural an act that only someone supremely in control can accomplish it." 
+Determine if the parameters are saved into non-volatile registers and if those registers are saved by the callee. 
 ==========
-Blogue do Caloni (Wanderley Caloni)
-- Highlight Loc. 66851-53  | Added on Sunday, 2 April 23 01:44:27 GMT-03:00
+CodeMachine - Article - X64 Deep Dive (CodeMachine Inc.)
+- Highlight Loc. 430-31  | Added on Tuesday, 4 April 23 06:28:30 GMT-03:00
 
-keeping order in the mind from within is very difficult. We need external goals, external stimulation, external feedback to keep attention directed. And when external input is lacking, attention begins to wander, and thoughts become chaotic -- resulting in the state we have called "psychic entropy" (...)" 
+Each one of the techniques requires disassembling the caller and the callee functions involved in the parameter passing. 
 ==========
-Blogue do Caloni (Wanderley Caloni)
-- Highlight Loc. 66867-69  | Added on Sunday, 2 April 23 01:45:46 GMT-03:00
+CodeMachine - Article - X64 Deep Dive (CodeMachine Inc.)
+- Highlight Loc. 484-85  | Added on Tuesday, 4 April 23 06:49:54 GMT-03:00
 
-Even pain is better than the chaos that seeps into an unfocused mind. Hurting oneself, whether physically or emotionally, ensures that attention can be focused on something that, although painful, is at least controllable -- since we are the ones causing it." 
+The debugger's ".frame /r" command displays the values of non-volatile registers when a particular function was executing. 
 ==========
-Blogue do Caloni (Wanderley Caloni)
-- Highlight Loc. 66869-72  | Added on Sunday, 2 April 23 01:46:14 GMT-03:00
+CodeMachine - Article - X64 Deep Dive (CodeMachine Inc.)
+- Highlight Loc. 507  | Added on Tuesday, 4 April 23 06:55:17 GMT-03:00
 
-"The ultimate test for the ability to control the quality of experience is what a person does in solitude, with no external demands to give structure to attention. It is relatively easy to become involved with a job, to enjoy the company of friends, to be entertained in a theater or at a concert. But what happens when we are left to our own devices? Alone, when the dark night of the soul descends, are we forced into frantic attempts to distract the mind from its coming? Or are we able to take on activities that are not only enjoyable, but make the self grow?" 
+it is important to always verify parameter register overwrites 
 ==========
-Blogue do Caloni (Wanderley Caloni)
-- Highlight Loc. 66872-74  | Added on Sunday, 2 April 23 01:46:30 GMT-03:00
+CodeMachine - Article - X64 Deep Dive (CodeMachine Inc.)
+- Highlight Loc. 535-36  | Added on Tuesday, 4 April 23 07:08:38 GMT-03:00
 
-"A person who rarely gets bored, who does not constantly need a favorable external environment to enjoy the moment, has passed the test for having achieved a creative life." 
+It is important to examine the instructions up to the call to the next function i.e. CreateFileW() to ascertain that these non-volatile registers are not being overwritten. 
 ==========
-Blogue do Caloni (Wanderley Caloni)
-- Highlight Loc. 66879-81  | Added on Sunday, 2 April 23 01:48:07 GMT-03:00
+CRACKING the · CODING INTERVIEW ( PDFDrive ) (Unknown)
+- Highlight Loc. 1313-18  | Added on Tuesday, 4 April 23 07:33:35 GMT-03:00
 
-"If a person is unwilling to adjust personal goals when starting a relationship, then a lot of what subsequently happens in that relationship will produce disorder in the person's consciousness, because novel patterns of interaction will conflict with old patterns of expectation." 
+Which one is faster?The first one does one for loop and the other one does two for loops. But then, the first solution has two lines of code per for loop rather than one. If you're going to count the number of instructions, then you'd have to go to the assembly level and take into account that multiplication requires more instructions than addition, how the compiler would optimize something, and all sorts of other details. This would be horrendously complicated, so don't even start going down this road. Big O allows us to express how the runtime scales. We just need to accept that it doesn't mean that O(N) is always better than O(N2).
 ==========
-Blogue do Caloni (Wanderley Caloni)
-- Highlight Loc. 66894-901  | Added on Sunday, 2 April 23 01:50:12 GMT-03:00
+CRACKING the · CODING INTERVIEW ( PDFDrive ) (Unknown)
+- Highlight Loc. 1323-25  | Added on Tuesday, 4 April 23 07:34:43 GMT-03:00
 
-"The process of discovering new goals in life is in many respects similar to that by which an artist goes about creating an original work of art. Whereas a conventional artist starts painting a canvas knowing what she wants to paint, and holds to her original intention until the work is finished, an original artist with equal technical training commences with a deeply felt but undefined goal in mind, keeps modifying the picture in response to the unexpected colors and shapes emerging on the canvas, and ends up with a finished work that probably will not resemble anything she started out with. If the artist is responsive to her inner feelings, knows what she likes and does not like, and pays attention to what is happening on the canvas, a good painting is bound to emerge. On the other hand, if she holds on to a preconceived notion of what the painting should look like, without responding to the possibilities suggested by the forms developing before her, the painting is likely to be trite." 
+We already said that we drop constants. Therefore, 0( N2 + N2) would be O ( N2 ). If we don't care about that latter N2 term, why would we care about N? We don't. You should drop the non-dominant terms.
 ==========
-Blogue do Caloni (Wanderley Caloni)
-- Highlight Loc. 66902-3  | Added on Sunday, 2 April 23 01:50:51 GMT-03:00
+CRACKING the · CODING INTERVIEW ( PDFDrive ) (Unknown)
+- Highlight Loc. 1344-45  | Added on Tuesday, 4 April 23 07:37:51 GMT-03:00
 
-For an autotelic person, the primary goals emerge from experience evaluated in consciousness, and therefore from the self proper." 
+If your algorithm is in the form "do this, then, when you're all done, do that"then you add the runtimes. If your algorithm is in the form "do this for each time you do that"then you multiply the runtimes.
 ==========
-Blogue do Caloni (Wanderley Caloni)
-- Highlight Loc. 66916-17  | Added on Sunday, 2 April 23 01:53:22 GMT-03:00
+CRACKING the · CODING INTERVIEW ( PDFDrive ) (Unknown)
+- Highlight Loc. 1385-86  | Added on Tuesday, 4 April 23 07:44:11 GMT-03:00
 
-"Aristotle's views of happiness are most clearly developed in the Nicomachean Ethics, book 1, and book 9, chapters 9 and 10." 
+This is a good takeaway for you to have. When you see a problem where the number of elements in the problem space gets halved each time, that will likely be a 0( log N) runtime.
+==========
+CRACKING the · CODING INTERVIEW ( PDFDrive ) (Unknown)
+- Highlight Loc. 1397-98  | Added on Tuesday, 4 April 23 07:45:28 GMT-03:00
+
+Rather than making assumptions, let's derive the runtime by walking through the code.
 ==========

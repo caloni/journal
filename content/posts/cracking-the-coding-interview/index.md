@@ -28,3 +28,13 @@ Este livro foi recomendado pela minha amiga para treinar para as entrevistas té
 > Here's another example with an alternate wording:
 > - Increased average match accuracy from 1.2 to 1.5 by implementing a new comparison algorithm based on windiff.
 >
+
+> Which one is faster? The first one does one for loop and the other one does two for loops. But then, the first solution has two lines of code per for loop rather than one. If you're going to count the number of instructions, then you'd have to go to the assembly level and take into account that multiplication requires more instructions than addition, how the compiler would optimize something, and all sorts of other details. This would be horrendously complicated, so don't even start going down this road. Big O allows us to express how the runtime scales. We just need to accept that it doesn't mean that O(N) is always better than O(N2).
+
+> We already said that we drop constants. Therefore, 0( N2 + N2) would be O ( N2 ). If we don't care about that latter N2 term, why would we care about N? We don't. You should drop the non-dominant terms.
+
+> If your algorithm is in the form "do this, then, when you're all done, do that" then you add the runtimes. If your algorithm is in the form "do this for each time you do that" then you multiply the runtimes.
+
+> This is a good takeaway for you to have. When you see a problem where the number of elements in the problem space gets halved each time, that will likely be a 0( log N) runtime.
+
+> Rather than making assumptions, let's derive the runtime by walking through the code.

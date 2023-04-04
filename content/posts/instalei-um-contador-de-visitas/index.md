@@ -1,7 +1,7 @@
 ---
-categories: null
+categories:
+- blog
 date: '2023-04-02T21:29:48-02:00'
-draft: true
 tags: null
 title: Instalei um contador de visitas
 ---
