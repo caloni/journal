@@ -20,10 +20,10 @@ if len(sys.argv) > 1:
   os.rename("content/chess/{}".format(baseName), "content/posts/{}".format(baseName))
   folder = "content/posts/{}".format(baseName)
   path = "{}/index.md".format(folder)
-  imagePath = "{}/board.png".format(downloadsPath)
+  imagePath = "{}/board.jpeg".format(downloadsPath)
 
   if Path(imagePath).is_file():
-    destImagePath = "{}/board.png".format(folder)
+    destImagePath = "{}/board.jpeg".format(folder)
     shutil.move(imagePath, destImagePath)
     print("moved image {} to {}".format(imagePath, destImagePath))
 

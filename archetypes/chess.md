@@ -7,5 +7,5 @@ tags:
 title: Este é um título provisório
 ---
 
-{{< image src="board.png" >}}
+{{< image src="board.jpeg" >}}
 
