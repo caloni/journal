@@ -2,12 +2,13 @@
 categories:
 - recipes
 date: '2019-01-07'
+draft: true
 title: Empanadas Argentinas
 ---
 
 ## Ingredientes da massa
 
-Se for usar recheio de carne moída, para a quantidade pesada de carne pesar o mesmo de farinha de trigo; você pode usar esta base para outros tipos de recheio, se atentando ao volume que o recheio gera, que é o que deverá ser embrulhado pela empanada. Com base no peso da farinha, usar 2% de sal, de 25% a 50% de gordura em temperatura ambiente, tradicionalmente banha, mas pode ser usado manteiga ou outro tipo de óleo, e de 35% a 40% de água morninha, mas que não queima a mão. Antes de ir para o forno reserve um ovo misturado com um pouco de água para pincelar por cima. Algumas receitas vão um ovo na massa também, para a elasticidade.
+Se for usar recheio de carne moída, para a quantidade pesada de carne pesar o mesmo de farinha de trigo; você pode usar esta base para outros tipos de recheio, se atentando ao volume que o recheio gera, que é o que deverá ser embrulhado pela empanada. Nos meus testes 100g de farinha conseguem embrulhar 3 ou 4 empanadas. Com base no peso da farinha, usar 2% de sal, de 25% a 50% de gordura em temperatura ambiente, tradicionalmente banha, mas pode ser usado manteiga ou outro tipo de óleo, e de 35% a 40% (ou bem pouco a mais, apenas para umedecer) de água morninha, mas que não queima a mão. Antes de ir para o forno reserve um ovo misturado com um pouco de água para pincelar por cima. Algumas receitas vão um ovo na massa também, para a elasticidade.
 
 ## Ingredientes para o recheio de carne
 
@@ -17,7 +18,7 @@ Um último recheio que usei e que ficou top foi um mix de linguiças apimentada 
 
 ## Preparo da massa
 
-Dissolva o sal na água, aqueça até amornar. Curiosidade: tradicionalmente usa-se sal grosso, mas na prática tanto faz, uma vez que ele será dissolvido. Jogue esta salmora ainda morna por cima da farinha e misture até umedecer toda a massa. Em seguida adiciona a gordura. Não precisa sovar, mas misture até deixar uma massa homogênea, sem nenhuma grunha de farinha. Embale em plástico filme ou coloque em um pote hermético dentro da geladeira por pelo menos uma hora e até de um dia para o outro.
+Dissolva o sal na água, aqueça até amornar. Curiosidade: tradicionalmente usa-se sal grosso, mas na prática tanto faz, uma vez que ele será dissolvido. Jogue esta salmora ainda morna por cima da farinha aos poucos para não gerar grunhas e vá misturando até umedecer toda a massa; se faltar um pouco de água coloque mais um pinguinhos, a ideia é umedecer apenas. Em seguida, adiciona a gordura, também misturando bem; não precisa sovar, mas misture até deixar uma massa homogênea. Deixe por uns 10 minutos em temperatura ambiente para a massa relaxar e embale em plástico filme ou coloque em um pote hermético dentro da geladeira por pelo menos uma hora e até de um dia para o outro.
 
 ## Preparo do recheio
 
@@ -32,6 +33,14 @@ Para rechear pega-se de uma a duas colheres médias do recheio e coloca-se no me
 Para assar o forno deve estar no seu calor máximo. Unta-se em cima das empanadas com um ovo quebrado e um pouco de água para dourar quando estiver pronto. Algumas receitas usam inclusive um pouco de açúcar cristal para dourar um pouco mais. Em cerca de meia-hora no forno as empanadas devem estar prontas. É possível deixar assada parcialmente para guardar no freezer e voltar ao fogo quando quiser terminar para comer.
 
 ## Histórico
+
+### 2023-04-03
+
+Faltou massa da última vez, então experimentei novas proporções: 40% de água, 40% de gordura. No entanto criei grunhas na farinha ao jogar a água um pouco quente demais de uma vez na massa, e deve ser por isso que lá no início da receita é pedido que se coloque aos poucos. Há a opção de juntar com a gordura também, mas ainda prefiro testar novamente umedecer a farinha para depois acrescentar a gordura.
+
+O resultado dessa história é que tive que colocar mais água porque 40% não foi o suficiente para umedecer (colocando a aos poucos talvez funcione) e depois coloquei mais farinha, pois o resultado estava mole demais.
+
+Outro ponto de mudança é dar um tempo para a massa em temperatura ambiente antes de congelar para que ela relaxe. Uns 10 minutos devem bastar, mas estou seguindo o que sei sobre massa.
 
 ### 2023-04-01
 
