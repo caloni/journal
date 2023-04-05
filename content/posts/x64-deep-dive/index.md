@@ -2,16 +2,15 @@
 categories:
 - reading
 - code
-date: '2023-03-29T21:02:57-02:00'
-draft: true
+date: '2023-04-05'
 link: https://codemachine.com/articles/x64_deep_dive.html
 tags:
 - debug
 - videos
-title: Como analisar dumps em x64
+title: Como analisar assembly x64
 ---
 
-Recomento a leitura do artigo "X64 Deep Dive" para se habituar às idiossincrasias sobre o formato assembly do x64, especialmente se você costuma depurar assembly para Windows. O artigo cobre as novas features para suportar 64 bits do formato do executável Windows, o Portable Executable, além de explicar em detalhes o funcionamento de mecanismos que mudaram, como o tratamento de exceção (e o unwinding no código).
+Recomendo a leitura do artigo "X64 Deep Dive" para se habituar às idiossincrasias sobre o formato assembly do x64, especialmente se você costuma depurar assembly para Windows. O artigo descreve as novas funcionalidades que suportam os 64 bits do formato do executável Windows, o Portable Executable, além de explicar em detalhes o funcionamento de mecanismos que mudaram, como o tratamento de exceção (e o unwinding no código).
 
 Criei [um repositório](https://github.com/Caloni/x64-deep-dive) para praticar alguns desses assuntos e recriar algum código-fonte para mostrar como o Visual Studio gera código em x64 e como depurar este código. Através deste repo e do [vídeo que pretendo gravar](https://youtu.be/wp7-BD9pOOc) a respeito caminharemos pelas mudanças desde o x86 para aumentarmos nossas habilidades em debugging de código x64. Entre algumas mudanças segue uma lista do que considerei mais importante:
 
@@ -28,6 +27,7 @@ Criei [um repositório](https://github.com/Caloni/x64-deep-dive) para praticar a
 ## FastCall
 
 ```
+/*
 "Fastcall registers are used to pass parameters to functions. Fastcall is the
 default calling convention on X64 where in the first 4 parameters are passed via
 the registers RCX, RDX, R8, R9." - X64 Deep Dive
@@ -48,6 +48,7 @@ mov         eax,dword ptr [res]
 add         rsp,30h # RBP is no longer used as frame pointer.
 pop         rdi
 ret
+*/
 ```
 
 ## Tail Call Elimination
@@ -86,21 +87,16 @@ frame pointer." - x64 Deep Dive
 
 # Win32 (x86)
 int TestFramePointerOmission() {
-00601590  push        ebp
-00601591  mov         ebp,esp
 	return 1;
 00601593  mov         eax,1
 }
-00601598  pop         ebp
 00601599  ret
 
 # Win62 (x64)
 int TestFramePointerOmission() {
-00007FF7D6E215E0  push        rdi
 	return 1;
 00007FF7D6E215E2  mov         eax,1
 }
-00007FF7D6E215E7  pop         rdi
 00007FF7D6E215E8  ret
 */
 ```
@@ -119,12 +115,12 @@ int RSPIsTheSame(int p1, int p2, int p3, int p4, int p5, int p6, int p7, int p8)
 # prolog-begin
 push        ebp
 mov         ebp,esp
+# prolog-end
 	RSPIsTheSameCall1(p1);
 mov         eax,dword ptr [p1]
 push        eax # RSP--
 call        RSPIsTheSameCall1
 add         esp,4 # RSP++
-# prolog-end
 	RSPIsTheSameCall4(p1, p2, p3, p4);
 mov         ecx,dword ptr [p4]
 push        ecx # RSP--
@@ -192,33 +188,6 @@ compiled with the /homeparams flag. The minimum size of this homing space is
 parameters. When the homing space is not used to store parameter values, the
 compiler uses it to save non-volatile registers." - x64 Deep Dive
 
-However, even in x86 those arguments can be lost if there is some optimization
-for parameters that are not used anymore, which is the case in this test. Note
-the recycle of positions in the stack and the economy of stack frames to
-call the nesting functions above.
-
-# Win32
-	int ret = HomingSpace1(1, 2, 3, 4);
-push        4
-push        3
-push        2
-push        1
-call        HomingSpace1
-
-# Win64
-	int ret = HomingSpace1(1, 2, 3, 4);
-mov         edx,2
-lea         r9d,[rdx+2]
-lea         r8d,[rdx+1]
-lea         ecx,[rdx-1]
-call        HomingSpace1
-*/
-```
-
-## Homing Space for Non Leaf Functions
-
-```
-/*
 "The register based parameter homing space exists only for non-leaf 
 functions." - x64 Deep Dive
 
@@ -235,7 +204,7 @@ sub         rsp,20h
 int TestHomingSpaceNonLeaf() {
 sub         rsp,28h
 	int ret = HomingSpaceNonLeaf(1, 2, 3, 4);
-mov         edx,2 # even begin non-leaf function, params are not saved
+mov         edx,2 # even begin non-leaf function, params are not saved in release
 lea         r9d,[rdx+2]
 lea         r8d,[rdx+1]
 lea         ecx,[rdx-1]

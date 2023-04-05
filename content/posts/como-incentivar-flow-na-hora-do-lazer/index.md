@@ -1,25 +1,27 @@
 ---
 categories:
 - blog
-date: '2023-04-01T23:10:55-02:00'
-draft: true
+- reading
+date: '2023-04-05'
 tags: null
 title: Flow no dia-a-dia e na hora do lazer
 ---
 
 Durante o trabalho é relativamente fácil alinhar o próximo objetivo e entrar no flow, ou, em outras palavras, focar. Já no tempo livre, mesmo que seu objetivo seja alguma atividade produtiva, não há valor no objetivo final se este não for estipulado.
 
-Por isso reli minhas anotações sobre [o livro de Mihaly Csikszentmihalyi]({{< ref flow >}}) sobre como estruturar nossa consciência de forma conseguir aos poucos alinhar a energia psíquica a maior parte do tempo possível. E deve ser aos poucos, já que o "eu" não pode se sentir impelido a fazer algo; ele precisa entender dentro de si o que ele quer fazer mais que tudo na vida.
+Por isso reli minhas anotações sobre [o livro de Mihaly Csikszentmihalyi]({{< ref flow >}}) sobre como estruturar nossa consciência de forma a conseguir aos poucos alinhar a energia psíquica a maior parte do tempo possível. E deve ser aos poucos, já que o "eu" não pode se sentir impelido a fazer algo; ele precisa entender dentro de si o que ele quer fazer mais que tudo na vida.
+
+> Uma artista original começa um novo trabalho com uma forte intuição e objetivos indefinidos, se mantém modificando o trabalho em resposta a resultados inesperados que surgiram, e termina com um trabalho concluído que não lembra em nada o que havia imaginado no começo. Se a artista é responsável pelos seus sentimentos internos, sabe o que ela gosta e o que ela não gosta, e presta atenção ao que está acontecendo, um bom trabalho está prestes a emergir.
 
 Dentro dos meus recortes compilei esta lista de ações e dicas mais compactadas dos ensinamentos do livro.
 
 - Aprenda a controlar o corpo e seus sentidos;
 - Desenvolva habilidades para oportunidades disponíveis;
-- Controle a direção do aprendizado desde o comecinho;
+- Ignore obrigações externas desde o começo e seja você o desejo de aprender;
 - Defina o objetivo geral e secundários;
 - Centralize sua atenção em objetos externos;
 - Ao iniciar um relacionamento alinhe os objetivos pessoais;
-- Encontre feedbacks para medir seu progresso;
+- Encontre qual o feedback para medir seu progresso;
 - Se livre das recompensas sociais e fisiológicas;
 - Se concentre no que você está fazendo;
 - Sem input externo falta a atenção e começam os devaneios;

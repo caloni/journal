@@ -1,11 +1,10 @@
 ---
 categories:
 - chess
-date: '2023-04-04T15:29:12-02:00'
-draft: true
+date: '2023-04-05'
 link: https://www.chess.com/game/live/74370677677
 tags: null
-title: Nao capture este cachorro
+title: Não capture este cachorro
 ---
 
 Um jogo onde me esforcei em dar o mate, mesmo sem saber muito se iria dar certo. Acabou que existiu oportunidade para ambos os lados, equilíbrio e muitos erros, claro.
