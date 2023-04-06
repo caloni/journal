@@ -17,6 +17,7 @@ theme = "book"
 [permalinks]
     posts = "/:filename/"
     news = "/:filename/"
+    repost = "/:filename/"
     drafts = "/:filename/"
 
 [params]
