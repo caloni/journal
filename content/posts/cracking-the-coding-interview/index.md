@@ -1,12 +1,15 @@
 ---
 categories:
-date: '2023-03-26T13:24:47-02:00'
-draft: true
+- code
+- reading
+date: '2023-04-07'
 tags:
 title: Cracking the code interview
 ---
 
 Este livro foi recomendado pela minha amiga para treinar para as entrevistas técnicas que ando fazendo. Escolhi ler este em seguida após terminar o [Algorithm For Dummies]({{< ref algorithms-for-dummies >}}). As primeiras anotações são como compor o CV e qual a estratégia de cada big tech nos seus processos. Escapei esta parte, não estou interessado em trabalhar em um Google da vida. Porém, há alguns detalhes que achei relevante recortar.
+
+Estava em cerca de 8% do livro e desisti. Suas dicas são deveras avançadas para quem está apenas querendo tirar a ferrugem de algoritmos. Iniciei um outro chamado A Common-Sense Guide to Data Structures que parece mais a minha cara.
 
 # Recortes
 
