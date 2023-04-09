@@ -1,14 +1,15 @@
 ---
 categories: null
-date: '2023-04-08T15:36:29-02:00'
-draft: true
+date: '2023-04-09'
 tags: null
 title: Duas séries pretas e um filme preto... e branco
 ---
 
 Coisa neste poste: Alfaville (Alphaville), Swarm (Enxame), Todo Mundo Odeia o Chris.
 
-Estou revendo esta série que estreou nos anos 2000, quando minha família adorava assistir na TV aberta pela nostalgia de épocas menos abastadas. A série se chama Todo Mundo Odeia o Chris, é baseada vagamente sobre a infância do comediante Chris Rock vivendo sua infância no Brooklin dos anos 80. Eles se identificavam e muito, mas não pela cor da pele, e sim por ser a história de uma família pobre, onde eles têm que vender o almoço pra comprar a janta e se desdobrar para criar três filhos. É sobre pobreza. A pobreza nos une em torno das desgraças, que são o tempero da vida. Usamos para dar risada uns dos outros. É o que os pobres têm de sobra. É a moeda social de troca.
+Estou revendo esta série que estreou nos anos 2000, quando minha família adorava assistir na TV aberta pela nostalgia de épocas menos abastadas. A série se chama Todo Mundo Odeia o Chris, é baseada vagamente na infância do comediante Chris Rock vivendo no Brooklin dos anos 80. Muito é inventado e adaptado, mas a essência do que era viver nos subúrbios de Nova York em uma família proletariada negra se mantém.
+
+Minha família se identificava e muito, mas não pela cor da pele, e sim por ser a história de uma família pobre, que tem que vender o almoço pra comprar a janta e se desdobrar para criar três filhos. É sobre pobreza. A pobreza nos une em torno das desgraças, que são o tempero da vida. Usamos das desgraças para dar risada uns dos outros e tornar a vida mais leve, exatamente o oposto de porta-bandeiras de movimentos sociais. Desgraça é o que os pobres têm de sobra. É a moeda social de troca de facto, e no Brasil é a maneira como as pessoas se promovem, através da exploração da compaixão alheia.
 
 Esta é uma série lúdica para todos, inclusive crianças, que não apanham tanto quanto poderiam. Apesar de Chris receber várias ameaças nervosas de sua mãe, nós sabemos como isso funciona na cabeça de uma criança. É um sitcom charmoso, com algumas fachadas externas e cenários internos que nos remetem a uma época mais inocente da TV e da vida real. Sem celulares a TV das crianças era a atração principal, uma caixa de 19 polegadas com uma imagem sofrível em que se exercitava a imaginação. Ou seja, o paraíso. Uma das últimas décadas antes de tudo mudar.
 

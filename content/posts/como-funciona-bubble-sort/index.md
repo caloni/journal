@@ -1,14 +1,13 @@
 ---
 categories:
 - code
-date: '2023-04-08T21:51:23-02:00'
-draft: true
+date: '2023-04-09'
 tags:
 - interview
 title: Como funciona o bubble sort
 ---
 
-Uma das piores ordenações possíveis, mas uma das mais simples de entender, é a bubble sort. Ela é passada para estudantes de computação porque é um dos algoritmos que é possível de explicar sem entrar em muitos detalhes do seu funcionamento porque é intuitivo.
+Uma das piores ordenações possíveis, mas uma das mais simples de entender, é a bubble sort. Ela é passada para estudantes de computação porque é um algoritmo possível de explicar sem entrar em muitos detalhes do seu funcionamento, e também porque seu funcionamento é intuitivo.
 
 O objetivo do algoritmo é ordenar uma lista.
 

@@ -1,8 +1,7 @@
 ---
 categories:
 - code
-date: '2023-04-08T21:41:09-02:00'
-draft: true
+date: '2023-04-09'
 tags:
 - interview
 title: Como descobrir se uma string é mutuamente rotativa

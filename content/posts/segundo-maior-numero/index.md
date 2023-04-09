@@ -1,8 +1,7 @@
 ---
 categories:
 - code
-date: '2023-04-08T22:49:27-02:00'
-draft: true
+date: '2023-04-09'
 tags:
 - interview
 title: Segundo maior número
