@@ -2,8 +2,7 @@
 categories:
 - blog
 - reading
-date: '2023-04-09T21:17:58-02:00'
-draft: true
+date: '2023-04-10'
 tags:
 - body
 title: Calisthenics for Beginners

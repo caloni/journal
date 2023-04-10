@@ -1,75 +1,30 @@
-﻿Calisthenics for Beginners: Step-by-Step Workouts to Build Strength at Any Fitness Level (Matt Schifferle)
-- Highlight Loc. 335-38  | Added on Saturday, 8 April 23 00:20:27 GMT-03:00
+﻿A Common-Sense Guide to Data Structures and Algorithms, Second Edition, 2nd Edition (Jay Wengrow)
+- Highlight Loc. 1285-88  | Added on Monday, 10 April 23 13:54:17 GMT-03:00
 
-Granted, it takes practice to accurately read your body’s natural signals. For example, it’s easy to believe you’re hungry when, in fact, you’re bored or stressed. It’s also easy to ignore your satiety cues if you’re eating while distracted like while watching a movie. Nevertheless, you have plenty of opportunities to practice every day, and, over a short period of time, you can develop a keen sense of what your body really needs.
+Here’s what the notation means. It expresses the answer to what we’ll call the “key question.” The key question is: if there are N data elements, how many steps will the algorithm take? Go ahead and read that sentence again. Then, emblazon it on your forehead, as this is the definition of Big O Notation that we’ll be using throughout the rest of this book.
 ==========
-Calisthenics for Beginners: Step-by-Step Workouts to Build Strength at Any Fitness Level (Matt Schifferle)
-- Highlight Loc. 375-77  | Added on Saturday, 8 April 23 00:25:39 GMT-03:00
+A Common-Sense Guide to Data Structures and Algorithms, Second Edition, 2nd Edition (Jay Wengrow)
+- Highlight Loc. 1310-12  | Added on Monday, 10 April 23 13:58:46 GMT-03:00
 
-It’s important that you eat even when trying to lose weight. Eating too little for days on end can make you feel tired and sluggish, not to mention leave you open to hunger cravings. Such conditions not only reduce your ability to burn calories through activity but also make you vulnerable to periods of overeating.
+Big O is originally a concept from mathematics, and therefore, it’s often described in mathematical terms. For example, one way of describing Big O is that it describes the upper bound of the growth rate of a function, or that if a function g(x) grows no faster than a function f(x), then g is said to be a member of O(f).
 ==========
-Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 8  | Added on Sunday, 9 April 23 01:11:42 GMT-03:00
+A Common-Sense Guide to Data Structures and Algorithms, Second Edition, 2nd Edition (Jay Wengrow)
+- Highlight Loc. 1314-19  | Added on Monday, 10 April 23 13:59:12 GMT-03:00
 
-elemento atrual, 
+If you want to dig further into the math behind Big O, check out Introduction to Algorithms by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein (MIT Press, 2009) for a full mathematical explanation. Justin Abrahms also provides a pretty good definition in his article: https://justin.abrah.ms/computer-science/understanding-big-o-formal-definition.html.
 ==========
-Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 7-8  | Added on Sunday, 9 April 23 01:14:49 GMT-03:00
+A Common-Sense Guide to Data Structures and Algorithms, Second Edition, 2nd Edition (Jay Wengrow)
+- Highlight Loc. 1331-34  | Added on Monday, 10 April 23 14:01:21 GMT-03:00
 
-O importante na lógica abaixo 
+The soul of Big O is what Big O is truly concerned about: how will an algorithm’s performance change as the data increases? This is the soul of Big O. Big O doesn’t want to simply tell you how many steps an algorithm takes. It wants to tell you the story of how the number of steps increase as the data changes.
 ==========
-Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 38  | Added on Sunday, 9 April 23 01:17:30 GMT-03:00
+A Common-Sense Guide to Data Structures and Algorithms, Second Edition, 2nd Edition (Jay Wengrow)
+- Highlight Loc. 1355-57  | Added on Monday, 10 April 23 14:04:39 GMT-03:00
 
-em um nodes; 
+Because there will always be some amount of data at which the tides turn, and O(N) takes more steps from that point until infinity, O(N) is considered to be, on the whole, less efficient than O(1) no matter how many steps the O(1) algorithm actually takes.
 ==========
-Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 39  | Added on Sunday, 9 April 23 01:17:54 GMT-03:00
+A Common-Sense Guide to Data Structures and Algorithms, Second Edition, 2nd Edition (Jay Wengrow)
+- Highlight Loc. 1358-59  | Added on Monday, 10 April 23 14:05:12 GMT-03:00
 
-o segundo estará no meio. 
-==========
-Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 40  | Added on Sunday, 9 April 23 01:18:06 GMT-03:00
-
-lista ligadas 
-==========
-Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 41  | Added on Sunday, 9 April 23 01:18:48 GMT-03:00
-
-é ncessário 
-==========
-Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 63  | Added on Sunday, 9 April 23 01:22:25 GMT-03:00
-
-os algoritmo 
-==========
-Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 65  | Added on Sunday, 9 April 23 01:23:03 GMT-03:00
-
-onde ele 
-==========
-Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 74  | Added on Sunday, 9 April 23 01:24:03 GMT-03:00
-
-é necesário 
-==========
-Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 75  | Added on Sunday, 9 April 23 01:24:17 GMT-03:00
-
-uma array. 
-==========
-Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 145-46  | Added on Sunday, 9 April 23 01:32:28 GMT-03:00
-
-que um é método de massa tem um preço bem maior que um método hipster. 
-==========
-Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 149-50  | Added on Sunday, 9 April 23 01:33:04 GMT-03:00
-
-infância do comediante Chris Rock vivendo sua infância 
-==========
-Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 150  | Added on Sunday, 9 April 23 01:33:14 GMT-03:00
-
-Eles se identificavam 
+The same is true even for an O(1) algorithm that always takes one million steps. As the data increases, there will inevitably reach a point at which O(N) becomes less efficient than the O(1) algorithm, and will remain so up toward an infinite amount of data.
 ==========
