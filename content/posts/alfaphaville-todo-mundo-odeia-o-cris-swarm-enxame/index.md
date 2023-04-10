@@ -1,5 +1,7 @@
 ---
-categories: null
+categories:
+- series
+- movies
 date: '2023-04-09'
 tags: null
 title: Duas séries pretas e um filme preto... e branco
