@@ -1,30 +1,20 @@
-﻿A Common-Sense Guide to Data Structures and Algorithms, Second Edition, 2nd Edition (Jay Wengrow)
-- Highlight Loc. 1285-88  | Added on Monday, 10 April 23 13:54:17 GMT-03:00
+﻿Blogue do Caloni (Rascunhos) (Wanderley Caloni)
+- Highlight Loc. 18  | Added on Tuesday, 11 April 23 01:02:49 GMT-03:00
 
-Here’s what the notation means. It expresses the answer to what we’ll call the “key question.” The key question is: if there are N data elements, how many steps will the algorithm take? Go ahead and read that sentence again. Then, emblazon it on your forehead, as this is the definition of Big O Notation that we’ll be using throughout the rest of this book.
+result; 
+==========
+Blogue do Caloni (Rascunhos) (Wanderley Caloni)
+- Highlight Loc. 39  | Added on Tuesday, 11 April 23 01:05:38 GMT-03:00
+
+conhecer. Talvez um dia conheça 
+==========
+Blogue do Caloni (Rascunhos) (Wanderley Caloni)
+- Highlight Loc. 49  | Added on Tuesday, 11 April 23 01:06:38 GMT-03:00
+
+aceitávemos 
 ==========
 A Common-Sense Guide to Data Structures and Algorithms, Second Edition, 2nd Edition (Jay Wengrow)
-- Highlight Loc. 1310-12  | Added on Monday, 10 April 23 13:58:46 GMT-03:00
+- Highlight Loc. 1695-97  | Added on Tuesday, 11 April 23 01:20:14 GMT-03:00
 
-Big O is originally a concept from mathematics, and therefore, it’s often described in mathematical terms. For example, one way of describing Big O is that it describes the upper bound of the growth rate of a function, or that if a function g(x) grows no faster than a function f(x), then g is said to be a member of O(f).
-==========
-A Common-Sense Guide to Data Structures and Algorithms, Second Edition, 2nd Edition (Jay Wengrow)
-- Highlight Loc. 1314-19  | Added on Monday, 10 April 23 13:59:12 GMT-03:00
-
-If you want to dig further into the math behind Big O, check out Introduction to Algorithms by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein (MIT Press, 2009) for a full mathematical explanation. Justin Abrahms also provides a pretty good definition in his article: https://justin.abrah.ms/computer-science/understanding-big-o-formal-definition.html.
-==========
-A Common-Sense Guide to Data Structures and Algorithms, Second Edition, 2nd Edition (Jay Wengrow)
-- Highlight Loc. 1331-34  | Added on Monday, 10 April 23 14:01:21 GMT-03:00
-
-The soul of Big O is what Big O is truly concerned about: how will an algorithm’s performance change as the data increases? This is the soul of Big O. Big O doesn’t want to simply tell you how many steps an algorithm takes. It wants to tell you the story of how the number of steps increase as the data changes.
-==========
-A Common-Sense Guide to Data Structures and Algorithms, Second Edition, 2nd Edition (Jay Wengrow)
-- Highlight Loc. 1355-57  | Added on Monday, 10 April 23 14:04:39 GMT-03:00
-
-Because there will always be some amount of data at which the tides turn, and O(N) takes more steps from that point until infinity, O(N) is considered to be, on the whole, less efficient than O(1) no matter how many steps the O(1) algorithm actually takes.
-==========
-A Common-Sense Guide to Data Structures and Algorithms, Second Edition, 2nd Edition (Jay Wengrow)
-- Highlight Loc. 1358-59  | Added on Monday, 10 April 23 14:05:12 GMT-03:00
-
-The same is true even for an O(1) algorithm that always takes one million steps. As the data increases, there will inevitably reach a point at which O(N) becomes less efficient than the O(1) algorithm, and will remain so up toward an infinite amount of data.
+This is actually the reason why this algorithm is called Bubble Sort: in each pass-through, the highest unsorted value “bubbles” up to its correct position.
 ==========

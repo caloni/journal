@@ -1,8 +1,7 @@
 ---
 categories:
 - code
-date: '2023-04-10T18:13:50-02:00'
-draft: true
+date: '2023-04-11'
 tags:
 - interview
 title: Código para Fibonacci
@@ -20,13 +19,13 @@ Um codigozinho que imprime os cinco primeiros números para deixar mais claro:
 ```
 void Fibonacci()
 {
-    int num1 = 0, num2 = 1, result;
+    int num1 = 0, num2 = 1;
     int total = 5;
 
     cout << "fibonacci of first " << total << " elements\n";
     for (int i = 0; i < total; ++i)
     {
-        result = num1 + num2;
+        int result = num1 + num2;
         cout << result << ' ';
         num1 = num2, num2 = result;
     }

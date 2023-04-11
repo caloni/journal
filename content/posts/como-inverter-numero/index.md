@@ -1,8 +1,7 @@
 ---
 categories:
 - code
-date: '2023-04-10T18:17:38-02:00'
-draft: true
+date: '2023-04-11'
 tags:
 - interview
 title: Como inverter um número

@@ -1,7 +1,7 @@
 ---
-categories: null
-date: '2023-04-10T17:50:32-02:00'
-draft: true
+categories:
+- food
+date: '2023-04-11'
 tags: null
 title: Misoya Ramen
 ---
@@ -14,4 +14,4 @@ O sabor é mais intenso que outros caldos missô da cidade. Talvez o gergelim to
 
 A quantidade dos pratos é média, o que é bastante para quem come pouco como eu, na medida para quem come um pouco mais e pouco para quem come muito, que terá a sorte de pedir algum complemento como guioza ou frango Karaage.
 
-Este é um bom lámen, mas infelizmente o preço não me apetece. Eu não sairia de casa para jantar em um lugar desses, pois há casas de lámen mais em conta e com um sabor mais interessante. Mas valeu a pena conhecer. Talvez um dia conheça uma versão picante ou os complementos se estiver de passagem.
+Este é um bom lámen, mas infelizmente o preço não me apetece. Eu não sairia de casa para jantar em um lugar desses, pois há casas de lámen mais em conta e com um sabor mais interessante. Mas valeu a pena conhecer. Talvez um dia quando estiver na região de bobeira explore uma versão picante ou os complementos.
