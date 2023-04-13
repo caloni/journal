@@ -9,9 +9,9 @@ tags:
 title: A Common-Sense Guide to Data Structures and Algorithms
 ---
 
-Meu próximo livro para praticar entrevistas técnica é este A Common-Sense Guide to Data Structures and Algorithms, de Jay Wengrow. Jay queria explicar de maneira menos matemática e alienígena para programadores como algoritmos e estruturas de dados funcionam e como conceber bons algoritmos e medir a eficiência de algoritmos já prontos. Tudo isso serve também para você que deseja passar nas entrevistas técnicas e suas pegadinhas.
+Meu próximo livro para praticar entrevistas técnicas é este de Jay Wengrow. Jay queria explicar de maneira menos matemática e alienígena para programadores como algoritmos e estruturas de dados funcionam e como conceber bons algoritmos e medir a eficiência de algoritmos já prontos. Tudo isso serve também para você que deseja passar nas entrevistas técnicas e suas pegadinhas.
 
-Ainda não terminei o livro, mas achei a didática de Jay Wengrow fabulosa, visto que os dois livros anteriores eram muito chatos e burocráticos. Aqui Jay está conversando de programador para programador. Mesmo que você nunca tenha ouvido falar em complexidade de algoritmo e nem seja um programador tão experiente assim vai conseguir entender os fundamentos da estruturas de dados e como manipular dados na memória de diversas maneiras.
+Ainda não terminei o livro, mas achei a didática de Jay Wengrow fabulosa, visto que os dois livros anteriores, [Algorithm for Dummies]{{< ref algorithms-for-dummies >}} e [Cracking the code interview]({{< ref cracking-the-coding-interview >}} eram muito chatos e burocráticos. Aqui Jay está conversando de programador para programador. Mesmo que você nunca tenha ouvido falar em complexidade de algoritmo e nem seja um programador tão experiente assim vai conseguir entender os fundamentos de estruturas de dados e como manipulá-los na memória de diversas maneiras.
 
 Jay vai passando seu conhecimento aos poucos. Primeiro ele simplifica demais e usa analogias que nos deixam em uma zona de conforto. Depois ele vai complicando aos poucos. Quando menos esperamos já estamos sabendo o porquê de detalhes da computação que antigamente apenas aceitávamos como verdade. Ele me faz lembrar muito a didática do Tanenbaum, que constrói um argumento usando bom senso.
 
@@ -32,3 +32,13 @@ Bom, o título de seu livro já denuncia: este é um guia livre de bullshitagem 
 > The same is true even for an O(1) algorithm that always takes one million steps. As the data increases, there will inevitably reach a point at which O(N) becomes less efficient than the O(1) algorithm, and will remain so up toward an infinite amount of data.
 
 > This is actually the reason why this algorithm is called Bubble Sort: in each pass-through, the highest unsorted value “bubbles” up to its correct position.
+
+> In reality, however, Selection Sort is described in Big O as O(N2), just like Bubble Sort. This is because of a major rule of Big O that I’m now introducing for the first time: Big O Notation ignores constants.
+
+> This is simply a mathematical way of saying that Big O Notation never includes regular numbers that aren’t an exponent. We simply drop these regular numbers from the expression.
+
+> However, when two algorithms fall under the same classification of Big O, it doesn’t necessarily mean that both algorithms have the same speed. After all, Bubble Sort is twice as slow as Selection Sort even though both are O(N2). So, while Big O is perfect for contrasting algorithms that fall under different classifications of Big O, when two algorithms fall under the same classification, further analysis is required to determine which algorithm is faster.
+
+> Big O Notation only takes into account the highest order of N when we have multiple orders added together.
+
+> That is, if we have an algorithm that takes N4 + N3 + N2 + N steps, we only consider N4 to be significant—and just call it O(N4). Why is this?

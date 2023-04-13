@@ -1,20 +1,70 @@
-﻿Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 18  | Added on Tuesday, 11 April 23 01:02:49 GMT-03:00
+﻿A Common-Sense Guide to Data Structures and Algorithms, Second Edition, 2nd Edition (Jay Wengrow)
+- Highlight Loc. 2419-22  | Added on Wednesday, 12 April 23 01:02:16 GMT-03:00
 
-result; 
+In reality, however, Selection Sort is described in Big O as O(N2), just like Bubble Sort. This is because of a major rule of Big O that I’m now introducing for the first time: Big O Notation ignores constants.
 ==========
 Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 39  | Added on Tuesday, 11 April 23 01:05:38 GMT-03:00
+- Highlight Loc. 8  | Added on Wednesday, 12 April 23 01:03:24 GMT-03:00
 
-conhecer. Talvez um dia conheça 
+idealizadores de filme 
 ==========
 Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 49  | Added on Tuesday, 11 April 23 01:06:38 GMT-03:00
+- Highlight Loc. 8  | Added on Wednesday, 12 April 23 01:03:37 GMT-03:00
 
-aceitávemos 
+idealizadores de filme não esperam um comentário como esse de um filme 
+==========
+Blogue do Caloni (Rascunhos) (Wanderley Caloni)
+- Highlight Loc. 8-9  | Added on Wednesday, 12 April 23 01:03:52 GMT-03:00
+
+completamente mergulhado 
+==========
+Blogue do Caloni (Rascunhos) (Wanderley Caloni)
+- Highlight Loc. 9  | Added on Wednesday, 12 April 23 01:04:06 GMT-03:00
+
+Então não leia. 
+==========
+Blogue do Caloni (Rascunhos) (Wanderley Caloni)
+- Highlight Loc. 9  | Added on Wednesday, 12 April 23 01:04:25 GMT-03:00
+
+foi produzido pela Petrobrás 
+==========
+Blogue do Caloni (Rascunhos) (Wanderley Caloni)
+- Highlight Loc. 21  | Added on Wednesday, 12 April 23 01:06:15 GMT-03:00
+
+entrevistas técnica 
+==========
+Blogue do Caloni (Rascunhos) (Wanderley Caloni)
+- Highlight Loc. 21-22  | Added on Wednesday, 12 April 23 01:06:30 GMT-03:00
+
+A Common-Sense Guide to Data Structures and Algorithms, de Jay Wengrow. 
+==========
+Blogue do Caloni (Rascunhos) (Wanderley Caloni)
+- Highlight Loc. 25  | Added on Wednesday, 12 April 23 01:07:03 GMT-03:00
+
+os dois livros anteriores 
+==========
+Blogue do Caloni (Rascunhos) (Wanderley Caloni)
+- Highlight Loc. 26-27  | Added on Wednesday, 12 April 23 01:07:25 GMT-03:00
+
+da estruturas de dados 
 ==========
 A Common-Sense Guide to Data Structures and Algorithms, Second Edition, 2nd Edition (Jay Wengrow)
-- Highlight Loc. 1695-97  | Added on Tuesday, 11 April 23 01:20:14 GMT-03:00
+- Highlight Loc. 2422-23  | Added on Wednesday, 12 April 23 01:09:11 GMT-03:00
 
-This is actually the reason why this algorithm is called Bubble Sort: in each pass-through, the highest unsorted value “bubbles” up to its correct position.
+This is simply a mathematical way of saying that Big O Notation never includes regular numbers that aren’t an exponent. We simply drop these regular numbers from the expression.
+==========
+A Common-Sense Guide to Data Structures and Algorithms, Second Edition, 2nd Edition (Jay Wengrow)
+- Highlight Loc. 2469-74  | Added on Wednesday, 12 April 23 01:16:36 GMT-03:00
+
+However, when two algorithms fall under the same classification of Big O, it doesn’t necessarily mean that both algorithms have the same speed. After all, Bubble Sort is twice as slow as Selection Sort even though both are O(N2). So, while Big O is perfect for contrasting algorithms that fall under different classifications of Big O, when two algorithms fall under the same classification, further analysis is required to determine which algorithm is faster.
+==========
+A Common-Sense Guide to Data Structures and Algorithms, Second Edition, 2nd Edition (Jay Wengrow)
+- Highlight Loc. 2843-44  | Added on Wednesday, 12 April 23 01:35:02 GMT-03:00
+
+Big O Notation only takes into account the highest order of N when we have multiple orders added together.
+==========
+A Common-Sense Guide to Data Structures and Algorithms, Second Edition, 2nd Edition (Jay Wengrow)
+- Highlight Loc. 2844-48  | Added on Wednesday, 12 April 23 01:35:16 GMT-03:00
+
+That is, if we have an algorithm that takes N4 + N3 + N2 + N steps, we only consider N4 to be significant—and just call it O(N4). Why is this?
 ==========

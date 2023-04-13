@@ -1,16 +1,29 @@
 ---
-categories: null
+categories:
+- movies
 date: '2023-04-11T11:51:33-02:00'
-draft: true
 tags: null
 title: Café com Canela
 ---
 
-Essa moça tem uma raba interessante e passa um café gostosinho. Eu sei que os idealizadores de filme não esperam um comentário como esse de um filme completamente mergulhado em representatividade e diálogos fracos. Então não leia. Obrigado.
+Essa moça tem uma raba interessante e passa um café gostosinho. Eu sei que os idealizadores deste filme não esperam um comentário como esse de um projeto mergulhado em representatividade e diálogos fracos. Se você compartilha da visão da equipe por trás, então não leia este texto. Obrigado.
 
-Este filme foi produzido pela Petrobrás e ganhou o prêmio Petrobrás, o que já diz quase tudo sobre ele.
+Este filme foi apresentado pela Petrobrás e ganhou o prêmio Petrobrás, o que já diz quase tudo sobre ele. Mas dê uma olhada nos títulos dos textos acadêmicos sobre o filme:
 
-Mas se você está curioso para entender como perdeu duas horas de sua vida, talvez este texto esclareça.
+ - A (auto) representação da mulher negra no cinema brasileiro contemporâneo;
+ - O corpo múltiplo negro feminino à luz de um cinema da negrura em Café com Canela;
+ - Café, canela e transgressão: descolonizando narrativas feministas;
+ - Políticas Públicas e a Inclusão da Mulher Negra no Cinema;
+ - Feminilidades e Negritudes nas Telas: Diálogos entre a Psicologia e o Cinema;
+ - O que o cinema quer da gente é coragem: negridade e dissidência sexual & de gênero nas produções da Rosza Filmes;
+ - Direções do olhar: um estudo sobre as poéticas e técnicas de diretoras negras do cinema brasileiro;
+ - Por um cinema negro no feminino: dororidade e pretagonismo das mulheres no filme Café com Canela;
+ - Café com canela e a edificação do afeto no Cinema Negro Feminino;
+ - "Café com Canela" contribui para maior representatividade no cinema.
+
+Os textos acima poderão lhe proporcionar diversas formas de xerocar a opinião diversa que existe na imprensa; tão diversa que um é a cópia de outro que é a cópia de outro que é a cópia...
+
+Porém, se você está curioso para entender como perdeu duas horas de sua vida, talvez este texto esclareça um pouco. Compartilho do seu tédio, caro leitor.
 
 Era uma vez um diretor que se achava muito criativo. Então ele pegou sua câmera e aproximou ao máximo da cara das pessoas. "Eu amo planos detalhe", ele diria se fosse entrevistado. A tela balança e você já não sabe se está assistindo um filme ou dentro de um bote salva vidas.
 
