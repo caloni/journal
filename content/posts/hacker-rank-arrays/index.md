@@ -9,22 +9,14 @@ tags:
 title: Hacker Rank Array
 ---
 
-The next step after [the Warm Up challenges] are the array challenges. And so I
-did it. Now I am going to recap what I did and how I did. And what complexity
-the algorithms have.
-
+The next step after [the Warm Up challenges] are the array challenges. And so I did it. Now I am going to recap what I did and how I did. And what complexity the algorithms have.
 
 # Array Manipulation
 
-To solve the [array manipulation problem] ChatGPT helped me with the code. 
-Now in the review I realized how segment trees work and how binary trees can 
-be implemented using arrays.
+To solve the [array manipulation problem] ChatGPT helped me with the code.  Now in the review I realized how segment trees work and how binary trees can be implemented using arrays.
 
-The issue about this problem is that summing up intervals costs too much
-processing to large intervals. In order to do that, segment trees help, since
-its nodes contain the sum of all its nodes bellow. This way, to get the sum
-of determined intervals all we need to do is to get the bigger intervals and sum
-it up.
+The issue about this problem is that summing up intervals costs too much processing to large intervals. In order to do that, segment trees help, since its nodes contain the sum of all its nodes bellow. This way, to get the sum of determined intervals all we need to do is to get the bigger intervals and sum it up.
+
 ```
 // Segment tree implementation
 void update(int v, int tl, int tr, int l, int r, int x, vector<long>& t) {
@@ -67,7 +59,6 @@ long arrayManipulation(int n, vector<vector<int>> queries) {
     return max_val;
 }
 ```
-
 
 [array manipulation problem]: https://www.hackerrank.com/challenges/crush
 [the Warm Up challenges]: {{< ref hacker-rank-warm-up >}}
