@@ -2,7 +2,7 @@
 categories:
 - recipes
 date: '2021-06-06'
-draft: true
+repost: '2023-04-17'
 link: https://www.youtube.com/c/vitoiacopelli
 title: Como fazer pizza
 ---
@@ -13,7 +13,7 @@ Decida quantas massas de pizza vão ser feitas. Cada pizza consome cerca de 160g
 
 # Primeira Fermentação
 
-A sacada na hora de preparar a massa é fortalecer o fermento antes de fazer a massa. Para isso podemos utilizar qualquer tipo de fermento ativado. Pode ser o polish, uma farinha pré-fermentada que se faz misturando a mesma quantidade de água e farinha com o fermento usado na receita. Pode ser a biga, o mesmo princípio, mas com metade da água e o dobro do tempo fermentando na geladeira. Ou pode ser o fermento natural, que segue o mesmo princípio dos dois anteriores. Você pode usar de um terço até dois terços de farinha para fazer essa mistura. Após juntar a quantidade de farinha e água com o fermento, e o mel para acelerar o processo, deixe 1h em temperatura ambiente para ativar o fermento.
+A sacada na hora de preparar a massa é fortalecer o fermento antes de fazer a massa. Para isso podemos utilizar qualquer tipo de fermento ativado. Pode ser o polish, uma farinha pré-fermentada que se faz misturando a mesma quantidade de água e farinha com o fermento e o mel usados na receita. Pode ser a biga, o mesmo princípio, mas com metade da água e o dobro do tempo fermentando na geladeira. Ou pode ser o fermento natural, que segue o mesmo princípio dos dois anteriores. Você pode usar de um terço até dois terços de farinha para fazer essa mistura. Após juntar a quantidade de farinha e água com o fermento, e o mel para acelerar o processo, deixe 1h em temperatura ambiente para ativar o fermento.
 
 Após essa 1h você poderia fazer uma versão mais rápida da massa misturando os outros ingredientes e sovando. No entanto, para um pizza mais digestiva e aromática, repouse na geladeira o fermento ativado em recipiente fechado por 16 a 24 horas para o polish ou 48 horas para a biga e talvez até mais para o fermento natural. Depois desse tempo a massa começa a ficar muito ácida, mas faça seus experimentos se quiser. As regras de fermentação são as mesmas, exceto o tempo. Em qualquer caso uma massa pré-fermentada estará pronta quando tiver crescido o dobro ou mais e borbulhando, ou seja: viva (no caso da biga é mais difícil de saber). Após retirar da geladeira sempre aguarde pelo menos quase 1h para a massa voltar à temperatura ambiente.
 
@@ -33,7 +33,7 @@ Esse é o momento de colocar a massa no freezer para guardar por meses se quiser
 
 # Forno
 
-Uma vez que as bolas cresceram, cerca de 6 a 8h em temperatura ambiente, é hora de primeiro deixar os ingredientes prontos para rechear a pizza, pré-aquecer o forno, colocando a pedra (se tiver) mais acima no forno no começo do processo, e só então, com tudo pronto, pegar essa bola para abri-la. Arrume semolina para a crocância, ou farinha, ou um misto, e coloque um pouco sobre a mesa. Com todo cuidado, usando uma espátula ou a gravidade, pegue uma das bolas e coloque em cima dessa farinha. Jogue farinha por cima também. Agora é a hora de usar farinha (ou semolina, ou os dois) sem medo para manipular a massa. Amasse-a com carinho, mantendo o ar nas bordas, para abri-la. Uma vez que estiver confiante para segurá-la como um disco, use a gravidade para ir abrindo a massa ou vá esticando com as mãos. Quando levantar a massa lembre-se de tirar o excesso de farinha. Toda a farinha usada para manipular a massa deve ser retirada.
+Uma vez que as bolas cresceram, cerca de 6 a 8h em temperatura ambiente, é hora de primeiro deixar os ingredientes prontos para rechear a pizza, pré-aquecer o forno, colocando a pedra (se tiver) mais acima no forno no começo do processo, e só então, com tudo pronto, pegar essa bola para abri-la. Arrume semolina para a crocância, ou farinha, ou um misto, e coloque um pouco sobre a mesa. Com todo cuidado, usando uma espátula ou a gravidade, pegue uma das bolas e coloque em cima dessa farinha. Jogue farinha por cima também. Agora é a hora de usar farinha (ou semolina, ou os dois) sem medo para manipular a massa. Amasse-a com carinho, mantendo o ar nas bordas, para abri-la. Uma vez que estiver confiante para segurá-la como um disco, use a gravidade para ir abrindo a massa ou vá esticando com as mãos. Quando levantar a massa lembre-se de tirar o excesso de farinha.
 
 Dica importante: durante a formação das bolas e também na hora de abrir a massa um conceito muito importante é o do balão: tratar a massa como um balão, e mantê-lo sempre cheio de ar. Para isso a parte com furinhos da massa se deixa sempre pra baixo e é a parte que se tenta fechar em toda moldagem. Usa-se farinha sempre que necessário para não grudar nas mãos. A sova da pizza ou mesmo sua abertura não precisam ser com muito contato manual.
 
