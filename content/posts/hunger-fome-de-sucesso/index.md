@@ -1,8 +1,7 @@
 ---
 categories:
 - movies
-date: '2023-04-16T23:08:06-02:00'
-draft: true
+date: '2023-04-17'
 tags: null
 title: Hunger (Fome de Sucesso)
 ---
@@ -13,4 +12,4 @@ O filme também aproveita o estereótipo de chefes de cozinha jogarem coisas em 
 
 Do outro lado do ringue temos uma moça que cuida do restaurante da família. Ela sai de fazer frituras para chefe profissional, entre vários outros detalhes que você vai perceber que não faz o menor sentido no mundo da alta gastronomia.
 
-Tudo é um show de luzes que quer iluminar temas sociais referentes a comida, mas sua trama é simplista e episódica a ponto de já sabermos de antemão todo o desenrolar da história. Há uma tentativa séria de ilustrar o filme com cenas impactantes, mas sem pano de fundo que a sustente elas são formas que o próprio chefe do filme tenta iludir seus clientes: com luzes e fumaça.
+Tudo é um show de luzes que quer iluminar temas sociais referentes a comida, mas sua trama é simplista e episódica a ponto de já sabermos de antemão todo o desenrolar da história. Por exemplo, uma vez que a cozinheira sai das asas do seu tutor fica óbvio demais, além de artificial, que vai surgir um confronto direto entre eles. Há uma tentativa séria de ilustrar o filme com cenas impactantes, mas sem pano de fundo que a sustente elas são formas que o próprio chefe do filme tenta iludir seus clientes: com luzes e fumaça.
