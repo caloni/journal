@@ -1,9 +1,10 @@
 ---
-categories: null
+categories:
+- movies
 date: '2023-04-16T23:08:06-02:00'
 draft: true
 tags: null
-title: Hunger
+title: Hunger (Fome de Sucesso)
 ---
 
 Esse filme tem várias boas ideias que quando juntas viram uma mistureba que se torna intragável. Pelo menos filmes, até onde eu sei, não dão indigestão. A história lida com a questão do status dos cozinheiros entre seus clientes ricos e famosos. Em uma época de Master Chef e programas de culinária dominando a timeline é curioso entender esse fascínio, inclusive das massas, por gente que cozinha difícil e dizem por aí que é delicioso.

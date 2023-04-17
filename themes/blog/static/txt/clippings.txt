@@ -1,70 +1,80 @@
-﻿A Common-Sense Guide to Data Structures and Algorithms, Second Edition, 2nd Edition (Jay Wengrow)
-- Highlight Loc. 2419-22  | Added on Wednesday, 12 April 23 01:02:16 GMT-03:00
+﻿Blogue do Caloni (Rascunhos) (Wanderley Caloni)
+- Highlight Loc. 2  | Added on Thursday, 13 April 23 01:18:01 GMT-03:00
 
-In reality, however, Selection Sort is described in Big O as O(N2), just like Bubble Sort. This is because of a major rule of Big O that I’m now introducing for the first time: Big O Notation ignores constants.
+Não existe sequer uma entrada em português 
 ==========
 Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 8  | Added on Wednesday, 12 April 23 01:03:24 GMT-03:00
+- Highlight Loc. 12-13  | Added on Thursday, 13 April 23 01:20:44 GMT-03:00
 
-idealizadores de filme 
+mas como custa processamento descobrir qual a próxima potência de 2 que é maior que N uma aproximação válida é usar 4*N. 
 ==========
 Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 8  | Added on Wednesday, 12 April 23 01:03:37 GMT-03:00
+- Highlight Loc. 36  | Added on Thursday, 13 April 23 01:25:35 GMT-03:00
 
-idealizadores de filme não esperam um comentário como esse de um filme 
+da soma adiciona 
 ==========
 Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 8-9  | Added on Wednesday, 12 April 23 01:03:52 GMT-03:00
+- Highlight Loc. 50  | Added on Thursday, 13 April 23 01:28:43 GMT-03:00
 
-completamente mergulhado 
+como um mapas 
 ==========
 Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 9  | Added on Wednesday, 12 April 23 01:04:06 GMT-03:00
+- Highlight Loc. 50  | Added on Thursday, 13 April 23 01:28:53 GMT-03:00
 
-Então não leia. 
+navegar por uma array. 
 ==========
 Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 9  | Added on Wednesday, 12 April 23 01:04:25 GMT-03:00
+- Highlight Loc. 55  | Added on Thursday, 13 April 23 01:29:51 GMT-03:00
 
-foi produzido pela Petrobrás 
+pois existem node ramos no nível 
 ==========
 Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 21  | Added on Wednesday, 12 April 23 01:06:15 GMT-03:00
+- Highlight Loc. 66  | Added on Thursday, 13 April 23 01:31:37 GMT-03:00
 
-entrevistas técnica 
+the Warm Up challenges 
 ==========
 Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 21-22  | Added on Wednesday, 12 April 23 01:06:30 GMT-03:00
+- Highlight Loc. 68-69  | Added on Thursday, 13 April 23 01:32:06 GMT-03:00
 
-A Common-Sense Guide to Data Structures and Algorithms, de Jay Wengrow. 
+how segment tree work 
 ==========
 Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 25  | Added on Wednesday, 12 April 23 01:07:03 GMT-03:00
+- Highlight Loc. 70  | Added on Thursday, 13 April 23 01:33:07 GMT-03:00
 
-os dois livros anteriores 
+In order to do that segment trees help, 
 ==========
 Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 26-27  | Added on Wednesday, 12 April 23 01:07:25 GMT-03:00
+- Highlight Loc. 70  | Added on Thursday, 13 April 23 01:33:21 GMT-03:00
 
-da estruturas de dados 
+theirs nodes contain 
+==========
+Blogue do Caloni (Rascunhos) (Wanderley Caloni)
+- Highlight Loc. 70-71  | Added on Thursday, 13 April 23 01:33:37 GMT-03:00
+
+the sum of determined intervals 
+==========
+Blogue do Caloni (Rascunhos) (Wanderley Caloni)
+- Highlight Loc. 116  | Added on Thursday, 13 April 23 01:37:43 GMT-03:00
+
+The complexity of this solution is O(n) I guess, 
+==========
+Blogue do Caloni (Rascunhos) (Wanderley Caloni)
+- Highlight Loc. 116-17  | Added on Thursday, 13 April 23 01:38:07 GMT-03:00
+
+I am not counting the operations into the set. 
+==========
+Blogue do Caloni (Rascunhos) (Wanderley Caloni)
+- Highlight Loc. 127-28  | Added on Thursday, 13 April 23 01:38:56 GMT-03:00
+
+dois livros anteriores, [Algorithm for Dummies]http://www.caloni.com.br/algorithms-for-dummies/ e [Cracking the code interview](http://www.caloni.com.br/cracking-the-coding-interview/ eram muito chatos 
 ==========
 A Common-Sense Guide to Data Structures and Algorithms, Second Edition, 2nd Edition (Jay Wengrow)
-- Highlight Loc. 2422-23  | Added on Wednesday, 12 April 23 01:09:11 GMT-03:00
+- Highlight Loc. 4153  | Added on Saturday, 15 April 23 11:48:26 GMT-03:00
 
-This is simply a mathematical way of saying that Big O Notation never includes regular numbers that aren’t an exponent. We simply drop these regular numbers from the expression.
+Because the key determines the placement of the value, we use this principle to make lookups a cinch.
 ==========
 A Common-Sense Guide to Data Structures and Algorithms, Second Edition, 2nd Edition (Jay Wengrow)
-- Highlight Loc. 2469-74  | Added on Wednesday, 12 April 23 01:16:36 GMT-03:00
+- Highlight Loc. 5650-51  | Added on Sunday, 16 April 23 01:39:47 GMT-03:00
 
-However, when two algorithms fall under the same classification of Big O, it doesn’t necessarily mean that both algorithms have the same speed. After all, Bubble Sort is twice as slow as Selection Sort even though both are O(N2). So, while Big O is perfect for contrasting algorithms that fall under different classifications of Big O, when two algorithms fall under the same classification, further analysis is required to determine which algorithm is faster.
-==========
-A Common-Sense Guide to Data Structures and Algorithms, Second Edition, 2nd Edition (Jay Wengrow)
-- Highlight Loc. 2843-44  | Added on Wednesday, 12 April 23 01:35:02 GMT-03:00
-
-Big O Notation only takes into account the highest order of N when we have multiple orders added together.
-==========
-A Common-Sense Guide to Data Structures and Algorithms, Second Edition, 2nd Edition (Jay Wengrow)
-- Highlight Loc. 2844-48  | Added on Wednesday, 12 April 23 01:35:16 GMT-03:00
-
-That is, if we have an algorithm that takes N4 + N3 + N2 + N steps, we only consider N4 to be significant—and just call it O(N4). Why is this?
+One type of problem in which recursion is a natural fit is when we need to delve into multiple layers of a problem without knowing how many layers there are.
 ==========

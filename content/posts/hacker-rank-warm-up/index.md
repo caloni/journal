@@ -2,7 +2,6 @@
 categories:
 - code
 date: '2023-04-11T11:52:00-02:00'
-draft: true
 link: https://www.hackerrank.com/interview/interview-preparation-kit
 tags:
 - interview
@@ -111,8 +110,8 @@ in the set we insert it. If the current color is found we increase a pair
 counter and remove the color from the set. The next time the same color appears
 it will be inserted again waiting for its pair.
 
-The complexity of this solution is O(n) I guess, since we have to traverse all
-array of socks. I am not counting the operations into the set.
+The complexity of this solution is O(N), since we have to traverse all
+array of socks.
 
 ```
 int sockMerchant(int n, vector<int> ar)

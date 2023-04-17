@@ -42,3 +42,5 @@ Bom, o título de seu livro já denuncia: este é um guia livre de bullshitagem 
 > Big O Notation only takes into account the highest order of N when we have multiple orders added together.
 
 > That is, if we have an algorithm that takes N4 + N3 + N2 + N steps, we only consider N4 to be significant—and just call it O(N4). Why is this?
+
+> One type of problem in which recursion is a natural fit is when we need to delve into multiple layers of a problem without knowing how many layers there are.
