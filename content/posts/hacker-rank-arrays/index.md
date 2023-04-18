@@ -6,6 +6,7 @@ draft: true
 link: https://www.hackerrank.com/interview/interview-preparation-kit
 tags:
 - interview
+- english
 title: Hacker Rank Array
 ---
 
