@@ -19,44 +19,54 @@ To solve the [array manipulation problem] ChatGPT helped me with the code. Now i
 The issue about this problem is that summing up intervals costs too much processing to large intervals. In order to do that, segment trees help, since its nodes contain the sum of all its nodes bellow. This way, to get the sum of determined intervals all we need to do is to get the bigger intervals and sum it up.
 
 ```
-// Segment tree implementation
-void update(int v, int tl, int tr, int l, int r, int x, vector<long>& t) {
-    if (l > r) return;
-    if (l == tl && r == tr) {
-        t[v] += x;
+// Segment tree to array manipulation implementation
+long query(int node, int left, int right, int pos, const vector<long>& tree) {
+    if (left == right) {
+        return tree[node];
     }
     else {
-        int tm = (tl + tr) / 2;
-        update(v * 2, tl, tm, l, min(r, tm), x, t);
-        update(v * 2 + 1, tm + 1, tr, max(l, tm + 1), r, x, t);
+        int nodeLeft = 2 * node;
+        int nodeRight = 2 * node + 1;
+        int middle = (left + right) / 2;
+        if (pos <= middle)
+            return tree[node] + query(nodeLeft, left, middle, pos, tree);
+        else
+            return tree[node] + query(nodeRight, middle + 1, right, pos, tree);
     }
 }
 
-// Segment tree query
-long query(int v, int tl, int tr, int pos, vector<long>& t) {
-    if (tl == tr) {
-        return t[v];
+void update(int node, int left, int right, int posLeft, int posRight, int value, vector<long>& tree) {
+    if (posLeft > posRight) return;
+    if (posLeft == left && posRight == right) {
+        tree[node] += value;
     }
     else {
-        int tm = (tl + tr) / 2;
-        if (pos <= tm) {
-            return t[v] + query(v * 2, tl, tm, pos, t);
-        }
-        else {
-            return t[v] + query(v * 2 + 1, tm + 1, tr, pos, t);
-        }
+        int nodeLeft = 2 * node;
+        int nodeRight = 2 * node + 1;
+        int middle = (left + right) / 2;
+        update(nodeLeft, left, middle, posLeft, min(posRight, middle), value, tree);
+        update(nodeRight, middle + 1, right, max(posLeft, middle + 1), posRight, value, tree);
     }
 }
 
 // Solution
 long arrayManipulation(int n, vector<vector<int>> queries) {
-    vector<long> t(4 * n);
-    for (int i = 0; i < queries.size(); i++)
-        update(1, 1, n, queries[i][0], queries[i][1], queries[i][2], t);
+    int m = queries.size();
+    vector<long> t(4 * n); // room for binary tree
+
+    for (int i = 0; i < m; i++) {
+        int l, r, x;
+        l = queries[i][0];
+        r = queries[i][1];
+        x = queries[i][2];
+        update(1, 1, n, l, r, x, t);
+    }
 
     long max_val = 0;
-    for (int i = 1; i <= n; i++)
+    for (int i = 1; i <= n; i++) {
         max_val = max(max_val, query(1, 1, n, i, t));
+    }
+
     return max_val;
 }
 ```
@@ -82,7 +92,7 @@ template <class ForwardIterator>
 }
 ```
 
-The logic is to swap from left to right, leveraging the end part of the vector to making the swaps. The rightmost point is called next and begins in the middle point. The leftmost point is the first point. When the next point reaches the end it go back to the middle point again, because the last element was moved already and the middle now contains the original first elements that was swaped. If, however, the leftmost point reaches the middle point before the next point reaches the end, the middle point changes to the next point. The same logic is repeated until first and next point meet.
+The logic is to swap from left to right, leveraging the end part of the vector to making the swaps. The rightmost point is called next and begins in the middle point. The leftmost point is the first point. When the next point reaches the end it go back to the middle point again, because the last element was moved already and the middle now contains the original first elements that was swaped. If, however, the leftmost point reaches the middle point before the next point reaches the end, the middle point changes to the next point, what means the point where first and middle meet is changing to the next point, making the first to chase the middle point until all rightmost elements be exchanged with it, using the next as a moving buffer. The same logic is repeated until first and next point meet.
 
 {{< image src="std_rotate.jpg" >}}
 

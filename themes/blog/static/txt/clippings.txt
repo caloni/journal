@@ -1,30 +1,20 @@
 ﻿Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 5-6  | Added on Tuesday, 18 April 23 00:13:00 GMT-03:00
+- Highlight Loc. 11  | Added on Wednesday, 19 April 23 00:57:40 GMT-03:00
 
-Segredos e Mentiras, 
+os deslocamentos pedidos. 
 ==========
 Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 9  | Added on Tuesday, 18 April 23 00:14:13 GMT-03:00
+- Highlight Loc. 82-83  | Added on Wednesday, 19 April 23 01:05:20 GMT-03:00
 
-tem Sexo no nome, 
+passado, o que esconde mágoas do passado 
 ==========
 Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 13  | Added on Tuesday, 18 April 23 00:15:32 GMT-03:00
+- Highlight Loc. 93  | Added on Wednesday, 19 April 23 01:07:39 GMT-03:00
 
-Soderbergh 
+Segment tree implementation 
 ==========
 Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 13-14  | Added on Tuesday, 18 April 23 00:15:51 GMT-03:00
+- Highlight Loc. 117  | Added on Wednesday, 19 April 23 01:11:57 GMT-03:00
 
-choque nem pelo sexo, mas pelo nosso choque 
-==========
-Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 14-15  | Added on Tuesday, 18 April 23 00:16:17 GMT-03:00
-
-tipos de relação entre os únicos quatro personagens da história e nenhuma delas 
-==========
-Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 18  | Added on Tuesday, 18 April 23 00:16:56 GMT-03:00
-
-Graham, 
+the middle point changes to the next point. 
 ==========

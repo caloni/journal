@@ -1,8 +1,7 @@
 ---
 categories:
 - movies
-date: '2023-04-17T09:03:01-02:00'
-draft: true
+date: '2023-04-19'
 tags: null
 title: Sexo, Mentiras e Videotape
 ---
@@ -21,7 +20,7 @@ A descrição pequeno burguesa de Ann quando questionada o que há de bom no cas
 
 Depois a história se transforma em um estudo de interações que envolvem Cynthia, a irmã de Ann, e Graham, um antigo amigo da época do colégio do marido de Ann. O mais impressionante é o equilíbrio químico dessas interações. Nada está faltando no filme para que a história se mova de forma natural, trágica e hipnotizante.
 
-Quando menos esperamos o filme encontra seu ápice em justamente um videotape. E ele não é sobre sexo como já havia falado. Ele é sobre como nossa relação com o sexo pode se tornar um problema patológico. E tudo que fica na esfera do não-dito no filme pode ser explicado por quem os personagens são e como eles deveriam ser. Por exemplo, antes Graham e John eram grandes amigos no colégio e John nunca mudou. Hoje ele trai sua esposa com sua própria irmã. É de se esperar que Graham fosse esse tipo de pessoa no passado, o que esconde mágoas do passado que Graham luta para não repetir.
+Quando menos esperamos o filme encontra seu ápice em justamente um videotape. E ele não é sobre sexo como já havia falado. Ele é sobre como nossa relação com o sexo pode se tornar um problema patológico. E tudo que fica na esfera do não-dito no filme pode ser explicado por quem os personagens são e como eles deveriam ser. Por exemplo, antes Graham e John eram grandes amigos no colégio e John nunca mudou. Hoje ele trai sua esposa com sua própria irmã. É de se esperar que Graham fosse esse tipo de pessoa no passado, o que esconde mágoas com uma minazinha que Graham luta para não repetir.
 
 Não, Sexo, Mentiras e Videotape não é sobre apenas sexo e não contém cenas explícitas. Não é apenas sobre mentiras, apesar de haver muitas, mas elas não definem quem aquelas pessoas são. É apenas ao assistir um videotape no terceiro ato, no ápice do filme, quando a verdade fala mais alto, que a áurea por trás dessa história toda pode respirar em paz.
 
