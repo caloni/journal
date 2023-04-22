@@ -14,7 +14,7 @@ The next step after [the Warm Up challenges] are the array challenges. And so I 
 
 # Array Manipulation
 
-To solve the [array manipulation problem] ChatGPT helped me with the code. Now in the review I realized how segment trees work and how binary trees can be implemented using arrays.
+To solve the [array manipulation problem] ChatGPT helped me with the code. Now in the review I realized [how segment trees work] and how binary trees can be implemented using arrays.
 
 The issue about this problem is that summing up intervals costs too much processing to large intervals. In order to do that, segment trees help, since its nodes contain the sum of all its nodes bellow. This way, to get the sum of determined intervals all we need to do is to get the bigger intervals and sum it up.
 
@@ -128,3 +128,4 @@ vector<int> rotLeft(vector<int> a, int d) {
 [array manipulation problem]: https://www.hackerrank.com/challenges/crush
 [left rotation problem]: https://www.hackerrank.com/challenges/ctci-array-left-rotation
 [the Warm Up challenges]: {{< ref hacker-rank-warm-up >}}
+[how segment trees work]: {{< ref segment-tree >}}

@@ -1,20 +1,5 @@
 ﻿Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 11  | Added on Wednesday, 19 April 23 00:57:40 GMT-03:00
+- Highlight Loc. 5  | Added on Saturday, 22 April 23 14:50:38 GMT-03:00
 
-os deslocamentos pedidos. 
-==========
-Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 82-83  | Added on Wednesday, 19 April 23 01:05:20 GMT-03:00
-
-passado, o que esconde mágoas do passado 
-==========
-Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 93  | Added on Wednesday, 19 April 23 01:07:39 GMT-03:00
-
-Segment tree implementation 
-==========
-Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 117  | Added on Wednesday, 19 April 23 01:11:57 GMT-03:00
-
-the middle point changes to the next point. 
+how segment trees work 
 ==========

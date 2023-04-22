@@ -1,4 +1,1 @@
-call matchadd("search", "os deslocamentos pedidos.")
-call matchadd("search", "passado, o que esconde mágoas do passado")
-call matchadd("search", "Segment tree implementation")
-call matchadd("search", "the middle point changes to the next point.")
+call matchadd("search", "how segment trees work")
