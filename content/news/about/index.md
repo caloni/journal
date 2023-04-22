@@ -108,7 +108,91 @@ Já programei para interfaces mobile do finado Windows Phone e para o Android. P
 
 Venho mantendo as soluções de baixo nível da Intelitrader, principalmente as que envolvem market data, pois o fluxo de dados nesses sistemas é absurdamente alto em tempos de crise. Ou seja, atualmente, todo o tempo.
 
+## English (for resumes)
+
+Developed a solution for copying files between machines using COM technology and macro expansion.
+
+Maintained a hardware inventory system using WMI and SMBIOS technologies.
+
+Created a clipboard protection (Ctrl+C Ctrl+V) using windows hook and handling global system messages.
+
+Wrote alerts to the system event log using device drivers.
+
+Communicated between user mode and kernel mode through calls to the Windows DeviceIoControl function.
+
+Remotely accessed desktops using a tool similar to VNC with modified source code.
+
+Made a remote execution tool similar to PsExec from scratch.
+
+Controlled the printing of documents through regular expressions using Boost and a system shell hook.
+
+Managed system access policies during user logon and logoff using hooks.
+
+Migrated between CTree and SQL databases using OLEDB classes.
+
+Authenticated on Windows using DCOM service and custom GINA and Credential Provider.
+
+Remotely synchronized two CTree databases using DCOM service.
+
+Compiled a bootable Linux CD with bash scripts and disk encryption tools.
+
+Fiddled with the driver for encryption of hard disks and USB storage such as using pen drives.
+
+Performed dozens of analysis of blue screens or memory dumps using WinDbg (kernel and userland).
+
+Made a COM service to run applications under the system account.
+
+Customized the Master Boot Record adapting according to the characteristics of the BIOS.
+
+Maintained a Blowfish and SHA-1 cryptography library in C++ and 16-bit Assembly.
+
+Worked with a system that hooked an API in kernel mode for WinNT and 9X platforms.
+
+Protected the executables through authentication in the Server Domain.
+
+Maintained browser protection DLLs in Internet Explorer 6 and 7, and Firefox 1 and 2.
+
+Developed a code protection library, strings in memory and monitored execution.
+
+Developed a centralized logging library for all system processes using mapped memory and global events.
+
+Maintaned Browser Helper Objects and ActiveX.
+
+Done a lot of project management using Source Safe, Subversion, Mercurial, Bazaar, Git and batch scripts.
+
+Done kernel debugging on NT platforms using SoftIce and Windbg.
+
+Reverse engineered trojans made in C++, Visual Basic and Delphi using WinDbg and IDA.
+
+Made a diagnostics tool that lists files, services, drivers, registry, partitions and processes on a Windows machine.
+
+Monitored the execution of jobs in Windows 2000 or higher to control the installation and updating of products.
+
+Recorded the frequency of use of applications using a window hook, both invasively and non-invasively.
+
+As a pet project reversed the Houaiss dictionary and imported it into the format of another dictionary, Babylon.
+
+Controlled the build system when there weren't many open source solutions out there with Cruise Control .NET.
+
+Documented projects through Doxygen and a wiki solution called Trac.
+
+Developed from scratch a desktop management interfaces using C++ Builder 5 and 6 and Visual C++ libraries.
+
+Analyzed emails using regular expressions with the ATL library.
+
+Developed a risk system for the financial market, stock exchange brokers in C++ and Poco Libraries.
+
+Wrote many articles in Portuguese on my technical blog, and a few more in English for the Code Project.
+
+Developed a communication API with USB HID devices, which allows to browse through the connected devices.
+
+Programmed for mobile interfaces of the late Windows Phone and for Android.
+
+Keeping Intelitrader's low-level solutions, such as market data and algo trading.
+
+
 > "Não basta saber: temos que aplicar. Não basta querer: temos que fazer." Goethe
+
 
 [um ótimo artigo aqui no blog]: {{< ref "o-bug-mais-bizarro-que-ja-resolvi" >}}
 [pelo Code Project]: https://www.codeproject.com/Articles/caloni
