@@ -76,3 +76,9 @@ Entre as coisas que descobri no pós foi que a hidratação da massa deve ser em
 A sova usada por Copelli é a jogada na bancada. Após isso 1h de descanso, a divisão e 6h a 8h de fermentação.
 
 Outro detalhe é deixar a pedra mais para cima, e não no meio.
+
+## 2023-04-21
+
+Novamente a massa da pizza deu uma envergada quando tentei usar a pá para levar ao forno. Acredito agora que é melhor manter a versão for dummies de colocar ela sem o molho primeiro, nem que sejam dois minutos, para que ela fique firme e eu consiga manipular com mais segurança.
+
+Este teste foi de fermentação no mesmo dia, começando às 14h. Deu certo. Usei o dobro do fermento e assei por voltas das 19h. No entanto, a massa ficou menos saborosa e mais pão, o que é aceitável por não ser longa fermentação.
