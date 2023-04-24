@@ -24,7 +24,7 @@ Desenhado à mão, Chihiro e Totoro não possuem a tecnologia disponível hoje d
 
 Eu acredito que você já consiga caminhar com seus próprios pés a partir dessa argumentação, caro leitor.
 
-[seus filmes]: {{< ref your-name }>>
+[seus filmes]: {{< ref your-name >}}
 [Viagem para Agartha]: {{< ref viagem-para-agartha >}}
 [A Viagem de Chihiro]: {{< ref a-viagem-de-chihiro >}}
 [Meu Amigo Totoro]: {{< ref meu-amigo-totoro >}}
