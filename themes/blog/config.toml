@@ -82,7 +82,7 @@ theme = "blog"
       /*/(((**,*####.,,..,,   *..   ..(*//%%///*       %(*(*####**,.,#((//      
     ,,***,....*(((#,.,,(((,*/*(((**,(((,**#((**,. ////#((#,*,,#(((...../*****   """
     showFilterAfter = 1
-    comments = "https://t.me/bloguedocalonidiscuss"
+    comments = "https://t.me/paneloni"
 
 [params.home]
     postsCount = 15
