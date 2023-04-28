@@ -2,8 +2,7 @@
 categories:
 - reading
 - code
-date: '2023-04-10T17:42:06-02:00'
-draft: true
+date: '2023-04-28'
 tags:
 - interview
 title: A Common-Sense Guide to Data Structures and Algorithms
@@ -13,9 +12,14 @@ Meu próximo livro para praticar entrevistas técnicas é este de Jay Wengrow. J
 
 Ainda não terminei o livro, mas achei a didática de Jay Wengrow fabulosa, visto que os dois livros anteriores que li do assunto, [Algorithm for Dummies] e [Cracking the code interview] eram muito chatos e burocráticos. Aqui Jay está conversando de programador para programador. Mesmo que você nunca tenha ouvido falar em complexidade de algoritmo e nem seja um programador tão experiente assim vai conseguir entender os fundamentos de estruturas de dados e como manipulá-los na memória de diversas maneiras.
 
+> A subproblem is a version of the very same problem applied to a smaller input.
+
 Jay vai passando seu conhecimento aos poucos. Primeiro ele simplifica demais e usa analogias que nos deixam em uma zona de conforto. Depois ele vai complicando aos poucos. Quando menos esperamos já estamos sabendo o porquê de detalhes da computação que antigamente apenas aceitávamos como verdade. Ele me faz lembrar muito a didática do Tanenbaum, que constrói um argumento usando bom senso.
 
-Bom, o título de seu livro já denuncia: este é um guia livre de bullshitagem escrito por quem coloca a mão na massa.
+Bom, o título de seu livro já denuncia: este é um guia livre de bullshitagem escrito por quem coloca a mão na massa. Parei de lê-lo na parte de recursão porque comecei a parar de fazer entrevistas técnicas e projetos começaram a vir. O meu próximo exercício seria o seguinte:
+
+"Use recursion to write a function that accepts an array of strings and returns the total number of characters across all the strings. For example, if the input array is ["ab", "c", "def", "ghij"], the output should be 10 since there are 10 characters in total. Use recursion to write a function that accepts an array of numbers and returns a new array containing just the even numbers. There is a numerical sequence known as “Triangular Numbers.” The pattern begins as 1, 3, 6, 10, 15, 21, and continues onward with the Nth number in the pattern, which is N plus the previous number. For example, the 7th number in the sequence is 28, since it’s 7 (which is N) plus 21 (the previous number in the sequence). Write a function that accepts a number for N and returns the correct number from the series. That is, if the function was passed the number 7, the function would return 28. Use recursion to write a function that accepts a string and returns the first index that contains the character “x.” For example, the string, "abcdefghijklmnopqrstuvwxyz" has an “x” at index 23. To keep things simple, assume the string definitely has at least one “x.” This problem is known as the “Unique Paths” problem: Let’s say you have a grid of rows and columns. Write a function that accepts a number of rows and a number of columns, and calculates the number of possible “shortest” paths from the upper-leftmost square to the lower-rightmost square. For example, here’s what the grid looks like with three rows and seven columns. You want to get from the “S” (Start) to the “F” (Finish). By “shortest” path, I mean that at every step, you’re moving either one step to the right: or one step downward: Again, your function should calculate the number of shortest paths."
+
 
 # Recortes
 
@@ -44,6 +48,14 @@ Bom, o título de seu livro já denuncia: este é um guia livre de bullshitagem 
 > That is, if we have an algorithm that takes N4 + N3 + N2 + N steps, we only consider N4 to be significant—and just call it O(N4). Why is this?
 
 > One type of problem in which recursion is a natural fit is when we need to delve into multiple layers of a problem without knowing how many layers there are.
+
+> one area in which recursion shines is where we need to act on a problem that has an arbitrary number of levels of depth. A second area in which recursion shines is where it is able to make a calculation based on a subproblem of the problem at hand.
+
+> When going bottom up, we’re employing the same strategy for making the calculation whether we’re using a loop or recursion. The computational approach is the same. But to go top down, we need recursion. And because recursion is the only way to achieve a top-down strategy, it’s one of the key factors that makes recursion a powerful tool.
+
+> (...) recursion shines when implementing a top-down approach because going top down offers a new mental strategy for tackling a problem.
+
+> when tackling a top-down problem, it helps to think the following three thoughts: Imagine the function you’re writing has already been implemented by someone else. Identify the subproblem of the problem. See what happens when you call the function on the subproblem and go from there.
 
 [Algorithm for Dummies]: {{< ref algorithms-for-dummies >}}
 [Cracking the code interview]: {{< ref cracking-the-coding-interview >}}
