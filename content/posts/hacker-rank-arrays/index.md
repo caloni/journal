@@ -1,13 +1,12 @@
 ---
 categories:
 - code
-date: '2023-04-11T16:09:00-02:00'
-draft: true
+date: '2023-04-28'
 link: https://www.hackerrank.com/interview/interview-preparation-kit
 tags:
 - interview
 - english
-title: Hacker Rank Array
+title: Hacker Rank Array - Part 1
 ---
 
 The next step after [the Warm Up challenges] are the array challenges. And so I did it. Now I am going to recap what I did and how I did. And what complexity the algorithms have.
