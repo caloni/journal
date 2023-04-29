@@ -1,30 +1,50 @@
-﻿A Common-Sense Guide to Data Structures and Algorithms, Second Edition, 2nd Edition (Jay Wengrow)
-- Highlight Loc. 6162-64  | Added on Thursday, 27 April 23 00:21:55 GMT-03:00
+﻿Blogue do Caloni (Rascunhos) (Wanderley Caloni)
+- Highlight Loc. 2-3  | Added on Friday, 28 April 23 17:21:31 GMT-03:00
 
-one area in which recursion shines is where we need to act on a problem that has an arbitrary number of levels of depth. A second area in which recursion shines is where it is able to make a calculation based on a subproblem of the problem at hand.
+encontro este Easter Egg (ainda fazem isso hoje em dia?) encontro esta pérola 
 ==========
-A Common-Sense Guide to Data Structures and Algorithms, Second Edition, 2nd Edition (Jay Wengrow)
-- Highlight Loc. 6188-89  | Added on Thursday, 27 April 23 00:22:50 GMT-03:00
+Blogue do Caloni (Rascunhos) (Wanderley Caloni)
+- Highlight Loc. 16  | Added on Friday, 28 April 23 17:23:55 GMT-03:00
 
-A subproblem is a version of the very same problem applied to a smaller input.
+estorno, 
 ==========
-A Common-Sense Guide to Data Structures and Algorithms, Second Edition, 2nd Edition (Jay Wengrow)
-- Highlight Loc. 6250-54  | Added on Thursday, 27 April 23 00:27:26 GMT-03:00
+Blogue do Caloni (Rascunhos) (Wanderley Caloni)
+- Highlight Loc. 17  | Added on Friday, 28 April 23 17:24:20 GMT-03:00
 
-When going bottom up, we’re employing the same strategy for making the calculation whether we’re using a loop or recursion. The computational approach is the same. But to go top down, we need recursion. And because recursion is the only way to achieve a top-down strategy, it’s one of the key factors that makes recursion a powerful tool.
+o restaurante que virou fast food. 
 ==========
-A Common-Sense Guide to Data Structures and Algorithms, Second Edition, 2nd Edition (Jay Wengrow)
-- Highlight Loc. 6256-57  | Added on Thursday, 27 April 23 00:27:54 GMT-03:00
+Blogue do Caloni (Rascunhos) (Wanderley Caloni)
+- Highlight Loc. 4  | Added on Friday, 28 April 23 17:25:16 GMT-03:00
 
-recursion shines when implementing a top-down approach because going top down offers a new mental strategy for tackling a problem.
+desde o começo. 
 ==========
-A Common-Sense Guide to Data Structures and Algorithms, Second Edition, 2nd Edition (Jay Wengrow)
-- Highlight Loc. 6279-84  | Added on Thursday, 27 April 23 00:30:56 GMT-03:00
+Blogue do Caloni (Rascunhos) (Wanderley Caloni)
+- Highlight Loc. 6-7  | Added on Friday, 28 April 23 17:25:44 GMT-03:00
 
-when tackling a top-down problem, it helps to think the following three thoughts: Imagine the function you’re writing has already been implemented by someone else. Identify the subproblem of the problem. See what happens when you call the function on the subproblem and go from there.
+que já conversei 
 ==========
-A Common-Sense Guide to Data Structures and Algorithms, Second Edition, 2nd Edition (Jay Wengrow)
-- Highlight Loc. 6817-40  | Added on Thursday, 27 April 23 01:03:43 GMT-03:00
+Blogue do Caloni (Rascunhos) (Wanderley Caloni)
+- Highlight Loc. 8  | Added on Friday, 28 April 23 17:26:01 GMT-03:00
 
-Use recursion to write a function that accepts an array of strings and returns the total number of characters across all the strings. For example, if the input array is ["ab", "c", "def", "ghij"], the output should be 10 since there are 10 characters in total. Use recursion to write a function that accepts an array of numbers and returns a new array containing just the even numbers. There is a numerical sequence known as “Triangular Numbers.” The pattern begins as 1, 3, 6, 10, 15, 21, and continues onward with the Nth number in the pattern, which is N plus the previous number. For example, the 7th number in the sequence is 28, since it’s 7 (which is N) plus 21 (the previous number in the sequence). Write a function that accepts a number for N and returns the correct number from the series. That is, if the function was passed the number 7, the function would return 28. Use recursion to write a function that accepts a string and returns the first index that contains the character “x.” For example, the string, "abcdefghijklmnopqrstuvwxyz" has an “x” at index 23. To keep things simple, assume the string definitely has at least one “x.” This problem is known as the “Unique Paths” problem: Let’s say you have a grid of rows and columns. Write a function that accepts a number of rows and a number of columns, and calculates the number of possible “shortest” paths from the upper-leftmost square to the lower-rightmost square. For example, here’s what the grid looks like with three rows and seven columns. You want to get from the “S” (Start) to the “F” (Finish). By “shortest” path, I mean that at every step, you’re moving either one step to the right: or one step downward: Again, your function should calculate the number of shortest paths.
+isso envolvia 
+==========
+Blogue do Caloni (Rascunhos) (Wanderley Caloni)
+- Highlight Loc. 8-9  | Added on Friday, 28 April 23 17:26:16 GMT-03:00
+
+quando você gosta do que faz, todo 
+==========
+Blogue do Caloni (Rascunhos) (Wanderley Caloni)
+- Highlight Loc. 9  | Added on Friday, 28 April 23 17:26:36 GMT-03:00
+
+Estas são ótimas memórias da época. 
+==========
+Blogue do Caloni (Rascunhos) (Wanderley Caloni)
+- Highlight Loc. 16-17  | Added on Friday, 28 April 23 17:32:30 GMT-03:00
+
+motivo pelo qual 
+==========
+Blogue do Caloni (Rascunhos) (Wanderley Caloni)
+- Highlight Loc. 17  | Added on Friday, 28 April 23 17:32:45 GMT-03:00
+
+Pesquisa para você ver 
 ==========
