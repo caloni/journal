@@ -28,5 +28,13 @@ Schifferle à primeira vista lembra Mistery, o guru das conquistas de [The Pick 
 
 > Customize the stoplight strategy to your needs and preferences. Keep in mind that one person’s red light food may be another’s yellow or even green light food.
 
+> Liquid sources. The first tip is to cut back on or, if possible, eliminate calories from liquid sources. It’s exceptionally easy to add extra calories, especially in the form of refined sugar, with beverages. Some beverages contain more sugar than multiple candy bars! Thankfully, as liquid calories make it easy to bloat your diet, they also make it easy to slim your diet by cutting them back as much as possible. Whole foods. The second tip is to focus on whole foods, including plant and protein sources. Whole foods are the opposite of refined foods; they fill you up, give you energy, and make it much harder to consume more calories than your body can handle. That’s a heck of a 1-2-3 punch for helping you shed fat fast. Portion control. A lot of weight control also boils down to portion control. On a fundamental level, your body uses your fat when you don’t consume enough to support your current bodyweight. This is why you want to make sure you’re not eating too much, even if your diet is squeaky clean.
+
+> It’s important that you eat even when trying to lose weight. Eating too little for days on end can make you feel tired and sluggish, not to mention leave you open to hunger cravings. Such conditions not only reduce your ability to burn calories through activity but also make you vulnerable to periods of overeating.
+
+> Our busy lives make it all too tempting to finish a workout, and then rush to complete the next item on our to-do list. I don’t recommend ending your workout in such a sudden manner. When you finish your workout without winding down, your nervous system remains in sympathetic dominance, which promotes your body’s fight-or-flight instincts—a stressful state in which to spend the rest of your day.
+
+> Sleep is the biggest component of rest. It’s so important that I often tell people that improving their sleep habits can be more beneficial to their fitness goals than improving their diet and exercise program combined. Getting proper sleep should always be as high a priority as sticking to your diet and exercise habits. If you’re struggling to make progress and running on little rest, I promise getting enough sleep will help.
+
 [The Pick Up Artist]: {{< ref the-pickup-artist-livro >}}
 [a fase de entrevistas]: {{< ref interview >}}

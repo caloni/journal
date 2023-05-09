@@ -3,8 +3,7 @@ categories:
 - movies
 - series
 - recipes
-date: '2023-05-01T21:57:35-02:00'
-draft: true
+date: '2023-05-05'
 tags: null
 title: Um Carê da Pesada à Indiana
 ---
