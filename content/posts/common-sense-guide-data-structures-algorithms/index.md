@@ -1,10 +1,11 @@
 ---
 categories:
-- reading
 - code
+- reading
 date: '2023-04-28'
 tags:
 - interview
+- books
 title: A Common-Sense Guide to Data Structures and Algorithms
 ---
 

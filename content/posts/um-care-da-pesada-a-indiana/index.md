@@ -1,11 +1,12 @@
 ---
 categories:
-- recipes
+- essays
 - reviews
 date: '2023-05-05'
 tags:
 - movies
 - series
+- food
 title: Um Carê da Pesada à Indiana
 ---
 
