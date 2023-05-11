@@ -2,7 +2,7 @@
 categories:
 - books
 date: '2022-08-28T19:17:05-03:00'
-tags:
+tags: null
 title: 'Bíblia Sagrada: Gênesis'
 ---
 

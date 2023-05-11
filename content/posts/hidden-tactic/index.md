@@ -4,7 +4,7 @@ categories:
 date: '2023-02-18T12:31:52-03:00'
 link: https://www.chess.com/game/live/70472042987
 tags:
- - english
+- english
 title: Hidden tactic
 ---
 

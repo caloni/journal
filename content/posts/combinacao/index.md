@@ -1,6 +1,6 @@
 ---
 categories:
- - code
+- code
 date: '2023-03-04'
 tags: null
 title: Combinação
@@ -197,4 +197,3 @@ Certo. Por enquanto é só. Obrigado pelas suas esclarecedoras explicações.
 ## ChatGPT
 
 De nada! Fico feliz em ter ajudado. Se tiver mais alguma dúvida, é só perguntar.
-

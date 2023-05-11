@@ -2,7 +2,7 @@
 categories:
 - blog
 date: '2022-08-13T20:49:21-03:00'
-tags:
+tags: null
 title: Fotos do Washington
 ---
 

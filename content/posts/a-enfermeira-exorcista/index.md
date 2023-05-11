@@ -1,6 +1,6 @@
 ---
 categories:
- - series
+- series
 date: '2023-01-31T23:08:36-03:00'
 title: Enfermeira Exorcista
 ---

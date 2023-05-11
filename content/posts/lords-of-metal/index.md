@@ -2,7 +2,7 @@
 categories:
 - movies
 date: '2022-10-09T17:55:16-03:00'
-tags:
+tags: null
 title: Lords of Metal
 ---
 

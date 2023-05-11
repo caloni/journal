@@ -1,10 +1,10 @@
 ---
 categories:
- - movies
+- movies
 date: '2023-01-24T10:50:11-03:00'
 tags:
- - cinemaqui
- - mostratiradentes
+- cinemaqui
+- mostratiradentes
 title: A Alegria é a Prova dos Nove
 ---
 

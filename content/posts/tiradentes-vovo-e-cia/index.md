@@ -1,6 +1,6 @@
 ---
 categories:
- - food
+- food
 date: '2023-01-31T23:07:30-03:00'
 title: Chope na Vovó e Cia (Tiradentes, MG)
 ---

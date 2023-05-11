@@ -3,7 +3,7 @@ categories:
 - code
 - reading
 date: '2023-04-07'
-tags:
+tags: null
 title: Cracking the code interview
 ---
 

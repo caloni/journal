@@ -3,7 +3,7 @@ categories:
 - blog
 date: '2023-03-19T21:39:26-02:00'
 tags: null
-title: 'Passei em uma entrevista técnica?'
+title: Passei em uma entrevista técnica?
 ---
 
 Quis que o título deste poste fosse o contrário do anterior onde falo que não consegui resolver um problema simples de programação em meia hora com minha entrevistadora de olho. Porém, eu não sei se eu passei no teste. O que eu sei é que dos dois testes de programação que fiz, online pelo HackerRank, mas sem monitoração, ambos os códigos resolviam o problema, embora o último deles tivesse uma complexidade acima do desejável.

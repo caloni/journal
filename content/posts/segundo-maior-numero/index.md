@@ -37,4 +37,3 @@ int SecondLargest(vector<int> array)
     return second;
 }
 ```
-

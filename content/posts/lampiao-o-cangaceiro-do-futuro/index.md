@@ -1,6 +1,6 @@
 ---
 categories:
- - series
+- series
 date: '2023-01-08T21:04:03-03:00'
 title: O Cangaceiro do Futuro
 ---

@@ -1,6 +1,6 @@
 ---
 categories:
- - movies
+- movies
 date: '2022-12-19T17:04:09-03:00'
 title: Argentina, 1985
 ---

@@ -1,6 +1,6 @@
 ---
 categories:
- - series
+- series
 date: '2023-03-03T10:09:58-02:00'
 tags: null
 title: Falta pimenta no Modern Love Amsterdã

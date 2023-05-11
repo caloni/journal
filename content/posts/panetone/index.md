@@ -2,7 +2,7 @@
 categories:
 - recipes
 date: '2019-12-11'
-tags:
+tags: null
 title: Panetone
 ---
 
@@ -109,4 +109,3 @@ Testando primeiro de frutas esse ano com algumas modificações. Deixei a massa 
 ## 2022-12-28
 
 Passou o Natal, mas agora acertei o que queria no panetone. Está tão leve que só de segurar já amassa 👌. Porém, ficou leve demais. O motivo disso é deixar crescer além da conta. O motivo da massa ter ficado mais leve é eu ter deixado fermentando dentro da geladeira por 24 horas. Tempo de fato é a chave para um panetone mais fofinho. Só é melhor não exagerar. Essa foi a lição esse ano.
-

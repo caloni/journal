@@ -1,6 +1,6 @@
 ---
 categories:
- - books
+- books
 date: '2023-03-04'
 tags: null
 title: 'Bíblia Sagrada: Levítico'
@@ -22,4 +22,4 @@ Este terceiro capítulo da saga do povo odiado até pelo seu próprio Deus é ch
 
 Há um episódio particularmente específico sobre lepra e manchas na pele. O livro sagrado vira um tratado pré-medicina onde é decidido de sete em sete dias quem é que ficará isolado do resto da população. Eficaz como um folheto para passar os anos das trevas da ciência. Porém, texto sagrado? Não me faça rir mais, meu deus.
 
-> "Quem sofrer de lepra rasgará as roupas e deixará o cabelo despenteado.  Cobrirá a boca e gritará: 'Impuro! Impuro!'. Enquanto durar a lepra, ficará cerimonialmente impuro e viverá isolado, fora do acampamento." 
+> "Quem sofrer de lepra rasgará as roupas e deixará o cabelo despenteado.  Cobrirá a boca e gritará: 'Impuro! Impuro!'. Enquanto durar a lepra, ficará cerimonialmente impuro e viverá isolado, fora do acampamento."

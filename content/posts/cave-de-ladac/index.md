@@ -2,7 +2,7 @@
 categories:
 - wine
 date: '2022-11-08T22:27:24-03:00'
-tags:
+tags: null
 title: Cave de Ladac
 ---
 

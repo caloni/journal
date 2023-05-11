@@ -4,7 +4,7 @@ categories:
 date: '2023-02-17T12:59:22-03:00'
 link: https://www.chess.com/game/live/70386935459
 tags:
- - english
+- english
 title: Unsuspicious of forks
 ---
 

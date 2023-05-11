@@ -2,7 +2,7 @@
 categories:
 - food
 date: '2022-11-11T19:47:38-03:00'
-tags:
+tags: null
 title: Soju Jinro Uva Verde
 ---
 

@@ -1,10 +1,10 @@
 ---
 categories:
- - movies
+- movies
 date: '2023-01-25T09:51:23-03:00'
 tags:
- - cinemaqui
- - mostratiradentes
+- cinemaqui
+- mostratiradentes
 title: O Cangaceiro da Moviola
 ---
 

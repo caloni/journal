@@ -1,6 +1,6 @@
 ---
 categories:
- - books
+- books
 date: '2023-03-14'
 tags: null
 title: Algorithms for Dummies

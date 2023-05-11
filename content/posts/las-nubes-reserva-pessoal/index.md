@@ -1,6 +1,6 @@
 ---
 categories:
- - wine
+- wine
 date: '2023-02-14T20:29:06-03:00'
 title: Las Nubes Reserva Personal
 ---

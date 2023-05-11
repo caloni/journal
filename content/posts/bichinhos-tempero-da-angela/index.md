@@ -1,6 +1,6 @@
 ---
 categories:
- - food
+- food
 date: '2023-01-31T23:07:17-03:00'
 title: Tempero da Ângela (Bichinhos)
 ---

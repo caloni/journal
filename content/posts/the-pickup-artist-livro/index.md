@@ -2,7 +2,7 @@
 categories:
 - books
 date: '2022-07-24T14:05:20-03:00'
-tags:
+tags: null
 title: 'The Pickup Artist: The New and Improved Art of Seduction (Mystery)'
 ---
 
@@ -467,4 +467,3 @@ Alguns anos depois surge este livro, uma versão atualizada em que Mistery, o ra
  - WING: Short for “wingman,” from Top Gun. Your wing is your pickup artist buddy who goes out with you so that you can help each other to pick up chicks. Usually girls who want to meet someone are out in pairs as well, so it works out.
 
  - THE ZEN OF COOL: See “The Ghost” and “The Flame.”
-

@@ -1,6 +1,6 @@
 ---
 categories:
- - movies
+- movies
 date: '2023-02-24T16:56:05-03:00'
 title: A Escalada (2017)
 ---

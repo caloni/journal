@@ -1,9 +1,9 @@
 ---
 categories:
- - blog
+- blog
 date: '2023-01-15T14:18:26-03:00'
 tags:
- - games
+- games
 title: StarCraft
 ---
 

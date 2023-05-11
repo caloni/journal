@@ -1,10 +1,10 @@
 ---
 categories:
- - movies
+- movies
 date: '2023-01-23T16:51:22-03:00'
 tags:
- - cinemaqui
- - mostratiradentes
+- cinemaqui
+- mostratiradentes
 title: Curtas Foco Minas Série 2
 ---
 

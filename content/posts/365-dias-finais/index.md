@@ -1,6 +1,6 @@
 ---
 categories:
- - movies
+- movies
 date: '2023-02-24T16:56:15-03:00'
 title: 365 Dias Finais
 ---

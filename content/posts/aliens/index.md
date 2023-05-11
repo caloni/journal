@@ -2,8 +2,8 @@
 categories:
 - movies
 date: '2022-08-24T21:01:09-03:00'
-tags:
-title: 'Aliens'
+tags: null
+title: Aliens
 ---
 
 A visão de cada diretor desta saga espacial reflete seu tempo e seu momento. Enquanto Ridley Scott começou o que Pauline Kael chamou de "boo movie do espaço", James Cameron transformou em uma luta entre big mamas. Enquanto isso, David Fincher em Alien 3 consegue ser boring mesmo falando sobre aliens cachorros em um presídio galáctico.

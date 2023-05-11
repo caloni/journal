@@ -2,7 +2,7 @@
 categories:
 - wine
 date: '2022-10-12T17:57:20-03:00'
-tags:
+tags: null
 title: Chico Zossi
 ---
 

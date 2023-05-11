@@ -2,7 +2,7 @@
 categories:
 - coffee
 date: '2022-08-09T20:53:50-03:00'
-tags:
+tags: null
 title: Pike Place
 ---
 

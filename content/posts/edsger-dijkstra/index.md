@@ -10,5 +10,4 @@ title: Edsger Dijkstra
 
 Edsger Dijkstra, in an interview with Philip L. Frana, Communications of the ACM, 2001
 
-> "... one of the advantages of designing without pencil and paper is that you are almost forced to avoid all avoidable complexities." - Edsger Dijkstra 
-
+> "... one of the advantages of designing without pencil and paper is that you are almost forced to avoid all avoidable complexities." - Edsger Dijkstra

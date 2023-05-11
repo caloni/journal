@@ -58,4 +58,3 @@ Preparo: ferver leite, água, óleo e sal; escaldar no polvilho quando estiver f
  - 2019-06-23 Fui fazer um pão de queijo hoje com meio copo de polvilho, mas um ovo é demais para isso ficou líquido demais. Daí joguei polvilho sem escaldar e quando vi que não dava jeito escaldei o resto com mais água e óleo, gerei a pasta e incorporei ao resto. Ficou ainda molenga, juntei o queijo e joguei colheradas na forma. Virou os monstros de queijo. Por eu ter mexido bem o pão cresceu, ficou fofinho e oco dentro, mas por ter colocado o polvilho sem escaldar uma crosta crocante do lado de fora como um biscoito. Somando os prós e contras eu me virei bem em uma situação de emergência.
 
  - 2022-01-30 Pão de queijo. Lições aprendidas nas férias com as meninas: pão de queijo sem gema fica mais duro, ou deixar no forno após desligar o deixa seco demais. Sem leite vira biscoito de polvilho sabor queijo.
-

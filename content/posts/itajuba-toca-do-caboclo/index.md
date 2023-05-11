@@ -1,6 +1,6 @@
 ---
 categories:
- - food
+- food
 date: '2023-01-31T23:07:07-03:00'
 title: Toca do Caboclo (Itajubá, MG)
 ---

@@ -4,7 +4,7 @@ categories:
 date: '2023-04-09'
 tags:
 - interview
-title: 'Onde fica o meio de uma lista ligada?'
+title: Onde fica o meio de uma lista ligada?
 ---
 
 É simples descobrir o meio de um array: pegue seu tamanho e divida por dois. Agora, para uma lista ligada, mesmo que você saiba qual o índice do meio, não é por meio de índices que acessamos seus elementos, mas por ponteiros.
@@ -44,4 +44,3 @@ shared_ptr<LinkedList> LinkedListTraverseToTheMiddle(shared_ptr<LinkedList>& hea
     return next;
 }
 ```
-

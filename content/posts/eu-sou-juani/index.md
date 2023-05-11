@@ -1,6 +1,6 @@
 ---
 categories:
- - movies
+- movies
 date: '2023-01-16T22:51:49-03:00'
 title: Eu Sou Juani
 ---

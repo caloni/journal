@@ -1,6 +1,6 @@
 ---
 categories:
- - movies
+- movies
 date: '2023-02-09T18:28:54-03:00'
 title: Cabeça Quente
 ---

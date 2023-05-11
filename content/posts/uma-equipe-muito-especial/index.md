@@ -1,6 +1,6 @@
 ---
 categories:
- - movies
+- movies
 date: '2022-12-26T22:23:02-03:00'
 title: Uma Equipe Muito Especial
 ---

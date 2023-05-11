@@ -1,6 +1,6 @@
 ---
 categories:
- - code
+- code
 date: '2023-02-24T22:36:06-03:00'
 title: Não passei em uma entrevista técnica
 ---

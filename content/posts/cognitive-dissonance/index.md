@@ -1,6 +1,6 @@
 ---
 categories:
- - quotes
+- quotes
 date: '2023-01-31T23:05:00-03:00'
 title: Cognitive Dissonance (Definition)
 ---

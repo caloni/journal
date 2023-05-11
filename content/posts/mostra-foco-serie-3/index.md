@@ -1,10 +1,10 @@
 ---
 categories:
- - movies
+- movies
 date: '2023-01-26T09:56:25-03:00'
 tags:
- - cinemaqui
- - mostratiradentes
+- cinemaqui
+- mostratiradentes
 title: Mostra Foco Série 3
 ---
 

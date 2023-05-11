@@ -101,4 +101,3 @@ Chocolates and cakes equal reminder of celebrations.
 > The elaborated-intrusion theory of desire proposes that craving is a two-stage process whereby initial intrusions about a desired target are subsequently elaborated with mental imagery.
 
 > Guided imagery reduced chocolate-related thoughts, intrusiveness, vividness and craving intensity for chocolate cravers (Experiment 2), but not for the general sample (Experiment 1).
-

@@ -59,4 +59,3 @@ shared_ptr<LinkedList> LinkedListReverse(shared_ptr<LinkedList> head)
     return rhead;
 }
 ```
-

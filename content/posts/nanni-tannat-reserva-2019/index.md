@@ -2,7 +2,7 @@
 categories:
 - wine
 date: '2022-10-09T17:58:12-03:00'
-tags:
+tags: null
 title: Nanni Tannat Reserve 2019
 ---
 

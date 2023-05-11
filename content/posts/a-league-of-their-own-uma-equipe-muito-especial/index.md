@@ -1,6 +1,6 @@
 ---
 categories:
- - movies
+- movies
 date: '2022-12-19T17:03:56-03:00'
 title: A League of Their Own
 ---

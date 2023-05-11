@@ -1,6 +1,6 @@
 ---
 categories:
- - food
+- food
 date: '2023-01-07T23:26:26-03:00'
 title: Quinta Série Bar
 ---

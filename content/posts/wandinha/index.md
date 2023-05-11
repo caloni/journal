@@ -1,6 +1,6 @@
 ---
 categories:
- - movies
+- movies
 date: '2022-12-04T21:49:52-03:00'
 tags: null
 title: Wandinha

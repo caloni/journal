@@ -1,6 +1,6 @@
 ---
 categories:
- - reading
+- reading
 date: '2023-01-07T23:28:12-03:00'
 tags:
 - body
@@ -125,4 +125,3 @@ Estou lendo textos do site WeFast, onde um grupo de mulheres decidiu reunir cont
 [How Intermittent Fasting can help you Sleep better]: https://www.wefast.care/articles/fasting-and-sleep
 [Intermittent Fasting And Hormones For A Better Balance]: https://www.wefast.care/articles/intermittent-fasting-and-hormones
 [How does intermittent fasting help with insulin resistance]: https://www.wefast.care/articles/intermittent-fasting-insulin-resistance
-

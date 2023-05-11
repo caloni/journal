@@ -2,7 +2,7 @@
 categories:
 - wine
 date: '2022-10-12T18:01:40-03:00'
-tags:
+tags: null
 title: Oüled Thäleb
 ---
 

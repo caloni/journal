@@ -1,6 +1,6 @@
 ---
 categories:
- - movies
+- movies
 date: '2022-12-26T22:23:32-03:00'
 title: Avatar, O Caminho da Água
 ---

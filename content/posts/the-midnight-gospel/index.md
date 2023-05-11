@@ -2,7 +2,7 @@
 categories:
 - series
 date: '2022-10-13T23:09:16-03:00'
-tags:
+tags: null
 title: The Midnight Gospel
 ---
 

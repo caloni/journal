@@ -5,7 +5,7 @@ date: '2022-10-20T18:53:11-03:00'
 tags:
 - cinemaqui
 - mostra
-title: 'Como Está Katia?'
+title: Como Está Katia?
 ---
 
 Do circuito ucraniano nessa Mostra temos este Como Está Katia, um filme tenso que no início parece ser mais um sobre as injustiças do mundo, mas que aos poucos vai descolorindo sua realidade dramática, drenando nossos sentimentos. Logo vemos um mundo onde apesar do egoísmo não ser desejável nos membros de uma sociedade, ele acaba se revelando inevitável ou talvez até necessário.

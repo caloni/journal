@@ -1,6 +1,6 @@
 ---
 categories:
- - movies
+- movies
 date: '2022-12-15T21:58:24-03:00'
 title: Mammals
 ---

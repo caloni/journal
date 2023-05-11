@@ -1,6 +1,6 @@
 ---
 categories:
- - movies
+- movies
 date: '2023-03-21'
 tags: null
 title: Colateral

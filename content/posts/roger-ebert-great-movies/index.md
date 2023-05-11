@@ -7,7 +7,7 @@ tags:
 title: Roger Ebert Great Movies
 ---
 
- - 12 Angry Men 1957
+- 12 Angry Men 1957
  - [2001: Uma Odisseia no Espaço] (2001: A Space Odyssey) 1968
  - 25th Hour 2002
  - 3 Women 1977

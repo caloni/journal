@@ -1,6 +1,6 @@
 ---
 categories:
- - movies
+- movies
 date: '2023-02-20T13:52:17-03:00'
 title: Modern Love Tokyo
 ---

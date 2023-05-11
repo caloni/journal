@@ -37,4 +37,3 @@ vector<int> InsertionSort(vector<int> array)
     return array;
 }
 ```
-

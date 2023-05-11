@@ -1,8 +1,8 @@
 ---
 categories:
- - coffee
+- coffee
 date: '2023-01-31T23:06:52-03:00'
-link: https://pereiravillela.com.br/shop/ 
+link: https://pereiravillela.com.br/shop/
 repost: '2023-04-24'
 title: Pereira Villela de Itajubá, MG
 ---
@@ -15,4 +15,4 @@ Outro café que peguei de lá e abri recentemente foi o Fazenda Sant'ana, que te
 
 Ao pesquisar novamente descobri uma [loja online] que entrega em São Paulo direto do produtor. Nice. Também descobrir que o sr. Pereira é um peregrino na arte da microtorrefação da região. Existe uma cidade próximo de São Lourenço, a uma hora de Itajubá, chamada Carmo de Minas, que é de onde vêm esses cafés maravilindos.
 
-[loja online]: https://pereiravillela.com.br/shop/ 
+[loja online]: https://pereiravillela.com.br/shop/

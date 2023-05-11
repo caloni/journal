@@ -1,9 +1,9 @@
 ---
 categories:
- - movies
+- movies
 date: '2023-01-16T21:48:16-03:00'
 tags:
- - cinemaqui
+- cinemaqui
 title: A Profecia do Mal
 ---
 

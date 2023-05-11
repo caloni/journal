@@ -33,4 +33,3 @@ bool PrimeNumber(int number)
     return true;
 }
 ```
-

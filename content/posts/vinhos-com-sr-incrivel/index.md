@@ -2,7 +2,7 @@
 categories:
 - wine
 date: '2022-08-24T21:03:16-03:00'
-tags:
+tags: null
 title: Vinhos com Sr. Incrível
 ---
 

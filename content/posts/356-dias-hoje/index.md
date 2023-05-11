@@ -1,6 +1,6 @@
 ---
 categories:
- - movies
+- movies
 date: '2023-02-24T16:55:31-03:00'
 title: 365 Dias - Hoje
 ---

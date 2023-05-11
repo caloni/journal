@@ -1,8 +1,8 @@
 ---
 categories:
- - animes
+- animes
 date: '2022-12-10T15:38:49-03:00'
-tags:
+tags: null
 title: Chainsaw Man
 ---
 
