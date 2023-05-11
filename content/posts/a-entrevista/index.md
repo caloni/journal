@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-01-18'
 link: https://www.imdb.com/title/tt2788710
-tags: []
+tags:
+- movies
 title: A Entrevista
 ---
 

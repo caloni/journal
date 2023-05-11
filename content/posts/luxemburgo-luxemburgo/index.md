@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2022-10-21T19:56:14-03:00'
 tags:
 - cinemaqui
 - mostra
+- movies
 title: Luxemburgo, Luxemburgo
 ---
 

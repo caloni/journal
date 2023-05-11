@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2021-04-10'
 link: https://www.imdb.com/title/tt9415108
 tags:
 - cinemaqui
+- movies
 title: O Protocolo de Auschwitz
 ---
 

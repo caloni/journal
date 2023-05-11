@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-12-23'
 link: https://www.imdb.com/title/tt2241605
-tags: []
+tags:
+- movies
 title: Tese Sobre um Homicídio
 ---
 

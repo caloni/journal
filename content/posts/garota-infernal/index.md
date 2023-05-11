@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-05-21'
 link: https://www.imdb.com/title/tt1131734
-tags: []
+tags:
+- movies
 title: Garota Infernal
 ---
 

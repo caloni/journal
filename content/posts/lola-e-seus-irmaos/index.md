@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2022-05-27T20:07:52-03:00'
 tags:
 - cinemaqui
+- movies
 title: Lola e Seus Irmãos
 ---
 

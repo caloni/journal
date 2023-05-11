@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-09-07'
 link: https://www.imdb.com/title/tt2660888
-tags: []
+tags:
+- movies
 title: 'Star Trek: Sem Fronteiras'
 ---
 

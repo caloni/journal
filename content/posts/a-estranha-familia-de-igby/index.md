@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-09-10'
 link: https://www.imdb.com/title/tt0280760
-tags: []
+tags:
+- movies
 title: A Estranha Famíllia de Igby
 ---
 

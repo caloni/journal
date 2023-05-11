@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-04-16'
 link: https://www.imdb.com/title/tt3874544
-tags: []
+tags:
+- movies
 title: O Poderoso Chefinho
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-02-02'
 link: https://www.imdb.com/title/tt7040874
-tags: []
+tags:
+- movies
 title: Um Pequeno Favor
 ---
 

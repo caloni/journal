@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-06-16'
 link: https://www.imdb.com/title/tt0061722
-tags: []
+tags:
+- movies
 title: A Primeira Noite de um Homem
 ---
 

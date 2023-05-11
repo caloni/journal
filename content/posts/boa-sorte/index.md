@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2022-06-25T21:49:41-03:00'
-tags: []
+tags:
+- movies
 title: Boa Sorte
 ---
 

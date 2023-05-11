@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-10-29'
 link: https://www.imdb.com/title/tt0102492
-tags: []
+tags:
+- movies
 title: Meu Primeiro Amor
 ---
 

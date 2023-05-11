@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-09-29'
 link: https://www.imdb.com/title/tt0154420
-tags: []
+tags:
+- movies
 title: Festa de Família
 ---
 

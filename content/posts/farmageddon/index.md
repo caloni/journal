@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-03-23'
 link: https://www.imdb.com/title/tt6193408
-tags: []
+tags:
+- movies
 title: Shaun o Carneiro – O Filme – A Fazenda Contra-Ataca
 ---
 

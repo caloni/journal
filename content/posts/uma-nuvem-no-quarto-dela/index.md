@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2021-09-15T22:05:20-03:00'
 tags:
 - cinemaqui
+- movies
 title: Uma Nuvem no Quarto Dela
 ---
 

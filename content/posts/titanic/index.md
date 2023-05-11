@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-09-17'
 link: https://www.imdb.com/title/tt0120338
-tags: []
+tags:
+- movies
 title: Titanic
 ---
 

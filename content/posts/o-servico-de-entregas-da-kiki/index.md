@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-03-28'
 link: https://www.imdb.com/title/tt0097814
-tags: []
+tags:
+- movies
 title: O Serviço de Entregas da Kiki
 ---
 

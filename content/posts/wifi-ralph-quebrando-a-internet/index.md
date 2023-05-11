@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-01-12'
 link: https://www.imdb.com/title/tt5848272
 tags:
 - cinemaqui
+- movies
 title: 'Wifi Ralph: Quebrando a Internet'
 ---
 

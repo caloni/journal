@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-10-20'
 link: https://www.imdb.com/title/tt6878038
 tags:
 - cinemaqui
+- movies
 title: O Motorista de Táxi
 ---
 

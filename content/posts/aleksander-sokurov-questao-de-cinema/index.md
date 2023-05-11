@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-10-24'
-tags: []
+tags:
+- movies
 title: 'Aleksander Sokurov: Uma Questão de Cinema'
 ---
 

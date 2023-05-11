@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-04-21'
 link: https://www.imdb.com/title/tt0191754
-tags: []
+tags:
+- movies
 title: 28 Dias
 ---
 

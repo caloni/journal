@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2023-03-26T12:47:45-02:00'
-tags: null
+tags:
+- movies
 title: Meu Irmão é Filho Único
 ---
 

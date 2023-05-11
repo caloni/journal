@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-01-30'
 link: https://www.imdb.com/title/tt2339741
 tags:
 - cinemaqui
+- movies
 title: 'A Mulher de Preto 2: O Anjo da Morte'
 ---
 

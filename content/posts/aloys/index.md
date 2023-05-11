@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-10-21'
 link: https://www.imdb.com/title/tt5065810
 tags:
 - mostra
+- movies
 title: Aloys
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-11-22'
 link: https://www.imdb.com/title/tt13143964
-tags: []
+tags:
+- movies
 title: 'Borat: Fita de Cinema Seguinte'
 ---
 

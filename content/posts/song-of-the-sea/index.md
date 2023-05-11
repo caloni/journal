@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-04-02'
 link: https://www.imdb.com/title/tt1865505
-tags: []
+tags:
+- movies
 title: Song of the Sea
 ---
 

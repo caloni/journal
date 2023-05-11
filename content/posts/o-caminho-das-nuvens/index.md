@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-04-28'
 link: https://www.imdb.com/title/tt0379199
-tags: []
+tags:
+- movies
 title: O Caminho das Nuvens
 ---
 

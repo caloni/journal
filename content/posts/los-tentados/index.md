@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-10-26'
 link: https://www.imdb.com/title/tt2805584
-tags: []
+tags:
+- movies
 title: Los tentados
 ---
 

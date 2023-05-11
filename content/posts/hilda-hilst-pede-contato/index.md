@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-07-20'
 tags:
 - cinemaqui
+- movies
 title: Hilda Hilst Pede Contato
 ---
 

@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-07-01'
 link: https://www.imdb.com/title/tt3072174
 tags:
 - cinemaqui
+- movies
 title: Os Pobres Diabos
 ---
 

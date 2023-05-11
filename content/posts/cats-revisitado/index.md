@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2022-04-01T14:09:24-03:00'
-tags: []
+tags:
+- movies
 title: Cats é obra de arte incompreendida
 ---
 

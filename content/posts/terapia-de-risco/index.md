@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-12-24'
 link: https://www.imdb.com/title/tt2053463
-tags: []
+tags:
+- movies
 title: Terapia de Risco
 ---
 

@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2021-12-18T22:21:45-03:00'
-tags: []
+tags:
+- movies
 title: Berlim te Amo
 ---
 

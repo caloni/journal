@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2022-08-24T21:01:09-03:00'
-tags: null
+tags:
+- movies
 title: Aliens
 ---
 

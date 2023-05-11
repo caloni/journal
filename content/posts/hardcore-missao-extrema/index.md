@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-08-16'
 link: https://www.imdb.com/title/tt3072482
-tags: []
+tags:
+- movies
 title: 'Hardcore: Missão Extrema'
 ---
 

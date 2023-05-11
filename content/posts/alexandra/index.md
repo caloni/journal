@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-05-23'
 link: https://www.imdb.com/title/tt1034427
-tags: []
+tags:
+- movies
 title: Alexandra
 ---
 

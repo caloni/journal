@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-03-29'
 link: https://www.imdb.com/title/tt1455151
-tags: []
+tags:
+- movies
 title: Minhas Tardes com Margueritte
 ---
 

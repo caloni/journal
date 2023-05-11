@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-02-22'
 link: https://www.imdb.com/title/tt2473794
 tags:
 - cinemaqui
+- movies
 title: Mr. Turner
 ---
 

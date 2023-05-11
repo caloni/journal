@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-01-18'
 link: https://www.imdb.com/title/tt2397535
-tags: []
+tags:
+- movies
 title: O Predestinado
 ---
 

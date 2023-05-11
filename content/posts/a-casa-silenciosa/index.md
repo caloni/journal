@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-01-13'
 link: https://www.imdb.com/title/tt1767382
-tags: []
+tags:
+- movies
 title: A Casa Silenciosa
 ---
 

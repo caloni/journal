@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-05-07'
 link: https://www.imdb.com/title/tt0412019
-tags: []
+tags:
+- movies
 title: Flores Partidas
 ---
 

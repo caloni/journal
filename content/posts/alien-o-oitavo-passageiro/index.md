@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-12-04'
 link: https://www.imdb.com/title/tt0078748
-tags: []
+tags:
+- movies
 title: Alien - O Oitavo Passageiro
 ---
 

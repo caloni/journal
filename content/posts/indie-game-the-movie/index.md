@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-06-17'
 link: https://www.imdb.com/title/tt1942884
-tags: []
+tags:
+- movies
 title: 'Indie Game: The Movie'
 ---
 

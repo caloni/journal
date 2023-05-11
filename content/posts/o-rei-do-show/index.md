@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-01-14'
 link: https://www.imdb.com/title/tt1485796
-tags: []
+tags:
+- movies
 title: O Rei do Show
 ---
 

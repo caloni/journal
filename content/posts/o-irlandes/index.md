@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-12-10'
 link: https://www.imdb.com/title/tt1302006
-tags: []
+tags:
+- movies
 title: O Irlandês
 ---
 

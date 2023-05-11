@@ -1,11 +1,12 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-10-18'
 link: https://www.imdb.com/title/tt5069072
 tags:
 - cinemaqui
 - mostra
+- movies
 title: Tragam a Maconha
 ---
 

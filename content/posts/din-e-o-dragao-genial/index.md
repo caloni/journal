@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2021-07-31T22:33:54-03:00'
-tags: []
+tags:
+- movies
 title: Din e o Dragão Genial
 ---
 

@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-05-14'
 link: https://www.imdb.com/title/tt3361792
 tags:
 - cinemaqui
+- movies
 title: Tolkien
 ---
 

@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-06-27'
 link: https://www.imdb.com/title/tt2639254
 tags:
 - cinemaqui
+- movies
 title: Um Pouco de Caos
 ---
 

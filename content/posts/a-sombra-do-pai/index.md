@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-04-22'
 link: https://www.imdb.com/title/tt6388464
 tags:
 - cinemaqui
+- movies
 title: A Sombra do Pai
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-12-12'
 link: https://www.imdb.com/title/tt0345061
-tags: []
+tags:
+- movies
 title: Código 46
 ---
 

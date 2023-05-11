@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
 - food
 - beer
+- reviews
 date: '2023-04-01T21:40:49-02:00'
-tags: null
+tags:
+- movies
 title: Barikote Ramen, Cerveja de Wasabi, Meu Nome é Chihiro e Primeiro Kimchi
 ---
 

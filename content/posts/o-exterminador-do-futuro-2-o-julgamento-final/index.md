@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-11-14'
 link: https://www.imdb.com/title/tt0103064
 tags:
 - cinemaqui
+- movies
 title: 'O Exterminador do Futuro 2: O Julgamento Final'
 ---
 

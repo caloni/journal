@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-02-06'
 link: https://www.imdb.com/title/tt2132324
-tags: []
+tags:
+- movies
 title: Elefante Branco
 ---
 

@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2023-03-21'
-tags: null
+tags:
+- movies
 title: Catarina, a Menina Chamada Passarinha
 ---
 

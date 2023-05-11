@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-07-05'
 link: https://www.imdb.com/title/tt5078158
 tags:
 - cinemaqui
+- movies
 title: Julho Agosto
 ---
 

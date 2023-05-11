@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-07-28'
 link: https://www.imdb.com/title/tt2243389
-tags: []
+tags:
+- movies
 title: Os Amantes Passageiros
 ---
 

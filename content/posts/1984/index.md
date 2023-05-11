@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-08-11'
 link: https://www.imdb.com/title/tt0087803
-tags: []
+tags:
+- movies
 title: '1984'
 ---
 

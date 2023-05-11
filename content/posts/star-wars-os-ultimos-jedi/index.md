@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-12-14'
 link: https://www.imdb.com/title/tt2527336
-tags: []
+tags:
+- movies
 title: 'Star Wars: Os Últimos Jedi'
 ---
 

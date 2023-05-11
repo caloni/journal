@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-03-04'
 link: https://www.imdb.com/title/tt1596365
-tags: []
+tags:
+- movies
 title: A Mulher de Preto
 ---
 

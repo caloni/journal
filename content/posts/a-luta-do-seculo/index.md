@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-08-29'
 link: https://www.imdb.com/title/tt8201726
-tags: []
+tags:
+- movies
 title: A Luta do Século
 ---
 

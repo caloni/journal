@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-09-24'
 link: https://www.imdb.com/title/tt2935510
 tags:
 - cinemaqui
+- movies
 title: 'Ad Astra: Rumo às Estrelas'
 ---
 

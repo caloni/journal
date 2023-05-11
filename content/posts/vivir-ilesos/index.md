@@ -1,11 +1,12 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-10-15'
 link: https://www.imdb.com/title/tt9682578
 tags:
 - cinemaqui
 - mostra
+- movies
 title: Vivir Ilesos
 ---
 

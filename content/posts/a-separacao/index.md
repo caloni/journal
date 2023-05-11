@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-08-24'
 link: https://www.imdb.com/title/tt1832382
-tags: []
+tags:
+- movies
 title: A Separação
 ---
 

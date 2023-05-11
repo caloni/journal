@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-07-28'
 link: https://www.imdb.com/title/tt1675434
-tags: []
+tags:
+- movies
 title: Intocáveis
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-08-20'
 link: https://www.imdb.com/title/tt0938283
-tags: []
+tags:
+- movies
 title: O Último Mestre do Ar
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-03-15'
 link: https://www.imdb.com/title/tt0332280
-tags: []
+tags:
+- movies
 title: Diário de uma Paixão
 ---
 

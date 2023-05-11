@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2022-07-09T14:41:45-03:00'
-tags: []
+tags:
+- movies
 title: Beavis and Butt-Head Do The Universe
 ---
 

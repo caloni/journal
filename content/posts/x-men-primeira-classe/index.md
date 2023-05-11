@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-06-07'
 link: https://www.imdb.com/title/tt1270798
-tags: []
+tags:
+- movies
 title: 'X-Men: Primeira Classe'
 ---
 

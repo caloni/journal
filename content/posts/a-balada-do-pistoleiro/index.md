@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2022-04-01T21:46:17-03:00'
-tags: []
+tags:
+- movies
 title: Balada do Pistoleiro
 ---
 

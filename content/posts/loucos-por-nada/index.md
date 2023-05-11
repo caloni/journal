@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-03-24'
 link: https://www.imdb.com/title/tt0494222
-tags: []
+tags:
+- movies
 title: Loucos por Nada
 ---
 

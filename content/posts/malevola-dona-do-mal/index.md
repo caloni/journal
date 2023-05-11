@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-10-10'
 link: https://www.imdb.com/title/tt4777008
 tags:
 - cinemaqui
+- movies
 title: 'Malévola: Dona do Mal'
 ---
 

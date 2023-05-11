@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-04-19'
 link: https://www.imdb.com/title/tt3956754
 tags:
 - cinemaqui
+- movies
 title: A Vida Privada dos Hipopótamos
 ---
 

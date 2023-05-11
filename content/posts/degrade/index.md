@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-05-19'
 link: https://www.imdb.com/title/tt4429074
 tags:
 - cinemaqui
+- movies
 title: Degradê
 ---
 

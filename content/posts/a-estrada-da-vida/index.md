@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2022-03-20T16:08:19-03:00'
-tags: []
+tags:
+- movies
 title: A Estrada da Vida
 ---
 

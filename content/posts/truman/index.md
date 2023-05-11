@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-05-03'
 link: https://www.imdb.com/title/tt3754940
-tags: []
+tags:
+- movies
 title: Truman
 ---
 

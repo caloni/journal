@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-10-28'
 link: https://www.imdb.com/title/tt2036388
 tags:
 - mostra
+- movies
 title: Shun Li e o Poeta
 ---
 

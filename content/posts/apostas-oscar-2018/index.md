@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-03-05'
-tags: []
+tags:
+- movies
 title: Apostas Oscar 2018 (com resultados)
 ---
 

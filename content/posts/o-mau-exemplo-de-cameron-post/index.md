@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-10-23'
 link: https://www.imdb.com/title/tt6257174
-tags: []
+tags:
+- movies
 title: O Mau Exemplo de Cameron Post
 ---
 

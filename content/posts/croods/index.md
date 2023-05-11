@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2021-11-23T20:25:51-03:00'
-tags: []
+tags:
+- movies
 title: Croods
 ---
 

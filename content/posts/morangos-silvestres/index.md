@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-01-05'
 link: https://www.imdb.com/title/tt0050986
-tags: []
+tags:
+- movies
 title: Morangos Silvestres
 ---
 

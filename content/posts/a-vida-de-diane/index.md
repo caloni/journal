@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-05-04'
 link: https://www.imdb.com/title/tt6705860
 tags:
 - cinemaqui
+- movies
 title: A Vida De Diane
 ---
 

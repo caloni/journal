@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-01-30'
 link: https://www.imdb.com/title/tt0120595
-tags: []
+tags:
+- movies
 title: Babe O Porquinho Atrapalhado na Cidade
 ---
 

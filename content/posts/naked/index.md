@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-08-14'
 link: https://www.imdb.com/title/tt6048930
-tags: []
+tags:
+- movies
 title: Naked
 ---
 

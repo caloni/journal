@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-03-13'
 link: https://www.imdb.com/title/tt5027774
-tags: []
+tags:
+- movies
 title: Três Anúncios Para Um Crime
 ---
 

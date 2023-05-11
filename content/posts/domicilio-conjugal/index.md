@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-08-17'
 link: https://www.imdb.com/title/tt0065651
-tags: []
+tags:
+- movies
 title: Domicilio Conjugal
 ---
 

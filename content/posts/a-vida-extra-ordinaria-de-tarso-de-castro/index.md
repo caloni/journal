@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-05-16'
 link: https://www.imdb.com/title/tt8327798
 tags:
 - cinemaqui
+- movies
 title: A Vida Extra-Ordinária de Tarso de Castro
 ---
 

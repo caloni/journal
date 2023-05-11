@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2021-12-05T21:28:09-03:00'
-tags: []
+tags:
+- movies
 title: Gainsbourg - O Homem Que Amava as Mulheres
 ---
 

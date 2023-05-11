@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-10-16'
-tags: []
+tags:
+- movies
 title: Comercial Friboi - A certeza do churrasco perfeito
 ---
 

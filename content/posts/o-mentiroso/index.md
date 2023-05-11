@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-01-04'
 link: https://www.imdb.com/title/tt0119528
-tags: []
+tags:
+- movies
 title: O Mentiroso
 ---
 

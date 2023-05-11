@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2021-06-20T10:20:00-03:00'
-tags: []
+tags:
+- movies
 title: Jumanji
 ---
 

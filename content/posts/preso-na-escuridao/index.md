@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-01-29'
 link: https://www.imdb.com/title/tt0125659
-tags: []
+tags:
+- movies
 title: Preso na Escuridão (aka Abra os Olhos)
 ---
 

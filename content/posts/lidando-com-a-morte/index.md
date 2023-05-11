@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2021-11-02T23:06:36-03:00'
 tags:
 - mostra
+- movies
 title: Lidando com a Morte
 ---
 

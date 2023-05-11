@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-11-25'
 link: https://www.imdb.com/title/tt0780653
-tags: []
+tags:
+- movies
 title: O Lobisomem
 ---
 

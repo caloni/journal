@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2023-01-31T23:08:26-03:00'
+tags:
+- movies
 title: O Banheiro do Papa
 ---
 

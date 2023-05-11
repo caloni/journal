@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-06-25'
 link: https://www.imdb.com/title/tt0066995
-tags: []
+tags:
+- movies
 title: 007 - Os Diamantes São Eternos
 ---
 

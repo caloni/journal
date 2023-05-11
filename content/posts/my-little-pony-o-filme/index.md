@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-10-16'
 link: https://www.imdb.com/title/tt4131800
-tags: []
+tags:
+- movies
 title: 'My Little Pony: O Filme'
 ---
 

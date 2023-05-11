@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-02-28'
 link: https://www.imdb.com/title/tt0095895
-tags: []
+tags:
+- movies
 title: Powaqqatsi - A Vida em Transformação
 ---
 

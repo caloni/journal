@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-12-10'
 link: https://www.imdb.com/title/tt2096672
-tags: []
+tags:
+- movies
 title: Debi & Lóide 2
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-11-17'
 link: https://www.imdb.com/title/tt1292566
-tags: []
+tags:
+- movies
 title: Como Ser Solteira
 ---
 

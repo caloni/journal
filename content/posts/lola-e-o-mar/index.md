@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2022-04-14T22:02:14-03:00'
 tags:
 - cinemaqui
+- movies
 title: Lola e o Mar
 ---
 

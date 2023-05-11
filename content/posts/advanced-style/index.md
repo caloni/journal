@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-10-25'
 link: https://www.imdb.com/title/tt3268030
-tags: []
+tags:
+- movies
 title: Advanced Style
 ---
 

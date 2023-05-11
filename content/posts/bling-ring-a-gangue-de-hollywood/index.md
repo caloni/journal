@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-01-02'
 link: https://www.imdb.com/title/tt2132285
-tags: []
+tags:
+- movies
 title: 'Bling Ring: A Gangue de Hollywood'
 ---
 

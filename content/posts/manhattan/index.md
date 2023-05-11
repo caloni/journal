@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-05-20'
 link: https://www.imdb.com/title/tt0079522
-tags: []
+tags:
+- movies
 title: Manhattan
 ---
 

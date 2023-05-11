@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-09-11'
 link: https://www.imdb.com/title/tt1235841
-tags: []
+tags:
+- movies
 title: 'Medianeras: Buenos Aires da Era do Amor Virtual'
 ---
 

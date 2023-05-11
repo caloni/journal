@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-10-27'
 link: https://www.imdb.com/title/tt5362988
 tags:
 - cinemaqui
+- movies
 title: Terra Selvagem
 ---
 

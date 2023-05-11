@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-06-29'
 link: https://www.imdb.com/title/tt5258850
 tags:
 - cinemaqui
+- movies
 title: Nos Vemos no Paraíso
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-06-02'
 link: https://www.imdb.com/title/tt1700841
-tags: []
+tags:
+- movies
 title: Festa da Salsicha
 ---
 

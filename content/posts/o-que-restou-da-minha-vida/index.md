@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-10-21'
 link: https://www.imdb.com/title/tt6150202
-tags: []
+tags:
+- movies
 title: O Que Restou da Minha Vida
 ---
 

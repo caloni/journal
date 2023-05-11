@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2022-08-08T20:30:35-03:00'
 tags:
 - cinemaqui
+- movies
 title: A Marca da Morte
 ---
 

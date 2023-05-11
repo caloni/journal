@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-09-06'
 link: https://www.imdb.com/title/tt0322629
-tags: []
+tags:
+- movies
 title: Houve uma Vez Dois Verões
 ---
 

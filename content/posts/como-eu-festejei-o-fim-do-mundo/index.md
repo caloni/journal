@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2022-07-24T14:17:24-03:00'
-tags: null
+tags:
+- movies
 title: Como eu Festejei o Fim do Mundo
 ---
 

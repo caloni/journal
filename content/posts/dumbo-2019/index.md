@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-03-22'
 link: https://www.imdb.com/title/tt3861390
 tags:
 - cinemaqui
+- movies
 title: Dumbo (2019)
 ---
 

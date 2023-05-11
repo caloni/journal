@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-04-26'
 link: https://www.imdb.com/title/tt7633052
 tags:
 - cinemaqui
+- movies
 title: Todos os Paulos do Mundo
 ---
 

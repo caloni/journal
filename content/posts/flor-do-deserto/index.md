@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-06-25'
 link: https://www.imdb.com/title/tt1054580
-tags: []
+tags:
+- movies
 title: Flor do Deserto
 ---
 

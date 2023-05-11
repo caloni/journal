@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2022-10-19T19:09:25-03:00'
 tags:
 - cinemaqui
 - mostra
+- movies
 title: Um Homem
 ---
 

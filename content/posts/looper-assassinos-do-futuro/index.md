@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-10-09'
 link: https://www.imdb.com/title/tt1276104
-tags: []
+tags:
+- movies
 title: 'Looper: Assassinos do Futuro'
 ---
 

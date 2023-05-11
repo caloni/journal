@@ -1,11 +1,12 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-10-31'
 link: https://www.imdb.com/title/tt1884351
 tags:
 - cinemaqui
 - mostra
+- movies
 title: Marx Reloaded
 ---
 

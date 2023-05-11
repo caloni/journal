@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-05-29'
 link: https://www.imdb.com/title/tt1139797
-tags: []
+tags:
+- movies
 title: Deixa Ela Entrar
 ---
 

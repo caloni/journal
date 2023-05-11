@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-11-17'
 link: https://www.imdb.com/title/tt0112281
-tags: []
+tags:
+- movies
 title: 'Ace Ventura 2: Um Maluco Na África'
 ---
 

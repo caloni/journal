@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-10-18'
 link: https://www.imdb.com/title/tt0101317
-tags: []
+tags:
+- movies
 title: Os Amantes
 ---
 

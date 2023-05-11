@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-10-27'
 link: https://www.imdb.com/title/tt7962890
 tags:
 - cinemaqui
+- movies
 title: Viagem Aos Povos Fumigados
 ---
 

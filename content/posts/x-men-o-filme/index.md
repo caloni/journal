@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-07-16'
 link: https://www.imdb.com/title/tt0120903
-tags: []
+tags:
+- movies
 title: 'X-Men: O Filme'
 ---
 

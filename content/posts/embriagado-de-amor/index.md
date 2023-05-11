@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-03-07'
 link: https://www.imdb.com/title/tt0272338
-tags: []
+tags:
+- movies
 title: Embriagado de Amor
 ---
 

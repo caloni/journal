@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-01-15'
 link: https://www.imdb.com/title/tt0165078
-tags: []
+tags:
+- movies
 title: Depois da Vida
 ---
 

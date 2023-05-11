@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-10-04'
 link: https://www.imdb.com/title/tt0114814
-tags: []
+tags:
+- movies
 title: Os Suspeitos
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-09-06'
 link: https://www.imdb.com/title/tt1645170
-tags: []
+tags:
+- movies
 title: O Ditador
 ---
 

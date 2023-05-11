@@ -1,11 +1,12 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-10-22'
 link: https://www.imdb.com/title/tt9016026
 tags:
 - cinemaqui
 - mostra
+- movies
 title: Fotógrafo De Guerra
 ---
 

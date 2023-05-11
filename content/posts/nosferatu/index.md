@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-11-02'
 link: https://www.imdb.com/title/tt0013442
 tags:
 - mostra
+- movies
 title: Nosferatu
 ---
 

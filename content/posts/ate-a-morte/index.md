@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2022-06-04T12:49:14-03:00'
 tags:
 - cinemaqui
+- movies
 title: Até a Morte
 ---
 

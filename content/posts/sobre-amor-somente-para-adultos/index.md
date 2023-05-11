@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2021-04-12'
 link: https://www.imdb.com/title/tt7273648
 tags:
 - cinemaqui
+- movies
 title: Sobre Amor. Somente Para Adultos
 ---
 

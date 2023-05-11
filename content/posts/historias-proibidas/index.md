@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-06-22'
 link: https://www.imdb.com/title/tt0250081
-tags: []
+tags:
+- movies
 title: Histórias Proibidas
 ---
 

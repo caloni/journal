@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-12-01'
 link: https://www.imdb.com/title/tt1981107
-tags: []
+tags:
+- movies
 title: Uma Viagem Extraordinária
 ---
 

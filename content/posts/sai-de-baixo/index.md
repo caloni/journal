@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-02-13'
 tags:
 - cinemaqui
+- movies
 title: Como a geração de Sai de Baixo se encontra com a geração Não me Toque
 ---
 

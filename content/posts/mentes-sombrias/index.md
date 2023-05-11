@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-08-06'
 link: https://www.imdb.com/title/tt4073790
 tags:
 - cinemaqui
+- movies
 title: Mentes Sombrias
 ---
 

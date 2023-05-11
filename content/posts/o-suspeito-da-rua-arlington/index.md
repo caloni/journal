@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-04-10'
 link: https://www.imdb.com/title/tt0137363
-tags: []
+tags:
+- movies
 title: O Suspeito da Rua Arlington
 ---
 

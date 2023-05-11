@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-06-18'
 link: https://www.imdb.com/title/tt0040522
-tags: []
+tags:
+- movies
 title: Ladrões de Bicicletas
 ---
 

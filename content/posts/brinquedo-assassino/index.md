@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-08-10'
 link: https://www.imdb.com/title/tt8663516
 tags:
 - cinemaqui
+- movies
 title: Brinquedo Assassino
 ---
 

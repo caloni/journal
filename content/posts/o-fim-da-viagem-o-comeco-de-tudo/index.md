@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2022-04-01T21:44:14-03:00'
-tags: []
+tags:
+- movies
 title: O Fim da Viagem, O Começo de Tudo
 ---
 

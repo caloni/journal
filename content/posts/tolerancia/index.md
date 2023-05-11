@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-02-13'
 link: https://www.imdb.com/title/tt0207163
-tags: []
+tags:
+- movies
 title: Tolerância
 ---
 

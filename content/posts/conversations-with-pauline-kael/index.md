@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
 - books
+- reviews
 date: '2020-08-10'
 link: https://gist.githubusercontent.com/Caloni/e2772b5107b99f151d00152f710cc8f9/raw/09e2101bac330ba7b1109e06f35478ea47f203a7/conversations-with-pauline-kael.txt
-tags: []
+tags:
+- movies
 title: Conversations With Pauline Kael
 ---
 

@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-09-17'
 link: https://www.imdb.com/title/tt4072352
 tags:
 - cinemaqui
+- movies
 title: A Passageira
 ---
 

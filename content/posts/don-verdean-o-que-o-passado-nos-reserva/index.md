@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-01-21'
 link: https://www.imdb.com/title/tt3534282
-tags: []
+tags:
+- movies
 title: 'Don Verdean: o Que o Passado nos Reserva'
 ---
 

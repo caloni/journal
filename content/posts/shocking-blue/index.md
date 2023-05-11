@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-11-03'
 link: https://www.imdb.com/title/tt1307010
-tags: []
+tags:
+- movies
 title: Shocking Blue
 ---
 

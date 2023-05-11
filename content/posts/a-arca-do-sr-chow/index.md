@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2021-11-08T19:01:58-03:00'
 tags:
 - cinemaqui
+- movies
 title: A Arca do Sr. Chow
 ---
 

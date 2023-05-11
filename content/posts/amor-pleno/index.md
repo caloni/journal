@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-08-01'
 link: https://www.imdb.com/title/tt1595656
-tags: []
+tags:
+- movies
 title: Amor Pleno
 ---
 

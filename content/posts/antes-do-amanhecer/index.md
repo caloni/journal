@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-12-04'
 link: https://www.imdb.com/title/tt0112471
-tags: []
+tags:
+- movies
 title: Antes do Amanhecer
 ---
 

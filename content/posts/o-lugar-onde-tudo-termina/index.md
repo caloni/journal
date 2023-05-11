@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-11-22'
 link: https://www.imdb.com/title/tt1817273
-tags: []
+tags:
+- movies
 title: O Lugar Onde Tudo Termina
 ---
 

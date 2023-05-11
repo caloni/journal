@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-03-08'
 link: https://www.imdb.com/title/tt0404032
-tags: []
+tags:
+- movies
 title: O Exorcismo de Emily Rose
 ---
 

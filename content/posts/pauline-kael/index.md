@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
 - quotes
+- reviews
 date: '2020-07-12'
-tags: []
+tags:
+- movies
 title: Pauline Kael
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-09-25'
 link: https://www.imdb.com/title/tt2224026
-tags: []
+tags:
+- movies
 title: Cada Um Na Sua Casa
 ---
 

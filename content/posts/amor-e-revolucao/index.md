@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-04-23'
 link: https://www.imdb.com/title/tt4005402
-tags: []
+tags:
+- movies
 title: Amor e Revolução
 ---
 

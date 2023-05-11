@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2021-07-10T23:36:00-03:00'
-tags: []
+tags:
+- movies
 title: A Vida é Um Milagre
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-01-07'
 link: https://www.imdb.com/title/tt2334873
-tags: []
+tags:
+- movies
 title: Blue Jasmine
 ---
 

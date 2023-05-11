@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-06-09'
 link: https://www.imdb.com/title/tt1127877
-tags: []
+tags:
+- movies
 title: Almas à venda
 ---
 

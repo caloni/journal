@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2022-01-11T18:56:00-03:00'
-tags: []
+tags:
+- movies
 title: Blade Runner 2049
 ---
 

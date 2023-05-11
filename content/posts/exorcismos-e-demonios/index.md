@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-03-27'
 link: https://www.imdb.com/title/tt4181782
 tags:
 - cinemaqui
+- movies
 title: Exorcismos e Demônios
 ---
 

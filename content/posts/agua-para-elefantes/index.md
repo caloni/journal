@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-08-27'
 link: https://www.imdb.com/title/tt1067583
-tags: []
+tags:
+- movies
 title: Água para Elefantes
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-09-09'
 link: https://www.imdb.com/title/tt0106677
-tags: []
+tags:
+- movies
 title: Jovens, Loucos e Rebeldes
 ---
 

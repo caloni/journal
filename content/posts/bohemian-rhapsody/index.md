@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-11-15'
 link: https://www.imdb.com/title/tt1727824
-tags: []
+tags:
+- movies
 title: Bohemian Rhapsody
 ---
 

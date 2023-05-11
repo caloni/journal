@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-04-23'
 link: https://www.imdb.com/title/tt1014759
-tags: []
+tags:
+- movies
 title: Alice no País das Maravilhas
 ---
 

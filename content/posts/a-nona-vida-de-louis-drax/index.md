@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-10-04'
 link: https://www.imdb.com/title/tt3991412
 tags:
 - cinemaqui
+- movies
 title: A Nona Vida de Louis Drax
 ---
 

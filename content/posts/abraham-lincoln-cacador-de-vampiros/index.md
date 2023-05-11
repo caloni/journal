@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-12-24'
 link: https://www.imdb.com/title/tt1611224
-tags: []
+tags:
+- movies
 title: 'Abraham Lincoln: Caçador de Vampiros'
 ---
 

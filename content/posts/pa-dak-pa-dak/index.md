@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-10-23'
 link: https://www.imdb.com/title/tt2164058
 tags:
 - mostra
+- movies
 title: Pa-dak pa-dak
 ---
 

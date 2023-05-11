@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-05-08'
 link: https://www.imdb.com/title/tt1137450
 tags:
 - cinemaqui
+- movies
 title: Desejo de Matar
 ---
 

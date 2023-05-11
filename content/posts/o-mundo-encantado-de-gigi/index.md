@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-12-24'
 link: https://www.imdb.com/title/tt1039651
-tags: []
+tags:
+- movies
 title: O Mundo Encantado de Gigi
 ---
 

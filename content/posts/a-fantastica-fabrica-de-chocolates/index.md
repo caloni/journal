@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-12-26'
 link: https://www.imdb.com/title/tt0067992
-tags: []
+tags:
+- movies
 title: A Fantástica Fábrica de Chocolate
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-01-31'
 link: https://www.imdb.com/title/tt5536736
-tags: []
+tags:
+- movies
 title: 'Os Meyerowitz: Família Não se Escolhe'
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-07-05'
 link: https://www.imdb.com/title/tt6914542
-tags: []
+tags:
+- movies
 title: The Drug King
 ---
 

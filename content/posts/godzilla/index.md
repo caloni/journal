@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-05-28'
 link: https://www.imdb.com/title/tt0831387
-tags: []
+tags:
+- movies
 title: Godzilla
 ---
 

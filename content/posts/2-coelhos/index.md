@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-02-15'
 link: https://www.imdb.com/title/tt1753722
-tags: []
+tags:
+- movies
 title: 2 Coelhos
 ---
 

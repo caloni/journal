@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-07-20'
-tags: []
+tags:
+- movies
 title: Anti-Spoilers e o Escudo Pró-Hype
 ---
 

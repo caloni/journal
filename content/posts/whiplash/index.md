@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-04-22'
 link: https://www.imdb.com/title/tt2582802
-tags: []
+tags:
+- movies
 title: 'Whiplash: Em Busca da Perfeição'
 ---
 

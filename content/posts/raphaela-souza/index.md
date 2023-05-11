@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2021-06-30T09:01:00-03:00'
-tags: []
+tags:
+- movies
 title: Raphaela Souza de O Quarto Nerd
 ---
 

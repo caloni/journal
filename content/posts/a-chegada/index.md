@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-02-04'
 link: https://www.imdb.com/title/tt2543164
-tags: []
+tags:
+- movies
 title: A Chegada
 ---
 

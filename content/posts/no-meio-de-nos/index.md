@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-04-18'
 tags:
 - cinemaqui
+- movies
 title: No Meio de Nós
 ---
 

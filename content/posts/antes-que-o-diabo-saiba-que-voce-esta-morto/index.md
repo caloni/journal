@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-05-02'
 link: https://www.imdb.com/title/tt0292963
-tags: []
+tags:
+- movies
 title: Antes que o Diabo Saiba que Você Está Morto
 ---
 

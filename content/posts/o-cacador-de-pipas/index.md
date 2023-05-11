@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-01-12'
 link: https://www.imdb.com/title/tt0419887
-tags: []
+tags:
+- movies
 title: O Caçador de Pipas
 ---
 

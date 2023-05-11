@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-04-27'
 link: https://www.imdb.com/title/tt1280011
-tags: []
+tags:
+- movies
 title: No Impact Man
 ---
 

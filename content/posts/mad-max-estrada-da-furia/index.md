@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-05-22'
 link: https://www.imdb.com/title/tt1392190
-tags: []
+tags:
+- movies
 title: 'Mad Max: Estrada da Fúria'
 ---
 

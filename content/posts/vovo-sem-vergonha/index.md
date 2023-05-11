@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-12-02'
 link: https://www.imdb.com/title/tt3063516
-tags: []
+tags:
+- movies
 title: 'Jackass Apresenta: Vovô Sem Vergonha'
 ---
 

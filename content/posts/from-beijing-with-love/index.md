@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-08-12'
 link: https://www.imdb.com/title/tt0109962
-tags: []
+tags:
+- movies
 title: From Beijing with Love
 ---
 

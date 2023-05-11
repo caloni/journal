@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-01-15'
 link: https://www.imdb.com/title/tt2103281
-tags: []
+tags:
+- movies
 title: 'Planeta dos Macacos: O Confronto'
 ---
 

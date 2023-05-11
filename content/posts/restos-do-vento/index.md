@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2022-10-09T14:21:25-03:00'
 tags:
 - cinemaqui
 - mostra
+- movies
 title: Restos do Vento
 ---
 

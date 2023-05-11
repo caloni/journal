@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-04-26'
 link: https://www.imdb.com/title/tt0056119
-tags: []
+tags:
+- movies
 title: A Pista (La Jetée)
 ---
 

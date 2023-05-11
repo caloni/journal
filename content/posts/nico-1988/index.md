@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-08-24'
 link: https://www.imdb.com/title/tt7186092
 tags:
 - cinemaqui
+- movies
 title: Nico, 1988
 ---
 

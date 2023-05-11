@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-06-12'
 link: https://www.imdb.com/title/tt1673702
-tags: []
+tags:
+- movies
 title: Um Gato em Paris
 ---
 

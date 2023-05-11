@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-08-17'
 link: https://www.imdb.com/title/tt4621872
 tags:
 - cinemaqui
+- movies
 title: Loucas de Alegria
 ---
 

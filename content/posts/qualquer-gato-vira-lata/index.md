@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-05-10'
 link: https://www.imdb.com/title/tt1730133
-tags: []
+tags:
+- movies
 title: Qualquer Gato Vira-Lata
 ---
 

@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2022-10-09T17:55:16-03:00'
-tags: null
+tags:
+- movies
 title: Lords of Metal
 ---
 

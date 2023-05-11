@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-10-05'
 link: https://www.imdb.com/title/tt1979319
-tags: []
+tags:
+- movies
 title: 'Samurai X 1: O Filme'
 ---
 

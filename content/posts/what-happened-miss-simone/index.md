@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-02-17'
 link: https://www.imdb.com/title/tt4284010
 tags:
 - cinemaqui
+- movies
 title: What Happened, Miss Simone?
 ---
 

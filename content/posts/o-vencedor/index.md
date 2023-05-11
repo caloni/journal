@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-04-02'
 link: https://www.imdb.com/title/tt0964517
-tags: []
+tags:
+- movies
 title: O Vencedor
 ---
 

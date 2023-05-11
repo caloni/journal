@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-01-01'
 link: https://www.imdb.com/title/tt0099685
-tags: []
+tags:
+- movies
 title: Os Bons Companheiros
 ---
 

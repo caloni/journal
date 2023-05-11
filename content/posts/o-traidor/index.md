@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-09-04'
 link: https://www.imdb.com/title/tt4844288
-tags: []
+tags:
+- movies
 title: O Traidor
 ---
 

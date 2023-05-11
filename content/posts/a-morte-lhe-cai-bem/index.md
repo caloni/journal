@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-11-02'
 link: https://www.imdb.com/title/tt0104070
-tags: []
+tags:
+- movies
 title: A Morte lhe Cai Bem
 ---
 

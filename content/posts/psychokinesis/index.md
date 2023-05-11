@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-05-04'
 link: https://www.imdb.com/title/tt6890582
-tags: []
+tags:
+- movies
 title: Psychokinesis
 ---
 

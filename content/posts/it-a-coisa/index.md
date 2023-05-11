@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-12-07'
 link: https://www.imdb.com/title/tt1396484
-tags: []
+tags:
+- movies
 title: 'It: A Coisa'
 ---
 

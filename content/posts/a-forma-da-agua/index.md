@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-04-20'
 link: https://www.imdb.com/title/tt5580390
-tags: []
+tags:
+- movies
 title: A Forma da Água
 ---
 

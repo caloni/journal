@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-09-26'
 link: https://www.imdb.com/title/tt9616700
 tags:
 - cinemaqui
+- movies
 title: Adú
 ---
 

@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2022-10-13T18:40:43-03:00'
-tags: null
+tags:
+- movies
 title: O Edifício Yacoubian
 ---
 

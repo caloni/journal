@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-05-16'
 link: https://www.imdb.com/title/tt0446029
-tags: []
+tags:
+- movies
 title: Scott Pilgrim Contra o Mundo
 ---
 

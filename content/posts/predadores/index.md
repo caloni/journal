@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-06-23'
 link: https://www.imdb.com/title/tt1424381
-tags: []
+tags:
+- movies
 title: Predadores
 ---
 

@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2023-01-23T17:09:11-03:00'
 tags:
 - cinemaqui
 - mostratiradentes
+- movies
 title: Mostra Panorama Série 1
 ---
 

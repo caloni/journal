@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-11-29'
 link: https://www.imdb.com/title/tt0460890
 tags:
 - cinemaqui
+- movies
 title: Apenas um Garoto em Nova York
 ---
 

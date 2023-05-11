@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-05-23'
 link: https://www.imdb.com/title/tt0094291
-tags: []
+tags:
+- movies
 title: Wall Street Poder e Cobiça
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-03-23'
 link: https://www.imdb.com/title/tt0110413
-tags: []
+tags:
+- movies
 title: O Profissional
 ---
 

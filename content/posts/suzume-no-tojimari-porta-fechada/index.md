@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2023-04-24'
-tags: null
+tags:
+- movies
 title: 'Suzume no Tojimari: A Porta Fechada de Suzume'
 ---
 

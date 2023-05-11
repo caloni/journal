@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2023-03-31T15:59:26-02:00'
-tags: null
+tags:
+- movies
 title: Fúrias Femininas
 ---
 

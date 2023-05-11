@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-12-13'
 link: https://www.imdb.com/title/tt5968964
 tags:
 - cinemaqui
+- movies
 title: Eu Fico Loko
 ---
 

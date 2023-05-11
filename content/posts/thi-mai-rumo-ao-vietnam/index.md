@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-05-16'
 link: https://www.imdb.com/title/tt6126346
-tags: []
+tags:
+- movies
 title: 'Thi Mai: Rumo ao Vietnam'
 ---
 

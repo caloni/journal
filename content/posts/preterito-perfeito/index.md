@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-05-13'
 link: https://www.imdb.com/title/tt1578707
-tags: []
+tags:
+- movies
 title: Pretérito Perfeito
 ---
 

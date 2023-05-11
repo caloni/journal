@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2021-07-10T22:55:00-03:00'
-tags: []
+tags:
+- movies
 title: A Princesa de Nebraska
 ---
 

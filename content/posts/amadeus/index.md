@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-03-13'
 link: https://www.imdb.com/title/tt0086879
-tags: []
+tags:
+- movies
 title: Amadeus (versão do diretor)
 ---
 

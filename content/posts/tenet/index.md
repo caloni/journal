@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2021-09-08T20:30:56-03:00'
-tags: []
+tags:
+- movies
 title: Tenet
 ---
 

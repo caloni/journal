@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-01-24'
 link: https://www.imdb.com/title/tt0120533
-tags: []
+tags:
+- movies
 title: Celebridades
 ---
 

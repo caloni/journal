@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-01-09'
 link: https://www.imdb.com/title/tt0114709
-tags: []
+tags:
+- movies
 title: Toy Story
 ---
 

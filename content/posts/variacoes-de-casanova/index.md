@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-04-11'
 link: https://www.imdb.com/title/tt2614400
 tags:
 - cinemaqui
+- movies
 title: Variações de Casanova
 ---
 

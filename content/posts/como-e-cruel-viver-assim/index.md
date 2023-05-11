@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-08-28'
 link: https://www.imdb.com/title/tt8792492
-tags: []
+tags:
+- movies
 title: Como é Cruel Viver Assim
 ---
 

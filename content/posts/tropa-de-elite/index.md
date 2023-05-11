@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-09-25'
 link: https://www.imdb.com/title/tt0861739
-tags: []
+tags:
+- movies
 title: Tropa de Elite
 ---
 

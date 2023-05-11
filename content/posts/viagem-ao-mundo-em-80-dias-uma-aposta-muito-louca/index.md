@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2023-02-24T16:55:50-03:00'
+tags:
+- movies
 title: 'Volta ao Mundo em 80 Dias: Uma Aposta Muito Louca'
 ---
 

@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-02-18'
 link: https://www.imdb.com/title/tt4285496
 tags:
 - cinemaqui
+- movies
 title: O Abraço da Serpente
 ---
 

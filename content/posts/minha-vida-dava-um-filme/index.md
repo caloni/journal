@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-01-18'
 link: https://www.imdb.com/title/tt1698648
-tags: []
+tags:
+- movies
 title: Minha Vida Dava um Filme
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-05-04'
 link: https://www.imdb.com/title/tt1124058
-tags: []
+tags:
+- movies
 title: St. Nick
 ---
 

@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-05-03'
 link: https://www.imdb.com/title/tt5989220
 tags:
 - cinemaqui
+- movies
 title: A Câmera de Claire
 ---
 

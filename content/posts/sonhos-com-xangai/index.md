@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2022-05-15T17:08:51-03:00'
-tags: []
+tags:
+- movies
 title: Sonhos com Xangai
 ---
 

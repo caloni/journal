@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-10-23'
 link: https://www.imdb.com/title/tt1594460
 tags:
 - mostra
+- movies
 title: Suécia Hoje
 ---
 

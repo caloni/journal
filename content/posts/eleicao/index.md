@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-12-02'
 link: https://www.imdb.com/title/tt0126886
-tags: []
+tags:
+- movies
 title: Eleição
 ---
 

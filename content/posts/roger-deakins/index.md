@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
 - quotes
+- reviews
 date: '2021-10-16T12:46:44-03:00'
-tags: []
+tags:
+- movies
 title: Roger Deakins
 ---
 

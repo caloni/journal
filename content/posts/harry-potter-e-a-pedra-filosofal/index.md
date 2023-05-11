@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-12-07'
 link: https://www.imdb.com/title/tt0241527
-tags: []
+tags:
+- movies
 title: Harry Potter e a Pedra Filosofal
 ---
 

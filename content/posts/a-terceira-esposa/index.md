@@ -1,11 +1,12 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-10-22'
 link: https://www.imdb.com/title/tt7692966
 tags:
 - cinemaqui
 - mostra
+- movies
 title: A Terceira Esposa
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-08-08'
 link: https://www.imdb.com/title/tt0397229
-tags: []
+tags:
+- movies
 title: '20:30:40'
 ---
 

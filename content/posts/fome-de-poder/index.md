@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-05-28'
 link: https://www.imdb.com/title/tt4276820
-tags: []
+tags:
+- movies
 title: Fome de Poder
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-08-26'
 link: https://www.imdb.com/title/tt2217458
-tags: []
+tags:
+- movies
 title: Flores Raras
 ---
 

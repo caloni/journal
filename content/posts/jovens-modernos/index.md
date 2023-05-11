@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-10-29'
 link: https://www.imdb.com/title/tt1954379
-tags: []
+tags:
+- movies
 title: Jovens Modernos
 ---
 

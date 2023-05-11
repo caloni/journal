@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-06-24'
 link: https://www.imdb.com/title/tt1473832
-tags: []
+tags:
+- movies
 title: O Bebê de Bridge Jones
 ---
 

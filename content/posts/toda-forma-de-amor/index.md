@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-12-22'
 link: https://www.imdb.com/title/tt1532503
-tags: []
+tags:
+- movies
 title: Toda Forma de Amor
 ---
 

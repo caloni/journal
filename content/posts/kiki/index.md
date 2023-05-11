@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2022-03-13T23:33:47-03:00'
-tags: []
+tags:
+- movies
 title: Kiki
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-12-21'
 link: https://www.imdb.com/title/tt6751668
-tags: []
+tags:
+- movies
 title: Parasita
 ---
 

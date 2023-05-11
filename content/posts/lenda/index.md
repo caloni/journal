@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2022-07-31T17:23:43-03:00'
-tags: null
+tags:
+- movies
 title: Lenda (Legend)
 ---
 

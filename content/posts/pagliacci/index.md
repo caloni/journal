@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-04-13'
 tags:
 - cinemaqui
+- movies
 title: Pagliacci
 ---
 

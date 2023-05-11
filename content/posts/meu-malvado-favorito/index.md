@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-12-20'
 link: https://www.imdb.com/title/tt1323594
-tags: []
+tags:
+- movies
 title: Meu Malvado Favorito
 ---
 

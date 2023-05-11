@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2022-11-25T19:15:19-03:00'
-tags: null
+tags:
+- movies
 title: Anjos do Sol
 ---
 

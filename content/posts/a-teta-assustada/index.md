@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2021-03-03'
 link: https://www.imdb.com/title/tt1206488
-tags: []
+tags:
+- movies
 title: A Teta Assustada
 ---
 

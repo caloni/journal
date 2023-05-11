@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-04-14'
 link: https://www.imdb.com/title/tt3089326
 tags:
 - cinemaqui
+- movies
 title: A Garota de Fogo
 ---
 

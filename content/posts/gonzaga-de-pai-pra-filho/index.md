@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-12-02'
 link: https://www.imdb.com/title/tt2478746
-tags: []
+tags:
+- movies
 title: 'Gonzaga: De Pai pra Filho'
 ---
 

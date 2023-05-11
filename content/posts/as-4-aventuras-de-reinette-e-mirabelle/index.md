@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-08-28'
 link: https://www.imdb.com/title/tt0090565
-tags: []
+tags:
+- movies
 title: As 4 Aventuras De Reinette E Mirabelle
 ---
 

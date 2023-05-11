@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-08-23'
 tags:
 - cinemaqui
+- movies
 title: Histórias que Nosso Cinema (Não) Contava
 ---
 

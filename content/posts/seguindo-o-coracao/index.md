@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-11-26'
 link: https://www.imdb.com/title/tt8998738
-tags: []
+tags:
+- movies
 title: Seguindo o Coração
 ---
 

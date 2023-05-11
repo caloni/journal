@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-07-28'
 link: https://www.imdb.com/title/tt0145487
-tags: []
+tags:
+- movies
 title: Homem-Aranha
 ---
 

@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2022-10-27T22:19:42-03:00'
 tags:
 - cinemaqui
 - mostra
+- movies
 title: Deus e o Diabo na Terra do Sol
 ---
 

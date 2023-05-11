@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-09-18'
 link: https://www.imdb.com/title/tt7939766
-tags: []
+tags:
+- movies
 title: Estou Pensando em Acabar com Tudo
 ---
 

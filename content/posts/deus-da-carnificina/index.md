@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-10-07'
 link: https://www.imdb.com/title/tt1692486
-tags: []
+tags:
+- movies
 title: Deus da Carnificina
 ---
 

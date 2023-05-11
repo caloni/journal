@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-12-26'
 link: https://www.imdb.com/title/tt5437928
-tags: []
+tags:
+- movies
 title: Colette
 ---
 

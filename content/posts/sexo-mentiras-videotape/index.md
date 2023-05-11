@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2023-04-19'
-tags: null
+tags:
+- movies
 title: Sexo, Mentiras e Videotape
 ---
 

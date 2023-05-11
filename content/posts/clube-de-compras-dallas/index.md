@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-11-30'
 link: https://www.imdb.com/title/tt0790636
-tags: []
+tags:
+- movies
 title: Clube de Compras Dallas
 ---
 

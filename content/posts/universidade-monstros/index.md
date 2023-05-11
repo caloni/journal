@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-07-01'
 link: https://www.imdb.com/title/tt1453405
-tags: []
+tags:
+- movies
 title: Universidade Monstros
 ---
 

@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2022-10-26T19:50:22-03:00'
 tags:
 - cinemaqui
 - mostra
+- movies
 title: Fire of Love
 ---
 

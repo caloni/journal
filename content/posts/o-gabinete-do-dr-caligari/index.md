@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-03-30'
 link: https://www.imdb.com/title/tt0010323
-tags: []
+tags:
+- movies
 title: O Gabinete do Dr Caligari
 ---
 

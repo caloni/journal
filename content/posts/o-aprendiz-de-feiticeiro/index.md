@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-08-13'
 link: https://www.imdb.com/title/tt0963966
-tags: []
+tags:
+- movies
 title: O Aprendiz de Feiticeiro
 ---
 

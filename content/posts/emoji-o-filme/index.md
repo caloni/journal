@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-11-23'
 link: https://www.imdb.com/title/tt4877122
-tags: []
+tags:
+- movies
 title: 'Emoji: O Filme'
 ---
 

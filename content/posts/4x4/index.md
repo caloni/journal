@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-04-12'
 link: https://www.imdb.com/title/tt8561690
-tags: []
+tags:
+- movies
 title: 4x4
 ---
 

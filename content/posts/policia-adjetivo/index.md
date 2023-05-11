@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2021-03-07'
 link: https://www.imdb.com/title/tt1337051
-tags: []
+tags:
+- movies
 title: Polícia, Adjetivo
 ---
 

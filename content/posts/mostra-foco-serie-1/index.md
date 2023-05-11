@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2023-01-24T10:50:40-03:00'
 tags:
 - cinemaqui
 - mostratiradentes
+- movies
 title: Mostra Foco Série 1
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-06-18'
 link: https://www.imdb.com/title/tt1250777
-tags: []
+tags:
+- movies
 title: Kick-Ass Quebrando Tudo
 ---
 

@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-05-30'
 link: https://www.imdb.com/title/tt5975354
 tags:
 - cinemaqui
+- movies
 title: Tal Mãe, Tal Filha
 ---
 

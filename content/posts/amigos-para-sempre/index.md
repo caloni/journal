@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-12-19'
 link: https://www.imdb.com/title/tt1987680
 tags:
 - cinemaqui
+- movies
 title: Amigos Para Sempre
 ---
 

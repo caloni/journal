@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-07-11'
 link: https://www.imdb.com/title/tt0233809
-tags: []
+tags:
+- movies
 title: Revelações Secretas de Uma Mulher
 ---
 

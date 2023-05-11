@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-08-09'
 link: https://www.imdb.com/title/tt0088846
-tags: []
+tags:
+- movies
 title: 'Brazil: O Filme'
 ---
 

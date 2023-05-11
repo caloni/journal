@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-07-29'
 link: https://www.imdb.com/title/tt4477536
-tags: []
+tags:
+- movies
 title: Cinquenta Tons de Liberdade
 ---
 

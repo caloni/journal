@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-07-31'
 link: https://www.imdb.com/title/tt1424746
-tags: []
+tags:
+- movies
 title: Apenas o Fim
 ---
 

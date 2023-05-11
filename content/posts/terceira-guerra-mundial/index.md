@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2022-10-24T20:26:13-03:00'
 tags:
 - cinemaqui
 - mostra
+- movies
 title: Terceira Guerra Mundial
 ---
 

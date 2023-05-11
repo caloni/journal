@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-08-16'
 link: https://www.imdb.com/title/tt0116282
-tags: []
+tags:
+- movies
 title: Fargo
 ---
 

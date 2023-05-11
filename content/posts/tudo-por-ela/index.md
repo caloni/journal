@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2021-05-04'
 link: https://www.imdb.com/title/tt14164234
 tags:
 - cinemaqui
+- movies
 title: Tudo Por Ela
 ---
 

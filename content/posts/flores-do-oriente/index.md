@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-08-06'
 link: https://www.imdb.com/title/tt1410063
-tags: []
+tags:
+- movies
 title: Flores do Oriente
 ---
 

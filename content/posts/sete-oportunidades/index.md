@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-09-17'
 link: https://www.imdb.com/title/tt0016332
-tags: []
+tags:
+- movies
 title: Sete Oportunidades
 ---
 

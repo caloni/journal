@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2022-08-29T21:18:50-03:00'
-tags: null
+tags:
+- movies
 title: Tudo em Todo Lugar ao Mesmo Tempo
 ---
 

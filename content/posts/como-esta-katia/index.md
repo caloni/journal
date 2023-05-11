@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2022-10-20T18:53:11-03:00'
 tags:
 - cinemaqui
 - mostra
+- movies
 title: Como Está Katia?
 ---
 

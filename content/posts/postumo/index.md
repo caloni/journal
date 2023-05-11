@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-11-20'
 link: https://www.imdb.com/title/tt2463154
-tags: []
+tags:
+- movies
 title: Póstumo
 ---
 

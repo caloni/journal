@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-05-04'
 link: https://www.imdb.com/title/tt0113824
-tags: []
+tags:
+- movies
 title: Sussurros do Coração
 ---
 

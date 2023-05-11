@@ -1,11 +1,12 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-10-24'
 link: https://www.imdb.com/title/tt7534102
 tags:
 - cinemaqui
 - mostra
+- movies
 title: Os Olhos de Cabul
 ---
 

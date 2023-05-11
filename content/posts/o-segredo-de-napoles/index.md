@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-10-23'
 link: https://www.imdb.com/title/tt6892206
 tags:
 - cinemaqui
+- movies
 title: O Segredo de Nápoles
 ---
 

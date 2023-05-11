@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2022-05-27T21:31:00-03:00'
-tags: []
+tags:
+- movies
 title: Princesa
 ---
 

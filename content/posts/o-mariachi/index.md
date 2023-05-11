@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-02-26'
 link: https://www.imdb.com/title/tt0104815
-tags: []
+tags:
+- movies
 title: O Mariachi
 ---
 

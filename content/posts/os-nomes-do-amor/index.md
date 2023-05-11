@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-12-12'
 link: https://www.imdb.com/title/tt1646974
-tags: []
+tags:
+- movies
 title: Os Nomes do Amor
 ---
 

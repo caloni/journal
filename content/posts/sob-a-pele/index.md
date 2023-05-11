@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-01-20'
 link: https://www.imdb.com/title/tt1441395
-tags: []
+tags:
+- movies
 title: Sob a Pele
 ---
 

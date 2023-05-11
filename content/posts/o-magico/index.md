@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-10-27'
 link: https://www.imdb.com/title/tt0775489
 tags:
 - mostra
+- movies
 title: O Mágico
 ---
 

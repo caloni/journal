@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-12-08'
 link: https://www.imdb.com/title/tt0090605
-tags: []
+tags:
+- movies
 title: Aliens, o Resgate
 ---
 

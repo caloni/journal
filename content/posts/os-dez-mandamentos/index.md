@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-02-05'
 link: https://www.imdb.com/title/tt5431016
 tags:
 - cinemaqui
+- movies
 title: 'Os Dez Mandamentos: O Filme'
 ---
 

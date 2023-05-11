@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2022-12-19T17:04:09-03:00'
+tags:
+- movies
 title: Argentina, 1985
 ---
 

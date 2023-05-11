@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-12-07'
 link: https://www.imdb.com/title/tt4123430
-tags: []
+tags:
+- movies
 title: 'Animais Fantásticos: Os Crimes De Grindelwald'
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
 - blog
+- reviews
 date: '2023-05-05'
-tags: null
+tags:
+- movies
 title: Gitflow Zone e Listas de Cinema
 ---
 

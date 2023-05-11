@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
 - animes
+- reviews
 date: '2021-01-28'
 link: https://www.imdb.com/title/tt0095327
-tags: []
+tags:
+- movies
 title: Túmulo dos Vagalumes
 ---
 

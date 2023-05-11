@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-07-22'
 link: https://www.imdb.com/title/tt4029356
-tags: []
+tags:
+- movies
 title: Homem na Parede
 ---
 

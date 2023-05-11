@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2021-06-05'
 link: https://www.imdb.com/title/tt0054494
-tags: []
+tags:
+- movies
 title: Zazie no Metrô
 ---
 

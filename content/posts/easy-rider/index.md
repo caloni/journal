@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-06-01'
 link: https://www.imdb.com/title/tt0064276
-tags: []
+tags:
+- movies
 title: Easy Rider
 ---
 

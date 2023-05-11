@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-02-06'
 link: https://www.imdb.com/title/tt8359848
-tags: []
+tags:
+- movies
 title: Clímax
 ---
 

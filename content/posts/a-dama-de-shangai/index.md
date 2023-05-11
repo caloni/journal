@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-05-29'
 link: https://www.imdb.com/title/tt0040525
-tags: []
+tags:
+- movies
 title: A Dama de Shangai
 ---
 

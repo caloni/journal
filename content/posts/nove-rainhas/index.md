@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-11-18'
 link: https://www.imdb.com/title/tt0247586
-tags: []
+tags:
+- movies
 title: Nove Rainhas
 ---
 

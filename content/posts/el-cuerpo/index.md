@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-02-14'
 link: https://www.imdb.com/title/tt1937149
-tags: []
+tags:
+- movies
 title: O Corpo
 ---
 

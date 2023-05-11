@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-01-23'
 link: https://www.imdb.com/title/tt0087233
-tags: []
+tags:
+- movies
 title: Amor à Primeira Vista
 ---
 

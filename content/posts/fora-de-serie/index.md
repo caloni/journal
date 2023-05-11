@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-06-09'
 link: https://www.imdb.com/title/tt1489887
 tags:
 - cinemaqui
+- movies
 title: Fora de Série
 ---
 

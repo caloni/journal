@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-08-18'
 link: https://www.imdb.com/title/tt0338013
-tags: []
+tags:
+- movies
 title: Brilho Eterno de uma Mente Sem Lembranças
 ---
 

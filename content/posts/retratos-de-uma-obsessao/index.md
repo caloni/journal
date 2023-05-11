@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-07-21'
 link: https://www.imdb.com/title/tt0265459
-tags: []
+tags:
+- movies
 title: Retratos de uma Obsessão
 ---
 

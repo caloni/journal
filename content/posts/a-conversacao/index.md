@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-11-16'
 link: https://www.imdb.com/title/tt0071360
-tags: []
+tags:
+- movies
 title: A Conversação
 ---
 

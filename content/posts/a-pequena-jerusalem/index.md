@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-01-14'
 link: https://www.imdb.com/title/tt0428965
-tags: []
+tags:
+- movies
 title: A Pequena Jerusalém
 ---
 

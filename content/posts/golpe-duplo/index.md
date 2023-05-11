@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-03-13'
 link: https://www.imdb.com/title/tt2381941
 tags:
 - cinemaqui
+- movies
 title: Golpe Duplo
 ---
 

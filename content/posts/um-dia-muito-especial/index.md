@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-12-20'
 link: https://www.imdb.com/title/tt0076085
-tags: []
+tags:
+- movies
 title: Um Dia Muito Especial
 ---
 

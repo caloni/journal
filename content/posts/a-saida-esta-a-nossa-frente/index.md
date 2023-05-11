@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2022-10-13T18:41:12-03:00'
 tags:
 - cinemaqui
 - mostra
+- movies
 title: A Saída Está à Nossa Frente
 ---
 

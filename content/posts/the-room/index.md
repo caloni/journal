@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-05-24'
 link: https://www.imdb.com/title/tt0368226
-tags: []
+tags:
+- movies
 title: The Room
 ---
 

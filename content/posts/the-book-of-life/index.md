@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-11-09'
 link: https://www.imdb.com/title/tt2262227
-tags: []
+tags:
+- movies
 title: O Livro da Vida
 ---
 

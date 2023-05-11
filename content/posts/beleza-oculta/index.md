@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-03-01'
 link: https://www.imdb.com/title/tt4682786
-tags: []
+tags:
+- movies
 title: Beleza Oculta
 ---
 

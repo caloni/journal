@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-12-28'
 link: https://www.imdb.com/title/tt3748528
-tags: []
+tags:
+- movies
 title: 'Rogue One: Uma História Star Wars'
 ---
 

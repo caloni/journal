@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-03-13'
 link: https://www.imdb.com/title/tt7902124
 tags:
 - cinemaqui
+- movies
 title: O Chão Sob Meus Pés
 ---
 

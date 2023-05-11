@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2022-10-11T21:32:01-03:00'
 tags:
 - cinemaqui
 - mostra
+- movies
 title: A Criança
 ---
 

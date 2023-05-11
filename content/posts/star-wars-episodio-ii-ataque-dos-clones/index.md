@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-05-29'
 link: https://www.imdb.com/title/tt0121765
-tags: []
+tags:
+- movies
 title: 'Star Wars, Episódio II: Ataque dos Clones'
 ---
 

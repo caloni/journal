@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2023-02-20T13:52:24-03:00'
+tags:
+- movies
 title: 365 Dias
 ---
 

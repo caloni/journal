@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-04-30'
 link: https://www.imdb.com/title/tt2179136
-tags: []
+tags:
+- movies
 title: Sniper Americano
 ---
 

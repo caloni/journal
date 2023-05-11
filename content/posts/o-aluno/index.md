@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-12-09'
 link: https://www.imdb.com/title/tt0790663
-tags: []
+tags:
+- movies
 title: O Aluno
 ---
 

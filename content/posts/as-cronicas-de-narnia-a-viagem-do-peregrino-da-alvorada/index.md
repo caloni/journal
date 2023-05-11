@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-10-21'
 link: https://www.imdb.com/title/tt0980970
-tags: []
+tags:
+- movies
 title: 'As Crônicas de Nárnia: A Viagem do Peregrino da Alvorada'
 ---
 

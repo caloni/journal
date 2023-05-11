@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-11-28'
 link: https://www.imdb.com/title/tt1259521
-tags: []
+tags:
+- movies
 title: O Segredo da Cabana
 ---
 

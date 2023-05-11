@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2022-06-04T12:49:52-03:00'
-tags: []
+tags:
+- movies
 title: O Bandido da Luz Vermelha
 ---
 

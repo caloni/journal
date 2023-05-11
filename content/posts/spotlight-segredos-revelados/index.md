@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-02-29'
 link: https://www.imdb.com/title/tt1895587
-tags: []
+tags:
+- movies
 title: 'Spotlight: Segredos Revelados'
 ---
 

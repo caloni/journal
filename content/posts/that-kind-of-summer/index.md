@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2022-10-17T19:49:36-03:00'
 tags:
 - cinemaqui
 - mostra
+- movies
 title: That Kind of Summer
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-05-06'
 link: https://www.imdb.com/title/tt1872181
-tags: []
+tags:
+- movies
 title: 'O Espetacular Homem-Aranha 2: A Ameaça de Electro'
 ---
 

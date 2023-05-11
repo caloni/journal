@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2021-09-26T21:42:08-03:00'
 tags:
 - cinemaqui
+- movies
 title: Na Ponta
 ---
 

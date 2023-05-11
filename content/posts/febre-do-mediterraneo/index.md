@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2022-10-20T18:52:36-03:00'
 tags:
 - cinemaqui
 - mostra
+- movies
 title: Febre do Mediterrâneo
 ---
 

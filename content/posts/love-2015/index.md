@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-07-31'
 link: https://www.imdb.com/title/tt3774694
-tags: []
+tags:
+- movies
 title: Love
 ---
 

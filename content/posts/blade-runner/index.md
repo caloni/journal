@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-06-19'
 link: https://www.imdb.com/title/tt0083658
-tags: []
+tags:
+- movies
 title: 'Blade Runner: O Caçador de Androides'
 ---
 

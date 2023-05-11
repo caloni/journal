@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-11-02'
 link: https://www.imdb.com/title/tt5523010
 tags:
 - cinemaqui
+- movies
 title: O Quebra-Nozes e os Quatro Reinos
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-10-28'
 link: https://www.imdb.com/title/tt2614722
-tags: []
+tags:
+- movies
 title: Umrika
 ---
 

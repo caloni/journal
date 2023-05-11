@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-11-23'
 link: https://www.imdb.com/title/tt1964418
-tags: []
+tags:
+- movies
 title: 'Tomorrowland: Um Lugar Onde Nada é Impossível'
 ---
 

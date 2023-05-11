@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-12-04'
 link: https://www.imdb.com/title/tt2204371
-tags: []
+tags:
+- movies
 title: Somm
 ---
 

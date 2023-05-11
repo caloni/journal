@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-07-20'
 link: https://www.imdb.com/title/tt0087755
-tags: []
+tags:
+- movies
 title: Os Muppets Conquistam Nova York
 ---
 

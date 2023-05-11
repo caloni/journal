@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2022-02-22T21:29:45-03:00'
-tags: []
+tags:
+- movies
 title: Má Educação
 ---
 

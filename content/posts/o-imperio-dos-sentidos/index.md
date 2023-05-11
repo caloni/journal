@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-06-03'
 link: https://www.imdb.com/title/tt0074102
-tags: []
+tags:
+- movies
 title: O Império dos Sentidos
 ---
 

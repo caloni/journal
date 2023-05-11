@@ -1,9 +1,10 @@
 ---
 categories:
 - series
-- movies
+- reviews
 date: '2023-04-09'
-tags: null
+tags:
+- movies
 title: Duas séries pretas e um filme preto... e branco
 ---
 

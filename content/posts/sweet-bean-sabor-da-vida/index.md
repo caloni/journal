@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2021-06-12'
 link: https://www.imdb.com/title/tt4298958
-tags: []
+tags:
+- movies
 title: Sabor da Vida
 ---
 

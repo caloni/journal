@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-01-20'
 link: https://www.imdb.com/title/tt1922777
-tags: []
+tags:
+- movies
 title: A Entidade
 ---
 

@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-10-02'
 link: https://www.imdb.com/title/tt4427060
 tags:
 - cinemaqui
+- movies
 title: Beira-Mar
 ---
 

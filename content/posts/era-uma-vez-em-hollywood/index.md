@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-08-23'
 link: https://www.imdb.com/title/tt7131622
-tags: []
+tags:
+- movies
 title: Era Uma Vez em... Hollywood
 ---
 

@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-10-29'
 link: https://www.imdb.com/title/tt7984734
 tags:
 - cinemaqui
+- movies
 title: O Farol
 ---
 

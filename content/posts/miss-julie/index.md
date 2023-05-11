@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-05-17'
 link: https://www.imdb.com/title/tt2667960
 tags:
 - cinemaqui
+- movies
 title: Miss Julie
 ---
 

@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-02-22'
 link: https://www.imdb.com/title/tt3411572
 tags:
 - cinemaqui
+- movies
 title: Amor em Sampa
 ---
 

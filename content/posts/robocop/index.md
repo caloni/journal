@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-02-24'
 link: https://www.imdb.com/title/tt1234721
-tags: []
+tags:
+- movies
 title: RoboCop
 ---
 

@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2023-01-24T10:50:25-03:00'
 tags:
 - cinemaqui
 - mostratiradentes
+- movies
 title: As Linhas da Minha Mão
 ---
 

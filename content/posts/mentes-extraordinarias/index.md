@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2022-05-14T19:43:32-03:00'
 tags:
 - cinemaqui
+- movies
 title: Mentes Extraordinárias
 ---
 

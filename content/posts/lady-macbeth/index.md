@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-07-31'
 link: https://www.imdb.com/title/tt4291600
 tags:
 - cinemaqui
+- movies
 title: Lady Macbeth
 ---
 

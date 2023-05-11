@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-10-24'
 link: https://www.imdb.com/title/tt1634524
-tags: []
+tags:
+- movies
 title: Nervos à Flor da Pele
 ---
 

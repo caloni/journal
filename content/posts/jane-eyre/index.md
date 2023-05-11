@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-01-15'
 link: https://www.imdb.com/title/tt1229822
-tags: []
+tags:
+- movies
 title: Jane Eyre
 ---
 

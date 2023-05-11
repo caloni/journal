@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-03-13'
 link: https://www.imdb.com/title/tt0364343
-tags: []
+tags:
+- movies
 title: Violação de Privacidade
 ---
 

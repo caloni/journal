@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-07-01'
 link: https://www.imdb.com/title/tt0018876
-tags: []
+tags:
+- movies
 title: A Mulher Do Fazendeiro
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-09-24'
 link: https://www.imdb.com/title/tt1027718
-tags: []
+tags:
+- movies
 title: 'Wall Street: O Dinheiro Nunca Dorme'
 ---
 

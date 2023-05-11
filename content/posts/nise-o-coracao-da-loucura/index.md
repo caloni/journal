@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-05-29'
 link: https://www.imdb.com/title/tt2168180
-tags: []
+tags:
+- movies
 title: 'Nise: O Coração da Loucura'
 ---
 

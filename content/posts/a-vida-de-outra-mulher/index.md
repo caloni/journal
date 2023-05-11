@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-08-23'
 link: https://www.imdb.com/title/tt1817191
-tags: []
+tags:
+- movies
 title: A Vida de Outra Mulher
 ---
 

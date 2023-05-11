@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2021-11-13T15:54:02-03:00'
 tags:
 - cinemaqui
 - mostrachinesa
+- movies
 title: Quero Uma Vida Com Você
 ---
 

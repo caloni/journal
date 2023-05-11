@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-12-20'
 link: https://www.imdb.com/title/tt2109248
-tags: []
+tags:
+- movies
 title: 'Transformers: A Era da Extinção'
 ---
 

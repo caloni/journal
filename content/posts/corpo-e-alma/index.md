@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-01-13'
 link: https://www.imdb.com/title/tt5607714
-tags: []
+tags:
+- movies
 title: Corpo e Alma
 ---
 

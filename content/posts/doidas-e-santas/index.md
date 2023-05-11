@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-08-17'
 link: https://www.imdb.com/title/tt5221004
 tags:
 - cinemaqui
+- movies
 title: Doidas e Santas
 ---
 

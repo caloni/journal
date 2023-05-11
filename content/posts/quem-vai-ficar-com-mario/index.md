@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2021-06-12'
 link: https://www.imdb.com/title/tt10573946
 tags:
 - cinemaqui
+- movies
 title: Quem Vai Ficar Com Mario?
 ---
 

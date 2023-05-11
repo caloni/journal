@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-05-26'
 link: https://www.imdb.com/title/tt6060156
-tags: []
+tags:
+- movies
 title: Toc Toc
 ---
 

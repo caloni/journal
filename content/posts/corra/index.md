@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-01-26'
 link: https://www.imdb.com/title/tt5052448
-tags: []
+tags:
+- movies
 title: Corra!
 ---
 

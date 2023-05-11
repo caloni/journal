@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2022-07-24T14:17:52-03:00'
 tags:
 - cinemaqui
+- movies
 title: A Fera do Mar
 ---
 

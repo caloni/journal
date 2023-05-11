@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2021-05-15'
 link: https://www.imdb.com/title/tt7979580
 tags:
 - cinemaqui
+- movies
 title: A Família Mitchell e a Revolta das Máquinas
 ---
 

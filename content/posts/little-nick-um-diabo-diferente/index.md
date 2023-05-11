@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-08-09'
 link: https://www.imdb.com/title/tt0185431
-tags: []
+tags:
+- movies
 title: Um Diabo Diferente (aka Little Nicky)
 ---
 

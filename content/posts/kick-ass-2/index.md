@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-03-10'
 link: https://www.imdb.com/title/tt1650554
-tags: []
+tags:
+- movies
 title: Kick Ass 2
 ---
 

@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2022-02-22T21:30:08-03:00'
-tags: []
+tags:
+- movies
 title: Mães Paralelas
 ---
 

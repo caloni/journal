@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-04-30'
 link: https://www.imdb.com/title/tt0301199
-tags: []
+tags:
+- movies
 title: Coisas Belas e Sujas
 ---
 

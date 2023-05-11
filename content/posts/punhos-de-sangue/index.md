@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-05-18'
 link: https://www.imdb.com/title/tt1610525
 tags:
 - cinemaqui
+- movies
 title: Punhos de Sangue
 ---
 

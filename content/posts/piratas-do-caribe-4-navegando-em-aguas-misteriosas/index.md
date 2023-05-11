@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-06-01'
 link: https://www.imdb.com/title/tt1298650
-tags: []
+tags:
+- movies
 title: 'Piratas do Caribe: Navegando em Águas Misteriosas'
 ---
 

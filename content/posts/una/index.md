@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-04-06'
 link: https://www.imdb.com/title/tt2315582
 tags:
 - cinemaqui
+- movies
 title: Una
 ---
 

@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-11-06'
 link: https://www.imdb.com/title/tt9207188
 tags:
 - cinemaqui
+- movies
 title: Os Parças 2
 ---
 

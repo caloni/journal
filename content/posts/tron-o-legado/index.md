@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-05-14'
 link: https://www.imdb.com/title/tt1104001
-tags: []
+tags:
+- movies
 title: 'Tron: o Legado'
 ---
 

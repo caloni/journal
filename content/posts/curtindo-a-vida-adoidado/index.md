@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-04-02'
 link: https://www.imdb.com/title/tt0091042
-tags: []
+tags:
+- movies
 title: Curtindo a Vida Adoidado
 ---
 

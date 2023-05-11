@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-02-15'
 link: https://www.imdb.com/title/tt1615918
-tags: []
+tags:
+- movies
 title: Alvin e os Esquilos 3
 ---
 

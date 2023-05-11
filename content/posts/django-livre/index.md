@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-02-05'
 link: https://www.imdb.com/title/tt1853728
-tags: []
+tags:
+- movies
 title: Django Livre
 ---
 

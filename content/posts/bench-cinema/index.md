@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-10-26'
 link: https://www.imdb.com/title/tt5821276
-tags: []
+tags:
+- movies
 title: Bench Cinema
 ---
 

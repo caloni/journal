@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2022-04-12T23:01:57-03:00'
 tags:
 - cinemaqui
+- movies
 title: A História da Guerra Civil
 ---
 

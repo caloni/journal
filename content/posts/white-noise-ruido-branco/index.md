@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2023-01-04T23:33:05-03:00'
+tags:
+- movies
 title: Ruído Branco (White Noise)
 ---
 

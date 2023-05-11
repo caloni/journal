@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-11-16'
-tags: []
+tags:
+- movies
 title: Por que esses Coringa e Pantera se tornaram fenômenos de bilheteria?
 ---
 

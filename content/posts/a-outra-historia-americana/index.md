@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-02-26'
 link: https://www.imdb.com/title/tt0120586
-tags: []
+tags:
+- movies
 title: A Outra História Americana
 ---
 

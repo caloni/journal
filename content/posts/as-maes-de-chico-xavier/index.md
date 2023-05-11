@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-04-27'
 link: https://www.imdb.com/title/tt1882041
-tags: []
+tags:
+- movies
 title: As Mães de Chico Xavier
 ---
 

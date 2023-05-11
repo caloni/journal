@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-03-14'
 link: https://www.imdb.com/title/tt6285776
 tags:
 - cinemaqui
+- movies
 title: Górgona
 ---
 

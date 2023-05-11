@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-03-09'
 link: https://www.imdb.com/title/tt2652118
 tags:
 - cinemaqui
+- movies
 title: 'O Tigre e o Dragão: A Espada do Destino'
 ---
 

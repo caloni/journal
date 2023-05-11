@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-07-24'
 link: https://www.imdb.com/title/tt4912910
 tags:
 - cinemaqui
+- movies
 title: 'Missão Impossível: Efeito Fallout'
 ---
 

@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2021-10-30T19:30:43-03:00'
 tags:
 - cinemaqui
 - mostra
+- movies
 title: O Atlas dos Pássaros
 ---
 

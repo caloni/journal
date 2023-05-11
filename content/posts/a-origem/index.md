@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-08-06'
 link: https://www.imdb.com/title/tt1375666
-tags: []
+tags:
+- movies
 title: A Origem
 ---
 

@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-11-17'
-tags: []
+tags:
+- movies
 title: Circles and Squares
 ---
 

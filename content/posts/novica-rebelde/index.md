@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-11-15'
 link: https://www.imdb.com/title/tt0059742
-tags: []
+tags:
+- movies
 title: A Noviça Rebelde
 ---
 

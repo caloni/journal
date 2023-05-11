@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2022-12-26T22:23:32-03:00'
+tags:
+- movies
 title: Avatar, O Caminho da Água
 ---
 

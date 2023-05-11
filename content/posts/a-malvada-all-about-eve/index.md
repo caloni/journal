@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2022-11-19T21:26:47-03:00'
-tags: null
+tags:
+- movies
 title: A Malvada (All About Eve)
 ---
 

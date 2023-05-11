@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2023-03-31T15:59:17-02:00'
 tags:
 - cinemaqui
+- movies
 title: Pacifiction
 ---
 

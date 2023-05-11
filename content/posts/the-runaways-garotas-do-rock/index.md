@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2023-03-26T16:41:28-02:00'
-tags: null
+tags:
+- movies
 title: The Runaways - Garotas do Rock
 ---
 

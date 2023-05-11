@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-12-11'
 link: https://www.imdb.com/title/tt0076666
-tags: []
+tags:
+- movies
 title: Os Embalos de Sábado à Noite
 ---
 

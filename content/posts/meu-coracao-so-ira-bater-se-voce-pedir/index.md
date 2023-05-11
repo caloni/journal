@@ -1,11 +1,12 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-11-01'
 link: https://www.imdb.com/title/tt11084432
 tags:
 - cinemaqui
 - mostra
+- movies
 title: Meu Coração Só Irá Bater se Você Pedir
 ---
 

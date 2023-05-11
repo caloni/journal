@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2022-04-12T23:02:18-03:00'
-tags: []
+tags:
+- movies
 title: A Filha Perdida
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-02-13'
 link: https://www.imdb.com/title/tt1164999
-tags: []
+tags:
+- movies
 title: Biutiful
 ---
 

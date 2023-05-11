@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-03-13'
 link: https://www.imdb.com/title/tt6040662
 tags:
 - cinemaqui
+- movies
 title: Um Ato de Esperança
 ---
 

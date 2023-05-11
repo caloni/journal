@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-05-19'
 link: https://www.imdb.com/title/tt5463162
-tags: []
+tags:
+- movies
 title: Deadpool 2
 ---
 

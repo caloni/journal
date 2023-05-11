@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-02-20'
 link: https://www.imdb.com/title/tt1560747
-tags: []
+tags:
+- movies
 title: O Mestre
 ---
 

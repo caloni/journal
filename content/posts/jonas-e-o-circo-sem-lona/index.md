@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-03-08'
 tags:
 - cinemaqui
+- movies
 title: Jonas e o Circo sem Lona
 ---
 

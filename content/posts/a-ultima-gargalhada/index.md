@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-01-21'
 link: https://www.imdb.com/title/tt7427356
-tags: []
+tags:
+- movies
 title: A Última Gargalhada
 ---
 

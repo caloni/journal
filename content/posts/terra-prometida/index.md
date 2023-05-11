@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-10-26'
 link: https://www.imdb.com/title/tt0072446
 tags:
 - mostra
+- movies
 title: Terra Prometida
 ---
 

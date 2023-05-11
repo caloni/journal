@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-04-18'
 link: https://www.imdb.com/title/tt8169178
 tags:
 - cinemaqui
+- movies
 title: Mormaço
 ---
 

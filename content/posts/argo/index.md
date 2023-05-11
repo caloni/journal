@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-11-18'
 link: https://www.imdb.com/title/tt1024648
-tags: []
+tags:
+- movies
 title: Argo
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-01-15'
 link: https://www.imdb.com/title/tt1847731
-tags: []
+tags:
+- movies
 title: Tomboy
 ---
 

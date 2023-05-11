@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-11-17'
 link: https://www.imdb.com/title/tt3164256
-tags: []
+tags:
+- movies
 title: Rock em Cabul
 ---
 

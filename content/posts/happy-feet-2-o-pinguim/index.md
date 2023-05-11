@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-12-04'
 link: https://www.imdb.com/title/tt1402488
-tags: []
+tags:
+- movies
 title: 'Happy Feet 2: O Pinguim'
 ---
 

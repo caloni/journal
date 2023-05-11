@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-02-25'
 link: https://www.imdb.com/title/tt0970179
-tags: []
+tags:
+- movies
 title: A Invenção de Hugo Cabret
 ---
 

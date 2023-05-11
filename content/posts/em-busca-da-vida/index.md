@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2021-08-12T22:19:35-03:00'
-tags: []
+tags:
+- movies
 title: Em Busca da Vida
 ---
 

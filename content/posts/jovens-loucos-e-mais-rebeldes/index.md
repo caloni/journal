@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-09-09'
 link: https://www.imdb.com/title/tt2937696
 tags:
 - cinemaqui
+- movies
 title: Jovens, Loucos e Mais Rebeldes
 ---
 

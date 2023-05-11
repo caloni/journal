@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-01-24'
 link: https://www.imdb.com/title/tt0995829
-tags: []
+tags:
+- movies
 title: XXY
 ---
 

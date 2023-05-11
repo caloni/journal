@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-03-10'
 link: https://www.imdb.com/title/tt9760504
-tags: []
+tags:
+- movies
 title: Ninokuni
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-01-28'
 link: https://www.imdb.com/title/tt0065063
-tags: []
+tags:
+- movies
 title: Um Assaltante Bem Trapalhão
 ---
 

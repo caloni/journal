@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-11-01'
 link: https://www.imdb.com/title/tt0381940
 tags:
 - mostra
+- movies
 title: Cargo
 ---
 

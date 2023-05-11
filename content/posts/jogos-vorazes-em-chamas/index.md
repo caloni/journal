@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-07-12'
 link: https://www.imdb.com/title/tt1951264
-tags: []
+tags:
+- movies
 title: 'Jogos Vorazes: Em Chamas'
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-03-01'
 link: https://www.imdb.com/title/tt2724064
-tags: []
+tags:
+- movies
 title: Sharknado
 ---
 

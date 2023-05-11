@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-05-05'
 link: https://www.imdb.com/title/tt0246405
-tags: []
+tags:
+- movies
 title: Os 27 Beijos Perdidos
 ---
 

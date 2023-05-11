@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-06-06'
 link: https://www.imdb.com/title/tt2382009
-tags: []
+tags:
+- movies
 title: 'Ninfomaníaca: Volume 2'
 ---
 

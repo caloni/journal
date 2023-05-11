@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-04-14'
 link: https://www.imdb.com/title/tt1582507
-tags: []
+tags:
+- movies
 title: A Última Casa da Rua
 ---
 

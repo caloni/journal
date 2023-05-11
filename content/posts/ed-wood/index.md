@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-08-23'
 link: https://www.imdb.com/title/tt0109707
-tags: []
+tags:
+- movies
 title: Ed Wood
 ---
 

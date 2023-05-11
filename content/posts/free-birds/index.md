@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-08-15'
 link: https://www.imdb.com/title/tt1621039
-tags: []
+tags:
+- movies
 title: Bons de Bico
 ---
 

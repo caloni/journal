@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-03-31'
 link: https://www.imdb.com/title/tt0159097
-tags: []
+tags:
+- movies
 title: As Virgens Suicidas
 ---
 

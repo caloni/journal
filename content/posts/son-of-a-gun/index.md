@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-04-27'
 link: https://www.imdb.com/title/tt2452200
-tags: []
+tags:
+- movies
 title: Son of a Gun
 ---
 

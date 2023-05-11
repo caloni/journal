@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-05-26'
 link: https://www.imdb.com/title/tt0310775
-tags: []
+tags:
+- movies
 title: Mr. Vingança
 ---
 

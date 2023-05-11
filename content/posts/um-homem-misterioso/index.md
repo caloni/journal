@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-11-19'
 link: https://www.imdb.com/title/tt1440728
-tags: []
+tags:
+- movies
 title: Um Homem Misterioso
 ---
 

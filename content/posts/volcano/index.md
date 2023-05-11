@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-10-28'
 link: https://www.imdb.com/title/tt7186036
 tags:
 - cinemaqui
+- movies
 title: Volcano
 ---
 

@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2022-11-07T22:14:20-03:00'
-tags: null
+tags:
+- movies
 title: Adão Negro
 ---
 

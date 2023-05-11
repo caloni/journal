@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2023-01-22T23:55:55-03:00'
 tags:
 - cinemaqui
 - mostratiradentes
+- movies
 title: A Ilha dos Ilus
 ---
 

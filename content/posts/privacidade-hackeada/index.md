@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-08-03'
 link: https://www.imdb.com/title/tt9358204
 tags:
 - cinemaqui
+- movies
 title: Privacidade Hackeada
 ---
 

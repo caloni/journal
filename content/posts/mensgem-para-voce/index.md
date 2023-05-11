@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-01-28'
 link: https://www.imdb.com/title/tt0128853
-tags: []
+tags:
+- movies
 title: Mens@gem Para Você
 ---
 

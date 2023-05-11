@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-08-23'
-tags: []
+tags:
+- movies
 title: Filmes e Diretores Favoritos
 ---
 

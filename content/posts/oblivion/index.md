@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-04-06'
 link: https://www.imdb.com/title/tt1483013
-tags: []
+tags:
+- movies
 title: Oblivion
 ---
 

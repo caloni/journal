@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-07-20'
 link: https://www.imdb.com/title/tt0096734
-tags: []
+tags:
+- movies
 title: Meus Vizinhos são um Terror
 ---
 

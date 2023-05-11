@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-02-13'
 link: https://www.imdb.com/title/tt8633950
 tags:
 - cinemaqui
+- movies
 title: As Invisíveis
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-11-16'
 link: https://www.imdb.com/title/tt1142977
-tags: []
+tags:
+- movies
 title: Frankenweenie
 ---
 

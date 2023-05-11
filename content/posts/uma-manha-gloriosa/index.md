@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-04-19'
 link: https://www.imdb.com/title/tt1126618
-tags: []
+tags:
+- movies
 title: Uma Manhã Gloriosa
 ---
 

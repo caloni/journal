@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-01-17'
 link: https://www.imdb.com/title/tt2452042
-tags: []
+tags:
+- movies
 title: 'Snoopy & Charlie Brown: Peanuts, o Filme'
 ---
 

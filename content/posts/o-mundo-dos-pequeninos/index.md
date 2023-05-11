@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-12-06'
 link: https://www.imdb.com/title/tt1568921
-tags: []
+tags:
+- movies
 title: O Mundo dos Pequeninos
 ---
 

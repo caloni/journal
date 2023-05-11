@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-08-10'
 link: https://www.imdb.com/title/tt3111426
 tags:
 - cinemaqui
+- movies
 title: Lost Girls
 ---
 

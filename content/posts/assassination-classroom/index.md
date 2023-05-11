@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-12-28'
 link: https://www.imdb.com/title/tt3853452
-tags: []
+tags:
+- movies
 title: Assassination Classroom (Ansatsu kyôshitsu)
 ---
 

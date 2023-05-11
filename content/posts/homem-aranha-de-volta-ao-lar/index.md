@@ -1,11 +1,12 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-07-09'
 link: https://www.imdb.com/title/tt2250912
 revison:
 - '2017-08-03'
-tags: []
+tags:
+- movies
 title: 'Homem-Aranha: De Volta ao Lar'
 ---
 

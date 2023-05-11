@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-02-13'
 link: https://www.imdb.com/title/tt1602620
-tags: []
+tags:
+- movies
 title: Amor
 ---
 

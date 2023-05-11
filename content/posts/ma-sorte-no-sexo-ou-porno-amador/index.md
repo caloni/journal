@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2021-10-12T12:37:56-03:00'
 tags:
 - mostra
+- movies
 title: Má Sorte No Sexo Ou Pornô Amador
 ---
 

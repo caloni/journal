@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-08-13'
 link: https://www.imdb.com/title/tt1320253
-tags: []
+tags:
+- movies
 title: Os Mercenários
 ---
 

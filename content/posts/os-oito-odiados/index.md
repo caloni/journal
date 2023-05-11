@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-07-29'
 link: https://www.imdb.com/title/tt3460252
-tags: []
+tags:
+- movies
 title: Os Oito Odiados
 ---
 

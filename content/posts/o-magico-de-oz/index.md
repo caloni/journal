@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-01-11'
 link: https://www.imdb.com/title/tt0032138
-tags: []
+tags:
+- movies
 title: O Mágico de Oz
 ---
 

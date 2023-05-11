@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-03-02'
 link: https://www.imdb.com/title/tt0107688
-tags: []
+tags:
+- movies
 title: O Estranho Mundo de Jack
 ---
 

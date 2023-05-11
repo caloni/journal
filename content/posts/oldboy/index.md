@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-07-22'
 link: https://www.imdb.com/title/tt0364569
-tags: []
+tags:
+- movies
 title: Oldboy
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-09-24'
 link: https://www.imdb.com/title/tt6795136
-tags: []
+tags:
+- movies
 title: Laerte Se
 ---
 

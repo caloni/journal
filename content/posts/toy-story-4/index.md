@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-06-19'
 link: https://www.imdb.com/title/tt1979376
 tags:
 - cinemaqui
+- movies
 title: Toy Story 4
 ---
 

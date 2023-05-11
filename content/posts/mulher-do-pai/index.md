@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-06-13'
 link: https://www.imdb.com/title/tt6032376
 tags:
 - cinemaqui
+- movies
 title: Mulher do Pai
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-07-28'
 link: https://www.imdb.com/title/tt1545754
-tags: []
+tags:
+- movies
 title: Para o Que Der e Vier
 ---
 

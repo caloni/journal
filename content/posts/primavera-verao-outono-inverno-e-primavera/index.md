@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-12-20'
 link: https://www.imdb.com/title/tt0374546
-tags: []
+tags:
+- movies
 title: Primavera, Verão, Outono, Inverno... e Primavera
 ---
 

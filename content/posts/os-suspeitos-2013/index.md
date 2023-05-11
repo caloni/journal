@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-10-25'
 link: https://www.imdb.com/title/tt1392214
-tags: []
+tags:
+- movies
 title: Os Suspeitos
 ---
 

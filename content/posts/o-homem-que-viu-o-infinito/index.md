@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-12-21'
 link: https://www.imdb.com/title/tt0787524
-tags: []
+tags:
+- movies
 title: O Homem que viu o Infinito
 ---
 

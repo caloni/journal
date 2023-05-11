@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-08-27'
 link: https://www.imdb.com/title/tt1155076
-tags: []
+tags:
+- movies
 title: Karate Kid
 ---
 

@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-02-25'
 link: https://www.imdb.com/title/tt3917210
 tags:
 - cinemaqui
+- movies
 title: Life, Animated
 ---
 

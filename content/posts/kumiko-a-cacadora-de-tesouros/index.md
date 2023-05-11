@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-06-21'
 link: https://www.imdb.com/title/tt3263614
-tags: []
+tags:
+- movies
 title: Kumiko, a Caçadora de Tesouros
 ---
 

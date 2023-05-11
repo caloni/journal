@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-01-25'
 link: https://www.imdb.com/title/tt1861375
-tags: []
+tags:
+- movies
 title: A Guerra dos Botões
 ---
 

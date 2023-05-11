@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-05-09'
 link: https://www.imdb.com/title/tt0445620
-tags: []
+tags:
+- movies
 title: Paradise Now
 ---
 

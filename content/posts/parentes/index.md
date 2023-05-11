@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2021-09-25T21:15:21-03:00'
 tags:
 - cinemaqui
+- movies
 title: Parentes
 ---
 

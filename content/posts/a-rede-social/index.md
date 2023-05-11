@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-12-03'
 link: https://www.imdb.com/title/tt1285016
 tags:
 - mostra
+- movies
 title: A Rede Social
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-09-29'
 link: https://www.imdb.com/title/tt0367027
-tags: []
+tags:
+- movies
 title: Shortbus
 ---
 

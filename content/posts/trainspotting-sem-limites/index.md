@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-05-21'
 link: https://www.imdb.com/title/tt0117951
-tags: []
+tags:
+- movies
 title: 'Trainspotting: Sem Limites'
 ---
 

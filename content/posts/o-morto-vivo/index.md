@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-08-05'
 link: https://www.imdb.com/title/tt1336006
-tags: []
+tags:
+- movies
 title: O Morto Vivo
 ---
 

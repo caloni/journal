@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-06-17'
 link: https://www.imdb.com/title/tt0120601
-tags: []
+tags:
+- movies
 title: Quero Ser John Malkovich
 ---
 

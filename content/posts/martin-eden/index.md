@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-02-06'
 link: https://www.imdb.com/title/tt4516162
 tags:
 - cinemaqui
+- movies
 title: Martin Eden
 ---
 

@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-03-14'
 link: https://www.imdb.com/title/tt6428676
 tags:
 - cinemaqui
+- movies
 title: O Parque dos Sonhos
 ---
 

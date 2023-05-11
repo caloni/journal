@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-02-09'
 link: https://www.imdb.com/title/tt1979388
-tags: []
+tags:
+- movies
 title: O Bom Dinossauro
 ---
 

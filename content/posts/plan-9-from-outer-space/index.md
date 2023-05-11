@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-09-23'
 link: https://www.imdb.com/title/tt0052077
-tags: []
+tags:
+- movies
 title: Plano 9 do Espaço Sideral
 ---
 

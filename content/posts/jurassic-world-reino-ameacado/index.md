@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-06-25'
 link: https://www.imdb.com/title/tt4881806
-tags: []
+tags:
+- movies
 title: 'Jurassic World: Reino Ameaçado'
 ---
 

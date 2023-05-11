@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-12-21'
 link: https://www.imdb.com/title/tt1748122
-tags: []
+tags:
+- movies
 title: Moonrise Kingdom
 ---
 

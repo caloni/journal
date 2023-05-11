@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-07-31'
 link: https://www.imdb.com/title/tt2948472
-tags: []
+tags:
+- movies
 title: Coração de Leão
 ---
 

@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-11-07'
 link: https://www.imdb.com/title/tt5779372
 tags:
 - cinemaqui
+- movies
 title: Entrevista Com Deus
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-05-22'
 link: https://www.imdb.com/title/tt0071402
-tags: []
+tags:
+- movies
 title: Desejo de Matar (1974)
 ---
 

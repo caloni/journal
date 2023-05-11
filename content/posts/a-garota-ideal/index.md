@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-09-07'
 link: https://www.imdb.com/title/tt0805564
-tags: []
+tags:
+- movies
 title: A Garota Ideal
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-08-31'
 link: https://www.imdb.com/title/tt1318514
-tags: []
+tags:
+- movies
 title: 'Planeta dos Macacos: A Origem'
 ---
 

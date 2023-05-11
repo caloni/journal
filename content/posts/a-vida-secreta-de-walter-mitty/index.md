@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-12-26'
 link: https://www.imdb.com/title/tt0359950
-tags: []
+tags:
+- movies
 title: A Vida Secreta de Walter Mitty
 ---
 

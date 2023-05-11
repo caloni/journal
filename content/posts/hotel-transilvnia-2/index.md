@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-02-22'
 link: https://www.imdb.com/title/tt2510894
-tags: []
+tags:
+- movies
 title: Hotel Transilvânia 2
 ---
 

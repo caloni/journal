@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-12-30'
 link: https://www.imdb.com/title/tt0423294
-tags: []
+tags:
+- movies
 title: Tá Dando Onda
 ---
 

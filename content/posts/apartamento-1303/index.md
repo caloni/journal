@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-12-26'
 link: https://www.imdb.com/title/tt0841993
-tags: []
+tags:
+- movies
 title: Apartamento 1303
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-06-14'
 link: https://www.imdb.com/title/tt2582846
-tags: []
+tags:
+- movies
 title: A Culpa é das Estrelas
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-11-02'
 tags:
 - mostra
+- movies
 title: Então Morri
 ---
 

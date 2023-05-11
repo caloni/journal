@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-03-29'
 link: https://www.imdb.com/title/tt0837156
-tags: []
+tags:
+- movies
 title: Pee-wee's Big Holiday
 ---
 

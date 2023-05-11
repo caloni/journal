@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2022-10-09T17:56:31-03:00'
-tags: null
+tags:
+- movies
 title: Me Respeita que Sou Sua Mãe
 ---
 

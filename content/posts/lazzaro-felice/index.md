@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-12-18'
 link: https://www.imdb.com/title/tt6752992
-tags: []
+tags:
+- movies
 title: Lazzaro Felice
 ---
 

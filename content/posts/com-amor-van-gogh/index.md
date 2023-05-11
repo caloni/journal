@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-12-09'
 link: https://www.imdb.com/title/tt3262342
-tags: []
+tags:
+- movies
 title: Com Amor Van Gogh
 ---
 

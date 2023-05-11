@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2021-03-27'
 link: https://www.imdb.com/title/tt0265930
-tags: []
+tags:
+- movies
 title: O Último Beijo
 ---
 
