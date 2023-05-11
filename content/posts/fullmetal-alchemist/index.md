@@ -1,9 +1,10 @@
 ---
 categories:
-- animes
+- reviews
 date: '2021-05-04'
 link: https://www.imdb.com/title/tt0421357
-tags: []
+tags:
+- animes
 title: Fullmetal Alchemist (Hagane no renkinjutsushi)
 ---
 

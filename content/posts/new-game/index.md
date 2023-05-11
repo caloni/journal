@@ -1,9 +1,10 @@
 ---
 categories:
-- animes
+- reviews
 date: '2021-04-10'
 link: https://www.imdb.com/title/tt5862798
-tags: []
+tags:
+- animes
 title: New Game!
 ---
 

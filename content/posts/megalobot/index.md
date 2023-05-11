@@ -1,8 +1,9 @@
 ---
 categories:
-- animes
+- reviews
 date: '2021-10-15T22:07:12-03:00'
-tags: []
+tags:
+- animes
 title: Megalobot
 ---
 

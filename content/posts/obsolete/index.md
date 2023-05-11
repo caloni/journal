@@ -1,10 +1,11 @@
 ---
 categories:
 - series
-- animes
+- reviews
 date: '2021-03-13'
 link: https://www.imdb.com/title/tt11398800
-tags: []
+tags:
+- animes
 title: Obsolete
 ---
 

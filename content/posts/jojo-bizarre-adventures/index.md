@@ -1,9 +1,10 @@
 ---
 categories:
-- animes
+- reviews
 date: '2021-05-04'
 link: https://www.imdb.com/title/tt2359704
-tags: []
+tags:
+- animes
 title: JoJo's Bizarre Adventure (JoJo no kimyô-na bôken)
 ---
 

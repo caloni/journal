@@ -1,8 +1,9 @@
 ---
 categories:
-- animes
+- reviews
 date: '2021-11-01T22:34:43-03:00'
-tags: []
+tags:
+- animes
 title: Tawawa on Monday
 ---
 

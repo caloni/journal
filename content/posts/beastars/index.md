@@ -1,10 +1,11 @@
 ---
 categories:
 - series
-- animes
+- reviews
 date: '2020-03-22'
 link: https://www.imdb.com/title/tt11043632
-tags: []
+tags:
+- animes
 title: Beastars
 ---
 

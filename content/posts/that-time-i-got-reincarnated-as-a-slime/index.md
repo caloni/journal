@@ -1,9 +1,10 @@
 ---
 categories:
-- animes
+- reviews
 date: '2021-03-27'
 link: https://www.imdb.com/title/tt9054364
-tags: []
+tags:
+- animes
 title: That Time I Got Reincarnated as a Slime
 ---
 

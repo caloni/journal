@@ -1,8 +1,9 @@
 ---
 categories:
-- animes
+- reviews
 date: '2021-11-08T19:02:49-03:00'
-tags: []
+tags:
+- animes
 title: Komi Can't Communicate
 ---
 

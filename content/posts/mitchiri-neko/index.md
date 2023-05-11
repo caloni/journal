@@ -1,8 +1,9 @@
 ---
 categories:
-- animes
+- reviews
 date: '2021-08-08T21:35:55-03:00'
-tags: []
+tags:
+- animes
 title: Mitchiri Neko
 ---
 

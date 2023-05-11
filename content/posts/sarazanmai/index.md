@@ -1,8 +1,9 @@
 ---
 categories:
-- animes
+- reviews
 date: '2021-11-23T20:25:24-03:00'
-tags: []
+tags:
+- animes
 title: Sarazanmai
 ---
 

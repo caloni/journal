@@ -1,9 +1,10 @@
 ---
 categories:
-- animes
+- reviews
 date: '2021-05-15'
 link: https://www.imdb.com/title/tt11653472
-tags: []
+tags:
+- animes
 title: Neko Neko Nihonshi
 ---
 

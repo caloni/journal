@@ -1,8 +1,9 @@
 ---
 categories:
-- animes
+- reviews
 date: '2021-10-04T20:40:21-03:00'
-tags: []
+tags:
+- animes
 title: Uza Maid!
 ---
 

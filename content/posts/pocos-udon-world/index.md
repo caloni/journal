@@ -1,9 +1,10 @@
 ---
 categories:
-- animes
+- reviews
 date: '2021-05-22'
 link: https://www.crunchyroll.com/pt-br/pocos-udon-world
-tags: []
+tags:
+- animes
 title: Poco's Udon World
 ---
 

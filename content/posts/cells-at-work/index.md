@@ -1,10 +1,11 @@
 ---
 categories:
 - series
-- animes
+- reviews
 date: '2020-01-09'
 link: https://www.imdb.com/title/tt8673610
-tags: []
+tags:
+- animes
 title: Cells at Work!
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- animes
+- reviews
 date: '2021-04-25'
 link: https://www.imdb.com/title/tt13357124
-tags: []
+tags:
+- animes
 title: Gokushufudo (The Way of the Househusband)
 ---
 

@@ -1,8 +1,9 @@
 ---
 categories:
-- animes
+- reviews
 date: '2021-10-21T22:22:13-03:00'
-tags: []
+tags:
+- animes
 title: Blue Period
 ---
 

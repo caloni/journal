@@ -1,9 +1,10 @@
 ---
 categories:
-- animes
+- reviews
 date: '2021-02-15'
 link: https://www.imdb.com/title/tt9458304
-tags: []
+tags:
+- animes
 title: Dororo
 ---
 

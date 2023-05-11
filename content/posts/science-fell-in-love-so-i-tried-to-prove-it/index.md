@@ -1,9 +1,10 @@
 ---
 categories:
-- animes
+- reviews
 date: '2021-04-04'
 link: https://www.imdb.com/title/tt10635210
-tags: []
+tags:
+- animes
 title: Science Fell in Love, So I Tried to Prove It (Rikei ga Koi ni Ochita no de
   Shōmei Shite Mita)
 ---

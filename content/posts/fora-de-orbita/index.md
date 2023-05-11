@@ -1,8 +1,9 @@
 ---
 categories:
-- animes
+- reviews
 date: '2022-02-15T22:28:44-03:00'
-tags: []
+tags:
+- animes
 title: Fora de Órbita
 ---
 

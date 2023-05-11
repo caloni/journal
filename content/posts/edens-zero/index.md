@@ -1,8 +1,9 @@
 ---
 categories:
-- animes
+- reviews
 date: '2021-08-30T22:51:16-03:00'
-tags: []
+tags:
+- animes
 title: Edens Zero
 ---
 

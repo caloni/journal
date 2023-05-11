@@ -1,8 +1,9 @@
 ---
 categories:
-- animes
+- reviews
 date: '2022-07-24T14:16:45-03:00'
-tags: null
+tags:
+- animes
 title: Attack on Titan
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- animes
+- reviews
 date: '2020-10-04'
 link: https://www.crunchyroll.com/tsuredure-children
-tags: []
+tags:
+- animes
 title: Tsudedure Children
 ---
 

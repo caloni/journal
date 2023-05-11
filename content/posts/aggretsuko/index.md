@@ -1,10 +1,11 @@
 ---
 categories:
 - series
-- animes
+- reviews
 date: '2018-05-16'
 link: https://www.imdb.com/title/tt8019444
-tags: []
+tags:
+- animes
 title: Aggretsuko
 ---
 

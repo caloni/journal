@@ -1,9 +1,10 @@
 ---
 categories:
-- animes
+- reviews
 date: '2021-05-28'
 link: https://www.imdb.com/title/tt7351628
-tags: []
+tags:
+- animes
 title: Our Love Has Always Been 10 Centimeters Apart (Itsudatte Bokura no Koi wa 10
   Centi Datta)
 ---

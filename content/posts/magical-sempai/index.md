@@ -1,9 +1,10 @@
 ---
 categories:
-- animes
+- reviews
 date: '2020-10-13'
 link: https://www.crunchyroll.com/pt-pt/magical-sempai
-tags: []
+tags:
+- animes
 title: Magical Sempai
 ---
 

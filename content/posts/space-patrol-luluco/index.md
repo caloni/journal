@@ -1,9 +1,10 @@
 ---
 categories:
-- animes
+- reviews
 date: '2021-04-04'
 link: https://www.imdb.com/title/tt5446578
-tags: []
+tags:
+- animes
 title: Space Patrol Luluco (Uchuu Patrol Luluco)
 ---
 

@@ -1,10 +1,11 @@
 ---
 categories:
 - series
-- animes
+- reviews
 date: '2019-02-06'
 link: https://www.imdb.com/title/tt0107061
-tags: []
+tags:
+- animes
 title: Gunnm (aka Alita)
 ---
 

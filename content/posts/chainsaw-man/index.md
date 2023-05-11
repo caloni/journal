@@ -1,8 +1,9 @@
 ---
 categories:
-- animes
+- reviews
 date: '2022-12-10T15:38:49-03:00'
-tags: null
+tags:
+- animes
 title: Chainsaw Man
 ---
 

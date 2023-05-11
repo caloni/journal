@@ -1,10 +1,11 @@
 ---
 categories:
 - series
-- animes
+- reviews
 date: '2020-11-22'
 link: https://www.crunchyroll.com/pt-pt/how-to-keep-a-mummy
-tags: []
+tags:
+- animes
 title: How to Keep a Mummy
 ---
 

@@ -1,8 +1,9 @@
 ---
 categories:
-- animes
+- reviews
 date: '2021-11-13T15:41:24-03:00'
-tags: []
+tags:
+- animes
 title: Un-Go
 ---
 

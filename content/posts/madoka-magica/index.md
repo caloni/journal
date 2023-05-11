@@ -1,9 +1,10 @@
 ---
 categories:
-- animes
+- reviews
 date: '2014-04-14'
 link: https://www.imdb.com/title/tt1773185
-tags: []
+tags:
+- animes
 title: Madoka Magica
 ---
 
