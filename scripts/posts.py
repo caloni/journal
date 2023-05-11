@@ -17,7 +17,7 @@ def transform(operations, files):
         op(post, fname)
       post_str = frontmatter.dumps(post)
       f.close()
-      with open(fname, 'w', encoding='utf8') as f:
+      with open(fname, 'w', newline='\n', encoding='utf8') as f:
         f.write(post_str)
 
 
