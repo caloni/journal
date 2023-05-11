@@ -1,9 +1,10 @@
 ---
 categories:
-- chess
+- play
 date: '2023-01-12T21:21:37-03:00'
 link: https://www.chess.com/game/daily/321199162
-tags: null
+tags:
+- chess
 title: Tem um lance brilhante aqui e não imagino por quê
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- chess
+- play
 date: '2023-01-12T21:18:06-03:00'
 link: null
-tags: null
+tags:
+- chess
 title: Aquele sacrifício de bispo...
 ---
 

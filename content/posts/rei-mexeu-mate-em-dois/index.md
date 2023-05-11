@@ -1,8 +1,10 @@
 ---
 categories:
-- chess
+- play
 date: '2023-01-12T19:12:57-03:00'
 link: https://www.chess.com/game/live/67299625587
+tags:
+- chess
 title: 'Rei mexeu: mate em dois'
 ---
 

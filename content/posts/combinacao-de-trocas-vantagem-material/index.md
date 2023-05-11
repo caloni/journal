@@ -1,8 +1,10 @@
 ---
 categories:
-- chess
+- play
 date: '2023-02-03T20:21:34-03:00'
 link: https://www.chess.com/game/live/69204463183
+tags:
+- chess
 title: Reviravoltas e combinação de trocas com vantagem material
 ---
 

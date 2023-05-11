@@ -1,9 +1,10 @@
 ---
 categories:
-- chess
+- play
 date: '2023-01-13T20:28:05-03:00'
 link: https://www.chess.com/game/live/67389801737
-tags: null
+tags:
+- chess
 title: Ganho vantagem toda hora e não aproveito.
 ---
 

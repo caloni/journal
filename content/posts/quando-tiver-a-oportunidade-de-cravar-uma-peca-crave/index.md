@@ -1,8 +1,10 @@
 ---
 categories:
-- chess
+- play
 date: '2023-01-11T10:59:05-03:00'
 link: https://www.chess.com/game/live/67183278085
+tags:
+- chess
 title: Quando tiver a oportunidade de cravar uma peça... crave
 ---
 

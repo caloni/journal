@@ -1,9 +1,10 @@
 ---
 categories:
-- chess
+- play
 date: '2023-01-12T21:29:00-03:00'
 link: https://www.chess.com/game/daily/457716417
-tags: null
+tags:
+- chess
 title: Blunder em cima de blunder e final com um bispo
 ---
 

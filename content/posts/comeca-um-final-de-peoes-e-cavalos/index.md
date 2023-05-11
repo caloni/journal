@@ -1,9 +1,10 @@
 ---
 categories:
-- chess
+- play
 date: '2023-03-13T18:11:27-02:00'
 link: https://www.chess.com/game/daily/471866193
-tags: null
+tags:
+- chess
 title: Começa um final de peões e cavalos
 ---
 

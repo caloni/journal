@@ -1,10 +1,11 @@
 ---
 categories:
-- chess
+- play
 date: '2023-02-15T17:36:26-03:00'
 link: https://www.chess.com/game/live/70231398971
 tags:
 - english
+- chess
 title: King exposure is the key to victory
 ---
 

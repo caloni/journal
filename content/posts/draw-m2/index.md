@@ -1,10 +1,11 @@
 ---
 categories:
-- chess
+- play
 date: '2023-02-18T21:07:17-03:00'
 link: https://www.chess.com/game/live/70502605623
 tags:
 - english
+- chess
 title: Decided to draw a won game
 ---
 

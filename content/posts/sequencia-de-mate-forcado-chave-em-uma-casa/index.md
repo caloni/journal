@@ -1,8 +1,10 @@
 ---
 categories:
-- chess
+- play
 date: '2023-01-17T18:56:20-03:00'
 link: https://www.chess.com/game/live/67729990167
+tags:
+- chess
 title: Sequência de mate forçado onde a chave é o controle de uma casa
 ---
 

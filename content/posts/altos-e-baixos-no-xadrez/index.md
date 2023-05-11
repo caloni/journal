@@ -1,8 +1,10 @@
 ---
 categories:
-- chess
+- play
 date: '2023-02-09T18:19:16-03:00'
 link: https://www.chess.com/game/live/69647090925
+tags:
+- chess
 title: Altos e baixos em uma partida complexa
 ---
 

@@ -1,10 +1,11 @@
 ---
 categories:
-- chess
+- play
 date: '2023-03-04'
 link: https://www.chess.com/game/live/71688416247
 tags:
 - english
+- chess
 title: Miniature with hidden tactic
 ---
 

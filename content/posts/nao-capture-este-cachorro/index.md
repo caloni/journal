@@ -1,9 +1,10 @@
 ---
 categories:
-- chess
+- play
 date: '2023-04-05'
 link: https://www.chess.com/game/live/74370677677
-tags: null
+tags:
+- chess
 title: Não capture este cachorro
 ---
 

@@ -1,10 +1,11 @@
 ---
 categories:
-- chess
+- play
 date: '2023-02-24T16:22:48-03:00'
 link: https://www.chess.com/game/live/71004431307
 tags:
 - english
+- chess
 title: Keep the advantage in pawn and king final
 ---
 
