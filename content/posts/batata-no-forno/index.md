@@ -1,6 +1,6 @@
 ---
 categories:
-- recipes
+- cooking
 date: '2019-09-08'
 tags: []
 title: Batata no Forno

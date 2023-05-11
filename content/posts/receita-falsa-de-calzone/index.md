@@ -1,6 +1,6 @@
 ---
 categories:
-- recipes
+- cooking
 date: '2021-07-31T22:32:40-03:00'
 tags: []
 title: Receita falsa de Calzone

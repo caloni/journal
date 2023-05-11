@@ -1,6 +1,6 @@
 ---
 categories:
-- recipes
+- cooking
 date: '2022-06-04T12:50:05-03:00'
 tags: []
 title: Caldo Verde

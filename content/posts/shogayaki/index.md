@@ -1,6 +1,6 @@
 ---
 categories:
-- recipes
+- cooking
 date: '2023-03-05T11:09:57-02:00'
 tags: null
 title: Shogayaki

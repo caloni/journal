@@ -1,6 +1,6 @@
 ---
 categories:
-- recipes
+- cooking
 date: '2019-06-23'
 tags: []
 title: Pão de Queijo Mineiro

@@ -1,6 +1,6 @@
 ---
 categories:
-- recipes
+- cooking
 date: '2022-11-20T15:31:33-03:00'
 link: https://www.bbcgoodfood.com/recipes/perfect-scrambled-eggs-recipe
 tags: null

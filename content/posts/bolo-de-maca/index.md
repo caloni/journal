@@ -1,6 +1,6 @@
 ---
 categories:
-- recipes
+- cooking
 date: '2022-06-04T12:50:19-03:00'
 tags: []
 title: Bolo de Maçã

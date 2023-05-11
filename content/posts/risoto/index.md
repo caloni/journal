@@ -1,6 +1,6 @@
 ---
 categories:
-- recipes
+- cooking
 date: '2021-09-28T21:09:43-03:00'
 tags: []
 title: Risoto

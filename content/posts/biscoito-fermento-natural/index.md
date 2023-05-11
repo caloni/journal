@@ -1,6 +1,6 @@
 ---
 categories:
-- recipes
+- cooking
 date: '2020-12-06'
 link: https://www.kingarthurbaking.com/recipes/sourdough-crackers-recipe
 tags: []

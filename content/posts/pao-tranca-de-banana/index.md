@@ -1,6 +1,6 @@
 ---
 categories:
-- recipes
+- cooking
 date: '2023-03-05'
 tags: []
 title: Fiz Trança de Banana

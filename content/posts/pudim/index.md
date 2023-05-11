@@ -1,6 +1,6 @@
 ---
 categories:
-- recipes
+- cooking
 date: '2022-01-22T23:45:28-03:00'
 tags: []
 title: Pudim

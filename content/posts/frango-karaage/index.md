@@ -1,6 +1,6 @@
 ---
 categories:
-- recipes
+- cooking
 date: '2023-03-14T17:18:08-02:00'
 link: https://youtu.be/TEZpsg_KtXc
 tags: null

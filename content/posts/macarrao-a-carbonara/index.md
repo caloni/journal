@@ -1,7 +1,7 @@
 ---
 categories:
-- recipes
 - reviews
+- cooking
 date: '2020-04-05'
 tags:
 - food

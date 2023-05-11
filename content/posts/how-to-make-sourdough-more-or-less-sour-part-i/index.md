@@ -1,6 +1,6 @@
 ---
 categories:
-- recipes
+- cooking
 date: '2019-12-26'
 tags: []
 title: How to Make Sourdough More or Less Sour Part I

@@ -1,6 +1,6 @@
 ---
 categories:
-- recipes
+- cooking
 date: '2019-12-11'
 tags: null
 title: Panetone

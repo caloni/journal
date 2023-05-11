@@ -1,6 +1,6 @@
 ---
 categories:
-- recipes
+- cooking
 date: '2021-06-06'
 link: https://www.youtube.com/c/vitoiacopelli
 repost: '2023-04-21'

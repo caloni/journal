@@ -1,6 +1,6 @@
 ---
 categories:
-- recipes
+- cooking
 date: '2019-09-08'
 repost: '2023-04-24'
 tags: []

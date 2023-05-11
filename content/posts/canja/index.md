@@ -1,6 +1,6 @@
 ---
 categories:
-- recipes
+- cooking
 date: '2022-06-11T20:59:21-03:00'
 tags: []
 title: Canja

@@ -1,6 +1,6 @@
 ---
 categories:
-- recipes
+- cooking
 date: '2020-12-12'
 link: https://www.kingarthurbaking.com/recipes/buttery-sourdough-sandwich-biscuits-recipe
 tags: []

@@ -1,7 +1,7 @@
 ---
 categories:
-- recipes
 - reviews
+- cooking
 date: '2017-05-30'
 tags:
 - food

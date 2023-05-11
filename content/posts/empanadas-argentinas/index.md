@@ -1,6 +1,6 @@
 ---
 categories:
-- recipes
+- cooking
 date: '2019-01-07'
 repost: '2023-04-04'
 title: Empanadas Argentinas

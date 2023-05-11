@@ -1,6 +1,6 @@
 ---
 categories:
-- recipes
+- cooking
 date: '2022-05-14T20:40:20-03:00'
 tags: []
 title: Bolo de Chocolate Fofo
