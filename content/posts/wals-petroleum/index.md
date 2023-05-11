@@ -1,8 +1,9 @@
 ---
 categories:
-- beer
+- reviews
 date: '2018-04-06'
-tags: []
+tags:
+- beer
 title: Wäls Petroleum
 ---
 

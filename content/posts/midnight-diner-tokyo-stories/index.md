@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2016-10-23'
 link: https://www.imdb.com/title/tt3958276
-tags: []
+tags:
+- series
 title: 'Midnight Diner: Tokyo Stories'
 ---
 

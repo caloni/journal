@@ -1,8 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2017-07-02'
-tags: []
+tags:
+- food
 title: Colcha y Toro Cabernet
 ---
 

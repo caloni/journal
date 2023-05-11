@@ -1,8 +1,9 @@
 ---
 categories:
-- beer
+- reviews
 date: '2018-03-16'
-tags: []
+tags:
+- beer
 title: Schornstein Witbier
 ---
 

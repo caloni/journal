@@ -1,8 +1,9 @@
 ---
 categories:
-- series
+- reviews
 date: '2022-10-13T23:06:51-03:00'
-tags: null
+tags:
+- series
 title: O Curioso Mundo de James
 ---
 

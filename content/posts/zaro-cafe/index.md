@@ -1,8 +1,9 @@
 ---
 categories:
-- coffee
+- reviews
 date: '2022-01-11T18:40:00-03:00'
-tags: []
+tags:
+- coffee
 title: Zaro Café
 ---
 

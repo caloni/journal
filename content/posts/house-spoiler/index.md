@@ -1,8 +1,9 @@
 ---
 categories:
-- series
+- reviews
 date: '2022-08-08T20:30:13-03:00'
-tags: null
+tags:
+- series
 title: House Spoiler
 ---
 

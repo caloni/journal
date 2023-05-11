@@ -1,8 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2017-09-11'
-tags: []
+tags:
+- food
 title: Fazenda Mira Flor Restinga SP Alta Mogiana Grão Gourmet
 ---
 

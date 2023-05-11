@@ -1,8 +1,9 @@
 ---
 categories:
-- series
+- reviews
 date: '2023-03-03T10:09:58-02:00'
-tags: null
+tags:
+- series
 title: Falta pimenta no Modern Love Amsterdã
 ---
 

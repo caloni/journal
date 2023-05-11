@@ -1,9 +1,10 @@
 ---
 categories:
-- wine
+- reviews
 date: '2021-05-22'
 link: https://www.vivino.com/wineries/etchart
-tags: []
+tags:
+- wine
 title: Etchart
 ---
 

@@ -1,8 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2017-05-17'
-tags: []
+tags:
+- food
 title: Nanni Reserve Tannat 2015
 ---
 

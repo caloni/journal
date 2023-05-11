@@ -1,8 +1,9 @@
 ---
 categories:
-- beer
+- reviews
 date: '2015-01-04'
-tags: []
+tags:
+- beer
 title: Ouro Pretana Pale Ale
 ---
 

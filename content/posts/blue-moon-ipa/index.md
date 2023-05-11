@@ -1,8 +1,9 @@
 ---
 categories:
-- beer
+- reviews
 date: '2018-11-23'
-tags: []
+tags:
+- beer
 title: Blue Moon IPA
 ---
 

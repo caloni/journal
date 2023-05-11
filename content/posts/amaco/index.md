@@ -1,8 +1,9 @@
 ---
 categories:
-- wine
+- reviews
 date: '2022-10-12T17:57:11-03:00'
-tags: null
+tags:
+- wine
 title: Amaco
 ---
 

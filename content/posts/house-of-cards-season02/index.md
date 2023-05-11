@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2016-03-13T20:20:00-03:00'
 link: https://www.imdb.com/title/tt1856010
-tags: []
+tags:
+- series
 title: House of Cards - Segunda Temporada
 ---
 

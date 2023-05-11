@@ -1,11 +1,11 @@
 ---
 categories:
-- series
 - reviews
 date: '2020-10-13'
 link: https://www.crunchyroll.com/pt-pt/miss-kobayashis-dragon-maid
 tags:
 - animes
+- series
 title: Miss Kobayashi's Dragon Maid
 ---
 

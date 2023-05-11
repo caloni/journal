@@ -1,8 +1,9 @@
 ---
 categories:
-- wine
+- reviews
 date: '2018-11-10'
-tags: []
+tags:
+- wine
 title: Casillero del Diablo
 ---
 

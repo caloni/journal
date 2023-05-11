@@ -1,8 +1,9 @@
 ---
 categories:
-- beer
+- reviews
 date: '2022-03-06T21:16:17-03:00'
-tags: []
+tags:
+- beer
 title: Black Princess
 ---
 

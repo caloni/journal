@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2020-11-22'
 link: https://www.imdb.com/title/tt1664529
-tags: []
+tags:
+- series
 title: 'Sherlock: The Blind Banker'
 ---
 

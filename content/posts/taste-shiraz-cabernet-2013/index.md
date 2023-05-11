@@ -1,8 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2016-03-07'
-tags: []
+tags:
+- food
 title: Taste Shiraz Cabernet 2013
 ---
 

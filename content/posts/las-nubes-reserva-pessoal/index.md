@@ -1,7 +1,9 @@
 ---
 categories:
-- wine
+- reviews
 date: '2023-02-14T20:29:06-03:00'
+tags:
+- wine
 title: Las Nubes Reserva Personal
 ---
 

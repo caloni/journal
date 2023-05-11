@@ -1,8 +1,9 @@
 ---
 categories:
-- beer
+- reviews
 date: '2019-05-30'
-tags: []
+tags:
+- beer
 title: Goose Midway Session IPA
 ---
 

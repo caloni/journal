@@ -1,11 +1,11 @@
 ---
 categories:
-- series
 - reviews
 date: '2016-10-23'
 link: https://www.imdb.com/title/tt1097194
 tags:
 - animes
+- series
 title: Ghost Hound
 ---
 

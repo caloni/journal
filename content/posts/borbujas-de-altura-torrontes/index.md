@@ -1,8 +1,9 @@
 ---
 categories:
-- wine
+- reviews
 date: '2022-11-07T22:16:11-03:00'
-tags: null
+tags:
+- wine
 title: Borbujas de Altura Torrontés
 ---
 

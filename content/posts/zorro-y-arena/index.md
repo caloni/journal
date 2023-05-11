@@ -1,8 +1,9 @@
 ---
 categories:
-- wine
+- reviews
 date: '2019-05-11'
-tags: []
+tags:
+- wine
 title: Zorro Y Arena
 ---
 

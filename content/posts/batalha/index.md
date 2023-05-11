@@ -1,9 +1,10 @@
 ---
 categories:
-- wine
+- reviews
 date: '2020-06-07'
 link: http://vinhosbatalha.com.br/
-tags: []
+tags:
+- wine
 title: Batalha
 ---
 

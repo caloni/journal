@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2020-08-19'
 link: https://www.imdb.com/title/tt0182616
-tags: []
+tags:
+- series
 title: 'Jaspion: mais profundo que Star Wars'
 ---
 

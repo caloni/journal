@@ -1,7 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2023-01-31T23:07:17-03:00'
+tags:
+- food
 title: Tempero da Ângela (Bichinhos)
 ---
 

@@ -1,8 +1,9 @@
 ---
 categories:
-- beer
+- reviews
 date: '2018-10-28'
-tags: []
+tags:
+- beer
 title: Colorado Okto Session
 ---
 

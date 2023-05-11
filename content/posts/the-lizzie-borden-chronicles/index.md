@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2016-05-20'
 link: https://www.imdb.com/title/tt4145760
-tags: []
+tags:
+- series
 title: The Lizzie Borden Chronicles (piloto)
 ---
 

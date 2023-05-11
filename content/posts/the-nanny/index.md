@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2020-07-15'
 link: https://www.imdb.com/title/tt0106080
-tags: []
+tags:
+- series
 title: The Nanny
 ---
 

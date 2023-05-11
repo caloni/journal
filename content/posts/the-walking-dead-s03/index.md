@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2013-04-03'
 link: https://www.imdb.com/title/tt1520211
-tags: []
+tags:
+- series
 title: The Walking Dead - Terceira Temporada
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2018-03-18'
 link: https://www.imdb.com/title/tt0500140
-tags: []
+tags:
+- series
 title: Jerry Seinfeld - I'm Telling You For The Last Time
 ---
 

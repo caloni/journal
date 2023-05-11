@@ -1,8 +1,9 @@
 ---
 categories:
-- wine
+- reviews
 date: '2022-11-21T20:12:21-03:00'
-tags: null
+tags:
+- wine
 title: Château Charlieu Bordeaux 2020
 ---
 

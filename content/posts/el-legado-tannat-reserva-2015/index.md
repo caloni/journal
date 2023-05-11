@@ -1,8 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2016-11-13'
-tags: []
+tags:
+- food
 title: El Legado Tannat Reserva 2015
 ---
 

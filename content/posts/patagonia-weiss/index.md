@@ -1,8 +1,9 @@
 ---
 categories:
-- beer
+- reviews
 date: '2017-01-05'
-tags: []
+tags:
+- beer
 title: Patagonia Weiss
 ---
 

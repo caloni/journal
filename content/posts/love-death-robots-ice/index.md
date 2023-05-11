@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2021-05-22'
 link: https://www.imdb.com/title/tt14536106/
-tags: []
+tags:
+- series
 title: 'Love, Death & Robots: Ice'
 ---
 

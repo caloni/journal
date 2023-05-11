@@ -1,8 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2016-12-16'
-tags: []
+tags:
+- food
 title: Alamos Catena Zapata Malbec 2015
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2018-12-08'
 link: https://www.imdb.com/title/tt7255502
-tags: []
+tags:
+- series
 title: O Método Kominsky
 ---
 

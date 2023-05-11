@@ -1,8 +1,9 @@
 ---
 categories:
-- wine
+- reviews
 date: '2022-07-26T22:00:02-03:00'
-tags: null
+tags:
+- wine
 title: Achaval Ferrer Malbec
 ---
 

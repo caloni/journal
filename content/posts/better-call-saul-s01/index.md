@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2016-04-22T20:10:00-03:00'
 link: https://www.imdb.com/title/tt3032476
-tags: []
+tags:
+- series
 title: Better Call Saul - Primeira Temporada
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2019-12-11'
 link: https://www.imdb.com/title/tt7366338
-tags: []
+tags:
+- series
 title: Chernobyl
 ---
 

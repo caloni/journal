@@ -1,8 +1,9 @@
 ---
 categories:
-- coffee
+- reviews
 date: '2021-06-22T23:11:00-03:00'
-tags: []
+tags:
+- coffee
 title: The Coffee Curt Hering em Blumenau
 ---
 

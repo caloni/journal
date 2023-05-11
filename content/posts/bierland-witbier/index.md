@@ -1,8 +1,9 @@
 ---
 categories:
-- beer
+- reviews
 date: '2018-08-06'
-tags: []
+tags:
+- beer
 title: Bierland Witbier
 ---
 

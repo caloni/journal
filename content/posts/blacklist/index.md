@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2016-05-20'
 link: https://www.imdb.com/title/tt2741602
-tags: []
+tags:
+- series
 title: Blacklist (piloto)
 ---
 

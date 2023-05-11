@@ -1,8 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2022-11-11T19:47:38-03:00'
-tags: null
+tags:
+- food
 title: Soju Jinro Uva Verde
 ---
 

@@ -1,8 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2017-06-25'
-tags: []
+tags:
+- food
 title: El Legado Syrah Reserva 2015
 ---
 

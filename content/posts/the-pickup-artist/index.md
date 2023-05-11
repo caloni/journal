@@ -1,8 +1,9 @@
 ---
 categories:
-- series
+- reviews
 date: '2022-07-12T20:54:53-03:00'
-tags: null
+tags:
+- series
 title: The Pickup Artist
 ---
 

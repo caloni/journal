@@ -1,8 +1,9 @@
 ---
 categories:
-- wine
+- reviews
 date: '2020-10-11'
-tags: []
+tags:
+- wine
 title: Bota Velha
 ---
 

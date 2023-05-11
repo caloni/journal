@@ -1,7 +1,9 @@
 ---
 categories:
-- series
+- reviews
 date: '2023-03-20'
+tags:
+- series
 title: Além da Imaginação (The Twilight Zone)
 ---
 

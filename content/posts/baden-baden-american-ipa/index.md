@@ -1,8 +1,9 @@
 ---
 categories:
-- beer
+- reviews
 date: '2017-06-01'
-tags: []
+tags:
+- beer
 title: Baden Baden American IPA
 ---
 

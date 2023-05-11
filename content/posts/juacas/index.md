@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2017-05-18'
 tags:
 - cinemaqui
+- series
 title: Juacas
 ---
 

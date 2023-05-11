@@ -1,8 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2018-05-16'
-tags: []
+tags:
+- food
 title: François Labet Pinot Noir 2016
 ---
 

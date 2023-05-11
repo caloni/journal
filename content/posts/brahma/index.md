@@ -1,8 +1,9 @@
 ---
 categories:
-- beer
+- reviews
 date: '2015-07-17'
-tags: []
+tags:
+- beer
 title: Brahma
 ---
 

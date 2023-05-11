@@ -1,8 +1,9 @@
 ---
 categories:
-- beer
+- reviews
 date: '2015-11-09'
-tags: []
+tags:
+- beer
 title: Caá Yari
 ---
 

@@ -1,8 +1,9 @@
 ---
 categories:
-- beer
+- reviews
 date: '2017-08-07'
-tags: []
+tags:
+- beer
 title: Hacker-Pschorr Munich Gold
 ---
 

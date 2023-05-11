@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2018-02-27'
 link: https://www.imdb.com/title/tt6468322
-tags: []
+tags:
+- series
 title: La Casa De Papel
 ---
 

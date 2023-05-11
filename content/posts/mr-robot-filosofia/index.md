@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2017-08-28'
 link: https://www.imdb.com/title/tt4158110
-tags: []
+tags:
+- series
 title: Filosofia De Mr Robot
 ---
 

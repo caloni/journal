@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2017-04-16'
 link: https://www.imdb.com/title/tt6304676
-tags: []
+tags:
+- series
 title: Samurai Gourmet
 ---
 

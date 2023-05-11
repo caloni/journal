@@ -1,7 +1,9 @@
 ---
 categories:
-- wine
+- reviews
 date: '2023-01-02T22:56:54-03:00'
+tags:
+- wine
 title: Miguel Mas Duc Blanc
 ---
 

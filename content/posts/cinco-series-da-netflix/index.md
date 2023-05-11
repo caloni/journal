@@ -1,8 +1,9 @@
 ---
 categories:
-- series
+- reviews
 date: '2019-07-27'
-tags: []
+tags:
+- series
 title: Cinco Séries da Netflix
 ---
 

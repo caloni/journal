@@ -1,8 +1,9 @@
 ---
 categories:
-- wine
+- reviews
 date: '2019-04-29'
-tags: []
+tags:
+- wine
 title: Humberto Canale
 ---
 

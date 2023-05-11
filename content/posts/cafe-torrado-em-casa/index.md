@@ -1,8 +1,9 @@
 ---
 categories:
-- coffee
+- reviews
 date: '2022-02-15T22:29:13-03:00'
-tags: []
+tags:
+- coffee
 title: Café Verde Torrado em Casa
 ---
 

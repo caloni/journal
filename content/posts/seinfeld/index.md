@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2020-09-29'
 link: https://www.imdb.com/title/tt0098904
-tags: []
+tags:
+- series
 title: Seinfeld
 ---
 

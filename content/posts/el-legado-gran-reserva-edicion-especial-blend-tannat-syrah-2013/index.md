@@ -1,8 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2016-11-13'
-tags: []
+tags:
+- food
 title: El Legado Gran Reserva Edicion Especial Blend Tannat Syrah 2013
 ---
 

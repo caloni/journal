@@ -1,8 +1,9 @@
 ---
 categories:
-- beer
+- reviews
 date: '2018-03-10'
-tags: []
+tags:
+- beer
 title: Madalena Double IPA
 ---
 

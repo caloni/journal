@@ -1,8 +1,9 @@
 ---
 categories:
-- beer
+- reviews
 date: '2015-07-10'
-tags: []
+tags:
+- beer
 title: Serra Malte
 ---
 

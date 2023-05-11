@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2018-11-17'
 link: https://www.imdb.com/title/tt8912244
-tags: []
+tags:
+- series
 title: Super Drags
 ---
 

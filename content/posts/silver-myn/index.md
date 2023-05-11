@@ -1,9 +1,10 @@
 ---
 categories:
-- wine
+- reviews
 date: '2020-08-04'
 link: https://vinhos.sociedadedamesa.com.br/silver-myn-2016-10afrsm1806002/p
-tags: []
+tags:
+- wine
 title: Silver Myn
 ---
 

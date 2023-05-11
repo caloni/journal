@@ -1,8 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2017-06-07'
-tags: []
+tags:
+- food
 title: Chevalier Laubrac
 ---
 

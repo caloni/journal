@@ -1,8 +1,9 @@
 ---
 categories:
-- wine
+- reviews
 date: '2022-07-12T20:47:02-03:00'
-tags: null
+tags:
+- wine
 title: Vinho romeno
 ---
 

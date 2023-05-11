@@ -1,8 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2019-06-19'
-tags: []
+tags:
+- food
 title: Góes Tempos Cabernet Sauvignon
 ---
 

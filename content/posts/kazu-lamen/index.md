@@ -1,8 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2023-04-24'
-tags: null
+tags:
+- food
 title: Kazu Lámen
 ---
 

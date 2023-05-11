@@ -1,8 +1,9 @@
 ---
 categories:
-- wine
+- reviews
 date: '2022-07-26T21:58:17-03:00'
-tags: null
+tags:
+- wine
 title: F (Negro Amaro)
 ---
 

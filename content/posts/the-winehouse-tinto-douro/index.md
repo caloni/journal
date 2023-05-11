@@ -1,8 +1,9 @@
 ---
 categories:
-- wine
+- reviews
 date: '2018-06-25'
-tags: []
+tags:
+- wine
 title: The WineHouse Tinto Douro
 ---
 

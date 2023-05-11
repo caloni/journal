@@ -1,8 +1,9 @@
 ---
 categories:
-- beer
+- reviews
 date: '2021-12-05T21:30:21-03:00'
-tags: []
+tags:
+- beer
 title: Scarpas Pilsen
 ---
 

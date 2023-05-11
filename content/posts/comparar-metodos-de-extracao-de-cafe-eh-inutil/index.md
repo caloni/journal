@@ -1,8 +1,9 @@
 ---
 categories:
-- coffee
+- reviews
 date: '2021-11-01T22:36:28-03:00'
-tags: []
+tags:
+- coffee
 title: Comparar métodos de extração de café é inútil
 ---
 

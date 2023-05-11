@@ -1,8 +1,9 @@
 ---
 categories:
-- wine
+- reviews
 date: '2021-11-16T21:36:48-03:00'
-tags: []
+tags:
+- wine
 title: Ancyra
 ---
 

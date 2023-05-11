@@ -1,8 +1,9 @@
 ---
 categories:
-- wine
+- reviews
 date: '2019-04-28'
-tags: []
+tags:
+- wine
 title: Aniello 006
 ---
 

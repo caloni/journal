@@ -1,8 +1,9 @@
 ---
 categories:
-- wine
+- reviews
 date: '2019-05-01'
-tags: []
+tags:
+- wine
 title: Miolo
 ---
 

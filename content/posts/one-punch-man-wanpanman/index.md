@@ -1,11 +1,11 @@
 ---
 categories:
-- series
 - reviews
 date: '2017-01-17'
 link: https://www.imdb.com/title/tt4508902
 tags:
 - animes
+- series
 title: 'One Punch Man: Wanpanman'
 ---
 

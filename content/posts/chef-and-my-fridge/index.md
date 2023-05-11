@@ -1,8 +1,9 @@
 ---
 categories:
-- series
+- reviews
 date: '2017-08-25'
-tags: []
+tags:
+- series
 title: Chef & My Fridge
 ---
 

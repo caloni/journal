@@ -1,8 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2016-05-07'
-tags: []
+tags:
+- food
 title: Magnesia Kalecik Karasi
 ---
 

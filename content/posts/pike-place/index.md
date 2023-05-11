@@ -1,8 +1,9 @@
 ---
 categories:
-- coffee
+- reviews
 date: '2022-08-09T20:53:50-03:00'
-tags: null
+tags:
+- coffee
 title: Pike Place
 ---
 

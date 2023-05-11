@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2020-10-04'
 link: https://www.imdb.com/title/tt7259746
-tags: []
+tags:
+- series
 title: Queer Eye
 ---
 

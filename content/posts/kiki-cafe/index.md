@@ -1,8 +1,9 @@
 ---
 categories:
-- coffee
+- reviews
 date: '2022-11-21T20:12:39-03:00'
-tags: null
+tags:
+- coffee
 title: Kiki Café
 ---
 

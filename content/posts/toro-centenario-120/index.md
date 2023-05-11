@@ -1,8 +1,9 @@
 ---
 categories:
-- wine
+- reviews
 date: '2021-12-05T21:31:05-03:00'
-tags: []
+tags:
+- wine
 title: Toro Centenário 120
 ---
 

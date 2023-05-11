@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2018-01-19'
 link: https://www.imdb.com/title/tt4047038
-tags: []
+tags:
+- series
 title: Dirk Gently's - Segunda Temporada
 ---
 

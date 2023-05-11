@@ -1,8 +1,9 @@
 ---
 categories:
-- beer
+- reviews
 date: '2018-07-07'
-tags: []
+tags:
+- beer
 title: Colorado Eugênia
 ---
 

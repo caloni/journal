@@ -1,9 +1,10 @@
 ---
 categories:
-- wine
+- reviews
 date: '2020-10-04'
 link: https://www.montrubi.com/radical
-tags: []
+tags:
+- wine
 title: Gaintus Radical
 ---
 

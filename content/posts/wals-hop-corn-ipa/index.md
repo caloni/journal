@@ -1,8 +1,9 @@
 ---
 categories:
-- beer
+- reviews
 date: '2017-07-20'
-tags: []
+tags:
+- beer
 title: Wäls Hop Corn IPA
 ---
 

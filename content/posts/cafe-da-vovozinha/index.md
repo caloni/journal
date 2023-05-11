@@ -1,8 +1,9 @@
 ---
 categories:
-- coffee
+- reviews
 date: '2022-08-24T21:02:48-03:00'
-tags: null
+tags:
+- coffee
 title: Café da Vovozinha
 ---
 

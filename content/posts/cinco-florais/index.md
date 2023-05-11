@@ -1,8 +1,9 @@
 ---
 categories:
-- wine
+- reviews
 date: '2022-08-09T20:54:05-03:00'
-tags: null
+tags:
+- wine
 title: Cinco Florais
 ---
 

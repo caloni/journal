@@ -1,8 +1,9 @@
 ---
 categories:
-- wine
+- reviews
 date: 2023-03-20
-tags: null
+tags:
+- wine
 title: Pyros Appellation Syrah 2019
 ---
 

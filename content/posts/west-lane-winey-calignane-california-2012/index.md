@@ -1,8 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2017-03-28'
-tags: []
+tags:
+- food
 title: West Lane Winey Calignane California 2012
 ---
 

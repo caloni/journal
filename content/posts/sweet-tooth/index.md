@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2021-06-12'
 link: 'null'
-tags: []
+tags:
+- series
 title: Sweet Tooth
 ---
 

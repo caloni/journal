@@ -1,8 +1,9 @@
 ---
 categories:
-- beer
+- reviews
 date: '2018-01-08'
-tags: []
+tags:
+- beer
 title: Ouropretana Pale Ale
 ---
 

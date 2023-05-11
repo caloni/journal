@@ -1,9 +1,10 @@
 ---
 categories:
-- coffee
 - recipes
+- reviews
 date: '2021-03-14'
-tags: []
+tags:
+- coffee
 title: Como Fazer Café
 ---
 

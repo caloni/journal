@@ -1,8 +1,9 @@
 ---
 categories:
-- beer
+- reviews
 date: '2020-11-08'
-tags: []
+tags:
+- beer
 title: Skol Puro Malte
 ---
 

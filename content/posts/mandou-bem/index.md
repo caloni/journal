@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2018-07-01'
 link: https://www.imdb.com/title/tt6987788
-tags: []
+tags:
+- series
 title: Mandou Bem
 ---
 

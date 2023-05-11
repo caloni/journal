@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2018-12-16'
 link: https://www.imdb.com/title/tt8205180
-tags: []
+tags:
+- series
 title: 'Christiane Amanpour: Sex and Love Around the World'
 ---
 

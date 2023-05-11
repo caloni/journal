@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2018-07-04'
 link: https://www.imdb.com/title/tt3781836
-tags: []
+tags:
+- series
 title: Botched
 ---
 

@@ -1,8 +1,9 @@
 ---
 categories:
-- wine
+- reviews
 date: '2022-12-05T23:54:09-03:00'
-tags: null
+tags:
+- wine
 title: Los 5 Salvador Figueroa
 ---
 

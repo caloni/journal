@@ -1,8 +1,9 @@
 ---
 categories:
-- wine
+- reviews
 date: '2014-12-21'
-tags: []
+tags:
+- wine
 title: Concha Y Toro
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- coffee
+- reviews
 date: '2020-09-29'
 link: http://kayna.com.br/cafe/
-tags: []
+tags:
+- coffee
 title: Kaynã
 ---
 

@@ -1,8 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2017-12-20'
-tags: []
+tags:
+- food
 title: The 7th Generation Carmenere Wine of Chile 2013
 ---
 

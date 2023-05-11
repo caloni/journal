@@ -1,8 +1,9 @@
 ---
 categories:
-- beer
+- reviews
 date: '2019-01-04'
-tags: []
+tags:
+- beer
 title: Colorado ICI 02 French IPA
 ---
 

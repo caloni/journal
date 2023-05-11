@@ -1,8 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2018-06-25'
-tags: []
+tags:
+- food
 title: Café Grão Gourmet de Mantiqueira de Minas
 ---
 

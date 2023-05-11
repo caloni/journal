@@ -1,8 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2017-05-09'
-tags: []
+tags:
+- food
 title: El Transito Pietro Marini Roble Cabernet Sauvignon-Syrah
 ---
 

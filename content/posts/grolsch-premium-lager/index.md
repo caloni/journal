@@ -1,8 +1,9 @@
 ---
 categories:
-- beer
+- reviews
 date: '2018-06-20'
-tags: []
+tags:
+- beer
 title: Grolsch Premium Lager
 ---
 

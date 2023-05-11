@@ -1,8 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2022-10-09T17:54:55-03:00'
-tags: null
+tags:
+- food
 title: Retoño Restaurant de Bodega Nanni (Cafayate)
 ---
 

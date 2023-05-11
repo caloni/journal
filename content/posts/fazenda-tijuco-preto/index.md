@@ -1,8 +1,9 @@
 ---
 categories:
-- coffee
+- reviews
 date: '2020-12-09'
-tags: []
+tags:
+- coffee
 title: Fazenda Tijuco Preto
 ---
 

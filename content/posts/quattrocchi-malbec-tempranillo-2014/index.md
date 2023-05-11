@@ -1,8 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2017-10-03'
-tags: []
+tags:
+- food
 title: Quattrocchi Malbec Tempranillo 2014
 ---
 

@@ -1,8 +1,9 @@
 ---
 categories:
-- beer
+- reviews
 date: '2015-09-24'
-tags: []
+tags:
+- beer
 title: Hoegaarden trigada
 ---
 

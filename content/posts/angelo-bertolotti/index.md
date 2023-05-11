@@ -1,8 +1,9 @@
 ---
 categories:
-- beer
+- reviews
 date: '2022-01-14T22:34:32-03:00'
-tags: []
+tags:
+- beer
 title: Ângelo Bertolotti
 ---
 

@@ -1,8 +1,9 @@
 ---
 categories:
-- wine
+- reviews
 date: '2018-07-01'
-tags: []
+tags:
+- wine
 title: Trassoles
 ---
 

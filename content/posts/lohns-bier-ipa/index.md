@@ -1,8 +1,9 @@
 ---
 categories:
-- beer
+- reviews
 date: '2017-03-21'
-tags: []
+tags:
+- beer
 title: Lohns Bier IPA
 ---
 

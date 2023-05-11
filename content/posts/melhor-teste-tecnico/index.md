@@ -1,10 +1,11 @@
 ---
 categories:
 - blog
-- series
 - code
+- reviews
 date: '2023-03-26T12:47:27-02:00'
-tags: null
+tags:
+- series
 title: O melhor teste técnico até agora
 ---
 

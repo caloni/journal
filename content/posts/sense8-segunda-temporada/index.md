@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2017-07-01'
 link: https://www.imdb.com/title/tt2431438
-tags: []
+tags:
+- series
 title: Sense8 - Segunda Temporada
 ---
 

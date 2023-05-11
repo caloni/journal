@@ -1,8 +1,9 @@
 ---
 categories:
-- wine
+- reviews
 date: '2022-05-12T22:37:13-03:00'
-tags: []
+tags:
+- wine
 title: Zuccolo
 ---
 

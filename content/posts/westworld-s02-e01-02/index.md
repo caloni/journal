@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2018-12-30T19:20:00-03:00'
 link: https://www.imdb.com/title/tt0475784
-tags: []
+tags:
+- series
 title: Westworld S02 E01-02
 ---
 

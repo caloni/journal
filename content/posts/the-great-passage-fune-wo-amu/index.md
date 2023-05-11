@@ -1,11 +1,11 @@
 ---
 categories:
-- series
 - reviews
 date: '2021-02-19'
 link: https://www.imdb.com/title/tt6142628
 tags:
 - animes
+- series
 title: The Great Passage (Fune Wo Amu)
 ---
 

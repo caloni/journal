@@ -1,8 +1,9 @@
 ---
 categories:
-- beer
+- reviews
 date: '2018-09-22'
-tags: []
+tags:
+- beer
 title: Kairós Sol Poente
 ---
 

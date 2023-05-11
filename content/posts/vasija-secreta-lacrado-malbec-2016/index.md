@@ -1,8 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2017-05-22'
-tags: []
+tags:
+- food
 title: Vasija Secreta Lacrado Malbec 2016
 ---
 

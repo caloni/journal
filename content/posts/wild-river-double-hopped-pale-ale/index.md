@@ -1,8 +1,9 @@
 ---
 categories:
-- beer
+- reviews
 date: '2017-05-24'
-tags: []
+tags:
+- beer
 title: Wild River Double Hopped Pale Ale
 ---
 

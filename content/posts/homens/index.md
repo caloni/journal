@@ -1,8 +1,9 @@
 ---
 categories:
-- series
+- reviews
 date: '2022-05-18T21:39:46-03:00'
-tags: []
+tags:
+- series
 title: Homens?
 ---
 

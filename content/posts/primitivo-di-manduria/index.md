@@ -1,8 +1,9 @@
 ---
 categories:
-- series
+- reviews
 date: '2022-04-18T21:37:16-03:00'
-tags: []
+tags:
+- series
 title: Primitivo Di Manduria
 ---
 

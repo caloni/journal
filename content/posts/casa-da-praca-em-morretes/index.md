@@ -1,8 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2021-06-26T10:25:00-03:00'
-tags: []
+tags:
+- food
 title: Casa da Praça em Morretes
 ---
 

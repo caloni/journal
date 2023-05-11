@@ -1,8 +1,9 @@
 ---
 categories:
-- series
+- reviews
 date: '2022-10-09T17:55:28-03:00'
-tags: null
+tags:
+- series
 title: Post Morten
 ---
 

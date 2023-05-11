@@ -1,8 +1,9 @@
 ---
 categories:
-- wine
+- reviews
 date: '2019-04-20'
-tags: []
+tags:
+- wine
 title: El Esteco
 ---
 

@@ -1,8 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2015-09-06'
-tags: []
+tags:
+- food
 title: Café Três Corações
 ---
 

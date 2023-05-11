@@ -1,8 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2017-11-21'
-tags: []
+tags:
+- food
 title: Vilamonge Café Artesanal Gourme Poços de Caldas
 ---
 

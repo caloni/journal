@@ -1,9 +1,10 @@
 ---
 categories:
-- wine
+- reviews
 date: '2020-12-27'
 link: https://www.vivino.com/san-gregorio-armantes-garnacha-comunidad-autnoma-de-catalua-red-wine/w/8803983?year=2018
-tags: []
+tags:
+- wine
 title: Armantes Garnacha
 ---
 

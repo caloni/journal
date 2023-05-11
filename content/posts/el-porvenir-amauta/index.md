@@ -1,7 +1,9 @@
 ---
 categories:
-- wine
+- reviews
 date: '2023-02-17T13:14:34-03:00'
+tags:
+- wine
 title: El Porvenir Amauta (2021)
 ---
 

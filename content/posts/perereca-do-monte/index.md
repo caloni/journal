@@ -1,7 +1,9 @@
 ---
 categories:
-- wine
+- reviews
 date: '2023-02-14T20:29:13-03:00'
+tags:
+- wine
 title: Perereca do Monte
 ---
 

@@ -1,8 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2017-05-17'
-tags: []
+tags:
+- food
 title: El Esteco Don David Reserva Malbec Tannat 2015
 ---
 

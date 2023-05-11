@@ -1,8 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2018-04-06'
-tags: []
+tags:
+- food
 title: Fazenda Kaynã
 ---
 

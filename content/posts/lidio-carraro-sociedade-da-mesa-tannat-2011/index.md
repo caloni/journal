@@ -1,8 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2016-12-22'
-tags: []
+tags:
+- food
 title: Lidio Carraro Sociedade da Mesa Tannat 2011
 ---
 

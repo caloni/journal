@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2020-03-02'
 link: https://www.imdb.com/title/tt3032476
-tags: []
+tags:
+- series
 title: Better Call Saul (S05 E01)
 ---
 

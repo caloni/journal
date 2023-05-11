@@ -1,8 +1,9 @@
 ---
 categories:
-- beer
+- reviews
 date: '2017-10-05'
-tags: []
+tags:
+- beer
 title: Bohemia 14-Weiss
 ---
 

@@ -1,8 +1,9 @@
 ---
 categories:
-- wine
+- reviews
 date: '2018-09-23'
-tags: []
+tags:
+- wine
 title: Tamari AR
 ---
 

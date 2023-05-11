@@ -1,8 +1,9 @@
 ---
 categories:
-- wine
+- reviews
 date: '2019-06-17'
-tags: []
+tags:
+- wine
 title: Colomé de Rio Negro
 ---
 

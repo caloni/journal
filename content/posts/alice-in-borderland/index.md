@@ -1,8 +1,9 @@
 ---
 categories:
-- series
+- reviews
 date: '2021-10-12T12:38:30-03:00'
-tags: []
+tags:
+- series
 title: Alice in Borderland
 ---
 

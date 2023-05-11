@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2018-07-26'
 link: https://www.imdb.com/title/tt8725166
-tags: []
+tags:
+- series
 title: Dark Tourism
 ---
 

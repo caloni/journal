@@ -1,8 +1,9 @@
 ---
 categories:
-- wine
+- reviews
 date: '2019-05-06'
-tags: []
+tags:
+- wine
 title: Gloria Cota Cosecha Tardia 2014
 ---
 

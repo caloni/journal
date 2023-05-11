@@ -1,8 +1,9 @@
 ---
 categories:
-- series
+- reviews
 date: '2021-10-08T22:15:16-03:00'
-tags: []
+tags:
+- series
 title: Round 6 (Squid Game)
 ---
 

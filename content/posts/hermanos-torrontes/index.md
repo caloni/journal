@@ -1,8 +1,9 @@
 ---
 categories:
-- wine
+- reviews
 date: '2018-11-05'
-tags: []
+tags:
+- wine
 title: Hermanos Torrontés
 ---
 

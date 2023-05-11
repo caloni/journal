@@ -1,7 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2023-01-31T23:06:58-03:00'
+tags:
+- food
 title: Bar da Maria (Itajubá, MG)
 ---
 

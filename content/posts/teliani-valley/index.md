@@ -1,8 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2015-04-29'
-tags: []
+tags:
+- food
 title: Teliani Valley
 ---
 

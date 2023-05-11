@@ -1,8 +1,9 @@
 ---
 categories:
-- series
+- reviews
 date: '2022-10-20T21:41:34-03:00'
-tags: null
+tags:
+- series
 title: Takki
 ---
 

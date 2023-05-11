@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2018-09-15'
 link: https://www.imdb.com/title/tt6317068
-tags: []
+tags:
+- series
 title: Final Space
 ---
 

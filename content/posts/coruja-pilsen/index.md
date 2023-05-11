@@ -1,8 +1,9 @@
 ---
 categories:
-- beer
+- reviews
 date: '2018-09-25'
-tags: []
+tags:
+- beer
 title: Coruja Pilsen
 ---
 

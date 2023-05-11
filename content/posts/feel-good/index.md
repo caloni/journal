@@ -1,8 +1,9 @@
 ---
 categories:
-- series
+- reviews
 date: '2022-04-24T12:21:53-03:00'
-tags: []
+tags:
+- series
 title: Feel Good
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- series
+- reviews
 date: '2023-01-08T21:04:03-03:00'
+tags:
+- series
 title: O Cangaceiro do Futuro
 ---
 

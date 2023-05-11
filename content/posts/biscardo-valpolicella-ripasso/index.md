@@ -1,8 +1,9 @@
 ---
 categories:
-- wine
+- reviews
 date: '2018-12-30'
-tags: []
+tags:
+- wine
 title: Biscardo Valpolicella Ripasso
 ---
 

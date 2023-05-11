@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2016-10-22'
 link: https://www.imdb.com/title/tt4016454
-tags: []
+tags:
+- series
 title: Supergirl
 ---
 

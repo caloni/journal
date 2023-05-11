@@ -1,8 +1,9 @@
 ---
 categories:
-- beer
+- reviews
 date: '2018-04-19'
-tags: []
+tags:
+- beer
 title: Eisenbahn Pale Ale
 ---
 

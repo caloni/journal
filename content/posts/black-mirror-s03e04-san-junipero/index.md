@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2016-10-28T20:10:00-03:00'
 link: https://www.imdb.com/title/tt4538072
-tags: []
+tags:
+- series
 title: Black Mirror - S03E04 - San Junipero
 ---
 

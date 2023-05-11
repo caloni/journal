@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2018-01-25'
 link: https://www.imdb.com/title/tt1665071
-tags: []
+tags:
+- series
 title: 'Sherlock: A Study in Pink'
 ---
 

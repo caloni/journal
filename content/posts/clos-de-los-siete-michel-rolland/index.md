@@ -1,8 +1,9 @@
 ---
 categories:
-- wine
+- reviews
 date: '2023-04-24'
-tags: null
+tags:
+- wine
 title: Clos de los siete, by Michel Rolland
 ---
 

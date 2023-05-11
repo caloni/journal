@@ -1,9 +1,10 @@
 ---
 categories:
-- wine
+- reviews
 date: '2021-05-17'
 link: https://www.eniwine.com
-tags: []
+tags:
+- wine
 title: Eniwine
 ---
 

@@ -1,8 +1,9 @@
 ---
 categories:
-- beer
+- reviews
 date: '2018-01-03'
-tags: []
+tags:
+- beer
 title: Ashby Pale Ale
 ---
 

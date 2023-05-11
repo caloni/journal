@@ -1,8 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2018-08-06'
-tags: []
+tags:
+- food
 title: Mafiosa Consiglieri Double India Pale Ale
 ---
 

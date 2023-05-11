@@ -1,8 +1,9 @@
 ---
 categories:
-- series
+- reviews
 date: '2022-11-07T22:15:39-03:00'
-tags: null
+tags:
+- series
 title: Uma Advogada Extraordinária
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- wine
+- reviews
 date: '2022-05-12T22:37:35-03:00'
 link: https://www.donamatilde.pt/
-tags: null
+tags:
+- wine
 title: Dona Matilde
 ---
 

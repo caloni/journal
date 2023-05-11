@@ -1,8 +1,9 @@
 ---
 categories:
-- coffee
+- reviews
 date: '2022-04-01T21:47:08-03:00'
-tags: []
+tags:
+- coffee
 title: Garimpo Coffees
 ---
 

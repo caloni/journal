@@ -1,8 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2018-06-20'
-tags: []
+tags:
+- food
 title: Prelatura Barbera Reserva 2014
 ---
 

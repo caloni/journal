@@ -1,8 +1,9 @@
 ---
 categories:
-- beer
+- reviews
 date: '2016-12-04'
-tags: []
+tags:
+- beer
 title: Ashby Ganesha IPA Ambar
 ---
 

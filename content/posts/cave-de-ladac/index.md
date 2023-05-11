@@ -1,8 +1,9 @@
 ---
 categories:
-- wine
+- reviews
 date: '2022-11-08T22:27:24-03:00'
-tags: null
+tags:
+- wine
 title: Cave de Ladac
 ---
 

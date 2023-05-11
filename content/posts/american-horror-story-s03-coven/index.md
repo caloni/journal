@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2015-11-28T20:30:00-03:00'
 link: https://www.imdb.com/title/tt1844624
-tags: []
+tags:
+- series
 title: História de Horror Americana - Season 3 - Coven
 ---
 

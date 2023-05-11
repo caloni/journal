@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2021-05-22'
 link: https://www.imdb.com/title/tt8824648
-tags: []
+tags:
+- series
 title: Girl From Nowhere
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2021-05-15'
 link: https://www.imdb.com/title/tt5774002
-tags: []
+tags:
+- series
 title: O Legado de Júpiter
 ---
 

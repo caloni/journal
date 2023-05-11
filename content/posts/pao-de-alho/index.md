@@ -1,9 +1,10 @@
 ---
 categories:
-- food
 - recipes
+- reviews
 date: '2017-05-30'
-tags: []
+tags:
+- food
 title: Pão de Alho
 ---
 

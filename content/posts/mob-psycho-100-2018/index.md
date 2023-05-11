@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2018-05-27'
 link: https://www.imdb.com/title/tt7701694
-tags: []
+tags:
+- series
 title: Mob Psycho 100 (2018)
 ---
 

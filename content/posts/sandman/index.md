@@ -1,8 +1,9 @@
 ---
 categories:
-- series
+- reviews
 date: '2022-08-28T19:07:42-03:00'
-tags: null
+tags:
+- series
 title: Sandman
 ---
 

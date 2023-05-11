@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2020-01-11'
 link: https://www.imdb.com/title/tt11318602
-tags: []
+tags:
+- series
 title: Dont Fuck With Cats Hunting an Internet Killer
 ---
 

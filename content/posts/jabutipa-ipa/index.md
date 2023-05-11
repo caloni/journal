@@ -1,8 +1,9 @@
 ---
 categories:
-- beer
+- reviews
 date: '2015-10-27'
-tags: []
+tags:
+- beer
 title: Jabutipa IPA
 ---
 

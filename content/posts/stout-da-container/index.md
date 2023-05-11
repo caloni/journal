@@ -1,8 +1,9 @@
 ---
 categories:
-- beer
+- reviews
 date: '2021-09-19T11:29:07-03:00'
-tags: []
+tags:
+- beer
 title: Stout da Container
 ---
 

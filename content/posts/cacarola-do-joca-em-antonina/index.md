@@ -1,8 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2021-06-27T12:18:00-03:00'
-tags: []
+tags:
+- food
 title: Caçarola do Joca em Antonina
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2017-07-31'
 link: https://www.imdb.com/title/tt5770786
-tags: []
+tags:
+- series
 title: Glow
 ---
 

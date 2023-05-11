@@ -1,8 +1,9 @@
 ---
 categories:
-- beer
+- reviews
 date: '2016-11-24'
-tags: []
+tags:
+- beer
 title: Budweiser Lager
 ---
 

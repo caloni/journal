@@ -1,8 +1,9 @@
 ---
 categories:
-- wine
+- reviews
 date: '2022-08-24T21:03:16-03:00'
-tags: null
+tags:
+- wine
 title: Vinhos com Sr. Incrível
 ---
 

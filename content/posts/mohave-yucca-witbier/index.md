@@ -1,8 +1,9 @@
 ---
 categories:
-- beer
+- reviews
 date: '2018-03-15'
-tags: []
+tags:
+- beer
 title: Mohave Yucca Witbier
 ---
 

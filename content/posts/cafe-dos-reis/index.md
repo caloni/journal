@@ -1,8 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2016-01-07'
-tags: []
+tags:
+- food
 title: Café dos Reis
 ---
 

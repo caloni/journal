@@ -1,8 +1,9 @@
 ---
 categories:
-- coffee
+- reviews
 date: '2022-11-21T20:12:54-03:00'
-tags: null
+tags:
+- coffee
 title: The traditional american coffee shop
 ---
 

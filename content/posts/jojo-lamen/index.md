@@ -1,8 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2019-08-17'
-tags: []
+tags:
+- food
 title: Restaurante Jojo Ramen
 ---
 

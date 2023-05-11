@@ -1,8 +1,9 @@
 ---
 categories:
-- series
+- reviews
 date: '2021-01-17'
-tags: []
+tags:
+- series
 title: Um Delduca no Pedaço
 ---
 

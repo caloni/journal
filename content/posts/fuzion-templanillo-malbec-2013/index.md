@@ -1,8 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2015-08-23'
-tags: []
+tags:
+- food
 title: Fuzion Templanillo/Malbec 2013
 ---
 

@@ -1,8 +1,9 @@
 ---
 categories:
-- wine
+- reviews
 date: '2021-10-16T12:54:42-03:00'
-tags: []
+tags:
+- wine
 title: 'Imperial Vin: Grape Angel'
 ---
 

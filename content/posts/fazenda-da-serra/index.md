@@ -1,9 +1,10 @@
 ---
 categories:
-- coffee
+- reviews
 date: '2020-10-22'
 link: https://www.graogourmet.com/cafes-selecionados/cafes/fazenda-da-serra/
-tags: []
+tags:
+- coffee
 title: Fazenda da Serra
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2018-06-17'
 link: https://www.imdb.com/title/tt7083044
-tags: []
+tags:
+- series
 title: 'Sense8 S02: Amor Vincit Omnia'
 ---
 

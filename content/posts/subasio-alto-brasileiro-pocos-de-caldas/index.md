@@ -1,8 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2017-09-11'
-tags: []
+tags:
+- food
 title: Subasio Alto Brasileiro Poços de Caldas
 ---
 

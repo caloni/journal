@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2016-10-17'
 link: https://www.imdb.com/title/tt3322314
-tags: []
+tags:
+- series
 title: Luke Cage
 ---
 

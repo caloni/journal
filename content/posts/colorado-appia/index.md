@@ -1,8 +1,9 @@
 ---
 categories:
-- beer
+- reviews
 date: '2017-06-07'
-tags: []
+tags:
+- beer
 title: Colorado Appia
 ---
 

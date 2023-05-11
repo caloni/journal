@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2016-12-04'
 link: https://www.imdb.com/title/tt4295140
-tags: []
+tags:
+- series
 title: Chef's Table
 ---
 

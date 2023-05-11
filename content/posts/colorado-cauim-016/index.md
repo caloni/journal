@@ -1,8 +1,9 @@
 ---
 categories:
-- beer
+- reviews
 date: '2018-07-16'
-tags: []
+tags:
+- beer
 title: Colorado Cauim 016
 ---
 

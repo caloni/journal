@@ -1,8 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2016-04-10'
-tags: []
+tags:
+- food
 title: Café do Ponto Extra Forte
 ---
 

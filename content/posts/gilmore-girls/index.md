@@ -1,8 +1,9 @@
 ---
 categories:
-- series
+- reviews
 date: '2021-08-08T21:36:23-03:00'
-tags: []
+tags:
+- series
 title: Gilmore Girls
 ---
 

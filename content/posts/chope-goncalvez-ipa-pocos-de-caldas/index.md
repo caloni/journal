@@ -1,8 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2017-09-09'
-tags: []
+tags:
+- food
 title: Chope Gonçalvez IPA Poços de Caldas
 ---
 

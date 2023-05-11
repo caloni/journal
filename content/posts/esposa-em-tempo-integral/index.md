@@ -1,8 +1,9 @@
 ---
 categories:
-- series
+- reviews
 date: '2023-03-26T12:47:17-02:00'
-tags: null
+tags:
+- series
 title: Esposa em Tempo Integral
 ---
 

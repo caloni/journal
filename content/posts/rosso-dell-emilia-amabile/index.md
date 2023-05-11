@@ -1,8 +1,9 @@
 ---
 categories:
-- wine
+- reviews
 date: '2015-09-06'
-tags: []
+tags:
+- wine
 title: Rosso Dell'Emilia Amabile
 ---
 

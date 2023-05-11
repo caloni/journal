@@ -1,8 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2018-10-02'
-tags: []
+tags:
+- food
 title: Exterminador de trigo American Wheat
 ---
 

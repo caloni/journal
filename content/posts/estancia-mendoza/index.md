@@ -1,8 +1,9 @@
 ---
 categories:
-- wine
+- reviews
 date: '2019-03-22'
-tags: []
+tags:
+- wine
 title: Estancia Mendoza
 ---
 

@@ -1,8 +1,9 @@
 ---
 categories:
-- beer
+- reviews
 date: '2018-01-07'
-tags: []
+tags:
+- beer
 title: Diamantina Blonde Ale
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2016-12-04'
 link: https://www.imdb.com/title/tt4922804
-tags: []
+tags:
+- series
 title: 3%
 ---
 

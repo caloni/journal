@@ -1,8 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2019-06-17'
-tags: []
+tags:
+- food
 title: Rivani
 ---
 

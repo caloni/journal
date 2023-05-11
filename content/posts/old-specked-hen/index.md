@@ -1,8 +1,9 @@
 ---
 categories:
-- beer
+- reviews
 date: '2018-05-20'
-tags: []
+tags:
+- beer
 title: Old Specked Hen
 ---
 

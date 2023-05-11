@@ -1,8 +1,9 @@
 ---
 categories:
-- beer
+- reviews
 date: '2017-05-29'
-tags: []
+tags:
+- beer
 title: London Pride (garrafa)
 ---
 

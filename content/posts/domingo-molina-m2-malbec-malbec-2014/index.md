@@ -1,8 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2017-05-17'
-tags: []
+tags:
+- food
 title: Domingo Molina M2 Malbec Malbec 2014
 ---
 

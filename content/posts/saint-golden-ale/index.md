@@ -1,8 +1,9 @@
 ---
 categories:
-- beer
+- reviews
 date: '2018-09-20'
-tags: []
+tags:
+- beer
 title: Saint Golden Ale
 ---
 

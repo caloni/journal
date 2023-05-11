@@ -1,7 +1,9 @@
 ---
 categories:
-- series
+- reviews
 date: '2023-01-15T14:18:17-03:00'
+tags:
+- series
 title: É o Bruno!
 ---
 

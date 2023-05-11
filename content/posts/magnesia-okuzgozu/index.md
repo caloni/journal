@@ -1,8 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2016-05-12'
-tags: []
+tags:
+- food
 title: Magnesia Öküzgözü
 ---
 

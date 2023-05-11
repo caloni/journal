@@ -1,8 +1,9 @@
 ---
 categories:
-- wine
+- reviews
 date: '2019-05-15'
-tags: []
+tags:
+- wine
 title: Del Fin Del Mundo
 ---
 

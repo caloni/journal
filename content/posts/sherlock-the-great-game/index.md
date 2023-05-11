@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2020-11-22'
 link: https://www.imdb.com/title/tt1664530
-tags: []
+tags:
+- series
 title: 'Sherlock: The Great Game'
 ---
 

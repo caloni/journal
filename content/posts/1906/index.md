@@ -1,8 +1,9 @@
 ---
 categories:
-- beer
+- reviews
 date: '2015-05-01'
-tags: []
+tags:
+- beer
 title: '1906'
 ---
 

@@ -1,8 +1,9 @@
 ---
 categories:
-- series
+- reviews
 date: '2022-05-18T21:40:06-03:00'
-tags: []
+tags:
+- series
 title: House M.D.
 ---
 

@@ -1,8 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2022-03-20T16:07:25-03:00'
-tags: []
+tags:
+- food
 title: Bar do Veloso
 ---
 

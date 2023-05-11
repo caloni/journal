@@ -1,8 +1,9 @@
 ---
 categories:
-- wine
+- reviews
 date: '2018-10-02'
-tags: []
+tags:
+- wine
 title: El Porvenir de Cafayate Laborum Malbec Tardío 2018
 ---
 

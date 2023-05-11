@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2016-12-04'
 link: https://www.imdb.com/title/tt5467814
-tags: []
+tags:
+- series
 title: Haters Back Off!
 ---
 

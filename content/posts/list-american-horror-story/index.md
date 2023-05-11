@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2021-12-15T20:20:00-03:00'
 tags:
 - lists
+- series
 title: American Horror Story
 ---
 

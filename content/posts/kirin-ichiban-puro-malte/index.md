@@ -1,8 +1,9 @@
 ---
 categories:
-- beer
+- reviews
 date: '2017-03-25'
-tags: []
+tags:
+- beer
 title: Kirin Ichiban Puro Malte
 ---
 

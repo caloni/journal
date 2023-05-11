@@ -1,9 +1,10 @@
 ---
 categories:
-- coffee
+- reviews
 date: '2020-08-10'
 link: https://www.graogourmet.com/cafes-selecionados/cafes/fazenda-sao-francisco/
-tags: []
+tags:
+- coffee
 title: Fazenda São Francisco
 ---
 

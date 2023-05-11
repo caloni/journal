@@ -1,9 +1,10 @@
 ---
 categories:
-- coffee
+- reviews
 date: '2023-02-09T18:29:18-03:00'
 tags:
 - decaf
+- coffee
 title: Maria Bonita Robusta
 ---
 

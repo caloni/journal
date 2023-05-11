@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2016-10-28T20:00:00-03:00'
 link: https://www.imdb.com/title/tt5709230
-tags: []
+tags:
+- series
 title: Black Mirror - S03E03 - Shut Up and Dance
 ---
 

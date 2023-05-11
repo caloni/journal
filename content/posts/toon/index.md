@@ -1,8 +1,9 @@
 ---
 categories:
-- series
+- reviews
 date: '2022-11-22T21:02:44-03:00'
-tags: null
+tags:
+- series
 title: Toon
 ---
 

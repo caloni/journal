@@ -1,8 +1,9 @@
 ---
 categories:
-- beer
+- reviews
 date: '2015-06-21'
-tags: []
+tags:
+- beer
 title: Ravache Pale Ale
 ---
 

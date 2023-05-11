@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2015-07-06'
 link: https://www.imdb.com/title/tt2431438
-tags: []
+tags:
+- series
 title: Sense8
 ---
 

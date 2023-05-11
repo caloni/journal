@@ -1,8 +1,9 @@
 ---
 categories:
-- wine
+- reviews
 date: '2022-10-12T17:58:28-03:00'
-tags: null
+tags:
+- wine
 title: Roberto Luka Sophenia
 ---
 
