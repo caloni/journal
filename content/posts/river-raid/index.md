@@ -1,8 +1,9 @@
 ---
-categories: null
-date: '2023-05-09T13:24:10-02:00'
-draft: true
-tags: null
+categories:
+- blog
+date: '2023-05-10'
+tags:
+- games
 title: River Raid
 ---
 
@@ -16,7 +17,7 @@ O padrão de criação de telas é algo de louco. Não é incomum jogos daquela 
 
 Os checkpoints são uma forma inteligente de salvar a altura do mapa e permite que partidas de dois jogadores, ainda que cada um jogue sua vez, fique com cara de corrida.
 
-O movimento dos obstáculos, principalmente os navios e helicópteros, não se repete. Eles começam no mapa parados e começam a se mexer em momentos diferentes a cada vez que se passa pelo mesmo ponto. Isso impede que o jogador decore como passar as telas porque ele nunca vai saber antes a posição dos obstáculos. Com isso ele precisa focar nas habilidades em mover seu avião.
+O movimento dos obstáculos, principalmente os navios e helicópteros, não se repete. Eles começam a se mexer em momentos diferentes a cada vez que se passa pelo mesmo ponto. Isso impede que o jogador decore como passar as telas porque ele nunca vai saber antes a posição dos obstáculos. Com isso ele precisa focar nas habilidades em mover seu avião.
 
 E aí entra a beleza do jogo. O avião pode executar seus movimentos de várias velocidades. Ele se mantém constante,  mas você pode mudar a aceleração indo para a frente e para trás. Essa mudança serve para evitar colisões. Ou você pode desacelerar para abastecer combustível, fazer manobras apertadas. As combinações são muitas para um jogo tão simples.
 

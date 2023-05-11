@@ -57,5 +57,13 @@ Bom, o título de seu livro já denuncia: este é um guia livre de bullshitagem 
 
 > when tackling a top-down problem, it helps to think the following three thoughts: Imagine the function you’re writing has already been implemented by someone else. Identify the subproblem of the problem. See what happens when you call the function on the subproblem and go from there.
 
+# Próximas leituras
+
+ - Stein Introduction to Algorithms (Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest Clifford)
+ - Data Structures and Algorithms in C++ (Lee Wittenberg)
+ - How to Think About Algorithms (Jeff Edmonds)
+ - Course in Algorithms Through Puzzles (Ryuhei Uehara First )
+ - Guide to Competitive Programming Learning and Improving Algorithms Through Contests (Antti Laaksonen)
+
 [Algorithm for Dummies]: {{< ref algorithms-for-dummies >}}
 [Cracking the code interview]: {{< ref cracking-the-coding-interview >}}
