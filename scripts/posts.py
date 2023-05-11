@@ -2,7 +2,7 @@ import frontmatter
 from glob import glob
 
 
-path = "content/posts/*.md"
+path = "content/posts/**/*.md"
 files = glob(path)
 verbose = False
 
