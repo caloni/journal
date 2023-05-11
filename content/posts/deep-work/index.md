@@ -1,8 +1,10 @@
 ---
 categories:
-- books
+- reading
+- reviews
 date: '2020-03-15'
-tags: []
+tags:
+- books
 title: Deep Work
 ---
 

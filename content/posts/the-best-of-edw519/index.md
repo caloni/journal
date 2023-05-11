@@ -1,8 +1,10 @@
 ---
 categories:
-- books
+- reading
+- reviews
 date: '2017-02-20'
-tags: []
+tags:
+- books
 title: The Best of edw519
 ---
 

@@ -1,8 +1,10 @@
 ---
 categories:
-- books
+- reading
+- reviews
 date: '2017-03-14'
-tags: []
+tags:
+- books
 title: 'Mastery: The Keys to Success and Long-Term Fulfillment'
 ---
 

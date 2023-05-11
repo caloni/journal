@@ -1,8 +1,10 @@
 ---
 categories:
-- books
+- reading
+- reviews
 date: '2022-07-24T14:05:20-03:00'
-tags: null
+tags:
+- books
 title: 'The Pickup Artist: The New and Improved Art of Seduction (Mystery)'
 ---
 

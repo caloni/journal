@@ -1,10 +1,11 @@
 ---
 categories:
-- quotes
 - reviews
+- reading
 date: '2021-10-16T12:39:11-03:00'
 tags:
 - movies
+- quotes
 title: André Bazin
 ---
 

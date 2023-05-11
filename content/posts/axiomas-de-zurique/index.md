@@ -1,8 +1,10 @@
 ---
 categories:
-- books
+- reading
+- reviews
 date: '2017-05-28'
-tags: []
+tags:
+- books
 title: Os Axiomas de Zurique
 ---
 

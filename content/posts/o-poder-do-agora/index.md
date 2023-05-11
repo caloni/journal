@@ -1,8 +1,10 @@
 ---
 categories:
-- books
+- reading
+- reviews
 date: '2015-06-29'
-tags: []
+tags:
+- books
 title: O Poder do Agora
 ---
 

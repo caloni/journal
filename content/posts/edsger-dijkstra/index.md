@@ -1,8 +1,9 @@
 ---
 categories:
-- quotes
+- reading
 date: '2023-04-24'
-tags: null
+tags:
+- quotes
 title: Edsger Dijkstra
 ---
 

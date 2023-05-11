@@ -1,8 +1,10 @@
 ---
 categories:
-- books
+- reading
+- reviews
 date: '2019-09-08'
-tags: []
+tags:
+- books
 title: Story, by Robert McKee
 ---
 

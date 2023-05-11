@@ -1,8 +1,10 @@
 ---
 categories:
-- books
+- reading
+- reviews
 date: '2016-08-24'
-tags: []
+tags:
+- books
 title: Darkly Dreaming Dexter
 ---
 

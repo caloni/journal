@@ -1,10 +1,12 @@
 ---
 categories:
 - code
-- books
+- reading
+- reviews
 date: '2007-10-12'
 tags:
 - ccpp
+- books
 title: 'A Linguagem de Programação C: O Livro'
 ---
 

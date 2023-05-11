@@ -1,8 +1,10 @@
 ---
 categories:
-- books
+- reading
+- reviews
 date: '2022-08-28T19:17:05-03:00'
-tags: null
+tags:
+- books
 title: 'Bíblia Sagrada: Gênesis'
 ---
 

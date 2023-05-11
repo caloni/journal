@@ -1,10 +1,11 @@
 ---
 categories:
-- quotes
 - reviews
+- reading
 date: '2021-10-16T12:38:13-03:00'
 tags:
 - movies
+- quotes
 title: 'Primeira crítica da História: Maxim Gorky, Rússia, junho de 1896'
 ---
 

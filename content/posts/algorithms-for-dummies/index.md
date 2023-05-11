@@ -1,8 +1,10 @@
 ---
 categories:
-- books
+- reading
+- reviews
 date: '2023-03-14'
-tags: null
+tags:
+- books
 title: Algorithms for Dummies
 ---
 

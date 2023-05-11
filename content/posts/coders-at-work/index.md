@@ -1,8 +1,10 @@
 ---
 categories:
-- books
+- reading
+- reviews
 date: '2011-10-14'
-tags: []
+tags:
+- books
 title: 'Coders at Work: Reflections on the Craft of Programming'
 ---
 

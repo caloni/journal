@@ -1,8 +1,10 @@
 ---
 categories:
-- books
+- reading
+- reviews
 date: '2014-07-01'
-tags: []
+tags:
+- books
 title: Introdução à Introdução à Computação
 ---
 

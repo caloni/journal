@@ -1,11 +1,12 @@
 ---
 categories:
 - reading
-- books
+- reviews
 date: '2023-04-30T16:48:43-02:00'
 draft: true
 tags:
 - body
+- books
 title: Calisthenics for Beginners by Matt Schifferle
 ---
 

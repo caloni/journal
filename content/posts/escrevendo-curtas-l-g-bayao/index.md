@@ -1,8 +1,10 @@
 ---
 categories:
-- books
+- reading
+- reviews
 date: '2018-07-16'
-tags: []
+tags:
+- books
 title: Escrevendo Curtas
 ---
 

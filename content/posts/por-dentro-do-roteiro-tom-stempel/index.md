@@ -1,8 +1,10 @@
 ---
 categories:
-- books
+- reading
+- reviews
 date: '2018-07-15'
-tags: []
+tags:
+- books
 title: Por Dentro do Roteiro
 ---
 

@@ -1,8 +1,10 @@
 ---
 categories:
-- books
+- reading
+- reviews
 date: '2019-08-16'
-tags: []
+tags:
+- books
 title: On Writing, por Stephen King
 ---
 

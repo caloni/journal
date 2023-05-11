@@ -1,8 +1,10 @@
 ---
 categories:
-- books
+- reading
+- reviews
 date: '2018-07-17'
-tags: []
+tags:
+- books
 title: Estrutura de Roteiro
 ---
 

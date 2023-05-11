@@ -1,8 +1,10 @@
 ---
 categories:
-- books
+- reading
+- reviews
 date: '2018-05-16'
-tags: []
+tags:
+- books
 title: '2001: Uma Odisseia no Espaço (livro)'
 ---
 

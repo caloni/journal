@@ -1,8 +1,9 @@
 ---
 categories:
-- quotes
+- reading
 date: '2019-09-08'
-tags: []
+tags:
+- quotes
 title: Eckhart Tolle
 ---
 

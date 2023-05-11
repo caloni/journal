@@ -1,8 +1,10 @@
 ---
 categories:
-- books
+- reading
+- reviews
 date: '2023-03-04'
-tags: null
+tags:
+- books
 title: 'Bíblia Sagrada: Levítico'
 ---
 

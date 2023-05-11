@@ -1,8 +1,10 @@
 ---
 categories:
-- books
+- reading
+- reviews
 date: '2016-12-20'
-tags: []
+tags:
+- books
 title: Sinais do Fim
 ---
 
