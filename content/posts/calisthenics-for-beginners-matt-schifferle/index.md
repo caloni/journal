@@ -2,8 +2,7 @@
 categories:
 - reading
 - reviews
-date: '2023-04-30T16:48:43-02:00'
-draft: true
+date: '2023-05-19'
 tags:
 - body
 - books

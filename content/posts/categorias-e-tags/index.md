@@ -1,7 +1,7 @@
 ---
-categories: null
-date: '2023-05-15T23:59:50-02:00'
-draft: true
+categories:
+- blog
+date: '2023-05-19'
 tags: null
 title: Começando a entender sobre minhas categorias e tags
 ---
