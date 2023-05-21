@@ -8,9 +8,9 @@ title: Wanderley Caloni
 
  - Location: São Paulo, Brazil
  - Email: wanderley.caloni@gmail.com
- - Stack: [C/C++]({{< ref ccpp >}}) (26 yrs), [Windows]({{< ref historia-do-windows >}}) (26 yrs), [Debugging]({{< ref o-bug-mais-bizarro-que-ja-resolvi >}}) (23 yrs), [Reverse Engineering]({{< ref como-funciona-o-psexec >}}) (15 yrs), Tech/Art Writing and [Knowledge Sharing](https://github.com/Caloni/lectures/) (15 yrs), Linux (10 yrs).
+ - Stack: [C/C++] (26 yrs), [Windows]({{< ref historia-do-windows >}}) (26 yrs), [Debugging]({{< ref o-bug-mais-bizarro-que-ja-resolvi >}}) (23 yrs), [Reverse Engineering]({{< ref como-funciona-o-psexec >}}) (15 yrs), Tech/Art Writing and [Knowledge Sharing](https://github.com/Caloni/lectures/) (15 yrs), Linux (10 yrs).
  - Languages: Python, C#, Assembly, PHP, Java, Golang, Pascal.
- - Tools: Visual Studio, [WinDbg]({{< ref windbg >}}), [Git](https://github.com/Caloni), SSH+Vim.
+ - Tools: Visual Studio, [WinDbg], [Git](https://github.com/Caloni), SSH+Vim.
 
 
 # Work

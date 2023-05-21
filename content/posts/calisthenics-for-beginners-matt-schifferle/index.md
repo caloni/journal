@@ -128,4 +128,3 @@ Admiro sua intenção, contudo.
  - www.strongerbyscience.com is a great resource if you want to dive deeper into the latest research on strength training and nutrition.
 
 [The Pick Up Artist]: {{< ref the-pickup-artist-livro >}}
-[a fase de entrevistas]: {{< ref interview >}}
