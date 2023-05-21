@@ -1,30 +1,60 @@
 ﻿Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 117  | Added on Wednesday, 17 May 23 00:34:06 GMT-03:00
+- Highlight Loc. 4  | Added on Sunday, 21 May 23 13:54:54 GMT-03:00
 
-acontecimento climático 
+é terça à noite, não de dia. 
 ==========
 Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 121  | Added on Wednesday, 17 May 23 00:34:33 GMT-03:00
+- Highlight Loc. 7  | Added on Sunday, 21 May 23 13:55:31 GMT-03:00
 
-E vc entende 
+De qualquer forma o bacana desse The Coffee é que ele é mais amplo, tem lugares para sentar. 
 ==========
-Eldad Eilam - Reversing_ secrets of reverse engineering-Wiley (2005) (Eldad Eilam)
-- Highlight Loc. 91-94  | Added on Wednesday, 17 May 23 00:38:54 GMT-03:00
+Blogue do Caloni (Rascunhos) (Wanderley Caloni)
+- Highlight Loc. 5-6  | Added on Sunday, 21 May 23 13:55:45 GMT-03:00
 
-Reverse engineering has been with us a long time. The conceptual Reversing process occurs every time someone looks at someone else's code. But, it also occurs when a developer looks at his or her own code several days after it was written. Reverse engineering is a discovery process. When we take a fresh look at code, whether developed by ourselves or others, we examine and we learn and we see things we may not expect. 
+O barista, Bruno, 
 ==========
-Eldad Eilam - Reversing_ secrets of reverse engineering-Wiley (2005) (Eldad Eilam)
-- Highlight Loc. 110-13  | Added on Wednesday, 17 May 23 00:43:10 GMT-03:00
+Blogue do Caloni (Rascunhos) (Wanderley Caloni)
+- Highlight Loc. 9  | Added on Sunday, 21 May 23 13:56:28 GMT-03:00
 
-In the early 1980s, IBM decided that it would no longer release to its customers the source code for its mainframe computer operating systems. Mainframe customers had always relied on the source code for reference in problem solving and to tailor, modify, and extend the IBM operating system products. I still have my button from the IBM user group Share that reads: "If SOURCE is outlawed, only outlaws will have SOURCE," a word play on a famous argument by opponents of gun-control laws. 
+que não é nada barato (fica novamente o aviso), 
 ==========
-Eldad Eilam - Reversing_ secrets of reverse engineering-Wiley (2005) (Eldad Eilam)
-- Highlight Loc. 365-68  | Added on Wednesday, 17 May 23 18:52:47 GMT-03:00
+Blogue do Caloni (Rascunhos) (Wanderley Caloni)
+- Highlight Loc. 10  | Added on Sunday, 21 May 23 13:56:56 GMT-03:00
 
-Reverse engineering is a process where an engineered artifact (such as a car, a jet engine, or a software program) is deconstructed in a way that reveals its innermost details, such as its design and architecture. This is similar to scientific research that studies natural phenomena, with the difference that no one commonly refers to scientific research as reverse engineering, simply because no one knows for sure whether or not nature was ever engineered. 
+se pensa de café. 
 ==========
-Eldad Eilam - Reversing_ secrets of reverse engineering-Wiley (2005) (Eldad Eilam)
-- Highlight Loc. 657-58  | Added on Wednesday, 17 May 23 19:32:16 GMT-03:00
+Blogue do Caloni (Rascunhos) (Wanderley Caloni)
+- Highlight Loc. 11  | Added on Sunday, 21 May 23 13:57:17 GMT-03:00
 
-Which bring us to the most basic point to remember about assembly language: it is a class of languages, not one language. Every computer platform has its own assembly language that is usually quite different from all the rest. 
+O amargor no final é perene, mas não dominante. Em outras passadas ele praticamente sumiu. 
+==========
+Blogue do Caloni (Rascunhos) (Wanderley Caloni)
+- Highlight Loc. 12-15  | Added on Sunday, 21 May 23 13:57:59 GMT-03:00
+
+É muito estranho esse café. Ele é 100% cítrico como um suco tropical. Mas é café. Mas nem o corpo lembra o tradicional café. E por falar no tradicional, nem sempre o amargor típico da bebida aparece neste, e quando aparece ele é final, mais aftertaste, e está aí para dar mais complexidade ao sabor e não ser o protagonista da história. Curioso pacas. 
+==========
+Blogue do Caloni (Rascunhos) (Wanderley Caloni)
+- Highlight Loc. 15  | Added on Sunday, 21 May 23 13:58:17 GMT-03:00
+
+No dia seguinte 
+==========
+Blogue do Caloni (Rascunhos) (Wanderley Caloni)
+- Highlight Loc. 22  | Added on Sunday, 21 May 23 13:59:24 GMT-03:00
+
+Enquanto preparava o carê 
+==========
+Blogue do Caloni (Rascunhos) (Wanderley Caloni)
+- Highlight Loc. 28  | Added on Sunday, 21 May 23 14:00:48 GMT-03:00
+
+bem hidratado 
+==========
+Blogue do Caloni (Rascunhos) (Wanderley Caloni)
+- Highlight Loc. 30  | Added on Sunday, 21 May 23 14:01:17 GMT-03:00
+
+Já o carê 
+==========
+Blogue do Caloni (Rascunhos) (Wanderley Caloni)
+- Highlight Loc. 44-45  | Added on Sunday, 21 May 23 14:03:44 GMT-03:00
+
+button from the IBM user group Share that reads: "If SOURCE is outlawed, only outlaws will have SOURCE," 
 ==========
