@@ -40,7 +40,7 @@ Naquela época começavam a surgir os ataques aos bancos online no Brasil e exis
 
 > An excellent example of preinitialized data is any kind of hard-coded string inside a program. 
 
-> hard-coded memory addresses are rarely used for anything other than pointing to the executable's data section. 
+> (...) hard-coded memory addresses are rarely used for anything other than pointing to the executable's data section. 
 
 > One of the problems is that most high-level conditional statements are just too lengthy for low-level languages such as assembly language, so they are broken down into sequences of operations. The key to understanding these sequences, the correlation between them, and the high-level statements from which they originated, is to understand the low-level control flow constructs and how they can be used for representing high-level control flow statements. 
 
@@ -82,7 +82,7 @@ Naquela época começavam a surgir os ataques aos bancos online no Brasil e exis
 
 > It can be said that the memory usage of a process at any given moment can be measured as the total size of its working set. That's generally true, but is a bit of an oversimplification because significant chunks of the average process address space contain shared memory, which is also counted as part of the total working set size. Measuring memory usage in a virtual memory system is not a trivial task! 
 
-> applications only have a 31-bit address space—the most significant bit is always clear in every address. This provides a tiny reversing hint: A 32-bit number whose first hexadecimal digit is 8 or above is not a valid user-mode pointer. 
+> (...) applications only have a 31-bit address space—the most significant bit is always clear in every address. This provides a tiny reversing hint: A 32-bit number whose first hexadecimal digit is 8 or above is not a valid user-mode pointer. 
 
 > Caching is implemented in Windows by mapping files into memory and allowing the memory manager to manage the amount of physical memory allocated to each mapped file. When a program opens a file, a section object (see below) is created for it, and it is mapped into the system cache area. When the program later accesses the file using the ReadFile or WriteFile APIs, the file system internally accesses the mapped copy of the file using cache manager APIs such as CcCopyRead and CcCopyWrite. 
 
@@ -114,7 +114,7 @@ Naquela época começavam a surgir os ataques aos bancos online no Brasil e exis
 
 > When an object creation API such as CreateMutex is called for an object that already exists, the kernel automatically locates that object in the global table and returns a handle to it. Named objects are arranged in hierarchical directories, but the Win32 API restricts user-mode applications' access to these directories. 
 
-> BaseNamedObjects This directory is where all conventional Win32 named objects, such as mutexes, are stored. All named-object Win32 APIs automatically use this directory—application programs have no control over this. 
+> This directory (BaseNamedObjects) is where all conventional Win32 named objects, such as mutexes, are stored. All named-object Win32 APIs automatically use this directory—application programs have no control over this. 
 
 > Some kernel objects are unnamed and are only identified by their handles or kernel object pointers. A good example of such an object is a thread object, which is created without a name and is only represented by handles (from user mode) and by a direct pointer into the object (from kernel mode). 
 
@@ -126,17 +126,17 @@ Naquela época começavam a surgir os ataques aos bancos online no Brasil e exis
 
 > In many reversing experiences, I've found that it's important to have an understanding of what happens when a process is started. The following provides a brief description of the steps taken by the system in an average process creation sequence. 1.The creation of the process object and new address space is the first step: When a process calls the Win32 API CreateProcess, the API creates a process object and allocates a new memory address space for the process. 2. CreateProcess maps NTDLL.DLL and the program executable (the .exefile) into the newly created address space. 3. CreateProcess creates the process's first thread and allocates stack space for it. 4. The process's first thread is resumed and starts running in the LdrpInitialize function inside NTDLL.DLL. 5.LdrpInitialize recursively traverses the primary executable's import tables and maps into memory every executable that is required for running the primary executable. 6. At this point control is passed into LdrpRunInitializeRoutines, which is an internal NTDLL.DLL routine responsible for initializing all statically linked DLLs currently loaded into the address space. The initialization process consists of calling each DLL's entry point with the DLL_PROCESS_ATTACH constant. 7. Once all DLLs are initialized, LdrpInitialize calls the thread's real initialization routine, which is the BaseProcessStartfunction from KERNEL32.DLL. This function in turn calls the executable's WinMain entry point, at which point the process has completed its initialization sequence. 
 
-> If you're going to be reversing under Windows, it is imperative that you develop a solid understanding of the Windows APIs and of the common methods of doing things using these APIs. 
-
 > If you're going to be doing serious reversing of Windows applications, it is going to be important for you to understand the Win32 API. That's because no matter which high-level interface an application employs (if any), it is eventually going to use the Win32 API for communicating with the OS. Some applications will use the Native native API, but that's quite rare—see 
 
+>
 > The Core Win32 API contains roughly 2000 APIs (it depends on the specific Windows version and on whether or not you count undocumented Win32 APIs). These APIs are divided into three categories: Kernel, USER, and GDI. 
-
+>
 > Kernel APIs (also called the BASE APIs) are implemented in the KERNEL32.DLL module and include all non-GUI-related services, such as file I/O, memory management, object management, process and thread management, and so on. 
-
+>
 > GDI APIs are implemented in the GDI32.DLL and include low-level graphics services such as those for drawing a line, displaying a bitmap, and so on. GDI is generally not aware of the existence of windows or controls. 
-
+>
 > USER APIs are implemented in the USER32.DLL module and include all higher-level GUI-related services such as window-management, menus, dialog boxes, user-interface controls, and so on. All GUI objects are drawn by USER using GDI calls to perform the actual drawing; USER heavily relies on GDI to do its business. 
+>
 
 > Application programs are never supposed to directly call into the native API—that would break their compatibility with Windows 9 x. This is one of the reasons why Microsoft never saw fit to actually document it; 
 
