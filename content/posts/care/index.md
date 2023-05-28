@@ -1,7 +1,7 @@
 ---
-categories: null
-date: '2023-05-21T16:13:48-02:00'
-draft: true
+categories:
+- cooking
+date: '2023-05-28'
 tags: null
 title: Carê
 ---

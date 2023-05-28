@@ -1,12 +1,12 @@
 ---
-categories: null
-date: '2023-05-21T16:13:36-02:00'
-draft: true
+categories:
+- cooking
+date: '2023-05-28'
 tags: null
 title: Curry Indiano Caseiro
 ---
 
-O curry indiano caseiro dá mais trabalho de reunir todos os ingredientes do que o preparo, que são apenas 2 minutos no fogo e após esfriar bater tudo junto e peneirar. Dá uma olhada na lista de ingredientes:
+O curry indiano caseiro dá mais trabalho de reunir todos os ingredientes do que o preparo, que são apenas dois minutos em fogo baixo misturando sempre; após esfriar é só processar tudo junto em um mixer, moedor ou liquidificador e peneirar. Dá uma olhada na lista de ingredientes:
 
  - 3 colheres de sopa de açafrão da terra;
  - 2 colheres de sopa de cominho;
