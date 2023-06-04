@@ -25,6 +25,6 @@ E o resultado foi muito bom! Faltou um pouco de corpo, mas o equilíbrio entre o
 
 Esse experimento me convenceu que é gostoso experimentar blends de vez em quando. Uma bebida muito boa pode surpreender ainda mais se juntarmos o melhor dos mundos.
 
-[The Cofee]: {{< aomori-microlog-kraft-the-coffee >}}
-[Tamandaré]: {{< tamandare >}}
-[Timemore]: {{< timemore-c2 >}}
+[The Cofee]: {{< ref aomori-microlog-kraft-the-coffee >}}
+[Tamandaré]: {{< ref tamandare >}}
+[Timemore]: {{< ref timemore-c2 >}}

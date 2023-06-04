@@ -14,4 +14,4 @@ O principal nesta fórmula do amor deste novo programa é que o participante que
 
 Com dois comentaristas que nos fazem ter saudades dos de Terrace House porque eram muito melhores, Vilarejo do Amor possui um arco dramático dos mais inusitados. Nos faz pensar se essa história se desenvolveu naturalmente ou foi tudo planejado. É quando a paixão da vida real pode ou não estar em um roteiro. O que torna o programa bom é que isso acaba não importando tanto.
 
-[Terrace House]: {{< terrace-house >}}
+[Terrace House]: {{< ref terrace-house >}}
