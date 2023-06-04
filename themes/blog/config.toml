@@ -103,11 +103,6 @@ theme = "blog"
     name = "C/C++ Brasil"
     link = "http://ccppbrasil.github.io"
 
-[params.external.chess]
-    tag = "chess"
-    name = "Chess Tempo"
-    link = "http://chesstempo.com/"
-
 [markup.goldmark]
 
 [markup.goldmark.extensions]
