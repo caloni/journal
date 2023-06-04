@@ -1,9 +1,10 @@
 ---
 categories:
-- chess
+- play
 date: '{{ .Date }}'
 draft: true
 tags:
+- chess
 title: Este é um título provisório
 ---
 
