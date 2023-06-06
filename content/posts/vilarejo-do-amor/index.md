@@ -1,8 +1,7 @@
 ---
 categories:
 - reviews
-date: '2023-06-04T15:29:36-03:00'
-draft: true
+date: '2023-06-05'
 tags:
 - series
 title: Vilarejo do Amor

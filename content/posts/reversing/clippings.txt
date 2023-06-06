@@ -233,3 +233,7 @@
 > The current value of EBP is saved on the stack, and EBP takes the value of ESP. This allows for convenient access to the parameters that were passed on the stack regardless of the current value of ESP while running the function (ESP constantly changes whenever the function pushes parameters into the stack while calling other functions). 
 
 > Typically, a function would also allocate room for local variables by subtracting ESP with the number of bytes needed for local variable storage, but this doesn't happen in this function, indicating that the function doesn't store any local variables in the stack. 
+
+> IA-32 processors support special memory management constructs called segments, but these are not used in Windows and can be safely ignored in most cases. There are several segment registers in IA-32 processors: CS, DS, FS, ES, and SS. On Windows, any mentioning of any of those can be safely ignored except for FS, which allows access to a small area of thread-local memory. Memory accesses that start with FS: are usually accessing that thread-local area. 
+
+> LEA (load effective address) is essentially an arithmetic instruction—it doesn't perform any actual memory access, but is commonly used for calculating addresses (though you can calculate general purpose integers with it). Don't let the DWORD PTR prefix fool you; this instruction is purely an arithmetic operation. 

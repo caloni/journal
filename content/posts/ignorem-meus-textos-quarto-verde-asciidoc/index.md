@@ -2,8 +2,7 @@
 categories:
 - reviews
 - essays
-date: '2023-06-04T15:29:51-03:00'
-draft: true
+date: '2023-06-05'
 tags:
 - movies
 title: Ignorem meus textos fáceis

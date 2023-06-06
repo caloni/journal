@@ -1,9 +1,7 @@
 ---
 categories:
 - cooking
-- reviews
-date: '2023-06-04T15:40:41-03:00'
-draft: true
+date: '2023-06-05'
 tags:
 - coffee
 title: Aprimorando cafezes (sobre blends)

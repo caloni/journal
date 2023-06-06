@@ -1,8 +1,7 @@
 ---
 categories:
 - play
-date: '2023-06-02T12:28:37-03:00'
-draft: true
+date: '2023-06-05'
 link: null
 tags:
 - chess
