@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2009-05-20'
 tags: null
 title: Meu roteiro C++

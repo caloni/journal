@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2020-03-17'
 title: 'Projeto Hu Cpp: Not Fast Enough'
 ---

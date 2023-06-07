@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2007-12-25'
 title: O que acontece quando o contador estoura
 ---

@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2009-07-13'
 tags: null
 title: Name mangling

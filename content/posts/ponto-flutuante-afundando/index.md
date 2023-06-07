@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2013-11-07'
 tags: null
 title: Ponto Flutuante Afundando

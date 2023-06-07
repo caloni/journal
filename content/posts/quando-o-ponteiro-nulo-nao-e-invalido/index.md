@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2008-02-29'
 title: Quando o ponteiro nulo não é inválido
 ---

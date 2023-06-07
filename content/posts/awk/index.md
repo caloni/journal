@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2020-06-07'
 link: https://github.com/Caloni/lectures/blob/master/awk.pdf
 tags: null

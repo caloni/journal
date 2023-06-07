@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2018-07-27'
 link: https://youtu.be/DPkH-D9OWTk
 tags:

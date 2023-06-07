@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2011-03-01'
 tags: null
 title: VTable

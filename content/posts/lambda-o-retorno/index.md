@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2014-04-08'
 tags: null
 title: 'Lambda: o Retorno!'

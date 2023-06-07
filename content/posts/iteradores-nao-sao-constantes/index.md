@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2008-03-04'
 title: Iteradores não são constantes
 ---

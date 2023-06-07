@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2007-10-08'
 title: História do Windows - parte 5.0
 ---

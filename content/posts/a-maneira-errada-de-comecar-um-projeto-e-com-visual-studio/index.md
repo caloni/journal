@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2018-12-11'
 title: A Maneira Errada de Começar um Projeto é com Visual Studio
 ---

@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2020-04-05'
 title: Golang e C
 ---

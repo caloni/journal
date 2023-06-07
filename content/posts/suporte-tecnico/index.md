@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2010-11-05'
 tags: null
 title: Suporte técnico

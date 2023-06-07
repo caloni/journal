@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2008-05-13'
 link: https://youtu.be/j1f7DQkFI5A
 tags:

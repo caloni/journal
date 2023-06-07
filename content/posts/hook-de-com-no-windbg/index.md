@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2007-09-18'
 title: Hook de COM no WinDbg
 ---

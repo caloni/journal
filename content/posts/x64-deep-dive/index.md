@@ -1,7 +1,7 @@
 ---
 categories:
 - reading
-- code
+- coding
 date: '2023-04-05'
 link: https://codemachine.com/articles/x64_deep_dive.html
 tags:

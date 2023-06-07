@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2023-03-04'
 tags: null
 title: Combinação

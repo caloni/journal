@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: 2018-09-18
 tags: null
 title: Coroutine Internals

@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2007-08-21'
 title: 'Erro de compilação: funções muito novas na Win32 API'
 ---

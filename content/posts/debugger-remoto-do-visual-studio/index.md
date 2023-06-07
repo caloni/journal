@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2017-06-13'
 tags: null
 title: Debugger remoto do Visual Studio

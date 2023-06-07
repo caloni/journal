@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2007-10-22'
 title: Guia básico para programadores de primeiro breakpoint
 ---

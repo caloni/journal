@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2016-04-16'
 tags: null
 title: Rank and File (Code Jam)

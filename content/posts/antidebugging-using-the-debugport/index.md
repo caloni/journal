@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2008-08-01'
 tags: null
 title: Antidebugging using the DebugPort

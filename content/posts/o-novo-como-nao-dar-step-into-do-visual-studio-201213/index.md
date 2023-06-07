@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2014-08-01'
 tags: null
 title: O novo 'como não dar step into' do Visual Studio 2012/13

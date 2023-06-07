@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2009-12-04'
 tags: null
 title: 'O boot no Windows: Kernel'

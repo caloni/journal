@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2007-09-12'
 title: Guia básico de controle de código (Source Safe)
 ---

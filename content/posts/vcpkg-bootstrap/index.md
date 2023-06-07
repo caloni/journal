@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2019-11-29'
 title: 'Vcpkg: Bootstrap'
 ---

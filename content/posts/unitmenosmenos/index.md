@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2016-09-05'
 tags: null
 title: unit-menos-menos

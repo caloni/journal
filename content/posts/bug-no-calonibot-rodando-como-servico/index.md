@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2020-05-10'
 title: Bug no Calonibot Rodando Como Serviço
 ---

@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2008-10-29'
 tags: null
 title: Como funciona o PsExec

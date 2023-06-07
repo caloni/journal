@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2008-02-25'
 title: Códigos de entrevista - o ponteiro nulo
 ---

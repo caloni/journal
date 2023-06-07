@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2008-04-09'
 title: Linux e o DHCP
 ---

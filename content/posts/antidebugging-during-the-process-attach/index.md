@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2008-08-05'
 tags: null
 title: Antidebugging during the process attach

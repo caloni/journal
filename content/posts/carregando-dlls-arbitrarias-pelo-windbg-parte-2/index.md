@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2007-11-27'
 title: Carregando DLLs arbitrárias pelo WinDbg ou como escrever script para WinDbg
 ---

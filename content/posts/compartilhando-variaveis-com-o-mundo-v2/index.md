@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2008-02-01'
 title: Compartilhando variáveis com o mundo v2
 ---

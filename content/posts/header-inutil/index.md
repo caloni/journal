@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2012-03-27'
 tags: null
 title: Header Inútil

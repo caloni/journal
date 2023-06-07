@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2008-01-16'
 title: Encontrando as respostas do Flash Pops
 ---

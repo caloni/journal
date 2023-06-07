@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2023-04-16'
 link: https://www.hackerrank.com/interview/interview-preparation-kit
 tags:

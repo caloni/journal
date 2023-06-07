@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2008-01-24'
 title: Keychanger de criança
 ---

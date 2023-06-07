@@ -1,7 +1,7 @@
 ---
 categories:
-- code
 - reading
+- coding
 date: '2023-04-07'
 tags: null
 title: Cracking the code interview

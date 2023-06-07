@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2015-05-26'
 link: https://www.infoq.com/br/presentations/depurando-ate-o-fim-do-mundo/
 title: 'Depurando até o fim do mundo e de volta de novo: source server com GitHub'

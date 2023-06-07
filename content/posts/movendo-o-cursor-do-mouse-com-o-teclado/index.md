@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2007-07-26'
 title: Movendo o cursor do mouse com o teclado
 ---

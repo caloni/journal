@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2008-12-12'
 tags: null
 title: 'Básico do básico: tipos'

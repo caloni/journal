@@ -1,8 +1,8 @@
 ---
 categories:
-- code
 - reading
 - writting
+- coding
 date: '2007-10-12'
 tags:
 - ccpp

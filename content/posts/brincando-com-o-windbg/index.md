@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2007-10-30'
 title: Brincando com o WinDbg (alterando mensagem de erro no Bloco de Notas / Notepad)
 ---

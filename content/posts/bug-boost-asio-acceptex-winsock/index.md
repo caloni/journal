@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: 2019-01-06 19:03:52-02:00
 desc: Handles herdados pelos processos geram travamento na resposta do segundo socket
   criado.

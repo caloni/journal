@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2008-04-15'
 title: Guia básico de controle de código (Mercurial)
 ---

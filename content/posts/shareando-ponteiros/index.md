@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2014-09-03'
 tags: null
 title: Shareando Ponteiros

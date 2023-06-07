@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2011-01-17'
 tags: null
 title: Esse ponteiro vai até onde?

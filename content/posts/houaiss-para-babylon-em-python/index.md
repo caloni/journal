@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2014-02-27'
 tags: null
 title: Houaiss para Babylon em Python!

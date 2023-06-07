@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2009-05-25'
 tags: null
 title: Como compilar em somente um passo

@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2020-03-15'
 title: Projeto Hu Cpp
 ---

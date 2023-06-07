@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2007-12-19'
 title: Drag and drop no C++ Builder
 ---

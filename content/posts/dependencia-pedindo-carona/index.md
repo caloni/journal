@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2011-01-04'
 tags: null
 title: Dependência pedindo carona

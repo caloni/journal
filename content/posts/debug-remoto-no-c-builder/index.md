@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2007-12-13'
 title: Debug remoto no C++ Builder
 ---

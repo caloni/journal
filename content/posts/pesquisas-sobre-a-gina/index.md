@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2008-07-02'
 tags: null
 title: Pesquisas sobre a GINA

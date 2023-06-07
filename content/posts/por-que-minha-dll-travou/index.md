@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2007-10-18'
 title: Por que minha DLL travou?
 ---

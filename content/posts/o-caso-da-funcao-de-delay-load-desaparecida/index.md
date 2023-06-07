@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2008-07-16'
 tags: null
 title: O caso da função de Delay Load desaparecida

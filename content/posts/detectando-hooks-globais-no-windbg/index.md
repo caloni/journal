@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2007-11-09'
 title: Detectando hooks globais no WinDbg (SetWindowsHookEx)
 ---

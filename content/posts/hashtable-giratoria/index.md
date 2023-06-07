@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2023-04-19'
 tags:
 - interview

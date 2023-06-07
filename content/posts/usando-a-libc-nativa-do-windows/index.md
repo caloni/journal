@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2007-11-21'
 title: Usando a libc nativa do Windows
 ---

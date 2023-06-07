@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2023-04-17'
 link: https://youtu.be/Ic7OO3Uw6J0
 tags:

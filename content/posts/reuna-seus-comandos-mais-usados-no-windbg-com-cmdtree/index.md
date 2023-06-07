@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2008-09-19'
 tags: null
 title: Reúna seus comandos mais usados no WinDbg com .cmdtree

@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2017-02-06'
 title: Android Protobuf, Mock Configurável
 ---

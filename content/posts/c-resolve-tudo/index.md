@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: 2019-05-17 13:53:21-03:00
 tags: null
 title: 'C Resolve Tudo: Orientação a Objetos (com Polimorfismo)'

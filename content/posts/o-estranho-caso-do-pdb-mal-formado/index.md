@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2015-08-19'
 tags: null
 title: O Estranho Caso do PDB Mal-Aformado

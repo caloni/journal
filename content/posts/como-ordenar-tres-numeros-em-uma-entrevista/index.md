@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2021-05-13'
 tags: null
 title: Como Ordenar Três Números em Uma Entrevista

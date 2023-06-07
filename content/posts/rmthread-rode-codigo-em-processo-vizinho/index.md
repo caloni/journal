@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2008-01-28'
 title: 'RmThread: rode código em processo vizinho'
 ---

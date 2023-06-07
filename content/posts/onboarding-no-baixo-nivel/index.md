@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2023-06-06'
 tags:
 - reversing

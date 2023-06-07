@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2014-05-20'
 link: https://www.youtube.com/watch?v=zn7-fVtT16k
 tags: null

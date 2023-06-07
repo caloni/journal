@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2011-05-22'
 tags: null
 title: Comparando strings no WinDbg

@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2007-12-11'
 title: Gerenciamento de janelas em C++ Builder
 ---

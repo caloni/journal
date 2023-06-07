@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2007-12-21'
 title: Banco de dados no C++ Builder
 ---

@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2007-08-29'
 title: Hook de API no WinDbg
 ---

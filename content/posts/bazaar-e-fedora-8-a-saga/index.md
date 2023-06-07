@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2008-04-29'
 title: 'Bazaar e Fedora 8: a saga'
 ---

@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: 2018-05-21 00:23:49-03:00
 tags: null
 title: Boost Meta State Machine

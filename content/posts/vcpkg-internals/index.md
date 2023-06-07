@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: 2018-09-12
 tags: null
 title: 'Vcpkg Internals: como o gerenciador de pacotes da M$ funciona por dentro (e

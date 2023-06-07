@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2020-06-18'
 link: https://gist.github.com/Caloni/dd1429495c835a27ece61523e939ec7f
 tags:

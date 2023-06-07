@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2020-05-10'
 tags: []
 title: O Bug Mais Bizarro que já Resolvi

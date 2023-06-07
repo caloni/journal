@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2009-03-31'
 tags: null
 title: Depurando até o último segundo

@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2009-01-30'
 tags: null
 title: As funções-polegar

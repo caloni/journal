@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2008-04-08'
 title: Conversor de Houaiss para Babylon - parte 2
 ---

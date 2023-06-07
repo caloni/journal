@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2012-05-19'
 tags: null
 title: Consumo abusivo de memória

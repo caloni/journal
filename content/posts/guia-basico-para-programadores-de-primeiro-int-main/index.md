@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2007-10-16'
 title: Guia básico para programadores de primeiro int main
 ---

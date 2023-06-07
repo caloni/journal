@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2008-06-18'
 title: Alinhamento de Memória Portável
 ---

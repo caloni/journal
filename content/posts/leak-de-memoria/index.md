@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2020-06-07'
 title: Leak de Memória
 ---

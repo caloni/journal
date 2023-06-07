@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2010-10-09'
 tags: null
 title: Três em um

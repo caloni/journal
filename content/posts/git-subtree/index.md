@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2020-03-22'
 title: Git Subtree
 ---

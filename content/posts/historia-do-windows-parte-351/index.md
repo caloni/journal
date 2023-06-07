@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2007-08-07'
 title: História do Windows - parte 3.51
 ---

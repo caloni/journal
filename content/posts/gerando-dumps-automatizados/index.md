@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2010-08-26'
 tags: null
 title: Gerando dumps automatizados

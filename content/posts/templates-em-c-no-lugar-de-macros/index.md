@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2016-01-14'
 tags: null
 title: Templates em C no lugar de macros

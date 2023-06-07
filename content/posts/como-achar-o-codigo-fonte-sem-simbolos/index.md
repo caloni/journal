@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2010-08-03'
 tags: null
 title: Como achar o código-fonte sem símbolos

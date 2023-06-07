@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2008-10-21'
 title: A Alça Dentro do Fio Gerou um Bloqueio da Morte
 ---

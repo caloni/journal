@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2008-07-10'
 tags: null
 title: Primeiros passos no VMware Workstation

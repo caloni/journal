@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2010-01-18'
 tags: null
 title: Passagem por valor e emails com anexo

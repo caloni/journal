@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2019-11-13'
 title: DTLS Simples... simples?
 ---

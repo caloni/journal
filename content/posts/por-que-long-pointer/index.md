@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2010-04-21'
 tags: null
 title: Por que Long Pointer

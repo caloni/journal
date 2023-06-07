@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2011-05-18'
 tags: null
 title: Sem reflection

@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2008-03-12'
 title: O mistério das pilhas diferentes
 ---

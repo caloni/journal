@@ -1,7 +1,7 @@
 ---
 categories:
-- code
 - reading
+- coding
 date: '2008-04-17'
 tags: []
 title: 'Crash Dump Analysis: o livro'

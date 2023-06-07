@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2019-05-28'
 title: 'C Resolve Tudo: goto'
 ---

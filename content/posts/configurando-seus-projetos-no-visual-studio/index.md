@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2008-02-21'
 title: Configurando seus projetos no Visual Studio (Multi-threaded Debug DLL /MT,
   /MD)

@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2007-12-17'
 title: Sizeof (de novo)
 ---

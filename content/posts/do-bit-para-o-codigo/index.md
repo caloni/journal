@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2019-09-03'
 tags: null
 title: Do Bit para o Código

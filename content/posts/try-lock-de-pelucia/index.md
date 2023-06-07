@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2020-04-07'
 title: Meu Try Lock de Pelúcia
 ---

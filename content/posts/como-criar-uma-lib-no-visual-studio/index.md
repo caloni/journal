@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2008-05-29'
 tags: null
 title: Como criar uma LIB no Visual Studio

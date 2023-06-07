@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: 2018-01-23 20:40:50-02:00
 tags: null
 title: Como Apagar o Prompt do seu Programa Windows

@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2008-12-18'
 tags: null
 title: 'Básico do básico: binário'

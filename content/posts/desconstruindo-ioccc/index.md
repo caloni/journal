@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2008-02-11'
 title: Desconstruindo IOCCC
 ---

@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2009-04-07'
 title: A fila das threads
 ---

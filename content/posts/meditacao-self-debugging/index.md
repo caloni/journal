@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2022-05-31T20:23:43-03:00'
 tags:
 - debug

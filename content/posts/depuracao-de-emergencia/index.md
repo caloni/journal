@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2011-07-26'
 tags: null
 title: Depuração de emergência

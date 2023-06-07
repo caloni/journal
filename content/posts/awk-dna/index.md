@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2022-06-25T20:32:56-03:00'
 link: https://livefreeordichotomize.com/2019/06/04/using_awk_and_r_to_parse_25tb/
 tags: null

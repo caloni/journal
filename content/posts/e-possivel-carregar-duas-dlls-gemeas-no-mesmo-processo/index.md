@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2008-06-21'
 tags: null
 title: É possível carregar duas DLLs gêmeas no mesmo processo?

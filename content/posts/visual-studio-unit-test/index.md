@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: 2019-05-06 22:23:40-03:00
 tags: null
 title: Visual Studio Unit Test (C++)

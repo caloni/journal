@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2014-07-03'
 link: https://www.linkedin.com/company/bit-forge
 tags:

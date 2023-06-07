@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2007-06-20'
 title: Introdução ao Debugging Tools for Windows (usando o Logger para monitorar APIs)
 ---

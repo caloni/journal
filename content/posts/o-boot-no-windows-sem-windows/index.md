@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2009-08-18'
 tags: null
 title: 'O boot no Windows: sem Windows'

@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2014-06-24'
 tags: null
 title: 'Se iterando com os pseudo-ponteiros: uma breve introdução'

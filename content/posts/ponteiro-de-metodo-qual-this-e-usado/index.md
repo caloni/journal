@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2007-11-07'
 title: 'Ponteiro de método: qual this é usado?'
 ---

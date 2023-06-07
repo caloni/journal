@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2010-03-15'
 tags: null
 title: Convivendo entre TodoList e Microsoft Project

@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2021-05-20'
 link: 'null'
 tags: null

@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2007-09-26'
 title: Introdução ao C++ Builder...Turbo C++
 ---

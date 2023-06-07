@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2009-06-18'
 tags: null
 title: Bugs Difíceis de Achar

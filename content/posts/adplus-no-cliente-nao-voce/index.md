@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2009-08-10'
 title: AdPlus no cliente, não você!
 ---

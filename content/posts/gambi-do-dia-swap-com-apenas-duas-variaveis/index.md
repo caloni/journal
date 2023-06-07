@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2007-12-31'
 title: 'Gambi do dia: swap com apenas duas variáveis'
 ---

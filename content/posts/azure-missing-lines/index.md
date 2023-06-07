@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2020-06-04'
 title: 'Azure Missing Lines: Submodules no Git (SSH Version)'
 ---

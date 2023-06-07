@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2007-07-04'
 title: História do Windows - parte 2.0
 ---

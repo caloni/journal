@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2016-01-21'
 tags: null
 title: Log de chamadas API direto do WinDbg

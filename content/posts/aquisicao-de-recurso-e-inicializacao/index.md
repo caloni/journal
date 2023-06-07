@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2007-09-14'
 tags:
 - ccpp

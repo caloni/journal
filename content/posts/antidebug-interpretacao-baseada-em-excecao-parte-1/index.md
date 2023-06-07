@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2007-07-20'
 title: 'Antidebug: interpretação baseada em exceção (parte 1)'
 ---

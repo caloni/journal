@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2010-11-02'
 tags: null
 title: Então você ainda não usa controle de fonte?

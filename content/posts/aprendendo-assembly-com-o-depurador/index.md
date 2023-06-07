@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2008-04-11'
 title: Aprendendo assembly com o depurador
 ---

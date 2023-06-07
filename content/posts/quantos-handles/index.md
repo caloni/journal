@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2016-11-29'
 tags: null
 title: Quantos handles sua aplicação está abrindo?

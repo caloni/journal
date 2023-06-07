@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: 2017-12-17 22:11:40-02:00
 tags: null
 title: Se você não precisa de classe você não precisa de classe

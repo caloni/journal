@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2007-11-05'
 title: 'Ponteiros de método: conceito fundamental'
 ---

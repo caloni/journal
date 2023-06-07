@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2016-08-16'
 tags: null
 title: DBAccess

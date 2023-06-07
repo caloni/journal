@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2014-05-06'
 tags: null
 title: Poker Face

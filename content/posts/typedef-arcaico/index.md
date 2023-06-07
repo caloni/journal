@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2010-04-20'
 tags: null
 title: Typedef arcaico

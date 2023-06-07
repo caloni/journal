@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2014-04-24'
 link: https://youtu.be/GVTCej6zwAk
 title: 2048 motivos para não programar

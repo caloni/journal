@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2008-03-20'
 title: Como rodar qualquer coisa como serviço
 ---

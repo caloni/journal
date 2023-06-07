@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2017-02-08'
 tags: null
 title: Pacotes perdidos do NuGet em projetos C++ no Visual Studio

@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2008-01-14'
 title: Temas no WinDbg
 ---

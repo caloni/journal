@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2007-08-23'
 title: 'Antidebug: ocupando a DebugPort'
 ---

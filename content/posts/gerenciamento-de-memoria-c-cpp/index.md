@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2022-11-19T21:23:30-03:00'
 link: https://youtu.be/wSfRFIUwB1o
 tags:

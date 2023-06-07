@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2015-07-28'
 tags: null
 title: Você sabe o que está usando no seu código?

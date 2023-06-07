@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2015-05-06'
 title: Analisando Erros Pelo Filtro do File Monitor
 ---

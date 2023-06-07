@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2010-10-26'
 tags: null
 title: FormatMessage para... dumies?

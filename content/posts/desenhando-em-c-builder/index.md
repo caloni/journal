@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2007-11-29'
 title: Desenhando em C++ Builder
 ---

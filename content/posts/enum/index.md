@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2010-05-31'
 tags: null
 title: Enum

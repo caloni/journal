@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2007-12-27'
 title: 'Curiosidades inúteis: o operador de subscrito em C++'
 ---

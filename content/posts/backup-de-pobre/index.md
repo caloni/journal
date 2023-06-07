@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2008-03-28'
 title: Backup de pobre
 ---

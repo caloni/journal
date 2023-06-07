@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2008-06-06'
 tags: null
 title: Declaração x definição

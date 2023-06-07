@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2016-06-04'
 link: http://www.slideshare.net/slideshow/embedcode/key/qRb4TSKjnf8Wx
 tags: null

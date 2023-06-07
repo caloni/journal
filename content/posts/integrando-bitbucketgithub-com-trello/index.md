@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2014-07-22'
 tags: null
 title: Integrando BitBucket/GitHub com Trello

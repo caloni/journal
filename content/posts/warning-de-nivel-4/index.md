@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2017-01-17'
 tags: null
 title: Warning de nível 4

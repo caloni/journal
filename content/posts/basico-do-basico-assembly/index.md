@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2009-01-26'
 tags: null
 title: 'Básico do básico: assembly'

@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2011-03-09'
 tags: null
 title: Base64

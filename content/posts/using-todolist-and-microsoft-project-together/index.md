@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2010-04-10'
 tags:
 - english

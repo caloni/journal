@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2010-06-04'
 tags: null
 title: Const e Volatile

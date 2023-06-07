@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2008-03-14'
 title: Influence Board
 ---

@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2022-06-09T11:43:45-03:00'
 tags:
 - windbg

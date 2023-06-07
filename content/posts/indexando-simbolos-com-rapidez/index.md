@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2015-10-28'
 tags: null
 title: Indexando símbolos com rapidez

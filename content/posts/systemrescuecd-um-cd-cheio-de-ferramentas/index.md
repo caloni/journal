@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2017-05-28'
 tags: null
 title: 'SystemRescueCD: um CD cheio de ferramentas Linux para desenvolvedores e suporte'

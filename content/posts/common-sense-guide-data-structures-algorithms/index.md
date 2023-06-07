@@ -1,7 +1,7 @@
 ---
 categories:
-- code
 - reading
+- coding
 date: '2023-04-28'
 tags:
 - interview

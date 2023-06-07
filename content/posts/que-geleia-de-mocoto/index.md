@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2014-04-29'
 tags: null
 title: Que geleia de mocotó

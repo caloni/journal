@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2012-01-11'
 tags:
 - ccppbr

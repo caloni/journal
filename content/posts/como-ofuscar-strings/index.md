@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2010-08-30'
 tags: null
 title: Como ofuscar strings

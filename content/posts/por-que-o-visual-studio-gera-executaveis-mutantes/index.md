@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2015-01-11'
 tags: null
 title: Por que o Visual Studio gera executáveis mutantes

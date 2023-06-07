@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2007-12-03'
 title: Conceitos básicos na programação com C++ Builder
 ---

@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2008-07-30'
 tags: null
 title: Antidebugging using exceptions (part two)

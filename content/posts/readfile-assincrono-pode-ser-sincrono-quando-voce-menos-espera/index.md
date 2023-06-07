@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2017-01-16'
 tags: null
 title: ReadFile assíncrono pode ser síncrono quando você menos espera

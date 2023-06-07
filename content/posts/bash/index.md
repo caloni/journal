@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2022-05-20'
 tags: null
 title: Programando bash script

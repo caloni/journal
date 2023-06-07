@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2008-01-18'
 title: Otimização em funções recursivas
 ---

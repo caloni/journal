@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2008-06-04'
 tags: null
 title: Launchpad e a democracia do código-fonte

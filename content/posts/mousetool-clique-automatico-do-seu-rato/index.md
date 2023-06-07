@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2008-05-21'
 tags: null
 title: 'MouseTool: clique automático do seu rato'

@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2007-06-29'
 title: 'A Inteligência do if: Parte 2'
 ---

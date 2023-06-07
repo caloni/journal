@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2010-08-08'
 tags: null
 title: Não é minha culpa

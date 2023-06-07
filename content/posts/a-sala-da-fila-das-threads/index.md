@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2009-04-17'
 title: A sala da fila das threads
 ---

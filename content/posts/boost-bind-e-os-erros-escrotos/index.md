@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: 2018-10-01 16:34:25-03:00
 tags: null
 title: Boost.Bind e os Erros Escrotos

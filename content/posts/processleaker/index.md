@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2008-08-21'
 tags: null
 title: ProcessLeaker

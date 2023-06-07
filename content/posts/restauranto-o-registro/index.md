@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2010-02-08'
 tags: null
 title: Restaurando o registro

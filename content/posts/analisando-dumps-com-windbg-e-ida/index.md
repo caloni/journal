@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2008-01-10'
 title: Analisando Dumps com WinDbg e IDA
 ---

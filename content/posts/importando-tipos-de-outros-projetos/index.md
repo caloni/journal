@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2010-01-11'
 tags: null
 title: Importando tipos de outros projetos

@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- coding
 date: '2007-12-05'
 title: Interação entre controles no C++ Builder
 ---
