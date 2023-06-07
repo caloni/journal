@@ -1,6 +1,6 @@
 ---
 categories:
-- trips
+- travelling
 date: '2019-12-10'
 tags: []
 title: Monte Verde 2019

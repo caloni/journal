@@ -1,6 +1,6 @@
 ---
 categories:
-- trips
+- travelling
 date: '2022-10-03T19:41:16-03:00'
 tags: null
 title: Argentina 2022

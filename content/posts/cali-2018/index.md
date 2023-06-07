@@ -1,6 +1,6 @@
 ---
 categories:
-- trips
+- travelling
 date: '2018-12-30'
 tags: []
 title: Califórnia, 2018

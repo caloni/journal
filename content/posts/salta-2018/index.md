@@ -1,6 +1,6 @@
 ---
 categories:
-- trips
+- travelling
 date: '2018-07-04'
 tags: []
 title: Salta, 2018

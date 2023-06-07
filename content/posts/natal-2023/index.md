@@ -1,6 +1,6 @@
 ---
 categories:
-- trips
+- travelling
 date: '2023-05-30'
 link: https://goo.gl/maps/f9gcrPwWfQCg9h4K8?coh=178573&entry=tt
 tags: null

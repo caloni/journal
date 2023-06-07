@@ -1,6 +1,6 @@
 ---
 categories:
-- trips
+- travelling
 date: '2022-01-31T20:51:46-03:00'
 tags: []
 title: Casinha no Mato

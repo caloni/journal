@@ -1,6 +1,6 @@
 ---
 categories:
-- trips
+- travelling
 date: '2021-12-07T23:43:27-03:00'
 tags: []
 title: J A Passeios 4x4 em Capitólio
