@@ -1,6 +1,6 @@
 ---
 categories:
-- play
+- playing
 date: '2023-03-13T18:11:27-02:00'
 link: https://www.chess.com/game/daily/471866193
 tags:

@@ -1,7 +1,7 @@
 ---
 categories:
-- play
 - writting
+- playing
 date: '2023-05-10'
 tags:
 - games

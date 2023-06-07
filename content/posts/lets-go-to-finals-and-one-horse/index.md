@@ -1,6 +1,6 @@
 ---
 categories:
-- play
+- playing
 date: '2023-02-20T16:02:00-03:00'
 link: https://www.chess.com/game/live/70657569885
 tags:

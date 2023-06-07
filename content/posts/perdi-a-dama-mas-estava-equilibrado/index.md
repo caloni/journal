@@ -1,6 +1,6 @@
 ---
 categories:
-- play
+- playing
 date: '2021-12-19T22:57:39-03:00'
 tags:
 - chess

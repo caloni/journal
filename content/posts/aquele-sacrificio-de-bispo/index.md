@@ -1,6 +1,6 @@
 ---
 categories:
-- play
+- playing
 date: '2023-01-12T21:18:06-03:00'
 link: null
 tags:
