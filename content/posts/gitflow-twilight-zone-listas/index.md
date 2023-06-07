@@ -1,10 +1,10 @@
 ---
 categories:
-- essays
 - writting
 date: '2023-05-05'
 tags:
 - movies
+- essays
 title: Gitflow Zone e Listas de Cinema
 ---
 

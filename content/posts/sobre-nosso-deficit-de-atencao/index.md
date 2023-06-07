@@ -1,8 +1,9 @@
 ---
 categories:
-- essays
+- writting
 date: '2020-11-14'
-tags: []
+tags:
+- essays
 title: Sobre Nosso Déficit de Atenção
 ---
 

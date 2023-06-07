@@ -1,9 +1,10 @@
 ---
 categories:
 - code
-- essays
+- writting
 date: '2023-06-05'
-tags: null
+tags:
+- essays
 title: Asciidoc is the best
 ---
 

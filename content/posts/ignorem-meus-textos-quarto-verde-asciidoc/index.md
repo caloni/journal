@@ -1,10 +1,10 @@
 ---
 categories:
-- essays
 - writting
 date: '2023-06-05'
 tags:
 - movies
+- essays
 title: Ignorem meus textos fáceis
 ---
 

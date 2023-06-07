@@ -1,8 +1,9 @@
 ---
 categories:
-- essays
+- writting
 date: '2018-07-01'
-tags: []
+tags:
+- essays
 title: Argentina vs França e o Fim da Geração dos Autistas
 ---
 

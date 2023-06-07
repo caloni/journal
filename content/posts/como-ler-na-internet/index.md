@@ -1,9 +1,10 @@
 ---
 categories:
-- essays
+- writting
 date: '2022-09-26T19:45:22-03:00'
 link: https://12ft.io/
-tags: null
+tags:
+- essays
 title: Como ler na internet
 ---
 
