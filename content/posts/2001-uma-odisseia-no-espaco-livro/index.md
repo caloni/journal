@@ -1,7 +1,7 @@
 ---
 categories:
 - reading
-- reviews
+- writting
 date: '2018-05-16'
 tags:
 - books

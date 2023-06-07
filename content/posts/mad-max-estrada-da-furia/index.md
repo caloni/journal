@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2015-05-22'
 link: https://www.imdb.com/title/tt1392190
 tags:

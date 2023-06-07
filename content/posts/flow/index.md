@@ -1,7 +1,7 @@
 ---
 categories:
 - reading
-- reviews
+- writting
 date: '2020-09-27'
 tags:
 - books

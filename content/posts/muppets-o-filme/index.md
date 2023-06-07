@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2012-02-15'
 link: https://www.imdb.com/title/tt0079588
 tags:

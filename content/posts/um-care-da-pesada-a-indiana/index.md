@@ -2,7 +2,7 @@
 categories:
 - cooking
 - essays
-- reviews
+- writting
 date: '2023-05-05'
 tags:
 - movies

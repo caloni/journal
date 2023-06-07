@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2015-12-07'
 link: https://www.imdb.com/title/tt0082912
 tags:

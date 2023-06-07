@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2020-06-13'
 link: https://www.coffeehunter.com/the-coffee/fazenda-sao-joao-2/
 tags:

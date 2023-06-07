@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2015-10-15'
 link: https://www.imdb.com/title/tt3332064
 tags:

@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2021-03-27'
 link: https://www.imdb.com/title/tt0079083
 tags:

@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2018-09-28'
 link: https://www.imdb.com/title/tt2911666
 tags:

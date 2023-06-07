@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2018-05-14'
 link: https://www.imdb.com/title/tt1104001
 tags:

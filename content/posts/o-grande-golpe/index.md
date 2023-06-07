@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2013-10-24'
 link: https://www.imdb.com/title/tt0049406
 tags:

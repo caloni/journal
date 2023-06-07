@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2010-08-08'
 link: https://www.imdb.com/title/tt1219342
 tags:

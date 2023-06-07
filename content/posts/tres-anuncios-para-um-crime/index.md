@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2018-03-13'
 link: https://www.imdb.com/title/tt5027774
 tags:

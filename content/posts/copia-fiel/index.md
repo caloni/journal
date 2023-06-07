@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2014-11-16'
 link: https://www.imdb.com/title/tt1020773
 tags:

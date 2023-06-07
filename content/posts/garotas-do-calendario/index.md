@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2011-01-27'
 link: https://www.imdb.com/title/tt0337909
 tags:

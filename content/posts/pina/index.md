@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2012-04-04'
 link: https://www.imdb.com/title/tt1440266
 tags:

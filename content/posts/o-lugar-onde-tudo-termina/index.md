@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2013-11-22'
 link: https://www.imdb.com/title/tt1817273
 tags:

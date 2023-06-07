@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2019-06-24'
 link: https://www.imdb.com/title/tt9016296
 tags:

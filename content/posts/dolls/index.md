@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2019-03-26'
 link: https://www.imdb.com/title/tt0330229
 tags:

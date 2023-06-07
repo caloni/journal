@@ -2,7 +2,7 @@
 categories:
 - blog
 - code
-- reviews
+- writting
 date: '2023-03-26T12:47:27-02:00'
 tags:
 - series

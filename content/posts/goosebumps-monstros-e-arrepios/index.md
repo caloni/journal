@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2015-10-21'
 link: https://www.imdb.com/title/tt1051904
 tags:

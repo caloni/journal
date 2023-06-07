@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2016-09-11'
 link: https://www.imdb.com/title/tt3882082
 tags:

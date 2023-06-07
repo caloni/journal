@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2012-10-08'
 link: https://www.imdb.com/title/tt0327056
 repost: '2023-05-19'

@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2010-09-25'
 link: https://www.imdb.com/title/tt0861739
 tags:

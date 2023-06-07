@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2011-03-14'
 link: https://www.imdb.com/title/tt1452628
 tags:

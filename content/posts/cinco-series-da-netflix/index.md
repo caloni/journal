@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2019-07-27'
 tags:
 - series

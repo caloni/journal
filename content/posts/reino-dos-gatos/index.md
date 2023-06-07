@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2013-11-09'
 link: https://www.imdb.com/title/tt0347618
 tags:

@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2020-01-12'
 link: https://www.imdb.com/title/tt5180504
 tags:

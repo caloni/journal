@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2016-02-09'
 link: https://www.imdb.com/title/tt1979388
 tags:

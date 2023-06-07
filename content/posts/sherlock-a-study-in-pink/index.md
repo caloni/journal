@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2018-01-25'
 link: https://www.imdb.com/title/tt1665071
 tags:

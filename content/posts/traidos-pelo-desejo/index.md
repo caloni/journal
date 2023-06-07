@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2019-06-23'
 link: https://www.imdb.com/title/tt0104036
 tags:

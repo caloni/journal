@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2018-01-30'
 link: https://www.imdb.com/title/tt5753856
 tags:

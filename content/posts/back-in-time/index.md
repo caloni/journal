@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2015-10-27'
 link: https://www.imdb.com/title/tt3118874
 tags:

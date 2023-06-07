@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2016-04-15'
 link: https://www.imdb.com/title/tt3667648
 tags:

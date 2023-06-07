@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2015-07-28'
 link: https://www.imdb.com/title/tt1492966
 tags:

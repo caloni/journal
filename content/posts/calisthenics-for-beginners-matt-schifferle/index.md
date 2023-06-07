@@ -1,7 +1,7 @@
 ---
 categories:
 - reading
-- reviews
+- writting
 date: '2023-05-19'
 tags:
 - body

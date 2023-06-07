@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2020-03-19'
 link: https://www.imdb.com/title/tt3032476
 tags:

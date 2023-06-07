@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2013-10-20'
 link: https://www.imdb.com/title/tt1440345
 tags:

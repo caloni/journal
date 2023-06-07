@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2018-10-21'
 link: https://www.imdb.com/title/tt7610008
 tags:

@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2014-01-02'
 link: https://www.imdb.com/title/tt2132285
 tags:

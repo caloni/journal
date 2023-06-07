@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2011-11-29'
 link: https://www.imdb.com/title/tt1498569
 tags:

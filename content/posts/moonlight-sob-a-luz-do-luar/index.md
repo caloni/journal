@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2017-01-12'
 link: https://www.imdb.com/title/tt4975722
 tags:

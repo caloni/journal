@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2014-12-18'
 link: https://www.imdb.com/title/tt3019796
 tags:

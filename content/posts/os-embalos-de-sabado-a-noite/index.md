@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2015-12-11'
 link: https://www.imdb.com/title/tt0076666
 tags:

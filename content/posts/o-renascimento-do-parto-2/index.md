@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2018-05-10'
 tags:
 - cinemaqui

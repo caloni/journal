@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2011-09-05'
 link: https://www.imdb.com/title/tt0110357
 tags:

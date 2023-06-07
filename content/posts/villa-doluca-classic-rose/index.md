@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2021-02-16'
 link: http://www.dolucawines.com/products/our-wines-detail/56/villa-doluca-classic-rose
 tags:

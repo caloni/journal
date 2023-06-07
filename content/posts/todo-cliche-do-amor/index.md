@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2018-04-09'
 link: https://www.imdb.com/title/tt5607038
 tags:

@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2021-12-15T20:00:00-03:00'
 tags:
 - lists

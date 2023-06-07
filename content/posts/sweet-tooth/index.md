@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2021-06-12'
 link: 'null'
 tags:

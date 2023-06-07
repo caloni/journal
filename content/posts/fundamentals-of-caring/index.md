@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2017-01-27'
 link: https://www.imdb.com/title/tt2452386
 tags:

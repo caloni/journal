@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2015-09-06'
 tags:
 - wine

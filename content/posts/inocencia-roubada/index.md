@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2019-07-01'
 link: https://www.imdb.com/title/tt7502234
 tags:

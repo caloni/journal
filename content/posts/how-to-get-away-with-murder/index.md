@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2015-11-28'
 link: https://www.imdb.com/title/tt3205802
 tags:

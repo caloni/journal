@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2014-06-10'
 link: https://www.imdb.com/title/tt1631867
 tags:

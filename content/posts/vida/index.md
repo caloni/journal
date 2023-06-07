@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2017-04-24'
 link: https://www.imdb.com/title/tt5442430
 tags:

@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2019-11-26'
 link: https://www.imdb.com/title/tt8028526
 tags:

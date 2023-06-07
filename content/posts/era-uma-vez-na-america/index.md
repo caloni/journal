@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2015-04-02'
 link: https://www.imdb.com/title/tt0087843
 tags:

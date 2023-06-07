@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2014-11-28'
 link: https://www.imdb.com/title/tt1259521
 tags:

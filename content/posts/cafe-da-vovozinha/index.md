@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2022-08-24T21:02:48-03:00'
 tags:
 - coffee

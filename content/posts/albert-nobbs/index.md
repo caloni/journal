@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2016-03-27'
 link: https://www.imdb.com/title/tt1602098
 tags:

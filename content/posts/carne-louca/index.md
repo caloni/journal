@@ -1,7 +1,7 @@
 ---
 categories:
-- reviews
 - cooking
+- writting
 date: '2018-09-28'
 tags:
 - food

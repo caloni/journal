@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2019-03-24'
 link: https://www.imdb.com/title/tt0089530
 tags:

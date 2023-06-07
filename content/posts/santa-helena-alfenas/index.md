@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2021-01-14'
 link: https://www.graogourmet.com/cafes-selecionados/cafes/fazenda-santa-helena/
 tags:

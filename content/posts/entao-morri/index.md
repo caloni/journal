@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2016-11-02'
 tags:
 - mostra

@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2022-08-27T14:04:48-03:00'
 link: https://cinemaqui.com.br/wp-admin/post.php?post=41301&action=edit
 tags:

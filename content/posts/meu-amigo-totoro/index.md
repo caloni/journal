@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2016-05-15'
 link: https://www.imdb.com/title/tt0096283
 tags:

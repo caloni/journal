@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2016-03-13'
 link: https://www.imdb.com/title/tt2200144
 tags:

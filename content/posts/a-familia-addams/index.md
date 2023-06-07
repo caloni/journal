@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2012-09-19'
 link: https://www.imdb.com/title/tt0101272
 tags:

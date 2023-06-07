@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2010-06-11'
 link: https://www.imdb.com/title/tt1212436
 tags:

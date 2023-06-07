@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2010-06-04'
 link: https://www.imdb.com/title/tt1045772
 tags:

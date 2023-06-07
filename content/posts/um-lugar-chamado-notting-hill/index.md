@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2010-08-27'
 link: https://www.imdb.com/title/tt0125439
 tags:

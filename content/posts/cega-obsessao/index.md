@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2019-09-07'
 link: https://www.imdb.com/title/tt0140384
 tags:

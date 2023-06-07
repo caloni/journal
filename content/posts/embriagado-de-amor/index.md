@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2016-03-07'
 link: https://www.imdb.com/title/tt0272338
 tags:

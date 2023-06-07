@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2021-10-21T22:22:13-03:00'
 tags:
 - animes

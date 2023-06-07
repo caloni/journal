@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2010-05-28'
 link: https://www.imdb.com/title/tt1139328
 tags:

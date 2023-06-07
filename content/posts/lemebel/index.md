@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2019-10-29'
 link: https://www.imdb.com/title/tt9654050
 tags:

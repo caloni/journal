@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2011-03-22'
 link: https://www.imdb.com/title/tt0480687
 tags:

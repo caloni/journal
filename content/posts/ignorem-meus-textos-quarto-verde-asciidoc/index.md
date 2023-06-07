@@ -1,7 +1,7 @@
 ---
 categories:
-- reviews
 - essays
+- writting
 date: '2023-06-05'
 tags:
 - movies

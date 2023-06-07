@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2017-09-12'
 tags:
 - beer

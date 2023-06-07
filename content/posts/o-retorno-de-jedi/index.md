@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2011-12-31'
 link: https://www.imdb.com/title/tt0086190
 tags:

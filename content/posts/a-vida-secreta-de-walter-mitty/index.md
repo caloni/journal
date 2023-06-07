@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2013-12-26'
 link: https://www.imdb.com/title/tt0359950
 tags:

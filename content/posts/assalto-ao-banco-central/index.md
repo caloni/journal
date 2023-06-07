@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2011-08-23'
 link: https://www.imdb.com/title/tt1579223
 tags:

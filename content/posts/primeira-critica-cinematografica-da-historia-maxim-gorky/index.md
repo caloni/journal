@@ -1,7 +1,7 @@
 ---
 categories:
-- reviews
 - reading
+- writting
 date: '2021-10-16T12:38:13-03:00'
 tags:
 - movies

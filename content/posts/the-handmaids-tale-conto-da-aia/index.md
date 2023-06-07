@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2018-04-15'
 link: https://www.imdb.com/title/tt5834204
 tags:

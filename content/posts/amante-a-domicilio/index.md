@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2014-05-08'
 link: https://www.imdb.com/title/tt2258345
 tags:

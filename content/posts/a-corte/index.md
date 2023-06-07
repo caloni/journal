@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2016-06-01'
 link: https://www.imdb.com/title/tt4216908
 tags:

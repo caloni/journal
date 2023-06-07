@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2017-03-05'
 link: https://www.imdb.com/title/tt3315342
 tags:

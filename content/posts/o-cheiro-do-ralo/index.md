@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2014-05-31'
 link: https://www.imdb.com/title/tt0489458
 tags:

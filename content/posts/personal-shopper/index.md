@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2017-02-20'
 link: https://www.imdb.com/title/tt4714782
 tags:

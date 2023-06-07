@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2016-12-28'
 link: https://www.imdb.com/title/tt3748528
 tags:

@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2012-11-17'
 link: https://www.imdb.com/title/tt1324999
 tags:

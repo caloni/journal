@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2017-04-18'
 link: https://www.imdb.com/title/tt6230488
 tags:

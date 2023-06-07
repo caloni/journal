@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2015-03-15'
 link: https://www.imdb.com/title/tt2084970
 tags:

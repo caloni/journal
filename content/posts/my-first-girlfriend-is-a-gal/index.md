@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2020-10-04'
 link: https://www.crunchyroll.com/my-first-girlfriend-is-a-gal
 tags:

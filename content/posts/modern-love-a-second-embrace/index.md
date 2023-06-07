@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2022-03-06T21:18:10-03:00'
 tags:
 - series

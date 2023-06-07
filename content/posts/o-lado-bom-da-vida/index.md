@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2013-02-07'
 link: https://www.imdb.com/title/tt1045658
 tags:

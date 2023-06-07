@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2011-08-17'
 link: https://www.imdb.com/title/tt0478304
 tags:

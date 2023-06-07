@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2022-10-20T18:53:11-03:00'
 tags:
 - cinemaqui

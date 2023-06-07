@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2016-12-15'
 link: https://www.imdb.com/title/tt5215952
 tags:

@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2011-09-01'
 link: https://www.imdb.com/title/tt0000417
 tags:

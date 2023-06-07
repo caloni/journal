@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2020-10-13'
 tags:
 - wine

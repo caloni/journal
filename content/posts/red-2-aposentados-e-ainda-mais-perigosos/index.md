@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2013-08-05'
 link: https://www.imdb.com/title/tt1821694
 tags:

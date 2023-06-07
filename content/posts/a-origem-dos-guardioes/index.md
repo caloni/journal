@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2012-12-06'
 link: https://www.imdb.com/title/tt1446192
 tags:

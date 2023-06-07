@@ -2,7 +2,7 @@
 categories:
 - code
 - reading
-- reviews
+- writting
 date: '2007-10-12'
 tags:
 - ccpp

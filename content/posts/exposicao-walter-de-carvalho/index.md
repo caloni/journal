@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2014-10-03'
 tags:
 - movies

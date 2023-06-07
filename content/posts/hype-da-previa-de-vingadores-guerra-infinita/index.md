@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2018-04-24'
 link: https://www.imdb.com/title/tt4154756
 tags:

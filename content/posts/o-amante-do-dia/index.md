@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2017-10-28'
 link: https://www.imdb.com/title/tt5642124
 tags:

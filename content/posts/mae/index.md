@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2017-09-15'
 link: https://www.imdb.com/title/tt5109784
 tags:

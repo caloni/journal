@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2022-05-01T13:54:13-03:00'
 tags:
 - movies

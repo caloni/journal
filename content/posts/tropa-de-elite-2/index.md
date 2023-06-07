@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2010-10-08'
 link: https://www.imdb.com/title/tt1555149
 tags:

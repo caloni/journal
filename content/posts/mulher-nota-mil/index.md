@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2011-08-22'
 link: https://www.imdb.com/title/tt0090305
 tags:

@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2021-04-04'
 link: https://www.imdb.com/title/tt5446578
 tags:

@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2016-04-30'
 link: https://www.imdb.com/title/tt4598764
 tags:

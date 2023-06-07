@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2021-05-22'
 link: https://www.imdb.com/title/tt10468230/
 tags:

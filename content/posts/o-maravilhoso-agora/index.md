@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2016-04-13'
 link: https://www.imdb.com/title/tt1714206
 tags:

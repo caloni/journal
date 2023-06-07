@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2020-09-06'
 link: https://www.imdb.com/title/tt1032856
 tags:

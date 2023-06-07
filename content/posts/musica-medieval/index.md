@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2021-12-21T11:00:49-03:00'
 tags:
 - music

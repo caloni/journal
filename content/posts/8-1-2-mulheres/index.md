@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2020-01-09'
 link: https://www.imdb.com/title/tt0154443
 tags:

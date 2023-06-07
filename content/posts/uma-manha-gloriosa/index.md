@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2014-04-19'
 link: https://www.imdb.com/title/tt1126618
 tags:

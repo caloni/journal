@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2012-05-07'
 link: https://www.imdb.com/title/tt0063350
 tags:

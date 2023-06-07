@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2012-08-25'
 link: https://www.imdb.com/title/tt0299977
 tags:

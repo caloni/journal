@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2020-03-08'
 link: https://www.imdb.com/title/tt6523720
 tags:

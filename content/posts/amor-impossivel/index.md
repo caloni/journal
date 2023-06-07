@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2012-07-02'
 link: https://www.imdb.com/title/tt1441952
 tags:

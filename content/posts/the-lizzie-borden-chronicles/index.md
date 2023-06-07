@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2016-05-20'
 link: https://www.imdb.com/title/tt4145760
 tags:

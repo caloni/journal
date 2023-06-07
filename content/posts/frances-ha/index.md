@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2013-12-29'
 link: https://www.imdb.com/title/tt2347569
 tags:

@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2013-10-19'
 link: https://www.imdb.com/title/tt0048254
 tags:

@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2014-11-09T20:00:00-03:00'
 link: https://www.imdb.com/title/tt0773262
 tags:

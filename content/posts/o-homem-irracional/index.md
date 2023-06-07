@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2016-07-29'
 link: https://www.imdb.com/title/tt3715320
 tags:

@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2012-08-17'
 link: https://www.imdb.com/title/tt1345836
 tags:

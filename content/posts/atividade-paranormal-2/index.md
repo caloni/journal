@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2010-11-07'
 link: https://www.imdb.com/title/tt1536044
 tags:

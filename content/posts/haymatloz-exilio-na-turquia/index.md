@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2016-10-31'
 link: https://www.imdb.com/title/tt1121024
 tags:

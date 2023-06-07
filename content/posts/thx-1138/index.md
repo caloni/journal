@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2016-12-03'
 link: https://www.imdb.com/title/tt0066434
 tags:

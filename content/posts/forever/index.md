@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2021-06-12'
 link: https://www.imdb.com/title/tt7720790
 tags:

@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2020-07-20'
 link: https://angelyvino.blogspot.com/2017/04/bodega-nanni-vinos-organicos-de-cafayate.html
 tags:

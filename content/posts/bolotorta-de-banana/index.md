@@ -1,7 +1,7 @@
 ---
 categories:
-- reviews
 - cooking
+- writting
 date: '2020-06-23'
 tags:
 - food

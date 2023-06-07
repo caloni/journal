@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2013-07-10'
 link: https://www.imdb.com/title/tt1559547
 tags:

@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2016-07-16T21:00:00-03:00'
 link: https://www.imdb.com/title/tt0903747
 tags:

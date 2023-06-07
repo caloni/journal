@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2019-05-10'
 link: https://www.imdb.com/title/tt7425520
 tags:

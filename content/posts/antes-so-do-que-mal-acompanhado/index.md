@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2013-11-16'
 link: https://www.imdb.com/title/tt0093748
 tags:

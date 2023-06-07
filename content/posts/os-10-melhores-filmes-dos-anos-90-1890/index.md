@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2016-09-11'
 tags:
 - lists

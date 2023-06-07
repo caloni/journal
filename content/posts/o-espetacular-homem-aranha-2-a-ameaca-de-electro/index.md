@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2014-05-06'
 link: https://www.imdb.com/title/tt1872181
 tags:

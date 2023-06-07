@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2018-10-26'
 link: https://www.imdb.com/title/tt3032476
 tags:

@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2020-09-29'
 link: http://kayna.com.br/cafe/
 tags:

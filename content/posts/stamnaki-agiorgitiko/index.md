@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2021-01-12'
 link: https://www.vivino.com/stamnaki-agiorgitiko/w/5367261
 tags:

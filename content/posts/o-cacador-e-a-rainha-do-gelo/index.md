@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2018-07-01'
 link: https://www.imdb.com/title/tt2381991
 tags:

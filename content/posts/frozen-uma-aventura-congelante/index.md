@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2014-01-09'
 link: https://www.imdb.com/title/tt2294629
 tags:

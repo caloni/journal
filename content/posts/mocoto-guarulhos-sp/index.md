@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2023-05-30'
 link: https://goo.gl/maps/uwpnjM8eZxDmy7c79?coh=178573&entry=tt
 tags:

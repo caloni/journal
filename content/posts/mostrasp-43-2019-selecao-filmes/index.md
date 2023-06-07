@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2019-10-07'
 tags:
 - lists

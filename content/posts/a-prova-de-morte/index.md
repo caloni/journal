@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2010-07-16'
 link: https://www.imdb.com/title/tt1028528
 tags:

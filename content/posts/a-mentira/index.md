@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2014-03-14'
 link: https://www.imdb.com/title/tt1282140
 tags:

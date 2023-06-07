@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2018-11-07'
 link: https://www.imdb.com/title/tt5779372
 tags:

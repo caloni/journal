@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2020-06-13'
 link: https://www.imdb.com/title/tt0301321
 tags:

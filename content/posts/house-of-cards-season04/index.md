@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2016-03-13T20:40:00-03:00'
 link: https://www.imdb.com/title/tt1856010
 tags:

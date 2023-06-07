@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2015-10-08'
 link: https://www.imdb.com/title/tt2718492
 tags:

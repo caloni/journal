@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2015-07-18'
 link: https://www.imdb.com/title/tt4659524
 tags:

@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2015-03-13'
 link: https://www.imdb.com/title/tt2562232
 tags:

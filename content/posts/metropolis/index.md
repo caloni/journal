@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2014-06-06'
 link: https://www.imdb.com/title/tt0017136
 tags:

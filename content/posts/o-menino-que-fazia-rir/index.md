@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2019-09-23'
 link: https://www.imdb.com/title/tt5581284
 tags:

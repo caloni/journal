@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2022-08-24T20:48:31-03:00'
 link: https://cinemaqui.com.br/assalto-na-paulista/
 tags:

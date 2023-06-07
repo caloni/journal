@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2010-04-23'
 link: https://www.imdb.com/title/tt1014759
 tags:

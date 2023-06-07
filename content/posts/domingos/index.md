@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2011-11-28'
 tags:
 - movies

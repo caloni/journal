@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2015-09-16'
 link: https://www.imdb.com/title/tt2406252
 tags:

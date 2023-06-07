@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2019-08-08'
 link: https://www.imdb.com/title/tt0397229
 tags:

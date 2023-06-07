@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2020-02-08'
 link: https://www.imdb.com/title/tt0244316
 tags:

@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2014-12-21'
 link: https://www.imdb.com/title/tt1748122
 tags:

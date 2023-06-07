@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2018-02-21'
 external: 'true'
 link: https://www.imdb.com/title/tt2873282

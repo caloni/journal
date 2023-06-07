@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2011-05-27'
 link: https://www.imdb.com/title/tt0120915
 tags:

@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2010-10-29'
 link: https://www.imdb.com/title/tt1720038
 tags:

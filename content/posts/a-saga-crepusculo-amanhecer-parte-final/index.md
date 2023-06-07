@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2012-11-20'
 link: https://www.imdb.com/title/tt1673434
 tags:

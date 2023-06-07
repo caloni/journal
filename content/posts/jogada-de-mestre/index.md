@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2015-04-30'
 link: https://www.imdb.com/title/tt2917388
 tags:

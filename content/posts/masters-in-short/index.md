@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2020-10-25'
 link: https://mostraplay.mostra.org/film/masters-in-short/
 tags:

@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2017-08-21'
 link: https://www.imdb.com/title/tt6315640
 tags:

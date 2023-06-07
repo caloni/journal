@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2014-02-07'
 link: https://www.imdb.com/title/tt0118715
 tags:

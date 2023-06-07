@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2021-08-20T21:43:39-03:00'
 tags:
 - series

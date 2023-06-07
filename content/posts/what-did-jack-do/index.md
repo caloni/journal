@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2020-03-22'
 link: https://www.imdb.com/title/tt11644096
 tags:

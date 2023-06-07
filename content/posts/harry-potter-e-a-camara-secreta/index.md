@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2019-12-27T18:21:00-03:00'
 link: https://www.imdb.com/title/tt0295297
 tags:

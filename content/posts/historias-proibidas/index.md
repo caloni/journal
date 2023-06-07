@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2020-06-22'
 link: https://www.imdb.com/title/tt0250081
 tags:

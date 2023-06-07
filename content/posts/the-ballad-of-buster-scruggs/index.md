@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2018-12-11'
 link: https://www.imdb.com/title/tt6412452
 tags:

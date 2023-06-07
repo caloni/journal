@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2017-01-12'
 tags:
 - movies

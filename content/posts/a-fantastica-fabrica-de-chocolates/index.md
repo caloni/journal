@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2014-12-26'
 link: https://www.imdb.com/title/tt0067992
 tags:

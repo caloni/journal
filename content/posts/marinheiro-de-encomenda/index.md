@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2015-01-06'
 link: https://www.imdb.com/title/tt0019421
 tags:

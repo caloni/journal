@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2018-08-21'
 link: https://www.imdb.com/title/tt6289724
 tags:

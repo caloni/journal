@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2017-03-08'
 link: https://www.imdb.com/title/tt6397576
 tags:

@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2019-04-27'
 link: https://www.imdb.com/title/tt10050772
 tags:

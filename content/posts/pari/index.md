@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2020-10-25'
 link: https://www.imdb.com/title/tt7900106
 tags:

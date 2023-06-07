@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2020-12-26'
 link: https://www.imdb.com/title/tt9556748
 tags:

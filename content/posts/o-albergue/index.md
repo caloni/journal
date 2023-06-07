@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2014-12-15'
 link: https://www.imdb.com/title/tt0450278
 tags:

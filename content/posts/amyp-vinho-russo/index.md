@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2022-04-24T12:22:29-03:00'
 tags:
 - wine

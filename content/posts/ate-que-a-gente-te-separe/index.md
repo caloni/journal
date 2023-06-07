@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2019-02-26'
 link: https://www.imdb.com/title/tt6728096
 tags:

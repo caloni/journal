@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2013-10-16'
 link: https://www.imdb.com/title/tt2219514
 tags:

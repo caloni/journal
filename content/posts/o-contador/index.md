@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2016-10-28'
 link: https://www.imdb.com/title/tt2140479
 tags:

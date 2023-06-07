@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2012-10-21'
 link: https://www.imdb.com/title/tt0069293
 tags:

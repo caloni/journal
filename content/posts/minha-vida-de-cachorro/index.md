@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2015-08-02'
 link: https://www.imdb.com/title/tt0089606
 tags:

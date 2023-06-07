@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2017-05-26'
 link: https://www.imdb.com/title/tt5029608
 tags:

@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2020-07-20'
 link: https://www.imdb.com/title/tt12313914
 tags:

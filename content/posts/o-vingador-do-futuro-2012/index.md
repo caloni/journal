@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2012-09-05'
 link: https://www.imdb.com/title/tt1386703
 tags:

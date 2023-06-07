@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2022-01-14T22:34:32-03:00'
 tags:
 - beer

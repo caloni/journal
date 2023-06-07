@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2016-08-01'
 link: https://www.imdb.com/title/tt0475290
 tags:

@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2019-02-02'
 link: https://www.imdb.com/title/tt0209144
 tags:

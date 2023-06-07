@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2017-08-09'
 link: https://www.imdb.com/title/tt3203620
 tags:

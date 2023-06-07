@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2016-04-24'
 link: https://www.imdb.com/title/tt1931533
 tags:

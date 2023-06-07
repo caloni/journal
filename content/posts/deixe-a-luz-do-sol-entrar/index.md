@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2018-03-24'
 link: https://www.imdb.com/title/tt6423776
 tags:

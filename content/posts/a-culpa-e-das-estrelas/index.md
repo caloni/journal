@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2014-06-14'
 link: https://www.imdb.com/title/tt2582846
 tags:

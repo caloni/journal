@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2011-06-20'
 link: https://www.imdb.com/title/tt0450405
 tags:

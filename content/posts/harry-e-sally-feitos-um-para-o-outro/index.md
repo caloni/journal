@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2013-07-01'
 link: https://www.imdb.com/title/tt0098635
 tags:

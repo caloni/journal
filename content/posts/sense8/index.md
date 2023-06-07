@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2015-07-06'
 link: https://www.imdb.com/title/tt2431438
 tags:

@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2019-06-19'
 link: https://www.imdb.com/title/tt1979376
 tags:

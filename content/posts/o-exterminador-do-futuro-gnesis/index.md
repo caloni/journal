@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2015-10-16'
 link: https://www.imdb.com/title/tt1340138
 tags:

@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2015-02-14'
 link: https://www.imdb.com/title/tt3316960
 tags:

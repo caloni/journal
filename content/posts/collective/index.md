@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2020-03-10'
 link: https://www.imdb.com/title/tt10706602
 tags:

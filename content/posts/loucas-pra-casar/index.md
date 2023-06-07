@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2016-01-04'
 link: https://www.imdb.com/title/tt3948438
 tags:

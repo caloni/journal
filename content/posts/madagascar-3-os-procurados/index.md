@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2012-06-13'
 link: https://www.imdb.com/title/tt1277953
 tags:

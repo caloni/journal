@@ -1,7 +1,7 @@
 ---
 categories:
 - reading
-- reviews
+- writting
 date: '2022-12-26T22:16:13-03:00'
 tags:
 - books

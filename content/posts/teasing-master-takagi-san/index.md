@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2019-12-26'
 link: https://www.imdb.com/title/tt7808344
 tags:

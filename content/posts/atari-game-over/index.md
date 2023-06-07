@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2015-12-13'
 link: https://www.imdb.com/title/tt3715406
 tags:

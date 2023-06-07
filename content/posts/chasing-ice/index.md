@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2014-02-09'
 link: https://www.imdb.com/title/tt1579361
 tags:

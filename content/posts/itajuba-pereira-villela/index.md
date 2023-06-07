@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2023-01-31T23:06:52-03:00'
 link: https://pereiravillela.com.br/shop/
 repost: '2023-04-24'

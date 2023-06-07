@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2014-10-13'
 link: https://www.imdb.com/title/tt0099785
 tags:

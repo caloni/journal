@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2017-09-17'
 link: https://www.imdb.com/title/tt0120338
 tags:

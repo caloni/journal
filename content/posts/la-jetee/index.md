@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2020-04-26'
 link: https://www.imdb.com/title/tt0056119
 tags:

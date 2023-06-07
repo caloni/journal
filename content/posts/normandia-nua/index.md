@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2019-01-15'
 link: https://www.imdb.com/title/tt6923840
 tags:

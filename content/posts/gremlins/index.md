@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2014-11-27'
 link: https://www.imdb.com/title/tt0087363
 tags:

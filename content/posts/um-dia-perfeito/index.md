@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2016-07-05'
 link: https://www.imdb.com/title/tt3577624
 tags:

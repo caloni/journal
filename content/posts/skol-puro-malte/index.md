@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2020-11-08'
 tags:
 - beer

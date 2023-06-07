@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2018-01-26'
 link: https://www.imdb.com/title/tt5052448
 tags:

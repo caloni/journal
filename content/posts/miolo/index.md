@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2019-05-01'
 tags:
 - wine

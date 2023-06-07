@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2023-04-05'
 link: https://www.coffeegeek.com/mini-review/timemore-chestnut-c2-grinder-first-look
 tags:

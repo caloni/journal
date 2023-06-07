@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2015-06-18'
 link: https://www.imdb.com/title/tt0040522
 tags:

@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2015-05-12'
 link: https://www.imdb.com/title/tt1617661
 tags:

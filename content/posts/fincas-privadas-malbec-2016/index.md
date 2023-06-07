@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2017-06-11'
 tags:
 - food

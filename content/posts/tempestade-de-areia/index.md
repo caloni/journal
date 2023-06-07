@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2016-10-21'
 link: https://www.imdb.com/title/tt4365518
 tags:

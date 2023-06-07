@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2014-08-31'
 link: https://www.imdb.com/title/tt1799631
 tags:

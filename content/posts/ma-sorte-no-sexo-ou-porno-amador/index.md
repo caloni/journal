@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2021-10-12T12:37:56-03:00'
 tags:
 - mostra

@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2016-06-06'
 link: https://www.imdb.com/title/tt2382009
 tags:

@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2020-05-04'
 link: https://www.imdb.com/title/tt0076155
 tags:

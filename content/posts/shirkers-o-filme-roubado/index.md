@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2018-11-09'
 link: https://www.imdb.com/title/tt7472352
 tags:

@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2019-05-25'
 link: https://www.imdb.com/title/tt5884052
 tags:

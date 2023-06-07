@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2017-01-18'
 link: https://www.imdb.com/title/tt0018756
 tags:

@@ -1,6 +1,6 @@
 ---
 categories:
-- reviews
+- writting
 date: '2019-02-07'
 link: https://www.imdb.com/title/tt6768578
 tags:
