@@ -1,8 +1,9 @@
 ---
-categories: null
-date: '2023-06-05T21:10:04-03:00'
-draft: true
-tags: null
+categories:
+- code
+date: '2023-06-06'
+tags:
+- reversing
 title: OnBoarding no baixo nível
 ---
 
@@ -54,7 +55,7 @@ Não conhecia este aqui e fiquei muito empolgado. Ele faz comparação entre reg
 
 ## [Wireshark](https://www.wireshark.org/)
 
-Essencial para analisar tráfego de rede no detalhe, já me quebrou muitos galhos quando precisava entender erros de comunicação com a bolsa de valores. Sim, eles também erra. Quem diria.
+Essencial para analisar tráfego de rede no detalhe, já me quebrou muitos galhos quando precisava entender erros de comunicação com a bolsa de valores. Sim, eles também erram. Quem diria.
 
 ## [ArtMoney](https://artmoney.ru/)
 
@@ -76,7 +77,7 @@ Por falar nisso, é importante lembrar que o Windows 11 requer um chip de TPM 2.
 
 ## Remote Debugging
 
-A depuração remota é importantíssimo quando se precisa acessar múltiplos ambientes, muitos deles montados de uma maneira bem específica para reproduzir um bug. Por isso o uso do msvsmon, disponível na instalação do Visual Studio, é primordial.
+A depuração remota é importantíssima quando se precisa acessar múltiplos ambientes, muitos deles montados de uma maneira bem específica para reproduzir um bug. Por isso o uso do msvsmon, disponível na instalação do Visual Studio, é primordial.
 
 Você pode encontrar as versões para x86 e x64 do msvsmon dentro da pasta de instalação do Visual Studio. Por exemplo:
 
@@ -97,3 +98,17 @@ nssm.exe install msvsmon c:\tools\rmdbg\x86\msvsmon.exe /anyuser /noauth /timeou
 Use o path completo de onde está o msvsmon.exe na máquina guest para rodar este comando. O serviço é instalado por padrão como automático, então ao reiniciar a máquina ele já estará em execução.
 
 [este guia de instalação]: https://www.digitalcitizen.life/install-windows-11-virtual-machine/
+
+## Kernel Debugging
+
+Qual a graça de depurar apenas os programas em user mode? E aquela tela azul marota, ou acompanhar o boot da máquina em câmera hiperlenta? Aproveite que já está com sua VM bonitinha no ar e configure o debug de kernel rodando um cmd como administrador e executando alguns comandos no bcdedit.
+
+```
+bcdedit /copy {current} /d Debug
+bcdedit /debug {new-id} ON
+bcdedit /dbgsettings SERIAL DEBUGPORT:1 BAUDRATE:115200
+```
+
+Isso irá criar uma segunda opção de boot que irá aparecer quando ligar a máquina (timeout padrão de 30 segundos para escolher). Se configurar debug pela porta serial crie uma na máquina virtual apontando para um named pipe. No WinDbg conecte usando este pipe (e.g. `\\.\pipe\com_1´).
+
+Agora começa a diversão =).

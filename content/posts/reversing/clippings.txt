@@ -237,3 +237,35 @@
 > IA-32 processors support special memory management constructs called segments, but these are not used in Windows and can be safely ignored in most cases. There are several segment registers in IA-32 processors: CS, DS, FS, ES, and SS. On Windows, any mentioning of any of those can be safely ignored except for FS, which allows access to a small area of thread-local memory. Memory accesses that start with FS: are usually accessing that thread-local area. 
 
 > LEA (load effective address) is essentially an arithmetic instruction—it doesn't perform any actual memory access, but is commonly used for calculating addresses (though you can calculate general purpose integers with it). Don't let the DWORD PTR prefix fool you; this instruction is purely an arithmetic operation. 
+
+> Interleaved code means that instructions aren't placed in the code in their natural order, but instead pairs of interdependent instructions are interleaved so that in runtime the CPU has time to complete the first instruction before it must execute the second one. In this case, you can tell that the code is interleaved because the conditional jump doesn't immediately follow the CMP instruction. 
+
+> This time, LEA is used simply to perform an EBX = EDI + 1. Typically, compilers would use INC EDI, but in this case the compiler wanted to keep both the original and the incremented value, so LEA is an excellent choice. It increments EDI by one and stores the result in EBX—the original value remains in EDI. 
+
+> Notice that the jump target address, ntdll.7C962559, is the same as the address of the previous conditional jump. This is a strong indication that the two jumps are part of what was a single compound conditional statement in the source code. They are just two conditions tested within a single conditional statement. 
+
+> To me, this is the thrill of reversing—one by one gathering pieces of evidence and bringing them together to form partial explanations that slowly evolve into a full understanding of the code. 
+
+> How would you conditionally skip over so much code in a high-level language? Simple, the condition tested in the assembly language code is the opposite of what was tested in the source code. That's because the processor needs to know whether to skip code, and high-level languages have a different perspective—which terms must be satisfied in order to enter a certain conditional block. 
+
+> Whenever you find a conditional jump that skips a code block that ends with a forward-pointing unconditional JMP, you're probably looking at an if-else block. The block being skipped is the if block, and the code after the unconditional JMP is the else block. 
+
+> The end of the else block is marked by the target address of the unconditional JMP. 
+
+> You can see a JE (which is jump if equal) after the subtraction because subtraction and comparison are the same thing, except that in a comparison the result of the subtraction is discarded, and only the flags are kept. 
+
+> Interleaved code means that instructions aren't placed in the code in their natural order, but instead pairs of interdependent instructions are interleaved so that in runtime the CPU has time to complete the first instruction before it must execute the second one. In this case, you can tell that the code is interleaved because the conditional jump doesn't immediately follow the CMP instruction. 
+
+> This time, LEA is used simply to perform an EBX = EDI + 1. Typically, compilers would use INC EDI, but in this case the compiler wanted to keep both the original and the incremented value, so LEA is an excellent choice. It increments EDI by one and stores the result in EBX—the original value remains in EDI. 
+
+> Notice that the jump target address, ntdll.7C962559, is the same as the address of the previous conditional jump. This is a strong indication that the two jumps are part of what was a single compound conditional statement in the source code. They are just two conditions tested within a single conditional statement. 
+
+> To me, this is the thrill of reversing—one by one gathering pieces of evidence and bringing them together to form partial explanations that slowly evolve into a full understanding of the code. 
+
+> How would you conditionally skip over so much code in a high-level language? Simple, the condition tested in the assembly language code is the opposite of what was tested in the source code. That's because the processor needs to know whether to skip code, and high-level languages have a different perspective—which terms must be satisfied in order to enter a certain conditional block. 
+
+> Whenever you find a conditional jump that skips a code block that ends with a forward-pointing unconditional JMP, you're probably looking at an if-else block. The block being skipped is the if block, and the code after the unconditional JMP is the else block. 
+
+> The end of the else block is marked by the target address of the unconditional JMP. 
+
+> You can see a JE (which is jump if equal) after the subtraction because subtraction and comparison are the same thing, except that in a comparison the result of the subtraction is discarded, and only the flags are kept. 

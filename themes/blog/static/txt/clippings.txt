@@ -1,60 +1,50 @@
 ﻿Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 4  | Added on Sunday, 4 June 23 22:15:14 GMT-03:00
+- Highlight Loc. 28  | Added on Monday, 5 June 23 21:44:26 GMT-03:00
 
-that embebbed metadata 
+Sim, eles também erra. 
 ==========
 Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 4-5  | Added on Sunday, 4 June 23 22:15:24 GMT-03:00
+- Highlight Loc. 39  | Added on Monday, 5 June 23 21:45:46 GMT-03:00
 
-and has the clear 
-==========
-Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 5  | Added on Sunday, 4 June 23 22:15:46 GMT-03:00
-
-of keep 
-==========
-Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 6  | Added on Sunday, 4 June 23 22:16:00 GMT-03:00
-
-and yet has 
-==========
-Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 2  | Added on Sunday, 4 June 23 22:16:31 GMT-03:00
-
-and is 
-==========
-Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 7  | Added on Sunday, 4 June 23 22:16:56 GMT-03:00
-
-the final 
-==========
-Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 8  | Added on Sunday, 4 June 23 22:17:02 GMT-03:00
-
-final products. 
-==========
-Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 15  | Added on Sunday, 4 June 23 22:18:36 GMT-03:00
-
-I am going that 
-==========
-Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 15-16  | Added on Sunday, 4 June 23 22:18:47 GMT-03:00
-
-final value of that. 
-==========
-Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 34-35  | Added on Sunday, 4 June 23 22:21:19 GMT-03:00
-
-cooking reviews coffee 
+A depuração remota é importantíssimo 
 ==========
 Eldad Eilam - Reversing_ secrets of reverse engineering-Wiley (2005) (Eldad Eilam)
-- Highlight Loc. 3626-30  | Added on Sunday, 4 June 23 22:30:32 GMT-03:00
+- Highlight Loc. 3814-17  | Added on Monday, 5 June 23 21:57:46 GMT-03:00
 
-IA-32 processors support special memory management constructs called segments, but these are not used in Windows and can be safely ignored in most cases. There are several segment registers in IA-32 processors: CS, DS, FS, ES, and SS. On Windows, any mentioning of any of those can be safely ignored except for FS, which allows access to a small area of thread-local memory. Memory accesses that start with FS: are usually accessing that thread-local area. 
+Interleaved code means that instructions aren't placed in the code in their natural order, but instead pairs of interdependent instructions are interleaved so that in runtime the CPU has time to complete the first instruction before it must execute the second one. In this case, you can tell that the code is interleaved because the conditional jump doesn't immediately follow the CMP instruction. 
 ==========
 Eldad Eilam - Reversing_ secrets of reverse engineering-Wiley (2005) (Eldad Eilam)
-- Highlight Loc. 3633-36  | Added on Sunday, 4 June 23 22:31:56 GMT-03:00
+- Highlight Loc. 3820-25  | Added on Monday, 5 June 23 21:58:54 GMT-03:00
 
-LEA (load effective address) is essentially an arithmetic instruction—it doesn't perform any actual memory access, but is commonly used for calculating addresses (though you can calculate general purpose integers with it). Don't let the DWORD PTR prefix fool you; this instruction is purely an arithmetic operation. 
+This time, LEA is used simply to perform an EBX = EDI + 1. Typically, compilers would use INC EDI, but in this case the compiler wanted to keep both the original and the incremented value, so LEA is an excellent choice. It increments EDI by one and stores the result in EBX—the original value remains in EDI. 
+==========
+Eldad Eilam - Reversing_ secrets of reverse engineering-Wiley (2005) (Eldad Eilam)
+- Highlight Loc. 3842-45  | Added on Monday, 5 June 23 22:01:05 GMT-03:00
+
+Notice that the jump target address, ntdll.7C962559, is the same as the address of the previous conditional jump. This is a strong indication that the two jumps are part of what was a single compound conditional statement in the source code. They are just two conditions tested within a single conditional statement. 
+==========
+Eldad Eilam - Reversing_ secrets of reverse engineering-Wiley (2005) (Eldad Eilam)
+- Highlight Loc. 3913-14  | Added on Tuesday, 6 June 23 01:02:40 GMT-00:26
+
+To me, this is the thrill of reversing—one by one gathering pieces of evidence and bringing them together to form partial explanations that slowly evolve into a full understanding of the code. 
+==========
+Eldad Eilam - Reversing_ secrets of reverse engineering-Wiley (2005) (Eldad Eilam)
+- Highlight Loc. 3927-30  | Added on Tuesday, 6 June 23 01:05:20 GMT-00:26
+
+How would you conditionally skip over so much code in a high-level language? Simple, the condition tested in the assembly language code is the opposite of what was tested in the source code. That's because the processor needs to know whether to skip code, and high-level languages have a different perspective—which terms must be satisfied in order to enter a certain conditional block. 
+==========
+Eldad Eilam - Reversing_ secrets of reverse engineering-Wiley (2005) (Eldad Eilam)
+- Highlight Loc. 3953-56  | Added on Tuesday, 6 June 23 01:08:02 GMT-00:26
+
+Whenever you find a conditional jump that skips a code block that ends with a forward-pointing unconditional JMP, you're probably looking at an if-else block. The block being skipped is the if block, and the code after the unconditional JMP is the else block. 
+==========
+Eldad Eilam - Reversing_ secrets of reverse engineering-Wiley (2005) (Eldad Eilam)
+- Highlight Loc. 3956-57  | Added on Tuesday, 6 June 23 01:08:27 GMT-00:26
+
+The end of the else block is marked by the target address of the unconditional JMP. 
+==========
+Eldad Eilam - Reversing_ secrets of reverse engineering-Wiley (2005) (Eldad Eilam)
+- Highlight Loc. 3984-86  | Added on Tuesday, 6 June 23 01:14:53 GMT-00:26
+
+You can see a JE (which is jump if equal) after the subtraction because subtraction and comparison are the same thing, except that in a comparison the result of the subtraction is discarded, and only the flags are kept. 
 ==========
