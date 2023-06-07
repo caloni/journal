@@ -1,7 +1,7 @@
 ---
 categories:
-- blog
 - reading
+- blogging
 date: '2023-04-05'
 tags: null
 title: Flow no dia-a-dia e na hora do lazer

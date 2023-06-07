@@ -1,7 +1,7 @@
 ---
 categories:
-- blog
 - code
+- blogging
 date: '2023-04-28'
 tags: null
 title: Easter Egg

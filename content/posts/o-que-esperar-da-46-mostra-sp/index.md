@@ -1,6 +1,6 @@
 ---
 categories:
-- blog
+- blogging
 date: '2022-10-15T10:53:05-03:00'
 tags:
 - mostra

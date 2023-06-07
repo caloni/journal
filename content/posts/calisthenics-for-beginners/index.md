@@ -1,7 +1,7 @@
 ---
 categories:
-- blog
 - reading
+- blogging
 date: '2023-04-10'
 tags:
 - body

@@ -1,6 +1,6 @@
 ---
 categories:
-- blog
+- blogging
 date: '2022-12-19T17:03:02-03:00'
 title: Feliz 2023
 ---

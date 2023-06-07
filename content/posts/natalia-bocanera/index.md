@@ -1,6 +1,6 @@
 ---
 categories:
-- blog
+- blogging
 date: '2022-12-04T23:13:20-03:00'
 link: https://coletivocritico.com
 tags:

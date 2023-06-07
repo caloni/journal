@@ -1,6 +1,6 @@
 ---
 categories:
-- blog
+- blogging
 date: '2022-11-22T21:02:51-03:00'
 tags:
 - ccppbr

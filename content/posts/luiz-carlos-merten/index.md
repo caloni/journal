@@ -1,6 +1,6 @@
 ---
 categories:
-- blog
+- blogging
 date: '2022-10-22T17:58:23-03:00'
 tags: null
 title: Luiz Carlos Merten

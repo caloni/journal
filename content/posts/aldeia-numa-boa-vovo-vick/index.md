@@ -1,6 +1,6 @@
 ---
 categories:
-- blog
+- blogging
 date: '2023-06-06'
 link: http://www.numaboa.com.br
 tags: null

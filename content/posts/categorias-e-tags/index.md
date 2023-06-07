@@ -1,6 +1,6 @@
 ---
 categories:
-- blog
+- blogging
 date: '2023-05-19'
 tags: null
 title: Começando a entender sobre minhas categorias e tags

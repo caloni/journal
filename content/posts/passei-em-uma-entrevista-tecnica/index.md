@@ -1,6 +1,6 @@
 ---
 categories:
-- blog
+- blogging
 date: '2023-03-19T21:39:26-02:00'
 tags: null
 title: Passei em uma entrevista técnica?

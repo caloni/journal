@@ -1,6 +1,6 @@
 ---
 categories:
-- blog
+- blogging
 date: '2022-08-24T21:02:20-03:00'
 tags: null
 title: Desmaio
