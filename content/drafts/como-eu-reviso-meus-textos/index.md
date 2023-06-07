@@ -1,6 +1,6 @@
 ---
 categories:
- - blog
+ - blogging
 date: '2022-12-04T20:56:46-03:00'
 tags:
 title: Como Eu Reviso Meus Textos
