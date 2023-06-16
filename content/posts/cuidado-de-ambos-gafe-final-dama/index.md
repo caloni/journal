@@ -1,8 +1,7 @@
 ---
 categories:
 - play
-date: '2023-06-08T09:55:44-03:00'
-draft: true
+date: '2023-06-15'
 link: https://www.chess.com/game/live/79966923915
 tags:
 - chess

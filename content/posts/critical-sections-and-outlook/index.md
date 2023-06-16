@@ -1,8 +1,11 @@
 ---
-categories: null
-date: '2023-06-09T21:31:30-03:00'
-draft: true
-tags: null
+categories:
+ - coding
+date: '2023-06-15'
+tags:
+ - debug
+ - english
+ - reversing
 title: Critical Sections and Outlook
 ---
 
@@ -41,6 +44,6 @@ The moment the dump was generated the thread that had acquired this cs was insid
 
 > Virtual applications are installed on centrally managed servers and delivered to users as a service in real time and on an as-needed basis. Users launch virtual applications from familiar access points and interact with them as if they were installed locally.
 
-Considering that that is the thread that is locking the cs that is freezing other two threads, including the main window thread, I believe that somehow there is a connection with the delivery service from the App-V with the Outlook slowliness when opening or perhaps in other moments where a unavailable module is requests. Results from the web have the usual troubleshooting sugestions as restore Office installation, run in safe mode and disable AppData network redirection, but I am not sure if this is the case.
+Considering that that is the thread that is locking the cs that is freezing other two threads, including the main window thread, I believe that somehow there is a connection with the delivery service from the App-V with the Outlook slowliness when opening or perhaps in other moments where a unavailable module is requested. Results from the web have the usual troubleshooting sugestions as restore Office installation, run in safe mode and disable AppData network redirection, but I am not sure if this is the case.
 
 Two main commands used in WinDbg for the analysis was `!uniqstack` to show the... unique stacks in the process, and `!cs`, to show all critical sections and its states.

@@ -1,50 +1,25 @@
-﻿Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 28  | Added on Monday, 5 June 23 21:44:26 GMT-03:00
+﻿Unabomber Manifesto (Theodore Kaczynski)
+- Highlight on Page 10 | Loc. 151-56  | Added on Wednesday, 14 June 23 01:10:45 GMT-00:26
 
-Sim, eles também erra. 
+In all ESSENTIAL respects most leftists of the oversocialized type want to make the black man conform to white, middle-class ideals. They want to make him study technical subjects, become an executive or a scientist, spend his life climbing the status ladder to prove that black people are as good as white. They want to make black fathers “responsible,” they want black gangs to become nonviolent, etc. But these are exactly the values of the industrial-technological system. The system couldn’t care less what kind of music a man listens to, what kind of clothes he wears or what religion he believes in as long as he studies in school, holds a respectable job, climbs the status ladder, is a “responsible” parent, is nonviolent and so forth.
+==========
+Unabomber Manifesto (Theodore Kaczynski)
+- Highlight on Page 11 | Loc. 166-68  | Added on Wednesday, 14 June 23 01:12:40 GMT-00:26
+
+The problems of the leftist are indicative of the problems of our society as a whole. Low self-esteem, depressive tendencies and defeatism are not restricted to the left. Though they are especially noticeable in the left, they are widespread in our society.
 ==========
 Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 39  | Added on Monday, 5 June 23 21:45:46 GMT-03:00
+- Highlight Loc. 8  | Added on Thursday, 15 June 23 00:34:26 GMT-00:26
 
-A depuração remota é importantíssimo 
+as coisas no Eataly 
 ==========
-Eldad Eilam - Reversing_ secrets of reverse engineering-Wiley (2005) (Eldad Eilam)
-- Highlight Loc. 3814-17  | Added on Monday, 5 June 23 21:57:46 GMT-03:00
+Blogue do Caloni (Rascunhos) (Wanderley Caloni)
+- Highlight Loc. 8  | Added on Thursday, 15 June 23 00:34:35 GMT-00:26
 
-Interleaved code means that instructions aren't placed in the code in their natural order, but instead pairs of interdependent instructions are interleaved so that in runtime the CPU has time to complete the first instruction before it must execute the second one. In this case, you can tell that the code is interleaved because the conditional jump doesn't immediately follow the CMP instruction. 
+devido à região e o 
 ==========
-Eldad Eilam - Reversing_ secrets of reverse engineering-Wiley (2005) (Eldad Eilam)
-- Highlight Loc. 3820-25  | Added on Monday, 5 June 23 21:58:54 GMT-03:00
+Blogue do Caloni (Rascunhos) (Wanderley Caloni)
+- Highlight Loc. 37  | Added on Thursday, 15 June 23 00:37:29 GMT-00:26
 
-This time, LEA is used simply to perform an EBX = EDI + 1. Typically, compilers would use INC EDI, but in this case the compiler wanted to keep both the original and the incremented value, so LEA is an excellent choice. It increments EDI by one and stores the result in EBX—the original value remains in EDI. 
-==========
-Eldad Eilam - Reversing_ secrets of reverse engineering-Wiley (2005) (Eldad Eilam)
-- Highlight Loc. 3842-45  | Added on Monday, 5 June 23 22:01:05 GMT-03:00
-
-Notice that the jump target address, ntdll.7C962559, is the same as the address of the previous conditional jump. This is a strong indication that the two jumps are part of what was a single compound conditional statement in the source code. They are just two conditions tested within a single conditional statement. 
-==========
-Eldad Eilam - Reversing_ secrets of reverse engineering-Wiley (2005) (Eldad Eilam)
-- Highlight Loc. 3913-14  | Added on Tuesday, 6 June 23 01:02:40 GMT-00:26
-
-To me, this is the thrill of reversing—one by one gathering pieces of evidence and bringing them together to form partial explanations that slowly evolve into a full understanding of the code. 
-==========
-Eldad Eilam - Reversing_ secrets of reverse engineering-Wiley (2005) (Eldad Eilam)
-- Highlight Loc. 3927-30  | Added on Tuesday, 6 June 23 01:05:20 GMT-00:26
-
-How would you conditionally skip over so much code in a high-level language? Simple, the condition tested in the assembly language code is the opposite of what was tested in the source code. That's because the processor needs to know whether to skip code, and high-level languages have a different perspective—which terms must be satisfied in order to enter a certain conditional block. 
-==========
-Eldad Eilam - Reversing_ secrets of reverse engineering-Wiley (2005) (Eldad Eilam)
-- Highlight Loc. 3953-56  | Added on Tuesday, 6 June 23 01:08:02 GMT-00:26
-
-Whenever you find a conditional jump that skips a code block that ends with a forward-pointing unconditional JMP, you're probably looking at an if-else block. The block being skipped is the if block, and the code after the unconditional JMP is the else block. 
-==========
-Eldad Eilam - Reversing_ secrets of reverse engineering-Wiley (2005) (Eldad Eilam)
-- Highlight Loc. 3956-57  | Added on Tuesday, 6 June 23 01:08:27 GMT-00:26
-
-The end of the else block is marked by the target address of the unconditional JMP. 
-==========
-Eldad Eilam - Reversing_ secrets of reverse engineering-Wiley (2005) (Eldad Eilam)
-- Highlight Loc. 3984-86  | Added on Tuesday, 6 June 23 01:14:53 GMT-00:26
-
-You can see a JE (which is jump if equal) after the subtraction because subtraction and comparison are the same thing, except that in a comparison the result of the subtraction is discarded, and only the flags are kept. 
+where a unavailable module is requests. 
 ==========

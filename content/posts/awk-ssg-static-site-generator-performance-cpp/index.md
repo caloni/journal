@@ -1,7 +1,8 @@
 ---
-categories: null
-date: '2023-06-08T23:13:23-03:00'
-draft: true
+categories:
+ - blogging
+ - coding
+date: '2023-06-15'
 tags: null
 title: Usando Awk para gerar sites e medidas de performance
 ---
