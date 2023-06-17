@@ -26,6 +26,7 @@ int main()
         for (const auto& entry : fs::recursive_directory_iterator(path))
         {
             string path = entry.path().string();
+            string dir = entry.path().parent_path().filename().string();
             if (path.find(".md") != path.npos)
             {
                 ifstream ifs(path);
