@@ -40,7 +40,8 @@ string GetNextPost(string& content)
 
 int main()
 {
-    ifstream ifs("blog.txt");
+    fs::create_directories("public/blog_alpha");
+    ifstream ifs("content/blog.txt");
 
     if (ifs)
     {
@@ -49,7 +50,7 @@ int main()
         while (content.size())
         {
             string post = GetNextPost(content);
-            string ppath = "blog_entry_" + to_string(++counter) + ".html";
+            string ppath = "public/blog_alpha/blog_entry_" + to_string(++counter) + ".md";
             ifstream pifs(ppath);
             if (pifs)
             {

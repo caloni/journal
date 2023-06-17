@@ -18,20 +18,23 @@ std::string ReadEntireFile(std::ifstream& in)
 
 int main()
 {
-    ofstream ofs("blog.txt");
+    ofstream ofs("content/blog.txt");
 
     if( ofs )
     {
-        std::string path = ".";
-        for (const auto& entry : fs::directory_iterator(path))
+        std::string path = "content";
+        for (const auto& entry : fs::recursive_directory_iterator(path))
         {
             string path = entry.path().string();
-            ifstream ifs(path);
-
-            if (ifs)
+            if (path.find(".md") != path.npos)
             {
-                string content = ReadEntireFile(ifs);
-                ofs << "\n" << content << endl;
+                ifstream ifs(path);
+
+                if (ifs)
+                {
+                    string content = ReadEntireFile(ifs);
+                    ofs << "\n" << content << endl;
+                }
             }
         }
     }
