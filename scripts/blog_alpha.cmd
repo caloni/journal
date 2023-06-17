@@ -1,4 +1,4 @@
-rem @echo off
+@echo off
 scripts\merge.exe
 scripts\publish.exe
 rm content\blog.txt
