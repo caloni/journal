@@ -17,9 +17,9 @@ std::string ReadEntireFile(std::ifstream& in)
 
 string GetNextPost(string& content)
 {
-    size_t yamlBegin = content.find("---");
-    size_t yamlEnd = content.find("\n---", yamlBegin);
-    size_t nextYaml = content.find("\n---", yamlEnd + 1);
+    size_t yamlBegin = content.find("---\n");
+    size_t yamlEnd = content.find("\n---\n", yamlBegin);
+    size_t nextYaml = content.find("\n---\n", yamlEnd + 1);
     bool valid = yamlBegin != content.npos
         && yamlEnd != content.npos
         && nextYaml != content.npos;
