@@ -1,8 +1,8 @@
-rem @echo off
+@echo off
 pushd src
 if not exist build mkdir build
 cd build
 cmake ..
-cmake --build .
-move Debug\*.exe ..\..\scripts
+cmake --build . --config RelWithDebInfo
+cmake --install . --config RelWithDebInfo
 popd
