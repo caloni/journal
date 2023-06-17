@@ -1,7 +1,7 @@
 ---
-categories: null
-date: '2023-06-17T16:27:48-03:00'
-draft: true
+categories:
+ - cooking
+date: '2023-06-17'
 tags: null
 title: Pão de queijo a frio com fubá de canjica
 ---
