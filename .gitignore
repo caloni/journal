@@ -3,3 +3,4 @@ _gen
 *.swp
 build
 scripts/*.exe
+content/blog.txt
