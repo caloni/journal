@@ -2,3 +2,4 @@ public
 _gen
 *.swp
 build
+scripts/*.exe
