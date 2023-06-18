@@ -68,6 +68,42 @@ PostHeader ReadYamlHeader(const string& content)
 }
 
 
+string TransformHeader(string& content)
+{
+    size_t yamlBegin = content.find("---\n");
+    size_t yamlEnd = content.find("\n---\n", yamlBegin);
+    bool valid = yamlBegin != content.npos
+        && yamlEnd != content.npos;
+
+    if( valid )
+    {
+        size_t contentBegin = yamlEnd + 5;
+        size_t headerBegin = yamlBegin + 4;
+        size_t headerEnd = yamlEnd - headerBegin;
+        string headerStr = content.substr(yamlBegin + 4, headerEnd);
+        ostringstream os;
+        istringstream is(headerStr);
+        while( is )
+        {
+            string field;
+            is >> field;
+            if( field.find("title:") == 0 )
+            {
+                getline(is, field);
+                os << "=" << field << endl;
+            }
+        }
+        content.erase(0, contentBegin);
+        while( content.size() && content[0] == '\n' )
+            content.erase(0, 1);
+        string header = os.str();
+        return header;
+    }
+
+    return "";
+}
+
+
 int main()
 {
     ofstream ofs("content/blog.txt");
@@ -86,8 +122,8 @@ int main()
                 if (ifs)
                 {
                     string content = ReadEntireFile(ifs);
-                    //PostHeader header = ReadYamlHeader(content);
-                    ofs << "\n" << content << endl;
+                    string header = TransformHeader(content);
+                    ofs << "\n" << header << "\n" << content << endl;
                 }
             }
         }
