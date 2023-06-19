@@ -1,3 +1,4 @@
+#include "constants.h"
 #include <string>
 #include <iostream>
 #include <fstream>
@@ -17,17 +18,15 @@ std::string ReadEntireFile(std::ifstream& in)
 
 string GetNextPost(string& content)
 {
-    size_t yamlBegin = content.find("---\n");
-    size_t yamlEnd = content.find("\n---\n", yamlBegin);
-    size_t nextYaml = content.find("\n---\n", yamlEnd + 1);
-    bool valid = yamlBegin != content.npos
-        && yamlEnd != content.npos
-        && nextYaml != content.npos;
+    size_t postBegin = content.find("\n= ");
+    size_t nextPost = content.find("\n= ", postBegin + 1);
+    bool valid = postBegin != content.npos
+        && nextPost != content.npos;
 
     if( valid )
     {
-        string post = content.substr(yamlBegin, nextYaml);
-        content.erase(0, nextYaml);
+        string post = content.substr(postBegin, nextPost);
+        content.erase(0, nextPost);
         return post;
     }
     else
@@ -36,6 +35,17 @@ string GetNextPost(string& content)
         content.clear();
         return post;
     }
+}
+
+std::vector<std::string> GetPostLines(const std::string& str)
+{
+    auto result = std::vector<std::string>{};
+    auto ss = std::stringstream{ str };
+
+    for (std::string line; std::getline(ss, line, '\n');)
+        result.push_back(line);
+
+    return result;
 }
 
 int main()
@@ -49,8 +59,22 @@ int main()
         int counter = 0;
         while (content.size())
         {
+            ostringstream os;
             string post = GetNextPost(content);
-            string ppath = "public/blog_alpha/blog_entry_" + to_string(++counter) + ".md";
+            vector<string> postLines = GetPostLines(post);
+            os << HTML_HEAD << endl
+                << HTML_BODY_TOP << endl;
+            for( string& line: postLines )
+            {
+                if( line.size() > 2 && line[0] != '=' && line[1] != ' ' )
+                {
+                    os << "<p>" << line << "</p>" << endl;
+                }
+            }
+            os << HTML_BODY_BOTTOM << endl;
+            post = os.str();
+
+            string ppath = "public/blog_alpha/blog_entry_" + to_string(++counter) + ".html";
             ifstream pifs(ppath);
             if (pifs)
             {

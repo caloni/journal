@@ -17,6 +17,7 @@ awklib
 )
 
 add_executable(publish
+constants.h
 publish.cpp
 )
 target_compile_features(publish PRIVATE cxx_std_17)
