@@ -1,20 +1,35 @@
-﻿Unabomber Manifesto (Theodore Kaczynski)
-- Highlight on Page 16 | Loc. 233-37  | Added on Friday, 16 June 23 00:16:30 GMT-00:26
+﻿Blogue do Caloni (Wanderley Caloni)
+- Highlight Loc. 79734  | Added on Sunday, 18 June 23 00:19:01 GMT-00:26
 
-44. But for most people it is through the power process having a goal, making an AUTONOMOUS effort and attaining the goal -- that self-esteem, self-confidence and a sense of power are acquired. When one does not have adequate opportunity to go through the power process the consequences are (depending on the individual and on the way the power process is disrupted) boredom, demoralization, low self-esteem, inferiority feelings, defeatism, depression, anxiety, guilt, frustration, hostility, spouse or child abuse, insatiable hedonism, abnormal sexual behavior, sleep disorders, eating disorders. etc. [6]
+play chess Debugging 
+==========
+Blogue do Caloni (Wanderley Caloni)
+- Highlight Loc. 79746  | Added on Sunday, 18 June 23 00:35:30 GMT-00:26
+
+writting wine 
 ==========
 Unabomber Manifesto (Theodore Kaczynski)
-- Highlight on Page 17 | Loc. 260-63  | Added on Friday, 16 June 23 00:28:19 GMT-00:26
+- Highlight on Page 48 | Loc. 729-32  | Added on Sunday, 18 June 23 14:55:49 GMT-00:26
 
-50. The conservatives are fools: They whine about the decay of traditional values, yet they enthusiastically support technological progress and economic growth. Apparently it never occurs to them that you can’t make rapid, drastic changes in the technology and the economy of a society without causing rapid changes in all other aspects of the society as well, and that such rapid changes inevitably break down traditional values.
+132. It is well known that people generally work better and more persistently when striving for a reward than when attempting to avoid a punishment or negative outcome. Scientists and other technicians are motivated mainly by the rewards they get through their work. But those who oppose technological invasions of freedom are working to avoid a negative outcome, consequently there are few who work persistently and well at this discouraging task.
 ==========
 Unabomber Manifesto (Theodore Kaczynski)
-- Highlight on Page 22 | Loc. 333-36  | Added on Friday, 16 June 23 00:43:44 GMT-00:26
+- Highlight on Page 53 | Loc. 804-6  | Added on Sunday, 18 June 23 19:41:13 GMT-00:26
 
-66. Today people live more by virtue of what the system does FOR them or TO them than by virtue of what they do for themselves. And what they do for themselves is done more and more along channels laid down by the system. Opportunities tend to be those that the system provides, the opportunities must be exploited in accord with rules and regulations [13], and techniques prescribed by experts must be followed if there is to be a chance of success.
+144. Thus human nature has in the past put certain limits on the development of societies. People could be pushed only so far and no farther. But today this may be changing, because modern technology is developing ways of modifying human beings.
 ==========
 Unabomber Manifesto (Theodore Kaczynski)
-- Highlight on Page 30 | Loc. 450-53  | Added on Saturday, 17 June 23 00:48:18 GMT-00:26
+- Highlight on Page 54 | Loc. 819-22  | Added on Sunday, 18 June 23 19:44:47 GMT-00:26
 
-86. But even if most people in industrial-technological society were well satisfied, we (FC) would still be opposed to that form of society, because (among other reasons) we consider it demeaning to fulfill one’s need for the power process through surrogate activities or through identification with an organization, rather than through pursuit of real goals.
+Entertainment provides modern man with an essential means of escape. While absorbed in television, videos, etc., he can forget stress, anxiety, frustration, dissatisfaction. Many primitive peoples, when they don’t have work to do, are quite content to sit for hours at a time doing nothing at all, because they are at peace with themselves and their world. But most modern people must be constantly occupied or entertained, otherwise they get “bored,” i.e., they get fidgety, uneasy, irritable.
+==========
+Unabomber Manifesto (Theodore Kaczynski)
+- Highlight on Page 59 | Loc. 902-6  | Added on Sunday, 18 June 23 20:09:31 GMT-00:26
+
+158. It presumably would be impractical for all people to have electrodes inserted in their heads so that they could be controlled by the authorities. But the fact that human thoughts and feelings are so open to biological intervention shows that the problem of controlling human behavior is mainly a technical problem; a problem of neurons, hormones and complex molecules; the kind of problem that is accessible to scientific attack. Given the outstanding record of our society in solving technical problems, it is overwhelmingly probable that great advances will be made in the control of human behavior.
+==========
+Unabomber Manifesto (Theodore Kaczynski)
+- Highlight on Page 61 | Loc. 922-25  | Added on Sunday, 18 June 23 20:13:38 GMT-00:26
+
+162. The system is currently engaged in a desperate struggle to overcome certain problems that threaten its survival, among which the problems of human behavior are the most important. If the system succeeds in acquiring sufficient control over human behavior quickly enough, it will probably survive. Otherwise it will break down. We think the issue will most likely be resolved within the next several decades, say 40 to 100 years.
 ==========
