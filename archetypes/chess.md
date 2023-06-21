@@ -1,6 +1,6 @@
 ---
 categories:
-- play
+- playing
 date: '{{ .Date }}'
 draft: true
 tags:
