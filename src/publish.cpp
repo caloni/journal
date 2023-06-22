@@ -10,12 +10,6 @@
 using namespace std;
 namespace fs = std::filesystem;
 
-struct Post
-{
-    map<string, string> header;
-    string content;
-};
-
 std::string ReadEntireFile(std::ifstream& in)
 {
     std::ostringstream sstr;
@@ -52,39 +46,26 @@ static int myinproc()
     return g_is.get();
 }
 
-string GetVar(const string& name)
+string GetVar(const string& name, const string& index = "")
 {
     string value;
     awksymb symb{};
     symb.name = name.c_str();
+    if( index.size() )
+        symb.index = index.c_str();
     int res = awk_getvar(g_interp, &symb);
-    if (res == 1 && symb.sval)
+    if (res == 1 )
     {
-        value = symb.sval;
+        if( symb.sval )
+        {
+            value = symb.sval;
+        }
+        else if ( symb.fval )
+        {
+            value = to_string(symb.fval);
+        }
     }
     return value;
-}
-
-Post ParsePost(const std::string& rawPost)
-{
-    g_interp = awk_init(NULL);
-    g_is = istringstream(rawPost);
-    awk_infunc(g_interp, myinproc);
-
-    string program = R"(
-/^= / { title = substr($0, 3) }
-/^[^=]+/ { content = content "<p>" $0 "</p>\n" }
-)";
-
-    int res = awk_setprog(g_interp, program.c_str());
-    res = awk_compile(g_interp);
-    res = awk_exec(g_interp);
-    Post post;
-    post.header["title"] = GetVar("title");
-    post.content = GetVar("content");
-    awk_end(g_interp);
-
-    return post;
 }
 
 
@@ -99,6 +80,32 @@ std::vector<std::string> GetPostLines(const std::string& str)
     return result;
 }
 
+void FlushContent(const string& ppath, const string& content)
+{
+    ifstream pifs(ppath);
+    if (pifs)
+    {
+        string postContent = ReadEntireFile(pifs);
+
+        if (content != postContent)
+        {
+            ofstream ofs(ppath);
+            if (ofs)
+            {
+                ofs << content;
+            }
+        }
+    }
+    else
+    {
+        ofstream ofs(ppath);
+        if (ofs)
+        {
+            ofs << content;
+        }
+    }
+}
+
 int main()
 {
     fs::create_directories("public/blog_alpha");
@@ -107,24 +114,54 @@ int main()
     if (ifs)
     {
         string content = ReadEntireFile(ifs);
-        int counter = 0;
-        while (content.size())
-        {
-            ostringstream os;
-            string rawPost = GetNextPost(content);
-            bool useAwk = false;
+        bool useAwk = true;
 
-            if( useAwk )
+        if( useAwk )
+        {
+            g_interp = awk_init(NULL);
+            g_is = istringstream(content);
+            awk_infunc(g_interp, myinproc);
+
+            string program = R"(
+/^= / { title[++idx] = substr($0, 3) }
+/^[^=]+/ { content[idx] = content[idx] "<p>" $0 "</p>\n" }
+)";
+
+            int res = awk_setprog(g_interp, program.c_str());
+            res = awk_compile(g_interp);
+            cout << "parsing...";
+            res = awk_exec(g_interp);
+            cout << " done\n";
+
+            int posts = stoi(GetVar("idx"));
+            for (int i = 1; i <= posts; ++i)
             {
-                Post post = ParsePost(rawPost);
+                string idx = to_string(i);
+                string title = GetVar("title", idx);
+                string content = GetVar("content", idx);
+
+                ostringstream os;
                 os << HTML_HEAD << '\n'
                     << HTML_BODY_TOP << '\n'
-                    << post.content << '\n'
+                    << content << '\n'
                     << HTML_BODY_BOTTOM << endl;
-                rawPost = os.str();
+                content = os.str();
+
+                string ppath = "public/blog_alpha/blog_entry_" + idx + ".html";
+                FlushContent(ppath, content);
+                cout << "\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b" << idx;
             }
-            else
+
+            awk_end(g_interp);
+        }
+        else
+        {
+            int counter = 0;
+            while (content.size())
             {
+                ostringstream os;
+                string rawPost = GetNextPost(content);
+
                 vector<string> postLines = GetPostLines(rawPost);
                 os << HTML_HEAD << endl
                     << HTML_BODY_TOP << endl;
@@ -137,31 +174,10 @@ int main()
                 }
                 os << HTML_BODY_BOTTOM << endl;
                 rawPost = os.str();
-            }
 
-            string ppath = "public/blog_alpha/blog_entry_" + to_string(++counter) + ".html";
-            cout << "\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b" << counter;
-            ifstream pifs(ppath);
-            if (pifs)
-            {
-                string postContent = ReadEntireFile(pifs);
-
-                if( rawPost != postContent )
-                {
-                    ofstream ofs(ppath);
-                    if (ofs)
-                    {
-                        ofs << rawPost;
-                    }
-                }
-            }
-            else
-            {
-                ofstream ofs(ppath);
-                if (ofs)
-                {
-                    ofs << rawPost;
-                }
+                string ppath = "public/blog_alpha/blog_entry_" + to_string(++counter) + ".html";
+                FlushContent(ppath, rawPost);
+                cout << "\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b" << counter;
             }
         }
     }
