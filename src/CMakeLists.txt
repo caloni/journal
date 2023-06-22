@@ -19,8 +19,17 @@ awklib
 add_executable(publish
 constants.h
 publish.cpp
+tests.awk
 )
 target_compile_features(publish PRIVATE cxx_std_17)
+
+target_include_directories(publish PRIVATE
+awklib/include
+)
+
+target_link_libraries(publish PRIVATE
+awklib
+)
 
 install(TARGETS
 merge
