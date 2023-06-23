@@ -6,9 +6,52 @@
 #include <map>
 #include <filesystem>
 #include <awklib/awk.h>
+#include <basetsd.h>
+#include <Windows.h>
+
+typedef SSIZE_T ssize_t;
+#include "gawkapi.h"
+
 
 using namespace std;
 namespace fs = std::filesystem;
+
+
+BOOL WINAPI DllMain(
+    HINSTANCE hinstDLL,  // handle to DLL module
+    DWORD fdwReason,     // reason for calling function
+    LPVOID lpvReserved)  // reserved
+{
+    if( fdwReason == DLL_PROCESS_ATTACH )
+    {
+        int x = 0;
+    }
+    return TRUE;
+}
+
+/* Boilerplate code: */
+int plugin_is_GPL_compatible;
+
+static gawk_api_t const * api;
+static awk_ext_id_t ext_id;
+static const char *ext_version = NULL; /* or ... = "some string" */
+
+awk_value_t* do_name(int num_actual_args, awk_value_t* result, struct awk_ext_func* finfo)
+{
+    return NULL;
+}
+
+static awk_ext_func_t func_table[] = {
+	{ "name", do_name, 1 },
+	/* ... */
+};
+
+static awk_bool_t init_func()
+{
+    return awk_true;
+}
+
+dl_load_func(func_table, some_name, "name_space_in_quotes")
 
 std::string ReadEntireFile(std::ifstream& in)
 {

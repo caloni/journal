@@ -31,9 +31,28 @@ target_link_libraries(publish PRIVATE
 awklib
 )
 
+add_library(awkblog SHARED
+constants.h
+publish.cpp
+awkblog.def
+gawkapi.h
+tests.awk
+)
+target_compile_features(awkblog PRIVATE cxx_std_17)
+
+target_include_directories(awkblog PRIVATE
+awklib/include
+)
+
+target_link_libraries(awkblog PRIVATE
+awklib
+)
+
+
 install(TARGETS
 merge
 publish
+awkblog
 DESTINATION C:/Users/caloni/blog/scripts
 )
 
