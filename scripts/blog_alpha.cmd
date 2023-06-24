@@ -1,10 +1,10 @@
 @echo off
 scripts\merge.exe
+gawk -f scripts\md2adoc.awk content\blog.md > content\blog.txt
 scripts\publish.exe
-rem rm content\blog.txt
 
-pushd public\blog_alpha
-git add --all
-git commit -m "Publish new version."
-git push
-popd
+rem pushd public\blog_alpha
+rem git add --all
+rem git commit -m "Publish new version."
+rem git push
+rem popd

@@ -106,7 +106,7 @@ string TransformHeader(string& content)
 
 int main()
 {
-    ofstream ofs("content/blog.txt");
+    ofstream ofs("content/blog.md");
 
     if( ofs )
     {
@@ -122,8 +122,9 @@ int main()
                 if (ifs)
                 {
                     string content = ReadEntireFile(ifs);
-                    string header = TransformHeader(content);
-                    ofs << "\n" << header << "\n" << content << endl;
+                    //string header = TransformHeader(content);
+                    //ofs << "\n" << header << "\n" << content << endl;
+                    ofs << content << endl;
                 }
             }
         }
