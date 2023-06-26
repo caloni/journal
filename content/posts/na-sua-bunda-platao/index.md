@@ -1,12 +1,16 @@
 ---
-categories: null
-date: '2023-06-24T15:54:37-03:00'
-draft: true
-tags: null
+categories:
+ - cooking
+ - writting
+date: '2023-06-25'
+tags:
+ - coffee
 title: Na sua bunda, Platão?
 ---
 
-Torrei um café verde comprado em Poços. Peguei 50g dos grãos e deixei em fogo baixo dentro da panela de pressão aberta, mexendo sem parar com uma colher de pau. Meu objetivo era chegar no nível de torra logo depois do primeiro estalo. Fiz isso. Abaixei a temperatura em uma forma que dissipa rapidamente o calor. Deixei descansando e passei um café depois de algumas horas. Não houve sabor de gás carbônico e acredito que é por causa da torra bem clara. O sabor é bem adstringente, mas bebível. Lá no fundo é possível sentir um pouco da fruta, mas bem pouco e depois de quase terminar. Não há quase nada de complexidade em um café desses, mas há uma lição: como se parece um café bem simples, com grãos defeituosos, e sem a torra escura para disfarçar? Se parece com isso: uma bebida quase sem graça, mas com algumas sutilezas, imaginárias ou não.
+Esta rápida e curiosa epopeia brinca com a teoria das ideias do filósofo grego da Antiguidade Platão. É uma tentativa bem-humorada (ou não) de tentar colocar os pingos nos is de quem ainda está embasbacado com a experiência de degustação de café especial e torra própria que se segue. Os cafés citados são do Sítio Posses e do Rancho São Benedito, adquiridos pelo serviço de microtorrefação de Pereira Villela (ótimo, por sinal). O grão verde é aleatório de mercado municipal.
+
+Torrei um café verde comprado em Poços. Peguei 50g dos grãos e deixei em fogo baixo dentro de uma panela, mexendo sem parar com uma colher de pau. Meu objetivo era chegar no nível de torra logo depois do primeiro estalo, quando o grão torna-se bebível. Fiz isso. Abaixei a temperatura em uma forma que dissipa rapidamente o calor. Deixei descansando e passei um café depois de algumas horas. Não houve sabor de gás carbônico e acredito que é por causa da torra bem clara. O sabor é bem adstringente, mas bebível. Lá no fundo é possível sentir um pouco da fruta, mas bem pouco e depois de quase terminar. Não há quase nada de complexidade em um café desses, mas há uma lição: como se parece um café bem simples, com grãos defeituosos, e sem a torra escura para disfarçar? Se parece com isso: uma bebida quase sem graça, mas com algumas sutilezas, imaginárias ou não.
 
 No mesmo dia chegou mais tarde os dois cafés que havia pedido na véspera de Itajubá para o Pereira Villela. Pedi dois pacotes de grãos de 250g do Rancho São Benedito e do Sítio Posses. Um foi torrado ontem mesmo e o outro na antevéspera. Passei os dois ao mesmo tempo. Ao abrir as embalagens o aroma foi praticamente idêntico e eu identifiquei o gás carbônico ainda presente. Identifiquei justamente porque eu já fiz torras mais escuras em casa e é esse o aroma. Um pouco desagradável.
 

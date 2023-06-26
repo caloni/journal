@@ -1,8 +1,7 @@
 ---
 categories:
  - blogging
-date: '2023-06-24T21:29:41-03:00'
-draft: true
+date: '2023-06-25'
 tags:
  - projects
 title: 'Write, merge, publish'
@@ -14,4 +13,4 @@ A ideia de arquitetura que está sendo seguida meio por acaso pode ser o core do
 
 O merge é o componente que obtém conteúdo de N fontes e transforma em um arquivo único em um formato qualquer. Por que único? Porque múltiplos arquivos trabalham mal no SO e o dia a dia de um blogger é muito mais fácil através de um `journal.txt` do que ficar se enveredando nas referências que o sistema de publicação te obriga a usar.
 
-O publish é a transformação do arquivo de texto único para N destinos diferentes: um ou mais bloguess e livros, Telegram, RSS, Twitter. Não importa. A definição dos destinos e feito no próprio script awk em conjunto com sua transformação. Por que isso? Porque um escritor não deve se limitar a um único formato. Seu único objetivo na vida é escrever. Seus metadados e o formato do seu texto irá definir para onde vai o conteúdo, mas ele não precisa se preocupar com isso na hora de estar escrevendo. O publish é seu editor pessoal. Depois que ele revisou todos seus rascunhos algumas vezes, é claro.
+O publish é a transformação do arquivo de texto único para N destinos diferentes: um ou mais blogues e livros, Telegram, RSS, Twitter. Não importa. A definição dos destinos e feito no próprio script awk em conjunto com sua transformação. Por que isso? Porque um escritor não deve se limitar a um único formato. Seu único objetivo na vida é escrever. Seus metadados e o formato do seu texto irão definir para onde vai o conteúdo, mas ele não precisa se preocupar com isso.
