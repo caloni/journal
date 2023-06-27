@@ -3,10 +3,13 @@
 #include <fstream>
 #include <sstream>
 #include <filesystem>
+#include <iostream>
+#include <chrono>
 #include <awklib/awk.h>
 
 
 using namespace std;
+using namespace chrono;
 namespace fs = std::filesystem;
 
 struct PostHeader
@@ -106,6 +109,8 @@ string TransformHeader(string& content)
 
 int main()
 {
+    auto start = high_resolution_clock::now();
+    int postCount = 0;
     ofstream ofs("content/blog.md");
 
     if( ofs )
@@ -125,9 +130,13 @@ int main()
                     //string header = TransformHeader(content);
                     //ofs << "\n" << header << "\n" << content << endl;
                     ofs << content << endl;
+                    ++postCount;
                 }
             }
         }
     }
+
+    auto end = high_resolution_clock::now();
+    cout << postCount << " posts merged in " << duration_cast<seconds>(end - start).count() << " seconds\n";
 }
 

@@ -1,6 +1,7 @@
 #include "constants.h"
 #include <string>
 #include <iostream>
+#include <chrono>
 #include <fstream>
 #include <sstream>
 #include <map>
@@ -14,6 +15,7 @@ typedef SSIZE_T ssize_t;
 
 
 using namespace std;
+using namespace chrono;
 namespace fs = std::filesystem;
 
 
@@ -151,6 +153,8 @@ void FlushContent(const string& ppath, const string& content)
 
 int main()
 {
+    auto start = high_resolution_clock::now();
+    int postCount = 0;
     fs::create_directories("public/blog_alpha");
     ifstream ifs("content/blog.txt");
 
@@ -172,12 +176,10 @@ int main()
 
             int res = awk_setprog(g_interp, program.c_str());
             res = awk_compile(g_interp);
-            cout << "parsing...";
             res = awk_exec(g_interp);
-            cout << " done\n";
 
-            int posts = stoi(GetVar("idx"));
-            for (int i = 1; i <= posts; ++i)
+            postCount = stoi(GetVar("idx"));
+            for (int i = 1; i <= postCount; ++i)
             {
                 string idx = to_string(i);
                 string title = GetVar("title", idx);
@@ -192,14 +194,12 @@ int main()
 
                 string ppath = "public/blog_alpha/blog_entry_" + idx + ".html";
                 FlushContent(ppath, content);
-                cout << "\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b" << idx;
             }
 
             awk_end(g_interp);
         }
         else
         {
-            int counter = 0;
             while (content.size())
             {
                 ostringstream os;
@@ -218,11 +218,13 @@ int main()
                 os << HTML_BODY_BOTTOM << endl;
                 rawPost = os.str();
 
-                string ppath = "public/blog_alpha/blog_entry_" + to_string(++counter) + ".html";
+                string ppath = "public/blog_alpha/blog_entry_" + to_string(++postCount) + ".html";
                 FlushContent(ppath, rawPost);
-                cout << "\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b" << counter;
             }
         }
     }
+
+    auto end = high_resolution_clock::now();
+    cout << postCount << " posts published in " << duration_cast<seconds>(end - start).count() << " seconds\n";
 }
 
