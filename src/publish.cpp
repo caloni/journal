@@ -1,5 +1,5 @@
 // awkblog
-// how to use: gawk -f adoc2html.awk -l awkblog
+// how to use: gawk -f scripts\adoc2html.awk -l awkblog content\blog.txt
 #include "constants.h"
 #include <string>
 #include <iostream>
@@ -42,6 +42,31 @@ static const char *ext_version = NULL; /* or ... = "some string" */
 
 awk_value_t* do_name(int num_actual_args, awk_value_t* result, struct awk_ext_func* finfo)
 {
+    if( num_actual_args > 0 )
+    {
+        awk_valtype_t wanted = AWK_UNDEFINED;
+        awk_value_t value = {};
+        awk_bool_t res = api->api_get_argument(ext_id, 0, wanted, &value);
+        if( res == awk_true )
+        {
+            if( value.val_type == AWK_ARRAY )
+            {
+                size_t count = 0;
+                res = api->api_get_element_count(ext_id, &value, &count);
+
+                if( res == awk_true )
+                {
+                    for (size_t i = 0; i < count; ++i)
+                    {
+                        awk_value_t index = { AWK_NUMBER };
+                        index.num_value = count;
+                        awk_value_t element = {};
+                        res = api->api_get_array_element(ext_id, &value, &index, wanted, &element);
+                    }
+                }
+            }
+        }
+    }
     return NULL;
 }
 
@@ -55,7 +80,7 @@ static awk_bool_t init_func()
     return awk_true;
 }
 
-dl_load_func(func_table, some_name, "name_space_in_quotes")
+dl_load_func(func_table, awkblog, "ablog")
 
 std::string ReadEntireFile(std::ifstream& in)
 {

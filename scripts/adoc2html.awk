@@ -9,9 +9,10 @@
 }
 
 END {
-    for( post in posts ) {
-        print posts[post]["title"];
-        print "";
-        print posts[post]["content"];
-    }
+    ablog::name(posts);
+    #for( post in posts ) {
+        #print posts[post]["title"];
+        #print "";
+        #print posts[post]["content"];
+    #}
 }
