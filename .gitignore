@@ -6,3 +6,4 @@ scripts/*.exe
 scripts/*.dll
 scripts/*.lib
 content/blog.txt
+content/blog.md
