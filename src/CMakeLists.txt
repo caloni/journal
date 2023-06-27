@@ -5,6 +5,7 @@ add_subdirectory(awklib)
 
 add_executable(merge
 merge.cpp
+../scripts/md2adoc.awk
 )
 target_compile_features(merge PRIVATE cxx_std_17)
 
@@ -19,7 +20,7 @@ awklib
 add_executable(publish
 constants.h
 publish.cpp
-tests.awk
+../scripts/adoc2html.awk
 )
 target_compile_features(publish PRIVATE cxx_std_17)
 
@@ -36,7 +37,7 @@ constants.h
 publish.cpp
 awkblog.def
 gawkapi.h
-tests.awk
+../scripts/adoc2html.awk
 )
 target_compile_features(awkblog PRIVATE cxx_std_17)
 

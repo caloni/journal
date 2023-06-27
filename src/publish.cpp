@@ -1,3 +1,5 @@
+// awkblog
+// how to use: gawk -f adoc2html.awk -l awkblog
 #include "constants.h"
 #include <string>
 #include <iostream>
