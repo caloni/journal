@@ -1,8 +1,11 @@
 ---
 categories:
+ - writting
 date: '2023-06-27T21:05:45-03:00'
 draft: true
 tags:
+ - coffee
+ - food
 title: Como torrar café
 ---
 
@@ -10,9 +13,7 @@ Desde que torrei o primeiro batch de grãos que trouxe de Poços comecei a pesqu
 
 # Recortes
 
-## What Is French Roast Coffee? A Guide to Buying and Brewing French Roast Coffee
-:author: Lindsey Goodwin
-:link: https://www.thespruceeats.com/french-roast-coffee-765178
+## [What Is French Roast Coffee? A Guide to Buying and Brewing French Roast Coffee](https://www.thespruceeats.com/french-roast-coffee-765178) (Lindsey Goodwin)
 
 One crack comes from the release of steam.
 
@@ -25,9 +26,7 @@ To be sure, dark French roast coffee is a very dark roast, but if you're looking
 Espresso roast is just a little lighter than French roast. It is the most popular roast for espresso shots. Lighter than that is the Full roast, a category of roasts that includes High roast, Continental roast, and Vienna roast.
 
 
-## How To Roast Coffee Beans
-:author: Pete Scherer
-:link: https://www.thespruceeats.com/how-to-roast-coffee-beans-4799873
+## [How To Roast Coffee Beans](https://www.thespruceeats.com/how-to-roast-coffee-beans-4799873) (Pete Scherer)
 
 The first point of interest you will encounter along the timeline is called "first crack." You will know it by the popping or snapping sound you hear.
 
@@ -48,23 +47,19 @@ Wait at least twenty-four hours before brewing.
 During this rest period, the coffee will release carbon dioxide which otherwise would interfere with flavor extraction during brewing. For peak flavor, use your freshly roasted coffee within two to seven days
 
 
-## Coffee Roast Guide
-:link: https://www.ncausa.org/About-Coffee/Coffee-Roasts-Guide
+## [Coffee Roast Guide](https://www.ncausa.org/About-Coffee/Coffee-Roasts-Guide)
 
 Roasting causes chemical changes to take place as the beans are rapidly brought to very high temperatures. When they reach the peak of perfection, they are quickly cooled to stop the process. Roasted beans smell like coffee, and weigh less because the moisture has been roasted out. They are crunchy to the bite, ready to be ground and brewed.
 
 
-## A Beginners Guide to Coffee Roasts
-:link: https://espresso-works.com/blogs/coffee-life/coffee-roasts
+## [A Beginners Guide to Coffee Roasts](https://espresso-works.com/blogs/coffee-life/coffee-roasts)
 
 Coffee roasting is the process in which the coffee beans are heated in order to achieve solubility — that is, the ability to dissolve in water.
 
 Once you’ve roasted a batch of coffee beans, it’s like activating a timer. They must be consumed within a certain period of time since the flavor created by the chemical reaction from the roasting process will slowly diminish if the beans remain unused for too long.
 
 
-## Ultimate Coffee Roasting Guide
-:author: Tyler Heal
-:link: https://www.coffeegrindguru.com/ultimate-coffee-roasting-guide/#google_vignette
+## [Ultimate Coffee Roasting Guide](https://www.coffeegrindguru.com/ultimate-coffee-roasting-guide/#google_vignette) (Tyler Heal)
 
 When the temperature is too hot, then the beans risk being ‘gooey’ on the inside and tasting burnt.
 
@@ -91,9 +86,7 @@ BT stands for bean temperature and it will change drastically due to changes occ
 TP is the turning point, or the lowest point of the temperature trough and delineates the moment the cold beans hit the roaster.
 
 
-## A Beginner’s Guide to Roasting Great Coffee at Home
-:author: Tasmin Grant
-:link: https://perfectdailygrind.com/2020/05/a-beginners-guide-to-roasting-great-coffee-at-home/
+## [A Beginner’s Guide to Roasting Great Coffee at Home](https://perfectdailygrind.com/2020/05/a-beginners-guide-to-roasting-great-coffee-at-home/) (Tasmin Grant)
 
 Home roasting will also help you broaden your coffee knowledge. You’ll start to understand what makes your favourite coffee taste so delicious and how you can alter your roast profile or buy different beans to highlight that. Through time and practice, your palate will improve – allowing you to appreciate your coffee even more.
 
@@ -124,9 +117,7 @@ Stay consistent with your variables so you can better understand the impact they
 Roast a wide variety of coffee origins, varieties, and processes so that you can better understand your capabilities. Something that might not have a significant impact on a Guatemalan coffee might dramatically alter the profile of a Rwandan.
 
 
-## Physical changes coffee beans experience during roasting
-:author: Veronica Belchior
-:link: https://perfectdailygrind.com/2019/03/what-happens-during-coffee-roasting-the-physical-changes/
+## [Physical changes coffee beans experience during roasting](https://perfectdailygrind.com/2019/03/what-happens-during-coffee-roasting-the-physical-changes/) (Veronica Belchior)
 
 Roasters often keep track of percent weight loss to help identify which batches might deserve extra scrutiny in quality assurance.
 
@@ -143,9 +134,7 @@ When you see the coffee beans start to turn brown, the Maillard reaction has sta
 After first crack, the roast changes from an endothermic reaction (the beans absorb heat from the drum) to an exothermic one (the beans release heat).
 
 
-## What Happens During Coffee Roasting: The Chemical Changes
-:author: Veronica Belchior
-:link: https://perfectdailygrind.com/2019/03/what-happens-during-coffee-roasting-the-physical-changes/
+## [What Happens During Coffee Roasting: The Chemical Changes](https://perfectdailygrind.com/2019/03/what-happens-during-coffee-roasting-the-physical-changes/) (Veronica Belchior)
 
 The change in color is due to the production of melanoidins. These are large molecules that not only turn the beans brown, but contribute to mouthfeel and body.
 
@@ -162,9 +151,7 @@ Many non-volatile compounds contribute to flavor and profile. Examples include c
 For example, the citric and tartaric acids that produce fruity and sweet notes are broken down during roasting so a long or overly hot roast can hugely reduce the sweetness of the final profile.
 
 
-## Acidic Coffees: A Brew & Roast Guide
-:author: Fernando Pocasangre
-:link: https://perfectdailygrind.com/2018/05/why-are-some-coffees-more-acidic-than-others-a-brew-roast-guide/
+## [Acidic Coffees: A Brew & Roast Guide](https://perfectdailygrind.com/2018/05/why-are-some-coffees-more-acidic-than-others-a-brew-roast-guide/) (Fernando Pocasangre)
 
 Because, as Mané says, “acidity can complement or unbalance the harmony of a coffee cup. If a coffee is more acidic it can become sour, people don’t like the coffee.” And without acidity? “Then the coffee will taste ‘flat.’”
 
@@ -201,9 +188,7 @@ The finer the grind size, the more quickly extraction happens (note: extraction 
 So, aim for a relatively high water temperature but a coarser grind size and shorter brew time for a more acidic cup. Grind finer and brew for longer if it’s coming out sour. Or, brew cool to avoid acids – but don’t forget that you’ll need to increase your brew time, since extraction takes longer at lower temperatures.
 
 
-## A Roaster’s Guide to Creating Coffee Blends
-:author: Angie Katherine Molina Ospina
-:link: https://perfectdailygrind.com/2018/05/a-roasters-guide-to-creating-coffee-blends/
+## [A Roaster’s Guide to Creating Coffee Blends](https://perfectdailygrind.com/2018/05/a-roasters-guide-to-creating-coffee-blends/) (Angie Katherine Molina Ospina)
 
 The golden rule of coffee blends is that they should be better than the coffees were individually. Often, combining them adds greater balance and complexity, while highlighting the best notes of each component coffee.
 
@@ -214,9 +199,7 @@ A sweet base note: For this, she tells me that you need a coffee that takes on b
 High notes: This comes from the kinds of coffees that can be roasted light, even though you don’t have to be crafting a light blend. We’re talking citric acidity and floral notes,
 
 
-## Blending Coffee Through Molecular Analysis
-:author: Michael Beermann
-:link: https://perfectdailygrind.com/2018/07/blending-coffee-through-molecular-analysis/
+## [Blending Coffee Through Molecular Analysis](https://perfectdailygrind.com/2018/07/blending-coffee-through-molecular-analysis/) (Michael Beermann)
 
 Previously published scientific papers show that green coffee beans contain a high concentration of sucrose. In the early stages of the roasting process, this sucrose is transformed to flavor molecules which are often linked to the sour and bitter taste of coffee.
 
@@ -235,9 +218,7 @@ Coffee’s most famous molecule, it’s what makes you feel awake and energized.
 While bitterness wasn’t our goal, it was vital to have a little of it for balance. Many people will associate a certain amount of bitterness with a good cup of coffee.
 
 
-## Honey processing: everything you need to know
-:author: Robbie Lynch
-:link: https://perfectdailygrind.com/2015/09/everything-you-need-to-know-about-honey-processing/
+## [Honey processing: everything you need to know](https://perfectdailygrind.com/2015/09/everything-you-need-to-know-about-honey-processing/) (Robbie Lynch)
 
 The world’s most popular coffee processing methods are natural, washed, and honey. Natural processed coffees are dried, hulled and milled. Washed (or wet) coffees are pulped and then fermented to remove the mesocarp (also known as mucilage) layer before being dried and milled. Honey processing bridges the gap between wet and natural coffees; the coffee cherry is pulped and then dried with the mucilage layer on the parchment.
 
@@ -248,9 +229,7 @@ The first thing the farmers do is pick only the ripest cherries from the trees. 
 Honey processed coffees generally possess great sweetness and a balanced acidity with fruity undertones. The flavours are typically less powerful than natural processed coffee, but the clarity and definition of them is much clearer and more pronounced. Who doesn’t want that?
 
 
-## Britannica: coffee roasting
-:author: Nathan Myhrvold
-https://www.britannica.com/topic/coffee-roasting
+## [Britannica: coffee roasting](https://www.britannica.com/topic/coffee-roasting) (Nathan Myhrvold)
 
 If the beans are chemically decaffeinated, roasting also removes all but trace amounts of the solvent residues.
 
@@ -259,8 +238,7 @@ Roasting results in a loss of weight between 14 and 23 percent, and the internal
 Regardless of the method used, the coffee, after leaving industrial roasters, is rapidly cooled in a vat, where it is stirred and subjected to cold air propelled by a blower. Good-quality coffees are then sorted by electronic sorters to eliminate those beans, either too light or too dark, that roasted badly and whose presence downgrades the overall quality.
 
 
-How To Roast Coffee Beans: The Ultimate Guide
-:link: https://burmancoffee.com/coffee-roasting-etc/how-to-roast-coffee-beans-ultimate-guide/
+## [How To Roast Coffee Beans: The Ultimate Guide](https://burmancoffee.com/coffee-roasting-etc/how-to-roast-coffee-beans-ultimate-guide/)
 
 Just as apples are red and oranges are orange, coffee beans are green when they are removed from the fruit of the tree.
 
@@ -330,8 +308,7 @@ How do identify optimum degassing time?
 Almost everyone agrees on 24 hours. From there, some like it fresher, some like to wait as long as 7-9 days before drinking. If you are ready to take the leap and make the investment, there are two two types  of home coffee roasters to consider – Fluid Bed and Drum. Fluid Bed Roasters are similar in design to hot-air popcorn poppers, roast small batches, and are easy to clean. Drum Roasters have a rotating screen drum allowing larger batches of coffee beans to roast more evenly. These coffee bean roasters give you a bit more control over the roasting process but require a larger investment. - Jon Burman (comments section)
 
 
-### How to Roast Coffee Beans in a Pan: Complete Guide
-:link: https://greatcoffeebrewers.com/how-to-roast-coffee-beans-in-a-pan/
+## [How to Roast Coffee Beans in a Pan: Complete Guide](https://greatcoffeebrewers.com/how-to-roast-coffee-beans-in-a-pan/)
 
 Select beans of uniform size and color to guarantee an equal, consistent roast and taste. To avoid uneven and disagreeable flavor, it’s critical to get these two factors right.
 
@@ -344,3 +321,61 @@ Depending on how black you want your coffee, it will take 8 to 10 minutes to roa
 After around 5 minutes, the beans will start to pop, similar to popcorn. This is known as the “first crack” in coffee roasting, and the beans are theoretically drinkable shortly after this stage.
 
 Turn off the burner and spritz the coffee beans with a light mist of cold water. Since the beans will continue to cook until they’re warm, it’s critical to chill them immediately to avoid over roasting.
+
+## [The Craft and Science of Coffee](https://www.sciencedirect.com/book/9780128035207/the-craft-and-science-of-coffee) (edited by Britta Folmer)
+
+Coffee beans change color from greenish-gray-blue (color of the green bean) to yellow, orange, brown, dark brown, and finally to almost black. 
+
+The structure of the coffee bean seems to be essential for the creation of the typical roast flavor of coffee. Experiments showed that ground green coffee powder exposed to similar temperature histories as in bean roasting does not produce the desired flavor compounds. The intact bean acts as an essential “minireactor” for the chemical reactions. 
+
+By contrast to the popcorn roasting process with the sudden burst-type expansion, coffee beans swell continuously in a steady process 
+
+The increasing gas pressure inside the bean is the main driving force for expansion, whereas the thick plant cell walls hold against it. 
+
+According to glass transition theory, the polysaccharides of the cell walls may be in a “glassy” or “rubbery” state, depending on actual moisture content and temperature. 
+
+The cell walls of coffee beans are unusually thick as compared to plant material of other species. 
+
+Green coffee beans enter the roasting process with a typical moisture content of about 10–12% [g/100 g, wet base (wb)]. During roasting dehydration takes place. Depending on the roasting conditions the roasted beans may leave the process with a final moisture of about 2.5%. 
+
+The highest rate of roast loss is usually found in the early process stages and is mainly caused by dehydration, whereas loss of organic matter is initiated later during the more advanced stages. 
+
+Since green coffee in reality is always subject to natural quality fluctuations (e.g., fluctuating green coffee initial moisture content), the roast loss may also fluctuate from one batch to the next, even when roasted to the identical bean color. 
+
+Coffee beans may contain up to 18% lipids (coffee oil). 
+
+The gas pressure inside the bean pushes the coffee oil through tiny microchannels in the cell wall to the bean surface. 
+
+Some of the most important chemical reactions affecting carbohydrates include Maillard reaction, Strecker degradation, pyrolysis, and caramelization. 
+
+During the initial stages of roasting a considerable energy input is required to drive the evaporation of water and to induce chemical reactions (endothermic phase). At one point during roasting, the energy balance of chemical reactions becomes autocatalytic (exothermic). The beans eventually start to generate heat on their own ( Raemy and Lambelet, 1982 ). 
+
+Roasting needs to be stopped abruptly at the desired degree of roast with an efficient precooling or cooling step. If roasting continues in an uncontrolled way the beans may catch fire and produce unsafe conditions in a roaster. 
+
+The predominant gas formed upon roasting is carbon dioxide (CO2). Other important components include CO and N2. One part of the gas is released to the atmosphere during roasting. Another major part remains entrapped inside the beans and is only released later during storage in a slow desorption process and during subsequent processing steps (e.g., grinding). 
+
+Gas measurements and model calculations come to the conclusion that the gas pressure inside the bean upon roasting may exceed values higher than 10 bars ( Schenker, 2000 ). 
+
+some minor structural break down and cracks occur during the final roasting stages, releasing a tiny quantity of gas in a sudden microburst and manifest in cracking and popping sounds. 
+
+The volatile fraction of roasted coffee is highly complex and consists of more than 1000 compounds. Much scientific work has been devoted to the identification of key aroma impact compounds ( Grosch, 2001 ; Poisson et al., 2014 ), 
+
+The formation kinetics of aroma compounds during roasting is determined by the specific conditions for chemical reactions (e.g., temperature, water activity, pressure) as controlled by the process parameters (e.g., heat transfer over time). Therefore, different time–temperature conditions during roasting lead to specific flavor profiles obtained from the same raw material. 
+
+The first roasting stage does not produce large aroma quantities, but may be important for the formation of aroma precursors. A majority of aroma compounds showed the highest formation rate at medium stages of the roasting process and medium stages of bean dehydration with the water content ranging from 7% to 2% (wb). The majority of important aroma compounds (e.g., most pyrazines) start to decay at high temperature during advanced stages of the process due to thermal degradation. The concentrations of these volatiles decrease with increasing degree of roast. By contrast, a limited number of aroma compounds continue to be created at high temperature (e.g., guaiacol). 
+
+As a rule of thumb, increasing degree of roast leads to decreasing acidity and increasing bitterness. Therefore, selecting the optimal degree of roast is crucial for a balanced taste profile. 
+
+Although caffeine—which is present in the green bean—has a strong bitter taste, it contributes only some 10–20% to the sensory perceived bitterness in coffee. 
+
+The main contributors to bitterness are formed by roasting. The class of chlorogenic acid lactones—a break down product of chlorogenic acids—has been identified as one of the main contributors to bitterness in coffee ( Hofmann, 2008 ). 
+
+Moderate quantities of quenching water will not affect the flavor or the physical bean properties. By contrast, excessive amount of quenching water will result in water absorption and therefore increase the final bean moisture. Hence, water quenching may also be used to adjust and control the final bean moisture. High water activity in the roasted bean results in an accelerated staling process and may affect flavor stability and shorten the product shelf-life. 
+
+Very simplified, the pleasant and delightful coffee aroma builds up to a certain optimal degree of roast, but then decreases again upon continued roasting. In a similar way the sensory attribute “body” or “mouthfeel” increases to a certain point and then decreases on continued roasting beyond this point. An over-roasted coffee may yield strong intensity of “roasty note” at cup tasting, but very often lacks “body” and produces a sensory perception known as “thin” or “weak mouthfeel.” Depending on the origin and characteristics of green beans, different degrees of roast are required to exploit the natural flavor potential to its best. 
+
+Comparing beans of identical degree of roast, fast roasted beans generate larger gas quantities than slow roasted beans. 
+
+For a given bean color, fast roasted beans exhibit much greater bean volume and porosity and lower density than slow roasted beans. 
+
+In general, more soluble matter can be extracted from fast roasted beans. This may be due to greater generation of soluble matter or to better accessibility for the water in high porosity structure or to both. 
