@@ -379,3 +379,51 @@ Comparing beans of identical degree of roast, fast roasted beans generate larger
 For a given bean color, fast roasted beans exhibit much greater bean volume and porosity and lower density than slow roasted beans. 
 
 In general, more soluble matter can be extracted from fast roasted beans. This may be due to greater generation of soluble matter or to better accessibility for the water in high porosity structure or to both. 
+
+Fast roasted beans finish the roasting process with a slightly higher final moisture content. 
+
+Fast roasted beans exhibit also a considerably stronger tendency for oil sweating. 
+
+Although the overall flavor intensity may be stronger for fast roasted beans compared to slow roasted beans of identical color, it does not mean that the cup profile is necessarily better. 
+
+The same aroma impact compounds are formed regardless of the roasting time. However, the quantities of individual compounds or compound groups depend on the roasting time in various ways. 
+
+Some aroma compounds are preferably generated in fast roasting conditions whereas others are enhanced at slow roast conditions. 
+
+Fast roasted coffee usually delivers more acidity in the cup profile and often a stronger “roasty” note. Slow roasted coffees often show higher intensity in sensory attributes such as “balanced,” “fruity,” “nut-like,” and “toasty” notes. 
+
+One possible problem that may occur in extreme cases of fast roasting is related to the heat transfer within the bean. 
+
+In the cup profile this could lead to “burnt” notes and “greenish” notes at the same time. 
+
+Changes in bean color, size, and texture are most notable during the process, and the aroma that the beans emit at each try should be correlated to the stages of roast as well. 
+
+As a beginner or apprentice, the artisan must become familiar with the impact each adjustment has on the roast, and by extension, the cup quality. Here, as with all other players in the seed to cup chain, tasting the cup is crucial to the success of the endeavor. A well-developed palate, combined with an understanding of the machine and a unique point of view, will set an apprentice operator on the path to artisan. 
+
+Before the tasting can begin, an artisan must rely heavily on their senses of sight and smell as the coffee progresses in the roaster. 
+
+Data logging of temperature from a bean probe and time intervals, as well as the first and temperature of first crack is highly recommended. 
+
+The roast plan and intended outcome are commonly referred to as the “profile.” A profile can mean both the course of development for the beans inside the roasting machine and the intended flavor characteristics realized in the cup. 
+
+During the beans' first cracking point, which is marked by a sound similar to crackling or the sound of popcorn popping, the artisan can enjoy the initial aromas of true coffee character and observe the smoothing of the once dense and uneven bean surface texture. 
+
+The first crack of the roast also corresponds to the beans' switch from endothermic to exothermic and so the artisan might make an adjustment to flame, and log it to finesse the roasting environment's rate of heat rise. 
+
+The sense of sight and smell become increasingly more crucial after first crack as this is when the artisan must decide on, and execute, the correct drop time at the desired temperature. 
+
+The arguments for roasting each component of a blend separately are compelling, but those reasons may make sense only as theory. It could be that the color variations and slightly uneven development resulting from a green blended coffee imparts the flavors that are exactly what the artisan intended. 
+
+However, roasting (see Chapter 11 ) is undoubtedly the most important factor in the coffee value chain where important physical and chemical changes lead to the development of the characteristic roasted coffee attributes ( Clarke, 1987 ). 
+
+Green coffee is primarily composed of carbohydrates, nitrogen (N)-containing compounds (mainly proteins, trigonelline, and caffeine), lipids, organic acids, and water. 
+
+The more complex aroma and overall flavor of Arabica coffee has been explained by its higher sucrose level ( Farah, 2012 ). 
+
+The concentration of glucose and fructose rises in the early roasting stage due to the constant degradation of sucrose. Almost all free sugars are lost upon roasting due to Maillard reaction and caramelization, giving rise to water, carbon dioxide, color, aroma, and taste. 
+
+About 12–24% of the polysaccharides are degraded in light roasted coffee, 35– 40% upon dark roasting. 
+
+Polysaccharides do not seem to specifically contribute to aroma formation during roasting, but impart relevant organoleptic properties of the coffee brew, such as viscosity and mouth feel ( Redgwell et al., 2002 ). 
+
+Free amino acids represent only less than 1% of green coffee, however, their importance for the final flavor of roasted coffee is high. They are key reaction partners in the Maillard chemistry as well as in the Strecker degradation to yield many potent odorants. 
