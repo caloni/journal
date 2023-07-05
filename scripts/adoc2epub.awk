@@ -33,7 +33,9 @@ BEGIN {
 }
 
 /^[^=:]/ {
-  #print "content " $0
+  gsub(/</, "&lt;");
+  gsub(/>/, "&gt;");
+  gsub(/&/, "&amp;");
   content = content "\n<p>" $0 "</p>"
 }
 
