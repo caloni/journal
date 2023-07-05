@@ -71,7 +71,7 @@ PostHeader ReadYamlHeader(const string& content)
 }
 
 
-string TransformHeader(string& content)
+string TransformHeader(const string& slug, string& content)
 {
     size_t yamlBegin = content.find("---\n");
     size_t yamlEnd = content.find("\n---\n", yamlBegin);
@@ -84,23 +84,9 @@ string TransformHeader(string& content)
         size_t headerBegin = yamlBegin + 4;
         size_t headerEnd = yamlEnd - headerBegin;
         string headerStr = content.substr(yamlBegin + 4, headerEnd);
-        ostringstream os;
-        istringstream is(headerStr);
-        while( is )
-        {
-            string field;
-            is >> field;
-            if( field.find("title:") == 0 )
-            {
-                getline(is, field);
-                os << "=" << field << endl;
-            }
-        }
-        content.erase(0, contentBegin);
-        while( content.size() && content[0] == '\n' )
-            content.erase(0, 1);
-        string header = os.str();
-        return header;
+        headerStr = headerStr + "\nslug: " + slug;
+        content = content.substr(contentBegin);
+        return headerStr;
     }
 
     return "";
@@ -127,10 +113,16 @@ int main()
                 if (ifs)
                 {
                     string content = ReadEntireFile(ifs);
-                    //string header = TransformHeader(content);
-                    //ofs << "\n" << header << "\n" << content << endl;
-                    ofs << content << endl;
-                    ++postCount;
+                    if( content.size() )
+                    {
+                        string header = TransformHeader(dir, content);
+                        if (header.size())
+                        {
+                            ofs << "\n---\n" << header << "\n---\n" << content << endl;
+                            ofs << content << endl;
+                            ++postCount;
+                        }
+                    }
                 }
             }
         }
