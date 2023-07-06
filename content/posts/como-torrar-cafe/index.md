@@ -427,3 +427,31 @@ About 12–24% of the polysaccharides are degraded in light roasted coffee, 35�
 Polysaccharides do not seem to specifically contribute to aroma formation during roasting, but impart relevant organoleptic properties of the coffee brew, such as viscosity and mouth feel ( Redgwell et al., 2002 ). 
 
 Free amino acids represent only less than 1% of green coffee, however, their importance for the final flavor of roasted coffee is high. They are key reaction partners in the Maillard chemistry as well as in the Strecker degradation to yield many potent odorants. 
+
+Flavor consists of two distinct sensory modalities, i.e., the volatile aroma perceived nasally and the nonvolatile taste perceived in the oral cavity. 
+
+As coffee flavor is composed of more than 1000 volatile and nonvolatile compounds, a sophisticated analytical approach is required combining sensory and instrumental evaluations to narrow down the number of relevant compounds to focus on. 
+
+The aroma of green coffee is described as green, hay- and pea-like ( Gretsch et al., 1999 ), and the taste as sweet, astringent ( Viani and Petracco, 2007 ), which indeed is very different from the product after roasting. 
+
+Green coffee beans contain about 300 volatiles in much lower concentrations compared to roasted coffee. 
+
+The complex mixture and balance of the volatile fraction make up for only about 0.1% of the total roasted coffee weight, with single components ranging from parts per trillion (ppt) levels to higher part per million (ppm) levels, making it to one of the beverages with the richest and most complex flavor content ( Hertz-Schünemann et al., 2013 ). 
+
+Meanwhile it is broadly accepted that it is not the number of components that defines the quality, intensity, or characteristic of the overall odor impression of a food stuff. Indeed, for only about 25–30 key odorants a contribution to the overall aroma of coffee has been evidenced ( Blank et al., 1992 ; Grosch, 1998 , 2001a ; Kerler and Poisson, 2011 ). 
+
+Interestingly, a few to about 40 impact odorants were found in most of investigated foods, e.g. roasted beef ( Cerny and Grosch, 1992 ), red wine ( Frank et al., 2011 ), or chocolate ( Schnermann and Schieberle, 1997 ), though hundreds of volatiles were identified. In addition, only a limited number of genuine volatile compounds are spread in most of the food matrices and less than 3% of foodborne volatiles constitute the chemical odorant space ( Dunkel et al., 2014 ). 
+
+Although caffeine—which is present in the green bean—has a strong bitter taste, it contributes only some 10–20% to the sensory-perceived bitterness in coffee. 
+
+Furthermore, diketopiperazines (DKPs), condensation product of free amino acids, play a role in coffee bitterness. 
+
+Basically, the Maillard reaction is an amino-catalyzed sugar degradation leading to aroma, taste, and color (melanoidins). Sucrose, the most abundant free sugar in green coffee beans, needs first to be decomposed into glucose and fructose by heat treatment to undergo Maillard-type reactions. 
+
+The identification and formation pathways of bitterness components in roasted coffee have recently been elucidated. CGA lactones, breakdown products of CGA (CQAs), have been identified as one of the main contributors to bitterness in coffee. In addition hydroxylated phenylindanes have been reported as intense bitter-tasting compounds ( Frank et al., 2007 ). 
+
+Most of the polymeric carbohydrates, lipids, caffeine, and inorganic salts survive the roasting process. Alkaloids such as caffeine are relatively stable and only trigonelline is partially degraded to volatile compounds ( Viani and Horman, 1974 
+
+It was shown that roasting of green coffee powder and green coffee bean fragments was different from roasting of whole coffee beans ( Fischer, 2005 ). Indeed, the coffee bean can be seen as a pressurized reactor. 
+
+Thus, the formation of coffee aroma cannot always be explained by model reaction systems, as the extreme reaction conditions during coffee roasting can lead to different reaction pathways. 
