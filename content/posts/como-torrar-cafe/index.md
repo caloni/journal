@@ -455,3 +455,35 @@ Most of the polymeric carbohydrates, lipids, caffeine, and inorganic salts survi
 It was shown that roasting of green coffee powder and green coffee bean fragments was different from roasting of whole coffee beans ( Fischer, 2005 ). Indeed, the coffee bean can be seen as a pressurized reactor. 
 
 Thus, the formation of coffee aroma cannot always be explained by model reaction systems, as the extreme reaction conditions during coffee roasting can lead to different reaction pathways. 
+
+The quality of the green coffee is the main determinant of the aroma and taste developed during the roasting process, and it is a snapshot at a defined roasting degree. 
+
+It seems obvious that the optimum degree of roast is a function of green bean origin, intended brewing method, and personal taste preference. 
+
+The experienced coffee roaster knows that the aroma evolves from sweet, fruity, floral, bread, and nutty character in light roasts, through more complex aroma profiles in medium roast. Darker roast levels are characterized by cocoa, spicy, phenolic, ashy, pungent, and dark roast flavors. The bitter taste increases during roasting, whereas the acidity decreases during initial stages of roasting ( Fig. 12.5 ). 
+
+Sucrose and free amino acids are immediately available and highly reactive. Their high reactivity is explained by the presence of a free functional amino group and the rapid thermal hydrolysis of sucrose into reducing sugars. Arabinose branches and CGA are degraded in a later stage. This delayed reactivity can be explained by the additional energy needed for depolymerization or hydrolysis to liberate the reactive functions. Other polymeric carbohydrates (i.e., galactans, mannans, and cellulose) or bound amino acids are less prone to hydrolysis and depolymerization, and thus only contribute at a later stage of roasting to the Maillard reaction ( Arya and Rao, 2007 ). 
+
+Short-time roasting at high temperature has been shown to result in considerable differences in the physical properties and kinetics of aroma formation compared to long time roasting at lower temperatures ( Baggenstoss et al., 2008a ; Glöss et al., 2014 ). Fast roasting yields more soluble solids while causing less degradation of CGA, and lower loss of volatiles ( Nagaraju et al., 1997 ). This is accentuated in higher quantities of roasty, buttery diketones, and furfurals, whereas much lower concentrations of phenols are formed, leading to less burnt, smoky flavor. On the other side, fast roasted coffee is presumed to be more affected by lipid oxidation due to higher oil migration from the inner bean to the surface ( Schenker et al., 2000 ). 
+
+Green Arabica coffee contains more oligosaccharides, lipids, trigonelline, and organic acids. On the other hand, Robusta is significantly richer in caffeine and CGA and also exhibit a larger amount of free amino acids than Arabica (see also Table 12.3 ). 
+
+Steam treatment of green coffee beans represents a method to improve flavor quality of Robusta coffees ( Becker et al., 1989 ; Darboven, 1995 ). They get sweeter, more acidic, and less bitter than untreated coffee, lowering significantly the Robusta character ( Theurillat et al., 2006 ). 
+
+It seems that a higher air-to-bean ratio leads to a rather less complex and flat flavor, which was linked to an increased aroma stripping at higher air flows. 
+
+The major compositional changes and chemical processes are summarized below that affect the development of flavor compounds in coffee upon roasting:
+
+ - Loss of water: drying of the bean, low moisture reaction system;
+ - Release of carbon dioxide: expansion of the bean;
+ - Migration of lipids to the bean surface: retaining aroma components generated;
+ - Loss of sugars (including sucrose): flavor and color formation (Maillard chemistry and caramelization);
+ - Decrease of free amino acids: flavor and color formation (Maillard and Strecker chemistry);
+ - Partial decomposition of polysaccharides (e.g., arabinogalactan): release of arabinose which in turn reacts leading to flavor formation (e.g., Maillard reaction);
+ - Partial decomposition of proteins: release of amino acids which in turn reacts leading to flavor formation (e.g., Maillard reaction);
+ - Loss of CGA: formation of bitter taste and color;
+ - Decrease of trigonelline: formation of N-containing products (aroma, taste, color);
+ - Formation of melanoidins: color formation (polymerization of polysaccharides, proteins, and polyphenols);
+ - Partial lipid degradation: aroma active aldehydes.
+
+The complexity of the green coffee composition as well as the chemical and physical transformations of the bean during roasting are difficult to reproduce in model systems. The approach of in-bean experiments using green beans as minireactors is a more realistic reaction environment. 

@@ -1,70 +1,50 @@
 ﻿The Craft and Science of Coffee
-- Highlight Loc. 6907-8  | Added on Wednesday, 5 July 23 00:09:41 GMT-02:59
+- Highlight Loc. 7163-64  | Added on Thursday, 6 July 23 00:10:07 GMT-02:59
 
-Flavor consists of two distinct sensory modalities, i.e., the volatile aroma perceived nasally and the nonvolatile taste perceived in the oral cavity. 
+The quality of the green coffee is the main determinant of the aroma and taste developed during the roasting process, and it is a snapshot at a defined roasting degree. 
 ==========
 The Craft and Science of Coffee
-- Highlight Loc. 6910-12  | Added on Wednesday, 5 July 23 00:10:17 GMT-02:59
+- Highlight Loc. 7165-66  | Added on Thursday, 6 July 23 00:11:06 GMT-02:59
 
-As coffee flavor is composed of more than 1000 volatile and nonvolatile compounds, a sophisticated analytical approach is required combining sensory and instrumental evaluations to narrow down the number of relevant compounds to focus on. 
+It seems obvious that the optimum degree of roast is a function of green bean origin, intended brewing method, and personal taste preference. 
 ==========
 The Craft and Science of Coffee
-- Highlight Loc. 6953-56  | Added on Wednesday, 5 July 23 00:24:35 GMT-02:59
+- Highlight Loc. 7169-72  | Added on Thursday, 6 July 23 00:11:55 GMT-02:59
 
-The aroma of green coffee is described as green, hay- and pea-like ( Gretsch et al., 1999 ), and the taste as sweet, astringent ( Viani and Petracco, 2007 ), which indeed is very different from the product after roasting. 
+The experienced coffee roaster knows that the aroma evolves from sweet, fruity, floral, bread, and nutty character in light roasts, through more complex aroma profiles in medium roast. Darker roast levels are characterized by cocoa, spicy, phenolic, ashy, pungent, and dark roast flavors. The bitter taste increases during roasting, whereas the acidity decreases during initial stages of roasting ( Fig. 12.5 ). 
 ==========
 The Craft and Science of Coffee
-- Highlight Loc. 6957-58  | Added on Wednesday, 5 July 23 00:24:57 GMT-02:59
+- Highlight Loc. 7178-83  | Added on Thursday, 6 July 23 00:18:14 GMT-02:59
 
-Green coffee beans contain about 300 volatiles in much lower concentrations compared to roasted coffee. 
+Sucrose and free amino acids are immediately available and highly reactive. Their high reactivity is explained by the presence of a free functional amino group and the rapid thermal hydrolysis of sucrose into reducing sugars. Arabinose branches and CGA are degraded in a later stage. This delayed reactivity can be explained by the additional energy needed for depolymerization or hydrolysis to liberate the reactive functions. Other polymeric carbohydrates (i.e., galactans, mannans, and cellulose) or bound amino acids are less prone to hydrolysis and depolymerization, and thus only contribute at a later stage of roasting to the Maillard reaction ( Arya and Rao, 2007 ). 
 ==========
 The Craft and Science of Coffee
-- Highlight Loc. 6966-68  | Added on Wednesday, 5 July 23 00:27:40 GMT-02:59
+- Highlight Loc. 7208-14  | Added on Thursday, 6 July 23 00:28:53 GMT-02:59
 
-The complex mixture and balance of the volatile fraction make up for only about 0.1% of the total roasted coffee weight, with single components ranging from parts per trillion (ppt) levels to higher part per million (ppm) levels, making it to one of the beverages with the richest and most complex flavor content ( Hertz-Schünemann et al., 2013 ). 
+Short-time roasting at high temperature has been shown to result in considerable differences in the physical properties and kinetics of aroma formation compared to long time roasting at lower temperatures ( Baggenstoss et al., 2008a ; Glöss et al., 2014 ). Fast roasting yields more soluble solids while causing less degradation of CGA, and lower loss of volatiles ( Nagaraju et al., 1997 ). This is accentuated in higher quantities of roasty, buttery diketones, and furfurals, whereas much lower concentrations of phenols are formed, leading to less burnt, smoky flavor. On the other side, fast roasted coffee is presumed to be more affected by lipid oxidation due to higher oil migration from the inner bean to the surface ( Schenker et al., 2000 ). 
 ==========
 The Craft and Science of Coffee
-- Highlight Loc. 6969-72  | Added on Wednesday, 5 July 23 00:29:40 GMT-02:59
+- Highlight Loc. 7220-22  | Added on Thursday, 6 July 23 00:30:39 GMT-02:59
 
-Meanwhile it is broadly accepted that it is not the number of components that defines the quality, intensity, or characteristic of the overall odor impression of a food stuff. Indeed, for only about 25–30 key odorants a contribution to the overall aroma of coffee has been evidenced ( Blank et al., 1992 ; Grosch, 1998 , 2001a ; Kerler and Poisson, 2011 ). 
+Green Arabica coffee contains more oligosaccharides, lipids, trigonelline, and organic acids. On the other hand, Robusta is significantly richer in caffeine and CGA and also exhibit a larger amount of free amino acids than Arabica (see also Table 12.3 ). 
 ==========
 The Craft and Science of Coffee
-- Highlight Loc. 6972-77  | Added on Wednesday, 5 July 23 00:29:54 GMT-02:59
+- Highlight Loc. 7237-40  | Added on Thursday, 6 July 23 00:35:15 GMT-02:59
 
-Interestingly, a few to about 40 impact odorants were found in most of investigated foods, e.g. roasted beef ( Cerny and Grosch, 1992 ), red wine ( Frank et al., 2011 ), or chocolate ( Schnermann and Schieberle, 1997 ), though hundreds of volatiles were identified. In addition, only a limited number of genuine volatile compounds are spread in most of the food matrices and less than 3% of foodborne volatiles constitute the chemical odorant space ( Dunkel et al., 2014 ). 
+Steam treatment of green coffee beans represents a method to improve flavor quality of Robusta coffees ( Becker et al., 1989 ; Darboven, 1995 ). They get sweeter, more acidic, and less bitter than untreated coffee, lowering significantly the Robusta character ( Theurillat et al., 2006 ). 
 ==========
 The Craft and Science of Coffee
-- Highlight Loc. 7026-27  | Added on Wednesday, 5 July 23 00:34:37 GMT-02:59
+- Highlight Loc. 7252-53  | Added on Thursday, 6 July 23 00:39:38 GMT-02:59
 
-Although caffeine—which is present in the green bean—has a strong bitter taste, it contributes only some 10–20% to the sensory-perceived bitterness in coffee. 
+It seems that a higher air-to-bean ratio leads to a rather less complex and flat flavor, which was linked to an increased aroma stripping at higher air flows. 
 ==========
 The Craft and Science of Coffee
-- Highlight Loc. 7028  | Added on Wednesday, 5 July 23 00:34:52 GMT-02:59
+- Highlight Loc. 7254-69  | Added on Friday, 7 July 23 00:13:39 GMT-02:59
 
-Furthermore, diketopiperazines (DKPs), condensation product of free amino acids, play a role in coffee bitterness. 
+The major compositional changes and chemical processes are summarized below that affect the development of flavor compounds in coffee upon roasting: • loss of water ⇨ drying of the bean, low moisture reaction system • release of carbon dioxide ⇨ expansion of the bean • migration of lipids to the bean surface ⇨ retaining aroma components generated • loss of sugars (including sucrose) ⇨ flavor and color formation (Maillard chemistry and caramelization) • decrease of free amino acids ⇨ flavor and color formation (Maillard and Strecker chemistry) • partial decomposition of polysaccharides (e.g., arabinogalactan) ⇨ release of arabinose which in turn reacts leading to flavor formation (e.g., Maillard reaction) • partial decomposition of proteins ⇨ release of amino acids which in turn reacts leading to flavor formation (e.g., Maillard reaction) • loss of CGA ⇨ formation of bitter taste and color • decrease of trigonelline ⇨ formation of N-containing products (aroma, taste, color) • formation of melanoidins ⇨ color formation (polymerization of polysaccharides, proteins, and polyphenols) • partial lipid degradation ⇨ aroma active aldehydes • interaction between intermediate decomposition products 
 ==========
 The Craft and Science of Coffee
-- Highlight Loc. 7057-59  | Added on Wednesday, 5 July 23 00:40:13 GMT-02:59
+- Highlight Loc. 7396-98  | Added on Friday, 7 July 23 00:33:18 GMT-02:59
 
-Basically, the Maillard reaction is an amino-catalyzed sugar degradation leading to aroma, taste, and color (melanoidins). Sucrose, the most abundant free sugar in green coffee beans, needs first to be decomposed into glucose and fructose by heat treatment to undergo Maillard-type reactions. 
-==========
-The Craft and Science of Coffee
-- Highlight Loc. 7090-92  | Added on Wednesday, 5 July 23 00:48:57 GMT-02:59
-
-The identification and formation pathways of bitterness components in roasted coffee have recently been elucidated. CGA lactones, breakdown products of CGA (CQAs), have been identified as one of the main contributors to bitterness in coffee. In addition hydroxylated phenylindanes have been reported as intense bitter-tasting compounds ( Frank et al., 2007 ). 
-==========
-The Craft and Science of Coffee
-- Highlight Loc. 7100-7102  | Added on Wednesday, 5 July 23 00:50:23 GMT-02:59
-
-Most of the polymeric carbohydrates, lipids, caffeine, and inorganic salts survive the roasting process. Alkaloids such as caffeine are relatively stable and only trigonelline is partially degraded to volatile compounds ( Viani and Horman, 1974 
-==========
-The Craft and Science of Coffee
-- Highlight Loc. 7130-31  | Added on Wednesday, 5 July 23 00:55:53 GMT-02:59
-
-It was shown that roasting of green coffee powder and green coffee bean fragments was different from roasting of whole coffee beans ( Fischer, 2005 ). Indeed, the coffee bean can be seen as a pressurized reactor. 
-==========
-The Craft and Science of Coffee
-- Highlight Loc. 7133-35  | Added on Wednesday, 5 July 23 00:56:47 GMT-02:59
-
-Thus, the formation of coffee aroma cannot always be explained by model reaction systems, as the extreme reaction conditions during coffee roasting can lead to different reaction pathways. 
+The complexity of the green coffee composition as well as the chemical and physical transformations of the bean during roasting are difficult to reproduce in model systems. The approach of in-bean experiments using green beans as minireactors is a more realistic reaction environment. 
 ==========
