@@ -1,8 +1,8 @@
 function toid(str)
 {
-  gsub(/-/, "", str)
-  str = "_" str
-  return str
+  gsub(/-/, "", str);
+  str = "_" str;
+  return str;
 }
 
 function tohtml(str)
@@ -10,41 +10,45 @@ function tohtml(str)
   gsub(/&/, "&amp;", str);
   gsub(/</, "\\&lt;", str);
   gsub(/>/, "\\&gt;", str);
-  return str
+  return str;
+}
+
+function writepost()
+{
+  file = "public\\epub_awk\\EPUB\\" slug ".xhtml"
+  print "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" > file
+  print "<html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:epub=\"http://www.idpf.org/2007/ops\">" > file
+  print "<head><meta http-equiv=\"default-style\" content=\"text/html; charset=utf-8\"/>" > file
+  print "<title>\"" tohtml(title) "\"</title>" > file
+  print "<link rel=\"stylesheet\" href=\"css/stylesheet.css\" type=\"text/css\" />" > file
+  print "<link rel=\"stylesheet\" href=\"css/page-template.xpgt\" type=\"application/adobe-page-template+xml\" />" > file
+  print "</head>" > file
+  print "<body>" > file
+  print "<div class=\"body\"><span epub:type=\"pagebreak\" id=\"p1\" title=\"1\"/>" > file
+  print "<section title=\"" tohtml(title) "\" epub:type=\"bodymatter chapter\">" > file
+  print "<h1 class=\"chapter-title\"><strong>\"" tohtml(title) "\"</strong></h1>" > file
+  print content > file
+  print "</section>" > file
+  print "</div>" > file
+  print "</body>" > file
+  print "</html>" > file
 }
 
 /^= / {
   if( content ) {
-    file = "public\\epub_awk\\EPUB\\" slug ".xhtml"
-    print "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" > file
-    print "<html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:epub=\"http://www.idpf.org/2007/ops\">" > file
-    print "<head><meta http-equiv=\"default-style\" content=\"text/html; charset=utf-8\"/>" > file
-    print "<title>" title "</title>" > file
-    print "<link rel=\"stylesheet\" href=\"css/stylesheet.css\" type=\"text/css\" />" > file
-    print "<link rel=\"stylesheet\" href=\"css/page-template.xpgt\" type=\"application/adobe-page-template+xml\" />" > file
-    print "</head>" > file
-    print "<body>" > file
-    print "<div class=\"body\"><span epub:type=\"pagebreak\" id=\"p1\" title=\"1\"/>" > file
-    print "<section title=\"" tohtml(title) "\" epub:type=\"bodymatter chapter\">" > file
-    print "<h1 class=\"chapter-title\"><strong>" title "</strong></h1>" > file
-    print content > file
-    print "</section>" > file
-    print "</div>" > file
-    print "</body>" > file
-    print "</html>" > file
-    content = ""
+    writepost();
+    content = "";
   }
   title = substr($0, 3);
-  #print "title: " title
-  ++postCount
+  ++postCount;
 }
 
 /^:/ {
   #print "header " $0
   if( $1 == ":slug:" ) {
     slug = $2
-    slugs[slug]["slug"] = slug
-    slugs[slug]["title"] = title
+    slugs[slug]["slug"] = slug;
+    slugs[slug]["title"] = title;
   }
 }
 
@@ -52,10 +56,15 @@ function tohtml(str)
   gsub(/&/, "&amp;");
   gsub(/</, "\\&lt;");
   gsub(/>/, "\\&gt;");
-  content = content "\n<p>" $0 "</p>"
+  content = content "\n<p>" $0 "</p>";
 }
 
 END {
+  if( content ) {
+    writepost();
+    content = "";
+  }
+
   package = "public\\epub_awk\\EPUB\\package.opf"
   print "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" > package
   print "<package xmlns=\"http://www.idpf.org/2007/opf\" version=\"3.0\" unique-identifier=\"p9781573878296\">" > package
@@ -74,7 +83,7 @@ END {
   print "</metadata>" > package
   print "<manifest>" > package
   print "<item id=\"cover\" href=\"cover.xhtml\" media-type=\"application/xhtml+xml\"/>" > package
-  print "<item id=\"cover-image\" properties=\"cover-image\" href=\"images/9781573878296.jpg\" media-type=\"image/jpeg\"/>" > package
+  print "<item id=\"cover-image\" properties=\"cover-image\" href=\"images/cover.jpg\" media-type=\"image/jpeg\"/>" > package
   print "<item id=\"style\" href=\"css/stylesheet.css\" media-type=\"text/css\"/>" > package
   print "<item id=\"ncx\" properties=\"nav\" href=\"ncx.xhtml\" media-type=\"application/xhtml+xml\"/>" > package
   print "<item id=\"ncx1\" href=\"toc.ncx\" media-type=\"application/x-dtbncx+xml\"/>" > package
