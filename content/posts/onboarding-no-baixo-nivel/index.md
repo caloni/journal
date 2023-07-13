@@ -61,6 +61,10 @@ Essencial para analisar tráfego de rede no detalhe, já me quebrou muitos galho
 
 Este é um scanner de memória feito para aplicar patches em jogos. Que feio! Porém, para um reverseiro pode ser útil para encontrar padrões e reconhecer comportamento.
 
+## [Guidra](https://ghidra-sre.org/) (update 2023-07-13)
+
+Guidra é uma suite de ferramentas de engenharia reversa desenvolvida pela NSA (agência ameriana de segurança). Ele é [fonte aberto](https://github.com/NationalSecurityAgency/ghidra) e permite desenvolver programas acessórios para análise dos programas incluídos em um projeto. No entanto, com o que já está disponível é possível escarafunchar o Portable Executable, diversas estruturas de dados e um decompilador simples e intuitivo de se mexer.
+
 ## [IDA](https://hex-rays.com/ida-free/)
 
 IDA é um disassembler que brilha na análise estática. Ele ajuda muito a reconstruir código-fonte ou entender comportamento de funções inteiras apenas lendo o assembly e os nomes sugestivos dos calls e jumps que a ferramenta lhe fornece.
