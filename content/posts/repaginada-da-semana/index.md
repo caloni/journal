@@ -1,8 +1,10 @@
 ---
-categories: null
-date: '2023-07-07T18:50:36-03:00'
-draft: true
-tags: null
+categories:
+ - writting
+date: '2023-07-15'
+tags:
+ - movies
+ - series
 title: Repaginada da semana
 ---
 
@@ -12,7 +14,7 @@ Faz um tempo que não escrevo por aqui. Foi uma semana cheia, mas também estou 
 
 Algumas dessas ideias está alinhada com meus futuros objetivos do blog: se tornar um trabalho mais sério de pesquisa e escrutinação de conteúdo. Seria bom compilar pensamentos mais densos e baseados em algo além do vácuo que é analisar obras de arte do cinema contemporâneo.
 
-Como Bastardos Inglórios, que revi essa semana pela segunda vez. A primeira foi no cinema, enquanto estava em cartaz, o que pode ter significado especial neste filme, onde o clímax é um cinema pegando fogo e explodindo enquanto um grupo de guerrilheiros judeus estraçalha o corpo abatido de Hitler.
+Como Bastardos Inglórios, que vi pela segunda vez essa semana. A primeira foi no cinema, enquanto estava em cartaz; a atmosfera do cinema pode ter um significado especial para neste filme, onde o clímax é uma sala de exibição pegando fogo e explodindo enquanto um grupo de guerrilheiros judeus estraçalha o corpo abatido de Hitler.
 
 Mas este não é um filme sobre ódio. Seu diretor e roteirista, Quentin Tarantino, eventualmente gosta de impor para si o tema da vingança. Porém, ele é incapaz de imprimir emoções em seus personagens, mesmo uma moça que acabou de assistir à chacina de toda sua família e corre para sobreviver. Fast forward, ela precisa comer Strudel ao lado do assassino, mas não existe tensão. Toda cena em que deveriam haver fortes emoções elas são trocadas por um quebra-cabeças cinematográfico cheio de estilo. É a veneração pela própria arte que impede o filme de chegar próximo de ser chamado de uma.
 
@@ -24,8 +26,8 @@ Sobre Swarm já falei. É uma boa série. Provocativa na medida certa. Tem um qu
 
 Estava encerrando o texto, pois pensei que não tinha visto mais nada. Porém, tenho que vasculhar o histórico das contas de streaming para ter certeza que não passou mais alguma merda na TV da sala e eu estava lá. É a vida moderna: quantidade, nunca qualidade.
 
-De filme teve esse O Rei dos Clones, um "documentário" de um "diretor" que aproveita o auê de um cientista coreano que ficou famoso por clonar animais e repassa sua biografia como quem repassa uma lista de compras. Existe um pouco de opinião esboçada nos perigos de usar a ciência de forma errada, o que se torna particularmente engraçado após a farofa que foi acompanhar a novela das vacinas e máscaras nos últimos três anos (e continuamos contando vítimas de ataques do coração). De qualquer forma o indivíduo que documentou esta história sequer parou para entender como funciona o método científico.
+De filme teve esse O Rei dos Clones, um "documentário" de um "diretor" que aproveita o auê de um cientista coreano que ficou famoso por clonar animais e repassa sua biografia como quem confere uma confusa lista de compras. Existe um pouco de opinião esboçada nos perigos de usar a ciência de forma errada, o que se torna particularmente engraçado após a farofa que foi acompanhar a novela das vacinas e máscaras nos últimos três anos (e continuamos contando vítimas de ataques do coração). De qualquer forma o indivíduo que documentou esta história sequer parou para entender como funciona o método científico.
 
-Das séries estou vendo também a Não Durma no Ponto, um programa de competição onde os participantes não dormem por 24 horas -- ficam contando moedas no lugar -- e depois competem em atividades que requer habilidades de alguém acordado para ganhar até um milhão de dólares. Mais do mesmo, mas nos faz comparar como hoje não devem haver perdedores nestes programas. Você ganhou ao sair do show porque vai conseguir dormir, ou ganhou porque topou receber um valor de participação, ou ganhou porque fez qualquer coisa. Ninguém deve perder, pois perder é triste, e ninguém deve ficar triste. Esse alto astral deveria fazer algumas pessoas se matarem.
+Das séries vi também a Não Durma no Ponto, um programa de competição onde os participantes não dormem por 24 horas -- ficam contando moedas no lugar -- e depois competem em atividades que requer habilidades de alguém acordado para ganhar até um milhão de dólares. Mais do mesmo, mas nos faz comparar como hoje não devem haver perdedores nestes programas. Você ganhou ao sair do show porque vai conseguir dormir, ou ganhou porque topou receber um valor de participação, ou ganhou porque fez qualquer coisa. Ninguém deve perder, pois perder é triste, e ninguém deve ficar triste. Esse alto astral deveria fazer algumas pessoas se matarem.
 
 De resto, as novelas coreanas de praxe: bem produzidas e ainda não intoxicadas com o veneno que vem de Hollywood. Ambas as Coreias já têm sua porção de socialismo para se preocupar no dia-a-dia.
