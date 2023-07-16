@@ -50,6 +50,22 @@ function writepost()
     slugs[slug]["slug"] = slug;
     slugs[slug]["title"] = title;
   }
+  /*
+  The next change could be to emit less entry files. The reading of the
+  final epub is taking way too long (minutes).
+
+  The idea is to group posts by month, what will generating about 
+  20*12 = 240 entries, which is much less than 4k+.
+
+  In order to do this a small change could be to add the content to 
+  existing month file and to index by the file/#slug. The tricky 
+  part is to reuse an existing file, since the structure is already
+  formed. The beginning and end html could not repeat.
+  if( $1 == ":date:" ) {
+    dates[slug]["slug"] = slug;
+    slugs[slug]["title"] = title;
+  }
+  */
 }
 
 /^[^=:]/ {
