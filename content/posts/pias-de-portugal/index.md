@@ -1,8 +1,9 @@
 ---
-categories: null
-date: '2023-07-15T18:27:51-03:00'
-draft: true
-tags: null
+categories:
+ - writting
+date: '2023-07-16'
+tags:
+ - wine
 title: Pias de Portugal
 ---
 
