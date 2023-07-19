@@ -1,8 +1,11 @@
 ---
-categories: null
-date: '2023-07-16T21:33:04-03:00'
-draft: true
-tags: null
+categories:
+ - writting
+date: '2023-07-18'
+tags:
+ - food
+ - coffee
+ - beer
 title: Cafeterias, docerias, cervejaria e um restaurante coreano
 ---
 
@@ -40,4 +43,4 @@ Não conhecia muito da comida coreana e me impressionei positivamente. Este é u
 
 # Cervejoteca
 
-Este lugar era ótimo na época que o dono ficava na entrada e era possível pegar informações muito rica a respeito das mais variadas cervejas e opções. Ele mesmo é responsável por alguns rótulos. Porém, a última vez levei meu amigo e não tivemos a mesma recepção que eu estava acostumado dos últimos seis anos. O lugar está expandindo, o que é bom, mas o valor que ele tinha era quando era pequeno. Do jeito que está lembra um empório de cerveja com opção para tomar por lá. Há uma geladeira já com alguns rótulos e você pode escolher das diversas estantes e deixar gelando. Durante o dia não há petiscos, nem um amendoim, o que é ruim para ficar o dia inteiro se embebedando. Eu sugeriria gastar um pouco mais com atendentes que gostem e se interessem por cerveja e algum aperitivo simples, sem precisar de cozinha, para servir durante o dia. Só isso já tornaria o lugar bem mais atraente que os bares e botecos da rua de trás.
+Este lugar era ótimo na época que o dono ficava na entrada e era possível pegar informações muito ricas a respeito das mais variadas cervejas e opções. Ele mesmo é responsável por alguns rótulos. Porém, a última vez levei meu amigo e não tivemos a mesma recepção que eu estava acostumado dos últimos seis anos. O lugar está expandindo, o que é bom, mas o valor que ele tinha era quando era pequeno. Do jeito que está lembra um empório de cerveja com opção para tomar por lá. Há uma geladeira já com alguns rótulos e você pode escolher das diversas estantes e deixar gelando. Durante o dia não há petiscos, nem um amendoim, o que é ruim para ficar o dia inteiro se embebedando. Eu sugeriria gastar um pouco mais com atendentes que gostem e se interessem por cerveja e algum aperitivo simples, sem precisar de cozinha, para servir durante o dia. Só isso já tornaria o lugar bem mais atraente que os bares e botecos da rua de trás.

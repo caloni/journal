@@ -75,23 +75,23 @@ A pressão dentro do grão durante a torra pode exceder valores de 10 bars.
 
 A fração volátil de um café torrado é altamente complexo e consiste de mais de 1000 compostos.
 
-Como regra de ouro, aumentar o grau da torra diminuir acidez e aumenta amargor.
+Como regra de ouro aumentar o grau da torra diminui a acidez e aumenta o amargor.
 
 Embora a cafeína tenha um amargor forte ela contribui apenas com 10 a 20% do amargor sentido no café.
 
-Grãos torrados rapidamente geram mais gás que lentamente.
+Grãos torrados de forma rápida geram mais gás que de forma lenta.
 
-Grãos torrados rapidamente possuem maior volume e porosidade, além de menor densidade que lentamente.
+Grãos torrados de forma rápida possuem maior volume e porosidade, além de menor densidade que os de forma lenta.
 
-Mais matéria solúvel pode ser extraída dos grãos torrados rapidamente. Isso pode acontecer devido à geração de matéria solúvel ou ao melhor acesso da água na estrutura mais porosa; ou ambos.
+Mais matéria solúvel pode ser extraída dos grãos torrados de forma rápida. Isso pode acontecer devido à geração de matéria solúvel ou ao melhor acesso da água na estrutura mais porosa; ou ambos.
 
-Grãos torrados rapidamente terminam o processo da torra com uma humidade levemente maior.
+Grãos torrados de forma rápida terminam o processo da torra com uma humidade levemente maior.
 
-Grãos torrados rapidamente exibem uma tendência forte em expelir gordura.
+Grãos torrados de forma rápida exibem uma tendência forte em expelir gordura.
 
 Os mesmos compostos aromáticos são formados independente do tempo da torra, mas as quantidades individuais de cada grupo de compostos depende do tempo de torra de várias maneiras.
 
-Grãos torrados rapidamente entregam mais acidez no perfil do copo e uma nota mais tostada. Grãos torrados lentamente mostram uma intensidade maior nos atributos sensoriais, como notas balanceadas, frutadas, amendoadas e tostadas.
+Grãos torrados de forma rápida entregam mais acidez no perfil do copo e uma nota mais tostada. Grãos torrados de forma lenta mostram uma intensidade maior nos atributos sensoriais, como notas balanceadas, frutadas, amendoadas e tostadas.
 
 Como iniciante ou aprendiz, o artesão deve se acostumar com o impacto que cada ajuste faz em sua torra, e por extensão, na qualidade do copo.
 

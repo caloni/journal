@@ -1,8 +1,9 @@
 ---
-categories: null
-date: '2023-07-16T21:44:12-03:00'
-draft: true
-tags: null
+categories:
+ - writting
+date: '2023-07-18'
+tags:
+ - movies
 title: Tempo de Espera
 ---
 
@@ -12,4 +13,4 @@ Como um homem, não me parece algo tortuoso ser bancado pelo resto da vida para 
 
 Como uma mulher, o drama é mais paupável. As mulheres precisam de mudança e nada muda em uma sociedade engessada, estratificada, patriarcal e onde os mais velhos têm a palavra final. E elas precisam de mudança porque a diretora é mulher, e do ponto de vista dela elas precisam de mudança. Ponto. Não é drama o suficiente?
 
-Não. Drama é ficar assistindo a este filme buscando pelo momento onde algo pesado irá acontecer. Não acontece. Então segue a valsa. Os lamúrios femininos saindo de férias para os festivais de arte. Um prato cheio para crítiques cinematográfiques.
+Não. Drama é ficar assistindo a este filme buscando pelo momento onde algo pesado irá acontecer. Não acontece. Então segue a valsa. Os lamúrios femininos saindo de férias para os festivais de arte. Um prato cheio para críticxs cinematográficxs.
