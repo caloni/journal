@@ -1,15 +1,14 @@
 ---
 categories:
  - coding
-date: '2023-07-18T22:11:24-03:00'
-draft: true
+date: '2023-07-21'
 link: https://youtu.be/HYkG4ZG7lxU
 tags:
  - reversing
 title: Boas-vindas ao canal de Reversing do Telegrama
 ---
 
-Olá, pessoas do Telegrão que entraram no canal. Bora começar a fazer baixarias pra ver se anima? Bom, acho que a primeira coisa que todo reversing de computador precisa fazer é gerar sua primeira telinha azul com uma poesia. Vamos lá?
+Olá, pessoas do Telegrão que entraram [no canal](https://t.me/reversingclubc). Bora começar a fazer baixarias pra ver se anima? Bom, acho que a primeira coisa que todo reversing de computador precisa fazer é gerar sua primeira telinha azul com uma poesia. Vamos lá?
 
 Primeiro passo: configurar para [gerar tela azul em seu computador](https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/forcing-a-system-crash-from-the-keyboard).
 
@@ -19,7 +18,7 @@ Terceiro passo: rebootar a desgraça do Windows para os efeitos fazerem efeitos.
 
 Quarto passo: vamos ver se gera tela azul? Tem que apertar o botão CTRL mais à direita do seu teclado junto da tecla SCROLL LOCK duas vezes (mantendo o CTRL apertado).
 
-É, aqui não funcionou. Meu "teclado" (virtual) da VM deve ser PS2 =p.
+É, aqui não funcionou. Meu "teclado" (virtual) da VM deve ser PS2 =p. Se não funcionou também com você verifique isso e mude o registro de acordo.
 
 Corta para os comerciais...
 
@@ -46,17 +45,15 @@ Você vai abrir o bloco de notas e digitar/colar sua poesia, mas, importante, **
 
 E... tela azul again. Porém, dessa vez, vamos deixar gerar o arquivo até o final. Se estiver assistindo ao vídeo pode acelerar até o reboot.
 
-Enquanto gera a tela azul vamos falar sobre o que esse experimento deseja provar. Todo trabalho de engenharia reversa que pretende descobrir como algo que não sabemos como funciona... funciona, precisa utilizar o método científico para avançar. Cria-se uma hipótese, encontra-se elementos que a corrobore e faz-se os experimentos que a comprove.
+Enquanto gera a tela azul vamos falar sobre o que esse experimento deseja provar. Todo trabalho de engenharia reversa que pretende descobrir como algo que não sabemos como funciona... funciona, precisa utilizar o método científico para avançar. Cria-se uma hipótese, encontra-se elementos que a corrobore essa hipótese e faz-se os experimentos que a comprove. Quando há múltiplas possibilidades também é importante fazer experimentos que desprovem algum caminho a ser seguido.
 
-No caso a hipótese é que uma tela azul de toda a memória necessariamente irá conter os textos que um usuário estiver digitando no bloco de notas, pois esse texto precisa estar em algum lugar da memória. Certo?
+No caso, a hipótese é que uma tela azul de toda a memória necessariamente irá conter os textos que um usuário estiver digitando no bloco de notas, pois esse texto precisa estar em algum lugar da memória. Certo?
 
-Bom, é o que eu acho. Para saber se isso é verdade podíamos digitar algum texto no bloco de notas e, sem salvar nem nada, gerar uma tela azul. O texto deverá estar no arquivo de dump gerado. Texto simples e aberto, pois é isso o que o usuário estava digitando. Parece uma hipótese simples, não?
+Bom, é o que eu acho. Para saber se isso é verdade podíamos digitar algum texto no bloco de notas e, sem salvar nem nada, gerar uma tela azul. O texto deverá estar no arquivo de dump gerado. Texto simples e aberto, pois é isso o que o usuário estava digitando. Parece um teste simples de ser feito e, até que se prove o contrário, conclusivo, não?
 
 Veremos.
 
-O arquivo de dump deverá ter o mesmo tamanho da memória RAM.
-
-Com a ajuda de algum programa que encontre strings em binários vamos fazer uma busca pela poesia. Pode ser o programa [Strings](https://learn.microsoft.com/en-us/sysinternals/downloads/strings), da SysInternals.
+O arquivo de dump gerado deverá ter o mesmo tamanho da memória RAM. Com a ajuda de algum programa que encontre strings em binários vamos fazer uma busca pela poesia. Pode ser o programa [Strings](https://learn.microsoft.com/en-us/sysinternals/downloads/strings), da SysInternals.
 
 ```
 strings.exe MEMORY.DMP
@@ -67,5 +64,7 @@ Uma outra opção seria abrir o arquivo em um editor hexadecimal como o [HxD](ht
 É, no meu caso a busca do HxD deu mais boa. Pera...
 
 Hum... isso vai demorar. Mas ele vai achar.
+
+Achou.
 
 Acho que é isso. Bem-vindo ao grupo! E se quiser conversar sobre o assunto, outros assuntos, dúvidas técnicas, etc. Fique à vontade. De bits e bytes até moléculas de café, reversing é sobre isso =)

@@ -1,25 +1,60 @@
-﻿Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 15  | Added on Monday, 17 July 23 00:11:41 GMT-02:59
+﻿Windows Internals, Part 1: System architecture, processes, threads, memory management, and more (Pavel Yosifovich, Alex Ionescu and David A. Solomon)
+- Highlight Loc. 1282-83  | Added on Friday, 21 July 23 00:17:27 GMT-02:59
 
-crítiques cinematográfiques. Cafeterias, 
+All Windows performance counters are accessible programmatically. For more information, search for “performance counters” in the MSDN documentation.
 ==========
-Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 37  | Added on Monday, 17 July 23 00:14:56 GMT-02:59
+Windows Internals, Part 1: System architecture, processes, threads, memory management, and more (Pavel Yosifovich, Alex Ionescu and David A. Solomon)
+- Highlight Loc. 1292-94  | Added on Friday, 21 July 23 00:26:00 GMT-02:59
 
-informações muito rica 
+To use any of the kernel-debugging tools to examine internal Windows kernel data structures such as the process list, thread blocks, loaded driver list, memory usage information, and so on, you must have the correct symbol files for at least the kernel image, Ntoskrnl.exe.
 ==========
-Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 71  | Added on Monday, 17 July 23 00:20:51 GMT-02:59
+Windows Internals, Part 1: System architecture, processes, threads, memory management, and more (Pavel Yosifovich, Alex Ionescu and David A. Solomon)
+- Highlight Loc. 1306-7  | Added on Friday, 21 July 23 00:27:52 GMT-02:59
 
-aumentar o grau da torra diminuir 
+There are four debuggers included in the tools: cdb, ntsd, kd, and WinDbg. All are based on a single debugging engine implemented in DbgEng.dll, which is documented fairly well in the help file for the tools.
 ==========
-Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 73  | Added on Monday, 17 July 23 00:21:57 GMT-02:59
+Windows Internals, Part 1: System architecture, processes, threads, memory management, and more (Pavel Yosifovich, Alex Ionescu and David A. Solomon)
+- Highlight Loc. 1319-21  | Added on Friday, 21 July 23 00:30:04 GMT-02:59
 
-rapidamente 
+Unless specified otherwise, when you attach to a running process, you use the DebugActiveProcess Windows function to establish a connection between the debugger and the debugee.
 ==========
-Blogue do Caloni (Rascunhos) (Wanderley Caloni)
-- Highlight Loc. 73  | Added on Monday, 17 July 23 00:22:05 GMT-02:59
+Windows Internals, Part 1: System architecture, processes, threads, memory management, and more (Pavel Yosifovich, Alex Ionescu and David A. Solomon)
+- Highlight Loc. 1323-24  | Added on Friday, 21 July 23 00:30:20 GMT-02:59
 
-lentamente. 
+Noninvasive With this option, the debugger simply opens the process with the OpenProcess function. It does not attach to the process as a debugger.
+==========
+Windows Internals, Part 1: System architecture, processes, threads, memory management, and more (Pavel Yosifovich, Alex Ionescu and David A. Solomon)
+- Highlight Loc. 1335-36  | Added on Friday, 21 July 23 00:32:04 GMT-02:59
+
+You can configure the system to boot in debugging mode using Bcdedit.exe or Msconfig.exe. (Note that you may have to disable secure boot in the UEFI BIOS settings.)
+==========
+Windows Internals, Part 1: System architecture, processes, threads, memory management, and more (Pavel Yosifovich, Alex Ionescu and David A. Solomon)
+- Highlight Loc. 1338-39  | Added on Friday, 21 July 23 00:32:58 GMT-02:59
+
+For Windows 8 and later guests, you should instead use local network debugging by exposing a host-only network using a virtual NIC in the guest operating system. This will result in 1,000x performance gain.
+==========
+Windows Internals, Part 1: System architecture, processes, threads, memory management, and more (Pavel Yosifovich, Alex Ionescu and David A. Solomon)
+- Highlight Loc. 1345-46  | Added on Friday, 21 July 23 00:34:28 GMT-02:59
+
+Some kernel debugger commands do not work when used in local kernel debugging mode, such as setting breakpoints or creating a memory dump with the .dump command. However, the latter can be done with LiveKd, described later in this section.
+==========
+Windows Internals, Part 1: System architecture, processes, threads, memory management, and more (Pavel Yosifovich, Alex Ionescu and David A. Solomon)
+- Highlight Loc. 1404-6  | Added on Friday, 21 July 23 00:38:23 GMT-02:59
+
+LiveKd is a free tool from Sysinternals that enables you to use the standard Microsoft kernel debuggers just described to examine the running system without booting the system in debugging mode. This approach might be useful when kernel-level troubleshooting is required on a machine that wasn’t booted in debugging mode.
+==========
+Windows Internals, Part 1: System architecture, processes, threads, memory management, and more (Pavel Yosifovich, Alex Ionescu and David A. Solomon)
+- Highlight Loc. 1411-14  | Added on Friday, 21 July 23 00:40:02 GMT-02:59
+
+Because LiveKd relies on physical memory to back the simulated dump, the kernel debugger might run into situations in which data structures are in the middle of being changed by the system and are inconsistent. Each time the debugger is launched, it starts with a fresh view of the system state. If you want to refresh the snapshot, enter the q command to quit the debugger. LiveKd will ask you whether you want to start it again.
+==========
+Windows Internals, Part 1: System architecture, processes, threads, memory management, and more (Pavel Yosifovich, Alex Ionescu and David A. Solomon)
+- Highlight Loc. 1430-32  | Added on Friday, 21 July 23 00:42:09 GMT-02:59
+
+In addition to including the documentation, the WDK contains header files (in particular, ntddk.h, ntifs.h, and wdm.h) that define key internal data structures and constants as well as interfaces to many internal system routines.
+==========
+Windows Internals, Part 1: System architecture, processes, threads, memory management, and more (Pavel Yosifovich, Alex Ionescu and David A. Solomon)
+- Highlight Loc. 1435-38  | Added on Friday, 21 July 23 00:43:14 GMT-02:59
+
+If you want to dig into the I/O system and driver model beyond what is presented in this book, read the WDK documentation—especially the Kernel-Mode Driver Architecture Design Guide and Kernel-Mode Driver Reference manuals. You might also find useful Programming the Microsoft Windows Driver Model, Second Edition by Walter Oney (Microsoft Press, 2002) and Developing Drivers with the Windows Driver Foundation by Penny Orwick and Guy Smith (Microsoft Press, 2007).
 ==========
