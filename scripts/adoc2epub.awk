@@ -15,23 +15,24 @@ function tohtml(str)
 
 function writepost()
 {
-  file = "public\\epub_awk\\EPUB\\" slug ".xhtml"
-  print "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" > file
-  print "<html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:epub=\"http://www.idpf.org/2007/ops\">" > file
-  print "<head><meta http-equiv=\"default-style\" content=\"text/html; charset=utf-8\"/>" > file
-  print "<title>\"" tohtml(title) "\"</title>" > file
-  print "<link rel=\"stylesheet\" href=\"css/stylesheet.css\" type=\"text/css\" />" > file
-  print "<link rel=\"stylesheet\" href=\"css/page-template.xpgt\" type=\"application/adobe-page-template+xml\" />" > file
-  print "</head>" > file
-  print "<body>" > file
-  print "<div class=\"body\"><span epub:type=\"pagebreak\" id=\"p1\" title=\"1\"/>" > file
+  if( ! (date in files) ) {
+    file = "public\\epub_awk\\EPUB\\" date ".xhtml"
+    print "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" > file
+    print "<html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:epub=\"http://www.idpf.org/2007/ops\">" > file
+    print "<head><meta http-equiv=\"default-style\" content=\"text/html; charset=utf-8\"/>" > file
+    print "<title>\"" tohtml(date) "\"</title>" > file
+    print "<link rel=\"stylesheet\" href=\"css/stylesheet.css\" type=\"text/css\" />" > file
+    print "<link rel=\"stylesheet\" href=\"css/page-template.xpgt\" type=\"application/adobe-page-template+xml\" />" > file
+    print "</head>" > file
+    print "<body>" > file
+    print "<div class=\"body\">" > file
+    files[date] = date;
+  }
+  print "<span epub:type=\"pagebreak\" id=\"" toid(slug) "\" title=\"" tohtml(title) "\"/>" > file
   print "<section title=\"" tohtml(title) "\" epub:type=\"bodymatter chapter\">" > file
   print "<h1 class=\"chapter-title\"><strong>\"" tohtml(title) "\"</strong></h1>" > file
   print content > file
   print "</section>" > file
-  print "</div>" > file
-  print "</body>" > file
-  print "</html>" > file
 }
 
 /^= / {
@@ -50,20 +51,12 @@ function writepost()
     slugs[slug]["slug"] = slug;
     slugs[slug]["title"] = title;
   }
-  # The next change could be to emit less entry files. The reading of the
-  # final epub is taking way too long (minutes).
-
-  # The idea is to group posts by month, what will generating about 
-  # 20*12 = 240 entries, which is much less than 4k+.
-
-  # In order to do this a small change could be to add the content to 
-  # existing month file and to index by the file/#slug. The tricky 
-  # part is to reuse an existing file, since the structure is already
-  # formed. The beginning and end html could not repeat.
-  # if( $1 == ":date:" ) {
-  #   dates[slug]["slug"] = slug;
-  #   slugs[slug]["title"] = title;
-  # }
+  else if( $1 == ":date:" ) {
+    date = substr($2, 2, 7)
+    date = substr(date, 1, 4) substr(date, 6, 2)
+    dates[slug] = date;
+    slugs[slug]["date"] = date;
+  }
 }
 
 /^[^=:]/ {
@@ -77,6 +70,13 @@ END {
   if( content ) {
     writepost();
     content = "";
+  }
+
+  for( f in files ) {
+    file = "public\\epub_awk\\EPUB\\" f ".xhtml"
+    print "</div>" > file
+    print "</body>" > file
+    print "</html>" > file
   }
 
   package = "public\\epub_awk\\EPUB\\package.opf"
@@ -107,7 +107,7 @@ END {
   print "<item id=\"toc\" href=\"toc.xhtml\" media-type=\"application/xhtml+xml\"/>" > package
   print "<item id=\"index\" href=\"index.xhtml\" media-type=\"application/xhtml+xml\"/>" > package
   for( slug in slugs )
-    print "<item id=\"" toid(slug) "\" href=\"" slug ".xhtml\" media-type=\"application/xhtml+xml\"/>" > package
+    print "<item id=\"" toid(slug) "\" href=\"" slugs[slug]["date"] "#" toid(slug) ".xhtml\" media-type=\"application/xhtml+xml\"/>" > package
   print "</manifest>" > package
   print "<spine toc=\"ncx1\">" > package
   print "<itemref idref=\"cover\" linear=\"yes\"/>" > package
@@ -138,7 +138,7 @@ END {
   print "<navPoint id=\"toc\" playOrder=\"3\"><navLabel><text>Contents</text></navLabel><content src=\"toc.xhtml\"/></navPoint>" > tocncx
   playOrder = 3
   for( slug in slugs )
-    print "<navPoint playOrder=\"" ++playOrder "\" id=\"" toid(slug) "\"><navLabel><text>" tohtml(slugs[slug]["title"]) "</text></navLabel><content src=\"" slug ".xhtml\"/></navPoint>" > tocncx
+    print "<navPoint playOrder=\"" ++playOrder "\" id=\"" toid(slug) "\"><navLabel><text>" tohtml(slugs[slug]["title"]) "</text></navLabel><content src=\"" slugs[slug]["date"] ".xhtml\"/></navPoint>" > tocncx
   print "</navMap>" > tocncx
   print "</ncx>" > tocncx
 
@@ -157,7 +157,7 @@ END {
   print "<p class=\"toca\"><a href=\"copyright.xhtml\"><strong>Copyright</strong></a></p>" > tocxhtml
   print "<p id=\"indx-1\" class=\"toca\"><a href=\"index.xhtml\"><strong>Index</strong></a></p>" > tocxhtml
   for( slug in slugs )
-    print "<p id=\"" toid(slug) "\" class=\"toc\"><a href=\"" slug ".xhtml\"><strong>" tohtml(slugs[slug]["title"]) "</strong></a></p>" > tocxhtml
+    print "<p id=\"" toid(slug) "\" class=\"toc\"><a href=\"" slugs[slug]["date"] "#" toid(slug) ".xhtml\"><strong>" tohtml(slugs[slug]["title"]) "</strong></a></p>" > tocxhtml
   print "<a id=\"piv\"></a>" > tocxhtml
   print "</div>" > tocxhtml
   print "</body>" > tocxhtml
@@ -177,7 +177,7 @@ END {
   print "<ol epub:type=\"list\">" > ncxhtml
   print "<li><a href=\"copyright.xhtml\">Copyright</a></li>" > ncxhtml
   for( slug in slugs )
-    print "<li><a href=\"" slug ".xhtml\">" tohtml(slugs[slug]["title"]) "</a></li>" > ncxhtml
+    print "<li><a href=\"" slugs[slug]["date"] "#" toid(slug) ".xhtml\">" tohtml(slugs[slug]["title"]) "</a></li>" > ncxhtml
   print "<li><a href=\"index.xhtml\">Index</a></li>" > ncxhtml
   print "</ol>" > ncxhtml
   print "</nav>" > ncxhtml
@@ -190,7 +190,7 @@ END {
   print "<li><a epub:type=\"frontmatter\" href=\"copyright.xhtml\">Copyright</a></li>" > ncxhtml
   print "<li><a epub:type=\"toc\" href=\"toc.xhtml\">Table of Contents</a></li>" > ncxhtml
   for( slug in slugs )
-    print "<li><a epub:type=\"bodymatter\" href=\"" slug ".xhtml\">" tohtml(slugs[slug]["title"]) "</a></li>" > ncxhtml
+    print "<li><a epub:type=\"bodymatter\" href=\"" slugs[slug]["date"] "#" toid(slug) ".xhtml\">" tohtml(slugs[slug]["title"]) "</a></li>" > ncxhtml
   print "<li><a epub:type=\"backmatter\" href=\"index.xhtml\">Index</a></li>" > ncxhtml
   print "</ol>" > ncxhtml
   print "</nav>" > ncxhtml
