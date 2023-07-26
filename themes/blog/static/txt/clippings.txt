@@ -1,15 +1,40 @@
 ﻿Windows Internals, Part 1: System architecture, processes, threads, memory management, and more (Pavel Yosifovich, Alex Ionescu and David A. Solomon)
-- Highlight Loc. 1514-16  | Added on Saturday, 22 July 23 00:53:52 GMT-02:59
+- Highlight Loc. 1613-15  | Added on Tuesday, 25 July 23 00:50:16 GMT-02:59
 
-Strictly speaking, the hypervisor still runs with the same CPU privilege level (0) as the kernel, but because it uses specialized CPU instructions (VT-x on Intel, SVM on AMD), it can both isolate itself from the kernel while also monitoring it (and applications). For these reasons, you may often hear the term ring -1 thrown around (which is inaccurate).
+The scheduling algorithms are enhanced to make optimal use of SMT-enabled machines, such as by scheduling threads on an idle physical processor versus choosing an idle logical processor on a physical processor whose other logical processors are busy.
 ==========
 Windows Internals, Part 1: System architecture, processes, threads, memory management, and more (Pavel Yosifovich, Alex Ionescu and David A. Solomon)
-- Highlight Loc. 1525-27  | Added on Saturday, 22 July 23 00:58:01 GMT-02:59
+- Highlight Loc. 1617-20  | Added on Tuesday, 25 July 23 00:52:31 GMT-02:59
 
-System processes These are fixed, or hardwired, processes, such as the logon process and the Session Manager, that are not Windows services. That is, they are not started by the Service Control Manager.
+Windows on a NUMA system still runs as an SMP system, in that all processors have access to all memory. It’s just that node-local memory is faster to reference than memory attached to other nodes. The system attempts to improve performance by scheduling threads on processors that are in the same node as the memory being used. It attempts to satisfy memory-allocation requests from within the node, but it will allocate memory from other nodes if necessary.
 ==========
 Windows Internals, Part 1: System architecture, processes, threads, memory management, and more (Pavel Yosifovich, Alex Ionescu and David A. Solomon)
-- Highlight Loc. 1539-41  | Added on Saturday, 22 July 23 01:04:14 GMT-02:59
+- Highlight Loc. 1632-36  | Added on Tuesday, 25 July 23 00:58:50 GMT-02:59
 
-The role of subsystem DLLs is to translate a documented function into the appropriate internal (and generally undocumented) native system service calls implemented mostly in Ntdll.dll. This translation might or might not involve sending a message to the environment subsystem process that is serving the user process.
+ARM-based platforms paired with a compatible OS kernel scheduler can maximize processing power when needed (by turning on all cores), strike a balance (by having certain big cores online and other little ones for other tasks), or run in extremely low power modes (by having only a single little core online—enough for SMS and push e-mail). By supporting what are called heterogeneous scheduling policies, Windows 10 allows threads to pick and choose between a policy that satisfies their needs, and will interact with the scheduler and power manager to best support it.
+==========
+Windows Internals, Part 1: System architecture, processes, threads, memory management, and more (Pavel Yosifovich, Alex Ionescu and David A. Solomon)
+- Highlight Loc. 1717-18  | Added on Tuesday, 25 July 23 01:17:19 GMT-02:59
+
+You can use the SlPolicy tool from the downloads available for the book to display many of these policy values.
+==========
+Windows Internals, Part 1: System architecture, processes, threads, memory management, and more (Pavel Yosifovich, Alex Ionescu and David A. Solomon)
+- Highlight Loc. 1747-50  | Added on Tuesday, 25 July 23 01:19:43 GMT-02:59
+
+Because a full checked build was often unstable and impossible to run in most environments, Microsoft provides a checked kernel and HAL only for Windows 10 and later. This enables developers to obtain the same level of usefulness from the kernel and HAL code they interact with without dealing with the issues that a full checked build would cause. This checked kernel and HAL pair is freely available through the WDK, in the \Debug directory of the root installation path.
+==========
+Windows Internals, Part 1: System architecture, processes, threads, memory management, and more (Pavel Yosifovich, Alex Ionescu and David A. Solomon)
+- Highlight Loc. 1752-54  | Added on Tuesday, 25 July 23 01:20:51 GMT-02:59
+
+There is no built-in tool to display whether you are running the checked build or the retail build (called the free build) of the kernel. However, this information is available through the Debug property of the Windows Management Instrumentation (WMI) Win32_OperatingSystem class.
+==========
+Windows Internals, Part 1: System architecture, processes, threads, memory management, and more (Pavel Yosifovich, Alex Ionescu and David A. Solomon)
+- Highlight Loc. 1771-72  | Added on Tuesday, 25 July 23 01:23:56 GMT-02:59
+
+To view the debug messages, you can either attach a kernel debugger to the target system (which requires booting the target system in debugging mode), use the !dbgprint command while performing local kernel debugging, or use the Dbgview.exe tool from Sysinternals.
+==========
+Windows Internals, Part 1: System architecture, processes, threads, memory management, and more (Pavel Yosifovich, Alex Ionescu and David A. Solomon)
+- Highlight Loc. 1776  | Added on Tuesday, 25 July 23 01:24:33 GMT-02:59
+
+Windows Performance Analyzer (WPA), formerly known as XPerf
 ==========
