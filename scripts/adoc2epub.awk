@@ -109,6 +109,7 @@ END {
   print "<item id=\"titlepage\" href=\"titlepage.xhtml\" media-type=\"application/xhtml+xml\"/>" > package
   print "<item id=\"toc\" href=\"toc.xhtml\" media-type=\"application/xhtml+xml\"/>" > package
   print "<item id=\"index\" href=\"index.xhtml\" media-type=\"application/xhtml+xml\"/>" > package
+  PROCINFO["sorted_in"] = "@ind_num_asc"
   for( date in dates ) {
     print "<item id=\"" toid(date) "\" href=\"" date ".xhtml\" media-type=\"application/xhtml+xml\"/>" > package
   }
