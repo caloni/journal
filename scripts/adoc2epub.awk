@@ -84,7 +84,7 @@ END {
   print "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" > package
   print "<package xmlns=\"http://www.idpf.org/2007/opf\" version=\"3.0\" unique-identifier=\"p9781573878296\">" > package
   print "<metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\">" > package
-  print "<dc:title id=\"title\">Indexing for Editors and Authors: A Practical Guide to Understanding Indexes</dc:title>" > package
+  print "<dc:title id=\"title\">Blogue do Caloni: Programação, Depuração, Transpiração</dc:title>" > package
   print "<dc:creator>Fred Leise</dc:creator>" > package
   print "<dc:creator>Kate Mertes</dc:creator>" > package
   print "<dc:creator>Nan Badgett</dc:creator>" > package
@@ -135,7 +135,7 @@ END {
   print "<meta name=\"dtb:totalPageCount\" content=\"0\"/>" > tocncx
   print "<meta name=\"dtb:maxPageNumber\" content=\"0\"/>" > tocncx
   print "</head>" > tocncx
-  print "<docTitle><text>Indexing for Editors and Authors: A Practical Guide to Understanding Indexes</text></docTitle>" > tocncx
+  print "<docTitle><text>Blogue do Caloni: Programação, Depuração, Transpiração</text></docTitle>" > tocncx
   print "<docAuthor><text>Fred Leise, Kate Mertes, and Nan Badgett</text></docAuthor>" > tocncx
   print "<navMap>" > tocncx
   print "<navPoint id=\"cover\" playOrder=\"1\"><navLabel><text>Cover</text></navLabel><content src=\"cover.xhtml\"/></navPoint>" > tocncx
@@ -154,7 +154,7 @@ END {
   print "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" > tocxhtml
   print "<html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:epub=\"http://www.idpf.org/2007/ops\">" > tocxhtml
   print "<head><meta http-equiv=\"default-style\" content=\"text/html; charset=utf-8\"/>" > tocxhtml
-  print "<title>Indexing for Editors and Authors: A Practical Guide to Understanding Indexes</title>" > tocxhtml
+  print "<title>Blogue do Caloni: Programação, Depuração, Transpiração</title>" > tocxhtml
   print "<link rel=\"stylesheet\" href=\"css/stylesheet.css\" type=\"text/css\" />" > tocxhtml
   print "<link rel=\"stylesheet\" href=\"css/page-template.xpgt\" type=\"application/adobe-page-template+xml\" />" > tocxhtml
   print "</head>" > tocxhtml
@@ -177,7 +177,7 @@ END {
   print "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" > ncxhtml
   print "<html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:epub=\"http://www.idpf.org/2007/ops\">" > ncxhtml
   print "<head><meta http-equiv=\"default-style\" content=\"text/html; charset=utf-8\"/>" > ncxhtml
-  print "<title>Indexing for Editors and Authors: A Practical Guide to Understanding Indexes</title>" > ncxhtml
+  print "<title>Blogue do Caloni: Programação, Depuração, Transpiração</title>" > ncxhtml
   print "<link rel=\"stylesheet\" href=\"css/stylesheet.css\" type=\"text/css\" />" > ncxhtml
   print "<link rel=\"stylesheet\" href=\"css/page-template.xpgt\" type=\"application/adobe-page-template+xml\" />" > ncxhtml
   print "</head>" > ncxhtml
