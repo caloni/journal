@@ -1,7 +1,7 @@
 ---
 categories:
 - coding
-date: 2017-12-26 18:24:24-02:00
+date: "2017-12-26 18:24:24-02:00"
 tags: null
 title: Cmd e o encoding fake
 ---

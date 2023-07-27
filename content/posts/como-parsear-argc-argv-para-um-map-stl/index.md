@@ -1,7 +1,7 @@
 ---
 categories:
 - coding
-date: 2018-01-26 20:53:30-02:00
+date: "2018-01-26 20:53:30-02:00"
 tags: null
 title: Como Parsear Argc Argv para um map STL
 ---

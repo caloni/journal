@@ -1,6 +1,6 @@
 ---
 categories: []
-date: 2017-07-28 18:28:07-03:00
+date: "2017-07-28 18:28:07-03:00"
 tags: null
 title: Migrando Imagens Para Imgur
 ---

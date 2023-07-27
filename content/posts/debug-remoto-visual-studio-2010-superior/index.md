@@ -1,7 +1,7 @@
 ---
 categories:
 - coding
-date: 2019-03-06 21:33:15-03:00
+date: "2019-03-06 21:33:15-03:00"
 desc: Remote Debugger disponível em qualquer instalação do Visual Studio. Use-o para
   depurar serviços, por exemplo.
 tags: null

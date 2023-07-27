@@ -1,7 +1,7 @@
 ---
 categories:
 - coding
-date: 2018-01-25 17:18:59-02:00
+date: "2018-01-25 17:18:59-02:00"
 tags: null
 title: Como Achar Erros no Printf via Dump
 ---

@@ -1,6 +1,6 @@
 ---
 categories: []
-date: 2018-09-28 19:43:04-03:00
+date: "2018-09-28 19:43:04-03:00"
 tags: null
 title: Native Floripa 2018
 ---

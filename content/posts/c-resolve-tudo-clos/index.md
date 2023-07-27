@@ -1,7 +1,7 @@
 ---
 categories:
 - coding
-date: 2019-05-17 19:04:53-03:00
+date: "2019-05-17 19:04:53-03:00"
 tags: null
 title: C Resolve Tudo Clos
 ---

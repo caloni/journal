@@ -1,7 +1,7 @@
 ---
 categories:
 - writting
-date: 2023-03-20
+date: "2023-03-20"
 tags:
 - wine
 title: Pyros Appellation Syrah 2019

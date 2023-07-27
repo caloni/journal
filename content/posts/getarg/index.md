@@ -1,7 +1,7 @@
 ---
 categories:
 - coding
-date: 2018-08-30 14:41:33-03:00
+date: "2018-08-30 14:41:33-03:00"
 tags: null
 title: 'GetArg: the ultimate badass argv/argc parser'
 ---
