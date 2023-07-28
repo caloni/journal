@@ -42,6 +42,7 @@ function writepost()
     content = "";
   }
   title = substr($0, 3);
+  entries[substr(title, 1, 1),title] = title;
   ++postCount;
 }
 
@@ -51,12 +52,14 @@ function writepost()
     slug = $2
     slugs[slug]["slug"] = slug;
     slugs[slug]["title"] = title;
+    titleToSlug[title] = slug;
   }
   else if( $1 == ":date:" ) {
     date = substr($2, 2, 7)
     date = substr(date, 1, 4) substr(date, 6, 2)
     dates[date] = date;
     slugs[slug]["date"] = date;
+    titleToDate[title] = date;
   }
 }
 
@@ -222,5 +225,41 @@ END {
   print "</nav>" > ncxhtml
   print "</body>" > ncxhtml
   print "</html>" > ncxhtml
+
+  indexx = "public\\epub_awk\\EPUB\\index.xhtml"
+  print "<!DOCTYPE html>" > indexx
+  print "<html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:epub=\"http://www.idpf.org/2007/ops\" xml:lang=\"en-US\" lang=\"en-US\">" > indexx
+  print "<head>" > indexx
+  print "<meta http-equiv=\"default-style\" content=\"text/html; charset=utf-8\"/>" > indexx
+  print "<title>Blogue do Caloni: Programação, Depuração, Transpiração</title>" > indexx
+  print "<link rel=\"stylesheet\" href=\"css/stylesheet.css\" type=\"text/css\" />" > indexx
+  print "<link rel=\"stylesheet\" href=\"css/page-template.xpgt\" type=\"application/adobe-page-template+xml\" />" > indexx
+  print "</head>" > indexx
+  print "<body>" > indexx
+  print "<h1 class=\"index-title\"><span epub:type=\"pagebreak\" id=\"p139\" title=\"139\"/><a href=\"toc.xhtml#indx-1\"><strong>Index</strong></a></h1>" > indexx
+  print "<section epub:type=\"index-group\" id=\"letters\">" > indexx
+  PROCINFO["sorted_in"] = "@ind_str_asc"
+  currid = 2;
+  for( e in entries ) {
+    split(e, letterAndTitle, SUBSEP)
+    letter = letterAndTitle[1]
+    title = letterAndTitle[2]
+    if( letters[letter] == "" ) {
+      letters[letter] = "<h3 id=\"_" letter "\" class=\"groupletter\">" tohtml(letter) "</h3>\n"\
+        "<ul class=\"indexlevel1\">";
+    }
+    letters[letter] = letters[letter] "<li epub:type=\"index-entry\" class=\"indexhead1\" id=\"mh" currid++ "\">"\
+      "<a href=\"" titleToDate[title] ".xhtml#" toid(titleToSlug[title]) "\">" tohtml(title) "</a></li>\n";
+  }
+  for( letter in letters ) {
+    print "<a href=\"#_" letter "\">" letter "</a>" > indexx
+  }
+  for( letter in letters ) {
+    print letters[letter] > indexx
+    print "</ul>" > indexx
+  }
+  print "</section>" > indexx
+  print "</body>" > indexx
+  print "</html>" > indexx
 }
 
