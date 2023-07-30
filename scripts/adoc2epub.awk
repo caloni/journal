@@ -38,6 +38,19 @@ function toletter(str)
 
 function writepost()
 {
+  ++postCount
+  entries[substr(title, 1, 1),title] = title
+  split(categories, scategories)
+  sterms = ""
+  for( c in scategories ) {
+    terms[scategories[c]][title] = title
+    sterms = sterms " <a href=\"toc" toid(scategories[c]) ".xhtml\">" scategories[c] "</a>"
+  }
+  split(tags, stags)
+  for( t in stags ) {
+    terms[stags[t]][title] = title
+    sterms = sterms " <a href=\"toc" toid(stags[t]) ".xhtml\">" stags[t] "</a>"
+  }
   slugs[slug]["slug"] = slug
   slugs[slug]["title"] = title
   slugs[slug]["date"] = date
@@ -62,7 +75,7 @@ function writepost()
   print "<span epub:type=\"pagebreak\" id=\"" toid(slug) "\" title=\"" tohtml(title) "\"/>" > file
   print "<section title=\"" tohtml(title) "\" epub:type=\"bodymatter chapter\">" > file
   print "<h1 class=\"chapter-subtitle\"><strong>" tohtml(title) "</strong></h1>" > file
-  print "<p class=\"note-title\">" date " " categories " " tags "</p>" > file
+  print "<p class=\"note-title\">" date sterms "</p>" > file
   print content > file
   print "</section>" > file
 }
@@ -76,8 +89,6 @@ function writepost()
     categories = ""
   }
   title = substr($0, 3)
-  entries[substr(title, 1, 1),title] = title
-  ++postCount
 }
 
 /^:/ {
@@ -174,6 +185,9 @@ END {
   print "<item id=\"page-template\" href=\"css/page-template.xpgt\" media-type=\"application/adobe-page-template+xml\"/>" > package
   print "<item id=\"titlepage\" href=\"titlepage.xhtml\" media-type=\"application/xhtml+xml\"/>" > package
   print "<item id=\"toc\" href=\"toc.xhtml\" media-type=\"application/xhtml+xml\"/>" > package
+  for( term in terms ) {
+    print "<item id=\"toc_" term "\" href=\"toc_" term ".xhtml\" media-type=\"application/xhtml+xml\"/>" > package
+  }
   print "<item id=\"index\" href=\"index.xhtml\" media-type=\"application/xhtml+xml\"/>" > package
   PROCINFO["sorted_in"] = "@ind_num_asc"
   for( chapter in chapters ) {
@@ -184,6 +198,9 @@ END {
   print "<itemref idref=\"cover\" linear=\"yes\"/>" > package
   print "<itemref idref=\"titlepage\" linear=\"yes\"/>" > package
   print "<itemref idref=\"toc\" linear=\"yes\"/>" > package
+  for( term in terms ) {
+    print "<itemref linear=\"yes\" idref=\"toc" toid(term) "\"/>" > package
+  }
   for( chapter in chapters ) {
     print "<itemref linear=\"yes\" idref=\"" toid(chapter) "\"/>" > package
   }
@@ -247,6 +264,28 @@ END {
   print "</body>" > tocxhtml
   print "</html>" > tocxhtml
 
+  for( term in terms ) {
+    tocxhtml = "public\\epub_awk\\EPUB\\toc_" term ".xhtml"
+    print "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" > tocxhtml
+    print "<html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:epub=\"http://www.idpf.org/2007/ops\">" > tocxhtml
+    print "<head><meta http-equiv=\"default-style\" content=\"text/html; charset=utf-8\"/>" > tocxhtml
+    print "<title>" term "</title>" > tocxhtml
+    print "<link rel=\"stylesheet\" href=\"css/stylesheet.css\" type=\"text/css\" />" > tocxhtml
+    print "<link rel=\"stylesheet\" href=\"css/page-template.xpgt\" type=\"application/adobe-page-template+xml\" />" > tocxhtml
+    print "</head>" > tocxhtml
+    print "<body>" > tocxhtml
+    print "<div class=\"body\">" > tocxhtml
+    print "<h1 class=\"toc-title\">" term "</h1>" > tocxhtml
+    print "<ul>" > tocxhtml
+    for( tit in terms[term] ) {
+      print "<li><a href=\"" toid(titleToChapter[tit]) ".xhtml#" toid(titleToSlug[tit]) "\">" tohtml(tit) "</a></li>" > tocxhtml
+    }
+    print "</ul>" > tocxhtml
+    print "</div>" > tocxhtml
+    print "</body>" > tocxhtml
+    print "</html>" > tocxhtml
+  }
+
   ncxhtml = "public\\epub_awk\\EPUB\\ncx.xhtml"
   print "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" > ncxhtml
   print "<html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:epub=\"http://www.idpf.org/2007/ops\">" > ncxhtml
@@ -296,6 +335,14 @@ END {
   for( letter in letters ) {
     print "<a href=\"#" toid(letter) "\">" letter "</a>" > indexx
   }
+  print "<h3 id=\"toc" toid(term) "\" class=\"groupletter\">Terms</h3>\n"\
+    "<ul class=\"indexlevel1\">" > indexx
+  for( term in terms ) {
+    tocxhtml = "public\\epub_awk\\EPUB\\toc_" term ".xhtml"
+    print "<li epub:type=\"index-entry\" class=\"indexhead1\" id=\"mh" currid++ "\">"\
+      "<a href=\"toc" toid(term) ".xhtml\">" tohtml(term) "</a></li>\n" > indexx
+  }
+  print "</ul>" > indexx
   for( letter in letters ) {
     print letters[letter] > indexx
     print "</ul>" > indexx
