@@ -1,3 +1,3 @@
-rm epub_alpha3.epub
-zip -X -0 epub_alpha3.epub mimetype 
-zip -X -9 -r epub_alpha3.epub EPUB META-INF
+rm caloni.epub
+zip -X -0 caloni.epub mimetype 
+zip -X -9 -r caloni.epub EPUB META-INF

@@ -1,29 +1,17 @@
 @echo off
-echo Building drafts...
-hugo --buildDrafts --config themes\drafts\config.toml -d public\drafts --cleanDestinationDir
-pushd public\drafts
-sed -i "s/href=\"\//href=\"#/g" index.html
-sed -i "s/src=\"\//src=\"/g" index.html
-sed -i "s/href=\"#[a-z]\+\/[a-z.-]\+/href=\"#/g" index.html
-kindlegen.exe book.opf -o caloni-drafts.mobi
-if not exist k: echo !! WARNING !! NO KINDLE CONNECTED IN THIS COMPUTER !!
-copy /y caloni-drafts.mobi k:\documents
-if %ERRORLEVEL% EQU 0 echo === DRAFT COPIED SUCCESSFULLY ===
-if %ERRORLEVEL% NEQ 0 echo === ERROR COPYING DRAFT ===
-rm k:\documents\caloni-drafts.han
-popd
-
-choice /M "Do you want to build the entire book (default yes in 10 seconds)?" /D Y /T 10
-if errorlevel 2 goto :eof
-hugo --buildDrafts --config themes\book\config.toml -d public\book --cleanDestinationDir
-pushd public\book
-sed -i "s/href=\"\//href=\"#/g" index.html
-sed -i "s/src=\"\//src=\"/g" index.html
-sed -i "s/href=\"#[a-z]\+\/[a-z.-]\+/href=\"#/g" index.html
-if not exist k: echo !! WARNING !! NO KINDLE CONNECTED IN THIS COMPUTER !!
-kindlegen.exe book.opf -o caloni.mobi
+scripts\merge.exe
+gawk -f scripts\md2adoc.awk content\blog.md > content\blog.txt
+rm -fr public\epub_awk
+xcopy /E /I /Y themes\epub_awk public\epub_awk
+echo Generating single files...
+setlocal
+set LC_ALL=en_US.UTF-8
+gawk -f scripts\adoc2epub.awk content\blog.txt
+endlocal
+pushd public\epub_awk
+call repack.cmd
+call tokindle.cmd
 copy /y caloni.mobi k:\documents
 if %ERRORLEVEL% EQU 0 echo === BOOK COPIED SUCCESSFULLY ===
 if %ERRORLEVEL% NEQ 0 echo === ERROR COPYING BOOK ===
 popd
-

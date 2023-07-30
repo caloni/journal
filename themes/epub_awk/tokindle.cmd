@@ -1,1 +1,1 @@
-kindlegen epub_alpha3.epub -o epub_alpha3.mobi
+kindlegen caloni.epub -o caloni.mobi
