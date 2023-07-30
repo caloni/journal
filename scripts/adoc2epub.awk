@@ -42,7 +42,7 @@ function writepost()
   slugs[slug]["title"] = title
   slugs[slug]["date"] = date
   titleToSlug[title] = slug
-  titleToDate[title] = date
+  titleToChapter[title] = chapter
   file = "public\\epub_awk\\EPUB\\" chapter ".xhtml"
   if( ! (chapter in files) ) {
     print "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" > file
@@ -289,7 +289,7 @@ END {
         "<ul class=\"indexlevel1\">"
     }
     letters[letter] = letters[letter] "<li epub:type=\"index-entry\" class=\"indexhead1\" id=\"mh" currid++ "\">"\
-      "<a href=\"" titleToDate[title] ".xhtml#" toid(titleToSlug[title]) "\">" tohtml(title) "</a></li>\n"
+      "<a href=\"" titleToChapter[title] ".xhtml#" toid(titleToSlug[title]) "\">" tohtml(title) "</a></li>\n"
   }
   for( letter in letters ) {
     print "<a href=\"#" toid(letter) "\">" letter "</a>" > indexx
