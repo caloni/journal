@@ -119,7 +119,6 @@ int main()
                         if (header.size())
                         {
                             ofs << "\n---\n" << header << "\n---\n" << content << endl;
-                            ofs << content << endl;
                             ++postCount;
                         }
                     }
