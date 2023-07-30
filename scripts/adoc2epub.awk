@@ -1,6 +1,7 @@
 function toid(str)
 {
   gsub(/-/, "", str);
+  gsub(/#/, "sharp", str);
   str = "_" str;
   return str;
 }
@@ -10,6 +11,28 @@ function tohtml(str)
   gsub(/&/, "&amp;", str);
   gsub(/</, "\\&lt;", str);
   gsub(/>/, "\\&gt;", str);
+  return str;
+}
+
+function isnumeric(x, f)
+{
+    switch (typeof(x)) {
+    case "strnum":
+    case "number":
+        return 1
+    case "string":
+        return (split(x, f, " ") == 1) && (typeof(f[1]) == "strnum")
+    default:
+        return 0
+    }
+}
+
+function toletter(str)
+{
+  if( isnumeric(str) ) return "#";
+  str = toupper(str);
+  conv = convertLetters[str];
+  if( conv != "" ) return conv;
   return str;
 }
 
@@ -68,6 +91,26 @@ function writepost()
   gsub(/</, "\\&lt;");
   gsub(/>/, "\\&gt;");
   content = content "\n<p>" $0 "</p>";
+}
+
+BEGIN {
+  convertLetters["Á"] = "A";
+  convertLetters["À"] = "A";
+  convertLetters["Â"] = "A";
+  convertLetters["Ã"] = "A";
+  convertLetters["É"] = "E";
+  convertLetters["Ê"] = "E";
+  convertLetters["Ê"] = "E";
+  convertLetters["Ô"] = "O";
+  convertLetters["Õ"] = "O";
+  convertLetters["Ó"] = "O";
+  convertLetters["Ú"] = "U";
+  convertLetters["Í"] = "I";
+  convertLetters["Ï"] = "I";
+  convertLetters["("] = "#";
+  convertLetters[")"] = "#";
+  convertLetters["'"] = "#";
+  convertLetters["\""] = "#";
 }
 
 END {
@@ -236,23 +279,23 @@ END {
   print "<link rel=\"stylesheet\" href=\"css/page-template.xpgt\" type=\"application/adobe-page-template+xml\" />" > indexx
   print "</head>" > indexx
   print "<body>" > indexx
-  print "<h1 class=\"index-title\"><span epub:type=\"pagebreak\" id=\"p139\" title=\"139\"/><a href=\"toc.xhtml#indx-1\"><strong>Index</strong></a></h1>" > indexx
+  print "<h1 class=\"index-title\"><span epub:type=\"pagebreak\" id=\"idx\" title=\"Index\"/><a href=\"toc.xhtml#indx-1\"><strong>Index</strong></a></h1>" > indexx
   print "<section epub:type=\"index-group\" id=\"letters\">" > indexx
   PROCINFO["sorted_in"] = "@ind_str_asc"
   currid = 2;
   for( e in entries ) {
     split(e, letterAndTitle, SUBSEP)
-    letter = letterAndTitle[1]
+    letter = toletter(letterAndTitle[1]);
     title = letterAndTitle[2]
     if( letters[letter] == "" ) {
-      letters[letter] = "<h3 id=\"_" letter "\" class=\"groupletter\">" tohtml(letter) "</h3>\n"\
+      letters[letter] = "<h3 id=\"" toid(letter) "\" class=\"groupletter\">" tohtml(letter) "</h3>\n"\
         "<ul class=\"indexlevel1\">";
     }
     letters[letter] = letters[letter] "<li epub:type=\"index-entry\" class=\"indexhead1\" id=\"mh" currid++ "\">"\
       "<a href=\"" titleToDate[title] ".xhtml#" toid(titleToSlug[title]) "\">" tohtml(title) "</a></li>\n";
   }
   for( letter in letters ) {
-    print "<a href=\"#_" letter "\">" letter "</a>" > indexx
+    print "<a href=\"#" toid(letter) "\">" letter "</a>" > indexx
   }
   for( letter in letters ) {
     print letters[letter] > indexx

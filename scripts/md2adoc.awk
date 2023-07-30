@@ -4,7 +4,7 @@
     print ""
     delete fields
   } else {
-    print "=" title
+    print "= " title
     for( f in fields )
       print ":" f fields[f]
   }
@@ -14,7 +14,11 @@
 /^[a-z]+:/ {
   if( header )
     if( $1 == "title:" )
-      title = substr($0, length($1) + 1)
+      title = substr($0, length($1) + 2)
+      titleStart = substr(title, 1, 1);
+      if( titleStart == "\"" || titleStart == "'" ) {
+        title = substr(title, 2, length(title) - 2);
+      }
     else {
       field = $1
       if( NF > 1 && $2 != "[]" )
