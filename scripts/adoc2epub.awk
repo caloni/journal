@@ -56,6 +56,9 @@ function writepost()
   slugs[slug]["date"] = date
   titleToSlug[title] = slug
   titleToChapter[title] = chapter
+  if( draft ) {
+    draftToSlug[title] = slug
+  }
   fchapter = toid(chapter)
   file = "public\\epub_awk\\EPUB\\" fchapter ".xhtml"
   if( ! (fchapter in files) ) {
@@ -87,6 +90,7 @@ function writepost()
     slug = ""
     tags = ""
     categories = ""
+    draft = 0
   }
   title = substr($0, 3)
 }
@@ -120,6 +124,9 @@ function writepost()
       }
       ++catidx
     }
+  }
+  else if( $1 == ":draft:" ) {
+    draft = 1
   }
 }
 
@@ -259,6 +266,11 @@ END {
       tohtml(mon) " </a>" > tocxhtml
   }
   print "</p>" > tocxhtml
+  print "<p id=\"indx-2\" class=\"tocb\"><strong>Drafts</strong></p>" > tocxhtml
+  for( title in draftToSlug ) {
+    slug = draftToSlug[title]
+    print "<p id=\"" toid(slug) "\" class=\"toc\"><a href=\"" toid(titleToChapter[title]) ".xhtml#" toid(slug) "\">" title "</a></p>" > tocxhtml
+  }
   print "<a id=\"piv\"></a>" > tocxhtml
   print "</div>" > tocxhtml
   print "</body>" > tocxhtml
