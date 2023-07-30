@@ -186,6 +186,9 @@ text-align: center;
 text-indent: 0em;
 font-weight: bold;
 }
+section {
+margin-bottom: 2em;
+}
 .glossary-title {
 font-size: x-large;
 margin-top: .5em;
