@@ -43,8 +43,9 @@ function writepost()
   slugs[slug]["date"] = date
   titleToSlug[title] = slug
   titleToChapter[title] = chapter
-  file = "public\\epub_awk\\EPUB\\" chapter ".xhtml"
-  if( ! (chapter in files) ) {
+  fchapter = toid(chapter)
+  file = "public\\epub_awk\\EPUB\\" fchapter ".xhtml"
+  if( ! (fchapter in files) ) {
     print "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" > file
     print "<html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:epub=\"http://www.idpf.org/2007/ops\">" > file
     print "<head><meta http-equiv=\"default-style\" content=\"text/html; charset=utf-8\"/>" > file
@@ -55,7 +56,7 @@ function writepost()
     print "<body>" > file
     print "<div class=\"body\">" > file
     print "<span epub:type=\"pagebreak\" id=\"" toid(chapter) "\" title=\"" tohtml(chapter) "\"/>" > file
-    files[chapter] = chapter
+    files[fchapter] = fchapter
   }
   print "<span epub:type=\"pagebreak\" id=\"" toid(slug) "\" title=\"" tohtml(title) "\"/>" > file
   print "<section title=\"" tohtml(title) "\" epub:type=\"bodymatter chapter\">" > file
@@ -85,7 +86,7 @@ function writepost()
   }
   else if( $1 == ":date:" ) {
     date = substr($2, 2, 10)
-    chapter = substr(date, 1, 4) substr(date, 6, 2)
+    chapter = substr(date, 1, 7)
     chapters[chapter] = chapter
   }
   else if( $1 == ":tags:" ) {
@@ -175,7 +176,7 @@ END {
   print "<item id=\"index\" href=\"index.xhtml\" media-type=\"application/xhtml+xml\"/>" > package
   PROCINFO["sorted_in"] = "@ind_num_asc"
   for( chapter in chapters ) {
-    print "<item id=\"" toid(chapter) "\" href=\"" chapter ".xhtml\" media-type=\"application/xhtml+xml\"/>" > package
+    print "<item id=\"" toid(chapter) "\" href=\"" toid(chapter) ".xhtml\" media-type=\"application/xhtml+xml\"/>" > package
   }
   print "</manifest>" > package
   print "<spine toc=\"ncx1\">" > package
@@ -207,7 +208,7 @@ END {
   playOrder = 2
   for( chapter in chapters ) {
     print "<navPoint playOrder=\"" ++playOrder "\" id=\"" toid(chapter) "\"><navLabel><text>" tohtml(chapter) "</text></navLabel>\
-      <content src=\"" chapter ".xhtml\"/></navPoint>" > tocncx
+      <content src=\"" toid(chapter) ".xhtml\"/></navPoint>" > tocncx
   }
   print "</navMap>" > tocncx
   print "</ncx>" > tocncx
@@ -228,7 +229,7 @@ END {
   lastyear = "2001"
   for( chapter in chapters ) {
     year = substr(chapter, 1, 4)
-    mon = substr(chapter, 5, 2)
+    mon = substr(chapter, 6, 2)
     if( year != lastyear ) {
       if( lastyear != "2001" ) {
         print "</p>" > tocxhtml
@@ -236,7 +237,7 @@ END {
       print "<p id=\"" toid(chapter) "\" class=\"toc\"><strong>" year "</strong>" > tocxhtml
       lastyear = year
     }
-    print "<a href=\"" chapter ".xhtml\"> " \
+    print "<a href=\"" toid(chapter) ".xhtml\"> " \
       tohtml(mon) " </a>" > tocxhtml
   }
   print "</p>" > tocxhtml
@@ -258,7 +259,7 @@ END {
   print "<h2>Contents</h2>" > ncxhtml
   print "<ol epub:type=\"list\">" > ncxhtml
   for( chapter in chapters ) {
-    print "<li><a href=\"" chapter ".xhtml\">" tohtml(chapter) "</a></li>" > ncxhtml
+    print "<li><a href=\"" toid(chapter) ".xhtml\">" tohtml(chapter) "</a></li>" > ncxhtml
   }
   print "<li><a href=\"index.xhtml\">Index</a></li>" > ncxhtml
   print "</ol>" > ncxhtml
@@ -289,7 +290,7 @@ END {
         "<ul class=\"indexlevel1\">"
     }
     letters[letter] = letters[letter] "<li epub:type=\"index-entry\" class=\"indexhead1\" id=\"mh" currid++ "\">"\
-      "<a href=\"" titleToChapter[title] ".xhtml#" toid(titleToSlug[title]) "\">" tohtml(title) "</a></li>\n"
+      "<a href=\"" toid(titleToChapter[title]) ".xhtml#" toid(titleToSlug[title]) "\">" tohtml(title) "</a></li>\n"
   }
   for( letter in letters ) {
     print "<a href=\"#" toid(letter) "\">" letter "</a>" > indexx
