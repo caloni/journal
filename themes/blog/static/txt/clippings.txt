@@ -1,25 +1,55 @@
 ﻿Windows Internals, Part 1: System architecture, processes, threads, memory management, and more (Pavel Yosifovich, Alex Ionescu and David A. Solomon)
-- Highlight Loc. 1799-1806  | Added on Wednesday, 26 July 23 01:12:27 GMT-02:59
+- Highlight Loc. 1833-36  | Added on Thursday, 27 July 23 00:25:06 GMT-02:59
 
-In this architecture, the secure kernel is its own separate binary, which is found under the name securekernel.exe on disk. As for IUM, it’s both an environment that restricts the allowed system calls that regular user-mode DLLs can make (thus limiting which of these DLLs can be loaded) and a framework that adds special secure system calls that can execute only under VTL 1. These additional system calls are exposed in a similar way as regular system calls: through an internal system library named Iumdll.dll (the VTL 1 version of Ntdll.dll) and a Windows subsystem–facing library named Iumbase.dll (the VTL 1 version of Kernelbase.dll). This implementation of IUM, mostly sharing the same standard Win32 API libraries, allows for the reduction of the memory overhead of VTL 1 user-mode applications because essentially, the same user-mode code is present as in their VTL 0 counterparts. As an important note, copy-on-write mechanisms, which you’ll learn more about in Chapter 5, prevent VTL 0 applications from making changes to binaries used by VTL 1.
+With additional hardware changes to various buses such as PCI and USB, it will soon be possible to support an entire class of secure devices, which, when combined with a minimalistic secure HAL, secure Plug-and-Play manager, and secure User-Mode Device Framework, could allow certain VTL 1 applications direct and segregated access to specially designated devices, such as for biometric or smartcard input.
 ==========
 Windows Internals, Part 1: System architecture, processes, threads, memory management, and more (Pavel Yosifovich, Alex Ionescu and David A. Solomon)
-- Highlight Loc. 1810-12  | Added on Wednesday, 26 July 23 01:15:04 GMT-02:59
+- Highlight Loc. 1895-97  | Added on Thursday, 27 July 23 00:37:54 GMT-02:59
 
-A simple way of thinking about this is as follows: privilege levels (user versus kernel) enforce power. VTLs, on the other hand, enforce isolation. Although a VTL 1 user-mode application is not more powerful than a VTL 0 application or driver, it is isolated from it.
+the Windows subsystem is a required component for any Windows system, even on server systems with no interactive users logged in. Because of this, the process is marked as a critical process (which means if it exits for any reason, the system crashes).
+==========
+Blogue do Caloni: Programação, Depuração, Transpiração (Fred Leise, Kate Mertes and Nan Badgett)
+- Highlight Loc. 142059  | Added on Friday, 28 July 23 00:18:08 GMT-02:59
+
+Seu objetivo é fazer a unidade não escapar, 
 ==========
 Windows Internals, Part 1: System architecture, processes, threads, memory management, and more (Pavel Yosifovich, Alex Ionescu and David A. Solomon)
-- Highlight Loc. 1816-18  | Added on Wednesday, 26 July 23 01:17:16 GMT-02:59
+- Highlight Loc. 1963-65  | Added on Saturday, 29 July 23 00:37:41 GMT-02:59
 
-The secure kernel however, by both running at VTL 1 and being in kernel mode, does have complete access to VTL 0 memory and resources. It can use the hypervisor to limit the VTL 0 OS access to certain memory locations by leveraging CPU hardware support known as Second Level Address Translation (SLAT).
+Starting with Windows 7, a separate process is used for each console window on the system: the console window host (Conhost.exe). (A single console window can be shared by multiple console applications, such as when you launch a command prompt from the command prompt. By default, the second command prompt shares the console window of the first.)
 ==========
 Windows Internals, Part 1: System architecture, processes, threads, memory management, and more (Pavel Yosifovich, Alex Ionescu and David A. Solomon)
-- Highlight Loc. 1823-26  | Added on Wednesday, 26 July 23 01:21:54 GMT-02:59
+- Highlight Loc. 1966-72  | Added on Saturday, 29 July 23 00:40:13 GMT-02:59
 
-Because the hypervisor is the first system component to be launched by the boot loader, it can program the SLAT and I/O MMU as it sees fit, defining the VTL 0 and 1 execution environments. Then, while in VTL 1, the boot loader runs again, loading the secure kernel, which can configure the system further to its needs. Only then is the VTL dropped, which will see the execution of the normal kernel, now living in its VTL 0 jail, unable to escape.
+With Windows 8 and later, the console architecture changed yet again. The Conhost.exe process remains, but is now spawned from the console-based process (rather than from Csrss.exe, as in Windows 7) by the console driver (\Windows\System32\Drivers\ConDrv.sys). The process in question communicates with Conhost.exe using the console driver (ConDrv.sys), by sending read, write, I/O control and other I/O request types. Conhost.exe is designated as a server and the process using the console is the client. This change obviates the need for Csrss.exe to receive keyboard input (as part of the raw input thread), send it through Win32k.sys to Conhost.exe, and then use ALPC to send it to Cmd.exe. Instead, the command-line application can directly receive input from the console driver through read/write I/Os, avoiding needless context switching.
 ==========
 Windows Internals, Part 1: System architecture, processes, threads, memory management, and more (Pavel Yosifovich, Alex Ionescu and David A. Solomon)
-- Highlight Loc. 1829-31  | Added on Wednesday, 26 July 23 01:24:04 GMT-02:59
+- Highlight Loc. 1977-78  | Added on Saturday, 29 July 23 00:43:45 GMT-02:59
 
-Each Trustlet has a unique identifier and signature, and the secure kernel has hard-coded knowledge of which Trustlets have been created so far. As such, it is impossible to create new Trustlets without access to the secure kernel (which only Microsoft can touch), and existing Trustlets cannot be patched in any way (which would void the special Microsoft signature).
+The real workhorse of Conhost.exe is a DLL it loads (\Windows\System32\ConhostV2.dll) that includes the bulk of code that communicates with the console driver.
+==========
+Windows Internals, Part 1: System architecture, processes, threads, memory management, and more (Pavel Yosifovich, Alex Ionescu and David A. Solomon)
+- Highlight Loc. 2003-7  | Added on Saturday, 29 July 23 00:48:57 GMT-02:59
+
+With Windows 10 version 1607, one such Pico provider is present: Lxss.sys and its partner Lxcore.sys. As the name suggests, this refers to the Windows Subsystem for Linux (WSL) component, and these drivers make up the Pico provider interface for it. Because the Pico provider receives almost all possible transitions to and from user and kernel mode (be they system calls or exceptions, for example), as long as the Pico process (or processes) running underneath it has an address space that it can recognize, and has code that can natively execute within it, the “true” kernel below doesn’t really matter as long as these transitions are handled in a fully transparent way.
+==========
+Blogue do Caloni (Rascunhos) (Wanderley Caloni)
+- Highlight Loc. 5-6  | Added on Sunday, 30 July 23 02:06:01 GMT-02:59
+
+o roteiro e a direção esquemática sabota 
+==========
+Blogue do Caloni (Rascunhos) (Wanderley Caloni)
+- Highlight Loc. 6  | Added on Sunday, 30 July 23 02:06:14 GMT-02:59
+
+misce em scene 
+==========
+Blogue do Caloni (Rascunhos) (Wanderley Caloni)
+- Highlight Loc. 7  | Added on Sunday, 30 July 23 02:06:42 GMT-02:59
+
+continua uma constante. 
+==========
+Blogue do Caloni: Programação, Depuração, Transpiração (Wanderley Caloni)
+- Highlight Loc. 96280  | Added on Sunday, 30 July 23 19:51:35 GMT-02:59
+
+Desde que torrei o primeiro batch de grãos que trouxe de Poços 
 ==========
