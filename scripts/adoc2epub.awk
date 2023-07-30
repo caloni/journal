@@ -56,12 +56,13 @@ function writepost()
     print "<body>" > file
     print "<div class=\"body\">" > file
     print "<span epub:type=\"pagebreak\" id=\"" toid(chapter) "\" title=\"" tohtml(chapter) "\"/>" > file
+    print "<h1 class=\"chapter-title\"><strong>" tohtml(chapter) "</strong></h1>" > file
     files[fchapter] = fchapter
   }
   print "<span epub:type=\"pagebreak\" id=\"" toid(slug) "\" title=\"" tohtml(title) "\"/>" > file
   print "<section title=\"" tohtml(title) "\" epub:type=\"bodymatter chapter\">" > file
-  print "<h1 class=\"chapter-title\"><strong>" tohtml(title) "</strong></h1>" > file
-  print date " " categories " " tags > file
+  print "<h1 class=\"chapter-subtitle\"><strong>" tohtml(title) "</strong></h1>" > file
+  print "<p class=\"note-title\">" date " " categories " " tags "</p>" > file
   print content > file
   print "</section>" > file
 }
