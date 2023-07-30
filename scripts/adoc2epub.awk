@@ -201,10 +201,21 @@ END {
   print "<a id=\"piii\"></a>" > tocxhtml
   print "<h1 class=\"toc-title\">Contents</h1>" > tocxhtml
   print "<p id=\"indx-1\" class=\"toca\"><a href=\"index.xhtml\"><strong>Index</strong></a></p>" > tocxhtml
+  lastyear = "2001";
   for( date in dates ) {
-    print "<p id=\"" toid(date) "\" class=\"toc\"><a href=\"" date ".xhtml\"><strong>" \
-      tohtml(date) "</strong></a></p>" > tocxhtml
+    year = substr(date, 1, 4);
+    mon = substr(date, 5, 2);
+    if( year != lastyear ) {
+      if( lastyear != "2001" ) {
+        print "</p>" > tocxhtml
+      }
+      print "<p id=\"" toid(date) "\" class=\"toc\"><strong>" year "</strong>" > tocxhtml
+      lastyear = year;
+    }
+    print "<a href=\"" date ".xhtml\"> " \
+      tohtml(mon) " </a>" > tocxhtml
   }
+  print "</p>" > tocxhtml
   print "<a id=\"piv\"></a>" > tocxhtml
   print "</div>" > tocxhtml
   print "</body>" > tocxhtml
