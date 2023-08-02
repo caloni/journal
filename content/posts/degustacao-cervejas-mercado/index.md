@@ -1,8 +1,9 @@
 ---
-categories: null
-date: '2023-08-01T22:53:59-03:00'
-draft: true
-tags: null
+categories:
+ - writting
+date: '2023-08-02'
+tags:
+ - beer
 title: Degustação de Cervejas de Mercado
 ---
 

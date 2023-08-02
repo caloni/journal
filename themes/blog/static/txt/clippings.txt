@@ -1,10 +1,25 @@
-﻿Windows Internals, Part 1: System architecture, processes, threads, memory management, and more (Pavel Yosifovich, Alex Ionescu and David A. Solomon)
-- Highlight Loc. 2086-88  | Added on Tuesday, 1 August 23 00:11:27 GMT-02:59
+﻿Blogue do Caloni: Programação, Depuração, Transpiração (Wanderley Caloni)
+- Highlight Loc. 97362  | Added on Wednesday, 2 August 23 00:36:58 GMT-02:59
 
-Some images (executables) don’t belong to any subsystem. In other words, they don’t link against a set of subsystem DLLs, such as Kernel32.dll for the Windows subsystem. Instead, they link only to Ntdll.dll, which is the lowest common denominator that spans subsystems.
+que pode ser o motivo. 
 ==========
-Windows Internals, Part 1: System architecture, processes, threads, memory management, and more (Pavel Yosifovich, Alex Ionescu and David A. Solomon)
-- Highlight Loc. 2090-91  | Added on Tuesday, 1 August 23 00:12:00 GMT-02:59
+Blogue do Caloni: Programação, Depuração, Transpiração (Wanderley Caloni)
+- Highlight Loc. 97371  | Added on Wednesday, 2 August 23 00:38:28 GMT-02:59
 
-Smss.exe is the first user-mode process created (directly by the kernel), so it cannot be dependent on the Windows subsystem because Csrss.exe (the Windows subsystem process) has not started yet.
+Devo testar passar 
+==========
+Blogue do Caloni: Programação, Depuração, Transpiração (Wanderley Caloni)
+- Highlight Loc. 97375  | Added on Wednesday, 2 August 23 00:39:03 GMT-02:59
+
+Com os fines 
+==========
+Blogue do Caloni: Programação, Depuração, Transpiração (Wanderley Caloni)
+- Highlight Loc. 97377  | Added on Wednesday, 2 August 23 00:39:25 GMT-02:59
+
+na versão prensa, 
+==========
+Blogue do Caloni: Programação, Depuração, Transpiração (Wanderley Caloni)
+- Highlight Loc. 97377  | Added on Wednesday, 2 August 23 00:39:40 GMT-02:59
+
+estava muito ocupada 
 ==========

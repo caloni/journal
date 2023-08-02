@@ -1,8 +1,9 @@
 ---
-categories: null
-date: '2023-08-01T22:54:06-03:00'
-draft: true
-tags: null
+categories:
+ - writting
+date: '2023-08-02'
+tags:
+ - series
 title: Brincando com Fogo
 ---
 

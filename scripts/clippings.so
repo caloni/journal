@@ -1,2 +1,5 @@
-call matchadd("search", "Some images (executables) don’t belong to any subsystem. In other words, they don’t link against a set of subsystem DLLs, such as Kernel32.dll for the Windows subsystem. Instead, they link only to Ntdll.dll, which is the lowest common denominator that spans subsystems.")
-call matchadd("search", "Smss.exe is the first user-mode process created (directly by the kernel), so it cannot be dependent on the Windows subsystem because Csrss.exe (the Windows subsystem process) has not started yet.")
+call matchadd("search", "que pode ser o motivo.")
+call matchadd("search", "Devo testar passar")
+call matchadd("search", "Com os fines")
+call matchadd("search", "na versão prensa,")
+call matchadd("search", "estava muito ocupada")
