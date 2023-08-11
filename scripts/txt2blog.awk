@@ -44,12 +44,12 @@ function writepost()
   sterms = ""
   for( c in scategories ) {
     terms[scategories[c]][title] = title
-    sterms = sterms " <a href=\"toc" toid(scategories[c]) ".xhtml\">" scategories[c] "</a>"
+    sterms = sterms " " scategories[c]
   }
   split(tags, stags)
   for( t in stags ) {
     terms[stags[t]][title] = title
-    sterms = sterms " <a href=\"toc" toid(stags[t]) ".xhtml\">" stags[t] "</a>"
+    sterms = sterms " " stags[t]
   }
   slugs[slug]["slug"] = slug
   slugs[slug]["title"] = title
