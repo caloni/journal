@@ -5,7 +5,6 @@
 #include <filesystem>
 #include <iostream>
 #include <chrono>
-#include <awklib/awk.h>
 
 
 using namespace std;
@@ -34,40 +33,6 @@ istringstream g_is;
 static int myinproc()
 {
     return g_is.get();
-}
-
-void setfield(AWKINTERP *pinter, awksymb* ret, int nargs, awksymb* args)
-{
-}
-
-PostHeader ReadYamlHeader(const string& content)
-{
-    PostHeader header;
-    size_t yamlBegin = content.find("---\n");
-    size_t yamlEnd = content.find("\n---\n", yamlBegin);
-    bool valid = yamlBegin != content.npos
-        && yamlEnd != content.npos;
-
-    if( valid )
-    {
-        size_t headerBegin = yamlBegin + 4;
-        size_t headerEnd = yamlEnd - headerBegin;
-        string headerStr = content.substr(yamlBegin + 4, headerEnd);
-
-        AWKINTERP* interp = awk_init(NULL);
-        awk_setprog(interp, "/^title:/ {setfield($0)}");
-        awk_compile(interp);
-        g_is = istringstream(headerStr);
-        awk_infunc(interp, myinproc);
-        awk_addfunc(interp, "setfield", setfield, 1);
-        awk_exec(interp);
-        awksymb symb{};
-        symb.name = "title";
-        int res = awk_getvar(interp, &symb);
-        awk_end(interp);
-    }
-
-    return header;
 }
 
 
