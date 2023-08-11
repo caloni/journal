@@ -6,7 +6,7 @@ xcopy /E /I /Y themes\epub_awk public\epub_awk
 echo Generating single files...
 setlocal
 set LC_ALL=en_US.UTF-8
-gawk -f scripts\adoc2epub.awk content\blog.txt
+gawk -f scripts\txt2epub.awk content\blog.txt
 endlocal
 pushd public\epub_awk
 call repack.cmd
