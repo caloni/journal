@@ -61,7 +61,7 @@ function writepost()
   }
   file = "public\\blog_awk\\" chapter ".html"
   if( ! (chapter in files) ) {
-    print "<html xmlns=\"http://www.w3.org/1999/xhtml\">" > file
+    print "<html>" > file
     print "<head><meta http-equiv=\"default-style\" content=\"text/html; charset=utf-8\"/>" > file
     print "<title>" tohtml(chapter) "</title>" > file
     print "<link rel=\"stylesheet\" href=\"css/stylesheet.css\" type=\"text/css\" />" > file
@@ -167,5 +167,36 @@ END {
     print "</body>" > file
     print "</html>" > file
   }
+
+  PROCINFO["sorted_in"] = "@ind_num_asc"
+  monthshtml = "public\\blog_awk\\months.html"
+  print "<html>" > monthshtml
+  print "<head><meta http-equiv=\"default-style\" content=\"text/html; charset=utf-8\"/>" > monthshtml
+  print "<title>Blogue do Caloni: Programação, Depuração, Transpiração</title>" > monthshtml
+  print "<link rel=\"stylesheet\" href=\"css/stylesheet.css\" type=\"text/css\" />" > monthshtml
+  print "<link rel=\"stylesheet\" href=\"css/page-template.xpgt\" type=\"application/adobe-page-template+xml\" />" > monthshtml
+  print "</head>" > monthshtml
+  print "<body>" > monthshtml
+  print "<div class=\"body\">" > monthshtml
+  print "<a id=\"piii\"></a>" > monthshtml
+  lastyear = "2001"
+  for( chapter in chapters ) {
+    year = substr(chapter, 1, 4)
+    mon = substr(chapter, 6, 2)
+    if( year != lastyear ) {
+      if( lastyear != "2001" ) {
+        print "</p>" > monthshtml
+      }
+      print "<p id=\"" toid(chapter) "\" class=\"toc\"><strong>" year "</strong>" > monthshtml
+      lastyear = year
+    }
+    print "<a href=\"" chapter ".html\"> " \
+      tohtml(mon) " </a>" > monthshtml
+  }
+  print "</p>" > monthshtml
+  print "<a id=\"piv\"></a>" > monthshtml
+  print "</div>" > monthshtml
+  print "</body>" > monthshtml
+  print "</html>" > monthshtml
 }
 
