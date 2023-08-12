@@ -36,7 +36,7 @@ function toletter(str)
   return str
 }
 
-function writetophtml(file)
+function writetophtml(file, backLink)
 {
   print "<!DOCTYPE html>" > file
   print "<html lang=\"en-us\" dir=\"ltr\" itemscope itemtype=\"http://schema.org/Article\">" > file
@@ -59,7 +59,11 @@ function writetophtml(file)
   print "<script src=\"/js/jquery-ui.js\"></script>" > file
   print "<script src=\"/js/pgnyui.js\"></script>" > file
   print "<script src=\"/js/pgnviewer.js\"></script>" > file
+  print "<script>" > file
+  print "var quick_search_posts = [ \"posts.html\", \"months.html\" ];" > file
+  print "</script>" > file
   print "<script src=\"/js/quick_search.js\"></script>" > file
+  print "<script src=\"/js/list.js\"></script>" > file
   print "<link rel=\"icon\" href=\"/img/favicon.ico\"/>" > file
   print "</head>" > file
   print "<body style=\"min-height:100vh;display:flex;flex-direction:column\">" > file
@@ -94,7 +98,7 @@ function writetophtml(file)
   print "" > file
   print "</span></pre>" > file
   print "&nbsp;" > file
-  print "<a class=\"navbar-item\" title=\"Who is this?\" href=\"2007-06.html#_about\">" > file
+  print "<a class=\"navbar-item\" title=\"Who is this?\" href=\"" backLink "\">" > file
   print "<div class=\"is-4\">Blogue do Caloni</div>" > file
   print "</a>" > file
   print "</div>" > file
@@ -140,6 +144,8 @@ function writepost()
   slugs[slug]["slug"] = slug
   slugs[slug]["title"] = title
   slugs[slug]["date"] = date
+  slugs[slug]["content"] = content
+  slugs[slug]["summary"] = summary
   titleToSlug[title] = slug
   titleToChapter[title] = chapter
   if( draft ) {
@@ -147,13 +153,13 @@ function writepost()
   }
   file = "public\\blog_awk\\" chapter ".html"
   if( ! (chapter in files) ) {
-    writetophtml(file)
+    writetophtml(file, "index.html")
     print "<h1 class=\"chapter-title\"><strong>" tohtml(chapter) "</strong></h1>" > file
     files[chapter] = chapter
   }
   print "<span id=\"" toid(slug) "\" title=\"" tohtml(title) "\"/>" > file
   print "<section title=\"" tohtml(title) "\">" > file
-  print "<h1 class=\"chapter-subtitle\"><strong>" tohtml(title) "</strong></h1>" > file
+  print "<h1 class=\"chapter-subtitle\"><strong><a href=\"" chapter ".html#" toid(slug) "\">" tohtml(title) "</a></strong></h1>" > file
   print "<p class=\"note-title\">" date sterms "</p>" > file
   print content > file
   print "</section>" > file
@@ -210,7 +216,12 @@ function writepost()
   gsub(/&/, "&amp;")
   gsub(/</, "\\&lt;")
   gsub(/>/, "\\&gt;")
-  content = content "\n<p>" $0 "</p>"
+  if( content ) {
+    content = content "\n<p>" $0 "</p>"
+  } else {
+    summary = $0
+    content = "\n<p>" $0 "</p>"
+  }
 }
 
 BEGIN {
@@ -246,7 +257,7 @@ END {
 
   PROCINFO["sorted_in"] = "@ind_num_asc"
   monthshtml = "public\\blog_awk\\months.html"
-  writetophtml(monthshtml)
+  writetophtml(monthshtml, "index.html")
   lastyear = "2001"
   for( chapter in chapters ) {
     year = substr(chapter, 1, 4)
@@ -265,19 +276,26 @@ END {
   writebottomhtml(monthshtml)
 
   postshtml = "public\\blog_awk\\posts.html"
-  writetophtml(postshtml)
+  writetophtml(postshtml, "index.html")
   PROCINFO["sorted_in"] = "@ind_str_asc"
+  print "<input type=\"text\" name=\"filter\" value=\"\" id=\"filter\" placeholder=\"enter to select\" style=\"width: 100%; font-size: 1.5rem; margin-top: 1em; margin-bottom: 0.5em;\" title=\"\"/></br>" > postshtml
+  print "<button id=\"filterbutton\" style=\"font-size: 1rem;\" onclick=\"ApplyFilter($('#filter').val());\">select</button>" > postshtml
+  print "<button id=\"removebutton\" style=\"font-size: 1rem;\" onclick=\"ApplyNotFilter($('#filter').val());\">remove</button>" > postshtml
+  print "<button id=\"randombutton\" style=\"font-size: 1rem;\" onclick=\"window.location = randomPost;\">random</button>" > postshtml
+  print "<div><big><b><span style=\"visibility: hidden; padding: 5px;\" name=\"results\" id=\"results\">...</span></b></big></div>" > postshtml
   print "<table class=\"sortable\" style=\"width: 100%;\">" > postshtml
   for( e in entries ) {
     split(e, letterAndTitle, SUBSEP)
     title = letterAndTitle[2]
-    print "<tr><td><b><a href=\"" titleToChapter[title] ".html#" toid(titleToSlug[title]) "\">" tohtml(title) "</a></td></tr>" > postshtml
+    print "<tr><td><b><a href=\"" titleToChapter[title] ".html#" toid(titleToSlug[title]) "\">" tohtml(title) "</a></b>" > postshtml
+    print "<small><i>" slugs[titleToSlug[title]]["date"] " [term1] [term2] " slugs[titleToSlug[title]]["summary"] "[...]</small></i>" > postshtml
+    print "</td></tr>" > postshtml
   }
   print "</table>" > postshtml
   writebottomhtml(postshtml)
 
   indexhtml = "public\\blog_awk\\index.html"
-  writetophtml(indexhtml)
+  writetophtml(indexhtml, "2007-06.html#_about")
   print "<input type=\"text\" name=\"quick_search_name\" value=\"\" id=\"quick_search\" placeholder=\"digite uma url\" style=\"width: 100%; font-size: 1.5rem; margin-top: 1em; margin-bottom: 0.5em;\" title=\"\"/></br>" > indexhtml
   print "<big><b>? <a id=\"quick_search_search_engine\" href=\"https://duckduckgo.com/?q=site%3Acaloni.com.br\">patopatovai</a></big><small><i>: usar um motor para buscar.</small></i></br>" > indexhtml
   print "<big><b>> <a href=\"posts.html\">posts</a></b></big><small><i>: todos os postes do blogue.</small></i></br>" > indexhtml
