@@ -42,6 +42,10 @@ O resultado dessa história é que tive que colocar mais água porque 40% não f
 
 Outro ponto de mudança é dar um tempo para a massa em temperatura ambiente antes de congelar para que ela relaxe. Uns 10 minutos devem bastar, mas estou seguindo o que sei sobre massa.
 
+### 2023-08-02
+
+Acertei a massa da empanada. Pode ter sido o uso de manteiga porque acabou a banha. Pode ter sido a estreia da minha pedra de forno. Tomara que seja essa última. A massa não ficou seca como costuma ficar. Ela quebrou internamente em duas camadas, como costumo observar nas argentinas. Ela manteve o recheio mais úmido.
+
 ### 2023-04-01
 
 Acho que é possível colocar mais banha durante o preparo do recheio e menos água; 50% ficou muito; vou diminuir para 40%; no entanto, o resultado ficou menos seco. O mesmo peso de cebola na carne é demais porque depois a água da carne é reduzida. Creio que a instrução deva ser por volume nesse caso, porque aí depende do recheio já reduzido. Para a empanada clássica o tempero enquanto cozinha é basicamente sal, pimenta e cominho. Hoje experimentei com pimenta vermelha coreana e deu um sabor a mais (é possível variar). Depois de cozido o tempero é basicamente verde: azeitonas, salsa.
