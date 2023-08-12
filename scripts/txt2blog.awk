@@ -198,5 +198,26 @@ END {
   print "</div>" > monthshtml
   print "</body>" > monthshtml
   print "</html>" > monthshtml
+
+  postshtml = "public\\blog_awk\\posts.html"
+  print "<!DOCTYPE html>" > postshtml
+  print "<html>" > postshtml
+  print "<head>" > postshtml
+  print "<meta http-equiv=\"default-style\" content=\"text/html; charset=utf-8\"/>" > postshtml
+  print "<title>Blogue do Caloni: Programação, Depuração, Transpiração</title>" > postshtml
+  print "<link rel=\"stylesheet\" href=\"css/stylesheet.css\" type=\"text/css\" />" > postshtml
+  print "<link rel=\"stylesheet\" href=\"css/page-template.xpgt\" type=\"application/adobe-page-template+xml\" />" > postshtml
+  print "</head>" > postshtml
+  print "<body>" > postshtml
+  PROCINFO["sorted_in"] = "@ind_str_asc"
+  print "<table class=\"sortable\" style=\"width: 100%;\">" > postshtml
+  for( e in entries ) {
+    split(e, letterAndTitle, SUBSEP)
+    title = letterAndTitle[2]
+    print "<tr><td><b><a href=\"" titleToChapter[title] ".html#" toid(titleToSlug[title]) "\">" tohtml(title) "</a></td></tr>" > postshtml
+  }
+  print "</table>" > postshtml
+  print "</body>" > postshtml
+  print "</html>" > postshtml
 }
 
