@@ -59,9 +59,8 @@ function writepost()
   if( draft ) {
     draftToSlug[title] = slug
   }
-  fchapter = toid(chapter)
-  file = "public\\blog_awk\\" fchapter ".html"
-  if( ! (fchapter in files) ) {
+  file = "public\\blog_awk\\" chapter ".html"
+  if( ! (chapter in files) ) {
     print "<html xmlns=\"http://www.w3.org/1999/xhtml\">" > file
     print "<head><meta http-equiv=\"default-style\" content=\"text/html; charset=utf-8\"/>" > file
     print "<title>" tohtml(chapter) "</title>" > file
@@ -72,7 +71,7 @@ function writepost()
     print "<div class=\"body\">" > file
     print "<span id=\"" toid(chapter) "\" title=\"" tohtml(chapter) "\"/>" > file
     print "<h1 class=\"chapter-title\"><strong>" tohtml(chapter) "</strong></h1>" > file
-    files[fchapter] = fchapter
+    files[chapter] = chapter
   }
   print "<span id=\"" toid(slug) "\" title=\"" tohtml(title) "\"/>" > file
   print "<section title=\"" tohtml(title) "\">" > file
