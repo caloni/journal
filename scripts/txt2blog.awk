@@ -3,6 +3,7 @@ function toid(str)
   return str
 }
 
+
 function tohtml(str)
 {
   gsub(/&/, "&amp;", str)
@@ -10,6 +11,7 @@ function tohtml(str)
   gsub(/>/, "\\&gt;", str)
   return str
 }
+
 
 function isnumeric(x, f)
 {
@@ -24,6 +26,7 @@ function isnumeric(x, f)
     }
 }
 
+
 function toletter(str)
 {
   if( isnumeric(str) ) return "#"
@@ -32,6 +35,7 @@ function toletter(str)
   if( conv != "" ) return conv
   return str
 }
+
 
 function writetophtml(file, title, backLink, filter, quickSearch)
 {
@@ -119,6 +123,7 @@ function writetophtml(file, title, backLink, filter, quickSearch)
   }
 }
 
+
 function writebottomhtml(file, filter, nextLink, prevLink)
 {
   if( filter ) {
@@ -145,6 +150,58 @@ function writebottomhtml(file, filter, nextLink, prevLink)
   print "</body>" > file
   print "</html>" > file
 }
+
+
+function formatContent(content)
+{
+  prefix = "\n"
+  suffix = ""
+  firstChar = substr(content, 1, 1)
+
+  do {
+    if( index(content, "```") == 1 ) {
+      content = ""
+      if( contentState["```"] ) {
+        prefix = "</pre>"
+        contentState["```"] = 0
+      } else {
+        contentState["```"] = 1
+        prefix = prefix "<pre>"
+      }
+      break
+    } else if( contentState["```"] ) {
+      break
+    }
+
+    if( firstChar == " " ) {
+      sub(/ +/, "", content)
+      if( ! contentState[" "] ) {
+        prefix = prefix "<pre>"
+        contentState[" "] = 1
+      }
+      break
+    } else if ( firstChar != " " && contentState[" "] ) {
+        prefix = "</pre>\n"
+        contentState[" "] = 0
+    }
+
+    # todo: solve images saved into each post folder (with same file name)
+    if( index(content, "{{< image src=") == 1 ) {
+      content = ""
+      break
+    }
+
+    gsub(/&/, "&amp;")
+    gsub(/</, "\\&lt;")
+    gsub(/>/, "\\&gt;")
+
+    content = "<p>" content "</p>"
+
+  } while( 0 )
+
+  return prefix content suffix
+}
+
 
 function writepost()
 {
@@ -203,6 +260,7 @@ function writepost()
   quickSearch[slug] = chapter ".html#" toid(slug)
 }
 
+
 /^= / {
   if( content ) {
     writepost()
@@ -215,6 +273,7 @@ function writepost()
   }
   title = substr($0, 3)
 }
+
 
 /^:/ {
   #print "header " $0
@@ -254,17 +313,17 @@ function writepost()
   }
 }
 
+
 /^[^=:]/ {
-  gsub(/&/, "&amp;")
-  gsub(/</, "\\&lt;")
-  gsub(/>/, "\\&gt;")
+  newContent = formatContent($0)
   if( content ) {
-    content = content "\n<p>" $0 "</p>"
+    content = content newContent
   } else {
     summary = $0
-    content = "\n<p>" $0 "</p>"
+    content = newContent
   }
 }
+
 
 BEGIN {
   "date" | getline currentDate
@@ -286,6 +345,7 @@ BEGIN {
   convertLetters["'"] = "#"
   convertLetters["\""] = "#"
 }
+
 
 END {
   if( content ) {
