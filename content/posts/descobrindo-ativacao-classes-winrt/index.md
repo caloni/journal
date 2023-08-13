@@ -1,8 +1,9 @@
 ---
-categories: null
-date: '2023-08-02T18:42:14-03:00'
-draft: true
-tags: null
+categories:
+ - coding
+date: '2023-08-13'
+tags:
+ - reversing
 title: Descobrir ativação de classes WinRT
 ---
 
