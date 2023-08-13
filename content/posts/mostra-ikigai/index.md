@@ -1,6 +1,6 @@
 ---
 categories:
- - blog
+ - blogging
 date: '2023-07-11'
 link: https://centrocultural.sp.gov.br/ikigai-cinema-razao-de-viver
 tags:
