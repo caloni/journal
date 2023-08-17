@@ -1,1 +1,1 @@
-kindlegen caloni.epub -o caloni.mobi
+kindlegen.exe caloni.epub -o caloni.mobi
