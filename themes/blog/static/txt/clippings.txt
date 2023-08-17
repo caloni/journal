@@ -1,15 +1,95 @@
-﻿Your Mystery - Have Attention Spans Been Declining
-- Highlight Loc. 220-21  | Added on Sunday, 6 August 23 03:20:58 GMT-02:59
+﻿Blogue do Caloni: Programação, Depuração, Transpiração (Wanderley Caloni)
+- Highlight Loc. 97365  | Added on Monday, 14 August 23 00:11:41 GMT-02:59
 
-Hence a wealth of information creates a poverty of attention and a need to allocate that attention efficiently among the overabundance of information sources that might consume it”
-==========
-Your Mystery - Have Attention Spans Been Declining
-- Highlight Loc. 225-26  | Added on Sunday, 6 August 23 03:21:13 GMT-02:59
-
-Given the average human attention span is decreasing, microlearning becomes more and more important because it emphasises short learning duration.
+que ela começar a desenhar 
 ==========
 Blogue do Caloni: Programação, Depuração, Transpiração (Wanderley Caloni)
-- Highlight Loc. 97430  | Added on Monday, 7 August 23 01:07:37 GMT-02:59
+- Highlight Loc. 97372  | Added on Monday, 14 August 23 00:12:51 GMT-02:59
 
-activatable Windows Runtime classes. 
+potencial de provocar-nos e até virar um filme lembrado por mais tempo do que o tempo em foi idealizado, por mais de uma década. 
+==========
+Blogue do Caloni: Programação, Depuração, Transpiração (Wanderley Caloni)
+- Highlight Loc. 97376  | Added on Monday, 14 August 23 00:13:20 GMT-02:59
+
+por todo o episódio 
+==========
+Blogue do Caloni: Programação, Depuração, Transpiração (Wanderley Caloni)
+- Highlight Loc. 97377  | Added on Monday, 14 August 23 00:13:48 GMT-02:59
+
+quase não deixa escapar a visão parcial 
+==========
+Blogue do Caloni: Programação, Depuração, Transpiração (Wanderley Caloni)
+- Highlight Loc. 97378  | Added on Monday, 14 August 23 00:13:59 GMT-02:59
+
+(ainda que esteja lá). 
+==========
+Blogue do Caloni: Programação, Depuração, Transpiração (Wanderley Caloni)
+- Highlight Loc. 97379  | Added on Monday, 14 August 23 00:14:19 GMT-02:59
+
+expectativa do espectador. 
+==========
+Blogue do Caloni: Programação, Depuração, Transpiração (Wanderley Caloni)
+- Highlight Loc. 97429  | Added on Monday, 14 August 23 00:17:03 GMT-02:59
+
+com uma garota May 
+==========
+Windows Internals, Part 1: System architecture, processes, threads, memory management, and more (Pavel Yosifovich, Alex Ionescu and David A. Solomon)
+- Highlight Loc. 2192-94  | Added on Monday, 14 August 23 00:28:05 GMT-02:59
+
+The kernel separates itself from the rest of the executive by implementing OS mechanisms and avoiding policy making. It leaves nearly all policy decisions to the executive, with the exception of thread scheduling and dispatching, which the kernel implements.
+==========
+Windows Internals, Part 1: System architecture, processes, threads, memory management, and more (Pavel Yosifovich, Alex Ionescu and David A. Solomon)
+- Highlight Loc. 2197-98  | Added on Monday, 14 August 23 00:28:49 GMT-02:59
+
+Most executive-level objects encapsulate one or more kernel objects, incorporating their kernel-defined attributes.
+==========
+Windows Internals, Part 1: System architecture, processes, threads, memory management, and more (Pavel Yosifovich, Alex Ionescu and David A. Solomon)
+- Highlight Loc. 2206-7  | Added on Monday, 14 August 23 00:33:11 GMT-02:59
+
+The kernel uses a data structure called the kernel processor control region (KPCR) to store processor-specific data.
+==========
+Windows Internals, Part 1: System architecture, processes, threads, memory management, and more (Pavel Yosifovich, Alex Ionescu and David A. Solomon)
+- Highlight Loc. 2209-10  | Added on Monday, 14 August 23 00:33:22 GMT-02:59
+
+To provide easy access to the KPCR, the kernel stores a pointer to it in the fs register on 32-bit Windows and in the gs register on an x64 Windows system.
+==========
+Windows Internals, Part 1: System architecture, processes, threads, memory management, and more (Pavel Yosifovich, Alex Ionescu and David A. Solomon)
+- Highlight Loc. 2427-28  | Added on Tuesday, 15 August 23 00:49:27 GMT-02:59
+
+Finally, WDF has been open-sourced by Microsoft, and at the time of this writing is available on GitHub at https://github.com/Microsoft/Windows-Driver-Frameworks.
+==========
+Windows Internals, Part 1: System architecture, processes, threads, memory management, and more (Pavel Yosifovich, Alex Ionescu and David A. Solomon)
+- Highlight Loc. 2433-35  | Added on Tuesday, 15 August 23 00:51:01 GMT-02:59
+
+To list the installed drivers, run the System Information tool (Msinfo32.exe). To launch this tool, click Start and then type Msinfo32 to locate it. Under System Summary, expand Software Environment and open System Drivers.
+==========
+Windows Internals, Part 1: System architecture, processes, threads, memory management, and more (Pavel Yosifovich, Alex Ionescu and David A. Solomon)
+- Highlight Loc. 2440-41  | Added on Tuesday, 15 August 23 00:51:57 GMT-02:59
+
+Alternatively, you can list the currently loaded device drivers by selecting the System process in Process Explorer and opening the DLL view.
+==========
+Windows Internals, Part 1: System architecture, processes, threads, memory management, and more (Pavel Yosifovich, Alex Ionescu and David A. Solomon)
+- Highlight Loc. 2527-30  | Added on Tuesday, 15 August 23 23:53:51 GMT-02:59
+
+When you’re troubleshooting or going through a system analysis, it’s useful to be able to map the execution of individual system threads back to the driver or even to the subroutine that contains the code. For example, on a heavily loaded file server, the System process will likely consume considerable CPU time. But knowing that when the System process is running, “some system thread” is running isn’t enough to determine which device driver or OS component is running.
+==========
+Windows Internals, Part 1: System architecture, processes, threads, memory management, and more (Pavel Yosifovich, Alex Ionescu and David A. Solomon)
+- Highlight Loc. 2530-35  | Added on Wednesday, 16 August 23 00:00:01 GMT-02:59
+
+So if threads in the System process are running, first determine which ones are running (for example, with the Performance Monitor or Process Explorer tools). Once you find the thread (or threads) that is running, look up in which driver the system thread began execution. This at least tells you which driver likely created the thread. For example, in Process Explorer, right-click the System process and select Properties. Then, in the Threads tab, click the CPU column header to view the most active thread at the top. Select this thread and click the Module button to see the file from which the code on the top of stack is running. Because the System process is protected in recent versions of Windows, Process Explorer is unable to show a call stack.
+==========
+Windows Internals, Part 1: System architecture, processes, threads, memory management, and more (Pavel Yosifovich, Alex Ionescu and David A. Solomon)
+- Highlight Loc. 2556-58  | Added on Wednesday, 16 August 23 00:09:35 GMT-02:59
+
+The master Smss.exe performs the following one-time initialization steps: 1. It marks the process and the initial thread as critical. If a process or thread marked critical exits for any reason, Windows crashes.
+==========
+Windows Internals, Part 1: System architecture, processes, threads, memory management, and more (Pavel Yosifovich, Alex Ionescu and David A. Solomon)
+- Highlight Loc. 2712  | Added on Thursday, 17 August 23 00:28:16 GMT-02:59
+
+Windows 10 provides a biometric credential provider: face recognition, known as Windows Hello.
+==========
+Windows Internals, Part 1: System architecture, processes, threads, memory management, and more (Pavel Yosifovich, Alex Ionescu and David A. Solomon)
+- Highlight Loc. 2725-28  | Added on Thursday, 17 August 23 00:31:18 GMT-02:59
+
+Upon successful authentication, Lsass.exe calls a function in the SRM (for example, NtCreateToken) to generate an access token object that contains the user’s security profile. If User Account Control (UAC) is used and the user logging on is a member of the administrators group or has administrator privileges, Lsass.exe will create a second, restricted version of the token. This access token is then used by Winlogon to create the initial process(es) in the user’s session.
 ==========

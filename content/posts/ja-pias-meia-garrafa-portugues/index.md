@@ -1,8 +1,9 @@
 ---
-categories: null
-date: '2023-08-12T17:30:19-03:00'
-draft: true
-tags: null
+categories:
+ - writting
+date: '2023-08-17'
+tags:
+ - wine
 title: Já Pias 375 mL
 ---
 

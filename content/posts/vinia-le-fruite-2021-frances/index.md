@@ -1,8 +1,9 @@
 ---
-categories: null
-date: '2023-08-12T17:30:03-03:00'
-draft: true
-tags: null
+categories:
+ - writting
+date: '2023-08-17'
+tags:
+ - wine
 title: Vinia Le Fruité I.G.P. Pays d'Oc 2021
 ---
 

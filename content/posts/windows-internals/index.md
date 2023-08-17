@@ -1,8 +1,10 @@
 ---
 categories:
+ - reading
 date: '2023-08-13T14:10:55-03:00'
 draft: true
 tags:
+ - books
 title: Windows Internals (Pavel Yosifovich, Alex Ionescu and David A. Solomon)
 ---
 
@@ -95,3 +97,27 @@ You can use the Tlist.exe tool in the Debugging Tools for Windows to show the pr
 for Windows Apps (those hosting the Windows Runtime), Suspended normally occurs when the app loses its foreground status by being minimized by the user. Such processes are suspended after 5 seconds so that they don’t consume any CPU or networking resources, thus allowing the new foreground app to get all machine resources. This is especially important for battery-powered devices, such as tablets and phones.
 
 the Windows subsystem is a required component for any Windows system, even on server systems with no interactive users logged in. Because of this, the process is marked as a critical process (which means if it exits for any reason, the system crashes).
+
+The kernel separates itself from the rest of the executive by implementing OS mechanisms and avoiding policy making. It leaves nearly all policy decisions to the executive, with the exception of thread scheduling and dispatching, which the kernel implements.
+
+Most executive-level objects encapsulate one or more kernel objects, incorporating their kernel-defined attributes.
+
+The kernel uses a data structure called the kernel processor control region (KPCR) to store processor-specific data.
+
+To provide easy access to the KPCR, the kernel stores a pointer to it in the fs register on 32-bit Windows and in the gs register on an x64 Windows system.
+
+Finally, WDF has been open-sourced by Microsoft, and at the time of this writing is available on GitHub at https://github.com/Microsoft/Windows-Driver-Frameworks.
+
+To list the installed drivers, run the System Information tool (Msinfo32.exe). To launch this tool, click Start and then type Msinfo32 to locate it. Under System Summary, expand Software Environment and open System Drivers.
+
+Alternatively, you can list the currently loaded device drivers by selecting the System process in Process Explorer and opening the DLL view.
+
+When you’re troubleshooting or going through a system analysis, it’s useful to be able to map the execution of individual system threads back to the driver or even to the subroutine that contains the code. For example, on a heavily loaded file server, the System process will likely consume considerable CPU time. But knowing that when the System process is running, “some system thread” is running isn’t enough to determine which device driver or OS component is running.
+
+So if threads in the System process are running, first determine which ones are running (for example, with the Performance Monitor or Process Explorer tools). Once you find the thread (or threads) that is running, look up in which driver the system thread began execution. This at least tells you which driver likely created the thread. For example, in Process Explorer, right-click the System process and select Properties. Then, in the Threads tab, click the CPU column header to view the most active thread at the top. Select this thread and click the Module button to see the file from which the code on the top of stack is running. Because the System process is protected in recent versions of Windows, Process Explorer is unable to show a call stack.
+
+The master Smss.exe performs the following one-time initialization steps: 1. It marks the process and the initial thread as critical. If a process or thread marked critical exits for any reason, Windows crashes.
+
+Windows 10 provides a biometric credential provider: face recognition, known as Windows Hello.
+
+Upon successful authentication, Lsass.exe calls a function in the SRM (for example, NtCreateToken) to generate an access token object that contains the user’s security profile. If User Account Control (UAC) is used and the user logging on is a member of the administrators group or has administrator privileges, Lsass.exe will create a second, restricted version of the token. This access token is then used by Winlogon to create the initial process(es) in the user’s session.

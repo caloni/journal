@@ -1,8 +1,9 @@
 ---
-categories: null
-date: '2023-08-12T17:33:49-03:00'
-draft: true
-tags: null
+categories:
+ - writting
+date: '2023-08-17'
+tags:
+ - movies
 title: Oppenheimer
 ---
 
