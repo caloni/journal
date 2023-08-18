@@ -62,6 +62,7 @@ int main()
 {
     auto start = high_resolution_clock::now();
     int postCount = 0;
+    int fileCount = 0;
     ofstream ofs("content/blog.md");
 
     if( ofs )
@@ -70,6 +71,7 @@ int main()
         for (const auto& entry : fs::recursive_directory_iterator(path))
         {
             string path = entry.path().string();
+            string file = entry.path().filename().string();
             string dir = entry.path().parent_path().filename().string();
             if (path.find(".md") != path.npos)
             {
@@ -89,10 +91,19 @@ int main()
                     }
                 }
             }
+            else if (path.find(".png") != path.npos 
+                || path.find(".jpg") != path.npos 
+                || path.find(".gif") != path.npos )
+            {
+                fs::path dest("public/blog_awk/img/" + dir + "-" + file);
+                fs::copy_file(entry.path(), dest);
+                ++fileCount;
+            }
         }
     }
 
     auto end = high_resolution_clock::now();
-    cout << postCount << " posts merged in " << duration_cast<seconds>(end - start).count() << " seconds\n";
+    cout << postCount << " posts merged and " << fileCount << " files copied in " 
+        << duration_cast<seconds>(end - start).count() << " seconds\n";
 }
 
