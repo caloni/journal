@@ -185,15 +185,29 @@ function formatContent(content)
         contentState[" "] = 0
     }
 
+    if( content ~ /^\[[^]]+\]:/ ) {
+      endName = index(content, ":")
+      name = substr(content, 2, endName - 3)
+      link = substr(content, endName + 2)
+      if( link ~ /{{< ref "/ ) {
+        link = gensub(/{{< ref "(.*)" >}}/, "posts.html?q=\\1", "g", link)
+      }
+      link = "<a href=\"" link "\">" name "</a>"
+      links[name] = link
+      content = ""
+      break
+    }
+
     # todo: solve images saved into each post folder (with same file name)
     if( index(content, "{{< image src=") == 1 ) {
       content = ""
       break
     }
 
-    gsub(/&/, "&amp;")
-    gsub(/</, "\\&lt;")
-    gsub(/>/, "\\&gt;")
+    gsub(/&/, "&amp;", content)
+    gsub(/</, "\\&lt;", content)
+    gsub(/>/, "\\&gt;", content)
+    content = gensub(/\[([^]]+)\]\(([^)]+)\)/, "<a href=\"\\2\">\\1</a>", "g", content)
 
     content = "<p>" content "</p>"
 
@@ -251,6 +265,10 @@ function writepost()
   for( st in ssterms ) {
     sssterms = sssterms " <a href=\"" ssterms[st] ".html\">" ssterms[st] "</a>"
   }
+  for( name in links ) {
+    search = "\\[" name "\\]"
+    gsub(search, links[name], content)
+  }
   print "<span id=\"" toid(slug) "\" title=\"" tohtml(title) "\"/></span>" > file
   print "<section>" > file
   print "<h1 class=\"chapter-subtitle\"><strong><a href=\"" chapter ".html#" toid(slug) "\">" tohtml(title) "</a></strong></h1>" > file
@@ -270,6 +288,7 @@ function writepost()
     categories = ""
     draft = 0
     repost = ""
+    delete links
   }
   title = substr($0, 3)
 }
@@ -449,7 +468,7 @@ END {
       ssslugTerms = ssslugTerms " [" sslugTerms[t] "]"
     }
     print "<tr><td><b><a href=\"" titleToChapter[title] ".html#" toid(slug) "\">" tohtml(title) "</a></b>" > postshtml
-    print "<small><i>" slugs[slug]["date"] ssslugTerms " " slugs[slug]["summary"] "</small></i>" > postshtml
+    print "<small><i>" slugs[slug]["date"] ssslugTerms " " slugs[slug]["summary"] " " slug "</small></i>" > postshtml
     print "</td></tr>" > postshtml
   }
   writebottomhtml(postshtml, 1)
@@ -471,5 +490,9 @@ END {
   print "<table class=\"sortable\" style=\"width: 100%;\">" > indexhtml
   print "</table>" > indexhtml
   writebottomhtml(indexhtml, 0)
+
+  for( name in links ) {
+    print "<a href=\"" links[name] "\">" name "</a>"
+  }
 }
 
