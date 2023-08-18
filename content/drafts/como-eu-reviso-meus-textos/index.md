@@ -24,7 +24,7 @@ Pois bem. Rascunhos são importantes, mas precisam se manter à distância até 
 
 E eu posso pedir por modificações.
 
-Os pedidos que eu faço são anotações de trechos do texto. Essas anotações qualquer leitor de ebooks lhe permite jogar para um arquivo texto. Que é o que eu faço. Isso é automático no caso do Kindle, acredito que seja para a maioria dos leitores. Esse arquivo fica no leitor, esperando meu próximo round de escritas. Quando chega esse momento eu copio este arquivo localmente, salvo em [um arquivo do meu próprio repositório de textos]. Vou dar um exemplo atual:
+Os pedidos que eu faço são anotações de trechos do texto. Essas anotações qualquer leitor de ebooks lhe permite jogar para um arquivo texto. Que é o que eu faço. Isso é automático no caso do Kindle, acredito que seja para a maioria dos leitores. Esse arquivo fica no leitor, esperando meu próximo round de escritas. Quando chega esse momento eu copio este arquivo localmente, salvo em um arquivo do meu próprio repositório de textos. Vou dar um exemplo atual:
 
 ```
 Blogue do Caloni (Wanderley Caloni)
@@ -85,4 +85,3 @@ Pois bem. Salvos os novos rascunhos em um novo commit, publico as novas modifica
 
 [meu platô]: {{< ref "livro-mastering-the-key-to-success-and-long-term-fulfillment" >}}
 [On Writing]: {{< ref "on-writing-stephen-king" >}}
-[um arquivo do meu próprio repositório de textos]: {{< resource "txt/clippings.txt" >}}
