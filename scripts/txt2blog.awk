@@ -244,14 +244,17 @@ function writepost()
   entries[date][slug] = title
   split(categories, scategories)
   sterms = ""
+  repostTerms = ""
   for( c in scategories ) {
     terms[scategories[c]][title] = title
     sterms = sterms " " scategories[c]
+    repostTerms = repostTerms " [" scategories[c] "]"
   }
   split(tags, stags)
   for( t in stags ) {
     terms[stags[t]][title] = title
     sterms = sterms " " stags[t]
+    repostTerms = repostTerms " [" stags[t] "]"
   }
   slugs[slug]["slug"] = slug
   slugs[slug]["title"] = title
@@ -261,21 +264,25 @@ function writepost()
   slugs[slug]["terms"] = sterms
   titleToSlug[title] = slug
   titleToChapter[title] = chapter
+
   if( draft ) {
     draftToSlug[title] = slug
     chapter = "drafts"
     quickSearch["drafts"] = "drafts.html"
   }
+
   if ( repost != "" ) {
     file = "public\\blog_awk\\repost.html"
     if( ! ("repost" in files) ) {
       writetophtml(file, "caloni::repost", "index.html", 1)
       files["repost"] = "repost"
     }
-    print "<tr><td><b><a href=\"" chapter ".html#" toid(slug) "\">" tohtml(title) "</a></b>" > file
-    print "<small><i>" date sterms " " summary "</small></i>" > file
-    print "</td></tr>" > file
+    post = "<tr><td><b><a href=\"" chapter ".html#" toid(slug) "\">" tohtml(title) "</a></b>\n"
+    post = post "<small><i>" repost " [" date "] " repostTerms " " summary "</small></i>\n"
+    post = post "</td></tr>\n"
+    g_postsByMonth["repost"][repost] = g_postsByMonth["repost"][repost] "\n" post
   }
+
   file = "public\\blog_awk\\" chapter ".html"
   if( ! (chapter in files) ) {
     writetophtml(file, "caloni::" chapter, "months.html", 0)
@@ -290,16 +297,19 @@ function writepost()
     search = "\\[" name "\\]"
     gsub(search, links[name], content)
   }
-  print "<span id=\"" toid(slug) "\" title=\"" tohtml(title) "\"/></span>" > file
-  print "<section>" > file
+
+  post = "<span id=\"" toid(slug) "\" title=\"" tohtml(title) "\"/></span>\n"
+  post = post "<section>\n"
   if( postlink != "" ) {
-    print "<p class=\"title\"><a href=\"" chapter ".html#" toid(slug) "\">#</a> " tohtml(title) " <a class=\"external\" href=\"" postlink "\">[link]</a></p>" > file
+    post = post "<p class=\"title\"><a href=\"" chapter ".html#" toid(slug) "\">#</a> " tohtml(title) " <a class=\"external\" href=\"" postlink "\">[link]</a></p>\n"
   } else {
-    print "<p class=\"title\"><a href=\"" chapter ".html#" toid(slug) "\">#</a> " tohtml(title) "</p>" > file
+    post = post "<p class=\"title\"><a href=\"" chapter ".html#" toid(slug) "\">#</a> " tohtml(title) "</p>\n"
   }
-  print "<p class=\"note-title\"><small>" date " " sssterms " </small><a href=\"" chapter ".html\">^</a></p>" > file
-  print content > file
-  print "</section><hr/>" > file
+  post = post "<p class=\"note-title\"><small>" date " " sssterms " </small><a href=\"" chapter ".html\">^</a></p>\n"
+  post = post content "\n"
+  post = post "</section><hr/>\n"
+  g_postsByMonth[chapter][date] = g_postsByMonth[chapter][date] "\n" post
+
   quickSearch[slug] = chapter ".html#" toid(slug)
 }
 
@@ -434,8 +444,17 @@ END {
   writebottomhtml(monthshtml, 0)
   quickSearch["months"] = "months.html"
 
+  PROCINFO["sorted_in"] = "@ind_num_asc"
   for( f in files ) {
     file = "public\\blog_awk\\" f ".html"
+    if( f == "repost" ) {
+      PROCINFO["sorted_in"] = "@ind_num_desc"
+    } else {
+      PROCINFO["sorted_in"] = "@ind_num_asc"
+    }
+    for( date in g_postsByMonth[f] ) {
+      print g_postsByMonth[f][date] > file
+    }
     if( f != "repost" ) {
       writebottomhtml(file, 0, nextChapter[f] ".html", prevChapter[f] ".html")
     } else {
