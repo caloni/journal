@@ -252,7 +252,8 @@ function writepost(    stags)
   repostTags = ""
   split(g_tags, stags)
   for( t in stags ) {
-    terms[stags[t]][title] = title
+    g_titlesByTags[stags[t]][title] = title
+    g_titlesByTagsAndDates[stags[t]][date] = title
     repostTags = repostTags " [" stags[t] "]"
   }
   slugs[slug]["slug"] = slug
@@ -457,11 +458,11 @@ END {
   }
   quickSearch["repost"] = "repost.html"
 
-  for( t in terms ) {
+  for( t in g_titlesByTags ) {
     quickSearch[t] = t ".html"
     file = "public\\blog_awk\\" t ".html"
     writetophtml(file, "caloni::" t, "index.html", 1)
-    for( title in terms[t] ) {
+    for( title in g_titlesByTags[t] ) {
       slug = titleToSlug[title]
       slugTerms = slugs[slug]["tags"] 
       split(slugTerms, sslugTerms)
@@ -479,11 +480,12 @@ END {
   tagshtml = "public\\blog_awk\\tags.html"
   writetophtml(tagshtml, "caloni::tags", "index.html", 1)
   PROCINFO["sorted_in"] = "@ind_str_asc"
-  for( t in terms ) {
+  for( t in g_titlesByTagsAndDates ) {
     titles = ""
     totalTitles = 0
-    for( title in terms[t] ) {
-      titles = titles " " title
+    PROCINFO["sorted_in"] = "@ind_num_desc"
+    for( d in g_titlesByTagsAndDates[t] ) {
+      titles = titles " " g_titlesByTagsAndDates[t][d]
       totalTitles = totalTitles + 1
       if( totalTitles > 15 ) {
         break
