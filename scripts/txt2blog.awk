@@ -290,8 +290,12 @@ function writepost()
   }
   print "<span id=\"" toid(slug) "\" title=\"" tohtml(title) "\"/></span>" > file
   print "<section>" > file
-  print "<h1 class=\"chapter-subtitle\"><strong><a href=\"" chapter ".html#" toid(slug) "\">" tohtml(title) "</a></strong></h1>" > file
-  print "<p class=\"note-title\"><a href=\"" chapter ".html\">" date "</a>" sssterms "</p>" > file
+  if( link != "" ) {
+    print "<p class=\"title\"><a href=\"" chapter ".html#" toid(slug) "\">#</a> " tohtml(title) " <a class=\"external\" href=\"" link "\">[link]</a></p>" > file
+  } else {
+    print "<p class=\"title\"><a href=\"" chapter ".html#" toid(slug) "\">#</a> " tohtml(title) "</p>" > file
+  }
+  print "<p class=\"note-title\">" date " " sssterms " <a href=\"" chapter ".html\">^</a></p>" > file
   print content > file
   print "</section>" > file
   quickSearch[slug] = chapter ".html#" toid(slug)
@@ -303,6 +307,7 @@ function writepost()
     writepost()
     content = ""
     slug = ""
+    link = ""
     tags = ""
     categories = ""
     draft = 0
@@ -317,6 +322,9 @@ function writepost()
   #print "header " $0
   if( $1 == ":slug:" ) {
     slug = $2
+  }
+  else if( $1 == ":link:" ) {
+    link = $2
   }
   else if( $1 == ":date:" ) {
     date = substr($2, 2, 10)
