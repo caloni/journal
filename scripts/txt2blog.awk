@@ -201,6 +201,24 @@ function formatContent(content)
         contentState[" "] = 0
     }
 
+    if( content ~ /^#+ / ) {
+
+      if( content ~ /^# / ) {
+        headerLevel = 2
+      } else if( content ~ /^## / ) {
+        headerLevel = 3
+      } else if( content ~ /^### / ) {
+        headerLevel = 4
+      } else {
+        headerLevel = 5
+      }
+      gsub(/^#+ /, "", content)
+
+      prefix = prefix "<h" headerLevel ">"
+      suffix = "</h" headerLevel ">" suffix
+      paragraph = 0
+    }
+
     if( content ~ /^\[[^]]+\]:/ ) {
       endName = index(content, ":")
       name = substr(content, 2, endName - 3)
@@ -217,7 +235,6 @@ function formatContent(content)
       break
     }
 
-    # todo: solve images saved into each post folder (with same file name)
     if( index(content, "{{< image src=") == 1 ) {
       content = gensub(/{{< image src="(.*)" >}}/, "<img src=\"img/" slug "-\\1\"/>", "g", content)
       break
@@ -325,7 +342,6 @@ function writepost(    stags)
 
 
 /^:/ {
-  #print "header " $0
   if( $1 == ":slug:" ) {
     slug = $2
   }
