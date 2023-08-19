@@ -6,7 +6,7 @@ date: '2007-06-14'
 title: About
 ---
 
-Quer entrar em contato? Mande o bom e velho [email](mailto:wanderley.caloni@gmail.com). Quer um resumo profissional? Clique [aqui](/resume).
+Quer entrar em contato? Mande o bom e velho [email](mailto:wanderley.caloni@gmail.com). Quer um resumo profissional? Clique [aqui](2007-06.html#resume).
 
 Wanderley Caloni é um [programador](https://github.com/Caloni) C/C++ especializado em backend para Windows que decidiu ter seu próprio blogue técnico a pedidos insistentes do seu amigo Rodrigo Strauss, que estava blogando já fazia alguns anos no www.1bit.com.br. Busco mantê-lo atualizado por esses longos anos de programação, depuração e transpiração com minhas peripécias do dia-a-dia. Eventualmente me tornei crítico de cinema e juntei aqui essas duas escovas de dentes, textos técnicos e cinematográficos, o que acabou tornando o saite gigante a ponto de eu precisar trocar meu static site generator para algo mais rápido como [Hugo](https://gohugo.io/).
 
