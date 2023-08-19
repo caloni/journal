@@ -58,12 +58,22 @@ string TransformHeader(const string& slug, string& content)
 }
 
 
-int main()
+int main(int argc, char* argv[])
 {
     auto start = high_resolution_clock::now();
     int postCount = 0;
     int fileCount = 0;
+    bool copyImages = false;
     ofstream ofs("content/blog.md");
+
+    for( int i = 1; i < argc; ++i )
+    {
+        if( strcmp(argv[i], "--copy-images") == 0 )
+        {
+            cout << "Copy images enabled\n";
+            copyImages = true;
+        }
+    }
 
     if( ofs )
     {
@@ -95,9 +105,12 @@ int main()
                 || path.find(".jpg") != path.npos 
                 || path.find(".gif") != path.npos )
             {
-                fs::path dest("public/blog_awk/img/" + dir + "-" + file);
-                fs::copy_file(entry.path(), dest);
-                ++fileCount;
+                if (copyImages)
+                {
+                    fs::path dest("public/blog_awk/img/" + dir + "-" + file);
+                    fs::copy_file(entry.path(), dest);
+                    ++fileCount;
+                }
             }
         }
     }
