@@ -292,8 +292,8 @@ function writepost()
   }
   print "<span id=\"" toid(slug) "\" title=\"" tohtml(title) "\"/></span>" > file
   print "<section>" > file
-  if( link != "" ) {
-    print "<p class=\"title\"><a href=\"" chapter ".html#" toid(slug) "\">#</a> " tohtml(title) " <a class=\"external\" href=\"" link "\">[link]</a></p>" > file
+  if( postlink != "" ) {
+    print "<p class=\"title\"><a href=\"" chapter ".html#" toid(slug) "\">#</a> " tohtml(title) " <a class=\"external\" href=\"" postlink "\">[link]</a></p>" > file
   } else {
     print "<p class=\"title\"><a href=\"" chapter ".html#" toid(slug) "\">#</a> " tohtml(title) "</p>" > file
   }
@@ -309,7 +309,7 @@ function writepost()
     writepost()
     content = ""
     slug = ""
-    link = ""
+    postlink = ""
     tags = ""
     categories = ""
     draft = 0
@@ -326,7 +326,7 @@ function writepost()
     slug = $2
   }
   else if( $1 == ":link:" ) {
-    link = $2
+    postlink = $2
   }
   else if( $1 == ":date:" ) {
     date = substr($2, 2, 10)
