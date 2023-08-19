@@ -458,17 +458,19 @@ END {
   }
   quickSearch["repost"] = "repost.html"
 
-  for( t in g_titlesByTags ) {
+  PROCINFO["sorted_in"] = "@ind_num_desc"
+  for( t in g_titlesByTagsAndDates ) {
     quickSearch[t] = t ".html"
     file = "public\\blog_awk\\" t ".html"
     writetophtml(file, "caloni::" t, "index.html", 1)
-    for( title in g_titlesByTags[t] ) {
+    for( d in g_titlesByTagsAndDates[t] ) {
+      title = g_titlesByTagsAndDates[t][d]
       slug = titleToSlug[title]
       slugTerms = slugs[slug]["tags"] 
       split(slugTerms, sslugTerms)
       ssslugTerms = ""
-      for( t in sslugTerms ) {
-        ssslugTerms = ssslugTerms " [" sslugTerms[t] "]"
+      for( st in sslugTerms ) {
+        ssslugTerms = ssslugTerms " [" sslugTerms[st] "]"
       }
       print "<tr><td><b><a href=\"" titleToChapter[title] ".html#" toid(slug) "\">" tohtml(title) "</a></b>" > file
       print "<small><i>" slugs[slug]["date"] ssslugTerms " " slugs[slug]["summary"] "</small></i>" > file
@@ -485,7 +487,11 @@ END {
     totalTitles = 0
     PROCINFO["sorted_in"] = "@ind_num_desc"
     for( d in g_titlesByTagsAndDates[t] ) {
-      titles = titles " " g_titlesByTagsAndDates[t][d]
+      if( titles == "" ) {
+        titles = g_titlesByTagsAndDates[t][d]
+      } else {
+        titles = titles " - " g_titlesByTagsAndDates[t][d]
+      }
       totalTitles = totalTitles + 1
       if( totalTitles > 15 ) {
         break
