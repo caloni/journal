@@ -297,9 +297,9 @@ function writepost()
   } else {
     print "<p class=\"title\"><a href=\"" chapter ".html#" toid(slug) "\">#</a> " tohtml(title) "</p>" > file
   }
-  print "<p class=\"note-title\">" date " " sssterms " <a href=\"" chapter ".html\">^</a></p>" > file
+  print "<p class=\"note-title\"><small>" date " " sssterms " </small><a href=\"" chapter ".html\">^</a></p>" > file
   print content > file
-  print "</section>" > file
+  print "</section><hr/>" > file
   quickSearch[slug] = chapter ".html#" toid(slug)
 }
 
