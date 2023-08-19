@@ -9,3 +9,9 @@ set LC_ALL=en_US.UTF-8
 gawk -f scripts\txt2blog.awk content\blog.txt
 endlocal
 echo Blog generated
+
+pushd public\blog_awk
+git add --all
+git commit -m "Publish new version."
+git push
+popd
