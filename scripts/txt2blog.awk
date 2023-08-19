@@ -192,6 +192,9 @@ function formatContent(content)
       if( link ~ /{{< ref "/ ) {
         link = gensub(/{{< ref "(.*)" >}}/, "posts.html?q=\\1", "g", link)
       }
+      else if( link ~ /{{< relref "/ ) {
+        link = gensub(/{{< relref "(.*)" >}}/, "posts.html?q=\\1", "g", link)
+      }
       link = "<a href=\"" link "\">" name "</a>"
       links[name] = link
       content = ""
@@ -200,7 +203,7 @@ function formatContent(content)
 
     # todo: solve images saved into each post folder (with same file name)
     if( index(content, "{{< image src=") == 1 ) {
-      content = ""
+      content = gensub(/{{< image src="(.*)" >}}/, "<img src=\"img/" slug "-\\1\"/>", "g", content)
       break
     }
 
