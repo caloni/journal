@@ -3,7 +3,7 @@ pushd public\blog_awk
 rm -fr *
 popd
 xcopy /E /I /Y themes\blog\static public\blog_awk
-scripts\merge.exe
+scripts\merge.exe --copy-images
 gawk -f scripts\removeyaml.awk content\blog.md > content\blog.txt
 echo Single blog file converted from md+yaml to txt.
 setlocal
