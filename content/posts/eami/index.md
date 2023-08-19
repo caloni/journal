@@ -1,8 +1,10 @@
 ---
-categories: null
-date: '2023-08-16T12:43:21-03:00'
-draft: true
-tags: null
+categories:
+ - writting
+date: '2023-08-19'
+tags:
+ - cinemaqui
+ - movies
 title: Eami
 ---
 
@@ -20,4 +22,4 @@ E não é o surgimento do cinema, este mecanismo de pausterização de dramas. H
 
 Talvez seja esse mito do bom selvagem misturado com políticas sociais e uma pitada de nascisismo geopolítico. Nós gostamos de nos sentir importantes ao falar sobre algo no sentido de denúncia, pois nos posicionamos como salvadores, ou parte da salvação. Nem que seja assistindo, dialogando sobre o filme ou expressando nossa opinião muito original e independente a respeito de concordarmos com tudo que a cineasta mostra. Este é o verdadeiro debate do século: só há um lado e é sempre o lado certo.
 
-As imagens de Eima não fazem sentido. Suas trucagens com filtro de cor, luz e transições entre cenas , além de bregas, são o combustível que dá mais sono ainda. Nada do que você ver neste filme te salvará do só o eterno. Estamos fadados a acompanhar o drama indígena em nossos sonhos. Nosso único consolo é que o tormento acaba logo.
+As imagens de Eima não fazem sentido. Suas trucagens com filtro de cor, luz e transições entre cenas , além de bregas, são o combustível que dá mais sono ainda. Nada do que você ver neste filme te salvará do sono eterno. Estamos fadados a acompanhar o drama indígena em nossos sonhos. Nosso único consolo é que o tormento acaba logo.

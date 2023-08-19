@@ -121,3 +121,7 @@ The master Smss.exe performs the following one-time initialization steps: 1. It 
 Windows 10 provides a biometric credential provider: face recognition, known as Windows Hello.
 
 Upon successful authentication, Lsass.exe calls a function in the SRM (for example, NtCreateToken) to generate an access token object that contains the user’s security profile. If User Account Control (UAC) is used and the user logging on is a member of the administrators group or has administrator privileges, Lsass.exe will create a second, restricted version of the token. This access token is then used by Winlogon to create the initial process(es) in the user’s session.
+
+Creating a modern application process requires more than just calling CreateProcess with the correct executable path. There are some required command-line arguments. Yet another requirement is adding an undocumented process attribute (using UpdateProcThreadAttribute) with a key named PROC_THREAD_ATTRIBUTE_PACKAGE_FULL_NAME with the value set to the full store app package name.
+
+the same internal routines are used to perform the work: PspAllocateProcess and PspInsertProcess. All the possible ways we’ve enumerated so far to create a process, and any ways you can imagine, from a WMI PowerShell cmdlet to a kernel driver, will end up there.
