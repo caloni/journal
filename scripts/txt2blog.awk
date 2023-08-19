@@ -461,8 +461,8 @@ END {
     writebottomhtml(file, 1)
   }
 
-  termshtml = "public\\blog_awk\\terms.html"
-  writetophtml(termshtml, "caloni::terms", "index.html", 1)
+  tagshtml = "public\\blog_awk\\tags.html"
+  writetophtml(tagshtml, "caloni::tags", "index.html", 1)
   PROCINFO["sorted_in"] = "@ind_str_asc"
   for( t in terms ) {
     titles = ""
@@ -474,12 +474,12 @@ END {
         break
       }
     }
-    print "<tr><td><b><a href=\"" t ".html" "\">" tohtml(t) "</a></b>" > termshtml
-    print "<small><i>" titles "</small></i>" > termshtml
-    print "</td></tr>" > termshtml
+    print "<tr><td><b><a href=\"" t ".html" "\">" tohtml(t) "</a></b>" > tagshtml
+    print "<small><i>" titles "</small></i>" > tagshtml
+    print "</td></tr>" > tagshtml
   }
-  writebottomhtml(termshtml, 1)
-  quickSearch["terms"] = "terms.html"
+  writebottomhtml(tagshtml, 1)
+  quickSearch["tags"] = "tags.html"
 
   postshtml = "public\\blog_awk\\posts.html"
   writetophtml(postshtml, "caloni::posts", "index.html", 1)
@@ -504,22 +504,28 @@ END {
   indexhtml = "public\\blog_awk\\index.html"
   writetophtml(indexhtml, "Blogue do Caloni", "2007-06.html#_about", 0, quickSearch)
   print "<input type=\"text\" name=\"quick_search_name\" value=\"\" id=\"quick_search\" placeholder=\"digite uma url\" style=\"width: 100%; font-size: 1.5rem; margin-top: 1em; margin-bottom: 0.5em;\" title=\"\"/></br>" > indexhtml
-  print "<big><b>? <a id=\"quick_search_search_engine\" href=\"https://duckduckgo.com/?q=site%3Acaloni.com.br\">patopatovai</a></big><small><i>: usar um motor para buscar.</small></i></br>" > indexhtml
-  print "<big><b>> <a href=\"" lastmonth ".html\">news</a></b></big><small><i>: últimos postes do blogue.</small></i></br>" > indexhtml
-  print "<big><b>> <a href=\"posts.html\">posts</a></b></big><small><i>: todos os postes do blogue.</small></i></br>" > indexhtml
-  print "<big><b>> <a href=\"repost.html\">reposts</a></b></big><small><i>: vale a pena postar de novo.</small></i></br>" > indexhtml
-  print "<big><b>> <a href=\"drafts.html\">drafts</a></b></big><small><i>: postes em progresso.</small></i></br>" > indexhtml
-  print "<big><b>> <a href=\"terms.html\">terms</a></b></big><small><i>: todas as categorias e tags do blogue e últimos postes.</small></i></br>" > indexhtml
-  print "<big><b>> <a href=\"months.html\">months</a></b></big><small><i>: postes por mês.</small></i></br>" > indexhtml
   print "<big><b>>> <a href=\"coding.html\">coding</a></b></big><small><i>: programação, depuração, transpiração.</small></i></br>" > indexhtml
   print "<big><b>>> <a href=\"movies.html\">movies</a></b></big><small><i>: o finado Cine Tênis Verde veio parar aqui.</small></i></br>" > indexhtml
+  print "<big><b>? <a id=\"quick_search_search_engine\" href=\"https://duckduckgo.com/?q=site%3Acaloni.com.br\">patopatovai</a></b></big><small><i>: usar um motor para buscar.</small></i></br>" > indexhtml
+  print "<big><b>> <a href=\"tags.html\">tags</a></b></big><small><i>: todos os rótulos dos postes.</small></i></br>" > indexhtml
+  print "<big><b>> <a href=\"" lastmonth ".html\">news</a></b></big><small><i>: postes publicados no último mês.</small></i></br>" > indexhtml
+  print "<big><b>> <a href=\"months.html\">months</a></b></big><small><i>: lista dos meses com postes.</small></i></br>" > indexhtml
+  print "<big><b>> <a href=\"posts.html\">posts</a></b></big><small><i>: lista com todos os postes do blogue.</small></i></br>" > indexhtml
+  print "<big><b>> <a href=\"repost.html\">reposts</a></b></big><small><i>: vale a pena postar de novo.</small></i></br>" > indexhtml
+  print "<big><b>> <a href=\"drafts.html\">drafts</a></b></big><small><i>: postes em progresso.</small></i></br>" > indexhtml
   print "<div><big><b><span style=\"visibility: hidden; padding: 5px;\" name=\"results\" id=\"results\">...</span></b></big></div>" > indexhtml
   print "<table class=\"sortable\" style=\"width: 100%;\">" > indexhtml
   print "</table>" > indexhtml
   writebottomhtml(indexhtml, 0)
 
-  for( name in links ) {
-    print "<a href=\"" links[name] "\">" name "</a>"
-  }
+  notfoundhtml = "public\\blog_awk\\404.html"
+  writetophtml(notfoundhtml, "caloni::404 page not found", "posts.html", 0)
+  print "<div class=\"container\">" > notfoundhtml
+  print "  <p class=\"title\">Opa, essa página não foi encontrada.</p>" > notfoundhtml
+  print "    <div class=\"content\">" > notfoundhtml
+  print "      <p>Não quer fazer uma <a href=\"/posts.html\">busca</a>? Às vezes eu mexo e remexo as coisas por aqui.</p>" > notfoundhtml
+  print "    </div>" > notfoundhtml
+  print "</div>" > notfoundhtml
+  writebottomhtml(notfoundhtml, 0)
 }
 
