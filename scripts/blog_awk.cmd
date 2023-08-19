@@ -1,5 +1,7 @@
 @echo off
-rm -fr public\blog_awk
+pushd public\blog_awk
+rm -fr *
+popd
 xcopy /E /I /Y themes\blog\static public\blog_awk
 scripts\merge.exe
 gawk -f scripts\removeyaml.awk content\blog.md > content\blog.txt

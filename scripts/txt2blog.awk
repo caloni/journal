@@ -309,6 +309,7 @@ function writepost()
   post = post content "\n"
   post = post "</section><hr/>\n"
   g_postsByMonth[chapter][date] = g_postsByMonth[chapter][date] "\n" post
+  g_postLinksByMonth[chapter][date][title] = slug
 
   quickSearch[slug] = chapter ".html#" toid(slug)
 }
@@ -446,6 +447,7 @@ END {
 
   PROCINFO["sorted_in"] = "@ind_num_asc"
   for( f in files ) {
+    postsContent = ""
     file = "public\\blog_awk\\" f ".html"
     if( f == "repost" ) {
       PROCINFO["sorted_in"] = "@ind_num_desc"
@@ -453,8 +455,18 @@ END {
       PROCINFO["sorted_in"] = "@ind_num_asc"
     }
     for( date in g_postsByMonth[f] ) {
-      print g_postsByMonth[f][date] > file
+      postsContent = postsContent "\n" g_postsByMonth[f][date]
     }
+    if( f != "repost" ) {
+      print "<ul style=\"list-style: none;\">" > file
+      for( date in g_postLinksByMonth[f] ) {
+        for( title in g_postLinksByMonth[f][date] ) {
+          print "<li><small><a href=\"" f ".html#" g_postLinksByMonth[f][date][title] "\">" title "</a></small></li>" > file
+        }
+      }
+      print "</ul>" > file
+    }
+    print postsContent > file
     if( f != "repost" ) {
       writebottomhtml(file, 0, nextChapter[f] ".html", prevChapter[f] ".html")
     } else {
