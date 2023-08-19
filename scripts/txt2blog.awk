@@ -238,38 +238,31 @@ function formatContent(content)
 }
 
 
-function writepost()
+function writepost(    stags)
 {
   ++postCount
   entries[date][slug] = title
-  split(categories, scategories)
-  sterms = ""
-  repostTerms = ""
-  for( c in scategories ) {
-    terms[scategories[c]][title] = title
-    sterms = sterms " " scategories[c]
-    repostTerms = repostTerms " [" scategories[c] "]"
-  }
-  split(tags, stags)
-  for( t in stags ) {
-    terms[stags[t]][title] = title
-    sterms = sterms " " stags[t]
-    repostTerms = repostTerms " [" stags[t] "]"
-  }
-  slugs[slug]["slug"] = slug
-  slugs[slug]["title"] = title
-  slugs[slug]["date"] = date
-  slugs[slug]["content"] = content
-  slugs[slug]["summary"] = summary
-  slugs[slug]["terms"] = sterms
-  titleToSlug[title] = slug
-  titleToChapter[title] = chapter
 
   if( draft ) {
     draftToSlug[title] = slug
     chapter = "drafts"
     quickSearch["drafts"] = "drafts.html"
   }
+
+  repostTags = ""
+  split(g_tags, stags)
+  for( t in stags ) {
+    terms[stags[t]][title] = title
+    repostTags = repostTags " [" stags[t] "]"
+  }
+  slugs[slug]["slug"] = slug
+  slugs[slug]["title"] = title
+  slugs[slug]["date"] = date
+  slugs[slug]["content"] = content
+  slugs[slug]["summary"] = summary
+  slugs[slug]["tags"] = g_tags
+  titleToSlug[title] = slug
+  titleToChapter[title] = chapter
 
   if ( repost != "" ) {
     file = "public\\blog_awk\\repost.html"
@@ -278,7 +271,7 @@ function writepost()
       files["repost"] = "repost"
     }
     post = "<tr><td><b><a href=\"" chapter ".html#" toid(slug) "\">" tohtml(title) "</a></b>\n"
-    post = post "<small><i>" repost " [" date "] " repostTerms " " summary "</small></i>\n"
+    post = post "<small><i>" repost " [" date "] " repostTags " " summary "</small></i>\n"
     post = post "</td></tr>\n"
     g_postsByMonth["repost"][repost] = g_postsByMonth["repost"][repost] "\n" post
   }
@@ -288,10 +281,10 @@ function writepost()
     writetophtml(file, "caloni::" chapter, "months.html", 0)
     files[chapter] = chapter
   }
-  sssterms = ""
-  split(sterms, ssterms)
-  for( st in ssterms ) {
-    sssterms = sssterms " <a href=\"" ssterms[st] ".html\">" ssterms[st] "</a>"
+  ssstags = ""
+  split(g_tags, sstags)
+  for( st in sstags ) {
+    ssstags = ssstags " <a href=\"" sstags[st] ".html\">" sstags[st] "</a>"
   }
   for( name in links ) {
     search = "\\[" name "\\]"
@@ -305,7 +298,7 @@ function writepost()
   } else {
     post = post "<p class=\"title\"><a href=\"" chapter ".html#" toid(slug) "\">#</a> " tohtml(title) "</p>\n"
   }
-  post = post "<p class=\"note-title\"><small>" date " " sssterms " </small><a href=\"" chapter ".html\">^</a></p>\n"
+  post = post "<p class=\"note-title\"><small>" date " " ssstags " </small><a href=\"" chapter ".html\">^</a></p>\n"
   post = post content "\n"
   post = post "</section><hr/>\n"
   g_postsByMonth[chapter][date] = g_postsByMonth[chapter][date] "\n" post
@@ -321,8 +314,7 @@ function writepost()
     content = ""
     slug = ""
     postlink = ""
-    tags = ""
-    categories = ""
+    g_tags = ""
     draft = 0
     repost = ""
     delete links
@@ -344,24 +336,14 @@ function writepost()
     chapter = substr(date, 1, 7)
     chapters[chapter] = chapter
   }
-  else if( $1 == ":tags:" ) {
-    tagidx = 2
-    while( tagidx <= NF ) {
-      tag = $tagidx
+  else if( $1 == ":tags:" || $1 == ":categories:" ) {
+    i = 2
+    while( i <= NF ) {
+      tag = $i
       if( tag != "null" ) {
-        tags = tags " " tag
+        g_tags = g_tags " " tag
       }
-      ++tagidx
-    }
-  }
-  else if( $1 == ":categories:" ) {
-    catidx = 2
-    while( catidx <= NF ) {
-      cat = $catidx
-      if( cat != "null" ) {
-        categories = categories " " cat
-      }
-      ++catidx
+      ++i
     }
   }
   else if( $1 == ":draft:" ) {
@@ -481,7 +463,7 @@ END {
     writetophtml(file, "caloni::" t, "index.html", 1)
     for( title in terms[t] ) {
       slug = titleToSlug[title]
-      slugTerms = slugs[slug]["terms"] 
+      slugTerms = slugs[slug]["tags"] 
       split(slugTerms, sslugTerms)
       ssslugTerms = ""
       for( t in sslugTerms ) {
@@ -520,14 +502,13 @@ END {
   for( date in entries ) {
     for( slug in entries[date] ) {
       title = entries[date][slug]
-      slugTerms = slugs[slug]["terms"] 
-      split(slugTerms, sslugTerms)
-      ssslugTerms = ""
-      for( t in sslugTerms ) {
-        ssslugTerms = ssslugTerms " [" sslugTerms[t] "]"
+      split(slugs[slug]["tags"], tags)
+      stags = ""
+      for( t in tags ) {
+        stags = stags " [" tags[t] "]"
       }
       print "<tr><td><b><a href=\"" titleToChapter[title] ".html#" toid(slug) "\">" tohtml(title) "</a></b>" > postshtml
-      print "<small><i>" slugs[slug]["date"] ssslugTerms " " slugs[slug]["summary"] " " slug "</small></i>" > postshtml
+      print "<small><i>" slugs[slug]["date"] stags " " slugs[slug]["summary"] " " slug "</small></i>" > postshtml
       print "</td></tr>" > postshtml
     }
   }
