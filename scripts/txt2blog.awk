@@ -156,7 +156,7 @@ function formatContent(content)
 {
   prefix = "\n"
   suffix = ""
-  firstChar = substr(content, 1, 1)
+  paragraph = 1
 
   do {
     if( index(content, "```") == 1 ) {
@@ -173,14 +173,28 @@ function formatContent(content)
       break
     }
 
-    if( firstChar == " " ) {
-      sub(/ +/, "", content)
+    if( content ~ /^ *- */ ) {
+      content = gensub(/ *- *(.*)/, "\\1", "g", content)
+      if( ! contentState["-"] ) {
+        prefix = prefix "<ul>"
+        contentState["-"] = 1
+      }
+      prefix = prefix "<li>"
+      suffix = "</li>" suffix
+      paragraph = 0
+    } else if ( contentState["-"] ) {
+        prefix = "</ul>\n"
+        contentState["-"] = 0
+    }
+
+    if( content ~ /^ +/ ) {
+      sub(/^ /, "", content)
       if( ! contentState[" "] ) {
         prefix = prefix "<pre>"
         contentState[" "] = 1
       }
       break
-    } else if ( firstChar != " " && contentState[" "] ) {
+    } else if ( contentState[" "] ) {
         prefix = "</pre>\n"
         contentState[" "] = 0
     }
@@ -212,7 +226,9 @@ function formatContent(content)
     gsub(/>/, "\\&gt;", content)
     content = gensub(/\[([^]]+)\]\(([^)]+)\)/, "<a href=\"\\2\">\\1</a>", "g", content)
 
-    content = "<p>" content "</p>"
+    if( paragraph ) {
+      content = "<p>" content "</p>"
+    }
 
   } while( 0 )
 
