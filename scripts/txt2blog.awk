@@ -241,7 +241,7 @@ function formatContent(content)
 function writepost()
 {
   ++postCount
-  entries[substr(title, 1, 1),title] = title
+  entries[date][slug] = title
   split(categories, scategories)
   sterms = ""
   for( c in scategories ) {
@@ -485,20 +485,20 @@ END {
 
   postshtml = "public\\blog_awk\\posts.html"
   writetophtml(postshtml, "caloni::posts", "index.html", 1)
-  PROCINFO["sorted_in"] = "@ind_str_asc"
-  for( e in entries ) {
-    split(e, letterAndTitle, SUBSEP)
-    title = letterAndTitle[2]
-    slug = titleToSlug[title]
-    slugTerms = slugs[slug]["terms"] 
-    split(slugTerms, sslugTerms)
-    ssslugTerms = ""
-    for( t in sslugTerms ) {
-      ssslugTerms = ssslugTerms " [" sslugTerms[t] "]"
+  PROCINFO["sorted_in"] = "@ind_str_desc"
+  for( date in entries ) {
+    for( slug in entries[date] ) {
+      title = entries[date][slug]
+      slugTerms = slugs[slug]["terms"] 
+      split(slugTerms, sslugTerms)
+      ssslugTerms = ""
+      for( t in sslugTerms ) {
+        ssslugTerms = ssslugTerms " [" sslugTerms[t] "]"
+      }
+      print "<tr><td><b><a href=\"" titleToChapter[title] ".html#" toid(slug) "\">" tohtml(title) "</a></b>" > postshtml
+      print "<small><i>" slugs[slug]["date"] ssslugTerms " " slugs[slug]["summary"] " " slug "</small></i>" > postshtml
+      print "</td></tr>" > postshtml
     }
-    print "<tr><td><b><a href=\"" titleToChapter[title] ".html#" toid(slug) "\">" tohtml(title) "</a></b>" > postshtml
-    print "<small><i>" slugs[slug]["date"] ssslugTerms " " slugs[slug]["summary"] " " slug "</small></i>" > postshtml
-    print "</td></tr>" > postshtml
   }
   writebottomhtml(postshtml, 1)
   quickSearch["posts"] = "posts.html"
