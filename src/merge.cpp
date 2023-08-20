@@ -1,10 +1,11 @@
-#include <string>
-#include <iostream>
-#include <fstream>
-#include <sstream>
-#include <filesystem>
-#include <iostream>
 #include <chrono>
+#include <filesystem>
+#include <fstream>
+#include <iostream>
+#include <iostream>
+#include <map>
+#include <sstream>
+#include <string>
 
 
 using namespace std;
@@ -58,6 +59,29 @@ string TransformHeader(const string& slug, string& content)
 }
 
 
+string GetDateFromHeader(const string& header)
+{
+    string date = "";
+    size_t label = header.find("date:");
+    if( label != header.npos )
+    {
+        size_t eol = header.find('\n', label);
+        if( eol != header.npos )
+        {
+            size_t fieldBegin = label + 6;
+            size_t fieldSize = eol - fieldBegin;
+            date = header.substr(fieldBegin, fieldSize);
+            if( date[0] == '\'' || date[0] == '\"' )
+            {
+                date.erase(0, 1);
+            }
+            date.resize(10);
+        }
+    }
+    return date;
+}
+
+
 int main(int argc, char* argv[])
 {
     auto start = high_resolution_clock::now();
@@ -77,7 +101,8 @@ int main(int argc, char* argv[])
 
     if( ofs )
     {
-        std::string path = "content";
+        string path = "content";
+        map<string, string> postsByDate;
         for (const auto& entry : fs::recursive_directory_iterator(path))
         {
             string path = entry.path().string();
@@ -95,7 +120,9 @@ int main(int argc, char* argv[])
                         string header = TransformHeader(dir, content);
                         if (header.size())
                         {
-                            ofs << "\n---\n" << header << "\n---\n" << content << endl;
+                            string date = GetDateFromHeader(header);
+                            string post = "\n---\n" + header + "\n---\n" + content;
+                            postsByDate[date] = postsByDate[date] + "\n" + post;
                             ++postCount;
                         }
                     }
@@ -112,6 +139,11 @@ int main(int argc, char* argv[])
                     ++fileCount;
                 }
             }
+        }
+
+        for( const auto& post: postsByDate )
+        {
+            ofs << post.second;
         }
     }
 
