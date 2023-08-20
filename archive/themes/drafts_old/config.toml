@@ -1,0 +1,78 @@
+baseURL = "http://www.caloni.com.br/"
+languageCode = "pt-br"
+title = "Blogue do Caloni"
+copyright = ""
+disableKinds = [ "sitemap" ]
+theme = "drafts"
+
+[outputs]
+  home = ["HTML", "RSS"]
+
+[outputFormats]
+
+[outputFormats.CSV]
+    isPlainText = true
+    mediaType = "text/csv"
+
+[permalinks]
+    posts = "/:filename/"
+    news = "/:filename/"
+    repost = "/:filename/"
+    drafts = "/:filename/"
+
+[params]
+    contentGit = "https://github.com/Caloni/blog"
+    namespace = "caloni"
+    author = "Wanderley Caloni"
+    showFilterAfter = 1
+    comments = "https://t.me/bloguedocalonidiscuss"
+
+[params.home]
+    postsCount = 10
+    tagPostsCount = 15
+    tags = [ "home" ]
+
+[params.external]
+
+[params.external.cinemaqui]
+    tag = "cinemaqui"
+    name = "Cinemaqui"
+    searchLink = "http://www.cinemaqui.com.br/?s="
+    summaryOnly = true
+    expire = -12
+
+[params.external.ccppbr]
+    tag = "ccppbr"
+    name = "C/C++ Brasil"
+    link = "http://ccppbrasil.github.io"
+
+[params.external.chess]
+    tag = "chess"
+    name = "Chess Tempo"
+    link = "http://chesstempo.com/"
+
+[markup.goldmark]
+
+[markup.goldmark.extensions]
+    definitionList = true
+    footnote = true
+    linkify = true
+    strikethrough = true
+    table = true
+    taskList = true
+    typographer = false
+
+[markup.goldmark.parser]
+    attribute = true
+    autoHeadingID = true
+    autoHeadingIDType = "github"
+
+[markup.goldmark.renderer]
+    hardWraps = false
+    unsafe = false
+    xhtml = false
+
+[taxonomies]
+    tag = "tags"
+    category = "categories"
+

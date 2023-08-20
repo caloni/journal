@@ -60,7 +60,7 @@ function writepost()
     draftToSlug[title] = slug
   }
   fchapter = toid(chapter)
-  file = "public\\epub_awk\\EPUB\\" fchapter ".xhtml"
+  file = "public\\book\\EPUB\\" fchapter ".xhtml"
   if( ! (fchapter in files) ) {
     print "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" > file
     print "<html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:epub=\"http://www.idpf.org/2007/ops\">" > file
@@ -164,13 +164,13 @@ END {
   }
 
   for( f in files ) {
-    file = "public\\epub_awk\\EPUB\\" f ".xhtml"
+    file = "public\\book\\EPUB\\" f ".xhtml"
     print "</div>" > file
     print "</body>" > file
     print "</html>" > file
   }
 
-  package = "public\\epub_awk\\EPUB\\package.opf"
+  package = "public\\book\\EPUB\\package.opf"
   print "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" > package
   print "<package xmlns=\"http://www.idpf.org/2007/opf\" version=\"3.0\" unique-identifier=\"p0000000000000\">" > package
   print "<metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\">" > package
@@ -216,7 +216,7 @@ END {
   print "</spine>" > package
   print "</package>" > package
 
-  tocncx = "public\\epub_awk\\EPUB\\toc.ncx"
+  tocncx = "public\\book\\EPUB\\toc.ncx"
   print "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" > tocncx
   print "<ncx xmlns=\"http://www.daisy.org/z3986/2005/ncx/\" version=\"2005-1\" xml:lang=\"en-US\">" > tocncx
   print "<head>" > tocncx
@@ -238,7 +238,7 @@ END {
   print "</navMap>" > tocncx
   print "</ncx>" > tocncx
 
-  tocxhtml = "public\\epub_awk\\EPUB\\toc.xhtml"
+  tocxhtml = "public\\book\\EPUB\\toc.xhtml"
   print "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" > tocxhtml
   print "<html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:epub=\"http://www.idpf.org/2007/ops\">" > tocxhtml
   print "<head><meta http-equiv=\"default-style\" content=\"text/html; charset=utf-8\"/>" > tocxhtml
@@ -277,7 +277,7 @@ END {
   print "</html>" > tocxhtml
 
   for( term in terms ) {
-    tocxhtml = "public\\epub_awk\\EPUB\\toc_" term ".xhtml"
+    tocxhtml = "public\\book\\EPUB\\toc_" term ".xhtml"
     print "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" > tocxhtml
     print "<html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:epub=\"http://www.idpf.org/2007/ops\">" > tocxhtml
     print "<head><meta http-equiv=\"default-style\" content=\"text/html; charset=utf-8\"/>" > tocxhtml
@@ -298,7 +298,7 @@ END {
     print "</html>" > tocxhtml
   }
 
-  ncxhtml = "public\\epub_awk\\EPUB\\ncx.xhtml"
+  ncxhtml = "public\\book\\EPUB\\ncx.xhtml"
   print "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" > ncxhtml
   print "<html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:epub=\"http://www.idpf.org/2007/ops\">" > ncxhtml
   print "<head><meta http-equiv=\"default-style\" content=\"text/html; charset=utf-8\"/>" > ncxhtml
@@ -319,7 +319,7 @@ END {
   print "</body>" > ncxhtml
   print "</html>" > ncxhtml
 
-  indexx = "public\\epub_awk\\EPUB\\index.xhtml"
+  indexx = "public\\book\\EPUB\\index.xhtml"
   print "<!DOCTYPE html>" > indexx
   print "<html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:epub=\"http://www.idpf.org/2007/ops\" xml:lang=\"en-US\" lang=\"en-US\">" > indexx
   print "<head>" > indexx
@@ -350,7 +350,7 @@ END {
   print "<h3 id=\"toc" toid(term) "\" class=\"groupletter\">Terms</h3>\n"\
     "<ul class=\"indexlevel1\">" > indexx
   for( term in terms ) {
-    tocxhtml = "public\\epub_awk\\EPUB\\toc_" term ".xhtml"
+    tocxhtml = "public\\book\\EPUB\\toc_" term ".xhtml"
     print "<li epub:type=\"index-entry\" class=\"indexhead1\" id=\"mh" currid++ "\">"\
       "<a href=\"toc" toid(term) ".xhtml\">" tohtml(term) "</a></li>\n" > indexx
   }

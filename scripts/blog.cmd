@@ -1,7 +1,13 @@
 @echo off
-git pull
-git push
-hugo --buildDrafts --cleanDestinationDir -d public\blog --config themes/blog/config.toml
+pushd public\blog
+rm -fr *
+popd
+xcopy /Q /E /I /Y blog public\blog
+setlocal
+set LC_ALL=en_US.UTF-8
+gawk -f scripts\txt2blog.awk blog.txt
+endlocal
+echo Blog generated
 
 pushd public\blog
 git add --all

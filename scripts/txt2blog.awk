@@ -283,7 +283,7 @@ function writepost(    stags)
   titleToChapter[title] = chapter
 
   if ( repost != "" ) {
-    file = "public\\blog_awk\\repost.html"
+    file = "public\\blog\\repost.html"
     if( ! ("repost" in files) ) {
       writetophtml(file, "caloni::repost", "index.html", 1)
       files["repost"] = "repost"
@@ -294,7 +294,7 @@ function writepost(    stags)
     g_postsByMonth["repost"][repost] = g_postsByMonth["repost"][repost] "\n" post
   }
 
-  file = "public\\blog_awk\\" chapter ".html"
+  file = "public\\blog\\" chapter ".html"
   if( ! (chapter in files) ) {
     writetophtml(file, "caloni::" chapter, "months.html", 0)
     files[chapter] = chapter
@@ -418,7 +418,7 @@ END {
     nChapter = chapter
   }
   PROCINFO["sorted_in"] = "@ind_num_desc"
-  monthshtml = "public\\blog_awk\\months.html"
+  monthshtml = "public\\blog\\months.html"
   writetophtml(monthshtml, "caloni::months", "index.html", 0)
   lastyear = "2001"
   pChapter = "index"
@@ -447,7 +447,7 @@ END {
   PROCINFO["sorted_in"] = "@ind_num_asc"
   for( f in files ) {
     postsContent = ""
-    file = "public\\blog_awk\\" f ".html"
+    file = "public\\blog\\" f ".html"
     if( f == "repost" ) {
       PROCINFO["sorted_in"] = "@ind_num_desc"
     } else {
@@ -477,7 +477,7 @@ END {
   PROCINFO["sorted_in"] = "@ind_num_desc"
   for( t in g_titlesByTagsAndDates ) {
     quickSearch[t] = t ".html"
-    file = "public\\blog_awk\\" t ".html"
+    file = "public\\blog\\" t ".html"
     writetophtml(file, "caloni::" t, "index.html", 1)
     for( d in g_titlesByTagsAndDates[t] ) {
       title = g_titlesByTagsAndDates[t][d]
@@ -495,7 +495,7 @@ END {
     writebottomhtml(file, 1)
   }
 
-  tagshtml = "public\\blog_awk\\tags.html"
+  tagshtml = "public\\blog\\tags.html"
   writetophtml(tagshtml, "caloni::tags", "index.html", 1)
   PROCINFO["sorted_in"] = "@ind_str_asc"
   for( t in g_titlesByTagsAndDates ) {
@@ -520,7 +520,7 @@ END {
   writebottomhtml(tagshtml, 1)
   quickSearch["tags"] = "tags.html"
 
-  postshtml = "public\\blog_awk\\posts.html"
+  postshtml = "public\\blog\\posts.html"
   writetophtml(postshtml, "caloni::posts", "index.html", 1)
   PROCINFO["sorted_in"] = "@ind_str_desc"
   for( date in entries ) {
@@ -539,7 +539,7 @@ END {
   writebottomhtml(postshtml, 1)
   quickSearch["posts"] = "posts.html"
 
-  indexhtml = "public\\blog_awk\\index.html"
+  indexhtml = "public\\blog\\index.html"
   writetophtml(indexhtml, "Blogue do Caloni", "2007-06.html#_about", 0, quickSearch)
   print "<input type=\"text\" name=\"quick_search_name\" value=\"\" id=\"quick_search\" placeholder=\"digite uma url\" style=\"width: 100%; font-size: 1.5rem; margin-top: 1em; margin-bottom: 0.5em;\" title=\"\"/></br>" > indexhtml
   print "<big>>> <a href=\"coding.html\">coding</a></big><small><i>: programação, depuração, transpiração.</small></i></br>" > indexhtml
@@ -556,7 +556,7 @@ END {
   print "</table>" > indexhtml
   writebottomhtml(indexhtml, 0, "", "", currentDate)
 
-  notfoundhtml = "public\\blog_awk\\404.html"
+  notfoundhtml = "public\\blog\\404.html"
   writetophtml(notfoundhtml, "caloni::404 page not found", "posts.html", 0)
   print "<div class=\"container\">" > notfoundhtml
   print "  <p class=\"title\">Opa, essa página não foi encontrada.</p>" > notfoundhtml
