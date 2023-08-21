@@ -1,1 +1,1 @@
-java -jar \tmp\epub\epubcheck-5.0.0\epubcheck.jar epub_alpha3.epub 
+java -jar \tools\epubcheck\epubcheck.jar caloni.epub

@@ -185,7 +185,7 @@ END {
   print "</metadata>" > package
   print "<manifest>" > package
   print "<item id=\"cover\" href=\"cover.xhtml\" media-type=\"application/xhtml+xml\"/>" > package
-  print "<item id=\"cover-image\" properties=\"cover-image\" href=\"images/cover.jpg\" media-type=\"image/jpeg\"/>" > package
+  print "<item id=\"cover-image\" properties=\"cover-image\" href=\"img/cover.jpg\" media-type=\"image/jpeg\"/>" > package
   print "<item id=\"style\" href=\"css/stylesheet.css\" media-type=\"text/css\"/>" > package
   print "<item id=\"ncx\" properties=\"nav\" href=\"ncx.xhtml\" media-type=\"application/xhtml+xml\"/>" > package
   print "<item id=\"ncx1\" href=\"toc.ncx\" media-type=\"application/x-dtbncx+xml\"/>" > package
