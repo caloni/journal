@@ -9,7 +9,7 @@ gawk -f scripts\txt2epub.awk blog.txt
 endlocal
 pushd public\book
 call repack.cmd
-rem call tokindle.cmd
+call tokindle.cmd
 copy /y caloni.mobi k:\documents
 if %ERRORLEVEL% EQU 0 echo === BOOK COPIED SUCCESSFULLY ===
 if %ERRORLEVEL% NEQ 0 echo === ERROR COPYING BOOK ===
