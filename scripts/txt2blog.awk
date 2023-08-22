@@ -254,7 +254,6 @@ function formatContent(content)
   return prefix content suffix
 }
 
-
 function writepost(    stags)
 {
   ++postCount

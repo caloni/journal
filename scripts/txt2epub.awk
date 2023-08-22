@@ -83,6 +83,117 @@ function writepost()
   print "</section>" > file
 }
 
+
+function formatContent(content)
+{
+  prefix = "\n"
+  suffix = ""
+  paragraph = 1
+
+  do {
+    #todo: test
+    #if( index(content, "```") == 1 ) {
+    #  content = ""
+    #  if( contentState["```"] ) {
+    #    prefix = "</pre>"
+    #    contentState["```"] = 0
+    #  } else {
+    #    contentState["```"] = 1
+    #    prefix = prefix "<pre>"
+    #  }
+    #  break
+    #} else if( contentState["```"] ) {
+    #  break
+    #}
+
+    #todo: test
+    #if( content ~ /^ *- */ ) {
+    #  content = gensub(/ *- *(.*)/, "\\1", "g", content)
+    #  if( ! contentState["-"] ) {
+    #    prefix = prefix "<ul>"
+    #    contentState["-"] = 1
+    #  }
+    #  prefix = prefix "<li>"
+    #  suffix = "</li>" suffix
+    #  paragraph = 0
+    #} else if ( contentState["-"] ) {
+    #    prefix = "</ul>\n"
+    #    contentState["-"] = 0
+    #}
+
+    #todo: test
+    #if( content ~ /^ +/ ) {
+    #  sub(/^ /, "", content)
+    #  if( ! contentState[" "] ) {
+    #    prefix = prefix "<pre>"
+    #    contentState[" "] = 1
+    #  }
+    #  break
+    #} else if ( contentState[" "] ) {
+    #    prefix = "</pre>\n"
+    #    contentState[" "] = 0
+    #}
+
+    #todo: test
+    #if( content ~ /^#+ / ) {
+
+    #  if( content ~ /^# / ) {
+    #    headerLevel = 2
+    #  } else if( content ~ /^## / ) {
+    #    headerLevel = 3
+    #  } else if( content ~ /^### / ) {
+    #    headerLevel = 4
+    #  } else {
+    #    headerLevel = 5
+    #  }
+    #  gsub(/^#+ /, "", content)
+
+    #  prefix = prefix "<h" headerLevel ">"
+    #  suffix = "</h" headerLevel ">" suffix
+    #  paragraph = 0
+    #}
+
+    if( content ~ /^\[[^]]+\]:/ ) {
+      endName = index(content, ":")
+      name = substr(content, 2, endName - 3)
+      link = substr(content, endName + 2)
+      if( link ~ /{{< ref "/ ) {
+        link = gensub(/{{< ref "(.*)" >}}/, "index.xhtml", "g", link)
+      }
+      else if( link ~ /{{< ref / ) {
+        link = gensub(/{{< ref (.*) >}}/, "index.xhtml", "g", link)
+      }
+      else if( link ~ /{{< relref "/ ) {
+        link = gensub(/{{< relref "(.*)" >}}/, "index.xhtml", "g", link)
+      }
+      link = "<a href=\"" link "\">" name "</a>"
+      links[name] = link
+      content = ""
+      break
+    }
+
+    if( index(content, "{{< image src=") == 1 ) {
+      newImage = gensub(/.*{{< image src="([^"]+)".*/, "img/" slug "-\\1", "g", content)
+      g_postImages[newImage] = newImage
+      content = gensub(/{{< image src="([^"]+)".*>}}/, "<img src=\"img/" slug "-\\1\"/>", "g", content)
+      break
+    }
+
+    gsub(/&/, "&amp;", content)
+    gsub(/</, "\\&lt;", content)
+    gsub(/>/, "\\&gt;", content)
+    content = gensub(/\[([^&]]+)\]\(([^)]+)\)/, "<a href=\"\\2\">\\1</a>", "g", content)
+
+    if( paragraph ) {
+      content = "<p>" content "</p>"
+    }
+
+  } while( 0 )
+
+  return prefix content suffix
+}
+
+
 /^= / {
   if( content ) {
     writepost()
@@ -131,10 +242,13 @@ function writepost()
 }
 
 /^[^=:]/ {
-  gsub(/&/, "&amp;")
-  gsub(/</, "\\&lt;")
-  gsub(/>/, "\\&gt;")
-  content = content "\n<p>" $0 "</p>"
+  newContent = formatContent($0)
+  if( content ) {
+    content = content newContent
+  } else {
+    summary = $0
+    content = newContent
+  }
 }
 
 BEGIN {
@@ -199,6 +313,16 @@ END {
   PROCINFO["sorted_in"] = "@ind_num_asc"
   for( chapter in chapters ) {
     print "<item id=\"" toid(chapter) "\" href=\"" toid(chapter) ".xhtml\" media-type=\"application/xhtml+xml\"/>" > package
+  }
+  totalImages = 0
+  for( image in g_postImages ) {
+    if( index(image, "jpg") || index(image, "jpeg") ) {
+      print "<item id=\"img-id-" ++totalImages "\" href=\"" image "\" media-type=\"image/jpeg\"/>" > package
+    } else if( index(image, "gif") ) {
+      print "<item id=\"img-id-" ++totalImages "\" href=\"" image "\" media-type=\"image/gif\"/>" > package
+    } else if( index(image, "png") ) {
+      print "<item id=\"img-id-" ++totalImages "\" href=\"" image "\" media-type=\"image/png\"/>" > package
+    }
   }
   print "</manifest>" > package
   print "<spine toc=\"ncx1\">" > package
