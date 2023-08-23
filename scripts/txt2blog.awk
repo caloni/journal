@@ -226,6 +226,9 @@ function formatContent(content)
       if( link ~ /{{< ref "/ ) {
         link = gensub(/{{< ref "(.*)" >}}/, "posts.html?q=\\1", "g", link)
       }
+      else if( link ~ /{{< ref / ) {
+        link = gensub(/{{< ref (.*) >}}/, "posts.html?q=\\1", "g", link)
+      }
       else if( link ~ /{{< relref "/ ) {
         link = gensub(/{{< relref "(.*)" >}}/, "posts.html?q=\\1", "g", link)
       }
