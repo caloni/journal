@@ -322,7 +322,8 @@ function writepost(    stags)
   post = post content "\n"
   post = post "</section><hr/>\n"
   g_postsByMonth[chapter][date] = g_postsByMonth[chapter][date] "\n" post
-  g_postLinksByMonth[chapter][date][title] = slug
+  postLink = "<li><small><a href=\"" chapter ".html#" slug "\">" tohtml(title) "</a></small></li>"
+  g_postLinksByMonth[chapter][date] = g_postLinksByMonth[chapter][date] "\n" postLink
 
   quickSearch[slug] = chapter ".html#" toid(slug)
 }
@@ -461,9 +462,7 @@ END {
     if( f != "repost" ) {
       print "<ul style=\"list-style: none;\">" > file
       for( date in g_postLinksByMonth[f] ) {
-        for( title in g_postLinksByMonth[f][date] ) {
-          print "<li><small><a href=\"" f ".html#" g_postLinksByMonth[f][date][title] "\">" title "</a></small></li>" > file
-        }
+        print g_postLinksByMonth[f][date] > file
       }
       print "</ul>" > file
     }
