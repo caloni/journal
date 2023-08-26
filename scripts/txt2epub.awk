@@ -40,12 +40,7 @@ function writepost()
 {
   ++postCount
   entries[substr(title, 1, 1),title] = title
-  split(categories, scategories)
   sterms = ""
-  for( c in scategories ) {
-    terms[scategories[c]][title] = title
-    sterms = sterms " <a href=\"toc" toid(scategories[c]) ".xhtml\">" scategories[c] "</a>"
-  }
   split(tags, stags)
   for( t in stags ) {
     terms[stags[t]][title] = title
@@ -200,7 +195,6 @@ function formatContent(content)
     content = ""
     slug = ""
     tags = ""
-    categories = ""
     draft = 0
   }
   title = substr($0, 3)
@@ -224,16 +218,6 @@ function formatContent(content)
         tags = tags " " tag
       }
       ++tagidx
-    }
-  }
-  else if( $1 == ":categories:" ) {
-    catidx = 2
-    while( catidx <= NF ) {
-      cat = $catidx
-      if( cat != "null" ) {
-        categories = categories " " cat
-      }
-      ++catidx
     }
   }
   else if( $1 == ":draft:" ) {

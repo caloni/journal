@@ -356,7 +356,7 @@ function writepost(    stags)
     chapter = substr(date, 1, 7)
     chapters[chapter] = chapter
   }
-  else if( $1 == ":tags:" || $1 == ":categories:" ) {
+  else if( $1 == ":tags:" ) {
     i = 2
     while( i <= NF ) {
       tag = $i
