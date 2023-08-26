@@ -352,7 +352,7 @@ function writepost(    stags)
     postlink = $2
   }
   else if( $1 == ":date:" ) {
-    date = substr($2, 2, 10)
+    date = $2
     chapter = substr(date, 1, 7)
     chapters[chapter] = chapter
   }
