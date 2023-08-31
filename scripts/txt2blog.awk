@@ -4,6 +4,19 @@ function toid(str)
 }
 
 
+function toslug(str)
+{
+  gsub(/[ÁÀÂÃáàâã]/, "a", str)
+  gsub(/[ÉÊÊéêê]/, "e", str)
+  gsub(/[ÔÕÓôõó]/, "o", str)
+  gsub(/[Úú]/, "u", str)
+  gsub(/[ÍÏíï]/, "i", str)
+  gsub(/[#()'",;:-]/, "", str)
+  gsub(/ /, "-", str)
+  return tolower(str)
+}
+
+
 function tohtml(str)
 {
   gsub(/&/, "&amp;", str)
@@ -260,6 +273,9 @@ function formatContent(content)
 function writepost(    stags)
 {
   ++postCount
+  if( slug == "" ) {
+    slug = toslug(title)
+  }
   entries[date][slug] = title
 
   if( draft ) {
