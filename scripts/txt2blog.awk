@@ -252,6 +252,7 @@ function formatContent(content)
     }
 
     if( index(content, "{{< image src=") == 1 ) {
+      image = gensub(/{{< image src="(.*)" >}}/, slug "-\\1", "g", content)
       content = gensub(/{{< image src="(.*)" >}}/, "<img src=\"img/" slug "-\\1\"/>", "g", content)
       break
     }
@@ -297,6 +298,7 @@ function writepost(    stags)
   slugs[slug]["content"] = content
   slugs[slug]["summary"] = summary
   slugs[slug]["tags"] = g_tags
+  slugs[slug]["image"] = image
   titleToSlug[title] = slug
   titleToChapter[title] = chapter
 
@@ -354,6 +356,8 @@ function writepost(    stags)
     g_tags = ""
     draft = 0
     repost = ""
+    summary = ""
+    image = ""
     delete links
   }
   title = substr($0, 3)
@@ -396,8 +400,12 @@ function writepost(    stags)
   if( content ) {
     content = content newContent
   } else {
-    summary = $0
     content = newContent
+  }
+  if( length(summary) < 200 ) {
+    if( index($0, "{{") == 0 && index($0, "```") == 0 ) {
+      summary = summary " " $0
+    }
   }
 }
 
@@ -505,9 +513,14 @@ END {
       for( st in sslugTerms ) {
         ssslugTerms = ssslugTerms " [" sslugTerms[st] "]"
       }
-      print "<tr><td><b><a href=\"" titleToChapter[title] ".html#" toid(slug) "\">" tohtml(title) "</a></b>" > file
+      print "<tr><td>" > file
+      if( slugs[slug]["image"] ) {
+        print "<img src=\"img/" slugs[slug]["image"] "\"/>" > file
+      }
+      print "<b><a href=\"" titleToChapter[title] ".html#" toid(slug) "\">" tohtml(title) "</a></b>" > file
       print "<small><i>" slugs[slug]["date"] ssslugTerms " " slugs[slug]["summary"] "</small></i>" > file
       print "</td></tr>" > file
+      
     }
     writebottomhtml(file, 1)
   }
@@ -548,7 +561,11 @@ END {
       for( t in tags ) {
         stags = stags " [" tags[t] "]"
       }
-      print "<tr><td><b><a href=\"" titleToChapter[title] ".html#" toid(slug) "\">" tohtml(title) "</a></b>" > postshtml
+      print "<tr><td>" > postshtml
+      if( slugs[slug]["image"] ) {
+        print "<img src=\"img/" slugs[slug]["image"] "\"/>" > postshtml
+      }
+      print "<b><a href=\"" titleToChapter[title] ".html#" toid(slug) "\">" tohtml(title) "</a></b>" > postshtml
       print "<small><i>" slugs[slug]["date"] stags " " slugs[slug]["summary"] " " slug "</small></i>" > postshtml
       print "</td></tr>" > postshtml
     }
