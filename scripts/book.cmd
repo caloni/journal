@@ -18,9 +18,3 @@ copy /y caloni.mobi k:\documents
 if %ERRORLEVEL% EQU 0 echo === BOOK COPIED SUCCESSFULLY ===
 if %ERRORLEVEL% NEQ 0 echo === ERROR COPYING BOOK ===
 popd
-copy /y ..\journal.txt k:\documents
-if %ERRORLEVEL% EQU 0 echo === JOURNAL UPDATED ===
-if %ERRORLEVEL% NEQ 0 echo === ERROR UPDATING JOURNAL ===
-copy /y ..\clippings.txt k:\documents
-if %ERRORLEVEL% EQU 0 echo === CLIPPINGS UPDATED ===
-if %ERRORLEVEL% NEQ 0 echo === ERROR UPDATING CLIPPINGS ===
