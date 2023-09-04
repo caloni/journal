@@ -390,7 +390,7 @@ function writepost(    stags)
     draft = 1
   }
   else if( $1 == ":repost:" ) {
-    repost = substr($2, 2, 10)
+    repost = $2
   }
 }
 
