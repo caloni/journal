@@ -53,6 +53,10 @@ function writepost()
   titleToChapter[title] = chapter
   if( draft ) {
     draftToSlug[title] = slug
+    drafts = "public\\book\\drafts.txt"
+    print "= " title > drafts
+    print draftContent > drafts
+    print "\n\n" > drafts
   }
   fchapter = toid(chapter)
   file = "public\\book\\EPUB\\" fchapter ".xhtml"
@@ -193,6 +197,7 @@ function formatContent(content)
   if( content ) {
     writepost()
     content = ""
+    draftContent = ""
     slug = ""
     tags = ""
     draft = 0
@@ -226,6 +231,7 @@ function formatContent(content)
 }
 
 /^[^=:]/ {
+  draftContent = draftContent "\n\n" $0
   newContent = formatContent($0)
   if( content ) {
     content = content newContent
@@ -259,6 +265,7 @@ END {
   if( content ) {
     writepost()
     content = ""
+    draftContent = ""
   }
 
   for( f in files ) {
