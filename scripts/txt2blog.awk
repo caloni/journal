@@ -289,7 +289,7 @@ function writepost(    stags)
   split(g_tags, stags)
   for( t in stags ) {
     g_titlesByTags[stags[t]][title] = title
-    g_titlesByTagsAndDates[stags[t]][date] = title
+    g_titlesByTagsAndDates[stags[t]][date][title] = title
     repostTags = repostTags " [" stags[t] "]"
   }
   slugs[slug]["slug"] = slug
@@ -505,22 +505,22 @@ END {
     file = "public\\blog\\" t ".html"
     writetophtml(file, "caloni::" t, "index.html", 1)
     for( d in g_titlesByTagsAndDates[t] ) {
-      title = g_titlesByTagsAndDates[t][d]
-      slug = titleToSlug[title]
-      slugTerms = slugs[slug]["tags"] 
-      split(slugTerms, sslugTerms)
-      ssslugTerms = ""
-      for( st in sslugTerms ) {
-        ssslugTerms = ssslugTerms " [" sslugTerms[st] "]"
+      for( title in g_titlesByTagsAndDates[t][d] ) {
+        slug = titleToSlug[title]
+        slugTerms = slugs[slug]["tags"] 
+        split(slugTerms, sslugTerms)
+        ssslugTerms = ""
+        for( st in sslugTerms ) {
+          ssslugTerms = ssslugTerms " [" sslugTerms[st] "]"
+        }
+        print "<tr><td>" > file
+        if( slugs[slug]["image"] ) {
+          print "<img src=\"img/" slugs[slug]["image"] "\"/>" > file
+        }
+        print "<b><a href=\"" titleToChapter[title] ".html#" toid(slug) "\">" tohtml(title) "</a></b>" > file
+        print "<small><i>" slugs[slug]["date"] ssslugTerms " " slugs[slug]["summary"] "</small></i>" > file
+        print "</td></tr>" > file
       }
-      print "<tr><td>" > file
-      if( slugs[slug]["image"] ) {
-        print "<img src=\"img/" slugs[slug]["image"] "\"/>" > file
-      }
-      print "<b><a href=\"" titleToChapter[title] ".html#" toid(slug) "\">" tohtml(title) "</a></b>" > file
-      print "<small><i>" slugs[slug]["date"] ssslugTerms " " slugs[slug]["summary"] "</small></i>" > file
-      print "</td></tr>" > file
-      
     }
     writebottomhtml(file, 1)
   }
@@ -533,14 +533,16 @@ END {
     totalTitles = 0
     PROCINFO["sorted_in"] = "@ind_num_desc"
     for( d in g_titlesByTagsAndDates[t] ) {
-      if( titles == "" ) {
-        titles = g_titlesByTagsAndDates[t][d]
-      } else {
-        titles = titles " - " g_titlesByTagsAndDates[t][d]
-      }
-      totalTitles = totalTitles + 1
-      if( totalTitles > 15 ) {
-        break
+      for( title in g_titlesByTagsAndDates[t][d] ) {
+        if( titles == "" ) {
+          titles = title
+        } else {
+          titles = titles " - " title
+        }
+        totalTitles = totalTitles + 1
+        if( totalTitles > 15 ) {
+          break
+        }
       }
     }
     print "<tr><td><b><a href=\"" t ".html" "\">" tohtml(t) "</a></b>" > tagshtml
