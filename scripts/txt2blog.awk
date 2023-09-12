@@ -73,6 +73,7 @@ function writetophtml(file, title, backLink, filter, quickSearch)
   print "<script src=\"/js/jquery-ui.js\"></script>" > file
   print "<script src=\"/js/pgnyui.js\"></script>" > file
   print "<script src=\"/js/pgnviewer.js\"></script>" > file
+  print "<script src=\"/js/copy_clipboard.js\"></script>" > file
   print "<script>" > file
   print "var quick_search_posts = [ " > file
   for( qs in quickSearch ) {
@@ -330,13 +331,13 @@ function writepost(    stags)
   }
 
   post = "<span id=\"" toid(slug) "\" title=\"" tohtml(title) "\"/></span>\n"
-  post = post "<section>\n"
+  post = post "<section id=\"section-" toid(slug) "\">\n"
   if( postlink != "" ) {
     post = post "<p class=\"title\"><a href=\"" chapter ".html#" toid(slug) "\">#</a> " tohtml(title) " <a class=\"external\" href=\"" postlink "\">[link]</a></p>\n"
   } else {
     post = post "<p class=\"title\"><a href=\"" chapter ".html#" toid(slug) "\">#</a> " tohtml(title) "</p>\n"
   }
-  post = post "<p class=\"note-title\"><small>" date " " ssstags " </small><a href=\"" chapter ".html\">^</a></p>\n"
+  post = post "<p class=\"note-title\"><small>" date " " ssstags " </small><a href=\"" chapter ".html\">^</a> <button onclick=\"copy_clipboard('section#section-" toid(slug) "')\">ctrl_c</button></p>\n"
   post = post content "\n"
   post = post "</section><hr/>\n"
   g_postsByMonth[chapter][date] = g_postsByMonth[chapter][date] "\n" post
