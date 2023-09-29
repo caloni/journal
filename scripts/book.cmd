@@ -23,7 +23,7 @@ copy /y drafts.txt k:\documents
 if %ERRORLEVEL% EQU 0 echo === DRAFTS UPDATED ===
 if %ERRORLEVEL% NEQ 0 echo === ERROR UPDATING DRAFTS ===
 popd
-rm k:\documents\journal.*
+rm k:\documents\journal.mbp
 copy /y ..\journal.txt k:\documents
 if %ERRORLEVEL% EQU 0 echo === JOURNAL UPDATED ===
 if %ERRORLEVEL% NEQ 0 echo === ERROR UPDATING JOURNAL ===
