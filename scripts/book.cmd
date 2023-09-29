@@ -18,7 +18,8 @@ copy /y caloni.mobi k:\documents
 if %ERRORLEVEL% EQU 0 echo === BOOK COPIED SUCCESSFULLY ===
 if %ERRORLEVEL% NEQ 0 echo === ERROR COPYING BOOK ===
 :copy_notes
-rm k:\documents\drafts.*
+rm k:\documents\drafts.txt
+rm k:\documents\drafts.mbp
 copy /y drafts.txt k:\documents
 if %ERRORLEVEL% EQU 0 echo === DRAFTS UPDATED ===
 if %ERRORLEVEL% NEQ 0 echo === ERROR UPDATING DRAFTS ===
