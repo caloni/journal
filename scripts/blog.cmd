@@ -11,8 +11,11 @@ endlocal
 echo Blog generated
 choice /M "Do you want to publish the blog to the world wide web (default yes in 10 seconds)?" /D Y /T 10
 if errorlevel 2 goto :eof
-pushd public\blog
 git add --all
+git commit -m "Publish new version."
+git add --all
+git push
+pushd public\blog
 git commit -m "Publish new version."
 git push
 popd
