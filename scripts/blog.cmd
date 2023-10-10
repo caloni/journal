@@ -13,9 +13,9 @@ choice /M "Do you want to publish the blog to the world wide web (default yes in
 if errorlevel 2 goto :eof
 git add --all
 git commit -m "Publish new version."
-git add --all
 git push
 pushd public\blog
+git add --all
 git commit -m "Publish new version."
 git push
 popd
