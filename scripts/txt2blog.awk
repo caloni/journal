@@ -329,6 +329,7 @@ function writepost(    stags)
     search = "\\[" name "\\]"
     gsub(search, links[name], content)
   }
+  content = gensub(/\[([^\]]+)\]/, "<a href=\"posts.html?q=\\1\">\\1</a>", "g", content)
 
   post = "<span id=\"" toid(slug) "\" title=\"" tohtml(title) "\"/></span>\n"
   post = post "<section id=\"section-" toid(slug) "\">\n"
