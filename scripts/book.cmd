@@ -18,13 +18,13 @@ copy /y caloni.mobi k:\documents
 if %ERRORLEVEL% EQU 0 echo === BOOK COPIED SUCCESSFULLY ===
 if %ERRORLEVEL% NEQ 0 echo === ERROR COPYING BOOK ===
 :copy_notes
-rm k:\documents\drafts.txt
-rm k:\documents\drafts.mbp
-copy /y drafts.txt k:\documents
+if exist k:\documents\drafts.txt rm k:\documents\drafts.txt
+if exist k:\documents\drafts.mbp rm k:\documents\drafts.mbp
+if exist k:\documents copy /y drafts.txt k:\documents
 if %ERRORLEVEL% EQU 0 echo === DRAFTS UPDATED ===
 if %ERRORLEVEL% NEQ 0 echo === ERROR UPDATING DRAFTS ===
 popd
-rm k:\documents\journal.mbp
-copy /y ..\journal.txt k:\documents
+if exist k:\documents\journal.mbp rm k:\documents\journal.mbp
+if exist k:\documents copy /y ..\journal.txt k:\documents
 if %ERRORLEVEL% EQU 0 echo === JOURNAL UPDATED ===
 if %ERRORLEVEL% NEQ 0 echo === ERROR UPDATING JOURNAL ===
