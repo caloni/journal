@@ -8,12 +8,16 @@ gawk -f scripts\txt2epub.awk blog.txt
 endlocal
 pushd public\book
 call repack.cmd
+if exist c:\users\caloni\ebooks\caloni.epub copy /y c:\users\caloni\ebooks\caloni.epub c:\users\caloni\ebooks\caloni-old.epub
+if exist c:\users\caloni\ebooks copy /y caloni.epub c:\users\caloni\ebooks
 echo Book generated
 popd
 pushd public\book
 choice /M "Do you want to convert and copy to kindle (default yes in 10 seconds)?" /D Y /T 10
 if errorlevel 2 goto :copy_notes
 call tokindle.cmd
+if exist c:\users\caloni\ebooks\caloni.mobi copy /y c:\users\caloni\ebooks\caloni.mobi c:\users\caloni\ebooks\caloni-old.mobi
+if exist c:\users\caloni\ebooks copy /y caloni.mobi c:\users\caloni\ebooks
 copy /y caloni.mobi k:\documents
 if %ERRORLEVEL% EQU 0 echo === BOOK COPIED SUCCESSFULLY ===
 if %ERRORLEVEL% NEQ 0 echo === ERROR COPYING BOOK ===
@@ -25,6 +29,6 @@ if %ERRORLEVEL% EQU 0 echo === DRAFTS UPDATED ===
 if %ERRORLEVEL% NEQ 0 echo === ERROR UPDATING DRAFTS ===
 popd
 if exist k:\documents\journal.mbp rm k:\documents\journal.mbp
-if exist k:\documents copy /y ..\journal.txt k:\documents
+if exist k:\documents copy /y journal.txt k:\documents
 if %ERRORLEVEL% EQU 0 echo === JOURNAL UPDATED ===
 if %ERRORLEVEL% NEQ 0 echo === ERROR UPDATING JOURNAL ===
