@@ -14,6 +14,20 @@ function tohtml(str)
   return str
 }
 
+
+function toslug(str)
+{
+  gsub(/[ÁÀÂÃáàâã]/, "a", str)
+  gsub(/[ÉÊÊéêê]/, "e", str)
+  gsub(/[ÔÕÓôõó]/, "o", str)
+  gsub(/[Úú]/, "u", str)
+  gsub(/[ÍÏíï]/, "i", str)
+  gsub(/[#()'",;:-]/, "", str)
+  gsub(/ /, "-", str)
+  return tolower(str)
+}
+
+
 function isnumeric(x, f)
 {
     switch (typeof(x)) {
@@ -39,6 +53,9 @@ function toletter(str)
 function writepost()
 {
   ++postCount
+  if( slug == "" ) {
+    slug = toslug(title)
+  }
   entries[substr(title, 1, 1),title] = title
   sterms = ""
   split(tags, stags)
