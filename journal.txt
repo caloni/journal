@@ -12920,3 +12920,412 @@ Teams eternal loading accounts. But this is a test branch yet about filtering ac
 img/teams_eternal_loading_accounts.png
 
 Tried merge with this branch and master with no better results. With master there is broken part around AadWebAccountService (AadWebAccountInfo not available).
+
+
+= Teams working again and reinstalling WinRt WebTokenRequest hook (temporary)
+:date: 2023-11-06
+:tags: venn
+
+After the branch from ROADMAP-69311 was merged to this I recompiled and Teams is working again. However, as pointed out in previous comments, the COM proxy hook for some reason does not change WebTokenRequest properties to insert SE mark. I put back the WinRT solution again just for test and for comparison. The new IsSERequest function returns true when WinRT inserts the hook for WebTokenRequest.
+
+## Sidetracked: installing Workplace into new computer
+
+Trying to setup a new computer with Workplace. After stuck for a while in the "installing Citrix" task and a few reboots I got a situation where the PCG does not connect. Looking into the logs I got a "Workplace Container has been terminated during waiting for session confirmation" and looking into the container the error "WmiObjectInvokeException: WMI call failed with code 2150694913. The volume is fully decrypted and cannot be locked.".
+
+What is the procedure to use more than one computer or setup a new one? (btw the old one is working and logged, but I tested the new one disconnected too).
+
+I believed the error was because I was using the same account in two different computers, but as Andrey Bisikalo pointed out, there is another error before hooks logs (always look for Trace logs when container session does not start yet).
+
+
+= Scanning AAD unmarshal after signin
+:date: 2023-11-08
+:tags: venn
+
+Got the listing for AAD Broker direct CoUnMarshalInterface calls in three phases: 1) since beginning of our hook, 2) after typed password and enter, 3) after press some button in the stay signin window.
+
+Besides some key classes already seen in previous analysis now a unmarshal called my attention: the `IVector<Windows::Security::Authentication::Web::Provider::WebProviderTokenResponse>`. So I hooked this IID.
+
+However, the vector is empty during unmarshal; it must be filled afterwards.
+
+```
+HRESULT STDAPICALLTYPE AADBrokerMonitor_CoUnmarshalInterface_Hook(IStream *pStream, REFIID riid, LPVOID FAR *ppv)
+{
+    StreamObserver streamObs(pStream);
+    HRESULT hr = g_aadBrokerMonitor_CoUnmarshalInterface(&streamObs, riid, ppv);
+    if( SUCCEEDED(hr) && streamObs._iid != GUID_NULL )
+    {
+      //... <- to list interfaces put breakpoint here
+      // bp WorkplaceHook64!AADBrokerMonitor_CoUnmarshalInterface_Hook+curr_offset "?? streamObs._iid ; g"
+
+      winrt::com_ptr<winrt::Windows::Foundation::Collections::IVector<
+          winrt::Windows::Security::Authentication::Web::Provider::WebProviderTokenResponse>>
+          vectorWebProviderTokenResponse(*ppv, winrt::take_ownership_from_abi);
+      unsigned int size = 0;
+      hr = vectorWebProviderTokenResponse->get_Size(&size);
+```
+
+```
+Since beginning
+0f4accb1-d8f9-4011-ba37-2557925a78cf
+1d5bc3a2-a3ff-4517-bb16-25bf18ef7378
+1e18778b-8805-454b-9f11-468d2af1095a
+2166ee67-71df-4476-8394-0ced2ed05274
+29a3ab33-0fd7-44f5-9bff-c0b6c081fbfb
+2e5500b6-66ad-467f-abb5-022a64283d88
+2f13c006-a03a-5f69-b090-75a43e33423e
+6040ec14-6557-41f9-a3f7-b1cab7b42120
+60db2fa8-b705-4fde-a7d6-ebbb1891d39e
+6d5d2426-10b1-419a-a44e-f9c5161574e6
+6dc8c1be-86e5-4eef-8335-72cab53f06c8
+79b9d5f2-879e-4b89-b798-79e47598030c
+83140d1c-7e82-4cfb-96e4-f997cede7e10
+905a0fe0-bc53-11df-8c49-001e4fc686da
+9767060c-9476-42e2-8f7b-2f10fd13765c
+a3104ea9-a816-4fdc-860c-75408a04b686
+af86e2e0-b12d-4c6a-9c5a-d7aa65101e90
+b2b6814f-02c2-5b0c-9e14-159eb77f4462
+b32c133c-e4dd-43a0-b85c-b0e5717683c5
+ca4d975c-d4d6-43f0-97c0-0833c6391c24
+cd292360-2763-4085-8a9f-74b224a29175
+cf651713-cd08-4fd8-b697-a281b6544e2e
+d98fd14a-522a-4d59-b875-811e83919a9e
+f84b2c99-2f3d-5877-bf78-4f40f6bd25c0
+fefdc269-a317-4e33-9f50-c285c9c29725
+
+Typing password and OK interfaces (after)
+1d5bc3a2-a3ff-4517-bb16-25bf18ef7378
+29a3ab33-0fd7-44f5-9bff-c0b6c081fbfb
+2f13c006-a03a-5f69-b090-75a43e33423e
+a3104ea9-a816-4fdc-860c-75408a04b686
+af86e2e0-b12d-4c6a-9c5a-d7aa65101e90
+b2b6814f-02c2-5b0c-9e14-159eb77f4462
+f84b2c99-2f3d-5877-bf78-4f40f6bd25c0
+
+Stay signin window unmarshaled interfaces (after)
+1d5bc3a2-a3ff-4517-bb16-25bf18ef7378
+29a3ab33-0fd7-44f5-9bff-c0b6c081fbfb
+4e7ad5cf-390f-5ecd-b714-3c654b84cbba - IVector<Windows::Security::Authentication::Web::Provider::WebProviderTokenResponse>
+63a0a1e5-f8fe-4ba6-8508-caef1277dd35
+9d4966fa-dbd1-4799-a07f-6a5e1991bda4
+a3104ea9-a816-4fdc-860c-75408a04b686
+af86e2e0-b12d-4c6a-9c5a-d7aa65101e90
+b2b6814f-02c2-5b0c-9e14-159eb77f4462
+f84b2c99-2f3d-5877-bf78-4f40f6bd25c0
+```
+
+= Receiving help from Anton Kukoba
+:date: 2023-11-09
+:tags: venn
+
+Today Anton Kukoba sent me DM to help me about what I was doing. I gave the briefing about the mark SE idea and he told me about discovering some settings from TokenBroker. I gave him the stack trace from the key moments in AAD Broker signin and started again to investigate the storage how was found previously.
+
+Gathering more information about the stacks in the key moments of account registration:
+
+Stacks the moment the request is being unmarshaled the first time: stack_unmarshal_request.txt
+Stacks the moment user typed password and the window stay signed in is shown: stack_stay_signed_in.txt
+Stacks the moment account is being registed by WebAccountManager: stack_after_signin.txt
+
+Those are the folder with some info about the AAD Broker and TokenBroker detected by procmon:
+
+ - C:\ProgramData\Microsoft\Windows\AppRepository\Packages
+ - C:\Users\Administrator\AppData\Local\Packages\
+ - C:\Users\Administrator\AppData\Local\Microsoft\TokenBroker\Cache
+
+There are two registry hives, each one in the first two folders (or in some subfolder in them), and for the AppData there it was even some info with account in the name. But removing those values (by loading, writing, unloading and writing the file back) does not make different in Teams loading in an already signed in account. And in the AppRepository resides more settings from AAD Broker itself.
+
+From the last folder, TokenBroker Cache, there are json with the TokenResponse info. If deleted, when starting Teams again it regenerates. And regenerates. And again. And again. It is not a token update, but at the beginning, in the same minute, it generates 6 files with the semelhant content, encoded in UTF-16:
+
+```
+{
+  "TBDataStoreObject": {
+    "Header": {
+      "ObjectType": "TokenResponse",
+      "SchemaVersionMajor": 2,
+      "SchemaVersionMinor": 1
+    },
+    "ObjectData": {
+      "SystemDefinedProperties": {
+        "RequestIndex": {
+          "Type": "InlineBytes",
+          "IsProtected": false,
+          "Value": "p+Yk06gABYRnNQc1o8m032UC/Xk="
+        },
+        "Expiration": {
+          "Type": "InlineBytes",
+          "IsProtected": false,
+          "Value": "gCmpgUET2gE="
+        },
+        "Status": {
+          "Type": "InlineBytes",
+          "IsProtected": false,
+          "Value": "AAAAAA=="
+        },
+        "ResponseBytes": {
+          "Type": "InlineBytes",
+          "IsProtected": true,
+          "Value": "AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAMhL+0+uRMky7scIUexMmcwAAAAACAAAAAAAQZgAAAAEAACAAAABGRKSkKHyPzSL/3C1DzYxJ60LKIbbByEdSffIX9P3DJwAAAAAOgAAAAAIAACAAAAAHG4bTib7MIUyYMphkshJ04ycrOcc6cH15ygUHpu5+8qAAAAA4z/VKhwA26K7H9L0uPlRYa2R/iWEGc/FhsAZehVw3GDuJNS+XZbqgsXD4072WxrxVDuuPsX/aaxsu7m3QgSm4D4OunsF7LFxr9QM42NhFs8gfZqV+7dgsbpI5feON3Dco9XahSB2jXeOgiT88udTHLxnV76bJt7GkULNeFnwkbhFA6EQbAf1RB0+zzQlUIjxPkkUp8bshzLYiEetXhNSFQAAAAHvJYyJyI17mMZwoiBCNomhW55fjuXZPZvuYHLmQbFQRsuDNMYmcUSJpaS9BEfLvxq5NSn3AeXP00lhanf+2C04="
+        },
+        "ProviderPfn": {
+          "Type": "InlineString",
+          "IsProtected": false,
+          "Value": "Microsoft.AAD.BrokerPlugin_cw5n1h2txyewy"
+        }
+      },
+      "ProviderDefinedProperties": [],
+      "PerApplicationProperties": {}
+    }
+  }
+}
+```
+
+Looking to procmon stack the moment Teams write the new cache the object being received is a `WebTokenRequestResult`.
+
+```
+10 KernelBase.dll WriteFile
+11 Windows::Internal::Security::Authentication::TokenBroker::StoredObjectInfo::WriteNBytesToFile
+12 Windows::Internal::Security::Authentication::TokenBroker::StoredObjectInfo::WriteBytes
+13 WriteTokenCacheEntry
+14 SetCachedTokenResponses
+15 Windows::Internal::Security::Authentication::TokenBroker::AddWebTokenResponsesToCache
+16 Windows::Security::Authentication::Web::Core::CWebTokenRequestResultOperation::WriteTokenResponseCache
+17 Windows::Security::Authentication::Web::Core::CWebTokenRequestResultOperation::DoWork
+18 <lambda_b4251670e5671f0606e8a09c349557a5>::operator()<Windows::Internal::CMarshaledInterfaceResult<Windows::Security::Authentication::Web::Core::IWebTokenRequestResult> >
+19 Windows::Internal::COperationLambdaVar<1,<lambda_b4251670e5671f0606e8a09c349557a5>,Windows::Internal::CMarshaledInterfaceResult<Windows::Security::Authentication::Web::Core::IWebTokenRequestResult> >::Run
+20 Windows::Internal::AsyncOperation<Windows::Foundation::IAsyncOperation<Windows::Security::Authentication::Web::Core::WebTokenRequestResult *>,Windows::Foundation::IAsyncOperationCompletedHandler<Windows::Security::Authentication::Web::Core::WebTokenRequestResult *>,Windows::Internal::CMarshaledInterfaceResult<Windows::Security::Authentication::Web::Core::IWebTokenRequestResult>,Windows::Internal::ComTaskPoolHandler,Windows::Internal::INilDelegate,Microsoft::WRL::
+21 SHCore.dll WorkThreadManager::CThread::RunCurrentTaskUnderLock
+```
+
+Debugging AAD Broker reveals Teams write the first file into TokenBroker cache even before BackgroundTaskHost started, so it independs from it to get token saved somewhere.
+
+Teams write the first file with the same name and the content is very close to identical. Some parts of two base64 like entries are slightly different, what means it is not encrypted. Could it be just binary data.
+
+img/winmerge_tokenbroker_cache_first_entry.png
+2b49d43a9aa4f459172c6a85660fecd7b2dc2f54-orig.tbres
+2b49d43a9aa4f459172c6a85660fecd7b2dc2f54.tbres
+
+Perhaps the answer of where is the original storage could be from discovering who sent the `WebTokenRequestResult` object to Teams. Since the cache writing is made in a worker thread it needs to be investigated to other threads. The unmarshal hook could give us an answer.
+
+
+= Observing behavior when Teams populate TokenBroker cache
+:date: 2023-11-10
+:tags: venn
+
+Deleting the entire folder C:\Users\Administrator\AppData\Local\Packages\AAD_version, C:\Users\Administrator\AppData\Local\Microsoft\TokenBroker\Cache file and restart the computer, Teams started logged in normally. However, after some time, Teams ask to enter some email/password again (via AAD). What is odd is that you can close this window and Teams remains logged in.
+
+Analysing the WriteFile's to cache folder the first one has a different stack than the other. Also, the other are made by subprocesses from Teams, including Edge.
+
+### Stack for first file write to cache
+
+```
+0	FLTMGR.SYS	FltpPerformPreCallbacksWorker + 0x36c
+1	FLTMGR.SYS	FltpPassThroughInternal + 0xca
+2	FLTMGR.SYS	FltpPassThrough + 0x541
+3	FLTMGR.SYS	FltpDispatch + 0x8b
+4	ntoskrnl.exe	IofCallDriver + 0x55
+5	ntoskrnl.exe	IopSynchronousServiceTail + 0x34c
+6	ntoskrnl.exe	IopWriteFile + 0x23d
+7	ntoskrnl.exe	NtWriteFile + 0x996	
+8	ntoskrnl.exe	KiSystemServiceCopyEnd + 0x25	
+9	ntdll.dll	NtWriteFile + 0x14	
+10	KernelBase.dll	WriteFile + 0x76	
+11	Windows.Security.Authentication.Web.Core.dll	Windows::Internal::Security::Authentication::TokenBroker::StoredObjectInfo::WriteNBytesToFile + 0xd1	
+12	Windows.Security.Authentication.Web.Core.dll	Windows::Internal::Security::Authentication::TokenBroker::StoredObjectInfo::WriteBytes + 0x148	
+13	Windows.Security.Authentication.Web.Core.dll	WriteTokenCacheEntry + 0xcb	
+14	Windows.Security.Authentication.Web.Core.dll	SetCachedTokenResponses + 0x573	
+15	Windows.Security.Authentication.Web.Core.dll	Windows::Internal::Security::Authentication::TokenBroker::AddWebTokenResponsesToCache + 0x37c	
+16	Windows.Security.Authentication.Web.Core.dll	Windows::Security::Authentication::Web::Core::CWebTokenRequestResultOperation::WriteTokenResponseCache + 0x1d6f1	
+17	Windows.Security.Authentication.Web.Core.dll	Windows::Security::Authentication::Web::Core::CWebTokenRequestResultOperation::DoWork + 0x42e	
+18	Windows.Security.Authentication.Web.Core.dll	<lambda_b4251670e5671f0606e8a09c349557a5>::operator()<Windows::Internal::CMarshaledInterfaceResult<Windows::Security::Authentication::Web::Core::IWebTokenRequestResult> > + 0x7f	
+19	Windows.Security.Authentication.Web.Core.dll	Windows::Internal::COperationLambdaVar<1,<lambda_b4251670e5671f0606e8a09c349557a5>,Windows::Internal::CMarshaledInterfaceResult<Windows::Security::Authentication::Web::Core::IWebTokenRequestResult> >::Run + 0x19	
+20	Windows.Security.Authentication.Web.Core.dll	Windows::Internal::AsyncOperation<Windows::Foundation::IAsyncOperation<Windows::Security::Authentication::Web::Core::WebTokenRequestResult *>,Windows::Foundation::IAsyncOperationCompletedHandler<Windows::Security::Authentication::Web::Core::WebTokenRequestResult *>,Windows::Internal::CMarshaledInterfaceResult<Windows::Security::Authentication::Web::Core::IWebTokenRequestResult>,Windows::Internal::ComTaskPoolHandler,Windows::Internal::INilDelegate,Microsoft::WRL:: + 0x7a	
+21	SHCore.dll	WorkThreadManager::CThread::RunCurrentTaskUnderLock + 0x62	
+22	SHCore.dll	WorkThreadManager::CThread::ThreadProc + 0xf5	
+23	SHCore.dll	WorkThreadManager::CThread::s_ExecuteThreadProc + 0x18	
+24	SHCore.dll	<lambda_9844335fc14345151eefcc3593dd6895>::<lambda_invoker_cdecl> + 0x11	
+25	kernel32.dll	BaseThreadInitThunk + 0x14	
+26	ntdll.dll	RtlUserThreadStart + 0x21	
+```
+
+### Stack for subsequent file writes to cache
+
+```
+0	FLTMGR.SYS	FltpPerformPreCallbacksWorker + 0x36c	
+1	FLTMGR.SYS	FltpPassThroughInternal + 0xca	
+2	FLTMGR.SYS	FltpPassThrough + 0x541	
+3	FLTMGR.SYS	FltpDispatch + 0x8b	
+4	ntoskrnl.exe	IofCallDriver + 0x55	
+5	ntoskrnl.exe	IopSynchronousServiceTail + 0x34c	
+6	ntoskrnl.exe	IopWriteFile + 0x23d	
+7	ntoskrnl.exe	NtWriteFile + 0x996	
+8	ntoskrnl.exe	KiSystemServiceCopyEnd + 0x25	
+9	ntdll.dll	NtWriteFile + 0x14	
+10	KernelBase.dll	WriteFile + 0x76	
+11	Windows.Security.Authentication.Web.Core.dll	Windows::Internal::Security::Authentication::TokenBroker::StoredObjectInfo::WriteNBytesToFile + 0xd1	
+12	Windows.Security.Authentication.Web.Core.dll	Windows::Internal::Security::Authentication::TokenBroker::StoredObjectInfo::WriteBytes + 0x148	
+13	Windows.Security.Authentication.Web.Core.dll	WriteTokenCacheEntry + 0xcb	
+14	Windows.Security.Authentication.Web.Core.dll	SetCachedTokenResponses + 0x573	
+15	Windows.Security.Authentication.Web.Core.dll	Windows::Internal::Security::Authentication::TokenBroker::AddWebTokenResponsesToCache + 0x37c	
+16	Windows.Security.Authentication.Web.Core.dll	Windows::Security::Authentication::Web::Core::CWebTokenRequestResultOperation::WriteTokenResponseCache + 0x1d6f1	
+17	Windows.Security.Authentication.Web.Core.dll	Windows::Security::Authentication::Web::Core::CWebTokenRequestResultOperation::DoWork + 0x42e	
+18	Windows.Security.Authentication.Web.Core.dll	<lambda_b4251670e5671f0606e8a09c349557a5>::operator()<Windows::Internal::CMarshaledInterfaceResult<Windows::Security::Authentication::Web::Core::IWebTokenRequestResult> > + 0x7f	
+19	Windows.Security.Authentication.Web.Core.dll	Windows::Internal::COperationLambdaVar<1,<lambda_b4251670e5671f0606e8a09c349557a5>,Windows::Internal::CMarshaledInterfaceResult<Windows::Security::Authentication::Web::Core::IWebTokenRequestResult> >::Run + 0x19	
+20	Windows.Security.Authentication.Web.Core.dll	Windows::Internal::AsyncOperation<Windows::Foundation::IAsyncOperation<Windows::Security::Authentication::Web::Core::WebTokenRequestResult *>,Windows::Foundation::IAsyncOperationCompletedHandler<Windows::Security::Authentication::Web::Core::WebTokenRequestResult *>,Windows::Internal::CMarshaledInterfaceResult<Windows::Security::Authentication::Web::Core::IWebTokenRequestResult>,Windows::Internal::ComTaskPoolHandler,Windows::Internal::INilDelegate,Microsoft::WRL:: + 0x7a	
+21	SHCore.dll	SHTaskPoolQueueTask + 0x1f3	
+22	Windows.Security.Authentication.Web.Core.dll	Windows::Internal::AsyncOperation<Windows::Foundation::IAsyncOperation<Windows::Security::Authentication::Web::Core::WebTokenRequestResult *>,Windows::Foundation::IAsyncOperationCompletedHandler<Windows::Security::Authentication::Web::Core::WebTokenRequestResult *>,Windows::Internal::CMarshaledInterfaceResult<Windows::Security::Authentication::Web::Core::IWebTokenRequestResult>,Windows::Internal::ComTaskPoolHandler,Windows::Internal::INilDelegate,Microsoft::WRL:: + 0x86	
+23	Windows.Security.Authentication.Web.Core.dll	Microsoft::WRL::AsyncBase<Windows::Foundation::IAsyncOperationCompletedHandler<Windows::Security::Authentication::Web::Core::WebTokenRequestResult *>,Microsoft::WRL::Details::Nil,1,Microsoft::WRL::AsyncOptions<-1,0,&GUID_CAUSALITY_WINDOWS_PLATFORM_ID,2> >::Start + 0x7e	
+24	Windows.Security.Authentication.Web.Core.dll	Windows::Security::Authentication::Web::Core::CWebAuthenticationCoreManager::GetTokenSilentlyAsync + 0x807	
+25	Windows.Security.Authentication.Web.Core.dll	Windows::Security::Authentication::Web::Core::CCoreFindAllAccountsOperation::DoWork + 0x2a7	
+26	Windows.Security.Authentication.Web.Core.dll	<lambda_0fd7753657fb698eab3c8bdbf3bc08b4>::operator()<Windows::Internal::CMarshaledInterfaceResult<Windows::Security::Authentication::Web::Core::IFindAllAccountsResult> > + 0x7f	
+27	Windows.Security.Authentication.Web.Core.dll	Windows::Internal::COperationLambdaVar<1,<lambda_0fd7753657fb698eab3c8bdbf3bc08b4>,Windows::Internal::CMarshaledInterfaceResult<Windows::Security::Authentication::Web::Core::IFindAllAccountsResult> >::Run + 0x19	
+28	Windows.Security.Authentication.Web.Core.dll	Windows::Internal::AsyncOperation<Windows::Foundation::IAsyncOperation<Windows::Security::Authentication::Web::Core::FindAllAccountsResult *>,Windows::Foundation::IAsyncOperationCompletedHandler<Windows::Security::Authentication::Web::Core::FindAllAccountsResult *>,Windows::Internal::CMarshaledInterfaceResult<Windows::Security::Authentication::Web::Core::IFindAllAccountsResult>,Windows::Internal::ComTaskPoolHandler,Windows::Internal::INilDelegate,Microsoft::WRL:: + 0x7a	
+29	SHCore.dll	WorkThreadManager::CThread::RunCurrentTaskUnderLock + 0x62	
+30	SHCore.dll	WorkThreadManager::CThread::ThreadProc + 0xf5	
+31	SHCore.dll	WorkThreadManager::CThread::s_ExecuteThreadProc + 0x18	
+32	SHCore.dll	<lambda_9844335fc14345151eefcc3593dd6895>::<lambda_invoker_cdecl> + 0x11	
+33	kernel32.dll	BaseThreadInitThunk + 0x14	
+34	ntdll.dll	RtlUserThreadStart + 0x21	
+```
+
+Debugging the first write I could follow some key methods in CWebTokenRequestResultOperation, responsible for make this write somewhere.
+
+```
+c:\Tools\DbgTools\windbg.exe C:\Users\Administrator\AppData\Local\Microsoft\Teams\current\Teams.exe
+sxe ld:Windows.Security.Authentication.Web.Core.dll
+bp Windows_Security_Authentication_Web_Core!Windows::Security::Authentication::Web::Core::CWebTokenRequestResultOperation::ApplyConnectedAccountLogic
+bp Windows_Security_Authentication_Web_Core!Windows::Security::Authentication::Web::Core::CWebTokenRequestResultOperation::DoWork
+bp Windows_Security_Authentication_Web_Core!Windows::Security::Authentication::Web::Core::CWebTokenRequestResultOperation::InitializeOperationData
+bp Windows_Security_Authentication_Web_Core!Windows::Security::Authentication::Web::Core::CWebTokenRequestResultOperation::TryExtension
+bp Windows_Security_Authentication_Web_Core!Windows::Security::Authentication::Web::Core::CWebTokenRequestResultOperation::TryCache
+bp Windows_Security_Authentication_Web_Core!Windows::Security::Authentication::Web::Core::CWebTokenRequestResultOperation::CWebTokenRequestResultOperation
+bp Windows_Security_Authentication_Web_Core!Windows::Security::Authentication::Web::Core::CWebTokenRequestResultOperation::ApplyAccountSwitchStatus
+bp Windows_Security_Authentication_Web_Core!Windows::Security::Authentication::Web::Core::CWebTokenRequestResultOperation::WriteTokenResponseCache
+bp Windows_Security_Authentication_Web_Core!Windows::Security::Authentication::Web::Core::CWebTokenRequestResultOperation::UpdateRequestWithAccountControlWebAccount
+bp Windows_Security_Authentication_Web_Core!Windows::Security::Authentication::Web::Core::CWebTokenRequestResultOperation::ValidateProviderAndAccountsMatch
+bp Windows_Security_Authentication_Web_Core!Windows::Security::Authentication::Web::Core::CWebTokenRequestResultOperation::RecordResultAndCallerIdentity
+bp Windows_Security_Authentication_Web_Core!Windows::Security::Authentication::Web::Core::CWebTokenRequestResultOperation::TrySilent
+bp Windows_Security_Authentication_Web_Core!Windows::Security::Authentication::Web::Core::CWebTokenRequestResultOperation::TryUi
+bp Windows_Security_Authentication_Web_Core!Windows::Security::Authentication::Web::Core::CWebTokenRequestResultOperation::LaunchComponentUI
+bp Windows_Security_Authentication_Web_Core!Windows::Security::Authentication::Web::Core::CWebTokenRequestResultOperation::OnCancel
+bp Windows_Security_Authentication_Web_Core!Windows::Security::Authentication::Web::Core::CWebTokenRequestResultOperation::InitializeTokenBrokerInternal
+```
+
+Stack:
+
+```
+# Child-SP          RetAddr               Call Site
+00 000000ae`291fc238 00007ffb`076f2e52     Windows_Security_Authentication_Web_Core!Windows::Security::Authentication::Web::Core::CWebTokenRequestResultOperation::CWebTokenRequestResultOperation
+01 000000ae`291fc240 00007ffb`087da342     Windows_Security_Authentication_Web_Core!Windows::Security::Authentication::Web::Core::CWebAuthenticationCoreManager::GetTokenSilentlyAsync+0x1d2
+02 000000ae`291fc5e0 00007ffb`087d7375     wam+0xa342
+03 000000ae`291fc610 00007ffb`087dcdde     wam+0x7375
+04 000000ae`291fc8b0 00007ffb`087dc1d8     wam+0xcdde
+05 000000ae`291fc970 00007ff6`d5b1340e     wam+0xc1d8
+06 000000ae`291fc9b0 00007ff6`d651e62e     electron!napi_is_detached_arraybuffer+0x21e
+07 000000ae`291fca40 00007ff6`57ecca3c     electron!v8::EmbedderStateScope::~EmbedderStateScope+0x1975e
+```
+
+Some interfaces used in method `DoWork`:
+
+```
+3b043d7e-726f-41e2-8933-f968f503b854 IID___x_Windows_CInternal_CSecurity_CCredentials_CIWebAccountProviderSystemInformation	
+c997b7de-ff59-4392-bcde-50ea5ffc1e1c IID___x_Windows_CInternal_CSecurity_CCredentials_CIWebAccountProviderUserContext
+68c6a1b9-de39-42c3-8d28-bf40a5126541 IID_ICallingProcessInfo
+0450ce77-af0d-40ac-93fd-1e5d48c89419 <unknown>
+```
+
+At first I found that the StateRepository ("Windows.Internal.StateRepository.Package") could be the responsible for record the settings, because its string is used, but Windows Internals clarify this component as the maintainer of UWP apps settings, not specific to users.
+
+Following the methods from CWebTokenRequestResultOperation this is the order for the first write to cache:
+
+```
+CWebTokenRequestResultOperation::CWebTokenRequestResultOperation:
+CWebTokenRequestResultOperation::InitializeOperationData:
+CWebTokenRequestResultOperation::DoWork:
+CWebTokenRequestResultOperation::UpdateRequestWithAccountControlWebAccount:
+CWebTokenRequestResultOperation::ApplyConnectedAccountLogic:
+CWebTokenRequestResultOperation::TryExtension:
+CWebTokenRequestResultOperation::ValidateProviderAndAccountsMatch:
+CWebTokenRequestResultOperation::TryCache:
+CWebTokenRequestResultOperation::TryExtension:
+CWebTokenRequestResultOperation::TrySilent:
+CWebTokenRequestResultOperation::InitializeTokenBrokerInternal:
+CWebTokenRequestResultOperation::TryUi:
+CWebTokenRequestResultOperation::ApplyAccountSwitchStatus:
+CWebTokenRequestResultOperation::WriteTokenResponseCache:
+writes json into TokenBroker cache
+CWebTokenRequestResultOperation::RecordResultAndCallerIdentity:
+```
+
+
+= Cache files data analysis and TokenBroker communication
+:date: 2023-11-13
+:tags: venn
+
+Analysing a few days after in a signed in environment (Teams) now every time I open Teams it exibits the login window with the DLP authentication page. If I close the window Teams exits with the same error as in the first signin. Nevertheless, it generates a single file into TokenBroker cache. Sounds like it is in the signed in state for DLP user, but token expired.
+
+```
+{
+   "TBDataStoreObject":{
+      "Header":{
+         "ObjectType":"TokenResponse",
+         "SchemaVersionMajor":2,
+         "SchemaVersionMinor":1
+      },
+      "ObjectData":{
+         "SystemDefinedProperties":{
+            "RequestIndex":{
+               "Type":"InlineBytes",
+               "IsProtected":false,
+               "Value":"K0nUOpqk9FkXLGqFZg/s17LcL1Q="
+            },
+            "Expiration":{
+               "Type":"InlineBytes",
+               "IsProtected":false,
+               "Value":"vTmzDUMW2gE="
+            },
+            "Status":{
+               "Type":"InlineBytes",
+               "IsProtected":false,
+               "Value":"AwAAAA=="
+            },
+            "ResponseBytes":{
+               "Type":"InlineBytes",
+               "IsProtected":true,
+               "Value":"AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAMhL+0+uRMky7scIUexMmcwAAAAACAAAAAAAQZgAAAAEAACAAAACKd75AwwG0PKpV/u5YiUW7T5ki9c6t8056xDK3tIimGgAAAAAOgAAAAAIAACAAAAC7rqVvjWsHwtQ0oD94oAyZXFBKk6UzGLDp5ttmkMUXn1ABAACpg1SDnx5YDvck3mYcRDgwPw7+A9gZ67zIiMzAd5CcXgWgi5qFVMANxhMFikS9AHuyQmRqu1x+4vETJYADbyK/S/SdeGasw2+Bd8O40bjpjwMs3KJhirP603ekJGlL8DYdNZHXDne4gUKcNbH1vdOGY/LG7M8WK5akLdJ5PpFPaSUsuzAt3gJmXEBRoF3+QKPDnPy4OL3stQCvqyya4RarB0s28KiownqE8WKdR5BDvnMHu1jq1OZzoYRNdWv86d0GFBcdO875xRRN1eZQkA5xToFYuZWWNIbi/64PD3orStO2gy323D1C15KvyU422YeRrRw8MGpKD2gNw3KYEX/2WppB5FWqu/b053dREm/YfL4NmKgb/PIVv7SY82+NBxPRhQkpnXzr3T3Otrd2m2/q1+5HYkmfGuq0ETYTGRp1yTiKetaHkVttJYAsvbhGiA5AAAAA1mlXDFHC6bxr0gtRHhZLY6trML/FjoUrKcTcD/VM+CVeqCR4aK96kPtcoZFT7NrrQIVXsoRQz99R7Nfvg78Eaw=="
+            },
+            "ProviderPfn":{
+               "Type":"InlineString",
+               "IsProtected":false,
+               "Value":"Microsoft.AAD.BrokerPlugin_cw5n1h2txyewy"
+            }
+         },
+         "ProviderDefinedProperties":[
+            
+         ],
+         "PerApplicationProperties":{
+            
+         }
+      }
+   }
+}
+```
+
+Going to login again to go back to previous state, but going to save this state to analyze when a token could be possible be expired and where this info comes from.
+
+Observed the major version for the object AppAccountInformation changed from 2 to 3 between logins, so the cause of asking for a new login could be version update?
+
+Anyway, debugging the TryCache method traces to `Windows::Internal::Security::Authentication::TokenBroker::CheckCacheForWebTokenResponses` and related marshal calls probably to some object in TokenBroker service (`svchost -TokenBroker`).
+
+Starting to debug TokenBroker to find how the cache is acquired. Because Teams is responsible to write the `TokenBroker/Cache` files I put breakpoints in serialize methods and got triggered.
+
+```
+0:008> bp tokenbroker!Windows::Internal::Security::Authentication::TokenBroker::SerializeWebTokenResponsesWithStatus
+0:008> bp tokenbroker!Windows::Internal::Security::Authentication::TokenBroker::DeSerializeWebTokenResponsesWithStatus
+
+ # Child-SP          RetAddr               Call Site
+00 00000002`d67fdae8 00007ffb`1002a1f6     tokenbroker!Windows::Internal::Security::Authentication::TokenBroker::DeSerializeWebTokenResponsesWithStatus
+01 00000002`d67fdaf0 00007ffb`10032a8c     tokenbroker!GetTokenSilentlyHelper+0x56a
+02 00000002`d67fdea0 00007ffb`23c1b4b3     tokenbroker!Windows::Internal::Security::Authentication::Web::CTokenBrokerInternalFactory::GetTokenSilentlyAndPrimeSSOWithBgInfo+0x6c
+03 00000002`d67fdf10 00007ffb`23c7e77b     RPCRT4!Invoke+0x73
+```
+
+However, there are too much subcalls to analyze yet. Seems as if the cache is in memory. Need further analysis.
