@@ -13329,3 +13329,12 @@ Starting to debug TokenBroker to find how the cache is acquired. Because Teams i
 ```
 
 However, there are too much subcalls to analyze yet. Seems as if the cache is in memory. Need further analysis.
+
+
+= Fix creation of WebAccounts into registry for "HKLM".
+:date: 2023-11-14
+:tags: venn
+
+After the standup meeting today my next task was to fix the situation where the web accounts can't be recorded into HKLM registry key. Analysing the issue into the Api I realized by the name of subkeys involved inside a container session that the webaccounts for a specific session should reside into the KKEY_USERS hive and inside where should be a per user (and per session) subkey, with the User suffix. Each user (and session) must keep a record of which webaccounts were registered inside Workplace.
+
+img/webaccounts_registered_by_container.png
