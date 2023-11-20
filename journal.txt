@@ -13028,8 +13028,8 @@ Stacks the moment account is being registed by WebAccountManager: stack_after_si
 Those are the folder with some info about the AAD Broker and TokenBroker detected by procmon:
 
  - C:\ProgramData\Microsoft\Windows\AppRepository\Packages
- - C:\Users\Administrator\AppData\Local\Packages\
- - C:\Users\Administrator\AppData\Local\Microsoft\TokenBroker\Cache
+ - C:\Users\User\AppData\Local\Packages\Microsoft.AAD.BrokerPlugin_hash\AC\TokenBroker\Accounts
+ - C:\Users\User\AppData\Local\Microsoft\TokenBroker\Cache
 
 There are two registry hives, each one in the first two folders (or in some subfolder in them), and for the AppData there it was even some info with account in the name. But removing those values (by loading, writing, unloading and writing the file back) does not make different in Teams loading in an already signed in account. And in the AppRepository resides more settings from AAD Broker itself.
 
@@ -13347,3 +13347,249 @@ img/webaccounts_registered_by_container.png
 Fixed the [PR from ROADMAP-69311] about the AadBrokerMonitor class and some minor as log level and sonar warnings. Merged directly to the PR branch.
 
 [PR from ROADMAP-69311]: https://tfs.os33.net/DefaultCollection/Portal/_git/Workplace.Container.Windows/pullrequest/29424
+
+
+# How to debug Microsoft.AAD.BrokerPlugin.exe
+:date: 2023-11-16
+:tags: venn
+
+Copy the Debugging Tools folder where is windbg.exe located.
+
+Use PLMDebug in the same Debugging Tools folder to [configure debugging] AAD Broker plugin app using WinDbg. In order to do that you need to get the package full name for AAD Broker plugin.
+
+```
+# open powershell prompt
+Get-AppxPackage *AAD*
+# copy PackageFullName value
+# enable debug
+<DebuggingToolsPath>\plmdebug /enableDebug Microsoft.AAD.BrokerPlugin_<PackageFullName> <DebuggingToolsPath>\windbg.exe
+# disable debug
+<DebuggingToolsPath>\plmdebug /disableDebug Microsoft.AAD.BrokerPlugin_<PackageFullName> <DebuggingToolsPath>\windbg.exe
+```
+
+Prepare to debug all processes in this same package: BackgroundTaskHost.exe, Microsoft.AAD.BrokerPlugin.exe and RuntimeBroker.exe.
+
+[configure debugging]: https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/debugging-a-uwp-app-using-windbg
+
+
+= Documenting AAD internals
+:date: 2023-11-17
+:tags: venn
+
+In order to give some structure to the tons of comments in this issue and to enable parallel efforts without rework we need to document and specify some required fields in this long process discovery, such as:
+
+ - if relevant environment (OS version + configs);
+ - statement or speculation (what was concluded);
+ - evidence (what was observed);
+ - if statement steps to reproduce (anyone following should be able to see the same evidence).
+
+I am starting to describe some and together with what we have in Confluence start to open in details covered into the comments bellow. WIP.
+
+Statement: AAD authentication functions are using REST APIs with OAuth access tokens.
+Evidence: AAD-Internals project is implemented based on this premisse.
+Reproduce: Use AAD-Internals function Get-AccessToken.
+
+Speculation: TokenBroker service (`svchost.exe -TokenBroker`) redirects authentication to REST APIs and keep available to system services using notification API and TokenBroker interface.
+Evidence #1: Deleting all cache files kept by client app in TokenBroker cache files and restarting the computer does not avoid the client app to start with credentials previously entered.
+Evidence #2: WAM service adds a new entry to the account signed in only from client app.
+Evidence #3: TokenBroker has some part in code calling notification API (snippet needed).
+Reproduce: Signin for first time using some office client app. After that delete files from the path `C:\Users\<user>\AppData\Local\Packages\Microsoft.AAD.BrokerPlugin_<hash>\AC\TokenBroker\Accounts` and `C:\Users\<user>\AppData\Local\Microsoft\TokenBroker\Cache`. Restart the computer. Load the same client app without entering the credentials again.
+
+Statement: AAD Broker process handle multiple login windows at same time.
+Evidence: It is possible to open two different office apps (inside or outside SE) and the same AAD Broker plugin process will keep two window threads with two signin windows showing.
+Reproduce: Follow the evidence operation until the second app login, keeping the first one waiting for credentials.
+
+Statement: Dsregcmd differentiates among identities "AzureAd" and "MicrosoftAccount" by the client id.
+Evidence: If disassembled in dsreg.dll used in dsregcmd.exe (code line needed).
+Reproduce: Disassembly the same code using some tool.
+
+Statement: Applications keep track of your identify.
+Evidence: Office uses `HKCU\Microsoft\Office\...\Common\Identity\Identities` to record details such as email address, name, profile.
+Reproduce: Signin to Office and look to this registry key.
+
+Speculation: WAMBroker's AADPlugin caches token among multiple targets.
+Evidence #1: In [MSAL TokenCache code] there are multiple caches being used.
+Evidence #2: Deleting all registry values for office apps identities does nothing, they still persist in Word, and then get recreated.
+Reproduce: Need to map dotnet code to system execution.
+
+Speculation: WAMBroker's AADPlugin should use UWP AAD BrokerPlugin at some point to acquire new tokens and interactive use.
+Evidence: All office apps relies on AADBrokerPlugin to first authenticate throught TokenBroker service. Shouldn't WAM service do the same?
+Reproduce: Add new account in Settings and observe instance of AAD BrokerPlugin being created.
+
+Speculation: Credential Manager ("web accounts") works by using `<wincred.h>` enumerate API (CredEnumerateW).
+Evidence: Needed.
+
+Speculation: TokenBroker is a service that relies on UserManager: It provides info on users, implements WAM cache, etc.
+Evidence: Needed.
+
+Speculation: AAD BrokerPlugin identifies work/school/organization accounts with the help of WAM.
+Evidence: Needed.
+
+Speculation: All the network request to Azure AD and UI for login in with accounts lives inside the AAD.BrokerPlugin app.
+Evidence: Needed.
+
+Speculation: Teams logging in does not work if the service named Windows Live ID (wlidsvc) is turned off.
+Evidence: Teams hangs in some screen (need detail).
+Reproduce: Stop the service mentioned, start Teams and try to login in.
+
+Speculation: Teams depends on WWAHost when you select what kind of account you want to register (aadauthhelper.dll is involved).
+Evidence: If we stop the networking thread in WWAHost Teams hangs in "loading teams" splashscreen.
+Reproduce: Debug WWAHost process and put bps in WS2_32!send and WS2_32!recv and see what happens when registering a new account in Teams.
+
+Speculation: In some component, when executing `TokenProviderExecutor::GetWebAccountForIdAsync` the new account is added to Settings.
+Evidence: Debugging the code step by step after the wait returns the account is added.
+Reproduce: Need component to debug and steps (adding new account in Settings?).
+
+Speculation: The adding of accounts happens in WWAHost.exe function AddWebAccountForUserAsync inside MicrosoftAccount.TokenProvider.Core.dll.
+Evidence: NOP-ing this function prevents the accounts from being added to settings.
+Reproduce: Follow evidence instructions.
+
+Speculation: When login in using client app and AAD Broker Plugin, the AADBroker use notification system to trigger WWAHost, that adds the new account to Settings. This could explain why both are related and nonrelated at the same time during this investigation.
+Evidence: None.
+Reproduce: Avoid AAD Broker to trigger whatever it is triggering when after login in in the window to use credentials system wide choose yes.
+
+Statement: Teams uses Windows.Security.Authentication.Web.Core.dll!*FindAllAccountsWithClientIdAsync to show accounts to potentially pick from, while SystemSettings.exe uses UserDataAccountApis.dll!*UserDataAccountStoreImpl::FindAccountsAsync. Must be a common ground they share.
+Evidence: Debugging session with WinDbg that triggers these bps.
+Reproduce: Debugging session.
+
+Statement: MicrosoftAccount.TokenProvider.Core.dll uses WebAccountManager::AddWebAccountWithScopeAndMapForUserAsync, the same function we hook now to implement accounts filtering. This is very familiar with SystemSettings logic. They must share this logic.
+Evidence: Debugging session with bps into this vtable.
+Reproduce: Debugging session.
+
+Statement: Not all components use Windows.Security.Authentication.Web.Core.dll. SystemSettings doesn't. Instead, it uses UserDataAccountApis.dll!UserDataAccountStoreImpl. There is a method add_StoreChanged that registers an event handler on adding accounts.
+Evidence: Debugging SystemSettings or static analysis? Need to fill method used.
+Reproduce: Lack discovery method.
+
+Statement: Whenever an account is registered outside SystemSettings Windows.Security.Web.Authentication.Web.Core.dll is loaded, but not before.
+Evidence: Monitoring DLL load and listing accounts in SystemSettings does not show this DLL loading, but when registering in some Office app or Teams does it.
+Reproduce: Register a new account external to SystemSettings monitoring DLL loading.
+
+Speculation: The account list is maintained in SettingsHandlers_UserAccount.dll!SystemSettings::UserAccount::WebAccountList. It has functions such as OnAccountAdded, AddAcount, etc.
+Evidence: Static disassembly? Need to detail.
+Reproduce: Detail steps to construct and trigger this list.
+
+Statement: Windows.Security.Web.Authentication.Web.Core.dll is not responsible in SystemSettings to load the WebAccountList.
+Evidence: This DLL is never loaded before an external source registers a new account.
+Reproduce: Follow the registration new account steps monitoring DLL loading in SystemSettings.exe.
+
+Statement: Word, unlike Teams, does not offer to pick existing account; you need to explicitly sign in.
+Evidence: Open Word without registered account does not provides account list to pick.
+Reproduce: Trivial.
+
+Statement: It is possible to be logged in to Office apps and Teams without a PRT. Only joined devices to organization gain a PRT.
+Evidence: Teams signed in without a PRT shown in `dsregcmd /status` command.
+Reproduce: Register an account throught Office or Teams, but do not opt in to stay signed in for all apps window. Use evidence command.
+
+Statement: [PRT are stored in LSASS]. There is an [attack to get it], BTW.
+Evidence: Need to fill test.
+Reproduce: Need to fill.
+
+Env: Windows 10 22H2.
+Statement: WWAHost is not always started when registering a new account via AAD Broker.
+Evidence: Registered new account using Teams and WWAHost process was not started.
+Reproduce: Follow the evidence.
+
+Statement: WWAHost is a host for UWP apps that don't produce executable files.
+Evidence: Accordingly to Windows Internals, "UWP apps can produce normal executables, just like desktop apps. Wwahost.exe (%SystemRoot%\ System32\wwahost.exe) is used to host HTML/JavaScript-based UWP apps, as those produce a DLL, not an executable.".
+Reproduce: Must run some UWP app that does not contain an EXE file.
+
+Statement: Microsoft.AAD.BrokerPlugin.exe does maintain an ALPC to LSASS during activation.
+Evidence: Kernel debugger output of `!alpc /lpp <EPROCESS_address>` shows one port created with name "lsasspirpc" to process "lsass.exe".
+Reproduce: Start Windows on kernel debugger, register new account. When on signin window started by AAD BrokerPlugin use commands `!process 0 0 Microsoft.AAD.BrokerPlugin.exe` to get EPROCESS address and then the above command to list alpc ports.
+
+Statement: Three processes are responsible for the AAD BrokerPlugin package: BackgroundTaskHost.exe, RuntimeBroker.exe and Microsoft.AAD.BrokerPlugin.exe. They will be started when the app is being activated in different phases.
+Evidence: List processes in task manager during use some app that needs a WebAccount or is registering a new one.
+Reproduce: Follow the evidence.
+
+Statement: AAD BrokerPlugin keeps a trace in Event Viewer.
+Evidence: Open Event Viewer and browse to Applications and Services, Microsoft, Windows, AAD.
+Reproduce: Register a new account and look into evidence to observe new entries.
+
+Statement: AAD BrokerPlugin outputs events in debugger output.
+Evidence: Debug AAD BrokerPlugin and look into output debugger when registering a new account.
+Reproduce: Follow the evidence.
+
+Statement: SystemSettings.exe uses Windows.Internal.Management.dll or MicrosoftAccountTokenProvider.dll to add new registered accounts.
+Evidence: Process Monitor showing the load of those DLLs just around the account list being updated.
+Reproduce: Register new account with Process Monitor looking into DLL loading to this process.
+
+Statement: AAD saves PRT into a cache inside the AAD Broker registry hive.
+Evidence: Process Monitor showing this write with the symbol AAD.Core.dll!ClientCache::SavePRT in the stack.
+Reproduce: Register new account with Process Monitor looking to registry writes.
+
+Statement: AAD BrokerPlugin uses DmEnrollmentSvc (Device Management Enrollment Service) only when the policy BlockAADWorkplaceJoin is not set. This is a start/stop service. However, when used the SystemSettings communicates with it by its proxy Windows.Internal.Management.dll to update its accounts list.
+Evidence #1: When registering an account AAD BrokerPlugin starts and after signin the service DmEnrollmentSvc starts and stops. If disabled the signin process hangs for at least more than 10 min.
+Evidence #2: After register a new account without BlockAADWorkplaceJoin policy set and monitoring DLL load for SystemSettings, it loads the proxy for DmEnrollmentSvc service.
+Reproduce: Registering a new account and following the evidence.
+
+Statement: AAD BrokerPlugin calls LSASS by SspiCli!LsaLookupAuthenticationPackage. This logic is inside AAD.Core.dll. The package being called is "CloudAP".
+Evidence: Debug session on registering user showed AAD.Core calling LsaCallAuthenticationPackage.
+Reproduce: Register new account and follow the evidence.
+
+Statement: Teams writes a file called "storage.json". Inside we can get the web account id, among UI settings.
+Evidence: The file itself after monitoring its creation.
+Reproduce: Need to fill the steps.
+
+Statement: Teams writes web account id in registry also.
+Evidence: The subkey for Teams inside SOFTWARE.
+Reproduce: Just register a new account and look into.
+
+End of July investigation.
+
+[MSAL TokenCache code]: https://github.com/AzureAD/microsoft-authentication-library-for-dotnet/blob/1402da991af9cca2670c87c6de7179efc6ea6f27/src/client/Microsoft.Identity.Client/TokenCache.ITokenCacheInternal.cs#L215 
+[PRT are stored in LSASS]: https://github.com/gentilkiwi/mimikatz/blob/master/mimikatz/modules/dpapi/packages/kuhl_m_dpapi_cloudap.c
+[attack to get it]: https://blog.netwrix.com/2023/05/13/pass-the-prt-overview/
+
+
+= Documenting AAD internals
+:date: 2023-11-19
+:tags: venn
+
+Statement: Excel and Work relie on registry keys to keep cache from accounts in several subkeys in HKCU and in file system in AppData (all listed on comments in the spike issue). If we delete those entries the account list changes, but eventually the cache is reconstructed somehow.
+Evidence: Delete some account from aforementioned subkeys and observe the accounts lists in Excel and Word.
+Reproduce: Follow evicence.
+
+Statement: UserDeviceRegistration.dll is loaded by AAD BrokerPlugin during device join. Relevant methods called are SaveDeviceTokenProperties and SaveWorkplaceTokenProperties. However, as the docs said, PRT is only available to devices already joined to AAD.
+Evidence: Debugging session with bps.
+Reproduce: Choose option stay signed in to other apps and debug this part.
+
+Statement: OfficeC2RClient is responsible for recreating registry cache for Office applications.
+Evidence: Need to fill.
+Reproduce: Need to fill.
+
+Speculation: Account leaking back and forth is all based on BlockAADWorkplaceJoin policy.
+Evidence: Need to prove first.
+Reproduce: Need to prove first.
+
+Statement: BlockAADWorkplaceJoin policy can be writen in registry just after AAD Broker plugin process started and it will be applied.
+Evidence: Set the registry on load of WorkplaceHook and the stay signed in on all apps window didn't show.
+Reproduce: Need to stop execution of AAD Broker plugin after started, set the policy and continue execution. After login in with credentials the signed in window will not show.
+
+Statement: AAD Broker plugin process is activated as the result of client app instanciating an object WebTokenRequestResultOperation and calling its method TryUi. This is a remote call. It first uses WAM (TokenBroker) service and then the AAD Broker is activated.
+Evidence: During debug session this call starts the process.
+Reproduce: Debug client app and put bp in method mentioned.
+
+Statement: When starting Teams make use of tokenbroker.dll functions Web::GetWebAccountProviderAndGuidFromLSA, GetDefaultSignInAccount, GetAllProviderAccountsFromDataStore, StoredObjectInfoWithCache::ReadAllObjectIdsForTypeFromCache, CWamObjectStore::GetEntry.
+Evidence: Debugging session with bps.
+Reproduce: Start Teams in debug session with bp into these functions.
+
+Statement: Before any user input there is an IPC communication with LSASS looking for account info (not the Windows logged in user).
+Evidence: By starting some client component I guess (need to fill) Procmon shows lsass.exe opening subkeys related to the account being signed in at HKLM\SAM\SAM\DOMAINS subkeys Builtin and Account.
+Reproduce: Need to fill.
+
+Statement: Returning error on activation of WamProviderRegistration we avoid System.Settings, despite this being an undocumented behavior. Important: The same does not occur to Word or Excel.
+Evidence: When using Teams manipulate inside SE the return for RoGetActivationFactory for this class must avoid System.Settings.
+Reproduce: Start Teams and return error in RoGetActivationFactory for WamProviderRegistration.
+
+Statement: A WebTokenRequest with in its WebTokenRequestPromptType equals ForceAuthentication can force the user to always enter the password regardless it is already signed in.
+Evidence: MS documentation about [WebTokenRequestPromptType].
+Reproduce: Assuming it is true. Can be used just in case we need to forget the cache for some reason.
+
+Statement: AAD Broker makes the authoization_code request and receives an access_token as response from login.microsoftonline.com.
+Evidence: String observation in debug session.
+Reproduce: Put a bp in TokenBroker::SerializeWebTokenResponsesWithStatus; the same string received as response will be copied.
+
+End of September 22 investigation.
+
+
+[WebTokenRequestPromptType]: https://learn.microsoft.com/en-us/uwp/api/windows.security.authentication.web.core.webtokenrequestprompttype?view=winrt-22621
