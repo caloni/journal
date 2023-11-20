@@ -13593,3 +13593,34 @@ End of September 22 investigation.
 
 
 [WebTokenRequestPromptType]: https://learn.microsoft.com/en-us/uwp/api/windows.security.authentication.web.core.webtokenrequestprompttype?view=winrt-22621
+
+
+= Documenting AAD internals
+:date: 2023-11-20
+:tags: venn
+
+Statement: WamProviderRegistration is activated by WAM (TokenBroker svc).
+Evidence: TokenBroker is started again when activating this class.
+Reproduce: Stop WAM service. Open a client app to sign in. Debug until the activation of this class.
+
+Statement: AAD Broker Plugin already started by TryUi only shows its window on WebTokenRequestResult activation and methods.
+Evidence: Debug session until a call to IAsyncOperationCompletedHandler to WebTokenRequestResult.
+Reproduce: Follow this debug session, but then notice as the next instruction, CoWaitForMultipleHandles, only returns when the signin is complete or the AAD Broker window is closed.
+
+Statement: It is possible to change the properties from WebTokenRequest to signalize the client app is running inside SE. In AAD Broker the new inserted property (by example) can be read.
+Evidence: Version already released to dev. Feature flag WAMFilterEnabled.
+Reproduc: Use client app inside SE will produce a WebTokenRequest with a property markSE in AAD Broker.
+
+Statement: WebTokenRequest with COMProxy can't be send with field properties changed.
+Evidence: The COMProxy hook, different from WinRT, change properties fields successfully, but the object that arrives in AAD Broker has properties unchanged.
+Reproduce: Instead of using WinRT hook use COMProxy and look into debugger output for AAD Broker when printing properties; differently from WinRT hook, markSE will not show.
+
+Statement: Delete the cache in folders User\AppData\Local\Packages and Local\Microsoft\TokenBroker\Cache and restart the computer does not avoid the login without entering credentials again.
+Evidence: Following the statement it is possible to open the client app and signin without entering credentials again.
+Reproduce: Use any client app, login in with password, delete cache files, restart computer. The client app used can be logged again without typing user and password again.
+
+Statement: A couple of days after deleted the cache in Packages and TokenBroker\Cache Teams exibits the login window to enter password, but closing it does not avoid Teams be signed in.
+Evidence: Test in VM deleting cache and letting the weekend time pass.
+Reproduce: Login in for the first time in Teams, delete all cache folders, restart the computer and let 2 days pass. When opening Teams again a login window will show, but closing it keeps the app logged in.
+
+End of November 15 comments.
