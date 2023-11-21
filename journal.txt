@@ -13624,3 +13624,14 @@ Evidence: Test in VM deleting cache and letting the weekend time pass.
 Reproduce: Login in for the first time in Teams, delete all cache folders, restart the computer and let 2 days pass. When opening Teams again a login window will show, but closing it keeps the app logged in.
 
 End of November 15 comments.
+
+
+= Organizing discoveries in multiformat content
+:date: 2023-11-21
+:tags: venn
+
+After listed all discoveries based on all comments in this issue I started to group related topics, where I ended with some main sections: AAD.BrokerPlugin, Cache, Discoveries (the WIP part), APIs and internal code, WWAHost and TokenBroker.
+
+The discoveries were moving thought what were taking the textual form, but for some parts I found more useful to transform in small diagrams, such as components communication and sequence diagrams. In other parts I found more insightful to just show the window I am talking about. In other some snippet of debugging sessions could be more practical to continue analysis.
+
+This is still a WIP since we don't know yet much about Credential Manager and a more stable way to deal with a containered AAD auth, but I believe it has now some ground work to follow.
