@@ -537,15 +537,17 @@ END {
     for( d in g_titlesByTagsAndDates[t] ) {
       for( title in g_titlesByTagsAndDates[t][d] ) {
         if( titles == "" ) {
-          titles = totalTitles ":" title
+          titles = title
         } else {
-          titles = titles " - " totalTitles ":" title
+          titles = titles " - " title
         }
         totalTitles = totalTitles + 1
         if( totalTitles > 15 ) {
-          titles = titles " > 15 "
           break
         }
+      }
+      if( totalTitles > 15 ) {
+        break
       }
     }
     print "<tr><td><b><a href=\"" t ".html" "\">" tohtml(t) "</a></b>" > tagshtml
