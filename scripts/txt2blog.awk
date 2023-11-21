@@ -543,6 +543,7 @@ END {
         }
         totalTitles = totalTitles + 1
         if( totalTitles > 15 ) {
+          titles = titles " > 15 "
           break
         }
       }
