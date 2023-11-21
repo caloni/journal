@@ -537,9 +537,9 @@ END {
     for( d in g_titlesByTagsAndDates[t] ) {
       for( title in g_titlesByTagsAndDates[t][d] ) {
         if( titles == "" ) {
-          titles = title
+          titles = totalTitles ":" title
         } else {
-          titles = titles " - " title
+          titles = titles " - " totalTitles ":" title
         }
         totalTitles = totalTitles + 1
         if( totalTitles > 15 ) {
