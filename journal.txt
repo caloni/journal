@@ -13635,3 +13635,12 @@ After listed all discoveries based on all comments in this issue I started to gr
 The discoveries were moving thought what were taking the textual form, but for some parts I found more useful to transform in small diagrams, such as components communication and sequence diagrams. In other parts I found more insightful to just show the window I am talking about. In other some snippet of debugging sessions could be more practical to continue analysis.
 
 This is still a WIP since we don't know yet much about Credential Manager and a more stable way to deal with a containered AAD auth, but I believe it has now some ground work to follow.
+
+
+= AVAST antivirus restricting MS license activation inside Secure Enclave
+:date: 2023-11-22
+:tags: venn
+
+## Trying to reproduce (and failing)
+
+Tested in Windows 10 and Windows 11 (both Pro and 64) with Demo and with lastest version (Workplace for Windows: 4.0.8726.28660. Container: 1.0.8726.33542) with dlp user without success. Office license is OK and Outlook profile is created from zero with no issues inside SE. I got the feature flags from the attached logs and let the existing ones equal, disabled the rest (the new ones). I am using lastest Avast version with default installation. Maybe it is a version difference and the bug is still there.
