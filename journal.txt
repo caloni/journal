@@ -13666,3 +13666,12 @@ Trying to reproduce crash on Outlook after unlock machine by installing and runn
 VM suspended; VM resume and bang: Word is restarting (but still inside SE). Captured crash dump together with several from "Workplace Starter.exe" and Teams.exe (probably the new one, sounds like some issues with new Teams).
 
 Analyzing the dump does not seem related to this issue, but it is easly reproducible by waiting to VM to suspend and resume. After that Word shows "Word automatically saved changes bla bla bla do you want to load it?" and when choosing Yes the next message is "Sorry, something went wrong and Word was unstable to start. (41)".
+
+
+= Fixing issues in my PR (storage-id and OneAuth)
+:date: 2023-11-24
+:tags: venn
+
+Fixed/improved some points in code commented by Oleh, Chermyanin and Sonar. The code passed, but now I am going to make some tests about state of storage-id versus OneAuth.
+
+To test the case to be solve by this fix login into an account inside SE with WAMFilterEnabled OFF, turn the WAMFilterEnabled ON and login into the same account. Before the fix the account is not logged in anymore. With the fix the account is logged in.
