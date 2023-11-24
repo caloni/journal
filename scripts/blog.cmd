@@ -1,4 +1,6 @@
 @echo off
+if not exist public mkdir public
+if not exist public\blog mkdir public\blog
 pushd public\blog
 rm -fr *
 popd

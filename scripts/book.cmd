@@ -1,4 +1,6 @@
 @echo off
+if not exist public mkdir public
+if not exist public\book mkdir public\book
 rm -fr public\book
 xcopy /Q /E /I /Y book public\book
 xcopy /Q /E /I /Y img\journal public\blog\img
