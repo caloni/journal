@@ -13644,3 +13644,25 @@ This is still a WIP since we don't know yet much about Credential Manager and a 
 ## Trying to reproduce (and failing)
 
 Tested in Windows 10 and Windows 11 (both Pro and 64) with Demo and with lastest version (Workplace for Windows: 4.0.8726.28660. Container: 1.0.8726.33542) with dlp user without success. Office license is OK and Outlook profile is created from zero with no issues inside SE. I got the feature flags from the attached logs and let the existing ones equal, disabled the rest (the new ones). I am using lastest Avast version with default installation. Maybe it is a version difference and the bug is still there.
+
+
+= Add to account-id storage OneAuth files from redirected AppData
+:date: 2023-11-23
+:tags: venn
+
+Using `\AppData\Local\Microsoft\OneAuth\accounts` to populate WebAccounts before starting Container. Into the json there is a field "additional_properties" that contains two fields with the WebAccountId: "sub" and "wam_account_ids" where we can get the WebAccountId used to filter accounts.
+
+When signed in outside SE and signin again inside SE the `WebAccountManager::AddWebAccountWithScopeAndMapAsync` is not invoked, so we never get the change to register the WebAccount.
+
+
+= SE Outlook crash
+:date: 2023-11-24
+:tags: venn
+
+Read some logs; found outlook using IWamProviderRegistrationInformation (not that is relevant). This was among messages from failed to send or process badge messages. This error message appeared from several processes (outlook.exe, chrome.exe, slack.exe, msedgewebview2.exe, zoom.exe).
+
+Trying to reproduce crash on Outlook after unlock machine by installing and running all apps quoted in Slack original thread. Nothing happened feijoada (Brazilian meme). Let the machine some more minutes resting and nothing.
+
+VM suspended; VM resume and bang: Word is restarting (but still inside SE). Captured crash dump together with several from "Workplace Starter.exe" and Teams.exe (probably the new one, sounds like some issues with new Teams).
+
+Analyzing the dump does not seem related to this issue, but it is easly reproducible by waiting to VM to suspend and resume. After that Word shows "Word automatically saved changes bla bla bla do you want to load it?" and when choosing Yes the next message is "Sorry, something went wrong and Word was unstable to start. (41)".
