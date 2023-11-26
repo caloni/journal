@@ -5060,7 +5060,7 @@ I reverted my changes made in the refactory branch and created a PR just for doc
 
 My next step will be to get the failed tests from last pipeline log and to run manually in VM to understand if could be environment or not (as suspected by Mihail).
  
-= 2023-07-06
+= Deleting nonexistent registry key
 :date: 2023-07-06
 :tags: venn
  
@@ -5179,7 +5179,7 @@ I used the robot code, since it seems that demo is execute by there.
 
 My next step in this discovery is to know from where Python is running demo in order to update the final app.config, and not the project one.
  
-= 2023-07-07
+= Call with Alex Sedunov and Mihail Moldovan
 :date: 2023-07-07
 :tags: venn
  
@@ -5196,7 +5196,7 @@ So for those issues my next steps are:
 
 I believe the estimation for those tasks will be of about 2 days.
  
-= 2023-07-07
+= Found a crash dump for InternalAgent.exe
 :date: 2023-07-07
 :tags: venn
  
@@ -5246,7 +5246,7 @@ Interestingly enough, there was no dump file in the artifacts available in that 
 
 That was the only dump found in main pipeline. There was no diagnostics package in any working pipeline from this ticket, so the next step in the investigation is to download and analyze test logs from the registry pipeline to observe a pattern when Demo does not run properly.
  
-= 2023-07-07
+= Analyzing test logs from the registry pipeline
 :date: 2023-07-07
 :tags: venn
  
@@ -5303,47 +5303,21 @@ That confirms that the main issue should be the IPC between Demo and InternalAge
 
 However, before that, I am going to analyse the logs from my machine from the day when "Workplace Container has been terminated during waiting for session confirmation". Just in case.
  
-= 2023-07-09
+= Incluir o usuário bradesco em todos os grupos
 :date: 2023-07-09
+:tags: scua
  
-Comandos para incluir o usuário bradesco em todos os grupos da Scua:
+Comando para incluir o usuário bradesco em todos os grupos da Scua:
 
-net localgroup /add SCUACONTROLPANELPROTECTION
-net localgroup /add SCUADIALUPPROTECTION
-net localgroup /add SCUADISPLAYRESTRICTION
-net localgroup /add SCUADOSPROTECTION
-net localgroup /add SCUAEVERYONE
-net localgroup /add SCUAFLOPPYPROGRAMPROTECTION
-net localgroup /add SCUAFLOPPYPROTECTION
-net localgroup /add SCUAIMAGEPROTECTION
-net localgroup /add SCUAPRINTERRESTRICTION
-net localgroup /add SCUAPROGRAMMONITOR
-net localgroup /add SCUAPROGRAMPROTECTION
-net localgroup /add SCUAREGISTRYRESTRICTION
-net localgroup /add SCUASOPROTECTIONNT4
-net localgroup /add SCUASOUNDPROTECTION
-
-net localgroup SCUACONTROLPANELPROTECTION bradesco /add
-net localgroup SCUADIALUPPROTECTION bradesco /add
-net localgroup SCUADISPLAYRESTRICTION bradesco /add
-net localgroup SCUADOSPROTECTION bradesco /add
-net localgroup SCUAEVERYONE bradesco /add
-net localgroup SCUAFLOPPYPROGRAMPROTECTION bradesco /add
-net localgroup SCUAFLOPPYPROTECTION bradesco /add
-net localgroup SCUAIMAGEPROTECTION bradesco /add
-net localgroup SCUAPRINTERRESTRICTION bradesco /add
-net localgroup SCUAPROGRAMMONITOR bradesco /add
-net localgroup SCUAPROGRAMPROTECTION bradesco /add
-net localgroup SCUAREGISTRYRESTRICTION bradesco /add
-net localgroup SCUASOPROTECTIONNT4 bradesco /add
-net localgroup SCUASOUNDPROTECTION bradesco /add
+```
+net localgroup /add NOME_DO_GRUPO
+net localgroup NOME_DO_GRUPO bradesco /add
+```
 
  
-= 2023-07-11
+= Past log analysis
 :date: 2023-07-11
 :tags: venn
- 
-=# Past log analysis
 
 Analyse the logs from my machine from the day when "Workplace Container has been terminated during waiting for session confirmation".
 
@@ -5424,7 +5398,7 @@ My suggestion for next steps investigating or giving us more clearance of what i
 I would also test for some time the InternalAgent version that logs when it is exiting. I suspect `Console.ReadKey()` could be triggered inadvertently.
 
 
-= 2023-07-11
+= Mount the local pipeline
 :date: 2023-07-11
 :tags: venn
 
@@ -5443,7 +5417,7 @@ disk_cleanup_window.png
 TIL When https git credential expire in Windows it need to be updated on Windows. The password is stored in windows credential manager and needs to be updated. Open command prompt and enter the following command to view the list of stored passwords: `rundll32.exe keymgr.dll,KRShowKeyMgr`.
 
 
-= 2023-07-12
+= InternalAgent timeout happens around 10 minutes 
 :date: 2023-07-12
 :tags: venn
 
@@ -5505,19 +5479,18 @@ Anyway, I was trying to create a FakeDemo to use it as a proof that the issue wa
 
 The next step I was trying to do was to replace the nuget assemblies from the IPC to the debug version, but I still had no success doing that.
 
-= 2023-07-13
+= Guidra: What a decompiler!
 :date: 2023-07-13
 :tags: venn
 
-Today I got a lot of interesting information about reversing and debugging skills in this decade to Windows. First, Guidra. What a decompiler! Created by the NSA, it allows to decouple binaries in a much easy interface. And it is open source!
+Today I got a lot of interesting information about reversing and debugging skills in this decade to Windows. First, Guidra: What a decompiler! Created by the NSA, it allows to decouple binaries in a much easy interface. And it is open source!
 
 Second, the article of Adam Chester (from the blog XPN Sec) uses a Power Shell module called NtObjectManager that can be used to extract information from object types into NT objects. There is a lot of functions in this module.
 
 
-= 2023-07-16
+= Traduz diretivas de acesso do cache e aplica
 :date: 2023-07-16
-
-Traduz diretivas de acesso do cache e aplica-as.
+:tags: scua
 
 Aproveitei o mecanismo de tradução que já existe na ScuaGImp para importar para os bancos de dados para preencher a estrutura de diretivas e utilizei o mesmo caminho já usado para aplicar essas diretivas. Pelo log do componente que aplica diretivas é possível ver que elas foram sincronizadas no cache, traduzidas para a estrutura legada do CTree e aplicadas uma a uma.
 
@@ -5526,7 +5499,7 @@ No entanto, aparentemente isso não surtiu efeito, e eu acredito que deva ter re
 A próxima tarefa é escarafunchar em como hoje são aplicadas as regras e bolar uma solução para o NewLogin, o que deverá envolver execução em uma ou mais contas distintas (SYSTEM e usuário, por exemplo).
 
 
-= 2023-07-17
+= Catching LPC messages
 :date: 2023-07-17
 :tags: venn
 
@@ -5539,7 +5512,7 @@ process_monitor_wwahost_alpc_events.png
 Despite the main message detail of an ALPC messages MessageID there is a stack trace for each event, which can be useful to explore. I don't know if there is a simple way to summarize those stack traces, though, what could be harsh to read. There are around 9k messages in a email creation process.
 
 
-= 2023-07-17
+= Troubleshooting session with Alexander Chermyanin
 :date: 2023-07-17
 :tags: venn
 
@@ -5588,7 +5561,7 @@ teams_no_cred_saved.png
 TIL this command lists the credentials saved: `dsregcmd.exe /status`.
 
 
-= 2023-07-18
+= Showing Gabriel Teams abnormal signin
 :date: 2023-07-18
 :tags: venn
 
@@ -5659,7 +5632,7 @@ Got some links to read about:
  - [Recovering Web Tokens From Office](https://blog.xpnsec.com/wam-bam/) (reread)
 
 
-= 2023-07-19
+= We need to figure out how to containerize the PRT
 :date: 2023-07-19
 :tags: venn
 
@@ -5721,7 +5694,7 @@ PEB at 0000006aef214000
     BeingDebugged:            Yes
 ```
 
-= 2023-07-20
+= WWAHost is not always started
 :date: 2023-07-20
 :tags: venn
 
@@ -5774,23 +5747,7 @@ aad_broker_plugin_try_kill_process.mp4
 I believe the message exchange between AAD Broker Plugin and LSASS is the key to understand how the credentials are leaking outside SE. We know that the broker runs outside SE and that is already a clue. However, we need to know exactly what are the interfaces interacting to came out with possible solutions to isolation. The next step is do decode those messages.
 
 
-= 2023-07-21
-:date: 2023-07-21
-
-Plano de mudança de escritórios:
-
- - Comprar tinta, pincéis e cobertura do chão.
- - Retirar mesa da parede.
- - Pintar paredes.
- - Recolocar mesa, mas mais próxima da janela.
- - Comprar prateleiras laterais.
- - Colocar prateleiras laterais (profundidade mínima 50cm).
- - Mudança de escritórios.
- - Comprar armários extra.
- - Colocar armários extra.
-
-
-= 2023-07-24
+= Email and Accounts loading two DLLs
 :date: 2023-07-24
 :tags: venn
 
@@ -5806,7 +5763,7 @@ The next step to analyze the management of PRT (my task) is to continue to analy
 
 Microsoft.AAD.BrokerPlugin.exe.PML
 
-= 2023-07-24
+= Stack of registry events around the token acquisition
 :date: 2023-07-24
 :tags: venn
 
@@ -5865,7 +5822,7 @@ I am not sure yet what is the key function that gets the PRT, but the odds is th
 
 The next step is to gather some structure or variable naming around those functions and with this update Confluence with the news.
 
-= 2023-07-25
+= SSPI investigation
 :date: 2023-07-25
 :tags: venn
 
@@ -5951,7 +5908,7 @@ My next four steps in this case:
 
 I believe I will take about one day for each task (perhaps two for fourth task).
 
-= 2023-07-26
+= Interfaces used in AAD Broker during account registration
 :date: 2023-07-26
 :tags: venn
 
@@ -6037,7 +5994,7 @@ I traced the instantiation of those classes and found in the ProcMon logs captur
 36	ntdll.dll	RtlUserThreadStart + 0x21	0x7ffeba2cced1	C:\Windows\System32\ntdll.dll
 ```
 
-= 2023-07-27
+= Debug AAD Broker failed
 :date: 2023-07-27
 :tags: venn
 
@@ -6102,7 +6059,7 @@ One more to go:
 
   - order chronologically the posts (could/must be done in merge?);
 
-= 2023-07-28
+= I observed a week ago
 :date: 2023-07-28
 :tags: venn
 
@@ -6116,7 +6073,7 @@ My next step is to look at AAD Broker/DmEnrollmentSvc communication.
 
 Gabriel has found a very interesting API, too: [NetGetAadJoinInformation](https://learn.microsoft.com/en-us/windows/win32/api/lmjoin/nf-lmjoin-netgetaadjoininformation). However, it does not seem to be used in the enrollment process. That is odd.
 
-= 2023-07-28
+= Debug and document investigated components
 :date: 2023-07-28
 :tags: venn
 
@@ -6209,35 +6166,35 @@ SspiCli!LsaCallAuthenticationPackage:
 ...
 ```
 
-= 2023-07-29
+= Before LsaCallAuthenticationPackage
 :date: 2023-07-29
 :tags: venn
 
-=# PPS
+## PPS
 
 Before calling LsaCallAuthenticationPackage the AAD account is already registered in SystemSettings, so this step occurs after token is saved to the system. More research will be necessary =/
 
-= 2023-07-29
+= Diretivas, restart do explorer e token do usuário
 :date: 2023-07-29
-:tags: venn
+:tags: scua
 
 Corrige aplicação de diretivas.
 
 Para isso estou usando a chamada original do sistema legado, e o sistema legado teve que ser modificado para ignorar as estripulias do ctree, como inicialização de path, etc. Foi criado uma flag de modo legado que por padrão é true, mas para a instanciação da classe de diretivas no novo login é colocada como false. Com isso podemos usar métodos do objeto ClPolicy.
 
-=# Cria código para restart do explorer.
+## Cria código para restart do explorer.
 
 A ideia original era aplicar a mudança de diretivas na mesma sessão, só que isso ainda não está funcionando muito bem. É possível matar todos os explorer.exe e rodar novamente o userinit na conta do usuário, mas ainda é necessário reproduzir as variáveis de ambiente do perfil do usuário corretamente para que o shell seja carregado como o original. Código foi comentado enquanto isso.
 
-=# Adiciona criação de processos com token do usuário.
+## Adiciona criação de processos com token do usuário.
 
 A partir daqui o módulo de enumeração de processos também os cria, e por isso foi renomeado. Havia a necessidade de alterar o comportamento da função que filtra contas dos processos em execução.
 
-= 2023-07-31
+= LsaCallAuthenticationPackage is called by AAD Broker
 :date: 2023-07-31
 :tags: venn
 
-=# TL;DR
+## TL;DR
 
 LsaCallAuthenticationPackage is called by AAD Broker to communicate to the package "CloudAP", but it is not the part that join AAD.
 
@@ -6247,7 +6204,7 @@ BlockAADWorkplaceJoin is a viable part of the solution of isolate credentials.
 
 My next part is to continue on debugging sessions + static analysis of AAd Broker.
 
-=# Details
+## Details
 
 After some debugging sessions here I can tell the token seems really hiding from us. I started to divide and conquer to find the moment of registration and there are some exceptions being thrown inside the code (saw in IDA, too) and after they are thrown the computer is joined (`dsregcmd /status` show it). It could be some antidebugging technique.
 
@@ -6539,7 +6496,7 @@ SspiCli!LsaLookupAuthenticationPackage:
 12 00000070`30dff860 00000000`00000000 : 00000000`00000000 00000000`00000000 00000000`00000000 00000000`00000000 : ntdll!RtlUserThreadStart+0x21
 ```
 
-= 2023-07-31
+= Trying to use Fiddler
 :date: 2023-07-31
 :tags: venn
 
@@ -6551,26 +6508,26 @@ fiddler_error_aad_broker.png
 
 Now I am trying to use WireShark with SSLKEYLOGFILE to capture master keys and analyze HTTPS traffic. I am receving too many out of order packets in TCP. Trying to figure out why.
 
-= 2023-08-01
+= What do we know about AAD Broker (Teams login)
 :date: 2023-08-01
 :tags: venn
 
-=# Summary of lastest research
+Summary of lastest research:
 
-=## What do we know about AAD Broker (Teams login)
+## What do we know about AAD Broker (Teams login)
 
 BlockAADWorkplaceJoin as a viable part of the solution of isolate credentials.
 There is a Lsa call to package "CloudAP" but after PRT is already in the system.
 Communication with DmEnrollmentSvc exists but it is not relevant to token storage.
 Debugging sessions revealed PRT communication code in AAD Broker could have some antidebug technique based on exception.
 
-=## What do we have to know yet
+## What do we have to know yet
 
 Where is the HTTPS response with the PRT.
 How to decode/decrypt the token (we know it is JWT like).
 How to avoid registering in the system (in code, not using BlockAADWorkplaceJoin policy).
 
-= 2023-08-01
+= Bypass some exceptions
 :date: 2023-08-01
 :tags: venn
 
@@ -6598,7 +6555,7 @@ __FIMap_2_HSTRING_Windows__CStorage__CApplicationDataContainer
 {58A08519-24C8-4935-B482-3FD823333A4F}
 IRpcSyntaxNegotiate
 
-= 2023-08-02
+= Walking down IUserDeviceRegManagerStatics
 :date: 2023-08-02
 :tags: venn
 
@@ -6745,11 +6702,9 @@ bp AAD_Core!Windows::Internal::UserDeviceRegistration::IUserDeviceRegManagerStat
 
 Based on the output from WinDbg I was able to trace a sequence diagram between these components and analyzed the static assembly I could understand that the structure that must be analyzed now is the `UserDeviceRegistration::ExtendedTokenProperties`, passed from BrokerPlugin to RuntimeBroker.
 
-= 2023-08-03
+= Summary of discoveries and tasks
 :date: 2023-08-03
 :tags: venn
-
-=# Summary of discoveries and tasks
 
  - BrokerPlugin calls calls Lsa package "CloudAP" after PRT is already in the system.
  - BlockAADWorkplaceJoin policy is a viable part of the solution of isolate credentials.
@@ -6801,7 +6756,7 @@ WorkplaceJoin(ushort const *,_DSREG_EXT_TOKEN_PROPERTIES * const,_DISCOVERY_META
 
 Reading about PRT while updating Windows to make new tests and compare with previous version. Dsregcmd must give more details about token acquire.
 
-= 2023-08-07
+= Installed Windows 22H2
 :date: 2023-08-07
 :tags: venn
 
@@ -7214,7 +7169,7 @@ Adding the work account using my personal account in SystemSettings.exe give me 
 
 Based on these tests I think we are looking for is not a Primary Refresh Token issued after a personal computer was registrated with AAD, but this second type of tests, where a personal account add a work account in the same profile. If this is the case we won't have a PRT to take care of, but another kind of credentials to be used to login in work apps.
 
-= 2023-08-08
+= New direction from Alex Osipov
 :date: 2023-08-08
 :tags: venn
 
@@ -7347,7 +7302,7 @@ Stack trace of `svchost.exe` in `"C:\Windows\SystemApps\Microsoft.AAD.BrokerPlug
 
  - Investigate if it is possible to know who is calling AADBroker to know if to enable or disable the BlockAADWorkplaceJoin policy.
 
-= 2023-08-08
+= Who is calling AADBroker
 :date: 2023-08-08
 :tags: venn
 
@@ -7424,7 +7379,7 @@ Investigating using OLE View I found a possible relation to these call, the `Win
 
 The next step in this task is to debug session with static analysis and discover what interfaces and methods are called in the moment Teams decide to start Web Provider service.
 
-= 2023-08-09
+= Web Provider service discoveries
 :date: 2023-08-09
 :tags: venn
 
@@ -7662,7 +7617,7 @@ Another method I put a breakpoint was `aadWamExtension!WamExtensionContext::GetL
 
 I believe this DLL should be a Authentication Package and the `GetLsaFunctions` is called to get their implementation methods. My next step is to look up into this function disasm.
 
-= 2023-08-10
+= Found a DLL into Web Account Manager service
 :date: 2023-08-10
 :tags: venn
 
@@ -7799,7 +7754,7 @@ Highlights:
 
 I believe the key communication between Teams/Windows_Security_Authentication_Web_Core and WAM/aadWamExtension is the activation of the class related to getting the extension for token provider. I am not sure if just capturing the call made in Teams in the `TryUi` method would be enough. That could be the next step, but needs some injection or code/asm to make it work.
 
-= 2023-08-11
+= Created a procmon log from WAM service
 :date: 2023-08-11
 :tags: venn
 
@@ -7893,7 +7848,7 @@ Interesting. After click the Start button on Teams first Window the svchost.exe 
 22	shcore.dll	WorkThreadManager::CThread::RunCurrentTaskUnderLock + 0x62
 ```
 
-= 2023-08-12
+= Get interfaces called from Teams
 :date: 2023-08-12
 :tags: venn
 
@@ -7954,13 +7909,13 @@ bp combase!_RoGetActivationFactory "du poi(rcx+0x10) ; ?by(poi(rcx+0x10)+0x90) ;
 
 Found some references to RoGetActivationFactory in WinRT protection. The next step is to study this code and see how to insert this class and avoid WAM communication.
 
-= 2023-08-14
+= Source code reading
 :date: 2023-08-14
 :tags: venn
 
 Today was source code reading. I am pretty sure the class I need to use to test the concept is WinRtProtection. I would need to add to the method [InitializeClasses](https://tfs.os33.net/DefaultCollection/Portal/_git/Workplace.Container.Windows?path=%2FWorkplace.Container.Hook%2FWorkplace.Container.Hook.Lib%2FWinRtProtection.cpp&version=GBmaster&line=385&lineEnd=386&lineStartColumn=1&lineEndColumn=1&lineStyle=plain&_a=contents) the class `Windows.Internal.Security.Authentication.Web.WamProviderRegistration`, but it happens to be the first class in the hard coded list, what should means that the protection was already implemented, but must be disabled for some reason.
 
-= 2023-08-16
+= A quick solution 
 :date: 2023-08-16
 :tags: venn
 
@@ -8345,11 +8300,9 @@ todo:
 
  - Analyze allow class activation, build a proxy, but manipulate behavior somehow.
 
-= 2023-08-17
+= Tests with Office and WAM disabled failed
 :date: 2023-08-17
 :tags: venn
-
-=# Tests with Office and WAM disabled failed
 
 Tested with Office outside SE (same test used for Teams).
 
@@ -8385,7 +8338,7 @@ Besides the test with BlockAADWorkplaceJoin that is with Gabriel the next step t
 
 I was beginning this analysis by debugging sessions, but now I am starting to look at the log files. I need to understand how to enable verbose log or change some logs to info. To continue.
 
-= 2023-08-18
+= More verbose logs in com proxy
 :date: 2023-08-18
 :tags: venn
 
@@ -8574,7 +8527,7 @@ CWebTokenRequestResult
 2023-08-18 14:29:02.672 - [INFO] - [1:9632:7648] - [msedgewebview2.exe] - [COM] - ComProxyIpcClient::ComInvoke objectId=350b8870-de36-4c10-990f-2a0ca5550da8; dataRepresentation=16; procNum=6; buffer=[bb,3,0,0,bb,3,0,0,0,0,0,1,0,0,0,c,0,0,0,36,77,65,62,74,6f,6b,65,6e,72,65,71,75,65,73,74,5f,7b,35,36,36,34,42,31,32,38,2d,32,41,34,42,2d,34,41,39,45,2d,39,39,43,32,2d,39,37,46,35,46,39,44,42,44,35,36,33,7d,0,0,4,1,0,0,3,71,0,0,0,1,0,0,0,c,0,0,0,b,57,54,52,65,71,5f,53,63,6f,70,65,0,0,0,c,0,0,0,18,65,6e,75,6d,65,72,61,74,65,2e,61,63,63,6f,75,6e,74,73,2e,6c,6f,63,61,6c,0,0,0,c,0,0,0,10,57,54,52,65,71,5f,50,72,6f,6d,70,74,54,79,70,65,0,0,0,5,0,0,0,0,0,0,0,c,0,0,0,e,57,54,52,65,71,5f,43,6c,69,65,6e,74,49,64,0,0,0,c,0,0,0,24,65,63,64,36,62,38,32,30,2d,33,32,63,32,2d,34,39,62,36,2d,39,38,61,36,2d,34,34,34,35,33,30,65,35,61,37,37,61,0,0,0,c,0,0,0,13,57,54,52,65,71,5f,43,6f,72,72,65,6c,61,74,69,6f,6e,49,64,0,0,0,c,0,0,0,26,7b,41,37,36,34,39,35,35,45,2d,34,33,30,31,2d,34,31,43,39,2d,42,33,37,33,2d,44,31,39,43,31,44,36,32,45,45,37,39,7d,0,0,0,c,0,0,0,e,57,54,52,65,71,5f,50,72,6f,76,69,64,65,72,0,0,4,1,0,0,2,71,0,0,0,1,0,0,0,c,0,0,0,b,57,41,50,5f,50,75,72,70,6f,73,65,0,0,0,c,0,0,0,1d,41,73,73,69,67,6e,65,64,20,62,79,20,79,6f,75,72,20,6f,72,67,61,6e,69,7a,61,74,69,6f,6e,0,0,0,c,0,0,0,6,57,41,50,5f,49,64,0,0,0,c,0,0,0,1b,68,74,74,70,73,3a,2f,2f,6c,6f,67,69,6e,2e,6d,69,63,72,6f,73,6f,66,74,2e,63,6f,6d,0,0,0,c,0,0,0,1e,57,41,50,5f,49,73,45,6e,75,6d,65,72,61,62,6c,65,53,74,61,74,65,53,75,70,70,6f,72,74,65,64,0,0,0,5,0,0,0,1,0,0,0,c,0,0,0,1c,57,41,50,5f,49,73,41,64,64,4e,65...][...................6webtokenrequest_{5664B128-2A4B-4A9E-99C2-97F5F9DBD563}.......q............WTReq_Scope........enumerate.accounts.local........WTReq_PromptType................WTReq_ClientId.......$ecd6b820-32c2-49b6-98a6-444530e5a77a........WTReq_CorrelationId.......&{A764955E-4301-41C9-B373-D19C1D62EE79}........WTReq_Provider.......q............WAP_Purpose........Assigned by your organization........WAP_Id........https://login.microsoft.com........WAP_IsEnumerableStateSupported................WAP_IsAddN]; size=2216; return rpl->DataRepresentation=16; rpl->Buffer=[0,0,0,0,f9,3d,89,e8,ed,f7,d6,4a,bd,19,ab,db,fa,b4,83,d7,ff,ff,ff,ff,ff,ff,ff,ff,0,0,2,0,93,4,0,0,93,4,0,0,4d,45,4f,57,4,0,0,0,5,83,2a,c1,f8,d1,83,44,8d,54,38,fe,29,27,84,ff,5a,3,0,0,0,0,0,0,c0,0,0,0,0,0,0,46,0,0,0,0,0,0,0,0,3e,0,0,0,57,0,69,0,6e,0,64,0,6f,0,77,0,73,0,2e,0,53,0,65,0,63,0,75,0,72,0,69,0,74,0,79,0,2e,0,41,0,75,0,74,0,68,0,65,0,6e,0,74,0,69,0,63,0,61,0,74,0,69,0,6f,0,6e,0,2e,0,57,0,65,0,62,0,2e,0,43,0,6f,0,72,0,65,0,2e,0,57,0,65,0,62,0,54,0,6f,0,6b,0,65,0,6e,0,52,0,65,0,71,0,75,0,65,0,73,0,74,0,52,0,65,0,73,0,75,0,6c,0,74,0,5,0,0,0,c,0,0,0,11,0,0,0,57,0,54,0,52,0,65,0,73,0,75,0,6c,0,74,0,5f,0,50,0,72,0,6f,0,76,0,69,0,64,0,65,0,72,0,1,4,0,0,71,2,0,0,0,0,0,1,0,0,0,c,0,0,0,b,57,41,50,5f,50,75,72,70,6f,73,65,0,0,0,c,0,0,0,1d,41,73,73,69,67,6e,65,64,20,62,79,20,79,6f,75,72,20,6f,72,67,61,6e,69,7a,61,74,69,6f,6e,0,0,0,c,0,0,0,6,57,41,50,5f,49,64,0,0,0,c,0,0,0,1b,68,74,74,70,73,3a,2f,2f,6c,6f,67,69,6e,2e,6d,69,63,72,6f,73,6f,66,74,2e,63,6f,6d,0,0,0,c,0,0,0,1e,57,41,50,5f,49,73,45,6e,75,6d,65,72,61,62,6c,65,53,74,61,74,65,53,75,70,70,6f,72,74,65,64,0,0,0,5,0,0,0,1,0,0,0,c,0,0,0,1c,57,41,50,5f,49,73,41,64,64,4e,65,77,41,63,63,6f,75,6e,74,52,65,71,75,65,73,74,65,64,0,0,0,5,0,0,0,0,0,0,0,c,0,0,0,14,57,41,50,5f,49,73,53,79,73,74,65,6d,50,72,6f,76,69,64,65,72,0,0,0,5,0,0,0,0,0,0,0,c,0,0,0...][.....=.....J............................MEOW......*....D.T8.)'..Z..............F........>...W.i.n.d.o.w.s...S.e.c.u.r.i.t.y...A.u.t.h.e.n.t.i.c.a.t.i.o.n...W.e.b...C.o.r.e...W.e.b.T.o.k.e.n.R.e.q.u.e.s.t.R.e.s.u.l.t.............W.T.R.e.s.u.l.t._.P.r.o.v.i.d.e.r.....q...............WAP_Purpose........Assigned by your organization........WAP_Id........https://login.microsoft.com........WAP_IsEnumerableStateSupported................WAP_IsAddNewAccountRequested................WAP_IsSystemProvider..............]; rpl->Size=1216; hr=0
 ```
 
-= 2023-08-21
+= WMI protection branch
 :date: 2023-08-21
 :tags: venn
 
@@ -8594,7 +8547,7 @@ I was very interested into testing this branch, I saw the code was changed in th
  	Windows.Security.Authentication.Web.Core.dll!Windows::Internal::Security::Authentication::TokenBroker::PluginRegistration::GetWebAccountProviderFromIdAndAuthority()	Unknown
 
 
-= 2023-08-22
+= Analysis of ComInvoke (again)
 :date: 2023-08-22
 :tags: venn
 
@@ -8848,7 +8801,7 @@ struct HSTRING {
 };
 ```
 
-= 2023-08-23
+= ABI for the public classes
 :date: 2023-08-23
 :tags: venn
 
@@ -8894,7 +8847,7 @@ With WebTokenRequest the execution went on normally.
 
 Since it is not possible to look into the invokes inside SE I think the next step could be debugging sessions outside SE, just to look into the method calls from those public classes. If there is some option to disable the credentials leak for the system in the same way of BlockAADWorkplaceJoin policy it is easier to assume it must be in some already available API, even still partially documented. There are not details of the properties from [WebAccount](https://learn.microsoft.com/en-us/uwp/api/windows.security.credentials.webaccount) class used in the method [WebAuthenticationCoreManager.CreateWebAccountMonitor](https://learn.microsoft.com/en-us/uwp/api/windows.security.authentication.web.core.webauthenticationcoremanager.createwebaccountmonitor), by example.
 
-= 2023-08-24
+= Example of web account management
 :date: 2023-08-24
 :tags: venn
 
@@ -8905,7 +8858,7 @@ In order to make it run it is needed to modify its manifesto to use the App Iden
 Some parameters are still vague and undocumented completely, like the WebTokenRequest.Scope and WebTokenRequest.PromptType, what could give us a tip of what change to avoid system settings (or if there is a way). Looking at [some samples](https://csharp.hotexamples.com/examples/-/WebTokenRequest/-/php-webtokenrequest-class-examples.html) didn't helped yet.
 
 
-= 2023-08-28
+= Acquired an AAD token successfully
 :date: 2023-08-28
 :tags: venn
 
@@ -8940,7 +8893,7 @@ Since this is the exact behavior of winword, except the part where AAD Broker sh
 Probably there is no need to manage the token, since it will became available only inside the signin apps, and inside SE for workplace apps.
 
 
-= 2023-08-30
+= WAMExample
 :date: 2023-08-30
 :tags: venn
 
@@ -8982,7 +8935,7 @@ webaccountmanagement_sample_azure_redirect_uri.png
 I am still studying the other scenarios from the example, though. Should have more information after testing all of them.
 
 
-= 2023-08-30
+= The infamous "Stay signed in to all your apps"
 :date: 2023-08-30
 :tags: venn
 
@@ -9000,7 +8953,7 @@ dev@dlp.os33dev.com
 Configured into my trial AAD to signin with a local account and with the dlp account (external invited); both ways the infamous window "Stay signed in to all your apps" appeared. After some web search I don't believe there is even an impolite way (hook injection) to disable this window in client side (AAD Broker side only). https://support.os33.link/v/cmaqEh
 
 
-= 2023-08-31
+= AAD Broker is being spawned from inside or ouside SE
 :date: 2023-08-31
 :tags: venn
 
@@ -9026,7 +8979,7 @@ Windows::Internal::MakeStagedAsyncOperation<Windows::Internal::CMarshaledInterfa
 ```
 
 
-= 2023-09-01
+= How the Universal Windows Platform relates to Windows Runtime APIs
 :date: 2023-09-01
 :tags: venn
 
@@ -9056,7 +9009,7 @@ Yes   No
 I [Check for installed versions of the Windows App SDK runtime](https://learn.microsoft.com/en-us/windows/apps/windows-app-sdk/check-windows-app-sdk-versions) and this exact version is listed in nuget packages (x86 and x64), so I am not sure where is the error.
 
 
-= 2023-09-04
+= Crash on Windows.Security.Authentication.Web.Core.WebAuthenticationCoreManager
 :date: 2023-09-04
 :tags: venn
 
@@ -9097,9 +9050,9 @@ ContainerizedApp_good_vs_bad.png
 That is the first difference that I must focus on as the next step.
 
 
-= 2023-09-05
+= UWP no Windows Internals
 :date: 2023-09-05
-:tags: venn
+:tags: books windows_internals
 
 Algumas anotações sobre UWP no Windows Internals; estou tentando entender melhor a coisa para nas sessões de debugging fazer mais sentido.
 
@@ -9161,7 +9114,7 @@ Testing with Winword these were the not activated classes with WebAuthentication
 The fact json and uri classes are not being activated in Teams and Winword can indicate some clue about differente executions. Besides, in the case of winword there is a crash (already commented before). It could be the next analysis.
 
 
-= 2023-09-06
+= LaunchWinRTRunAsServer references
 :date: 2023-09-06
 :tags: venn
 
@@ -9195,9 +9148,9 @@ client_id=5e3ce6c0-2b1f-4285-8d4b-75ee78787346&scope=https%3A%2F%2F*.microsoftst
 However, the request didn't come from BackgroundHost or AAD Broker, but the browser itself. Need to make some office app to access login.microsoftonline.com correctly.
 
 
-= 2023-09-07
+= Funcionamento interno do UWP
 :date: 2023-09-07
-:tags: venn
+:tags: books windows_internals
 
 Andei lendo sobre o funcionamento interno do UWP, o que está servindo para finalmente as coisas fazerem sentido. Seguem mais anotações, incluindo sobre alguns testes bacanas de ter em mente no WinDbg.
 
@@ -9318,7 +9271,7 @@ TeamsLoginLogs.zip
 However, since we are more focused in the first login and acquire of token, I researched and tested to [attach WinDbg to AAD Broker using PLMDebug](https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/debugging-a-uwp-app-using-windbg). I am ready to start some debug sessions because just as BackgroundTaskHost uses AAD.Core to communicates to AAD the broker does the same thing, and accordingly with proxy logs it was broker that sent the https request by mapping ports with procmon tcp connect events.
 
 
-= 2023-09-11
+= Where is the token from AAD Broker is going to
 :date: 2023-09-11
 :tags: venn
 
@@ -9414,11 +9367,9 @@ During TokenBrokerInternal activation instances of RuntimeBroker and BackgroundT
 To continue.
 
 
-= 2023-09-12
+= Had a call with Chermyanin for next steps in AAD Broker spike
 :date: 2023-09-12
 :tags: venn
-
-Had a call with Chermyanin for next steps in AAD Broker spike:
 
 AADBroker
 	protect auth to our web portal (venn.com):
@@ -9447,7 +9398,7 @@ SE client -> COM proxy -> AAD broker (thread 1, alpcsendwaitreceive has process 
 system client -> AAD broker (thread 2)
 
 
-= 2023-09-13
+= Could solve the WDK issue
 :date: 2023-09-13
 :tags: venn
 
@@ -9462,7 +9413,7 @@ F:\Repos\Workplace.Container.Windows\Workplace.Container\Tests\Workplace.Badge.T
 Solved VS2019 issue (using Community, after that solved for Pro), build and compiled components and tested the setup with AadWebProxyEnabled flag. Testing Teams login BackgroundTaskHost and AADBroker are crashing. Not sure yet if is related to injection or proxy implementation (or neither).
 
 
-= 2023-09-14
+= Crash in AADBroker and BackgroundTaskHost (continue)
 :date: 2023-09-14
 :tags: venn
 
@@ -9532,7 +9483,7 @@ To continue.
 [disable the DEP]: https://cdn.codeproject.com/Questions/284989/Debug-assertion-failed
 
 
-= 2023-09-15
+= Crash in AADBroker and BackgroundTaskHost
 :date: 2023-09-15
 :tags: venn
 
@@ -9583,7 +9534,7 @@ plmdebug /disableDebug Microsoft.AAD.BrokerPlugin_1000.19041.1023.0_neutral_neut
 Implemented set BlockAADWorkplaceJoin policy as 1 inside AAD Broker app. Created branch to continue dev (next step is to detect if activated from inside SE).
 
 
-= 2023-09-18
+= Investigated DCOMLaunch RPC endpoint
 :date: 2023-09-18
 :tags: venn
 
@@ -9620,7 +9571,7 @@ So this manipulation could not be a good way to mark an AADBroker instance activ
 [RpcGetAuthorizationContextForClient]: https://learn.microsoft.com/en-us/windows/win32/api/rpcasync/nf-rpcasync-rpcgetauthorizationcontextforclient 
 
 
-= 2023-09-19
+= Using COM proxy to get details about AAD Broker
 :date: 2023-09-19
 :tags: venn
 
@@ -9637,7 +9588,7 @@ Unfortunately there was a drawback: the interface being unmarshalled (WamProvide
 [OBJREF]: https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-dcom/fe6c5e46-adf8-4e34-a8de-3f756c875f31
 
 
-= 2023-09-20
+= Tried to inject DLL into WAM service using AAD Broker
 :date: 2023-09-20
 :tags: venn
 
@@ -9705,7 +9656,7 @@ PID Process Class
 In order to know in what processes those classes are being activated I was using the Marshal/Unmarshal operations visible in COM proxy and hook DLL, but without injection in WAM I plan to get this list from Teams, BackgroundTaskHost and AAD Broker and filter what should be in WAM service.
 
 
-= 2023-09-21
+= I stopped the WAM service and use the Web Account Sample
 :date: 2023-09-21
 :tags: venn
 
@@ -9722,7 +9673,7 @@ The same behavior is observed when starting Teams. It is important to note that 
 So this class is activated into WAM service (at least). I am going to get calls made from interfaces to see if we can get some context from it or it is in other classes.
 
 
-= 2023-09-22
+= The parameters to start AAD Broker are always the same
 :date: 2023-09-22
 :tags: venn
 
@@ -9764,10 +9715,11 @@ Lendo mais um pouquinho de Windows Internals. Agora sobre segurança.
 > LsaIso.exe process, which has a handle to the LSA_ISO_RPC_SERVER ALPC port. This is used to communicate with the Lsass.exe process.
 
 
-= 2023-09-23
+= Mais leituras do Windows Internals.
 :date: 2023-09-23
+:tags: books windows_internals
 
-Mais leituras do Windows Internals. Dessa vez focando no ALPC.
+Dessa vez focando no ALPC.
 
 > Whenever a Windows process and/or thread starts, as well as during any Windows subsystem operation, ALPC is used to communicate with the subsystem process (CSRSS).
 
@@ -9786,11 +9738,9 @@ Mais leituras do Windows Internals. Dessa vez focando no ALPC.
 > One of the primary users of ALPC, outside of Local RPC, is the Windows subsystem, which uses ALPC to communicate with the Windows subsystem DLLs that are present in all Windows processes. Because CSRSS loads once for each session, you will find its ALPC port objects under the appropriate \Sessions\X\Windows directory,
 
 
-= 2023-09-25
+= Discover what COM method invocation starts AAD Broker manifestation
 :date: 2023-09-25
 :tags: venn
-
-## Discover what COM method invocation starts AAD Broker manifestation
 
 Discovered what call from `ComProxyIpcClient::ComInvoke` starts activation of AAD Broker, or at least after that call is made the process starts. In `Windows.Security.Authentication.Web.Core.dll` a call from `Windows::Security::Authentication::Web::Core::CWebTokenRequestResultOperation::TryUi` uses `Windows::Internal::Security::Authentication::Web::TokenBrokerInternal`. From the proxy interface is requested the procnum 36.
 
@@ -9886,11 +9836,9 @@ Even with the POC demonstrated the comment before this office can acquire the cr
 https://support.os33.link/v/aU1H9T
 
 
-= 2023-09-26
+= Investigate how login hint is passed to AAD Broker
 :date: 2023-09-26
 :tags: venn
-
-## Investigate how login hint is passed to AAD Broker
 
 The easy part was to get the RPC call made by Teams (any office app should work as well). Using the method `IRpcChannelBufferComProxy::SendReceive` it was detected the login hint being passed in the call to Proc36 as mentioned in comments before this.
 
@@ -9971,11 +9919,9 @@ At some point it was possible to see the login hint being sent to AAD Broker for
 There were another RPC calls where login hint appears -- such as `AAD_Core!GetTokenBrokerOperationBase::GetTokenBrokerOperationBase` and already in browser `edgehtml!anonymous namespace::CallUriReputationService` -- but we should discard those, since it is already available to AAD Broker space since call above was made.
 
 
-= 2023-09-27
+= Discover where to hook AAD Broker to capture modified login hint
 :date: 2023-09-27
 :tags: venn
-
-## Discover where to hook AAD Broker to capture modified login hint
 
 ```
 bp combase!NdrExtpProxySendReceive "db poi(poi(@rdx)+10) L300 ; k 10"
@@ -10303,11 +10249,9 @@ Tried to change login hint in AAD Broker at RPC call point, but a copy was alrea
 90231703326300W3
 
 
-= 2023-09-28
+= Where the original login hint (or client id) arrives into AAD Broker (to continue)
 :date: 2023-09-28
 :tags: venn
-
-## Where the original login hint (or client id) arrives into AAD Broker (to continue)
 
 Discovered that BackgroundTaskHost is first receiving login hint along with the other information about token acquire. It outputs to the debugger the information bellow and it is the first process into the app container to be started (before AAD Broker is created). Please note that this is a sample before entering login hint. After that another BackgroundTaskHost process is initiated with login hint, client id, etc, filled.
 
@@ -10394,7 +10338,7 @@ Mais anotações de Windows Internals:
 > Anotei essa ferramenta, wnfdump, que achei no github do ionescu, mas não funciona tão bem. Está desatualizada. E o comando !wnf do WinDbg também não está funcionando.
 
 
-= 2023-09-29
+= Where the original login hint (continue)
 :date: 2023-09-29
 :tags: venn
 
@@ -11114,11 +11058,9 @@ ModLoad: 00007ff8`58b40000 00007ff8`58b65000   C:\Windows\SYSTEM32\globinputhost
 TL;DR Discovered BackgroundTaskHost receives an instance of IBackgroundTask (probably) with login hint and other information and seems to orchestrates AAD Broker and RuntimeBroker thry AAD.Core.dll module. When needs user interaction AAD Broker is activated, but BackgroundTaskHost does not seems to need to activate it if there is already credentials in cache. Lsa is used in some of the processes. I think that for mark inside SE thread we are going to need to hook since BackgroundTaskHost. It should be enough to manipulate IBackgroundTask into it, but AAD Broker communication is made using messages (and RuntimeBroker using remote invoke).
 
 
-= 2023-10-02
+= New strategy: use Client ID from AAD Broker (COM hook)
 :date: 2023-10-02
 :tags: venn
-
-## New strategy: use Client ID from AAD Broker (COM hook)
 
 Abandoned the idea of scan IBackgroundTask because was discovered that we can hook creation of [WebProviderTokenRequest] inside AAD Broker and use its property `ClientId` to identify clients inside SE. Going to work in a POC using that.
 
@@ -11185,11 +11127,9 @@ bp Windows_Security_Authentication_Web_Core!Windows::Security::Authentication::W
 [WebProviderTokenRequest]: https://learn.microsoft.com/en-us/uwp/api/windows.security.authentication.web.core.webtokenrequest?view=winrt-22621
 
 
-= 2023-10-04
+= Get client id inside AAD Broker
 :date: 2023-10-04
 :tags: venn
-
-## Get client id inside AAD Broker
 
 ### Plan A: Instanciate WebProviderTokenRequest proxied
 
@@ -11220,11 +11160,9 @@ Studying about call winrt method using query interface return from ComProtection
 TL;DR Plan A: Created a ComProtection class with only WebProviderTokenRequest in OpenClsid list for AAD Broker but it gives the error 0x80040155 when trying to create instance using `ComProxyIpcClient::UniversalClientSendRequest`. Plan B: Studying to use winrt C++ to use original proxy, but dunno if this is the usual way (didn't find winrt examples in the codebase).
 
 
-= 2023-10-05
+= Copy the solution from ToastNotification
 :date: 2023-10-05
 :tags: venn
-
-## Copy the solution from ToastNotification
 
 ```
 sxe ld:workplacehook64.dll
@@ -11247,11 +11185,9 @@ Next step is to avaliate which one could be faster to implement:
 TL;DR Work to copy the solution from ToastNotification about `WebProviderTokenRequest` class, but no `Ro*` function is called to activate `WebProviderTokenRequest` before `OutputDebugString` prints client id/login hint; despite being winrt the interface is obtained by RPC proxy using marshal interface (because this is a remote instance). If could insist using winrt if focus on `TokenBrokerInternal`, but need time to investigate and locate client id. Going to try two alternatives first pointed out by Chermyanin: copy the WMI protection (intercept request buffers in ComProxy invoke) and look where interfaces are being unmarshaled.
 
 
-= 2023-10-06
+= Trying to get client id from unmarshal interfaces from AAD Broker
 :date: 2023-10-06
 :tags: venn
-
-## Trying to get client id from unmarshal interfaces from AAD Broker
 
 Recap from last try. The solution from ToastNotification uses winrt lib, but `WebProviderTokenRequest` uses RPC proxy with marshaling (because this is a remote instance?). But what if I could use the same vtable hook strategy to get and deliver the interfaces I need?
 
@@ -11294,7 +11230,7 @@ TL;DR Queried the unmarshal interface for IWebProviderTokenRequest, but trying t
 TL;DR2 I thought I was getting there putting a small COM hook (AAD Broker) to get the instantiation of  WebProviderTokenRequest and then access ClientId. I could after CreateInstance, but ClientRequest member was null at this time. so I am tryint to proxy the IMarshal to watch when some key method is being called or to know when ClientId is available. however, I got stuck into some issues manipulating IStream from this object because it is not rereadable. I am trying to swtich to the StreamWP class (but there are some code to write to this class yet)
 
 
-= 2023-10-09
+= Fixed a error related to StreamWP class
 :date: 2023-10-09
 :tags: venn
 
@@ -11303,11 +11239,9 @@ Fixed a error related to StreamWP class (the IStream mock replaced by original i
 I am reverting the StreamWP replacement (didn't work) and the protection installed (AADMonitor): this works. Now getting back the versions until StreamWP is working again. I saw some error logs before changing versions, but that is from the past.
 
 
-= 2023-10-10
+= Troubleshotting session and... at last got ClientId!
 :date: 2023-10-10
 :tags: venn
-
-## Troubleshotting session and... at last got ClientId!
 
 Here is a smart snippet to print some hex buffer (already available in my issue comments):
 
@@ -11361,11 +11295,9 @@ At last I got the ClientId from WebProviderTokenRequest in the CoUnmarshalInterf
 TL;DR Worked into the CoUnmarshalInterface to get from IStream the real IID inside OBJREF header to know when IWebProviderTokenRequest is obtained. Could extract the ClientId from that interface during CoUnmarshalInterface (it was empty in the CreateInstance call in previous tries).
 
 
-= 2023-10-13
+= Getting (and setting) properties in WebTokenRequest
 :date: 2023-10-13
 :tags: venn
-
-## Getting (and setting) properties in WebTokenRequest
 
 Since modifying the client id seems not so feasible, but we got now a WebTokenRequest to play with in AAD Broker I was trying to change the properties field to see if it is easy enough. And after sweating a little bit to make this work into WorkplaceHook.dll (because there is no doc about to link native with HSTRING API) I was able to query a key and insert a new one. As a proof AAD Broker itself prints the "Workplace" key I inserted during the unmarshaling to the debugger output:
 
@@ -11387,11 +11319,9 @@ The only thing seems a mistery is how to enumerate keys and values from this has
 TL;DR Could find the LoginHint inside WebTokenRequest.Properties and to insert a new key/value pair. The result is printed to debugger output by AAD Broker itself.
 
 
-= 2023-10-16
+= Insert Workplace flag in client app as a WebTokenRequest property
 :date: 2023-10-16
 :tags: venn
-
-## Insert Workplace flag in client app as a WebTokenRequest property
 
 When running inside SE inside the WebTokenRequest object will be inserted [a property] with key "Workplace" (value "true"), what will be delivered to AAD Broker during signin. This way we can know if the client app is running inside or outside SE at the moment of unmarshaling this interface.
 
@@ -11438,11 +11368,9 @@ TL;DR Insert Workplace flag in client app (Teams) as a WebTokenRequest property 
 > You can examine the token for a process with the !token command. You’ll find the address of the token in the output of the !process command.
 
 
-= 2023-10-17
+= Add postfix into account being added in AAD Broker
 :date: 2023-10-17
 :tags: venn
-
-## Add postfix into account being added in AAD Broker
 
 First I cleaned the spike to remove unused and test code and implemented the WorkplaceId idea from Chermyanin with a fixed GUID. These two lines in log indicate the client app is running inside SE or outside.
 
@@ -11479,11 +11407,9 @@ RoGetActivationFactory classId=Windows.Security.Authentication.Web.Provider.WebA
 TL;DR Added fixed GUID in WorkplaceId property to WebTokenRequest to identify AAD Broker threads activated from inside SE. Investigated what will be the class/interface to be manipulated to add postfix "_se" to WebAccounts added from AAD Broker; found the most promising will be WebAccountManager (because of their `AddWebAccount*` methods).
 
 
-= 2023-10-18
+= Installing proxy hook to WebAccountManager and changing user id (some issues to solve yet)
 :date: 2023-10-18
 :tags: venn
-
-## Installing proxy hook to WebAccountManager and changing user id (some issues to solve yet)
 
 I implemented proxies for every interface implemented by WebAccountManager. However, when testing I realized AAD Broker acquires IWebAccountMapManagerStatics (responsible for saving the account per app) using `combase!IUnknown_QueryInterface_Proxy` after querying for IUnknown inside some other WebAccountManager (IWebAccountManagerStatics).
 
@@ -11530,11 +11456,9 @@ Besides, Oleh sent me its branch and it seems we are working in the same task (m
 TL;DR Implemented proxy to all WebAccountManager interfaces, adapted to IUnknown to get `IWebAccountManagerStatics` but found issues about finishing signin in Teams. Read Oleh's branch that uses COMProxy instead of WinRT protection (as I), but it seems we are working into the same task. Need to merge work or align tasks to avoid duplicate effort.
 
 
-= 2023-10-19
+= Integrating filtering + context branches
 :date: 2023-10-19
 :tags: venn
-
-## Integrating filtering + context branches
 
 The Oleh's solution to hook WebAccountManager worked until the `IWebAccountMapManagerStatics::AddWebAccountWithScopeAndMapAsync` call (starting Teams normally), so I merged both branches to mine and added the WebAccountId or UserName change implementation inside it.
 
@@ -12727,11 +12651,9 @@ img/welcome_msteams_outside_se_after_signin_inside_se.png
 TL;DR Integrated filtering + context branches. Still using WinRT for WebTokenRequest insert property WorkplaceId because the COM Proxy solution was not arriving at AAD Broker (dunno why). Analyzed the logs from BackgroundTaskHost after signin. WorkplaceId is still present in BackgroundTaskHost even after AAD Broker finished, but should be new inserts from Teams running inside SE. Trying to insert WorkplaceId inside WebAccount to see if it is persisted in cache, so we can know which one was recorded inside SE.
 
 
-= 2023-10-20
+= Trying to discovery more about setting and getting properties persisted from a WebAccount.
 :date: 2023-10-20
 :tags: venn
-
-## Trying to discovery more about setting and getting properties persisted from a WebAccount.
 
 Merged with ROADMAP-69311 (the IAsyncOperations part) and investigated which methods are called post signin from Microsoft Teams. Identify that the same instance of BackgroundTaskHost is used to get token for [two different clients]:
 
@@ -12822,18 +12744,16 @@ I ran out of ideas for now. It should be better to start with the release soluti
 TL;DR Trying to persist WorkplaceId (inside SE flag) in our storage to avoid modifying WebAccount original info. Tried simple tests in injected AAD Broker to write an INI file and to load the app hive, but both didn't work yet. Perhaps it would be better to start with the release solution, communicating with the Workplace thru IPC and saving to some Workplace storage. I searched in code/docs but found no sample yet of how to persist something from hook DLL to virtual drive.
 
 
-= 2023-10-25
-
-## Register WebAccount id and find all web accounts in Container (WIP)
+= Register WebAccount id and find all web accounts in Container (WIP)
+:date: 2023-10-25
+:tags: venn
 
 Made the request/response part for new Ipc methods and inserted into the unmarshal process in AAD Broker. Now for the next part need to change the Id type from AadWebAccount from Guid to string (a WebAccount id example is "bSnuZWC1LkEXxo0XPiYv2yo7ZgzbySy0DvlmP79qC-w") and change from in the Container from current memory list to write to registry with id as a value (to be unique) and the data as the inside or outside SE flag (WorkplaceId or empty?).
 
 
-= 2023-10-26
+= Keep a map of WebAccounts indexed by... correlation id?
 :date: 2023-10-26
 :tags: venn
-
-## Keep a map of WebAccounts indexed by... correlation id?
 
 It seems that this information is available during the whole signin process. At least in the first one. Since AAD Broker is only started to make a login and we pass the WorkplaceId into WebTokenRequest that is unmarshaled the only other info at this moment is the ids of the process, since there is no login yet.
 
@@ -12842,11 +12762,9 @@ But there is no correlation id in the properties from WebAccountManager::AddWebA
 Also we can't use LoginHint because that could change during the login.
 
 
-= 2023-11-04
+= Still find a index to map WebAccounts in CoUnMarshalInterface hook
 :date: 2023-11-04
 :tags: venn
-
-## Still find a index to map WebAccounts in CoUnMarshalInterface hook
 
 Still trying to find a index to map WebAccounts in CoUnMarshalInterface hook. My next test would be to use TLS or something but need to know if unmarshal from WebTokenRequest and AAD window are in the same thread. However, I am getting some issues to run lastest version (compilation broken around AadWebAccountService, AadWebAccountInfo not available). Bellow the state of branches/commits:
 
