@@ -2,8 +2,8 @@ import shutil
 import os
 
 src = r'k:\documents\My Clippings.txt'
-dst = r'C:\Users\caloni\clippings.txt'
-vim = r'C:\Users\caloni\clippings.so'
+dst = os.path.join(os.getcwd(), 'clippings.txt')
+vim = os.path.join(os.getcwd(), 'clippings.so')
 
 lines = []
 if os.path.exists(src):
