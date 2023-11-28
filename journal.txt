@@ -13593,3 +13593,67 @@ Analyzing the dump does not seem related to this issue, but it is easly reproduc
 Fixed/improved some points in code commented by Oleh, Chermyanin and Sonar. The code passed, but now I am going to make some tests about state of storage-id versus OneAuth.
 
 To test the case to be solve by this fix login into an account inside SE with WAMFilterEnabled OFF, turn the WAMFilterEnabled ON and login into the same account. Before the fix the account is not logged in anymore. With the fix the account is logged in.
+
+
+= Finished the PR for OneAuth files
+:date: 2023-11-27
+:tags: venn
+
+I was unable to reproduce the failure about lost signed in account inside SE. Odd. However, since the PR was approved I am merging it anyway.
+
+= SE ~~Outlook~~ Word crash
+:date: 2023-11-27
+:tags: venn
+
+This is reproducible in Demo now. Just need to lock session and wait for some minutes. I suspected that the Sleep/Resume is the key, so it is not the same as the OP. Going to debug Word.
+
+Debugged Word, thought at principle being the HookAntiScreenEnabled feature flags because it was generating lots of debugger output message like this:
+
+```
+clientcore\windows\dwm\dwmapi\attribute.cpp(157)\dwmapi.dll!00007FFD0E2A37A1: (caller: 00007FFCC201229A) LogHr(12733) tid(3094) 80070006 The handle is invalid.
+```
+
+However, disabling this feature had no effect (except no more handle is invalid output messages).
+
+After a test enabling again nothing occured. So I realized no document was opened. So I opened in another test and the crash occurred.
+
+Another observation from the state is that Word is with autosave option enabled.
+
+So the steps to reproduce the error are:
+
+ - start Demo;
+ - run Word and open a document; autosave is ON;
+ - lock the computer;
+ - wait to the computer to sleep (put 2 mins);
+ - let it sleeping for some minutes (let circa 2 mins);
+ - resume the computer;
+ - scataplum: Word crashes and restarts;
+ - the same does not happen using Word outside SE.
+
+The call stack:
+
+```
+ # Call Site
+00 Rtc!Concurrency::details::_ExceptionHolder::~_ExceptionHolder
+01 Rtc!Concurrency::details::_Task_impl_base::~_Task_impl_base
+02 Rtc!Concurrency::details::_Task_impl<std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> > >::`vector deleting destructor'
+03 Rtc!Concurrency::details::_PPLTaskHandle<std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> >,Concurrency::task<unsigned __int64>::_ContinuationTaskHandle<unsigned __int64,std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> >,std::function<std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> > __cdecl(unsigned __int64)>,std::integral_constant<bool,0>,Concurrency::details::_TypeSelectorNoAsync>,Concurrency::details::_ContinuationTaskHandleBase>::~_PPLTaskHandle<std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> >,Concurrency::task<unsigned __int64>::_ContinuationTaskHandle<unsigned __int64,std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> >,std::function<std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> > __cdecl(unsigned __int64)>,std::integral_constant<bool,0>,Concurrency::details::_TypeSelectorNoAsync>,Concurrency::details::_ContinuationTaskHandleBase>
+04 Rtc!Concurrency::task<unsigned __int64>::_ContinuationTaskHandle<unsigned __int64,std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> >,std::function<std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> > __cdecl(unsigned __int64)>,std::integral_constant<bool,0>,Concurrency::details::_TypeSelectorNoAsync>::`vector deleting destructor'
+05 Rtc!Concurrency::details::_TaskProcHandle::_RunChoreBridge
+06 Rtc!Concurrency::details::_DefaultPPLTaskScheduler::_PPLTaskChore::_Callback
+07 MSVCP140!Concurrency::details::`anonymous namespace'::_Task_scheduler_callback
+08 ntdll!TppWorkpExecuteCallback
+09 ntdll!TppWorkerThread
+0a KERNEL32!BaseThreadInitThunk
+0b ntdll!RtlUserThreadStart
+```
+
+Since it is easy to reproduce I am toggling the feature flags to see if it is a specific one. From the one shot tests I am sure I could avoid the crash with a specific set of flags.
+
+And I saw, but need to reproduce again, winword.exe being started inside SE and after tried to reproduce crash it did not crashed, but the hook injected and the blue border was gone. This seems odd enought to give it a try, and could mean a behavior similar to Outlook in this issue (except that there was no crash).
+
+Besides this comment there are some steps to follow here:
+
+ - get the feature flags from the log and try it (besides other symptoms);
+ - find the right set of feature flags (or the feature flag) by divide & conquer;
+ - try to reproduce the odd behavior of winword getting out of hook.
