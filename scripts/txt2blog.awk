@@ -12,6 +12,8 @@ function toslug(str)
   gsub(/[Úú]/, "u", str)
   gsub(/[ÍÏíï]/, "i", str)
   gsub(/[#()'",;:-]/, "", str)
+  gsub(/&/, "and", str)
+  gsub(/!/, "", str)
   gsub(/ /, "-", str)
   return tolower(str)
 }

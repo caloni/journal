@@ -11,6 +11,7 @@ function tohtml(str)
   gsub(/&/, "&amp;", str)
   gsub(/</, "\\&lt;", str)
   gsub(/>/, "\\&gt;", str)
+  gsub(/"/, "\\&quot;", str)
   return str
 }
 
@@ -23,6 +24,8 @@ function toslug(str)
   gsub(/[Úú]/, "u", str)
   gsub(/[ÍÏíï]/, "i", str)
   gsub(/[#()'",;:-]/, "", str)
+  gsub(/&/, "and", str)
+  gsub(/!/, "", str)
   gsub(/ /, "-", str)
   return tolower(str)
 }
