@@ -13832,3 +13832,45 @@ Now I have some steps to follow:
  - Reproduce original Outlook crash based on the exact version from the issue;
  - More log analysis to find something odd in the original case.
 
+
+= Getting Workplace version from the issue
+:date: 2023-11-29
+:tags: venn
+
+Got back to `nightly-1.0.8469.21791`, the closest I believe is the version from the issue. However, Container can't run because the dlp policy update is failing. Perhaps some change in json objects.
+
+```
+Warning: Workplace.Container.Api.Common.Exceptions.WorkplaceContainerServiceException: Workplace Container has been terminated during waiting for session confirmation
+   at Workplace.Container.Api.WorkplaceContainerManager.VerifySessionConfirmed()
+```
+
+Container.Trace:
+
+```
+2023-11-29 15:02:59.373 - [INFO] - [0:10996:16] - Token expiration date: 11/29/2023 3:17:37 PM. Current time: 11/29/2023 3:02:37 PM. RefreshTime: 00:13:59.7498230
+2023-11-29 15:03:00.422 - [ERRO] - [0:10996:14] - Failed to refresh dlp policy
+	Exception: HTTP Response: 
+
+OS33.Api.DlpPolicy.Data.DlpPolicyClientException: Could not deserialize the response body stream as OS33.Api.DlpPolicy.Data.ContainerPolicy.
+
+Status: 200
+Response: 
+ ---> Newtonsoft.Json.JsonSerializationException: Error converting value "Triofox" to type 'OS33.Api.DlpPolicy.Data.FileSystemType'. Path 'filesAndData.defaultDownloadsLocation', line 1, position 3712. ---> System.ArgumentException: Requested value 'Triofox' was not found.
+```
+
+Indeed [this Triofox change] is from October.
+
+[this Triofox change]: https://tfs.os33.net/DefaultCollection/Portal/_git/OS33.Api.DlpPolicy/commit/3f8b390918dab20059888b400d96d1710307e0ca?refName=refs%2Fheads%2Fmaster&_a=compare&path=%2FOS33.Api.DlpPolicy%2Fdlp-policy.swagger.json
+
+
+= Outlook crash log analysis
+:date: 2023-11-29
+:tags: venn
+
+From SleepStudy we can assume the screen was off at 10:16:17 for 02:40 and then at 10:18:57 the session was active for 05:23 until the report generation.
+
+Inside the Container the first Outlook was launched at 08:40:08 (PID 20456) together with Slack, Chrome, Zoom. A second Outlook was only launched again at 10:20:35 (PID 48384) after the user unlock the session.
+
+During the report a second instance of Outlook was running (PID 46108) and it was started outside SE. Using the driver log we know this outside instance was started at 14:19:14, just after the computer became active again.
+
+That only corroborates with the op, lacking more info about 1) the Outlook that crashed and 2) this instance started outside SE without user intervention.
