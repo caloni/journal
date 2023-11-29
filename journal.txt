@@ -4343,7 +4343,7 @@ Previsão: 19/06
 
 Previsão: 03/07
  
-= 2023-06-14
+= Study about hooks and network inside Container
 :date: 2023-06-14
 :tags: venn
  
@@ -4359,7 +4359,7 @@ After the reboot the ping worked again normally. After logging to Workplace the 
 
 I am uploading this status also to 68699, since it is more related to that issue, but reporting my status in analysis here as well.
  
-= 2023-06-14
+= Testing the installation from scratch
 :date: 2023-06-14
 :tags: venn
  
@@ -4730,11 +4730,11 @@ After restarting W4W the value `Caloni2` is set again in the registry, indicatin
 Either case I now have to do some research about how this part of Workplace works (my next step).
  
  
-= 2023-06-22
+= How installation and update for the dev work?
 :date: 2023-06-22
 :tags: venn
  
-Trying to figure out how installation and update for the dev works, mainly because the lastest version currently has some issues about loading or login, I saved [the thread](https://vennetians.slack.com/archives/CQJL2C4BF/p1686818603199649) where Ivan Sizov tell about the tool WorkplaceCopier.
+Trying to figure out how installation and update for the dev work, mainly because the lastest version currently has some issues about loading or login, I saved [the thread](https://vennetians.slack.com/archives/CQJL2C4BF/p1686818603199649) where Ivan Sizov tell about the tool WorkplaceCopier.
 
 Usually the issues about using dev version from the components is when you have Workplace Update.exe running signed and workplace.exe built on your machine unsigned. This is a problem. In order to make this work you should install unsigned version of Workplace on your machine.
 
@@ -4742,7 +4742,7 @@ WorkplaceCopier copies unsigned files to the program files and reinstalls the co
 
 However, now there is a [nonsigned installer for Workplace](https://downloads.os33dev.net/non-signed/clients/windows/WorkplaceInstaller.exe) that keeps the Updater nonsigned able to keep dev versions. I am using this version to try to setup the VM and debug the registry manipulation.
  
-= 2023-06-22
+= Setting up the same scenario in my VM
 :date: 2023-06-22
 :tags: venn
  
@@ -4919,7 +4919,7 @@ Now launching applications is giving some error. Workplace Starter is crashing a
 
 After redoing the test with zeroed machine I made a second test of running chrome and it worked. Just notepad is crashing starter (that I noticed).
  
-= 2023-06-28
+= Running registry tests locally
 :date: 2023-06-28
 :tags: venn
  
@@ -4962,7 +4962,7 @@ python -m robot -v C_USER:user -v C_PASS:pass --xunit test_result.xml robot\test
 
 I was thinking into analyzing one of them to see how it is working, but not sure about the next step into this issue. Before I receive some feedback to next steps I am going to follow the initial steps from the issue (ROADMAP-68197), like trying to see how the first documented test succeeded.
  
-= 2023-06-28
+= Running only one test
 :date: 2023-06-28
 :tags: venn
  
@@ -5011,7 +5011,7 @@ Generate Unique ID
     [Return]  ${uuid}
 ```
  
-= 2023-06-30
+= Reproduce the issue in my VM Win11
 :date: 2023-06-30
 :tags: venn
  
@@ -5029,7 +5029,7 @@ About the network, the PCG failed to connect from 8:57 to 10:37, and that was wh
 
 The version that I tested first in my VM is the same I am using in my real machine: 4.0.8579.25004. I am going to try to reproduce it in real one now.
  
-= 2023-06-30
+= VM reasonably reproducible
 :date: 2023-06-30
 :tags: venn
  
@@ -13459,7 +13459,7 @@ End of July investigation.
 [attack to get it]: https://blog.netwrix.com/2023/05/13/pass-the-prt-overview/
 
 
-= Documenting AAD internals
+= Documenting AAD internals - Part 2
 :date: 2023-11-19
 :tags: venn
 
@@ -13513,7 +13513,7 @@ End of September 22 investigation.
 [WebTokenRequestPromptType]: https://learn.microsoft.com/en-us/uwp/api/windows.security.authentication.web.core.webtokenrequestprompttype?view=winrt-22621
 
 
-= Documenting AAD internals
+= Documenting AAD internals - Part 3
 :date: 2023-11-20
 :tags: venn
 
