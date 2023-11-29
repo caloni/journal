@@ -13657,3 +13657,178 @@ Besides this comment there are some steps to follow here:
  - get the feature flags from the log and try it (besides other symptoms);
  - find the right set of feature flags (or the feature flag) by divide & conquer;
  - try to reproduce the odd behavior of winword getting out of hook.
+
+
+= Feature Flags
+:date: 2023-11-28
+:link: https://www.os33dev.com/Home/System/ConfigForm.aspx?_id=4817965d-3624-46b8-b90e-c0f04a664469&_c=1&_i=0&_flock=False
+:link: https://os33corp.atlassian.net/wiki/spaces/DTDLP/pages/2355134798/WORKPLACE+CONTAINER+CONFIG
+:tags: venn
+
+Feature flags is still a subject to study. There are separations between driver feature flags and container feature flags, status of each flag (testing, released). Not all feature flags seen in Demo output or into the config in DLP are present.
+
+For start, binding info in `Workplace.Container.Windows\Workplace.Container\Workplace.Container\Data\FeatureFlags.cs`.
+
+And here is a clean sorted settings to replace in DLP environment (it is being updated in the Confluence link above).
+
+```
+{
+  "activity":
+  {
+    "serviceHosts": ["https://www.os33dev.com", "https://www2.os33dev.net"]
+  },
+  "badge": { },
+  "containerServiceStartRetryTimeout": 3,
+  "containerServiceStartThroughServiceManagerEnabled": true,
+  "containerSetupRetryTimeout": 15,
+  "crashDumpType": 1,
+  "gateway":
+  {
+    "dnsPort": 53,
+    "dnsPortWindows": 8853,
+    "keepAliveTimeout": 600,
+    "serviceHosts": ["https://www.os33dev.com", "https://www2.os33dev.net"]
+  },
+  "gatewayManager":
+  {
+    "bfdTimeout": 5,
+    "pingTimeout": 5
+  },
+  "featureFlags":
+  {
+    "AADBrokerPluginNetworkRedirectionEnabled": false,
+    "AadWebProxyEnabled": false,
+    "AadWorkaroundEnabled": false,
+    "ApplicationAutoLaunchEnabled": false,
+    "ApplicationInsightsLoggerEnabled": false,
+    "ApplicationInsightsPerformanceCollectorEnabled": false,
+    "BadgeTopmostEnabled": false,
+    "BorderTransparencyDetectionEnabled": false,
+    "BoxDriveEnabled": false,
+    "BypassNetworksFromPolicyEnabled": false,
+    "CompactVhdxEnabled": false,
+    "ConcurrentInvertedProtocolEnabled" : false,
+    "ContainerProtectionEnabled" : false,
+    "CrashOnWrongRegistryOperation": false,
+    "DebugModeEnabled": false,
+    "DisableAADWAM": false,
+    "DisableIpV6": false,
+    "DisableProtectedViewEnabled": false,
+    "DrivePathProtectionEnabled": false,
+    "DynamicDataExchangeHook" : false,
+    "ExternalVpnEnabled":true,	
+    "FakePrinterEnabled": false,
+    "FixFirewallBugWithDeviceReattachment": false,
+    "ForceInstallWorkplaceBrowserExtension": false,
+    "GatewayDnsEnabled": false,
+    "GlobalProtectWorkaroundEnabled": false,
+    "HideBitlockerManagementEnabled": false,
+    "HideExplorerStartup": false,
+    "HookAntiScreenEnabled": false,
+    "HookAppStartAfterRebootAllowed": false,
+    "HookDisablePrintersEnabled": false,
+    "HookDragAndDropEnabled": false,
+    "HookHidePrintDialogEnabled": false,
+    "HookPrinterListFilterEnabled": false,
+    "HookSystemDragAndDropAllowed": false,
+    "HookWinRtEnabled": false,
+    "InstallAod": false,
+    "InstallContainerComponentIntoCurrent": false,
+    "IpcBinarySerializationEnabled": false,
+    "KeyLoggerEnabled": false,	
+    "LZOneDriveEnabled": false,
+    "LocalRoutesEnabled": false,
+    "LocalZoneProfileVhdxEnabled": false,
+    "LockContainerSessionEnabled": false,	
+    "MacAllowWorkplaceDriveInContainerOnly": false,
+    "MacBFDLogicEnabled" : false,
+    "MacBadgeStartOnCreateContainerSession": false,
+    "MacClipboardManagerEnabled": false,
+    "MacConfirmSessionOnlyWhenClipboardManagerIsRunning": false,
+    "MacConnectivityStatusEnabled": false,
+    "MacEnforceLinksToLZ" : false,
+    "MacEnforceLinksToLZv2" : false,
+    "MacGatewayDnsEnabled" : false,
+    "MacIsolationEnabled": false,
+    "MacOfflineModeEnabled": false,
+    "MacOpenDefaultBrowserInContainerEnabled": false,
+    "MacPreciseBorderForOverlappedPopups" : false,
+    "MacReadOnlyFileSystemEnabled": false,
+    "MacSetDownloadsFolderUsingSettings": false,
+    "MacStreamAppHotfixWithDoubleVPNTunnelRestart": false,
+    "MacUseRefactoredBadgeInfrastructure" : false,
+    "NetworkAccessPolicyEnabled": false,
+    "RegistryForceAccessCheckEnabled": false,
+    "RegistryProtectionEnabled": false,
+    "RememberDeletedRegistryKeys": false,
+    "SecurityAttributesWorkaroundEnabled": false,
+    "ShellChangeNotifyHook": false,
+    "SingleInstanceEnabled": false,
+    "SystemTrayIconBorderEnabled" : false,
+    "ThirdPartyFileSystemsEnabled": false,
+    "ToastNotificationEnabled": false,  
+    "VennDiskEnabled": false,
+    "VennLocalMachineHiveCleanupEnabled": false,
+    "VhdxEncryptionFlags": "None",
+    "WAMFilterEnabled": false,
+    "WebCacheEnabled": false,
+    "WebProxyEnabled": false,
+    "WmiMethodsFilterEnabled": false,
+    "WorkplaceDriveOnVennDiskEnabled": false
+  },
+  "policy":
+  {
+    "policyRefreshTimeout": 3600,
+    "serviceHosts": ["https://www.os33dev.com", "https://www2.os33dev.net"]
+  },
+  "rules": {
+    "file": [ ]
+  },
+  "virtualDisk":
+  {
+    "serviceHosts": ["https://www.os33dev.com", "https://www2.os33dev.net"]
+  }
+}
+```
+
+
+= Getting the right feature flags set from the log
+:date: 2023-11-28
+:tags: venn
+
+Today I made some research to find every feature flag shown into the original log to match them completely. Got stuck in some part where it is needed to have `VennDiskEnabled: true` but didn't know that (otherwise Office can't communicate). Anyway, I could accomplish this target.
+
+And I discovered that with the exact flags `winword.exe` stopped crashing.
+
+Well, it was not the exact flags, since the original version there was more flags and the LOCAL_ZONE_PROFILE_VHDX_ENABLED was removed. Bellow are the additional flags:
+
+ - KEYLOGGER_ENABLED=0
+ - IPC_BINARY_SERIALIZATION_ENABLED=0
+ - DYNAMIC_DATA_EXCHANGE_HOOK=0
+ - START_SPOOLER=0
+ - CHROME_WORKAROUND_ENABLED=0
+ - MICROSOFT_WEB_CAM_HOOK=0
+ - HIDE_EXPLORER_STARTUP=1
+ - WINDOW_MESSAGE_HOOK=0
+ - WEB_PROXY_ENABLED=1
+ - WMI_METHODS_FILTER_ENABLED=0
+ - BITS_ENABLED=0
+ - UWP_FULL_TRUST_PROCESS_SUPPORT_ENABLED=0
+ - UWP_FULL_TRUST_WORKAROUND_ENABLED=0
+ - POSTFIX_CREDENTIAL_TARGET_NAME=0
+ - AAD_WEB_PROXY_ENABLED=1
+ - PROTECTION_LOADLIBRARY=0
+ - TOAST_NOTIFICATION_REPOINT_ENABLED=0
+ - UPDATE_VOLUME_STATUS_HOOK=0
+ - WIN11_EXPLORER_TABS_ENABLED=0
+ - BATCH_HOOKS_INSTALLATION=0
+ - WAM_FILTER_ENABLED=1
+ - WORKPLACE_DRIVE_ON_VENN_DISK_ENABLED=0
+
+Now I have some steps to follow:
+
+ - Find the feature flags(s) that caused winword crashed (not the Outlook issue, though);
+ - Reproduce the odd behavior of winword getting out of hook (for that we can get some log from driver about hook injection, as observed from Chermyanin);
+ - Reproduce original Outlook crash based on the exact version from the issue;
+ - More log analysis to find something odd in the original case.
+
