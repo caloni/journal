@@ -13926,3 +13926,37 @@ ntdll.dll!TppWorkpExecuteCallback()
 From time to time VMWare disconnects from internet. Has to reboot VM to go back again (could be unrelated, but only occurred when crash occurred).
 
 When opening several Office apps at once the signin window shows again, as if the account was not logged in yet. Reopening the app resolves.
+
+
+= Faulty network, Word crashing
+:date: 2023-12-01
+:tags: venn
+
+Simplified the steps to reproduce the crash (just run Word with a document and AutoSave) and locate the place in code where the crash is involved. If we just let the driver to redirect local network Word does not crash. The crash occurs if some connections are redirected by being local (which explains the LocalRoutesEnabled flag).
+
+If the driver does not return from the function `NetworkFilter2::onConnectRedirect` analyzing the feature flag Word does not crash.
+
+```
+if (protectedProcesses->localRoutesEnabled(static_cast<ULONG>(data.metaValues->processId)))
+{
+  if (data.fixedValues->layerId == FWPS_LAYER_ALE_CONNECT_REDIRECT_V4)
+  {
+    const auto remoteAddress = data.fixedValues->incomingValue[FWPS_FIELD_ALE_CONNECT_REDIRECT_V4_IP_REMOTE_ADDRESS].value.uint32;
+    if(protectedProcesses->isAllowedNetwork(static_cast<ULONG>(data.metaValues->processId), remoteAddress))
+    {
+        // do not redirect Allowed Network
+        return;
+    }
+
+    const auto remotePort = data.fixedValues->incomingValue[FWPS_FIELD_ALE_CONNECT_REDIRECT_V4_IP_REMOTE_PORT].value.uint16;
+    if (protectedProcesses->isProxyAddressAndPort(remoteAddress, remotePort))
+    {
+        // do not redirect when accessing our proxy
+        // verification of access rights to the proxy occurs at the connection level
+        return;
+    }
+  }
+}
+```
+
+Tried to kernel debug, but the crash does not occur when rebooting in debug mode (even without WinDbg attached). It seems to be a race condition situation.
