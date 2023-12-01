@@ -4259,12 +4259,12 @@ Viagem de trem para o bairro vizinho custa um real, mas não tem nada lá. A bod
 
 Ótimo passeio privado pelas bodegas da região. O nosso guia, Juan Manoel, é muito simpático e informativo sobre a região, sobre a troca de maçãs e peras por frutas vermelhas por causa da crise, e dicas do que fazer, como o passeio paleontológico. Fomos na bodega Malma primeiro, comprei seis garrafas gran reserva, quatro de um blend sensacional. A guia da bodega fez uma apresentação espontânea da pequena Malma e uma degustação livre. Del Fin del Mundo seria a próxima, mas houve um acidente: um homem caiu dentro de um dos tanques! Ele ficou em estado grave e a bodega fechou por questões de segurança. Não era pra ser. Então fomos para a Schroeder para almoçar e fazer a visita, muito rápida, mas com informações interessantes sobre o processo da vinícola e a descoberta de uma espécie nova de dinossauro no terreno da bodega (que levou o nome da família). Depois para compensar fomos à casa de Té com frutos vermelhos e negros totalmente orgânicos e plantados do lado.
 
-= 2019-04-16
+= Ontem andamos 12km
 :date: 2019-04-16
 
 Ontem andamos 12km descendo a cidade para o passeio da costa, que é belíssimo, com água transparente, e comemos no La Toscana, um ojo de bife que diz ser ao ponto, mas é bem passado, batatas "ahumadas" bem temperadas e pesadas, e uma entrada com queijo brie derretendo por dentro e casca intensa e abóbora grelhada. De noite eu fiz a carne, o angosto ao ponto, só que de verdade, e a Mitiko uma salada criativa com nachos. Dia seguinte fomos ver o maior dinossauro carnívoro já encontrado (única espécie), com os fósseis originais e uma réplica montada. Haviam outros dinos em El Chocon, além de uma hidrelétrica (que diferente de Itaipu que impressiona pela altura, essa impressiona pela largura). Por fim cinema com documentário sobre cantor panamenho e cervejaria Ohaum (algo assim) com um hambúrguer meio industrial prensado, mas ótimas cervejas. A Pale Ale aromática e a IPA premiada amarga, mas com sabor intenso.
 
-= 2019-04-16
+= Fomos às compras de vinhos
 :date: 2019-04-16
 
 Hoje fomos às compras de vinhos. Passamos primeiro no Carrefour e achamos vinhos de Mendoza e de Neuquem. Depois almoçamos novamente no La Toscana pedindo um cordeiro (bem grelhado, mas não é meu favorito) e na volta paramos na melhor heladeria da cidade e em seguida passamos em uma wine store que fica no caminho, e lá comprei mais 4 garrafas da região.
@@ -13874,3 +13874,55 @@ Inside the Container the first Outlook was launched at 08:40:08 (PID 20456) toge
 During the report a second instance of Outlook was running (PID 46108) and it was started outside SE. Using the driver log we know this outside instance was started at 14:19:14, just after the computer became active again.
 
 That only corroborates with the op, lacking more info about 1) the Outlook that crashed and 2) this instance started outside SE without user intervention.
+
+
+= Finding the Word crash feature flag
+:date: 2023-11-30
+:tags: venn
+
+The OP (Alex Pinsker) updated me that he is no longer using PC for some months now, so I believe this is the end of the road to reproduce this Outlook issue for now.
+
+However, I will try to reproduce the Word issue, specially the perhaps running outside SE situation:
+
+> Find the feature flags(s) that caused winword crashed (not the Outlook issue, though);
+
+After refinement I could reproduce Winword crash using `LocalRoutesEnabled=true` feature flag and could not reproduce using `LocalRoutesEnabled=false`. There are other minor flags I need to let `true` to Office apps work, such as the AAD related.
+
+### Steps to reproduce
+
+ - Configure Sleep time to 2 minutes.
+ - Set the user with settings above.
+ - Start Demo.
+ - Run Word, Outlook, Excel.
+ - Open a document in Word. I believe AutoSave must be turned on.
+ - Lock the session.
+ - Wait to VM to sleep.
+ - Wait one more minute sleeping.
+ - Wake the VM.
+ - Select Word window.
+
+Expected Result: SE Word should not crash on resume VM.
+Actual Result: SE Word crashes and restartes; a dump file is available in `Workplace/Container` logs folder.
+
+### Details
+
+The crash occurs always in `RTC.dll` executing a async task. This module is the Microsoft Realtime Collaboration. Here is the stack:
+
+```
+RTC.DLL!Concurrency::details::_ExceptionHolder::~_ExceptionHolder(void)
+RTC.DLL!Concurrency::details::_Task_impl_base::~_Task_impl_base(void)
+RTC.DLL!Concurrency::details::_Task_impl<class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > >::`vector deleting destructor'(unsigned int)
+RTC.DLL!Concurrency::details::_PPLTaskHandle<class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> >,struct Concurrency::task<unsigned __int64>::_ContinuationTaskHandle<unsigned __int64,class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> >,class std::function<class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > (unsigned __int64)>,struct std::integral_constant<bool,0>,struct Concurrency::details::_TypeSelectorNoAsync>,struct Concurrency::details::_ContinuationTaskHandleBase>::~_PPLTaskHandle<class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> >,struct Concurrency::task<unsigned __int64>::_ContinuationTaskHandle<unsigned __int64,class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> >,class std::function<class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > (unsigne
+RTC.DLL!Concurrency::task<unsigned __int64>::_ContinuationTaskHandle<unsigned __int64,class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> >,class std::function<class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > (unsigned __int64)>,struct std::integral_constant<bool,0>,struct Concurrency::details::_TypeSelectorNoAsync>::`vector deleting destructor'(unsigned int)
+RTC.DLL!Concurrency::details::_TaskProcHandle::_RunChoreBridge(void *)
+RTC.DLL!Concurrency::details::_DefaultPPLTaskScheduler::_PPLTaskChore::_Callback(void *)
+msvcp140.dll!Concurrency::details::`anonymous namespace'::_Task_scheduler_callback(_TP_CALLBACK_INSTANCE * _Pci, void * _Args, _TP_WORK * __formal) Line 132
+	at D:\a\_work\1\s\src\vctools\crt\github\stl\src\taskscheduler.cpp(132)
+ntdll.dll!TppWorkpExecuteCallback()
+```
+
+### Another observations
+
+From time to time VMWare disconnects from internet. Has to reboot VM to go back again (could be unrelated, but only occurred when crash occurred).
+
+When opening several Office apps at once the signin window shows again, as if the account was not logged in yet. Reopening the app resolves.
