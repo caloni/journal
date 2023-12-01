@@ -1,69 +1,4 @@
-﻿Blogue do Caloni: Programação, Depuração, Transpiração (Wanderley Caloni)
-- Highlight Loc. 92886  | Added on Tuesday, 5 September 23 00:09:45 GMT-03:00
-
-Este assunto é o fora do trabalho que me empolga mais no momento. 
-==========
-Blogue do Caloni: Programação, Depuração, Transpiração (Wanderley Caloni)
-- Highlight Loc. 92888  | Added on Tuesday, 5 September 23 00:10:20 GMT-03:00
-
-Podem ser encontrados 
-==========
-Blogue do Caloni: Programação, Depuração, Transpiração (Wanderley Caloni)
-- Highlight Loc. 92889  | Added on Tuesday, 5 September 23 00:10:38 GMT-03:00
-
-grãos crus 
-==========
-Blogue do Caloni: Programação, Depuração, Transpiração (Wanderley Caloni)
-- Highlight Loc. 92906-7  | Added on Tuesday, 5 September 23 00:13:45 GMT-03:00
-
-Podemos esquecer tudo isso, pois a classificação por cores, e sim o sabor do café, e se concentrar apenas na questão química da reação da torra, que é o que importa para entendermos o aspecto físico do processo. 
-==========
-Blogue do Caloni: Programação, Depuração, Transpiração (Wanderley Caloni)
-- Highlight Loc. 92917  | Added on Tuesday, 5 September 23 00:16:24 GMT-03:00
-
-o processo mais difícil; apenas quando toda a água 
-==========
-Blogue do Caloni: Programação, Depuração, Transpiração (Wanderley Caloni)
-- Highlight Loc. 92930  | Added on Tuesday, 5 September 23 00:19:55 GMT-03:00
-
-boa parte da qualidade da torra é devido 
-==========
-Blogue do Caloni: Programação, Depuração, Transpiração (Wanderley Caloni)
-- Highlight Loc. 92938-39  | Added on Tuesday, 5 September 23 00:21:15 GMT-03:00
-
-E ao mesmo tempo secar os grãos muito devagar pode causar a fermentação dentro do grão e terminar com um grão mofado. 
-==========
-Blogue do Caloni: Programação, Depuração, Transpiração (Wanderley Caloni)
-- Highlight Loc. 92930-31  | Added on Tuesday, 5 September 23 00:21:42 GMT-03:00
-
-à experiência do torrador, situação em que a torra não deve ser confiada apenas em métodos industriais, mas também nas habilidades do torrador, 
-==========
-Blogue do Caloni: Programação, Depuração, Transpiração (Wanderley Caloni)
-- Highlight Loc. 92946-47  | Added on Tuesday, 5 September 23 00:23:40 GMT-03:00
-
-A fração volátil de um café torrado é altamente complexo 
-==========
-Blogue do Caloni: Programação, Depuração, Transpiração (Wanderley Caloni)
-- Highlight Loc. 92953  | Added on Tuesday, 5 September 23 00:24:55 GMT-03:00
-
-amargor sentido no café, então mesmo cafés descafeinados podem ainda ser bastante amargor. 
-==========
-Blogue do Caloni: Programação, Depuração, Transpiração (Wanderley Caloni)
-- Highlight Loc. 92961  | Added on Tuesday, 5 September 23 00:26:05 GMT-03:00
-
-apesar da torra comercial pode 
-==========
-Blogue do Caloni: Programação, Depuração, Transpiração (Wanderley Caloni)
-- Highlight Loc. 92970  | Added on Tuesday, 5 September 23 00:27:51 GMT-03:00
-
-É um elemento vivo e pulsante. Aliás, muito mais que a maioria das pessoas, 
-==========
-Blogue do Caloni: Programação, Depuração, Transpiração (Wanderley Caloni)
-- Highlight Loc. 93760  | Added on Tuesday, 5 September 23 00:31:26 GMT-03:00
-
-dá lição vários outros animes 
-==========
-Windows Internals, Part 1: System architecture, processes, threads, memory management, and more (Pavel Yosifovich, Alex Ionescu and David A. Solomon)
+﻿Windows Internals, Part 1: System architecture, processes, threads, memory management, and more (Pavel Yosifovich, Alex Ionescu and David A. Solomon)
 - Highlight Loc. 15351-53  | Added on Tuesday, 5 September 23 09:07:47 GMT-03:00
 
 A complete treatment of UWP apps is beyond the scope of this chapter. You can find more information in Chapter 3 of this book, and in Chapters 8 and 9 in Part 2.
@@ -81,7 +16,7 @@ This SID is part of the APPLICATION PACKAGE AUTHORITY instead of the NT AUTHORIT
 Windows Internals, Part 1: System architecture, processes, threads, memory management, and more (Pavel Yosifovich, Alex Ionescu and David A. Solomon)
 - Highlight Loc. 15432-34  | Added on Tuesday, 5 September 23 09:34:59 GMT-03:00
 
-• WIN://BGKD This is only used for background hosts (such as the generic background task host BackgroundTaskHost.exe) that can store packaged UWP services running as COM providers. The attribute’s name stands for background and contains an integer value that stores its explicit host ID.
+WIN://BGKD This is only used for background hosts (such as the generic background task host BackgroundTaskHost.exe) that can store packaged UWP services running as COM providers. The attribute’s name stands for background and contains an integer value that stores its explicit host ID.
 ==========
 Windows Internals, Part 1: System architecture, processes, threads, memory management, and more (Pavel Yosifovich, Alex Ionescu and David A. Solomon)
 - Highlight Loc. 15435-37  | Added on Tuesday, 5 September 23 09:35:39 GMT-03:00
@@ -102,81 +37,6 @@ Windows Internals, Part 1: System architecture, processes, threads, memory manag
 - Highlight Loc. 15494-99  | Added on Tuesday, 5 September 23 10:00:54 GMT-03:00
 
 One of the biggest side-effects caused by the presence of an AppContainer SID and related flags is that the access check algorithm you saw in the “Access checks” section earlier in this chapter is modified to essentially ignore all regular user and group SIDs that the token may contain, essentially treating them as deny-only SIDs. This means that even though Calculator may be launched by a user John Doe belonging to the Users and Everyone groups, it will fail any access checks that grant access to John Doe’s SID, the Users group SID, or the Everyone group SID. In fact, the only SIDs that are checked during the discretionary access check algorithm will be that of the AppContainer SID, followed by the capability access check algorithm, which will look at any capability SIDs part of the token.
-==========
-drafts
-- Highlight Loc. 2  | Added on Wednesday, 6 September 23 00:16:39 GMT-03:00
-
-encontrei de conteúdo
-==========
-drafts
-- Highlight Loc. 4  | Added on Wednesday, 6 September 23 00:17:10 GMT-03:00
-
-casas de torra.
-==========
-drafts
-- Highlight Loc. 7  | Added on Wednesday, 6 September 23 00:18:11 GMT-03:00
-
-que começa na compra e estocagem dos seus grãos, que
-==========
-drafts
-- Highlight Loc. 7  | Added on Wednesday, 6 September 23 00:18:24 GMT-03:00
-
-foram secados
-==========
-drafts
-- Highlight Loc. 33  | Added on Wednesday, 6 September 23 00:22:35 GMT-03:00
-
-significantemente
-==========
-drafts
-- Highlight Loc. 35  | Added on Wednesday, 6 September 23 00:23:18 GMT-03:00
-
-Quase todos os açúcares livres são perdidos durante a torra devido à reação Maillard
-==========
-drafts
-- Highlight Loc. 53-54  | Added on Wednesday, 6 September 23 00:27:36 GMT-03:00
-
-secar os grãos muito devagar pode causar a fermentação como resultado um grão mofado.
-==========
-drafts
-- Highlight Loc. 54  | Added on Wednesday, 6 September 23 00:28:13 GMT-03:00
-
-mas mais baseado
-==========
-drafts
-- Highlight Loc. 103  | Added on Wednesday, 6 September 23 00:37:51 GMT-03:00
-
-o gênero de slice of life,
-==========
-drafts
-- Highlight Loc. 109  | Added on Wednesday, 6 September 23 00:38:54 GMT-03:00
-
-na medida certo;
-==========
-drafts
-- Highlight Loc. 109-10  | Added on Wednesday, 6 September 23 00:39:11 GMT-03:00
-
-o pai, um idealista à beira de virar poeira pelos becos e esquinas.
-==========
-drafts
-- Highlight Loc. 110  | Added on Wednesday, 6 September 23 00:39:27 GMT-03:00
-
-misce em scene
-==========
-drafts
-- Highlight Loc. 110-13  | Added on Wednesday, 6 September 23 00:39:57 GMT-03:00
-
-próximo dos anos 70, mas há detalhes mistos, incluindo o japonês. Não é uma referência 100% britânica porque os automóveis dirigem pela direita. Cria-se um clima misto, próximo talvez da pré-guerra mundial (a primeira), toques do império russo... se trata de uma mescla sem personalidade, como geralmente animes japoneses retratam a cultura ocidental, mas muito bem feita.
-==========
-drafts
-- Highlight Loc. 133  | Added on Wednesday, 6 September 23 00:43:11 GMT-03:00
-
-o bug que não está ordenando os itens direito.
-==========
-drafts
-- Highlight Loc. 135  | Added on Wednesday, 6 September 23 00:43:50 GMT-03:00
-
-Então encontro
 ==========
 Windows Internals, Part 1: System architecture, processes, threads, memory management, and more (Pavel Yosifovich, Alex Ionescu and David A. Solomon)
 - Highlight Loc. 15502-4  | Added on Wednesday, 6 September 23 07:58:49 GMT-03:00
@@ -206,7 +66,7 @@ Of course, this takes us back to the same problem: How would such an application
 Windows Internals, Part 1: System architecture, processes, threads, memory management, and more (Pavel Yosifovich, Alex Ionescu and David A. Solomon)
 - Highlight Loc. 15572-604  | Added on Wednesday, 6 September 23 08:19:01 GMT-03:00
 
-EXPERIMENT: Viewing the AppContainer atom table An atom table is a hash table of integers to strings that’s used by the windowing system for various identification purposes, such as Window Class registration (RegisterClassEx) and custom Windows messages. The AppContainer private atom table can be viewed with the kernel debugger: 1. Run Calculator, open WinDbg, and start local kernel debugging. 2. Find the Calculator process: Click here to view code image lkd> !process 0 1 calculator.exe PROCESS ffff828cc9ed1080     SessionId: 1  Cid: 4bd8    Peb: d040bbc000  ParentCid: 03a4 DeepFreeze     DirBase: 5fccaa000  ObjectTable: ffff950ad9fa2800  HandleCount: <Data Not Accessible>     Image: Calculator.exe     VadRoot ffff828cd2c9b6a0 Vads 168 Clone 0 Private 2938. Modified 3332. Locked 0.     DeviceMap ffff950aad2cd2f0     Token                             ffff950adb313060    ... 3. Use the token value with the following expressions: Click here to view code image lkd> r? @$t1 = @$t0->NumberOfBuckets lkd> r? @$t0 = (nt!_RTL_ATOM_TABLE*)((nt!_token*)0xffff950adb313060)- >LowboxNumberEntry->AtomTable lkd> .for (r @$t3 = 0; @$t3 < @$t1; r @$t3 = @$t3 + 1) {  ?? (wchar_t*)@$t0- >Buckets[@$t3]->Name } wchar_t * 0xffff950a'ac39b78a  "Protocols" wchar_t * 0xffff950a'ac17b7aa  "Topics" wchar_t * 0xffff950a'b2fd282a  "TaskbarDPI_Deskband" wchar_t * 0xffff950a'b3e2b47a  "Static" wchar_t * 0xffff950a'b3c9458a  "SysTreeView32" wchar_t * 0xffff950a'ac34143a  "UxSubclassInfo" wchar_t * 0xffff950a'ac5520fa  "StdShowItem" wchar_t * 0xffff950a'abc6762a  "SysSetRedraw" wchar_t * 0xffff950a'b4a5340a  "UIA_WindowVisibilityOverridden" wchar_t * 0xffff950a'ab2c536a  "True" ... wchar_t * 0xffff950a'b492c3ea  "tooltips_class" wchar_t * 0xffff950a'ac23f46a  "Save" wchar_t * 0xffff950a'ac29568a  "MSDraw" wchar_t * 0xffff950a'ac54f32a  "StdNewDocument" wchar_t * 0xffff950a'b546127a  "{FB2E3E59-B442-4B5B-9128-2319BF8DE3B0}" wchar_t * 0xffff950a'ac2e6f4a  "Status" wchar_t * 0xffff950a'ad9426da  "ThemePropScrollBarCtl" wchar_t * 0xffff950a'b3edf5ba  "Edit" wchar_t * 0xffff950a'ab02e32a  "System" wchar_t * 0xffff950a'b3e6c53a  "MDIClient" wchar_t * 0xffff950a'ac17a6ca  "StdDocumentName" wchar_t * 0xffff950a'ac6cbeea  "StdExit" wchar_t * 0xffff950a'b033c70a  "{C56C5799-4BB3-7FAE-7FAD-4DB2F6A53EFF}" wchar_t * 0xffff950a'ab0360fa  "MicrosoftTabletPenServiceProperty" wchar_t * 0xffff950a'ac2f8fea  "OLEsystem"
+EXPERIMENT: Viewing the AppContainer atom table An atom table is a hash table of integers to strings that’s used by the windowing system for various identification purposes, such as Window Class registration (RegisterClassEx) and custom Windows messages. The AppContainer private atom table can be viewed with the kernel debugger.
 ==========
 Windows Internals, Part 1: System architecture, processes, threads, memory management, and more (Pavel Yosifovich, Alex Ionescu and David A. Solomon)
 - Highlight Loc. 15605-8  | Added on Wednesday, 6 September 23 08:20:19 GMT-03:00
@@ -256,7 +116,7 @@ To get the details of the package from which the UWP process was created, you ca
 Windows Internals, Part 1: System architecture, processes, threads, memory management, and more (Pavel Yosifovich, Alex Ionescu and David A. Solomon)
 - Highlight Loc. 15764-829  | Added on Wednesday, 6 September 23 09:04:34 GMT-03:00
 
-EXPERIMENT: Viewing token stored handles To view token stored handles, follow these steps: 1. Run Calculator and launch local kernel debugging. 2. Search for the calculator process: Click here to view code image lkd> !process 0 1 calculator.exe PROCESS ffff828cc9ed1080     SessionId: 1  Cid: 4bd8    Peb: d040bbc000  ParentCid: 03a4 DeepFreeze     DirBase: 5fccaa000  ObjectTable: ffff950ad9fa2800  HandleCount: <Data Not Accessible>     Image: Calculator.exe     VadRoot ffff828cd2c9b6a0 Vads 168 Clone 0 Private 2938. Modified 3332. Locked 0.     DeviceMap ffff950aad2cd2f0     Token                             ffff950adb313060     ElapsedTime                       1 Day 08:01:47.018     UserTime                          00:00:00.015     KernelTime                        00:00:00.031     QuotaPoolUsage[PagedPool]         465880     QuotaPoolUsage[NonPagedPool]      23288     Working Set Sizes (now,min,max)  (7434, 50, 345) (29736KB, 200KB, 1380KB)     PeakWorkingSetSize                11097     VirtualSize                       303 Mb     PeakVirtualSize                   314 Mb     PageFaultCount                    21281     MemoryPriority                    BACKGROUND     BasePriority                      8     CommitCharge                      4925     Job                               ffff828cd4914060 3. Dump the token using the dt command. (Remember to mask the lower 3 or 4 bits if they are not zero.) Click here to view code image lkd> dt nt!_token ffff950adb313060    +0x000 TokenSource      : _TOKEN_SOURCE    +0x010 TokenId          : _LUID    +0x018 AuthenticationId : _LUID    +0x020 ParentTokenId    : _LUID    ...    +0x0c8 TokenFlags       : 0x4a00    +0x0cc TokenInUse       : 0x1 ''    +0x0d0 IntegrityLevelIndex : 1    +0x0d4 MandatoryPolicy  : 1    +0x0d8 LogonSession     : 0xffff950a'b4bb35c0 _SEP_LOGON_SESSION_REFERENCES    +0x0e0 OriginatingLogonSession : _LUID    +0x0e8 SidHash          : _SID_AND_ATTRIBUTES_HASH    +0x1f8 RestrictedSidHash : _SID_AND_ATTRIBUTES_HASH    +0x308 pSecurityAttributes : 0xffff950a'e4ff57f0 _AUTHZBASEP_SECURITY_ ATTRIBUTES_INFORMATION    +0x310 Package          : 0xffff950a'e00ed6d0 Void    +0x318 Capabilities     : 0xffff950a'e8e8fbc0 _SID_AND_ATTRIBUTES    +0x320 CapabilityCount  : 1    +0x328 CapabilitiesHash : _SID_AND_ATTRIBUTES_HASH    +0x438 LowboxNumberEntry : 0xffff950a'b3fd55d0 _SEP_LOWBOX_NUMBER_ENTRY    +0x440 LowboxHandlesEntry : 0xffff950a'e6ff91d0 _SEP_LOWBOX_HANDLES_ENTRY    +0x448 pClaimAttributes : (null)    ... 4. Dump the LowboxHandlesEntry member: Click here to view code image lkd> dt nt!_sep_lowbox_handles_entry 0xffff950a'e6ff91d0    +0x000 HashEntry        : _RTL_DYNAMIC_HASH_TABLE_ENTRY    +0x018 ReferenceCount   : 0n10    +0x020 PackageSid       : 0xffff950a'e6ff9208 Void    +0x028 HandleCount      : 6    +0x030 Handles           : 0xffff950a'e91d8490  -> 0xffffffff'800023cc Void 5. There are six handles. Let’s dump their values: Click here to view code image lkd> dq 0xffff950ae91d8490 L6 ffff950a'e91d8490  ffffffff'800023cc ffffffff'80001e80 ffff950a'e91d84a0  ffffffff'80004214 ffffffff'8000425c ffff950a'e91d84b0  ffffffff'800028c8 ffffffff'80001834 6. You can see that these handles are kernel handles—that is, handle values starting with 0xffffffff (64 bit). Now you can use the !handle command to look at individual handles. Here are two examples from the six handles above: Click here to view code image lkd> !handle ffffffff'80001e80 PROCESS ffff828cd71b3600     SessionId: 1  Cid: 27c4    Peb: 3fdfb2f000  ParentCid: 2324     DirBase: 80bb85000  ObjectTable: ffff950addabf7c0  HandleCount: <Data Not Accessible>     Image: windbg.exe Kernel handle Error reading handle count. 80001e80: Object: ffff950ada206ea0  GrantedAccess: 0000000f (Protected) (Inherit) (Audit) Entry: ffff950ab5406a00 Object: ffff950ada206ea0  Type: (ffff828cb66b33b0) Directory     ObjectHeader: ffff950ada206e70 (new version)         HandleCount: 1  PointerCount: 32770         Directory Object: ffff950ad9a62950  Name: RPC Control         Hash Address          Type                      Name         ---- -------          ----                      ----          23  ffff828cb6ce6950 ALPC Port OLE376512B99BCCA5DE4208534E7732 lkd> !handle ffffffff'800028c8 PROCESS ffff828cd71b3600     SessionId: 1  Cid: 27c4    Peb: 3fdfb2f000  ParentCid: 2324     DirBase: 80bb85000  ObjectTable: ffff950addabf7c0  HandleCount: <Data Not Accessible>     Image: windbg.exe Kernel handle Error reading handle count. 800028c8: Object: ffff950ae7a8fa70  GrantedAccess: 000f0001 (Audit) Entry: ffff950acc426320 Object: ffff950ae7a8fa70  Type: (ffff828cb66296f0) SymbolicLink     ObjectHeader: ffff950ae7a8fa40 (new version)         HandleCount: 1  PointerCount: 32769         Directory Object: ffff950ad9a62950  Name: Session         Flags: 00000000 ( Local )         Target String is '\Sessions\1\AppContainerNamedObjects \S-1-15-2-466767348-3739614953-2700836392-1801644223-4227750657 -1087833535-2488631167'
+EXPERIMENT: Viewing token stored handles To view token stored handles, follow these steps: 1. Run Calculator and launch local kernel debugging.
 ==========
 Windows Internals, Part 1: System architecture, processes, threads, memory management, and more (Pavel Yosifovich, Alex Ionescu and David A. Solomon)
 - Highlight Loc. 15836-40  | Added on Wednesday, 6 September 23 09:08:22 GMT-03:00
@@ -336,7 +196,7 @@ Some small parts of the package mini repository (mostly only the package full na
 Windows Internals, Part 2, 7th Edition (Andrea Allievi, Alex Ionescu, David A. Solomon, Kate Chase and Mark E. Russinovich)
 - Highlight Loc. 8654-63  | Added on Wednesday, 6 September 23 09:44:41 GMT-03:00
 
-In Windows 10, there are two types of background tasks: ■    In-process background task The application code and its background task run in the same process. From a developer’s point of view, this kind of background task is easier to implement, but it has the big drawback that if a bug hits its code, the entire application crashes. The in-process background task doesn’t support all triggers available for the out-of-process background tasks. ■    Out-of-process background task The application code and its background task run in different processes (the process could run in a different job object, too). This type of background task is more resilient, runs in the backgroundtaskhost.exe host process, and can use all the triggers and the conditions. If a bug hits the background task, this will never kill the entire application. The main drawback is originated from the performance of all the RPC code that needs to be executed for the interprocess communication between different processes.
+In Windows 10, there are two types of background tasks: In-process background task The application code and its background task run in the same process. From a developer’s point of view, this kind of background task is easier to implement, but it has the big drawback that if a bug hits its code, the entire application crashes. The in-process background task doesn’t support all triggers available for the out-of-process background tasks. Out-of-process background task The application code and its background task run in different processes (the process could run in a different job object, too). This type of background task is more resilient, runs in the backgroundtaskhost.exe host process, and can use all the triggers and the conditions. If a bug hits the background task, this will never kill the entire application. The main drawback is originated from the performance of all the RPC code that needs to be executed for the interprocess communication between different processes.
 ==========
 Windows Internals, Part 2, 7th Edition (Andrea Allievi, Alex Ionescu, David A. Solomon, Kate Chase and Mark E. Russinovich)
 - Highlight Loc. 8663-67  | Added on Wednesday, 6 September 23 09:45:15 GMT-03:00
@@ -366,12 +226,12 @@ The main component that manages this kind of activation is the Activation Manage
 Windows Internals, Part 2, 7th Edition (Andrea Allievi, Alex Ionescu, David A. Solomon, Kate Chase and Mark E. Russinovich)
 - Highlight Loc. 8750-51  | Added on Wednesday, 6 September 23 09:53:45 GMT-03:00
 
-■    The activation continues in the DcomLaunch service because the Activation Manager at this stage uses a WinRT class to launch the low-level process creation.
+The activation continues in the DcomLaunch service because the Activation Manager at this stage uses a WinRT class to launch the low-level process creation.
 ==========
 Windows Internals, Part 2, 7th Edition (Andrea Allievi, Alex Ionescu, David A. Solomon, Kate Chase and Mark E. Russinovich)
 - Highlight Loc. 8752-54  | Added on Wednesday, 6 September 23 09:54:11 GMT-03:00
 
-■    The DcomLaunch service is responsible in launching COM, DCOM, and WinRT servers in response to object activation requests and is implemented in the rpcss.dll library. DcomLaunch captures the activation request and prepares to call the CreateProcessAsUser Win32 API.
+The DcomLaunch service is responsible in launching COM, DCOM, and WinRT servers in response to object activation requests and is implemented in the rpcss.dll library. DcomLaunch captures the activation request and prepares to call the CreateProcessAsUser Win32 API.
 ==========
 Windows Internals, Part 2, 7th Edition (Andrea Allievi, Alex Ionescu, David A. Solomon, Kate Chase and Mark E. Russinovich)
 - Highlight Loc. 8754-58  | Added on Wednesday, 6 September 23 09:54:46 GMT-03:00
@@ -381,12 +241,12 @@ Before doing this, it needs to set the proper process attributes (like the packa
 Windows Internals, Part 2, 7th Edition (Andrea Allievi, Alex Ionescu, David A. Solomon, Kate Chase and Mark E. Russinovich)
 - Highlight Loc. 8759-64  | Added on Wednesday, 6 September 23 09:55:18 GMT-03:00
 
-■    The rest of the activation process continues in Kernelbase.dll. The token produced by DcomLaunch is still not an AppContainer but contains the UWP Security attributes. A Special code in the CreateProcessInternal function uses the registry cache of the Dependency Mini Repository to gather the following information about the packaged application: Root Folder, Package State, AppContainer package SID, and list of application’s capabilities. It then verifies that the license has not been tampered with (a feature used extensively by games). At this point, the Dependency Mini Repository file is mapped into the parent process, and the UWP application DLL alternate load path is resolved.
+The rest of the activation process continues in Kernelbase.dll. The token produced by DcomLaunch is still not an AppContainer but contains the UWP Security attributes. A Special code in the CreateProcessInternal function uses the registry cache of the Dependency Mini Repository to gather the following information about the packaged application: Root Folder, Package State, AppContainer package SID, and list of application’s capabilities. It then verifies that the license has not been tampered with (a feature used extensively by games). At this point, the Dependency Mini Repository file is mapped into the parent process, and the UWP application DLL alternate load path is resolved.
 ==========
 Windows Internals, Part 2, 7th Edition (Andrea Allievi, Alex Ionescu, David A. Solomon, Kate Chase and Mark E. Russinovich)
 - Highlight Loc. 8765-72  | Added on Wednesday, 6 September 23 09:56:43 GMT-03:00
 
-■    The AppContainer token, its object namespace, and symbolic links are created with the BasepCreateLowBox function, which performs the majority of the work in user mode, except for the actual AppContainer token creation, which is performed using the NtCreateLowBoxToken kernel function. We have already covered AppContainer tokens in Chapter 7 of Part 1. ■    The kernel process object is created as usual by using NtCreateUserProcess kernel API. ■    After the CSRSS subsystem has been informed, the BasepPostSuccessAppXExtension function maps the Dependency Mini Repository in the PEB of the child process and unmaps it from the parent process. The new process can then be finally started by resuming its main thread.
+The AppContainer token, its object namespace, and symbolic links are created with the BasepCreateLowBox function, which performs the majority of the work in user mode, except for the actual AppContainer token creation, which is performed using the NtCreateLowBoxToken kernel function. We have already covered AppContainer tokens in Chapter 7 of Part 1. The kernel process object is created as usual by using NtCreateUserProcess kernel API. After the CSRSS subsystem has been informed, the BasepPostSuccessAppXExtension function maps the Dependency Mini Repository in the PEB of the child process and unmaps it from the parent process. The new process can then be finally started by resuming its main thread.
 ==========
 Windows Internals, Part 2, 7th Edition (Andrea Allievi, Alex Ionescu, David A. Solomon, Kate Chase and Mark E. Russinovich)
 - Highlight Loc. 8825-31  | Added on Wednesday, 6 September 23 10:06:53 GMT-03:00
@@ -438,610 +298,10 @@ Windows Internals, Part 1: System architecture, processes, threads, memory manag
 
 Because Lsaiso.exe is a Trustlet (Isolated User Mode process) running in VTL 1, no normal process—not even the normal kernel—can access the address space of this process.
 ==========
-Blogue do Caloni: Programação, Depuração, Transpiração (Wanderley Caloni)
-- Highlight Loc. 93663-65  | Added on Friday, 8 September 23 01:04:29 GMT-03:00
-
-existe um princípio de que o tempo entre o primeiro estalo e o final deve consumir 25% do tempo total de torra. Por quê? Não se sabe exatamente. Porém, se sabe que não se pode demorar muito na primeira fase da torra, 
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 588-89  | Added on Saturday, 9 September 23 10:15:46 GMT-03:00
-
-2. Have Burp ready to intercept requests on login.microsoftonline.com 3. When Burp blocks the "nonce" request it means the runtimebroker.exe has been started,
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 591  | Added on Saturday, 9 September 23 10:15:58 GMT-03:00
-
-Now the real question is, how the sent token is actually signed.
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 591-94  | Added on Saturday, 9 September 23 10:16:24 GMT-03:00
-
-The header is $ echo -n eyJrZGZfdmVyIjoyLCJjdHgiOiJqSXNSWEtmeFhBbkpURTZESVF2enhwdXV0R0x2V0JwZyIsImFsZyI6IkhTMjU2In0= | base64 -d {"kdf_ver":2,"ctx":"jIsRXKfxXAnJTE6DIQvzxpuutGLvWBpg","alg":"HS256" HS256 means it's HMAC-SHA256. So where does the key come from and how AAD knows it too? Well lets dive into aad.core.dll
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 595-96  | Added on Saturday, 9 September 23 10:16:39 GMT-03:00
-
-bm aAD_Core!CryptUtil::SHA256 bm AAD_Core!StringUtility::Base64Decode bm AAD_Core!CryptUtil::GenerateRandom bm aAD_Core!NgcHelper::SignWithSymmetricPopKey
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 616  | Added on Saturday, 9 September 23 10:17:31 GMT-03:00
-
-AAD_Core!JwsHelper::CreateJWS+0x70f:
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 624-27  | Added on Saturday, 9 September 23 10:19:00 GMT-03:00
-
-AAD_Core!CryptUtil::SHA256: 00007ff8`b30c0b90 488bc4 mov rax,rsp 0:009> db @rcx l @rdx 00000255`5ff11600 23 cd 7d 9b 37 58 4f d8-94 14 ea 32 dc 11 61 87 #.}.7XO....2..a. 00000255`5ff11610 64 5c e5 f2 09 83 54 21-7b 22 77 69 6e 5f 76 65 d\....T!{"win_ve 00000255`5ff11620 72 22 3a 22 31 30 2e 30-2e 31 39 30 34 31 2e 33 r":"10.0.19041.3
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 712-14  | Added on Saturday, 9 September 23 10:21:36 GMT-03:00
-
-Breakpoint 1 hit AAD_Core!StringUtility::Base64Decode: 00007ff8`b2f116c0 4c8bdc mov r11,rsp 0:009> dq @rcx
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 714  | Added on Saturday, 9 September 23 10:21:56 GMT-03:00
-
-000000c8`88bfe1e0 00000255`622087a8 00000255`00000000
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 719  | Added on Saturday, 9 September 23 10:22:07 GMT-03:00
-
-0:009> du 00000255`622087a8 00000255`622087a8 "AQAAAAEAAAABAAAA0Iyd3wEV0RGMegDA"
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 726-29  | Added on Saturday, 9 September 23 10:22:27 GMT-03:00
-
-Breakpoint 3 hit AAD_Core!NgcHelper::SignWithSymmetricPopKey: 00007ff8`b30d7460 4055 push rbp 0:009> db @rcx l @rdx 00000255`5ff1c040 65 79 4a 72 5a 47 5a 66-64 6d 56 79 49 6a 6f 79 eyJrZGZfdmVyIjoy 00000255`5ff1c050 4c 43 4a 6a 64 48 67 69-4f 69 4a 4a 4f 44 45 35 LCJjdHgiOiJJODE5
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 862-66  | Added on Saturday, 9 September 23 10:24:44 GMT-03:00
-
-0:009> gu ModLoad: 00007ff8`cd100000 00007ff8`cd173000 C:\WINDOWS\system32\cryptngc.dll ModLoad: 00007ff8`f7010000 00007ff8`f7043000 C:\WINDOWS\system32\DEVOBJ.dll ModLoad: 00007ff8`f75e0000 00007ff8`f762e000 C:\WINDOWS\System32\cfgmgr32.dll AAD_Core!JwsHelper::CreateJWS+0xe15: 00007ff8`b3079415 eb59 jmp AAD_Core!JwsHelper::CreateJWS+0xe70 (00007ff8`b3079470) 0:009> db 000000c8`88bfe298 000000c8`88bfe298 a0 87 f1 5f 55 02 00 00-c0 87 f1 5f 55 02 00 00 ..._U......_U...
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 872-73  | Added on Saturday, 9 September 23 10:25:01 GMT-03:00
-
-0:009> dq 000000c8`88bfe298 000000c8`88bfe298 00000255`5ff187a0 00000255`5ff187c0
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 877-80  | Added on Saturday, 9 September 23 10:25:40 GMT-03:00
-
-0:009> dc 00000255`5ff187a0 00000255`5ff187a0 8a9620d0 a2b534db e80eddec 013fbc47 . ...4......G.?. 00000255`5ff187b0 0d4192a9 9c2febec 471bb04b 4c5da4bc ..A.../.K..G..]L 00000255`5ff187c0 00000000 00000000 00000000 00000000 ................ 00000255`5ff187d0 00000000 00000000 00000000 00000000 ................
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 883-84  | Added on Saturday, 9 September 23 10:25:51 GMT-03:00
-
-0:009> dc 00000255`5ff187c0 00000255`5ff187c0 00000000 00000000 00000000 00000000 ................
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 885-86  | Added on Saturday, 9 September 23 10:26:13 GMT-03:00
-
-00000255`5ff187f0 00000000 00000000 00000000 00000000 ................
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 886  | Added on Saturday, 9 September 23 10:26:20 GMT-03:00
-
-00000255`5ff18800 00000000 00000000 00000000 00000000 ................
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 888-92  | Added on Saturday, 9 September 23 10:26:37 GMT-03:00
-
-00000255`5ff18830 00000000 00000000 00000000 00000000 ................ POST /common/oauth2/token HTTP/1.1 Host: login.microsoftonline.com Cookie: fpc=AtLuqEC-PtVLkkIVRkfbtB__KGSSAQAAADo5U9wOAAAA; x-ms-gateway-slice=estsfd; stsservicecookie=estsfd Accept: */* Content-Type: application/x-www-form-urlencoded Client-Request-Id: 5ed68d8f-a6a4-4e71-8aba-f82a4f3b018e Return-Client-Request-Id: true
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 901-2  | Added on Saturday, 9 September 23 10:27:13 GMT-03:00
-
-DPAPI blob if we remove the first 8 bytes if *(PDWORD)(blob+4) == 2 then it's a TPM key to import else it's a local key
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 902-4  | Added on Saturday, 9 September 23 10:28:27 GMT-03:00
-
-user@wrk:/mnt/c/Users/admin/wrk/WebAccountProvider$ hexdump -C mbdpapi 00000000 01 00 00 00 d0 8c 9d df 01 15 d1 11 8c 7a 00 c0 |.............z..| 00000010 4f c2 97 eb 01 00 00 00 5e da fb 24 ba 5d 44 44 |O.......^..$.]DD|
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 915-31  | Added on Saturday, 9 September 23 10:29:07 GMT-03:00
-
-user@wrk:/mnt/c/Users/admin/wrk/WebAccountProvider$ pypykatz dpapi describe blob mbdpapi == DPAPI_BLOB == version: 1 credential_guid: b'\xd0\x8c\x9d\xdf\x01\x15\xd1\x11\x8cz\x00\xc0O\xc2\x97\xeb' masterkey_version: 1 masterkey_guid: 24fbda5e-5dba-4444-8f7e-4659bfcaa8e7 flags: FLAGS.0 description_length: 2 description: b'\x00\x00' crypto_algorithm: ALGORITHMS.CALG_AES_256 crypto_algorithm_length: 256 salt_length: 32 salt: b'\x8a\xf2\x97\xb3\xb0j\x7f\xb1\x91\r\x8c\x8c\x18\xd9\xf9L|\xf1U}V\xe4\x89{\xe0\x994y? \xb6jB' HMAC_key_length: 0 HMAC_key: b'' hash_algorithm: ALGORITHMS.CALG_SHA_512 HMAC: b'\x8fg~\x9c\xf6\xa4\x06s=O\'xH\xf6;\xf7+\xa1\xb4K\x170\x962\x16\x19"&\x97\xc8\xb7C' data_length: 48 data: b'\xb0\xc8.\xc8\x07I\x82\r8]\xba+gQ\xab\x8d\xbe\xd6\x81}\xd0>\xef\x1e\x07\x07\xdb\xd0/@\xc8=6 \x86' signature_length: 64 signature: b"8t\xe2e\x1al @\xcb\x98[l\x10\xbb'O\x11\x1f\xad\xaf\xa6O\x18Q\x02\xb9\xd8\xb1\xfb\x11+F6^\x15\xd9\xcd\xf7p\ hash_algorithm_length: 512 HMAC_length: 32 to_sign: b'\x01\x00\x00\x00^\xda\xfb$\xba]DD\x8f~FY\xbf\xca\xa8\xe7\x00\x00\x00\x00\x02\x00\x00\x00\x0 \x00\x00\x00\x8a\xf2\x97\xb3\xb0j\x7f\xb1\x91\r\x8c\x8c\x18\xd9\xf9L|\xf1U}V\xe4\x89{\xe0\x99 \xb6jB\x00\x00\x00\x00\x0e\x80\x00\x00\x00\x02\x00\x00 \x00\x00\x00\x8fg~\x9c\xf6\xa4\x06s=O\'xH\xf6;\xf7+\xa1\xb4K\x170\x962\x16\x19"&\x97\xc8\xb7C \x86'
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 931-33  | Added on Saturday, 9 September 23 10:29:39 GMT-03:00
-
-user@wrk:/mnt/c/Users/admin/wrk/WebAccountProvider$ find /mnt/c/Windows/System32/Microsoft/Protect/ -iname 24fbda5e* /mnt/c/Windows/System32/Microsoft/Protect/S-1-5-18/User/24fbda5e-5dba-4444-8f7e4659bfcaa8e7
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 933-34  | Added on Saturday, 9 September 23 10:30:02 GMT-03:00
-
-pypykatz dpapi masterkey /mnt/c/Users/admin/AppData/Roaming/Microsoft/Protect/S-1-5-21-1165702034-2798065105-460694140-1000/24fbda5e-5dba-4444-8f7e-4659bfcaa8e7
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 935-37  | Added on Saturday, 9 September 23 10:30:59 GMT-03:00
-
-user@wrk:/mnt/c/Users/admin/wrk/WebAccountProvider$ pypykatz dpapi masterkey /mnt/c/Windows/System32/Microsoft/Protect/S-1-5-18/User/24fbda5e-5dba-4444-8f7e4659bfcaa8e7 userkey.json -o 24fbda5e-5dba-4444-8f7e-4659bfcaa8e7_mkey.json user@wrk:/mnt/c/Users/admin/wrk/WebAccountProvider$
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 938-42  | Added on Saturday, 9 September 23 10:31:30 GMT-03:00
-
-cat mbdpapi | hexdump -ve '1/1 "%02x"' 01000000d08c9ddf0115d1118c7a00c04fc297eb010000005edafb24ba5d44448f7e4659bfcaa8e70000000002000 user@wrk:/mnt/c/Users/admin/wrk/WebAccountProvider$ pypykatz dpapi blob 24fbda5e-5dba-4444-8f7e-4659bfcaa8e7_mkey.json 01000000d08c9ddf0115d1118c7a00c04fc297eb010000005edafb24ba5d44448f7e4659bfcaa8e70000000002000 HEX: 4d7d4c06f6ef104f5785aecc17e97763e0d6234b5042aee18d0d54052fce81ca cryptngc.dll!NgcSignWithSymmetricPopKey
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 943-48  | Added on Saturday, 9 September 23 10:32:11 GMT-03:00
-
-During token requests and renewal: When a PRT is issued, Azure AD also issues an encrypted session key to the device. It's encrypted with the public transport key (tkpub) generated and sent to Azure AD as part of device registration. This session key can only be decrypted by the private transport key (tkpriv) secured by the TPM. The session key is the Proof-of-Possession (POP) key for any requests sent to Azure AD. The session key is also protected by the TPM and no other OS component can access it. Token requests or PRT renewal requests are securely signed by this session key through the TPM and hence, can't be tampered with. Azure AD invalidates any requests from the device that aren't signed by the corresponding session key.
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 965-67  | Added on Saturday, 9 September 23 10:33:29 GMT-03:00
-
-// https://learn.microsoft.com/en-us/windows/win32/api/bcrypt/nf-bcrypt-bcryptkeyderivation // https://github.com/gentilkiwi/mimikatz/blob/a1fe3421cccb4920cfe8f373dffdad9ff4e1c580/modul // ngcpopkeysrv!NgcSymmetricPopKey::Sign
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 969-71  | Added on Saturday, 9 September 23 10:34:49 GMT-03:00
-
-BYTE PopKeyFromDpapiBlob[32] = { 0x4D, 0x7D, 0x4C, 0x06, 0xF6, 0xEF, 0x10, 0x4F, 0x57, 0x85, 0xAE, 0xCC, 0x17, 0xE9, 0x77, 0x63, 0xE0, 0xD6, 0x23, 0x4B, 0x50, 0x42, 0xAE, 0xE1, 0x8D, 0x0D, 0x54, 0x05, 0x2F, 0xCE, 0x81, 0xCA
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 972-73  | Added on Saturday, 9 September 23 10:35:02 GMT-03:00
-
-// ngcpopkeysrv!SoftwareSymmetricPopKey::ImportKey // 0x341, from function
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 973-74  | Added on Saturday, 9 September 23 10:35:30 GMT-03:00
-
-Status = BCryptGenerateSymmetricKey((BCRYPT_ALG_HANDLE)0x341, &KeyHandle, NULL, 0,
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 976-78  | Added on Saturday, 9 September 23 10:35:42 GMT-03:00
-
-unsigned char Context[32] = { 0x4A, 0xF6, 0x9A, 0x91, 0x5B, 0xD8, 0xF8, 0x63, 0x15, 0x1A, 0x85, 0x4D, 0x52, 0x0F, 0x73, 0xF7, 0x4E, 0x22, 0xEC, 0x0D, 0xBB, 0x3F, 0x0C, 0x44, 0x9D, 0xAF, 0x35, 0xB8, 0x98, 0x10, 0x32, 0x04
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 981-83  | Added on Saturday, 9 September 23 10:36:22 GMT-03:00
-
-BCryptBufferDesc bufferDesc = {BCRYPTBUFFER_VERSION, ARRAYSIZE(buffer), buffer}; BYTE DerivedKey[32] = {0}; ULONG ResultLen; Status = BCryptKeyDerivation(KeyHandle, &bufferDesc, DerivedKey, sizeof(DerivedKey),
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 988-90  | Added on Saturday, 9 September 23 10:37:05 GMT-03:00
-
-PCHAR TokenToSign = "eyJrZGZfdmVyIjoyLCJjdHgiOiJJODE5bXpkWVQ5aVVGT295M0JGaGgyUmM1ZklK BYTE TokenSig[32] = {0}; Status = BCryptHash((BCRYPT_ALG_HANDLE)0xb1, DerivedKey, sizeof(DerivedKey), TokenToS
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 994-99  | Added on Saturday, 9 September 23 10:37:39 GMT-03:00
-
-C:\Users\admin\wrk\WebAccountProvider\dev\bcrypt>popkey.exe [*] wmain [*] KeyHandle 0000022138B02A50 [*] ResultLen 32 11 b4 42 26 b1 45 5b a1 79 7f 32 8e 92 77 17 eb | ..B&.E[.y.2..w.. 46 52 bf 75 7f 48 6f 71 3e 19 18 46 37 c9 4b a7 | FR.u.Hoq>..F7.K. 11b44226b1455ba1797f328e927717eb4652bf757f486f713e19184637c94ba7 d0 20 96 8a db 34 b5 a2 ec dd 0e e8 47 bc 3f 01 | . ...4......G.?. a9 92 41 0d ec eb 2f 9c 4b b0 1b 47 bc a4 5d 4c | ..A.../.K..G..]L Signature is good!
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 1000-1003  | Added on Saturday, 9 September 23 10:40:24 GMT-03:00
-
-Stored AAD.Broker plugin token Base64 encoded. Header 3-1 or 3-0 C:\Users\admin\AppData\Local\Packages\Microsoft.AAD.BrokerPlugin_cw5n1h2txyewy\LocalState\u_5 3- 1MIIHmAYJKoZIhvcNAQcDoIIHiTCCB4UCAQIxggF6ooIBdgIBBDCCATgEggEGAQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA void __fastcall Packer::V3::Unpack(const wchar_t *Str1, int *a2, struct SecureBuffer *a3)
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 1015-20  | Added on Saturday, 9 September 23 10:41:01 GMT-03:00
-
-Packer::Base64Decode(v5 + 3, v3); if ( v6 == '0' ) Packer::HashUnprotect(v3, (struct SecureBuffer *)&v16); else ProtectData::Unprotect( *(const unsigned __int8 **)v3, *((_DWORD *)v3 + 2) - *(unsigned __int64 *)v3, v7, (struct SecureBuffer *)&v16); Packer::Uncompress((const struct SecureBuffer *)&v16, v3); if ( *((_QWORD *)v3 + 1) - *(_QWORD *)v3 < 4ui64 ) {
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 1025-26  | Added on Saturday, 9 September 23 10:41:17 GMT-03:00
-
-void __fastcall Packer::HashUnprotect(const struct SecureBuffer *a1, struct SecureBuffer *a2)
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 1038-39  | Added on Saturday, 9 September 23 10:42:14 GMT-03:00
-
-v4 = Windows::Security::Cryptography::Core::HashAlgorithmNames::Sha1::get(); v5 = Windows::Security::Cryptography::Core::HashAlgorithmProvider::OpenAlgorithm(v4);
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 1066-69  | Added on Saturday, 9 September 23 10:43:32 GMT-03:00
-
-Wrote a custom UWP app to decode it. Removed the first byte and got this error. System.Exception: ASN1 bad tag value met. (Exception from HRESULT: 0x8009310B) at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw() + 0x21 Actually ASN1 shit.. https://lapo.it/asn1js/
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 1069-72  | Added on Saturday, 9 September 23 10:44:06 GMT-03:00
-
-openssl asn1parse -in t -inform der -i 0:d=0 hl=4 l=1944 cons: SEQUENCE 4:d=1 hl=2 l= 9 prim: OBJECT :pkcs7-envelopedData 15:d=1 hl=4 l=1929 cons: cont [ 0 ] 19:d=2 hl=4 l=1925 cons: SEQUENCE 23:d=3 hl=2 l= 1 prim: INTEGER :02 26:d=3 hl=4 l= 378 cons: SET 30:d=4 hl=4 l= 374 cons: cont [ 2 ]
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 1085-88  | Added on Saturday, 9 September 23 10:44:52 GMT-03:00
-
-user@wrk:/mnt/c/Users/admin/wrk/WebAccountProvider$ pypykatz dpapi describe blob fuckasn1 == DPAPI_BLOB == version: 1 credential_guid: b'\xd0\x8c\x9d\xdf\x01\x15\xd1\x11\x8cz\x00\xc0O\xc2\x97\xeb' masterkey_version: 1 masterkey_guid: e3cf4677-176d-4eee-ad03-ad23ca326a32 flags: FLAGS.0
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 1100-1101  | Added on Saturday, 9 September 23 10:45:40 GMT-03:00
-
-pypykatz dpapi prekey password S-1-5-21-1165702034-2798065105-460694140-1000 'XXXX' -o admin_prekey.json
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 1102-4  | Added on Saturday, 9 September 23 10:45:57 GMT-03:00
-
-pypykatz dpapi masterkey /mnt/c/Users/admin/AppData/Roaming/Microsoft/Protect/S-1-5-21-1165702034-2798065105-460694140-1000/e3cf4677-176d-4eee-ad03-ad23ca326a32 admin_prekey.json -o e3cf4677-176d-4eee-ad03-ad23ca326a32_mkey.json
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 1104-6  | Added on Saturday, 9 September 23 10:46:28 GMT-03:00
-
-cat fuckasn1 | hexdump -ve '1/1 "%02x"' 01000000d08c9ddf0115d1118c7a00c04fc297eb010000007746cfe36d17ee4ead03ad23ca326a320000000002000
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 1106-7  | Added on Saturday, 9 September 23 10:46:39 GMT-03:00
-
-pypykatz dpapi blob e3cf4677-176d-4eee-ad03-ad23ca326a32_mkey.json 01000000d08c9ddf0115d1118c7a00c04fc297eb010000007746cfe36d17ee4ead03ad23ca326a320000000002000
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 1109-10  | Added on Saturday, 9 September 23 10:47:37 GMT-03:00
-
-https_proxy=http://192.168.129.1:8080 pip3 install pycryptodome root@wrk:/mnt/c/Users/admin/wrk/WebAccountProvider# https_proxy=http://192.168.129.1:8080 pip3 install pycrypto
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 1111-12  | Added on Saturday, 9 September 23 10:51:49 GMT-03:00
-
-Breakpoint 3 hit BCrypt!BCryptImportKey: 00007ff8`f7932ec0 488bc4 mov rax,rsp 0:004> kb
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 1114-29  | Added on Saturday, 9 September 23 10:52:56 GMT-03:00
-
-01 00007ff8è34daa8b : 00000000`00000000 00000242`d048a400 00000242`d0492990 00000000`00000000 : mskeyprotect!CNG_AesKeyUnwrap+0x187 02 00007ff8è34dac6e : 00000000`00000000 00000242`d0487320 00000242`d0492990 00007ff8`db1a62b0 : mskeyprotect!LocalUnprotect+0x2ab 03 00007ff8è34d70e9 : 00000242`d0487590 00000000`00000000 00000000`00000000 00000000`00000000 : mskeyprotect!SIDKeyProtKeyUnprotect+0x12a 04 00007ff8`f6d41cd3 : 00000242`d04873b0 00000242`d048b6b0 00000242`d0492990 00000000`00000000 : mskeyprotect!MsKeyProtKeyUnprotect+0x269 05 00007ff8`f6d429af : 00000000`00000000 0000007d`0aaff910 00000000`00000000 00000000`00000000 : ncrypt!NCryptUnprotectKey+0xa3 06 00007ff8`f6d42ee0 : 00000242`d0487530 00000242`d0487530 00000242`d040d1c0 00000000`00000000 : ncrypt!I_GetContentEncryptKey+0x103 07 00007ff8`f6d43e93 : 0000007d`0aaffa20 00000000`00000000 00007ff8`db1a62b0 00000000`00000000 : ncrypt!I_OpenProtectedMessage+0xc0 08 00007ff8`db155838 : 00000000`00000000 00000000`00000000 00000242`d0493750 00007ff8`00000000 : ncrypt!NCryptUnprotectSecret+0xe3 09 00007ff8`db1557a2 : 00000242`d0507de8 00000000`00000002 00000000`00000000 00000000`0000079c : CryptoWinRT!Windows::Security::Cryptography::Core::CDataProtection_Unprotect+0x78 [onecore\ds\security\cryptoapi\ncrypt\winrt\lib\dataprotection.cpp @ 408] 0a 00007ff8`db153f26 : 00000242`d0507d20 00000000`00000000 00007ff8`db150000 00007ff8`f9c64374 : CryptoWinRT!Windows::Security::Cryptography::Core::CAsyncOperationUnprotect::DoWork+0x32
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 1209-10  | Added on Saturday, 9 September 23 10:58:56 GMT-03:00
-
-Where the localFolder is /mnt/c/Users/admin/AppData/Local/Packages/15be7fd2-c850-4002-8aa6-16fa648460d6_kwmcxzszfer2y/LocalState/ with t and tt files inside.
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 1211-12  | Added on Saturday, 9 September 23 10:59:22 GMT-03:00
-
-aad.core.dll .rdata:0000000180296720 aUSCSASS: ; DATA XREF: ClientCache::GetClientFileName(W4LogonType::GetClientFileName::GetClientFileName::AAV23 volatile huge *)+165↑o
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 1217-18  | Added on Saturday, 9 September 23 10:59:41 GMT-03:00
-
-.rdata:0000000180296788 aDef: ; DATA XREF: ClientCache::GetExtensionForLogonType(LogonType):loc_1800ACC00↑o
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 1218-21  | Added on Saturday, 9 September 23 11:00:02 GMT-03:00
-
-.rdata:0000000180296788 text "UTF-16LE", 'def',0 .rdata:0000000180296790 aClientcacheMov db 'ClientCache::MovePRT',0 .rdata:0000000180296790 ; DATA XREF: ClientCache::MovePRT(Platform::AAVString volatile huge *,Platform::AAVString volatile huge *,Platform::AAVString volatile huge *,Platform::AAVString volatile huge *)+7D↑o
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 1228-31  | Added on Saturday, 9 September 23 11:00:47 GMT-03:00
-
-XREF: ClientCache::GetExtensionForLogonType(LogonType)+1C↑o .rdata:0000000180296810 text "UTF-16LE", 'fido',0 .rdata:000000018029681A align 20h u_ : UPN c_ : client a_ : access_token? ** suffixed by an extension, like .def, like user@DESKTOP-1CKDJ37:/mnt/c/Users/admin/AppData/Local/Packages/Microsoft.AAD.BrokerPlugin_cw5n1h2txyewy/Lo ll -R .:
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 1266-73  | Added on Saturday, 9 September 23 11:03:55 GMT-03:00
-
-const wchar_t *__fastcall ClientCache::GetExtensionForLogonType(int a1) { int v1; // ecx int v2; // ecx int v3; // ecx const struct DebugContext *v5; // rax __int64 v6; // r8 __int64 v7; // r9 char v8; // [rsp+20h] [rbp-48h] char v9; // [rsp+38h] [rbp-30h] if ( !a1 ) return L"def"; v1 = a1 - 1; if ( !v1 ) return L"pwd"; v2 = v1 - 1; if ( !v2 ) return L"ngc"; v3 = v2 - 1; if ( !v3 ) return L"scd"; 
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 1275-76  | Added on Saturday, 9 September 23 11:05:03 GMT-03:00
-
-L"onecoreuap\\ds\\ext\\aad\\brokerplugin\\aad.core.lib\\ClientCache.cpp", 1601, L"ClientCache::GetExtensionForLogonType");
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 1277-78  | Added on Saturday, 9 September 23 11:05:27 GMT-03:00
-
-return L"fido"; }
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 1279-82  | Added on Saturday, 9 September 23 11:06:16 GMT-03:00
-
-https://www.reddit.com/r/Outlook/comments/sk2p1m/where_does_outlook_find_accounts_during_s etup/ https://answers.microsoft.com/en-us/msteams/forum/all/script-to-log-out-of-microsoft- teams-desktop/7a0ff75e-be4b-4ffd-851f-5f02e55fddea
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 1283-84  | Added on Saturday, 9 September 23 11:07:41 GMT-03:00
-
-StringUtility::FileSysName base64.b32hexencode(SHA1(arg)) ? _QWORD *__fastcall StringUtility::FileSysName(__int64 a1, __int64 a2)
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 1319-21  | Added on Saturday, 9 September 23 11:09:01 GMT-03:00
-
-v13 = Windows::Security::Cryptography::Core::HashAlgorithmNames::Sha1::get(v9, v8, v11, v12); v14 = v13; v48 = v13; v18 = Windows::Security::Cryptography::Core::HashAlgorithmProvider::OpenAlgorithm(v13,
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 1322-23  | Added on Saturday, 9 September 23 11:09:11 GMT-03:00
-
-v20 = Windows::Storage::IStorageFile::OpenAsync(v19);
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 1338-41  | Added on Saturday, 9 September 23 11:10:30 GMT-03:00
-
-NgcSignWithSymmetricPopKey process aad.core!CwsHelper::CreateJWS (In BackgroundtaskHost.exe) aad.core!NgcHelper::SignWithSymmetricPopKey calls cryptngc!NgcSignWithSymmetricPopKey cryptngc!NgcSignWithSymmetricPopKey (Still in BackgroundTaskHost.exe)
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 1341-42  | Added on Saturday, 9 September 23 11:11:56 GMT-03:00
-
-NgcUtils::RpcClient::RpcClient with UUID 8fb74744-b2ff-4c00-be0d-9ef9a191fe1b RPC server in keyiso.dll (in lsass.exe)
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 1342-44  | Added on Saturday, 9 September 23 11:12:15 GMT-03:00
-
-keyiso!s_SignWithSymmetricPopKey, imports and calls ngpopkeysrv!s_NgcSignWithSymmetricPopKey ngpopkeysrv!s_NgcSignWithSymmetricPopKey
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 1344-48  | Added on Saturday, 9 September 23 11:12:40 GMT-03:00
-
-ValidateAndGetSymmetricKeyBlob TpmSymmetricPopKey::`vftable'; SoftwareSymmetricPopKey::`vftable' SignWithSymmetricPopKeyLocal NgcSymmetricPopKey::Sign Import Derive Sign with Bcrypt!Hash ETW / WPP In aad.core.dll
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 1359-61  | Added on Saturday, 9 September 23 11:13:17 GMT-03:00
-
-Links https://github.com/Azure-Samples/DSRegTool/tree/main https://github.com/jpmessaging/OutlookTrace/tree/master
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 1370-71  | Added on Saturday, 9 September 23 11:13:59 GMT-03:00
-
-PS C:\Users\admin\wrk\WebAccountProvider\etw> Import-Module .\OutlookTrace.psm1 -
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 1370-71  | Added on Saturday, 9 September 23 11:14:17 GMT-03:00
-
-PS C:\Users\admin\wrk\WebAccountProvider\etw> Import-Module .\OutlookTrace.psm1 - DisableNameChecking
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 1376  | Added on Saturday, 9 September 23 11:15:01 GMT-03:00
-
-PS C:\Users\admin\wrk\WebAccountProvider\etw> Collect-OutlookInfo -Path output -component WAM
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 1479  | Added on Saturday, 9 September 23 11:17:47 GMT-03:00
-
-https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/logman-
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 1514-16  | Added on Saturday, 9 September 23 11:19:26 GMT-03:00
-
-Debugging aad.core.dll BackgroundTaskHostExe is a very elusive process and we cannot attach a debugger when it stars via IFEO because it is an UWP app. So i decided to kernel debug my VM.
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 1523-25  | Added on Saturday, 9 September 23 11:19:56 GMT-03:00
-
-I tried this script to attach to BackgroundTaskHost.exe when it starts but it's a bit meh https://shakreiner.com/posts/break-on-process-windbg/ because we want to break on some aad.core.dll and at process start it is not loaded yet.
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 1526-27  | Added on Saturday, 9 September 23 11:20:06 GMT-03:00
-
-The best way i found is to enable the global flag "Enable loading of kernel debugger symbols" via gflags.exe ran as admin (system registry tab):
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 1530-31  | Added on Saturday, 9 September 23 11:21:08 GMT-03:00
-
-Then restart the VM and enter the command sxe ld:aad.core.dll . It should break when the kernel is loading this module after, so inside BackgroundTaskHost.exe process.
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 1531-33  | Added on Saturday, 9 September 23 11:21:23 GMT-03:00
-
-However the module is not fully mapped in memory yet. So we have to setup a HBP in the userland process after ntdll! ldrploadll with the command ba e 1 /p @$proc <retaddr> and resume the execution. After that we are able the setup some HBP inside the aad.core.dll module.
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 1535  | Added on Saturday, 9 September 23 11:22:08 GMT-03:00
-
-2: kd> ba e 1 /p @$proc 00007ffè17cd6c21
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 1537  | Added on Saturday, 9 September 23 11:22:15 GMT-03:00
-
-2: kd> ba e 1 /p @$proc aad_core!JwsHelper.cpp:JwsHelper::CreateJWS
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 1601-4  | Added on Saturday, 9 September 23 11:25:34 GMT-03:00
-
-kd> kb # RetAddr : Args to Child : Call Site 00 00007ffd`b6ed9379 : 00000000`00000005 00000000`00000000 00000183`b3260428 00000183`b3260428 : AAD_Core!StringUtility::FileSysName 01 00007ffd`b6ed2530 : 00000000`0000022c 00000000`7ffe03b0 00000183`b310ca30 00000183`b310ca38 : AAD_Core!ClientCache::GetPRTFileName+0x99
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 1628-29  | Added on Saturday, 9 September 23 11:26:21 GMT-03:00
-
-3: kd> dc @rcx 0000002à8007f258 00000048 00000000 b30ac5f0 00000183 H...............
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 1634  | Added on Saturday, 9 September 23 11:26:33 GMT-03:00
-
-3: kd> dq @rcx 0000002à8007f258 00000000`00000048 00000183`b30ac5f0
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 1639-43  | Added on Saturday, 9 September 23 11:27:08 GMT-03:00
-
-3: kd> dc 00000183`b30ac5f0 00000183`b30ac5f0 00000000 00000019 006e0069 006f0064 ........i.n.d.o. 00000183`b30ac600 b30ac60c 00000183 00000002 006f006c ............l.o. 00000183`b30ac610 00690067 002e006e 0069006d 00720063 g.i.n...m.i.c.r. 00000183`b30ac620 0073006f 0066006f 006f0074 006c006e o.s.o.f.t.o.n.l. 00000183`b30ac630 006e0069 002e0065 006f0063 0000006d i.n.e...c.o.m... 00000183`b30ac640 00720065 006c0050 00670075 000e0069 e.r.P.l.u.g.i...
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 1651-54  | Added on Saturday, 9 September 23 11:27:48 GMT-03:00
-
-0033:00007ffd`b6e50ace e8faf52000 call AAD_Core!memcpy (00007ffd`b70600cd) 3: kd> dc @rdx 00000183`b30a25c0 e0a158f3 5a59c918 78b406fa f00c5eaf .X....YZ...x.^.. 00000183`b30a25d0 d8996d95 00000000 00000000 000c0000 .m.............. 00000183`b30a25e0 00750041 00680074 0072006f 00740069 A.u.t.h.o.r.i.t.
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 1660-62  | Added on Saturday, 9 September 23 11:29:14 GMT-03:00
-
->>> import hashlib >>> h=hashlib.sha1() >>> h.update(b"login.microsoftonline.com") >>> h.hexdigest() 'f358a1e018c9595afa06b478af5e0cf0956d99d8'
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 1663-64  | Added on Saturday, 9 September 23 11:29:22 GMT-03:00
-
-And the return value AAD_Core!ClientCache::GetPRTFileName+0x9f: 0033:00007ffd`b6ed937f 488bce mov rcx,rsi
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 1664-65  | Added on Saturday, 9 September 23 11:29:30 GMT-03:00
-
-3: kd> dq @rbx 00000183`b30ac248 0032006d`00370067 00330033`00670061
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 1669-70  | Added on Saturday, 9 September 23 11:29:45 GMT-03:00
-
-3: kd> dc @rbx 00000183`b30ac248 00370067 0032006d 00670061 00330033 g.7.m.2.a.g.3.3.
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 1672  | Added on Saturday, 9 September 23 11:29:57 GMT-03:00
-
-3: kd> du @rbx 00000183`b30ac248 "g7m2ag339emk5tr0k5uuafh1"
-==========
-1. AAD token · bl4me token Wiki · GitHub (Unknown)
-- Highlight Loc. 1672-83  | Added on Saturday, 9 September 23 11:30:33 GMT-03:00
-
-This code implements the AAD_Core!StringUtility::Base32HexEncode function: #!/usr/bin/python3 import hashlib h=hashlib.sha1() h.update(b"login.microsoftonline.com") h=h.digest() h=h[:15] out = [] alphabet="0123456789abcdefghigklmnopqrstuv" for i in range(3): d=int.from_bytes(h[i*5:(i*5)+5], 'little') for j in range(8): out.append(alphabet[d&0x1f]) d >>= 5 print(''.join(out)) The value returned by python base64.b32hexencode function is different (idk why): >>> import hashlib >>> h=hashlib.sha1() >>> h.update(b"login.microsoftonline.com") >>> h.hexdigest() 'f358a1e018c9595afa06b478af5e0cf0956d99d8' >>> x=h.digest() >>> import base64 >>> base64.b32hexencode(x) b'UDCA3O0OP5CLLUG6MHSAUNGCU2AMR6EO'
-==========
-1.-AAD-token.md
-- Highlight Loc. 1048-49  | Added on Sunday, 10 September 23 10:35:14 GMT-03:00
-
-# NgcSignWithSymmetricPopKey process * aad.core!CwsHelper::CreateJWS (In BackgroundtaskHost.exe) * aad.core!NgcHelper::SignWithSymmetricPopKey calls cryptngc!NgcSignWithSymmetricPopKey
-==========
-1.-AAD-token.md
-- Highlight Loc. 1050-51  | Added on Sunday, 10 September 23 10:36:12 GMT-03:00
-
-* NgcUtils::RpcClient::RpcClient with UUID 8fb74744-b2ff-4c00-be0d-9ef9a191fe1b * RPC server in keyiso.dll (in lsass.exe) * keyiso!s_SignWithSymmetricPopKey, imports and calls ngpopkeysrv!s_NgcSignWithSymmetricPopKey
-==========
-1.-AAD-token.md
-- Highlight Loc. 1052-54  | Added on Sunday, 10 September 23 10:36:49 GMT-03:00
-
-* ValidateAndGetSymmetricKeyBlob * TpmSymmetricPopKey::`vftable'; * SoftwareSymmetricPopKey::`vftable' * SignWithSymmetricPopKeyLocal * NgcSymmetricPopKey::Sign * Import * Derive * Sign with Bcrypt!Hash
-==========
-1.-AAD-token.md
-- Highlight Loc. 1060-61  | Added on Sunday, 10 September 23 10:37:39 GMT-03:00
-
-## Links https://github.com/Azure-Samples/DSRegTool/tree/main https://github.com/jpmessaging/OutlookTrace/tree/master
-==========
-2.-TokenBroker.md
-- Highlight Loc. 14-24  | Added on Monday, 11 September 23 01:02:55 GMT-03:00
-
-16 Windows.Security.Authentication.Web.Core.dll Windows::Internal::Security::Authentication::TokenBroker::StoredObjectInfo::OpenFileForAccess + 0x156 0x7ffa0cfb67e6 C:\Windows\System32\Windows.Security.Authentication.Web.Core.dll 17 Windows.Security.Authentication.Web.Core.dll Windows::Internal::Security::Authentication::TokenBroker::StoredObjectInfo::WriteBytes + 0x106 0x7ffa0cfb6506 C:\Windows\System32\Windows.Security.Authentication.Web.Core.dll 18 Windows.Security.Authentication.Web.Core.dll WriteTokenCacheEntry + 0xcf 0x7ffa0cfabb4b C:\Windows\System32\Windows.Security.Authentication.Web.Core.dll 19 Windows.Security.Authentication.Web.Core.dll SetCachedTokenResponses + 0x4e2 0x7ffa0cfaa562 C:\Windows\System32\Windows.Security.Authentication.Web.Core.dll 20 Windows.Security.Authentication.Web.Core.dll Windows::Internal::Security::Authentication::TokenBroker::AddWebTokenResponsesToCache + 0x26b 0x7ffa0cfa894b C:\Windows\System32\Windows.Security.Authentication.Web.Core.dll 21 Windows.Security.Authentication.Web.Core.dll Windows::Security::Authentication::Web::Core::CWebTokenRequestResultOperation::WriteTokenResponseCache + 0x2c2 0x7ffa0cfa13c2 C:\Windows\System32\Windows.Security.Authentication.Web.Core.dll 22 Windows.Security.Authentication.Web.Core.dll Windows::Security::Authentication::Web::Core::CWebTokenRequestResultOperation::DoClientHeavyWork + 0x697 0x7ffa0cfa0a07
-==========
-2.-TokenBroker.md
-- Highlight Loc. 65-66  | Added on Monday, 11 September 23 01:07:09 GMT-03:00
-
-for token in ../192.168.0.XX/C/users/XXXX/appdata/Local/Microsoft/TokenBroker/Cache/*.tbres; do echo $token
-==========
-5.-Web-Account-Manager.md
-- Highlight Loc. 76  | Added on Monday, 11 September 23 01:16:55 GMT-03:00
-
-Breakpoint 0 hit tokenbroker!Windows::Internal::Security::Authentication::Web::CTBOnDemandBrokerClient::LaunchBackgroundTask:
-==========
-6.-Token-sign-test-with-popkey.md
-- Highlight Loc. 164-67  | Added on Monday, 11 September 23 01:28:43 GMT-03:00
-
-The python script is asking Azure a nonce for the next request. This nonce is included in the following request so we have to recompute the sha256(RAND24+REQUEST_with_nonce) each time. For now we are still using our C for the key derivation function since IDK how BCryptKeyDerivation do this computation. So for each request we have to provide the SHA256 computed context hash to our C code, recompile it, run it, get the DerivedKey and input it to the python script for the HMAC-SHA256 token request signed part.
-==========
 Windows Internals, Part 1: System architecture, processes, threads, memory management, and more (Pavel Yosifovich, Alex Ionescu and David A. Solomon)
 - Highlight Loc. 13803-4  | Added on Tuesday, 12 September 23 01:13:23 GMT-03:00
 
 Because Lsaiso.exe is a Trustlet (Isolated User Mode process) running in VTL 1, no normal process—not even the normal kernel—can access the address space of this process.
-==========
-drafts
-- Highlight Loc. 2  | Added on Tuesday, 12 September 23 23:35:38 GMT-03:00
-
-em Barbie
-==========
-drafts
-- Highlight Loc. 9  | Added on Tuesday, 12 September 23 23:36:40 GMT-03:00
-
-benção
-==========
-drafts
-- Highlight Loc. 4  | Added on Tuesday, 12 September 23 23:37:03 GMT-03:00
-
-desfilando e sendo enrabadas
-==========
-drafts
-- Highlight Loc. 4  | Added on Tuesday, 12 September 23 23:37:16 GMT-03:00
-
-Gostosas de verdade, não essas tranqueiras
-==========
-drafts
-- Highlight Loc. 3  | Added on Tuesday, 12 September 23 23:37:34 GMT-03:00
-
-a coisa mais deliciosa
-==========
-drafts
-- Highlight Loc. 5  | Added on Tuesday, 12 September 23 23:38:10 GMT-03:00
-
-a mulher e o homem ideal
-==========
-drafts
-- Highlight Loc. 3-6  | Added on Tuesday, 12 September 23 23:39:43 GMT-03:00
-
-O que não é pouca coisa. O filme tem umas trocentas gostosas desfilando e sendo enrabadas pelos rapazes. Gostosas de verdade, não essas tranqueiras que colocam nos filmes hoje em dia para representar... o declínio da civilização, imagino. O dia em que não pudermos exaltar a mulher e o homem ideal é o dia em que perderemos a esperança de um mundo melhor; para nós mesmos e para a sociedade.
-==========
-drafts
-- Highlight Loc. 6-7  | Added on Tuesday, 12 September 23 23:39:58 GMT-03:00
-
-Mas voltando ao filme. Ele me fez refletir sobre outras coisas. A satisfação de um filme bem dirigido, roteirizado e montado está entre elas. Não é ótimo constatar como há gente competente neste mundo?
-==========
-drafts
-- Highlight Loc. 7-9  | Added on Tuesday, 12 September 23 23:41:01 GMT-03:00
-
-E o filme é justamente uma reflexão em aberto sobre isso, pois se trata da biografia de Jordan Belford, um self-made man ambicioso que fez fortuna às custas de outros ambiciosos (as "vítimas").
-==========
-drafts
-- Highlight Loc. 9-10  | Added on Tuesday, 12 September 23 23:41:11 GMT-03:00
-
-Vendedor nato, ele recebeu a benção e a inspiração na primeira corretora que trabalhou de ninguém menos que Matthew McConaughey em uma participação especial, mas marcante, do texano.
-==========
-drafts
-- Highlight Loc. 9-10  | Added on Tuesday, 12 September 23 23:41:21 GMT-03:00
-
-Vendedor nato, ele recebeu a benção e a inspiração na primeira corretora que trabalhou de ninguém menos que Matthew McConaughey em uma participação especial, mas marcante, do texano. E é marcante apenas
-==========
-drafts
-- Highlight Loc. 11  | Added on Tuesday, 12 September 23 23:42:25 GMT-03:00
-
-Para lembrar do que nos torna homens em um bando.
-==========
-drafts
-- Highlight Loc. 6-7  | Added on Wednesday, 13 September 23 23:31:48 GMT-03:00
-
-de prostitutas no filme, e nenhuma delas deixa os garotos desapontados. O filme me fez mais uma vez se empolgar, refletir e admirar as três pessoas que tornam este trabalho um marco de biografias no cinema.
-==========
-drafts
-- Highlight Loc. 9  | Added on Wednesday, 13 September 23 23:32:07 GMT-03:00
-
-do coração cinematográfico.
-==========
-drafts
-- Highlight Loc. 13  | Added on Wednesday, 13 September 23 23:33:02 GMT-03:00
-
-especial, mas marcante,
-==========
-drafts
-- Highlight Loc. 16  | Added on Wednesday, 13 September 23 23:34:20 GMT-03:00
-
-(onde ele é ambos)
-==========
-drafts
-- Highlight Loc. 16  | Added on Wednesday, 13 September 23 23:34:28 GMT-03:00
-
-arco inicial,
-==========
-drafts
-- Highlight Loc. 16-17  | Added on Wednesday, 13 September 23 23:34:48 GMT-03:00
-
-uma transformação rápida.
-==========
-drafts
-- Highlight Loc. 18  | Added on Wednesday, 13 September 23 23:35:29 GMT-03:00
-
-ele tem
-==========
-drafts
-- Highlight Loc. 18  | Added on Wednesday, 13 September 23 23:35:39 GMT-03:00
-
-onde ele
-==========
-drafts
-- Highlight Loc. 19  | Added on Wednesday, 13 September 23 23:35:50 GMT-03:00
-
-Johah Hill
-==========
-drafts
-- Highlight Loc. 21  | Added on Wednesday, 13 September 23 23:36:29 GMT-03:00
-
-sobrexista, e
-==========
-drafts
-- Highlight Loc. 22  | Added on Wednesday, 13 September 23 23:36:48 GMT-03:00
-
-calcanhar de aquiles
-==========
-drafts
-- Highlight Loc. 21-22  | Added on Wednesday, 13 September 23 23:36:59 GMT-03:00
-
-logo você percebe
-==========
-drafts
-- Highlight Loc. 24-25  | Added on Wednesday, 13 September 23 23:38:11 GMT-03:00
-
-[O Irlandês]: {{< ref o-irlandes >}}
 ==========
 Stoic Six Pack 4 - The Sceptics: Pyyrhonic Sketches, Life of Pyrrho, Sextus Empiricus, The Greek Sceptics, Stoics & Sceptics and Life of Carneades (Illustrated) (Sextus Empiricus, Diogenes Laërtius, Mary Mills Patrick, Norman MacColl and Edwyn Bevan)
 - Highlight on Page 8 | Loc. 188-89  | Added on Sunday, 17 September 23 00:56:16 GMT-03:00
@@ -1153,75 +413,20 @@ Windows Internals, Part 1: System architecture, processes, threads, memory manag
 
 LsaIso.exe process, which has a handle to the LSA_ISO_RPC_SERVER ALPC port. This is used to communicate with the Lsass.exe process.
 ==========
-drafts
-- Highlight Loc. 27  | Added on Saturday, 23 September 23 00:29:45 GMT-03:00
-
-O filme de Bill & Ted
-==========
-drafts
-- Highlight Loc. 30  | Added on Saturday, 23 September 23 00:30:32 GMT-03:00
-
-excelente.
-==========
-drafts
-- Highlight Loc. 30  | Added on Saturday, 23 September 23 00:30:54 GMT-03:00
-
-um filme excelente.
-==========
-drafts
-- Highlight Loc. 33-34  | Added on Saturday, 23 September 23 00:31:42 GMT-03:00
-
-excelente espaço-tempo.
-==========
-drafts
-- Highlight Loc. 36  | Added on Saturday, 23 September 23 00:32:25 GMT-03:00
-
-Myiasaki
-==========
-drafts
-- Highlight Loc. 36  | Added on Saturday, 23 September 23 00:32:32 GMT-03:00
-
-A Partida,
-==========
-drafts
-- Highlight Loc. 38  | Added on Saturday, 23 September 23 00:32:56 GMT-03:00
-
-A Hora
-==========
-drafts
-- Highlight Loc. 41-42  | Added on Saturday, 23 September 23 00:33:51 GMT-03:00
-
-Essa relação entre eles vai sendo cozinhado
-==========
-drafts
-- Highlight Loc. 42  | Added on Saturday, 23 September 23 00:33:58 GMT-03:00
-
-banho Maria
-==========
-drafts
-- Highlight Loc. 53  | Added on Saturday, 23 September 23 00:35:25 GMT-03:00
-
-vibe
-==========
-drafts
-- Highlight Loc. 63  | Added on Saturday, 23 September 23 00:36:53 GMT-03:00
-
-sensacional.
-==========
 Windows Internals, Part 2, 7th Edition (Andrea Allievi, Alex Ionescu, David A. Solomon, Kate Chase and Mark E. Russinovich)
 - Highlight Loc. 6968-70  | Added on Saturday, 23 September 23 00:59:11 GMT-03:00
 
-■    Windows applications that use remote procedure call (RPC), a documented API, indirectly use ALPC when they specify local-RPC over the ncalrpc transport, a form of RPC used to communicate between processes on the same system.
+Windows applications that use remote procedure call (RPC), a documented API, indirectly use ALPC when they specify local-RPC over the ncalrpc transport, a form of RPC used to communicate between processes on the same system.
 ==========
 Windows Internals, Part 2, 7th Edition (Andrea Allievi, Alex Ionescu, David A. Solomon, Kate Chase and Mark E. Russinovich)
 - Highlight Loc. 6971-73  | Added on Saturday, 23 September 23 01:01:08 GMT-03:00
 
-■    Whenever a Windows process and/or thread starts, as well as during any Windows subsystem operation, ALPC is used to communicate with the subsystem process (CSRSS).
+Whenever a Windows process and/or thread starts, as well as during any Windows subsystem operation, ALPC is used to communicate with the subsystem process (CSRSS).
 ==========
 Windows Internals, Part 2, 7th Edition (Andrea Allievi, Alex Ionescu, David A. Solomon, Kate Chase and Mark E. Russinovich)
 - Highlight Loc. 6984-86  | Added on Saturday, 23 September 23 01:02:32 GMT-03:00
 
-■    The new Core Messaging mechanism used by CoreUI and modern UWP UI components use ALPC to both register with the Core Messaging Registrar, as well as to send serialized message objects, which replace the legacy Win32 window message model.
+The new Core Messaging mechanism used by CoreUI and modern UWP UI components use ALPC to both register with the Core Messaging Registrar, as well as to send serialized message objects, which replace the legacy Win32 window message model.
 ==========
 Windows Internals, Part 2, 7th Edition (Andrea Allievi, Alex Ionescu, David A. Solomon, Kate Chase and Mark E. Russinovich)
 - Highlight Loc. 6989-90  | Added on Saturday, 23 September 23 01:03:47 GMT-03:00
@@ -1252,26 +457,6 @@ Windows Internals, Part 2, 7th Edition (Andrea Allievi, Alex Ionescu, David A. S
 - Highlight Loc. 7092-94  | Added on Saturday, 23 September 23 01:25:28 GMT-03:00
 
 One of the primary users of ALPC, outside of Local RPC, is the Windows subsystem, which uses ALPC to communicate with the Windows subsystem DLLs that are present in all Windows processes. Because CSRSS loads once for each session, you will find its ALPC port objects under the appropriate \Sessions\X\Windows directory,
-==========
-drafts
-- Highlight Loc. 18  | Added on Monday, 25 September 23 00:43:20 GMT-03:00
-
-são citados são
-==========
-drafts
-- Highlight Loc. 21  | Added on Monday, 25 September 23 00:43:51 GMT-03:00
-
-dispensar bandas
-==========
-drafts
-- Highlight Loc. 32  | Added on Monday, 25 September 23 00:46:49 GMT-03:00
-
-uns macetes
-==========
-drafts
-- Highlight Loc. 35-36  | Added on Monday, 25 September 23 00:47:26 GMT-03:00
-
-aria Bonita, lá da cidade de Alfenas, produzido pelo Café Campinho. Ficou uma boa: a adstringência e um
 ==========
 Windows Internals, Part 2, 7th Edition (Andrea Allievi, Alex Ionescu, David A. Solomon, Kate Chase and Mark E. Russinovich)
 - Highlight Loc. 7124-26  | Added on Tuesday, 26 September 23 00:02:22 GMT-03:00
@@ -1321,7 +506,7 @@ events do not include payload data, but they do contain connection, disconnectio
 Windows Internals, Part 2, 7th Edition (Andrea Allievi, Alex Ionescu, David A. Solomon, Kate Chase and Mark E. Russinovich)
 - Highlight Loc. 7317-60  | Added on Thursday, 28 September 23 00:14:46 GMT-03:00
 
-EXPERIMENT: Dumping a connection port In this experiment, you use the CSRSS API port for Windows processes running in Session 1, which is the typical interactive session for the console user. Whenever a Windows application launches, it connects to CSRSS’s API port in the appropriate session. Start by obtaining a pointer to the connection port with the !object command: Click here to view code image lkd> !object \Sessions\1\Windows\ApiPort Object: ffff898f172b2df0  Type: (ffff898f032f9da0) ALPC Port     ObjectHeader: ffff898f172b2dc0 (new version)     HandleCount: 1  PointerCount: 7898     Directory Object: ffffc704b10d9ce0  Name: ApiPort Dump information on the port object itself with !alpc /p. This will confirm, for example, that CSRSS is the owner: Click here to view code image lkd> !alpc /P ffff898f172b2df0 Port ffff898f172b2df0   Type                      : ALPC_CONNECTION_PORT   CommunicationInfo         : ffffc704adf5d410     ConnectionPort          : ffff898f172b2df0 (ApiPort), Connections     ClientCommunicationPort : 0000000000000000     ServerCommunicationPort : 0000000000000000   OwnerProcess              : ffff898f17481140 (csrss.exe), Connections   SequenceNo                : 0x0023BE45 (2342469)   CompletionPort            : 0000000000000000   CompletionList            : 0000000000000000   ConnectionPending         : No   ConnectionRefused         : No   Disconnected              : No   Closed                    : No   FlushOnClose              : Yes   ReturnExtendedInfo        : No   Waitable                  : No   Security                  : Static   Wow64CompletionList       : No   5 thread(s) are waiting on the port:     THREAD ffff898f3353b080  Cid 0288.2538  Teb: 00000090bce88000     Win32Thread: ffff898f340cde60 WAIT     THREAD ffff898f313aa080  Cid 0288.19ac  Teb: 00000090bcf0e000     Win32Thread: ffff898f35584e40 WAIT     THREAD ffff898f191c3080  Cid 0288.060c  Teb: 00000090bcff1000     Win32Thread: ffff898f17c5f570 WAIT     THREAD ffff898f174130c0  Cid 0288.0298  Teb: 00000090bcfd7000     Win32Thread: ffff898f173f6ef0 WAIT     THREAD ffff898f1b5e2080  Cid 0288.0590  Teb: 00000090bcfe9000     Win32Thread: ffff898f173f82a0 WAIT     THREAD ffff898f3353b080  Cid 0288.2538  Teb: 00000090bce88000     Win32Thread: ffff898f340cde60 WAIT   Main queue is empty.   Direct message queue is empty.   Large message queue is empty.   Pending queue is empty.   Canceled queue is empty. You can see what clients are connected to the port, which includes all Windows processes running in the session, with the undocumented !alpc /lpc command, or, with a newer version of WinDbg, you can simply click the Connections link next to the ApiPort name. You will also see the server and client communication ports associated with each connection and any pending messages on any of the queues: Click here to view code image lkd> !alpc /lpc ffff898f082cbdf0 ffff898f082cbdf0(’ApiPort’) 0, 131 connections         ffff898f0b971940 0 ->ffff898F0868a680 0 ffff898f17479080(’wininit.exe’)         ffff898f1741fdd0 0 ->ffff898f1742add0 0 ffff898f174ec240(’services.exe’)         ffff898f1740cdd0 0 ->ffff898f17417dd0 0 ffff898f174da200(’lsass.exe’)         ffff898f08272900 0 ->ffff898f08272dc0 0 ffff898f1753b400(’svchost.exe’)         ffff898f08a702d0 0 ->ffff898f084d5980 0 ffff898f1753e3c0(’svchost.exe’)         ffff898f081a3dc0 0 ->ffff898f08a70070 0 ffff898f175402c0(’fontdrvhost.ex’)         ffff898F086dcde0 0 ->ffff898f17502de0 0 ffff898f17588440(’svchost.exe’)         ffff898f1757abe0 0 ->ffff898f1757b980 0 ffff898f17c1a400(’svchost.exe’) Note that if you have other sessions, you can repeat this experiment on those sessions also (as well as with session 0, the system session). You will eventually get a list of all the Windows processes on your machine.
+EXPERIMENT: Dumping a connection port In this experiment, you use the CSRSS API port for Windows processes running in Session 1, which is the typical interactive session for the console user. Whenever a Windows application launches, it connects to CSRSS’s API port in the appropriate session. Start by obtaining a pointer to the connection port with the !object command.
 ==========
 Windows Internals, Part 2, 7th Edition (Andrea Allievi, Alex Ionescu, David A. Solomon, Kate Chase and Mark E. Russinovich)
 - Highlight Loc. 7410  | Added on Thursday, 28 September 23 00:17:09 GMT-03:00
@@ -1603,11 +788,6 @@ Blogue do Caloni: Programação, Depuração, Transpiração (Wanderley Caloni)
 
 Em qualquer atividade mental, habitue-se a ir e vir, de tantos em tantos minutos, entre o pensamento e uma espécie de escuta interior, uma serenidade interior. 
 ==========
-drafts
-- Highlight Loc. 9  | Added on Friday, 6 October 23 00:40:44 GMT-03:00
-
-influência
-==========
 Blogue do Caloni: Programação, Depuração, Transpiração (Wanderley Caloni)
 - Highlight Loc. 32383-84  | Added on Friday, 6 October 23 00:52:51 GMT-03:00
 
@@ -1718,41 +898,6 @@ Blogue do Caloni: Programação, Depuração, Transpiração (Wanderley Caloni)
 
 De qualquer forma, a sensibilidade de sua diretora, que se denomina simplesmente Hikari. 
 ==========
-drafts
-- Highlight Loc. 13  | Added on Tuesday, 10 October 23 00:10:52 GMT-03:00
-
-Eckhart Toole.
-==========
-drafts
-- Highlight Loc. 15  | Added on Tuesday, 10 October 23 00:11:28 GMT-03:00
-
-a voz pertence à mente
-==========
-drafts
-- Highlight Loc. 16  | Added on Tuesday, 10 October 23 00:11:47 GMT-03:00
-
-a percepção do eu interior
-==========
-drafts
-- Highlight Loc. 20  | Added on Tuesday, 10 October 23 00:14:19 GMT-03:00
-
-todas as emoções são modificações
-==========
-drafts
-- Highlight Loc. 40  | Added on Tuesday, 10 October 23 00:23:33 GMT-03:00
-
-com o desaparecimento da dependência
-==========
-drafts
-- Highlight Loc. 45  | Added on Tuesday, 10 October 23 00:25:12 GMT-03:00
-
-ela não tem controle
-==========
-drafts
-- Highlight Loc. 45  | Added on Tuesday, 10 October 23 00:25:31 GMT-03:00
-
-a mente não gosta
-==========
 Blogue do Caloni: Programação, Depuração, Transpiração (Wanderley Caloni)
 - Highlight Loc. 93879-80  | Added on Tuesday, 10 October 23 23:45:13 GMT-03:00
 
@@ -1828,36 +973,6 @@ Windows Internals, Part 1: System architecture, processes, threads, memory manag
 
 You can examine the token for a process with the !token command. You’ll find the address of the token in the output of the !process command.
 ==========
-drafts
-- Highlight Loc. 1  | Added on Tuesday, 17 October 23 00:29:33 GMT-03:00
-
-Nessa pegada de reler
-==========
-drafts
-- Highlight Loc. 51  | Added on Tuesday, 17 October 23 00:49:34 GMT-03:00
-
-temos uma cerva
-==========
-drafts
-- Highlight Loc. 76  | Added on Tuesday, 17 October 23 00:53:06 GMT-03:00
-
-um drama intimista.
-==========
-drafts
-- Highlight Loc. 79  | Added on Tuesday, 17 October 23 00:53:33 GMT-03:00
-
-Fúrias Femininas
-==========
-drafts
-- Highlight Loc. 19  | Added on Wednesday, 18 October 23 00:34:00 GMT-03:00
-
-da livraria.
-==========
-drafts
-- Highlight Loc. 24-25  | Added on Wednesday, 18 October 23 00:35:08 GMT-03:00
-
-Os pães tem
-==========
 Bíblia NVT - Versão Exclusiva Amazon (Mundo Cristão)
 - Highlight Loc. 7195-96  | Added on Wednesday, 18 October 23 00:42:05 GMT-03:00
 
@@ -1882,26 +997,6 @@ Bíblia NVT - Versão Exclusiva Amazon (Mundo Cristão)
 - Highlight Loc. 7941-43  | Added on Wednesday, 18 October 23 23:54:39 GMT-03:00
 
 28Agora, digam-lhes o seguinte: ‘Tão certo quanto eu vivo, declara o SENHOR, farei com vocês exatamente aquilo que os ouvi dizerem. 29Todos vocês cairão mortos neste deserto! Uma vez que se queixaram contra mim, todos com mais de 20 anos que foram contados no censo morrerão.
-==========
-drafts
-- Highlight Loc. 1  | Added on Saturday, 21 October 23 00:36:07 GMT-03:00
-
-versões tinta e branco
-==========
-drafts
-- Highlight Loc. 11  | Added on Saturday, 21 October 23 01:03:31 GMT-03:00
-
-exdrúxulas.
-==========
-drafts
-- Highlight Loc. 12  | Added on Saturday, 21 October 23 01:04:19 GMT-03:00
-
-estão tempo
-==========
-drafts
-- Highlight Loc. 16  | Added on Saturday, 21 October 23 01:05:13 GMT-03:00
-
-6Mas, agora,
 ==========
 O poder do agora: Um guia para a iluminação espiritual (Eckhart Tolle)
 - Highlight on Page 11 | Loc. 131-33  | Added on Sunday, 22 October 23 11:12:57 GMT-03:01
@@ -2277,31 +1372,6 @@ Comunicação em Prosa Moderna
 - Your highlight on page 161 | Added on Saturday, November 04, 2023 07:23:24 AM
 
 Por isso, os exemplos de Raul Pompéia são modelares, dignos de imitar: o autor manteve a necessária tensão no período sem que disso resultasse uma frase reptante ou confusa.
-==========
-drafts
-- Highlight Loc. 174  | Added on Friday, 3 November 23 03:48:37 Greenwich Mean Time
-
-ridícula que são as cenas
-==========
-drafts
-- Highlight Loc. 199  | Added on Friday, 3 November 23 03:52:27 Greenwich Mean Time
-
-cada representando um continente
-==========
-drafts
-- Highlight Loc. 202-3  | Added on Friday, 3 November 23 03:53:00 Greenwich Mean Time
-
-as projeções sobre os fatídicos 2 graus de aumento de temperatura limite será
-==========
-drafts
-- Highlight Loc. 205  | Added on Friday, 3 November 23 03:53:32 Greenwich Mean Time
-
-cisto por alguém do futuro.
-==========
-drafts
-- Highlight Loc. 211  | Added on Friday, 3 November 23 03:54:30 Greenwich Mean Time
-
-uma época patriarcado.
 ==========
 Comunicacao em Prosa Moderna - Othon M. Garcia (Othon M. Garcia)
 - Highlight Loc. 665-68  | Added on Friday, 3 November 23 13:32:36 Greenwich Mean Time
@@ -2933,63 +2003,288 @@ O poder do agora: Um guia para a iluminação espiritual (Tolle, Eckhart)
 
 Manter-se em um estado de alerta consciente destrói a ligação entre o sofrimento e o mecanismo do pensamento, e aciona o processo de transformação.
 ==========
-﻿Prometheus Rising - Robert Anton Wilson (Robert Anton Wilson)
+Prometheus Rising - Robert Anton Wilson (Robert Anton Wilson)
 - Your Highlight at location 278-303 | Added on Monday, 27 November 2023 23:09:50
 
 To explore the Thinker and the Prover, try the following: 1. Visualize a quarter vividly, and imagine vividly that you are going to find the quarter on the street. Then, look for the quarter every time you take a walk, meanwhile continuing to visualize it. See how long it takes you to find the quarter. 2. Explain the above experiment by the hypothesis of “selective attention” — that is, believe there are lots of lost quarters everywhere and you were bound to find one by continually looking. Go looking for a second quarter. 3. Explain the experiment by the alternative “mystical” hypothesis that “mind controls everything.” Believe that you made the quarter manifest in this universe. Go looking for a second quarter. 4. Compare the time it takes to find the second quarter using the first hypothesis (attention) with the time it takes using the second hypothesis (mind-over-matter). 5. With your own ingenuity, invent similar experiments and each time compare the two theories — “selective attention” (coincidence) vs. “mind controls everything” (psychokinesis). 6. Avoid coming to any strong conclusions prematurely. At the end of a month, re-read this chapter, think it over again, and still postpone coming to any dogmatic conclusion. Believe it possible that you do not know everything yet, and that you might have something still to learn. 7. Convince yourself* (if you are not already convinced) that you are ugly, unattractive and dull. Go to a party in that frame of mind. Observe how people treat you. ~•~ * “Believe” or “convince yourself” – mean to do what an actor does: pretend until the pretense begins to feel real. Or, as Jazz musicians say: “Fake it until you make it.” ~•~ 8. Convince yourself (if you are not already convinced) that you are handsome, irresistible and witty. Go to a party in that frame of mind. Observe how people treat you. 9. This is the hardest of all exercizes and comes in two parts. First, observe closely and dispassionately two dear friends and two relative strangers. Try to figure out what their Thinkers think, and how their Provers methodically set about proving it. Second, apply the same exercize to yourself. If you think you have learned the lessons of these exercizes in less than six months, you haven’t really been working at them. With real work, in six months you should be just beginning to realize how little you know about everything. 10. Believe it possible that you can float off the ground and fly by merely willing it. See what happens. If this exercize proves as disappointing to you as it has to me, try number 11 below, which is never disappointing. 11. Believe that you can exceed all your previous ambitions and hopes in all areas of your life. 
 ==========
-﻿Prometheus Rising - Robert Anton Wilson (Robert Anton Wilson)
+Prometheus Rising - Robert Anton Wilson (Robert Anton Wilson)
 - Your Highlight at location 275-277 | Added on Monday, 27 November 2023 23:17:50
 
 Sad as it is to say, you never understand anything by merely reading a book about it. That’s why every science course includes laboratory experiments, and why every consciousness-liberation movement demands practice of yogas, meditations, confrontation techniques, etc. in which the ideas are tested in the laboratory of your own nervous system.
 ==========
-﻿Comunicacao em Prosa Moderna - Othon M. Garcia (Othon M. Garcia)
+Comunicacao em Prosa Moderna - Othon M. Garcia (Othon M. Garcia)
 - Your Highlight at location 4701-4702 | Added on Tuesday, 28 November 2023 02:17:13
 
 Pensamento e expressão são interdependentes, tanto é certo que as palavras são o revestimento das ideias e que, sem elas, é praticamente impossível pensar.
 ==========
-﻿Comunicacao em Prosa Moderna - Othon M. Garcia (Othon M. Garcia)
+Comunicacao em Prosa Moderna - Othon M. Garcia (Othon M. Garcia)
 - Your Highlight at location 4717-4718 | Added on Tuesday, 28 November 2023 02:23:31
 
 Portanto, quanto mais variado e ativo é o vocabulário disponível, tanto mais claro, tanto mais profundo e acurado é o processo mental da reflexão.
 ==========
-﻿Comunicacao em Prosa Moderna - Othon M. Garcia (Othon M. Garcia)
+Comunicacao em Prosa Moderna - Othon M. Garcia (Othon M. Garcia)
 - Your Highlight at location 4817-4819 | Added on Tuesday, 28 November 2023 02:47:50
 
 No entanto, o melhor processo para a aquisição de vocabulário é aquele que parte de uma experiência real e não apenas simulada, pois só ela permite assimilar satisfatoriamente conceitos e ideias que traduzam impressões vivas. É inútil ou, pelo menos, improfícuo tentarmos traduzir impressões ou juízos que a experiência, lato sensu, não nos proporcionou.
 ==========
-﻿Comunicacao em Prosa Moderna - Othon M. Garcia (Othon M. Garcia)
+Comunicacao em Prosa Moderna - Othon M. Garcia (Othon M. Garcia)
 - Your Highlight at location 4832-4836 | Added on Tuesday, 28 November 2023 02:49:44
 
 denotação é o elemento estável da significação de uma palavra, elemento não subjetivo (grave-se esta característica) e analisável fora do discurso (= contexto), ao passo que a conotação é constituída pelos elementos subjetivos, que variam segundo o contexto.
 ==========
-﻿Comunicacao em Prosa Moderna - Othon M. Garcia (Othon M. Garcia)
+Comunicacao em Prosa Moderna - Othon M. Garcia (Othon M. Garcia)
 - Your Highlight at location 4932-4937 | Added on Tuesday, 28 November 2023 03:05:05
 
 Aí está, pois — citamos agora textualmente — a importante diferença entre sentido extensional e sentido intensional, a saber: quando as declarações têm sentido intensional, a discussão pode prosseguir indefinidamente, daí resultando conflitos irreconciliáveis. Entre indivíduos, pode provocar a ruptura de laços de amizade; na sociedade, ocasiona a formação de grupos antagônicos; entre as nações, pode agravar tão seriamente as tensões já existentes, que se criam obstáculos à solução pacífica dos desentendimentos (Hayakawa, 1952:59).
 ==========
-﻿Comunicacao em Prosa Moderna - Othon M. Garcia (Othon M. Garcia)
+Comunicacao em Prosa Moderna - Othon M. Garcia (Othon M. Garcia)
 - Your Highlight at location 4963-4966 | Added on Tuesday, 28 November 2023 03:11:13
 
 Outro óbice à comunicação é o que se costuma chamar de polarização, essa “tendência a reconhecer apenas os extremos, negligenciando as posições intermediárias”, cujas raízes se encontram “nos sistemas de ética que exerceram influência sobre o mundo moderno.
 ==========
-﻿Comunicacao em Prosa Moderna - Othon M. Garcia (Othon M. Garcia)
+Comunicacao em Prosa Moderna - Othon M. Garcia (Othon M. Garcia)
 - Your Highlight at location 4969-4981 | Added on Tuesday, 28 November 2023 03:15:53
 
 Essa polarização constitui o grande problema do nosso século, e a comunicação humana tem de sofrer o impacto desse conflito, impacto tanto mais grave e daninho quanto mais intensional for o sentido das palavras com que os homens procuram traduzir ideias, conceitos, opiniões. A polarização e o sentido intensional tornam a linguagem ainda mais polissêmica, agravando os conflitos e os desentendimentos. Que se entende exatamente por nacionalista, por entreguista, por reacionário, por democrata, por imperialista, por comunista, ou socialista ou subversivo? Há 30 anos ou menos, nazistas e fascistas, que se opunham, e ainda se opõem, a comunistas, diziam-se, e ainda se dizem, nacionalistas; hoje os nacionalistas são com frequência tachados de comunistas, e aqueles outros, de reacionários. Os partidários da estatização eram antes fascistas, hoje são comunistas, mas eles mesmos se dizem nacionalistas. Quem defende a iniciativa privada é anticomunista para uns, reacionário para outros, embora se considere democrata e progressista. Para muitos, nacionalismo é amor à pátria, para outros, xenofobia... Polarização e polissemia de mãos dadas. No
 ==========
-﻿Comunicacao em Prosa Moderna - Othon M. Garcia (Othon M. Garcia)
+Comunicacao em Prosa Moderna - Othon M. Garcia (Othon M. Garcia)
 - Your Highlight at location 4969-4981 | Added on Tuesday, 28 November 2023 03:17:17
 
 Essa polarização constitui o grande problema do nosso século, e a comunicação humana tem de sofrer o impacto desse conflito, impacto tanto mais grave e daninho quanto mais intensional for o sentido das palavras com que os homens procuram traduzir ideias, conceitos, opiniões. A polarização e o sentido intensional tornam a linguagem ainda mais polissêmica, agravando os conflitos e os desentendimentos. Que se entende exatamente por nacionalista, por entreguista, por reacionário, por democrata, por imperialista, por comunista, ou socialista ou subversivo? Há 30 anos ou menos, nazistas e fascistas, que se opunham, e ainda se opõem, a comunistas, diziam-se, e ainda se dizem, nacionalistas; hoje os nacionalistas são com frequência tachados de comunistas, e aqueles outros, de reacionários. Os partidários da estatização eram antes fascistas, hoje são comunistas, mas eles mesmos se dizem nacionalistas. Quem defende a iniciativa privada é anticomunista para uns, reacionário para outros, embora se considere democrata e progressista. Para muitos, nacionalismo é amor à pátria, para outros, xenofobia... Polarização e polissemia de mãos dadas.
 ==========
-﻿Comunicacao em Prosa Moderna - Othon M. Garcia (Othon M. Garcia)
+Comunicacao em Prosa Moderna - Othon M. Garcia (Othon M. Garcia)
 - Your Highlight at location 5076-5078 | Added on Tuesday, 28 November 2023 03:28:45
 
 As palavras abstratas apelam menos para os sentidos do que para a inteligência. Por traduzirem ideias ou conceitos dissociados da experiência sensível, seu teor se nos afigura esmaecido ou impreciso, exigindo do espírito maior esforço para lhes apreender a integral significação.
 ==========
-﻿Comunicacao em Prosa Moderna - Othon M. Garcia (Othon M. Garcia)
+Comunicacao em Prosa Moderna - Othon M. Garcia (Othon M. Garcia)
 - Your Highlight at location 5350-5351 | Added on Tuesday, 28 November 2023 09:40:47
 
 chamar-se de “famílias ideológicas”, isto é, séries de sinônimos afiliados por uma noção fundamental comum.
+==========
+Comunicacao em Prosa Moderna - Othon M. Garcia (Othon M. Garcia)
+- Your Highlight at location 5478-5479 | Added on Tuesday, 28 November 2023 23:11:32
+
+Todo indivíduo medianamente culto dispõe de quatro tipos de vocabulário: o da língua falada ou coloquial, o da linguagem escrita, o de leitura e o de simples contato.
+==========
+Comunicacao em Prosa Moderna - Othon M. Garcia (Othon M. Garcia)
+- Your Highlight at location 5493-5496 | Added on Tuesday, 28 November 2023 23:11:46
+
+O primeiro e o segundo tipos constituem o nosso vocabulário ativo, que é muito menor do que o passivo, representado pelos dois últimos. O ativo serve à expressão do nosso pensamento, o passivo é responsável apenas pela compreensão do pensamento alheio.
+==========
+Comunicacao em Prosa Moderna - Othon M. Garcia (Othon M. Garcia)
+- Your Highlight at location 5505-5509 | Added on Tuesday, 28 November 2023 23:13:37
+
+Entretanto, a leitura atenta de obras recomendáveis, a leitura que se faz, literalmente, de lápis na mão para sublinhar as palavras desconhecidas e, depois de consultar o dicionário, anotar-lhes o significado, esse é, sem dúvida, o melhor processo de aprimorar o vocabulário. Mas, para dominar realmente o sentido das palavras assim conhecidas, para transformá-las em vocabulário ativo, urge procurar empregá-las. Só assim elas se incorporaram, de fato, aos nossos hábitos linguísticos.
+==========
+Deep work - Cal Newport (Cal Newport)
+- Your Highlight at location 1096-1098 | Added on Wednesday, 29 November 2023 00:15:10
+
+The key to developing a deep work habit is to move beyond good intentions and add routines and rituals to your working life designed to minimize the amount of your limited willpower necessary to transition into and maintain a state of unbroken concentration.
+==========
+Deep work - Cal Newport (Cal Newport)
+- Your Highlight at location 1136-1138 | Added on Wednesday, 29 November 2023 00:25:25
+
+Knuth deploys what I call the monastic philosophy of deep work scheduling. This philosophy attempts to maximize deep efforts by eliminating or radically minimizing shallow obligations.
+==========
+Deep work - Cal Newport (Cal Newport)
+- Your Highlight at location 1204-1206 | Added on Wednesday, 29 November 2023 00:35:44
+
+If even an hour away from your inbox makes you uncomfortable, then certainly the idea of disappearing for a day or more at a time will seem impossible. But I suspect bimodal working is compatible with more types of jobs than you might guess.
+==========
+Deep work - Cal Newport (Cal Newport)
+- Your Highlight at location 1221-1223 | Added on Wednesday, 29 November 2023 00:40:43
+
+This philosophy argues that the easiest way to consistently start deep work sessions is to transform them into a simple regular habit. The goal, in other words, is to generate a rhythm for this work that removes the need for you to invest energy in deciding if and when you’re going to go deep.
+==========
+Deep work - Cal Newport (Cal Newport)
+- Your Highlight at location 1275-1276 | Added on Wednesday, 29 November 2023 00:50:57
+
+writers. I call this approach, in which you fit deep
+==========
+Deep work - Cal Newport (Cal Newport)
+- Your Highlight at location 1276-1278 | Added on Wednesday, 29 November 2023 00:51:08
+
+I call this approach, in which you fit deep work wherever you can into your schedule, the journalist philosophy. This name is a nod to the fact that journalists, like Walter Isaacson, are trained to shift into a writing mode on a moment’s notice, as is required by the deadline-driven nature of their profession.
+==========
+hackdiet (John Walker)
+- Your Highlight on page 5 | location 45-48 | Added on Wednesday, 29 November 2023 23:00:34
+
+I'm an engineer by training, a computer programmer by avocation, and an businessman through lack of alternatives. From grade school in the 1950's until 1988 I was fat—anywhere from 30 to 80 pounds overweight. This is a diet book by somebody who spent most of his life fat.
+==========
+hackdiet (John Walker)
+- Your Highlight on page 6 | location 56-58 | Added on Wednesday, 29 November 2023 23:02:20
+
+This book is a compilation of what I learned. Six months after I decided being fat was a problem to be solved, not a burden to be endured, I was no longer overweight.
+==========
+hackdiet (John Walker)
+- Your Highlight on page 8 | location 75-76 | Added on Wednesday, 29 November 2023 23:06:30
+
+Losing weight isn't pleasant, and it's far better to get it over with quickly, and never have to do it again.
+==========
+hackdiet (John Walker)
+- Your Highlight on page 8 | location 79-80 | Added on Wednesday, 29 November 2023 23:08:03
+
+Stress is an unavoidable consequence of living in our fast-paced, high-tech culture, yet few of us are willing to sacrifice its stimulation and excitement to recapture the placid and serene life of simpler times.
+==========
+hackdiet (John Walker)
+- Your Highlight on page 8 | location 80-81 | Added on Wednesday, 29 November 2023 23:08:17
+
+Stress is a primary cause of overeating and weight gain.
+==========
+hackdiet (John Walker)
+- Your Highlight on page 8 | location 80-81 | Added on Wednesday, 29 November 2023 23:08:30
+
+Stress is a primary cause of overeating and weight gain.
+==========
+hackdiet (John Walker)
+- Your Highlight on page 9 | location 90-92 | Added on Wednesday, 29 November 2023 23:12:19
+
+to accomplish anything else worthwhile in life: An eye firmly fixed on the goal. Will power. A high tolerance for pain.
+==========
+hackdiet (John Walker)
+- Your Highlight on page 15 | location 161-163 | Added on Wednesday, 29 November 2023 23:32:43
+
+My hunger serves me instead of a clock. —Jonathan Swift, Polite Conversation, 1738
+==========
+hackdiet (John Walker)
+- Your Highlight on page 19 | location 207-208 | Added on Wednesday, 29 November 2023 23:47:32
+
+After all, in order to manipulate somebody you have to understand them, and who do you understand better than yourself?
+==========
+hackdiet (John Walker)
+- Your Highlight on page 19 | location 210-211 | Added on Wednesday, 29 November 2023 23:47:59
+
+The course of a life is often charted by such milestones of empowerment. Manipulation in the pursuit of empowerment is no vice.
+==========
+hackdiet (John Walker)
+- Your Highlight on page 20 | location 223-224 | Added on Wednesday, 29 November 2023 23:50:57
+
+Bob Bickford, computer and video guru, defined the true essence of the hacker as “Any person who derives joy from discovering ways to circumvent limitations.”
+==========
+hackdiet (John Walker)
+- Your Highlight on page 23 | location 262-264 | Added on Thursday, 30 November 2023 03:36:16
+
+Presented with a problem, an expert manager can quickly grasp its essence and begin to formulate a plan to manage the problem on an ongoing basis. But
+==========
+hackdiet (John Walker)
+- Your Highlight on page 23 | location 262-263 | Added on Thursday, 30 November 2023 03:36:29
+
+Presented with a problem, an expert manager can quickly grasp its essence and begin to formulate a plan to manage the problem on an ongoing basis.
+==========
+hackdiet (John Walker)
+- Your Highlight on page 23 | location 269-270 | Added on Thursday, 30 November 2023 03:37:10
+
+The engineer isn't interested in building an organisation to cope with the problem. Instead, the engineer studies the problem in the hope of finding its root cause.
+==========
+hackdiet (John Walker)
+- Your Highlight on page 26 | location 301-303 | Added on Thursday, 30 November 2023 03:47:18
+
+First, you must fix the problem of not knowing when and how much to eat. As long as you lack that essential information, you'll never get anywhere. Then, you have to use that information to permanently manage your weight.
+==========
+hackdiet (John Walker)
+- Your Highlight on page 29 | location 335-336 | Added on Thursday, 30 November 2023 03:54:06
+
+Since we're efficient food processing machines, it's possible to reduce all the complexity of food to a single number that gives the total energy the body can extract from it—the calorie.
+==========
+hackdiet (John Walker)
+- Your Highlight on page 33 | location 409-411 | Added on Thursday, 30 November 2023 04:02:19
+
+Living, as we do, inside the bag, it's worth understanding how we're affected by these processes, then using that understanding to gain control of them.
+==========
+hackdiet (John Walker)
+- Your Highlight on page 37 | location 452-453 | Added on Thursday, 30 November 2023 04:13:06
+
+That's given by the number of calories of energy stored in a pound of fat: about 3500 calories per pound.
+==========
+hackdiet (John Walker)
+- Your Highlight on page 37 | location 457-459 | Added on Thursday, 30 November 2023 04:15:37
+
+If, over a period of time, the calories in the food you eat exceed the calories you burn by 3500, you'll put on about a pound. Conversely, if you reduce your food intake so that you burn 3500 calories more than you eat, you'll lose about a pound.
+==========
+hackdiet (John Walker)
+- Your Highlight on page 46 | location 576-578 | Added on Thursday, 30 November 2023 04:45:08
+
+For what better motivation is there to maintain your weight than recalling how awful you felt when overweight and what you went through to shed that excess poundage?
+==========
+hackdiet (John Walker)
+- Your Highlight on page 49 | location 596-596 | Added on Thursday, 30 November 2023 04:53:44
+
+68% of the mass you consume every day is water, and 81% of what goes out is likewise water.
+==========
+hackdiet (John Walker)
+- Your Highlight on page 49 | location 602-602 | Added on Thursday, 30 November 2023 04:57:43
+
+Most of the changes in weight you see have nothing to do with how many calories you're eating or burning.
+==========
+hackdiet (John Walker)
+- Your Highlight on page 49 | location 602-603 | Added on Thursday, 30 November 2023 04:58:17
+
+Instead, all you're seeing is how many pounds of water happen to be inside the rubber bag at the moment.
+==========
+hackdiet (John Walker)
+- Your Highlight on page 52 | location 630-632 | Added on Thursday, 30 November 2023 05:07:00
+
+There is a difference between eating a varied diet and chowing down on a cup of lard and sugar once a day. Programmers know this instinctively: they balance their daily menu among the four major food groups: caffeine, sugar, grease, and salt.
+==========
+hackdiet (John Walker)
+- Your Highlight on page 52 | location 637-637 | Added on Thursday, 30 November 2023 05:10:44
+
+Eating the right mix of food only becomes important when you consider food as raw material.
+==========
+hackdiet (John Walker)
+- Your Highlight on page 52 | location 640-642 | Added on Thursday, 30 November 2023 05:11:32
+
+In addition, there are a number of complicated organic molecules our bodies require but cannot, for one reason or another, manufacture. These raw materials, minerals and vitamins, must be furnished or else the body begins to develop deficiency diseases such as scurvy and rickets.
+==========
+hackdiet (John Walker)
+- Your Highlight on page 53 | location 648-650 | Added on Thursday, 30 November 2023 05:13:48
+
+When you eat less, you'll not only be putting less energy in the rubber bag, but also supplying less of the raw materials the body needs. It is, therefore, important to maintain a balanced diet as you lose weight.
+==========
+hackdiet (John Walker)
+- Your Highlight on page 64 | location 727-728 | Added on Thursday, 30 November 2023 17:52:43
+
+Negative feedback is ubiquitous, yet its profound consequences are often overlooked for this very reason.
+==========
+hackdiet (John Walker)
+- Your Highlight on page 68 | location 765-767 | Added on Thursday, 30 November 2023 17:59:41
+
+Once you begin to analyse things in terms of positive and negative feedback, you'll never see things quite the same.
+==========
+hackdiet (John Walker)
+- Your Highlight on page 61 | location 706-706 | Added on Thursday, 30 November 2023 18:01:10
+
+temperature. The heavy line on this
+==========
+hackdiet (John Walker)
+- Your Highlight on page 71 | location 792-796 | Added on Thursday, 30 November 2023 23:06:00
+
+Proportional control makes systems run smoother than bang-bang. Most biological systems are proportional, while many engineered and all too many political and social systems are bang-bang. As with negative and positive feedback, once you understand how proportional control lends stability to a system, while bang-bang tends to oscillate between the extremes, you'll recognise many examples of both kinds of control in everyday life.
+==========
+hackdiet (John Walker)
+- Your Highlight on page 82 | location 910-913 | Added on Friday, 1 December 2023 00:21:55
+
+A multitude of reasons: organic, cultural, and psychological, may explain why feedback fails in certain people. Many diet books counsel searching yourself for the underlying causes of weight gain and remedying them. This may be an interesting and rewarding process, but it's no way to lose weight. It's kinda like becoming an expert watchmaker to fix your Timex that keeps stopping and nobody can seem to repair. The wiser man buys a new watch.
+==========
+hackdiet (John Walker)
+- Your Highlight on page 87 | location 971-972 | Added on Friday, 1 December 2023 00:28:03
+
+You can't make what you can't measure because you don't know when you've got it made. —Dr. Irving Gardner
+==========
+hackdiet (John Walker)
+- Your Highlight on page 100 | location 1113-1115 | Added on Friday, 1 December 2023 04:56:27
+
+The moving average is the red line; the daily stock price is shown in black.
+==========
+hackdiet (John Walker)
+- Your Highlight on page 134 | location 1422-1423 | Added on Friday, 1 December 2023 05:58:04
+
+The general outlines for this program were derived from the Royal Canadian Air Force “5BX” exercise program for men.
+==========
+hackdiet (John Walker)
+- Your Highlight on page 144 | location 1604-1606 | Added on Friday, 1 December 2023 06:07:44
+
+Developing physical fitness through exercise is just like losing weight: extremely simple, but based on an unpleasant fact most people would rather ignore.
 ==========
