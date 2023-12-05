@@ -13970,3 +13970,22 @@ Analyzing why only MS Access try to open the outside SE to open an inside SE doc
 :tags: venn roadmap70910
 
 Tried to reproduce in Demo and Workplace (learned to add a new app, just put "Paint" and it appeared; odd) without success. Alex Osipov attached diag files and starting to analyze the dumps.
+
+The exception thrown by mspaint dumps is of the kind with error code 0xC000027B, a [Stowed Exception]. It occurs when:
+
+> A Stowed Exception is raised when an asynchronous operation fails. When the exception is reported from the worker thread via a RoOriginateException or RoOriginateLanguageException call, a Stack Backtrace (array of Instruction Pointers) is collected of the current thread via a CaptureStackBackTrace function call. The Stack Backtrace and HRESULT of the exception is wrapped in an IRestrictedErrorInfo object and routed through the language projection layers of WinRT to the caller.
+> 
+> If the exception is not handled by the caller, the stowed exception is thrown fatally. Because the throwing is deferred, the current context of the associated dump has little value. The thread of the original issue regularly no longer exists, and if it does, has concluded the operation (meaning the thread's stack memory has been overwritten). This means that function parameters and local variables are not available.
+
+In other words, the addresses inside the exception parameters are invalid memory:
+
+```
+exception info
+```
+
+The first results in web search reveals a [known error] to launch a UWP app when default registry or file permissions are modified, which could be a clue.
+
+Worth notice: My Win11 was some builds before the user so I updated it. After reboot the look and feel of mspaint changed drastically, like the toolbar and the location of components. It was an app before and it is now, but there was some changes lately.
+
+[Stowed Exception]: https://learn.microsoft.com/en-us/shows/inside/c000027b
+[known error]: https://learn.microsoft.com/en-us/troubleshoot/windows-client/shell-experience/microsoft-store-apps-fail-to-start
