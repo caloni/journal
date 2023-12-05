@@ -13673,7 +13673,6 @@ And here is a clean sorted settings to replace in DLP environment (it is being u
   {
     "serviceHosts": ["https://www.os33dev.com", "https://www2.os33dev.net"]
   },
-  "badge": { },
   "containerServiceStartRetryTimeout": 3,
   "containerServiceStartThroughServiceManagerEnabled": true,
   "containerSetupRetryTimeout": 15,
@@ -13692,85 +13691,123 @@ And here is a clean sorted settings to replace in DLP environment (it is being u
   },
   "featureFlags":
   {
-    "AADBrokerPluginNetworkRedirectionEnabled": false,
-    "AadWebProxyEnabled": false,
-    "AadWorkaroundEnabled": false,
-    "ApplicationAutoLaunchEnabled": false,
-    "ApplicationInsightsLoggerEnabled": false,
-    "ApplicationInsightsPerformanceCollectorEnabled": false,
-    "BadgeTopmostEnabled": false,
-    "BorderTransparencyDetectionEnabled": false,
-    "BoxDriveEnabled": false,
-    "BypassNetworksFromPolicyEnabled": false,
-    "CompactVhdxEnabled": false,
-    "ConcurrentInvertedProtocolEnabled" : false,
-    "ContainerProtectionEnabled" : false,
-    "CrashOnWrongRegistryOperation": false,
-    "DebugModeEnabled": false,
-    "DisableAADWAM": false,
-    "DisableIpV6": false,
-    "DisableProtectedViewEnabled": false,
-    "DrivePathProtectionEnabled": false,
-    "DynamicDataExchangeHook" : false,
-    "ExternalVpnEnabled":true,	
-    "FakePrinterEnabled": false,
-    "FixFirewallBugWithDeviceReattachment": false,
-    "ForceInstallWorkplaceBrowserExtension": false,
-    "GatewayDnsEnabled": false,
-    "GlobalProtectWorkaroundEnabled": false,
-    "HideBitlockerManagementEnabled": false,
-    "HideExplorerStartup": false,
-    "HookAntiScreenEnabled": false,
-    "HookAppStartAfterRebootAllowed": false,
+    "AADBrokerPluginNetworkRedirectionEnabled": true,
+    "AadWebProxyEnabled": true,
+    "AadWorkaroundEnabled": true,
+    "ApplicationAutoLaunchEnabled": true,
+    "ApplicationInsightsLoggerEnabled": true,
+    "ApplicationInsightsPerformanceCollectorEnabled": true,
+    "BadgeTopmostEnabled": true,
+    "BorderTransparencyDetectionEnabled": true,
+    "BoxDriveEnabled": true,
+    "BypassNetworksFromPolicyEnabled": true,
+    "CompactVhdxEnabled": true,
+    "ConcurrentInvertedProtocolEnabled": true,
+    "ContainerProtectionEnabled": true,
+    "CopyingTeamsPackagesEnabled": true,
+    "CrashOnWrongRegistryOperation": true,
+    "DebugModeEnabled": true,
+    "DigitalSignatureValidationVersion": 2,
+    "DisableAADWAM": true,
+    "DisableIpV6": true,
+    "DisableProtectedViewEnabled": true,
+    "DrivePathProtectionEnabled": true,
+    "DynamicDataExchangeHook": true,
+    "ExternalVpnEnabled": true,
+    "FakePrinterEnabled": true,
+    "FixFirewallBugWithDeviceReattachment": true,
+    "ForceInstallWorkplaceBrowserExtension": true,
+    "GPOSupportEnabled": true,
+    "GatewayDnsEnabled": true,
+    "GlobalProtectWorkaroundEnabled": true,
+    "HealthCheckDisabled": false,
+    "HealthCheckDisabled_Default": false,
+    "HealthCheckDisabled_Description": "disable HealthCheck feature. ! Do not use. For debug purposes only !",
+    "HealthCheckDisabled_Status": "For Debug Only",
+    "HideBitlockerManagementEnabled": true,
+    "HideExplorerStartup": true,
+    "HookAntiScreenEnabled": true,
+    "HookAppStartAfterRebootAllowed": true,
+    "HookClipboardEnabled": false,
+    "HookClipboardEnabled_Default": false,
+    "HookClipboardEnabled_Description": "Old logic for clipboard data protection in Local Zone.",
+    "HookClipboardEnabled_Status": "Deprecated",
     "HookDisablePrintersEnabled": false,
+    "HookDisablePrintersEnabled_Default": false,
+    "HookDisablePrintersEnabled_Description": "disable using printing in Local Zone. Development of this functionality was pause in August, 2021 because caused some stability issues.",
+    "HookDisablePrintersEnabled_Status": "On Hold",
     "HookDragAndDropEnabled": false,
+    "HookDragAndDropEnabled_Help": "enable ",
     "HookHidePrintDialogEnabled": false,
-    "HookPrinterListFilterEnabled": false,
-    "HookSystemDragAndDropAllowed": false,
-    "HookWinRtEnabled": false,
-    "InstallAod": false,
-    "InstallContainerComponentIntoCurrent": false,
-    "IpcBinarySerializationEnabled": false,
-    "KeyLoggerEnabled": false,	
-    "LZOneDriveEnabled": false,
-    "LocalRoutesEnabled": false,
-    "LocalZoneProfileVhdxEnabled": false,
-    "LockContainerSessionEnabled": false,	
-    "MacAllowWorkplaceDriveInContainerOnly": false,
-    "MacBFDLogicEnabled" : false,
-    "MacBadgeStartOnCreateContainerSession": false,
-    "MacClipboardManagerEnabled": false,
-    "MacConfirmSessionOnlyWhenClipboardManagerIsRunning": false,
-    "MacConnectivityStatusEnabled": false,
-    "MacEnforceLinksToLZ" : false,
-    "MacEnforceLinksToLZv2" : false,
-    "MacGatewayDnsEnabled" : false,
-    "MacIsolationEnabled": false,
-    "MacOfflineModeEnabled": false,
-    "MacOpenDefaultBrowserInContainerEnabled": false,
-    "MacPreciseBorderForOverlappedPopups" : false,
-    "MacReadOnlyFileSystemEnabled": false,
-    "MacSetDownloadsFolderUsingSettings": false,
-    "MacStreamAppHotfixWithDoubleVPNTunnelRestart": false,
-    "MacUseRefactoredBadgeInfrastructure" : false,
-    "NetworkAccessPolicyEnabled": false,
-    "RegistryForceAccessCheckEnabled": false,
-    "RegistryProtectionEnabled": false,
-    "RememberDeletedRegistryKeys": false,
-    "SecurityAttributesWorkaroundEnabled": false,
-    "ShellChangeNotifyHook": false,
-    "SingleInstanceEnabled": false,
-    "SystemTrayIconBorderEnabled" : false,
-    "ThirdPartyFileSystemsEnabled": false,
-    "ToastNotificationEnabled": false,  
-    "VennDiskEnabled": false,
-    "VennLocalMachineHiveCleanupEnabled": false,
+    "HookHidePrintDialogEnabled_Default": false,
+    "HookHidePrintDialogEnabled_Help": "hide standard print dialog in Local Zone. Development of this functionality was pause in August, 2021 because cause some stability issues.",
+    "HookHidePrintDialogEnabled_Status": "On Hold",
+    "HookPrinterListFilterEnabled": true,
+    "HookSystemDragAndDropAllowed": true,
+    "HookUpdateVolumeStatusEnabled": true,
+    "HookWinRtEnabled": true,
+    "InstallAod": true,
+    "InstallContainerComponentIntoCurrent": true,
+    "InstallSpd": true,
+    "IpcBinarySerializationEnabled": true,
+    "KeyLoggerEnabled": true,
+    "LZOneDriveEnabled": true,
+    "LocalRoutesEnabled": true,
+    "LocalZoneProfileVhdxEnabled": true,
+    "LockContainerSessionEnabled": true,
+    "MacAllowWorkplaceDriveInContainerOnly": true,
+    "MacBFDLogicEnabled" : true,
+    "MacBadgeStartOnCreateContainerSession": true,
+    "MacClipboardManagerEnabled": true,
+    "MacConfirmSessionOnlyWhenClipboardManagerIsRunning": true,
+    "MacConnectivityStatusEnabled": true,
+    "MacEnforceLinksToLZ" : true,
+    "MacEnforceLinksToLZv2" : true,
+    "MacGatewayDnsEnabled" : true,
+    "MacIsolationEnabled": true,
+    "MacOfflineModeEnabled": true,
+    "MacOpenDefaultBrowserInContainerEnabled": true,
+    "MacPreciseBorderForOverlappedPopups" : true,
+    "MacReadOnlyFileSystemEnabled": true,
+    "MacSetDownloadsFolderUsingSettings": true,
+    "MacStreamAppHotfixWithDoubleVPNTunnelRestart": true,
+    "MacUseRefactoredBadgeInfrastructure" : true,
+    "NetworkAccessPolicyEnabled": true,
+    "NetworkRedirectionEnabled": true,
+    "OpenFilesFromWorkplaceDriveInContainer": false,
+    "OpenFilesFromWorkplaceDriveInContainer_Default": false,
+    "OpenFilesFromWorkplaceDriveInContainer_Description": "we used this flag before ExplorerLaunchEnabled.",
+    "OpenFilesFromWorkplaceDriveInContainer_Status": "Deprecated",
+    "PrintingActivityEnabled": true,
+    "ProtectWindowHooksEnabled": true,
+    "RegistryForceAccessCheckEnabled": true,
+    "RegistryProtectionEnabled": true,
+    "RememberDeletedRegistryKeys": true,
+    "SecurityAttributesWorkaroundEnabled": true,
+    "ShellChangeNotifyHook": true,
+    "SingleInstanceEnabled": true,
+    "StartSpooler": true,
+    "SystemTrayIconBorderEnabled": true,
+    "ThirdPartyFileSystemsEnabled": true,
+    "ToastNotificationEnabled": true,  
+    "ToastNotificationRepointEnabled": true,
+    "UpdateAltitudeOnTheFly": true,
+    "UwpFullTrustProcessSupportEnabled": true,
+    "UwpFulltrustWorkaroundEnabled": true,
+    "VennDiskEnabled": true,
+    "VennLocalMachineHiveCleanupEnabled": true,
+    "VennLocalMachineHiveCleanupEnabled": true,
     "VhdxEncryptionFlags": "None",
-    "WAMFilterEnabled": false,
-    "WebCacheEnabled": false,
-    "WebProxyEnabled": false,
-    "WmiMethodsFilterEnabled": false,
-    "WorkplaceDriveOnVennDiskEnabled": false
+    "WAMFilterEnabled": true,
+    "WebCacheEnabled": true,
+    "WebProxyEnabled": true,
+    "WindowHookProtection": true,
+    "WmiMethodsFilterEnabled": true,
+    "WorkplaceDriveOnVennDiskEnabled": true
+  },
+  "links": {
+    change_config: "https://www.os33dev.com/Home/System/ConfigForm.aspx?_id=4817965d-3624-46b8-b90e-c0f04a664469&_c=1&_i=0&_flock=False",
+    confluence: "https://os33corp.atlassian.net/wiki/spaces/DTDLP/pages/2355134798/WORKPLACE+CONTAINER+CONFIG"
   },
   "policy":
   {
@@ -13989,3 +14026,109 @@ Worth notice: My Win11 was some builds before the user so I updated it. After re
 
 [Stowed Exception]: https://learn.microsoft.com/en-us/shows/inside/c000027b
 [known error]: https://learn.microsoft.com/en-us/troubleshoot/windows-client/shell-experience/microsoft-store-apps-fail-to-start
+
+
+= Relation between power mode and word crash
+:date: 2023-12-05
+:tags: venn roadmap69082
+
+Analyzing the logs when the crash happen is possible to know the following flow of events:
+
+ - Word is launched;
+ - Power mode goes to Suspend;
+ - Gateway Manager stops;
+ - Connection is interrupted;
+ - Suspend power mode is processed;
+ - Power mode change to ResumeAutomatic;
+ - WerFault service (`svchost.exe -k WerSvcGroup`) tries to start and fails;
+ - User session is unlocked;
+ - WerFault start to capture Word process;
+ - Power mode changed to ResumeSuspend;
+ - Gateway keeps logging Get Service Token exception (is not connected yet);
+ - The same exception is logged when processing ResumeSuspend power mode;
+ - Gateway enters simple offline mode and wait for 5000 seconds before next service restart;
+ - Original Word process exits;
+ - New Word instance starts.
+
+```
+5:40:31.6678463 PM	WINWORD.EXE	13052	Process Start		SUCCESS	Parent PID: 10396, Command line: "C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE"  , Current directory: C:\Program Files\Microsoft Office\root\Office16\, Environment: 
+2023-12-05 20:49:44.716 - [TRAC] - [0:8800:25] - GatewayConnectivityStatus has been sent. Status: Connected, latency: 169, packet loss: 0
+2023-12-05 20:49:53.944 - [TRAC] - [0:8800:3] - Power mode changed to: Suspend
+2023-12-05 20:49:53.944 - [INFO] - [0:8800:3] - Processing power status Suspend...
+2023-12-05 20:49:53.944 - [INFO] - [0:8800:3] - Unsubscribe from error notification
+2023-12-05 20:49:53.944 - [INFO] - [0:8800:3] - Stop refresh service tokens for session id [0f584f16-bc3e-44f3-9051-88bc429e8c7d] by scope [dlp-policy-service, dlp-gateway-service, dlp-activity-service, dlp-virtual-disk-service]
+...
+2023-12-05 20:49:53.954 - [INFO] - [0:8800:3] - Stopping Gateway Manager for session [0f584f16-bc3e-44f3-9051-88bc429e8c7d]
+2023-12-05 20:49:53.954 - [TRAC] - [0:8800:3] - SendRequestAsync to session [0f584f16-bc3e-44f3-9051-88bc429e8c7d], pid 7728, endpoint stop-gateway-manager, sender WorkplaceContainer. Request: stop-gateway-manager (67f4329f-d275-41bb-bfbb-9ddb50530a25)
+= 
+
+2023-12-05 20:49:54.027 - [INFO] - [0:8800:9] - Connection with Gateway Manager has been interrupted
+2023-12-05 20:49:54.032 - [INFO] - [0:8800:9] - Disconnecting IPC client for session [0f584f16-bc3e-44f3-9051-88bc429e8c7d], pid 7728
+2023-12-05 20:49:54.032 - [INFO] - [0:8800:9] - Closing network adapter for session 0f584f16-bc3e-44f3-9051-88bc429e8c7d
+2023-12-05 20:49:54.643 - [TRAC] - [0:8800:9] - SendRequestAsync to session [0f584f16-bc3e-44f3-9051-88bc429e8c7d], pid 10584, endpoint gateway-connectivity-status, sender WorkplaceContainer. Request: gateway-connectivity-status (dc964cf3-92f1-4ea6-ac25-2af3a56235ff)
+2023-12-05 20:49:54.807 - [TRAC] - [0:8800:24] - GatewayConnectivityStatus has been sent. Status: Disconnected, latency: , packet loss: 
+2023-12-05 20:49:54.807 - [INFO] - [0:8800:24] - Sent disconnected status to Workplace
+2023-12-05 20:49:54.822 - [INFO] - [0:8800:3] - Processing power status Suspend - completed.
+...
+2023-12-05 20:57:01.779 - [TRAC] - [0:8800:25] - Power mode changed to: ResumeAutomatic
+5:57:06.8504642 PM	svchost.exe	13400	Process Start		SUCCESS	Parent PID: 752, Command line: C:\Windows\System32\svchost.exe -k WerSvcGroup, Current directory: C:\Windows\system32\, Environment: 
+5:57:08.5043636 PM	WerFault.exe	8676	Process Start		SUCCESS	Parent PID: 13400, Command line: C:\Windows\system32\WerFault.exe -pss -s 424 -p 13052 -ip 13052, Current directory: C:\Windows\system32\, Environment: 
+2023-12-05 20:57:08.610 - [INFO] - [0:8800:3] - Windows session 1 changed: SessionUnlock
+2023-12-05 20:57:14.845 - [TRAC] - [0:8800:17] - Registering process: pid = 13016, parent pid = 13052, process name = \Device\HarddiskVolume3\Windows\System32\WerFault.exe
+5:57:14.8669951 PM	WerFault.exe	13016	Process Start		SUCCESS	Parent PID: 13052, Command line: C:\Windows\system32\WerFault.exe -u -p 13052 -s 8796, Current directory: C:\Windows\system32\, Environment: 
+...
+2023-12-05 20:57:16.439 - [TRAC] - [0:8800:22] - Power mode changed to: ResumeSuspend
+2023-12-05 20:57:16.439 - [INFO] - [0:8800:22] - Processing power status ResumeSuspend...
+2023-12-05 20:57:16.439 - [INFO] - [0:8800:22] - Generating gateway keys
+2023-12-05 20:57:16.439 - [INFO] - [0:8800:22] - Checking gateway connection
+2023-12-05 20:57:16.439 - [WARN] - [0:8800:22] - The token should update via Memory Cache. SessionId: 0f584f16-bc3e-44f3-9051-88bc429e8c7d
+...
+2023-12-05 20:57:20.939 - [ERRO] - [0:8800:24] - Exception received when Get Service Token for session [0f584f16-bc3e-44f3-9051-88bc429e8c7d] by scope [dlp-gateway-service]
+	Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Workplace.Container.WorkplaceClient.<GetServiceTokenAsync>d__8.MoveNext() in F:\repos\Workplace.Container.Windows\Workplace.Container\Workplace.Container\WorkplaceClient.cs:line 162
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Workplace.Container.OAuthToken.TokenManager.<AddOrUpdateTokenAsync>d__14.MoveNext() in F:\repos\Workplace.Container.Windows\Workplace.Container\Workplace.Container\OAuthToken\TokenManager.cs:line 75
+...
+2023-12-05 20:57:34.876 - [INFO] - [0:8800:14] - Waiting for gateway to connect...
+2023-12-05 20:57:37.627 - [INFO] - [0:8800:31] - Register GatewayManager, session [0f584f16-bc3e-44f3-9051-88bc429e8c7d]
+5:57:40.9120884 PM	WINWORD.EXE	13052	Process Exit		SUCCESS	Exit Status: 0, User Time: 104.0781250 seconds, Kernel Time: 24.6875000 seconds, Private Bytes: 168,112,128, Peak Private Bytes: 202,567,680, Working Set: 327,237,632, Peak Working Set: 371,859,456
+...
+2023-12-05 20:57:42.251 - [WARN] - [0:8800:24] - Error when processing ResumeSuspend power mode. Reason: Workplace.Container.Exceptions.GetServiceTokenException: Get Service Token Exception. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at Workplace.Container.WorkplaceClient.<GetServiceTokenAsync>d__8.MoveNext() in F:\repos\Workplace.Container.Windows\Workplace.Container\Workplace.Container\WorkplaceClient.cs:line 162
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Workplace.Container.OAuthToken.TokenManager.<AddOrUpdateTokenAsync>d__14.MoveNext() in F:\repos\Workplace.Container.Windows\Workplace.Container\Workplace.Container\OAuthToken\TokenManager.cs:line 75
+...
+2023-12-05 20:57:42.251 - [INFO] - [0:8800:24] - Entering simple offline mode...
+2023-12-05 20:57:42.251 - [INFO] - [0:8800:24] - Waiting 5000 seconds before trying to restart the gateway service
+2023-12-05 20:57:42.954 - [TRAC] - [0:8800:9] - ScreenSharingActivityLogger.OnProcessCreated: Process with pid 13052 did not have custom policy
+2023-12-05 20:57:44.470 - [TRAC] - [0:8800:17] - [Start watch] DriverMessageHandler - OnRegisterProcess
+2023-12-05 20:57:44.470 - [TRAC] - [0:8800:17] - Registering process: pid = 13556, parent pid = 13016, process name = \Device\HarddiskVolume3\Program Files\Microsoft Office\root\Office16\WINWORD.EXE
+5:57:44.5251050 PM	WINWORD.EXE	13556	Process Start		SUCCESS	Parent PID: 13016, Command line: "C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE" /restore, Current directory: C:\Program Files\Microsoft Office\root\Office16\, Environment: 
+```
+
+There is this loop where Word gets the same "The thread id is not found" error for TryDispatchInThread from ComQueryInterfaceInverted. Don't know if related, just came into attention.
+
+```
+2023-12-05 20:57:04.700 - [TRAC] - [1:13052:12964] - [winword.exe] - [IPC] - NamedObjectProtection. Function: NtCreateFile. Name: \??\C:\Windows\system32\netprofm.dll, new name: , result: 0x0.
+2023-12-05 20:57:04.700 - [TRAC] - [1:13052:12964] - [winword.exe] - [COM] - Com::ComCallbackStorage::Add [1255748512-62548-18853--1924148904]
+2023-12-05 20:57:04.700 - [TRAC] - [1:13052:12964] - [winword.exe] - [COM] - ComProxyIpcClient. [IPCInvertedServer] Response handled: . Channel name: 21c7dbfb-8f46-4f89-a5d9-875a2cf8ca8e
+2023-12-05 20:57:04.701 - [TRAC] - [1:13052:12964] - [winword.exe] - [COM] - ComProxyIpcClient. [IpcConcurrentInvertedServer] Request handled. Response data: î3EúÎÛA¦ßqÍ[ŠÕ÷_
+2023-12-05 20:57:04.702 - [TRAC] - [1:13052:12964] - [winword.exe] - [COM] - ComProxyIpcClient. [IpcConcurrentInvertedServer] OnRequest with data: î3EúÎÛA¦ßqÍ[ŠÕ÷i
+2023-12-05 20:57:04.702 - [TRAC] - [1:13052:12964] - [winword.exe] - [COM] - ComProxyIpcClient. [IPCInvertedServer] Got request: com-query-interface-inverted. Channel name: 21c7dbfb-8f46-4f89-a5d9-875a2cf8ca8e
+2023-12-05 20:57:04.703 - [TRAC] - [1:13052:12964] - [winword.exe] - [COM] - ComProxyIpcClient::ComQueryInterfaceInverted
+2023-12-05 20:57:04.703 - [TRAC] - [1:13052:12964] - [winword.exe] - [COM] - Com::ComCallbackStorage::TryGet
+2023-12-05 20:57:04.703 - [TRAC] - [1:13052:12964] - [winword.exe] - [COM] - ComProxyIpcClient::TryDispatchInThread
+2023-12-05 20:57:04.703 - [TRAC] - [1:13052:12964] - [winword.exe] - [COM] - ComProxyIpcClient::TryDispatchInThread. The thread id is not found. 9912
+```
+
+Still don't know what can be done as a test to fix this issue.
+
+For roadmap70910 Chermyanin told about more investigation around UWP partial solution implemented (could be this).
+
+For roadmap70802 Chermyanin said that in some rare cases (Chrome) the title of the window is used to select which app will open a resource (link/document), and analyzing windows messages exchanged could be useful.
