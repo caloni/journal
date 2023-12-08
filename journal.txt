@@ -4277,7 +4277,7 @@ Ontem voltamos, com horário certinho para fazer a integração dos vôos. Exper
  
 = Starting at Venn
 :date: 2023-06-09
-:tags: venn
+:tags: tag_venn
  
 The plan for today was to analyze Outlook network communication (if possible inside and outside SE) and work a way to emulate Outlook server IPs or exchange inside VM to generate a "Contacting Server" message by letting the server being "slow". I was interested too in to compare another apps that use network as Chrome.
 
@@ -4345,7 +4345,7 @@ Previsão: 03/07
  
 = Study about hooks and network inside Container
 :date: 2023-06-14
-:tags: venn
+:tags: tag_venn
  
 I studied a little more about the hooks and network communication inside containererized apps using the Confluence documentation and Workplace source code. I found the bootstrap parts related to Workplace Starter and the driver communication. I tried to activate Office in DLP again, but the signin loop continued. I even recorded the WireShark and Proceess Monitor logs and was starting to try to activate outside of SE to compare logs and... it succeeded outside! I wasn't aware of this approach or this time worked.
 
@@ -4361,7 +4361,7 @@ I am uploading this status also to 68699, since it is more related to that issue
  
 = Testing the installation from scratch
 :date: 2023-06-14
-:tags: venn
+:tags: tag_venn
  
 Testing the installation of the version 4.0.8565.21801 from scratch again and the network issue repeated. I read about the versioning numbers and create a tool to keep up with what would be the today version and read about the deploy process. I noticed that I am using the git repository `Workplace.Container.Windows`, that is different from the build repository `OS33.Workplace.Windows` (saw in the pipeline). I was checking out if the artefacts are delivery with symbol files, but no. So now I am cloning the right repository to understand how the Workplace knows about the correct installed version and if there is a way to exchange versions easily. My objective is to test older versions to see if it is a recent change that created this behavior in my VM.
 
@@ -4370,7 +4370,7 @@ But that could take some time now, since the right repository seems bigger, or m
  
 = Summary of issues related to Outlook server communication message
 :date: 2023-06-17
-:tags: venn  
+:tags: tag_venn
 
 Issue 68699 and 68713 occurred more when mouse over email with long thread and emails with embedded imgs.
 
@@ -4467,7 +4467,7 @@ Non-reproducible bugs pose a unique set of challenges for software developers, o
  
 = About the Outlook issue
 :date: 2023-06-19
-:tags: venn  
+:tags: tag_venn
  
 About the Outlook issue, here is a new strategy for today: try to reproduce with the appointed version in the issue.
 
@@ -4517,7 +4517,7 @@ Info: Starting container service through service manager.
  
 = About the Outlook issue 2
 :date: 2023-06-20
-:tags: venn  
+:tags: tag_venn
  
 About the Outlook issue, here is a new strategy for today: try to reproduce with the appointed version in the issue.
 
@@ -4570,7 +4570,7 @@ Meanwhile the guys answered about my deadline. Alex Osipov confirmed that the is
  
 = About the Outlook issue 3
 :date: 2023-06-21
-:tags: venn  
+:tags: tag_venn
  
 ## Introduction
 
@@ -4731,7 +4731,7 @@ Either case I now have to do some research about how this part of Workplace work
  
 = How installation and update for the dev work?
 :date: 2023-06-22
-:tags: venn
+:tags: tag_venn
  
 Trying to figure out how installation and update for the dev work, mainly because the lastest version currently has some issues about loading or login, I saved [the thread](https://vennetians.slack.com/archives/CQJL2C4BF/p1686818603199649) where Ivan Sizov tell about the tool WorkplaceCopier.
 
@@ -4743,7 +4743,7 @@ However, now there is a [nonsigned installer for Workplace](https://downloads.os
  
 = How not to reproduce the bug
 :date: 2023-06-22
-:tags: venn
+:tags: tag_venn
 
 Setting up the same scenario in my VM I was able to avoid the eternal select profile situation. In order to do that was to create the second Outlook profile in SE and after that create the second profile outside SE. This way the default profile seems to be rightly selected.
 
@@ -4759,7 +4759,7 @@ Now I have the bug reproducible inside a VM. The next step must be to be able to
  
 = Meeting with Alex Sedunov and Mihail Moldovan
 :date: 2023-06-23
-:tags: venn unittest
+:tags: tag_venn tag_unittest
  
 Today I participated in a meeting with Alex Sedunov and Mihail Moldovan. Mihail was having some issues to perform registry automated tests and I am supposed to help him. The meeting was to show the project using python and the robot framework and the pipelines. There was a weird bug in the build where demo.exe stays hanged for 1 hour outputing a log.
 
@@ -4918,7 +4918,7 @@ After redoing the test with zeroed machine I made a second test of running chrom
  
 = Running registry tests locally
 :date: 2023-06-28
-:tags: venn unittest
+:tags: tag_venn tag_unittest
  
 Yesterday I achieved to run registry tests locally to observe what is going wrong with them. I got 3 failures, and some skips, but more to that later. 
 
@@ -4961,7 +4961,7 @@ I was thinking into analyzing one of them to see how it is working, but not sure
  
 = Running only one test
 :date: 2023-06-28
-:tags: venn unittest
+:tags: tag_venn tag_unittest
  
 Running only one test (R00001) with the intended user and getting the results I stuck on the same issue running the whole batch, that is when the test is trying to delete the registry key and the key does not exists. There is some logic in all the tests around the same key.
 
@@ -4977,7 +4977,7 @@ So the next step I going to work is to modify the first use case and adjust the 
  
 = Changing R00001 NO_RULES
 :date: 2023-06-29
-:tags: venn unittest
+:tags: tag_venn tag_unittest
  
 Today I changed with the first test described in Confluence ("R00001 NO_RULES - external agent reads inside registry value - enabled registry protection - should be denied") using an UUID as key, value and data. The test is passing locally. I replicate to R00002, but still have to solve some issues comparing strings. The behavior is working, though.
 
@@ -5010,7 +5010,7 @@ Generate Unique ID
  
 = Reproduce the issue in my VM Win11
 :date: 2023-06-30
-:tags: venn unittest
+:tags: tag_venn tag_unittest
  
 I was trying to reproduce the issue in my VM Win11 and took some hours. It seems that W4W somedays is slower than other days. Today was a slow one. I even made an memory/CPU upgrade to the VM :).
 
@@ -5028,7 +5028,7 @@ The version that I tested first in my VM is the same I am using in my real machi
  
 = VM reasonably reproducible
 :date: 2023-06-30
-:tags: venn unittest
+:tags: tag_venn tag_unittest
  
 In my VM is reasonably reproducible, even just closing the browser and opening the same 2MB PDF from Outlook inside SE over and over again, more than 50% of the time.
 
@@ -5040,7 +5040,7 @@ Still doing some tests, and I need to understand better the components related t
  
 = Finished the refactory
 :date: 2023-07-03
-:tags: venn unittest
+:tags: tag_venn tag_unittest
  
 Finished the refactory of the documented tests in Confluence. I added the tag confluence to those tests and ran them locally and manually in my VM. The following tests are broken and I don't know why:
 
@@ -5051,7 +5051,7 @@ Nevertheless, I commited and upload this branch. The next step is to check it ru
  
 = Reverted my changes
 :date: 2023-07-05
-:tags: venn unittest
+:tags: tag_venn tag_unittest
  
 I reverted my changes made in the refactory branch and created a PR just for documentation (no changes to main branch). Mihail made a new version using tags to identify registry changes that conflicts with my changes. Since that could solve the issue and he is much more experienced to this project I am declining my changes and focus on the broken tests, since now I understand the dynamics.
 
@@ -5059,7 +5059,7 @@ My next step will be to get the failed tests from last pipeline log and to run m
  
 = Deleting nonexistent registry key
 :date: 2023-07-06
-:tags: venn unittest
+:tags: tag_venn tag_unittest
  
 Detected two possible errors in R00001 and fixed it, what seems to fix R00002 as well.
 
@@ -5097,7 +5097,7 @@ Administrator CWindowsSystem32cmd.exe - powershell.txt
  
 = Daily with the Team
 :date: 2023-07-06
-:tags: venn unittest
+:tags: tag_venn tag_unittest
  
 Today was my first daily with the team. Philip organize the daily by filtering the tickets assigned to each member and asking for a status. My turn was the first and I had no status of any ticket assigned to me, since I was working with Mihail to solve the reg tests.
 
@@ -5177,7 +5177,7 @@ My next step in this discovery is to know from where Python is running demo in o
  
 = Call with Alex Sedunov and Mihail Moldovan
 :date: 2023-07-07
-:tags: venn unittest
+:tags: tag_venn tag_unittest
  
 After the call with Alex Sedunov and Mihail Moldovan I understood that my help to this issue is not related to the test implementation, but about the infrastructure of the test, such as if Demo.exe, containers and InternalAgent is running properly.
 
@@ -5194,7 +5194,7 @@ I believe the estimation for those tasks will be of about 2 days.
  
 = Found a crash dump for InternalAgent.exe
 :date: 2023-07-07
-:tags: venn unittest
+:tags: tag_venn tag_unittest
  
 Collected diagnostics from 2023-07-07 in WIN11-DLP and found a crash dump for InternalAgent.exe from 2023-06-21. The exception was related to pipe connection.
 
@@ -5244,7 +5244,7 @@ That was the only dump found in main pipeline. There was no diagnostics package 
  
 = Analyzing test logs from the registry pipeline
 :date: 2023-07-07
-:tags: venn unittest
+:tags: tag_venn tag_unittest
  
 My next step was download and analyze test logs from the registry pipeline to observe a pattern when Demo does not run properly.
 
@@ -5301,7 +5301,7 @@ However, before that, I am going to analyse the logs from my machine from the da
  
 = Incluir o usuário bradesco em todos os grupos
 :date: 2023-07-09
-:tags: scua
+:tags: tag_scua
  
 Comando para incluir o usuário bradesco em todos os grupos da Scua:
 
@@ -5313,7 +5313,7 @@ net localgroup NOME_DO_GRUPO bradesco /add
  
 = Past log analysis
 :date: 2023-07-11
-:tags: venn unittest
+:tags: tag_venn tag_unittest
 
 Analyse the logs from my machine from the day when "Workplace Container has been terminated during waiting for session confirmation".
 
@@ -5396,7 +5396,7 @@ I would also test for some time the InternalAgent version that logs when it is e
 
 = Mount the local pipeline
 :date: 2023-07-11
-:tags: venn unittest
+:tags: tag_venn tag_unittest
 
 My plan for today was to mount the local pipeline for the tests as near as possible to the real pipeline, and I believe I did. For that I needed to temporarilly break compatibility with the main pipeline, a small difference in the paths where the components are located.
 
@@ -5415,7 +5415,7 @@ TIL When https git credential expire in Windows it need to be updated on Windows
 
 = InternalAgent timeout happens around 10 minutes 
 :date: 2023-07-12
-:tags: venn unittest
+:tags: tag_venn tag_unittest
 
 In the tests today with the new InternalAgent.exe version the IPC timeout happens around 10 minutes after the first test (same batch). It is pretty easy to reproduce in the batch mode from the pipeline.
 
@@ -5477,7 +5477,7 @@ The next step I was trying to do was to replace the nuget assemblies from the IP
 
 = Guidra: What a decompiler!
 :date: 2023-07-13
-:tags: venn reversing
+:tags: tag_venn tag_reversing
 
 Today I got a lot of interesting information about reversing and debugging skills in this decade to Windows. First, Guidra: What a decompiler! Created by the NSA, it allows to decouple binaries in a much easy interface. And it is open source!
 
@@ -5486,7 +5486,7 @@ Second, the article of Adam Chester (from the blog XPN Sec) uses a Power Shell m
 
 = Traduz diretivas de acesso do cache e aplica
 :date: 2023-07-16
-:tags: scua
+:tags: tag_scua
 
 Aproveitei o mecanismo de tradução que já existe na ScuaGImp para importar para os bancos de dados para preencher a estrutura de diretivas e utilizei o mesmo caminho já usado para aplicar essas diretivas. Pelo log do componente que aplica diretivas é possível ver que elas foram sincronizadas no cache, traduzidas para a estrutura legada do CTree e aplicadas uma a uma.
 
@@ -5497,7 +5497,7 @@ A próxima tarefa é escarafunchar em como hoje são aplicadas as regras e bolar
 
 = Catching LPC messages
 :date: 2023-07-17
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 Trying to catch LPC messages in a Windows 11 VM I discovered that LPC is a thing of the past. Windows 7 and newer versions of the OS implement its sucessor, the ALPC (Advanced or Asynchronous LPC). The main difference from this implementation is its (obviously) asynchonicity. In WinDbg the `!lpc` command does not work anymore and should be replace by `!alpc` undocumented command, except the usage print when you just press the command.
 
@@ -5510,7 +5510,7 @@ Despite the main message detail of an ALPC messages MessageID there is a stack t
 
 = Troubleshooting session with Alexander Chermyanin
 :date: 2023-07-17
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 There was a troubleshooting session with Alexander Chermyanin. Everything starts with logging in with an AAD account and to know how apps outside SE access and control this account. The COM class responsible for that should be WebAccountProvider. A list of tools that could help us with COM reversing were provided:
 
@@ -5559,7 +5559,7 @@ TIL this command lists the credentials saved: `dsregcmd.exe /status`.
 
 = Showing Gabriel Teams abnormal signin
 :date: 2023-07-18
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 ## SE Teams
 
@@ -5630,7 +5630,7 @@ Got some links to read about:
 
 = We need to figure out how to containerize the PRT
 :date: 2023-07-19
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 In the words of Alex Osipov, "we need to figure out how to containerize the PRT that is stored in LSASS by AAD Broker / WAM server side COM objects so that we can isolate them away from the rest of the OS". It is still a very broad set of possibilities here.
 
@@ -5692,7 +5692,7 @@ PEB at 0000006aef214000
 
 = WWAHost is not always started
 :date: 2023-07-20
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 Yesterday I was doing some tests in kernel debugger about put global breakpoints and discover ALPC ports in live mode with no result. Today I found together with Gabriel that WWAHost is not always started when authenticating AAD. In my old Win10 1909 just AAD Broker started. We also find a ALPC between AAD Broker and LSASS. The WWAHost exists in the system, but the process is not created.
 
@@ -5745,7 +5745,7 @@ I believe the message exchange between AAD Broker Plugin and LSASS is the key to
 
 = Email and Accounts loading two DLLs
 :date: 2023-07-24
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 Observing using Process Monitor when the "Email and Accounts" section in `System.Settings` is populate was possible to surround the loading of two DLLs: `Windows.Internal.Management.dll` and `MicrosoftAccountTokenProvider.dll`. After `MicrosoftAccountTokenProvider.dll`  the account is already in settings; before `Windows.Internal.Management.dll` there is no account listed.
 
@@ -5761,7 +5761,7 @@ Microsoft.AAD.BrokerPlugin.exe.PML
 
 = Stack of registry events around the token acquisition
 :date: 2023-07-24
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 Looking into the stack of registry events around the token acquisition it was possible to list the following key functions by symbol: `CINetEdge::GetAadSingleSignOnLoginUrls`, `AddAccountProvisionDeviceTask::RequestPRT`, `AggregatedTokenRequest::AcquireToken`, `AddAccountTokenRequest::OnStateChanged` and the already quoted in comments before `ClientCache::SavePRT`.
 
@@ -5820,7 +5820,7 @@ The next step is to gather some structure or variable naming around those functi
 
 = SSPI investigation
 :date: 2023-07-25
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 The next step defined yesterday was to gather some structure or variable naming around those functions and with this update Confluence with the news. However, Phillip Pristuba in the daily gave a tip about the use of [SSPI](https://learn.microsoft.com/en-us/windows-server/security/windows-authentication/security-support-provider-interface-architecture) (Security Support Provider Interface), the set of functions implemented by Security Support Providers in Windows. Everything uses those guys for identification and authentication. So it was worth the shot.
 
@@ -5906,7 +5906,7 @@ I believe I will take about one day for each task (perhaps two for fourth task).
 
 = Interfaces used in AAD Broker during account registration
 :date: 2023-07-26
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 =# TL;DR
 
@@ -5992,7 +5992,7 @@ I traced the instantiation of those classes and found in the ProcMon logs captur
 
 = Debug AAD Broker failed
 :date: 2023-07-27
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 =# TL;DR
 
@@ -6057,7 +6057,7 @@ One more to go:
 
 = I observed a week ago
 :date: 2023-07-28
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 I observed a week ago:
 
@@ -6071,7 +6071,7 @@ Gabriel has found a very interesting API, too: [NetGetAadJoinInformation](https:
 
 = Debug and document investigated components
 :date: 2023-07-28
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 =# Next step
 
@@ -6164,7 +6164,7 @@ SspiCli!LsaCallAuthenticationPackage:
 
 = Before LsaCallAuthenticationPackage
 :date: 2023-07-29
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 ## PPS
 
@@ -6172,7 +6172,7 @@ Before calling LsaCallAuthenticationPackage the AAD account is already registere
 
 = Diretivas, restart do explorer e token do usuário
 :date: 2023-07-29
-:tags: scua
+:tags: tag_scua
 
 Corrige aplicação de diretivas.
 
@@ -6188,7 +6188,7 @@ A partir daqui o módulo de enumeração de processos também os cria, e por iss
 
 = LsaCallAuthenticationPackage is called by AAD Broker
 :date: 2023-07-31
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 ## TL;DR
 
@@ -6494,7 +6494,7 @@ SspiCli!LsaLookupAuthenticationPackage:
 
 = Trying to use Fiddler
 :date: 2023-07-31
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 Following the advice from Alexander Chermyanin, I tried to use Fiddler to capture HTTPS traffic and discover the receiving packet(s) from AAD service, but when it is enabled Teams refuse to continue authentication, giving an error. AAD Broker plugin receives similar error.
 
@@ -6506,7 +6506,7 @@ Now I am trying to use WireShark with SSLKEYLOGFILE to capture master keys and a
 
 = What do we know about AAD Broker (Teams login)
 :date: 2023-08-01
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 Summary of lastest research:
 
@@ -6525,7 +6525,7 @@ How to avoid registering in the system (in code, not using BlockAADWorkplaceJoin
 
 = Bypass some exceptions
 :date: 2023-08-01
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 About Fiddler and Wireshark monitoring, both of them are not a viable option.
 
@@ -6553,7 +6553,7 @@ IRpcSyntaxNegotiate
 
 = Walking down IUserDeviceRegManagerStatics
 :date: 2023-08-02
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 Today I was walking down the `IUserDeviceRegManagerStatics` interface to understand WinRT activation and discover the real implementation. There is a registry entry for it in `HKEY_CLASSES_ROOT\Interface\{b5decd05-58ef-4cd3-ae25-d177bcbcea9e}` where there is a subkey `ProxyStubClsid32`. This subkey, accordingly with [MSDN](https://learn.microsoft.com/en-us/windows/win32/com/proxystubclsid32), is used as a translation between an IID to a CLSID ("Maps an IID to a CLSID in 32-bit proxy DLLs").
 
@@ -6700,7 +6700,7 @@ Based on the output from WinDbg I was able to trace a sequence diagram between t
 
 = Summary of discoveries and tasks
 :date: 2023-08-03
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
  - BrokerPlugin calls calls Lsa package "CloudAP" after PRT is already in the system.
  - BlockAADWorkplaceJoin policy is a viable part of the solution of isolate credentials.
@@ -6754,7 +6754,7 @@ Reading about PRT while updating Windows to make new tests and compare with prev
 
 = Installed Windows 22H2
 :date: 2023-08-07
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 Installed Windows 22H2 and starting same tests in the new environment. Output of `dsregcmd.exe /status` is more detailed. Bellow the pre join:
 
@@ -7167,7 +7167,7 @@ Based on these tests I think we are looking for is not a Primary Refresh Token i
 
 = New direction from Alex Osipov
 :date: 2023-08-08
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 There is a new direction (from Alex Osipov), more shortcut oriented. Since to put AADBroker inside SE will be a long term task and we are looking for a shortcut in the meanwhile I will be focusing as next task in trying to detect the AADBroker calling process so we have a way to set or unset the BlockAADWorkplaceJoin policy (once we are injected in AADBroker) to avoid system wide account registration. Proof of concept mode on.
 
@@ -7300,7 +7300,7 @@ Stack trace of `svchost.exe` in `"C:\Windows\SystemApps\Microsoft.AAD.BrokerPlug
 
 = Who is calling AADBroker
 :date: 2023-08-08
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 Today I started to investigate if it is possible to know who is calling AADBroker to know if to enable or disable the BlockAADWorkplaceJoin policy.
 
@@ -7377,7 +7377,7 @@ The next step in this task is to debug session with static analysis and discover
 
 = Web Provider service discoveries
 :date: 2023-08-09
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 The next step in this task was to debug session with static analysis and discover what interfaces and methods are called in the moment Teams decide to start Web Provider service.
 
@@ -7615,7 +7615,7 @@ I believe this DLL should be a Authentication Package and the `GetLsaFunctions` 
 
 = Found a DLL into Web Account Manager service
 :date: 2023-08-10
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 Found a DLL into Web Account Manager service that should be a Authentication Package and the `GetLsaFunctions` is called just before AADBroker is started. My next step for today was to look up into this function disasm.
 
@@ -7752,7 +7752,7 @@ I believe the key communication between Teams/Windows_Security_Authentication_We
 
 = Created a procmon log from WAM service
 :date: 2023-08-11
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 I created a procmon log from WAM service (the svchost.exe responsible) while starting and typing email account from Teams app. Separate some key events and got this function list from `tokenbroker.dll`:
 
@@ -7846,7 +7846,7 @@ Interesting. After click the Start button on Teams first Window the svchost.exe 
 
 = Get interfaces called from Teams
 :date: 2023-08-12
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 Today I am going to get interfaces called from Teams when activating WAM classes.
 
@@ -7907,13 +7907,13 @@ Found some references to RoGetActivationFactory in WinRT protection. The next st
 
 = Source code reading
 :date: 2023-08-14
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 Today was source code reading. I am pretty sure the class I need to use to test the concept is WinRtProtection. I would need to add to the method [InitializeClasses](https://tfs.os33.net/DefaultCollection/Portal/_git/Workplace.Container.Windows?path=%2FWorkplace.Container.Hook%2FWorkplace.Container.Hook.Lib%2FWinRtProtection.cpp&version=GBmaster&line=385&lineEnd=386&lineStartColumn=1&lineEndColumn=1&lineStyle=plain&_a=contents) the class `Windows.Internal.Security.Authentication.Web.WamProviderRegistration`, but it happens to be the first class in the hard coded list, what should means that the protection was already implemented, but must be disabled for some reason.
 
 = A quick solution 
 :date: 2023-08-16
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 After meeting with Alexander Chermyanin we decided to create a quick solution based on client side logic only without dll injection and hooks (what would be, just for reference, [this code](https://tfs.os33.net/DefaultCollection/Portal/_git/Workplace.Container.Windows/commit/ba24c54cd12097d4642f83b86402ed4c909796a0?refName=refs%2Fheads%2Fspike%2Fuwp-launcher)).
 
@@ -8298,7 +8298,7 @@ todo:
 
 = Tests with Office and WAM disabled failed
 :date: 2023-08-17
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 Tested with Office outside SE (same test used for Teams).
 
@@ -8336,7 +8336,7 @@ I was beginning this analysis by debugging sessions, but now I am starting to lo
 
 = More verbose logs in com proxy
 :date: 2023-08-18
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 Since Gabriel is going to prove the BlockAADWorkplaceJoin policy during container session and I am responsible for analyze Office app vs AAD Broker communication, today I put some more verbose logs in com proxy invoke functions and understand the calling between components (who calls who).
 
@@ -8525,7 +8525,7 @@ CWebTokenRequestResult
 
 = WMI protection branch
 :date: 2023-08-21
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 In order to play in client side with COM proxy first, following Chermyanin tip, I read [WMI protection branch](https://tfs.os33.net/DefaultCollection/Portal/_git/Workplace.Container.Windows/?version=GBROADMAP-67592-e-spike-filter-some-wmi-calls-that-allow-sandbox-escape) to have some ideas if AAD Broker process is started using some WMI class. Reading the description from [ROADMAP-67592](https://os33corp.atlassian.net/browse/ROADMAP-67592) there is a link about [running remote processes using WMI](https://learn.microsoft.com/en-us/windows/win32/wmisdk/creating-processes-remotely). Despite documentation says this can't created interactive remote processes the sample command (tested locally) `wmic process call create "C:\windows\notepad.exe","C:\windows"` worked, running notepad in user account inside session 1.
 
@@ -8545,7 +8545,7 @@ I was very interested into testing this branch, I saw the code was changed in th
 
 = Analysis of ComInvoke (again)
 :date: 2023-08-22
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 Today I got back to the previous analysis of ComInvoke to get some context in `winword.exe` calls, but this is a slow process. I got some useful stacks to change some parameters, but I think that to change those parameters I need before to know the marshalling process involved.
 
@@ -8799,7 +8799,7 @@ struct HSTRING {
 
 = ABI for the public classes
 :date: 2023-08-23
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 Before I analyzed the stack from internal classes I study a while about winrt and searched for the ABI for the public classes, in other words, those that are not in the internal namespace. From the related are two: 
 
@@ -8845,7 +8845,7 @@ Since it is not possible to look into the invokes inside SE I think the next ste
 
 = Example of web account management
 :date: 2023-08-24
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 Found [an example](https://github.com/microsoft/Windows-universal-samples/tree/main/Samples/WebAccountManagement) of web account management using Microsoft Account and Azure AD account. This example use the classes winword is using to signin WebAuthenticationCoreManager and WebTokenRequest.
 
@@ -8856,7 +8856,7 @@ Some parameters are still vague and undocumented completely, like the WebTokenRe
 
 = Acquired an AAD token successfully
 :date: 2023-08-28
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 Acquired an AAD token successfully using the sample WebAccountManagement in [Windows-universal-samples repo](https://github.com/microsoft/Windows-universal-samples/tree/main/Samples/WebAccountManagement).
 
@@ -8891,7 +8891,7 @@ Probably there is no need to manage the token, since it will became available on
 
 = WAMExample
 :date: 2023-08-30
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 The [WAMExample](https://tfs.os33.net/DefaultCollection/Portal/_git/Workplace.Container.Windows?path=%2FSpikes%2FWAMExample%2FWAMExample%2FWAMExample%2FProgram.cs&version=GBmaster&line=47&lineEnd=47&lineStartColumn=94&lineEndColumn=129&lineStyle=plain&_a=contents) project call the method `WebAuthenticationCoreManager.FindAllAccountsAsync` and for each found account it calls the method `WebAuthenticationCoreManagerInterop.GetTokenSilentlyWithWebAccountAsync`.
 
@@ -8933,7 +8933,7 @@ I am still studying the other scenarios from the example, though. Should have mo
 
 = The infamous "Stay signed in to all your apps"
 :date: 2023-08-30
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 Could configure into my trial AAD to signin with a local account and with dlp account (external invited) and in both ways the infamous window "Stay signed in to all your apps" appeared.
 
@@ -8951,7 +8951,7 @@ Configured into my trial AAD to signin with a local account and with the dlp acc
 
 = AAD Broker is being spawned from inside or ouside SE
 :date: 2023-08-31
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 In order to detect if AAD Broker is being spawned from inside or ouside SE I started to study calls and assembly from `WebAuthenticationCoreManager.RequestTokenAsync`. Found a `WebTokenRequsetResultOperationParams` (look at the stack bellow) that could have some relevant information. However, simply the `RequestTokenAsync` call would be a trigger good enough to start, being the only caveat the crash that occurs if we try to hook this interface inside SE. Could look at that as the next step:
 
@@ -8977,7 +8977,7 @@ Windows::Internal::MakeStagedAsyncOperation<Windows::Internal::CMarshaledInterfa
 
 = How the Universal Windows Platform relates to Windows Runtime APIs
 :date: 2023-09-01
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 Only in the initial tests to run the UWP sample app I observed it is started by `svchost.exe` and not by explorer or cmd. So I realized that to be able to run a program with a `CoreWindow` and avoid the previous error from WAMExample (about Resource Contexts) I would need to make a new sample based on UWP and being started inside SE.
 
@@ -9007,7 +9007,7 @@ I [Check for installed versions of the Windows App SDK runtime](https://learn.mi
 
 = Crash on Windows.Security.Authentication.Web.Core.WebAuthenticationCoreManager
 :date: 2023-09-04
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 After tried for some time to update and reinstall the Windows App SDK to run an unpackaged version from a sample app I decided to take a step back and analyze why office apps and teams are crashing when hooking the [Windows.Security.Authentication.Web.Core.WebAuthenticationCoreManager](https://learn.microsoft.com/en-us/uwp/api/windows.security.authentication.web.core) class, since I am not sure if we need a clean sample of activating WebAuthenticationCoreManager, but I know it would be useful to fix the crash if we'd need to hook it.
 
@@ -9048,7 +9048,7 @@ That is the first difference that I must focus on as the next step.
 
 = UWP no Windows Internals
 :date: 2023-09-05
-:tags: books windows_internals
+:tags: tag_books tag_windows_internals
 
 Algumas anotações sobre UWP no Windows Internals; estou tentando entender melhor a coisa para nas sessões de debugging fazer mais sentido.
 
@@ -9112,7 +9112,7 @@ The fact json and uri classes are not being activated in Teams and Winword can i
 
 = LaunchWinRTRunAsServer references
 :date: 2023-09-06
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 Looking for "_LaunchWinRTRunAsServer" references on the web I found [this unexpected analysis](https://github.com/bl4me/token/wiki/1.-AAD-token) of AAD Broker refresh token requests from office apps, including session and PRT info. Going to reproduce this analysis and try to continue it.
 
@@ -9146,7 +9146,7 @@ However, the request didn't come from BackgroundHost or AAD Broker, but the brow
 
 = Funcionamento interno do UWP
 :date: 2023-09-07
-:tags: books windows_internals
+:tags: tag_books tag_windows_internals
 
 Andei lendo sobre o funcionamento interno do UWP, o que está servindo para finalmente as coisas fazerem sentido. Seguem mais anotações, incluindo sobre alguns testes bacanas de ter em mente no WinDbg.
 
@@ -9269,7 +9269,7 @@ However, since we are more focused in the first login and acquire of token, I re
 
 = Where is the token from AAD Broker is going to
 :date: 2023-09-11
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 In the last debugging session I started to look for where is the token from AAD Broker is going to. AAD Broker is responsible for the authorization_code request and receives an access_token as response from login.microsoftonline.com. The same access_token can be found being copied in Windows::Internal::Security::Authentication::TokenBroker::SerializeWebTokenResponsesWithStatus.
 
@@ -9365,7 +9365,7 @@ To continue.
 
 = Had a call with Chermyanin for next steps in AAD Broker spike
 :date: 2023-09-12
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 AADBroker
 	protect auth to our web portal (venn.com):
@@ -9396,7 +9396,7 @@ system client -> AAD broker (thread 2)
 
 = Could solve the WDK issue
 :date: 2023-09-13
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 Could solve the WDK issue following the steps in [Other WDK Downloads] page. Tried to build everything on VS2019, but there is no way in current project because .NET SDK 7.0 requires a newer MSBuild than the available in 2019.
 
@@ -9411,7 +9411,7 @@ Solved VS2019 issue (using Community, after that solved for Pro), build and comp
 
 = Crash in AADBroker and BackgroundTaskHost (continue)
 :date: 2023-09-14
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 ## TL;DR
 
@@ -9481,7 +9481,7 @@ To continue.
 
 = Crash in AADBroker and BackgroundTaskHost
 :date: 2023-09-15
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 Discovered that the crash occurs when `WebProxyEnabled=false` and `AadWebProxyEnabled=true`. It should work with the code bellow, but I dunno if that makes sense, since proxy hooks won't be installed and the proxy won't work (the DLL will be injected, though).
 
@@ -9532,7 +9532,7 @@ Implemented set BlockAADWorkplaceJoin policy as 1 inside AAD Broker app. Created
 
 = Investigated DCOMLaunch RPC endpoint
 :date: 2023-09-18
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 Investigated DCOMLaunch RPC endpoint `_LaunchWinRTRunAsServer`. It is present in interface `9b8699ae-0e44-47b1-8e7f-86a461d7ecdc` in `rpcss.dll`, as checked in [some published RPC interfaces] and RpcView. Analyzed asm code trying to get some context from `ACTIVATION_PARAMS` (pseudo type). Dedicated some time into analysing the token received.
 
@@ -9569,7 +9569,7 @@ So this manipulation could not be a good way to mark an AADBroker instance activ
 
 = Using COM proxy to get details about AAD Broker
 :date: 2023-09-19
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 Using COM proxy to get details about AAD Broker being activated and perhaps some context like client PID or the ALPC port from COM server.
 
@@ -9586,7 +9586,7 @@ Unfortunately there was a drawback: the interface being unmarshalled (WamProvide
 
 = Tried to inject DLL into WAM service using AAD Broker
 :date: 2023-09-20
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 Tried to inject DLL into WAM service using AAD Broker strategy, but it is not possible just put this process into the list because it needs to belong to the same session from the container. So I used WinDbg sessions for at least to know the sequential order of classes being activated via `RoGetActivationFactory` call.
 
@@ -9654,7 +9654,7 @@ In order to know in what processes those classes are being activated I was using
 
 = I stopped the WAM service and use the Web Account Sample
 :date: 2023-09-21
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 I stopped the WAM service and use the Web Account Sample that have a button to show the login window from AAD Broker. The function called in the sample is `WebAuthenticationCoreManager.RequestTokenAsync(webTokenRequest)` that returns a `WebTokenRequestResult`. When activating the Windows.Internal.Security.Authentication.Web.WamProviderRegistration class the WAM service is started again.
 
@@ -9671,7 +9671,7 @@ So this class is activated into WAM service (at least). I am going to get calls 
 
 = The parameters to start AAD Broker are always the same
 :date: 2023-09-22
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 The parameters to start AAD Broker are always the same, even calling from WAM sample and Teams, and even restarting WAM service and restarting the computer.
 
@@ -9713,7 +9713,7 @@ Lendo mais um pouquinho de Windows Internals. Agora sobre segurança.
 
 = Mais leituras do Windows Internals.
 :date: 2023-09-23
-:tags: books windows_internals
+:tags: tag_books tag_windows_internals
 
 Dessa vez focando no ALPC.
 
@@ -9736,7 +9736,7 @@ Dessa vez focando no ALPC.
 
 = Discover what COM method invocation starts AAD Broker manifestation
 :date: 2023-09-25
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 Discovered what call from `ComProxyIpcClient::ComInvoke` starts activation of AAD Broker, or at least after that call is made the process starts. In `Windows.Security.Authentication.Web.Core.dll` a call from `Windows::Security::Authentication::Web::Core::CWebTokenRequestResultOperation::TryUi` uses `Windows::Internal::Security::Authentication::Web::TokenBrokerInternal`. From the proxy interface is requested the procnum 36.
 
@@ -9834,7 +9834,7 @@ https://support.os33.link/v/aU1H9T
 
 = Investigate how login hint is passed to AAD Broker
 :date: 2023-09-26
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 The easy part was to get the RPC call made by Teams (any office app should work as well). Using the method `IRpcChannelBufferComProxy::SendReceive` it was detected the login hint being passed in the call to Proc36 as mentioned in comments before this.
 
@@ -9917,7 +9917,7 @@ There were another RPC calls where login hint appears -- such as `AAD_Core!GetTo
 
 = Discover where to hook AAD Broker to capture modified login hint
 :date: 2023-09-27
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 ```
 bp combase!NdrExtpProxySendReceive "db poi(poi(@rdx)+10) L300 ; k 10"
@@ -10247,7 +10247,7 @@ Tried to change login hint in AAD Broker at RPC call point, but a copy was alrea
 
 = Where the original login hint (or client id) arrives into AAD Broker (to continue)
 :date: 2023-09-28
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 Discovered that BackgroundTaskHost is first receiving login hint along with the other information about token acquire. It outputs to the debugger the information bellow and it is the first process into the app container to be started (before AAD Broker is created). Please note that this is a sample before entering login hint. After that another BackgroundTaskHost process is initiated with login hint, client id, etc, filled.
 
@@ -10336,7 +10336,7 @@ Mais anotações de Windows Internals:
 
 = Where the original login hint (continue)
 :date: 2023-09-29
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 ```
 bm Windows_Security_Authentication_Web_Core!*TrySilent
@@ -11056,7 +11056,7 @@ TL;DR Discovered BackgroundTaskHost receives an instance of IBackgroundTask (pro
 
 = New strategy: use Client ID from AAD Broker (COM hook)
 :date: 2023-10-02
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 Abandoned the idea of scan IBackgroundTask because was discovered that we can hook creation of [WebProviderTokenRequest] inside AAD Broker and use its property `ClientId` to identify clients inside SE. Going to work in a POC using that.
 
@@ -11125,7 +11125,7 @@ bp Windows_Security_Authentication_Web_Core!Windows::Security::Authentication::W
 
 = Get client id inside AAD Broker
 :date: 2023-10-04
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 ### Plan A: Instanciate WebProviderTokenRequest proxied
 
@@ -11158,7 +11158,7 @@ TL;DR Plan A: Created a ComProtection class with only WebProviderTokenRequest in
 
 = Copy the solution from ToastNotification
 :date: 2023-10-05
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 ```
 sxe ld:workplacehook64.dll
@@ -11183,7 +11183,7 @@ TL;DR Work to copy the solution from ToastNotification about `WebProviderTokenRe
 
 = Trying to get client id from unmarshal interfaces from AAD Broker
 :date: 2023-10-06
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 Recap from last try. The solution from ToastNotification uses winrt lib, but `WebProviderTokenRequest` uses RPC proxy with marshaling (because this is a remote instance?). But what if I could use the same vtable hook strategy to get and deliver the interfaces I need?
 
@@ -11228,7 +11228,7 @@ TL;DR2 I thought I was getting there putting a small COM hook (AAD Broker) to ge
 
 = Fixed a error related to StreamWP class
 :date: 2023-10-09
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 Fixed a error related to StreamWP class (the IStream mock replaced by original in proxy hook) where the bytes read is bigger than the first read, but still getting some stream errors. Investigating why.
 
@@ -11237,7 +11237,7 @@ I am reverting the StreamWP replacement (didn't work) and the protection install
 
 = Troubleshotting session and... at last got ClientId!
 :date: 2023-10-10
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 Here is a smart snippet to print some hex buffer (already available in my issue comments):
 
@@ -11293,7 +11293,7 @@ TL;DR Worked into the CoUnmarshalInterface to get from IStream the real IID insi
 
 = Getting (and setting) properties in WebTokenRequest
 :date: 2023-10-13
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 Since modifying the client id seems not so feasible, but we got now a WebTokenRequest to play with in AAD Broker I was trying to change the properties field to see if it is easy enough. And after sweating a little bit to make this work into WorkplaceHook.dll (because there is no doc about to link native with HSTRING API) I was able to query a key and insert a new one. As a proof AAD Broker itself prints the "Workplace" key I inserted during the unmarshaling to the debugger output:
 
@@ -11317,7 +11317,7 @@ TL;DR Could find the LoginHint inside WebTokenRequest.Properties and to insert a
 
 = Insert Workplace flag in client app as a WebTokenRequest property
 :date: 2023-10-16
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 When running inside SE inside the WebTokenRequest object will be inserted [a property] with key "Workplace" (value "true"), what will be delivered to AAD Broker during signin. This way we can know if the client app is running inside or outside SE at the moment of unmarshaling this interface.
 
@@ -11366,7 +11366,7 @@ TL;DR Insert Workplace flag in client app (Teams) as a WebTokenRequest property 
 
 = Add postfix into account being added in AAD Broker
 :date: 2023-10-17
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 First I cleaned the spike to remove unused and test code and implemented the WorkplaceId idea from Chermyanin with a fixed GUID. These two lines in log indicate the client app is running inside SE or outside.
 
@@ -11405,7 +11405,7 @@ TL;DR Added fixed GUID in WorkplaceId property to WebTokenRequest to identify AA
 
 = Installing proxy hook to WebAccountManager and changing user id (some issues to solve yet)
 :date: 2023-10-18
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 I implemented proxies for every interface implemented by WebAccountManager. However, when testing I realized AAD Broker acquires IWebAccountMapManagerStatics (responsible for saving the account per app) using `combase!IUnknown_QueryInterface_Proxy` after querying for IUnknown inside some other WebAccountManager (IWebAccountManagerStatics).
 
@@ -11454,7 +11454,7 @@ TL;DR Implemented proxy to all WebAccountManager interfaces, adapted to IUnknown
 
 = Integrating filtering + context branches
 :date: 2023-10-19
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 The Oleh's solution to hook WebAccountManager worked until the `IWebAccountMapManagerStatics::AddWebAccountWithScopeAndMapAsync` call (starting Teams normally), so I merged both branches to mine and added the WebAccountId or UserName change implementation inside it.
 
@@ -12649,7 +12649,7 @@ TL;DR Integrated filtering + context branches. Still using WinRT for WebTokenReq
 
 = Trying to discovery more about setting and getting properties persisted from a WebAccount.
 :date: 2023-10-20
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 Merged with ROADMAP-69311 (the IAsyncOperations part) and investigated which methods are called post signin from Microsoft Teams. Identify that the same instance of BackgroundTaskHost is used to get token for [two different clients]:
 
@@ -12742,14 +12742,14 @@ TL;DR Trying to persist WorkplaceId (inside SE flag) in our storage to avoid mod
 
 = Register WebAccount id and find all web accounts in Container (WIP)
 :date: 2023-10-25
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 Made the request/response part for new Ipc methods and inserted into the unmarshal process in AAD Broker. Now for the next part need to change the Id type from AadWebAccount from Guid to string (a WebAccount id example is "bSnuZWC1LkEXxo0XPiYv2yo7ZgzbySy0DvlmP79qC-w") and change from in the Container from current memory list to write to registry with id as a value (to be unique) and the data as the inside or outside SE flag (WorkplaceId or empty?).
 
 
 = Keep a map of WebAccounts indexed by... correlation id?
 :date: 2023-10-26
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 It seems that this information is available during the whole signin process. At least in the first one. Since AAD Broker is only started to make a login and we pass the WorkplaceId into WebTokenRequest that is unmarshaled the only other info at this moment is the ids of the process, since there is no login yet.
 
@@ -12760,7 +12760,7 @@ Also we can't use LoginHint because that could change during the login.
 
 = Still find a index to map WebAccounts in CoUnMarshalInterface hook
 :date: 2023-11-04
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 Still trying to find a index to map WebAccounts in CoUnMarshalInterface hook. My next test would be to use TLS or something but need to know if unmarshal from WebTokenRequest and AAD window are in the same thread. However, I am getting some issues to run lastest version (compilation broken around AadWebAccountService, AadWebAccountInfo not available). Bellow the state of branches/commits:
 
@@ -12838,7 +12838,7 @@ Tried merge with this branch and master with no better results. With master ther
 
 = Teams working again and reinstalling WinRt WebTokenRequest hook (temporary)
 :date: 2023-11-06
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 After the branch from ROADMAP-69311 was merged to this I recompiled and Teams is working again. However, as pointed out in previous comments, the COM proxy hook for some reason does not change WebTokenRequest properties to insert SE mark. I put back the WinRT solution again just for test and for comparison. The new IsSERequest function returns true when WinRT inserts the hook for WebTokenRequest.
 
@@ -12853,7 +12853,7 @@ I believed the error was because I was using the same account in two different c
 
 = Scanning AAD unmarshal after signin
 :date: 2023-11-08
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 Got the listing for AAD Broker direct CoUnMarshalInterface calls in three phases: 1) since beginning of our hook, 2) after typed password and enter, 3) after press some button in the stay signin window.
 
@@ -12929,7 +12929,7 @@ f84b2c99-2f3d-5877-bf78-4f40f6bd25c0
 
 = Receiving help from Anton Kukoba
 :date: 2023-11-09
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 Today Anton Kukoba sent me DM to help me about what I was doing. I gave the briefing about the mark SE idea and he told me about discovering some settings from TokenBroker. I gave him the stack trace from the key moments in AAD Broker signin and started again to investigate the storage how was found previously.
 
@@ -13022,7 +13022,7 @@ Perhaps the answer of where is the original storage could be from discovering wh
 
 = Observing behavior when Teams populate TokenBroker cache
 :date: 2023-11-10
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 Deleting the entire folder C:\Users\Administrator\AppData\Local\Packages\AAD_version, C:\Users\Administrator\AppData\Local\Microsoft\TokenBroker\Cache file and restart the computer, Teams started logged in normally. However, after some time, Teams ask to enter some email/password again (via AAD). What is odd is that you can close this window and Teams remains logged in.
 
@@ -13172,7 +13172,7 @@ CWebTokenRequestResultOperation::RecordResultAndCallerIdentity:
 
 = Cache files data analysis and TokenBroker communication
 :date: 2023-11-13
-:tags: venn reversing 
+:tags: tag_venn tag_reversing
 
 Analysing a few days after in a signed in environment (Teams) now every time I open Teams it exibits the login window with the DLP authentication page. If I close the window Teams exits with the same error as in the first signin. Nevertheless, it generates a single file into TokenBroker cache. Sounds like it is in the signed in state for DLP user, but token expired.
 
@@ -13247,7 +13247,7 @@ However, there are too much subcalls to analyze yet. Seems as if the cache is in
 
 = Fix creation of WebAccounts into registry for "HKLM".
 :date: 2023-11-14
-:tags: venn 
+:tags: tag_venn
 
 After the standup meeting today my next task was to fix the situation where the web accounts can't be recorded into HKLM registry key. Analysing the issue into the Api I realized by the name of subkeys involved inside a container session that the webaccounts for a specific session should reside into the KKEY_USERS hive and inside where should be a per user (and per session) subkey, with the User suffix. Each user (and session) must keep a record of which webaccounts were registered inside Workplace.
 
@@ -13256,7 +13256,7 @@ img/webaccounts_registered_by_container.png
 
 = Removed unused code and treat Sonar warnings
 :date: 2023-11-15
-:tags: venn 
+:tags: tag_venn
 
 Fixed the [PR from ROADMAP-69311] about the AadBrokerMonitor class and some minor as log level and sonar warnings. Merged directly to the PR branch.
 
@@ -13265,7 +13265,7 @@ Fixed the [PR from ROADMAP-69311] about the AadBrokerMonitor class and some mino
 
 # How to debug Microsoft.AAD.BrokerPlugin.exe
 :date: 2023-11-16
-:tags: venn 
+:tags: tag_venn
 
 Copy the Debugging Tools folder where is windbg.exe located.
 
@@ -13288,7 +13288,7 @@ Prepare to debug all processes in this same package: BackgroundTaskHost.exe, Mic
 
 = Documenting AAD internals
 :date: 2023-11-17
-:tags: venn 
+:tags: tag_venn
 
 In order to give some structure to the tons of comments in this issue and to enable parallel efforts without rework we need to document and specify some required fields in this long process discovery, such as:
 
@@ -13457,7 +13457,7 @@ End of July investigation.
 
 = Documenting AAD internals - Part 2
 :date: 2023-11-19
-:tags: venn 
+:tags: tag_venn
 
 Statement: Excel and Work relie on registry keys to keep cache from accounts in several subkeys in HKCU and in file system in AppData (all listed on comments in the spike issue). If we delete those entries the account list changes, but eventually the cache is reconstructed somehow.
 Evidence: Delete some account from aforementioned subkeys and observe the accounts lists in Excel and Word.
@@ -13511,7 +13511,7 @@ End of September 22 investigation.
 
 = Documenting AAD internals - Part 3
 :date: 2023-11-20
-:tags: venn 
+:tags: tag_venn
 
 Statement: WamProviderRegistration is activated by WAM (TokenBroker svc).
 Evidence: TokenBroker is started again when activating this class.
@@ -13542,7 +13542,7 @@ End of November 15 comments.
 
 = Organizing discoveries in multiformat content
 :date: 2023-11-21
-:tags: venn 
+:tags: tag_venn
 
 After listed all discoveries based on all comments in this issue I started to group related topics, where I ended with some main sections: AAD.BrokerPlugin, Cache, Discoveries (the WIP part), APIs and internal code, WWAHost and TokenBroker.
 
@@ -13553,7 +13553,7 @@ This is still a WIP since we don't know yet much about Credential Manager and a 
 
 = AVAST antivirus restricting MS license activation inside Secure Enclave
 :date: 2023-11-22
-:tags: venn 
+:tags: tag_venn
 
 ## Trying to reproduce (and failing)
 
@@ -13562,7 +13562,7 @@ Tested in Windows 10 and Windows 11 (both Pro and 64) with Demo and with lastest
 
 = Add to account-id storage OneAuth files from redirected AppData
 :date: 2023-11-23
-:tags: venn 
+:tags: tag_venn
 
 Using `\AppData\Local\Microsoft\OneAuth\accounts` to populate WebAccounts before starting Container. Into the json there is a field "additional_properties" that contains two fields with the WebAccountId: "sub" and "wam_account_ids" where we can get the WebAccountId used to filter accounts.
 
@@ -13571,7 +13571,7 @@ When signed in outside SE and signin again inside SE the `WebAccountManager::Add
 
 = SE Outlook crash
 :date: 2023-11-24
-:tags: venn 
+:tags: tag_venn
 
 Read some logs; found outlook using IWamProviderRegistrationInformation (not that is relevant). This was among messages from failed to send or process badge messages. This error message appeared from several processes (outlook.exe, chrome.exe, slack.exe, msedgewebview2.exe, zoom.exe).
 
@@ -13584,7 +13584,7 @@ Analyzing the dump does not seem related to this issue, but it is easly reproduc
 
 = Fixing issues in my PR (storage-id and OneAuth)
 :date: 2023-11-24
-:tags: venn 
+:tags: tag_venn
 
 Fixed/improved some points in code commented by Oleh, Chermyanin and Sonar. The code passed, but now I am going to make some tests about state of storage-id versus OneAuth.
 
@@ -13593,13 +13593,13 @@ To test the case to be solve by this fix login into an account inside SE with WA
 
 = Finished the PR for OneAuth files
 :date: 2023-11-27
-:tags: venn 
+:tags: tag_venn
 
 I was unable to reproduce the failure about lost signed in account inside SE. Odd. However, since the PR was approved I am merging it anyway.
 
 = SE ~~Outlook~~ Word crash
 :date: 2023-11-27
-:tags: venn 
+:tags: tag_venn
 
 This is reproducible in Demo now. Just need to lock session and wait for some minutes. I suspected that the Sleep/Resume is the key, so it is not the same as the OP. Going to debug Word.
 
@@ -13659,7 +13659,7 @@ Besides this comment there are some steps to follow here:
 :draft:
 :link: https://www.os33dev.com/Home/System/ConfigForm.aspx?_id=4817965d-3624-46b8-b90e-c0f04a664469&_c=1&_i=0&_flock=False
 :link: https://os33corp.atlassian.net/wiki/spaces/DTDLP/pages/2355134798/WORKPLACE+CONTAINER+CONFIG
-:tags: venn
+:tags: tag_venn
 
 Feature flags is still a subject to study. There are separations between driver feature flags and container feature flags, status of each flag (testing, released). Not all feature flags seen in Demo output or into the config in DLP are present.
 
@@ -13827,7 +13827,7 @@ And here is a clean sorted settings to replace in DLP environment (it is being u
 
 = Getting the right feature flags set from the log
 :date: 2023-11-28
-:tags: venn 
+:tags: tag_venn
 
 Today I made some research to find every feature flag shown into the original log to match them completely. Got stuck in some part where it is needed to have `VennDiskEnabled: true` but didn't know that (otherwise Office can't communicate). Anyway, I could accomplish this target.
 
@@ -13868,7 +13868,7 @@ Now I have some steps to follow:
 
 = Getting Workplace version from the issue
 :date: 2023-11-29
-:tags: venn 
+:tags: tag_venn
 
 Got back to `nightly-1.0.8469.21791`, the closest I believe is the version from the issue. However, Container can't run because the dlp policy update is failing. Perhaps some change in json objects.
 
@@ -13898,7 +13898,7 @@ Indeed [this Triofox change] is from October.
 
 = Outlook crash log analysis
 :date: 2023-11-29
-:tags: venn 
+:tags: tag_venn
 
 From SleepStudy we can assume the screen was off at 10:16:17 for 02:40 and then at 10:18:57 the session was active for 05:23 until the report generation.
 
@@ -13911,7 +13911,7 @@ That only corroborates with the op, lacking more info about 1) the Outlook that 
 
 = Finding the Word crash feature flag
 :date: 2023-11-30
-:tags: venn 
+:tags: tag_venn
 
 The OP (Alex Pinsker) updated me that he is no longer using PC for some months now, so I believe this is the end of the road to reproduce this Outlook issue for now.
 
@@ -13963,7 +13963,7 @@ When opening several Office apps at once the signin window shows again, as if th
 
 = Faulty network, Word crashing
 :date: 2023-12-01
-:tags: venn 
+:tags: tag_venn
 
 Simplified the steps to reproduce the crash (just run Word with a document and AutoSave) and locate the place in code where the crash is involved. If we just let the driver to redirect local network Word does not crash. The crash occurs if some connections are redirected by being local (which explains the LocalRoutesEnabled flag).
 
@@ -13997,14 +13997,14 @@ Tried to kernel debug, but the crash does not occur when rebooting in debug mode
 
 = Who calls the OpenWith?
 :date: 2023-12-04
-:tags: venn 
+:tags: tag_venn
 
 Analyzing why only MS Access try to open the outside SE to open an inside SE document. Must have relation with hook when explorer double click a file. Could reproduce the bug in Win11.
 
 
 = MS Paint does not run inside SE; or does it?
 :date: 2023-12-04
-:tags: venn 
+:tags: tag_venn
 
 Tried to reproduce in Demo and Workplace (learned to add a new app, just put "Paint" and it appeared; odd) without success. Alex Osipov attached diag files and starting to analyze the dumps.
 
@@ -14030,7 +14030,7 @@ Worth notice: My Win11 was some builds before the user so I updated it. After re
 
 = Relation between power mode and word crash
 :date: 2023-12-05
-:tags: venn 
+:tags: tag_venn
 
 Analyzing the logs when the crash happen is possible to know the following flow of events:
 
@@ -14136,7 +14136,7 @@ For roadmap70802 Chermyanin said that in some rare cases (Chrome) the title of t
 
 = Disable ComProxy Word stops crashing
 :date: 2023-12-06
-:tags: venn
+:tags: tag_venn
 
 Despite the following log pattern exists when Word crashes:
 
@@ -14169,7 +14169,7 @@ img/security_check_failure_or_stack_buffer_overrun.png
 
 = Múltiplas leituras a respeito do self
 :draft:
-:tags: books self
+:tags: tag_books tag_self
 
 Estou fazendo um experimento. Tão interessado que estou em entender o self para aprimorá-lo com leituras e releituras de várias fontes distintas que me veio à mente: é este o primeiro tema que devo desenvolver profundamente.
 
@@ -14178,7 +14178,7 @@ Irei, portanto, rever minhas leituras em paralelo, talvez alguma coisa a mais, e
 
 = Systemic crash
 :date: 2023-12-08
-:tags: venn
+:tags: tag_venn
 
 After one of the crashes Word refused to start. WinDbg attached to it either showed the window. Looking for log errors just WebProxy logs referenced winword such as:
 
