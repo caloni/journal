@@ -14397,3 +14397,32 @@ I let the system untouched for sometime and the entire Windows became unresponsi
 ```
 
 This heap corruption does not seem related to the Word crash, but both are memory corruption based.
+
+
+= RPC_E_SERVER_DIED
+:date: 2023-12-11
+:tags: tag_venn
+
+There are some observations about when some processes stopped logging or when some specific error occurred (all listed bellow). However, what called my attention more was the error RPC_E_SERVER_DIED during COM activation and IpcInvertedServer failed to connect to pipe server (Word). Going to investigate this further.
+
+### Excel
+
+ - There's a conflict of priorities for the hook of CredRenameW for priority 0.
+ - Possible slowliness (not always) when unmarshaling dcb00003-570f-4a9b-8d69-199fdba5723b - IEnumNetworks.
+ - Excel last log line when unmarshal 63a0a1e5-f8fe-4ba6-8508-caef1277dd35 - Windows::Internal::Security::Authentication::Web::IWamProviderRegistrationInformation and NtAlpcImpersonateClientOfPort.
+ - DetourDetach failed. Invalid access to memory location. (Virus?)
+
+### Word
+
+ - **RoGetActivationFactory WamProviderRegistration failed with 0x80010007 RPC_E_SERVER_DIED.**
+ - CoCreateInstanceEx failed with 0x80010007 between winword instances.
+ - **IpcInvertedServer connect failed connect pipe by timed out.**
+
+### Explorer
+
+ - There's a conflict of priorities for the hook of CredRenameW for priority 0.
+ - RoGetActivationFactory StateRepository.ApplicationExtension failed SERVICE_DOES_NOT_EXIST.
+ - CoCreateInstanceEx failed 0x80070424. (Service does not exist)
+ - DetourDetach failed. Invalid access to memory location. (Virus?)
+ - Driverlog failed to get file name information CloseFilePath=\Device\Mup has been deprecated and replaced with BlockNetworkFiles.
+
