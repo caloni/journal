@@ -14481,29 +14481,34 @@ Analyzing the faulty stack again. The destructor of IpcRequest is responsible fo
 ...
 
 
-= ComProxy not started during RoGetActivationFactory
+= ComProxy not started during some applications COM operations
 :date: 2023-12-13
 :tags: tag_venn
 
-The failed calls to RoGetActivationFactory in Outlook and Word were the moments when there was no ComProxy running.
+The failed calls to RoGetActivationFactory in Outlook and Word were the moments when there was no ComProxy running. These are situations in log where there is not stopping message from ComProxy and applications Outlook and Word try to connect and make requests.
 
+2023-11-28
 05:43:28 ComProxy starts
+05:43:53 Outlook starts calling COM functions
 05:48:30 ComProxy stops (or crashes, there was no stop message)
-05:53 Outlook starts getting error calling RoGetActivationFactory
-06:02 Outlook stops getting error calling RoGetActivationFactory
+05:53:28 Outlook starts getting error calling RoGetActivationFactory
+06:02:52 Outlook stops getting error calling RoGetActivationFactory
 06:05:08 ComProxy starts
 06:30:40 ComProxy stops (or crashes, there was no stop message)
-06:38 Word starts getting error calling RoGetActivationFactory
-06:39 Word stops getting error calling RoGetActivationFactory
+06:37:56 Word starts getting error calling COM functions
+06:39:13 Word stops getting error calling COM functions
+06:39:18 Word starts getting error calling COM functions
+06:39:36 Word stops getting error calling COM functions
 
-Excel receives errors from QueryInterface/CoCreateInstance, but that's normal depending on the interface.
+Excel receives errors from QueryInterface/CoCreateInstance, but that's normal depending on the interface, so the slowness from it is not justified.
 
+2023-11-28
 11:24:05 ComProxy starts
-11:25:02 Excel starts calling QueryInterface/CoCreateInstance
-12:07:01 Excel stops calling QueryInterface/CoCreateInstance
-12:07:03 DetourDetach failed
+11:25:02 Excel starts calling COM functions
+12:07:01 Excel stops calling COM functions
+12:07:03 Excel DetourDetach failed
 12:08:09 ComProxy stops (or crashes, there was no stop message)
 12:24:18 ComProxy starts
 12:34:42 ComProxy stops with closing message
 
-Also there were some services not found in DcomLaunch it is worth mention: WSearch, lfsvc, CscService and StateRepository.
+Also there were some services not found in DcomLaunch it is worth mention: WSearch, lfsvc, CscService and StateRepository. Those cause the SERVICE_DOES_NOT_EXIST (0x80070424) errors. Maybe the absense of one of these services cause the slowness (going to test).
