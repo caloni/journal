@@ -14426,3 +14426,35 @@ There are some observations about when some processes stopped logging or when so
  - DetourDetach failed. Invalid access to memory location. (Virus?)
  - Driverlog failed to get file name information CloseFilePath=\Device\Mup has been deprecated and replaced with BlockNetworkFiles.
 
+
+= Asked for more Excel logs
+:date: 2023-12-12
+:tags: tag_venn
+
+Getting unspecified error trying to extract procmon file for Excel:
+
+img/extract_procmon_file_unespecified_error.png
+
+Asked for more logs.
+
+
+= WmiApSrv behavior
+:date: 2023-12-12
+:tags: tag_venn
+
+Procmon for explorer shows start/stop for WmiApSrv.exe. Don't know if it is relevant:
+
+img/start_stop_wmiapsrv.png
+
+
+= ComProxy and WinRT issue?
+:date: 2023-12-12
+:tags: tag_venn
+
+The ComProxyInvertedClient has some points returning RPC_E_SERVER_DIED error. This error is returned by ComProxyInvertedClient and ComProxyInvertedBinaryClient requests methods.
+
+RoGetActivationFactory fails only for WamProviderRegistration and observed only in logs for outlook.exe and winword.exe.
+
+Excel unmarshal 63a0a1e5-f8fe-4ba6-8508-caef1277dd35 - Windows::Internal::Security::Authentication::Web::IWamProviderRegistrationInformation with success, despite being the last line for some instances.
+
+Also Excel Possible slowliness (not always) when unmarshaling dcb00003-570f-4a9b-8d69-199fdba5723b - IEnumNetworks. Is it possible this interface be related to our proxied CLSID_NetworkListManager?
