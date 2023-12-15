@@ -14545,3 +14545,38 @@ Notice that the majority of these classes and functions belongs to the services 
 However, this is the same for the current version running on my personal computer, so I am considered this not to be the difference to the user environment.
 
 [as expected]: https://tfs.os33.net/DefaultCollection/Portal/_git/Workplace.Container.Windows?path=/Workplace.Container/Workplace.Container.Helper/HookProviders/ServiceControlManagerHookProvider.cs&version=GBROADMAP-69325-spike-isolate-background-host&line=247&lineEnd=248&lineStartColumn=1&lineEndColumn=1&lineStyle=plain&_a=contents
+
+
+= HP ProtectTools Security Manager
+:date: 2023-12-15
+:tags: tag_venn
+
+Found an issue about this software in procmon logs trying to continuously load the DLL DpoFeedb.dll. This DLL should be located in `C:\Program Files\Microsoft Office\root\vfs\ProgramFilesX64\HP\HP ProtectTools Security Manager\Bin\DpoFeedb.dll` in x64 and the procmon log keeps returning PATH NOT FOUND. This keeps repeating for several seconds in Excel start.
+
+```
+11:26:06.2966865 AM	EXCEL.EXE	25268	CreateFile	C:\Program Files\Microsoft Office\root\vfs\ProgramFilesX64\HP\HP ProtectTools Security Manager\Bin\DpoFeedb.dll	PATH NOT FOUND	Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a
+```
+
+An [issue in HP page] related to start VirtualBox on Windows 10 is similar to Excel start.
+
+> For example, I'm trying to run VirtualBox on Windows 10 with the standard suggested suite of HP protection products enabled.  When I'm starting up a VM for the first time, which should build the environment, it is failing and this is the only "error" in the log, which repeats about a dozen times though out.
+> 
+> 4894.bd0: supR3HardenedScreenImage/LdrLoadDll: cache hit (Unknown Status -23021 (0xffffa613)) on \Device\HarddiskVolume3\Program Files\HP\HP ProtectTools Security Manager\Bin\DpOFeedb.dll [lacks WinVerifyTrust]
+> 4894.bd0: Error (rc=0):
+
+Researching on the web about this software it it not compatible to Windows 10. This [page from HP itself] recommends to uninstall it and to use HP Client Security Manager instead.
+
+> The HP ProtectTools Security manager software is not compatible with W10.
+> 
+> You need to install the newer HP Client Security Manager software which you can find on your notebook's support page...
+
+However, since procmon accuses this path as nonexistent and the list of installed programs in diagnostics does not list it I believe that should remain some plugin trying to do this operation.
+
+As next step to fix client environment I recommend do some scan about HP Protect Tool files and remove them. In the processes list there are some running from `c:\Program Files\HP\HP ProtectTools Security Manager`. There must be an uninstaller there.
+
+I tried to install this software in my VM, but for some reason (not HP machine or the Win10 prevention) it does not continue.
+
+img/hp_protect_tool_not_supported_this_system.png
+
+[issue in HP page]: https://h30434.www3.hp.com/t5/Notebook-Software-and-How-To-Questions/HP-ProtectTools-Security-Manager-How-to-properly-use-when-it/td-p/7589916
+[page from HP itself]: https://h30434.www3.hp.com/t5/Notebook-Operating-System-and-Recovery/HP-ProtectTools-Security-Manager-and-Windows-10/td-p/7375441
