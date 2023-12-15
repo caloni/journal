@@ -14512,3 +14512,36 @@ Excel receives errors from QueryInterface/CoCreateInstance, but that's normal de
 12:34:42 ComProxy stops with closing message
 
 Also there were some services not found in DcomLaunch it is worth mention: WSearch, lfsvc, CscService and StateRepository. Those cause the SERVICE_DOES_NOT_EXIST (0x80070424) errors. Maybe the absense of one of these services cause the slowness (going to test).
+
+
+= SERVICE_DOES_NOT_EXIST list is the same to a working machine
+:date: 2023-12-14
+:tags: tag_venn
+
+Getting error 0x80070424 (SERVICE_DOES_NOT_EXIST) for CreateInstance functions for processes msedge, explorer, excel, winword, outlook, chrome:
+
+```
+CLSIDs
+08d9dfdf-c6f7-404a-a20f-66eec0a609cd - lfsvc
+1fcbe96c-1697-43af-9140-2897c7c69767 - no name
+48c6be7c-3871-43cc-b46f-1449a1bb2ff3 - Offline Files Cache Control
+69486dd6-c19f-42e8-b508-a53f9f8e67b8 - Offline Files Service Control
+708860e0-f641-4611-8895-7d867dd3675b - no name
+7d096c5f-ac08-4f1f-beb7-5c22c517ce39 - Windows Search Manager
+e225e692-4b47-4777-9bed-4fd7fe257f0e - not found
+
+RIIDs
+3d0423b1-bbd4-4c4a-8f20-da15228e0f3d - ILocationManager
+463abecf-410d-407f-8af5-0df35a005cc8 - Interface {463ABECF-410D-407F-8AF5-0DF35A005CC8}
+855d6203-7914-48b9-8d40-4c56f5acffc5 - IOfflineFilesCache
+909489c2-85a6-4322-aa56-d25278649d67 - IGoogleUpdateCore
+ab310581-ac80-11d1-8df3-00c04fb6ef69 - ISearchManager
+b94b62a2-4012-4b7e-a395-f21cc665fd12 - Windows::Internal::StateRepository::IApplicationExtensionStatics
+c9c2b807-7731-4f34-81b7-44ff7779522b - Interface {C9C2B807-7731-4F34-81B7-44FF7779522B}
+```
+
+Notice that the majority of these classes and functions belongs to the services accused as nonexistent in DComLaunch logs. These services are unavailable in DcomLaunch [as expected].
+
+However, this is the same for the current version running on my personal computer, so I am considered this not to be the difference to the user environment.
+
+[as expected]: https://tfs.os33.net/DefaultCollection/Portal/_git/Workplace.Container.Windows?path=/Workplace.Container/Workplace.Container.Helper/HookProviders/ServiceControlManagerHookProvider.cs&version=GBROADMAP-69325-spike-isolate-background-host&line=247&lineEnd=248&lineStartColumn=1&lineEndColumn=1&lineStyle=plain&_a=contents
