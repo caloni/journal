@@ -14580,3 +14580,64 @@ img/hp_protect_tool_not_supported_this_system.png
 
 [issue in HP page]: https://h30434.www3.hp.com/t5/Notebook-Software-and-How-To-Questions/HP-ProtectTools-Security-Manager-How-to-properly-use-when-it/td-p/7589916
 [page from HP itself]: https://h30434.www3.hp.com/t5/Notebook-Operating-System-and-Recovery/HP-ProtectTools-Security-Manager-and-Windows-10/td-p/7375441
+
+
+= One-to-one call
+:draft:
+:tags: tag_venn
+
+> Talk about your vision (or ideas, or feeling) on your, team's and company's work and performance.
+> 
+> Please prepare answers for following questions:
+
+## Where you need to improve?
+
+I spent a lot of time this year in AAD research and I don't think the result delivered was satisfying. I need to improve planning about how to approach spikes.
+
+I still don't understand the sofware enough to solve bugs in a timely manner. I need to sharp my skills on Workplace (perhaps by stopping more time to read existing code).
+
+Six months working in Venn I am still nourishing Imposter Syndrome because I am not delivering issues. I need to consider people above me are aware of my performance and would feedback me if there are any issues about it.
+
+## Where team needs to improve?
+
+In what sense are we a team besides being a group of devs participating in some standups? Maybe we need to rethink what is to be part of a team in Venn in order to think how to improve it after.
+
+## Where company needs to improve?
+
+I had a hard time thinking about this one, because to me this is the best place to work, and I was already working in a great place before.
+
+But I would love to meet some of you guys. Remote working is great and all, but socialize with team and company members is a challenge.
+
+## What can be changed?
+
+...
+
+
+= Workplace starter crashing at beginning
+:date: 2023-12-18
+:tags: tag_venn
+
+All the crash dumps collected in diag (14) are instances of NotifyUserDefaultFoldersChanged and rpcss.
+
+This dispatch APC callback address is pointing at `0x00000209 9fc44ed0`; `Workplace_Container_Helper` is loaded in `00000209 9fb20000 00000209 9fb56000` and there is a virtual memory block allocated to this place:
+
+```
+!vadump
+BaseAddress: 000002099fc445c0
+RegionSize:  0000000000007f90
+```
+
+But since these are minidumps there are no information about protection level and state (if deallocated already, by example).
+
+Is it possible to configure to generate a bigger dump?
+
+
+= Trying to force heap corruption
+:date: 2023-12-18
+:tags: tag_venn
+
+Analyzed the stack from SendAllLogs and since the basic_string destructor from a basic_json object inside the IPC request was the last track of heap health I was assuming the problem could be related with the number of records to send. So I forced to generate 10k lines of log for a COM operation and increase the interval from the SendAllLogs thread to 30 seconds. The result was a call with more than one million records.
+
+The app did not crashed with heap corruption. It just ran very slowly.
+
+Now all my ideas to come with some bug fix in this issue are gone. Putting in wait.
