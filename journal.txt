@@ -14594,7 +14594,7 @@ img/hp_protect_tool_not_supported_this_system.png
 
 I spent a lot of time this year in AAD research and I don't think the result delivered was satisfying. I need to improve planning about how to approach spikes.
 
-I still don't understand the sofware enough to solve bugs in a timely manner. I need to sharp my skills on Workplace (perhaps by stopping more time to read existing code).
+I still don't understand the sofware enough to solve bugs in a timely manner. I need to sharpen my skills on Workplace (perhaps by stopping more time to read existing code).
 
 Six months working in Venn I am still nourishing Imposter Syndrome because I am not delivering issues. I need to consider people above me are aware of my performance and would feedback me if there are any issues about it.
 
@@ -14606,9 +14606,11 @@ In what sense are we a team besides being a group of devs participating in some 
 
 I had a hard time thinking about this one, because to me this is the best place to work, and I was already working in a great place before.
 
-But I would love to meet some of you guys. Remote working is great and all, but socialize with team and company members is a challenge.
+But I would love to meet at least some of you guys. Remote working is great and all, but socializing with team and company members is a challenge.
 
 ## What can be changed?
+
+Since we do not have sprints and its rituals what about some sporadic technical brainstorms? Engage the team to discuss something about some product issues and help everyone to understand what are the key challenges involved.
 
 ...
 
@@ -14641,3 +14643,31 @@ Analyzed the stack from SendAllLogs and since the basic_string destructor from a
 The app did not crashed with heap corruption. It just ran very slowly.
 
 Now all my ideas to come with some bug fix in this issue are gone. Putting in wait.
+
+
+= DDE orchestrates MSAccess instances
+:date: 2023-12-19
+:tags: tag_venn
+
+In the last standup about this issue Chermyanin said that in some rare cases (Chrome) the title of the window is used to select which app will open a resource (link/document), and analyzing windows messages exchanged could be useful. Indeed, using Spy++ is possible to see `WM_DDE_*` messages flowing around Explorer and MSAccess instances. The exact meaning of each message is still to be discovered. But I analyzed the behavior behind this to understand the bug.
+
+When a user double clicks a MSAccess file inside any Explorer process a new MSAccess process is started and the file is opened.
+
+Then, if the user double clicks another MSAccess file the first MSAccess process starts a second process to open this file.
+
+This continue for each new file double clicked, independently if Explorer or Access are inside or outside SE.
+
+If the first MSAccess process exits the second instance is responsible to start new instances and so on.
+
+Important to note here that if the user double clicks an already opened file nothing is done, just the windows is put in focus.
+
+Now to the bug behavior. If the user closes a file in some MSAccess process or starts another process without specifying a file (inside or outside SE) this instance is used to open a new file double clicked by the user, independently if the instance is running inside or outside SE.
+
+This generates different issues depending on what process is being used to open a double clicked file:
+
+ - If a new process started by an inside SE app (Explorer or MSAccess) is opening a file from outside Venn Disk.
+ - If a new process started by an ouside SE MSAccess (outside Explorer can't start an inside MSAccess) is opening a file from inside Venn Disk. This is similar to original issue.
+ - If a existing process inside SE is requested to open a file outside Venn Disk.
+ - If a existing process outside SE (**the original issue**) is requested to open a file inside Venn Disk.
+
+https://support.os33.link/v/MegRp3
