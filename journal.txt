@@ -14583,7 +14583,7 @@ img/hp_protect_tool_not_supported_this_system.png
 
 
 = One-to-one call
-:draft:
+:date: 2023-12-20
 :tags: tag_venn
 
 > Talk about your vision (or ideas, or feeling) on your, team's and company's work and performance.
@@ -14594,25 +14594,35 @@ img/hp_protect_tool_not_supported_this_system.png
 
 I spent a lot of time this year in AAD research and I don't think the result delivered was satisfying. I need to improve planning about how to approach spikes.
 
-I still don't understand the sofware enough to solve bugs in a timely manner. I need to sharpen my skills on Workplace (perhaps by stopping more time to read existing code).
+> We are not that late; there are features that are going to take months or even years to release.
+
+I still don't understand the sofware and newest Windows architecture details (UWP, ALPC) enough to solve bugs in a timely manner. I need to sharpen my skills on Workplace (perhaps by stopping more time to read existing code).
 
 Six months working in Venn I am still nourishing Imposter Syndrome because I am not delivering issues. I need to consider people above me are aware of my performance and would feedback me if there are any issues about it.
+
+> I am going to talk to Chermyanin about this because he knows better.
+
+I am to assume everything is right and they let me know if there are any improvements to make.
 
 ## Where team needs to improve?
 
 In what sense are we a team besides being a group of devs participating in some standups? Maybe we need to rethink what is to be part of a team in Venn in order to think how to improve it after.
 
+> Engineering is an individual task normally.
+
 ## Where company needs to improve?
 
 I had a hard time thinking about this one, because to me this is the best place to work, and I was already working in a great place before.
 
-But I would love to meet at least some of you guys. Remote working is great and all, but socializing with team and company members is a challenge.
+But I would love to meet at least some of you guys, at least once a year or so. Remote working is great and all, but socializing with team and company members is a challenge.
+
+(This subject did not pop out.)
 
 ## What can be changed?
 
 Since we do not have sprints and its rituals what about some sporadic technical brainstorms? Engage the team to discuss something about some product issues and help everyone to understand what are the key challenges involved.
 
-...
+> Maybe some knowledge sharing could happen to bring team together also, but this takes time.
 
 
 = Workplace starter crashing at beginning
@@ -14671,3 +14681,94 @@ This generates different issues depending on what process is being used to open 
  - If a existing process outside SE (**the original issue**) is requested to open a file inside Venn Disk.
 
 https://support.os33.link/v/MegRp3
+
+
+= Fixed the original bug 
+:date: 2023-12-21
+:tags: tag_venn
+
+I intercepted `WM_DDE_*` messages being sent by Explorer in `PostMessageW` when there is already a MsAccess instance running. When this message is droped no file is opened.
+
+When Explorer needs to start the process there is no message in `Send/Post`.
+
+The handle used in `PostMessageW` is always changing when opening the same file in the same MsAccess.
+
+The handle to the client window posting the message is also always changing.
+
+Both window handles are invalid if searched in Spypp.
+
+The handle to the client window posting the message if from a worker window from Explorer.
+
+The handle to the client window posting the message is also a worker window, but from MsAccess.
+
+This window is created by [DDEML].
+
+USER32!DdeCreateStringHandleW:
+00007fff`3972abb0 418bc0          mov     eax,r8d
+0:000> du rdx
+00007ff6`e25926b0  "Microsoft Access"
+
+USER32!DdeCreateStringHandleW:
+00007fff`3972abb0 418bc0          mov     eax,r8d
+0:000> du rdx
+00007ff6`e2579ee0  "MSAccess"
+
+USER32!DdeCreateStringHandleW:
+00007fff`3972abb0 418bc0          mov     eax,r8d
+0:000> du rdx
+00007ff6`e2579ef8  "Msaccess.exe"
+
+USER32!DdeCreateStringHandleW:
+00007fff`3972abb0 418bc0          mov     eax,r8d
+0:000> du rdx
+00000048`e3d8f7d0  "MSAccess4812"
+
+Before the `PostMessageW` from Explorer MsAccess receives something from DDEML and calls the function `DdeQueryStringW`. The content: "ShellSystem".
+
+USER32!DdeQueryStringW:
+00007fff`3976cc80 8b442428        mov     eax,dword ptr [rsp+28h] ss:00000048`e3d8f1b0=000004b0
+0:000> du r8
+0000022f`48cda7c0  ""
+0:000> gu
+msaccess!FDeliverDb+0x7c6a:
+00007ff6`e1e4952a 85c0            test    eax,eax
+0:000> du r8
+0:000> du 0000022f`48cda7c0
+0000022f`48cda7c0  "ShellSystem"
+
+Then after that MsAccess call `DdeAccessData` with the DDE command in the data:
+
+USER32!DdeAccessData:
+00007fff`3976be20 48895c2408      mov     qword ptr [rsp+8],rbx ss:00000048`e3d8f440=0000000003000b00
+0:000> gu
+msaccess!FDeliverDb+0x17fe:
+00007ff6`e1e430be 4885c0          test    rax,rax
+0:000> r
+rax=0000022f4f619710 rbx=0000022f4de92680 rcx=00000000ffffffff
+rdx=00007fff3ad92bf8 rsi=0000000000000000 rdi=0000000000000001
+rip=00007ff6e1e430be rsp=00000048e3d8f440 rbp=0000000000000000
+ r8=00000000000000ff  r9=0000022f4f121ac0 r10=00000000ffffffff
+r11=0000000000000006 r12=000000000000c11f r13=0000000000000000
+r14=0000000000000000 r15=0000000002000500
+iopl=0         nv up ei pl nz na po nc
+cs=0033  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00000206
+msaccess!FDeliverDb+0x17fe:
+00007ff6`e1e430be 4885c0          test    rax,rax
+0:000> du rax
+0000022f`4f619710  "[SetForeground][ShellOpenDatabas"
+0000022f`4f619750  "e "X:\Wanderley Caloni\New Micro"
+0000022f`4f619790  "soft Access Database.accdb"]"
+
+Note that this occurs **before** inside SE Explorer posts DDE execute.
+
+ShellPositionerManager:PriorityList
+
+Looking for GlobalAddAtom there was no call in Explorer inside SE (despite a lot in the outside SE). Could be hook interference?
+
+Answer: I have no idea why, but it is working now.
+
+Fix when user double click Explorer inside SE and MsAccess outside SE tries to open the file. Now Workplace has its own DDE server name for MsAccess: https://support.os33.link/v/aTmuWg
+
+It does so by adding a hook to `GlobalAddAtomW` (and `A`) because Explorer uses it to execute the DDE server. Adding "MSAccess" and "MSACCESS" strings to DdeRedirect check because Explorer uses UPPERCASE and MsAccess uses CamelCase; this is to maintain the sensitive case to Adobe solution.
+
+[DDEML]: https://learn.microsoft.com/en-us/windows/win32/dataxchg/dynamic-data-exchange-management-library
