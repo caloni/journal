@@ -14772,3 +14772,10 @@ Fix when user double click Explorer inside SE and MsAccess outside SE tries to o
 It does so by adding a hook to `GlobalAddAtomW` (and `A`) because Explorer uses it to execute the DDE server. Adding "MSAccess" and "MSACCESS" strings to DdeRedirect check because Explorer uses UPPERCASE and MsAccess uses CamelCase; this is to maintain the sensitive case to Adobe solution.
 
 [DDEML]: https://learn.microsoft.com/en-us/windows/win32/dataxchg/dynamic-data-exchange-management-library
+
+
+= Fixed MsAccess PR with different feature flags now
+:date: 2023-12-26
+:tags: tag_venn
+
+Fixed PR when user double click Explorer inside SE and MsAccess outside SE tries to open the file and PR description. It does so by adding a similar hook from DdeCreateStringHandle to GlobalAddAtom because Explorer uses it to execute the DDE server. DdeProtection has now two separated feature flags into the same hook: DynamicDataExchangeHook and DdeMsAccessRedirectHook. There are separated lists to redirect DDE server name creation.
