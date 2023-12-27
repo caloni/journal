@@ -14779,3 +14779,10 @@ It does so by adding a hook to `GlobalAddAtomW` (and `A`) because Explorer uses 
 :tags: tag_venn
 
 Fixed PR when user double click Explorer inside SE and MsAccess outside SE tries to open the file and PR description. It does so by adding a similar hook from DdeCreateStringHandle to GlobalAddAtom because Explorer uses it to execute the DDE server. DdeProtection has now two separated feature flags into the same hook: DynamicDataExchangeHook and DdeMsAccessRedirectHook. There are separated lists to redirect DDE server name creation.
+
+
+= SE File Manager do not update folder when downloading file
+:date: 2023-12-26
+:tags: tag_venn
+
+Reproduced the bug in Workplace and Demo. In Demo started to get error downloading images (dunno why). Analyzing ShellChangeNotifyHook implementation to see what could be, but no conclusion yet. Still going to make some tests.
