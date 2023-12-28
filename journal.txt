@@ -14786,3 +14786,32 @@ Fixed PR when user double click Explorer inside SE and MsAccess outside SE tries
 :tags: tag_venn
 
 Reproduced the bug in Workplace and Demo. In Demo started to get error downloading images (dunno why). Analyzing ShellChangeNotifyHook implementation to see what could be, but no conclusion yet. Still going to make some tests.
+
+
+= There is a checklist and there is how to make it generic
+:date: 2023-12-27
+:tags: tag_venn
+:link: https://os33corp.atlassian.net/wiki/spaces/DTDLP/pages/2675474891/CheckList+-+TEMPLATE
+
+There is a checklist to accompish every time an issue is finished. I going to start to use it for the MsAccess issue (after the shell notification, more priority). Also following the PR advice put from Aleksey Kozlov I am going to refactory the feature flag and variables to let this implementation open to DDE server names other than MsAccess (could be useful in the future and would be only add more items to the list).
+
+
+= Setting to receive all notifications
+:date: 2023-12-27
+:tags: tag_venn
+
+Studied the mechanism behind shell notifications and made some tests. The first one was to duplicate all calls to SHChangeNotifyRegister. Even then there was no sign of being notified when command prompt is copying a file.
+
+Except when running another piece of the shell. If started another instance of explorer and show same folder, when the second explorer modifies the contents the first one updates correctly (two different explorer.exe processes). Operations inside the Save As window such as copy and remove when downloading some file in chrome also update the folder (not the download, but some operation on existing files inside the folder).
+
+Curious observe that changes in the side of a text file do not update neither; there are some limitations we put ourselves when filtering when to duplicate the SHChangeNotifyRegister function).
+
+## Not downloading files anymore
+
+Something funny started to happens suddenly since yesterday: I cannot download new files from chrome and edge inside SE to any folder (or drive root) inside SE (the exception is saving a page as html single). The error message from chrome is "Download error" or "Transference error" (is in Portuguese). In Workplace is working fine.
+
+img/chrome_download_failed_demo.png
+
+img/chrome_download_failed_demo_detail.png
+
+The issue occurs only inside V: and X: (dlp) drives and subfolders, not outside SE folders being shown inside SE.

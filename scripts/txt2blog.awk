@@ -585,8 +585,8 @@ END {
   indexhtml = "public\\blog\\index.html"
   writetophtml(indexhtml, "Blogue do Caloni", "2007-06.html#_about", 0, quickSearch)
   print "<input type=\"text\" name=\"quick_search_name\" value=\"\" id=\"quick_search\" placeholder=\"digite uma url\" style=\"width: 100%; font-size: 1.5rem; margin-top: 1em; margin-bottom: 0.5em;\" title=\"\"/></br>" > indexhtml
-  print "<big>>> <a href=\"coding.html\">coding</a></big><small><i>: programação, depuração, transpiração.</small></i></br>" > indexhtml
-  print "<big>>> <a href=\"movies.html\">movies</a></big><small><i>: o finado Cine Tênis Verde veio parar aqui.</small></i></br>" > indexhtml
+  print "<big>>> <a href=\"tag_coding.html\">coding</a></big><small><i>: programação, depuração, transpiração.</small></i></br>" > indexhtml
+  print "<big>>> <a href=\"tag_movies.html\">movies</a></big><small><i>: o finado Cine Tênis Verde veio parar aqui.</small></i></br>" > indexhtml
   print "<big>? <a id=\"quick_search_search_engine\" href=\"https://duckduckgo.com/?q=site%3Acaloni.com.br\">patopatovai</a></big><small><i>: usar um motor para buscar.</small></i></br>" > indexhtml
   print "<big>> <a href=\"tags.html\">tags</a></big><small><i>: todos os rótulos dos postes.</small></i></br>" > indexhtml
   print "<big>> <a href=\"" lastmonth ".html\">news</a></big><small><i>: postes publicados no último mês.</small></i></br>" > indexhtml
