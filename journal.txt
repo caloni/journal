@@ -14788,12 +14788,14 @@ Fixed PR when user double click Explorer inside SE and MsAccess outside SE tries
 Reproduced the bug in Workplace and Demo. In Demo started to get error downloading images (dunno why). Analyzing ShellChangeNotifyHook implementation to see what could be, but no conclusion yet. Still going to make some tests.
 
 
-= There is a checklist and there is how to make it generic
+= Checklist
 :date: 2023-12-27
 :tags: tag_venn
 :link: https://os33corp.atlassian.net/wiki/spaces/DTDLP/pages/2675474891/CheckList+-+TEMPLATE
+:link: https://tfs.os33.net/DefaultCollection/Portal/_build?definitionId=830
+:link: https://downloads.os33dev.net/wcaloni/clients/windows/WorkplaceInstaller.exe
 
-There is a checklist to accompish every time an issue is finished. I going to start to use it for the MsAccess issue (after the shell notification, more priority). Also following the PR advice put from Aleksey Kozlov I am going to refactory the feature flag and variables to let this implementation open to DDE server names other than MsAccess (could be useful in the future and would be only add more items to the list).
+There is a checklist to run every time an issue is finished. Just copy the template to a new post linked to the issue, generate a new personal version (instructions in the checklist) and test it. It could be useful also to test new features or analyze bugs.
 
 
 = Setting to receive all notifications
@@ -14815,3 +14817,36 @@ img/chrome_download_failed_demo.png
 img/chrome_download_failed_demo_detail.png
 
 The issue occurs only inside V: and X: (dlp) drives and subfolders, not outside SE folders being shown inside SE.
+
+
+= Last test from checklist
+:date: 2023-12-28
+:tags: tag_venn
+
+Compared my test user (wcaloni.dlp) with checklist.dlp and there were some differences (first is mine):
+
+> AADBrokerPluginNetworkRedirectionEnabled = True
+> AadWebProxyEnabled = False
+> AadWorkaroundEnabled = True
+> BITSEnabled = False
+> BadgeTopmostWindowsIntersectionsCheckEnabled = False
+> ChromeWorkaroundEnabled = False
+> ContainerProtectionEnabled = True
+> CopyingTeamsPackagesEnabled = True
+> CredentialStorageEnabled = False
+> DigitalSignatureValidationVersion = 2
+> DisableAADWAM = False
+> DisableIpV6 = True
+> EncompassEnabled = True
+> FQDNExclusionsEnabled = False
+> KeyLoggerEnabled = True
+> PostfixCredentialTargetName = False
+> PrintingActivityEnabled = True
+> ProtectWindowHooksEnabled = True
+> RememberDeletedRegistryKeys = False
+> UpdateAltitudeOnTheFly = True
+> UwpFulltrustWorkaroundEnabled = False
+> Win11ExplorerTabsEnabled = False
+> WmiMethodsFilterEnabled = True
+
+Tested running Demo with that, but got KeyExchange exception (dunno why). Aleksey Koslov gave me the hint about to start with the checklist to deploy my own version, what could help me to accomplish both issues.
