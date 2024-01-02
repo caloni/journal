@@ -14850,3 +14850,55 @@ Compared my test user (wcaloni.dlp) with checklist.dlp and there were some diffe
 > WmiMethodsFilterEnabled = True
 
 Tested running Demo with that, but got KeyExchange exception (dunno why). Aleksey Koslov gave me the hint about to start with the checklist to deploy my own version, what could help me to accomplish both issues.
+
+
+= Trying to install personal version (Build Workplace)
+:date: 2024-01-02
+:tags: tag_venn
+
+To compare Demo with Workplace behavior about the download issue mentioned before I started to follow the "How to deploy Workplace for Windows environment" that says to start a pipeline build from my branch. However, I have not noticed that the first step is to build the OS33.Workplace.Windows repo, not the Container one. Aleksey Koslov gave me the tips:
+
+ - Build Workplace for Windows (OS33.Workplace.Windows I believe) from master to have the installer created; this is Workplace.Windows.Release pipeline;
+ - Build Workplace Container from your branch with your config;
+ - Should have hooks built to a package from your branch;
+ - Have hook package updated in the solution on your branch to create exactly what you want to test.
+
+I starting to follow these steps, but stopping a little to understand the build flow to see if I am doing right.
+
+## Build Workplace for Windows
+
+The BuildConfigs is in s3 (`BuildConfigs/Windows/dev.json`). I have a `wcaloni.json` that I believe Koslov created for me ("you don't have your config uploaded. I will upload one to the storage").
+
+Artifacts:
+
+ - WizProjects: OS33.Windows.Msi, OS33.Windows.Setup
+ - WorkplaceComponent: EXEs, DLLs, drivers, Container.Api
+
+I am not sure if the content of the BuildConfig json makes some difference. The artifacts keep published in the pipeline.
+
+Script to calculate today and other versions:
+
+```
+from datetime import date, datetime, timedelta
+
+d0 = date(2000, 1, 1)
+td = date.today()
+
+days = (td - d0).days
+print("version today is", days)
+
+while 1:
+  print("type version")
+  version = input()
+  d1 = d0 + timedelta(days=int(version))
+  print(d1)
+```
+
+## Build Workplace Container
+
+That was OK before and it is okay now, but the thing is: the WorkplaceInstaller.exe generated from Workplace for Windows pipeline is not installing my version.
+
+## Hooks in a package in my branch
+
+Doubt in that part.
+
