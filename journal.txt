@@ -14902,3 +14902,11 @@ That was OK before and it is okay now, but the thing is: the WorkplaceInstaller.
 
 Doubt in that part.
 
+
+= Still trying to install personal version (Build Workplace)
+:date: 2024-01-03
+:tags: tag_venn
+
+Built a local WorkplaceInstaller.exe (I know, I shouldn't do that, is just discovery) and was able to install it to know where the Workplace Component files comes from. From the logs a zip file WorkplaceContainerComponent.zip is downloaded from https://downloads.os33portal.net/clients/windows/component/stable/WorkplaceContainerComponent.zip. Don't know how to change this URI to a personal version that would be https://downloads.os33portal.net/clients/windows/component/stable/WorkplaceContainerComponent.zip, but I am not sure about this because the version in hook DLL details, by example, is from two months before.
+
+Also not sure if this version is kept the same (without updates).
