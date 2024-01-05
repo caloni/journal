@@ -14167,15 +14167,6 @@ I attached WinDbg to Word inside SE and it revealed a possible stack overrun sit
 img/security_check_failure_or_stack_buffer_overrun.png
 
 
-= Múltiplas leituras a respeito do self
-:draft:
-:tags: tag_books tag_self
-
-Estou fazendo um experimento. Tão interessado que estou em entender o self para aprimorá-lo com leituras e releituras de várias fontes distintas que me veio à mente: é este o primeiro tema que devo desenvolver profundamente.
-
-Irei, portanto, rever minhas leituras em paralelo, talvez alguma coisa a mais, e tentarei aumentar a profundidade de um dos meus rascuhos, que ficará por aqui o tempo suficiente até eu ter delineado qual seria um bom roteiro para um texto para este assunto.
-
-
 = Systemic crash
 :date: 2023-12-08
 :tags: tag_venn
@@ -14794,6 +14785,7 @@ Reproduced the bug in Workplace and Demo. In Demo started to get error downloadi
 :link: https://os33corp.atlassian.net/wiki/spaces/DTDLP/pages/2675474891/CheckList+-+TEMPLATE
 :link: https://tfs.os33.net/DefaultCollection/Portal/_build?definitionId=830
 :link: https://downloads.os33dev.net/wcaloni/clients/windows/WorkplaceInstaller.exe
+:link: https://downloads.os33dev.net/wcaloni/clients/windows/component/stable/WorkplaceContainerComponent.zip
 
 There is a checklist to run every time an issue is finished. Just copy the template to a new post linked to the issue, generate a new personal version (instructions in the checklist) and test it. It could be useful also to test new features or analyze bugs.
 
@@ -14907,6 +14899,37 @@ Doubt in that part.
 :date: 2024-01-03
 :tags: tag_venn
 
-Built a local WorkplaceInstaller.exe (I know, I shouldn't do that, is just discovery) and was able to install it to know where the Workplace Component files comes from. From the logs a zip file WorkplaceContainerComponent.zip is downloaded from https://downloads.os33portal.net/clients/windows/component/stable/WorkplaceContainerComponent.zip. Don't know how to change this URI to a personal version that would be https://downloads.os33portal.net/clients/windows/component/stable/WorkplaceContainerComponent.zip, but I am not sure about this because the version in hook DLL details, by example, is from two months before.
+Built a local WorkplaceInstaller.exe (I know, I shouldn't do that, is just discovery) and was able to install it to know where the Workplace Component files comes from. From the logs a zip file WorkplaceContainerComponent.zip is downloaded from https://downloads.os33portal.net/clients/windows/component/stable/WorkplaceContainerComponent.zip. Don't know how to change this URI to a personal version that would be https://downloads.os33dev.net/wcaloni/clients/windows/component/stable/WorkplaceContainerComponent.zip, but I am not sure about this because the version in hook DLL details, by example, is from two months before.
 
 Also not sure if this version is kept the same (without updates).
+
+
+= Trying to link personal version to my WorkplaceHook
+:date: 2024-01-04
+:tags: tag_venn
+
+Now I understood what was going on with the versions. Pipeline build indeed include the build artifacts into s3. Pointed that out into the Confluence doc ("How to deploy personal version").
+
+However, the `WorkplaceHook[32|64].dll` files used to the package come from nuget linked version. Now I am trying to understand how to change that. To generate another version in the Workplace.Container.Hook.Release is not working (kept hanging for 4 hours and I don't think is the right way).
+
+
+= Troubleshooting Workplace
+:date: 2024-01-05
+:tags: tag_venn
+:link: https://os33corp.atlassian.net/wiki/spaces/DTDLP/pages/3461939219/Troubleshooting+Workplace+Secure+Enclave+Windows
+
+Alex Osipov created this page in Confluence with the main actions to solve a Workplace environment that is not working. Could be useful in the future.
+
+
+= Some update from my current tasks (around checklist and pipelines)
+:date: 2024-01-05
+:tags: tag_venn
+
+Downloading issues from browser in Demo vs Workplace. Since I have to run the checklist template for the issue after changing the PR to make it more flexible to add more DDE servers I was involved the last days into generating my personal version for Workplace so I could debug it. I am following the checklist template link about "How to deploy personal version of Container for Windows".
+
+MS Access DDE server. Since I have to run the [checklist template] for the issue after changing the PR to make it more flexible to add more DDE servers I was involved the last days into generating my personal version for Workplace so I could debug it. I am following the checklist template link about "How to deploy personal version of Container for Windows".
+
+The post says to start a pipeline build from my branch but after some issues about more than one pipeline TL;DR I am stuck in how to link a `WorkplaceHook64.dll` (among other files) to a zip package that will be downloaded once I run my personal Workplace installer. I found [a pipeline to build it] but it took more then 4 hours to run and stopped. Looking to the build history it seems this pipeline has some issues to build, taking around 1h to build the native components, hanging into the driver certification.
+
+[a pipeline to build it]: https://tfs.os33.net/DefaultCollection/Portal/_build?definitionId=870
+[checklist template]: https://os33corp.atlassian.net/wiki/spaces/DTDLP/pages/2675474891/CheckList+-+TEMPLATE
