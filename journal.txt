@@ -14784,7 +14784,7 @@ Reproduced the bug in Workplace and Demo. In Demo started to get error downloadi
 :tags: tag_venn
 :link: https://os33corp.atlassian.net/wiki/spaces/DTDLP/pages/2675474891/CheckList+-+TEMPLATE
 :link: https://tfs.os33.net/DefaultCollection/Portal/_build?definitionId=830
-:link: https://downloads.os33dev.net/wcaloni/clients/windows/WorkplaceInstaller.exe
+:link: ttps://downloads.os33dev.net/wcaloni/clients/windows/WorkplaceInstaller.exe
 :link: https://downloads.os33dev.net/wcaloni/clients/windows/component/stable/WorkplaceContainerComponent.zip
 
 There is a checklist to run every time an issue is finished. Just copy the template to a new post linked to the issue, generate a new personal version (instructions in the checklist) and test it. It could be useful also to test new features or analyze bugs.
@@ -14933,3 +14933,13 @@ The post says to start a pipeline build from my branch but after some issues abo
 
 [a pipeline to build it]: https://tfs.os33.net/DefaultCollection/Portal/_build?definitionId=870
 [checklist template]: https://os33corp.atlassian.net/wiki/spaces/DTDLP/pages/2675474891/CheckList+-+TEMPLATE
+
+
+= Finishing DynamicDataExchangeRedirection feature
+:date: 2024-01-06
+:tags: tag_venn
+
+After successfully generate new Workplace.Hook nuget package I could generate a new WorkplaceComponents.zip package downloaded by my personal installer. This way I renamed the MsAccess feature flag to be generic enough to add new DDE servers in the future and made some tests:
+
+https://support.os33.link/v/A9oiEs
+
