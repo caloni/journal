@@ -14784,7 +14784,7 @@ Reproduced the bug in Workplace and Demo. In Demo started to get error downloadi
 :tags: tag_venn
 :link: https://os33corp.atlassian.net/wiki/spaces/DTDLP/pages/2675474891/CheckList+-+TEMPLATE
 :link: https://tfs.os33.net/DefaultCollection/Portal/_build?definitionId=830
-:link: ttps://downloads.os33dev.net/wcaloni/clients/windows/WorkplaceInstaller.exe
+:link: https://downloads.os33dev.net/wcaloni/clients/windows/WorkplaceInstaller.exe
 :link: https://downloads.os33dev.net/wcaloni/clients/windows/component/stable/WorkplaceContainerComponent.zip
 
 There is a checklist to run every time an issue is finished. Just copy the template to a new post linked to the issue, generate a new personal version (instructions in the checklist) and test it. It could be useful also to test new features or analyze bugs.
@@ -14942,4 +14942,15 @@ The post says to start a pipeline build from my branch but after some issues abo
 After successfully generate new Workplace.Hook nuget package I could generate a new WorkplaceComponents.zip package downloaded by my personal installer. This way I renamed the MsAccess feature flag to be generic enough to add new DDE servers in the future and made some tests:
 
 https://support.os33.link/v/A9oiEs
+
+
+= Running antiscreen-capture POC
+:date: 2024-01-08
+:tags: tag_venn
+
+Since I am unable to login with checklist user today I am focusing in compiling and running Zhenhua Yang POC where in a duplicated desktop apps with "_se" suffix in the process image name are not shown. The solution is based on some hooks with hardcoded offsets for specific versions for Win10 and Win11 (both x64) and involve a driver to capture the windup process info and manipulate what is called `HasProtectedContent` and it is located inside `Dwmcore.dll`.
+
+After start the driver and inject the DLL to `dwm.exe` process using Process Hacker I started the windup application and it duplicates (duh) the desktop inside its window. Running `hello8.exe` test it exibits its window as supposed to, but running a renamed image to `hello8_se.exe` it does not, only a black window shows, with the client area protected.
+
+antiscreen_poc_working.png
 
