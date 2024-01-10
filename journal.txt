@@ -4729,8 +4729,11 @@ After restarting W4W the value `Caloni2` is set again in the registry, indicatin
 Either case I now have to do some research about how this part of Workplace works (my next step).
  
  
-= How installation and update for the dev work?
+= Nonsigned installer for Workplace
 :date: 2023-06-22
+:link: https://downloads.os33dev.net/non-signed/clients/windows/WorkplaceInstaller.exe
+:link: https://tfs.os33.net/DefaultCollection/Portal/_build?definitionId=634
+:repost: 2024-01-09
 :tags: tag_venn
  
 Trying to figure out how installation and update for the dev work, mainly because the lastest version currently has some issues about loading or login, I saved [the thread](https://vennetians.slack.com/archives/CQJL2C4BF/p1686818603199649) where Ivan Sizov tell about the tool WorkplaceCopier.
@@ -4739,7 +4742,10 @@ Usually the issues about using dev version from the components is when you have 
 
 WorkplaceCopier copies unsigned files to the program files and reinstalls the container. So everything becomes unsigned and works well. Demo won't do that, because it just installs/uninstalls the container but not the w4w. WorkplaceCopier copies w4w files to program files then pulls sources for the container, build them then run Demo to install container.
 
-However, now there is a [nonsigned installer for Workplace](https://downloads.os33dev.net/non-signed/clients/windows/WorkplaceInstaller.exe) that keeps the Updater nonsigned able to keep dev versions. I am using this version to try to setup the VM and debug the registry manipulation.
+However, now there is a nonsigned installer for Workplace that keeps the Updater nonsigned able to keep dev versions. I am using this version to try to setup the VM and debug the registry manipulation.
+
+PS: There is also a pipeline to build a nonsigned version.
+
  
 = How not to reproduce the bug
 :date: 2023-06-22
@@ -14954,3 +14960,56 @@ After start the driver and inject the DLL to `dwm.exe` process using Process Hac
 
 antiscreen_poc_working.png
 
+
+= Issue resolution order
+:date: 2024-01-09
+:tags: tag_venn
+
+Asked Aleksey Kozlov about the the order for complete an issue:
+
+ - Fix/change the code (test locally);
+ - Submit a pull request and wait for approval;
+ - Generate personal version and run checklist;
+ - Merge branch to master;
+ - Change issue status Ready for testing.
+
+Obs: If changes applied to hooks/drivers first build the package and update reference in your branch.
+
+
+= File explorer update issues
+:date: 2024-01-09
+:tags: tag_venn
+
+## Possible related issues (need to check)
+
+Following are the lastest occurrences that could be related to the refresh issue (linked to my issue).
+
+Dark theme in Windows 11 appeared light in toolbar in explorer inside SE. If switching from light to dark while the window is opened the toolbar turns to black normally.
+
+Threads in Slack (linked in issue).
+
+
+= Windows 11 New Folder operation does not refresh even doing it in the same window.
+:date: 2024-01-09
+:tags: tag_venn
+
+Pointed ou by Aleksey Kozlov, the [PR 25480] from ROADMAP-67750 fixed messages exchange between outside and inside SE processes that needed to communicate `SHChangeNotifyRegister` events using global memory from outside SE process. This PR starts to select some privileged processes, starting with explorer.exe. Currently [there are other processes in this list].
+
+It was observed by Oleh Yatskiv in the comments that the error occurs because of access to shared memory passed using SHChangeNotifyRegister function.
+
+> (copied from issue)
+
+To see if this bug got back I made two tests based on if the process generating a file system event is a privileged one or not. To do that I opened Windows Explorer windows from inside and outside SE, but I also opened explorer windows managed by the shell but opened into another process. To do that I select the option "Save page as..." from edge.exe, inside and outside SE.
+
+The first test, related to the original fix, was to create and delete a folder with all those four windows opened in the Pictures folder and see which one update its content. The operations was made outside SE folder. The one that did not was the explorer window opened inside SE from edge.exe.
+
+https://support.os33.link/v/T4wrDS
+
+A second test was made with an inside SE folder as focus in two explorer.exe instances and a shell window in edge. Since only inside SE processes can view this folder I don't think this is the same case from the shared memory issue. Besides, the process that created/deleted a folder itself did not refresh. In some cases other process is updated but not the event generator. And no event was updated in the edge.exe window.
+
+https://support.os33.link/v/ZGQWg0
+
+The easiest one to debug seems to be where edge.exe (or another app potentially) or explorer.exe make the operation itself and do not update.
+
+[PR 25480]: https://tfs.os33.net/DefaultCollection/Portal/_git/Workplace.Container.Windows/pullrequest/25480?_a=files
+[there are other processes in this list]: https://tfs.os33.net/DefaultCollection/Portal/_git/Workplace.Container.Windows?path=/Workplace.Container.Driver/WorkplaceContainerDriver/ProcessesManager.cpp&version=GBmaster&line=426&lineEnd=427&lineStartColumn=1&lineEndColumn=1&lineStyle=plain&_a=contents
