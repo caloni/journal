@@ -14793,7 +14793,31 @@ Reproduced the bug in Workplace and Demo. In Demo started to get error downloadi
 :link: https://downloads.os33dev.net/wcaloni/clients/windows/WorkplaceInstaller.exe
 :link: https://downloads.os33dev.net/wcaloni/clients/windows/component/stable/WorkplaceContainerComponent.zip
 
-There is a checklist to run every time an issue is finished. Just copy the template to a new post linked to the issue, generate a new personal version (instructions in the checklist) and test it. It could be useful also to test new features or analyze bugs.
+There is a checklist to run every time an issue is finished. Just copy the template to a new post linked to the issue, generate a new personal version (instructions in the checklist) and test it. It could be useful also to test new features or analyze bugs. Here comes some useful links:
+
+ - Chrome should be logged-in to www.os33dev.com
+ - Check IP adddress using http://ipinfo.io
+ - Download file from https://downloads.os33dev.net/asedunov/dlp.docx
+ - Type https://us02web.zoom.us and Ctrl+Click the link
+
+## Script to check uninstall
+
+```
+dir /b "%ProgramFiles(x86)%\Workplace"
+dir /b "%ProgramData%\Workplace"
+dir /b "%UserProfile%\AppData\Local\Workplace"
+dir /b "%UserProfile%\AppData\Roaming\Workplace"
+
+reg query HKLM\SYSTEM\CurrentControlSet\Services\WorkplaceContainerAOD
+reg query HKLM\SYSTEM\CurrentControlSet\Services\WorkplaceContainerDriver
+reg query HKLM\SYSTEM\CurrentControlSet\Services | find "Workplace"
+
+reg query "HKLM\SOFTWARE\OS33 Inc"
+reg query "HKLM\SOFTWARE\WOW6432Node\OS33 Inc"
+reg query "HKCU\SOFTWARE\OS33 Inc"
+
+pause
+```
 
 
 = Setting to receive all notifications
