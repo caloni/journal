@@ -4733,6 +4733,7 @@ Either case I now have to do some research about how this part of Workplace work
 :date: 2023-06-22
 :link: https://downloads.os33dev.net/non-signed/clients/windows/WorkplaceInstaller.exe
 :link: https://tfs.os33.net/DefaultCollection/Portal/_build?definitionId=634
+:link: https://tfs.os33.net/DefaultCollection/Portal/_git/OS33.Workplace.DevTools?path=%2FWorkplaceCopier
 :repost: 2024-01-09
 :tags: tag_venn
  
@@ -15037,3 +15038,41 @@ The easiest one to debug seems to be where edge.exe (or another app potentially)
 
 [PR 25480]: https://tfs.os33.net/DefaultCollection/Portal/_git/Workplace.Container.Windows/pullrequest/25480?_a=files
 [there are other processes in this list]: https://tfs.os33.net/DefaultCollection/Portal/_git/Workplace.Container.Windows?path=/Workplace.Container.Driver/WorkplaceContainerDriver/ProcessesManager.cpp&version=GBmaster&line=426&lineEnd=427&lineStartColumn=1&lineEndColumn=1&lineStyle=plain&_a=contents
+
+
+= Downloading versions from several channels
+:date: 2024-01-11
+:link: https://downloads.os33portal.net/clients/versions.html
+:link: https://downloads.os33portal.net/clients/windows/WorkplaceInstaller.exe
+:tags: tag_venn
+
+We have this page where you can see which version is deployed to some channel. On this page you can download WorkplaceComponent.zip (by click a small button near version number).
+
+ 1. Uninstall old version from computer
+ 2. Restart your computer
+ 3. Manually create folder c:\ProgramData\Workplace\
+ 4. Put downloaded from needed channel WorkplaceComponent.zip (don't change the name of archive)
+ 5. Launch installer (you can download it by link)
+ Result: Workplace will be installed from this zip archive
+
+
+= Trying to test Workplace rollback and compare versions
+:date: 2024-01-11
+:tags: tag_venn
+
+Steps to install Workplace from stable channel:
+
+[Downloading versions from several channels]
+
+Following the steps to install Workplace from stable channel the bug did not occur. However, my prod user is with `ContainerProtectionEnabled = False` and in my tests this disable does not generate the error.
+
+Tried to install dev and nonsigned versions, but as expected it keeps updating with the lastest version from some channel and to change WorkplaceHook64.dll in the middle is not enough because there are driver changes as well. Besides, the first explorer.exe to be started is with the updated DLL from channel.
+
+So I got back to the download issue in browser and started to rollback Demo version until this issue does not exists anymore. I started with the original issue 8747, same error, and got back to 8725, the stable version (using tag dev-1.0.8725.2108), but I couldn't verify the outcome yet because the sessions kept giving the error "WorkplaceContainerServiceException: Workplace Container has been terminated during waiting for session confirmation" for about one hour (this happens sometimes).
+
+
+= Zing!
+:date: 2024-01-11
+:tags: tag_self
+
+Assim como a autora de "Salt, Fat, Acid and Heat" fala sobre colocar sal até sentir o "Zing!", quando a comida fica no seu estado ótimo, entrar no flow também envolve começar a fazer o que se deve fazer até ouvir um "Zing!" no seu cérebro, te avisando que isso é o que você deveria estar fazendo acima de tudo. Isto é o que dá sentido à vida. Nada mais importa. Isto é o [The ONE thing] do momento. Tudo fora do que se está fazendo atrapalha e deve ser removido.
