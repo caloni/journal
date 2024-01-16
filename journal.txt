@@ -15076,3 +15076,53 @@ So I got back to the download issue in browser and started to rollback Demo vers
 :tags: tag_self
 
 Assim como a autora de "Salt, Fat, Acid and Heat" fala sobre colocar sal até sentir o "Zing!", quando a comida fica no seu estado ótimo, entrar no flow também envolve começar a fazer o que se deve fazer até ouvir um "Zing!" no seu cérebro, te avisando que isso é o que você deveria estar fazendo acima de tudo. Isto é o que dá sentido à vida. Nada mais importa. Isto é o [The ONE thing] do momento. Tudo fora do que se está fazendo atrapalha e deve ser removido.
+
+
+= Old Demo
+:date: 2024-01-15
+:tags: tag_venn
+
+Trying to test a very older version from Demo (Jan 12 2023, tag dev-1.0.8413.2122) and got some errors related to demo and container connection. Compiled and debugged the common API until I stopped into an error starting Workplace Container when trying to connect to gateway service:
+
+```
+2024-01-13 16:21:08.093 - [INFO] - [0:5684:15] - Creating gateway connection
+2024-01-13 16:21:08.203 - [TRAC] - [0:5684:15] - [Start watch]  - EstablishGatewayServerConnection
+
+2024-01-13 16:31:28.268 - [ERRO] - [0:8932:14] - Configure container session error by [ec4c1b8d-5be3-4331-bf01-c905614d3b98]
+  Exception: System.InvalidOperationException: An invalid request URI was provided. The request URI must either be an absolute URI or BaseAddress must be set.
+```
+
+Aleksey said maybe one year is older than necessary. Keep it to six months.
+
+
+= My explorer outside SE can see now drive v
+:date: 2024-01-15
+:tags: tag_venn
+
+I asked for help and it seems that there is a policy for all users that do that (Do not allow data to be saved or moved out of Venn).
+
+when_explorer_outside_se_can_see_drive_v.png
+
+
+= Reproduced the bug... but only in Win11
+:date: 2024-01-15
+:tags: tag_venn
+
+Tested with new installation and seems OK. However, I tested in a previous version and I saw the bug reproduced. So I make all feature flags equal to last diags log, but at the time I could run a new test the version was already updated to container 1.0.8780.31061.
+
+Win10 x64
+Workplace for Windows: 4.0.8767.29998
+Container: 1.0.8780.31061
+
+https://support.os33.link/v/BwF2Ax
+
+workplace-diagnostics-4.0.8767.29998-20240115-220714.zip
+
+## PS
+
+Tested on Win11 also and... here is the bug again: https://support.os33.link/v/H30B8O (identical feature flags).
+
+Workplace for Windows: 4.0.8781.217
+Container: 1.0.8781.2128
+
+workplace-diagnostics-4.0.8781.217-20240115-223900.zip
