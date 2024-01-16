@@ -15126,3 +15126,14 @@ Workplace for Windows: 4.0.8781.217
 Container: 1.0.8781.2128
 
 workplace-diagnostics-4.0.8781.217-20240115-223900.zip
+
+
+= Older than fix WorkplaceHook64
+:date: 2024-01-16
+:tags: tag_venn
+
+After replacing only `WorkplaceHook64.dll` from dev installer for the local debugging I realized that the release version is older than the fix (from day 8749). That is why it is not working and why during some tests it is working.
+
+workplace_version_vs_hook_version.png
+
+Looking to the master history I saw that the hook package was updated by mistake by Egor Yuzik. Reverting this change to fix the issue in the next version.
