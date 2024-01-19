@@ -15137,3 +15137,39 @@ After replacing only `WorkplaceHook64.dll` from dev installer for the local debu
 workplace_version_vs_hook_version.png
 
 Looking to the master history I saw that the hook package was updated by mistake by Egor Yuzik. Reverting this change to fix the issue in the next version.
+
+
+= Script to mark all comments are resolved in PR
+:date: 2024-01-17
+:tags: tag_venn
+
+This is wrong, but currently there are a lot of comments from Sonar nonrelated to the code itself. It is related to deleted files. Something is broken.
+
+Gabriel-Marian Cristei wrote this script to mark all comments are resolved:
+
+```
+var buttons = document.getElementsByClassName('bolt-button');
+for (var entry of buttons) {
+  if (entry.innerText == 'Resolve') {
+    entry.click();
+  }
+}
+```
+
+
+= Trying to investigate update explorer from scratch
+:date: 2024-01-18
+:tags: tag_venn
+
+I am taking two steps back and try again to reproduce the exact issue about downloading files in Workplace. Below are videos testing the config with exact feature flags from original issue, including ContainerProtectionEnabled = False. Spoiler: the explorer updates after the download.
+
+https://support.os33.link/v/wv3P2d
+
+https://support.os33.link/v/gBLTkl
+
+Now the same tests except that the config was changed now to ContainerProtectionEnabled = True. Spoiler: the explorer updates after the download.
+
+https://support.os33.link/v/QIamHn
+
+https://support.os33.link/v/BRScQi
+
