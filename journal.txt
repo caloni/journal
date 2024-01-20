@@ -15173,3 +15173,57 @@ https://support.os33.link/v/QIamHn
 
 https://support.os33.link/v/BRScQi
 
+
+= Collected four minidumps from BSOD when exiting Valorant
+:date: 2024-01-20
+:tags: tag_debugging
+
+Hi. Collected four minidumps from BSOD your driver caused to the same computer when exiting Valorant.
+
+The driver from Thu Nov 10 17:23:40 2022 (636D5DCC) caused BSOD twice: Jan 17 2023 and Feb 24 2023. The cause: freeing memory in the wrong IRQL. Here is one stack:
+
+nt!ExFreeHeapPool+0x124
+nt!ExFreePool+0x9
+vgk+0x177785
+
+You updated this driver with a Nov 27 22:21:25 2023 (65654095) version that caused BSOD also twice: Dec 28 2023 and Jan 19 2024. Cause: freeing memory in the wrong IRQL:
+
+nt!KiPageFault+0x463
+nt!ExFreeHeapPool+0x124
+nt!ExFreePool+0x9
+vgk+0x1ff303
+
+I noticed the cause for the four BSODs are the same, but the location in the code is different, what gives me a clue that perhaps you guys don't know how to free memory in a call originated in the userland. The IRQL the drivers was when trying to free the memory was DISPATCH_LEVEL, but perhaps the memory is paged (or worst, invalid).
+
+If the case if paged memory the solution is simple: schedule an APC to free this memory. If the memory is invalid the solution is even simpler: take a look in what memory is being freed when Valorant or other games are exiting.
+
+
+= Found different bug
+:date: 2024-01-20
+:tags: tag_venn
+
+## Original bug (downloading file) NOT reproducible
+
+Since the bug is not reproducible I tested with working versions from some days ago (Jan 11) and it is not reproducible either. What I found it was related to the original bug it seems to be another bug, related to explorer update, but not related to downloading files from browser. It turned out the original bug was never reproduced in my environment.
+
+### Another bug (creating/deleting file/folder) reproducible
+
+When ContainerProtectionEnabled = True and creating a new folder in the Save As dialog from Edge the folder is created but is not shown in the same dialog, despite being shown in the SE File Manager window. Only after refresh the Save As window the folder is shown normally. The same occurs deleting files and folders. But notice that this temporary file created by the browser is shown in the SE File Manager before saving the image, but it remains after. Only after a refresh it is not shown anymore.
+
+https://support.os33.link/v/WX4gve
+
+When ContainerProtectionEnabled = False and creating a new folder in the Save As dialog from Edge the folder is updated both in the same dialog and in SE File Manager. Also the temporary file created by the browser when downloading a file is still occurring, but always in the Workplace Drive (folder Secure Downloads).
+
+https://support.os33.link/v/RpabYG
+
+The conclusion is that the lack of update when creating/deleting a new folder/file only occurs when ContainerProtectionEnabled = True and only in the shell window from another process (in this case Edge). The temporary file issue occurs always, independently from this feature flag.
+
+#### Observation about downloading error in Demo
+
+Testing with newest version I could reproduce the download error that was happening only in Demo. To do that I first made a image download from SE Edge inside V:\Downloads. After that I tried to download another image but inside Workplace Drive, Secure Downloads. Worth noticing that before doing that I cleaned up this folder and it had a folder, a temporary file used by browsers (the one with a hash in it) and a download.jpg file, the exact name of the file I was trying to download. That was the one that give me downloading error.
+
+I tried another download after that in the same folder and it succeeded, with the same name (different image).
+
+downloading_error_inside_workplace.png
+
+workplace-diagnostics-4.0.8783.36860-20240119-140941.zip
