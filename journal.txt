@@ -15227,3 +15227,42 @@ I tried another download after that in the same folder and it succeeded, with th
 downloading_error_inside_workplace.png
 
 workplace-diagnostics-4.0.8783.36860-20240119-140941.zip
+
+
+= Treating Zoom as MsAccess
+:date: 2024-01-23
+:tags: tag_venn
+
+Tested using the DynamicDataExchangeRedirection implementation including some Atom's added in zoom.exe and see what happens. Two looked promising: Zoom_WndPropThis and ZOOMIMWND. When redirecting both zoom crashed, but when redirecting ZOOMIMWND the zoom link clicked starting to activate only the SE instance. What is odd, because even outside SE edge activated inside SE zoom with ZOOMIMWND_Workplace Atom name instead of the original ZOOMIMWND.
+
+
+= How Zoom URL activation works
+:date: 2024-01-23
+:tags: tag_venn
+
+1. The link:
+
+ - https://us05web.zoom.us/j/85463108282?pwd=NY0F8baGr3lsFfkwJFV1UDPVqPk5bd.1
+
+2. Open the browser that opens the link:
+
+zoommtg://us05web.zoom.us/join?action=join&confno=85463108282&pwd=NY0F8baGr3lsFfkwJFV1UDPVqPk5bd.1&confid=dXRpZD1VVElEX2UyYzc2Yzk5Mzk2MDQyMjNhY2MwNmIwYTMwZDk4MDhjJnVzcz04Q0JnZG1Famg5X1lBX0JseVdRS3haSWk2aWpGUzR5NlRSRU5zT3BwMlpyV1k1dFhlZ2YtdU44SFFwZnVmNGhFMG5FZFdJTFVZbTNHM0hRNHRpUGY2MlJ2M0JMb1g4Zy5SUkpPZjhfUnhkUjBGaXhCJnRpZD04Y2ZhYzZiZTg5YjM0MzRlOGM1YzVkOTk5ZjZmMGNiMA%3D%3D&browser=chrome
+
+3. That reads some of these registry keys:
+
+ - HKEY_CLASSES_ROOT\ZoomLauncher\shell\open\command
+ - HKEY_CLASSES_ROOT\zoommtg
+
+4. Where is the command:
+
+"C:\Users\caloni\AppData\Roaming\Zoom\bin\Zoom.exe" "--url=%1"
+
+5. So if you run the command:
+
+"C:\Users\caloni\AppData\Roaming\Zoom\bin\Zoom.exe" "--url=zoommtg://us05web.zoom.us/join?action=join&confno=85463108282&pwd=NY0F8baGr3lsFfkwJFV1UDPVqPk5bd.1&confid=dXRpZD1VVElEX2UyYzc2Yzk5Mzk2MDQyMjNhY2MwNmIwYTMwZDk4MDhjJnVzcz04Q0JnZG1Famg5X1lBX0JseVdRS3haSWk2aWpGUzR5NlRSRU5zT3BwMlpyV1k1dFhlZ2YtdU44SFFwZnVmNGhFMG5FZFdJTFVZbTNHM0hRNHRpUGY2MlJ2M0JMb1g4Zy5SUkpPZjhfUnhkUjBGaXhCJnRpZD04Y2ZhYzZiZTg5YjM0MzRlOGM1YzVkOTk5ZjZmMGNiMA%3D%3D&browser=chrome"
+
+It will be pretty much what clicking in the original link does.
+
+The fact is that my tests before, as if edge/chrome would activated some DDE server, were pointless. What happens in the case of Zoom is that the last instance gets all links. If the last one was SE Zoom it will get even outside SE Zoom instances starting with the `--url` parameter above. If the last one was outside SE Zoom vice-versa.
+
+What this `zoom.exe --url=zoommtg://...` does? I think answering this question makes easy to separate both activations (inside vs outside SE). If it is a DDE server case (I am not so confident now).
