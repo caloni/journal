@@ -15266,3 +15266,44 @@ It will be pretty much what clicking in the original link does.
 The fact is that my tests before, as if edge/chrome would activated some DDE server, were pointless. What happens in the case of Zoom is that the last instance gets all links. If the last one was SE Zoom it will get even outside SE Zoom instances starting with the `--url` parameter above. If the last one was outside SE Zoom vice-versa.
 
 What this `zoom.exe --url=zoommtg://...` does? I think answering this question makes easy to separate both activations (inside vs outside SE). If it is a DDE server case (I am not so confident now).
+
+
+= Zoom and its windows and classes
+:date: 2024-01-24
+:tags: tag_venn
+
+Testing protections DDE redirect (MS Access) and MessageWindowProtection with more logs from RegisterClasse, CreateWindow and GlobalAddAtom to identify what are the windows or DDE server responsible for receiving some message from the zoom instance with the `-url` parameter.
+
+zoom_windows_classes_names.txt
+
+Tried to redirect these with no success:
+
+ - ZPMeetingInfoClass
+ - ZPPTMainFrmWndClassEx
+ - ZPReactionAwarenessWndClass
+ - ZoomLauncher3rdSdk_HostWindow
+ - ZoomPTApp_HostWindow
+ - ZoomPTApp_ZZHOST_HostWindow
+ - zoom_acc_notify_wnd
+ - zoom_pt_acc_notify_wnd
+
+### Zoom_WndPropThis
+
+There is a Atom created by Zoom several times, Zoom_WndPropThis. Redirecting this one is what causes `zoom.exe -url` stopped activating the running instance, besides `zoom.exe -url` haven't used this atom. The logic behind `zoom.exe -url` is the same regardless running with redirection or without any redirection (just logging). It calls FindWindow for ZoomPTApp_HostWindow and start to unregister the classes registered before and exits.
+
+### COM single apartment?
+
+Zoom with `url` also uses the OleMainThreadWndClass class, so it is possible some COM communication. Another TODO, but COM could be anything, not just the instance activation.
+
+
+= Maybe the V drive is the problem
+:date: 2024-01-24
+:tags: tag_venn
+
+Testing with RCohle.dlp user in Win11 the bug was reproducible to me, but only inside V:\Downloads folder (and subfolders). I tested in Workplace Drive, Secure Downloads, and the downloaded file is update in File Manager successfully.
+
+Now I tested with my user downloading files into V:\Downloads and the bug also happens, so could be not the user settings, but the folder used to download.
+
+Made a lot of tests with both users and different configurations of folder (in V drive and Workplace Drive) and using my user there are ocasions where the refresh works, but after some time navigating and trying another folders the refresh stop working, even in folders where worked in the first place.
+
+So that seems a problem that do not occurs everytime but occurs a lot. But once it is working to a folder it keeps working for several files (if you do not change folders).
