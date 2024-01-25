@@ -15307,3 +15307,17 @@ Now I tested with my user downloading files into V:\Downloads and the bug also h
 Made a lot of tests with both users and different configurations of folder (in V drive and Workplace Drive) and using my user there are ocasions where the refresh works, but after some time navigating and trying another folders the refresh stop working, even in folders where worked in the first place.
 
 So that seems a problem that do not occurs everytime but occurs a lot. But once it is working to a folder it keeps working for several files (if you do not change folders).
+
+
+= Bug inserted in plugged USB fix
+:date: 2024-01-25
+:link: https://tfs.os33.net/DefaultCollection/Portal/_git/Workplace.Container.Windows/commit/a103ac73e60c439f66deef25214d2e9cb9efacbf?refName=refs%2Fheads%2Fmaster&_a=compare&path=%2FWorkplace.Container.Hook%2FWorkplace.Container.Hook.Lib%2FShellChangeNotifyProtection.cpp
+:tags: tag_venn
+
+Now that the bug is reproducible (again) in my machine I could trace the recent change that created this new bug. This happened after the fix to get media add and remove events in ROADMAP-70496. This change took place more than once in git history, including a revert. The key change is that by allowing every media add and remove shell notification subscribe flags to be duplicated inside SE besides containing the iconic SHCNE_RMDIR event (it is used in the code for other ifs) explorer began to refresh when a media is added or removed, but it avoids downloaded files events to be captured.
+
+I logged a more verbose lines for the events being subscribed (duplicated or not) and we could see that there is a lot of it. Maybe we are getting some event starvation or override in subscribing to too many events, and that was a coincidence to stop getting this particular event.
+
+shchangenotifyregister.txt
+
+Made some tests trying to capture both of events related to this change (media and download), but still without success. The fact is that we don't seem to put some effort to organize this part because shell subscribe API is complex and detailed (it has even two endpoints in API!).
