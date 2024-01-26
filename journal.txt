@@ -15321,3 +15321,102 @@ I logged a more verbose lines for the events being subscribed (duplicated or not
 shchangenotifyregister.txt
 
 Made some tests trying to capture both of events related to this change (media and download), but still without success. The fact is that we don't seem to put some effort to organize this part because shell subscribe API is complex and detailed (it has even two endpoints in API!).
+
+
+= Monitoring what notifiers are duplicated in both versions (download and usb bugs)
+:date: 2024-01-26
+:tags: tag_venn
+
+Observable SHChangeNotifyRegister calls in Windows 11 when navigating to `My PC` (drives view) and `V:\Downloads`:
+Shell32 DELETE RMDIR MEDIAREMOVED DRIVEREMOVED UPDATEDIR SERVERDISCONNECT
+Shell32 MKDIR RMDIR ATTRIBUTES UPDATEDIR RENAMEFOLDER
+Shell32 MKDIR RMDIR UPDATEDIR RENAMEFOLDER
+Shell32 RENAMEITEM CREATE DELETE MKDIR RMDIR MEDIAINSERTED MEDIAREMOVED DRIVEREMOVED DRIVEADD NETSHARE NETUNSHARE UPDATEDIR UPDATEITEM UPDATEIMAGE RENAMEFOLDER EXTENDED_EVENT ASSOCCHANGED
+Shell32 RENAMEITEM DELETE RMDIR MEDIAINSERTED MEDIAREMOVED DRIVEREMOVED DRIVEADD NETUNSHARE UPDATEDIR UPDATEITEM SERVERDISCONNECT UPDATEIMAGE DRIVEADDGUI RENAMEFOLDER EXTENDED_EVENT
+Shell32 UPDATEIMAGE
+Shell32 UPDATEIMAGE ASSOCCHANGED
+WindowsStorage RENAMEITEM CREATE DELETE MKDIR RMDIR MEDIAINSERTED MEDIAREMOVED DRIVEREMOVED DRIVEADD NETSHARE NETUNSHARE UPDATEDIR UPDATEITEM UPDATEIMAGE RENAMEFOLDER FREESPACE EXTENDED_EVENT
+WindowsStorage RENAMEITEM CREATE DELETE MKDIR RMDIR MEDIAREMOVED NETSHARE NETUNSHARE ATTRIBUTES UPDATEDIR UPDATEITEM UPDATEIMAGE RENAMEFOLDER EXTENDED_EVENT ASSOCCHANGED
+
+Version with download bug (and working usb):
+DuplicateIfNeed = true: MEDIAINSERTED || MEDIAREMOVED
+Shell32 DELETE RMDIR MEDIAREMOVED DRIVEREMOVED UPDATEDIR SERVERDISCONNECT
+Shell32 RENAMEITEM DELETE RMDIR MEDIAINSERTED MEDIAREMOVED DRIVEREMOVED DRIVEADD NETUNSHARE UPDATEDIR UPDATEITEM SERVERDISCONNECT UPDATEIMAGE DRIVEADDGUI RENAMEFOLDER EXTENDED_EVENT
+Shell32 RENAMEITEM CREATE DELETE MKDIR RMDIR MEDIAINSERTED MEDIAREMOVED DRIVEREMOVED DRIVEADD NETSHARE NETUNSHARE UPDATEDIR UPDATEITEM UPDATEIMAGE RENAMEFOLDER EXTENDED_EVENT ASSOCCHANGED
+WindowsStorage RENAMEITEM CREATE DELETE MKDIR RMDIR MEDIAINSERTED MEDIAREMOVED DRIVEREMOVED DRIVEADD NETSHARE NETUNSHARE UPDATEDIR UPDATEITEM UPDATEIMAGE RENAMEFOLDER FREESPACE EXTENDED_EVENT
+WindowsStorage RENAMEITEM CREATE DELETE MKDIR RMDIR MEDIAREMOVED NETSHARE NETUNSHARE ATTRIBUTES UPDATEDIR UPDATEITEM UPDATEIMAGE RENAMEFOLDER EXTENDED_EVENT ASSOCCHANGED
+
+Version with usb bug (and working download):
+nothing
+
+Version with only windowsstorage:
+WindowsStorage DuplicateIfNeed = true: MEDIAINSERTED || MEDIAREMOVED
+WindowsStorage RENAMEITEM CREATE DELETE MKDIR RMDIR MEDIAINSERTED MEDIAREMOVED DRIVEREMOVED DRIVEADD NETSHARE NETUNSHARE UPDATEDIR UPDATEITEM UPDATEIMAGE RENAMEFOLDER FREESPACE EXTENDED_EVENT
+WindowsStorage RENAMEITEM CREATE DELETE MKDIR RMDIR MEDIAREMOVED NETSHARE NETUNSHARE ATTRIBUTES UPDATEDIR UPDATEITEM UPDATEIMAGE RENAMEFOLDER EXTENDED_EVENT ASSOCCHANGED
+
+Version with only windowsstorage and with mediainserted && mediaremoved:
+WindowsStorage DuplicateIfNeed = true: MEDIAINSERTED && MEDIAREMOVED
+WindowsStorage RENAMEITEM CREATE DELETE MKDIR RMDIR MEDIAINSERTED MEDIAREMOVED DRIVEREMOVED DRIVEADD NETSHARE NETUNSHARE UPDATEDIR UPDATEITEM UPDATEIMAGE RENAMEFOLDER FREESPACE EXTENDED_EVENT
+
+Version with only windowsstorage and with mediainserted && mediaremoved and duplicate only these events:
+WindowsStorage DuplicateIfNeed = true: MEDIAINSERTED && MEDIAREMOVED
+WindowsStorage MEDIAINSERTED MEDIAREMOVED
+
+Version with only shell32 and with mediainserted && mediaremoved and duplicate only these events:
+Shell32 DuplicateIfNeed = true: MEDIAINSERTED && MEDIAREMOVED
+Shell32 MEDIAINSERTED MEDIAREMOVED
+
+Sounds as a DuplicateSHChangeNotifyRegister issue. Always that it is used download refresh failed, but when used fix USB add/remove refresh. However, since there are driver changes together could be something related to explorer process rights (I dunno why this should make a difference, though).
+
+### Function to log every operation (not going to put into a branch)
+
+```
+std::wstring SHChangeNotifyEventToString(LONG events)
+{
+    std::wstring eventsStr;
+    if (events & SHCNE_RENAMEITEM)
+        eventsStr += L" SHCNE_RENAMEITEM";
+    if (events & SHCNE_CREATE)
+        eventsStr += L" SHCNE_CREATE";
+    if (events & SHCNE_DELETE)
+        eventsStr += L" SHCNE_DELETE";
+    if (events & SHCNE_MKDIR)
+        eventsStr += L" SHCNE_MKDIR";
+    if (events & SHCNE_RMDIR)
+        eventsStr += L" SHCNE_RMDIR";
+    if (events & SHCNE_MEDIAINSERTED)
+        eventsStr += L" SHCNE_MEDIAINSERTED";
+    if (events & SHCNE_MEDIAREMOVED)
+        eventsStr += L" SHCNE_MEDIAREMOVED";
+    if (events & SHCNE_DRIVEREMOVED)
+        eventsStr += L" SHCNE_DRIVEREMOVED";
+    if (events & SHCNE_DRIVEADD)
+        eventsStr += L" SHCNE_DRIVEADD";
+    if (events & SHCNE_NETSHARE)
+        eventsStr += L" SHCNE_NETSHARE";
+    if (events & SHCNE_NETUNSHARE)
+        eventsStr += L" SHCNE_NETUNSHARE";
+    if (events & SHCNE_ATTRIBUTES)
+        eventsStr += L" SHCNE_ATTRIBUTES";
+    if (events & SHCNE_UPDATEDIR)
+        eventsStr += L" SHCNE_UPDATEDIR";
+    if (events & SHCNE_UPDATEITEM)
+        eventsStr += L" SHCNE_UPDATEITEM";
+    if (events & SHCNE_SERVERDISCONNECT)
+        eventsStr += L" SHCNE_SERVERDISCONNECT";
+    if (events & SHCNE_UPDATEIMAGE)
+        eventsStr += L" SHCNE_UPDATEIMAGE";
+    if (events & SHCNE_DRIVEADDGUI)
+        eventsStr += L" SHCNE_DRIVEADDGUI";
+    if (events & SHCNE_RENAMEFOLDER)
+        eventsStr += L" SHCNE_RENAMEFOLDER";
+    if (events & SHCNE_FREESPACE)
+        eventsStr += L" SHCNE_FREESPACE";
+    if (events & SHCNE_EXTENDED_EVENT)
+        eventsStr += L" SHCNE_EXTENDED_EVENT";
+    if (events & SHCNE_ASSOCCHANGED)
+        eventsStr += L" SHCNE_ASSOCCHANGED";
+    return eventsStr;
+}
+```
+
