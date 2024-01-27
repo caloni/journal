@@ -14125,8 +14125,8 @@ There is this loop where Word gets the same "The thread id is not found" error f
 2023-12-05 20:57:04.700 - [TRAC] - [1:13052:12964] - [winword.exe] - [IPC] - NamedObjectProtection. Function: NtCreateFile. Name: \??\C:\Windows\system32\netprofm.dll, new name: , result: 0x0.
 2023-12-05 20:57:04.700 - [TRAC] - [1:13052:12964] - [winword.exe] - [COM] - Com::ComCallbackStorage::Add [1255748512-62548-18853--1924148904]
 2023-12-05 20:57:04.700 - [TRAC] - [1:13052:12964] - [winword.exe] - [COM] - ComProxyIpcClient. [IPCInvertedServer] Response handled: . Channel name: 21c7dbfb-8f46-4f89-a5d9-875a2cf8ca8e
-2023-12-05 20:57:04.701 - [TRAC] - [1:13052:12964] - [winword.exe] - [COM] - ComProxyIpcClient. [IpcConcurrentInvertedServer] Request handled. Response data: î3EúÎÛA¦ßqÍ[ŠÕ÷_
-2023-12-05 20:57:04.702 - [TRAC] - [1:13052:12964] - [winword.exe] - [COM] - ComProxyIpcClient. [IpcConcurrentInvertedServer] OnRequest with data: î3EúÎÛA¦ßqÍ[ŠÕ÷i
+2023-12-05 20:57:04.701 - [TRAC] - [1:13052:12964] - [winword.exe] - [COM] - ComProxyIpcClient. [IpcConcurrentInvertedServer] Request handled. Response data: .................
+2023-12-05 20:57:04.702 - [TRAC] - [1:13052:12964] - [winword.exe] - [COM] - ComProxyIpcClient. [IpcConcurrentInvertedServer] OnRequest with data: .................
 2023-12-05 20:57:04.702 - [TRAC] - [1:13052:12964] - [winword.exe] - [COM] - ComProxyIpcClient. [IPCInvertedServer] Got request: com-query-interface-inverted. Channel name: 21c7dbfb-8f46-4f89-a5d9-875a2cf8ca8e
 2023-12-05 20:57:04.703 - [TRAC] - [1:13052:12964] - [winword.exe] - [COM] - ComProxyIpcClient::ComQueryInterfaceInverted
 2023-12-05 20:57:04.703 - [TRAC] - [1:13052:12964] - [winword.exe] - [COM] - Com::ComCallbackStorage::TryGet
