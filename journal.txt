@@ -23,7 +23,7 @@ O dia começa. Agora com vários desktops :D. 11:44 Na longa reunião de hoje fo
 
 Fiquei hoje até agora terminando a classe de modo silencioso do HDCript. Ainda faltam alguns detalhes, a seguir: - Decidir como será a chamada da rotina de cópia no NT, uma vez que é o SMMC responsável por reiniciar ou não o sistema; - Implementar a rotina que ficará tentando copiar os arquivos de backup da proteção de boot. - Implementar a função que irá concatenar o parâmetro na string de linha de comando. - Implementar as rotinas que irão colocar todos os parâmetros restantes, exceto o já executado.
 
-= Testando a implementação da cópia dos arquivos de backup da proteção de boot no modo automático do HDCript
+= Arquivos de backup da proteção de boot
 :date: 2003-10-28
 
 Testando a implementação da cópia dos arquivos de backup da proteção de boot no modo automático do HDCript. 10:20 Problemas pendentes: ver se a função que verifica se usuário tem direitos continua funcionando (parece que não), e logar no Windows sem as chaves do RunServices parece travar algo durante o processo. 10:45 Quando tenta fazer a cópia, o HDCript trava o processo de logon. Após a cópia, ou seja, a saída do aplicativo, o sistema volta a responder e loga normalmente. 12:07 Tirando todos os módulos do projeto, um a um, para verificar qual que está travando o logon. Testei com uma aplicação console simples e funcionou. O HDCript sem nenhum unit também funciona. 20:21 Descobri que, travando a thread principal do aplicativo, a manipulação de eventos da VCL trava também, o que impede que o logon seja completado. Para consertar esse problema, criei uma classe derivada de TThread que utiliza a minha classe de manipulação de parâmetros na linha de comando, a CSilentMode. O problema foi resolvido. Achei o bug com relação à listagem de partições no NT quando o administrador do SCUA não é admin local. Enquanto nenhum administrador local logar na máquina, de fato as partições não são listadas no HDCript. Depois do primeiro admin efetuar logon, as partições começam a ser listadas para todos os usuários, admins ou não. Temos um grande problema na implementação do backup em modo silencioso na plataforma NT. Como o processo é iniciado pelo serviço SMMC, ele roda na conta do sistema. Além de não conseguir copiar os arquivos antes do logon, não conseguirá depois, pois estará rodando em System Account. É necessário pensar numa solução para ambos os problemas, lembrando ainda que a linha de execução do HDCript não pode ser colocada na chave Run, pois um usuário não teria direito de acessar a pasta onde está localizado o aplicativo.
@@ -1138,7 +1138,7 @@ A manhã inteira perdida por causa daqueles defeitos que qualquer programador se
 
 Pesquisando sobre como tornar o Windows XP um Servidor de Segurança do SCUA. 15:30 Isso pode ser útil: .
 
-= Sobre o acesso anônimo no XP/2003 e problemas de compatibilidade: )
+= Sobre o acesso anônimo no XP/2003
 :date: 2008-12-16
 
 Sobre o acesso anônimo no XP/2003 e problemas de compatibilidade: ). 17:33 XP Pro: THMPV - 77D6F - 94376 - 8HGKG - VRDRQ.
@@ -1313,7 +1313,7 @@ Algumas mudanças no leiaute da tabela. Iremos ignorar o director_info e passar 
 
 Já foi feita a alteração das tabelas, com a matança do DirectorInfo e DirectorOption e o nascimento do DirOption (opções da rota: auditoria e/ou acesso) e DirInfoOption (relação entre rotas e opções). Agora falta testar o sincronismo, porque aparentemente a exportação funcionou.
 
-= Temos que criar mais uma tabela para guardar valores da aplicação que não existem na tabela original do SQL
+= Mais uma tabela
 :date: 2009-05-04
 
 Temos que criar mais uma tabela para guardar valores da aplicação que não existem na tabela original do SQL. 10:30 Outra coisa é a mensagem de logon, que irá ser guardada em uma tabela de parâmetros globais. 13:06 Problemas no login do Safra: usuários locais não logam. O usuário não está sendo mais criado no servidor, mas também não loga. Zé está para mandar os logs do SMMC. 14:18 Mudando prioridade para logon do SMMC. Vamos examinar passo-a-passo o que teremos que fazer para definir o funcionamento do logon no SMMC.
@@ -1328,7 +1328,7 @@ Fiz uma tabela para testar todas as condições de logon (ou as mais usuais) par
 
 Voltando para lentidão no logon. Montando novamente o ambiente... 11:10 IP da VM XP em host only: 192.168.118.129.
 
-= Tenho que isolar a thread da ScuaHook da instanciação do ClPolicy para manter minha correção que permite exclusão da pasta de cachê
+= Isolar a thread
 :date: 2009-05-08
 
 Tenho que isolar a thread da ScuaHook da instanciação do ClPolicy para manter minha correção que permite exclusão da pasta de cachê. 15:12 Aparentemente, pelo que o Zé disse, usuários que logam no domínio estão aplicando regras do template. Ummmm...
@@ -1453,10 +1453,10 @@ Hoje lembrei que só preciso selecionar uma pasta no vi que ele lista os arquivo
 
 O primeiro erro diz respeito ao SShell retornar o código de erro de rede não disponível, pois tenta se conectar com um servidor AD que não está realmente disponível. O fato do AD não estar disponível, no entanto, não impossibilita o logon em cache, até pelo fato do Servidor de Segurança poder estar em outro lugar. 10:09 O erro seguinte é do SyncDB: acesso negado. Aparentemente o Vista não está conseguindo, na conta de sistema, conectar-se a um 2000. O motivo pode ser ele estar no domínio 2k3 e esse domínio não ter as diretivas de conexão remota com impersonate ativadas. 10:15 Funcionou. Aparentemente, dependemos das diretivas do servidor de domínio TAMBÉM. Importante lembrar o Zé. 10:44 Criei dois snapshots pro Vista e pro 2k3 com o Patch 2003 aplicado. Instalei novamente o SCUA e... novamente o erro de acesso negado. 11:18 Agora logou com os snapshots antigos (sem Patch 2003). Isso quer dizer que precisamos do servidor de domínio ligado e operando? 11:22 Esse tal de SQLite parece lindo, e perfeito para o Babel! 11:24 Segundo logon, após restart, com 2003 desligado, funcionou. 11:25 Agora testando novamente a instalação e três boots e logons iniciais com o 2003 desligado. Se todos falharem, é alguma coisa no primeiro logon. Sempre, independente de patch. 11:27 Por algum motivo, parece que ele está perdendo a configuração do firewall. 13:11 O serial do Vista que o Flávio me passou é 9DRWM-7G742-PKKBM-9TX2D-9338B. 14:06 Com o Windows XP o erro do primeiro logon não acontece. 14:11 Vamos ver isso do ponto de vista do SyncDB. 14:33 Driver do 8.20 é 5.2.0.6. 15:12 CrYpt#4250@11-08 16:15 Sabemos que o instalador do 5.2 consegue copiar a chave antiga de um cryptwiz do 5.1. O detalhe é que a versão do Cryptwiz no 5.1 é 5.0 =P Curioso, o Zé comentou que no Bradesco eles não conseguem logar nem a pau em um domínio criado com .local no Vista. Pelo menos aqui eu consigo, mas tem que estar disponível o servidor de domínio no primeiro logon.] 16:16 Vamos testar agora se tem alguma relação com o cache. 16:18 Ah, essa é muito boa! Não loga como admin como o teste anterior, mas loga com Paulo!! 16:20 Opa, corrigindo: não loga mais com o Paulo. Por incrível que pareça, foi apenas o primeiro logon como Paulo. 16:51 Já vou liberar a correção do SShell e passar adiante a versão. Avisar o Flávio que existem pendências ainda não resolvidas, mas nada de se precipitar nas movimentações. 16:59 Ideia de artigo: as voltas que às vezes temos que dar. Como consegui destravar a mensagem de EULA da ferramenta da Sysinternals através da própria Sysinternals. 17:00 Fui rodar o pslist remotamente, só que ele travou, pois nunca tinha sido rodado naquela máquina, e existe um valor no registro que identifica isso. Para solucionar o problema, tive que abrir outro console remoto e criar essa chave no registro, para duas ferramentas: pslist e pskill. Depois de criado, rodei o pskill para matar o primeiro pslist 17:01 Depois, pude rodar novamente o pslist, pois ele não travou na pergunta do EULA, pois já estava no registro constanto que eu cliquei em Sim a primeira vez que ele executou (bom, mais ou menos). 17:17 O SMMC roda o SyncDB do system32, passa o path completo, usa \\ no nome do servidor e aspas duplas no nome do usuário. É uma diferença! 17:23 Rodei exatamente como o SMMC roda o SyncDB e funcionou! Mas na hora do logon simplesmente não funciona.
 
-= Temos que focar em saber o que de diferente acontece quando o 2k3 esta ligado e quando não está
+= O que acontece quando o 2k3 está ligado
 :date: 2009-06-19
 
-Temos que focar em saber o que de diferente acontece quando o 2k3 esta ligado e quando não está. Também porque conseguimos executar o SyncDB com sucesso pelo psexec. 10:46 Analisando os logs do RegMon e parando os serviços "paráveis" para ver se é algum componente do sistema em específico, e não todo o sistema. 10:51 O primeiro passou. 10:52 O próximo processo tem cinco serviços: Centro de distribuição de chaves Kerberos (kdc), Logon de rede (NetLogon), Serviços IPSEC (PolicyAgent), Armazenamento protegido (ProtectedStorage) e Gerenciador de contas de segurança (SamSs). Começando pelo logon de rede. 10:55 Bingo! 13:59 Vamos arregaçar as mangas e depurar feito homem: no kernel! 16:40 Começo a desconfiar dos acessos do componente COM DataSvr instalado no 2000 em vez das configurações da estação, já que o problema está em instanciar um componente remoto naquela máquina. Vamos rodar o ProcMon para ver o que dá. 16:51 Tentando abrir mais a segurança do DataSvr do 2000.
+Temos que focar em saber o que de diferente acontece quando o 2k3 está ligado e quando não está. Também porque conseguimos executar o SyncDB com sucesso pelo psexec. 10:46 Analisando os logs do RegMon e parando os serviços "paráveis" para ver se é algum componente do sistema em específico, e não todo o sistema. 10:51 O primeiro passou. 10:52 O próximo processo tem cinco serviços: Centro de distribuição de chaves Kerberos (kdc), Logon de rede (NetLogon), Serviços IPSEC (PolicyAgent), Armazenamento protegido (ProtectedStorage) e Gerenciador de contas de segurança (SamSs). Começando pelo logon de rede. 10:55 Bingo! 13:59 Vamos arregaçar as mangas e depurar feito homem: no kernel! 16:40 Começo a desconfiar dos acessos do componente COM DataSvr instalado no 2000 em vez das configurações da estação, já que o problema está em instanciar um componente remoto naquela máquina. Vamos rodar o ProcMon para ver o que dá. 16:51 Tentando abrir mais a segurança do DataSvr do 2000.
 
 = Acabei de finalizar a versão do Babel usando SQLite
 :date: 2009-06-20
@@ -1598,7 +1598,7 @@ Teste com pipes: criar um pipe nomeado com direitos para qualquer um e simular "
 
 Tarefas para hoje? Deixar o SACC_RegisterUser pegando usuário de verdade... acho que é só. Ele já pode virar um serviço de login. Se tudo der certo, já criamos o serviço de sincronismo. Ah, sim, tem que tudo funcionar no Vista e no XP... 16:28 Agora o SMMC é um serviço que se chama SsLogin. Inicialmente a única razão dele existir é para fazer login: e sempre no cache.
 
-= Temos que ignorar se o servidor é local ou remoto (e sempre usar o cache) e temos que simular os eventos de logon e user init "bunitinho"
+= Simular os eventos de logon e user init "bunitinho"
 :date: 2009-07-31
 
 Temos que ignorar se o servidor é local ou remoto (e sempre usar o cache) e temos que simular os eventos de logon e user init "bunitinho". Vamos tirar esse negócio da GINA verificar rede disponível. 14:03 Primeiro o básico: se comportar exatamente igual a um SMMC de gelo. 14:13 Não podemos eliminar o SMMC porque por enquanto ele é usado para outras coisas.
@@ -1813,7 +1813,7 @@ Resolvendo problema das macros no Vista. Não conseguia duplicar o handle do pro
 
 Bom, depois de umas férias no sincronismo, vamos implementar a exclusão completa de usuários e a duplicação do usuário template. 15:29 Tem que apagar o sec_dir_info. Para apagar o sec_dir_info tem que apagar as relações em sec_dir_info__direito e em sec_dir_info_has_sec_dir_option. E sec_dir_option se houver algo em sec_dir_info_has_sec_dir_option! 16:44 Feita a parte de rotas. Belezinha. 16:45 Para apagar as diretivas, temos que eliminar o sec_objeto_info__regra, que está atrelado ao sec_regra. Só isso. Facinho. 16:51 Ah, não. Só precisa apagar a sec_objeto_info__regra. Babinha!
 
-= Se até o registro for assíncrono será necessário estabelecer uma "ponte" entre o recebimento do OK do servidor com o envio de dados
+= Se até o registro for assíncrono
 :date: 2009-10-11
 
 Se até o registro for assíncrono será necessário estabelecer uma "ponte" entre o recebimento do OK do servidor com o envio de dados. Essa ponte deverá ter seu callback definido no listening que é aberto na porta pelo serviço. 17:50 Tudo começa no ServiceMain, que irá construir o CInventoryManager e rodar o método Process. 17:57 Tive uma ideia: podemos criar um aplicativo que é iniciado no run do usuário e que se comunica com os serviços do SCUA (HSIService e SsLogin). Quando algum deles estiver de pé, ele exibe seu ícone baseado no executável. Através de uma interface simples do SimpleService é possível requisitar as opções do menu que ele irá exibir e executar, chamando o serviço correspondente. 18:04 O sistema de módulos do inventário foi criado de forma que todos as DLLs recebessem seu caminho, o XML e o flag de parada. Isso quer dizer que teoricamente poderíamos transformar o inventário em vários módulos. 18:24 O listener já processa o registro! Na verdade, tudo que temos a fazer é receber o dinheiro =P Bora fazer o servidor de teste. Nada melhor que ficar independente do Java para poder testar as coisas.
@@ -2165,7 +2165,7 @@ A correção de ontem não deu jeito na Bovespa, pq o bug check é diferente, o 
 
 Ontem, foi tentado reproduzir o problema no McAfee e analisar as telas azuis geradas na Bovespa. Como a Bovespa ainda não conseguiu gerar dumps com drivers atualizados, vamos voltar para o problema do close (AllianZ) até então. 10:57 Ih, parou de travar. 11:11 Aparentente, a chamada de NLGetFullPathName em SfClose está demandando completions que não são realizadas, acumulando IRP pra c** 17:31 Consegui rastrear a irp faltosa (ou cheguei perto). Aparentemente uma irp que trava na thread trava todas as outras, explicando pq a thread toda fica travada (e o explorer). E ela realmente fica em wait.
 
-= Setei a flag NLFL_ONLY_CHECK_CACHE antes de buscar o nome do arquivo que está sendo fechado
+= Setei a flag NLFL_ONLY_CHECK_CACHE
 :date: 2010-03-11
 
 Setei a flag NLFL_ONLY_CHECK_CACHE antes de buscar o nome do arquivo que está sendo fechado. Aparentemente não trava mais! O problema é: vai estar sempre no cache o nome do arquivo? Teste nos logs... 12:48 O log de close não está sendo feito; provavelmente pq o nome não existe no cache, forçando-nos a pegar de fato. 13:55 Essa é a única IRP que pára no breakpoint de wait, e fica em wait sem o completion rodar... ever! E enquanto isso a thread travada fica com um punhado de IRP esperando. 14:02 O ScuaAcc tb está na pilha, mas como hook de função API (NtClose). Testando subir a máquina sem o acc... tela zul!
@@ -2385,7 +2385,7 @@ Analisando problema de criptografia de disco de 250 GB em um NetBook HP. 11:29 A
 
 Vou tentar começar a usar isso como base de conhecimento aprendido, para rever depois. Tive um sonho hoje em que o daytoday tinha um sistema de play, pause, rewind e forward, para eu andar pelas minhas anotações. Bem legal =) 10:06 Esse DBH do WinDbg parece bem útil para analisar símbolos, pois ele exporta muitas das funcionalidades do DbgHelp.dll. Estou tentando encontrar como listar módulos de um processo analisando um dump de kernel mode. 10:07 Acho que devo colocar aqui tudo que aprendo, inclusive durante minhas debugadas. 10:09 O comando para listar DLLs usadas por um processo dentro da análise de kernel é o !dlls. Com ele é possível inclusive achar qual módulo é responsável por um endereço. 10:10 Parar usar esse comando, devemos setar o contexto para o processo que queremos analisar. Com o parâmetro -c <endereço> achamos o módulo responsável pelo endereço em um determinado processo (caso a pilha não mostre ele). 10:17 É claro que ele não carregou os símbolos. Eu tenho que primeiro setar o processo ativo e depois dar um .reload. 11:06 Para listar apenas um processo, use !process 0 0 <nome-da-imagem> 12:49 Além de rever estes comentários, devo rever meus itens compartilhados e estrelados. O período de fazer isso ainda é uma incógnita, mas verei o ritmo e como me comporto com esse novo esquema.
 
-= Tem uma thread em um processo que estava travada aguardando a criação de um processo (e nosso ScuaRaw no meio)
+= Aguardando a criação de um processo (e nosso ScuaRaw no meio)
 :date: 2010-07-14
 
 Tem uma thread em um processo que estava travada aguardando a criação de um processo (e nosso ScuaRaw no meio). 14:33 Mesmo em um Seven "vazio", podemos notar alguns processos com número de handles abertos igual a zero, o que invalida minha teoria que o sistema de hook pode estar travando a criação das threads principais de alguns processos 14:34 De qualquer forma, não deixa de ser curioso que exatamente no momento de geração do dump um processo estava sendo criado (e no wait). 15:15 O MLogon usado pelo dumpão é da versão 8.23.0.47 (versão do arquivo 8.2.0.4). O mais bizarro é que essa versão do arquivo não havia sido empacotado em nenhum build, pois logo ela virou 5 e daí foi para o próximo. Isso tem cheiro de modificação customizada urgente.
@@ -2445,7 +2445,7 @@ Illumination. Maybe I'm too much spoiled and life decided: I need to grow up. So
 
 Pesquisando sobre o que ocorre na criptografia de partições estendidas.
 
-= Testando nova compilação do CTreeNT (e seu ICTreeFile) em um Servidor de Segurança 7
+= Nova compilação do CTreeNT
 :date: 2010-08-09
 
 Testando nova compilação do CTreeNT (e seu ICTreeFile) em um Servidor de Segurança 7.30.0.0 e um cliente dos mais novos. Ambos com os componentes trocados. Depois preciso testar com apenas um deles trocados.
@@ -2565,7 +2565,7 @@ Página relatando mesmo problema que detectamos na home da intranet do bva, rela
 
 Conferência com Gerson sobre Controle Remoto e Agente Linux. 10:15 Agente Linux está usando dmidecode 16:33 Para tentar provar que a culpa do corrompimento do registro não é nossa, temos uma escolha apenas: encontrar o culpado. 16:34 Mesmo que eu instale todas as versões do SecuritySuite que eles receberam e analise as mudanças do registro atrás de quem alterou a chave culpada, não encontrar evidências não vai acalmar os ânimos do cliente, que tem certeza ser a nossa culpa.
 
-= Se eu tivesse o costume de escrever aqui teria um relatório mais interessante para entregar para o pessoal
+= Se eu tivesse o costume de escrever aqui
 :date: 2010-11-09
 
 Se eu tivesse o costume de escrever aqui teria um relatório mais interessante para entregar para o pessoal.
@@ -3392,7 +3392,7 @@ Testando como eu usaria o supermemo no telefone, por exemplo. No início, apenas
 
 Às vezes um filme como o de hoje (Club Sandwich) te dá uma super-dose de realidade. 14:03 Erro no BitBucket de repositório não encontrado (not found) não é falta de direito, mas provavelmente porque o repositório não é git (mercurial, talvez). 19:03 Dois problemas difíceis para essa noite: uma emergência na Scua e fazer a proposta para a Mirae. 19:04 Já quebrando a cabeça para compilar o ScuaUninstallCustom, o copy/paste do sistema do HDEncription. O jeito é inverter a ordem um pouco. Vamos terminar um esboço para a Mirae.
 
-= Testes hoje de manhã com o Zé revelaram que o ScuaUninstallCustom na verdade tem uma lógica "invertida" em que usuários locais ele pede o desafio/senha
+= Uma lógica invertida
 :date: 2015-04-09
 
 Testes hoje de manhã com o Zé revelaram que o ScuaUninstallCustom na verdade tem uma lógica "invertida" em que usuários locais ele pede o desafio/senha, mas usuários do domínio não. 12:50 Antes do Call, se eu já adiantar a leitura das regras do servidor do scua já vou ter um bom início para o fim do sprint da quinzena passada. Considerando os incêndios, as reuniões, e tudo mais, até que está tudo certo. Hoje ainda mantenho o boost de realidade de ontem, meio que na inércia. Exercícios e mudança de rotinas pontuais ajudam de vez em quando. 23:18 Pronto! Temos um sincronismo inicial com protobuf! =)
@@ -3462,7 +3462,7 @@ Todas as regras do wanderley.caloni (que têm vínculo com deus e o mundo) dá u
 
 A ntdll32.dll é uma stub que faz a ponte de um processo 32 bits em um SO 64. É ela que conversa com a ntdll 64. 17:05 No Windows, SysWow64 tem um notepad 32 bits em um ambiente de 64 bits.
 
-= Talvez por isso o daytoday seja importante se usado constantemente
+= Será o daytoday importante? Talvez
 :date: 2015-04-25
 
 Talvez por isso o daytoday seja importante se usado constantemente. Agora estou perdendo horas para conseguir entender por que a instalação falha na minha máquina, mas na máquina de build tudo bem. 10:58 Tem a ver com a instalação específica do Install Shield. Na máquina de build há duas pastas. Uma está renomeada com o final .instalado. 15:44 Quase nenhum comentário a semana inteira. Está faltando alguma coisa... 15:45 Mais um dia de Callia Alta (a japa quis ir no Outback). Dessa vez um pouco amargo e mais forte. 15:49 Era isso (sobre o Install Shield). Parece que existe alguma instalação mágica que vem com um isutil de um ano depois renovado. Não consegui achar nos instaladores, mas copiei a pasta e rodei o Language Pack (que ainda não havia rodado). 19:06 Alguém deu umas boas respostas aqui sobre como acabar como barulho alheio, inclusive um PM 21:11 Ocorrência de pertubação de sossego registrada na Polícia Militar do Estado Protocolo 25041518308 22:51 Mais um protocolo do PSIU (agora online): 13052606
@@ -3482,7 +3482,7 @@ Para desabilitar a monitoria de cópia na versão 10 dos drivers do Scua Securit
 
 Ontem vi uma imagem esclarecedora sobre projeção negativa de um espaço 3D em 2D (só para dar uma ideia). negative-projection.gif 11:53 Duas informações relevantes: 1) ou a verificação do tamanho do registro ou seu resize não estão mais funcionando para Windows 8.1 no instalador (DLL de instalação) e 2) o reboot pelo instalador não funciona mais. Vou atacar primeiro o registro, que é o que impede a instalação. 17:31 Versão 9: SShell, SsLogin, ActiveMQ, ScuaAud.dll, Drivers compilados sem cópia.
 
-= Se eu tivesse anotado os binários de ontem para consertar o 9 agora seria meio automático seguir essa lista para fazer o mesmo com o 10
+= Se eu tivesse anotado os binários
 :date: 2015-04-30
 
 Se eu tivesse anotado os binários de ontem para consertar o 9 agora seria meio automático seguir essa lista para fazer o mesmo com o 10. 09:12 Fica faltando o BradOutputGen.exe que está no PackageFiles.fgl, mas da instalação server. Ignorando no momento... 15:21 O Mgnbdc03 não consegui reproduzir idêntico ao último security 10 (57) porque parece que ele é assinado toda hora que se gera um novo instalador. Tipo isso, o build agora gera o instalador com os binários do \bin que vai reproduzir exatamente o .57. 17:03 Procrastinando por uma hora. Sem foco, a questão de ter mais de uma coisa na fila de urgentes.... 17:35 Tem uma lógica diferente para Windows XP no InstallShield? 19:54 Não pode ser isso, deu pau também no Windows 8.
@@ -3612,10 +3612,10 @@ PowerAPI: A Software Library to Monitor the Energy Consumed at the Process-Level
 
 Palestra no TDC Segurança Antidebugging: eu não quero que você mexa no meu código Essa palestra é para desenvolvedores interessados em se proteger de atacantes que irão tentar analisar sua ferramenta depurando-a. Vamos explicar, conforme o tempo disponível, como funciona os seguintes "ataques" e suas defesas: - Depuração baseada em exceções. - Ocupando a DebugPort - Detectando attach.
 
-= Seu programa rodando 24x7 Técnicas para deixar seu programa rodando ou reiniciar o mais rápido possível
+= Seu programa rodando 24x7
 :date: 2015-06-15
 
-Seu programa rodando 24x7 Técnicas para deixar seu programa rodando ou reiniciar o mais rápido possível. Essa é a palestra do Strauss. 19:29 "O campo da nossa ciência é a ação humana e não os eventos psicológicos que resultam numa ação. É isto, precisamente, que distingue a teoria geral da ação humana, praxeologia, da psicologia. O objeto da psicologia são os fatores internos que resultam ou podem resultar numa determinada ação. O tema da praxeologia é a ação como tal." - Ação Humana, Von Mises
+Técnicas para deixar seu programa rodando ou reiniciar o mais rápido possível. Essa é a palestra do Strauss. 19:29 "O campo da nossa ciência é a ação humana e não os eventos psicológicos que resultam numa ação. É isto, precisamente, que distingue a teoria geral da ação humana, praxeologia, da psicologia. O objeto da psicologia são os fatores internos que resultam ou podem resultar numa determinada ação. O tema da praxeologia é a ação como tal." - Ação Humana, Von Mises
 
 = O orçamento de 2014 do Bolsa Família aumentou para pouco menos de 25 bilhões de Reais (0
 :date: 2015-06-16
@@ -3734,12 +3734,12 @@ Life After Beth Esse é um horror/thrash-drama com grandes dificuldades em dizer
 
 Visita de treinamento na Midas Pegamos as instruções dos problemas com a Rosa Fumie, da CardTrue. Basicamente temos que tratar um arquivo de entrada e integrar com o itaú (no futuro). ![](/images/cartao-rosa-fumie-cardtrue.jpg)
 
-= Uber Is Serving New York¿s Outer Boroughs More Than Taxis Are The Debate On Uber¿s Impact In New York City Is Far From Over 10
+= Uber's Impact In New York City Is Far From Over
 :date: 2015-08-11
 
 Uber Is Serving New York¿s Outer Boroughs More Than Taxis Are The Debate On Uber¿s Impact In New York City Is Far From Over 10:08 Barulho da Igreja Acontece na Rua Riga, 448. 16:52 "A democracia é um erro estatístico, porque na democracia decide a maioria e a maioria é formada de imbecis." - Jorge Luis Borges 17:09 A Maldição do Demônio Acabei assistindo este pequeno clássico de terror italiano em inglês (na Netflix americana), mas pouco se perde quando vemos que o visual arrebatador de sombras e efeitos até que competentes (ainda hoje) consegue subverter o sensual para o escatológico com uma facilidade que parece torná-los indissociáveis. Quer mais terror que isso? Contando a história da maldição de uma bruxa (Barbara Steele) e uma descendente do inquisidor que a amaldiçoou e a matou com a famigerada máscara do diabo -- uma construção cheia de pregos na parte de dentro martelada no rosto da vítima --, o filme conta a historia de vingança contra essa família depois que o Doutor Thomas Kruvajan (Andrea Checchi) acidentalmente deixa pingar gotas de sangue dentro do túmulo da tal bruxa, fazendo-a voltar à vida. Cheio de momentos que oscilam entre a calma completa e o terror instantâneo, a história nunca deixa-nos tomar fôlego o suficiente para entender o que está acontecendo, e quando o ritmo de um filme dos anos 60 faz isso, me imagino na situação de um espectador da época, umas mil vezes mais atordoado. Aliás, considerado na época extremamente pesado -- seja pelas cenas escatológicas quanto pela beleza e sensualidade estonteantes de Barbara Steele -- Black Sunday foi proibido no Reino Unido (aliás, o que não era na época?) e censurado nos EUA. No entanto, alavancou a carreira do diretor Mario Bava e de Barbara. Chegou a ser votado em 2004 como um dos 100 momentos de filmes mais aterrorizantes (não consegui encontrar qual exatamente, mas tenho uma vaga impressão). 19:46 SCUA-92 Mudanças no DataSvr 19:47 Mudanças no DataSvr Para o #SCUA-92 a próxima tarefa de suporte é colocar modificação no banco no início e no fim do sincronismo do DataSvr conforme email do Carlos: Precisamos customizar o DataSVR conforme conversamos, abaixo seguem especificações. Customizaçao do DataSVR para que grave uma sinalização de início e fim do processamento do DataSvr. Dados para customização Tabela: sec_lock_data_svr Campo: is_locked Valores: 1 início do processo e 0 final do processo Campo: data_inicio - Data do início do processo Campo: data_fim - Será preenchido somente no final do processo, enquando o DataSVR estiver e execução o campo data_fim será nulo. Script para criar tabela create table sec_lock_data_svr ( cod_lock int not null identity(1,1), is_locked bit not null, data_inicio datetime, data_fim datetime ) De acordo com o Carlos, os valores devem ser alterados durante o sincronismo de usuários e grupos do DataSvr, quando essas linhas de log aparecem: Synchronizing SID to SQL database **** SIDs synchronized to SQL database **** Queries adaptadas do mostrado pelo Carlos para criar nova linha na tabela com data/hora inicial e is_locked como 1 e ao final da operação setar o is_locke para 0 e o data_fim, lembrando que é esperado que apenas um DataSvr esteja sendo executado e com acesso a essa tabela nesse banco. insert into sec_lock_data_svr (is_locked, data_inicio) values (1, (select getdate())) update sec_lock_data_svr set is_locked=0,data_fim=(select getdate()) where cod_lock in (select top(1) cod_lock from sec_lock_data_svr order by cod_lock desc) Finalizado, mas falta verificar com o Fernando se a versão do CTree implica em algo novo no build. 22:51 1984 O que é ser humano? Embora essa questão se torne vital nos últimos minutos de 1984, ela permeia toda a história desenvolvida visualmente no filme e que é pesadamente baseado na literatura clássica de George Orwell. Sua visão de "futuro" distópico, influenciada por uma guerra autoritária e desumana, se torna um tema grandioso demais para se justificar apenas como um "filme de política". É, antes de tudo, um filme sobre nossa própria existência. Usando a fotografia pálida de Roger Deakins (Operação Skyfall), um azul melancólico predominante que só perde para o cinza massivo das paredes internas e externas das construções, e até do ar e das nuvens, surgindo como uma versão (ainda mais) deprimente de Londres, o filme retrata a realidade da Oceania, um país cujas fronteiras são constantemente postas em xeque por outros dois países que alternam a posição de inimigo eterno conforme os jornais históricos são reescritos. Winston (John Hurt) é um dos encarregados em realizar essas trocas diárias de informação, que lidam com os fatos mais triviais -- como alterar a foto de um campeão de xadrez -- até dados econômicos, como a quantidade de ração distribuída para a população. A realidade aqui é deturpada ao máximo, como em toda boa distopia, mas deixa escapar comparações óbvias e relevantes nos dias de hoje, como a internet e suas mudanças no ritmo do segundo, ou como a informação dentro da notícia passa a valer menos do que ela mesma. E quantas vezes a mentira inocente ganha status de verdade, e até de sabedoria? Onde além dos jornais, que anseiam por vender notícias nem que tenham que fabricá-las, até órgãos oficiais se protegem da má imagem relativizando dados matemáticos (e qualquer semelhança com IBGE e seus comparsas não é mera coincidência). Definindo com exatidão todas as informações-chave do romance de Orwell, o filme dirigido pelo irregular Michael Radford (O Mercador de Veneza e o _remake_ americano de Elsa & Fred) consegue fluir sua narrativa e o romance de Winston e Julia ao mesmo tempo revelando de passagem momentos icônicos da literatura. Ou seja, como adaptação, consegue o mesmo que tantos filmes da Marvel que a garotada dos gibis compara e considera ou não fiel, além de suas merecidas homenagens. Aqui a homenagem é fugir o menos possível das ideias por trás do livro, pois estas merecem ser degustadas não só pelos memoráveis diálogos, que estão aqui da forma como foram concebidos, ou simplesmente pela arte do áudio-visual transformando uma experiência profunda em duas horas de pura tortura e sofrimento psicológico. A figura pálida e tímida criada por John Hurt é absolutamente genial, pois consegue através da falta de expressão, e com ajuda de micro-expressões, entregar um Winston Smith idêntico ao original sem fazê-lo perder a oportunidade de vê-lo em ação dizendo as falas que imortalizaram seu personagem, como as duas referentes à vizinha proletária estendendo o varal. Suas observações perspicazes a respeito da beleza da senhora revelam que apesar de se comportar como todos os outros, sua inteligência e sua história de vida o colocam acima da mediocridade da sociedade idealizada na figura do Grande Irmão, um rosto que sempre é exibido em todas as telas gigantes de TV obrigatoriamente presentes em todas as casas dos burocratas. A própria comparação de vida entre os funcionários de estado e o proletariado já é sinal de que o sistema já foi pensado em doutrinar os mais perspicazes através de joguetes psicológicos e monitoração constante, e domar o gado de maneira mais grosseira e violenta (pois como é dito duas vezes, eles já são tratados e considerados animais). Suzanna Hamilton entrega uma Julia que todos nós esperávamos, mas que subverte a relação do casal apenas de forma periférica, o que tudo bem, já que não é o foco central da trama. Sendo o rosto belo no meio de uma multidão, ainda assim Michael Radford consegue um bom elenco secundário e extras que se confundem, o que é ótimo para a visão de gado que o filme tenta mostrar. E o que dizer a interpretação meticulosa de Richard Burton como O'Brien, o burocrata de alto escalão? Surgindo praticamente na metade do filme, embora apareça em momentos pontuais sem ser apresentado até então, a Burton consegue inserir toda a frieza do método estatal em sugar a alma de seus contraventores, repetindo diálogos longos em tom monótono, mas que ao mesmo tempo revelam uma certo tom de invencibilidade argumentativa, o que de fato se torna. Conseguindo manter sua textura dramática pelo visual e seu tom filosófico pelos "perigosos" pensamentos de Winston, 1984 é uma obra-prima tanto nas interpretações quanto em seus aspectos técnicos. Saber que foi filmado exatamente durante a época em que a história se passa no livro quando este era o "futuro", a experiência ainda ultrapassa a quarta parede em pelo menos tematicamente soar como um aviso sobre sempre estarmos alertas para governos que se lançam à empreitada da guerra e com isso controlam cada vez mais a vida de seus cidadãos. Maior homenagem que esta, acho difícil imaginar.
 
-= Talvez alguns erros em C++ nunca receberão o tratamento adequado para newbies
+= Nunca receberão o tratamento adequado
 :date: 2015-08-12
 
 Talvez alguns erros em C++ nunca receberão o tratamento adequado para newbies, já que o que dizer quando você cria um novo método e esquece o escopo e acaba chamando um método antigo da classe, mas ambos possuem o mesmo nome (sobrecarga)? O compilador vai dizer que o método possui os parâmetros errados. Que nó na cabeça do programador é necessário para que ele entenda isso? 11:36 Mês de Agosto... Agosto do Freguês... ![](/images/alonstar.png).
@@ -4286,7 +4286,7 @@ Testing the installation of the version 4.0.8565.21801 from scratch again and th
 But that could take some time now, since the right repository seems bigger, or my connection is slower.
 
  
-= Summary of issues related to Outlook server communication message
+= Outlook server communication message
 :date: 2023-06-17
 :tags: tag_venn
 
@@ -12683,11 +12683,11 @@ But there is no correlation id in the properties from WebAccountManager::AddWebA
 Also we can't use LoginHint because that could change during the login.
 
 
-= Still find a index to map WebAccounts in CoUnMarshalInterface hook
+= An index to map WebAccounts
 :date: 2023-11-04
 :tags: tag_venn tag_reversing
 
-Still trying to find a index to map WebAccounts in CoUnMarshalInterface hook. My next test would be to use TLS or something but need to know if unmarshal from WebTokenRequest and AAD window are in the same thread. However, I am getting some issues to run lastest version (compilation broken around AadWebAccountService, AadWebAccountInfo not available). Bellow the state of branches/commits:
+Still trying to find an index to map WebAccounts in CoUnMarshalInterface hook. My next test would be to use TLS or something but need to know if unmarshal from WebTokenRequest and AAD window are in the same thread. However, I am getting some issues to run lastest version (compilation broken around AadWebAccountService, AadWebAccountInfo not available). Bellow the state of branches/commits:
 
 ### master (5d5a6f1c9)
 
@@ -12761,7 +12761,7 @@ img/teams_eternal_loading_accounts.png
 Tried merge with this branch and master with no better results. With master there is broken part around AadWebAccountService (AadWebAccountInfo not available).
 
 
-= Teams working again and reinstalling WinRt WebTokenRequest hook (temporary)
+= Teams working again
 :date: 2023-11-06
 :tags: tag_venn tag_reversing
 
