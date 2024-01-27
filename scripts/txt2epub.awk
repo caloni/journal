@@ -228,18 +228,6 @@ function formatContent(content)
       if( link ~ /[a-z]:\/\// ) {
         link = "<a href=\"" link "\">" name "</a>"
       }
-      else if( link ~ /{{< ref "/ ) {
-        link = gensub(/{{< ref "(.*)" >}}/, "index.xhtml", "g", link)
-        link = "<a href=\"" link "\">" name "</a>"
-      }
-      else if( link ~ /{{< ref / ) {
-        link = gensub(/{{< ref (.*) >}}/, "index.xhtml", "g", link)
-        link = "<a href=\"" link "\">" name "</a>"
-      }
-      else if( link ~ /{{< relref "/ ) {
-        link = gensub(/{{< relref "(.*)" >}}/, "index.xhtml", "g", link)
-        link = "<a href=\"" link "\">" name "</a>"
-      }
       else {
         link = gensub(/(.*)/, "index.xhtml", "g", link)
         link = "<a href=\"" link "\">" name "</a>"
