@@ -1,0 +1,7 @@
+{% assign page = post %}
+{% assign content = post.excerpt | remove: '<p>' | remove: '</p>' %}
+<div id="post-info">
+  <div class="post">
+    <span>{{ content }}<span><a href="{{ post.url }}">{{ page.title }}</a></span></span>
+  </div>
+</div>

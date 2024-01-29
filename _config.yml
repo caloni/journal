@@ -1,43 +1,11 @@
-# Dependencies
-markdown:         redcarpet
-gems: [ jekyll-paginate ]
-redcarpet:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
-
-# Permalinks
-permalink:        :title
-
-# Encoding
-encoding:         utf-8
-
-# Setup
-title:            Blogue do Caloni
-tagline:          C++, Windows, Programação, Depuração e Transpiração
-url:              http://caloni.com.br
-paginate:         5
-baseurl:          /
-author:
-  name:           Wanderley Caloni
-  url:            https://twitter.com/caloni
-  email:          wanderley@caloni.com.br
-
-pages_list:       
-  Que: '/'
-  Quem: '/author.html'
-  Quando: 'http://feeds.feedburner.com/caloni'
-
-# Custom vars
-version:          1.0.0
-github:           
-  repo:           https://github.com/caloni/caloni.github.io
-
+name: Blogue do Caloni
+permalink: :title
+google_search_customsearchcontrol: 005399618489749432245:zflfst4-oeq
+google_analytics_id: UA-50557403-2
+gems:
+  - jekyll-feed
 defaults:
   -
-    scope:
-      path: "" # an empty string here means all files in the project
     values:
       layout: post
-
-exclude:
-  - _posts/archive_
-
+      author: Wanderley Caloni

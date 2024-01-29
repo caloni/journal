@@ -1,4 +1,6 @@
 _site
+*.pyc
 *.swp
-*.db
-debug.txt
+*.log
+tags
+.jekyll-metadata
