@@ -1,6 +1,0 @@
-<!-- image shortcode -->
-{{ $src := .Get "src" }}
-{{ $src = print "*" $src "*" -}}
-{{- with  $.Page.Resources.GetMatch $src -}}
-  <img src="{{ . }}" alt="{{ .Permalink }}"/>
-{{- end -}}
