@@ -1,0 +1,19 @@
+
+/* Sortable tables */
+table.sortable thead {
+    background-color:#eee;
+    color:#217e22;
+    text-decoration: underline;
+    font-weight: bold;
+    cursor: default;
+}
+tr.header { cursor: hand; }
+      a {
+        color: #217e22;
+        text-decoration: none;
+      }
+tr
+{
+font-family: '{text:GoogleWebFont}', Georgia, serif;
+}
+

@@ -1,4 +1,0 @@
-LIBRARY	"OcsKeyL2"
-
-EXPORTS
-InstallHook

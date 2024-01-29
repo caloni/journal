@@ -1,7 +1,0 @@
-Threads no C++ ISO
-Wanderley Caloni
-%%date(%Y-%m-%d)
-
-= Motivação =
- - Aprender o quanto antes para se acostumar
-   - Fácil assimilação das pequenas mudanças

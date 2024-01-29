@@ -1,3 +1,0 @@
-LIBRARY	"AlgorithmDll"
-EXPORTS
-EvenOrOdd

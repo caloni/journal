@@ -1,0 +1,41 @@
+---
+layout: default
+title: Home
+---
+<style src="{{ site.baseurl }}public/css/reviews.css"></style>
+<script src="{{ site.baseurl }}public/scripts/sorttable.js"></script>
+<script src="{{ site.baseurl }}public/scripts/jquery-2.1.3.min.js"></script>
+<script>
+$(document).ready(function(){
+    $("#filter").keyup(function(event){
+
+        query = $(this).val();
+        query = $.trim(query); //trim white space
+        regex = new RegExp(query, "i");
+
+        $('tbody tr').each(function() {
+            var srch = $(this).text() + $(this).find('a').prop('title');
+            if( srch.search(regex) < 0 )
+                $(this).hide()
+            else
+                $(this).show();
+            });
+    });
+    $('#filter').focus();
+});
+</script>
+
+  <table border="0" class="sortable">
+  <tr class="header">
+  
+  <input type="text" name="filter" value="" id="filter" style="width: 100%; font-size: 22px;"/>
+  
+  <tbody>
+  {% for post in site.posts %}
+    <tr>
+      <td>
+        <a href="{{ post.url }}" title="{% for cat in post.categories %}{{ cat }} {% endfor %}{% for tag in post.tags %}{{ tag }} {% endfor %}">{{ post.title }}</a>
+      </td>
+    </tr>
+  {% endfor %}
+  </tbody>

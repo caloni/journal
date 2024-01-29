@@ -1,9 +1,0 @@
-Antigamente, o "jeito C++" de fazer função dentro de função — o que não é permitido no pseudo-estruturado C — é realizar uma "adaptação técnica" que consistia em criar uma classe/estrutura dentro da função instanciá-lo. Se esse objeto tiver o operador de função sobrecarregado, vira um objeto-função dentro de função. Era o mais próximo que se chegava de uma programação estruturada:
-
-OldLambda.cpp
-
-Mesmo assim essa técnica exigia alguns outros malabarismos para passar argumentos:
-
-OldLambdaArg.cpp
-
-

@@ -1,7 +1,0 @@
-LIBRARY BabelBase
-
-EXPORTS
-GetTranslator
-FreeTranslator
-GetImporter
-FreeImporter

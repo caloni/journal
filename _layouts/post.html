@@ -1,0 +1,53 @@
+---
+layout: default
+---
+{% include social-body.html %}
+
+<div class="pagination">
+{% if page.previous != null %}
+    <a class="pagination-item older" href="{{ page.previous.url }}">&lt;&lt;</a>
+{% else %}
+    <span class="pagination-item older">&lt;&lt;</span>
+{% endif %}
+{% if page.next != null %}
+    <a class="pagination-item newer" href="{{ page.next.url }}">&gt;&gt;</a>
+{% else %}
+    <span class="pagination-item newer">&gt;&gt;</span>
+{% endif %}
+</div>
+
+<div class="post">
+  <h1 class="post-title">
+  {% include title.html %}
+  </h1>
+  <a href="https://github.com/caloni/caloni.github.io/edit/master/{{ page.path }}">
+  <span class="post-date">{{ page.date }}</span></a>
+
+  <img src="/images/{{ page.url | remove:'/' }}.jpg" onError="this.style.display = 'none';"/>
+  <img src="/images/{{ page.url | remove:'/' }}.png" onError="this.style.display = 'none';"/>
+  {{ content }}
+</div>
+
+<div class="pagination">
+{% if page.previous != null %}
+    <a class="pagination-item older" href="{{ page.previous.url }}">&lt;&lt;</a>
+{% else %}
+    <span class="pagination-item older">&lt;&lt;</span>
+{% endif %}
+{% if page.next != null %}
+    <a class="pagination-item newer" href="{{ page.next.url }}">&gt;&gt;</a>
+{% else %}
+    <span class="pagination-item newer">&gt;&gt;</span>
+{% endif %}
+</div>
+
+<div class="social">
+  {% include social.html %}
+</div>
+
+<div class="comments">
+  {% include comments.html %}
+</div>
+
+{% include google-analytics.html %}
+
