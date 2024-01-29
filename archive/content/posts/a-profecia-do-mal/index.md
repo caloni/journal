@@ -1,0 +1,29 @@
+---
+categories:
+- writting
+date: '2023-01-16T21:48:16-03:00'
+tags:
+- cinemaqui
+- movies
+title: A Profecia do Mal
+---
+
+Todos nós gostaríamos de entender o religioso e sobrenatural com olhos mais literais. Porém, vivemos na era científica, onde é difícil conciliar crenças antigas e vida moderna. A Profecia do Mal tenta fazer essa união entre o real e o sagrado e não é de todo ruim. Afinal de contas, não importa o conhecimento objetivo do mundo, pois sempre haverá perguntas sem resposta. E quando não há respostas criamos os mitos; velhos ou novos.
+
+Seguindo a tendência antropológica de dar cara às lendas, como foi feito por exemplo nos quadrinhos de Sandman e na sua adaptação para streaming, este thriller de horror constrói seus mitos em uma roupagem própria, mas sem reinventar nada. Vemos os anjos Lúcifer e Miguel no embate icônico em meio a um inferno literal, logo abaixo da superfície da Terra. O arcanjo Miguel cheio de pomposidades e energia na pele de Peter Mensah condena Lúcifer, que é mais efeitos de maquiagem do que o ator Joe Anderson por trás, e o prende por desafiar Deus.
+
+Se passa um tempo, milhões ou milhares de anos, dependendo como você quer interpretar esta história, e uma profecia da Bíblia, próximo do seu final, se atualiza para os tempos atuais, ou ligeiramente no futuro, quando a manipulação genética chega a tal nível que é possível clonar humanos. Como todo filme que fala sobre cristianismo, ele se volta para o Vaticano e seus mitos. E o Santo Sudário, um dos objetos mais requisitados no cinema religioso dramático, é o protagonista dessa primeira parte, pois supostamente seria possível decodificar o código genético de Jesus Cristo. Mas isso nem se passa pela cabeça dos sacerdotes guardiões do artefato sagrado, claro.
+
+Até aqui tudo bem. E fica melhor quando vemos um dos 1% leiloar crianças geradas a partir do DNA de artistas famosos. Vemos um garoto bem jovem tocar impecavelmente o violino para depois descobrirmos que se trata do clone de Vivaldi. A ideia é boa e faz coçar a cabeça. É aquele momento que algo novo e empolgante aparece na tela antes dos exageros comuns em filmes de ação estragarem o clima. O leilão em si é um ato vil e instigante ao mesmo tempo. É curioso e fácil pensar nessa imagem dilacerante: do poder da ganância em corromper os humanos a ponto de negociar cópias genéticas de outros humanos. Estando em um filme sobre religião e profecias demoníacas é duplamente escandaloso, pois torna o sacrilégio um bom negócio para os homens da Terra e para os demônios do inferno.
+
+Mas voltando ao sobrenatural, entra em cena Laura (Alice Orr-Ewing), uma estudiosa de arte que não acredita nesses mitos. Talvez por ter estudado demais. Sendo apresentada nesse contexto, Laura, quase desnecessário dizer, irá engravidar do anticristo e descobrir às duras penas como seu ceticismo foi logrado por um filme que quer abusar das metáforas e ir logo para fumaças malditas saindo do chão e asas de anjo decolando seres imortais. Fora o derramamento de sangue, o que torna tudo mais impactante.
+
+O exagero no gore e na narrativa faz pensar que há um certo desdém pelos personagens, o que é um sacrilégio na vida real. Indesculpável. Mas todo filme, sobrenatural ou não, precisa de dinheiro para ser produzido. Por ter um tema de nicho, eventualmente surge no contrato a exigência de mostrar demônios, anjos e outras criaturas horrendas de forma literal. E dessa forma a profecia maldita no filme continua poderosa na vida real: a ganância corrompe tudo, e no cinema transforma boas ideias em filmes inchados com efeitos burocráticos que ninguém precisa ver.
+
+Outro problema que surge nesse tipo de projeto é não conseguir um elenco proeminente para segurar a bronca de um roteiro com diálogos sem imaginação. Atores e atrizes de peso fariam alguma coisa mesmo com texto ruim. Nem que fosse sarcasmo para cima do primeiro trabalho de Ed Alan. Não é o caso em A Profecia do Mal, que mesmo com esse nome tem a coragem de nos apresentar um elenco que parece acreditar nesse universo sem pensar duas vezes. Parece, mas sem energia, pois ninguém está muito interessado em viver na pele de seus confusos, precários personagens.
+
+As exceções talvez sejam duas. Joe Doyle vive a reencarnação do Arcanjo Miguel na Terra e começa a gostar de ser tipo um Exterminador do Futuro na sequência de James Cameron e salvar a loira de parir uma maldição. E Eveline Hall, uma espécie de substituta de Helen Mirren, vive a humana mais devota de Satanás, além da mais insistente. Esses dois preenchem boa parte das duas horas de projeção em um vai-e-vem frenético para decidir o destino da humanidade ou do ventre da loira. Ou ambos.
+
+Porém, visto como um todo, é difícil achar um momento de paixão pelo filme. Ele poderia ser um pouco mais ruim e incitar risadas acidentais e faria sucesso. Ou poderia ser um pouco melhor e ganhar uma certa fama com o tempo. Ficar no meio termo sabota os esforços que qualquer bem intencionado e incauto espectador teria ao estar na sala de cinema. E por que ele estaria lá? Sei lá, de repente foi o único horário que ele tinha na agenda e ele foi empolgado mesmo com esse título e nomes semi desconhecidos nos créditos. Enfim, não podemos culpar a vítima pelo crime. É raro, mas há boas descobertas quando vamos ao cinema. A notícia triste é que não foi dessa vez.
+
+Todos nós gostaríamos de entender o sobrenatural em uma época cada vez mais objetiva e ganhar um certo amparo. E quando me refiro a sobrenatural não penso apenas em anjos e demônios, mas também em filmes como esse, de material original, que contra todo o bom senso acaba chegando às telonas brasileiras. Por que esses filmes vêm para cá? Pagaremos sempre pelos nossos pecados ao não saber julgar o que passa diante de nossos olhos. Essa, sim, é uma verdadeira maldição.

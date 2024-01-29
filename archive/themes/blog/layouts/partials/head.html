@@ -1,0 +1,66 @@
+<head>
+  <meta charset="utf-8" />
+
+  <!-- Resize for mobile viewers (gold) -->
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+  {{ if .IsHome }}
+  <title>{{ .Site.Title }}</title>
+  {{ else }}
+  <title>{{ .Site.Title }} - {{ .Title }}</title>
+  {{ end }}
+  <meta name="author" content="{{ .Site.Author.name }}" />
+
+  {{ hugo.Generator }}
+
+  <!-- OpenGraph data -->
+  <meta property="og:title" content="{{ .Title }}"/>
+  <meta property="og:type"
+        content="{{ if .IsPage }}article{{ else }}website{{ end }}"/>
+  <meta property="og:url" content="{{ .Permalink }}"/>
+  <meta property="og:image"
+        content="{{ with .Params.image }}{{ . -}}
+                 {{ else -}}
+                   {{ if (fileExists (print "/static" .Site.Data.defaults.icons.logo)) -}}
+                     {{ .Site.Data.defaults.icons.logo -}}
+                   {{ end -}}
+                 {{ end }}"/>
+  {{- if .IsPage }}
+  <meta property="og:description"
+        content="{{ with .Description }}{{ . -}}
+                 {{ else }}{{ .Content | safeHTML | truncate 200 "..." -}}
+                 {{ end }}"/>
+  {{- else }}
+  <meta property="og:description"
+        content="{{ with .Description }}{{ . -}}
+                 {{ else }}{{ .Params.description -}}
+                 {{ end }}"/>
+  {{- end }}
+
+  <!-- RSS -->
+  <link href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}" rel="feed" type="application/rss+xml"
+        title="{{ .Site.Title }}"/>
+
+  <!-- CSS -->
+  {{ with .Params.css }}{{ . | safeHTML }}{{ end }}
+  <link rel="stylesheet" type="text/css" href="/css/custom.css"/>
+  <link rel="stylesheet" type="text/css" href="/css/jquery-ui.css"/>
+  <link rel="stylesheet" type="text/css" href="/css/board-min.css"/>
+
+  <!-- JS -->
+  {{ with .Params.js }}{{ . | safeJS | htmlUnescape | safeHTML }}{{ end -}}
+
+  <script src="/js/jquery-1.10.2.js"></script>
+  <script src="/js/jquery-ui.js"></script>
+  <script src="/js/pgnyui.js"></script>
+  <script src="/js/pgnviewer.js"></script>
+  {{ if .IsHome }}
+    {{ partial "quick_search_head.html" . }}
+    <script src="/js/quick_search.js"></script>
+  {{ else }}
+    <script src="/js/list.js"></script>
+  {{ end }}
+
+  <!-- Favicons -->
+  <link rel="icon" href="{{ .Site.Data.defaults.icons.favicon }}"/>
+</head>

@@ -1,0 +1,23 @@
+<!-- chess shortcode -->
+{{ $board := .Get "board" }}
+{{ $src := .Get "src" }}
+{{ $src = print "*" $src "*" -}}
+{{- with  $.Page.Resources.GetMatch $src -}}
+<script>
+new PgnViewer(
+  {
+    boardName: "{{ $board }}",
+    showCoordinates: true,
+    pgnFile: '{{ . }}',
+    pieceSet: 'merida',
+    pieceSize: 65
+  }
+);
+</script>
+<p><a href="{{ .Permalink }}">Source</a></p>
+{{- end -}}
+
+<div id="{{ $board }}-container"></div>
+
+<div id="{{ $board }}-moves"></div>
+

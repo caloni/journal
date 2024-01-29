@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr" itemscope itemtype="http://schema.org/Article">
+
+  {{ partial "head.html" . }}
+
+  <body style="min-height:100vh;display:flex;flex-direction:column">
+    {{ partial "navbar.html" . }}
+    {{ partial "section_begin.html" . }}
+    {{ partial "filter.html" . }}
+    {{ partial "list_begin.html" . }}
+    {{ range .Pages }}
+        <tr><td><b><a href="{{ .Permalink }}" title="">{{ if .Title }}{{ .Title }}{{ else }}{{ .File.TranslationBaseName }}{{ end }}</a></b><small><i> 
+        {{ .Params.date.Format "2006-01-02" }} {{ with .Params.categories }} {{ . }} {{ end }} {{ with .Params.tags }} {{ . }} {{ end }} {{ .Summary }} </small></i>
+        </td></tr>
+    {{ end }}
+    {{ partial "list_end.html" . }}
+    {{ partial "section_end.html" . }}
+    {{ partial "footer.html" . }}
+  </body>
+
+</html>

@@ -1,0 +1,35 @@
+---
+categories:
+- cooking
+date: '2023-03-05'
+tags: []
+title: Fiz Trança de Banana
+---
+
+Essa receita originalmente iria cará e foi adaptada para usar banana bem madura. Além da banana ou do cará, os outros ingredientes são: farinha de trigo, fermento biológico, ovos, leite, manteiga e açúcar. Pegue a banana e cozinhe em uma panela, reduzindo o líquido ao máximo. Quando a banana esfriar, pese-a e use o dobro do peso em farinha de trigo. Cada 1kg de farinha faz três tranças de tamanho médio e vai 6 ovos. Os outros ingredientes estão pesados em porcentagem da farinha: 20% de manteiga, 20% de leite e 25% de açúcar em média. Dependendo do quão doce está a banana e o quão doce você deseja que fique o pão você pode aumentar ou reduzir a quantidade de açúcar.
+
+Para preparar a massa comece pelo fermento. Se usar o instantâneo, faça uma esponja com 2% do peso da farinha e a mesma quantidade de farinha e água (50g a 100g). Misture tudo e aguarde cerca de 1h em temperatura ambiente para vê-la ativada, cheia de bolhas. Se quiser incluir fermento natural alimente-o e aguarde ele dobrar de tamanho. Você pode usar um dos dois fermentos ou os dois. Se no meio houver o instantâneo o crescimento será mais rápido devido a ele, e o fermento natural será responsável pelo aroma e maciez. No caso de usar apenas o fermento natural, tenha paciência: os tempos de fermentação são maiores.
+
+Quando os fermentos estiverem ativos é hora de juntá-los com a farinha e os ovos. Misture tudo e adicione 20% de leite, excluindo a água já usada para os fermentos. Sim, é um cálculo complexo de porcentagem e regra de três; boa sorte em ser padeiro. Depois de misturado aguarde 10 minutos descansando para realizar uma rápida autólise e relaxar a massa para a sova. Depois desse período a sova precisa ser bem feita, pois essa massa tem os mesmos desafios do panetone de colocar ingredientes que dificultam seu crescimento: o açúcar e a manteiga, que devem estar já pesados esperando para entrar na massa. A manteiga integra melhor cortada em cubinhos.
+
+Aliás, você pode já adicionar a manteiga e o açúcar durante a sova ou aguardar até a massa começar a ficar elástica. Não notei muita diferença entre esse antes e depois, o trabalho é o mesmo. É comum a massa ficar grudenta, mas tenha paciência. Atente para que ela esteja em ponto de véu e macia. Depois de cerca de 15 minutos sovando e misturando os ingredientes já deve estar nesse ponto. Se não estiver deixe descansando mais 10 minutos e continue. Quando a massa estiver elástica e ponto de véu, é só colocar em um recipiente fechado formando uma bola e deixar crescer até dobrar. Você pode deixar em temperatura ambiente ou na geladeira, ou em ambos, conforme seu ritmo. Na geladeira o crescimento irá desacelerar, sendo possível até deixar a noite inteira. Em temperatura ambiente é questão de uma ou duas horas, exceto se for fermento natural, o que pode demorar até a noite inteira se for uma noite fria. O objetivo do crescimento é dobrar de tamanho.
+
+Depois de crescida você precisa de uma superfície lisa, limpa e com um pouco de farinha para não grudar. Separe cada porção de cerca de 300g de massa em três pedaços e vá alongando-os em fios grossos, puxando, segurando duas pontas como se fosse uma corda de pular. Pode usar a gravidade para isso, só levantando a massa de um lado e do outro. Só cuidado para não alongar demais. Forme três fios longos um do lado do outro, junte as três pontas e comece a trançar a massa, levando o fio da ponta para o meio, depois o da outra ponta, e assim por diante. Mantenha bem aberto o espaço entre as linhas para não grudar, mas na hora de juntar coloque um em cima do outro e evite puxar demais, pois perde volume. Ao final, junte as três outras pontas. Leve para uma forma untada ou com papel manteiga (vai ser melhor para tirar depois) e aguarde crescer mais por uma hora. É capaz que a trança até dobre de tamanho novamente.
+
+Quando estiver pronta para ir ao forno pré-aqueça em 180 graus. Para uma cobertura opcional pode-se misturar açúcar (de preferência cristal) com canela e gema, ou até o ovo inteiro; pincele essa mistura por cima da massa. A gosto. Deixe assando por pelo menos 20 minutos até cerca de meia-hora ou até a parte externa dourar. Aguarde esfriar para tirar da forma sem desmanchar.
+
+## 2023-03-03
+
+Fiz uma mega porção com 800g de banana reduzida que estava no freezer e 1,5kg de farinha. Todo o resto segui as proporções oficiais de 20% de manteiga (300g), 30% de açúcar (500g) e 6 ovos por kg de farinha, o que deu 9. Tudo foi feito com fermento natural, 450g já alimentado (150g de base, a mesma quantidade de farinha e água). Por causa da água do fermento fiquei na dúvida sobre o nível de hidratação. Cheguei a fazer os 20% de leite, mas ao hidratar a massa com metade já notei que estava líquida demais e descartei o resto. De fato, após fermentar a noite inteira em temperatura ambiente o resultado estava bem hidratado e tive que colocar bastante farinha na bancada. Fazendo a conta correta agora pela quantidade de farinha total, incluindo a do fermento natural (1500+(450/2)) daria 345.0 de leite. Porém, a água incluída no fermento já é responsável por 225.0, o que deixa a quantidade de leite que resta em 120g (considere ml==g). Ou seja, devo ter colocado 80g a mais do necessário. Porém, acabou dando tudo certo. Ao final do crescimento e montagem deu três tranças médias e uma gigante. Assado por menos de meia hora a parte externa levemente tostada. Usar o papel manteiga tornou muito mais simples retirar da forma após frio. O tamanho gigante foi o único que ficou encruado no meio e devo aposentar este tamanho, que não é prático e tende a queimar nas bordas antes de assar (necessita teste). Pelos cálculos 300g de farinha faz uma trança, ou seja, cada 1kg de farinha gera três porções. As tranças médias ficaram fofinhas e macias. Uma perfeição.
+
+## 2022-05-09
+
+Fiz novamente trança de banana, mas dessa vez simplifiquei o método e agilizei com fermento instantâneo. Fica algumas dicas e atualização do preparo.
+
+## 2021-08-07
+
+Terceira vez fazendo, e dessa vez acertei o ponto. É necessário mais que o dobro de banana reduzida para o gosto da fruta finalmente ser sentida no pão. Fiz no frio do inverno e a fermentação apenas com fermento natural durou umas 48 horas até finalmente estar pronto para o forno, mas valeu a pena o esforço em sovar e em descansar a massa. A textura ficou muito boa, próxima de um panettone. Cresceu bem e um tanto pegajosa. No final usei uma dica da Mitiko de usar banana como cobertura: piquei uma banana e fiz uma massa com gema, canela, açúcar cristal e um pouco de água. O único porém dessa fornada foi o uso de uma banana azeda (acho que nanica), mas usar uma banana mais doce deve corrigir.
+
+## 2021-07-05
+
+Além se trocar o cará por banana usei meu fermento natural (mas depois pedi ajuda e coloquei um pouquinho do instantâneo na esponja) e sovei a massa após misturar tudo. Com esse frio demorou 24 horas para finalmente crescer, mas funcionou. Longuíssima fermentação. O sabor não ficou quase nada de banana. Pretendo usar mais na próxima.

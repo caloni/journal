@@ -1,9 +1,0 @@
-[submodule "leituras"]
-	path = leituras
-	url = https://github.com/Caloni/leituras
-[submodule "projects/ccpptests"]
-	path = projects/ccpptests
-	url = https://github.com/Caloni/ccpptests
-[submodule "static/images"]
-	path = static/images
-	url = https://github.com/Caloni/images

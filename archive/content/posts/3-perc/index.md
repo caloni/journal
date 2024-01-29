@@ -1,0 +1,39 @@
+---
+categories:
+- writting
+date: '2016-12-04'
+link: https://www.imdb.com/title/tt4922804
+tags:
+- series
+title: 3%
+---
+
+Mais uma série Netflix advinda de um experimento de produtores brasileiros. Cheguei a ver o piloto experimental no YouTube. Parecia promissor, ainda que precisasse de polimento no formato novelístico e superficial. Hoje, com a primeira temporada já produzida em nível Netflix, é possível afirmar que ele ainda precisa de polimento, pois possui os mesmos defeitos ignorados pela gangue de roteiristas.
+
+Há uma boa história em 3%, no entanto. Futuro distópico, humanidade (ou aquela parte da humanidade) é dividida em duas castas. Uma, por um motivo qualquer, é de pessoas com riqueza de recursos. A outra é a ralé, que vive em casebres que lembram as gigantescas favelas brasileiras. Os moradores da parte menos nobre possuem uma chance na vida de migrarem para a parte rica, desde que passem por um conjunto de testes idealizado pela... adivinha? parte rica. Alguns não estão satisfeitos com isso e montaram uma milícia revolucionária. Outros possuem uma história emocionante que você irá acompanhar em flashbacks em cada novo episódio.
+
+Sim, estou sugerindo que tudo isso é muito clichê. Além disso, esse futuro distópico, apesar de possuir partes rica e pobre, é pobremente idealizado. A direção de arte e os efeitos visuais são pedestres. E parte dessa visão que nos é oferecida é culpa da direção, que insiste em tratar um "Ensaio sobre a Cegueira" como se fosse "Jogos Mortais".
+
+Aparentemente, não só eles. A gangue de roteiristas parece se dividir entre os que conseguem arrancar ótimos momentos onde as equipes dos competidores interagem, construindo alianças e rixas temporárias e convenientes, além de atuações particularmente curiosas de acompanhar -- como um cadeirante traindo seu orgulho, se vitimizando, para conseguir passar de fase. No entanto, esses ótimos momentos estão embalados em um verdadeiro show de horrores de personagens da parte rica, que são paradoxalmente pobremente desenvolvidos, além de possuírem os diálogos mais cafonas (apesar disso, os participantes do campeonato possuem uma grande dose de diálogos pavorosos e reveladores demais do que estão sentido ou o que está acontecendo).
+
+Além disso, o elenco está atipicamente irregular. Mesmo com alguns atores famosos e um elenco jovem que parece ter potencial, a série subutiliza, oferecendo comportamentos e atuações pedestres, mecânicas, que repetem diálogos novelísticos quando poderiam improvisar um conteúdo muito mais interessante.
+
+No entanto, esta parece ser uma série didática que busca entregar tudo mastigado para seu espectador. E o motivo, eu posso estar sendo preconceituoso, mas tudo indica que é mais uma vez uma cartilha de esquerda, que mais uma vez quer subverter bons temas em prol de uma ideologia falida, e que em 2016 encontra símbolos grandiosos de seu retumbante fracasso. Isso explicaria, por exemplo, porque o mundo mostrado na série é tão simplório, que ignora fundamentos econômicas dos mais básicos para entregar a velha luta de classes embalada em um velho formato enlatado de série B.
+
+Se há uma esperança na série é apenas se ela começar a ficar mais complexa. Se permanecer seu formato episódico, com o título determinando qual o próximo desafio, e mais um flashback de mais um personagem, ela irá virar o que desde o começo parece ter anunciado: uma novela com um estilo mais artístico. E com um orçamento limitado. Ou isso, ou seus idealizadores realmente não conseguem sair da caixinha vermelha nem se bem pagos.
+
+## Uma série para bandidos (com spoilers)
+
+Caloni, 2017-01-01.
+
+Michele e Rafael são idiotas úteis movidos por vingança -- e que poderia muito bem ser outro sentimento negativo, como inveja -- e instrumentados por um movimento semelhante ao PCC de São Paulo, Brasil. Seu objetivo como grupo é claro: roubar a riqueza dos que prosperam do "lado de lá", uma sociedade formada inteiramente através de um processo meritocrático, e que não precisou de nem um centavo dos milhares de miseráveis que sobrevivem como selvagens em uma grande favela sem leis chamada de "lado de cá".
+
+Os fundadores do lado de lá foi um casal, que não obrigou ninguém a segui-los nem forçou ninguém a ajudá-los. Agora, mais de cem anos depois, vemos dezenas de jovens se digladiando em um processo que irá lhes dar o privilégio de sair da selvageria da lei do mais forte. No meio deles, Michele e Rafael "lutam" como piratas sem honra, como o escárnio da sociedade de miseráveis. Além de não conseguirem produzir nada que preste exceto pobreza e violência, os moradores do lado de cá aos poucos se organizaram em uma facção criminosa movida pela inveja, declarando politicamente que todos teriam direito aos recursos produzidos pelo lado de lá.
+
+O lado de lá parece atingir com sua filosofia podre de lei do mais forte e apelo à emoção com tanta força seus descendentes do lado bom, que o processo parece ter escalado apenas as pessoas mais alheias à selvageria humana para conduzir o sistema meritocrático, encabeçado pelo frio e calculista Ezequiel. Ele já teve que ver sua mulher se suicidar porque não podia quebrar as regras do lado de lá, e mesmo assim manteve sua convicção no processo. Ele tem que lidar todos os dias com jovens de 20 anos de todos os tipos: de otimistas ingênuos que acham que irão ter tudo fácil no lado de lá até pseudo-revolucionários de merda que acreditam que sabem mais que todo mundo mesmo tendo acabado de sair das fraldas. Aliás, se considerarmos a grande massa juvenil, parece até descabido existir tão poucos com um pensamento mais comunitário e até comunista, já que está cientificamente provado que os que não possuem argumentos lógicos no início de sua vida adulta sentem-se apaixonados naturalmente por uma causa irracional. E qual é a causa irracional mais atraente senão aquela que lhe promete dar tudo mesmo sem você precisar produzir nada?
+
+A verdade é que no meio de tanta estupidez nos crentes do processo, desde o começo da fundação do ingênuo casal corporativista (ou platônico?) que acreditava em uma utópica meritocracia ainda na vida adulta, nenhum dos dois lados parece ter um pingo de razão. Entendendo como o processo funciona, a porta de entrada para este mundo paradisíaco, fica difícil acreditar que de fato existe uma sociedade do lado de lá que seja mais esperta que o bando de jovens que lutam por um lugar ao sol. Se analisarmos o bê-a-bá econômico, já não faria sentido, mas filosoficamente falando, uma sociedade dessas só poderia ser formada por robôs, e não por ex-cidadãos favelados filhos de bandidos sanguinários.
+
+As obras do destino no meio do processo parecem até terem sido escritas por um desses moleques descerebrados vestindo a camiseta do Che Guevara, o assassino cubano homofóbico declarado. No ápice do seu ódio desproporcional e sem explicação da classe média (senão a pura inveja), o processo acaba literalmente cortando ao meio um dos filhos do lado de lá (nascido no lado de cá, claro), com direito a todos os requintes de crueldade. E isso sem ninguém perceber que aquela prisão entre contêineres é justamente uma mini-sociedade lado de cá, onde não existe lei (ou, outra forma de dizer, é a lei do mais forte que impera).
+
+Talvez o que torne o processo tão enigmático é que tanto os que selecionam quanto os selecionados ignoram que vivem em uma utopia. Nada, desde o processo até o lado de lá, faz sentido algum. A única coisa que faz sentido é o lado de cá, com sua miséria gerada por uma sociedade de pessoas limitadas, preguiçosas, ignorantes e selvagens. É isso o que gera a pobreza, e não um casal que decidiu há cem anos sair dessa barbárie para construir uma sociedade melhor. Acreditar que esse bando de animais merece alguma coisa de dois seres humanos apenas por existirem só pode ser fruto de uma mente doentia. E essa mente nunca passaria em seu próprio processo.

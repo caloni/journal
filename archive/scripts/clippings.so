@@ -1,0 +1,3 @@
+﻿call matchadd("search", "do só o eterno.")
+call matchadd("search", "Creating a modern application process requires more than just calling CreateProcess with the correct executable path. There are some required command-line arguments. Yet another requirement is adding an undocumented process attribute (using UpdateProcThreadAttribute) with a key named PROC_THREAD_ATTRIBUTE_PACKAGE_FULL_NAME with the value set to the full store app package name.")
+call matchadd("search", "the same internal routines are used to perform the work: PspAllocateProcess and PspInsertProcess. All the possible ways we’ve enumerated so far to create a process, and any ways you can imagine, from a WMI PowerShell cmdlet to a kernel driver, will end up there.")

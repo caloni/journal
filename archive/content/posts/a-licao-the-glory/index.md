@@ -1,0 +1,16 @@
+---
+categories:
+- writting
+date: '2023-01-08T21:02:30-03:00'
+tags:
+- series
+title: A Lição (The Glory)
+---
+
+Novelas coreanas são muito boas. A produção é boa. Os atores são bons. Os roteiros nem tanto. Porém, das produções de audiovisual do mundo, os roteiros das novelas coreanas são os que mais se aproximam daquela forma de arte que atrai pela nossa própria natureza de curiosos. Como em qualquer novela eles apelam para as emoções mais básicas, como injustiça, violência, luxúria, traições, vingança, paixão. Sexo, por que não. Os coreanos têm cada vez mais colocado as asinhas de fora por causa da fúria globalista. Todas essas características juntas tornam as novelas mais próximas do trash, que é um traço do cinema que todo cinéfilo deve gostar por obrigação. Do contrário, como conseguiria ver mais que um ou dois filmes por ano?
+
+Mas há um outro traço nas novelas da Coreia que as tornam não apenas o lixo de todo dia, mas um lixo requintado. Há um polimento na produção. O básico, o simples de enxergar, é a fotografia e as direções de atores e de arte. O submerso na obra, que é consequência do básico, mas mais difícil de encontrar, é a mistura entre o riso e o lixo. Aquela risada fácil que não é fácil, porque está ancorada em questões sociais deste país que se identifica para o mundo como um povo de contrastes.
+
+Falei sobre riso, mas pode-se encaixar tanto a risada quanto o dramalhão, ambos lados da mesma moeda novelística. No caso de The Glory, ou A Lição, é o dramalhão requintado, com toques de noir pós-moderno e roteiro confuso para nos fazer respirar a névoa enigmática por trás de uma vingança que não é um prato que se come frio: se come gelado, em longas 7 horas. Esta é uma série que pode se aproveitar das coincidências e mesmo assim dá muitas voltas para sair no mesmo lugar.
+
+Há poucos risos nesta série que explora o bullying no seu núcleo social, na relação de dominantes e dominados, ou criminosos e vítimas. Uma vez vítima, sempre vítima, é o que realiza sua heroína, Moon Dong-Eun. Então ela decide se matar, e no ato acaba se matando mesmo. Metaforicamente. Do outro lado de sua decisão de abdicar de quem um dia foi abusada, um saco de pancadas inerte de seus colegas de classe, ressurge outra pessoa. Há um imprint de uma nova personagem em cima da original. Tanto que não identificamos traços da atriz da fase jovem Jung Ji-so em Song Hye-Kyo, absoluta e autocentrada na fase adulta. Diferente dos vilões, onde as versões jovens e adultas é só uma questão de idade, incluindo as mesmas relações de dominância que iniciaram no colégio. Vilões não mudam porque estão em um mundo que os favorece. Vítimas, por outro lado, precisam morrer. É a única maneira de reviverem como seres humanos. Essa é a mensagem mais bela que você irá encontrar nesta série coreana.
