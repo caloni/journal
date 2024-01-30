@@ -15378,3 +15378,16 @@ DuplicateSHChangeNotifyRegister
 ```
 
 [undocumented]: https://modexp.wordpress.com/2019/08/05/windows-process-injection-scn/
+
+
+# The real bug of downloading file is related to HWND replacement
+:date: 2024-01-30
+:tags: tag_venn
+
+The real bug in this issue happens by changing the HWND from Windows.Storage API in the call Global_WindowsStorage_hwndSCN for the HWND returned by shell32 API GetShellChangeNotifyWindow. If we don't change that downloading a file from the browser is update in SE File Manager successfully.
+
+However, this HWND copy was implemented to capture another shell notification events that otherwise wouldn't happen inside SE, such as USB media add/remove. So the fix is not just remove this code.
+
+Today I logged windows messages from shell32, Windows.Storage and added a third worker window to use it as if it was the shell notification window. This window didn't received the same events from shell32 window or even Windows.Storage when replaced in Global_WindowsStorage_hwndSCN.
+
+Another test was to capture the SHChangeNotify calls inside SE to see if we can just intercept those messages and redirect to subscriber windows, but the download file event is not there, must have been triggered outside.
