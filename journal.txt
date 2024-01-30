@@ -15338,3 +15338,43 @@ std::wstring SHChangeNotifyEventToString(LONG events)
 }
 ```
 
+= Understanding the Global_WindowsStorage_hwndSCN and GetShellChangeNotifyWindow calls
+:date: 2024-01-29
+:tags: tag_venn
+
+I hadn't still figured out what is the catch in this duplicate the windows shell notification subscribe thing in DuplicateSHChangeNotifyRegister, so I research about the APIs Global_WindowsStorage_hwndSCN and GetShellChangeNotifyWindow. These APIs are used to get the "shell change notify" window. They are [undocumented]. In the duplicate call action those functions are called and the Windows.Storage window handle is rewritten to the shell window handle.
+
+```
+bool DuplicateSHChangeNotifyRegister(const std::function<SHChangeNotifyRegisterType>& func, HWND hwnd, int sources, LONG events, UINT wMsg, int cEntries, const SHChangeNotifyEntry* pshcne)
+{
+    HWND* wndSCN_WindowsStorage = OriginalGlobal_WindowsStorage_hwndSCN();
+    HWND wndSCN_User32 = OriginalGetShellChangeNotifyWindow();
+
+    *wndSCN_WindowsStorage = wndSCN_User32;
+
+    func(hwnd, sources, events, wMsg, cEntries, pshcne);
+    
+    return true;
+}
+```
+
+I put some logs to analyze if the handles change in a different way, but that's it. Initially in some process they are different between the shell API and Windows.Storage API. Here are some samples:
+
+duplicateifneed.txt
+
+After the first call that duplicates the return from Global_WindowsStorage_hwndSCN, a HWND pointer, is defered and put to equal the value returned by GetShellChangeNotifyWindow. This is a by process value. When a second explorer.exe starts, by example, wndSCN_WindowsStorage has another value. The same happens in chrome.exe instance. Every process seems to have its own Global_WindowsStorage_hwndSCN handle value and by duplicating the call makes it equal to GetShellChangeNotifyWindow.
+
+## ROADMAP-69680 fix is also USB related?
+
+The fix bellow made to ROADMAP-69680 (File Explorer crash when waked from sleep/hibernate) also "fixed" ROADMAP-70496 (Plugged USB does not show in File Explorer), since if this code is reverted plugged USBs stopped to refresh to SE File Explorer.
+
+```
+DuplicateSHChangeNotifyRegister
+...
++    //Fix ROADMAP-69680
++    //*wndSCN_WindowsStorage = originalWndSCN_WindowsStorage;
+
+-    *wndSCN_WindowsStorage = originalWndSCN_WindowsStorage;
+```
+
+[undocumented]: https://modexp.wordpress.com/2019/08/05/windows-process-injection-scn/
