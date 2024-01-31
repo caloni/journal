@@ -15391,3 +15391,16 @@ However, this HWND copy was implemented to capture another shell notification ev
 Today I logged windows messages from shell32, Windows.Storage and added a third worker window to use it as if it was the shell notification window. This window didn't received the same events from shell32 window or even Windows.Storage when replaced in Global_WindowsStorage_hwndSCN.
 
 Another test was to capture the SHChangeNotify calls inside SE to see if we can just intercept those messages and redirect to subscriber windows, but the download file event is not there, must have been triggered outside.
+
+
+= An idea that worked only once
+:date: 2024-01-31
+:tags: tag_venn
+
+Today I had an idea of setting the Windows.Storage shell window equal to the shell32 shell window just in the beginning, when the protection is loading its functions to hoook. What happened was that the USB add/removal notification worked and the downloading file notifcation also worked. I saw that happened once, just before the standup. So I believed I had found the solution to this issue and future issues related to shell notification by simply removing code.
+
+However, the next tests showed me the same bug again. The exact situation of setting handle in beginning stopped to work for downloaded files. I started to get errors of not finding the window handle for Windows.Storage calling Global_WindowsStorage_hwndSCN when loading functions for hook. I created a thread to set the handle equal to shell32 as soon as is detected it is not null. I tried to remove and add the handle setting inside DuplicateSHChangeNotifyRegister or DuplicateIfNeed. Nothing make me see USB and download file working together again. I lost this situation.
+
+So back to square one. I know that by changing this handle download file does not work, and my feeling is that this must happen when we change its value because the original value is being checked somehow of being used as some index for whoever calls the Global_WindowsStorage_hwndSCN before or after us.
+
+An important information is that Workplace updated after I made the test. Not that this is related, but could be some kind of race condition? Just wondering.
