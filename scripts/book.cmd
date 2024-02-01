@@ -5,9 +5,12 @@ rm -fr public\book
 xcopy /Q /E /I /Y book public\book
 xcopy /Q /E /I /Y img\journal public\book\EPUB\img
 xcopy /Q /E /I /Y img\blog public\book\EPUB\img
+xcopy /Q /E /I /Y img\journal public\book\MOBI\img
+xcopy /Q /E /I /Y img\blog public\book\MOBI\img
 setlocal
 set LC_ALL=en_US.UTF-8
 gawk -f scripts\txt2epub.awk blog.txt journal.txt
+gawk -f scripts\txt2mobi.awk blog.txt journal.txt
 endlocal
 pushd public\book
 call repack.cmd
