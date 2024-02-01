@@ -294,12 +294,19 @@ END {
     draftContent = ""
   }
 
+  for( f in files ) {
+    file = "public\\book\\MOBI\\" f ".xhtml"
+    print "</div>" > file
+    print "</body>" > file
+    print "</html>" > file
+  }
+
   package = "public\\book\\MOBI\\book.opf"
   print "<?xml version=\"1.0\" encoding=\"utf-8\"?>" > package
   print "<package unique-identifier=\"uid\" xmlns:opf=\"http://www.idpf.org/2007/opf\" xmlns:asd=\"http://www.idpf.org/asdfaf\">" > package
   print "<metadata>" > package
   print "<dc-metadata  xmlns:dc=\"http://purl.org/metadata/dublin_core\" xmlns:oebpackage=\"http://openebook.org/namespaces/oeb-package/1.0/\">" > package
-  print "<dc:Title>Blogue do Caloni</dc:Title>" > package
+  print "<dc:Title>Blogue do Caloni: Programação, Depuração, Transpiração</dc:Title>" > package
   print "<dc:Language>pt</dc:Language>" > package
   print "<dc:Creator>Wanderley Caloni</dc:Creator>" > package
   print "<dc:Copyrights>Copyright Wanderley Caloni</dc:Copyrights>" > package
@@ -329,7 +336,7 @@ END {
   print "<head>" > tocncx
   print "</head>" > tocncx
   print "<docTitle>" > tocncx
-  print "<text>Blogue do Caloni</text>" > tocncx
+  print "<text>Blogue do Caloni: Programação, Depuração, Transpiração</text>" > tocncx
   print "</docTitle>" > tocncx
   print "<navMap>" > tocncx
   print "<navPoint id=\"text\" playOrder=\"1\"><navLabel> <text>int main</text> </navLabel> <content src=\"index.html#text\"/> </navPoint>" > tocncx
@@ -340,7 +347,7 @@ END {
   tocxhtml = "public\\book\\MOBI\\index.html"
   print "<!DOCTYPE html>" > tocxhtml
   print "<head>" > tocxhtml
-  print "<meta name=\"generator\" content=\"Hugo 0.122.0\">" > tocxhtml
+  print "<meta name=\"generator\" content=\"AWK\">" > tocxhtml
   print "<title>Blogue do Caloni</title>" > tocxhtml
   print "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf8\">" > tocxhtml
   print "</head>" > tocxhtml
