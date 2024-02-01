@@ -15404,3 +15404,54 @@ However, the next tests showed me the same bug again. The exact situation of set
 So back to square one. I know that by changing this handle download file does not work, and my feeling is that this must happen when we change its value because the original value is being checked somehow of being used as some index for whoever calls the Global_WindowsStorage_hwndSCN before or after us.
 
 An important information is that Workplace updated after I made the test. Not that this is related, but could be some kind of race condition? Just wondering.
+
+
+= Never mind this lapse
+:date: 2024-02-01
+:tags: tag_venn
+
+Discovered what was the difference from the idea test before. I copied the same logic block from the original code where the window handle is not replaced in Windows.Storage by shell32 if Windows.Storage is a null handle. I ignored that and the fix worked again.
+
+## Seeing what is broken
+
+Now testing the features that run upon the idea of filtering notifications. The first one, ROADMAP-68178, does not work, because the events in AppData need to be filtered out, since the path is identical to inside and outside SE File Explorer, but they point to different file systems. However, the master version is not working either.
+
+ROADMAP-66885 is working with new version (using V: as S:, since there is no more S:).
+
+Talked to Oleh about the bug back and he send me ROADMAP-71357 that seems the exact bug from ROADMAP-68178. Oleh pointed out in the comments that could be caused by ROADMAP-69680 (File Explorer crash after wake from sleep/hibernate). I checked and it is not. So I started to test newer versions and discovered the culprit was ROADMAP-70496 (USB plugged in notification fix).
+
+```
+git log --oneline master -- *ShellChangeNotifyProtection.cpp
+
+a103ac73e (tag: nightly-1.0.8719.193, tag: driver-1.0.8718.41910, tag: dev-1.0.8718.39174) Merged PR 29411: ROADMAP-70496   Plugged USB and other storages locations do not show up in File Explorer in SE until File Manager is refreshed by pressing F5
+ - same as 5c8c173ea, bug inserted again
+c566d3e89 (tag: dev-1.0.8711.23285) Merged PR 29328: Revert 'ROADMAP-70496   Plugged USB and other storages locations do not show up in Fi...'
+ - revert, everything's OK again
+5c8c173ea (tag: nightly-1.0.8711.186, tag: nightly-1.0.8710.21781, tag: driver-1.0.8711.13764, tag: dev-1.0.8711.2111, tag: dev-1.0.8710.14503, tag: akuzmenko-1.0.8710.24911) Merged PR 29258: ROADMAP-70496   Plugged USB and other storages locations do not show up in Fi...
+ - bug only when deleting folder inside SE reflecting in outside SE File Explorer
+647467ca1 (tag: nightly-1.0.8693.21783, tag: dev-1.0.8693.11966, tag: akuzmenko-1.0.8693.16635) Merged PR 29118: ROADMAP-70496   Plugged USB and other storages locations do not show up in Fi...
+ - everything's OK here
+524367a1b (HEAD, tag: hook-1.0.8663.16688, tag: dev-1.0.8663.16684) Merged PR 28722: ROADMAP-69680: Launched LZ File Explorer instance(s) closed unexpectedly afte...
+ - everything's OK here
+...
+```
+
+I know why that happens only now, since I logged every notification subscription that caused duplication. The media add/removal was the first event to really call `DuplicateSHChangeNotifyRegister`, the others were not activating this method. What this function does besides calling the subscribe API again is to replace the WND handle from WindowsStorage for Shell32 handle. This causes the bug in ROADMAP-71357. What (maybe) causes the bug of this issue is precisely **not changing** this handle; changing the handle fixes download file notification and break AppData issue.
+
+I made a test to isolate this behavior. In this test the only thing this protection did was to create a thread to swap those handles (WindowsStorage and Shell32). No hook was installed. Debugging explorer.exe, when changing the handle the AppData issue appeared. When changing back to original it disappeared. Vice-versa with the download file bug.
+
+```
+bool ShellChangeNotifyProtection::LoadFunctions()
+{
+//...
+
+    CreateThread(NULL, 0, ReplaceWindowsStorage_hwndSCN, NULL, 0, NULL);
+    return false; // does not inject any hook
+}
+
+DWORD WINAPI ReplaceWindowsStorage_hwndSCN(PVOID _pv)
+{
+// swap WND handles at will (debugging)
+}
+```
+
