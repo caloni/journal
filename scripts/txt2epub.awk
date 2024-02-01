@@ -354,7 +354,8 @@ END {
   print "<dc:identifier id=\"p0000000000000\">0000000000000</dc:identifier>" > package
   print "<dc:source id=\"src-id\">urn:isbn:0000000000000</dc:source>" > package
   print "<dc:language>pt-BR</dc:language>" > package
-  print "<meta property=\"dcterms:modified\">2023-07-29T00:00:00Z</meta>" > package
+  "date" | getline currentDate
+  print "<meta property=\"dcterms:modified\">" currentDate "</meta>" > package
   print "</metadata>" > package
   print "<manifest>" > package
   print "<item id=\"cover\" href=\"cover.xhtml\" media-type=\"application/xhtml+xml\"/>" > package

@@ -378,7 +378,8 @@ END {
   print "<h3 id=\"categories-blog\">Blog</h3>" > tocxhtml
   print "<li><a href=\"#about\">Wanderley Caloni</a></li>" > tocxhtml
   print "</ul>" > tocxhtml
-  print "<div id=\"end\" style=\"page-break-before: always;\"><p>Obrigado por ler! =)</p><p>Blogue do Caloni 2023. </p></div>" > tocxhtml
+  "date" | getline currentDate
+  print "<div id=\"end\" style=\"page-break-before: always;\"><p>Obrigado por ler! =)</p><p>Blogue do Caloni " currentDate ". </p></div>" > tocxhtml
   print "</body>" > tocxhtml
   print "</html>" > tocxhtml
 }
