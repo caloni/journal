@@ -89,23 +89,23 @@ function writepost()
     print "\n\n" > drafts
   }
   fchapter = toid(chapter)
-}
-
-
-function writeclippings()
-{
-  slug = "clippings"
-  title = "Clippings"
-  content = "<pre>" tohtml(readfile("clippings.txt")) "</pre>"
-  entries[substr(title, 1, 1),title] = title
-  terms["clippings"][title] = title
-  sterms = "<a href=\"toc_clippings.xhtml\">clippings</a>"
-  slugs[slug]["slug"] = slug
-  slugs[slug]["title"] = title
-  slugs[slug]["date"] = date
-  titleToSlug[title] = slug
-  titleToChapter[title] = chapter
-  fchapter = toid(chapter)
+  file = "public\\book\\MOBI\\" fchapter ".html"
+  if( ! (fchapter in files) ) {
+    print "<!DOCTYPE html>" > file
+    print "<head>" > file
+    print "<meta name=\"generator\" content=\"AWK\">" > file
+    print "<title>" tohtml(chapter) "</title>" > file
+    print "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf8\">" > file
+    print "</head>" > file
+    print "<body>" > file
+    print "<h2 class=\"chapter-title\" style=\"page-break-before: always\" id=\"" toid(chapter) "\">" tohtml(chapter) "</h2>" > file
+    files[fchapter] = fchapter
+  }
+  print "<h3 class=\"title\" style=\"page-break-before: always\" id=\"" toid(slug) "\">" tohtml(title) "</h3>" > file
+  print "<i>Wanderley Caloni, " date "</i>" > file
+  print content > file
+  print "<span>" > file
+  print "</span>" > file
 }
 
 
@@ -289,14 +289,12 @@ BEGIN {
 END {
   if( content ) {
     writepost()
-    writeclippings()
     content = ""
     draftContent = ""
   }
 
   for( f in files ) {
-    file = "public\\book\\MOBI\\" f ".xhtml"
-    print "</div>" > file
+    file = "public\\book\\MOBI\\" f ".html"
     print "</body>" > file
     print "</html>" > file
   }
