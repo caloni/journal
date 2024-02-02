@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2016-12-14"
 imdb: "5215952"
 title: "O Lamento"

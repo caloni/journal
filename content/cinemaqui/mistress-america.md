@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2015-10-26"
 title: "Mistress America"
 ---

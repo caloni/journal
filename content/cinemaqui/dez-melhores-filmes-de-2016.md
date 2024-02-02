@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2016-12-27"
 title: "Dez melhores filmes de 2016"
 

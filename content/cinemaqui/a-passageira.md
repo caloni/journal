@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2016-09-17"
 imdb: "4072352"
 title: "A Passageira"

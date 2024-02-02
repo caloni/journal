@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2016-02-12"
 title: "A Garota Dinamarquesa"
 ---

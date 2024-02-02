@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2017-05-31"
 imdb: "4429194"
 title: "Paris Pode Esperar"

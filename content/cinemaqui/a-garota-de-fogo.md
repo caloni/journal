@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2016-04-14"
 imdb: "3089326"
 title: "A Garota de Fogo"

@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2016-01-28"
 title: "O Filho de Saul"
 ---

@@ -1,10 +1,13 @@
 @echo off
 pushd public
-rm -r -f *
+rm -fr *
 popd
 hugo
 pushd public
 git add --all
-git commit -m "Publishing site."
+git ci %*
 git push
 popd
+git add --all
+git ci %*
+git push

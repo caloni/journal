@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2016-09-30"
 imdb: "4163644"
 title: "Refúgio"

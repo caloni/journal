@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2015-10-09"
 title: "Eu Estava Justamente Pensando em Você"
 ---

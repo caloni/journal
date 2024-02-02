@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2015-10-15"
 title: "Peter Pan"
 ---

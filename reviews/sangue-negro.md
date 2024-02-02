@@ -1,8 +1,0 @@
-
-
-Os limites de uma sociedade imediatista.
-
-Com uma longa introdução sem falas que praticamente diz tudo que precisamos saber do protagonista para entender seus atos durante toda a longa, mas empolgante, história de sua ascensão na indústria do petróleo, Sangue Negro não perde o ritmo e o significado em nenhum momento. Sua fotografia é delineada por sombras e contornos nítidos no horizonte, sempre a nos lembrar do óleo negro, implícito em cada cena, mesmo que não esteja lá. E, quando está, não raro impregna a face das pessoas ou até as fere. Até a trilha sonora, baseada em sons ritmados, evocam a todo o momento as bombas puxando o petróleo para a superfície.
-
-Dito isto, é preciso agora voltar os olhos novamente para Daniel Plainview, encarnado até o osso por um Daniel Day-Lewis com um vigor/ganância sem fins. A grandeza de seus obstáculos, como a igreja e as grandes companhias, apenas reforçam a quase insanidade desse homem e servem de exato contraponto para medirmos o grau de maldade que se esconde por trás do seu até certo ponto melancólico personagem. Um outro grande feito do filme é conseguir usar um vilão como O Protagonista, onde encontramos eco em talvez Cidadão Kane (mais pelo benefício da dúvida, embora em Kane sigamos os rastros de testemunhos, e não a própria visão do personagem-título).
-

@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2015-08-22"
 title: "Numa Escola de Havana"
 ---

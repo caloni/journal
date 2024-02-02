@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2016-12-02"
 imdb: "4686692"
 title: "O Ídolo"

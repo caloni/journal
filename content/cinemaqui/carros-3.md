@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2017-07-08"
 imdb: "3606752"
 title: "Carros 3"

@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2015-07-18"
 title: "A Nação Que Não Esperou Por Deus"
 ---

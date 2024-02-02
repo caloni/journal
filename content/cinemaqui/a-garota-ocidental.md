@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2017-06-21"
 imdb: "5771640"
 title: "A Garota Ocidental - Entre o Coração e a Tradição"

@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2016-02-18"
 imdb: "4285496"
 title: "O Abraço da Serpente"

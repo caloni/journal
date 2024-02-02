@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2017-01-11"
 imdb: "1472584"
 title: "Max Steel"

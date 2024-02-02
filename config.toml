@@ -1,20 +1,43 @@
-baseurl = "http://cinetenisverde.com.br/"
+baseURL = "http://www.cinetenisverde.com.br/"
+languageCode = "en-us"
 title = "Cine Tênis Verde"
-theme = "hugo-tracks-theme"
-languageCode = "pt"
-disqusShortname = "cinetenisverde"
+theme = "hugo-xmin"
 googleAnalytics = "UA-50557403-1"
+disqusShortname = ""
+ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
+preserveTaxonomyNames = true
+footnotereturnlinkcontents = "?"
 
 [permalinks]
-post = "/:filename/"
+    post = "/:filename/"
+    note = "/:filename/"
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "Posts"
+    url = "/post/"
+    weight = 2
+[[menu.main]]
+    name = "Categories"
+    url = "/categories/"
+    weight = 3
+[[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 4
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 5
+[[menu.main]]
+    name = "Subscribe"
+    url = "/index.xml"
+    weight = 6
 
 [params]
-description = "A melhor forma de ver um filme é com o cérebro."
-copyright = "&copy; Cine Tênis Verde"
-author = "Wanderley Caloni"
-
-[params.social]
-facebook = "https://www.facebook.com/cinetenisverde"
-googleplus = "https://plus.google.com/b/116314610297829036822"
-email = "wanderley@caloni.com.br"
-twitter = "https://twitter.com/cinetenisverde"
+    description = "A website built through Hugo and blogdown."
+    footer = "&copy; Wanderley Caloni | [Github](https://github.com/caloni) | [Twitter](https://twitter.com/caloni)"
+    googleSearch = "005399618489749432245:uxhode2mus4"

@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2017-02-01"
 imdb: "2261287"
 title: "A Bailarina"

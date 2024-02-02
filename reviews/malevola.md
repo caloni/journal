@@ -1,7 +1,0 @@
-<a href="https://www.flickr.com/photos/120157483@N04/14420085845/" title="Malévola por wanderleycaloni, no Flickr"><img src="https://farm4.staticflickr.com/3894/14420085845_157a109325_o.jpg" alt="Malévola"></a>
-
-Difícil imaginar a bela Angeline Jolie, que também é um ótimo ser humano na vida real, interpretar um vilão. Porém, como pode-se esperar, não é exatamente isso que Malévola tenta fazer. Para um filme da Disney, há uma aura um pouco mais adulta que, assim como Frozen, tenta amadurecer o conceito de amor e abraçar cada vez mais um mundo onde mulheres não dependem dos homens para praticamente nada.
-
-E esse é o tipo de filme sobre mulheres, onde os homens desempenham um papel secundário, e onde até o rei, inimigo mortal da nossa semi-herói, parece não representar um perigo tão forte assim, o que pode ser uma pequena falha no filme. Como a batalha entre o bem e o mal não é o foco, mas a discussão acima da simplificação usual do que é bem e mal, se torna um mero detalhe. A passagem do tempo aqui desempenha um papel primordial para que acreditemos nas mudanças de atitudes dos personagens.
-
-Impressionante ainda são os efeitos visuais e a excepcional direção de arte, que consegue harmoniosamente criar um reino mágico com diferentes criaturas, incluindo incríveis fadas do tamanho de Sininho, mas com rostos humanos. Para quem gosta de admirar figurinos não é possível ignorar as diferentes vestes de Malévola em suas duas fases.

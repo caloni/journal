@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2016-07-08"
 imdb: "0067116"
 title: "A Conexão Francesa"

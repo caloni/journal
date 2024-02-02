@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2016-12-19"
 imdb: "4746506"
 title: "Belos Sonhos"

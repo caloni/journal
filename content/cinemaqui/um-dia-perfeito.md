@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2016-07-05"
 imdb: "3577624"
 title: "Um Dia Perfeito"

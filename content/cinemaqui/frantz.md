@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2017-05-26"
 imdb: "5029608"
 title: "Frantz"

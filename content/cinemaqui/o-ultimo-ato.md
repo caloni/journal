@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2015-03-13"
 title: "O Último Ato"
 ---

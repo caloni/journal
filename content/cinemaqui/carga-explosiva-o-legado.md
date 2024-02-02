@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2015-09-04"
 title: "Carga Explosiva - O Legado"
 ---

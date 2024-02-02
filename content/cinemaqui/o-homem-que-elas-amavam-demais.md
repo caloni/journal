@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2015-05-21"
 title: "O Homem Que Elas Amavam Demais"
 ---

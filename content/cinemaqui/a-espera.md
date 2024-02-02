@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2017-01-16"
 imdb: "3715122"
 title: "A Espera"

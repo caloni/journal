@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2016-02-05"
 title: "Os Dez Mandamentos"
 ---

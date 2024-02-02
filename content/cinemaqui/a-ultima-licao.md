@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2016-12-15"
 imdb: "3854770"
 title: "A Última Lição"

@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2017-01-12"
 imdb: "4975722"
 title: "Moonlight: Sob a Luz do Luar"

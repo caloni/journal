@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2016-01-22"
 title: "Snoopy & Charlie Brown: Peanuts, o Filme"
 ---

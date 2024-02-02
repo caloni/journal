@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2017-05-23"
 imdb: "5748480"
 title: "Muito Romântico"

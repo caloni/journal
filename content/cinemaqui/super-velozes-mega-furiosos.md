@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2015-05-11"
 title: "Super Velozes, Mega Furiosos"
 ---

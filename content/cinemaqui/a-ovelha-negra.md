@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2016-02-02"
 title: "A Ovelha Negra"
 ---

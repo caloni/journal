@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2016-02-19"
 imdb: "4667094"
 title: "50 Tons de Preto"

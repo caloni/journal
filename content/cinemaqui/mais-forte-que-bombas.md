@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2016-03-19"
 imdb: "2217859"
 title: "Mais Forte Que Bombas"

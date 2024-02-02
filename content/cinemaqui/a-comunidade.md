@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2016-08-04"
 imdb: "3082854"
 title: "A Comunidade"

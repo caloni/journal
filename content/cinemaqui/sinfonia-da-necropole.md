@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2016-03-30"
 imdb: "3906650"
 title: "Sinfonia da Necrópole"

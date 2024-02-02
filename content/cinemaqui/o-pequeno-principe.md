@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2015-08-29"
 title: "O Pequeno Príncipe (2015)"
 ---

@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2017-02-23"
 title: "Olhar Instigado"
 

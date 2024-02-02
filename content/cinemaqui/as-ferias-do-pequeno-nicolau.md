@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2014-12-18"
 title: "As Férias do Pequeno Nicolau"
 ---

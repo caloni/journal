@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2016-05-19"
 imdb: "3289712"
 title: "Casamento de Verdade"

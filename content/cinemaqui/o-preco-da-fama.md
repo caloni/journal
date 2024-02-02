@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2015-09-24"
 title: "O Preço da Fama"
 ---

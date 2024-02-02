@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2016-03-01"
 imdb: "1707380"
 title: "Tudo Vai Fica Bem"

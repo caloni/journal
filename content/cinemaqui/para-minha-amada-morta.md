@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2016-03-29"
 imdb: "3806654"
 title: "Para Minha Amada Morta"

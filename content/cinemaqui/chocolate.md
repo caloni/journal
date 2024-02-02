@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2016-06-03"
 imdb: "4400038"
 title: "Chocolate"

@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2016-07-06"
 title: "Amor e Amizade"
 imdb: "3068194"

@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2017-03-08"
 title: "Jonas e o Circo sem Lona"
 

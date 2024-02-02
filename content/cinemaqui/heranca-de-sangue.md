@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2016-09-03"
 imdb: "3647498"
 title: "Herança de Sangue"

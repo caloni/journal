@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2016-06-01"
 imdb: "4216908"
 title: "A Corte"

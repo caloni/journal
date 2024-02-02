@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2017-03-22"
 title: "O Ornitólogo"
 imdb: "4929038"

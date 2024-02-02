@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2016-10-26"
 imdb: "4645368"
 title: "É Apenas o Fim do Mundo"

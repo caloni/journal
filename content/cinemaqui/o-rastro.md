@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2017-05-03"
 title: "O Rastro"
 stars: "3/5"

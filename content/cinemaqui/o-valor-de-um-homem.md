@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2016-05-20"
 imdb: "4428814"
 title: "O Valor de um Homem"

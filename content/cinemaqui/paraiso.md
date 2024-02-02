@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2017-01-20"
 imdb: "4551318"
 title: "Paraíso"

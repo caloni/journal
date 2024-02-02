@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2017-03-10"
 title: "Era O Hotel Cambridge"
 imdb: "5067984"

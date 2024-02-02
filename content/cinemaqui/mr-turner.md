@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2015-02-22"
 title: "Mr. Turner"
 ---

@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2015-09-16"
 title: "A Pele de Vênus"
 ---

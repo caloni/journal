@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2016-11-02"
 category: "movies"
 imdb: "3774114"

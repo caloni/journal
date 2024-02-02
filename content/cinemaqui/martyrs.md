@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2016-03-31"
 imdb: "1663655"
 title: "Martyrs"

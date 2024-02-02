@@ -1,6 +1,0 @@
-Idem. EUA, 1984. Direção: Jim Abrahams, David Zucker, Jerry Zucker. Roteiro: Jim Abrahams, David Zucker, Jerry Zucker, Martyn Burke. Elenco: Val Kilmer (Nick Rivers), Lucy Gutteridge (Hillary Flammond), Peter Cushing (Bookstore Proprietor), Jeremy Kemp (General Streck), Christopher Villiers (Nigel), Warren Clarke (Colonel von Horst), Michael Gough (Dr. Paul Flammond), Harry Ditson (Du Quois), Jim Carter (Déjà Vu), Eddie Tagoe (Chocolate Mousse), Omar Sharif (Agent Cedric).
-
-Um Cidadão Kane, só que ao contrário.
-
-Ao contar uma paródia dos filmes de espionagem e guerra em que um astro do rock (Val Kimer) se envolve com um grupo da Resistência Francesa para libertar um cientista preso pela Alemanha Oriental (Michael Gough), a direção tripla resolve brincar com trucagens comuns em filmes do gênero e de todo o cinema. Dessa forma, até um telefone no canto da tela pode ser motivo de chacota, ou a batidíssima piada dos olhos atrás da lupa funcionar tão bem na melhor sequência do filme, onde os atores contracenam uma cena invertida de trás pra frente, incluindo os diálogos, lembrando o dialeto sueco. Note como aos poucos o diretor vai dando dicas do que realmente está acontecendo, até o derradeiro movimento do cachorro.
-

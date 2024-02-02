@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2016-11-24"
 imdb: "5341098"
 title: "O Filho Eterno"

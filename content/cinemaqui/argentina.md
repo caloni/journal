@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2017-03-31"
 imdb: "4483460"
 title: "Argentina"

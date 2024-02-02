@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2016-10-20"
 imdb: "5294966"
 title: "Depois da Tempestade"

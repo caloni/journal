@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2015-06-27"
 title: "Um Pouco de Caos"
 ---

@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2015-06-08"
 title: "Na Próxima, Acerto no Coração"
 ---

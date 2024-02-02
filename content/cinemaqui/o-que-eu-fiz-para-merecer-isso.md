@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2016-04-15"
 imdb: "3667648"
 title: "O Que Eu Fiz Para Merecer Isso?"

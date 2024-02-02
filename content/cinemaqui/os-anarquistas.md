@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2016-05-14"
 imdb: "4466336"
 title: "Os Anarquistas"

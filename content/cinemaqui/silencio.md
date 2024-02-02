@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2017-02-22"
 imdb: "0490215"
 title: "Silêncio"

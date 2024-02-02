@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2017-04-18"
 imdb: "6230488"
 title: "Ninguém Entra, Ninguém Sai"

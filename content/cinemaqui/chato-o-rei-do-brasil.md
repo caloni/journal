@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2016-03-15"
 imdb: "0337926"
 title: "Chatô - O Rei do Brasil"

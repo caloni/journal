@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2015-05-10"
 title: "Segunda Chance"
 ---

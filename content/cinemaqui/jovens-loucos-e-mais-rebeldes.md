@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2016-09-09"
 imdb: "2937696"
 title: "Jovens, Loucos e Mais Rebeldes"

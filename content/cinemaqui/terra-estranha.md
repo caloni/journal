@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2016-10-08"
 imdb: "2325977"
 title: "Terra Estranha"

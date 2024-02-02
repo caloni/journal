@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2016-02-22"
 imdb: "3411572"
 title: "Amor em Sampa"

@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2016-10-04"
 imdb: "3991412"
 title: "A Nona Vida de Louis Drax"

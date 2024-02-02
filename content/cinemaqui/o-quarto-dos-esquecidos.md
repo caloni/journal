@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2016-10-11"
 imdb: "2364897"
 title: "O Quarto dos Esquecidos"

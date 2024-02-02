@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2017-04-06"
 imdb: "2315582"
 title: "Una"

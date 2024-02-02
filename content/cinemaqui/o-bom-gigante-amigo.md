@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2016-07-31"
 imdb: "3691740"
 title: "O Bom Gigante Amigo"

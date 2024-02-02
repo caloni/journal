@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2017-03-26"
 title: "Os Belos Dias de Aranjuez"
 imdb: "4715652"

@@ -1,4 +1,6 @@
 ---
+categories: "cinemaqui"
+draft: "true"
 date: "2016-10-19"
 imdb: "4258698"
 title: "Michelle e Obama"
