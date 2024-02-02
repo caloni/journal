@@ -113,44 +113,6 @@ function writepost()
 }
 
 
-function writeclippings()
-{
-  slug = "clippings"
-  title = "Clippings"
-  content = "<pre>" tohtml(readfile("clippings.txt")) "</pre>"
-  entries[substr(title, 1, 1),title] = title
-  terms["clippings"][title] = title
-  sterms = "<a href=\"toc_clippings.xhtml\">clippings</a>"
-  slugs[slug]["slug"] = slug
-  slugs[slug]["title"] = title
-  slugs[slug]["date"] = date
-  titleToSlug[title] = slug
-  titleToChapter[title] = chapter
-  fchapter = toid(chapter)
-  file = "public\\book\\EPUB\\" fchapter ".xhtml"
-  if( ! (fchapter in files) ) {
-    print "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" > file
-    print "<html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:epub=\"http://www.idpf.org/2007/ops\">" > file
-    print "<head><meta http-equiv=\"default-style\" content=\"text/html; charset=utf-8\"/>" > file
-    print "<title>" tohtml(chapter) "</title>" > file
-    print "<link rel=\"stylesheet\" href=\"css/stylesheet.css\" type=\"text/css\" />" > file
-    print "<link rel=\"stylesheet\" href=\"css/page-template.xpgt\" type=\"application/adobe-page-template+xml\" />" > file
-    print "</head>" > file
-    print "<body>" > file
-    print "<div class=\"body\">" > file
-    print "<span epub:type=\"pagebreak\" id=\"" toid(chapter) "\" title=\"" tohtml(chapter) "\"/>" > file
-    print "<h1 class=\"chapter-title\"><strong>" tohtml(chapter) "</strong></h1>" > file
-    files[fchapter] = fchapter
-  }
-  print "<span epub:type=\"pagebreak\" id=\"" toid(slug) "\" title=\"" tohtml(title) "\"/>" > file
-  print "<section title=\"" tohtml(title) "\" epub:type=\"bodymatter chapter\">" > file
-  print "<h1 class=\"chapter-subtitle\"><strong>" tohtml(title) "</strong></h1>" > file
-  print "<p class=\"note-title\">" date sterms "</p>" > file
-  print content > file
-  print "</section>" > file
-}
-
-
 function formatContent(content)
 {
   prefix = "\n"
@@ -331,7 +293,6 @@ BEGIN {
 END {
   if( content ) {
     writepost()
-    writeclippings()
     content = ""
     draftContent = ""
   }
