@@ -1,0 +1,27 @@
+name: Cine Tênis Verde
+permalink: :title
+google_search_customsearchcontrol: 005399618489749432245:uxhode2mus4
+google_analytics_id: UA-50557403-1
+gems:
+  - jekyll-feed
+defaults:
+  -
+    values:
+      layout: post
+exclude:
+  - cinemaqui
+  - book
+  - _posts/blog/2010
+  - _posts/blog/2011
+  - _posts/blog/2012
+  - _posts/blog/2013
+  - _posts/blog/2014
+  - _posts/blog/2015
+  - _posts/blog/2016
+  - _posts/movies/2010
+  - _posts/movies/2011
+  - _posts/movies/2012
+  - _posts/movies/2013
+  - _posts/movies/2014
+  - _posts/movies/2015
+  - _posts/movies/2016

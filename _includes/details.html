@@ -1,0 +1,10 @@
+{% if page.cinemaqui %}
+<p style="font-size: 1.0em;">
+Crítica completa na estreia do filme no <a href="{{ page.cinemaqui }}">CinemAqui</a>.
+</p>
+{% endif %}
+<p style="font-size: 1.0em;">
+  {% if page.stars == "5/5" or stars == "5/5" %}&#x2605;&#x2605;&#x2605;&#x2605;&#x2605;{% elsif page.stars == "4/5" or stars == "4/5" %}&#x2605;&#x2605;&#x2605;&#x2605;&#x2606;{% elsif page.stars == "3/5" or stars == "3/5" %}&#x2605;&#x2605;&#x2605;&#x2606;&#x2606;{% elsif page.stars == "2/5" or stars == "2/5" %}&#x2605;&#x2605;&#x2606;&#x2606;&#x2606;{% elsif page.stars == "1/5" or stars == "1/5" %}&#x2605;&#x2606;&#x2606;&#x2606;&#x2606;{% endif %}
+  {% if page._title %}{{ page._title }}{% else %}{{ page.title }}{% endif %}.
+  <i>{% if page._countries %}{{ page._countries | join: ', ' }}. {% endif %}{% if page._year %}{{ page._year }}. {% else %}{% endif %}{% if page._director %} Direção: {{ page._director | join: ', ' }}.{% endif %}{% if page._writer %} Roteiro: {{ page._writer | join: ', ' }}.{% endif %}{% if page._cast %} Elenco: {{ page._cast | join: ', ' }}.{% endif %}{% if page._editor %} Edição: {{ page._editor | join: ', ' }}.{% endif %}{% if page._cinematographer %} Fotografia: {{ page._cinematographer | join: ', ' }}.{% endif %}{% if page._music %} Trilha Sonora: {{ page._music | join: ', ' }}.{% endif %}{% if page._runtimes %} Duração: {{ page._runtimes | join: ', ' }}.{% endif %}{% if page._ratio %} Aspecto: {{ page._ratio }}.{% endif %}{% if page._genres %} {{ page._genres | join: ', ' }}.{% endif %}{% if page._releasedate %} Estreia no Brasil: {{ page._releasedate }}.{% endif %} {% if page.tags %}{% for tag in page.tags %} {{ tag | join: ' ' | prepend: '#' }}{% endfor %}{% endif %}</i>
+</p>

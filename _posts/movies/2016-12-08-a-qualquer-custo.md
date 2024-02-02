@@ -1,0 +1,40 @@
+---
+category: "movies"
+title: "A Qualquer Custo"
+imdb: "2582782"
+stars: "5/5"
+tags: ['cabine', 'oscar2017']
+_title: "Hell or High Water"
+_year: "2016"
+_director: ["David Mackenzie", ]
+_writer: ["Taylor Sheridan", ]
+_cast: ["Dale Dickey (Elsie)", "Ben Foster (Tanner Howard)", "Chris Pine (Toby Howard)", "William Sterchi (Mr. Clauson)", "Buck Taylor (Old Man)", "Kristin Berg (Olney Teller)", "Jeff Bridges (Marcus Hamilton)", "Gil Birmingham (Alberto Parker)", "Jackamoe Buzzell (Archer City Deputy)", ]
+_countries: ["USA", ]
+_languages: ["English", ]
+_editor: ["Jake Roberts", ]
+_cinematographer: ["Giles Nuttgens", ]
+_music: ["Nick Cave", "Warren Ellis", ]
+_artdirection: ["Steve Cooper", ]
+_costume designer: ["Malgosia Turzanska", ]
+_genres: ["Crime", ]
+_runtimes: ["102", ]
+_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg4NDA1OTA5NF5BMl5BanBnXkFtZTgwMDQ2MDM5ODE@.jpg"
+_ratio: "2.35 : 1"
+_kind: "movie"
+_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg4NDA1OTA5NF5BMl5BanBnXkFtZTgwMDQ2MDM5ODE@._V1._SX94_SY140_.jpg"
+---
+Este é um filme texano no sentido mais texano da palavra. Ele exibe contemporaneidade usando a crise de 2008 como pano de fundo de uma dupla de irmãos que trazem de volta o fantasma de Bonnie e Clyde em um formato totalmente novo, mas realista, intenso e dramático. Tudo isso em um policial dos bons, que usa a ação a seu favor e que ainda se beneficia pela presença de Jeff Bridges, que cria personagens paradoxais a cada filme que participa.
+
+Bridges seria tudo de ruim que as pessoas do politicamente correto de hoje veem, e mesmo que você tenha uma certa flexibilidade com as palavras irá notar que seu personagem faz ataques gratuitos a seu parceiro simplesmente pelo fato dele ser mestiço de índios e mexicanos. Ele nem parece conhecê-lo de verdade, já que todos os comentários de Bridges giram em torno da raça de seu colega policial, seja seu passado, seus comportamentos, o que aconteceria se ele morresse ("você me vingaria, depois de encher a cara, como vocês índios costumam fazer"), e até sendo cristão seu personagem demonstra intolerância religiosa até pelo fato de seu parceiro ser católico. Se existe algum personagem para odiar neste filme, Bridges é o cara.
+
+Porém, por motivos cuidadosamente escolhidos pelo ator e pelo roteiro original e minucioso de Taylor Sheridan, o personagem de Bridges consegue exibir esse seu lado desprezível ao mesmo tempo que emana um certo tipo de carisma, ou simpatia por pessoas mais idosas e vulneráveis, e um pouco de reverência à sua inteligência, que embora não esteja no patamar que ele próprio acredita estar, pelo menos se encontra a milhas de distância de todas as pessoas daquelas cidadezinhas que os dois policiais vão visitando, além de estar visivelmente acima de seu parceiro e todo o resto da força policial.
+
+Essa inteligência é dedutiva, baseada em observações perspicazes, e mais uma vez, ancoradas em um roteiro pé-no-chão que consegue exibir essas características de seu personagem irreverente sem soar exagerado. Quando soa exagerado, sabemos que o é, tal como o próprio clichê que Bridges participa: o do policial que está para se aposentar e vai pegar seu último e difícil caso.
+
+Por outro lado, os personagens de Ben Foster, o irmão mais velho e maluco, já fichado e preso por 10 anos, e o personagem de Chris Pine, o caçula que também andou aprontando na vida, mas nada muito grave, são como dois extremos que se equilibram para um bem maior. Após a morte de sua mãe, os dois partem para uma missão que na mente dos dois parece clara e objetiva, mesmo que o personagem de Ben Forster não seja lá uma figura muito previsível. Esquentado desde o início ("fale de novo que eu sou idiota"), nunca sabemos para onde a ação será levada graças à sua performance evasiva, de um beberrão que já se esqueceu que tem a possibilidade de reconstruir uma vida. Ele está fazendo isso pelo irmão. Ponto. Um pouco pela falecida mãe, com quem não conseguiu uma conexão devido à sua vida de crimes.
+
+Já o personagem de Chris Pine, o que menos fala dos principais, desempenha todas suas características justamente pelo jeito calado, com uma expressão que denota não muita inteligência, mas perspicácia e obstinação suficientes para aguentar o irmão e levar tudo adiante, não importando os riscos cada vez maiores. Se seu irmão mais velho quer lhe ajudar, este quer simplesmente construir um futuro para seus filhos. O único momento onde temos um diálogos que vale à pena ele está conversando com um deles, e demonstra uma sabedoria dos mais brutos ao aconselhar o menino ao não seguir os passos de seu pai (ou de seu tio). O personagem de Pine é cativante do começo ao fim, e é ele que verdadeiramente exibe o lado "Bonnie e Clyde" da dupla.
+
+A direção de David Mackenzie mostra que está ali, possui uma personalidade forte, mas nem por isso exagera sua narrativa. Começando com uma longa sequência que gira a câmera constantemente, Mackenzie aos poucos vai assentando a câmera, utilizando melhor os ângulos, em um filme que constrói a potência de sua ação no drama reflexivo, em uma dualidade de ritmos que é apaixonante, já que tanto a ação quanto o drama no filme são necessários um ao outro. Sem o drama, a ação é, como sempre, descerebrada. O drama equilibra essa equação. Porém, para termos drama é necessário um diretor que saiba parar sua câmera de vez em quando. E Mackenzie é o cara para este trabalho.
+
+Com aspectos técnicos que conseguem criar uma atmosfera texana desde as cidadezinhas de uma rua, a planície sem fim (e belíssima) e uma trilha sonora que alia a empolgação da discografia cultural do Texas com a dramaticidade dos momentos mais ousados na história, este é, sobretudo, um filme texano. Ele tem o espírito da liberdade e da brutalidade. Pessoas andam armadas por todos os lados; e sabem atirar. Assaltar bancos não parece uma boa ideia em um lugar como esses, a não ser que você tenha um bom plano, como os irmãos Howard.

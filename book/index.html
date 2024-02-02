@@ -1,0 +1,117 @@
+---
+layout: default
+---
+<div id="toc">
+<h2>Índice</h2>
+<ol>
+{% for post in site.categories.book %}
+<li><a href="#{{ post.slug }}">{{ post.title }}</a></li>
+{% endfor %}
+<li><a href="#reviews">Conteúdo</a></li>
+<li>Listas</li>
+<ol>
+<li><a href="#byorder">Por Ordem de Entrada</a></li>
+<li><a href="#bytitle">Por Título</a></li>
+<li><a href="#byorigtitle">Por Título Original</a></li>
+<li><a href="#byyear">Por Ano</a></li>
+<li><a href="#bydirector">Por Diretores</a></li>
+<li><a href="#bywriter">Por Roteiristas</a></li>
+<li><a href="#bycast">Por Elenco</a></li>
+</ol>
+<li><a href="#details">Ficha Técnica</a></li>
+</ol>
+</div>
+
+{% for post in site.categories.book %}
+<h3 id="{{ post.slug }}" style="page-break-before: always;">{{ post.title }}</h3>
+{{ post.content }}
+{% endfor %}
+
+<h2 id="reviews" style="page-break-before: always;">Conteúdo</h2>
+{% for post in site.posts reversed %}
+<h3 id="{{ post.slug }}">{{ post.title }}</h3>
+{% if post._director %}<p><a href="#{{ post.slug }}-details"><i>{{ post._director | join: '/' }}, {{ post._year }}</i></a></p>{% endif %}
+{{ post.content }}
+<p align="right" style="page-break-after: always;"><i>Caloni, {{ post.date | date: "%Y" }}</i></p>
+{% endfor %}
+
+<h2 id="byorder" style="page-break-before: always;">Por Ordem de Entrada</h2>
+<ol>
+{% for post in site.posts reversed %}
+<li><a href="#{{ post.slug }}">{{ post.title }}</a></li>
+{% endfor %}
+</ol>
+
+<h2 id="bytitle" style="page-break-before: always;">Por Título</h2>
+<ul>
+{% assign sortedPosts = site.posts | sort: 'title' %}
+{% for post in sortedPosts %}
+<li><a href="#{{ post.slug }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
+
+<h2 id="byorigtitle" style="page-break-before: always;">Por Título Original</h2>
+<ul>
+{% assign sortedPosts = site.posts | sort: '_title' %}
+{% for post in sortedPosts %}
+<li><a href="#{{ post.slug }}">{{ post._title }}</a> ({{ post.title }})</li>
+{% endfor %}
+</ul>
+
+<h2 id="byyear" style="page-break-before: always;">Por Ano</h2>
+<ul>
+{% assign sortedPosts = site.posts | sort: '_year' %}
+{% for post in sortedPosts %}
+<li><a href="#{{ post.slug }}">{{ post.title }} ({{ post._year }})</a></li>
+{% endfor %}
+</ul>
+
+<h2 id="bydirector" style="page-break-before: always;">Por Diretores</h2>
+<ul>
+{% assign sortedPosts = site.posts | sort: '_director' %}
+{% for post in sortedPosts %}
+<li>{{ post._director | join: '/' }}: <a href="#{{ post.slug }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
+
+<h2 id="bywriter" style="page-break-before: always;">Por Roteiristas</h2>
+<ul>
+{% assign sortedPosts = site.posts | sort: '_writer' %}
+{% for post in sortedPosts %}
+<li>{{ post._writer | join: '/' }}: <a href="#{{ post.slug }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
+
+<h2 id="bycast" style="page-break-before: always;">Por Elenco</h2>
+<ul>
+{% assign casting = '' %}
+{% for post in site.posts reversed %}
+{% for cast in post._cast %}
+{% assign casting = casting | append: ' | ' | append: '<li>' | append: cast | append: ': <a href="#' | append: post.slug | append: '"> ' | append: post.title | append: '</a></li>' %}
+{% endfor %}
+{% endfor %}
+{% assign casting = casting | split: ' | ' %}
+{% assign casting = casting | sort %}
+{% for cast in casting %}
+{{ cast }}
+{% endfor %}
+</ul>
+
+<h2 id="bytitle" style="page-break-before: always;">Por Título</h2>
+<ul>
+{% assign sortedPosts = site.posts | sort: 'title' %}
+{% for post in sortedPosts %}
+<li><a href="#{{ post.slug }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
+
+<h2 id="details" style="page-break-before: always;">Ficha Técnica</h2>
+{% assign sortedPosts = site.posts | sort: 'title' %}
+{% for post in sortedPosts %}
+<h3 id="{{ post.slug }}-details" style="page-break-before: always;"><a href="#{{ post.slug }}">{{ post.title }}</a></h3>
+<p style="font-size: 1.0em;">
+  {% if post.stars == "5/5" or stars == "5/5" %}&#x2605;&#x2605;&#x2605;&#x2605;&#x2605;{% elsif post.stars == "4/5" or stars == "4/5" %}&#x2605;&#x2605;&#x2605;&#x2605;&#x2606;{% elsif post.stars == "3/5" or stars == "3/5" %}&#x2605;&#x2605;&#x2605;&#x2606;&#x2606;{% elsif post.stars == "2/5" or stars == "2/5" %}&#x2605;&#x2605;&#x2606;&#x2606;&#x2606;{% elsif post.stars == "1/5" or stars == "1/5" %}&#x2605;&#x2606;&#x2606;&#x2606;&#x2606;{% endif %}
+  {% if post._title %}{{ post._title }}{% else %}{{ post.title }}{% endif %}.
+  <i>{% if post._countries %}{{ post._countries | join: ', ' }}. {% endif %}{% if post._year %}{{ post._year }}. {% else %}{% endif %}{% if post._director %} Direção: {{ post._director | join: ', ' }}.{% endif %}{% if post._writer %} Roteiro: {{ post._writer | join: ', ' }}.{% endif %}{% if post._cast %} Elenco: {{ post._cast | join: ', ' }}.{% endif %}{% if post._editor %} Edição: {{ post._editor | join: ', ' }}.{% endif %}{% if post._cinematographer %} Fotografia: {{ post._cinematographer | join: ', ' }}.{% endif %}{% if post._music %} Trilha Sonora: {{ post._music | join: ', ' }}.{% endif %}{% if post._runtimes %} Duração: {{ post._runtimes | join: ', ' }}.{% endif %}{% if post._ratio %} Aspecto: {{ post._ratio }}.{% endif %}{% if post._genres %} {{ post._genres | join: ', ' }}.{% endif %}{% if post._releasedate %} Estreia no Brasil: {{ post._releasedate }}.{% endif %} {% if post.tags %}{% for tag in post.tags %} {{ tag | join: ' ' | prepend: '#' }}{% endfor %}{% endif %}</i>
+</p>
+{% endfor %}

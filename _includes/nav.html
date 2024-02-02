@@ -1,0 +1,43 @@
+{% if page.previous.url %}
+<span style="margin: 0px;">
+<a class="prev" style="color: black; font-size: 1em" title="Anterior" href="{{page.previous.url}}"><b>&lt;&lt;</b></a>
+</span>
+{% endif %}
+
+<span style="margin: 3px;">
+<a href="/" class="footer-link">
+<img src="/images/search.png" title="Busca"/></a></span>
+
+{% if page.next.url %}
+<span style="margin: 0px;">
+<a class="next" style="color: black; font-size: 1em" title="Próximo" href="{{page.next.url}}"><b>&gt;&gt;</b></a>
+</span>
+{% endif %}
+
+{% if page._title %}<span id="social"><a title="Rotten Tomatoes" href="http://www.rottentomatoes.com/search/?search={{ page._title }}">
+<img src="/images/rotten_tomatoes.png"/></a></span>{% endif %}
+
+{% if page.imdb != null %}<span id="social"><a title="IMDB: Internet Movie DataBase" href="http://www.imdb.com/title/tt{{ page.imdb }}">
+<img src="/images/imdb.png"/></a></span>{% endif %}
+
+<span style="margin: 0px;">
+{% if page.main %}
+<a href="https://www.facebook.com/cinetenisverde" class="footer-link">
+<img src="/images/facebook.png" title="Facebook"/></a></span>
+{% else %}
+<a href="https://www.facebook.com/sharer/sharer.php?u=http://www.cinetenisverde.com.br{{ page.url }}" class="footer-link" target="_blank">
+<img src="/images/facebook.png" title="Compartilhar no Facebook"/></a></span>
+{% endif %}
+
+<span style="margin: 0px;">
+{% if page.main %}
+<a href="https://twitter.com/cinetenisverde" class="footer-link">
+<img src="/images/twitter.png" title="Twitter"/></a></span>
+{% else %}
+<a href="https://twitter.com/intent/tweet?text={{ page.title }}: http://www.cinetenisverde.com.br{{ page.url }}" class="footer-link" target="_blank">
+<img src="/images/twitter.png" title="Tweet"/></a></span>
+{% endif %}
+
+<span style="margin: 0px;">
+<a href="http://feeds.feedburner.com/cinetenisverde" class="footer-link">
+<img src="/images/feed.png" title="Feed"/></a></span>

@@ -1,0 +1,36 @@
+---
+category: "movies"
+title: "Moonlight: Sob a Luz do Luar"
+imdb: "4975722"
+stars: "3/5"
+tags: ['cabine', 'oscar2017']
+_title: "Moonlight"
+_year: "2016"
+_director: ["Barry Jenkins", ]
+_writer: ["Barry Jenkins", "Tarell Alvin McCraney", ]
+_cast: ["Mahershala Ali (Juan)", "Shariff Earp (Terrence)", "Duan Sanderson (Azu)", "Alex R. Hibbert (Little)", "Janelle Monáe (Teresa)", "Naomie Harris (Paula)", "Jaden Piner (Kevin)", "Herman 'Caheei McGloun (Longshoreman)", "Kamal Ani-Bellow (Portable Boy 1)", ]
+_countries: ["USA", ]
+_languages: ["English", ]
+_editor: ["Joi McMillon", "Nat Sanders", ]
+_cinematographer: ["James Laxton", ]
+_music: ["Nicholas Britell", ]
+_artdirection: ["Mabel Barba", ]
+_costume designer: ["Caroline Eselin", ]
+_genres: ["Drama", ]
+_runtimes: ["111", ]
+_fullcover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNzQxNTIyODAxMV5BMl5BanBnXkFtZTgwNzQyMDA3OTE@.jpg"
+_ratio: "2.35 : 1"
+_kind: "movie"
+_cover: "https://images-na.ssl-images-amazon.com/images/M/MV5BNzQxNTIyODAxMV5BMl5BanBnXkFtZTgwNzQyMDA3OTE@._V1._SX94_SY140_.jpg"
+---
+O que faz um filme notório? É seu estilo? Ou a história que quer contar? Ou seriam os dois? Moonlight, do diretor/roteirista Barry Jenkins, tem uma bela história com personagens de alguma forma genéricos, em uma época genérica, mas com alguns pequenos traços... genéricos também. E isso é narrado através de uma estilo forte, que bate no enquadramento, bate na trilha sonora, bate na fotografia, mas em nenhum deles parece conseguir extrair significado dessa história. Perdido com diálogos óbvios e atores mecanizados, o que temos é um filme muito bonito, desses que quem gosta de "filme de arte" deve gostar, mas que não diz muita coisa ou se posiciona sobre nada.
+
+Este é um ensaio documental sobre relações entre pessoas e o que as leva a fazer o que fazem. Não há nenhum traço individualista aqui. Elas parecem serem arrastadas pela maré, e ninguém possui força o suficiente para fugir disso. Nem o protagonista, Chiron, vivido em três fases distintas (e dividido em três capítulos pelo roteiro), nem sua inspiração, o traficante Juan, ou seu melhor amigo Kevin, ou sua amiga Teresa, ou até sua mãe Paula. São todas vítimas da circunstância. O que torna este filme desprezível partindo de seu núcleo, mas que através de um jogo de estilos parece soar muito melhor do que realmente é.
+
+Olhe o uso da técnica conhecida como shot/reverse shot, por exemplo. Os irmãos Coen dominam essa técnica para fazer com que seus personagens digam coisas sem abrir a boca, apenas com o espectador observando o quadro completo, preenchido por este personagem. Basicamente, quando duas pessoas estão conversando, vemos apenas uma de cada vez, e cada uma delas ocupa o quadro inteiro, dominando aquele momento. Esta é uma técnica poderosa nas mãos dos Coen, mas que nas mãos de Barry Jenkins vira um guia de onde colocar a câmera. Sem um elenco que realmente viva seus personagens, soando mais como imitações controladas por seu diretor, o shot/reverse shot não serve de nada. Mesmo que os atores sejam bons, estamos presos a um controle absoluto de movimentos que tira a espontaneidade de um filme sobre a própria vida, o que é sabotagem partindo do seu núcleo.
+
+A única que consegue minimamente criar algum drama é Naomie Harris como a mãe viciada do protagonista, mas ela tem pouquíssimo tempo de tela. Juan, nas mãos do habilidoso Mahershala Ali (de House of Cards), consegue por um tempo se manter acima da superfície com seus olhares insinuantes e seu jeito bonachão de ser. Mas também é por pouco tempo. O roteiro e a direção de Jenkins ocupam todo o espaço, sufocando a experiência através do estilo.
+
+E quando falamos em estilo, isso conta também para a fotografia, que possui uma mistura de cores impossível de ser traduzida, e o uso de uma trilha sonora que é uma cópia do tema de Cavaleiro de Copas, de Terrence Malick. Porém, se em Cavaleiro o tom nobre e elevado funciona para o protagonista de Christian Bale, aqui soa apenas como um copycat de coisa alguma, já que não existe um parâmetro pelo qual nos guiemos. É a vida de um protagonista vazio por dentro, um estereótipo em uma época alheia ao tempo. Se não temos sequer o tempo e a personalidade de nosso herói, seu drama interno é apenas fumaça saindo de dentro de um corpo feito de matéria, mas não de ideias, aspirações, sonhos.
+
+Moonlight fala bastante sobre "pretos", e poderia até constituir um bom trabalho sobre a cultura negra, já que seus personagens estão inseridos nesse mundo. Porém, até isso é ligeiramente deixado de lado. Assim como tráfico de drogas, esta é apenas uma muleta que nos diz como os negros neste filme chegam ao poder (de maneira singelamente diferente de Barack Obama). E assim como o tráfico, tudo parece ser um caminho natural, irreversível. A retirada do indivíduo da equação parece ter minado seu gênero de superação partindo do seu núcleo. E quando o núcleo não existe, não há estilo que salve um filme.
