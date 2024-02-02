@@ -15467,3 +15467,28 @@ DWORD WINAPI ReplaceWindowsStorage_hwndSCN(PVOID _pv)
 }
 ```
 
+
+= Fixing the code (two versions)
+:date: 2024-02-02
+:tags: tag_venn
+
+To discover what is wrong with the logic behind the SHChangeNotifyRegister duplication without setting WND handle from WindowsStorage to User32 forever I enabled duplication for every event and separated the logs in two: the events that are being filtered and included into the duplication and the events that are forced to be done.
+
+ - filter: SHCNE_DRIVEADD SHCNE_DRIVEADDGUI SHCNE_FREESPACE SHCNE_MEDIAINSERTED
+ - forced: SHCNE_ATTRIBUTES
+
+If we look to the set of events being subscribed the MEDIA ones are always with UPDATEITEM, such as:
+
+ - SHCNE_DRIVEREMOVED SHCNE_DRIVEADD SHCNE_NETUNSHARE SHCNE_UPDATEDIR SHCNE_UPDATEITEM SHCNE_SERVERDISCONNECT SHCNE_UPDATEIMAGE
+
+That selects the USB events over the AppData, but as RMDIR is also enabled USB is discarded and then selected by AppData filter. Inside the AppData logic only UPDATEDIR is selected to duplication.
+
+So the solution without refactory was to include both conditions and when inside AppData logic only exclude the RMDIR event, what causes the bug in AppData folder removal.
+
+This way is not needed to keep the handle changed.
+
+## Refactory
+
+I also tested a more generic version for the filter based on map of eventos allowed to duplication. If the event has any of these events they will be duplicated using a mask to avoid other events.
+
+Both PRs were created. Please notice that they are excludent because change the same code.
