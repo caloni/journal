@@ -1,7 +1,2 @@
-_site
-*.pyc
+public
 *.swp
-*.log
-tags
-book/_posts
-*.dic
