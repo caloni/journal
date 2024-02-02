@@ -1,0 +1,35 @@
+---
+date: "2015-09-16"
+tags: [ "cabine" ]
+imdb: "2406252"
+stars: "4/5"
+category: "movies"
+title: "A Pele de Vênus"
+_title: "La Vénus à la fourrure"
+_year: "2013"
+_director: ["Roman Polanski", ]
+_writer: ["David Ives", "Roman Polanski", "David Ives", "Leopold von Sacher-Masoch", ]
+_cast: ["Emmanuelle Seigner", "Mathieu Amalric", ]
+_countries: ["France", ]
+_languages: ["French", ]
+_editor: ["Hervé de Luze", "Margot Meynier", ]
+_cinematographer: ["Pawel Edelman", ]
+_music: ["Alexandre Desplat", ]
+_artdirection: ["Bruno Via", ]
+_costume designer: ["Dinah Collin", ]
+_genres: ["Drama", ]
+_runtimes: ["96", ]
+_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjM0ODgyOTM1Ml5BMl5BanBnXkFtZTgwMzI5ODM4MTE@.jpg"
+_ratio: "2.35 : 1"
+_kind: "movie"
+_cover: "http://ia.media-imdb.com/images/M/MV5BMjM0ODgyOTM1Ml5BMl5BanBnXkFtZTgwMzI5ODM4MTE@._V1._SX94_SY140_.jpg"
+---
+Em menos de uma década a vida do diretor Roman Polanski (Chinatown, O Escritor Fantasma) virou de cabeça pra baixo. O ano é 1969, quando estava sendo produzido O Bebê de Rosemary, e sua mulher foi brutalmente assassinada em um ritual satânico. Polanski então muda de país, e acaba sendo acusado de estuprar uma garota de 13 anos. Permanentemente banido dos EUA, o local mais puritano da Terra onde isso poderia ter acontecido, passa a produzir filmes na Europa, de onde nascem os excelentes O Pianista (que lhe rendeu o Oscar), Lua de Fel (que revela muito sobre seus sentimentos sobre o sexo oposto) e O Escritor Fantasma, um thriller político inusitado.
+
+Agora ele lança este A Pele de Vênus. Bom, na verdade já faz dois anos, mas as distribuidoras do Brasil... sabe como é. Resolveram relançar este ano (2014 já tem uma data no IMDB, mas não estou certo se de fato estreou por aqui). Contém um cenário -- um velho teatro que poderia ser considerado abandonado -- e dois personagens: um escritor e uma atriz. O escritor é o inseguro Thomas (Mathieu Amalric), que precisa encontrar uma musa para seu roteiro adaptado de um romance do século 19 que trata de uma relação de dominação entre um homem e uma mulher. E é aí que entra Vanda (Emmanuelle Seigner, de Lua de Fel), que possui o mesmo nome na vida real da heroína de Thomas, chega atrasada para um ensaio desanimador ("todas as mulheres de 30 possuem vozes estridentes de 20") e convence-o a encenar alguns diálogos ("até a página 3"). Obviamente a coisa irá muito além do que o autor imaginava.
+
+Ambientado nos tempos atuais (há celulares), mas com diálogos de época por se tratar de uma encenação clássica, a história de "sadomasoquismo machista com abuso infantil", como acusa Vanda, não poderia encontrar melhor autor do que Polanski. Não apenas pelo seu passado cinematográfico, mas pessoal, os argumentos entre os dois personagens soltam faíscas reais e imaginárias, em pelo menos cinco camadas de interpretação (a tal "ambivalência" de Valda, chamando ambiguidade erroneamente). Afinal de contas, estamos assistindo um filme dirigido por alguém acusado de um escândalo sexual sobre uma peça adaptada por um autor misógino fascinado por um romance épico sobre perversão, mas que por sua vez se baseia em uma deusa grega conhecida menos por suas virtudes mentais e mais pelo prazer carnal que evoca.
+
+Diferente do mediano Miss Julie, que também emprega poucos atores e cenários em uma adaptação teatral, A Pele de Vênus é consistente com sua proposta de soar teatral e simbólico. Mal sabemos os sobrenomes dos personagens, mas sabemos tudo sobre os personagens que estes interpretam no palco, e sabemos mais ainda sobre suas opiniões acerca da história, o que revela menos sobre eles e mais sobre a sociedade contemporânea. Quando Thomas se indigna pela facilidade com que Vanda resume toda uma subtrama em "um caso de abuso infantil" e profere um discurso a respeito de como estamos nos tornando reducionistas ao extremo de não pensar a respeito de nada, nos limitando a nomear o "problema social" como ele é conhecido (daí o famigerado "machismo"), não podemos deixar de enxergar o próprio Polanski apontando o dedo ou se defendendo das acusações simplistas a respeito de sua vida sexual. Afinal de contas, por mais chocante que possa parecer, o que ele fez é uma versão menor dos relacionamentos de Charles Chaplin, porque a época o permitia. Sim, escravidão era permitida também há algum tempo atrás, e as coisas mudam. No entanto, não é sobre mudanças que Polanski está interessado, mas sim em o que parece permanecer universal desde a época dos gregos.
+
+E é com essa desenvoltura com a câmera flutuante enquanto Alexandre Desplat nos exibe uma partitura encantadora nas trocas de cena que A Pele de Vênus consegue manter o espectador constantemente tenso e esperando por mais. Onde não importa muito que estamos no mesmo teatro há tanto tempo, e sim o que vem pela frente. E o que vem pela frente talvez nem esteja no filme. Afinal de contas, é a universalidade da discussão que é reaberta por Polanski e alfineta de uma maneira muito mais rica e instigante que cartilhas prontas como Que Horas Ela Volta?. Apesar de um trabalho inferior, filosoficamente é superior do começo ao fim.

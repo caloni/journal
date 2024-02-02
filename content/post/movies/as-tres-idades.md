@@ -1,0 +1,29 @@
+---
+date: "2015-09-18"
+imdb: "0014538"
+stars: "4/5"
+category: "movies"
+title: "As Três Idades"
+_title: "Three Ages"
+_year: "1923"
+_director: ["Edward F. Cline", "Buster Keaton", ]
+_writer: ["Clyde Bruckman", "Joseph A. Mitchell", "Jean C. Havez", "Buster Keaton", ]
+_cast: ["Buster Keaton", "Margaret Leahy", "Wallace Beery", "Joe Roberts", "Lillian Lawrence", "Kewpie Morgan", "Lionel Belmore", "George Davis", "Louise Emmons", ]
+_countries: ["USA", ]
+_cinematographer: ["Elgin Lessley", "William C. McGann", ]
+_music: ["Robert Israel", ]
+_artdirection: ["Fred Gabourie", ]
+_genres: ["Comedy", ]
+_runtimes: ["63", ]
+_fullcover: "http://ia.media-imdb.com/images/M/MV5BMjI3OTEzODA4NF5BMl5BanBnXkFtZTgwODc0NDIwMjE@.jpg"
+_ratio: "1.33 : 1"
+_kind: "movie"
+_cover: "http://ia.media-imdb.com/images/M/MV5BMjI3OTEzODA4NF5BMl5BanBnXkFtZTgwODc0NDIwMjE@._V1._SX93_SY140_.jpg"
+---
+Three Ages é o primeiro longa-metragem de Buster Keaton, um dos comediantes mais geniais do início do Cinema, se não um dos mais geniais do Cinema em si. Diretor, ator, produtor e roteirista, Keaton sempre com seu jeito sisudo conquistava o público como resultado indireto de sua competência em narrar suas aventuras em diferentes histórias e, ao contrário de Charles Chaplin, com diferentes personagens.
+
+Aqui ele realiza uma espécie de paródia do filme "Intolerância", o filme que D.W. Griffith fez para apagar sua má imagem do seu racista "O Nascimento de uma Nação". Ao defender que o Amor é a força motriz do Mundo, narra três diferentes histórias em três épocas distintas, mas com detalhes similares: A Pré-História, o Império Romano e os tempos atuais. Vai intercalando as três conforme avança na tentativa de um garoto "inapropriado" (Keaton) conquistar e ficar com sua amada, a despeito do pretendente mais capaz.
+
+O que fascina em Keaton é a originalidade de suas histórias, suas gags, e, claro, seu desempenho físico. Dublê de si mesmo (e até de outros atores que não se arriscariam tanto quanto ele), Keaton já caiu dezenas de vezes em seus filmes, sem contar que suas trucagens participam do efeito final, que é sempre inusitado e arranca uma cara de surpresa do público.
+
+Se Keaton foi eficaz em parodiar outra obra dita clássica da época, não saberei dizer (ainda não vi a obra de Griffith). Porém, uma coisa é certa: as invencionices do cineasta mais que compensam as limitações da época, e é difícil até imaginar como seria um Keaton na era da computação e das capacidades virtualmente ilimitadas. Felizmente, o Cinema é uma arte que influencia outros a continuar pedaços de uma obra maior: a necessidade de compreender a natureza humana e suas idiossincrasias, nem que seja através de uma comédia leve e encantadora.
