@@ -316,13 +316,20 @@ END {
   print "</metadata>" > package
   print "<manifest>" > package
   print "<item id=\"content\" media-type=\"text/x-oeb1-document\" href=\"index.html\"></item>" > package
+  contentId = 1
+  for( chapter in chapters ) {
+    print "<item id=\"content" contentId++ "\" media-type=\"text/x-oeb1-document\" href=\"" toid(chapter) ".html\"></item>" > package
+  }
   print "</manifest>" > package
   print "<spine toc=\"toc\">" > package
   print "<itemref idref=\"content\"/>" > package
   print "</spine>" > package
   print "<guide>" > package
-  print "<reference href=\"index.html#text\" type =\"text\" title =\"int main\"/>" > package
-  print "<reference href=\"index.html#toc\" type =\"toc\" title =\"#include <map>\"/>" > package
+  print "<reference href=\"index.html\" type =\"toc\" title =\"#include <map>\"/>" > package
+  print "<reference href=\"_200310.html\" type =\"text\" title =\"#include <map>\"/>" > package
+  for( chapter in chapters ) {
+    print "<reference href=\"" toid(chapter) ".html\" type =\"text\" title =\"another chapter\"/>" > package
+  }
   print "</guide>" > package
   print "</package>" > package
 
@@ -337,8 +344,12 @@ END {
   print "<text>Blogue do Caloni: Programação, Depuração, Transpiração</text>" > tocncx
   print "</docTitle>" > tocncx
   print "<navMap>" > tocncx
-  print "<navPoint id=\"text\" playOrder=\"1\"><navLabel> <text>int main</text> </navLabel> <content src=\"index.html#text\"/> </navPoint>" > tocncx
-  print "<navPoint id=\"toc\" playOrder=\"2\"><navLabel> <text>#include <map></text> </navLabel> <content src=\"index.html#toc\"/> </navPoint>" > tocncx
+  print "<navPoint id=\"toc\" playOrder=\"1\"><navLabel> <text>#include <map></text> </navLabel> <content src=\"index.html\"/> </navPoint>" > tocncx
+  playOrder = 2
+  for( chapter in chapters ) {
+    print "<navPoint id=\"text" playOrder "\" playOrder=\"" playOrder "\"><navLabel> <text>int main</text> </navLabel> <content src=\"" toid(chapter) ".html\"/> </navPoint>" > tocncx
+    playOrder = playOrder + 1
+  }
   print "</navMap>" > tocncx
   print "</ncx>" > tocncx
 
