@@ -325,8 +325,7 @@ END {
   print "<itemref idref=\"content\"/>" > package
   print "</spine>" > package
   print "<guide>" > package
-  print "<reference href=\"index.html\" type =\"toc\" title =\"#include <map>\"/>" > package
-  print "<reference href=\"_200310.html\" type =\"text\" title =\"#include <map>\"/>" > package
+  print "<reference href=\"index.html#toc\" type =\"toc\" title =\"#include <map>\"/>" > package
   for( chapter in chapters ) {
     print "<reference href=\"" toid(chapter) ".html\" type =\"text\" title =\"another chapter\"/>" > package
   }
@@ -344,7 +343,7 @@ END {
   print "<text>Blogue do Caloni: Programação, Depuração, Transpiração</text>" > tocncx
   print "</docTitle>" > tocncx
   print "<navMap>" > tocncx
-  print "<navPoint id=\"toc\" playOrder=\"1\"><navLabel> <text>#include <map></text> </navLabel> <content src=\"index.html\"/> </navPoint>" > tocncx
+  print "<navPoint id=\"toc\" playOrder=\"1\"><navLabel> <text>#include <map></text> </navLabel> <content src=\"index.html#toc\"/> </navPoint>" > tocncx
   playOrder = 2
   for( chapter in chapters ) {
     print "<navPoint id=\"text" playOrder "\" playOrder=\"" playOrder "\"><navLabel> <text>int main</text> </navLabel> <content src=\"" toid(chapter) ".html\"/> </navPoint>" > tocncx
