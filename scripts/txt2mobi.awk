@@ -371,7 +371,11 @@ END {
   print "</ul>" > tocxhtml
   print "<h2><a href=\"#text\">Posts</a></h2>" > tocxhtml
   print "<ul>" > tocxhtml
-  print "<li><a href=\"#about\">Wanderley Caloni </a></li>" > tocxhtml
+  for( e in entries ) {
+    split(e, letterAndTitle, SUBSEP)
+    title = letterAndTitle[2]
+    print "<li><a href=\"" toid(titleToChapter[title]) ".html#" toid(titleToSlug[title]) "\">" tohtml(title) "</a></li>" > tocxhtml
+  }
   print "</ul>" > tocxhtml
   print "<h2 id=\"letters\" style=\"page-break-before: always;\">Letters</h2>" > tocxhtml
   print "<ul>" > tocxhtml
