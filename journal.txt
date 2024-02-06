@@ -14720,9 +14720,11 @@ Reproduced the bug in Workplace and Demo. In Demo started to get error downloadi
 :date: 2023-12-27
 :tags: tag_venn
 :link: https://os33corp.atlassian.net/wiki/spaces/DTDLP/pages/2675474891/CheckList+-+TEMPLATE
+:link: https://tfs.os33.net/DefaultCollection/Portal/_build?definitionId=1125
+:link: https://downloads.os33dev.net/wcaloni/clients/windows/component/stable/WorkplaceComponent.zip
 :link: https://tfs.os33.net/DefaultCollection/Portal/_build?definitionId=830
-:link: https://downloads.os33dev.net/wcaloni/clients/windows/WorkplaceInstaller.exe
 :link: https://downloads.os33dev.net/wcaloni/clients/windows/component/stable/WorkplaceContainerComponent.zip
+:link: https://downloads.os33dev.net/wcaloni/clients/windows/WorkplaceInstaller.exe
 
 There is a checklist to run every time an issue is finished. Just copy the template to a new post linked to the issue, generate a new personal version (instructions in the checklist) and test it. It could be useful also to test new features or analyze bugs. Here comes some useful links:
 
