@@ -317,6 +317,9 @@ END {
   print "<manifest>" > package
   print "<item id=\"content\" media-type=\"text/x-oeb1-document\" href=\"index.html\"></item>" > package
   contentId = 1
+  for( term in terms ) {
+    print "<item id=\"content" contentId++ "\" media-type=\"text/x-oeb1-document\" href=\"toc" toid(term) ".html\"></item>" > package
+  }
   for( chapter in chapters ) {
     print "<item id=\"content" contentId++ "\" media-type=\"text/x-oeb1-document\" href=\"" toid(chapter) ".html\"></item>" > package
   }
@@ -343,14 +346,38 @@ END {
   print "<text>Blogue do Caloni: Programação, Depuração, Transpiração</text>" > tocncx
   print "</docTitle>" > tocncx
   print "<navMap>" > tocncx
-  print "<navPoint id=\"toc\" playOrder=\"1\"><navLabel> <text>#include <map></text> </navLabel> <content src=\"index.html#toc\"/> </navPoint>" > tocncx
+  print "<navPoint id=\"toc\" playOrder=\"1\"><navLabel> <text>toc</text> </navLabel> <content src=\"index.html#toc\"/> </navPoint>" > tocncx
   playOrder = 2
+  for( term in terms ) {
+    print "<navPoint id=\"toc" playOrder "\" playOrder=\"" playOrder "\"><navLabel> <text>term</text> </navLabel> <content src=\"toc" toid(term) ".html\"/> </navPoint>" > tocncx
+    playOrder = playOrder + 1
+  }
   for( chapter in chapters ) {
-    print "<navPoint id=\"text" playOrder "\" playOrder=\"" playOrder "\"><navLabel> <text>int main</text> </navLabel> <content src=\"" toid(chapter) ".html\"/> </navPoint>" > tocncx
+    print "<navPoint id=\"text" playOrder "\" playOrder=\"" playOrder "\"><navLabel> <text>chapter</text> </navLabel> <content src=\"" toid(chapter) ".html\"/> </navPoint>" > tocncx
     playOrder = playOrder + 1
   }
   print "</navMap>" > tocncx
   print "</ncx>" > tocncx
+
+  for( term in terms ) {
+    tocxhtml = "public\\book\\MOBI\\toc_" term ".html"
+    print "<!DOCTYPE html>" > tocxhtml
+    print "<head>" > tocxhtml
+    print "<meta name=\"generator\" content=\"AWK\">" > tocxhtml
+    print "<title>" term "</title>" > tocxhtml
+    print "</head>" > tocxhtml
+    print "<body style=\"min-height:100vh;display:flex;flex-direction:column\">" > tocxhtml
+    print "<div class=\"body\">" > tocxhtml
+    print "<h1 class=\"toc-title\">" term "</h1>" > tocxhtml
+    print "<ul>" > tocxhtml
+    for( tit in terms[term] ) {
+      print "<li><a href=\"" toid(titleToChapter[tit]) ".html#" toid(titleToSlug[tit]) "\">" tohtml(tit) "</a></li>" > tocxhtml
+    }
+    print "</ul>" > tocxhtml
+    print "</div>" > tocxhtml
+    print "</body>" > tocxhtml
+    print "</html>" > tocxhtml
+  }
 
   tocxhtml = "public\\book\\MOBI\\index.html"
   print "<!DOCTYPE html>" > tocxhtml
@@ -371,14 +398,13 @@ END {
   print "<h2>" > tocxhtml
   print "<a href=\"#letterW\">W</a>" > tocxhtml
   print "</h2>" > tocxhtml
-  print "<h2 id=\"categories\">Categories</h2>" > tocxhtml
-  print "<ul>" > tocxhtml
-  print "<li><a href=\"#categories-blog\">Blog(14)</a></li>" > tocxhtml
-  print "</ul>" > tocxhtml
-  print "<h2 id=\"tags\">Tags</h2>" > tocxhtml
-  print "<ul>" > tocxhtml
-  print "<li><a href=\"#tags-ccpp\">Ccpp(36)</a></li>" > tocxhtml
-  print "</ul>" > tocxhtml
+  print "<h2 id=\"terms\">Terms</h2>" > tocxhtml
+  for( term in terms ) {
+    termfile = "toc" toid(term) ".html"
+    print "<ul>" > tocxhtml
+    print "<li><a href=\"" termfile "\">" tohtml(term) "</a></li>" > tocxhtml
+    print "</ul>" > tocxhtml
+  }
   print "<h2><a href=\"#text\">Posts</a></h2>" > tocxhtml
   print "<ul>" > tocxhtml
   for( e in entries ) {

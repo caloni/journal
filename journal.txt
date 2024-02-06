@@ -15492,3 +15492,13 @@ This way is not needed to keep the handle changed.
 I also tested a more generic version for the filter based on map of eventos allowed to duplication. If the event has any of these events they will be duplicated using a mask to avoid other events.
 
 Both PRs were created. Please notice that they are excludent because change the same code.
+
+
+= Could not reproduce the LZ Explorer crash
+:date: 2024-02-05
+:tags: tag_venn
+
+Tried to reproduce this issue with lastest fix to module that could break this, but could not reproduce the LZ Explorer crash from ROADMAP-69680 just changing the ShellChangeNotifyHook version and the fixed version for this issue also is not reproducible. The explorer.dmp from the diagnostic files has a WorkplaceHook64.dll from version 1.0.8569.38810. The logs say version 1.0.8571.23822, so I rebuilt it to test with all modules from that version but it is not connecting to current version.
+
+Anyway, I analyzed the crash dump for explorer.dmp and found that the crash occured because of Notepad++ shell extension plugin, what raise some doubts if this is the same case analyzed in other issues. I tried to install and force another crash but was unsuccessful.
+
