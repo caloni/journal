@@ -71,7 +71,7 @@ function writetophtml(file, title, backLink, filter, quickSearch)
   print "<link rel=\"stylesheet\" type=\"text/css\" href=\"/css/custom.css\"/>" > file
   print "<link rel=\"stylesheet\" type=\"text/css\" href=\"/css/jquery-ui.css\"/>" > file
   print "<link rel=\"stylesheet\" type=\"text/css\" href=\"/css/board-min.css\"/>" > file
-  print "<script src=\"/js/jquery-1.10.2.js\"></script>" > file
+  print "<script src=\"https://code.jquery.com/jquery-3.7.1.js\"></script>" > file
   print "<script src=\"/js/jquery-ui.js\"></script>" > file
   print "<script src=\"/js/pgnyui.js\"></script>" > file
   print "<script src=\"/js/pgnviewer.js\"></script>" > file
