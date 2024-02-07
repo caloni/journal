@@ -15504,3 +15504,14 @@ Tried to reproduce this issue with lastest fix to module that could break this, 
 
 Anyway, I analyzed the crash dump for explorer.dmp and found that the crash occured because of Notepad++ shell extension plugin, what raise some doubts if this is the same case analyzed in other issues. I tried to install and force another crash but was unsuccessful.
 
+
+= Workplace and the WireGuard endpoints
+:date: 2024-02-07
+:tags: tag_venn
+
+Starting a new spike about Workplace supporting multiple WireGuard endpoints in the kernel. Today I studied the code first to know where this is going to change and how. We are going to implement WireGuard use first (already available in the project) and retire BFD protocol later.
+
+Note. When we receive the peers the class [WorkplaceGatewayConfigProvider] just discard the list and get the first. This is going to be the entry point for a solution using WireGuard endpoints.
+
+[WorkplaceGatewayConfigProvider]: https://tfs.os33.net/DefaultCollection/Portal/_search?action=contents&text=WorkplaceGatewayConfigProvider&type=code&lp=code-Project&filters=ProjectFilters%7BPortal%7DRepositoryFilters%7BWorkplace.Container.Windows%7D&pageSize=25&result=DefaultCollection/Portal/Workplace.Container.Windows/GBmaster//Workplace.Container/Workplace.Container/WorkplaceGateway/WorkplaceGatewayConfigProvider.cs
+
