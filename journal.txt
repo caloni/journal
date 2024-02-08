@@ -15515,3 +15515,46 @@ Note. When we receive the peers the class [WorkplaceGatewayConfigProvider] just 
 
 [WorkplaceGatewayConfigProvider]: https://tfs.os33.net/DefaultCollection/Portal/_search?action=contents&text=WorkplaceGatewayConfigProvider&type=code&lp=code-Project&filters=ProjectFilters%7BPortal%7DRepositoryFilters%7BWorkplace.Container.Windows%7D&pageSize=25&result=DefaultCollection/Portal/Workplace.Container.Windows/GBmaster//Workplace.Container/Workplace.Container/WorkplaceGateway/WorkplaceGatewayConfigProvider.cs
 
+
+= OneDrive and the oneshot notification
+:date: 2024-02-08
+:tags: tag_venn
+
+My issue about shell notification returned because it was tested on an OneDrive folder and the download to that folder does not work (OneDrive/Downloads). After a few tests and talking to the tester I came to conclusion that it is happening at least in Win11 (or it is easier to reproduce) and after a few more tests I see that the same explorer.exe instance stops to receive the folder update event in the second download. And if we open a new window using the OneDrive service and this windows is shown by the same explorer.exe instance the update works again. But only once, failing to the second.
+
+https://support.os33.link/v/FSz3VQ
+
+I noticed that every time it is chose OneDrive to open its folder the process CoFileAuth.exe is executed (and exits). This could be related.
+
+Anyway, logging the events subscribed when the user goes to OneDrive "Open Folder" option we came to this simplified list called again:
+
+```
+[TRAC] - [1:9848:13404] - [explorer.exe] - [SHL] - ==== SHChangeNotifyRegister_Shell32_Hook. Duplicate registration for events: 8672
+[TRAC] - [1:9848:13404] - [explorer.exe] - [SHL] - ==== SHChangeNotifyRegister_WindowsStorage_Hook. Duplicate registration for events: 8256
+[TRAC] - [1:9848:13404] - [explorer.exe] - [SHL] - ==== SHChangeNotifyRegister_WindowsStorage_Hook. Duplicate registration for events: 8672
+```
+
+ - 8256 = 0x2040 (SHCNE_UPDATEITEM SHCNE_MEDIAREMOVED)
+ - 8672 = 0x21E0 (SHCNE_UPDATEITEM SHCNE_DRIVEADD SHCNE_RMDIR SHCNE_MEDIAINSERTED SHCNE_MEDIAREMOVED)
+
+Before that only duplications of update item and media/drive related (but separated): 480 (0x1E0), 8192 (0x2000), 8256 and 8672.
+
+```
+...
+SHCNE_RMDIR            00010
+SHCNE_MEDIAINSERTED    00020
+SHCNE_MEDIAREMOVED     00040
+SHCNE_DRIVEREMOVED     00080
+SHCNE_DRIVEADD         00100
+...
+SHCNE_UPDATEITEM       02000
+...
+```
+
+However, even allowing all events to be duplicated this bug happens.
+
+Rolling back the previous fix where the window handle keeps as the user32 does not solve the problem. Actually, it make it worst, since the first download does not work and even deleting the file inside explorer does not update in itself.
+
+And now, turning back the version, it is not working since first try =/
+
+And sometimes do. It is intermittent.
