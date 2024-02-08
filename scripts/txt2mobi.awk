@@ -220,7 +220,7 @@ function formatContent(content)
 }
 
 
-/^= / {
+/^= .+/ {
   if( content ) {
     writepost()
     content = ""
