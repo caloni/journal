@@ -21,7 +21,7 @@ function toslug(str)
   gsub(/[ÁÀÂÃáàâã]/, "a", str)
   gsub(/[ÉÊÊéêê]/, "e", str)
   gsub(/[ÔÕÓôõóō]/, "o", str)
-  gsub(/[Úú]/, "u", str)
+  gsub(/[Úú"Üü]/, "u", str)
   gsub(/[ÍÏíï]/, "i", str)
   gsub(/[Çç]/, "c", str)
   gsub(/[Ññ]/, "n", str)
@@ -318,6 +318,7 @@ END {
   print "</metadata>" > package
   print "<manifest>" > package
   print "<item id=\"content\" media-type=\"text/x-oeb1-document\" href=\"index.html\"></item>" > package
+  print "<item id=\"letters\" media-type=\"text/x-oeb1-document\" href=\"letters.html\"></item>" > package
   contentId = 1
   for( term in terms ) {
     print "<item id=\"content" contentId++ "\" media-type=\"text/x-oeb1-document\" href=\"toc" toid(term) ".html\"></item>" > package
@@ -349,7 +350,8 @@ END {
   print "</docTitle>" > tocncx
   print "<navMap>" > tocncx
   print "<navPoint id=\"toc\" playOrder=\"1\"><navLabel> <text>toc</text> </navLabel> <content src=\"index.html#toc\"/> </navPoint>" > tocncx
-  playOrder = 2
+  print "<navPoint id=\"letters\" playOrder=\"2\"><navLabel> <text>letters</text> </navLabel> <content src=\"letters.html\"/> </navPoint>" > tocncx
+  playOrder = 3
   for( term in terms ) {
     print "<navPoint id=\"toc" playOrder "\" playOrder=\"" playOrder "\"><navLabel> <text>term</text> </navLabel> <content src=\"toc" toid(term) ".html\"/> </navPoint>" > tocncx
     playOrder = playOrder + 1
@@ -390,23 +392,32 @@ END {
   print "</head>" > tocxhtml
   print "<body style=\"min-height:100vh;display:flex;flex-direction:column\">" > tocxhtml
   print "<h2 id=\"text\" style=\"page-break-before: always;\">E Deus disse: 'int main() {}'. E pronto: surgiu o primeiro erro de compilação...</h2>" > tocxhtml
-  print "<h3 class=\"title\" style=\"page-break-before: always\" id=\"about\">Wanderley Caloni</h3>" > tocxhtml
-  print "<i>Wanderley Caloni, 2007-06-14</i>" > tocxhtml
-  print "<p>Quer entrar em contato? Mande o bom e velho <a href=\"mailto:wanderleycaloni@gmail.com\">email</a>.</p>" > tocxhtml
-  print "<p>Wanderley Caloni é um programador C/C++ especializado em backend para Windows que decidiu ter seu próprio blogue técnico a pedidos insistentes do seu amigo Rodrigo Strauss, que estava blogando já fazia alguns anos no <a href=\"https://www.1bit.com.br\">www.1bit.com.br</a>. Busco mantê-lo atualizado por esses longos anos de programação, depuração e transpiração com minhas peripécias do dia-a-dia. Eventualmente me tornei crítico de cinema e juntei aqui essas duas escovas de dentes, textos técnicos e cinematográficos, o que acabou tornando o saite gigante a ponto de eu precisar trocar meu static site generator para algo mais rápido como Hugo.</p>" > tocxhtml
   print "<span>" > tocxhtml
   print "</span>" > tocxhtml
-  print "<h2 id=\"toc\" style=\"page-break-before: always;\">Index</h2>" > tocxhtml
+  print "<h2 id=\"toc\" style=\"page-break-before: always;\">Letters</h2>" > tocxhtml
   print "<h2>" > tocxhtml
-  print "<a href=\"#letterW\">W</a>" > tocxhtml
+  PROCINFO["sorted_in"] = "@ind_str_asc"
+  for( e in entries ) {
+    split(e, letterAndTitle, SUBSEP)
+    letter = toletter(letterAndTitle[1])
+    title = letterAndTitle[2]
+    if( letters[letter] == "" ) {
+      letters[letter] = "<h3 id=\"" toid(letter) "\">" tohtml(letter) "</h3>\n"\
+        "<ul class=\"indexlevel1\">"
+    }
+    letters[letter] = letters[letter] "<li><a href=\"" toid(titleToChapter[title]) ".html#" toid(titleToSlug[title]) "\">" tohtml(title) "</a></li>\n"
+  }
+  for( letter in letters ) {
+    print "<a href=\"letters.html#" toid(letter) "\">" letter "</a>" > tocxhtml
+  }
   print "</h2>" > tocxhtml
-  print "<h2 id=\"terms\">Terms</h2>" > tocxhtml
+  print "<h2 id=\"tags\">Tags</h2>" > tocxhtml
+  print "<ul>" > tocxhtml
   for( term in terms ) {
     termfile = "toc" toid(term) ".html"
-    print "<ul>" > tocxhtml
     print "<li><a href=\"" termfile "\">" tohtml(term) "</a></li>" > tocxhtml
-    print "</ul>" > tocxhtml
   }
+  print "</ul>" > tocxhtml
   print "<h2><a href=\"#text\">Posts</a></h2>" > tocxhtml
   print "<ul>" > tocxhtml
   for( e in entries ) {
@@ -415,18 +426,27 @@ END {
     print "<li><a href=\"" toid(titleToChapter[title]) ".html#" toid(titleToSlug[title]) "\">" tohtml(title) "</a></li>" > tocxhtml
   }
   print "</ul>" > tocxhtml
-  print "<h2 id=\"letters\" style=\"page-break-before: always;\">Letters</h2>" > tocxhtml
-  print "<ul>" > tocxhtml
-  print "<h3 id=\"letterW\">W</h3>" > tocxhtml
-  print "<li><a href=\"#about\">Wanderley Caloni</a></li>" > tocxhtml
-  print "</ul>" > tocxhtml
-  print "<h2 id=\"categories\" style=\"page-break-before: always;\">Categories</h2>" > tocxhtml
-  print "<ul>" > tocxhtml
-  print "<h3 id=\"categories-blog\">Blog</h3>" > tocxhtml
-  print "<li><a href=\"#about\">Wanderley Caloni</a></li>" > tocxhtml
-  print "</ul>" > tocxhtml
   "date" | getline currentDate
   print "<div id=\"end\" style=\"page-break-before: always;\"><p>Obrigado por ler! =)</p><p>Blogue do Caloni " currentDate ". </p></div>" > tocxhtml
+  print "</body>" > tocxhtml
+  print "</html>" > tocxhtml
+
+  tocxhtml = "public\\book\\MOBI\\letters.html"
+  print "<!DOCTYPE html>" > tocxhtml
+  print "<head>" > tocxhtml
+  print "<meta name=\"generator\" content=\"AWK\">" > tocxhtml
+  print "<title>Letters</title>" > tocxhtml
+  print "</head>" > tocxhtml
+  print "<body style=\"min-height:100vh;display:flex;flex-direction:column\">" > tocxhtml
+  print "<div class=\"body\">" > tocxhtml
+  print "<h1 class=\"toc-title\">Letters</h1>" > tocxhtml
+  print "<ul>" > tocxhtml
+  for( letter in letters ) {
+    print letters[letter] > tocxhtml
+    print "</ul>" > tocxhtml
+  }
+  print "</ul>" > tocxhtml
+  print "</div>" > tocxhtml
   print "</body>" > tocxhtml
   print "</html>" > tocxhtml
 }
