@@ -429,6 +429,7 @@ END {
     print "<a href=\"" toid(chapter) ".html\"> " \
       tohtml(mon) " </a>" > tocxhtml
   }
+  print "</p>" > tocxhtml
   print "<span>" > tocxhtml
   print "</span>" > tocxhtml
   print "<h2 id=\"tags\">Tags</h2>" > tocxhtml
