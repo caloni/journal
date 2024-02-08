@@ -411,8 +411,29 @@ END {
     print "<a href=\"letters.html#" toid(letter) "\">" letter "</a>" > tocxhtml
   }
   print "</h2>" > tocxhtml
+  print "<span>" > tocxhtml
+  print "</span>" > tocxhtml
+  print "<h2 id=\"toc\" style=\"page-break-before: always;\">Years</h2>" > tocxhtml
+  PROCINFO["sorted_in"] = "@ind_num_asc"
+  lastyear = "2001"
+  for( chapter in chapters ) {
+    year = substr(chapter, 1, 4)
+    mon = substr(chapter, 6, 2)
+    if( year != lastyear ) {
+      if( lastyear != "2001" ) {
+        print "</p>" > tocxhtml
+      }
+      print "<p id=\"" toid(chapter) "\" class=\"toc\"><strong>" year "</strong>" > tocxhtml
+      lastyear = year
+    }
+    print "<a href=\"" toid(chapter) ".html\"> " \
+      tohtml(mon) " </a>" > tocxhtml
+  }
+  print "<span>" > tocxhtml
+  print "</span>" > tocxhtml
   print "<h2 id=\"tags\">Tags</h2>" > tocxhtml
   print "<ul>" > tocxhtml
+  PROCINFO["sorted_in"] = "@ind_str_asc"
   for( term in terms ) {
     termfile = "toc" toid(term) ".html"
     print "<li><a href=\"" termfile "\">" tohtml(term) "</a></li>" > tocxhtml
