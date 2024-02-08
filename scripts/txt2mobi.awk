@@ -317,24 +317,25 @@ END {
   print "</dc-metadata>" > package
   print "</metadata>" > package
   print "<manifest>" > package
-  print "<item id=\"content\" media-type=\"text/x-oeb1-document\" href=\"index.html\"></item>" > package
+  print "<item id=\"index\" media-type=\"text/x-oeb1-document\" href=\"index.html\"></item>" > package
   print "<item id=\"letters\" media-type=\"text/x-oeb1-document\" href=\"letters.html\"></item>" > package
-  contentId = 1
+  indexId = 1
   for( term in terms ) {
-    print "<item id=\"content" contentId++ "\" media-type=\"text/x-oeb1-document\" href=\"toc" toid(term) ".html\"></item>" > package
+    print "<item id=\"index" indexId++ "\" media-type=\"text/x-oeb1-document\" href=\"toc" toid(term) ".html\"></item>" > package
   }
+  contentId = 1
   for( chapter in chapters ) {
     print "<item id=\"content" contentId++ "\" media-type=\"text/x-oeb1-document\" href=\"" toid(chapter) ".html\"></item>" > package
   }
   print "</manifest>" > package
   print "<spine toc=\"toc\">" > package
-  print "<itemref idref=\"content\"/>" > package
+  print "<itemref idref=\"content1\"/>" > package
   print "</spine>" > package
   print "<guide>" > package
-  print "<reference href=\"index.html#toc\" type =\"toc\" title =\"#include <map>\"/>" > package
   for( chapter in chapters ) {
     print "<reference href=\"" toid(chapter) ".html\" type =\"text\" title =\"another chapter\"/>" > package
   }
+  print "<reference href=\"index.html#toc\" type =\"toc\" title =\"#include <map>\"/>" > package
   print "</guide>" > package
   print "</package>" > package
 
