@@ -15558,3 +15558,29 @@ Rolling back the previous fix where the window handle keeps as the user32 does n
 And now, turning back the version, it is not working since first try =/
 
 And sometimes do. It is intermittent.
+
+
+= Last thoughts about this investigation before changing task
+:date: 2024-02-12
+:tags: tag_venn
+
+One way to advance investigation that I was evolving was to trace the message ID sent to SHChangeNotifyRegister (wMsg) in the Get/Peek Message API. I was doing this with the WindowHookProtection but the window handles and the messages were too much to easily detect. Even when the downloaded file is not updated still there are some messages being received, so one who desire to walk this path need to filter out what messages are not related to the event that shows the file downloaded.
+
+Another important observation is that this OneDrive bug is intermittent. Could be related to accessing the folder via C: or using the OneDrive shortcut in explorer. Tried to do both ways and sometimes it does not work in both ways. Sometimes works in both.
+
+https://support.os33.link/v/kEMTut
+
+If we close the explore window and go to the OneDrive tray icon and choose Open Folder the new window in general starts working again (same process) but after the second or third download stops again.
+
+I put the ULONG ret code from SHChangeNotifyRegister to the log and added hooks to SHChangeNotifyDeregister to see if there is some resource starvation because we do not call the unregister for the duplicated call, but it seems neither does explorer, only calling register again for new folders being shown.
+
+
+= Outlook and its contacting server again
+:date: 2024-02-12
+:tags: tag_venn
+
+Another issue related to Outlook and the famigerade windows Contacting server information came to my queue. In the previous one I was able to spot something related to a cs waiting inside a thread related to some VFS system.
+
+In this I gave a quick look into logs (procmon included) but there is no dump of Oulook to compare to previous issue and no explicit abnormal behavior easy to spot besides the events where Outlook presents several 0x80070424 error, commonly associated to DNS issues or other network and profile file issue (inconclusive).
+
+If the problem persists, maybe the WaitingOn tool quoted above could give us a better clue on what thread is hanging and why.
