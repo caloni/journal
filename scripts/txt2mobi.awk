@@ -317,6 +317,7 @@ END {
   print "</dc-metadata>" > package
   print "</metadata>" > package
   print "<manifest>" > package
+  PROCINFO["sorted_in"] = "@ind_str_asc"
   print "<item id=\"index\" media-type=\"text/x-oeb1-document\" href=\"index.html\"></item>" > package
   print "<item id=\"letters\" media-type=\"text/x-oeb1-document\" href=\"letters.html\"></item>" > package
   indexId = 1
@@ -350,6 +351,7 @@ END {
   print "<text>Blogue do Caloni: Programação, Depuração, Transpiração</text>" > tocncx
   print "</docTitle>" > tocncx
   print "<navMap>" > tocncx
+  PROCINFO["sorted_in"] = "@ind_str_asc"
   print "<navPoint id=\"toc\" playOrder=\"1\"><navLabel> <text>toc</text> </navLabel> <content src=\"index.html#toc\"/> </navPoint>" > tocncx
   print "<navPoint id=\"letters\" playOrder=\"2\"><navLabel> <text>letters</text> </navLabel> <content src=\"letters.html\"/> </navPoint>" > tocncx
   playOrder = 3
