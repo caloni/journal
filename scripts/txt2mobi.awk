@@ -330,7 +330,6 @@ END {
   }
   print "</manifest>" > package
   print "<spine toc=\"toc\">" > package
-  print "<itemref idref=\"content1\"/>" > package
   print "</spine>" > package
   print "<guide>" > package
   for( chapter in chapters ) {
