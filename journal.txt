@@ -15584,3 +15584,11 @@ Another issue related to Outlook and the famigerade windows Contacting server in
 In this I gave a quick look into logs (procmon included) but there is no dump of Oulook to compare to previous issue and no explicit abnormal behavior easy to spot besides the events where Outlook presents several 0x80070424 error, commonly associated to DNS issues or other network and profile file issue (inconclusive).
 
 If the problem persists, maybe the WaitingOn tool quoted above could give us a better clue on what thread is hanging and why.
+
+
+= Sending more than one peer to wireguard adapter creation (WIP)
+:date: 2024-02-14
+:link: https://git.zx2c4.com/wireguard-nt/about/
+:tags: tag_venn
+
+After understanding that I need to send a config with multiple peers or create multiple adapters in wireguard.sys to in the WorkplaceContainerDriver manage to change peer or adapter to processes I started to modify MakeWireguardConfig to allow to send a real array of peers to wireguard. In order to do that in C# we need to make some ugly code to convert variable lenght array inside struct to make the call right. Still working on that with sample code.
