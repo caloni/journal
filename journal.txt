@@ -15592,3 +15592,101 @@ If the problem persists, maybe the WaitingOn tool quoted above could give us a b
 :tags: tag_venn
 
 After understanding that I need to send a config with multiple peers or create multiple adapters in wireguard.sys to in the WorkplaceContainerDriver manage to change peer or adapter to processes I started to modify MakeWireguardConfig to allow to send a real array of peers to wireguard. In order to do that in C# we need to make some ugly code to convert variable lenght array inside struct to make the call right. Still working on that with sample code.
+
+
+= Multiple peers: Marshaling issues
+:date: 2024-02-15
+:tags: tag_venn
+
+Managed to manipulate variable lenght arrays inside wireguard config, but it still does not work. Searching for examples in C# in the web gives us nothing except to migrate to a higher layer using a tunnelling service (which is out of scope by now). So I started to make my own and started to try to work in Workplace Container. Still got errors when calling adapter.SetConfiguration with one and two peers. Going to compare the memory layout to the current solution (it is my next step).
+
+Bellow the comparison I was doing (WIP).
+
+## IntPtr marshaling: Two peers
+
+```
+		bytes	388	int
+		ptr	0x00000230f7aada10	System.IntPtr
+0x00000230F7AADA10  02 00 00 00 00 00 d8 1f 64 90 9a 9f 26 ed 88 e5 42 15 8d 8c cb 60 c3 9d d8 79 56 29 4f 54 a1 e7 b5 65 45 85 9a 72 00 00  ......Ø.d.šŸ&íˆåB..ŒË`Ã.ØyV)OT¡çµeE.šr..
+0x00000230F7AADA38  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 02 00 00 00
+		offset	76	int
+		address	0x00000230f7aada5c	System.IntPtr
+0x00000230F7AADA5C  0b 00 00 00 00 00 00 00 99 b8 e5 42 65 ac 53 b3 d8 f0 11 40 15 42 8b 76 ff df ce f3 89 67 2a 96 b4 97 ec 9b 75 5e 13 2c  ........™¸åBe¬S.Øð.@.B.vÿßÎó.g*–´—ì.u^.,
+0x00000230F7AADA84  10 f7 94 ed 5c 4d 15 14 82 0a 7d 96 2c 15 c7 eb 86 c7 66 1c 6f ef 9b 4c 7b 0b 8b 14 db 77 4c b0 00 00 00 00 02 00 01 bb  .÷”í\M....}–,.Çë.Çf.oï.L{...ÛwL°.......»
+0x00000230F7AADAAC  8e 93 0b 0b 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  Ž“......................................
+0x00000230F7AADAD4  00 00 00 00 00 00 00 00 01 00 00 00 00
+		offset	136	int
+		address	0x00000230f7aadae4	System.IntPtr
+0x00000230F7AADAE4  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 02 00 00 00 00
+		offset	20	int
+		address	0x00000230f7aadaf8	System.IntPtr
+0x00000230F7AADAF8  0b 00 00 00 00 00 00 00 71 b5 ba ff 79 7c a7 d3 37 7b 04 9c 53 68 73 3f 8f 5f 0e 0c b0 ff 2e fa df 72 39 85 75 18 72 56  ........qµºÿy|§Ó7{.œShs?._..°ÿ.úßr9.u.rV
+0x00000230F7AADB20  92 d9 a6 b4 ae 2e d8 fd e1 ba 4a df 46 99 e7 70 4d 47 f0 96 de e8 15 fd 65 68 1f 66 26 ca 07 ff 00 00 00 00 02 00 01 bb  ’Ù¦´®.ØýáºJßF™çpMGð–Þè.ýeh.f&Ê.ÿ.......»
+0x00000230F7AADB48  8e 93 0b 0a 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  Ž“......................................
+0x00000230F7AADB70  00 00 00 00 00 00 00 00 01 00 00 00
+		offset	136	int
+		address	0x00000230f7aadb80	System.IntPtr
+0x00000230F7AADB80  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 02 00 00 00
+		offset	20	int
+		address	0x00000230f7aadb94	System.IntPtr
+0x00000230f7aada10-0x00000230f7aadb93
+0x00000230F7AADA10  02 00 00 00 00 00 d8 1f 64 90 9a 9f 26 ed 88 e5 42 15 8d 8c cb 60 c3 9d d8 79 56 29 4f 54 a1 e7  ......Ø.d.šŸ&íˆåB..ŒË`Ã.ØyV)OT¡ç
+0x00000230F7AADA30  b5 65 45 85 9a 72 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  µeE.šr..........................
+0x00000230F7AADA50  00 00 00 00 00 00 00 00 02 00 00 00 0b 00 00 00 00 00 00 00 99 b8 e5 42 65 ac 53 b3 d8 f0 11 40  ....................™¸åBe¬S.Øð.@
+0x00000230F7AADA70  15 42 8b 76 ff df ce f3 89 67 2a 96 b4 97 ec 9b 75 5e 13 2c 10 f7 94 ed 5c 4d 15 14 82 0a 7d 96  .B.vÿßÎó.g*–´—ì.u^.,.÷”í\M....}–
+0x00000230F7AADA90  2c 15 c7 eb 86 c7 66 1c 6f ef 9b 4c 7b 0b 8b 14 db 77 4c b0 00 00 00 00 02 00 01 bb 8e 93 0b 0b  ,.Çë.Çf.oï.L{...ÛwL°.......»Ž“..
+0x00000230F7AADAB0  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................................
+0x00000230F7AADAD0  00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................................
+0x00000230F7AADAF0  00 00 00 00 02 00 00 00 0b 00 00 00 00 00 00 00 71 b5 ba ff 79 7c a7 d3 37 7b 04 9c 53 68 73 3f  ................qµºÿy|§Ó7{.œShs?
+0x00000230F7AADB10  8f 5f 0e 0c b0 ff 2e fa df 72 39 85 75 18 72 56 92 d9 a6 b4 ae 2e d8 fd e1 ba 4a df 46 99 e7 70  ._..°ÿ.úßr9.u.rV’Ù¦´®.ØýáºJßF™çp
+0x00000230F7AADB30  4d 47 f0 96 de e8 15 fd 65 68 1f 66 26 ca 07 ff 00 00 00 00 02 00 01 bb 8e 93 0b 0a 00 00 00 00  MGð–Þè.ýeh.f&Ê.ÿ.......»Ž“......
+0x00000230F7AADB50  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................................
+0x00000230F7AADB70  00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................................
+0x00000230F7AADB90  02 00 00 00
+```
+
+## IntPtr marshaling: One peer
+
+```
+		bytes	232	int
+		ptr	0x0000018f5b0b2500	System.IntPtr
+0x0000018F5B0B2500  02 00 00 00 00 00 f0 c3 57 cc 0d 4f 5b 70 ef 45 dd 1e 8d 97 02 c1 de 71 e4 96 32 f3 e3 e9 e0 45  ......ðÃWÌ.O[pïEÝ..—.ÁÞqä–2óãéàE
+0x0000018F5B0B2520  93 6d 78 85 9b 59 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  “mx..Y..........................
+0x0000018F5B0B2540  00 00 00 00 00 00 00 00 01 00 00 00
+		offset	76	int
+		address	0x0000018f5b0b254c	System.IntPtr
+0x0000018F5B0B254C  0b 00 00 00 00 00 00 00 99 b8 e5 42 65 ac 53 b3 d8 f0 11 40 15 42 8b 76 ff df ce f3 89 67 2a 96  ........™¸åBe¬S.Øð.@.B.vÿßÎó.g*–
+0x0000018F5B0B256C  b4 97 ec 9b 75 5e 13 2c 63 65 52 7a 5d 32 52 63 8d 8f d9 68 3a f9 b1 64 6b af b3 28 1f 00 b3 d7  ´—ì.u^.,ceRz]2Rc..Ùh:ù±dk¯.(...×
+0x0000018F5B0B258C  82 87 dd 50 e1 4e b4 a4 00 00 00 00 02 00 01 bb 8e 93 0b 0b 00 00 00 00 00 00 00 00 00 00 00 00  ..ÝPáN´¤.......»Ž“..............
+0x0000018F5B0B25AC  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................................
+0x0000018F5B0B25CC  01 00 00 00 00
+		offset	136	int
+		address	0x0000018f5b0b25d4	System.IntPtr
+0x0000018F5B0B25D4  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 02 00 00 00
+		offset	20	int
+		address	0x0000018f5b0b25e8	System.IntPtr
+0x0000018f5b0b2500-0x0000018f5b0b25e8
+0x0000018F5B0B2500  02 00 00 00 00 00 f0 c3 57 cc 0d 4f 5b 70 ef 45 dd 1e 8d 97 02 c1 de 71 e4 96 32 f3 e3 e9 e0 45  ......ðÃWÌ.O[pïEÝ..—.ÁÞqä–2óãéàE
+0x0000018F5B0B2520  93 6d 78 85 9b 59 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  “mx..Y..........................
+0x0000018F5B0B2540  00 00 00 00 00 00 00 00 01 00 00 00 0b 00 00 00 00 00 00 00 99 b8 e5 42 65 ac 53 b3 d8 f0 11 40  ....................™¸åBe¬S.Øð.@
+0x0000018F5B0B2560  15 42 8b 76 ff df ce f3 89 67 2a 96 b4 97 ec 9b 75 5e 13 2c 63 65 52 7a 5d 32 52 63 8d 8f d9 68  .B.vÿßÎó.g*–´—ì.u^.,ceRz]2Rc..Ùh
+0x0000018F5B0B2580  3a f9 b1 64 6b af b3 28 1f 00 b3 d7 82 87 dd 50 e1 4e b4 a4 00 00 00 00 02 00 01 bb 8e 93 0b 0b  :ù±dk¯.(...×..ÝPáN´¤.......»Ž“..
+0x0000018F5B0B25A0  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................................
+0x0000018F5B0B25C0  00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................................
+0x0000018F5B0B25E0  00 00 00 00 02 00 00 00
+```
+
+## Original version: One peer
+
+```
+		bytes	76	int
+		retPtr	0x000002574c36d6e0	System.IntPtr
+0x000002574C36D6E0  02 00 00 00 00 00 40 97 2c 3c 5b d7 40 51 82 33 71 0d 39 7e f4 2e c0 fc 97 d5 f6 3e 3d 56 3d 1c  ......@—,<[×@Q.3q.9~ô.Àü—Õö>=V=.
+0x000002574C36D700  cc f2 7c aa ea 45 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  Ìò|ªêE..........................
+0x000002574C36D720  00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 0b 00 00 00 00 00 00 00 71 b5 ba ff 79 7c a7 d3  ........................qµºÿy|§Ó
+0x000002574C36D740  37 7b 04 9c 53 68 73 3f 8f 5f 0e 0c b0 ff 2e fa df 72 39 85 75 18 72 56 5a 20 b6 ac c1 1b 23 59  7{.œShs?._..°ÿ.úßr9.u.rVZ ¶¬Á.#Y
+0x000002574C36D760  dc 7d 16 f8 e5 b0 b2 7f 52 73 ad c8 59 ba 1f b6 f5 01 8c bc 9b 4c dd 1a 00 00 00 00 02 00 01 bb  Ü}.øå°..Rs.ÈYº.¶õ.Œ..LÝ........»
+0x000002574C36D780  8e 93 0b 0a 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  Ž“..............................
+0x000002574C36D7A0  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................................
+0x000002574C36D7C0  00 00 00 00 00 00 00 00 02 00 00 00 00 00 00 00
+```
