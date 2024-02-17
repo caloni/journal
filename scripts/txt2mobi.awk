@@ -318,22 +318,23 @@ END {
   print "</metadata>" > package
   print "<manifest>" > package
   PROCINFO["sorted_in"] = "@ind_str_asc"
-  print "<item id=\"index\" media-type=\"text/x-oeb1-document\" href=\"index.html\"></item>" > package
+  contentId = 1
+  for( chapter in chapters ) {
+    print "<item id=\"content" contentId++ "\" media-type=\"text/x-oeb1-document\" href=\"" toid(chapter) ".html\"></item>" > package
+  }
   print "<item id=\"letters\" media-type=\"text/x-oeb1-document\" href=\"letters.html\"></item>" > package
   indexId = 1
   for( term in terms ) {
     print "<item id=\"index" indexId++ "\" media-type=\"text/x-oeb1-document\" href=\"toc" toid(term) ".html\"></item>" > package
   }
-  contentId = 1
-  for( chapter in chapters ) {
-    print "<item id=\"content" contentId++ "\" media-type=\"text/x-oeb1-document\" href=\"" toid(chapter) ".html\"></item>" > package
-  }
+  print "<item id=\"index\" media-type=\"text/x-oeb1-document\" href=\"index.html\"></item>" > package
   print "</manifest>" > package
-  print "<spine toc=\"toc\">" > package
+  print "<spine>" > package
   print "</spine>" > package
   print "<guide>" > package
   for( chapter in chapters ) {
     print "<reference href=\"" toid(chapter) ".html\" type =\"text\" title =\"another chapter\"/>" > package
+    break
   }
   print "<reference href=\"index.html#toc\" type =\"toc\" title =\"#include <map>\"/>" > package
   print "</guide>" > package
