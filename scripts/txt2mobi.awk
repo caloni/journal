@@ -371,6 +371,7 @@ END {
     print "<!DOCTYPE html>" > tocxhtml
     print "<head>" > tocxhtml
     print "<meta name=\"generator\" content=\"AWK\">" > tocxhtml
+    print "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf8\">" > tocxhtml
     print "<title>" term "</title>" > tocxhtml
     print "</head>" > tocxhtml
     print "<body style=\"min-height:100vh;display:flex;flex-direction:column\">" > tocxhtml
@@ -460,6 +461,7 @@ END {
   print "<!DOCTYPE html>" > tocxhtml
   print "<head>" > tocxhtml
   print "<meta name=\"generator\" content=\"AWK\">" > tocxhtml
+  print "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf8\">" > tocxhtml
   print "<title>Letters</title>" > tocxhtml
   print "</head>" > tocxhtml
   print "<body style=\"min-height:100vh;display:flex;flex-direction:column\">" > tocxhtml
