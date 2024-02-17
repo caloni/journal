@@ -317,23 +317,24 @@ END {
   print "</dc-metadata>" > package
   print "</metadata>" > package
   print "<manifest>" > package
-  print "<item id=\"index\" media-type=\"text/x-oeb1-document\" href=\"index.html\"></item>" > package
+  PROCINFO["sorted_in"] = "@ind_str_asc"
+  contentId = 1
+  for( chapter in chapters ) {
+    print "<item id=\"content" contentId++ "\" media-type=\"text/x-oeb1-document\" href=\"" toid(chapter) ".html\"></item>" > package
+  }
   print "<item id=\"letters\" media-type=\"text/x-oeb1-document\" href=\"letters.html\"></item>" > package
   indexId = 1
   for( term in terms ) {
     print "<item id=\"index" indexId++ "\" media-type=\"text/x-oeb1-document\" href=\"toc" toid(term) ".html\"></item>" > package
   }
-  contentId = 1
-  for( chapter in chapters ) {
-    print "<item id=\"content" contentId++ "\" media-type=\"text/x-oeb1-document\" href=\"" toid(chapter) ".html\"></item>" > package
-  }
+  print "<item id=\"index\" media-type=\"text/x-oeb1-document\" href=\"index.html\"></item>" > package
   print "</manifest>" > package
-  print "<spine toc=\"toc\">" > package
-  print "<itemref idref=\"content1\"/>" > package
+  print "<spine>" > package
   print "</spine>" > package
   print "<guide>" > package
   for( chapter in chapters ) {
     print "<reference href=\"" toid(chapter) ".html\" type =\"text\" title =\"another chapter\"/>" > package
+    break
   }
   print "<reference href=\"index.html#toc\" type =\"toc\" title =\"#include <map>\"/>" > package
   print "</guide>" > package
@@ -350,6 +351,7 @@ END {
   print "<text>Blogue do Caloni: Programação, Depuração, Transpiração</text>" > tocncx
   print "</docTitle>" > tocncx
   print "<navMap>" > tocncx
+  PROCINFO["sorted_in"] = "@ind_str_asc"
   print "<navPoint id=\"toc\" playOrder=\"1\"><navLabel> <text>toc</text> </navLabel> <content src=\"index.html#toc\"/> </navPoint>" > tocncx
   print "<navPoint id=\"letters\" playOrder=\"2\"><navLabel> <text>letters</text> </navLabel> <content src=\"letters.html\"/> </navPoint>" > tocncx
   playOrder = 3
@@ -369,6 +371,7 @@ END {
     print "<!DOCTYPE html>" > tocxhtml
     print "<head>" > tocxhtml
     print "<meta name=\"generator\" content=\"AWK\">" > tocxhtml
+    print "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf8\">" > tocxhtml
     print "<title>" term "</title>" > tocxhtml
     print "</head>" > tocxhtml
     print "<body style=\"min-height:100vh;display:flex;flex-direction:column\">" > tocxhtml
@@ -458,6 +461,7 @@ END {
   print "<!DOCTYPE html>" > tocxhtml
   print "<head>" > tocxhtml
   print "<meta name=\"generator\" content=\"AWK\">" > tocxhtml
+  print "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf8\">" > tocxhtml
   print "<title>Letters</title>" > tocxhtml
   print "</head>" > tocxhtml
   print "<body style=\"min-height:100vh;display:flex;flex-direction:column\">" > tocxhtml
