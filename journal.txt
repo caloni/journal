@@ -15690,3 +15690,45 @@ Bellow the comparison I was doing (WIP).
 0x000002574C36D7A0  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................................
 0x000002574C36D7C0  00 00 00 00 00 00 00 00 02 00 00 00 00 00 00 00
 ```
+
+
+= Finally multipeer in code (with issues)
+:date: 2024-02-19
+:tags: tag_venn
+
+Managed to test PCG with first peer, second peer and both peers configuring to wireshark one interface and two peers (in the last test). The code is ugly but it is C# code with few changes to existing solution, which is good to test.
+
+If we check with wg.exe wireguard is really creating two peers for one interface, but oddly the second one is with the allowed ips empty:
+
+```
+interface: Workplace Gateway (WCaloni.dlp)
+  public key: lPjkVa8JbzGu0aQTdcYzf92Tv47C//Vnj31/YObflXQ=
+  private key: (hidden)
+  listening port: 59516
+
+peer: cbW6/3l8p9M3ewScU2hzP49fDgyw/y7633I5hXUYclY=
+  preshared key: (hidden)
+  endpoint: 142.147.11.10:443
+  allowed ips: 0.0.0.0/0
+  latest handshake: 16 seconds ago
+  transfer: 124 B received, 1.64 KiB sent
+
+peer: mbjlQmWsU7PY8BFAFUKLdv/fzvOJZyqWtJfsm3VeEyw=
+  preshared key: (hidden)
+  endpoint: 142.147.11.11:20000
+  allowed ips: (none)
+```
+
+However, the current solution always use as the interface endpoint the first peer. This is fixed in the code:
+
+```
+Interface = new WorkplaceGatewayInterface
+{
+    PrivateKey = config.Interface.PrivateKey,
+    Address = activePeers.First().LocalInsideIp, //todo: support all localinsideips from peers
+},
+```
+
+If we keep just one peer as the first the Gateway is working nevertheless if the chosen one is the first or second peer, but setting both starts some ranking process which triggers changing the active peer; in this part the endpoint keeps accusing failure. So the Gateway keeps trying to change port (dunno why yet) but it does not work.
+
+The next step should be to take a look into the logic behind ranking and changing peers. If using one peer at a time besides configuring both (or more) it will work as if configuring only one (the current solution).
