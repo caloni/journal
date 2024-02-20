@@ -15696,7 +15696,7 @@ Bellow the comparison I was doing (WIP).
 :date: 2024-02-19
 :tags: tag_venn
 
-Managed to test PCG with first peer, second peer and both peers configuring to wireshark one interface and two peers (in the last test). The code is ugly but it is C# code with few changes to existing solution, which is good to test.
+Managed to test PCG with first peer, second peer and both peers configuring to wireguard one interface and two peers (in the last test). The code is ugly but it is C# code with few changes to existing solution, which is good to test.
 
 If we check with wg.exe wireguard is really creating two peers for one interface, but oddly the second one is with the allowed ips empty:
 
@@ -15731,4 +15731,36 @@ Interface = new WorkplaceGatewayInterface
 
 If we keep just one peer as the first the Gateway is working nevertheless if the chosen one is the first or second peer, but setting both starts some ranking process which triggers changing the active peer; in this part the endpoint keeps accusing failure. So the Gateway keeps trying to change port (dunno why yet) but it does not work.
 
-The next step should be to take a look into the logic behind ranking and changing peers. If using one peer at a time besides configuring both (or more) it will work as if configuring only one (the current solution).
+~~The next step should be to take a look into the logic behind ranking and changing peers. If using one peer at a time besides configuring both (or more) it will work as if configuring only one (the current solution).~~
+
+(Asipov) Next step is to make sure failover works from peer a to peer b... need to do this at wpf driver level where we set the source ip.
+
+
+= Wireguard can't use multiple peers with same AllowedIPs
+:date: 2024-02-20
+:tags: tag_venn
+
+Getting some context of where ip address request is sent to the driver and why there is a port rotation going on when the first endpoint is not working (because the peers were added inverted). Here are the code points to breakpoint and see the PCG config setting and updating:
+
+```
+PrepareSessionInfrastructureAsync -> ContainerSessionExtensions.PcgEnabled
+ContainerSessionExtensions.PcgEnabled -> ContainerDriverApi.UpdateIpAddress // UpdateNetworkSettings request received
+GatewayConnectivityStatusWatcher.UpdateStatus -> StartRankPeersAsync
+StartRankPeersAsync -> UpdateVpnConfig -> ChangeInterfaceInternalIp // Deleting <ip from unicastTableEntries>
+StartRankPeersAsync -> ContainerDriverApi.UpdateIpAddress // UpdateNetworkSettings request received
+StartRankPeersAsync -> UpdateBfdConfig // Updating BFD config for session
+```
+
+The purpose was to know where I could change to make multipeer work. I delayed the AllowedIPs issue believing the wireguard protocol could have something to support load balance or DR. But [not] (responding to "How do I add the same AllowedIPs to multiple peers?"):
+
+> You don't.
+> 
+> AllowedIPs isn't only a list of allowed IP addresses – the interface also uses it for internal routing. WireGuard interfaces, like 'tun' interfaces (as opposed to 'tap'), do not carry a Layer-2 header where MAC addresses would be; so if you have multiple peers on the same interface, the standard routing table has no way to specify which peer which packets should be sent to. Therefore WireGuard itself internally uses AllowedIPs to map each destination IP address to a single destination peer (similarly to OpenVPN's "iroute", Tinc's "Subnet", &c).
+> 
+> If you want a full mesh, you'll need a separate interface for each peer.
+
+We could still configure a multipeer with single interface if we elect which peer will be the active one, but that would keep the other peers without status, or we going to need to keep an AllowedIPs with only one IP to receive keep alives from "disabled" peers and decide which could be the next candidate.
+
+Actually this could be a good idea, I think, because we could keep the task of selecting the active peer in the driver. Dunno yet, just wondering.
+
+[not]: https://superuser.com/questions/1670154/same-allowedips-for-multiple-peers-with-wireguard
