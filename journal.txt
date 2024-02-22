@@ -15764,3 +15764,30 @@ We could still configure a multipeer with single interface if we elect which pee
 Actually this could be a good idea, I think, because we could keep the task of selecting the active peer in the driver. Dunno yet, just wondering.
 
 [not]: https://superuser.com/questions/1670154/same-allowedips-for-multiple-peers-with-wireguard
+
+
+= Starting to draw diagrams
+
+## Session created
+
+```
+IPC -> CreateContainerSession -> ConfigureContainerSessionAsync -> PrepareSessionInfrastructureAsync
+OnPowerModeChanged -> OnResumeAsync -> PrepareSessionInfrastructureAsync
+OnNetworkAdapterStatusChanged -> PrepareSessionInfrastructureAsync
+PrepareSessionInfrastructureAsync -> ContainerDriver.UpdateIpAddress
+PrepareSessionInfrastructureAsync -> SetupVpnSession
+SetupVpnSession -> "ChangeInterfaceInternalIp" (block of code)
+SetupVpnSession -> WireGuard.SetConfiguration(WireguardConfig)
+```
+
+Obs: PrepareSessionInfrastructureAsync is also called when OnPowerModeChanged and OnNetworkAdapterStatusChanged happen.
+
+## Connection changed
+
+```
+GatewayConnectivityStatusWatcher.UpdateStatus -> StartRankPeersAsync
+StartRankPeersAsync -> UpdateVpnConfig -> ChangeInterfaceInternalIp
+StartRankPeersAsync -> UpdateVpnConfig -> WireGuard.SetConfiguration(WireguardConfig)
+StartRankPeersAsync -> ContainerDriverApi.UpdateIpAddress
+```
+
