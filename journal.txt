@@ -15771,13 +15771,12 @@ Actually this could be a good idea, I think, because we could keep the task of s
 ## Session created
 
 ```
-IPC -> CreateContainerSession -> ConfigureContainerSessionAsync -> PrepareSessionInfrastructureAsync
-OnPowerModeChanged -> OnResumeAsync -> PrepareSessionInfrastructureAsync
-OnNetworkAdapterStatusChanged -> PrepareSessionInfrastructureAsync
-PrepareSessionInfrastructureAsync -> ContainerDriver.UpdateIpAddress
-PrepareSessionInfrastructureAsync -> SetupVpnSession
-SetupVpnSession -> "ChangeInterfaceInternalIp" (block of code)
-SetupVpnSession -> WireGuard.SetConfiguration(WireguardConfig)
+IPC.CreateContainerSession -> ConfigureContainerSessionAsync
+ConfigureContainerSessionAsync -> EstablishGatewayServerConnection
+EstablishGatewayServerConnection -> CreateConnectionAsync
+ConfigureContainerSessionAsync, OnPowerModeChanged, OnNetworkAdapterStatusChanged -> PrepareSessionInfrastructureAsync
+PrepareSessionInfrastructureAsync -> ContainerDriver.UpdateIpAddress, SetupVpnSession
+SetupVpnSession -> change InterfaceInternalIp, WireGuard.SetConfiguration
 ```
 
 Obs: PrepareSessionInfrastructureAsync is also called when OnPowerModeChanged and OnNetworkAdapterStatusChanged happen.
@@ -15786,8 +15785,53 @@ Obs: PrepareSessionInfrastructureAsync is also called when OnPowerModeChanged an
 
 ```
 GatewayConnectivityStatusWatcher.UpdateStatus -> StartRankPeersAsync
-StartRankPeersAsync -> UpdateVpnConfig -> ChangeInterfaceInternalIp
-StartRankPeersAsync -> UpdateVpnConfig -> WireGuard.SetConfiguration(WireguardConfig)
-StartRankPeersAsync -> ContainerDriverApi.UpdateIpAddress
+StartRankPeersAsync -> UpdateVpnConfig
+UpdateVpnConfig -> ChangeInterfaceInternalIp, WireGuard.SetConfiguration
+StartRankPeersAsync -> ContainerDriver.UpdateIpAddress
 ```
 
+
+= Traffic redirection
+
+```
+DriverEntry -> RegisterCallouts(onBindRedirect, onConnectRedirect)
+CommunicationHandler::onMessage -> kUpdateNetworkSettings
+onUpdateNetworkSettings -> setAdapterAddress, setDnsAddressAndPort
+onBindRedirect, onConnectRedirect -> ChangeAdapterAddress
+```
+
+I was looking for when the LocalInsideIp is generated in a new connection (GatewayService.CreateConnectionAsync already receives it) but found only the DataContract definition in [Connection.cs], [IConnection.cs] and [Peer.cs]:
+
+```
+OS33.Api.DataContracts.Gateway
+{
+  [DataContract]
+    public sealed class Connection : IConnection
+  {
+    //...
+
+    /// <summary>The remote peers associated with the session.</summary>
+    [DataMember]
+      public IPeer[] Peers { get; set; }
+  }
+}
+
+namespace OS33.Api.DataContracts.Gateway
+{
+  [DataContract]
+    public sealed class Peer : IPeer
+  {
+    //...
+
+    /// <summary>
+    /// The private IP address that must be configured on the user's local interface.
+    /// The peer will only accept traffic originating from this address.
+    /// </summary>
+    [DataMember]
+      public string LocalInsideIp { get; set; }
+  }
+```
+
+[Connection.cs]: https://tfs.os33.net/DefaultCollection/Portal/_git/OS33.Api?path=/OS33.Api.DataContracts/Gateway/Connection.cs&_a=contents&version=GBmaster
+[IConnection.cs]: https://tfs.os33.net/DefaultCollection/Portal/_git/OS33.Api?path=/Interfaces/OS33.Api.Interfaces.Client/Gateway/IConnection.cs&_a=contents&version=GBmaster
+[Peer.cs]: https://tfs.os33.net/DefaultCollection/Portal/_git/OS33.Api?path=/OS33.Api.DataContracts/Gateway/Peer.cs&_a=contents&version=GBmaster
