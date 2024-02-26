@@ -15835,3 +15835,80 @@ namespace OS33.Api.DataContracts.Gateway
 [Connection.cs]: https://tfs.os33.net/DefaultCollection/Portal/_git/OS33.Api?path=/OS33.Api.DataContracts/Gateway/Connection.cs&_a=contents&version=GBmaster
 [IConnection.cs]: https://tfs.os33.net/DefaultCollection/Portal/_git/OS33.Api?path=/Interfaces/OS33.Api.Interfaces.Client/Gateway/IConnection.cs&_a=contents&version=GBmaster
 [Peer.cs]: https://tfs.os33.net/DefaultCollection/Portal/_git/OS33.Api?path=/OS33.Api.DataContracts/Gateway/Peer.cs&_a=contents&version=GBmaster
+
+
+= About LocalInsideIp and multiple peers
+:date: 2024-02-26
+:tags: tag_venn
+
+Inside the code, the [GatewayController.cs] in OS33.Mvc answers with the [gateway.swagger.json] in OS33.Api.Gateway with the localInsideIp data.
+
+The localinsideips never change for the life of the WireGuard session. They are allocated from 100.64.0.0/10 on edge33 controller and are globally unique. Client traffic must originate from these ips otherwise the PCGs will block the traffic.
+
+Sessions expire after a while (expiration just means that the PCGs remove their configuration so the client will no longer be able to connect). Calling the keep alive api just extends the session's expiration. The peer configuration don't change.
+
+There is also a keep-alive setting in WireGuard, but that's not to be confused with session keep alive. WG keep alive represents the interval at which the WG protocol will send an empty packet to keep any intermediate NAT tables active. Session keep alive just prevents the peer configuration from being removed on the PCGs. Workplace already calls session keep alive in the background to keep those configurations valid.
+
+To reconfigure the peers on an adapter is just a simple UAPI call (should be fast and local). You just have to make sure that the outbound packets have the correct source IP depending on which peer is "active" (the local inside IP).
+
+You don't need the persistent keep-alive package to the inactive tunnels in WG. NAT is the only purpose of persistent keep-alive interval. Example:
+
+ - 192.168.1.100 is client's private IP on their home/office network
+ - The public IP from their ISP is 11.11.11.11
+ - When WireGuard sends a packet to their PCG at 22.22.22.22:443 their home/office modem performs nat
+ - 192.168.1.100:42036 -> 22.22.22.22:443
+ - After modem performs nat:
+ - 11.11.11.11:42036 -> 22.22.22.22:43
+ - When PCG replies:
+ - 22.22.22.22:443 -> 11.11.11.11:42036
+ - The modem has to figure out that this packet should be forwarded to 192.168.1.100:42036.
+ - It knows how to do this because it has a connection tracking table that keeps track of the nat mapping it created when the first packet went out.
+ - These nat mapping expire after a while if there is no more traffic, so if there is a long delay before the PCG responds, the modem won't know where the packet should go.
+ - WireGuard's persistent keep-alive interval just sends empty packets to the PCG every 15 seconds or whatever so the modem keeps the NAT entry alive.
+
+If there is a long delay before the PCG responds, the modem won't know where the packet should go (the client's private IP). WireGuard's persistent keep-alive interval just sends empty packets to the PCG from time to time so the modem keeps the NAT entry alive. Which means we don't care about this for the inactive tunnels because there're not talking to us and we're not expecting any packets from them.
+
+In a scenario with 1 WG adapter with a single peer configuration failover entails: 1) Choosing another peer config, 2) Changing the private IP of the adapter to the new peer config's local inside IP (or maybe just pre-configure all 4 IPs on the adapter), 3) Removing old peer on adapter and adding new peer and 4) Making sure all outgoing packets have the new inside IP as the source address.
+
+[GatewayController.cs]: https://tfs.os33.net/DefaultCollection/Portal/_git/Portal?path=/OS33.Mvc/API/Controllers/Dlp/GatewayController.cs
+[gateway.swagger.json]: https://tfs.os33.net/DefaultCollection/Portal/_git/OS33.Api.Gateway?path=/OS33.Api.Gateway/gateway.swagger.json
+
+
+= Packet flow in WireGuard and Workplace
+:date: 2024-02-26
+:tags: tag_venn
+
+Starting to describe (in text) a new diagram describing how a network packet travel from the containered app to the destination server to show the chain of app, network adapter, container driver, wireguard driver and all ip addresses involved (public, private, local-inside). After getting the information from last comment from Zach Nakaska I traced again the flow of ip addresses among the components to conclude something more:
+
+### Setup (example)
+
+ - ContainerDriver installs callouts onConnectRedirect and onBindRedirect.
+ - Workplace session starts and connects to PCG received by config.
+ - FirstPeer AllowedIps are 0.0.0.0/0, Endpoint is 142.147.11.10:1194, LocalInsideIp is 100.64.0.12, RemoteInsideIp is 10.40.1.120, RemotePorts are [443, 1194, 20000], RemotePublicIp is 142.147.11.10.
+ - SecondPeer AllowedIps are 0.0.0.0/0, Endpoint is 142.147.11.11:443, LocalInsideIp is 100.64.1.3, RemoteInsideIp is 10.40.10.165, RemotePorts are [443, 1194, 20000], RemotePublicIp is 142.147.11.11.
+ - ShortGatewayConfig.Interface.Address equals LocalInsideIp from FirstPeer (100.64.0.12) and ContainerDriver AdapterAddress (100.64.0.12).
+ - DnsAddress equals FirstPeer RemoteInsideIp and DnsPort equals Gateway.DnsPortWindows (from UpdateIpAddress).
+ - Create new WireGuardAdapter (interface) and associate LocalInsideIp/ShortGatewayConfig.Interface.Address to this interface (IP Helper).
+ - WireGuardConfig PeerCount is 1, FirstPeer endpoint is (142.147.11.10), AllowedIPs are 0.0.0.0/0.
+ - All set.
+
+### Packet flow (example)
+
+ - Containered app try to connect to google.com (142.250.185.206).
+ - ContainerDriver.NetworkFilter2::onConnectRedirect is called.
+ - ContainerDriver set local address from packet to AdapterAddress.
+ - Packet is sent from AdapterAddress to WireGuardAdapter, default IP route for AdapterAddress.
+ - Packet is encrypted using FirstPeer endpoint public key.
+ - Packet is sent to ISP modem, sets a nat entry private -> public address.
+ - Packet is sent from ISP modem to FirstPeer endpoint (142.147.11.10), or WireGuardServer.
+ - Packet is received in WireGuardServer.
+ - Packet is decrypted using private key.
+ - Packet is sent to google.com (142.250.185.206) using source IP as WireGuardServer.
+ - Response packet is received by WireGuardServer.
+ - Packet is encrypted using FirstPeer public key.
+ - Packet is sent to ISP public address.
+ - ISP modem receives the packet and sends to nat entry private IP (AdapterAddress).
+ - WireGuardAdapter received the packet.
+ - Packet is decrypted using FirstPeer private key.
+ - Packet is sent to containered app.
+
