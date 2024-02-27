@@ -15912,3 +15912,87 @@ Starting to describe (in text) a new diagram describing how a network packet tra
  - Packet is decrypted using FirstPeer private key.
  - Packet is sent to containered app.
 
+
+= PCG packet flow
+:date: 2024-02-27
+:tags: tag_venn
+
+Based on the related addresses and connections from the last comment I traced two diagrams to make it easier to understand who is who in a network traffic.
+
+## Addresses from config
+
+WontainerSession sends a config that is translated to several subconfigs to setup ContainerDriver, WireGuard and Unicast IP forwarding:
+
+```
+WorkplaceGatewayConfig {
+  Interface {
+    Address: Peers[0].LocalInsideIp
+  }
+  Peers[] {
+    AllowedIps: 0.0.0.0/0
+    LocalInsideIp: 100.64.0.0/10
+    RemoteInsideIp: 10.40.0.0/16?
+    RemotePublicIp: 142.147.11.1[01] (DLP)
+    RemotePorts: [443, 1194, 20000]
+    Endpoint: RemotePublicIp:RemotePorts[0]
+  }
+}
+
+WorkplaceGatewayConfig => Bfd
+
+BdfConfig {
+  PeerIp: Peers[0].RemoteInsideIp
+  InterfaceIp: Interface.Address
+}
+
+WorkplaceGatewayConfig => IpTables
+
+UnicastIpAddressEntry {
+  InterfaceLuid: WireGuardInterface
+  Address: Interface.Address
+}
+
+WorkplaceGatewayConfig => WG
+
+WireGuardInterface {
+  Peer {
+    Endpoint: Peers[0].Endpoint
+  }
+  AllowedIp: 0.0.0.0/0
+}
+
+WorkplaceGatewayConfig => ContainerDriverApi
+
+UpdateIpAddress {
+  ipAddress: Interface.Address
+  dnsAddr: Peers[0].RemoteInsideIp
+  dnsPort: WorkplaceContainerConfig.GatewayConfig.DnsPort (def: 53)
+}
+
+ContainerDriverApi => ContainerDriver
+
+UpdateNetworkSettingsRequest {
+  adapterIpAddress: ipAddress
+  dnsIpAddress: dnsAddr
+  dnsIpPort: dnsPort
+}
+```
+
+## Packet flow
+
+ - ContainerApp create socket with address 192.168.0.42
+ - ContainerApp connects to google.com (142.250.185.206)
+ - ContainerDriver intercepts and change source ip to 100.64.0.12
+ - WireGuard intercepts traffic from 100.64.0.12
+ - WireGuard encrypt the packet and sent do local ISP 11.11.11.11
+ - ISP redirects packet to PCG ISP 22.22.22.22
+ - PCG ISP redirects to PCG (WireGuard server) 142.147.11.10
+ - PCG decrypts packet
+ - PCG redirects to google.com
+ - Google.com return packet
+ - PCG encrypt packet
+ - PCG redirect packet to PCG ISP 22.22.22.22
+ - PCG ISP based on NAT redirects to ISP 11.11.11.11
+ - ISP based on NAT redirects to WireGuard 100.64.0.12
+ - WireGuard decrypts the packet
+ - WireGuard redirects the packet to ContainerApp
