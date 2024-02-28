@@ -15996,3 +15996,18 @@ UpdateNetworkSettingsRequest {
  - ISP based on NAT redirects to WireGuard 100.64.0.12
  - WireGuard decrypts the packet
  - WireGuard redirects the packet to ContainerApp
+
+
+= BfdClient and network events
+:date: 2024-02-28
+:tags: tag_venn
+
+Studied about BfdClient and ConnectivityService to know how network state changes influence local ip address change. There are peer ranking and other details that can be set apart during this POC, but some code need to be inserted to use the PCG protocol already working. Perhaps removing BfdClient is enough to put instead a message to change endpoint (which would simply change the peer). Made another diagram about this network monitoring events in Confluence page for this issue.
+
+```
+WorkplaceGatewayManager BfdClient => ContainerReporter.ReportGatewayConnectivityStatusAsync
+WorkplaceGatewayManager ConnectivityService.OnConnectivityInfoCollected => ContainerReporter.ReportGatewayConnectivityStatusAsync
+WorkplaceContainer GatewayConnectivityStatusWatcher.UpdateStatus => WorkplaceClient.ReportGatewayConnectivityStatusAsync
+ReportGatewayConnectivityStatusAsync => IpcClient.SendRequestAsync("gateway-connectivity-status")
+IpcEndpointName("gateway-connectivity-status").GatewayConnectivityStatus => GatewayConnectivityStatusWatcher.ReportGatewayConnectivityStatus
+```
