@@ -16011,3 +16011,45 @@ WorkplaceContainer GatewayConnectivityStatusWatcher.UpdateStatus => WorkplaceCli
 ReportGatewayConnectivityStatusAsync => IpcClient.SendRequestAsync("gateway-connectivity-status")
 IpcEndpointName("gateway-connectivity-status").GatewayConnectivityStatus => GatewayConnectivityStatusWatcher.ReportGatewayConnectivityStatus
 ```
+
+A format easy to copy/paste [on internet]:
+
+```
+WorkplaceGatewayManager -> WorkplaceContainer: ReportGatewayConnectivityStatus
+```
+
+[on internet]: https://sequencediagram.org
+
+
+# Implemented endpoint for update gateway network settings
+:date: 2024-02-29
+:tags: tag_venn
+
+I put the call in Demo, but it is not working yet, giving the error "Could not find controller method for "Workplaceupdate-gateway-network-settings" endpoint."
+
+## Error detail
+
+```
+Enter application path or 'exit' to break:
+File system availability changed: WorkplaceDrive is available
+UpdateGatewayNetworkSettings 192.168.0.1
+Received command from interactive: UpdateGatewayNetworkSettings 192.168.0.1
+Launching app: [UpdateGatewayNetworkSettings] with parameters [192.168.0.1]
+Info: Changing adapter address. AdapterAddress: 192.168.0.1
+Error: update-gateway-network-settings method failed with message: Exception message: Could not find controller method for "Workplaceupdate-gateway-network-settings" endpoint.
+
+Error:
+Workplace.Container.Api.Common.Exceptions.WorkplaceContainerServiceException: Exception message: Could not find controller method for "Workplaceupdate-gateway-network-settings" endpoint.
+
+   at Workplace.Container.Api.Common.Utilities.IpcResponseExtension.ThrowServiceExceptionWithExceptionDescription(IpcResponse response, String endPoint)
+   at Workplace.Container.Api.Common.Ipc.IpcClientExtension.SendMessageRequest(IIpcClient ipcClient, MessageRequest request, Type resultType, Boolean throwIfFailed)
+   at Workplace.Container.Api.Common.Ipc.IpcClientExtension.SendVoidMessageRequest(IIpcClient ipcClient, MessageRequest request, Boolean throwIfFailed)
+   at Workplace.Container.Api.WorkplaceContainerManager.Send(MessageRequest request, Boolean canDeferSend)
+Enter application path or 'exit' to break:
+Info: Container disconnect error occurred, stop current session
+OnContainerCriticalExceptions: Container suddenly disconnected
+```
+
+Did a method for changing network address copying the method StartRankPeersAsync by simply changing (without ranking) the first peer for the one with the address to be changed. It should work always the connection is stable (and the original StartRankPeersAsync is never called).
+
+Now I just need to call it =)
