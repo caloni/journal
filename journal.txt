@@ -16053,3 +16053,10 @@ OnContainerCriticalExceptions: Container suddenly disconnected
 Did a method for changing network address copying the method StartRankPeersAsync by simply changing (without ranking) the first peer for the one with the address to be changed. It should work always the connection is stable (and the original StartRankPeersAsync is never called).
 
 Now I just need to call it =)
+
+
+= A much easier way to test new endpoints
+:date: 2024-03-01
+:tags: tag_venn
+
+Andrey Bisikalo pointed me out that there is a much easier way to test new endpoints by using Demo to trigger a `WorkplaceMessageController.LaunchApplication` call and do the thing inside the container already. I reimplemented this way and could trigger the `ChangeEndpoint` POC entry point to change PCG endpoint on the fly. Tested a few times but it seems it is not OK yet, since when trying to change between both endpoints in DLP the second time it is already changed or something similar. Going to check next time I got back to this issue.
