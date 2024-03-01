@@ -15003,13 +15003,6 @@ Tried to install dev and nonsigned versions, but as expected it keeps updating w
 So I got back to the download issue in browser and started to rollback Demo version until this issue does not exists anymore. I started with the original issue 8747, same error, and got back to 8725, the stable version (using tag dev-1.0.8725.2108), but I couldn't verify the outcome yet because the sessions kept giving the error "WorkplaceContainerServiceException: Workplace Container has been terminated during waiting for session confirmation" for about one hour (this happens sometimes).
 
 
-= Zing!
-:date: 2024-01-11
-:tags: tag_self
-
-Assim como a autora de "Salt, Fat, Acid and Heat" fala sobre colocar sal até sentir o "Zing!", quando a comida fica no seu estado ótimo, entrar no flow também envolve começar a fazer o que se deve fazer até ouvir um "Zing!" no seu cérebro, te avisando que isso é o que você deveria estar fazendo acima de tudo. Isto é o que dá sentido à vida. Nada mais importa. Isto é o [The ONE thing] do momento. Tudo fora do que se está fazendo atrapalha e deve ser removido.
-
-
 = Old Demo
 :date: 2024-01-15
 :tags: tag_venn
@@ -16060,3 +16053,14 @@ Now I just need to call it =)
 :tags: tag_venn
 
 Andrey Bisikalo pointed me out that there is a much easier way to test new endpoints by using Demo to trigger a `WorkplaceMessageController.LaunchApplication` call and do the thing inside the container already. I reimplemented this way and could trigger the `ChangeEndpoint` POC entry point to change PCG endpoint on the fly. Tested a few times but it seems it is not OK yet, since when trying to change between both endpoints in DLP the second time it is already changed or something similar. Going to check next time I got back to this issue.
+
+
+= Chromium based browser crash on extension (32 bits)
+:date: 2024-03-01
+:tags: tag_venn
+
+It is a crash from some subprocess (instance) from the main one. The diagnostics zip has a lot of them and are accusing crash on a stack with `WorkplaceHook32.dll` (the process is 32 bits). The version for this module is 1.0.8774.28638. How can I get the symbols from this specific version?
+
+It is reproducible in my computer, too, but it is not generating dump files (dunno why) despite configured. Tried to run with windbg or procdump but didn't find the right way to do it inside secure enclave.
+
+Last but not least, Windows show a notification from crashes from extension from this browser. More than one. The recurring one is called "Commercial Center Core Extension". It is more probable that the processes that are crashing are surrogates for these extensions.
