@@ -16064,3 +16064,52 @@ It is a crash from some subprocess (instance) from the main one. The diagnostics
 It is reproducible in my computer, too, but it is not generating dump files (dunno why) despite configured. Tried to run with windbg or procdump but didn't find the right way to do it inside secure enclave.
 
 Last but not least, Windows show a notification from crashes from extension from this browser. More than one. The recurring one is called "Commercial Center Core Extension". It is more probable that the processes that are crashing are surrogates for these extensions.
+
+
+= Apache e suas 1000 threds
+:date: 2024-03-02
+:tags: tag_weknow
+
+Como há mais de 1000 thread rodando no Apache foi usado o comando !uniqstack para resumir nas com a pilha única, o que revelou que a maioria delas (1075 de 1100) apresentava a mesma pilha provável de uma worker thread aguardando:
+
+```
+00 ntdll!NtRemoveIoCompletion+0x14
+01 KERNELBASE!GetQueuedCompletionStatus+0x53
+02 libhttpd!ap_regkey_value_set+0x206a
+03 kernel32!BaseThreadInitThunk+0x14
+04 ntdll!RtlUserThreadStart+0x21
+```
+
+O ponto do código libhttpd!ap_regkey_value_set+0x206a não pode ser detectado pois não há símbolos para o módulo do Apache. Não se engane pelo nome ap_regkey_value_set, o debugger utiliza o nome conhecido mais próximo, mas a distância comprova não ser a mesma função (0x206a de offset é muita coisa e eu olhei o código-fonte dessa função; e há outros pontos em outras threads que usam o mesmo nome como referência).
+
+O que me vem à pergunta: de onde vem os binários do Apache? A libhttpd é da versão 2.4.39.0. Se houver símbolos disponíveis ou ao menos o binário talvez seja possível descobrir mais sobre essa e outras threads.
+
+Porém, não são essas threads as que importam, mas as que estavam em execução ou aguardando execução durante a geração do dump. E dessas foi possível detectar a presença de código dos módulos wknw_server_apache (WeKnow), FireDAC*/dbrtl280 (Delphi) e OraOCIEI11/oci (Oracle). Existem três threads com nomes de funções com exceção (talvez uma delas tenha sido a geração do dump). No entanto, a stack mais curiosa foi a de uma execução do Oracle aguardando pela finalização. Lembro de um padrão semelhante talvez nas últimas análises:
+
+```
+.270  Id: 3a74.5e7c Suspend: 0 Teb: 00000017`4d0f9000 Unfrozen
+      Start: libhttpd!ap_regkey_value_set+0x1f50 (00000000`7780a1b0)
+      Priority: 0  Priority class: 32  Affinity: ff
+ # Child-SP          RetAddr               Call Site
+00 00000017`4d535788 00007ffc`7478a81d     ntdll!NtWaitForSingleObject+0x14
+01 00000017`4d535790 00007ffc`7478a300     mswsock!SockWaitForSingleObject+0x1bd
+02 00000017`4d535830 00007ffc`76b308b4     mswsock!WSPRecv+0x3a0
+03 00000017`4d535920 0000012f`33862baa     ws2_32!WSARecv+0x174
+04 00000017`4d5359a0 0000012f`33fb23c3     OraOCIEI11!XmlCreate+0x3ef5a8
+05 00000017`4d535a20 0000012f`33ab6f3d     OraOCIEI11!k2mdii+0x107cd1
+06 00000017`4d535bf0 0000012f`33aba527     OraOCIEI11!nlstdgg+0x3ffd5
+07 00000017`4d536280 0000012f`33a4e9d4     OraOCIEI11!nssend+0x103
+08 00000017`4d5362d0 0000012f`324431c5     OraOCIEI11!nlnvgin+0x15a180
+09 00000017`4d5364c0 0000012f`33b79584     OraOCIEI11!sigpidu+0x2acf
+0a 00000017`4d536e20 0000012f`3225620e     OraOCIEI11!ztub64d+0x28b26
+0b 00000017`4d536e60 0000012f`33233de5     OraOCIEI11!upicui2+0x9a8
+0c 00000017`4d5399c0 0000012f`33310878     OraOCIEI11!upirtr+0xad
+0d 00000017`4d539a30 0000012f`33271e6c     OraOCIEI11!kpurcsc+0x96
+0e 00000017`4d539aa0 0000012f`330b1632     OraOCIEI11!kadgetembtype+0xf99e
+0f 00000017`4d53c6f0 0000012f`30dd44af     OraOCIEI11!OCIStmtExecute+0x46
+10 00000017`4d53c750 00000000`76fd8d69     oci!OCIStmtExecute+0xb7
+11 00000017`4d53c7c0 00000000`76ffcd16     FireDACOracleDriver280!ZN7Firedac4Phys13Oraclewrapper13TOCIStatement7ExecuteEiibb+0x189
+...
+```
+
+Acho que podemos ter uma noção melhor entendendo sobre as threads do Apache (no que os símbolos dos binários irão ajudar), mas ainda devo continuar algum estudo em torno da solução Apache (pois foi ele que acusou o possível erro em sua análise).
