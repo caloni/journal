@@ -1,3 +1,69 @@
+= Anotações de janeiro
+:date: 2001-01-16
+:tags: tag_scua
+
+Dia 16 terminei o componente ComCopyFile.
+
+Dia 17 começar a importar ComCopyFile no CopyFile (prazo segunda-feira dia 22).
+
+Dia 24:
+
+ - Coloquei as mensagens no ScuaUpdate (SSetup.exe).
+ - ComCopyFile upgrade. Novas funções: FindFirstFile, Next, Close.
+ - Reimportei o novo componente; agora ele suporta wildcards.
+ - No dia 25 fuçando sobre hash MD5 (26 idem, 27 ibidem).
+
+Dia 28 observações sobre o DCOM95:
+
+ - Sobre Win98 e NT, não executa nada. Para ver se está instalado, ver chave HKLM, CLSID, {clsid}, InstalledVersion = "a,b,c,d".
+ - Para executar em silêncio -> /r:n /q:U
+
+Dia 29 otimizar o CopyFile, mudando a rotina de conexão com o componente.
+
+Dia 30 cuide de bugs diversos do CopyFile.
+
+Dia 31 cuidei de implementar a mudança de data nos arquivos e do bug original do CopyFile que copiava os arquivos atualizados ou não.
+
+
+= Anotações de fevereiro
+:date: 2001-02-02
+:tags: tag_scua
+
+Dia 2 arrumado GPF e implementada a função _access() no ComCopyFile.
+
+Dia 5 ajustei novo uso das macros nas rotas do ComCopyFile e achei um bug na função de macros. Obs: o Windows parece ignorar o número de barras em paths.
+
+Dia 6 reestruturei os dados e funções do ComCopyFile.
+
+Dia 7 ajustar conexão em main (CopyFile). Já reestruturei todo o CopyFile e cuidei do bug do NULL DEL.
+
+Dia 8 cuidei do bug do <LOGDIR> no CopyFile (ele não criava pasta pelo componente). Agora ele sempre cria a pasta destino.
+
+Dia 9 provável bug de data. Funcionando _access e MoveFileEx no CopyFile.
+
+Dia 10 testes gerais no CopyFile. Componente parou de conectar.
+
+Dia 12:
+
+ - Resolvido bug do sábado.
+ - Aprimorada criação de pastas. Agora só cria destino se origem existir.
+ - Componente não registrava no Bradesco. Silvestri compilou no modo MinDependency e funcionou com Service Pack 4. A versão debug funcionava com a versão 5.0 do IExplorer.
+
+Dia 14 implementado de um exemplo a função que modifica os acessos do componente COM.
+
+Dia 15 mudei a forma como o CopyFile pega o nome do servidor. Agora ele procura o domínio no register e usa como valor em um .ini.
+
+Dia 19 alterei o componente COM ScuaSinc para aumento de segurança. Criei uma variável privada para autenticação. Fiz as primeiras documentações do Scrules.dll, ScuaSinc e CopyFile (não terminado).
+
+Dia 20 iniciei as funções de autenticação no componente COM.
+
+Dia 21 resolvi o bagulho de mudar o acesso ao componente para todos. Escrevi direto no registry.
+
+Dia 22 terminei basicamente a implementação de segurança do componente COM.
+
+Dias 24 a 28: carnaval.
+
+
 = Liberar nova versão do HDCript que verifica
 :date: 2003-10-20
 
