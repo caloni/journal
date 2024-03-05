@@ -16199,3 +16199,54 @@ The specific subprocess where the crash occurs is the only one started by the br
 appcontainer.png
 
 That explains why even using `GetCurrentProcess` as the process handle in `OpenProcessToken` the call fails.
+
+
+= Hook into NtOpenProcessToken and access denied unrelated
+:date: 2024-03-05
+:tags: tag_venn
+
+Despite failure in OpenProcessToken the GetLastError returned 0 I debugged the NtOpenProcessToken and it returns 0xc0000022 (STATUS_ACCESS_DENIED) but it is lost when returned to hook code, which seems a bug related to a call of SetProcessDynamicEnforcedCetCompatibleRanges right before OpenProcessToken returns.
+
+However, the curious part is that NtOpenProcessToken have some hook inside, but only in the instance that returns access denied. This instance is created with some capabilities restriction, similar to the state from screenshot took some comments bellow.
+
+appcontainer_debug.png
+
+It was observed that 32 bits chrome distribution has the same behavior related to NtOpenProcessToken hook and subprocesses with denied capabilities. However, there was no subprocess with an AppContainer SID group as in the mscbssb.exe.
+
+Debugged outside SE and OpenProcessToken and NtOpenProcessToken works beside this existing hook in what seems an AppContainer subprocess. So there is a difference between both executions. Chermyanin said maybe we could use AppContainerProtection and do some filtering.
+
+## Debugging
+
+Doing this to debug this issue. Open WinDbg x86 inside container and run the browser with debug child processes checked. For each new process set sym and src paths accordingly and set a deferred breakpoint to Sid::GetCurrentUserSid. When the faulty instance arrive the call to OpenProcessToken will fail.
+
+```
+.sympath c:\temp\src
+.srcpath c:\temp\src
+bm WorkplaceHook32!SecureApi::Sid::GetCurrentUserSid
+bp ntdll!NtOpenProcessToken
+```
+
+I put other tries to get this token: trying to open a new process handle (like is done in GetProcessIntegrityLevel) and trying to call NtOpenProcessToken directly, which returns the access denied code. The ugly code returns:
+
+```
+Sid Sid::GetCurrentUserSid()
+{
+    HANDLE handle;
+    if (!::OpenProcessToken(::GetCurrentProcess(), TOKEN_QUERY, &handle))
+    {
+        const Safe::SafeHandle hProcess = ::OpenProcess(PROCESS_QUERY_INFORMATION | PROCESS_VM_READ, FALSE, GetCurrentProcessId());
+        if (!::OpenProcessToken(hProcess, TOKEN_QUERY, &handle))
+        {
+            if (NTSTATUS nts; (nts = ::NtOpenProcessToken(NtCurrentProcess(), TOKEN_QUERY, &handle)) != STATUS_SUCCESS)
+            {
+                // todo remove ugly test
+                LPCWSTR myVMUserStringSid = L"S-1-5-21-2165181533-4102778563-4066988019-1001";
+                PSID myVMUserSid = NULL;
+                ConvertStringSidToSidW(myVMUserStringSid, &myVMUserSid);
+                if (myVMUserStringSid)
+                {
+                    //convert sid and return
+                }
+            }
+        }
+```
