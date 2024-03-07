@@ -16250,3 +16250,55 @@ Sid Sid::GetCurrentUserSid()
             }
         }
 ```
+
+
+= The CrSharedMem_ ones
+:date: 2024-03-07
+:tags: tag_venn
+
+Looking for sections opened for IPC there are some named objs with "CrSharedMem_0983212..." pattern. I tried to do not set null the sec desc for these guys and the extension that crashed keeps hanging and the page does not load. I believe could be related to too many log lines when trying to capture those guys.
+
+Examples of other sections opened:
+
+ - 1468HWNDInterface:60864
+ - CrSharedMem_0983212ff9118f85ffeff23284406aebc37ed6a2239892ec8ddbdf20c1613101
+ - Global\SvcctrlStartEvent_A3752DX
+ - Global\TermSrvReadyEvent
+ - Global\__ComCatalogCache__
+ - Local\2ImmersiveFocusTrackingActiveEvent
+ - Local\2WaitForPendingInputEvent
+ - Local\CTF.AsmListCache.FMPDefault2
+ - Local\ChromeProcessSingletonStartup!
+ - Local\MSCTF.Asm.MutexDefault2
+ - Local\MSCTF.CtfMonitorInstMutexDefault2
+ - Local\SM0:12184:168:WilStaging_02
+ - __OMADM_NAMED_MUTEX__
+ - windows_shell_global_counters
+
+I logged the security descriptor for the CrSharedMem_* ones and it is "D:" for all of them. Here is an example from WinDbg:
+
+```
+0:036> !sd 0x1552f374 
+->Revision: 0x1
+->Sbz1    : 0x0
+->Control : 0x4
+            SE_DACL_PRESENT
+->Owner   :  is NULL
+->Group   :  is NULL
+->Dacl    : 
+->Dacl    : ->AclRevision: 0x2
+->Dacl    : ->Sbz1       : 0x0
+->Dacl    : ->AclSize    : 0x8
+->Dacl    : ->AceCount   : 0x0
+->Dacl    : ->Sbz2       : 0x0
+->Sacl    :  is NULL
+```
+
+Here is how to debug. Same way to other places, put some deferred bp to some known function, wait to trigger and open the source file and then put the bps where you want.
+
+```
+.sympath c:\temp\src
+.srcpath c:\temp\src
+bm WorkplaceHook32!NamedObjectProtection::Init
+```
+
