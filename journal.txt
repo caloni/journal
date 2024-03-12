@@ -16346,3 +16346,61 @@ However there were no NtCreateSection with access denied into container logs.
 Implemented [RpcControlProtection solution] to closed objects as suggested by Chermyanin, but this does not seem to make any difference in browser behavior. Now that I discovered that the shared memory sections didn't gave any errors in opening or creating this makes sense, but at the same time I have no clue of what is the missing access from this process.
 
 [RpcControlProtection solution]: https://tfs.os33.net/DefaultCollection/Portal/_git/Workplace.Container.Windows?path=/Workplace.Container.Hook/Workplace.Container.Hook.Lib/NamedObjectProtection.cpp&version=GBROADMAP-71813-chromium-sandbox-issues2&line=99&lineEnd=100&lineStartColumn=1&lineEndColumn=1&lineStyle=plain&_a=contents
+
+
+= Eternal loop when network adapter changes
+:date: 2024-03-12
+:tags: tag_venn
+
+It occurred when the internet where user was connected went down and he changed to a better working one, but Workplace didn't restored from it.
+
+```
+WireguardNt_2024-03-11.log
+2024-03-11 14:06:21.073 - [INFO] - [2024-03-11 10:06:21.044] Interface down
+2024-03-11 14:06:24.919 - [INFO] - [2024-03-11 10:06:24.919] Using existing driver 0.10
+2024-03-11 14:06:24.947 - [INFO] - [2024-03-11 10:06:24.947] Creating adapter
+2024-03-11 14:06:25.716 - [INFO] - [2024-03-11 10:06:25.545] Interface created
+2024-03-11 14:06:29.881 - [INFO] - [2024-03-11 10:06:29.881] Using existing driver 0.10
+2024-03-11 14:06:29.932 - [INFO] - [2024-03-11 10:06:29.932] Creating adapter
+2024-03-11 14:06:30.494 - [INFO] - [2024-03-11 10:06:30.398] Interface created
+2024-03-11 14:19:35.191 - [INFO] - [2024-03-11 10:19:35.189] Using existing driver 0.10
+2024-03-11 14:19:35.237 - [INFO] - [2024-03-11 10:19:35.236] Creating adapter
+2024-03-11 14:19:35.687 - [INFO] - [2024-03-11 10:19:35.616] Interface created
+2024-03-11 14:19:35.741 - [INFO] - [2024-03-11 10:19:35.712] Peer 1 created
+2024-03-11 14:19:35.762 - [INFO] - [2024-03-11 10:19:35.742] Interface up
+
+Trace_2024-03-11.log
+2024-03-11 14:06:21.024 - [INFO] - [0:23084:30] - Ranking connection peers completed:
+2024-03-11 14:06:21.024 - [INFO] - [0:23084:30] -   IP = 66.22.188.0, rank = 153.6
+2024-03-11 14:06:21.024 - [INFO] - [0:23084:30] -   IP = 66.22.188.1, rank = 638457630787022
+2024-03-11 14:06:21.024 - [INFO] - [0:23084:30] -   IP = 66.22.190.0, rank = 218.6
+2024-03-11 14:06:21.024 - [INFO] - [0:23084:30] -   IP = 66.22.190.1, rank = 214.8
+2024-03-11 14:06:21.029 - [INFO] - [0:23084:30] - New gateway endpoint after ranking: 66.22.188.0:443
+2024-03-11 14:06:21.045 - [ERRO] - [0:23084:30] - NetworkAdapterManager: CreateUnicastIpAddressEntry failed
+2024-03-11 14:06:21.051 - [ERRO] - [0:23084:30] - 
+	Exception: System.ArgumentException: Value does not fall within the expected range.
+   at Workplace.Container.WorkplaceGatewayWireguardNT.NetworkAdapterManager.ChangeInterfaceInternalIp(WireGuardAdapter adapter, String interfaceIp)
+   at Workplace.Container.WorkplaceGatewayWireguardNT.NetworkAdapterManager.UpdateVpnConfig(ContainerSession session, WorkplaceGatewayConfig config)
+   at Workplace.Container.IpRank.GatewayConnectivityStatusWatcher.<>c__DisplayClass24_0.<<StartRankPeersAsync>b__0>d.MoveNext()
+-> restart session in loop
+2024-03-11 14:06:25.699 - [ERRO] - [0:23084:11] - OnNetworkAdapterStatusChanged failed. Session: 67d85b9d-5f36-4b8c-8745-b2027b78e002
+	Exception: System.ArgumentException: Value does not fall within the expected range.
+   at Workplace.Container.WorkplaceGatewayWireguardNT.NetworkAdapterManager.SetupVpnSession(ContainerSession session, WorkplaceGatewayConfig config)
+   at Workplace.Container.ContainerSession.ContainerSessionService.<>c__DisplayClass95_0.<PrepareSessionInfrastructureAsync>b__0()
+   at System.Threading.Tasks.Task.Execute()
+```
+
+
+= Devaneios sobre produtividade no início da semana
+:date: 2024-03-12
+:tags: tag_self
+
+Parece que focar na hora certa e resistir às tentações no início faz você ganhar mais foco. Especialmente se trata-se de uma análise que não é necessário parar e sair do flow (ter tudo à disposição).
+
+Mudar o foco no começo da semana depois de não ter mexido em nada por três dias é muito ruim. A mente quer fugir disso constantemente, mas não sabe como.
+
+E a chave deve ser a mesma descrita em Flow: definir objetivos, feedback e passos para chegar lá. Aumentar os passos. Eventualmente a vontade de continuar vem.
+
+No entanto, quando a mente devaneia ela devaneia mais forte. Ficar no Telegram, emails, jogar xadrez. Tudo parece uma boa. Tudo é só um pouquinho antes de trabalhar. A recompensa pelo trabalho ir mais fundo parece que não vai valer a pena. Às vezes não é possível chegar na recompensa porque ela não está no resultado final, mas na hora em que o trabalho vale a pena por ele mesmo.
+
+Para valer a pena por ele mesmo e ao mesmo tempo cumprir um objetivo ele teria que gerar alguma informação nova ou conquistar algum teste que te ajude a pedir ajuda de maneira mais eficiente?
