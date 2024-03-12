@@ -16302,3 +16302,47 @@ Here is how to debug. Same way to other places, put some deferred bp to some kno
 bm WorkplaceHook32!NamedObjectProtection::Init
 ```
 
+
+= Vadiar ou Escrever?
+:date: 2024-03-10
+:tags: tag_self
+
+Outra coisa foi a reescrita ou os rascunhos com anotações. Primeiro que ter um arquivo só torna difícil achar as anotações esparsas e segundo que como eu demorei um tempão para revisar algum conteúdo eu nem lembro por que fiz as anotações em primeiro lugar.
+
+Essa mudança de postura compete com o vadiar. Haverá, sim, a vontade de vadiar, como sempre há, mas essa vontade irá competir com a vontade de escrever besteira como estou fazendo porque o esforço mental deve ser o mesmo ou equivalente, com a diferença que a recompensa de escrever deve ser melhor.
+
+Qual é a recompensa de escrever? Gasta mais energia. Não dá a sensação que alguém vai ler. Usarei o nostr como o Mateus quer? Ele é um twitter descentralizado, bom para textos sem censura. Mas mais difícil de usar sem pensar. E eu sempre vou precisar de meu backup centralizado de textos.
+
+Fuçando no Tinder uma palavra que anda pela minha cabeça já faz um tempo é vadia. Essa palavra é libertadora porque é proibida. Não que eu ache que deva ser usada, mas é ótima de pensar. Já usei algumas vezes. Usei em um texto para o Cinemaqui e fui censurado. Ela é proibida, já disse. Os motivos não importam. O pensamento é proibido se você pensar nas coisas erradas.
+
+
+= ALL APPLICATION PACKAGES group; really?
+:date: 2024-03-11
+:tags: tag_venn
+
+[CrSharedMem] is already mapped in OpenPaths along with other objects. There are some that are not into this list:
+
+ - 1468HWNDInterface:60864
+ - Global\__ComCatalogCache__
+ - Local\2ImmersiveFocusTrackingActiveEvent
+ - Local\2WaitForPendingInputEvent
+ - Local\ChromeProcessSingletonStartup!
+ - Local\SM0:12184:168:WilStaging_02
+ - __OMADM_NAMED_MUTEX__
+
+However, I don't know if there other permissions. Need to check ALL_APPLICATION_PACKAGES and ALL_RESTRICTED_PACKAGES said by Chermyanin.
+
+[CrSharedMem]: https://tfs.os33.net/DefaultCollection/Portal/_git/Workplace.Container.Windows?path=/Workplace.Container.Hook/Workplace.Container.Hook.Lib/BaseNamedObjects.cpp&version=GBmaster&line=130&lineEnd=131&lineStartColumn=1&lineEndColumn=1&lineStyle=plain&_a=contents
+
+
+= Procmon access denied
+:date: 2024-03-11
+:tags: tag_venn
+
+Turned on procmon to take a look to file system and got several ACCESS DENIED from files/subfolders in `V:\AppData\Local\TreasuryNavigatorSecureBrowser`. This folder was recreated, inclusive with "ALL APPLICATION PACKAGES" permission, and there was no more access denied results from procmon.
+
+However there were no NtCreateSection with access denied into container logs.
+
+Implemented [RpcControlProtection solution] to closed objects as suggested by Chermyanin, but this does not seem to make any difference in browser behavior. Now that I discovered that the shared memory sections didn't gave any errors in opening or creating this makes sense, but at the same time I have no clue of what is the missing access from this process.
+
+[RpcControlProtection solution]: https://tfs.os33.net/DefaultCollection/Portal/_git/Workplace.Container.Windows?path=/Workplace.Container.Hook/Workplace.Container.Hook.Lib/NamedObjectProtection.cpp&version=GBROADMAP-71813-chromium-sandbox-issues2&line=99&lineEnd=100&lineStartColumn=1&lineEndColumn=1&lineStyle=plain&_a=contents
