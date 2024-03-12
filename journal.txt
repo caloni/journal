@@ -16404,3 +16404,16 @@ E a chave deve ser a mesma descrita em Flow: definir objetivos, feedback e passo
 No entanto, quando a mente devaneia ela devaneia mais forte. Ficar no Telegram, emails, jogar xadrez. Tudo parece uma boa. Tudo é só um pouquinho antes de trabalhar. A recompensa pelo trabalho ir mais fundo parece que não vai valer a pena. Às vezes não é possível chegar na recompensa porque ela não está no resultado final, mas na hora em que o trabalho vale a pena por ele mesmo.
 
 Para valer a pena por ele mesmo e ao mesmo tempo cumprir um objetivo ele teria que gerar alguma informação nova ou conquistar algum teste que te ajude a pedir ajuda de maneira mais eficiente?
+
+
+= ExplorerLaunchEnabled
+:date: 2024-03-12
+:tags: tag_venn
+
+Set `ExplorerLaunchEnabled = False` to avoid named objects protection, but same hanging and crash issue happened on mscbssb.exe.
+
+Tried to create a process to test NtOpenProcessToken outside sandbox and as probably expected the API returns error (1816, "Not enough quota is available to process this command.").
+
+Without any hooks the browser starts normally, but during some communication it ends (there is no enough time why it closes).
+
+PS: Detected loading of some DLLs from "C:\Program Files\Online Banking Solutions\Encrypted Keyboard Driver", which could be something.
