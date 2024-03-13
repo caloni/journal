@@ -16417,3 +16417,65 @@ Tried to create a process to test NtOpenProcessToken outside sandbox and as prob
 Without any hooks the browser starts normally, but during some communication it ends (there is no enough time why it closes).
 
 PS: Detected loading of some DLLs from "C:\Program Files\Online Banking Solutions\Encrypted Keyboard Driver", which could be something.
+
+
+= The ugly code goes back
+:date: 2024-03-13
+:tags: tag_venn
+
+Got back to the ugly code to bypass the OpenProcessToken error with "ExplorerLaunchEnabled = false" and it gave me a blue screen... in the browser. It is somewhat different from "Certificate has Failed Validation" because despite the color the error now is "The application service is unreachable. Please check your network...". Sometimes the technical information shows OBS_APP_TIMEOUT and sometimes ERR_ABORTED.
+
+It is important to notice that I put "NetworkAccessPolicyEnabled": false to make sure it is not the network and tested with chrome navigating.
+
+
+= Chromium Sandboxing OpenProcessToken
+:date: 2024-03-13
+:tags: tag_venn
+
+There is an IPC to OpenProcessToken, but only if the original call fails for another process. A unamed shared memory is used. However, I debugged the syscall and it already is returning 0xc0000022 to this process, so the original ntstatus is returned to workplacehook.
+
+Inside a chromium sandbox the original API for OpenProcessToken is stored in [g_originals.functions] indexed by [OPEN_PROCESS_TOKEN_ID]. The function [TargetNtOpenProcessToken(64)] is called and it calls [CallNtOpenProcessTokenEx], passing the return of the original OpenProcessToken call.
+
+## CallNtOpenProcessTokenEx
+
+ - If orig_OpenProcessToken success return original ntstatus.
+ - If its no process itself of invalid token returned return original ntstatus.
+ - There is a GetGlobalIPCMemory() that returns a unamed shared memory passed to subprocesses by duplicating its handle. If the pointer is not available it returns original ntstatus.
+ - Just now, if there was an error calling orig OpenProcesstoken, the param is not the process itself or invalid token returned and there is a pointer to the shared memory, then an IPC take place.
+ - Debugging NtOpenProcessToken the syscall itself returns access denied.
+
+```
+//CallNtOpenProcessTokenEx(
+//    orig_OpenProcessToken(process, desired_access, token), process,
+//    desired_access, 0, token);
+
+NTSTATUS CallNtOpenProcessTokenEx(NTSTATUS status,
+                                  HANDLE process,
+                                  ACCESS_MASK desired_access,
+                                  ULONG handle_attributes,
+                                  PHANDLE token) {
+
+if (NT_SUCCESS(status)) {
+  return status;
+}
+
+if (CURRENT_PROCESS != process ||
+    !ValidParameter(token, sizeof(HANDLE), WRITE)) {
+  return status;
+}
+
+void* memory = GetGlobalIPCMemory();
+if (!memory) {
+  return status;
+}
+
+SharedMemIPCClient ipc(memory);
+CrossCallReturn answer = {0};
+ResultCode code = CrossCall(ipc, IpcTag::NTOPENPROCESSTOKENEX, process,
+                            desired_access, handle_attributes, &answer);
+```
+
+[g_originals.functions]: https://github.com/chromium/chromium/blob/124.0.6356.3/sandbox/win/src/interception.cc#L69
+[OPEN_PROCESS_TOKEN_ID]: https://github.com/chromium/chromium/blob/124.0.6356.3/sandbox/win/src/policy_broker.cc#L44
+[TargetNtOpenProcessToken(64)]: https://github.com/chromium/chromium/blob/124.0.6356.3/sandbox/win/src/interceptors_64.cc#L178
+[CallNtOpenProcessTokenEx]: https://github.com/chromium/chromium/blob/124.0.6356.3/sandbox/win/src/process_thread_interception.cc#L58
