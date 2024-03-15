@@ -16489,3 +16489,15 @@ ResultCode code = CrossCall(ipc, IpcTag::NTOPENPROCESSTOKENEX, process,
 Removing wireguard-nt from submodules since the original one is enough. Just as a note, when compiling Wireguard from source it always will try to update the existing one by comparing versions. One way to skip this is to change the `DriverInstall` function to avoid enter the `if IsNewer` check. Another issue to be prepared is in the `wireguard-nt.props`: change TargetVersion tag from Windows7 to Windows10. Need to to manually.
 
 Everything in code is based on first position of Peers. This storage logic can stay even changing the ranking logic, such as no ranking at all (BdfEnabled=false) and receive ChangeEndpoint message.
+
+
+= Certificates or http request?
+:date: 2024-03-15
+:tags: tag_venn
+
+Comparing procmon logs between inside/outside se found some differences related to SystemCertificates registry paths and seems to be something related to redirect rules in Workplace, but it was inconclusive.
+
+Remade some tests and found in the chromium behavior that a second tab is open for a short time and the error that is shown is related to a request. (Now the "Certificate invalid" in blank tab is not showing anymore, keeping in the blue screen.) This could be related to the first seconds into a process inside SE where the network communication is still in setup? (by example, sending to the driver to update the redirect port from wireguard and so).
+
+https://support.os33.link/v/lDrbXw
+
