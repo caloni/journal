@@ -16479,3 +16479,13 @@ ResultCode code = CrossCall(ipc, IpcTag::NTOPENPROCESSTOKENEX, process,
 [OPEN_PROCESS_TOKEN_ID]: https://github.com/chromium/chromium/blob/124.0.6356.3/sandbox/win/src/policy_broker.cc#L44
 [TargetNtOpenProcessToken(64)]: https://github.com/chromium/chromium/blob/124.0.6356.3/sandbox/win/src/interceptors_64.cc#L178
 [CallNtOpenProcessTokenEx]: https://github.com/chromium/chromium/blob/124.0.6356.3/sandbox/win/src/process_thread_interception.cc#L58
+
+
+= Getting back to wireguard spike
+:date: 2024-03-14
+:slug: wireguard-spike-bdf-network-change
+:tags: tag_venn
+
+Removing wireguard-nt from submodules since the original one is enough. Just as a note, when compiling Wireguard from source it always will try to update the existing one by comparing versions. One way to skip this is to change the `DriverInstall` function to avoid enter the `if IsNewer` check. Another issue to be prepared is in the `wireguard-nt.props`: change TargetVersion tag from Windows7 to Windows10. Need to to manually.
+
+Everything in code is based on first position of Peers. This storage logic can stay even changing the ranking logic, such as no ranking at all (BdfEnabled=false) and receive ChangeEndpoint message.
