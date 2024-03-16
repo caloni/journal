@@ -1,4 +1,13 @@
 import argparse
+import sys
+
+parser = argparse.ArgumentParser(description='Optional app description')
+parser.add_argument('--command', type=str, help='Command. Type "--command help" to list commands.')
+args = parser.parse_args()
+
+if args.command == 'help':
+  print("No command available. Just read and write blog.txt.")
+  sys.exit(0);
 
 posts = []
 for line in open('blog.txt', encoding='utf8').readlines():
