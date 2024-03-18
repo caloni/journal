@@ -16501,3 +16501,61 @@ Remade some tests and found in the chromium behavior that a second tab is open f
 
 https://support.os33.link/v/lDrbXw
 
+
+= Chromium flags
+:date: 2024-03-18
+:tags: tag_venn
+
+Tested browser inside SE without network redirection and with write access to external file system with no result. The "The application service is unreacheable." error could be still related to IPC/shared mem restritions?
+
+In order to discover this I am analysing [chromium flags] passed to chrome subprocesses, specially the ones inside those that receive a [--extension-process] ("Marks a renderer as extension process").
+
+## Example
+
+```
+"C:\Treasury Navigator Secure Browser\mscbssb.exe" --type=renderer --file-url-path-alias="/gen=C:\Treasury Navigator Secure Browser\gen" --field-trial-handle=1688,6111349947613740156,672152746717012255,131072 --service-pipe-token=770758470585311417 --lang=en-US --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=770758470585311417 --renderer-client-id=12 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=4428 /prefetch:1
+```
+
+## Flags candidates
+
+```
+--file-url-path-alias="/gen=C:\Treasury Navigator Secure Browser\gen"
+```
+
+This is an alias to a file system directory. Since it could be an access issue I disabled "Do not allow data to be saved or moved out of Venn" in DLP policy, but with no effect.
+
+[--field-trial-handle]
+
+```
+--field-trial-handle=1688,6111349947613740156,672152746717012255,131072
+
+1688 -> \Sessions\1\BaseNamedObjects\CrSharedMem_aac13cdf89b6ed04151346fb98820085051343df1040fc4ec157626cf95c38e7
+6111349947613740156 -> 54CFE065E59E7C7C
+672152746717012255 -> 953F75CA6DEE11F
+131072 -> 20000
+```
+
+Handle to the shared memory segment containing field trial state that is to be shared between processes. Always 0x20000 the shared memory size.
+
+[--mojo-platform-channel-handle]
+
+```
+--mojo-platform-channel-handle=4428
+```
+
+
+## Undocumented ones
+
+No occurrence into source code so I don't know what do to with those guys:
+
+```
+--service-pipe-token=770758470585311417
+--service-request-channel-token=770758470585311417
+```
+
+Didn't found at least (still searching in source code). But found in some pages related to chromium-based command line processes, so must be native to browser. Didn't find any token or object with this number in handles and the searches show hexadecimal as argument different from this numeric one above.
+
+[chromium flags]: https://peter.sh/experiments/chromium-command-line-switches/
+[--extension-process]: https://github.com/chromium/chromium/blob/413ac4d991b8bbba59ad7ad4cfe2eeda33401732/extensions/common/switches.cc#L46
+[--field-trial-handle]: https://github.com/chromium/chromium/blob/413ac4d991b8bbba59ad7ad4cfe2eeda33401732/base/base_switches.cc#L46
+[--mojo-platform-channel-handle]: https://github.com/chromium/chromium/blob/413ac4d991b8bbba59ad7ad4cfe2eeda33401732/mojo/public/cpp/platform/platform_channel.cc#L157
