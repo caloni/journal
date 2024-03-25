@@ -16596,3 +16596,10 @@ struct BASE_EXPORT FieldTrialEntry {
 ```
 
 However, there is no difference between this handle for inside SE extension tab and outside SE. So I compared other open handles to see if I can spot some difference, but there was no visible one.
+
+
+= Caos mental
+:date: 2024-03-24
+:tags: tag_self
+
+O caos mental quando estamos sozinhos ou desamparados por alguém que se comporte diferente, de forma ordenada. Ou a espera ansiosa por alguém externo presente, qualquer um. Talvez uma bola. Apenas para estar presente. Isso volta a alinhar nossos objetivos. O mundo volta a ficar ordenado, com significado. O significado vem de fora. Dentro é só caos. Caos que não gostamos. Queremos fugir. Endireite-se!
