@@ -16603,3 +16603,22 @@ However, there is no difference between this handle for inside SE extension tab 
 :tags: tag_self
 
 O caos mental quando estamos sozinhos ou desamparados por alguém que se comporte diferente, de forma ordenada. Ou a espera ansiosa por alguém externo presente, qualquer um. Talvez uma bola. Apenas para estar presente. Isso volta a alinhar nossos objetivos. O mundo volta a ficar ordenado, com significado. O significado vem de fora. Dentro é só caos. Caos que não gostamos. Queremos fugir. Endireite-se!
+
+
+= Closing spike
+:date: 2024-03-25
+:tags: tag_venn
+
+In this Demo video for this POC the test interface receives an IP address and send it to to the Container to change it. The Container service tries to find inside the endpoint list after the second peer and if find it change for the active one, first on the list. The applications already running change the endpoint and keep communication.
+
+https://support.os33.link/v/AXgnxf
+
+INFO: Need to set `BfdEnabled = False` in order to avoid changing endpoint back based on ranking.
+
+WARNING: There is an issue about changing back to the original endpoint because session config someway is restoring to the config received in the start of the Container. I do not identify yet what could be doing that. Already disabled BFD and hard commented the ranking procedure.
+
+## How to implement
+
+ - Fix the bug of changing endpoint to the original one (see warning above).
+ - Export IPC endpoint to change endpoint to call demo function.
+ - Call new endpoint based on new ranking procedure (disable BFD implementation at the same time).
