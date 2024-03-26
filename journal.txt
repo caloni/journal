@@ -16622,3 +16622,14 @@ WARNING: There is an issue about changing back to the original endpoint because 
  - Fix the bug of changing endpoint to the original one (see warning above).
  - Export IPC endpoint to change endpoint to call demo function.
  - Call new endpoint based on new ranking procedure (disable BFD implementation at the same time).
+
+
+= Changing peers on the fly
+:date: 2024-03-26
+:tags: tag_venn
+
+After this misunderstanding I got back to the ugly WireGuard marshal code for two peers. After some adjustments to avoid reset network adapter while changing endpoint I accomplished to change between two peers while maintaining one WireGuard adapter. The driver is notified to change destination address.
+
+https://support.os33.link/v/gQJa3q
+
+During the tests noticed that for some seconds the DNS could be unavailable, but I assume this is OK for this POC.
