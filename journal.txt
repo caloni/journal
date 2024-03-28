@@ -16633,3 +16633,27 @@ After this misunderstanding I got back to the ugly WireGuard marshal code for tw
 https://support.os33.link/v/gQJa3q
 
 During the tests noticed that for some seconds the DNS could be unavailable, but I assume this is OK for this POC.
+
+
+= WeKnow próximos passos
+:date: 2024-03-27
+:tags: tag_weknow
+
+Sobre locks globais, acho provável. Como você disse, há poucos requests diários (não sei se isso é o normal em todos os cliente). Isso dificulta a ocorrência de um bug envolvendo locks globais. Depende de timing, que é totalmente dependendo do ambiente e das condições de execução. No entanto, quando ocorre, tende a ocorrer mais vezes no mesmo ambiente e qualquer mudança pode fazer o bug sumir. Isso não lhe parece o padrão observado nas situações encontradas nos clientes sobre as quais conversamos?
+
+Sobre os PDBs (não encontrei os dos Apache), creio que o esforço não vale a recompensa. Já perdemos algumas horas sobre isso no passado e não me parece algo simples. Cenários como os encontrados no cliente podem ser investigados por dumps e logs de monitoração. Não é necessariamente fácil, mas conforme encontrarmos indícios creio ser possível adicionar mais logs em torno do comportamento suspeito.
+
+Sobre comportamento de processos e threads tenho uma sugestão radical, mais para ficar na manga. Se houver um cenário onde seja possível reiniciar o servidor em questão podemos configurar a geração de uma tela azul no sistema de forma a gerar um dump de toda a memória, incluindo o kernel. E pra quê isso? Bom, com este dump é possível analisar primitivas do sistema operacional como locks que deixam threads em espera e estão em memória inacessível por um dump de processo. No entanto, o preço é gerar uma tela azul na máquina do cliente.
+
+https://www.makeuseof.com/how-to-manually-trigger-a-bsod/
+
+Sobre o yield de execução, pela pilha de chamadas esse mecanismo é utilizado pelas bibliotecas usadas por vocês, provavelmente o Apache e as worker threads. O significado disso é que a thread em questão consumiu processamento até esgotar sua quota e ainda não terminou seu serviço, o que pode indicar algum tipo de processamento pesado (o que justifica eu sugerir dar uma olhada nas queries próximas deste travamento).
+
+Se você achar interessante podemos alocar um tempo na sua agenda para me explicar um pouco sobre a arquitetura? Isso tem como objetivo eu te passar alguma informação que possa tornar essa "luz amarela" que acendeu para talvez uma "luz vermelha" =).
+
+
+= Nothing else changes
+
+Tested reconfiguring peers without changing adapter and the local ip and the connection seems OK. However, there are issues I think related to DNS, because browsing in chrome fails despite pinging to the same server works.
+
+https://support.os33.link/v/YCXMlA
