@@ -16657,3 +16657,31 @@ Se você achar interessante podemos alocar um tempo na sua agenda para me explic
 Tested reconfiguring peers without changing adapter and the local ip and the connection seems OK. However, there are issues I think related to DNS, because browsing in chrome fails despite pinging to the same server works.
 
 https://support.os33.link/v/YCXMlA
+
+
+= Testing to set multiple IPs to same adapter
+:date: 2024-03-28
+:tags: tag_venn
+
+In this test there are no connection reset because the adapter is not changed, just the container driver is notified about new local IP and WireGuard peer reconfigured (allowed ips). However there are some issues to be addressed:
+
+ - There are some slowliness to refresh an entire page for some elements.
+ - Downloads inside browser stop and never resume (even configuring back to old endpoint).
+ - Ongoing ICMP packets get timeout (that is understandable, need to reset connection manually).
+
+https://support.os33.link/v/h66cCW
+
+The bottom line is that changing the source IP on the fly implies to some applications keep the existing connection hanging, what makes sense because the sender IP changed for existing connections. Just to clarify, in the previous test the source IP does not change but we cannot test because a different local inside IP is not allowed to traffic packets to different endpoint.
+
+PS: Resetting the adapter (putting down and up) while reconfiguring wg peers make the browser download resume successfully if changed to original endpoint and turned page refresh faster in any endpoint changes.
+
+
+= Simplified logic to configurate WireGuard
+:date: 2024-03-29
+:tags: tag_venn
+
+The new version on setup calls WireGuard `SetConfiguration` for each new peer. When changing endpoint it calls only for the new active peer. With this we don't need to deal with marshaling several peers into a variable lenght struct and updates in peers does not need to use WIREGUARD_INTERFACE_REPLACE_PEERS flag.
+
+The WIREGUARD_ADAPTER_STATE_DOWN/WIREGUARD_ADAPTER_STATE_UP is not needed either and it was removed. Waiting current connections to restablished to new endpoint or restart apps works without changing adapter state.
+
+Branch was updated.
