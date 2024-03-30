@@ -1,1 +1,9 @@
-﻿
+﻿call matchadd("search", "Se trata do irmão gêmeo de")
+call matchadd("search", "Se trata do irmão gêmeo de 1984,")
+call matchadd("search", "Se trata de quem?")
+call matchadd("search", "and so on. Beef")
+call matchadd("search", "escrever besteira como estou fazendo agora.")
+call matchadd("search", "não chegam muito próximo")
+call matchadd("search", "cuidado desses lugares menores. Café é um assunto que exige muito cuidado")
+call matchadd("search", "símbolos de módulos que precisa")
+call matchadd("search", "Se trata do irmão gêmeo de 1984, utopia mais pessimista")
