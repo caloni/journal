@@ -16685,3 +16685,162 @@ The new version on setup calls WireGuard `SetConfiguration` for each new peer. W
 The WIREGUARD_ADAPTER_STATE_DOWN/WIREGUARD_ADAPTER_STATE_UP is not needed either and it was removed. Waiting current connections to restablished to new endpoint or restart apps works without changing adapter state.
 
 Branch was updated.
+
+
+= IPAM and CIDR
+:date: 2024-04-02
+:tags: tag_venn
+
+After discussing with Aleksey Koslov and Zach Nakaska about keeping communication among all peers to next probing task it was decided to transform the "0.0.0.0/0" allowed IPs list to active peer to a "all except other peers" list. In order to do that we need to list all subnets not overlapping with the other peers' subnets and put this list to the active peer. By example:
+
+```
+[Peer A (Connected)]
+LocalInsideIP = 100.64.0.1
+RemoteInsideIP = 10.42.0.1
+# 0.0.0.0/0 except for 10.42.0.2/32, 10.42.0.3/32 and 10.42.0.4/32
+AllowedIPs = 0.0.0.0/5, 8.0.0.0/7, 10.0.0.0/11, 10.32.0.0/13, 10.40.0.0/15, 10.42.0.0/31, 10.42.0.5/32, 10.42.0.6/31, 10.42.0.8/29, 10.42.0.16/28, 10.42.0.32/27, 10.42.0.64/26, 10.42.0.128/25, 10.42.1.0/24, 10.42.2.0/23, 10.42.4.0/22, 10.42.8.0/21, 10.42.16.0/20, 10.42.32.0/19, 10.42.64.0/18, 10.42.128.0/17, 10.43.0.0/16, 10.44.0.0/14, 10.48.0.0/12, 10.64.0.0/10, 10.128.0.0/9, 11.0.0.0/8, 12.0.0.0/6, 16.0.0.0/4, 32.0.0.0/3, 64.0.0.0/2, 128.0.0.0/1 
+
+[Peer B]
+LocalInsideIP = 100.64.0.2
+RemoteInsideIP = 10.42.0.2
+AllowedIPs = 10.42.0.2/32
+
+[Peer C]
+LocalInsideIP = 100.64.0.3
+RemoteInsideIP = 10.42.0.3
+AllowedIPs = 10.42.0.3/32
+
+[Peer D]
+LocalInsideIP = 100.64.0.4
+RemoteInsideIP = 10.42.0.4
+AllowedIPs = 10.42.0.4/32
+```
+
+The golang code bellow do that. The C# code bellow begins that (need to implement the Contains method).
+
+```
+package main
+
+import (
+	"fmt"
+	"net/netip"
+)
+
+func main() {
+	allowedIPs := []netip.Prefix{netip.MustParsePrefix("0.0.0.0/0")}
+	fmt.Printf("%v\n", allowedIPs)
+
+	allowedIPs = RemovePrefixFromList(allowedIPs, netip.MustParsePrefix("10.0.2.5/32"))
+	fmt.Printf("%v\n", allowedIPs)
+}
+
+// RemovePrefixFromList removes a prefix from a list of prefixes.
+func RemovePrefixFromList(list []netip.Prefix, remove netip.Prefix) []netip.Prefix {
+	var newList []netip.Prefix
+
+	for _, cidr := range list {
+		if cidr.Overlaps(remove) {
+			newList = append(newList, RemovePrefixFrom(cidr, remove)...)
+		} else {
+			newList = append(newList, cidr)
+		}
+	}
+
+	return newList
+}
+
+// RemovePrefixFrom removes a CIDR from another CIDR, returning the
+// remaining CIDRs.
+func RemovePrefixFrom(prefix netip.Prefix, remove netip.Prefix) []netip.Prefix {
+	if prefix == remove {
+		return nil
+	}
+
+	left, right := SplitPrefix(prefix)
+
+	if left.Overlaps(remove) {
+		return append(RemovePrefixFrom(left, remove), right)
+	}
+
+	return append([]netip.Prefix{left}, RemovePrefixFrom(right, remove)...)
+}
+
+// SplitPrefix splits a CIDR in half.
+func SplitPrefix(prefix netip.Prefix) (left, right netip.Prefix) {
+	left = netip.PrefixFrom(prefix.Addr(), prefix.Bits()+1)
+	right = netip.PrefixFrom(LastAddrInPrefix(left).Next(), left.Bits())
+	return
+}
+
+// LastAddrInPrefix returns the last address in a CIDR.
+func LastAddrInPrefix(prefix netip.Prefix) netip.Addr {
+	a16 := prefix.Addr().As16()
+	var off uint8
+	var bits uint8 = 128
+
+	if prefix.Addr().Is4() {
+		off = 12
+		bits = 32
+	}
+
+	for b := uint8(prefix.Bits()); b < bits; b++ {
+		byteNum, bitInByte := b/8, 7-(b%8)
+		a16[off+byteNum] |= 1 << uint(bitInByte)
+	}
+
+	if prefix.Addr().Is4() {
+		return netip.AddrFrom16(a16).Unmap()
+	}
+
+	return netip.AddrFrom16(a16)
+}
+```
+
+```
+using System.Net;
+
+/// If not using .NET 8, a basic CIDR type.
+public struct IPNetwork {
+	public IPAddress BaseAddress { get; }
+	public int PrefixLength { get; }
+}
+
+/// Represents a list of CIDR blocks, e.g. AllowedIPs.
+using IPNetworkList = List<IPNetwork>;
+
+// The primitives you need to manage IPAM.
+public static class IPNetworkExtensions {
+	/// Get the last address in a CIDR block.
+	public static IPAddress Last(this IPNetwork cidr);
+	/// Get the IP address immediately following addr.
+	public static IPAddress Next(this IPAddress addr);
+	
+	/// Split cidr in half.
+	public static Tuple<IPNetwork, IPNetwork> Split(this IPNetwork cidr) {
+		var left = new IPNetwork(cidr.Address, cidr.PrefixLength + 1);
+		var right = new IPNetwork(left.Address.Last().Next(), left.PrefixLength);
+		return (left, right);
+	}
+	
+	/// Determine if CIDR contains another CIDR.
+	public static bool Contains(this IPNetwork cidr, IPNetwork other);
+	
+	/// Remove cidr from list.
+	public static IPNetworkList Remove(this IPNetworkList list, IPNetwork cidr) {
+		var newList = new IPNetworkList();
+		foreach var cidr in list {
+			var left, right = cidr.Split();
+			if (left.Contains(cidr)) {
+				newList.Add(left.Remove(cidr));
+				newList.Add(right);
+			} else if (right.Contains(cidr)) {
+				newList.Add(left);
+				newList.Add(right.Remove(cidr));
+			}
+		}
+		return newList;
+	}
+}
+```
+
+Before implement this I tried to test setting as allowed ip only the peer endpoint ip, but that does not work for some reason (Demo does not startup and there are error in iptables dunno why).
