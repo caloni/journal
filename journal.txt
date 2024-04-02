@@ -16844,3 +16844,68 @@ public static class IPNetworkExtensions {
 ```
 
 Before implement this I tried to test setting as allowed ip only the peer endpoint ip, but that does not work for some reason (Demo does not startup and there are error in iptables dunno why).
+
+
+= Translated IPAM and CIDR to C#
+:date: 2024-04-02
+:tags: tag_venn
+
+Translated golang logic to C# (only removing one subnet from `0.0.0.0/0`) and the list is exactly the same when [running the go code]. Putting into Container service to at least log the list when excluding the second peer. However, we still need to configure WireGuard to a multilist of allowed IPs.
+
+```
+using System.Net;
+
+class MyClass
+{
+    static public int Main(string[] args)
+    {
+        IPNetwork2 allowedIPs = new IPNetwork2(IPAddress.Parse("0.0.0.0"), 0);
+        IPNetwork2 removeIP = new IPNetwork2(IPAddress.Parse("10.0.2.5"), 32);
+        List<IPNetwork2> finalList = new List<IPNetwork2>();
+        RemovePrefixFromList(ref finalList, allowedIPs, removeIP);
+        string finalListDebug = "";
+        foreach(IPNetwork2 network in finalList)
+        {
+            finalListDebug = finalListDebug + " " + network.ToString();
+        }
+        Console.WriteLine(finalListDebug);
+        return 0;
+    }
+
+    static void RemovePrefixFromList(ref List<IPNetwork2> list, IPNetwork2 ip, IPNetwork2 remove)
+    {
+        if (ip.Cidr == 32)
+        {
+            if (ip != remove)
+            {
+                list.Add(ip);
+            }
+            else
+            {
+                Console.WriteLine("found: " + ip.ToString());
+            }
+        }
+        else
+        {
+            List<IPNetwork2> split = ip.Subnet((byte)(ip.Cidr + 1)).ToList(); // [0]=left, [1]=right
+            if (split.Count == 2)
+            {
+                if (split[0].Overlap(remove))
+                {
+                    list.Add(split[1]);
+                    RemovePrefixFromList(ref list, split[0], remove);
+                }
+                else
+                {
+                    list.Add(split[0]);
+                    RemovePrefixFromList(ref list, split[1], remove);
+                }
+            }
+        }
+    }
+}
+```
+
+During some tests I observed errors when setting to wg to route endpoint IPs to each peer. Listing the adapters some disconnected WireGuard interfaces were created (not possible to delete them) and Demo keeps in loop with the exception of Container service restarting. I uninstalled Workplace and the WireGuard tunnels were still there. Had to revert VM state.
+
+[running the go code]: https://go.dev/play/p/MkwDqyNO1AD
