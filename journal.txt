@@ -16909,3 +16909,28 @@ class MyClass
 During some tests I observed errors when setting to wg to route endpoint IPs to each peer. Listing the adapters some disconnected WireGuard interfaces were created (not possible to delete them) and Demo keeps in loop with the exception of Container service restarting. I uninstalled Workplace and the WireGuard tunnels were still there. Had to revert VM state.
 
 [running the go code]: https://go.dev/play/p/MkwDqyNO1AD
+
+
+= Could managed to test wireguard multiple peers redirecting to each endpoint
+:date: 2024-04-03
+:tags: tag_venn
+
+The modified code when receiving new ip from Demo just notify the driver to change the redirection and DNS. The AllowedIPs field for both peers use only its respective gateway endpoint.
+
+```
+peer: mbjlQmWsU7PY8BFAFUKLdv/fzvOJZyqWtJfsm3VeEyw=
+  preshared key: (hidden)
+  endpoint: 142.147.11.11:443
+  allowed ips: 142.147.11.11/32
+  latest handshake: 1 minute, 29 seconds ago
+  transfer: 2.05 KiB received, 3.16 KiB sent
+
+peer: cbW6/3l8p9M3ewScU2hzP49fDgyw/y7633I5hXUYclY=
+  preshared key: (hidden)
+  endpoint: 142.147.11.10:443
+  allowed ips: 142.147.11.10/32
+  latest handshake: 2 minutes, 7 seconds ago
+  transfer: 5.80 KiB received, 6.60 KiB sent
+```
+
+https://support.os33.link/v/uaqGyZ
