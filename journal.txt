@@ -4759,6 +4759,7 @@ As a second workaround, I discovered that if launching olcfg.exe outside SE and 
 However, selecting the inexistent profile outside SE Caloni2SE and restarting Workplace Outlook select the original profile Outlook. It does not show the choose profile screen either, but because the default profile defined outside SE is also found inside SE (hypothesis).
 
 Now I have the bug reproducible inside a VM. The next step must be to be able to (finally) to build and run components of the solution in my machine. I am having some issues about that, but I believe that with what I have read in Slack about nonsigned updates and app config I could set up the DLP components successfully.
+
  
 = Meeting with Alex Sedunov and Mihail Moldovan
 :date: 2023-06-23
@@ -16934,3 +16935,56 @@ peer: cbW6/3l8p9M3ewScU2hzP49fDgyw/y7633I5hXUYclY=
 ```
 
 https://support.os33.link/v/uaqGyZ
+
+
+= Multiple Allowed IPs working
+:date: 2024-04-05
+:tags: tag_venn
+
+I discovered something odd about dotnet marshaling. Consider this definition:
+
+```
+[StructLayout(LayoutKind.Sequential, Pack = 8)]
+public struct WIREGUARD_ALLOWED_IP {
+  // members
+  // padding
+}
+```
+
+then `WIREGUARD_ALLOWED_IP` is put in the end of `WIREGUARD_CONFIG`:
+
+```
+[StructLayout(LayoutKind.Sequential)]
+public struct WIREGUARD_CONFIG {
+  // members
+  [MarshalAs(UnmanagedType.ByValArray, SizeConst = 256)]
+  public WIREGUARD_ALLOWED_IP[] allowedIps;
+}
+```
+
+To marshal this struct to native dotnet do not consider the 5 bytes of padding of `WIREGUARD_ALLOWED_IP` struct among elements from `allowedIps` array because the it is considered [the smallest value] between element and Pack attribute:
+
+> The alignment of the type is the size of its largest element (1, 2, 4, 8, etc., bytes) or the specified packing size, whichever is smaller.
+
+However, C++ WireGuard API expect this padding to be respected independently of this rule. In my tests C++ expects the sizeof this structure to be 24 bytes, while C# marshals to a 20 bytes total.
+
+Screenshot (49).png
+Screenshot (51).png
+
+The (temporary I hope) solution was to insert the padding manually (!!!):
+
+```
+[StructLayout(LayoutKind.Sequential, Pack = 8)]
+public struct WIREGUARD_ALLOWED_IP {
+  // members
+  [MarshalAs(UnmanagedType.ByValArray, SizeConst = 5)]
+  public byte[] Padding; // force struct padding to 24 (as in C) instead of 20
+  // padding
+}
+```
+
+Screenshot (53).png
+
+https://support.os33.link/v/caUMBI
+
+[the smallest value]: https://learn.microsoft.com/en-us/dotnet/api/system.runtime.interopservices.structlayoutattribute.pack?view=net-8.0#system-runtime-interopservices-structlayoutattribute-pack
