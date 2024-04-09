@@ -16999,3 +16999,57 @@ Sempre ele. Um novo tipo de jejum que pode ser combinado com minha versão adult
 Comecei hoje, mas passei alguns minutos das 22 e exagerei desproporcionalmente numa quantia razoável de açúcar com muitas balas de café. Dá pra melhorar.
 
 Update: fiquei doente. Isso me permitiu diminuir o consumo de açúcar para quase nulo. O uso de maçâ verde novamente quase que basta.
+
+
+= How to run dev version with production user
+:date: 2024-04-09
+:tags: tag_venn
+
+```
+Workplace.exe -servicehost:https://api.os33.com -username:wcaloni@venn.com -password:PWD
+```
+
+Service hosts:
+
+ - https://www.os33dev.net - dev
+ - https://www.os33qa.net - qa
+ - https://api.os33.com - production
+
+For Demo I tested these settings and received multiple MFA requests in my phone. Does not seem to work now, but seems possible if modified to support it:
+
+```
+  <appSettings>
+    <add key="TestUserName" value="wcaloni@venn.com" />
+    <add key="TestPassword" value="PWD" />
+    <add key="Host" value="api.os33.com" />
+```
+
+
+= Final Demo for multipeer WireGuard
+:date: 2024-04-09
+:tags: tag_venn
+
+Demo changing endpoint:
+
+https://support.os33.link/v/64O9Wv
+
+Prod environment with four peers:
+
+https://support.os33.link/v/29xLby
+
+
+= PcgConnectAllPeers
+:date: 2024-04-09
+:tags: tag_venn
+
+Implemented PcgConnectAllPeers feature flag and reverted the original behavior with ranking and BFD.
+
+PcgConnectAllPeers = False
+
+https://support.os33.link/v/X24v7D
+
+PcgConnectAllPeers = True
+
+https://support.os33.link/v/aHT6WG
+
+Looking for noninvasive way to test port shifting. However, this behavior was not changed during the new implementation.
