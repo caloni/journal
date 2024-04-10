@@ -17053,3 +17053,10 @@ PcgConnectAllPeers = True
 https://support.os33.link/v/aHT6WG
 
 Looking for noninvasive way to test port shifting. However, this behavior was not changed during the new implementation.
+
+
+= Test with blocked ports in firewall
+:date: 2024-04-10
+:tags: tag_venn
+
+Tested port shifting by blocking UDP ports in firewal to the gateway remote address and it is working for active peer. Howeve, for the secondary peers the logic is not implemented, so it keeps using a blocked port when put to secondary position. I think this should change when probing mechanism get implemented.
