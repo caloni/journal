@@ -297,7 +297,6 @@ function writepost(    stags)
   slugs[slug]["slug"] = slug
   slugs[slug]["title"] = title
   slugs[slug]["date"] = date
-  slugs[slug]["content"] = content
   slugs[slug]["summary"] = summary
   slugs[slug]["tags"] = g_tags
   slugs[slug]["image"] = image
@@ -326,11 +325,13 @@ function writepost(    stags)
   for( st in sstags ) {
     ssstags = ssstags " <a href=\"" sstags[st] ".html\">" sstags[st] "</a>"
   }
-  for( name in links ) {
-    search = "\\[" name "\\]"
-    gsub(search, links[name], content)
+  for( i = 0; i < totalLines; ++i ) {
+    for( name in links ) {
+      search = "\\[" name "\\]"
+      gsub(search, links[name], content[i])
+    }
+    content[i] = gensub(/\[([^\]]+)\]/, "<a href=\"posts.html?q=\\1\">\\1</a>", "g", content[i])
   }
-  content = gensub(/\[([^\]]+)\]/, "<a href=\"posts.html?q=\\1\">\\1</a>", "g", content)
 
   post = "<span id=\"" toid(slug) "\" title=\"" tohtml(title) "\"/></span>\n"
   post = post "<section id=\"section-" toid(slug) "\">\n"
@@ -340,7 +341,10 @@ function writepost(    stags)
     post = post "<p class=\"title\"><a href=\"" chapter ".html#" toid(slug) "\">#</a> " tohtml(title) "</p>\n"
   }
   post = post "<p class=\"note-title\"><small>" date " " ssstags " </small><a href=\"" chapter ".html\">^</a> <button onclick=\"copy_clipboard('section#section-" toid(slug) "')\">ctrl_c</button></p>\n"
-  post = post content "\n"
+  for( i = 1; i <= totalLines; ++i ) {
+    post = post content[i]
+  }
+  post = post "\n"
   post = post "</section><hr/>\n"
   g_postsByMonth[chapter][date] = g_postsByMonth[chapter][date] "\n" post
   postLink = "<li><small><a href=\"" chapter ".html#" slug "\">" tohtml(title) "</a></small></li>"
@@ -351,9 +355,10 @@ function writepost(    stags)
 
 
 /^= / {
-  if( content ) {
+  if( 1 in content ) {
     writepost()
-    content = ""
+    delete content
+    totalLines = 0
     slug = ""
     postlink = ""
     g_tags = ""
@@ -400,11 +405,7 @@ function writepost(    stags)
 
 /^[^=:]/ {
   newContent = formatContent($0)
-  if( content ) {
-    content = content newContent
-  } else {
-    content = newContent
-  }
+  content[++totalLines] = newContent
   if( length(summary) < 200 ) {
     if( index($0, "{{") == 0 && index($0, "```") == 0 ) {
       summary = summary " " $0
@@ -436,9 +437,8 @@ BEGIN {
 
 
 END {
-  if( content ) {
+  if( 1 in content ) {
     writepost()
-    content = ""
   }
 
   PROCINFO["sorted_in"] = "@ind_num_asc"
