@@ -170,15 +170,15 @@ function writebottomhtml(file, filter, nextLink, prevLink, version)
 }
 
 
-function formatContent(content)
+function formatContent(line)
 {
   prefix = "\n"
   suffix = ""
   paragraph = 1
 
   do {
-    if( index(content, "```") == 1 ) {
-      content = ""
+    if( index(line, "```") == 1 ) {
+      line = ""
       if( contentState["```"] ) {
         prefix = "</pre>"
         contentState["```"] = 0
@@ -191,8 +191,8 @@ function formatContent(content)
       break
     }
 
-    if( content ~ /^ *- */ ) {
-      content = gensub(/ *- *(.*)/, "\\1", "g", content)
+    if( line ~ /^ *- */ ) {
+      line = gensub(/ *- *(.*)/, "\\1", "g", line)
       if( ! contentState["-"] ) {
         prefix = prefix "<ul>"
         contentState["-"] = 1
@@ -205,8 +205,8 @@ function formatContent(content)
         contentState["-"] = 0
     }
 
-    if( content ~ /^ +/ ) {
-      sub(/^ /, "", content)
+    if( line ~ /^ +/ ) {
+      sub(/^ /, "", line)
       if( ! contentState[" "] ) {
         prefix = prefix "<pre>"
         contentState[" "] = 1
@@ -217,28 +217,28 @@ function formatContent(content)
         contentState[" "] = 0
     }
 
-    if( content ~ /^#+ / ) {
+    if( line ~ /^#+ / ) {
 
-      if( content ~ /^# / ) {
+      if( line ~ /^# / ) {
         headerLevel = 2
-      } else if( content ~ /^## / ) {
+      } else if( line ~ /^## / ) {
         headerLevel = 3
-      } else if( content ~ /^### / ) {
+      } else if( line ~ /^### / ) {
         headerLevel = 4
       } else {
         headerLevel = 5
       }
-      gsub(/^#+ /, "", content)
+      gsub(/^#+ /, "", line)
 
       prefix = prefix "<h" headerLevel ">"
       suffix = "</h" headerLevel ">" suffix
       paragraph = 0
     }
 
-    if( content ~ /^\[[^]]+\]:/ ) {
-      endName = index(content, ":")
-      name = substr(content, 2, endName - 3)
-      link = substr(content, endName + 2)
+    if( line ~ /^\[[^]]+\]:/ ) {
+      endName = index(line, ":")
+      name = substr(line, 2, endName - 3)
+      link = substr(line, endName + 2)
 
       if( link ~ /[a-z]:\/\// ) {
         link = "<a href=\"" link "\">" name "</a>"
@@ -249,28 +249,28 @@ function formatContent(content)
       }
 
       links[name] = link
-      content = ""
+      line = ""
       break
     }
 
-    if( index(content, "{{< image src=") == 1 ) {
-      image = gensub(/{{< image src="(.*)" >}}/, slug "-\\1", "g", content)
-      content = gensub(/{{< image src="(.*)" >}}/, "<img src=\"img/" slug "-\\1\"/>", "g", content)
+    if( index(line, "{{< image src=") == 1 ) {
+      image = gensub(/{{< image src="(.*)" >}}/, slug "-\\1", "g", line)
+      line = gensub(/{{< image src="(.*)" >}}/, "<img src=\"img/" slug "-\\1\"/>", "g", line)
       break
     }
 
-    gsub(/&/, "&amp;", content)
-    gsub(/</, "\\&lt;", content)
-    gsub(/>/, "\\&gt;", content)
-    content = gensub(/\[([^]]+)\]\(([^)]+)\)/, "<a href=\"\\2\">\\1</a>", "g", content)
+    gsub(/&/, "&amp;", line)
+    gsub(/</, "\\&lt;", line)
+    gsub(/>/, "\\&gt;", line)
+    line = gensub(/\[([^]]+)\]\(([^)]+)\)/, "<a href=\"\\2\">\\1</a>", "g", line)
 
     if( paragraph ) {
-      content = "<p>" content "</p>"
+      line = "<p>" line "</p>"
     }
 
   } while( 0 )
 
-  return prefix content suffix
+  return prefix line suffix
 }
 
 function writepost(    stags)
