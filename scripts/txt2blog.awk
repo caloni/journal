@@ -170,11 +170,13 @@ function writebottomhtml(file, filter, nextLink, prevLink, version)
 }
 
 
-function formatContent(line)
+function formatContent(line, lastLine)
 {
   prefix = "\n"
   suffix = ""
   paragraph = 1
+  newLine = 0
+  type = ""
 
   do {
     if( index(line, "```") == 1 ) {
@@ -186,8 +188,10 @@ function formatContent(line)
         contentState["```"] = 1
         prefix = prefix "<pre>"
       }
+      type = "pre"
       break
     } else if( contentState["```"] ) {
+      type = ""
       break
     }
 
@@ -211,6 +215,7 @@ function formatContent(line)
         prefix = prefix "<pre>"
         contentState[" "] = 1
       }
+      type = "pre"
       break
     } else if ( contentState[" "] ) {
         prefix = "</pre>\n"
@@ -221,12 +226,16 @@ function formatContent(line)
 
       if( line ~ /^# / ) {
         headerLevel = 2
+        type = "h2"
       } else if( line ~ /^## / ) {
         headerLevel = 3
+        type = "h3"
       } else if( line ~ /^### / ) {
         headerLevel = 4
+        type = "h4"
       } else {
         headerLevel = 5
+        type = "h5"
       }
       gsub(/^#+ /, "", line)
 
@@ -250,12 +259,14 @@ function formatContent(line)
 
       links[name] = link
       line = ""
+      type = "link"
       break
     }
 
     if( index(line, "{{< image src=") == 1 ) {
       image = gensub(/{{< image src="(.*)" >}}/, slug "-\\1", "g", line)
       line = gensub(/{{< image src="(.*)" >}}/, "<img src=\"img/" slug "-\\1\"/>", "g", line)
+      type = "img"
       break
     }
 
@@ -266,11 +277,17 @@ function formatContent(line)
 
     if( paragraph ) {
       line = "<p>" line "</p>"
+      type = "p"
+    } else {
+      type = ""
     }
 
   } while( 0 )
 
-  return prefix line suffix
+  newLine = lastLine + 1
+  content[newLine]["content"] = prefix line suffix
+  content[newLine]["type"] = type
+  return newLine
 }
 
 function writepost(    stags)
@@ -326,11 +343,13 @@ function writepost(    stags)
     ssstags = ssstags " <a href=\"" sstags[st] ".html\">" sstags[st] "</a>"
   }
   for( i = 0; i < totalLines; ++i ) {
-    for( name in links ) {
-      search = "\\[" name "\\]"
-      gsub(search, links[name], content[i])
+    if( content[i]["type"] != "pre" ) {
+      for( name in links ) {
+        search = "\\[" name "\\]"
+        gsub(search, links[name], content[i]["content"])
+      }
+      content[i]["content"] = gensub(/\[([^\]]+)\]/, "<a href=\"posts.html?q=\\1\">\\1</a>", "g", content[i]["content"])
     }
-    content[i] = gensub(/\[([^\]]+)\]/, "<a href=\"posts.html?q=\\1\">\\1</a>", "g", content[i])
   }
 
   post = "<span id=\"" toid(slug) "\" title=\"" tohtml(title) "\"/></span>\n"
@@ -342,7 +361,7 @@ function writepost(    stags)
   }
   post = post "<p class=\"note-title\"><small>" date " " ssstags " </small><a href=\"" chapter ".html\">^</a> <button onclick=\"copy_clipboard('section#section-" toid(slug) "')\">ctrl_c</button></p>\n"
   for( i = 1; i <= totalLines; ++i ) {
-    post = post content[i]
+    post = post content[i]["content"]
   }
   post = post "\n"
   post = post "</section><hr/>\n"
@@ -404,11 +423,13 @@ function writepost(    stags)
 
 
 /^[^=:]/ {
-  newContent = formatContent($0)
-  content[++totalLines] = newContent
-  if( length(summary) < 200 ) {
-    if( index($0, "{{") == 0 && index($0, "```") == 0 ) {
-      summary = summary " " $0
+  newLine = formatContent($0, totalLines)
+  if( newLine ) {
+    totalLines = newLine
+    if( length(summary) < 200 ) {
+      if( index($0, "{{") == 0 && index($0, "```") == 0 ) {
+        summary = summary " " $0
+      }
     }
   }
 }
