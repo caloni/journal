@@ -17060,3 +17060,12 @@ Looking for noninvasive way to test port shifting. However, this behavior was no
 :tags: tag_venn
 
 Tested port shifting by blocking UDP ports in firewal to the gateway remote address and it is working for active peer. Howeve, for the secondary peers the logic is not implemented, so it keeps using a blocked port when put to secondary position. I think this should change when probing mechanism get implemented.
+
+
+= Nova abordagem
+:date: 2024-04-15
+:tags: tag_blogging
+
+Um journal cheio de detalhes técnicos do trabalho atual talvez não seja a melhor forma de reutilizar este histórico para aprendizado ou até como forma de otimizar os próximos trabalhos. Ele é dependente demais do contexto. Contudo, escrever sobre maneiras com que for mudando a forma de trabalhar no dia-a-dia pode ser algo focado no self-improvement e de maneira pessoal, o que irá reforçar os caminhos bons e desencorajar os caminhos ruins.
+
+Ainda a pensar, pois de qualquer forma é útil usar esta tripa para buscas. Se bem que buscas são úteis apenas pelo contexto (novamente).
