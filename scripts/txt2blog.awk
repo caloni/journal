@@ -435,6 +435,49 @@ function writepost(    stags)
 }
 
 
+#
+# new metadata logic (wip)
+#
+
+/^= / {
+  ++totalPosts
+  posts[totalPosts]["title"] = substr($0, 3)
+}
+
+/^:/ {
+  totalFields = posts[totalPosts]["totalFields"]
+  fieldName = $1 # todo: remove ':' between field name
+  fieldValueIdx = 2
+  while( fieldValueIdx <= NF ) {
+    fieldValue = $fieldValueIdx
+    ++totalFields
+    posts[totalPosts]["fields"][totalFields] = fieldName " " fieldValue
+    ++fieldValueIdx
+  }
+  posts[totalPosts]["totalFields"] = totalFields
+}
+
+/^[^=:]/ {
+  totalLines = posts[totalPosts]["totalLines"]
+  ++totalLines
+  posts[totalPosts]["lines"][totalLines] = $0
+  posts[totalPosts]["totalLines"] = totalLines
+}
+
+END {
+  metadata = "public\\metadata.txt"
+  for( postIdx = 1; postIdx <= totalPosts; ++postIdx ) {
+    print "title " posts[postIdx]["title"] > metadata
+    for( fieldIdx = 1; fieldIdx <= posts[postIdx]["totalFields"]; ++fieldIdx ) {
+      print "field " posts[postIdx]["fields"][fieldIdx] > metadata
+    }
+    for( lineIdx = 1; lineIdx <= posts[postIdx]["totalLines"]; ++lineIdx ) {
+      print "line " posts[postIdx]["lines"][lineIdx] > metadata
+    }
+  }
+}
+
+
 BEGIN {
   "date" | getline currentDate
   convertLetters["Á"] = "A"
