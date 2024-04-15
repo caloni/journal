@@ -8,6 +8,7 @@ function copy_clipboard(id) {
   }
   copyText = copyText.replace(" ^ ctrl_c","")
   copyText = copyText.replace(" [link]","")
+  copyText = copyText.replace("\n", "\n\n");
   afterTitle = copyText.search("\n")
   if( afterTitle != -1 ) {
     copyText = copyText.slice(0, afterTitle) + "\nWanderley Caloni" + copyText.slice(afterTitle);
