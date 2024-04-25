@@ -17069,3 +17069,10 @@ Tested port shifting by blocking UDP ports in firewal to the gateway remote addr
 Um journal cheio de detalhes técnicos do trabalho atual talvez não seja a melhor forma de reutilizar este histórico para aprendizado ou até como forma de otimizar os próximos trabalhos. Ele é dependente demais do contexto. Contudo, escrever sobre maneiras com que for mudando a forma de trabalhar no dia-a-dia pode ser algo focado no self-improvement e de maneira pessoal, o que irá reforçar os caminhos bons e desencorajar os caminhos ruins.
 
 Ainda a pensar, pois de qualquer forma é útil usar esta tripa para buscas. Se bem que buscas são úteis apenas pelo contexto (novamente).
+
+
+= Leia o código
+:date: 2024-04-25
+:tags: tag_blogging tag_self
+
+Toda falha em entender o problema a ser resolvido reside na falta de conhecimento do código que estou mexendo. Leia o código. Leia o código de novo. Explique para si mesmo o que o código faz e o que ele deveria fazer no lugar.
