@@ -12,7 +12,7 @@ gawk -f scripts\txt2blog.awk journal.txt
 endlocal
 echo Blog generated
 git add --all
-git commit -m "Another day flawlessly finished."
+git commit -m "Publishing some shit."
 git push
 echo Source published
 choice /M "Do you want to publish the PUBLIC blog to the world wide web (default yes in 10 seconds)?" /D Y /T 10
