@@ -1,1 +1,0 @@
-Why an exception System.ObjectDisposedException like "Safe handle has been closed" for a socket receiving a response?
