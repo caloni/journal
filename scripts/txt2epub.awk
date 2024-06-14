@@ -202,10 +202,10 @@ function formatContent(content)
       break
     }
 
-    if( index(content, "{{< image src=") == 1 ) {
-      newImage = gensub(/.*{{< image src="([^"]+)".*/, "img/" slug "-\\1", "g", content)
+    if( index(content, "image::") == 1 ) {
+      newImage = gensub(/image::(.*)\[.*\]/, "img/" slug "-\\1", "g", content)
       g_postImages[newImage] = newImage
-      content = gensub(/{{< image src="([^"]+)".*>}}/, "<img src=\"img/" slug "-\\1\"/>", "g", content)
+      content = gensub(/image::(.*)\[.*\]/, "<img src=\"img/" slug "-\\1\"/>", "g", content)
       break
     }
 
