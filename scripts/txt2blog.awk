@@ -270,6 +270,13 @@ function formatContent(line, lastLine)
       break
     }
 
+    if( index(line, "image::") == 1 ) {
+      image = gensub(/image::(.*)\[.*\]/, slug "-\\1", "g", line)
+      line = gensub(/image::(.*)\[.*\]/, "<img src=\"img/" slug "-\\1\"/>", "g", line)
+      type = "img"
+      break
+    }
+
     gsub(/&/, "&amp;", line)
     gsub(/</, "\\&lt;", line)
     gsub(/>/, "\\&gt;", line)
