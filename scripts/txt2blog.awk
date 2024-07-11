@@ -472,7 +472,7 @@ END {
       print "field " posts[postIdx]["fields"][fieldIdx] > metadata
     }
     for( lineIdx = 1; lineIdx <= posts[postIdx]["totalLines"]; ++lineIdx ) {
-      print "line " posts[postIdx]["lines"][lineIdx] > metadata
+      print "paragraph " posts[postIdx]["lines"][lineIdx] > metadata
     }
   }
 }
