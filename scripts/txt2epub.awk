@@ -28,6 +28,7 @@ function toslug(str)
   gsub(/[#()'",;:-]/, "", str)
   gsub(/&/, "and", str)
   gsub(/!/, "", str)
+  gsub(/\?/, "", str)
   gsub(/ /, "-", str)
   return tolower(str)
 }
