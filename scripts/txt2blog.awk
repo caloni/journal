@@ -173,8 +173,8 @@ function writebottomhtml(file, filter, nextLink, prevLink, version)
 
 function formatContent(line, lastLine)
 {
-  prefix = "\n"
-  suffix = ""
+  prefix = ""
+  suffix = "\n"
   paragraph = 1
   newLine = 0
   type = ""
@@ -183,16 +183,13 @@ function formatContent(line, lastLine)
     if( index(line, "```") == 1 ) {
       line = ""
       if( contentState["```"] ) {
-        prefix = "</pre>"
         contentState["```"] = 0
       } else {
         contentState["```"] = 1
-        prefix = prefix "<pre>"
       }
-      type = "pre"
-      break
+      return 0
     } else if( contentState["```"] ) {
-      type = ""
+      type = "pre"
       break
     }
 
@@ -210,18 +207,18 @@ function formatContent(line, lastLine)
         contentState["-"] = 0
     }
 
-    if( line ~ /^ +/ ) {
-      sub(/^ /, "", line)
-      if( ! contentState[" "] ) {
-        prefix = prefix "<pre>"
-        contentState[" "] = 1
-      }
-      type = "pre"
-      break
-    } else if ( contentState[" "] ) {
-        prefix = "</pre>\n"
-        contentState[" "] = 0
-    }
+    # if( line ~ /^ +/ ) {
+    #   sub(/^ /, "", line)
+    #   if( ! contentState[" "] ) {
+    #     prefix = prefix "<pre>"
+    #     contentState[" "] = 1
+    #   }
+    #   type = "pre"
+    #   break
+    # } else if ( contentState[" "] ) {
+    #     prefix = "</pre>\n"
+    #     contentState[" "] = 0
+    # }
 
     if( line ~ /^#+ / ) {
 
@@ -344,12 +341,22 @@ function writepost(    stags)
     ssstags = ssstags " <a href=\"" sstags[st] ".html\">" sstags[st] "</a>"
   }
   for( i = 0; i < totalLines; ++i ) {
-    if( content[i]["type"] != "pre" ) {
-      for( name in links ) {
-        search = "\\[" name "\\]"
-        gsub(search, links[name], content[i]["content"])
+    if( content[i]["content"] != "" ) {
+      if( content[i]["type"] != "pre" ) {
+        for( name in links ) {
+          search = "\\[" name "\\]"
+          gsub(search, links[name], content[i]["content"])
+        }
+        content[i]["content"] = gensub(/\[([^\]]+)\]/, "<a href=\"posts.html?q=\\1\">\\1</a>", "g", content[i]["content"])
+      } else {
+        content[i]["content"] = tohtml(content[i]["content"])
+        if( content[i-1]["type"] != "pre" ) {
+          content[i]["content"] = "<pre>\n" content[i]["content"]
+        }
+        if( content[i+1]["type"] != "pre" ) {
+          content[i]["content"] = content[i]["content"] "</pre>\n"
+        }
       }
-      content[i]["content"] = gensub(/\[([^\]]+)\]/, "<a href=\"posts.html?q=\\1\">\\1</a>", "g", content[i]["content"])
     }
   }
 
