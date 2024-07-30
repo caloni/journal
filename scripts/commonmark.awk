@@ -18,9 +18,25 @@ currentBlock != "" {
   next
 }
 
+/^> / {
+  print "quote: " $0 > commonMarkFile
+  next
+}
+
+/^ - / {
+  print "list: " $0 > commonMarkFile
+  next
+}
+
 # todo: convert journal.txt titles from asciidoc to commonmark
 /^= / {
   print "title: " $0 > commonMarkFile
+  next
+}
+
+# todo: convert journal.txt heading entries from asciidoc to invisible linkref items in commonmark
+/^:.*: .+/ {
+  print "head: " $0 > commonMarkFile
   next
 }
 
@@ -35,12 +51,22 @@ currentBlock != "" {
 }
 
 /^\[.*\]: *[^ ]+ *(".*")?/ {
-  print "linkrefdef: " $0 > commonMarkFile
+  print "linkdef: " $0 > commonMarkFile
+  next
+}
+
+/.+/ {
+  print "p: " $0 > commonMarkFile
+  next
+}
+
+/^$/ {
+  print $0 > commonMarkFile
   next
 }
 
 {
-  print "unclassified: " $0 > commonMarkFile
+  print "undef: " $0 > commonMarkFile
   next
 }
 
