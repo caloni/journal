@@ -93,32 +93,6 @@ function writetophtml(file, title, backLink, filter, quickSearch)
   print "role=\"navigation\" aria-label=\"main navigation\">" > file
   print "<div class=\"container\">" > file
   print "<div class=\"navbar-brand\">" > file
-  print "<pre><span style=\"font-size: 3px; margin: 0; display: block;\">" > file
-  print "" > file
-  print "&amp;*/. .*%@@@@@@@@@@@@&amp;/    , &amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@" > file
-  print "@@@@@@@@@#,*@@@@%,*&amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@" > file
-  print "@@@@@@@@@@@@./@.(@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@" > file
-  print "@@@@**#./((,*, *./((*,#,&amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@" > file
-  print "@@@@@.#@@%&amp;@@* (@@%&amp;@@/#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@" > file
-  print "@@@@@,#@@&amp;&amp;@@, (@@&amp;&amp;@@*#@@@@@@@@@@@@@#/,,.         ..,/#&amp;@@@@@@@@@@@@@@@@@@@@@@@" > file
-  print "@@@@@&amp;, .//      .//  .%@@@@@@&amp;#.  .,****.,*************,.  .(&amp;@@@@@@@@@@@@@@@@@" > file
-  print "@@@*                     ,@/  .**,,,*********,   ,***,   ****    *@@@@@@@@@@@@@@" > file
-  print "@#                         ,***      .******       ,***,*****,      *&amp;@@@@@@@@@@" > file
-  print "&amp;                           ,**      .******.     .******************  (@@@@@@@@" > file
-  print "                             ****..,*************************,    ,***   (@@@@@@" > file
-  print "@@@@#,,,,,,,,,,,,,,,,,,,,*********,   ,**************,  .***,      .**. .  %@@@@" > file
-  print "@@@@%                   .***,.,****,.,***,     ,****      ***.     ,******, /@@@" > file
-  print "@@@@@&amp;.                ,**       *******,       *****,  .******************, *@@" > file
-  print "@@@@@@@&amp;,            ,****      .********,.   .*************,  ,*****,    ,** /@" > file
-  print "@@@@@@@@@@@@&amp;/ .****,    ************.   ****************************      **. #" > file
-  print "@@@@@@@@@@@@@, *****,    ,***********    .******,   ,****.   .*****,***,,***** ," > file
-  print "@@@@@@@@@@@@&amp;..**************,  ,***********************       ,*,    ********.." > file
-  print "@@@@@@@@@@@@&amp; ,**.    ,******.  .*******.    .**********,     .**********. .**, " > file
-  print "@@@@@@@@@@@@% ,*       ,***************.      .*****************************,   " > file
-  print "@@@@@@@@@@@@@&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;@,(&amp;&amp;&amp;&amp;@,(&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;#*@&amp;&amp;&amp;@*#&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;" > file
-  print "@@@@@@@@@@@@@@@@@@@@@@@@@@@@(.#@@@@(.#@@@@@@@@@@@@@@@@@@@@@#**@@@@(.#@@@@@@@@@@@" > file
-  print "" > file
-  print "</span></pre>" > file
   print "&nbsp;" > file
   print "<a class=\"navbar-item\" href=\"" backLink "\">" > file
   print "<div class=\"is-4\">" title "</div>" > file
@@ -148,14 +122,10 @@ function writebottomhtml(file, filter, nextLink, prevLink, version)
   }
   print "<span style=\"float: left;\">" > file
   if( nextLink && nextLink != "" ) {
-    print " <a href=\"" nextLink "\"><<</a>" > file
+    print " <a href=\"" nextLink "\">[next]</a>" > file
   }
   if( prevLink && prevLink != "" ) {
-    print " <a href=\"" prevLink "\">>></a>" > file
-  }
-  bottomLine = "Blogue do Caloni"
-  if( version ) {
-    bottomLine = bottomLine " v. " version
+    print " <a href=\"" prevLink "\">[prev]</a>" > file
   }
   print "</span>" > file
   print "</div>" > file
@@ -163,7 +133,7 @@ function writebottomhtml(file, filter, nextLink, prevLink, version)
   print "</section>" > file
   print "<footer class=\"footer\">" > file
   print "<div class=\"container\">" > file
-  print "<span style=\"float: right;\"><i style=\"font-size: small;\">" bottomLine "</i></span>" > file
+  print "<p><i>" version "</i></p>" > file
   print "</div>" > file
   print "</footer>" > file
   print "</body>" > file
@@ -363,11 +333,11 @@ function writepost(    stags)
   post = "<span id=\"" toid(slug) "\" title=\"" tohtml(title) "\"/></span>\n"
   post = post "<section id=\"section-" toid(slug) "\">\n"
   if( postlink != "" ) {
-    post = post "<p class=\"title\"><a href=\"" chapter ".html#" toid(slug) "\">#</a> " tohtml(title) " <a class=\"external\" href=\"" postlink "\">[link]</a></p>\n"
+    post = post "<p class=\"title\"><a href=\"" chapter ".html#" toid(slug) "\">#</a> <a class=\"external\" href=\"" postlink "\">" tohtml(title) "</a></p>\n"
   } else {
     post = post "<p class=\"title\"><a href=\"" chapter ".html#" toid(slug) "\">#</a> " tohtml(title) "</p>\n"
   }
-  post = post "<p class=\"note-title\"><small>" date " " ssstags " </small><a href=\"" chapter ".html\">^</a> <button onclick=\"copy_clipboard('section#section-" toid(slug) "')\">ctrl_c</button></p>\n"
+  post = post "<p class=\"note-title\"><small>" date " " ssstags " </small><a href=\"" chapter ".html\"><sup>[up]</sup></a> <a href=\"javascript:;\" onclick=\"copy_clipboard('section#section-" toid(slug) "')\"><sup>[copy]</sup></a></p>\n"
   for( i = 1; i <= totalLines; ++i ) {
     post = post content[i]["content"]
   }
@@ -655,7 +625,7 @@ END {
 
   indexhtml = "public\\blog\\index.html"
   writetophtml(indexhtml, "Blogue do Caloni", "2007-06.html#_about", 0, quickSearch)
-  print "<input type=\"text\" name=\"quick_search_name\" value=\"\" id=\"quick_search\" placeholder=\"digite uma url\" style=\"width: 100%; font-size: 1.5rem; margin-top: 1em; margin-bottom: 0.5em;\" title=\"\"/></br>" > indexhtml
+  print "<input type=\"text\" name=\"quick_search_name\" value=\"\" id=\"quick_search\" placeholder=\"&#x1F41E; digite uma url\" style=\"width: 100%; font-size: 1.5rem; margin-top: 1em; margin-bottom: 0.5em;\" title=\"\"/></br>" > indexhtml
   print "<big>>> <a href=\"tag_coding.html\">coding</a></big><small><i>: programação, depuração, transpiração.</small></i></br>" > indexhtml
   print "<big>>> <a href=\"tag_movies.html\">movies</a></big><small><i>: o finado Cine Tênis Verde veio parar aqui.</small></i></br>" > indexhtml
   print "<big>? <a id=\"quick_search_search_engine\" href=\"https://duckduckgo.com/?q=site%3Acaloni.com.br\">patopatovai</a></big><small><i>: usar um motor para buscar.</small></i></br>" > indexhtml
