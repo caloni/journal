@@ -188,8 +188,8 @@ function formatContent(line, lastLine)
         contentState["-"] = 0
     }
 
-    if( line ~ /^> / ) {
-      sub(/^> /, "", line)
+    if( line ~ /^>/ ) {
+      sub(/^> ?/, "", line)
       type = "blockquote"
       prefix = "<blockquote>"
       suffix = "</blockquote>"
