@@ -163,6 +163,17 @@ function formatContent(line, lastLine)
       break
     }
 
+    if( line ~ /^    / ) {
+      sub(/^ /, "", line)
+      if( ! contentState[" "] ) {
+        contentState[" "] = 1
+      }
+      type = "pre"
+      break
+    } else if ( contentState[" "] ) {
+        contentState[" "] = 0
+    }
+
     if( line ~ /^ *- */ ) {
       line = gensub(/ *- *(.*)/, "\\1", "g", line)
       if( ! contentState["-"] ) {
@@ -175,17 +186,6 @@ function formatContent(line, lastLine)
     } else if ( contentState["-"] ) {
         prefix = "</ul>\n"
         contentState["-"] = 0
-    }
-
-    if( line ~ /^    / ) {
-      sub(/^ /, "", line)
-      if( ! contentState[" "] ) {
-        contentState[" "] = 1
-      }
-      type = "pre"
-      break
-    } else if ( contentState[" "] ) {
-        contentState[" "] = 0
     }
 
     if( line ~ /^> / ) {
