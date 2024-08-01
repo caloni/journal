@@ -122,10 +122,10 @@ function writebottomhtml(file, filter, nextLink, prevLink, version)
   }
   print "<span style=\"float: left;\">" > file
   if( nextLink && nextLink != "" ) {
-    print " <a href=\"" nextLink "\">[next]</a>" > file
+    print " <a href=\"" nextLink "\">[prev]</a>" > file
   }
   if( prevLink && prevLink != "" ) {
-    print " <a href=\"" prevLink "\">[prev]</a>" > file
+    print " <a href=\"" prevLink "\">[next]</a>" > file
   }
   print "</span>" > file
   print "</div>" > file
