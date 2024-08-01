@@ -315,8 +315,9 @@ function writepost(    stags)
           search = "\\[" name "\\]"
           gsub(search, links[name], content[i]["content"])
         }
-        content[i]["content"] = gensub(/\[([^\]]+)\]/, "<a href=\"posts.html?q=\\1\">\\1</a>", "g", content[i]["content"])
-      } else {
+      }
+
+      if( content[i]["type"] == "pre" ) {
         content[i]["content"] = tohtml(content[i]["content"])
         if( content[i-1]["type"] != "pre" ) {
           content[i]["content"] = "<pre>\n" content[i]["content"]
@@ -324,6 +325,8 @@ function writepost(    stags)
         if( content[i+1]["type"] != "pre" ) {
           content[i]["content"] = content[i]["content"] "</pre>\n"
         }
+      } else {
+        content[i]["content"] = gensub(/\[([^\]]+)\]/, "<a href=\"posts.html?q=\\1\">\\1</a>", "g", content[i]["content"])
       }
     }
   }
