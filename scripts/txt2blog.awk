@@ -321,7 +321,7 @@ function writepost(    stags)
   }
   for( i = 0; i < totalLines; ++i ) {
     if( content[i]["content"] != "" ) {
-      if( content[i]["type"] != "pre" ) {
+      if( content[i]["type"] != "pre" && content[i]["type"] != "blockquote" ) {
         for( name in links ) {
           search = "\\[" name "\\]"
           gsub(search, links[name], content[i]["content"])
