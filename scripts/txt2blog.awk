@@ -191,6 +191,8 @@ function formatContent(line, lastLine)
     if( line ~ /^> / ) {
       sub(/^> /, "", line)
       type = "blockquote"
+      prefix = "<blockquote>"
+      suffix = "</blockquote>"
       break
     }
 
@@ -323,7 +325,7 @@ function writepost(    stags)
         }
       }
 
-      if( content[i]["type"] == "pre" || content[i]["type"] == "blockquote" ) {
+      if( content[i]["type"] == "pre" ) {
         content[i]["content"] = tohtml(content[i]["content"])
         if( content[i-1]["type"] != content[i]["type"] ) {
           content[i]["content"] = "<" content[i]["type"] ">\n" content[i]["content"]
