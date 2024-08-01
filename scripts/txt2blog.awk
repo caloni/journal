@@ -177,18 +177,16 @@ function formatContent(line, lastLine)
         contentState["-"] = 0
     }
 
-    # if( line ~ /^ +/ ) {
-    #   sub(/^ /, "", line)
-    #   if( ! contentState[" "] ) {
-    #     prefix = prefix "<pre>"
-    #     contentState[" "] = 1
-    #   }
-    #   type = "pre"
-    #   break
-    # } else if ( contentState[" "] ) {
-    #     prefix = "</pre>\n"
-    #     contentState[" "] = 0
-    # }
+    if( line ~ /^ +/ ) {
+      sub(/^ /, "", line)
+      if( ! contentState[" "] ) {
+        contentState[" "] = 1
+      }
+      type = "pre"
+      break
+    } else if ( contentState[" "] ) {
+        contentState[" "] = 0
+    }
 
     if( line ~ /^#+ / ) {
 
