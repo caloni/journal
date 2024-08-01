@@ -190,13 +190,8 @@ function formatContent(line, lastLine)
 
     if( line ~ /^> / ) {
       sub(/^> /, "", line)
-      if( ! contentState[">"] ) {
-        contentState[">"] = 1
-      }
       type = "blockquote"
       break
-    } else if ( contentState[">"] ) {
-        contentState[">"] = 0
     }
 
     if( line ~ /^#+ / ) {
