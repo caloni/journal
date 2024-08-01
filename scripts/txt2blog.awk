@@ -188,6 +188,17 @@ function formatContent(line, lastLine)
         contentState[" "] = 0
     }
 
+    if( line ~ /^> / ) {
+      sub(/^> /, "", line)
+      if( ! contentState[">"] ) {
+        contentState[">"] = 1
+      }
+      type = "blockquote"
+      break
+    } else if ( contentState[">"] ) {
+        contentState[">"] = 0
+    }
+
     if( line ~ /^#+ / ) {
 
       if( line ~ /^# / ) {
@@ -317,13 +328,13 @@ function writepost(    stags)
         }
       }
 
-      if( content[i]["type"] == "pre" ) {
+      if( content[i]["type"] == "pre" || content[i]["type"] == "blockquote" ) {
         content[i]["content"] = tohtml(content[i]["content"])
-        if( content[i-1]["type"] != "pre" ) {
-          content[i]["content"] = "<pre>\n" content[i]["content"]
+        if( content[i-1]["type"] != content[i]["type"] ) {
+          content[i]["content"] = "<" content[i]["type"] ">\n" content[i]["content"]
         }
-        if( content[i+1]["type"] != "pre" ) {
-          content[i]["content"] = content[i]["content"] "</pre>\n"
+        if( content[i+1]["type"] != content[i]["type"] ) {
+          content[i]["content"] = content[i]["content"] "</" content[i]["type"] ">\n"
         }
       } else {
         content[i]["content"] = gensub(/\[([^\]]+)\]/, "<a href=\"posts.html?q=\\1\">\\1</a>", "g", content[i]["content"])
