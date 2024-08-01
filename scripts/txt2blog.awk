@@ -177,7 +177,7 @@ function formatContent(line, lastLine)
         contentState["-"] = 0
     }
 
-    if( line ~ /^ +/ ) {
+    if( line ~ /^    / ) {
       sub(/^ /, "", line)
       if( ! contentState[" "] ) {
         contentState[" "] = 1
