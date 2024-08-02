@@ -47,6 +47,11 @@ td {
     word-break: break-word;
 }
 
+.title-heading {
+    font-size: 0.75rem;
+    font-style: italic;
+}
+
 .author {
     font-size: 0.75rem;
     font-style: italic;

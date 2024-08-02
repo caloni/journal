@@ -355,8 +355,8 @@ function writepost(    stags)
   } else {
     post = post "<p class=\"title\"><a href=\"" chapter ".html#" toid(slug) "\">#</a> " tohtml(title) "</p>\n"
   }
-  post = post "<p class=\"note-title\"><small>Wanderley Caloni, " date " " ssstags " </small><a href=\"" chapter ".html\"> "
-  post = post "<sup>[up]</sup></a> <a href=\"javascript:;\" onclick=\"copy_clipboard('section#section-" toid(slug) "')\"><sup>[copy]</sup></a></p>\n\n"
+  post = post "<span class=\"title-heading\"><small>Wanderley Caloni, " date " " ssstags " </small><a href=\"" chapter ".html\"> "
+  post = post "<sup>[up]</sup></a> <a href=\"javascript:;\" onclick=\"copy_clipboard('section#section-" toid(slug) "')\"><sup>[copy]</sup></a></span>\n\n"
   for( i = 1; i <= totalLines; ++i ) {
     post = post content[i]["content"] "\n"
   }
