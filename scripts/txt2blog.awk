@@ -355,10 +355,13 @@ function writepost(    stags)
   } else {
     post = post "<p class=\"title\"><a href=\"" chapter ".html#" toid(slug) "\">#</a> " tohtml(title) "</p>\n"
   }
-  post = post "<span class=\"title-heading\"><small>Wanderley Caloni, " date " " ssstags " </small><a href=\"" chapter ".html\"> "
+  post = post "<span class=\"title-heading\">Wanderley Caloni, " date " " ssstags " <a href=\"" chapter ".html\"> "
   post = post "<sup>[up]</sup></a> <a href=\"javascript:;\" onclick=\"copy_clipboard('section#section-" toid(slug) "')\"><sup>[copy]</sup></a></span>\n\n"
   for( i = 1; i <= totalLines; ++i ) {
-    post = post content[i]["content"] "\n"
+    post = post content[i]["content"]
+    if( content[i]["type"] != "pre" ) {
+      post = post "\n"
+    }
   }
   post = post "</section><hr/>\n"
   g_postsByMonth[chapter][date] = g_postsByMonth[chapter][date] "\n" post
