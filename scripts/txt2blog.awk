@@ -351,15 +351,15 @@ function writepost(    stags)
   post = "<span id=\"" toid(slug) "\" title=\"" tohtml(title) "\"/></span>\n"
   post = post "<section id=\"section-" toid(slug) "\">\n"
   if( postlink != "" ) {
-    post = post "<h1 class=\"title\"><a href=\"" chapter ".html#" toid(slug) "\">#</a> <a class=\"external\" href=\"" postlink "\">" tohtml(title) "</a></h1>\n"
+    post = post "<p class=\"title\"><a href=\"" chapter ".html#" toid(slug) "\">#</a> <a class=\"external\" href=\"" postlink "\">" tohtml(title) "</a></p>\n"
   } else {
-    post = post "<h1 class=\"title\"><a href=\"" chapter ".html#" toid(slug) "\">#</a> " tohtml(title) "</h1>\n"
+    post = post "<p class=\"title\"><a href=\"" chapter ".html#" toid(slug) "\">#</a> " tohtml(title) "</p>\n"
   }
-  post = post "<p class=\"note-title\"><small>" date " " ssstags " </small><a href=\"" chapter ".html\"><sup>[up]</sup></a> <a href=\"javascript:;\" onclick=\"copy_clipboard('section#section-" toid(slug) "')\"><sup>[copy]</sup></a></p>\n"
+  post = post "<p class=\"note-title\"><small>Wanderley Caloni, " date " " ssstags " </small><a href=\"" chapter ".html\"> "
+  post = post "<sup>[up]</sup></a> <a href=\"javascript:;\" onclick=\"copy_clipboard('section#section-" toid(slug) "')\"><sup>[copy]</sup></a></p>\n\n"
   for( i = 1; i <= totalLines; ++i ) {
-    post = post content[i]["content"]
+    post = post content[i]["content"] "\n"
   }
-  post = post "\n"
   post = post "</section><hr/>\n"
   g_postsByMonth[chapter][date] = g_postsByMonth[chapter][date] "\n" post
   postLink = "<li><small><a href=\"" chapter ".html#" slug "\">" tohtml(title) "</a></small></li>"
