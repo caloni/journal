@@ -95,7 +95,7 @@ function writetophtml(file, title, backLink, filter, quickSearch)
   print "<div class=\"navbar-brand\">" > file
   print "&nbsp;" > file
   print "<a class=\"navbar-item\" href=\"" backLink "\">" > file
-  print "<div class=\"is-4\">" title "</div>" > file
+  print "<div class=\"is-4\"><b>" title "</b></div>" > file
   print "</a>" > file
   print "</div>" > file
   print "</div>" > file
@@ -139,7 +139,7 @@ function writebottomhtml(file, filter, nextLink, prevLink, version)
   print "</section>" > file
   print "<footer class=\"footer\">" > file
   print "<div class=\"container\">" > file
-  print "<p><i>" version "</i></p>" > file
+  print "<p><small><i>" version "</i></small></p>" > file
   print "</div>" > file
   print "</footer>" > file
   print "</body>" > file
@@ -348,9 +348,9 @@ function writepost(    stags)
   post = "<span id=\"" toid(slug) "\" title=\"" tohtml(title) "\"/></span>\n"
   post = post "<section id=\"section-" toid(slug) "\">\n"
   if( postlink != "" ) {
-    post = post "<p class=\"title\"><a href=\"" chapter ".html#" toid(slug) "\">#</a> <a class=\"external\" href=\"" postlink "\">" tohtml(title) "</a></p>\n"
+    post = post "<p class=\"title\"><a href=\"" chapter ".html#" toid(slug) "\">#</a> <a class=\"external\" href=\"" postlink "\"><b>" tohtml(title) "</b></a></p>\n"
   } else {
-    post = post "<p class=\"title\"><a href=\"" chapter ".html#" toid(slug) "\">#</a> " tohtml(title) "</p>\n"
+    post = post "<p class=\"title\"><a href=\"" chapter ".html#" toid(slug) "\">#</a> <b>" tohtml(title) "</b></p>\n"
   }
   post = post "<p class=\"note-title\"><small>" date " " ssstags " </small><a href=\"" chapter ".html\"><sup>[up]</sup></a> <a href=\"javascript:;\" onclick=\"copy_clipboard('section#section-" toid(slug) "')\"><sup>[copy]</sup></a></p>\n"
   for( i = 1; i <= totalLines; ++i ) {
