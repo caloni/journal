@@ -204,18 +204,21 @@ function formatContent(line, lastLine)
 
     if( line ~ /^#+ / ) {
 
-      if( line ~ /^# / ) {
+      if( line ~ /^## / ) {
         headerLevel = 2
         type = "h2"
-      } else if( line ~ /^## / ) {
+      } else if( line ~ /^### / ) {
         headerLevel = 3
         type = "h3"
-      } else if( line ~ /^### / ) {
+      } else if( line ~ /^#### / ) {
         headerLevel = 4
         type = "h4"
-      } else {
+      } else if( line ~ /^##### / ) {
         headerLevel = 5
         type = "h5"
+      } else if( line ~ /^###### / ) {
+        headerLevel = 6
+        type = "h6"
       }
       gsub(/^#+ /, "", line)
 
@@ -348,9 +351,9 @@ function writepost(    stags)
   post = "<span id=\"" toid(slug) "\" title=\"" tohtml(title) "\"/></span>\n"
   post = post "<section id=\"section-" toid(slug) "\">\n"
   if( postlink != "" ) {
-    post = post "<p class=\"title\"><a href=\"" chapter ".html#" toid(slug) "\">#</a> <a class=\"external\" href=\"" postlink "\"><b>" tohtml(title) "</b></a></p>\n"
+    post = post "<h1 class=\"title\"><a href=\"" chapter ".html#" toid(slug) "\">#</a> <a class=\"external\" href=\"" postlink "\">" tohtml(title) "</a></h1>\n"
   } else {
-    post = post "<p class=\"title\"><a href=\"" chapter ".html#" toid(slug) "\">#</a> <b>" tohtml(title) "</b></p>\n"
+    post = post "<h1 class=\"title\"><a href=\"" chapter ".html#" toid(slug) "\">#</a> " tohtml(title) "</h1>\n"
   }
   post = post "<p class=\"note-title\"><small>" date " " ssstags " </small><a href=\"" chapter ".html\"><sup>[up]</sup></a> <a href=\"javascript:;\" onclick=\"copy_clipboard('section#section-" toid(slug) "')\"><sup>[copy]</sup></a></p>\n"
   for( i = 1; i <= totalLines; ++i ) {
