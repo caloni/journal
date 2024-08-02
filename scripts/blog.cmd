@@ -1,5 +1,5 @@
 @echo off
-call blogbuild.cmd
+call scripts\blogbuild.cmd
 git add --all
 git commit -m "Publishing some shit."
 git push
