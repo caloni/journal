@@ -304,6 +304,7 @@ function writepost(    stags)
   titleToChapter[title] = chapter
 
   if ( repost != "" ) {
+    quickSearch["repost"] = "repost.html"
     file = "public\\blog\\repost.html"
     if( ! ("repost" in files) ) {
       writetophtml(file, "caloni::repost", "index.html", 1)
@@ -557,13 +558,12 @@ END {
       print "</ul>" > file
     }
     print postsContent > file
-    if( f != "repost" ) {
+    if( f != "repost" && f != "drafts" ) {
       writebottomhtml(file, 0, nextChapter[f] ".html", prevChapter[f] ".html")
     } else {
       writebottomhtml(file, 1)
     }
   }
-  quickSearch["repost"] = "repost.html"
 
   PROCINFO["sorted_in"] = "@ind_num_desc"
   for( t in g_titlesByTagsAndDates ) {
@@ -653,8 +653,12 @@ END {
   print "<big><a href=\"" lastmonth ".html\">news</a></big><small><i>: postes publicados no último mês.</small></i></br>" > indexhtml
   print "<big><a href=\"months.html\">months</a></big><small><i>: lista dos meses com postes.</small></i></br>" > indexhtml
   print "<big><a href=\"posts.html\">posts</a></big><small><i>: lista com toooooooodos os postes do blogue.</small></i></br>" > indexhtml
-  print "<big><a href=\"repost.html\">reposts</a></big><small><i>: vale a pena postar de novo.</small></i></br>" > indexhtml
-  print "<big><a href=\"drafts.html\">drafts</a></big><small><i>: postes em progresso.</small></i></br>" > indexhtml
+  if( "repost" in quickSearch ) {
+    print "<big><a href=\"repost.html\">reposts</a></big><small><i>: vale a pena postar de novo.</small></i></br>" > indexhtml
+  }
+  if( "drafts" in quickSearch ) {
+    print "<big><a href=\"drafts.html\">drafts</a></big><small><i>: postes em progresso.</small></i></br>" > indexhtml
+  }
   print "<div><big><span style=\"visibility: hidden; padding: 5px;\" name=\"results\" id=\"results\">...</span></big></div>" > indexhtml
   print "<table class=\"sortable\" style=\"width: 100%;\">" > indexhtml
   print "</table>" > indexhtml
