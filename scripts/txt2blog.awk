@@ -356,7 +356,11 @@ function writepost(    stags)
   } else {
     post = post "<p class=\"title\"><a href=\"" chapter ".html#" toid(slug) "\">#</a> " tohtml(title) "</p>\n"
   }
-  post = post "<span class=\"title-heading\">Wanderley Caloni, " date " " ssstags " <a href=\"" chapter ".html\"> "
+  post = post "<span class=\"title-heading\">Wanderley Caloni, " date
+  if( update != "" ) {
+    post = post " (updated " update ")"
+  }
+  post = post " " ssstags " <a href=\"" chapter ".html\"> "
   post = post "<sup>[up]</sup></a> <a href=\"javascript:;\" onclick=\"copy_clipboard('section#section-" toid(slug) "')\"><sup>[copy]</sup></a></span>\n\n"
   for( i = 1; i <= totalLines; ++i ) {
     post = post content[i]["content"]
@@ -383,6 +387,7 @@ function writepost(    stags)
     g_tags = ""
     draft = 0
     repost = ""
+    update = ""
     summary = ""
     image = ""
     delete links
@@ -402,6 +407,9 @@ function writepost(    stags)
     date = $2
     chapter = substr(date, 1, 7)
     chapters[chapter] = chapter
+  }
+  else if( $1 == ":update:" ) {
+    update = $2
   }
   else if( $1 == ":tags:" ) {
     i = 2
