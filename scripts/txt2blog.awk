@@ -249,7 +249,7 @@ function FormatContent(line, lastLine)
   return newLine
 }
 
-function WritePost(stags)
+function WritePost()
 {
   ++postCount
   if( slug == "" ) {
@@ -264,11 +264,11 @@ function WritePost(stags)
   }
 
   repostTags = ""
-  split(g_tags, stags)
-  for( t in stags ) {
-    g_titlesByTags[stags[t]][title] = title
-    g_titlesByTagsAndDates[stags[t]][date][title] = title
-    repostTags = repostTags " [" stags[t] "]"
+  split(g_tags, a)
+  for( t in a ) {
+    g_titlesByTags[a[t]][title] = title
+    g_titlesByTagsAndDates[a[t]][date][title] = title
+    repostTags = repostTags " [" a[t] "]"
   }
   slugs[slug]["slug"] = slug
   slugs[slug]["title"] = title
@@ -611,17 +611,17 @@ END {
   for( date in entries ) {
     for( slug in entries[date] ) {
       title = entries[date][slug]
-      split(slugs[slug]["tags"], tags)
-      stags = ""
-      for( t in tags ) {
-        stags = stags " [" tags[t] "]"
+      split(slugs[slug]["tags"], a)
+      s = ""
+      for( i in a ) {
+        s = s " [" a[i] "]"
       }
       print "<tr><td>" > postshtml
       if( slugs[slug]["image"] ) {
         print "<img src=\"img/" slugs[slug]["image"] "\"/>" > postshtml
       }
       print "<b><a href=\"" titleToChapter[title] ".html#" ToId(slug) "\">" ToHtml(title) "</a></b>" > postshtml
-      print "<small><i>" slugs[slug]["date"] stags " " slugs[slug]["summary"] " " slug "</small></i>" > postshtml
+      print "<small><i>" slugs[slug]["date"] s " " slugs[slug]["summary"] " " slug "</small></i>" > postshtml
       print "</td></tr>" > postshtml
     }
   }
