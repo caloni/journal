@@ -36,15 +36,15 @@ function WriteToHtml(file, title, backLink, filter, quickSearch)
   print "<head>" > file
   print "<meta charset=\"utf-8\" />" > file
   print "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/>" > file
-  print "<title>Blogue do Caloni</title>" > file
+  print "<title>" Posts[0]["title"] "</title>" > file
   print "<meta name=\"author\" content=\"\" />" > file
   print "<meta name=\"generator\" content=\"Hugo 0.110.0\">" > file
-  print "<meta property=\"og:title\" content=\"Blogue do Caloni\"/>" > file
+  print "<meta property=\"og:title\" content=\"" Posts[0]["title"] "\"/>" > file
   print "<meta property=\"og:type\" content=\"website\"/>" > file
   print "<meta property=\"og:url\" content=\"http://www.caloni.com.br/\"/>" > file
   print "<meta property=\"og:image\" content=\"/img/author.jpg\"/>" > file
   print "<meta property=\"og:description\" content=\"\"/>" > file
-  print "<link href=\"/index.xml\" rel=\"feed\" type=\"application/rss+xml\" title=\"Blogue do Caloni\"/>" > file
+  print "<link href=\"/index.xml\" rel=\"feed\" type=\"application/rss+xml\" title=\"" Posts[0]["title"] "\"/>" > file
   print "<link rel=\"stylesheet\" type=\"text/css\" href=\"/css/custom.css\"/>" > file
   print "<link rel=\"stylesheet\" type=\"text/css\" href=\"/css/jquery-ui.css\"/>" > file
   print "<link rel=\"stylesheet\" type=\"text/css\" href=\"/css/board-min.css\"/>" > file
@@ -463,6 +463,8 @@ END {
 
 
 BEGIN {
+  Posts[0]["title"] = "Blogue do Caloni"
+
   "date" | getline currentDate
   convertLetters["Á"] = "A"
   convertLetters["À"] = "A"
@@ -629,7 +631,7 @@ END {
   quickSearch["posts"] = "posts.html"
 
   indexhtml = "public\\blog\\index.html"
-  WriteToHtml(indexhtml, "Blogue do Caloni", "2007-06.html#_about", 0, quickSearch)
+  WriteToHtml(indexhtml, Posts[0]["title"], "2007-06.html#_about", 0, quickSearch)
   print "<input type=\"text\" name=\"quick_search_name\" value=\"\" id=\"quick_search\" placeholder=\"&#x1F41E; digite algo / type something\" style=\"width: 100%; font-size: 1.5rem; margin-top: 1em; margin-bottom: 0.5em;\" title=\"\"/></br>" > indexhtml
   print "<big><a href=\"tag_coding.html\">coding</a></big><small><i>: programação, depuração, transpiração.</small></i></br>" > indexhtml
   print "<big><a href=\"tag_movies.html\">movies</a></big><small><i>: o finado Cine Tênis Verde veio parar aqui.</small></i></br>" > indexhtml
