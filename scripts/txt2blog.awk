@@ -1,10 +1,10 @@
-function toid(str)
+function ToId(str)
 {
   return str
 }
 
 
-function toslug(str)
+function ToSlug(str)
 {
   gsub(/[ÁÀÂÃáàâã]/, "a", str)
   gsub(/[ÉÊÊéêê]/, "e", str)
@@ -14,12 +14,13 @@ function toslug(str)
   gsub(/[#()'",;:-]/, "", str)
   gsub(/&/, "and", str)
   gsub(/!/, "", str)
+  gsub(/\?/, "", str)
   gsub(/ /, "-", str)
   return tolower(str)
 }
 
 
-function tohtml(str)
+function ToHtml(str)
 {
   gsub(/&/, "&amp;", str)
   gsub(/</, "\\&lt;", str)
@@ -28,46 +29,22 @@ function tohtml(str)
 }
 
 
-function isnumeric(x, f)
-{
-    switch (typeof(x)) {
-    case "strnum":
-    case "number":
-        return 1
-    case "string":
-        return (split(x, f, " ") == 1) && (typeof(f[1]) == "strnum")
-    default:
-        return 0
-    }
-}
-
-
-function toletter(str)
-{
-  if( isnumeric(str) ) return "#"
-  str = toupper(str)
-  conv = convertLetters[str]
-  if( conv != "" ) return conv
-  return str
-}
-
-
-function writetophtml(file, title, backLink, filter, quickSearch)
+function WriteToHtml(file, title, backLink, filter, quickSearch)
 {
   print "<!DOCTYPE html>" > file
   print "<html lang=\"en-us\" dir=\"ltr\" itemscope itemtype=\"http://schema.org/Article\">" > file
   print "<head>" > file
   print "<meta charset=\"utf-8\" />" > file
   print "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/>" > file
-  print "<title>Blogue do Caloni</title>" > file
+  print "<title>" Posts[0]["title"] "</title>" > file
   print "<meta name=\"author\" content=\"\" />" > file
   print "<meta name=\"generator\" content=\"Hugo 0.110.0\">" > file
-  print "<meta property=\"og:title\" content=\"Blogue do Caloni\"/>" > file
+  print "<meta property=\"og:title\" content=\"" Posts[0]["title"] "\"/>" > file
   print "<meta property=\"og:type\" content=\"website\"/>" > file
   print "<meta property=\"og:url\" content=\"http://www.caloni.com.br/\"/>" > file
   print "<meta property=\"og:image\" content=\"/img/author.jpg\"/>" > file
   print "<meta property=\"og:description\" content=\"\"/>" > file
-  print "<link href=\"/index.xml\" rel=\"feed\" type=\"application/rss+xml\" title=\"Blogue do Caloni\"/>" > file
+  print "<link href=\"/index.xml\" rel=\"feed\" type=\"application/rss+xml\" title=\"" Posts[0]["title"] "\"/>" > file
   print "<link rel=\"stylesheet\" type=\"text/css\" href=\"/css/custom.css\"/>" > file
   print "<link rel=\"stylesheet\" type=\"text/css\" href=\"/css/jquery-ui.css\"/>" > file
   print "<link rel=\"stylesheet\" type=\"text/css\" href=\"/css/board-min.css\"/>" > file
@@ -92,35 +69,9 @@ function writetophtml(file, title, backLink, filter, quickSearch)
   print "role=\"navigation\" aria-label=\"main navigation\">" > file
   print "<div class=\"container\">" > file
   print "<div class=\"navbar-brand\">" > file
-  print "<pre><span style=\"font-size: 3px; margin: 0; display: block;\">" > file
-  print "" > file
-  print "&amp;*/. .*%@@@@@@@@@@@@&amp;/    , &amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@" > file
-  print "@@@@@@@@@#,*@@@@%,*&amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@" > file
-  print "@@@@@@@@@@@@./@.(@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@" > file
-  print "@@@@**#./((,*, *./((*,#,&amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@" > file
-  print "@@@@@.#@@%&amp;@@* (@@%&amp;@@/#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@" > file
-  print "@@@@@,#@@&amp;&amp;@@, (@@&amp;&amp;@@*#@@@@@@@@@@@@@#/,,.         ..,/#&amp;@@@@@@@@@@@@@@@@@@@@@@@" > file
-  print "@@@@@&amp;, .//      .//  .%@@@@@@&amp;#.  .,****.,*************,.  .(&amp;@@@@@@@@@@@@@@@@@" > file
-  print "@@@*                     ,@/  .**,,,*********,   ,***,   ****    *@@@@@@@@@@@@@@" > file
-  print "@#                         ,***      .******       ,***,*****,      *&amp;@@@@@@@@@@" > file
-  print "&amp;                           ,**      .******.     .******************  (@@@@@@@@" > file
-  print "                             ****..,*************************,    ,***   (@@@@@@" > file
-  print "@@@@#,,,,,,,,,,,,,,,,,,,,*********,   ,**************,  .***,      .**. .  %@@@@" > file
-  print "@@@@%                   .***,.,****,.,***,     ,****      ***.     ,******, /@@@" > file
-  print "@@@@@&amp;.                ,**       *******,       *****,  .******************, *@@" > file
-  print "@@@@@@@&amp;,            ,****      .********,.   .*************,  ,*****,    ,** /@" > file
-  print "@@@@@@@@@@@@&amp;/ .****,    ************.   ****************************      **. #" > file
-  print "@@@@@@@@@@@@@, *****,    ,***********    .******,   ,****.   .*****,***,,***** ," > file
-  print "@@@@@@@@@@@@&amp;..**************,  ,***********************       ,*,    ********.." > file
-  print "@@@@@@@@@@@@&amp; ,**.    ,******.  .*******.    .**********,     .**********. .**, " > file
-  print "@@@@@@@@@@@@% ,*       ,***************.      .*****************************,   " > file
-  print "@@@@@@@@@@@@@&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;@,(&amp;&amp;&amp;&amp;@,(&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;#*@&amp;&amp;&amp;@*#&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;" > file
-  print "@@@@@@@@@@@@@@@@@@@@@@@@@@@@(.#@@@@(.#@@@@@@@@@@@@@@@@@@@@@#**@@@@(.#@@@@@@@@@@@" > file
-  print "" > file
-  print "</span></pre>" > file
   print "&nbsp;" > file
   print "<a class=\"navbar-item\" href=\"" backLink "\">" > file
-  print "<div class=\"is-4\">" title "</div>" > file
+  print "<div class=\"is-4\"><b>" title "</b></div>" > file
   print "</a>" > file
   print "</div>" > file
   print "</div>" > file
@@ -140,21 +91,23 @@ function writetophtml(file, title, backLink, filter, quickSearch)
 }
 
 
-function writebottomhtml(file, filter, nextLink, prevLink, version)
+function WriteBottomHtml(file, filter, nextLink, prevLink, version)
 {
   if( filter ) {
     print "</table>" > file
   }
   print "<span style=\"float: left;\">" > file
   if( nextLink && nextLink != "" ) {
-    print " <a href=\"" nextLink "\"><<</a>" > file
+    link = nextLink
+    sub(/\.html/, "", nextLink)
+    label = nextLink
+    print " <a href=\"" link "\">[" label "]</a>" > file
   }
   if( prevLink && prevLink != "" ) {
-    print " <a href=\"" prevLink "\">>></a>" > file
-  }
-  bottomLine = "Blogue do Caloni"
-  if( version ) {
-    bottomLine = bottomLine " v. " version
+    link = prevLink
+    sub(/\.html/, "", prevLink)
+    label = prevLink
+    print " <a href=\"" link "\">[" label "]</a>" > file
   }
   print "</span>" > file
   print "</div>" > file
@@ -162,7 +115,7 @@ function writebottomhtml(file, filter, nextLink, prevLink, version)
   print "</section>" > file
   print "<footer class=\"footer\">" > file
   print "<div class=\"container\">" > file
-  print "<span style=\"float: right;\"><i style=\"font-size: small;\">" bottomLine "</i></span>" > file
+  print "<p><small><i>" version "</i></small></p>" > file
   print "</div>" > file
   print "</footer>" > file
   print "</body>" > file
@@ -170,10 +123,10 @@ function writebottomhtml(file, filter, nextLink, prevLink, version)
 }
 
 
-function formatContent(line, lastLine)
+function FormatContent(line, lastLine)
 {
-  prefix = "\n"
-  suffix = ""
+  prefix = ""
+  suffix = "\n"
   paragraph = 1
   newLine = 0
   type = ""
@@ -182,17 +135,25 @@ function formatContent(line, lastLine)
     if( index(line, "```") == 1 ) {
       line = ""
       if( contentState["```"] ) {
-        prefix = "</pre>"
         contentState["```"] = 0
       } else {
         contentState["```"] = 1
-        prefix = prefix "<pre>"
+      }
+      return 0
+    } else if( contentState["```"] ) {
+      type = "pre"
+      break
+    }
+
+    if( line ~ /^    / ) {
+      sub(/^ /, "", line)
+      if( ! contentState[" "] ) {
+        contentState[" "] = 1
       }
       type = "pre"
       break
-    } else if( contentState["```"] ) {
-      type = ""
-      break
+    } else if ( contentState[" "] ) {
+        contentState[" "] = 0
     }
 
     if( line ~ /^ *- */ ) {
@@ -209,33 +170,31 @@ function formatContent(line, lastLine)
         contentState["-"] = 0
     }
 
-    if( line ~ /^ +/ ) {
-      sub(/^ /, "", line)
-      if( ! contentState[" "] ) {
-        prefix = prefix "<pre>"
-        contentState[" "] = 1
-      }
-      type = "pre"
+    if( line ~ /^>/ ) {
+      sub(/^> ?/, "", line)
+      type = "blockquote"
+      prefix = "<blockquote>"
+      suffix = "</blockquote>"
       break
-    } else if ( contentState[" "] ) {
-        prefix = "</pre>\n"
-        contentState[" "] = 0
     }
 
     if( line ~ /^#+ / ) {
 
-      if( line ~ /^# / ) {
+      if( line ~ /^## / ) {
         headerLevel = 2
         type = "h2"
-      } else if( line ~ /^## / ) {
+      } else if( line ~ /^### / ) {
         headerLevel = 3
         type = "h3"
-      } else if( line ~ /^### / ) {
+      } else if( line ~ /^#### / ) {
         headerLevel = 4
         type = "h4"
-      } else {
+      } else if( line ~ /^##### / ) {
         headerLevel = 5
         type = "h5"
+      } else if( line ~ /^###### / ) {
+        headerLevel = 6
+        type = "h6"
       }
       gsub(/^#+ /, "", line)
 
@@ -263,9 +222,9 @@ function formatContent(line, lastLine)
       break
     }
 
-    if( index(line, "{{< image src=") == 1 ) {
-      image = gensub(/{{< image src="(.*)" >}}/, slug "-\\1", "g", line)
-      line = gensub(/{{< image src="(.*)" >}}/, "<img src=\"img/" slug "-\\1\"/>", "g", line)
+    if( index(line, "image::") == 1 ) {
+      image = gensub(/image::(.*)\[.*\]/, slug "-\\1", "g", line)
+      line = gensub(/image::(.*)\[.*\]/, "<img src=\"img/" slug "-\\1\"/>", "g", line)
       type = "img"
       break
     }
@@ -290,11 +249,11 @@ function formatContent(line, lastLine)
   return newLine
 }
 
-function writepost(    stags)
+function WritePost()
 {
   ++postCount
   if( slug == "" ) {
-    slug = toslug(title)
+    slug = ToSlug(title)
   }
   entries[date][slug] = title
 
@@ -305,11 +264,11 @@ function writepost(    stags)
   }
 
   repostTags = ""
-  split(g_tags, stags)
-  for( t in stags ) {
-    g_titlesByTags[stags[t]][title] = title
-    g_titlesByTagsAndDates[stags[t]][date][title] = title
-    repostTags = repostTags " [" stags[t] "]"
+  split(g_tags, a)
+  for( t in a ) {
+    g_titlesByTags[a[t]][title] = title
+    g_titlesByTagsAndDates[a[t]][date][title] = title
+    repostTags = repostTags " [" a[t] "]"
   }
   slugs[slug]["slug"] = slug
   slugs[slug]["title"] = title
@@ -321,12 +280,13 @@ function writepost(    stags)
   titleToChapter[title] = chapter
 
   if ( repost != "" ) {
+    quickSearch["repost"] = "repost.html"
     file = "public\\blog\\repost.html"
     if( ! ("repost" in files) ) {
-      writetophtml(file, "caloni::repost", "index.html", 1)
+      WriteToHtml(file, "caloni::repost", "index.html", 1)
       files["repost"] = "repost"
     }
-    post = "<tr><td><b><a href=\"" chapter ".html#" toid(slug) "\">" tohtml(title) "</a></b>\n"
+    post = "<tr><td><b><a href=\"" chapter ".html#" ToId(slug) "\">" ToHtml(title) "</a></b>\n"
     post = post "<small><i>" repost " [" date "] " repostTags " " summary "</small></i>\n"
     post = post "</td></tr>\n"
     g_postsByMonth["repost"][repost] = g_postsByMonth["repost"][repost] "\n" post
@@ -334,7 +294,7 @@ function writepost(    stags)
 
   file = "public\\blog\\" chapter ".html"
   if( ! (chapter in files) ) {
-    writetophtml(file, "caloni::" chapter, "months.html", 0)
+    WriteToHtml(file, "caloni::" chapter, "months.html", 0)
     files[chapter] = chapter
   }
   ssstags = ""
@@ -343,39 +303,59 @@ function writepost(    stags)
     ssstags = ssstags " <a href=\"" sstags[st] ".html\">" sstags[st] "</a>"
   }
   for( i = 0; i < totalLines; ++i ) {
-    if( content[i]["type"] != "pre" ) {
-      for( name in links ) {
-        search = "\\[" name "\\]"
-        gsub(search, links[name], content[i]["content"])
+    if( content[i]["content"] != "" ) {
+      if( content[i]["type"] != "pre" && content[i]["type"] != "blockquote" ) {
+        for( name in links ) {
+          search = "\\[" name "\\]"
+          gsub(search, links[name], content[i]["content"])
+        }
       }
-      content[i]["content"] = gensub(/\[([^\]]+)\]/, "<a href=\"posts.html?q=\\1\">\\1</a>", "g", content[i]["content"])
+
+      if( content[i]["type"] == "pre" ) {
+        content[i]["content"] = ToHtml(content[i]["content"])
+        if( content[i-1]["type"] != content[i]["type"] ) {
+          content[i]["content"] = "<" content[i]["type"] ">\n" content[i]["content"]
+        }
+        if( content[i+1]["type"] != content[i]["type"] ) {
+          content[i]["content"] = content[i]["content"] "</" content[i]["type"] ">\n"
+        }
+      } else {
+        content[i]["content"] = gensub(/\[([^\]]+)\]/, "<a href=\"posts.html?q=\\1\">\\1</a>", "g", content[i]["content"])
+      }
     }
   }
 
-  post = "<span id=\"" toid(slug) "\" title=\"" tohtml(title) "\"/></span>\n"
-  post = post "<section id=\"section-" toid(slug) "\">\n"
+  post = "<span id=\"" ToId(slug) "\" title=\"" ToHtml(title) "\"/></span>\n"
+  post = post "<section id=\"section-" ToId(slug) "\">\n"
   if( postlink != "" ) {
-    post = post "<p class=\"title\"><a href=\"" chapter ".html#" toid(slug) "\">#</a> " tohtml(title) " <a class=\"external\" href=\"" postlink "\">[link]</a></p>\n"
+    post = post "<p class=\"title\"><a href=\"" chapter ".html#" ToId(slug) "\">#</a> <a class=\"external\" href=\"" postlink "\">" ToHtml(title) "</a></p>\n"
   } else {
-    post = post "<p class=\"title\"><a href=\"" chapter ".html#" toid(slug) "\">#</a> " tohtml(title) "</p>\n"
+    post = post "<p class=\"title\"><a href=\"" chapter ".html#" ToId(slug) "\">#</a> " ToHtml(title) "</p>\n"
   }
-  post = post "<p class=\"note-title\"><small>" date " " ssstags " </small><a href=\"" chapter ".html\">^</a> <button onclick=\"copy_clipboard('section#section-" toid(slug) "')\">ctrl_c</button></p>\n"
+  post = post "<span class=\"title-heading\">Wanderley Caloni, " date
+  if( update != "" ) {
+    post = post " (updated " update ")"
+  }
+  post = post " " ssstags " <a href=\"" chapter ".html\"> "
+  post = post "<sup>[up]</sup></a> <a href=\"javascript:;\" onclick=\"copy_clipboard('section#section-" ToId(slug) "')\"><sup>[copy]</sup></a></span>\n\n"
   for( i = 1; i <= totalLines; ++i ) {
     post = post content[i]["content"]
+    if( content[i]["type"] != "pre" ) {
+      post = post "\n"
+    }
   }
-  post = post "\n"
   post = post "</section><hr/>\n"
   g_postsByMonth[chapter][date] = g_postsByMonth[chapter][date] "\n" post
-  postLink = "<li><small><a href=\"" chapter ".html#" slug "\">" tohtml(title) "</a></small></li>"
+  postLink = "<li><small><a href=\"" chapter ".html#" slug "\">" ToHtml(title) "</a></small></li>"
   g_postLinksByMonth[chapter][date] = g_postLinksByMonth[chapter][date] "\n" postLink
 
-  quickSearch[slug] = chapter ".html#" toid(slug)
+  quickSearch[slug] = chapter ".html#" ToId(slug)
 }
 
 
 /^= / {
   if( 1 in content ) {
-    writepost()
+    WritePost()
     delete content
     totalLines = 0
     slug = ""
@@ -383,6 +363,7 @@ function writepost(    stags)
     g_tags = ""
     draft = 0
     repost = ""
+    update = ""
     summary = ""
     image = ""
     delete links
@@ -402,6 +383,9 @@ function writepost(    stags)
     date = $2
     chapter = substr(date, 1, 7)
     chapters[chapter] = chapter
+  }
+  else if( $1 == ":update:" ) {
+    update = $2
   }
   else if( $1 == ":tags:" ) {
     i = 2
@@ -423,7 +407,7 @@ function writepost(    stags)
 
 
 /^[^=:]/ {
-  newLine = formatContent($0, totalLines)
+  newLine = FormatContent($0, totalLines)
   if( newLine ) {
     totalLines = newLine
     if( length(summary) < 200 ) {
@@ -472,13 +456,15 @@ END {
       print "field " posts[postIdx]["fields"][fieldIdx] > metadata
     }
     for( lineIdx = 1; lineIdx <= posts[postIdx]["totalLines"]; ++lineIdx ) {
-      print "line " posts[postIdx]["lines"][lineIdx] > metadata
+      print "paragraph " posts[postIdx]["lines"][lineIdx] > metadata
     }
   }
 }
 
 
 BEGIN {
+  Posts[0]["title"] = "Blogue do Caloni"
+
   "date" | getline currentDate
   convertLetters["Á"] = "A"
   convertLetters["À"] = "A"
@@ -502,7 +488,7 @@ BEGIN {
 
 END {
   if( 1 in content ) {
-    writepost()
+    WritePost()
   }
 
   PROCINFO["sorted_in"] = "@ind_num_asc"
@@ -513,7 +499,7 @@ END {
   }
   PROCINFO["sorted_in"] = "@ind_num_desc"
   monthshtml = "public\\blog\\months.html"
-  writetophtml(monthshtml, "caloni::months", "index.html", 0)
+  WriteToHtml(monthshtml, "caloni::months", "index.html", 0)
   lastyear = "2001"
   pChapter = "index"
   for( chapter in chapters ) {
@@ -525,17 +511,17 @@ END {
       if( lastyear != "2001" ) {
         print "</p>" > monthshtml
       }
-      print "<p id=\"" toid(chapter) "\" class=\"toc\"><strong>" year "</strong>" > monthshtml
+      print "<p id=\"" ToId(chapter) "\" class=\"toc\"><strong>" year "</strong>" > monthshtml
       lastyear = year
     }
-    print "<a href=\"" chapter ".html\"> " tohtml(mon) " </a>" > monthshtml
+    print "<a href=\"" chapter ".html\"> " ToHtml(mon) " </a>" > monthshtml
     quickSearch[chapter] = chapter ".html"
     if( ! lastmonth ) {
       lastmonth = chapter
     }
   }
   print "</p>" > monthshtml
-  writebottomhtml(monthshtml, 0)
+  WriteBottomHtml(monthshtml, 0)
   quickSearch["months"] = "months.html"
 
   PROCINFO["sorted_in"] = "@ind_num_asc"
@@ -558,19 +544,18 @@ END {
       print "</ul>" > file
     }
     print postsContent > file
-    if( f != "repost" ) {
-      writebottomhtml(file, 0, nextChapter[f] ".html", prevChapter[f] ".html")
+    if( f != "repost" && f != "drafts" ) {
+      WriteBottomHtml(file, 0, nextChapter[f] ".html", prevChapter[f] ".html")
     } else {
-      writebottomhtml(file, 1)
+      WriteBottomHtml(file, 1)
     }
   }
-  quickSearch["repost"] = "repost.html"
 
   PROCINFO["sorted_in"] = "@ind_num_desc"
   for( t in g_titlesByTagsAndDates ) {
     quickSearch[t] = t ".html"
     file = "public\\blog\\" t ".html"
-    writetophtml(file, "caloni::" t, "index.html", 1)
+    WriteToHtml(file, "caloni::" t, "index.html", 1)
     for( d in g_titlesByTagsAndDates[t] ) {
       for( title in g_titlesByTagsAndDates[t][d] ) {
         slug = titleToSlug[title]
@@ -584,16 +569,16 @@ END {
         if( slugs[slug]["image"] ) {
           print "<img src=\"img/" slugs[slug]["image"] "\"/>" > file
         }
-        print "<b><a href=\"" titleToChapter[title] ".html#" toid(slug) "\">" tohtml(title) "</a></b>" > file
+        print "<b><a href=\"" titleToChapter[title] ".html#" ToId(slug) "\">" ToHtml(title) "</a></b>" > file
         print "<small><i>" slugs[slug]["date"] ssslugTerms " " slugs[slug]["summary"] "</small></i>" > file
         print "</td></tr>" > file
       }
     }
-    writebottomhtml(file, 1)
+    WriteBottomHtml(file, 1)
   }
 
   tagshtml = "public\\blog\\tags.html"
-  writetophtml(tagshtml, "caloni::tags", "index.html", 1)
+  WriteToHtml(tagshtml, "caloni::tags", "index.html", 1)
   PROCINFO["sorted_in"] = "@ind_str_asc"
   for( t in g_titlesByTagsAndDates ) {
     titles = ""
@@ -615,61 +600,64 @@ END {
         break
       }
     }
-    print "<tr><td><b><a href=\"" t ".html" "\">" tohtml(t) "</a></b>" > tagshtml
+    print "<tr><td><b><a href=\"" t ".html" "\">" ToHtml(t) "</a></b>" > tagshtml
     print "<small><i>" titles "</small></i>" > tagshtml
     print "</td></tr>" > tagshtml
   }
-  writebottomhtml(tagshtml, 1)
+  WriteBottomHtml(tagshtml, 1)
   quickSearch["tags"] = "tags.html"
 
   postshtml = "public\\blog\\posts.html"
-  writetophtml(postshtml, "caloni::posts", "index.html", 1)
+  WriteToHtml(postshtml, "caloni::posts", "index.html", 1)
   PROCINFO["sorted_in"] = "@ind_str_desc"
   for( date in entries ) {
     for( slug in entries[date] ) {
       title = entries[date][slug]
-      split(slugs[slug]["tags"], tags)
-      stags = ""
-      for( t in tags ) {
-        stags = stags " [" tags[t] "]"
+      split(slugs[slug]["tags"], a)
+      s = ""
+      for( i in a ) {
+        s = s " [" a[i] "]"
       }
       print "<tr><td>" > postshtml
       if( slugs[slug]["image"] ) {
         print "<img src=\"img/" slugs[slug]["image"] "\"/>" > postshtml
       }
-      print "<b><a href=\"" titleToChapter[title] ".html#" toid(slug) "\">" tohtml(title) "</a></b>" > postshtml
-      print "<small><i>" slugs[slug]["date"] stags " " slugs[slug]["summary"] " " slug "</small></i>" > postshtml
+      print "<b><a href=\"" titleToChapter[title] ".html#" ToId(slug) "\">" ToHtml(title) "</a></b>" > postshtml
+      print "<small><i>" slugs[slug]["date"] s " " slugs[slug]["summary"] " " slug "</small></i>" > postshtml
       print "</td></tr>" > postshtml
     }
   }
-  writebottomhtml(postshtml, 1)
+  WriteBottomHtml(postshtml, 1)
   quickSearch["posts"] = "posts.html"
 
   indexhtml = "public\\blog\\index.html"
-  writetophtml(indexhtml, "Blogue do Caloni", "2007-06.html#_about", 0, quickSearch)
-  print "<input type=\"text\" name=\"quick_search_name\" value=\"\" id=\"quick_search\" placeholder=\"digite uma url\" style=\"width: 100%; font-size: 1.5rem; margin-top: 1em; margin-bottom: 0.5em;\" title=\"\"/></br>" > indexhtml
-  print "<big>>> <a href=\"tag_coding.html\">coding</a></big><small><i>: programação, depuração, transpiração.</small></i></br>" > indexhtml
-  print "<big>>> <a href=\"tag_movies.html\">movies</a></big><small><i>: o finado Cine Tênis Verde veio parar aqui.</small></i></br>" > indexhtml
-  print "<big>? <a id=\"quick_search_search_engine\" href=\"https://duckduckgo.com/?q=site%3Acaloni.com.br\">patopatovai</a></big><small><i>: usar um motor para buscar.</small></i></br>" > indexhtml
-  print "<big>> <a href=\"tags.html\">tags</a></big><small><i>: todos os rótulos dos postes.</small></i></br>" > indexhtml
-  print "<big>> <a href=\"" lastmonth ".html\">news</a></big><small><i>: postes publicados no último mês.</small></i></br>" > indexhtml
-  print "<big>> <a href=\"months.html\">months</a></big><small><i>: lista dos meses com postes.</small></i></br>" > indexhtml
-  print "<big>> <a href=\"posts.html\">posts</a></big><small><i>: lista com toooooooodos os postes do blogue.</small></i></br>" > indexhtml
-  print "<big>> <a href=\"repost.html\">reposts</a></big><small><i>: vale a pena postar de novo.</small></i></br>" > indexhtml
-  print "<big>> <a href=\"drafts.html\">drafts</a></big><small><i>: postes em progresso.</small></i></br>" > indexhtml
+  WriteToHtml(indexhtml, Posts[0]["title"], "2007-06.html#_about", 0, quickSearch)
+  print "<input type=\"text\" name=\"quick_search_name\" value=\"\" id=\"quick_search\" placeholder=\"&#x1F41E; digite algo / type something\" style=\"width: 100%; font-size: 1.5rem; margin-top: 1em; margin-bottom: 0.5em;\" title=\"\"/></br>" > indexhtml
+  print "<big><a href=\"tag_coding.html\">coding</a></big><small><i>: programação, depuração, transpiração.</small></i></br>" > indexhtml
+  print "<big><a href=\"tag_movies.html\">movies</a></big><small><i>: o finado Cine Tênis Verde veio parar aqui.</small></i></br>" > indexhtml
+  print "<big><a href=\"tags.html\">tags</a></big><small><i>: todos os rótulos dos postes.</small></i></br>" > indexhtml
+  print "<big><a href=\"" lastmonth ".html\">news</a></big><small><i>: postes publicados no último mês.</small></i></br>" > indexhtml
+  print "<big><a href=\"months.html\">months</a></big><small><i>: lista dos meses com postes.</small></i></br>" > indexhtml
+  print "<big><a href=\"posts.html\">posts</a></big><small><i>: lista com toooooooodos os postes do blogue.</small></i></br>" > indexhtml
+  if( "repost" in quickSearch ) {
+    print "<big><a href=\"repost.html\">reposts</a></big><small><i>: vale a pena postar de novo.</small></i></br>" > indexhtml
+  }
+  if( "drafts" in quickSearch ) {
+    print "<big><a href=\"drafts.html\">drafts</a></big><small><i>: postes em progresso.</small></i></br>" > indexhtml
+  }
   print "<div><big><span style=\"visibility: hidden; padding: 5px;\" name=\"results\" id=\"results\">...</span></big></div>" > indexhtml
   print "<table class=\"sortable\" style=\"width: 100%;\">" > indexhtml
   print "</table>" > indexhtml
-  writebottomhtml(indexhtml, 0, "", "", currentDate)
+  WriteBottomHtml(indexhtml, 0, "", "", currentDate)
 
   notfoundhtml = "public\\blog\\404.html"
-  writetophtml(notfoundhtml, "caloni::404 page not found", "posts.html", 0)
+  WriteToHtml(notfoundhtml, "caloni::404 page not found", "posts.html", 0)
   print "<div class=\"container\">" > notfoundhtml
   print "  <p class=\"title\">Opa, essa página não foi encontrada.</p>" > notfoundhtml
   print "    <div class=\"content\">" > notfoundhtml
   print "      <p>Não quer fazer uma <a href=\"/posts.html\">busca</a>? Às vezes eu mexo e remexo as coisas por aqui.</p>" > notfoundhtml
   print "    </div>" > notfoundhtml
   print "</div>" > notfoundhtml
-  writebottomhtml(notfoundhtml, 0)
+  WriteBottomHtml(notfoundhtml, 0)
 }
 

@@ -28,6 +28,7 @@ function toslug(str)
   gsub(/[#()'",;:-]/, "", str)
   gsub(/&/, "and", str)
   gsub(/!/, "", str)
+  gsub(/\?/, "", str)
   gsub(/ /, "-", str)
   return tolower(str)
 }
@@ -202,10 +203,10 @@ function formatContent(content)
       break
     }
 
-    if( index(content, "{{< image src=") == 1 ) {
-      newImage = gensub(/.*{{< image src="([^"]+)".*/, "img/" slug "-\\1", "g", content)
+    if( index(content, "image::") == 1 ) {
+      newImage = gensub(/image::(.*)\[.*\]/, "img/" slug "-\\1", "g", content)
       g_postImages[newImage] = newImage
-      content = gensub(/{{< image src="([^"]+)".*>}}/, "<img src=\"img/" slug "-\\1\"/>", "g", content)
+      content = gensub(/image::(.*)\[.*\]/, "<img src=\"img/" slug "-\\1\"/>", "g", content)
       break
     }
 
@@ -378,10 +379,10 @@ END {
   print "<navPoint id=\"cover\" playOrder=\"1\"><navLabel><text>Cover</text></navLabel><content src=\"cover.xhtml\"/></navPoint>" > tocncx
   print "<navPoint id=\"toc\" playOrder=\"2\"><navLabel><text>Contents</text></navLabel><content src=\"toc.xhtml\"/></navPoint>" > tocncx
   playOrder = 2
-  for( chapter in chapters ) {
-    print "<navPoint playOrder=\"" ++playOrder "\" id=\"" toid(chapter) "\"><navLabel><text>" tohtml(chapter) "</text></navLabel>\
-      <content src=\"" toid(chapter) ".xhtml\"/></navPoint>" > tocncx
-  }
+  #for( chapter in chapters ) {
+  #  print "<navPoint playOrder=\"" ++playOrder "\" id=\"" toid(chapter) "\"><navLabel><text>" tohtml(chapter) "</text></navLabel>\
+  #    <content src=\"" toid(chapter) ".xhtml\"/></navPoint>" > tocncx
+  #}
   print "</navMap>" > tocncx
   print "</ncx>" > tocncx
 
@@ -457,9 +458,9 @@ END {
   print "<nav epub:type=\"toc\">" > ncxhtml
   print "<h2>Contents</h2>" > ncxhtml
   print "<ol epub:type=\"list\">" > ncxhtml
-  for( chapter in chapters ) {
-    print "<li><a href=\"" toid(chapter) ".xhtml\">" tohtml(chapter) "</a></li>" > ncxhtml
-  }
+  #for( chapter in chapters ) {
+  #  print "<li><a href=\"" toid(chapter) ".xhtml\">" tohtml(chapter) "</a></li>" > ncxhtml
+  #}
   print "<li><a href=\"index.xhtml\">Index</a></li>" > ncxhtml
   print "</ol>" > ncxhtml
   print "</nav>" > ncxhtml
