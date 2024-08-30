@@ -19,12 +19,12 @@ function ToSlug(s)
 }
 
 
-function ToHtml(str)
+function ToHtml(s)
 {
-  gsub(/&/, "&amp;", str)
-  gsub(/</, "\\&lt;", str)
-  gsub(/>/, "\\&gt;", str)
-  return str
+  gsub(/&/, "&amp;", s)
+  gsub(/</, "\\&lt;", s)
+  gsub(/>/, "\\&gt;", s)
+  return s
 }
 
 
@@ -124,51 +124,55 @@ function WriteBottomHtml(file, filter, nextLink, prevLink, version)
 }
 
 
-function FormatContent(line, lastLine)
+function FormatContent(line, lastLine,    prefix, suffix, paragraph, newLine, type, headerLevel, endName, name, link)
 {
   prefix = ""
   suffix = "\n"
   paragraph = 1
   newLine = 0
   type = ""
+  headerLevel = 0
+  endName = 0
+  name = ""
+  link = ""
 
   do {
     if( index(line, "```") == 1 ) {
       line = ""
-      if( contentState["```"] ) {
-        contentState["```"] = 0
+      if( ContentState["```"] ) {
+        ContentState["```"] = 0
       } else {
-        contentState["```"] = 1
+        ContentState["```"] = 1
       }
       return 0
-    } else if( contentState["```"] ) {
+    } else if( ContentState["```"] ) {
       type = "pre"
       break
     }
 
     if( line ~ /^    / ) {
       sub(/^ /, "", line)
-      if( ! contentState[" "] ) {
-        contentState[" "] = 1
+      if( ! ContentState[" "] ) {
+        ContentState[" "] = 1
       }
       type = "pre"
       break
-    } else if ( contentState[" "] ) {
-        contentState[" "] = 0
+    } else if ( ContentState[" "] ) {
+        ContentState[" "] = 0
     }
 
     if( line ~ /^ *- */ ) {
       line = gensub(/ *- *(.*)/, "\\1", "g", line)
-      if( ! contentState["-"] ) {
+      if( ! ContentState["-"] ) {
         prefix = prefix "<ul>"
-        contentState["-"] = 1
+        ContentState["-"] = 1
       }
       prefix = prefix "<li>"
       suffix = "</li>" suffix
       paragraph = 0
-    } else if ( contentState["-"] ) {
+    } else if ( ContentState["-"] ) {
         prefix = "</ul>\n"
-        contentState["-"] = 0
+        ContentState["-"] = 0
     }
 
     if( line ~ /^>/ ) {
@@ -361,6 +365,13 @@ function FlushNewPost(    date, chapter, tags, post)
 }
 
 
+
+BEGIN {
+  Blog["title"] = "Blogue do Caloni"
+  "date" | getline Blog["build"]
+}
+
+
 /^= / {
   if( "title" in NewPost ) {
     FlushNewPost()
@@ -371,9 +382,9 @@ function FlushNewPost(    date, chapter, tags, post)
 
 
 /^[^=:]/ {
-  newLine = FormatContent($0, NewPost["totalLines"])
-  if( newLine ) {
-    NewPost["totalLines"] = newLine
+  i = FormatContent($0, NewPost["totalLines"])
+  if( i ) {
+    NewPost["totalLines"] = i
     if( length(NewPost["summary"]) < 200 ) {
       if( index($0, "{{") == 0 && index($0, "```") == 0 ) {
         NewPost["summary"] = NewPost["summary"] " " $0
@@ -390,12 +401,6 @@ $1 == ":repost:" { NewPost["repost"] = $2 }
 $1 == ":slug:" { NewPost["slug"] = $2 }
 $1 == ":tags:" { $1 = "" ; NewPost["tags"] = $0 }
 $1 == ":update:" { NewPost["update"] = $2 }
-
-
-BEGIN {
-  Blog["title"] = "Blogue do Caloni"
-  "date" | getline Blog["build"]
-}
 
 
 END {
