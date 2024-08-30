@@ -3,8 +3,12 @@
 # 2024-08-30
 
 BEGIN {
+  Blog["author"] = "Caloni"
+  Blog["author-image"] = "/img/about-author.jpg"
   "date" | getline Blog["build"]
+  Blog["description"] = "Write for computers, people and food."
   Blog["generator"] = "txt2blog 0.0.1"
+  Blog["link"] = "http://www.caloni.com.br"
   Blog["title"] = "Blogue do Caloni"
 }
 
@@ -34,7 +38,7 @@ function ToHtml(s)
 }
 
 
-function WriteToHtml(file, title, backLink, filter, quickSearch)
+function WriteToHtml(file, title, backLink, filter, quickSearch,    originalSort)
 {
   print "<!DOCTYPE html>" > file
   print "<html lang=\"en-us\" dir=\"ltr\" itemscope itemtype=\"http://schema.org/Article\">" > file
@@ -42,30 +46,27 @@ function WriteToHtml(file, title, backLink, filter, quickSearch)
   print "<meta charset=\"utf-8\" />" > file
   print "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/>" > file
   print "<title>" Blog["title"] "</title>" > file
-  print "<meta name=\"author\" content=\"\" />" > file
+  print "<meta name=\"author\" content=\"" Blog["author"] "\" />" > file
   print "<meta name=\"generator\" content=\"" Blog["generator"] "\">" > file
   print "<meta property=\"og:title\" content=\"" Blog["title"] "\"/>" > file
   print "<meta property=\"og:type\" content=\"website\"/>" > file
-  print "<meta property=\"og:url\" content=\"http://www.caloni.com.br/\"/>" > file
-  print "<meta property=\"og:image\" content=\"/img/author.jpg\"/>" > file
-  print "<meta property=\"og:description\" content=\"\"/>" > file
+  print "<meta property=\"og:url\" content=\"" Blog["link"] "\"/>" > file
+  print "<meta property=\"og:image\" content=\"" Blog["author-image"] "\"/>" > file
+  print "<meta property=\"og:description\" content=\"" Blog["description"] "\"/>" > file
   print "<link href=\"/index.xml\" rel=\"feed\" type=\"application/rss+xml\" title=\"" Blog["title"] "\"/>" > file
   print "<link rel=\"stylesheet\" type=\"text/css\" href=\"/css/custom.css\"/>" > file
   print "<link rel=\"stylesheet\" type=\"text/css\" href=\"/css/jquery-ui.css\"/>" > file
-  print "<link rel=\"stylesheet\" type=\"text/css\" href=\"/css/board-min.css\"/>" > file
   print "<script src=\"/js/jquery-1.12.4.js\"></script>" > file
   print "<script src=\"/js/jquery-ui.js\"></script>" > file
-  print "<script src=\"/js/pgnyui.js\"></script>" > file
-  print "<script src=\"/js/pgnviewer.js\"></script>" > file
   print "<script src=\"/js/copy_clipboard.js\"></script>" > file
   print "<script>" > file
   print "var quick_search_posts = [ " > file
-  s = PROCINFO["sorted_in"]
+  originalSort = PROCINFO["sorted_in"]
   PROCINFO["sorted_in"] = "@ind_str_asc"
   for( i in quickSearch ) {
     print "\"" quickSearch[i] "\"," > file
   }
-  PROCINFO["sorted_in"] = s
+  PROCINFO["sorted_in"] = originalSort
   print " ]; " > file
   print "</script>" > file
   print "<script src=\"/js/quick_search.js\"></script>" > file
