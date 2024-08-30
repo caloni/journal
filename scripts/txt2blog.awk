@@ -230,8 +230,8 @@ function FormatContent(line, lastLine)
     }
 
     if( index(line, "image::") == 1 ) {
-      image = gensub(/image::(.*)\[.*\]/, slug "-\\1", "g", line)
-      line = gensub(/image::(.*)\[.*\]/, "<img src=\"img/" slug "-\\1\"/>", "g", line)
+      image = gensub(/image::(.*)\[.*\]/, NewPost["slug"] "-\\1", "g", line)
+      line = gensub(/image::(.*)\[.*\]/, "<img src=\"img/" NewPost["slug"] "-\\1\"/>", "g", line)
       type = "img"
       break
     }
@@ -259,13 +259,10 @@ function FormatContent(line, lastLine)
 function FlushNewPost()
 {
   ++postCount
-  if( slug == "" ) {
-    slug = ToSlug(NewPost["title"])
-  }
-  entries[date][slug] = NewPost["title"]
+  entries[date][NewPost["slug"]] = NewPost["title"]
 
   if( draft ) {
-    draftToSlug[NewPost["title"]] = slug
+    draftToSlug[NewPost["title"]] = NewPost["slug"]
     chapter = "drafts"
     quickSearch["drafts"] = "drafts.html"
   }
@@ -277,13 +274,13 @@ function FlushNewPost()
     g_titlesByTagsAndDates[a[t]][date][NewPost["title"]] = NewPost["title"]
     repostTags = repostTags " [" a[t] "]"
   }
-  slugs[slug]["slug"] = slug
-  slugs[slug]["title"] = NewPost["title"]
-  slugs[slug]["date"] = date
-  slugs[slug]["summary"] = summary
-  slugs[slug]["tags"] = g_tags
-  slugs[slug]["image"] = image
-  titleToSlug[NewPost["title"]] = slug
+  slugs[NewPost["slug"]]["slug"] = NewPost["slug"]
+  slugs[NewPost["slug"]]["title"] = NewPost["title"]
+  slugs[NewPost["slug"]]["date"] = date
+  slugs[NewPost["slug"]]["summary"] = summary
+  slugs[NewPost["slug"]]["tags"] = g_tags
+  slugs[NewPost["slug"]]["image"] = image
+  titleToSlug[NewPost["title"]] = NewPost["slug"]
   titleToChapter[NewPost["title"]] = chapter
 
   if ( repost != "" ) {
@@ -293,7 +290,7 @@ function FlushNewPost()
       WriteToHtml(file, "caloni::repost", "index.html", 1)
       files["repost"] = "repost"
     }
-    post = "<tr><td><b><a href=\"" chapter ".html#" ToId(slug) "\">" ToHtml(NewPost["title"]) "</a></b>\n"
+    post = "<tr><td><b><a href=\"" chapter ".html#" ToId(NewPost["slug"]) "\">" ToHtml(NewPost["title"]) "</a></b>\n"
     post = post "<small><i>" repost " [" date "] " repostTags " " summary "</small></i>\n"
     post = post "</td></tr>\n"
     g_postsByMonth["repost"][repost] = g_postsByMonth["repost"][repost] "\n" post
@@ -332,19 +329,19 @@ function FlushNewPost()
     }
   }
 
-  post = "<span id=\"" ToId(slug) "\" title=\"" ToHtml(NewPost["title"]) "\"/></span>\n"
-  post = post "<section id=\"section-" ToId(slug) "\">\n"
+  post = "<span id=\"" ToId(NewPost["slug"]) "\" title=\"" ToHtml(NewPost["title"]) "\"/></span>\n"
+  post = post "<section id=\"section-" ToId(NewPost["slug"]) "\">\n"
   if( postlink != "" ) {
-    post = post "<p class=\"title\"><a href=\"" chapter ".html#" ToId(slug) "\">#</a> <a class=\"external\" href=\"" postlink "\">" ToHtml(NewPost["title"]) "</a></p>\n"
+    post = post "<p class=\"title\"><a href=\"" chapter ".html#" ToId(NewPost["slug"]) "\">#</a> <a class=\"external\" href=\"" postlink "\">" ToHtml(NewPost["title"]) "</a></p>\n"
   } else {
-    post = post "<p class=\"title\"><a href=\"" chapter ".html#" ToId(slug) "\">#</a> " ToHtml(NewPost["title"]) "</p>\n"
+    post = post "<p class=\"title\"><a href=\"" chapter ".html#" ToId(NewPost["slug"]) "\">#</a> " ToHtml(NewPost["title"]) "</p>\n"
   }
   post = post "<span class=\"title-heading\">Wanderley Caloni, " date
   if( update != "" ) {
     post = post " (updated " update ")"
   }
   post = post " " ssstags " <a href=\"" chapter ".html\"> "
-  post = post "<sup>[up]</sup></a> <a href=\"javascript:;\" onclick=\"copy_clipboard('section#section-" ToId(slug) "')\"><sup>[copy]</sup></a></span>\n\n"
+  post = post "<sup>[up]</sup></a> <a href=\"javascript:;\" onclick=\"copy_clipboard('section#section-" ToId(NewPost["slug"]) "')\"><sup>[copy]</sup></a></span>\n\n"
   for( i in NewPost["lines"] ) {
     post = post NewPost["lines"][i]["content"]
     if( NewPost["lines"][i]["type"] != "pre" ) {
@@ -353,10 +350,10 @@ function FlushNewPost()
   }
   post = post "</section><hr/>\n"
   g_postsByMonth[chapter][date] = g_postsByMonth[chapter][date] "\n" post
-  postLink = "<li><small><a href=\"" chapter ".html#" slug "\">" ToHtml(NewPost["title"]) "</a></small></li>"
+  postLink = "<li><small><a href=\"" chapter ".html#" NewPost["slug"] "\">" ToHtml(NewPost["title"]) "</a></small></li>"
   g_postLinksByMonth[chapter][date] = g_postLinksByMonth[chapter][date] "\n" postLink
 
-  quickSearch[slug] = chapter ".html#" ToId(slug)
+  quickSearch[NewPost["slug"]] = chapter ".html#" ToId(NewPost["slug"])
   delete NewPost
 }
 
@@ -365,7 +362,6 @@ function FlushNewPost()
   if( "title" in NewPost ) {
     FlushNewPost()
     totalLines = 0
-    slug = ""
     postlink = ""
     g_tags = ""
     draft = 0
@@ -376,12 +372,13 @@ function FlushNewPost()
     delete links
   }
   NewPost["title"] = substr($0, 3)
+  NewPost["slug"] = ToSlug(NewPost["title"])
 }
 
 
 /^:/ {
   if( $1 == ":slug:" ) {
-    slug = $2
+    NewPost["slug"] = $2
   }
   else if( $1 == ":link:" ) {
     postlink = $2
