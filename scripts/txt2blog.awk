@@ -223,14 +223,14 @@ function FormatContent(line, lastLine)
         link = "<a href=\"" link "\">" name "</a>"
       }
 
-      links[name] = link
+      NewPost["links"][name] = link
       line = ""
       type = "link"
       break
     }
 
     if( index(line, "image::") == 1 ) {
-      image = gensub(/image::(.*)\[.*\]/, NewPost["slug"] "-\\1", "g", line)
+      NewPost["image"] = gensub(/image::(.*)\[.*\]/, NewPost["slug"] "-\\1", "g", line)
       line = gensub(/image::(.*)\[.*\]/, "<img src=\"img/" NewPost["slug"] "-\\1\"/>", "g", line)
       type = "img"
       break
@@ -261,14 +261,14 @@ function FlushNewPost()
   ++postCount
   entries[date][NewPost["slug"]] = NewPost["title"]
 
-  if( draft ) {
+  if( "draft" in NewPost ) {
     draftToSlug[NewPost["title"]] = NewPost["slug"]
     chapter = "drafts"
     quickSearch["drafts"] = "drafts.html"
   }
 
   repostTags = ""
-  split(g_tags, a)
+  split(NewPost["tags"], a)
   for( t in a ) {
     g_titlesByTags[a[t]][NewPost["title"]] = NewPost["title"]
     g_titlesByTagsAndDates[a[t]][date][NewPost["title"]] = NewPost["title"]
@@ -277,13 +277,13 @@ function FlushNewPost()
   slugs[NewPost["slug"]]["slug"] = NewPost["slug"]
   slugs[NewPost["slug"]]["title"] = NewPost["title"]
   slugs[NewPost["slug"]]["date"] = date
-  slugs[NewPost["slug"]]["summary"] = summary
-  slugs[NewPost["slug"]]["tags"] = g_tags
-  slugs[NewPost["slug"]]["image"] = image
+  slugs[NewPost["slug"]]["summary"] = NewPost["summary"]
+  slugs[NewPost["slug"]]["tags"] = NewPost["tags"]
+  slugs[NewPost["slug"]]["image"] = NewPost["image"]
   titleToSlug[NewPost["title"]] = NewPost["slug"]
   titleToChapter[NewPost["title"]] = chapter
 
-  if ( repost != "" ) {
+  if ( "repost" in NewPost ) {
     quickSearch["repost"] = "repost.html"
     file = "public\\blog\\repost.html"
     if( ! ("repost" in files) ) {
@@ -291,9 +291,9 @@ function FlushNewPost()
       files["repost"] = "repost"
     }
     post = "<tr><td><b><a href=\"" chapter ".html#" ToId(NewPost["slug"]) "\">" ToHtml(NewPost["title"]) "</a></b>\n"
-    post = post "<small><i>" repost " [" date "] " repostTags " " summary "</small></i>\n"
+    post = post "<small><i>" NewPost["repost"] " [" date "] " repostTags " " NewPost["summary"] "</small></i>\n"
     post = post "</td></tr>\n"
-    g_postsByMonth["repost"][repost] = g_postsByMonth["repost"][repost] "\n" post
+    g_postsByMonth["repost"][NewPost["repost"]] = g_postsByMonth["repost"][NewPost["repost"]] "\n" post
   }
 
   file = "public\\blog\\" chapter ".html"
@@ -302,16 +302,18 @@ function FlushNewPost()
     files[chapter] = chapter
   }
   ssstags = ""
-  split(g_tags, sstags)
+  split(NewPost["tags"], sstags)
   for( st in sstags ) {
     ssstags = ssstags " <a href=\"" sstags[st] ".html\">" sstags[st] "</a>"
   }
   for( i in NewPost["lines"] ) {
     if( NewPost["lines"][i]["content"] != "" ) {
       if( NewPost["lines"][i]["type"] != "pre" && NewPost["lines"][i]["type"] != "blockquote" ) {
-        for( name in links ) {
-          search = "\\[" name "\\]"
-          gsub(search, links[name], NewPost["lines"][i]["content"])
+        if( "links" in NewPost ) {
+          for( name in NewPost["links"] ) {
+            search = "\\[" name "\\]"
+            gsub(search, NewPost["links"][name], NewPost["lines"][i]["content"])
+          }
         }
       }
 
@@ -331,14 +333,14 @@ function FlushNewPost()
 
   post = "<span id=\"" ToId(NewPost["slug"]) "\" title=\"" ToHtml(NewPost["title"]) "\"/></span>\n"
   post = post "<section id=\"section-" ToId(NewPost["slug"]) "\">\n"
-  if( postlink != "" ) {
-    post = post "<p class=\"title\"><a href=\"" chapter ".html#" ToId(NewPost["slug"]) "\">#</a> <a class=\"external\" href=\"" postlink "\">" ToHtml(NewPost["title"]) "</a></p>\n"
+  if( "link" in NewPost ) {
+    post = post "<p class=\"title\"><a href=\"" chapter ".html#" ToId(NewPost["slug"]) "\">#</a> <a class=\"external\" href=\"" NewPost["link"] "\">" ToHtml(NewPost["title"]) "</a></p>\n"
   } else {
     post = post "<p class=\"title\"><a href=\"" chapter ".html#" ToId(NewPost["slug"]) "\">#</a> " ToHtml(NewPost["title"]) "</p>\n"
   }
   post = post "<span class=\"title-heading\">Wanderley Caloni, " date
-  if( update != "" ) {
-    post = post " (updated " update ")"
+  if( "update" in NewPost ) {
+    post = post " (updated " NewPost["update"] ")"
   }
   post = post " " ssstags " <a href=\"" chapter ".html\"> "
   post = post "<sup>[up]</sup></a> <a href=\"javascript:;\" onclick=\"copy_clipboard('section#section-" ToId(NewPost["slug"]) "')\"><sup>[copy]</sup></a></span>\n\n"
@@ -350,8 +352,8 @@ function FlushNewPost()
   }
   post = post "</section><hr/>\n"
   g_postsByMonth[chapter][date] = g_postsByMonth[chapter][date] "\n" post
-  postLink = "<li><small><a href=\"" chapter ".html#" NewPost["slug"] "\">" ToHtml(NewPost["title"]) "</a></small></li>"
-  g_postLinksByMonth[chapter][date] = g_postLinksByMonth[chapter][date] "\n" postLink
+  NewPost["link"] = "<li><small><a href=\"" chapter ".html#" NewPost["slug"] "\">" ToHtml(NewPost["title"]) "</a></small></li>"
+  g_postLinksByMonth[chapter][date] = g_postLinksByMonth[chapter][date] "\n" NewPost["link"]
 
   quickSearch[NewPost["slug"]] = chapter ".html#" ToId(NewPost["slug"])
   delete NewPost
@@ -361,14 +363,6 @@ function FlushNewPost()
 /^= / {
   if( "title" in NewPost ) {
     FlushNewPost()
-    postlink = ""
-    g_tags = ""
-    draft = 0
-    repost = ""
-    update = ""
-    summary = ""
-    image = ""
-    delete links
   }
   NewPost["title"] = substr($0, 3)
   NewPost["slug"] = ToSlug(NewPost["title"])
@@ -380,7 +374,7 @@ function FlushNewPost()
     NewPost["slug"] = $2
   }
   else if( $1 == ":link:" ) {
-    postlink = $2
+    NewPost["link"] = $2
   }
   else if( $1 == ":date:" ) {
     date = $2
@@ -388,23 +382,23 @@ function FlushNewPost()
     chapters[chapter] = chapter
   }
   else if( $1 == ":update:" ) {
-    update = $2
+    NewPost["update"] = $2
   }
   else if( $1 == ":tags:" ) {
     i = 2
     while( i <= NF ) {
       tag = $i
       if( tag != "null" ) {
-        g_tags = g_tags " " tag
+        NewPost["tags"] = NewPost["tags"] " " tag
       }
       ++i
     }
   }
   else if( $1 == ":draft:" ) {
-    draft = 1
+    NewPost["draft"] = 1
   }
   else if( $1 == ":repost:" ) {
-    repost = $2
+    NewPost["repost"] = $2
   }
 }
 
@@ -413,9 +407,9 @@ function FlushNewPost()
   newLine = FormatContent($0, NewPost["totalLines"])
   if( newLine ) {
     NewPost["totalLines"] = newLine
-    if( length(summary) < 200 ) {
+    if( length(NewPost["summary"]) < 200 ) {
       if( index($0, "{{") == 0 && index($0, "```") == 0 ) {
-        summary = summary " " $0
+        NewPost["summary"] = NewPost["summary"] " " $0
       }
     }
   }
