@@ -397,24 +397,6 @@ $1 == ":update:" { NewPost["update"] = $2 }
 BEGIN {
   Blog["title"] = "Blogue do Caloni"
   "date" | getline Blog["build"]
-
-  convertLetters["Á"] = "A"
-  convertLetters["À"] = "A"
-  convertLetters["Â"] = "A"
-  convertLetters["Ã"] = "A"
-  convertLetters["É"] = "E"
-  convertLetters["Ê"] = "E"
-  convertLetters["Ê"] = "E"
-  convertLetters["Ô"] = "O"
-  convertLetters["Õ"] = "O"
-  convertLetters["Ó"] = "O"
-  convertLetters["Ú"] = "U"
-  convertLetters["Í"] = "I"
-  convertLetters["Ï"] = "I"
-  convertLetters["("] = "#"
-  convertLetters[")"] = "#"
-  convertLetters["'"] = "#"
-  convertLetters["\""] = "#"
 }
 
 
