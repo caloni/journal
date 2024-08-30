@@ -1,3 +1,8 @@
+# Transform pseudo-markdown text to html blog posts.
+# Wanderley Caloni <wanderley.caloni@gmail.com>
+# 2024-08-29 v. 0.0.1
+
+
 function ToId(str)
 {
   return str
@@ -115,7 +120,9 @@ function WriteBottomHtml(file, filter, nextLink, prevLink, version)
   print "</section>" > file
   print "<footer class=\"footer\">" > file
   print "<div class=\"container\">" > file
-  print "<p><small><i>" version "</i></small></p>" > file
+  if( version ) {
+    print "<p><small><i>" version "</i></small></p>" > file
+  }
   print "</div>" > file
   print "</footer>" > file
   print "</body>" > file
@@ -421,8 +428,8 @@ function WritePost()
 
 BEGIN {
   Blog["title"] = "Blogue do Caloni"
+  "date" | getline Blog["build"]
 
-  "date" | getline currentDate
   convertLetters["Á"] = "A"
   convertLetters["À"] = "A"
   convertLetters["Â"] = "A"
@@ -605,7 +612,7 @@ END {
   print "<div><big><span style=\"visibility: hidden; padding: 5px;\" name=\"results\" id=\"results\">...</span></big></div>" > indexhtml
   print "<table class=\"sortable\" style=\"width: 100%;\">" > indexhtml
   print "</table>" > indexhtml
-  WriteBottomHtml(indexhtml, 0, "", "", currentDate)
+  WriteBottomHtml(indexhtml, 0, "", "", Blog["build"])
 
   notfoundhtml = "public\\blog\\404.html"
   WriteToHtml(notfoundhtml, "caloni::404 page not found", "posts.html", 0)
