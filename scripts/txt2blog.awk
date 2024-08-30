@@ -1,6 +1,12 @@
 # Transform pseudo-markdown text to html blog posts.
 # Wanderley Caloni <wanderley.caloni@gmail.com>
-# 2024-08-29 v. 0.0.1
+# 2024-08-30
+
+BEGIN {
+  "date" | getline Blog["build"]
+  Blog["generator"] = "txt2blog 0.0.1"
+  Blog["title"] = "Blogue do Caloni"
+}
 
 
 function ToSlug(s)
@@ -37,7 +43,7 @@ function WriteToHtml(file, title, backLink, filter, quickSearch)
   print "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/>" > file
   print "<title>" Blog["title"] "</title>" > file
   print "<meta name=\"author\" content=\"\" />" > file
-  print "<meta name=\"generator\" content=\"Hugo 0.110.0\">" > file
+  print "<meta name=\"generator\" content=\"" Blog["generator"] "\">" > file
   print "<meta property=\"og:title\" content=\"" Blog["title"] "\"/>" > file
   print "<meta property=\"og:type\" content=\"website\"/>" > file
   print "<meta property=\"og:url\" content=\"http://www.caloni.com.br/\"/>" > file
@@ -363,13 +369,6 @@ function FlushNewPost(    date, chapter, tags, post)
   QuickSearch[NewPost["slug"]] = chapter ".html#" NewPost["slug"]
   delete NewPost
   NewPost["date"] = date
-}
-
-
-
-BEGIN {
-  Blog["title"] = "Blogue do Caloni"
-  "date" | getline Blog["build"]
 }
 
 
