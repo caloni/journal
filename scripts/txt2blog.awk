@@ -273,12 +273,12 @@ function FlushNewPost()
     TitlesByTagsAndDates[a[t]][date][NewPost["title"]] = NewPost["title"]
     repostTags = repostTags " [" a[t] "]"
   }
-  slugs[NewPost["slug"]]["slug"] = NewPost["slug"]
-  slugs[NewPost["slug"]]["title"] = NewPost["title"]
-  slugs[NewPost["slug"]]["date"] = date
-  slugs[NewPost["slug"]]["summary"] = NewPost["summary"]
-  slugs[NewPost["slug"]]["tags"] = NewPost["tags"]
-  slugs[NewPost["slug"]]["image"] = NewPost["image"]
+  Index[NewPost["slug"]]["slug"] = NewPost["slug"]
+  Index[NewPost["slug"]]["title"] = NewPost["title"]
+  Index[NewPost["slug"]]["date"] = date
+  Index[NewPost["slug"]]["summary"] = NewPost["summary"]
+  Index[NewPost["slug"]]["tags"] = NewPost["tags"]
+  Index[NewPost["slug"]]["image"] = NewPost["image"]
   titleToSlug[NewPost["title"]] = NewPost["slug"]
   titleToChapter[NewPost["title"]] = chapter
 
@@ -473,18 +473,18 @@ END {
     for( d in TitlesByTagsAndDates[t] ) {
       for( title in TitlesByTagsAndDates[t][d] ) {
         slug = titleToSlug[title]
-        slugTerms = slugs[slug]["tags"] 
+        slugTerms = Index[slug]["tags"] 
         split(slugTerms, sslugTerms)
         ssslugTerms = ""
         for( st in sslugTerms ) {
           ssslugTerms = ssslugTerms " [" sslugTerms[st] "]"
         }
         print "<tr><td>" > file
-        if( slugs[slug]["image"] ) {
-          print "<img src=\"img/" slugs[slug]["image"] "\"/>" > file
+        if( Index[slug]["image"] ) {
+          print "<img src=\"img/" Index[slug]["image"] "\"/>" > file
         }
         print "<b><a href=\"" titleToChapter[title] ".html#" ToId(slug) "\">" ToHtml(title) "</a></b>" > file
-        print "<small><i>" slugs[slug]["date"] ssslugTerms " " slugs[slug]["summary"] "</small></i>" > file
+        print "<small><i>" Index[slug]["date"] ssslugTerms " " Index[slug]["summary"] "</small></i>" > file
         print "</td></tr>" > file
       }
     }
@@ -527,17 +527,17 @@ END {
   for( date in entries ) {
     for( slug in entries[date] ) {
       title = entries[date][slug]
-      split(slugs[slug]["tags"], a)
+      split(Index[slug]["tags"], a)
       s = ""
       for( i in a ) {
         s = s " [" a[i] "]"
       }
       print "<tr><td>" > postshtml
-      if( slugs[slug]["image"] ) {
-        print "<img src=\"img/" slugs[slug]["image"] "\"/>" > postshtml
+      if( Index[slug]["image"] ) {
+        print "<img src=\"img/" Index[slug]["image"] "\"/>" > postshtml
       }
       print "<b><a href=\"" titleToChapter[title] ".html#" ToId(slug) "\">" ToHtml(title) "</a></b>" > postshtml
-      print "<small><i>" slugs[slug]["date"] s " " slugs[slug]["summary"] " " slug "</small></i>" > postshtml
+      print "<small><i>" Index[slug]["date"] s " " Index[slug]["summary"] " " slug "</small></i>" > postshtml
       print "</td></tr>" > postshtml
     }
   }
