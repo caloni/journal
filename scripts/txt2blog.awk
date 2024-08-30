@@ -3,25 +3,19 @@
 # 2024-08-29 v. 0.0.1
 
 
-function ToId(str)
+function ToSlug(s)
 {
-  return str
-}
-
-
-function ToSlug(str)
-{
-  gsub(/[ÁÀÂÃáàâã]/, "a", str)
-  gsub(/[ÉÊÊéêê]/, "e", str)
-  gsub(/[ÔÕÓôõó]/, "o", str)
-  gsub(/[Úú]/, "u", str)
-  gsub(/[ÍÏíï]/, "i", str)
-  gsub(/[#()'",;:-]/, "", str)
-  gsub(/&/, "and", str)
-  gsub(/!/, "", str)
-  gsub(/\?/, "", str)
-  gsub(/ /, "-", str)
-  return tolower(str)
+  gsub(/[ÁÀÂÃáàâã]/, "a", s)
+  gsub(/[ÉÊÊéêê]/, "e", s)
+  gsub(/[ÔÕÓôõó]/, "o", s)
+  gsub(/[Úú]/, "u", s)
+  gsub(/[ÍÏíï]/, "i", s)
+  gsub(/[#()'",;:-]/, "", s)
+  gsub(/&/, "and", s)
+  gsub(/!/, "", s)
+  gsub(/\?/, "", s)
+  gsub(/ /, "-", s)
+  return tolower(s)
 }
 
 
@@ -293,7 +287,7 @@ function FlushNewPost(    date, chapter, tags, post)
       WriteToHtml(file, "caloni::repost", "index.html", 1)
       Files["repost"] = "repost"
     }
-    post = "<tr><td><b><a href=\"" chapter ".html#" ToId(NewPost["slug"]) "\">" ToHtml(NewPost["title"]) "</a></b>\n"
+    post = "<tr><td><b><a href=\"" chapter ".html#" NewPost["slug"] "\">" ToHtml(NewPost["title"]) "</a></b>\n"
     post = post "<small><i>" NewPost["repost"] " [" date "] "
     for( i in tags ) {
       post = post " [" tags[i] "]"
@@ -333,12 +327,12 @@ function FlushNewPost(    date, chapter, tags, post)
     }
   }
 
-  post = "<span id=\"" ToId(NewPost["slug"]) "\" title=\"" ToHtml(NewPost["title"]) "\"/></span>\n"
-  post = post "<section id=\"section-" ToId(NewPost["slug"]) "\">\n"
+  post = "<span id=\"" NewPost["slug"] "\" title=\"" ToHtml(NewPost["title"]) "\"/></span>\n"
+  post = post "<section id=\"section-" NewPost["slug"] "\">\n"
   if( "link" in NewPost ) {
-    post = post "<p class=\"title\"><a href=\"" chapter ".html#" ToId(NewPost["slug"]) "\">#</a> <a class=\"external\" href=\"" NewPost["link"] "\">" ToHtml(NewPost["title"]) "</a></p>\n"
+    post = post "<p class=\"title\"><a href=\"" chapter ".html#" NewPost["slug"] "\">#</a> <a class=\"external\" href=\"" NewPost["link"] "\">" ToHtml(NewPost["title"]) "</a></p>\n"
   } else {
-    post = post "<p class=\"title\"><a href=\"" chapter ".html#" ToId(NewPost["slug"]) "\">#</a> " ToHtml(NewPost["title"]) "</p>\n"
+    post = post "<p class=\"title\"><a href=\"" chapter ".html#" NewPost["slug"] "\">#</a> " ToHtml(NewPost["title"]) "</p>\n"
   }
   post = post "<span class=\"title-heading\">Wanderley Caloni, " date
   if( "update" in NewPost ) {
@@ -349,7 +343,7 @@ function FlushNewPost(    date, chapter, tags, post)
     post = post " <a href=\"" tags[i] ".html\">" tags[i] "</a>"
   }
   post = post " <a href=\"" chapter ".html\"> "
-  post = post "<sup>[up]</sup></a> <a href=\"javascript:;\" onclick=\"copy_clipboard('section#section-" ToId(NewPost["slug"]) "')\"><sup>[copy]</sup></a></span>\n\n"
+  post = post "<sup>[up]</sup></a> <a href=\"javascript:;\" onclick=\"copy_clipboard('section#section-" NewPost["slug"] "')\"><sup>[copy]</sup></a></span>\n\n"
   for( i in NewPost["lines"] ) {
     post = post NewPost["lines"][i]["content"]
     if( NewPost["lines"][i]["type"] != "pre" ) {
@@ -361,7 +355,7 @@ function FlushNewPost(    date, chapter, tags, post)
   NewPost["link"] = "<li><small><a href=\"" chapter ".html#" NewPost["slug"] "\">" ToHtml(NewPost["title"]) "</a></small></li>"
   PostLinksByMonth[chapter][date] = PostLinksByMonth[chapter][date] "\n" NewPost["link"]
 
-  QuickSearch[NewPost["slug"]] = chapter ".html#" ToId(NewPost["slug"])
+  QuickSearch[NewPost["slug"]] = chapter ".html#" NewPost["slug"]
   delete NewPost
   NewPost["date"] = date
 }
@@ -429,7 +423,7 @@ END {
       if( lastyear != "2001" ) {
         print "</p>" > monthshtml
       }
-      print "<p id=\"" ToId(i) "\" class=\"toc\"><strong>" year "</strong>" > monthshtml
+      print "<p id=\"" i "\" class=\"toc\"><strong>" year "</strong>" > monthshtml
       lastyear = year
     }
     print "<a href=\"" i ".html\"> " ToHtml(mon) " </a>" > monthshtml
@@ -487,7 +481,7 @@ END {
         if( Index[slug]["image"] ) {
           print "<img src=\"img/" Index[slug]["image"] "\"/>" > file
         }
-        print "<b><a href=\"" TitleToChapter[k] ".html#" ToId(slug) "\">" ToHtml(k) "</a></b>" > file
+        print "<b><a href=\"" TitleToChapter[k] ".html#" slug "\">" ToHtml(k) "</a></b>" > file
         print "<small><i>" Index[slug]["date"] ssslugTerms " " Index[slug]["summary"] "</small></i>" > file
         print "</td></tr>" > file
       }
@@ -540,7 +534,7 @@ END {
       if( Index[j]["image"] ) {
         print "<img src=\"img/" Index[j]["image"] "\"/>" > postshtml
       }
-      print "<b><a href=\"" TitleToChapter[title] ".html#" ToId(j) "\">" ToHtml(title) "</a></b>" > postshtml
+      print "<b><a href=\"" TitleToChapter[title] ".html#" j "\">" ToHtml(title) "</a></b>" > postshtml
       print "<small><i>" Index[j]["date"] s " " Index[j]["summary"] " " j "</small></i>" > postshtml
       print "</td></tr>" > postshtml
     }
