@@ -264,7 +264,7 @@ function FlushNewPost()
   if( "draft" in NewPost ) {
     draftToSlug[NewPost["title"]] = NewPost["slug"]
     chapter = "drafts"
-    quickSearch["drafts"] = "drafts.html"
+    QuickSearch["drafts"] = "drafts.html"
   }
 
   repostTags = ""
@@ -283,7 +283,7 @@ function FlushNewPost()
   titleToChapter[NewPost["title"]] = chapter
 
   if ( "repost" in NewPost ) {
-    quickSearch["repost"] = "repost.html"
+    QuickSearch["repost"] = "repost.html"
     file = "public\\blog\\repost.html"
     if( ! ("repost" in files) ) {
       WriteToHtml(file, "caloni::repost", "index.html", 1)
@@ -354,7 +354,7 @@ function FlushNewPost()
   NewPost["link"] = "<li><small><a href=\"" chapter ".html#" NewPost["slug"] "\">" ToHtml(NewPost["title"]) "</a></small></li>"
   PostLinksByMonth[chapter][date] = PostLinksByMonth[chapter][date] "\n" NewPost["link"]
 
-  quickSearch[NewPost["slug"]] = chapter ".html#" ToId(NewPost["slug"])
+  QuickSearch[NewPost["slug"]] = chapter ".html#" ToId(NewPost["slug"])
   delete NewPost
 }
 
@@ -429,14 +429,14 @@ END {
       lastyear = year
     }
     print "<a href=\"" chapter ".html\"> " ToHtml(mon) " </a>" > monthshtml
-    quickSearch[chapter] = chapter ".html"
+    QuickSearch[chapter] = chapter ".html"
     if( ! lastmonth ) {
       lastmonth = chapter
     }
   }
   print "</p>" > monthshtml
   WriteBottomHtml(monthshtml, 0)
-  quickSearch["months"] = "months.html"
+  QuickSearch["months"] = "months.html"
 
   PROCINFO["sorted_in"] = "@ind_num_asc"
   for( f in files ) {
@@ -467,7 +467,7 @@ END {
 
   PROCINFO["sorted_in"] = "@ind_num_desc"
   for( t in TitlesByTagsAndDates ) {
-    quickSearch[t] = t ".html"
+    QuickSearch[t] = t ".html"
     file = "public\\blog\\" t ".html"
     WriteToHtml(file, "caloni::" t, "index.html", 1)
     for( d in TitlesByTagsAndDates[t] ) {
@@ -519,7 +519,7 @@ END {
     print "</td></tr>" > tagshtml
   }
   WriteBottomHtml(tagshtml, 1)
-  quickSearch["tags"] = "tags.html"
+  QuickSearch["tags"] = "tags.html"
 
   postshtml = "public\\blog\\posts.html"
   WriteToHtml(postshtml, "caloni::posts", "index.html", 1)
@@ -542,10 +542,10 @@ END {
     }
   }
   WriteBottomHtml(postshtml, 1)
-  quickSearch["posts"] = "posts.html"
+  QuickSearch["posts"] = "posts.html"
 
   indexhtml = "public\\blog\\index.html"
-  WriteToHtml(indexhtml, Blog["title"], "2007-06.html#_about", 0, quickSearch)
+  WriteToHtml(indexhtml, Blog["title"], "2007-06.html#_about", 0, QuickSearch)
   print "<input type=\"text\" name=\"quick_search_name\" value=\"\" id=\"quick_search\" placeholder=\"&#x1F41E; digite algo / type something\" style=\"width: 100%; font-size: 1.5rem; margin-top: 1em; margin-bottom: 0.5em;\" title=\"\"/></br>" > indexhtml
   print "<big><a href=\"tag_coding.html\">coding</a></big><small><i>: programação, depuração, transpiração.</small></i></br>" > indexhtml
   print "<big><a href=\"tag_movies.html\">movies</a></big><small><i>: o finado Cine Tênis Verde veio parar aqui.</small></i></br>" > indexhtml
@@ -553,10 +553,10 @@ END {
   print "<big><a href=\"" lastmonth ".html\">news</a></big><small><i>: postes publicados no último mês.</small></i></br>" > indexhtml
   print "<big><a href=\"months.html\">months</a></big><small><i>: lista dos meses com postes.</small></i></br>" > indexhtml
   print "<big><a href=\"posts.html\">posts</a></big><small><i>: lista com toooooooodos os postes do blogue.</small></i></br>" > indexhtml
-  if( "repost" in quickSearch ) {
+  if( "repost" in QuickSearch ) {
     print "<big><a href=\"repost.html\">reposts</a></big><small><i>: vale a pena postar de novo.</small></i></br>" > indexhtml
   }
-  if( "drafts" in quickSearch ) {
+  if( "drafts" in QuickSearch ) {
     print "<big><a href=\"drafts.html\">drafts</a></big><small><i>: postes em progresso.</small></i></br>" > indexhtml
   }
   print "<div><big><span style=\"visibility: hidden; padding: 5px;\" name=\"results\" id=\"results\">...</span></big></div>" > indexhtml
