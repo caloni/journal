@@ -54,9 +54,12 @@ function WriteToHtml(file, title, backLink, filter, quickSearch)
   print "<script src=\"/js/copy_clipboard.js\"></script>" > file
   print "<script>" > file
   print "var quick_search_posts = [ " > file
+  s = PROCINFO["sorted_in"]
+  PROCINFO["sorted_in"] = "@ind_str_asc"
   for( i in quickSearch ) {
     print "\"" quickSearch[i] "\"," > file
   }
+  PROCINFO["sorted_in"] = s
   print " ]; " > file
   print "</script>" > file
   print "<script src=\"/js/quick_search.js\"></script>" > file
@@ -401,25 +404,30 @@ $1 == ":tags:" { $1 = "" ; NewPost["tags"] = $0 }
 $1 == ":update:" { NewPost["update"] = $2 }
 
 
-END {
-  if( "title" in NewPost ) {
-    FlushNewPost()
-  }
-
+function TiePreviousNextChapters()
+{
   PROCINFO["sorted_in"] = "@ind_num_asc"
-  n = "index"
+  c = "index"
   for( i in Chapters ) {
-    nextChapter[i] = n
-    n = i
+    NextChapter[i] = c
+    c = i
   }
+  PROCINFO["sorted_in"] = "@ind_num_desc"
+  c = "index"
+  for( i in Chapters ) {
+    PrevChapter[i] = c
+    c = i
+  }
+}
+
+
+function FlushMonthsPage()
+{
   PROCINFO["sorted_in"] = "@ind_num_desc"
   f = "public\\blog\\months.html"
   WriteToHtml(f, "caloni::months", "index.html", 0)
   y = "2001"
-  p = "index"
   for( i in Chapters ) {
-    prevChapter[i] = p
-    p = i
     y2 = substr(i, 1, 4)
     m = substr(i, 6, 2)
     if( y2 != y ) {
@@ -438,7 +446,11 @@ END {
   print "</p>" > f
   WriteBottomHtml(f, 0)
   QuickSearch["months"] = "months.html"
+}
 
+
+function FlushPostsPages()
+{
   PROCINFO["sorted_in"] = "@ind_num_asc"
   for( i in Files ) {
     p = ""
@@ -460,12 +472,16 @@ END {
     }
     print p > f
     if( i != "repost" && i != "drafts" ) {
-      WriteBottomHtml(f, 0, nextChapter[i] ".html", prevChapter[i] ".html")
+      WriteBottomHtml(f, 0, NextChapter[i] ".html", PrevChapter[i] ".html")
     } else {
       WriteBottomHtml(f, 1)
     }
   }
+}
 
+
+function FlushTagsPages()
+{
   PROCINFO["sorted_in"] = "@ind_num_desc"
   for( i in TitlesByTagsAndDates ) {
     QuickSearch[i] = i ".html"
@@ -491,7 +507,11 @@ END {
     }
     WriteBottomHtml(f, 1)
   }
+}
 
+
+function FlushTagsPage()
+{
   f = "public\\blog\\tags.html"
   WriteToHtml(f, "caloni::tags", "index.html", 1)
   PROCINFO["sorted_in"] = "@ind_str_asc"
@@ -521,7 +541,11 @@ END {
   }
   WriteBottomHtml(f, 1)
   QuickSearch["tags"] = "tags.html"
+}
 
+
+function FlushPostsPage()
+{
   f = "public\\blog\\posts.html"
   WriteToHtml(f, "caloni::posts", "index.html", 1)
   PROCINFO["sorted_in"] = "@ind_str_desc"
@@ -544,7 +568,11 @@ END {
   }
   WriteBottomHtml(f, 1)
   QuickSearch["posts"] = "posts.html"
+}
 
+
+function FlushIndexPage()
+{
   f = "public\\blog\\index.html"
   WriteToHtml(f, Blog["title"], "2007-06.html#_about", 0, QuickSearch)
   print "<input type=\"text\" name=\"quick_search_name\" value=\"\" id=\"quick_search\" placeholder=\"&#x1F41E; digite algo / type something\" style=\"width: 100%; font-size: 1.5rem; margin-top: 1em; margin-bottom: 0.5em;\" title=\"\"/></br>" > f
@@ -564,7 +592,11 @@ END {
   print "<table class=\"sortable\" style=\"width: 100%;\">" > f
   print "</table>" > f
   WriteBottomHtml(f, 0, "", "", Blog["build"])
+}
 
+
+function FlushNotFoundPage()
+{
   f = "public\\blog\\404.html"
   WriteToHtml(f, "caloni::404 page not found", "posts.html", 0)
   print "<div class=\"container\">" > f
@@ -574,5 +606,21 @@ END {
   print "    </div>" > f
   print "</div>" > f
   WriteBottomHtml(f, 0)
+}
+
+
+END {
+  if( "title" in NewPost ) {
+    FlushNewPost()
+  }
+  TiePreviousNextChapters()
+
+  FlushPostsPage()
+  FlushPostsPages()
+  FlushTagsPage()
+  FlushTagsPages()
+  FlushMonthsPage()
+  FlushIndexPage()
+  FlushNotFoundPage()
 }
 
