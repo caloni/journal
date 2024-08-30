@@ -263,7 +263,6 @@ function FlushNewPost(    date, chapter, tags, post)
   post = ""
 
   Chapters[chapter] = chapter
-  ++postCount
   entries[date][NewPost["slug"]] = NewPost["title"]
 
   if( "draft" in NewPost ) {
