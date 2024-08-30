@@ -573,8 +573,13 @@ function FlushPostsPage()
 
 function FlushIndexPage()
 {
+  PROCINFO["sorted_in"] = "@ind_num_asc"
+  for( i in Chapters ) {
+    c = Chapters[i]
+    break
+  }
   f = Blog["output"] "\\index.html"
-  WriteToHtml(f, Blog["title"], "2007-06.html#about", 0, QuickSearch)
+  WriteToHtml(f, Blog["title"], c ".html#about", 0, QuickSearch)
   print "<input type=\"text\" name=\"quick_search_name\" value=\"\" id=\"quick_search\" placeholder=\"&#x1F41E; digite algo / type something\" style=\"width: 100%; font-size: 1.5rem; margin-top: 1em; margin-bottom: 0.5em;\" title=\"\"/></br>" > f
   print "<big><a href=\"tag_coding.html\">coding</a></big><small><i>: programação, depuração, transpiração.</small></i></br>" > f
   print "<big><a href=\"tag_movies.html\">movies</a></big><small><i>: o finado Cine Tênis Verde veio parar aqui.</small></i></br>" > f
