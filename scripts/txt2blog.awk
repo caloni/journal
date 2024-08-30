@@ -93,7 +93,7 @@ function WriteToHtml(file, title, backLink, filter, quickSearch)
 }
 
 
-function WriteBottomHtml(file, filter, nextLink, prevLink, version)
+function WriteBottomHtml(file, filter, nextLink, prevLink, build)
 {
   if( filter ) {
     print "</table>" > file
@@ -117,8 +117,8 @@ function WriteBottomHtml(file, filter, nextLink, prevLink, version)
   print "</section>" > file
   print "<footer class=\"footer\">" > file
   print "<div class=\"container\">" > file
-  if( version ) {
-    print "<p><small><i>" version "</i></small></p>" > file
+  if( build ) {
+    print "<p><small><i>Build: " build "</i></small></p>" > file
   }
   print "</div>" > file
   print "</footer>" > file
