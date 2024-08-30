@@ -263,10 +263,9 @@ function FlushNewPost(    date, chapter, tags, post)
   post = ""
 
   Chapters[chapter] = chapter
-  entries[date][NewPost["slug"]] = NewPost["title"]
+  DateSlugTitle[date][NewPost["slug"]] = NewPost["title"]
 
   if( "draft" in NewPost ) {
-    draftToSlug[NewPost["title"]] = NewPost["slug"]
     chapter = "drafts"
     QuickSearch["drafts"] = "drafts.html"
   }
@@ -408,70 +407,70 @@ END {
   }
 
   PROCINFO["sorted_in"] = "@ind_num_asc"
-  nChapter = "index"
+  n = "index"
   for( i in Chapters ) {
-    nextChapter[i] = nChapter
-    nChapter = i
+    nextChapter[i] = n
+    n = i
   }
   PROCINFO["sorted_in"] = "@ind_num_desc"
-  monthshtml = "public\\blog\\months.html"
-  WriteToHtml(monthshtml, "caloni::months", "index.html", 0)
-  lastyear = "2001"
-  pChapter = "index"
+  f = "public\\blog\\months.html"
+  WriteToHtml(f, "caloni::months", "index.html", 0)
+  y = "2001"
+  p = "index"
   for( i in Chapters ) {
-    prevChapter[i] = pChapter
-    pChapter = i
-    year = substr(i, 1, 4)
-    mon = substr(i, 6, 2)
-    if( year != lastyear ) {
-      if( lastyear != "2001" ) {
-        print "</p>" > monthshtml
+    prevChapter[i] = p
+    p = i
+    y2 = substr(i, 1, 4)
+    m = substr(i, 6, 2)
+    if( y2 != y ) {
+      if( y != "2001" ) {
+        print "</p>" > f
       }
-      print "<p id=\"" i "\" class=\"toc\"><strong>" year "</strong>" > monthshtml
-      lastyear = year
+      print "<p id=\"" i "\" class=\"toc\"><strong>" y2 "</strong>" > f
+      y = y2
     }
-    print "<a href=\"" i ".html\"> " ToHtml(mon) " </a>" > monthshtml
+    print "<a href=\"" i ".html\"> " ToHtml(m) " </a>" > f
     QuickSearch[i] = i ".html"
     if( ! lastmonth ) {
       lastmonth = i
     }
   }
-  print "</p>" > monthshtml
-  WriteBottomHtml(monthshtml, 0)
+  print "</p>" > f
+  WriteBottomHtml(f, 0)
   QuickSearch["months"] = "months.html"
 
   PROCINFO["sorted_in"] = "@ind_num_asc"
   for( i in Files ) {
-    postsContent = ""
-    file = "public\\blog\\" i ".html"
+    p = ""
+    f = "public\\blog\\" i ".html"
     if( i == "repost" ) {
       PROCINFO["sorted_in"] = "@ind_num_desc"
     } else {
       PROCINFO["sorted_in"] = "@ind_num_asc"
     }
     for( j in PostsByMonth[i] ) {
-      postsContent = postsContent "\n" PostsByMonth[i][j]
+      p = p "\n" PostsByMonth[i][j]
     }
     if( i != "repost" ) {
-      print "<ul style=\"list-style: none;\">" > file
+      print "<ul style=\"list-style: none;\">" > f
       for( j in PostLinksByMonth[i] ) {
-        print PostLinksByMonth[i][j] > file
+        print PostLinksByMonth[i][j] > f
       }
-      print "</ul>" > file
+      print "</ul>" > f
     }
-    print postsContent > file
+    print p > f
     if( i != "repost" && i != "drafts" ) {
-      WriteBottomHtml(file, 0, nextChapter[i] ".html", prevChapter[i] ".html")
+      WriteBottomHtml(f, 0, nextChapter[i] ".html", prevChapter[i] ".html")
     } else {
-      WriteBottomHtml(file, 1)
+      WriteBottomHtml(f, 1)
     }
   }
 
   PROCINFO["sorted_in"] = "@ind_num_desc"
   for( i in TitlesByTagsAndDates ) {
     QuickSearch[i] = i ".html"
-    file = "public\\blog\\" i ".html"
-    WriteToHtml(file, "caloni::" i, "index.html", 1)
+    f = "public\\blog\\" i ".html"
+    WriteToHtml(f, "caloni::" i, "index.html", 1)
     for( j in TitlesByTagsAndDates[i] ) {
       for( k in TitlesByTagsAndDates[i][j] ) {
         slug = TitleToSlug[k]
@@ -481,99 +480,99 @@ END {
         for( l in sslugTerms ) {
           ssslugTerms = ssslugTerms " [" sslugTerms[l] "]"
         }
-        print "<tr><td>" > file
+        print "<tr><td>" > f
         if( Index[slug]["image"] ) {
-          print "<img src=\"img/" Index[slug]["image"] "\"/>" > file
+          print "<img src=\"img/" Index[slug]["image"] "\"/>" > f
         }
-        print "<b><a href=\"" TitleToChapter[k] ".html#" slug "\">" ToHtml(k) "</a></b>" > file
-        print "<small><i>" Index[slug]["date"] ssslugTerms " " Index[slug]["summary"] "</small></i>" > file
-        print "</td></tr>" > file
+        print "<b><a href=\"" TitleToChapter[k] ".html#" slug "\">" ToHtml(k) "</a></b>" > f
+        print "<small><i>" Index[slug]["date"] ssslugTerms " " Index[slug]["summary"] "</small></i>" > f
+        print "</td></tr>" > f
       }
     }
-    WriteBottomHtml(file, 1)
+    WriteBottomHtml(f, 1)
   }
 
-  tagshtml = "public\\blog\\tags.html"
-  WriteToHtml(tagshtml, "caloni::tags", "index.html", 1)
+  f = "public\\blog\\tags.html"
+  WriteToHtml(f, "caloni::tags", "index.html", 1)
   PROCINFO["sorted_in"] = "@ind_str_asc"
   for( i in TitlesByTagsAndDates ) {
-    titles = ""
-    totalTitles = 0
+    t = ""
+    t2 = 0
     PROCINFO["sorted_in"] = "@ind_num_desc"
     for( j in TitlesByTagsAndDates[i] ) {
       for( k in TitlesByTagsAndDates[i][j] ) {
-        if( titles == "" ) {
-          titles = k
+        if( t == "" ) {
+          t = k
         } else {
-          titles = titles " - " k
+          t = t " - " k
         }
-        totalTitles = totalTitles + 1
-        if( totalTitles > 15 ) {
+        t2 = t2 + 1
+        if( t2 > 15 ) {
           break
         }
       }
-      if( totalTitles > 15 ) {
+      if( t2 > 15 ) {
         break
       }
     }
-    print "<tr><td><b><a href=\"" i ".html" "\">" ToHtml(i) "</a></b>" > tagshtml
-    print "<small><i>" titles "</small></i>" > tagshtml
-    print "</td></tr>" > tagshtml
+    print "<tr><td><b><a href=\"" i ".html" "\">" ToHtml(i) "</a></b>" > f
+    print "<small><i>" t "</small></i>" > f
+    print "</td></tr>" > f
   }
-  WriteBottomHtml(tagshtml, 1)
+  WriteBottomHtml(f, 1)
   QuickSearch["tags"] = "tags.html"
 
-  postshtml = "public\\blog\\posts.html"
-  WriteToHtml(postshtml, "caloni::posts", "index.html", 1)
+  f = "public\\blog\\posts.html"
+  WriteToHtml(f, "caloni::posts", "index.html", 1)
   PROCINFO["sorted_in"] = "@ind_str_desc"
-  for( i in entries ) {
-    for( j in entries[i] ) {
-      title = entries[i][j]
+  for( i in DateSlugTitle ) {
+    for( j in DateSlugTitle[i] ) {
+      t = DateSlugTitle[i][j]
       split(Index[j]["tags"], a)
       s = ""
       for( k in a ) {
         s = s " [" a[k] "]"
       }
-      print "<tr><td>" > postshtml
+      print "<tr><td>" > f
       if( Index[j]["image"] ) {
-        print "<img src=\"img/" Index[j]["image"] "\"/>" > postshtml
+        print "<img src=\"img/" Index[j]["image"] "\"/>" > f
       }
-      print "<b><a href=\"" TitleToChapter[title] ".html#" j "\">" ToHtml(title) "</a></b>" > postshtml
-      print "<small><i>" Index[j]["date"] s " " Index[j]["summary"] " " j "</small></i>" > postshtml
-      print "</td></tr>" > postshtml
+      print "<b><a href=\"" TitleToChapter[t] ".html#" j "\">" ToHtml(t) "</a></b>" > f
+      print "<small><i>" Index[j]["date"] s " " Index[j]["summary"] " " j "</small></i>" > f
+      print "</td></tr>" > f
     }
   }
-  WriteBottomHtml(postshtml, 1)
+  WriteBottomHtml(f, 1)
   QuickSearch["posts"] = "posts.html"
 
-  indexhtml = "public\\blog\\index.html"
-  WriteToHtml(indexhtml, Blog["title"], "2007-06.html#_about", 0, QuickSearch)
-  print "<input type=\"text\" name=\"quick_search_name\" value=\"\" id=\"quick_search\" placeholder=\"&#x1F41E; digite algo / type something\" style=\"width: 100%; font-size: 1.5rem; margin-top: 1em; margin-bottom: 0.5em;\" title=\"\"/></br>" > indexhtml
-  print "<big><a href=\"tag_coding.html\">coding</a></big><small><i>: programação, depuração, transpiração.</small></i></br>" > indexhtml
-  print "<big><a href=\"tag_movies.html\">movies</a></big><small><i>: o finado Cine Tênis Verde veio parar aqui.</small></i></br>" > indexhtml
-  print "<big><a href=\"tags.html\">tags</a></big><small><i>: todos os rótulos dos postes.</small></i></br>" > indexhtml
-  print "<big><a href=\"" lastmonth ".html\">news</a></big><small><i>: postes publicados no último mês.</small></i></br>" > indexhtml
-  print "<big><a href=\"months.html\">months</a></big><small><i>: lista dos meses com postes.</small></i></br>" > indexhtml
-  print "<big><a href=\"posts.html\">posts</a></big><small><i>: lista com toooooooodos os postes do blogue.</small></i></br>" > indexhtml
+  f = "public\\blog\\index.html"
+  WriteToHtml(f, Blog["title"], "2007-06.html#_about", 0, QuickSearch)
+  print "<input type=\"text\" name=\"quick_search_name\" value=\"\" id=\"quick_search\" placeholder=\"&#x1F41E; digite algo / type something\" style=\"width: 100%; font-size: 1.5rem; margin-top: 1em; margin-bottom: 0.5em;\" title=\"\"/></br>" > f
+  print "<big><a href=\"tag_coding.html\">coding</a></big><small><i>: programação, depuração, transpiração.</small></i></br>" > f
+  print "<big><a href=\"tag_movies.html\">movies</a></big><small><i>: o finado Cine Tênis Verde veio parar aqui.</small></i></br>" > f
+  print "<big><a href=\"tags.html\">tags</a></big><small><i>: todos os rótulos dos postes.</small></i></br>" > f
+  print "<big><a href=\"" lastmonth ".html\">news</a></big><small><i>: postes publicados no último mês.</small></i></br>" > f
+  print "<big><a href=\"months.html\">months</a></big><small><i>: lista dos meses com postes.</small></i></br>" > f
+  print "<big><a href=\"posts.html\">posts</a></big><small><i>: lista com toooooooodos os postes do blogue.</small></i></br>" > f
   if( "repost" in QuickSearch ) {
-    print "<big><a href=\"repost.html\">reposts</a></big><small><i>: vale a pena postar de novo.</small></i></br>" > indexhtml
+    print "<big><a href=\"repost.html\">reposts</a></big><small><i>: vale a pena postar de novo.</small></i></br>" > f
   }
   if( "drafts" in QuickSearch ) {
-    print "<big><a href=\"drafts.html\">drafts</a></big><small><i>: postes em progresso.</small></i></br>" > indexhtml
+    print "<big><a href=\"drafts.html\">drafts</a></big><small><i>: postes em progresso.</small></i></br>" > f
   }
-  print "<div><big><span style=\"visibility: hidden; padding: 5px;\" name=\"results\" id=\"results\">...</span></big></div>" > indexhtml
-  print "<table class=\"sortable\" style=\"width: 100%;\">" > indexhtml
-  print "</table>" > indexhtml
-  WriteBottomHtml(indexhtml, 0, "", "", Blog["build"])
+  print "<div><big><span style=\"visibility: hidden; padding: 5px;\" name=\"results\" id=\"results\">...</span></big></div>" > f
+  print "<table class=\"sortable\" style=\"width: 100%;\">" > f
+  print "</table>" > f
+  WriteBottomHtml(f, 0, "", "", Blog["build"])
 
-  notfoundhtml = "public\\blog\\404.html"
-  WriteToHtml(notfoundhtml, "caloni::404 page not found", "posts.html", 0)
-  print "<div class=\"container\">" > notfoundhtml
-  print "  <p class=\"title\">Opa, essa página não foi encontrada.</p>" > notfoundhtml
-  print "    <div class=\"content\">" > notfoundhtml
-  print "      <p>Não quer fazer uma <a href=\"/posts.html\">busca</a>? Às vezes eu mexo e remexo as coisas por aqui.</p>" > notfoundhtml
-  print "    </div>" > notfoundhtml
-  print "</div>" > notfoundhtml
-  WriteBottomHtml(notfoundhtml, 0)
+  f = "public\\blog\\404.html"
+  WriteToHtml(f, "caloni::404 page not found", "posts.html", 0)
+  print "<div class=\"container\">" > f
+  print "  <p class=\"title\">Opa, essa página não foi encontrada.</p>" > f
+  print "    <div class=\"content\">" > f
+  print "      <p>Não quer fazer uma <a href=\"/posts.html\">busca</a>? Às vezes eu mexo e remexo as coisas por aqui.</p>" > f
+  print "    </div>" > f
+  print "</div>" > f
+  WriteBottomHtml(f, 0)
 }
 
