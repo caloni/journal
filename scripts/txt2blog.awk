@@ -60,8 +60,8 @@ function WriteToHtml(file, title, backLink, filter, quickSearch)
   print "<script src=\"/js/copy_clipboard.js\"></script>" > file
   print "<script>" > file
   print "var quick_search_posts = [ " > file
-  for( qs in quickSearch ) {
-    print "\"" quickSearch[qs] "\"," > file
+  for( i in quickSearch ) {
+    print "\"" quickSearch[i] "\"," > file
   }
   print " ]; " > file
   print "</script>" > file
@@ -308,11 +308,6 @@ function FlushNewPost(    date, chapter, tags, post)
     WriteToHtml(file, "caloni::" chapter, "months.html", 0)
     files[chapter] = chapter
   }
-  ssstags = ""
-  split(NewPost["tags"], sstags)
-  for( st in sstags ) {
-    ssstags = ssstags " <a href=\"" sstags[st] ".html\">" sstags[st] "</a>"
-  }
   for( i in NewPost["lines"] ) {
     if( NewPost["lines"][i]["content"] != "" ) {
       if( NewPost["lines"][i]["type"] != "pre" && NewPost["lines"][i]["type"] != "blockquote" ) {
@@ -349,7 +344,11 @@ function FlushNewPost(    date, chapter, tags, post)
   if( "update" in NewPost ) {
     post = post " (updated " NewPost["update"] ")"
   }
-  post = post " " ssstags " <a href=\"" chapter ".html\"> "
+  post = post " "
+  for( i in tags ) {
+    post = post " <a href=\"" tags[i] ".html\">" tags[i] "</a>"
+  }
+  post = post " <a href=\"" chapter ".html\"> "
   post = post "<sup>[up]</sup></a> <a href=\"javascript:;\" onclick=\"copy_clipboard('section#section-" ToId(NewPost["slug"]) "')\"><sup>[copy]</sup></a></span>\n\n"
   for( i in NewPost["lines"] ) {
     post = post NewPost["lines"][i]["content"]
