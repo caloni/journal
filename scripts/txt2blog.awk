@@ -9,6 +9,7 @@ BEGIN {
   Blog["description"] = "Write for computers, people and food."
   Blog["generator"] = "txt2blog 0.0.1"
   Blog["link"] = "http://www.caloni.com.br"
+  Blog["output"] = "public\\blog"
   Blog["title"] = "Blogue do Caloni"
 }
 
@@ -100,7 +101,7 @@ function WriteToHtml(file, title, backLink, filter, quickSearch,    originalSort
 }
 
 
-function WriteBottomHtml(file, filter, nextLink, prevLink, build)
+function WriteBottomHtml(file, filter, nextLink, prevLink, build,    label)
 {
   if( filter ) {
     print "</table>" > file
@@ -294,7 +295,7 @@ function FlushNewPost(    date, chapter, tags, post)
 
   if ( "repost" in NewPost ) {
     QuickSearch["repost"] = "repost.html"
-    file = "public\\blog\\repost.html"
+    file = Blog["output"] "\\repost.html"
     if( ! ("repost" in Files) ) {
       WriteToHtml(file, "caloni::repost", "index.html", 1)
       Files["repost"] = "repost"
@@ -309,7 +310,7 @@ function FlushNewPost(    date, chapter, tags, post)
     PostsByMonth["repost"][NewPost["repost"]] = PostsByMonth["repost"][NewPost["repost"]] "\n" post
   }
 
-  file = "public\\blog\\" chapter ".html"
+  file = Blog["output"] "\\" chapter ".html"
   if( ! (chapter in Files) ) {
     WriteToHtml(file, "caloni::" chapter, "months.html", 0)
     Files[chapter] = chapter
@@ -346,15 +347,14 @@ function FlushNewPost(    date, chapter, tags, post)
   } else {
     post = post "<p class=\"title\"><a href=\"" chapter ".html#" NewPost["slug"] "\">#</a> " ToHtml(NewPost["title"]) "</p>\n"
   }
-  post = post "<span class=\"title-heading\">Wanderley Caloni, " date
+  post = post "<span class=\"title-heading\">" Blog["author"] ", " date
   if( "update" in NewPost ) {
     post = post " (updated " NewPost["update"] ")"
   }
-  post = post " "
   for( i in tags ) {
     post = post " <a href=\"" tags[i] ".html\">" tags[i] "</a>"
   }
-  post = post " <a href=\"" chapter ".html\"> "
+  post = post "<a href=\"" chapter ".html\"> "
   post = post "<sup>[up]</sup></a> <a href=\"javascript:;\" onclick=\"copy_clipboard('section#section-" NewPost["slug"] "')\"><sup>[copy]</sup></a></span>\n\n"
   for( i in NewPost["lines"] ) {
     post = post NewPost["lines"][i]["content"]
@@ -424,7 +424,7 @@ function TiePreviousNextChapters()
 function FlushMonthsPage()
 {
   PROCINFO["sorted_in"] = "@ind_num_desc"
-  f = "public\\blog\\months.html"
+  f = Blog["output"] "\\months.html"
   WriteToHtml(f, "caloni::months", "index.html", 0)
   y = "2001"
   for( i in Chapters ) {
@@ -454,7 +454,7 @@ function FlushPostsPages()
   PROCINFO["sorted_in"] = "@ind_num_asc"
   for( i in Files ) {
     p = ""
-    f = "public\\blog\\" i ".html"
+    f = Blog["output"] "\\" i ".html"
     if( i == "repost" ) {
       PROCINFO["sorted_in"] = "@ind_num_desc"
     } else {
@@ -485,7 +485,7 @@ function FlushTagsPages()
   PROCINFO["sorted_in"] = "@ind_num_desc"
   for( i in TitlesByTagsAndDates ) {
     QuickSearch[i] = i ".html"
-    f = "public\\blog\\" i ".html"
+    f = Blog["output"] "\\" i ".html"
     WriteToHtml(f, "caloni::" i, "index.html", 1)
     for( j in TitlesByTagsAndDates[i] ) {
       for( k in TitlesByTagsAndDates[i][j] ) {
@@ -512,7 +512,7 @@ function FlushTagsPages()
 
 function FlushTagsPage()
 {
-  f = "public\\blog\\tags.html"
+  f = Blog["output"] "\\tags.html"
   WriteToHtml(f, "caloni::tags", "index.html", 1)
   PROCINFO["sorted_in"] = "@ind_str_asc"
   for( i in TitlesByTagsAndDates ) {
@@ -546,7 +546,7 @@ function FlushTagsPage()
 
 function FlushPostsPage()
 {
-  f = "public\\blog\\posts.html"
+  f = Blog["output"] "\\posts.html"
   WriteToHtml(f, "caloni::posts", "index.html", 1)
   PROCINFO["sorted_in"] = "@ind_str_desc"
   for( i in DateSlugTitle ) {
@@ -573,8 +573,8 @@ function FlushPostsPage()
 
 function FlushIndexPage()
 {
-  f = "public\\blog\\index.html"
-  WriteToHtml(f, Blog["title"], "2007-06.html#_about", 0, QuickSearch)
+  f = Blog["output"] "\\index.html"
+  WriteToHtml(f, Blog["title"], "2007-06.html#about", 0, QuickSearch)
   print "<input type=\"text\" name=\"quick_search_name\" value=\"\" id=\"quick_search\" placeholder=\"&#x1F41E; digite algo / type something\" style=\"width: 100%; font-size: 1.5rem; margin-top: 1em; margin-bottom: 0.5em;\" title=\"\"/></br>" > f
   print "<big><a href=\"tag_coding.html\">coding</a></big><small><i>: programação, depuração, transpiração.</small></i></br>" > f
   print "<big><a href=\"tag_movies.html\">movies</a></big><small><i>: o finado Cine Tênis Verde veio parar aqui.</small></i></br>" > f
@@ -597,7 +597,7 @@ function FlushIndexPage()
 
 function FlushNotFoundPage()
 {
-  f = "public\\blog\\404.html"
+  f = Blog["output"] "\\404.html"
   WriteToHtml(f, "caloni::404 page not found", "posts.html", 0)
   print "<div class=\"container\">" > f
   print "  <p class=\"title\">Opa, essa página não foi encontrada.</p>" > f
