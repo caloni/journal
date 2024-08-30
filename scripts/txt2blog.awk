@@ -289,9 +289,9 @@ function FlushNewPost(    date, chapter, tags, post)
   if ( "repost" in NewPost ) {
     QuickSearch["repost"] = "repost.html"
     file = "public\\blog\\repost.html"
-    if( ! ("repost" in files) ) {
+    if( ! ("repost" in Files) ) {
       WriteToHtml(file, "caloni::repost", "index.html", 1)
-      files["repost"] = "repost"
+      Files["repost"] = "repost"
     }
     post = "<tr><td><b><a href=\"" chapter ".html#" ToId(NewPost["slug"]) "\">" ToHtml(NewPost["title"]) "</a></b>\n"
     post = post "<small><i>" NewPost["repost"] " [" date "] "
@@ -304,17 +304,17 @@ function FlushNewPost(    date, chapter, tags, post)
   }
 
   file = "public\\blog\\" chapter ".html"
-  if( ! (chapter in files) ) {
+  if( ! (chapter in Files) ) {
     WriteToHtml(file, "caloni::" chapter, "months.html", 0)
-    files[chapter] = chapter
+    Files[chapter] = chapter
   }
   for( i in NewPost["lines"] ) {
     if( NewPost["lines"][i]["content"] != "" ) {
       if( NewPost["lines"][i]["type"] != "pre" && NewPost["lines"][i]["type"] != "blockquote" ) {
         if( "links" in NewPost ) {
-          for( name in NewPost["links"] ) {
-            search = "\\[" name "\\]"
-            gsub(search, NewPost["links"][name], NewPost["lines"][i]["content"])
+          for( j in NewPost["links"] ) {
+            search = "\\[" j "\\]"
+            gsub(search, NewPost["links"][j], NewPost["lines"][i]["content"])
           }
         }
       }
@@ -412,8 +412,8 @@ END {
   PROCINFO["sorted_in"] = "@ind_num_asc"
   nChapter = "index"
   for( i in Chapters ) {
-    nextChapter[Chapters[i]] = nChapter
-    nChapter = Chapters[i]
+    nextChapter[i] = nChapter
+    nChapter = i
   }
   PROCINFO["sorted_in"] = "@ind_num_desc"
   monthshtml = "public\\blog\\months.html"
@@ -421,21 +421,21 @@ END {
   lastyear = "2001"
   pChapter = "index"
   for( i in Chapters ) {
-    prevChapter[Chapters[i]] = pChapter
-    pChapter = Chapters[i]
-    year = substr(Chapters[i], 1, 4)
-    mon = substr(Chapters[i], 6, 2)
+    prevChapter[i] = pChapter
+    pChapter = i
+    year = substr(i, 1, 4)
+    mon = substr(i, 6, 2)
     if( year != lastyear ) {
       if( lastyear != "2001" ) {
         print "</p>" > monthshtml
       }
-      print "<p id=\"" ToId(Chapters[i]) "\" class=\"toc\"><strong>" year "</strong>" > monthshtml
+      print "<p id=\"" ToId(i) "\" class=\"toc\"><strong>" year "</strong>" > monthshtml
       lastyear = year
     }
-    print "<a href=\"" Chapters[i] ".html\"> " ToHtml(mon) " </a>" > monthshtml
-    QuickSearch[Chapters[i]] = Chapters[i] ".html"
+    print "<a href=\"" i ".html\"> " ToHtml(mon) " </a>" > monthshtml
+    QuickSearch[i] = i ".html"
     if( ! lastmonth ) {
-      lastmonth = Chapters[i]
+      lastmonth = i
     }
   }
   print "</p>" > monthshtml
@@ -443,51 +443,51 @@ END {
   QuickSearch["months"] = "months.html"
 
   PROCINFO["sorted_in"] = "@ind_num_asc"
-  for( f in files ) {
+  for( i in Files ) {
     postsContent = ""
-    file = "public\\blog\\" f ".html"
-    if( f == "repost" ) {
+    file = "public\\blog\\" i ".html"
+    if( i == "repost" ) {
       PROCINFO["sorted_in"] = "@ind_num_desc"
     } else {
       PROCINFO["sorted_in"] = "@ind_num_asc"
     }
-    for( date in PostsByMonth[f] ) {
-      postsContent = postsContent "\n" PostsByMonth[f][date]
+    for( j in PostsByMonth[i] ) {
+      postsContent = postsContent "\n" PostsByMonth[i][j]
     }
-    if( f != "repost" ) {
+    if( i != "repost" ) {
       print "<ul style=\"list-style: none;\">" > file
-      for( date in PostLinksByMonth[f] ) {
-        print PostLinksByMonth[f][date] > file
+      for( j in PostLinksByMonth[i] ) {
+        print PostLinksByMonth[i][j] > file
       }
       print "</ul>" > file
     }
     print postsContent > file
-    if( f != "repost" && f != "drafts" ) {
-      WriteBottomHtml(file, 0, nextChapter[f] ".html", prevChapter[f] ".html")
+    if( i != "repost" && i != "drafts" ) {
+      WriteBottomHtml(file, 0, nextChapter[i] ".html", prevChapter[i] ".html")
     } else {
       WriteBottomHtml(file, 1)
     }
   }
 
   PROCINFO["sorted_in"] = "@ind_num_desc"
-  for( t in TitlesByTagsAndDates ) {
-    QuickSearch[t] = t ".html"
-    file = "public\\blog\\" t ".html"
-    WriteToHtml(file, "caloni::" t, "index.html", 1)
-    for( d in TitlesByTagsAndDates[t] ) {
-      for( title in TitlesByTagsAndDates[t][d] ) {
-        slug = TitleToSlug[title]
+  for( i in TitlesByTagsAndDates ) {
+    QuickSearch[i] = i ".html"
+    file = "public\\blog\\" i ".html"
+    WriteToHtml(file, "caloni::" i, "index.html", 1)
+    for( j in TitlesByTagsAndDates[i] ) {
+      for( k in TitlesByTagsAndDates[i][j] ) {
+        slug = TitleToSlug[k]
         slugTerms = Index[slug]["tags"] 
         split(slugTerms, sslugTerms)
         ssslugTerms = ""
-        for( st in sslugTerms ) {
-          ssslugTerms = ssslugTerms " [" sslugTerms[st] "]"
+        for( l in sslugTerms ) {
+          ssslugTerms = ssslugTerms " [" sslugTerms[l] "]"
         }
         print "<tr><td>" > file
         if( Index[slug]["image"] ) {
           print "<img src=\"img/" Index[slug]["image"] "\"/>" > file
         }
-        print "<b><a href=\"" TitleToChapter[title] ".html#" ToId(slug) "\">" ToHtml(title) "</a></b>" > file
+        print "<b><a href=\"" TitleToChapter[k] ".html#" ToId(slug) "\">" ToHtml(k) "</a></b>" > file
         print "<small><i>" Index[slug]["date"] ssslugTerms " " Index[slug]["summary"] "</small></i>" > file
         print "</td></tr>" > file
       }
@@ -498,16 +498,16 @@ END {
   tagshtml = "public\\blog\\tags.html"
   WriteToHtml(tagshtml, "caloni::tags", "index.html", 1)
   PROCINFO["sorted_in"] = "@ind_str_asc"
-  for( t in TitlesByTagsAndDates ) {
+  for( i in TitlesByTagsAndDates ) {
     titles = ""
     totalTitles = 0
     PROCINFO["sorted_in"] = "@ind_num_desc"
-    for( d in TitlesByTagsAndDates[t] ) {
-      for( title in TitlesByTagsAndDates[t][d] ) {
+    for( j in TitlesByTagsAndDates[i] ) {
+      for( k in TitlesByTagsAndDates[i][j] ) {
         if( titles == "" ) {
-          titles = title
+          titles = k
         } else {
-          titles = titles " - " title
+          titles = titles " - " k
         }
         totalTitles = totalTitles + 1
         if( totalTitles > 15 ) {
@@ -518,7 +518,7 @@ END {
         break
       }
     }
-    print "<tr><td><b><a href=\"" t ".html" "\">" ToHtml(t) "</a></b>" > tagshtml
+    print "<tr><td><b><a href=\"" i ".html" "\">" ToHtml(i) "</a></b>" > tagshtml
     print "<small><i>" titles "</small></i>" > tagshtml
     print "</td></tr>" > tagshtml
   }
@@ -528,20 +528,20 @@ END {
   postshtml = "public\\blog\\posts.html"
   WriteToHtml(postshtml, "caloni::posts", "index.html", 1)
   PROCINFO["sorted_in"] = "@ind_str_desc"
-  for( date in entries ) {
-    for( slug in entries[date] ) {
-      title = entries[date][slug]
-      split(Index[slug]["tags"], a)
+  for( i in entries ) {
+    for( j in entries[i] ) {
+      title = entries[i][j]
+      split(Index[j]["tags"], a)
       s = ""
-      for( i in a ) {
-        s = s " [" a[i] "]"
+      for( k in a ) {
+        s = s " [" a[k] "]"
       }
       print "<tr><td>" > postshtml
-      if( Index[slug]["image"] ) {
-        print "<img src=\"img/" Index[slug]["image"] "\"/>" > postshtml
+      if( Index[j]["image"] ) {
+        print "<img src=\"img/" Index[j]["image"] "\"/>" > postshtml
       }
-      print "<b><a href=\"" TitleToChapter[title] ".html#" ToId(slug) "\">" ToHtml(title) "</a></b>" > postshtml
-      print "<small><i>" Index[slug]["date"] s " " Index[slug]["summary"] " " slug "</small></i>" > postshtml
+      print "<b><a href=\"" TitleToChapter[title] ".html#" ToId(j) "\">" ToHtml(title) "</a></b>" > postshtml
+      print "<small><i>" Index[j]["date"] s " " Index[j]["summary"] " " j "</small></i>" > postshtml
       print "</td></tr>" > postshtml
     }
   }
