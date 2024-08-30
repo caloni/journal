@@ -361,7 +361,6 @@ function FlushNewPost()
 /^= / {
   if( "title" in NewPost ) {
     FlushNewPost()
-    totalLines = 0
     postlink = ""
     g_tags = ""
     draft = 0
@@ -411,9 +410,9 @@ function FlushNewPost()
 
 
 /^[^=:]/ {
-  newLine = FormatContent($0, totalLines)
+  newLine = FormatContent($0, NewPost["totalLines"])
   if( newLine ) {
-    totalLines = newLine
+    NewPost["totalLines"] = newLine
     if( length(summary) < 200 ) {
       if( index($0, "{{") == 0 && index($0, "```") == 0 ) {
         summary = summary " " $0
