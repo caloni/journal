@@ -17,6 +17,7 @@ BEGIN {
   Blog["text_news"] = "postes publicados no último mês"
   Blog["text_notfound_description"] = "Não quer fazer uma <a href=\"/posts.html\">busca</a>? Às vezes eu mexo e remexo as coisas por aqui."
   Blog["text_notfound_title"] = "Opa, essa página não foi encontrada."
+  Blog["text_page_prefix"] = "caloni"
   Blog["text_posts"] = "lista com toooooooodos os postes do blogue"
   Blog["text_quicksearch"] = "&#x1F41E; digite algo / type something"
   Blog["text_reposts"] = "vale a pena postar de novo"
@@ -308,7 +309,7 @@ function FlushNewPost(    date, chapter, tags, post)
     QuickSearch["repost"] = "repost.html"
     file = Blog["output"] "\\repost.html"
     if( ! ("repost" in Files) ) {
-      WriteToHtml(file, "caloni::repost", "index.html", 1)
+      WriteToHtml(file, Blog["text_page_prefix"] "::repost", "index.html", 1)
       Files["repost"] = "repost"
     }
     post = "<tr><td><b><a href=\"" chapter ".html#" NewPost["slug"] "\">" ToHtml(NewPost["title"]) "</a></b>\n"
@@ -323,7 +324,7 @@ function FlushNewPost(    date, chapter, tags, post)
 
   file = Blog["output"] "\\" chapter ".html"
   if( ! (chapter in Files) ) {
-    WriteToHtml(file, "caloni::" chapter, "months.html", 0)
+    WriteToHtml(file, Blog["text_page_prefix"] "::" chapter, "months.html", 0)
     Files[chapter] = chapter
   }
   for( i in NewPost["lines"] ) {
@@ -436,7 +437,7 @@ function FlushMonthsPage()
 {
   PROCINFO["sorted_in"] = "@ind_num_desc"
   f = Blog["output"] "\\months.html"
-  WriteToHtml(f, "caloni::months", "index.html", 0)
+  WriteToHtml(f, Blog["text_page_prefix"] "::months", "index.html", 0)
   y = "2001"
   for( i in Chapters ) {
     y2 = substr(i, 1, 4)
@@ -497,7 +498,7 @@ function FlushTagsPages()
   for( i in TitlesByTagsAndDates ) {
     QuickSearch[i] = i ".html"
     f = Blog["output"] "\\" i ".html"
-    WriteToHtml(f, "caloni::" i, "index.html", 1)
+    WriteToHtml(f, Blog["text_page_prefix"] "::" i, "index.html", 1)
     for( j in TitlesByTagsAndDates[i] ) {
       for( k in TitlesByTagsAndDates[i][j] ) {
         slug = TitleToSlug[k]
@@ -524,7 +525,7 @@ function FlushTagsPages()
 function FlushTagsPage()
 {
   f = Blog["output"] "\\tags.html"
-  WriteToHtml(f, "caloni::tags", "index.html", 1)
+  WriteToHtml(f, Blog["text_page_prefix"] "::tags", "index.html", 1)
   PROCINFO["sorted_in"] = "@ind_str_asc"
   for( i in TitlesByTagsAndDates ) {
     t = ""
@@ -558,7 +559,7 @@ function FlushTagsPage()
 function FlushPostsPage()
 {
   f = Blog["output"] "\\posts.html"
-  WriteToHtml(f, "caloni::posts", "index.html", 1)
+  WriteToHtml(f, Blog["text_page_prefix"] "::posts", "index.html", 1)
   PROCINFO["sorted_in"] = "@ind_str_desc"
   for( i in DateSlugTitle ) {
     for( j in DateSlugTitle[i] ) {
@@ -615,7 +616,7 @@ function FlushIndexPage()
 function FlushNotFoundPage()
 {
   f = Blog["output"] "\\404.html"
-  WriteToHtml(f, "caloni::404 page not found", "posts.html", 0)
+  WriteToHtml(f, Blog["text_page_prefix"] "::404 page not found", "posts.html", 0)
   print "<div class=\"container\">" > f
   print "  <p class=\"title\">" Blog["text_notfound_title"] "</p>" > f
   print "    <div class=\"content\">" > f
