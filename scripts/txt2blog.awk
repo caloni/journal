@@ -270,8 +270,7 @@ function FlushNewPost()
   repostTags = ""
   split(NewPost["tags"], a)
   for( t in a ) {
-    g_titlesByTags[a[t]][NewPost["title"]] = NewPost["title"]
-    g_titlesByTagsAndDates[a[t]][date][NewPost["title"]] = NewPost["title"]
+    TitlesByTagsAndDates[a[t]][date][NewPost["title"]] = NewPost["title"]
     repostTags = repostTags " [" a[t] "]"
   }
   slugs[NewPost["slug"]]["slug"] = NewPost["slug"]
@@ -293,7 +292,7 @@ function FlushNewPost()
     post = "<tr><td><b><a href=\"" chapter ".html#" ToId(NewPost["slug"]) "\">" ToHtml(NewPost["title"]) "</a></b>\n"
     post = post "<small><i>" NewPost["repost"] " [" date "] " repostTags " " NewPost["summary"] "</small></i>\n"
     post = post "</td></tr>\n"
-    g_postsByMonth["repost"][NewPost["repost"]] = g_postsByMonth["repost"][NewPost["repost"]] "\n" post
+    PostsByMonth["repost"][NewPost["repost"]] = PostsByMonth["repost"][NewPost["repost"]] "\n" post
   }
 
   file = "public\\blog\\" chapter ".html"
@@ -351,9 +350,9 @@ function FlushNewPost()
     }
   }
   post = post "</section><hr/>\n"
-  g_postsByMonth[chapter][date] = g_postsByMonth[chapter][date] "\n" post
+  PostsByMonth[chapter][date] = PostsByMonth[chapter][date] "\n" post
   NewPost["link"] = "<li><small><a href=\"" chapter ".html#" NewPost["slug"] "\">" ToHtml(NewPost["title"]) "</a></small></li>"
-  g_postLinksByMonth[chapter][date] = g_postLinksByMonth[chapter][date] "\n" NewPost["link"]
+  PostLinksByMonth[chapter][date] = PostLinksByMonth[chapter][date] "\n" NewPost["link"]
 
   quickSearch[NewPost["slug"]] = chapter ".html#" ToId(NewPost["slug"])
   delete NewPost
@@ -487,13 +486,13 @@ END {
     } else {
       PROCINFO["sorted_in"] = "@ind_num_asc"
     }
-    for( date in g_postsByMonth[f] ) {
-      postsContent = postsContent "\n" g_postsByMonth[f][date]
+    for( date in PostsByMonth[f] ) {
+      postsContent = postsContent "\n" PostsByMonth[f][date]
     }
     if( f != "repost" ) {
       print "<ul style=\"list-style: none;\">" > file
-      for( date in g_postLinksByMonth[f] ) {
-        print g_postLinksByMonth[f][date] > file
+      for( date in PostLinksByMonth[f] ) {
+        print PostLinksByMonth[f][date] > file
       }
       print "</ul>" > file
     }
@@ -506,12 +505,12 @@ END {
   }
 
   PROCINFO["sorted_in"] = "@ind_num_desc"
-  for( t in g_titlesByTagsAndDates ) {
+  for( t in TitlesByTagsAndDates ) {
     quickSearch[t] = t ".html"
     file = "public\\blog\\" t ".html"
     WriteToHtml(file, "caloni::" t, "index.html", 1)
-    for( d in g_titlesByTagsAndDates[t] ) {
-      for( title in g_titlesByTagsAndDates[t][d] ) {
+    for( d in TitlesByTagsAndDates[t] ) {
+      for( title in TitlesByTagsAndDates[t][d] ) {
         slug = titleToSlug[title]
         slugTerms = slugs[slug]["tags"] 
         split(slugTerms, sslugTerms)
@@ -534,12 +533,12 @@ END {
   tagshtml = "public\\blog\\tags.html"
   WriteToHtml(tagshtml, "caloni::tags", "index.html", 1)
   PROCINFO["sorted_in"] = "@ind_str_asc"
-  for( t in g_titlesByTagsAndDates ) {
+  for( t in TitlesByTagsAndDates ) {
     titles = ""
     totalTitles = 0
     PROCINFO["sorted_in"] = "@ind_num_desc"
-    for( d in g_titlesByTagsAndDates[t] ) {
-      for( title in g_titlesByTagsAndDates[t][d] ) {
+    for( d in TitlesByTagsAndDates[t] ) {
+      for( title in TitlesByTagsAndDates[t][d] ) {
         if( titles == "" ) {
           titles = title
         } else {
