@@ -302,7 +302,7 @@ function WritePost()
   for( st in sstags ) {
     ssstags = ssstags " <a href=\"" sstags[st] ".html\">" sstags[st] "</a>"
   }
-  for( i = 0; i < totalLines; ++i ) {
+  for( i in content ) {
     if( content[i]["content"] != "" ) {
       if( content[i]["type"] != "pre" && content[i]["type"] != "blockquote" ) {
         for( name in links ) {
@@ -338,7 +338,7 @@ function WritePost()
   }
   post = post " " ssstags " <a href=\"" chapter ".html\"> "
   post = post "<sup>[up]</sup></a> <a href=\"javascript:;\" onclick=\"copy_clipboard('section#section-" ToId(slug) "')\"><sup>[copy]</sup></a></span>\n\n"
-  for( i = 1; i <= totalLines; ++i ) {
+  for( i in content ) {
     post = post content[i]["content"]
     if( content[i]["type"] != "pre" ) {
       post = post "\n"
@@ -414,49 +414,6 @@ function WritePost()
       if( index($0, "{{") == 0 && index($0, "```") == 0 ) {
         summary = summary " " $0
       }
-    }
-  }
-}
-
-
-#
-# new metadata logic (wip)
-#
-
-/^= / {
-  ++totalPosts
-  posts[totalPosts]["title"] = substr($0, 3)
-}
-
-/^:/ {
-  totalFields = posts[totalPosts]["totalFields"]
-  fieldName = $1 # todo: remove ':' between field name
-  fieldValueIdx = 2
-  while( fieldValueIdx <= NF ) {
-    fieldValue = $fieldValueIdx
-    ++totalFields
-    posts[totalPosts]["fields"][totalFields] = fieldName " " fieldValue
-    ++fieldValueIdx
-  }
-  posts[totalPosts]["totalFields"] = totalFields
-}
-
-/^[^=:]/ {
-  totalLines = posts[totalPosts]["totalLines"]
-  ++totalLines
-  posts[totalPosts]["lines"][totalLines] = $0
-  posts[totalPosts]["totalLines"] = totalLines
-}
-
-END {
-  metadata = "public\\metadata.txt"
-  for( postIdx = 1; postIdx <= totalPosts; ++postIdx ) {
-    print "title " posts[postIdx]["title"] > metadata
-    for( fieldIdx = 1; fieldIdx <= posts[postIdx]["totalFields"]; ++fieldIdx ) {
-      print "field " posts[postIdx]["fields"][fieldIdx] > metadata
-    }
-    for( lineIdx = 1; lineIdx <= posts[postIdx]["totalLines"]; ++lineIdx ) {
-      print "paragraph " posts[postIdx]["lines"][lineIdx] > metadata
     }
   }
 }
