@@ -380,33 +380,18 @@ function FlushNewPost()
   }
 }
 
-
-/^:/ {
-  if( $1 == ":slug:" ) {
-    NewPost["slug"] = $2
-  }
-  else if( $1 == ":link:" ) {
-    NewPost["link"] = $2
-  }
-  else if( $1 == ":date:" ) {
-    date = $2
-    chapter = substr(date, 1, 7)
-    chapters[chapter] = chapter
-  }
-  else if( $1 == ":update:" ) {
-    NewPost["update"] = $2
-  }
-  else if( $1 == ":tags:" ) {
-    $1 = ""
-    NewPost["tags"] = $0
-  }
-  else if( $1 == ":draft:" ) {
-    NewPost["draft"] = 1
-  }
-  else if( $1 == ":repost:" ) {
-    NewPost["repost"] = $2
-  }
+$1 == ":date:" {
+  date = $2
+  chapter = substr(date, 1, 7)
+  chapters[chapter] = chapter
 }
+
+$1 == ":draft:" { NewPost["draft"] = 1 }
+$1 == ":link:" { NewPost["link"] = $2 }
+$1 == ":repost:" { NewPost["repost"] = $2 }
+$1 == ":slug:" { NewPost["slug"] = $2 }
+$1 == ":tags:" { $1 = "" ; NewPost["tags"] = $0 }
+$1 == ":update:" { NewPost["update"] = $2 }
 
 
 BEGIN {
