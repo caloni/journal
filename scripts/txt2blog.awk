@@ -256,10 +256,13 @@ function FormatContent(line, lastLine)
   return newLine
 }
 
-function FlushNewPost(    date, chapter)
+
+function FlushNewPost(    date, chapter, tags, post)
 {
   date = NewPost["date"]
   chapter = substr(date, 1, 7)
+  split(NewPost["tags"], tags)
+  post = ""
 
   Chapters[chapter] = chapter
   ++postCount
@@ -271,12 +274,6 @@ function FlushNewPost(    date, chapter)
     QuickSearch["drafts"] = "drafts.html"
   }
 
-  repostTags = ""
-  split(NewPost["tags"], a)
-  for( t in a ) {
-    TitlesByTagsAndDates[a[t]][date][NewPost["title"]] = NewPost["title"]
-    repostTags = repostTags " [" a[t] "]"
-  }
   Index[NewPost["slug"]]["slug"] = NewPost["slug"]
   Index[NewPost["slug"]]["title"] = NewPost["title"]
   Index[NewPost["slug"]]["date"] = date
@@ -285,6 +282,9 @@ function FlushNewPost(    date, chapter)
   Index[NewPost["slug"]]["image"] = NewPost["image"]
   TitleToSlug[NewPost["title"]] = NewPost["slug"]
   TitleToChapter[NewPost["title"]] = chapter
+  for( i in tags ) {
+    TitlesByTagsAndDates[tags[i]][date][NewPost["title"]] = NewPost["title"]
+  }
 
   if ( "repost" in NewPost ) {
     QuickSearch["repost"] = "repost.html"
@@ -294,7 +294,11 @@ function FlushNewPost(    date, chapter)
       files["repost"] = "repost"
     }
     post = "<tr><td><b><a href=\"" chapter ".html#" ToId(NewPost["slug"]) "\">" ToHtml(NewPost["title"]) "</a></b>\n"
-    post = post "<small><i>" NewPost["repost"] " [" date "] " repostTags " " NewPost["summary"] "</small></i>\n"
+    post = post "<small><i>" NewPost["repost"] " [" date "] "
+    for( i in tags ) {
+      post = post " [" tags[i] "]"
+    }
+    post = post " " NewPost["summary"] "</small></i>\n"
     post = post "</td></tr>\n"
     PostsByMonth["repost"][NewPost["repost"]] = PostsByMonth["repost"][NewPost["repost"]] "\n" post
   }
