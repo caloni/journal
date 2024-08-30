@@ -256,8 +256,12 @@ function FormatContent(line, lastLine)
   return newLine
 }
 
-function FlushNewPost()
+function FlushNewPost(    date, chapter)
 {
+  date = NewPost["date"]
+  chapter = substr(date, 1, 7)
+
+  Chapters[chapter] = chapter
   ++postCount
   entries[date][NewPost["slug"]] = NewPost["title"]
 
@@ -279,8 +283,8 @@ function FlushNewPost()
   Index[NewPost["slug"]]["summary"] = NewPost["summary"]
   Index[NewPost["slug"]]["tags"] = NewPost["tags"]
   Index[NewPost["slug"]]["image"] = NewPost["image"]
-  titleToSlug[NewPost["title"]] = NewPost["slug"]
-  titleToChapter[NewPost["title"]] = chapter
+  TitleToSlug[NewPost["title"]] = NewPost["slug"]
+  TitleToChapter[NewPost["title"]] = chapter
 
   if ( "repost" in NewPost ) {
     QuickSearch["repost"] = "repost.html"
@@ -356,6 +360,7 @@ function FlushNewPost()
 
   QuickSearch[NewPost["slug"]] = chapter ".html#" ToId(NewPost["slug"])
   delete NewPost
+  NewPost["date"] = date
 }
 
 
@@ -380,12 +385,8 @@ function FlushNewPost()
   }
 }
 
-$1 == ":date:" {
-  date = $2
-  chapter = substr(date, 1, 7)
-  chapters[chapter] = chapter
-}
 
+$1 == ":date:" { NewPost["date"] = $2 }
 $1 == ":draft:" { NewPost["draft"] = 1 }
 $1 == ":link:" { NewPost["link"] = $2 }
 $1 == ":repost:" { NewPost["repost"] = $2 }
@@ -407,31 +408,31 @@ END {
 
   PROCINFO["sorted_in"] = "@ind_num_asc"
   nChapter = "index"
-  for( chapter in chapters ) {
-    nextChapter[chapter] = nChapter
-    nChapter = chapter
+  for( i in Chapters ) {
+    nextChapter[Chapters[i]] = nChapter
+    nChapter = Chapters[i]
   }
   PROCINFO["sorted_in"] = "@ind_num_desc"
   monthshtml = "public\\blog\\months.html"
   WriteToHtml(monthshtml, "caloni::months", "index.html", 0)
   lastyear = "2001"
   pChapter = "index"
-  for( chapter in chapters ) {
-    prevChapter[chapter] = pChapter
-    pChapter = chapter
-    year = substr(chapter, 1, 4)
-    mon = substr(chapter, 6, 2)
+  for( i in Chapters ) {
+    prevChapter[Chapters[i]] = pChapter
+    pChapter = Chapters[i]
+    year = substr(Chapters[i], 1, 4)
+    mon = substr(Chapters[i], 6, 2)
     if( year != lastyear ) {
       if( lastyear != "2001" ) {
         print "</p>" > monthshtml
       }
-      print "<p id=\"" ToId(chapter) "\" class=\"toc\"><strong>" year "</strong>" > monthshtml
+      print "<p id=\"" ToId(Chapters[i]) "\" class=\"toc\"><strong>" year "</strong>" > monthshtml
       lastyear = year
     }
-    print "<a href=\"" chapter ".html\"> " ToHtml(mon) " </a>" > monthshtml
-    QuickSearch[chapter] = chapter ".html"
+    print "<a href=\"" Chapters[i] ".html\"> " ToHtml(mon) " </a>" > monthshtml
+    QuickSearch[Chapters[i]] = Chapters[i] ".html"
     if( ! lastmonth ) {
-      lastmonth = chapter
+      lastmonth = Chapters[i]
     }
   }
   print "</p>" > monthshtml
@@ -472,7 +473,7 @@ END {
     WriteToHtml(file, "caloni::" t, "index.html", 1)
     for( d in TitlesByTagsAndDates[t] ) {
       for( title in TitlesByTagsAndDates[t][d] ) {
-        slug = titleToSlug[title]
+        slug = TitleToSlug[title]
         slugTerms = Index[slug]["tags"] 
         split(slugTerms, sslugTerms)
         ssslugTerms = ""
@@ -483,7 +484,7 @@ END {
         if( Index[slug]["image"] ) {
           print "<img src=\"img/" Index[slug]["image"] "\"/>" > file
         }
-        print "<b><a href=\"" titleToChapter[title] ".html#" ToId(slug) "\">" ToHtml(title) "</a></b>" > file
+        print "<b><a href=\"" TitleToChapter[title] ".html#" ToId(slug) "\">" ToHtml(title) "</a></b>" > file
         print "<small><i>" Index[slug]["date"] ssslugTerms " " Index[slug]["summary"] "</small></i>" > file
         print "</td></tr>" > file
       }
@@ -536,7 +537,7 @@ END {
       if( Index[slug]["image"] ) {
         print "<img src=\"img/" Index[slug]["image"] "\"/>" > postshtml
       }
-      print "<b><a href=\"" titleToChapter[title] ".html#" ToId(slug) "\">" ToHtml(title) "</a></b>" > postshtml
+      print "<b><a href=\"" TitleToChapter[title] ".html#" ToId(slug) "\">" ToHtml(title) "</a></b>" > postshtml
       print "<small><i>" Index[slug]["date"] s " " Index[slug]["summary"] " " slug "</small></i>" > postshtml
       print "</td></tr>" > postshtml
     }
