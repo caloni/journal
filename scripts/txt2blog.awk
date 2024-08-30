@@ -10,14 +10,16 @@ BEGIN {
   Blog["generator"] = "txt2blog 0.0.1"
   Blog["link"] = "http://www.caloni.com.br"
   Blog["output"] = "public\\blog"
+  Blog["text_drafts"] = ""
   Blog["text_favorite_tags"]["coding"] = "programação, depuração, transpiração"
   Blog["text_favorite_tags"]["movies"] = "o finado Cine Tênis Verde veio parar aqui"
   Blog["text_months"] = "lista dos meses com postes"
   Blog["text_news"] = "postes publicados no último mês"
+  Blog["text_notfound_description"] = "Não quer fazer uma <a href=\"/posts.html\">busca</a>? Às vezes eu mexo e remexo as coisas por aqui."
+  Blog["text_notfound_title"] = "Opa, essa página não foi encontrada."
   Blog["text_posts"] = "lista com toooooooodos os postes do blogue"
   Blog["text_quicksearch"] = "&#x1F41E; digite algo / type something"
   Blog["text_reposts"] = "vale a pena postar de novo"
-  Blog["text_drafts"] = ""
   Blog["text_tags"] = "todos os rótulos dos postes"
   Blog["title"] = "Blogue do Caloni"
 }
@@ -615,9 +617,9 @@ function FlushNotFoundPage()
   f = Blog["output"] "\\404.html"
   WriteToHtml(f, "caloni::404 page not found", "posts.html", 0)
   print "<div class=\"container\">" > f
-  print "  <p class=\"title\">Opa, essa página não foi encontrada.</p>" > f
+  print "  <p class=\"title\">" Blog["text_notfound_title"] "</p>" > f
   print "    <div class=\"content\">" > f
-  print "      <p>Não quer fazer uma <a href=\"/posts.html\">busca</a>? Às vezes eu mexo e remexo as coisas por aqui.</p>" > f
+  print "      <p>" Blog["text_notfound_description"] "</p>" > f
   print "    </div>" > f
   print "</div>" > f
   WriteBottomHtml(f, 0)
