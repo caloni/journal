@@ -1,3 +1,8 @@
+# Transform pseudo-markdown text to html blog posts.
+# Wanderley Caloni <wanderley.caloni@gmail.com>
+# 2024-08-29 v. 0.0.1
+
+
 function ToId(str)
 {
   return str
@@ -36,15 +41,15 @@ function WriteToHtml(file, title, backLink, filter, quickSearch)
   print "<head>" > file
   print "<meta charset=\"utf-8\" />" > file
   print "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/>" > file
-  print "<title>" Posts[0]["title"] "</title>" > file
+  print "<title>" Blog["title"] "</title>" > file
   print "<meta name=\"author\" content=\"\" />" > file
   print "<meta name=\"generator\" content=\"Hugo 0.110.0\">" > file
-  print "<meta property=\"og:title\" content=\"" Posts[0]["title"] "\"/>" > file
+  print "<meta property=\"og:title\" content=\"" Blog["title"] "\"/>" > file
   print "<meta property=\"og:type\" content=\"website\"/>" > file
   print "<meta property=\"og:url\" content=\"http://www.caloni.com.br/\"/>" > file
   print "<meta property=\"og:image\" content=\"/img/author.jpg\"/>" > file
   print "<meta property=\"og:description\" content=\"\"/>" > file
-  print "<link href=\"/index.xml\" rel=\"feed\" type=\"application/rss+xml\" title=\"" Posts[0]["title"] "\"/>" > file
+  print "<link href=\"/index.xml\" rel=\"feed\" type=\"application/rss+xml\" title=\"" Blog["title"] "\"/>" > file
   print "<link rel=\"stylesheet\" type=\"text/css\" href=\"/css/custom.css\"/>" > file
   print "<link rel=\"stylesheet\" type=\"text/css\" href=\"/css/jquery-ui.css\"/>" > file
   print "<link rel=\"stylesheet\" type=\"text/css\" href=\"/css/board-min.css\"/>" > file
@@ -115,7 +120,9 @@ function WriteBottomHtml(file, filter, nextLink, prevLink, version)
   print "</section>" > file
   print "<footer class=\"footer\">" > file
   print "<div class=\"container\">" > file
-  print "<p><small><i>" version "</i></small></p>" > file
+  if( version ) {
+    print "<p><small><i>" version "</i></small></p>" > file
+  }
   print "</div>" > file
   print "</footer>" > file
   print "</body>" > file
@@ -216,15 +223,15 @@ function FormatContent(line, lastLine)
         link = "<a href=\"" link "\">" name "</a>"
       }
 
-      links[name] = link
+      NewPost["links"][name] = link
       line = ""
       type = "link"
       break
     }
 
     if( index(line, "image::") == 1 ) {
-      image = gensub(/image::(.*)\[.*\]/, slug "-\\1", "g", line)
-      line = gensub(/image::(.*)\[.*\]/, "<img src=\"img/" slug "-\\1\"/>", "g", line)
+      NewPost["image"] = gensub(/image::(.*)\[.*\]/, NewPost["slug"] "-\\1", "g", line)
+      line = gensub(/image::(.*)\[.*\]/, "<img src=\"img/" NewPost["slug"] "-\\1\"/>", "g", line)
       type = "img"
       break
     }
@@ -244,52 +251,48 @@ function FormatContent(line, lastLine)
   } while( 0 )
 
   newLine = lastLine + 1
-  content[newLine]["content"] = prefix line suffix
-  content[newLine]["type"] = type
+  NewPost["lines"][newLine]["content"] = prefix line suffix
+  NewPost["lines"][newLine]["type"] = type
   return newLine
 }
 
-function WritePost()
+function FlushNewPost()
 {
   ++postCount
-  if( slug == "" ) {
-    slug = ToSlug(title)
-  }
-  entries[date][slug] = title
+  entries[date][NewPost["slug"]] = NewPost["title"]
 
-  if( draft ) {
-    draftToSlug[title] = slug
+  if( "draft" in NewPost ) {
+    draftToSlug[NewPost["title"]] = NewPost["slug"]
     chapter = "drafts"
     quickSearch["drafts"] = "drafts.html"
   }
 
   repostTags = ""
-  split(g_tags, a)
+  split(NewPost["tags"], a)
   for( t in a ) {
-    g_titlesByTags[a[t]][title] = title
-    g_titlesByTagsAndDates[a[t]][date][title] = title
+    TitlesByTagsAndDates[a[t]][date][NewPost["title"]] = NewPost["title"]
     repostTags = repostTags " [" a[t] "]"
   }
-  slugs[slug]["slug"] = slug
-  slugs[slug]["title"] = title
-  slugs[slug]["date"] = date
-  slugs[slug]["summary"] = summary
-  slugs[slug]["tags"] = g_tags
-  slugs[slug]["image"] = image
-  titleToSlug[title] = slug
-  titleToChapter[title] = chapter
+  slugs[NewPost["slug"]]["slug"] = NewPost["slug"]
+  slugs[NewPost["slug"]]["title"] = NewPost["title"]
+  slugs[NewPost["slug"]]["date"] = date
+  slugs[NewPost["slug"]]["summary"] = NewPost["summary"]
+  slugs[NewPost["slug"]]["tags"] = NewPost["tags"]
+  slugs[NewPost["slug"]]["image"] = NewPost["image"]
+  titleToSlug[NewPost["title"]] = NewPost["slug"]
+  titleToChapter[NewPost["title"]] = chapter
 
-  if ( repost != "" ) {
+  if ( "repost" in NewPost ) {
     quickSearch["repost"] = "repost.html"
     file = "public\\blog\\repost.html"
     if( ! ("repost" in files) ) {
       WriteToHtml(file, "caloni::repost", "index.html", 1)
       files["repost"] = "repost"
     }
-    post = "<tr><td><b><a href=\"" chapter ".html#" ToId(slug) "\">" ToHtml(title) "</a></b>\n"
-    post = post "<small><i>" repost " [" date "] " repostTags " " summary "</small></i>\n"
+    post = "<tr><td><b><a href=\"" chapter ".html#" ToId(NewPost["slug"]) "\">" ToHtml(NewPost["title"]) "</a></b>\n"
+    post = post "<small><i>" NewPost["repost"] " [" date "] " repostTags " " NewPost["summary"] "</small></i>\n"
     post = post "</td></tr>\n"
-    g_postsByMonth["repost"][repost] = g_postsByMonth["repost"][repost] "\n" post
+    PostsByMonth["repost"][NewPost["repost"]] = PostsByMonth["repost"][NewPost["repost"]] "\n" post
   }
 
   file = "public\\blog\\" chapter ".html"
@@ -298,174 +301,103 @@ function WritePost()
     files[chapter] = chapter
   }
   ssstags = ""
-  split(g_tags, sstags)
+  split(NewPost["tags"], sstags)
   for( st in sstags ) {
     ssstags = ssstags " <a href=\"" sstags[st] ".html\">" sstags[st] "</a>"
   }
-  for( i = 0; i < totalLines; ++i ) {
-    if( content[i]["content"] != "" ) {
-      if( content[i]["type"] != "pre" && content[i]["type"] != "blockquote" ) {
-        for( name in links ) {
-          search = "\\[" name "\\]"
-          gsub(search, links[name], content[i]["content"])
+  for( i in NewPost["lines"] ) {
+    if( NewPost["lines"][i]["content"] != "" ) {
+      if( NewPost["lines"][i]["type"] != "pre" && NewPost["lines"][i]["type"] != "blockquote" ) {
+        if( "links" in NewPost ) {
+          for( name in NewPost["links"] ) {
+            search = "\\[" name "\\]"
+            gsub(search, NewPost["links"][name], NewPost["lines"][i]["content"])
+          }
         }
       }
 
-      if( content[i]["type"] == "pre" ) {
-        content[i]["content"] = ToHtml(content[i]["content"])
-        if( content[i-1]["type"] != content[i]["type"] ) {
-          content[i]["content"] = "<" content[i]["type"] ">\n" content[i]["content"]
+      if( NewPost["lines"][i]["type"] == "pre" ) {
+        NewPost["lines"][i]["content"] = ToHtml(NewPost["lines"][i]["content"])
+        if( NewPost["lines"][i-1]["type"] != NewPost["lines"][i]["type"] ) {
+          NewPost["lines"][i]["content"] = "<" NewPost["lines"][i]["type"] ">\n" NewPost["lines"][i]["content"]
         }
-        if( content[i+1]["type"] != content[i]["type"] ) {
-          content[i]["content"] = content[i]["content"] "</" content[i]["type"] ">\n"
+        if( NewPost["lines"][i+1]["type"] != NewPost["lines"][i]["type"] ) {
+          NewPost["lines"][i]["content"] = NewPost["lines"][i]["content"] "</" NewPost["lines"][i]["type"] ">\n"
         }
       } else {
-        content[i]["content"] = gensub(/\[([^\]]+)\]/, "<a href=\"posts.html?q=\\1\">\\1</a>", "g", content[i]["content"])
+        NewPost["lines"][i]["content"] = gensub(/\[([^\]]+)\]/, "<a href=\"posts.html?q=\\1\">\\1</a>", "g", NewPost["lines"][i]["content"])
       }
     }
   }
 
-  post = "<span id=\"" ToId(slug) "\" title=\"" ToHtml(title) "\"/></span>\n"
-  post = post "<section id=\"section-" ToId(slug) "\">\n"
-  if( postlink != "" ) {
-    post = post "<p class=\"title\"><a href=\"" chapter ".html#" ToId(slug) "\">#</a> <a class=\"external\" href=\"" postlink "\">" ToHtml(title) "</a></p>\n"
+  post = "<span id=\"" ToId(NewPost["slug"]) "\" title=\"" ToHtml(NewPost["title"]) "\"/></span>\n"
+  post = post "<section id=\"section-" ToId(NewPost["slug"]) "\">\n"
+  if( "link" in NewPost ) {
+    post = post "<p class=\"title\"><a href=\"" chapter ".html#" ToId(NewPost["slug"]) "\">#</a> <a class=\"external\" href=\"" NewPost["link"] "\">" ToHtml(NewPost["title"]) "</a></p>\n"
   } else {
-    post = post "<p class=\"title\"><a href=\"" chapter ".html#" ToId(slug) "\">#</a> " ToHtml(title) "</p>\n"
+    post = post "<p class=\"title\"><a href=\"" chapter ".html#" ToId(NewPost["slug"]) "\">#</a> " ToHtml(NewPost["title"]) "</p>\n"
   }
   post = post "<span class=\"title-heading\">Wanderley Caloni, " date
-  if( update != "" ) {
-    post = post " (updated " update ")"
+  if( "update" in NewPost ) {
+    post = post " (updated " NewPost["update"] ")"
   }
   post = post " " ssstags " <a href=\"" chapter ".html\"> "
-  post = post "<sup>[up]</sup></a> <a href=\"javascript:;\" onclick=\"copy_clipboard('section#section-" ToId(slug) "')\"><sup>[copy]</sup></a></span>\n\n"
-  for( i = 1; i <= totalLines; ++i ) {
-    post = post content[i]["content"]
-    if( content[i]["type"] != "pre" ) {
+  post = post "<sup>[up]</sup></a> <a href=\"javascript:;\" onclick=\"copy_clipboard('section#section-" ToId(NewPost["slug"]) "')\"><sup>[copy]</sup></a></span>\n\n"
+  for( i in NewPost["lines"] ) {
+    post = post NewPost["lines"][i]["content"]
+    if( NewPost["lines"][i]["type"] != "pre" ) {
       post = post "\n"
     }
   }
   post = post "</section><hr/>\n"
-  g_postsByMonth[chapter][date] = g_postsByMonth[chapter][date] "\n" post
-  postLink = "<li><small><a href=\"" chapter ".html#" slug "\">" ToHtml(title) "</a></small></li>"
-  g_postLinksByMonth[chapter][date] = g_postLinksByMonth[chapter][date] "\n" postLink
+  PostsByMonth[chapter][date] = PostsByMonth[chapter][date] "\n" post
+  NewPost["link"] = "<li><small><a href=\"" chapter ".html#" NewPost["slug"] "\">" ToHtml(NewPost["title"]) "</a></small></li>"
+  PostLinksByMonth[chapter][date] = PostLinksByMonth[chapter][date] "\n" NewPost["link"]
 
-  quickSearch[slug] = chapter ".html#" ToId(slug)
+  quickSearch[NewPost["slug"]] = chapter ".html#" ToId(NewPost["slug"])
+  delete NewPost
 }
 
 
 /^= / {
-  if( 1 in content ) {
-    WritePost()
-    delete content
-    totalLines = 0
-    slug = ""
-    postlink = ""
-    g_tags = ""
-    draft = 0
-    repost = ""
-    update = ""
-    summary = ""
-    image = ""
-    delete links
+  if( "title" in NewPost ) {
+    FlushNewPost()
   }
-  title = substr($0, 3)
-}
-
-
-/^:/ {
-  if( $1 == ":slug:" ) {
-    slug = $2
-  }
-  else if( $1 == ":link:" ) {
-    postlink = $2
-  }
-  else if( $1 == ":date:" ) {
-    date = $2
-    chapter = substr(date, 1, 7)
-    chapters[chapter] = chapter
-  }
-  else if( $1 == ":update:" ) {
-    update = $2
-  }
-  else if( $1 == ":tags:" ) {
-    i = 2
-    while( i <= NF ) {
-      tag = $i
-      if( tag != "null" ) {
-        g_tags = g_tags " " tag
-      }
-      ++i
-    }
-  }
-  else if( $1 == ":draft:" ) {
-    draft = 1
-  }
-  else if( $1 == ":repost:" ) {
-    repost = $2
-  }
+  NewPost["title"] = substr($0, 3)
+  NewPost["slug"] = ToSlug(NewPost["title"])
 }
 
 
 /^[^=:]/ {
-  newLine = FormatContent($0, totalLines)
+  newLine = FormatContent($0, NewPost["totalLines"])
   if( newLine ) {
-    totalLines = newLine
-    if( length(summary) < 200 ) {
+    NewPost["totalLines"] = newLine
+    if( length(NewPost["summary"]) < 200 ) {
       if( index($0, "{{") == 0 && index($0, "```") == 0 ) {
-        summary = summary " " $0
+        NewPost["summary"] = NewPost["summary"] " " $0
       }
     }
   }
 }
 
-
-#
-# new metadata logic (wip)
-#
-
-/^= / {
-  ++totalPosts
-  posts[totalPosts]["title"] = substr($0, 3)
+$1 == ":date:" {
+  date = $2
+  chapter = substr(date, 1, 7)
+  chapters[chapter] = chapter
 }
 
-/^:/ {
-  totalFields = posts[totalPosts]["totalFields"]
-  fieldName = $1 # todo: remove ':' between field name
-  fieldValueIdx = 2
-  while( fieldValueIdx <= NF ) {
-    fieldValue = $fieldValueIdx
-    ++totalFields
-    posts[totalPosts]["fields"][totalFields] = fieldName " " fieldValue
-    ++fieldValueIdx
-  }
-  posts[totalPosts]["totalFields"] = totalFields
-}
-
-/^[^=:]/ {
-  totalLines = posts[totalPosts]["totalLines"]
-  ++totalLines
-  posts[totalPosts]["lines"][totalLines] = $0
-  posts[totalPosts]["totalLines"] = totalLines
-}
-
-END {
-  metadata = "public\\metadata.txt"
-  for( postIdx = 1; postIdx <= totalPosts; ++postIdx ) {
-    print "title " posts[postIdx]["title"] > metadata
-    for( fieldIdx = 1; fieldIdx <= posts[postIdx]["totalFields"]; ++fieldIdx ) {
-      print "field " posts[postIdx]["fields"][fieldIdx] > metadata
-    }
-    for( lineIdx = 1; lineIdx <= posts[postIdx]["totalLines"]; ++lineIdx ) {
-      print "paragraph " posts[postIdx]["lines"][lineIdx] > metadata
-    }
-  }
-}
+$1 == ":draft:" { NewPost["draft"] = 1 }
+$1 == ":link:" { NewPost["link"] = $2 }
+$1 == ":repost:" { NewPost["repost"] = $2 }
+$1 == ":slug:" { NewPost["slug"] = $2 }
+$1 == ":tags:" { $1 = "" ; NewPost["tags"] = $0 }
+$1 == ":update:" { NewPost["update"] = $2 }
 
 
 BEGIN {
-  Posts[0]["title"] = "Blogue do Caloni"
+  Blog["title"] = "Blogue do Caloni"
+  "date" | getline Blog["build"]
 
-  "date" | getline currentDate
   convertLetters["Á"] = "A"
   convertLetters["À"] = "A"
   convertLetters["Â"] = "A"
@@ -487,8 +419,8 @@ BEGIN {
 
 
 END {
-  if( 1 in content ) {
-    WritePost()
+  if( "title" in NewPost ) {
+    FlushNewPost()
   }
 
   PROCINFO["sorted_in"] = "@ind_num_asc"
@@ -533,13 +465,13 @@ END {
     } else {
       PROCINFO["sorted_in"] = "@ind_num_asc"
     }
-    for( date in g_postsByMonth[f] ) {
-      postsContent = postsContent "\n" g_postsByMonth[f][date]
+    for( date in PostsByMonth[f] ) {
+      postsContent = postsContent "\n" PostsByMonth[f][date]
     }
     if( f != "repost" ) {
       print "<ul style=\"list-style: none;\">" > file
-      for( date in g_postLinksByMonth[f] ) {
-        print g_postLinksByMonth[f][date] > file
+      for( date in PostLinksByMonth[f] ) {
+        print PostLinksByMonth[f][date] > file
       }
       print "</ul>" > file
     }
@@ -552,12 +484,12 @@ END {
   }
 
   PROCINFO["sorted_in"] = "@ind_num_desc"
-  for( t in g_titlesByTagsAndDates ) {
+  for( t in TitlesByTagsAndDates ) {
     quickSearch[t] = t ".html"
     file = "public\\blog\\" t ".html"
     WriteToHtml(file, "caloni::" t, "index.html", 1)
-    for( d in g_titlesByTagsAndDates[t] ) {
-      for( title in g_titlesByTagsAndDates[t][d] ) {
+    for( d in TitlesByTagsAndDates[t] ) {
+      for( title in TitlesByTagsAndDates[t][d] ) {
         slug = titleToSlug[title]
         slugTerms = slugs[slug]["tags"] 
         split(slugTerms, sslugTerms)
@@ -580,12 +512,12 @@ END {
   tagshtml = "public\\blog\\tags.html"
   WriteToHtml(tagshtml, "caloni::tags", "index.html", 1)
   PROCINFO["sorted_in"] = "@ind_str_asc"
-  for( t in g_titlesByTagsAndDates ) {
+  for( t in TitlesByTagsAndDates ) {
     titles = ""
     totalTitles = 0
     PROCINFO["sorted_in"] = "@ind_num_desc"
-    for( d in g_titlesByTagsAndDates[t] ) {
-      for( title in g_titlesByTagsAndDates[t][d] ) {
+    for( d in TitlesByTagsAndDates[t] ) {
+      for( title in TitlesByTagsAndDates[t][d] ) {
         if( titles == "" ) {
           titles = title
         } else {
@@ -631,7 +563,7 @@ END {
   quickSearch["posts"] = "posts.html"
 
   indexhtml = "public\\blog\\index.html"
-  WriteToHtml(indexhtml, Posts[0]["title"], "2007-06.html#_about", 0, quickSearch)
+  WriteToHtml(indexhtml, Blog["title"], "2007-06.html#_about", 0, quickSearch)
   print "<input type=\"text\" name=\"quick_search_name\" value=\"\" id=\"quick_search\" placeholder=\"&#x1F41E; digite algo / type something\" style=\"width: 100%; font-size: 1.5rem; margin-top: 1em; margin-bottom: 0.5em;\" title=\"\"/></br>" > indexhtml
   print "<big><a href=\"tag_coding.html\">coding</a></big><small><i>: programação, depuração, transpiração.</small></i></br>" > indexhtml
   print "<big><a href=\"tag_movies.html\">movies</a></big><small><i>: o finado Cine Tênis Verde veio parar aqui.</small></i></br>" > indexhtml
@@ -648,7 +580,7 @@ END {
   print "<div><big><span style=\"visibility: hidden; padding: 5px;\" name=\"results\" id=\"results\">...</span></big></div>" > indexhtml
   print "<table class=\"sortable\" style=\"width: 100%;\">" > indexhtml
   print "</table>" > indexhtml
-  WriteBottomHtml(indexhtml, 0, "", "", currentDate)
+  WriteBottomHtml(indexhtml, 0, "", "", Blog["build"])
 
   notfoundhtml = "public\\blog\\404.html"
   WriteToHtml(notfoundhtml, "caloni::404 page not found", "posts.html", 0)
