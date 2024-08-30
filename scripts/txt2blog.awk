@@ -3,13 +3,22 @@
 # 2024-08-30
 
 BEGIN {
+  "date" | getline Blog["build"]
   Blog["author"] = "Caloni"
   Blog["author-image"] = "/img/about-author.jpg"
-  "date" | getline Blog["build"]
   Blog["description"] = "Write for computers, people and food."
   Blog["generator"] = "txt2blog 0.0.1"
   Blog["link"] = "http://www.caloni.com.br"
   Blog["output"] = "public\\blog"
+  Blog["text_favorite_tags"]["coding"] = "programação, depuração, transpiração"
+  Blog["text_favorite_tags"]["movies"] = "o finado Cine Tênis Verde veio parar aqui"
+  Blog["text_months"] = "lista dos meses com postes"
+  Blog["text_news"] = "postes publicados no último mês"
+  Blog["text_posts"] = "lista com toooooooodos os postes do blogue"
+  Blog["text_quicksearch"] = "&#x1F41E; digite algo / type something"
+  Blog["text_reposts"] = "vale a pena postar de novo"
+  Blog["text_drafts"] = ""
+  Blog["text_tags"] = "todos os rótulos dos postes"
   Blog["title"] = "Blogue do Caloni"
 }
 
@@ -580,18 +589,19 @@ function FlushIndexPage()
   }
   f = Blog["output"] "\\index.html"
   WriteToHtml(f, Blog["title"], c ".html#about", 0, QuickSearch)
-  print "<input type=\"text\" name=\"quick_search_name\" value=\"\" id=\"quick_search\" placeholder=\"&#x1F41E; digite algo / type something\" style=\"width: 100%; font-size: 1.5rem; margin-top: 1em; margin-bottom: 0.5em;\" title=\"\"/></br>" > f
-  print "<big><a href=\"tag_coding.html\">coding</a></big><small><i>: programação, depuração, transpiração.</small></i></br>" > f
-  print "<big><a href=\"tag_movies.html\">movies</a></big><small><i>: o finado Cine Tênis Verde veio parar aqui.</small></i></br>" > f
-  print "<big><a href=\"tags.html\">tags</a></big><small><i>: todos os rótulos dos postes.</small></i></br>" > f
-  print "<big><a href=\"" lastmonth ".html\">news</a></big><small><i>: postes publicados no último mês.</small></i></br>" > f
-  print "<big><a href=\"months.html\">months</a></big><small><i>: lista dos meses com postes.</small></i></br>" > f
-  print "<big><a href=\"posts.html\">posts</a></big><small><i>: lista com toooooooodos os postes do blogue.</small></i></br>" > f
+  print "<input type=\"text\" name=\"quick_search_name\" value=\"\" id=\"quick_search\" placeholder=\"" Blog["text_quicksearch"] "\" style=\"width: 100%; font-size: 1.5rem; margin-top: 1em; margin-bottom: 0.5em;\" title=\"\"/></br>" > f
+  for( i in Blog["text_favorite_tags"] ) {
+    print "<big><a href=\"tag_" i ".html\">" i "</a></big><small><i>: " Blog["text_favorite_tags"][i] ".</small></i></br>" > f
+  }
+  print "<big><a href=\"tags.html\">tags</a></big><small><i>: " Blog["text_tags"] ".</small></i></br>" > f
+  print "<big><a href=\"" lastmonth ".html\">news</a></big><small><i>: " Blog["text_news"] ".</small></i></br>" > f
+  print "<big><a href=\"months.html\">months</a></big><small><i>: " Blog["text_months"] ".</small></i></br>" > f
+  print "<big><a href=\"posts.html\">posts</a></big><small><i>: " Blog["text_posts"] ".</small></i></br>" > f
   if( "repost" in QuickSearch ) {
-    print "<big><a href=\"repost.html\">reposts</a></big><small><i>: vale a pena postar de novo.</small></i></br>" > f
+    print "<big><a href=\"repost.html\">reposts</a></big><small><i>: " Blog["text_reposts"] ".</small></i></br>" > f
   }
   if( "drafts" in QuickSearch ) {
-    print "<big><a href=\"drafts.html\">drafts</a></big><small><i>: postes em progresso.</small></i></br>" > f
+    print "<big><a href=\"drafts.html\">drafts</a></big><small><i>: " Blog["text_drafts"] ".</small></i></br>" > f
   }
   print "<div><big><span style=\"visibility: hidden; padding: 5px;\" name=\"results\" id=\"results\">...</span></big></div>" > f
   print "<table class=\"sortable\" style=\"width: 100%;\">" > f
