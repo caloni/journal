@@ -368,6 +368,19 @@ function FlushNewPost()
 }
 
 
+/^[^=:]/ {
+  newLine = FormatContent($0, NewPost["totalLines"])
+  if( newLine ) {
+    NewPost["totalLines"] = newLine
+    if( length(NewPost["summary"]) < 200 ) {
+      if( index($0, "{{") == 0 && index($0, "```") == 0 ) {
+        NewPost["summary"] = NewPost["summary"] " " $0
+      }
+    }
+  }
+}
+
+
 /^:/ {
   if( $1 == ":slug:" ) {
     NewPost["slug"] = $2
@@ -384,33 +397,14 @@ function FlushNewPost()
     NewPost["update"] = $2
   }
   else if( $1 == ":tags:" ) {
-    i = 2
-    while( i <= NF ) {
-      tag = $i
-      if( tag != "null" ) {
-        NewPost["tags"] = NewPost["tags"] " " tag
-      }
-      ++i
-    }
+    $1 = ""
+    NewPost["tags"] = $0
   }
   else if( $1 == ":draft:" ) {
     NewPost["draft"] = 1
   }
   else if( $1 == ":repost:" ) {
     NewPost["repost"] = $2
-  }
-}
-
-
-/^[^=:]/ {
-  newLine = FormatContent($0, NewPost["totalLines"])
-  if( newLine ) {
-    NewPost["totalLines"] = newLine
-    if( length(NewPost["summary"]) < 200 ) {
-      if( index($0, "{{") == 0 && index($0, "```") == 0 ) {
-        NewPost["summary"] = NewPost["summary"] " " $0
-      }
-    }
   }
 }
 
