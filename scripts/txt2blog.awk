@@ -239,6 +239,10 @@ function FormatContent(line, lastLine,    prefix, suffix, paragraph, newLine, ty
       if( link ~ /[a-z]:\/\// ) {
         link = "<a href=\"" link "\">" name "</a>"
       }
+      else if( link in Index ) {
+        link = Index[link]["link"]
+        link = "<a href=\"" link "\">" name "</a>"
+      }
       else {
         link = gensub(/(.*)/, "posts.html?q=\\1", "g", link)
         link = "<a href=\"" link "\">" name "</a>"
@@ -296,6 +300,7 @@ function FlushNewPost(    date, chapter, tags, post)
   Index[NewPost["slug"]]["slug"] = NewPost["slug"]
   Index[NewPost["slug"]]["title"] = NewPost["title"]
   Index[NewPost["slug"]]["date"] = date
+  Index[NewPost["slug"]]["link"] = chapter ".html#" NewPost["slug"]
   Index[NewPost["slug"]]["summary"] = NewPost["summary"]
   Index[NewPost["slug"]]["tags"] = NewPost["tags"]
   Index[NewPost["slug"]]["image"] = NewPost["image"]
