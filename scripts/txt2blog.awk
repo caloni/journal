@@ -8,7 +8,7 @@ BEGIN {
   "date" | getline Blog["build"]
   Blog["author"] = "Caloni"
   Blog["author-image"] = "/img/about-author.jpg"
-  Blog["post-image"] = "/img/about-brand.svg"
+  Blog["post-image"] = "/img/about-brand.png"
   Blog["description"] = "Write for computers, people and food."
   Blog["generator"] = "txt2blog 0.0.1"
   Blog["link"] = "http://www.caloni.com.br"
