@@ -8,6 +8,7 @@ BEGIN {
   "date" | getline Blog["build"]
   Blog["author"] = "Caloni"
   Blog["author-image"] = "/img/about-author.jpg"
+  Blog["post-image"] = "/img/about-brand.svg"
   Blog["description"] = "Write for computers, people and food."
   Blog["generator"] = "txt2blog 0.0.1"
   Blog["link"] = "http://www.caloni.com.br"
@@ -41,7 +42,7 @@ function WriteToHtml(file, title, backLink, filter, quickSearch,    originalSort
   print "<meta property=\"og:title\" content=\"" Blog["title"] "\"/>" > file
   print "<meta property=\"og:type\" content=\"website\"/>" > file
   print "<meta property=\"og:url\" content=\"" Blog["link"] "\"/>" > file
-  print "<meta property=\"og:image\" content=\"" Blog["author-image"] "\"/>" > file
+  print "<meta property=\"og:image\" content=\"" Blog["post-image"] "\"/>" > file
   print "<meta property=\"og:description\" content=\"" Blog["description"] "\"/>" > file
   print "<link href=\"/index.xml\" rel=\"feed\" type=\"application/rss+xml\" title=\"" Blog["title"] "\"/>" > file
   print "<link rel=\"stylesheet\" type=\"text/css\" href=\"/css/custom.css\"/>" > file
