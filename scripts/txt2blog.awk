@@ -2,6 +2,8 @@
 # Wanderley Caloni <wanderley.caloni@gmail.com>
 # 2024-08-30
 
+#include util.awk
+
 BEGIN {
   "date" | getline Blog["build"]
   Blog["author"] = "Caloni"
@@ -23,31 +25,6 @@ BEGIN {
   Blog["text_reposts"] = "vale a pena postar de novo"
   Blog["text_tags"] = "todos os rótulos dos postes"
   Blog["title"] = "Blogue do Caloni"
-}
-
-
-function ToSlug(s)
-{
-  gsub(/[ÁÀÂÃáàâã]/, "a", s)
-  gsub(/[ÉÊÊéêê]/, "e", s)
-  gsub(/[ÔÕÓôõó]/, "o", s)
-  gsub(/[Úú]/, "u", s)
-  gsub(/[ÍÏíï]/, "i", s)
-  gsub(/[#()'",;:-]/, "", s)
-  gsub(/&/, "and", s)
-  gsub(/!/, "", s)
-  gsub(/\?/, "", s)
-  gsub(/ /, "-", s)
-  return tolower(s)
-}
-
-
-function ToHtml(s)
-{
-  gsub(/&/, "&amp;", s)
-  gsub(/</, "\\&lt;", s)
-  gsub(/>/, "\\&gt;", s)
-  return s
 }
 
 
@@ -388,6 +365,9 @@ function FlushNewPost(    date, chapter, tags, post)
   delete NewPost
   NewPost["date"] = date
 }
+
+
+$1 == "metadata_slug" { Index[$2]["link"] = $3 ; next }
 
 
 /^= / {
