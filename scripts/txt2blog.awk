@@ -437,8 +437,8 @@ function FlushMonthsPage()
     }
     print "<a href=\"" i ".html\"> " ToHtml(m) " </a>" > f
     QuickSearch[i] = i ".html"
-    if( ! lastmonth ) {
-      lastmonth = i
+    if( ! LastMonth ) {
+      LastMonth = i
     }
   }
   print "</p>" > f
@@ -478,7 +478,7 @@ function FlushPostsPages()
 }
 
 
-function FlushTagsPages()
+function FlushTagsPages(    slug, tags)
 {
   PROCINFO["sorted_in"] = "@ind_num_desc"
   for( i in TitlesByTagsAndDates ) {
@@ -488,18 +488,17 @@ function FlushTagsPages()
     for( j in TitlesByTagsAndDates[i] ) {
       for( k in TitlesByTagsAndDates[i][j] ) {
         slug = TitleToSlug[k]
-        slugTerms = Index[slug]["tags"] 
-        split(slugTerms, sslugTerms)
-        ssslugTerms = ""
-        for( l in sslugTerms ) {
-          ssslugTerms = ssslugTerms " [" sslugTerms[l] "]"
+        split(Index[slug]["tags"], tags)
+        s = ""
+        for( l in tags ) {
+          s = s " [" tags[l] "]"
         }
         print "<tr><td>" > f
         if( Index[slug]["image"] ) {
           print "<img src=\"img/" Index[slug]["image"] "\"/>" > f
         }
         print "<b><a href=\"" TitleToChapter[k] ".html#" slug "\">" ToHtml(k) "</a></b>" > f
-        print "<small><i>" Index[slug]["date"] ssslugTerms " " Index[slug]["summary"] "</small></i>" > f
+        print "<small><i>" Index[slug]["date"] s " " Index[slug]["summary"] "</small></i>" > f
         print "</td></tr>" > f
       }
     }
@@ -583,7 +582,7 @@ function FlushIndexPage()
     print "<big><a href=\"tag_" i ".html\">" i "</a></big><small><i>: " Blog["text_favorite_tags"][i] ".</small></i></br>" > f
   }
   print "<big><a href=\"tags.html\">tags</a></big><small><i>: " Blog["text_tags"] ".</small></i></br>" > f
-  print "<big><a href=\"" lastmonth ".html\">news</a></big><small><i>: " Blog["text_news"] ".</small></i></br>" > f
+  print "<big><a href=\"" LastMonth ".html\">news</a></big><small><i>: " Blog["text_news"] ".</small></i></br>" > f
   print "<big><a href=\"months.html\">months</a></big><small><i>: " Blog["text_months"] ".</small></i></br>" > f
   print "<big><a href=\"posts.html\">posts</a></big><small><i>: " Blog["text_posts"] ".</small></i></br>" > f
   if( "repost" in QuickSearch ) {
