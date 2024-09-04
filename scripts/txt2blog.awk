@@ -260,32 +260,33 @@ function FormatContent(line, lastLine,    prefix, suffix, paragraph, newLine, ty
 }
 
 
-function FlushNewPost(    date, chapter, tags, post)
+function FlushNewPost(    slug, date, chapter, tags, post)
 {
+  slug = NewPost["slug"]
   date = NewPost["date"]
   chapter = substr(date, 1, 7)
   split(NewPost["tags"], tags)
   post = ""
 
   Chapters[chapter] = chapter
-  DateSlugTitle[date][NewPost["slug"]] = NewPost["title"]
+  DateSlugTitle[date][slug] = NewPost["title"]
 
   if( "draft" in NewPost ) {
     chapter = "drafts"
     QuickSearch["drafts"] = "drafts.html"
   }
 
-  Index[NewPost["slug"]]["slug"] = NewPost["slug"]
+  Index[NewPost["slug"]]["slug"] = slug
   Index[NewPost["slug"]]["title"] = NewPost["title"]
   Index[NewPost["slug"]]["date"] = date
   Index[NewPost["slug"]]["chapter"] = chapter
-  Index[NewPost["slug"]]["link"] = chapter ".html#" NewPost["slug"]
+  Index[NewPost["slug"]]["link"] = chapter ".html#" slug
   Index[NewPost["slug"]]["summary"] = NewPost["summary"]
   Index[NewPost["slug"]]["tags"] = NewPost["tags"]
   Index[NewPost["slug"]]["image"] = NewPost["image"]
-  TitleToSlug[NewPost["title"]] = NewPost["slug"]
+  TitleToSlug[NewPost["title"]] = slug
   for( i in tags ) {
-    TitlesByTagsAndDates[tags[i]][date][NewPost["title"]] = NewPost["title"]
+    SlugsByTagsAndDates[tags[i]][date][slug] = slug
   }
 
   if ( "repost" in NewPost ) {
@@ -295,7 +296,7 @@ function FlushNewPost(    date, chapter, tags, post)
       WriteToHtml(file, Blog["text_page_prefix"] "::repost", "index.html", 1)
       Files["repost"] = "repost"
     }
-    post = "<tr><td><b><a href=\"" chapter ".html#" NewPost["slug"] "\">" ToHtml(NewPost["title"]) "</a></b>\n"
+    post = "<tr><td><b><a href=\"" chapter ".html#" slug "\">" ToHtml(NewPost["title"]) "</a></b>\n"
     post = post "<small><i>" NewPost["repost"] " [" date "] "
     for( i in tags ) {
       post = post " [" tags[i] "]"
@@ -335,12 +336,12 @@ function FlushNewPost(    date, chapter, tags, post)
     }
   }
 
-  post = "<span id=\"" NewPost["slug"] "\" title=\"" ToHtml(NewPost["title"]) "\"/></span>\n"
-  post = post "<section id=\"section-" NewPost["slug"] "\">\n"
+  post = "<span id=\"" slug "\" title=\"" ToHtml(NewPost["title"]) "\"/></span>\n"
+  post = post "<section id=\"section-" slug "\">\n"
   if( "link" in NewPost ) {
-    post = post "<p class=\"title\"><a href=\"" chapter ".html#" NewPost["slug"] "\">#</a> <a class=\"external\" href=\"" NewPost["link"] "\">" ToHtml(NewPost["title"]) "</a></p>\n"
+    post = post "<p class=\"title\"><a href=\"" chapter ".html#" slug "\">#</a> <a class=\"external\" href=\"" NewPost["link"] "\">" ToHtml(NewPost["title"]) "</a></p>\n"
   } else {
-    post = post "<p class=\"title\"><a href=\"" chapter ".html#" NewPost["slug"] "\">#</a> " ToHtml(NewPost["title"]) "</p>\n"
+    post = post "<p class=\"title\"><a href=\"" chapter ".html#" slug "\">#</a> " ToHtml(NewPost["title"]) "</p>\n"
   }
   post = post "<span class=\"title-heading\">" Blog["author"] ", " date
   if( "update" in NewPost ) {
@@ -350,7 +351,7 @@ function FlushNewPost(    date, chapter, tags, post)
     post = post " <a href=\"" tags[i] ".html\">" tags[i] "</a>"
   }
   post = post "<a href=\"" chapter ".html\"> "
-  post = post "<sup>[up]</sup></a> <a href=\"javascript:;\" onclick=\"copy_clipboard('section#section-" NewPost["slug"] "')\"><sup>[copy]</sup></a></span>\n\n"
+  post = post "<sup>[up]</sup></a> <a href=\"javascript:;\" onclick=\"copy_clipboard('section#section-" slug "')\"><sup>[copy]</sup></a></span>\n\n"
   for( i in NewPost["lines"] ) {
     post = post NewPost["lines"][i]["content"]
     if( NewPost["lines"][i]["type"] != "pre" ) {
@@ -359,10 +360,10 @@ function FlushNewPost(    date, chapter, tags, post)
   }
   post = post "</section><hr/>\n"
   PostsByMonth[chapter][date] = PostsByMonth[chapter][date] "\n" post
-  NewPost["link"] = "<li><small><a href=\"" chapter ".html#" NewPost["slug"] "\">" ToHtml(NewPost["title"]) "</a></small></li>"
+  NewPost["link"] = "<li><small><a href=\"" chapter ".html#" slug "\">" ToHtml(NewPost["title"]) "</a></small></li>"
   PostLinksByMonth[chapter][date] = PostLinksByMonth[chapter][date] "\n" NewPost["link"]
 
-  QuickSearch[NewPost["slug"]] = chapter ".html#" NewPost["slug"]
+  QuickSearch[NewPost["slug"]] = chapter ".html#" slug
   delete NewPost
   NewPost["date"] = date
 }
@@ -481,24 +482,23 @@ function FlushPostsPages()
 function FlushTagsPages(    slug, tags)
 {
   PROCINFO["sorted_in"] = "@ind_num_desc"
-  for( i in TitlesByTagsAndDates ) {
+  for( i in SlugsByTagsAndDates ) {
     QuickSearch[i] = i ".html"
     f = Blog["output"] "\\" i ".html"
     WriteToHtml(f, Blog["text_page_prefix"] "::" i, "index.html", 1)
-    for( j in TitlesByTagsAndDates[i] ) {
-      for( k in TitlesByTagsAndDates[i][j] ) {
-        slug = TitleToSlug[k]
-        split(Index[slug]["tags"], tags)
+    for( j in SlugsByTagsAndDates[i] ) {
+      for( k in SlugsByTagsAndDates[i][j] ) {
+        split(Index[k]["tags"], tags)
         s = ""
         for( l in tags ) {
           s = s " [" tags[l] "]"
         }
         print "<tr><td>" > f
-        if( Index[slug]["image"] ) {
-          print "<img src=\"img/" Index[slug]["image"] "\"/>" > f
+        if( Index[k]["image"] ) {
+          print "<img src=\"img/" Index[k]["image"] "\"/>" > f
         }
-        print "<b><a href=\"" Index[slug]["chapter"] ".html#" slug "\">" ToHtml(k) "</a></b>" > f
-        print "<small><i>" Index[slug]["date"] s " " Index[slug]["summary"] "</small></i>" > f
+        print "<b><a href=\"" Index[k]["chapter"] ".html#" k "\">" ToHtml(Index[k]["title"]) "</a></b>" > f
+        print "<small><i>" Index[k]["date"] s " " Index[k]["summary"] "</small></i>" > f
         print "</td></tr>" > f
       }
     }
@@ -512,16 +512,16 @@ function FlushTagsPage()
   f = Blog["output"] "\\tags.html"
   WriteToHtml(f, Blog["text_page_prefix"] "::tags", "index.html", 1)
   PROCINFO["sorted_in"] = "@ind_str_asc"
-  for( i in TitlesByTagsAndDates ) {
+  for( i in SlugsByTagsAndDates ) {
     t = ""
     t2 = 0
     PROCINFO["sorted_in"] = "@ind_num_desc"
-    for( j in TitlesByTagsAndDates[i] ) {
-      for( k in TitlesByTagsAndDates[i][j] ) {
+    for( j in SlugsByTagsAndDates[i] ) {
+      for( k in SlugsByTagsAndDates[i][j] ) {
         if( t == "" ) {
-          t = k
+          t = Index[k]["title"]
         } else {
-          t = t " - " k
+          t = t " - " Index[k]["title"]
         }
         t2 = t2 + 1
         if( t2 > 15 ) {
