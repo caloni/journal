@@ -278,12 +278,12 @@ function FlushNewPost(    date, chapter, tags, post)
   Index[NewPost["slug"]]["slug"] = NewPost["slug"]
   Index[NewPost["slug"]]["title"] = NewPost["title"]
   Index[NewPost["slug"]]["date"] = date
+  Index[NewPost["slug"]]["chapter"] = chapter
   Index[NewPost["slug"]]["link"] = chapter ".html#" NewPost["slug"]
   Index[NewPost["slug"]]["summary"] = NewPost["summary"]
   Index[NewPost["slug"]]["tags"] = NewPost["tags"]
   Index[NewPost["slug"]]["image"] = NewPost["image"]
   TitleToSlug[NewPost["title"]] = NewPost["slug"]
-  TitleToChapter[NewPost["title"]] = chapter
   for( i in tags ) {
     TitlesByTagsAndDates[tags[i]][date][NewPost["title"]] = NewPost["title"]
   }
@@ -497,7 +497,7 @@ function FlushTagsPages(    slug, tags)
         if( Index[slug]["image"] ) {
           print "<img src=\"img/" Index[slug]["image"] "\"/>" > f
         }
-        print "<b><a href=\"" TitleToChapter[k] ".html#" slug "\">" ToHtml(k) "</a></b>" > f
+        print "<b><a href=\"" Index[slug]["chapter"] ".html#" slug "\">" ToHtml(k) "</a></b>" > f
         print "<small><i>" Index[slug]["date"] s " " Index[slug]["summary"] "</small></i>" > f
         print "</td></tr>" > f
       }
@@ -558,7 +558,7 @@ function FlushPostsPage()
       if( Index[j]["image"] ) {
         print "<img src=\"img/" Index[j]["image"] "\"/>" > f
       }
-      print "<b><a href=\"" TitleToChapter[t] ".html#" j "\">" ToHtml(t) "</a></b>" > f
+      print "<b><a href=\"" Index[j]["chapter"] ".html#" j "\">" ToHtml(t) "</a></b>" > f
       print "<small><i>" Index[j]["date"] s " " Index[j]["summary"] " " j "</small></i>" > f
       print "</td></tr>" > f
     }
