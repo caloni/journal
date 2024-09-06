@@ -214,7 +214,7 @@ function FormatContent(line, lastLine,    prefix, suffix, paragraph, newLine, ty
       name = substr(line, 2, endName - 3)
       link = substr(line, endName + 2)
 
-      if( link ~ /[a-z]:\/\// ) {
+      if( link ~ /^(https?)|(ftp)|(mailto):/ ) {
         link = "<a href=\"" link "\">" name "</a>"
       }
       else if( link in Index ) {
