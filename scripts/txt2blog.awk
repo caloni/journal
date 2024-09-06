@@ -171,9 +171,11 @@ function FormatContent(line, lastLine,    prefix, suffix, paragraph, newLine, ty
       prefix = prefix "<li>"
       suffix = "</li>" suffix
       paragraph = 0
+      break
     } else if ( ContentState["-"] ) {
         prefix = "</ul>\n"
         ContentState["-"] = 0
+        break
     }
 
     if( line ~ /^>/ ) {
