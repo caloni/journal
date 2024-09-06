@@ -210,7 +210,7 @@ function FormatContent(line, lastLine,    prefix, suffix, paragraph, newLine, ty
     }
 
     if( line ~ /^\[[^]]+\]:/ ) {
-      endName = index(line, ":")
+      endName = index(line, "]") + 1
       name = substr(line, 2, endName - 3)
       link = substr(line, endName + 2)
 
