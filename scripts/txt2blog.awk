@@ -13,18 +13,19 @@ BEGIN {
   Blog["generator"] = "txt2blog 0.0.1"
   Blog["link"] = "http://www.caloni.com.br"
   Blog["output"] = "public\\blog"
-  Blog["text_drafts"] = ""
-  Blog["text_favorite_tags"]["coding"] = "programação, depuração, transpiração"
-  Blog["text_favorite_tags"]["movies"] = "o finado Cine Tênis Verde veio parar aqui"
-  Blog["text_months"] = "lista dos meses com postes"
-  Blog["text_news"] = "postes publicados no último mês"
+  Blog["text_drafts"] = "postes em progresso."
+  Blog["text_favorite_tags"]["coding"] = "programação, depuração, transpiração."
+  Blog["text_favorite_tags"]["movies"] = "o finado Cine Tênis Verde veio parar aqui."
+  Blog["text_lists"] = "quem não gosta de listas?"
+  Blog["text_months"] = "lista dos meses com postes."
+  Blog["text_news"] = "postes publicados no último mês."
   Blog["text_notfound_description"] = "Não quer fazer uma <a href=\"/posts.html\">busca</a>? Às vezes eu mexo e remexo as coisas por aqui."
   Blog["text_notfound_title"] = "Opa, essa página não foi encontrada."
   Blog["text_page_prefix"] = "caloni"
-  Blog["text_posts"] = "lista com toooooooodos os postes do blogue"
+  Blog["text_posts"] = "lista com toooooooodos os postes do blogue."
   Blog["text_quicksearch"] = "&#x1F41E; digite algo / type something"
-  Blog["text_reposts"] = "vale a pena postar de novo"
-  Blog["text_tags"] = "todos os rótulos dos postes"
+  Blog["text_reposts"] = "vale a pena postar de novo."
+  Blog["text_tags"] = "todos os rótulos dos postes."
   Blog["title"] = "Blogue do Caloni"
 }
 
@@ -169,6 +170,10 @@ function FormatContent(line, lastLine,    prefix, suffix, paragraph, newLine, ty
 
       if( link ~ /^(https?)|(ftp)|(mailto):/ ) {
         link = "<a href=\"" link "\">" name "</a>"
+      }
+      else if( link ~ /^(bib_)|(idx_)/ ) {
+        Lists[name " [" link "]"][NewPost["slug"]] = NewPost["slug"]
+        link = "<a href=\"lists.html?q=" name "\">" name "</a>"
       }
       else if( link in Index ) {
         link = Index[link]["link"]
@@ -543,6 +548,42 @@ function FlushTagsPage()
 }
 
 
+function FlushListsPage(    slugsByDate, slug)
+{
+  slug = ""
+
+  if( length(Lists) == 0 ) return
+  f = Blog["output"] "\\lists.html"
+  WriteToHtml(f, Blog["text_page_prefix"] "::lists", "index.html", 1)
+  PROCINFO["sorted_in"] = "@ind_str_asc"
+  for( i in Lists ) {
+    tt = ""
+    if( m = match(i, "(.*) \\[(.*)\\]", a) ) {
+      print "<tr><td><a href=\"#" a[2] "\">#</a>" ToHtml(a[1]) " " > f
+    } else {
+      print "<tr><td>" ToHtml(i) " " > f
+    }
+    for( j in Lists[i] ) {
+      slugsByDate[Index[j]["date"], j] = j
+    }
+    for( j in slugsByDate ) {
+      slug = slugsByDate[j]
+      t = "<a href=\"" Index[slug]["chapter"] ".html#" slug "\">" Index[slug]["title"] "</a>"
+      if( tt == "" ) {
+        tt = t
+      } else {
+        tt = tt " - " t
+      }
+    }
+    delete slugsByDate
+    print "<small><i>" tt "</small></i>" > f
+    print "</td></tr>" > f
+  }
+  WriteBottomHtml(f, 1)
+  QuickSearch["lists"] = "lists.html"
+}
+
+
 function FlushPostsPage()
 {
   f = Blog["output"] "\\posts.html"
@@ -581,17 +622,20 @@ function FlushIndexPage()
   WriteToHtml(f, Blog["title"], c ".html#about", 0, QuickSearch)
   print "<input type=\"text\" name=\"quick_search_name\" value=\"\" id=\"quick_search\" placeholder=\"" Blog["text_quicksearch"] "\" style=\"width: 100%; font-size: 1.5rem; margin-top: 1em; margin-bottom: 0.5em;\" title=\"\"/></br>" > f
   for( i in Blog["text_favorite_tags"] ) {
-    print "<big><a href=\"tag_" i ".html\">" i "</a></big><small><i>: " Blog["text_favorite_tags"][i] ".</small></i></br>" > f
+    print "<big><a href=\"tag_" i ".html\">" i "</a></big><small><i>: " Blog["text_favorite_tags"][i] "</small></i></br>" > f
   }
-  print "<big><a href=\"tags.html\">tags</a></big><small><i>: " Blog["text_tags"] ".</small></i></br>" > f
-  print "<big><a href=\"" LastMonth ".html\">news</a></big><small><i>: " Blog["text_news"] ".</small></i></br>" > f
-  print "<big><a href=\"months.html\">months</a></big><small><i>: " Blog["text_months"] ".</small></i></br>" > f
-  print "<big><a href=\"posts.html\">posts</a></big><small><i>: " Blog["text_posts"] ".</small></i></br>" > f
+  print "<big><a href=\"tags.html\">tags</a></big><small><i>: " Blog["text_tags"] "</small></i></br>" > f
+  print "<big><a href=\"" LastMonth ".html\">news</a></big><small><i>: " Blog["text_news"] "</small></i></br>" > f
+  print "<big><a href=\"months.html\">months</a></big><small><i>: " Blog["text_months"] "</small></i></br>" > f
+  print "<big><a href=\"posts.html\">posts</a></big><small><i>: " Blog["text_posts"] "</small></i></br>" > f
   if( "repost" in QuickSearch ) {
-    print "<big><a href=\"repost.html\">reposts</a></big><small><i>: " Blog["text_reposts"] ".</small></i></br>" > f
+    print "<big><a href=\"repost.html\">reposts</a></big><small><i>: " Blog["text_reposts"] "</small></i></br>" > f
+  }
+  if( "lists" in QuickSearch ) {
+    print "<big><a href=\"lists.html\">lists</a></big><small><i>: " Blog["text_lists"] "</small></i></br>" > f
   }
   if( "drafts" in QuickSearch ) {
-    print "<big><a href=\"drafts.html\">drafts</a></big><small><i>: " Blog["text_drafts"] ".</small></i></br>" > f
+    print "<big><a href=\"drafts.html\">drafts</a></big><small><i>: " Blog["text_drafts"] "</small></i></br>" > f
   }
   print "<div><big><span style=\"visibility: hidden; padding: 5px;\" name=\"results\" id=\"results\">...</span></big></div>" > f
   print "<table class=\"sortable\" style=\"width: 100%;\">" > f
@@ -623,6 +667,7 @@ END {
   FlushPostsPage()
   FlushPostsPages()
   FlushTagsPage()
+  FlushListsPage()
   FlushTagsPages()
   FlushMonthsPage()
   FlushIndexPage()
