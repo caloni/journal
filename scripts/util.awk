@@ -10,7 +10,7 @@ function ToSlug(s)
   gsub(/&/, "and", s)
   gsub(/!/, "", s)
   gsub(/\?/, "", s)
-  gsub(/ /, "-", s)
+  gsub(/ /, "_", s)
   return tolower(s)
 }
 
