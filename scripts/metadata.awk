@@ -22,6 +22,11 @@ function FlushNewPost(    slug, date, chapter, link)
 
   link = chapter ".html#" slug
 
+  if( slug in Index ) {
+    print "warning: slug", slug, "duplicated in", Index[slug]["date"], "and", date
+  }
+  Index[slug]["date"] = date
+  Index[slug]["link"] = link
   print "metadata_slug", slug, link > Metadata["output"]
 
   delete NewPost
