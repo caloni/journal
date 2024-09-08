@@ -344,7 +344,7 @@ function FlushNewPost(    slug, date, chapter, tags, post)
   }
 
   post = "<span id=\"" slug "\" title=\"" ToHtml(NewPost["title"]) "\"/></span>\n"
-  post = post "<section id=\"section-" slug "\">\n"
+  post = post "<section id=\"section_" slug "\">\n"
   if( "link" in NewPost ) {
     post = post "<p class=\"title\"><a href=\"" chapter ".html#" slug "\">#</a> <a class=\"external\" href=\"" NewPost["link"] "\">" ToHtml(NewPost["title"]) "</a></p>\n"
   } else {
@@ -358,7 +358,7 @@ function FlushNewPost(    slug, date, chapter, tags, post)
     post = post " <a href=\"" tags[i] ".html\">" tags[i] "</a>"
   }
   post = post "<a href=\"" chapter ".html\"> "
-  post = post "<sup>[up]</sup></a> <a href=\"javascript:;\" onclick=\"copy_clipboard('section#section-" slug "')\"><sup>[copy]</sup></a></span>\n\n"
+  post = post "<sup>[up]</sup></a> <a href=\"javascript:;\" onclick=\"copy_clipboard('section#section_" slug "')\"><sup>[copy]</sup></a></span>\n\n"
   for( i in NewPost["lines"] ) {
     post = post NewPost["lines"][i]["content"]
     if( NewPost["lines"][i]["type"] != "pre" ) {
