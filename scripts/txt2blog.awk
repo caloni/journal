@@ -267,27 +267,27 @@ function FormatContent(line, lastLine,    prefix, suffix, paragraph, newLine, ty
 }
 
 
-function FlushNewPost(    slug, date, chapter, tags, post)
+function FlushNewPost(    slug, date, month, tags, post)
 {
   slug = NewPost["slug"]
   date = NewPost["date"]
-  chapter = substr(date, 1, 7)
+  month = substr(date, 1, 7)
   split(NewPost["tags"], tags)
   post = ""
 
-  Chapters[chapter] = chapter
+  Months[month] = month
   DateSlugTitle[date][slug] = NewPost["title"]
 
   if( "draft" in NewPost ) {
-    chapter = "drafts"
+    month = "drafts"
     QuickSearch["drafts"] = "drafts.html"
   }
 
   Index[NewPost["slug"]]["slug"] = slug
   Index[NewPost["slug"]]["title"] = NewPost["title"]
   Index[NewPost["slug"]]["date"] = date
-  Index[NewPost["slug"]]["chapter"] = chapter
-  Index[NewPost["slug"]]["link"] = chapter ".html#" slug
+  Index[NewPost["slug"]]["month"] = month
+  Index[NewPost["slug"]]["link"] = month ".html#" slug
   Index[NewPost["slug"]]["summary"] = NewPost["summary"]
   Index[NewPost["slug"]]["tags"] = NewPost["tags"]
   Index[NewPost["slug"]]["image"] = NewPost["image"]
@@ -303,7 +303,7 @@ function FlushNewPost(    slug, date, chapter, tags, post)
       WriteToHtml(file, Blog["text_page_prefix"] "::repost", "index.html", 1)
       Files["repost"] = "repost"
     }
-    post = "<tr><td><b><a href=\"" chapter ".html#" slug "\">" ToHtml(NewPost["title"]) "</a></b>\n"
+    post = "<tr><td><b><a href=\"" month ".html#" slug "\">" ToHtml(NewPost["title"]) "</a></b>\n"
     post = post "<small><i>" NewPost["repost"] " [" date "] "
     for( i in tags ) {
       post = post " [" tags[i] "]"
@@ -313,10 +313,10 @@ function FlushNewPost(    slug, date, chapter, tags, post)
     PostsByMonth["repost"][NewPost["repost"]] = PostsByMonth["repost"][NewPost["repost"]] "\n" post
   }
 
-  file = Blog["output"] "\\" chapter ".html"
-  if( ! (chapter in Files) ) {
-    WriteToHtml(file, Blog["text_page_prefix"] "::" chapter, "months.html", 0)
-    Files[chapter] = chapter
+  file = Blog["output"] "\\" month ".html"
+  if( ! (month in Files) ) {
+    WriteToHtml(file, Blog["text_page_prefix"] "::" month, "months.html", 0)
+    Files[month] = month
   }
   for( i in NewPost["lines"] ) {
     if( NewPost["lines"][i]["content"] != "" ) {
@@ -346,9 +346,9 @@ function FlushNewPost(    slug, date, chapter, tags, post)
   post = "<span id=\"" slug "\" title=\"" ToHtml(NewPost["title"]) "\"/></span>\n"
   post = post "<section id=\"section_" slug "\">\n"
   if( "link" in NewPost ) {
-    post = post "<p class=\"title\"><a href=\"" chapter ".html#" slug "\">#</a> <a class=\"external\" href=\"" NewPost["link"] "\">" ToHtml(NewPost["title"]) "</a></p>\n"
+    post = post "<p class=\"title\"><a href=\"" month ".html#" slug "\">#</a> <a class=\"external\" href=\"" NewPost["link"] "\">" ToHtml(NewPost["title"]) "</a></p>\n"
   } else {
-    post = post "<p class=\"title\"><a href=\"" chapter ".html#" slug "\">#</a> " ToHtml(NewPost["title"]) "</p>\n"
+    post = post "<p class=\"title\"><a href=\"" month ".html#" slug "\">#</a> " ToHtml(NewPost["title"]) "</p>\n"
   }
   post = post "<span class=\"title-heading\">" Blog["author"] ", " date
   if( "update" in NewPost ) {
@@ -357,7 +357,7 @@ function FlushNewPost(    slug, date, chapter, tags, post)
   for( i in tags ) {
     post = post " <a href=\"" tags[i] ".html\">" tags[i] "</a>"
   }
-  post = post "<a href=\"" chapter ".html\"> "
+  post = post "<a href=\"" month ".html\"> "
   post = post "<sup>[up]</sup></a> <a href=\"javascript:;\" onclick=\"copy_clipboard('section#section_" slug "')\"><sup>[copy]</sup></a></span>\n\n"
   for( i in NewPost["lines"] ) {
     post = post NewPost["lines"][i]["content"]
@@ -366,11 +366,11 @@ function FlushNewPost(    slug, date, chapter, tags, post)
     }
   }
   post = post "</section><hr/>\n"
-  PostsByMonth[chapter][date] = PostsByMonth[chapter][date] "\n" post
-  NewPost["link"] = "<li><small><a href=\"" chapter ".html#" slug "\">" ToHtml(NewPost["title"]) "</a></small></li>"
-  PostLinksByMonth[chapter][date] = PostLinksByMonth[chapter][date] "\n" NewPost["link"]
+  PostsByMonth[month][date] = PostsByMonth[month][date] "\n" post
+  NewPost["link"] = "<li><small><a href=\"" month ".html#" slug "\">" ToHtml(NewPost["title"]) "</a></small></li>"
+  PostLinksByMonth[month][date] = PostLinksByMonth[month][date] "\n" NewPost["link"]
 
-  QuickSearch[NewPost["slug"]] = chapter ".html#" slug
+  QuickSearch[NewPost["slug"]] = month ".html#" slug
   delete NewPost
   NewPost["date"] = date
 }
@@ -410,18 +410,18 @@ $1 == ":tags:" { $1 = "" ; NewPost["tags"] = $0 }
 $1 == ":update:" { NewPost["update"] = $2 }
 
 
-function TiePreviousNextChapters()
+function TiePreviousNextMonths()
 {
   PROCINFO["sorted_in"] = "@ind_num_asc"
   c = "index"
-  for( i in Chapters ) {
-    NextChapter[i] = c
+  for( i in Months ) {
+    NextMonth[i] = c
     c = i
   }
   PROCINFO["sorted_in"] = "@ind_num_desc"
   c = "index"
-  for( i in Chapters ) {
-    PrevChapter[i] = c
+  for( i in Months ) {
+    PrevMonth[i] = c
     c = i
   }
 }
@@ -433,7 +433,7 @@ function FlushMonthsPage()
   f = Blog["output"] "\\months.html"
   WriteToHtml(f, Blog["text_page_prefix"] "::months", "index.html", 0)
   y = "2001"
-  for( i in Chapters ) {
+  for( i in Months ) {
     y2 = substr(i, 1, 4)
     m = substr(i, 6, 2)
     if( y2 != y ) {
@@ -478,7 +478,7 @@ function FlushPostsPages()
     }
     print p > f
     if( i != "repost" && i != "drafts" ) {
-      WriteBottomHtml(f, 0, NextChapter[i] ".html", PrevChapter[i] ".html")
+      WriteBottomHtml(f, 0, NextMonth[i] ".html", PrevMonth[i] ".html")
     } else {
       WriteBottomHtml(f, 1)
     }
@@ -504,7 +504,7 @@ function FlushTagsPages(    slug, tags)
         if( Index[k]["image"] ) {
           print "<img src=\"img/" Index[k]["image"] "\"/>" > f
         }
-        print "<b><a href=\"" Index[k]["chapter"] ".html#" k "\">" ToHtml(Index[k]["title"]) "</a></b>" > f
+        print "<b><a href=\"" Index[k]["month"] ".html#" k "\">" ToHtml(Index[k]["title"]) "</a></b>" > f
         print "<small><i>" Index[k]["date"] s " " Index[k]["summary"] "</small></i>" > f
         print "</td></tr>" > f
       }
@@ -568,7 +568,7 @@ function FlushListsPage(    slugsByDate, slug)
     }
     for( j in slugsByDate ) {
       slug = slugsByDate[j]
-      t = "<a href=\"" Index[slug]["chapter"] ".html#" slug "\">" Index[slug]["title"] "</a>"
+      t = "<a href=\"" Index[slug]["month"] ".html#" slug "\">" Index[slug]["title"] "</a>"
       if( tt == "" ) {
         tt = t
       } else {
@@ -601,7 +601,7 @@ function FlushPostsPage()
       if( Index[j]["image"] ) {
         print "<img src=\"img/" Index[j]["image"] "\"/>" > f
       }
-      print "<b><a href=\"" Index[j]["chapter"] ".html#" j "\">" ToHtml(t) "</a></b>" > f
+      print "<b><a href=\"" Index[j]["month"] ".html#" j "\">" ToHtml(t) "</a></b>" > f
       print "<small><i>" Index[j]["date"] s " " Index[j]["summary"] " " j "</small></i>" > f
       print "</td></tr>" > f
     }
@@ -614,8 +614,8 @@ function FlushPostsPage()
 function FlushIndexPage()
 {
   PROCINFO["sorted_in"] = "@ind_num_asc"
-  for( i in Chapters ) {
-    c = Chapters[i]
+  for( i in Months ) {
+    c = Months[i]
     break
   }
   f = Blog["output"] "\\index.html"
@@ -662,7 +662,7 @@ END {
   if( "title" in NewPost ) {
     FlushNewPost()
   }
-  TiePreviousNextChapters()
+  TiePreviousNextMonths()
 
   FlushPostsPage()
   FlushPostsPages()
