@@ -126,13 +126,12 @@ function WriteBottomHtml(file, filter, nextLink, prevLink, build,    label)
 }
 
 
-function FormatContent(line, lastLine,    prefix, suffix, paragraph, newLine, type, headerLevel, endName, name, link)
+function FormatContent(line, lastLine,    prefix, suffix, paragraph, newLine, headerLevel, endName, name, link)
 {
   prefix = ""
   suffix = "\n"
   paragraph = 1
   newLine = 0
-  type = ""
   headerLevel = 0
   endName = 0
   name = ""
@@ -148,7 +147,7 @@ function FormatContent(line, lastLine,    prefix, suffix, paragraph, newLine, ty
       }
       return 0
     } else if( ContentState["```"] ) {
-      type = "pre"
+      ContentType = "pre"
       break
     }
 
@@ -157,7 +156,7 @@ function FormatContent(line, lastLine,    prefix, suffix, paragraph, newLine, ty
       if( ! ContentState[" "] ) {
         ContentState[" "] = 1
       }
-      type = "pre"
+      ContentType = "pre"
       break
     } else if ( ContentState[" "] ) {
         ContentState[" "] = 0
@@ -188,7 +187,7 @@ function FormatContent(line, lastLine,    prefix, suffix, paragraph, newLine, ty
 
       NewPost["links"][name] = link
       line = ""
-      type = "link"
+      ContentType = "link"
       paragraph = 0
     }
 
@@ -208,7 +207,7 @@ function FormatContent(line, lastLine,    prefix, suffix, paragraph, newLine, ty
 
     if( line ~ /^>/ ) {
       sub(/^> ?/, "", line)
-      type = "blockquote"
+      ContentType = "blockquote"
       prefix = "<blockquote>"
       suffix = "</blockquote>"
       break
@@ -218,19 +217,19 @@ function FormatContent(line, lastLine,    prefix, suffix, paragraph, newLine, ty
 
       if( line ~ /^## / ) {
         headerLevel = 2
-        type = "h2"
+        ContentType = "h2"
       } else if( line ~ /^### / ) {
         headerLevel = 3
-        type = "h3"
+        ContentType = "h3"
       } else if( line ~ /^#### / ) {
         headerLevel = 4
-        type = "h4"
+        ContentType = "h4"
       } else if( line ~ /^##### / ) {
         headerLevel = 5
-        type = "h5"
+        ContentType = "h5"
       } else if( line ~ /^###### / ) {
         headerLevel = 6
-        type = "h6"
+        ContentType = "h6"
       }
       gsub(/^#+ /, "", line)
 
@@ -242,7 +241,7 @@ function FormatContent(line, lastLine,    prefix, suffix, paragraph, newLine, ty
     if( index(line, "image::") == 1 ) {
       NewPost["image"] = gensub(/image::(.*)\[.*\]/, NewPost["slug"] "-\\1", "g", line)
       line = gensub(/image::(.*)\[.*\]/, "<img src=\"img/" NewPost["slug"] "-\\1\"/>", "g", line)
-      type = "img"
+      ContentType = "img"
       break
     }
 
@@ -253,16 +252,16 @@ function FormatContent(line, lastLine,    prefix, suffix, paragraph, newLine, ty
 
     if( paragraph ) {
       line = "<p>" line "</p>"
-      type = "p"
+      ContentType = "p"
     } else {
-      type = ""
+      ContentType = ""
     }
 
   } while( 0 )
 
   newLine = lastLine + 1
   NewPost["lines"][newLine]["content"] = prefix line suffix
-  NewPost["lines"][newLine]["type"] = type
+  NewPost["lines"][newLine]["type"] = ContentType
   return newLine
 }
 
