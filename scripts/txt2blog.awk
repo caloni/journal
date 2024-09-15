@@ -213,7 +213,7 @@ function FormatContent(line, lastLine,    prefix, suffix, paragraph, newLine, he
       break
     }
 
-    if( line ~ /^#+ / ) {
+    if( line ~ /^#{2,6} / ) {
 
       if( line ~ /^## / ) {
         headerLevel = 2
