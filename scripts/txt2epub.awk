@@ -225,7 +225,7 @@ function formatContent(content)
 }
 
 
-/^= / {
+/^# / {
   if( content ) {
     writepost()
     content = ""
@@ -235,6 +235,7 @@ function formatContent(content)
     draft = 0
   }
   title = substr($0, 3)
+  next
 }
 
 /^:/ {
@@ -262,7 +263,7 @@ function formatContent(content)
   }
 }
 
-/^[^=:]/ {
+/^[^:]/ {
   draftContent = draftContent "\n\n" $0
   newContent = formatContent($0)
   if( content ) {
