@@ -378,16 +378,17 @@ function FlushNewPost(    slug, date, month, tags, post)
 $1 == "metadata_slug" { Index[$2]["link"] = $3 ; next }
 
 
-/^= / {
+/^# / && !ContentState["```"] {
   if( "title" in NewPost ) {
     FlushNewPost()
   }
   NewPost["title"] = substr($0, 3)
   NewPost["slug"] = ToSlug(NewPost["title"])
+  next
 }
 
 
-/^[^=:]/ {
+/^[^:]/ {
   i = FormatContent($0, NewPost["totalLines"])
   if( i ) {
     NewPost["totalLines"] = i
