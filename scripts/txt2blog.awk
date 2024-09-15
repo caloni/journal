@@ -240,8 +240,8 @@ function FormatContent(line, lastLine,    prefix, suffix, paragraph, newLine, ty
     }
 
     if( index(line, "image::") == 1 ) {
-      NewPost["image"] = gensub(/image::(.*)\[.*\]/, NewPost["slug"] "-\\1", "g", line)
-      line = gensub(/image::(.*)\[.*\]/, "<img src=\"img/" NewPost["slug"] "-\\1\"/>", "g", line)
+      NewPost["image"] = gensub(/image::(.*)\[.*\]/, NewPost["slug"] "_\\1", "g", line)
+      line = gensub(/image::(.*)\[.*\]/, "<img src=\"img/" NewPost["slug"] "_\\1\"/>", "g", line)
       type = "img"
       break
     }
