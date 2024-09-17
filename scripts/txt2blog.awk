@@ -211,10 +211,8 @@ function FormatContent(line, lastLine,    prefix, suffix, paragraph, newLine, he
     }
 
     if( match($0, /^!\[([^]]*)\]\( *([^" )]+) *"?([^"]*)?"?\)/, a) ) {
-      #print "alt:", a[1], "link:", a[2], "title:", a[3]
-      NewPost["image"] = NewPost["slug"] "_" a[2]
-      #line = "<img src=\"img/" NewPost["slug"] "_" a[2] "\" alt=\"" a[1] "\" title=\"" a[3] "\"/>"
-      line = "<img src=\"img/" NewPost["slug"] "_" a[2] "\"/>"
+      NewPost["image"] = a[2]
+      line = "<img src=\"img/" a[2] "\"/>"
       ContentType = "img"
       break
     }
