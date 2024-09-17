@@ -12,6 +12,7 @@ BEGIN {
   Blog["description"] = "Write for computers, people and food."
   Blog["generator"] = "txt2blog 0.0.1"
   Blog["link"] = "http://www.caloni.com.br"
+  Blog["post_header_fields"] = "date draft link repost slug tags update"
   Blog["output"] = "public\\blog"
   Blog["text_drafts"] = "postes em progresso."
   Blog["text_favorite_tags"]["coding"] = "programação, depuração, transpiração."
@@ -373,7 +374,7 @@ $1 == "metadata_slug" { Index[$2]["link"] = $3 ; next }
 
 
 /^\[[^]]+\]:/ && !ContentState["```"] {
-  if( match($0, /^\[([^]]+)\]: *([^"]+) *"?([^"]+)?"?/, a) ) {
+  if( match($0, /^\[([^]]+)\]: *([^" ]+) *"?([^"]+)?"?/, a) ) {
     if( a[2] ~ /^(https?)|(ftp)|(mailto):/ ) {
       a[2] = "<a href=\"" a[2] "\">" a[1] "</a>"
     }
@@ -385,9 +386,11 @@ $1 == "metadata_slug" { Index[$2]["link"] = $3 ; next }
       a[2] = Index[a[2]]["link"]
       a[2] = "<a href=\"" a[2] "\">" a[1] "</a>"
     }
-    else {
-      print "warning: link", a[2], "not found. Line:"
-      print line
+    else if( index(Blog["post_header_fields"], a[1]) ) {
+      NewPost[a[1]] = a[3]
+    } else {
+      print "warning: link", a[2], "not found for name", a[1], "and title", a[3]
+      print $0
       a[2] = gensub(/(.*)/, "posts.html?q=\\1", "g", a[2])
       a[2] = "<a href=\"" a[2] "\">" a[1] "</a>"
     }
