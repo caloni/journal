@@ -266,6 +266,17 @@ function FormatContent(line, lastLine,    prefix, suffix, paragraph, newLine, he
 }
 
 
+function FlushContentState(    lastLine)
+{
+  lastLine = length(NewPost["lines"])
+  if ( ContentState["-"] ) {
+    NewPost["lines"][lastLine]["content"] = NewPost["lines"][lastLine]["content"] "</ul>\n"
+    ContentState["-"] = 0
+  }
+  delete ContentState
+}
+
+
 function FlushNewPost(    slug, date, month, tags, post)
 {
   slug = NewPost["slug"]
@@ -273,6 +284,8 @@ function FlushNewPost(    slug, date, month, tags, post)
   month = substr(date, 1, 7)
   split(NewPost["tags"], tags)
   post = ""
+
+  FlushContentState()
 
   Months[month] = month
   DateSlugTitle[date][slug] = NewPost["title"]
@@ -384,6 +397,33 @@ $1 == "metadata_slug" { Index[$2]["link"] = $3 ; next }
   }
   NewPost["title"] = substr($0, 3)
   NewPost["slug"] = ToSlug(NewPost["title"])
+  next
+}
+
+
+/^\[[^]]+\]:/ && !ContentState["```"] {
+  if( match($0, /^\[([^]]+)\]: *([^"]+) *"?([^"]+)?"?/, a) ) {
+    if( a[2] ~ /^(https?)|(ftp)|(mailto):/ ) {
+      a[2] = "<a href=\"" a[2] "\">" a[1] "</a>"
+    }
+    else if( a[2] ~ /^(bib_)|(idx_)/ ) {
+      Lists[a[1] " [" a[2] "]"][NewPost["slug"]] = NewPost["slug"]
+      a[2] = "<a href=\"lists.html?q=" a[1] "\">" a[1] "</a>"
+    }
+    else if( a[2] in Index ) {
+      a[2] = Index[a[2]]["link"]
+      a[2] = "<a href=\"" a[2] "\">" a[1] "</a>"
+    }
+    else {
+      print "warning: link", a[2], "not found. Line:"
+      print line
+      a[2] = gensub(/(.*)/, "posts.html?q=\\1", "g", a[2])
+      a[2] = "<a href=\"" a[2] "\">" a[1] "</a>"
+    }
+    NewPost["links"][a[1]] = a[2]
+  } else {
+    print "error: invalid link at", $0
+  }
   next
 }
 
