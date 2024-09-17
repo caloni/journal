@@ -210,9 +210,11 @@ function FormatContent(line, lastLine,    prefix, suffix, paragraph, newLine, he
       paragraph = 0
     }
 
-    if( index(line, "image::") == 1 ) {
-      NewPost["image"] = gensub(/image::(.*)\[.*\]/, NewPost["slug"] "_\\1", "g", line)
-      line = gensub(/image::(.*)\[.*\]/, "<img src=\"img/" NewPost["slug"] "_\\1\"/>", "g", line)
+    if( match($0, /^!\[([^]]*)\]\( *([^" )]+) *"?([^"]*)?"?\)/, a) ) {
+      #print "alt:", a[1], "link:", a[2], "title:", a[3]
+      NewPost["image"] = NewPost["slug"] "_" a[2]
+      #line = "<img src=\"img/" NewPost["slug"] "_" a[2] "\" alt=\"" a[1] "\" title=\"" a[3] "\"/>"
+      line = "<img src=\"img/" NewPost["slug"] "_" a[2] "\"/>"
       ContentType = "img"
       break
     }
