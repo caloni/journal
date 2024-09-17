@@ -34,13 +34,32 @@ function FlushNewPost(    slug, date, chapter, link)
 }
 
 
-/^= / {
+/^```/ {
+  if( ContentState["```"] ) {
+    ContentState["```"] = 0
+  } else {
+    ContentState["```"] = 1
+  }
+  next
+}
+
+
+/^# / && !ContentState["```"] {
   if( "title" in NewPost ) {
     FlushNewPost()
   }
   NewPost["title"] = substr($0, 3)
   NewPost["slug"] = ToSlug(NewPost["title"])
+  next
 }
 
-$1 == ":date:" { NewPost["date"] = $2 }
-$1 == ":slug:" { NewPost["slug"] = $2 }
+
+/^\[[^]]+\]:/ && !ContentState["```"] {
+  if( match($0, /^\[([^]]+)\]: *([^" ]+) *"?([^"]+)?"?/, a) ) {
+    if( a[1] == "slug" || a[1] == "date" ) {
+      NewPost[a[1]] = a[3]
+    }
+  }
+  next
+}
+
