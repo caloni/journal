@@ -162,35 +162,6 @@ function FormatContent(line, lastLine,    prefix, suffix, paragraph, newLine, he
         ContentState[" "] = 0
     }
 
-    if( line ~ /^\[[^]]+\]:/ ) {
-      endName = index(line, "]") + 1
-      name = substr(line, 2, endName - 3)
-      link = substr(line, endName + 2)
-
-      if( link ~ /^(https?)|(ftp)|(mailto):/ ) {
-        link = "<a href=\"" link "\">" name "</a>"
-      }
-      else if( link ~ /^(bib_)|(idx_)/ ) {
-        Lists[name " [" link "]"][NewPost["slug"]] = NewPost["slug"]
-        link = "<a href=\"lists.html?q=" name "\">" name "</a>"
-      }
-      else if( link in Index ) {
-        link = Index[link]["link"]
-        link = "<a href=\"" link "\">" name "</a>"
-      }
-      else {
-        print "warning: link", link, "not found. Line:"
-        print line
-        link = gensub(/(.*)/, "posts.html?q=\\1", "g", link)
-        link = "<a href=\"" link "\">" name "</a>"
-      }
-
-      NewPost["links"][name] = link
-      line = ""
-      ContentType = "link"
-      paragraph = 0
-    }
-
     if( line ~ /^ *- */ ) {
       line = gensub(/ *- *(.*)/, "\\1", "g", line)
       if( ! ContentState["-"] ) {
