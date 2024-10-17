@@ -203,10 +203,10 @@ function formatContent(content)
       break
     }
 
-    if( index(content, "image::") == 1 ) {
-      newImage = gensub(/image::(.*)\[.*\]/, "img/" slug "-\\1", "g", content)
+    if( match($0, /^!\[([^]]*)\]\( *([^" )]+) *"?([^"]*)?"?\)/, a) ) {
+      newImage = a[2]
       g_postImages[newImage] = newImage
-      content = gensub(/image::(.*)\[.*\]/, "<img src=\"img/" slug "-\\1\"/>", "g", content)
+      content = "<img src=\"img/" a[2] "\"/>"
       break
     }
 
@@ -225,7 +225,7 @@ function formatContent(content)
 }
 
 
-/^= / {
+/^# / {
   if( content ) {
     writepost()
     content = ""
@@ -235,6 +235,21 @@ function formatContent(content)
     draft = 0
   }
   title = substr($0, 3)
+  next
+}
+
+/^\[[^]]+\]:/ {
+  if( match($0, /^\[([^]]+)\]: *([^" ]+) *"?([^"]+)?"?/, a) ) {
+    if( a[1] == "date" ) {
+      date = a[3]
+      chapter = substr(date, 1, 7)
+      chapters[chapter] = chapter
+    } else if( a[1] == "tags" ) {
+      tags = a[3]
+    } else if( a[1] == "draft" ) {
+      draft = 1
+    }
+  }
 }
 
 /^:/ {
@@ -262,7 +277,7 @@ function formatContent(content)
   }
 }
 
-/^[^=:]/ {
+/^[^:]/ {
   draftContent = draftContent "\n\n" $0
   newContent = formatContent($0)
   if( content ) {
