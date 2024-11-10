@@ -7068,3 +7068,118 @@ Seeking counterexamples that break pretender algorithms is an important part of 
 
 The heart of any algorithm is an idea. If your idea is not clearly revealed when you express an algorithm, then you are using too low-level a notation to describe it.
 ==========
+Skiena, Steven S. - The Algorithm Design Manual-Springer (2008) (Skiena, Steven S.)
+- Your Highlight at location 791-794 | Added on Saturday, 14 September 2024 22:39:38
+
+An important and honorable technique in algorithm design is to narrow the set of allowable instances until there is a correct and efficient algorithm. For example, we can restrict a graph problem from general graphs down to trees, or a geometric problem from two dimensions down to one.
+==========
+﻿Skiena, Steven S. - The Algorithm Design Manual-Springer (2008) (Skiena, Steven S.)
+- Your Highlight at location 826-827 | Added on Saturday, 14 September 2024 22:52:44
+
+A devious way to break a greedy heuristic is to provide instances where everything is the same size.
+==========
+﻿Skiena, Steven S. - The Algorithm Design Manual-Springer (2008) (Skiena, Steven S.)
+- Your Highlight at location 842-844 | Added on Saturday, 14 September 2024 22:56:42
+
+The reason both seemed like magic is because recursion is mathematical induction. In both, we have general and boundary conditions, with the general condition breaking the problem into smaller and smaller pieces.
+==========
+﻿Software Architecture in Practice, 4th Edition (Len Bass;Paul Clements;Rick Kazman)
+- Your Highlight at location 444-444 | Added on Friday, 20 September 2024 22:57:47
+
+What is architectural depends on what is useful to reason about in your context for your system.
+==========
+﻿Software Architecture in Practice, 4th Edition (Len Bass;Paul Clements;Rick Kazman)
+- Your Highlight at location 524-525 | Added on Tuesday, 24 September 2024 03:50:48
+
+They describe how the system is structured as a set of elements that have runtime behavior (components) and interactions (connectors).
+==========
+﻿Software Architecture in Practice, 4th Edition (Len Bass;Paul Clements;Rick Kazman)
+- Your Highlight at location 544-546 | Added on Tuesday, 24 September 2024 03:59:21
+
+Module structures partition systems into implementation units, which in this book we call modules.
+==========
+﻿Software Architecture in Practice, 4th Edition (Len Bass;Paul Clements;Rick Kazman)
+- Your Highlight at location 549-550 | Added on Tuesday, 24 September 2024 04:00:55
+
+Modules represent a static way of considering the system. Modules are assigned areas of functional responsibility; there is less emphasis in these structures on how the resulting software manifests itself at runtime.
+==========
+﻿Software Architecture in Practice, 4th Edition (Len Bass;Paul Clements;Rick Kazman)
+- Your Highlight at location 550-550 | Added on Tuesday, 24 September 2024 04:01:31
+
+Module implementations include packages, classes, and layers.
+==========
+﻿Software Architecture in Practice, 4th Edition (Len Bass;Paul Clements;Rick Kazman)
+- Your Highlight at location 562-563 | Added on Tuesday, 24 September 2024 04:02:56
+
+What other software does it actually use and depend on?
+==========
+﻿Software Architecture in Practice, 4th Edition (Len Bass;Paul Clements;Rick Kazman)
+- Your Highlight at location 576-577 | Added on Tuesday, 24 September 2024 04:06:12
+
+Decomposition structure. The units are modules that are related to each other by the “is-a-submodule-of” relation, showing how modules are decomposed into smaller modules recursively until the modules are small enough to be easily understood.
+==========
+﻿Software Architecture in Practice, 4th Edition (Len Bass;Paul Clements;Rick Kazman)
+- Your Highlight at location 587-588 | Added on Tuesday, 24 September 2024 04:09:51
+
+The uses structure is used to engineer systems that can be extended to add functionality, or from which useful functional subsets can be extracted.
+==========
+﻿What If (Randall Munroe)
+- Your Highlight at location 1111-1111 | Added on Friday, 18 October 2024 12:52:19
+
+Your veins are supposed to bring low-oxygen blood back
+==========
+﻿What If (Randall Munroe)
+- Your Highlight at location 1111-1112 | Added on Friday, 18 October 2024 12:52:31
+
+Your veins are supposed to bring low-oxygen blood back to your lungs to be refilled with oxygen. But in the Death Zone, there’s so little oxygen in the air that your veins lose oxygen to the air instead of gaining it.
+==========
+﻿What If (Randall Munroe)
+- Your Highlight at location 1542-1544 | Added on Sunday, 20 October 2024 11:37:14
+
+Jeff Potter’s excellent book Cooking for Geeks provides a great introduction to the science of cooking meat, and explains what ranges of heat produce what effects in steak and why. Cook’s The Science of Good Cooking was also helpful.
+==========
+﻿What If (Randall Munroe)
+- Your Highlight at location 1879-1880 | Added on Saturday, 26 October 2024 11:18:59
+
+Bone marrow is also central to the human immune system. Without it, we lose the ability to produce white blood cells, and our immune system collapses.
+==========
+﻿What If (Randall Munroe)
+- Your Highlight at location 1881-1883 | Added on Saturday, 26 October 2024 11:19:54
+
+There are other types of rapidly dividing cells in the body. Our hair follicles and stomach lining also divide constantly, which is why chemotherapy can cause hair loss and nausea.
+==========
+﻿What If (Randall Munroe)
+- Your Highlight at location 1893-1894 | Added on Saturday, 26 October 2024 11:25:50
+
+In cases of severe radiation poisoning, the immune system collapse is the primary cause of death.
+==========
+﻿What If (Randall Munroe)
+- Your Highlight at location 1922-1924 | Added on Saturday, 26 October 2024 11:29:07
+
+On worlds without plants, oxygen doesn’t stay in the atmosphere—it combines with other elements to form things like carbon dioxide and rust. Plants undo this by stripping the oxygen back out and pumping it into the air.
+==========
+﻿What If (Randall Munroe)
+- Your Highlight at location 2354-2355 | Added on Friday, 8 November 2024 09:02:52
+
+To put that in perspective, it takes about five milliseconds for the fastest nerve impulse to travel the length
+==========
+﻿What If (Randall Munroe)
+- Your Highlight at location 2354-2357 | Added on Friday, 8 November 2024 09:03:00
+
+To put that in perspective, it takes about five milliseconds for the fastest nerve impulse to travel the length of the arm. That means that when your arm is still rotating toward the correct position, the signal to release the ball is already at your wrist. In terms of timing, this is like a drummer dropping a drumstick from the tenth story and hitting a drum on the ground on the correct beat.
+==========
+﻿What If (Randall Munroe)
+- Your Highlight at location 2937-2942 | Added on Friday, 8 November 2024 23:55:50
+
+The messages are relatively long, but there’s not a lot of information in each one—all they tell you is whether the person decided to send the trap message or the horse message. It’s effectively a 1 or a 0. Although there are a lot of letters, for a reader who knows the pattern of the language, each tweet carries only one bit of information per sentence. This example hints at a very deep idea, which is that information is fundamentally tied to the recipient’s uncertainty about the message’s content and his or her ability to predict it in advance.
+==========
+﻿What If (Randall Munroe)
+- Your Highlight at location 3081-3083 | Added on Saturday, 9 November 2024 02:18:59
+
+At the equator in March and September, sunset is a hair over two minutes long. Closer to the poles, in places like London, it can take between 200 and 300 seconds. It’s shortest in spring and fall (when the Sun is over the equator
+==========
+﻿What If (Randall Munroe)
+- Your Highlight at location 3081-3083 | Added on Saturday, 9 November 2024 02:19:05
+
+At the equator in March and September, sunset is a hair over two minutes long. Closer to the poles, in places like London, it can take between 200 and 300 seconds. It’s shortest in spring and fall (when the Sun is over the equator) and longest in the summer and winter.
+==========
