@@ -17,7 +17,6 @@ BEGIN {
   Blog["text_drafts"] = "postes em progresso."
   Blog["text_favorite_tags"]["coding"] = "programação, depuração, transpiração."
   Blog["text_favorite_tags"]["movies"] = "o finado Cine Tênis Verde veio parar aqui."
-  Blog["text_lists"] = "quem não gosta de listas?"
   Blog["text_months"] = "lista dos meses com postes."
   Blog["text_news"] = "postes publicados no último mês."
   Blog["text_notfound_description"] = "Não quer fazer uma <a href=\"/posts.html\">busca</a>? Às vezes eu mexo e remexo as coisas por aqui."
@@ -378,10 +377,6 @@ $1 == "metadata_slug" { Index[$2]["link"] = $3 ; next }
     if( a[2] ~ /^(https?)|(ftp)|(mailto):/ ) {
       a[2] = "<a href=\"" a[2] "\">" a[1] "</a>"
     }
-    else if( a[2] ~ /^(bib_)|(idx_)/ ) {
-      Lists[a[1] " [" a[2] "]"][NewPost["slug"]] = NewPost["slug"]
-      a[2] = "<a href=\"lists.html?q=" a[1] "\">" a[1] "</a>"
-    }
     else if( a[2] in Index ) {
       a[2] = Index[a[2]]["link"]
       a[2] = "<a href=\"" a[2] "\">" a[1] "</a>"
@@ -562,42 +557,6 @@ function FlushTagsPage()
 }
 
 
-function FlushListsPage(    slugsByDate, slug)
-{
-  slug = ""
-
-  if( length(Lists) == 0 ) return
-  f = Blog["output"] "\\lists.html"
-  WriteToHtml(f, Blog["text_page_prefix"] "::lists", "index.html", 1)
-  PROCINFO["sorted_in"] = "@ind_str_asc"
-  for( i in Lists ) {
-    tt = ""
-    if( m = match(i, "(.*) \\[(.*)\\]", a) ) {
-      print "<tr><td><a href=\"#" a[2] "\">#</a>" ToHtml(a[1]) " " > f
-    } else {
-      print "<tr><td>" ToHtml(i) " " > f
-    }
-    for( j in Lists[i] ) {
-      slugsByDate[Index[j]["date"], j] = j
-    }
-    for( j in slugsByDate ) {
-      slug = slugsByDate[j]
-      t = "<a href=\"" Index[slug]["month"] ".html#" slug "\">" Index[slug]["title"] "</a>"
-      if( tt == "" ) {
-        tt = t
-      } else {
-        tt = tt " - " t
-      }
-    }
-    delete slugsByDate
-    print "<small><i>" tt "</small></i>" > f
-    print "</td></tr>" > f
-  }
-  WriteBottomHtml(f, 1)
-  QuickSearch["lists"] = "lists.html"
-}
-
-
 function FlushPostsPage()
 {
   f = Blog["output"] "\\posts.html"
@@ -645,9 +604,6 @@ function FlushIndexPage()
   if( "repost" in QuickSearch ) {
     print "<big><a href=\"repost.html\">reposts</a></big><small><i>: " Blog["text_reposts"] "</small></i></br>" > f
   }
-  if( "lists" in QuickSearch ) {
-    print "<big><a href=\"lists.html\">lists</a></big><small><i>: " Blog["text_lists"] "</small></i></br>" > f
-  }
   if( "drafts" in QuickSearch ) {
     print "<big><a href=\"drafts.html\">drafts</a></big><small><i>: " Blog["text_drafts"] "</small></i></br>" > f
   }
@@ -681,7 +637,6 @@ END {
   FlushPostsPage()
   FlushPostsPages()
   FlushTagsPage()
-  FlushListsPage()
   FlushTagsPages()
   FlushMonthsPage()
   FlushIndexPage()
