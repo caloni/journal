@@ -290,7 +290,7 @@ function FlushNewPost(    slug, date, month, tags, post)
     post = "<tr><td><b><a href=\"" month ".html#" slug "\">" ToHtml(NewPost["title"]) "</a></b>\n"
     post = post "<small><i>" NewPost["repost"] " [" date "] "
     for( i in tags ) {
-      post = post " [" tags[i] "]"
+      post = post " " tags[i]
     }
     post = post " " NewPost["summary"] "</small></i>\n"
     post = post "</td></tr>\n"
