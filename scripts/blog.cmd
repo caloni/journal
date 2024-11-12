@@ -1,5 +1,5 @@
 @echo off
-call scripts\blogbuild.cmd
+call scripts\blogbuild.py
 git add --all
 git commit -m "Publishing some shit."
 git push
