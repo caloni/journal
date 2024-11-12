@@ -12,7 +12,7 @@ BEGIN {
   Blog["description"] = "Write for computers, people and food."
   Blog["generator"] = "txt2blog 0.0.1"
   Blog["link"] = "http://www.caloni.com.br"
-  Blog["post_header_fields"] = "date draft link repost slug tags update"
+  Blog["post_header_fields"] = "date draft link slug tags"
   Blog["output"] = "public\\blog"
   Blog["text_drafts"] = "postes em progresso."
   Blog["text_favorite_tags"]["coding"] = "programação, depuração, transpiração."
@@ -24,7 +24,6 @@ BEGIN {
   Blog["text_page_prefix"] = "caloni"
   Blog["text_posts"] = "lista com toooooooodos os postes do blogue."
   Blog["text_quicksearch"] = "&#x1F41E; digite algo / type something"
-  Blog["text_reposts"] = "vale a pena postar de novo."
   Blog["text_tags"] = "todos os rótulos dos postes."
   Blog["title"] = "Blogue do Caloni"
 }
@@ -279,23 +278,6 @@ function FlushNewPost(    slug, date, month, tags, post)
     SlugsByTagsAndDates[tags[i]][date][slug] = slug
   }
 
-  if ( "repost" in NewPost ) {
-    QuickSearch["repost"] = "repost.html"
-    file = Blog["output"] "\\repost.html"
-    if( ! ("repost" in Files) ) {
-      WriteToHtml(file, Blog["text_page_prefix"] "::repost", "index.html", 1)
-      Files["repost"] = "repost"
-    }
-    post = "<tr><td><b><a href=\"" month ".html#" slug "\">" ToHtml(NewPost["title"]) "</a></b>\n"
-    post = post "<small><i>" NewPost["repost"] " [" date "] "
-    for( i in tags ) {
-      post = post " " tags[i]
-    }
-    post = post " " NewPost["summary"] "</small></i>\n"
-    post = post "</td></tr>\n"
-    PostsByMonth["repost"][NewPost["repost"]] = PostsByMonth["repost"][NewPost["repost"]] "\n" post
-  }
-
   file = Blog["output"] "\\" month ".html"
   if( ! (month in Files) ) {
     WriteToHtml(file, Blog["text_page_prefix"] "::" month, "months.html", 0)
@@ -413,10 +395,8 @@ $1 == "metadata_slug" { Index[$2]["link"] = $3 ; next }
 $1 == ":date:" { NewPost["date"] = $2 }
 $1 == ":draft:" { NewPost["draft"] = 1 }
 $1 == ":link:" { NewPost["link"] = $2 }
-$1 == ":repost:" { NewPost["repost"] = $2 }
 $1 == ":slug:" { NewPost["slug"] = $2 }
 $1 == ":tags:" { $1 = "" ; NewPost["tags"] = $0 }
-$1 == ":update:" { NewPost["update"] = $2 }
 
 
 function TiePreviousNextMonths()
@@ -470,23 +450,17 @@ function FlushPostsPages()
   for( i in Files ) {
     p = ""
     f = Blog["output"] "\\" i ".html"
-    if( i == "repost" ) {
-      PROCINFO["sorted_in"] = "@ind_num_desc"
-    } else {
-      PROCINFO["sorted_in"] = "@ind_num_asc"
-    }
+    PROCINFO["sorted_in"] = "@ind_num_asc"
     for( j in PostsByMonth[i] ) {
       p = p "\n" PostsByMonth[i][j]
     }
-    if( i != "repost" ) {
-      print "<ul style=\"list-style: none;\">" > f
-      for( j in PostLinksByMonth[i] ) {
-        print PostLinksByMonth[i][j] > f
-      }
-      print "</ul>" > f
+    print "<ul style=\"list-style: none;\">" > f
+    for( j in PostLinksByMonth[i] ) {
+      print PostLinksByMonth[i][j] > f
     }
+    print "</ul>" > f
     print p > f
-    if( i != "repost" && i != "drafts" ) {
+    if( i != "drafts" ) {
       WriteBottomHtml(f, 0, NextMonth[i] ".html", PrevMonth[i] ".html")
     } else {
       WriteBottomHtml(f, 1)
@@ -601,9 +575,6 @@ function FlushIndexPage()
   print "<big><a href=\"" LastMonth ".html\">news</a></big><small><i>: " Blog["text_news"] "</small></i></br>" > f
   print "<big><a href=\"months.html\">months</a></big><small><i>: " Blog["text_months"] "</small></i></br>" > f
   print "<big><a href=\"posts.html\">posts</a></big><small><i>: " Blog["text_posts"] "</small></i></br>" > f
-  if( "repost" in QuickSearch ) {
-    print "<big><a href=\"repost.html\">reposts</a></big><small><i>: " Blog["text_reposts"] "</small></i></br>" > f
-  }
   if( "drafts" in QuickSearch ) {
     print "<big><a href=\"drafts.html\">drafts</a></big><small><i>: " Blog["text_drafts"] "</small></i></br>" > f
   }
