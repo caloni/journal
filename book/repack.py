@@ -17,4 +17,4 @@ with zipfile.ZipFile('caloni.epub', 'a', compression=zipfile.ZIP_DEFLATED, compr
   zipdir('EPUB', zipf)
   zipdir('META-INF', zipf)
 
-print('to check epub run the command java -jar epubcheck.jar caloni.epub')
+print('epub generated; to check epub run the command \'java -jar epubcheck.jar caloni.epub\'')

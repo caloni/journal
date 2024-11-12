@@ -224,6 +224,7 @@ function formatContent(content)
   return prefix content suffix
 }
 
+$1 == "metadata_slug" { Index[$2]["link"] = $3 ; next }
 
 /^# / {
   if( content ) {

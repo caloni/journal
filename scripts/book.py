@@ -27,7 +27,8 @@ shutil.copytree(r'img/blog', r'public/book/MOBI/img', dirs_exist_ok=True)
 
 os.environ['LC_ALL'] = 'en_US.UTF-8'
 
-process = subprocess.run(['gawk', '-f', r'scripts/txt2epub.awk', 'journal.txt'], check=True)
+process = subprocess.run(['gawk', '-f', r'scripts/util.awk', '-f', r'scripts/metadata.awk', 'journal.txt'], check=True)
+process = subprocess.run(['gawk', '-f', r'scripts/util.awk', '-f', r'scripts/txt2epub.awk', 'journal.txt'], check=True)
 process = subprocess.run(['gawk', '-f', r'scripts/txt2mobi.awk', 'journal.txt'], check=True)
 
 os.chdir(r'public/book')
