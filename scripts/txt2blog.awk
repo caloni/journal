@@ -636,7 +636,7 @@ function FlushIndexPage()
   WriteToHtml(f, Blog["title"], c ".html#about", 0, QuickSearch)
   print "<input type=\"text\" name=\"quick_search_name\" value=\"\" id=\"quick_search\" placeholder=\"" Blog["text_quicksearch"] "\" style=\"width: 100%; font-size: 1.5rem; margin-top: 1em; margin-bottom: 0.5em;\" title=\"\"/></br>" > f
   for( i in Blog["text_favorite_tags"] ) {
-    print "<big><a href=\"tag_" i ".html\">" i "</a></big><small><i>: " Blog["text_favorite_tags"][i] "</small></i></br>" > f
+    print "<big><a href=\"" i ".html\">" i "</a></big><small><i>: " Blog["text_favorite_tags"][i] "</small></i></br>" > f
   }
   print "<big><a href=\"tags.html\">tags</a></big><small><i>: " Blog["text_tags"] "</small></i></br>" > f
   print "<big><a href=\"" LastMonth ".html\">news</a></big><small><i>: " Blog["text_news"] "</small></i></br>" > f
