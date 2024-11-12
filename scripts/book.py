@@ -31,14 +31,14 @@ process = subprocess.run(['gawk', '-f', r'scripts/txt2epub.awk', 'journal.txt'],
 process = subprocess.run(['gawk', '-f', r'scripts/txt2mobi.awk', 'journal.txt'], check=True)
 
 os.chdir(r'public/book')
-process = subprocess.run(['cmd', '/c', r'repack.cmd'], check=True)
+process = subprocess.run(['python', r'repack.py'], check=True)
 os.chdir(old_dir)
 
 print('do you want to convert and copy to kindle? (Y/N)')
 publish_answer = input()
 if 'yYsS1yessim'.find(publish_answer) != -1:
   os.chdir(r'public/book')
-  process = subprocess.run(['cmd', '/c', r'tokindle.cmd'], check=True)
+  process = subprocess.run(['kindlegen', 'caloni.epub', '-o', r'caloni.mobi'], check=False)
   if os.path.exists(r'k:/documents'):
     shutil.copy2(r'caloni.mobi', r'k:/documents/caloni.mobi', exist_ok=True)
     print('book copied successfully')
