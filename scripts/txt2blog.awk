@@ -12,9 +12,8 @@ BEGIN {
   Blog["description"] = "Write for computers, people and food."
   Blog["generator"] = "txt2blog 0.0.1"
   Blog["link"] = "http://www.caloni.com.br"
-  Blog["post_header_fields"] = "date draft link slug tags"
+  Blog["post_header_fields"] = "date link slug tags"
   Blog["output"] = "public\\blog"
-  Blog["text_drafts"] = "postes em progresso."
   Blog["text_favorite_tags"]["coding"] = "programação, depuração, transpiração."
   Blog["text_favorite_tags"]["movies"] = "o finado Cine Tênis Verde veio parar aqui."
   Blog["text_months"] = "lista dos meses com postes."
@@ -260,11 +259,6 @@ function FlushNewPost(    slug, date, month, tags, post)
   Months[month] = month
   DateSlugTitle[date][slug] = NewPost["title"]
 
-  if( "draft" in NewPost ) {
-    month = "drafts"
-    QuickSearch["drafts"] = "drafts.html"
-  }
-
   Index[NewPost["slug"]]["slug"] = slug
   Index[NewPost["slug"]]["title"] = NewPost["title"]
   Index[NewPost["slug"]]["date"] = date
@@ -393,7 +387,6 @@ $1 == "metadata_slug" { Index[$2]["link"] = $3 ; next }
 
 
 $1 == ":date:" { NewPost["date"] = $2 }
-$1 == ":draft:" { NewPost["draft"] = 1 }
 $1 == ":link:" { NewPost["link"] = $2 }
 $1 == ":slug:" { NewPost["slug"] = $2 }
 $1 == ":tags:" { $1 = "" ; NewPost["tags"] = $0 }
@@ -460,11 +453,7 @@ function FlushPostsPages()
     }
     print "</ul>" > f
     print p > f
-    if( i != "drafts" ) {
-      WriteBottomHtml(f, 0, NextMonth[i] ".html", PrevMonth[i] ".html")
-    } else {
-      WriteBottomHtml(f, 1)
-    }
+    WriteBottomHtml(f, 0, NextMonth[i] ".html", PrevMonth[i] ".html")
   }
 }
 
@@ -575,9 +564,6 @@ function FlushIndexPage()
   print "<big><a href=\"" LastMonth ".html\">news</a></big><small><i>: " Blog["text_news"] "</small></i></br>" > f
   print "<big><a href=\"months.html\">months</a></big><small><i>: " Blog["text_months"] "</small></i></br>" > f
   print "<big><a href=\"posts.html\">posts</a></big><small><i>: " Blog["text_posts"] "</small></i></br>" > f
-  if( "drafts" in QuickSearch ) {
-    print "<big><a href=\"drafts.html\">drafts</a></big><small><i>: " Blog["text_drafts"] "</small></i></br>" > f
-  }
   print "<div><big><span style=\"visibility: hidden; padding: 5px;\" name=\"results\" id=\"results\">...</span></big></div>" > f
   print "<table class=\"sortable\" style=\"width: 100%;\">" > f
   print "</table>" > f
