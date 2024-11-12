@@ -1,4 +1,3 @@
-import glob
 import os
 import shutil
 import subprocess
@@ -21,7 +20,7 @@ for filename in os.listdir('.'):
 os.chdir(old_dir)
 
 shutil.copytree(r'blog', r'public/blog', dirs_exist_ok=True)
-shutil.copytree(r'img/blog', os.path.join(r'public/blog', r'img'), dirs_exist_ok=True)
+shutil.copytree(r'img/blog', r'public/blog/img', dirs_exist_ok=True)
 
 os.environ['LC_ALL'] = 'en_US.UTF-8'
 
