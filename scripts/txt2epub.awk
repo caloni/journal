@@ -6,15 +6,6 @@ function toid(str)
   return str
 }
 
-function tohtml(str)
-{
-  gsub(/&/, "&amp;", str)
-  gsub(/</, "\\&lt;", str)
-  gsub(/>/, "\\&gt;", str)
-  gsub(/"/, "\\&quot;", str)
-  return str
-}
-
 function isnumeric(x, f)
 {
     switch (typeof(x)) {
@@ -78,19 +69,19 @@ function writepost()
     print "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" > file
     print "<html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:epub=\"http://www.idpf.org/2007/ops\">" > file
     print "<head><meta http-equiv=\"default-style\" content=\"text/html; charset=utf-8\"/>" > file
-    print "<title>" tohtml(chapter) "</title>" > file
+    print "<title>" ToHtml(chapter) "</title>" > file
     print "<link rel=\"stylesheet\" href=\"css/stylesheet.css\" type=\"text/css\" />" > file
     print "<link rel=\"stylesheet\" href=\"css/page-template.xpgt\" type=\"application/adobe-page-template+xml\" />" > file
     print "</head>" > file
     print "<body>" > file
     print "<div class=\"body\">" > file
-    print "<span epub:type=\"pagebreak\" id=\"" toid(chapter) "\" title=\"" tohtml(chapter) "\"/>" > file
-    print "<h1 class=\"chapter-title\"><strong>" tohtml(chapter) "</strong></h1>" > file
+    print "<span epub:type=\"pagebreak\" id=\"" toid(chapter) "\" title=\"" ToHtml(chapter) "\"/>" > file
+    print "<h1 class=\"chapter-title\"><strong>" ToHtml(chapter) "</strong></h1>" > file
     files[fchapter] = fchapter
   }
-  print "<span epub:type=\"pagebreak\" id=\"" toid(slug) "\" title=\"" tohtml(title) "\"/>" > file
-  print "<section title=\"" tohtml(title) "\" epub:type=\"bodymatter chapter\">" > file
-  print "<h1 class=\"chapter-subtitle\"><strong>" tohtml(title) "</strong></h1>" > file
+  print "<span epub:type=\"pagebreak\" id=\"" toid(slug) "\" title=\"" ToHtml(title) "\"/>" > file
+  print "<section title=\"" ToHtml(title) "\" epub:type=\"bodymatter chapter\">" > file
+  print "<h1 class=\"chapter-subtitle\"><strong>" ToHtml(title) "</strong></h1>" > file
   print "<p class=\"note-title\">" date sterms "</p>" > file
   print content > file
   print "</section>" > file
@@ -377,7 +368,7 @@ END {
   print "<navPoint id=\"toc\" playOrder=\"2\"><navLabel><text>Contents</text></navLabel><content src=\"toc.xhtml\"/></navPoint>" > tocncx
   playOrder = 2
   #for( chapter in chapters ) {
-  #  print "<navPoint playOrder=\"" ++playOrder "\" id=\"" toid(chapter) "\"><navLabel><text>" tohtml(chapter) "</text></navLabel>\
+  #  print "<navPoint playOrder=\"" ++playOrder "\" id=\"" toid(chapter) "\"><navLabel><text>" ToHtml(chapter) "</text></navLabel>\
   #    <content src=\"" toid(chapter) ".xhtml\"/></navPoint>" > tocncx
   #}
   print "</navMap>" > tocncx
@@ -408,7 +399,7 @@ END {
       lastyear = year
     }
     print "<a href=\"" toid(chapter) ".xhtml\"> " \
-      tohtml(mon) " </a>" > tocxhtml
+      ToHtml(mon) " </a>" > tocxhtml
   }
   print "</p>" > tocxhtml
   print "<p id=\"indx-2\" class=\"tocb\"><strong>Drafts</strong></p>" > tocxhtml
@@ -435,7 +426,7 @@ END {
     print "<h1 class=\"toc-title\">" term "</h1>" > tocxhtml
     print "<ul>" > tocxhtml
     for( tit in terms[term] ) {
-      print "<li><a href=\"" toid(titleToChapter[tit]) ".xhtml#" toid(titleToSlug[tit]) "\">" tohtml(tit) "</a></li>" > tocxhtml
+      print "<li><a href=\"" toid(titleToChapter[tit]) ".xhtml#" toid(titleToSlug[tit]) "\">" ToHtml(tit) "</a></li>" > tocxhtml
     }
     print "</ul>" > tocxhtml
     print "</div>" > tocxhtml
@@ -456,7 +447,7 @@ END {
   print "<h2>Contents</h2>" > ncxhtml
   print "<ol epub:type=\"list\">" > ncxhtml
   #for( chapter in chapters ) {
-  #  print "<li><a href=\"" toid(chapter) ".xhtml\">" tohtml(chapter) "</a></li>" > ncxhtml
+  #  print "<li><a href=\"" toid(chapter) ".xhtml\">" ToHtml(chapter) "</a></li>" > ncxhtml
   #}
   print "<li><a href=\"index.xhtml\">Index</a></li>" > ncxhtml
   print "</ol>" > ncxhtml
@@ -483,11 +474,11 @@ END {
     letter = toletter(letterAndTitle[1])
     title = letterAndTitle[2]
     if( letters[letter] == "" ) {
-      letters[letter] = "<h3 id=\"" toid(letter) "\" class=\"groupletter\">" tohtml(letter) "</h3>\n"\
+      letters[letter] = "<h3 id=\"" toid(letter) "\" class=\"groupletter\">" ToHtml(letter) "</h3>\n"\
         "<ul class=\"indexlevel1\">"
     }
     letters[letter] = letters[letter] "<li epub:type=\"index-entry\" class=\"indexhead1\" id=\"mh" currid++ "\">"\
-      "<a href=\"" toid(titleToChapter[title]) ".xhtml#" toid(titleToSlug[title]) "\">" tohtml(title) "</a></li>\n"
+      "<a href=\"" toid(titleToChapter[title]) ".xhtml#" toid(titleToSlug[title]) "\">" ToHtml(title) "</a></li>\n"
   }
   for( letter in letters ) {
     print "<a href=\"#" toid(letter) "\">" letter "</a>" > indexx
@@ -497,7 +488,7 @@ END {
   for( term in terms ) {
     tocxhtml = "public\\book\\EPUB\\toc_" term ".xhtml"
     print "<li epub:type=\"index-entry\" class=\"indexhead1\" id=\"mh" currid++ "\">"\
-      "<a href=\"toc" toid(term) ".xhtml\">" tohtml(term) "</a></li>\n" > indexx
+      "<a href=\"toc" toid(term) ".xhtml\">" ToHtml(term) "</a></li>\n" > indexx
   }
   print "</ul>" > indexx
   for( letter in letters ) {

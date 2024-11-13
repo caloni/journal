@@ -24,6 +24,7 @@ function ToHtml(s)
   gsub(/&/, "&amp;", s)
   gsub(/</, "\\&lt;", s)
   gsub(/>/, "\\&gt;", s)
+  gsub(/"/, "\\&quot;", s)
   return s
 }
 
