@@ -15,25 +15,6 @@ function tohtml(str)
   return str
 }
 
-
-function toslug(str)
-{
-  gsub(/[ÁÀÂÃáàâã]/, "a", str)
-  gsub(/[ÉÊÊéêê]/, "e", str)
-  gsub(/[ÔÕÓôõóō]/, "o", str)
-  gsub(/[Úú"Üü]/, "u", str)
-  gsub(/[ÍÏíï]/, "i", str)
-  gsub(/[Çç]/, "c", str)
-  gsub(/[Ññ]/, "n", str)
-  gsub(/[#()'",;:-]/, "", str)
-  gsub(/&/, "and", str)
-  gsub(/!/, "", str)
-  gsub(/\?/, "", str)
-  gsub(/ /, "-", str)
-  return tolower(str)
-}
-
-
 function isnumeric(x, f)
 {
     switch (typeof(x)) {
@@ -70,7 +51,7 @@ function writepost()
 {
   ++postCount
   if( slug == "" ) {
-    slug = toslug(title)
+    slug = ToSlug(title)
   }
   entries[substr(title, 1, 1),title] = title
   sterms = ""
