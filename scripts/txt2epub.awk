@@ -45,12 +45,12 @@ function WriteToHtml(    slug)
   print "<section title=\"" ToHtml(NewPost["title"]) "\" epub:type=\"bodymatter chapter\">" > file
   print "<h1 class=\"chapter-subtitle\"><strong>" ToHtml(NewPost["title"]) "</strong></h1>" > file
   print "<p class=\"note-title\">" date sterms "</p>" > file
-  print content > file
+  print NewPost["content"] > file
   print "</section>" > file
 }
 
 
-function FormatContent(content)
+function FormatContent(   content)
 {
   prefix = "\n"
   suffix = ""
@@ -101,9 +101,9 @@ function FormatContent(content)
 $1 == "metadata_slug" { Index[$2]["link"] = $3 ; next }
 
 /^# / {
-  if( content ) {
+  if( NewPost["content"] ) {
     WriteToHtml()
-    content = ""
+    NewPost["content"] = ""
     NewPost["slug"] = ""
     NewPost["tags"] = ""
   }
@@ -126,11 +126,11 @@ $1 == "metadata_slug" { Index[$2]["link"] = $3 ; next }
 
 /.+/ {
   newContent = FormatContent($0)
-  if( content ) {
-    content = content newContent
+  if( NewPost["content"] ) {
+    NewPost["content"] = NewPost["content"] newContent
   } else {
     summary = $0
-    content = newContent
+    NewPost["content"] = newContent
   }
 }
 
@@ -363,9 +363,9 @@ function FlushIndexPage()
 }
 
 END {
-  if( content ) {
+  if( NewPost["content"] ) {
     WriteToHtml()
-    content = ""
+    NewPost["content"] = ""
   }
 
   FlushPostsPages()
