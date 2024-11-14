@@ -97,6 +97,7 @@ function FormatContent(content)
   return prefix content suffix
 }
 
+
 $1 == "metadata_slug" { Index[$2]["link"] = $3 ; next }
 
 /^# / {
@@ -132,6 +133,7 @@ $1 == "metadata_slug" { Index[$2]["link"] = $3 ; next }
     content = newContent
   }
 }
+
 
 function FlushPostsPages()
 {
