@@ -7,24 +7,24 @@
 BEGIN {
 }
 
-function WriteToHtml()
+function WriteToHtml(    slug)
 {
-  ++postCount
+  slug = NewPost["slug"]
   if( slug == "" ) {
-    slug = ToSlug(title)
+    slug = ToSlug(NewPost["title"])
   }
-  entries[substr(title, 1, 1),title] = title
+  entries[substr(NewPost["title"], 1, 1),NewPost["title"]] = NewPost["title"]
   sterms = ""
-  split(tags, stags)
+  split(NewPost["tags"], stags)
   for( t in stags ) {
-    terms[stags[t]][title] = title
+    terms[stags[t]][NewPost["title"]] = NewPost["title"]
     sterms = sterms " <a href=\"toc" ToId(stags[t]) ".xhtml\">" stags[t] "</a>"
   }
   slugs[slug]["slug"] = slug
-  slugs[slug]["title"] = title
+  slugs[slug]["title"] = NewPost["title"]
   slugs[slug]["date"] = date
-  titleToSlug[title] = slug
-  titleToChapter[title] = chapter
+  titleToSlug[NewPost["title"]] = slug
+  titleToChapter[NewPost["title"]] = chapter
   fchapter = ToId(chapter)
   file = "public\\book\\EPUB\\" fchapter ".xhtml"
   if( ! (fchapter in files) ) {
@@ -41,9 +41,9 @@ function WriteToHtml()
     print "<h1 class=\"chapter-title\"><strong>" ToHtml(chapter) "</strong></h1>" > file
     files[fchapter] = fchapter
   }
-  print "<span epub:type=\"pagebreak\" id=\"" ToId(slug) "\" title=\"" ToHtml(title) "\"/>" > file
-  print "<section title=\"" ToHtml(title) "\" epub:type=\"bodymatter chapter\">" > file
-  print "<h1 class=\"chapter-subtitle\"><strong>" ToHtml(title) "</strong></h1>" > file
+  print "<span epub:type=\"pagebreak\" id=\"" ToId(slug) "\" title=\"" ToHtml(NewPost["title"]) "\"/>" > file
+  print "<section title=\"" ToHtml(NewPost["title"]) "\" epub:type=\"bodymatter chapter\">" > file
+  print "<h1 class=\"chapter-subtitle\"><strong>" ToHtml(NewPost["title"]) "</strong></h1>" > file
   print "<p class=\"note-title\">" date sterms "</p>" > file
   print content > file
   print "</section>" > file
@@ -104,10 +104,10 @@ $1 == "metadata_slug" { Index[$2]["link"] = $3 ; next }
   if( content ) {
     WriteToHtml()
     content = ""
-    slug = ""
-    tags = ""
+    NewPost["slug"] = ""
+    NewPost["tags"] = ""
   }
-  title = substr($0, 3)
+  NewPost["title"] = substr($0, 3)
   next
 }
 
@@ -118,7 +118,7 @@ $1 == "metadata_slug" { Index[$2]["link"] = $3 ; next }
       chapter = substr(date, 1, 7)
       chapters[chapter] = chapter
     } else if( a[1] == "tags" ) {
-      tags = a[3]
+      NewPost["tags"] = a[3]
     }
   }
   next
