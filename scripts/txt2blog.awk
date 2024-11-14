@@ -386,12 +386,6 @@ $1 == "metadata_slug" { Index[$2]["link"] = $3 ; next }
 }
 
 
-$1 == ":date:" { NewPost["date"] = $2 }
-$1 == ":link:" { NewPost["link"] = $2 }
-$1 == ":slug:" { NewPost["slug"] = $2 }
-$1 == ":tags:" { $1 = "" ; NewPost["tags"] = $0 }
-
-
 function TiePreviousNextMonths()
 {
   PROCINFO["sorted_in"] = "@ind_num_asc"
