@@ -120,31 +120,10 @@ $1 == "metadata_slug" { Index[$2]["link"] = $3 ; next }
       tags = a[3]
     }
   }
+  next
 }
 
-/^:/ {
-  #print "header " $0
-  if( $1 == ":slug:" ) {
-    slug = $2
-  }
-  else if( $1 == ":date:" ) {
-    date = $2
-    chapter = substr(date, 1, 7)
-    chapters[chapter] = chapter
-  }
-  else if( $1 == ":tags:" ) {
-    tagidx = 2
-    while( tagidx <= NF ) {
-      tag = $tagidx
-      if( tag != "null" ) {
-        tags = tags " " tag
-      }
-      ++tagidx
-    }
-  }
-}
-
-/^[^:]/ {
+/.+/ {
   newContent = FormatContent($0)
   if( content ) {
     content = content newContent
