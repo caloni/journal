@@ -57,67 +57,6 @@ function FormatContent(content)
   paragraph = 1
 
   do {
-    #todo: test
-    #if( index(content, "```") == 1 ) {
-    #  content = ""
-    #  if( contentState["```"] ) {
-    #    prefix = "</pre>"
-    #    contentState["```"] = 0
-    #  } else {
-    #    contentState["```"] = 1
-    #    prefix = prefix "<pre>"
-    #  }
-    #  break
-    #} else if( contentState["```"] ) {
-    #  break
-    #}
-
-    #todo: test
-    #if( content ~ /^ *- */ ) {
-    #  content = gensub(/ *- *(.*)/, "\\1", "g", content)
-    #  if( ! contentState["-"] ) {
-    #    prefix = prefix "<ul>"
-    #    contentState["-"] = 1
-    #  }
-    #  prefix = prefix "<li>"
-    #  suffix = "</li>" suffix
-    #  paragraph = 0
-    #} else if ( contentState["-"] ) {
-    #    prefix = "</ul>\n"
-    #    contentState["-"] = 0
-    #}
-
-    #todo: test
-    #if( content ~ /^ +/ ) {
-    #  sub(/^ /, "", content)
-    #  if( ! contentState[" "] ) {
-    #    prefix = prefix "<pre>"
-    #    contentState[" "] = 1
-    #  }
-    #  break
-    #} else if ( contentState[" "] ) {
-    #    prefix = "</pre>\n"
-    #    contentState[" "] = 0
-    #}
-
-    #todo: test
-    #if( content ~ /^#+ / ) {
-
-    #  if( content ~ /^# / ) {
-    #    headerLevel = 2
-    #  } else if( content ~ /^## / ) {
-    #    headerLevel = 3
-    #  } else if( content ~ /^### / ) {
-    #    headerLevel = 4
-    #  } else {
-    #    headerLevel = 5
-    #  }
-    #  gsub(/^#+ /, "", content)
-
-    #  prefix = prefix "<h" headerLevel ">"
-    #  suffix = "</h" headerLevel ">" suffix
-    #  paragraph = 0
-    #}
 
     if( content ~ /^\[[^]]+\]:/ ) {
       endName = index(content, ":")
