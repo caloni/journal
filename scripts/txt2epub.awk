@@ -1,36 +1,13 @@
-function isnumeric(x, f)
-{
-    switch (typeof(x)) {
-    case "strnum":
-    case "number":
-        return 1
-    case "string":
-        return (split(x, f, " ") == 1) && (typeof(f[1]) == "strnum")
-    default:
-        return 0
-    }
+# Transform pseudo-markdown text to epub book.
+# Wanderley Caloni <wanderley.caloni@gmail.com>
+# 2024-11-14
+
+#include util.awk
+
+BEGIN {
 }
 
-function toletter(str)
-{
-  if( isnumeric(str) ) return "#"
-  str = toupper(str)
-  conv = convertLetters[str]
-  if( conv != "" ) return conv
-  return str
-}
-
-function readfile(file,     tmp, save_rs)
-{
-  save_rs = RS
-  RS = "^$"
-  getline tmp < file
-  close(file)
-  RS = save_rs
-  return tmp
-}
-
-function writepost()
+function WriteToHtml()
 {
   ++postCount
   if( slug == "" ) {
@@ -80,7 +57,7 @@ function writepost()
 }
 
 
-function formatContent(content)
+function FormatContent(content)
 {
   prefix = "\n"
   suffix = ""
@@ -192,7 +169,7 @@ $1 == "metadata_slug" { Index[$2]["link"] = $3 ; next }
 
 /^# / {
   if( content ) {
-    writepost()
+    WriteToHtml()
     content = ""
     draftContent = ""
     slug = ""
@@ -244,7 +221,7 @@ $1 == "metadata_slug" { Index[$2]["link"] = $3 ; next }
 
 /^[^:]/ {
   draftContent = draftContent "\n\n" $0
-  newContent = formatContent($0)
+  newContent = FormatContent($0)
   if( content ) {
     content = content newContent
   } else {
@@ -253,40 +230,18 @@ $1 == "metadata_slug" { Index[$2]["link"] = $3 ; next }
   }
 }
 
-BEGIN {
-  convertLetters["Á"] = "A"
-  convertLetters["À"] = "A"
-  convertLetters["Â"] = "A"
-  convertLetters["Ã"] = "A"
-  convertLetters["É"] = "E"
-  convertLetters["Ê"] = "E"
-  convertLetters["Ê"] = "E"
-  convertLetters["Ô"] = "O"
-  convertLetters["Õ"] = "O"
-  convertLetters["Ó"] = "O"
-  convertLetters["Ú"] = "U"
-  convertLetters["Í"] = "I"
-  convertLetters["Ï"] = "I"
-  convertLetters["("] = "#"
-  convertLetters[")"] = "#"
-  convertLetters["'"] = "#"
-  convertLetters["\""] = "#"
-}
-
-END {
-  if( content ) {
-    writepost()
-    content = ""
-    draftContent = ""
-  }
-
+function FlushPostsPages()
+{
   for( f in files ) {
     file = "public\\book\\EPUB\\" f ".xhtml"
     print "</div>" > file
     print "</body>" > file
     print "</html>" > file
   }
+}
 
+function FlushPackage()
+{
   package = "public\\book\\EPUB\\package.opf"
   print "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" > package
   print "<package xmlns=\"http://www.idpf.org/2007/opf\" version=\"3.0\" unique-identifier=\"p0000000000000\">" > package
@@ -343,7 +298,10 @@ END {
   print "<itemref linear=\"yes\" idref=\"ncx\"/>" > package
   print "</spine>" > package
   print "</package>" > package
+}
 
+function FlushTocNcx()
+{
   tocncx = "public\\book\\EPUB\\toc.ncx"
   print "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" > tocncx
   print "<ncx xmlns=\"http://www.daisy.org/z3986/2005/ncx/\" version=\"2005-1\" xml:lang=\"en-US\">" > tocncx
@@ -365,7 +323,10 @@ END {
   #}
   print "</navMap>" > tocncx
   print "</ncx>" > tocncx
+}
 
+function FlushTocPage()
+{
   tocxhtml = "public\\book\\EPUB\\toc.xhtml"
   print "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" > tocxhtml
   print "<html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:epub=\"http://www.idpf.org/2007/ops\">" > tocxhtml
@@ -403,7 +364,10 @@ END {
   print "</div>" > tocxhtml
   print "</body>" > tocxhtml
   print "</html>" > tocxhtml
+}
 
+function FlushTagsPage()
+{
   for( term in terms ) {
     tocxhtml = "public\\book\\EPUB\\toc_" term ".xhtml"
     print "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" > tocxhtml
@@ -425,7 +389,10 @@ END {
     print "</body>" > tocxhtml
     print "</html>" > tocxhtml
   }
+}
 
+function FlushNcx()
+{
   ncxhtml = "public\\book\\EPUB\\ncx.xhtml"
   print "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" > ncxhtml
   print "<html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:epub=\"http://www.idpf.org/2007/ops\">" > ncxhtml
@@ -446,7 +413,10 @@ END {
   print "</nav>" > ncxhtml
   print "</body>" > ncxhtml
   print "</html>" > ncxhtml
+}
 
+function FlushIndexPage()
+{
   indexx = "public\\book\\EPUB\\index.xhtml"
   print "<!DOCTYPE html>" > indexx
   print "<html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:epub=\"http://www.idpf.org/2007/ops\" xml:lang=\"en-US\" lang=\"en-US\">" > indexx
@@ -463,7 +433,7 @@ END {
   currid = 2
   for( e in entries ) {
     split(e, letterAndTitle, SUBSEP)
-    letter = toletter(letterAndTitle[1])
+    letter = ToLetter(letterAndTitle[1])
     title = letterAndTitle[2]
     if( letters[letter] == "" ) {
       letters[letter] = "<h3 id=\"" ToId(letter) "\" class=\"groupletter\">" ToHtml(letter) "</h3>\n"\
@@ -490,5 +460,21 @@ END {
   print "</section>" > indexx
   print "</body>" > indexx
   print "</html>" > indexx
+}
+
+END {
+  if( content ) {
+    WriteToHtml()
+    content = ""
+    draftContent = ""
+  }
+
+  FlushPostsPages()
+  FlushPackage()
+  FlushTocNcx()
+  FlushTocPage()
+  FlushTagsPage()
+  FlushNcx()
+  FlushIndexPage()
 }
 
