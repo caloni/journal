@@ -25,13 +25,6 @@ function WriteToHtml()
   slugs[slug]["date"] = date
   titleToSlug[title] = slug
   titleToChapter[title] = chapter
-  if( draft ) {
-    draftToSlug[title] = slug
-    drafts = "public\\book\\drafts.txt"
-    print "= " title > drafts
-    print draftContent > drafts
-    print "\n\n" > drafts
-  }
   fchapter = ToId(chapter)
   file = "public\\book\\EPUB\\" fchapter ".xhtml"
   if( ! (fchapter in files) ) {
@@ -171,10 +164,8 @@ $1 == "metadata_slug" { Index[$2]["link"] = $3 ; next }
   if( content ) {
     WriteToHtml()
     content = ""
-    draftContent = ""
     slug = ""
     tags = ""
-    draft = 0
   }
   title = substr($0, 3)
   next
@@ -188,8 +179,6 @@ $1 == "metadata_slug" { Index[$2]["link"] = $3 ; next }
       chapters[chapter] = chapter
     } else if( a[1] == "tags" ) {
       tags = a[3]
-    } else if( a[1] == "draft" ) {
-      draft = 1
     }
   }
 }
@@ -214,13 +203,9 @@ $1 == "metadata_slug" { Index[$2]["link"] = $3 ; next }
       ++tagidx
     }
   }
-  else if( $1 == ":draft:" ) {
-    draft = 1
-  }
 }
 
 /^[^:]/ {
-  draftContent = draftContent "\n\n" $0
   newContent = FormatContent($0)
   if( content ) {
     content = content newContent
@@ -355,11 +340,6 @@ function FlushTocPage()
       ToHtml(mon) " </a>" > tocxhtml
   }
   print "</p>" > tocxhtml
-  print "<p id=\"indx-2\" class=\"tocb\"><strong>Drafts</strong></p>" > tocxhtml
-  for( title in draftToSlug ) {
-    slug = draftToSlug[title]
-    print "<p id=\"" ToId(slug) "\" class=\"toc\"><a href=\"" ToId(titleToChapter[title]) ".xhtml#" ToId(slug) "\">" title "</a></p>" > tocxhtml
-  }
   print "<a id=\"piv\"></a>" > tocxhtml
   print "</div>" > tocxhtml
   print "</body>" > tocxhtml
@@ -466,7 +446,6 @@ END {
   if( content ) {
     WriteToHtml()
     content = ""
-    draftContent = ""
   }
 
   FlushPostsPages()
