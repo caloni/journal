@@ -28,3 +28,11 @@ function ToHtml(s)
   return s
 }
 
+function ToId(str)
+{
+  gsub(/-/, "", str)
+  gsub(/#/, "sharp", str)
+  str = "_" str
+  return str
+}
+
