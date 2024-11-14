@@ -337,7 +337,6 @@ function FlushNewPost(    slug, date, month, tags, post)
 
 $1 == "metadata_slug" { Index[$2]["link"] = $3 ; next }
 
-
 /^# / && !ContentState["```"] {
   if( "title" in NewPost ) {
     FlushNewPost()
@@ -346,7 +345,6 @@ $1 == "metadata_slug" { Index[$2]["link"] = $3 ; next }
   NewPost["slug"] = ToSlug(NewPost["title"])
   next
 }
-
 
 /^\[[^]]+\]:/ && !ContentState["```"] {
   if( match($0, /^\[([^]]+)\]: *([^" ]+) *"?([^"]+)?"?/, a) ) {
@@ -372,8 +370,7 @@ $1 == "metadata_slug" { Index[$2]["link"] = $3 ; next }
   next
 }
 
-
-/^[^:]/ {
+/.+/ {
   i = FormatContent($0, NewPost["totalLines"])
   if( i ) {
     NewPost["totalLines"] = i
