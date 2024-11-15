@@ -7,10 +7,11 @@
 BEGIN {
 }
 
-function WriteToHtml(    slug, date, post)
+function WriteToHtml(    slug, date, tags, post)
 {
   slug = NewPost["slug"]
   date = NewPost["date"]
+  split(NewPost["tags"], tags)
   post = ""
 
   if( slug == "" ) {
@@ -19,11 +20,9 @@ function WriteToHtml(    slug, date, post)
   Index[slug]["slug"] = slug
   Index[slug]["letter"] = substr(NewPost["title"], 1, 1)
   Index[slug]["title"] = NewPost["title"]
-  sterms = ""
-  split(NewPost["tags"], stags)
-  for( t in stags ) {
-    terms[stags[t]][NewPost["title"]] = NewPost["title"]
-    sterms = sterms " <a href=\"toc" ToId(stags[t]) ".xhtml\">" stags[t] "</a>"
+  Index[slug]["tags"] = NewPost["tags"]
+  for( i in tags ) {
+    terms[tags[i]][NewPost["title"]] = NewPost["title"]
   }
   slugs[slug]["slug"] = slug
   slugs[slug]["title"] = NewPost["title"]
@@ -48,7 +47,11 @@ function WriteToHtml(    slug, date, post)
   post = post "<span epub:type=\"pagebreak\" id=\"" ToId(slug) "\" title=\"" ToHtml(NewPost["title"]) "\"/>\n"
   post = post "<section title=\"" ToHtml(NewPost["title"]) "\" epub:type=\"bodymatter chapter\">\n"
   post = post "<h1 class=\"chapter-subtitle\"><strong>" ToHtml(NewPost["title"]) "</strong></h1>\n"
-  post = post "<p class=\"note-title\">" date sterms "</p>\n"
+  post = post "<p class=\"note-title\">" date
+  for( i in tags ) {
+    post = post " <a href=\"toc" ToId(tags[i]) ".xhtml\">" tags[i] "</a>"
+  }
+  post = post "</p>\n"
   post = post NewPost["content"] "\n"
   post = post "</section>"
 
