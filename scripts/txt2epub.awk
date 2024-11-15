@@ -7,7 +7,55 @@
 BEGIN {
 }
 
-function WriteToHtml(    slug, date, tags, post)
+function FormatContent(   content)
+{
+  prefix = "\n"
+  suffix = ""
+  paragraph = 1
+
+  do {
+
+    if( content ~ /^\[[^]]+\]:/ ) {
+      endName = index(content, ":")
+      name = substr(content, 2, endName - 3)
+      link = substr(content, endName + 2)
+
+      if( link ~ /[a-z]:\/\// ) {
+        link = "<a href=\"" link "\">" name "</a>"
+      }
+      else {
+        link = gensub(/(.*)/, "index.xhtml", "g", link)
+        link = "<a href=\"" link "\">" name "</a>"
+      }
+
+      links[name] = link
+      content = ""
+      break
+    }
+
+    if( match($0, /^!\[([^]]*)\]\( *([^" )]+) *"?([^"]*)?"?\)/, a) ) {
+      newImage = a[2]
+      g_postImages[newImage] = newImage
+      content = "<img src=\"img/" a[2] "\"/>"
+      break
+    }
+
+    gsub(/&/, "&amp;", content)
+    gsub(/</, "\\&lt;", content)
+    gsub(/>/, "\\&gt;", content)
+    content = gensub(/\[([^&]]+)\]\(([^)]+)\)/, "<a href=\"\\2\">\\1</a>", "g", content)
+
+    if( paragraph ) {
+      content = "<p>" content "</p>"
+    }
+
+  } while( 0 )
+
+  return prefix content suffix
+}
+
+
+function FlushNewPost(    slug, date, tags, post)
 {
   slug = NewPost["slug"]
   date = NewPost["date"]
@@ -60,59 +108,11 @@ function WriteToHtml(    slug, date, tags, post)
 }
 
 
-function FormatContent(   content)
-{
-  prefix = "\n"
-  suffix = ""
-  paragraph = 1
-
-  do {
-
-    if( content ~ /^\[[^]]+\]:/ ) {
-      endName = index(content, ":")
-      name = substr(content, 2, endName - 3)
-      link = substr(content, endName + 2)
-
-      if( link ~ /[a-z]:\/\// ) {
-        link = "<a href=\"" link "\">" name "</a>"
-      }
-      else {
-        link = gensub(/(.*)/, "index.xhtml", "g", link)
-        link = "<a href=\"" link "\">" name "</a>"
-      }
-
-      links[name] = link
-      content = ""
-      break
-    }
-
-    if( match($0, /^!\[([^]]*)\]\( *([^" )]+) *"?([^"]*)?"?\)/, a) ) {
-      newImage = a[2]
-      g_postImages[newImage] = newImage
-      content = "<img src=\"img/" a[2] "\"/>"
-      break
-    }
-
-    gsub(/&/, "&amp;", content)
-    gsub(/</, "\\&lt;", content)
-    gsub(/>/, "\\&gt;", content)
-    content = gensub(/\[([^&]]+)\]\(([^)]+)\)/, "<a href=\"\\2\">\\1</a>", "g", content)
-
-    if( paragraph ) {
-      content = "<p>" content "</p>"
-    }
-
-  } while( 0 )
-
-  return prefix content suffix
-}
-
-
 $1 == "metadata_slug" { Index[$2]["link"] = $3 ; next }
 
 /^# / {
   if( NewPost["content"] ) {
-    WriteToHtml()
+    FlushNewPost()
     NewPost["content"] = ""
     NewPost["slug"] = ""
     NewPost["tags"] = ""
@@ -373,7 +373,7 @@ function FlushIndexPage()
 
 END {
   if( NewPost["content"] ) {
-    WriteToHtml()
+    FlushNewPost()
     NewPost["content"] = ""
   }
 

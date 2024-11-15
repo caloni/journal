@@ -28,102 +28,6 @@ BEGIN {
 }
 
 
-function WriteToHtml(file, title, backLink, filter, quickSearch,    originalSort)
-{
-  print "<!DOCTYPE html>" > file
-  print "<html lang=\"en-us\" dir=\"ltr\" itemscope itemtype=\"http://schema.org/Article\">" > file
-  print "<head>" > file
-  print "<meta charset=\"utf-8\" />" > file
-  print "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/>" > file
-  print "<title>" Blog["title"] "</title>" > file
-  print "<meta name=\"author\" content=\"" Blog["author"] "\" />" > file
-  print "<meta name=\"generator\" content=\"" Blog["generator"] "\">" > file
-  print "<meta property=\"og:title\" content=\"" Blog["title"] "\"/>" > file
-  print "<meta property=\"og:type\" content=\"website\"/>" > file
-  print "<meta property=\"og:url\" content=\"" Blog["link"] "\"/>" > file
-  print "<meta property=\"og:image\" content=\"" Blog["post-image"] "\"/>" > file
-  print "<meta property=\"og:description\" content=\"" Blog["description"] "\"/>" > file
-  print "<link href=\"/index.xml\" rel=\"feed\" type=\"application/rss+xml\" title=\"" Blog["title"] "\"/>" > file
-  print "<link rel=\"stylesheet\" type=\"text/css\" href=\"/css/custom.css\"/>" > file
-  print "<link rel=\"stylesheet\" type=\"text/css\" href=\"/css/jquery-ui.css\"/>" > file
-  print "<script src=\"/js/jquery-1.12.4.js\"></script>" > file
-  print "<script src=\"/js/jquery-ui.js\"></script>" > file
-  print "<script src=\"/js/copy_clipboard.js\"></script>" > file
-  print "<script>" > file
-  print "var quick_search_posts = [ " > file
-  originalSort = PROCINFO["sorted_in"]
-  PROCINFO["sorted_in"] = "@ind_str_asc"
-  for( i in quickSearch ) {
-    print "\"" quickSearch[i] "\"," > file
-  }
-  PROCINFO["sorted_in"] = originalSort
-  print " ]; " > file
-  print "</script>" > file
-  print "<script src=\"/js/quick_search.js\"></script>" > file
-  print "<script src=\"/js/list.js\"></script>" > file
-  print "<link rel=\"icon\" href=\"/img/favicon.ico\"/>" > file
-  print "</head>" > file
-  print "<body style=\"min-height:100vh;display:flex;flex-direction:column\">" > file
-  print "<nav class=\"navbar has-shadow is-white\"" > file
-  print "role=\"navigation\" aria-label=\"main navigation\">" > file
-  print "<div class=\"container\">" > file
-  print "<div class=\"navbar-brand\">" > file
-  print "&nbsp;" > file
-  print "<a class=\"navbar-item\" href=\"" backLink "\">" > file
-  print "<div class=\"is-4\"><b>" title "</b></div>" > file
-  print "</a>" > file
-  print "</div>" > file
-  print "</div>" > file
-  print "</nav>" > file
-  print "<div class=\"container\">" > file
-  print "<div class=\"column\">" > file
-  print "<div style=\"min-height:56vh\">" > file
-  print "<div style=\"padding-bottom: 1em;\"></div>" > file
-  if( filter ) {
-    print "<input type=\"text\" name=\"filter\" value=\"\" id=\"filter\" placeholder=\"enter to select\" style=\"width: 100%; font-size: 1.5rem; margin-top: 1em; margin-bottom: 0.5em;\" title=\"\"/></br>" > file
-    print "<button id=\"filterbutton\" style=\"font-size: 1rem;\" onclick=\"ApplyFilter($('#filter').val());\">select</button>" > file
-    print "<button id=\"removebutton\" style=\"font-size: 1rem;\" onclick=\"ApplyNotFilter($('#filter').val());\">remove</button>" > file
-    print "<button id=\"randombutton\" style=\"font-size: 1rem;\" onclick=\"window.location = randomPost;\">random</button>" > file
-    print "<div><big><b><span style=\"visibility: hidden; padding: 5px;\" name=\"results\" id=\"results\">...</span></b></big></div>" > file
-    print "<table class=\"sortable\" style=\"width: 100%;\">" > file
-  }
-}
-
-
-function WriteBottomHtml(file, filter, nextLink, prevLink, build,    label)
-{
-  if( filter ) {
-    print "</table>" > file
-  }
-  print "<span style=\"float: left;\">" > file
-  if( nextLink && nextLink != "" ) {
-    link = nextLink
-    sub(/\.html/, "", nextLink)
-    label = nextLink
-    print " <a href=\"" link "\">[" label "]</a>" > file
-  }
-  if( prevLink && prevLink != "" ) {
-    link = prevLink
-    sub(/\.html/, "", prevLink)
-    label = prevLink
-    print " <a href=\"" link "\">[" label "]</a>" > file
-  }
-  print "</span>" > file
-  print "</div>" > file
-  print "</div>" > file
-  print "</section>" > file
-  print "<footer class=\"footer\">" > file
-  print "<div class=\"container\">" > file
-  if( build ) {
-    print "<p><small><i>Build: " build "</i></small></p>" > file
-  }
-  print "</div>" > file
-  print "</footer>" > file
-  print "</body>" > file
-  print "</html>" > file
-}
-
-
 function FormatContent(line, lastLine,    prefix, suffix, paragraph, newLine, headerLevel, endName, name, link)
 {
   prefix = ""
@@ -380,6 +284,102 @@ $1 == "metadata_slug" { Index[$2]["link"] = $3 ; next }
       }
     }
   }
+}
+
+
+function WriteToHtml(file, title, backLink, filter, quickSearch,    originalSort)
+{
+  print "<!DOCTYPE html>" > file
+  print "<html lang=\"en-us\" dir=\"ltr\" itemscope itemtype=\"http://schema.org/Article\">" > file
+  print "<head>" > file
+  print "<meta charset=\"utf-8\" />" > file
+  print "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/>" > file
+  print "<title>" Blog["title"] "</title>" > file
+  print "<meta name=\"author\" content=\"" Blog["author"] "\" />" > file
+  print "<meta name=\"generator\" content=\"" Blog["generator"] "\">" > file
+  print "<meta property=\"og:title\" content=\"" Blog["title"] "\"/>" > file
+  print "<meta property=\"og:type\" content=\"website\"/>" > file
+  print "<meta property=\"og:url\" content=\"" Blog["link"] "\"/>" > file
+  print "<meta property=\"og:image\" content=\"" Blog["post-image"] "\"/>" > file
+  print "<meta property=\"og:description\" content=\"" Blog["description"] "\"/>" > file
+  print "<link href=\"/index.xml\" rel=\"feed\" type=\"application/rss+xml\" title=\"" Blog["title"] "\"/>" > file
+  print "<link rel=\"stylesheet\" type=\"text/css\" href=\"/css/custom.css\"/>" > file
+  print "<link rel=\"stylesheet\" type=\"text/css\" href=\"/css/jquery-ui.css\"/>" > file
+  print "<script src=\"/js/jquery-1.12.4.js\"></script>" > file
+  print "<script src=\"/js/jquery-ui.js\"></script>" > file
+  print "<script src=\"/js/copy_clipboard.js\"></script>" > file
+  print "<script>" > file
+  print "var quick_search_posts = [ " > file
+  originalSort = PROCINFO["sorted_in"]
+  PROCINFO["sorted_in"] = "@ind_str_asc"
+  for( i in quickSearch ) {
+    print "\"" quickSearch[i] "\"," > file
+  }
+  PROCINFO["sorted_in"] = originalSort
+  print " ]; " > file
+  print "</script>" > file
+  print "<script src=\"/js/quick_search.js\"></script>" > file
+  print "<script src=\"/js/list.js\"></script>" > file
+  print "<link rel=\"icon\" href=\"/img/favicon.ico\"/>" > file
+  print "</head>" > file
+  print "<body style=\"min-height:100vh;display:flex;flex-direction:column\">" > file
+  print "<nav class=\"navbar has-shadow is-white\"" > file
+  print "role=\"navigation\" aria-label=\"main navigation\">" > file
+  print "<div class=\"container\">" > file
+  print "<div class=\"navbar-brand\">" > file
+  print "&nbsp;" > file
+  print "<a class=\"navbar-item\" href=\"" backLink "\">" > file
+  print "<div class=\"is-4\"><b>" title "</b></div>" > file
+  print "</a>" > file
+  print "</div>" > file
+  print "</div>" > file
+  print "</nav>" > file
+  print "<div class=\"container\">" > file
+  print "<div class=\"column\">" > file
+  print "<div style=\"min-height:56vh\">" > file
+  print "<div style=\"padding-bottom: 1em;\"></div>" > file
+  if( filter ) {
+    print "<input type=\"text\" name=\"filter\" value=\"\" id=\"filter\" placeholder=\"enter to select\" style=\"width: 100%; font-size: 1.5rem; margin-top: 1em; margin-bottom: 0.5em;\" title=\"\"/></br>" > file
+    print "<button id=\"filterbutton\" style=\"font-size: 1rem;\" onclick=\"ApplyFilter($('#filter').val());\">select</button>" > file
+    print "<button id=\"removebutton\" style=\"font-size: 1rem;\" onclick=\"ApplyNotFilter($('#filter').val());\">remove</button>" > file
+    print "<button id=\"randombutton\" style=\"font-size: 1rem;\" onclick=\"window.location = randomPost;\">random</button>" > file
+    print "<div><big><b><span style=\"visibility: hidden; padding: 5px;\" name=\"results\" id=\"results\">...</span></b></big></div>" > file
+    print "<table class=\"sortable\" style=\"width: 100%;\">" > file
+  }
+}
+
+
+function WriteBottomHtml(file, filter, nextLink, prevLink, build,    label)
+{
+  if( filter ) {
+    print "</table>" > file
+  }
+  print "<span style=\"float: left;\">" > file
+  if( nextLink && nextLink != "" ) {
+    link = nextLink
+    sub(/\.html/, "", nextLink)
+    label = nextLink
+    print " <a href=\"" link "\">[" label "]</a>" > file
+  }
+  if( prevLink && prevLink != "" ) {
+    link = prevLink
+    sub(/\.html/, "", prevLink)
+    label = prevLink
+    print " <a href=\"" link "\">[" label "]</a>" > file
+  }
+  print "</span>" > file
+  print "</div>" > file
+  print "</div>" > file
+  print "</section>" > file
+  print "<footer class=\"footer\">" > file
+  print "<div class=\"container\">" > file
+  if( build ) {
+    print "<p><small><i>Build: " build "</i></small></p>" > file
+  }
+  print "</div>" > file
+  print "</footer>" > file
+  print "</body>" > file
+  print "</html>" > file
 }
 
 
