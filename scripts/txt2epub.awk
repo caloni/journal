@@ -7,10 +7,11 @@
 BEGIN {
 }
 
-function WriteToHtml(    slug, date)
+function WriteToHtml(    slug, date, post)
 {
   slug = NewPost["slug"]
   date = NewPost["date"]
+  post = ""
 
   if( slug == "" ) {
     slug = ToSlug(NewPost["title"])
@@ -30,27 +31,29 @@ function WriteToHtml(    slug, date)
   titleToSlug[NewPost["title"]] = slug
   titleToChapter[NewPost["title"]] = chapter
   fchapter = ToId(chapter)
-  file = "public\\book\\EPUB\\" fchapter ".xhtml"
   if( ! (fchapter in files) ) {
-    print "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" > file
-    print "<html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:epub=\"http://www.idpf.org/2007/ops\">" > file
-    print "<head><meta http-equiv=\"default-style\" content=\"text/html; charset=utf-8\"/>" > file
-    print "<title>" ToHtml(chapter) "</title>" > file
-    print "<link rel=\"stylesheet\" href=\"css/stylesheet.css\" type=\"text/css\" />" > file
-    print "<link rel=\"stylesheet\" href=\"css/page-template.xpgt\" type=\"application/adobe-page-template+xml\" />" > file
-    print "</head>" > file
-    print "<body>" > file
-    print "<div class=\"body\">" > file
-    print "<span epub:type=\"pagebreak\" id=\"" ToId(chapter) "\" title=\"" ToHtml(chapter) "\"/>" > file
-    print "<h1 class=\"chapter-title\"><strong>" ToHtml(chapter) "</strong></h1>" > file
+    post = post "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n"
+    post = post "<html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:epub=\"http://www.idpf.org/2007/ops\">\n"
+    post = post "<head><meta http-equiv=\"default-style\" content=\"text/html; charset=utf-8\"/>\n"
+    post = post "<title>" ToHtml(chapter) "</title>\n"
+    post = post "<link rel=\"stylesheet\" href=\"css/stylesheet.css\" type=\"text/css\" />\n"
+    post = post "<link rel=\"stylesheet\" href=\"css/page-template.xpgt\" type=\"application/adobe-page-template+xml\" />\n"
+    post = post "</head>\n"
+    post = post "<body>\n"
+    post = post "<div class=\"body\">\n"
+    post = post "<span epub:type=\"pagebreak\" id=\"" ToId(chapter) "\" title=\"" ToHtml(chapter) "\"/>\n"
+    post = post "<h1 class=\"chapter-title\"><strong>" ToHtml(chapter) "</strong></h1>\n"
     files[fchapter] = fchapter
   }
-  print "<span epub:type=\"pagebreak\" id=\"" ToId(slug) "\" title=\"" ToHtml(NewPost["title"]) "\"/>" > file
-  print "<section title=\"" ToHtml(NewPost["title"]) "\" epub:type=\"bodymatter chapter\">" > file
-  print "<h1 class=\"chapter-subtitle\"><strong>" ToHtml(NewPost["title"]) "</strong></h1>" > file
-  print "<p class=\"note-title\">" date sterms "</p>" > file
-  print NewPost["content"] > file
-  print "</section>" > file
+  post = post "<span epub:type=\"pagebreak\" id=\"" ToId(slug) "\" title=\"" ToHtml(NewPost["title"]) "\"/>\n"
+  post = post "<section title=\"" ToHtml(NewPost["title"]) "\" epub:type=\"bodymatter chapter\">\n"
+  post = post "<h1 class=\"chapter-subtitle\"><strong>" ToHtml(NewPost["title"]) "</strong></h1>\n"
+  post = post "<p class=\"note-title\">" date sterms "</p>\n"
+  post = post NewPost["content"] "\n"
+  post = post "</section>"
+
+  file = "public\\book\\EPUB\\" fchapter ".xhtml"
+  print post > file
 }
 
 
