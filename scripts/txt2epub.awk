@@ -7,13 +7,17 @@
 BEGIN {
 }
 
-function WriteToHtml(    slug)
+function WriteToHtml(    slug, date)
 {
   slug = NewPost["slug"]
+  date = NewPost["date"]
+
   if( slug == "" ) {
     slug = ToSlug(NewPost["title"])
   }
-  entries[substr(NewPost["title"], 1, 1),NewPost["title"]] = NewPost["title"]
+  Index[slug]["slug"] = slug
+  Index[slug]["letter"] = substr(NewPost["title"], 1, 1)
+  Index[slug]["title"] = NewPost["title"]
   sterms = ""
   split(NewPost["tags"], stags)
   for( t in stags ) {
@@ -114,8 +118,8 @@ $1 == "metadata_slug" { Index[$2]["link"] = $3 ; next }
 /^\[[^]]+\]:/ {
   if( match($0, /^\[([^]]+)\]: *([^" ]+) *"?([^"]+)?"?/, a) ) {
     if( a[1] == "date" ) {
-      date = a[3]
-      chapter = substr(date, 1, 7)
+      NewPost["date"] = a[3]
+      chapter = substr(NewPost["date"], 1, 7)
       chapters[chapter] = chapter
     } else if( a[1] == "tags" ) {
       NewPost["tags"] = a[3]
@@ -331,19 +335,18 @@ function FlushIndexPage()
   print "<section epub:type=\"index-group\" id=\"letters\">" > indexx
   PROCINFO["sorted_in"] = "@ind_str_asc"
   currid = 2
-  for( e in entries ) {
-    split(e, letterAndTitle, SUBSEP)
-    letter = ToLetter(letterAndTitle[1])
-    title = letterAndTitle[2]
-    if( letters[letter] == "" ) {
-      letters[letter] = "<h3 id=\"" ToId(letter) "\" class=\"groupletter\">" ToHtml(letter) "</h3>\n"\
+  for( i in Index ) {
+    l = ToLetter(Index[i]["letter"])
+    t = Index[i]["title"]
+    if( Letters[l] == "" ) {
+      Letters[l] = "<h3 id=\"" ToId(l) "\" class=\"groupletter\">" ToHtml(l) "</h3>\n"\
         "<ul class=\"indexlevel1\">"
     }
-    letters[letter] = letters[letter] "<li epub:type=\"index-entry\" class=\"indexhead1\" id=\"mh" currid++ "\">"\
-      "<a href=\"" ToId(titleToChapter[title]) ".xhtml#" ToId(titleToSlug[title]) "\">" ToHtml(title) "</a></li>\n"
+    Letters[l] = Letters[l] "<li epub:type=\"index-entry\" class=\"indexhead1\" id=\"mh" currid++ "\">"\
+      "<a href=\"" ToId(titleToChapter[t]) ".xhtml#" ToId(titleToSlug[t]) "\">" ToHtml(t) "</a></li>\n"
   }
-  for( letter in letters ) {
-    print "<a href=\"#" ToId(letter) "\">" letter "</a>" > indexx
+  for( l in Letters ) {
+    print "<a href=\"#" ToId(l) "\">" l "</a>" > indexx
   }
   print "<h3 id=\"toc" ToId(term) "\" class=\"groupletter\">Terms</h3>\n"\
     "<ul class=\"indexlevel1\">" > indexx
@@ -353,8 +356,8 @@ function FlushIndexPage()
       "<a href=\"toc" ToId(term) ".xhtml\">" ToHtml(term) "</a></li>\n" > indexx
   }
   print "</ul>" > indexx
-  for( letter in letters ) {
-    print letters[letter] > indexx
+  for( l in Letters ) {
+    print Letters[l] > indexx
     print "</ul>" > indexx
   }
   print "</section>" > indexx
