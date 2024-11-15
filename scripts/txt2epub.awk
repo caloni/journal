@@ -22,7 +22,7 @@ function WriteToHtml(    slug, date, tags, post)
   Index[slug]["title"] = NewPost["title"]
   Index[slug]["tags"] = NewPost["tags"]
   for( i in tags ) {
-    terms[tags[i]][NewPost["title"]] = NewPost["title"]
+    TitlesByTags[tags[i]][NewPost["title"]] = NewPost["title"]
   }
   slugs[slug]["slug"] = slug
   slugs[slug]["title"] = NewPost["title"]
@@ -180,8 +180,8 @@ function FlushPackage()
   print "<item id=\"page-template\" href=\"css/page-template.xpgt\" media-type=\"application/adobe-page-template+xml\"/>" > package
   print "<item id=\"titlepage\" href=\"titlepage.xhtml\" media-type=\"application/xhtml+xml\"/>" > package
   print "<item id=\"toc\" href=\"toc.xhtml\" media-type=\"application/xhtml+xml\"/>" > package
-  for( term in terms ) {
-    print "<item id=\"toc_" term "\" href=\"toc_" term ".xhtml\" media-type=\"application/xhtml+xml\"/>" > package
+  for( i in TitlesByTags ) {
+    print "<item id=\"toc_" i "\" href=\"toc_" i ".xhtml\" media-type=\"application/xhtml+xml\"/>" > package
   }
   print "<item id=\"index\" href=\"index.xhtml\" media-type=\"application/xhtml+xml\"/>" > package
   PROCINFO["sorted_in"] = "@ind_num_asc"
@@ -203,8 +203,8 @@ function FlushPackage()
   print "<itemref idref=\"cover\" linear=\"yes\"/>" > package
   print "<itemref idref=\"titlepage\" linear=\"yes\"/>" > package
   print "<itemref idref=\"toc\" linear=\"yes\"/>" > package
-  for( term in terms ) {
-    print "<itemref linear=\"yes\" idref=\"toc" ToId(term) "\"/>" > package
+  for( i in TitlesByTags ) {
+    print "<itemref linear=\"yes\" idref=\"toc" ToId(i) "\"/>" > package
   }
   for( chapter in chapters ) {
     print "<itemref linear=\"yes\" idref=\"" ToId(chapter) "\"/>" > package
@@ -278,20 +278,20 @@ function FlushTocPage()
 
 function FlushTagsPage()
 {
-  for( term in terms ) {
-    tocxhtml = "public\\book\\EPUB\\toc_" term ".xhtml"
+  for( i in TitlesByTags ) {
+    tocxhtml = "public\\book\\EPUB\\toc_" i ".xhtml"
     print "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" > tocxhtml
     print "<html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:epub=\"http://www.idpf.org/2007/ops\">" > tocxhtml
     print "<head><meta http-equiv=\"default-style\" content=\"text/html; charset=utf-8\"/>" > tocxhtml
-    print "<title>" term "</title>" > tocxhtml
+    print "<title>" i "</title>" > tocxhtml
     print "<link rel=\"stylesheet\" href=\"css/stylesheet.css\" type=\"text/css\" />" > tocxhtml
     print "<link rel=\"stylesheet\" href=\"css/page-template.xpgt\" type=\"application/adobe-page-template+xml\" />" > tocxhtml
     print "</head>" > tocxhtml
     print "<body>" > tocxhtml
     print "<div class=\"body\">" > tocxhtml
-    print "<h1 class=\"toc-title\">" term "</h1>" > tocxhtml
+    print "<h1 class=\"toc-title\">" i "</h1>" > tocxhtml
     print "<ul>" > tocxhtml
-    for( tit in terms[term] ) {
+    for( tit in TitlesByTags[i] ) {
       print "<li><a href=\"" ToId(titleToChapter[tit]) ".xhtml#" ToId(titleToSlug[tit]) "\">" ToHtml(tit) "</a></li>" > tocxhtml
     }
     print "</ul>" > tocxhtml
@@ -354,12 +354,12 @@ function FlushIndexPage()
   for( l in Letters ) {
     print "<a href=\"#" ToId(l) "\">" l "</a>" > indexx
   }
-  print "<h3 id=\"toc" ToId(term) "\" class=\"groupletter\">Terms</h3>\n"\
+  print "<h3 id=\"toc_tags\" class=\"groupletter\">Tags</h3>\n"\
     "<ul class=\"indexlevel1\">" > indexx
-  for( term in terms ) {
-    tocxhtml = "public\\book\\EPUB\\toc_" term ".xhtml"
+  for( i in TitlesByTags ) {
+    tocxhtml = "public\\book\\EPUB\\toc_" i ".xhtml"
     print "<li epub:type=\"index-entry\" class=\"indexhead1\" id=\"mh" currid++ "\">"\
-      "<a href=\"toc" ToId(term) ".xhtml\">" ToHtml(term) "</a></li>\n" > indexx
+      "<a href=\"toc" ToId(i) ".xhtml\">" ToHtml(i) "</a></li>\n" > indexx
   }
   print "</ul>" > indexx
   for( l in Letters ) {
