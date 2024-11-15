@@ -55,30 +55,31 @@ function FormatContent(   content)
 }
 
 
-function FlushNewPost(    slug, date, tags, post)
+function FlushNewPost(    slug, date, chapter, fchapter, tags, post)
 {
   slug = NewPost["slug"]
   date = NewPost["date"]
   split(NewPost["tags"], tags)
   post = ""
+  chapter = substr(date, 1, 7)
+  fchapter = ToId(chapter)
 
   if( slug == "" ) {
     slug = ToSlug(NewPost["title"])
   }
+  Chapters[chapter] = chapter
+
   Index[slug]["slug"] = slug
   Index[slug]["letter"] = substr(NewPost["title"], 1, 1)
   Index[slug]["title"] = NewPost["title"]
   Index[slug]["tags"] = NewPost["tags"]
+  TitleToSlug[NewPost["title"]] = slug
+  TitleToChapter[NewPost["title"]] = chapter
   for( i in tags ) {
     TitlesByTags[tags[i]][NewPost["title"]] = NewPost["title"]
   }
-  slugs[slug]["slug"] = slug
-  slugs[slug]["title"] = NewPost["title"]
-  slugs[slug]["date"] = date
-  titleToSlug[NewPost["title"]] = slug
-  titleToChapter[NewPost["title"]] = chapter
-  fchapter = ToId(chapter)
-  if( ! (fchapter in files) ) {
+
+  if( ! (fchapter in Files) ) {
     post = post "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n"
     post = post "<html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:epub=\"http://www.idpf.org/2007/ops\">\n"
     post = post "<head><meta http-equiv=\"default-style\" content=\"text/html; charset=utf-8\"/>\n"
@@ -90,7 +91,7 @@ function FlushNewPost(    slug, date, tags, post)
     post = post "<div class=\"body\">\n"
     post = post "<span epub:type=\"pagebreak\" id=\"" ToId(chapter) "\" title=\"" ToHtml(chapter) "\"/>\n"
     post = post "<h1 class=\"chapter-title\"><strong>" ToHtml(chapter) "</strong></h1>\n"
-    files[fchapter] = fchapter
+    Files[fchapter] = fchapter
   }
   post = post "<span epub:type=\"pagebreak\" id=\"" ToId(slug) "\" title=\"" ToHtml(NewPost["title"]) "\"/>\n"
   post = post "<section title=\"" ToHtml(NewPost["title"]) "\" epub:type=\"bodymatter chapter\">\n"
@@ -125,8 +126,6 @@ $1 == "metadata_slug" { Index[$2]["link"] = $3 ; next }
   if( match($0, /^\[([^]]+)\]: *([^" ]+) *"?([^"]+)?"?/, a) ) {
     if( a[1] == "date" ) {
       NewPost["date"] = a[3]
-      chapter = substr(NewPost["date"], 1, 7)
-      chapters[chapter] = chapter
     } else if( a[1] == "tags" ) {
       NewPost["tags"] = a[3]
     }
@@ -147,7 +146,7 @@ $1 == "metadata_slug" { Index[$2]["link"] = $3 ; next }
 
 function FlushPostsPages()
 {
-  for( f in files ) {
+  for( f in Files ) {
     file = "public\\book\\EPUB\\" f ".xhtml"
     print "</div>" > file
     print "</body>" > file
@@ -185,8 +184,8 @@ function FlushPackage()
   }
   print "<item id=\"index\" href=\"index.xhtml\" media-type=\"application/xhtml+xml\"/>" > package
   PROCINFO["sorted_in"] = "@ind_num_asc"
-  for( chapter in chapters ) {
-    print "<item id=\"" ToId(chapter) "\" href=\"" ToId(chapter) ".xhtml\" media-type=\"application/xhtml+xml\"/>" > package
+  for( c in Chapters ) {
+    print "<item id=\"" ToId(c) "\" href=\"" ToId(c) ".xhtml\" media-type=\"application/xhtml+xml\"/>" > package
   }
   totalImages = 0
   for( image in g_postImages ) {
@@ -206,8 +205,8 @@ function FlushPackage()
   for( i in TitlesByTags ) {
     print "<itemref linear=\"yes\" idref=\"toc" ToId(i) "\"/>" > package
   }
-  for( chapter in chapters ) {
-    print "<itemref linear=\"yes\" idref=\"" ToId(chapter) "\"/>" > package
+  for( c in Chapters ) {
+    print "<itemref linear=\"yes\" idref=\"" ToId(c) "\"/>" > package
   }
   print "<itemref linear=\"yes\" idref=\"index\"/>" > package
   print "<itemref linear=\"yes\" idref=\"ncx\"/>" > package
@@ -232,9 +231,9 @@ function FlushTocNcx()
   print "<navPoint id=\"cover\" playOrder=\"1\"><navLabel><text>Cover</text></navLabel><content src=\"cover.xhtml\"/></navPoint>" > tocncx
   print "<navPoint id=\"toc\" playOrder=\"2\"><navLabel><text>Contents</text></navLabel><content src=\"toc.xhtml\"/></navPoint>" > tocncx
   playOrder = 2
-  #for( chapter in chapters ) {
-  #  print "<navPoint playOrder=\"" ++playOrder "\" id=\"" ToId(chapter) "\"><navLabel><text>" ToHtml(chapter) "</text></navLabel>\
-  #    <content src=\"" ToId(chapter) ".xhtml\"/></navPoint>" > tocncx
+  #for( c in Chapters ) {
+  #  print "<navPoint playOrder=\"" ++playOrder "\" id=\"" ToId(c) "\"><navLabel><text>" ToHtml(c) "</text></navLabel>\
+  #    <content src=\"" ToId(c) ".xhtml\"/></navPoint>" > tocncx
   #}
   print "</navMap>" > tocncx
   print "</ncx>" > tocncx
@@ -256,17 +255,17 @@ function FlushTocPage()
   print "<h1 class=\"toc-title\">Contents</h1>" > tocxhtml
   print "<p id=\"indx-1\" class=\"toca\"><a href=\"index.xhtml\"><strong>Index</strong></a></p>" > tocxhtml
   lastyear = "2001"
-  for( chapter in chapters ) {
-    year = substr(chapter, 1, 4)
-    mon = substr(chapter, 6, 2)
+  for( c in Chapters ) {
+    year = substr(c, 1, 4)
+    mon = substr(c, 6, 2)
     if( year != lastyear ) {
       if( lastyear != "2001" ) {
         print "</p>" > tocxhtml
       }
-      print "<p id=\"" ToId(chapter) "\" class=\"toc\"><strong>" year "</strong>" > tocxhtml
+      print "<p id=\"" ToId(c) "\" class=\"toc\"><strong>" year "</strong>" > tocxhtml
       lastyear = year
     }
-    print "<a href=\"" ToId(chapter) ".xhtml\"> " \
+    print "<a href=\"" ToId(c) ".xhtml\"> " \
       ToHtml(mon) " </a>" > tocxhtml
   }
   print "</p>" > tocxhtml
@@ -292,7 +291,7 @@ function FlushTagsPage()
     print "<h1 class=\"toc-title\">" i "</h1>" > tocxhtml
     print "<ul>" > tocxhtml
     for( tit in TitlesByTags[i] ) {
-      print "<li><a href=\"" ToId(titleToChapter[tit]) ".xhtml#" ToId(titleToSlug[tit]) "\">" ToHtml(tit) "</a></li>" > tocxhtml
+      print "<li><a href=\"" ToId(TitleToChapter[tit]) ".xhtml#" ToId(TitleToSlug[tit]) "\">" ToHtml(tit) "</a></li>" > tocxhtml
     }
     print "</ul>" > tocxhtml
     print "</div>" > tocxhtml
@@ -315,8 +314,8 @@ function FlushNcx()
   print "<nav epub:type=\"toc\">" > ncxhtml
   print "<h2>Contents</h2>" > ncxhtml
   print "<ol epub:type=\"list\">" > ncxhtml
-  #for( chapter in chapters ) {
-  #  print "<li><a href=\"" ToId(chapter) ".xhtml\">" ToHtml(chapter) "</a></li>" > ncxhtml
+  #for( c in Chapters ) {
+  #  print "<li><a href=\"" ToId(c) ".xhtml\">" ToHtml(c) "</a></li>" > ncxhtml
   #}
   print "<li><a href=\"index.xhtml\">Index</a></li>" > ncxhtml
   print "</ol>" > ncxhtml
@@ -349,7 +348,7 @@ function FlushIndexPage()
         "<ul class=\"indexlevel1\">"
     }
     Letters[l] = Letters[l] "<li epub:type=\"index-entry\" class=\"indexhead1\" id=\"mh" currid++ "\">"\
-      "<a href=\"" ToId(titleToChapter[t]) ".xhtml#" ToId(titleToSlug[t]) "\">" ToHtml(t) "</a></li>\n"
+      "<a href=\"" ToId(TitleToChapter[t]) ".xhtml#" ToId(TitleToSlug[t]) "\">" ToHtml(t) "</a></li>\n"
   }
   for( l in Letters ) {
     print "<a href=\"#" ToId(l) "\">" l "</a>" > indexx
