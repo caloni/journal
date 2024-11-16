@@ -7,7 +7,134 @@
 BEGIN {
 }
 
-function FormatContent(   content)
+function FormatContent(line, lastLine,    prefix, suffix, paragraph, newLine, headerLevel, endName, name, link)
+{
+  prefix = ""
+  suffix = "\n"
+  paragraph = 1
+  newLine = 0
+  headerLevel = 0
+  endName = 0
+  name = ""
+  link = ""
+
+  do {
+    if( index(line, "```") == 1 ) {
+      #line = ""
+      if( ContentState["```"] ) {
+        ContentState["```"] = 0
+      } else {
+        ContentState["```"] = 1
+      }
+      #return 0
+    } else if( ContentState["```"] ) {
+      ContentType = "pre"
+      #todo remove when pre is valid
+      gsub(/&/, "&amp;", line)
+      gsub(/</, "\\&lt;", line)
+      gsub(/>/, "\\&gt;", line)
+      line = gensub(/\[([^]]+)\]\(([^)]+)\)/, "<a href=\"\\2\">\\1</a>", "g", line)
+      line = "<p>" line "</p>"
+      ContentType = "p"
+      #todo remove when pre is valid
+      break
+    }
+
+    if( line ~ /^    / ) {
+      #sub(/^ /, "", line)
+      if( ! ContentState[" "] ) {
+        ContentState[" "] = 1
+      }
+      ContentType = "pre"
+      #todo remove when pre is valid
+      gsub(/&/, "&amp;", line)
+      gsub(/</, "\\&lt;", line)
+      gsub(/>/, "\\&gt;", line)
+      line = gensub(/\[([^]]+)\]\(([^)]+)\)/, "<a href=\"\\2\">\\1</a>", "g", line)
+      line = "<p>" line "</p>"
+      ContentType = "p"
+      #todo remove when pre is valid
+      break
+    } else if ( ContentState[" "] ) {
+        ContentState[" "] = 0
+    }
+
+    #if( line ~ /^ *- */ ) {
+    #  line = gensub(/ *- *(.*)/, "\\1", "g", line)
+    #  if( ! ContentState["-"] ) {
+    #    prefix = prefix "<ul>"
+    #    ContentState["-"] = 1
+    #  }
+    #  prefix = prefix "<li>"
+    #  suffix = "</li>" suffix
+    #  paragraph = 0
+    #} else if ( ContentState["-"] ) {
+    #    prefix = "</ul>\n"
+    #    ContentState["-"] = 0
+    #}
+
+    #if( line ~ /^>/ ) {
+    #  sub(/^> ?/, "", line)
+    #  ContentType = "blockquote"
+    #  prefix = "<blockquote>"
+    #  suffix = "</blockquote>"
+    #  break
+    #}
+
+    #if( line ~ /^#{2,6} / ) {
+
+    #  if( line ~ /^## / ) {
+    #    headerLevel = 2
+    #    ContentType = "h2"
+    #  } else if( line ~ /^### / ) {
+    #    headerLevel = 3
+    #    ContentType = "h3"
+    #  } else if( line ~ /^#### / ) {
+    #    headerLevel = 4
+    #    ContentType = "h4"
+    #  } else if( line ~ /^##### / ) {
+    #    headerLevel = 5
+    #    ContentType = "h5"
+    #  } else if( line ~ /^###### / ) {
+    #    headerLevel = 6
+    #    ContentType = "h6"
+    #  }
+    #  gsub(/^#+ /, "", line)
+
+    #  prefix = prefix "<h" headerLevel ">"
+    #  suffix = "</h" headerLevel ">" suffix
+    #  paragraph = 0
+    #}
+
+    if( match($0, /^!\[([^]]*)\]\( *([^" )]+) *"?([^"]*)?"?\)/, a) ) {
+      NewPost["image"] = a[2]
+      line = "<img src=\"img/" a[2] "\"/>"
+      ContentType = "img"
+      break
+    }
+
+    gsub(/&/, "&amp;", line)
+    gsub(/</, "\\&lt;", line)
+    gsub(/>/, "\\&gt;", line)
+    line = gensub(/\[([^]]+)\]\(([^)]+)\)/, "<a href=\"\\2\">\\1</a>", "g", line)
+
+    if( paragraph ) {
+      line = "<p>" line "</p>"
+      ContentType = "p"
+    } else {
+      ContentType = ""
+    }
+
+  } while( 0 )
+
+  newLine = lastLine + 1
+  NewPost["lines"][newLine]["content"] = prefix line suffix
+  NewPost["lines"][newLine]["type"] = ContentType
+  return newLine
+}
+
+
+function FormatContentOld(   content)
 {
   prefix = "\n"
   suffix = ""
@@ -55,6 +182,17 @@ function FormatContent(   content)
 }
 
 
+function FlushContentState(    lastLine)
+{
+  lastLine = length(NewPost["lines"])
+  if ( ContentState["-"] ) {
+    NewPost["lines"][lastLine]["content"] = NewPost["lines"][lastLine]["content"] "</ul>\n"
+    ContentState["-"] = 0
+  }
+  delete ContentState
+}
+
+
 function FlushNewPost(    slug, date, chapter, fchapter, tags, post)
 {
   slug = NewPost["slug"]
@@ -63,6 +201,8 @@ function FlushNewPost(    slug, date, chapter, fchapter, tags, post)
   post = ""
   chapter = substr(date, 1, 7)
   fchapter = ToId(chapter)
+
+  FlushContentState()
 
   if( slug == "" ) {
     slug = ToSlug(NewPost["title"])
@@ -93,6 +233,32 @@ function FlushNewPost(    slug, date, chapter, fchapter, tags, post)
     post = post "<h1 class=\"chapter-title\"><strong>" ToHtml(chapter) "</strong></h1>\n"
     Files[fchapter] = fchapter
   }
+
+  if( length(NewPost["lines"]) ) {
+    for( i in NewPost["lines"] ) {
+      if( NewPost["lines"][i]["content"] != "" ) {
+        if( NewPost["lines"][i]["type"] != "pre" && NewPost["lines"][i]["type"] != "blockquote" ) {
+          if( "links" in NewPost ) {
+            for( j in NewPost["links"] ) {
+              search = "\\[" j "\\]"
+              gsub(search, NewPost["links"][j], NewPost["lines"][i]["content"])
+            }
+          }
+        }
+
+        if( NewPost["lines"][i]["type"] == "pre" ) {
+          NewPost["lines"][i]["content"] = ToHtml(NewPost["lines"][i]["content"])
+          if( NewPost["lines"][i-1]["type"] != NewPost["lines"][i]["type"] ) {
+            NewPost["lines"][i]["content"] = "<" NewPost["lines"][i]["type"] ">\n" NewPost["lines"][i]["content"]
+          }
+          if( NewPost["lines"][i+1]["type"] != NewPost["lines"][i]["type"] ) {
+            NewPost["lines"][i]["content"] = NewPost["lines"][i]["content"] "</" NewPost["lines"][i]["type"] ">\n"
+          }
+        }
+      }
+    }
+  }
+
   post = post "<span epub:type=\"pagebreak\" id=\"" ToId(slug) "\" title=\"" ToHtml(NewPost["title"]) "\"/>\n"
   post = post "<section title=\"" ToHtml(NewPost["title"]) "\" epub:type=\"bodymatter chapter\">\n"
   post = post "<h1 class=\"chapter-subtitle\"><strong>" ToHtml(NewPost["title"]) "</strong></h1>\n"
@@ -100,28 +266,38 @@ function FlushNewPost(    slug, date, chapter, fchapter, tags, post)
   for( i in tags ) {
     post = post " <a href=\"toc" ToId(tags[i]) ".xhtml\">" tags[i] "</a>"
   }
-  post = post "</p>\n"
-  post = post NewPost["content"] "\n"
+  post = post "</p>\n\n"
+  if( length(NewPost["lines"]) ) {
+    for( i in NewPost["lines"] ) {
+      post = post NewPost["lines"][i]["content"]
+      #if( NewPost["lines"][i]["type"] != "pre" ) {
+      #  post = post "\n"
+      #}
+    }
+  }
   post = post "</section>"
 
   file = "public\\book\\EPUB\\" fchapter ".xhtml"
   print post > file
+
+  delete NewPost
+  NewPost["date"] = date
 }
 
 
 $1 == "metadata_slug" { Index[$2]["link"] = $3 ; next }
 
+#todo /^# / && !ContentState["```"] {
 /^# / {
-  if( NewPost["content"] ) {
+  if( "title" in NewPost ) {
     FlushNewPost()
-    NewPost["content"] = ""
-    NewPost["slug"] = ""
-    NewPost["tags"] = ""
   }
   NewPost["title"] = substr($0, 3)
+  NewPost["slug"] = ToSlug(NewPost["title"])
   next
 }
 
+#todo /^\[[^]]+\]:/ && !ContentState["```"] {
 /^\[[^]]+\]:/ {
   if( match($0, /^\[([^]]+)\]: *([^" ]+) *"?([^"]+)?"?/, a) ) {
     if( a[1] == "date" ) {
@@ -134,12 +310,14 @@ $1 == "metadata_slug" { Index[$2]["link"] = $3 ; next }
 }
 
 /.+/ {
-  newContent = FormatContent($0)
-  if( NewPost["content"] ) {
-    NewPost["content"] = NewPost["content"] newContent
-  } else {
-    summary = $0
-    NewPost["content"] = newContent
+  i = FormatContent($0, NewPost["totalLines"])
+  if( i ) {
+    NewPost["totalLines"] = i
+    if( length(NewPost["summary"]) < 200 ) {
+      if( index($0, "{{") == 0 && index($0, "```") == 0 ) {
+        NewPost["summary"] = NewPost["summary"] " " $0
+      }
+    }
   }
 }
 
@@ -371,9 +549,8 @@ function FlushIndexPage()
 }
 
 END {
-  if( NewPost["content"] ) {
+  if( "title" in NewPost ) {
     FlushNewPost()
-    NewPost["content"] = ""
   }
 
   FlushPostsPages()
