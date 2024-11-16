@@ -41,6 +41,6 @@ if 'yYsS1yessim'.find(publish_answer) != -1:
   os.chdir(r'public/book')
   process = subprocess.run(['kindlegen', 'caloni.epub', '-o', r'caloni.mobi'], check=False)
   if os.path.exists(r'k:/documents'):
-    shutil.copy2(r'caloni.mobi', r'k:/documents/caloni.mobi', exist_ok=True)
+    shutil.copy(r'caloni.mobi', r'k:/documents/caloni.mobi')
     print('book copied successfully')
   os.chdir(old_dir)
