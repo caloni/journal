@@ -304,6 +304,8 @@ $1 == "metadata_slug" { Index[$2]["link"] = $3 ; next }
       NewPost["date"] = a[3]
     } else if( a[1] == "tags" ) {
       NewPost["tags"] = a[3]
+    } else if( a[1] == "slug" ) {
+      NewPost["slug"] = a[3]
     }
   }
   next
