@@ -47,19 +47,19 @@ function FormatContent(line, lastLine,    prefix, suffix, paragraph, newLine, he
         ContentState[" "] = 0
     }
 
-    #if( line ~ /^ *- */ ) {
-    #  line = gensub(/ *- *(.*)/, "\\1", "g", line)
-    #  if( ! ContentState["-"] ) {
-    #    prefix = prefix "<ul>"
-    #    ContentState["-"] = 1
-    #  }
-    #  prefix = prefix "<li>"
-    #  suffix = "</li>" suffix
-    #  paragraph = 0
-    #} else if ( ContentState["-"] ) {
-    #    prefix = "</ul>\n"
-    #    ContentState["-"] = 0
-    #}
+    if( line ~ /^ *- */ ) {
+      line = gensub(/ *- *(.*)/, "\\1", "g", line)
+      if( ! ContentState["-"] ) {
+        prefix = prefix "<ul>"
+        ContentState["-"] = 1
+      }
+      prefix = prefix "<li>"
+      suffix = "</li>" suffix
+      paragraph = 0
+    } else if ( ContentState["-"] ) {
+        prefix = "</ul>\n"
+        ContentState["-"] = 0
+    }
 
     #if( line ~ /^>/ ) {
     #  sub(/^> ?/, "", line)
