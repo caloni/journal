@@ -33,7 +33,7 @@ os.environ['LC_ALL'] = 'en_US.UTF-8'
 
 process = subprocess.run(['gawk', '-f', r'scripts/util.awk', '-f', r'scripts/metadata.awk', 'journal.txt'], check=True)
 with open(r'public/metadata.txt', 'a') as f: f.write('metadata_current_date ' + current_date)
-process = subprocess.run(['gawk', '-f', r'scripts/util.awk', '-f', r'scripts/txt2epub.awk', 'journal.txt'], check=True)
+process = subprocess.run(['gawk', '-f', r'scripts/util.awk', '-f', r'scripts/txt2epub.awk', r'public/metadata.txt', 'journal.txt'], check=True)
 process = subprocess.run(['gawk', '-f', r'scripts/txt2mobi.awk', 'journal.txt'], check=True)
 
 os.chdir(r'public/book')
