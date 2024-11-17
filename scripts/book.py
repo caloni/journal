@@ -26,15 +26,12 @@ os.chdir(old_dir)
 shutil.copytree(r'book', r'public/book', dirs_exist_ok=True)
 shutil.copytree(r'img/book', r'public/book/EPUB/img', dirs_exist_ok=True)
 shutil.copytree(r'img/blog', r'public/book/EPUB/img', dirs_exist_ok=True)
-shutil.copytree(r'img/book', r'public/book/MOBI/img', dirs_exist_ok=True)
-shutil.copytree(r'img/blog', r'public/book/MOBI/img', dirs_exist_ok=True)
 
 os.environ['LC_ALL'] = 'en_US.UTF-8'
 
 process = subprocess.run(['gawk', '-f', r'scripts/util.awk', '-f', r'scripts/metadata.awk', 'journal.txt'], check=True)
 with open(r'public/metadata.txt', 'a') as f: f.write('metadata_current_date ' + current_date)
 process = subprocess.run(['gawk', '-f', r'scripts/util.awk', '-f', r'scripts/txt2epub.awk', r'public/metadata.txt', 'journal.txt'], check=True)
-process = subprocess.run(['gawk', '-f', r'scripts/txt2mobi.awk', 'journal.txt'], check=True)
 
 os.chdir(r'public/book')
 process = subprocess.run(['python', r'repack.py'], check=True)
