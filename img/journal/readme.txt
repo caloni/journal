@@ -1,1 +1,0 @@
-Put images here when journal begins to have them.

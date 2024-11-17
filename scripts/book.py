@@ -1,6 +1,10 @@
+import datetime
 import os
 import shutil
 import subprocess
+
+now = datetime.datetime.now()
+current_date = now.strftime('%Y-%m-%dT%H:%M:%SZ')
 
 old_dir = os.getcwd()
 
@@ -20,14 +24,15 @@ for filename in os.listdir('.'):
 os.chdir(old_dir)
 
 shutil.copytree(r'book', r'public/book', dirs_exist_ok=True)
-shutil.copytree(r'img/journal', r'public/book/EPUB/img', dirs_exist_ok=True)
+shutil.copytree(r'img/book', r'public/book/EPUB/img', dirs_exist_ok=True)
 shutil.copytree(r'img/blog', r'public/book/EPUB/img', dirs_exist_ok=True)
-shutil.copytree(r'img/journal', r'public/book/MOBI/img', dirs_exist_ok=True)
+shutil.copytree(r'img/book', r'public/book/MOBI/img', dirs_exist_ok=True)
 shutil.copytree(r'img/blog', r'public/book/MOBI/img', dirs_exist_ok=True)
 
 os.environ['LC_ALL'] = 'en_US.UTF-8'
 
 process = subprocess.run(['gawk', '-f', r'scripts/util.awk', '-f', r'scripts/metadata.awk', 'journal.txt'], check=True)
+with open(r'public/metadata.txt', 'a') as f: f.write('metadata_current_date ' + current_date)
 process = subprocess.run(['gawk', '-f', r'scripts/util.awk', '-f', r'scripts/txt2epub.awk', 'journal.txt'], check=True)
 process = subprocess.run(['gawk', '-f', r'scripts/txt2mobi.awk', 'journal.txt'], check=True)
 
