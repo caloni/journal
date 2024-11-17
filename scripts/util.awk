@@ -31,6 +31,7 @@ function ToHtml(s)
 function ToId(s)
 {
   gsub(/-/, "", s)
+  gsub(/ /, "_", s)
   gsub(/#/, "sharp", s)
   s = "_" s
   return s
