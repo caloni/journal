@@ -108,6 +108,7 @@ function FormatContent(line, lastLine,    prefix, suffix, paragraph, newLine, he
 
     if( match($0, /^!\[([^]]*)\]\( *([^" )]+) *"?([^"]*)?"?\)/, a) ) {
       NewPost["image"] = a[2]
+      g_postImages[a[2]] = a[2]
       line = "<img src=\"img/" a[2] "\"/>"
       ContentType = "img"
       break
@@ -285,6 +286,7 @@ function FlushNewPost(    slug, date, chapter, fchapter, tags, post)
 }
 
 
+$1 == "metadata_current_date" { Book["date"] = $2 ; next }
 $1 == "metadata_slug" { Index[$2]["link"] = $3 ; next }
 
 #todo /^# / && !ContentState["```"] {
@@ -370,11 +372,13 @@ function FlushPackage()
   totalImages = 0
   for( image in g_postImages ) {
     if( index(image, "jpg") || index(image, "jpeg") ) {
-      print "<item id=\"img-id-" ++totalImages "\" href=\"" image "\" media-type=\"image/jpeg\"/>" > package
+      print "<item id=\"img-id-" ++totalImages "\" href=\"img/" image "\" media-type=\"image/jpeg\"/>" > package
     } else if( index(image, "gif") ) {
-      print "<item id=\"img-id-" ++totalImages "\" href=\"" image "\" media-type=\"image/gif\"/>" > package
+      print "<item id=\"img-id-" ++totalImages "\" href=\"img/" image "\" media-type=\"image/gif\"/>" > package
     } else if( index(image, "png") ) {
-      print "<item id=\"img-id-" ++totalImages "\" href=\"" image "\" media-type=\"image/png\"/>" > package
+      print "<item id=\"img-id-" ++totalImages "\" href=\"img/" image "\" media-type=\"image/png\"/>" > package
+    } else if( index(image, "svg") ) {
+      print "<item id=\"img-id-" ++totalImages "\" href=\"img/" image "\" media-type=\"image/svg\"/>" > package
     }
   }
   print "</manifest>" > package
