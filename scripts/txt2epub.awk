@@ -5,6 +5,10 @@
 #include util.awk
 
 BEGIN {
+  Book["title"] = "Blogue do Caloni: Programação, Depuração, Transpiração"
+  Book["author"] = "Wanderley Caloni"
+  Book["publisher"] = "Caloni"
+  "date" | getline Book["date"]
 }
 
 function FormatContent(line, lastLine,    prefix, suffix, paragraph, newLine, headerLevel, endName, name, link)
@@ -20,40 +24,24 @@ function FormatContent(line, lastLine,    prefix, suffix, paragraph, newLine, he
 
   do {
     if( index(line, "```") == 1 ) {
-      #line = ""
+      line = ""
       if( ContentState["```"] ) {
         ContentState["```"] = 0
       } else {
         ContentState["```"] = 1
       }
-      #return 0
+      return 0
     } else if( ContentState["```"] ) {
       ContentType = "pre"
-      #todo remove when pre is valid
-      gsub(/&/, "&amp;", line)
-      gsub(/</, "\\&lt;", line)
-      gsub(/>/, "\\&gt;", line)
-      line = gensub(/\[([^]]+)\]\(([^)]+)\)/, "<a href=\"\\2\">\\1</a>", "g", line)
-      line = "<p>" line "</p>"
-      ContentType = "p"
-      #todo remove when pre is valid
       break
     }
 
     if( line ~ /^    / ) {
-      #sub(/^ /, "", line)
+      sub(/^ /, "", line)
       if( ! ContentState[" "] ) {
         ContentState[" "] = 1
       }
       ContentType = "pre"
-      #todo remove when pre is valid
-      gsub(/&/, "&amp;", line)
-      gsub(/</, "\\&lt;", line)
-      gsub(/>/, "\\&gt;", line)
-      line = gensub(/\[([^]]+)\]\(([^)]+)\)/, "<a href=\"\\2\">\\1</a>", "g", line)
-      line = "<p>" line "</p>"
-      ContentType = "p"
-      #todo remove when pre is valid
       break
     } else if ( ContentState[" "] ) {
         ContentState[" "] = 0
@@ -289,8 +277,7 @@ function FlushNewPost(    slug, date, chapter, fchapter, tags, post)
 $1 == "metadata_current_date" { Book["date"] = $2 ; next }
 $1 == "metadata_slug" { Index[$2]["link"] = $3 ; next }
 
-#todo /^# / && !ContentState["```"] {
-/^# / {
+/^# / && !ContentState["```"] {
   if( "title" in NewPost ) {
     FlushNewPost()
   }
@@ -299,8 +286,7 @@ $1 == "metadata_slug" { Index[$2]["link"] = $3 ; next }
   next
 }
 
-#todo /^\[[^]]+\]:/ && !ContentState["```"] {
-/^\[[^]]+\]:/ {
+/^\[[^]]+\]:/ && !ContentState["```"] {
   if( match($0, /^\[([^]]+)\]: *([^" ]+) *"?([^"]+)?"?/, a) ) {
     if( a[1] == "date" ) {
       NewPost["date"] = a[3]
@@ -342,15 +328,14 @@ function FlushPackage()
   print "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" > package
   print "<package xmlns=\"http://www.idpf.org/2007/opf\" version=\"3.0\" unique-identifier=\"p0000000000000\">" > package
   print "<metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\">" > package
-  print "<dc:title id=\"title\">Blogue do Caloni: Programação, Depuração, Transpiração</dc:title>" > package
-  print "<dc:creator>Wanderley Caloni</dc:creator>" > package
-  print "<dc:publisher>Caloni</dc:publisher>" > package
+  print "<dc:title id=\"title\">" Book["title"] "</dc:title>" > package
+  print "<dc:creator>" Book["author"] "</dc:creator>" > package
+  print "<dc:publisher>" Book["publisher"] "</dc:publisher>" > package
   print "<dc:rights>Copyright 404 Not Found</dc:rights>" > package
   print "<dc:identifier id=\"p0000000000000\">0000000000000</dc:identifier>" > package
   print "<dc:source id=\"src-id\">urn:isbn:0000000000000</dc:source>" > package
   print "<dc:language>pt-BR</dc:language>" > package
-  "date" | getline currentDate
-  print "<meta property=\"dcterms:modified\">" currentDate "</meta>" > package
+  print "<meta property=\"dcterms:modified\">" Book["date"] "</meta>" > package
   print "</metadata>" > package
   print "<manifest>" > package
   print "<item id=\"cover\" href=\"cover.xhtml\" media-type=\"application/xhtml+xml\"/>" > package
