@@ -69,30 +69,30 @@ function FormatContent(line, lastLine,    prefix, suffix, paragraph, newLine, he
     #  break
     #}
 
-    #if( line ~ /^#{2,6} / ) {
+    if( line ~ /^#{2,6} / ) {
 
-    #  if( line ~ /^## / ) {
-    #    headerLevel = 2
-    #    ContentType = "h2"
-    #  } else if( line ~ /^### / ) {
-    #    headerLevel = 3
-    #    ContentType = "h3"
-    #  } else if( line ~ /^#### / ) {
-    #    headerLevel = 4
-    #    ContentType = "h4"
-    #  } else if( line ~ /^##### / ) {
-    #    headerLevel = 5
-    #    ContentType = "h5"
-    #  } else if( line ~ /^###### / ) {
-    #    headerLevel = 6
-    #    ContentType = "h6"
-    #  }
-    #  gsub(/^#+ /, "", line)
+      if( line ~ /^## / ) {
+        headerLevel = 2
+        ContentType = "h2"
+      } else if( line ~ /^### / ) {
+        headerLevel = 3
+        ContentType = "h3"
+      } else if( line ~ /^#### / ) {
+        headerLevel = 4
+        ContentType = "h4"
+      } else if( line ~ /^##### / ) {
+        headerLevel = 5
+        ContentType = "h5"
+      } else if( line ~ /^###### / ) {
+        headerLevel = 6
+        ContentType = "h6"
+      }
+      gsub(/^#+ /, "", line)
 
-    #  prefix = prefix "<h" headerLevel ">"
-    #  suffix = "</h" headerLevel ">" suffix
-    #  paragraph = 0
-    #}
+      prefix = prefix "<h" headerLevel ">"
+      suffix = "</h" headerLevel ">" suffix
+      paragraph = 0
+    }
 
     if( match($0, /^!\[([^]]*)\]\( *([^" )]+) *"?([^"]*)?"?\)/, a) ) {
       NewPost["image"] = a[2]
