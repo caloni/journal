@@ -14,8 +14,9 @@ BEGIN {
   Blog["link"] = "http://www.caloni.com.br"
   Blog["post_header_fields"] = "date link slug tags"
   Blog["output"] = "public\\blog"
-  Blog["text_favorite_tags"]["computer"] = "programação, depuração, transpiração."
-  Blog["text_favorite_tags"]["movies"] = "o finado Cine Tênis Verde veio parar aqui."
+  Blog["text_favorite_tags"] = "computer cinema"
+  Blog["text_favorite_tags_description"]["computer"] = "programação, depuração, transpiração."
+  Blog["text_favorite_tags_description"]["cinema"] = "o finado Cine Tênis Verde veio parar aqui."
   Blog["text_months"] = "lista dos meses com postes."
   Blog["text_notfound_description"] = "Não quer fazer uma <a href=\"/posts.html\">busca</a>? Às vezes eu mexo e remexo as coisas por aqui."
   Blog["text_notfound_title"] = "Opa, essa página não foi encontrada."
@@ -537,8 +538,9 @@ function FlushPostsPage()
 }
 
 
-function FlushIndexPage()
+function FlushIndexPage(    favtags)
 {
+  split(Blog["text_favorite_tags"], favtags)
   PROCINFO["sorted_in"] = "@ind_num_asc"
   for( i in Months ) {
     c = Months[i]
@@ -547,8 +549,8 @@ function FlushIndexPage()
   f = Blog["output"] "\\index.html"
   WriteToHtml(f, Blog["title"], c ".html#about", 0, QuickSearch)
   print "<input type=\"text\" name=\"quick_search_name\" value=\"\" id=\"quick_search\" placeholder=\"" Blog["text_quicksearch"] "\" style=\"width: 100%; font-size: 1.5rem; margin-top: 1em; margin-bottom: 0.5em;\" title=\"\"/></br>" > f
-  for( i in Blog["text_favorite_tags"] ) {
-    print "<big><a href=\"" i ".html\">" i "</a></big><small><i>: " Blog["text_favorite_tags"][i] "</small></i></br>" > f
+  for( i in favtags ) {
+    print "<big><a href=\"" favtags[i] ".html\">" favtags[i] "</a></big><small><i>: " Blog["text_favorite_tags_description"][favtags[i]] "</small></i></br>" > f
   }
   print "<big><a href=\"tags.html\">tags</a></big><small><i>: " Blog["text_tags"] "</small></i></br>" > f
   print "<big><a href=\"months.html\">months</a></big><small><i>: " Blog["text_months"] "</small></i></br>" > f
