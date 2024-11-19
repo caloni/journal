@@ -461,7 +461,7 @@ function FlushTagsPages(    slug, tags)
         split(Index[k]["tags"], tags)
         s = ""
         for( l in tags ) {
-          s = s " [" tags[l] "]"
+          s = s " " tags[l]
         }
         print "<tr><td>" > f
         if( Index[k]["image"] ) {
@@ -522,7 +522,7 @@ function FlushPostsPage()
       split(Index[j]["tags"], a)
       s = ""
       for( k in a ) {
-        s = s " [" a[k] "]"
+        s = s " " a[k]
       }
       print "<tr><td>" > f
       if( Index[j]["image"] ) {
