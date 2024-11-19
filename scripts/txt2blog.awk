@@ -17,7 +17,6 @@ BEGIN {
   Blog["text_favorite_tags"]["coding"] = "programação, depuração, transpiração."
   Blog["text_favorite_tags"]["movies"] = "o finado Cine Tênis Verde veio parar aqui."
   Blog["text_months"] = "lista dos meses com postes."
-  Blog["text_news"] = "postes publicados no último mês."
   Blog["text_notfound_description"] = "Não quer fazer uma <a href=\"/posts.html\">busca</a>? Às vezes eu mexo e remexo as coisas por aqui."
   Blog["text_notfound_title"] = "Opa, essa página não foi encontrada."
   Blog["text_page_prefix"] = "caloni"
@@ -552,7 +551,6 @@ function FlushIndexPage()
     print "<big><a href=\"" i ".html\">" i "</a></big><small><i>: " Blog["text_favorite_tags"][i] "</small></i></br>" > f
   }
   print "<big><a href=\"tags.html\">tags</a></big><small><i>: " Blog["text_tags"] "</small></i></br>" > f
-  print "<big><a href=\"" LastMonth ".html\">news</a></big><small><i>: " Blog["text_news"] "</small></i></br>" > f
   print "<big><a href=\"months.html\">months</a></big><small><i>: " Blog["text_months"] "</small></i></br>" > f
   print "<big><a href=\"posts.html\">posts</a></big><small><i>: " Blog["text_posts"] "</small></i></br>" > f
   print "<div><big><span style=\"visibility: hidden; padding: 5px;\" name=\"results\" id=\"results\">...</span></big></div>" > f
