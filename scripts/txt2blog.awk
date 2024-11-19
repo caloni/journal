@@ -14,7 +14,7 @@ BEGIN {
   Blog["link"] = "http://www.caloni.com.br"
   Blog["post_header_fields"] = "date link slug tags"
   Blog["output"] = "public\\blog"
-  Blog["text_favorite_tags"]["coding"] = "programação, depuração, transpiração."
+  Blog["text_favorite_tags"]["computer"] = "programação, depuração, transpiração."
   Blog["text_favorite_tags"]["movies"] = "o finado Cine Tênis Verde veio parar aqui."
   Blog["text_months"] = "lista dos meses com postes."
   Blog["text_notfound_description"] = "Não quer fazer uma <a href=\"/posts.html\">busca</a>? Às vezes eu mexo e remexo as coisas por aqui."
