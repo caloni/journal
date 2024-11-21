@@ -156,6 +156,9 @@ function FlushNewPost(    slug, date, month, tags, post)
   date = NewPost["date"]
   month = substr(date, 1, 7)
   split(NewPost["tags"], tags)
+  if( "link" in NewPost ) {
+    tags[length(tags)+1] = "blogging"
+  }
   post = ""
 
   FlushContentState()
