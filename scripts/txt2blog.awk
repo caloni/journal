@@ -170,6 +170,10 @@ function FlushContentState(    lastLine)
 function FlushNewPost(    slug, date, month, tags, post)
 {
   slug = NewPost["slug"]
+  if( !("date" in NewPost) ) {
+    delete NewPost
+    return
+  }
   date = NewPost["date"]
   month = substr(date, 1, 7)
   split(NewPost["tags"], tags)
@@ -256,7 +260,6 @@ function FlushNewPost(    slug, date, month, tags, post)
 
   QuickSearch[NewPost["slug"]] = month ".html#" slug
   delete NewPost
-  NewPost["date"] = date
 }
 
 
