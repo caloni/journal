@@ -12,118 +12,19 @@ BEGIN {
   Blog["description"] = "Write for computers, people and food."
   Blog["generator"] = "txt2blog 0.0.1"
   Blog["link"] = "http://www.caloni.com.br"
-  Blog["post_header_fields"] = "date draft link repost slug tags update"
+  Blog["post_header_fields"] = "date link slug tags"
   Blog["output"] = "public\\blog"
-  Blog["text_drafts"] = "postes em progresso."
-  Blog["text_favorite_tags"]["coding"] = "programação, depuração, transpiração."
-  Blog["text_favorite_tags"]["movies"] = "o finado Cine Tênis Verde veio parar aqui."
-  Blog["text_lists"] = "quem não gosta de listas?"
+  Blog["text_favorite_tags"] = "computer cinema"
+  Blog["text_favorite_tags_description"]["computer"] = "programação, depuração, transpiração."
+  Blog["text_favorite_tags_description"]["cinema"] = "o finado Cine Tênis Verde veio parar aqui."
   Blog["text_months"] = "lista dos meses com postes."
-  Blog["text_news"] = "postes publicados no último mês."
   Blog["text_notfound_description"] = "Não quer fazer uma <a href=\"/posts.html\">busca</a>? Às vezes eu mexo e remexo as coisas por aqui."
   Blog["text_notfound_title"] = "Opa, essa página não foi encontrada."
   Blog["text_page_prefix"] = "caloni"
   Blog["text_posts"] = "lista com toooooooodos os postes do blogue."
   Blog["text_quicksearch"] = "&#x1F41E; digite algo / type something"
-  Blog["text_reposts"] = "vale a pena postar de novo."
   Blog["text_tags"] = "todos os rótulos dos postes."
   Blog["title"] = "Blogue do Caloni"
-}
-
-
-function WriteToHtml(file, title, backLink, filter, quickSearch,    originalSort)
-{
-  print "<!DOCTYPE html>" > file
-  print "<html lang=\"en-us\" dir=\"ltr\" itemscope itemtype=\"http://schema.org/Article\">" > file
-  print "<head>" > file
-  print "<meta charset=\"utf-8\" />" > file
-  print "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/>" > file
-  print "<title>" Blog["title"] "</title>" > file
-  print "<meta name=\"author\" content=\"" Blog["author"] "\" />" > file
-  print "<meta name=\"generator\" content=\"" Blog["generator"] "\">" > file
-  print "<meta property=\"og:title\" content=\"" Blog["title"] "\"/>" > file
-  print "<meta property=\"og:type\" content=\"website\"/>" > file
-  print "<meta property=\"og:url\" content=\"" Blog["link"] "\"/>" > file
-  print "<meta property=\"og:image\" content=\"" Blog["post-image"] "\"/>" > file
-  print "<meta property=\"og:description\" content=\"" Blog["description"] "\"/>" > file
-  print "<link href=\"/index.xml\" rel=\"feed\" type=\"application/rss+xml\" title=\"" Blog["title"] "\"/>" > file
-  print "<link rel=\"stylesheet\" type=\"text/css\" href=\"/css/custom.css\"/>" > file
-  print "<link rel=\"stylesheet\" type=\"text/css\" href=\"/css/jquery-ui.css\"/>" > file
-  print "<script src=\"/js/jquery-1.12.4.js\"></script>" > file
-  print "<script src=\"/js/jquery-ui.js\"></script>" > file
-  print "<script src=\"/js/copy_clipboard.js\"></script>" > file
-  print "<script>" > file
-  print "var quick_search_posts = [ " > file
-  originalSort = PROCINFO["sorted_in"]
-  PROCINFO["sorted_in"] = "@ind_str_asc"
-  for( i in quickSearch ) {
-    print "\"" quickSearch[i] "\"," > file
-  }
-  PROCINFO["sorted_in"] = originalSort
-  print " ]; " > file
-  print "</script>" > file
-  print "<script src=\"/js/quick_search.js\"></script>" > file
-  print "<script src=\"/js/list.js\"></script>" > file
-  print "<link rel=\"icon\" href=\"/img/favicon.ico\"/>" > file
-  print "</head>" > file
-  print "<body style=\"min-height:100vh;display:flex;flex-direction:column\">" > file
-  print "<nav class=\"navbar has-shadow is-white\"" > file
-  print "role=\"navigation\" aria-label=\"main navigation\">" > file
-  print "<div class=\"container\">" > file
-  print "<div class=\"navbar-brand\">" > file
-  print "&nbsp;" > file
-  print "<a class=\"navbar-item\" href=\"" backLink "\">" > file
-  print "<div class=\"is-4\"><b>" title "</b></div>" > file
-  print "</a>" > file
-  print "</div>" > file
-  print "</div>" > file
-  print "</nav>" > file
-  print "<div class=\"container\">" > file
-  print "<div class=\"column\">" > file
-  print "<div style=\"min-height:56vh\">" > file
-  print "<div style=\"padding-bottom: 1em;\"></div>" > file
-  if( filter ) {
-    print "<input type=\"text\" name=\"filter\" value=\"\" id=\"filter\" placeholder=\"enter to select\" style=\"width: 100%; font-size: 1.5rem; margin-top: 1em; margin-bottom: 0.5em;\" title=\"\"/></br>" > file
-    print "<button id=\"filterbutton\" style=\"font-size: 1rem;\" onclick=\"ApplyFilter($('#filter').val());\">select</button>" > file
-    print "<button id=\"removebutton\" style=\"font-size: 1rem;\" onclick=\"ApplyNotFilter($('#filter').val());\">remove</button>" > file
-    print "<button id=\"randombutton\" style=\"font-size: 1rem;\" onclick=\"window.location = randomPost;\">random</button>" > file
-    print "<div><big><b><span style=\"visibility: hidden; padding: 5px;\" name=\"results\" id=\"results\">...</span></b></big></div>" > file
-    print "<table class=\"sortable\" style=\"width: 100%;\">" > file
-  }
-}
-
-
-function WriteBottomHtml(file, filter, nextLink, prevLink, build,    label)
-{
-  if( filter ) {
-    print "</table>" > file
-  }
-  print "<span style=\"float: left;\">" > file
-  if( nextLink && nextLink != "" ) {
-    link = nextLink
-    sub(/\.html/, "", nextLink)
-    label = nextLink
-    print " <a href=\"" link "\">[" label "]</a>" > file
-  }
-  if( prevLink && prevLink != "" ) {
-    link = prevLink
-    sub(/\.html/, "", prevLink)
-    label = prevLink
-    print " <a href=\"" link "\">[" label "]</a>" > file
-  }
-  print "</span>" > file
-  print "</div>" > file
-  print "</div>" > file
-  print "</section>" > file
-  print "<footer class=\"footer\">" > file
-  print "<div class=\"container\">" > file
-  if( build ) {
-    print "<p><small><i>Build: " build "</i></small></p>" > file
-  }
-  print "</div>" > file
-  print "</footer>" > file
-  print "</body>" > file
-  print "</html>" > file
 }
 
 
@@ -238,6 +139,23 @@ function FormatContent(line, lastLine,    prefix, suffix, paragraph, newLine, he
 }
 
 
+function FlushLetterBoxD()
+{
+  file = "draft.csv"
+  if( index(NewPost["tags"], "cinema") && index(NewPost["tags"], "movies") ) {
+    if( LetterBoxDCount++ == 0 ) {
+      print "Title,WatchedDate,Review" > file
+    }
+    p = ""
+    for( i in NewPost["lines"] ) {
+      p = p NewPost["lines"][i]["content"]
+    }
+    gsub(/["\n]/, "", p)
+    print "\"" NewPost["title"] "\"," NewPost["date"] ",\"" p "\"" > file
+  }
+}
+
+
 function FlushContentState(    lastLine)
 {
   lastLine = length(NewPost["lines"])
@@ -252,20 +170,23 @@ function FlushContentState(    lastLine)
 function FlushNewPost(    slug, date, month, tags, post)
 {
   slug = NewPost["slug"]
+  if( !("date" in NewPost) ) {
+    delete NewPost
+    return
+  }
   date = NewPost["date"]
   month = substr(date, 1, 7)
   split(NewPost["tags"], tags)
+  if( "link" in NewPost ) {
+    tags[length(tags)+1] = "blogging"
+  }
   post = ""
 
   FlushContentState()
+  #FlushLetterBoxD()
 
   Months[month] = month
   DateSlugTitle[date][slug] = NewPost["title"]
-
-  if( "draft" in NewPost ) {
-    month = "drafts"
-    QuickSearch["drafts"] = "drafts.html"
-  }
 
   Index[NewPost["slug"]]["slug"] = slug
   Index[NewPost["slug"]]["title"] = NewPost["title"]
@@ -278,23 +199,6 @@ function FlushNewPost(    slug, date, month, tags, post)
   TitleToSlug[NewPost["title"]] = slug
   for( i in tags ) {
     SlugsByTagsAndDates[tags[i]][date][slug] = slug
-  }
-
-  if ( "repost" in NewPost ) {
-    QuickSearch["repost"] = "repost.html"
-    file = Blog["output"] "\\repost.html"
-    if( ! ("repost" in Files) ) {
-      WriteToHtml(file, Blog["text_page_prefix"] "::repost", "index.html", 1)
-      Files["repost"] = "repost"
-    }
-    post = "<tr><td><b><a href=\"" month ".html#" slug "\">" ToHtml(NewPost["title"]) "</a></b>\n"
-    post = post "<small><i>" NewPost["repost"] " [" date "] "
-    for( i in tags ) {
-      post = post " [" tags[i] "]"
-    }
-    post = post " " NewPost["summary"] "</small></i>\n"
-    post = post "</td></tr>\n"
-    PostsByMonth["repost"][NewPost["repost"]] = PostsByMonth["repost"][NewPost["repost"]] "\n" post
   }
 
   file = Blog["output"] "\\" month ".html"
@@ -356,12 +260,10 @@ function FlushNewPost(    slug, date, month, tags, post)
 
   QuickSearch[NewPost["slug"]] = month ".html#" slug
   delete NewPost
-  NewPost["date"] = date
 }
 
 
 $1 == "metadata_slug" { Index[$2]["link"] = $3 ; next }
-
 
 /^# / && !ContentState["```"] {
   if( "title" in NewPost ) {
@@ -372,15 +274,10 @@ $1 == "metadata_slug" { Index[$2]["link"] = $3 ; next }
   next
 }
 
-
 /^\[[^]]+\]:/ && !ContentState["```"] {
   if( match($0, /^\[([^]]+)\]: *([^" ]+) *"?([^"]+)?"?/, a) ) {
     if( a[2] ~ /^(https?)|(ftp)|(mailto):/ ) {
       a[2] = "<a href=\"" a[2] "\">" a[1] "</a>"
-    }
-    else if( a[2] ~ /^(bib_)|(idx_)/ ) {
-      Lists[a[1] " [" a[2] "]"][NewPost["slug"]] = NewPost["slug"]
-      a[2] = "<a href=\"lists.html?q=" a[1] "\">" a[1] "</a>"
     }
     else if( a[2] in Index ) {
       a[2] = Index[a[2]]["link"]
@@ -401,8 +298,7 @@ $1 == "metadata_slug" { Index[$2]["link"] = $3 ; next }
   next
 }
 
-
-/^[^:]/ {
+/.+/ {
   i = FormatContent($0, NewPost["totalLines"])
   if( i ) {
     NewPost["totalLines"] = i
@@ -415,13 +311,100 @@ $1 == "metadata_slug" { Index[$2]["link"] = $3 ; next }
 }
 
 
-$1 == ":date:" { NewPost["date"] = $2 }
-$1 == ":draft:" { NewPost["draft"] = 1 }
-$1 == ":link:" { NewPost["link"] = $2 }
-$1 == ":repost:" { NewPost["repost"] = $2 }
-$1 == ":slug:" { NewPost["slug"] = $2 }
-$1 == ":tags:" { $1 = "" ; NewPost["tags"] = $0 }
-$1 == ":update:" { NewPost["update"] = $2 }
+function WriteToHtml(file, title, backLink, filter, quickSearch,    originalSort)
+{
+  print "<!DOCTYPE html>" > file
+  print "<html lang=\"en-us\" dir=\"ltr\" itemscope itemtype=\"http://schema.org/Article\">" > file
+  print "<head>" > file
+  print "<meta charset=\"utf-8\" />" > file
+  print "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/>" > file
+  print "<title>" Blog["title"] "</title>" > file
+  print "<meta name=\"author\" content=\"" Blog["author"] "\" />" > file
+  print "<meta name=\"generator\" content=\"" Blog["generator"] "\">" > file
+  print "<meta property=\"og:title\" content=\"" Blog["title"] "\"/>" > file
+  print "<meta property=\"og:type\" content=\"website\"/>" > file
+  print "<meta property=\"og:url\" content=\"" Blog["link"] "\"/>" > file
+  print "<meta property=\"og:image\" content=\"" Blog["post-image"] "\"/>" > file
+  print "<meta property=\"og:description\" content=\"" Blog["description"] "\"/>" > file
+  print "<link href=\"/index.xml\" rel=\"feed\" type=\"application/rss+xml\" title=\"" Blog["title"] "\"/>" > file
+  print "<link rel=\"stylesheet\" type=\"text/css\" href=\"/css/custom.css\"/>" > file
+  print "<link rel=\"stylesheet\" type=\"text/css\" href=\"/css/jquery-ui.css\"/>" > file
+  print "<script src=\"/js/jquery-1.12.4.js\"></script>" > file
+  print "<script src=\"/js/jquery-ui.js\"></script>" > file
+  print "<script src=\"/js/copy_clipboard.js\"></script>" > file
+  print "<script>" > file
+  print "var quick_search_posts = [ " > file
+  originalSort = PROCINFO["sorted_in"]
+  PROCINFO["sorted_in"] = "@ind_str_asc"
+  for( i in quickSearch ) {
+    print "\"" quickSearch[i] "\"," > file
+  }
+  PROCINFO["sorted_in"] = originalSort
+  print " ]; " > file
+  print "</script>" > file
+  print "<script src=\"/js/quick_search.js\"></script>" > file
+  print "<script src=\"/js/list.js\"></script>" > file
+  print "<link rel=\"icon\" href=\"/img/favicon.ico\"/>" > file
+  print "</head>" > file
+  print "<body style=\"min-height:100vh;display:flex;flex-direction:column\">" > file
+  print "<nav class=\"navbar has-shadow is-white\"" > file
+  print "role=\"navigation\" aria-label=\"main navigation\">" > file
+  print "<div class=\"container\">" > file
+  print "<div class=\"navbar-brand\">" > file
+  print "&nbsp;" > file
+  print "<a class=\"navbar-item\" href=\"" backLink "\">" > file
+  print "<div class=\"is-4\"><b>" title "</b></div>" > file
+  print "</a>" > file
+  print "</div>" > file
+  print "</div>" > file
+  print "</nav>" > file
+  print "<div class=\"container\">" > file
+  print "<div class=\"column\">" > file
+  print "<div style=\"min-height:56vh\">" > file
+  print "<div style=\"padding-bottom: 1em;\"></div>" > file
+  if( filter ) {
+    print "<input type=\"text\" name=\"filter\" value=\"\" id=\"filter\" placeholder=\"enter to select\" style=\"width: 100%; font-size: 1.5rem; margin-top: 1em; margin-bottom: 0.5em;\" title=\"\"/></br>" > file
+    print "<button id=\"filterbutton\" style=\"font-size: 1rem;\" onclick=\"ApplyFilter($('#filter').val());\">select</button>" > file
+    print "<button id=\"removebutton\" style=\"font-size: 1rem;\" onclick=\"ApplyNotFilter($('#filter').val());\">remove</button>" > file
+    print "<button id=\"randombutton\" style=\"font-size: 1rem;\" onclick=\"window.location = randomPost;\">random</button>" > file
+    print "<div><big><b><span style=\"visibility: hidden; padding: 5px;\" name=\"results\" id=\"results\">...</span></b></big></div>" > file
+    print "<table class=\"sortable\" style=\"width: 100%;\">" > file
+  }
+}
+
+
+function WriteBottomHtml(file, filter, nextLink, prevLink, build,    label)
+{
+  if( filter ) {
+    print "</table>" > file
+  }
+  print "<span style=\"float: left;\">" > file
+  if( nextLink && nextLink != "" ) {
+    link = nextLink
+    sub(/\.html/, "", nextLink)
+    label = nextLink
+    print " <a href=\"" link "\">[" label "]</a>" > file
+  }
+  if( prevLink && prevLink != "" ) {
+    link = prevLink
+    sub(/\.html/, "", prevLink)
+    label = prevLink
+    print " <a href=\"" link "\">[" label "]</a>" > file
+  }
+  print "</span>" > file
+  print "</div>" > file
+  print "</div>" > file
+  print "</section>" > file
+  print "<footer class=\"footer\">" > file
+  print "<div class=\"container\">" > file
+  if( build ) {
+    print "<p><small><i>Build: " build "</i></small></p>" > file
+  }
+  print "</div>" > file
+  print "</footer>" > file
+  print "</body>" > file
+  print "</html>" > file
+}
 
 
 function TiePreviousNextMonths()
@@ -475,27 +458,17 @@ function FlushPostsPages()
   for( i in Files ) {
     p = ""
     f = Blog["output"] "\\" i ".html"
-    if( i == "repost" ) {
-      PROCINFO["sorted_in"] = "@ind_num_desc"
-    } else {
-      PROCINFO["sorted_in"] = "@ind_num_asc"
-    }
+    PROCINFO["sorted_in"] = "@ind_num_asc"
     for( j in PostsByMonth[i] ) {
       p = p "\n" PostsByMonth[i][j]
     }
-    if( i != "repost" ) {
-      print "<ul style=\"list-style: none;\">" > f
-      for( j in PostLinksByMonth[i] ) {
-        print PostLinksByMonth[i][j] > f
-      }
-      print "</ul>" > f
+    print "<ul style=\"list-style: none;\">" > f
+    for( j in PostLinksByMonth[i] ) {
+      print PostLinksByMonth[i][j] > f
     }
+    print "</ul>" > f
     print p > f
-    if( i != "repost" && i != "drafts" ) {
-      WriteBottomHtml(f, 0, NextMonth[i] ".html", PrevMonth[i] ".html")
-    } else {
-      WriteBottomHtml(f, 1)
-    }
+    WriteBottomHtml(f, 0, NextMonth[i] ".html", PrevMonth[i] ".html")
   }
 }
 
@@ -512,7 +485,7 @@ function FlushTagsPages(    slug, tags)
         split(Index[k]["tags"], tags)
         s = ""
         for( l in tags ) {
-          s = s " [" tags[l] "]"
+          s = s " " tags[l]
         }
         print "<tr><td>" > f
         if( Index[k]["image"] ) {
@@ -562,42 +535,6 @@ function FlushTagsPage()
 }
 
 
-function FlushListsPage(    slugsByDate, slug)
-{
-  slug = ""
-
-  if( length(Lists) == 0 ) return
-  f = Blog["output"] "\\lists.html"
-  WriteToHtml(f, Blog["text_page_prefix"] "::lists", "index.html", 1)
-  PROCINFO["sorted_in"] = "@ind_str_asc"
-  for( i in Lists ) {
-    tt = ""
-    if( m = match(i, "(.*) \\[(.*)\\]", a) ) {
-      print "<tr><td><a href=\"#" a[2] "\">#</a>" ToHtml(a[1]) " " > f
-    } else {
-      print "<tr><td>" ToHtml(i) " " > f
-    }
-    for( j in Lists[i] ) {
-      slugsByDate[Index[j]["date"], j] = j
-    }
-    for( j in slugsByDate ) {
-      slug = slugsByDate[j]
-      t = "<a href=\"" Index[slug]["month"] ".html#" slug "\">" Index[slug]["title"] "</a>"
-      if( tt == "" ) {
-        tt = t
-      } else {
-        tt = tt " - " t
-      }
-    }
-    delete slugsByDate
-    print "<small><i>" tt "</small></i>" > f
-    print "</td></tr>" > f
-  }
-  WriteBottomHtml(f, 1)
-  QuickSearch["lists"] = "lists.html"
-}
-
-
 function FlushPostsPage()
 {
   f = Blog["output"] "\\posts.html"
@@ -609,7 +546,7 @@ function FlushPostsPage()
       split(Index[j]["tags"], a)
       s = ""
       for( k in a ) {
-        s = s " [" a[k] "]"
+        s = s " " a[k]
       }
       print "<tr><td>" > f
       if( Index[j]["image"] ) {
@@ -625,8 +562,9 @@ function FlushPostsPage()
 }
 
 
-function FlushIndexPage()
+function FlushIndexPage(    favtags)
 {
+  split(Blog["text_favorite_tags"], favtags)
   PROCINFO["sorted_in"] = "@ind_num_asc"
   for( i in Months ) {
     c = Months[i]
@@ -635,22 +573,12 @@ function FlushIndexPage()
   f = Blog["output"] "\\index.html"
   WriteToHtml(f, Blog["title"], c ".html#about", 0, QuickSearch)
   print "<input type=\"text\" name=\"quick_search_name\" value=\"\" id=\"quick_search\" placeholder=\"" Blog["text_quicksearch"] "\" style=\"width: 100%; font-size: 1.5rem; margin-top: 1em; margin-bottom: 0.5em;\" title=\"\"/></br>" > f
-  for( i in Blog["text_favorite_tags"] ) {
-    print "<big><a href=\"tag_" i ".html\">" i "</a></big><small><i>: " Blog["text_favorite_tags"][i] "</small></i></br>" > f
+  for( i in favtags ) {
+    print "<big><a href=\"" favtags[i] ".html\">" favtags[i] "</a></big><small><i>: " Blog["text_favorite_tags_description"][favtags[i]] "</small></i></br>" > f
   }
   print "<big><a href=\"tags.html\">tags</a></big><small><i>: " Blog["text_tags"] "</small></i></br>" > f
-  print "<big><a href=\"" LastMonth ".html\">news</a></big><small><i>: " Blog["text_news"] "</small></i></br>" > f
   print "<big><a href=\"months.html\">months</a></big><small><i>: " Blog["text_months"] "</small></i></br>" > f
   print "<big><a href=\"posts.html\">posts</a></big><small><i>: " Blog["text_posts"] "</small></i></br>" > f
-  if( "repost" in QuickSearch ) {
-    print "<big><a href=\"repost.html\">reposts</a></big><small><i>: " Blog["text_reposts"] "</small></i></br>" > f
-  }
-  if( "lists" in QuickSearch ) {
-    print "<big><a href=\"lists.html\">lists</a></big><small><i>: " Blog["text_lists"] "</small></i></br>" > f
-  }
-  if( "drafts" in QuickSearch ) {
-    print "<big><a href=\"drafts.html\">drafts</a></big><small><i>: " Blog["text_drafts"] "</small></i></br>" > f
-  }
   print "<div><big><span style=\"visibility: hidden; padding: 5px;\" name=\"results\" id=\"results\">...</span></big></div>" > f
   print "<table class=\"sortable\" style=\"width: 100%;\">" > f
   print "</table>" > f
@@ -681,7 +609,6 @@ END {
   FlushPostsPage()
   FlushPostsPages()
   FlushTagsPage()
-  FlushListsPage()
   FlushTagsPages()
   FlushMonthsPage()
   FlushIndexPage()
