@@ -12,18 +12,18 @@ BEGIN {
   Blog["description"] = "Write for computers, people and food."
   Blog["generator"] = "txt2blog 0.0.1"
   Blog["link"] = "http://www.caloni.com.br"
-  Blog["post_header_fields"] = "date link slug terms"
+  Blog["post_header_fields"] = "date link slug tags"
   Blog["output"] = "public\\blog"
-  Blog["text_favorite_terms"] = "computer cinema"
-  Blog["text_favorite_terms_description"]["computer"] = "programação, depuração, transpiração."
-  Blog["text_favorite_terms_description"]["cinema"] = "o finado Cine Tênis Verde veio parar aqui."
+  Blog["text_favorite_tags"] = "computer cinema"
+  Blog["text_favorite_tags_description"]["computer"] = "programação, depuração, transpiração."
+  Blog["text_favorite_tags_description"]["cinema"] = "o finado Cine Tênis Verde veio parar aqui."
   Blog["text_months"] = "lista dos meses com postes."
   Blog["text_notfound_description"] = "Não quer fazer uma <a href=\"/posts.html\">busca</a>? Às vezes eu mexo e remexo as coisas por aqui."
   Blog["text_notfound_title"] = "Opa, essa página não foi encontrada."
   Blog["text_page_prefix"] = "caloni"
   Blog["text_posts"] = "lista com toooooooodos os postes do blogue."
   Blog["text_quicksearch"] = "&#x1F41E; digite algo / type something"
-  Blog["text_terms"] = "todos os rótulos dos postes."
+  Blog["text_tags"] = "todos os rótulos dos postes."
   Blog["title"] = "Blogue do Caloni"
 }
 
@@ -142,7 +142,7 @@ function FormatContent(line, lastLine,    prefix, suffix, paragraph, newLine, he
 function FlushLetterBoxD()
 {
   file = "draft.csv"
-  if( index(NewPost["terms"], "cinema") && index(NewPost["terms"], "movies") ) {
+  if( index(NewPost["tags"], "cinema") && index(NewPost["tags"], "movies") ) {
     if( LetterBoxDCount++ == 0 ) {
       print "Title,WatchedDate,Review" > file
     }
@@ -167,7 +167,7 @@ function FlushContentState(    lastLine)
 }
 
 
-function FlushNewPost(    slug, date, month, terms, post)
+function FlushNewPost(    slug, date, month, tags, post)
 {
   slug = NewPost["slug"]
   if( !("date" in NewPost) ) {
@@ -176,9 +176,9 @@ function FlushNewPost(    slug, date, month, terms, post)
   }
   date = NewPost["date"]
   month = substr(date, 1, 7)
-  split(NewPost["terms"], terms)
+  split(NewPost["tags"], tags)
   if( "link" in NewPost ) {
-    terms[length(terms)+1] = "blogging"
+    tags[length(tags)+1] = "blogging"
   }
   post = ""
 
@@ -194,11 +194,11 @@ function FlushNewPost(    slug, date, month, terms, post)
   Index[NewPost["slug"]]["month"] = month
   Index[NewPost["slug"]]["link"] = month ".html#" slug
   Index[NewPost["slug"]]["summary"] = NewPost["summary"]
-  Index[NewPost["slug"]]["terms"] = NewPost["terms"]
+  Index[NewPost["slug"]]["tags"] = NewPost["tags"]
   Index[NewPost["slug"]]["image"] = NewPost["image"]
   TitleToSlug[NewPost["title"]] = slug
-  for( i in terms ) {
-    SlugsByTermsAndDates[terms[i]][date][slug] = slug
+  for( i in tags ) {
+    SlugsByTagsAndDates[tags[i]][date][slug] = slug
   }
 
   file = Blog["output"] "\\" month ".html"
@@ -242,8 +242,8 @@ function FlushNewPost(    slug, date, month, terms, post)
   if( "update" in NewPost ) {
     post = post " (updated " NewPost["update"] ")"
   }
-  for( i in terms ) {
-    post = post " <a href=\"" terms[i] ".html\">" terms[i] "</a>"
+  for( i in tags ) {
+    post = post " <a href=\"" tags[i] ".html\">" tags[i] "</a>"
   }
   post = post "<a href=\"" month ".html\"> "
   post = post "<sup>[up]</sup></a> <a href=\"javascript:;\" onclick=\"copy_clipboard('section#section_" slug "')\"><sup>[copy]</sup></a></span>\n\n"
@@ -473,19 +473,19 @@ function FlushPostsPages()
 }
 
 
-function FlushTermsPages(    slug, terms)
+function FlushTagsPages(    slug, tags)
 {
   PROCINFO["sorted_in"] = "@ind_num_desc"
-  for( i in SlugsByTermsAndDates ) {
+  for( i in SlugsByTagsAndDates ) {
     QuickSearch[i] = i ".html"
     f = Blog["output"] "\\" i ".html"
     WriteToHtml(f, Blog["text_page_prefix"] "::" i, "index.html", 1)
-    for( j in SlugsByTermsAndDates[i] ) {
-      for( k in SlugsByTermsAndDates[i][j] ) {
-        split(Index[k]["terms"], terms)
+    for( j in SlugsByTagsAndDates[i] ) {
+      for( k in SlugsByTagsAndDates[i][j] ) {
+        split(Index[k]["tags"], tags)
         s = ""
-        for( l in terms ) {
-          s = s " " terms[l]
+        for( l in tags ) {
+          s = s " " tags[l]
         }
         print "<tr><td>" > f
         if( Index[k]["image"] ) {
@@ -501,17 +501,17 @@ function FlushTermsPages(    slug, terms)
 }
 
 
-function FlushTermsPage()
+function FlushTagsPage()
 {
-  f = Blog["output"] "\\terms.html"
-  WriteToHtml(f, Blog["text_page_prefix"] "::terms", "index.html", 1)
+  f = Blog["output"] "\\tags.html"
+  WriteToHtml(f, Blog["text_page_prefix"] "::tags", "index.html", 1)
   PROCINFO["sorted_in"] = "@ind_str_asc"
-  for( i in SlugsByTermsAndDates ) {
+  for( i in SlugsByTagsAndDates ) {
     t = ""
     t2 = 0
     PROCINFO["sorted_in"] = "@ind_num_desc"
-    for( j in SlugsByTermsAndDates[i] ) {
-      for( k in SlugsByTermsAndDates[i][j] ) {
+    for( j in SlugsByTagsAndDates[i] ) {
+      for( k in SlugsByTagsAndDates[i][j] ) {
         if( t == "" ) {
           t = Index[k]["title"]
         } else {
@@ -531,7 +531,7 @@ function FlushTermsPage()
     print "</td></tr>" > f
   }
   WriteBottomHtml(f, 1)
-  QuickSearch["terms"] = "terms.html"
+  QuickSearch["tags"] = "tags.html"
 }
 
 
@@ -543,7 +543,7 @@ function FlushPostsPage()
   for( i in DateSlugTitle ) {
     for( j in DateSlugTitle[i] ) {
       t = DateSlugTitle[i][j]
-      split(Index[j]["terms"], a)
+      split(Index[j]["tags"], a)
       s = ""
       for( k in a ) {
         s = s " " a[k]
@@ -562,9 +562,9 @@ function FlushPostsPage()
 }
 
 
-function FlushIndexPage(    favterms)
+function FlushIndexPage(    favtags)
 {
-  split(Blog["text_favorite_terms"], favterms)
+  split(Blog["text_favorite_tags"], favtags)
   PROCINFO["sorted_in"] = "@ind_num_asc"
   for( i in Months ) {
     c = Months[i]
@@ -573,10 +573,10 @@ function FlushIndexPage(    favterms)
   f = Blog["output"] "\\index.html"
   WriteToHtml(f, Blog["title"], c ".html#about", 0, QuickSearch)
   print "<input type=\"text\" name=\"quick_search_name\" value=\"\" id=\"quick_search\" placeholder=\"" Blog["text_quicksearch"] "\" style=\"width: 100%; font-size: 1.5rem; margin-top: 1em; margin-bottom: 0.5em;\" title=\"\"/></br>" > f
-  for( i in favterms ) {
-    print "<big><a href=\"" favterms[i] ".html\">" favterms[i] "</a></big><small><i>: " Blog["text_favorite_terms_description"][favterms[i]] "</small></i></br>" > f
+  for( i in favtags ) {
+    print "<big><a href=\"" favtags[i] ".html\">" favtags[i] "</a></big><small><i>: " Blog["text_favorite_tags_description"][favtags[i]] "</small></i></br>" > f
   }
-  print "<big><a href=\"terms.html\">terms</a></big><small><i>: " Blog["text_terms"] "</small></i></br>" > f
+  print "<big><a href=\"tags.html\">tags</a></big><small><i>: " Blog["text_tags"] "</small></i></br>" > f
   print "<big><a href=\"months.html\">months</a></big><small><i>: " Blog["text_months"] "</small></i></br>" > f
   print "<big><a href=\"posts.html\">posts</a></big><small><i>: " Blog["text_posts"] "</small></i></br>" > f
   print "<div><big><span style=\"visibility: hidden; padding: 5px;\" name=\"results\" id=\"results\">...</span></big></div>" > f
@@ -608,8 +608,8 @@ END {
 
   FlushPostsPage()
   FlushPostsPages()
-  FlushTermsPage()
-  FlushTermsPages()
+  FlushTagsPage()
+  FlushTagsPages()
   FlushMonthsPage()
   FlushIndexPage()
   FlushNotFoundPage()
