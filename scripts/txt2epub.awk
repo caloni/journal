@@ -182,11 +182,11 @@ function FlushContentState(    lastLine)
 }
 
 
-function FlushNewPost(    slug, date, chapter, fchapter, tags, post)
+function FlushNewPost(    slug, date, chapter, fchapter, terms, post)
 {
   slug = NewPost["slug"]
   date = NewPost["date"]
-  split(NewPost["tags"], tags)
+  split(NewPost["terms"], terms)
   post = ""
   chapter = substr(date, 1, 7)
   fchapter = ToId(chapter)
@@ -201,11 +201,11 @@ function FlushNewPost(    slug, date, chapter, fchapter, tags, post)
   Index[slug]["slug"] = slug
   Index[slug]["letter"] = substr(NewPost["title"], 1, 1)
   Index[slug]["title"] = NewPost["title"]
-  Index[slug]["tags"] = NewPost["tags"]
+  Index[slug]["terms"] = NewPost["terms"]
   TitleToSlug[NewPost["title"]] = slug
   TitleToChapter[NewPost["title"]] = chapter
-  for( i in tags ) {
-    TitlesByTags[tags[i]][NewPost["title"]] = NewPost["title"]
+  for( i in terms ) {
+    TitlesByTerms[terms[i]][NewPost["title"]] = NewPost["title"]
   }
 
   if( ! (fchapter in Files) ) {
@@ -252,8 +252,8 @@ function FlushNewPost(    slug, date, chapter, fchapter, tags, post)
   post = post "<section title=\"" ToHtml(NewPost["title"]) "\" epub:type=\"bodymatter chapter\">\n"
   post = post "<h1 class=\"chapter-subtitle\"><strong>" ToHtml(NewPost["title"]) "</strong></h1>\n"
   post = post "<p class=\"note-title\">" date
-  for( i in tags ) {
-    post = post " <a href=\"toc" ToId(tags[i]) ".xhtml\">" tags[i] "</a>"
+  for( i in terms ) {
+    post = post " <a href=\"toc" ToId(terms[i]) ".xhtml\">" terms[i] "</a>"
   }
   post = post "</p>\n\n"
   if( length(NewPost["lines"]) ) {
@@ -290,8 +290,8 @@ $1 == "metadata_slug" { Index[$2]["link"] = $3 ; next }
   if( match($0, /^\[([^]]+)\]: *([^" ]+) *"?([^"]+)?"?/, a) ) {
     if( a[1] == "date" ) {
       NewPost["date"] = a[3]
-    } else if( a[1] == "tags" ) {
-      NewPost["tags"] = a[3]
+    } else if( a[1] == "terms" ) {
+      NewPost["terms"] = a[3]
     } else if( a[1] == "slug" ) {
       NewPost["slug"] = a[3]
     }
@@ -346,7 +346,7 @@ function FlushPackage()
   print "<item id=\"page-template\" href=\"css/page-template.xpgt\" media-type=\"application/adobe-page-template+xml\"/>" > package
   print "<item id=\"titlepage\" href=\"titlepage.xhtml\" media-type=\"application/xhtml+xml\"/>" > package
   print "<item id=\"toc\" href=\"toc.xhtml\" media-type=\"application/xhtml+xml\"/>" > package
-  for( i in TitlesByTags ) {
+  for( i in TitlesByTerms ) {
     print "<item id=\"toc_" i "\" href=\"toc_" i ".xhtml\" media-type=\"application/xhtml+xml\"/>" > package
   }
   print "<item id=\"index\" href=\"index.xhtml\" media-type=\"application/xhtml+xml\"/>" > package
@@ -371,7 +371,7 @@ function FlushPackage()
   print "<itemref idref=\"cover\" linear=\"yes\"/>" > package
   print "<itemref idref=\"titlepage\" linear=\"yes\"/>" > package
   print "<itemref idref=\"toc\" linear=\"yes\"/>" > package
-  for( i in TitlesByTags ) {
+  for( i in TitlesByTerms ) {
     print "<itemref linear=\"yes\" idref=\"toc" ToId(i) "\"/>" > package
   }
   for( c in Chapters ) {
@@ -444,9 +444,9 @@ function FlushTocPage()
   print "</html>" > tocxhtml
 }
 
-function FlushTagsPage()
+function FlushTermsPage()
 {
-  for( i in TitlesByTags ) {
+  for( i in TitlesByTerms ) {
     tocxhtml = "public\\book\\EPUB\\toc_" i ".xhtml"
     print "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" > tocxhtml
     print "<html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:epub=\"http://www.idpf.org/2007/ops\">" > tocxhtml
@@ -459,7 +459,7 @@ function FlushTagsPage()
     print "<div class=\"body\">" > tocxhtml
     print "<h1 class=\"toc-title\">" i "</h1>" > tocxhtml
     print "<ul>" > tocxhtml
-    for( tit in TitlesByTags[i] ) {
+    for( tit in TitlesByTerms[i] ) {
       print "<li><a href=\"" ToId(TitleToChapter[tit]) ".xhtml#" ToId(TitleToSlug[tit]) "\">" ToHtml(tit) "</a></li>" > tocxhtml
     }
     print "</ul>" > tocxhtml
@@ -522,9 +522,9 @@ function FlushIndexPage()
   for( l in Letters ) {
     print "<a href=\"#" ToId(l) "\">" l "</a>" > indexx
   }
-  print "<h3 id=\"toc_tags\" class=\"groupletter\">Tags</h3>\n"\
+  print "<h3 id=\"toc_terms\" class=\"groupletter\">Terms</h3>\n"\
     "<ul class=\"indexlevel1\">" > indexx
-  for( i in TitlesByTags ) {
+  for( i in TitlesByTerms ) {
     tocxhtml = "public\\book\\EPUB\\toc_" i ".xhtml"
     print "<li epub:type=\"index-entry\" class=\"indexhead1\" id=\"mh" currid++ "\">"\
       "<a href=\"toc" ToId(i) ".xhtml\">" ToHtml(i) "</a></li>\n" > indexx
@@ -548,7 +548,7 @@ END {
   FlushPackage()
   FlushTocNcx()
   FlushTocPage()
-  FlushTagsPage()
+  FlushTermsPage()
   FlushNcx()
   FlushIndexPage()
 }
