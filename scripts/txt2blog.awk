@@ -179,6 +179,7 @@ function FlushNewPost(    slug, date, month, tags, post)
   split(NewPost["tags"], tags)
   if( "link" in NewPost ) {
     tags[length(tags)+1] = "blogging"
+    NewPost["tags"] = NewPost["tags"] " blogging"
   }
   post = ""
 
