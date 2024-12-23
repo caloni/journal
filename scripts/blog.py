@@ -1,6 +1,9 @@
 import os
 import subprocess
 
+print('do you want to publish the PUBLIC blog to the world wide web? (Y/N)')
+publish_answer = input()
+
 process = subprocess.run(['python', r'scripts/blogbuild.py'], check=True)
 if process.stdout:
   print(process.stdout)
@@ -11,8 +14,6 @@ process = subprocess.run(['git', 'add', '--all'], check=False)
 process = subprocess.run(['git', 'commit', '-m', 'publishing some shit.'], check=False)
 process = subprocess.run(['git', 'push'], check=False)
 
-print('do you want to publish the PUBLIC blog to the world wide web? (Y/N)')
-publish_answer = input()
 if 'yYsS1yessim'.find(publish_answer) != -1:
   old_dir = os.getcwd()
   os.chdir(r'public/blog')
