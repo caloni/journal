@@ -139,23 +139,6 @@ function FormatContent(line, lastLine,    prefix, suffix, paragraph, newLine, he
 }
 
 
-function FlushLetterBoxD()
-{
-  file = "draft.csv"
-  if( index(NewPost["tags"], "cinema") && index(NewPost["tags"], "movies") ) {
-    if( LetterBoxDCount++ == 0 ) {
-      print "Title,WatchedDate,Review" > file
-    }
-    p = ""
-    for( i in NewPost["lines"] ) {
-      p = p NewPost["lines"][i]["content"]
-    }
-    gsub(/["\n]/, "", p)
-    print "\"" NewPost["title"] "\"," NewPost["date"] ",\"" p "\"" > file
-  }
-}
-
-
 function FlushContentState(    lastLine)
 {
   lastLine = length(NewPost["lines"])
@@ -184,7 +167,6 @@ function FlushNewPost(    slug, date, month, tags, post)
   post = ""
 
   FlushContentState()
-  #FlushLetterBoxD()
 
   Months[month] = month
   DateSlugTitle[date][slug] = NewPost["title"]
