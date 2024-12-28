@@ -13,5 +13,10 @@ NF == 3 {
       Tendency = $2
     }
   }
-  printf "day %s weigth %s tendency %.1f exercise %s\n", $1, $2, Tendency, $3
+  Day = $1
+  #printf "day %s weigth %s tendency %.1f exercise %s\n", Day, $2, Tendency, $3
+}
+
+END {
+  printf "Day %s Tendency %.1f\n", Day, Tendency
 }
