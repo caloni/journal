@@ -12,7 +12,7 @@ BEGIN {
   Blog["description"] = "Write for computers, people and food."
   Blog["generator"] = "txt2blog 0.0.1"
   Blog["link"] = "http://www.caloni.com.br"
-  Blog["post_header_fields"] = "date link slug tags"
+  Blog["post_header_fields"] = "date link slug tags update"
   Blog["output"] = "public\\blog"
   Blog["text_favorite_tags"] = "computer cinema"
   Blog["text_favorite_tags_description"]["computer"] = "programação, depuração, transpiração."
