@@ -197,6 +197,9 @@ function FlushNewPost(    slug, date, month, tags, post)
   Index[NewPost["slug"]]["summary"] = NewPost["summary"]
   Index[NewPost["slug"]]["tags"] = NewPost["tags"]
   Index[NewPost["slug"]]["image"] = NewPost["image"]
+  if( "update" in NewPost ) {
+    Index[NewPost["slug"]]["update"] = NewPost["update"]
+  }
   TitleToSlug[NewPost["title"]] = slug
   for( i in tags ) {
     SlugsByTagsAndDates[tags[i]][date][slug] = slug
@@ -484,7 +487,11 @@ function FlushTagsPages(    slug, tags)
     for( j in SlugsByTagsAndDates[i] ) {
       for( k in SlugsByTagsAndDates[i][j] ) {
         split(Index[k]["tags"], tags)
-        s = ""
+        if( "update" in Index[k] ) {
+          s = " update " Index[k]["update"]
+        } else {
+          s = ""
+        }
         for( l in tags ) {
           s = s " " tags[l]
         }
@@ -545,7 +552,11 @@ function FlushPostsPage()
     for( j in DateSlugTitle[i] ) {
       t = DateSlugTitle[i][j]
       split(Index[j]["tags"], a)
-      s = ""
+      if( "update" in Index[j] ) {
+        s = " update " Index[j]["update"]
+      } else {
+        s = ""
+      }
       for( k in a ) {
         s = s " " a[k]
       }
