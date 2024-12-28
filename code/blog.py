@@ -5,7 +5,7 @@ abspath = os.path.abspath(__file__)
 dname = os.path.dirname(abspath)
 os.chdir(dname)
 os.chdir('..')
-print(os.getcwd())
+print('basedir:', os.getcwd())
 
 print('do you want to publish the PUBLIC blog to the world wide web? (Y/N)')
 publish_answer = input()

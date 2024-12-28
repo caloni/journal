@@ -7,7 +7,7 @@ abspath = os.path.abspath(__file__)
 dname = os.path.dirname(abspath)
 os.chdir(dname)
 os.chdir('..')
-print(os.getcwd())
+print('basedir:', os.getcwd())
 
 now = datetime.datetime.now()
 current_date = now.strftime('%Y-%m-%dT%H:%M:%SZ')

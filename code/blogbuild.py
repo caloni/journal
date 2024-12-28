@@ -2,6 +2,12 @@ import os
 import shutil
 import subprocess
 
+abspath = os.path.abspath(__file__)
+dname = os.path.dirname(abspath)
+os.chdir(dname)
+os.chdir('..')
+print('basedir:', os.getcwd())
+
 old_dir = os.getcwd()
 
 if not os.path.exists(r'public/blog'):
