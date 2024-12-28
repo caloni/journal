@@ -6,7 +6,7 @@ The public folder is the output folder that will contain publishable content.
 
 ## How to use
 
-If you just cloned this repo the core text is in the `journal.txt` file. The usable code, including the ones to publish this content, is in the `code` folder. Currently the publish code is in Python and should call `blog.py´ and `book.py`. You can run a local version of the blog by using the `blog_build.py` script and the `server.py` script after copied to the `public/blog` folder.
+If you just cloned this repo the core text is in the `journal.txt` file. The usable code, including the ones to publish this content, is in the `code` folder. Currently the publish code is in Python and should call `blog.py` and `book.py`. You can run a local version of the blog by using the `blog_build.py` script and the `server.py` script after copied to the `public/blog` folder.
 
 I used an operating system called Windows, but the publish code should work fine from Unix env. I am in the middle of a project to finish a markdown parser and currently it is a workable mess.
 
