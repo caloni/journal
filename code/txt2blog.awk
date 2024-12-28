@@ -149,103 +149,125 @@ function FlushContentState(    lastLine)
   delete ContentState
 }
 
-
-function FlushNewPost(    slug, date, month, tags, post)
+function CopyNewPost(    slug, tags, post, i, j)
 {
-  slug = NewPost["slug"]
   if( !("date" in NewPost) ) {
     delete NewPost
-    return
+    return ""
   }
-  date = NewPost["date"]
-  month = substr(date, 1, 7)
-  split(NewPost["tags"], tags)
+  slug = NewPost["slug"]
+  NewPost["month"] = substr(NewPost["date"], 1, 7)
   if( "link" in NewPost ) {
-    tags[length(tags)+1] = "blogging"
     NewPost["tags"] = NewPost["tags"] " blogging"
   }
-  post = ""
+  split(NewPost["tags"], tags)
 
   FlushContentState()
 
-  Months[month] = month
-  DateSlugTitle[date][slug] = NewPost["title"]
+  Months[NewPost["month"]] = NewPost["month"]
+  DateSlugTitle[NewPost["date"]][slug] = NewPost["title"]
 
-  Index[NewPost["slug"]]["slug"] = slug
-  Index[NewPost["slug"]]["title"] = NewPost["title"]
-  Index[NewPost["slug"]]["date"] = date
-  Index[NewPost["slug"]]["month"] = month
-  Index[NewPost["slug"]]["link"] = month ".html#" slug
-  Index[NewPost["slug"]]["summary"] = NewPost["summary"]
-  Index[NewPost["slug"]]["tags"] = NewPost["tags"]
-  Index[NewPost["slug"]]["image"] = NewPost["image"]
+  Index[slug]["slug"] = slug
+  Index[slug]["title"] = NewPost["title"]
+  Index[slug]["date"] = NewPost["date"]
+  Index[slug]["month"] = NewPost["month"]
+  Index[slug]["link"] = NewPost["month"] ".html#" slug
+  Index[slug]["summary"] = NewPost["summary"]
+  Index[slug]["tags"] = NewPost["tags"]
+  Index[slug]["image"] = NewPost["image"]
   if( "update" in NewPost ) {
-    Index[NewPost["slug"]]["update"] = NewPost["update"]
+    Index[slug]["update"] = NewPost["update"]
+  }
+  if( "link" in NewPost ) {
+    Index[slug]["extlink"] = NewPost["link"]
+  }
+  if( "links" in NewPost ) {
+    for( i in NewPost["links"] ) {
+      Index[slug]["links"][i] = NewPost["links"][i]
+    }
+  }
+  if( "lines" in NewPost ) {
+    for( i in NewPost["lines"] ) {
+      for( j in NewPost["lines"][i] ) {
+        Index[slug]["lines"][i][j] = NewPost["lines"][i][j]
+      }
+    }
   }
   TitleToSlug[NewPost["title"]] = slug
   for( i in tags ) {
-    SlugsByTagsAndDates[tags[i]][date][slug] = slug
+    SlugsByTagsAndDates[tags[i]][NewPost["date"]][slug] = slug
   }
+  delete NewPost
+  return slug
+}
 
-  file = Blog["output"] "\\" month ".html"
-  if( ! (month in Files) ) {
-    WriteToHtml(file, Blog["text_page_prefix"] "::" month, "months.html", 0)
-    Files[month] = month
+function FlushNewPost(    slug, tags, post, i, j, file, search)
+{
+  slug = CopyNewPost()
+  if( slug == "" ) {
+    return
   }
-  for( i in NewPost["lines"] ) {
-    if( NewPost["lines"][i]["content"] != "" ) {
-      if( NewPost["lines"][i]["type"] != "pre" && NewPost["lines"][i]["type"] != "blockquote" ) {
-        if( "links" in NewPost ) {
-          for( j in NewPost["links"] ) {
+  split(Index[slug]["tags"], tags)
+  post = ""
+
+  file = Blog["output"] "\\" Index[slug]["month"] ".html"
+  if( ! (Index[slug]["month"] in Files) ) {
+    WriteToHtml(file, Blog["text_page_prefix"] "::" Index[slug]["month"], "months.html", 0)
+    Files[Index[slug]["month"]] = Index[slug]["month"]
+  }
+  for( i in Index[slug]["lines"] ) {
+    if( Index[slug]["lines"][i]["content"] != "" ) {
+      if( Index[slug]["lines"][i]["type"] != "pre" && Index[slug]["lines"][i]["type"] != "blockquote" ) {
+        if( "links" in Index[slug] ) {
+          for( j in Index[slug]["links"] ) {
             search = "\\[" j "\\]"
-            gsub(search, NewPost["links"][j], NewPost["lines"][i]["content"])
+            gsub(search, Index[slug]["links"][j], Index[slug]["lines"][i]["content"])
           }
         }
       }
 
-      if( NewPost["lines"][i]["type"] == "pre" ) {
-        NewPost["lines"][i]["content"] = ToHtml(NewPost["lines"][i]["content"])
-        if( NewPost["lines"][i-1]["type"] != NewPost["lines"][i]["type"] ) {
-          NewPost["lines"][i]["content"] = "<" NewPost["lines"][i]["type"] ">\n" NewPost["lines"][i]["content"]
+      if( Index[slug]["lines"][i]["type"] == "pre" ) {
+        Index[slug]["lines"][i]["content"] = ToHtml(Index[slug]["lines"][i]["content"])
+        if( Index[slug]["lines"][i-1]["type"] != Index[slug]["lines"][i]["type"] ) {
+          Index[slug]["lines"][i]["content"] = "<" Index[slug]["lines"][i]["type"] ">\n" Index[slug]["lines"][i]["content"]
         }
-        if( NewPost["lines"][i+1]["type"] != NewPost["lines"][i]["type"] ) {
-          NewPost["lines"][i]["content"] = NewPost["lines"][i]["content"] "</" NewPost["lines"][i]["type"] ">\n"
+        if( Index[slug]["lines"][i+1]["type"] != Index[slug]["lines"][i]["type"] ) {
+          Index[slug]["lines"][i]["content"] = Index[slug]["lines"][i]["content"] "</" Index[slug]["lines"][i]["type"] ">\n"
         }
       } else {
-        NewPost["lines"][i]["content"] = gensub(/\[([^\]]+)\]/, "<a href=\"posts.html?q=\\1\">\\1</a>", "g", NewPost["lines"][i]["content"])
+        Index[slug]["lines"][i]["content"] = gensub(/\[([^\]]+)\]/, "<a href=\"posts.html?q=\\1\">\\1</a>", "g", Index[slug]["lines"][i]["content"])
       }
     }
   }
 
-  post = "<span id=\"" slug "\" title=\"" ToHtml(NewPost["title"]) "\"/></span>\n"
+  post = "<span id=\"" slug "\" title=\"" ToHtml(Index[slug]["title"]) "\"/></span>\n"
   post = post "<section id=\"section_" slug "\">\n"
-  if( "link" in NewPost ) {
-    post = post "<p class=\"title\"><a href=\"" month ".html#" slug "\">#</a> <a class=\"external\" href=\"" NewPost["link"] "\">" ToHtml(NewPost["title"]) "</a></p>\n"
+  if( "extlink" in Index[slug] ) {
+    post = post "<p class=\"title\"><a href=\"" Index[slug]["month"] ".html#" slug "\">#</a> <a class=\"external\" href=\"" Index[slug]["extlink"] "\">" ToHtml(Index[slug]["title"]) "</a></p>\n"
   } else {
-    post = post "<p class=\"title\"><a href=\"" month ".html#" slug "\">#</a> " ToHtml(NewPost["title"]) "</p>\n"
+    post = post "<p class=\"title\"><a href=\"" Index[slug]["month"] ".html#" slug "\">#</a> " ToHtml(Index[slug]["title"]) "</p>\n"
   }
-  post = post "<span class=\"title-heading\">" Blog["author"] ", " date
-  if( "update" in NewPost ) {
-    post = post " (updated " NewPost["update"] ")"
+  post = post "<span class=\"title-heading\">" Blog["author"] ", " Index[slug]["date"]
+  if( "update" in Index[slug] ) {
+    post = post " (updated " Index[slug]["update"] ")"
   }
   for( i in tags ) {
     post = post " <a href=\"" tags[i] ".html\">" tags[i] "</a>"
   }
-  post = post "<a href=\"" month ".html\"> "
+  post = post "<a href=\"" Index[slug]["month"] ".html\"> "
   post = post "<sup>[up]</sup></a> <a href=\"javascript:;\" onclick=\"copy_clipboard('section#section_" slug "')\"><sup>[copy]</sup></a></span>\n\n"
-  for( i in NewPost["lines"] ) {
-    post = post NewPost["lines"][i]["content"]
-    if( NewPost["lines"][i]["type"] != "pre" ) {
+  for( i in Index[slug]["lines"] ) {
+    post = post Index[slug]["lines"][i]["content"]
+    if( Index[slug]["lines"][i]["type"] != "pre" ) {
       post = post "\n"
     }
   }
   post = post "</section><hr/>\n"
-  PostsByMonth[month][date] = PostsByMonth[month][date] "\n" post
-  NewPost["link"] = "<li><small><a href=\"" month ".html#" slug "\">" ToHtml(NewPost["title"]) "</a></small></li>"
-  PostLinksByMonth[month][date] = PostLinksByMonth[month][date] "\n" NewPost["link"]
+  PostsByMonth[Index[slug]["month"]][Index[slug]["date"]] = PostsByMonth[Index[slug]["month"]][Index[slug]["date"]] "\n" post
+  Index[slug]["extlink"] = "<li><small><a href=\"" Index[slug]["month"] ".html#" slug "\">" ToHtml(Index[slug]["title"]) "</a></small></li>"
+  PostLinksByMonth[Index[slug]["month"]][Index[slug]["date"]] = PostLinksByMonth[Index[slug]["month"]][Index[slug]["date"]] "\n" Index[slug]["extlink"]
 
-  QuickSearch[NewPost["slug"]] = month ".html#" slug
-  delete NewPost
+  QuickSearch[slug] = Index[slug]["month"] ".html#" slug
 }
 
 
@@ -278,6 +300,7 @@ $1 == "metadata_slug" { Index[$2]["link"] = $3 ; next }
       a[2] = "<a href=\"" a[2] "\">" a[1] "</a>"
     }
     NewPost["links"][a[1]] = a[2]
+    delete a
   } else {
     print "error: invalid link at", $0
   }
@@ -297,7 +320,7 @@ $1 == "metadata_slug" { Index[$2]["link"] = $3 ; next }
 }
 
 
-function WriteToHtml(file, title, backLink, filter, quickSearch,    originalSort)
+function WriteToHtml(file, title, backLink, filter, quickSearch,    originalSort, i)
 {
   print "<!DOCTYPE html>" > file
   print "<html lang=\"en-us\" dir=\"ltr\" itemscope itemtype=\"http://schema.org/Article\">" > file
@@ -359,7 +382,7 @@ function WriteToHtml(file, title, backLink, filter, quickSearch,    originalSort
 }
 
 
-function WriteBottomHtml(file, filter, nextLink, prevLink, build,    label)
+function WriteBottomHtml(file, filter, nextLink, prevLink, build,    label, link)
 {
   if( filter ) {
     print "</table>" > file
@@ -393,7 +416,7 @@ function WriteBottomHtml(file, filter, nextLink, prevLink, build,    label)
 }
 
 
-function TiePreviousNextMonths()
+function TiePreviousNextMonths(    i, c)
 {
   PROCINFO["sorted_in"] = "@ind_num_asc"
   c = "index"
@@ -410,7 +433,7 @@ function TiePreviousNextMonths()
 }
 
 
-function FlushMonthsPage()
+function FlushMonthsPage(    i, f, y, m, y2)
 {
   PROCINFO["sorted_in"] = "@ind_num_desc"
   f = Blog["output"] "\\months.html"
@@ -438,7 +461,7 @@ function FlushMonthsPage()
 }
 
 
-function FlushPostsPages()
+function FlushPostsPages(    i, j, p, f)
 {
   PROCINFO["sorted_in"] = "@ind_num_asc"
   for( i in Files ) {
@@ -459,7 +482,7 @@ function FlushPostsPages()
 }
 
 
-function FlushTagsPages(    slug, tags)
+function FlushTagsPages(    slug, tags, i, j, k, l, f, s)
 {
   PROCINFO["sorted_in"] = "@ind_num_desc"
   for( i in SlugsByTagsAndDates ) {
@@ -491,7 +514,7 @@ function FlushTagsPages(    slug, tags)
 }
 
 
-function FlushTagsPage()
+function FlushTagsPage(    i, j, k, f, t)
 {
   f = Blog["output"] "\\tags.html"
   WriteToHtml(f, Blog["text_page_prefix"] "::tags", "index.html", 1)
@@ -525,7 +548,7 @@ function FlushTagsPage()
 }
 
 
-function FlushPostsPage()
+function FlushPostsPage(    i, j, k, f, t, s)
 {
   f = Blog["output"] "\\posts.html"
   WriteToHtml(f, Blog["text_page_prefix"] "::posts", "index.html", 1)
@@ -556,7 +579,7 @@ function FlushPostsPage()
 }
 
 
-function FlushIndexPage(    favtags)
+function FlushIndexPage(    favtags, i, c, f)
 {
   split(Blog["text_favorite_tags"], favtags)
   PROCINFO["sorted_in"] = "@ind_num_asc"
@@ -580,7 +603,7 @@ function FlushIndexPage(    favtags)
 }
 
 
-function FlushNotFoundPage()
+function FlushNotFoundPage(    f)
 {
   f = Blog["output"] "\\404.html"
   WriteToHtml(f, Blog["text_page_prefix"] "::404 page not found", "posts.html", 0)
