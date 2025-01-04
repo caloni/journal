@@ -1,3 +1,7 @@
+# Translate special characters from text to
+# acceptable characters in final format.
+# Wanderley Caloni <wanderley.caloni@gmail.com>
+# 2024-08-30
 
 function ToSlug(s)
 {
@@ -19,7 +23,6 @@ function ToSlug(s)
   return tolower(s)
 }
 
-
 function ToHtml(s)
 {
   gsub(/&/, "&amp;", s)
@@ -38,7 +41,6 @@ function ToId(s)
   return s
 }
 
-
 function IsNumeric(x, f)
 {
     switch (typeof(x)) {
@@ -51,7 +53,6 @@ function IsNumeric(x, f)
         return 0
     }
 }
-
 
 function ToLetter(s)
 {
@@ -81,4 +82,3 @@ function ToLetter(s)
   if( c != "" ) return c
   return s
 }
-

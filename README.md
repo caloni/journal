@@ -6,9 +6,15 @@ The public folder is the output folder that will contain publishable content.
 
 ## How to use
 
-If you just cloned this repo the core text is in the `journal.txt` file. The usable code, including the ones to publish this content, is in the `code` folder. Currently the publish code is in Python and should call `blog.py` and `book.py`. You can run a local version of the blog by using the `blog_build.py` script and the `server.py` script after copied to the `public/blog` folder.
+If you just cloned this repo the core text is in the `journal.txt` file. The usable code, including the ones to publish this content, is in the `code` folder.
 
-I used an operating system called Windows, but the publish code should work fine from Unix env. I am in the middle of a project to finish a markdown parser and currently it is a workable mess.
+To publish the blog you should call `code/PublishBlog.py`, to generate the book `code/Journal2Book.py`. You can run a local version of the blog by using the `code/Journal2Blog.py` followed by `public/book/BlogServer.py` script.
+
+The parsing and transformation scripts are written in AWK. A part of the code parse the `journal.txt` to metadata that are then transformed to a HTML blog or an EPUB book (convertible to MOBI format as well). The architecture goal being worked is as follows:
+
+![](img/blog/journal_architecture.png)
+
+I use an operating system called Windows, but the code should work fine from Unix env. I am in the middle of a project to finish a markdown parser and currently it is a workable mess.
 
 The vast majority of my text is in my native language Portuguese, from Brazil. This should not be an issue now that machines translate flawlessly every pieace of internet to every conceivable language. But be my guest to learn something from this wonderful language and ask questions by [email] if you need to.
 
