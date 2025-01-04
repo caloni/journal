@@ -3,6 +3,9 @@ import os
 import shutil
 import subprocess
 
+print('do you want to convert and copy to kindle? (Y/N)')
+convert_answer = input()
+
 abspath = os.path.abspath(__file__)
 dname = os.path.dirname(abspath)
 os.chdir(dname)
@@ -43,9 +46,7 @@ os.chdir(r'public/book')
 process = subprocess.run(['python', r'repack.py'], check=True)
 os.chdir(old_dir)
 
-print('do you want to convert and copy to kindle? (Y/N)')
-publish_answer = input()
-if 'yYsS1yessim'.find(publish_answer) != -1:
+if 'yYsS1yessim'.find(convert_answer) != -1:
   os.chdir(r'public/book')
   process = subprocess.run(['kindlegen', 'caloni.epub', '-o', r'caloni.mobi'], check=False)
   if os.path.exists(r'k:/documents'):
