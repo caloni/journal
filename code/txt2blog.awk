@@ -139,38 +139,37 @@ function FormatContent(line, lastLine,    prefix, suffix, paragraph, newLine, he
 }
 
 
-function FlushContentState(    lastLine)
+function FlushContentState(    slug, lastLine)
 {
   lastLine = length(NewPost["lines"])
   if ( ContentState["-"] ) {
-    NewPost["lines"][lastLine]["content"] = NewPost["lines"][lastLine]["content"] "</ul>\n"
+    Index[slug]["lines"][lastLine]["content"] = Index[slug]["lines"][lastLine]["content"] "</ul>\n"
     ContentState["-"] = 0
   }
   delete ContentState
+  delete NewPost
 }
 
 function CopyNewPost(    slug, tags, post, i, j)
 {
-  if( !("date" in NewPost) ) {
-    delete NewPost
-    return ""
-  }
   slug = NewPost["slug"]
-  NewPost["month"] = substr(NewPost["date"], 1, 7)
+  PostSlugByPosition[++Posts] = slug
   if( "link" in NewPost ) {
     NewPost["tags"] = NewPost["tags"] " blogging"
   }
   split(NewPost["tags"], tags)
 
-  FlushContentState()
+  if( "date" in NewPost ) {
+    NewPost["month"] = substr(NewPost["date"], 1, 7)
+    Months[NewPost["month"]] = NewPost["month"]
+    DateSlugTitle[NewPost["date"]][slug] = NewPost["title"]
 
-  Months[NewPost["month"]] = NewPost["month"]
-  DateSlugTitle[NewPost["date"]][slug] = NewPost["title"]
+    Index[slug]["month"] = NewPost["month"]
+    Index[slug]["date"] = NewPost["date"]
+  }
 
   Index[slug]["slug"] = slug
   Index[slug]["title"] = NewPost["title"]
-  Index[slug]["date"] = NewPost["date"]
-  Index[slug]["month"] = NewPost["month"]
   Index[slug]["link"] = NewPost["month"] ".html#" slug
   Index[slug]["summary"] = NewPost["summary"]
   Index[slug]["tags"] = NewPost["tags"]
@@ -197,16 +196,23 @@ function CopyNewPost(    slug, tags, post, i, j)
   for( i in tags ) {
     SlugsByTagsAndDates[tags[i]][NewPost["date"]][slug] = slug
   }
-  delete NewPost
-  return slug
+  FlushContentState(slug)
 }
 
-function FlushNewPost(    slug, tags, post, i, j, file, search)
+function FlushPosts(    position, slug)
 {
-  slug = CopyNewPost()
-  if( slug == "" ) {
-    return
+  PROCINFO["sorted_in"] = "@ind_num_asc"
+  for( position in PostSlugByPosition ) {
+    slug = PostSlugByPosition[position]
+    if( !("date" in Index[slug]) ) {
+      continue
+    }
+    FlushPost(slug)
   }
+}
+
+function FlushPost(slug,    tags, post, i, j, file, search)
+{
   split(Index[slug]["tags"], tags)
   post = ""
 
@@ -271,11 +277,11 @@ function FlushNewPost(    slug, tags, post, i, j, file, search)
 }
 
 
-$1 == "metadata_slug" { Index[$2]["link"] = $3 ; next }
+$1 == "metadata_slug" { IndexMetadata[$2]["link"] = $3 ; next }
 
 /^# / && !ContentState["```"] {
   if( "title" in NewPost ) {
-    FlushNewPost()
+    CopyNewPost()
   }
   NewPost["title"] = substr($0, 3)
   NewPost["slug"] = ToSlug(NewPost["title"])
@@ -287,8 +293,8 @@ $1 == "metadata_slug" { Index[$2]["link"] = $3 ; next }
     if( a[2] ~ /^(https?)|(ftp)|(mailto):/ ) {
       a[2] = "<a href=\"" a[2] "\">" a[1] "</a>"
     }
-    else if( a[2] in Index ) {
-      a[2] = Index[a[2]]["link"]
+    else if( a[2] in IndexMetadata ) {
+      a[2] = IndexMetadata[a[2]]["link"]
       a[2] = "<a href=\"" a[2] "\">" a[1] "</a>"
     }
     else if( index(Blog["post_header_fields"], a[1]) ) {
@@ -619,10 +625,11 @@ function FlushNotFoundPage(    f)
 
 END {
   if( "title" in NewPost ) {
-    FlushNewPost()
+    CopyNewPost()
   }
   TiePreviousNextMonths()
 
+  FlushPosts()
   FlushPostsPage()
   FlushPostsPages()
   FlushTagsPage()
