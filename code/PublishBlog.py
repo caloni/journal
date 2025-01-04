@@ -5,7 +5,6 @@ abspath = os.path.abspath(__file__)
 dname = os.path.dirname(abspath)
 os.chdir(dname)
 os.chdir('..')
-print('basedir:', os.getcwd())
 
 process = subprocess.run(['python', r'code/Journal2Blog.py'], check=True)
 if process.stdout:
