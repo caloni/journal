@@ -1,6 +1,6 @@
-# Transform parsed text to epub posts book.
+# Transform parsed text to epub.
 # Wanderley Caloni <wanderley.caloni@gmail.com>
-# 2024-11-14
+# 2025-01-04
 
 #include util.awk
 
@@ -54,6 +54,11 @@ function FormatContent(line, lastLine,    prefix, suffix, paragraph, newLine, he
         ContentState["-"] = 0
     }
 
+    #todo fix when blockquote is added into BlogWriter.awk
+    # and this situation occurs:
+    # `<blockquote></ul>`
+    # only when this is fixed we can think about formatting
+    # epubs with blockquote equivalent
     #if( line ~ /^>/ ) {
     #  sub(/^> ?/, "", line)
     #  ContentType = "blockquote"

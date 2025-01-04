@@ -1,4 +1,4 @@
-# Parse pseudo-markdown text to parsed text.
+# Transform markdown text to parsed text.
 # Wanderley Caloni <wanderley.caloni@gmail.com>
 # 2025-01-04
 
@@ -45,11 +45,6 @@ function FormatContent(line, lastLine,    prefix, suffix, paragraph, newLine, he
         ContentState[" "] = 0
     }
 
-    #todo fix when blockquote is added into BlogWriter.awk
-    # and this situation occurs:
-    # `<blockquote></ul>`
-    # only when this is fixed we can think about formatting
-    # epubs with blockquote equivalent
     if( line ~ /^ *- */ ) {
       line = gensub(/ *- *(.*)/, "\\1", "g", line)
       if( ! ContentState["-"] ) {
@@ -64,6 +59,11 @@ function FormatContent(line, lastLine,    prefix, suffix, paragraph, newLine, he
         ContentState["-"] = 0
     }
 
+    #todo fix when blockquote is added into BlogWriter.awk
+    # and this situation occurs:
+    # `<blockquote></ul>`
+    # only when this is fixed we can think about formatting
+    # epubs with blockquote equivalent
     if( line ~ /^>/ ) {
       sub(/^> ?/, "", line)
       ContentType = "blockquote"
@@ -135,7 +135,7 @@ function FlushContentState(slug,    lastLine)
   delete NewPost
 }
 
-function CopyNewPost(    slug, tags, post, i, j)
+function CopyNewPost(    slug, tags, i, j)
 {
   slug = NewPost["slug"]
   PostSlugByPosition[++Posts] = slug
