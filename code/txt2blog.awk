@@ -205,6 +205,7 @@ function FlushPosts(    position, slug)
   for( position in PostSlugByPosition ) {
     slug = PostSlugByPosition[position]
     if( !("date" in Index[slug]) ) {
+      print "skipping", slug
       continue
     }
     FlushPost(slug)
