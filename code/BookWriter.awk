@@ -1,15 +1,8 @@
-# Transform pseudo-markdown text to epub book.
+# Transform parsed text to epub posts book.
 # Wanderley Caloni <wanderley.caloni@gmail.com>
 # 2024-11-14
 
 #include util.awk
-
-BEGIN {
-  Book["title"] = "Blogue do Caloni: Programação, Depuração, Transpiração"
-  Book["author"] = "Wanderley Caloni"
-  Book["publisher"] = "Caloni"
-  "date" | getline Book["date"]
-}
 
 function FormatContent(line, lastLine,    prefix, suffix, paragraph, newLine, headerLevel, endName, name, link)
 {
@@ -96,7 +89,7 @@ function FormatContent(line, lastLine,    prefix, suffix, paragraph, newLine, he
 
     if( match($0, /^!\[([^]]*)\]\( *([^" )]+) *"?([^"]*)?"?\)/, a) ) {
       NewPost["image"] = a[2]
-      g_postImages[a[2]] = a[2]
+      PostsImages[a[2]] = a[2]
       line = "<img src=\"img/" a[2] "\"/>"
       ContentType = "img"
       break
@@ -122,164 +115,72 @@ function FormatContent(line, lastLine,    prefix, suffix, paragraph, newLine, he
   return newLine
 }
 
-
-function FormatContentOld(   content)
-{
-  prefix = "\n"
-  suffix = ""
-  paragraph = 1
-
-  do {
-
-    if( content ~ /^\[[^]]+\]:/ ) {
-      endName = index(content, ":")
-      name = substr(content, 2, endName - 3)
-      link = substr(content, endName + 2)
-
-      if( link ~ /[a-z]:\/\// ) {
-        link = "<a href=\"" link "\">" name "</a>"
-      }
-      else {
-        link = gensub(/(.*)/, "index.xhtml", "g", link)
-        link = "<a href=\"" link "\">" name "</a>"
-      }
-
-      links[name] = link
-      content = ""
-      break
-    }
-
-    if( match($0, /^!\[([^]]*)\]\( *([^" )]+) *"?([^"]*)?"?\)/, a) ) {
-      newImage = a[2]
-      g_postImages[newImage] = newImage
-      content = "<img src=\"img/" a[2] "\"/>"
-      break
-    }
-
-    gsub(/&/, "&amp;", content)
-    gsub(/</, "\\&lt;", content)
-    gsub(/>/, "\\&gt;", content)
-    content = gensub(/\[([^&]]+)\]\(([^)]+)\)/, "<a href=\"\\2\">\\1</a>", "g", content)
-
-    if( paragraph ) {
-      content = "<p>" content "</p>"
-    }
-
-  } while( 0 )
-
-  return prefix content suffix
-}
-
-
-function FlushContentState(    lastLine)
+function FlushContentState(slug,    lastLine)
 {
   lastLine = length(NewPost["lines"])
   if ( ContentState["-"] ) {
-    NewPost["lines"][lastLine]["content"] = NewPost["lines"][lastLine]["content"] "</ul>\n"
+    Index[slug]["lines"][lastLine]["content"] = Index[slug]["lines"][lastLine]["content"] "</ul>\n"
     ContentState["-"] = 0
   }
   delete ContentState
+  delete NewPost
 }
 
-
-function FlushNewPost(    slug, date, chapter, fchapter, tags, post)
+function CopyNewPost(    slug, tags, i, j)
 {
   slug = NewPost["slug"]
-  date = NewPost["date"]
+  PostSlugByPosition[++Posts] = slug
+  if( "link" in NewPost ) {
+    NewPost["tags"] = NewPost["tags"] " blogging"
+  }
   split(NewPost["tags"], tags)
-  post = ""
-  chapter = substr(date, 1, 7)
-  fchapter = ToId(chapter)
 
-  FlushContentState()
+  if( "date" in NewPost ) {
+    NewPost["month"] = substr(NewPost["date"], 1, 7)
+    Months[NewPost["month"]] = NewPost["month"]
+    DateSlugTitle[NewPost["date"]][slug] = NewPost["title"]
+    for( i in tags ) {
+      SlugsByTagsAndDates[tags[i]][NewPost["date"]][slug] = slug
+    }
 
-  if( slug == "" ) {
-    slug = ToSlug(NewPost["title"])
+    Index[slug]["month"] = NewPost["month"]
+    Index[slug]["date"] = NewPost["date"]
   }
-  Chapters[chapter] = chapter
-
   Index[slug]["slug"] = slug
-  Index[slug]["letter"] = substr(NewPost["title"], 1, 1)
   Index[slug]["title"] = NewPost["title"]
+  Index[slug]["link"] = NewPost["month"] ".html#" slug
+  Index[slug]["letter"] = substr(NewPost["title"], 1, 1)
+  Index[slug]["summary"] = NewPost["summary"]
   Index[slug]["tags"] = NewPost["tags"]
-  TitleToSlug[NewPost["title"]] = slug
-  TitleToChapter[NewPost["title"]] = chapter
-  for( i in tags ) {
-    TitlesByTags[tags[i]][NewPost["title"]] = NewPost["title"]
+  Index[slug]["image"] = NewPost["image"]
+  if( "update" in NewPost ) {
+    Index[slug]["update"] = NewPost["update"]
   }
-
-  if( ! (fchapter in Files) ) {
-    post = post "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n"
-    post = post "<html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:epub=\"http://www.idpf.org/2007/ops\">\n"
-    post = post "<head><meta http-equiv=\"default-style\" content=\"text/html; charset=utf-8\"/>\n"
-    post = post "<title>" ToHtml(chapter) "</title>\n"
-    post = post "<link rel=\"stylesheet\" href=\"css/stylesheet.css\" type=\"text/css\" />\n"
-    post = post "<link rel=\"stylesheet\" href=\"css/page-template.xpgt\" type=\"application/adobe-page-template+xml\" />\n"
-    post = post "</head>\n"
-    post = post "<body>\n"
-    post = post "<div class=\"body\">\n"
-    post = post "<span epub:type=\"pagebreak\" id=\"" ToId(chapter) "\" title=\"" ToHtml(chapter) "\"/>\n"
-    post = post "<h1 class=\"chapter-title\"><strong>" ToHtml(chapter) "</strong></h1>\n"
-    Files[fchapter] = fchapter
+  if( "link" in NewPost ) {
+    Index[slug]["extlink"] = NewPost["link"]
   }
-
-  if( length(NewPost["lines"]) ) {
+  if( "links" in NewPost ) {
+    for( i in NewPost["links"] ) {
+      Index[slug]["links"][i] = NewPost["links"][i]
+    }
+  }
+  if( "lines" in NewPost ) {
     for( i in NewPost["lines"] ) {
-      if( NewPost["lines"][i]["content"] != "" ) {
-        if( NewPost["lines"][i]["type"] != "pre" && NewPost["lines"][i]["type"] != "blockquote" ) {
-          if( "links" in NewPost ) {
-            for( j in NewPost["links"] ) {
-              search = "\\[" j "\\]"
-              gsub(search, NewPost["links"][j], NewPost["lines"][i]["content"])
-            }
-          }
-        }
-
-        if( NewPost["lines"][i]["type"] == "pre" ) {
-          NewPost["lines"][i]["content"] = ToHtml(NewPost["lines"][i]["content"])
-          if( NewPost["lines"][i-1]["type"] != NewPost["lines"][i]["type"] ) {
-            NewPost["lines"][i]["content"] = "<" NewPost["lines"][i]["type"] ">\n" NewPost["lines"][i]["content"]
-          }
-          if( NewPost["lines"][i+1]["type"] != NewPost["lines"][i]["type"] ) {
-            NewPost["lines"][i]["content"] = NewPost["lines"][i]["content"] "</" NewPost["lines"][i]["type"] ">\n"
-          }
-        }
+      for( j in NewPost["lines"][i] ) {
+        Index[slug]["lines"][i][j] = NewPost["lines"][i][j]
       }
     }
   }
-
-  post = post "<span epub:type=\"pagebreak\" id=\"" ToId(slug) "\" title=\"" ToHtml(NewPost["title"]) "\"/>\n"
-  post = post "<section title=\"" ToHtml(NewPost["title"]) "\" epub:type=\"bodymatter chapter\">\n"
-  post = post "<h1 class=\"chapter-subtitle\"><strong>" ToHtml(NewPost["title"]) "</strong></h1>\n"
-  post = post "<p class=\"note-title\">" date
-  for( i in tags ) {
-    post = post " <a href=\"toc" ToId(tags[i]) ".xhtml\">" tags[i] "</a>"
-  }
-  post = post "</p>\n\n"
-  if( length(NewPost["lines"]) ) {
-    for( i in NewPost["lines"] ) {
-      post = post NewPost["lines"][i]["content"]
-      #if( NewPost["lines"][i]["type"] != "pre" ) {
-      #  post = post "\n"
-      #}
-    }
-  }
-  post = post "</section>"
-
-  file = "public\\book\\EPUB\\" fchapter ".xhtml"
-  print post > file
-
-  delete NewPost
-  NewPost["date"] = date
+  TitleToSlug[NewPost["title"]] = slug
+  FlushContentState(slug)
 }
 
-
-$1 == "metadata_current_date" { Book["date"] = $2 ; next }
-$1 == "metadata_slug" { Index[$2]["link"] = $3 ; next }
+$1 == "metadata_current_date" { Settings["date"] = $2 ; next }
+$1 == "metadata_slug" { IndexMetadata[$2]["link"] = $3 ; next }
 
 /^# / && !ContentState["```"] {
   if( "title" in NewPost ) {
-    FlushNewPost()
+    CopyNewPost()
   }
   NewPost["title"] = substr($0, 3)
   NewPost["slug"] = ToSlug(NewPost["title"])
@@ -311,6 +212,105 @@ $1 == "metadata_slug" { Index[$2]["link"] = $3 ; next }
   }
 }
 
+END {
+  if( "title" in NewPost ) {
+    CopyNewPost()
+  }
+}
+
+BEGIN {
+  Book["title"] = "Blogue do Caloni: Programação, Depuração, Transpiração"
+  Book["author"] = "Wanderley Caloni"
+  Book["publisher"] = "Caloni"
+}
+
+function FlushPost(slug,    chapter, fchapter, tags, post)
+{
+  post = ""
+  chapter = Index[slug]["month"]
+  fchapter = ToId(chapter)
+  Chapters[chapter] = chapter
+  TitleToChapter[Index[slug]["title"]] = chapter
+
+  split(Index[slug]["tags"], tags)
+  for( i in tags ) {
+    TitlesByTags[tags[i]][Index[slug]["title"]] = Index[slug]["title"]
+  }
+
+  if( ! (fchapter in Files) ) {
+    post = post "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n"
+    post = post "<html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:epub=\"http://www.idpf.org/2007/ops\">\n"
+    post = post "<head><meta http-equiv=\"default-style\" content=\"text/html; charset=utf-8\"/>\n"
+    post = post "<title>" ToHtml(chapter) "</title>\n"
+    post = post "<link rel=\"stylesheet\" href=\"css/stylesheet.css\" type=\"text/css\" />\n"
+    post = post "<link rel=\"stylesheet\" href=\"css/page-template.xpgt\" type=\"application/adobe-page-template+xml\" />\n"
+    post = post "</head>\n"
+    post = post "<body>\n"
+    post = post "<div class=\"body\">\n"
+    post = post "<span epub:type=\"pagebreak\" id=\"" ToId(chapter) "\" title=\"" ToHtml(chapter) "\"/>\n"
+    post = post "<h1 class=\"chapter-title\"><strong>" ToHtml(chapter) "</strong></h1>\n"
+    Files[fchapter] = fchapter
+  }
+
+  if( length(Index[slug]["lines"]) ) {
+    for( i in Index[slug]["lines"] ) {
+      if( Index[slug]["lines"][i]["content"] != "" ) {
+        if( Index[slug]["lines"][i]["type"] != "pre" && Index[slug]["lines"][i]["type"] != "blockquote" ) {
+          if( "links" in Index[slug] ) {
+            for( j in Index[slug]["links"] ) {
+              search = "\\[" j "\\]"
+              gsub(search, Index[slug]["links"][j], Index[slug]["lines"][i]["content"])
+            }
+          }
+        }
+
+        if( Index[slug]["lines"][i]["type"] == "pre" ) {
+          Index[slug]["lines"][i]["content"] = ToHtml(Index[slug]["lines"][i]["content"])
+          if( Index[slug]["lines"][i-1]["type"] != Index[slug]["lines"][i]["type"] ) {
+            Index[slug]["lines"][i]["content"] = "<" Index[slug]["lines"][i]["type"] ">\n" Index[slug]["lines"][i]["content"]
+          }
+          if( Index[slug]["lines"][i+1]["type"] != Index[slug]["lines"][i]["type"] ) {
+            Index[slug]["lines"][i]["content"] = Index[slug]["lines"][i]["content"] "</" Index[slug]["lines"][i]["type"] ">\n"
+          }
+        }
+      }
+    }
+  }
+
+  post = post "<span epub:type=\"pagebreak\" id=\"" ToId(slug) "\" title=\"" ToHtml(Index[slug]["title"]) "\"/>\n"
+  post = post "<section title=\"" ToHtml(Index[slug]["title"]) "\" epub:type=\"bodymatter chapter\">\n"
+  post = post "<h1 class=\"chapter-subtitle\"><strong>" ToHtml(Index[slug]["title"]) "</strong></h1>\n"
+  post = post "<p class=\"note-title\">" Index[slug]["date"]
+  for( i in tags ) {
+    post = post " <a href=\"toc" ToId(tags[i]) ".xhtml\">" tags[i] "</a>"
+  }
+  post = post "</p>\n\n"
+  if( length(Index[slug]["lines"]) ) {
+    for( i in Index[slug]["lines"] ) {
+      post = post Index[slug]["lines"][i]["content"]
+      #if( Index[slug]["lines"][i]["type"] != "pre" ) {
+      #  post = post "\n"
+      #}
+    }
+  }
+  post = post "</section>"
+
+  file = "public\\book\\EPUB\\" fchapter ".xhtml"
+  print post > file
+}
+
+function FlushPosts(    position, slug)
+{
+  PROCINFO["sorted_in"] = "@ind_num_asc"
+  for( position in PostSlugByPosition ) {
+    slug = PostSlugByPosition[position]
+    if( !("date" in Index[slug]) ) {
+      print "skipping", slug
+      continue
+    }
+    FlushPost(slug)
+  }
+}
 
 function FlushPostsPages()
 {
@@ -335,7 +335,7 @@ function FlushPackage()
   print "<dc:identifier id=\"p0000000000000\">0000000000000</dc:identifier>" > package
   print "<dc:source id=\"src-id\">urn:isbn:0000000000000</dc:source>" > package
   print "<dc:language>pt-BR</dc:language>" > package
-  print "<meta property=\"dcterms:modified\">" Book["date"] "</meta>" > package
+  print "<meta property=\"dcterms:modified\">" Settings["date"] "</meta>" > package
   print "</metadata>" > package
   print "<manifest>" > package
   print "<item id=\"cover\" href=\"cover.xhtml\" media-type=\"application/xhtml+xml\"/>" > package
@@ -355,7 +355,7 @@ function FlushPackage()
     print "<item id=\"" ToId(c) "\" href=\"" ToId(c) ".xhtml\" media-type=\"application/xhtml+xml\"/>" > package
   }
   totalImages = 0
-  for( image in g_postImages ) {
+  for( image in PostsImages ) {
     if( index(image, "jpg") || index(image, "jpeg") ) {
       print "<item id=\"img-id-" ++totalImages "\" href=\"img/" image "\" media-type=\"image/jpeg\"/>" > package
     } else if( index(image, "gif") ) {
@@ -510,6 +510,9 @@ function FlushIndexPage()
   PROCINFO["sorted_in"] = "@ind_str_asc"
   currid = 2
   for( i in Index ) {
+    if( !("date" in Index[i]) ) {
+      continue
+    }
     l = ToLetter(Index[i]["letter"])
     t = Index[i]["title"]
     if( Letters[l] == "" ) {
@@ -540,10 +543,7 @@ function FlushIndexPage()
 }
 
 END {
-  if( "title" in NewPost ) {
-    FlushNewPost()
-  }
-
+  FlushPosts()
   FlushPostsPages()
   FlushPackage()
   FlushTocNcx()

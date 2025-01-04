@@ -1,4 +1,4 @@
-# Parse pseudo-markdown text to metadata.
+# Parse pseudo-markdown text to parsed text.
 # Wanderley Caloni <wanderley.caloni@gmail.com>
 # 2025-01-04
 
@@ -59,6 +59,7 @@ function FormatContent(line, lastLine,    prefix, suffix, paragraph, newLine, he
         ContentState["-"] = 0
     }
 
+    #todo remove formatting from parser
     if( line ~ /^>/ ) {
       sub(/^> ?/, "", line)
       ContentType = "blockquote"
@@ -94,6 +95,7 @@ function FormatContent(line, lastLine,    prefix, suffix, paragraph, newLine, he
 
     if( match($0, /^!\[([^]]*)\]\( *([^" )]+) *"?([^"]*)?"?\)/, a) ) {
       NewPost["image"] = a[2]
+      PostsImages[a[2]] = a[2]
       line = "<img src=\"img/" a[2] "\"/>"
       ContentType = "img"
       break
@@ -119,7 +121,7 @@ function FormatContent(line, lastLine,    prefix, suffix, paragraph, newLine, he
   return newLine
 }
 
-function FlushContentState(    slug, lastLine)
+function FlushContentState(slug,    lastLine)
 {
   lastLine = length(NewPost["lines"])
   if ( ContentState["-"] ) {
@@ -154,6 +156,7 @@ function CopyNewPost(    slug, tags, post, i, j)
   Index[slug]["slug"] = slug
   Index[slug]["title"] = NewPost["title"]
   Index[slug]["link"] = NewPost["month"] ".html#" slug
+  Index[slug]["letter"] = substr(NewPost["title"], 1, 1)
   Index[slug]["summary"] = NewPost["summary"]
   Index[slug]["tags"] = NewPost["tags"]
   Index[slug]["image"] = NewPost["image"]
@@ -179,6 +182,7 @@ function CopyNewPost(    slug, tags, post, i, j)
   FlushContentState(slug)
 }
 
+$1 == "metadata_current_date" { Settings["date"] = $2 ; next }
 $1 == "metadata_slug" { IndexMetadata[$2]["link"] = $3 ; next }
 
 /^# / && !ContentState["```"] {
