@@ -163,6 +163,9 @@ function CopyNewPost(    slug, tags, post, i, j)
     NewPost["month"] = substr(NewPost["date"], 1, 7)
     Months[NewPost["month"]] = NewPost["month"]
     DateSlugTitle[NewPost["date"]][slug] = NewPost["title"]
+    for( i in tags ) {
+      SlugsByTagsAndDates[tags[i]][NewPost["date"]][slug] = slug
+    }
 
     Index[slug]["month"] = NewPost["month"]
     Index[slug]["date"] = NewPost["date"]
@@ -193,9 +196,6 @@ function CopyNewPost(    slug, tags, post, i, j)
     }
   }
   TitleToSlug[NewPost["title"]] = slug
-  for( i in tags ) {
-    SlugsByTagsAndDates[tags[i]][NewPost["date"]][slug] = slug
-  }
   FlushContentState(slug)
 }
 
