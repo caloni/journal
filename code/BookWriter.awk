@@ -57,8 +57,7 @@ function FormatContent(line, lastLine,    prefix, suffix, paragraph, newLine, he
     #if( line ~ /^>/ ) {
     #  sub(/^> ?/, "", line)
     #  ContentType = "blockquote"
-    #  prefix = "<blockquote>"
-    #  suffix = "</blockquote>"
+    #  suffix = ""
     #  break
     #}
 
@@ -272,6 +271,8 @@ function FlushPost(slug,    chapter, fchapter, tags, post)
           if( Index[slug]["lines"][i+1]["type"] != Index[slug]["lines"][i]["type"] ) {
             Index[slug]["lines"][i]["content"] = Index[slug]["lines"][i]["content"] "</" Index[slug]["lines"][i]["type"] ">\n"
           }
+        } else if( Index[slug]["lines"][i]["type"] == "blockquote" ) {
+          Index[slug]["lines"][i]["content"] = "<p>" ToHtml("> ") ToHtml(Index[slug]["lines"][i]["content"]) "</p>\n"
         }
       }
     }
