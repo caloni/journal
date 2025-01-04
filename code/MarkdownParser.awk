@@ -59,12 +59,10 @@ function FormatContent(line, lastLine,    prefix, suffix, paragraph, newLine, he
         ContentState["-"] = 0
     }
 
-    #todo remove formatting from parser
     if( line ~ /^>/ ) {
       sub(/^> ?/, "", line)
       ContentType = "blockquote"
-      prefix = "<blockquote>"
-      suffix = "</blockquote>"
+      suffix = ""
       break
     }
 

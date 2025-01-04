@@ -55,6 +55,8 @@ function FlushPost(slug,    tags, post, i, j, file, search)
         if( Index[slug]["lines"][i+1]["type"] != Index[slug]["lines"][i]["type"] ) {
           Index[slug]["lines"][i]["content"] = Index[slug]["lines"][i]["content"] "</" Index[slug]["lines"][i]["type"] ">\n"
         }
+      } else if ( Index[slug]["lines"][i]["type"] == "blockquote") {
+          Index[slug]["lines"][i]["content"] = "<" Index[slug]["lines"][i]["type"] ">" Index[slug]["lines"][i]["content"] "</" Index[slug]["lines"][i]["type"] ">"
       } else {
         Index[slug]["lines"][i]["content"] = gensub(/\[([^\]]+)\]/, "<a href=\"posts.html?q=\\1\">\\1</a>", "g", Index[slug]["lines"][i]["content"])
       }
