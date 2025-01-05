@@ -9,10 +9,15 @@ BEGIN {
   Settings["post_header_fields"] = "date link slug tags update"
 }
 
+# Parse the current line based on lastLine and current state.
+# @param line The raw line read.
+# @param lastLine The line number read before line (accessible in NewPost["lines"][lastLine].
+# @ret If line does have contents returns lastLine + 1.
+# @ret If line does not have contents and just change state returns zero.
 function FormatContent(line, lastLine,    prefix, suffix, paragraph, newLine, headerLevel, endName, name, link)
 {
   prefix = ""
-  suffix = "\n"
+  suffix = ""
   paragraph = 1
   newLine = 0
   headerLevel = 0
@@ -22,7 +27,6 @@ function FormatContent(line, lastLine,    prefix, suffix, paragraph, newLine, he
 
   do {
     if( index(line, "```") == 1 ) {
-      line = ""
       if( ContentState["```"] ) {
         ContentState["```"] = 0
       } else {
@@ -35,7 +39,6 @@ function FormatContent(line, lastLine,    prefix, suffix, paragraph, newLine, he
     }
 
     if( line ~ /^    / ) {
-      sub(/^ /, "", line)
       if( ! ContentState[" "] ) {
         ContentState[" "] = 1
       }
@@ -48,14 +51,11 @@ function FormatContent(line, lastLine,    prefix, suffix, paragraph, newLine, he
     if( line ~ /^ *- */ ) {
       line = gensub(/ *- *(.*)/, "\\1", "g", line)
       if( ! ContentState["-"] ) {
-        prefix = prefix "<ul>"
         ContentState["-"] = 1
       }
-      prefix = prefix "<li>"
-      suffix = "</li>" suffix
+      ContentType = "list"
       paragraph = 0
     } else if ( ContentState["-"] ) {
-        prefix = "</ul>\n"
         ContentState["-"] = 0
     }
 

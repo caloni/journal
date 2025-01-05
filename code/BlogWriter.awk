@@ -48,7 +48,7 @@ function FlushPost(slug,    tags, post, i, j, file, search)
       }
 
       if( Index[slug]["lines"][i]["type"] == "pre" ) {
-        Index[slug]["lines"][i]["content"] = ToHtml(Index[slug]["lines"][i]["content"])
+        Index[slug]["lines"][i]["content"] = ToHtml(Index[slug]["lines"][i]["content"]) "\n"
         if( Index[slug]["lines"][i-1]["type"] != Index[slug]["lines"][i]["type"] ) {
           Index[slug]["lines"][i]["content"] = "<" Index[slug]["lines"][i]["type"] ">\n" Index[slug]["lines"][i]["content"]
         }
