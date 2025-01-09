@@ -3,7 +3,7 @@ import os
 
 src = r'k:\documents\My Clippings.txt'
 dst = os.path.join(os.getcwd(), 'clippings.txt')
-vim = os.path.join(os.getcwd(), 'scripts', 'edits.so')
+vim = os.path.join(os.getcwd(), 'code', 'edits.so')
 
 lines = []
 if os.path.exists(src):
