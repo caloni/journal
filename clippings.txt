@@ -7884,3 +7884,853 @@ There is no such thing as an inherently good or bad architecture. Architectures 
 
 One of the messages of this book is that architectures can, in fact, be evaluated—one of the great benefits of paying attention to them—but such evaluation only makes sense in the context of specific stated goals.
 ==========
+Um químico na cozinha (Haumont, Raphaël)
+- Your Highlight on page 8 | location 117-119 | Added on Thursday, 28 November 2024 23:20:12
+
+Vidro e caramelo são sólidos amorfos, que podem ser representados como líquidos solidificados, desordenados: assim, sua estrutura interna não permite um movimento coletivo. Sob tensão, as forças de ligação se rompem e, macroscopicamente, a matéria quebra.
+==========
+﻿McKenzie Wark - A Hacker Manifesto-Harvard University Press (Mckenzie Wark)
+- Your Highlight on page 9 | location 73-74 | Added on Monday, 2 December 2024 23:37:44
+
+Hackers use their knowledge and their wits to maintain their autonomy. Some take the money and run. (We must live with our compromises.) Some refuse to compromise. (We live as best we can.)
+==========
+﻿McKenzie Wark - A Hacker Manifesto-Harvard University Press (Mckenzie Wark)
+- Your Highlight on page 9 | location 71-72 | Added on Monday, 2 December 2024 23:38:08
+
+We do not own what we produce—it owns us.
+==========
+﻿McKenzie Wark - A Hacker Manifesto-Harvard University Press (Mckenzie Wark)
+- Your Highlight on page 9 | location 67-68 | Added on Monday, 2 December 2024 23:38:32
+
+Hackers create the possibility of new things entering the world. Not always great things, or even good things, but new things.
+==========
+﻿McKenzie Wark - A Hacker Manifesto-Harvard University Press (Mckenzie Wark)
+- Your Highlight on page 10 | location 81-83 | Added on Monday, 2 December 2024 23:40:11
+
+The slogan of the hacker class is not the workers of the world united, but the workings of the world untied.
+==========
+﻿Head First Software Architecture (Raju Gandhi, Mark Richards;Neal Ford)
+- Your Highlight at location 56-57 | Added on Wednesday, 4 December 2024 23:14:52
+
+Using the space below, can you describe how planning a garden might relate to software architecture?
+==========
+﻿Head First Software Architecture (Raju Gandhi, Mark Richards;Neal Ford)
+- Your Note at location 56 | Added on Wednesday, 4 December 2024 23:17:39
+
+Dispose plants that need more sunshine than others. To organize by water needs. Separate rhe problematic ones. To give a nice look by putting the prettiest one in the front.
+==========
+﻿Head First Software Architecture (Raju Gandhi, Mark Richards;Neal Ford)
+- Your Highlight at location 65-66 | Added on Wednesday, 4 December 2024 23:17:52
+
+What features of your home can you list that are structural and related to its architecture?
+==========
+﻿Head First Software Architecture (Raju Gandhi, Mark Richards;Neal Ford)
+- Your Note at location 66 | Added on Wednesday, 4 December 2024 23:20:13
+
+The walls are structural. The living room gives axxess to all other parts. The plumbing connects to the wet parts. There are windows to allow ventilation.
+==========
+﻿Head First Software Architecture (Raju Gandhi, Mark Richards;Neal Ford)
+- Your Highlight at location 122-123 | Added on Wednesday, 4 December 2024 23:28:36
+
+Check the things you think might be considered architectural characteristics—something that the structure of the software system supports.
+==========
+﻿Head First Software Architecture (Raju Gandhi, Mark Richards;Neal Ford)
+- Your Note at location 123 | Added on Wednesday, 4 December 2024 23:30:15
+
+Access scalability. Database integrity. Flexible customization. Access security.
+==========
+﻿Head First Software Architecture (Raju Gandhi, Mark Richards;Neal Ford)
+- Your Highlight at location 131-132 | Added on Wednesday, 4 December 2024 23:34:13
+
+Collectively, things like performance, scalability, reliability, and availability are also known as non-functional requirements,
+==========
+﻿Head First Software Architecture (Raju Gandhi, Mark Richards;Neal Ford)
+- Your Highlight at location 156-157 | Added on Wednesday, 4 December 2024 23:38:42
+
+Decisions are structural guides for dev teams Significant trade-offs are mostly their themes
+==========
+﻿Head First Software Architecture (Raju Gandhi, Mark Richards;Neal Ford)
+- Your Highlight at location 177-178 | Added on Wednesday, 4 December 2024 23:42:08
+
+A logical component should always have a well-defined role and responsibility in the system—in other words, what it does.
+==========
+﻿Head First Software Architecture (Raju Gandhi, Mark Richards;Neal Ford)
+- Your Highlight at location 180-181 | Added on Wednesday, 4 December 2024 23:42:53
+
+Logical components are blocks in conjunction They hold the source code for each business function
+==========
+﻿Head First Software Architecture (Raju Gandhi, Mark Richards;Neal Ford)
+- Your Highlight at location 184-186 | Added on Wednesday, 4 December 2024 23:43:30
+
+The domain is the problem you are trying to solve, and the system functionality is how you are solving that problem. In other words, the domain is the “what,” and the system’s functionality is the “how.”
+==========
+﻿Head First Software Architecture (Raju Gandhi, Mark Richards;Neal Ford)
+- Your Highlight at location 226-227 | Added on Wednesday, 4 December 2024 23:50:12
+
+Think about a typical website . The architecture, or structure, is all about how the web pages communicate with backend services and databases to retrieve and save data, whereas design is all about what each page looks like: the colors, the placement of the fields, and so on.
+==========
+﻿Head First Software Architecture (Raju Gandhi, Mark Richards;Neal Ford)
+- Your Highlight at location 238-240 | Added on Wednesday, 4 December 2024 23:53:17
+
+Unlike design, architecture is about the physical structure of the system—things like services, databases, and how services communicate with each other and to the user interface.
+==========
+﻿Head First Software Architecture (Raju Gandhi, Mark Richards;Neal Ford)
+- Your Highlight at location 245-246 | Added on Friday, 6 December 2024 00:03:08
+
+Check all of the things that should be included in a diagram from an architectural perspective.
+==========
+﻿Head First Software Architecture (Raju Gandhi, Mark Richards;Neal Ford)
+- Your Note at location 246 | Added on Friday, 6 December 2024 00:06:43
+
+Components communication. Non functional characteristics. Database access.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 278-279 | Added on Friday, 6 December 2024 23:19:30
+
+A good architecture comes from understanding it more as a journey than as a destination, more as an ongoing process of enquiry than as a frozen artifact.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 397-398 | Added on Friday, 6 December 2024 23:34:20
+
+The goal of software architecture is to minimize the human resources required to build and maintain the required system.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 399-401 | Added on Friday, 6 December 2024 23:35:21
+
+The measure of design quality is simply the measure of the effort required to meet the needs of the customer. If that effort is low, and stays low throughout the lifetime of the system, the design is good. If that effort grows with each new release, the design is bad. It’s as simple as that.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 493-494 | Added on Monday, 9 December 2024 23:30:20
+
+Software was invented to be “soft.” It was intended to be a way to easily change the behavior of machines. If we’d wanted the behavior of machines to be hard to change, we would have called it hardware.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 504-505 | Added on Monday, 9 December 2024 23:33:07
+
+The more this architecture prefers one shape over another, the more likely new features will be harder and harder to fit into that structure. Therefore architectures should be as shape agnostic are practical.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 510-513 | Added on Monday, 9 December 2024 23:34:31
+
+If you give me a program that works perfectly but is impossible to change, then it won’t work when the requirements change, and I won’t be able to make it work. Therefore the program will become useless. • If you give me a program that does not work but is easy to change, then I can make it work, and keep it working as requirements change. Therefore the program will remain continually useful.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 526-527 | Added on Monday, 9 December 2024 23:37:41
+
+The first value of software—behavior—is urgent but not always particularly important. The second value of software—architecture—is important but never particularly urgent.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 542-543 | Added on Monday, 9 December 2024 23:41:42
+
+Remember, as a software developer, you are a stakeholder. You have a stake in the software that you need to safeguard. That’s part of your role, and part of your duty. And it’s a big part of why you were hired.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 572-572 | Added on Monday, 9 December 2024 23:47:02
+
+Structured programming imposes discipline on direct transfer of control.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 578-579 | Added on Monday, 9 December 2024 23:48:35
+
+Object-oriented programming imposes discipline on indirect transfer of control.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 586-587 | Added on Monday, 9 December 2024 23:50:01
+
+Functional programming imposes discipline upon assignment.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 596-598 | Added on Monday, 9 December 2024 23:52:25
+
+We use polymorphism as the mechanism to cross architectural boundaries; we use functional programming to impose discipline on the location of and access to data; and we use structured programming as the algorithmic foundation of our modules. Notice how well those three align with the three big concerns of architecture: function, separation of components, and data management.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 604-606 | Added on Monday, 9 December 2024 23:53:23
+
+In 1955, having been a programmer for three years, and while still a student, Dijkstra concluded that the intellectual challenge of programming was greater than the intellectual challenge of theoretical physics. As a result, he chose programming as his long-term career.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 646-647 | Added on Tuesday, 10 December 2024 00:14:08
+
+Nowadays we are all structured programmers, though not necessarily by choice. It’s just that our languages don’t give us the option to use undisciplined direct transfer of control.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 675-676 | Added on Tuesday, 10 December 2024 00:21:00
+
+Ultimately, we can say that mathematics is the discipline of proving provable statements true. Science, in contrast, is the discipline of proving provable statements false.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 749-751 | Added on Tuesday, 10 December 2024 00:34:56
+
+OO certainly does depend on the idea that programmers are well-behaved enough to not circumvent encapsulated data. Even so, the languages that claim to provide OO have only weakened the once perfect encapsulation we enjoyed with C.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 861-863 | Added on Tuesday, 10 December 2024 00:52:36
+
+Note, however, that the source code dependency (the inheritance relationship) between ML1 and the interface I points in the opposite direction compared to the flow of control. This is called dependency inversion, and its implications for the software architect are profound.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 866-867 | Added on Tuesday, 10 December 2024 00:53:54
+
+With this approach, software architects working in systems written in OO languages have absolute control over the direction of all source code dependencies in the system.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 963-964 | Added on Tuesday, 10 December 2024 01:17:55
+
+Architects would be wise to push as much processing as possible into the immutable components, and to drive as much code as possible out of those components that must allow mutation.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 990-992 | Added on Tuesday, 10 December 2024 01:23:46
+
+With that realization, we have to face an unwelcome fact: Software is not a rapidly advancing technology. The rules of software are the same today as they were in 1946, when Alan Turing wrote the very first code that would execute in an electronic computer. The tools have changed, and the hardware has changed, but the essence of software remains the same.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 992-993 | Added on Tuesday, 10 December 2024 01:24:12
+
+Software—the stuff of computer programs—is composed of sequence, selection, iteration, and indirection. Nothing more. Nothing less.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 1017-1018 | Added on Tuesday, 10 December 2024 23:49:53
+
+The best structure for a software system is heavily influenced by the social structure of the organization that uses it so that each software module has one, and only one, reason to change.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 1020-1021 | Added on Tuesday, 10 December 2024 23:51:02
+
+The gist is that for software systems to be easy to change, they must be designed to allow the behavior of those systems to be changed by adding new code, rather than changing existing code.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 1022-1024 | Added on Tuesday, 10 December 2024 23:51:50
+
+In short, this principle says that to build software systems from interchangeable parts, those parts must adhere to a contract that allows those parts to be substituted one for another.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 1025-1025 | Added on Tuesday, 10 December 2024 23:52:13
+
+This principle advises software designers to avoid depending on things that they don’t use.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 1027-1028 | Added on Tuesday, 10 December 2024 23:52:30
+
+The code that implements high-level policy should not depend on the code that implements low-level details. Rather, details should depend on policies.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 1044-1045 | Added on Tuesday, 10 December 2024 23:55:06
+
+A module should have one, and only one, reason to change.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 1047-1048 | Added on Tuesday, 10 December 2024 23:55:28
+
+A module should be responsible to one, and only one, user or stakeholder.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 1051-1052 | Added on Tuesday, 10 December 2024 23:55:55
+
+A module should be responsible to one, and only one, actor.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 1055-1055 | Added on Tuesday, 10 December 2024 23:56:45
+
+Cohesion is the force that binds together the code responsible to a single actor.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 1118-1118 | Added on Wednesday, 11 December 2024 00:06:27
+
+A software artifact should be open for extension but closed for modification.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 1155-1156 | Added on Wednesday, 11 December 2024 00:28:57
+
+We want to protect the Controller from changes in the Presenters. We want to protect the Presenters from changes in the Views. We want to protect the Interactor from changes in—well, anything. The
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 1155-1156 | Added on Wednesday, 11 December 2024 00:29:06
+
+We want to protect the Controller from changes in the Presenters. We want to protect the Presenters from changes in the Views. We want to protect the Interactor from changes in—well, anything.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 1162-1165 | Added on Wednesday, 11 December 2024 00:31:18
+
+Notice how this creates a hierarchy of protection based on the notion of “level.” Interactors are the highest-level concept, so they are the most protected. Views are among the lowest-level concepts, so they are the least protected. Presenters are higher level than Views, but lower level than the Controller or the Interactor.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 1180-1182 | Added on Wednesday, 11 December 2024 00:37:18
+
+The goal is to make the system easy to extend without incurring a high impact of change. This goal is accomplished by partitioning the system into components, and arranging those components into a dependency hierarchy that protects higher-level components from changes in lower-level components.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 1188-1191 | Added on Wednesday, 11 December 2024 00:40:11
+
+What is wanted here is something like the following substitution property: If for each object o1 of type S there is an object o2 of type T such that for all programs P defined in terms of T, the behavior of P is unchanged when o1 is substituted for o2 then S is a subtype of T.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 1299-1300 | Added on Wednesday, 11 December 2024 01:00:17
+
+The Dependency Inversion Principle (DIP) tells us that the most flexible systems are those in which source code dependencies refer only to abstractions, not to concretions.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 1313-1315 | Added on Wednesday, 11 December 2024 01:02:54
+
+Every change to an abstract interface corresponds to a change to its concrete implementations. Conversely, changes to concrete implementations do not always, or even usually, require changes to the interfaces that they implement. Therefore interfaces are less volatile than implementations.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 1363-1364 | Added on Wednesday, 11 December 2024 23:23:52
+
+Components are the units of deployment. They are the smallest entities that can be deployed as part of a system.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 1471-1472 | Added on Wednesday, 11 December 2024 23:48:20
+
+People who want to reuse software components cannot, and will not, do so unless those components are tracked through a release process and are given release numbers.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 1488-1490 | Added on Wednesday, 11 December 2024 23:53:38
+
+PRINCIPLE Gather into components those classes that change for the same reasons and at the same times. Separate
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 1489-1490 | Added on Wednesday, 11 December 2024 23:53:43
+
+Gather into components those classes that change for the same reasons and at the same times. Separate into different components those classes that change at different times and for different reasons.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 1507-1508 | Added on Wednesday, 11 December 2024 23:58:04
+
+Gather together those things that change at the same times and for the same reasons. Separate those things that change at different times or for different reasons.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 1510-1510 | Added on Wednesday, 11 December 2024 23:58:35
+
+Don’t force users of a component to depend on things they don’t need.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 1530-1530 | Added on Thursday, 12 December 2024 00:02:07
+
+Don’t depend on things you don’t need.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 1525-1525 | Added on Thursday, 12 December 2024 23:11:14
+
+Therefore the CRP tells us more about which
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 1526-1527 | Added on Thursday, 12 December 2024 23:11:21
+
+The CRP says that classes that are not tightly bound to each other should not be in the same component.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 1532-1534 | Added on Friday, 13 December 2024 23:43:02
+
+The REP and CCP are inclusive principles: Both tend to make components larger. The CRP is an exclusive principle, driving components to be smaller. It is the tension between these principles that good architects seek to resolve.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 1537-1538 | Added on Friday, 13 December 2024 23:45:58
+
+Cohesion principles tension diagram
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 1560-1560 | Added on Saturday, 14 December 2024 22:46:06
+
+Allow no cycles in the component dependency graph.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 1597-1598 | Added on Saturday, 14 December 2024 23:00:07
+
+Regardless of which component you begin at, it is impossible to follow the dependency relationships and wind up back at that component. This structure has no cycles. It is a directed acyclic graph (DAG).
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 1672-1673 | Added on Saturday, 14 December 2024 23:09:19
+
+By conforming to the Stable Dependencies Principle (SDP), we ensure that modules that are intended to be easy to change are not depended on by modules that are harder to change.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 1681-1682 | Added on Saturday, 14 December 2024 23:11:56
+
+One sure way to make a software component difficult to change, is to make lots of other software components depend on it.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 1714-1716 | Added on Saturday, 14 December 2024 23:19:33
+
+The SDP says that the I metric of a component should be larger than the I metrics of the components that it depends on. That is, I metrics should decrease in the direction of dependency.
+==========
+﻿Wired to Eat - Robb Wolf (Robb Wolf)
+- Your Highlight on page 133 | location 2031-2032 | Added on Wednesday, 18 December 2024 01:02:15
+
+We want metabolic flexibility, and encouraging the growth and health of mitochondria via exercise, and occasional bouts of fasting and/or ketosis, is a fantastic way to facilitate this.
+==========
+﻿Wired to Eat - Robb Wolf (Robb Wolf)
+- Your Highlight on page 133 | location 2035-2037 | Added on Wednesday, 18 December 2024 01:04:30
+
+Most days: Get out and move. As much as you can, doing as many things as you can. You don’t need to exhaust yourself. Make it fun and “leave a little in the tank” so you are not so tired and sore that you either do nothing for a week or give up entirely. A good goal to shoot for is 10,000 steps,
+==========
+﻿Wired to Eat - Robb Wolf (Robb Wolf)
+- Your Highlight on page 134 | location 2043-2044 | Added on Wednesday, 18 December 2024 01:06:01
+
+A few days per week, do a full-body resistance training program. This could be weights or just calisthenics using your own body weight.
+==========
+﻿Wired to Eat - Robb Wolf (Robb Wolf)
+- Your Highlight on page 134 | location 2051-2052 | Added on Wednesday, 18 December 2024 01:06:29
+
+Occasionally get a little “froggy” with your movement. If you have mainly been walking, find a hill or steep incline and power up the hill at a good clip.
+==========
+﻿Wired to Eat - Robb Wolf (Robb Wolf)
+- Your Highlight on page 134 | location 2057-2059 | Added on Wednesday, 18 December 2024 01:07:49
+
+What you are effectively doing here is sprint interval training. Research has shown that short intervals can get you into fantastic cardiovascular shape while also increasing mitochondrial density.
+==========
+﻿Wired to Eat - Robb Wolf (Robb Wolf)
+- Your Highlight on page 135 | location 2059-2059 | Added on Wednesday, 18 December 2024 01:08:10
+
+A few days each week, do some kind of stretching or yoga.
+==========
+﻿Wired to Eat - Robb Wolf (Robb Wolf)
+- Your Highlight on page 135 | location 2068-2069 | Added on Wednesday, 18 December 2024 01:09:06
+
+You do not need pills, potions, or tons of gear to get in really good shape. What you do need to do is find things you like and consistently play at those activities.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 1748-1749 | Added on Wednesday, 18 December 2024 23:27:43
+
+A component should be as abstract as it is stable.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 1758-1758 | Added on Wednesday, 18 December 2024 23:29:15
+
+The Stable Abstractions Principle (SAP) sets up a relationship between stability and abstractness.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 1762-1764 | Added on Wednesday, 18 December 2024 23:30:45
+
+The SAP and the SDP combined amount to the DIP for components. This is true because the SDP says that dependencies should run in the direction of stability, and the SAP says that stability implies abstraction. Thus dependencies run in the direction of abstraction.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 1789-1791 | Added on Wednesday, 18 December 2024 23:36:34
+
+Some software entities do, in fact, fall within the Zone of Pain. An example would be a database schema. Database schemas are notoriously volatile, extremely concrete, and highly depended on. This is one reason why the interface between OO applications and databases is so difficult to manage, and why schema updates are generally painful.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 1860-1862 | Added on Thursday, 19 December 2024 23:07:37
+
+However, the architecture of a system has very little bearing on whether that system works. There are many systems out there, with terrible architectures, that work just fine. Their troubles do not lie in their operation; rather, they occur in their deployment, maintenance, and ongoing development.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 1865-1867 | Added on Thursday, 19 December 2024 23:08:12
+
+The primary purpose of architecture is to support the life cycle of the system. Good architecture makes the system easy to understand, easy to develop, easy to maintain, and easy to deploy. The ultimate goal is to minimize the lifetime cost of the system and to maximize programmer productivity.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 1901-1903 | Added on Thursday, 19 December 2024 23:13:46
+
+The primary cost of maintenance is in spelunking and risk. Spelunking is the cost of digging through the existing software, trying to determine the best place and the best strategy to add a new feature or to repair a defect. While making such changes, the likelihood of creating inadvertent defects is always there, adding to the cost of risk.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 1908-1909 | Added on Thursday, 19 December 2024 23:15:00
+
+Software was invented because we needed a way to quickly and easily change the behavior of machines. But that flexibility depends critically on the shape of the system, the arrangement of its components, and the way those components are interconnected.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 1910-1911 | Added on Thursday, 19 December 2024 23:15:20
+
+The way you keep software soft is to leave as many options open as possible, for as long as possible. What are the options that we need to leave open? They are the details that don’t matter.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 1915-1917 | Added on Thursday, 19 December 2024 23:16:21
+
+The goal of the architect is to create a shape for the system that recognizes policy as the most essential element of the system while making the details irrelevant to that policy. This allows decisions about those details to be delayed and deferred.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 1927-1929 | Added on Thursday, 19 December 2024 23:18:43
+
+If you can develop the high-level policy without committing to the details that surround it, you can delay and defer decisions about those details for a long time. And the longer you wait to make those decisions, the more information you have with which to make them properly.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 1935-1936 | Added on Thursday, 19 December 2024 23:20:01
+
+A good architect pretends that the decision has not been made, and shapes the system such that those decisions can still be deferred or changed for as long as possible.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 1936-1937 | Added on Thursday, 19 December 2024 23:20:07
+
+A good architect maximizes the number of decisions not made.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 2035-2036 | Added on Friday, 20 December 2024 23:13:53
+
+Conway’s law says: Any organization that designs a system will produce a design whose structure is a copy of the organization’s communication structure.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 2057-2059 | Added on Friday, 20 December 2024 23:18:50
+
+So the architect can employ the Single Responsibility Principle and the Common Closure Principle to separate those things that change for different reasons, and to collect those things that change for the same reasons—given the context of the intent of the system.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 2068-2069 | Added on Friday, 20 December 2024 23:21:57
+
+Thus we find the system divided into decoupled horizontal layers—the UI, application-specific business rules, application-independent business rules, and the database, just to mention a few.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 2072-2074 | Added on Friday, 20 December 2024 23:22:12
+
+At the same time, use cases are narrow vertical slices that cut through the horizontal layers of the system. Each use case uses some UI, some application-specific business rules, some application-independent business rules, and some database functionality.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 2106-2107 | Added on Friday, 20 December 2024 23:28:10
+
+If two apparently duplicated sections of code evolve along different paths—if they change at different rates, and for different reasons—then they are not true duplicates.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 2107-2108 | Added on Friday, 20 December 2024 23:28:20
+
+Return to them in a few years, and you’ll find that they are very different from each other.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 2115-2117 | Added on Friday, 20 December 2024 23:29:46
+
+You may be tempted to simply pass the database record up to the UI, rather than to create a view model that looks the same and copy the elements across. Be careful: This duplication is almost certainly accidental.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 2147-2149 | Added on Friday, 20 December 2024 23:35:36
+
+A good architecture will allow a system to be born as a monolith, deployed in a single file, but then to grow into a set of independently deployable units, and then all the way to independent services and/or micro-services. Later, as things change, it should allow for reversing that progression and sliding all the way back down into a monolith.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 2245-2246 | Added on Friday, 20 December 2024 23:56:39
+
+You draw lines between things that matter and things that don’t.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 2271-2273 | Added on Saturday, 21 December 2024 00:04:12
+
+The Database component contains the code that translates the calls made by the BusinessRules into the query language of the database. It is that translation code that knows about the BusinessRules.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 2275-2275 | Added on Saturday, 21 December 2024 00:05:29
+
+The Database component could be replaced with many different implementations—the BusinessRules don’t care.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 2276-2278 | Added on Saturday, 21 December 2024 00:06:12
+
+The business rules don’t care at all. And that means that the database decision can be deferred and you can focus on getting the business rules written and tested before you have to make the database decision.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 2280-2281 | Added on Saturday, 21 December 2024 00:06:58
+
+They define a system in terms of the GUI, so they believe that they should see the GUI start working immediately. They fail to realize a critically important principle: The IO is irrelevant.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 2283-2285 | Added on Saturday, 21 December 2024 00:07:37
+
+You forget that behind that interface there is a model—a sophisticated set of data structures and functions—driving it. More importantly, that model does not need the interface. It would happily execute its duties, modeling all the events in the game, without the game ever being displayed on the screen. The interface does not matter to the model—the business rules.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 2286-2287 | Added on Saturday, 21 December 2024 00:08:12
+
+Once again, we see that the less relevant component depends on the more relevant component.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 2295-2297 | Added on Saturday, 21 December 2024 00:10:14
+
+Indeed, the history of software development technology is the story of how to conveniently create plugins to establish a scalable and maintainable system architecture. The core business rules are kept separate from, and independent of, those components that are either optional or that can be implemented in many different forms
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 2322-2323 | Added on Saturday, 21 December 2024 00:15:59
+
+This is simply the Single Responsibility Principle again. The SRP tells us where to draw our boundaries.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 2327-2328 | Added on Saturday, 21 December 2024 00:16:40
+
+You should recognize this as an application of the Dependency Inversion Principle and the Stable Abstractions Principle. Dependency arrows are arranged to point from lower-level details to higher-level abstractions.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 2415-2416 | Added on Friday, 27 December 2024 23:37:14
+
+Software systems are statements of policy. Indeed, at its core, that’s all a computer program actually is. A computer program is a detailed description of the policy by which inputs are transformed into outputs.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 2419-2422 | Added on Friday, 27 December 2024 23:38:08
+
+Part of the art of developing a software architecture is carefully separating those policies from one another, and regrouping them based on the ways that they change. Policies that change for the same reasons, and at the same times, are at the same level and belong together in the same component. Policies that change for different reasons, or at different times, are at different levels and should be separated into different components.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 2422-2424 | Added on Friday, 27 December 2024 23:38:35
+
+The art of architecture often involves forming the regrouped components into a directed acyclic graph. The nodes of the graph are the components that contain policies at the same level. The directed edges are the dependencies between those components. They connect components that are at different levels.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 2428-2429 | Added on Friday, 27 December 2024 23:39:52
+
+A strict definition of “level” is “the distance from the inputs and outputs.”
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 2438-2438 | Added on Friday, 27 December 2024 23:45:27
+
+We want source code dependencies to be decoupled from data flow and coupled to level.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 1669-1670 | Added on Saturday, 28 December 2024 00:21:28
+
+Any component that we expect to be volatile should not be depended on by a component that is difficult to change. Otherwise, the volatile component will also be difficult to change.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 2473-2475 | Added on Saturday, 28 December 2024 00:31:05
+
+Strictly speaking, business rules are rules or procedures that make or save the business money. Very strictly speaking, these rules would make or save the business money, irrespective of whether they were implemented on a computer. They would make or save money even if they were executed manually.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 2483-2485 | Added on Saturday, 28 December 2024 00:33:31
+
+An Entity is an object within our computer system that embodies a small set of critical business rules operating on Critical Business Data. The Entity object either contains the Critical Business Data or has very easy access to that data. The interface of the Entity consists of the functions that implement the Critical Business Rules that operate on that data.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 2503-2505 | Added on Saturday, 28 December 2024 00:38:35
+
+A use case is a description of the way that an automated system is used. It specifies the input to be provided by the user, the output to be returned to the user, and the processing steps involved in producing that output. A use case describes application-specific business rules as opposed to the Critical Business Rules within the Entities.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 2509-2510 | Added on Saturday, 28 December 2024 00:39:58
+
+Use cases contain the rules that specify how and when the Critical Business Rules within the Entities are invoked. Use cases control the dance of the Entities.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 2517-2519 | Added on Saturday, 28 December 2024 00:41:26
+
+Entities have no knowledge of the use cases that control them. This is another example of the direction of the dependencies following the Dependency Inversion Principle. High-level concepts, such as Entities, know nothing of lower-level concepts, such as use cases. Instead, the lower-level use cases know about the higher-level Entities.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 2529-2533 | Added on Saturday, 28 December 2024 00:43:45
+
+You might be tempted to have these data structures contain references to Entity objects. You might think this makes sense because the Entities and the request/response models share so much data. Avoid this temptation! The purpose of these two objects is very different. Over time they will change for very different reasons, so tying them together in any way violates the Common Closure and Single Responsibility Principles. The result would be lots of tramp data, and lots of conditionals in your code.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 2559-2560 | Added on Saturday, 28 December 2024 00:48:09
+
+Good architectures are centered on use cases so that architects can safely describe the structures that support those use cases without committing to frameworks, tools, and environments.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 2579-2579 | Added on Saturday, 28 December 2024 00:50:58
+
+Develop a strategy that prevents the framework from taking over that architecture.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 2580-2582 | Added on Saturday, 28 December 2024 00:56:17
+
+If your system architecture is all about the use cases, and if you have kept your frameworks at arm’s length, then you should be able to unit-test all those use cases without any of the frameworks in place.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 2615-2616 | Added on Saturday, 28 December 2024 01:01:55
+
+The overriding rule that makes this architecture work is the Dependency Rule: Source code dependencies must point only inward, toward higher-level policies.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 2636-2637 | Added on Sunday, 29 December 2024 00:08:36
+
+The presenters, views, and controllers all belong in the interface adapters layer. The models are likely just data structures that are passed from the controllers to the use cases, and then back from the use cases to the presenters and views.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 2641-2642 | Added on Sunday, 29 December 2024 00:10:01
+
+Also in this layer is any other adapter necessary to convert data from some external form, such as an external service, to the internal form used by the use cases and entities.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 2645-2646 | Added on Sunday, 29 December 2024 00:10:34
+
+The frameworks and drivers layer is where all the details go. The web is a detail. The database is a detail. We keep these things on the outside where they can do little harm.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 2660-2662 | Added on Sunday, 29 December 2024 00:13:36
+
+We take advantage of dynamic polymorphism to create source code dependencies that oppose the flow of control so that we can conform to the Dependency Rule, no matter which direction the flow of control travels.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 2663-2663 | Added on Sunday, 29 December 2024 00:14:48
+
+Typically the data that crosses the boundaries consists of simple data structures.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 2664-2666 | Added on Sunday, 29 December 2024 00:15:04
+
+The important thing is that isolated, simple data structures are passed across the boundaries. We don’t want to cheat and pass Entity objects or database rows.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 2669-2670 | Added on Sunday, 29 December 2024 00:15:34
+
+Thus, when we pass data across a boundary, it is always in the form that is most convenient for the inner circle.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 2696-2698 | Added on Sunday, 29 December 2024 03:04:52
+
+The Humble Object pattern1 is a design pattern that was originally identified as a way to help unit testers to separate behaviors that are hard to test from behaviors that are easy to test.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 2703-2703 | Added on Sunday, 29 December 2024 03:07:29
+
+The View is the humble object that is hard to test.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 2704-2706 | Added on Sunday, 29 December 2024 03:07:52
+
+Presenter is the testable object. Its job is to accept data from the application and format it for presentation so that the View can simply move it to the screen.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 2715-2717 | Added on Sunday, 29 December 2024 03:11:34
+
+Anything and everything that appears on the screen, and that the application has some kind of control over, is represented in the View Model as a string, or a boolean, or an enum. Nothing is left for the View to do other than to load the data from the View Model into the screen. Thus the View is humble.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 2719-2719 | Added on Sunday, 29 December 2024 03:12:58
+
+the separation of the behaviors into testable and non-testable parts often defines an architectural boundary.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 2723-2725 | Added on Sunday, 29 December 2024 03:15:35
+
+For example, if the application needs to know the last names of all the users who logged in yesterday, then the UserGateway interface will have a method named getLastNamesOfUsersWhoLoggedInAfter that takes a Date as its argument and returns a list of last names.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 2743-2745 | Added on Sunday, 29 December 2024 03:23:04
+
+At each architectural boundary, we are likely to find the Humble Object pattern lurking somewhere nearby. The communication across that boundary will almost always involve some kind of simple data structure, and the boundary will frequently divide something that is hard to test from something that is easy to test.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 2756-2758 | Added on Sunday, 29 December 2024 03:24:46
+
+This kind of anticipatory design is often frowned upon by many in the Agile community as a violation of YAGNI: “You Aren’t Going to Need It.” Architects, however, sometimes look at the problem and think, “Yeah, but I might.” In that case, they may implement a partial boundary.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 2875-2878 | Added on Sunday, 29 December 2024 03:43:10
+
+This example is intended to show that architectural boundaries exist everywhere. We, as architects, must be careful to recognize when they are needed. We also have to be aware that such boundaries, when fully implemented, are expensive. At the same time, we have to recognize that when such boundaries are ignored, they are very expensive to add in later—even in the presence of comprehensive test-suites and refactoring discipline.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 2887-2888 | Added on Sunday, 29 December 2024 03:45:19
+
+Your goal is to implement the boundaries right at the inflection point where the cost of implementing becomes less than the cost of ignoring.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 2905-2905 | Added on Sunday, 29 December 2024 03:47:10
+
+Think of Main as the dirtiest of all the dirty components.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 2974-2976 | Added on Sunday, 29 December 2024 03:50:54
+
+The point is that Main is a dirty low-level module in the outermost circle of the clean architecture. It loads everything up for the high level system, and then hands control over to it.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 2976-2977 | Added on Sunday, 29 December 2024 03:51:43
+
+Think of Main as a plugin to the application—a
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 3097-3099 | Added on Sunday, 29 December 2024 04:10:56
+
+you can think of the tests as the outermost circle in the architecture. Nothing within the system depends on the tests, and the tests always depend inward on the components of the system.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 3112-3113 | Added on Sunday, 29 December 2024 04:13:38
+
+Fragile tests often have the perverse effect of making the system rigid. When developers realize that simple changes to the system can cause massive test failures, they may resist making those changes.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 3164-3166 | Added on Sunday, 29 December 2024 04:22:12
+
+Non-embedded engineers also write firmware! You non-embedded developers essentially write firmware whenever you bury SQL in your code or when you spread platform dependencies throughout your code.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 3192-3192 | Added on Sunday, 29 December 2024 04:27:16
+
+In The Mythical Man-Month, Fred Brooks suggests we “plan to throw one away.”
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 3195-3197 | Added on Sunday, 29 December 2024 04:29:11
+
+Programmers, embedded or not, who just concern themselves with getting their app to work are doing their products and employers a disservice. There is much more to programming than just getting an app to work.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 3242-3242 | Added on Sunday, 29 December 2024 04:35:27
+
+If the target is the only place where testing is possible, the target-hardware bottleneck will slow you down.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 3414-3416 | Added on Monday, 30 December 2024 00:38:34
+
+Many data access frameworks allow database rows and tables to be passed around the system as objects. Allowing this is an architectural error. It couples the use cases, business rules, and in some cases even the UI to the relational structure of the data.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 3483-3484 | Added on Thursday, 2 January 2025 23:27:30
+
+The organizational structure of data, the data model, is architecturally significant. The technologies and systems that move data on and off a rotating magnetic surface are not.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 3492-3493 | Added on Thursday, 2 January 2025 23:28:31
+
+The web is just the latest in a series of oscillations that our industry has gone through since the 1960s. These oscillations move back and forth between putting all the computer power in central servers and putting all computer power out at the terminals.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 3524-3526 | Added on Thursday, 2 January 2025 23:35:21
+
+Think about it this way: The WEB is an IO device. In the 1960s, we learned the value of writing applications that were device independent. The motivation for that independence has not changed. The web is not an exception to that rule.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 3576-3578 | Added on Thursday, 2 January 2025 23:42:31
+
+If the framework wants you to derive your business objects from its base classes, say no! Derive proxies instead, and keep those proxies in components that are plugins to your business rules.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 3606-3608 | Added on Thursday, 2 January 2025 23:46:57
+
+USE CASE ANALYSIS Figure 33.1 shows a typical use-case analysis. 
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 3640-3641 | Added on Thursday, 2 January 2025 23:57:00
+
+Input occurs at the controllers, and that input is processed into a result by the interactors. The presenters then format the results, and the views display those presentations.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 3644-3647 | Added on Friday, 3 January 2025 00:15:43
+
+Also notice that the using relationships (open arrows) point with the flow of control, and that the inheritance relationships (closed arrows) point against the flow of control. This depicts our use of the Open–Closed Principle to make sure that the dependencies flow in the right direction, and that changes to low-level details do not ripple upward to affect high-level policies.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 3683-3685 | Added on Friday, 3 January 2025 00:34:00
+
+as Uncle Bob has already said, a layered architecture doesn’t scream anything about the business domain. Put the code for two layered architectures, from two very different business domains, side by side and they will likely look eerily similar: web, services, and repositories.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 3762-3764 | Added on Friday, 3 January 2025 00:57:26
+
+Uncle Bob presented his definition of “component” earlier in the book, saying: Components are the units of deployment. They are the smallest entities that can be deployed as part of a system.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 3766-3767 | Added on Friday, 3 January 2025 00:58:03
+
+My definition of a component is slightly different: “A grouping of related functionality behind a nice clean interface, which resides inside an execution environment like an application.”
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 3787-3788 | Added on Friday, 3 January 2025 01:01:57
+
+Looking at this issue another way, if you make all types in your Java application public, the packages are simply an organization mechanism (a grouping, like folders), rather than being used for encapsulation.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 3848-3849 | Added on Friday, 3 January 2025 01:13:00
+
+your best design intentions can be destroyed in a flash if you don’t consider the intricacies of the implementation strategy.
+==========
+﻿Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) (Robert C. Martin)
+- Your Highlight at location 4486-4488 | Added on Monday, 6 January 2025 23:20:08
+
+You can’t make a reusable framework until you first make a usable framework. Reusable frameworks require that you build them in concert with several reusing applications.
+==========
+﻿14 Hábitos de Desenvolvedores Altamente Produtivos (Rocha, Zeno)
+- Your Highlight on page 12 | location 77-80 | Added on Monday, 6 January 2025 23:35:45
+
+Imagine que você gira o dial e está apenas captando ruído estático, mas depois de alguns segundos frustrantes, ele finalmente consegue captar um sinal e sintonizar uma estação. O sinal é a informação significativa na qual você realmente está interessado. O ruído estático é apenas a variação aleatória e indesejada que interfere no sinal. É por isso que a autoconsciência é tão importante, você precisa ser capaz de identificar qual é o sinal e o que é apenas ruído.
+==========
+﻿14 Hábitos de Desenvolvedores Altamente Produtivos (Rocha, Zeno)
+- Your Highlight on page 12 | location 80-80 | Added on Monday, 6 January 2025 23:35:53
+
+É crucial entender que o barulho sempre estará lá.
+==========
