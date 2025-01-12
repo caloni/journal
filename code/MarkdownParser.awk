@@ -9,12 +9,11 @@ BEGIN {
   Settings["post_header_fields"] = "date link slug tags update"
 }
 
-function FormatContent(line, lastLine,    prefix, suffix, paragraph, newLine, headerLevel, endName, name, link)
+function FormatContent(line,    prefix, suffix, paragraph, headerLevel, endName, name, link)
 {
   prefix = ""
   suffix = "\n"
   paragraph = 1
-  newLine = 0
   headerLevel = 0
   endName = 0
   name = ""
@@ -118,10 +117,9 @@ function FormatContent(line, lastLine,    prefix, suffix, paragraph, newLine, he
 
   } while( 0 )
 
-  newLine = lastLine + 1
-  NewPost["lines"][newLine]["content"] = prefix line suffix
-  NewPost["lines"][newLine]["type"] = ContentType
-  return newLine
+  NewPost["totalLines"] += 1
+  NewPost["lines"][NewPost["totalLines"]]["content"] = prefix line suffix
+  NewPost["lines"][NewPost["totalLines"]]["type"] = ContentType
 }
 
 function FlushContentState(slug,    lastLine)
@@ -223,9 +221,9 @@ $1 == "metadata_slug" { IndexMetadata[$2]["link"] = $3 ; next }
 }
 
 /.+/ {
-  i = FormatContent($0, NewPost["totalLines"])
-  if( i ) {
-    NewPost["totalLines"] = i
+  NewPostTotalLines = NewPost["totalLines"]
+  FormatContent($0)
+  if( NewPost["totalLines"] > NewPostTotalLines ) {
     if( length(NewPost["summary"]) < 200 ) {
       if( index($0, "{{") == 0 && index($0, "```") == 0 ) {
         NewPost["summary"] = NewPost["summary"] " " $0
