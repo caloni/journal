@@ -47,14 +47,13 @@ function FormatContent(line,    prefix, suffix, paragraph, headerLevel, endName,
     if( line ~ /^ *- */ ) {
       line = gensub(/ *- *(.*)/, "\\1", "g", line)
       if( ! ContentState["-"] ) {
-        prefix = prefix "<ul>"
         ContentState["-"] = 1
       }
-      prefix = prefix "<li>"
-      suffix = "</li>" suffix
+      suffix = ""
       paragraph = 0
+      ContentType = "list"
+      break
     } else if ( ContentState["-"] ) {
-        prefix = "</ul>\n"
         ContentState["-"] = 0
     }
 

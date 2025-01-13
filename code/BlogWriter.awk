@@ -26,7 +26,7 @@ BEGIN {
   Blog["title"] = "Blogue do Caloni"
 }
 
-function FlushPost(slug,    tags, post, i, j, file, search)
+function FlushPost(slug,    tags, post, i, j, file, search, prefix, suffix)
 {
   split(Index[slug]["tags"], tags)
   post = ""
@@ -37,6 +37,8 @@ function FlushPost(slug,    tags, post, i, j, file, search)
     Files[Index[slug]["month"]] = Index[slug]["month"]
   }
   for( i in Index[slug]["lines"] ) {
+    prefix = ""
+    suffix = ""
     if( Index[slug]["lines"][i]["content"] != "" ) {
       if( Index[slug]["lines"][i]["type"] != "pre" && Index[slug]["lines"][i]["type"] != "blockquote" ) {
         if( "links" in Index[slug] ) {
@@ -58,8 +60,19 @@ function FlushPost(slug,    tags, post, i, j, file, search)
       } else if ( Index[slug]["lines"][i]["type"] == "blockquote") {
           Index[slug]["lines"][i]["content"] = "<" Index[slug]["lines"][i]["type"] ">" Index[slug]["lines"][i]["content"] "</" Index[slug]["lines"][i]["type"] ">"
       } else {
+        if ( Index[slug]["lines"][i]["type"] == "list") {
+          prefix = prefix "<li>"
+          suffix = suffix "</li>"
+          if( Index[slug]["lines"][i-1]["type"] != "list" ) {
+            prefix = "<ul>" prefix
+          }
+          if( Index[slug]["lines"][i+1]["type"] != "list" ) {
+            suffix = suffix "</ul>"
+          }
+        }
         Index[slug]["lines"][i]["content"] = gensub(/\[([^\]]+)\]/, "<a href=\"posts.html?q=\\1\">\\1</a>", "g", Index[slug]["lines"][i]["content"])
       }
+      Index[slug]["lines"][i]["content"] = prefix Index[slug]["lines"][i]["content"] suffix
     }
   }
 
