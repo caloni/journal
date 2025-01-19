@@ -57,12 +57,12 @@ function FormatContent(line,    prefix, suffix, paragraph, headerLevel, endName,
     # `<blockquote></ul>`
     # only when this is fixed we can think about formatting
     # epubs with blockquote equivalent
-    #if( line ~ /^>/ ) {
-    #  sub(/^> ?/, "", line)
-    #  ContentType = "blockquote"
-    #  suffix = ""
-    #  break
-    #}
+    if( line ~ /^>/ ) {
+      sub(/^> ?/, "", line)
+      ContentType = "blockquote"
+      suffix = ""
+      break
+    }
 
     if( line ~ /^#{2,6} / ) {
 
@@ -199,7 +199,7 @@ $1 == "metadata_slug" { IndexMetadata[$2]["link"] = $3 ; next }
 
 /.+/ {
   NewPostTotalLines = NewPost["totalLines"]
-  FormatContent($0, NewPost["totalLines"])
+  FormatContent($0)
   if( NewPost["totalLines"] > NewPostTotalLines ) {
     if( length(NewPost["summary"]) < 200 ) {
       if( index($0, "{{") == 0 && index($0, "```") == 0 ) {
@@ -275,6 +275,7 @@ function FlushPost(slug,    chapter, fchapter, tags, post, prefix, suffix)
           if( Index[slug]["lines"][i]["type"] == "blockquote" ) {
             prefix = "<p>" ToHtml("> ")
             suffix = "</p>\n"
+            Index[slug]["lines"][i]["content"] = ToHtml(Index[slug]["lines"][i]["content"])
           }
           else if( Index[slug]["lines"][i]["type"] == "list" ) {
             prefix = prefix "<li>"
