@@ -26,7 +26,7 @@ BEGIN {
   Blog["title"] = "Blogue do Caloni"
 }
 
-function FlushPost(slug,    tags, post, i, j, file, search, prefix, suffix)
+function FlushPost(slug,    tags, post, i, j, file, search, prefix, suffix, links)
 {
   split(Index[slug]["tags"], tags)
   post = ""
@@ -39,6 +39,7 @@ function FlushPost(slug,    tags, post, i, j, file, search, prefix, suffix)
   for( i in Index[slug]["lines"] ) {
     prefix = ""
     suffix = ""
+    links = 1
     if( Index[slug]["lines"][i]["content"] != "" ) {
       if( Index[slug]["lines"][i]["type"] != "pre" && Index[slug]["lines"][i]["type"] != "blockquote" ) {
         if( "links" in Index[slug] ) {
@@ -57,21 +58,33 @@ function FlushPost(slug,    tags, post, i, j, file, search, prefix, suffix)
         if( Index[slug]["lines"][i+1]["type"] != Index[slug]["lines"][i]["type"] ) {
           Index[slug]["lines"][i]["content"] = Index[slug]["lines"][i]["content"] "</" Index[slug]["lines"][i]["type"] ">\n"
         }
+        links = 0
       } else if ( Index[slug]["lines"][i]["type"] == "blockquote") {
-          Index[slug]["lines"][i]["content"] = "<" Index[slug]["lines"][i]["type"] ">" Index[slug]["lines"][i]["content"] "</" Index[slug]["lines"][i]["type"] ">"
-      } else {
-        if ( Index[slug]["lines"][i]["type"] == "list") {
-          prefix = prefix "<li>"
-          suffix = suffix "</li>"
-          if( Index[slug]["lines"][i-1]["type"] != "list" ) {
-            prefix = "<ul>" prefix
-          }
-          if( Index[slug]["lines"][i+1]["type"] != "list" ) {
-            suffix = suffix "</ul>"
-          }
+        prefix = prefix "<blockquote>"
+        suffix = suffix "</blockquote>"
+        #if( Index[slug]["lines"][i-1]["type"] != "blockquote" ) {
+        #  prefix = "<blockquote>" prefix
+        #}
+        #if( Index[slug]["lines"][i+1]["type"] != "blockquote" ) {
+        #  suffix = suffix "</blockquote>"
+        #}
+        links = 0
+      } else if ( Index[slug]["lines"][i]["type"] == "list") {
+        prefix = prefix "<li>"
+        suffix = suffix "</li>"
+        if( Index[slug]["lines"][i-1]["type"] != "list" ) {
+          prefix = "<ul>" prefix
         }
+        if( Index[slug]["lines"][i+1]["type"] != "list" ) {
+          suffix = suffix "</ul>"
+        }
+        links = 1
+      }
+
+      if( links ) {
         Index[slug]["lines"][i]["content"] = gensub(/\[([^\]]+)\]/, "<a href=\"posts.html?q=\\1\">\\1</a>", "g", Index[slug]["lines"][i]["content"])
       }
+
       Index[slug]["lines"][i]["content"] = prefix Index[slug]["lines"][i]["content"] suffix
     }
   }
