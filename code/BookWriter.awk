@@ -42,14 +42,13 @@ function FormatContent(line,    prefix, suffix, paragraph, headerLevel, endName,
     if( line ~ /^ *- */ ) {
       line = gensub(/ *- *(.*)/, "\\1", "g", line)
       if( ! ContentState["-"] ) {
-        prefix = prefix "<ul>"
         ContentState["-"] = 1
       }
-      prefix = prefix "<li>"
-      suffix = "</li>" suffix
+      suffix = ""
       paragraph = 0
+      ContentType = "list"
+      break
     } else if ( ContentState["-"] ) {
-        prefix = "</ul>\n"
         ContentState["-"] = 0
     }
 
@@ -120,10 +119,6 @@ function FormatContent(line,    prefix, suffix, paragraph, headerLevel, endName,
 function FlushContentState(slug,    lastLine)
 {
   lastLine = length(NewPost["lines"])
-  if ( ContentState["-"] ) {
-    Index[slug]["lines"][lastLine]["content"] = Index[slug]["lines"][lastLine]["content"] "</ul>\n"
-    ContentState["-"] = 0
-  }
   delete ContentState
   delete NewPost
 }
@@ -255,9 +250,9 @@ function FlushPost(slug,    chapter, fchapter, tags, post, prefix, suffix)
   }
 
   if( length(Index[slug]["lines"]) ) {
-    prefix = ""
-    suffix = ""
     for( i in Index[slug]["lines"] ) {
+      prefix = ""
+      suffix = ""
       if( Index[slug]["lines"][i]["content"] != "" ) {
         if( Index[slug]["lines"][i]["type"] != "pre" && Index[slug]["lines"][i]["type"] != "blockquote" ) {
           if( "links" in Index[slug] ) {
@@ -280,6 +275,18 @@ function FlushPost(slug,    chapter, fchapter, tags, post, prefix, suffix)
           if( Index[slug]["lines"][i]["type"] == "blockquote" ) {
             prefix = "<p>" ToHtml("> ")
             suffix = "</p>\n"
+          }
+          else if( Index[slug]["lines"][i]["type"] == "list" ) {
+            prefix = prefix "<li>"
+            suffix = suffix "</li>"
+            if( Index[slug]["lines"][i-1]["type"] != "list" ) {
+              prefix = "<ul>" prefix
+            }
+            if( Index[slug]["lines"][i+1]["type"] != "list" ) {
+              suffix = suffix "</ul>"
+            }
+            suffix = suffix "\n"
+            Index[slug]["lines"][i]["content"] = ToHtml(Index[slug]["lines"][i]["content"])
           }
           Index[slug]["lines"][i]["content"] = prefix Index[slug]["lines"][i]["content"] suffix
         }
