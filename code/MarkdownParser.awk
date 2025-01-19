@@ -124,10 +124,6 @@ function FormatContent(line,    prefix, suffix, paragraph, headerLevel, endName,
 function FlushContentState(slug,    lastLine)
 {
   lastLine = length(NewPost["lines"])
-  if ( ContentState["-"] ) {
-    Index[slug]["lines"][lastLine]["content"] = Index[slug]["lines"][lastLine]["content"] "</ul>\n"
-    ContentState["-"] = 0
-  }
   delete ContentState
   delete NewPost
 }
