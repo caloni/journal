@@ -228,7 +228,7 @@ BEGIN {
   Book["publisher"] = "Caloni"
 }
 
-function FlushPost(slug,    chapter, fchapter, tags, post)
+function FlushPost(slug,    chapter, fchapter, tags, post, prefix, suffix)
 {
   post = ""
   chapter = Index[slug]["month"]
@@ -257,6 +257,8 @@ function FlushPost(slug,    chapter, fchapter, tags, post)
   }
 
   if( length(Index[slug]["lines"]) ) {
+    prefix = ""
+    suffix = ""
     for( i in Index[slug]["lines"] ) {
       if( Index[slug]["lines"][i]["content"] != "" ) {
         if( Index[slug]["lines"][i]["type"] != "pre" && Index[slug]["lines"][i]["type"] != "blockquote" ) {
@@ -276,8 +278,12 @@ function FlushPost(slug,    chapter, fchapter, tags, post)
           if( Index[slug]["lines"][i+1]["type"] != Index[slug]["lines"][i]["type"] ) {
             Index[slug]["lines"][i]["content"] = Index[slug]["lines"][i]["content"] "</" Index[slug]["lines"][i]["type"] ">\n"
           }
-        } else if( Index[slug]["lines"][i]["type"] == "blockquote" ) {
-          Index[slug]["lines"][i]["content"] = "<p>" ToHtml("> ") ToHtml(Index[slug]["lines"][i]["content"]) "</p>\n"
+        } else {
+          if( Index[slug]["lines"][i]["type"] == "blockquote" ) {
+            prefix = "<p>" ToHtml("> ")
+            suffix = "</p>\n"
+          }
+          Index[slug]["lines"][i]["content"] = prefix Index[slug]["lines"][i]["content"] suffix
         }
       }
     }
