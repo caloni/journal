@@ -4,6 +4,11 @@
 
 #include util.awk
 
+BEGIN {
+  Settings["generator"] = "parser.awk 0.1.0"
+  Settings["post_header_fields"] = "date link slug tags update"
+}
+
 function FormatContent(line,    prefix, suffix, paragraph, headerLevel, endName, name, link)
 {
   prefix = ""
@@ -186,13 +191,25 @@ $1 == "metadata_chapter" { IndexMetadata[$2]["chapter"] = $3 ; next }
 
 /^\[[^]]+\]:/ && !ContentState["```"] {
   if( match($0, /^\[([^]]+)\]: *([^" ]+) *"?([^"]+)?"?/, a) ) {
-    if( a[1] == "date" ) {
-      NewPost["date"] = a[3]
-    } else if( a[1] == "tags" ) {
-      NewPost["tags"] = a[3]
-    } else if( a[1] == "slug" ) {
-      NewPost["slug"] = a[3]
+    if( a[2] ~ /^(https?)|(ftp)|(mailto):/ ) {
+      a[2] = "<a href=\"" a[2] "\">" a[1] "</a>"
     }
+    else if( a[2] in IndexMetadata ) {
+      a[2] = IndexMetadata[a[2]]["link"]
+      a[2] = "<a href=\"" a[2] "\">" a[1] "</a>"
+    }
+    else if( index(Settings["post_header_fields"], a[1]) ) {
+      NewPost[a[1]] = a[3]
+    } else {
+      print "warning: link", a[2], "not found for name", a[1], "and title", a[3]
+      print $0
+      a[2] = gensub(/(.*)/, "posts.html?q=\\1", "g", a[2])
+      a[2] = "<a href=\"" a[2] "\">" a[1] "</a>"
+    }
+    NewPost["links"][a[1]] = a[2]
+    delete a
+  } else {
+    print "error: invalid link at", $0
   }
   next
 }
