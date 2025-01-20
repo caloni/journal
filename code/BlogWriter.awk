@@ -44,6 +44,9 @@ function FlushPost(slug,    tags, post, i, j, file, search, prefix, suffix, link
       if( Index[slug]["lines"][i]["type"] != "pre" && Index[slug]["lines"][i]["type"] != "blockquote" ) {
         if( "links" in Index[slug] ) {
           for( j in Index[slug]["links"] ) {
+            if( Index[slug]["links"][j] in IndexMetadata ) {
+              Index[slug]["links"][j] = "<a href=\"" IndexMetadata[Index[slug]["links"][j]]["chapter"] ".html#" Index[slug]["links"][j] "\">" j "</a>"
+            }
             search = "\\[" j "\\]"
             gsub(search, Index[slug]["links"][j], Index[slug]["lines"][i]["content"])
           }

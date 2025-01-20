@@ -9,17 +9,16 @@ BEGIN {
 }
 
 
-function FlushNewPost(    chapter, link)
+function FlushNewPost(    chapter)
 {
   chapter = substr(NewPost["date"], 1, 7)
-  link = chapter ".html#" NewPost["slug"]
 
   if( NewPost["slug"] in Index ) {
     print "warning: slug", NewPost["slug"], "duplicated in", Index[slug]["date"], "and", NewPost["date"]
   }
   Index[NewPost["slug"]]["date"] = NewPost["date"]
   Index[NewPost["slug"]]["link"] = link
-  print "metadata_slug", NewPost["slug"], link > Metadata["output"]
+  print "metadata_chapter", NewPost["slug"], chapter > Metadata["output"]
 
   delete NewPost
 }

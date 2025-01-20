@@ -179,7 +179,7 @@ function CopyNewPost(    slug, tags, i, j)
 }
 
 $1 == "metadata_current_date" { Settings["date"] = $2 ; next }
-$1 == "metadata_slug" { IndexMetadata[$2]["link"] = $3 ; next }
+$1 == "metadata_chapter" { IndexMetadata[$2]["chapter"] = $3 ; next }
 
 /^# / && !ContentState["```"] {
   if( "title" in NewPost ) {
@@ -195,13 +195,10 @@ $1 == "metadata_slug" { IndexMetadata[$2]["link"] = $3 ; next }
     if( a[2] ~ /^(https?)|(ftp)|(mailto):/ ) {
       a[2] = "<a href=\"" a[2] "\">" a[1] "</a>"
     }
-    else if( a[2] in IndexMetadata ) {
-      a[2] = IndexMetadata[a[2]]["link"]
-      a[2] = "<a href=\"" a[2] "\">" a[1] "</a>"
-    }
     else if( index(Settings["post_header_fields"], a[1]) ) {
       NewPost[a[1]] = a[3]
-    } else {
+    }
+    else if( !(a[2] in IndexMetadata) ) {
       print "warning: link", a[2], "not found for name", a[1], "and title", a[3]
       print $0
       a[2] = gensub(/(.*)/, "posts.html?q=\\1", "g", a[2])

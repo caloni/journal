@@ -173,7 +173,7 @@ function CopyNewPost(    slug, tags, i, j)
 }
 
 $1 == "metadata_current_date" { Settings["date"] = $2 ; next }
-$1 == "metadata_slug" { IndexMetadata[$2]["link"] = $3 ; next }
+$1 == "metadata_chapter" { IndexMetadata[$2]["chapter"] = $3 ; next }
 
 /^# / && !ContentState["```"] {
   if( "title" in NewPost ) {
