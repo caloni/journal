@@ -14,11 +14,7 @@ function FlushNewPost(    slug, date, chapter, link)
   slug = NewPost["slug"]
   date = NewPost["date"]
 
-  if( "draft" in NewPost ) {
-    chapter = "drafts"
-  } else {
-    chapter = substr(date, 1, 7)
-  }
+  chapter = substr(date, 1, 7)
 
   link = chapter ".html#" slug
 
