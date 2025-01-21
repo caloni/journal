@@ -41,6 +41,20 @@ function ToId(s)
   return s
 }
 
+function ToEpubId(s)
+{
+  gsub(/-/, "", s)
+  gsub(/ /, "_", s)
+  s = "_" s
+  return s
+}
+
+function ToEpubLink(s)
+{
+  gsub(/\?[^"]+/, "", s)
+  return s
+}
+
 function IsNumeric(x, f)
 {
     switch (typeof(x)) {

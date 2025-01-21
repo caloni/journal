@@ -194,13 +194,9 @@ $1 == "metadata_chapter" { IndexMetadata[$2]["chapter"] = $3 ; next }
     if( a[2] ~ /^(https?)|(ftp)|(mailto):/ ) {
       a[2] = "<a href=\"" a[2] "\">" a[1] "</a>"
     }
-    else if( a[2] in IndexMetadata ) {
-      a[2] = IndexMetadata[a[2]]["link"]
-      a[2] = "<a href=\"" a[2] "\">" a[1] "</a>"
-    }
     else if( index(Settings["post_header_fields"], a[1]) ) {
       NewPost[a[1]] = a[3]
-    } else {
+    } else if( !(a[2] in IndexMetadata) ) {
       print "warning: link", a[2], "not found for name", a[1], "and title", a[3]
       print $0
       a[2] = gensub(/(.*)/, "posts.html?q=\\1", "g", a[2])
@@ -274,8 +270,11 @@ function FlushPost(slug,    chapter, fchapter, tags, post, prefix, suffix)
         if( Index[slug]["lines"][i]["type"] != "pre" && Index[slug]["lines"][i]["type"] != "blockquote" ) {
           if( "links" in Index[slug] ) {
             for( j in Index[slug]["links"] ) {
+              if( Index[slug]["links"][j] in IndexMetadata ) {
+                Index[slug]["links"][j] = "<a href=\"" ToEpubId(IndexMetadata[Index[slug]["links"][j]]["chapter"]) ".xhtml#" ToEpubId(Index[slug]["links"][j]) "\">" j "</a>"
+              }
               search = "\\[" j "\\]"
-              gsub(search, Index[slug]["links"][j], Index[slug]["lines"][i]["content"])
+              gsub(search, ToEpubLink(Index[slug]["links"][j]), Index[slug]["lines"][i]["content"])
             }
           }
         }

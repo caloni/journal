@@ -197,8 +197,7 @@ $1 == "metadata_chapter" { IndexMetadata[$2]["chapter"] = $3 ; next }
     }
     else if( index(Settings["post_header_fields"], a[1]) ) {
       NewPost[a[1]] = a[3]
-    }
-    else if( !(a[2] in IndexMetadata) ) {
+    } else if( !(a[2] in IndexMetadata) ) {
       print "warning: link", a[2], "not found for name", a[1], "and title", a[3]
       print $0
       a[2] = gensub(/(.*)/, "posts.html?q=\\1", "g", a[2])
