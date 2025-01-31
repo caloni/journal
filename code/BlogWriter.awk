@@ -1,8 +1,7 @@
 # Transform parsed text to html blog posts.
 # Wanderley Caloni <wanderley.caloni@gmail.com>
-# 2025-01-04
-
-#include parser.awk
+# 2025-01-30
+# Depends on: MarkdownParser, Util.
 
 BEGIN {
   "date" | getline Blog["build"]
@@ -10,7 +9,7 @@ BEGIN {
   Blog["author-image"] = "/img/about-author.jpg"
   Blog["post-image"] = "/img/about-brand.png"
   Blog["description"] = "Write for computers, people and food."
-  Blog["generator"] = "blog.awk 0.1.0 " Settings["generator"]
+  Blog["generator"] = "BlogWriter 0.2.0 " Settings["generator"]
   Blog["link"] = "http://www.caloni.com.br"
   Blog["output"] = "public\\blog"
   Blog["text_favorite_tags"] = "computer cinema"

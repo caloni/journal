@@ -1,11 +1,10 @@
 # Transform markdown text to parsed text.
 # Wanderley Caloni <wanderley.caloni@gmail.com>
-# 2025-01-04
-
-#include util.awk
+# 2025-01-30
+# Depends on: Util.
 
 BEGIN {
-  Settings["generator"] = "parser.awk 0.1.0"
+  Settings["generator"] = "MarkdownParser 0.2.0"
   Settings["post_header_fields"] = "date link slug tags update"
 }
 

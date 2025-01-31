@@ -1,10 +1,10 @@
 # Transform parsed text to epub.
 # Wanderley Caloni <wanderley.caloni@gmail.com>
-# 2025-01-04
-
-#include util.awk
+# 2025-01-30
+# Depends on: MarkdownParser, Util.
 
 BEGIN {
+  Book["copyright"] = "BlogWriter 0.2.0 " Settings["generator"]
   Book["title"] = "Blogue do Caloni: Programação, Depuração, Transpiração"
   Book["author"] = "Wanderley Caloni"
   Book["publisher"] = "Caloni"
@@ -141,7 +141,7 @@ function FlushPackage()
   print "<dc:title id=\"title\">" Book["title"] "</dc:title>" > package
   print "<dc:creator>" Book["author"] "</dc:creator>" > package
   print "<dc:publisher>" Book["publisher"] "</dc:publisher>" > package
-  print "<dc:rights>Copyright 404 Not Found</dc:rights>" > package
+  print "<dc:rights>Copyright " Book["copyright"] "</dc:rights>" > package
   print "<dc:identifier id=\"p0000000000000\">0000000000000</dc:identifier>" > package
   print "<dc:source id=\"src-id\">urn:isbn:0000000000000</dc:source>" > package
   print "<dc:language>pt-BR</dc:language>" > package
