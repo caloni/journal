@@ -86,6 +86,9 @@ function FlushPost(slug,    chapter, fchapter, tags, post, prefix, suffix)
           } else if ( Index[slug]["lines"][i]["type"] == "p") {
             prefix = prefix "<p>"
             suffix = suffix "</p>\n"
+          } else if ( Index[slug]["lines"][i]["type"] == "img") {
+            prefix = prefix "<img src=\"img/"
+            suffix = suffix "\"/>\n"
           }
           Index[slug]["lines"][i]["content"] = prefix Index[slug]["lines"][i]["content"] suffix
         }

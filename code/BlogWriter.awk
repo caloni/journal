@@ -83,6 +83,10 @@ function FlushPost(slug,    tags, post, i, j, file, search, prefix, suffix, link
         prefix = prefix "<p>"
         suffix = suffix "</p>\n"
         links = 1
+      } else if ( Index[slug]["lines"][i]["type"] == "img") {
+        prefix = prefix "<img src=\"img/"
+        suffix = suffix "\"/>\n"
+        links = 0
       }
 
       if( links ) {
