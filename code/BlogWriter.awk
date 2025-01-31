@@ -79,6 +79,10 @@ function FlushPost(slug,    tags, post, i, j, file, search, prefix, suffix, link
         prefix = prefix "<h" substr(Index[slug]["lines"][i]["type"], 2, 1) ">"
         suffix = suffix "</h" substr(Index[slug]["lines"][i]["type"], 2, 1) ">\n"
         links = 1
+      } else if ( Index[slug]["lines"][i]["type"] == "p") {
+        prefix = prefix "<p>"
+        suffix = suffix "</p>\n"
+        links = 1
       }
 
       if( links ) {

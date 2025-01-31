@@ -83,6 +83,9 @@ function FlushPost(slug,    chapter, fchapter, tags, post, prefix, suffix)
           } else if ( substr(Index[slug]["lines"][i]["type"], 1, 1) == "h" && length(Index[slug]["lines"][i]["type"]) == 2 ) {
             prefix = prefix "<h" substr(Index[slug]["lines"][i]["type"], 2, 1) ">"
             suffix = suffix "</h" substr(Index[slug]["lines"][i]["type"], 2, 1) ">\n"
+          } else if ( Index[slug]["lines"][i]["type"] == "p") {
+            prefix = prefix "<p>"
+            suffix = suffix "</p>\n"
           }
           Index[slug]["lines"][i]["content"] = prefix Index[slug]["lines"][i]["content"] suffix
         }
