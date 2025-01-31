@@ -8,16 +8,8 @@ BEGIN {
   Settings["post_header_fields"] = "date link slug tags update"
 }
 
-function FormatContent(line,    prefix, suffix, paragraph, headerLevel, endName, name, link)
+function FormatContent(line)
 {
-  prefix = ""
-  suffix = ""
-  paragraph = 1
-  headerLevel = 0
-  endName = 0
-  name = ""
-  link = ""
-
   do {
     if( index(line, "```") == 1 ) {
       line = ""
@@ -48,8 +40,6 @@ function FormatContent(line,    prefix, suffix, paragraph, headerLevel, endName,
       if( ! ContentState["-"] ) {
         ContentState["-"] = 1
       }
-      suffix = ""
-      paragraph = 0
       ContentType = "list"
       break
     } else if ( ContentState["-"] ) {
@@ -59,32 +49,24 @@ function FormatContent(line,    prefix, suffix, paragraph, headerLevel, endName,
     if( line ~ /^>/ ) {
       sub(/^> ?/, "", line)
       ContentType = "blockquote"
-      suffix = ""
       break
     }
 
     if( line ~ /^#{2,6} / ) {
 
       if( line ~ /^## / ) {
-        headerLevel = 2
         ContentType = "h2"
       } else if( line ~ /^### / ) {
-        headerLevel = 3
         ContentType = "h3"
       } else if( line ~ /^#### / ) {
-        headerLevel = 4
         ContentType = "h4"
       } else if( line ~ /^##### / ) {
-        headerLevel = 5
         ContentType = "h5"
       } else if( line ~ /^###### / ) {
-        headerLevel = 6
         ContentType = "h6"
       }
       gsub(/^#+ /, "", line)
 
-      paragraph = 0
-      suffix = ""
       #todo remove this subs
       gsub(/&/, "&amp;", line)
       gsub(/</, "\\&lt;", line)
@@ -105,16 +87,12 @@ function FormatContent(line,    prefix, suffix, paragraph, headerLevel, endName,
     gsub(/>/, "\\&gt;", line)
     line = gensub(/\[([^]]+)\]\(([^)]+)\)/, "<a href=\"\\2\">\\1</a>", "g", line)
 
-    if( paragraph ) {
-      ContentType = "p"
-    } else {
-      ContentType = ""
-    }
+    ContentType = "p"
 
   } while( 0 )
 
   NewPost["totalLines"] += 1
-  NewPost["lines"][NewPost["totalLines"]]["content"] = prefix line suffix
+  NewPost["lines"][NewPost["totalLines"]]["content"] = line
   NewPost["lines"][NewPost["totalLines"]]["type"] = ContentType
 }
 
