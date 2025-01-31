@@ -56,7 +56,7 @@ function FlushPost(slug,    chapter, fchapter, tags, post, prefix, suffix)
         }
 
         if( Index[slug]["lines"][i]["type"] == "pre" ) {
-          Index[slug]["lines"][i]["content"] = ToHtml(Index[slug]["lines"][i]["content"])
+          Index[slug]["lines"][i]["content"] = ToHtml(Index[slug]["lines"][i]["content"]) "\n"
           if( Index[slug]["lines"][i-1]["type"] != Index[slug]["lines"][i]["type"] ) {
             Index[slug]["lines"][i]["content"] = "<" Index[slug]["lines"][i]["type"] ">\n" Index[slug]["lines"][i]["content"]
           }
@@ -101,9 +101,6 @@ function FlushPost(slug,    chapter, fchapter, tags, post, prefix, suffix)
   if( length(Index[slug]["lines"]) ) {
     for( i in Index[slug]["lines"] ) {
       post = post Index[slug]["lines"][i]["content"]
-      #if( Index[slug]["lines"][i]["type"] != "pre" ) {
-      #  post = post "\n"
-      #}
     }
   }
   post = post "</section>"

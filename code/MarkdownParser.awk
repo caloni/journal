@@ -11,7 +11,7 @@ BEGIN {
 function FormatContent(line,    prefix, suffix, paragraph, headerLevel, endName, name, link)
 {
   prefix = ""
-  suffix = "\n"
+  suffix = ""
   paragraph = 1
   headerLevel = 0
   endName = 0
@@ -100,7 +100,7 @@ function FormatContent(line,    prefix, suffix, paragraph, headerLevel, endName,
     if( match($0, /^!\[([^]]*)\]\( *([^" )]+) *"?([^"]*)?"?\)/, a) ) {
       NewPost["image"] = a[2]
       PostsImages[a[2]] = a[2]
-      line = "<img src=\"img/" a[2] "\"/>"
+      line = "<img src=\"img/" a[2] "\"/>\n"
       ContentType = "img"
       break
     }
@@ -111,7 +111,7 @@ function FormatContent(line,    prefix, suffix, paragraph, headerLevel, endName,
     line = gensub(/\[([^]]+)\]\(([^)]+)\)/, "<a href=\"\\2\">\\1</a>", "g", line)
 
     if( paragraph ) {
-      line = "<p>" line "</p>"
+      line = "<p>" line "</p>\n"
       ContentType = "p"
     } else {
       ContentType = ""
