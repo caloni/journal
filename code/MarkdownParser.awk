@@ -88,9 +88,13 @@ function FormatContent(line,    prefix, suffix, paragraph, headerLevel, endName,
       }
       gsub(/^#+ /, "", line)
 
-      prefix = prefix "<h" headerLevel ">"
-      suffix = "</h" headerLevel ">" suffix
       paragraph = 0
+      suffix = ""
+      #todo remove this subs
+      gsub(/&/, "&amp;", line)
+      gsub(/</, "\\&lt;", line)
+      gsub(/>/, "\\&gt;", line)
+      break
     }
 
     if( match($0, /^!\[([^]]*)\]\( *([^" )]+) *"?([^"]*)?"?\)/, a) ) {

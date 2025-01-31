@@ -80,6 +80,9 @@ function FlushPost(slug,    chapter, fchapter, tags, post, prefix, suffix)
             }
             suffix = suffix "\n"
             Index[slug]["lines"][i]["content"] = ToHtml(Index[slug]["lines"][i]["content"])
+          } else if ( substr(Index[slug]["lines"][i]["type"], 1, 1) == "h" && length(Index[slug]["lines"][i]["type"]) == 2 ) {
+            prefix = prefix "<h" substr(Index[slug]["lines"][i]["type"], 2, 1) ">"
+            suffix = suffix "</h" substr(Index[slug]["lines"][i]["type"], 2, 1) ">\n"
           }
           Index[slug]["lines"][i]["content"] = prefix Index[slug]["lines"][i]["content"] suffix
         }

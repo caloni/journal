@@ -64,12 +64,6 @@ function FlushPost(slug,    tags, post, i, j, file, search, prefix, suffix, link
       } else if ( Index[slug]["lines"][i]["type"] == "blockquote") {
         prefix = prefix "<blockquote>"
         suffix = suffix "</blockquote>"
-        #if( Index[slug]["lines"][i-1]["type"] != "blockquote" ) {
-        #  prefix = "<blockquote>" prefix
-        #}
-        #if( Index[slug]["lines"][i+1]["type"] != "blockquote" ) {
-        #  suffix = suffix "</blockquote>"
-        #}
         links = 0
       } else if ( Index[slug]["lines"][i]["type"] == "list") {
         prefix = prefix "<li>"
@@ -80,6 +74,10 @@ function FlushPost(slug,    tags, post, i, j, file, search, prefix, suffix, link
         if( Index[slug]["lines"][i+1]["type"] != "list" ) {
           suffix = suffix "</ul>"
         }
+        links = 1
+      } else if ( substr(Index[slug]["lines"][i]["type"], 1, 1) == "h" && length(Index[slug]["lines"][i]["type"]) == 2 ) {
+        prefix = prefix "<h" substr(Index[slug]["lines"][i]["type"], 2, 1) ">"
+        suffix = suffix "</h" substr(Index[slug]["lines"][i]["type"], 2, 1) ">\n"
         links = 1
       }
 
