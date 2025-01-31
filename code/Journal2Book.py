@@ -40,7 +40,7 @@ os.environ['LC_ALL'] = 'en_US.UTF-8'
 
 process = subprocess.run(['gawk', '-f', r'code/Util.awk', '-f', r'code/MetadataWriter.awk', 'journal.txt'], check=True)
 with open(r'public/metadata.txt', 'a') as f: f.write('metadata_current_date ' + current_date)
-process = subprocess.run(['gawk', '-f', r'code/Util.awk', '-f', r'code/BookWriter.awk', r'public/metadata.txt', 'journal.txt'], check=True)
+process = subprocess.run(['gawk', '-f', r'code/Util.awk', '-f', r'code/MarkdownParser.awk', '-f', r'code/BookWriter.awk', r'public/metadata.txt', 'journal.txt'], check=True)
 
 os.chdir(r'public/book')
 process = subprocess.run(['python', r'repack.py'], check=True)
