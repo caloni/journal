@@ -56,11 +56,6 @@ function FormatContent(line,    prefix, suffix, paragraph, headerLevel, endName,
         ContentState["-"] = 0
     }
 
-    #todo fix when blockquote is added into BlogWriter.awk
-    # and this situation occurs:
-    # `<blockquote></ul>`
-    # only when this is fixed we can think about formatting
-    # epubs with blockquote equivalent
     if( line ~ /^>/ ) {
       sub(/^> ?/, "", line)
       ContentType = "blockquote"
