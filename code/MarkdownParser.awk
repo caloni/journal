@@ -5,7 +5,7 @@
 
 BEGIN {
   Settings["generator"] = "MarkdownParser 0.2.0"
-  Settings["post_header_fields"] = "date link slug tags update"
+  Settings["post_header_fields"] = "date link slug tags"
 }
 
 function FormatContent(line,    type)
@@ -124,9 +124,6 @@ function CopyNewPost(    slug, tags, i, j)
   Index[slug]["summary"] = NewPost["summary"]
   Index[slug]["tags"] = NewPost["tags"]
   Index[slug]["image"] = NewPost["image"]
-  if( "update" in NewPost ) {
-    Index[slug]["update"] = NewPost["update"]
-  }
   if( "link" in NewPost ) {
     Index[slug]["extlink"] = NewPost["link"]
   }

@@ -108,9 +108,6 @@ function FlushPost(slug,    tags, post, i, j, file, search, prefix, suffix, link
     post = post "<p class=\"title\"><a href=\"" Index[slug]["month"] ".html#" slug "\">#</a> " ToHtml(Index[slug]["title"]) "</p>\n"
   }
   post = post "<span class=\"title-heading\">" Blog["author"] ", " Index[slug]["date"]
-  if( "update" in Index[slug] ) {
-    post = post " (updated " Index[slug]["update"] ")"
-  }
   for( i in tags ) {
     post = post " <a href=\"" tags[i] ".html\">" tags[i] "</a>"
   }
@@ -310,11 +307,7 @@ function FlushTagsPages(    slug, tags, i, j, k, l, f, s)
     for( j in SlugsByTagsAndDates[i] ) {
       for( k in SlugsByTagsAndDates[i][j] ) {
         split(Index[k]["tags"], tags)
-        if( "update" in Index[k] ) {
-          s = " update " Index[k]["update"]
-        } else {
-          s = ""
-        }
+        s = ""
         for( l in tags ) {
           s = s " " tags[l]
         }
@@ -375,11 +368,7 @@ function FlushPostsPage(    i, j, k, f, t, s)
     for( j in DateSlugTitle[i] ) {
       t = DateSlugTitle[i][j]
       split(Index[j]["tags"], a)
-      if( "update" in Index[j] ) {
-        s = " update " Index[j]["update"]
-      } else {
-        s = ""
-      }
+      s = ""
       for( k in a ) {
         s = s " " a[k]
       }
