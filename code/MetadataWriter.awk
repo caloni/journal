@@ -56,3 +56,8 @@ function FlushNewPost(    chapter)
   next
 }
 
+END {
+  if( "title" in NewPost ) {
+    FlushNewPost()
+  }
+}
