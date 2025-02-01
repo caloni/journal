@@ -66,11 +66,6 @@ function FormatContent(line)
         ContentType = "h6"
       }
       gsub(/^#+ /, "", line)
-
-      #todo remove this subs
-      gsub(/&/, "&amp;", line)
-      gsub(/</, "\\&lt;", line)
-      gsub(/>/, "\\&gt;", line)
       break
     }
 

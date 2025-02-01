@@ -44,6 +44,9 @@ function FlushPost(slug,    chapter, fchapter, tags, post, prefix, suffix)
       suffix = ""
       if( Index[slug]["lines"][i]["content"] != "" ) {
         if( Index[slug]["lines"][i]["type"] != "pre" && Index[slug]["lines"][i]["type"] != "blockquote" ) {
+          if ( substr(Index[slug]["lines"][i]["type"], 1, 1) == "h" && length(Index[slug]["lines"][i]["type"]) == 2 ) {
+            gsub(/&/, "&amp;", Index[slug]["lines"][i]["content"])
+          }
           if( "links" in Index[slug] ) {
             for( j in Index[slug]["links"] ) {
               if( Index[slug]["links"][j] in IndexMetadata ) {
