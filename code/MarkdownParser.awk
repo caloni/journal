@@ -80,7 +80,6 @@ function FormatContent(line,    type)
     gsub(/&/, "&amp;", line)
     gsub(/</, "\\&lt;", line)
     gsub(/>/, "\\&gt;", line)
-    line = gensub(/\[([^]]+)\]\(([^)]+)\)/, "<a href=\"\\2\">\\1</a>", "g", line)
     type = "p"
 
   } while( 0 )
