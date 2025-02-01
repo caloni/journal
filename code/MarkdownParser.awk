@@ -155,6 +155,16 @@ $1 == "metadata_chapter" { IndexMetadata[$2]["chapter"] = $3 ; IndexMetadata[$2]
   next
 }
 
+/[^!]\[[^]]+\]\([^)]+\)/ && !ContentState["```"] {
+  if( match($0, /[^!]\[([^]]+)\]\(([^)]+)\)/, a) ) {
+    if( !(a[2] ~ /^(https?)|(ftp)|(mailto):/) ) {
+      sub("\\(" a[2] "\\)", "", $0)
+      NewPost["links"][a[1]] = a[2]
+      IndexMetadata[a[2]]["used"] += 1
+    }
+  }
+}
+
 /^\[[^]]+\]:/ && !ContentState["```"] {
   if( match($0, /^\[([^]]+)\]: *([^" ]+) *"?([^"]+)?"?/, a) ) {
     if( a[2] ~ /^(https?)|(ftp)|(mailto):/ ) {
