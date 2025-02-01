@@ -2,8 +2,7 @@ import shutil
 import os
 
 src = r'k:\documents\My Clippings.txt'
-dst = os.path.join(os.getcwd(), 'clippings.txt')
-vim = os.path.join(os.getcwd(), 'code', 'edits.so')
+dst = os.path.join(os.getcwd(), 'draft.txt')
 
 lines = []
 if os.path.exists(src):
@@ -33,7 +32,7 @@ while lineIdx < len(lines):
   lineIdx = lineIdx + 1
   clips.append(clip)
 
-with open(vim, 'w', encoding='utf-8-sig') as f:
+with open(dst, 'a', encoding='utf-8-sig') as f:
   for clip in clips:
     for line in clip['lines']:
       match = 'call matchadd("search", "' + line.replace('"', "\\\"") + '")\n'
