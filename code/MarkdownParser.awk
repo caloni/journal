@@ -8,7 +8,7 @@ BEGIN {
   Settings["post_header_fields"] = "date link slug tags update"
 }
 
-function FormatContent(line)
+function FormatContent(line,    type)
 {
   do {
     if( index(line, "```") == 1 ) {
@@ -20,7 +20,7 @@ function FormatContent(line)
       }
       return 0
     } else if( ContentState["```"] ) {
-      ContentType = "pre"
+      type = "pre"
       break
     }
 
@@ -29,7 +29,7 @@ function FormatContent(line)
       if( ! ContentState[" "] ) {
         ContentState[" "] = 1
       }
-      ContentType = "pre"
+      type = "pre"
       break
     } else if ( ContentState[" "] ) {
         ContentState[" "] = 0
@@ -40,7 +40,7 @@ function FormatContent(line)
       if( ! ContentState["-"] ) {
         ContentState["-"] = 1
       }
-      ContentType = "list"
+      type = "list"
       break
     } else if ( ContentState["-"] ) {
         ContentState["-"] = 0
@@ -48,22 +48,22 @@ function FormatContent(line)
 
     if( line ~ /^>/ ) {
       sub(/^> ?/, "", line)
-      ContentType = "blockquote"
+      type = "blockquote"
       break
     }
 
     if( line ~ /^#{2,6} / ) {
 
       if( line ~ /^## / ) {
-        ContentType = "h2"
+        type = "h2"
       } else if( line ~ /^### / ) {
-        ContentType = "h3"
+        type = "h3"
       } else if( line ~ /^#### / ) {
-        ContentType = "h4"
+        type = "h4"
       } else if( line ~ /^##### / ) {
-        ContentType = "h5"
+        type = "h5"
       } else if( line ~ /^###### / ) {
-        ContentType = "h6"
+        type = "h6"
       }
       gsub(/^#+ /, "", line)
       break
@@ -73,7 +73,7 @@ function FormatContent(line)
       NewPost["image"] = a[2]
       PostsImages[a[2]] = a[2]
       line = a[2]
-      ContentType = "img"
+      type = "img"
       break
     }
 
@@ -81,14 +81,13 @@ function FormatContent(line)
     gsub(/</, "\\&lt;", line)
     gsub(/>/, "\\&gt;", line)
     line = gensub(/\[([^]]+)\]\(([^)]+)\)/, "<a href=\"\\2\">\\1</a>", "g", line)
-
-    ContentType = "p"
+    type = "p"
 
   } while( 0 )
 
   NewPost["totalLines"] += 1
   NewPost["lines"][NewPost["totalLines"]]["content"] = line
-  NewPost["lines"][NewPost["totalLines"]]["type"] = ContentType
+  NewPost["lines"][NewPost["totalLines"]]["type"] = type
 }
 
 function FlushContentState(slug,    lastLine)
