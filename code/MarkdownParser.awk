@@ -144,7 +144,7 @@ function CopyNewPost(    slug, tags, i, j)
 }
 
 $1 == "metadata_current_date" { Settings["date"] = $2 ; next }
-$1 == "metadata_chapter" { IndexMetadata[$2]["chapter"] = $3 ; next }
+$1 == "metadata_chapter" { IndexMetadata[$2]["chapter"] = $3 ; IndexMetadata[$2]["explicit_slug"] = $4 ; next }
 
 /^# / && !ContentState["```"] {
   if( "title" in NewPost ) {
@@ -167,6 +167,8 @@ $1 == "metadata_chapter" { IndexMetadata[$2]["chapter"] = $3 ; next }
       print $0
       a[2] = gensub(/(.*)/, "posts.html?q=\\1", "g", a[2])
       a[2] = "<a href=\"" a[2] "\">" a[1] "</a>"
+    } else {
+      IndexMetadata[a[2]]["used"] += 1
     }
     NewPost["links"][a[1]] = a[2]
     delete a
@@ -191,5 +193,10 @@ $1 == "metadata_chapter" { IndexMetadata[$2]["chapter"] = $3 ; next }
 END {
   if( "title" in NewPost ) {
     CopyNewPost()
+  }
+  for( i in IndexMetadata ) {
+    if( IndexMetadata[i]["explicit_slug"] && !("used" in IndexMetadata[i]) ) {
+      print "warning: link", i, "not being used"
+    }
   }
 }

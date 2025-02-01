@@ -18,7 +18,7 @@ function FlushNewPost(    chapter)
   }
   Index[NewPost["slug"]]["date"] = NewPost["date"]
   Index[NewPost["slug"]]["link"] = link
-  print "metadata_chapter", NewPost["slug"], chapter > Metadata["output"]
+  print "metadata_chapter", NewPost["slug"], chapter, NewPost["explicit_slug"] > Metadata["output"]
 
   delete NewPost
 }
@@ -48,6 +48,9 @@ function FlushNewPost(    chapter)
   if( match($0, /^\[([^]]+)\]: *([^" ]+) *"?([^"]+)?"?/, a) ) {
     if( a[1] == "slug" || a[1] == "date" ) {
       NewPost[a[1]] = a[3]
+    }
+    if( a[1] == "slug" ) {
+      NewPost["explicit_slug"] = "explicit_slug"
     }
   }
   next
