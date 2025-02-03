@@ -175,8 +175,6 @@ $1 == "metadata_chapter" { IndexMetadata[$2]["chapter"] = $3 ; IndexMetadata[$2]
     } else if( !(a[2] in IndexMetadata) ) {
       print "warning: link", a[2], "not found for name", a[1], "and title", a[3]
       print $0
-      a[2] = gensub(/(.*)/, "posts.html?q=\\1", "g", a[2])
-      a[2] = "<a href=\"" a[2] "\">" a[1] "</a>"
     } else {
       IndexMetadata[a[2]]["used"] += 1
     }
