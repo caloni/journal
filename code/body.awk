@@ -11,15 +11,16 @@ BEGIN {
   LastWeigth = 0
   Exercises = 0
   Tendency = 0
+  Verbose = 1
 }
 
 NF >= 3 {
   Exercises += $3
 }
 
-NF >= 2 {
+NF >= 2 && $2 > 0 {
+  LastWeigth = $2
   if( Tendency ) {
-    LastWeigth = $2
     Tendency = Tendency + TendencyCurve * (LastWeigth - Tendency)
   } else {
     Tendency = $2
@@ -28,7 +29,9 @@ NF >= 2 {
 
 NF >= 1 {
   Day = $1
-  printf "day %s weigth %s tendency %.1f exercise %s\n", Day, LastWeigth, Tendency, Exercises
+  if( Verbose ) {
+    printf "day %s weigth %s tendency %.1f exercise %s\n", Day, LastWeigth, Tendency, Exercises
+  }
 }
 
 /^$/ { exit }
