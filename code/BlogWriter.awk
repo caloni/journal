@@ -109,7 +109,7 @@ function FlushPost(slug,    tags, post, i, j, file, search, prefix, suffix, link
   }
   post = post "<span class=\"title-heading\">" Blog["author"] ", " Index[slug]["date"]
   for( i in tags ) {
-    post = post "<a href=\"#\">&lt;</a>" "<a href=\"" tags[i] ".html\">" tags[i] "</a>" "<a href=\"#\">&gt;</a>"
+    post = post " <a href=\"" tags[i] ".html\">" tags[i] "</a>"
   }
   post = post "<a href=\"" Index[slug]["month"] ".html\"> "
   post = post "<sup>[up]</sup></a> <a href=\"javascript:;\" onclick=\"copy_clipboard('section#section_" slug "')\"><sup>[copy]</sup></a></span>\n\n"
