@@ -1,7 +1,7 @@
 import shutil
 import os
 
-src = r'k:\documents\My Clippings.txt'
+src = r'c:\temp\clippings.txt'
 dst = os.path.join(os.getcwd(), 'draft.txt')
 
 lines = []
@@ -33,8 +33,16 @@ while lineIdx < len(lines):
   clips.append(clip)
 
 with open(dst, 'a', encoding='utf-8-sig') as f:
+  f.write('\n')
   for clip in clips:
-    for line in clip['lines']:
-      match = 'call matchadd("search", "' + line.replace('"', "\\\"") + '")\n'
-      f.write(match)
+    if 'Blogue do Caloni' in clip['src']:
+      for line in clip['lines']:
+        match = 'call matchadd("search", "' + line.replace('"', "\\\"") + '")\n'
+        f.write(match)
 
+with open(dst, 'a', encoding='utf-8-sig') as f:
+  f.write('\n')
+  for clip in clips:
+    if 'Blogue do Caloni' in clip['src']:
+      for line in clip['lines']:
+        f.write(line + '\n')
