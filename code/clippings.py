@@ -39,3 +39,10 @@ with open(dst, 'a', encoding='utf-8-sig') as f:
       for line in clip['lines']:
         match = 'call matchadd("search", "' + line.replace('"', "\\\"") + '")\n'
         f.write(match)
+
+with open(dst, 'a', encoding='utf-8-sig') as f:
+  f.write('\n')
+  for clip in clips:
+    if 'Blogue do Caloni' in clip['src']:
+      for line in clip['lines']:
+        f.write(line + '\n')
