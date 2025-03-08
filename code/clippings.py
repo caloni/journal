@@ -1,7 +1,7 @@
 import shutil
 import os
 
-src = r'c:\temp\clippings.txt'
+src = r'k:\documents\My Clippings.txt'
 dst = os.path.join(os.getcwd(), 'draft.txt')
 
 lines = []
