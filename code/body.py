@@ -81,7 +81,7 @@ def plot_tendency_from_file(filename, tendency_curve=0.1):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Plot weight tendency and monthly exercise graphs.')
     parser.add_argument('filename', nargs='?', default='private/body.txt', type=str, help='Path to the data file (default: private/body.txt)')
-    parser.add_argument('--tendency_curve', type=float, default=0.1, help='Tendency curve factor for weight')
+    parser.add_argument('--tendency_curve', type=float, default=0.1, help='Tendency curve factor for weight (default: 0.1)')
     args = parser.parse_args()
     
     plot_tendency_from_file(args.filename, tendency_curve=args.tendency_curve)
