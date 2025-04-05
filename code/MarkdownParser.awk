@@ -143,6 +143,24 @@ function CopyNewPost(    slug, tags, i, j)
   FlushContentState(slug)
 }
 
+function PopulateTagsNavigation(    prevInTag, i, j, k, f)
+{
+  PROCINFO["sorted_in"] = "@ind_str_asc"
+  for( i in SlugsByTagsAndDates ) {
+    prevInTag = ""
+    PROCINFO["sorted_in"] = "@ind_num_desc"
+    for( j in SlugsByTagsAndDates[i] ) {
+      for( k in SlugsByTagsAndDates[i][j] ) {
+        if( prevInTag != "" ) {
+          Index[k]["tag_nav"][i]["prev_in_tag"] = prevInTag
+          Index[prevInTag]["tag_nav"][i]["next_in_tag"] = k
+        }
+        prevInTag = k
+      }
+    }
+  }
+}
+
 $1 == "metadata_current_date" { Settings["date"] = $2 ; next }
 $1 == "metadata_chapter" { IndexMetadata[$2]["chapter"] = $3 ; IndexMetadata[$2]["explicit_slug"] = $4 ; next }
 
@@ -207,4 +225,5 @@ END {
       print "warning: link", i, "not being used"
     }
   }
+  PopulateTagsNavigation()
 }
