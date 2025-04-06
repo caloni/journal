@@ -338,7 +338,7 @@ function FlushIndexPage()
         "<ul class=\"indexlevel1\">"
     }
     Letters[l] = Letters[l] "<li epub:type=\"index-entry\" class=\"indexhead1\" id=\"mh" currid++ "\">"\
-      "<a href=\"" ToId(Index[i]["chapter"]) ".xhtml#" ToId(TitleToSlug[t]) "\">" ToHtml(t) "</a></li>\n"
+      "<a href=\"" ToId(Index[i]["chapter"]) ".xhtml#" ToId(i) "\">" ToHtml(t) "</a></li>\n"
   }
   for( l in Letters ) {
     print "<a href=\"#" ToId(l) "\">" l "</a>" > indexx
