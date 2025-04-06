@@ -13,7 +13,6 @@ BEGIN {
 function FlushPost(slug,    fchapter, tags, post, prefix, suffix)
 {
   post = ""
-  Index[slug]["chapter"] = Index[slug]["month"]
   fchapter = ToId(Index[slug]["chapter"])
   Chapters[Index[slug]["chapter"]] = Index[slug]["chapter"]
 
@@ -127,6 +126,16 @@ function FlushPosts(    position, slug)
       continue
     }
     FlushPost(slug)
+  }
+}
+
+function PopulateChapters(    slug)
+{
+  for( slug in Index ) {
+    if( !("month" in Index[slug]) ) {
+      continue
+    }
+    Index[slug]["chapter"] = Index[slug]["month"]
   }
 }
 
@@ -361,6 +370,7 @@ function FlushIndexPage()
 }
 
 END {
+  PopulateChapters()
   FlushPosts()
   FlushPostsPages()
   FlushPackage()
