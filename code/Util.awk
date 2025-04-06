@@ -36,21 +36,32 @@ function ToHtml(s)
   return s
 }
 
-function ToId(s)
+function ValidateId(s, id)
 {
-  gsub(/-/, "", s)
-  gsub(/ /, "_", s)
-  gsub(/#/, "sharp", s)
-  s = "_" s
-  return s
+  if( s == "_" ) {
+    print "warning: empty id (_) to " id
+  }
 }
 
-function ToEpubId(s)
+function ToId(s,    id)
 {
-  gsub(/-/, "", s)
-  gsub(/ /, "_", s)
-  s = "_" s
-  return s
+  id = s
+  gsub(/-/, "", id)
+  gsub(/ /, "_", id)
+  gsub(/#/, "sharp", id)
+  id = "_" id
+  ValidateId(s, id)
+  return id
+}
+
+function ToEpubId(s,    id)
+{
+  id = s
+  gsub(/-/, "", id)
+  gsub(/ /, "_", id)
+  id = "_" id
+  ValidateId(s, id)
+  return id
 }
 
 function ToEpubLink(s)
