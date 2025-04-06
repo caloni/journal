@@ -16,7 +16,6 @@ function FlushPost(slug,    fchapter, tags, post, prefix, suffix)
   Index[slug]["chapter"] = Index[slug]["month"]
   fchapter = ToId(Index[slug]["chapter"])
   Chapters[Index[slug]["chapter"]] = Index[slug]["chapter"]
-  TitleToChapter[Index[slug]["title"]] = Index[slug]["chapter"]
 
   split(Index[slug]["tags"], tags)
   for( i in tags ) {
@@ -279,7 +278,7 @@ function FlushTagsPage()
     print "<h1 class=\"toc-title\">" i "</h1>" > tocxhtml
     print "<ul>" > tocxhtml
     for( tit in TitlesByTags[i] ) {
-      print "<li><a href=\"" ToId(TitleToChapter[tit]) ".xhtml#" ToId(TitleToSlug[tit]) "\">" ToHtml(tit) "</a></li>" > tocxhtml
+      print "<li><a href=\"" ToId(Index[TitleToSlug[tit]]["chapter"]) ".xhtml#" ToId(TitleToSlug[tit]) "\">" ToHtml(tit) "</a></li>" > tocxhtml
     }
     print "</ul>" > tocxhtml
     print "</div>" > tocxhtml
@@ -339,7 +338,7 @@ function FlushIndexPage()
         "<ul class=\"indexlevel1\">"
     }
     Letters[l] = Letters[l] "<li epub:type=\"index-entry\" class=\"indexhead1\" id=\"mh" currid++ "\">"\
-      "<a href=\"" ToId(TitleToChapter[t]) ".xhtml#" ToId(TitleToSlug[t]) "\">" ToHtml(t) "</a></li>\n"
+      "<a href=\"" ToId(Index[i]["chapter"]) ".xhtml#" ToId(TitleToSlug[t]) "\">" ToHtml(t) "</a></li>\n"
   }
   for( l in Letters ) {
     print "<a href=\"#" ToId(l) "\">" l "</a>" > indexx
