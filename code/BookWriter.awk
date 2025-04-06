@@ -10,13 +10,13 @@ BEGIN {
   Book["publisher"] = "Caloni"
 }
 
-function FlushPost(slug,    chapter, fchapter, tags, post, prefix, suffix)
+function FlushPost(slug,    fchapter, tags, post, prefix, suffix)
 {
   post = ""
-  chapter = Index[slug]["month"]
-  fchapter = ToId(chapter)
-  Chapters[chapter] = chapter
-  TitleToChapter[Index[slug]["title"]] = chapter
+  Index[slug]["chapter"] = Index[slug]["month"]
+  fchapter = ToId(Index[slug]["chapter"])
+  Chapters[Index[slug]["chapter"]] = Index[slug]["chapter"]
+  TitleToChapter[Index[slug]["title"]] = Index[slug]["chapter"]
 
   split(Index[slug]["tags"], tags)
   for( i in tags ) {
@@ -27,14 +27,14 @@ function FlushPost(slug,    chapter, fchapter, tags, post, prefix, suffix)
     post = post "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n"
     post = post "<html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:epub=\"http://www.idpf.org/2007/ops\">\n"
     post = post "<head><meta http-equiv=\"default-style\" content=\"text/html; charset=utf-8\"/>\n"
-    post = post "<title>" ToHtml(chapter) "</title>\n"
+    post = post "<title>" ToHtml(Index[slug]["chapter"]) "</title>\n"
     post = post "<link rel=\"stylesheet\" href=\"css/stylesheet.css\" type=\"text/css\" />\n"
     post = post "<link rel=\"stylesheet\" href=\"css/page-template.xpgt\" type=\"application/adobe-page-template+xml\" />\n"
     post = post "</head>\n"
     post = post "<body>\n"
     post = post "<div class=\"body\">\n"
-    post = post "<span epub:type=\"pagebreak\" id=\"" ToId(chapter) "\" title=\"" ToHtml(chapter) "\"/>\n"
-    post = post "<h1 class=\"chapter-title\"><strong>" ToHtml(chapter) "</strong></h1>\n"
+    post = post "<span epub:type=\"pagebreak\" id=\"" ToId(Index[slug]["chapter"]) "\" title=\"" ToHtml(Index[slug]["chapter"]) "\"/>\n"
+    post = post "<h1 class=\"chapter-title\"><strong>" ToHtml(Index[slug]["chapter"]) "</strong></h1>\n"
     Files[fchapter] = fchapter
   }
 
