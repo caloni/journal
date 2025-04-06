@@ -102,7 +102,14 @@ function FlushPost(slug,    fchapter, tags, post, prefix, suffix)
   post = post "<h1 class=\"chapter-subtitle\"><strong>" ToHtml(Index[slug]["title"]) "</strong></h1>\n"
   post = post "<p class=\"note-title\">" Index[slug]["date"]
   for( i in tags ) {
-    post = post " <a href=\"toc" ToId(tags[i]) ".xhtml\">" tags[i] "</a>"
+    post = post " "
+    if( "tag_nav" in Index[slug] && tags[i] in Index[slug]["tag_nav"] && "prev_in_tag" in Index[slug]["tag_nav"][tags[i]] ) {
+      post = post "<a href=\"" ToId(Index[Index[slug]["tag_nav"][tags[i]]["prev_in_tag"]]["chapter"]) ".xhtml#" ToId(Index[slug]["tag_nav"][tags[i]]["prev_in_tag"]) "\">&lt;</a>"
+    }
+    post = post "<a href=\"toc" ToId(tags[i]) ".xhtml\">" tags[i] "</a>"
+    if( "tag_nav" in Index[slug] && tags[i] in Index[slug]["tag_nav"] && "next_in_tag" in Index[slug]["tag_nav"][tags[i]] ) {
+      post = post "<a href=\"" ToId(Index[Index[slug]["tag_nav"][tags[i]]["next_in_tag"]]["chapter"]) ".xhtml#" ToId(Index[slug]["tag_nav"][tags[i]]["next_in_tag"]) "\">&gt;</a>"
+    }
   }
   post = post "</p>\n\n"
   if( length(Index[slug]["lines"]) ) {
