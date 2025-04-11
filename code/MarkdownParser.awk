@@ -163,6 +163,7 @@ function PopulateTagsNavigation(    prevInTag, i, j, k, f)
 
 $1 == "metadata_current_date" { Settings["date"] = $2 ; next }
 $1 == "metadata_chapter" { IndexMetadata[$2]["chapter"] = $3 ; IndexMetadata[$2]["explicit_slug"] = $4 ; next }
+$1 == "metadata_tags" { next }
 
 /^# / && !ContentState["```"] {
   if( "title" in NewPost ) {
