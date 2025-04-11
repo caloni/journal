@@ -337,6 +337,9 @@ function FlushTagsPage(    i, j, k, f, t)
   WriteToHtml(f, Blog["text_page_prefix"] "::tags", "index.html", 1)
   PROCINFO["sorted_in"] = "@ind_str_asc"
   for( i in SlugsByTagsAndDates ) {
+    print "<button class=\"tagbutton\" style=\"font-size: 1rem;\" onclick=\"window.location = '" i ".html';\">" ToHtml(i) "</button>" > f
+  }
+  for( i in SlugsByTagsAndDates ) {
     t = ""
     t2 = 0
     PROCINFO["sorted_in"] = "@ind_num_desc"
