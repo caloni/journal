@@ -236,6 +236,7 @@ function WriteBottomHtml(file, filter, nextLink, prevLink, build,    label, link
     print "<p><small><i>Build: " build "</i></small></p>" > file
   }
   print "</div>" > file
+  print "<div class=\"intentionally-blank\"></div>" > file
   print "</footer>" > file
   print "</body>" > file
   print "</html>" > file
