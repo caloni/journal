@@ -35,9 +35,9 @@ shutil.copytree(r'img/blog', r'public/book/EPUB/img', dirs_exist_ok=True)
 
 os.environ['LC_ALL'] = 'en_US.UTF-8'
 
-process = subprocess.run(['gawk', '-f', r'code/Util.awk', '-f', r'code/MetadataWriter.awk', 'journal.md'], check=True)
+process = subprocess.run(['gawk', '-f', os.path.join(dname, 'Util.awk'), '-f', os.path.join(dname, 'MetadataWriter.awk'), 'journal.md'], check=True)
 with open(r'public/metadata.txt', 'a') as f: f.write('metadata_current_date ' + current_date)
-process = subprocess.run(['gawk', '-f', r'code/Util.awk', '-f', r'code/MarkdownParser.awk', '-f', r'code/BookWriter.awk', r'public/metadata.txt', 'journal.md'], check=True)
+process = subprocess.run(['gawk', '-f', os.path.join(dname, 'Util.awk'), '-f', os.path.join(dname, 'MarkdownParser.awk'), '-f', os.path.join(dname, 'BookWriter.awk'), r'public/metadata.txt', 'journal.md'], check=True)
 
 os.chdir(r'public/book')
 process = subprocess.run(['python', r'repack.py'], check=True)
