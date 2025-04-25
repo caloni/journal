@@ -9,7 +9,7 @@ BEGIN {
   Blog["author-image"] = "/img/about-author.jpg"
   Blog["post-image"] = "/img/about-brand.png"
   Blog["description"] = "Write for computers, people and food."
-  Blog["generator"] = "BlogWriter 0.2.0 " Settings["generator"]
+  Blog["generator"] = "BlogWriter 0.2.0 " G_SETTINGS["generator"]
   Blog["link"] = "http://www.caloni.com.br"
   Blog["output"] = "public\\blog"
   Blog["text_favorite_tags"] = "computer cinema"
@@ -246,13 +246,13 @@ function TiePreviousNextMonths(    i, c)
 {
   PROCINFO["sorted_in"] = "@ind_num_asc"
   c = "index"
-  for( i in Months ) {
+  for( i in G_MONTHS ) {
     NextMonth[i] = c
     c = i
   }
   PROCINFO["sorted_in"] = "@ind_num_desc"
   c = "index"
-  for( i in Months ) {
+  for( i in G_MONTHS ) {
     PrevMonth[i] = c
     c = i
   }
@@ -264,7 +264,7 @@ function FlushMonthsPage(    i, f, y, m, y2)
   f = Blog["output"] "\\months.html"
   WriteToHtml(f, Blog["text_page_prefix"] "::months", "index.html", 0)
   y = "2001"
-  for( i in Months ) {
+  for( i in G_MONTHS ) {
     y2 = substr(i, 1, 4)
     m = substr(i, 6, 2)
     if( y2 != y ) {
@@ -308,12 +308,12 @@ function FlushPostsPages(    i, j, p, f)
 function FlushTagsPages(    slug, tags, i, j, k, l, f, s)
 {
   PROCINFO["sorted_in"] = "@ind_num_desc"
-  for( i in SlugsByTagsAndDates ) {
+  for( i in G_SLUGS_BY_TAGS_AND_DATES ) {
     QuickSearch[i] = i ".html"
     f = Blog["output"] "\\" i ".html"
     WriteToHtml(f, Blog["text_page_prefix"] "::" i, "index.html", 1)
-    for( j in SlugsByTagsAndDates[i] ) {
-      for( k in SlugsByTagsAndDates[i][j] ) {
+    for( j in G_SLUGS_BY_TAGS_AND_DATES[i] ) {
+      for( k in G_SLUGS_BY_TAGS_AND_DATES[i][j] ) {
         split(G_INDEX[k]["tags"], tags)
         s = ""
         for( l in tags ) {
@@ -337,15 +337,15 @@ function FlushTagsPage(    i, j, k, f, t)
   f = Blog["output"] "\\tags.html"
   WriteToHtml(f, Blog["text_page_prefix"] "::tags", "index.html", 1)
   PROCINFO["sorted_in"] = "@ind_str_asc"
-  for( i in SlugsByTagsAndDates ) {
+  for( i in G_SLUGS_BY_TAGS_AND_DATES ) {
     print "<button class=\"tagbutton\" style=\"font-size: 1rem;\" onclick=\"window.location = '" i ".html';\">" ToHtml(i) "</button>" > f
   }
-  for( i in SlugsByTagsAndDates ) {
+  for( i in G_SLUGS_BY_TAGS_AND_DATES ) {
     t = ""
     t2 = 0
     PROCINFO["sorted_in"] = "@ind_num_desc"
-    for( j in SlugsByTagsAndDates[i] ) {
-      for( k in SlugsByTagsAndDates[i][j] ) {
+    for( j in G_SLUGS_BY_TAGS_AND_DATES[i] ) {
+      for( k in G_SLUGS_BY_TAGS_AND_DATES[i][j] ) {
         if( t == "" ) {
           t = G_INDEX[k]["title"]
         } else {
@@ -375,9 +375,9 @@ function FlushPostsPage(    i, j, k, f, t, s)
   f = Blog["output"] "\\posts.html"
   WriteToHtml(f, Blog["text_page_prefix"] "::posts", "index.html", 1)
   PROCINFO["sorted_in"] = "@ind_str_desc"
-  for( i in DateSlugTitle ) {
-    for( j in DateSlugTitle[i] ) {
-      t = DateSlugTitle[i][j]
+  for( i in G_DATE_SLUG_TITLE ) {
+    for( j in G_DATE_SLUG_TITLE[i] ) {
+      t = G_DATE_SLUG_TITLE[i][j]
       split(G_INDEX[j]["tags"], a)
       s = ""
       for( k in a ) {
@@ -400,8 +400,8 @@ function FlushIndexPage(    favtags, i, c, f)
 {
   split(Blog["text_favorite_tags"], favtags)
   PROCINFO["sorted_in"] = "@ind_num_asc"
-  for( i in Months ) {
-    c = Months[i]
+  for( i in G_MONTHS ) {
+    c = G_MONTHS[i]
     break
   }
   f = Blog["output"] "\\index.html"

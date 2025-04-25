@@ -4,8 +4,8 @@
 # Depends on: Util.
 
 BEGIN {
-  Settings["generator"] = "MarkdownParser 0.2.0"
-  Settings["post_header_fields"] = "date link slug tags"
+  G_SETTINGS["generator"] = "MarkdownParser 0.2.0"
+  G_SETTINGS["post_header_fields"] = "date link slug tags"
 }
 
 function FormatContent(line,    type)
@@ -99,7 +99,7 @@ function FlushContentState(slug,    lastLine)
 function CopyNewPost(    slug, tags, i, j)
 {
   slug = NewPost["slug"]
-  G_POST_SLUG_BY_POSITION[++Posts] = slug
+  G_POST_SLUG_BY_POSITION[++G_POSTS] = slug
   if( "link" in NewPost ) {
     NewPost["tags"] = NewPost["tags"] " blogging"
   }
@@ -107,10 +107,10 @@ function CopyNewPost(    slug, tags, i, j)
 
   if( "date" in NewPost ) {
     NewPost["month"] = substr(NewPost["date"], 1, 7)
-    Months[NewPost["month"]] = NewPost["month"]
-    DateSlugTitle[NewPost["date"]][slug] = NewPost["title"]
+    G_MONTHS[NewPost["month"]] = NewPost["month"]
+    G_DATE_SLUG_TITLE[NewPost["date"]][slug] = NewPost["title"]
     for( i in tags ) {
-      SlugsByTagsAndDates[tags[i]][NewPost["date"]][slug] = slug
+      G_SLUGS_BY_TAGS_AND_DATES[tags[i]][NewPost["date"]][slug] = slug
     }
 
     G_INDEX[slug]["month"] = NewPost["month"]
@@ -146,11 +146,11 @@ function CopyNewPost(    slug, tags, i, j)
 function PopulateTagsNavigation(    prevInTag, i, j, k, f)
 {
   PROCINFO["sorted_in"] = "@ind_str_asc"
-  for( i in SlugsByTagsAndDates ) {
+  for( i in G_SLUGS_BY_TAGS_AND_DATES ) {
     prevInTag = ""
     PROCINFO["sorted_in"] = "@ind_num_desc"
-    for( j in SlugsByTagsAndDates[i] ) {
-      for( k in SlugsByTagsAndDates[i][j] ) {
+    for( j in G_SLUGS_BY_TAGS_AND_DATES[i] ) {
+      for( k in G_SLUGS_BY_TAGS_AND_DATES[i][j] ) {
         if( prevInTag != "" ) {
           G_INDEX[k]["tag_nav"][i]["prev_in_tag"] = prevInTag
           G_INDEX[prevInTag]["tag_nav"][i]["next_in_tag"] = k
@@ -161,7 +161,7 @@ function PopulateTagsNavigation(    prevInTag, i, j, k, f)
   }
 }
 
-$1 == "metadata_current_date" { Settings["date"] = $2 ; next }
+$1 == "metadata_current_date" { G_SETTINGS["date"] = $2 ; next }
 $1 == "metadata_chapter" { G_INDEX_METADATA[$2]["chapter"] = $3 ; G_INDEX_METADATA[$2]["explicit_slug"] = $4 ; next }
 $1 == "metadata_tags" { next }
 
@@ -189,7 +189,7 @@ $1 == "metadata_tags" { next }
     if( a[2] ~ /^(https?)|(ftp)|(mailto):/ ) {
       a[2] = "<a href=\"" a[2] "\">" a[1] "</a>"
     }
-    else if( index(Settings["post_header_fields"], a[1]) ) {
+    else if( index(G_SETTINGS["post_header_fields"], a[1]) ) {
       NewPost[a[1]] = a[3]
     } else if( !(a[2] in G_INDEX_METADATA) ) {
       print "warning: link", a[2], "not found for name", a[1], "and title", a[3]
@@ -206,9 +206,9 @@ $1 == "metadata_tags" { next }
 }
 
 /.+/ {
-  NewPostTotalLines = NewPost["totalLines"]
+  G_NEW_POST_TOTAL_LINES = NewPost["totalLines"]
   FormatContent($0)
-  if( NewPost["totalLines"] > NewPostTotalLines ) {
+  if( NewPost["totalLines"] > G_NEW_POST_TOTAL_LINES ) {
     if( length(NewPost["summary"]) < 200 ) {
       if( index($0, "{{") == 0 && index($0, "```") == 0 ) {
         NewPost["summary"] = NewPost["summary"] " " $0

@@ -4,7 +4,7 @@
 # Depends on: MarkdownParser, Util.
 
 BEGIN {
-  G_BOOK["copyright"] = "BlogWriter 0.2.0 " Settings["generator"]
+  G_BOOK["copyright"] = "BlogWriter 0.2.0 " G_SETTINGS["generator"]
   G_BOOK["title"] = "Blogue do Caloni: Programação, Depuração, Transpiração"
   G_BOOK["author"] = "Wanderley Caloni"
   G_BOOK["publisher"] = "Caloni"
@@ -169,7 +169,7 @@ function FlushPackage()
   print "<dc:identifier id=\"p0000000000000\">0000000000000</dc:identifier>" > package
   print "<dc:source id=\"src-id\">urn:isbn:0000000000000</dc:source>" > package
   print "<dc:language>pt-BR</dc:language>" > package
-  print "<meta property=\"dcterms:modified\">" Settings["date"] "</meta>" > package
+  print "<meta property=\"dcterms:modified\">" G_SETTINGS["date"] "</meta>" > package
   print "</metadata>" > package
   print "<manifest>" > package
   print "<item id=\"cover\" href=\"cover.xhtml\" media-type=\"application/xhtml+xml\"/>" > package
