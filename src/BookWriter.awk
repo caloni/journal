@@ -4,10 +4,10 @@
 # Depends on: MarkdownParser, Util.
 
 BEGIN {
-  Book["copyright"] = "BlogWriter 0.2.0 " Settings["generator"]
-  Book["title"] = "Blogue do Caloni: Programação, Depuração, Transpiração"
-  Book["author"] = "Wanderley Caloni"
-  Book["publisher"] = "Caloni"
+  G_BOOK["copyright"] = "BlogWriter 0.2.0 " Settings["generator"]
+  G_BOOK["title"] = "Blogue do Caloni: Programação, Depuração, Transpiração"
+  G_BOOK["author"] = "Wanderley Caloni"
+  G_BOOK["publisher"] = "Caloni"
 }
 
 function FlushPost(slug,    fchapter, tags, post, prefix, suffix)
@@ -162,10 +162,10 @@ function FlushPackage()
   print "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" > package
   print "<package xmlns=\"http://www.idpf.org/2007/opf\" version=\"3.0\" unique-identifier=\"p0000000000000\">" > package
   print "<metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\">" > package
-  print "<dc:title id=\"title\">" Book["title"] "</dc:title>" > package
-  print "<dc:creator>" Book["author"] "</dc:creator>" > package
-  print "<dc:publisher>" Book["publisher"] "</dc:publisher>" > package
-  print "<dc:rights>Copyright " Book["copyright"] "</dc:rights>" > package
+  print "<dc:title id=\"title\">" G_BOOK["title"] "</dc:title>" > package
+  print "<dc:creator>" G_BOOK["author"] "</dc:creator>" > package
+  print "<dc:publisher>" G_BOOK["publisher"] "</dc:publisher>" > package
+  print "<dc:rights>Copyright " G_BOOK["copyright"] "</dc:rights>" > package
   print "<dc:identifier id=\"p0000000000000\">0000000000000</dc:identifier>" > package
   print "<dc:source id=\"src-id\">urn:isbn:0000000000000</dc:source>" > package
   print "<dc:language>pt-BR</dc:language>" > package
