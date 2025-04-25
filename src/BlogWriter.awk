@@ -31,9 +31,9 @@ function FlushPost(slug,    tags, post, i, j, file, search, prefix, suffix, link
   post = ""
 
   file = Blog["output"] "\\" G_INDEX[slug]["month"] ".html"
-  if( ! (G_INDEX[slug]["month"] in G_FILES) ) {
+  if( ! (G_INDEX[slug]["month"] in Files) ) {
     WriteToHtml(file, Blog["text_page_prefix"] "::" G_INDEX[slug]["month"], "months.html", 0)
-    G_FILES[G_INDEX[slug]["month"]] = G_INDEX[slug]["month"]
+    Files[G_INDEX[slug]["month"]] = G_INDEX[slug]["month"]
   }
   for( i in G_INDEX[slug]["lines"] ) {
     prefix = ""
@@ -46,8 +46,8 @@ function FlushPost(slug,    tags, post, i, j, file, search, prefix, suffix, link
         }
         if( "links" in G_INDEX[slug] ) {
           for( j in G_INDEX[slug]["links"] ) {
-            if( G_INDEX[slug]["links"][j] in IndexMetadata ) {
-              G_INDEX[slug]["links"][j] = "<a href=\"" IndexMetadata[G_INDEX[slug]["links"][j]]["chapter"] ".html#" G_INDEX[slug]["links"][j] "\">" j "</a>"
+            if( G_INDEX[slug]["links"][j] in G_INDEX_METADATA ) {
+              G_INDEX[slug]["links"][j] = "<a href=\"" G_INDEX_METADATA[G_INDEX[slug]["links"][j]]["chapter"] ".html#" G_INDEX[slug]["links"][j] "\">" j "</a>"
             }
             search = "\\[" j "\\]"
             gsub(search, G_INDEX[slug]["links"][j], G_INDEX[slug]["lines"][i]["content"])
@@ -137,8 +137,8 @@ function FlushPost(slug,    tags, post, i, j, file, search, prefix, suffix, link
 function FlushPosts(    position, slug)
 {
   PROCINFO["sorted_in"] = "@ind_num_asc"
-  for( position in PostSlugByPosition ) {
-    slug = PostSlugByPosition[position]
+  for( position in G_POST_SLUG_BY_POSITION ) {
+    slug = G_POST_SLUG_BY_POSITION[position]
     if( !("date" in G_INDEX[slug]) ) {
       print "skipping", slug
       continue
@@ -288,7 +288,7 @@ function FlushMonthsPage(    i, f, y, m, y2)
 function FlushPostsPages(    i, j, p, f)
 {
   PROCINFO["sorted_in"] = "@ind_num_asc"
-  for( i in G_FILES ) {
+  for( i in Files ) {
     p = ""
     f = Blog["output"] "\\" i ".html"
     PROCINFO["sorted_in"] = "@ind_num_asc"

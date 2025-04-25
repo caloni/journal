@@ -47,8 +47,8 @@ function FlushPost(slug,    fchapter, tags, post, prefix, suffix)
           }
           if( "links" in G_INDEX[slug] ) {
             for( j in G_INDEX[slug]["links"] ) {
-              if( G_INDEX[slug]["links"][j] in IndexMetadata ) {
-                G_INDEX[slug]["links"][j] = "<a href=\"" ToEpubId(IndexMetadata[G_INDEX[slug]["links"][j]]["chapter"]) ".xhtml#" ToEpubId(G_INDEX[slug]["links"][j]) "\">" j "</a>"
+              if( G_INDEX[slug]["links"][j] in G_INDEX_METADATA ) {
+                G_INDEX[slug]["links"][j] = "<a href=\"" ToEpubId(G_INDEX_METADATA[G_INDEX[slug]["links"][j]]["chapter"]) ".xhtml#" ToEpubId(G_INDEX[slug]["links"][j]) "\">" j "</a>"
               }
               search = "\\[" j "\\]"
               gsub(search, ToEpubLink(G_INDEX[slug]["links"][j]), G_INDEX[slug]["lines"][i]["content"])
@@ -126,8 +126,8 @@ function FlushPost(slug,    fchapter, tags, post, prefix, suffix)
 function FlushPosts(    position, slug)
 {
   PROCINFO["sorted_in"] = "@ind_num_asc"
-  for( position in PostSlugByPosition ) {
-    slug = PostSlugByPosition[position]
+  for( position in G_POST_SLUG_BY_POSITION ) {
+    slug = G_POST_SLUG_BY_POSITION[position]
     if( !("date" in G_INDEX[slug]) ) {
       print "skipping", slug
       continue
@@ -189,7 +189,7 @@ function FlushPackage()
     print "<item id=\"" ToId(c) "\" href=\"" ToId(c) ".xhtml\" media-type=\"application/xhtml+xml\"/>" > package
   }
   totalImages = 0
-  for( image in PostsImages ) {
+  for( image in G_POSTS_IMAGES ) {
     if( index(image, "jpg") || index(image, "jpeg") ) {
       print "<item id=\"img-id-" ++totalImages "\" href=\"img/" image "\" media-type=\"image/jpeg\"/>" > package
     } else if( index(image, "gif") ) {
@@ -294,7 +294,7 @@ function FlushTagsPage()
     print "<h1 class=\"toc-title\">" i "</h1>" > tocxhtml
     print "<ul>" > tocxhtml
     for( tit in G_TITLES_BY_TAGS[i] ) {
-      print "<li><a href=\"" ToId(G_INDEX[TitleToSlug[tit]]["chapter"]) ".xhtml#" ToId(TitleToSlug[tit]) "\">" ToHtml(tit) "</a></li>" > tocxhtml
+      print "<li><a href=\"" ToId(G_INDEX[G_TITLE_TO_SLUG[tit]]["chapter"]) ".xhtml#" ToId(G_TITLE_TO_SLUG[tit]) "\">" ToHtml(tit) "</a></li>" > tocxhtml
     }
     print "</ul>" > tocxhtml
     print "</div>" > tocxhtml
@@ -349,14 +349,14 @@ function FlushIndexPage()
     }
     l = ToLetter(G_INDEX[i]["letter"])
     t = G_INDEX[i]["title"]
-    if( Letters[l] == "" ) {
-      Letters[l] = "<h3 id=\"" ToId(l) "\" class=\"groupletter\">" ToHtml(l) "</h3>\n"\
+    if( G_LETTERS[l] == "" ) {
+      G_LETTERS[l] = "<h3 id=\"" ToId(l) "\" class=\"groupletter\">" ToHtml(l) "</h3>\n"\
         "<ul class=\"indexlevel1\">"
     }
-    Letters[l] = Letters[l] "<li epub:type=\"index-entry\" class=\"indexhead1\" id=\"mh" currid++ "\">"\
+    G_LETTERS[l] = G_LETTERS[l] "<li epub:type=\"index-entry\" class=\"indexhead1\" id=\"mh" currid++ "\">"\
       "<a href=\"" ToId(G_INDEX[i]["chapter"]) ".xhtml#" ToId(i) "\">" ToHtml(t) "</a></li>\n"
   }
-  for( l in Letters ) {
+  for( l in G_LETTERS ) {
     print "<a href=\"#" ToId(l) "\">" l "</a>" > indexx
   }
   print "<h3 id=\"toc_tags\" class=\"groupletter\">Tags</h3>\n"\
@@ -367,8 +367,8 @@ function FlushIndexPage()
       "<a href=\"toc" ToId(i) ".xhtml\">" ToHtml(i) "</a></li>\n" > indexx
   }
   print "</ul>" > indexx
-  for( l in Letters ) {
-    print Letters[l] > indexx
+  for( l in G_LETTERS ) {
+    print G_LETTERS[l] > indexx
     print "</ul>" > indexx
   }
   print "</section>" > indexx

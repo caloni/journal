@@ -71,7 +71,7 @@ function FormatContent(line,    type)
 
     if( match($0, /^!\[([^]]*)\]\( *([^" )]+) *"?([^"]*)?"?\)/, a) ) {
       NewPost["image"] = a[2]
-      PostsImages[a[2]] = a[2]
+      G_POSTS_IMAGES[a[2]] = a[2]
       line = a[2]
       type = "img"
       break
@@ -99,7 +99,7 @@ function FlushContentState(slug,    lastLine)
 function CopyNewPost(    slug, tags, i, j)
 {
   slug = NewPost["slug"]
-  PostSlugByPosition[++Posts] = slug
+  G_POST_SLUG_BY_POSITION[++Posts] = slug
   if( "link" in NewPost ) {
     NewPost["tags"] = NewPost["tags"] " blogging"
   }
@@ -139,7 +139,7 @@ function CopyNewPost(    slug, tags, i, j)
       }
     }
   }
-  TitleToSlug[NewPost["title"]] = slug
+  G_TITLE_TO_SLUG[NewPost["title"]] = slug
   FlushContentState(slug)
 }
 
@@ -162,7 +162,7 @@ function PopulateTagsNavigation(    prevInTag, i, j, k, f)
 }
 
 $1 == "metadata_current_date" { Settings["date"] = $2 ; next }
-$1 == "metadata_chapter" { IndexMetadata[$2]["chapter"] = $3 ; IndexMetadata[$2]["explicit_slug"] = $4 ; next }
+$1 == "metadata_chapter" { G_INDEX_METADATA[$2]["chapter"] = $3 ; G_INDEX_METADATA[$2]["explicit_slug"] = $4 ; next }
 $1 == "metadata_tags" { next }
 
 /^# / && !ContentState["```"] {
@@ -179,7 +179,7 @@ $1 == "metadata_tags" { next }
     if( !(a[2] ~ /^(https?)|(ftp)|(mailto):/) ) {
       sub("\\(" a[2] "\\)", "", $0)
       NewPost["links"][a[1]] = a[2]
-      IndexMetadata[a[2]]["used"] += 1
+      G_INDEX_METADATA[a[2]]["used"] += 1
     }
   }
 }
@@ -191,11 +191,11 @@ $1 == "metadata_tags" { next }
     }
     else if( index(Settings["post_header_fields"], a[1]) ) {
       NewPost[a[1]] = a[3]
-    } else if( !(a[2] in IndexMetadata) ) {
+    } else if( !(a[2] in G_INDEX_METADATA) ) {
       print "warning: link", a[2], "not found for name", a[1], "and title", a[3]
       print $0
     } else {
-      IndexMetadata[a[2]]["used"] += 1
+      G_INDEX_METADATA[a[2]]["used"] += 1
     }
     NewPost["links"][a[1]] = a[2]
     delete a
@@ -221,8 +221,8 @@ END {
   if( "title" in NewPost ) {
     CopyNewPost()
   }
-  for( i in IndexMetadata ) {
-    if( IndexMetadata[i]["explicit_slug"] && !("used" in IndexMetadata[i]) ) {
+  for( i in G_INDEX_METADATA ) {
+    if( G_INDEX_METADATA[i]["explicit_slug"] && !("used" in G_INDEX_METADATA[i]) ) {
       print "warning: link", i, "not being used"
     }
   }
