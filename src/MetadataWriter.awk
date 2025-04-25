@@ -12,11 +12,11 @@ function FlushNewPost(    chapter)
 {
   chapter = substr(NewPost["date"], 1, 7)
 
-  if( NewPost["slug"] in Index ) {
-    print "warning: slug", NewPost["slug"], "duplicated in", Index[slug]["date"], "and", NewPost["date"]
+  if( NewPost["slug"] in G_INDEX ) {
+    print "warning: slug", NewPost["slug"], "duplicated in", G_INDEX[slug]["date"], "and", NewPost["date"]
   }
-  Index[NewPost["slug"]]["date"] = NewPost["date"]
-  Index[NewPost["slug"]]["link"] = link
+  G_INDEX[NewPost["slug"]]["date"] = NewPost["date"]
+  G_INDEX[NewPost["slug"]]["link"] = link
   print "metadata_chapter", NewPost["slug"], chapter, NewPost["explicit_slug"] > Metadata["output"]
 
   delete NewPost

@@ -113,29 +113,29 @@ function CopyNewPost(    slug, tags, i, j)
       SlugsByTagsAndDates[tags[i]][NewPost["date"]][slug] = slug
     }
 
-    Index[slug]["month"] = NewPost["month"]
-    Index[slug]["date"] = NewPost["date"]
+    G_INDEX[slug]["month"] = NewPost["month"]
+    G_INDEX[slug]["date"] = NewPost["date"]
   }
 
-  Index[slug]["slug"] = slug
-  Index[slug]["title"] = NewPost["title"]
-  Index[slug]["link"] = NewPost["month"] ".html#" slug
-  Index[slug]["letter"] = substr(NewPost["title"], 1, 1)
-  Index[slug]["summary"] = NewPost["summary"]
-  Index[slug]["tags"] = NewPost["tags"]
-  Index[slug]["image"] = NewPost["image"]
+  G_INDEX[slug]["slug"] = slug
+  G_INDEX[slug]["title"] = NewPost["title"]
+  G_INDEX[slug]["link"] = NewPost["month"] ".html#" slug
+  G_INDEX[slug]["letter"] = substr(NewPost["title"], 1, 1)
+  G_INDEX[slug]["summary"] = NewPost["summary"]
+  G_INDEX[slug]["tags"] = NewPost["tags"]
+  G_INDEX[slug]["image"] = NewPost["image"]
   if( "link" in NewPost ) {
-    Index[slug]["extlink"] = NewPost["link"]
+    G_INDEX[slug]["extlink"] = NewPost["link"]
   }
   if( "links" in NewPost ) {
     for( i in NewPost["links"] ) {
-      Index[slug]["links"][i] = NewPost["links"][i]
+      G_INDEX[slug]["links"][i] = NewPost["links"][i]
     }
   }
   if( "lines" in NewPost ) {
     for( i in NewPost["lines"] ) {
       for( j in NewPost["lines"][i] ) {
-        Index[slug]["lines"][i][j] = NewPost["lines"][i][j]
+        G_INDEX[slug]["lines"][i][j] = NewPost["lines"][i][j]
       }
     }
   }
@@ -152,8 +152,8 @@ function PopulateTagsNavigation(    prevInTag, i, j, k, f)
     for( j in SlugsByTagsAndDates[i] ) {
       for( k in SlugsByTagsAndDates[i][j] ) {
         if( prevInTag != "" ) {
-          Index[k]["tag_nav"][i]["prev_in_tag"] = prevInTag
-          Index[prevInTag]["tag_nav"][i]["next_in_tag"] = k
+          G_INDEX[k]["tag_nav"][i]["prev_in_tag"] = prevInTag
+          G_INDEX[prevInTag]["tag_nav"][i]["next_in_tag"] = k
         }
         prevInTag = k
       }

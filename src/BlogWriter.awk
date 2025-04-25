@@ -27,111 +27,111 @@ BEGIN {
 
 function FlushPost(slug,    tags, post, i, j, file, search, prefix, suffix, links)
 {
-  split(Index[slug]["tags"], tags)
+  split(G_INDEX[slug]["tags"], tags)
   post = ""
 
-  file = Blog["output"] "\\" Index[slug]["month"] ".html"
-  if( ! (Index[slug]["month"] in Files) ) {
-    WriteToHtml(file, Blog["text_page_prefix"] "::" Index[slug]["month"], "months.html", 0)
-    Files[Index[slug]["month"]] = Index[slug]["month"]
+  file = Blog["output"] "\\" G_INDEX[slug]["month"] ".html"
+  if( ! (G_INDEX[slug]["month"] in G_FILES) ) {
+    WriteToHtml(file, Blog["text_page_prefix"] "::" G_INDEX[slug]["month"], "months.html", 0)
+    G_FILES[G_INDEX[slug]["month"]] = G_INDEX[slug]["month"]
   }
-  for( i in Index[slug]["lines"] ) {
+  for( i in G_INDEX[slug]["lines"] ) {
     prefix = ""
     suffix = ""
     links = 1
-    if( Index[slug]["lines"][i]["content"] != "" ) {
-      if( Index[slug]["lines"][i]["type"] != "pre" && Index[slug]["lines"][i]["type"] != "blockquote" ) {
-        if ( substr(Index[slug]["lines"][i]["type"], 1, 1) == "h" && length(Index[slug]["lines"][i]["type"]) == 2 ) {
-          gsub(/&/, "&amp;", Index[slug]["lines"][i]["content"])
+    if( G_INDEX[slug]["lines"][i]["content"] != "" ) {
+      if( G_INDEX[slug]["lines"][i]["type"] != "pre" && G_INDEX[slug]["lines"][i]["type"] != "blockquote" ) {
+        if ( substr(G_INDEX[slug]["lines"][i]["type"], 1, 1) == "h" && length(G_INDEX[slug]["lines"][i]["type"]) == 2 ) {
+          gsub(/&/, "&amp;", G_INDEX[slug]["lines"][i]["content"])
         }
-        if( "links" in Index[slug] ) {
-          for( j in Index[slug]["links"] ) {
-            if( Index[slug]["links"][j] in IndexMetadata ) {
-              Index[slug]["links"][j] = "<a href=\"" IndexMetadata[Index[slug]["links"][j]]["chapter"] ".html#" Index[slug]["links"][j] "\">" j "</a>"
+        if( "links" in G_INDEX[slug] ) {
+          for( j in G_INDEX[slug]["links"] ) {
+            if( G_INDEX[slug]["links"][j] in IndexMetadata ) {
+              G_INDEX[slug]["links"][j] = "<a href=\"" IndexMetadata[G_INDEX[slug]["links"][j]]["chapter"] ".html#" G_INDEX[slug]["links"][j] "\">" j "</a>"
             }
             search = "\\[" j "\\]"
-            gsub(search, Index[slug]["links"][j], Index[slug]["lines"][i]["content"])
+            gsub(search, G_INDEX[slug]["links"][j], G_INDEX[slug]["lines"][i]["content"])
           }
         }
       }
 
-      if( Index[slug]["lines"][i]["type"] == "pre" ) {
-        Index[slug]["lines"][i]["content"] = ToHtml(Index[slug]["lines"][i]["content"]) "\n"
-        if( Index[slug]["lines"][i-1]["type"] != Index[slug]["lines"][i]["type"] ) {
-          Index[slug]["lines"][i]["content"] = "<" Index[slug]["lines"][i]["type"] ">\n" Index[slug]["lines"][i]["content"]
+      if( G_INDEX[slug]["lines"][i]["type"] == "pre" ) {
+        G_INDEX[slug]["lines"][i]["content"] = ToHtml(G_INDEX[slug]["lines"][i]["content"]) "\n"
+        if( G_INDEX[slug]["lines"][i-1]["type"] != G_INDEX[slug]["lines"][i]["type"] ) {
+          G_INDEX[slug]["lines"][i]["content"] = "<" G_INDEX[slug]["lines"][i]["type"] ">\n" G_INDEX[slug]["lines"][i]["content"]
         }
-        if( Index[slug]["lines"][i+1]["type"] != Index[slug]["lines"][i]["type"] ) {
-          Index[slug]["lines"][i]["content"] = Index[slug]["lines"][i]["content"] "</" Index[slug]["lines"][i]["type"] ">\n"
+        if( G_INDEX[slug]["lines"][i+1]["type"] != G_INDEX[slug]["lines"][i]["type"] ) {
+          G_INDEX[slug]["lines"][i]["content"] = G_INDEX[slug]["lines"][i]["content"] "</" G_INDEX[slug]["lines"][i]["type"] ">\n"
         }
         links = 0
-      } else if ( Index[slug]["lines"][i]["type"] == "blockquote") {
+      } else if ( G_INDEX[slug]["lines"][i]["type"] == "blockquote") {
         prefix = prefix "<blockquote>"
         suffix = suffix "</blockquote>"
         links = 0
-      } else if ( Index[slug]["lines"][i]["type"] == "list") {
+      } else if ( G_INDEX[slug]["lines"][i]["type"] == "list") {
         prefix = prefix "<li>"
         suffix = suffix "</li>"
-        if( Index[slug]["lines"][i-1]["type"] != "list" ) {
+        if( G_INDEX[slug]["lines"][i-1]["type"] != "list" ) {
           prefix = "<ul>" prefix
         }
-        if( Index[slug]["lines"][i+1]["type"] != "list" ) {
+        if( G_INDEX[slug]["lines"][i+1]["type"] != "list" ) {
           suffix = suffix "</ul>"
         }
         links = 1
-      } else if ( substr(Index[slug]["lines"][i]["type"], 1, 1) == "h" && length(Index[slug]["lines"][i]["type"]) == 2 ) {
-        prefix = prefix "<h" substr(Index[slug]["lines"][i]["type"], 2, 1) ">"
-        suffix = suffix "</h" substr(Index[slug]["lines"][i]["type"], 2, 1) ">\n"
+      } else if ( substr(G_INDEX[slug]["lines"][i]["type"], 1, 1) == "h" && length(G_INDEX[slug]["lines"][i]["type"]) == 2 ) {
+        prefix = prefix "<h" substr(G_INDEX[slug]["lines"][i]["type"], 2, 1) ">"
+        suffix = suffix "</h" substr(G_INDEX[slug]["lines"][i]["type"], 2, 1) ">\n"
         links = 1
-      } else if ( Index[slug]["lines"][i]["type"] == "p") {
+      } else if ( G_INDEX[slug]["lines"][i]["type"] == "p") {
         prefix = prefix "<p>"
         suffix = suffix "</p>\n"
         links = 1
-      } else if ( Index[slug]["lines"][i]["type"] == "img") {
+      } else if ( G_INDEX[slug]["lines"][i]["type"] == "img") {
         prefix = prefix "<img src=\"img/"
         suffix = suffix "\"/>\n"
         links = 0
       }
 
       if( links ) {
-        Index[slug]["lines"][i]["content"] = gensub(/\[([^\]]+)\]/, "<a href=\"posts.html?q=\\1\">\\1</a>", "g", Index[slug]["lines"][i]["content"])
+        G_INDEX[slug]["lines"][i]["content"] = gensub(/\[([^\]]+)\]/, "<a href=\"posts.html?q=\\1\">\\1</a>", "g", G_INDEX[slug]["lines"][i]["content"])
       }
 
-      Index[slug]["lines"][i]["content"] = prefix Index[slug]["lines"][i]["content"] suffix
+      G_INDEX[slug]["lines"][i]["content"] = prefix G_INDEX[slug]["lines"][i]["content"] suffix
     }
   }
 
-  post = "<span id=\"" slug "\" title=\"" ToHtml(Index[slug]["title"]) "\"/></span>\n"
+  post = "<span id=\"" slug "\" title=\"" ToHtml(G_INDEX[slug]["title"]) "\"/></span>\n"
   post = post "<section id=\"section_" slug "\">\n"
-  if( "extlink" in Index[slug] ) {
-    post = post "<p class=\"title\"><a href=\"" Index[slug]["month"] ".html#" slug "\">#</a> <a class=\"external\" href=\"" Index[slug]["extlink"] "\">" ToHtml(Index[slug]["title"]) "</a></p>\n"
+  if( "extlink" in G_INDEX[slug] ) {
+    post = post "<p class=\"title\"><a href=\"" G_INDEX[slug]["month"] ".html#" slug "\">#</a> <a class=\"external\" href=\"" G_INDEX[slug]["extlink"] "\">" ToHtml(G_INDEX[slug]["title"]) "</a></p>\n"
   } else {
-    post = post "<p class=\"title\"><a href=\"" Index[slug]["month"] ".html#" slug "\">#</a> " ToHtml(Index[slug]["title"]) "</p>\n"
+    post = post "<p class=\"title\"><a href=\"" G_INDEX[slug]["month"] ".html#" slug "\">#</a> " ToHtml(G_INDEX[slug]["title"]) "</p>\n"
   }
-  post = post "<span class=\"title-heading\">" Blog["author"] ", " Index[slug]["date"]
+  post = post "<span class=\"title-heading\">" Blog["author"] ", " G_INDEX[slug]["date"]
   for( i in tags ) {
     post = post " "
-    if( "tag_nav" in Index[slug] && tags[i] in Index[slug]["tag_nav"] && "prev_in_tag" in Index[slug]["tag_nav"][tags[i]] ) {
-      post = post "<a href=\"" Index[Index[slug]["tag_nav"][tags[i]]["prev_in_tag"]]["link"] "\">&lt;</a>"
+    if( "tag_nav" in G_INDEX[slug] && tags[i] in G_INDEX[slug]["tag_nav"] && "prev_in_tag" in G_INDEX[slug]["tag_nav"][tags[i]] ) {
+      post = post "<a href=\"" G_INDEX[G_INDEX[slug]["tag_nav"][tags[i]]["prev_in_tag"]]["link"] "\">&lt;</a>"
     }
     post = post "<a href=\"" tags[i] ".html\">" tags[i] "</a>"
-    if( "tag_nav" in Index[slug] && tags[i] in Index[slug]["tag_nav"] && "next_in_tag" in Index[slug]["tag_nav"][tags[i]] ) {
-      post = post "<a href=\"" Index[Index[slug]["tag_nav"][tags[i]]["next_in_tag"]]["link"] "\">&gt;</a>"
+    if( "tag_nav" in G_INDEX[slug] && tags[i] in G_INDEX[slug]["tag_nav"] && "next_in_tag" in G_INDEX[slug]["tag_nav"][tags[i]] ) {
+      post = post "<a href=\"" G_INDEX[G_INDEX[slug]["tag_nav"][tags[i]]["next_in_tag"]]["link"] "\">&gt;</a>"
     }
   }
-  post = post "<a href=\"" Index[slug]["month"] ".html\"> "
+  post = post "<a href=\"" G_INDEX[slug]["month"] ".html\"> "
   post = post "<sup>[up]</sup></a> <a href=\"javascript:;\" onclick=\"copy_clipboard('section#section_" slug "')\"><sup>[copy]</sup></a></span>\n\n"
-  for( i in Index[slug]["lines"] ) {
-    post = post Index[slug]["lines"][i]["content"]
-    if( Index[slug]["lines"][i]["type"] != "pre" ) {
+  for( i in G_INDEX[slug]["lines"] ) {
+    post = post G_INDEX[slug]["lines"][i]["content"]
+    if( G_INDEX[slug]["lines"][i]["type"] != "pre" ) {
       post = post "\n"
     }
   }
   post = post "</section><hr/>\n"
-  PostsByMonth[Index[slug]["month"]][Index[slug]["date"]] = PostsByMonth[Index[slug]["month"]][Index[slug]["date"]] "\n" post
-  Index[slug]["extlink"] = "<li><small><a href=\"" Index[slug]["month"] ".html#" slug "\">" ToHtml(Index[slug]["title"]) "</a></small></li>"
-  PostLinksByMonth[Index[slug]["month"]][Index[slug]["date"]] = PostLinksByMonth[Index[slug]["month"]][Index[slug]["date"]] "\n" Index[slug]["extlink"]
+  PostsByMonth[G_INDEX[slug]["month"]][G_INDEX[slug]["date"]] = PostsByMonth[G_INDEX[slug]["month"]][G_INDEX[slug]["date"]] "\n" post
+  G_INDEX[slug]["extlink"] = "<li><small><a href=\"" G_INDEX[slug]["month"] ".html#" slug "\">" ToHtml(G_INDEX[slug]["title"]) "</a></small></li>"
+  PostLinksByMonth[G_INDEX[slug]["month"]][G_INDEX[slug]["date"]] = PostLinksByMonth[G_INDEX[slug]["month"]][G_INDEX[slug]["date"]] "\n" G_INDEX[slug]["extlink"]
 
-  QuickSearch[slug] = Index[slug]["month"] ".html#" slug
+  QuickSearch[slug] = G_INDEX[slug]["month"] ".html#" slug
 }
 
 function FlushPosts(    position, slug)
@@ -139,7 +139,7 @@ function FlushPosts(    position, slug)
   PROCINFO["sorted_in"] = "@ind_num_asc"
   for( position in PostSlugByPosition ) {
     slug = PostSlugByPosition[position]
-    if( !("date" in Index[slug]) ) {
+    if( !("date" in G_INDEX[slug]) ) {
       print "skipping", slug
       continue
     }
@@ -288,7 +288,7 @@ function FlushMonthsPage(    i, f, y, m, y2)
 function FlushPostsPages(    i, j, p, f)
 {
   PROCINFO["sorted_in"] = "@ind_num_asc"
-  for( i in Files ) {
+  for( i in G_FILES ) {
     p = ""
     f = Blog["output"] "\\" i ".html"
     PROCINFO["sorted_in"] = "@ind_num_asc"
@@ -314,17 +314,17 @@ function FlushTagsPages(    slug, tags, i, j, k, l, f, s)
     WriteToHtml(f, Blog["text_page_prefix"] "::" i, "index.html", 1)
     for( j in SlugsByTagsAndDates[i] ) {
       for( k in SlugsByTagsAndDates[i][j] ) {
-        split(Index[k]["tags"], tags)
+        split(G_INDEX[k]["tags"], tags)
         s = ""
         for( l in tags ) {
           s = s " " tags[l]
         }
         print "<tr><td>" > f
-        if( Index[k]["image"] ) {
-          print "<img src=\"img/" Index[k]["image"] "\"/>" > f
+        if( G_INDEX[k]["image"] ) {
+          print "<img src=\"img/" G_INDEX[k]["image"] "\"/>" > f
         }
-        print "<b><a href=\"" Index[k]["month"] ".html#" k "\">" ToHtml(Index[k]["title"]) "</a></b>" > f
-        print "<small><i>" Index[k]["date"] s " " Index[k]["summary"] "</small></i>" > f
+        print "<b><a href=\"" G_INDEX[k]["month"] ".html#" k "\">" ToHtml(G_INDEX[k]["title"]) "</a></b>" > f
+        print "<small><i>" G_INDEX[k]["date"] s " " G_INDEX[k]["summary"] "</small></i>" > f
         print "</td></tr>" > f
       }
     }
@@ -347,9 +347,9 @@ function FlushTagsPage(    i, j, k, f, t)
     for( j in SlugsByTagsAndDates[i] ) {
       for( k in SlugsByTagsAndDates[i][j] ) {
         if( t == "" ) {
-          t = Index[k]["title"]
+          t = G_INDEX[k]["title"]
         } else {
-          t = t " - " Index[k]["title"]
+          t = t " - " G_INDEX[k]["title"]
         }
         t2 = t2 + 1
         if( t2 > 15 ) {
@@ -378,17 +378,17 @@ function FlushPostsPage(    i, j, k, f, t, s)
   for( i in DateSlugTitle ) {
     for( j in DateSlugTitle[i] ) {
       t = DateSlugTitle[i][j]
-      split(Index[j]["tags"], a)
+      split(G_INDEX[j]["tags"], a)
       s = ""
       for( k in a ) {
         s = s " " a[k]
       }
       print "<tr><td>" > f
-      if( Index[j]["image"] ) {
-        print "<img src=\"img/" Index[j]["image"] "\"/>" > f
+      if( G_INDEX[j]["image"] ) {
+        print "<img src=\"img/" G_INDEX[j]["image"] "\"/>" > f
       }
-      print "<b><a href=\"" Index[j]["month"] ".html#" j "\">" ToHtml(t) "</a></b>" > f
-      print "<small><i>" Index[j]["date"] s " " Index[j]["summary"] " " j "</small></i>" > f
+      print "<b><a href=\"" G_INDEX[j]["month"] ".html#" j "\">" ToHtml(t) "</a></b>" > f
+      print "<small><i>" G_INDEX[j]["date"] s " " G_INDEX[j]["summary"] " " j "</small></i>" > f
       print "</td></tr>" > f
     }
   }
