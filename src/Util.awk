@@ -85,29 +85,29 @@ function IsNumeric(x, f)
 
 function ToLetter(s)
 {
-  if( !("Á" in convertLetters) ) {
-    convertLetters["Á"] = "A"
-    convertLetters["À"] = "A"
-    convertLetters["Â"] = "A"
-    convertLetters["Ã"] = "A"
-    convertLetters["É"] = "E"
-    convertLetters["Ê"] = "E"
-    convertLetters["Ê"] = "E"
-    convertLetters["Ô"] = "O"
-    convertLetters["Õ"] = "O"
-    convertLetters["Ó"] = "O"
-    convertLetters["Ú"] = "U"
-    convertLetters["Í"] = "I"
-    convertLetters["Ï"] = "I"
-    convertLetters["("] = "#"
-    convertLetters[")"] = "#"
-    convertLetters["'"] = "#"
-    convertLetters["\""] = "#"
+  if( !("Á" in G_CONVERT_LETTERS) ) {
+    G_CONVERT_LETTERS["Á"] = "A"
+    G_CONVERT_LETTERS["À"] = "A"
+    G_CONVERT_LETTERS["Â"] = "A"
+    G_CONVERT_LETTERS["Ã"] = "A"
+    G_CONVERT_LETTERS["É"] = "E"
+    G_CONVERT_LETTERS["Ê"] = "E"
+    G_CONVERT_LETTERS["Ê"] = "E"
+    G_CONVERT_LETTERS["Ô"] = "O"
+    G_CONVERT_LETTERS["Õ"] = "O"
+    G_CONVERT_LETTERS["Ó"] = "O"
+    G_CONVERT_LETTERS["Ú"] = "U"
+    G_CONVERT_LETTERS["Í"] = "I"
+    G_CONVERT_LETTERS["Ï"] = "I"
+    G_CONVERT_LETTERS["("] = "#"
+    G_CONVERT_LETTERS[")"] = "#"
+    G_CONVERT_LETTERS["'"] = "#"
+    G_CONVERT_LETTERS["\""] = "#"
   }
 
   if( IsNumeric(s) ) return "#"
   s = toupper(s)
-  c = convertLetters[s]
+  c = G_CONVERT_LETTERS[s]
   if( c != "" ) return c
   return s
 }

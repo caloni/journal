@@ -13,37 +13,37 @@ function FormatContent(line,    type)
   do {
     if( index(line, "```") == 1 ) {
       line = ""
-      if( ContentState["```"] ) {
-        ContentState["```"] = 0
+      if( G_CONTENT_STATE["```"] ) {
+        G_CONTENT_STATE["```"] = 0
       } else {
-        ContentState["```"] = 1
+        G_CONTENT_STATE["```"] = 1
       }
       return 0
-    } else if( ContentState["```"] ) {
+    } else if( G_CONTENT_STATE["```"] ) {
       type = "pre"
       break
     }
 
     if( line ~ /^    / ) {
       sub(/^ /, "", line)
-      if( ! ContentState[" "] ) {
-        ContentState[" "] = 1
+      if( ! G_CONTENT_STATE[" "] ) {
+        G_CONTENT_STATE[" "] = 1
       }
       type = "pre"
       break
-    } else if ( ContentState[" "] ) {
-        ContentState[" "] = 0
+    } else if ( G_CONTENT_STATE[" "] ) {
+        G_CONTENT_STATE[" "] = 0
     }
 
     if( line ~ /^ *- */ ) {
       line = gensub(/ *- *(.*)/, "\\1", "g", line)
-      if( ! ContentState["-"] ) {
-        ContentState["-"] = 1
+      if( ! G_CONTENT_STATE["-"] ) {
+        G_CONTENT_STATE["-"] = 1
       }
       type = "list"
       break
-    } else if ( ContentState["-"] ) {
-        ContentState["-"] = 0
+    } else if ( G_CONTENT_STATE["-"] ) {
+        G_CONTENT_STATE["-"] = 0
     }
 
     if( line ~ /^>/ ) {
@@ -92,7 +92,7 @@ function FormatContent(line,    type)
 function FlushContentState(slug,    lastLine)
 {
   lastLine = length(G_NEW_POST["lines"])
-  delete ContentState
+  delete G_CONTENT_STATE
   delete G_NEW_POST
 }
 
@@ -165,7 +165,7 @@ $1 == "metadata_current_date" { G_SETTINGS["date"] = $2 ; next }
 $1 == "metadata_chapter" { G_INDEX_METADATA[$2]["chapter"] = $3 ; G_INDEX_METADATA[$2]["explicit_slug"] = $4 ; next }
 $1 == "metadata_tags" { next }
 
-/^# / && !ContentState["```"] {
+/^# / && !G_CONTENT_STATE["```"] {
   if( "title" in G_NEW_POST ) {
     CopyNewPost()
   }
@@ -174,7 +174,7 @@ $1 == "metadata_tags" { next }
   next
 }
 
-/[^!]\[[^]]+\]\([^)]+\)/ && !ContentState["```"] {
+/[^!]\[[^]]+\]\([^)]+\)/ && !G_CONTENT_STATE["```"] {
   if( match($0, /[^!]\[([^]]+)\]\(([^)]+)\)/, a) ) {
     if( !(a[2] ~ /^(https?)|(ftp)|(mailto):/) ) {
       sub("\\(" a[2] "\\)", "", $0)
@@ -184,7 +184,7 @@ $1 == "metadata_tags" { next }
   }
 }
 
-/^\[[^]]+\]:/ && !ContentState["```"] {
+/^\[[^]]+\]:/ && !G_CONTENT_STATE["```"] {
   if( match($0, /^\[([^]]+)\]: *([^" ]+) *"?([^"]+)?"?/, a) ) {
     if( a[2] ~ /^(https?)|(ftp)|(mailto):/ ) {
       a[2] = "<a href=\"" a[2] "\">" a[1] "</a>"

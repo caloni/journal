@@ -25,8 +25,8 @@ function FlushNewPost(    chapter)
 function FlushTags(    tags)
 {
   PROCINFO["sorted_in"] = "@ind_str_asc"
-  for( i in AllTags ) {
-    tags = tags " " AllTags[i]
+  for( i in G_ALL_TAGS ) {
+    tags = tags " " G_ALL_TAGS[i]
   }
   print "tags:" tags
   tags = "metadata_tags" tags
@@ -34,15 +34,15 @@ function FlushTags(    tags)
 }
 
 /^```/ {
-  if( ContentState["```"] ) {
-    ContentState["```"] = 0
+  if( G_CONTENT_STATE["```"] ) {
+    G_CONTENT_STATE["```"] = 0
   } else {
-    ContentState["```"] = 1
+    G_CONTENT_STATE["```"] = 1
   }
   next
 }
 
-/^# / && !ContentState["```"] {
+/^# / && !G_CONTENT_STATE["```"] {
   if( "title" in G_NEW_POST ) {
     FlushNewPost()
   }
@@ -51,7 +51,7 @@ function FlushTags(    tags)
   next
 }
 
-/^\[[^]]+\]:/ && !ContentState["```"] {
+/^\[[^]]+\]:/ && !G_CONTENT_STATE["```"] {
   if( match($0, /^\[([^]]+)\]: *([^" ]+) *"?([^"]+)?"?/, a) ) {
     if( a[1] == "slug" || a[1] == "date" ) {
       G_NEW_POST[a[1]] = a[3]
@@ -62,7 +62,7 @@ function FlushTags(    tags)
     else if( a[1] == "tags" ) {
       split(a[3], tags)
       for( i in tags ) {
-        AllTags[tags[i]] = tags[i]
+        G_ALL_TAGS[tags[i]] = tags[i]
       }
     }
   }
