@@ -25,14 +25,14 @@ BEGIN {
   Blog["title"] = "Blogue do Caloni"
 }
 
-function FlushPost(slug,    tags, post, i, j, file, search, prefix, suffix, links)
+function f_flush_post(slug,    tags, post, i, j, file, search, prefix, suffix, links)
 {
   split(G_INDEX[slug]["tags"], tags)
   post = ""
 
   file = Blog["output"] "\\" G_INDEX[slug]["month"] ".html"
   if( ! (G_INDEX[slug]["month"] in Files) ) {
-    WriteToHtml(file, Blog["text_page_prefix"] "::" G_INDEX[slug]["month"], "months.html", 0)
+    f_write_to_html(file, Blog["text_page_prefix"] "::" G_INDEX[slug]["month"], "months.html", 0)
     Files[G_INDEX[slug]["month"]] = G_INDEX[slug]["month"]
   }
   for( i in G_INDEX[slug]["lines"] ) {
@@ -134,7 +134,7 @@ function FlushPost(slug,    tags, post, i, j, file, search, prefix, suffix, link
   QuickSearch[slug] = G_INDEX[slug]["month"] ".html#" slug
 }
 
-function FlushPosts(    position, slug)
+function f_flush_posts(    position, slug)
 {
   PROCINFO["sorted_in"] = "@ind_num_asc"
   for( position in G_POST_SLUG_BY_POSITION ) {
@@ -143,11 +143,11 @@ function FlushPosts(    position, slug)
       print "skipping", slug
       continue
     }
-    FlushPost(slug)
+    f_flush_post(slug)
   }
 }
 
-function WriteToHtml(file, title, backLink, filter, quickSearch,    originalSort, i)
+function f_write_to_html(file, title, backLink, filter, quickSearch,    originalSort, i)
 {
   print "<!DOCTYPE html>" > file
   print "<html lang=\"en-us\" dir=\"ltr\" itemscope itemtype=\"http://schema.org/Article\">" > file
@@ -208,7 +208,7 @@ function WriteToHtml(file, title, backLink, filter, quickSearch,    originalSort
   }
 }
 
-function WriteBottomHtml(file, filter, nextLink, prevLink, build,    label, link)
+function f_write_bottom_html(file, filter, nextLink, prevLink, build,    label, link)
 {
   if( filter ) {
     print "</table>" > file
@@ -242,7 +242,7 @@ function WriteBottomHtml(file, filter, nextLink, prevLink, build,    label, link
   print "</html>" > file
 }
 
-function TiePreviousNextMonths(    i, c)
+function f_tie_previous_next_monts(    i, c)
 {
   PROCINFO["sorted_in"] = "@ind_num_asc"
   c = "index"
@@ -258,11 +258,11 @@ function TiePreviousNextMonths(    i, c)
   }
 }
 
-function FlushMonthsPage(    i, f, y, m, y2)
+function f_flush_months_page(    i, f, y, m, y2)
 {
   PROCINFO["sorted_in"] = "@ind_num_desc"
   f = Blog["output"] "\\months.html"
-  WriteToHtml(f, Blog["text_page_prefix"] "::months", "index.html", 0)
+  f_write_to_html(f, Blog["text_page_prefix"] "::months", "index.html", 0)
   y = "2001"
   for( i in G_MONTHS ) {
     y2 = substr(i, 1, 4)
@@ -281,11 +281,11 @@ function FlushMonthsPage(    i, f, y, m, y2)
     }
   }
   print "</p>" > f
-  WriteBottomHtml(f, 0)
+  f_write_bottom_html(f, 0)
   QuickSearch["months"] = "months.html"
 }
 
-function FlushPostsPages(    i, j, p, f)
+function f_flush_posts_pages(    i, j, p, f)
 {
   PROCINFO["sorted_in"] = "@ind_num_asc"
   for( i in Files ) {
@@ -301,17 +301,17 @@ function FlushPostsPages(    i, j, p, f)
     }
     print "</ul>" > f
     print p > f
-    WriteBottomHtml(f, 0, NextMonth[i] ".html", PrevMonth[i] ".html")
+    f_write_bottom_html(f, 0, NextMonth[i] ".html", PrevMonth[i] ".html")
   }
 }
 
-function FlushTagsPages(    slug, tags, i, j, k, l, f, s)
+function f_flush_tags_pages(    slug, tags, i, j, k, l, f, s)
 {
   PROCINFO["sorted_in"] = "@ind_num_desc"
   for( i in G_SLUGS_BY_TAGS_AND_DATES ) {
     QuickSearch[i] = i ".html"
     f = Blog["output"] "\\" i ".html"
-    WriteToHtml(f, Blog["text_page_prefix"] "::" i, "index.html", 1)
+    f_write_to_html(f, Blog["text_page_prefix"] "::" i, "index.html", 1)
     for( j in G_SLUGS_BY_TAGS_AND_DATES[i] ) {
       for( k in G_SLUGS_BY_TAGS_AND_DATES[i][j] ) {
         split(G_INDEX[k]["tags"], tags)
@@ -328,14 +328,14 @@ function FlushTagsPages(    slug, tags, i, j, k, l, f, s)
         print "</td></tr>" > f
       }
     }
-    WriteBottomHtml(f, 1)
+    f_write_bottom_html(f, 1)
   }
 }
 
-function FlushTagsPage(    i, j, k, f, t)
+function f_flush_tags_page(    i, j, k, f, t)
 {
   f = Blog["output"] "\\tags.html"
-  WriteToHtml(f, Blog["text_page_prefix"] "::tags", "index.html", 1)
+  f_write_to_html(f, Blog["text_page_prefix"] "::tags", "index.html", 1)
   PROCINFO["sorted_in"] = "@ind_str_asc"
   for( i in G_SLUGS_BY_TAGS_AND_DATES ) {
     print "<button class=\"tagbutton\" style=\"font-size: 1rem;\" onclick=\"window.location = '" i ".html';\">" ToHtml(i) "</button>" > f
@@ -364,16 +364,16 @@ function FlushTagsPage(    i, j, k, f, t)
     print "<small><i>" t "</small></i>" > f
     print "</td></tr>" > f
   }
-  WriteBottomHtml(f, 1)
+  f_write_bottom_html(f, 1)
   QuickSearch["tags"] = "tags.html"
 }
 
-function FlushPostsPage(    i, j, k, f, t, s)
+function f_flush_posts_page(    i, j, k, f, t, s)
 {
-  TiePreviousNextMonths()
+  f_tie_previous_next_monts()
 
   f = Blog["output"] "\\posts.html"
-  WriteToHtml(f, Blog["text_page_prefix"] "::posts", "index.html", 1)
+  f_write_to_html(f, Blog["text_page_prefix"] "::posts", "index.html", 1)
   PROCINFO["sorted_in"] = "@ind_str_desc"
   for( i in G_DATE_SLUG_TITLE ) {
     for( j in G_DATE_SLUG_TITLE[i] ) {
@@ -392,11 +392,11 @@ function FlushPostsPage(    i, j, k, f, t, s)
       print "</td></tr>" > f
     }
   }
-  WriteBottomHtml(f, 1)
+  f_write_bottom_html(f, 1)
   QuickSearch["posts"] = "posts.html"
 }
 
-function FlushIndexPage(    favtags, i, c, f)
+function f_flush_index_page(    favtags, i, c, f)
 {
   split(Blog["text_favorite_tags"], favtags)
   PROCINFO["sorted_in"] = "@ind_num_asc"
@@ -405,7 +405,7 @@ function FlushIndexPage(    favtags, i, c, f)
     break
   }
   f = Blog["output"] "\\index.html"
-  WriteToHtml(f, Blog["title"], c ".html#about", 0, QuickSearch)
+  f_write_to_html(f, Blog["title"], c ".html#about", 0, QuickSearch)
   print "<input type=\"text\" name=\"quick_search_name\" value=\"\" id=\"quick_search\" placeholder=\"" Blog["text_quicksearch"] "\" style=\"width: 100%; font-size: 1.5rem; margin-top: 1em; margin-bottom: 0.5em;\" title=\"\"/></br>" > f
   for( i in favtags ) {
     print "<big><a href=\"" favtags[i] ".html\">" favtags[i] "</a></big><small><i>: " Blog["text_favorite_tags_description"][favtags[i]] "</small></i></br>" > f
@@ -416,29 +416,29 @@ function FlushIndexPage(    favtags, i, c, f)
   print "<div><big><span style=\"visibility: hidden; padding: 5px;\" name=\"results\" id=\"results\">...</span></big></div>" > f
   print "<table class=\"sortable\" style=\"width: 100%;\">" > f
   print "</table>" > f
-  WriteBottomHtml(f, 0, "", "", Blog["build"])
+  f_write_bottom_html(f, 0, "", "", Blog["build"])
 }
 
-function FlushNotFoundPage(    f)
+function f_flush_not_found_page(    f)
 {
   f = Blog["output"] "\\404.html"
-  WriteToHtml(f, Blog["text_page_prefix"] "::404 page not found", "posts.html", 0)
+  f_write_to_html(f, Blog["text_page_prefix"] "::404 page not found", "posts.html", 0)
   print "<div class=\"container\">" > f
   print "  <p class=\"title\">" Blog["text_notfound_title"] "</p>" > f
   print "    <div class=\"content\">" > f
   print "      <p>" Blog["text_notfound_description"] "</p>" > f
   print "    </div>" > f
   print "</div>" > f
-  WriteBottomHtml(f, 0)
+  f_write_bottom_html(f, 0)
 }
 
 END {
-  FlushPosts()
-  FlushPostsPage()
-  FlushPostsPages()
-  FlushTagsPage()
-  FlushTagsPages()
-  FlushMonthsPage()
-  FlushIndexPage()
-  FlushNotFoundPage()
+  f_flush_posts()
+  f_flush_posts_page()
+  f_flush_posts_pages()
+  f_flush_tags_page()
+  f_flush_tags_pages()
+  f_flush_months_page()
+  f_flush_index_page()
+  f_flush_not_found_page()
 }
