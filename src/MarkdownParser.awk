@@ -70,7 +70,7 @@ function FormatContent(line,    type)
     }
 
     if( match($0, /^!\[([^]]*)\]\( *([^" )]+) *"?([^"]*)?"?\)/, a) ) {
-      NewPost["image"] = a[2]
+      G_NEW_POST["image"] = a[2]
       G_POSTS_IMAGES[a[2]] = a[2]
       line = a[2]
       type = "img"
@@ -84,62 +84,62 @@ function FormatContent(line,    type)
 
   } while( 0 )
 
-  NewPost["totalLines"] += 1
-  NewPost["lines"][NewPost["totalLines"]]["content"] = line
-  NewPost["lines"][NewPost["totalLines"]]["type"] = type
+  G_NEW_POST["totalLines"] += 1
+  G_NEW_POST["lines"][G_NEW_POST["totalLines"]]["content"] = line
+  G_NEW_POST["lines"][G_NEW_POST["totalLines"]]["type"] = type
 }
 
 function FlushContentState(slug,    lastLine)
 {
-  lastLine = length(NewPost["lines"])
+  lastLine = length(G_NEW_POST["lines"])
   delete ContentState
-  delete NewPost
+  delete G_NEW_POST
 }
 
 function CopyNewPost(    slug, tags, i, j)
 {
-  slug = NewPost["slug"]
+  slug = G_NEW_POST["slug"]
   G_POST_SLUG_BY_POSITION[++G_POSTS] = slug
-  if( "link" in NewPost ) {
-    NewPost["tags"] = NewPost["tags"] " blogging"
+  if( "link" in G_NEW_POST ) {
+    G_NEW_POST["tags"] = G_NEW_POST["tags"] " blogging"
   }
-  split(NewPost["tags"], tags)
+  split(G_NEW_POST["tags"], tags)
 
-  if( "date" in NewPost ) {
-    NewPost["month"] = substr(NewPost["date"], 1, 7)
-    G_MONTHS[NewPost["month"]] = NewPost["month"]
-    G_DATE_SLUG_TITLE[NewPost["date"]][slug] = NewPost["title"]
+  if( "date" in G_NEW_POST ) {
+    G_NEW_POST["month"] = substr(G_NEW_POST["date"], 1, 7)
+    G_MONTHS[G_NEW_POST["month"]] = G_NEW_POST["month"]
+    G_DATE_SLUG_TITLE[G_NEW_POST["date"]][slug] = G_NEW_POST["title"]
     for( i in tags ) {
-      G_SLUGS_BY_TAGS_AND_DATES[tags[i]][NewPost["date"]][slug] = slug
+      G_SLUGS_BY_TAGS_AND_DATES[tags[i]][G_NEW_POST["date"]][slug] = slug
     }
 
-    G_INDEX[slug]["month"] = NewPost["month"]
-    G_INDEX[slug]["date"] = NewPost["date"]
+    G_INDEX[slug]["month"] = G_NEW_POST["month"]
+    G_INDEX[slug]["date"] = G_NEW_POST["date"]
   }
 
   G_INDEX[slug]["slug"] = slug
-  G_INDEX[slug]["title"] = NewPost["title"]
-  G_INDEX[slug]["link"] = NewPost["month"] ".html#" slug
-  G_INDEX[slug]["letter"] = substr(NewPost["title"], 1, 1)
-  G_INDEX[slug]["summary"] = NewPost["summary"]
-  G_INDEX[slug]["tags"] = NewPost["tags"]
-  G_INDEX[slug]["image"] = NewPost["image"]
-  if( "link" in NewPost ) {
-    G_INDEX[slug]["extlink"] = NewPost["link"]
+  G_INDEX[slug]["title"] = G_NEW_POST["title"]
+  G_INDEX[slug]["link"] = G_NEW_POST["month"] ".html#" slug
+  G_INDEX[slug]["letter"] = substr(G_NEW_POST["title"], 1, 1)
+  G_INDEX[slug]["summary"] = G_NEW_POST["summary"]
+  G_INDEX[slug]["tags"] = G_NEW_POST["tags"]
+  G_INDEX[slug]["image"] = G_NEW_POST["image"]
+  if( "link" in G_NEW_POST ) {
+    G_INDEX[slug]["extlink"] = G_NEW_POST["link"]
   }
-  if( "links" in NewPost ) {
-    for( i in NewPost["links"] ) {
-      G_INDEX[slug]["links"][i] = NewPost["links"][i]
+  if( "links" in G_NEW_POST ) {
+    for( i in G_NEW_POST["links"] ) {
+      G_INDEX[slug]["links"][i] = G_NEW_POST["links"][i]
     }
   }
-  if( "lines" in NewPost ) {
-    for( i in NewPost["lines"] ) {
-      for( j in NewPost["lines"][i] ) {
-        G_INDEX[slug]["lines"][i][j] = NewPost["lines"][i][j]
+  if( "lines" in G_NEW_POST ) {
+    for( i in G_NEW_POST["lines"] ) {
+      for( j in G_NEW_POST["lines"][i] ) {
+        G_INDEX[slug]["lines"][i][j] = G_NEW_POST["lines"][i][j]
       }
     }
   }
-  G_TITLE_TO_SLUG[NewPost["title"]] = slug
+  G_TITLE_TO_SLUG[G_NEW_POST["title"]] = slug
   FlushContentState(slug)
 }
 
@@ -166,11 +166,11 @@ $1 == "metadata_chapter" { G_INDEX_METADATA[$2]["chapter"] = $3 ; G_INDEX_METADA
 $1 == "metadata_tags" { next }
 
 /^# / && !ContentState["```"] {
-  if( "title" in NewPost ) {
+  if( "title" in G_NEW_POST ) {
     CopyNewPost()
   }
-  NewPost["title"] = substr($0, 3)
-  NewPost["slug"] = ToSlug(NewPost["title"])
+  G_NEW_POST["title"] = substr($0, 3)
+  G_NEW_POST["slug"] = ToSlug(G_NEW_POST["title"])
   next
 }
 
@@ -178,7 +178,7 @@ $1 == "metadata_tags" { next }
   if( match($0, /[^!]\[([^]]+)\]\(([^)]+)\)/, a) ) {
     if( !(a[2] ~ /^(https?)|(ftp)|(mailto):/) ) {
       sub("\\(" a[2] "\\)", "", $0)
-      NewPost["links"][a[1]] = a[2]
+      G_NEW_POST["links"][a[1]] = a[2]
       G_INDEX_METADATA[a[2]]["used"] += 1
     }
   }
@@ -190,14 +190,14 @@ $1 == "metadata_tags" { next }
       a[2] = "<a href=\"" a[2] "\">" a[1] "</a>"
     }
     else if( index(G_SETTINGS["post_header_fields"], a[1]) ) {
-      NewPost[a[1]] = a[3]
+      G_NEW_POST[a[1]] = a[3]
     } else if( !(a[2] in G_INDEX_METADATA) ) {
       print "warning: link", a[2], "not found for name", a[1], "and title", a[3]
       print $0
     } else {
       G_INDEX_METADATA[a[2]]["used"] += 1
     }
-    NewPost["links"][a[1]] = a[2]
+    G_NEW_POST["links"][a[1]] = a[2]
     delete a
   } else {
     print "error: invalid link at", $0
@@ -206,19 +206,19 @@ $1 == "metadata_tags" { next }
 }
 
 /.+/ {
-  G_NEW_POST_TOTAL_LINES = NewPost["totalLines"]
+  G_NEW_POST_TOTAL_LINES = G_NEW_POST["totalLines"]
   FormatContent($0)
-  if( NewPost["totalLines"] > G_NEW_POST_TOTAL_LINES ) {
-    if( length(NewPost["summary"]) < 200 ) {
+  if( G_NEW_POST["totalLines"] > G_NEW_POST_TOTAL_LINES ) {
+    if( length(G_NEW_POST["summary"]) < 200 ) {
       if( index($0, "{{") == 0 && index($0, "```") == 0 ) {
-        NewPost["summary"] = NewPost["summary"] " " $0
+        G_NEW_POST["summary"] = G_NEW_POST["summary"] " " $0
       }
     }
   }
 }
 
 END {
-  if( "title" in NewPost ) {
+  if( "title" in G_NEW_POST ) {
     CopyNewPost()
   }
   for( i in G_INDEX_METADATA ) {

@@ -5,21 +5,21 @@
 #include util.awk
 
 BEGIN {
-  Metadata["output"] = "public\\metadata.txt"
+  G_METADATA["output"] = "public\\metadata.txt"
 }
 
 function FlushNewPost(    chapter)
 {
-  chapter = substr(NewPost["date"], 1, 7)
+  chapter = substr(G_NEW_POST["date"], 1, 7)
 
-  if( NewPost["slug"] in G_INDEX ) {
-    print "warning: slug", NewPost["slug"], "duplicated in", G_INDEX[slug]["date"], "and", NewPost["date"]
+  if( G_NEW_POST["slug"] in G_INDEX ) {
+    print "warning: slug", G_NEW_POST["slug"], "duplicated in", G_INDEX[slug]["date"], "and", G_NEW_POST["date"]
   }
-  G_INDEX[NewPost["slug"]]["date"] = NewPost["date"]
-  G_INDEX[NewPost["slug"]]["link"] = link
-  print "metadata_chapter", NewPost["slug"], chapter, NewPost["explicit_slug"] > Metadata["output"]
+  G_INDEX[G_NEW_POST["slug"]]["date"] = G_NEW_POST["date"]
+  G_INDEX[G_NEW_POST["slug"]]["link"] = link
+  print "metadata_chapter", G_NEW_POST["slug"], chapter, G_NEW_POST["explicit_slug"] > G_METADATA["output"]
 
-  delete NewPost
+  delete G_NEW_POST
 }
 
 function FlushTags(    tags)
@@ -30,7 +30,7 @@ function FlushTags(    tags)
   }
   print "tags:" tags
   tags = "metadata_tags" tags
-  print tags > Metadata["output"]
+  print tags > G_METADATA["output"]
 }
 
 /^```/ {
@@ -43,21 +43,21 @@ function FlushTags(    tags)
 }
 
 /^# / && !ContentState["```"] {
-  if( "title" in NewPost ) {
+  if( "title" in G_NEW_POST ) {
     FlushNewPost()
   }
-  NewPost["title"] = substr($0, 3)
-  NewPost["slug"] = ToSlug(NewPost["title"])
+  G_NEW_POST["title"] = substr($0, 3)
+  G_NEW_POST["slug"] = ToSlug(G_NEW_POST["title"])
   next
 }
 
 /^\[[^]]+\]:/ && !ContentState["```"] {
   if( match($0, /^\[([^]]+)\]: *([^" ]+) *"?([^"]+)?"?/, a) ) {
     if( a[1] == "slug" || a[1] == "date" ) {
-      NewPost[a[1]] = a[3]
+      G_NEW_POST[a[1]] = a[3]
     }
     else if( a[1] == "slug" ) {
-      NewPost["explicit_slug"] = "explicit_slug"
+      G_NEW_POST["explicit_slug"] = "explicit_slug"
     }
     else if( a[1] == "tags" ) {
       split(a[3], tags)
@@ -70,7 +70,7 @@ function FlushTags(    tags)
 }
 
 END {
-  if( "title" in NewPost ) {
+  if( "title" in G_NEW_POST ) {
     FlushNewPost()
   }
   FlushTags()
