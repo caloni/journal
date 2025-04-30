@@ -3,6 +3,7 @@ import os
 import shutil
 import subprocess
 
+private = True
 abspath = os.path.abspath(__file__)
 dname = os.path.dirname(abspath)
 os.chdir(dname)
@@ -35,9 +36,15 @@ shutil.copytree(r'img/blog', r'public/book/EPUB/img', dirs_exist_ok=True)
 
 os.environ['LC_ALL'] = 'en_US.UTF-8'
 
-process = subprocess.run(['gawk', '-f', os.path.join(dname, 'Util.awk'), '-f', os.path.join(dname, 'MetadataWriter.awk'), 'journal.md'], check=True)
+command = ['gawk', '-f', os.path.join(dname, 'Util.awk'), '-f', os.path.join(dname, 'MetadataWriter.awk'), 'journal.md']
+if private:
+  command.append('private/journal.md')
+process = subprocess.run(command, check=True)
 with open(r'public/metadata.txt', 'a') as f: f.write('metadata_current_date ' + current_date)
-process = subprocess.run(['gawk', '-f', os.path.join(dname, 'Util.awk'), '-f', os.path.join(dname, 'MarkdownParser.awk'), '-f', os.path.join(dname, 'BookWriter.awk'), r'public/metadata.txt', 'journal.md'], check=True)
+command = ['gawk', '-f', os.path.join(dname, 'Util.awk'), '-f', os.path.join(dname, 'MarkdownParser.awk'), '-f', os.path.join(dname, 'BookWriter.awk'), r'public/metadata.txt', 'journal.md']
+if private:
+  command.append('private/journal.md')
+process = subprocess.run(command, check=True)
 
 os.chdir(r'public/book')
 process = subprocess.run(['python', r'repack.py'], check=True)
