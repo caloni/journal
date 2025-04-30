@@ -257,8 +257,8 @@ function FlushTocPage()
   print "<a id=\"piii\"></a>" > tocxhtml
   print "<h1 class=\"toc-title\">Contents</h1>" > tocxhtml
   print "<p id=\"indx-1\" class=\"toca\"><a href=\"index.xhtml\"><strong>Index</strong></a></p>" > tocxhtml
-  lastyear = "2001"
-  for( c in Chapters ) {
+  lastyear = "2000"
+  for( c in G_CHAPTERS ) {
     year = substr(c, 1, 4)
     mon = substr(c, 6, 2)
     if( year != lastyear ) {
