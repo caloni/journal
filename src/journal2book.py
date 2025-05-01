@@ -11,8 +11,8 @@ os.chdir('..')
 print('basedir:', os.getcwd())
 
 now = datetime.datetime.now()
-current_date = now.strftime('%Y-%m-%dT%H:%M:%SZ')
-
+current_date = now.astimezone().strftime('%Y-%m-%dT%H:%M:%S%z')
+build_version = subprocess.check_output(['git', 'rev-parse', '--short', 'HEAD']).decode('utf-8').strip()
 old_dir = os.getcwd()
 
 if not os.path.exists(r'public/book'):
@@ -40,7 +40,9 @@ command = ['gawk', '-f', os.path.join(dname, 'Util.awk'), '-f', os.path.join(dna
 if private:
   command.append('private/journal.md')
 process = subprocess.run(command, check=True)
-with open(r'public/metadata.txt', 'a') as f: f.write('metadata_current_date ' + current_date)
+with open(r'public/metadata.txt', 'ab') as f:
+    f.write(('metadata_current_date ' + current_date + '\n').encode('utf-8'))
+    f.write(('metadata_build_version ' + build_version + '\n').encode('utf-8'))
 command = ['gawk', '-f', os.path.join(dname, 'Util.awk'), '-f', os.path.join(dname, 'MarkdownParser.awk'), '-f', os.path.join(dname, 'BookWriter.awk'), r'public/metadata.txt', 'journal.md']
 if private:
   command.append('private/journal.md')

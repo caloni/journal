@@ -129,3 +129,7 @@ tr img {
 .intentionally-blank {
     height: 80vh;
 }
+
+.tiny {
+    font-size: 0.5em;  /* makes small even smaller */
+}

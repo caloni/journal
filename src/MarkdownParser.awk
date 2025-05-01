@@ -161,7 +161,8 @@ function PopulateTagsNavigation(    prevInTag, i, j, k, f)
   }
 }
 
-$1 == "metadata_current_date" { G_SETTINGS["date"] = $2 ; next }
+$1 == "metadata_current_date" { G_SETTINGS["date"] = $2 ; print "current_date " $2 ; next }
+$1 == "metadata_build_version" { G_SETTINGS["build"] = $2 ; print "build_version " $2 ; next }
 $1 == "metadata_chapter" { G_INDEX_METADATA[$2]["chapter"] = $3 ; G_INDEX_METADATA[$2]["explicit_slug"] = $4 ; next }
 $1 == "metadata_tags" { next }
 

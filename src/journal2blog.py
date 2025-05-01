@@ -1,3 +1,4 @@
+import datetime
 import os
 import shutil
 import subprocess
@@ -8,6 +9,9 @@ os.chdir(dname)
 os.chdir('..')
 print('basedir:', os.getcwd())
 
+now = datetime.datetime.now()
+current_date = now.astimezone().strftime('%Y-%m-%dT%H:%M:%S%z')
+build_version = subprocess.check_output(['git', 'rev-parse', '--short', 'HEAD']).decode('utf-8').strip()
 old_dir = os.getcwd()
 
 if not os.path.exists(r'public/blog'):
@@ -35,6 +39,9 @@ if process.stdout:
   print(process.stdout)
 if process.returncode:
   print('MetadataWriter.awk returned', process.returncode)
+with open(r'public/metadata.txt', 'ab') as f:
+    f.write(('metadata_current_date ' + current_date + '\n').encode('utf-8'))
+    f.write(('metadata_build_version ' + build_version + '\n').encode('utf-8'))
 
 process = subprocess.run(['gawk', '-f', os.path.join(dname, 'Util.awk'), '-f', os.path.join(dname, 'MarkdownParser.awk'), '-f', os.path.join(dname, 'BlogWriter.awk'), r'public/metadata.txt', 'journal.md'], check=True)
 if process.stdout:

@@ -4,7 +4,6 @@
 # Depends on: MarkdownParser, Util.
 
 BEGIN {
-  "date" | getline Blog["build"]
   Blog["author"] = "Caloni"
   Blog["author-image"] = "/img/about-author.jpg"
   Blog["post-image"] = "/img/about-brand.png"
@@ -233,7 +232,7 @@ function f_write_bottom_html(file, filter, nextLink, prevLink, build,    label, 
   print "<footer class=\"footer\">" > file
   print "<div class=\"container\">" > file
   if( build ) {
-    print "<p><small><i>Build: " build "</i></small></p>" > file
+    print "<p style=\"text-align: right;\" class=\"tiny\"><i>" build "</i></p>" > file
   }
   print "</div>" > file
   print "<div class=\"intentionally-blank\"></div>" > file
@@ -416,7 +415,7 @@ function f_flush_index_page(    favtags, i, c, f)
   print "<div><big><span style=\"visibility: hidden; padding: 5px;\" name=\"results\" id=\"results\">...</span></big></div>" > f
   print "<table class=\"sortable\" style=\"width: 100%;\">" > f
   print "</table>" > f
-  f_write_bottom_html(f, 0, "", "", Blog["build"])
+  f_write_bottom_html(f, 0, "", "", G_SETTINGS["date"] "." G_SETTINGS["build"])
 }
 
 function f_flush_not_found_page(    f)
