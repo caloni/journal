@@ -3,28 +3,24 @@ import subprocess
 import shutil
 from datetime import datetime
 
+backup = True
 abspath = os.path.abspath(__file__)
 dname = os.path.dirname(abspath)
 os.chdir(dname)
 os.chdir('..')
 
-# Create backup
-backup_dir = os.path.join('..', 'backup')
-if not os.path.exists(backup_dir):
+if( backup ):
+  backup_dir = os.path.join('..', 'backup')
+  if not os.path.exists(backup_dir):
     os.makedirs(backup_dir)
-
-backup_path = os.path.join(backup_dir, 'journal.zip')
-
-# Create zip file
-shutil.make_archive(
+  backup_path = os.path.join(backup_dir, 'journal.zip')
+  print(f'creating backup at {backup_path}')
+  shutil.make_archive(
     os.path.join(backup_dir, 'journal'),
     'zip',
-    os.getcwd()
-)
+    os.getcwd())
+  print(f'backup created')
 
-print(f'Backup created at {backup_path}')
-
-# Continue with blog publishing
 process = subprocess.run(['python', os.path.join(dname, 'Journal2Blog.py')], check=True)
 if process.stdout:
   print(process.stdout)
