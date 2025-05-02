@@ -22,7 +22,7 @@ if( backup ):
     # Create a temporary directory for the filtered content
     with tempfile.TemporaryDirectory() as temp_dir:
         # Copy files to temp directory, ignoring .git
-        shutil.copytree(os.getcwd(), temp_dir, ignore=ignore_git)
+        shutil.copytree(os.getcwd(), temp_dir, ignore=ignore_git, dirs_exist_ok=True)
         # Create zip from temp directory
         shutil.make_archive(
             os.path.join(backup_dir, 'journal'),
