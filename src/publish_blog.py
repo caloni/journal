@@ -30,7 +30,7 @@ if( backup ):
             temp_dir)
     print(f'backup created at {backup_path}')
 
-process = subprocess.run(['python', os.path.join(dname, 'Journal2Blog.py')], check=True)
+process = subprocess.run(['python', os.path.join(dname, 'journal2blog.py')], check=True)
 if process.stdout:
     print(process.stdout)
 if process.returncode:

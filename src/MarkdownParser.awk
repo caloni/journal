@@ -1,15 +1,12 @@
 # Transform markdown text to parsed text.
-# Wanderley Caloni <wanderley.caloni@gmail.com>
-# 2025-01-30
-# Depends on: Util.
 
 BEGIN {
-  G_SETTINGS["generator"] = "MarkdownParser 0.2.0"
+  G_SETTINGS["generator"] = "https://github.com/caloni/journal"
   G_SETTINGS["public_repo_github_address"] = "https://github.com/caloni/journal"
   G_SETTINGS["post_header_fields"] = "date link slug tags"
 }
 
-function FormatContent(line,    type)
+function MarkdownParser_FormatContent(line,    type)
 {
   do {
     if( index(line, "```") == 1 ) {
@@ -90,14 +87,14 @@ function FormatContent(line,    type)
   G_NEW_POST["lines"][G_NEW_POST["totalLines"]]["type"] = type
 }
 
-function FlushContentState(slug,    lastLine)
+function MarkdownParser_FlushContentState(slug,    lastLine)
 {
   lastLine = length(G_NEW_POST["lines"])
   delete G_CONTENT_STATE
   delete G_NEW_POST
 }
 
-function CopyNewPost(    slug, tags, i, j)
+function MarkdownParser_CopyNewPost(    slug, tags, i, j)
 {
   slug = G_NEW_POST["slug"]
   G_POST_SLUG_BY_POSITION[++G_POSTS] = slug
@@ -141,10 +138,10 @@ function CopyNewPost(    slug, tags, i, j)
     }
   }
   G_TITLE_TO_SLUG[G_NEW_POST["title"]] = slug
-  FlushContentState(slug)
+  MarkdownParser_FlushContentState(slug)
 }
 
-function PopulateTagsNavigation(    prevInTag, i, j, k, f)
+function MarkdownParser_PopulateTagsNavigation(    prevInTag, i, j, k, f)
 {
   PROCINFO["sorted_in"] = "@ind_str_asc"
   for( i in G_SLUGS_BY_TAGS_AND_DATES ) {
@@ -169,10 +166,10 @@ $1 == "metadata_tags" { next }
 
 /^# / && !G_CONTENT_STATE["```"] {
   if( "title" in G_NEW_POST ) {
-    CopyNewPost()
+    MarkdownParser_CopyNewPost()
   }
   G_NEW_POST["title"] = substr($0, 3)
-  G_NEW_POST["slug"] = ToSlug(G_NEW_POST["title"])
+  G_NEW_POST["slug"] = Util_ToSlug(G_NEW_POST["title"])
   next
 }
 
@@ -209,7 +206,7 @@ $1 == "metadata_tags" { next }
 
 /.+/ {
   G_NEW_POST_TOTAL_LINES = G_NEW_POST["totalLines"]
-  FormatContent($0)
+  MarkdownParser_FormatContent($0)
   if( G_NEW_POST["totalLines"] > G_NEW_POST_TOTAL_LINES ) {
     if( length(G_NEW_POST["summary"]) < 200 ) {
       if( index($0, "{{") == 0 && index($0, "```") == 0 ) {
@@ -221,12 +218,12 @@ $1 == "metadata_tags" { next }
 
 END {
   if( "title" in G_NEW_POST ) {
-    CopyNewPost()
+    MarkdownParser_CopyNewPost()
   }
   for( i in G_INDEX_METADATA ) {
     if( G_INDEX_METADATA[i]["explicit_slug"] && !("used" in G_INDEX_METADATA[i]) ) {
       print "warning: link", i, "not being used"
     }
   }
-  PopulateTagsNavigation()
+  MarkdownParser_PopulateTagsNavigation()
 }

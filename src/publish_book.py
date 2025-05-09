@@ -7,7 +7,7 @@ dname = os.path.dirname(abspath)
 os.chdir(dname)
 os.chdir('..')
 
-process = subprocess.run(['python', os.path.join(dname, 'Journal2Book.py')], check=True)
+process = subprocess.run(['python', os.path.join(dname, 'journal2book.py')], check=True)
 if process.stdout:
   print(process.stdout)
 if process.returncode:

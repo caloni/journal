@@ -1,14 +1,10 @@
 # Capture metadata from pseudo-markdown text to further processing.
-# Wanderley Caloni <wanderley.caloni@gmail.com>
-# 2024-08-31
-
-#include util.awk
 
 BEGIN {
   G_METADATA["output"] = "public\\metadata.txt"
 }
 
-function FlushNewPost(    chapter)
+function MetadataWriter_FlushNewPost(    chapter)
 {
   chapter = substr(G_NEW_POST["date"], 1, 7)
 
@@ -22,7 +18,7 @@ function FlushNewPost(    chapter)
   delete G_NEW_POST
 }
 
-function FlushTags(    tags)
+function MetadataWriter_FlushTags(    tags)
 {
   PROCINFO["sorted_in"] = "@ind_str_asc"
   for( i in G_ALL_TAGS ) {
@@ -44,10 +40,10 @@ function FlushTags(    tags)
 
 /^# / && !G_CONTENT_STATE["```"] {
   if( "title" in G_NEW_POST ) {
-    FlushNewPost()
+    MetadataWriter_FlushNewPost()
   }
   G_NEW_POST["title"] = substr($0, 3)
-  G_NEW_POST["slug"] = ToSlug(G_NEW_POST["title"])
+  G_NEW_POST["slug"] = Util_ToSlug(G_NEW_POST["title"])
   next
 }
 
@@ -71,7 +67,7 @@ function FlushTags(    tags)
 
 END {
   if( "title" in G_NEW_POST ) {
-    FlushNewPost()
+    MetadataWriter_FlushNewPost()
   }
-  FlushTags()
+  MetadataWriter_FlushTags()
 }

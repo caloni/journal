@@ -1,9 +1,6 @@
-# Translate special characters from text to
-# acceptable characters in final format.
-# Wanderley Caloni <wanderley.caloni@gmail.com>
-# 2024-08-30
+# Translate special characters to acceptable characters.
 
-function ToSlug(s)
+function Util_ToSlug(s)
 {
   gsub(/[ÁÀÂÃáàâã]/, "a", s)
   gsub(/[ÉÊÊéêê]/, "e", s)
@@ -27,7 +24,7 @@ function ToSlug(s)
   return tolower(s)
 }
 
-function ToHtml(s)
+function Util_ToHtml(s)
 {
   gsub(/&/, "&amp;", s)
   gsub(/</, "\\&lt;", s)
@@ -36,7 +33,7 @@ function ToHtml(s)
   return s
 }
 
-function ValidateId(s, id)
+function Util_ValidateId(s, id)
 {
   if( s == "_" ) {
     print "warning: empty id (_) to " id
@@ -50,7 +47,7 @@ function ToId(s,    id)
   gsub(/ /, "_", id)
   gsub(/#/, "sharp", id)
   id = "_" id
-  ValidateId(s, id)
+  Util_ValidateId(s, id)
   return id
 }
 
@@ -60,17 +57,17 @@ function ToEpubId(s,    id)
   gsub(/-/, "", id)
   gsub(/ /, "_", id)
   id = "_" id
-  ValidateId(s, id)
+  Util_ValidateId(s, id)
   return id
 }
 
-function ToEpubLink(s)
+function Util_ToEpubLink(s)
 {
   gsub(/\?[^"]+/, "", s)
   return s
 }
 
-function IsNumeric(x, f)
+function Util_IsNumeric(x, f)
 {
     switch (typeof(x)) {
     case "strnum":
@@ -83,7 +80,7 @@ function IsNumeric(x, f)
     }
 }
 
-function ToLetter(s)
+function Util_ToLetter(s)
 {
   if( !("Á" in G_CONVERT_LETTERS) ) {
     G_CONVERT_LETTERS["Á"] = "A"
@@ -105,7 +102,7 @@ function ToLetter(s)
     G_CONVERT_LETTERS["\""] = "#"
   }
 
-  if( IsNumeric(s) ) return "#"
+  if( Util_IsNumeric(s) ) return "#"
   s = toupper(s)
   c = G_CONVERT_LETTERS[s]
   if( c != "" ) return c

@@ -1,14 +1,11 @@
 # Transform parsed text to html blog posts.
-# Wanderley Caloni <wanderley.caloni@gmail.com>
-# 2025-01-30
-# Depends on: MarkdownParser, Util.
 
 BEGIN {
   Blog["author"] = "Caloni"
   Blog["author-image"] = "/img/about-author.jpg"
   Blog["post-image"] = "/img/about-brand.png"
   Blog["description"] = "Write for computers, people and food."
-  Blog["generator"] = "BlogWriter 0.2.0 " G_SETTINGS["generator"]
+  Blog["generator"] = G_SETTINGS["generator"]
   Blog["link"] = "http://www.caloni.com.br"
   Blog["output"] = "public\\blog"
   Blog["text_favorite_tags"] = "computer cinema"
@@ -24,7 +21,7 @@ BEGIN {
   Blog["title"] = "Blogue do Caloni"
 }
 
-function f_flush_post(slug,    tags, post, i, j, file, search, prefix, suffix, links)
+function BlogWriter_FlushPost(slug,    tags, post, i, j, file, search, prefix, suffix, links)
 {
   split(G_INDEX[slug]["tags"], tags)
   post = ""
@@ -55,7 +52,7 @@ function f_flush_post(slug,    tags, post, i, j, file, search, prefix, suffix, l
       }
 
       if( G_INDEX[slug]["lines"][i]["type"] == "pre" ) {
-        G_INDEX[slug]["lines"][i]["content"] = ToHtml(G_INDEX[slug]["lines"][i]["content"]) "\n"
+        G_INDEX[slug]["lines"][i]["content"] = Util_ToHtml(G_INDEX[slug]["lines"][i]["content"]) "\n"
         if( G_INDEX[slug]["lines"][i-1]["type"] != G_INDEX[slug]["lines"][i]["type"] ) {
           G_INDEX[slug]["lines"][i]["content"] = "<" G_INDEX[slug]["lines"][i]["type"] ">\n" G_INDEX[slug]["lines"][i]["content"]
         }
@@ -99,12 +96,12 @@ function f_flush_post(slug,    tags, post, i, j, file, search, prefix, suffix, l
     }
   }
 
-  post = "<span id=\"" slug "\" title=\"" ToHtml(G_INDEX[slug]["title"]) "\"/></span>\n"
+  post = "<span id=\"" slug "\" title=\"" Util_ToHtml(G_INDEX[slug]["title"]) "\"/></span>\n"
   post = post "<section id=\"section_" slug "\">\n"
   if( "extlink" in G_INDEX[slug] ) {
-    post = post "<p class=\"title\"><a href=\"" G_INDEX[slug]["month"] ".html#" slug "\">#</a> <a class=\"external\" href=\"" G_INDEX[slug]["extlink"] "\">" ToHtml(G_INDEX[slug]["title"]) "</a></p>\n"
+    post = post "<p class=\"title\"><a href=\"" G_INDEX[slug]["month"] ".html#" slug "\">#</a> <a class=\"external\" href=\"" G_INDEX[slug]["extlink"] "\">" Util_ToHtml(G_INDEX[slug]["title"]) "</a></p>\n"
   } else {
-    post = post "<p class=\"title\"><a href=\"" G_INDEX[slug]["month"] ".html#" slug "\">#</a> " ToHtml(G_INDEX[slug]["title"]) "</p>\n"
+    post = post "<p class=\"title\"><a href=\"" G_INDEX[slug]["month"] ".html#" slug "\">#</a> " Util_ToHtml(G_INDEX[slug]["title"]) "</p>\n"
   }
   post = post "<span class=\"title-heading\">" Blog["author"] ", " G_INDEX[slug]["date"]
   for( i in tags ) {
@@ -127,13 +124,13 @@ function f_flush_post(slug,    tags, post, i, j, file, search, prefix, suffix, l
   }
   post = post "</section><hr/>\n"
   PostsByMonth[G_INDEX[slug]["month"]][G_INDEX[slug]["date"]] = PostsByMonth[G_INDEX[slug]["month"]][G_INDEX[slug]["date"]] "\n" post
-  G_INDEX[slug]["extlink"] = "<li><small><a href=\"" G_INDEX[slug]["month"] ".html#" slug "\">" ToHtml(G_INDEX[slug]["title"]) "</a></small></li>"
+  G_INDEX[slug]["extlink"] = "<li><small><a href=\"" G_INDEX[slug]["month"] ".html#" slug "\">" Util_ToHtml(G_INDEX[slug]["title"]) "</a></small></li>"
   PostLinksByMonth[G_INDEX[slug]["month"]][G_INDEX[slug]["date"]] = PostLinksByMonth[G_INDEX[slug]["month"]][G_INDEX[slug]["date"]] "\n" G_INDEX[slug]["extlink"]
 
   QuickSearch[slug] = G_INDEX[slug]["month"] ".html#" slug
 }
 
-function f_flush_posts(    position, slug)
+function BlogWriter_FlushPosts(    position, slug)
 {
   PROCINFO["sorted_in"] = "@ind_num_asc"
   for( position in G_POST_SLUG_BY_POSITION ) {
@@ -142,7 +139,7 @@ function f_flush_posts(    position, slug)
       print "skipping", slug
       continue
     }
-    f_flush_post(slug)
+    BlogWriter_FlushPost(slug)
   }
 }
 
@@ -257,7 +254,7 @@ function f_tie_previous_next_monts(    i, c)
   }
 }
 
-function f_flush_months_page(    i, f, y, m, y2)
+function BlogWriter_FlushMonthsPage(    i, f, y, m, y2)
 {
   PROCINFO["sorted_in"] = "@ind_num_desc"
   f = Blog["output"] "\\months.html"
@@ -273,7 +270,7 @@ function f_flush_months_page(    i, f, y, m, y2)
       print "<p id=\"" i "\" class=\"toc\"><strong>" y2 "</strong>" > f
       y = y2
     }
-    print "<a href=\"" i ".html\"> " ToHtml(m) " </a>" > f
+    print "<a href=\"" i ".html\"> " Util_ToHtml(m) " </a>" > f
     QuickSearch[i] = i ".html"
     if( ! LastMonth ) {
       LastMonth = i
@@ -284,7 +281,7 @@ function f_flush_months_page(    i, f, y, m, y2)
   QuickSearch["months"] = "months.html"
 }
 
-function f_flush_posts_pages(    i, j, p, f)
+function BlogWriter_FlushPostsPages(    i, j, p, f)
 {
   PROCINFO["sorted_in"] = "@ind_num_asc"
   for( i in Files ) {
@@ -304,7 +301,7 @@ function f_flush_posts_pages(    i, j, p, f)
   }
 }
 
-function f_flush_tags_pages(    slug, tags, i, j, k, l, f, s)
+function BlogWriter_FlushTagsPages(    slug, tags, i, j, k, l, f, s)
 {
   PROCINFO["sorted_in"] = "@ind_num_desc"
   for( i in G_SLUGS_BY_TAGS_AND_DATES ) {
@@ -322,7 +319,7 @@ function f_flush_tags_pages(    slug, tags, i, j, k, l, f, s)
         if( G_INDEX[k]["image"] ) {
           print "<img src=\"img/" G_INDEX[k]["image"] "\"/>" > f
         }
-        print "<b><a href=\"" G_INDEX[k]["month"] ".html#" k "\">" ToHtml(G_INDEX[k]["title"]) "</a></b>" > f
+        print "<b><a href=\"" G_INDEX[k]["month"] ".html#" k "\">" Util_ToHtml(G_INDEX[k]["title"]) "</a></b>" > f
         print "<small><i>" G_INDEX[k]["date"] s " " G_INDEX[k]["summary"] "</small></i>" > f
         print "</td></tr>" > f
       }
@@ -331,13 +328,13 @@ function f_flush_tags_pages(    slug, tags, i, j, k, l, f, s)
   }
 }
 
-function f_flush_tags_page(    i, j, k, f, t)
+function BlogWriter_FlushTagsPage(    i, j, k, f, t)
 {
   f = Blog["output"] "\\tags.html"
   f_write_to_html(f, Blog["text_page_prefix"] "::tags", "index.html", 1)
   PROCINFO["sorted_in"] = "@ind_str_asc"
   for( i in G_SLUGS_BY_TAGS_AND_DATES ) {
-    print "<button class=\"tagbutton\" style=\"font-size: 1rem;\" onclick=\"window.location = '" i ".html';\">" ToHtml(i) "</button>" > f
+    print "<button class=\"tagbutton\" style=\"font-size: 1rem;\" onclick=\"window.location = '" i ".html';\">" Util_ToHtml(i) "</button>" > f
   }
   for( i in G_SLUGS_BY_TAGS_AND_DATES ) {
     t = ""
@@ -359,7 +356,7 @@ function f_flush_tags_page(    i, j, k, f, t)
         break
       }
     }
-    print "<tr><td><b><a href=\"" i ".html" "\">" ToHtml(i) "</a></b>" > f
+    print "<tr><td><b><a href=\"" i ".html" "\">" Util_ToHtml(i) "</a></b>" > f
     print "<small><i>" t "</small></i>" > f
     print "</td></tr>" > f
   }
@@ -367,7 +364,7 @@ function f_flush_tags_page(    i, j, k, f, t)
   QuickSearch["tags"] = "tags.html"
 }
 
-function f_flush_posts_page(    i, j, k, f, t, s)
+function BlogWriter_FlushPostsPage(    i, j, k, f, t, s)
 {
   f_tie_previous_next_monts()
 
@@ -386,7 +383,7 @@ function f_flush_posts_page(    i, j, k, f, t, s)
       if( G_INDEX[j]["image"] ) {
         print "<img src=\"img/" G_INDEX[j]["image"] "\"/>" > f
       }
-      print "<b><a href=\"" G_INDEX[j]["month"] ".html#" j "\">" ToHtml(t) "</a></b>" > f
+      print "<b><a href=\"" G_INDEX[j]["month"] ".html#" j "\">" Util_ToHtml(t) "</a></b>" > f
       print "<small><i>" G_INDEX[j]["date"] s " " G_INDEX[j]["summary"] " " j "</small></i>" > f
       print "</td></tr>" > f
     }
@@ -395,7 +392,7 @@ function f_flush_posts_page(    i, j, k, f, t, s)
   QuickSearch["posts"] = "posts.html"
 }
 
-function f_flush_index_page(    favtags, i, c, f, build_link)
+function BlogWriter_FlushIndexPage(    favtags, i, c, f, build_link)
 {
   split(Blog["text_favorite_tags"], favtags)
   PROCINFO["sorted_in"] = "@ind_num_asc"
@@ -419,7 +416,7 @@ function f_flush_index_page(    favtags, i, c, f, build_link)
   f_write_bottom_html(f, 0, "", "", G_SETTINGS["date"] "-" build_link)
 }
 
-function f_flush_not_found_page(    f)
+function BlogWriter_FlushNotFoundPage(    f)
 {
   f = Blog["output"] "\\404.html"
   f_write_to_html(f, Blog["text_page_prefix"] "::404 page not found", "posts.html", 0)
@@ -433,12 +430,12 @@ function f_flush_not_found_page(    f)
 }
 
 END {
-  f_flush_posts()
-  f_flush_posts_page()
-  f_flush_posts_pages()
-  f_flush_tags_page()
-  f_flush_tags_pages()
-  f_flush_months_page()
-  f_flush_index_page()
-  f_flush_not_found_page()
+  BlogWriter_FlushPosts()
+  BlogWriter_FlushPostsPage()
+  BlogWriter_FlushPostsPages()
+  BlogWriter_FlushTagsPage()
+  BlogWriter_FlushTagsPages()
+  BlogWriter_FlushMonthsPage()
+  BlogWriter_FlushIndexPage()
+  BlogWriter_FlushNotFoundPage()
 }
