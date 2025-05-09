@@ -21,4 +21,4 @@ The public folder, not source controlled, is the output folder that will contain
 [blogue]: https://caloni.com.br
 [GitHub Pages]: https://github.com/Caloni/caloni.github.io
 [books]: https://www.amazon.com/s?rh=p_27%3AWanderley%2BCaloni
-[email]: mailto:wanderley.caloni@gmail.com
+[email]: mailto:wanderleycaloni@gmail.com
