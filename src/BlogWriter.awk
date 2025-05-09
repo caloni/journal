@@ -395,7 +395,7 @@ function f_flush_posts_page(    i, j, k, f, t, s)
   QuickSearch["posts"] = "posts.html"
 }
 
-function f_flush_index_page(    favtags, i, c, f)
+function f_flush_index_page(    favtags, i, c, f, build_link)
 {
   split(Blog["text_favorite_tags"], favtags)
   PROCINFO["sorted_in"] = "@ind_num_asc"
@@ -415,7 +415,8 @@ function f_flush_index_page(    favtags, i, c, f)
   print "<div><big><span style=\"visibility: hidden; padding: 5px;\" name=\"results\" id=\"results\">...</span></big></div>" > f
   print "<table class=\"sortable\" style=\"width: 100%;\">" > f
   print "</table>" > f
-  f_write_bottom_html(f, 0, "", "", G_SETTINGS["date"] "." G_SETTINGS["build"])
+  build_link = "<a href=\"" G_SETTINGS["public_repo_github_address"] "/commit/" G_SETTINGS["build"] "\">" G_SETTINGS["build"] "</a>"
+  f_write_bottom_html(f, 0, "", "", G_SETTINGS["date"] "-" build_link)
 }
 
 function f_flush_not_found_page(    f)

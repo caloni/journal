@@ -5,6 +5,7 @@
 
 BEGIN {
   G_SETTINGS["generator"] = "MarkdownParser 0.2.0"
+  G_SETTINGS["public_repo_github_address"] = "https://github.com/caloni/journal"
   G_SETTINGS["post_header_fields"] = "date link slug tags"
 }
 
