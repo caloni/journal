@@ -7,21 +7,12 @@ dname = os.path.dirname(abspath)
 os.chdir(dname)
 os.chdir('..')
 
-process = subprocess.run(['python', os.path.join(dname, 'test.py')], check=True)
-if process.stdout:
-  print(process.stdout)
-if process.returncode:
-  print('test.py returned', process.returncode)
-
-process = subprocess.run(['python', os.path.join(dname, 'journal2blog.py')], check=True)
-if process.stdout:
-  print(process.stdout)
-if process.returncode:
-  print('journal2blog.py returned', process.returncode)
-
-process = subprocess.run(['python', os.path.join(dname, 'journal2book.py')], check=True)
-if process.stdout:
-  print(process.stdout)
-if process.returncode:
-  print('journal2book.py returned', process.returncode)
+scripts = [ 'test.py', 'journal2blog.py', 'journal2book.py' ]
+for script in scripts:
+  print('running', script)
+  process = subprocess.run(['python', os.path.join(dname, script)], check=True)
+  if process.stdout:
+    print(process.stdout)
+  if process.returncode:
+    print(script, 'returned', process.returncode)
 

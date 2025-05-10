@@ -1,24 +1,24 @@
 # Transform parsed text to html blog posts.
 
 BEGIN {
-  Blog["author"] = "Caloni"
-  Blog["author-image"] = "/img/about-author.jpg"
-  Blog["post-image"] = "/img/about-brand.png"
-  Blog["description"] = "Write for computers, people and food."
-  Blog["generator"] = G_SETTINGS["generator"]
-  Blog["link"] = "http://www.caloni.com.br"
-  Blog["output"] = "public\\blog"
-  Blog["text_favorite_tags"] = "computer cinema"
-  Blog["text_favorite_tags_description"]["computer"] = "programação, depuração, transpiração."
-  Blog["text_favorite_tags_description"]["cinema"] = "o finado Cine Tênis Verde veio parar aqui."
-  Blog["text_months"] = "lista dos meses com postes."
-  Blog["text_notfound_description"] = "Não quer fazer uma <a href=\"/posts.html\">busca</a>? Às vezes eu mexo e remexo as coisas por aqui."
-  Blog["text_notfound_title"] = "Opa, essa página não foi encontrada."
-  Blog["text_page_prefix"] = "caloni"
-  Blog["text_posts"] = "lista com toooooooodos os postes do blogue."
-  Blog["text_quicksearch"] = "&#x1F41E; digite algo / type something"
-  Blog["text_tags"] = "todos os rótulos dos postes."
-  Blog["title"] = "Blogue do Caloni"
+  G_SETTINGS["author"] = "Caloni"
+  G_SETTINGS["author-image"] = "/img/about-author.jpg"
+  G_SETTINGS["post-image"] = "/img/about-brand.png"
+  G_SETTINGS["description"] = "Write for computers, people and food."
+  G_SETTINGS["generator"] = G_SETTINGS["generator"]
+  G_SETTINGS["link"] = "http://www.caloni.com.br"
+  G_SETTINGS["output"] = "public\\blog"
+  G_SETTINGS["text_favorite_tags"] = "computer cinema"
+  G_SETTINGS["text_favorite_tags_description"]["computer"] = "programação, depuração, transpiração."
+  G_SETTINGS["text_favorite_tags_description"]["cinema"] = "o finado Cine Tênis Verde veio parar aqui."
+  G_SETTINGS["text_months"] = "lista dos meses com postes."
+  G_SETTINGS["text_notfound_description"] = "Não quer fazer uma <a href=\"/posts.html\">busca</a>? Às vezes eu mexo e remexo as coisas por aqui."
+  G_SETTINGS["text_notfound_title"] = "Opa, essa página não foi encontrada."
+  G_SETTINGS["text_page_prefix"] = "caloni"
+  G_SETTINGS["text_posts"] = "lista com toooooooodos os postes do blogue."
+  G_SETTINGS["text_quicksearch"] = "&#x1F41E; digite algo / type something"
+  G_SETTINGS["text_tags"] = "todos os rótulos dos postes."
+  G_SETTINGS["title"] = "Blogue do Caloni"
 }
 
 function BlogWriter_FlushPost(slug,    tags, post, i, j, file, search, prefix, suffix, links)
@@ -26,9 +26,9 @@ function BlogWriter_FlushPost(slug,    tags, post, i, j, file, search, prefix, s
   split(G_INDEX[slug]["tags"], tags)
   post = ""
 
-  file = Blog["output"] "\\" G_INDEX[slug]["month"] ".html"
+  file = G_SETTINGS["output"] "\\" G_INDEX[slug]["month"] ".html"
   if( ! (G_INDEX[slug]["month"] in Files) ) {
-    f_write_to_html(file, Blog["text_page_prefix"] "::" G_INDEX[slug]["month"], "months.html", 0)
+    f_write_to_html(file, G_SETTINGS["text_page_prefix"] "::" G_INDEX[slug]["month"], "months.html", 0)
     Files[G_INDEX[slug]["month"]] = G_INDEX[slug]["month"]
   }
   for( i in G_INDEX[slug]["lines"] ) {
@@ -103,7 +103,7 @@ function BlogWriter_FlushPost(slug,    tags, post, i, j, file, search, prefix, s
   } else {
     post = post "<p class=\"title\"><a href=\"" G_INDEX[slug]["month"] ".html#" slug "\">#</a> " Util_ToHtml(G_INDEX[slug]["title"]) "</p>\n"
   }
-  post = post "<span class=\"title-heading\">" Blog["author"] ", " G_INDEX[slug]["date"]
+  post = post "<span class=\"title-heading\">" G_SETTINGS["author"] ", " G_INDEX[slug]["date"]
   for( i in tags ) {
     post = post " "
     if( "tag_nav" in G_INDEX[slug] && tags[i] in G_INDEX[slug]["tag_nav"] && "prev_in_tag" in G_INDEX[slug]["tag_nav"][tags[i]] ) {
@@ -150,15 +150,15 @@ function f_write_to_html(file, title, backLink, filter, quickSearch,    original
   print "<head>" > file
   print "<meta charset=\"utf-8\" />" > file
   print "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/>" > file
-  print "<title>" Blog["title"] "</title>" > file
-  print "<meta name=\"author\" content=\"" Blog["author"] "\" />" > file
-  print "<meta name=\"generator\" content=\"" Blog["generator"] "\">" > file
-  print "<meta property=\"og:title\" content=\"" Blog["title"] "\"/>" > file
+  print "<title>" G_SETTINGS["title"] "</title>" > file
+  print "<meta name=\"author\" content=\"" G_SETTINGS["author"] "\" />" > file
+  print "<meta name=\"generator\" content=\"" G_SETTINGS["generator"] "\">" > file
+  print "<meta property=\"og:title\" content=\"" G_SETTINGS["title"] "\"/>" > file
   print "<meta property=\"og:type\" content=\"website\"/>" > file
-  print "<meta property=\"og:url\" content=\"" Blog["link"] "\"/>" > file
-  print "<meta property=\"og:image\" content=\"" Blog["post-image"] "\"/>" > file
-  print "<meta property=\"og:description\" content=\"" Blog["description"] "\"/>" > file
-  print "<link href=\"/index.xml\" rel=\"feed\" type=\"application/rss+xml\" title=\"" Blog["title"] "\"/>" > file
+  print "<meta property=\"og:url\" content=\"" G_SETTINGS["link"] "\"/>" > file
+  print "<meta property=\"og:image\" content=\"" G_SETTINGS["post-image"] "\"/>" > file
+  print "<meta property=\"og:description\" content=\"" G_SETTINGS["description"] "\"/>" > file
+  print "<link href=\"/index.xml\" rel=\"feed\" type=\"application/rss+xml\" title=\"" G_SETTINGS["title"] "\"/>" > file
   print "<link rel=\"stylesheet\" type=\"text/css\" href=\"/css/custom.css\"/>" > file
   print "<link rel=\"stylesheet\" type=\"text/css\" href=\"/css/jquery-ui.css\"/>" > file
   print "<script src=\"/js/jquery-1.12.4.js\"></script>" > file
@@ -257,8 +257,8 @@ function f_tie_previous_next_monts(    i, c)
 function BlogWriter_FlushMonthsPage(    i, f, y, m, y2)
 {
   PROCINFO["sorted_in"] = "@ind_num_desc"
-  f = Blog["output"] "\\months.html"
-  f_write_to_html(f, Blog["text_page_prefix"] "::months", "index.html", 0)
+  f = G_SETTINGS["output"] "\\months.html"
+  f_write_to_html(f, G_SETTINGS["text_page_prefix"] "::months", "index.html", 0)
   y = "2001"
   for( i in G_MONTHS ) {
     y2 = substr(i, 1, 4)
@@ -286,7 +286,7 @@ function BlogWriter_FlushPostsPages(    i, j, p, f)
   PROCINFO["sorted_in"] = "@ind_num_asc"
   for( i in Files ) {
     p = ""
-    f = Blog["output"] "\\" i ".html"
+    f = G_SETTINGS["output"] "\\" i ".html"
     PROCINFO["sorted_in"] = "@ind_num_asc"
     for( j in PostsByMonth[i] ) {
       p = p "\n" PostsByMonth[i][j]
@@ -306,8 +306,8 @@ function BlogWriter_FlushTagsPages(    slug, tags, i, j, k, l, f, s)
   PROCINFO["sorted_in"] = "@ind_num_desc"
   for( i in G_SLUGS_BY_TAGS_AND_DATES ) {
     QuickSearch[i] = i ".html"
-    f = Blog["output"] "\\" i ".html"
-    f_write_to_html(f, Blog["text_page_prefix"] "::" i, "index.html", 1)
+    f = G_SETTINGS["output"] "\\" i ".html"
+    f_write_to_html(f, G_SETTINGS["text_page_prefix"] "::" i, "index.html", 1)
     for( j in G_SLUGS_BY_TAGS_AND_DATES[i] ) {
       for( k in G_SLUGS_BY_TAGS_AND_DATES[i][j] ) {
         split(G_INDEX[k]["tags"], tags)
@@ -330,8 +330,8 @@ function BlogWriter_FlushTagsPages(    slug, tags, i, j, k, l, f, s)
 
 function BlogWriter_FlushTagsPage(    i, j, k, f, t)
 {
-  f = Blog["output"] "\\tags.html"
-  f_write_to_html(f, Blog["text_page_prefix"] "::tags", "index.html", 1)
+  f = G_SETTINGS["output"] "\\tags.html"
+  f_write_to_html(f, G_SETTINGS["text_page_prefix"] "::tags", "index.html", 1)
   PROCINFO["sorted_in"] = "@ind_str_asc"
   for( i in G_SLUGS_BY_TAGS_AND_DATES ) {
     print "<button class=\"tagbutton\" style=\"font-size: 1rem;\" onclick=\"window.location = '" i ".html';\">" Util_ToHtml(i) "</button>" > f
@@ -368,8 +368,8 @@ function BlogWriter_FlushPostsPage(    i, j, k, f, t, s)
 {
   f_tie_previous_next_monts()
 
-  f = Blog["output"] "\\posts.html"
-  f_write_to_html(f, Blog["text_page_prefix"] "::posts", "index.html", 1)
+  f = G_SETTINGS["output"] "\\posts.html"
+  f_write_to_html(f, G_SETTINGS["text_page_prefix"] "::posts", "index.html", 1)
   PROCINFO["sorted_in"] = "@ind_str_desc"
   for( i in G_DATE_SLUG_TITLE ) {
     for( j in G_DATE_SLUG_TITLE[i] ) {
@@ -394,21 +394,21 @@ function BlogWriter_FlushPostsPage(    i, j, k, f, t, s)
 
 function BlogWriter_FlushIndexPage(    favtags, i, c, f, build_link)
 {
-  split(Blog["text_favorite_tags"], favtags)
+  split(G_SETTINGS["text_favorite_tags"], favtags)
   PROCINFO["sorted_in"] = "@ind_num_asc"
   for( i in G_MONTHS ) {
     c = G_MONTHS[i]
     break
   }
-  f = Blog["output"] "\\index.html"
-  f_write_to_html(f, Blog["title"], c ".html#about", 0, QuickSearch)
-  print "<input type=\"text\" name=\"quick_search_name\" value=\"\" id=\"quick_search\" placeholder=\"" Blog["text_quicksearch"] "\" style=\"width: 100%; font-size: 1.5rem; margin-top: 1em; margin-bottom: 0.5em;\" title=\"\"/></br>" > f
+  f = G_SETTINGS["output"] "\\index.html"
+  f_write_to_html(f, G_SETTINGS["title"], c ".html#about", 0, QuickSearch)
+  print "<input type=\"text\" name=\"quick_search_name\" value=\"\" id=\"quick_search\" placeholder=\"" G_SETTINGS["text_quicksearch"] "\" style=\"width: 100%; font-size: 1.5rem; margin-top: 1em; margin-bottom: 0.5em;\" title=\"\"/></br>" > f
   for( i in favtags ) {
-    print "<big><a href=\"" favtags[i] ".html\">" favtags[i] "</a></big><small><i>: " Blog["text_favorite_tags_description"][favtags[i]] "</small></i></br>" > f
+    print "<big><a href=\"" favtags[i] ".html\">" favtags[i] "</a></big><small><i>: " G_SETTINGS["text_favorite_tags_description"][favtags[i]] "</small></i></br>" > f
   }
-  print "<big><a href=\"tags.html\">tags</a></big><small><i>: " Blog["text_tags"] "</small></i></br>" > f
-  print "<big><a href=\"months.html\">months</a></big><small><i>: " Blog["text_months"] "</small></i></br>" > f
-  print "<big><a href=\"posts.html\">posts</a></big><small><i>: " Blog["text_posts"] "</small></i></br>" > f
+  print "<big><a href=\"tags.html\">tags</a></big><small><i>: " G_SETTINGS["text_tags"] "</small></i></br>" > f
+  print "<big><a href=\"months.html\">months</a></big><small><i>: " G_SETTINGS["text_months"] "</small></i></br>" > f
+  print "<big><a href=\"posts.html\">posts</a></big><small><i>: " G_SETTINGS["text_posts"] "</small></i></br>" > f
   print "<div><big><span style=\"visibility: hidden; padding: 5px;\" name=\"results\" id=\"results\">...</span></big></div>" > f
   print "<table class=\"sortable\" style=\"width: 100%;\">" > f
   print "</table>" > f
@@ -418,12 +418,12 @@ function BlogWriter_FlushIndexPage(    favtags, i, c, f, build_link)
 
 function BlogWriter_FlushNotFoundPage(    f)
 {
-  f = Blog["output"] "\\404.html"
-  f_write_to_html(f, Blog["text_page_prefix"] "::404 page not found", "posts.html", 0)
+  f = G_SETTINGS["output"] "\\404.html"
+  f_write_to_html(f, G_SETTINGS["text_page_prefix"] "::404 page not found", "posts.html", 0)
   print "<div class=\"container\">" > f
-  print "  <p class=\"title\">" Blog["text_notfound_title"] "</p>" > f
+  print "  <p class=\"title\">" G_SETTINGS["text_notfound_title"] "</p>" > f
   print "    <div class=\"content\">" > f
-  print "      <p>" Blog["text_notfound_description"] "</p>" > f
+  print "      <p>" G_SETTINGS["text_notfound_description"] "</p>" > f
   print "    </div>" > f
   print "</div>" > f
   f_write_bottom_html(f, 0)

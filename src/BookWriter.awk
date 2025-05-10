@@ -1,9 +1,9 @@
 # Transform parsed text to epub.
 
 BEGIN {
-  G_BOOK["title"] = "Blogue do Caloni: Programação, Depuração, Transpiração"
-  G_BOOK["author"] = "Wanderley Caloni"
-  G_BOOK["publisher"] = "Caloni"
+  G_SETTINGS["title"] = "Blogue do Caloni: Programação, Depuração, Transpiração"
+  G_SETTINGS["author"] = "Wanderley Caloni"
+  G_SETTINGS["publisher"] = "Caloni"
 }
 
 function BookWriter_FlushPost(slug,    fchapter, tags, post, prefix, suffix)
@@ -158,9 +158,9 @@ function BookWriter_FlushPackage()
   print "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" > package
   print "<package xmlns=\"http://www.idpf.org/2007/opf\" version=\"3.0\" unique-identifier=\"p0000000000000\">" > package
   print "<metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\">" > package
-  print "<dc:title id=\"title\">" G_BOOK["title"] "</dc:title>" > package
-  print "<dc:creator>" G_BOOK["author"] "</dc:creator>" > package
-  print "<dc:publisher>" G_BOOK["publisher"] "</dc:publisher>" > package
+  print "<dc:title id=\"title\">" G_SETTINGS["title"] "</dc:title>" > package
+  print "<dc:creator>" G_SETTINGS["author"] "</dc:creator>" > package
+  print "<dc:publisher>" G_SETTINGS["publisher"] "</dc:publisher>" > package
   print "<dc:rights>Copyright " G_SETTINGS["build"] "</dc:rights>" > package
   print "<dc:identifier id=\"p0000000000000\">0000000000000</dc:identifier>" > package
   print "<dc:source id=\"src-id\">urn:isbn:0000000000000</dc:source>" > package
