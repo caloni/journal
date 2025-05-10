@@ -1,24 +1,26 @@
 # Write for people, computers and food
 
-Hello. This is the source from my [blogue] published using [GitHub Pages] and my [books]. All the text is in the `journal.md` file.
+Hello! This repository contains the source code for my published [blogs] and [books]. All content is in the `journal.md` file, primarily written in Brazilian Portuguese. Feel free to explore and reach out via [email] if you have any questions.
 
-The vast majority of my text is in my native language Portuguese, from Brazil. This should not be an issue now that machines translate flawlessly every pieace of internet to every conceivable language. But be my guest to learn something from this wonderful language and ask questions by [email] if you need to.
+## How It Works
 
-Thank you for the interest into my texts. Hope you find something useful here. Bye and thank you for all the steak.
+This project uses Python scripts to run AWK scripts located in the `src` folder. I develop on Windows, but the code should work fine on Unix systems as well.
 
-## How to use (for programmers)
+Main scripts:
 
-The whole thing works by using Python scripts and AWK. To publish I run the project inside Windows, but the code should work fine from any Unix env.
+- `build.py`: Builds the blog and book.
+- `test.py`: Runs the tests.
 
-If you just cloned this repo the core text is in the `journal.md` file. The usable code, including the ones to publish this content, is in the `code` folder. The code currently parses just the minimum Markdown needed in `code/MarkdownParser.awk`. One day I will implement it as a whole. The dream version will support Common Markdown.
+AWK scripts are organized by function, such as:
 
-To publish the blog you should call `code/PublishBlog.py`, to generate the book `code/Journal2Book.py`. You can run a local version of the blog by using the `code/Journal2Blog.py` followed by `public/book/BlogServer.py` script. You can generate a MOBI version of the book by running `code/PublishBlog.py`.
+- `MarkdownParser.awk`: Parses Markdown content.
+- `BookWriter.awk`: Generates book files.
 
-A part of the code in `code/MetadataWriter.awk` writes the previously parsed text to metadata that are then transformed to a HTML blog in `code/BlogWriter.awk` or an EPUB book in `code/BookWriter.awk`.
+The `public` folder (not under version control) contains the output ready for publication.
 
-The public folder, not source controlled, is the output folder that will contain publishable content (blog or book).
-
-[blogue]: https://caloni.com.br
-[GitHub Pages]: https://github.com/Caloni/caloni.github.io
+For more details, check the comments within the code.
+ 
+[blogs]: https://caloni.com.br
 [books]: https://www.amazon.com/s?rh=p_27%3AWanderley%2BCaloni
+[GitHub Pages]: https://github.com/Caloni/caloni.github.io
 [email]: mailto:wanderleycaloni@gmail.com
