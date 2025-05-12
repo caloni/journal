@@ -1,4 +1,7 @@
 # Capture metadata from pseudo-markdown text to further processing.
+#
+# The G_INDEX array will contain fields "date" and "link" indexed
+# by slug and passed between scripts.
 
 # The metadata.txt file will be used in further scripts to gather
 # location of posts and other information about texts, such as
