@@ -169,7 +169,7 @@ $1 == "metadata_tags" { next }
     MarkdownParser_CopyNewPost()
   }
   G_NEW_POST["title"] = substr($0, 3)
-  G_NEW_POST["slug"] = Util_ToSlug(G_NEW_POST["title"])
+  G_NEW_POST["slug"] = Util_TitleToSlug(G_NEW_POST["title"])
   next
 }
 

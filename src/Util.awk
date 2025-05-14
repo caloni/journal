@@ -1,110 +1,35 @@
 # Translate special characters to acceptable characters.
 
-function Util_ToSlug(s)
+function Util_TitleToSlug(a_title)
 {
-  gsub(/[ÁÀÂÃáàâã]/, "a", s)
-  gsub(/[ÉÊÊéêê]/, "e", s)
-  gsub(/[ÔÕÓôõó]/, "o", s)
-  gsub(/[Úú]/, "u", s)
-  gsub(/[ÍÏíï]/, "i", s)
-  gsub(/[Çç]/, "c", s)
-  gsub(/[#()'",;:-]/, "", s)
-  gsub(/&/, "and", s)
-  gsub(/!/, "", s)
-  gsub(/\?/, "", s)
-  gsub(/\./, "", s)
-  gsub(/%/, "perc", s)
-  gsub(/</, "lt", s)
-  gsub(/>/, "gt", s)
-  gsub(/=/, "_", s)
-  gsub(/ /, "_", s)
-  gsub(/^_/, "", s)
-  gsub(/_$/, "", s)
-  gsub(/__/, "_", s)
-  return tolower(s)
+  gsub(/[ÁÀÂÃáàâã]/, "a", a_title)
+  gsub(/[ÉÊÊéêê]/, "e", a_title)
+  gsub(/[ÔÕÓôõó]/, "o", a_title)
+  gsub(/[Úú]/, "u", a_title)
+  gsub(/[ÍÏíï]/, "i", a_title)
+  gsub(/[Çç]/, "c", a_title)
+  gsub(/[#()'",;:-]/, "", a_title)
+  gsub(/&/, "and", a_title)
+  gsub(/!/, "", a_title)
+  gsub(/\?/, "", a_title)
+  gsub(/\./, "", a_title)
+  gsub(/%/, "perc", a_title)
+  gsub(/</, "lt", a_title)
+  gsub(/>/, "gt", a_title)
+  gsub(/=/, "_", a_title)
+  gsub(/ /, "_", a_title)
+  gsub(/^_/, "", a_title)
+  gsub(/_$/, "", a_title)
+  gsub(/__/, "_", a_title)
+  return tolower(a_title)
 }
 
-function Util_ToHtml(s)
+function Util_TextToHtml(a_text)
 {
-  gsub(/&/, "&amp;", s)
-  gsub(/</, "\\&lt;", s)
-  gsub(/>/, "\\&gt;", s)
-  gsub(/"/, "\\&quot;", s)
-  return s
+  gsub(/&/, "&amp;", a_text)
+  gsub(/</, "\\&lt;", a_text)
+  gsub(/>/, "\\&gt;", a_text)
+  gsub(/"/, "\\&quot;", a_text)
+  return a_text
 }
 
-function Util_ValidateId(s, id)
-{
-  if( s == "_" ) {
-    print "warning: empty id (_) to " id
-  }
-}
-
-function ToId(s,    id)
-{
-  id = s
-  gsub(/-/, "", id)
-  gsub(/ /, "_", id)
-  gsub(/#/, "sharp", id)
-  id = "_" id
-  Util_ValidateId(s, id)
-  return id
-}
-
-function ToEpubId(s,    id)
-{
-  id = s
-  gsub(/-/, "", id)
-  gsub(/ /, "_", id)
-  id = "_" id
-  Util_ValidateId(s, id)
-  return id
-}
-
-function Util_ToEpubLink(s)
-{
-  gsub(/\?[^"]+/, "", s)
-  return s
-}
-
-function Util_IsNumeric(x, f)
-{
-    switch (typeof(x)) {
-    case "strnum":
-    case "number":
-        return 1
-    case "string":
-        return (split(x, f, " ") == 1) && (typeof(f[1]) == "strnum")
-    default:
-        return 0
-    }
-}
-
-function Util_ToLetter(s)
-{
-  if( !("Á" in G_CONVERT_LETTERS) ) {
-    G_CONVERT_LETTERS["Á"] = "A"
-    G_CONVERT_LETTERS["À"] = "A"
-    G_CONVERT_LETTERS["Â"] = "A"
-    G_CONVERT_LETTERS["Ã"] = "A"
-    G_CONVERT_LETTERS["É"] = "E"
-    G_CONVERT_LETTERS["Ê"] = "E"
-    G_CONVERT_LETTERS["Ê"] = "E"
-    G_CONVERT_LETTERS["Ô"] = "O"
-    G_CONVERT_LETTERS["Õ"] = "O"
-    G_CONVERT_LETTERS["Ó"] = "O"
-    G_CONVERT_LETTERS["Ú"] = "U"
-    G_CONVERT_LETTERS["Í"] = "I"
-    G_CONVERT_LETTERS["Ï"] = "I"
-    G_CONVERT_LETTERS["("] = "#"
-    G_CONVERT_LETTERS[")"] = "#"
-    G_CONVERT_LETTERS["'"] = "#"
-    G_CONVERT_LETTERS["\""] = "#"
-  }
-
-  if( Util_IsNumeric(s) ) return "#"
-  s = toupper(s)
-  c = G_CONVERT_LETTERS[s]
-  if( c != "" ) return c
-  return s
-}
