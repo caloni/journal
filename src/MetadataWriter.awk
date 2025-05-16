@@ -43,7 +43,7 @@ function MetadataWriter_FlushNewPostToMetadataOutput(    l_chapter)
   }
   G_INDEX[G_NEW_POST["slug"]]["date"] = G_NEW_POST["date"]
   G_INDEX[G_NEW_POST["slug"]]["link"] = link
-  print "metadata_chapter", G_NEW_POST["slug"], l_chapter, G_NEW_POST["explicit_slug"] > G_METADATA["output"]
+  print "metadata_chapter", G_NEW_POST["slug"], l_chapter > G_METADATA["output"]
   delete G_NEW_POST
 }
 
@@ -87,13 +87,9 @@ G_CONTENT_STATE["```"] {
 /^\[[^]]+\]:/ {
   if( match($0, /^\[([^]]+)\]: *([^" ]+) *"?([^"]+)?"?/, l_array) )
   {
-    if( l_array[1] == "slug" || l_array[1] == "date" )
+    if( l_array[1] == "date" || l_array[1] == "slug" )
     {
       G_NEW_POST[l_array[1]] = l_array[3]
-    }
-    else if( l_array[1] == "slug" )
-    {
-      G_NEW_POST["explicit_slug"] = "explicit_slug"
     }
     else if( l_array[1] == "tags" )
     {

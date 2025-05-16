@@ -337,7 +337,7 @@ function BookWriter_FlushTocPage()
     year = substr(c, 1, 4)
     mon = substr(c, 6, 2)
     if( year != lastyear ) {
-      if( lastyear != "2001" ) {
+      if( lastyear != "2000" ) {
         print "</p>" > tocxhtml
       }
       print "<p id=\"" BookWriter_SlugToId(c) "\" class=\"toc\"><strong>" year "</strong>" > tocxhtml
