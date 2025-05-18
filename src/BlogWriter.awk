@@ -572,6 +572,10 @@ END {
   BlogWriter_FlushNotFoundPage()
 
   # cleanup
+  delete G_FILES
+  delete G_NEXT_MONTH
   delete G_POSTS_BY_MONTH
   delete G_POST_LINKS_BY_MONTH
+  delete G_PREV_MONTH
+  delete G_QUICK_SEARCH
 }
