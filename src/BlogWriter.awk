@@ -1,4 +1,13 @@
 # Transform parsed text to html blog posts.
+#
+# The following information is available after parsing:
+#
+# - G_FILES list of months that have some post
+# - G_NEXT_MONTH next month (or default page) indexed by current month
+# - G_POSTS_BY_MONTH texts of posts indexed by month and date
+# - G_POST_LINKS_BY_MONTH permalinks of posts indexed by month and date
+# - G_PREV_MONTH previous month (or default page) indexed by current month
+# - G_QUICK_SEARCH pages list to be used in quick search
 
 # TODO get hardcoded personal info from metadata file
 BEGIN {
@@ -23,44 +32,49 @@ BEGIN {
 }
 
 # Write slug indexed post content to month page
-function BlogWriter_WritePost(a_slug,    l_tags, l_postText, l_file, l_search, l_prefix, l_suffix, l_key, l_key2)
+function BlogWriter_WritePost(a_slug,    l_tags, l_postText, l_file, l_prefix, l_suffix, l_key, l_key2)
 {
   split(G_INDEX[a_slug]["tags"], l_tags)
   l_postText = ""
 
   l_file = G_SETTINGS["output"] "\\" G_INDEX[a_slug]["month"] ".html"
-  if( ! (G_INDEX[a_slug]["month"] in Files) )
+  # first post in the month
+  if( ! (G_INDEX[a_slug]["month"] in G_FILES) )
   {
     BlogWriter_WriteHead(l_file, G_SETTINGS["text_page_prefix"] "::" G_INDEX[a_slug]["month"], "months.html", 0)
-    Files[G_INDEX[a_slug]["month"]] = G_INDEX[a_slug]["month"]
+    G_FILES[G_INDEX[a_slug]["month"]] = G_INDEX[a_slug]["month"]
   }
+  # for each post line
   for( l_key in G_INDEX[a_slug]["lines"] )
   {
     l_prefix = ""
     l_suffix = ""
     l_transformBracketsToSearchLink = 1
+
+    # line is non empty
     if( G_INDEX[a_slug]["lines"][l_key]["content"] != "" )
     {
+      # is not preformatted nor quote block
       if( G_INDEX[a_slug]["lines"][l_key]["type"] != "pre" && G_INDEX[a_slug]["lines"][l_key]["type"] != "blockquote" )
       {
+        # it is a header (h1, h2, ...)
         if ( substr(G_INDEX[a_slug]["lines"][l_key]["type"], 1, 1) == "h" && length(G_INDEX[a_slug]["lines"][l_key]["type"]) == 2 )
         {
+          # replace ampersand only for headers for some reason
           gsub(/&/, "&amp;", G_INDEX[a_slug]["lines"][l_key]["content"])
         }
-        if( "links" in G_INDEX[a_slug] )
+        # TODO links translation, need more clarification
+        for( l_key2 in G_INDEX[a_slug]["links"] )
         {
-          for( l_key2 in G_INDEX[a_slug]["links"] )
+          if( G_INDEX[a_slug]["links"][l_key2] in G_INDEX_METADATA )
           {
-            if( G_INDEX[a_slug]["links"][l_key2] in G_INDEX_METADATA )
-            {
-              G_INDEX[a_slug]["links"][l_key2] = "<a href=\"" G_INDEX_METADATA[G_INDEX[a_slug]["links"][l_key2]]["chapter"] ".html#" G_INDEX[a_slug]["links"][l_key2] "\">" l_key2 "</a>"
-            }
-            l_search = "\\[" l_key2 "\\]"
-            gsub(l_search, G_INDEX[a_slug]["links"][l_key2], G_INDEX[a_slug]["lines"][l_key]["content"])
+            G_INDEX[a_slug]["links"][l_key2] = "<a href=\"" G_INDEX_METADATA[G_INDEX[a_slug]["links"][l_key2]]["chapter"] ".html#" G_INDEX[a_slug]["links"][l_key2] "\">" l_key2 "</a>"
           }
+          gsub("\\[" l_key2 "\\]", G_INDEX[a_slug]["links"][l_key2], G_INDEX[a_slug]["lines"][l_key]["content"])
         }
       }
 
+      # preformatted content
       if( G_INDEX[a_slug]["lines"][l_key]["type"] == "pre" )
       {
         G_INDEX[a_slug]["lines"][l_key]["content"] = Util_TextToHtml(G_INDEX[a_slug]["lines"][l_key]["content"]) "\n"
@@ -74,12 +88,14 @@ function BlogWriter_WritePost(a_slug,    l_tags, l_postText, l_file, l_search, l
         }
         l_transformBracketsToSearchLink = 0
       }
+      # quote block
       else if ( G_INDEX[a_slug]["lines"][l_key]["type"] == "blockquote")
       {
         l_prefix = l_prefix "<blockquote>"
         l_suffix = l_suffix "</blockquote>"
         l_transformBracketsToSearchLink = 0
       }
+      # list
       else if ( G_INDEX[a_slug]["lines"][l_key]["type"] == "list")
       {
         l_prefix = l_prefix "<li>"
@@ -94,18 +110,21 @@ function BlogWriter_WritePost(a_slug,    l_tags, l_postText, l_file, l_search, l
         }
         l_transformBracketsToSearchLink = 1
       }
+      # headers h1, h2, ...
       else if ( substr(G_INDEX[a_slug]["lines"][l_key]["type"], 1, 1) == "h" && length(G_INDEX[a_slug]["lines"][l_key]["type"]) == 2 )
       {
         l_prefix = l_prefix "<h" substr(G_INDEX[a_slug]["lines"][l_key]["type"], 2, 1) ">"
         l_suffix = l_suffix "</h" substr(G_INDEX[a_slug]["lines"][l_key]["type"], 2, 1) ">\n"
         l_transformBracketsToSearchLink = 1
       }
+      # paragraph
       else if ( G_INDEX[a_slug]["lines"][l_key]["type"] == "p")
       {
         l_prefix = l_prefix "<p>"
         l_suffix = l_suffix "</p>\n"
         l_transformBracketsToSearchLink = 1
       }
+      # image
       else if ( G_INDEX[a_slug]["lines"][l_key]["type"] == "img")
       {
         l_prefix = l_prefix "<img src=\"img/"
@@ -113,6 +132,7 @@ function BlogWriter_WritePost(a_slug,    l_tags, l_postText, l_file, l_search, l
         l_transformBracketsToSearchLink = 0
       }
 
+      # no link found, replace [this] for search?q=this
       if( l_transformBracketsToSearchLink )
       {
         G_INDEX[a_slug]["lines"][l_key]["content"] = gensub(/\[([^\]]+)\]/, "<a href=\"posts.html?q=\\1\">\\1</a>", "g", G_INDEX[a_slug]["lines"][l_key]["content"])
@@ -122,48 +142,66 @@ function BlogWriter_WritePost(a_slug,    l_tags, l_postText, l_file, l_search, l
     }
   }
 
+  # let's begin to mount post content
+  # first the span with anchor
   l_postText = "<span id=\"" a_slug "\" title=\"" Util_TextToHtml(G_INDEX[a_slug]["title"]) "\"/></span>\n"
+  # next begin section
   l_postText = l_postText "<section id=\"section_" a_slug "\">\n"
+  # put blog post external link
   if( "extlink" in G_INDEX[a_slug] )
   {
     l_postText = l_postText "<p class=\"title\"><a href=\"" G_INDEX[a_slug]["month"] ".html#" a_slug "\">#</a> <a class=\"external\" href=\"" G_INDEX[a_slug]["extlink"] "\">" Util_TextToHtml(G_INDEX[a_slug]["title"]) "</a></p>\n"
   }
+  # or it is just random text post
   else
   {
     l_postText = l_postText "<p class=\"title\"><a href=\"" G_INDEX[a_slug]["month"] ".html#" a_slug "\">#</a> " Util_TextToHtml(G_INDEX[a_slug]["title"]) "</p>\n"
   }
+  # author and date
   l_postText = l_postText "<span class=\"title-heading\">" G_SETTINGS["author"] ", " G_INDEX[a_slug]["date"]
+  # tags
   for( l_key in l_tags )
   {
     l_postText = l_postText " "
+    # previous post with same tag navigation
     if( "tag_nav" in G_INDEX[a_slug] && l_tags[l_key] in G_INDEX[a_slug]["tag_nav"] && "prev_in_tag" in G_INDEX[a_slug]["tag_nav"][l_tags[l_key]] )
     {
       l_postText = l_postText "<a href=\"" G_INDEX[G_INDEX[a_slug]["tag_nav"][l_tags[l_key]]["prev_in_tag"]]["link"] "\">&lt;</a>"
     }
+    # posts with same tag listing
     l_postText = l_postText "<a href=\"" l_tags[l_key] ".html\">" l_tags[l_key] "</a>"
+    # next post with same tag navigation
     if( "tag_nav" in G_INDEX[a_slug] && l_tags[l_key] in G_INDEX[a_slug]["tag_nav"] && "next_in_tag" in G_INDEX[a_slug]["tag_nav"][l_tags[l_key]] )
     {
       l_postText = l_postText "<a href=\"" G_INDEX[G_INDEX[a_slug]["tag_nav"][l_tags[l_key]]["next_in_tag"]]["link"] "\">&gt;</a>"
     }
   }
+  # top month page link, copy text link
   l_postText = l_postText "<a href=\"" G_INDEX[a_slug]["month"] ".html\"> "
   l_postText = l_postText "<sup>[up]</sup></a> <a href=\"javascript:;\" onclick=\"copy_clipboard('section#section_" a_slug "')\"><sup>[copy]</sup></a></span>\n\n"
+  # finally post lines
   for( l_key in G_INDEX[a_slug]["lines"] )
   {
     l_postText = l_postText G_INDEX[a_slug]["lines"][l_key]["content"]
+    # non preformatted, insert new line for html asthetics
     if( G_INDEX[a_slug]["lines"][l_key]["type"] != "pre" )
     {
       l_postText = l_postText "\n"
     }
   }
+  # end of post section
   l_postText = l_postText "</section><hr/>\n"
-  PostsByMonth[G_INDEX[a_slug]["month"]][G_INDEX[a_slug]["date"]] = PostsByMonth[G_INDEX[a_slug]["month"]][G_INDEX[a_slug]["date"]] "\n" l_postText
+  # append final post final text to posts of this month
+  G_POSTS_BY_MONTH[G_INDEX[a_slug]["month"]][G_INDEX[a_slug]["date"]] = G_POSTS_BY_MONTH[G_INDEX[a_slug]["month"]][G_INDEX[a_slug]["date"]] "\n" l_postText
+  # append link to post to post links to this month
+  # TODO why using extlink?
   G_INDEX[a_slug]["extlink"] = "<li><small><a href=\"" G_INDEX[a_slug]["month"] ".html#" a_slug "\">" Util_TextToHtml(G_INDEX[a_slug]["title"]) "</a></small></li>"
-  PostLinksByMonth[G_INDEX[a_slug]["month"]][G_INDEX[a_slug]["date"]] = PostLinksByMonth[G_INDEX[a_slug]["month"]][G_INDEX[a_slug]["date"]] "\n" G_INDEX[a_slug]["extlink"]
-
-  QuickSearch[a_slug] = G_INDEX[a_slug]["month"] ".html#" a_slug
+  G_POST_LINKS_BY_MONTH[G_INDEX[a_slug]["month"]][G_INDEX[a_slug]["date"]] = G_POST_LINKS_BY_MONTH[G_INDEX[a_slug]["month"]][G_INDEX[a_slug]["date"]] "\n" G_INDEX[a_slug]["extlink"]
+  # add post permalink to quick search listing
+  G_QUICK_SEARCH[a_slug] = G_INDEX[a_slug]["month"] ".html#" a_slug
+  # cleanup
   delete l_tags
-  l_postText = l_file = l_search = l_prefix = l_suffix = l_key = l_key2 = ""
+  l_postText = l_file = l_prefix = l_suffix = l_key = l_key2 = ""
 }
 
 # Write all posts to months page ordered by journal numerical position
@@ -287,20 +325,21 @@ function BlogWriter_WriteBottom(a_file, a_filter, a_nextLink, a_prevLink, a_buil
   l_label = l_link = ""
 }
 
+# Link months with each other chronologically
 function BlogWriter_TiePreviousMonths(    l_key, l_defaultLink)
 {
   PROCINFO["sorted_in"] = "@ind_num_asc"
   l_defaultLink = "index"
   for( l_key in G_MONTHS )
   {
-    NextMonth[l_key] = l_defaultLink
+    G_NEXT_MONTH[l_key] = l_defaultLink
     l_defaultLink = l_key
   }
   PROCINFO["sorted_in"] = "@ind_num_desc"
   l_defaultLink = "index"
   for( l_key in G_MONTHS )
   {
-    PrevMonth[l_key] = l_defaultLink
+    G_PREV_MONTH[l_key] = l_defaultLink
     l_defaultLink = l_key
   }
   l_key = l_defaultLink = ""
@@ -326,7 +365,7 @@ function BlogWriter_FlushMonthsPage(    l_key, l_file, l_year, l_month, l_year2)
       l_year = l_year2
     }
     print "<a href=\"" l_key ".html\"> " Util_TextToHtml(l_month) " </a>" > l_file
-    QuickSearch[l_key] = l_key ".html"
+    G_QUICK_SEARCH[l_key] = l_key ".html"
     if( ! LastMonth )
     {
       LastMonth = l_key
@@ -334,30 +373,30 @@ function BlogWriter_FlushMonthsPage(    l_key, l_file, l_year, l_month, l_year2)
   }
   print "</p>" > l_file
   BlogWriter_WriteBottom(l_file, 0)
-  QuickSearch["months"] = "months.html"
+  G_QUICK_SEARCH["months"] = "months.html"
   l_key = l_file = l_year = l_month = l_year2 = ""
 }
 
 function BlogWriter_FlushPostsPages(    l_key, l_key2, l_posts, l_file)
 {
   PROCINFO["sorted_in"] = "@ind_num_asc"
-  for( l_key in Files )
+  for( l_key in G_FILES )
   {
     l_posts = ""
     l_file = G_SETTINGS["output"] "\\" l_key ".html"
     PROCINFO["sorted_in"] = "@ind_num_asc"
-    for( l_key2 in PostsByMonth[l_key] )
+    for( l_key2 in G_POSTS_BY_MONTH[l_key] )
     {
-      l_posts = l_posts "\n" PostsByMonth[l_key][l_key2]
+      l_posts = l_posts "\n" G_POSTS_BY_MONTH[l_key][l_key2]
     }
     print "<ul style=\"list-style: none;\">" > l_file
-    for( l_key2 in PostLinksByMonth[l_key] )
+    for( l_key2 in G_POST_LINKS_BY_MONTH[l_key] )
     {
-      print PostLinksByMonth[l_key][l_key2] > l_file
+      print G_POST_LINKS_BY_MONTH[l_key][l_key2] > l_file
     }
     print "</ul>" > l_file
     print l_posts > l_file
-    BlogWriter_WriteBottom(l_file, 0, NextMonth[l_key] ".html", PrevMonth[l_key] ".html")
+    BlogWriter_WriteBottom(l_file, 0, G_NEXT_MONTH[l_key] ".html", G_PREV_MONTH[l_key] ".html")
   }
   l_key = l_key2 = l_posts = l_file = ""
 }
@@ -367,7 +406,7 @@ function BlogWriter_FlushTagsPages(    l_key, l_key2, l_key3, l_key4, l_file, l_
   PROCINFO["sorted_in"] = "@ind_num_desc"
   for( l_key in G_SLUGS_BY_TAGS_AND_DATES )
   {
-    QuickSearch[l_key] = l_key ".html"
+    G_QUICK_SEARCH[l_key] = l_key ".html"
     l_file = G_SETTINGS["output"] "\\" l_key ".html"
     BlogWriter_WriteHead(l_file, G_SETTINGS["text_page_prefix"] "::" l_key, "index.html", 1)
     for( l_key2 in G_SLUGS_BY_TAGS_AND_DATES[l_key] )
@@ -438,42 +477,45 @@ function BlogWriter_FlushTagsPage(    l_key, l_key2, l_key3, l_file, l_titleText
     print "</td></tr>" > l_file
   }
   BlogWriter_WriteBottom(l_file, 1)
-  QuickSearch["tags"] = "tags.html"
+  G_QUICK_SEARCH["tags"] = "tags.html"
   l_key = l_key2 = l_key3 = l_file = l_titleText = l_titleMax = ""
 }
 
-function BlogWriter_FlushPostsPage(    l_key, l_key2, l_key3, l_file, l_title, l_tagsText, l_tags)
+# Write page with all posts slug, title, tags and summary ordered by date
+function BlogWriter_FlushPostsPage(    l_date, l_slug, l_tags, l_tag, l_file, l_title, l_tagsText)
 {
   BlogWriter_TiePreviousMonths()
 
   l_file = G_SETTINGS["output"] "\\posts.html"
   BlogWriter_WriteHead(l_file, G_SETTINGS["text_page_prefix"] "::posts", "index.html", 1)
   PROCINFO["sorted_in"] = "@ind_str_desc"
-  for( l_key in G_DATE_SLUG_TITLE )
+  for( l_date in G_DATE_SLUG_TITLE )
   {
-    for( l_key2 in G_DATE_SLUG_TITLE[l_key] )
+    # for each post
+    for( l_slug in G_DATE_SLUG_TITLE[l_date] )
     {
-      l_title = G_DATE_SLUG_TITLE[l_key][l_key2]
-      split(G_INDEX[l_key2]["tags"], l_tags)
+      l_title = G_DATE_SLUG_TITLE[l_date][l_slug]
+      split(G_INDEX[l_slug]["tags"], l_tags)
       l_tagsText = ""
-      for( l_key3 in l_tags )
+      for( l_tag in l_tags )
       {
-        l_tagsText = l_tagsText " " l_tags[l_key3]
+        l_tagsText = l_tagsText " " l_tags[l_tag]
       }
       print "<tr><td>" > l_file
-      if( G_INDEX[l_key2]["image"] )
+      if( G_INDEX[l_slug]["image"] )
       {
-        print "<img src=\"img/" G_INDEX[l_key2]["image"] "\"/>" > l_file
+        print "<img src=\"img/" G_INDEX[l_slug]["image"] "\"/>" > l_file
       }
-      print "<b><a href=\"" G_INDEX[l_key2]["month"] ".html#" l_key2 "\">" Util_TextToHtml(l_title) "</a></b>" > l_file
-      print "<small><i>" G_INDEX[l_key2]["date"] l_tagsText " " G_INDEX[l_key2]["summary"] " " l_key2 "</small></i>" > l_file
+      print "<b><a href=\"" G_INDEX[l_slug]["month"] ".html#" l_slug "\">" Util_TextToHtml(l_title) "</a></b>" > l_file
+      print "<small><i>" G_INDEX[l_slug]["date"] l_tagsText " " G_INDEX[l_slug]["summary"] " " l_slug "</small></i>" > l_file
       print "</td></tr>" > l_file
     }
   }
   BlogWriter_WriteBottom(l_file, 1)
-  QuickSearch["posts"] = "posts.html"
+  G_QUICK_SEARCH["posts"] = "posts.html"
+  #cleanup
   delete l_tags
-  l_key = l_key2 = l_key3 = l_file = l_title = l_tagsText = ""
+  l_date = l_slug = l_tag = l_file = l_title = l_tagsText = ""
 }
 
 function BlogWriter_FlushIndexPage(    l_favtags, l_key, l_month, l_file, l_build_link)
@@ -486,7 +528,7 @@ function BlogWriter_FlushIndexPage(    l_favtags, l_key, l_month, l_file, l_buil
     break
   }
   l_file = G_SETTINGS["output"] "\\index.html"
-  BlogWriter_WriteHead(l_file, G_SETTINGS["title"], l_month ".html#about", 0, QuickSearch)
+  BlogWriter_WriteHead(l_file, G_SETTINGS["title"], l_month ".html#about", 0, G_QUICK_SEARCH)
   print "<input type=\"text\" name=\"quick_search_name\" value=\"\" id=\"quick_search\" placeholder=\"" G_SETTINGS["text_quicksearch"] "\" style=\"width: 100%; font-size: 1.5rem; margin-top: 1em; margin-bottom: 0.5em;\" title=\"\"/></br>" > l_file
   for( l_key in l_favtags )
   {
@@ -528,4 +570,8 @@ END {
   BlogWriter_FlushMonthsPage()
   BlogWriter_FlushIndexPage()
   BlogWriter_FlushNotFoundPage()
+
+  # cleanup
+  delete G_POSTS_BY_MONTH
+  delete G_POST_LINKS_BY_MONTH
 }
