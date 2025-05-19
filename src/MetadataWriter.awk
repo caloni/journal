@@ -44,7 +44,7 @@ function MetadataWriter_FlushNewPostToMetadataOutput(    l_chapter)
   G_INDEX[G_NEW_POST["slug"]]["date"] = G_NEW_POST["date"]
   G_INDEX[G_NEW_POST["slug"]]["link"] = link
   print "metadata_chapter", G_NEW_POST["slug"], l_chapter > G_METADATA["output"]
-  delete G_NEW_POST
+  split("", G_NEW_POST)
 }
 
 # Flushes all captured tags from the posts.
@@ -99,7 +99,7 @@ G_CONTENT_STATE["```"] {
         G_ALL_TAGS[tags[i]] = tags[i]
       }
     }
-    delete l_array
+    split("", l_array)
   }
   next
 }
@@ -114,9 +114,10 @@ END {
     MetadataWriter_FlushNewPostToMetadataOutput()
   }
   MetadataWriter_FlushTags()
-  delete G_NEW_POST
-  delete G_CONTENT_STATE
-  delete G_METADATA
-  delete G_ALL_TAGS
-  # not delete G_INDEX
+  # cleanup
+  split("", G_NEW_POST)
+  split("", G_CONTENT_STATE)
+  split("", G_METADATA)
+  split("", G_ALL_TAGS)
+  # not clean G_INDEX
 }

@@ -200,8 +200,7 @@ function BlogWriter_WritePost(a_slug,    l_tags, l_postText, l_file, l_prefix, l
   # add post permalink to quick search listing
   G_QUICK_SEARCH[a_slug] = G_INDEX[a_slug]["month"] ".html#" a_slug
   # cleanup
-  delete l_tags
-  l_postText = l_file = l_prefix = l_suffix = l_key = l_key2 = ""
+  split("", l_tags)
 }
 
 # Write all posts to months page ordered by journal numerical position
@@ -219,7 +218,6 @@ function BlogWriter_FlushPosts(    l_position, l_slug)
     }
     BlogWriter_WritePost(l_slug)
   }
-  l_position = l_slug = ""
 }
 
 function BlogWriter_WriteHead(a_file, a_title, a_backLink, a_filter, a_quickSearch,    l_originalSort, l_key)
@@ -283,7 +281,6 @@ function BlogWriter_WriteHead(a_file, a_title, a_backLink, a_filter, a_quickSear
     print "<div><big><b><span style=\"visibility: hidden; padding: 5px;\" name=\"results\" id=\"results\">...</span></b></big></div>" > a_file
     print "<table class=\"sortable\" style=\"width: 100%;\">" > a_file
   }
-  l_originalSort = l_key = ""
 }
 
 function BlogWriter_WriteBottom(a_file, a_filter, a_nextLink, a_prevLink, a_build,    l_label, l_link)
@@ -322,7 +319,6 @@ function BlogWriter_WriteBottom(a_file, a_filter, a_nextLink, a_prevLink, a_buil
   print "</footer>" > a_file
   print "</body>" > a_file
   print "</html>" > a_file
-  l_label = l_link = ""
 }
 
 # Link months with each other chronologically
@@ -342,7 +338,6 @@ function BlogWriter_TiePreviousMonths(    l_key, l_defaultLink)
     G_PREV_MONTH[l_key] = l_defaultLink
     l_defaultLink = l_key
   }
-  l_key = l_defaultLink = ""
 }
 
 function BlogWriter_FlushMonthsPage(    l_key, l_file, l_year, l_month, l_year2)
@@ -374,7 +369,6 @@ function BlogWriter_FlushMonthsPage(    l_key, l_file, l_year, l_month, l_year2)
   print "</p>" > l_file
   BlogWriter_WriteBottom(l_file, 0)
   G_QUICK_SEARCH["months"] = "months.html"
-  l_key = l_file = l_year = l_month = l_year2 = ""
 }
 
 function BlogWriter_FlushPostsPages(    l_key, l_key2, l_posts, l_file)
@@ -398,7 +392,6 @@ function BlogWriter_FlushPostsPages(    l_key, l_key2, l_posts, l_file)
     print l_posts > l_file
     BlogWriter_WriteBottom(l_file, 0, G_NEXT_MONTH[l_key] ".html", G_PREV_MONTH[l_key] ".html")
   }
-  l_key = l_key2 = l_posts = l_file = ""
 }
 
 function BlogWriter_FlushTagsPages(    l_key, l_key2, l_key3, l_key4, l_file, l_tags, l_tagsText)
@@ -431,8 +424,8 @@ function BlogWriter_FlushTagsPages(    l_key, l_key2, l_key3, l_key4, l_file, l_
     }
     BlogWriter_WriteBottom(l_file, 1)
   }
-  delete l_tags
-  l_key = l_key2 = l_key3 = l_key4 = l_file = l_tagsText = ""
+  # cleanup
+  split("", l_tags)
 }
 
 function BlogWriter_FlushTagsPage(    l_key, l_key2, l_key3, l_file, l_titleText, l_titleMax)
@@ -478,7 +471,6 @@ function BlogWriter_FlushTagsPage(    l_key, l_key2, l_key3, l_file, l_titleText
   }
   BlogWriter_WriteBottom(l_file, 1)
   G_QUICK_SEARCH["tags"] = "tags.html"
-  l_key = l_key2 = l_key3 = l_file = l_titleText = l_titleMax = ""
 }
 
 # Write page with all posts slug, title, tags and summary ordered by date
@@ -514,8 +506,7 @@ function BlogWriter_FlushPostsPage(    l_date, l_slug, l_tags, l_tag, l_file, l_
   BlogWriter_WriteBottom(l_file, 1)
   G_QUICK_SEARCH["posts"] = "posts.html"
   #cleanup
-  delete l_tags
-  l_date = l_slug = l_tag = l_file = l_title = l_tagsText = ""
+  split("", l_tags)
 }
 
 function BlogWriter_FlushIndexPage(    l_favtags, l_key, l_month, l_file, l_build_link)
@@ -542,8 +533,8 @@ function BlogWriter_FlushIndexPage(    l_favtags, l_key, l_month, l_file, l_buil
   print "</table>" > l_file
   l_build_link = "<a href=\"" G_SETTINGS["public_repo_github_address"] "/commit/" G_SETTINGS["build"] "\">" G_SETTINGS["build"] "</a>"
   BlogWriter_WriteBottom(l_file, 0, "", "", G_SETTINGS["date"] "-" l_build_link)
-  delete l_favtags
-  l_key = l_month = l_file = l_build_link = ""
+  # cleanup
+  split("", l_favtags)
 }
 
 function BlogWriter_FlushNotFoundPage(    l_file)
@@ -557,7 +548,6 @@ function BlogWriter_FlushNotFoundPage(    l_file)
   print "    </div>" > l_file
   print "</div>" > l_file
   BlogWriter_WriteBottom(l_file, 0)
-  l_file = ""
 }
 
 # Flush posts and metadata to html files
@@ -572,10 +562,10 @@ END {
   BlogWriter_FlushNotFoundPage()
 
   # cleanup
-  delete G_FILES
-  delete G_NEXT_MONTH
-  delete G_POSTS_BY_MONTH
-  delete G_POST_LINKS_BY_MONTH
-  delete G_PREV_MONTH
-  delete G_QUICK_SEARCH
+  split("", G_FILES)
+  split("", G_NEXT_MONTH)
+  split("", G_POSTS_BY_MONTH)
+  split("", G_POST_LINKS_BY_MONTH)
+  split("", G_PREV_MONTH)
+  split("", G_QUICK_SEARCH)
 }

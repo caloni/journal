@@ -201,10 +201,10 @@ function MarkdownParser_CopyNewPost(    l_slug, l_tags, l_key, l_key2)
     }
   }
   G_TITLE_TO_SLUG[G_NEW_POST["title"]] = l_slug
-  l_slug = l_key = l_key2 = ""
-  delete l_tags
-  delete G_CONTENT_STATE
-  delete G_NEW_POST
+  # cleanup
+  split("", l_tags)
+  split("", G_CONTENT_STATE)
+  split("", G_NEW_POST)
 }
 
 # Feed tags inside navigation
@@ -228,7 +228,6 @@ function MarkdownParser_PopulateTagsNavigation(    l_prevInTag, l_key, l_key2, l
       }
     }
   }
-  l_prevInTag = l_key = l_key2 = l_key3 = ""
 }
 
 # read previous metadata content
@@ -259,7 +258,8 @@ $1 == "metadata_tags" { next }
       G_NEW_POST["links"][l_array[1]] = l_array[2]
       G_INDEX_METADATA[l_array[2]]["used"] += 1
     }
-    delete l_array
+    # cleanup
+    split("", l_array)
   }
 }
 
@@ -290,7 +290,8 @@ $1 == "metadata_tags" { next }
       G_INDEX_METADATA[l_array[2]]["used"] += 1
     }
     G_NEW_POST["links"][l_array[1]] = l_array[2]
-    delete l_array
+    # cleanup
+    split("", l_array)
   }
   else
   {
@@ -314,6 +315,7 @@ $1 == "metadata_tags" { next }
       }
     }
   }
+  # cleanup
   l_totalLines = ""
 }
 
