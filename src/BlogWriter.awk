@@ -476,9 +476,9 @@ function BlogWriter_FlushTagsPage(    l_key, l_key2, l_key3, l_file, l_titleText
 # Write page with all posts slug, title, tags and summary ordered by date
 function BlogWriter_FlushPostsPage(    l_date, l_slug, l_tags, l_tag, l_file, l_title, l_tagsText)
 {
-  BlogWriter_TiePreviousMonths()
-
   l_file = G_SETTINGS["output"] "\\posts.html"
+
+  BlogWriter_TiePreviousMonths()
   BlogWriter_WriteHead(l_file, G_SETTINGS["text_page_prefix"] "::posts", "index.html", 1)
   PROCINFO["sorted_in"] = "@ind_str_desc"
   for( l_date in G_DATE_SLUG_TITLE )
