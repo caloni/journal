@@ -12,6 +12,7 @@
 
 # TODO get hardcoded personal info from metadata file
 BEGIN {
+  # Initialize global settings for blog configuration
   G_SETTINGS["author"] = "Caloni"
   G_SETTINGS["author-image"] = "/img/about-author.jpg"
   G_SETTINGS["post-image"] = "/img/about-brand.png"
@@ -33,6 +34,8 @@ BEGIN {
 }
 
 # Write slug indexed post content to month page
+# Handles the transformation of a single post into HTML format
+# including metadata, content, and navigation links
 function BlogWriter_WritePost(a_slug,    l_tags, l_postText, l_file, l_prefix, l_suffix, l_key, l_key2)
 {
   l_file = G_SETTINGS["output"] "\\" G_INDEX[a_slug]["month"] ".html"
@@ -206,6 +209,7 @@ function BlogWriter_WritePost(a_slug,    l_tags, l_postText, l_file, l_prefix, l
 }
 
 # Write all posts to months page ordered by journal numerical position
+# Processes posts in chronological order and writes them to their respective month pages
 function BlogWriter_FlushPosts(    l_position, l_slug)
 {
   PROCINFO["sorted_in"] = "@ind_num_asc"
@@ -222,6 +226,8 @@ function BlogWriter_FlushPosts(    l_position, l_slug)
   }
 }
 
+# Write head section of HTML file with metadata and navigation
+# Generates the HTML header including meta tags, scripts, and navigation bar
 function BlogWriter_WriteHead(a_file, a_title, a_backLink, a_filter, a_quickSearch,    l_originalSort, l_key)
 {
   print "<!DOCTYPE html>" > a_file
@@ -285,6 +291,8 @@ function BlogWriter_WriteHead(a_file, a_title, a_backLink, a_filter, a_quickSear
   }
 }
 
+# Write bottom section of HTML file with navigation and footer
+# Handles the footer section including navigation links and build information
 function BlogWriter_WriteBottom(a_file, a_filter, a_nextLink, a_prevLink, a_build,    l_label, l_link)
 {
   if( a_filter )
@@ -324,6 +332,7 @@ function BlogWriter_WriteBottom(a_file, a_filter, a_nextLink, a_prevLink, a_buil
 }
 
 # Link months with each other chronologically
+# Creates navigation links between months for easy browsing
 function BlogWriter_TiePreviousMonths(    l_key, l_defaultLink)
 {
   PROCINFO["sorted_in"] = "@ind_num_asc"
@@ -342,6 +351,8 @@ function BlogWriter_TiePreviousMonths(    l_key, l_defaultLink)
   }
 }
 
+# Write months page with all available months
+# Generates the months overview page with chronological navigation
 function BlogWriter_FlushMonthsPage(    l_key, l_file, l_year, l_month, l_year2)
 {
   PROCINFO["sorted_in"] = "@ind_num_desc"
@@ -396,6 +407,8 @@ function BlogWriter_FlushPostsPages(    l_key, l_key2, l_posts, l_file)
   }
 }
 
+# Write all tag-specific pages
+# Generates individual pages for each tag with their associated posts
 function BlogWriter_FlushTagsPages(    l_key, l_key2, l_key3, l_key4, l_file, l_tags, l_tagsText)
 {
   PROCINFO["sorted_in"] = "@ind_num_desc"
@@ -430,6 +443,8 @@ function BlogWriter_FlushTagsPages(    l_key, l_key2, l_key3, l_key4, l_file, l_
   split("", l_tags)
 }
 
+# Write main tags overview page
+# Creates the main tags page with navigation and post previews
 function BlogWriter_FlushTagsPage(    l_key, l_key2, l_key3, l_file, l_titleText, l_titleMax)
 {
   l_file = G_SETTINGS["output"] "\\tags.html"
@@ -476,6 +491,7 @@ function BlogWriter_FlushTagsPage(    l_key, l_key2, l_key3, l_file, l_titleText
 }
 
 # Write page with all posts slug, title, tags and summary ordered by date
+# Generates the main posts overview page with filtering capabilities
 function BlogWriter_FlushPostsPage(    l_date, l_slug, l_tags, l_tag, l_file, l_title, l_tagsText)
 {
   l_file = G_SETTINGS["output"] "\\posts.html"
@@ -511,6 +527,8 @@ function BlogWriter_FlushPostsPage(    l_date, l_slug, l_tags, l_tag, l_file, l_
   split("", l_tags)
 }
 
+# Write index page with recent posts and navigation
+# Creates the main index page with quick search and favorite tags
 function BlogWriter_FlushIndexPage(    l_favtags, l_key, l_month, l_file, l_build_link)
 {
   split(G_SETTINGS["text_favorite_tags"], l_favtags)
@@ -539,6 +557,8 @@ function BlogWriter_FlushIndexPage(    l_favtags, l_key, l_month, l_file, l_buil
   split("", l_favtags)
 }
 
+# Write 404 error page
+# Generates the custom 404 page for not found errors
 function BlogWriter_FlushNotFoundPage(    l_file)
 {
   l_file = G_SETTINGS["output"] "\\404.html"
@@ -552,9 +572,13 @@ function BlogWriter_FlushNotFoundPage(    l_file)
   BlogWriter_WriteBottom(l_file, 0)
 }
 
-# Flush posts and metadata to html files
+# Main execution block
+# Processes all posts and generates all necessary pages
 END {
+  # Process and write all posts
   BlogWriter_FlushPosts()
+  
+  # Generate all required pages
   BlogWriter_FlushPostsPage()
   BlogWriter_FlushPostsPages()
   BlogWriter_FlushTagsPage()
@@ -563,7 +587,7 @@ END {
   BlogWriter_FlushIndexPage()
   BlogWriter_FlushNotFoundPage()
 
-  # cleanup
+  # Cleanup global arrays
   split("", G_FILES)
   split("", G_NEXT_MONTH)
   split("", G_POSTS_BY_MONTH)
