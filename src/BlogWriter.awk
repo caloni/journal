@@ -1,6 +1,7 @@
 # Transform parsed text to html blog posts.
 #
-# The following information is available after parsing:
+# The following information is available (and cleaned in the end)
+# after parsing:
 #
 # - G_FILES list of months that have some post
 # - G_NEXT_MONTH next month (or default page) indexed by current month
@@ -34,16 +35,16 @@ BEGIN {
 # Write slug indexed post content to month page
 function BlogWriter_WritePost(a_slug,    l_tags, l_postText, l_file, l_prefix, l_suffix, l_key, l_key2)
 {
-  split(G_INDEX[a_slug]["tags"], l_tags)
-  l_postText = ""
-
   l_file = G_SETTINGS["output"] "\\" G_INDEX[a_slug]["month"] ".html"
+  split(G_INDEX[a_slug]["tags"], l_tags)
+
   # first post in the month
   if( ! (G_INDEX[a_slug]["month"] in G_FILES) )
   {
     BlogWriter_WriteHead(l_file, G_SETTINGS["text_page_prefix"] "::" G_INDEX[a_slug]["month"], "months.html", 0)
     G_FILES[G_INDEX[a_slug]["month"]] = G_INDEX[a_slug]["month"]
   }
+
   # for each post line
   for( l_key in G_INDEX[a_slug]["lines"] )
   {
@@ -199,6 +200,7 @@ function BlogWriter_WritePost(a_slug,    l_tags, l_postText, l_file, l_prefix, l
   G_POST_LINKS_BY_MONTH[G_INDEX[a_slug]["month"]][G_INDEX[a_slug]["date"]] = G_POST_LINKS_BY_MONTH[G_INDEX[a_slug]["month"]][G_INDEX[a_slug]["date"]] "\n" G_INDEX[a_slug]["extlink"]
   # add post permalink to quick search listing
   G_QUICK_SEARCH[a_slug] = G_INDEX[a_slug]["month"] ".html#" a_slug
+
   # cleanup
   split("", l_tags)
 }
