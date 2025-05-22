@@ -202,6 +202,7 @@ function BookWriter_FlushPost(slug,    fchapter, tags, post, prefix, suffix)
 
 function BookWriter_FlushPosts(    position, slug)
 {
+  BookWriter_PopulateChapters()
   PROCINFO["sorted_in"] = "@ind_num_asc"
   for( position in G_POST_SLUG_BY_POSITION ) {
     slug = G_POST_SLUG_BY_POSITION[position]
@@ -460,7 +461,6 @@ END {
   BookWriter_FlushPosts()
 
   # Generate all required files
-  BookWriter_PopulateChapters()
   BookWriter_FlushPostsPages()
   BookWriter_FlushPackage()
   BookWriter_FlushTocNcx()
