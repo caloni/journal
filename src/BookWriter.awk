@@ -473,7 +473,7 @@ function BookWriter_FlushNcx()
   print "</html>" > ncxhtml
 }
 
-function BookWriter_FlushIndexPage()
+function BookWriter_FlushIndexPage(    l_key)
 {
   indexx = "public\\book\\EPUB\\index.xhtml"
   print "<!DOCTYPE html>" > indexx
@@ -489,31 +489,37 @@ function BookWriter_FlushIndexPage()
   print "<section epub:type=\"index-group\" id=\"letters\">" > indexx
   PROCINFO["sorted_in"] = "@ind_str_asc"
   currid = 2
-  for( i in G_INDEX ) {
-    if( !("date" in G_INDEX[i]) ) {
+  for( l_key in G_INDEX )
+  {
+    if( !("date" in G_INDEX[l_key]) )
+    {
       continue
     }
-    l = BookWriter_CharacterToLetter(G_INDEX[i]["letter"])
-    t = G_INDEX[i]["title"]
-    if( G_LETTERS[l] == "" ) {
+    l = BookWriter_CharacterToLetter(G_INDEX[l_key]["letter"])
+    t = G_INDEX[l_key]["title"]
+    if( G_LETTERS[l] == "" )
+    {
       G_LETTERS[l] = "<h3 id=\"" BookWriter_SlugToId(l) "\" class=\"groupletter\">" Util_TextToHtml(l) "</h3>\n"\
         "<ul class=\"indexlevel1\">"
     }
     G_LETTERS[l] = G_LETTERS[l] "<li epub:type=\"index-entry\" class=\"indexhead1\" id=\"mh" currid++ "\">"\
-      "<a href=\"" BookWriter_SlugToId(G_INDEX[i]["chapter"]) ".xhtml#" BookWriter_SlugToId(i) "\">" Util_TextToHtml(t) "</a></li>\n"
+      "<a href=\"" BookWriter_SlugToId(G_INDEX[l_key]["chapter"]) ".xhtml#" BookWriter_SlugToId(l_key) "\">" Util_TextToHtml(t) "</a></li>\n"
   }
-  for( l in G_LETTERS ) {
+  for( l in G_LETTERS )
+  {
     print "<a href=\"#" BookWriter_SlugToId(l) "\">" l "</a>" > indexx
   }
   print "<h3 id=\"toc_tags\" class=\"groupletter\">Tags</h3>\n"\
     "<ul class=\"indexlevel1\">" > indexx
-  for( i in G_TITLES_BY_TAGS ) {
-    tocxhtml = "public\\book\\EPUB\\toc_" i ".xhtml"
+  for( l_key in G_TITLES_BY_TAGS )
+  {
+    tocxhtml = "public\\book\\EPUB\\toc_" l_key ".xhtml"
     print "<li epub:type=\"index-entry\" class=\"indexhead1\" id=\"mh" currid++ "\">"\
-      "<a href=\"toc" BookWriter_SlugToId(i) ".xhtml\">" Util_TextToHtml(i) "</a></li>\n" > indexx
+      "<a href=\"toc" BookWriter_SlugToId(l_key) ".xhtml\">" Util_TextToHtml(l_key) "</a></li>\n" > indexx
   }
   print "</ul>" > indexx
-  for( l in G_LETTERS ) {
+  for( l in G_LETTERS )
+  {
     print G_LETTERS[l] > indexx
     print "</ul>" > indexx
   }
