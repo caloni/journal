@@ -87,130 +87,176 @@ function BookWriter_CharacterToLetter(a_char)
   return a_char
 }
 
-function BookWriter_FlushPost(slug,    fchapter, tags, post, prefix, suffix)
+function BookWriter_WritePost(a_slug,    l_fchapter, l_file, l_tags, l_postText, l_prefix, l_suffix, l_key)
 {
-  post = ""
-  fchapter = BookWriter_SlugToId(G_INDEX[slug]["chapter"])
-  G_CHAPTERS[G_INDEX[slug]["chapter"]] = G_INDEX[slug]["chapter"]
+  l_fchapter = BookWriter_SlugToId(G_INDEX[a_slug]["chapter"])
+  G_CHAPTERS[G_INDEX[a_slug]["chapter"]] = G_INDEX[a_slug]["chapter"]
 
-  split(G_INDEX[slug]["tags"], tags)
-  for( i in tags ) {
-    G_TITLES_BY_TAGS[tags[i]][G_INDEX[slug]["title"]] = G_INDEX[slug]["title"]
+  split(G_INDEX[a_slug]["tags"], l_tags)
+  for( l_key in l_tags )
+  {
+    G_TITLES_BY_TAGS[l_tags[l_key]][G_INDEX[a_slug]["title"]] = G_INDEX[a_slug]["title"]
   }
 
-  if( ! (fchapter in Files) ) {
-    post = post "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n"
-    post = post "<html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:epub=\"http://www.idpf.org/2007/ops\">\n"
-    post = post "<head><meta http-equiv=\"default-style\" content=\"text/html; charset=utf-8\"/>\n"
-    post = post "<title>" Util_TextToHtml(G_INDEX[slug]["chapter"]) "</title>\n"
-    post = post "<link rel=\"stylesheet\" href=\"css/stylesheet.css\" type=\"text/css\" />\n"
-    post = post "<link rel=\"stylesheet\" href=\"css/page-template.xpgt\" type=\"application/adobe-page-template+xml\" />\n"
-    post = post "</head>\n"
-    post = post "<body>\n"
-    post = post "<div class=\"body\">\n"
-    post = post "<span epub:type=\"pagebreak\" id=\"" BookWriter_SlugToId(G_INDEX[slug]["chapter"]) "\" title=\"" Util_TextToHtml(G_INDEX[slug]["chapter"]) "\"/>\n"
-    post = post "<h1 class=\"chapter-title\"><strong>" Util_TextToHtml(G_INDEX[slug]["chapter"]) "</strong></h1>\n"
-    Files[fchapter] = fchapter
+  # first post in chapter
+  if( ! (l_fchapter in Files) )
+  {
+    l_postText = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n"
+    l_postText = l_postText "<html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:epub=\"http://www.idpf.org/2007/ops\">\n"
+    l_postText = l_postText "<head><meta http-equiv=\"default-style\" content=\"text/html; charset=utf-8\"/>\n"
+    l_postText = l_postText "<title>" Util_TextToHtml(G_INDEX[a_slug]["chapter"]) "</title>\n"
+    l_postText = l_postText "<link rel=\"stylesheet\" href=\"css/stylesheet.css\" type=\"text/css\" />\n"
+    l_postText = l_postText "<link rel=\"stylesheet\" href=\"css/page-template.xpgt\" type=\"application/adobe-page-template+xml\" />\n"
+    l_postText = l_postText "</head>\n"
+    l_postText = l_postText "<body>\n"
+    l_postText = l_postText "<div class=\"body\">\n"
+    l_postText = l_postText "<span epub:type=\"pagebreak\" id=\"" BookWriter_SlugToId(G_INDEX[a_slug]["chapter"]) "\" title=\"" Util_TextToHtml(G_INDEX[a_slug]["chapter"]) "\"/>\n"
+    l_postText = l_postText "<h1 class=\"chapter-title\"><strong>" Util_TextToHtml(G_INDEX[a_slug]["chapter"]) "</strong></h1>\n"
+    Files[l_fchapter] = l_fchapter
   }
 
-  if( length(G_INDEX[slug]["lines"]) ) {
-    for( i in G_INDEX[slug]["lines"] ) {
-      prefix = ""
-      suffix = ""
-      if( G_INDEX[slug]["lines"][i]["content"] != "" ) {
-        if( G_INDEX[slug]["lines"][i]["type"] != "pre" && G_INDEX[slug]["lines"][i]["type"] != "blockquote" ) {
-          if ( substr(G_INDEX[slug]["lines"][i]["type"], 1, 1) == "h" && length(G_INDEX[slug]["lines"][i]["type"]) == 2 ) {
-            gsub(/&/, "&amp;", G_INDEX[slug]["lines"][i]["content"])
-          }
-          if( "links" in G_INDEX[slug] ) {
-            for( j in G_INDEX[slug]["links"] ) {
-              if( G_INDEX[slug]["links"][j] in G_INDEX_METADATA ) {
-                G_INDEX[slug]["links"][j] = "<a href=\"" BookWriter_SlugToEpubId(G_INDEX_METADATA[G_INDEX[slug]["links"][j]]["chapter"]) ".xhtml#" BookWriter_SlugToEpubId(G_INDEX[slug]["links"][j]) "\">" j "</a>"
-              }
-              search = "\\[" j "\\]"
-              gsub(search, BookWriter_RemoveLinksFromText(G_INDEX[slug]["links"][j]), G_INDEX[slug]["lines"][i]["content"])
-            }
-          }
+  # for each post line
+  for( l_key in G_INDEX[a_slug]["lines"] )
+  {
+    l_prefix = ""
+    l_suffix = ""
+
+    # line is non empty
+    if( G_INDEX[a_slug]["lines"][l_key]["content"] != "" )
+    {
+      # is not preformatted nor quote block
+      if( G_INDEX[a_slug]["lines"][l_key]["type"] != "pre" && G_INDEX[a_slug]["lines"][l_key]["type"] != "blockquote" )
+      {
+        # it is a header (h1, h2, ...)
+        if ( substr(G_INDEX[a_slug]["lines"][l_key]["type"], 1, 1) == "h" && length(G_INDEX[a_slug]["lines"][l_key]["type"]) == 2 )
+        {
+          # replace ampersand only for headers for some reason
+          gsub(/&/, "&amp;", G_INDEX[a_slug]["lines"][l_key]["content"])
         }
-
-        if( G_INDEX[slug]["lines"][i]["type"] == "pre" ) {
-          G_INDEX[slug]["lines"][i]["content"] = Util_TextToHtml(G_INDEX[slug]["lines"][i]["content"]) "\n"
-          if( G_INDEX[slug]["lines"][i-1]["type"] != G_INDEX[slug]["lines"][i]["type"] ) {
-            G_INDEX[slug]["lines"][i]["content"] = "<" G_INDEX[slug]["lines"][i]["type"] ">\n" G_INDEX[slug]["lines"][i]["content"]
+        # TODO links translation, need more clarification
+        for( j in G_INDEX[a_slug]["links"] )
+        {
+          if( G_INDEX[a_slug]["links"][j] in G_INDEX_METADATA )
+          {
+            G_INDEX[a_slug]["links"][j] = "<a href=\"" BookWriter_SlugToEpubId(G_INDEX_METADATA[G_INDEX[a_slug]["links"][j]]["chapter"]) ".xhtml#" BookWriter_SlugToEpubId(G_INDEX[a_slug]["links"][j]) "\">" j "</a>"
           }
-          if( G_INDEX[slug]["lines"][i+1]["type"] != G_INDEX[slug]["lines"][i]["type"] ) {
-            G_INDEX[slug]["lines"][i]["content"] = G_INDEX[slug]["lines"][i]["content"] "</" G_INDEX[slug]["lines"][i]["type"] ">\n"
-          }
-        } else {
-          if( G_INDEX[slug]["lines"][i]["type"] == "blockquote" ) {
-            prefix = "<p>" Util_TextToHtml("> ")
-            suffix = "</p>\n"
-            G_INDEX[slug]["lines"][i]["content"] = Util_TextToHtml(G_INDEX[slug]["lines"][i]["content"])
-          }
-          else if( G_INDEX[slug]["lines"][i]["type"] == "list" ) {
-            prefix = prefix "<li>"
-            suffix = suffix "</li>"
-            if( G_INDEX[slug]["lines"][i-1]["type"] != "list" ) {
-              prefix = "<ul>" prefix
-            }
-            if( G_INDEX[slug]["lines"][i+1]["type"] != "list" ) {
-              suffix = suffix "</ul>"
-            }
-            suffix = suffix "\n"
-            G_INDEX[slug]["lines"][i]["content"] = Util_TextToHtml(G_INDEX[slug]["lines"][i]["content"])
-          } else if ( substr(G_INDEX[slug]["lines"][i]["type"], 1, 1) == "h" && length(G_INDEX[slug]["lines"][i]["type"]) == 2 ) {
-            prefix = prefix "<h" substr(G_INDEX[slug]["lines"][i]["type"], 2, 1) ">"
-            suffix = suffix "</h" substr(G_INDEX[slug]["lines"][i]["type"], 2, 1) ">\n"
-          } else if ( G_INDEX[slug]["lines"][i]["type"] == "p") {
-            prefix = prefix "<p>"
-            suffix = suffix "</p>\n"
-          } else if ( G_INDEX[slug]["lines"][i]["type"] == "img") {
-            prefix = prefix "<img src=\"img/"
-            suffix = suffix "\"/>\n"
-          }
-          G_INDEX[slug]["lines"][i]["content"] = prefix G_INDEX[slug]["lines"][i]["content"] suffix
+          search = "\\[" j "\\]"
+          gsub(search, BookWriter_RemoveLinksFromText(G_INDEX[a_slug]["links"][j]), G_INDEX[a_slug]["lines"][l_key]["content"])
         }
       }
+
+      # preformatted content
+      if( G_INDEX[a_slug]["lines"][l_key]["type"] == "pre" )
+      {
+        G_INDEX[a_slug]["lines"][l_key]["content"] = Util_TextToHtml(G_INDEX[a_slug]["lines"][l_key]["content"]) "\n"
+        if( G_INDEX[a_slug]["lines"][l_key-1]["type"] != G_INDEX[a_slug]["lines"][l_key]["type"] )
+        {
+          G_INDEX[a_slug]["lines"][l_key]["content"] = "<" G_INDEX[a_slug]["lines"][l_key]["type"] ">\n" G_INDEX[a_slug]["lines"][l_key]["content"]
+        }
+        if( G_INDEX[a_slug]["lines"][l_key+1]["type"] != G_INDEX[a_slug]["lines"][l_key]["type"] )
+        {
+          G_INDEX[a_slug]["lines"][l_key]["content"] = G_INDEX[a_slug]["lines"][l_key]["content"] "</" G_INDEX[a_slug]["lines"][l_key]["type"] ">\n"
+        }
+      }
+      # quote block
+      else if( G_INDEX[a_slug]["lines"][l_key]["type"] == "blockquote" )
+      {
+        l_prefix = "<p>" Util_TextToHtml("> ")
+        l_suffix = "</p>\n"
+        G_INDEX[a_slug]["lines"][l_key]["content"] = Util_TextToHtml(G_INDEX[a_slug]["lines"][l_key]["content"])
+      }
+      # list
+      else if( G_INDEX[a_slug]["lines"][l_key]["type"] == "list" )
+      {
+        l_prefix = l_prefix "<li>"
+        l_suffix = l_suffix "</li>"
+        if( G_INDEX[a_slug]["lines"][l_key-1]["type"] != "list" )
+        {
+          l_prefix = "<ul>" l_prefix
+        }
+        if( G_INDEX[a_slug]["lines"][l_key+1]["type"] != "list" )
+        {
+          l_suffix = l_suffix "</ul>"
+        }
+        l_suffix = l_suffix "\n"
+        G_INDEX[a_slug]["lines"][l_key]["content"] = Util_TextToHtml(G_INDEX[a_slug]["lines"][l_key]["content"])
+      }
+      # headers h1, h2, ...
+      else if ( substr(G_INDEX[a_slug]["lines"][l_key]["type"], 1, 1) == "h" && length(G_INDEX[a_slug]["lines"][l_key]["type"]) == 2 )
+      {
+        l_prefix = l_prefix "<h" substr(G_INDEX[a_slug]["lines"][l_key]["type"], 2, 1) ">"
+        l_suffix = l_suffix "</h" substr(G_INDEX[a_slug]["lines"][l_key]["type"], 2, 1) ">\n"
+      }
+      # paragraph
+      else if ( G_INDEX[a_slug]["lines"][l_key]["type"] == "p")
+      {
+        l_prefix = l_prefix "<p>"
+        l_suffix = l_suffix "</p>\n"
+      }
+      # image
+      else if ( G_INDEX[a_slug]["lines"][l_key]["type"] == "img")
+      {
+        l_prefix = l_prefix "<img src=\"img/"
+        l_suffix = l_suffix "\"/>\n"
+      }
+
+      G_INDEX[a_slug]["lines"][l_key]["content"] = l_prefix G_INDEX[a_slug]["lines"][l_key]["content"] l_suffix
     }
   }
 
-  post = post "<span epub:type=\"pagebreak\" id=\"" BookWriter_SlugToId(slug) "\" title=\"" Util_TextToHtml(G_INDEX[slug]["title"]) "\"/>\n"
-  post = post "<section title=\"" Util_TextToHtml(G_INDEX[slug]["title"]) "\" epub:type=\"bodymatter chapter\">\n"
-  post = post "<h1 class=\"chapter-subtitle\"><strong>" Util_TextToHtml(G_INDEX[slug]["title"]) "</strong></h1>\n"
-  post = post "<p class=\"note-title\">" G_INDEX[slug]["date"]
-  for( i in tags ) {
-    post = post " "
-    if( "tag_nav" in G_INDEX[slug] && tags[i] in G_INDEX[slug]["tag_nav"] && "prev_in_tag" in G_INDEX[slug]["tag_nav"][tags[i]] ) {
-      post = post "<a href=\"" BookWriter_SlugToId(G_INDEX[G_INDEX[slug]["tag_nav"][tags[i]]["prev_in_tag"]]["chapter"]) ".xhtml#" BookWriter_SlugToId(G_INDEX[slug]["tag_nav"][tags[i]]["prev_in_tag"]) "\">&lt;</a>"
+  # let's begin to mount post content
+  # first the span with anchor
+  l_postText = l_postText "<span epub:type=\"pagebreak\" id=\"" BookWriter_SlugToId(a_slug) "\" title=\"" Util_TextToHtml(G_INDEX[a_slug]["title"]) "\"/>\n"
+  # next begin section
+  l_postText = l_postText "<section title=\"" Util_TextToHtml(G_INDEX[a_slug]["title"]) "\" epub:type=\"bodymatter chapter\">\n"
+  l_postText = l_postText "<h1 class=\"chapter-subtitle\"><strong>" Util_TextToHtml(G_INDEX[a_slug]["title"]) "</strong></h1>\n"
+  l_postText = l_postText "<p class=\"note-title\">" G_INDEX[a_slug]["date"]
+  # tags
+  for( l_key in l_tags )
+  {
+    l_postText = l_postText " "
+    if( "tag_nav" in G_INDEX[a_slug] && l_tags[l_key] in G_INDEX[a_slug]["tag_nav"] && "prev_in_tag" in G_INDEX[a_slug]["tag_nav"][l_tags[l_key]] )
+    {
+      l_postText = l_postText "<a href=\"" BookWriter_SlugToId(G_INDEX[G_INDEX[a_slug]["tag_nav"][l_tags[l_key]]["prev_in_tag"]]["chapter"]) ".xhtml#" BookWriter_SlugToId(G_INDEX[a_slug]["tag_nav"][l_tags[l_key]]["prev_in_tag"]) "\">&lt;</a>"
     }
-    post = post "<a href=\"toc" BookWriter_SlugToId(tags[i]) ".xhtml\">" tags[i] "</a>"
-    if( "tag_nav" in G_INDEX[slug] && tags[i] in G_INDEX[slug]["tag_nav"] && "next_in_tag" in G_INDEX[slug]["tag_nav"][tags[i]] ) {
-      post = post "<a href=\"" BookWriter_SlugToId(G_INDEX[G_INDEX[slug]["tag_nav"][tags[i]]["next_in_tag"]]["chapter"]) ".xhtml#" BookWriter_SlugToId(G_INDEX[slug]["tag_nav"][tags[i]]["next_in_tag"]) "\">&gt;</a>"
+    l_postText = l_postText "<a href=\"toc" BookWriter_SlugToId(l_tags[l_key]) ".xhtml\">" l_tags[l_key] "</a>"
+    if( "tag_nav" in G_INDEX[a_slug] && l_tags[l_key] in G_INDEX[a_slug]["tag_nav"] && "next_in_tag" in G_INDEX[a_slug]["tag_nav"][l_tags[l_key]] )
+    {
+      l_postText = l_postText "<a href=\"" BookWriter_SlugToId(G_INDEX[G_INDEX[a_slug]["tag_nav"][l_tags[l_key]]["next_in_tag"]]["chapter"]) ".xhtml#" BookWriter_SlugToId(G_INDEX[a_slug]["tag_nav"][l_tags[l_key]]["next_in_tag"]) "\">&gt;</a>"
     }
   }
-  post = post "</p>\n\n"
-  if( length(G_INDEX[slug]["lines"]) ) {
-    for( i in G_INDEX[slug]["lines"] ) {
-      post = post G_INDEX[slug]["lines"][i]["content"]
-    }
+  l_postText = l_postText "</p>\n\n"
+  # finally post lines
+  for( l_key in G_INDEX[a_slug]["lines"] )
+  {
+    l_postText = l_postText G_INDEX[a_slug]["lines"][l_key]["content"]
   }
-  post = post "</section>"
+  l_postText = l_postText "</section>"
 
-  file = "public\\book\\EPUB\\" fchapter ".xhtml"
-  print post > file
+  # flush to file
+  l_file = "public\\book\\EPUB\\" l_fchapter ".xhtml"
+  print l_postText > l_file
+
+  # cleanup
+  split("", l_tags)
 }
 
-function BookWriter_FlushPosts(    position, slug)
+# Write all posts to months page ordered by journal numerical position
+# Processes posts in chronological order and writes them to their respective month pages
+function BookWriter_FlushPosts(    l_position, l_slug)
 {
   BookWriter_PopulateChapters()
   PROCINFO["sorted_in"] = "@ind_num_asc"
-  for( position in G_POST_SLUG_BY_POSITION ) {
-    slug = G_POST_SLUG_BY_POSITION[position]
-    if( !("date" in G_INDEX[slug]) ) {
-      print "skipping", slug
+  for( l_position in G_POST_SLUG_BY_POSITION )
+  {
+    l_slug = G_POST_SLUG_BY_POSITION[l_position]
+    # posts without a date are treated as invisible drafts
+    if( !("date" in G_INDEX[l_slug]) )
+    {
+      print "skipping", l_slug
       continue
     }
-    BookWriter_FlushPost(slug)
+    BookWriter_WritePost(l_slug)
   }
 }
 
