@@ -463,7 +463,7 @@ function BookWriter_FlushNcx()
   print "<h2>Contents</h2>" > ncxhtml
   print "<ol epub:type=\"list\">" > ncxhtml
   #for( c in G_CHAPTERS )
-  {
+  #{
   #  print "<li><a href=\"" BookWriter_SlugToId(c) ".xhtml\">" Util_TextToHtml(c) "</a></li>" > ncxhtml
   #}
   print "<li><a href=\"index.xhtml\">Index</a></li>" > ncxhtml
