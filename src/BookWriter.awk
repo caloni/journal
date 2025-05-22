@@ -1,6 +1,8 @@
 # Transform parsed text to epub.
 
 BEGIN {
+  # Initialize global settings for blog configuration
+  # TODO get hardcoded personal info from metadata file
   G_SETTINGS["title"] = "Blogue do Caloni: Programação, Depuração, Transpiração"
   G_SETTINGS["author"] = "Wanderley Caloni"
   G_SETTINGS["publisher"] = "Caloni"
@@ -451,9 +453,14 @@ function BookWriter_FlushIndexPage()
   print "</html>" > indexx
 }
 
+# Main execution block
+# Processes all posts and generates all necessary files
 END {
-  BookWriter_PopulateChapters()
+  # Process and write all posts
   BookWriter_FlushPosts()
+
+  # Generate all required files
+  BookWriter_PopulateChapters()
   BookWriter_FlushPostsPages()
   BookWriter_FlushPackage()
   BookWriter_FlushTocNcx()
@@ -461,5 +468,7 @@ END {
   BookWriter_FlushTagsPage()
   BookWriter_FlushNcx()
   BookWriter_FlushIndexPage()
+
+  # Cleanup global arrays
 }
 
