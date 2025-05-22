@@ -262,8 +262,10 @@ function BookWriter_FlushPosts(    l_position, l_slug)
 
 function BookWriter_PopulateChapters(    slug)
 {
-  for( slug in G_INDEX ) {
-    if( !("month" in G_INDEX[slug]) ) {
+  for( slug in G_INDEX )
+  {
+    if( !("month" in G_INDEX[slug]) )
+    {
       continue
     }
     G_INDEX[slug]["chapter"] = G_INDEX[slug]["month"]
@@ -272,7 +274,8 @@ function BookWriter_PopulateChapters(    slug)
 
 function BookWriter_FlushPostsPages()
 {
-  for( f in Files ) {
+  for( f in Files )
+  {
     file = "public\\book\\EPUB\\" f ".xhtml"
     print "</div>" > file
     print "</body>" > file
@@ -280,7 +283,7 @@ function BookWriter_FlushPostsPages()
   }
 }
 
-function BookWriter_FlushPackage()
+function BookWriter_FlushPackage(    l_key)
 {
   package = "public\\book\\EPUB\\package.opf"
   print "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" > package
@@ -304,23 +307,33 @@ function BookWriter_FlushPackage()
   print "<item id=\"page-template\" href=\"css/page-template.xpgt\" media-type=\"application/adobe-page-template+xml\"/>" > package
   print "<item id=\"titlepage\" href=\"titlepage.xhtml\" media-type=\"application/xhtml+xml\"/>" > package
   print "<item id=\"toc\" href=\"toc.xhtml\" media-type=\"application/xhtml+xml\"/>" > package
-  for( i in G_TITLES_BY_TAGS ) {
-    print "<item id=\"toc_" i "\" href=\"toc_" i ".xhtml\" media-type=\"application/xhtml+xml\"/>" > package
+  for( l_key in G_TITLES_BY_TAGS )
+  {
+    print "<item id=\"toc_" l_key "\" href=\"toc_" l_key ".xhtml\" media-type=\"application/xhtml+xml\"/>" > package
   }
   print "<item id=\"index\" href=\"index.xhtml\" media-type=\"application/xhtml+xml\"/>" > package
   PROCINFO["sorted_in"] = "@ind_num_asc"
-  for( c in G_CHAPTERS ) {
+  for( c in G_CHAPTERS )
+  {
     print "<item id=\"" BookWriter_SlugToId(c) "\" href=\"" BookWriter_SlugToId(c) ".xhtml\" media-type=\"application/xhtml+xml\"/>" > package
   }
   totalImages = 0
-  for( image in G_POSTS_IMAGES ) {
-    if( index(image, "jpg") || index(image, "jpeg") ) {
+  for( image in G_POSTS_IMAGES )
+  {
+    if( index(image, "jpg") || index(image, "jpeg") )
+    {
       print "<item id=\"img-id-" ++totalImages "\" href=\"img/" image "\" media-type=\"image/jpeg\"/>" > package
-    } else if( index(image, "gif") ) {
+    }
+    else if( index(image, "gif") )
+    {
       print "<item id=\"img-id-" ++totalImages "\" href=\"img/" image "\" media-type=\"image/gif\"/>" > package
-    } else if( index(image, "png") ) {
+    }
+    else if( index(image, "png") )
+    {
       print "<item id=\"img-id-" ++totalImages "\" href=\"img/" image "\" media-type=\"image/png\"/>" > package
-    } else if( index(image, "svg") ) {
+    }
+    else if( index(image, "svg") )
+    {
       print "<item id=\"img-id-" ++totalImages "\" href=\"img/" image "\" media-type=\"image/svg\"/>" > package
     }
   }
@@ -329,10 +342,12 @@ function BookWriter_FlushPackage()
   print "<itemref idref=\"cover\" linear=\"yes\"/>" > package
   print "<itemref idref=\"titlepage\" linear=\"yes\"/>" > package
   print "<itemref idref=\"toc\" linear=\"yes\"/>" > package
-  for( i in G_TITLES_BY_TAGS ) {
-    print "<itemref linear=\"yes\" idref=\"toc" BookWriter_SlugToId(i) "\"/>" > package
+  for( l_key in G_TITLES_BY_TAGS )
+  {
+    print "<itemref linear=\"yes\" idref=\"toc" BookWriter_SlugToId(l_key) "\"/>" > package
   }
-  for( c in G_CHAPTERS ) {
+  for( c in G_CHAPTERS )
+  {
     print "<itemref linear=\"yes\" idref=\"" BookWriter_SlugToId(c) "\"/>" > package
   }
   print "<itemref linear=\"yes\" idref=\"index\"/>" > package
@@ -358,7 +373,8 @@ function BookWriter_FlushTocNcx()
   print "<navPoint id=\"cover\" playOrder=\"1\"><navLabel><text>Cover</text></navLabel><content src=\"cover.xhtml\"/></navPoint>" > tocncx
   print "<navPoint id=\"toc\" playOrder=\"2\"><navLabel><text>Contents</text></navLabel><content src=\"toc.xhtml\"/></navPoint>" > tocncx
   playOrder = 2
-  #for( c in G_CHAPTERS ) {
+  #for( c in G_CHAPTERS )
+  #{
   #  print "<navPoint playOrder=\"" ++playOrder "\" id=\"" BookWriter_SlugToId(c) "\"><navLabel><text>" Util_TextToHtml(c) "</text></navLabel>\
   #    <content src=\"" BookWriter_SlugToId(c) ".xhtml\"/></navPoint>" > tocncx
   #}
@@ -382,11 +398,14 @@ function BookWriter_FlushTocPage()
   print "<h1 class=\"toc-title\">Contents</h1>" > tocxhtml
   print "<p id=\"indx-1\" class=\"toca\"><a href=\"index.xhtml\"><strong>Index</strong></a></p>" > tocxhtml
   lastyear = "2000"
-  for( c in G_CHAPTERS ) {
+  for( c in G_CHAPTERS )
+  {
     year = substr(c, 1, 4)
     mon = substr(c, 6, 2)
-    if( year != lastyear ) {
-      if( lastyear != "2000" ) {
+    if( year != lastyear )
+    {
+      if( lastyear != "2000" )
+      {
         print "</p>" > tocxhtml
       }
       print "<p id=\"" BookWriter_SlugToId(c) "\" class=\"toc\"><strong>" year "</strong>" > tocxhtml
