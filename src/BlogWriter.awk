@@ -10,9 +10,9 @@
 # - G_PREV_MONTH previous month (or default page) indexed by current month
 # - G_QUICK_SEARCH pages list to be used in quick search
 
-# TODO get hardcoded personal info from metadata file
 BEGIN {
   # Initialize global settings for blog configuration
+  # TODO get hardcoded personal info from metadata file
   G_SETTINGS["author"] = "Caloni"
   G_SETTINGS["author-image"] = "/img/about-author.jpg"
   G_SETTINGS["post-image"] = "/img/about-brand.png"
