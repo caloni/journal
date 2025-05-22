@@ -421,22 +421,24 @@ function BookWriter_FlushTocPage()
   print "</html>" > tocxhtml
 }
 
-function BookWriter_FlushTagsPage()
+function BookWriter_FlushTagsPage(    l_key)
 {
-  for( i in G_TITLES_BY_TAGS ) {
-    tocxhtml = "public\\book\\EPUB\\toc_" i ".xhtml"
+  for( l_key in G_TITLES_BY_TAGS )
+  {
+    tocxhtml = "public\\book\\EPUB\\toc_" l_key ".xhtml"
     print "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" > tocxhtml
     print "<html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:epub=\"http://www.idpf.org/2007/ops\">" > tocxhtml
     print "<head><meta http-equiv=\"default-style\" content=\"text/html; charset=utf-8\"/>" > tocxhtml
-    print "<title>" i "</title>" > tocxhtml
+    print "<title>" l_key "</title>" > tocxhtml
     print "<link rel=\"stylesheet\" href=\"css/stylesheet.css\" type=\"text/css\" />" > tocxhtml
     print "<link rel=\"stylesheet\" href=\"css/page-template.xpgt\" type=\"application/adobe-page-template+xml\" />" > tocxhtml
     print "</head>" > tocxhtml
     print "<body>" > tocxhtml
     print "<div class=\"body\">" > tocxhtml
-    print "<h1 class=\"toc-title\">" i "</h1>" > tocxhtml
+    print "<h1 class=\"toc-title\">" l_key "</h1>" > tocxhtml
     print "<ul>" > tocxhtml
-    for( tit in G_TITLES_BY_TAGS[i] ) {
+    for( tit in G_TITLES_BY_TAGS[l_key] )
+    {
       print "<li><a href=\"" BookWriter_SlugToId(G_INDEX[G_TITLE_TO_SLUG[tit]]["chapter"]) ".xhtml#" BookWriter_SlugToId(G_TITLE_TO_SLUG[tit]) "\">" Util_TextToHtml(tit) "</a></li>" > tocxhtml
     }
     print "</ul>" > tocxhtml
@@ -460,7 +462,8 @@ function BookWriter_FlushNcx()
   print "<nav epub:type=\"toc\">" > ncxhtml
   print "<h2>Contents</h2>" > ncxhtml
   print "<ol epub:type=\"list\">" > ncxhtml
-  #for( c in G_CHAPTERS ) {
+  #for( c in G_CHAPTERS )
+  {
   #  print "<li><a href=\"" BookWriter_SlugToId(c) ".xhtml\">" Util_TextToHtml(c) "</a></li>" > ncxhtml
   #}
   print "<li><a href=\"index.xhtml\">Index</a></li>" > ncxhtml
