@@ -11,6 +11,8 @@ BEGIN {
   G_SETTINGS["author"] = "Wanderley Caloni"
   G_SETTINGS["publisher"] = "Caloni"
   G_SETTINGS["playOrder"] = 2
+  G_SETTINGS["lastYear"] = G_SETTINGS["firstYear"] ="2000"
+  G_SETTINGS["currentId"] = 2
 }
 
 function BookWriter_SlugToId(a_slug,    l_id)
@@ -62,7 +64,7 @@ function BookWriter_CharacterIsNumeric(a_object,    l_characters, l_ret)
     return l_ret
 }
 
-function BookWriter_CharacterToLetter(a_char)
+function BookWriter_CharacterToLetter(a_char,    l_convertChart)
 {
   if( !("Á" in G_CONVERT_LETTERS) )
   {
@@ -89,10 +91,10 @@ function BookWriter_CharacterToLetter(a_char)
     return "#"
   }
   a_char = toupper(a_char)
-  c = G_CONVERT_LETTERS[a_char]
-  if( c != "" )
+  l_convertChart = G_CONVERT_LETTERS[a_char]
+  if( l_convertChart != "" )
   {
-    return c
+    return l_convertChart
   }
   return a_char
 }
@@ -392,113 +394,110 @@ function BookWriter_FlushTocNcx(    l_file, l_key)
   print "</ncx>" > l_file
 }
 
-function BookWriter_FlushTocPage()
+function BookWriter_FlushTocPage(    l_file, l_year, l_month, l_key)
 {
-  tocxhtml = "public\\book\\EPUB\\toc.xhtml"
-  print "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" > tocxhtml
-  print "<html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:epub=\"http://www.idpf.org/2007/ops\">" > tocxhtml
-  print "<head><meta http-equiv=\"default-style\" content=\"text/html; charset=utf-8\"/>" > tocxhtml
-  print "<title>Blogue do Caloni: Programação, Depuração, Transpiração</title>" > tocxhtml
-  print "<link rel=\"stylesheet\" href=\"css/stylesheet.css\" type=\"text/css\" />" > tocxhtml
-  print "<link rel=\"stylesheet\" href=\"css/page-template.xpgt\" type=\"application/adobe-page-template+xml\" />" > tocxhtml
-  print "</head>" > tocxhtml
-  print "<body>" > tocxhtml
-  print "<div class=\"body\">" > tocxhtml
-  print "<a id=\"piii\"></a>" > tocxhtml
-  print "<h1 class=\"toc-title\">Contents</h1>" > tocxhtml
-  print "<p id=\"indx-1\" class=\"toca\"><a href=\"index.xhtml\"><strong>Index</strong></a></p>" > tocxhtml
-  lastyear = "2000"
-  for( c in G_CHAPTERS )
+  l_file = "public\\book\\EPUB\\toc.xhtml"
+  print "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" > l_file
+  print "<html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:epub=\"http://www.idpf.org/2007/ops\">" > l_file
+  print "<head><meta http-equiv=\"default-style\" content=\"text/html; charset=utf-8\"/>" > l_file
+  print "<title>Blogue do Caloni: Programação, Depuração, Transpiração</title>" > l_file
+  print "<link rel=\"stylesheet\" href=\"css/stylesheet.css\" type=\"text/css\" />" > l_file
+  print "<link rel=\"stylesheet\" href=\"css/page-template.xpgt\" type=\"application/adobe-page-template+xml\" />" > l_file
+  print "</head>" > l_file
+  print "<body>" > l_file
+  print "<div class=\"body\">" > l_file
+  print "<a id=\"piii\"></a>" > l_file
+  print "<h1 class=\"toc-title\">Contents</h1>" > l_file
+  print "<p id=\"indx-1\" class=\"toca\"><a href=\"index.xhtml\"><strong>Index</strong></a></p>" > l_file
+  for( l_key in G_CHAPTERS )
   {
-    year = substr(c, 1, 4)
-    mon = substr(c, 6, 2)
-    if( year != lastyear )
+    l_year = substr(l_key, 1, 4)
+    l_month = substr(l_key, 6, 2)
+    if( l_year != G_SETTINGS["lastYear"] )
     {
-      if( lastyear != "2000" )
+      if( G_SETTINGS["lastYear"] != G_SETTINGS["firstYear"] )
       {
-        print "</p>" > tocxhtml
+        print "</p>" > l_file
       }
-      print "<p id=\"" BookWriter_SlugToId(c) "\" class=\"toc\"><strong>" year "</strong>" > tocxhtml
-      lastyear = year
+      print "<p id=\"" BookWriter_SlugToId(l_key) "\" class=\"toc\"><strong>" l_year "</strong>" > l_file
+      G_SETTINGS["lastYear"] = l_year
     }
-    print "<a href=\"" BookWriter_SlugToId(c) ".xhtml\"> " \
-      Util_TextToHtml(mon) " </a>" > tocxhtml
+    print "<a href=\"" BookWriter_SlugToId(l_key) ".xhtml\"> " Util_TextToHtml(l_month) " </a>" > l_file
   }
-  print "</p>" > tocxhtml
-  print "<a id=\"piv\"></a>" > tocxhtml
-  print "</div>" > tocxhtml
-  print "</body>" > tocxhtml
-  print "</html>" > tocxhtml
+  print "</p>" > l_file
+  print "<a id=\"piv\"></a>" > l_file
+  print "</div>" > l_file
+  print "</body>" > l_file
+  print "</html>" > l_file
 }
 
-function BookWriter_FlushTagsPage(    l_key)
+function BookWriter_FlushTagsPage(    l_key, l_file)
 {
   for( l_key in G_TITLES_BY_TAGS )
   {
-    tocxhtml = "public\\book\\EPUB\\toc_" l_key ".xhtml"
-    print "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" > tocxhtml
-    print "<html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:epub=\"http://www.idpf.org/2007/ops\">" > tocxhtml
-    print "<head><meta http-equiv=\"default-style\" content=\"text/html; charset=utf-8\"/>" > tocxhtml
-    print "<title>" l_key "</title>" > tocxhtml
-    print "<link rel=\"stylesheet\" href=\"css/stylesheet.css\" type=\"text/css\" />" > tocxhtml
-    print "<link rel=\"stylesheet\" href=\"css/page-template.xpgt\" type=\"application/adobe-page-template+xml\" />" > tocxhtml
-    print "</head>" > tocxhtml
-    print "<body>" > tocxhtml
-    print "<div class=\"body\">" > tocxhtml
-    print "<h1 class=\"toc-title\">" l_key "</h1>" > tocxhtml
-    print "<ul>" > tocxhtml
+    l_file = "public\\book\\EPUB\\toc_" l_key ".xhtml"
+    print "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" > l_file
+    print "<html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:epub=\"http://www.idpf.org/2007/ops\">" > l_file
+    print "<head><meta http-equiv=\"default-style\" content=\"text/html; charset=utf-8\"/>" > l_file
+    print "<title>" l_key "</title>" > l_file
+    print "<link rel=\"stylesheet\" href=\"css/stylesheet.css\" type=\"text/css\" />" > l_file
+    print "<link rel=\"stylesheet\" href=\"css/page-template.xpgt\" type=\"application/adobe-page-template+xml\" />" > l_file
+    print "</head>" > l_file
+    print "<body>" > l_file
+    print "<div class=\"body\">" > l_file
+    print "<h1 class=\"toc-title\">" l_key "</h1>" > l_file
+    print "<ul>" > l_file
     for( tit in G_TITLES_BY_TAGS[l_key] )
     {
-      print "<li><a href=\"" BookWriter_SlugToId(G_INDEX[G_TITLE_TO_SLUG[tit]]["chapter"]) ".xhtml#" BookWriter_SlugToId(G_TITLE_TO_SLUG[tit]) "\">" Util_TextToHtml(tit) "</a></li>" > tocxhtml
+      print "<li><a href=\"" BookWriter_SlugToId(G_INDEX[G_TITLE_TO_SLUG[tit]]["chapter"]) ".xhtml#" BookWriter_SlugToId(G_TITLE_TO_SLUG[tit]) "\">" Util_TextToHtml(tit) "</a></li>" > l_file
     }
-    print "</ul>" > tocxhtml
-    print "</div>" > tocxhtml
-    print "</body>" > tocxhtml
-    print "</html>" > tocxhtml
+    print "</ul>" > l_file
+    print "</div>" > l_file
+    print "</body>" > l_file
+    print "</html>" > l_file
   }
 }
 
-function BookWriter_FlushNcx()
+function BookWriter_FlushNcx(    l_file)
 {
-  ncxhtml = "public\\book\\EPUB\\ncx.xhtml"
-  print "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" > ncxhtml
-  print "<html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:epub=\"http://www.idpf.org/2007/ops\">" > ncxhtml
-  print "<head><meta http-equiv=\"default-style\" content=\"text/html; charset=utf-8\"/>" > ncxhtml
-  print "<title>Blogue do Caloni: Programação, Depuração, Transpiração</title>" > ncxhtml
-  print "<link rel=\"stylesheet\" href=\"css/stylesheet.css\" type=\"text/css\" />" > ncxhtml
-  print "<link rel=\"stylesheet\" href=\"css/page-template.xpgt\" type=\"application/adobe-page-template+xml\" />" > ncxhtml
-  print "</head>" > ncxhtml
-  print "<body>" > ncxhtml
-  print "<nav epub:type=\"toc\">" > ncxhtml
-  print "<h2>Contents</h2>" > ncxhtml
-  print "<ol epub:type=\"list\">" > ncxhtml
+  l_file = "public\\book\\EPUB\\ncx.xhtml"
+  print "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" > l_file
+  print "<html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:epub=\"http://www.idpf.org/2007/ops\">" > l_file
+  print "<head><meta http-equiv=\"default-style\" content=\"text/html; charset=utf-8\"/>" > l_file
+  print "<title>Blogue do Caloni: Programação, Depuração, Transpiração</title>" > l_file
+  print "<link rel=\"stylesheet\" href=\"css/stylesheet.css\" type=\"text/css\" />" > l_file
+  print "<link rel=\"stylesheet\" href=\"css/page-template.xpgt\" type=\"application/adobe-page-template+xml\" />" > l_file
+  print "</head>" > l_file
+  print "<body>" > l_file
+  print "<nav epub:type=\"toc\">" > l_file
+  print "<h2>Contents</h2>" > l_file
+  print "<ol epub:type=\"list\">" > l_file
   #for( c in G_CHAPTERS )
   #{
-  #  print "<li><a href=\"" BookWriter_SlugToId(c) ".xhtml\">" Util_TextToHtml(c) "</a></li>" > ncxhtml
+  #  print "<li><a href=\"" BookWriter_SlugToId(c) ".xhtml\">" Util_TextToHtml(c) "</a></li>" > l_file
   #}
-  print "<li><a href=\"index.xhtml\">Index</a></li>" > ncxhtml
-  print "</ol>" > ncxhtml
-  print "</nav>" > ncxhtml
-  print "</body>" > ncxhtml
-  print "</html>" > ncxhtml
+  print "<li><a href=\"index.xhtml\">Index</a></li>" > l_file
+  print "</ol>" > l_file
+  print "</nav>" > l_file
+  print "</body>" > l_file
+  print "</html>" > l_file
 }
 
-function BookWriter_FlushIndexPage(    l_key, l_letter)
+function BookWriter_FlushIndexPage(    l_key, l_letter, l_file)
 {
-  indexx = "public\\book\\EPUB\\index.xhtml"
-  print "<!DOCTYPE html>" > indexx
-  print "<html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:epub=\"http://www.idpf.org/2007/ops\" xml:lang=\"en-US\" lang=\"en-US\">" > indexx
-  print "<head>" > indexx
-  print "<meta http-equiv=\"default-style\" content=\"text/html; charset=utf-8\"/>" > indexx
-  print "<title>Blogue do Caloni: Programação, Depuração, Transpiração</title>" > indexx
-  print "<link rel=\"stylesheet\" href=\"css/stylesheet.css\" type=\"text/css\" />" > indexx
-  print "<link rel=\"stylesheet\" href=\"css/page-template.xpgt\" type=\"application/adobe-page-template+xml\" />" > indexx
-  print "</head>" > indexx
-  print "<body>" > indexx
-  print "<h1 class=\"index-title\"><span epub:type=\"pagebreak\" id=\"idx\" title=\"Index\"/><a href=\"toc.xhtml#indx-1\"><strong>Index</strong></a></h1>" > indexx
-  print "<section epub:type=\"index-group\" id=\"letters\">" > indexx
+  l_file = "public\\book\\EPUB\\index.xhtml"
+  print "<!DOCTYPE html>" > l_file
+  print "<html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:epub=\"http://www.idpf.org/2007/ops\" xml:lang=\"en-US\" lang=\"en-US\">" > l_file
+  print "<head>" > l_file
+  print "<meta http-equiv=\"default-style\" content=\"text/html; charset=utf-8\"/>" > l_file
+  print "<title>Blogue do Caloni: Programação, Depuração, Transpiração</title>" > l_file
+  print "<link rel=\"stylesheet\" href=\"css/stylesheet.css\" type=\"text/css\" />" > l_file
+  print "<link rel=\"stylesheet\" href=\"css/page-template.xpgt\" type=\"application/adobe-page-template+xml\" />" > l_file
+  print "</head>" > l_file
+  print "<body>" > l_file
+  print "<h1 class=\"index-title\"><span epub:type=\"pagebreak\" id=\"idx\" title=\"Index\"/><a href=\"toc.xhtml#indx-1\"><strong>Index</strong></a></h1>" > l_file
+  print "<section epub:type=\"index-group\" id=\"letters\">" > l_file
   PROCINFO["sorted_in"] = "@ind_str_asc"
-  currid = 2
   for( l_key in G_INDEX )
   {
     if( !("date" in G_INDEX[l_key]) )
@@ -512,30 +511,29 @@ function BookWriter_FlushIndexPage(    l_key, l_letter)
       G_LETTERS[l_letter] = "<h3 id=\"" BookWriter_SlugToId(l_letter) "\" class=\"groupletter\">" Util_TextToHtml(l_letter) "</h3>\n"\
         "<ul class=\"indexlevel1\">"
     }
-    G_LETTERS[l_letter] = G_LETTERS[l_letter] "<li epub:type=\"index-entry\" class=\"indexhead1\" id=\"mh" currid++ "\">"\
+    G_LETTERS[l_letter] = G_LETTERS[l_letter] "<li epub:type=\"index-entry\" class=\"indexhead1\" id=\"mh" G_SETTINGS["currentId"]++ "\">"\
       "<a href=\"" BookWriter_SlugToId(G_INDEX[l_key]["chapter"]) ".xhtml#" BookWriter_SlugToId(l_key) "\">" Util_TextToHtml(t) "</a></li>\n"
   }
-  for( l_letter in G_LETTERS )
+  for( l_key in G_LETTERS )
   {
-    print "<a href=\"#" BookWriter_SlugToId(l_letter) "\">" l_letter "</a>" > indexx
+    print "<a href=\"#" BookWriter_SlugToId(l_key) "\">" l_key "</a>" > l_file
   }
-  print "<h3 id=\"toc_tags\" class=\"groupletter\">Tags</h3>\n"\
-    "<ul class=\"indexlevel1\">" > indexx
+  print "<h3 id=\"toc_tags\" class=\"groupletter\">Tags</h3>\n<ul class=\"indexlevel1\">" > l_file
   for( l_key in G_TITLES_BY_TAGS )
   {
     tocxhtml = "public\\book\\EPUB\\toc_" l_key ".xhtml"
-    print "<li epub:type=\"index-entry\" class=\"indexhead1\" id=\"mh" currid++ "\">"\
-      "<a href=\"toc" BookWriter_SlugToId(l_key) ".xhtml\">" Util_TextToHtml(l_key) "</a></li>\n" > indexx
+    print "<li epub:type=\"index-entry\" class=\"indexhead1\" id=\"mh" G_SETTINGS["currentId"]++ "\">"\
+      "<a href=\"toc" BookWriter_SlugToId(l_key) ".xhtml\">" Util_TextToHtml(l_key) "</a></li>\n" > l_file
   }
-  print "</ul>" > indexx
-  for( l_letter in G_LETTERS )
+  print "</ul>" > l_file
+  for( l_key in G_LETTERS )
   {
-    print G_LETTERS[l_letter] > indexx
-    print "</ul>" > indexx
+    print G_LETTERS[l_key] > l_file
+    print "</ul>" > l_file
   }
-  print "</section>" > indexx
-  print "</body>" > indexx
-  print "</html>" > indexx
+  print "</section>" > l_file
+  print "</body>" > l_file
+  print "</html>" > l_file
 }
 
 # Main execution block
