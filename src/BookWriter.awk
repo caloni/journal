@@ -1,4 +1,8 @@
 # Transform parsed text to epub.
+# The following information is available (and cleaned in the end)
+# after parsing:
+#
+# - TODO list globals created here
 
 BEGIN {
   # Initialize global settings for blog configuration
@@ -6,6 +10,7 @@ BEGIN {
   G_SETTINGS["title"] = "Blogue do Caloni: Programação, Depuração, Transpiração"
   G_SETTINGS["author"] = "Wanderley Caloni"
   G_SETTINGS["publisher"] = "Caloni"
+  G_SETTINGS["playOrder"] = 2
 }
 
 function BookWriter_SlugToId(a_slug,    l_id)
@@ -87,7 +92,7 @@ function BookWriter_CharacterToLetter(a_char)
   return a_char
 }
 
-function BookWriter_WritePost(a_slug,    l_fchapter, l_file, l_tags, l_postText, l_prefix, l_suffix, l_key)
+function BookWriter_WritePost(a_slug,    l_fchapter, l_file, l_tags, l_postText, l_prefix, l_suffix, l_key, l_key2)
 {
   l_fchapter = BookWriter_SlugToId(G_INDEX[a_slug]["chapter"])
   G_CHAPTERS[G_INDEX[a_slug]["chapter"]] = G_INDEX[a_slug]["chapter"]
@@ -134,14 +139,14 @@ function BookWriter_WritePost(a_slug,    l_fchapter, l_file, l_tags, l_postText,
           gsub(/&/, "&amp;", G_INDEX[a_slug]["lines"][l_key]["content"])
         }
         # TODO links translation, need more clarification
-        for( j in G_INDEX[a_slug]["links"] )
+        for( l_key2 in G_INDEX[a_slug]["links"] )
         {
-          if( G_INDEX[a_slug]["links"][j] in G_INDEX_METADATA )
+          if( G_INDEX[a_slug]["links"][l_key2] in G_INDEX_METADATA )
           {
-            G_INDEX[a_slug]["links"][j] = "<a href=\"" BookWriter_SlugToEpubId(G_INDEX_METADATA[G_INDEX[a_slug]["links"][j]]["chapter"]) ".xhtml#" BookWriter_SlugToEpubId(G_INDEX[a_slug]["links"][j]) "\">" j "</a>"
+            G_INDEX[a_slug]["links"][l_key2] = "<a href=\"" BookWriter_SlugToEpubId(G_INDEX_METADATA[G_INDEX[a_slug]["links"][l_key2]]["chapter"]) ".xhtml#" BookWriter_SlugToEpubId(G_INDEX[a_slug]["links"][l_key2]) "\">" l_key2 "</a>"
           }
-          search = "\\[" j "\\]"
-          gsub(search, BookWriter_RemoveLinksFromText(G_INDEX[a_slug]["links"][j]), G_INDEX[a_slug]["lines"][l_key]["content"])
+          search = "\\[" l_key2 "\\]"
+          gsub(search, BookWriter_RemoveLinksFromText(G_INDEX[a_slug]["links"][l_key2]), G_INDEX[a_slug]["lines"][l_key]["content"])
         }
       }
 
@@ -260,126 +265,126 @@ function BookWriter_FlushPosts(    l_position, l_slug)
   }
 }
 
-function BookWriter_PopulateChapters(    slug)
+function BookWriter_PopulateChapters(    l_slug)
 {
-  for( slug in G_INDEX )
+  for( l_slug in G_INDEX )
   {
-    if( !("month" in G_INDEX[slug]) )
+    if( !("month" in G_INDEX[l_slug]) )
     {
       continue
     }
-    G_INDEX[slug]["chapter"] = G_INDEX[slug]["month"]
+    G_INDEX[l_slug]["chapter"] = G_INDEX[l_slug]["month"]
   }
 }
 
-function BookWriter_FlushPostsPages()
+function BookWriter_FlushPostsPages(    l_key, l_file)
 {
-  for( f in Files )
+  for( l_key in Files )
   {
-    file = "public\\book\\EPUB\\" f ".xhtml"
-    print "</div>" > file
-    print "</body>" > file
-    print "</html>" > file
+    l_file = "public\\book\\EPUB\\" l_key ".xhtml"
+    print "</div>" > l_file
+    print "</body>" > l_file
+    print "</html>" > l_file
   }
 }
 
-function BookWriter_FlushPackage(    l_key)
+function BookWriter_FlushPackage(    l_key, l_file, l_totalImages)
 {
-  package = "public\\book\\EPUB\\package.opf"
-  print "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" > package
-  print "<package xmlns=\"http://www.idpf.org/2007/opf\" version=\"3.0\" unique-identifier=\"p0000000000000\">" > package
-  print "<metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\">" > package
-  print "<dc:title id=\"title\">" G_SETTINGS["title"] "</dc:title>" > package
-  print "<dc:creator>" G_SETTINGS["author"] "</dc:creator>" > package
-  print "<dc:publisher>" G_SETTINGS["publisher"] "</dc:publisher>" > package
-  print "<dc:rights>Copyright " G_SETTINGS["build"] "</dc:rights>" > package
-  print "<dc:identifier id=\"p0000000000000\">0000000000000</dc:identifier>" > package
-  print "<dc:source id=\"src-id\">urn:isbn:0000000000000</dc:source>" > package
-  print "<dc:language>pt-BR</dc:language>" > package
-  print "<meta property=\"dcterms:modified\">" G_SETTINGS["date"] "</meta>" > package
-  print "</metadata>" > package
-  print "<manifest>" > package
-  print "<item id=\"cover\" href=\"cover.xhtml\" media-type=\"application/xhtml+xml\"/>" > package
-  print "<item id=\"cover-image\" properties=\"cover-image\" href=\"img/cover.jpg\" media-type=\"image/jpeg\"/>" > package
-  print "<item id=\"style\" href=\"css/stylesheet.css\" media-type=\"text/css\"/>" > package
-  print "<item id=\"ncx\" properties=\"nav\" href=\"ncx.xhtml\" media-type=\"application/xhtml+xml\"/>" > package
-  print "<item id=\"ncx1\" href=\"toc.ncx\" media-type=\"application/x-dtbncx+xml\"/>" > package
-  print "<item id=\"page-template\" href=\"css/page-template.xpgt\" media-type=\"application/adobe-page-template+xml\"/>" > package
-  print "<item id=\"titlepage\" href=\"titlepage.xhtml\" media-type=\"application/xhtml+xml\"/>" > package
-  print "<item id=\"toc\" href=\"toc.xhtml\" media-type=\"application/xhtml+xml\"/>" > package
+  l_file = "public\\book\\EPUB\\package.opf"
+  print "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" > l_file
+  print "<package xmlns=\"http://www.idpf.org/2007/opf\" version=\"3.0\" unique-identifier=\"p0000000000000\">" > l_file
+  print "<metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\">" > l_file
+  print "<dc:title id=\"title\">" G_SETTINGS["title"] "</dc:title>" > l_file
+  print "<dc:creator>" G_SETTINGS["author"] "</dc:creator>" > l_file
+  print "<dc:publisher>" G_SETTINGS["publisher"] "</dc:publisher>" > l_file
+  print "<dc:rights>Copyright " G_SETTINGS["build"] "</dc:rights>" > l_file
+  print "<dc:identifier id=\"p0000000000000\">0000000000000</dc:identifier>" > l_file
+  print "<dc:source id=\"src-id\">urn:isbn:0000000000000</dc:source>" > l_file
+  print "<dc:language>pt-BR</dc:language>" > l_file
+  print "<meta property=\"dcterms:modified\">" G_SETTINGS["date"] "</meta>" > l_file
+  print "</metadata>" > l_file
+  print "<manifest>" > l_file
+  print "<item id=\"cover\" href=\"cover.xhtml\" media-type=\"application/xhtml+xml\"/>" > l_file
+  print "<item id=\"cover-image\" properties=\"cover-image\" href=\"img/cover.jpg\" media-type=\"image/jpeg\"/>" > l_file
+  print "<item id=\"style\" href=\"css/stylesheet.css\" media-type=\"text/css\"/>" > l_file
+  print "<item id=\"ncx\" properties=\"nav\" href=\"ncx.xhtml\" media-type=\"application/xhtml+xml\"/>" > l_file
+  print "<item id=\"ncx1\" href=\"toc.ncx\" media-type=\"application/x-dtbncx+xml\"/>" > l_file
+  print "<item id=\"page-template\" href=\"css/page-template.xpgt\" media-type=\"application/adobe-page-template+xml\"/>" > l_file
+  print "<item id=\"titlepage\" href=\"titlepage.xhtml\" media-type=\"application/xhtml+xml\"/>" > l_file
+  print "<item id=\"toc\" href=\"toc.xhtml\" media-type=\"application/xhtml+xml\"/>" > l_file
   for( l_key in G_TITLES_BY_TAGS )
   {
-    print "<item id=\"toc_" l_key "\" href=\"toc_" l_key ".xhtml\" media-type=\"application/xhtml+xml\"/>" > package
+    print "<item id=\"toc_" l_key "\" href=\"toc_" l_key ".xhtml\" media-type=\"application/xhtml+xml\"/>" > l_file
   }
-  print "<item id=\"index\" href=\"index.xhtml\" media-type=\"application/xhtml+xml\"/>" > package
+  print "<item id=\"index\" href=\"index.xhtml\" media-type=\"application/xhtml+xml\"/>" > l_file
   PROCINFO["sorted_in"] = "@ind_num_asc"
-  for( c in G_CHAPTERS )
+  for( l_key in G_CHAPTERS )
   {
-    print "<item id=\"" BookWriter_SlugToId(c) "\" href=\"" BookWriter_SlugToId(c) ".xhtml\" media-type=\"application/xhtml+xml\"/>" > package
+    print "<item id=\"" BookWriter_SlugToId(l_key) "\" href=\"" BookWriter_SlugToId(l_key) ".xhtml\" media-type=\"application/xhtml+xml\"/>" > l_file
   }
-  totalImages = 0
-  for( image in G_POSTS_IMAGES )
+  l_totalImages = 0
+  for( l_key in G_POSTS_IMAGES )
   {
-    if( index(image, "jpg") || index(image, "jpeg") )
+    if( index(l_key, "jpg") || index(l_key, "jpeg") )
     {
-      print "<item id=\"img-id-" ++totalImages "\" href=\"img/" image "\" media-type=\"image/jpeg\"/>" > package
+      print "<item id=\"img-id-" ++l_totalImages "\" href=\"img/" l_key "\" media-type=\"image/jpeg\"/>" > l_file
     }
-    else if( index(image, "gif") )
+    else if( index(l_key, "gif") )
     {
-      print "<item id=\"img-id-" ++totalImages "\" href=\"img/" image "\" media-type=\"image/gif\"/>" > package
+      print "<item id=\"img-id-" ++l_totalImages "\" href=\"img/" l_key "\" media-type=\"image/gif\"/>" > l_file
     }
-    else if( index(image, "png") )
+    else if( index(l_key, "png") )
     {
-      print "<item id=\"img-id-" ++totalImages "\" href=\"img/" image "\" media-type=\"image/png\"/>" > package
+      print "<item id=\"img-id-" ++l_totalImages "\" href=\"img/" l_key "\" media-type=\"image/png\"/>" > l_file
     }
-    else if( index(image, "svg") )
+    else if( index(l_key, "svg") )
     {
-      print "<item id=\"img-id-" ++totalImages "\" href=\"img/" image "\" media-type=\"image/svg\"/>" > package
+      print "<item id=\"img-id-" ++l_totalImages "\" href=\"img/" l_key "\" media-type=\"image/svg\"/>" > l_file
     }
   }
-  print "</manifest>" > package
-  print "<spine toc=\"ncx1\">" > package
-  print "<itemref idref=\"cover\" linear=\"yes\"/>" > package
-  print "<itemref idref=\"titlepage\" linear=\"yes\"/>" > package
-  print "<itemref idref=\"toc\" linear=\"yes\"/>" > package
+  print "</manifest>" > l_file
+  print "<spine toc=\"ncx1\">" > l_file
+  print "<itemref idref=\"cover\" linear=\"yes\"/>" > l_file
+  print "<itemref idref=\"titlepage\" linear=\"yes\"/>" > l_file
+  print "<itemref idref=\"toc\" linear=\"yes\"/>" > l_file
   for( l_key in G_TITLES_BY_TAGS )
   {
-    print "<itemref linear=\"yes\" idref=\"toc" BookWriter_SlugToId(l_key) "\"/>" > package
+    print "<itemref linear=\"yes\" idref=\"toc" BookWriter_SlugToId(l_key) "\"/>" > l_file
   }
-  for( c in G_CHAPTERS )
+  for( l_key in G_CHAPTERS )
   {
-    print "<itemref linear=\"yes\" idref=\"" BookWriter_SlugToId(c) "\"/>" > package
+    print "<itemref linear=\"yes\" idref=\"" BookWriter_SlugToId(l_key) "\"/>" > l_file
   }
-  print "<itemref linear=\"yes\" idref=\"index\"/>" > package
-  print "<itemref linear=\"yes\" idref=\"ncx\"/>" > package
-  print "</spine>" > package
-  print "</package>" > package
+  print "<itemref linear=\"yes\" idref=\"index\"/>" > l_file
+  print "<itemref linear=\"yes\" idref=\"ncx\"/>" > l_file
+  print "</spine>" > l_file
+  print "</package>" > l_file
 }
 
-function BookWriter_FlushTocNcx()
+function BookWriter_FlushTocNcx(    l_file, l_key)
 {
-  tocncx = "public\\book\\EPUB\\toc.ncx"
-  print "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" > tocncx
-  print "<ncx xmlns=\"http://www.daisy.org/z3986/2005/ncx/\" version=\"2005-1\" xml:lang=\"en-US\">" > tocncx
-  print "<head>" > tocncx
-  print "<meta name=\"dtb:uid\" content=\"0000000000000\"/>" > tocncx
-  print "<meta name=\"dtb:depth\" content=\"1\"/>" > tocncx
-  print "<meta name=\"dtb:totalPageCount\" content=\"0\"/>" > tocncx
-  print "<meta name=\"dtb:maxPageNumber\" content=\"0\"/>" > tocncx
-  print "</head>" > tocncx
-  print "<docTitle><text>Blogue do Caloni: Programação, Depuração, Transpiração</text></docTitle>" > tocncx
-  print "<docAuthor><text>Wanderley Caloni</text></docAuthor>" > tocncx
-  print "<navMap>" > tocncx
-  print "<navPoint id=\"cover\" playOrder=\"1\"><navLabel><text>Cover</text></navLabel><content src=\"cover.xhtml\"/></navPoint>" > tocncx
-  print "<navPoint id=\"toc\" playOrder=\"2\"><navLabel><text>Contents</text></navLabel><content src=\"toc.xhtml\"/></navPoint>" > tocncx
-  playOrder = 2
-  #for( c in G_CHAPTERS )
+  l_file = "public\\book\\EPUB\\toc.ncx"
+  print "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" > l_file
+  print "<ncx xmlns=\"http://www.daisy.org/z3986/2005/ncx/\" version=\"2005-1\" xml:lang=\"en-US\">" > l_file
+  print "<head>" > l_file
+  print "<meta name=\"dtb:uid\" content=\"0000000000000\"/>" > l_file
+  print "<meta name=\"dtb:depth\" content=\"1\"/>" > l_file
+  print "<meta name=\"dtb:totalPageCount\" content=\"0\"/>" > l_file
+  print "<meta name=\"dtb:maxPageNumber\" content=\"0\"/>" > l_file
+  print "</head>" > l_file
+  print "<docTitle><text>Blogue do Caloni: Programação, Depuração, Transpiração</text></docTitle>" > l_file
+  print "<docAuthor><text>Wanderley Caloni</text></docAuthor>" > l_file
+  print "<navMap>" > l_file
+  print "<navPoint id=\"cover\" playOrder=\"1\"><navLabel><text>Cover</text></navLabel><content src=\"cover.xhtml\"/></navPoint>" > l_file
+  print "<navPoint id=\"toc\" playOrder=\"2\"><navLabel><text>Contents</text></navLabel><content src=\"toc.xhtml\"/></navPoint>" > l_file
+  # why is this commented?
+  #for( l_key in G_CHAPTERS )
   #{
-  #  print "<navPoint playOrder=\"" ++playOrder "\" id=\"" BookWriter_SlugToId(c) "\"><navLabel><text>" Util_TextToHtml(c) "</text></navLabel>\
-  #    <content src=\"" BookWriter_SlugToId(c) ".xhtml\"/></navPoint>" > tocncx
+  #  print "<navPoint playOrder=\"" ++G_SETTINGS["playOrder"] "\" id=\"" BookWriter_SlugToId(l_key) "\"><navLabel><text>" Util_TextToHtml(l_key) "</text></navLabel>\
+  #    <content src=\"" BookWriter_SlugToId(l_key) ".xhtml\"/></navPoint>" > l_file
   #}
-  print "</navMap>" > tocncx
-  print "</ncx>" > tocncx
+  print "</navMap>" > l_file
+  print "</ncx>" > l_file
 }
 
 function BookWriter_FlushTocPage()
@@ -473,7 +478,7 @@ function BookWriter_FlushNcx()
   print "</html>" > ncxhtml
 }
 
-function BookWriter_FlushIndexPage(    l_key)
+function BookWriter_FlushIndexPage(    l_key, l_letter)
 {
   indexx = "public\\book\\EPUB\\index.xhtml"
   print "<!DOCTYPE html>" > indexx
@@ -495,19 +500,19 @@ function BookWriter_FlushIndexPage(    l_key)
     {
       continue
     }
-    l = BookWriter_CharacterToLetter(G_INDEX[l_key]["letter"])
+    l_letter = BookWriter_CharacterToLetter(G_INDEX[l_key]["letter"])
     t = G_INDEX[l_key]["title"]
-    if( G_LETTERS[l] == "" )
+    if( G_LETTERS[l_letter] == "" )
     {
-      G_LETTERS[l] = "<h3 id=\"" BookWriter_SlugToId(l) "\" class=\"groupletter\">" Util_TextToHtml(l) "</h3>\n"\
+      G_LETTERS[l_letter] = "<h3 id=\"" BookWriter_SlugToId(l_letter) "\" class=\"groupletter\">" Util_TextToHtml(l_letter) "</h3>\n"\
         "<ul class=\"indexlevel1\">"
     }
-    G_LETTERS[l] = G_LETTERS[l] "<li epub:type=\"index-entry\" class=\"indexhead1\" id=\"mh" currid++ "\">"\
+    G_LETTERS[l_letter] = G_LETTERS[l_letter] "<li epub:type=\"index-entry\" class=\"indexhead1\" id=\"mh" currid++ "\">"\
       "<a href=\"" BookWriter_SlugToId(G_INDEX[l_key]["chapter"]) ".xhtml#" BookWriter_SlugToId(l_key) "\">" Util_TextToHtml(t) "</a></li>\n"
   }
-  for( l in G_LETTERS )
+  for( l_letter in G_LETTERS )
   {
-    print "<a href=\"#" BookWriter_SlugToId(l) "\">" l "</a>" > indexx
+    print "<a href=\"#" BookWriter_SlugToId(l_letter) "\">" l_letter "</a>" > indexx
   }
   print "<h3 id=\"toc_tags\" class=\"groupletter\">Tags</h3>\n"\
     "<ul class=\"indexlevel1\">" > indexx
@@ -518,9 +523,9 @@ function BookWriter_FlushIndexPage(    l_key)
       "<a href=\"toc" BookWriter_SlugToId(l_key) ".xhtml\">" Util_TextToHtml(l_key) "</a></li>\n" > indexx
   }
   print "</ul>" > indexx
-  for( l in G_LETTERS )
+  for( l_letter in G_LETTERS )
   {
-    print G_LETTERS[l] > indexx
+    print G_LETTERS[l_letter] > indexx
     print "</ul>" > indexx
   }
   print "</section>" > indexx
