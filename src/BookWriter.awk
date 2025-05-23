@@ -44,17 +44,22 @@ function BookWriter_RemoveLinksFromText(a_text)
   return a_text
 }
 
-function BookWriter_CharacterIsNumeric(a_object,    l_characters)
+function BookWriter_CharacterIsNumeric(a_object,    l_characters, l_ret)
 {
-    switch (typeof(a_object)) {
+    switch (typeof(a_object))
+    {
     case "strnum":
     case "number":
-        return 1
+        l_ret = 1
+        break
     case "string":
-        return (split(a_object, l_characters, " ") == 1) && (typeof(l_characters[1]) == "strnum")
+        l_ret = (split(a_object, l_characters, " ") == 1) && (typeof(l_characters[1]) == "strnum") ? 1 : 0
+        break
     default:
-        return 0
+        l_ret = 0
     }
+    split("", l_characters) # cleanup
+    return l_ret
 }
 
 function BookWriter_CharacterToLetter(a_char)
