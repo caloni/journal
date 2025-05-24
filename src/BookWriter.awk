@@ -2,13 +2,10 @@
 # The following information is available (and cleaned in the end)
 # after parsing:
 #
-# - G_CHAPTERS
-# - G_CONVERT_LETTERS
-# - G_INDEX
-# - G_LETTERS
-# - G_POST_SLUG_BY_POSITION
-# - G_SETTINGS
-# - G_TITLES_BY_TAGS
+# - G_CHAPTERS chapters from epub
+# - G_CONVERT_LETTERS translation between post first letter and letter index
+# - G_LETTERS total index letters available
+# - G_TITLES_BY_TAGS post titles indexed by tags
 
 BEGIN {
   # Initialize global settings for blog configuration
@@ -400,7 +397,7 @@ function BookWriter_FlushTocNcx(    l_file, l_key)
   print "</ncx>" > l_file
 }
 
-function BookWriter_FlushTocPage(    l_file, l_year, l_month, l_key)
+function BookWriter_FlushTocPage(    l_file, l_year, l_month, l_key, l_key2)
 {
   l_file = "public\\book\\EPUB\\toc.xhtml"
   print "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" > l_file
@@ -453,9 +450,9 @@ function BookWriter_FlushTagsPage(    l_key, l_file)
     print "<div class=\"body\">" > l_file
     print "<h1 class=\"toc-title\">" l_key "</h1>" > l_file
     print "<ul>" > l_file
-    for( tit in G_TITLES_BY_TAGS[l_key] )
+    for( l_key2 in G_TITLES_BY_TAGS[l_key] )
     {
-      print "<li><a href=\"" BookWriter_SlugToId(G_INDEX[G_TITLE_TO_SLUG[tit]]["chapter"]) ".xhtml#" BookWriter_SlugToId(G_TITLE_TO_SLUG[tit]) "\">" Util_TextToHtml(tit) "</a></li>" > l_file
+      print "<li><a href=\"" BookWriter_SlugToId(G_INDEX[G_TITLE_TO_SLUG[l_key2]]["chapter"]) ".xhtml#" BookWriter_SlugToId(G_TITLE_TO_SLUG[l_key2]) "\">" Util_TextToHtml(l_key2) "</a></li>" > l_file
     }
     print "</ul>" > l_file
     print "</div>" > l_file
@@ -478,6 +475,7 @@ function BookWriter_FlushNcx(    l_file)
   print "<nav epub:type=\"toc\">" > l_file
   print "<h2>Contents</h2>" > l_file
   print "<ol epub:type=\"list\">" > l_file
+  # why is this commented?
   #for( c in G_CHAPTERS )
   #{
   #  print "<li><a href=\"" BookWriter_SlugToId(c) ".xhtml\">" Util_TextToHtml(c) "</a></li>" > l_file
@@ -560,9 +558,6 @@ END {
   # Cleanup global arrays
   split("", G_CHAPTERS)
   split("", G_CONVERT_LETTERS)
-  split("", G_INDEX)
   split("", G_LETTERS)
-  split("", G_POST_SLUG_BY_POSITION)
-  split("", G_SETTINGS)
   split("", G_TITLES_BY_TAGS)
 }
