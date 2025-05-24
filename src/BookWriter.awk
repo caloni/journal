@@ -2,7 +2,13 @@
 # The following information is available (and cleaned in the end)
 # after parsing:
 #
-# - TODO list globals created here
+# - G_CHAPTERS
+# - G_CONVERT_LETTERS
+# - G_INDEX
+# - G_LETTERS
+# - G_POST_SLUG_BY_POSITION
+# - G_SETTINGS
+# - G_TITLES_BY_TAGS
 
 BEGIN {
   # Initialize global settings for blog configuration
@@ -552,5 +558,11 @@ END {
   BookWriter_FlushIndexPage()
 
   # Cleanup global arrays
+  split("", G_CHAPTERS)
+  split("", G_CONVERT_LETTERS)
+  split("", G_INDEX)
+  split("", G_LETTERS)
+  split("", G_POST_SLUG_BY_POSITION)
+  split("", G_SETTINGS)
+  split("", G_TITLES_BY_TAGS)
 }
-
