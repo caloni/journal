@@ -7,7 +7,8 @@ import tempfile
 def ignore_git(dir, files):
     return ['.git'] if '.git' in files else []
 
-backup = True
+backup = False
+private = True
 abspath = os.path.abspath(__file__)
 dname = os.path.dirname(abspath)
 os.chdir(dname)
@@ -36,6 +37,14 @@ if process.stdout:
 if process.returncode:
     print('blogbuild.py returned', process.returncode)
 
+if Private:
+  old_dir = os.getcwd()
+  os.chdir(r'private')
+  process = subprocess.run(['git', 'add', '--all'], check=False)
+  process = subprocess.run(['git', 'commit', '-m', 'Add journal changes'], check=False)
+  process = subprocess.run(['git', 'push'], check=False)
+  os.chdir(old_dir)
+
 process = subprocess.run(['git', 'add', '--all'], check=False)
 process = subprocess.run(['git', 'commit', '-m', 'Add journal changes'], check=False)
 process = subprocess.run(['git', 'push'], check=False)
@@ -43,6 +52,6 @@ process = subprocess.run(['git', 'push'], check=False)
 old_dir = os.getcwd()
 os.chdir(r'public/blog')
 process = subprocess.run(['git', 'add', '--all'], check=False)
-process = subprocess.run(['git', 'commit', '-m', 'Publish lastest posts'], check=False)
+process = subprocess.run(['git', 'commit', '-m', 'Publish lastest changes'], check=False)
 process = subprocess.run(['git', 'push'], check=False)
 os.chdir(old_dir)
