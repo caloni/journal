@@ -37,7 +37,7 @@ if process.stdout:
 if process.returncode:
     print('blogbuild.py returned', process.returncode)
 
-if Private:
+if private:
   old_dir = os.getcwd()
   os.chdir(r'private')
   process = subprocess.run(['git', 'add', '--all'], check=False)
