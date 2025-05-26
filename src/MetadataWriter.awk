@@ -3,6 +3,14 @@
 # The G_INDEX array will contain fields "date" and "link" indexed
 # by slug and passed between scripts.
 
+FNR == 1 {
+  # if a file with posts has private in its path then it is a private note
+  if( (index(FILENAME, "private")) > 0 )
+  {
+    G_ALL_TAGS["private"] = "private"
+  }
+}
+
 # The metadata.txt file will be used in further scripts to gather
 # location of posts and other information about texts, such as
 # all tags or current date.

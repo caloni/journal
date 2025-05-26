@@ -159,6 +159,11 @@ function MarkdownParser_CopyNewPost(    l_slug, l_tags, l_key, l_key2)
   {
     G_NEW_POST["tags"] = G_NEW_POST["tags"] " blogging"
   }
+  # if a file with posts has private in its path then it is a private note
+  if( (index(FILENAME, "private")) > 0 )
+  {
+    G_NEW_POST["tags"] = G_NEW_POST["tags"] " private"
+  }
   split(G_NEW_POST["tags"], l_tags)
 
   if( "date" in G_NEW_POST )
