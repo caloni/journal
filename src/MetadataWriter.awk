@@ -99,6 +99,11 @@ G_CONTENT_STATE["```"] {
         G_ALL_TAGS[tags[i]] = tags[i]
       }
     }
+    # if a post has external link then it is about blogging
+    else if( l_array[1] == "link" )
+    {
+      G_ALL_TAGS["blogging"] = "blogging"
+    }
     split("", l_array)
   }
   next

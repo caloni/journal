@@ -153,6 +153,8 @@ function MarkdownParser_CopyNewPost(    l_slug, l_tags, l_key, l_key2)
 {
   l_slug = G_NEW_POST["slug"]
   G_POST_SLUG_BY_POSITION[++G_SETTINGS["totalPosts"]] = l_slug
+
+  # if a post has external link then it is about blogging
   if( "link" in G_NEW_POST )
   {
     G_NEW_POST["tags"] = G_NEW_POST["tags"] " blogging"
