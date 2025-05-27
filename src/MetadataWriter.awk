@@ -2,12 +2,15 @@
 #
 # The G_INDEX array will contain fields "date" and "link" indexed
 # by slug and passed between scripts.
+#
+# The G_METADATA array will contain fields "chaptersBySlug" and
+# "tags".
 
 FNR == 1 {
   # if a file with posts has private in its path then it is a private note
   if( (index(FILENAME, "private")) > 0 )
   {
-    G_ALL_TAGS["private"] = "private"
+    G_METADATA["tags"]["private"] = "private"
   }
 }
 
@@ -41,31 +44,33 @@ function MetadataWriter_GetChapterFromDateField(a_date,    l_words, l_first)
   }
 }
 
+# Copy date and link to G_INDEX, chapter to G_METADATA.
 # Deletes G_NEW_POST completely after use.
-function MetadataWriter_FlushNewPostToMetadataOutput(    l_chapter)
+function MetadataWriter_CopyNewPost(    l_slug, l_chapter)
 {
+  l_slug = G_NEW_POST["slug"]
   l_chapter = MetadataWriter_GetChapterFromDateField(G_NEW_POST["date"])
-  if( G_NEW_POST["slug"] in G_INDEX )
+  if( l_slug in G_INDEX )
   {
-    print "warning: slug", G_NEW_POST["slug"], "duplicated in", G_INDEX[slug]["date"], "and", G_NEW_POST["date"]
+    print "warning: slug", l_slug, "duplicated in", G_INDEX[l_slug]["date"], "and", G_NEW_POST["date"]
   }
-  G_INDEX[G_NEW_POST["slug"]]["date"] = G_NEW_POST["date"]
-  G_INDEX[G_NEW_POST["slug"]]["link"] = link
-  print "metadata_chapter", G_NEW_POST["slug"], l_chapter > G_METADATA["output"]
+  G_INDEX[l_slug]["date"] = G_NEW_POST["date"]
+  G_INDEX[l_slug]["link"] = link
+  G_METADATA["chaptersBySlug"][l_slug] = l_chapter
   split("", G_NEW_POST)
 }
 
-# Flushes all captured tags from the posts.
-function MetadataWriter_FlushTags(    l_tags)
+function MetadataWriter_Flush(    l_slug, l_tag, l_tags)
 {
-  PROCINFO["sorted_in"] = "@ind_str_asc"
-  for( i in G_ALL_TAGS )
+  for( l_slug in G_METADATA["chaptersBySlug"] )
   {
-    l_tags = l_tags " " G_ALL_TAGS[i]
+    print "metadata_chapter", l_slug, G_METADATA["chaptersBySlug"][l_slug] > G_METADATA["output"]
   }
-  print "tags:" l_tags
-  l_tags = "metadata_tags" l_tags
-  print l_tags > G_METADATA["output"]
+  for( l_tag in G_METADATA["tags"] )
+  {
+    l_tag = l_tags " " l_tag
+  }
+  print "metadata_tags", l_tags > G_METADATA["output"]
 }
 
 # toggle preformatted content
@@ -84,7 +89,7 @@ G_CONTENT_STATE["```"] {
   if( "title" in G_NEW_POST )
   {
     # flush previous post
-    MetadataWriter_FlushNewPostToMetadataOutput()
+    MetadataWriter_CopyNewPost()
   }
   G_NEW_POST["title"] = substr($0, 3)
   G_NEW_POST["slug"] = Util_TitleToSlug(G_NEW_POST["title"])
@@ -104,13 +109,13 @@ G_CONTENT_STATE["```"] {
       split(l_array[3], tags)
       for( i in tags )
       {
-        G_ALL_TAGS[tags[i]] = tags[i]
+        G_METADATA["tags"][tags[i]] = tags[i]
       }
     }
     # if a post has external link then it is about blogging
     else if( l_array[1] == "link" )
     {
-      G_ALL_TAGS["blogging"] = "blogging"
+      G_METADATA["tags"]["blogging"] = "blogging"
     }
     split("", l_array)
   }
@@ -124,13 +129,12 @@ G_CONTENT_STATE["```"] {
 END {
   if( "title" in G_NEW_POST )
   {
-    MetadataWriter_FlushNewPostToMetadataOutput()
+    MetadataWriter_CopyNewPost()
   }
-  MetadataWriter_FlushTags()
+  MetadataWriter_Flush()
   # cleanup
   split("", G_NEW_POST)
   split("", G_CONTENT_STATE)
   split("", G_METADATA)
-  split("", G_ALL_TAGS)
   # not clean G_INDEX
 }
