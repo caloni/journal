@@ -34,7 +34,7 @@ shutil.copytree(r'img/blog', r'public/blog/img', dirs_exist_ok=True)
 
 os.environ['LC_ALL'] = 'en_US.UTF-8'
 
-process = subprocess.run(['gawk', '-f', os.path.join(dname, 'Util.awk'), '-f', os.path.join(dname, 'MetadataWriter.awk'), 'journal.md'], check=True)
+process = subprocess.run(['gawk', '-f', os.path.join(dname, 'Util.awk'), '-f', os.path.join(dname, 'MetadataParser.awk'), '-f', os.path.join(dname, 'MetadataWriter.awk'), 'journal.md'], check=True)
 if process.stdout:
   print(process.stdout)
 if process.returncode:

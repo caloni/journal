@@ -36,7 +36,7 @@ shutil.copytree(r'img/blog', r'public/book/EPUB/img', dirs_exist_ok=True)
 
 os.environ['LC_ALL'] = 'en_US.UTF-8'
 
-command = ['gawk', '-f', os.path.join(dname, 'Util.awk'), '-f', os.path.join(dname, 'MetadataWriter.awk'), 'journal.md']
+command = ['gawk', '-f', os.path.join(dname, 'Util.awk'), '-f', os.path.join(dname, 'MetadataParser.awk'), '-f', os.path.join(dname, 'MetadataWriter.awk'), 'journal.md']
 if private:
   command.append('private/journal.md')
 process = subprocess.run(command, check=True)
