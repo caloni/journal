@@ -4,11 +4,17 @@
 #include <filesystem>
 #include <fstream>
 
+fs::path private_dir = fs::path("private");
+fs::path private_repo = private_dir / ".git";
+
 void print_usage() {
-    std::cout << "Usage: journal command\n";
+    std::cout << "Usage: journal command [options]\n";
     std::cout << "Command:\n";
-    std::cout << "  blog             Blog related\n";
-    std::cout << "  book             Book related\n";
+    std::cout << "  blog             Build blog\n";
+    std::cout << "  book             Build book\n";
+    std::cout << "  both             Build both\n";
+    std::cout << "Options:\n";
+    std::cout << "  --publish          Publish content\n";
 }
 
 int main(int argc, char*argv[]) {
@@ -17,10 +23,15 @@ int main(int argc, char*argv[]) {
         return 0;
     }
     std::string command(argv[1]);
-    if (command != "blog" && command != "book") {
+    bool blog = command == "blog" || command == "both";
+    bool book = command == "book" || command == "both";
+    if (!blog && !book) {
         print_usage();
         return 0;
     }
+    bool publish = argc >= 3 && std::string(argv[2]) == "--publish";
+    bool backup = publish;
+    bool git_commit_push_private_repo = publish && fs::exists(private_repo) && fs::is_directory(private_repo);
     try {
         setup_encoding();
         fs::path basedir = fs::current_path();
@@ -28,10 +39,20 @@ int main(int argc, char*argv[]) {
         std::cout << "basedir: " << basedir << '\n';
         fs::current_path(basedir);
 
-        if (command == "blog") {
+        if (blog) {
+            if (publish && backup) {
+                create_backup(fs::current_path());
+            }
             create_blog(basedir, scriptdir);
+
+            if (git_commit_push_private_repo) {
+                git_commit_push(private_dir, "Add journal changes");
+            }
+
+            git_commit_push(fs::current_path(), "Add journal changes");
+            git_commit_push("public/blog", "Publish lastest changes");
         }
-        else if (command == "book") {
+        if (book) {
             create_book(basedir, scriptdir);
         }
 

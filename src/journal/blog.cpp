@@ -46,3 +46,4 @@ int create_blog(fs::path basedir, fs::path scriptdir) {
 
     return 0;
 }
+

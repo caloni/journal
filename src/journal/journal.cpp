@@ -63,3 +63,51 @@ void clear_directory(const fs::path& dir) {
     }
 }
 
+void create_backup(const fs::path& basedir) {
+    fs::path backup_dir = basedir / ".." / "backup";
+    fs::create_directories(backup_dir);
+    fs::path temp_dir = fs::temp_directory_path() / "journal_backup";
+
+    if (fs::exists(temp_dir)) {
+        fs::remove_all(temp_dir);
+    }
+
+    fs::create_directories(temp_dir);
+
+    // Copy everything except .git
+    for (const auto& entry : fs::recursive_directory_iterator(basedir)) {
+        if (entry.path().string().find(".git") != std::string::npos) {
+            continue;
+        }
+        fs::path relative_path = fs::relative(entry.path(), basedir);
+        fs::path target_path = temp_dir / relative_path;
+
+        if (entry.is_directory()) {
+            fs::create_directories(target_path);
+        } else if (entry.is_regular_file()) {
+            fs::copy_file(entry.path(), target_path, fs::copy_options::overwrite_existing);
+        }
+    }
+
+    // Zip it (requires external zip command like 7z or zip)
+    std::string zip_cmd = "zip -r \"" + (backup_dir / "journal.zip").string() + "\" \"" + temp_dir.string() + "\"";
+    std::system(zip_cmd.c_str());
+
+    std::cout << "backup created at " << (backup_dir / "journal.zip") << "\n";
+}
+
+void run_script(const std::string& script_path) {
+    std::string cmd = "python \"" + script_path + "\"";
+    int result = std::system(cmd.c_str());
+    if (result != 0) {
+        std::cerr << "Script failed with code: " << result << "\n";
+    }
+}
+
+void git_commit_push(const fs::path& path, const std::string& message) {
+    fs::current_path(path);
+    std::system("git add --all");
+    std::string commit_cmd = "git commit -m \"" + message + "\"";
+    std::system(commit_cmd.c_str());
+    std::system("git push");
+}
