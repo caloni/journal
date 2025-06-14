@@ -4,5 +4,5 @@
 
 namespace fs = std::filesystem;
 
-int create_book(fs::path basedir, fs::path scriptdir);
+int create_book(fs::path basedir, fs::path scriptdir, bool includeprivate = true);
 

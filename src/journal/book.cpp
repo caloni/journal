@@ -2,7 +2,7 @@
 #include "book.h"
 #include <fstream>
 
-int create_book(fs::path basedir, fs::path scriptdir) {
+int create_book(fs::path basedir, fs::path scriptdir, bool includeprivate) {
     std::string build_version = run_command("git rev-parse --short HEAD");
     std::string current_date = current_datetime();
 
@@ -22,6 +22,7 @@ int create_book(fs::path basedir, fs::path scriptdir) {
     std::string meta_awk = (scriptdir / "MetadataParser.awk").string();
     std::string writer_awk = (scriptdir / "MetadataWriter.awk").string();
     std::string md_file = "journal.md";
+    std::string md_file_private = (fs::path("private") / "journal.md").string();
 
     std::string cmd = "gawk -f \"" + util_awk + "\" -f \"" + meta_awk + "\" -f \"" + writer_awk + "\" \"" + md_file + "\"";
     int ret = std::system(cmd.c_str());
@@ -40,6 +41,9 @@ int create_book(fs::path basedir, fs::path scriptdir) {
     std::string metadata_file = (basedir / "public" / "metadata.txt").string();
 
     cmd = "gawk -f \"" + util_awk + "\" -f \"" + parser_awk + "\" -f \"" + bookwriter_awk + "\" \"" + metadata_file + "\" \"" + md_file + "\"";
+    if (includeprivate) {
+        cmd += " \"" + md_file_private + "\"";
+    }
     ret = std::system(cmd.c_str());
     if (ret != 0) std::cerr << "txt2book.awk returned " << ret << '\n';
 
