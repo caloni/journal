@@ -1,13 +1,18 @@
 #pragma once
+#include "blog.h"
+#include "book.h"
+#include "config.h"
 #include <filesystem>
 #include <iostream>
 
 namespace fs = std::filesystem;
 
-void setup_encoding();
-std::string run_command(const std::string& cmd);
-std::string current_datetime();
-void clear_directory(const fs::path& dir);
-void create_backup(const fs::path& basedir);
-void run_script(const std::string& script_path);
-void git_commit_push(const fs::path& path, const std::string& message);
+class Journal {
+public:
+    Journal(Blog& blog, Book& book, Config& config) : m_blog(blog), m_book(book), m_config(config) {}
+    void run();
+private:
+    Blog& m_blog;
+    Book& m_book;
+    Config& m_config;
+};

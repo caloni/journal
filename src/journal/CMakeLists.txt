@@ -17,9 +17,12 @@ add_executable(journal
   blog.h
   book.cpp
   book.h
+  config.h
   journal.cpp
   journal.h
   main.cpp
+  util.h
+  util.cpp
 )
 
 install(

@@ -1,4 +1,5 @@
 #include "journal.h"
+#include "util.h"
 #include <fstream>
 #include <cstdlib>
 #include <cstdio>
@@ -10,104 +11,36 @@
 
 namespace fs = std::filesystem;
 
-void setup_encoding() {
-#ifdef _WIN32
-        (void)_putenv("LC_ALL=en_US.UTF-8");
-#else
-        setenv("LC_ALL", "en_US.UTF-8", 1);
-#endif
-}
+void Journal::run() {
+    Util::setup_encoding();
+    auto original_current_path = fs::current_path();
+    try {
+        std::cout << "basedir: " << m_config.get_basedir().string() << '\n';
+        fs::current_path(m_config.get_basedir());
 
-std::string run_command(const std::string& cmd) {
-    std::array<char, 128> buffer;
-    std::string result;
+        if (m_config.is_blog()) {
+            if (m_config.is_publish() && m_config.is_backup()) {
+                Util::create_backup(fs::current_path());
+            }
+            m_blog.create(m_config.get_basedir(), m_config.get_scriptdir());
 
-    FILE* pipe = _popen(cmd.c_str(), "r");
-    if (!pipe) throw std::runtime_error("popen() failed!");
-
-    while (fgets(buffer.data(), (int)buffer.size(), pipe) != nullptr)
-        result += buffer.data();
-
-    _pclose(pipe);
-    result.erase(result.find_last_not_of(" \n\r\t") + 1); // Trim
-    return result;
-}
-
-std::string current_datetime() {
-    auto now = std::chrono::system_clock::now();
-    std::time_t now_c = std::chrono::system_clock::to_time_t(now);
-    char buf[100];
-    tm ltime;
-    localtime_s(&ltime, &now_c);
-    std::strftime(buf, sizeof(buf), "%Y-%m-%dT%H:%M:%S%z", &ltime);
-    return std::string(buf);
-}
-
-void clear_directory(const fs::path& dir) {
-    for (const auto& entry : fs::directory_iterator(dir)) {
-        try {
-            auto name = entry.path().filename().string();
-
-            // Skip ".git" directory
-            if (name == ".git") continue;
-
-            if (fs::is_directory(entry)) {
-                fs::remove_all(entry);
-            } else {
-                fs::remove(entry);
+            if (m_config.is_git_commit_push_private_repo()) {
+                Util::git_commit_push(m_config.get_private_dir(), "Add journal changes");
             }
 
-        } catch (const std::exception& e) {
-            std::cerr << "Failed to delete " << entry.path() << ". Reason: " << e.what() << '\n';
+            if( m_config.is_publish() ) {
+                Util::git_commit_push(fs::current_path(), "Add journal changes");
+                Util::git_commit_push("public/blog", "Publish lastest changes");
+            }
         }
-    }
-}
-
-void create_backup(const fs::path& basedir) {
-    fs::path backup_dir = basedir / ".." / "backup";
-    fs::create_directories(backup_dir);
-    fs::path temp_dir = fs::temp_directory_path() / "journal_backup";
-
-    if (fs::exists(temp_dir)) {
-        fs::remove_all(temp_dir);
-    }
-
-    fs::create_directories(temp_dir);
-
-    // Copy everything except .git
-    for (const auto& entry : fs::recursive_directory_iterator(basedir)) {
-        if (entry.path().string().find(".git") != std::string::npos) {
-            continue;
+        if (m_config.is_book()) {
+            m_book.create(m_config.get_basedir(), m_config.get_scriptdir());
         }
-        fs::path relative_path = fs::relative(entry.path(), basedir);
-        fs::path target_path = temp_dir / relative_path;
 
-        if (entry.is_directory()) {
-            fs::create_directories(target_path);
-        } else if (entry.is_regular_file()) {
-            fs::copy_file(entry.path(), target_path, fs::copy_options::overwrite_existing);
-        }
     }
-
-    // Zip it (requires external zip command like 7z or zip)
-    std::string zip_cmd = "zip -r \"" + (backup_dir / "journal.zip").string() + "\" \"" + temp_dir.string() + "\"";
-    std::system(zip_cmd.c_str());
-
-    std::cout << "backup created at " << (backup_dir / "journal.zip") << "\n";
-}
-
-void run_script(const std::string& script_path) {
-    std::string cmd = "python \"" + script_path + "\"";
-    int result = std::system(cmd.c_str());
-    if (result != 0) {
-        std::cerr << "Script failed with code: " << result << "\n";
+    catch (const std::exception& ex) {
+        std::cerr << "Error: " << ex.what() << '\n';
     }
+    fs::current_path(original_current_path);
 }
 
-void git_commit_push(const fs::path& path, const std::string& message) {
-    fs::current_path(path);
-    std::system("git add --all");
-    std::string commit_cmd = "git commit -m \"" + message + "\"";
-    std::system(commit_cmd.c_str());
-    std::system("git push");
-}

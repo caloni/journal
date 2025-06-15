@@ -1,17 +1,18 @@
-#include "journal.h"
 #include "book.h"
+#include "journal.h"
+#include "util.h"
 #include <fstream>
 
-int create_book(fs::path basedir, fs::path scriptdir, bool includeprivate) {
-    std::string build_version = run_command("git rev-parse --short HEAD");
-    std::string current_date = current_datetime();
+int Book::create(fs::path basedir, fs::path scriptdir, bool includeprivate) {
+    std::string build_version = Util::run_command("git rev-parse --short HEAD");
+    std::string current_date = Util::current_datetime();
 
     fs::path book_public = basedir / "public" / "book";
     if (!fs::exists(book_public)) {
         fs::create_directories(book_public);
     }
 
-    clear_directory(book_public);
+    Util::clear_directory(book_public);
 
     fs::copy(basedir / "book", book_public, fs::copy_options::recursive | fs::copy_options::overwrite_existing);
     fs::copy(basedir / "img" / "book", book_public / "EPUB" / "img", fs::copy_options::recursive | fs::copy_options::overwrite_existing);
