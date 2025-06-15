@@ -1,4 +1,4 @@
-#include "util.h"
+#include "shell.h"
 #include <fstream>
 #include <cstdlib>
 #include <cstdio>
@@ -10,7 +10,7 @@
 
 namespace fs = std::filesystem;
 
-void Util::setup_encoding() {
+void Shell::setup_encoding() {
 #ifdef _WIN32
         (void)_putenv("LC_ALL=en_US.UTF-8");
 #else
@@ -18,7 +18,7 @@ void Util::setup_encoding() {
 #endif
 }
 
-std::string Util::run_command(const std::string& cmd) {
+std::string Shell::run_command(const std::string& cmd) {
     std::array<char, 128> buffer;
     std::string result;
 
@@ -33,7 +33,7 @@ std::string Util::run_command(const std::string& cmd) {
     return result;
 }
 
-std::string Util::current_datetime() {
+std::string Shell::current_datetime() {
     auto now = std::chrono::system_clock::now();
     std::time_t now_c = std::chrono::system_clock::to_time_t(now);
     char buf[100];
@@ -43,7 +43,7 @@ std::string Util::current_datetime() {
     return std::string(buf);
 }
 
-void Util::clear_directory(const fs::path& dir) {
+void Shell::clear_directory(const fs::path& dir) {
     for (const auto& entry : fs::directory_iterator(dir)) {
         try {
             auto name = entry.path().filename().string();
@@ -63,7 +63,7 @@ void Util::clear_directory(const fs::path& dir) {
     }
 }
 
-void Util::create_backup(const fs::path& basedir) {
+void Shell::create_backup(const fs::path& basedir) {
     fs::path backup_dir = basedir / ".." / "backup";
     fs::create_directories(backup_dir);
     fs::path temp_dir = fs::temp_directory_path() / "journal_backup";
@@ -96,7 +96,7 @@ void Util::create_backup(const fs::path& basedir) {
     std::cout << "backup created at " << (backup_dir / "journal.zip") << "\n";
 }
 
-void Util::run_script(const std::string& script_path) {
+void Shell::run_script(const std::string& script_path) {
     std::string cmd = "python \"" + script_path + "\"";
     int result = std::system(cmd.c_str());
     if (result != 0) {
@@ -104,11 +104,16 @@ void Util::run_script(const std::string& script_path) {
     }
 }
 
-void Util::git_commit_push(const fs::path& path, const std::string& message) {
-    fs::current_path(path);
+void Shell::git_commit_push(const fs::path& path, const std::string& message) {
+    current_path(path);
     std::system("git add --all");
     std::string commit_cmd = "git commit -m \"" + message + "\"";
     std::system(commit_cmd.c_str());
     std::system("git push");
+}
+
+void Shell::current_path(const fs::path& path)
+{
+    fs::current_path(path);
 }
 

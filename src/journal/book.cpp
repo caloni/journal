@@ -1,18 +1,18 @@
 #include "book.h"
 #include "journal.h"
-#include "util.h"
+#include "shell.h"
 #include <fstream>
 
 int Book::create(fs::path basedir, fs::path scriptdir, bool includeprivate) {
-    std::string build_version = Util::run_command("git rev-parse --short HEAD");
-    std::string current_date = Util::current_datetime();
+    std::string build_version = m_shell.run_command("git rev-parse --short HEAD");
+    std::string current_date = m_shell.current_datetime();
 
     fs::path book_public = basedir / "public" / "book";
     if (!fs::exists(book_public)) {
         fs::create_directories(book_public);
     }
 
-    Util::clear_directory(book_public);
+    m_shell.clear_directory(book_public);
 
     fs::copy(basedir / "book", book_public, fs::copy_options::recursive | fs::copy_options::overwrite_existing);
     fs::copy(basedir / "img" / "book", book_public / "EPUB" / "img", fs::copy_options::recursive | fs::copy_options::overwrite_existing);
@@ -49,11 +49,11 @@ int Book::create(fs::path basedir, fs::path scriptdir, bool includeprivate) {
     if (ret != 0) std::cerr << "txt2book.awk returned " << ret << '\n';
 
     // Pack the book
-    fs::current_path(book_public);
+    m_shell.current_path(book_public);
     cmd = "python repack.py";
     ret = std::system(cmd.c_str());
     if (ret != 0) std::cerr << "repack.py returned " << ret << '\n';
-    fs::current_path(basedir);
+    m_shell.current_path(basedir);
 
     std::cout << "book generated\n";
 

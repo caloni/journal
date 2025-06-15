@@ -1,18 +1,20 @@
 #pragma once
-#include "blog.h"
+#include "iblog.h"
 #include "book.h"
-#include "config.h"
+#include "iconfig.h"
+#include "ijournal.h"
 #include <filesystem>
 #include <iostream>
 
 namespace fs = std::filesystem;
 
-class Journal {
+class Journal : public IJournal {
 public:
-    Journal(Blog& blog, Book& book, Config& config) : m_blog(blog), m_book(book), m_config(config) {}
+    Journal(IBlog& blog, IBook& book, IConfig& config, IShell& shell) : m_blog(blog), m_book(book), m_config(config), m_shell(shell) {}
     void run();
 private:
-    Blog& m_blog;
-    Book& m_book;
-    Config& m_config;
+    IBlog& m_blog;
+    IBook& m_book;
+    IConfig& m_config;
+    IShell& m_shell;
 };
