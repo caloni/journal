@@ -9,7 +9,7 @@
 # - G_POSTS_IMAGES available image in posts
 # - G_POST_SLUG_BY_POSITION post slugs in appearance order
 # - G_SETTINGS global settings
-# - G_SLUGS_BY_TAGS_AND_DATES slugs indexed by post tags and date
+# - G_SLUGS_BY_TAGS_AND_DATES slugs indexed by post tags (a-z) and date (new-old)
 # - G_TITLE_TO_SLUG slugs indexed by post title
 # 
 # G_INDEX contains most of post information indexed by slug such as:
@@ -215,23 +215,23 @@ function MarkdownParser_CopyNewPost(    l_slug, l_tags, l_key, l_key2)
 }
 
 # Feed tags inside navigation
-function MarkdownParser_PopulateTagsNavigation(    l_prevInTag, l_key, l_key2, l_key3)
+function MarkdownParser_PopulateTagsNavigation(    l_nextInTag, l_key, l_key2, l_key3)
 {
   PROCINFO["sorted_in"] = "@ind_str_asc"
   for( l_key in G_SLUGS_BY_TAGS_AND_DATES )
   {
-    l_prevInTag = ""
+    l_nextInTag = ""
     PROCINFO["sorted_in"] = "@ind_num_desc"
     for( l_key2 in G_SLUGS_BY_TAGS_AND_DATES[l_key] )
     {
       for( l_key3 in G_SLUGS_BY_TAGS_AND_DATES[l_key][l_key2] )
       {
-        if( l_prevInTag != "" )
+        if( l_nextInTag != "" )
         {
-          G_INDEX[l_key3]["tag_nav"][l_key]["prev_in_tag"] = l_prevInTag
-          G_INDEX[l_prevInTag]["tag_nav"][l_key]["next_in_tag"] = l_key3
+          G_INDEX[l_key3]["tag_nav"][l_key]["next_in_tag"] = l_nextInTag
+          G_INDEX[l_nextInTag]["tag_nav"][l_key]["prev_in_tag"] = l_key3
         }
-        l_prevInTag = l_key3
+        l_nextInTag = l_key3
       }
     }
   }
