@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Journal": {
+      "commandName": "Project",
+      "commandLineArgs": "blog",
+      "workingDirectory": "C:\\Users\\caloni\\journal"
+    }
+  }
+}
