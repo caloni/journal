@@ -6,6 +6,7 @@
 # - G_CONVERT_LETTERS translation between post first letter and letter index
 # - G_LETTERS total index letters available
 # - G_TITLES_BY_TAGS post titles indexed by tags
+# - G_TITLES_BY_TAGS_AND_DATES post titles indexed by tags and dates (old-new)
 
 BEGIN {
   # Initialize global settings for blog configuration
@@ -111,6 +112,7 @@ function BookWriter_WritePost(a_slug,    l_fchapter, l_file, l_tags, l_postText,
   for( l_key in l_tags )
   {
     G_TITLES_BY_TAGS[l_tags[l_key]][G_INDEX[a_slug]["title"]] = G_INDEX[a_slug]["title"]
+    G_TITLES_BY_TAGS_AND_DATES[l_tags[l_key]][G_INDEX[a_slug]["date"]][G_INDEX[a_slug]["title"]] = G_INDEX[a_slug]["title"]
   }
 
   # first post in chapter
@@ -434,9 +436,10 @@ function BookWriter_FlushTocPage(    l_file, l_year, l_month, l_key, l_key2)
   print "</html>" > l_file
 }
 
-function BookWriter_FlushTagsPage(    l_key, l_file)
+function BookWriter_FlushTagsPage(    l_key, l_key2, l_key3, l_file)
 {
-  for( l_key in G_TITLES_BY_TAGS )
+  PROCINFO["sorted_in"] = "@ind_num_asc"
+  for( l_key in G_TITLES_BY_TAGS_AND_DATES )
   {
     l_file = "public\\book\\EPUB\\toc_" l_key ".xhtml"
     print "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" > l_file
@@ -450,9 +453,12 @@ function BookWriter_FlushTagsPage(    l_key, l_file)
     print "<div class=\"body\">" > l_file
     print "<h1 class=\"toc-title\">" l_key "</h1>" > l_file
     print "<ul>" > l_file
-    for( l_key2 in G_TITLES_BY_TAGS[l_key] )
+    for( l_key2 in G_TITLES_BY_TAGS_AND_DATES[l_key] )
     {
-      print "<li><a href=\"" BookWriter_SlugToId(G_INDEX[G_TITLE_TO_SLUG[l_key2]]["chapter"]) ".xhtml#" BookWriter_SlugToId(G_TITLE_TO_SLUG[l_key2]) "\">" Util_TextToHtml(l_key2) "</a></li>" > l_file
+      for( l_key3 in G_TITLES_BY_TAGS_AND_DATES[l_key][l_key2] )
+      {
+        print "<li><a href=\"" BookWriter_SlugToId(G_INDEX[G_TITLE_TO_SLUG[l_key3]]["chapter"]) ".xhtml#" BookWriter_SlugToId(G_TITLE_TO_SLUG[l_key3]) "\">" Util_TextToHtml(l_key3) "</a></li>" > l_file
+      }
     }
     print "</ul>" > l_file
     print "</div>" > l_file
@@ -560,4 +566,5 @@ END {
   split("", G_CONVERT_LETTERS)
   split("", G_LETTERS)
   split("", G_TITLES_BY_TAGS)
+  split("", G_TITLES_BY_TAGS_AND_DATES)
 }
