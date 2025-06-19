@@ -313,7 +313,7 @@ function BookWriter_FlushPackage(    l_key, l_file, l_totalImages)
   print "<dc:identifier id=\"p0000000000000\">0000000000000</dc:identifier>" > l_file
   print "<dc:source id=\"src-id\">urn:isbn:0000000000000</dc:source>" > l_file
   print "<dc:language>pt-BR</dc:language>" > l_file
-  print "<meta property=\"dcterms:modified\">" G_SETTINGS["date"] "</meta>" > l_file
+  print "<meta property=\"dcterms:modified\">" G_SETTINGS["date_utc"] "</meta>" > l_file
   print "</metadata>" > l_file
   print "<manifest>" > l_file
   print "<item id=\"cover\" href=\"cover.xhtml\" media-type=\"application/xhtml+xml\"/>" > l_file

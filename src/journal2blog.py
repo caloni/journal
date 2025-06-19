@@ -1,4 +1,4 @@
-import datetime
+from datetime import datetime, timezone
 import os
 import shutil
 import subprocess
@@ -9,7 +9,7 @@ os.chdir(dname)
 os.chdir('..')
 print('basedir:', os.getcwd())
 
-now = datetime.datetime.now()
+now = datetime.now()
 current_date = now.astimezone().strftime('%Y-%m-%dT%H:%M:%S%z')
 build_version = subprocess.check_output(['git', 'rev-parse', '--short', 'HEAD']).decode('utf-8').strip()
 old_dir = os.getcwd()

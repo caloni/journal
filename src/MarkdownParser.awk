@@ -239,6 +239,7 @@ function MarkdownParser_PopulateTagsNavigation(    l_nextInTag, l_key, l_key2, l
 
 # read previous metadata content
 $1 == "metadata_current_date" { G_SETTINGS["date"] = $2 ; print "current_date " $2 ; next }
+$1 == "metadata_current_date_utc" { G_SETTINGS["date_utc"] = $2 ; next }
 $1 == "metadata_build_version" { G_SETTINGS["build"] = $2 ; print "build_version " $2 ; next }
 $1 == "metadata_chapter" { G_INDEX_METADATA[$2]["chapter"] = $3 ; next }
 $1 == "metadata_tags" { next }

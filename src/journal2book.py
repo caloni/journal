@@ -1,4 +1,4 @@
-import datetime
+from datetime import datetime, timezone
 import os
 import shutil
 import subprocess
@@ -10,8 +10,10 @@ os.chdir(dname)
 os.chdir('..')
 print('basedir:', os.getcwd())
 
-now = datetime.datetime.now()
+now = datetime.now()
 current_date = now.astimezone().strftime('%Y-%m-%dT%H:%M:%S%z')
+now_utc = datetime.now(timezone.utc)
+current_date_utc = now_utc.strftime('%Y-%m-%dT%H:%M:%SZ')
 build_version = subprocess.check_output(['git', 'rev-parse', '--short', 'HEAD']).decode('utf-8').strip()
 old_dir = os.getcwd()
 
@@ -42,6 +44,7 @@ if private:
 process = subprocess.run(command, check=True)
 with open(r'public/metadata.txt', 'ab') as f:
     f.write(('metadata_current_date ' + current_date + '\n').encode('utf-8'))
+    f.write(('metadata_current_date_utc ' + current_date_utc + '\n').encode('utf-8'))
     f.write(('metadata_build_version ' + build_version + '\n').encode('utf-8'))
 command = ['gawk', '-f', os.path.join(dname, 'Util.awk'), '-f', os.path.join(dname, 'MarkdownParser.awk'), '-f', os.path.join(dname, 'BookWriter.awk'), r'public/metadata.txt', 'journal.md']
 if private:
