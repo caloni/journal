@@ -528,14 +528,14 @@ function BookWriter_FlushIndexPage(    l_key, l_letter, l_file)
   {
     print "<a href=\"#" BookWriter_SlugToId(l_key) "\">" l_key "</a>" > l_file
   }
-  print "<h3 id=\"toc_tags\" class=\"groupletter\">Tags</h3>\n<ul class=\"indexlevel1\">" > l_file
+  print "<h3 id=\"toc_tags\" class=\"groupletter\">Tags</h3>\n<div class=\"indexlevel1\">" > l_file
   for( l_key in G_TITLES_BY_TAGS )
   {
     tocxhtml = "public\\book\\EPUB\\toc_" l_key ".xhtml"
-    print "<li epub:type=\"index-entry\" class=\"indexhead1\" id=\"mh" G_SETTINGS["currentId"]++ "\">"\
-      "<a href=\"toc" BookWriter_SlugToId(l_key) ".xhtml\">" Util_TextToHtml(l_key) "</a></li>\n" > l_file
+    print "<span epub:type=\"index-entry\" class=\"indexhead1\" id=\"mh" G_SETTINGS["currentId"]++ "\">"\
+      "<a href=\"toc" BookWriter_SlugToId(l_key) ".xhtml\">" Util_TextToHtml(l_key) "</a></span>\n" > l_file
   }
-  print "</ul>" > l_file
+  print "</div>" > l_file
   for( l_key in G_LETTERS )
   {
     print G_LETTERS[l_key] > l_file
