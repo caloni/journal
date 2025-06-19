@@ -183,4 +183,87 @@ public class Shell : IShell
             }
         }
     }
+
+    public void CopyDirectory(string sourceDir, string targetDir)
+    {
+        Directory.CreateDirectory(targetDir);
+        foreach (var file in Directory.GetFiles(sourceDir, "*", SearchOption.AllDirectories))
+        {
+            var relativePath = Path.GetRelativePath(sourceDir, file);
+            var destPath = Path.Combine(targetDir, relativePath);
+            Directory.CreateDirectory(Path.GetDirectoryName(destPath));
+            File.Copy(file, destPath, true);
+        }
+    }
+    public string RunCommand(string command, string arguments)
+    {
+        var psi = new ProcessStartInfo
+        {
+            FileName = command,
+            Arguments = arguments,
+            RedirectStandardOutput = true,
+            UseShellExecute = false,
+            CreateNoWindow = true
+        };
+
+        using var process = Process.Start(psi);
+        string output = process.StandardOutput.ReadToEnd();
+        process.WaitForExit();
+        return output;
+    }
+
+    public void RunProcess(string command, string arguments)
+    {
+        var psi = new ProcessStartInfo
+        {
+            FileName = command,
+            Arguments = arguments,
+            RedirectStandardOutput = true,
+            RedirectStandardError = true,
+            UseShellExecute = false,
+            CreateNoWindow = true
+        };
+
+        using var process = Process.Start(psi);
+        string output = process.StandardOutput.ReadToEnd();
+        string error = process.StandardError.ReadToEnd();
+        process.WaitForExit();
+
+        if (!string.IsNullOrWhiteSpace(output))
+            Console.WriteLine(output);
+        if (process.ExitCode != 0)
+            Console.WriteLine($"{command} returned {process.ExitCode}\n{error}");
+    }
+
+    public void CleanDirectory(string dir)
+    {
+        string olddir = Directory.GetCurrentDirectory();
+        Directory.SetCurrentDirectory(dir);
+        foreach (var filename in Directory.GetFileSystemEntries("."))
+        {
+            var name = Path.GetFileName(filename);
+            try
+            {
+                if (File.Exists(name) || IsSymlink(name))
+                {
+                    File.Delete(name);
+                }
+                else if (Directory.Exists(name) && name != ".git")
+                {
+                    Directory.Delete(name, true);
+                }
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine($"Failed to delete {name}. Reason: {e.Message}");
+            }
+        }
+        Directory.SetCurrentDirectory(olddir);
+    }
+
+    static private bool IsSymlink(string path)
+    {
+        var fileInfo = new FileInfo(path);
+        return fileInfo.Attributes.HasFlag(FileAttributes.ReparsePoint);
+    }
 } 
