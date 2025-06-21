@@ -13,13 +13,20 @@ add_library(libjournal
   book.h
   config.cpp
   config.h
-  iblog.h
-  ibook.h
+  ioutput.h
   iconfig.h
-  ijournal.h
+  intercepting_parser.cpp
+  intercepting_parser.h
+  iparser.h
+  iparser_interceptor.h
   ishell.h
-  journal.cpp
-  journal.h
+  application.cpp
+  application.h
+  metadata_interceptor.cpp
+  metadata_interceptor.h
+  parser.cpp
+  parser.h
+  parser_context.h
   shell.cpp
   shell.h
 )

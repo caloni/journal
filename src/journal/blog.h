@@ -1,16 +1,14 @@
 #pragma once
-#include "iblog.h"
+#include "iconfig.h"
+#include "ioutput.h"
 #include "ishell.h"
-#include <filesystem>
-#include <iostream>
 
-namespace fs = std::filesystem;
-
-class Blog : public IBlog {
+class Blog : public IOutput {
 public:
-    Blog(IShell& shell) : m_shell(shell) {}
-    int create(fs::path basedir, fs::path scriptdir);
+    Blog(IConfig& config, IShell& shell) : m_config(config), m_shell(shell) {}
+    int generate();
 private:
+    IConfig& m_config;
     IShell& m_shell;
 };
 

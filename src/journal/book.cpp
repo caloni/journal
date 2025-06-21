@@ -1,9 +1,9 @@
 #include "book.h"
-#include "journal.h"
-#include "shell.h"
-#include <fstream>
 
-int Book::create(fs::path basedir, fs::path scriptdir, bool includeprivate) {
+int Book::generate() {
+    fs::path basedir = m_config.get_basedir();
+    fs::path scriptdir = m_config.get_scriptdir();
+    bool includeprivate = true; ///@todo configurable
     std::string build_version = m_shell.run_command("git rev-parse --short HEAD");
     std::string current_date = m_shell.current_datetime();
 
@@ -55,7 +55,7 @@ int Book::create(fs::path basedir, fs::path scriptdir, bool includeprivate) {
     if (ret != 0) std::cerr << "repack.py returned " << ret << '\n';
     m_shell.current_path(basedir);
 
-    std::cout << "book generated\n";
+    m_shell.cout() << "book generated\n";
 
     return 0;
 }

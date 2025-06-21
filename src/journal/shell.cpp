@@ -117,3 +117,12 @@ void Shell::current_path(const fs::path& path)
     fs::current_path(path);
 }
 
+std::ostream& Shell::cout()
+{
+    return std::cout;
+}
+
+std::ostream& Shell::cerr()
+{
+    return std::cerr;
+}

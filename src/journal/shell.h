@@ -15,4 +15,6 @@ public:
     void run_script(const std::string& script_path);
     void git_commit_push(const fs::path& path, const std::string& message);
     void current_path(const fs::path& path);
+    std::ostream& cout();
+    std::ostream& cerr();
 };

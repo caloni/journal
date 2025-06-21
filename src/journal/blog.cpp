@@ -1,9 +1,8 @@
 #include "blog.h"
-#include "journal.h"
-#include "shell.h"
-#include <fstream>
 
-int Blog::create(fs::path basedir, fs::path scriptdir) {
+int Blog::generate() {
+    fs::path basedir = m_config.get_basedir();
+    fs::path scriptdir = m_config.get_scriptdir();
     std::string build_version = m_shell.run_command("git rev-parse --short HEAD");
     std::string current_date = m_shell.current_datetime();
 
@@ -43,7 +42,7 @@ int Blog::create(fs::path basedir, fs::path scriptdir) {
     ret = std::system(cmd.c_str());
     if (ret != 0) std::cerr << "txt2blog.awk returned " << ret << '\n';
 
-    std::cout << "blog generated\n";
+    m_shell.cout() << "blog generated\n";
 
     return 0;
 }

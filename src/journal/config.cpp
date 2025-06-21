@@ -14,7 +14,6 @@ Config::ConfigMap Config::load_config_file(const std::string& filename) {
     ConfigMap config;
     std::ifstream file(filename);
     if (!file) {
-        std::cerr << "Warning: config file not found: " << filename << "\n";
         return config;
     }
 
@@ -96,13 +95,13 @@ bool Config::parse(int argc, char* argv[]) {
 }
 
 void Config::print_usage() {
-    std::cout << "Usage: journal command [options]\n";
-    std::cout << "Command:\n";
-    std::cout << "  blog             Build blog\n";
-    std::cout << "  book             Build book\n";
-    std::cout << "  both             Build both\n";
-    std::cout << "Options:\n";
-    std::cout << "  --publish          Publish content\n";
+    m_shell.cout() << "Usage: journal command [options]\n";
+    m_shell.cout() << "Command:\n";
+    m_shell.cout() << "  blog             Build blog\n";
+    m_shell.cout() << "  book             Build book\n";
+    m_shell.cout() << "  both             Build both\n";
+    m_shell.cout() << "Options:\n";
+    m_shell.cout() << "  --publish          Publish content\n";
 }
 
 bool Config::is_blog() {

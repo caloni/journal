@@ -1,16 +1,13 @@
 #pragma once
 #include "iconfig.h"
-#include <iostream>
-#include <fstream>
-#include <sstream>
+#include "ishell.h"
 #include <unordered_map>
-#include <string>
-#include <vector>
 
 namespace fs = std::filesystem;
 
 class Config : public IConfig {
 public:
+    Config(IShell& shell) : m_shell(shell) {}
     bool parse(int argc, char* argv[]);
     void print_usage();
     bool is_blog();
@@ -35,6 +32,7 @@ private:
     ParsedArgs parse_arguments(int argc, char* argv[]);
     ConfigMap merge_configs(const ConfigMap& base, const ConfigMap& overrides);
 
+    IShell& m_shell;
     std::string m_command;
     ConfigMap m_options;
 };

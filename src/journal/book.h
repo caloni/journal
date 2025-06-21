@@ -1,16 +1,16 @@
 #pragma once
-#include "ibook.h"
+#include "iconfig.h"
+#include "ioutput.h"
 #include "ishell.h"
-#include <filesystem>
-#include <iostream>
 
 namespace fs = std::filesystem;
 
-class Book : public IBook {
+class Book : public IOutput {
 public:
-    Book(IShell& shell) : m_shell(shell) {}
-    int create(fs::path basedir, fs::path scriptdir, bool includeprivate = true);
+    Book(IConfig& config, IShell& shell) : m_config(config), m_shell(shell) {}
+    int generate();
 private:
+    IConfig& m_config;
     IShell& m_shell;
 };
 

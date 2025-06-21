@@ -15,5 +15,7 @@ public:
     virtual void run_script(const std::string& script_path) = 0;
     virtual void git_commit_push(const fs::path& path, const std::string& message) = 0;
     virtual void current_path(const fs::path& path) = 0;
+    virtual std::ostream& cout() = 0;
+    virtual std::ostream& cerr() = 0;
 };
 
