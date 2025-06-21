@@ -5,8 +5,7 @@
 using namespace fakeit;
 
 TEST_CASE("Invalid") {
-    Mock<IShell> shellMock;
-    Config config(shellMock.get());
+    Config config("test");
 
     char* argv[] = { (char*)"program", (char*)"-invalid" };
     int argc = sizeof(argv) / sizeof(argv[0]);
@@ -17,8 +16,7 @@ TEST_CASE("Invalid") {
 }
 
 TEST_CASE("Blog") {
-    Mock<IShell> shellMock;
-    Config config(shellMock.get());
+    Config config("test");
 
     char* argv[] = { (char*)"program", (char*)"blog" };
     int argc = sizeof(argv) / sizeof(argv[0]);
@@ -31,8 +29,7 @@ TEST_CASE("Blog") {
 }
 
 TEST_CASE("Book") {
-    Mock<IShell> shellMock;
-    Config config(shellMock.get());
+    Config config("test");
 
     char* argv[] = { (char*)"program", (char*)"book" };
     int argc = sizeof(argv) / sizeof(argv[0]);
@@ -45,8 +42,7 @@ TEST_CASE("Book") {
 }
 
 TEST_CASE("Both") {
-    Mock<IShell> shellMock;
-    Config config(shellMock.get());
+    Config config("test");
 
     char* argv[] = { (char*)"program", (char*)"both" };
     int argc = sizeof(argv) / sizeof(argv[0]);

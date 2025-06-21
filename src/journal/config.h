@@ -7,9 +7,9 @@ namespace fs = std::filesystem;
 
 class Config : public IConfig {
 public:
-    Config(IShell& shell) : m_shell(shell) {}
+    Config(const char* version) : m_version(version) {}
     bool parse(int argc, char* argv[]);
-    void print_usage();
+    std::string usage();
     bool is_blog();
     bool is_book();
     bool is_publish();
@@ -32,7 +32,7 @@ private:
     ParsedArgs parse_arguments(int argc, char* argv[]);
     ConfigMap merge_configs(const ConfigMap& base, const ConfigMap& overrides);
 
-    IShell& m_shell;
+    const char* m_version;
     std::string m_command;
     ConfigMap m_options;
 };

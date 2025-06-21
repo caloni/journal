@@ -94,14 +94,16 @@ bool Config::parse(int argc, char* argv[]) {
     return is_blog() || is_book();
 }
 
-void Config::print_usage() {
-    m_shell.cout() << "Usage: journal command [options]\n";
-    m_shell.cout() << "Command:\n";
-    m_shell.cout() << "  blog             Build blog\n";
-    m_shell.cout() << "  book             Build book\n";
-    m_shell.cout() << "  both             Build both\n";
-    m_shell.cout() << "Options:\n";
-    m_shell.cout() << "  --publish          Publish content\n";
+std::string Config::usage() {
+    std::string usage = R"(Usage: journal command [options]
+Command:
+  blog             Build blog
+  book             Build book
+  both             Build both
+Options:
+  --publish          Publish content)";
+
+    return std::string("Journal v. ") + m_version + "\n" + usage;
 }
 
 bool Config::is_blog() {

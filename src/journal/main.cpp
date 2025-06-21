@@ -5,13 +5,14 @@
 #include "shell.h"
 #include <filesystem>
 #include <fstream>
+#include <string>
 
 int main(int argc, char*argv[]) {
     try {
         Shell shell;
-        Config config(shell);
+        Config config(__DATE__ " " __TIME__);
         if (!config.parse(argc, argv)) {
-            config.print_usage();
+            shell.cout() << config.usage() << std::endl;
             return 1;
         }
         Blog blog(config, shell);

@@ -1,5 +1,6 @@
 #pragma once
 #include <fstream>
+#include <string>
 
 namespace fs = std::filesystem;
 
@@ -7,7 +8,7 @@ class IConfig {
 public:
     virtual ~IConfig() = default;
     virtual bool parse(int argc, char* argv[]) = 0;
-    virtual void print_usage() = 0;
+    virtual std::string usage() = 0;
     virtual bool is_blog() = 0;
     virtual bool is_book() = 0;
     virtual bool is_publish() = 0;
