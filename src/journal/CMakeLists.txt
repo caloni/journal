@@ -7,28 +7,17 @@ project(journal
   LANGUAGES CXX)
 
 add_library(libjournal
-  blog.cpp
-  blog.h
-  book.cpp
-  book.h
-  config.cpp
-  config.h
-  ioutput.h
-  iconfig.h
-  intercepting_parser.cpp
-  intercepting_parser.h
-  iparser.h
-  iparser_interceptor.h
-  ishell.h
   application.cpp
   application.h
+  blog_generator.cpp
+  book_generator.cpp
+  composite_generator.cpp
+  config.cpp
+  intercepting_parser.cpp
+  journal.h
+  markdown_parser.cpp
   metadata_interceptor.cpp
-  metadata_interceptor.h
-  parser.cpp
-  parser.h
-  parser_context.h
   shell.cpp
-  shell.h
 )
 
 add_executable(journal

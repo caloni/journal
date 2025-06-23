@@ -1,18 +1,32 @@
-#include "book.h"
+#include "journal.h"
+#include <fstream>
 
-int Book::generate() {
-    fs::path basedir = m_config.get_basedir();
-    fs::path scriptdir = m_config.get_scriptdir();
+class BookGenerator : public IGenerator {
+public:
+    BookGenerator(IConfig* config, IShell* shell) : m_config(config), m_shell(shell) {}
+    int generate();
+private:
+    IConfig* m_config;
+    IShell* m_shell;
+};
+
+IGenerator* create_book_generator(IConfig* config, IShell* shell) {
+    return new BookGenerator(config, shell);
+}
+
+int BookGenerator::generate() {
+    fs::path basedir = m_config->get_basedir();
+    fs::path scriptdir = m_config->get_scriptdir();
     bool includeprivate = true; ///@todo configurable
-    std::string build_version = m_shell.run_command("git rev-parse --short HEAD");
-    std::string current_date = m_shell.current_datetime();
+    std::string build_version = m_shell->run_command("git rev-parse --short HEAD");
+    std::string current_date = m_shell->current_datetime();
 
     fs::path book_public = basedir / "public" / "book";
     if (!fs::exists(book_public)) {
         fs::create_directories(book_public);
     }
 
-    m_shell.clear_directory(book_public);
+    m_shell->clear_directory(book_public);
 
     fs::copy(basedir / "book", book_public, fs::copy_options::recursive | fs::copy_options::overwrite_existing);
     fs::copy(basedir / "img" / "book", book_public / "EPUB" / "img", fs::copy_options::recursive | fs::copy_options::overwrite_existing);
@@ -49,13 +63,13 @@ int Book::generate() {
     if (ret != 0) std::cerr << "txt2book.awk returned " << ret << '\n';
 
     // Pack the book
-    m_shell.current_path(book_public);
+    m_shell->current_path(book_public);
     cmd = "python repack.py";
     ret = std::system(cmd.c_str());
     if (ret != 0) std::cerr << "repack.py returned " << ret << '\n';
-    m_shell.current_path(basedir);
+    m_shell->current_path(basedir);
 
-    m_shell.cout() << "book generated\n";
+    m_shell->cout() << "book generated\n";
 
     return 0;
 }

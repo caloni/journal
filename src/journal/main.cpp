@@ -1,23 +1,16 @@
-#include "blog.h"
-#include "book.h"
-#include "config.h"
 #include "application.h"
-#include "shell.h"
-#include <filesystem>
-#include <fstream>
-#include <string>
+#include <memory>
 
 int main(int argc, char*argv[]) {
     try {
-        Shell shell;
-        Config config(__DATE__ " " __TIME__);
-        if (!config.parse(argc, argv)) {
-            shell.cout() << config.usage() << std::endl;
+        std::unique_ptr<IConfig> config(create_config());
+        std::unique_ptr<IShell> shell(create_shell());
+        if (!config->parse(argc, argv)) {
+            shell->cout() << config->usage() << std::endl;
             return 1;
         }
-        Blog blog(config, shell);
-        Book book(config, shell);
-        Application application(blog, book, config, shell);
+        std::unique_ptr<IGenerator> generator(create_composite_generator(config.get(), shell.get()));
+        Application application(config.get(), shell.get(), generator.get());
         application.run();
     }
     catch (const std::exception& ex) {
