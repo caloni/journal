@@ -18,6 +18,7 @@ add_library(libjournal
   markdown_parser.cpp
   metadata_interceptor.cpp
   shell.cpp
+  README.md
 )
 
 add_executable(journal
