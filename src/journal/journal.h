@@ -1,10 +1,7 @@
 #pragma once
 #include <filesystem>
 #include <iostream>
-#include <memory>
 #include <string>
-#include <unordered_map>
-#include <vector>
 
 namespace fs = std::filesystem;
 
@@ -49,12 +46,6 @@ class IParser {
 public:
     virtual ~IParser() = default;
     virtual void parse_line(std::string line) = 0;
-};
-
-class ParserContext
-{
-public:
-    std::unordered_map<std::string, std::string> Metadata;
 };
 
 class IParserInterceptor {
