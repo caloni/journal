@@ -1,6 +1,6 @@
 #include "doctest.h"
 #include "fakeit.hpp"
-#include "..\application.h"
+#include "..\journal.h"
 #include <sstream>
 
 using namespace fakeit;

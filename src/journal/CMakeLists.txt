@@ -7,18 +7,9 @@ project(journal
   LANGUAGES CXX)
 
 add_library(libjournal
-  application.cpp
-  application.h
-  blog_generator.cpp
-  book_generator.cpp
-  composite_generator.cpp
-  config.cpp
-  intercepting_parser.cpp
-  journal.h
-  markdown_parser.cpp
-  metadata_interceptor.cpp
-  shell.cpp
   README.md
+  journal.cpp
+  journal.h
 )
 
 add_executable(journal

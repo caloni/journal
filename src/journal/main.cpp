@@ -1,4 +1,4 @@
-#include "application.h"
+#include "journal.h"
 #include <memory>
 
 int main(int argc, char*argv[]) {
@@ -10,8 +10,12 @@ int main(int argc, char*argv[]) {
             return 1;
         }
         std::unique_ptr<IGenerator> generator(create_composite_generator(config.get(), shell.get()));
-        Application application(config.get(), shell.get(), generator.get());
-        application.run();
+        shell->setup_encoding();
+        auto original_current_path = fs::current_path();
+        shell->cout() << "basedir: " << config->get_basedir().string() << '\n';
+        shell->current_path(config->get_basedir());
+        generator->generate();
+        shell->current_path(original_current_path);
     }
     catch (const std::exception& ex) {
         std::cerr << "Error: " << ex.what() << '\n';

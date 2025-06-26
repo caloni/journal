@@ -36,12 +36,6 @@ public:
     virtual std::ostream& cerr() = 0;
 };
 
-class IGenerator {
-public:
-    virtual ~IGenerator() = default;
-    virtual int generate() = 0;
-};
-
 class IParser {
 public:
     virtual ~IParser() = default;
@@ -52,6 +46,12 @@ class IParserInterceptor {
 public:
     virtual ~IParserInterceptor() = default;
     virtual void intercept(std::string& line) = 0;
+};
+
+class IGenerator {
+public:
+    virtual ~IGenerator() = default;
+    virtual int generate() = 0;
 };
 
 IConfig* create_config(const char* version = __DATE__ " " __TIME__);
