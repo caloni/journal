@@ -10,6 +10,8 @@ add_library(libjournal
   README.md
   journal.cpp
   journal.h
+  underworld.cpp
+  underworld.h
 )
 
 add_executable(journal

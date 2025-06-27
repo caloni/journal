@@ -6,6 +6,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED True)
 add_executable(testjournal
   test_application.cpp
   test_config.cpp
+  test_journal.cpp
   test_main.cpp
 )
 target_link_libraries(testjournal PRIVATE libjournal)

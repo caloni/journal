@@ -1,11 +1,14 @@
-#include "journal.h"
+#include "underworld.h"
 #include <memory>
 
-int main(int argc, char*argv[]) {
-    try {
+int main(int argc, char*argv[])
+{
+    try
+    {
         std::unique_ptr<IConfig> config(create_config());
         std::unique_ptr<IShell> shell(create_shell());
-        if (!config->parse(argc, argv)) {
+        if (!config->parse(argc, argv))
+        {
             shell->cout() << config->usage() << std::endl;
             return 1;
         }
@@ -17,7 +20,8 @@ int main(int argc, char*argv[]) {
         generator->generate();
         shell->current_path(original_current_path);
     }
-    catch (const std::exception& ex) {
+    catch (const std::exception& ex)
+    {
         std::cerr << "Error: " << ex.what() << '\n';
         return 1;
     }
