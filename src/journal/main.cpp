@@ -1,29 +1,80 @@
-#include "underworld.h"
-#include <memory>
+﻿#include "journal.h"
+#include <cmark.h>
+#include <parser.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <map>
+#include <string>
+#include <vector>
 
-int main(int argc, char*argv[])
+#define MAX_LINE_LEN 4096
+
+int main(int argc, char *argv[])
 {
-    try
+    FILE* fp = fopen("journal.md", "r");
+    if (!fp)
     {
-        std::unique_ptr<IConfig> config(create_config());
-        std::unique_ptr<IShell> shell(create_shell());
-        if (!config->parse(argc, argv))
+        perror("fopen");
+        return EXIT_FAILURE;
+    }
+
+    std::map<std::string, cmark_node*> postsContentBySlug;
+
+    char buf[MAX_LINE_LEN];
+    cmark_parser* docParser = cmark_parser_new(CMARK_OPT_DEFAULT);
+    cmark_parser* postParser = nullptr;
+    Journal journal;
+    JournalEntry entry;
+    while (fgets(buf, sizeof buf, fp))
+    {
+        size_t len = strlen(buf);
+        cmark_parser_feed(docParser, buf, len);
+        if (docParser->current->type == CMARK_NODE_HEADING && docParser->current->as.heading.level == 1)
         {
-            shell->cout() << config->usage() << std::endl;
-            return 1;
+            if( postParser )
+            {
+                postsContentBySlug[entry.get_slug()] = cmark_parser_finish(postParser);
+                cmark_parser_free(postParser);
+                journal.add_entry(entry);
+                entry = JournalEntry();
+            }
+            postParser = cmark_parser_new(CMARK_OPT_DEFAULT);
+            entry.set_title_and_slug(buf);
         }
-        std::unique_ptr<IGenerator> generator(create_composite_generator(config.get(), shell.get()));
-        shell->setup_encoding();
-        auto original_current_path = fs::current_path();
-        shell->cout() << "basedir: " << config->get_basedir().string() << '\n';
-        shell->current_path(config->get_basedir());
-        generator->generate();
-        shell->current_path(original_current_path);
+        else
+        {
+            cmark_parser_feed(postParser, buf, len);
+        }
     }
-    catch (const std::exception& ex)
+    if (postParser)
     {
-        std::cerr << "Error: " << ex.what() << '\n';
-        return 1;
+        postsContentBySlug[entry.get_slug()] = cmark_parser_finish(postParser);
+        cmark_parser_free(postParser);
+        journal.add_entry(entry);
+        entry = JournalEntry();
     }
-    return 0;
+
+    if (ferror(fp))
+    {
+        perror("fgets or docParser");
+        fclose(fp);
+        return EXIT_FAILURE;
+    }
+
+    cmark_node* document = cmark_parser_finish(docParser);
+    for (auto& entry: journal.GetEntries() )
+    {
+        char* html = cmark_render_html(postsContentBySlug[entry.get_slug()], CMARK_OPT_DEFAULT);
+        fputs(entry.get_title().c_str(), stdout);
+        fputs("-----------------------------------------", stdout);
+        fputs(html, stdout);
+        fputs("-----------------------------------------", stdout);
+        //getchar();
+    }
+
+    cmark_parser_free(docParser);
+    fclose(fp);
+    return EXIT_SUCCESS;
 }
+

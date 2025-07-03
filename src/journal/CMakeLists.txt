@@ -17,7 +17,7 @@ add_library(libjournal
 add_executable(journal
   main.cpp
 )
-target_link_libraries(journal PRIVATE libjournal)
+target_link_libraries(journal PRIVATE libjournal cmark)
 
 enable_testing()
 add_subdirectory(tests)

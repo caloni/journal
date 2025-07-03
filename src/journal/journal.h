@@ -40,6 +40,7 @@ class Journal
 {
 public:
     void add_entry(const JournalEntry& entry);
+    const std::vector<JournalEntry>& GetEntries();
 
 private:
     std::vector<JournalEntry> m_entries;

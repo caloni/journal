@@ -1,4 +1,5 @@
 #include "journal.h"
+#include "journal.h"
 #include <algorithm>
 #include <cctype>
 #include <iostream>
@@ -98,17 +99,22 @@ void Journal::add_entry(const JournalEntry& entry)
     m_entries.push_back(entry);
 }
 
+const std::vector<JournalEntry>& Journal::GetEntries()
+{
+    return m_entries;
+}
+
 std::string JournalEntry::slugify(const std::string& input)
 {
     std::string result;
     for (char c : input)
     {
-        char norm = normalize_char(c);
+        unsigned char norm = static_cast<unsigned char>(normalize_char(c));
         if (std::isalnum(norm))
         {
             result += norm;
         }
-        else if (std::isspace(c) || c == '-')
+        else if (std::isspace(norm) || norm == '-')
         {
             result += '_';
         }
