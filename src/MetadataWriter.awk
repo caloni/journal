@@ -6,12 +6,15 @@ function MetadataWriter_Flush(    l_slug, l_tag, l_tags)
   {
     print "metadata_chapter", l_slug, G_METADATA["chaptersBySlug"][l_slug] > G_METADATA["output"]
   }
-  for( l_tag in G_METADATA["tags"] )
+  if( "tags" in G_METADATA )
   {
-    l_tags = l_tags " " l_tag
+    for( l_tag in G_METADATA["tags"] )
+    {
+      l_tags = l_tags " " l_tag
+    }
+    print "tags:", l_tags
+      print "metadata_tags", l_tags > G_METADATA["output"]
   }
-  print "tags:", l_tags
-  print "metadata_tags", l_tags > G_METADATA["output"]
 }
 
 # Flushes all captured metadata from posts.

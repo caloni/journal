@@ -55,7 +55,6 @@ function MetadataParser_CopyNewPost(    l_slug, l_chapter)
     print "warning: slug", l_slug, "duplicated in", G_INDEX[l_slug]["date"], "and", G_NEW_POST["date"]
   }
   G_INDEX[l_slug]["date"] = G_NEW_POST["date"]
-  G_INDEX[l_slug]["link"] = link
   G_METADATA["chaptersBySlug"][l_slug] = l_chapter
   split("", G_NEW_POST)
 }
@@ -84,7 +83,33 @@ G_CONTENT_STATE["```"] {
 }
 
 # if it is a custom field
-/^\[[^]]+\]:/ {
+/^[a-z_]+: / {
+  if( match($0, /^([a-z_]+): (.*)$/, l_array) )
+  {
+    if( l_array[1] == "date" || l_array[1] == "slug" )
+    {
+      G_NEW_POST[l_array[1]] = l_array[2]
+    }
+    else if( l_array[1] == "tags" )
+    {
+      split(l_array[2], tags)
+      for( i in tags )
+      {
+        G_METADATA["tags"][tags[i]] = tags[i]
+      }
+    }
+    # if a post has external link then it is about blogging
+    else if( l_array[1] == "link" )
+    {
+      G_METADATA["tags"]["blogging"] = "blogging"
+    }
+    split("", l_array)
+  }
+  next
+}
+
+# if it is a custom field (legacy)
+/^\[[a-z]+\]:# "/ {
   if( match($0, /^\[([^]]+)\]: *([^" ]+) *"?([^"]+)?"?/, l_array) )
   {
     if( l_array[1] == "date" || l_array[1] == "slug" )

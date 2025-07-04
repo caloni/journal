@@ -271,6 +271,33 @@ $1 == "metadata_tags" { next }
   }
 }
 
+# if it is a custom field
+/^[a-z]+: / && !G_CONTENT_STATE["```"] {
+  if( match($0, /^([a-z]+): (.+)/, l_array) )
+  {
+    # post link
+    if( l_array[1] == "link" )
+    {
+      G_NEW_POST[l_array[1]] = l_array[2]
+    }
+    # external link
+    else if( l_array[2] ~ /^(https?)|(ftp)|(mailto):/ )
+    {
+      # TODO remove html from the parsers (keep in the writers)
+      l_array[2] = "<a href=\"" l_array[2] "\">" l_array[1] "</a>"
+    }
+    else if( index(G_SETTINGS["post_header_fields"], l_array[1]) )
+    {
+      # populate "date", "slug", "tags"...
+      G_NEW_POST[l_array[1]] = l_array[2]
+    }
+    G_NEW_POST["links"][l_array[1]] = l_array[2]
+    # cleanup
+    split("", l_array)
+  }
+  next
+}
+
 # parse external link or header fields
 /^\[[^]]+\]:/ && !G_CONTENT_STATE["```"] {
   if( match($0, /^\[([^]]+)\]: *([^" ]+) *"?([^"]+)?"?/, l_array) )
@@ -284,6 +311,7 @@ $1 == "metadata_tags" { next }
     # valid header fields
     else if( index(G_SETTINGS["post_header_fields"], l_array[1]) )
     {
+      # populate "date", "slug", "tags", "link"...
       G_NEW_POST[l_array[1]] = l_array[3]
     }
     # invalid link because metadata from all posts were already read
