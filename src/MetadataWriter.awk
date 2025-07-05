@@ -2,6 +2,7 @@
 
 function MetadataWriter_Flush(    l_slug, l_tag, l_tags)
 {
+  PROCINFO["sorted_in"] = "@ind_str_asc"
   for( l_slug in G_METADATA["chaptersBySlug"] )
   {
     print "metadata_chapter", l_slug, G_METADATA["chaptersBySlug"][l_slug] > G_METADATA["output"]
