@@ -17,6 +17,9 @@ old_dir = os.getcwd()
 os.chdir(r'public/book')
 process = subprocess.run(['kindlegen', 'caloni.epub', '-o', r'caloni.mobi'], check=False)
 if os.path.exists(r'k:/documents'):
+  if os.path.exists(r'k:/documents/caloni.sdr'):
+    shutil.rmtree(r'k:/documents/caloni.sdr')
+    print('old clippings cleared (maybe restart the device to clear the cache)')
   shutil.copy(r'caloni.mobi', r'k:/documents/caloni.mobi')
   print('book published successfully')
 os.chdir(old_dir)
