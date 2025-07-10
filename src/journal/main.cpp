@@ -9,6 +9,7 @@
 #include <algorithm>
 #include <fstream>
 #include <iomanip>
+#include <iostream>
 #include <map>
 #include <set>
 #include <sstream>
@@ -85,205 +86,97 @@ role="navigation" aria-label="main navigation">
 )!!!!!";
 
 constexpr char const * TEMPLATE_PAGES_MONTHS_INDEX = R"!!!!!(
-<li><small><a href="[month].html#[slug]">[title]</a></small></li>
+<li><small><a href="[permalink]">[title]</a></small></li>
 )!!!!!";
 
 constexpr char const * TEMPLATE_PAGES_ENTRY_TAGS_HEADER = R"!!!!!(
-<a href="[previous_in_tag]">&lt;</a><a href="[tag].html">[tag]</a><a href="[next_in_tag]">&gt;</a> 
+<a href="[previous_in_tag_permalink]">&lt;</a><a href="[tag].html">[tag]</a><a href="[next_in_tag_permalink]">&gt;</a> 
 )!!!!!";
 
 constexpr char const * TEMPLATE_PAGES_MONTHS_CONTENT = R"!!!!!(
 <span id="[slug]" title="[title]"/></span>
 <section id="section_[slug]">
 <p class="title"><a href="[month].html#[slug]">#</a> [title]</p>
-<span class="title-heading">Caloni, [date] [tags_nav]<a href="[month].html"> <sup>[up]</sup></a> <a href="javascript:;" onclick="copy_clipboard('section#section_[slug]')"><sup>[copy]</sup></a></span>
+<span class="title-heading">Caloni, [date][tags_nav]<a href="[month].html"> <sup>[up]</sup></a> <a href="javascript:;" onclick="copy_clipboard('section#section_[slug]')"><sup>[copy]</sup></a></span>
 [content]
 </section><hr/>
 )!!!!!";
 
-struct JournalEntry
+class JournalEntry
 {
-    cmark_node* m_document; // cmark document node for the entry
-    std::string m_content; // content of the entry after rendered
-    std::string m_date; // date in YYYY-MM-DD format
-    std::string m_link; // external link for blogging
-    std::string m_month; // month in YYYY-MM format
-    std::string m_slug; // slugified title for URL
-    std::string m_title; // title of the entry
-    std::string m_tags; // tags for the entry
-    std::unordered_map<std::string, std::string> m_metadata; // metadata key-value pairs
-};
-
-using JournalEntryProperty = std::string JournalEntry::*;
-
-static const std::unordered_map<std::string, JournalEntryProperty> JournalEntryProperties = {
-{ "content", &JournalEntry::m_content },
-{ "date", &JournalEntry::m_date },
-{ "link", &JournalEntry::m_link },
-{ "slug", &JournalEntry::m_slug },
-{ "title", &JournalEntry::m_title },
-{ "tags", &JournalEntry::m_tags },
-};
-
-struct EntriesByDate
-{
-    size_t date; // date as YYYY-MM-DD converted to size_t
-    size_t entry; // index of the entry in the journal
-};
-
-struct EntriesByMonth
-{
-    size_t month; // month as YYYY-MM converted to size_t
-    size_t end; // index of the last+1 entry in the month
-};
-
-struct PagesMonths
-{
-    size_t month; // month as YYYY-MM converted to size_t
-    std::string html; // HTML content for the month page
-};
-
-struct Journal
-{
-    size_t AddEntry()
+public:
+    void SetTitle(const std::string& title)
     {
-        m_entries.push_back({ nullptr });
-        return m_entries.size() - 1;
+        m_title = title;
+        m_slug = Slugify(title);
     }
 
-    void Build()
+    void SetDate(const std::string& date)
     {
-        SortAndIndex();
-        BuildMonths();
-        //BuildIndex()
-        //BuildTags()
+        m_date = date;
     }
 
-    void SortAndIndex()
+    void SetLink(const std::string& link)
     {
-        if( m_entries.empty() ) return;
-        std::stable_sort(m_entriesByDate.begin(), m_entriesByDate.end(),
-                 [](const EntriesByDate& a, const EntriesByDate& b){ return a.date < b.date; });
-        m_entriesByMonth.push_back({ m_entriesByDate[0].date / 100, 1 });
-        for (size_t i = 1; i < m_entriesByDate.size(); ++i)
-        {
-            if (m_entriesByDate[i].date / 100 != m_entriesByMonth.back().month)
-            {
-                m_entriesByMonth.push_back({ m_entriesByDate[i].date / 100, i + 1 });
-            }
-            else
-            {
-                m_entriesByMonth.back().end = i + 1;
-            }
-        }
+        m_link = link;
     }
 
-    std::string SubstitutePlaceholders(std::string_view tmpl, const std::unordered_map<std::string_view, std::string_view>& dict)
+    void SetSlug(const std::string& slug)
     {
-        std::string result;
-        result.reserve(tmpl.size());           // avoids reallocations
-
-        std::size_t pos = 0;
-        while (pos < tmpl.size())
-        {
-            auto open = tmpl.find('[', pos);
-            if (open == std::string_view::npos)
-            {   // no more markers
-                result.append(tmpl.substr(pos));
-                break;
-            }
-
-            result.append(tmpl.substr(pos, open - pos));  // literal chunk
-
-            auto close = tmpl.find(']', open + 1);
-            if (close == std::string_view::npos) {        // malformed ‘[’ with no ‘]’
-                result.append(tmpl.substr(open));
-                break;
-            }
-
-            auto key = tmpl.substr(open + 1, close - open - 1);
-            if (auto it = dict.find(key); it != dict.end())
-                result.append(it->second);                // substitute
-            else
-                result.append("[").append(key).append("]"); // leave untouched
-
-            pos = close + 1;
-        }
-        return result;
+        m_slug = slug;
     }
 
-
-    void BuildMonths()
+    void SetTags(const std::string& tags)
     {
-        if (m_entriesByMonth.empty()) return;
-
-        size_t entryByDate = 0;
-
-        for( size_t i = 0; i < m_entriesByMonth.size(); ++i )
-        {
-            std::string entries_index;
-            std::string entries_content;
-
-            while( entryByDate < m_entriesByMonth[i].end )
-            {
-                size_t entry = m_entriesByDate[entryByDate].entry;
-                char* html = cmark_render_html(GetEntryDocument(entry), CMARK_OPT_DEFAULT);
-                SetEntryProperty(entry, "content", html);
-                free(html);
-
-                std::unordered_map<std::string_view, std::string_view> vars;
-                for(auto & var: JournalEntryProperties)
-                {
-                    vars[var.first] = m_entries[entry].*(var.second);
-                }
-                vars["month"] = GetEntryProperty(entry, "month");
-                for (auto& meta : m_entries[entry].m_metadata)
-                {
-                    vars[meta.first] = meta.second;
-                }
-                std::string index = TEMPLATE_PAGES_MONTHS_INDEX;
-                auto out = SubstitutePlaceholders(index, vars);
-                entries_index += out;
-                std::string tags_nav = TEMPLATE_PAGES_ENTRY_TAGS_HEADER;
-                ///@todo format tag navigation for each tag in tags
-                vars["tags_nav"] = tags_nav;
-                std::string content = TEMPLATE_PAGES_MONTHS_CONTENT;
-                out = SubstitutePlaceholders(content, vars);
-                entries_content += out;
-
-                ++entryByDate;
-            }
-
-            auto lastEntry = m_entriesByDate[entryByDate-1].entry;
-            auto monthSold = GetEntryProperty(lastEntry, "month");
-            auto monthS = MonthFromMonthKey(m_entriesByMonth[i].month);
-            auto nextMonth = i + 1 == m_entriesByMonth.size() ? 0 : i + 1;
-            auto previousMonth = i == 0 ? m_entriesByMonth.size() - 1 : i - 1;
-            auto nextMonthS = MonthFromMonthKey(m_entriesByMonth[nextMonth].month);
-            auto previousMonthS = MonthFromMonthKey(m_entriesByMonth[previousMonth].month);;
-            std::string page = TEMPLATE_PAGES_MONTHS;
-            std::unordered_map<std::string_view, std::string_view> vars{
-                { "index",  entries_index },
-                { "content", entries_content },
-                { "month", monthS },
-                { "next_month", nextMonthS },
-                { "previous_month", previousMonthS },
-            };
-            auto out = SubstitutePlaceholders(page, vars);
-            m_pagesMonths.push_back({ m_entriesByMonth[i].month, out });
-            std::ofstream ofs("public/blog/" + monthS + ".html", std::ios::binary);
-            if( ofs )
-            {
-                ofs.write(out.c_str(), out.size());
-            }
-        }
+        m_tags = tags;
     }
 
-    size_t EntryCount() const
+    void SetContent(const std::string& content)
     {
-        return m_entries.size();
+        m_content = content;
     }
 
+    const std::string& GetTitle() const
+    {
+        return m_title;
+    }
+
+    const std::string& GetDate() const
+    {
+        return m_date;
+    }
+
+    const std::string& GetLink() const
+    {
+        return m_link;
+    }
+
+    const std::string& GetSlug() const
+    {
+        return m_slug;
+    }
+
+    const std::string& GetTags() const
+    {
+        return m_tags;
+    }
+
+    const std::string& GetContent() const
+    {
+        return m_content;
+    }
+
+    std::string GetMonth() const
+    {
+        return m_date.substr(0, 7); // YYYY-MM
+    }
+
+    std::string GetPermalink() const
+    {
+        return m_date.substr(0, 7) + std::string(".html#") + m_slug;
+    }
+
+private:
     static std::string Slugify(const std::string& input)
     {
         std::string result;
@@ -335,14 +228,245 @@ struct Journal
         return std::tolower(static_cast<unsigned char>(c));
     }
 
-    void SetEntryDocument(size_t entry, cmark_node* doc)
+    std::string m_title; // title of the entry
+    std::string m_date; // date in YYYY-MM-DD format
+    std::string m_link; // external link for blogging
+    std::string m_slug; // slugified title for URL
+    std::string m_tags; // tags for the entry
+    std::string m_content; // content of the entry after rendered
+};
+
+struct EntriesByDate
+{
+    size_t date; // date as YYYY-MM-DD converted to size_t
+    size_t entry; // index of the entry in the journal
+};
+
+struct EntriesByMonth
+{
+    size_t month; // month as YYYY-MM converted to size_t
+    size_t end; // index of the last+1 entry in the month
+};
+
+struct PagesMonths
+{
+    size_t month; // month as YYYY-MM converted to size_t
+    std::string html; // HTML content for the month page
+};
+
+struct EntriesByTag
+{
+    std::string tag; // tag name
+    size_t entry; // index of the entry in the journal
+    size_t next; // index of the next entry with the same tag
+    size_t prev; // index of the previous entry with the same tag
+};
+
+class Journal
+{
+public:
+    size_t AddEntry()
     {
-        m_entries[entry].m_document = doc;
+        m_entries.push_back(JournalEntry());
+        m_entriesTagsNavigation.push_back({});
+        return m_entries.size() - 1;
     }
 
-    cmark_node* GetEntryDocument(size_t entry) const
+    size_t EntryCount() const
     {
-        return m_entries[entry].m_document;
+        return m_entries.size();
+    }
+
+    void SetEntryTitle(size_t entry, const std::string& title)
+    {
+        if (entry >= m_entries.size()) return;
+        m_entries[entry].SetTitle(title);
+        m_entriesBySlug[m_entries[entry].GetSlug()] = entry;
+    }
+
+    void SetEntryDate(size_t entry, const std::string& date)
+    {
+        if (entry >= m_entries.size()) return;
+        m_entries[entry].SetDate(date);
+        m_entriesByDate.push_back({ MakeDateKey(date), entry });
+    }
+
+    void SetEntryLink(size_t entry, const std::string& link)
+    {
+        if (entry >= m_entries.size()) return;
+        m_entries[entry].SetLink(link);
+    }
+
+    void SetEntrySlug(size_t entry, const std::string& slug)
+    {
+        if (entry >= m_entries.size()) return;
+        m_entries[entry].SetSlug(slug);
+    }
+
+    void SetEntryTags(size_t entry, const std::string& tags)
+    {
+        if (entry >= m_entries.size()) return;
+        m_entries[entry].SetTags(tags);
+        SetEntryTagsNavigation(entry);
+    }
+
+    void SetEntryContent(size_t entry, const std::string& content)
+    {
+        if (entry >= m_entries.size()) return;
+        m_entries[entry].SetContent(content);
+    }
+
+    std::string GetEntryPermalink(const std::string& slug) const
+    {
+        auto it = m_entriesBySlug.find(slug);
+        if (it != m_entriesBySlug.end())
+        {
+            return m_entries[it->second].GetPermalink();
+        }
+        return {};
+    }
+
+    void Index()
+    {
+        if( m_entries.empty() || m_entriesByDate.empty() ) return;
+        std::stable_sort(m_entriesByDate.begin(), m_entriesByDate.end(),
+                 [](const EntriesByDate& a, const EntriesByDate& b){ return a.date < b.date; });
+        m_entriesByMonth.push_back({ m_entriesByDate[0].date / 100, 1 });
+        for (size_t i = 1; i < m_entriesByDate.size(); ++i)
+        {
+            if (m_entriesByDate[i].date / 100 != m_entriesByMonth.back().month)
+            {
+                m_entriesByMonth.push_back({ m_entriesByDate[i].date / 100, i + 1 });
+            }
+            else
+            {
+                m_entriesByMonth.back().end = i + 1;
+            }
+        }
+        for (auto& tags : m_entriesByTags)
+        {
+            std::stable_sort(tags.second.begin(), tags.second.end(),
+                [this](const std::shared_ptr<EntriesByTag>& a, const std::shared_ptr<EntriesByTag>& b)
+                { return m_entriesByDate[a->entry].date < m_entriesByDate[b->entry].date; });
+            int x = 0;
+            for (size_t i = 0; i < tags.second.size(); ++i)
+            {
+                tags.second[i]->prev = (i > 0) ? tags.second[i - 1]->entry : tags.second[tags.second.size() - 1]->entry;
+                tags.second[i]->next = (i + 1 < tags.second.size()) ? tags.second[i + 1]->entry : tags.second[0]->entry;
+            }
+            x = x + 1;
+        }
+    }
+
+    void Build()
+    {
+        if (m_entriesByMonth.empty()) return;
+
+        size_t entryByDate = 0;
+
+        for( size_t i = 0; i < m_entriesByMonth.size(); ++i )
+        {
+            std::string entries_index;
+            std::string entries_content;
+
+            while( entryByDate < m_entriesByMonth[i].end )
+            {
+                size_t entry = m_entriesByDate[entryByDate].entry;
+
+                std::unordered_map<std::string_view, std::string_view> vars;
+                vars["title"] = m_entries[entry].GetTitle(); // title of the entry
+                vars["date"] = m_entries[entry].GetDate(); // date in YYYY-MM-DD format
+                vars["link"] = m_entries[entry].GetLink(); // external link for blogging
+                vars["slug"] = m_entries[entry].GetSlug(); // slugified title for URL
+                vars["tags"] = m_entries[entry].GetTags(); // tags for the entry
+                vars["content"] = m_entries[entry].GetContent(); // content of the entry after rendered
+                std::string month = m_entries[entry].GetMonth(); // month in YYYY-MM format
+                vars["month"] = month;
+                std::string permalink = m_entries[entry].GetPermalink(); // permalink for the entry
+                vars["permalink"] = permalink;
+
+                std::string index = TEMPLATE_PAGES_MONTHS_INDEX;
+                auto out = SubstitutePlaceholders(index, vars);
+                entries_index += out;
+                std::string tags_nav_out;
+                for (auto& tag : m_entriesTagsNavigation[entry])
+                {
+                    std::string prevPermalink = m_entries[tag->prev].GetPermalink();
+                    std::string nextPermalink = m_entries[tag->next].GetPermalink();
+                    std::unordered_map<std::string_view, std::string_view> tag_vars{
+                        { "tag", tag->tag },
+                        { "previous_in_tag_permalink", prevPermalink },
+                        { "next_in_tag_permalink", nextPermalink },
+                    };
+                    std::string tags_nav = TEMPLATE_PAGES_ENTRY_TAGS_HEADER;
+                    out = SubstitutePlaceholders(tags_nav, tag_vars);
+                    tags_nav_out += out;
+                }
+                vars["tags_nav"] = tags_nav_out;
+                std::string content = TEMPLATE_PAGES_MONTHS_CONTENT;
+                out = SubstitutePlaceholders(content, vars);
+                entries_content += out;
+
+                ++entryByDate;
+            }
+
+            auto lastEntry = m_entriesByDate[entryByDate-1].entry;
+            auto monthS = MonthFromMonthKey(m_entriesByMonth[i].month);
+            auto nextMonth = i + 1 == m_entriesByMonth.size() ? 0 : i + 1;
+            auto previousMonth = i == 0 ? m_entriesByMonth.size() - 1 : i - 1;
+            auto nextMonthS = MonthFromMonthKey(m_entriesByMonth[nextMonth].month);
+            auto previousMonthS = MonthFromMonthKey(m_entriesByMonth[previousMonth].month);;
+            std::string page = TEMPLATE_PAGES_MONTHS;
+            std::unordered_map<std::string_view, std::string_view> vars{
+                { "index",  entries_index },
+                { "content", entries_content },
+                { "month", monthS },
+                { "next_month", nextMonthS },
+                { "previous_month", previousMonthS },
+            };
+            auto out = SubstitutePlaceholders(page, vars);
+            m_pagesMonths.push_back({ m_entriesByMonth[i].month, out });
+            std::ofstream ofs("public/blog/" + monthS + ".html", std::ios::binary);
+            if( ofs )
+            {
+                ofs.write(out.c_str(), out.size());
+            }
+        }
+    }
+
+    private:
+    std::string SubstitutePlaceholders(std::string_view tmpl, const std::unordered_map<std::string_view, std::string_view>& dict)
+    {
+        std::string result;
+        result.reserve(tmpl.size());           // avoids reallocations
+
+        std::size_t pos = 0;
+        while (pos < tmpl.size())
+        {
+            auto open = tmpl.find('[', pos);
+            if (open == std::string_view::npos)
+            {   // no more markers
+                result.append(tmpl.substr(pos));
+                break;
+            }
+
+            result.append(tmpl.substr(pos, open - pos));  // literal chunk
+
+            auto close = tmpl.find(']', open + 1);
+            if (close == std::string_view::npos) {        // malformed ‘[’ with no ‘]’
+                result.append(tmpl.substr(open));
+                break;
+            }
+
+            auto key = tmpl.substr(open + 1, close - open - 1);
+            if (auto it = dict.find(key); it != dict.end())
+                result.append(it->second);                // substitute
+            else
+                result.append("[").append(key).append("]"); // leave untouched
+
+            pos = close + 1;
+        }
+        return result;
     }
 
     /// Expect "YYYY-MM-DD" (10 characters)
@@ -365,67 +489,26 @@ struct Journal
         return os.str();
     }
 
-    const std::string& GetEntryProperty(size_t entry, const std::string& key)
-    {
-        auto it = JournalEntryProperties.find(key);
-
-        if (it == JournalEntryProperties.end())
-        {
-            return m_entries[entry].m_metadata[key];
-        }
-
-        return m_entries[entry].*(it->second);
-    }
-
     void SetEntryTagsNavigation(size_t entry)
     {
-        std::string str = GetEntryProperty(entry, "tags");
-        std::stringstream ss(str);
+        std::stringstream sstags(m_entries[entry].GetTags());
         std::string tag;
-        std::vector<std::string> tags;
 
-        while (ss >> tag)
+        while (sstags >> tag)
         {
-            tags.push_back(tag);
+            auto tagNav = std::make_shared<EntriesByTag>();
+            tagNav->tag = tag;
+            tagNav->entry = entry;
+            m_entriesTagsNavigation[entry].push_back(tagNav);
+            m_entriesByTags[tag].push_back(tagNav);
         }
     }
 
-    void SetEntryProperty(size_t entry, const std::string& key, const std::string& value)
-    {
-        auto it = JournalEntryProperties.find(key);
-
-        if (it == JournalEntryProperties.end())
-        {
-            m_entries[entry].m_metadata[key] = value;
-            return;
-        }
-
-        m_entries[entry].*(it->second) = value;
-
-        // special cases
-        if (key == "title")
-        {
-            auto slug = Slugify(value);
-            m_entries[entry].m_slug = slug;
-            m_entriesBySlug[slug] = entry;
-        }
-        else if (key == "slug")
-        {
-            m_entriesBySlug[value] = entry;
-        }
-        else if (key == "date")
-        {
-            m_entriesByDate.push_back({ MakeDateKey(value), entry });
-            m_entries[entry].m_metadata["month"] = value.substr(0, 7); // YYYY-MM
-        }
-        else if (key == "tags")
-        {
-            SetEntryTagsNavigation(entry);
-        }
-    }
     std::vector<JournalEntry> m_entries;
+    std::vector<std::vector<std::shared_ptr<EntriesByTag>>> m_entriesTagsNavigation;
     std::vector<EntriesByDate> m_entriesByDate;
     std::vector<EntriesByMonth> m_entriesByMonth;
+    std::unordered_map<std::string, std::vector<std::shared_ptr<EntriesByTag>>> m_entriesByTags;
     std::unordered_map<std::string, size_t> m_entriesBySlug;
     std::vector<PagesMonths> m_pagesMonths;
 };
@@ -462,21 +545,34 @@ static std::string_view trim(std::string_view sv)
 /// Parse “key: value” pairs separated by new‑lines and feed them to JournalEntry.
 void parse_kv_lines(std::string_view text, Journal& journal, size_t entry)
 {
+    typedef void (Journal::*SetEntryPropertyMethod)(size_t entry, const std::string& title);
+
+    const std::unordered_map<std::string, SetEntryPropertyMethod> JournalEntryProperties = {
+        { "title", &Journal::SetEntryTitle },
+        { "date", &Journal::SetEntryDate },
+        { "link", &Journal::SetEntryLink },
+        { "slug", &Journal::SetEntrySlug },
+        { "tags", &Journal::SetEntryTags }
+    };
+
     std::istringstream in{std::string{text}};  // getline needs a stream buffer
     std::string line;
 
     while (std::getline(in, line))
     {
         const std::size_t sep = line.find(':');
-        if (sep == std::string::npos)          // no ':' → skip
+        if (sep == std::string::npos) // no ':' → skip
             continue;
 
         std::string_view key = trim({line.data(), sep});
         std::string_view val = trim({line.data() + sep + 1, line.size() - sep - 1});
 
-        if (!key.empty())
+        auto it = JournalEntryProperties.find(std::string{ key });
+        if (it != JournalEntryProperties.end())
         {
-            journal.SetEntryProperty(entry, std::string{ key }, std::string{ val });
+            SetEntryPropertyMethod method = it->second;
+            (journal.*method)(entry, std::string{ val });
+            continue;
         }
     }
 }
@@ -490,19 +586,21 @@ int main()
     fclose(fp);
 
     Journal journal;
+    std::vector<cmark_node*> entriesDocument; // cmark document node for the journal entries
     cmark_node* cur = cmark_node_first_child(doc);
     size_t entry = -1;
 
+    // separate journal entries from total document
     while (cur)
     {
-        cmark_node* next = cmark_node_next(cur);   /* save before we maybe unlink */
+        cmark_node* next = cmark_node_next(cur); // save before we maybe unlink
 
         if (cmark_node_get_type(cur) == CMARK_NODE_HEADING && cmark_node_get_heading_level(cur) == 1)
         {
             entry = journal.AddEntry();
+            entriesDocument.push_back(cmark_node_new(CMARK_NODE_DOCUMENT));
             cmark_node* txt = cmark_node_first_child(cur);
-            journal.SetEntryDocument(entry, cmark_node_new(CMARK_NODE_DOCUMENT));
-            journal.SetEntryProperty(entry, "title", cmark_node_get_literal(txt));
+            journal.SetEntryTitle(entry, cmark_node_get_literal(txt));
 
             if ((cur = cmark_node_next(cur)) && cmark_node_get_type(cur) == CMARK_NODE_PARAGRAPH)
             {
@@ -523,16 +621,16 @@ int main()
         else if (journal.EntryCount())
         {
             cmark_node_unlink(cur);
-            cmark_node_append_child(journal.GetEntryDocument(entry), cur);
+            cmark_node_append_child(entriesDocument[entry], cur);
         }
 
         cur = next;
     }
 
-    ///@todo rewrite links and images in all entries
+    // adjust links and images
     for (size_t i = 0; i < journal.EntryCount(); ++i)
     {
-        cmark_iter* it = cmark_iter_new(journal.GetEntryDocument(i));
+        cmark_iter* it = cmark_iter_new(entriesDocument[i]);
         cmark_event_type ev;
         while ((ev = cmark_iter_next(it)) != CMARK_EVENT_DONE)
         {
@@ -543,11 +641,14 @@ int main()
             if (cmark_node_get_type(n) == CMARK_NODE_LINK)
             {
                 std::string dest = cmark_node_get_url(n);
-                auto it = journal.m_entriesBySlug.find(dest);
-                if( it != journal.m_entriesBySlug.end() )
+                std::string newDest = journal.GetEntryPermalink(dest);
+                if (!newDest.empty())
                 {
-                    std::string newdest = std::string(journal.GetEntryProperty(it->second, "date"), 0, 7) + std::string(".html#") + dest;
-                    cmark_node_set_url(n, newdest.c_str());
+                    cmark_node_set_url(n, newDest.c_str());
+                }
+                else
+                {
+                    /// @todo check what to do with links that do not match any entry
                 }
             }
             else if (cmark_node_get_type(n) == CMARK_NODE_IMAGE)
@@ -560,15 +661,15 @@ int main()
         cmark_iter_free(it);
     }
 
-    journal.Build();
-
-    /* sample on how to print the entries
-    for (size_t i = 0; i < journal.EntryCount(); ++i)
+    // render entries to HTML
+    for (size_t entry = 0; entry < journal.EntryCount(); ++entry)
     {
-        char* html = cmark_render_html(journal.GetEntryDocument(i), CMARK_OPT_DEFAULT);
-        printf("== %s ==\n%s\n\n", journal.GetEntryTitle(i).c_str(), html);
+        char* html = cmark_render_html(entriesDocument[entry], CMARK_OPT_DEFAULT);
+        journal.SetEntryContent(entry, html);
         free(html);
     }
-    */
+
+    journal.Index(); // mount indexes
+    journal.Build(); // build blog
 }
 
