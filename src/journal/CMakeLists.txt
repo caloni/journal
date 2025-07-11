@@ -6,20 +6,23 @@ set(CMAKE_CXX_STANDARD_REQUIRED True)
 project(journal
   LANGUAGES CXX)
 
-#add_library(libjournal
-  #README.md
-  #journal.cpp
-  #journal.h
+add_library(libjournal
+  README.md
+  converters.cpp
+  converters.h
+  entities.cpp
+  entities.h
   #underworld.cpp
   #underworld.h
-#)
+)
 
 add_executable(journal
   main.cpp
 )
 target_link_libraries(journal PRIVATE
-#libjournal
-cmark)
+libjournal
+cmark
+)
 
 enable_testing()
 #add_subdirectory(tests)
