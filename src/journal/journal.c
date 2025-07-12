@@ -1,4 +1,4 @@
-#include "journal.h"
+#if 0
 #include "journal.h"
 #include <algorithm>
 #include <cctype>
@@ -155,3 +155,4 @@ char JournalEntry::normalize_char(char c)
     return std::tolower(static_cast<unsigned char>(c));
 }
 
+#endif

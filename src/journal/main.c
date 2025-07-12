@@ -1,240 +1,208 @@
-﻿//#include "journal.h"
+﻿/*#include "journal.h"*/
 #include <cmark.h>
-
 #include <parser.h>
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
 
-#include <algorithm>
-#include <fstream>
-#include <iomanip>
-#include <iostream>
-#include <map>
-#include <set>
-#include <sstream>
-#include <string>
-#include <string_view>
-#include <unordered_map>
-#include <vector>
+#include <ctype.h> // isalnum, isspace, etc
 
-constexpr char const * TEMPLATE_PAGES_MONTHS = R"!!!!!(
-<!DOCTYPE html>
-<html lang="en-us" dir="ltr" itemscope itemtype="http://schema.org/Article">
-<head>
-<meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Blogue do Caloni</title>
-<meta name="author" content="Caloni" />
-<meta name="generator" content="https://github.com/caloni/journal">
-<meta property="og:title" content="Blogue do Caloni"/>
-<meta property="og:type" content="website"/>
-<meta property="og:url" content="http://www.caloni.com.br"/>
-<meta property="og:image" content="/img/about-brand.png"/>
-<meta property="og:description" content="Write for computers, people and food."/>
-<link href="/index.xml" rel="feed" type="application/rss+xml" title="Blogue do Caloni"/>
-<link rel="stylesheet" type="text/css" href="/css/custom.css"/>
-<link rel="stylesheet" type="text/css" href="/css/jquery-ui.css"/>
-<script src="/js/jquery-1.12.4.js"></script>
-<script src="/js/jquery-ui.js"></script>
-<script src="/js/copy_clipboard.js"></script>
-<script>
-var quick_search_posts = [ 
- ]; 
-</script>
-<script src="/js/quick_search.js"></script>
-<script src="/js/list.js"></script>
-<link rel="icon" href="/img/favicon.ico"/>
-</head>
-<body style="min-height:100vh;display:flex;flex-direction:column">
-<nav class="navbar has-shadow is-white"
-role="navigation" aria-label="main navigation">
-<div class="container">
-<div class="navbar-brand">
-&nbsp;
-<a class="navbar-item" href="months.html">
-<div class="is-4"><b>caloni::[month]</b></div>
-</a>
-</div>
-</div>
-</nav>
-<div class="container">
-<div class="column">
-<div style="min-height:56vh">
-<div style="padding-bottom: 1em;"></div>
-<ul style="list-style: none;">
-[index]
-</ul>
+static const char * TEMPLATE_PAGES_MONTHS = "<!DOCTYPE html> \
+<html lang=\"en-us\" dir=\"ltr\" itemscope itemtype=\"http://schema.org/Article\">\
+<head>\
+<meta charset=\"utf-8\" />\
+<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/>\
+<title>Blogue do Caloni</title>\
+<meta name=\"author\" content=\"Caloni\" />\
+<meta name=\"generator\" content=\"https://github.com/caloni/journal\">\
+<meta property=\"og:title\" content=\"Blogue do Caloni\"/>\
+<meta property=\"og:type\" content=\"website\"/>\
+<meta property=\"og:url\" content=\"http://www.caloni.com.br\"/>\
+<meta property=\"og:image\" content=\"/img/about-brand.png\"/>\
+<meta property=\"og:description\" content=\"Write for computers, people and food.\"/>\
+<link href=\"/index.xml\" rel=\"feed\" type=\"application/rss+xml\" title=\"Blogue do Caloni\"/>\
+<link rel=\"stylesheet\" type=\"text/css\" href=\"/css/custom.css\"/>\
+<link rel=\"stylesheet\" type=\"text/css\" href=\"/css/jquery-ui.css\"/>\
+<script src=\"/js/jquery-1.12.4.js\"></script>\
+<script src=\"/js/jquery-ui.js\"></script>\
+<script src=\"/js/copy_clipboard.js\"></script>\
+<script>\
+var quick_search_posts = [ \
+ ]; \
+</script>\
+<script src=\"/js/quick_search.js\"></script>\
+<script src=\"/js/list.js\"></script>\
+<link rel=\"icon\" href=\"/img/favicon.ico\"/>\
+</head>\
+<body style=\"min-height:100vh;display:flex;flex-direction:column\">\
+<nav class=\"navbar has-shadow is-white\"\
+role=\"navigation\" aria-label=\"main navigation\">\
+<div class=\"container\">\
+<div class=\"navbar-brand\">\
+&nbsp;\
+<a class=\"navbar-item\" href=\"months.html\">\
+<div class=\"is-4\"><b>caloni::[month]</b></div>\
+</a>\
+</div>\
+</div>\
+</nav>\
+<div class=\"container\">\
+<div class=\"column\">\
+<div style=\"min-height:56vh\">\
+<div style=\"padding-bottom: 1em;\"></div>\
+<ul style=\"list-style: none;\">\
+[index]\
+</ul>\
+\
+[content]\
+\
+<span style=\"float: left;\">\
+ <a href=\"[previous_month].html\">&lt; </a>\
+ <a href=\"months.html\">months</a>\
+ <a href=\"[next_month].html\"> &gt;</a>\
+</span>\
+</div>\
+</div>\
+</section>\
+<footer class=\"footer\">\
+<div class=\"container\">\
+</div>\
+<div class=\"intentionally-blank\"></div>\
+</footer>\
+</body>\
+</html>";
 
-[content]
+static const char* TEMPLATE_PAGES_MONTHS_INDEX = "<li><small><a href=\"[permalink]\">[title]</a></small></li>";
 
-<span style="float: left;">
- <a href="[previous_month].html">&lt; </a>
- <a href="months.html">months</a>
- <a href="[next_month].html"> &gt;</a>
-</span>
-</div>
-</div>
-</section>
-<footer class="footer">
-<div class="container">
-</div>
-<div class="intentionally-blank"></div>
-</footer>
-</body>
-</html>
-)!!!!!";
+static char const* TEMPLATE_PAGES_ENTRY_TAGS_HEADER = "<a href=\"[previous_in_tag_permalink]\">&lt;</a>\
+<a href=\"[tag].html\">[tag]</a>\
+<a href=\"[next_in_tag_permalink]\">&gt;</a>";
 
-constexpr char const * TEMPLATE_PAGES_MONTHS_INDEX = R"!!!!!(
-<li><small><a href="[permalink]">[title]</a></small></li>
-)!!!!!";
+static const char * TEMPLATE_PAGES_MONTHS_CONTENT = "<span id=\"[slug]\" title=\"[title]\"/></span>\
+<section id=\"section_[slug]\">\
+<p class=\"title\"><a href=\"[month].html#[slug]\">#</a> [title]</p>\
+<span class=\"title-heading\">\
+Caloni, [date]\
+[tags_nav]\
+<a href=\"[month].html\"> <sup>[up]</sup></a> \
+<a href=\"javascript:;\" onclick=\"copy_clipboard('section#section_[slug]')\"><sup>[copy]</sup></a>\
+</span>\
+[content]\
+</section><hr/>";
 
-constexpr char const * TEMPLATE_PAGES_ENTRY_TAGS_HEADER = R"!!!!!(
-<a href="[previous_in_tag_permalink]">&lt;</a><a href="[tag].html">[tag]</a><a href="[next_in_tag_permalink]">&gt;</a> 
-)!!!!!";
+static char normalize_char(char c) {
+    static const char* unnormalize_chars = "áàâäãéèêëíìîïóòôöõúùûüçñÁÀÂÄÃÉÈÊËÍÌÎÏÓÒÔÖÕÚÙÛÜÇÑ";
+    static const char* normalize_chars = "aaaaaeeeeiiiiooooouuuucnaaaaaeeeeiiiiooooouuuucn";
+    const char* uc = strchr(unnormalize_chars, c);
 
-constexpr char const * TEMPLATE_PAGES_MONTHS_CONTENT = R"!!!!!(
-<span id="[slug]" title="[title]"/></span>
-<section id="section_[slug]">
-<p class="title"><a href="[month].html#[slug]">#</a> [title]</p>
-<span class="title-heading">Caloni, [date][tags_nav]<a href="[month].html"> <sup>[up]</sup></a> <a href="javascript:;" onclick="copy_clipboard('section#section_[slug]')"><sup>[copy]</sup></a></span>
-[content]
-</section><hr/>
-)!!!!!";
+    if( uc )
+    {
+        return normalize_chars[uc - unnormalize_chars];
+    }
+}
 
-class JournalEntry
+static const char* slugify_title(const char* title) {
+    char* slug = strdup(title);
+    size_t len = strlen(title), i;
+    char* start, * end;
+
+    for ( i = 0 ; i < len; ++i ) {
+        unsigned char c = normalize_char(slug[i]);
+        if (isalnum(c)) {
+            slug[i] = c;
+        } else if (isspace(c) || c == '-') {
+            slug[i] = '_'; // replace spaces and dashes with underscores
+        }
+    }
+
+    for (start = slug; *start && *start == '_'; ++start); // skip leading underscores
+    for (end = slug + len - 1; end >= start && *end == '_'; --end); // skip trailing underscores
+    if (start > end) { // if all characters were underscores
+        slug[0] = '\0'; // return empty string
+        return slug;
+    }
+    memmove(slug, start, end - start + 1); // move the valid part to the beginning
+    return slug;
+}
+
+#if 0
+
+typedef struct journal_entry {
+    const char* title; /* title of the entry */
+    const char* slug; /* slugified title for URL */
+    const char* date; /* date in YYYY-MM-DD format */
+    const char* link; /* external link for blogging */
+    const char* tags; /* tags for the entry */
+    const char* content; /* content of the entry after rendered */
+} journal_entry;
+
+void journal_entry_set_title(journal_entry* entry, const char* title)
 {
-public:
-    void SetTitle(const std::string& title)
-    {
-        m_title = title;
-        m_slug = Slugify(title);
-    }
+    entry->title = title;
+    entry->slug = Slugify(title);
+}
 
-    void SetDate(const std::string& date)
-    {
-        m_date = date;
-    }
+void SetDate(const std::string& date)
+{
+    m_date = date;
+}
 
-    void SetLink(const std::string& link)
-    {
-        m_link = link;
-    }
+void SetLink(const std::string& link)
+{
+    m_link = link;
+}
 
-    void SetSlug(const std::string& slug)
-    {
-        m_slug = slug;
-    }
+void SetSlug(const std::string& slug)
+{
+    m_slug = slug;
+}
 
-    void SetTags(const std::string& tags)
-    {
-        m_tags = tags;
-    }
+void SetTags(const std::string& tags)
+{
+    m_tags = tags;
+}
 
-    void SetContent(const std::string& content)
-    {
-        m_content = content;
-    }
+void SetContent(const std::string& content)
+{
+    m_content = content;
+}
 
-    const std::string& GetTitle() const
-    {
-        return m_title;
-    }
+const std::string& GetTitle() const
+{
+    return m_title;
+}
 
-    const std::string& GetDate() const
-    {
-        return m_date;
-    }
+const std::string& GetDate() const
+{
+    return m_date;
+}
 
-    const std::string& GetLink() const
-    {
-        return m_link;
-    }
+const std::string& GetLink() const
+{
+    return m_link;
+}
 
-    const std::string& GetSlug() const
-    {
-        return m_slug;
-    }
+const std::string& GetSlug() const
+{
+    return m_slug;
+}
 
-    const std::string& GetTags() const
-    {
-        return m_tags;
-    }
+const std::string& GetTags() const
+{
+    return m_tags;
+}
 
-    const std::string& GetContent() const
-    {
-        return m_content;
-    }
+const std::string& GetContent() const
+{
+    return m_content;
+}
 
-    std::string GetMonth() const
-    {
-        return m_date.substr(0, 7); // YYYY-MM
-    }
+std::string GetMonth() const
+{
+    return m_date.substr(0, 7); // YYYY-MM
+}
 
-    std::string GetPermalink() const
-    {
-        return m_date.substr(0, 7) + std::string(".html#") + m_slug;
-    }
-
-private:
-    static std::string Slugify(const std::string& input)
-    {
-        std::string result;
-        for (char c : input)
-        {
-            unsigned char norm = static_cast<unsigned char>(NormalizeChar(c));
-            if (std::isalnum(norm))
-            {
-                result += norm;
-            }
-            else if (std::isspace(norm) || norm == '-')
-            {
-                result += '_';
-            }
-        }
-
-        auto start = result.find_first_not_of('_');
-        auto end = result.find_last_not_of('_');
-        if (start == std::string::npos)
-            return "";
-
-        return result.substr(start, end - start + 1);
-    }
-
-    static char NormalizeChar(char c)
-    {
-        static const std::unordered_map<char, char> accent_map = {
-            {'á','a'}, {'à','a'}, {'â','a'}, {'ä','a'}, {'ã','a'},
-            {'é','e'}, {'è','e'}, {'ê','e'}, {'ë','e'},
-            {'í','i'}, {'ì','i'}, {'î','i'}, {'ï','i'},
-            {'ó','o'}, {'ò','o'}, {'ô','o'}, {'ö','o'}, {'õ','o'},
-            {'ú','u'}, {'ù','u'}, {'û','u'}, {'ü','u'},
-            {'ç','c'},
-            {'ñ','n'},
-            {'Á','a'}, {'À','a'}, {'Â','a'}, {'Ä','a'}, {'Ã','a'},
-            {'É','e'}, {'È','e'}, {'Ê','e'}, {'Ë','e'},
-            {'Í','i'}, {'Ì','i'}, {'Î','i'}, {'Ï','i'},
-            {'Ó','o'}, {'Ò','o'}, {'Ô','o'}, {'Ö','o'}, {'Õ','o'},
-            {'Ú','u'}, {'Ù','u'}, {'Û','u'}, {'Ü','u'},
-            {'Ç','c'},
-            {'Ñ','n'},
-        };
-
-        auto it = accent_map.find(c);
-        if (it != accent_map.end())
-        {
-            return it->second;
-        }
-        return std::tolower(static_cast<unsigned char>(c));
-    }
-
-    std::string m_title; // title of the entry
-    std::string m_date; // date in YYYY-MM-DD format
-    std::string m_link; // external link for blogging
-    std::string m_slug; // slugified title for URL
-    std::string m_tags; // tags for the entry
-    std::string m_content; // content of the entry after rendered
-};
+std::string GetPermalink() const
+{
+    return m_date.substr(0, 7) + std::string(".html#") + m_slug;
+}
 
 struct EntriesByDate
 {
@@ -576,9 +544,11 @@ void parse_kv_lines(std::string_view text, Journal& journal, size_t entry)
         }
     }
 }
+#endif
 
-int main()
-{
+int main() {
+    return 0;
+    /*
     FILE* fp = nullptr;
     errno_t result = fopen_s(&fp, "journal.md", "rb");
     if (!fp) { perror("fopen"); return 1; }
@@ -671,5 +641,6 @@ int main()
 
     journal.Index(); // mount indexes
     journal.Build(); // build blog
+    */
 }
 
