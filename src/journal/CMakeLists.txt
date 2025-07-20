@@ -1,16 +1,19 @@
 cmake_minimum_required(VERSION 3.7)
 
+set(CMAKE_C_STANDARD 90)
+set(CMAKE_C_STANDARD_REQUIRED ON)
+set(CMAKE_C_EXTENSIONS OFF)
+
 project(journal LANGUAGES C)
 
-add_library(libjournal journal.c journal.h)
+if(MSVC)
+  add_compile_definitions(_CRT_SECURE_NO_WARNINGS _CRT_NONSTDC_NO_DEPRECATE)
+endif()
 
 add_executable(journal main.c)
 
-target_link_libraries(journal PRIVATE libjournal cmark)
+target_link_libraries(journal PRIVATE cmark)
 
-add_subdirectory(test)
-
-set(CMAKE_INSTALL_PREFIX "C:/tools" CACHE PATH "Install path prefix" FORCE)
+set(CMAKE_INSTALL_PREFIX "/tools" CACHE PATH "Install path prefix" FORCE)
 
 install(TARGETS journal DESTINATION ".")
-
