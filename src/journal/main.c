@@ -210,7 +210,7 @@ int main() {
     g_journal_output.months[0] = date_to_month_number(g_journal.entries[g_journal.entries_by_date[0]].date);
     for (i = 0, j = 0; i < g_journal.entries_count; ++i) {
         long month = date_to_month_number(g_journal.entries[g_journal.entries_by_date[i]].date);
-        if( month != g_journal_output.months[j] ) {
+        if( month != g_journal_output.months[j] && j+1 < g_journal.entries_count ) {
             g_journal_output.months[++j] = month;
         }
     }
