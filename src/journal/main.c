@@ -69,6 +69,25 @@ void parse_kv_lines(const char* text, journal_entry* entry) {
     }
 }
 
+long long date_to_number(const char* date) {
+    char buf[9];
+    if( date == NULL ) return UINT_MAX;
+    buf[0] = date[0], buf[1] = date[1], buf[2] = date[2], buf[3] = date[3]; /* YYYY */
+    buf[4] = date[5], buf[5] = date[6]; /* MM */
+    buf[6] = date[8], buf[7] = date[9]; /* DD */
+    buf[8] = '\0';
+    return strtoull(buf, NULL, 10);
+}
+
+int compare_entries_by_date(const void* a, const void* b) {
+    size_t entryA = *(size_t*)a;
+    size_t entryB = *(size_t*)b;
+    long long dateA = date_to_number(g_journal.entries[entryA].date);
+    long long dateB = date_to_number(g_journal.entries[entryB].date);
+    if( dateA != dateB ) return (int) (dateA - dateB);
+    return entryA - entryB;
+}
+
 int main() {
     errno_t err = 0;
     FILE* fp = NULL;
@@ -160,5 +179,11 @@ int main() {
         char* html = cmark_render_html(g_journal.entries[i].document, CMARK_OPT_DEFAULT);
         g_journal.entries[i].content = html;
     }
+
+    g_journal.entries_by_date = calloc(g_journal.entries_count, sizeof(*g_journal.entries_by_date));
+    for (i = 0; i < g_journal.entries_count; ++i) {
+        g_journal.entries_by_date[i] = i;
+    }
+    qsort(g_journal.entries_by_date, g_journal.entries_count, sizeof(*g_journal.entries_by_date), compare_entries_by_date);
 }
 
