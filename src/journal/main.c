@@ -19,7 +19,13 @@ typedef struct journal {
     size_t* entries_by_date;
 } journal;
 
+typedef struct journal_output {
+    long* months;
+} journal_output;
+
+
 static journal g_journal;
+static journal_output g_journal_output;
 
 static char normalize_char(char c) {
     static const char* unnormalize_chars = "áàâäãéèêëíìîïóòôöõúùûüçñÁÀÂÄÃÉÈÊËÍÌÎÏÓÒÔÖÕÚÙÛÜÇÑ";
@@ -69,6 +75,15 @@ void parse_kv_lines(const char* text, journal_entry* entry) {
     }
 }
 
+long date_to_month_number(const char* date) {
+    char buf[7];
+    if( date == NULL ) return UINT_MAX;
+    buf[0] = date[0], buf[1] = date[1], buf[2] = date[2], buf[3] = date[3]; /* YYYY */
+    buf[4] = date[5], buf[5] = date[6]; /* MM */
+    buf[6] = '\0';
+    return strtol(buf, NULL, 10);
+}
+
 long long date_to_number(const char* date) {
     char buf[9];
     if( date == NULL ) return UINT_MAX;
@@ -85,14 +100,14 @@ int compare_entries_by_date(const void* a, const void* b) {
     long long dateA = date_to_number(g_journal.entries[entryA].date);
     long long dateB = date_to_number(g_journal.entries[entryB].date);
     if( dateA != dateB ) return (int) (dateA - dateB);
-    return entryA - entryB;
+    return (int)(entryA - entryB);
 }
 
 int main() {
     errno_t err = 0;
     FILE* fp = NULL;
     cmark_node* doc, * cur;
-    size_t i;
+    size_t i, j;
 
     g_journal.entries_capacity = 1000;
     if (!(g_journal.entries = calloc(g_journal.entries_capacity, sizeof(journal_entry)))) { perror("calloc"); return ENOMEM; }
@@ -175,6 +190,11 @@ int main() {
         cmark_iter_free(it);
     }
 
+    if( g_journal.entries_count == 0 ) {
+        fprintf(stderr, "No journal entries found.\n");
+        return 1;
+    }
+
     for (i = 0; i < g_journal.entries_count; ++i) {
         char* html = cmark_render_html(g_journal.entries[i].document, CMARK_OPT_DEFAULT);
         g_journal.entries[i].content = html;
@@ -185,5 +205,14 @@ int main() {
         g_journal.entries_by_date[i] = i;
     }
     qsort(g_journal.entries_by_date, g_journal.entries_count, sizeof(*g_journal.entries_by_date), compare_entries_by_date);
+
+    g_journal_output.months = calloc(g_journal.entries_count, sizeof(*g_journal_output.months));
+    g_journal_output.months[0] = date_to_month_number(g_journal.entries[g_journal.entries_by_date[0]].date);
+    for (i = 0, j = 0; i < g_journal.entries_count; ++i) {
+        long month = date_to_month_number(g_journal.entries[g_journal.entries_by_date[i]].date);
+        if( month != g_journal_output.months[j] ) {
+            g_journal_output.months[++j] = month;
+        }
+    }
 }
 
