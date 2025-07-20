@@ -103,24 +103,40 @@ int compare_entries_by_date(const void* a, const void* b) {
     return (int)(entryA - entryB);
 }
 
+char* read_file_to_string(const char* path, long* len) {
+    FILE* f = fopen(path, "rb");
+    if (!f) return NULL;
+
+    fseek(f, 0, SEEK_END);
+    *len = ftell(f);
+    rewind(f);
+
+    *len = min(*len, ULONG_MAX-1);
+    char* buf = malloc(*len+1);
+    if (!buf) return fclose(f), NULL;
+
+    fread(buf, 1, *len, f);
+    buf[*len] = '\0';
+    fclose(f);
+    return buf;
+}
+
 int main() {
-    errno_t err = 0;
-    FILE* fp = NULL;
-    cmark_node* doc, * cur;
+    char* document;
+    long document_length;
+    cmark_node* cmark_node_doc, * cmark_node_cur;
     size_t i, j;
 
     g_journal.entries_capacity = 1000;
     if (!(g_journal.entries = calloc(g_journal.entries_capacity, sizeof(journal_entry)))) { perror("calloc"); return ENOMEM; }
-    if ((err = fopen_s(&fp, "journal.md", "rb")) && !fp) { perror("fopen"); return err; }
+    if (!(document = read_file_to_string("journal.md", &document_length))) { perror("fopen"); return EIO; }
+    if (!(cmark_node_doc = cmark_parse_document(document, document_length, 0))) { perror("cmark_parse_document"); return EINVAL; }
 
-    doc = cmark_parse_file(fp, 0);
-    fclose(fp);
+    cmark_node_cur = cmark_node_first_child(cmark_node_doc);
+    while (cmark_node_cur) {
+        cmark_node* next = cmark_node_next(cmark_node_cur);
 
-    cur = cmark_node_first_child(doc);
-    while (cur) {
-        cmark_node* next = cmark_node_next(cur);
-
-        if (cmark_node_get_type(cur) == CMARK_NODE_HEADING && cmark_node_get_heading_level(cur) == 1) {
+        if (cmark_node_get_type(cmark_node_cur) == CMARK_NODE_HEADING && cmark_node_get_heading_level(cmark_node_cur) == 1) {
 
             if( ++g_journal.entries_count > g_journal.entries_capacity ) {
                 journal_entry* old_entries = g_journal.entries;
@@ -133,13 +149,13 @@ int main() {
             g_journal.entries[g_journal.entries_count-1].document = cmark_node_new(CMARK_NODE_DOCUMENT);
             assert(g_journal.entries[g_journal.entries_count-1].document != NULL);
 
-            cmark_node* txt = cmark_node_first_child(cur);
+            cmark_node* txt = cmark_node_first_child(cmark_node_cur);
             g_journal.entries[g_journal.entries_count-1].title = cmark_node_get_literal(txt);
             g_journal.entries[g_journal.entries_count-1].slug = slugify_title(g_journal.entries[g_journal.entries_count-1].title);
 
-            if ((cur = cmark_node_next(cur)) && cmark_node_get_type(cur) == CMARK_NODE_PARAGRAPH) {
+            if ((cmark_node_cur = cmark_node_next(cmark_node_cur)) && cmark_node_get_type(cmark_node_cur) == CMARK_NODE_PARAGRAPH) {
 
-                txt = cmark_node_first_child(cur);
+                txt = cmark_node_first_child(cmark_node_cur);
                 while( txt ) {
                     if (cmark_node_get_type(txt) == CMARK_NODE_TEXT && strchr(cmark_node_get_literal(txt), ':')) {
                         parse_kv_lines(cmark_node_get_literal(txt), &g_journal.entries[g_journal.entries_count-1]);
@@ -147,16 +163,16 @@ int main() {
                     txt = cmark_node_next(txt);
                 }
 
-                next = cmark_node_next(cur);
-                cmark_node_unlink(cur);
-                cmark_node_free(cur);
+                next = cmark_node_next(cmark_node_cur);
+                cmark_node_unlink(cmark_node_cur);
+                cmark_node_free(cmark_node_cur);
             }
         } else if (g_journal.entries_count) {
-            cmark_node_unlink(cur);
-            cmark_node_append_child(g_journal.entries[g_journal.entries_count-1].document, cur);
+            cmark_node_unlink(cmark_node_cur);
+            cmark_node_append_child(g_journal.entries[g_journal.entries_count-1].document, cmark_node_cur);
         }
 
-        cur = next;
+        cmark_node_cur = next;
     }
 
     for (i = 0; i < g_journal.entries_count; ++i) {
