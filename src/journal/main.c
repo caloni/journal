@@ -21,11 +21,16 @@ typedef struct journal {
 
 typedef struct journal_output {
     long* months;
+    size_t months_count;
 } journal_output;
 
 
 static journal g_journal;
 static journal_output g_journal_output;
+const char* MONTHS_TEMPLATE_PATH = "blog\\_months.html";
+const char* MONTHS_TEMPLATE_BEGIN = "\n<!-- BEGIN MONTHS -->\n";
+const char* MONTHS_TEMPLATE_END = "\n<!-- END MONTHS -->\n";
+const char* MONTHS_TEMPLATE_FINAL = "public\\blog\\months.html";
 
 static char normalize_char(char c) {
     static const char* unnormalize_chars = "áàâäãéèêëíìîïóòôöõúùûüçñÁÀÂÄÃÉÈÊËÍÌÎÏÓÒÔÖÕÚÙÛÜÇÑ";
@@ -104,7 +109,10 @@ int compare_entries_by_date(const void* a, const void* b) {
 }
 
 char* read_file_to_string(const char* path, long* len) {
-    FILE* f = fopen(path, "rb");
+    FILE* f;
+    char* buf;
+
+    f = fopen(path, "rb");
     if (!f) return NULL;
 
     fseek(f, 0, SEEK_END);
@@ -112,7 +120,7 @@ char* read_file_to_string(const char* path, long* len) {
     rewind(f);
 
     *len = min(*len, ULONG_MAX-1);
-    char* buf = malloc(*len+1);
+    buf = malloc(*len+1);
     if (!buf) return fclose(f), NULL;
 
     fread(buf, 1, *len, f);
@@ -121,7 +129,52 @@ char* read_file_to_string(const char* path, long* len) {
     return buf;
 }
 
+void write_file_from_string(const char* path, const char* content) {
+    FILE* f;
+    long len;
+
+    f = fopen(path, "wb");
+    if (!f) return NULL;
+
+    len = strlen(content);
+    fwrite(content, len, 1, f);
+    fclose(f);
+}
+
+int write_months_page() {
+    int err;
+    char* document, *begin, *end, *final;
+    long document_length, document_length_final;
+    int year;
+    int i;
+
+    if (!(document = read_file_to_string(MONTHS_TEMPLATE_PATH, &document_length))) { perror("fopen blog/_months.html"); return EIO; }
+    begin = strstr(document, MONTHS_TEMPLATE_BEGIN), end = strstr(document, MONTHS_TEMPLATE_END);
+    if (!begin || !end || begin >= end) { perror("write_months_page: invalid template file"); return EINVAL; }
+    document_length_final = g_journal_output.months_count * 100 + document_length;
+    if (!(final = malloc(document_length_final + 1))) { perror("write_months_page: malloc final"); return ENOMEM; }
+    strncpy(final, document, begin - document);
+    final[begin - document] = '\0';
+    for(i = g_journal_output.months_count - 1, year = 0; i >= 0; --i) {
+        int cur_year = g_journal_output.months[i] / 100;
+        int cur_month = g_journal_output.months[i] % 100;
+        char month_str[200];
+        if( cur_year != year ) {
+            if( year != 0 ) { strcat(final, "\n</p>"); }
+            snprintf(month_str, sizeof(month_str), "\n<p id=\"%04d-%02d\" class=\"toc\"><strong>%04d</strong>", cur_year, cur_month, cur_year);
+            strcat(final, month_str);
+            year = cur_year;
+        }
+        snprintf(month_str, sizeof(month_str), "\n<a href=\"%04d-%02d.html\"> %02d </a>", cur_year, cur_month, cur_month);
+        strcat(final, month_str);
+    }
+    strcat(final, "\n</p>\n");
+    strcat(final, end + strlen(MONTHS_TEMPLATE_END));
+    write_file_from_string(MONTHS_TEMPLATE_FINAL, final);
+}
+
 int main() {
+    int err;
     char* document;
     long document_length;
     cmark_node* cmark_node_doc, * cmark_node_cur;
@@ -129,7 +182,7 @@ int main() {
 
     g_journal.entries_capacity = 1000;
     if (!(g_journal.entries = calloc(g_journal.entries_capacity, sizeof(journal_entry)))) { perror("calloc"); return ENOMEM; }
-    if (!(document = read_file_to_string("journal.md", &document_length))) { perror("fopen"); return EIO; }
+    if (!(document = read_file_to_string("journal.md", &document_length))) { perror("fopen journal.md"); return EIO; }
     if (!(cmark_node_doc = cmark_parse_document(document, document_length, 0))) { perror("cmark_parse_document"); return EINVAL; }
 
     cmark_node_cur = cmark_node_first_child(cmark_node_doc);
@@ -230,5 +283,8 @@ int main() {
             g_journal_output.months[++j] = month;
         }
     }
+    g_journal_output.months_count = j + 1;
+
+    if ((err = write_months_page()) != 0) { perror("write_months_page"); return err; }
 }
 
