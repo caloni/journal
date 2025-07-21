@@ -1,3 +1,4 @@
+#if 0
 #pragma once
 #include <filesystem>
 #include <iostream>
@@ -45,4 +46,4 @@ public:
 private:
     std::vector<JournalEntry> m_entries;
 };
-
+#endif
