@@ -1,2 +1,1 @@
-﻿"áàâäãéèêëíìîïóòôöõúùûüçñÁÀÂÄÃÉÈÊËÍÌÎÏÓÒÔÖÕÚÙÛÜÇÑ"
-"aaaaaeeeeiiiiooooouuuucnaaaaaeeeeiiiiooooouuuucn"
+﻿I need ideas of how to transform template html pages into a final rendered content. The main challenge is to make loops work based on marks inside the templates. I made a version we have a hard coded snipped used to replace for the real content. A more flexible solution should be insert a language inside the template to allow iterations to insert the real content. I am not sure of complexity of doing this and the result code (I am writing in pure C89 language).
