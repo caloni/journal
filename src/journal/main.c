@@ -1,6 +1,9 @@
 ﻿#include <cmark.h>
+#include <tinytemplate.h>
 #include <parser.h>
 #include <ctype.h>
+
+#define COUNT(X) ((int) (sizeof(X) / sizeof((X)[0])))
 
 typedef struct journal_entry {
     const char* content;
@@ -28,8 +31,6 @@ typedef struct journal_output {
 static journal g_journal;
 static journal_output g_journal_output;
 const char* MONTHS_TEMPLATE_PATH = "blog\\_months.html";
-const char* MONTHS_TEMPLATE_BEGIN = "\n<!-- BEGIN MONTHS -->\n";
-const char* MONTHS_TEMPLATE_END = "\n<!-- END MONTHS -->\n";
 const char* MONTHS_TEMPLATE_FINAL = "public\\blog\\months.html";
 
 static char normalize_char(char c) {
@@ -134,21 +135,39 @@ void write_file_from_string(const char* path, const char* content) {
     long len;
 
     f = fopen(path, "wb");
-    if (!f) return NULL;
+    if (!f) return;
 
-    len = strlen(content);
+    len = (long) strlen(content);
     fwrite(content, len, 1, f);
     fclose(f);
 }
 
+void compile_tinytemplate_program() {
+    char message[128];
+    tinytemplate_instr_t prog[32];
+    tinytemplate_status_t status;
+
+    static const char text[] = "Hello, my name is {{name}}!";
+
+    size_t num_instr = 0;
+    status = tinytemplate_compile(text, strlen(text), prog, COUNT(prog),
+                                  NULL, message, sizeof(message));
+    if (status != TINYTEMPLATE_STATUS_DONE) {
+        fprintf(stderr, "Error: %s", message);
+        return;
+    }
+
+    fprintf(stdout, "Program compiled to %ld instructions!\n", (long) num_instr);
+    return;
+}
+
 int write_months_page() {
-    int err;
-    char* document, *begin, *end, *final;
-    long document_length, document_length_final;
-    int year;
-    int i;
+    char* document;
+    long document_length;
 
     if (!(document = read_file_to_string(MONTHS_TEMPLATE_PATH, &document_length))) { perror("fopen blog/_months.html"); return EIO; }
+    compile_tinytemplate_program();
+    /*
     begin = strstr(document, MONTHS_TEMPLATE_BEGIN), end = strstr(document, MONTHS_TEMPLATE_END);
     if (!begin || !end || begin >= end) { perror("write_months_page: invalid template file"); return EINVAL; }
     document_length_final = g_journal_output.months_count * 100 + document_length;
@@ -171,6 +190,8 @@ int write_months_page() {
     strcat(final, "\n</p>\n");
     strcat(final, end + strlen(MONTHS_TEMPLATE_END));
     write_file_from_string(MONTHS_TEMPLATE_FINAL, final);
+    */
+    return 0;
 }
 
 int main() {
