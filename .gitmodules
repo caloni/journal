@@ -1,3 +1,9 @@
 [submodule "private"]
 	path = private
 	url = git@github.com:caloni/private.git
+[submodule "src/cmark"]
+	path = src/cmark
+	url = git@github.com:commonmark/cmark.git
+[submodule "src/tinytemplate"]
+	path = src/tinytemplate
+	url = git@github.com:caloni/tinytemplate.git
