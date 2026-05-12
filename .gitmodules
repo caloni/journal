@@ -1,0 +1,3 @@
+[submodule "publisher"]
+	path = publisher
+	url = git@github.com:caloni/publisher.git
