@@ -98957,3 +98957,29 @@ But we are suggesting neither that the human race would voluntarily turn power o
 Boredom too tends to cause excessive pleasure-seeking since, lacking other goals, people often use pleasure as a goal.
 
 [minhas anotações na época da morte do Unabomber]: unabomber_manifesto
+
+# Eliminando campos do journal
+date: 2026-05-21
+link: https://chatgpt.com/c/6a0f15d0-28b8-83e9-bd61-2b7dac236afe
+tags: projects ideas
+
+Trabalhando sobre como remover os links Markdown para algo com menos atrito acabei pensando em eliminar também os campos date e tags, tornando-os implícitos após qualquer título. Ficaria assim:
+
+```
+# Teste de Título
+2025-10-02
+blog magia tags
+
+Como um formato popular, eu gostaria de manter
+esse tipo de funcionamento, onde eu referencio "Um
+Outro Título" e ele irá aparecer aqui se
+necessário. Se não houver texto, não aparece nada.
+
+# Um Outro Título
+2026-05-21
+mais tags aqui
+
+Aqui está outro texto.
+```
+
+Caveat: como inserir links em entradas de posts? Talvez usar algum método cru como "se uma linha inteira for um link e for o primeiro vira o link principal do blog post".
