@@ -257,7 +257,7 @@ Agora me explica uma coisa: o compilador não poderia ser mais claro ao exibir o
 
 2006-04-11 Caloni:
 
-Pois é, além de não ajudar muito, ocupou um destaque que não lhe cabia. Se o segundo erro aparecesse antes (\'setiosflags\': identifier not found) seria bem mais fácil e rápido corrigir. Informar ambigüidade é um dos erros que costuma aparecer quando se brinca com STL e, pior, quase nunca está relacionado com o que foi feito de errado.
+Pois é, além de não ajudar muito, ocupou um destaque que não lhe cabia. Se o segundo erro aparecesse antes ('setiosflags': identifier not found) seria bem mais fácil e rápido corrigir. Informar ambigüidade é um dos erros que costuma aparecer quando se brinca com STL e, pior, quase nunca está relacionado com o que foi feito de errado.
 
 Porém, se quer um conselho, não tenha medo quando seu compilador te mostrar 514324 erros. Geralmente o primeiro e o segundo são os que importam. Também é útil se aproveitar do desenvolvimento incremental: faz algumas linhas, compila. Mais algumas linhas, compila de novo. E de novo. E de novo. Quando acontecer um erro, é mais fácil de localizar, pois estará relacionado às últimas modificações.
 
@@ -277,7 +277,7 @@ E no VC++6 ou VC++8 a mensagem seria mais ou menos assim.
 
 Já em erros como: std::list < int, int > l; (personalização incorreta do allocator) já sabemos que o gcc percorrerá alguns includes mas haverá uma linha de mensagem contendo "instantiated from here" que indica a linha original do erro no fonte. É só procurá-la.
 
-Isso torna-se um pouco mais confuso em qualquer \'Visual C++\'.
+Isso torna-se um pouco mais confuso em qualquer 'Visual C++'.
 
 Mas na linha de comando melhora: cl -GX arq.cpp -o arq.exe; na segunda linha já temos o erro.
 
@@ -332,7 +332,7 @@ Além disso hoje podemos compilar mais do que apenas código 100% ISO, pois o gc
 
 Mas creio que isso não se coloca para um iniciante, pois não creio que ele vá usar logo a MFC ou a ATL. Quando precisar de aplicações assim, terá que usar sim o VC pois trata-se de uma realidade inescapável no mercado. Apenas (e felizmente) esse não é o único mercado do programador C++... Assim talvez seja melhor aprender o C++ propriamente dito antes de ter que lidar com essas especificidades.
 
-Além disso, se usar o VC++8 terá que se virar com o fato de que, por default(!) ele passou a considerar "deprecated" as funções para string(vetor char) da biblioteca padrão. Ou usamos as extensions do "Secure C" ou temos que anular explicitamente o default. Aliás, P. J. Plauger no Editor\'s Forum da "C++ Users Journal" de janeiro disse o que devia ser dito sobre esse "deprecated".
+Além disso, se usar o VC++8 terá que se virar com o fato de que, por default(!) ele passou a considerar "deprecated" as funções para string(vetor char) da biblioteca padrão. Ou usamos as extensions do "Secure C" ou temos que anular explicitamente o default. Aliás, P. J. Plauger no Editor's Forum da "C++ Users Journal" de janeiro disse o que devia ser dito sobre esse "deprecated".
 
 Por isso acho o gcc mais saudável: sempre foi o compilador mais compatível com os padrões e até em mensagens de erro é mais esperto. Além disso é open-source e, secundariamente, free (o que não é tão pouco...). Não é que eu seja fundamentalista ou "xiita" em relação a C++ mas ultimamente ando meio cansado das "especificidades" microsoft...
 
@@ -357,13 +357,13 @@ Aproveito a conversa sobre esse tema para indicar aos iniciantes alguns artigos 
 
 2006-04-27 Basilio Miranda:
 
-Bem, não discordo -e não discordei desde o início- quando você afirma que mensagens de erro confusas prejudicam o aprendizado (e não só ele). Apenas, não achei muito clara a afirmação, na sua mensagem original, de que precisamos de uns "retoques finais" quanto à STL. Precisamos? Sim, certamente há sempre muito o que melhorar e prova disso é a própria existência da biblioteca \'boost\'.
+Bem, não discordo -e não discordei desde o início- quando você afirma que mensagens de erro confusas prejudicam o aprendizado (e não só ele). Apenas, não achei muito clara a afirmação, na sua mensagem original, de que precisamos de uns "retoques finais" quanto à STL. Precisamos? Sim, certamente há sempre muito o que melhorar e prova disso é a própria existência da biblioteca 'boost'.
 
 Mas no que diz respeito a mensagens de erro, quem deve fazer isso? Quem deve dar esses retoques? O ponto de vista que tentei defender é de que o responsável por isso, o cara que pode fazer isso, não é o comitê de padrões de C++, por exemplo. Isso diz respeito aos caras que criam compiladores. Pois não vejo como o padrão poderia descer a esse nível de detalhe mesmo que fosse no capítulo "recomendações".
 
 E, por outro lado, desculpe repetir, não sei se podemos esperar melhorias grandes nesse quesito a curto prazo, pois compilar templates não é lá tão simples.
 
-Esse assunto é importante para o programador e para o iniciante, até porque no Brasil é muito comum, no que diz respeito ao ambiente \'PC\', misturar 3 coisas: linguagens / compiladores / IDE\'s. Pois, nas práticas predominantes em nosso país, imperam produtos (VB, etc) onde tudo parece ser a mesma coisa.
+Esse assunto é importante para o programador e para o iniciante, até porque no Brasil é muito comum, no que diz respeito ao ambiente 'PC', misturar 3 coisas: linguagens / compiladores / IDE's. Pois, nas práticas predominantes em nosso país, imperam produtos (VB, etc) onde tudo parece ser a mesma coisa.
 
 Mas com C/C++ a primeira pergunta a fazer é: qual compilador vou usar? Eventualmente, uma segunda pergunta: qual IDE vou usar?
 
@@ -431,7 +431,7 @@ mais simples né?
 
 Olá.
 
-Sim, com certeza mais simples. Eu tentei exemplificar o uso de alguma função do header iomanip para forçar o erro em que o iniciante ficaria perdido. Talvez um setw(8) ou setf(\'0\') fosse mais realista que o meu setiosflags =).
+Sim, com certeza mais simples. Eu tentei exemplificar o uso de alguma função do header iomanip para forçar o erro em que o iniciante ficaria perdido. Talvez um setw(8) ou setf('0') fosse mais realista que o meu setiosflags =).
 
 ---
 
@@ -628,10 +628,10 @@ int main()
    for (f1 = 1; f1 <= 10; f1++)
    {
     for (f2 = 1+s; f2 <= (5+s); f2++)
-     printf ("%dx%d=%d%c", f2, f1, f1*f2, (f2==5+s) ? \'\\n\': \'\\t\');
+     printf ("%dx%d=%d%c", f2, f1, f1*f2, (f2==5+s) ? '\n': '\t');
    }
    if (s != 5)
-    putchar(\'\\n\');
+    putchar('\n');
   }
 
   return 0;
@@ -8932,7 +8932,7 @@ int _tmain(int argc, PTSTR argv[])
       // array de 100 TCHARs
       SharedVar<TCHAR [100]> sharedVar(_T(SHARED_VAR));
 
-      _tprintf(_T("Frase secreta: \'%s\'\n"), *sharedVar);
+      _tprintf(_T("Frase secreta: '%s'\n"), *sharedVar);
       _tprintf(_T("Pressione <enter> para retornar..."));
       getchar();
     }
