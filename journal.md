@@ -439,7 +439,9 @@ Basílio,
 os motivos do meu comentário sobre os "pequenos retoques" certamente não ficaram tão claros como eu gostaria. Eu estava me referindo à alguns detalhes que tornariam a caminhada do iniciante com menos paradas até o ponto em que ele faz algo realmente útil. Alguns dos itens que poderiam ser melhorados:
 
 - inclusão implícita das funções em iomanip quando usado sistema de streams, tais como iostream e fstream (o que evita o problema explicado no artigo),
+
 - conversão automática de uma string para inteiro e vice-versa sem o uso de um stringstream (ou a versão em C, atoi),
+
 - eliminar o conhecido erro que ocorre quando se usam dois templates na mesma expressão, o > dobrado (ex: vector< meuTemplate< int > > a; // erro: operador > > ).
 
 Esses são os que me vêm à mente no momento, mas existem mais. Essas são mudanças na linguagem e que podem melhorar um pouco a vida do iniciante.
@@ -1486,12 +1488,15 @@ Ele não está limitado apenas para engenharia reversa de código malévolo. Ess
 Mas esse artigo não é apenas sobre o WinDbg. Ele não vem sozinho. É uma interface amigável para alguns depuradores linha de comando e outras ferramentas disponíveis no Debugging Tools for Windows, pacote disponível gratuitamente no sítio da Microsoft e atualizado geralmente de seis em seis meses. Nele podemos encontrar:
 
 - CDB: depurador que roda em user mode e é uma "linha de comando agradável" para um programador avançado.
+
 - NTSD: depurador que roda em user mode, da mesma forma que o CDB, mas também pode ser usado como um redirecionador de comandos para o depurador de kernel (logo abaixo). Existem algumas diferenças sutis entre esses dois depuradores (como o fato do NTSD não criar janelas quando usado como redirecionador), mas são diferenças que se aprendem no dia-a-dia.
+
 - KD: depurador que roda em kernel mode, pode analisar dados do sistema local ou depurar um sistema remoto conectado através de um cabo serial ou por meio de um pipe criado por uma máquina virtual.
 
 Existem outros métodos mais avançados ainda para conseguir depurar uma máquina tão tão distante, por exemplo.
 
 - Logger: tracer de chamadas de funções da API. Pode ser usado para análise de performance ou para fazer o que eu faço com os trojans, que é dar uma olhada nas funções que eles chamam constantemente.
+
 - Logviewer: visualiza resultados gerados pelo Logger.
 
 Existem ainda outras ferramentas, mas estas são as principais que costumo utilizar. Para saber como usá-las de acordo com suas necessidades recomendo a leitura de um pequeno tutorial para o WinDbg que vem junto da instalação, o kernel_debugging_tutorial.doc. Ele é apenas a introdução dos principais comandos e técnicas. Depois de ter dominado o básico, pode partir para o arquivo de ajuda, que detalha de forma completa todos os comandos, técnicas e ferramentas de todo o pacote: o debugger.chm. A maioria dos comandos que precisava encontrei usando essa ajuda ou em alguns blogs muito bons, como o Crash Dump Analysis. Porém, acredite: no WinDbg, você quase sempre vai encontrar o comando que precisa.
@@ -1548,8 +1553,11 @@ Mesmo após finalizá-lo ele continuará na lista de processos, como se tivesse 
 Algumas colunas do Logviewer são tão úteis que vale a pena mencioná-las:
 
 - Module: determina quem chamou a API, o próprio executável ou alguma DLL.
+
 - Call Duration: tempo em milissegundos que a chamada da função demorou.
+
 - API Function: o nome da função API que foi chamada.
+
 - Return Value: o retorno da chamada da função.
 
 De quebra ele exibe todos os parâmetros das funções de acordo com o tipo, identificando inclusive quando se trata de uma enumeração ou define reservado. Essa "mágica" é feita interpretando os headers que ficam na pasta Debugging Tools for Windows, winext, manifest, tarefa executada pelo Logger no início.
@@ -1818,7 +1826,9 @@ O SoftICE deve ser instalado na máquina do desenvolvedor para gerar os símbolo
 Na hora de instalar, você tem três opções:
 
 - Full installation: desenvolvimento e depuração; use se for desenvolver e depurar na mesma máquina.
+
 - Host machine: apenas desenvolvimento; não serve para depuração.
+
 - Target machine: depuração; instale essa opção na máquina de testes.
 
 Após esse processo e a compilação do seu driver favorito podemos gerar os símbolos.
@@ -1834,7 +1844,9 @@ A interface é divida em pseudo-janelas que ficam organizadas em camadas. Para e
 Com certeza existe um monte de coisas novas para aprender quando se troca de depurador. Mais uma vez, assim como o WinDbg, temos a opção de utilizar o sistema de janelas ou a linha de comando. Aqui vão algumas dicas importantes:
 
 - Para mostrar a tela do SoftICE, Ctrl+D. Digite novamente e ela some e o sistema volta a rodar.
+
 - Os nomes dos comandos se assemelham aos do WinDbg. Tente usá-los e sinta as diferenças.
+
 - A ajuda do programa é muito boa e explica direitinho todos os detalhes do ambiente. Caso algo falhe, RTFM!
 
 Essa parece ser uma introdução muito básica ao SoftICE. E na verdade é. Teremos outras oportunidades mais pra frente de usar esse poderoso depurador, principalmente naqueles casos onde um problema só acontece no Windows 95 Release A e sem rede. Isso não é tão incomum quanto parece.
@@ -2611,6 +2623,7 @@ Well, I believe that, after all our analysis, the answer must be somewhat obviou
 I hope this second post about the precedence table have cleared a bit more about the subject. It is not easy to understand the C language, but once you start to try, one magic door opens. Some things to remember from this experience:
 
 - The precedence table is not in the Standard; it is deduced from the grammar rules.
+
 - There are rare expressions where we can't use the precedence table (e.g. ternary operator).
 
 #### // Comments
@@ -2872,10 +2885,15 @@ Em setembro de 1994 é lançado o Windows NT 3.5. A versão Workstation substitu
 Como todo projeto de sucesso, a primeira coisa a ser feita é definir os objetivos principais. No caso do Windows NT não foi diferente. É importante para nós sabermos que objetivos eram esses e como eles foram mudando de acordo com o momento histórico de forma a analisarmos as conseqüências. Em outubro de 1988 os objetivos do novo sistema operacional eram os seguintes:
 
 - Compatibilidade com OS/2;
+
 - Segurança;
+
 - Suporte a POSIX;
+
 - Multiprocessamento;
+
 - Rede integrada;
+
 - Confiabilidade.
 
 Como o Windows 3.0 fez um sucesso enorme, a compatibilidade nativa passou a ser do próprio Windows caseiro, sendo o OS/2 sendo implementado como um mero subsistema. Subsistema no Windows basicamente quer dizer ambiente virtual de execução de processos feitos para rodar em outro sistema operacional. Essa maneira de suportar processos de outros sistemas operacionais foi usado tanto para o OS/2 quanto para o Windows 16 bits, o MS-DOS e aplicativos POSIX, o padrão utilizado para arquiteturas derivadas do UNIX.
@@ -3107,8 +3125,11 @@ O sistema de Credential Provider permite que inúmeras DLLs sejam registradas no
 O sistema de coleta foi simplificado e modernizado: agora a interface não se baseia em funções exportadas, como a GINA, mas em interfaces COM disponíveis. O desenvolvedor também consegue escolher os cenários em que ele pretende entrar em ação:
 
 - Efetuar logon.
+
 - Desbloquear estação.
+
 - Mudar a senha.
+
 - Efetuar conexão de rede (antes do logon).
 
 Baseado no número de CPs registrados no sistema, o LogonUI (processo responsável por exibir a tela de boas vindas) irá exibir as respectivas credenciais para cada um dos CPs envolvidos no logon.
@@ -3413,9 +3434,13 @@ Quando um depurador inicia um processo para ser depurado ou, o caso abordado por
 Entre esses eventos podemos citar os seguintes:
 
 - Breakpoints disparados.
+
 - Exceções lançadas.
+
 - Criação/saída de threads.
+
 - Load/unload de DLLs.
+
 - Saída do processo.
 
 No caso de se conectar em um processo já existente, é chamada a função da API DebugActiveProcess. A partir dessa chamada, se retornado sucesso, o processo que depura agora está liberado para ficar chamando continuamente a função API WaitForDebugEvent. E o código se resume a isto:
@@ -3498,12 +3523,19 @@ Bem, me parecia mais do que eu precisava. No entanto ele é flexível, e suas co
 Entre algumas coisas legais que gosto nesse programa que me fizeram ficar com ele, consigo me lembrar da seguinte lista:
 
 - Posso levar onde quiser e salvar minhas configurações em um arquivo ini.
+
 - Ele fica na área de notificação e posso ativá-lo com um atalho global.
+
 - Ele conta o tempo de uma tarefa se você quiser.
+
 - Ele exporta as listas em formatos como Excel, HTML e texto puro.
+
 - Ele é pequeno e não precisa de instalação.
+
 - O código-fonte é disponível e está sempre sendo atualizado.
+
 - Posso salvar minhas listas em XML (padrão) ou encriptado.
+
 - Pode ser estendido por meio de plugins.
 
 Bem, ele sozinho não resolveu meus problemas. Assim como o Kabloc disse, é você, e unicamente você, o responsável por organizar a sua agenda. E eu tive que passar muito tempo junto da minha para conseguir encontrar a maneira ideal para eu trabalhar. Cada um tem a sua.
@@ -4364,9 +4396,11 @@ Eu gostava do C++ Builder antigo: sem frescura de registrar componentes e sem ne
 
 Mas desde que o mundo gerenciado veio à tona, para instalar esse singelo produto da Borland você vai precisar de alguns pré-requisitos da Microsoft:
 
-  1. Microsoft .NET Framework SDK 1.1
-  2. Visual J# .NET Redistributable Package 1.1
-  3. Microsoft XML 4.0 SP2 Parser and SDK
+1. Microsoft .NET Framework SDK 1.1
+
+2. Visual J# .NET Redistributable Package 1.1
+
+3. Microsoft XML 4.0 SP2 Parser and SDK
 
 Se for necessária mais alguma instalação, não se preocupe: o Borland Turbo C++ Instalation Wizard irá te avisar no momento da instalação, que deverá ser a última a ser realizada.
 
@@ -4437,14 +4471,19 @@ O aprendizado de qualquer idioma deve estar focado em um objetivo. Se o objetivo
 Seguem alguns primeiros passos para começar a se aventurar:
 
 - Procure estudar as palavras mais faladas no idioma.
+
 - Aprenda as regrinhas para saber 400 palavras de lambuja.
+
 - Use e abuse dos prefixos e sufixos de ambos os idiomas, pois geralmente seguem as mesmas regras.
+
 - Mantenha um dicionário de expressões mais comuns nos textos que você lê. Aprenda-as.
 
 Como todo bom aprendizado, a parte mais importante é a prática. E nada melhor para praticar do que ler pra caramba, certo? Isso quer dizer que você terá algumas tarefas diárias a partir de agora:
 
 - Compre um dicionário inglês-português dos mais simples, seja o tradicional ou o eletrônico. Se não tiver dinheiro nem para isso, então use os disponíveis na internet.
+
 - Escolha um artigo ou notícia e leia-o em um só dia. Para não desanimar, recomendo que seja relativamente curto e seja de um tema que muito te interesse. Pode até ser uma notícia curta do Slashdot.
+
 - No começo tente traduzir um ou dois parágrafos desse mesmo artigo. Com o tempo, aumente o número de parágrafos até conseguir traduzir o texto inteiro.
 
 Se sua necessidade do inglês era apenas ler textos técnicos pode parar por aqui. Mas nem sempre o conteúdo está escrito. Pode ser que existam palestras interessantíssimas do Channel9 ou podcasts de informática que você simplesmente não pode perder. Nesse caso, não há uma dica melhor do que imitar as crianças quando aprendem suas línguas nativas: ouça pessoas falando em inglês.
@@ -4458,7 +4497,9 @@ Nesse momento, o importante é fazer a transição escrito-falado. Por isso, ten
 Depois de obter um feeling básico sobre o que é escrito e o que é falado pode-se partir para estudos mais ousados e voltados para o aprendizado da língua de fato. Sabendo da facilidade que já obtivemos em traduzir textos e ouvir, considero as tarefas abaixo ideais para chegarmos ao tão sonhado language aquisition:
 
 - Ouvir música em inglês e ler a letra (original e traduzida). Uma boa banda para começar são os Beatles, cujo inglês britânico é fácil de entender.
+
 - Assistir filmes em inglês com legenda (traduzida e original). Você pode começar com as comédias românticas que são lançadas quinzenalmente; como esse tipo de filme não prima pelo roteiro, eles se tornam um prato cheio para iniciantes.
+
 - Assistir filmes em inglês sem legenda. Tente assistir filmes falados em diferentes lugares para ir pegando o ponto em comum, ou seja, no meio de todos os sotaques do mundo inteiro o idioma é sempre o mesmo. Descubra-o.
 
 Nesse ponto há uma ressalva: é natural não entender patavina do que as pessoas estão falando no começo do aprendizado. Mas o importante é nunca deixar de ouvir. Com o tempo, nossos ouvidos aos poucos vão sendo treinados para perceber as sutilezas da língua falada, e começamos a abrir nosso leque de conhecimento linguístico. Experimente!
@@ -4466,9 +4507,13 @@ Nesse ponto há uma ressalva: é natural não entender patavina do que as pessoa
 Existem inúmeros recursos hoje em dia para que duas pessoas em qualquer lugar do mundo consigam se comunicar pela grande rede. Afinal, depois de tanto aprender a ler e escutar, é hora de soltar o verbo:
 
 - Participe de fóruns de discussão, de preferência sobre temas que te interessam muito.
+
 - Comece a participar em salas de bate-papo de maneira passiva, apenas "ouvindo" o que os outros digitam.
+
 - Comece a interagir em salas de bate-papo, de preferência com pessoas que também estão aprendendo inglês.
+
 - Tome uma dose de coragem e instale o Skype ou outro programa de conversação e comece a freqüentar salas de conversação.
+
 - Quando perder a vergonha, passe a se corresponder com pessoas que falem inglês em uma conversa mano a mano ("e aê manu, certu?").
 
 Como eu disse no começo desse artigo, cada pessoa tem seu objetivo em aprender uma língua. Cumprido esse objetivo, acredito que já podemos nos dar por satisfeitos. Contudo, quando se começa a aprender de fato uma língua é comum as pessoas acharem que chegarão na linha de chegada ao final do curso, ou ao conseguirem o tão sonhado certificado de proficiência. São marcos, não tenha dúvida. Mas não são o ponto onde se pode parar e descansar pelo resto da vida. Assim como usamos o português no dia-a-dia, o inglês também deve ser usado diariamente. Se não for usado, ele irá aos poucos perdendo lugar em nossas memórias, até o momento em que será necessário recomeçar de um ponto muito distante da linha de chegada que haviamos acreditado ter alcançado para sempre.
@@ -4511,25 +4556,37 @@ Primeiro precisamos de uma ferramenta fundamental para esse tipo de depuração:
 
 Passado o desafio inicial de encontrar essa versão do SoftIce e saber usá-la, o resto é fácil:
 
-  1. Crie uma nova VMWare, Virtual PC, VMSbrubles configurada para bootar pelo disquete.
-  2. Formate dois disquetes de MS-DOS, FreeDos, Sbrubles-DOS.
-  3. Copie o setor de boot disponível no artigo do CP para o disquete usando o programa disponível em um dos disquetes.
-  4. Copie o SoftIce no outro disquete.
-  5. Efetue o boot com o disquete do SoftIce.
-  6. Execute o SoftIce (é só rodar, ele permanece residente e é ativado com Ctrl + D).
-  7. Coloque um breakpoint na int 0x13 (disco) na função 2 (leitura) (faz-se assim: bpint 13 ah=2).
-  8. Troque o disquete do Softice pelo disquete com o setor de boot do artigo do CP.
-  9. Efetue novamente o boot na máquina em modo "quente" (usando o próprio SoftIce, comando boot).
-  10. A execução deve ser paralisada exatamente no ponto onde o código da BIOS lê o setor de boot do seu disquete.
-  11. Digite p ret e em seguida F10 ou T e seja feliz.
+1. Crie uma nova VMWare, Virtual PC, VMSbrubles configurada para bootar pelo disquete.
+
+2. Formate dois disquetes de MS-DOS, FreeDos, Sbrubles-DOS.
+
+3. Copie o setor de boot disponível no artigo do CP para o disquete usando o programa disponível em um dos disquetes.
+
+4. Copie o SoftIce no outro disquete.
+
+5. Efetue o boot com o disquete do SoftIce.
+
+6. Execute o SoftIce (é só rodar, ele permanece residente e é ativado com Ctrl + D).
+
+7. Coloque um breakpoint na int 0x13 (disco) na função 2 (leitura) (faz-se assim: bpint 13 ah=2).
+
+8. Troque o disquete do Softice pelo disquete com o setor de boot do artigo do CP.
+
+9. Efetue novamente o boot na máquina em modo "quente" (usando o próprio SoftIce, comando boot).
+
+10. A execução deve ser paralisada exatamente no ponto onde o código da BIOS lê o setor de boot do seu disquete.
+
+11. Digite p ret e em seguida F10 ou T e seja feliz.
 
 Pelo softice 16 bits conseguimos parar a execução nas interrupções da BIOS e ainda especificar qual das funções será executada, definida no registrador AH; mais detalhes sobre layout de memória do 8086 no artigo do DQ (1).
 
 Quando o código da BIOS é executado, ele precisa, entre outras coisas, fazer três:
 
-  1. Encontrar o dispositivo padrão de boot.
-  2. Ler o primeiro setor desse dispositivo para o endereço 0x7C00.
-  3. Entregar a execução para o código em 0x7C00.
+1. Encontrar o dispositivo padrão de boot.
+
+2. Ler o primeiro setor desse dispositivo para o endereço 0x7C00.
+
+3. Entregar a execução para o código em 0x7C00.
 
 O item 2 é justamente o que utiliza essa interrupção para ler do disco. Eu prefiri colocar o breakpoint no item 2, mas nada impediria de você colocá-lo no item 3 e já iniciar a depuração no código do boot loader. Mas, como eu já passei por problemas encontrados no código da BIOS que impediam o sistema de entregar a execução para o setor de boot, já dei a dica de lambuja caso você também tenha a oportunidade de se divertir em um cliente depurando a BIOS de algum laptop desajustado.
 
@@ -4569,7 +4626,9 @@ A terceira regra diz sobre o tamanho das tarefas: as menores são mais exatas. E
 Porém, essa função ainda:
 
 - não foi comentada,
+
 - não foi testada,
+
 - não foi testada em release.
 
 Logo, essa é uma tarefa em que você termina o mais importante em uma hora... mas não termina tudo. Deve-se sempre considerar a tarefa por completo, pois no final de quinze tarefas vai faltar comentar e testar tudo isso, o que aumentará consideravelmente a imprevisiblidade no seu cronograma.
@@ -4610,16 +4669,27 @@ Em novembro de 1998 (apenas para parceiros Microsoft) é lançada a versão 5.0 
 Vamos aproveitar que a versão NT foi melhorada para dar uma recapitulada geral de como as coisas funcionam internamente no sistema operacional. Em um desenho da arquitetura veremos diferentes módulos que fazem parte do sistema operacional que dividem funções específicas e que possuem métodos específicos de comunicação interna e externa. Importante notar que a divisão entre os componentes que descreverei abaixo já existia desde a primeira versão do NT, sendo que apenas alguns itens foram adicionados, como o Gerenciador de Plug & Play e o Gerenciador de Energia. Os elementos principais do Windows, visto sob camadas de abstração, são:
 
 - Aplicações Win32, POSIX, OS/2;
+
 - Subsistemas Win32, POSIX, OS/2;
+
 - Subsistemas de integridade;
+
 - Serviços do Executivo (em inglês Executive Services);
+
 - Gerenciador de I/O ou I/O Manager;
+
 - Gerenciador de Memória Virtual ou VMM, o Virtual Memory Manager;
+
 - Process Manager, PnP Manager e Power Manager;
+
 - Object Manager;
+
 - Microkernel;
+
 - Kernel mode drivers;
+
 - Hardware Abstraction Layer (aka HAL);
+
 - Por fim, o hardware.
 
 ![Windows Architecture](historia_do_windows_parte_50_windows_architecture.png)
@@ -4695,12 +4765,17 @@ Olá, Aoki.
 
 Pelo que vejo todo o material que você precisa já está com você: sua curiosidade. Engenharia Reversa de programas requer conhecimento em diversas áreas da informática: arquitetura de computadores, assembly, programação, sistemas operacionais e por aí vai a valsa. Antes de mais nada, defina que tipo de ER está interessado em aprender primeiro. Se quer desmontar um programa Windows, a ordem de valores deveria ser (na minha opinião):
 
- - Programação BASIC
- - Programação C
- - Arquitetura 8086
- - Assembly
- - Programação Windows
- - Programação Assembly no Windows
+- Programação BASIC
+
+- Programação C
+
+- Arquitetura 8086
+
+- Assembly
+
+- Programação Windows
+
+- Programação Assembly no Windows
 
 Antes de mais nada, dê uma olhada na transparência desse artigo e veja se já consegue entender cada detalhe das imagens exibidas. Onde você primeiro não entender completamente é o seu ponto de início nos estudos. Baseie-se em você e aonde você quer chegar, e não em uma receita de bolo.
 
@@ -4814,13 +4889,19 @@ E do que é feito um programa? Basicamente de duas coisas: dados de entrada e in
 
 Vamos analisar essas abstrações em exemplos da vida real:
 
- - Programa, Dados de entrada, Processamento, Dados de saída.
- - Bloco de Notas, Digitação do usuário, Leitura do teclado, Texto exibido na tela.
- - Chat Online, Envio de mensagem, Conexão com a internet, Seu amigo recebe a mensagem.
- - Editor de imagem, Movimento do mouse, Interpretação de movimento, Retângulo desenhado.
- - Browser, Clique do mouse em uma URL, Conexão com o site, Exibição da nova página.
- - Jogo de Tiro, Clique no botão de tiro, Cálculo do projétil, Inimigo acertado.
- - Compilador, Código do programador, Interpretação das instruções, Código de máquina (seu programa!).
+- Programa, Dados de entrada, Processamento, Dados de saída.
+
+- Bloco de Notas, Digitação do usuário, Leitura do teclado, Texto exibido na tela.
+
+- Chat Online, Envio de mensagem, Conexão com a internet, Seu amigo recebe a mensagem.
+
+- Editor de imagem, Movimento do mouse, Interpretação de movimento, Retângulo desenhado.
+
+- Browser, Clique do mouse em uma URL, Conexão com o site, Exibição da nova página.
+
+- Jogo de Tiro, Clique no botão de tiro, Cálculo do projétil, Inimigo acertado.
+
+- Compilador, Código do programador, Interpretação das instruções, Código de máquina (seu programa!).
 
 Como podemos ver, podemos abstrair esse lance de "dados de entrada + processamento = dados de saída" com qualquer tipo de programa que usarmos. Basta relacionar o que fazemos (digitar algo, arrastar o mouse, apertar um botão, etc) para obtermos a saída desejada (texto/gráfico na tela, no arquivo, na impressora, etc). O programa é o elemento que fica no meio fazendo essa "mágica".
 
@@ -4873,12 +4954,17 @@ Note que existem várias perguntas que o programa precisa responder para seguir 
 
 Bem, até aqui você já aprendeu um montão de coisas:
 
- - Programas podem ser armazenados em arquivos.
- - Quando executados, o computador interpreta suas instruções.
- - Um programa usa dados de entrada para gerar dados de saída.
- - Para tomar decisões, ele utiliza variáveis internas.
- - A ordem das instruções é chamado fluxo de execução.
- - A tomada de decisões altera o fluxo de execução de um programa.
+- Programas podem ser armazenados em arquivos.
+
+- Quando executados, o computador interpreta suas instruções.
+
+- Um programa usa dados de entrada para gerar dados de saída.
+
+- Para tomar decisões, ele utiliza variáveis internas.
+
+- A ordem das instruções é chamado fluxo de execução.
+
+- A tomada de decisões altera o fluxo de execução de um programa.
 
 Para concluir, vamos dar uma espiada nas estruturas de comparação de um programa em C e suas conseqüentes mudanças de fluxo. Note também que as comparações são feitas com variáveis internas.
 
@@ -4904,13 +4990,15 @@ Programar não tem segredo. É tudo uma questão de gostar, aprender, executar, 
 
 #### Para saber mais
 
- - Arquitetura de von Neumann
- - Máquina de Turing
+- Arquitetura de von Neumann
+
+- Máquina de Turing
 
 #### Se ainda está difícil compreender
 
- - Resolva exercícios de lógica.
- - Leia livros bem introdutórios (até para criança vale) como Introdução Ilustrada à Computação.
+- Resolva exercícios de lógica.
+
+- Leia livros bem introdutórios (até para criança vale) como Introdução Ilustrada à Computação.
 
 # Por que minha DLL travou?
 date: 2007-10-18
@@ -5277,10 +5365,13 @@ ntdll!DbgBreakPoint:
 
 Não se preocupe, nada aconteceu de errado. Essa é apenas a maneira do WinDbg de dizer "oi, estou aqui, positivo e operando". Vamos destrinchar as informações iniciais para evitar confusão:
 
- - Version: versão que está sendo executada do WinDbg (duh).
- - CommandLine: linha de comando que foi usada ao executar o depurador.
- - ModLoad: sempre que um módulo é carregado no processo (DLLs ou o próprio executável) o WinDbg informa os endereços inicial e final de carregamente e o nome do módulo. Para rever a lista de módulos carregados usa-se o comando lm.
- - (`<pid>.<tid>`): Break instruction exception - code 8000003 (first chance). Qualquer informação específica de uma thread é informada dessa maneira no WinDbg. No caso, foi a exceção de breakpoint (parada na execução) acionada no começo da depuração (e é por isso que o notepad ainda não está aparecendo).
+- Version: versão que está sendo executada do WinDbg (duh).
+
+- CommandLine: linha de comando que foi usada ao executar o depurador.
+
+- ModLoad: sempre que um módulo é carregado no processo (DLLs ou o próprio executável) o WinDbg informa os endereços inicial e final de carregamente e o nome do módulo. Para rever a lista de módulos carregados usa-se o comando lm.
+
+- (`<pid>.<tid>`): Break instruction exception - code 8000003 (first chance). Qualquer informação específica de uma thread é informada dessa maneira no WinDbg. No caso, foi a exceção de breakpoint (parada na execução) acionada no começo da depuração (e é por isso que o notepad ainda não está aparecendo).
 
 Explicado o começo o resto é fácil. Para continuar a execução do bloco de notas basta usarmos o comando g (Go), ou pressionar F5, ou ir no menu "Debug, Go", ou ainda apertar um dos botões de fluxo do depurador listado no seu toolbar:
 
@@ -5441,9 +5532,11 @@ Diferente de ponteiros de função globais ou estáticas, que são a grosso modo
 
 Três regras iniciais que devem ser consideradas para usarmos ponteiros para métodos são:
 
- - A semântica para lidar com ponteiros de método é totalmente diferente de ponteiros de função.
- - Ponteiros de método de classes distintas nunca se misturam.
- - Para chamarmos um ponteiro de método precisamos sempre de um objeto da classe para a qual ele aponta.
+- A semântica para lidar com ponteiros de método é totalmente diferente de ponteiros de função.
+
+- Ponteiros de método de classes distintas nunca se misturam.
+
+- Para chamarmos um ponteiro de método precisamos sempre de um objeto da classe para a qual ele aponta.
 
 Visto isso, passemos a um exemplo simples, um chamador de métodos aleatórios, que ilustra o princípio básico de utilização:
 
@@ -6055,11 +6148,15 @@ tags: computer blog
 
 Um script no WinDbg nada mais é que uma execução em batch: um arquivo texto cheio de comandos que poderíamos digitar manualmente, mas que preferimos guardar para poupar nossos dedos. Existem quatro maneiras diferentes de chamar um script no WinDbg, todas muito parecidas, variando apenas se são permitidos espaços antes do nome do arquivo e se os comandos são condensados, isto é, as quebras de linhas substituídas por ponto-e-vírgula para executar tudo em uma linha só.
 
- - $<nome-do-arquivo - não permite espaços e condensa comandos.
- - $><nome-do-arquivo - não permite espaços e não condensa comandos.
- - $$<nome-do-arquivo - permite espaços e condensa comandos.
- - $$><nome-do-arquivo - permite espaços e não condensa comandos.
- - $$>a<nome-do-arquivo - igual ao anterior, e ainda permite passar argumentos.
+- $<nome-do-arquivo - não permite espaços e condensa comandos.
+
+- $><nome-do-arquivo - não permite espaços e não condensa comandos.
+
+- $$<nome-do-arquivo - permite espaços e condensa comandos.
+
+- $$><nome-do-arquivo - permite espaços e não condensa comandos.
+
+- $$>a<nome-do-arquivo - igual ao anterior, e ainda permite passar argumentos.
 
 A ajuda do WinDbg descreve as diferenças dos comandos acima de forma adversa, afirmando que os comandos '<'  não condensam as linhas e os '><' o fazem, quando na realidade é o contrário. Não se deixe enganar por esse detalhe. No caso do script desse artigo, utilizaremos a última forma, pois precisamos de um argumento para funcionar: o nome da DLL. Caso você não digite esse argumento, a ajuda do script será impressa:
 
@@ -6464,9 +6561,11 @@ Como próxima lição da nossa jornada Borland, vamos aprender a fazer os contro
 
 Para essa proeza precisaremos de:
 
- - Dois TButtons
- - Um TEdit
- - Um TListBox
+- Dois TButtons
+
+- Um TEdit
+
+- Um TListBox
 
 Bom, sabemos já como colocar esses caras no form principal. Apenas espalhe-os de maneira que eles não fiquem uns em cima dos outros (essa técnica de espalhamento chama-se design).
 
@@ -6670,16 +6769,25 @@ tags: computer cppbuilder debugging archive
 
 Esse é um detalhe que pode passar despercebido da maioria da população Borland, mas o Builder, assim como o Visual Studio, possui sua suíte para depuração remota. E tudo o que você precisa fazer é instalar um pacote no cliente.
 
-  1. No CD de instalação, existe uma pasta chamada RDEBUG.
-  2. Na máquina cliente, execute o arquivo setup.exe contido nesta pasta. De preferência, não instale como um serviço (a menos que tenha um motivo).
-  3. Crie uma aplicação tosca de teste (ou use uma aplicação tosca existente).
-  4. Lembre-se que as DLLs do Builder não estarão disponíveis na máquina remota. Para não depender delas desabilite as opções "Use dynamic RTL" (aba Link) e "Build with runtime packages" (aba Packages) do seu projeto.
-  5. Copie a aplicação para a máquina remota ou torne-a acessível através de mapeamento.
-  6. Em Run, Parameters, habilite na aba Remote a opção "Debug project on remote machine"
-  7. Em Remote Path especifique o path de sua aplicação visto da máquina remota.
-  8. Em Remote Host especifique o nome ou o IP da máquina remota.
-  9. Execute o aplicativo através do Builder (certifique-se que o cliente do Builder está rodando na máquina remota).
-  10. Bom proveito!
+1. No CD de instalação, existe uma pasta chamada RDEBUG.
+
+2. Na máquina cliente, execute o arquivo setup.exe contido nesta pasta. De preferência, não instale como um serviço (a menos que tenha um motivo).
+
+3. Crie uma aplicação tosca de teste (ou use uma aplicação tosca existente).
+
+4. Lembre-se que as DLLs do Builder não estarão disponíveis na máquina remota. Para não depender delas desabilite as opções "Use dynamic RTL" (aba Link) e "Build with runtime packages" (aba Packages) do seu projeto.
+
+5. Copie a aplicação para a máquina remota ou torne-a acessível através de mapeamento.
+
+6. Em Run, Parameters, habilite na aba Remote a opção "Debug project on remote machine"
+
+7. Em Remote Path especifique o path de sua aplicação visto da máquina remota.
+
+8. Em Remote Host especifique o nome ou o IP da máquina remota.
+
+9. Execute o aplicativo através do Builder (certifique-se que o cliente do Builder está rodando na máquina remota).
+
+10. Bom proveito!
 
 Infelizmente essa opção não está disponível nas versões Standard do produto, assim como não está o debugging remoto no Visual Studio Express. Porém, a nova versão do Builder, renomeada para Borland Turbo C++, é gratuita a possui essa feature embutida. O único porém é que a instalação não é automatizada, e os arquivos devem ser copiados "na mão", seguindo um dos tópicos da ajuda. Melhor que nada.
 
@@ -6851,8 +6959,9 @@ void __fastcall TMain::FormDragDrop(TObject *Sender, TObject *Source,
 
 E mais uma vez voilà! Pouquíssimas linhas de código e um movimentador e empilhador de controles. Dois detalhes merecem ser destacados:
 
- - O uso de dynamic_cast em cima dos ponteiros da VCL é uma maneira saudável de checar a integridade dos tipos recebidos - particularmente do Sender. O uso do primeiro parâmetro dos tratadores de eventos também torna o código menos preso à componentes específicos do formulário;
- - O método FindChildControl é deveras útil quando não temos certeza da existência de um controle. Geralmente é uma boa idéia confiar no sistema de gerenciamento de componentes da VCL. Não é à toa que existe um framework por baixo do ambiente RAD.
+- O uso de dynamic_cast em cima dos ponteiros da VCL é uma maneira saudável de checar a integridade dos tipos recebidos - particularmente do Sender. O uso do primeiro parâmetro dos tratadores de eventos também torna o código menos preso à componentes específicos do formulário;
+
+- O método FindChildControl é deveras útil quando não temos certeza da existência de um controle. Geralmente é uma boa idéia confiar no sistema de gerenciamento de componentes da VCL. Não é à toa que existe um framework por baixo do ambiente RAD.
 
 #### // Comments
 
@@ -6911,9 +7020,11 @@ A partir daí clicando no botão Apply tudo deve fluir. Como em informática tud
 
 Criado o banco e testado (experimente conectar pelo próprio BDE) podemos agora criar um novo projeto VCL e colocar alguns componentes interessantes feitos especialmente para banco de dados. São eles:
 
- - TDatabase: representa a própria base da dados, onde especificamos o nome da base de dados que vamos utilizar.
- - TTable: representa uma tabela de uma base de dados.
- - TDataSource: a origem dos dados que serão usados para popular seja lá o que quisermos popular.
+- TDatabase: representa a própria base da dados, onde especificamos o nome da base de dados que vamos utilizar.
+
+- TTable: representa uma tabela de uma base de dados.
+
+- TDataSource: a origem dos dados que serão usados para popular seja lá o que quisermos popular.
 
 Abaixo segue a configuração de cada um deles, ou seja, as propriedades que você deve mudar para que tudo funcione.
 
@@ -6948,7 +7059,7 @@ Com isso, nossa janela já exibe o conteúdo da tabela em tempo de design:
 
 E é isso! Se chegamos até aqui, já sabemos o arroz com feijão de usar banco de dados com o C++ Builder. Mais para a frente podemos nos aventurar em tópicos um pouco mais avançados, como fazer buscas, navegar item a item e essas coisas que as pessoas costumam fazer com um MDB.
 
- - 2021-03-27. Durante a revisão deste post eu tentei rodar a aplicação sem sucesso. Existem erros na abertura e configuração do arquivo mdb que não perdi mais tempo tentando resolver.
+- 2021-03-27. Durante a revisão deste post eu tentei rodar a aplicação sem sucesso. Existem erros na abertura e configuração do arquivo mdb que não perdi mais tempo tentando resolver.
 
 #### // Comments
 
@@ -7033,11 +7144,15 @@ Nos computadores atuais tudo no final acaba sendo representado por zeros e uns, 
 
 Quando o bit mais à esquerda não está ligado o valor absoluto é ele mesmo; ou seja, é um número positivo, incluindo o zero. Como vamos ver, isso facilita em muito os cálculos para o computador. Para nós, a coisa não fica lá muito difícil. Só precisamos lembrar que, em hexadecimal, todos os valores que tiverem o byte mais significativo igual ou maior que 8 (que é 1000 em binário) é negativo e temos que aplicar o método de complemento de dois para obter seu valor absoluto. Vejamos o valor -8, por exemplo:
 
-  1. Primeiro temos a representação real (em um byte): 1111 1000.
-  2. O bit mais significativo está ligado: é um número negativo. Descartamos o sinal, fica 111 1000.
-  3. Devemos agora inverter todos os bits: 111 1000 se torna 000 0111.
-  4. Por fim, somamos um: 000 0111 + 1 = 000 1000.
-  5. Como vimos no parágrafo anterior, 000 1000, ou simplesmente 1000, é 8. Na verdade, -8!
+1. Primeiro temos a representação real (em um byte): 1111 1000.
+
+2. O bit mais significativo está ligado: é um número negativo. Descartamos o sinal, fica 111 1000.
+
+3. Devemos agora inverter todos os bits: 111 1000 se torna 000 0111.
+
+4. Por fim, somamos um: 000 0111 + 1 = 000 1000.
+
+5. Como vimos no parágrafo anterior, 000 1000, ou simplesmente 1000, é 8. Na verdade, -8!
 
 O que significa, na notação complemento de dois, a representação onde estão todos os bits ligados, independente do número de bytes?
 
@@ -7362,13 +7477,13 @@ Por fim, considero se achar melhor depois de ter melhorado um ou dois itens da v
 
 Sem estar na lista previamente concebida comecei a fazer outras coisas de maneira mais eficiente, relacionado ao trabalho ou não:
 
- - Aprender o leiaute do teclado Dvorak. Treino todo dia cinco minutos há três meses a digitação usando esse leiaute, porque é mais simples, mais rápido e dói menos os dedos.
+- Aprender o leiaute do teclado Dvorak. Treino todo dia cinco minutos há três meses a digitação usando esse leiaute, porque é mais simples, mais rápido e dói menos os dedos.
 
- - Anotar todas as coisas importantes. Seja uma idéia nova, uma idéia sobre uma idéia, ou até mesmo melhoramentos em algum software que dou manutenção, é importante manter tudo anotado, porque sabe-se lá quando isso vai ser usado. Mas, quando for, quem vai se lembrar?
+- Anotar todas as coisas importantes. Seja uma idéia nova, uma idéia sobre uma idéia, ou até mesmo melhoramentos em algum software que dou manutenção, é importante manter tudo anotado, porque sabe-se lá quando isso vai ser usado. Mas, quando for, quem vai se lembrar?
 
- - Bloguear constantemente. Apesar dos sacrifícios que isso às vezes causa, é edificante nunca "deixar a bola cair". Minha regra é sempre publicar um artigo dia sim, dia não durante a semana. Em uma semana começo na segunda, em outra na terça, e assim sucessivamente. Tem funcionado desde que reiniciei o blogue há seis meses, e espero que continue assim.
+- Bloguear constantemente. Apesar dos sacrifícios que isso às vezes causa, é edificante nunca "deixar a bola cair". Minha regra é sempre publicar um artigo dia sim, dia não durante a semana. Em uma semana começo na segunda, em outra na terça, e assim sucessivamente. Tem funcionado desde que reiniciei o blogue há seis meses, e espero que continue assim.
 
- - Usar novo controle de versão em casa. Há um mês mais ou menos conheci o Mercurial, que é um sistema de controle de versão muito leve e não-centralizado, duas coisas que fazem uns sininhos soarem em minha cabeça. Ele é baseado conjunto de modificações e merge, duas coisas a que não estou acostumado e me forcei a aprender.
+- Usar novo controle de versão em casa. Há um mês mais ou menos conheci o Mercurial, que é um sistema de controle de versão muito leve e não-centralizado, duas coisas que fazem uns sininhos soarem em minha cabeça. Ele é baseado conjunto de modificações e merge, duas coisas a que não estou acostumado e me forcei a aprender.
 
 Não é muito difícil definir essa lista, pois ela na verdade são as mesmas duas listas que citei anteriormente. Comecei a fazer essas coisas seis meses atrás. Para um fumante de fato parar, uns cinco anos de abstinência é um bom indicador. Acredito que, para um hábito se enraizar, um ano e meio pode ser de bom tamanho.
 
@@ -7382,18 +7497,29 @@ O ano de 2008 promete. Pelo menos no começo.
 
 Está marcado para dia 19 desse mês em São Paulo o terceiro encontro de programadores C++, cujas informações mais atualizadas você poderá acompanhar em nossa wiki. A grade de eventos, pelo menos por enquanto, é essa:
 
- - 09:30 a 10:00 - Introdução e Apresentação dos Membros do Encontro
- - 10:00 a 11:00 - C++  com WxWidgets por  Ivo Nascimento
- - 11:00 a 11:30 - Debate
- - 11:30 a 11:45 - Coffee break
- - 11:45 a 12:45 - C++0x - Novas características de suporte a projetos de bibliotecas genéricas por Pedro Lamarão
- - 12:45 a 13:15 - Debate
- - 13:15 a 14:30 - Almoço
- - 14:30 a 15:30 - Threads no CPP ISO - Wanderley Caloni
- - 15:30 a 16:00 - Debate
- - 16:00 a 16:15 - Coffee break
- - 16:1 a 17:00 - Fórum sobre a Organização do Grupo de Usuários e da C/C++ Conference Brasil
- - 17:30 a 00:00 - C/C++ Beer Meeting!
+- 09:30 a 10:00 - Introdução e Apresentação dos Membros do Encontro
+
+- 10:00 a 11:00 - C++  com WxWidgets por  Ivo Nascimento
+
+- 11:00 a 11:30 - Debate
+
+- 11:30 a 11:45 - Coffee break
+
+- 11:45 a 12:45 - C++0x - Novas características de suporte a projetos de bibliotecas genéricas por Pedro Lamarão
+
+- 12:45 a 13:15 - Debate
+
+- 13:15 a 14:30 - Almoço
+
+- 14:30 a 15:30 - Threads no CPP ISO - Wanderley Caloni
+
+- 15:30 a 16:00 - Debate
+
+- 16:00 a 16:15 - Coffee break
+
+- 16:1 a 17:00 - Fórum sobre a Organização do Grupo de Usuários e da C/C++ Conference Brasil
+
+- 17:30 a 00:00 - C/C++ Beer Meeting!
 
 Conto com a participação de todos que se interessam, usam ou aprendem sobre essas fabulosas linguagens de programação. Vamos levantar a moral de C++ no cenário brasileiro!
 
@@ -7408,35 +7534,45 @@ Não é exatamente uma receita de bolo, tampouco uma lista de regras imutáveis.
 
 Por isso mesmo, aqui vão as dicas traduzidas, que encontrei no blogue de Lino Resende, verbatim (com meus comentários ao final de cada item):
 
-  1. Um blog verdadeiro é um log de todos os sítios que você gostaria de salvar ou dividir.
-   - Então, hoje, o del.icio.us é melhor para os bloggers do que o próprio Blogger. Isso seria como se os blogues fossem sítios de pesquisadores do google, o que não deixa de ser meia-verdade.
+1. Um blog verdadeiro é um log de todos os sítios que você gostaria de salvar ou dividir.
 
-  2. Você pode, é claro, colocar links sobre você fora do seu blog, mas se o blog tem mais posts originais do que links, recomendo aprender um pouco de humildade.
-   - É um golpe bem dado ao Caloni.com.br. Bom, espero ser mais humilde em 2008 =).
+- Então, hoje, o del.icio.us é melhor para os bloggers do que o próprio Blogger. Isso seria como se os blogues fossem sítios de pesquisadores do google, o que não deixa de ser meia-verdade.
 
-  3. Se fizer uma pequena procura antes de postar, vai descobrir que alguém já falou do seu assunto e melhor do que você.
-   - Isso eu faço, mas, como já disse, conteúdo em português é mais escasso, o que compensa a publicação de artigos sobre assuntos já tratados em outras línguas.
+1. Você pode, é claro, colocar links sobre você fora do seu blog, mas se o blog tem mais posts originais do que links, recomendo aprender um pouco de humildade.
 
-  4. Seja você mesmo, sem suprimir links que não o tratem favoravelmente. Seus leitores querem saber quem efetivamente você é.
-   - Essa dica é particularmente difícil para blogues técnicos, como o meu e de muita gente. No entanto, nós tentamos não parecer bots, acredite!
+- É um golpe bem dado ao Caloni.com.br. Bom, espero ser mais humilde em 2008 =).
 
-  5. Você pode melhorar o título das páginas que sugere quando as descrever e dar o link. Assegure-se de sua descrição fará os leitores se lembrarem dela, reconhecendo páginas que já visitaram ou quando a visitarem novamente.
-   - Essa é mais fácil de fazer.
+1. Se fizer uma pequena procura antes de postar, vai descobrir que alguém já falou do seu assunto e melhor do que você.
 
-  6. Use sempre algum adjetivo para descrever sua própria reação à página que recomenda (ótima, imaginativa, clara, útil).
-   - Essa dica foi clara e útil. Além de imaginativa e ótima, claro.
+- Isso eu faço, mas, como já disse, conteúdo em português é mais escasso, o que compensa a publicação de artigos sobre assuntos já tratados em outras línguas.
 
-  7. Dê os créditos à fonte que você usou. Assim, seus leitores podem conferi-la e "moverem-se para cima".
-   - Essencial, especialmente, mais uma vez, se tratando de blogues técnicos.
+1. Seja você mesmo, sem suprimir links que não o tratem favoravelmente. Seus leitores querem saber quem efetivamente você é.
 
-  8. Cuidado com os problemas de formatação estranha, múltiplas páginas com histórias, textos muito longos, etc. Não esconda o link principal entre outros auxiliares, mal identificados ou pobres.
-   - Essa dica é mais para weblogs de fato. Eu passo.
+- Essa dica é particularmente difícil para blogues técnicos, como o meu e de muita gente. No entanto, nós tentamos não parecer bots, acredite!
 
-  9. Escolha alguns autores favoritos ou celebridades e crie um feed no Google News, acompanhando novas menções a eles. Assim, outros fãs podem segui-los através do seu blog.
-   - Você pode seguir os que sigo através da minha Home Page (update 2021-04-18: hoje em dia não sigo mais nada, mas links específicos existem nos posts; quem diria, acabei ficando mais blogger com o passar do tempo). Eventualmente compartilho posts através do Google Reader. Update 2021-04-18: não mais =(
+1. Você pode melhorar o título das páginas que sugere quando as descrever e dar o link. Assegure-se de sua descrição fará os leitores se lembrarem dela, reconhecendo páginas que já visitaram ou quando a visitarem novamente.
 
-  10. Reindique seus links favoritos de tempos em tempos para quem os perdeu, esquece ou o está lendo pela primeira vez.
-   - Essa é uma coisa que está faltando aqui no Caloni.com.br, que é a manutenção dos artigos antigos. Prometo me esforçar mais em 2008. Promessa de ano-novo =).
+- Essa é mais fácil de fazer.
+
+1. Use sempre algum adjetivo para descrever sua própria reação à página que recomenda (ótima, imaginativa, clara, útil).
+
+- Essa dica foi clara e útil. Além de imaginativa e ótima, claro.
+
+1. Dê os créditos à fonte que você usou. Assim, seus leitores podem conferi-la e "moverem-se para cima".
+
+- Essencial, especialmente, mais uma vez, se tratando de blogues técnicos.
+
+1. Cuidado com os problemas de formatação estranha, múltiplas páginas com histórias, textos muito longos, etc. Não esconda o link principal entre outros auxiliares, mal identificados ou pobres.
+
+- Essa dica é mais para weblogs de fato. Eu passo.
+
+1. Escolha alguns autores favoritos ou celebridades e crie um feed no Google News, acompanhando novas menções a eles. Assim, outros fãs podem segui-los através do seu blog.
+
+- Você pode seguir os que sigo através da minha Home Page (update 2021-04-18: hoje em dia não sigo mais nada, mas links específicos existem nos posts; quem diria, acabei ficando mais blogger com o passar do tempo). Eventualmente compartilho posts através do Google Reader. Update 2021-04-18: não mais =(
+
+1. Reindique seus links favoritos de tempos em tempos para quem os perdeu, esquece ou o está lendo pela primeira vez.
+
+- Essa é uma coisa que está faltando aqui no Caloni.com.br, que é a manutenção dos artigos antigos. Prometo me esforçar mais em 2008. Promessa de ano-novo =).
 
 É isso. Concorda, discorda, sem corda? Imagino que a dica que mais me afetou foi aquela sobre humildade, lá no começo. Digo isso porque ainda está martelando na minha cabeça, pronta para transformar este blogue em algo mais democrático e transparente.
 
@@ -7597,9 +7733,11 @@ Um minidump contém apenas a pilha de chamada que causou a tela azul, o estados 
 
 A partir daí podemos extrair algumas informações úteis, que eu sublinhei na saída do WinDbg. Na ordem de chegada:
 
- - O código do Bug Check. Esse é talvez o mais importante, pois pode resolver rapidamente o nosso problema. Procurando na ajuda do WinDbg pelo código do erro (obs: execute o link pelo explorer) conseguimos ter algumas dicas de como evitar esse erro: "The MAXIMUMWAITOBJECTSEXCEEDED bug check has a value of 0x0000000C. This indicates that the current thread exceeded the permitted number of wait objects". Mais sobre isso pra depois.
- - Os dados da pilha. Pela pilha de chamadas, podemos não apenas saber se nosso driver está no meio com cara de culpado, como, através dos offsets, descobrir em que função ele se enfiou para dar no que deu.
- - A última chamada do kernel antes do nosso driver pode indicar-nos que evento foi o responsável por iniciar todo o processo de cabum. Nesse caso, IopLoadDriver nos dá uma ótima dica: foi na hora de carregar o nosso driver.
+- O código do Bug Check. Esse é talvez o mais importante, pois pode resolver rapidamente o nosso problema. Procurando na ajuda do WinDbg pelo código do erro (obs: execute o link pelo explorer) conseguimos ter algumas dicas de como evitar esse erro: "The MAXIMUMWAITOBJECTSEXCEEDED bug check has a value of 0x0000000C. This indicates that the current thread exceeded the permitted number of wait objects". Mais sobre isso pra depois.
+
+- Os dados da pilha. Pela pilha de chamadas, podemos não apenas saber se nosso driver está no meio com cara de culpado, como, através dos offsets, descobrir em que função ele se enfiou para dar no que deu.
+
+- A última chamada do kernel antes do nosso driver pode indicar-nos que evento foi o responsável por iniciar todo o processo de cabum. Nesse caso, IopLoadDriver nos dá uma ótima dica: foi na hora de carregar o nosso driver.
 
 Com isso em mãos, mesmo sem símbolos e nomes de funções no código, conseguiríamos achar o código responsável pelo BSOD. Porém, vamos imaginar por um momento que não foi tão fácil assim e fazer entrar em cena outra ferramenta indispensável nessas horas: o Interactive Disassembler.
 
@@ -7736,8 +7874,7 @@ WARNING: Many commands will not work
 No export analyze found
 ```
 
-Ou seja, vi que falta o Symbol Path.  Como resolvo isso para ele mostrar todo o dump?
-E como pode ser visto ele não mostrou o driver que causou a falha.
+Ou seja, vi que falta o Symbol Path.  Como resolvo isso para ele mostrar todo o dump?E como pode ser visto ele não mostrou o driver que causou a falha.
 
 Obrigado!
 
@@ -7778,9 +7915,11 @@ Você pode gravar um tema, rodar o WinDbg (sem parâmetros), ver se gosta do que
 
 Nas depurações do dia-a-dia algumas configurações devem estar sempre muito bem configuradas, para que torne seus momentos de desespero porque nada está funcionando mais agradáveis. Por isso, assim que escolher seu tema preferido trate de configurar os seguintes itens:
 
- - Diretórios de símbolos. Você pode começar com .symfix, que vai montar uma string padrão, e adicionar mais diretórios com .sympath+.
- - Diretórios de código-fonte. Coloque a raiz dos seus projetos principais. Com o tempo, se você mexe muito nos seus diretórios, é necessário fazer uma manutenção desse valor.
- - Diretórios de executáveis. Basicamente é o mesmo do diretório de símbolos.
+- Diretórios de símbolos. Você pode começar com .symfix, que vai montar uma string padrão, e adicionar mais diretórios com .sympath+.
+
+- Diretórios de código-fonte. Coloque a raiz dos seus projetos principais. Com o tempo, se você mexe muito nos seus diretórios, é necessário fazer uma manutenção desse valor.
+
+- Diretórios de executáveis. Basicamente é o mesmo do diretório de símbolos.
 
 Depois de configurar tudo isso, ajuste as janelas na melhor maneira e proporção que achar mais agradável. Esse será o último passo, pois depois você irá fechar o WinDbg e salvar o workspace, que a partir daí será o padrão sempre que abrir o depurador.
 
@@ -7881,9 +8020,11 @@ Assim como no [artigo sobre carregamento de DLLs arbitrárias],  vamos usar o mu
 .foreach [Options] ( Variable  { InCommands } ) { OutCommands }
 ```
 
- - Variable. Um nome que usamos no OutCommands. Representa cada token do resultado de InCommands.
- - InCommands. Um ou mais comandos que executamos para gerar uma saída na tela. Essa saída será usada em OutCommands, onde Variable é substituído por cada token da saída.
- - OutCommands. Um ou mais comandos executados usando a saída na tela de InCommands.
+- Variable. Um nome que usamos no OutCommands. Representa cada token do resultado de InCommands.
+
+- InCommands. Um ou mais comandos que executamos para gerar uma saída na tela. Essa saída será usada em OutCommands, onde Variable é substituído por cada token da saída.
+
+- OutCommands. Um ou mais comandos executados usando a saída na tela de InCommands.
 
 Para o .foreach, um token é uma string separada por espaço(s). A saída dos comandos do WinDbg nem sempre vai gerar algo que podemos usar diretamente, como no caso da busca que fizemos inicialmente. Apenas para demonstração, vamos imprimir todos os tokens da saída de nosso comando.
 
@@ -8155,8 +8296,9 @@ Breakpoint 1, factorial (n=993) at recursive-factorial1.c:3
 
 Isso acontece porque o compilador é obrigado a montar um novo stack frame para cada chamada da mesma função, já que os valores locais precisam manter-se intactos até o retorno recursivo da função. Porém, existe uma otimização chamada de tail recursion, que ocorre se, e somente se (de acordo com o livro):
 
- - A chamada recursiva é a última instrução que será executada no corpo da função.
- - O valor de retorno da chamada não é parte de uma expressão.
+- A chamada recursiva é a última instrução que será executada no corpo da função.
+
+- O valor de retorno da chamada não é parte de uma expressão.
 
 Note que ser a última instrução não implica em ser a última linha da função, o importante é que seja a última linha executada. No nosso exemplo, isso já é fato, só que usamos o retorno em uma expressão.
 
@@ -8465,10 +8607,13 @@ Se você tiver a oportunidade de vir a São Paulo, a Agit tem cursos de C e C++ 
 
 Agora, a distância, você tem algumas outras opções:
 
- - Freqüentar um curso online. Eu conheço o da UFMG.
- - Ler livros. Isso é realmente importante!
- - Freqüentar o sítio do nosso grupo de C/C++ e nossa lista de discussão.
- - Usar o Google e procurar por tutoriais
+- Freqüentar um curso online. Eu conheço o da UFMG.
+
+- Ler livros. Isso é realmente importante!
+
+- Freqüentar o sítio do nosso grupo de C/C++ e nossa lista de discussão.
+
+- Usar o Google e procurar por tutoriais
 
 Boa sorte!
 
@@ -8680,9 +8825,11 @@ Aquele pragma do começo garante que qualquer instância do mesmo executável, m
 
 Algumas desvantagens dessa técnica são:
 
- - Não permite compartilhamento entre executáveis diferentes, salvo se tratar-se de uma DLL carregada por ambos.
- - É um compartilhamento estático, que permanece do início do primeiro processo ao fim do último.
- - Não possui proteção, ou seja, se for uma DLL, qualquer executável que a carregar tem acesso à área de memória.
+- Não permite compartilhamento entre executáveis diferentes, salvo se tratar-se de uma DLL carregada por ambos.
+
+- É um compartilhamento estático, que permanece do início do primeiro processo ao fim do último.
+
+- Não possui proteção, ou seja, se for uma DLL, qualquer executável que a carregar tem acesso à área de memória.
 
 Muitas vezes essa abordagem é suficiente, como em hooks globais, que precisam apenas de uma ou duas variáveis compartilhadas. Também pode ser útil como contador de instâncias, do mesmo jeito que usamos as variáveis estáticas de uma classe em C++ (vide shared_ptr do boost, ou a CString do ATL, que usa o mesmo princípio).
 
@@ -9639,9 +9786,11 @@ Uma coisa que me espanta de vez em quando é o total desconhecimento por program
 
 Porém, para começar, só de falarmos em compilação já estamos pegando apenas um pedaço do todo, que é a geração de um programa executável em C. Tradicionalmente, dividimos esse processo em três passos:
 
-  1. Preprocessamento
-  2. Compilação
-  3. Linkedição
+1. Preprocessamento
+
+2. Compilação
+
+3. Linkedição
 
 Vamos dar uma olhada mais de perto em cada um deles e descobrir erros típicos de cada processo.
 
@@ -9762,9 +9911,11 @@ Chegando na linkedição, onde a esperança reside, tudo pode vir por água abai
 
 As características mais desejadas para corrigir erros nessa fase são:
 
-  1. Total conhecimento da fase do preprocessamento
-  2. Total conhecimento da fase da compilação
-  3. Total conhecimento de níveis de escopo e assinatura de funções
+1. Total conhecimento da fase do preprocessamento
+
+2. Total conhecimento da fase da compilação
+
+3. Total conhecimento de níveis de escopo e assinatura de funções
 
 Os dois primeiros itens são uma maldição previsível que deve-se carregar para todo o sempre. Se você não consegue entender o que aconteceu nas duas primeiras fases, dificilmente irá conseguir seguir adiante com essa empreitada. O terceiro item significa que deve-se levar em conta as bibliotecas que estamos usando, headers externos (com dependências externas), conflitos entre nomes, etc.
 
@@ -9900,10 +10051,13 @@ Bem, para resolver isso, a partir da IDE, temos que ir em Project, Properties, C
 
 Existem atualmente quatro tipos de runtime que você pode escolher:
 
- - Multi-threaded (/MT). Versão Release que não depende de DLL.
- - Multi-threaded Debug (/MTd). Versão Debug que não depende de DLL.
- - Multi-threaded DLL (/MD). Versão Release que depende de DLL.
- - Multi-threaded Debug DLL (/MDd). Versão Debug que depende de DLL.
+- Multi-threaded (/MT). Versão Release que não depende de DLL.
+
+- Multi-threaded Debug (/MTd). Versão Debug que não depende de DLL.
+
+- Multi-threaded DLL (/MD). Versão Release que depende de DLL.
+
+- Multi-threaded Debug DLL (/MDd). Versão Debug que depende de DLL.
 
 Essas runtimes são chamada de multi-threaded porque antigamente existiam versões single-threaded dessas mesmas runtimes. Contudo, versões mais novas do Visual Studio só vêm com esse sabor mesmo.
 
@@ -10117,9 +10271,11 @@ O Babylon possui um mecanismo para criação de dicionários chamado Babylon Bui
 
 A estrutura de diretórios interna da instalação é bem simples:
 
- - Raiz. Arquivos de ajuda, desinstalador, executável principal, etc.
- - Quadros. Figuras com conhecimentos gerais, como calendários, signos, línguas mais faladas, etc.
- - Dicionario. Provavelmente onde está todo o dicionário, cerca de 120 MB.
+- Raiz. Arquivos de ajuda, desinstalador, executável principal, etc.
+
+- Quadros. Figuras com conhecimentos gerais, como calendários, signos, línguas mais faladas, etc.
+
+- Dicionario. Provavelmente onde está todo o dicionário, cerca de 120 MB.
 
 Se analisarmos o conteúdo dos arquivos dentro da pasta Dicionario vamos descobrir que ele se parece com "garbage nonsense", apesar de existir um certo padrão. O padrão revela que pode se tratar de uma criptografia muito simples, talvez até um simples XOR.
 
@@ -10446,9 +10602,11 @@ tags: computer blog
 
 Um bug que já encontrei uma dúzia de vezes entre os novatos da STL é a utilização de iteradores como se eles não fossem mudar nunca. Porém, a verdade é bem diferente: iteradores se tornam inválidos sim, e com muito mais freqüência do que normalmente se imagina. Entre as situações em que iteradores podem mudar estão as seguintes:
 
- - Inserção de novo elemento no contêiner
- - Remoção de novo elemento no contêiner
- - Redimensionamento no tamanho do contêiner
+- Inserção de novo elemento no contêiner
+
+- Remoção de novo elemento no contêiner
+
+- Redimensionamento no tamanho do contêiner
 
 Por exemplo, o tradicional código do exemplo abaixo contém o tradicional erro de iterador inválido:
 
@@ -10660,9 +10818,11 @@ Como esta é uma exceção em anos de "googadas", eu fico com a terceira opção
 
 Existem algumas ferramentas que já salvaram minha vida uma dúzia de vezes e devo admitir que são tão poderosas e flexíveis quanto difíceis de usar:
 
- - Grep. Use esta se quiser fazer uma busca, qualquer busca, em um arquivo, um conjunto de arquivos ou uma enxurrada de caracteres do prompt de comando.
- - Sed. Use esta se quiser processar a entrada de um arquivo, um conjunto de arquivos ou uma enxurrada de caracteres do prompt de comando.
- - Sort. Use esta se quiser ordenar qualquer coisa da entrada padrão (inclusive arquivos, conjunto de arquivos...).
+- Grep. Use esta se quiser fazer uma busca, qualquer busca, em um arquivo, um conjunto de arquivos ou uma enxurrada de caracteres do prompt de comando.
+
+- Sed. Use esta se quiser processar a entrada de um arquivo, um conjunto de arquivos ou uma enxurrada de caracteres do prompt de comando.
+
+- Sort. Use esta se quiser ordenar qualquer coisa da entrada padrão (inclusive arquivos, conjunto de arquivos...).
 
 Essas ferramentas são nativas do ambiente Linux, mas podem ser instaladas no Windows através do Cygwin, do Mingw ou nativamente através das ferramentas GnuWin32.
 
@@ -11085,13 +11245,13 @@ Vale lembrar, que para aqueles que ainda não tem os livros Modern C++ Design do
 
 Wanderley,
 
-  Sinceramente, acho que sua versão para o nome do encontro bem mais interessante! Assim ele poderia-se chamar EPACCPP, que tal?
+Sinceramente, acho que sua versão para o nome do encontro bem mais interessante! Assim ele poderia-se chamar EPACCPP, que tal?
 
-  Por acaso nos encontros anteriores, teve alguém fantasiado de bug ou de Bjarne? :-)
+Por acaso nos encontros anteriores, teve alguém fantasiado de bug ou de Bjarne? :-)
 
 Alberto,
 
-  Realmente, acho que os ganhadores dos livros e de outros brindes com certeza serão aqueles com maior concentração de midichlorians no sangue.
+Realmente, acho que os ganhadores dos livros e de outros brindes com certeza serão aqueles com maior concentração de midichlorians no sangue.
 
 {}S
 
@@ -11268,11 +11428,11 @@ Hábitos, por definição, ao serem realizados repetidamente muitas vezes, podem
 
 Minhas restrições para que algo vire um hábito em minha vida, quando tarefas, são que a tarefa seja, antes de tudo:
 
- - Simples de fazer. Quero conseguir efetuar a tafefa sem ter que toda vez preparar um ritual em noite de lua cheia, sacrificar uma virgem para os deuses pagãos e lembrar de todas as palavras proparoxítonas que terminam com x e rimam com fênix.
+- Simples de fazer. Quero conseguir efetuar a tafefa sem ter que toda vez preparar um ritual em noite de lua cheia, sacrificar uma virgem para os deuses pagãos e lembrar de todas as palavras proparoxítonas que terminam com x e rimam com fênix.
 
- - Fácil de executar. É um complemento do primeiro item. Com isso eu quero dizer que, além de simples, eu não precise despender grande força e energia diariamente para efetuar a tarefa. Limpar uma pasta de arquivos temporários pode ser simples; mas é fácil?
+- Fácil de executar. É um complemento do primeiro item. Com isso eu quero dizer que, além de simples, eu não precise despender grande força e energia diariamente para efetuar a tarefa. Limpar uma pasta de arquivos temporários pode ser simples; mas é fácil?
 
- - Fácil de lembrar. Se eu tenho que fazer um esforço mental diário tão grande para lembrar do que fazer então muito provavelmente será difícil transformá-lo em um hábito.
+- Fácil de lembrar. Se eu tenho que fazer um esforço mental diário tão grande para lembrar do que fazer então muito provavelmente será difícil transformá-lo em um hábito.
 
 Passado por esse checklist, podemos montar um esquema tão simples que qualquer bobo que tem um blogue (por exemplo, eu) conseguirá executar diariamente, ou pelo menos quando tiver vontade. A freqüência dependerá se isso irá se transformar em um hábito ou não.
 
@@ -11290,21 +11450,21 @@ xcopy origem [destino] [opções]
 
 Algumas opções bem úteis para efetuar cópias de segurança de arquivos modificados:
 
- - /M copia somente arquivos com atributo de arquivamento; após a cópia, desmarca atributo. Ao escrever novamente em um arquivo copiado com esse método, o arquivo volta a ter o atributo de arquivamento, e irá ser copiado novamente se especificada essa opção. Se nunca mais for mexido, não será mais copiado.
+- /M copia somente arquivos com atributo de arquivamento; após a cópia, desmarca atributo. Ao escrever novamente em um arquivo copiado com esse método, o arquivo volta a ter o atributo de arquivamento, e irá ser copiado novamente se especificada essa opção. Se nunca mais for mexido, não será mais copiado.
 
- - /D copia arquivos mais novos na origem. Não costumo usar pelos problemas que podem ocorrer em sistemas com horas diferentes, mas, dependendo da ocasião, pode ser útil. Também é possível especificar uma data de início da comparação.
+- /D copia arquivos mais novos na origem. Não costumo usar pelos problemas que podem ocorrer em sistemas com horas diferentes, mas, dependendo da ocasião, pode ser útil. Também é possível especificar uma data de início da comparação.
 
- - /EXCLUDE - permite excluir arquivo(s) de uma cópia coletiva. Isso pode ser muito útil se você não deseja gastar tempo copiando arquivo que são inúteis dentro de pastas que contém arquivos importantes. É possível especificar um arquivo que irá conter uma lista de nomes-curinga, um por linha, que irá servir como filtro da cópia. Teremos um exemplo logo abaixo.
+- /EXCLUDE - permite excluir arquivo(s) de uma cópia coletiva. Isso pode ser muito útil se você não deseja gastar tempo copiando arquivo que são inúteis dentro de pastas que contém arquivos importantes. É possível especificar um arquivo que irá conter uma lista de nomes-curinga, um por linha, que irá servir como filtro da cópia. Teremos um exemplo logo abaixo.
 
- - /E copia pastas e subpastas, mesmo que vazias. Essa opção é básica, e ao mesmo tempo essencial. Não se esqueça dela quando for criar seu script de backup!
+- /E copia pastas e subpastas, mesmo que vazias. Essa opção é básica, e ao mesmo tempo essencial. Não se esqueça dela quando for criar seu script de backup!
 
- - /C continua copiando, mesmo com erros. Se é mais importante copiar o máximo que puder do que parar no primeiro errinho de acesso negado, essa opção deve ser usada. É possível redirecionar a saída para um arquivo de log, que poderá ser usado para procurar por erros que ocorreram durante a operação.
+- /C continua copiando, mesmo com erros. Se é mais importante copiar o máximo que puder do que parar no primeiro errinho de acesso negado, essa opção deve ser usada. É possível redirecionar a saída para um arquivo de log, que poderá ser usado para procurar por erros que ocorreram durante a operação.
 
- - /Q não exibe nome de arquivos ao copiar. Às vezes imprimir o nome de cada arquivo na saída do prompt de comando acaba sendo mais custoso que copiar o próprio arquivo. Quando a cópia envolve muitos arquivos pequenos, é recomendável usar esta opção.
+- /Q não exibe nome de arquivos ao copiar. Às vezes imprimir o nome de cada arquivo na saída do prompt de comando acaba sendo mais custoso que copiar o próprio arquivo. Quando a cópia envolve muitos arquivos pequenos, é recomendável usar esta opção.
 
- - /Y suprime perguntas para o usuário. Muito útil em arquivos batch, já que o usuário geralmente não estará lá para apertar enter quando o programa pedir.
+- /Y suprime perguntas para o usuário. Muito útil em arquivos batch, já que o usuário geralmente não estará lá para apertar enter quando o programa pedir.
 
- - /Z copia arquivos da rede em modo reiniciável. Muito importante quando estiver fazendo backup pela rede. Às vezes ela pode falhar, e essa opção permite continuar após pequenas quedas de desempenho.
+- /Z copia arquivos da rede em modo reiniciável. Muito importante quando estiver fazendo backup pela rede. Às vezes ela pode falhar, e essa opção permite continuar após pequenas quedas de desempenho.
 
 Para a cópia do patrimônio mais valioso de um programador, os fontes, podemos usar um conjunto bem bolado das 0pções acima, além de generalizar um script para ser usado em outras situações. Inicialmente vamos definir que queremos um backup que altere o atributo de arquivamento, sobrescreva cópias antigas e que possa ser copiado pela rede sem maiores problemas. Além disso, não iremos copiar as pastas Debug e Release existentes geradas pela saída de algum compilador (ex: saída do Visual Studio), nem arquivos temporários muito grandes (ex: arquivos de navegação de símbolos).
 
@@ -11517,13 +11677,19 @@ int main()
 
 Testei esse código nos seguintes compiladores:
 
- - Visual Studio 6. Falhou, demonstrando desconhecer a sintaxe.
- - Borland C++ Builder 5. Falhou, demonstrando desconhecer a sintaxe.
- - Borland Developer Studio 4. Falhou, com o mesmo erro.
- - Visual Studio 2003. Comportamento esperado.
- - Visual Studio 2005. Comportamento esperado.
- - Visual Studio 2008. Comportamento esperado.
- - G++ (no Cygwin). Comportamento esperado.
+- Visual Studio 6. Falhou, demonstrando desconhecer a sintaxe.
+
+- Borland C++ Builder 5. Falhou, demonstrando desconhecer a sintaxe.
+
+- Borland Developer Studio 4. Falhou, com o mesmo erro.
+
+- Visual Studio 2003. Comportamento esperado.
+
+- Visual Studio 2005. Comportamento esperado.
+
+- Visual Studio 2008. Comportamento esperado.
+
+- G++ (no Cygwin). Comportamento esperado.
 
 A saída esperada é a seguinte:
 
@@ -11541,8 +11707,9 @@ Meu caro,
 
 Só por curiosidade, eu também fiz o teste nos seguintes compiladores:
 
- - ICC, Intel C++ Compiler 10.1: Comportamento OK
- - DMC, Digital Mars C++ Compiler 8.48: Comportamento OK
+- ICC, Intel C++ Compiler 10.1: Comportamento OK
+
+- DMC, Digital Mars C++ Compiler 8.48: Comportamento OK
 
 []s
 
@@ -11782,7 +11949,9 @@ Grato pela atenção!
 Eu tenho um dicionário Houaiss 2.0 e o Babylon 7, mas não entendo nada de computação e portanto não entendi o que devo fazer para convertê-lo ao formato Babylon. Baixei a pasta acima [VERSÃO ATUAL] mas não tenho a mínima idéia de como usá-la.
 
 1. Da onde extraio o arquivo Houaiss.txt?
+
 2. Qual é a 'pasta do projeto'?
+
 3. Uma vez localizado o arquivo Houaiss.txt, se eu copiá-lo para a referida pasta, o que devo fazer? Clicar aonde?
 
 ---
@@ -11803,8 +11972,7 @@ Mesmo assim, mais uma vez obrigada. VALEU!!!
 
 Oi novamente,
 
-Tentei mais vezes, agora como administradora mas mesmo assim não deu certo.
-A mensagem de erro é a seguinte:
+Tentei mais vezes, agora como administradora mas mesmo assim não deu certo.A mensagem de erro é a seguinte:
 
 ```
 Value of '-2' is not valid for 'Value'. 'Value'should be between
@@ -11827,18 +11995,27 @@ Olá, Angélica.
 Por essa eu não esperava. As respostas para suas perguntas são:
 
 1. Não extrai. Ele deve ser gerado automaticamente no diretório de instalação do Houaiss, pasta Dicionario.
+
 2. A "pasta do projeto" é o diretório que você extraiu do linque "versão atual". Isso é, depois de você ter compilado o projeto (que é a geração do executável que faz todo o trabalho).
+
 3. Após gerado o arquivo Houaiss.txt, você deveria copiá-lo para a pasta do projeto.
 
 Bem, aqui vão algumas dicas e passos para fazer a conversão, mesmo sem conhecimentos de programação e informática avançada. Disponibilizei aqui uma versão compilada do projeto. É esse executável que você irá usar para todo o trabalho.
 
 1. Primeiro, certifique-se que instalou o Houaiss com a opção de copiar os arquivos para o disco rígido.
+
 2. Copie o arquivo Houaiss2Babylon.exe para a pasta de instalação do Houaiss e execute. A conversão irá demorar alguns minutos, e durante esse tempo você deve ver uma tela preta sendo exibida. Se você usa Windows Vista, talvez seja necessário executar o programa com direitos de administrador.
+
 3. Quando a tela preta sumir, o programa já deve ter desencriptado o Houaiss, e dentro da pasta Dicionario de instalação existirão alguns arquivos TXT que você pode apagar, e o Houaiss.txt, que você NÃO deve apagar ainda.
+
 4. Para o resto da conversão, você precisa do Babylon Builder. Instale-o antes de continuar.
+
 5. Copie o arquivo de projeto (Houaiss.grp) e o ícone (Houaiss.ico), que estão na pasta de projeto, para a pasta Dicionario onde está o arquvo Houaiss.txt.
+
 6. Dê um duplo clique no arquivo Houaiss.grp. Para que tudo funciona é ESSENCIAL que na mesma pasta estejam os arquivos Houaiss.ico e Houaiss.txt, este gerado nos passos anteriores.
+
 7. Quando a tela do Babylon Builder aparecer, escolha a opção Quick Build. Espere a conversão terminar.
+
 8. Se você chegou até aqui, um arquivo de dicionário Babylon foi gerado. Se não, algum problema ocorreu. Nesse caso, descreva o que aconteceu, por favor.
 
 []s
@@ -12241,9 +12418,7 @@ Muito bem. E a outra ponta da história?
 
 [Testes feitos em um Fedora 8, não me pergunte mais detalhes]
 
-O primeiro linque útil encontrado foi a documentação da Red Hat. Além disso seguem alguns macetes que eu descobri no decorrer do percurso. A primeira coisa a ser configurada é o arquivo /etc/sysconfig/network. Nele devemos, em uma configuração simplista, colocar uma única linha:
-NETWORKING=yes
-Tive alguns problemas com a entrada NETWORKING_IPV6, ou algo do gênero. A comunicação com o servidor DHCP da rede simplesmente não funcionava com essa linha, deixando o computador sem IP durante o boot. Má configuração do servidor? Pode até ser. Porém, não quis entrar nesses meandros.
+O primeiro linque útil encontrado foi a documentação da Red Hat. Além disso seguem alguns macetes que eu descobri no decorrer do percurso. A primeira coisa a ser configurada é o arquivo /etc/sysconfig/network. Nele devemos, em uma configuração simplista, colocar uma única linha:NETWORKING=yesTive alguns problemas com a entrada NETWORKING_IPV6, ou algo do gênero. A comunicação com o servidor DHCP da rede simplesmente não funcionava com essa linha, deixando o computador sem IP durante o boot. Má configuração do servidor? Pode até ser. Porém, não quis entrar nesses meandros.
 
 Por isso, se houver a linha sobre IPV6 e você tiver problemas, comente-a temporariamente.
 
@@ -12568,31 +12743,31 @@ Se você perder um pouco de tempo lendo o índice online perceberá que boa part
 
 Selecionei alguns tópicos que acredito que por si só já valeria a pena a aquisição do livro:
 
- - Crashes and Hangs Differentiated. Você sabe diferenciar quando uma aplicação trava e quando ela emperra?
+- Crashes and Hangs Differentiated. Você sabe diferenciar quando uma aplicação trava e quando ela emperra?
 
- - Minidump Analysis. Este item está no capítulo sobre análise profissional.
+- Minidump Analysis. Este item está no capítulo sobre análise profissional.
 
- - Raw Stack Data Analysis. Nunca é tarde para aprender sobre a pilha; de novo.
+- Raw Stack Data Analysis. Nunca é tarde para aprender sobre a pilha; de novo.
 
- - Symbols and Images
+- Symbols and Images
 
- - X64 Interrupts
+- X64 Interrupts
 
- - Trap Commands (on x86 and x64)
+- Trap Commands (on x86 and x64)
 
- - Bugchecks Depicted. Capítulo essencial, complemento necessário do AWD; boa parte do kernel mode ficou de fora do livro de Windows, espero que esse capítulo cubra essa carência.
+- Bugchecks Depicted. Capítulo essencial, complemento necessário do AWD; boa parte do kernel mode ficou de fora do livro de Windows, espero que esse capítulo cubra essa carência.
 
- - Manual Stack Trace Reconstruction. Isso vai ser legal =)
+- Manual Stack Trace Reconstruction. Isso vai ser legal =)
 
- - WinDbg Tips and Tricks. Provavelmente um dos mais úteis capítulos; não há nada como economizar tempo de debugging com um truque esperto na manga.
+- WinDbg Tips and Tricks. Provavelmente um dos mais úteis capítulos; não há nada como economizar tempo de debugging com um truque esperto na manga.
 
- - WinDbg Scripts. Com certeza esse capítulo ficaria mais rico com a ajuda do Farah; mesmo assim, deve estar recheado de código para otimizar tempo.
+- WinDbg Scripts. Com certeza esse capítulo ficaria mais rico com a ajuda do Farah; mesmo assim, deve estar recheado de código para otimizar tempo.
 
- - Crash Dump Analysis Patterns. A coleção de todas as idiossincrasias encontradas por Dmitry em todos esses anos (meses?) de blogue.
+- Crash Dump Analysis Patterns. A coleção de todas as idiossincrasias encontradas por Dmitry em todos esses anos (meses?) de blogue.
 
- - The Origin of Crash Dumps
+- The Origin of Crash Dumps
 
- - UML and Device Drivers. Este é um tópico que eu defendo, e que só uma pessoa como Dmitry consegue entender: usar UML para descrever o funcionamento do kernel mode. Além de tornar as coisas mais simples de enxergar, é uma ótima oportunidade de migração de "coder to developer" para o pessoal de baixo nível.
+- UML and Device Drivers. Este é um tópico que eu defendo, e que só uma pessoa como Dmitry consegue entender: usar UML para descrever o funcionamento do kernel mode. Além de tornar as coisas mais simples de enxergar, é uma ótima oportunidade de migração de "coder to developer" para o pessoal de baixo nível.
 
 Enfim, estou coçando os dedos para comprar logo um exemplar. Já sei pelo menos que com certeza será a versão em brochura (spoiler de 2026-02-12: não foi, foi a capa dura mesmo; ainda tenho ele), pois não agüento mais fazer exercício muscular com o mais novo integrante da minha maleta.
 
@@ -12794,8 +12969,9 @@ Reserve sua cadeira. Está marcado para o último dia do mês de maio o primeiro
 
 O assunto gira em torno de duas preocupações constantes na vida de todo programador de linguagens de nível médio:
 
- - Quanta velocidade eu preciso nesse código?
- - Em quais plataformas eu conseguiria compilar e rodar meu projeto?
+- Quanta velocidade eu preciso nesse código?
+
+- Em quais plataformas eu conseguiria compilar e rodar meu projeto?
 
 Para responder estas questões teremos uma bateria de palestras com temas que, dessa vez, focam o simples, puro e independente uso das linguagens C/C++:
 
@@ -12847,9 +13023,11 @@ Version  : 0.91
 
 O pior, no entanto, foi tentar encontrar uma solução para o problema. Fiz mil e uma pesquisas com palavras-chave que nem imaginava que seria capaz de formular. E nada. A princípio minha idéia era apenas atualizar a lista de pacotes do repositório gerenciado pelo yum, o gerenciador de pacotes oficial do Fedora. Entre minhas buscas, encontrei os seguintes itens:
 
- - Um FAQ do Fedora (que não conseguiu responder à minha pergunta).
- - O sítio do projeto do yum, gerenciador de pacotes (cujo FAQ não conseguiu responder o mínimo).
- - Uma lista enorme de sítios explicando como criar seu próprio repositório (sem comentários).
+- Um FAQ do Fedora (que não conseguiu responder à minha pergunta).
+
+- O sítio do projeto do yum, gerenciador de pacotes (cujo FAQ não conseguiu responder o mínimo).
+
+- Uma lista enorme de sítios explicando como criar seu próprio repositório (sem comentários).
 
 Enfim, a coisa não estava saindo do lugar. E o cronograma apertando até o dia final. Até que decidi usar o caminho mais rápido e pentelho: perguntar para quem entende do assunto. No caso meu amigo de trabalho Marcio Andrey Oliveira. A resposta foi simples e direta:
 
@@ -13000,9 +13178,11 @@ Simples, assim. O sinal de # no início do dump de memória denota memória real
 
 Infelizmente, o WinDbg não nos permite ler certas regiões da memória por conta do cacheamento feito pelo processador. Para permitir a leitura em todas as condições, existem  três flags que podem ser utilizados:
 
- - c lê da memória cacheada
- - uc lê da memória não-cacheada
- - wc lê da memória de escrita combinada
+- c lê da memória cacheada
+
+- uc lê da memória não-cacheada
+
+- wc lê da memória de escrita combinada
 
 Nesse caso é possível, embora fique por sua conta e risco, ler qualquer memória não-cacheada usando-se a flag uc.
 
@@ -13340,10 +13520,13 @@ Como podemos ver, o conflito só ocorre se ambos os usuário mexerem na mesma pa
 
 Em todos os conflitos de texto desse tipo, o Bazaar cria três arquivos de suporte e modifica o arquivo em conflito. Isso para cada conflito.
 
- - arquivo.cpp - Resultado de até onde o Bazaar conseguiu o merge
- - arquivo.cpp.BASE - Versão ancestral do arquivo
- - arquivo.cpp.THIS - Nosso arquivo original antes de tentar fazer merge
- - arquivo.cpp.OTHER - A versão que entrou em conflito com a nossa
+- arquivo.cpp - Resultado de até onde o Bazaar conseguiu o merge
+
+- arquivo.cpp.BASE - Versão ancestral do arquivo
+
+- arquivo.cpp.THIS - Nosso arquivo original antes de tentar fazer merge
+
+- arquivo.cpp.OTHER - A versão que entrou em conflito com a nossa
 
 Podemos fazer o merge da maneira que quisermos. Se vamos usar nossa versão de qualquer jeito é só sobrescrever o arquivo.cpp pelo arquivo.cpp.THIS. Se vamos fazer troca-troca de alterações, abrimos os arquivos .THIS e .OTHER e igualamos suas diferenças, copiando-as para arquivo.cpp.
 
@@ -13785,21 +13968,35 @@ Foi pensando nessa dificuldade que foi escrita esta [apresentação nota dez] po
 
 Mesmo tentando ser sucinto, o assunto ocupou um conjunto de 111 transparências que demoram de uma a duas horas de leitura cuidadosa, se você não fizer testes durante o trajeto. Entre as coisas que eu li e reli, segue uma lista importante para nunca ser esquecida (entre parênteses o número das transparências que considero mais importantes):
 
- - O que é são as bibliotecas de depuração do Windows e como elas podem te ajudar (6 e 9)
- - O que são símbolos de depuração (11, 12, 14)
- - Como funciona a manipulação de exceções e como depurar (18, 19, 85)
- - Como configurar seu depurador para funcionar globalmente (20)
- - Tipos de comandos no WinDbg (22)
- - Configurando símbolos e fontes no WinDbg (24, 25)
- - Interagindo com as janelas do WinDbg (33)
- - Informações sobre processos, pilhas e memória (29, 41, 43, 45, 66)
- - Informações sobre threads e locks (31, 55)
- - Comandos úteis com strings e memórias (66)
- - Avaliando expressões no WinDb: MASM e C++ (70, 71)
- - Usando breakpoints no WinDbg (básico) (81)
- - Usando breakpoints no WinDbg (complicado) (83, 84)
- - Depuração remota (muito útil!) (87)
- - Escolhendo a melhor ferramenta para o problema (fantástico!) (108)
+- O que é são as bibliotecas de depuração do Windows e como elas podem te ajudar (6 e 9)
+
+- O que são símbolos de depuração (11, 12, 14)
+
+- Como funciona a manipulação de exceções e como depurar (18, 19, 85)
+
+- Como configurar seu depurador para funcionar globalmente (20)
+
+- Tipos de comandos no WinDbg (22)
+
+- Configurando símbolos e fontes no WinDbg (24, 25)
+
+- Interagindo com as janelas do WinDbg (33)
+
+- Informações sobre processos, pilhas e memória (29, 41, 43, 45, 66)
+
+- Informações sobre threads e locks (31, 55)
+
+- Comandos úteis com strings e memórias (66)
+
+- Avaliando expressões no WinDb: MASM e C++ (70, 71)
+
+- Usando breakpoints no WinDbg (básico) (81)
+
+- Usando breakpoints no WinDbg (complicado) (83, 84)
+
+- Depuração remota (muito útil!) (87)
+
+- Escolhendo a melhor ferramenta para o problema (fantástico!) (108)
 
 Além da enchurrada de informações, o autor ainda explica a teoria com comandos digitados no próprio WinDbg, dando um senso bem mais prático à ferramenta. Ou seja, é útil tanto para os que aprendem por definições abstratas e lista de comandos quanto os que preferem já colocar a mão na massa e massacrar o bom e velho notepad.exe.
 
@@ -14079,11 +14276,11 @@ Como sempre, Strauss está apaixonado pelo Boost (e a STL). Descrevendo as parte
 
 Entre as coisas mais importantes citadas, que todo programador do novo século deveria saber, estão:
 
- - A total falta da necessidade de desalocarmos objetos manualmente em nossos programas, visto que o auto_ptr (STL) e shared_ptr (Boost) dão conta do recado de maneira impecável.
+- A total falta da necessidade de desalocarmos objetos manualmente em nossos programas, visto que o auto_ptr (STL) e shared_ptr (Boost) dão conta do recado de maneira impecável.
 
- - A total falta da necessidade de usarmos aqueles velhos arrays em C que quase nunca sabemos o tamanho exato para guardar nossos valores (e que continuamente colocávamos com o tamanho 100, MAX_PATH, ou UM_OUTRO_DEFINE_COMUM_EM_LINUX). A classe boost::array provê todas as funcionalidades básicas, além das avançadas, do uso de arrays tradicionais, sem qualquer overhead adicional de um array em C.
+- A total falta da necessidade de usarmos aqueles velhos arrays em C que quase nunca sabemos o tamanho exato para guardar nossos valores (e que continuamente colocávamos com o tamanho 100, MAX_PATH, ou UM_OUTRO_DEFINE_COMUM_EM_LINUX). A classe boost::array provê todas as funcionalidades básicas, além das avançadas, do uso de arrays tradicionais, sem qualquer overhead adicional de um array em C.
 
- - A total falta de necessidade de ficar convertendo strings e inteiros. Com a ajuda da classe std::string e de construções geniais como lexical_cast (Boost), felizmente podemos deixar nossas velhas funções que precisavam de um buffer, como _itoa (embora não-padrão).
+- A total falta de necessidade de ficar convertendo strings e inteiros. Com a ajuda da classe std::string e de construções geniais como lexical_cast (Boost), felizmente podemos deixar nossas velhas funções que precisavam de um buffer, como _itoa (embora não-padrão).
 
 Enfim, para quem pôde ver, a palestra focou nos princípios que farão hoje em dia um programador C++ completo, profissional e que, como seus colegas de outras linguagens, se preocupa igualmente com a produtividade de seu código. Ah, sim, e não gosta nem um pouco de reinventar a roda.
 
@@ -14145,8 +14342,9 @@ Boa pergunta, Tiago!
 
 Geralmente fica sob responsabilidade dos próprios palestrantes a divulgação de suas apresentações. Portanto, fique de olho em seus blogues ou na própria lista CCPP. Seguem os linques que conheço:
 
- - [Fábio Gallupo]
- - [Rodrigo Strauss]
+- [Fábio Gallupo]
+
+- [Rodrigo Strauss]
 
 []s
 
@@ -14201,17 +14399,17 @@ Tudo que precisamos é de um login, facilmente obtido na página principal, e de
 
 Dessa forma os passos são os seguintes:
 
- 1. Criar um login
+1. Criar um login
 
- 2. Registrar um projeto
+2. Registrar um projeto
 
- 3. Criar um par de chaves através do PuTTYgen
+3. Criar um par de chaves através do PuTTYgen
 
- 4. Atualizar no cadastro do saite (item "Update SSH keys")
+4. Atualizar no cadastro do saite (item "Update SSH keys")
 
- 5. Usar o Pageant para carregar a chave privada na memória
+5. Usar o Pageant para carregar a chave privada na memória
 
- 6. Use os comandos do Bazaar passando o usuário e o branch: bzr branch lp:~seu-usuario/projeto/branch
+6. Use os comandos do Bazaar passando o usuário e o branch: bzr branch lp:~seu-usuario/projeto/branch
 
 Simples e direto. E funciona!
 
@@ -14241,8 +14439,9 @@ Por outro lado, e mais importante ainda, é ela que permite que as funções sej
 
 Existem diversas formas de entender esses dois conceitos. Eu prefiro explicar pela mesma experiência que temos quando descobrimos a divisão hardware/software:
 
- - Hardware é o que você chuta
- - Software é o que você xinga
+- Hardware é o que você chuta
+
+- Software é o que você xinga
 
 Exatamente. Hardware é algo paupável, que você pode até chutar se quiser. Por exemplo, a sua memória RAM! No entanto, software é algo mais abstrato, que nós, seres humanos, não temos a capacidade de dar umas boas pauladas. Portanto, nos abstemos a somente xingar o maldito que fez o programa "buggento".
 
@@ -14348,10 +14547,13 @@ tags: computer archive
 
 Alguns conceitos-chave antes de trabalhar com o Bazaar são:
 
- - Revision (Revisão). Um snapshot dos arquivos que você está trabalhando.
- - Working Tree (Árvore de Trabalho). Um diretório contendo seus arquivos controlados por versão e subdiretórios.
- - Branch (Ramificação). Um grupo ordenado de revisões que descreve o histórico de um grupo de arquivos.
- - Repository (Repositório). Um depósito de revisões.
+- Revision (Revisão). Um snapshot dos arquivos que você está trabalhando.
+
+- Working Tree (Árvore de Trabalho). Um diretório contendo seus arquivos controlados por versão e subdiretórios.
+
+- Branch (Ramificação). Um grupo ordenado de revisões que descreve o histórico de um grupo de arquivos.
+
+- Repository (Repositório). Um depósito de revisões.
 
 Agora vamos brincar um pouco com os conceitos.
 
@@ -15211,10 +15413,13 @@ int FuncaoDeExemplo(int firstParam, int anotherParam)
 
 Vejamos:
 
- - brief. Serve como descrição inicial e sucinta do que a função faz. Mais explicações podem existir depois dessa primeira linha introdutória.
- - param. Descreve o objetivo de um parâmetro, assim como se ele é de entrada ou saída.
- - return. Explica os diversos retornos que a função pode ter.
- - remark. Observações especiais que podem ajudar quem chama a função.
+- brief. Serve como descrição inicial e sucinta do que a função faz. Mais explicações podem existir depois dessa primeira linha introdutória.
+
+- param. Descreve o objetivo de um parâmetro, assim como se ele é de entrada ou saída.
+
+- return. Explica os diversos retornos que a função pode ter.
+
+- remark. Observações especiais que podem ajudar quem chama a função.
 
 Existem diversos outros tipos de marcadores e com certeza você encontrará muita utilidade em outros. No entanto, esse é o basico que todo desenvolvedor do seu time deve saber para já começar a documentar suas funções.
 
@@ -15393,9 +15598,9 @@ Uma explicação sobre como funciona o processo de logon (local e remoto) e os c
 
 Após essa leitura picante, podemos voltar ao feijão com arroz e começar de novo lendo a descrição de como funciona a GINA na Wikipedia, que nos remete a vários linques interessantes, entre os quais:
 
- - A explicação documentada do MSDN de como funciona a interação entre Winlogon e GINA.
+- A explicação documentada do MSDN de como funciona a interação entre Winlogon e GINA.
 
- - Um ótimo artigo dividido em duas partes que explica como fazer sua própria customização de GINA. Foi nele que encontrei o retorno que precisava para emular a execução do Gerenciador de Tarefas baseado na digitação do Ctrl + Alt + Del. De brinde ainda vem uma GINA de exemplo para download.
+- Um ótimo artigo dividido em duas partes que explica como fazer sua própria customização de GINA. Foi nele que encontrei o retorno que precisava para emular a execução do Gerenciador de Tarefas baseado na digitação do Ctrl + Alt + Del. De brinde ainda vem uma GINA de exemplo para download.
 
 A partir de mais algumas buscas e execuções do Process Monitor podemos encontrar os valores no registro que habilitam o Fast User Switching e a Tela de Boas Vindas do Windows XP. O valor da Tela de Boas Vindas é que habilita e desabilita a execução do Gerenciador de Tarefas baseado em Ctrl + Alt + Del. Esses itens são essenciais para os que quiserem criar uma réplica perfeita da GINA da Microsoft no Windows XP. Isso finaliza a minha busca.
 
@@ -15474,25 +15679,25 @@ bzr ci -m "Projeto-modelo. Herde desse projeto sua estrutura inicial"
 
 Estruturação proposta:
 
- - Build. Essa pasta contém tudo que é necessário para compilar e testar o projeto como um todo. Idealmente a execução da batch build.bat deve executar todo o processo. Após a compilação, é de competência dos componentes na subpasta Tests fazer os testes básicos do projeto para se certificar de que tudo está funcionando como deveria.
+- Build. Essa pasta contém tudo que é necessário para compilar e testar o projeto como um todo. Idealmente a execução da batch build.bat deve executar todo o processo. Após a compilação, é de competência dos componentes na subpasta Tests fazer os testes básicos do projeto para se certificar de que tudo está funcionando como deveria.
 
- - Common. Aqui devem ser colocados aqueles includes que servem para vários pontos do projeto. Está exemplificado pelo arquivo de versão (Version.h), pois todos os arquivos devem referenciar uma única versão do produto. Podem existir Outras definições básicas, como nome do produto, dos arquivos, etc. É aqui que são gravadas as interfaces que permitem dependência circular entre os componentes (e.g. Interface de componentes COM).
+- Common. Aqui devem ser colocados aqueles includes que servem para vários pontos do projeto. Está exemplificado pelo arquivo de versão (Version.h), pois todos os arquivos devem referenciar uma única versão do produto. Podem existir Outras definições básicas, como nome do produto, dos arquivos, etc. É aqui que são gravadas as interfaces que permitem dependência circular entre os componentes (e.g. Interface de componentes COM).
 
- - Docs. Aqui deve ser colocada toda a documentação que diz respeito ao projeto. A organização interna ainda não foi definida, pois imagina-se ser possível usar diversas fontes, como doxygen, casos de uso, bugs, arquivos de projeto e UML. Foi exemplificado com o arquivo todo.txt e changes.txt, que deve ter sempre a lista de coisas a fazer e a lista de coisas já feitas, respectivamente, tendo, portanto, que ser sempre atualizados.
+- Docs. Aqui deve ser colocada toda a documentação que diz respeito ao projeto. A organização interna ainda não foi definida, pois imagina-se ser possível usar diversas fontes, como doxygen, casos de uso, bugs, arquivos de projeto e UML. Foi exemplificado com o arquivo todo.txt e changes.txt, que deve ter sempre a lista de coisas a fazer e a lista de coisas já feitas, respectivamente, tendo, portanto, que ser sempre atualizados.
 
- - Drivers. Essa é a parte onde ficam todos os componentes que rodam em kernel mode. Por se tratar de um domínio específico e muitas vezes compartilhar código-fonte de maneira não-heterodoxa (e.g. sem uso de LIBs), faz sentido existir uma pasta que agrupe esses elementos. Dentro da pasta existem subpastas para cada driver, exemplificados em Driver1 e Driver2.
+- Drivers. Essa é a parte onde ficam todos os componentes que rodam em kernel mode. Por se tratar de um domínio específico e muitas vezes compartilhar código-fonte de maneira não-heterodoxa (e.g. sem uso de LIBs), faz sentido existir uma pasta que agrupe esses elementos. Dentro da pasta existem subpastas para cada driver, exemplificados em Driver1 e Driver2.
 
- - Install. Todas as coisas relacionadas com instalação, desinstalação e atualização do software deve vir nessa pasta. Foi reservada uma subpasta para cada item, não sendo obrigatória sua divisão. Também existe uma pasta de DLLs, onde possivelmente existam telas personalizadas e biblioteca de uso comum pelos instaladores (o desinstalador conversa com o instalador e assim por diante).
+- Install. Todas as coisas relacionadas com instalação, desinstalação e atualização do software deve vir nessa pasta. Foi reservada uma subpasta para cada item, não sendo obrigatória sua divisão. Também existe uma pasta de DLLs, onde possivelmente existam telas personalizadas e biblioteca de uso comum pelos instaladores (o desinstalador conversa com o instalador e assim por diante).
 
- - Interface. Todas as telas de um programa devem ser colocadas nessa pasta. Essa é uma divisão que deve ser seguida conceitualmente. Por exemplo, se existir um gerenciador de alguma coisa no produto, as telas do gerenciador e o comportamento da interface ficam nessa pasta, mas o comportamento intrínseco do sistema (regras de negócio) devem ficar em Libraries. Para exemplificar o uso, foram criadas as Interface1 e Interface2.
+- Interface. Todas as telas de um programa devem ser colocadas nessa pasta. Essa é uma divisão que deve ser seguida conceitualmente. Por exemplo, se existir um gerenciador de alguma coisa no produto, as telas do gerenciador e o comportamento da interface ficam nessa pasta, mas o comportamento intrínseco do sistema (regras de negócio) devem ficar em Libraries. Para exemplificar o uso, foram criadas as Interface1 e Interface2.
 
- - Libraries. O ponto central do projeto, deve conter o código mais importante. Imagine a pasta Libraries como a inteligência de um projeto, de onde todos os outros componentes se utilizam para que a lógica do software seja sempre a mesma. As outras partes do projeto lidam com aspectos técnicos, enquanto o Libraries contém as regras abstratas de funcionamento. Opcionalmente ela pode ser estática ou dinâmica, caso onde foi criada a subpasta DLLs. Porém, elas devem ser divididas por função em bibliotecas estáticas, como foi exemplificado em Library1 e Library2.
+- Libraries. O ponto central do projeto, deve conter o código mais importante. Imagine a pasta Libraries como a inteligência de um projeto, de onde todos os outros componentes se utilizam para que a lógica do software seja sempre a mesma. As outras partes do projeto lidam com aspectos técnicos, enquanto o Libraries contém as regras abstratas de funcionamento. Opcionalmente ela pode ser estática ou dinâmica, caso onde foi criada a subpasta DLLs. Porém, elas devem ser divididas por função em bibliotecas estáticas, como foi exemplificado em Library1 e Library2.
 
- - Resources. A origem de todas as imagens, sons, cursores, etc de um projeto devem residir primeiramente na pasta Resources. A divisão interna desse item fica a critério do designer responsável, pois ele pode dividir tanto por função (Install, Interface) quanto por elementos (Images, Sounds).
+- Resources. A origem de todas as imagens, sons, cursores, etc de um projeto devem residir primeiramente na pasta Resources. A divisão interna desse item fica a critério do designer responsável, pois ele pode dividir tanto por função (Install, Interface) quanto por elementos (Images, Sounds).
 
- - Services. Além dos drivers e das interfaces alguns projetos necessitam de processos "invisíveis" que devem fazer algo no sistema. Isso inclui serviços do Windows, GINAs, componentes COM e coisas do gênero. Devem ser colocados nessa pasta e distribuídos como no exemplo, em Service1 e Service2.
+- Services. Além dos drivers e das interfaces alguns projetos necessitam de processos "invisíveis" que devem fazer algo no sistema. Isso inclui serviços do Windows, GINAs, componentes COM e coisas do gênero. Devem ser colocados nessa pasta e distribuídos como no exemplo, em Service1 e Service2.
 
- - Tools. Além dos componentes essenciais para o funcionamento do software também existem aqueles componentes que fornecem mais poder ao usuário, ao pessoal do suporte ou ao próprio time de desenvolvimento. Essas são as ferramentas de suporte que permitem a fácil identificação de erros no programa ou a configuração mais avançada de um item que a Interface não cobre. Adicionalmente foi colocada a subpasta Develop, que deve conter ferramentas usadas estritamente durante a fase de desenvolvimento.
+- Tools. Além dos componentes essenciais para o funcionamento do software também existem aqueles componentes que fornecem mais poder ao usuário, ao pessoal do suporte ou ao próprio time de desenvolvimento. Essas são as ferramentas de suporte que permitem a fácil identificação de erros no programa ou a configuração mais avançada de um item que a Interface não cobre. Adicionalmente foi colocada a subpasta Develop, que deve conter ferramentas usadas estritamente durante a fase de desenvolvimento.
 
 Todos os componentes que disponibilizarem unidades de testes devem conter uma pasta Tests dentro de si. Essa padronização permite facilmente a localização de testes internos aos componentes. Além disso, os arquivos executáveis de testes devem sempre terminar seu nome com Test, o que permite a automatização do processo de teste durante o build.
 
@@ -15515,11 +15720,11 @@ A instalação é simples e indolor, sendo constituída de cinco ou seis botões
 
 Vejamos um pouco sobre redes.
 
- - Use bridged networking. É criada uma conexão real através de uma ponte feita em cima de uma placa de rede da máquina real. É usado um IP diferente da máquina real e se comporta como uma outra máquina qualquer na rede.
+- Use bridged networking. É criada uma conexão real através de uma ponte feita em cima de uma placa de rede da máquina real. É usado um IP diferente da máquina real e se comporta como uma outra máquina qualquer na rede.
 
- - Use NAT. As conexões são criadas usando o IP do sistema operacional hospedeiro. Para isto acontecer é usado o conhecido esquema de NAT, onde um único IP externo pode representar n IPs internos de uma rede (nesse caso, a rede virtual formada pelas máquinas virtuais de uma mesma máquina real).
+- Use NAT. As conexões são criadas usando o IP do sistema operacional hospedeiro. Para isto acontecer é usado o conhecido esquema de NAT, onde um único IP externo pode representar n IPs internos de uma rede (nesse caso, a rede virtual formada pelas máquinas virtuais de uma mesma máquina real).
 
- - Use host-only networking. O IP usado nessa conexão é diferente da máquina real, mas só é enxergada por ela e por outras VMs localizadas na mesma máquina hospedeira. Muito útil para isolar um teste de vírus, quando se precisa de uma rede mas não podemos usar a rede da empresa inteira.
+- Use host-only networking. O IP usado nessa conexão é diferente da máquina real, mas só é enxergada por ela e por outras VMs localizadas na mesma máquina hospedeira. Muito útil para isolar um teste de vírus, quando se precisa de uma rede mas não podemos usar a rede da empresa inteira.
 
 Imagine uma VM (Virtual Machine) como uma máquina de verdade, onde podemos dar boot, formatar HDs (virtuais ou reais), colocar e remover dispositivos. Tendo isso em mente, fica simples entender o que funciona por dentro de sua console, ou seja, a tela onde vemos a saída da virtualização.
 
@@ -15537,19 +15742,19 @@ A instalação do sistema operacional segue os mesmos passos que a instalação 
 
 Vejamos um pouco sobre as teclas mágicas.
 
- - Entrar o foco na VM. Digite Ctrl + G. Todos seus movimentos de teclado e mouse só irão funcionar dentro da máquina virtual, exceto o Ctrl + Alt + Del, exclusividade do sistema de autenticação do Windows.
+- Entrar o foco na VM. Digite Ctrl + G. Todos seus movimentos de teclado e mouse só irão funcionar dentro da máquina virtual, exceto o Ctrl + Alt + Del, exclusividade do sistema de autenticação do Windows.
 
- - Tirar o foco da VM. Digite Ctrl + Alt. Todos seus movimentos de teclado e mouse passam a ser do SO hospedeiro.
+- Tirar o foco da VM. Digite Ctrl + Alt. Todos seus movimentos de teclado e mouse passam a ser do SO hospedeiro.
 
- - Ctrl + Alt + Del dentro da VM. Use Ctrl + Alt + Insert. Ele terá o mesmo efeito que um CAD, independente em que tela estiver em sua VM.
+- Ctrl + Alt + Del dentro da VM. Use Ctrl + Alt + Insert. Ele terá o mesmo efeito que um CAD, independente em que tela estiver em sua VM.
 
 Após feita a instalação, você terá um sistema operacional rodando dentro de um sistema operacional. Isso não é legal?
 
 A primeira coisa a fazer em sua VM com SO recém-instalado é criar um snapshot, ou seja, salvar o estado atual de sua máquina virtual. Ao fazer isso, se fizer alguma coisa dentro da VM que possa se arrepender depois, basta voltar para o estado que salvou anteriormente. A VMware permite criar quantos snapshots precisar (basta ter espaço em disco). Ela permite que você crie novas máquinas virtuais a partir de um estado de uma VM já criada, o que pode economizar todo o tempo de montar do zero outra VM ou copiar o disco virtual.
 
- - Abrir os seus e-mails suspeitos. Não tenha mais medo de sujar seu computador com e-mails de conteúdo duvidoso. Crie um estado seguro em sua VM através de um snapshot (fotografia de estado da máquina virtual) e execute os anexos mais absurdos. Depois basta voltar para o estado seguro.
+- Abrir os seus e-mails suspeitos. Não tenha mais medo de sujar seu computador com e-mails de conteúdo duvidoso. Crie um estado seguro em sua VM através de um snapshot (fotografia de estado da máquina virtual) e execute os anexos mais absurdos. Depois basta voltar para o estado seguro.
 
- - Testes que costumam alterar o estado da máquina. Driver, GINA ou serviço novo? Que tal usar uma VM para fazer os testes iniciais e parar de reformatar o Windows?
+- Testes que costumam alterar o estado da máquina. Driver, GINA ou serviço novo? Que tal usar uma VM para fazer os testes iniciais e parar de reformatar o Windows?
 
 As VMs possibilitam um mundo de utilidades que o mundo ainda está descobrindo. Para nós, desenvolvedores, a maior vantagem de tudo isso é termos nossos ambientes de testes mais bizarros facilmente configurados no conforto de uma caixinha de areia.
 
@@ -15642,8 +15847,7 @@ Sobre o problema no saite, ocorre com o Firefox quando abro uma segunda página 
 
 Oi Caloni
 
-Agora consegui usar!! Mas não gerou o arquivo Houaiss.txt. Percebi outra coisa também: na pasta dicionario não tenho os arquivos deah049.dhx até o deah059.dhx. Já desintalei o dicionario e instalei de volta, mas esses arquivos não apareceram.
-Obrigado
+Agora consegui usar!! Mas não gerou o arquivo Houaiss.txt. Percebi outra coisa também: na pasta dicionario não tenho os arquivos deah049.dhx até o deah059.dhx. Já desintalei o dicionario e instalei de volta, mas esses arquivos não apareceram.Obrigado
 
 ---
 
@@ -15805,9 +16009,9 @@ Essa função, pelo visto, tem mudado de nome desde o Visual C++ 6, o que fez co
 
 Para sanar o problema, existem duas coisas que podem ser feitas:
 
-  1. Usar a delayimp.lib antiga. Isso não exige nenhuma mudança no código.
+1. Usar a delayimp.lib antiga. Isso não exige nenhuma mudança no código.
 
-  2. Criar uma função delayLoadHelper como wrapper. Isso exige a escrita de código. O código-fonte dessa função está disponível no diretório Include do Visual Studio, e pode ser adaptada para versões antigas.
+2. Criar uma função delayLoadHelper como wrapper. Isso exige a escrita de código. O código-fonte dessa função está disponível no diretório Include do Visual Studio, e pode ser adaptada para versões antigas.
 
 Nessa sessão de depuração você aprendeu como usar o Process Monitor para rastrear arquivos usados na compilação e como listar símbolos de LIBs que são usadas para lincar o programa.
 
@@ -15896,12 +16100,17 @@ O motivo de tantos erro pode ter sido o fato que o valor retornado é uma estrut
 
 Eis a tabela de campos do retorno de GetVersion:
 
- - Platform, High-order bit, Next 7 bits, Low-order byte
- - Windows NT 3.51, 0, Build number, 3
- - Windows NT 4.0, 0, Build number, 4
- - Windows 2000 or Windows XP, 0, Build number, 5
- - Windows 95, Windows 98, or Windows Me, 1, Reserved, 4
- - Win32s with Windows 3.1, 1, Build number, 3
+- Platform, High-order bit, Next 7 bits, Low-order byte
+
+- Windows NT 3.51, 0, Build number, 3
+
+- Windows NT 4.0, 0, Build number, 4
+
+- Windows 2000 or Windows XP, 0, Build number, 5
+
+- Windows 95, Windows 98, or Windows Me, 1, Reserved, 4
+
+- Win32s with Windows 3.1, 1, Build number, 3
 
 Mesmo que não seja tão difícil, pode ser ambíguo. Por exemplo, como saber se o Windows é 95, 98 ou ME?
 
@@ -15929,18 +16138,25 @@ int main()
 
 Nem sempre o handle que obtemos é fechado com CloseHandle. As funções abaixo retornam handles que devem ser desalocados com as funções à direita:
 
- - Função que obtém recurso: Função que libera recurso
- - LoadLibrary: FreeLibrary
- - RegOpenKey: RegCloseKey
- - GetDC: ReleaseDC
- - BeginPaint: EndPaint
+- Função que obtém recurso: Função que libera recurso
+
+- LoadLibrary: FreeLibrary
+
+- RegOpenKey: RegCloseKey
+
+- GetDC: ReleaseDC
+
+- BeginPaint: EndPaint
 
 Sempre tem mais exemplos. Algumas dicas úteis para o dia-a-dia de um programador Win32 API são:
 
- - Leia a documentação;
- - Se atente aos valores de retorno em caso de sucesso e erro;
- - Leia sempre a seção remarks pelo menos uma vez; ela explica como desalocar recursos;
- - Releia a documentação.
+- Leia a documentação;
+
+- Se atente aos valores de retorno em caso de sucesso e erro;
+
+- Leia sempre a seção remarks pelo menos uma vez; ela explica como desalocar recursos;
+
+- Releia a documentação.
 
 Às vezes uma singela chamada de uma função de autenticação pode nos fazer preencher uma estrutura de 20 membros, sendo que seis deles são obtidos com mais sete chamadas de funções, todas com direito a desalocar recursos no final. O importante é sempre manter a calma, o espírito de aprendizado e aventura. Afinal, quem mandou não fazer software de telinha?
 
@@ -16430,11 +16646,15 @@ When a debugger starts a process to be debugged or, the article case, connects t
 
 Among these events we can tell the most frequent:
 
- - Activated breakpoints
- - Thrown exceptions
- - Threads creation/termination
- - DLLs load/unload
- - Process exit
+- Activated breakpoints
+
+- Thrown exceptions
+
+- Threads creation/termination
+
+- DLLs load/unload
+
+- Process exit
 
 In the case of connecting into a existent process, the API DebugActiveProcess is called. Since this call, if successful, the caller program is free now to call the API DebugActiveProcess, looking for debugging events. The main loop for a debugger is, so, pretty simple:
 
@@ -16551,11 +16771,15 @@ int main(int argc, char* argv[])
 
 The needed steps to test the code above are:
 
-  1. Compile the code
-  2. Run notepad (or another victim)
-  3. Get its PID (Process ID)
-  4. Run the protector process passing the notepad PID as the argument
-  5. Try to attach to the notepad using a debugger (e.g. Visual C++)
+1. Compile the code
+
+2. Run notepad (or another victim)
+
+3. Get its PID (Process ID)
+
+4. Run the protector process passing the notepad PID as the argument
+
+5. Try to attach to the notepad using a debugger (e.g. Visual C++)
 
 After the attach process, the debug port is occupied, and the communication between the debugger and debuggee is made throug LPC. Bellow we can see a little illustration of how things work:
 
@@ -16677,9 +16901,9 @@ There are a lot of ways to do the same thing. The example above is what is norma
 
 Alternative ways to do this are:
 
-  1. To declare a naked function in Visual Studio, to create an empty function just after, do some math to calculate the size of the function to be copied into another place (aware of Edit and Continue option).
+1. To declare a naked function in Visual Studio, to create an empty function just after, do some math to calculate the size of the function to be copied into another place (aware of Edit and Continue option).
 
-  2. To create a structure whose members are masked opcodes. This way, is possible in the constructor to receive the values and use it as a "mobile function".
+2. To create a structure whose members are masked opcodes. This way, is possible in the constructor to receive the values and use it as a "mobile function".
 
 Both have pros and cons. The cons are related with the environment dependency. In the first alternative is necessary to configure the project to disable "Edit and Continue" option, whilst in the second one is necessary to align 1 byte the structure.
 
@@ -16751,29 +16975,35 @@ A exemplo do que Dmitry fez com os livros de drivers, acredito que a mesma coisa
 
 No momento, minha prática se resume a isso:
 
- - Debug or not debug. Aqui resolvi dar uma olhada de perto nas macros e funções usadas para tracing no DDK, e descobri que, assim como a runtime do C, podemos ter mensagens formatadas no estilo do printf e vprintf, o que economiza uma porção de código repetitivo. Dessa forma pude usar minha estratégia de ter a macro LOG usada para mandar linhas de depuração na saída padrão. Ainda tenho que estudar, contudo, o uso da variável va_list em kernel.
+- Debug or not debug. Aqui resolvi dar uma olhada de perto nas macros e funções usadas para tracing no DDK, e descobri que, assim como a runtime do C, podemos ter mensagens formatadas no estilo do printf e vprintf, o que economiza uma porção de código repetitivo. Dessa forma pude usar minha estratégia de ter a macro LOG usada para mandar linhas de depuração na saída padrão. Ainda tenho que estudar, contudo, o uso da variável va_list em kernel.
 
- - ExAllocatePool (WithoutTag). Precisei fazer alguns testes no Dependency Walker e anexar o fonte que faz a vez do GetProcAddress para drivers em meu miniprojeto do Bazaar para aprendizado de programação em kernel.
+- ExAllocatePool (WithoutTag). Precisei fazer alguns testes no Dependency Walker e anexar o fonte que faz a vez do GetProcAddress para drivers em meu miniprojeto do Bazaar para aprendizado de programação em kernel.
 
- - Getting Started. Esse foi o artigo mais interessante de todos, pois foi a base de todo o código que ando repetindo em meus exercícios. Além desse, é vital o uso do Visual Studio no processo de desenvolvimento, pois muitas (quase todas) das funções do DDK são alienígenas para mim, assim como os seus 497 parâmetros cada.
+- Getting Started. Esse foi o artigo mais interessante de todos, pois foi a base de todo o código que ando repetindo em meus exercícios. Além desse, é vital o uso do Visual Studio no processo de desenvolvimento, pois muitas (quase todas) das funções do DDK são alienígenas para mim, assim como os seus 497 parâmetros cada.
 
- - Driver plus plus. Tive que perder algum tempo codificando uma segunda versão do Useless e baixando o framework da Hollis para testar as peculiaridades do C++ em kernel mode. Não que eu vá usar alguma coisa avançada nesse estágio, mas preciso conhecer algumas limitações e alguns macetes que farão uma grande diferença no futuro, quando as linhas de código ultrapassarem 10.000.
+- Driver plus plus. Tive que perder algum tempo codificando uma segunda versão do Useless e baixando o framework da Hollis para testar as peculiaridades do C++ em kernel mode. Não que eu vá usar alguma coisa avançada nesse estágio, mas preciso conhecer algumas limitações e alguns macetes que farão uma grande diferença no futuro, quando as linhas de código ultrapassarem 10.000.
 
- - Pulei alguns tópicos que pretendo explorar quando estiver mais à vontade com alguns conceitos básicos, como a explicação de como obter o processo dono de uma IRP, a explicação do que é uma IRP (apesar de eu ter baixado e brincado com o monitor da OSR) e a aparentemente simples explanação sobre como funcionam as listas ligadas do DDK. Tudo isso virá com o tempo, e algumas coisas estarão sempre martelando na cabeça. É só dar tempo ao tempo e codificar.
+- Pulei alguns tópicos que pretendo explorar quando estiver mais à vontade com alguns conceitos básicos, como a explicação de como obter o processo dono de uma IRP, a explicação do que é uma IRP (apesar de eu ter baixado e brincado com o monitor da OSR) e a aparentemente simples explanação sobre como funcionam as listas ligadas do DDK. Tudo isso virá com o tempo, e algumas coisas estarão sempre martelando na cabeça. É só dar tempo ao tempo e codificar.
 
- - Nós queremos exemplos. Esse foi o artigo que mais me deu trabalho, mas que mais valeu a pena. Codifiquei tudo do zero, olhando aos poucos no código do Fernando para pegar o jeito de usar funções com nomes enormes e auto-explicativas e parâmetros com os nomes a, b, c. Também dediquei um tempinho considerável com a aplicação de user mode, para (re)aprender a depurar dos dois lados da moeda.
+- Nós queremos exemplos. Esse foi o artigo que mais me deu trabalho, mas que mais valeu a pena. Codifiquei tudo do zero, olhando aos poucos no código do Fernando para pegar o jeito de usar funções com nomes enormes e auto-explicativas e parâmetros com os nomes a, b, c. Também dediquei um tempinho considerável com a aplicação de user mode, para (re)aprender a depurar dos dois lados da moeda.
 
 Próximos passos?
 
 Pelo que eu vi, no geral, acredito que aos poucos irei voltar para os tópicos que pulei, além de olhar em outros artigos que chamaram minha atenção:
 
- - Como criar um driver de boot
- - Usando o DSF para interagir com dispositivos USB de mentirinha
- - A continuação emocionante de nosso driver que recebe reads e writes
- - Usar o que existe de bom e melhor para garantir a qualidade de um driver
- - Mais alguns detalhes que começam a fazer sentido em nosso KernelEcho
- - Criando e usando IOCTLs. Essa vai ser ótima!
- - A necessidade inevitável de mexer com o registro do sistema
+- Como criar um driver de boot
+
+- Usando o DSF para interagir com dispositivos USB de mentirinha
+
+- A continuação emocionante de nosso driver que recebe reads e writes
+
+- Usar o que existe de bom e melhor para garantir a qualidade de um driver
+
+- Mais alguns detalhes que começam a fazer sentido em nosso KernelEcho
+
+- Criando e usando IOCTLs. Essa vai ser ótima!
+
+- A necessidade inevitável de mexer com o registro do sistema
 
 Tudo isso aliado aos exemplos e à teoria latente do Windows 2000 Device Driver Book (minha primeira leitura) irá dar um upgrade forçado aos meus neurônios. Espero sobreviver para contar o final da história.
 
@@ -16914,8 +17144,9 @@ tags: computer archive
 
 Ultimamente não tenho acertado muito bem meus cronogramas, com erros que variam de um dia a uma semana. A causa desse problema, pelo que eu tenho conseguido detectar, está em dois problemas que acredito acontecer de maneira muito freqüente em um ambiente de desenvolvimento que ainda está no caos:
 
- - Mudança constante de prioridade
- - Falta de testes básicos no software antes de mexer
+- Mudança constante de prioridade
+
+- Falta de testes básicos no software antes de mexer
 
 Portanto, aí vão algumas dicas empíricas para lidar com esses detalhezinhos que são "faceizinhos de serem esquecidinhos" (by Rafael).
 
@@ -17283,9 +17514,11 @@ cmp     eax,0FFFFFFFFh
 
 Ou seja, para pastas locais a função simplesmente usa a conhecidíssima GetFileAttributes, que retorna o flag 0x10 setado caso se trate de uma pasta, de acordo com a documentação: "The attributes can be one or more of the following values:"
 
- - FILE_ATTRIBUTE_ARCHIVE 32 (0x20) A file or directory that is an archive file or directory.
- - FILE_ATTRIBUTE_COMPRESSED 2048 (0x800) A file or directory that is compressed.
- - FILE_ATTRIBUTE_DIRECTORY 16 (0x10) The handle that identifies a directory.
+- FILE_ATTRIBUTE_ARCHIVE 32 (0x20) A file or directory that is an archive file or directory.
+
+- FILE_ATTRIBUTE_COMPRESSED 2048 (0x800) A file or directory that is compressed.
+
+- FILE_ATTRIBUTE_DIRECTORY 16 (0x10) The handle that identifies a directory.
 
 Aqui termina nossa dúvida sobre o pequenino bug na documentação. E isso nos lembra também que é sempre bom comparar as coisas da melhor maneira possível. E essa melhor maneira em se tratando de ifs é supor apenas dois valores binário: ou é zero ou é não-zero.
 
@@ -17426,35 +17659,53 @@ tags: ccppbr blog
 
 Parabéns a todos que participaram e ajudaram para que todos nós chegássemos ao quinto encontro de programadores/aficionados C/C++. Parece mentira, mas hoje temos capacidade para lotar um auditório razoável, e temos a ousadia de sempre poder contar com uma grade de palestras pra lá de avançadas. Vejamos o que foi visto até hoje nesses últimos três encontros (III, IV e o seminário):
 
- - C++ com WxWidgets
- - O novo padrão C++0x
- - Threads no C++ ISO
- - C e microcontroladores
- - Drivers para Windows
- - TCP/IP via Boost.Asio
- - C++ com Qt
- - Dicas de portabilidade
- - Programação concorrente
- - C++ com STL/Boost
- - Otimização de código
+- C++ com WxWidgets
+
+- O novo padrão C++0x
+
+- Threads no C++ ISO
+
+- C e microcontroladores
+
+- Drivers para Windows
+
+- TCP/IP via Boost.Asio
+
+- C++ com Qt
+
+- Dicas de portabilidade
+
+- Programação concorrente
+
+- C++ com STL/Boost
+
+- Otimização de código
 
 E esse é só o começo.
 
 Dia 4 de outubro de 2008, São Paulo, Brasil:
 
- - Ferramentas para programação C++ para Windows por Rodrigo Strauss
- - Programando com Conceitos no novo C++ por Leandro Melo
- - Arquivos de memória mapeada no Windows com C++ por Basílio Miranda
- - Explorando o Windows (Vista & Server 2008) com C++ por Fábio Galuppo
- - Criando Linguagens Embutidas para Otimização por Felipe Almeida
+- Ferramentas para programação C++ para Windows por Rodrigo Strauss
+
+- Programando com Conceitos no novo C++ por Leandro Melo
+
+- Arquivos de memória mapeada no Windows com C++ por Basílio Miranda
+
+- Explorando o Windows (Vista & Server 2008) com C++ por Fábio Galuppo
+
+- Criando Linguagens Embutidas para Otimização por Felipe Almeida
 
 Dia 8 de novembro de 2008, São Paulo, Brasil:
 
- - Técnicas de Programação em C para Sistemas Embarcados por Daniel Quadros
- - Utilização de C++ em Microcontroladores por Luiz Barros
- - Explorando os 16 bits da Microchip e as ferramentas de trabalho por Daniel Rodrigues
- - Otimização de código C para sistemas embarcados por Fábio Pereira
- - Desenvolvimento Embedded no Mundo da eLua por Dado Sutter
+- Técnicas de Programação em C para Sistemas Embarcados por Daniel Quadros
+
+- Utilização de C++ em Microcontroladores por Luiz Barros
+
+- Explorando os 16 bits da Microchip e as ferramentas de trabalho por Daniel Rodrigues
+
+- Otimização de código C para sistemas embarcados por Fábio Pereira
+
+- Desenvolvimento Embedded no Mundo da eLua por Dado Sutter
 
 Se repararam, o número de palestras aumentou e o tempo para cada uma delas foi ligeiramente encolhido. Espero que esse não seja um empecilho para o desenvolver dos assuntos, pois existem alguns bem delicados acima (como a linguagem embutida e memória mapeada) para serem explicados em cerca de uma hora.
 
@@ -17591,10 +17842,13 @@ Dessa forma, ao compilarmos o código e rodarmos mais um prompt de comando e um 
 
 Além desse evento, que era o que eu estava procurando, esse método permite obter outros eventos bem interessantes:
 
- - JOB_OBJECT_MSG_NEW_PROCESS. Um novo processo foi criado dentro do job.
- - JOB_OBJECT_MSG_EXIT_PROCESS. Um processo existente dentro do job foi terminado.
- - JOB_OBJECT_MSG_PROCESS_MEMORY_LIMIT. O limite de memória de um processo já foi alcançado.
- - JOB_OBJECT_MSG_END_OF_PROCESS_TIME. O limite de tempo de processamento de um processo já foi alcançado.
+- JOB_OBJECT_MSG_NEW_PROCESS. Um novo processo foi criado dentro do job.
+
+- JOB_OBJECT_MSG_EXIT_PROCESS. Um processo existente dentro do job foi terminado.
+
+- JOB_OBJECT_MSG_PROCESS_MEMORY_LIMIT. O limite de memória de um processo já foi alcançado.
+
+- JOB_OBJECT_MSG_END_OF_PROCESS_TIME. O limite de tempo de processamento de um processo já foi alcançado.
 
 Enfim, jobs não terminam por aí. Dê mais uma olhada no MSDN e veja se encontra mais alguma utilidade interessante para o nosso amigo job. Eu encontrei e fiquei feliz.
 
@@ -17827,7 +18081,6 @@ MTPad - 2 error(s), 0 warning(s)
 
 Para resolver esse problema, remova a inclusão do arquivo de manifesto no arquivo RC:
 
-
 ```
 2 TEXTINCLUDE DISCARDABLE
 BEGIN
@@ -17858,7 +18111,6 @@ CREATEPROCESS_MANIFEST_RESOURCE_ID RT_MANIFEST "res\\MTPad.exe.manifest"
 
 Depois dessa alteração, deve ainda existir o seguinte erro de linquedição:
 
-
 ```
 ------ Build started: Project: MTPad, Configuration: Debug Win32 ------
 Compiling resources...
@@ -17877,7 +18129,6 @@ MTPad - 3 error(s), 0 warning(s)
 
 Esse problema ocorre porque as funções de alocação e desalocação de memória da ATL estão em outra LIB que os exemplos da WTL desconhecem. Para resolver, basta incluir essa nova dependência:
 
-
 ```
 #pragma comment(lib, "atlthunk.lib")
 ```
@@ -17886,8 +18137,9 @@ E pronto! Agora temos todo o poder das 500 milhões de classes da ATL aliadas à
 
 #### Para aprender a usar WTL
 
- - [Explicando a sopa de letrinhas da programação C/C++ para Windows: WTL]
- - [WTL for MFC Programmers]
+- [Explicando a sopa de letrinhas da programação C/C++ para Windows: WTL]
+
+- [WTL for MFC Programmers]
 
 #### // Comments
 
@@ -17962,8 +18214,7 @@ sabe, agora que me lembrei.. a um tempo atrás eu estava conversando com um amig
 
 Na hora eu ri e pensei como é engraçado a forma como as ciencias que deveriam ser as mais exatas as vezes se baseiam em algo tão relativo quanto a opnião humana e pensei alto: "graças a deus que nos meus if's ou é TRUE ou é FALSE".
 
-Mas aqui está uma discussão completamente voltada a opnião humana, já que traduzir ou não é questão de ponto de vista e ainda não desenvolveram nenhum standard para expressões que devem ou não ser traduzidas.
-Ou seja, a programação não é tão exata assim também. =/
+Mas aqui está uma discussão completamente voltada a opnião humana, já que traduzir ou não é questão de ponto de vista e ainda não desenvolveram nenhum standard para expressões que devem ou não ser traduzidas.Ou seja, a programação não é tão exata assim também. =/
 
 ---
 
@@ -18020,11 +18271,9 @@ psexec \\maquina-alvo [-u admin-na-maquina-alvo] cmd.exe
 
 Além desse comportamento já muito útil ainda existe um bônus que se trata de especificar um executável local que será copiado remotamente para a máquina-alvo e executado. Esse é o comportamento que espero imitar:
 
-
 ```
 psexec \\maquina-alvo [-c c:\tests\myprogram.exe] [-u admin-na-maquina-alvo]
 ```
-
 
 ```
 PsExec v1.72 - Execute processes remotely Copyright (C) 2001-2006 Mark Russinovich
@@ -18053,11 +18302,9 @@ Se o arquivo existe nessa pasta, então é óbvio que alguém o copiou. Resta sa
 
 Nessa segunda fase, podemos refazer o comportamento esperado inúmeras vezes, coletando dados e pensando a partir dos dados obtidos. Para esse caso,  como quase todos que analiso, vou usar o nosso amigo [WinDbg]. Para isso, como tenho sempre minhas ferramentas disponíveis no ambiente onde trabalho, basta digitar "windbg" antes do comando anterior e dar uma olhada em algumas APIs-chave, como a criação/abertura de arquivos e a criação de serviços. Note que é importante fazer isso em um escopo limitado para não perdermos horas de análise. Descobrir coisas como, por exemplo, que as ações do PsExec só começam a ser executadas após a digitação da senha do usuário, pode ajudar, pois daí só começo minha análise a partir desse ponto.
 
-
 ```
 windbg psexec \\maquina-alvo -u admin cmd.exe
 ```
-
 
 ```
 PsExec v1.72 - Execute processes remotely
@@ -18121,7 +18368,6 @@ Uma rápida busca no Google nos informa que o pipe querendo ser aberto pertence 
 
 Se analisarmos mais a fundo a pilha de chamadas conseguiremos dar um olhada nos parâmetros passados. Para isso existe a opção de mostrar os argumentos passados para as funções ao exibir a pilha:
 
-
 ```
 0:000> kv 50
 ChildEBP RetAddr  Args to Child
@@ -18148,7 +18394,6 @@ ChildEBP RetAddr  Args to Child
 Ele tenta abrir uma conexão com a máquina-alvo em seu compartilhamento de IPC, que como já vimos serve para comunicação entre processos, até entre máquinas distintas. Dessa forma, descobrimos um dos pontos importantes no funcionamento do PsExec: ele usa o nome e senha fornecidos para abrir uma comunicação remota no compartilhamento IPC$.
 
 Depois sugem várias paradas ao CreateFile, de maneira que a melhor forma de acompanhar isso é colocando um "dumpezinho" de memória na sua parada:
-
 
 ```
 0:000> bp kernel32!CreateFileW "du poi(@esp+4)"
@@ -18185,7 +18430,6 @@ kernel32!CreateFileW:
 
 Muito bem! Chegamos a mais um ponto importante de nossa análise: o psexecsvc.exe é copiado através do compartilhamento ADMIN$ remotamente (diretório c:\windows). Esse compartilhamento se torna acessível, uma vez que uma conexão autenticada já foi aberta. Se listarmos as conexões existentes, veremos o compartilhamento IPC$ aberto:
 
-
 ```
 >net use
 Novas conexões serão lembradas.
@@ -18207,7 +18451,6 @@ A análise desses fatos demonstra como é importante fazer as coisas, pelo menos
 
 Voltando à análise: temos direitos remotos nessa máquina. Dessa forma, fica fácil criar um serviço remotamente, que é o que faz o nosso amigo PsExec:
 
-
 ```
 0:000> g
 Breakpoint 1 hit
@@ -18225,7 +18468,6 @@ ADVAPI32!CreateServiceW:
 ```
 
 Pronto. Isso era tudo que precisava para conseguir reproduzir seu comportamento. Agora posso fazer isso programando ou até manualmente:
-
 
 ```
 C:\Tests>net use \\10.2.0.40\ipc$ /user:admin
@@ -18289,15 +18531,19 @@ Foi uma longa jornada, sim, mas espero que valha a pena para quem esperou. Tamb�
 
 Segue um pequeno roteiro do funcionamento do programa, que é bem simples, aliás. Para que tudo dê certo, no entanto, é necessário que o computador onde será feita a conversão possua os três programas abaixo instalados e funcionamento corretamente:
 
- - Dicionário Houaiss. Testado na versão 2, deve ser instalado com opção de cópia dos arquivos no disco rígido.
- - Babylon. Testado nas versões 6 e 7. Pode ser registrado ou não.
- - Babylon Builder. O construtor dos dicionários Babylon. Apesar de ser possível construir dicionários personalizados para o Babylon, é necessário que se use esse aplicativo conversor. O HouaissParaBabylon o usa, e por isso precisa que ele esteja instalado corretamente.
+- Dicionário Houaiss. Testado na versão 2, deve ser instalado com opção de cópia dos arquivos no disco rígido.
+
+- Babylon. Testado nas versões 6 e 7. Pode ser registrado ou não.
+
+- Babylon Builder. O construtor dos dicionários Babylon. Apesar de ser possível construir dicionários personalizados para o Babylon, é necessário que se use esse aplicativo conversor. O HouaissParaBabylon o usa, e por isso precisa que ele esteja instalado corretamente.
 
 Tudo isso verificado, basta então clicar no botão de Iniciar Conversão, sentar e esperar. A primeira fase envolve três passos:
 
- - Desencriptação do dicionário original. Isso é feito baseando-se em nossa análise de engenharia reversa.
- - Montagem do projeto de dicionário Babylon. Para isso existe um processo de interpretação do formato Houaiss, agora desencriptado, e sucessivas traduções para um projeto que o Babylon Builder irá entender.
- - Construção do dicionário Babylon. Essa parte é feita pelo Babylon Builder. Por ser o maior dicionário de português da atualidade, esse processo pode demorar bastante, e com certeza irá se tornar o maior dicionário já instalado na sua lista de dicionários do Babylon.
+- Desencriptação do dicionário original. Isso é feito baseando-se em nossa análise de engenharia reversa.
+
+- Montagem do projeto de dicionário Babylon. Para isso existe um processo de interpretação do formato Houaiss, agora desencriptado, e sucessivas traduções para um projeto que o Babylon Builder irá entender.
+
+- Construção do dicionário Babylon. Essa parte é feita pelo Babylon Builder. Por ser o maior dicionário de português da atualidade, esse processo pode demorar bastante, e com certeza irá se tornar o maior dicionário já instalado na sua lista de dicionários do Babylon.
 
 Na segunda fase, após toda essa movimentação de HD, existe apenas uma coisa a fazer: instalar o dicionário no Babylon.
 
@@ -18471,15 +18717,19 @@ O segundo passo, acredito eu, é entender como a memória é dimensionada atrav�
 
 Por isso, segue uma lista de tarefas interessantes para exercitar o conceito de ponteiros:
 
- - Criar funções que modificam números passados como parâmetro.
- - Criar funções que modificam texto passado como parâmetro.
- - Alocar e desalocar memória dinamicamente.
+- Criar funções que modificam números passados como parâmetro.
+
+- Criar funções que modificam texto passado como parâmetro.
+
+- Alocar e desalocar memória dinamicamente.
 
 Tarefas mais específicas da minha área e que uso o tempo todo:
 
- - Escrever e ler texto em arquivos.
- - Escrever e ler no registro do Windows.
- - Obter o endereço de uma função do Windows dinamicamente. E chamá-la.
+- Escrever e ler texto em arquivos.
+
+- Escrever e ler no registro do Windows.
+
+- Obter o endereço de uma função do Windows dinamicamente. E chamá-la.
 
 Nota: Não use as classes superiores de C++ nem referências. Estou falando de estudar ponteiros nua e cruamente. Não seja preguiçoso. Algumas coisas devem ser feitas da maneira mais "primitiva" até se entender com o que se está lidando. Lembre-se que os melhores programadores possuem os alicerces mais fortes.
 
@@ -18585,15 +18835,19 @@ Note que os números não estão aqui representados em decimal, onde se esperari
 
 Nada é bem aprendido se não for apreendido. Algumas tarefas programáticas que podem fixar o conceito de tipo estão listadas abaixo:
 
- - Usar printf especificando tipos diversos (%d, %s, %f, %p, ...) para a mesma variável, inclusive correndo o risco de gerar algumas exceções.
- - Usar scanf especificando diversas variáveis para o mesmo tipo (%d, %s, %f, %p, ...), vendo o resultado da leitura da entrada do usuário na memória.
- - Tentar copiar o conteúdo de uma variável para outra variável de tipo diferente. Sempre analise a memória para ver o resultado.
+- Usar printf especificando tipos diversos (%d, %s, %f, %p, ...) para a mesma variável, inclusive correndo o risco de gerar algumas exceções.
+
+- Usar scanf especificando diversas variáveis para o mesmo tipo (%d, %s, %f, %p, ...), vendo o resultado da leitura da entrada do usuário na memória.
+
+- Tentar copiar o conteúdo de uma variável para outra variável de tipo diferente. Sempre analise a memória para ver o resultado.
 
 #### Outros faz-de-conta bem famosos
 
- - O problema Little Endian e Big Endian em [ordenação de extremidades].
- - O [UNICODE] por um conjunto de letras universal.
- - A [base numérica], o que são binário e hexadecimal e como eles afetam nossa vida.
+- O problema Little Endian e Big Endian em [ordenação de extremidades].
+
+- O [UNICODE] por um conjunto de letras universal.
+
+- A [base numérica], o que são binário e hexadecimal e como eles afetam nossa vida.
 
 [base numérica]: http://pt.wikipedia.org/wiki/Convers%C3%A3o_de_base_num%C3%A9rica
 [ordenação de extremidades]: http://pt.wikipedia.org/wiki/Extremidade_(ordena%C3%A7%C3%A3o)
@@ -18727,9 +18981,11 @@ Bom, acho que é isso. Já ultrapassei o limite do teórico, porque na verdade o
 
 #### Coisas para pensar a dois
 
- - Conte em binário quando não estiver fazendo nada. É simples e ajuda a fixar. Dessa forma: um, um-zero, um-um, um-zero-zero, um-um-zero, um-um-um, ...
- - Decore a relação entre os números hexadecimal e binário. Você pode até esquecer isso depois, mas o esforço para decorar será útil para fixar. E nunca se sabe quando você terá que reaver a MBR de um cliente seu.
- - Estude a lógica por trás da tabela ASCII e seus valores binários. Irá descobrir que existem relações muito óbvias entre letras, números (maíusculos e minúsculos) e sinais. Tente decorar.
+- Conte em binário quando não estiver fazendo nada. É simples e ajuda a fixar. Dessa forma: um, um-zero, um-um, um-zero-zero, um-um-zero, um-um-um, ...
+
+- Decore a relação entre os números hexadecimal e binário. Você pode até esquecer isso depois, mas o esforço para decorar será útil para fixar. E nunca se sabe quando você terá que reaver a MBR de um cliente seu.
+
+- Estude a lógica por trás da tabela ASCII e seus valores binários. Irá descobrir que existem relações muito óbvias entre letras, números (maíusculos e minúsculos) e sinais. Tente decorar.
 
 #### // Comments
 
@@ -18833,10 +19089,13 @@ x = y + z;
 
 A operação acima é realizada através de microinstruções bem sucintas:
 
-  1. Leia memória y para registrador 1
-  2. Leia memória z para registrador 2
-  3. Some valor de registrador 1 e 2 e coloque resultado no registrador 1
-  4. Carregue memória x com valor do registrador 1
+1. Leia memória y para registrador 1
+
+2. Leia memória z para registrador 2
+
+3. Some valor de registrador 1 e 2 e coloque resultado no registrador 1
+
+4. Carregue memória x com valor do registrador 1
 
 ![Os registradores da CPU em ação](basico_do_basico_assembly_N90ooMD.gif)
 
@@ -18856,8 +19115,9 @@ Se você pensou rápido, a resposta é sim, existem registradores para guardar a
 
 Resumidamente, temos no PC os seguintes tipos de registradores e seu uso geral na programação C:
 
- - Registradores de uso geral: EAX, EBX, ECX, EDX.
- - Registradores de código e dados: ESP, EBP, EIP.
+- Registradores de uso geral: EAX, EBX, ECX, EDX.
+
+- Registradores de código e dados: ESP, EBP, EIP.
 
 Você os verá em 90% das ocasiões em que desassemblar seu código C, pois a rotina do código não muda muito: soma, divide, multiplica, muda endereço do código (saltos), compara valores (flags).
 
@@ -18876,24 +19136,35 @@ else
 
 O código acima seria representado em assembly mais ou menos como abaixo:
 
-  1. carrega valor de x no registrador 1
-  2. compara registrador 1 com 10
-  3. pula para 6 se for diferente
-  4. chama XEhIgualA10
-  5. pula para 7
-  6. chama XEhDiferenteDe10
-  7. próxima instrução
+1. carrega valor de x no registrador 1
+
+2. compara registrador 1 com 10
+
+3. pula para 6 se for diferente
+
+4. chama XEhIgualA10
+
+5. pula para 7
+
+6. chama XEhDiferenteDe10
+
+7. próxima instrução
 
 (Uma curiosidade interessante é a flag de comparação. Se o resultado da comparação disser que os dois elementos são iguais, a flag fica igual a zero, o que significa que os comparandos são idênticos. Se você reparar, a mesma semântica é utilizada na conhecida função strcmp, que retorna zero caso duas strings sejam idênticas. Isso faz sentido em ambos os lados, já que o resultado computacional geralmente deixa um rastro de diferença que é usado como retorno. Se esse rastro não existir, quer dizer que o que foi comparado é idêntico.)
 
 #### Opcodes para aprender:
 
- - mov
- - cmp
- - jmp
- - jne, jle, jnz, etc
- - push e pop
- - call e ret
+- mov
+
+- cmp
+
+- jmp
+
+- jne, jle, jnz, etc
+
+- push e pop
+
+- call e ret
 
 #### Pedaços de código que vale a pena estudar:
 
@@ -18932,23 +19203,29 @@ Como já havia dito, não há nada mais prazeroso do que ensinar a alguém os ve
 
 A função-polegar, uma categoria de função muito peculiar em várias APIs, possui um comportamento padrão de retorno de erros. Entre as diversas funções-polegar que conheço e uso, eis algumas que lembro de cor:
 
- - read, write (C)
- - connect, send (Sockets)
- - ReadFile, WriteFile, CreateProcess (Win32)
+- read, write (C)
+
+- connect, send (Sockets)
+
+- ReadFile, WriteFile, CreateProcess (Win32)
 
 O que todas essas funções têm em comum? Bom, ignorando seu funcionamento interno ou seu objetivo, todas elas possuem um valor de retorno no estilo sim ou não, ou seja, deu certo ou não deu. Nessas funções o código de erro, o motivo da função não ter dado certo, não é retornado diretamente. É o que chamo de esquema do polegar pra cima ou polegar pra baixo. O retorno da função especifica o ângulo giratório do dedão:
 
- - ssize_t pread, ssize_t write. Retorno de -1 significa que deu algo errado.
- - int connect, int send. Se retornar SOCKET_ERROR
- - BOOL ReadFile, BOOL WriteFile, BOOL CreateProcess. TRUE sucesso, FALSE erro.
+- ssize_t pread, ssize_t write. Retorno de -1 significa que deu algo errado.
+
+- int connect, int send. Se retornar SOCKET_ERROR
+
+- BOOL ReadFile, BOOL WriteFile, BOOL CreateProcess. TRUE sucesso, FALSE erro.
 
 Por exemplo, chamamos a função ReadFile para ler um arquivo. Ela retorna FALSE. Isso significa que não deu certo nossa leitura. Por quê? Ora, não sabemos ainda. Apenas sabemos que o polegar está virado para baixo!
 
 Em funções nessas condições, geralmente existe uma segunda função (ou variável) que retorna o último erro que ocorreu na API, ou seja, o erro que fez com que última função chamada retornasse que algo não deu certo. Nas funções de exemplo, são usados três métodos distintos, pois estamos falando de três APIs distintas:
 
- - Variável errno
- - Função WSAGetLastError
- - Função GetLastError
+- Variável errno
+
+- Função WSAGetLastError
+
+- Função GetLastError
 
 São esses métodos que realmente retornam o porquê da função ter dado errado. E é elas que devemos chamar, eu disse devemos chamar, sempre que a função der errado. Até porque, já que o polegar está virado para baixo, temos que fazer alguma coisa para que nosso programa não morra.
 
@@ -19065,10 +19342,13 @@ Um exemplo: um hook global do Windows que quando ativado em determinados eventos
 
 Para esse tipo de situação que envolve 1. o sistema como um todo, 2. processos de terceiros e 3. comportamento obscuro por parte do resto do código, vale a pena seguir um checklist mais rigoroso, colocar seu bonezinho de CSI e partir para desmembrar o funcionamento do código problemático:
 
-  1. Como o programa deveria funcionar?
-  2. O que exatamente não funciona?
-  3. O que pode ser? O que NÃO pode ser?
-  4. Existe uma maneira de provar?
+1. Como o programa deveria funcionar?
+
+2. O que exatamente não funciona?
+
+3. O que pode ser? O que NÃO pode ser?
+
+4. Existe uma maneira de provar?
 
 Cada uma dessas perguntas deve ser respondida com a maior sinceridade e disciplina, custe o que custar.
 
@@ -19078,13 +19358,19 @@ Para facilitar esse entendimento, nada como elaborar uma pequena explicação pa
 
 Continuando nosso exemplo:
 
-  1. O programa inicia e cria uma thread específica.
-  2. Essa thread específica cria uma janela que monitora e carrega uma DLL.
-  3. Essa DLL é chamada pela thread e instala um hook global no sistema.
-  4. O hook recebe eventos de todos os processos que possuem janelas.
-  5. Quando eventos específicos são disparados, o processo atual envia uma mensagem para a janela que monitora.
-  6. A janela que monitora monta uma tabela estatística dos eventos.
-  7. De tempos em tempos, essa tabela é escrita em disco em um arquivo encriptado.
+1. O programa inicia e cria uma thread específica.
+
+2. Essa thread específica cria uma janela que monitora e carrega uma DLL.
+
+3. Essa DLL é chamada pela thread e instala um hook global no sistema.
+
+4. O hook recebe eventos de todos os processos que possuem janelas.
+
+5. Quando eventos específicos são disparados, o processo atual envia uma mensagem para a janela que monitora.
+
+6. A janela que monitora monta uma tabela estatística dos eventos.
+
+7. De tempos em tempos, essa tabela é escrita em disco em um arquivo encriptado.
 
 A lista acima é longa o suficiente para podermos elaborar perguntas interessantes e pequena o suficiente para podermos ter em mente o seu funcionamento como um todo, o que é vital para o sucesso das observações durante a depuração.
 
@@ -19147,19 +19433,25 @@ Portanto, conclui-se que desenvolver provas de conceito é a coisa mais divertid
 
 Além de serem extremamente divertidas e disputadas entre os programadores, desenvolver provas de conceito gera uma gama de vantagens para o desenvolvimento "sério" do software como um todo, "rodável" e "vendável":
 
- - Permite testar as ideias por trás do software antes de gastar todo o tempo desenvolvendo-o.
- - Gera conhecimento para os programadores e para que outros produtos sejam desenvolvidos.
- - Torna o desenvolvimento algo ainda mais divertido, pois tira a parte chata a respeito de comentar código, testar código, mensurar código, rever código, etc.
- - Consegue tornar o milagre do cronograma realista mais perto do provável.
+- Permite testar as ideias por trás do software antes de gastar todo o tempo desenvolvendo-o.
+
+- Gera conhecimento para os programadores e para que outros produtos sejam desenvolvidos.
+
+- Torna o desenvolvimento algo ainda mais divertido, pois tira a parte chata a respeito de comentar código, testar código, mensurar código, rever código, etc.
+
+- Consegue tornar o milagre do cronograma realista mais perto do provável.
 
 Apenas essas vantagens já praticamente obrigam o profissional do software a pensar em produtos novos em termos de como pode-se testar tudo o que se está dizendo antes de realmente começar a trabalhar pra valer.
 
 Mas antes que se pense que fazer provas de conceito não requer nenhuma responsabilidade e que o que você quer ser quando crescer é desenvolvedor de prova de conceito, é necessário colocar alguns pingos nos is antes de continuar. Para criar provas de conceito realmente agregadoras para o projeto, deve-se sempre:
 
- - Dividir o software em seus componentes tecnológicos mais críticos e vitais para o sucesso da solução.
- - Proteger as provas de conceito contra qualquer tipo de preconceito a respeito da tecnologia em questão: pese somente os fatos!
- - Conhecer as limitações do software antes mesmo de provar seu funcionamento (por exemplo, não vai funcionar no Windows NT nem a pau).
- - Garantir que esse conhecimento seja sempre compartilhado entre todos do desenvolvimento, pois trata-se de um projeto vazio que formará talvez as bases de um novo produto; se todos conhecerem as bases primeiro, ficará muito mais fácil todos tomarem conta.
+- Dividir o software em seus componentes tecnológicos mais críticos e vitais para o sucesso da solução.
+
+- Proteger as provas de conceito contra qualquer tipo de preconceito a respeito da tecnologia em questão: pese somente os fatos!
+
+- Conhecer as limitações do software antes mesmo de provar seu funcionamento (por exemplo, não vai funcionar no Windows NT nem a pau).
+
+- Garantir que esse conhecimento seja sempre compartilhado entre todos do desenvolvimento, pois trata-se de um projeto vazio que formará talvez as bases de um novo produto; se todos conhecerem as bases primeiro, ficará muito mais fácil todos tomarem conta.
 
 Por último, deve-se pensar sempre em todos os programadores da equipe desenvolvendo provas de conceito. Um doce tão gostoso não pode ser privilégio apenas dos veteranos ou dos acadêmicos chatos, pois torna a vida dos "corregedores" de bugs chata e enfadonha. E error prone.
 
@@ -19548,6 +19840,7 @@ Se você está com algum PROBLEMA DE DIFÍCIL SOLUÇÃO e precisa de AJUDA URGEN
 É lógico que toda essa história fantasiosa pode ser pura ficção com um pingo sequer de realidade, e no fundo almocei foi mesmo é com meus amigos imaginários. No entanto, é capaz que esse não seja um cenário incomum em muitas empresas de tecnologia por aí afora, que insistem em fazer duas coisas que, aliadas, podem gerar qualquer coisa, menos um projeto bem feito e testado:
 
 - Pedir que seus funcionários elaborem um cronograma de um projeto complexo (um mês ou mais de trabalho).
+
 - Pedir que seus funcionários espremam o tempo definido para o projeto de alguma forma mágica.
 
 O problema é que, na área de informática, apesar de ciência esotérica e cheia de mistérios, não existem santos, não existem milagres e não existe mágica que gere um código de qualidade se não for despendido para ele uma soma considerável de tempo e trabalho. E não estou falando de nenhum luxo. É o tempo justo, mesmo.
@@ -19555,7 +19848,9 @@ O problema é que, na área de informática, apesar de ciência esotérica e che
 Por isso que há eras meu amigo Strauss e o conhecido Joel falam sobre as necessidades básicas de um programador e criticam o resto. As necessidades básicas, na minha opinião, se resumem em três regras de ouro:
 
 1. Dê condições para o programador pensar
+
 2. Dê condições para o programador trabalhar
+
 3. Dê condições para o programador programar
 
 Fora isso, o resto é perfumaria, perda de tempo e enchimento de saco. Os bons programadores não querem ser gerenciados: querem programar. Só isso. Deixe-os com seus problemas e vá tomar conta de algo que não atrapalhe suas vidas. Já estará fazendo um imenso avanço na produtividade de sua empresa.
@@ -19706,65 +20001,107 @@ Como não consigo mais ter ideias para artigos, resolvi catalogar todas as coisa
 
 História:
 
- - [A linguagem BCPL]
- - [O código-objeto]
- - [A linguagem B]
- - [A "função" char]
- - [O primeiro printf da história]
- - [A linguagem C]
- - [A linguagem C++]
- - As influências
+- [A linguagem BCPL]
+
+- [O código-objeto]
+
+- [A linguagem B]
+
+- [A "função" char]
+
+- [O primeiro printf da história]
+
+- [A linguagem C]
+
+- [A linguagem C++]
+
+- As influências
 
 Conceitos:
 
- - [O conceito programa]
- - [O código-objeto]
- - [Processo de compilação]
- - [Declaração x definição]
- - [Tipos]
- - [Lvalue x Rvalue]
- - [A passagem por valor]
- - [Ponteiros]
- - [Estruturas e classes]
- - Espaços de nomes
- - [Polimorfismo estático]
- - [Herança]
- - [Polimorfismo dinâmico]
- - [Iteradores]
- - [Função-objeto]
- - [Templates]
- - Algoritmos genéricos
- - Qualificadores (traits)
- - [O conceito RAII]
+- [O conceito programa]
+
+- [O código-objeto]
+
+- [Processo de compilação]
+
+- [Declaração x definição]
+
+- [Tipos]
+
+- [Lvalue x Rvalue]
+
+- [A passagem por valor]
+
+- [Ponteiros]
+
+- [Estruturas e classes]
+
+- Espaços de nomes
+
+- [Polimorfismo estático]
+
+- [Herança]
+
+- [Polimorfismo dinâmico]
+
+- [Iteradores]
+
+- [Função-objeto]
+
+- [Templates]
+
+- Algoritmos genéricos
+
+- Qualificadores (traits)
+
+- [O conceito RAII]
 
 Linguagem:
 
- - [O operador de subscrito]
- - [A proteção protected]
- - [Sizeof e strings literais]
- - [Uso de reflexão com typeid]
- - [Typeid e o polimorfismo]
- - [Ponteiros de método]
- - [Ponteiros de método e o this]
- - [Try-catch fora do corpo da função]
- - [Sobrecarga de operadores]
+- [O operador de subscrito]
+
+- [A proteção protected]
+
+- [Sizeof e strings literais]
+
+- [Uso de reflexão com typeid]
+
+- [Typeid e o polimorfismo]
+
+- [Ponteiros de método]
+
+- [Ponteiros de método e o this]
+
+- [Try-catch fora do corpo da função]
+
+- [Sobrecarga de operadores]
 
 Biblioteca:
 
- - [Biblioteca C no Windows]
- - [Mobilidade da pilha com prinff]
- - [Erros comuns de iteradores]
- - STL
- - Boost
+- [Biblioteca C no Windows]
+
+- [Mobilidade da pilha com prinff]
+
+- [Erros comuns de iteradores]
+
+- STL
+
+- Boost
 
 Dicas:
 
- - [Erros comuns de iniciantes]
- - [Ponteiro nulo em entrevistas]
- - [Nem todo ponteiro nulo é inválido]
- - [Decifrando código obscuro]
- - [Usando do-while para evitar erros de macro]
- - [Sobrecarga por tipo de retorno]
+- [Erros comuns de iniciantes]
+
+- [Ponteiro nulo em entrevistas]
+
+- [Nem todo ponteiro nulo é inválido]
+
+- [Decifrando código obscuro]
+
+- [Usando do-while para evitar erros de macro]
+
+- [Sobrecarga por tipo de retorno]
 
 Espero que isso me ajude a continuar completando as lacunas do saite. Se não der certo, pelo menos já sei o que fiz.
 
@@ -19848,8 +20185,9 @@ Note que meu script usa a estrutura padronizada dos diretórios de um projeto, o
 
 Aos poucos você pode ir colocando "frescurinhas" em seu build (executa Debug e Release, roda automatizado no servidor, faz testes unitários, incrementa o número da versão, ...), mas algumas premissas sempre se mantêm:
 
- - Deve ser possível compilar o projeto inteiro em um passo
- - Deve ser possível usar qualquer máquina de desenvolvimento para isso
+- Deve ser possível compilar o projeto inteiro em um passo
+
+- Deve ser possível usar qualquer máquina de desenvolvimento para isso
 
 Regras simples de ser seguidas se você usar sempre a máxima do [KISS].
 
@@ -20286,12 +20624,17 @@ Algum tempo se passou e hoje volto a instalar o mesmo programa, agora envolto em
 
 Eis uma lista dos principais projetos disponíveis através do Boinc que me chamaram a atenção:
 
-  - Climateprediction.net busca prever as possíveis consequências para o mundo das futuras transformações no clima.
-  - CPUGrid.net é uma simulação molecular de proteínas otimizada para as GPUs da NVidia e o Playstation 3.
-  - Superlink@Technion e ajude os cientistas a encontrar os prováveis genes causadores de fatalidades como câncer, a diabetes, hipertensão e esquizofrenia.
-  - Chess960@home para análise de uma variante do xadrez tradicional que sempre coloca as peças iniciais em posições aleatórias.
-  - PrimeGrid é um gerador de uma base de dados pública de números primos sequenciais, além de procurar por números primos gêmeos gigantes (vai saber).
-  - Quantum Monte Carlo at Home não é o que parece: Estudo da estrutura e da reatividade de moléculas usando a Química Quântica (?).
+- Climateprediction.net busca prever as possíveis consequências para o mundo das futuras transformações no clima.
+
+- CPUGrid.net é uma simulação molecular de proteínas otimizada para as GPUs da NVidia e o Playstation 3.
+
+- Superlink@Technion e ajude os cientistas a encontrar os prováveis genes causadores de fatalidades como câncer, a diabetes, hipertensão e esquizofrenia.
+
+- Chess960@home para análise de uma variante do xadrez tradicional que sempre coloca as peças iniciais em posições aleatórias.
+
+- PrimeGrid é um gerador de uma base de dados pública de números primos sequenciais, além de procurar por números primos gêmeos gigantes (vai saber).
+
+- Quantum Monte Carlo at Home não é o que parece: Estudo da estrutura e da reatividade de moléculas usando a Química Quântica (?).
 
 Dentre eles, acabei ficando mesmo com o bom e velho seti@home. Pode me chamar de egoísta, mas mesmo que encontrem a cura do câncer, não será muito produtivo para mim, que possuo questões existenciais que, acredito eu, facilitariam a compreensão das pessoas acerca da nossa extrema pequenez nesse universo, nos colocando cada vez mais no cantinho de nossa existência.
 
@@ -20340,9 +20683,11 @@ Se você não é desenvolvedor apenas empacote essa pasta com os dumps e envie p
 
 Existem alguns outros parâmetros bem comuns e que podem ser muito úteis para outras situações:
 
- - Quando o programa já está rodando e não pode ser parado senão tudo está perdido (adplus -crash -pn processo.exe).
- - Quando o programa não vai capotar, mas vai travar/parar de responder (adplus -hang -sc processo.exe).
- - Quando existem muitos outros processos com o mesmo nome (adplus -crash -p [PID]).
+- Quando o programa já está rodando e não pode ser parado senão tudo está perdido (adplus -crash -pn processo.exe).
+
+- Quando o programa não vai capotar, mas vai travar/parar de responder (adplus -hang -sc processo.exe).
+
+- Quando existem muitos outros processos com o mesmo nome (adplus -crash -p [PID]).
 
 Existem outros mais, mas apenas decorando esses e guardando a pasta do Debugging Tools no PenDrive já garante sucesso em 90% dos casos em que o cliente xingar o suporte.
 
@@ -20356,45 +20701,83 @@ So I thought: "this could be useful to the people read me". Why not? Perhaps you
 
 In this case, it follows bellow a brief description of my professional life, with the things I could remember I did since December 2000. What I haven't remember probably is not worth of.
 
-  - Software and hardware inventory
-  - Clipboard and PrintScreen protection using windows hooks and global messages manipulation
-  - Driver writing system event log
-  - DeviceIoControl user/kernel communication
-  - Desktop remote control using VNC technique
-  - Remote execution tool PsExec (SysInternals) like
-  - Print control using regex (Boost) and shell hook
-  - Access policies management during user logon/logoff (register and hooks)
-  - Database migration CTree -> SQL (OLE classes)
-  - Windows authentication using custom GINA and DCOM; Credential Provider (Vista)
-  - CTree database synchronism using custom DCOM service
-  - Bootable Linux CD with bash scripts and disk cryptography tools using C language
-  - Hard disk encryption and PenDrive (USB) storage control
-  - Blue Screen analysis using memory dumps and WinDbg live (Gflags)
-  - System account execution using custom COM service
-  - MBR (Master Boot Record) customization library
-  - Blowfish/SHA-1 encryption library using C++ and 16 bits Assembly
-  - Log access driver using shared memory between user and kernel mode
-  - Kernel mode API hook for 9X and NT platforms
-  - 16 bits Assembly loader; debugging using debug.com tool
-  - Executable protection using embedded domain authentication recorded inside files resources
-  - Internet Explorer 6/7 and Firefox 1/2 browsing protection using Assembly 32 bits code injection
-  - Code, strings and execution protection library (using Win32 interruptions)
-  - Centralized log generation library using shared memory and global events
-  - Internet Explorer 6/7 BHO (Broser Helper Object) and ActiveX; Mozilla/Firefox XPI plugin
-  - Projects management using Source Safe, Bazaar and Batch (Win) scripts
-  - Kernel mode debugging using SoftIce and WinDbg for NT platform, SoftIce and WDeb98 for 9X platform
-  - Trojans reverse engineering (C++, Visual Basic, Delphi) using WinDbg and IDA
-  - Diagnostic tool listing files, services, drivers, register, disk partitions, processes, etc
-  - Jobs monitoring in Win2000+ to installation and update control
-  - Application use monitoring using noninvasive and invasive windows hooks
-  - Houaiss reverse engineering and Babylon importation (dictionaries)
-  - Build control with Cruise Control .NET, symbol server with Debugging Tools
-  - Projects documentation using Doxygen and Wiki (Trac)
-  - Management interfaces using C++ Builder 5/6 and Visual C++ custom libraries
-  - E-mails analyzer using regular expressions (ATL classes)
-  - Configuration interfaces using Visual C++ (MFC /ATL/WTL)
-  - Project and tracing analysis using regular expressions (Vim and Grep)
-  - Articles development using technical blog and Code Project community.
+- Software and hardware inventory
+
+- Clipboard and PrintScreen protection using windows hooks and global messages manipulation
+
+- Driver writing system event log
+
+- DeviceIoControl user/kernel communication
+
+- Desktop remote control using VNC technique
+
+- Remote execution tool PsExec (SysInternals) like
+
+- Print control using regex (Boost) and shell hook
+
+- Access policies management during user logon/logoff (register and hooks)
+
+- Database migration CTree -> SQL (OLE classes)
+
+- Windows authentication using custom GINA and DCOM; Credential Provider (Vista)
+
+- CTree database synchronism using custom DCOM service
+
+- Bootable Linux CD with bash scripts and disk cryptography tools using C language
+
+- Hard disk encryption and PenDrive (USB) storage control
+
+- Blue Screen analysis using memory dumps and WinDbg live (Gflags)
+
+- System account execution using custom COM service
+
+- MBR (Master Boot Record) customization library
+
+- Blowfish/SHA-1 encryption library using C++ and 16 bits Assembly
+
+- Log access driver using shared memory between user and kernel mode
+
+- Kernel mode API hook for 9X and NT platforms
+
+- 16 bits Assembly loader; debugging using debug.com tool
+
+- Executable protection using embedded domain authentication recorded inside files resources
+
+- Internet Explorer 6/7 and Firefox 1/2 browsing protection using Assembly 32 bits code injection
+
+- Code, strings and execution protection library (using Win32 interruptions)
+
+- Centralized log generation library using shared memory and global events
+
+- Internet Explorer 6/7 BHO (Broser Helper Object) and ActiveX; Mozilla/Firefox XPI plugin
+
+- Projects management using Source Safe, Bazaar and Batch (Win) scripts
+
+- Kernel mode debugging using SoftIce and WinDbg for NT platform, SoftIce and WDeb98 for 9X platform
+
+- Trojans reverse engineering (C++, Visual Basic, Delphi) using WinDbg and IDA
+
+- Diagnostic tool listing files, services, drivers, register, disk partitions, processes, etc
+
+- Jobs monitoring in Win2000+ to installation and update control
+
+- Application use monitoring using noninvasive and invasive windows hooks
+
+- Houaiss reverse engineering and Babylon importation (dictionaries)
+
+- Build control with Cruise Control .NET, symbol server with Debugging Tools
+
+- Projects documentation using Doxygen and Wiki (Trac)
+
+- Management interfaces using C++ Builder 5/6 and Visual C++ custom libraries
+
+- E-mails analyzer using regular expressions (ATL classes)
+
+- Configuration interfaces using Visual C++ (MFC /ATL/WTL)
+
+- Project and tracing analysis using regular expressions (Vim and Grep)
+
+- Articles development using technical blog and Code Project community.
 
 Perhaps I update this list frequently. Although I guess the rightest choice would be to update the list with articles about my every day "brushing bits" life . After all, I got a technical blog already!
 
@@ -20413,8 +20796,9 @@ O firmware fica gravado na placa-mãe e normalmente nós ouvimos falar dele pelo
 
 Quando o computador é ligado, o código da BIOS realiza duas operações vitais antes de continuar:
 
-  1. Ver se todos os componentes de hardware estão bem;
-  2. Ver quem é o dispositivo que inicia o sistema operacional.
+1. Ver se todos os componentes de hardware estão bem;
+
+2. Ver quem é o dispositivo que inicia o sistema operacional.
 
 Esse segundo item é o que veremos agora.
 
@@ -20432,13 +20816,19 @@ Vamos supor que você tenha algum Windows moderno na partição ativa. A MBR ir�
 
 Agora chegamos em todos os passos iniciais realizados antes de entrar em cena o S.O.:
 
-  1. O firmware da placa-mãe, conhecida como BIOS, verifica se o hardware básico está funcionando;
-  2. Em seguida, o mesmo código procura pelo dispositivo iniciável que irá dar início ao processo de boot;
-  3. Se for um HD, então o primeiro setor físico desse HD será carregado em memória e executado;
-  4. Esse primeiro setor se chama MBR e contém uma tabela com até quatro entradas de partições no disco;
-  5. O código da MBR procura pela partição ativa onde deve estar o sistema operacional;
-  6. Assim como a BIOS, a MBR carrega na memória o primeiro setor da partição ativa e executa;
-  7. A partir daí temos o código de um possível sistema operacional rodando.
+1. O firmware da placa-mãe, conhecida como BIOS, verifica se o hardware básico está funcionando;
+
+2. Em seguida, o mesmo código procura pelo dispositivo iniciável que irá dar início ao processo de boot;
+
+3. Se for um HD, então o primeiro setor físico desse HD será carregado em memória e executado;
+
+4. Esse primeiro setor se chama MBR e contém uma tabela com até quatro entradas de partições no disco;
+
+5. O código da MBR procura pela partição ativa onde deve estar o sistema operacional;
+
+6. Assim como a BIOS, a MBR carrega na memória o primeiro setor da partição ativa e executa;
+
+7. A partir daí temos o código de um possível sistema operacional rodando.
 
 Todos os componentes principais desse boot podem ser visualizados de uma forma bem macro na figura abaixo.
 
@@ -20446,21 +20836,21 @@ Todos os componentes principais desse boot podem ser visualizados de uma forma b
 
 Alguns detalhes sórdidos que podem fazer alguma diferença para você, desenvolvedor de sistemas operacionais, um dia desses:
 
- - Os setores de que estamos falando (MBR, partição ativa) normalmente devem terminar com uma assinatura de dois bytes (0x55 0xAA), o que "garante" que o código contido nesse setor é válido e pode ser executado.
+- Os setores de que estamos falando (MBR, partição ativa) normalmente devem terminar com uma assinatura de dois bytes (0x55 0xAA), o que "garante" que o código contido nesse setor é válido e pode ser executado.
 
- - No caso do loader do Windows (pré-Vista), existia um arquivo no diretório-raiz da partição ativa chamado boot.ini que continha uma lista de possíveis modos de inicializar o sistema operacional, inclusive com múltiplas versões do Windows, cada um localizado em uma partição/pasta distinta (e.g., multiboot com Windows 98 e XP).
+- No caso do loader do Windows (pré-Vista), existia um arquivo no diretório-raiz da partição ativa chamado boot.ini que continha uma lista de possíveis modos de inicializar o sistema operacional, inclusive com múltiplas versões do Windows, cada um localizado em uma partição/pasta distinta (e.g., multiboot com Windows 98 e XP).
 
- - O limite de quatro partições da MBR pode ser aumentado com o uso de partições estendidas; as partições estendidas apontam para um bloco de setores no HD que inicia com um setor que contém outra tabela de partições exatamente onde fica a tabela da MBR, também com quatro entradas.
+- O limite de quatro partições da MBR pode ser aumentado com o uso de partições estendidas; as partições estendidas apontam para um bloco de setores no HD que inicia com um setor que contém outra tabela de partições exatamente onde fica a tabela da MBR, também com quatro entradas.
 
- - O endereçamento da localização das partições na MBR pode ser feito de duas maneiras distintas: por CHS ou por LBA. A versão CHS é bem antiga, mas ainda usada, e especifica uma localização no HD através de um posicionamento físico de três dimensões, com cilindro/trilha (C - Cylinder), cabeça (H - Head) e setor (S - Sector). Sim, isso é bem old-fashionable. Também existe o LBA (Logical Block Addressing), que é uma forma lógica de endereçar setores no disco, através de deslocamentos (offsets).
+- O endereçamento da localização das partições na MBR pode ser feito de duas maneiras distintas: por CHS ou por LBA. A versão CHS é bem antiga, mas ainda usada, e especifica uma localização no HD através de um posicionamento físico de três dimensões, com cilindro/trilha (C - Cylinder), cabeça (H - Head) e setor (S - Sector). Sim, isso é bem old-fashionable. Também existe o LBA (Logical Block Addressing), que é uma forma lógica de endereçar setores no disco, através de deslocamentos (offsets).
 
 Para detectar problemas de hardware, a BIOS pode ajudar com seus beeps significativos. Isso aparentemente parece ser o fim da picada, mas não é. O DQ sabe muito bem que podemos ter problemas no hardware que exigem análises mais sofisticadas (como comprimento de onda dos sinais).
 
 Se for detectar algum problema no sistema de boot baseado em MBR, então você tem dois caminhos:
 
- - Usar o SoftICE 16 bits e depurar o carregamento da MBR pela BIOS
+- Usar o SoftICE 16 bits e depurar o carregamento da MBR pela BIOS
 
- - Usar o Debug 16 bits do MS-DOS (ou similar) e depurar diretamente o código de boot da MBR, reproduzindo os passos anteriores da BIOS.
+- Usar o Debug 16 bits do MS-DOS (ou similar) e depurar diretamente o código de boot da MBR, reproduzindo os passos anteriores da BIOS.
 
 Se o problema for durante o carregamento do próprio sistema operacional, as mensagens de erro do loader são significativas. No entanto, pode-se usar o Debug mais uma vez e depurar essa parte, logo antes, é claro, do sistema entrar em modo protegido de 32 bits, o que daí já é outra história (que pretendo contar em breve).
 
@@ -20495,17 +20885,19 @@ Eu não vou explicar como salvar um setor do disco em um arquivo. Pelamordedeus,
 
 Se bem que, como esse é um quase-tutorial, vão abaixo apenas algumas dicas:
 
- - no primeiro setor do disco de boot, podemos encontrar a tabela de partições;
- - nessa tabela, a partição ativa é a que começa com 0x80;
- - existe um campo onde é possível obter o offset de onde está o primeiro setor dessa partição (em setores);
+- no primeiro setor do disco de boot, podemos encontrar a tabela de partições;
+
+- nessa tabela, a partição ativa é a que começa com 0x80;
+
+- existe um campo onde é possível obter o offset de onde está o primeiro setor dessa partição (em setores);
 
 ![finding_part_boot.png](o_boot_no_windows_pre_ntldr_EfbrmZd.png)
 
- - uma simples conversão de Little Endian e de hexadecimal para decimal nos retorna o número do setor que precisamos;
+- uma simples conversão de Little Endian e de hexadecimal para decimal nos retorna o número do setor que precisamos;
 
 ![converting_setor.png](o_boot_no_windows_pre_ntldr_qSx2aLD.png)
 
- - o próprio HxD nos consegue levar para esse setor, de onde podemos selecioná-lo e salvá-lo em um arquivo!
+- o próprio HxD nos consegue levar para esse setor, de onde podemos selecioná-lo e salvá-lo em um arquivo!
 
 ![first_partition_sector.png](o_boot_no_windows_pre_ntldr_mZoLCyZ.png)
 
@@ -20620,7 +21012,7 @@ Se fuçarmos por um tempo esse código podemos encontrar várias coisas interess
 
 ![error_checking_part_sect_signature.png](o_boot_no_windows_pre_ntldr_7dZZZag.png)
 
- Outra coisa interessante é encontrar a sub-rotina que carrega blocos e blocos de conteúdo do disco na memória, utilizando-se para isso da [interrupção 0x13 função 0x42]: a leitura estendida!
+Outra coisa interessante é encontrar a sub-rotina que carrega blocos e blocos de conteúdo do disco na memória, utilizando-se para isso da [interrupção 0x13 função 0x42]: a leitura estendida!
 
 ```
 
@@ -20714,7 +21106,6 @@ windbg notepad
 $$>a<scripts\loadlibrary.txt</a> ntoskrnl.exe
 ```
 
-
 ```
 0:000> lm m nt*
 start    end        module name
@@ -20768,11 +21159,9 @@ Finalmente chegamos em um ponto onde podemos usar o WinDbg.
 
 Podemos espetar o depurador e fazê-lo parar assim que conectado. Se estiver rodando antes do próprio sistema operacional, teremos um sistema sem processos e sem threads, pois ele irá parar assim que o executivo puder enviar o sinal de início pela porta serial, após carregar na memória os módulos básicos.
 
-
 ```
 windbg -k com:pipe,port=\\.\pipe\com_1 -b
 ```
-
 
 ```
 Microsoft (R) Windows Debugger Version 6.11.0001.404 AMD64
@@ -20903,7 +21292,6 @@ De qualquer forma, estamos aí. Agora podemos depurar a criação de qualquer th
 
 Para depurar a criação de qualquer thread: coloque um breakpoint na função PsCreateSystemThread.
 
-
 ```
 kd> bp PsCreateSystemThread
 kd> bl
@@ -20924,7 +21312,6 @@ ChildEBP RetAddr
 ```
 
 Para depurar a criação de qualquer processo: coloque um breakpoint na função PspCreateProcess, logo no começo. Será possível capturar a criação do processo System, o processo onde roda a primeira thread do kernel, que inicializa o resto dos componentes.
-
 
 ```
 kd> bp PspCreateProcess
@@ -20947,7 +21334,6 @@ ChildEBP RetAddr
 
 E não é lindo ver que, após a chamada ao Process Manager o processo REALMENTE foi criado e está na lista de processos?
 
-
 ```
 kd> !process 0 0
 **** NT ACTIVE PROCESS DUMP ****
@@ -20967,7 +21353,6 @@ PROCESS 81bcc830  SessionId: none  Cid: 0004    Peb: 00000000  ParentCid: 0000
 O próximo processo a ser criado, logo após carregar todos os drivers, é o nosso amigo SMSS, o Gerenciador de Sessão, o primeiro pedacinho do iceberg que desponta no oceano. É ele que irá iniciar toda a "parte user-mode do kernel".
 
 Nota: Apesar de parecer contraditório, algumas partes do kernel são de fato implementadas em user mode. Os motivos podem variar, mas geralmente são maior segurança (código que não precisa rodar em um ring privilegiado) e desempenho (código que não precisa de muita prioridade).
-
 
 ```
 Breakpoint 0 hit
@@ -21018,9 +21403,13 @@ Inspirado pelo texto de Chad Fowler que explica como o aprendizado de um segundo
 Primeiro, meus motivos primários:
 
 - Estava escutando TaTu;
+
 - Costumava conversar pelo ICQ com uma amiga de Moscou (em inglês, apesar dela falar mais três ou quatro idiomas; e ela só tinha 19 anos!);
+
 - Estava querendo aproveitar parte do meu cérebro que fica inerte a maior parte do tempo porque meu emprego basicamente só mexe com coisas (quase) lógicas, como programação;
+
 - Achava uma língua bem bonita e exótica;
+
 - Gosto de jogar xadrez (o que isso tem a ver?).
 
 Bom, no início comecei aprendendo o alfabeto. Alguns podem dizer que não há nenhum segredo no cirílico, e de fato não há. Porém, uma coisa é saber interpretar mais ou menos aquelas letrinhas derivadas do grego; outra completamente diferente é saber escrever em letra de base e em letra de mão todos os 33 caracteres, e ainda saber de cor o leiaute do teclado russo. Isso leva um pouco de tempo, e é bem divertido!
@@ -21053,9 +21442,9 @@ Dr. House: Ah, my birthday. Normally I'd put on a festive hat and celebrate the 
 
 Do ponto de vista estatístico nem se fala. Na região onde eu moro vivem dez milhões de pessoas. Em uma conta de padaria, trinta mil fazem aniversário junto comigo. Na mesma hora, talvez umas mil. Bom, mas existem sessentas minutos em uma hora! Dessa forma, eu tenho a chance de ter nascido no mesmo minuto junto de cerca de vinte rebentos. Ah, e os segundos!?!? É verdade. Sou obrigado a torcer o nariz para o "fato" que tenho mais de 50% de chance de ser a única pessoa na região de São Paulo a ter nascido no mesmo segundo. Que especial! Bom, no mundo inteiro, é óbvio que não tenho nem um milissegundo pra mim, o que torna a data tão insignificativa quanto um alerta do orkut sobre a mesma.
 
- - Se aplicarmos a mesma lógica matemática à morte e aos nascimentos chegaremos à inevitável (e óbvia) equação que a vida de um indivíduo para a nossa espécie hoje em dia vale menos que sua aposentadoria. Até porque, dessa imensa maioria de pessoas que nascem e morrem, a maioria é pobre e não tem condições de contribuir com uma boa parcela de gastos para o bem de nossa economia. A maioria é burra também, e pode contribuir menos ainda pelo valor agregado de nossa riqueza.
+- Se aplicarmos a mesma lógica matemática à morte e aos nascimentos chegaremos à inevitável (e óbvia) equação que a vida de um indivíduo para a nossa espécie hoje em dia vale menos que sua aposentadoria. Até porque, dessa imensa maioria de pessoas que nascem e morrem, a maioria é pobre e não tem condições de contribuir com uma boa parcela de gastos para o bem de nossa economia. A maioria é burra também, e pode contribuir menos ainda pelo valor agregado de nossa riqueza.
 
- - Me foi contado que aniversários são eventos para celebrar a vida, principalmente do aniversariante. Ótimo! Isso quer dizer que a vida de cada um vale menos de 0,3% do ano inteiro, já que reservamos apenas um dia em 360 para confirmar que ainda estamos respirando.
+- Me foi contado que aniversários são eventos para celebrar a vida, principalmente do aniversariante. Ótimo! Isso quer dizer que a vida de cada um vale menos de 0,3% do ano inteiro, já que reservamos apenas um dia em 360 para confirmar que ainda estamos respirando.
 
 Bom, esse artigo já devanou demais. E como meu objetivo nem foi chegar a uma conclusão, termino por aqui. Ah, para dar mais corda pra pensar: feliz natal!
 
@@ -21155,7 +21544,6 @@ Compilamos e geramos um PDB (arquivo de símbolos) que contém a definição des
 
 É claro que nosso executável não vai existir na sessão de kernel local, mas isso não importa. Podemos usar qualquer módulo carregado e usá-lo como host de nosso conjunto de símbolos:
 
-
 ```
 lkd> lm
 start    end        module name
@@ -21201,7 +21589,6 @@ bac60000 bac66700   USBSTOR  M (private pdb symbols)  C:\Tests\KernelTypes\Debug
 ```
 
 Depois que o símbolo foi carregado em nosso módulo de mentirinha, tudo que temos a fazer é alterar o contexto do processo atual (para que os endereços de user mode façam sentido) e moldar nossa memória com o comando [dt], usando o tipo importado do símbolo carregado.
-
 
 ```
 lkd> .process 89068700
@@ -21268,11 +21655,11 @@ Em primeiro lugar, a busca por pistas. Se algo está errado com o programa, vive
 
 Mas existem alguns pontos-comuns de conhecimento que sempre desenvolvemos no decorrer da carreira:
 
- - Se a última instrução do código é zero (ou algo próximo disso), provavelmente a pilha foi corrompida por alguém que tentou zerar uma variável, e junto dela o ponto de retorno de alguma função chamadora.
+- Se a última instrução do código é zero (ou algo próximo disso), provavelmente a pilha foi corrompida por alguém que tentou zerar uma variável, e junto dela o ponto de retorno de alguma função chamadora.
 
- - Se um programa trava em um determinado momento, voltando após um período previsível de tempo (30 segundos), automaticamente sabemos que existe algum evento/mutex usado de forma errada que, dadas as circunstâncias, apresentou uma espera longa demais.
+- Se um programa trava em um determinado momento, voltando após um período previsível de tempo (30 segundos), automaticamente sabemos que existe algum evento/mutex usado de forma errada que, dadas as circunstâncias, apresentou uma espera longa demais.
 
- - Se uma versão nova capota em um procedimento em que a versão antiga nunca capotou, podemos divagar rapidamente quais as características da nova versão que fizeram com que isso acontecesse, ainda sem olhar para o código.
+- Se uma versão nova capota em um procedimento em que a versão antiga nunca capotou, podemos divagar rapidamente quais as características da nova versão que fizeram com que isso acontecesse, ainda sem olhar para o código.
 
 Dessa forma é possível criar teorias a partir da análise mental do que o programa normal deveria estar fazendo, mas não está. É esse tipo de análise que é feita no seriado.
 
@@ -21292,8 +21679,9 @@ Porém, saber que uma determinada situação é mel na chupeta (by Thiago) por s
 
 Dentre as mais conhecidas entre os malloqueiros, temos:
 
- - Comenta-descomenta-comenta
- - Faz do zero
+- Comenta-descomenta-comenta
+
+- Faz do zero
 
 Essas duas técnicas são tão úteis e tão fáceis de usar que merecem um artigo a respeito.
 
@@ -21531,7 +21919,6 @@ O último item, mais esotérico de todos, promete ser lançado a partir da vers�
 
 Resumidamente, é um !analyze mais esperto com o algoritmo heurístico do Visual Basic .NET. Assim que for aberto um dump de tela azul e carregados os símbolos e o caminho dos fontes, a nova versão do !analyze irá verificar os valores do BugCheck gerado e, caso seja detectado que o problema está em seu driver, irá sugerir uma correção na sua função que estiver na pilha.
 
-
 ```
 Microsoft (R) Windows Debugger Version 6.9.0003.113 X86
 Copyright (c) Microsoft Corporation. All rights reserved.
@@ -21558,7 +21945,6 @@ Loading unloaded module list
 ..........................
 ```
 
-
 ```
 *******************************************************************************
 *                                                                             *
@@ -21575,7 +21961,6 @@ Probably caused by : MyDriver.sys ( MyDriver!KeBugCheckTest+2b )
 Followup: MachineOwner
 ---------
 ```
-
 
 ```
 0: kd> !analyze -v
@@ -21608,7 +21993,6 @@ Arg3: 00000000
 Arg4: 00000000
 ```
 
-
 ```
 Debugging Details:
 ------------------
@@ -21617,11 +22001,9 @@ BUGCHECK_STR:  0x7f_d
 DEFAULT_BUCKET_ID:  DRIVER_FAULT
 ```
 
-
 ```
 PROCESS_NAME:  cmd.eze
 ```
-
 
 ```
 LAST_CONTROL_TRANSFER:  from 80564dd2 to 80544e7b
@@ -21707,11 +22089,15 @@ Os últimos comentários de Henrique Esteves (quando havia seção de comentári
 
 Apenas para constar, segue a lista de artigos sobre este projeto:
 
- - Conversor de Houaiss para Babylon - parte 1
- - Conversor de Houaiss para Babylon - parte 2
- - Segunda versão do Houaiss2Babylon
- - HouaissParaBabylon versão beta
- - HouaissParaBabylon versão 1.1
+- Conversor de Houaiss para Babylon - parte 1
+
+- Conversor de Houaiss para Babylon - parte 2
+
+- Segunda versão do Houaiss2Babylon
+
+- HouaissParaBabylon versão beta
+
+- HouaissParaBabylon versão 1.1
 
 Foi uma odisseia e tanto. E ainda está longe de ser perfeito. Contudo, fico feliz que muitas pessoas já tenham conseguido usá-lo com sucesso e com a qualidade técnica dos meus visitantes. O Henrique, por exemplo, teve que entender o processo interno que o programa faz para renomear os arquivos do dicionário e assim conseguir a conversão. Pessoas como essa faltam na equipe de suporte técnico de programadores de baixaria.
 
@@ -22046,7 +22432,6 @@ tags: computer blog
 
 Esse artigo continua a explicação sobre [os typedefs arcaicos], já que ainda falta explicar por que diabos os ponteiros da Microsoft começam com LP. Tentei explicar para [minha pupila] que, por ser código dos anos 80, as pessoas usavam LP para tudo, pois os CDs ainda não estavam tão difundidos.
 
-
 ```
 /** @brief Para instanciar um Bozo. @date 1982-02-21 */
 typedef struct _BOZO {
@@ -22055,7 +22440,6 @@ typedef struct _BOZO {
 }
  BOZO, *LPBOZO;
 ```
-
 
 ```
 /** @brief Para instanciar um Pokemon. @date 1996-03-01 */
@@ -22109,7 +22493,6 @@ Essa frase era muito usada nos anos 80, com seus 16 bits e tudo mais.
 
 Com toda essa analogia, fica fácil perceber que o Windows não cabe em uma rua só. Seus aplicativos precisam de muitas ruas para rodar. Isso exige que todos seus ponteiros sejam long, pois do contrário o Juquinha estará entregando as cartas sempre nos endereços errados. Dessa forma, foi estipulado o typedef arcaico padrão para todos os tipos da API que usasse LP (Long Pointer) como prefixo:
 
-
 ```
 typedef unsigned long WORD, *LPDWORD;
 typedef const char* LPCSTR;
@@ -22144,17 +22527,29 @@ tags: computer blog
 De memória (ou buscando no meu blogue) consigo lembrar alguns tópicos e a forma como os expliquei. Em alguns até fiz um artigo sobre o assunto:
 
 - Ponteiros 16 bits: rua e número de uma casa.
+
 - Typedefs: apelidos para nomes de pessoas.
+
 - Depuração: séries de investigação forense como CSI (ou investigação médica como House).
+
 - Passagem de argumentos por valor e por referência: e-mails com anexo e com linques.
+
 - Ponteiros: armário de gavetas.
+
 - Programadores: programadores de verdade não usam Java (brincadeira).
+
 - Agendamento de threads: guichê de CPUs.
+
 - Seções críticas: fila de threads dentro de uma sala.
+
 - Funções com retorno booleano: o dedo polegar dos romanos.
+
 - Pilha: uma pilha, só que de pratos e não bytes.
+
 - Binário: bichos-preguiça contando com seus únicos dois dedos.
+
 - Tipos: uma forma de bolo que só faz bolos com um único formato.
+
 - Definições x declarações de variáveis: hardware e software; OK, podemos chamar esse de meta-analogia =)
 
 Acredito ser essa a melhor forma de desmistificar esse pequeno mundinho que parece incompreensível aos outros mortais. Até porque tudo que é criado no mundo dos computadores são abstrações do mundo real, que por sua vez são abstrações da mente humana.
@@ -22585,8 +22980,11 @@ tags: computer blog
 Eu chamo de breakpoints promíscuos aqueles que topam qualquer processo. Isso é muito simples de se fazer:
 
 - Configure uma VM para bootar em kernel debug.
+
 - Encontre um processo qualquer (vamos usar o notepad pra variar?).
+
 - Reabra os símbolos de user mode nele.
+
 - Defina um breakpoint em alguma DLL de user mode.
 
 Como meus leitores são muito espertos vou partir para o momento após rodarmos um notepad.exe:
@@ -23613,8 +24011,9 @@ No caso do FormatMessage, a variável dwFlags se divide em dois para especificar
 
 O parâmetro mais polêmico é o que possui vários significados. No caso de lpSource, existem dois significados possíveis:
 
-  1. FORMAT_MESSAGE_FROM_HMODULE. Ele é um HANDLE para um módulo.
-  2. FORMAT_MESSAGE_FROM_STRING. Ele é um ponteiro para string.
+1. FORMAT_MESSAGE_FROM_HMODULE. Ele é um HANDLE para um módulo.
+
+2. FORMAT_MESSAGE_FROM_STRING. Ele é um ponteiro para string.
 
 Isso explica por que essas duas flags são exclusivas: ou uma ou outra. Mesmo que a flag FORMAT_MESSAGE_FROM_SYSTEM seja usada, a função tentará achar a definição da mensagem no módulo especificado por lpSource primeiro, antes de ir buscar nas tabelas do sistema.
 
@@ -23909,9 +24308,11 @@ Apesar de existirem [firulas gráficas], gosto de usar o Bazaar na linha de coma
 
 Isso vale para qualquer projeto que você esteja trabalhando. Pela linha de comando, navegue até o diretório do projeto. Digite os comandos abaixo seguidos de enter:
 
-  1. bzr init
-  2. bzr add
-  3. bzr commit -m "Primeiro commit no controle de fonte"
+1. bzr init
+
+2. bzr add
+
+3. bzr commit -m "Primeiro commit no controle de fonte"
 
 Pronto! Você está oficialmente com seu projeto dentro de um controle de fonte.
 
@@ -23936,9 +24337,11 @@ C:\Users\Caloni\Documents\Projetos\MeuProjeto>
 
 Os passos seguintes seguem o mesmo padrão, exceto o passo 1, que é substituído pelo seu trabalho:
 
-  1. trabalho
-  2. bzr add
-  3. bzr commit -m "Comentário sobre modificação que fiz"
+1. trabalho
+
+2. bzr add
+
+3. bzr commit -m "Comentário sobre modificação que fiz"
 
 ```
 C:\Users\Caloni\Documents\Projetos\MeuProjeto>vim MeuProjeto.cpp
@@ -24031,16 +24434,21 @@ A primeira coisa que se faz nesse caso é pesquisar no Google por pessoas que j�
 
 No meio dos procedimentos batidos que todos fazem a lista abaixo resume bem:
 
- - Restaurar instalação do Internet Explorer.
- - Atualizar Internet Explorer.
- - Rodar Windows Update.
- - Registrar novamente DLLs do Shell (ShDocVw.dll, etc).
+- Restaurar instalação do Internet Explorer.
+
+- Atualizar Internet Explorer.
+
+- Rodar Windows Update.
+
+- Registrar novamente DLLs do Shell (ShDocVw.dll, etc).
 
 No meio das análises não-tão-batidas que foram feitas estavam os seguintes itens:
 
- - Log de operações pelo Process Monitor da abertura do browser até o erro.
- - Dump gerado no momento da mensagem de erro.
- - Comparação de registro exportado com máquina sadia.
+- Log de operações pelo Process Monitor da abertura do browser até o erro.
+
+- Dump gerado no momento da mensagem de erro.
+
+- Comparação de registro exportado com máquina sadia.
 
 Nada parecia resolver o impasse, a não ser reinstalar o Windows, coisa que o cliente não queria. Dessa forma, A última tentativa não-enlouquecida de tentar descobrir a causa do problema foi usar uma VM e importar o registro exportado da máquina defeituosa.
 
@@ -24048,9 +24456,11 @@ Que não revelou a anomalia.
 
 Partindo disso, imaginei que o que ocorria era que havia algo faltando no registro danificado, e não algo a mais. Dessa forma, realizei a seguinte operação:
 
- - Exportei o registro da máquina saudável.
- - Transformei a exportação em exclusão total das chaves.
- - Importei ambos os registros no esquema "apaga tudo cria tudo de novo".
+- Exportei o registro da máquina saudável.
+
+- Transformei a exportação em exclusão total das chaves.
+
+- Importei ambos os registros no esquema "apaga tudo cria tudo de novo".
 
 ![Exportando e importando registro](suporte_tecnico_l7Rc7kY.png)
 
@@ -24062,12 +24472,17 @@ O registro exportado da VM possuía cerca de 30.000 linhas com chaves e sub-chav
 
 Foi esse o procedimento seguido:
 
-  1. Criar snapshot com o estado inalterado do registro.
-  2. Apagar metade do registro original exportado da máquina real.
-  3. Arrastar metade do registro original e importá-lo apagando as chaves antes.
-  4. Já na VM alvo importar registro danificado do cliente.
-  5. Se deu erro de novo, repassar os passos 2 a 3.
-  6. Se não deu erro, testar os passos 3 e 4 com a outra metade.
+1. Criar snapshot com o estado inalterado do registro.
+
+2. Apagar metade do registro original exportado da máquina real.
+
+3. Arrastar metade do registro original e importá-lo apagando as chaves antes.
+
+4. Já na VM alvo importar registro danificado do cliente.
+
+5. Se deu erro de novo, repassar os passos 2 a 3.
+
+6. Se não deu erro, testar os passos 3 e 4 com a outra metade.
 
 ![Snapshots da VMWare](suporte_tecnico_hhxZgqZ.png)
 
@@ -24195,7 +24610,6 @@ Nota: O parâmetro -pv permite depurar um processo de forma não-invasiva, mas a
 
 Analisando o disassembly da função nova e antiga podemos perceber que o tamanho delas não mudou (bom sinal), mas o uso dos registradores e a lógica interna teve uma alteração significativa (mau sinal):
 
-
 ```
 Função antiga: bool even = nextNumber % 2;
 test    edx,edx
@@ -24217,7 +24631,6 @@ je      criticalservice!DoProcess+0x3f (0040105f)
 
 Podemos começar escrevendo a função nova da memória do processo de teste para um arquivo, e lendo em seguida para cima da função antiga. Só que para isso temos que nos certificar que os endereços que referenciam para fora da função sejam os mesmos. Nesse caso, felizmente, são.
 
-
 ```
 0:001> .writemem c:\tests\newfunc.dat criticalservice!DoProcess 0040107e
 Writing 5f bytes.
@@ -24226,7 +24639,6 @@ Writing 5f bytes.
 Em seguida iremos sobrescrever a função antiga no processo em execução. Para evitar crashes é vital que tenhamos certeza que a função não estará sendo executada nesse momento. No nosso caso basta aguardar a entrada na função Sleep da API, que dorme por 3 segundos, tempo suficiente para a atualização.
 
 ![Live Patch!](patch_de_emergencia_bMI63Ka.png)
-
 
 ```
 0:000> .readmem c:\tests\newfunc.dat criticalservice!DoProcess 0040107e
@@ -24275,7 +24687,6 @@ Reading 5f bytes.
 
 Antes de trocarmos o endereço dentro do main precisamos "consertar" a função copiada. Ela está usando as funções globais rand e printf, e as chamadas usam offsets relativos. Como agora a função está em outro offset, temos que reconstruir as chamadas:
 
-
 ```
 00401026 e8da000000      call    criticalservice3!rand (00401105)
 00030006 e8da000000      call    000300e5
@@ -24295,7 +24706,6 @@ call 0x004010ca
 ```
 
 Agora a função está pronta para ser usada.
-
 
 ```
 0:000> uf 00030000
@@ -24325,7 +24735,6 @@ criticalservice2!main+0x1f [s:\docs\artigos\criticalservice2.cpp @ 21]:
 
 É salutar rezar por 10 segundos.
 
-
 ```
 0:000> a 0040109f
 0040109f call 0x00030000
@@ -24334,7 +24743,6 @@ call 0x00030000
 ```
 
 E voilà! A partir do momento em que digitei o call seguido de enter, a função nova já começou a operar em cima do processo ainda rodando. Se quisermos voltar a função antiga, sem problemas:
-
 
 ```
 0:000> a 0040109f
@@ -24353,11 +24761,15 @@ tags: ccppbr blog
 
 Aqui estamos nós de novo. Mais uma vez a Tempo Real Eventos irá organizar esse evento de final de ano. E mais uma vez, junto dos meus amigos, irei palestrar sobre um item indispensável no nécessaire de todo escovador de bits: assembly gerado pelo compilador. Vamos falar brevemente sobre o funcionamento de um código assembly 32 bits e passar para a análise dos compiladores modernos e o que eles fazem para tornar o código ainda mais rápido do que o próprio fonte em C++.
 
- - Gerando código assembly;
- - Guia ultra-rápido de assembly;
- - Recursividade sem problemas na pilha;
- - STL aumenta performance? (exemplos práticos);
- - Assembly 64 bits.
+- Gerando código assembly;
+
+- Guia ultra-rápido de assembly;
+
+- Recursividade sem problemas na pilha;
+
+- STL aumenta performance? (exemplos práticos);
+
+- Assembly 64 bits.
 
 Uma outra dúvida pertinente (e discutida nos bares nerds da cidade) é se usar código STL não deixaria mais lento o resultado final, já que ele é cheio das abstrações. Por mais que autoridades competentes no funcionamento da linguagem como Pedro Lamarão e Thiago Adams digam que as otimizações do compiladores modernos na STL/Boost são diversas vezes mais eficientes que o código artesanal de um programador, sempre fica aquela pulga atrás da orelha, pulga esta que podemos matar facilmente analisando o assembly gerado. E essa confiança extra nos dará novas chances de programar coisas legais de verdade, e não ficar ensebando um código que já está na sua velocidade máxima.
 
@@ -24734,45 +25146,83 @@ Esse é um filme extremamente deprimente, pelas características dos cenários, 
 
 Seguem minhas anotações quando o assisti quando estudava para ser crítico (por isso a data original):
 
- - Tanto é que em cada início e fim do curta vemos eles, o café e o cigarro, vistos de cima, como os que realmente importam e estão sempre presentes (as pessoas geralmente estão chegando e/ou se despedindo).
- - O próprio fato do filme ter sido feito em P&B e o café e o cigarro serem, por natureza, dessa cor, realça sua realidade, em detrimento aos personagens.
- - Uma mesa estilo xadrez e um ambiente decadente. Mais para frente vamos ver que os próprios detalhes do cenário se repetem (como a mesa xadrez), além dos diálogos e os próprios personagens.
- - Nesse ambiente as paredes estão arrebentadas e o clima é de loucura. Ambos os personagens tremem, por muito café, cigarro, ou ambos.
- - Vemos café claro (com leite) e escuro. Uma teoria maluca sobre o irmão gêmeo de Elvis Presley contada pelo garçom. Aliás, os garçons do filme são extremamente impertinentes (inclusive Bill Murray), o que mais uma vez demonstra a falta de personalidade dos personagens e sua repetição constante.
- - Um mexe o café do outro. A visão por cima permanece nessas cenas.
- - Vemos uma expressão forçada e ansiosa de quem espera, mais uma repetição de personagem. Aliás, os próprios curtas forçam que os atores sejam breves e marcantes em suas interpretações.
- - Um oferece café, outro cigarro. Suas opiniões sobre o cigarro mudam rapidamente, uma vez que um encontra o alicerce no outro.
- - Um jeitão esquisito do músico/médico, repetido no membro do Wu-Tang Clan.
- - Os cigarros, apesar do usual, possuem, sim, marca: Camel, Malboro, etc.
- - A "força de vontade" é enfatizada muitas vezes, enquanto eles se entregam ao vício.
- - Há muitas contradições e absurdos nos personagens. Não só os desse curta.
- - Sombra na pessoa que reclama, luz na pessoa que se defende.
- - Uma relação pai/filho baseada no dinheiro para manter o segredo de fumante.
- - Revista de armas (relacionada ao resto?)
- - Garçom insistente e impertinente (mais uma vez).
- - Qual o significado geral da composição? Começamos a perceber uma certa ligação entre as histórias, ou entre o clima delas, ou algo maior.
- - O P&B, se não me engano, varia de esverdeado para o simples.
- - Não sabemos o objetivo das pessoas. Elas se encontram para não contar nada de mais (não há nada de errado com a minha vida, só queria ver você).
- - Talvez o "só queria ver você" fosse uma antropomorfização do café/cigarro, sendo que não há, de fato, um motivo para vê-los, mas os personagens os veem de qualquer jeito. Isso nos dá uma pista que talvez os personagens sejam todos assim.
- - Aos poucos percebemos que o nível das conversas é gritantemente raso, um small talk no pior dos gêneros. Tudo para que assistamos o café e o cigarro de camarote.
- - Na mesa, quase sempre há mais xícaras de café do que pessoas.
- - Talvez a mesa xadrez evoque o próprio cenário que presenciamos, P&B, das pessoas em volta.
- - Mais uma vez garçom impertinente.
- - Molina interpretando ele mesmo e um outro ator (desconheço o nome) também interpretando ele mesmo.
- - No começo um dá as cartas, no final Molina ganha a atenção que queria (e a rejeita).
- - Um é visto como o astro da vez, tanto que uma fã, quando o descobre no recinto, apenas o vê, e não Molina.
- - O absurdo da situação é incrementado quando o outro ator até se esquece do nome completo do Molina.
- - As expressões dos atores dizem tudo sobre essa relação, bem mais que os diálogos, que continuam fracos, mas possuem em sua essência exatamente aquilo que estamos vendo.
- - Dessa vez o chá toma o lugar do café.
- - Mais uma vez o músico/médico (e o garçom impertinente: Bill Murray!).
- - Mais uma vez são todos pessoas conhecidas no show business.
- - A mesma história de sonhar rápido contada no primeiro curta.
- - Bill Murray "se disfarçando" de garçom, é o que realmente fuma e bebe café compulsivamente.
- - As expressões e o diálogo ingênuo de um e as expressões e o diálogo lógico do outro contracenam mais uma vez, como um fechamento que une a primeira história.
- - A interpretação dos velhinhos é soberba, pois apenas com seu tom de voz, sua maneira de se mexer podemos perceber claramente a tristeza da situação, mas a alegria por trás disso.
- - A luz é mais escura que em todos os outros, e talvez isso realmente se compare com o primeiro curta, onde tudo é muito claro (luz forte na cara dos personagens).
- - Vemos diálogos e ideias cruzadas de novo (Nikola Tesla e sua ideia da Terra ressonante e o almoço saudável).
- - No final, temos a sensação de algo muito deprimente. Talvez o efeito do filme como um todo seja de fato o efeito que o café e os cigarros fazem em nossa vida. Eles vão e vêm, passam despercebidos, mas possuem importantes mensagens de vida e morte.
+- Tanto é que em cada início e fim do curta vemos eles, o café e o cigarro, vistos de cima, como os que realmente importam e estão sempre presentes (as pessoas geralmente estão chegando e/ou se despedindo).
+
+- O próprio fato do filme ter sido feito em P&B e o café e o cigarro serem, por natureza, dessa cor, realça sua realidade, em detrimento aos personagens.
+
+- Uma mesa estilo xadrez e um ambiente decadente. Mais para frente vamos ver que os próprios detalhes do cenário se repetem (como a mesa xadrez), além dos diálogos e os próprios personagens.
+
+- Nesse ambiente as paredes estão arrebentadas e o clima é de loucura. Ambos os personagens tremem, por muito café, cigarro, ou ambos.
+
+- Vemos café claro (com leite) e escuro. Uma teoria maluca sobre o irmão gêmeo de Elvis Presley contada pelo garçom. Aliás, os garçons do filme são extremamente impertinentes (inclusive Bill Murray), o que mais uma vez demonstra a falta de personalidade dos personagens e sua repetição constante.
+
+- Um mexe o café do outro. A visão por cima permanece nessas cenas.
+
+- Vemos uma expressão forçada e ansiosa de quem espera, mais uma repetição de personagem. Aliás, os próprios curtas forçam que os atores sejam breves e marcantes em suas interpretações.
+
+- Um oferece café, outro cigarro. Suas opiniões sobre o cigarro mudam rapidamente, uma vez que um encontra o alicerce no outro.
+
+- Um jeitão esquisito do músico/médico, repetido no membro do Wu-Tang Clan.
+
+- Os cigarros, apesar do usual, possuem, sim, marca: Camel, Malboro, etc.
+
+- A "força de vontade" é enfatizada muitas vezes, enquanto eles se entregam ao vício.
+
+- Há muitas contradições e absurdos nos personagens. Não só os desse curta.
+
+- Sombra na pessoa que reclama, luz na pessoa que se defende.
+
+- Uma relação pai/filho baseada no dinheiro para manter o segredo de fumante.
+
+- Revista de armas (relacionada ao resto?)
+
+- Garçom insistente e impertinente (mais uma vez).
+
+- Qual o significado geral da composição? Começamos a perceber uma certa ligação entre as histórias, ou entre o clima delas, ou algo maior.
+
+- O P&B, se não me engano, varia de esverdeado para o simples.
+
+- Não sabemos o objetivo das pessoas. Elas se encontram para não contar nada de mais (não há nada de errado com a minha vida, só queria ver você).
+
+- Talvez o "só queria ver você" fosse uma antropomorfização do café/cigarro, sendo que não há, de fato, um motivo para vê-los, mas os personagens os veem de qualquer jeito. Isso nos dá uma pista que talvez os personagens sejam todos assim.
+
+- Aos poucos percebemos que o nível das conversas é gritantemente raso, um small talk no pior dos gêneros. Tudo para que assistamos o café e o cigarro de camarote.
+
+- Na mesa, quase sempre há mais xícaras de café do que pessoas.
+
+- Talvez a mesa xadrez evoque o próprio cenário que presenciamos, P&B, das pessoas em volta.
+
+- Mais uma vez garçom impertinente.
+
+- Molina interpretando ele mesmo e um outro ator (desconheço o nome) também interpretando ele mesmo.
+
+- No começo um dá as cartas, no final Molina ganha a atenção que queria (e a rejeita).
+
+- Um é visto como o astro da vez, tanto que uma fã, quando o descobre no recinto, apenas o vê, e não Molina.
+
+- O absurdo da situação é incrementado quando o outro ator até se esquece do nome completo do Molina.
+
+- As expressões dos atores dizem tudo sobre essa relação, bem mais que os diálogos, que continuam fracos, mas possuem em sua essência exatamente aquilo que estamos vendo.
+
+- Dessa vez o chá toma o lugar do café.
+
+- Mais uma vez o músico/médico (e o garçom impertinente: Bill Murray!).
+
+- Mais uma vez são todos pessoas conhecidas no show business.
+
+- A mesma história de sonhar rápido contada no primeiro curta.
+
+- Bill Murray "se disfarçando" de garçom, é o que realmente fuma e bebe café compulsivamente.
+
+- As expressões e o diálogo ingênuo de um e as expressões e o diálogo lógico do outro contracenam mais uma vez, como um fechamento que une a primeira história.
+
+- A interpretação dos velhinhos é soberba, pois apenas com seu tom de voz, sua maneira de se mexer podemos perceber claramente a tristeza da situação, mas a alegria por trás disso.
+
+- A luz é mais escura que em todos os outros, e talvez isso realmente se compare com o primeiro curta, onde tudo é muito claro (luz forte na cara dos personagens).
+
+- Vemos diálogos e ideias cruzadas de novo (Nikola Tesla e sua ideia da Terra ressonante e o almoço saudável).
+
+- No final, temos a sensação de algo muito deprimente. Talvez o efeito do filme como um todo seja de fato o efeito que o café e os cigarros fazem em nossa vida. Eles vão e vêm, passam despercebidos, mas possuem importantes mensagens de vida e morte.
 
 # Três Homens em Conflito (Sergio Leone, 1966)
 date: 2010-12-20
@@ -25161,13 +25611,19 @@ E-mail escrito em 02/12/2005:
 
 Um dia desses conversando com o Rodrigo Strauss, falando sobre como é interessante trocar informações e experiências sobre C++, ele teve a brilhante e original idéia (ninguém nunca fez isso antes) de propor encontros razoavelmente regulares para fazermos isso. A idéia dele era mais ou menos essa:
 
- - Peridiocidade dos encontros de X em X meses. Ainda não fechamos isso;
- - X pautas por reunião, votadas pelos participantes. Já temos algumas sugestões como, recursos arcanos do C++ (essa, de acordo com ele, seria minha função), ferramentas, bibliotecas, organização de código etc;
- - Troca de experiências sobre C++ em diversos sistemas operacionais. Por exemplo, nós mostraríamos para o pessoal de UNIX o Visual C++ e aprenderíamos com eles sobre emacs ou KDevelop;
- - Começar de forma muito simples, como uma mesa redonda, e se a coisa avançar, arrumar um lugar para palestras e apresentações;
- - Reuniões em bares ou restaurantes onde possamos conversar, levar acompanhantes e nos sentirmos seguros levando notebooks ou Pockets. Podemos até subir uma rede wifi e aumentar a diversão :-)
- - Como eu e o Strauss somos de São Paulo (na verdade, eu sou de São Bernardo), os primeiros encontros seriam na capital;
- - Isso é uma boa desculpa para se encontrar e tomar um chopp || guaraná || cachaça.
+- Peridiocidade dos encontros de X em X meses. Ainda não fechamos isso;
+
+- X pautas por reunião, votadas pelos participantes. Já temos algumas sugestões como, recursos arcanos do C++ (essa, de acordo com ele, seria minha função), ferramentas, bibliotecas, organização de código etc;
+
+- Troca de experiências sobre C++ em diversos sistemas operacionais. Por exemplo, nós mostraríamos para o pessoal de UNIX o Visual C++ e aprenderíamos com eles sobre emacs ou KDevelop;
+
+- Começar de forma muito simples, como uma mesa redonda, e se a coisa avançar, arrumar um lugar para palestras e apresentações;
+
+- Reuniões em bares ou restaurantes onde possamos conversar, levar acompanhantes e nos sentirmos seguros levando notebooks ou Pockets. Podemos até subir uma rede wifi e aumentar a diversão :-)
+
+- Como eu e o Strauss somos de São Paulo (na verdade, eu sou de São Bernardo), os primeiros encontros seriam na capital;
+
+- Isso é uma boa desculpa para se encontrar e tomar um chopp || guaraná || cachaça.
 
 Gostaríamos que as pessoas da comunidade C++ dessem sugestões sobre essa idéia. Estamos pensando em agendar o primeiro encontro para o dia 17/12/2005 (sábado) durante a tarde, em um Outback (comida australiana, Shopping Center Norte ou Eldorado, tem infra para crianças e a comida é muito boa). Como pauta do primeiro encontro eu sugiro uma apresentação dos participantes (o que será desnecessário se só eu e o Strauss aparecermos) e uma discussão sobre o presente e o futuro do mercado de trabalho C++.
 
@@ -25214,10 +25670,13 @@ Essa é uma resposta a um simpático e-mail de um leitor, o Fabio, me perguntand
 
 Entusiasta ao máximo, ele montou uma lista baseada em estudo constante sob variadas formas, mesmo longe do micro:
 
- - Contar binário e calcular hexa na cabeça;
- - Ler livros;
- - Programar em papel;
- - Algo mais?
+- Contar binário e calcular hexa na cabeça;
+
+- Ler livros;
+
+- Programar em papel;
+
+- Algo mais?
 
 De acordo com ele, o programador não consegue viver sem lógica, e quando tenta, se torna algo "intolerável".
 
@@ -25239,9 +25698,11 @@ Independente do método empregado, nunca visualize seus esforços com ceticismo,
 
 O que eu adicionaria na lista? Séries de investigação criminal e médica:
 
- - CSI pra entender o uso prático dos métodos indutivo e dedutivo de raciocínio; mais indutivo.
- - House porque nunca é demais se imaginar como o médico-louco que cura todas as doenças esquisitas; doença aqui é bug.
- - Dexter para ver como ele faz o seu trabalho seguindo sempre o mesmo método e deixando o ambiente limpinho, sem nenhuma pista.
+- CSI pra entender o uso prático dos métodos indutivo e dedutivo de raciocínio; mais indutivo.
+
+- House porque nunca é demais se imaginar como o médico-louco que cura todas as doenças esquisitas; doença aqui é bug.
+
+- Dexter para ver como ele faz o seu trabalho seguindo sempre o mesmo método e deixando o ambiente limpinho, sem nenhuma pista.
 
 Fora isso, curta o que está fazendo. Isso é o primordial. Arrebenta com qualquer dúvida que tiver sobre estar no caminho certo.
 
@@ -25371,11 +25832,15 @@ Segue a descrição da vaga, feita por mim mesmo, sozinho. Interessados: sem tim
 
 #### Analista Programador C++
 
- - Conhecimentos avançados em Windows: serviços, DLLs, (drivers desejável).
- - Programação: libc, Win32 API, (STL/Boost e Assembly 8086 desejáveis).
- - Ferramentas: Visual Studio 2003, Bazaar, VMWare, (WinDbg desejável).
- - Funções: codificação, análise, reunião técnica, refatoração, (UML desejável).
- - Perfil: vontade de aprender, pró-atividade, comunicação.
+- Conhecimentos avançados em Windows: serviços, DLLs, (drivers desejável).
+
+- Programação: libc, Win32 API, (STL/Boost e Assembly 8086 desejáveis).
+
+- Ferramentas: Visual Studio 2003, Bazaar, VMWare, (WinDbg desejável).
+
+- Funções: codificação, análise, reunião técnica, refatoração, (UML desejável).
+
+- Perfil: vontade de aprender, pró-atividade, comunicação.
 
 # Biutiful
 date: 2011-02-13
@@ -25602,10 +26067,13 @@ O "conceito" é bem simples: executo o programa, ele exibe um campo texto para d
 
 Algumas "features" avançadas que é bom saber:
 
- - Ele gera o arquivo texto em UNICODE. Na época em que eu digitava em russo, isso era importante.
- - Ele já gera suas anotações com data e hora.
- - Você pode gerar um atalho para chamá-lo rapidamente e definir um diretório de trabalho diferente: o arquivo será gerado no diretório de trabalho especificado, e não onde está o executável.
- - Existe uma versão em .NET que fiz na época que estudava C#. Felizmente eu perdi esse projeto.
+- Ele gera o arquivo texto em UNICODE. Na época em que eu digitava em russo, isso era importante.
+
+- Ele já gera suas anotações com data e hora.
+
+- Você pode gerar um atalho para chamá-lo rapidamente e definir um diretório de trabalho diferente: o arquivo será gerado no diretório de trabalho especificado, e não onde está o executável.
+
+- Existe uma versão em .NET que fiz na época que estudava C#. Felizmente eu perdi esse projeto.
 
 # Base64
 date: 2011-03-09
@@ -25617,21 +26085,27 @@ No meio dos meus artigos pendentes, encontrei esse, de Luiz Rocha, que fala sobr
 
 Não é a primeira pessoa que pede informações sobre algo específico demais para explicar (para isso existe a [Wikipedia] e o [Google], não?). No meio da minha escrita, percebi que já havia escrito sobre os fundamentos do conhecimento por trás da criação do Base64, conhecimento esse, acredito eu, todo programador que quer sair do lugar com os próprios pés deve ter.
 
- - [Básico do básico: assembly]
- - [Básico do básico: binário] <-- Luiz, você está procurando por esse!
- - [Básico do básico: tipos]
- - [Básico do básico: ponteiros]
+- [Básico do básico: assembly]
+
+- [Básico do básico: binário] <-- Luiz, você está procurando por esse!
+
+- [Básico do básico: tipos]
+
+- [Básico do básico: ponteiros]
 
 Bônus:
 
- - [Ofuscando strings]
- - [Passagem por valor e emails com anexo]
- - [Como funcionam as strings]
+- [Ofuscando strings]
+
+- [Passagem por valor e emails com anexo]
+
+- [Como funcionam as strings]
 
 Para colocar a mão na massa:
 
- - [Configurando seus projetos no Visual Studio]
- - [Como criar uma LIB no Visual Studio]
+- [Configurando seus projetos no Visual Studio]
+
+- [Como criar uma LIB no Visual Studio]
 
 Acredito que tudo que um programador precisa saber é o básico. O problema é que esse básico cresce a cada ano, mas, de qualquer forma, continua sendo necessário voltar às raízes de vez em quando, e se existe algo que ele nunca deve esquecer, é isso.
 
@@ -25712,21 +26186,29 @@ Depois da minha opinião dada ao Efetividade na matéria sobre ferramentas para 
 
 Porém, ainda utilizo o Google Reader por uma série de motivos:
 
- - Integrado com as ferramentas Google, que eu venero;
- - Tem atalhos no teclado, que eu venero
- - Consigo anotar o que quiser em qualquer página que navegar;
- - Posso organizar os feeds por categorias.
+- Integrado com as ferramentas Google, que eu venero;
+
+- Tem atalhos no teclado, que eu venero
+
+- Consigo anotar o que quiser em qualquer página que navegar;
+
+- Posso organizar os feeds por categorias.
 
 Minha organização de feeds, até semana passada, usava categorias específicas (programação, cinema, economia) e tinha duas categorias no topo que organizava por frequência (diário, semanal), seguindo uma dica de um leitor do Efetividade. Porém, meu maior problema sempre fora os feeds que cospem milhares de entradas por dia, e que sempre ficava para ler no meu fim-de-semana, consumindo às vezes o dia inteiro!
 
 Por isso, para evitar ser abarrotado de notícias, mantenho a seguinte organização de categorias:
 
-  1. Notícias: todos os feeds que cospem milhares de entradas. Organizo por "mágica" e leio apenas os que ficarem no topo. Ao final, clico no famigerado "Mark all as read" e fim de história.
-  2. Diário: leituras imediatas, que não requerem mais que cinco minutos, como a tirinha do Dilbert e minhas pesquisas cadastradas no Google.
-  3. Semanal: leitura um pouco mais demorada, para quando tiver mais que 10 minutos sobrando.
-  4. Amigos: todos os feeds das pessoas que eu conheço e acompanho.
-  5. Pessoal: meus próprios feeds, para reler o que eu escrevi e capturar "o outro lado da comunicação" (você, leitor).
-  6. Fóruns: mensagens do grupo de programação C++, por exemplo. Está no final da lista porque posso dedicar um pouco do fim-de-semana para ler a evolução dos tópicos, ou até colaborar quando tiver algum conhecimento a acrescentar.
+1. Notícias: todos os feeds que cospem milhares de entradas. Organizo por "mágica" e leio apenas os que ficarem no topo. Ao final, clico no famigerado "Mark all as read" e fim de história.
+
+2. Diário: leituras imediatas, que não requerem mais que cinco minutos, como a tirinha do Dilbert e minhas pesquisas cadastradas no Google.
+
+3. Semanal: leitura um pouco mais demorada, para quando tiver mais que 10 minutos sobrando.
+
+4. Amigos: todos os feeds das pessoas que eu conheço e acompanho.
+
+5. Pessoal: meus próprios feeds, para reler o que eu escrevi e capturar "o outro lado da comunicação" (você, leitor).
+
+6. Fóruns: mensagens do grupo de programação C++, por exemplo. Está no final da lista porque posso dedicar um pouco do fim-de-semana para ler a evolução dos tópicos, ou até colaborar quando tiver algum conhecimento a acrescentar.
 
 Além disso, os Shared Itens estão configurados como Start page, sendo que tudo que eu anotar durante minha navegação deve ser lida quando eu abro o Reader (incluindo minhas anotações).
 
@@ -25847,7 +26329,6 @@ Para pessoas que ficaram viciadas em commits curtos e todo o histórico do fonte
 Na verdade, melhor ainda: o bzr-svn baixa o SVN trunk com todo o histórico na máquina local, como se fosse um branch do próprio Bazaar, e permite a criação de branches desconectados para pequenos commits e o merge final para o servidor SVN.
 
 E o melhor de tudo: não há segredo. Tudo que precisa fazer é instalar o Bazaar e fazer um get/co com o endereço do branch SVN que o plugin se vira sozinho para detectar que se trata do Subversion. (Se for um branch protegido, o usuário e senha serão pedidos durante o processo).
-
 
 ```
 C:\Projetos>bzr co http://subversion.assembla.com/svn/caloni/ caloni
@@ -26831,11 +27312,11 @@ Existem filmes que não são apenas interessantes de se assistir como mais uma m
 
 Abaixo minhas observações iniciais.
 
- - Destaca-se nessa experiência uma produção de estilo, com a própria descrição dos relatos e a ilustração por casos comuns que acontecem aos usuários de drogas sendo feita com animações artísticas que evocam a própria experiência com as drogas, evidenciada pelo o uso de cores e formatos exaltados.
+- Destaca-se nessa experiência uma produção de estilo, com a própria descrição dos relatos e a ilustração por casos comuns que acontecem aos usuários de drogas sendo feita com animações artísticas que evocam a própria experiência com as drogas, evidenciada pelo o uso de cores e formatos exaltados.
 
- - Ao mesmo tempo, tenta ser abrangente ao máximo, evidenciando a experiência dos outros países no problema das drogas pela voz das pessoas envolvidas em todos os âmbitos, dos líderes dessas nações até o usuario final, passando pelos criminosos e a força policial envolvida no processo de combate generalizado da cadeia mercadológica.
+- Ao mesmo tempo, tenta ser abrangente ao máximo, evidenciando a experiência dos outros países no problema das drogas pela voz das pessoas envolvidas em todos os âmbitos, dos líderes dessas nações até o usuario final, passando pelos criminosos e a força policial envolvida no processo de combate generalizado da cadeia mercadológica.
 
- - Fernando Henrique é visto conversando praticamente com todas essas pessoas, o que ao mesmo tempo que serve de testemunho ao seu engajamento no assunto aos poucos estampa em sua testa o rótulo de, se não especialista, o representante no Brasil por essa causa.
+- Fernando Henrique é visto conversando praticamente com todas essas pessoas, o que ao mesmo tempo que serve de testemunho ao seu engajamento no assunto aos poucos estampa em sua testa o rótulo de, se não especialista, o representante no Brasil por essa causa.
 
 # Guerra nas Estrelas
 date: 2011-06-23
@@ -26903,10 +27384,13 @@ Conhecimentos necessários: C/C++, Assembly 8086, Win32 API.
 
 Passo-a-passo da palestra:
 
- 1. Sobre Pirataria. Como identificar brechas na licença para que você possa usufruir do seu trabalho de refatoração binária.
- 2. Análise. Desmontando o dicionário Houaiss e desvendando seu funcionamento interno.
- 3. Programação. Remontando a estrutura identificada pela Engenharia Reversa em um formato aberto.
- 4. Sobre Fair Use. Explicando como abrir portas para o desenvolvimento de soluções baseada em nossa análise.
+1. Sobre Pirataria. Como identificar brechas na licença para que você possa usufruir do seu trabalho de refatoração binária.
+
+2. Análise. Desmontando o dicionário Houaiss e desvendando seu funcionamento interno.
+
+3. Programação. Remontando a estrutura identificada pela Engenharia Reversa em um formato aberto.
+
+4. Sobre Fair Use. Explicando como abrir portas para o desenvolvimento de soluções baseada em nossa análise.
 
 Assuntos "similares" também nos esperam com Sergio Prado e programação segura e Rodrigo Almeida, abordando o desenvolvimento de microkernel. Além disso, também teremos Bruno Koga e Guilherme Andrade destrinchando o compilador LLVM para Objective-C, enquanto Antonio Ribeiro Alves Júnior explica sobre t100, um Middleware para Simulação Distribuída.
 
@@ -27207,8 +27691,9 @@ O porquê isso ocorre só fica óbvio quando vemos [a ajuda] (ou a assinatura) d
 
 Ora, a função str retorna uma cópia do objeto string usado internamento pelo buffer de nossa string stream. Duas coisas ocorrem em qualquer cópia de um objeto retornada por uma função:
 
- - A cópia do objeto original e seu desacoplamento (óbvio).
- - A construção de um objeto baseado no original e que, após o fim da expressão onde foi chamado o método, é destruído.
+- A cópia do objeto original e seu desacoplamento (óbvio).
+
+- A construção de um objeto baseado no original e que, após o fim da expressão onde foi chamado o método, é destruído.
 
 Uma vez que a chamada a str termina, é entregue uma instância de uma string que contém a string original que está sendo usada pela string stream para a expressão da chamada, que geralmente vem seguida de uma cópia:
 
@@ -27264,8 +27749,9 @@ tags: computer blog
 
 O programa está rodando no servidor do cliente, que é acessível por sessão remota do Windows, mas de repente ele capota. Existem aí duas possibilidades fora o debug remoto (que, nesse caso, não é possível):
 
-  1. Analisar um dump gerado.
-  2. Depurar localmente o problema.
+1. Analisar um dump gerado.
+
+2. Depurar localmente o problema.
 
 ![](depuracao_de_emergencia_imt8kmB.png)
 
@@ -27332,9 +27818,11 @@ Após esse último passo, siga para o último passo desse tutorial. Ou escolha a
 
 Para depurar localmente, supondo que seja um executável simples, você precisa dos seguintes itens:
 
- - Pasta do WinDbg copiado (a Debugging Tools instalada pelo SDK, ou sua pastinha particular guardada no PenDrive).
- - Símbolos dos binários envolvidos (em sincronia com os binários que iremos analisar).
- - Fontes da compilação dos binários (a versão exata seria ideal; grave o revno do controle de fonte pra facilitar).
+- Pasta do WinDbg copiado (a Debugging Tools instalada pelo SDK, ou sua pastinha particular guardada no PenDrive).
+
+- Símbolos dos binários envolvidos (em sincronia com os binários que iremos analisar).
+
+- Fontes da compilação dos binários (a versão exata seria ideal; grave o revno do controle de fonte pra facilitar).
 
 Os fontes, no caso de uma conexão por Terminal Server, podem ser disponibilizados através do mapeamento de drives entre as máquinas. Os símbolos, no entanto, por serem usados extensivamente pelo WinDbg, é recomendável que estejam locais na máquina depurada, pois do contrário você terá que tomar uma quantidade excessiva de cafés para executar meia-dúzia de instruções.
 
@@ -27473,13 +27961,13 @@ O final, não é preciso dizer, é extremamente melancólico, e foge obviamente 
 
 ## Trivia
 
- - De certa forma, fiquei pensando se o fato do planeta estar se aproximando não teria alterado o humor de várias pessoas, como Justine, e deixadas melancólicas um pouco antes do fim e, nos últimos momentos, fazê-la se acalmar (assim como os cavalos).
+- De certa forma, fiquei pensando se o fato do planeta estar se aproximando não teria alterado o humor de várias pessoas, como Justine, e deixadas melancólicas um pouco antes do fim e, nos últimos momentos, fazê-la se acalmar (assim como os cavalos).
 
- - Imagine acompanhar o mesmo filme trocando apenas a música para a Nona de Beethoven, em uma sugestão usada no próprio filme. Apenas imaginando isso, fica claro que os objetivos da produção estavam longe de ter o tema superação ou dar um tom feliz ao final trágico.
+- Imagine acompanhar o mesmo filme trocando apenas a música para a Nona de Beethoven, em uma sugestão usada no próprio filme. Apenas imaginando isso, fica claro que os objetivos da produção estavam longe de ter o tema superação ou dar um tom feliz ao final trágico.
 
- - O cavalo de Justine se chama Abraão, um personagem bíblico, em uma suposta referência ao trabalho anterior do diretor.
+- O cavalo de Justine se chama Abraão, um personagem bíblico, em uma suposta referência ao trabalho anterior do diretor.
 
- - Talvez seja coincidência, mas o fato do personagem de Jack Bauer, tão acostumado a salvar o mundo no seriado 24 Horas, se matar no final, estabelece uma dessas ironias cinematográficas impagáveis.
+- Talvez seja coincidência, mas o fato do personagem de Jack Bauer, tão acostumado a salvar o mundo no seriado 24 Horas, se matar no final, estabelece uma dessas ironias cinematográficas impagáveis.
 
 # Capitão América: O Primeiro Vingador (Joe Johnston, 2011)
 date: 2011-08-09
@@ -28063,9 +28551,11 @@ tags: computer blog
 
 Continuando o papo sobre [o que fazer para analisar rapidamente um crash no servidor com o pacote WinDbg], na maioria das vezes a exceção lançada pelo processo está diretamente relacionada com um acesso indevido à memória, o que tem diversas vantagens sobre problemas mais complexos:
 
- - Possui localização precisa de onde ocorreu a violação (inclusive com nome do arquivo-fonte e linha).
- - Não corrompe a pilha (ou, se corrompe, não chega a afetá-la a ponto da thread ficar irreconhecível).
- - A thread que contém a janela de crash é a culpada imediata (basta olha a pilha!).
+- Possui localização precisa de onde ocorreu a violação (inclusive com nome do arquivo-fonte e linha).
+
+- Não corrompe a pilha (ou, se corrompe, não chega a afetá-la a ponto da thread ficar irreconhecível).
+
+- A thread que contém a janela de crash é a culpada imediata (basta olha a pilha!).
 
 Bom, resumindo: basta olhar a pilha! Mas, para isso ser efetivo, precisaremos do PDB do executável que gerou o crash, pois através dele é possível puxar a tal localização da violação de acesso.
 
@@ -28089,9 +28579,11 @@ WinDbg: "mas que bagunça é essa na memória desse processo?"
 
 O comando mais útil na maioria dos casos é mostrar a pilha em modo verbose (kv e enter). Porém, antes disso, precisamos:
 
-  1. Ajeitar o path dos símbolos.
-  2. Recarregar o PDB do executável suspeito.
-  3. Mostrar a pilha de todas as threads (até descobrir a culpada).
+1. Ajeitar o path dos símbolos.
+
+2. Recarregar o PDB do executável suspeito.
+
+3. Mostrar a pilha de todas as threads (até descobrir a culpada).
 
 Todos esses comandos podem ser vistos abaixo. São, respectivamente, .symfix, .reload e novamente o kv (mas para todas threads).
 
@@ -28217,7 +28709,7 @@ Outra atitude igualmente deformada é achar que o mundo vai acabar se não exist
 
 De uma forma ou de outra, como toda atividade humana, escrever código nos define não apenas como bons programadores, mas como bons humanos, com seu conjunto de crenças e valores. O que, de certa forma, é um bom sinal, pois melhorando como seres humanos, melhoramos como programadores. E vice-versa.
 
- - Para quê filosofia?, por Marilena Chauí.
+- Para quê filosofia?, por Marilena Chauí.
 
 # O Manuscrito Perdido (José Barahona, 2010)
 date: 2011-10-23
@@ -29307,10 +29799,13 @@ No próximo dia 28, sábado, nos reuniremos em mais um evento C++ organizado pel
 
 Se o Cebolinha for um programador C++, deve estar se debatendo nesse momento.
 
- - C++ Rvalue References Explained
- - A Brief Introduction to Rvalue References
- - Want Speed? Pass by Value
- - MSDN Community: C++ Renaissance, São Paulo - SP.
+- C++ Rvalue References Explained
+
+- A Brief Introduction to Rvalue References
+
+- Want Speed? Pass by Value
+
+- MSDN Community: C++ Renaissance, São Paulo - SP.
 
 Faça sua incrição!
 
@@ -29950,7 +30445,7 @@ Como um amigo meu diria: "AHÁ!!". Descobrimos o culpado.
 A solução? Nesse caso não tem jeito: dar um clean no projeto e build novamente para que o VS reconstrua a árvore de dependências. Porém, agora sabemos por que precisamos do Rebuild All. Não é RebuildAllMania.
 
 [estão descritos no blogue da equipe do VC]: http://blogs.msdn.com/b/vsproject/archive/2009/07/21/enable-c-project-system-logging.aspx
-[DebugView ]: http://technet.microsoft.com/en-us/sysinternals/bb896647
+[DebugView]: http://technet.microsoft.com/en-us/sysinternals/bb896647
 
 # Raul: O Início, o Fim e o Meio
 date: 2012-03-28
@@ -30755,9 +31250,7 @@ E, como brinde, um grande aliado da produtividade: como evitar que o WinDbg bloq
 Fonte: Blog do [Nynaeve].
 
 [curso de desenvolvimento de drivers do meu amigo Ferdinando]: http://driverentry.com.br/blog/?page_id=16
-
 [blogue do Ken Johnson]: http://www.nynaeve.net/
-
 [Nynaeve]: http://www.nynaeve.net/?p=164
 
 # Meus repositórios no GitHub
@@ -30769,11 +31262,15 @@ Com isso, dei uma pequena lida no livro de introdução e comecei a migrar meus 
 
 Meus  repositórios estão armazenados em alguns branches que distribuí de acordo com o uso/importância:
 
- - OpenSource. Projetos de fonte aberto que mantenho/ive e que poderiam se perder se alguém não fizesse backup (como o mouse tool ou regmon).
- - Samples. Códigos de exemplo, de palestras e de testes feitos para escrever os artigos do blogue cujo autor vos fala.
- - Caloni. Os códigos que fazem algo de útil, como o Houaiss2Babyulon, CopiaExata e DayToDay.
- - Book. Um projeto em estado de larva sobre escrever um livro de engenharia reversa. Já possui um índice básico. Sugestões são bem-vindas.
- - DriverEntry. Códigos do curso de desenvolvimento de drivers que estou fazendo com o Fernando, da DriverEntry Company. Recomendo!
+- OpenSource. Projetos de fonte aberto que mantenho/ive e que poderiam se perder se alguém não fizesse backup (como o mouse tool ou regmon).
+
+- Samples. Códigos de exemplo, de palestras e de testes feitos para escrever os artigos do blogue cujo autor vos fala.
+
+- Caloni. Os códigos que fazem algo de útil, como o Houaiss2Babyulon, CopiaExata e DayToDay.
+
+- Book. Um projeto em estado de larva sobre escrever um livro de engenharia reversa. Já possui um índice básico. Sugestões são bem-vindas.
+
+- DriverEntry. Códigos do curso de desenvolvimento de drivers que estou fazendo com o Fernando, da DriverEntry Company. Recomendo!
 
 # MIB: Homens de Preto III
 date: 2012-06-04
@@ -30838,11 +31335,15 @@ Sempre é bom reler as referências e tentar melhorar o que já está bom. No mo
 
 A lista abaixo é pessoal e, como disse Bram Moolenar, "You should not try to learn every command an editor offers. That would be a complete waste of time. Most people only need to learn 10 to 20 percent of the commands for their work. But it's a different set of commands for everybody" (grifo meu).
 
-  - `<C-W><C-W>` Alterna entre janelas.
-  - `<C-W>-c` Fecha a janela atual.
-  - `<C-W>-o` Fecha todas as janelas menos a atual.
-  - `:ball` Abre todos os buffers em janelas distintas.
-  - `g <C-G>` Conta linhas, palavras, etc, no texto todo ou na seleção atual.
+- `<C-W><C-W>` Alterna entre janelas.
+
+- `<C-W>-c` Fecha a janela atual.
+
+- `<C-W>-o` Fecha todas as janelas menos a atual.
+
+- `:ball` Abre todos os buffers em janelas distintas.
+
+- `g <C-G>` Conta linhas, palavras, etc, no texto todo ou na seleção atual.
 
 # A Saga Crepúsculo: Lua Nova
 date: 2012-06-10
@@ -33398,7 +33899,6 @@ Uma das novidades do futuro Visual Studio pouco comentada ainda em fóruns por s
 
 Já é conhecido que será possível inserir comentários no código-fonte com o formato @nickname e incluir na listagem de bugs o estilo das #hashtags para que programadores vinculados à sua rede social possam enxergar referências a outros programadores e verificar o Developer TrendTopics, como um #blame-joel-on-software. Porém, o que poucos sabem, é que será também possível depurar as APIs de redes sociais em tempo real. Ou seja, caso seja usado o método Twitter::Tweet(), logo após o retorno da chamada será possível aguardar por uma resposta dos usuários envolvidos:
 
-
 ```
 Twitter::Tweet
 push ebp
@@ -35857,7 +36357,6 @@ O fato é que depois desses cinco minutos eu simplesmente não consegui parar at
 
 Todos os exercícios levam em consideração um arquivo de entrada que possui em sua primeira linha o número de testes que serão feitos e em seguida um número determinado de linhas e parâmetros, geralmente divididos por espaço. O primeiro problema, por exemplo, apenas considerava a suposição de cartas em pequeno truque de mágica e recebia como entrada a disposição dessas cartas junto com a escolha da fileira que o participante dizia onde estava a carta escolhida.
 
-
 ```
 2
 1 2 3 4
@@ -37438,19 +37937,19 @@ Dito isto, a abstração dos iteradores é a coisa mais linda do mundo.
 
 Os dois únicos conceitos que é preciso se lembrar para sempre quando se trata de iteradores é que ele:
 
- - Um iterador se comporta como um ponteiro opaco.
+- Um iterador se comporta como um ponteiro opaco.
 
- - O final de um contêiner está sempre um elemento além do último.
+- O final de um contêiner está sempre um elemento além do último.
 
 Um ponteiro pode ser iterador, mas não o contrário!
 
 Tudo que um ponteiro faz de útil em C/C++ foi emprestado para a STL usar em seus contêiners, e tudo em que ele é prejudicial tentou ficar de fora. E o que um ponteiro faz de útil?
 
- - Um ponteiro pode apontar para elementos sem conhecermos sua posição.
+- Um ponteiro pode apontar para elementos sem conhecermos sua posição.
 
- - Podemos incrementar ou decrementar ponteiros para caminhar em listas.
+- Podemos incrementar ou decrementar ponteiros para caminhar em listas.
 
- - Dois ponteiros podem ser subtraídos para sabermos a distância entre dois elementos.
+- Dois ponteiros podem ser subtraídos para sabermos a distância entre dois elementos.
 
 ```
 template<typename T>
@@ -38011,7 +38510,6 @@ Vou imaginar que você usa o Visual Studio 2003, um dos primeiros da safra ".NET
 
 Bem, nesse caso, "welcome... to the desert... of the double":
 
-
 ```
 <code>------ Build started: Project: VS2003, Configuration: Debug Win32 ------
 Compiling...
@@ -38309,8 +38807,9 @@ tags: cinema
 
 Está acontecendo até a metade de outubro o festival Luz, homenageando Walter de Carvalho, um diretor de fotografia sensacional no nosso Cinema. Dois dos três filmes que assisti com ele manipulando a luz são em preto e branco e são maravilhosos (também vi Central do Brasil, mas faz tanto tempo...):
 
- - Heleno
- - A Febre do Rato
+- Heleno
+
+- A Febre do Rato
 
 É possível notar em Heleno todo o encantamento nosso pelo passado romântico na história de um jogador de futebol ídolo da época. Curiosamente A Febre do Rato é um filme totalmente diferente ao nos transportar para a época da ditadura e do naturalismo querendo desabrochar em nossas mentes presas no politicamente correto (curioso que hoje o politicamente correto trocou de lado).
 
@@ -39881,8 +40380,9 @@ Como você faz para não cortar uma cena?
 
 Existem várias técnicas hoje em dia no computador que não vêm ao caso. Apenas tenha em mente que não é fácil se não houver uma pausa no movimento da câmera ou um momento em que o que estiver sendo mostrado possa ser o início da próxima cena, como uma parede, por exemplo. No caso de Birdman repare que existem dois movimentos na câmera que funcionam muito bem como uma pausa sem ter que existir o corte:
 
- 1. Quando o protagonista entra ou sai do bar (e há um escuro entre o dentro e o fora do bar);
- 2. Quando a câmera enquadra o céu e a noite vira dia (a passagem do tempo acelerada é um efeito em si mesma).
+1. Quando o protagonista entra ou sai do bar (e há um escuro entre o dentro e o fora do bar);
+
+2. Quando a câmera enquadra o céu e a noite vira dia (a passagem do tempo acelerada é um efeito em si mesma).
 
 Podem existir momentos mais elaborados para cortar, mas isso irá exigir mais aprimoramento técnico ainda dos produtores. Veja, por exemplo, a sequência memorável da perseguição em Filhos da Esperança, quando acompanhamos toda a ação de dentro de um carro que realiza as mais diversas manobras. Ou da perseguição do suspeito em um estádio de futebol em O Segredo dos Seus Olhos.
 
@@ -40785,10 +41285,13 @@ Pensando nisso, resolvi fazer uma primeira versão, em Python, de um script em q
 
 O funcionamento é muito simples, mas pede muitos parâmetros (recomendo criar um batch para armazená-los). Então vejamos:
 
- - dbgtools é o caminho onde está o Debugging Tools for Windows;
- - pdbpath é o caminho de onde devem ser pegos os PDBs, como um output da vida;
- - projname é porque preciso do nome do projeto com escopo do usuário para compor a URL, e.g. Caloni/GitIndex;
- - repo é o caminho do repositório local, pois o remoto eu já consigo pegar com o projname.
+- dbgtools é o caminho onde está o Debugging Tools for Windows;
+
+- pdbpath é o caminho de onde devem ser pegos os PDBs, como um output da vida;
+
+- projname é porque preciso do nome do projeto com escopo do usuário para compor a URL, e.g. Caloni/GitIndex;
+
+- repo é o caminho do repositório local, pois o remoto eu já consigo pegar com o projname.
 
 Um detalhe importante: o revno que será usado é o HEAD do repositório local. Sim, futuramente podemos adicionar esse argumento como opcional. Porém, no momento, coisas mais urgentes devem ser feitas. Uma delas é que estou usando a visualização raw do GitHub para conseguir pegar um único arquivo-fonte, e para isso uso a ferramenta curl. Ou seja, quem é de Windows vai precisar baixar uma de suas versões e deixar no path do sistema. Quem não é de Windows... o que você está fazendo com um PDB, rapaz?
 
@@ -40925,12 +41428,13 @@ nssm set MyService AppRotateBytes 10485760
 
 Com essa forma de fazer serviços, há uma dupla vantagem:
 
- - Retirar todo o código para lidar com o Service Manager do Windows das suas mãos.
- - Continuar tendo um aplicativo que roda pelo prompt e já imprime seu comportamento (e pode ser redirecionado também).
+- Retirar todo o código para lidar com o Service Manager do Windows das suas mãos.
+
+- Continuar tendo um aplicativo que roda pelo prompt e já imprime seu comportamento (e pode ser redirecionado também).
 
 E ainda uma vantagem-bônus:
 
- - Você pode executar programas-filho que o redirect para o log vai funcionar do mesmo jeito.
+- Você pode executar programas-filho que o redirect para o log vai funcionar do mesmo jeito.
 
 ### Bônus final
 
@@ -41015,9 +41519,11 @@ Antes do nosso encontro 12 no Rio, no segundo semestre, teremos o TDC São Paulo
 
 Peço que os palestrantes que não tiveram a oportunidade de apresentar seu trabalho colaborem com o evento, já que nosso próximo encontro será no Rio, cujo público, acredito eu, deverá mudar em sua maioria.
 
- - Submissão de palestras até 15 de junho às 18h
- - Notificação de palestras aprovadas ou não entre 16 e 22 de junho
- - Evento acontecerá de 21 a 25 de Julho
+- Submissão de palestras até 15 de junho às 18h
+
+- Notificação de palestras aprovadas ou não entre 16 e 22 de junho
+
+- Evento acontecerá de 21 a 25 de Julho
 
 # Efeito Borboleta
 date: 2015-06-13
@@ -42137,6 +42643,7 @@ DBGHELP: Couldn't load mismatched pdb for
   C:\Users\Caloni\Projects\Project\Source\_Output\bin\Debug\Module.exe
 DBGHELP: Module - no symbols loaded
 ```
+
 Para saber o que está errado, o famigerado !IToldYouSo
 
 ![](o_estranho_caso_do_pdb_mal_formado_AxapyHQ.jpg)
@@ -43211,10 +43718,13 @@ Falar em jargão me faz lembrar do nostálgico e muito curioso (e que já falei 
 
 Para quem pretende se tornar um hacker, já deve ficar claro que não existe receita de bolo, nem lista de conhecimentos desejáveis. Isso não e uma vaga para preenchimento de currículo. Isso é a vida real. Se existe uma receita, ela é vaga e de auto-ajuda:
 
- 1. Primeiro você aprende a gostar de viver de acordo com a definição abaixo.
- 2. Viver é a busca incessante de conhecimento em todas as suas formas, uma autodescoberta e a busca da felicidade pessoal e instransferível, subjetiva e inalienável.
- 3. Com base nisso, comece a aprender profundamente sobre tudo o que deseja, em todas as áreas, sobre qualquer assunto, pessoa, lugar.
- 4. Repita o passo anterior até que a inescapável morte aconteça; o resto é mistério.
+1. Primeiro você aprende a gostar de viver de acordo com a definição abaixo.
+
+2. Viver é a busca incessante de conhecimento em todas as suas formas, uma autodescoberta e a busca da felicidade pessoal e instransferível, subjetiva e inalienável.
+
+3. Com base nisso, comece a aprender profundamente sobre tudo o que deseja, em todas as áreas, sobre qualquer assunto, pessoa, lugar.
+
+4. Repita o passo anterior até que a inescapável morte aconteça; o resto é mistério.
 
 Parece meio poético e filosófico, mas não é. Se eu te disser que para ser hacker precisa aprende a crackear programas no Windows, fuçar no WinDbg e esmiuçar a API Win32, disassemblar códigos em binário com o IDA e usar no percurso todas as ferramentas, sistemas operacionais, linguagens de programação e conhecimentos periférios necessários, vai ser apenas uma descrição pessoal que não te levará à satisfação que talvez você deseja nessa jornada. Se sua única satisfação será poder dizer que é um hacker, sinto muito, isso é inútil. Você não está procurando viver por si mesmo, mas se auto-promover sem conhecimento de causa do que realmente a palavra significa. Esqueça o assunto e vá ler um livro. Ou melhor dizendo, vá navegar em sua rede social favorita...
 
@@ -43304,13 +43814,13 @@ A segunda temporada de American Horror Story utiliza outra história, outros per
 
 Um pouco de trivia sobre o elenco recorrente (ou não) da série:
 
- - Evan Peters sempre trabalhou mais na TV até ser "revelado" em 2010 com Kick-Ass, o que lhe rendeu uma das melhores participações na franquia X-Men em "Dias de um Futuro Esquecido". Em AHS seu personagem inicial é um sociopata, e uma das jogadas de mestre foi escalá-lo como o injustamente acusado de serial killer Kit Walker em "Asylum", na temporada imediatamente após a "tragédia na escola".
+- Evan Peters sempre trabalhou mais na TV até ser "revelado" em 2010 com Kick-Ass, o que lhe rendeu uma das melhores participações na franquia X-Men em "Dias de um Futuro Esquecido". Em AHS seu personagem inicial é um sociopata, e uma das jogadas de mestre foi escalá-lo como o injustamente acusado de serial killer Kit Walker em "Asylum", na temporada imediatamente após a "tragédia na escola".
 
- - O ótimo Denis O'Hare, infelizmente, não participou da segunda temporada, após seu roubo de cena no primeiro ano como o homem de família que tem metade de sua face queimada (e o corpo) pelo seu filho adotivo e que se transforma no divertido, intransigente e tragicamente cômico Larry Harvey.
+- O ótimo Denis O'Hare, infelizmente, não participou da segunda temporada, após seu roubo de cena no primeiro ano como o homem de família que tem metade de sua face queimada (e o corpo) pelo seu filho adotivo e que se transforma no divertido, intransigente e tragicamente cômico Larry Harvey.
 
- - Outra que ficou de fora do elenco de "Asylum" foi Tarsa Farmiga, que na estreia interpretou a ingênua/irônica Violet Harmon. Porém, assim como Frances Conroy, que fez a empregada da casa e a Morte personificada, sua participação ainda mereceria mais.
+- Outra que ficou de fora do elenco de "Asylum" foi Tarsa Farmiga, que na estreia interpretou a ingênua/irônica Violet Harmon. Porém, assim como Frances Conroy, que fez a empregada da casa e a Morte personificada, sua participação ainda mereceria mais.
 
- - Dylan McDermott figura nas duas primeiras temporadas, mas na segunda parece quase uma participação especial. São dois trabalhos distintos, mas cercados por uma névoa que impede a conexão que temos naturalmente com outros personagens.
+- Dylan McDermott figura nas duas primeiras temporadas, mas na segunda parece quase uma participação especial. São dois trabalhos distintos, mas cercados por uma névoa que impede a conexão que temos naturalmente com outros personagens.
 
 Zachary Quinto dispensa apresentações. Passou a ser mundialmente conhecido (sem contar sua participação em 24 Horas) depois de seu vilão Sylar em Heroes (2006-2010) e hoje é o Dr. Spock do novo Star Trek. Inicialmente interpretando um personagem gay e inseguro, seu Dr. Oliver Thredson como o psiquiatra bondoso que parece ter tudo sob controle flerta com diferentes psiquês dos filmes de horror, e mesmo assim parece único. Seguro de seu papel, Quinto esboça poucos sinais de que Dr. Thredson e Chad são o mesmo ator, mesmo com sua atuação mecânica, que geralmente funciona muito bem em seus papéis.
 
@@ -44434,9 +44944,7 @@ Mais sobre isso em [um próximo post].
 [artigo]: os_diferentes_erros_na_linguagem_c
 [palestra]: entendendo_a_compilacao
 [um próximo post]: templates_em_c
-
 [qsort]: http://www.cplusplus.com/reference/cstdlib/qsort/
-
 [Fernando/DriverEntry]: http://driverentry.com.br/
 
 # Pegando Fogo
@@ -46013,12 +46521,17 @@ No Cine Tênis Verde fica fácil achar uma imagem, pois filmes são formados por
 
 O que muitas vezes tem funcionado, como minha série Básico do Básico:
 
- - [Binário]
- - [Tipos]
- - [Ponteiros]
- - [Assembly]
- - [Programação]
- - [Depuração]
+- [Binário]
+
+- [Tipos]
+
+- [Ponteiros]
+
+- [Assembly]
+
+- [Programação]
+
+- [Depuração]
 
 De qualquer forma, posso continuar utilizando o título do artigo como base para minha pesquisa.
 
@@ -46182,7 +46695,6 @@ Simples, rápido, eficiente. E correto.
 É esse tipo de coisa que faz valer a pena uma competição dessas.
 
 [segunda]: https://code.google.com/codejam/contest/4304486/dashboard#s=p1
-
 [primeiro colocado]: https://code.google.com/codejam/contest/4304486/scoreboard#vf=1
 
 # Se Beber, Não Case! Parte II
@@ -46715,69 +47227,105 @@ No exemplo do código deste projeto, um usuário fictício utiliza um código qu
 
 Para explorar esse tipo de falha, primeiro devemos entender a execução do código na arquitetura que se pretende atacar, além de alguns conceitos específicos do sistema operacional alvo.
 
- - UML: Mundo real aplicado a engenharia.
- - Programação: Codificação do mundo real.
- - Assembly: Ponte entre ser humano e máquina.
- - 1's e 0's: Codificação lógica do computador.
- - Impulsos elétricos: Voltamos para o mundo real.
- - Qubit: Voltamos para a Matrix.
- - ("IBM disponibiliza computador quântico para público")
+- UML: Mundo real aplicado a engenharia.
 
- - Mais abstrações: Memória Virtual, Threads, I/O.
+- Programação: Codificação do mundo real.
 
- - Movimentação de memória (mov, lea)
- - Cálculos matemáticos (add, div)
- - Meta-comandos (push, pop, ret, jmp)
+- Assembly: Ponte entre ser humano e máquina.
 
- - Registradores (e[abcd]x, [bs]sp, eip)
- - Endereço Virtual ([Kernel|User] Space)
- - Endereço Físico (RAM, ROM, Storage, placas)
+- 1's e 0's: Codificação lógica do computador.
 
- - Qual o sentido de apontar para a próxima instrução?
- - R: Saber onde continuar a execução.
- - Demo: Chamada de função.
- - Demo: Retorno de função.
+- Impulsos elétricos: Voltamos para o mundo real.
 
- - Qual o sentido de existir uma stack?
- - R: Conseguir chamar funções.
- - Demo: Chamada de função.
- - Demo: Passagem de argumentos.
- - Demo: Retorno de função.
+- Qubit: Voltamos para a Matrix.
 
- - Escalonamento de threads
- - Virtualização da memória
- - Controle de acesso
- - Paginação
- - Plug and Play
- - Windows NT
- - Dave Cutler
- - xBox One
- - Hypervisor
+- ("IBM disponibiliza computador quântico para público")
 
- - Thread: Uma ilusão satisfatória.
- - Fibers, Co-Routines, Cores, Pipe Line, Branch Prediction.
- - Computação Quântica: Hackeando o Universo.
+- Mais abstrações: Memória Virtual, Threads, I/O.
 
- - Python, F#, Lambdas C++11, Métodos, Função Virtual.
- - Bloco de memória chama... Outro bloco de memória
+- Movimentação de memória (mov, lea)
 
- - [[[C]]]]decl e Std(?)call (M$).
- - Demo: Função em C sendo chamada.
- - Demo: Função da Microsoft sendo chamada.
- - Ou: Porque o printf precisa ser cdecl.
+- Cálculos matemáticos (add, div)
 
- - Page Tables, PTEntries, Page Fault, Memory Map.
- - Demo: Process Explorer.
+- Meta-comandos (push, pop, ret, jmp)
 
- - 2 bits: Quatro possibilidades.
- - Read-Only Memory, Execute Memory.
+- Registradores (e[abcd]x, [bs]sp, eip)
 
- - Ah, vamos para o BAR: Base Address Randomization.
- - Demo: Ver se isso funciona, mesmo.
+- Endereço Virtual ([Kernel|User] Space)
 
- - ESP Verification.
- - Buffer overrun.
- - 0xCCCCCCCCCCCCCCCCCCCCC (2026-05-07 hein?)
+- Endereço Físico (RAM, ROM, Storage, placas)
+
+- Qual o sentido de apontar para a próxima instrução?
+
+- R: Saber onde continuar a execução.
+
+- Demo: Chamada de função.
+
+- Demo: Retorno de função.
+
+- Qual o sentido de existir uma stack?
+
+- R: Conseguir chamar funções.
+
+- Demo: Chamada de função.
+
+- Demo: Passagem de argumentos.
+
+- Demo: Retorno de função.
+
+- Escalonamento de threads
+
+- Virtualização da memória
+
+- Controle de acesso
+
+- Paginação
+
+- Plug and Play
+
+- Windows NT
+
+- Dave Cutler
+
+- xBox One
+
+- Hypervisor
+
+- Thread: Uma ilusão satisfatória.
+
+- Fibers, Co-Routines, Cores, Pipe Line, Branch Prediction.
+
+- Computação Quântica: Hackeando o Universo.
+
+- Python, F#, Lambdas C++11, Métodos, Função Virtual.
+
+- Bloco de memória chama... Outro bloco de memória
+
+- [[[C]]]]decl e Std(?)call (M$).
+
+- Demo: Função em C sendo chamada.
+
+- Demo: Função da Microsoft sendo chamada.
+
+- Ou: Porque o printf precisa ser cdecl.
+
+- Page Tables, PTEntries, Page Fault, Memory Map.
+
+- Demo: Process Explorer.
+
+- 2 bits: Quatro possibilidades.
+
+- Read-Only Memory, Execute Memory.
+
+- Ah, vamos para o BAR: Base Address Randomization.
+
+- Demo: Ver se isso funciona, mesmo.
+
+- ESP Verification.
+
+- Buffer overrun.
+
+- 0xCCCCCCCCCCCCCCCCCCCCC (2026-05-07 hein?)
 
 [nova palestra]: http://www.slideshare.net/slideshow/embedcode/key/qRb4TSKjnf8Wx
 [vídeo]: https://www.youtube.com/embed/kSKQQDTBRXQ?list=PLa0QVTprDkHBz6fjuzy4kU1iTLUnRWkeW
@@ -48877,7 +49425,6 @@ Se você gostou desse modelo, seguem os comandos para pesquisar (:help comando):
 Este post foi inspirado em meu próprio uso do Vim, mas mais inspirado ainda depois de ler [o artigo da invert].
 
 [tão baratos quanto um XOR]: https://dgl.cx/2014/10/vim-blowfish
-
 [o artigo da invert]: https://invert.svbtle.com/using-vim-as-a-password-manager
 
 # Sin City: A Cidade do Pecado
@@ -50832,29 +51379,29 @@ tags: cinema lists
 
 - [Trolls]. Como pegar um fiapo de argumento, mais uma vez baseado em brinquedos dos anos 80, e transformá-lo em uma história previsível, mas que convence por sua mensagem de ode à felicidade de uma era. Trolls nos convida a rir dos clichês e a dançar ao som de outros tempos. Remixados, claro, mas que mantém a pureza no olhar de uma criança, crescida ou não.
 
- - [Demônio de Neon]. Apesar de abordar o mundo das modelos femininas, e de discutir a objetivização da mulher com maestria estética, o trabalho de Nicolas Winding Refn universaliza o sofrimento dessas garotas, transformando o horror em uma espécie de beleza do sacrifício. Dessa forma, evita falar apenas sobre a mulher para trazer à tona a discussão de por que achamos o sacrifício por uma causa, qualquer que seja, algo bonito?
+- [Demônio de Neon]. Apesar de abordar o mundo das modelos femininas, e de discutir a objetivização da mulher com maestria estética, o trabalho de Nicolas Winding Refn universaliza o sofrimento dessas garotas, transformando o horror em uma espécie de beleza do sacrifício. Dessa forma, evita falar apenas sobre a mulher para trazer à tona a discussão de por que achamos o sacrifício por uma causa, qualquer que seja, algo bonito?
 
- - [Conexão Escobar]. Entre os filmes de ação este é o que merece uma menção entre os melhores do ano, seja pela sua história bem conectada ou pela sua edição perfeccionista. Lembrando que a ação neste filme é muito mais ameaçadora quando não-vista, mas graças à performance intensa de Bryan Cranston, ganha contornos dramáticos em uma única cena em um restaurante que vale por todo o filme.
+- [Conexão Escobar]. Entre os filmes de ação este é o que merece uma menção entre os melhores do ano, seja pela sua história bem conectada ou pela sua edição perfeccionista. Lembrando que a ação neste filme é muito mais ameaçadora quando não-vista, mas graças à performance intensa de Bryan Cranston, ganha contornos dramáticos em uma única cena em um restaurante que vale por todo o filme.
 
- - [É Apenas o Fim do Mundo]. Xavier Dolan expõe novamente seu lado pessoal, e mais uma vez o universaliza, em um trabalho aparentemente simples, mas que exige mais empenho do que aparenta, ao manter a câmera em um ultrazoom perigoso, que beneficia interpretações ao mesmo tempo que nos distancia das pessoas através de palavras rancorosas que escancaram o quanto de ódio existe contra aqueles bem-sucedidos, principalmente se fazem parte da família.
+- [É Apenas o Fim do Mundo]. Xavier Dolan expõe novamente seu lado pessoal, e mais uma vez o universaliza, em um trabalho aparentemente simples, mas que exige mais empenho do que aparenta, ao manter a câmera em um ultrazoom perigoso, que beneficia interpretações ao mesmo tempo que nos distancia das pessoas através de palavras rancorosas que escancaram o quanto de ódio existe contra aqueles bem-sucedidos, principalmente se fazem parte da família.
 
- - [Snowden]. A versão ficcional necessária de Oliver Stone do vazamento de dados do governo norte-americano prenuncia a inevitável queda dos estados modernos. Através de um retrato grandioso e ao mesmo tempo intimista, Stone nos leva a questionar crenças inabaláveis no espírito americano, baseadas em um ufanismo que hoje é insustentável. A despeito de ser um ótimo drama/thriller, a grande questão que ele coloca é maior que ele mesmo: quanto tempo mais de internet o patriotismo se aguenta de pé?
+- [Snowden]. A versão ficcional necessária de Oliver Stone do vazamento de dados do governo norte-americano prenuncia a inevitável queda dos estados modernos. Através de um retrato grandioso e ao mesmo tempo intimista, Stone nos leva a questionar crenças inabaláveis no espírito americano, baseadas em um ufanismo que hoje é insustentável. A despeito de ser um ótimo drama/thriller, a grande questão que ele coloca é maior que ele mesmo: quanto tempo mais de internet o patriotismo se aguenta de pé?
 
- - [Animais Fantásticos e Onde Habitam]. Um filme que tinha tudo para ser "Marvelizado" possui um plot original, não usa seus predecessores como muleta afetiva, é original e ainda por cima tem um final satisfatório (e não um gancho para a próxima história). Uma lição a ser aprendida por todas as franquias atuais no cinema.
+- [Animais Fantásticos e Onde Habitam]. Um filme que tinha tudo para ser "Marvelizado" possui um plot original, não usa seus predecessores como muleta afetiva, é original e ainda por cima tem um final satisfatório (e não um gancho para a próxima história). Uma lição a ser aprendida por todas as franquias atuais no cinema.
 
- - [Deadpool]. É necessário um pouco de boa vontade para inserir um filme da Marvel entre os melhores do ano, mas cá entre nós, a primeira metade do filme do super-herói irreverente e politicamente incorreto atinge alguns feitos históricos para a produtora: uma sequência de ação verdadeiramente ágil e divertida, brincadeiras metalinguísticas realmente bem boladas, e ensinar a todo fã da Marvel o nome da técnica cinematográfica de quebrar a quarta parede.
+- [Deadpool]. É necessário um pouco de boa vontade para inserir um filme da Marvel entre os melhores do ano, mas cá entre nós, a primeira metade do filme do super-herói irreverente e politicamente incorreto atinge alguns feitos históricos para a produtora: uma sequência de ação verdadeiramente ágil e divertida, brincadeiras metalinguísticas realmente bem boladas, e ensinar a todo fã da Marvel o nome da técnica cinematográfica de quebrar a quarta parede.
 
- - [O Silêncio do Céu]. O último trabalho de Marco Dutra consegue extrair o drama com requintes de terror. Ele consegue isso através de um dos sentimentos mais universais entre nós, seres humanos: o medo psicológico. E é através do psicológico que ele aborda uma história de trauma e redenção, muitas vezes sem as palavras necessárias para concluir o raciocínio. Isso porque o medo é algo de fato universal. E nesse filme ele pode ser sentido da maneira mais visceral possível desde a primeira cena.
+- [O Silêncio do Céu]. O último trabalho de Marco Dutra consegue extrair o drama com requintes de terror. Ele consegue isso através de um dos sentimentos mais universais entre nós, seres humanos: o medo psicológico. E é através do psicológico que ele aborda uma história de trauma e redenção, muitas vezes sem as palavras necessárias para concluir o raciocínio. Isso porque o medo é algo de fato universal. E nesse filme ele pode ser sentido da maneira mais visceral possível desde a primeira cena.
 
- - [A Economia do Amor]. O desmanche sistemático da união de duas pessoas em uma visão cínica, mas tristemente realista, dos efeitos da crise na Europa e as consequências da falta de dinheiro na mesa de uma família. Um trabalho de direção econômico e minimalista, que praticamente garante o convite ao espectador para a intimidade trágica dentro de uma casa prestes a desabar.
+- [A Economia do Amor]. O desmanche sistemático da união de duas pessoas em uma visão cínica, mas tristemente realista, dos efeitos da crise na Europa e as consequências da falta de dinheiro na mesa de uma família. Um trabalho de direção econômico e minimalista, que praticamente garante o convite ao espectador para a intimidade trágica dentro de uma casa prestes a desabar.
 
- - [Sieranevada]. Um filme com narrativa ousada, que torna o espectador responsável por detectar a história, inserindo-o em uma reunião de família que não precisa de narradores oniscientes explicando, nem diálogos expositivos. Só precisa de duas coisas: a curiosidade humana como combustível e a câmera como os nossos olhos.
+- [Sieranevada]. Um filme com narrativa ousada, que torna o espectador responsável por detectar a história, inserindo-o em uma reunião de família que não precisa de narradores oniscientes explicando, nem diálogos expositivos. Só precisa de duas coisas: a curiosidade humana como combustível e a câmera como os nossos olhos.
 
- - [Sour Grapes]. Um documentário que estreou direto em streaming, mas que contém uma história fascinante, que consegue juntar uma crise econômica, a alta sociedade mundial e o sistema jurídico injusto norte-americano em um pequeno conto de pequenos causos que se unem em uma investigação que busca descobrir quem é uma pessoa, tão interessante por si só que o espectador nem precisa gostar tanto assim de vinho.
+- [Sour Grapes]. Um documentário que estreou direto em streaming, mas que contém uma história fascinante, que consegue juntar uma crise econômica, a alta sociedade mundial e o sistema jurídico injusto norte-americano em um pequeno conto de pequenos causos que se unem em uma investigação que busca descobrir quem é uma pessoa, tão interessante por si só que o espectador nem precisa gostar tanto assim de vinho.
 
- - [Como Ser Solteira]. Há criatividade demais neste ComRom para ser deixado de lado. Ele é feminino sem as amarras sexistas, uma liberação sexual e afetiva da mulher em todas as suas fases e carreiras e que exibe a maldade humana como regras de aceitação em sociedade ou pensamentos retrógrados que tentam mandar nas vidas das pessoas. Ativo até o fim, defende a quebra dessas regras da maneira mais bem-humorada possível.
+- [Como Ser Solteira]. Há criatividade demais neste ComRom para ser deixado de lado. Ele é feminino sem as amarras sexistas, uma liberação sexual e afetiva da mulher em todas as suas fases e carreiras e que exibe a maldade humana como regras de aceitação em sociedade ou pensamentos retrógrados que tentam mandar nas vidas das pessoas. Ativo até o fim, defende a quebra dessas regras da maneira mais bem-humorada possível.
 
- - [Loucas de Alegria]. Um filme italiano que consegue misturar trabalhos tão diferentes quanto O Beijo da Borboleta, O Lado Bom da Vida e Thelma & Louise, e ainda assim soar original, divertido, fascinante e emocionante.
+- [Loucas de Alegria]. Um filme italiano que consegue misturar trabalhos tão diferentes quanto O Beijo da Borboleta, O Lado Bom da Vida e Thelma & Louise, e ainda assim soar original, divertido, fascinante e emocionante.
 
 [Trolls]: trolls
 [Demônio de Neon]: demonio_de_neon
@@ -50880,16 +51427,23 @@ Com o surgimento da infraestrutura LLVM, que possibilita a união entre diferent
 
 Este é um guia bem básico, mas atende os requisitos de quem quer começar a mexer com essas duas tecnologias (além de aficionados pelo novo C++ que está em desenvolvimento, mas não abre mão de uma IDE tão poderosa quanto o Visual Studio):
 
- 1. Criar um novo projeto clang no Visual Studio.
- 2. Utilizar o projeto com um Console Win32 padrão e toolset Visual Studio.
- 3. Implementar uma feature ainda não suportada pelo Visual Studio.
- 4. Utilizar essa feature no Console Win32.
- 5. Corrigir e entender problemas no meio do caminho.
+1. Criar um novo projeto clang no Visual Studio.
 
- - CLang
- - LLVM
- - C++ compiler support
- - Fold expression
+2. Utilizar o projeto com um Console Win32 padrão e toolset Visual Studio.
+
+3. Implementar uma feature ainda não suportada pelo Visual Studio.
+
+4. Utilizar essa feature no Console Win32.
+
+5. Corrigir e entender problemas no meio do caminho.
+
+- CLang
+
+- LLVM
+
+- C++ compiler support
+
+- Fold expression
 
 # Rogue One: Uma História Star Wars
 date: 2016-12-28
@@ -51764,6 +52318,7 @@ Imagine que você vai começar a trabalhar em algo novo. Daí você baixa a últ
 Vamos visualizar isso em commits. Você baixa a última versão do dev, começa a trabalhar e de duas uma:
 
 1. Percebe que dá para resolver tudo em um commit só.
+
 2. Percebe que o buraco é mais embaixo; vou precisar de mais tempo e mais commits.
 
 No caso 1, a solução é simples e direta: faça as modificações, rode os testes locais e aplique o commit já no formato definido pela sua equipe (número do ticket, texto no idioma correto, detalhes nos parágrafos abaixo). Suba e mande para code review.
@@ -52156,44 +52711,77 @@ date: 2017-02-09
 
 Já está disponível na grade de palestras do Native Floripa 2017 o conteúdo que será ministrado nos dois dias do final de semana dias 18 e 19 de março de 2017 em Florianópolis, na Associação Catarinense de Empresas de Tecnologia (Rodovia SC 401, Km 4, Bairro Saco Grande, Florianópolis, SC, CEP 88032-000, Telefone (48) 2107-2700). As palestras englobam trabalhos acadêmicos, teoria da computação, demonstração de bibliotecas e práticas comuns no dia-a-dia, treinamentos em engenharia reversa, embarcados e internet das coisas, e toda coleção de linguagens bizarras que você poderá conhecer. Ah, e moedas digitais (eu! eu!) =)
 
- - Conectando EFL Models a Elementary Widgets
- - Usando C++14 com CPUs ATmel (Arduinos)
- - Acessando código nativo em Elixir
- - Apache Mynewt: An OS and Tools for the Embedded World
- - Desenvolvimento de sistema visão computacional de tempo real usando Multithreaded IO-Pipeline com C++ e OpenCV
- - Soletta: Closing the IoT Development Gap
- - Engenharia Reversa para Principiantes e Demo: Quebrando Dicionário Houaiss (eu! eu!)
- - Go C, Go! - Interoperando Go e C
- - Por que Rust?
- - Implementação Inicial da RFC 6897 (MP-TCP)
- - Não use ponteiros!
- - Desenvolvimento de ferramentas Open Source para sistemas embarcados
- - Visualizando imagens médicas com C++
- - Modificando Clang para gerar arquivos coq do proof assistant para pré e pós-condições
- - Visão computacional com OpenCV: implementando uma simples interface por webcam
- - Apresentando a biblioteca cryptox
- - Como criar moedas digitais em casa com C++ (eu! eu!)
- - IButterFree: Uma biblioteca gráfica opensource para arquiteturas enxutas
- - Implementando algoritmos ao estilo da STL
+- Conectando EFL Models a Elementary Widgets
+
+- Usando C++14 com CPUs ATmel (Arduinos)
+
+- Acessando código nativo em Elixir
+
+- Apache Mynewt: An OS and Tools for the Embedded World
+
+- Desenvolvimento de sistema visão computacional de tempo real usando Multithreaded IO-Pipeline com C++ e OpenCV
+
+- Soletta: Closing the IoT Development Gap
+
+- Engenharia Reversa para Principiantes e Demo: Quebrando Dicionário Houaiss (eu! eu!)
+
+- Go C, Go! - Interoperando Go e C
+
+- Por que Rust?
+
+- Implementação Inicial da RFC 6897 (MP-TCP)
+
+- Não use ponteiros!
+
+- Desenvolvimento de ferramentas Open Source para sistemas embarcados
+
+- Visualizando imagens médicas com C++
+
+- Modificando Clang para gerar arquivos coq do proof assistant para pré e pós-condições
+
+- Visão computacional com OpenCV: implementando uma simples interface por webcam
+
+- Apresentando a biblioteca cryptox
+
+- Como criar moedas digitais em casa com C++ (eu! eu!)
+
+- IButterFree: Uma biblioteca gráfica opensource para arquiteturas enxutas
+
+- Implementando algoritmos ao estilo da STL
 
 Se isso ainda não tocou nenhum sino em sua cabeça, talvez a lista dos palestrantes o faça:
 
- - Alan Silva
- - Carlos Eduardo Gesser
- - Expertise Solutions
- - Fabio Galuppo
- - Fabio Utzig
- - Felipe Magno de Almeida
- - Gustavo Sverzut Barbieri
- - Larry Lira
- - Lauro Moura
- - Luiz Barreto
- - Marcelo Castellani
- - Patrick José Pereira
- - Renan Prata
- - Rodrigo Madera
- - Vitor Sousa Da Silva
- - Wanderley Caloni (eu! eu!)
+- Alan Silva
+
+- Carlos Eduardo Gesser
+
+- Expertise Solutions
+
+- Fabio Galuppo
+
+- Fabio Utzig
+
+- Felipe Magno de Almeida
+
+- Gustavo Sverzut Barbieri
+
+- Larry Lira
+
+- Lauro Moura
+
+- Luiz Barreto
+
+- Marcelo Castellani
+
+- Patrick José Pereira
+
+- Renan Prata
+
+- Rodrigo Madera
+
+- Vitor Sousa Da Silva
+
+- Wanderley Caloni (eu! eu!)
 
 As inscrições já estão abertas e o preço me impressionou. Para um evento com dois dias, está bem mais acessível que o TDC.
 
@@ -52401,9 +52989,11 @@ Para nossa moeda digital utilizaremos um sistema simples, rápido e prático par
 
 A primeira coisa é compilar o projeto tiodb, que irá disponibilizar alguns binários em sua saída:
 
- - tio.exe é o executável central cuja instância mantém contêineres na memória;
- - InteliHubExplorer.exe é uma interface simples para navegar por esses contêineres;
- - tioclient.dll é a biblioteca dinâmica que pode ser usada por clientes para acessar o tio.
+- tio.exe é o executável central cuja instância mantém contêineres na memória;
+
+- InteliHubExplorer.exe é uma interface simples para navegar por esses contêineres;
+
+- tioclient.dll é a biblioteca dinâmica que pode ser usada por clientes para acessar o tio.
 
 Podemos rodar o tio deixando ele usar os parâmetros padrão ou alterar número da porta e outros detalhes. Vamos executar da maneira mais simples:
 
@@ -52651,18 +53241,29 @@ Eu costumava ser muito desagradável em julgar os outros, "Ela é realmente espe
 
 O que faz um programador sênior? Ótima pergunta. Pergunte para n programadores e você obterá n^2 respostas. Isso pode ser facilmente o assunto para outro post ou até um livro. Saindo do topo da minha cabeça em nenhuma ordem particular:
 
-   - Entender o problema em mãos antes de escrever qualquer código.
-   - Usar a ferramenta certa para o trabalho certo.
-   - Seguir padrões aceitos e protocolos sem sacrificar a criatividade.
-   - Nomeia variáveis e funções como de fato serão para o próximo programador.
-   - Antecipa o que pode dar errado antes de confiar em um depurador ou testes.
-   - Entende a arquitetura implícita e como melhor utilizá-la.
-   - Nunca escreve o mesmo código duas vezes.
-   - Nunca escreve em 150 linhas o que poderia ser escrito em 100.
-   - Código ruim: não-comentado. Medíocre: comentado. Bom: não precisa de comentários.
-   - Entende o ciclo de vida do código inteiro e o escreve para durar.
-   - Tem pena da pobre alma que tem que mantê-lo e deixa uma dica ou duas.
-   - Escreve de maneira flexível para ser facilmente mudado antes que o projeto termine.
+- Entender o problema em mãos antes de escrever qualquer código.
+
+- Usar a ferramenta certa para o trabalho certo.
+
+- Seguir padrões aceitos e protocolos sem sacrificar a criatividade.
+
+- Nomeia variáveis e funções como de fato serão para o próximo programador.
+
+- Antecipa o que pode dar errado antes de confiar em um depurador ou testes.
+
+- Entende a arquitetura implícita e como melhor utilizá-la.
+
+- Nunca escreve o mesmo código duas vezes.
+
+- Nunca escreve em 150 linhas o que poderia ser escrito em 100.
+
+- Código ruim: não-comentado. Medíocre: comentado. Bom: não precisa de comentários.
+
+- Entende o ciclo de vida do código inteiro e o escreve para durar.
+
+- Tem pena da pobre alma que tem que mantê-lo e deixa uma dica ou duas.
+
+- Escreve de maneira flexível para ser facilmente mudado antes que o projeto termine.
 
 # Um lance à frente (Capablanca)
 date: 2017-02-20
@@ -52828,30 +53429,53 @@ date: 2017-02-27
 
 Há pouca coisa que você pode fazer para manipular a linha de comando que está digitando em um terminal do Windows. Isso faz sentido. O terminal da Microsoft é apenas um resquício do MS-DOS, que foi herdado pelas inúmeras versões do Windows para que desenvolvedores e suporte pudessem executar alguns comandos não disponíveis pelo clique de um mouse. Já no Unix a história é inversa. Durante tantas décadas sendo usado, o sistema Unix, hoje, em sua mais nova reencarnação, Linux, foi acumulando diferentes teclas de atalho para conseguirmos refazer, desfazer e fazer melhor a montagem dos comandos digitados na linha de comando. Um sistema bash padrão já deve ter implementado o mínimo que você precisa para sobreviver na linha de comando. Aparentemente esse é um conhecimento tão bem divulgado pela comunidade que ninguém se dá ao trabalho de escrever um artigo sobre isso. Eu fiz algumas pesquisas uns tempos atrás e cheguei na seguinte lista, que tem muito mais do que eu preciso, e que seria bom aprender, nem que fosse aos poucos.
 
- - Ctrl + r - navigate previous commands
- - Ctrl + a - go to the start of the command line
- - Ctrl + e - go to the end of the command line
- - Ctrl + k - delete from cursor to the end of the command line
- - Ctrl + u - delete from cursor to the start of the command line
- - Ctrl + w - delete from cursor to start of word (i.e. delete backwards one word)
- - Ctrl + y - paste word or text that was cut using one of the deletion shortcuts (such as the one above) after the cursor
- - Ctrl + xx - move between start of command line and current cursor position (and back again)
- - Alt + b - move backward one word (or go to start of word the cursor is currently on)
- - Alt + f - move forward one word (or go to end of word the cursor is currently on)
- - Alt + d - delete to end of word starting at cursor (whole word if cursor is at the beginning of word)
- - Alt + c - capitalize to end of word starting at cursor (whole word if cursor is at the beginning of word)
- - Alt + u - make uppercase from cursor to end of word
- - Alt + l - make lowercase from cursor to end of word
- - Alt + t - swap current word with previous
- - Ctrl + f - move forward one character
- - Ctrl + b - move backward one character
- - Ctrl + d - delete character under the cursor
- - Ctrl + h - delete character before the cursor
- - Ctrl + t - swap character under cursor with the previous one
- - Ctrl + l - clean the screen (history back)
- - Ctrl + z - put in background (fg restores it)
- - Ctrl + c - cancel current command
- - Ctrl + d - exit the current shell
+- Ctrl + r - navigate previous commands
+
+- Ctrl + a - go to the start of the command line
+
+- Ctrl + e - go to the end of the command line
+
+- Ctrl + k - delete from cursor to the end of the command line
+
+- Ctrl + u - delete from cursor to the start of the command line
+
+- Ctrl + w - delete from cursor to start of word (i.e. delete backwards one word)
+
+- Ctrl + y - paste word or text that was cut using one of the deletion shortcuts (such as the one above) after the cursor
+
+- Ctrl + xx - move between start of command line and current cursor position (and back again)
+
+- Alt + b - move backward one word (or go to start of word the cursor is currently on)
+
+- Alt + f - move forward one word (or go to end of word the cursor is currently on)
+
+- Alt + d - delete to end of word starting at cursor (whole word if cursor is at the beginning of word)
+
+- Alt + c - capitalize to end of word starting at cursor (whole word if cursor is at the beginning of word)
+
+- Alt + u - make uppercase from cursor to end of word
+
+- Alt + l - make lowercase from cursor to end of word
+
+- Alt + t - swap current word with previous
+
+- Ctrl + f - move forward one character
+
+- Ctrl + b - move backward one character
+
+- Ctrl + d - delete character under the cursor
+
+- Ctrl + h - delete character before the cursor
+
+- Ctrl + t - swap character under cursor with the previous one
+
+- Ctrl + l - clean the screen (history back)
+
+- Ctrl + z - put in background (fg restores it)
+
+- Ctrl + c - cancel current command
+
+- Ctrl + d - exit the current shell
 
 # Travelers
 date: 2017-02-28
@@ -53059,9 +53683,11 @@ Ele parte do princípio que para melhorarmos em qualquer aspecto de nossa vida, 
 
 Como contra-exemplos ele cita três típicas personas que tentam burlar o caminho duro e legítimo da auto-melhora:
 
- - The Dabbler. Esse é o que queima no começo e logo depois desiste.
- - The Obsessive. Esse é o obstinado em sempre melhorar, mas que por isso mesmo entra em uma espiral de terror e auto-mutilação.
- - The Hacker. Esse é o que adora atalhos, mas nunca consegue manter-se firme pela falta da excelência na prática.
+- The Dabbler. Esse é o que queima no começo e logo depois desiste.
+
+- The Obsessive. Esse é o obstinado em sempre melhorar, mas que por isso mesmo entra em uma espiral de terror e auto-mutilação.
+
+- The Hacker. Esse é o que adora atalhos, mas nunca consegue manter-se firme pela falta da excelência na prática.
 
 Leonard é incisivo contra a cultura americana que foca nos resultados em vez de no caminho para a perfeição. Ele também é crítico de nossa cultura imediatista do Ocidente, que desiste fácil quando algo é difícil, e que quer a todo custo o prêmio instantâneo do que o prazer de sentir estar melhorando a cada novo dia. Ele de certa forma flerta com o caminho das pedras que os russos parecem dominar tanto, onde para se aprender bem algo é necessário prática, prática e... prática.
 
@@ -53633,7 +54259,7 @@ A história apresenta novas formas de demonstrar como a mente do poderoso deteti
 
 No entanto, este exemplar é obviamente superior a tudo que se faz em torno de séries do gênero, e por isso merece ser, assim como a série inteira, degustada sem pudor.
 
- - 2020-12-02: Sherlock já começa a inventar histórias que soam um pouco melodramáticas demais. Porém, foi o jeito para continuar com esta última, derradeira, temporada. Ladeira abaixo, mas ainda bem acima da média.
+- 2020-12-02: Sherlock já começa a inventar histórias que soam um pouco melodramáticas demais. Porém, foi o jeito para continuar com esta última, derradeira, temporada. Ladeira abaixo, mas ainda bem acima da média.
 
 [episódio anterior]: sherlock_the_abominable_bride
 
@@ -54140,27 +54766,47 @@ tags: lists
 
 É muito comum programadores, hackers e nerds em geral procurarem bons artigos que os tornem pessoas mais produtivas sem sacrificar a saúde física e mental. No decorrer dos anos me deparei com umas boas leituras. Tão boas que de vez eu quando eu volto a lê-las, e tão boas que acho que vale a pena compartilhar aqui:
 
- - 10 Passos para a Estratégia Kaizen
- - 5 Unusual Ways to Start Working Smarter, Not Harde,  Backed by Science
- - The Mechanics of Emotion
- - Best Writing Advice for Engineers I've Ever Seen. Period.
- - How to Beat Procrastination
- - How to Make Mistakes
- - How to be a great software developer
- - News is bad for you and giving up reading it will make you happier
- - O cansaço mental
- - Scott Adams: How to Be Successful
- - Sleep Everything You Need To Know
- - Technology is Heroin
- - The 10 commandments for happiness and success
- - What You'll Wish You'd Known
- - FLOW - a productivity hack for life
- - Flow (psychology))
- - Jessica Livingston's Pretty Complete List on How Not to Fail
- - Negative Emotions Are Key to Well-Being
- - Optimizing Your Development Environment
- - Start by Understanding the Emotions Involved
- - Willpower Improvement
+- 10 Passos para a Estratégia Kaizen
+
+- 5 Unusual Ways to Start Working Smarter, Not Harde,  Backed by Science
+
+- The Mechanics of Emotion
+
+- Best Writing Advice for Engineers I've Ever Seen. Period.
+
+- How to Beat Procrastination
+
+- How to Make Mistakes
+
+- How to be a great software developer
+
+- News is bad for you and giving up reading it will make you happier
+
+- O cansaço mental
+
+- Scott Adams: How to Be Successful
+
+- Sleep Everything You Need To Know
+
+- Technology is Heroin
+
+- The 10 commandments for happiness and success
+
+- What You'll Wish You'd Known
+
+- FLOW - a productivity hack for life
+
+- Flow (psychology))
+
+- Jessica Livingston's Pretty Complete List on How Not to Fail
+
+- Negative Emotions Are Key to Well-Being
+
+- Optimizing Your Development Environment
+
+- Start by Understanding the Emotions Involved
+
+- Willpower Improvement
 
 Espero que essa lista te ajude de alguma maneira.
 
@@ -54174,23 +54820,37 @@ tags: philosophy
 Uma prova simples e modesta do livre-arbítrio, ou pelo menos que refute o "determinismo duro" (que não admite nenhuma possibilidade de alternativas na ação) é dada pelo filósofo Michael Huemer através de 7 premissas e uma conclusão:
 
 1. A respeito do livre arbítrio, nós devemos sempre evitar acreditar no que é falso (racionalmente).
+
 2. O que deveria ser feito pode ser feito (não se pode fazer o impossível).
+
 3. Se o determinismo (duro) é verdadeiro, então qualquer coisa que pode ser feita será feita (não há alternativa).
+
 4. Eu acredito no livre arbítrio (premissa).
+
 5. Com respeito ao livre arbítrio, nós podemos evitar acreditar no que é falso (de 1,2).
+
 6. Se o determinismo é verdadeiro, então com respeito ao livre arbítrio, nós evitamos acreditar no que é falso (de 3,5).
+
 7. Se o determinismo é verdadeiro, então o livre arbítrio é verdadeiro (de 6,8).
+
 8. O livre arbítrio é verdadeiro
 
 Do original:
 
 1. With respect to the free-will issue, we should refrain from believing falsehoods. (premise)
+
 2. Whatever should be done can be done. (premise)
+
 3. If determinism is true, then whatever can be done, is done. (premise)
+
 4. I believe MFT. (premise)
+
 5. With respect to the free-will issue, we can refrain from believing falsehoods. (from 1,2)
+
 6. If determinism is true, then with respect to the free will issue, we refrain from believing falsehoods. (from 3,5)
+
 7. If determinism is true, then MFT is true. (from 6,4)
+
 8. MFT is true. (from 7)
 
 O núcleo do raciocínio é que vemos que se o determinismo é verdadeiro o livre arbítrio é verdadeiro; do contrário evitaríamos acreditar nele. E como de fato alguns de nós acreditam nele (bastaria apenas um), ele é verdadeiro, tornando o determinismo auto-refutável.
@@ -54310,7 +54970,6 @@ cp /mnt/custom/customcd/isofile/*.iso /mnt/windows
 Desligue a máquina virtual e volte a montar o HD na máquina real. O ISO do novo CD estará disponível.
 
 [SystemRescueCd]: http://www.system-rescue-cd.org/SystemRescueCd_Homepage
-
 [tutorial da própria SystemRescueCd]: http://www.system-rescue-cd.org/Sysresccd-manual-en_How_to_personalize_SystemRescueCd
 
 # Bolo de Cenoura
@@ -54604,12 +55263,19 @@ tags: philosophy
 Este recorte se trata da explicação do filósofo Michael Huemer sobre a "refutação" de Hume sobre indução. De acordo com Huemer, "Hume's 'refutation' of induction essentially goes as follows:"
 
 1. There are only three possible kinds of knowledge: (a) 'relations of ideas,' which are things that are true by definition, (b) direct observations, and (c) knowledge based on inductive reasoning, where an inductive inference is a generalization from experience.
+
 2. Any generalization from experience presupposes 'the Uniformity Principle' -- i.e., that the course of nature is uniform, or that the future will resemble the past.
+
 3. So inductive knowledge can only be justified if this presupposition is justified.
+
 4. The Uniformity Principle is not true by definition.
+
 5. Nor is its truth is direcly perceived.
+
 6. And since all inductive inference presupposes the Uniformity Principle, any inductive argument for it would be circular.
+
 7. So the Uniformity principle cannot be justified. (from 1,4,5,6)
+
 8. Hence, no inductive conclusion is justified.
 
 # Prefácio de O Capital Vol. 1
@@ -54826,17 +55492,27 @@ Dei uma olhada nas [últimas modificações adicionadas no Visual Studio 2017] (
 
 A lista que achei interessante (com seu projeto):
 
- - binary_literals_test. Perfumaria muito bem-vinda de uma linguagem feita para trabalhar também baixo nível.
- - constexpr_test. Um teste que alguém fez na nossa lista ccpp do Telegram e que possui uma particularidade interessante (mais abaixo).
- - for_range_generic_test. Ainda em teste, mas me parece a forma definitiva de iterar entre elementos em C++; completamente genérico.
- - generic_lambdas_test. E por falar em genérico, este lambda tem muito a ver com programação funcional.
- - has_include_test. Uma maneira elegante (apesar do nome feio) de ir migrando projetos/libs aos poucos.
- - initializer_list. Só demonstrando o que já é velho (mas que ainda não comentei no blogue).
- - nodiscard_test. Essa é uma das features mais curiosas para escrita de código robusta.
- - sfinae_test. O [SFINAE] é um dos pilares do C++, e ele vem melhorando cada vez mais.
- - static_assert_test. O que estava faltando que no Boost é macaco velho.
- - user_defined_literals_test. Mais uma perfumaria; essa é bonitinha; para uso acadêmico.
- - variable_templates_test. Mais algo já velho, que demonstro aqui com minha [superlib de log].
+- binary_literals_test. Perfumaria muito bem-vinda de uma linguagem feita para trabalhar também baixo nível.
+
+- constexpr_test. Um teste que alguém fez na nossa lista ccpp do Telegram e que possui uma particularidade interessante (mais abaixo).
+
+- for_range_generic_test. Ainda em teste, mas me parece a forma definitiva de iterar entre elementos em C++; completamente genérico.
+
+- generic_lambdas_test. E por falar em genérico, este lambda tem muito a ver com programação funcional.
+
+- has_include_test. Uma maneira elegante (apesar do nome feio) de ir migrando projetos/libs aos poucos.
+
+- initializer_list. Só demonstrando o que já é velho (mas que ainda não comentei no blogue).
+
+- nodiscard_test. Essa é uma das features mais curiosas para escrita de código robusta.
+
+- sfinae_test. O [SFINAE] é um dos pilares do C++, e ele vem melhorando cada vez mais.
+
+- static_assert_test. O que estava faltando que no Boost é macaco velho.
+
+- user_defined_literals_test. Mais uma perfumaria; essa é bonitinha; para uso acadêmico.
+
+- variable_templates_test. Mais algo já velho, que demonstro aqui com minha [superlib de log].
 
 ## constexpr para especialização em ifs
 
@@ -54852,9 +55528,7 @@ Todos (ou a maioria) deles ainda está em teste. Acabei de baixar o preview 5, c
 
 [próximo encontro ccpp]: 13_encontro_ccpp_indaiatuba_sp_2017_08_05
 [superlib de log]: logs_em_servicos_e_outras_coisas
-
 [últimas modificações adicionadas no Visual Studio 2017]: https://blogs.msdn.microsoft.com/vcblog/2017/05/10/c17-features-in-vs-2017-3/
-
 [SFINAE]: https://en.wikipedia.org/wiki/Substitution_failure_is_not_an_error
 
 # Dunkirk
@@ -55751,8 +56425,9 @@ A questão, porém, não é sobre qual é o problema no código, mas os aspectos
 
 Esta crítica pode levar (pelo menos) para dois diferentes caminhos:
 
- - O funcionamento do std::move não é intuitivo e pode levar a erros semânticos ("se usar o move estou movendo referências"); programador não conhece o funcionamento por completo.
- - Em C++ o esforço de manter uma classe é muito maior hoje do que em 98/03 ("tomar cuidado com reference, const reference, rvalue reference..."); isso concordo; as mudanças são bem-intencionadas, mas a linguagem é velha com alguns esqueletos que podem começar a balançar.
+- O funcionamento do std::move não é intuitivo e pode levar a erros semânticos ("se usar o move estou movendo referências"); programador não conhece o funcionamento por completo.
+
+- Em C++ o esforço de manter uma classe é muito maior hoje do que em 98/03 ("tomar cuidado com reference, const reference, rvalue reference..."); isso concordo; as mudanças são bem-intencionadas, mas a linguagem é velha com alguns esqueletos que podem começar a balançar.
 
 C++, assim como o Brasil, desde o começo nunca foi para amadores. Hoje em dia ele é impossível. Ouço galera falar que está ficando lindo, mas, francamente, está virando é um ninho de cobras. Mantenedores de bibliotecas, se não estão já arrancando os cabelos, deveriam começar.
 
@@ -55861,8 +56536,9 @@ Como já foi avisado anteriormente (mas agora com local definido), nosso próxim
 
 As inscrições pagas estão abertas! O valor único por participante é de R$ 50 reais, o que lhe dará direito a:
 
- - Entrada ao evento, com duração o dia inteiro com no mínimo cinco palestras.
- - Coffee-break de manhã e de tarde.
+- Entrada ao evento, com duração o dia inteiro com no mínimo cinco palestras.
+
+- Coffee-break de manhã e de tarde.
 
 Você pode efetuar o pagamento por PagSeguro ou Bitcoins. Para o primeiro apenas efetue o pagamento e seu email será cadastrado como participante. Para mais de um participante efetue quantos pagamentos for necessário. Para o segundo efetue o pagamento com o preço de venda em reais do BTC equivalente a R$ 50 reais no dia da transação e envie seu nome, email e link da transação para wanderley.caloni@gmail.com. Para mais de um participante efetue o valor equivalente e nos informe os nomes e emails dos participantes.
 
@@ -56076,25 +56752,25 @@ tags: cinema series
 
 Reassistindo a Primeira Temporada de Rick & Morty para revisar alguns pontos filosóficos fascinantes da série. Acabei vendo a Segunda Temporada e, como já acabou, a Terceira também. E a terceira é provavelmente a melhor de todas. Vejam! Eu sou Pickle Rick!!
 
- - S01E01 Rick comenta no piloto que eles não sabem o que é mais importante. Precisa de uma semente para ficar mais inteligente para fazer mais ciência. Isso meio que planta a semente da dúvida se Rick é absurdista, niilista ou simplesmente um cientista fanático.
+- S01E01 Rick comenta no piloto que eles não sabem o que é mais importante. Precisa de uma semente para ficar mais inteligente para fazer mais ciência. Isso meio que planta a semente da dúvida se Rick é absurdista, niilista ou simplesmente um cientista fanático.
 
- - S01E02 Episódio sobre cachorro inteligente levanta a questão de não ser errado desligar uma consciência que foi adquirida por outro ser (que poderia ser uma máquina). Também brinca com o conceito de A Origem e Fred Krueger (uma versão segura de um filme dos anos 80). E seus medos são os de um adolescente.
+- S01E02 Episódio sobre cachorro inteligente levanta a questão de não ser errado desligar uma consciência que foi adquirida por outro ser (que poderia ser uma máquina). Também brinca com o conceito de A Origem e Fred Krueger (uma versão segura de um filme dos anos 80). E seus medos são os de um adolescente.
 
- - S01E03 Episódio de natal é um Papai-Noel mendigo que bebeu demais. Dentro dele há um parque de anatomia, fala sob os desejos do Morty de catar a minazinha e um subplot que brinca com besteiras como auto-sacrifício. A melhor parte é sobre o espírito de natal quando Jerry descobre que o negro amigo de seus pais é amante de sua mãe, ou que sua filha tem um namorado. A explosão do papai-noel gigante em pedaços e a chuva de sangue é uma metáfora para o corpo/sangue de Cristo sendo compartilhado entre os cristãos, e como ninguém liga para os que precisam de ajuda.
+- S01E03 Episódio de natal é um Papai-Noel mendigo que bebeu demais. Dentro dele há um parque de anatomia, fala sob os desejos do Morty de catar a minazinha e um subplot que brinca com besteiras como auto-sacrifício. A melhor parte é sobre o espírito de natal quando Jerry descobre que o negro amigo de seus pais é amante de sua mãe, ou que sua filha tem um namorado. A explosão do papai-noel gigante em pedaços e a chuva de sangue é uma metáfora para o corpo/sangue de Cristo sendo compartilhado entre os cristãos, e como ninguém liga para os que precisam de ajuda.
 
- - S01E04 Episódio sobre simulações consegue ao mesmo tempo levantar a questão se eventos significativos de nossa vida continuariam assim se soubéssemos que estamos em uma simulação (Jerry novamente), e ainda tem a questão de como uma raça avançada ainda tem vergonha da nudez (alegoria dos estúpidos americanos?).
+- S01E04 Episódio sobre simulações consegue ao mesmo tempo levantar a questão se eventos significativos de nossa vida continuariam assim se soubéssemos que estamos em uma simulação (Jerry novamente), e ainda tem a questão de como uma raça avançada ainda tem vergonha da nudez (alegoria dos estúpidos americanos?).
 
- - S01E05 Morty tem sua aventura como principal e vai na terra de gigantes. Lá descobre que uma aventura não tem muito sentido por ela mesma, e é traumatizado ao tentar ser estuprado (Thelma e Louise?). Já na terra os meeseeks precisam atender os desejos de um ser medíocre como Jerry, o que os leva à loucura completa. Como meeseks têm sua existência curta definida em atender um desejo e sumir, vem a mesma questão das vacas em Mochileiro das Galáxias. Rick aprende que é a postura diante dos eventos do mundo o que o torna melhor. Ele acena no final do desenho para nós, piscando sua existência.
+- S01E05 Morty tem sua aventura como principal e vai na terra de gigantes. Lá descobre que uma aventura não tem muito sentido por ela mesma, e é traumatizado ao tentar ser estuprado (Thelma e Louise?). Já na terra os meeseeks precisam atender os desejos de um ser medíocre como Jerry, o que os leva à loucura completa. Como meeseks têm sua existência curta definida em atender um desejo e sumir, vem a mesma questão das vacas em Mochileiro das Galáxias. Rick aprende que é a postura diante dos eventos do mundo o que o torna melhor. Ele acena no final do desenho para nós, piscando sua existência.
 
- - S01E06 Múltiplos universos, Rick and Morty vão para um onde tudo foi consertado e eles morreram ao mesmo tempo. O nosso desejo por reprodução aparentemente está abaixo do super-homem que Rick decidiu ser quando aceitou o absurdo da realidade que vive. Referência a Cronenberg.
+- S01E06 Múltiplos universos, Rick and Morty vão para um onde tudo foi consertado e eles morreram ao mesmo tempo. O nosso desejo por reprodução aparentemente está abaixo do super-homem que Rick decidiu ser quando aceitou o absurdo da realidade que vive. Referência a Cronenberg.
 
- - S01E07 Feminismo com piadas sobre mulheres no episódio em que eles vão para um planeta dominado por mulheres. Os homens são os seres mais violentos do universo e por isso elas criam um robô sexual para reprodução. Engraçado que Morty fica fascinado pela mulher-robô.
+- S01E07 Feminismo com piadas sobre mulheres no episódio em que eles vão para um planeta dominado por mulheres. Os homens são os seres mais violentos do universo e por isso elas criam um robô sexual para reprodução. Engraçado que Morty fica fascinado pela mulher-robô.
 
- - S01E08 O episódio sobre as diferentes alternativas a realidade coloca em xeque o significado de nossas vidas (como há na série infinitos universos e Rick & Morty originais morreram nessa versão, torna tudo mais real). Há uma baboseira sobre escolhas que fazemos (aborto) que podem ter alterado nossa percepção no futuro se era o que gostaríamos de fazer. O fato é que não vivenciar nossas infinitas possibilidades nos protege do arrependimento quando mais velhos. E como nada faz sentido em múltiplas realidades, por que não se divertir assistindo múltiplos universos?
+- S01E08 O episódio sobre as diferentes alternativas a realidade coloca em xeque o significado de nossas vidas (como há na série infinitos universos e Rick & Morty originais morreram nessa versão, torna tudo mais real). Há uma baboseira sobre escolhas que fazemos (aborto) que podem ter alterado nossa percepção no futuro se era o que gostaríamos de fazer. O fato é que não vivenciar nossas infinitas possibilidades nos protege do arrependimento quando mais velhos. E como nada faz sentido em múltiplas realidades, por que não se divertir assistindo múltiplos universos?
 
- - S01E09 Episódio sobre Pluto (Plutocracia), onde os ricos drenam minério do planeta (que não é mais planeta) e ameaçam a vida de 4 bilhões de pessoas. Enquanto isso, Rick ameaça o negócio do Diabo em pessoa com ciência, desfazendo as maldições que ele coloca em cada peça de sua loja. Rick demonstra que se entedia facilmente.
+- S01E09 Episódio sobre Pluto (Plutocracia), onde os ricos drenam minério do planeta (que não é mais planeta) e ameaçam a vida de 4 bilhões de pessoas. Enquanto isso, Rick ameaça o negócio do Diabo em pessoa com ciência, desfazendo as maldições que ele coloca em cada peça de sua loja. Rick demonstra que se entedia facilmente.
 
- - S01E11 Últimos episódio da temporada é uma festa sem consequências. Isso porque quando vc pode parar o tempo nada importa.
+- S01E11 Últimos episódio da temporada é uma festa sem consequências. Isso porque quando vc pode parar o tempo nada importa.
 
 # A Leoa
 date: 2017-10-22
@@ -56464,13 +57140,19 @@ Esse sábado, dia 25/11/2017, teremos em São Paulo nosso 14o. encontro de progr
 
 A programação já está disponível no saite do Grupo CCPP já faz mais de um mês, mas estou publicando para a visibilidade de que está perto! Segue o que teremos:
 
- - C++ dentro da publicidade, arquitetura e design, por Henrique Penteado Kujawski Périgo
- - Estilos de multitasking cooperativo, loop de eventos e programação assíncrona, por Vinícius dos Santos Oliveira
- - Indo além do arroz com feijão RESTful, enchendo a marmita de gRPC, GraphQL, MQTT, SocketIO e outras misturas, por Rodrigo Delduca
- - Não faça do zero, por Rosemary Sumitani
- - Como realmente funciona o if, por Wanderley Caloni
- - Introdução a Minifilters, por Fernando Roberto da Silva
- - Encerramento/Happy Hour, por Quem Puder
+- C++ dentro da publicidade, arquitetura e design, por Henrique Penteado Kujawski Périgo
+
+- Estilos de multitasking cooperativo, loop de eventos e programação assíncrona, por Vinícius dos Santos Oliveira
+
+- Indo além do arroz com feijão RESTful, enchendo a marmita de gRPC, GraphQL, MQTT, SocketIO e outras misturas, por Rodrigo Delduca
+
+- Não faça do zero, por Rosemary Sumitani
+
+- Como realmente funciona o if, por Wanderley Caloni
+
+- Introdução a Minifilters, por Fernando Roberto da Silva
+
+- Encerramento/Happy Hour, por Quem Puder
 
 O encontro acontecerá no bairro Vila Olímpia, próximo da estação de trem e do shopping, na Av. Doutor Cardoso de Melo, 1491. As inscrições ainda estão abertas. Nos vemos lá!
 
@@ -58175,150 +58857,213 @@ Resultado das apostas. Inspirado pelo meu amigo, vamos lá com alguns chutes de 
 
 Roteiro original:
 
- - Minha aposta: Get Out/Corra! (Jordan Peele).
- - Explicação: A forma de dar prêmio por cota racial sem prejudicar melhor filme, etc (além de ser um ótimo roteiro).
- - Quem ganhou: Corra! (That's a Bingo!)
- - Considerações finais: Ponto para a representatividade e a inventividade de Peele, reciclando o gênero.
+- Minha aposta: Get Out/Corra! (Jordan Peele).
+
+- Explicação: A forma de dar prêmio por cota racial sem prejudicar melhor filme, etc (além de ser um ótimo roteiro).
+
+- Quem ganhou: Corra! (That's a Bingo!)
+
+- Considerações finais: Ponto para a representatividade e a inventividade de Peele, reciclando o gênero.
 
 Adaptado:
 
- - Minha aposta: Logan (Scott Frank).
- - Explicação: Porque eu quero (assim como Corra!).
- - Quem ganhou: Call Me by Your Name
- - Considerações finais: OK, talvez a representatividade estivesse alta demais...
+- Minha aposta: Logan (Scott Frank).
+
+- Explicação: Porque eu quero (assim como Corra!).
+
+- Quem ganhou: Call Me by Your Name
+
+- Considerações finais: OK, talvez a representatividade estivesse alta demais...
 
 Efeitos visuais:
 
- - Minha aposta: Guardians of the Galaxy Vol. 2.
- - Explicação: Rejuvenescimento de Kurt Russel e o Planeta Ego).
- - Quem ganhou: Blade Runner 2049
- - Considerações finais: Não vi.
+- Minha aposta: Guardians of the Galaxy Vol. 2.
+
+- Explicação: Rejuvenescimento de Kurt Russel e o Planeta Ego).
+
+- Quem ganhou: Blade Runner 2049
+
+- Considerações finais: Não vi.
 
 Mixagem de som:
 
- - Minha aposta: Star Wars: The Last Jedi.
- - Explicação: Poderia ser Dunkirk, mas acho que vão equilibrar.
- - Quem ganhou: Dunkirk
- - Considerações finais: E não é que foi pra Dunkirk, mesmo...
+- Minha aposta: Star Wars: The Last Jedi.
+
+- Explicação: Poderia ser Dunkirk, mas acho que vão equilibrar.
+
+- Quem ganhou: Dunkirk
+
+- Considerações finais: E não é que foi pra Dunkirk, mesmo...
 
 Edição de som:
 
- - Minha aposta: Dunkirk.
- - Explicação: Fala sério, né. Dá pra ouvir com perfeição a capa da bala cair em um chão molhado de dentro de um bunker abandonado.
- - Quem ganhou: Dunkirk (That's a Bingo!)
- - Considerações finais: É, não tinha pra ninguém; devia ter botado mais fé e chutado mixagem.
+- Minha aposta: Dunkirk.
+
+- Explicação: Fala sério, né. Dá pra ouvir com perfeição a capa da bala cair em um chão molhado de dentro de um bunker abandonado.
+
+- Quem ganhou: Dunkirk (That's a Bingo!)
+
+- Considerações finais: É, não tinha pra ninguém; devia ter botado mais fé e chutado mixagem.
 
 Curta de animação:
 
- - Minha aposta: Lou.
- - Explicação: Bonitinho.
- - Quem ganhou: Dear Basketball
- - Considerações finais: Até aqui a representatividade tá em alta?
+- Minha aposta: Lou.
+
+- Explicação: Bonitinho.
+
+- Quem ganhou: Dear Basketball
+
+- Considerações finais: Até aqui a representatividade tá em alta?
 
 Design de produção:
 
- - Minha aposta: Darkest Hour/O Destino de uma Nação.
- - Explicação: Nenhuma em especial.
- - Quem ganhou: Shape of Water
- - Considerações finais: É...
+- Minha aposta: Darkest Hour/O Destino de uma Nação.
+
+- Explicação: Nenhuma em especial.
+
+- Quem ganhou: Shape of Water
+
+- Considerações finais: É...
 
 Música:
 
- - Minha aposta: "This is Me" (The Greatest Showman/O Rei do Show).
- - Explicação: está brincando, é um hit (assim como toda a trilha).
- - Quem ganhou: "Remember Me" from Coco
- - Considerações finais: É só ser mexicano que ganha até do Wolverine.
+- Minha aposta: "This is Me" (The Greatest Showman/O Rei do Show).
+
+- Explicação: está brincando, é um hit (assim como toda a trilha).
+
+- Quem ganhou: "Remember Me" from Coco
+
+- Considerações finais: É só ser mexicano que ganha até do Wolverine.
 
 Trilha sonora:
 
- - Minha aposta: Dunkirk (Hanz Zimmer).
- - Explicação: Hanz Zimmer finalmente encontrou onde pode ser barulhento.
- - Quem ganhou: Alexandre Desplat (Shape of Water)
- - Considerações finais: Desplat nem precisou pedir a cidadania mexicana.
+- Minha aposta: Dunkirk (Hanz Zimmer).
+
+- Explicação: Hanz Zimmer finalmente encontrou onde pode ser barulhento.
+
+- Quem ganhou: Alexandre Desplat (Shape of Water)
+
+- Considerações finais: Desplat nem precisou pedir a cidadania mexicana.
 
 Maquiagem e cabeleira:
 
- - Minha aposta: Wonder/Extraordinário.
- - Explicação: bonitinho, coragem de colocar criança com defeito, blá.
- - Quem ganhou: Daskest Hour
- - Considerações finais: Onde ele não devia ganhar... se bem que, será?
+- Minha aposta: Wonder/Extraordinário.
+
+- Explicação: bonitinho, coragem de colocar criança com defeito, blá.
+
+- Quem ganhou: Daskest Hour
+
+- Considerações finais: Onde ele não devia ganhar... se bem que, será?
 
 Estrangeiros:
 
- - Minha aposta: On Body and Soul/Corpo e Alma (Ildikó Enyedi).
- - Explicação: o único que eu vi, está no mesmo ângulo do Oscar SJW (mas os velhos ainda podem vetar).
- - Quem ganhou: A Fantastic Woman
- - Considerações finais: Mexicanos e falantes em espanhol, vocês estão em alta.
+- Minha aposta: On Body and Soul/Corpo e Alma (Ildikó Enyedi).
+
+- Explicação: o único que eu vi, está no mesmo ângulo do Oscar SJW (mas os velhos ainda podem vetar).
+
+- Quem ganhou: A Fantastic Woman
+
+- Considerações finais: Mexicanos e falantes em espanhol, vocês estão em alta.
 
 Edição:
 
- - Minha aposta: Dunkirk (Lee Smith).
- - Explicação: só a logística para que o tempo passe de maneira assimétrica para favorecer a narrativa já está de bom tamanho?
- - Quem ganhou: Dunkirk (That's a Bingo!)
- - Considerações finais: Se não fosse para ele, pelamor...
+- Minha aposta: Dunkirk (Lee Smith).
+
+- Explicação: só a logística para que o tempo passe de maneira assimétrica para favorecer a narrativa já está de bom tamanho?
+
+- Quem ganhou: Dunkirk (That's a Bingo!)
+
+- Considerações finais: Se não fosse para ele, pelamor...
 
 Direção:
 
- - Minha aposta: Dunkirk (Christopher Nolan).
- - Explicação: Chris Nolan já foi indicado três vezes e agora fez um trabalho "sério".
- - Quem ganhou: Guilhermo del Toro (Shape of Water)
- - Considerações finais: 3 mexicanos nos últimos 5 prêmios; estão pegando pesado e tende a piorar.
+- Minha aposta: Dunkirk (Christopher Nolan).
+
+- Explicação: Chris Nolan já foi indicado três vezes e agora fez um trabalho "sério".
+
+- Quem ganhou: Guilhermo del Toro (Shape of Water)
+
+- Considerações finais: 3 mexicanos nos últimos 5 prêmios; estão pegando pesado e tende a piorar.
 
 Roupa:
 
- - Minha aposta: Beauty and the Beast.
- - Explicação: filme de Oscar pra figurino.
- - Quem ganhou: Phantom Thread
- - Considerações finais: Não vi (mas deveria, PTA).
+- Minha aposta: Beauty and the Beast.
+
+- Explicação: filme de Oscar pra figurino.
+
+- Quem ganhou: Phantom Thread
+
+- Considerações finais: Não vi (mas deveria, PTA).
 
 Fotografia:
 
- - Minha aposta: Dunkirk (Hoyte von Hoytema).
- - Explicação: Colaborador habitual de Nolan, o cara é foda; cada cena é uma fotografia colorizada da Segunda Guerra.
- - Quem ganhou: Blade Runner 2049
- - Considerações finais: Difícil prever prêmios técnicos quando todos os filmes são perfeitos...
+- Minha aposta: Dunkirk (Hoyte von Hoytema).
+
+- Explicação: Colaborador habitual de Nolan, o cara é foda; cada cena é uma fotografia colorizada da Segunda Guerra.
+
+- Quem ganhou: Blade Runner 2049
+
+- Considerações finais: Difícil prever prêmios técnicos quando todos os filmes são perfeitos...
 
 Animação:
 
- - Minha aposta: Coco/Viva: A Vida é uma Festa (Lee Unkrich).
- - Explicação: lágrimas.
- - Quem ganhou: Coco (That's a Bingo!)
- - Considerações finais: Disney/Pixar, você ganha até quando não deveria; esse ano é seu, mesmo.
+- Minha aposta: Coco/Viva: A Vida é uma Festa (Lee Unkrich).
+
+- Explicação: lágrimas.
+
+- Quem ganhou: Coco (That's a Bingo!)
+
+- Considerações finais: Disney/Pixar, você ganha até quando não deveria; esse ano é seu, mesmo.
 
 Atriz de suporte:
 
- - Minha aposta: Allison Janney (I, Tonya).
- - Explicação: papel fácil de ser adorado (vilã engraçada).
- - Quem ganhou: Allison Janney (That's a Bingo!)
- - Considerações finais: Fácil, fácil...
+- Minha aposta: Allison Janney (I, Tonya).
+
+- Explicação: papel fácil de ser adorado (vilã engraçada).
+
+- Quem ganhou: Allison Janney (That's a Bingo!)
+
+- Considerações finais: Fácil, fácil...
 
 Ator de suporte:
 
- - Minha aposta: Woody Harrelson (Three Billboards, outside Ebbing, Missouri).
- - Explicação: Harrelson, assim como Dafoe, indicado três vezes sem nada; e Three Billboards está em melhor filme.
- - Quem ganhou: Sam Rockwell
- - Considerações finais: Não vi outro ator indicado para o mesmo filme!
+- Minha aposta: Woody Harrelson (Three Billboards, outside Ebbing, Missouri).
+
+- Explicação: Harrelson, assim como Dafoe, indicado três vezes sem nada; e Three Billboards está em melhor filme.
+
+- Quem ganhou: Sam Rockwell
+
+- Considerações finais: Não vi outro ator indicado para o mesmo filme!
 
 Atriz principal:
 
- - Minha aposta: Sally Hawkings (The Shape of Water).
- - Explicação: Hawkins vai segurar a única estatueta do filme do del Toro.
- - Quem ganhou: Frances McDormand
- - Considerações finais: Você tá brincando comigo; e entre duas brancas...
+- Minha aposta: Sally Hawkings (The Shape of Water).
+
+- Explicação: Hawkins vai segurar a única estatueta do filme do del Toro.
+
+- Quem ganhou: Frances McDormand
+
+- Considerações finais: Você tá brincando comigo; e entre duas brancas...
 
 Ator principal:
 
- - Minha aposta: Gary Oldman (Darkest Hour/O Destino de uma Nação).
- - Explicação: mesmo "problema" do Harrelson elevado a sétima potência; ele já foi indicado o quê, oito vezes...
- - Quem ganhou: Gary Oldman (That's a Bingo!)
- - Considerações finais: Fácil, fácil 2...
+- Minha aposta: Gary Oldman (Darkest Hour/O Destino de uma Nação).
+
+- Explicação: mesmo "problema" do Harrelson elevado a sétima potência; ele já foi indicado o quê, oito vezes...
+
+- Quem ganhou: Gary Oldman (That's a Bingo!)
+
+- Considerações finais: Fácil, fácil 2...
 
 Melhor filme:
 
- - Minha aposta: Dunkirk (Christopher Nolan).
- - Explicação: agora é a hora, Nolan! Tá perdoado pelo seu autismo e a Academia volta a premiar um Blockbuster como Soldado Ryan.
- - Quem ganhou: Shape of Water
- - Considerações finais: Melhor filme é sempre imprevisível, é uma soma louca. Mas a representatividade foi de pé até o final e sem trolagem.
+- Minha aposta: Dunkirk (Christopher Nolan).
+
+- Explicação: agora é a hora, Nolan! Tá perdoado pelo seu autismo e a Academia volta a premiar um Blockbuster como Soldado Ryan.
+
+- Quem ganhou: Shape of Water
+
+- Considerações finais: Melhor filme é sempre imprevisível, é uma soma louca. Mas a representatividade foi de pé até o final e sem trolagem.
 
 Minha pontuação ficou 6 de 21. 28% de aproveitamento até que não está ruim pra um chute de 10 minutos. É isso aí, pe-pe-pe-pessoal. Ano que vem tem mais minorias. E nem assim Star Wars ganha alguma coisa...
 
@@ -59072,7 +59817,7 @@ Sua estrutura pode ser simples e direta. Digamos uma lista ligada de números va
 
 O elemento mais importante de sua lista ligada é o primeiro elemento, pois sem ele você não consegue mais voltar ao início. Isso pode ser uma variável especial que não é usada para nada exceto indicar qual o primeiro elemento da sua lista. Essa variável não pode mudar, pois precisamos sempre ter uma referência para o início da lista, a não ser que o primeiro elemento seja removido (veremos adiante). Ele pode ser simplesmente um ponteiro para o "próximo" elemento, no caso o primeiro.
 
-  struct Node* head = NULL;
+struct Node* head = NULL;
 
 Este ponteiro começa em NULL porque a lista está vazia. Mas assim que inserirmos um item ele deixará de ser nulo.
 
@@ -60420,16 +61165,25 @@ O ambiente padronizado de bibliotecas C/C++ dos sistemas UNIX é motivo de invej
 
 E com isso uma série de atividades permearam a evolução da ferramenta de desenvolvimento da Microsoft, o Visual Studio:
 
- - Updates frequentes
- - Projetos internos lançados como open source no GitHub
- - Compra do GitHub
- - Suporte a mais de um compilador (como clang)
- - Depuração Linux (Ubuntu) dentro do Windows
- - Ambiente Linux (Ubuntu) dentro do Windows
- - Pesado suporte ao CMake
- - Ambiente padronizado de bibliotecas para Windows, Linux e Mac OS (vcpkg)
- - Suporte à compilação de bibliotecas clássicas dos ambientes UNIX via vcpkg
- - Deploy de suas próprias bibliotecas padronizadas via vcpkg
+- Updates frequentes
+
+- Projetos internos lançados como open source no GitHub
+
+- Compra do GitHub
+
+- Suporte a mais de um compilador (como clang)
+
+- Depuração Linux (Ubuntu) dentro do Windows
+
+- Ambiente Linux (Ubuntu) dentro do Windows
+
+- Pesado suporte ao CMake
+
+- Ambiente padronizado de bibliotecas para Windows, Linux e Mac OS (vcpkg)
+
+- Suporte à compilação de bibliotecas clássicas dos ambientes UNIX via vcpkg
+
+- Deploy de suas próprias bibliotecas padronizadas via vcpkg
 
 Usar o vcpkg no Windows é tão simples que parece mágica. Ou Linux.
 
@@ -60443,15 +61197,19 @@ Com o vcpkg tudo que é necessário fazer é rodar o comando de install com o no
 
 Vantagens do vcpkg:
 
- - Economia de tempo (de pesquisa, de compilação, de tudo)
- - Uniformidade no uso das libs
- - Flexibilidade para colocar suas próprias libs
+- Economia de tempo (de pesquisa, de compilação, de tudo)
+
+- Uniformidade no uso das libs
+
+- Flexibilidade para colocar suas próprias libs
 
 Desvantagens do vcpkg:
 
- - Apenas as libs mais novas estão sendo suportadas (e não há suporte para Visual Studio mais antigo, nem SOs mais antigos como XP).
- - Usuário Linux nenhum no mundo vai querer usar (motivo: Microsoft e este já é um problema resolvido neste mundo)
- - Depende de um gerenciador proprietário (se bem que é tudo open source e não há restrições como o Java; qualquer um pode montar seu repositório).
+- Apenas as libs mais novas estão sendo suportadas (e não há suporte para Visual Studio mais antigo, nem SOs mais antigos como XP).
+
+- Usuário Linux nenhum no mundo vai querer usar (motivo: Microsoft e este já é um problema resolvido neste mundo)
+
+- Depende de um gerenciador proprietário (se bem que é tudo open source e não há restrições como o Java; qualquer um pode montar seu repositório).
 
 # Por Dentro do Roteiro
 date: 2018-07-15
@@ -60469,32 +61227,57 @@ A parte do meio já comenta sobre aqueles trabalhos medíocres balanceando o que
 
 Já o final do livro deixa um gosto amargo na boca por tratar dos filmes que, segundo ele, possuem mais erros que acertos. E ele aponta no projeto porque eles não possuem a habilidade que um roteirista deveria ter em seu trabalho. Ele pega no pé particularmente de George Lucas e James Cameron, mas não faltam exemplos de trabalhos preguiçosos e que são criados pela inércia.
 
- - Onde o filme começa?
- - No presente?
- - No presente, pulando para o passado?
- - No passado, saltando para o presente?
- - Como os personagens são estabelecidos?
- - Mostrando?
- - O que eles fazem. O que nós vemos. Contando?
- - O que eles dizem. O que escutamos a respeito deles. O que outras pessoas dizem a eles. Os personagens são adequados para o filme?
- - A história é adequada para os personagens?
- - O que o roteirista está nos contando ou mostrando?
- - Ou não nos contando?
- - Por quê?
- - Como o filme está se movimentando?
- - A história está se desenvolvendo?
- - Os personagens estão se desenvolvendo?
- - Os personagens estão se comportando de maneira tola?
- - Por quê?
- - Precisamos saber isso?
- - O roteirista segue o padrão de Syd Field ou o de Joseph Campbell muito rigidamente?
- - O filme está se afastando daquilo de que trata?
- - Ele está roubando dos melhores?
- - Sobre o final: Ele conclui a história que o filme começou a contar?
- - Satisfaz o espectador?
- - Demora muito?
- - O filme cumpre o que prometeu?
- - O filme é sobre o quê?
+- Onde o filme começa?
+
+- No presente?
+
+- No presente, pulando para o passado?
+
+- No passado, saltando para o presente?
+
+- Como os personagens são estabelecidos?
+
+- Mostrando?
+
+- O que eles fazem. O que nós vemos. Contando?
+
+- O que eles dizem. O que escutamos a respeito deles. O que outras pessoas dizem a eles. Os personagens são adequados para o filme?
+
+- A história é adequada para os personagens?
+
+- O que o roteirista está nos contando ou mostrando?
+
+- Ou não nos contando?
+
+- Por quê?
+
+- Como o filme está se movimentando?
+
+- A história está se desenvolvendo?
+
+- Os personagens estão se desenvolvendo?
+
+- Os personagens estão se comportando de maneira tola?
+
+- Por quê?
+
+- Precisamos saber isso?
+
+- O roteirista segue o padrão de Syd Field ou o de Joseph Campbell muito rigidamente?
+
+- O filme está se afastando daquilo de que trata?
+
+- Ele está roubando dos melhores?
+
+- Sobre o final: Ele conclui a história que o filme começou a contar?
+
+- Satisfaz o espectador?
+
+- Demora muito?
+
+- O filme cumpre o que prometeu?
+
+- O filme é sobre o quê?
 
 # Stanford Encyclopedia of Philosophy para Kindle
 date: 2018-07-15
@@ -60504,10 +61287,13 @@ A enciclopédia mais completa e de maior respeito da internet não é um enciclo
 
 Para realizar esta operação será necessário usar as seguintes ferramentas:
 
- - wget
- - sed
- - sort
- - Calibre
+- wget
+
+- sed
+
+- sort
+
+- Calibre
 
 O projeto de conversão foi feito pensando em usuários do Windows, mas pode ser adaptado facilmente para qualquer ambiente. Se trata de um conjunto de arquivos batch (script) que realiza vários comandos, a saber:
 
@@ -60654,19 +61440,27 @@ Talvez essa seja a parte mais valiosa deste livrinho. Com livros e links para o 
 
 Livros:
 
- - FIELD, Syd. Manual do roteiro. 1.ed. Trad. De Álvaro Ramos. Rio de Janeiro. Objetiva, 1996.
- - McKEE, Robert. Story: substance, structure, style and the principles of screenwriting. New York. Regan books, 1997.
- - WALTER, Richard. Screenwriting. New York. Plume, 1988.
+- FIELD, Syd. Manual do roteiro. 1.ed. Trad. De Álvaro Ramos. Rio de Janeiro. Objetiva, 1996.
+
+- McKEE, Robert. Story: substance, structure, style and the principles of screenwriting. New York. Regan books, 1997.
+
+- WALTER, Richard. Screenwriting. New York. Plume, 1988.
 
 Links:
 
- - IMSDB http://www.imsdb.com/ Banco de roteiros com lançamentos recentes do cinema americano. Em inglês.
- - ROTEIRO DE CINEMA http://www.roteirodecinema.com.br/ Um dos mais completos websites para roteiristas do Brasil. Recheado de notícias, dicas, links e roteiros para cinema e TV.
- - CURTAGORA http://www.curtagora.com/ Uma iniciativa cultural da Interrogação Filmes em parceria com a Mnemocine tem o objetivo de levantar dados sobre a produção audiovisual nacional nos formatos de curta e média metragem durante os últimos 20 anos. Uma ferramenta e tanto para quem quer colocar seu trabalho no mapa. Dê uma conferida.
- - SCRIPTS-O-RAMA http://www.script-o-rama.com Os melhores roteiros vindos da terra do tio Sam, incluindo clássicos de Hitchcock e Kubrick.
- - CRIAÇÃO DE ROTEIROS http://www.roteirista.com/ Aqui você chega até o roteirista Hugo Moss e seus grupos de criação, seu conceituado curso online e o concurso que promove trimestralmente com o objetivo de estimular roteiristas de todas as idades.
- - ASSOCIAÇÃO CULTURAL KINOFORUM http://www.kinoforum.org/ Investe na difusão da produção audiovisual e do cinema independente na América Latina e é responsável pelo Festival Internacional de Curtas-Metragens. Destaca também um guia de festivais muito completo.
- - CURTA O CURTA http://www.curtaocurta.com.br/ Buscando sanar a falta de espaço para o curta-metragem nos cinemas e na televisão, surge o site Curta o Curta, onde o usuário pode assistir aos mais interessantes curtas, discutir sobre o cinema nacional, participar de promoções e até incluir seu próprio filme, fazendo da Internet um canal direto com o espectador.
+- IMSDB http://www.imsdb.com/ Banco de roteiros com lançamentos recentes do cinema americano. Em inglês.
+
+- ROTEIRO DE CINEMA http://www.roteirodecinema.com.br/ Um dos mais completos websites para roteiristas do Brasil. Recheado de notícias, dicas, links e roteiros para cinema e TV.
+
+- CURTAGORA http://www.curtagora.com/ Uma iniciativa cultural da Interrogação Filmes em parceria com a Mnemocine tem o objetivo de levantar dados sobre a produção audiovisual nacional nos formatos de curta e média metragem durante os últimos 20 anos. Uma ferramenta e tanto para quem quer colocar seu trabalho no mapa. Dê uma conferida.
+
+- SCRIPTS-O-RAMA http://www.script-o-rama.com Os melhores roteiros vindos da terra do tio Sam, incluindo clássicos de Hitchcock e Kubrick.
+
+- CRIAÇÃO DE ROTEIROS http://www.roteirista.com/ Aqui você chega até o roteirista Hugo Moss e seus grupos de criação, seu conceituado curso online e o concurso que promove trimestralmente com o objetivo de estimular roteiristas de todas as idades.
+
+- ASSOCIAÇÃO CULTURAL KINOFORUM http://www.kinoforum.org/ Investe na difusão da produção audiovisual e do cinema independente na América Latina e é responsável pelo Festival Internacional de Curtas-Metragens. Destaca também um guia de festivais muito completo.
+
+- CURTA O CURTA http://www.curtaocurta.com.br/ Buscando sanar a falta de espaço para o curta-metragem nos cinemas e na televisão, surge o site Curta o Curta, onde o usuário pode assistir aos mais interessantes curtas, discutir sobre o cinema nacional, participar de promoções e até incluir seu próprio filme, fazendo da Internet um canal direto com o espectador.
 
 # Estrutura de Roteiro
 date: 2018-07-17
@@ -61157,7 +61951,7 @@ Considerando todas as infomações coletadas em diversas fontes é possível per
 
 Fontes citadas:
 
- - [Intermittent Fasting 101 — The Ultimate Beginner’s Guide]
+- [Intermittent Fasting 101 — The Ultimate Beginner’s Guide]
 
 - [Google]
 
@@ -61357,12 +62151,17 @@ O parágrafo seguinte é o que venho tentando evitar desde que meu amigo me reco
 
 Para isso é necessário se fazer algumas perguntas antes de começar a escrever:
 
- - O que eu estou tentando dizer?
- - Qual palavra irá expressar isso?
- - Que imagem ou expressão irá tornar mais claro?
- - Essa imagem é atual suficiente para ter efeito?
- - Eu posso dizer de maneira mais sucinta? E, por último:
- - Eu disse alguma coisa feia que posso evitar?
+- O que eu estou tentando dizer?
+
+- Qual palavra irá expressar isso?
+
+- Que imagem ou expressão irá tornar mais claro?
+
+- Essa imagem é atual suficiente para ter efeito?
+
+- Eu posso dizer de maneira mais sucinta? E, por último:
+
+- Eu disse alguma coisa feia que posso evitar?
 
 "A scrupulous writer, in every sentence that he writes, will ask himself at least four questions, thus: What am I trying to say? What words will express it? What image or idiom will make it clearer? Is this image fresh enough to have an effect? And he will probably ask himself two more: Could I put it more shortly? Have I said anything that is avoidably ugly?"
 
@@ -61372,12 +62171,17 @@ Orwell também ensina como os discursos políticos são moldados para que as aç
 
 Por último, uma lista de coisas a evitar:
 
- - Nunca use uma metáfora ou figura de linguagem que você se acostumou a ver na mídia.
- - Nunca use uma palavra longa onde uma curta já serve.
- - Se é possível cortar uma palavra, sempre corte.
- - Nunca use a voz passiva onde pode usar a ativa.
- - Nunca use uma frase ou expressão estrangeira, palavra científica ou jargão se você pode usar palavras do cotidiano no lugar.
- - Quebre qualquer uma dessas regras antes que você diga algo digno de um bárbaro.
+- Nunca use uma metáfora ou figura de linguagem que você se acostumou a ver na mídia.
+
+- Nunca use uma palavra longa onde uma curta já serve.
+
+- Se é possível cortar uma palavra, sempre corte.
+
+- Nunca use a voz passiva onde pode usar a ativa.
+
+- Nunca use uma frase ou expressão estrangeira, palavra científica ou jargão se você pode usar palavras do cotidiano no lugar.
+
+- Quebre qualquer uma dessas regras antes que você diga algo digno de um bárbaro.
 
 Never use a metaphor, simile, or other figure of speech which you are used to seeing in print. Never use a long word where a short one will do. If it is possible to cut a word out, always cut it out. Never use the passive where you can use the active. Never use a foreign phrase, a scientific word, or a jargon word if you can think of an everyday English equivalent. Break any of these rules sooner than say anything outright barbarous.
 
@@ -61389,9 +62193,11 @@ O que será que faz pessoas durante suas vidas ficarem mais ricas ou pobres de o
 
 O vídeo do filósofo Alysson Augusto, baseado no texto de Leandro C. Bellato, tenta explorar os resultados de uma pesquisa recente realizada e suas três hipóteses levantadas:
 
-  1. Pessoas com genes que indicam sucesso na educação leva a pessoas mais bem-sucedidas na vida.
-  2. Os genes dos pais é que geram um ambiente favorável ao sucesso pessoal de seus filho.
-  3. Falsa causalidade; o que importa mesmo é se você nasce em família rica ou pobre.
+1. Pessoas com genes que indicam sucesso na educação leva a pessoas mais bem-sucedidas na vida.
+
+2. Os genes dos pais é que geram um ambiente favorável ao sucesso pessoal de seus filho.
+
+3. Falsa causalidade; o que importa mesmo é se você nasce em família rica ou pobre.
 
 A pesquisa se chama 'Genetic analysis of social-class mobility in five longitudinal studies' (Análise genética de mobilidade social em cinco estudos longitudinais) e tem o seguinte Abstract:
 
@@ -61597,23 +62403,33 @@ Available architecture triplets:
 
 O vcpkg já vem com alguns triplets de fábrica, mas você pode criar os seus próprios na pasta triplets, alterando várias variáveis de controle de compilação:
 
- - VCPKG_TARGET_ARCHITECTURE. A arquitetura alvo (x86, x64, arm, arm64).
- - VCPKG_CRT_LINKAGE. A linkagem do CRT (que é mais conhecida pelo pessoal do Zwindows; valores: dynamic, static).
- - VCPKG_LIBRARY_LINKAGE. O mesmo do CRT, mas para libs (as bibliotecas podem ignorar se elas não suportam isso).
- - VCPKG_CMAKE_SYSTEM_NAME. A plataforma alvo, que pode ser vazio (o Windows desktop padrão), WindowsStore, Darwin (Mac OSX) ou Linux.
- - VCPKG_PLATFORM_TOOLSET. O toolset do Visual Studio (mais uma coisa do Zwindows); v141, v140 são valores válidos (vazio também).
- - VCPKG_VISUAL_STUDIO_PATH. Onde está a instalação do Visual Studio (é, o vcpkg tem uma certa tendência pro Zwindows).
- - VCPKG_CHAINLOAD_TOOLCHAIN_FILE. Esse não é do Zwindows, mas do [CMake]; a possibilidade de escolher outro toolchain (diferente de scripts/toolchains) para o CMake.
+- VCPKG_TARGET_ARCHITECTURE. A arquitetura alvo (x86, x64, arm, arm64).
+
+- VCPKG_CRT_LINKAGE. A linkagem do CRT (que é mais conhecida pelo pessoal do Zwindows; valores: dynamic, static).
+
+- VCPKG_LIBRARY_LINKAGE. O mesmo do CRT, mas para libs (as bibliotecas podem ignorar se elas não suportam isso).
+
+- VCPKG_CMAKE_SYSTEM_NAME. A plataforma alvo, que pode ser vazio (o Windows desktop padrão), WindowsStore, Darwin (Mac OSX) ou Linux.
+
+- VCPKG_PLATFORM_TOOLSET. O toolset do Visual Studio (mais uma coisa do Zwindows); v141, v140 são valores válidos (vazio também).
+
+- VCPKG_VISUAL_STUDIO_PATH. Onde está a instalação do Visual Studio (é, o vcpkg tem uma certa tendência pro Zwindows).
+
+- VCPKG_CHAINLOAD_TOOLCHAIN_FILE. Esse não é do Zwindows, mas do [CMake]; a possibilidade de escolher outro toolchain (diferente de scripts/toolchains) para o CMake.
 
 #### VCPKG_CXX_FLAGS
 
 Há diversas flags de compilação que podem ser especificadas direto no triplet:
 
- - VCPKG_CXX_FLAGS_DEBUG
- - VCPKG_CXX_FLAGS_RELEASE
- - VCPKG_C_FLAGS
- - VCPKG_C_FLAGS_DEBUG
- - VCPKG_C_FLAGS_RELEASE
+- VCPKG_CXX_FLAGS_DEBUG
+
+- VCPKG_CXX_FLAGS_RELEASE
+
+- VCPKG_C_FLAGS
+
+- VCPKG_C_FLAGS_DEBUG
+
+- VCPKG_C_FLAGS_RELEASE
 
 #### Customização per-port
 
@@ -61748,8 +62564,9 @@ Se você prestou atenção ao conteúdo de msbuild\vcpkg.targets lá em cima vai
 
 É isso que resolve o problema de saber qual o nome da lib resultante de um pacote instalado. Porém, isso não é o ideal, principalmente por dois motivos:
 
- 1. Os nomes de configuração do projeto tem que ser Debug ou Release (maneiras de melhorar já está sendo discutido [no GitHub 1]).
- 2. O usuário final não tem qualquer controle do que adicionar como dependência; simplesmente vai todos os pacotes instalados (mais uma discussão [no GitHub 2]).
+1. Os nomes de configuração do projeto tem que ser Debug ou Release (maneiras de melhorar já está sendo discutido [no GitHub 1]).
+
+2. O usuário final não tem qualquer controle do que adicionar como dependência; simplesmente vai todos os pacotes instalados (mais uma discussão [no GitHub 2]).
 
 Porém, no momento é assim que funciona. Para o problema #1 a solução paliativa é o próprio usuário adicionar em seu msbuild as condições de sua configuração. A sugestão da thread é boa:
 
@@ -62234,6 +63051,7 @@ Detalhe curioso de arquitetura x86 (32 bits): na hora de alocar, o sp (stack poi
 ```
 ctx.sp = static_cast< char * >( limit) + ctx.size;
 ```
+
 Logo em seguida, no topo da pilha, é empilhado o objeto da corrotina:
 
 ```
@@ -62497,15 +63315,13 @@ Native Floripa virou já uma tradição. Ano que vem nos vemos de novo.
 
 #### Minhas palestras
 
- - [Vcpkg e vc td a ver]
- - [Co co-co-co-co-corrotinas]
+- [Vcpkg e vc td a ver]
+
+- [Co co-co-co-co-corrotinas]
 
 [Native Floripa]: http://www.nativefloripa.com.br/
-
 [Acate]: https://www.acate.com.br/
-
 [Vcpkg e vc td a ver]: https://www.slideshare.net/WanderleyCaloni/vcpkg-e-vc-td-a-ver
-
 [Co co-co-co-co-corrotinas]: https://www.slideshare.net/WanderleyCaloni/co-cococococorrotinas
 
 # Maniac
@@ -64396,15 +65212,23 @@ Até aí tudo bem. O problema na verdade ocorre no segundo request enviado quand
 
 É uma situação complexa, que depende de várias variáveis, mas ela ocorre, se todas as variáveis ocorrerem ao mesmo tempo. Um resumo:
 
- - Criação do socket cliente com a função socket.
- - Uso do AcceptEx para aceitar conexões.
- - Criação de process-filho com flag de herança de handles habilitada.
- - Processo-filho do primeiro request ainda em execução.
- - Recebimento do segundo request e criação do segundo processo-filho.
- - Escrita no socket cliente do segundo request enquanto o primeiro request ainda não foi finalizado.
- - BUG: Cliente do segundo request não recebe sua resposta.
- - RESULTADO ESPERADO: Que o cliente do primeiro request não interferisse no segundo.
- - Detalhe: Cliente do segundo requeste recebe eventualmente sua resposta após o primeiro request terminar.
+- Criação do socket cliente com a função socket.
+
+- Uso do AcceptEx para aceitar conexões.
+
+- Criação de process-filho com flag de herança de handles habilitada.
+
+- Processo-filho do primeiro request ainda em execução.
+
+- Recebimento do segundo request e criação do segundo processo-filho.
+
+- Escrita no socket cliente do segundo request enquanto o primeiro request ainda não foi finalizado.
+
+- BUG: Cliente do segundo request não recebe sua resposta.
+
+- RESULTADO ESPERADO: Que o cliente do primeiro request não interferisse no segundo.
+
+- Detalhe: Cliente do segundo requeste recebe eventualmente sua resposta após o primeiro request terminar.
 
 ## Solução #1 (Windows Vista ou superior): InitializeProcThreadAttributeList e UpdateProcThreadAttribute
 
@@ -65712,7 +66536,6 @@ Obs.: Eu costumo executar sem segurança alguma, pois minhas máquinas de teste 
 [como usar o msvcmon.exe no VS 2003 e o msvsmon.exe no 2010+]: debugger_remoto_do_visual_studio
 [como depurar um serviço quando a máquina está para desligar]: depurando_ate_o_ultimo_segundo
 [depurar através de um servidor de símbolos]: depurando_ate_o_fim_do_mundo_e_de_volta_de_novo_source_server_com_github
-
 [NSSM]: https://nssm.cc/
 
 # O Rei Leão 3 Hakuna Matata
@@ -66659,9 +67482,11 @@ tags: ccppbr
 
 Foi definido recentemente no nosso grupo de Telegram que nosso próximo encontro será realizado na cidade de São Paulo no dia 6 de julho de 2019. Como nossa última tentativa falhou miseravelmente por falta de inscrições suficientes estaremos iniciando a organização primeiro pelas incrições, e, havendo quórum, será feita alocação de sala(s) e coffee-break. Em paralelo iniciaremos o call for papers, onde você é convidado a palestrar em nosso encontro.
 
- - Quando: 06 (seis) do 07 (julho) de 2019.
- - Onde: São Paulo, Capital.
- - Onde exatamente: a ser definido.
+- Quando: 06 (seis) do 07 (julho) de 2019.
+
+- Onde: São Paulo, Capital.
+
+- Onde exatamente: a ser definido.
 
 As inscrições terão o preço inicial definido em R$ 30,00 (trinta taoqueis). O pagamento poderá ser feito pelo PagSeguro. Se está interessado em palestrar envie sua proposta na página do CFP. Se atente às datas limites para envio do abstract e do conteúdo. Vá no site oficial do grupo para ficar antenado das últimas atualizações sobre o evento.
 
@@ -66938,7 +67763,6 @@ Os programas `ssh.exe` (shell remoto) e `scp.exe` (cópia remota de arquivos) ta
 Se seu objetivo é realizar backups remotos silenciosos e para isso você instalar um serviço que irá executar o `scp.exe` de tempos em tempos é preciso tomar cuidado com as credenciais usadas e onde estarão as chaves de criptografia. O padrão usado pelo OpenSSH no Windows é na pasta `C:\Users\Usuário\.ssh`, mas para um processo na conta de sistema esse valor deve ser diferente. No caso de um terminal executando pelo `psexec.exe` ele ficou apontando para `c:\windows\system32\.ssh`, mas para serviços rodando como `SYSTEM` é capaz que seja outro valor. Enfim, é necessário testar e verificar os resultados dos testes.
 
 [um guia]: https://winscp.net/eng/docs/guide_windows_openssh_server
-
 [a partir dos fontes]: https://github.com/PowerShell/openssh-portable
 [binários]: https://github.com/PowerShell/Win32-OpenSSH/releases
 [o tutorial do WinSCP]: https://winscp.net/eng/docs/guide_windows_openssh_server
@@ -67240,9 +68064,11 @@ namespace UnitTest1
 
 Agora abrindo o jogo para você, amigo programador C++ que gosta de saber tudo que ocorre debaixo dos panos:
 
- - Um projeto Unit Test é apenas uma DLL com uns códigos de template.
- - Esse código já adiciona a lib de unit test da Microsoft e cria uma classe com exemplo de uso.
- - Adicione todo código do projeto original que ele precisa para compilar.
+- Um projeto Unit Test é apenas uma DLL com uns códigos de template.
+
+- Esse código já adiciona a lib de unit test da Microsoft e cria uma classe com exemplo de uso.
+
+- Adicione todo código do projeto original que ele precisa para compilar.
 
 Por isso eu tirei a tranqueira de precompiled header do projeto de unit test, retirei a referência (sugestão do tutorial da Microsoft) e apenas adicionei o mesmo cpp para ser compilado.
 
@@ -67325,9 +68151,11 @@ E aqui está a linguagem C com sua elegância, minimalismo e a filosofia "just w
 
 Estava pesquisando sobre bibliotecas de corrotinas em C e encontrei a [Picoro], de Tony Finch. O repositório pode ser baixado em git://git.chiark.greenend.org.uk/~fanf/picoro.git. Três coisas me encantaram nela:
 
- 1. portabilidade (fácil de testar em qualquer arquitetura).
- 1. simplificade (um header e um .c com menos de 200 linhas, e a maioria são comentários).
- 1. manutenção (o último commit é de 2010, ou seja, ninguém mais mexeu nela por nove anos).
+1. portabilidade (fácil de testar em qualquer arquitetura).
+
+2. simplificade (um header e um .c com menos de 200 linhas, e a maioria são comentários).
+
+3. manutenção (o último commit é de 2010, ou seja, ninguém mais mexeu nela por nove anos).
 
 Ela é uma biblioteca feita para resolver o problema mais básico de toda corrotina: troca de contexto. Isso é feito de maneira descentralizada, embora ela inicie com uma corrotina principal: a primeira que constrói uma corrotina. A partir dessa é possível criar outras e dar resume em qualquer uma delas que não tenha terminado.
 
@@ -67387,38 +68215,69 @@ tags: self flow
 
 ![Flow graph](flow.jpg)
 
- - Professional activities performed in a state of distraction-free concentration that push you cognitive capabilities to their limit. These efforts create new value, improve your skill, and are hard to replicate.
- - Flow can be produced by small things that cause active enjoyment rather than passive pleasure.
- - The flow session, that can be supported by deep work, has an impact on our self. The self grows with each challenge and with each opportunity we can improve ourselves as human being. The improvements of the self and the fulfilled activities on the way can lead to a satisfied and meaningful life.
- - "The ability to perform deep work is becoming increasingly rare at exactly the same time it is becoming increasingly valuable in our economy. As a consequence, the few who cultivate this skill, and then make it the core of their working life, will thrive."
- - Whenever you repeat something, a circuit in the brain will fire oftentimes and strengthen the skill like a muscle in your brain. You improve your self.
- - He sees the solution in becoming independent of external rewards. These rewards have to be substituted for internal rewards. For instance, life long learning, achieving worthwhile challenges or the fulfillment in helping others. Only then a human being is in full control of the self. In full control of happiness and sadness.
- - You need to use an "arsenal of routines and rituals designed with the science of limited willpower in mind to maximize the amount of deep work". Smart routines make it possible to make less decisions and to do less balancing of different tasks.
- - The journalistic philosophy is the last and most advanced philosophy. In that approach you can rapidly switch between shallow to deep work. Yet we know that a disadvantage of multitasking is the usage of our finite willpower. That's why the approach is only for advanced deep workers. Cal Newport says that "[it] require[s] a sense of confidence in your work." and that "[it] requires a conviction that what you are doing is important and will succeed". You can support the philosophy by preparing your deep work schedule in advance. It will help you to preserve your willpower.
- - Whenever you are going deep, you have to ritualize it. There are 3 basics to assist your deep work session: time, support and metrics.
- - You can operate similar to a business. For instance, imagine a software product that gets an additional feature. The team will come up with a minimum viable product (MVP) for the feature. But the MVP needs planning. A MVP has by definition a minimum yet valuable outcome. The same planning you would need for your own outcome. You have to "identify a small number of ambitious outcomes".
- - I can recommend to read the book The One Thing by Gary Keller. It gives a clear guidance how you can deploy short term objectives that contribute to long term goals.
- - To track progress enables you to gather feedback about your efforts. Are you on track? Did you have a bad week? Maybe it is time to recalibrate your efforts based on the feedback.
- - The attention restoration theory (ART) claims that directed attention is a finite resource. If it exhausts, you will struggle to concentrate. It can be seen quite similar to the finite amount of willpower. The conclusion is that your deep work time per day is limited.
- - You need time to rest. Therefore you can deploy productive meditations - that's how Cal Newport calls it - where you do physical work (fitness workout, house cleaning) and no mental work. Apart from that research says that spending time in nature improves your ability to concentrate.
- - End your day with a Shutdown Ritual
- - the Zeigarnik Effect . It is "the ability of incomplete tasks to dominate our attention". You unconscious mind might help you to solve a problem until your next workday starts (Take a Nap).
- - Give your goals a hard deadline that is lesser than your estimated time. The shallow work will become dispensable when you have less time for the task at hand.
- - Research shows that a trained memory improves your ability to concentrate.
- - The schedule can be used to guide your working day. However you shouldn't forcefully stick to the schedule. It should only guide you, but you can adjust it during the day. It should leave opportunities for improvisation and encourage spontaneity.
- - Deep work can be used as a technique to get into a state of flow. The state of flow can be your path in life to accomplish happiness, to be in control of your life and to be independent of social rewards. It can also be your path to accomplish challenges in your professional life.
- - Without consciousness we would know what happens around us, but we couldn't give it any value.
- - A person can make himself happy regardless of the circumstances surrounding him. It depends on the direction of your attention.
- - "After each episode of flow a person becomes more of a unique individual, less predictable, possessed of rarer skills". The self can grow when there is order in consciousness.
- - Mihaly Csikszentmihalyi sees enjoyment as another component in our life. Enjoyment, in contrast to pleasure, can generate a flow experience. For instance, you can eat food with pleasure, because it is a need of your body. Or you can eat food with enjoyment. Mihaly takes a gourmet as an example for a person who enjoys to eat. The gourmet understands each ingredient in a meal and can focus attention to its different sensations. It is an accomplishment to bring up the attention and to experience the diversities in a meal.
- - It can happen in a competition too. The challenge can be an enjoyment. But only when you concentrate on the activity itself rather than beating your opponent or impressing the audience. The self will grow only when you want to perfect a skill rather than earning external rewards. It is when "the person is paying attention to the activity for its own sake; when it is not, the attention is focused on its consequences".
- - The state of flow leaves no space for disorder in consciousness. It removes the awareness of the daily life, your worries and dreams, and you lose the sense of your self. The time in and after the state of flow can be seen as paradox. The self doesn't grow during the flow session itself, but after it.
- - The irony is that oftentimes work is easier to enjoy than free time. Activities at work have the conditions to experience flow. Free time on the other hand is unstructured. It is a greater effort to shape it and to find and perform flow activities.
- - On a human beings highest potential, a person is able to translate threats into enjoyable challenges. It supports a person to stay in harmony and to live a satisfied life. The word autotelic derives from the Greek words auto and telos which mean self and goal. An autotelic experience describes a self-contained activity. It is an activity solely performed for the intrinsic rewards which strengthens the self. Flow is an autotelic experience.
- - When experience is intrinsically rewarding life is justified in the present, instead of being held hostage to a hypothetical future gain."
- - "The autotelic individual grows beyond the limits of individuality by investing psychic energy [attention] in a system in which she is included. Because of this union of the person and the system, the self emerges at a higher level of complexity."
- - "Flow drives individuals to creativity and outstanding achievement. The necessity to develop increasingly refined skills to sustain enjoyment is what lies behind the evolution of culture."
- - "If you give your mind something meaningful to do throughout all your waking hours, you'll end the day more fulfilled, and begin the next one more relaxed []" by Cal Newport.
+- Professional activities performed in a state of distraction-free concentration that push you cognitive capabilities to their limit. These efforts create new value, improve your skill, and are hard to replicate.
+
+- Flow can be produced by small things that cause active enjoyment rather than passive pleasure.
+
+- The flow session, that can be supported by deep work, has an impact on our self. The self grows with each challenge and with each opportunity we can improve ourselves as human being. The improvements of the self and the fulfilled activities on the way can lead to a satisfied and meaningful life.
+
+- "The ability to perform deep work is becoming increasingly rare at exactly the same time it is becoming increasingly valuable in our economy. As a consequence, the few who cultivate this skill, and then make it the core of their working life, will thrive."
+
+- Whenever you repeat something, a circuit in the brain will fire oftentimes and strengthen the skill like a muscle in your brain. You improve your self.
+
+- He sees the solution in becoming independent of external rewards. These rewards have to be substituted for internal rewards. For instance, life long learning, achieving worthwhile challenges or the fulfillment in helping others. Only then a human being is in full control of the self. In full control of happiness and sadness.
+
+- You need to use an "arsenal of routines and rituals designed with the science of limited willpower in mind to maximize the amount of deep work". Smart routines make it possible to make less decisions and to do less balancing of different tasks.
+
+- The journalistic philosophy is the last and most advanced philosophy. In that approach you can rapidly switch between shallow to deep work. Yet we know that a disadvantage of multitasking is the usage of our finite willpower. That's why the approach is only for advanced deep workers. Cal Newport says that "[it] require[s] a sense of confidence in your work." and that "[it] requires a conviction that what you are doing is important and will succeed". You can support the philosophy by preparing your deep work schedule in advance. It will help you to preserve your willpower.
+
+- Whenever you are going deep, you have to ritualize it. There are 3 basics to assist your deep work session: time, support and metrics.
+
+- You can operate similar to a business. For instance, imagine a software product that gets an additional feature. The team will come up with a minimum viable product (MVP) for the feature. But the MVP needs planning. A MVP has by definition a minimum yet valuable outcome. The same planning you would need for your own outcome. You have to "identify a small number of ambitious outcomes".
+
+- I can recommend to read the book The One Thing by Gary Keller. It gives a clear guidance how you can deploy short term objectives that contribute to long term goals.
+
+- To track progress enables you to gather feedback about your efforts. Are you on track? Did you have a bad week? Maybe it is time to recalibrate your efforts based on the feedback.
+
+- The attention restoration theory (ART) claims that directed attention is a finite resource. If it exhausts, you will struggle to concentrate. It can be seen quite similar to the finite amount of willpower. The conclusion is that your deep work time per day is limited.
+
+- You need time to rest. Therefore you can deploy productive meditations - that's how Cal Newport calls it - where you do physical work (fitness workout, house cleaning) and no mental work. Apart from that research says that spending time in nature improves your ability to concentrate.
+
+- End your day with a Shutdown Ritual
+
+- the Zeigarnik Effect . It is "the ability of incomplete tasks to dominate our attention". You unconscious mind might help you to solve a problem until your next workday starts (Take a Nap).
+
+- Give your goals a hard deadline that is lesser than your estimated time. The shallow work will become dispensable when you have less time for the task at hand.
+
+- Research shows that a trained memory improves your ability to concentrate.
+
+- The schedule can be used to guide your working day. However you shouldn't forcefully stick to the schedule. It should only guide you, but you can adjust it during the day. It should leave opportunities for improvisation and encourage spontaneity.
+
+- Deep work can be used as a technique to get into a state of flow. The state of flow can be your path in life to accomplish happiness, to be in control of your life and to be independent of social rewards. It can also be your path to accomplish challenges in your professional life.
+
+- Without consciousness we would know what happens around us, but we couldn't give it any value.
+
+- A person can make himself happy regardless of the circumstances surrounding him. It depends on the direction of your attention.
+
+- "After each episode of flow a person becomes more of a unique individual, less predictable, possessed of rarer skills". The self can grow when there is order in consciousness.
+
+- Mihaly Csikszentmihalyi sees enjoyment as another component in our life. Enjoyment, in contrast to pleasure, can generate a flow experience. For instance, you can eat food with pleasure, because it is a need of your body. Or you can eat food with enjoyment. Mihaly takes a gourmet as an example for a person who enjoys to eat. The gourmet understands each ingredient in a meal and can focus attention to its different sensations. It is an accomplishment to bring up the attention and to experience the diversities in a meal.
+
+- It can happen in a competition too. The challenge can be an enjoyment. But only when you concentrate on the activity itself rather than beating your opponent or impressing the audience. The self will grow only when you want to perfect a skill rather than earning external rewards. It is when "the person is paying attention to the activity for its own sake; when it is not, the attention is focused on its consequences".
+
+- The state of flow leaves no space for disorder in consciousness. It removes the awareness of the daily life, your worries and dreams, and you lose the sense of your self. The time in and after the state of flow can be seen as paradox. The self doesn't grow during the flow session itself, but after it.
+
+- The irony is that oftentimes work is easier to enjoy than free time. Activities at work have the conditions to experience flow. Free time on the other hand is unstructured. It is a greater effort to shape it and to find and perform flow activities.
+
+- On a human beings highest potential, a person is able to translate threats into enjoyable challenges. It supports a person to stay in harmony and to live a satisfied life. The word autotelic derives from the Greek words auto and telos which mean self and goal. An autotelic experience describes a self-contained activity. It is an activity solely performed for the intrinsic rewards which strengthens the self. Flow is an autotelic experience.
+
+- When experience is intrinsically rewarding life is justified in the present, instead of being held hostage to a hypothetical future gain."
+
+- "The autotelic individual grows beyond the limits of individuality by investing psychic energy [attention] in a system in which she is included. Because of this union of the person and the system, the self emerges at a higher level of complexity."
+
+- "Flow drives individuals to creativity and outstanding achievement. The necessity to develop increasingly refined skills to sustain enjoyment is what lies behind the evolution of culture."
+
+- "If you give your mind something meaningful to do throughout all your waking hours, you'll end the day more fulfilled, and begin the next one more relaxed []" by Cal Newport.
 
 # Compra Me Um Revólver
 date: 2019-05-10
@@ -68665,7 +69524,6 @@ Hoje tudo isso é datado, pois parte do princípio que jovens são inofensivos n
 Não me leve a mal: o filme continua bom. Apenas não é mais memorável. Não é mais um dos melhores do ano como eu escrevi na época. Mas é engraçado. Continua respeitando a inteligência do espectador, mas não sua sensibilidade. Hoje percebemos se tratar de personagens feitos com pressa, sem intensidade, sem realismo. Sem compaixão. Eles castram a verdadeira diversidade de opiniões, essa selva de adolescentes tresloucados, em troca de risadas de eventos bobinhos, de um tour inofensivo de duas jovens em uma noite nada selvagem. É entretenimento de qualidade, mas está ficando velho bem rápido.
 
 [uma série]: the_chair
-
 [este texto para o CinemAqui]: https://cinemaqui.com.br/fora-de-serie/
 
 # Feliz! S02
@@ -68945,13 +69803,19 @@ tags: self
 
 How Technology Hijacks People’s Minds -- from a Magician and Google’s Design Ethicist, de Tristan Harris, foi uma leitura inicial que o SendToKindle cortou, mas pretendo ler o texto completo.
 
- - Como filósofo, Tristan observa a mudança tecnológica através de algum parâmetro palpável, e usa para isso, mesmo sem querer, a praxeologia. Quando ele diz que as pessoas preferem entre checar o email em cinco segundos ou esperar na fila sem fazer nada elas preferem a primeira opção, ou entre ouvir um podcast de meia-hora sobre um assunto que elas gostariam muito de saber ou andar por 30 minutos em silêncio elas também escolhem a primeira opção.
- - Ou seja, pessoas escolhem a opção tecnológica que irá lhes trazer mais benefícios do que o estado de entediado. Porém, esta possibilidade tecnológica é um substituto da realidade como ela é, e a consequência disso é que as pessoas começam a ter menos paciência para a realidade quando comparado com a satisfação instantânea garantida pelos seus celulares. É um feedback positivo que tende ao infinito.
- - Ele também compara a indústria da atenção com a de alimentos, que manipula sal, açúcar e outros condimentos para assim manipular nossa tendência a esses sabores, com a diferença que a indústria da atenção manipula nossa tendências inatas para reciprocidade social, aprovação social, comparação social e busca por novidades. Tudo isso está embutido em nosso DNA e se reflete como comportamento de nossa espécie.
- - "And because reality can’t live up to our expectations, it reinforces how often we want to turn to our screens. A self-reinforcing feedback loop."
- - Assim como um mágico, que se aproveita dos pontos cegos das pessoas para realizar o truque, a tecnologia utiliza pontos cegos para modificar nossa percepção sobre o que estamos decidindo.
- - "Once you know how to push people’s buttons, you can play them like a piano."
- - A consequência disso é, por exemplo, alterar a percepção de um grupo sobre "encontrar um lugar para continuar a conversar" para "encontrar um bar com boas fotos de coquetéis no Yelp".
+- Como filósofo, Tristan observa a mudança tecnológica através de algum parâmetro palpável, e usa para isso, mesmo sem querer, a praxeologia. Quando ele diz que as pessoas preferem entre checar o email em cinco segundos ou esperar na fila sem fazer nada elas preferem a primeira opção, ou entre ouvir um podcast de meia-hora sobre um assunto que elas gostariam muito de saber ou andar por 30 minutos em silêncio elas também escolhem a primeira opção.
+
+- Ou seja, pessoas escolhem a opção tecnológica que irá lhes trazer mais benefícios do que o estado de entediado. Porém, esta possibilidade tecnológica é um substituto da realidade como ela é, e a consequência disso é que as pessoas começam a ter menos paciência para a realidade quando comparado com a satisfação instantânea garantida pelos seus celulares. É um feedback positivo que tende ao infinito.
+
+- Ele também compara a indústria da atenção com a de alimentos, que manipula sal, açúcar e outros condimentos para assim manipular nossa tendência a esses sabores, com a diferença que a indústria da atenção manipula nossa tendências inatas para reciprocidade social, aprovação social, comparação social e busca por novidades. Tudo isso está embutido em nosso DNA e se reflete como comportamento de nossa espécie.
+
+- "And because reality can’t live up to our expectations, it reinforces how often we want to turn to our screens. A self-reinforcing feedback loop."
+
+- Assim como um mágico, que se aproveita dos pontos cegos das pessoas para realizar o truque, a tecnologia utiliza pontos cegos para modificar nossa percepção sobre o que estamos decidindo.
+
+- "Once you know how to push people’s buttons, you can play them like a piano."
+
+- A consequência disso é, por exemplo, alterar a percepção de um grupo sobre "encontrar um lugar para continuar a conversar" para "encontrar um bar com boas fotos de coquetéis no Yelp".
 
 # O Círculo
 date: 2019-06-21
@@ -69025,12 +69889,17 @@ tags: food cooking
 
 O pão de queijo é polvilho em pó, a decantação da fécula de mandioca, escaldado em uma mistura de água, leite e óleo ferventes sovado junto de ovos, e misturado com queijo ralado (sal a gosto) para ir ao forno em bolinhas feitas à mão dos mais diversos tamanhos. De acordo com o poste [Química do pão de queijo] cada ingrediente tem sua função:
 
- - Água: dissolve materiais e favorece uma melhor distribuição da temperatura;
- - Polvilho: promove o crescimento do produto e fornece uma melhor textura e aspecto crocante;
- - Óleo: aumenta a retenção da umidade e promove um aumento do volume da massa;
- - Leite: dá maior estabilidade à massa e retém uma maior quantidade de umidade;
- - Ovos: apresenta ação emulsificante, ou seja, auxilia na dissolução de um material em outro;
- - Queijo: dá uma maior maciez ao produto final.
+- Água: dissolve materiais e favorece uma melhor distribuição da temperatura;
+
+- Polvilho: promove o crescimento do produto e fornece uma melhor textura e aspecto crocante;
+
+- Óleo: aumenta a retenção da umidade e promove um aumento do volume da massa;
+
+- Leite: dá maior estabilidade à massa e retém uma maior quantidade de umidade;
+
+- Ovos: apresenta ação emulsificante, ou seja, auxilia na dissolução de um material em outro;
+
+- Queijo: dá uma maior maciez ao produto final.
 
 Caso o polvilho usado seja o doce a massa irá crescer menos e com maior maciez. Caso você utilize o polvilho azedo ele irá crescer mais (pois se expande ao ser aquecido) e terá, como já diz o nome, um gosto azedo, pois ele é o polvilho fermentado.
 
@@ -69040,41 +69909,41 @@ Preparo: ferver leite, água, óleo e sal; escaldar no polvilho quando estiver f
 
 ## Histórico
 
- - 2017-11-11 Pão de queijo. Primeira tentativa com o queijo de Poços quando fomos com o Incrível no 7 de setembro; queijo bem curado, quase metade; resultado só com polvilho doce não secou muito nem cresceu, mas não ficou massudo; faltou sal na massa.
+- 2017-11-11 Pão de queijo. Primeira tentativa com o queijo de Poços quando fomos com o Incrível no 7 de setembro; queijo bem curado, quase metade; resultado só com polvilho doce não secou muito nem cresceu, mas não ficou massudo; faltou sal na massa.
 
- - 2017-11-12 Pão de queijo. Segunda vez: Exagerei no queijo (dobro) e na gordura (dobro); ficou pesado e muito salgado.
+- 2017-11-12 Pão de queijo. Segunda vez: Exagerei no queijo (dobro) e na gordura (dobro); ficou pesado e muito salgado.
 
- - 2017-11-25 Pão de queijo. Terceira vez: Usei as proporções corretas para um copo americano, mas ficou líquido demais. Pode ter sido por ter usado uma vasilha funda para escaldar o polvilho. Usei cerca de 1/4 de azedo. Depois fui colocando polvilho na mistura até conseguir manipular, mas ainda ficou muito grudento e mole. O resultado saindo agora parece meio seco demais. Faltou sal (uma colherzinha não basta) e o queijo ficou bem sutil. Pode colocar um pouco mais de queijo da próxima vez. Cresceu a massa a ponto de abrir, ficou sequinho, grudento e oco por dentro. Acho que consegui sovar direito.
+- 2017-11-25 Pão de queijo. Terceira vez: Usei as proporções corretas para um copo americano, mas ficou líquido demais. Pode ter sido por ter usado uma vasilha funda para escaldar o polvilho. Usei cerca de 1/4 de azedo. Depois fui colocando polvilho na mistura até conseguir manipular, mas ainda ficou muito grudento e mole. O resultado saindo agora parece meio seco demais. Faltou sal (uma colherzinha não basta) e o queijo ficou bem sutil. Pode colocar um pouco mais de queijo da próxima vez. Cresceu a massa a ponto de abrir, ficou sequinho, grudento e oco por dentro. Acho que consegui sovar direito.
 
- - 2017-12-09 Pão de queijo. As duas últimas vezes a massa ainda sem o ovo ficou muito seca e bem uniforme, como uma goma sem elasticidade. Após colocar o ovo ficou extremamente grudento e fui obrigado a colocar mais polvilho, só que depois de assar a parte de fora fica esfarelando e bem seca (a de dentro está ok).
+- 2017-12-09 Pão de queijo. As duas últimas vezes a massa ainda sem o ovo ficou muito seca e bem uniforme, como uma goma sem elasticidade. Após colocar o ovo ficou extremamente grudento e fui obrigado a colocar mais polvilho, só que depois de assar a parte de fora fica esfarelando e bem seca (a de dentro está ok).
 
- - 2017-12-10 Pão de queijo. Mesma coisa da massa. Fiz meio copo. Uma colher de ovo e já ficou grudento, mas mole a ponto de não conseguir fazer bolinhas. Coloquei mais um pouco de polvilho e o queijo. Ficou mole ainda, mas esse é o teste. Pelo menos não gruda na forma. Mas queima rápido. O resultado foi menos esfarelento, menos seco. Mas não cresceu muito nem secou.
+- 2017-12-10 Pão de queijo. Mesma coisa da massa. Fiz meio copo. Uma colher de ovo e já ficou grudento, mas mole a ponto de não conseguir fazer bolinhas. Coloquei mais um pouco de polvilho e o queijo. Ficou mole ainda, mas esse é o teste. Pelo menos não gruda na forma. Mas queima rápido. O resultado foi menos esfarelento, menos seco. Mas não cresceu muito nem secou.
 
- - 2018-03-03 Pão de queijo. Dei uma sovada boa e parece que ficou muito melhor. Cresceu um pouco e ficou um pouco azedo demais com metade de polvilho azedo (do mercado).
+- 2018-03-03 Pão de queijo. Dei uma sovada boa e parece que ficou muito melhor. Cresceu um pouco e ficou um pouco azedo demais com metade de polvilho azedo (do mercado).
 
- - 2018-03-04 The Ultimate pão de queijo, com polvilho do mercado de Poços. Um quarto de azedo deu uma maciez maior, mas ele cresceu mais (até meio que deformou). Pouco queijo, mas poderia ter colocado mais. Frio ficou o melhor pão de queijo que já fiz.
+- 2018-03-04 The Ultimate pão de queijo, com polvilho do mercado de Poços. Um quarto de azedo deu uma maciez maior, mas ele cresceu mais (até meio que deformou). Pouco queijo, mas poderia ter colocado mais. Frio ficou o melhor pão de queijo que já fiz.
 
- - 2018-06-15 Pão de queijo. Com polvilho do mercado Bom Baiano do Sacomã (que é bem mais perto que o de Poços de Caldas). Misturei os dois (azedo e doce) e coloquei um pouco mais de ovos com queijo comum (tipo minas) do mercado local. Esse polvilho é bem melhor que o de saquinho que se compra no mercado. O resultado é menos massudo e mais macio. Feito na visita das meninas.
+- 2018-06-15 Pão de queijo. Com polvilho do mercado Bom Baiano do Sacomã (que é bem mais perto que o de Poços de Caldas). Misturei os dois (azedo e doce) e coloquei um pouco mais de ovos com queijo comum (tipo minas) do mercado local. Esse polvilho é bem melhor que o de saquinho que se compra no mercado. O resultado é menos massudo e mais macio. Feito na visita das meninas.
 
- - 2018-07-14 Pão de queijo. Foi feito com ¼ de receita não escaldou corretamente o polvilho, e talvez com pouca gordura (óleo), deixando o resultado mais seco que o normal. Porém, o gosto se manteve, embora polvilhado.
+- 2018-07-14 Pão de queijo. Foi feito com ¼ de receita não escaldou corretamente o polvilho, e talvez com pouca gordura (óleo), deixando o resultado mais seco que o normal. Porém, o gosto se manteve, embora polvilhado.
 
- - 2018-07-15 Pão de queijo. Com 4 copos de polvilho do Bom Baiano, sovei por mais tempo e usei um pouco menos de ovo (senti que a umidade estava razoável). Também retirei do forno antes que ficasse seco demais e coloquei bem mais queijo. O resultado ficou do outro mundo. Foi possível sentir o azedo do polvilho, mas o que ficou mais marcante foi o queijo mesmo. Só faltou um queijo decente (usando o minas padrão do mercado e um pouco de parmesão).
+- 2018-07-15 Pão de queijo. Com 4 copos de polvilho do Bom Baiano, sovei por mais tempo e usei um pouco menos de ovo (senti que a umidade estava razoável). Também retirei do forno antes que ficasse seco demais e coloquei bem mais queijo. O resultado ficou do outro mundo. Foi possível sentir o azedo do polvilho, mas o que ficou mais marcante foi o queijo mesmo. Só faltou um queijo decente (usando o minas padrão do mercado e um pouco de parmesão).
 
- - 2018-07-21 Pão de queijo. Feito um pouco às pressas, derrubei mais leite em pó do que devia, e acho que o resultado ficou ligeiramente mais molenga (embora possa ser apenas a falta de sovar corretamente).
+- 2018-07-21 Pão de queijo. Feito um pouco às pressas, derrubei mais leite em pó do que devia, e acho que o resultado ficou ligeiramente mais molenga (embora possa ser apenas a falta de sovar corretamente).
 
- - 2018-09-08 Pão de queijo. Hoje joguei uma aguinha na massa do pão de queijo para enxaguar a panela, mas acontece que os pães viraram panquecas.
+- 2018-09-08 Pão de queijo. Hoje joguei uma aguinha na massa do pão de queijo para enxaguar a panela, mas acontece que os pães viraram panquecas.
 
- - 2019-01-04 Pão de queijo. Exagerei na banha. Usar muito menos da próxima, pois se eu não lembrei ainda, fica pesado.
+- 2019-01-04 Pão de queijo. Exagerei na banha. Usar muito menos da próxima, pois se eu não lembrei ainda, fica pesado.
 
- - 2019-01-21 Fazendo pão de queijo. Com trauma, usei em vez de banha metade óleo de soja e metade manteiga, sendo a proporção ligeiramente menor do que está na receita. Puro queijo, suave e macio; nada oleoso.
+- 2019-01-21 Fazendo pão de queijo. Com trauma, usei em vez de banha metade óleo de soja e metade manteiga, sendo a proporção ligeiramente menor do que está na receita. Puro queijo, suave e macio; nada oleoso.
 
- - 2019-03-06 Um dos queijos ficou com umas marcas escuras espalhadas. Foi o que mais mofou. Dentro dessas marcas havia um buraco. Retirei todas elas para ralar. Pegando todos os queijos para ralar e fazer o pão de queijo adicionando parmesão. O polvilho azedo será um de pacote comprado no Bom Baiano. O doce é o solto de lá. Usarei mesma quantia de polvilho e queijo. Um dos queijos endureceu e manteve seu óleo concentrado dentro. Ao apertar o óleo saia pelo meio após cortado. O pão de queijo errei só no sal (estou colocando mais enquanto assa). A textura está consistente com a proporção 2/5 de polvilho azedo e mesma quantidade de queijo (diversos) e polvilho. Talvez mais azedo deixe mais oco (está massudinho).
+- 2019-03-06 Um dos queijos ficou com umas marcas escuras espalhadas. Foi o que mais mofou. Dentro dessas marcas havia um buraco. Retirei todas elas para ralar. Pegando todos os queijos para ralar e fazer o pão de queijo adicionando parmesão. O polvilho azedo será um de pacote comprado no Bom Baiano. O doce é o solto de lá. Usarei mesma quantia de polvilho e queijo. Um dos queijos endureceu e manteve seu óleo concentrado dentro. Ao apertar o óleo saia pelo meio após cortado. O pão de queijo errei só no sal (estou colocando mais enquanto assa). A textura está consistente com a proporção 2/5 de polvilho azedo e mesma quantidade de queijo (diversos) e polvilho. Talvez mais azedo deixe mais oco (está massudinho).
 
- - 2019-03-08 Próximo pão de queijo usei metade do azedo e ficou com aquelas crateras legais por dentro. Ficou muito queijado, talvez por ter usado minas padrão com parmesão e o cheddar curado inglês (que é bem intenso). Coloquei como sempre 1/4 a menos de óleo (banha de porco) trocando por leite.
+- 2019-03-08 Próximo pão de queijo usei metade do azedo e ficou com aquelas crateras legais por dentro. Ficou muito queijado, talvez por ter usado minas padrão com parmesão e o cheddar curado inglês (que é bem intenso). Coloquei como sempre 1/4 a menos de óleo (banha de porco) trocando por leite.
 
- - 2019-06-23 Fui fazer um pão de queijo hoje com meio copo de polvilho, mas um ovo é demais para isso ficou líquido demais. Daí joguei polvilho sem escaldar e quando vi que não dava jeito escaldei o resto com mais água e óleo, gerei a pasta e incorporei ao resto. Ficou ainda molenga, juntei o queijo e joguei colheradas na forma. Virou os monstros de queijo. Por eu ter mexido bem o pão cresceu, ficou fofinho e oco dentro, mas por ter colocado o polvilho sem escaldar uma crosta crocante do lado de fora como um biscoito. Somando os prós e contras eu me virei bem em uma situação de emergência.
+- 2019-06-23 Fui fazer um pão de queijo hoje com meio copo de polvilho, mas um ovo é demais para isso ficou líquido demais. Daí joguei polvilho sem escaldar e quando vi que não dava jeito escaldei o resto com mais água e óleo, gerei a pasta e incorporei ao resto. Ficou ainda molenga, juntei o queijo e joguei colheradas na forma. Virou os monstros de queijo. Por eu ter mexido bem o pão cresceu, ficou fofinho e oco dentro, mas por ter colocado o polvilho sem escaldar uma crosta crocante do lado de fora como um biscoito. Somando os prós e contras eu me virei bem em uma situação de emergência.
 
- - 2022-01-30 Pão de queijo. Lições aprendidas nas férias com as meninas: pão de queijo sem gema fica mais duro, ou deixar no forno após desligar o deixa seco demais. Sem leite vira biscoito de polvilho sabor queijo.
+- 2022-01-30 Pão de queijo. Lições aprendidas nas férias com as meninas: pão de queijo sem gema fica mais duro, ou deixar no forno após desligar o deixa seco demais. Sem leite vira biscoito de polvilho sabor queijo.
 
 [Química do pão de queijo]: https://brasilescola.uol.com.br/quimica/quimica-pao-queijo.htm
 
@@ -69514,8 +70383,9 @@ O que mantém o interesse nesses inúmeros filmes que são lançados todo ano é
 
 Para uma geração que consome todos seus filmes antes de realmente vê-lo, o spoiler é uma arma letal. Ele queima esse último fiapo de mistério antes da experiência cinematográfica, sem o qual o filme perde completamente seu valor de mercado, um valor que já não era muita coisa, pois daqui a algumas semanas já é lançado novo arrasa-quarteirões, que hoje em dia está mais para chuta o portão do vizinho. É uma regra de ouro entre o novo público que os dados de uma estreia da semana fiquem em sigilo. Nem que seja por alguns meses após a estreia. Até porque a próxima estreia irá revelar inevitavelmente o desenrolar da história. E é claro que será uma continuação.
 
- 1. https://en.wikipedia.org/wiki/Back-to-back_film_production
- 2. https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe
+1. https://en.wikipedia.org/wiki/Back-to-back_film_production
+
+2. https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe
 
 # SLQLocalDB
 date: 2019-07-21
@@ -69595,11 +70465,15 @@ tags: cinema series
 
 Descubra se puder:
 
- - Esta série sobre evidências forenses mal formuladas com má ciência é uma versão de estagiário de Making a Murderer.
- - Esta série de pegadinhas é tão politicamente correta que parece um documentário.
- - Esta série com um gato gordo e um pinto que fica todo arrepiado está entre as melhores aquisições da Netflix nos últimos anos.
- - Esta série inteira sobre tacos que é narrado por um taco ficou a cinco minutos de me dar um piripaque. No primeiro episódio.
- - Evangelion no décimo episódio: por que diabos crianças pilotam robôs gigantes? Isso não faz o menor sentido e a série me faz achar o máximo e muito adulto.
+- Esta série sobre evidências forenses mal formuladas com má ciência é uma versão de estagiário de Making a Murderer.
+
+- Esta série de pegadinhas é tão politicamente correta que parece um documentário.
+
+- Esta série com um gato gordo e um pinto que fica todo arrepiado está entre as melhores aquisições da Netflix nos últimos anos.
+
+- Esta série inteira sobre tacos que é narrado por um taco ficou a cinco minutos de me dar um piripaque. No primeiro episódio.
+
+- Evangelion no décimo episódio: por que diabos crianças pilotam robôs gigantes? Isso não faz o menor sentido e a série me faz achar o máximo e muito adulto.
 
 # Romeu + Julieta
 date: 2019-07-28
@@ -70963,9 +71837,11 @@ Eu sei, é triste, mas mais uma caneca de café, uma partidinha de xadrez, e est
 
 Depois de muito trabalho voilà! Não há mais dependências das APIs muito novas e conseguimos executar nosso programa em Windows XP. Mas, mais importante que isso, o que aprendi nessa brincadeira:
 
- - A verificar os símbolos importados por um executável usando `dumpbin`, se certificando de que ele poderá rodar em SOs mais antigos.
- - A buscar pelo uso de funções novas pelos fontes compilados pelo vcpkg.
- - A analisar o build do vcpkg para poder modificá-lo e ser compatível com o ambiente que precisamos.
+- A verificar os símbolos importados por um executável usando `dumpbin`, se certificando de que ele poderá rodar em SOs mais antigos.
+
+- A buscar pelo uso de funções novas pelos fontes compilados pelo vcpkg.
+
+- A analisar o build do vcpkg para poder modificá-lo e ser compatível com o ambiente que precisamos.
 
 # Crush à Altura
 date: 2019-09-17
@@ -71039,370 +71915,734 @@ slug: roger_ebert_great_movies
 tags: lists cinema
 
 - 12 Angry Men 1957
- - [2001: Uma Odisseia no Espaço] (2001: A Space Odyssey) 1968
- - 25th Hour 2002
- - 3 Women 1977
- - 8½ 1963
- - Ace in the Hole 1951
- - [Adaptação] (Adaptation) 2002
- - The Adventures of Robin Hood 1938
- - After Dark, My Sweet 1990
- - After Hours 1985
- - The Age of Innocence 1993
- - Aguirre, the Wrath of God 1972
- - A.I. Artificial Intelligence 2001
- - Ali: Fear Eats the Soul 1974
- - [Alien] 1979
- - [A Malvada] (All About Eve) 1950
- - [Amadeus] 1984
- - Amarcord 1973
- - [Noivo Neurótico, Noiva Nervosa] (Annie Hall) 1977
- - [Se Meu Apartamento Falasse] (The Apartment) 1960
- - Apocalypse Now 1979
- - Pather Panchali 1955
- - Army of Shadows 1969
- - Atlantic City 1980
- - Au Hasard Balthazar 1966
- - Au Revoir les Enfants 1987
- - An Autumn Afternoon 1962
- - Babel 2006
- - Badlands 1973
- - The Ballad of Narayama 1958
- - The Band Wagon 1953
- - The Bank Dick 1940
- - Baraka 1992
- - [Barry Lyndon] 1975
- - The Battle of Algiers 1966
- - [O Encouraçado Potemkin] (Battleship Potemkin) 1925
- - Beat the Devil 1953
- - Beauty and the Beast 1946
- - Being There 1979
- - Belle de Jour 1967
- - La Belle Noiseuse 1991
- - The Best Years of Our Lives 1946
- - [Ladrões de Bicicleta] (Bicycle Thieves) 1948
- - The Big Heat 1953
- - [O Grande Lebowski] (The Big Lebowski) 1998
- - The Big Red One 1980
- - The Big Sleep 1946
- - The Birth of a Nation 1915
- - [Blade Runner] 1982
- - Blow-Up 1966
- - The Blue Kite 1993
- - Bob le Flambeur 1956
- - Body Heat 1981
- - Bonnie and Clyde 1967
- - Breathless 1960
- - The Bride of Frankenstein 1935
- - [A Ponte do Rio Kwai] (The Bridge on the River Kwai) 1957
- - Bring Me the Head of Alfredo Garcia 1974
- - Broken Blossoms 1919
- - Le Boucher 1970
- - [O Gabinete do Dr. Caligari] (The Cabinet of Dr. Caligari) 1920
- - Cabiria 1914
- - Caché 2005
- - Casablanca 1942
- - Cat People 1942
- - La Cérémonie 1995
- - Un Chien Andalou 1929
- - Children of Paradise 1945
- - Chimes at Midnight 1965
- - Chinatown 1974
- - Chop Shop 2007
- - A Christmas Story 1983
- - The Circus 1928
- - [Cidadão Kane] (Citizen Kane) 1941
- - City Lights 1931
- - [Cléo das 5 às 7] (Cléo from 5 to 7) 1962
- - La Collectionneuse 1967
- - The Color Purple 1985
- - Come and See 1985
- - [Contato] (Contact) 1997
- - [The Conversation] 1974
- - Cool Hand Luke 1967
- - Cries and Whispers 1972
- - [Crimes and Misdemeanors] 1989
- - Crumb 1994
- - Dark City 1998
- - Day for Night 1973
- - Days of Heaven 1978
- - The Dead 1987
- - The Decalogue 1989
- - [A Partida] (Departures) 2008
- - [Curva do Destino] (Detour) 1945
- - Diary of a Country Priest 1951
- - Diary of a Lost Girl 1929
- - The Discreet Charm of the Bourgeoisie 1972
- - Diva 1981
- - Do the Right Thing 1989
- - Dog Day Afternoon 1975
- - Don't Look Now 1973
- - Double Indemnity 1944
- - The Double Life of Véronique 1991
- - [Dr. Fantástico] (Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb) 1964
- - Dracula 1931
- - Duck Soup 1933
- - E.T. the Extra-Terrestrial 1982
- - The Earrings of Madame de... 1953
- - [Easy Rider] 1969
- - El Norte 1983
- - El Topo 1970
- - The Enigma of Kaspar Hauser 1974
- - [Brilho Eterno de Uma Mente Sem Lembranças] (Eternal Sunshine of the Spotless Mind) 2004
- - Exotica 1994
- - The Exterminating Angel 1962
- - The Fall of the House of Usher 1928
- - Fanny & Alexander 1982
- - [Fargo] 1996
- - Faust 1926
- - The Firemen's Ball 1967
- - Fitzcarraldo 1982
- - Five Easy Pieces 1970
- - Floating Weeds 1959
- - Forbidden Games 1952
- - The 400 Blows 1959
- - French Cancan 1955
- - Gates of Heaven 1978
- - [The General] 1926
- - The Godfather 1972
- - The Godfather: Part II 1974
- - [007 Contra Goldfinger] (Goldfinger) 1964
- - Gone with the Wind 1939
- - [Três Homens em Conflito] (The Good, the Bad and the Ugly) 1966
- - [Os Bons Companheiros] (GoodFellas) 1990
- - The Gospel According to Matthew 1964
- - Grand Illusion 1937
- - The Grapes of Wrath 1940
- - [Túmulo dos Vagalumes] (Grave of the Fireflies) 1988
- - The Great Dictator 1940
- - Great Expectations 1946
- - Greed 1924
- - The Grey Zone 2001
- - [Feitiço do Tempo] (Groundhog Day) 1993
- - The Hairdresser's Husband 1990
- - Harakiri 1962
- - [Os Reis do Iê-Iê-Iê] (A Hard Day's Night) 1964
- - Heart of Glass 1976
- - Hoop Dreams 1994
- - House of Games 1987
- - Howards End 1992
- - The Hustler 1961
- - Ikiru 1952
- - In a Lonely Place 1950
- - In Cold Blood 1967
- - Inherit the Wind 1960
- - It's a Wonderful Life 1946
- - Ivan the Terrible, Part I 1944
- - Ivan the Terrible, Part II: The Boyars' Plot 1958
- - Jaws 1975
- - JFK 1991
- - Johnny Guitar 1954
- - Jules and Jim 1962
- - Juliet of the Spirits 1965
- - Killer of Sheep 1978
- - [O Grande Golpe] (The Killing) 1956
- - Kind Hearts and Coronets 1949
- - King Kong 1933
- - L'Atalante 1934
- - L'Avventura 1960
- - [L.A. Confidential] 1997
- - La Dolce Vita 1960
- - The Lady Eve 1941
- - The Last Laugh 1924
- - The Last Picture Show 1971
- - Last Tango in Paris 1972
- - The Last Temptation of Christ 1988
- - Last Year at Marienbad 1961
- - Late Spring 1949
- - Laura 1944
- - [Lawrence of Arabia] 1962
- - Le Samouraï 1967
- - [Leaving Las Vegas] 1995
- - Leolo 1992
- - Léon Morin, Priest 1961
- - The Leopard 1963
- - The Life and Death of Colonel Blimp 1943
- - The Life of Oharu 1952
- - The Long Goodbye 1973
- - [Encontros e Desencontros] (Lost in Translation) 2003
- - [M, O Vampiro de Dusseldorf] (M) 1931
- - Magnolia 1999
- - Make Way for Tomorrow 1937
- - The Maltese Falcon 1941
- - A Man Escaped 1956
- - The Man Who Laughs 1928
- - The Man Who Shot Liberty Valance 1962
- - [Man with a Movie Camera] 1929
- - The Manchurian Candidate 1962
- - [Manhattan] 1979
- - The Marriage of Maria Braun 1979
- - The Match Factory Girl 1990
- - McCabe & Mrs. Miller 1971
- - Mean Streets 1973
- - Mephisto 1981
- - [Metropolis] 1927
- - Mishima: A Life in Four Chapters 1985
- - Mon Oncle 1958
- - Mon oncle Antoine 1971
- - My American Uncle 1980
- - Monsieur Hire 1989
- - Moolaadé 2004
- - Moonstruck 1987
- - Monsieur Hulot's Holiday 1953
- - Mulholland Drive 2001
- - The Music Room 1958
- - My Darling Clementine 1946
- - My Dinner with Andre 1981
- - My Fair Lady 1964
- - My Man Godfrey 1936
- - [Meu Amigo Totoro] (My Neighbor Totoro) 1988
- - Mystery Train 1989
- - Nanook of the North 1922
- - Nashville 1975
- - The Navigator 1924
- - [Rede de Intrigas] (Network) 1976
- - Night Moves 1975
- - The Night of the Hunter 1955
- - Nights of Cabiria 1957
- - [Nosferatu] 1922
- - Nosferatu the Vampyre 1979
- - Notorious 1946
- - On the Waterfront 1954
- - One Flew Over the Cuckoo's Nest 1975
- - The Only Son 1936
- - Ordet 1955
- - Orpheus 1950
- - Our Hospitality 1923
- - Out of the Past 1947
- - Pale Flower 1964
- - [O Labirinto do Fauno] (Pan's Labyrinth) 2006
- - Pandora's Box 1929
- - Paris, Texas 1984
- - The Passion of Joan of Arc 1928
- - Paths of Glory 1957
- - Patton 1970
- - Peeping Tom 1960
- - Persona 1966
- - The Phantom of the Opera 1925
- - Pickpocket 1959
- - Picnic at Hanging Rock 1975
- - [Pink Floyd: The Wall] 1982
- - Pinocchio 1940
- - [Pixote] 1981
- - [Antes Só do que Mal Acompanhado] (Planes, Trains and Automobiles) 1987
- - PlayTime 1967
- - The Pledge 2001
- - A Prairie Home Companion 2006
- - The Producers 1967
- - [Psicose] (Psycho) 1960
- - [Pulp Fiction] 1994
- - Raging Bull 1980
- - [Os Caçadores da Arca Perdida] (Raiders of the Lost Ark) 1981
- - Raise the Red Lantern 1991
- - Ran 1985
- - Rashomon 1950
- - [Janela Indiscreta] (Rear Window) 1954
- - [Juventude Transviada] (Rebel Without a Cause) 1955
- - Red Beard 1965
- - Red River 1948
- - The Red Shoes 1948
- - Richard III 1995
- - Rififi 1955
- - The Right Stuff 1983
- - Rio Bravo 1959
- - Ripley's Game 2002
- - Rocco and His Brothers 1960
- - The River 1951
- - Romeo and Juliet 1968
- - The Rules of the Game 1939
- - Safety Last! 1923
- - Samurai Rebellion 1967
- - Sansho the Bailiff 1954
- - Santa Sangre 1989
- - [Os Embalos de Sábado à Noite] (Saturday Night Fever) 1977
- - Say Anything... 1989
- - [Scarface] 1983
- - The Scarlet Empress 1934
- - Schindler's List 1993
- - The Searchers 1956
- - Secrets & Lies 1996
- - Senso 1954
- - Se7en 1995
- - Seven Samurai 1954
- - The Seventh Seal 1957
- - Shadow of a Doubt 1943
- - Shane 1953
- - The Shawshank Redemption 1994
- - The Shining 1980
- - Shoah 1985
- - The Silence of the Lambs 1991
- - The Silence 1963
- - Singin' in the Rain 1952
- - Smiles of a Summer Night 1955
- - [Branca de Neve e Os Sete Anões] (Snow White and the Seven Dwarfs) 1937
- - [Solaris] (1972)
- - [Quanto Mais Quente Melhor] (Some Like It Hot) 1959
- - Souls for Sale 1923
- - The Spirit of the Beehive 1973
- - [A Viagem de Chihiro] (Spirited Away) 2001
- - [Primavera, Verão, Outono, Inverno... e Primavera] (Spring, Summer, Fall, Winter... and Spring) 2003
- - Stagecoach 1939
- - [Star Wars: Guerra nas Estrelas] 1977
- - [Marinheiro de Encomenda] (Steamboat Bill, Jr.) 1928
- - Strangers on a Train 1951
- - Stroszek 1977
- - A Sunday in the Country 1984
- - Sunrise: A Song of Two Humans 1927
- - Sunset Boulevard 1950
- - [Superman] 1978
- - Sweet Smell of Success 1957
- - Swing Time 1936
- - [Conto de Inverno] (A Tale of Winter) 1992
- - [Taxi Driver] 1976
- - Tender Mercies 1983
- - The Terrorist 1998
- - The Thief of Bagdad 1940
- - The Thin Man 1934
- - [O Terceiro Homem] (The Third Man) 1949
- - This Is Spinal Tap 1984
- - The Three Colors Trilogy
- - Through a Glass Darkly 1961
- - [Era Uma Vez em Tóquio] (Tokyo Story) 1953
- - Top Hat 1935
- - [A Marca da Maldade] (Touch of Evil) 1958
- - Touchez Pas au Grisbi 1954
- - The Treasure of the Sierra Madre 1948
- - Triumph of the Will 1935
- - Trouble in Paradise 1932
- - Ugetsu 1953
- - Umberto D. 1952
- - Unforgiven 1992
- - Vengeance Is Mine 1979
- - Veronika Voss 1982
- - [Um Corpo que Cai] (Vertigo) 1958
- - Victim 1961
- - Viridiana 1961
- - Vivre Sa Vie 1962
- - Waking Life 2001
- - Walkabout 1971
- - Werckmeister Harmonies 2000
- - West Side Story 1961
- - What Ever Happened to Baby Jane? 1962
- - The Wild Bunch 1969
- - Wings of Desire 1987
- - Winter Light 1963
- - Withnail & I 1987
- - [O Mágico de Oz] (The Wizard of Oz) 1939
- - Woman in the Dunes 1964
- - A Woman Under the Influence 1974
- - A Woman's Tale 1991
- - Woodstock 1970
- - WR: Mysteries of the Organism 1971
- - Written on the Wind 1956
- - Yankee Doodle Dandy 1942
- - A Year of the Quiet Sun 1984
- - Yellow Submarine 1968
- - Yojimbo 1961
+
+- [2001: Uma Odisseia no Espaço] (2001: A Space Odyssey) 1968
+
+- 25th Hour 2002
+
+- 3 Women 1977
+
+- 8½ 1963
+
+- Ace in the Hole 1951
+
+- [Adaptação] (Adaptation) 2002
+
+- The Adventures of Robin Hood 1938
+
+- After Dark, My Sweet 1990
+
+- After Hours 1985
+
+- The Age of Innocence 1993
+
+- Aguirre, the Wrath of God 1972
+
+- A.I. Artificial Intelligence 2001
+
+- Ali: Fear Eats the Soul 1974
+
+- [Alien] 1979
+
+- [A Malvada] (All About Eve) 1950
+
+- [Amadeus] 1984
+
+- Amarcord 1973
+
+- [Noivo Neurótico, Noiva Nervosa] (Annie Hall) 1977
+
+- [Se Meu Apartamento Falasse] (The Apartment) 1960
+
+- Apocalypse Now 1979
+
+- Pather Panchali 1955
+
+- Army of Shadows 1969
+
+- Atlantic City 1980
+
+- Au Hasard Balthazar 1966
+
+- Au Revoir les Enfants 1987
+
+- An Autumn Afternoon 1962
+
+- Babel 2006
+
+- Badlands 1973
+
+- The Ballad of Narayama 1958
+
+- The Band Wagon 1953
+
+- The Bank Dick 1940
+
+- Baraka 1992
+
+- [Barry Lyndon] 1975
+
+- The Battle of Algiers 1966
+
+- [O Encouraçado Potemkin] (Battleship Potemkin) 1925
+
+- Beat the Devil 1953
+
+- Beauty and the Beast 1946
+
+- Being There 1979
+
+- Belle de Jour 1967
+
+- La Belle Noiseuse 1991
+
+- The Best Years of Our Lives 1946
+
+- [Ladrões de Bicicleta] (Bicycle Thieves) 1948
+
+- The Big Heat 1953
+
+- [O Grande Lebowski] (The Big Lebowski) 1998
+
+- The Big Red One 1980
+
+- The Big Sleep 1946
+
+- The Birth of a Nation 1915
+
+- [Blade Runner] 1982
+
+- Blow-Up 1966
+
+- The Blue Kite 1993
+
+- Bob le Flambeur 1956
+
+- Body Heat 1981
+
+- Bonnie and Clyde 1967
+
+- Breathless 1960
+
+- The Bride of Frankenstein 1935
+
+- [A Ponte do Rio Kwai] (The Bridge on the River Kwai) 1957
+
+- Bring Me the Head of Alfredo Garcia 1974
+
+- Broken Blossoms 1919
+
+- Le Boucher 1970
+
+- [O Gabinete do Dr. Caligari] (The Cabinet of Dr. Caligari) 1920
+
+- Cabiria 1914
+
+- Caché 2005
+
+- Casablanca 1942
+
+- Cat People 1942
+
+- La Cérémonie 1995
+
+- Un Chien Andalou 1929
+
+- Children of Paradise 1945
+
+- Chimes at Midnight 1965
+
+- Chinatown 1974
+
+- Chop Shop 2007
+
+- A Christmas Story 1983
+
+- The Circus 1928
+
+- [Cidadão Kane] (Citizen Kane) 1941
+
+- City Lights 1931
+
+- [Cléo das 5 às 7] (Cléo from 5 to 7) 1962
+
+- La Collectionneuse 1967
+
+- The Color Purple 1985
+
+- Come and See 1985
+
+- [Contato] (Contact) 1997
+
+- [The Conversation] 1974
+
+- Cool Hand Luke 1967
+
+- Cries and Whispers 1972
+
+- [Crimes and Misdemeanors] 1989
+
+- Crumb 1994
+
+- Dark City 1998
+
+- Day for Night 1973
+
+- Days of Heaven 1978
+
+- The Dead 1987
+
+- The Decalogue 1989
+
+- [A Partida] (Departures) 2008
+
+- [Curva do Destino] (Detour) 1945
+
+- Diary of a Country Priest 1951
+
+- Diary of a Lost Girl 1929
+
+- The Discreet Charm of the Bourgeoisie 1972
+
+- Diva 1981
+
+- Do the Right Thing 1989
+
+- Dog Day Afternoon 1975
+
+- Don't Look Now 1973
+
+- Double Indemnity 1944
+
+- The Double Life of Véronique 1991
+
+- [Dr. Fantástico] (Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb) 1964
+
+- Dracula 1931
+
+- Duck Soup 1933
+
+- E.T. the Extra-Terrestrial 1982
+
+- The Earrings of Madame de... 1953
+
+- [Easy Rider] 1969
+
+- El Norte 1983
+
+- El Topo 1970
+
+- The Enigma of Kaspar Hauser 1974
+
+- [Brilho Eterno de Uma Mente Sem Lembranças] (Eternal Sunshine of the Spotless Mind) 2004
+
+- Exotica 1994
+
+- The Exterminating Angel 1962
+
+- The Fall of the House of Usher 1928
+
+- Fanny & Alexander 1982
+
+- [Fargo] 1996
+
+- Faust 1926
+
+- The Firemen's Ball 1967
+
+- Fitzcarraldo 1982
+
+- Five Easy Pieces 1970
+
+- Floating Weeds 1959
+
+- Forbidden Games 1952
+
+- The 400 Blows 1959
+
+- French Cancan 1955
+
+- Gates of Heaven 1978
+
+- [The General] 1926
+
+- The Godfather 1972
+
+- The Godfather: Part II 1974
+
+- [007 Contra Goldfinger] (Goldfinger) 1964
+
+- Gone with the Wind 1939
+
+- [Três Homens em Conflito] (The Good, the Bad and the Ugly) 1966
+
+- [Os Bons Companheiros] (GoodFellas) 1990
+
+- The Gospel According to Matthew 1964
+
+- Grand Illusion 1937
+
+- The Grapes of Wrath 1940
+
+- [Túmulo dos Vagalumes] (Grave of the Fireflies) 1988
+
+- The Great Dictator 1940
+
+- Great Expectations 1946
+
+- Greed 1924
+
+- The Grey Zone 2001
+
+- [Feitiço do Tempo] (Groundhog Day) 1993
+
+- The Hairdresser's Husband 1990
+
+- Harakiri 1962
+
+- [Os Reis do Iê-Iê-Iê] (A Hard Day's Night) 1964
+
+- Heart of Glass 1976
+
+- Hoop Dreams 1994
+
+- House of Games 1987
+
+- Howards End 1992
+
+- The Hustler 1961
+
+- Ikiru 1952
+
+- In a Lonely Place 1950
+
+- In Cold Blood 1967
+
+- Inherit the Wind 1960
+
+- It's a Wonderful Life 1946
+
+- Ivan the Terrible, Part I 1944
+
+- Ivan the Terrible, Part II: The Boyars' Plot 1958
+
+- Jaws 1975
+
+- JFK 1991
+
+- Johnny Guitar 1954
+
+- Jules and Jim 1962
+
+- Juliet of the Spirits 1965
+
+- Killer of Sheep 1978
+
+- [O Grande Golpe] (The Killing) 1956
+
+- Kind Hearts and Coronets 1949
+
+- King Kong 1933
+
+- L'Atalante 1934
+
+- L'Avventura 1960
+
+- [L.A. Confidential] 1997
+
+- La Dolce Vita 1960
+
+- The Lady Eve 1941
+
+- The Last Laugh 1924
+
+- The Last Picture Show 1971
+
+- Last Tango in Paris 1972
+
+- The Last Temptation of Christ 1988
+
+- Last Year at Marienbad 1961
+
+- Late Spring 1949
+
+- Laura 1944
+
+- [Lawrence of Arabia] 1962
+
+- Le Samouraï 1967
+
+- [Leaving Las Vegas] 1995
+
+- Leolo 1992
+
+- Léon Morin, Priest 1961
+
+- The Leopard 1963
+
+- The Life and Death of Colonel Blimp 1943
+
+- The Life of Oharu 1952
+
+- The Long Goodbye 1973
+
+- [Encontros e Desencontros] (Lost in Translation) 2003
+
+- [M, O Vampiro de Dusseldorf] (M) 1931
+
+- Magnolia 1999
+
+- Make Way for Tomorrow 1937
+
+- The Maltese Falcon 1941
+
+- A Man Escaped 1956
+
+- The Man Who Laughs 1928
+
+- The Man Who Shot Liberty Valance 1962
+
+- [Man with a Movie Camera] 1929
+
+- The Manchurian Candidate 1962
+
+- [Manhattan] 1979
+
+- The Marriage of Maria Braun 1979
+
+- The Match Factory Girl 1990
+
+- McCabe & Mrs. Miller 1971
+
+- Mean Streets 1973
+
+- Mephisto 1981
+
+- [Metropolis] 1927
+
+- Mishima: A Life in Four Chapters 1985
+
+- Mon Oncle 1958
+
+- Mon oncle Antoine 1971
+
+- My American Uncle 1980
+
+- Monsieur Hire 1989
+
+- Moolaadé 2004
+
+- Moonstruck 1987
+
+- Monsieur Hulot's Holiday 1953
+
+- Mulholland Drive 2001
+
+- The Music Room 1958
+
+- My Darling Clementine 1946
+
+- My Dinner with Andre 1981
+
+- My Fair Lady 1964
+
+- My Man Godfrey 1936
+
+- [Meu Amigo Totoro] (My Neighbor Totoro) 1988
+
+- Mystery Train 1989
+
+- Nanook of the North 1922
+
+- Nashville 1975
+
+- The Navigator 1924
+
+- [Rede de Intrigas] (Network) 1976
+
+- Night Moves 1975
+
+- The Night of the Hunter 1955
+
+- Nights of Cabiria 1957
+
+- [Nosferatu] 1922
+
+- Nosferatu the Vampyre 1979
+
+- Notorious 1946
+
+- On the Waterfront 1954
+
+- One Flew Over the Cuckoo's Nest 1975
+
+- The Only Son 1936
+
+- Ordet 1955
+
+- Orpheus 1950
+
+- Our Hospitality 1923
+
+- Out of the Past 1947
+
+- Pale Flower 1964
+
+- [O Labirinto do Fauno] (Pan's Labyrinth) 2006
+
+- Pandora's Box 1929
+
+- Paris, Texas 1984
+
+- The Passion of Joan of Arc 1928
+
+- Paths of Glory 1957
+
+- Patton 1970
+
+- Peeping Tom 1960
+
+- Persona 1966
+
+- The Phantom of the Opera 1925
+
+- Pickpocket 1959
+
+- Picnic at Hanging Rock 1975
+
+- [Pink Floyd: The Wall] 1982
+
+- Pinocchio 1940
+
+- [Pixote] 1981
+
+- [Antes Só do que Mal Acompanhado] (Planes, Trains and Automobiles) 1987
+
+- PlayTime 1967
+
+- The Pledge 2001
+
+- A Prairie Home Companion 2006
+
+- The Producers 1967
+
+- [Psicose] (Psycho) 1960
+
+- [Pulp Fiction] 1994
+
+- Raging Bull 1980
+
+- [Os Caçadores da Arca Perdida] (Raiders of the Lost Ark) 1981
+
+- Raise the Red Lantern 1991
+
+- Ran 1985
+
+- Rashomon 1950
+
+- [Janela Indiscreta] (Rear Window) 1954
+
+- [Juventude Transviada] (Rebel Without a Cause) 1955
+
+- Red Beard 1965
+
+- Red River 1948
+
+- The Red Shoes 1948
+
+- Richard III 1995
+
+- Rififi 1955
+
+- The Right Stuff 1983
+
+- Rio Bravo 1959
+
+- Ripley's Game 2002
+
+- Rocco and His Brothers 1960
+
+- The River 1951
+
+- Romeo and Juliet 1968
+
+- The Rules of the Game 1939
+
+- Safety Last! 1923
+
+- Samurai Rebellion 1967
+
+- Sansho the Bailiff 1954
+
+- Santa Sangre 1989
+
+- [Os Embalos de Sábado à Noite] (Saturday Night Fever) 1977
+
+- Say Anything... 1989
+
+- [Scarface] 1983
+
+- The Scarlet Empress 1934
+
+- Schindler's List 1993
+
+- The Searchers 1956
+
+- Secrets & Lies 1996
+
+- Senso 1954
+
+- Se7en 1995
+
+- Seven Samurai 1954
+
+- The Seventh Seal 1957
+
+- Shadow of a Doubt 1943
+
+- Shane 1953
+
+- The Shawshank Redemption 1994
+
+- The Shining 1980
+
+- Shoah 1985
+
+- The Silence of the Lambs 1991
+
+- The Silence 1963
+
+- Singin' in the Rain 1952
+
+- Smiles of a Summer Night 1955
+
+- [Branca de Neve e Os Sete Anões] (Snow White and the Seven Dwarfs) 1937
+
+- [Solaris] (1972)
+
+- [Quanto Mais Quente Melhor] (Some Like It Hot) 1959
+
+- Souls for Sale 1923
+
+- The Spirit of the Beehive 1973
+
+- [A Viagem de Chihiro] (Spirited Away) 2001
+
+- [Primavera, Verão, Outono, Inverno... e Primavera] (Spring, Summer, Fall, Winter... and Spring) 2003
+
+- Stagecoach 1939
+
+- [Star Wars: Guerra nas Estrelas] 1977
+
+- [Marinheiro de Encomenda] (Steamboat Bill, Jr.) 1928
+
+- Strangers on a Train 1951
+
+- Stroszek 1977
+
+- A Sunday in the Country 1984
+
+- Sunrise: A Song of Two Humans 1927
+
+- Sunset Boulevard 1950
+
+- [Superman] 1978
+
+- Sweet Smell of Success 1957
+
+- Swing Time 1936
+
+- [Conto de Inverno] (A Tale of Winter) 1992
+
+- [Taxi Driver] 1976
+
+- Tender Mercies 1983
+
+- The Terrorist 1998
+
+- The Thief of Bagdad 1940
+
+- The Thin Man 1934
+
+- [O Terceiro Homem] (The Third Man) 1949
+
+- This Is Spinal Tap 1984
+
+- The Three Colors Trilogy
+
+- Through a Glass Darkly 1961
+
+- [Era Uma Vez em Tóquio] (Tokyo Story) 1953
+
+- Top Hat 1935
+
+- [A Marca da Maldade] (Touch of Evil) 1958
+
+- Touchez Pas au Grisbi 1954
+
+- The Treasure of the Sierra Madre 1948
+
+- Triumph of the Will 1935
+
+- Trouble in Paradise 1932
+
+- Ugetsu 1953
+
+- Umberto D. 1952
+
+- Unforgiven 1992
+
+- Vengeance Is Mine 1979
+
+- Veronika Voss 1982
+
+- [Um Corpo que Cai] (Vertigo) 1958
+
+- Victim 1961
+
+- Viridiana 1961
+
+- Vivre Sa Vie 1962
+
+- Waking Life 2001
+
+- Walkabout 1971
+
+- Werckmeister Harmonies 2000
+
+- West Side Story 1961
+
+- What Ever Happened to Baby Jane? 1962
+
+- The Wild Bunch 1969
+
+- Wings of Desire 1987
+
+- Winter Light 1963
+
+- Withnail & I 1987
+
+- [O Mágico de Oz] (The Wizard of Oz) 1939
+
+- Woman in the Dunes 1964
+
+- A Woman Under the Influence 1974
+
+- A Woman's Tale 1991
+
+- Woodstock 1970
+
+- WR: Mysteries of the Organism 1971
+
+- Written on the Wind 1956
+
+- Yankee Doodle Dandy 1942
+
+- A Year of the Quiet Sun 1984
+
+- Yellow Submarine 1968
+
+- Yojimbo 1961
 
 [2001: Uma Odisseia no Espaço]: 2001_uma_odisseia_no_espaco
 [Adaptação]: adaptacao
@@ -71712,28 +72952,49 @@ tags: lists cinema
 
 Foi divulgada a lista dos filmes para a mostra desse ano. Já conheço alguns diretores por filmes anteriores.
 
- - Abel Ferrara (filmes nessa Mostra: O Projecionista) dirigiu o "abominável" [Bem-Vindo a Nova York], um estudo de personagem com Gérard Depardieu.
- - Ale McHaddo (filmes nessa Mostra: Osmar a Primeira Fatia do Pão de Forma) iniciou no cinema com uma animação tosquinha chamada [BugiGangue no Espaço], baseada em DVD educacional.
- - Aly Muritiba (filmes nessa Mostra: Irmãos Freitas) era um ex-agente penitenciário que virou diretor; é dele o sensacional [Para Minha Amada Morta] e ele volta a revisitar sua antiga profissão no ótimo [A Gente].
- - Beto Brant (filmes nessa Mostra: [O Invasor]) é o diretor de O Invasor, um filme catártico da época do renascimento do cinema brasileiro. Vale o ingresso.
- - Caco Ciocler (filmes nessa Mostra: [Partida]) atuou em [2 Coelhos], filme-referência nacional em edição de um filme dinâmico com plot twists como diversão, e agora estreia na direção.
- - Daniel Rezende (filmes nessa Mostra: Turma da Mônica: Laços) é o editor premiado de [Cidade de Deus] e já tem dois trabalhos na direção; na mostra será exibida a adaptação dos quadrinhos da Turma da Mônica.
- - Daniela Thomas (filmes nessa Mostra: Tuã Ingugu) é diretora brasileira, chegando a ter feito um curta para [Paris Te Amo].
- - Fatih Akin (filmes nessa Mostra: Contra a Parede) é o diretor alemão do ótimo thriller intimista [Em Pedaços], com Diane Kruger.
- - Fernando Grostein Andrade (filmes nessa Mostra: Abe, Encarcerados) é o diretor de documentário sobre a maconha, o internacional [Quebrando o Tabu].
- - Gavin Hood (filmes nessa Mostra: [Segredos Oficiais]) é diretor da questionável [adaptação do livro Ender's Game].
- - Heitor Dhalia (filmes nessa Mostra: Anna) é o diretor do excelente [O Cheiro do Ralo], com Selton Mello.
- - Ira Sachs (filmes nessa Mostra: Frankie) é diretor de um romance/drama sobre dois homossexuais de meia-idade bacana chamado [O Amor é Estranho].
- - Julia Rezende (filmes nessa Mostra: Depois a Louca Sou Eu) dirigiu uma vergonha alheia chamada [Como é Cruel Viver Assim], um dos tantos projetos financiados pela Ancine para mostrar as injustiças do mundo, adaptado de uma peça de Fernando Ceylão.
- - Luc Dardenne (filmes nessa Mostra: O Jovem Ahmed) é o diretor de um drama que estuda uma personagem descobrindo sua humanidade em [A Garota Desconhecida].
- - Mania Akbari (filmes nessa Mostra: Uma Lua Para Meu Pai) é a atriz do filme de Abbas Kiarostami que se passa totalmente em um carro, [Dez]; na mostra um de seus filmes como diretora será exibido.
- - Margarethe von Trotta (filmes nessa Mostra: As Mulheres da Rosenstrasse) é a diretora do interessante [O Mundo Fora do Lugar], sobre abuso psicológico.
- - Maria Ribeiro (filmes nessa Mostra: Outubro), a atriz (você vai lembrar dela como esposa do Capitão Nascimento em [Tropa de Elite]) que virou diretora com o ótimo documentário [Domingos], chega em novo filme.
- - Mohsen Makhmalbaf (filmes nessa Mostra: Margue e Sua Mãe) é o diretor iraniano do curioso e revelador [O Voto é Secreto].
- - Paulo Caldas (filmes nessa Mostra: Abismo Tropical, Flores do Cárcere) é diretor do brega [País do Desejo], com Fábio Assunção (você deve lembrar dele de algumas baladas de sexta à noite).
- - Robert Eggers (filmes nessa Mostra: [O Farol]) é diretor do terror tenso e premiado [A Bruxa].
- - Roschdy Zem (filmes nessa Mostra: Persona Non Grata) é diretor do drama histórico sobre racismo em [Chocolate].
- - Yorgos Lanthimos (filmes nessa Mostra: Nimic) é o diretor premiado ano passado pelo espetacular [A Favorita], e que chega com novo filme Nimic.
+- Abel Ferrara (filmes nessa Mostra: O Projecionista) dirigiu o "abominável" [Bem-Vindo a Nova York], um estudo de personagem com Gérard Depardieu.
+
+- Ale McHaddo (filmes nessa Mostra: Osmar a Primeira Fatia do Pão de Forma) iniciou no cinema com uma animação tosquinha chamada [BugiGangue no Espaço], baseada em DVD educacional.
+
+- Aly Muritiba (filmes nessa Mostra: Irmãos Freitas) era um ex-agente penitenciário que virou diretor; é dele o sensacional [Para Minha Amada Morta] e ele volta a revisitar sua antiga profissão no ótimo [A Gente].
+
+- Beto Brant (filmes nessa Mostra: [O Invasor]) é o diretor de O Invasor, um filme catártico da época do renascimento do cinema brasileiro. Vale o ingresso.
+
+- Caco Ciocler (filmes nessa Mostra: [Partida]) atuou em [2 Coelhos], filme-referência nacional em edição de um filme dinâmico com plot twists como diversão, e agora estreia na direção.
+
+- Daniel Rezende (filmes nessa Mostra: Turma da Mônica: Laços) é o editor premiado de [Cidade de Deus] e já tem dois trabalhos na direção; na mostra será exibida a adaptação dos quadrinhos da Turma da Mônica.
+
+- Daniela Thomas (filmes nessa Mostra: Tuã Ingugu) é diretora brasileira, chegando a ter feito um curta para [Paris Te Amo].
+
+- Fatih Akin (filmes nessa Mostra: Contra a Parede) é o diretor alemão do ótimo thriller intimista [Em Pedaços], com Diane Kruger.
+
+- Fernando Grostein Andrade (filmes nessa Mostra: Abe, Encarcerados) é o diretor de documentário sobre a maconha, o internacional [Quebrando o Tabu].
+
+- Gavin Hood (filmes nessa Mostra: [Segredos Oficiais]) é diretor da questionável [adaptação do livro Ender's Game].
+
+- Heitor Dhalia (filmes nessa Mostra: Anna) é o diretor do excelente [O Cheiro do Ralo], com Selton Mello.
+
+- Ira Sachs (filmes nessa Mostra: Frankie) é diretor de um romance/drama sobre dois homossexuais de meia-idade bacana chamado [O Amor é Estranho].
+
+- Julia Rezende (filmes nessa Mostra: Depois a Louca Sou Eu) dirigiu uma vergonha alheia chamada [Como é Cruel Viver Assim], um dos tantos projetos financiados pela Ancine para mostrar as injustiças do mundo, adaptado de uma peça de Fernando Ceylão.
+
+- Luc Dardenne (filmes nessa Mostra: O Jovem Ahmed) é o diretor de um drama que estuda uma personagem descobrindo sua humanidade em [A Garota Desconhecida].
+
+- Mania Akbari (filmes nessa Mostra: Uma Lua Para Meu Pai) é a atriz do filme de Abbas Kiarostami que se passa totalmente em um carro, [Dez]; na mostra um de seus filmes como diretora será exibido.
+
+- Margarethe von Trotta (filmes nessa Mostra: As Mulheres da Rosenstrasse) é a diretora do interessante [O Mundo Fora do Lugar], sobre abuso psicológico.
+
+- Maria Ribeiro (filmes nessa Mostra: Outubro), a atriz (você vai lembrar dela como esposa do Capitão Nascimento em [Tropa de Elite]) que virou diretora com o ótimo documentário [Domingos], chega em novo filme.
+
+- Mohsen Makhmalbaf (filmes nessa Mostra: Margue e Sua Mãe) é o diretor iraniano do curioso e revelador [O Voto é Secreto].
+
+- Paulo Caldas (filmes nessa Mostra: Abismo Tropical, Flores do Cárcere) é diretor do brega [País do Desejo], com Fábio Assunção (você deve lembrar dele de algumas baladas de sexta à noite).
+
+- Robert Eggers (filmes nessa Mostra: [O Farol]) é diretor do terror tenso e premiado [A Bruxa].
+
+- Roschdy Zem (filmes nessa Mostra: Persona Non Grata) é diretor do drama histórico sobre racismo em [Chocolate].
+
+- Yorgos Lanthimos (filmes nessa Mostra: Nimic) é o diretor premiado ano passado pelo espetacular [A Favorita], e que chega com novo filme Nimic.
 
 [2 Coelhos]: 2_coelhos
 [A Bruxa]: a_bruxa_2015
@@ -73406,17 +74667,24 @@ Dois scripts estão disponíveis para iniciar e parar a arquitetura de exemplo a
 Para observar a performance da solução os exemplos de client e server servirão para medir a eficiência de uma comunicação onde as bridges se tornam instáveis, e para isso eles precisarão de uma rota remota entre as bridges. Este teste requer ao menos uma máquina a mais que esteja acessível na rede pelas portas a serem usadas (pode ser uma máquina virtual). Altere a execução das bridges da seguinte forma, trocando o endereço remoto pelo correto:
 
 #### main computer
- - socat udp-listen:4001 udp4:remote_address:5001&
- - socat udp-listen:4002 udp4:remote_address:5002&
- - socat udp-listen:4003 udp4:remote_address:5003&
+
+- socat udp-listen:4001 udp4:remote_address:5001&
+
+- socat udp-listen:4002 udp4:remote_address:5002&
+
+- socat udp-listen:4003 udp4:remote_address:5003&
 
 #### failback
- - socat udp-listen:4004 udp4:localhost:2000&
+
+- socat udp-listen:4004 udp4:localhost:2000&
 
 #### remote computer
- - socat udp-listen:5001 udp4:local_address:2000&
- - socat udp-listen:5002 udp4:local_address:2000&
- - socat udp-listen:5003 udp4:local_address:2000&
+
+- socat udp-listen:5001 udp4:local_address:2000&
+
+- socat udp-listen:5002 udp4:local_address:2000&
+
+- socat udp-listen:5003 udp4:local_address:2000&
 
 Isso fará com que três dos quatros bridges sejam remotos, enquanto o último estará funcionando totalmente local. Ao iniciar o mptunnel nesta configuração a comunicação entre udpclient e udpserver continuará funcionando na mesma velocidade mesmo que a comunicação na rede seja interrompida, graças ao quarto caminho totalmente local.
 
@@ -73444,13 +74712,19 @@ tags: food cooking
 
 Testei por alguns anos receitas diversas. Cheguei a um cálculo bem simples de seguir que não é tão trabalhoso, embora exija paciência na hora de sovar. Para um panetone médio você vai precisar de:
 
- - 250g de farinha de trigo;
- - 3 ovos;
- - fermento instantâneo (3g);
- - 3g de sal;
- - 60g de manteiga sem sal;
- - 60g de açúcar;
- - 100g de chocolate forneável.
+- 250g de farinha de trigo;
+
+- 3 ovos;
+
+- fermento instantâneo (3g);
+
+- 3g de sal;
+
+- 60g de manteiga sem sal;
+
+- 60g de açúcar;
+
+- 100g de chocolate forneável.
 
 Em cima dessa base se insere sabor usando essência de panetone e essência de baunilha, que se encontram em casas de confeitaria ou até supermercados. Meia a uma colher de sopa cada. Pode adicionar opcionalmente um tantinho de mel.
 
@@ -73649,17 +74923,17 @@ tags: food cooking
 
 Pesquisando sobre como tornar o fermento (e o pão feito com ele) menos azedo que o tradicional pão de fermentação longa, encontrei este artigo dividido em duas partes. Essas anotações dizem respeito à primeira parte.
 
- - Os elementos para controlar o azedo do pão deste artigo são temperatura, escolha da farinha e maturidade.
+- Os elementos para controlar o azedo do pão deste artigo são temperatura, escolha da farinha e maturidade.
 
- - Farinha branca entre 21 e 24 graus favorece menos acidez, e farinha integral entre 28 e 29 graus uma maior acidez, e o estado de maturação com menos acidez é no ou logo antes do pico do crescimento para o fermento, e no caso da massa até o dobro. Para uma maior acidez espere até o fermento baixar e no caso da massa mais que dobrar de tamanho.
+- Farinha branca entre 21 e 24 graus favorece menos acidez, e farinha integral entre 28 e 29 graus uma maior acidez, e o estado de maturação com menos acidez é no ou logo antes do pico do crescimento para o fermento, e no caso da massa até o dobro. Para uma maior acidez espere até o fermento baixar e no caso da massa mais que dobrar de tamanho.
 
- - Quem gera a acidez são os lactobacilos da cultura, enquanto quem gera gás carbônico é a levedura, um fungo unicelular presente na cultura do fermento. Há uma simbiose entre eles, na proporção aproximada de 100 lactobacilos por levedura, mas pode-se favorecer o aumento de um ou de outro, sendo que a tendência é que os lactobacilos (as bactérias) aumentem e a levedura permaneça em um nível populacional.
+- Quem gera a acidez são os lactobacilos da cultura, enquanto quem gera gás carbônico é a levedura, um fungo unicelular presente na cultura do fermento. Há uma simbiose entre eles, na proporção aproximada de 100 lactobacilos por levedura, mas pode-se favorecer o aumento de um ou de outro, sendo que a tendência é que os lactobacilos (as bactérias) aumentem e a levedura permaneça em um nível populacional.
 
- - Um pão saudável é desenvolvido através de um fermento que neutralize o ácido fítico, e a presença do ácido láctico auxilia nesse controle. Porém, a contrapartida é que soluções muito ácidas irão gerar pães mais azedos. Podemos fazer uma relação simplória entre pães mais azedos e mais saudáveis, e se o objetivo for um sabor mais suave acabaremos sacrificando parte da saúde do pão.
+- Um pão saudável é desenvolvido através de um fermento que neutralize o ácido fítico, e a presença do ácido láctico auxilia nesse controle. Porém, a contrapartida é que soluções muito ácidas irão gerar pães mais azedos. Podemos fazer uma relação simplória entre pães mais azedos e mais saudáveis, e se o objetivo for um sabor mais suave acabaremos sacrificando parte da saúde do pão.
 
- - A maturidade da fermentação determina a quantidade de acidez. Em torno do pico de altura da massa madre é onde existe a menor acidez, mas o tempo de fermentação da massa (e seu volume) também irão determinar a acidez do pão.
+- A maturidade da fermentação determina a quantidade de acidez. Em torno do pico de altura da massa madre é onde existe a menor acidez, mas o tempo de fermentação da massa (e seu volume) também irão determinar a acidez do pão.
 
- - Para qualquer mudança no regime de alimentação do fermento, como temperatura, farinha e hidratação, demora cerca de 10 dias para que essas mudanças sejam sentidas na cultura (há uma discussão sobre o ritmo de refresh nos comentários e a reação das novas bactérias sendo adicionadas, mas faltam evidências).
+- Para qualquer mudança no regime de alimentação do fermento, como temperatura, farinha e hidratação, demora cerca de 10 dias para que essas mudanças sejam sentidas na cultura (há uma discussão sobre o ritmo de refresh nos comentários e a reação das novas bactérias sendo adicionadas, mas faltam evidências).
 
 # Teasing Master: Takagi-san
 date: 2019-12-26
@@ -74565,10 +75839,13 @@ O autor vai aos poucos destrinchando as diferentes formas de estruturar uma ou m
 
 Eu preciso frisar essa busca do autor pelos exemplos, pois eles são a melhor forma do leitor aprender de maneira definitiva o que se quer dizer com processos estilísticos com nomes obscuros. Sobre paralelismo, por exemplo, há diferentes maneiras de se expressar, e o autor vai buscar inspiração, mesmo em prosa, até mesmo na métrica das sílabas usadas. Essa fascinação pelo estilo é contagiosa, e logo nos acostumamos a apreciar o uso de contraste do Padre Vieira, de quem o autor extrai muitos ótimos exemplos. Ao mesmo tempo, ele não se esquece dos clássicos mais populares, como ao mostrar a deliciosa ruptura de paralelismo semântico de Machado de Assis. E, por fim, incapaz de dar por encerrada a questão, até seus devaneios em busca das imprecisões da comunicação, como no exemplo de ruptura semântica que "não soa certo", mesmo sem saber por quê, o autor nos conquista por sua humildade e pela busca das respostas como mais importante do que tê-las para nos satisfazer por completo, demonstrando com isso que a língua é muito mais um processo do que um projeto finalizado.
 
- - "... quando pensava em ti, via-te delicada como todas as flores, (sete sílabas) voluptuosa como todas as pombas (sete sílabas) luminosa como todas as estrelas (oito sílabas) (Eça de Queirós, Prosas bárbaras apud Cal, 1954:277)"
- - "Se os olhos veem com amor, o corvo é branco; se com ódio, o cisne é negro; se com amor, o demônio é formoso; se com ódio, o anjo é feio; se com amor, o pigmeu é gigante. (Vieira, "Sermão da quinta quarta-feira", Sermões e lugares seletos apud Viana, 1945:214)"
- - "Gastei trinta dias para ir do Rocio Grande ao coração de Marcela. (...) Marcela amou-me durante quinze dias e onze contos de réis."
- - "... encontrei no trem da Central um rapaz aqui do bairro, que eu conheço de vista e de chapéu."
+- "... quando pensava em ti, via-te delicada como todas as flores, (sete sílabas) voluptuosa como todas as pombas (sete sílabas) luminosa como todas as estrelas (oito sílabas) (Eça de Queirós, Prosas bárbaras apud Cal, 1954:277)"
+
+- "Se os olhos veem com amor, o corvo é branco; se com ódio, o cisne é negro; se com amor, o demônio é formoso; se com ódio, o anjo é feio; se com amor, o pigmeu é gigante. (Vieira, "Sermão da quinta quarta-feira", Sermões e lugares seletos apud Viana, 1945:214)"
+
+- "Gastei trinta dias para ir do Rocio Grande ao coração de Marcela. (...) Marcela amou-me durante quinze dias e onze contos de réis."
+
+- "... encontrei no trem da Central um rapaz aqui do bairro, que eu conheço de vista e de chapéu."
 
 "Mas, às vezes, a falta de paralelismo semântico configura-se como incongruência de tal ordem, que a frase se revela agramatical (ou, pelo menos, de gramaticalidade discutível). É o caso, por exemplo, de frases do tipo da seguinte: "Fulano é cordial e alfaiate." Não é fácil explicar por que ela é inaceitável. Mas é certo que o "sentimento linguístico" — a "competência" do falante ou ouvinte — rejeita essa coordenação entre "cordial" (adj.) e "alfaiate" (subst.)."
 
@@ -74626,15 +75903,24 @@ Comunicação em Prosa Moderna possui em seu núcleo as próprias ferramentas pa
 
 Deixo-os com o guia de Whitaker Penteado, citado por M. Garcia, de como refutar ideias ou argumentos.
 
- 1. Procure refutar o argumento que lhe pareça mais forte. Comece por ele.
- 2. Procure atacar os pontos fracos da argumentação contrária.
- 3. Utilize a técnica de "redução às últimas consequências", levando os argumentos contrários ao máximo de sua extensão.
- 4. Veja se o opositor apresentou uma evidência adequada ao argumento empregado.
- 5. Escolha uma autoridade que tenha dito exatamente o contrário do que afirma o seu opositor.
- 6. Aceite os fatos, mas demonstre que foram mal-empregados.
- 7. Ataque a fonte na qual se basearam os argumentos do seu opositor.
- 8. Cite outros exemplos semelhantes, que provem exatamente o contrário dos argumentos que lhe são apresentados pelo opositor.
- 9. Demonstre que a citação feita pelo opositor foi deturpada, com a omissão de palavras ou de toda a sentença que diria o contrário do que quis dizer o opositor.
+1. Procure refutar o argumento que lhe pareça mais forte. Comece por ele.
+
+2. Procure atacar os pontos fracos da argumentação contrária.
+
+3. Utilize a técnica de "redução às últimas consequências", levando os argumentos contrários ao máximo de sua extensão.
+
+4. Veja se o opositor apresentou uma evidência adequada ao argumento empregado.
+
+5. Escolha uma autoridade que tenha dito exatamente o contrário do que afirma o seu opositor.
+
+6. Aceite os fatos, mas demonstre que foram mal-empregados.
+
+7. Ataque a fonte na qual se basearam os argumentos do seu opositor.
+
+8. Cite outros exemplos semelhantes, que provem exatamente o contrário dos argumentos que lhe são apresentados pelo opositor.
+
+9. Demonstre que a citação feita pelo opositor foi deturpada, com a omissão de palavras ou de toda a sentença que diria o contrário do que quis dizer o opositor.
+
 10. Analise cuidadosamente os argumentos contrários, dissecando-os para revelar as falsidades que contêm.
 
 Boa sorte.
@@ -74652,7 +75938,7 @@ Cal Newport é um professor universitário que, junto de outras pessoas, aprende
 
 "Shallow Work: Noncognitively demanding, logistical-style tasks, often performed while distracted. These efforts tend to not create much new value in the world and are easy to replicate."
 
- - The Deep Work Hypothesis: The ability to perform deep work is becoming increasingly rare at exactly the same time it is becoming increasingly valuable in our economy. As a consequence, the few who cultivate this skill, and then make it the core of their working life, will thrive.
+- The Deep Work Hypothesis: The ability to perform deep work is becoming increasingly rare at exactly the same time it is becoming increasingly valuable in our economy. As a consequence, the few who cultivate this skill, and then make it the core of their working life, will thrive.
 
 Newport nos dá motivos econômicos no começo do seu livro de por quê seria interessante para o leitor se dedicar a deep work, já que ele será cada vez mais bem remunerado em um mundo de distrações. Porém, ele também nos dá um alerta para a época em que vivemos, sugerindo através de algumas evidências científicas de que viver sob distrações todos os dias pode danificar de maneira permanente de nos concentrarmos por longos períodos.
 
@@ -74796,9 +76082,11 @@ tags: computer
 
 Há vários tutoriais na internet sobre seu uso (como o da Atlasian), além do próprio manual do Git e sua ajuda. Só quero enfatizar neste post que ele existe, é fácil de usar, e pode resolver alguns problemas de gerenciamento de projeto:
 
- - Unir repositórios que foram separados em algum momento ou que nasceram separados.
- - Unir dependências que não estão online, mas que precisam estar caminhando em paralelo.
- - Compor árvores de histórico distintas e não se preocupar muito de onde elas vieram (exceto quando for necessário juntar de novo, e nesse caso o commit que as une possui algumas informações).
+- Unir repositórios que foram separados em algum momento ou que nasceram separados.
+
+- Unir dependências que não estão online, mas que precisam estar caminhando em paralelo.
+
+- Compor árvores de histórico distintas e não se preocupar muito de onde elas vieram (exceto quando for necessário juntar de novo, e nesse caso o commit que as une possui algumas informações).
 
 # What Did Jack Do?
 date: 2020-03-22
@@ -74990,10 +76278,13 @@ Cozinhe o macarrão. Pese e reserve os ingredientes enquanto isso. Separe as gem
 
 ## Dicas do Fabio
 
- - Massa do macarrão com mais amido deixa o molho mais grosso (aquelas massas que parecem empoeiradas).
- - Ovo caipira possui gema mais densa, o que também contribui para o molho.
- - Ralar o queijo bem fino e misturar com a gema; jogue parte da água quente para já ir diluindo antes de misturar com a massa.
- - Se conseguir use bacon da bochecha do porco (não sei o motivo).
+- Massa do macarrão com mais amido deixa o molho mais grosso (aquelas massas que parecem empoeiradas).
+
+- Ovo caipira possui gema mais densa, o que também contribui para o molho.
+
+- Ralar o queijo bem fino e misturar com a gema; jogue parte da água quente para já ir diluindo antes de misturar com a massa.
+
+- Se conseguir use bacon da bochecha do porco (não sei o motivo).
 
 # O Menino que Descobriu o Vento
 date: 2020-04-05
@@ -75875,24 +77166,33 @@ END { print " - DONE -" }
 
 ## Tricks
 
- - Awk tem internamente dois tipos primitivos (fora o array associativo): `float` e `string`.
- - Awk converte "123X" em 0; Nawk converte em 123.
- - A value of 0 is false, while anything else is true.
- - Undefined variables has the value of 0.
- - Unlike AWK, NAWK lets you use booleans as integers.
- - A positional variable is not a special variable, but a function triggered by the dollar sign.
- - All interpreter scripts accept one and only one argument; so, `/bin/awk -f`.
+- Awk tem internamente dois tipos primitivos (fora o array associativo): `float` e `string`.
+
+- Awk converte "123X" em 0; Nawk converte em 123.
+
+- A value of 0 is false, while anything else is true.
+
+- Undefined variables has the value of 0.
+
+- Unlike AWK, NAWK lets you use booleans as integers.
+
+- A positional variable is not a special variable, but a function triggered by the dollar sign.
+
+- All interpreter scripts accept one and only one argument; so, `/bin/awk -f`.
 
 ## Research
 
- - [Análise de DNA]
- - [Análise de performance]
+- [Análise de DNA]
+
+- [Análise de performance]
 
 ## Reference
 
- - [Awk in 20 Minutes], de Fred Hebert.
- - [Tutorial from an Experient Mind], de Bruce Barnett.
- - [Gawk Guide].
+- [Awk in 20 Minutes], de Fred Hebert.
+
+- [Tutorial from an Experient Mind], de Bruce Barnett.
+
+- [Gawk Guide].
 
 [palestrar sobre]: https://github.com/Caloni/lectures/blob/master/awk.pdf
 [Análise de DNA]: awk_dna
@@ -75969,7 +77269,7 @@ tags: coffee
 
 - 2021-05-15 Frutado maduro e tânico, esse Bourbon faz um belo corpo com poucos grãos. Sua persistência é perene; minutos depois do último gole ainda fica a sensação de um ótimo café.
 
- - 2020-05-13 A torra foi feita na quinta, quarto dia de junho, e eu recebi na noite de segunda e foi o café da manhã da terça. Moído na hora para coado, vinte e poucos gramas, e passado na Aeopress com cerca de um minuto de infusão, seguindo da já tradicional virada antes de abaixar o êmbolo, este café ultra-fresco trouxe para mim, diferente de sua ficha, notas cítricas, lembrando limão. O sabor com certeza é tânico, algo que adoro e que me traz um vício desgraçado. O amargor desta torra média é equilibrado e seu corpo é quase médio.
+- 2020-05-13 A torra foi feita na quinta, quarto dia de junho, e eu recebi na noite de segunda e foi o café da manhã da terça. Moído na hora para coado, vinte e poucos gramas, e passado na Aeopress com cerca de um minuto de infusão, seguindo da já tradicional virada antes de abaixar o êmbolo, este café ultra-fresco trouxe para mim, diferente de sua ficha, notas cítricas, lembrando limão. O sabor com certeza é tânico, algo que adoro e que me traz um vício desgraçado. O amargor desta torra média é equilibrado e seu corpo é quase médio.
 
 # Historical Price
 date: 2020-06-13
@@ -76523,23 +77823,23 @@ Porém, ele não é um café caro dentro dos padrões gourmet e pode fazer compa
 
 Tanto o Bourbon quanto o Gourmet ficaram mais próximo daquele suco de café que quem não curte amargo deve apreciar. Tanto que não precisa da mesma quantidade de Bourbon para o mesmo volume de água.
 
- - 2018-02-04 Bourbon. O aroma e gosto da avelã e o equilíbrio entre um leve amargor e o tânico tornam este café um dos mais balanceados e leves que já provei. Passado na aeropress após moer do grão.
+- 2018-02-04 Bourbon. O aroma e gosto da avelã e o equilíbrio entre um leve amargor e o tânico tornam este café um dos mais balanceados e leves que já provei. Passado na aeropress após moer do grão.
 
- - 2018-03-19 Espresso. Essa versão do café do Espírito Santo do Pinhal tem uma torra mais intensa e um amargor equilibrado em corpo médio com um tânico no retrogosto médio. Moídos 23g e passado na Aeropress.
+- 2018-03-19 Espresso. Essa versão do café do Espírito Santo do Pinhal tem uma torra mais intensa e um amargor equilibrado em corpo médio com um tânico no retrogosto médio. Moídos 23g e passado na Aeropress.
 
- - 2018-05-22 Espresso. É o café com gosto de café do Espírito Santo do Pinhal, no limite entre Minas Gerais e São Paulo. Amargo e forte na medida certa, você ajusta com a quantidade de pó. O corpo é médio pra forte. Para mim 20g em um aeropress é viciante porque é leve, mas para os que gostam de mais força recomendo 30g.
+- 2018-05-22 Espresso. É o café com gosto de café do Espírito Santo do Pinhal, no limite entre Minas Gerais e São Paulo. Amargo e forte na medida certa, você ajusta com a quantidade de pó. O corpo é médio pra forte. Para mim 20g em um aeropress é viciante porque é leve, mas para os que gostam de mais força recomendo 30g.
 
- - 2018-09-14 Bourbon. São fracos demais? Esse Loretto possui um equilíbrio entre amargor, doçura e corpo imbatíveis. Seu doce desagradará o brasileiro médio, que gosta de um soco no estômago. Passados 23g em moagem fina por 1.5 min na Aeropress com 350ml de água próxima de ferver.
+- 2018-09-14 Bourbon. São fracos demais? Esse Loretto possui um equilíbrio entre amargor, doçura e corpo imbatíveis. Seu doce desagradará o brasileiro médio, que gosta de um soco no estômago. Passados 23g em moagem fina por 1.5 min na Aeropress com 350ml de água próxima de ferver.
 
- - 2019-01-23 Bourbon. Cold Brew de casa extraordinariamente excelente; você começa a sentir vários sabores que vão se alterando conforme o gelo derrete e torna a bebida mais suave.
+- 2019-01-23 Bourbon. Cold Brew de casa extraordinariamente excelente; você começa a sentir vários sabores que vão se alterando conforme o gelo derrete e torna a bebida mais suave.
 
- - 2019-02-10 Premium Espresso. É um dos melhores 100% arábica com ótimo custo/benefício do mercado. Os caras torram os grãos a semanas de vender no Mercado Livre. Essa é a versão adocicada e ligeiramente mais intensa que o Bourbon, ótimo para fazer um espresso. Mas como eu só tenho aeropress quebra o galho.
+- 2019-02-10 Premium Espresso. É um dos melhores 100% arábica com ótimo custo/benefício do mercado. Os caras torram os grãos a semanas de vender no Mercado Livre. Essa é a versão adocicada e ligeiramente mais intensa que o Bourbon, ótimo para fazer um espresso. Mas como eu só tenho aeropress quebra o galho.
 
- - 2019-02-24 Blend Caseiro. Este espresso arábica e bourbon na prensa francesa me impressionou pela delicadeza das notas doces, que por contraste torna o 100% espresso um café de quem dá o toba.
+- 2019-02-24 Blend Caseiro. Este espresso arábica e bourbon na prensa francesa me impressionou pela delicadeza das notas doces, que por contraste torna o 100% espresso um café de quem dá o toba.
 
- - 2019-04-28 Bourbon, que é doce, corpo leve pra médio, retrogosto esquecível, mas com uma leve lembrança que dá vontade de passar mais uma caneca.
+- 2019-04-28 Bourbon, que é doce, corpo leve pra médio, retrogosto esquecível, mas com uma leve lembrança que dá vontade de passar mais uma caneca.
 
- - 2019-05-20 Anda com os grãos muito feios. O sabor tem mudado um pouco também, sem tantas nuances.
+- 2019-05-20 Anda com os grãos muito feios. O sabor tem mudado um pouco também, sem tantas nuances.
 
 # Pacotes Nuget Again
 date: 2020-08-04
@@ -76690,9 +77990,9 @@ tags: coffee
 
 - 2021-05-15 O que pode ser mais bixa que café moído na hora? Café em grãos descafeinado, é claro. Este post é apenas para dizer que, sim, Orfeu Descafeinado em Grãos é que nem o Orfeu tradicional. Mais a bixisse.
 
- - 2020-08-12 A torra escura descafeinada do Orfeu lembra cafés mineiros, mas mais pela moagem extremamente fina e a torra do que o sabor, que é mais equilibrado e consistente. Seu corpo é médio, mas para os fãs do estilo americano colocar mais um pouco de água pode deixar ele no ponto.
+- 2020-08-12 A torra escura descafeinada do Orfeu lembra cafés mineiros, mas mais pela moagem extremamente fina e a torra do que o sabor, que é mais equilibrado e consistente. Seu corpo é médio, mas para os fãs do estilo americano colocar mais um pouco de água pode deixar ele no ponto.
 
- - 2019-01-04 Da Fazenda Sertãozinho Sul de Minas, 100% arábica que tem aquela bichisse característica dos vinhos chabiscleitons em níveis aceitáveis para se tornar elegante; corpo médio e boas intenções, merece ser degustado puro e sem açúcar, com doce indelével fraco.
+- 2019-01-04 Da Fazenda Sertãozinho Sul de Minas, 100% arábica que tem aquela bichisse característica dos vinhos chabiscleitons em níveis aceitáveis para se tornar elegante; corpo médio e boas intenções, merece ser degustado puro e sem açúcar, com doce indelével fraco.
 
 # A Mulher do Aviador
 date: 2020-08-19
@@ -77113,15 +78413,23 @@ Sendo assim, segue a lista desse primeiro fim-de-semana. Os textos estão horrí
 
 (1) tudo começou com meu amigo sugerindo assistir [Steins;Gate] e após isso me recomendou o vídeo [How to Recognize a Great Anime] (in just one episode).
 
- - [Keep Your Hands Off Eizouken!]
- - [Love is Like a Cocktail]
- - [I Can't Understand What My Husband Is Saying]
- - [Blend-S]
- - [Tsudedure Children]
- - [Love Tyrant]
- - [Pop Team Epic]
- - [My First Girlfriend is a Gal]
- - [Tonari no Seki-kun: The Master of Killing Time]
+- [Keep Your Hands Off Eizouken!]
+
+- [Love is Like a Cocktail]
+
+- [I Can't Understand What My Husband Is Saying]
+
+- [Blend-S]
+
+- [Tsudedure Children]
+
+- [Love Tyrant]
+
+- [Pop Team Epic]
+
+- [My First Girlfriend is a Gal]
+
+- [Tonari no Seki-kun: The Master of Killing Time]
 
 [Keep Your Hands Off Eizouken!]: keep_your_hands_off_eizouken
 [Love is Like a Cocktail]: love_is_like_a_cocktail
@@ -77643,16 +78951,25 @@ tags: lists
 
 Segue a lista de [palestras que ministrei ao longo dos anos] que possuem alguns slides úteis (os com slides inúteis não estão disponíveis e devem estar na memória dos que assistiram ou em algum post perdido por aí). Have fun =)
 
- - [Antidebugging: Eu Não Quero que Você Mexa no Meu Código]
- - [AWK]
- - [Depurando até o Fim do Mundo]
- - [Engenharia Reversa para Principiantes]
- - [Entendendo a Compilação]
- - [Patch de Emergência]
- - [Pôquer Online]
- - [Resumo de Debug Remoto]
- - [Stack Overflow]
- - [Troubleshooting em Equipes Remotas com Debugging Tools]
+- [Antidebugging: Eu Não Quero que Você Mexa no Meu Código]
+
+- [AWK]
+
+- [Depurando até o Fim do Mundo]
+
+- [Engenharia Reversa para Principiantes]
+
+- [Entendendo a Compilação]
+
+- [Patch de Emergência]
+
+- [Pôquer Online]
+
+- [Resumo de Debug Remoto]
+
+- [Stack Overflow]
+
+- [Troubleshooting em Equipes Remotas com Debugging Tools]
 
 [palestras que ministrei ao longo dos anos]: https://www.slideshare.net/WanderleyCaloni
 [Antidebugging: Eu Não Quero que Você Mexa no Meu Código]: https://github.com/Caloni/lectures/blob/master/antidebugging-eu-nao-quero-que-vc-mexa-no-meu-codigo.pdf
@@ -77765,7 +79082,6 @@ O surgimento do gramofone, do rádio, da TV e dos video-games, segundo o autor, 
 [Deep Work]: https://caloni.com.br/deep-work/
 [efeito Zeigarnik]: https://en.wikipedia.org/wiki/Zeigarnik_effect
 [mielina]: https://pt.wikipedia.org/wiki/Bainha_de_mielina
-
 [Technology is Heroin]: http://tiny-giant-books.com/Entry1.html?EntryId=recgcpfuOFUesUpRy
 
 # Borat: Fita de Cinema Seguinte
@@ -77981,9 +79297,11 @@ Inspirado no [post que vi] de meu amigo DQ sobre resoluções de ano-novo, algo 
 
 Hoje abro nesse momento o caderno cuja primeira página havia preenchido e nunca mais olhado. Eis a minha pequena lista:
 
- 1. Assistir um DVD por semana.
- 2. Escrever 10 minutos por dia.
- 3. Andar de bike 1 vez por semana.
+1. Assistir um DVD por semana.
+
+2. Escrever 10 minutos por dia.
+
+3. Andar de bike 1 vez por semana.
 
 Vejamos os resultados.
 
@@ -78005,9 +79323,11 @@ Enfim, minhas resoluções para o ano que inicia:
 
 ## Resolução 2021
 
- 1. Assistir um DVD por semana.
- 2. Revisar textos antigos todo dia.
- 3. Andar de bike 1 vez por semana.
+1. Assistir um DVD por semana.
+
+2. Revisar textos antigos todo dia.
+
+3. Andar de bike 1 vez por semana.
 
 Sim, continua basicamente o mesmo, exceto o foco no item 2 para revisão em vez de escrever novos textos. Com os novos dados sobre o contágio do vírus e vendo que as pessoas estão menos paranoicas a respeito disso, exceto as malucas, mas que não devo encontrar nas minhas pedaladas, resolvi manter minha tarefa número 3, o que para mim significa reativar minha bicicleta e adicionar mais um exercício semanal além do matinal, que realizei com significativa frequência esse ano.
 
@@ -78105,11 +79425,11 @@ tags: coffee
 
 No meio das minhas compras de estocagem de café peguei 250g deste grão que veio lá da região de Média Mogiana, em São Sebastião da Grama, interior de SP (mas do lado de MG). Ele pode ser encontrado no mercado Santa Luzia e comprado online.
 
- - 2021-02-16 O sabor dele não é frutado: é herbáceo. A torra me pareceu média ou média-fraca e comecei a reparar em seus tons a partir da terceira passada com moagem nível 3 na Hario Slim, temperatura acima de 95 graus e 27g por 350ml. Não é nada perene, mas ao menos agradável. Puxa mais doce que amargo e tem um tanino médio para leve. A moagem nível 3 ficou muito fina e emperrou na Aeropress; próxima tentativa é aumentar dois níveis.
+- 2021-02-16 O sabor dele não é frutado: é herbáceo. A torra me pareceu média ou média-fraca e comecei a reparar em seus tons a partir da terceira passada com moagem nível 3 na Hario Slim, temperatura acima de 95 graus e 27g por 350ml. Não é nada perene, mas ao menos agradável. Puxa mais doce que amargo e tem um tanino médio para leve. A moagem nível 3 ficou muito fina e emperrou na Aeropress; próxima tentativa é aumentar dois níveis.
 
- - 2021-02-17 Hoje usei nível 5 da Hario com 24g para 300ml de água aquecida em fogo baixo na temperatura com início de bolhas subindo rápido. Fiz perculação inicial seguido de mexida com espátula. E o sabor ficou bem forte, muito mais do que o de ontem. Pegou um pouco de amargor.
+- 2021-02-17 Hoje usei nível 5 da Hario com 24g para 300ml de água aquecida em fogo baixo na temperatura com início de bolhas subindo rápido. Fiz perculação inicial seguido de mexida com espátula. E o sabor ficou bem forte, muito mais do que o de ontem. Pegou um pouco de amargor.
 
- - 2023-10-04 Este é o café usado no [Café Casinha] e o espresso deles é doce e cítrico na medida certa. Todas essas notas mais o chocolate dá para sentir no espresso. Comprei para testar na Moca e o resultado ficou bem aquém, pois não consegui extrair toda a água com a moagem para Aeropress. Agora dei um passo para trás e fiz na própria Aeropress, e o resultado ficou bem saboroso, embora não com as notas do espresso. De fato espresso é outra bebida.
+- 2023-10-04 Este é o café usado no [Café Casinha] e o espresso deles é doce e cítrico na medida certa. Todas essas notas mais o chocolate dá para sentir no espresso. Comprei para testar na Moca e o resultado ficou bem aquém, pois não consegui extrair toda a água com a moagem para Aeropress. Agora dei um passo para trás e fiz na própria Aeropress, e o resultado ficou bem saboroso, embora não com as notas do espresso. De fato espresso é outra bebida.
 
 # Uma Breve História Sobre Preconceito (e Café)
 date: 2021-02-15
@@ -78922,12 +80242,17 @@ Depois de algumas horas eu finalmente consegui. Agora é hora de começar a grav
 date: 2021-05-02
 tags: lists
 
- - [Top Filmes 2019]
- - [Seleção de Filmes da 43a MostraSP]
- - [Roger Ebert Great Movies]
- - [Dez melhores filmes de 2016]
- - [Saldo da 40a. MostraSP]
- - [Os 10 melhores filmes dos anos 90... 1890!]
+- [Top Filmes 2019]
+
+- [Seleção de Filmes da 43a MostraSP]
+
+- [Roger Ebert Great Movies]
+
+- [Dez melhores filmes de 2016]
+
+- [Saldo da 40a. MostraSP]
+
+- [Os 10 melhores filmes dos anos 90... 1890!]
 
 [Top Filmes 2019]: top_filmes_2019
 [Seleção de Filmes da 43a MostraSP]: mostrasp_43_2019_selecao_filmes
@@ -79196,168 +80521,213 @@ Vamos lá:
 
 ### Rótulo 1
 
- - Caloni 2021-05-15 (3.0): Doce, alcoólico, frutas maduras (ameixa?), corpo médio, levemente tânico, enjoativo. Cabernet.
- - Mitiko 2021-05-15 (3.5): Azedinho, estranho (cheiro?).
- - Caloni 2021-05-22 (3.0): Vinho doce, liquoroso. Talvez seja de sobremesa, mas mais provável colheita tardia. Agradável, mas talvez enjoativo com uma taça inteira. Malbec?
+- Caloni 2021-05-15 (3.0): Doce, alcoólico, frutas maduras (ameixa?), corpo médio, levemente tânico, enjoativo. Cabernet.
+
+- Mitiko 2021-05-15 (3.5): Azedinho, estranho (cheiro?).
+
+- Caloni 2021-05-22 (3.0): Vinho doce, liquoroso. Talvez seja de sobremesa, mas mais provável colheita tardia. Agradável, mas talvez enjoativo com uma taça inteira. Malbec?
 
 E o vinho é... [Virtus Reservado Suave Cabernet Sauvignon 2020]: "Apresenta coloração vermelho rubi de tonalidade intensa e viva. No aroma é franco, apresentando frutas negras e frutas vermelhas como amoras, mirtilo, morango, terroso e especiarias como a pimenta preta. Sem utilização de madeira de carvalho. Em boca apresenta paladar leve, agradável, corpo médio, taninos sedosos e sabor adocicado."
 
- - Acertos: corpo médio, taninos (leve vs sedoso), ameixa.
- - Erros: Malbec vs Cabernet.
+- Acertos: corpo médio, taninos (leve vs sedoso), ameixa.
+
+- Erros: Malbec vs Cabernet.
 
 ### Rótulo 2
 
- - Caloni 2021-05-15 (4.0): Quentinho, pouco alcoólico, tânico, ácido, amadeirado e/ou envelhecido, quero beber mais. Cabernet?
- - Mitiko 2021-05-15 (~~1.5~~ 2.5): Gosto ruim meio Merlot, não-doce.
- - Caloni 2021-05-22 (2.5): Encorpado, mistura de doce com amargo, não é alcoólico, mas é vibrante demais. Cor escura.
+- Caloni 2021-05-15 (4.0): Quentinho, pouco alcoólico, tânico, ácido, amadeirado e/ou envelhecido, quero beber mais. Cabernet?
+
+- Mitiko 2021-05-15 (~~1.5~~ 2.5): Gosto ruim meio Merlot, não-doce.
+
+- Caloni 2021-05-22 (2.5): Encorpado, mistura de doce com amargo, não é alcoólico, mas é vibrante demais. Cor escura.
 
 E o vinho é... [Cavic Meio Seco 2020]: "Vinho tinto elaborado pelas castas Bequignol, Sangiovese, Lambrusco Maestri, Meunier e Caberinta. De cor vermelho rubi brilhante e nariz muito vinoso. Em boca é suave, meio seco com leve presença de taninos, características que o tornam um vinho bem harmonioso."
 
- - Acertos: amadeirado e/ou envelhecido vs "nariz muito vinoso" (?) e/ou leve presença de taninos.
- - Erros: encorpado vs suave, Cabernet vs Blend Maluco.
+- Acertos: amadeirado e/ou envelhecido vs "nariz muito vinoso" (?) e/ou leve presença de taninos.
+
+- Erros: encorpado vs suave, Cabernet vs Blend Maluco.
 
 ### Rótulo 3
 
- - Caloni 2021-05-15 (1.5): Cor transparente, quente, sabores sem fruta (mineral ou vegetal), remédio. Merlot? Ácido. Amargo com corpo leve.
- - Mitiko 2021-05-15 (0.0): Parece mais Merlot, é ruim.
- - Caloni 2021-05-22 (3.0): Cor de envelhecido, mas corpo fraco e sabor lembram um Pinot Noir. Fácil de tomar, levemente vibrante, frutado e azedinho.
+- Caloni 2021-05-15 (1.5): Cor transparente, quente, sabores sem fruta (mineral ou vegetal), remédio. Merlot? Ácido. Amargo com corpo leve.
+
+- Mitiko 2021-05-15 (0.0): Parece mais Merlot, é ruim.
+
+- Caloni 2021-05-22 (3.0): Cor de envelhecido, mas corpo fraco e sabor lembram um Pinot Noir. Fácil de tomar, levemente vibrante, frutado e azedinho.
 
 E o vinho é... [Tierra Sur 2019]: "Este vinho segue é aromático, leve e versátil, com coloração vermelho rubi intenso, aromas florais remetendo a violetas, aromas de frutas negras, como ameixa, amora, jabuticaba, mirtilo e cereja preta, além de notas de especiarias. Em boca, é seco, com acidez média, taninos sedosos, corpo médio e álcool mediano."
 
- - Acertos: ácido vs acidez média, sabores sem fruta vs aromas florais (violetas) e especiarias, quente vs álcool mediano.
- - Erros: cor transparente vs rubi intenso, sabores sem frutas vs frutas negras (ameixa, amora, jabuticaba, mirtilo, cereja preta).
+- Acertos: ácido vs acidez média, sabores sem fruta vs aromas florais (violetas) e especiarias, quente vs álcool mediano.
+
+- Erros: cor transparente vs rubi intenso, sabores sem frutas vs frutas negras (ameixa, amora, jabuticaba, mirtilo, cereja preta).
 
 ### Rótulo 4
 
- - Caloni 2021-05-15 (2.5): Amargo, corpo médio, ácido, jovem, mais vegetal ou menos mineral, tosco, aroma leve de algo estranho. Não sei a uva. Alcoólico.
- - Mitiko 2021-05-15 (2.5): Sabor vem e some. Nada "presencioso". Tânico.
- - Caloni 2021-05-22 (2.5): Tânico, amargo, corpo médio, quente. Agradável, mas amargor é mais persistente que os outros sabores; já perdeu o aroma.
+- Caloni 2021-05-15 (2.5): Amargo, corpo médio, ácido, jovem, mais vegetal ou menos mineral, tosco, aroma leve de algo estranho. Não sei a uva. Alcoólico.
+
+- Mitiko 2021-05-15 (2.5): Sabor vem e some. Nada "presencioso". Tânico.
+
+- Caloni 2021-05-22 (2.5): Tânico, amargo, corpo médio, quente. Agradável, mas amargor é mais persistente que os outros sabores; já perdeu o aroma.
 
 E o vinho é... [Vecchia Cantina Chianti 2019]: "Apresenta coloração vermelho rubi, aromas de frutas vermelhas como amora, framboesa e cereja, apresenta corpo médio e acidez equilibrada, álcool mediano e grande persistência com taninos marcantes e sedosos. É um vinho equilibrado e agradável de se tomar."
 
- - Acertos: alcoólico vs álcool mediano.
- - Erros: jovem vs taninos marcantes e sedosos, ácido vs acidez equilibrada, tosco vs agradável.
+- Acertos: alcoólico vs álcool mediano.
+
+- Erros: jovem vs taninos marcantes e sedosos, ácido vs acidez equilibrada, tosco vs agradável.
 
 ### Rótulo 5
 
- - Caloni 2021-05-15 (~~3.5~~ 4.0): Alcoólico, aroma agradável, corpo médio para forte e tânico, acidez (azedinho), uma uva próxima de Malbec sem ser Malbec? Frutado? Não a ponto de ser enjoativo, aroma de barrica.
- - Mitiko 2021-05-15 (2.0): Até que não tá tão ruim. Vai tomando e vai ficando ruim.
- - Caloni 2021-05-22 (3.5): Esse manteve o aroma e é muito bom; o corpo é mais leve mas lembra as cavas de vinícolas. Frutado para azedo, meio amargo, ainda quente. Cor é bem agradável.
+- Caloni 2021-05-15 (~~3.5~~ 4.0): Alcoólico, aroma agradável, corpo médio para forte e tânico, acidez (azedinho), uma uva próxima de Malbec sem ser Malbec? Frutado? Não a ponto de ser enjoativo, aroma de barrica.
+
+- Mitiko 2021-05-15 (2.0): Até que não tá tão ruim. Vai tomando e vai ficando ruim.
+
+- Caloni 2021-05-22 (3.5): Esse manteve o aroma e é muito bom; o corpo é mais leve mas lembra as cavas de vinícolas. Frutado para azedo, meio amargo, ainda quente. Cor é bem agradável.
 
 E o vinho é... [Sunrise Cabernet Sauvignon 2020]: "Apenas as vinhas mais ensolaradas podem produzir este vinho de intensidade deslumbrante. De cor vermelho rubi, com notas de amora, groselha preta e chocolate, acompanha pratos de cordeiro e carnes vermelhas grelhadas e acompanha excepcionalmente queijos maduros como Gruyère ou Parmesão, bem como pratos picantes como fajitas de carne. Como um raio de sol na sua taça, este vinho é equilibrado e firme, intenso e harmonioso, com um sabor persistente no paladar."
 
- - Acertos: frutado vs (amora, groselha preta), corpo médio para forte e tânico x intensidade deslumbrante.
- - Erros: Malbec vs Cabernet.
+- Acertos: frutado vs (amora, groselha preta), corpo médio para forte e tânico x intensidade deslumbrante.
+
+- Erros: Malbec vs Cabernet.
 
 ### Rótulo 6
 
- - Caloni 2021-05-16 (3.5): Cara de Malbec. Alcoólico, semi-frutado, jovem com pouco tanino, pouco de vegetal? Ácido e azedo.
- - Mitiko 2021-05-16 (0.5): Esse é ruim, parece Merlot.
- - Caloni 2021-05-22 (3.5): Gostoso de beber. Tem um frutado azedo, um corpo leve, provavelmente um vinho jovem ou com pouco tempo de reserva. Pode ser um Malbec ou um blend.
+- Caloni 2021-05-16 (3.5): Cara de Malbec. Alcoólico, semi-frutado, jovem com pouco tanino, pouco de vegetal? Ácido e azedo.
+
+- Mitiko 2021-05-16 (0.5): Esse é ruim, parece Merlot.
+
+- Caloni 2021-05-22 (3.5): Gostoso de beber. Tem um frutado azedo, um corpo leve, provavelmente um vinho jovem ou com pouco tempo de reserva. Pode ser um Malbec ou um blend.
 
 E o vinho é... [French Dog Merlot 2019]: "Vinho de cor vermelho rubi brilhante. Apresenta no aroma notas de frutas vermelhas negras como ameixa e amora, framboesa, groselha e mirtilo. Em boca, apresenta corpo médio, com taninos sedosos, acidez média e teor alcoólico equilibrado, sendo equilibrado e muito macio no paladar."
 
- - Acertos: semi-frutado vs frutas vermelhas negras (ameixa, amora, framboesa, groselha, mirtilo), Mitiko Merlot, ácido vs acidez média.
- - Erros: Malbec vs Merlot, pouco de vegetal.
+- Acertos: semi-frutado vs frutas vermelhas negras (ameixa, amora, framboesa, groselha, mirtilo), Mitiko Merlot, ácido vs acidez média.
+
+- Erros: Malbec vs Merlot, pouco de vegetal.
 
 ### Rótulo 7
 
- - Caloni 2021-05-16 (3.0): Alcoólico, amadeirado, super-encorpado, aroma doce, ácido. Tânico. Não tenho certeza a uva.
- - Mitiko 2021-05-16 (3.0): Azedo demais. Cabernet?
- - Caloni 2021-05-22 (3.0): Bem azedo, cheiro característico, pouco alcoólico, tânico. Pode ser um reserva ainda jovem. Há um certo amargor na textura. Uma cor mais escura. Não é ruim, é apenas peculiar.
+- Caloni 2021-05-16 (3.0): Alcoólico, amadeirado, super-encorpado, aroma doce, ácido. Tânico. Não tenho certeza a uva.
+
+- Mitiko 2021-05-16 (3.0): Azedo demais. Cabernet?
+
+- Caloni 2021-05-22 (3.0): Bem azedo, cheiro característico, pouco alcoólico, tânico. Pode ser um reserva ainda jovem. Há um certo amargor na textura. Uma cor mais escura. Não é ruim, é apenas peculiar.
 
 E o vinho é... [Rio Sol Reserva 2015]: "O Vinho apresenta coloração vermelho rubi intenso, com aromas de frutas vermelhas e negras maduras, como ameixa, cereja, figo framboesa e groselha, conciliadas com as notas de especiarias, como cravo e pimenta, e notas de cacau, café e tabaco provenientes da maturação em barricas de carvalho. Em boca, é encorpado, com acidez equilibrada, taninos sedosos e álcool mediano com grande persistência em boca."
 
- - Acertos: amadeirado vs maturação em barricas de carvalho, ácido vs acidez equilibrada, tânico vs taninos sedosos, aroma doce vs aromas de frutas vermelhas e negras maduras (ameixa, cereja, figo, framboesa, groselha), super-encorpado vs encorpado.
- - Erros: alcoólico vs álcool moderado?
+- Acertos: amadeirado vs maturação em barricas de carvalho, ácido vs acidez equilibrada, tânico vs taninos sedosos, aroma doce vs aromas de frutas vermelhas e negras maduras (ameixa, cereja, figo, framboesa, groselha), super-encorpado vs encorpado.
+
+- Erros: alcoólico vs álcool moderado?
 
 ### Rótulo 8
 
- - Caloni 2021-05-16 (2.0): Quente, amargo, encorpado. Bem amargo o retrogosto. Quase nada frutado. Mineral talvez? Parece envelhecido pelo tanino, mas com pouca madeira.
- - Mitiko 2021-05-16 (1.0): Amargo. Parece mais Malbec que o (rótulo) 6.
- - Caloni 2021-05-22 (3.5): Desses amadeirados envelhecidos. Ainda alcoólico. Pouco frutado, mas não é vegetal nem mineral. Cor bonita.
+- Caloni 2021-05-16 (2.0): Quente, amargo, encorpado. Bem amargo o retrogosto. Quase nada frutado. Mineral talvez? Parece envelhecido pelo tanino, mas com pouca madeira.
+
+- Mitiko 2021-05-16 (1.0): Amargo. Parece mais Malbec que o (rótulo) 6.
+
+- Caloni 2021-05-22 (3.5): Desses amadeirados envelhecidos. Ainda alcoólico. Pouco frutado, mas não é vegetal nem mineral. Cor bonita.
 
 E o vinho é... [San Valentin Garnacha 2018]: "Cor vermelho cereja escuro com brilho violeta. Aromas de frutas vermelhas, ameixas suculentas, figos secos e discretas notas de especiarias do Mediterrâneo. Generoso no álcool mas sem desequilíbrio, taninos macios, acidez correta e corpo médio."
 
- - Acertos: envelhecido pelo tanino vs taninos macios, quente vs generoso no álcool.
- - Erros: encorpado vs corpo médio, quase nada frutado vs aromas de frutas vermelhas (ameixas suculentas, figos secos).
+- Acertos: envelhecido pelo tanino vs taninos macios, quente vs generoso no álcool.
+
+- Erros: encorpado vs corpo médio, quase nada frutado vs aromas de frutas vermelhas (ameixas suculentas, figos secos).
 
 ### Rótulo 9
 
- - Caloni 2021-05-16 (3.5): Alcoólico médio, também amargo e parece envelhecido (mas não deveria ter sido). Esses do meio estão de amargar. Aroma de geléia sem chute do vinho.
- - Mitiko 2021-05-16 (4.0): Gostosinho. Mais ou menos. Mais um Cabernet. Dá para ficar bebendo devagarzinho.
- - Caloni 2021-05-22 (4.5): Amadeirado, sim, mas mais amargor e envelhecimento se sente. A cor é de envelhecido. Há tons de madeira no sabor (tostado). Corpo médio para leve. Elegante. Muito bom.
+- Caloni 2021-05-16 (3.5): Alcoólico médio, também amargo e parece envelhecido (mas não deveria ter sido). Esses do meio estão de amargar. Aroma de geléia sem chute do vinho.
+
+- Mitiko 2021-05-16 (4.0): Gostosinho. Mais ou menos. Mais um Cabernet. Dá para ficar bebendo devagarzinho.
+
+- Caloni 2021-05-22 (4.5): Amadeirado, sim, mas mais amargor e envelhecimento se sente. A cor é de envelhecido. Há tons de madeira no sabor (tostado). Corpo médio para leve. Elegante. Muito bom.
 
 E o vinho é... [Rio Claro Reserva Organico Carménère 2018]: "Este Rio Claro Reserva exemplifica muito bem as características da variedade. Com vermelho_rubi intenso, apresenta aromas de frutas vermelhas e negras maduras, como ameixa, amora, groselhas e cassis, que se integram com os aromas vegetais e herbáceos como manjericão e pimentão, e notas de baunilha e chocolate provenientes da maturação em barricas de carvalho."
 
- - Acertos: parece envelhecido e amadeirado vs maturação em barricas de carvalho.
- - Erros: aroma de geléia vs aromas de frutas vermelhas e negras maduras (ameixa, amora, groselhas e cassis).
+- Acertos: parece envelhecido e amadeirado vs maturação em barricas de carvalho.
+
+- Erros: aroma de geléia vs aromas de frutas vermelhas e negras maduras (ameixa, amora, groselhas e cassis).
 
 ### Rótulo 10
 
- - Caloni 2021-05-16 (5.0): Hoje é dia dos envelhecidos. Quentinho, ótimo corpo, pouco alcoólico. Doce para frutado de compota sem ser enjoativo. Amadeirado, tânico, envelheceu muito bem. Buquê fantástico. Poderia ser Cabernet.
- - Mitiko 2021-05-16 (4.0): Facinho de beber, gostosinho.
- - Caloni 2021-05-22 (4.0): Que vinho fácil de beber. O corpo é leve pra médio, o sabor é gostosinho, frutado vermelho ou algo do tipo.
+- Caloni 2021-05-16 (5.0): Hoje é dia dos envelhecidos. Quentinho, ótimo corpo, pouco alcoólico. Doce para frutado de compota sem ser enjoativo. Amadeirado, tânico, envelheceu muito bem. Buquê fantástico. Poderia ser Cabernet.
+
+- Mitiko 2021-05-16 (4.0): Facinho de beber, gostosinho.
+
+- Caloni 2021-05-22 (4.0): Que vinho fácil de beber. O corpo é leve pra médio, o sabor é gostosinho, frutado vermelho ou algo do tipo.
 
 E o vinho é... [Joliesse Cabernet Sauvignon 2018]: "Apresenta coloração vermelho rubi, com reflexos violáceos, aromas de frutas negras maduras, como ameixa, amora, cereja preta e figo, além de notas de cravo e pimenta, e notas de baunilha, café, cacau, tabaco e couro, provenientes da maturação em barricas de carvalho. Em boca, é seco, com acidez média, taninos marcantes, encorpado e com álcool equilibrado. Apresenta grande persistência."
 
- - Acertos: amadeirado e envelheceu muito bem vs maturação em barricas de carvalho, buquê fantástico vs aromas de frutas negras maduras (ameixa, amora, cereja preta, figo) e notas de cravo e pimenta e notas de baunilha, café, cacau, tabaco e couro, Cabernet.
- - Erros: nenhum.
+- Acertos: amadeirado e envelheceu muito bem vs maturação em barricas de carvalho, buquê fantástico vs aromas de frutas negras maduras (ameixa, amora, cereja preta, figo) e notas de cravo e pimenta e notas de baunilha, café, cacau, tabaco e couro, Cabernet.
+
+- Erros: nenhum.
 
 ### Rótulo 11
 
- - Caloni 2021-05-17 (3.5): Envelhecido, amadeirado, aromático, levemente alcoólico, e amargo. Tons não frutados, tanino e corpo médio.
- - Mitiko 2021-05-17 (2.0): Mais cheiroso, azedo.
- - Caloni 2021-05-22 (5.0): Nossa, esse está muito bom ainda. Frutado (ameixa?) e envelhecido em barrica, seu sabor amadeirado é inebriante. Seu corpo está equilibradíssimo. Quente sem agredir o paladar, mas abraçá-lo. Me dá vontade de beber mais e mais. Este é senhor vinho.
+- Caloni 2021-05-17 (3.5): Envelhecido, amadeirado, aromático, levemente alcoólico, e amargo. Tons não frutados, tanino e corpo médio.
+
+- Mitiko 2021-05-17 (2.0): Mais cheiroso, azedo.
+
+- Caloni 2021-05-22 (5.0): Nossa, esse está muito bom ainda. Frutado (ameixa?) e envelhecido em barrica, seu sabor amadeirado é inebriante. Seu corpo está equilibradíssimo. Quente sem agredir o paladar, mas abraçá-lo. Me dá vontade de beber mais e mais. Este é senhor vinho.
 
 E o vinho é... [Solar Viejo Crianza 2016]: "Coloração vermelho rubi de média intensidade. Toques de baunilha, caramelo, cacau, com notas de carvalho e frutas vermelhas como cereja, amora, framboesa e morango. Vinho estruturado e equilibrado com agradáveis notas de madeira e frutos silvestres maduros, com acidez média, taninos marcantes, médio corpo e álcool equilibrado."
 
- - Acertos: corpo médio vs médio corpo, levemente alcoólico vs álcool equilibrado, tanino vs taninos marcantes, aromático vs toques de baunillha, cacau, notas de carvalho, frutas vermelhas (cereja, amora, framboesa, morango), notas de madeira e frutos silvestres maduros, amadeirado vs notas de madeira.
- - Erros: ameixa vs tudo menos ameixa.
+- Acertos: corpo médio vs médio corpo, levemente alcoólico vs álcool equilibrado, tanino vs taninos marcantes, aromático vs toques de baunillha, cacau, notas de carvalho, frutas vermelhas (cereja, amora, framboesa, morango), notas de madeira e frutos silvestres maduros, amadeirado vs notas de madeira.
+
+- Erros: ameixa vs tudo menos ameixa.
 
 ### Rótulo 12
 
- - Caloni 2021-05-17 (2.5): Azedo, alcoólico, pouco aromático, corpo médio para forte. Esse tipo de vinho precisa harmonizar.
- - Mitiko 2021-05-17 (2.5): Menos amargo que os outros.
- - Caloni 2021-05-22 (3.5): Quente, encorpado, frutas maduras. Agradável, mas levemente enjoativo. Cor rubi escura.
+- Caloni 2021-05-17 (2.5): Azedo, alcoólico, pouco aromático, corpo médio para forte. Esse tipo de vinho precisa harmonizar.
+
+- Mitiko 2021-05-17 (2.5): Menos amargo que os outros.
+
+- Caloni 2021-05-22 (3.5): Quente, encorpado, frutas maduras. Agradável, mas levemente enjoativo. Cor rubi escura.
 
 E o vinho é... [Coutada Velha Signature 2019]: "Este Coutada velha Signature evidencia as características do terroir local, com coloração vermelho rubi, com reflexos violáceos, aromas de frutas negras em compota, como ameixa, amora, cereja preta, figo, romã e groselha, além de notas de amêndoas, baunilha, chocolate e tabaco, provenientes da maturação em barricas de carvalho. Em boca, o vinho é seco, com acidez média, taninos marcantes, corpo médio para alto e álcool equilibrado."
 
- - Acertos: cor rubi escura vs coloração vermelha-rubi, frutas maduras vs frutas negras em compota (ameixa, amora, cereja preta, figo, romã, groselha), quente vs álcool equilibrado.
- - Erros: não encontrou taninos?
+- Acertos: cor rubi escura vs coloração vermelha-rubi, frutas maduras vs frutas negras em compota (ameixa, amora, cereja preta, figo, romã, groselha), quente vs álcool equilibrado.
+
+- Erros: não encontrou taninos?
 
 ### Rótulo 13
 
- - Caloni 2021-05-17 (3.0): Elegante, mas amargo. Esses envelhecidos estão meio podres, não? Corpo forte, tânico, não-frutado. Mineral. Podem estar envelhecendo ainda, no estágio do meio.
- - Mitiko 2021-05-17 (2.5): Não tão amargo, mas azedo forte.
- - Caloni 2021-05-22 (3.5): Não parece mais tão envelhecido; mas um pouco. Pode ser um reserva no meio do caminho. Ainda bem quente e vibrante, mas com sabores mais maduros. Amadeirado e cor rubi.
+- Caloni 2021-05-17 (3.0): Elegante, mas amargo. Esses envelhecidos estão meio podres, não? Corpo forte, tânico, não-frutado. Mineral. Podem estar envelhecendo ainda, no estágio do meio.
+
+- Mitiko 2021-05-17 (2.5): Não tão amargo, mas azedo forte.
+
+- Caloni 2021-05-22 (3.5): Não parece mais tão envelhecido; mas um pouco. Pode ser um reserva no meio do caminho. Ainda bem quente e vibrante, mas com sabores mais maduros. Amadeirado e cor rubi.
 
 E o vinho é... [Valle Austral Reserva Malbec 2018]: "Este vinho evidencia as características do terroir local, sendo robusto, complexo e intenso com coloração vermelho rubi intenso, aromas florais remetendo a violetas, aromas de frutas negras, como ameixa, amora, jabuticaba, mirtilo e cereja preta, além de notas de especiarias. Em boca, é seco, com acidez média, taninos sedosos, corpo médio e álcool mediano."
 
- - Acertos: corpo forte vs robusto, reserva no meio do caminho vs Reserva Malbec.
- - Erros: mineral vs aromas florais e frutas negras, corpo forte vs corpo médio.
+- Acertos: corpo forte vs robusto, reserva no meio do caminho vs Reserva Malbec.
+
+- Erros: mineral vs aromas florais e frutas negras, corpo forte vs corpo médio.
 
 ### Rótulo 14
 
- - Caloni 2021-05-17 (3.5): Muita madeira, muito tanino. Corpo fortíssimo. O frutado ficou mais no aroma, sabor é uma pancada; para degustar com mais calma. Complexo, pode ser top, mas não a seco.
- - Mitiko 2021-05-17 (3.5): Um pouco amargo, mas não é tão azedo. O amargor vai sumindo rápido.
- - Caloni 2021-05-22 (3.5): Nota-se de cara que esse é dos envelhecidos, com corpo bem forte. Daqueles de tomar fumando um charuto. Vários sabores e aromas fortes. Especiarias. Pimenta. Dá para gastar pelo menos uma hora com meia-taça dessa criança.
+- Caloni 2021-05-17 (3.5): Muita madeira, muito tanino. Corpo fortíssimo. O frutado ficou mais no aroma, sabor é uma pancada; para degustar com mais calma. Complexo, pode ser top, mas não a seco.
+
+- Mitiko 2021-05-17 (3.5): Um pouco amargo, mas não é tão azedo. O amargor vai sumindo rápido.
+
+- Caloni 2021-05-22 (3.5): Nota-se de cara que esse é dos envelhecidos, com corpo bem forte. Daqueles de tomar fumando um charuto. Vários sabores e aromas fortes. Especiarias. Pimenta. Dá para gastar pelo menos uma hora com meia-taça dessa criança.
 
 E o vinho é... [Château Marjosse Rouge 2018]: "Bordeaux, talvez a mais celebrada e conhecida região vinícola do mundo, é a terra dos grandes Châteaux, que, em geral, fazem jus à fama de produzir vinhos muito elegantes, longevos e encorpados."
 
- - Acertos: corpo fortíssimo vs encorpado.
- - Erros: nenhum, a descrição do vinho é inexistente.
+- Acertos: corpo fortíssimo vs encorpado.
+
+- Erros: nenhum, a descrição do vinho é inexistente.
 
 ### Rótulo 15
 
- - Caloni 2021-05-17 (4.0): Amadeiradíssimo, estágio final (estou influenciado pela suposta gradação dos rótulos?). Não tão amargo, mas também não tão rico em sabores. Talvez eu não goste de vinhos tão maduros assim, cheio de estrutura. Mas eu tomaria meia-taça por umas horas. Frutado quase estragado.
- - Mitiko 2021-05-17 (4.0): Nem azedo, nem amargo. Aveludado (suave). Não é agressivo.
- - Caloni 2021-05-22 (2.5): Encorpadíssimo, chega a ser azedo e amargo tudo junto por conta disso. Se fosse cerveja seria IPA. Os sabores são fortes (não picantes, outra coisa).
+- Caloni 2021-05-17 (4.0): Amadeiradíssimo, estágio final (estou influenciado pela suposta gradação dos rótulos?). Não tão amargo, mas também não tão rico em sabores. Talvez eu não goste de vinhos tão maduros assim, cheio de estrutura. Mas eu tomaria meia-taça por umas horas. Frutado quase estragado.
+
+- Mitiko 2021-05-17 (4.0): Nem azedo, nem amargo. Aveludado (suave). Não é agressivo.
+
+- Caloni 2021-05-22 (2.5): Encorpadíssimo, chega a ser azedo e amargo tudo junto por conta disso. Se fosse cerveja seria IPA. Os sabores são fortes (não picantes, outra coisa).
 
 E o vinho é... [Piantaferro Primitivo Di Manduria D.O.C 2017]: "Este Primitivo, não foge à regra, tendo coloração vermelho rubi intenso, com reflexos violáceos, aromas de frutas vermelhas e negras, como ameixa, groselha preta, amora e jabuticaba, em compota, seguida de notas de especiarias como baunilha e pimenta, e de torrefação, decorrentes da maturação em barricas. Em boca, é agradável e intenso ao paladar, apresenta taninos marcantes e presentes, acidez equilibrada, teor alcoólico de 14,0%, condizente com o perfil do vinho; com grande persistência e retrogosto."
 
- - Acertos: amadeiradíssimo vs maturação em barricas, encorpadíssimo vs grande persistência, frutado quase estragado vs frutas vermelhas e negras (ameixa, groselha preta,amora e jabuticaba) em compota.
-  - Erros: nenhum.
+- Acertos: amadeiradíssimo vs maturação em barricas, encorpadíssimo vs grande persistência, frutado quase estragado vs frutas vermelhas e negras (ameixa, groselha preta,amora e jabuticaba) em compota.
+
+- Erros: nenhum.
 
 [Virtus Reservado Suave Cabernet Sauvignon 2020]: https://www.eniwine.com/vitrine/detalhes/13f47ad6-e05d-41ab-a8cb-1c73e17bc3dd
 [Cavic Meio Seco 2020]: https://www.eniwine.com/vitrine/detalhes/f3089ff0-c04c-4a1d-991f-a9d38963f616
@@ -79387,61 +80757,61 @@ Lembrando que as sugestões foram bem vagas e gerais, então essa é só uma pin
 
 ## Como buscar por melhores resultados nas pesquisas
 
- - Não use o Google como Banco de Dados. O seu Cérebro é o Banco de Dados. Use o Google como um índice remissivo do seu cérebro. Use livros e artigos densos para alimentar seu Banco de Dados.
+- Não use o Google como Banco de Dados. O seu Cérebro é o Banco de Dados. Use o Google como um índice remissivo do seu cérebro. Use livros e artigos densos para alimentar seu Banco de Dados.
 
- - Nunca use a primeira resposta do Stack Overflow. Por quê? Porque ela é a mais popular.
+- Nunca use a primeira resposta do Stack Overflow. Por quê? Porque ela é a mais popular.
 
- - Stack Overflow para pedaço de código; artigos para entender o código; livros para entender o código.
+- Stack Overflow para pedaço de código; artigos para entender o código; livros para entender o código.
 
 ## Como otimizar o tempo programando
 
 Como diria Caloni:
 
- - Para quê você vai querer fazer isso, se o tempo mais prazeroso do trabalho se passa programando?
+- Para quê você vai querer fazer isso, se o tempo mais prazeroso do trabalho se passa programando?
 
 Como diria [edw519], um dos membros mais populares do Hacker News:
 
- - Alguns caminhos são melhores que outros, mas qualquer caminho é melhor que nenhum. Ex: fazer API HTTP com tudo GET.
+- Alguns caminhos são melhores que outros, mas qualquer caminho é melhor que nenhum. Ex: fazer API HTTP com tudo GET.
 
- - Comece com a resposta, então trabalhe ao contrário. Ex: quero uma API HTTP, então começo chamando.
+- Comece com a resposta, então trabalhe ao contrário. Ex: quero uma API HTTP, então começo chamando.
 
- - É muito mais fácil julgar algo que já existe que definir algo que não existe. Ex: uma API HTTP com tudo GET é feio, mas dá pra melhorar (porque já existe).
+- É muito mais fácil julgar algo que já existe que definir algo que não existe. Ex: uma API HTTP com tudo GET é feio, mas dá pra melhorar (porque já existe).
 
- - Esteja preparado para cavar quantos níveis de detalhe precisar para entender ("um hacker é uma pessoa que sabe exatamente o que acontece quando se pressiona um botão do teclado").
+- Esteja preparado para cavar quantos níveis de detalhe precisar para entender ("um hacker é uma pessoa que sabe exatamente o que acontece quando se pressiona um botão do teclado").
 
- - Não ligue o computador a menos que você tenha uma tarefa específica (para pessoas que trabalham em lugares que você não ganha pelo tempo sentado).
+- Não ligue o computador a menos que você tenha uma tarefa específica (para pessoas que trabalham em lugares que você não ganha pelo tempo sentado).
 
- - Beleza é importante, mas entrega é mais importante. Ex: a API HTTP GET tá pronta e pro usuário funcional; próxima versão a gente melhora.
+- Beleza é importante, mas entrega é mais importante. Ex: a API HTTP GET tá pronta e pro usuário funcional; próxima versão a gente melhora.
 
- - Mantenha extremamente simples no começo. Complique conforme avança. Ex: para mexer na API HTTP GET tem um ponto de entrada cheio de ifs; agora comece a criar funções e outros pontos de entrada.
+- Mantenha extremamente simples no começo. Complique conforme avança. Ex: para mexer na API HTTP GET tem um ponto de entrada cheio de ifs; agora comece a criar funções e outros pontos de entrada.
 
- - Codifique todos os dias (memória muscular).
+- Codifique todos os dias (memória muscular).
 
 Como diria René Descartes, um cara não muito popular nas rodinhas da Idade Média:
 
- - Cada problema que eu resolvo se torna uma regra que serve mais tarde para resolver outros problemas. Ex: se o problema é perder tempo com uma tarefa repetitiva ache uma maneira mais automática de fazer a mesma tarefa.
+- Cada problema que eu resolvo se torna uma regra que serve mais tarde para resolver outros problemas. Ex: se o problema é perder tempo com uma tarefa repetitiva ache uma maneira mais automática de fazer a mesma tarefa.
 
 Para além disso, ou problemas modernos de déficit de atenção enquanto compila (galerinha do C++ e do Rust), leia livros:
 
- - [The ONE Thing], de Gary Keller ("There will always be just a few things that matter more than the rest, and out of those, one will matter most").
+- [The ONE Thing], de Gary Keller ("There will always be just a few things that matter more than the rest, and out of those, one will matter most").
 
- - [Deep Work]: Rules for Focused Success in a Distracted World, de Cal Newport ("Professional activities performed in a state of distraction_free concentration that push your cognitive capabilities to their limit").
+- [Deep Work]: Rules for Focused Success in a Distracted World, de Cal Newport ("Professional activities performed in a state of distraction_free concentration that push your cognitive capabilities to their limit").
 
- - [Flow], The Psychology of Optimal Experience, de Mihaly Csikszentmihalyi ("engagement in an activity that is both challenging and attainable").
+- [Flow], The Psychology of Optimal Experience, de Mihaly Csikszentmihalyi ("engagement in an activity that is both challenging and attainable").
 
 ## Atalhos nos terminais (Linux e Windows) e como encontrar atalhos
 
- - Entenda a estrutura de diretórios e arquivos do seu sistema; organize (do seu jeito, mas organize).
+- Entenda a estrutura de diretórios e arquivos do seu sistema; organize (do seu jeito, mas organize).
 
- - Em ambos SOs, para navegar entre diretórios mantendo o histórico: pushd, popd.
+- Em ambos SOs, para navegar entre diretórios mantendo o histórico: pushd, popd.
 
- - Para buscar por arquivos no Windows dir; para buscar por arquivos no Linux find; use o manual.
+- Para buscar por arquivos no Windows dir; para buscar por arquivos no Linux find; use o manual.
 
- - Como encontrar mais atalhos: encontre o subconjunto que você usa. Ex: atalhos das tarefas mais comuns do seu editor favorito.
+- Como encontrar mais atalhos: encontre o subconjunto que você usa. Ex: atalhos das tarefas mais comuns do seu editor favorito.
 
- - Caso de uso #1: como eu encontrava atalhos e janelas escondidas no Visual Studio.
+- Caso de uso #1: como eu encontrava atalhos e janelas escondidas no Visual Studio.
 
- - Caso de uso #2: como eu decorava atalhos no Vim.
+- Caso de uso #2: como eu decorava atalhos no Vim.
 
 ## Ferramentas úteis para análise
 
@@ -79449,81 +80819,81 @@ Para além disso, ou problemas modernos de déficit de atenção enquanto compil
 
 Como diria, edw519, um dos membros mais populares do Hacker News:
 
- - Use a ferramenta certa para o trabalho certo. Ex: Vim para tudo.
+- Use a ferramenta certa para o trabalho certo. Ex: Vim para tudo.
 
- - Quase qualquer ferramenta pode fazer o trabalho. Algumas são melhores que outras. Ex: uma leiteira é multiuso.
+- Quase qualquer ferramenta pode fazer o trabalho. Algumas são melhores que outras. Ex: uma leiteira é multiuso.
 
- - Lembre-se dos padrões que você usou antes. Você irá usá-los novamente. Ex: atalho chato no Visual Studio para economizar dez digitações por uma.
+- Lembre-se dos padrões que você usou antes. Você irá usá-los novamente. Ex: atalho chato no Visual Studio para economizar dez digitações por uma.
 
 ### Process Explorer e como encontrar quem travou seu arquivo
 
- - Find, Find Handle or DLL...
+- Find, Find Handle or DLL...
 
- - Como saber onde está o executável de um processo.
+- Como saber onde está o executável de um processo.
 
- - Como saber a linha de comando do processo.
+- Como saber a linha de comando do processo.
 
- - Como saber as portas de rede abertas.
+- Como saber as portas de rede abertas.
 
- - Como saber as variáveis de ambiente do processo.
+- Como saber as variáveis de ambiente do processo.
 
- - Como saber as strings em memória do processo.
+- Como saber as strings em memória do processo.
 
- - Como saber as threads e stack de cada thread de um processo (com nomes de funções usando símbolos).
+- Como saber as threads e stack de cada thread de um processo (com nomes de funções usando símbolos).
 
- - Como... bom, vocês pegaram a ideia.
+- Como... bom, vocês pegaram a ideia.
 
 ### Process Monitor e como ver quem escreveu no arquivo
 
- - Filter, Filter...
+- Filter, Filter...
 
- - Como saber a linha de comando do processo que escreveu no arquivo.
+- Como saber a linha de comando do processo que escreveu no arquivo.
 
- - Como saber como foi aberto o arquivo pelo processo.
+- Como saber como foi aberto o arquivo pelo processo.
 
- - Como saber a duração dessa chamada de escrita em arquivo.
+- Como saber a duração dessa chamada de escrita em arquivo.
 
- - Como saber quando foi que o processo foi iniciado.
+- Como saber quando foi que o processo foi iniciado.
 
- - Como saber a pilha de chamadas da thread que escreveu no arquivos... bom, vocês pegaram a ideia.
+- Como saber a pilha de chamadas da thread que escreveu no arquivos... bom, vocês pegaram a ideia.
 
 ### TCP View, WinMerge, BareTail, WinDirStat
 
- - Portas abertas na máquina.
+- Portas abertas na máquina.
 
- - Comparar versões diferentes de arquivos e pastas.
+- Comparar versões diferentes de arquivos e pastas.
 
- - Ter um tail portátil e para múltiplos arquivos e filtro.
+- Ter um tail portátil e para múltiplos arquivos e filtro.
 
- - Saber quem está ocupando espaço na máquina que o cliente pediu para limpar.
+- Saber quem está ocupando espaço na máquina que o cliente pediu para limpar.
 
 ### Ferramentas UNIX (desde 1970 por aí)
 
- - Turbinar Windows usando Git (sed, grep, ls): colocar no path do usuário ou do sistema.
+- Turbinar Windows usando Git (sed, grep, ls): colocar no path do usuário ou do sistema.
 
- - Grep: buscar coisas dentros dos arquivos.
+- Grep: buscar coisas dentros dos arquivos.
 
- - Sed: modificar coisas dentros dos arquivos.
+- Sed: modificar coisas dentros dos arquivos.
 
- - Tail e head: ver o início e o final de um arquivo; seguir o final do arquivo conforme for sendo escrito.
+- Tail e head: ver o início e o final de um arquivo; seguir o final do arquivo conforme for sendo escrito.
 
- - Sort e uniq: sortear e uniqar coisas; ou ambos (sort -u).
+- Sort e uniq: sortear e uniqar coisas; ou ambos (sort -u).
 
- - Pipe: poder dos programadores de Roma; nunca subestime juntar ferramentas UNIX.
+- Pipe: poder dos programadores de Roma; nunca subestime juntar ferramentas UNIX.
 
- - Regex: poder dos programadores do Olimpo; use o guia do Aurelio Jargas se nunca ouviu falar.
+- Regex: poder dos programadores do Olimpo; use o guia do Aurelio Jargas se nunca ouviu falar.
 
- - Awk: poder dos programadores de Asgard; use o guia GNU.
+- Awk: poder dos programadores de Asgard; use o guia GNU.
 
 ### Git
 
- - Leia [o livro] na segunda vez que ficar confuso usando Git fazendo a mesma coisa.
+- Leia [o livro] na segunda vez que ficar confuso usando Git fazendo a mesma coisa.
 
- - Encanamento: Git é um map de chave/valor em arquivo.
+- Encanamento: Git é um map de chave/valor em arquivo.
 
- - Porcelana: Git é uma lista encadeada de arquivos patch.
+- Porcelana: Git é uma lista encadeada de arquivos patch.
 
- - Comandos esotéricos: cherry-pick, rebase, squash, revert, sub-tree.
+- Comandos esotéricos: cherry-pick, rebase, squash, revert, sub-tree.
 
 ### Perguntas?
 
@@ -79880,74 +81250,141 @@ tags: cinema
 
 Sempre fico curioso sobre onde estão as pessoas que escrevem sobre cinema. Uma oportunidade surgiu durante a cabine de imprensa do filme Quem Vai Ficar com Mário, já que foi virtual e todos os espectadores tiveram que se apresentar junto do veículo no chat. Aproveitei e montei uma lista dessas pessoas. Muitas delas deixarão de existir daqui a pouco, e algumas podem ou não ficar por mais um tempo. A vida é tão frugaz nas redes que nem me darei ao trabalho de coletar links. Esta lista é pura e simplesmente para quando estiver entediado e for buscar se existe algum texto que preste hoje em dia na criticosfera.
 
- - Amanda Santos - Entretetizei
- - Amanda Dominguez - Sobre Filme
- - Amanda Marques - Entretetizei
- - Ana Beatriz Garcia - Jornal da Cidade
- - André Lage - @andre.lage
- - André Zuliani - Notícias da TV
- - Armindo Ferreira - Blog do Armindo
- - Armindo Ferreira - Blog do Armindo
- - Bruna Martins - Feliz com Pouco
- - Bruno Vieira - Cinema LGBT
- - Brígida Rodrigues - Broadway Meme
- - Carol Garrôcho - Gossip Do Dia
- - Carolina Caldas - Vivente Andante
- - Carolina Garrôcho de Faria Melo - Gossip do Dia
- - Daniel Mattoso - Rádio Pop FM
- - Denize Macedo - F5 Cultural
- - Fabricio Duque - Vertentes do Cinema
- - Fernanda Cavalcanti - Vitamina Nerd
- - Gabriel - Reserva Cinéfila
- - Giovanna Landucci - Patch Nerd e Dica da Giovanna
- - Guilherme Moreira - Epipoca (Terra)
- - Helen Ribeiro - Site Seja Cult
- - Henrique Vasco - Vida Pós Créditos
- - Isabella Marques da Silva - Séries em Cena
- - Janaina Tifoski - Quarteto Publicitários
- - Joana Lúcia Cunha da Silva - RevolucionArte
- - José Mario Neto - Balde de Pipoca
- - José Vieira - Jornalismo Júnior
- - João - Cinetics
- - João Bahia - Cinetics
- - Juliana Brito - Coxinha Nerd
- - Júlia Rezende - SuperCinema UP
- - Kainan Henrique - Team Comics
- - Laryssa Silva - Nerds da Galáxia!
- - Luccas de Vasconcelos Callejon - Inside Shows e Jornal Infoleste
- - Luiz Henrique Leão - ArteView
- - Manu Mayrink - Alguém Viu Meus Óculos?
- - Marcelo Pestana - Colunas & Notas
- - Marcio - Bee40tona
- - Mari Frazão - iClaquete
- - Mariana Arrudas - F5 (Folha de São Paulo)
- - Mario - GeekPop
- - Mateus Tifoski - Herdeiro Nerd
- - Matheus Mans - Esquina da Cultura e Filmelier
- - Paula Dell'Isola - A Tribuna
- - Paulo Costa - CINEeCIA
- - Pedro Guerra - Jornal Pioneiro e @oipedroguerra
- - Rafael Carvalho - Observatório G
- - Rafael Lopes - Canal Rafazando
- - Raphaela Souza - O Quarto Nerd
- - Raquel Duarte Garcia - Cinema Para Sempre
- - Renata Vomero - Portal Exibidor
- - Rita Vaz - Tudo Sobre Filme
- - Robhson Abreu - Revista PQN, Jornal de Belô e No Escurinho do Cinema
- - Rodrigo Moura - Canal Sorti
- - Roger Hiago - Sobre Filmes e Séries
- - Samantha Silva - Cine Cinesa
- - Siliane Vieira - Jornal Pioneiro (Caxias do Sul)
- - Stella Gonçalves de Freitas - RedeTV! (Leitura Dinâmica)
- - Suzana Uchôa Itiberê - OQVER Cinema & Streaming
- - Tabatha Oliveira - Estação Nerd
- - Thiago Muniz - @PipocasClub
- - Thuany Maiorali Agostino - @thuanyma
- - VH Simões e Diego Baffi - Cueca para 2 (@cuecapara2)
- - Victor Coimbra - Pipocando
- - Vinícius Teles - DeuClick
- - Viviane França - No Mundo do Cinema e das Letras
- - Wanderley Caloni - CinemAqui
+- Amanda Santos - Entretetizei
+
+- Amanda Dominguez - Sobre Filme
+
+- Amanda Marques - Entretetizei
+
+- Ana Beatriz Garcia - Jornal da Cidade
+
+- André Lage - @andre.lage
+
+- André Zuliani - Notícias da TV
+
+- Armindo Ferreira - Blog do Armindo
+
+- Armindo Ferreira - Blog do Armindo
+
+- Bruna Martins - Feliz com Pouco
+
+- Bruno Vieira - Cinema LGBT
+
+- Brígida Rodrigues - Broadway Meme
+
+- Carol Garrôcho - Gossip Do Dia
+
+- Carolina Caldas - Vivente Andante
+
+- Carolina Garrôcho de Faria Melo - Gossip do Dia
+
+- Daniel Mattoso - Rádio Pop FM
+
+- Denize Macedo - F5 Cultural
+
+- Fabricio Duque - Vertentes do Cinema
+
+- Fernanda Cavalcanti - Vitamina Nerd
+
+- Gabriel - Reserva Cinéfila
+
+- Giovanna Landucci - Patch Nerd e Dica da Giovanna
+
+- Guilherme Moreira - Epipoca (Terra)
+
+- Helen Ribeiro - Site Seja Cult
+
+- Henrique Vasco - Vida Pós Créditos
+
+- Isabella Marques da Silva - Séries em Cena
+
+- Janaina Tifoski - Quarteto Publicitários
+
+- Joana Lúcia Cunha da Silva - RevolucionArte
+
+- José Mario Neto - Balde de Pipoca
+
+- José Vieira - Jornalismo Júnior
+
+- João - Cinetics
+
+- João Bahia - Cinetics
+
+- Juliana Brito - Coxinha Nerd
+
+- Júlia Rezende - SuperCinema UP
+
+- Kainan Henrique - Team Comics
+
+- Laryssa Silva - Nerds da Galáxia!
+
+- Luccas de Vasconcelos Callejon - Inside Shows e Jornal Infoleste
+
+- Luiz Henrique Leão - ArteView
+
+- Manu Mayrink - Alguém Viu Meus Óculos?
+
+- Marcelo Pestana - Colunas & Notas
+
+- Marcio - Bee40tona
+
+- Mari Frazão - iClaquete
+
+- Mariana Arrudas - F5 (Folha de São Paulo)
+
+- Mario - GeekPop
+
+- Mateus Tifoski - Herdeiro Nerd
+
+- Matheus Mans - Esquina da Cultura e Filmelier
+
+- Paula Dell'Isola - A Tribuna
+
+- Paulo Costa - CINEeCIA
+
+- Pedro Guerra - Jornal Pioneiro e @oipedroguerra
+
+- Rafael Carvalho - Observatório G
+
+- Rafael Lopes - Canal Rafazando
+
+- Raphaela Souza - O Quarto Nerd
+
+- Raquel Duarte Garcia - Cinema Para Sempre
+
+- Renata Vomero - Portal Exibidor
+
+- Rita Vaz - Tudo Sobre Filme
+
+- Robhson Abreu - Revista PQN, Jornal de Belô e No Escurinho do Cinema
+
+- Rodrigo Moura - Canal Sorti
+
+- Roger Hiago - Sobre Filmes e Séries
+
+- Samantha Silva - Cine Cinesa
+
+- Siliane Vieira - Jornal Pioneiro (Caxias do Sul)
+
+- Stella Gonçalves de Freitas - RedeTV! (Leitura Dinâmica)
+
+- Suzana Uchôa Itiberê - OQVER Cinema & Streaming
+
+- Tabatha Oliveira - Estação Nerd
+
+- Thiago Muniz - @PipocasClub
+
+- Thuany Maiorali Agostino - @thuanyma
+
+- VH Simões e Diego Baffi - Cueca para 2 (@cuecapara2)
+
+- Victor Coimbra - Pipocando
+
+- Vinícius Teles - DeuClick
+
+- Viviane França - No Mundo do Cinema e das Letras
+
+- Wanderley Caloni - CinemAqui
 
 # Forever
 date: 2021-06-12
@@ -80473,9 +81910,9 @@ A ordem de montagem é primeiro espalhar a farinha de rosca, depois as maçãs, 
 
 A montagem consiste em espalhar o recheio por metade da massa aberta, fechar as beiradas em uns dois ou três dedos para dentro para não escapar, pincelar manteiga na outra metade, fechar a beirada da mesma forma e ir enrolando do recheio para o resto da massa vazia, como um rocambole. Transfira esse rocambole com delicadeza para uma forma com papel manteiga ou bem untada com a parte da dobra para baixo. Pincele manteiga por cima. Pré-aqueça o forno a 190 e coloque a forma bem no meio. Depois de cerca de meia-hora já deve estar pronto. Você sabe disso quando a superfície começar a ficar moreninha. Tire do forno, aguarde para esfriar um pouco, corte em pedaços e sirva com açúcar de confeiteiro nevando em cima. Acompanha sorvete de baunilha ou chantilly. Ou os dois ;)
 
- - 2021-08-23 Fiz seguindo as instruções. A primeira rasgou, mas é possível deixar bem fina, mesmo, se ir esticando com muita calma e delicadeza. Fiz uma segunda mais e deixei ambas descansando de novo. Foi bom, pois o recheio que fiz deu para as duas. Abrir pouca massa requer paciência. Qualquer movimento em falso e ela rasga. Inclusive o corte da maçã pode fazer ela rasgar por ter pontas.
+- 2021-08-23 Fiz seguindo as instruções. A primeira rasgou, mas é possível deixar bem fina, mesmo, se ir esticando com muita calma e delicadeza. Fiz uma segunda mais e deixei ambas descansando de novo. Foi bom, pois o recheio que fiz deu para as duas. Abrir pouca massa requer paciência. Qualquer movimento em falso e ela rasga. Inclusive o corte da maçã pode fazer ela rasgar por ter pontas.
 
- - 2023-08-30 Esta segunda vez de sucesso usei banha como gordura, mas acho que ficou pesado demais e não deu para afinar muito a massa. De qualquer forma o resultado depois de umedecer ficou muito bom. Descobri que fica ótimo congelado no freezer e tirado um pedaço para esquentar por 1 ou 2 minutos no microondas.
+- 2023-08-30 Esta segunda vez de sucesso usei banha como gordura, mas acho que ficou pesado demais e não deu para afinar muito a massa. De qualquer forma o resultado depois de umedecer ficou muito bom. Descobri que fica ótimo congelado no freezer e tirado um pedaço para esquentar por 1 ou 2 minutos no microondas.
 
 # Edens Zero
 date: 2021-08-30
@@ -80873,44 +82310,81 @@ tags: cinema
 
 Ano passado eu havia feito uma lista das pessoas na coletiva, e agora estou fazendo o mesmo para futuramente fazer pesquisas para ver se acho a fonte.
 
- - Camila Vieira
- - Alysson (Cine com Pipoca)
- - Luiz Joaquim
- - Renato Acha
- - Rodrigo de Oliveira
- - Will Spiler (Ultraverso)
- - Filippo Pitanga
- - Hugo Dourado
- - Flavia Guerra
- - Bruno Simioni Cunha
- - Isra Matos
- - Mauricio Gonzalez
- - Egypto
- - Fabio Allves
- - Luiz Zanin
- - Carlos Cirne
- - Giba Dionisio
- - Simone Miletic
- - Gabriel Danius
- - Marcelino Nobrega
- - Joao Flores
- - Vinicius Machado
- - Rosane Pavam
- - Nerd Rabugento
- - Maria Fernanda Vieira
- - Larissa Teixeira
- - Matheus Mans
- - Eduardo Ferrarini
- - Sil Fuchs
- - Gui Spada
- - Fernando Machado
- - Euller Felix
- - Denis Le Senechal Klimiuc
- - Victor Martins
- - Karen Meira
- - André Botelho
- - Leonardo Lopes
- - Lúcia Zanelli
+- Camila Vieira
+
+- Alysson (Cine com Pipoca)
+
+- Luiz Joaquim
+
+- Renato Acha
+
+- Rodrigo de Oliveira
+
+- Will Spiler (Ultraverso)
+
+- Filippo Pitanga
+
+- Hugo Dourado
+
+- Flavia Guerra
+
+- Bruno Simioni Cunha
+
+- Isra Matos
+
+- Mauricio Gonzalez
+
+- Egypto
+
+- Fabio Allves
+
+- Luiz Zanin
+
+- Carlos Cirne
+
+- Giba Dionisio
+
+- Simone Miletic
+
+- Gabriel Danius
+
+- Marcelino Nobrega
+
+- Joao Flores
+
+- Vinicius Machado
+
+- Rosane Pavam
+
+- Nerd Rabugento
+
+- Maria Fernanda Vieira
+
+- Larissa Teixeira
+
+- Matheus Mans
+
+- Eduardo Ferrarini
+
+- Sil Fuchs
+
+- Gui Spada
+
+- Fernando Machado
+
+- Euller Felix
+
+- Denis Le Senechal Klimiuc
+
+- Victor Martins
+
+- Karen Meira
+
+- André Botelho
+
+- Leonardo Lopes
+
+- Lúcia Zanelli
 
 # Alice in Borderland
 date: 2021-10-12
@@ -81026,25 +82500,44 @@ date: 2021-10-16
 tags: cinema lists books
 
 - 50 Anos: Luz, Câmera e Ação, Edgar Moura.
- - O Cinema Além das Montanhas, Pablo Villaça.
- - O Cinema da Retomada, Lúcia Nagib.
- - Criando Kane e Outros Ensaios, Pauline Kael.
- - Dicionário Teórico e Crítico de Cinema, Jacques Aumont, Michael Marie.
- - O Diretor de Fotografia, Jorge Monclar.
- - Ensaio Sobre a Análise Fílmica, Francis Vanoye.
- - A Estética do Filme, Jacques Aumont.
- - A Experiência do Cinema, Ismail Xavier.
- - Fazendo Filmes, Sidney Lumet.
- - Os Filmes que Vi com Freud, Waldemar Zusman.
- - Hitchcock/Truffault: Entrevistas, Truffaut & Hellen Scott.
- - A Imagem-Tempo, Giller Delleuze.
- - A Linguagem Secreta do Cinema, Jean-Claude Carrière.
- - Manual do Roteiro, Syd Field.
- - Num Piscar de Olhos, Walter Murch.
- - As Principais Teorias do Cinema: Uma Introdução, J. Dudley Andrew.
- - O Sentido do Filme e A Forma do Filme, Sergei Eisenstein.
- - A Significação no Cinema, Christian Metz.
- - Tarkovski - Esculpir o Tempo, Andrei Tarkovski.
+
+- O Cinema Além das Montanhas, Pablo Villaça.
+
+- O Cinema da Retomada, Lúcia Nagib.
+
+- Criando Kane e Outros Ensaios, Pauline Kael.
+
+- Dicionário Teórico e Crítico de Cinema, Jacques Aumont, Michael Marie.
+
+- O Diretor de Fotografia, Jorge Monclar.
+
+- Ensaio Sobre a Análise Fílmica, Francis Vanoye.
+
+- A Estética do Filme, Jacques Aumont.
+
+- A Experiência do Cinema, Ismail Xavier.
+
+- Fazendo Filmes, Sidney Lumet.
+
+- Os Filmes que Vi com Freud, Waldemar Zusman.
+
+- Hitchcock/Truffault: Entrevistas, Truffaut & Hellen Scott.
+
+- A Imagem-Tempo, Giller Delleuze.
+
+- A Linguagem Secreta do Cinema, Jean-Claude Carrière.
+
+- Manual do Roteiro, Syd Field.
+
+- Num Piscar de Olhos, Walter Murch.
+
+- As Principais Teorias do Cinema: Uma Introdução, J. Dudley Andrew.
+
+- O Sentido do Filme e A Forma do Filme, Sergei Eisenstein.
+
+- A Significação no Cinema, Christian Metz.
+
+- Tarkovski - Esculpir o Tempo, Andrei Tarkovski.
 
 # Primeira crítica da História: Maxim Gorky, Rússia, junho de 1896
 date: 2021-10-16
@@ -82563,17 +84056,23 @@ tags: food cooking
 
 Comece com esses ingredientes:
 
- - 2 xícaras de farinha de trigo (peneirada),
- - 1 e 1/2 xícara de açúcar,
- - 1 xícara de cacau em pó,
- - 1 colher de sopa de fermento em pó,
- - 1 colher de bicarbonato de sódio.
+- 2 xícaras de farinha de trigo (peneirada),
+
+- 1 e 1/2 xícara de açúcar,
+
+- 1 xícara de cacau em pó,
+
+- 1 colher de sopa de fermento em pó,
+
+- 1 colher de bicarbonato de sódio.
 
 Mexa todos os ingredientes em pó (peneirei o açúcar e o cacau em pó tbm). Depois de mistura-los, acrescente:
 
- - 2 ovos,
- - 1 xícara de óleo,
- - 2 xícaras de água morna (mas vá acrescentando aos poucos e sempre mexendo).
+- 2 ovos,
+
+- 1 xícara de óleo,
+
+- 2 xícaras de água morna (mas vá acrescentando aos poucos e sempre mexendo).
 
 Depois de mexer todos os ingredientes, unte uma forma com manteiga e farinha e leve ao forno pre aquecido 180 graus por mais ou menos uns 35 minutos (ou fure o meio com palito e se sair limpo, está pronto).
 
@@ -82688,7 +84187,6 @@ Lendo comentários feitos [neste site que possui uma visão técnica dos episód
 Como o próprio protagonista vive dizendo, as pessoas não mudam. E no caso da série nem sua narrativa central: surge um novo caso, o primeiro diagnóstico nunca funciona, abre-se o primeiro ato e cria-se uma atmosfera de mistério, que efetivamente gera alguma tensão. Nós leigos apenas imaginamos o que poderá ser, sendo que na realidade não conseguimos sequer mensurar a dificuldade dessa tarefa de adivinhação, embora a série se lembre eventualmente que House é o melhor de sua área. Isso implica que nem o especialista mor consegue acertar de primeira um diagnóstico. Com esses parâmetros em mente essa ciência "exata" de diagnosticadores se torna mais empolgante para alguém com um olhar de fora.
 
 [um texto da época]: house
-
 [neste site que possui uma visão técnica dos episódios]: https://web.archive.org/web/20150117075644/http://www.politedissent.com/house_pd.html
 
 # Programando bash script
@@ -82745,8 +84243,9 @@ if [ $i -le $menor ]; then
 
 Há algumas dicas úteis para explicar para todos que mexem com bash script:
 
- - Sempre setar antes de rodar um script a flag de executável (diferente do Windows, nem todos os arquivos possuem esse direito no Linux);
- - Scripts podem/devem conter comentários; o padrão de comentários para tudo no Linux é a cerquilha (#) no início das linhas.
+- Sempre setar antes de rodar um script a flag de executável (diferente do Windows, nem todos os arquivos possuem esse direito no Linux);
+
+- Scripts podem/devem conter comentários; o padrão de comentários para tudo no Linux é a cerquilha (#) no início das linhas.
 
 No começo dos scripts em geral você irá notar a seguinte linha:
 
@@ -82870,11 +84369,11 @@ fi
 
 ### Dicas sobre uso do if
 
- - Sempre mantenha espaços entre os colchetes e a checagem/comparação; e.g. erro: “missing `]'“;
+- Sempre mantenha espaços entre os colchetes e a checagem/comparação; e.g. erro: “missing `]'“;
 
- - Palavras-chave não podem compartilhar a mesma linha (mesmo comando); solução: ou coloque um ponto-e-vírgula entre as palavras-chave ou quebra uma nova linha; e.g. erro: “syntax error near unexpected token `fi”;
+- Palavras-chave não podem compartilhar a mesma linha (mesmo comando); solução: ou coloque um ponto-e-vírgula entre as palavras-chave ou quebra uma nova linha; e.g. erro: “syntax error near unexpected token `fi”;
 
- - Variáveis do tipo strings podem conter espaços e isso é um problema para o comparador; solução: coloque sempre aspas entre variáveis do tipo string.
+- Variáveis do tipo strings podem conter espaços e isso é um problema para o comparador; solução: coloque sempre aspas entre variáveis do tipo string.
 
 #### Exemplo
 
@@ -82887,11 +84386,11 @@ fi
 
 ### Brinde
 
- - Você pode inverter uma condição colocando um “!” na frente; `if [ ! -f regularfile ]; then`
+- Você pode inverter uma condição colocando um “!” na frente; `if [ ! -f regularfile ]; then`
 
- - Você pode combinar condições usando certos operadores como -a (AND) e -o (OR); `if [ $foo -ge 3 -a $foo -lt 10 ]; then`
+- Você pode combinar condições usando certos operadores como -a (AND) e -o (OR); `if [ $foo -ge 3 -a $foo -lt 10 ]; then`
 
- - As mesmas condições e regras podem ser usadas em outros comandos como while e until.
+- As mesmas condições e regras podem ser usadas em outros comandos como while e until.
 
 ### Condições com colchetes-duplos
 
@@ -82904,19 +84403,19 @@ if [[ $num -eq 3 && "$stringvar" == foo ]]; then
 if [[ "$title" =~ [^a-zA-Z0-9\ ] ]]; then
 ```
 
- - Duplos-colchetes expandem variáveis como shell globbing (exemplo acima com asteriscos retorna verdade se houver string em qualquer parte de $stringvar;
+- Duplos-colchetes expandem variáveis como shell globbing (exemplo acima com asteriscos retorna verdade se houver string em qualquer parte de $stringvar;
 
- - Por outro lado não há file globbing (e por isso a condição -a acima funciona para um arquivo chamado *.sh);
+- Por outro lado não há file globbing (e por isso a condição -a acima funciona para um arquivo chamado *.sh);
 
- - Não é preciso usar aspas para strings que contém espaços (não há divisão da variável);
+- Não é preciso usar aspas para strings que contém espaços (não há divisão da variável);
 
- - Syntax sugar: você pode usar operadores && e ||.
+- Syntax sugar: você pode usar operadores && e ||.
 
 ### Considerações importantíssimas sobre ifs
 
- - Operadores AND e OR são short-circuit;
+- Operadores AND e OR são short-circuit;
 
- - 0 = true, >0 = false (C-like); por isso há comandos como `if ! tar etc; then "Error"; fi`.
+- 0 = true, >0 = false (C-like); por isso há comandos como `if ! tar etc; then "Error"; fi`.
 
 ### Brinde: switch-case
 
@@ -83191,8 +84690,9 @@ maior=3, menor=1, media=2.00
 
 ## Referências
 
- - [Bash Reference Manual]
- - [Advanced Bash-Scripting Guide]
+- [Bash Reference Manual]
+
+- [Advanced Bash-Scripting Guide]
 
 [Bash Reference Manual]: https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html
 [Advanced Bash-Scripting Guide]: https://tldp.org/LDP/abs/html/index.html
@@ -83425,7 +84925,6 @@ tags: coffee
 
 Eu gosto bastante desse café da Starbucks, mas essa safra na Aeropress tá dose de acertar. Está bem intenso o amargor. Já estou usando menos pó com uma moagem mais grossa e com menos tempo de infusão e ainda assim está bem marcante. O sabor no Aeropress é tão intenso que acho difícil encontrar detalhes exceto amargor e corpo intenso. No coador de pano no nível 9 de moagem e com 4 minutos de infusão o nível ficou bem próximo do ideal, com a intensidade do sabor, mas talvez com o corpo ligeiramente mais leve. Não sei se isso é um problema.
 
-
 # Iogurte
 date: 2022-06-11
 slug: iogurte
@@ -83488,13 +84987,19 @@ select * from intensityData where snp = 'rs123456';
 
 ## Lessons Learned
 
- - There's no cheap way to parse 25tb of data at once.
- - Sorting is hard, especially when data is distributed.
- - Never, ever, try and make 2.5 million partitions. (cost: $1k+ USD)
- - Sometimes bespoke data needs bespoke solutions.
- - Don't sleep on the basics. Someone probably solved your problem in the 80s.
- - [gnu parallel] is magic and everyone should use it.
- - Associative arrays in AWK are super powerful.
+- There's no cheap way to parse 25tb of data at once.
+
+- Sorting is hard, especially when data is distributed.
+
+- Never, ever, try and make 2.5 million partitions. (cost: $1k+ USD)
+
+- Sometimes bespoke data needs bespoke solutions.
+
+- Don't sleep on the basics. Someone probably solved your problem in the 80s.
+
+- [gnu parallel] is magic and everyone should use it.
+
+- Associative arrays in AWK are super powerful.
 
 ### Example
 
@@ -83581,10 +85086,13 @@ time gawk '/Hahaha/{if($4=="Hahaha")print("a")}' bigsample.txt
 
 ## Preliminary conclusions
 
- - It seems that parsing and splitting into fields is faster when there is one simple delimiter, instead of several delimiters.
- - Usually getting $N is faster than getting $M, where N < M
- - In some cases, searching for /pattern/ in the whole line is faster than comparing $N == "pattern", especially if N is not one of the first fields of the line
- - Getting NF can be slow because the line has to be parsed and fields calculated, and more so if there are several delimiters
+- It seems that parsing and splitting into fields is faster when there is one simple delimiter, instead of several delimiters.
+
+- Usually getting $N is faster than getting $M, where N < M
+
+- In some cases, searching for /pattern/ in the whole line is faster than comparing $N == "pattern", especially if N is not one of the first fields of the line
+
+- Getting NF can be slow because the line has to be parsed and fields calculated, and more so if there are several delimiters
 
 ## Final test
 
@@ -83627,8 +85135,9 @@ No meio das minhas pesquisas também encontrei este projeto chamado [mawk], que 
 
 "Show that if you use your :SubNetwork as field separator, it's the fastest."
 
- - Regex as filter is much faster than run the action.
- - Mawk is fast as hell.
+- Regex as filter is much faster than run the action.
+
+- Mawk is fast as hell.
 
 [mawk]: https://invisible-island.net/mawk/
 
@@ -84125,171 +85634,171 @@ The moment you put down this book, that’s when the excuses will start and the 
 
 ## Glossary
 
- - ACCOMPLISHMENT INTRO: Mentioning one of your wing’s notable accomplishments as you introduce him to the group.
+- ACCOMPLISHMENT INTRO: Mentioning one of your wing’s notable accomplishments as you introduce him to the group.
 
- - AMOG: The “alpha male” of the group.
+- AMOG: The “alpha male” of the group.
 
- - ANTI-SLUT DEFENSE (ASD): A logical trigger in a woman’s mind that activates to interrupt whatever is happening whenever she feels that her social value could be compromised.
+- ANTI-SLUT DEFENSE (ASD): A logical trigger in a woman’s mind that activates to interrupt whatever is happening whenever she feels that her social value could be compromised.
 
- - APPROACH ANXIETY: The anxiety that many men feel when they are about to approach a group of strangers to start a conversation.
+- APPROACH ANXIETY: The anxiety that many men feel when they are about to approach a group of strangers to start a conversation.
 
- - AVERAGE FRUSTRATED CHUMP (AFC): The typical “loser guy” who is unsuccessful with women. Coined by Ross Jeffries.
+- AVERAGE FRUSTRATED CHUMP (AFC): The typical “loser guy” who is unsuccessful with women. Coined by Ross Jeffries.
 
- - BAIT-HOOK-REEL-RELEASE: A metaphor describing the basic concepts of microcalibration. See chapter 2.
+- BAIT-HOOK-REEL-RELEASE: A metaphor describing the basic concepts of microcalibration. See chapter 2.
 
- - BITCH SHIELD: The rude attitude that some women use in public to blow off the men who approach them.
+- BITCH SHIELD: The rude attitude that some women use in public to blow off the men who approach them.
 
- - BODY ROCKING: Using your body language to cause the group to feel like you are leaving even when you aren’t, in order to preserve comfort levels in the group, allowing you more time to hook them.
+- BODY ROCKING: Using your body language to cause the group to feel like you are leaving even when you aren’t, in order to preserve comfort levels in the group, allowing you more time to hook them.
 
- - BOUNCE: To leave the current venue, usually with your target, and go to the next venue. Normally the entire group will bounce together.
+- BOUNCE: To leave the current venue, usually with your target, and go to the next venue. Normally the entire group will bounce together.
 
- - BUYER’S REMORSE: The sense of regret that a woman will feel if you push for too much physical escalation before qualifying her properly. The pickup artist who causes buyer’s remorse will complain that, although he was kissing his target the night before, now she won’t even return his phone calls.
+- BUYER’S REMORSE: The sense of regret that a woman will feel if you push for too much physical escalation before qualifying her properly. The pickup artist who causes buyer’s remorse will complain that, although he was kissing his target the night before, now she won’t even return his phone calls.
 
- - BUYING TEMPERATURE: A temporary emotional state, associated with higher levels of compliance, that can be installed into women through gaming focused on stimulating the emotions. Characterized by giggling.
+- BUYING TEMPERATURE: A temporary emotional state, associated with higher levels of compliance, that can be installed into women through gaming focused on stimulating the emotions. Characterized by giggling.
 
- - CANNED MATERIAL: Routines that have been practiced in the past and are “in the can” and ready to be used when necessary in the field.
+- CANNED MATERIAL: Routines that have been practiced in the past and are “in the can” and ready to be used when necessary in the field.
 
- - CHEAT SHEET: See “Stack.”
+- CHEAT SHEET: See “Stack.”
 
- - COMPLIANCE MOMENTUM: The process of baiting your target to jump into progressively larger and larger hoops, and thus giving you a higher and higher level of compliance.
+- COMPLIANCE MOMENTUM: The process of baiting your target to jump into progressively larger and larger hoops, and thus giving you a higher and higher level of compliance.
 
- - COMPLIANCE TESTING: The actual tests, verbal and physical, that a pickup artist uses to bait the target to give more and more compliance. Compliance testing is part of the microcalibration process.
+- COMPLIANCE TESTING: The actual tests, verbal and physical, that a pickup artist uses to bait the target to give more and more compliance. Compliance testing is part of the microcalibration process.
 
- - CONSPIRACY: A sense between two people that they are “in on something” together that other people are outside of and wouldn’t understand. Conspiracy is a connection switch, which means that using it installs and deepens a sense of connection between two people.
+- CONSPIRACY: A sense between two people that they are “in on something” together that other people are outside of and wouldn’t understand. Conspiracy is a connection switch, which means that using it installs and deepens a sense of connection between two people.
 
- - CRASH AND BURN: Approaching a group and being rejected. Often a new pickup artist will do “crash and burns” ten or twenty times in a row just for the learning experience and to desensitize himself to rejection.
+- CRASH AND BURN: Approaching a group and being rejected. Often a new pickup artist will do “crash and burns” ten or twenty times in a row just for the learning experience and to desensitize himself to rejection.
 
- - CUTTING THE THREAD: Changing the subject of conversation by ignoring someone’s thread and instead introducing a new thread of your own. Usually, people just go along with it.
+- CUTTING THE THREAD: Changing the subject of conversation by ignoring someone’s thread and instead introducing a new thread of your own. Usually, people just go along with it.
 
- - DEMONSTRATION OF HIGHER VALUE (DHV): An indicator of higher evolutionary value, triggering attraction. See chart in chapter 10.
+- DEMONSTRATION OF HIGHER VALUE (DHV): An indicator of higher evolutionary value, triggering attraction. See chart in chapter 10.
 
- - DEMONSTRATION OF LOWER VALUE (DLV): An indicator of lower evolutionary value. See chart in chapter 10.
+- DEMONSTRATION OF LOWER VALUE (DLV): An indicator of lower evolutionary value. See chart in chapter 10.
 
- - DISARM: To neutralize an obstacle in the group, usually by winning over the group.
+- DISARM: To neutralize an obstacle in the group, usually by winning over the group.
 
- - DISQUALIFIER: A statement or action disqualifying oneself as a potential suitor to the target. See “Neg.”
+- DISQUALIFIER: A statement or action disqualifying oneself as a potential suitor to the target. See “Neg.”
 
- - EMOTIONAL STIMULATION: The use of sensory and emotional descriptions, rather than logical recitations of fact, to stimulate the imagination of the listener and install various emotional states.
+- EMOTIONAL STIMULATION: The use of sensory and emotional descriptions, rather than logical recitations of fact, to stimulate the imagination of the listener and install various emotional states.
 
- - FALSE TIME CONSTRAINT: Mentioning that you need to leave soon, for some logical reason. This is done for the same reason as body rocking: to preserve comfort levels in the set, allowing more time for the pickup artist to hook the set.
+- FALSE TIME CONSTRAINT: Mentioning that you need to leave soon, for some logical reason. This is done for the same reason as body rocking: to preserve comfort levels in the set, allowing more time for the pickup artist to hook the set.
 
- - FIELD: The social gathering, usually a public venue such as a bar, where a pickup artist goes to practice approaching women.
+- FIELD: The social gathering, usually a public venue such as a bar, where a pickup artist goes to practice approaching women.
 
- - FIELD REPORT: A report of a night in the field, usually written. Video and audio field reports are not unheard-of.
+- FIELD REPORT: A report of a night in the field, usually written. Video and audio field reports are not unheard-of.
 
- - FIELD-TEST: To test a new tactic or idea in the field in order to ascertain its usefulness in pickup.
+- FIELD-TEST: To test a new tactic or idea in the field in order to ascertain its usefulness in pickup.
 
- - THE FLAME: The Flame is an inward vibe where you are happy, smiling, playful, having fun, adding value, positive, talkative, you make things happen, warm, friendly, enthusiastic, appreciative, and a little crazy.
+- THE FLAME: The Flame is an inward vibe where you are happy, smiling, playful, having fun, adding value, positive, talkative, you make things happen, warm, friendly, enthusiastic, appreciative, and a little crazy.
 
- - FLASH GAME: Game that, while flashy and impressive to the observer, is superficial and only based on a temporary emotional state of fun. See “Solid Game.”
+- FLASH GAME: Game that, while flashy and impressive to the observer, is superficial and only based on a temporary emotional state of fun. See “Solid Game.”
 
- - FLUFF TALK: Mundane conversation used for “passing the time” when you have nothing better to say.
+- FLUFF TALK: Mundane conversation used for “passing the time” when you have nothing better to say.
 
- - FMAC: Find, Meet, Attract, Close.
+- FMAC: Find, Meet, Attract, Close.
 
- - FRAME: The context through which something is interpreted.
+- FRAME: The context through which something is interpreted.
 
- - GAMBIT: A memorized routine used to accomplish a certain piece of your game. Usually a funny story used to captivate the group and demonstrate value to the target.
+- GAMBIT: A memorized routine used to accomplish a certain piece of your game. Usually a funny story used to captivate the group and demonstrate value to the target.
 
- - THE GHOST: The Ghost is an inward vibe where you feel comfortable and relaxed, unreactive, unaffected, content, satisfied, not needy, not trying to impress anyone, and without agenda.
+- THE GHOST: The Ghost is an inward vibe where you feel comfortable and relaxed, unreactive, unaffected, content, satisfied, not needy, not trying to impress anyone, and without agenda.
 
- - GROUP THEORY: The process of becoming the center of attention in a group, and demonstrating value to the group, usually through storytelling, while negging the target, in an attempt to disarm the obstacles and create attraction in the target.
+- GROUP THEORY: The process of becoming the center of attention in a group, and demonstrating value to the group, usually through storytelling, while negging the target, in an attempt to disarm the obstacles and create attraction in the target.
 
- - HIRED GUNS: Women who are hired for their beauty. This category can include exotic dancers, bartenders, shot girls, hostesses, and so on.
+- HIRED GUNS: Women who are hired for their beauty. This category can include exotic dancers, bartenders, shot girls, hostesses, and so on.
 
- - HOOK: You can say that you have “hooked” your target when she is starting to give you IOIs instead of IODs.
+- HOOK: You can say that you have “hooked” your target when she is starting to give you IOIs instead of IODs.
 
- - HOOP THEORY: Hoop theory is the concept that people are constantly putting up hoops, metaphorically, and trying to get other people to “jump into the hoop.” Part of having power in the conversation is about understanding when this happens and being able to control it.
+- HOOP THEORY: Hoop theory is the concept that people are constantly putting up hoops, metaphorically, and trying to get other people to “jump into the hoop.” Part of having power in the conversation is about understanding when this happens and being able to control it.
 
- - INCONGRUENCE: A funny feeling that people get when the words you say, and the way you say them, don’t line up. This goes away with practice.
+- INCONGRUENCE: A funny feeling that people get when the words you say, and the way you say them, don’t line up. This goes away with practice.
 
- - INDICATOR OF DISINTEREST (IOD): An IOD is a cue that your target will give when she is not attracted to you or interested in what you have to say. She will turn away, look away, disagree, and so on. See the chart in chapter 2.
+- INDICATOR OF DISINTEREST (IOD): An IOD is a cue that your target will give when she is not attracted to you or interested in what you have to say. She will turn away, look away, disagree, and so on. See the chart in chapter 2.
 
- - INDICATOR OF INTEREST (IOI): An IOI is a signal that your target will display when she is attracted to you and/or interested in what you have to say. She will smile, ask questions, touch you, continue the conversation when you let it drop, and so on. See the chart in chapter 2.
+- INDICATOR OF INTEREST (IOI): An IOI is a signal that your target will display when she is attracted to you and/or interested in what you have to say. She will smile, ask questions, touch you, continue the conversation when you let it drop, and so on. See the chart in chapter 2.
 
- - INNER GAME: This is your inner confidence and intuitive grasp of the game.
+- INNER GAME: This is your inner confidence and intuitive grasp of the game.
 
- - INTERRUPT: An interrupt often occurs when you are talking to your target, and suddenly one of her friends appears out of nowhere and they start talking to each other. A skilled pickup artist will have a gambit ready to use for such situations.
+- INTERRUPT: An interrupt often occurs when you are talking to your target, and suddenly one of her friends appears out of nowhere and they start talking to each other. A skilled pickup artist will have a gambit ready to use for such situations.
 
- - INVESTMENT: The amount of time and energy that a woman has put into her interaction with you, including how emotionally involved she has allowed herself to be. The more invested she is, the more compliance you will get.
+- INVESTMENT: The amount of time and energy that a woman has put into her interaction with you, including how emotionally involved she has allowed herself to be. The more invested she is, the more compliance you will get.
 
- - KINO: A euphemism for the sense of physical touch.
+- KINO: A euphemism for the sense of physical touch.
 
- - KINO ESCALATION: Physical escalation. See chapter 2.
+- KINO ESCALATION: Physical escalation. See chapter 2.
 
- - KISSING: A romantic embrace related to erotic love. See chapter 2 for instructions on getting the kiss.
+- KISSING: A romantic embrace related to erotic love. See chapter 2 for instructions on getting the kiss.
 
- - LEADER OF MEN: A demonstration of higher value, triggering attraction. Pickup artists demonstrate leader of men by taking over the group with storytelling, or by winning over the men in the group and vibing with them, or by teaching them some trick in order to demonstrate authority.
+- LEADER OF MEN: A demonstration of higher value, triggering attraction. Pickup artists demonstrate leader of men by taking over the group with storytelling, or by winning over the men in the group and vibing with them, or by teaching them some trick in order to demonstrate authority.
 
- - LOCKING IN: A pickup artist is “locked in” when he has physically positioned himself as the central feature of the group, and when he is physically more comfortable than the other people in the group.
+- LOCKING IN: A pickup artist is “locked in” when he has physically positioned himself as the central feature of the group, and when he is physically more comfortable than the other people in the group.
 
- - LOCK-IN PROP: An item that you hand to your target in order to “lock her in” so that she has to sit and watch while you ignore her and demonstrate value by telling a cool story to someone else.
+- LOCK-IN PROP: An item that you hand to your target in order to “lock her in” so that she has to sit and watch while you ignore her and demonstrate value by telling a cool story to someone else.
 
- - MERGING BACKWARD: Introducing the people in your new group to people that you have previously gamed.
+- MERGING BACKWARD: Introducing the people in your new group to people that you have previously gamed.
 
- - MERGING FORWARD: Merging forward is accomplished by opening a new group while in set and then introducing both sets to each other. Often this is done by putting your target on your arm and then taking her as your pawn into your next set; you have merged her forward into the next set.
+- MERGING FORWARD: Merging forward is accomplished by opening a new group while in set and then introducing both sets to each other. Often this is done by putting your target on your arm and then taking her as your pawn into your next set; you have merged her forward into the next set.
 
- - MICROCALIBRATION: A process of interpreting signals from the target and responding with the appropriate indicator, whether a DHV or an IOI, or an IOD, or a compliance test, that will be most effective in that moment, so that over time the pickup artist will gain more and more compliance from his target.
+- MICROCALIBRATION: A process of interpreting signals from the target and responding with the appropriate indicator, whether a DHV or an IOI, or an IOD, or a compliance test, that will be most effective in that moment, so that over time the pickup artist will gain more and more compliance from his target.
 
- - MOVE: A good pickup artist will move his target to different parts of the venue in order to build the sense of comfort and trust between them. He will take her to the bar, to the dance floor, to meet his friends, back to her friends, and so on.
+- MOVE: A good pickup artist will move his target to different parts of the venue in order to build the sense of comfort and trust between them. He will take her to the bar, to the dance floor, to meet his friends, back to her friends, and so on.
 
- - MULTIPLE CONVERSATIONAL THREADS: A good pickup artist will introduce multiple conversational threads and shift between them comfortably, as friends do when speaking. This is as opposed to speaking only about one conversational thread at a time, which will make people feel like they are talking to a stranger, a common mistake made by inexperienced pickup artists.
+- MULTIPLE CONVERSATIONAL THREADS: A good pickup artist will introduce multiple conversational threads and shift between them comfortably, as friends do when speaking. This is as opposed to speaking only about one conversational thread at a time, which will make people feel like they are talking to a stranger, a common mistake made by inexperienced pickup artists.
 
- - MYSTERY METHOD: See “Venusian Arts.”
+- MYSTERY METHOD: See “Venusian Arts.”
 
- - NEG: A statement or action disqualifying oneself as a potential suitor to the target. See “Disqualifier.”
+- NEG: A statement or action disqualifying oneself as a potential suitor to the target. See “Disqualifier.”
 
- - NICE GUY: The guy who builds comfort with his target but fails to build attraction. He often ends up as her “friend.”
+- NICE GUY: The guy who builds comfort with his target but fails to build attraction. He often ends up as her “friend.”
 
- - NUMBER CLOSE: The act of obtaining a woman’s phone number. A pickup artist will view this as perfunctory, and not as important as building attraction, qualifying the target, escalating physically, building comfort and trust, and so on. A newbie will place too much emphasis on the phone number itself and not enough emphasis on the emotional process that the target must undergo in order for her phone number to have any real value to the pickup artist.
+- NUMBER CLOSE: The act of obtaining a woman’s phone number. A pickup artist will view this as perfunctory, and not as important as building attraction, qualifying the target, escalating physically, building comfort and trust, and so on. A newbie will place too much emphasis on the phone number itself and not enough emphasis on the emotional process that the target must undergo in order for her phone number to have any real value to the pickup artist.
 
- - OBSTACLE: A jealous friend of the target or otherwise member of her group who acts to block approaching men from picking up the target. Often an unattractive friend or a male friend.
+- OBSTACLE: A jealous friend of the target or otherwise member of her group who acts to block approaching men from picking up the target. Often an unattractive friend or a male friend.
 
- - OPENER: A gambit that a pickup artist uses to start a conversation.
+- OPENER: A gambit that a pickup artist uses to start a conversation.
 
- - OUTER GAME: The various tactics and techniques of game.
+- OUTER GAME: The various tactics and techniques of game.
 
- - PAWN: A woman who is paraded about, without her knowledge, by a pickup artist so that he can demonstrate preselection to his real target. The pickup artist will be willing to lose the pawn in order to demonstrate to his real target that he is willing to walk away from a woman. A skilled pickup artist will also use pawns to create jealousy plots with the target.
+- PAWN: A woman who is paraded about, without her knowledge, by a pickup artist so that he can demonstrate preselection to his real target. The pickup artist will be willing to lose the pawn in order to demonstrate to his real target that he is willing to walk away from a woman. A skilled pickup artist will also use pawns to create jealousy plots with the target.
 
- - PEACOCKING: Wearing at least one attention-getting item in order to cause murmuring about oneself in the field, and to give women an excuse to say something. Peacocking also attracts social pressure, which enables the pickup artist to demonstrate that he is accustomed to, and unreactive to, such attention.
+- PEACOCKING: Wearing at least one attention-getting item in order to cause murmuring about oneself in the field, and to give women an excuse to say something. Peacocking also attracts social pressure, which enables the pickup artist to demonstrate that he is accustomed to, and unreactive to, such attention.
 
- - PIVOT: A woman friend you use to convey preselection and to make groups more receptive to your approach.
+- PIVOT: A woman friend you use to convey preselection and to make groups more receptive to your approach.
 
- - PRESELECTION: A powerful DHV. The target will feel more attracted to the pickup artist when she sees that other women are giving him IOIs.
+- PRESELECTION: A powerful DHV. The target will feel more attracted to the pickup artist when she sees that other women are giving him IOIs.
 
- - PROXIMITY: One IOI that women use when they want you to approach is that they will give you proximity by standing nearby. You may also notice them talking louder as you walk by.
+- PROXIMITY: One IOI that women use when they want you to approach is that they will give you proximity by standing nearby. You may also notice them talking louder as you walk by.
 
- - PUSH-PULL: Alternating between IOIs and IODs as a way of pumping buying temperature in the target.
+- PUSH-PULL: Alternating between IOIs and IODs as a way of pumping buying temperature in the target.
 
- - QUALIFYING: Showing approval or interest as a reward, usually timed to come just after the target has demonstrated value to you, or complied with escalation, or otherwise jumped into one of your hoops.
+- QUALIFYING: Showing approval or interest as a reward, usually timed to come just after the target has demonstrated value to you, or complied with escalation, or otherwise jumped into one of your hoops.
 
- - ROLL-OFF: To turn as if to walk away. Often a pickup artist will turn back into the group again after a roll-off, using the move as a quick IOD as part of his microcalibration.
+- ROLL-OFF: To turn as if to walk away. Often a pickup artist will turn back into the group again after a roll-off, using the move as a quick IOD as part of his microcalibration.
 
- - ROUTINE: See “Gambit.”
+- ROUTINE: See “Gambit.”
 
- - SET: A group of people that a pickup artist approaches, usually at a social gathering.
+- SET: A group of people that a pickup artist approaches, usually at a social gathering.
 
- - SOCIAL ALIGNMENTS: A powerful DHV. Your friends, hookups, connections, employees, sources, and other forms of social value. You can directly demonstrate social alignments, and you can also embed it as a DHV in your stories.
+- SOCIAL ALIGNMENTS: A powerful DHV. Your friends, hookups, connections, employees, sources, and other forms of social value. You can directly demonstrate social alignments, and you can also embed it as a DHV in your stories.
 
- - SOLID GAME: As opposed to flash game, which is superficial and only stimulates temporary emotions, solid game involves demonstrating evolutionary value in order to trigger attraction switches in the target. After this, a skilled pickup artist will bait the target to jump into his hoops, building more and more compliance and physical escalation between the two of them.
+- SOLID GAME: As opposed to flash game, which is superficial and only stimulates temporary emotions, solid game involves demonstrating evolutionary value in order to trigger attraction switches in the target. After this, a skilled pickup artist will bait the target to jump into his hoops, building more and more compliance and physical escalation between the two of them.
 
- - STACK: A series of routines, often listed on a Cheat Sheet, that a pickup artist uses to practice his delivery. See “Cheat Sheet.”
+- STACK: A series of routines, often listed on a Cheat Sheet, that a pickup artist uses to practice his delivery. See “Cheat Sheet.”
 
- - STATEMENT OF INTEREST (sol): An overt statement of desire for the target. A great move if done at the right time, which is usually not the approach, but rather after the target has been working for your affection.
+- STATEMENT OF INTEREST (sol): An overt statement of desire for the target. A great move if done at the right time, which is usually not the approach, but rather after the target has been working for your affection.
 
- - STICKING POINTS: The parts of your game that are giving you trouble and still need practice.
+- STICKING POINTS: The parts of your game that are giving you trouble and still need practice.
 
- - TARGET: The woman you want to win with your current approach. She is the one you are negging. Her friends are the ones you are winning over in order to disarm as obstacles. She is the one you are using Bait-Hook-Reel-Release on and escalating physically.
+- TARGET: The woman you want to win with your current approach. She is the one you are negging. Her friends are the ones you are winning over in order to disarm as obstacles. She is the one you are using Bait-Hook-Reel-Release on and escalating physically.
 
-  - THREE-SECOND RULE: Within three seconds of entering the venue, approach a set and get warmed up. If you are later not in set, and you spot a set worth approaching, then you have three seconds to approach. This will put you into a talkative state and will avoid problems where girls sense you “hovering” before your approach. Try it.
+- THREE-SECOND RULE: Within three seconds of entering the venue, approach a set and get warmed up. If you are later not in set, and you spot a set worth approaching, then you have three seconds to approach. This will put you into a talkative state and will avoid problems where girls sense you “hovering” before your approach. Try it.
 
- - TIME BRIDGE: The act of making date plans with your target and visualizing those plans together, instead of merely getting her phone number.
+- TIME BRIDGE: The act of making date plans with your target and visualizing those plans together, instead of merely getting her phone number.
 
- - VENUSIAN ARTS: Mystery’s system of pickup and his flagship school, located at www.VenusianArts.com.
+- VENUSIAN ARTS: Mystery’s system of pickup and his flagship school, located at www.VenusianArts.com.
 
- - WING: Short for “wingman,” from Top Gun. Your wing is your pickup artist buddy who goes out with you so that you can help each other to pick up chicks. Usually girls who want to meet someone are out in pairs as well, so it works out.
+- WING: Short for “wingman,” from Top Gun. Your wing is your pickup artist buddy who goes out with you so that you can help each other to pick up chicks. Usually girls who want to meet someone are out in pairs as well, so it works out.
 
- - THE ZEN OF COOL: See “The Ghost” and “The Flame.”
+- THE ZEN OF COOL: See “The Ghost” and “The Flame.”
 
 # Não Me Diga Adeus
 date: 2022-07-25
@@ -84322,10 +85831,13 @@ No entanto, como tudo o que nos é empurrado goela abaixo, existe uma forma de s
 
 ## Links
 
- - [Want to stop craving chocolate? Here are two options]
- - [Suppressing images of desire: Neural correlates of chocolate-related thoughts in high and low trait chocolate cravers]
- - [Acceptance- and imagery-based strategies can reduce chocolate cravings: A test of the elaborated-intrusion theory of desire]
- - [Targeting acceptance in the management of food craving: The mediating roles of eating styles and thought suppression]
+- [Want to stop craving chocolate? Here are two options]
+
+- [Suppressing images of desire: Neural correlates of chocolate-related thoughts in high and low trait chocolate cravers]
+
+- [Acceptance- and imagery-based strategies can reduce chocolate cravings: A test of the elaborated-intrusion theory of desire]
+
+- [Targeting acceptance in the management of food craving: The mediating roles of eating styles and thought suppression]
 
 “Cravings start with a trigger. This could be external, such as the scent of chocolate chip cookies. Or it could be internal, such as being angry or bored. Second, you elaborate on these thoughts by using mental imagery, and this is what turns it into a full-fledged craving.” To banish the craving, you need to interrupt this process. One approach is to practise mindfulness, accept the thoughts and move on. Another is to try to suppress the thoughts altogether by distracting yourself.
 
@@ -84406,11 +85918,8 @@ The elaborated-intrusion theory of desire proposes that craving is a two-stage p
 Guided imagery reduced chocolate-related thoughts, intrusiveness, vividness and craving intensity for chocolate cravers (Experiment 2), but not for the general sample (Experiment 1).
 
 [Want to stop craving chocolate? Here are two options]: https://www.washingtonpost.com/lifestyle/wellness/want-to-stop-craving-chocolate-here-are-two-options/2018/06/25/48a0e698-7407-11e8-805c-4b67019fcfe4_story.html
-
 [Suppressing images of desire: Neural correlates of chocolate-related thoughts in high and low trait chocolate cravers]: https://pubmed.ncbi.nlm.nih.gov/29518469/
-
 [Acceptance- and imagery-based strategies can reduce chocolate cravings: A test of the elaborated-intrusion theory of desire]: https://pubmed.ncbi.nlm.nih.gov/28196711/
-
 [Targeting acceptance in the management of food craving: The mediating roles of eating styles and thought suppression]: https://pubmed.ncbi.nlm.nih.gov/29665461/
 
 # Lenda (Legend)
@@ -87546,24 +89055,33 @@ Dentro dos meus recortes compilei e agrupei esta lista de ações em dicas mais 
 
 ## Seja estoico
 
- - Ignore obrigações externas desde o começo.
- - Se livre das recompensas sociais e fisiológicas.
- - Aprenda a controlar o corpo e seus sentidos.
- - Seja você o desejo de aprender.
+- Ignore obrigações externas desde o começo.
+
+- Se livre das recompensas sociais e fisiológicas.
+
+- Aprenda a controlar o corpo e seus sentidos.
+
+- Seja você o desejo de aprender.
 
 ## Seja humilde
 
- - Defina o objetivo geral e secundários.
- - Vá definindo minidesafios envolvidos na atividade.
- - Se concentre no que você está fazendo.
- - Se a atividade se tornar chata continue aumentando as apostas.
+- Defina o objetivo geral e secundários.
+
+- Vá definindo minidesafios envolvidos na atividade.
+
+- Se concentre no que você está fazendo.
+
+- Se a atividade se tornar chata continue aumentando as apostas.
 
 ## Seja prático
 
- - Encontre qual o feedback para medir seu progresso.
- - Centralize sua atenção em objetos externos.
- - Sem input externo falta a atenção e começam os devaneios.
- - Desenvolva habilidades para oportunidades disponíveis.
+- Encontre qual o feedback para medir seu progresso.
+
+- Centralize sua atenção em objetos externos.
+
+- Sem input externo falta a atenção e começam os devaneios.
+
+- Desenvolva habilidades para oportunidades disponíveis.
 
 Abaixo seguem mais recortes que fiz das inúmeras leituras deste livro que serviram de base para o texto acima.
 
@@ -87620,16 +89138,25 @@ Por fim, e apesar de já ter tocado no assunto de qualidade, acredito que o conj
 
 ## Cliques sugeridos
 
- - Espresso: 7-10 clicks
- - Moka Pot: 9-11 clicks
- - Aeropress: 13-14 clicks (testando com sucesso 11)
- - Siphon (cloth): 13-15 clicks
- - Pour Over (cloth): 13-15 clicks
- - Siphon (metal, glass filter): 15-16 clicks
- - Pour Over (paper): 15-17 clicks
- - Chemex: 17-19 clicks
- - Pour Over (metal filter): 18-20 clicks
- - Press Pot: 25-29 clicks
+- Espresso: 7-10 clicks
+
+- Moka Pot: 9-11 clicks
+
+- Aeropress: 13-14 clicks (testando com sucesso 11)
+
+- Siphon (cloth): 13-15 clicks
+
+- Pour Over (cloth): 13-15 clicks
+
+- Siphon (metal, glass filter): 15-16 clicks
+
+- Pour Over (paper): 15-17 clicks
+
+- Chemex: 17-19 clicks
+
+- Pour Over (metal filter): 18-20 clicks
+
+- Press Pot: 25-29 clicks
 
 [Hario Slim]: uma_breve_historia_sobre_preconceito_e_cafe
 
@@ -87643,13 +89170,19 @@ Recomendo a leitura do artigo "X64 Deep Dive" para se habituar às idiossincrasi
 
 Criei [um repositório] para praticar alguns desses assuntos e recriar algum código-fonte para mostrar como o Visual Studio gera código em x64 e como depurar este código. Através deste repo e do [vídeo que pretendo gravar] a respeito caminharemos pelas mudanças desde o x86 para aumentarmos nossas habilidades em debugging de código x64. Entre algumas mudanças segue uma lista do que considerei mais importante:
 
- - Fastcall é a convenção de chamada default para x64.
- - RBP não é mais usado como frame pointer.
- - A última chamada da função pode ser otimizada com tail elimination.
- - Com isso o FPO (Frame Pointer Omission) pode comer solto.
- - RSP se mantém inalterado no corpo da função, entre o prólogo e o epílogo (gostei disso).
- - A técnica de homing space (opcional na compilação) salva os 4 primeiros parâmetros passados na pilha para a memória.
- - O Child-SP (RSP) é usado para caminhar tanto pelos parâmetros quanto pelas variáveis locais.
+- Fastcall é a convenção de chamada default para x64.
+
+- RBP não é mais usado como frame pointer.
+
+- A última chamada da função pode ser otimizada com tail elimination.
+
+- Com isso o FPO (Frame Pointer Omission) pode comer solto.
+
+- RSP se mantém inalterado no corpo da função, entre o prólogo e o epílogo (gostei disso).
+
+- A técnica de homing space (opcional na compilação) salva os 4 primeiros parâmetros passados na pilha para a memória.
+
+- O Child-SP (RSP) é usado para caminhar tanto pelos parâmetros quanto pelas variáveis locais.
 
 ## Testes
 
@@ -88060,18 +89593,25 @@ tags: computer interview
 
 Uma string mutuamente rotativa é uma string que se rotacionarmos para a direita ou para a esquerda, com os caracteres "indo parar" do outro lado, é comparável com a string original. Exemplos:
 
- - "abacate" é mutuamente rotativa com "cateaba";
- - "roma" é mutuamente rotativa com "maro";
- - "ab" é mutuamente rotativa com "ba";
- - "123456" é mutuamente rotativa com "456123".
+- "abacate" é mutuamente rotativa com "cateaba";
+
+- "roma" é mutuamente rotativa com "maro";
+
+- "ab" é mutuamente rotativa com "ba";
+
+- "123456" é mutuamente rotativa com "456123".
 
 Há alguns passos simples e um código esperto que consegue verificar isso. Os passos são os seguinte:
 
- - Inicialize as duas strings em duas variáveis;
- - Veja se o tamanho das duas é similar (se não retorne false);
- - Junte a primeira string com ela mesma (s = s + s);
- - Verifica se a segunda string existe na string duplicada;
- - Se existir quer dizer que uma é rotação da outra.
+- Inicialize as duas strings em duas variáveis;
+
+- Veja se o tamanho das duas é similar (se não retorne false);
+
+- Junte a primeira string com ela mesma (s = s + s);
+
+- Verifica se a segunda string existe na string duplicada;
+
+- Se existir quer dizer que uma é rotação da outra.
 
 Ficou confuso? Vai ficar mais simples ao ver a implementação em C++:
 
@@ -88208,16 +89748,23 @@ No entanto, para uma lista ligada a coisa não é tão intuitiva assim. É neces
 O passo a passo parece simples:
 
 - Declare três nodes: anterior, atual e seguinte;
+
 - Enquanto no node atual o node anterior será nulo;
+
 - Deixe o próximo do atual ser o anterior para inverter a lista;
+
 - Em cada iteração do loop os nodes atual e anterior são incrementados por 1.
 
 Esse desafio tem seus truques. O importante na lógica abaixo é atravessar a lista mantendo o tracking dos elementos seguinte e anterior. Tendo o elemento atual, anterior e próximo a troca de posições se torna simples, mas não tão simples quanto você deve estar imaginando porque:
 
 - o node seguinte se torna o próximo do atual;
+
 - o próximo do atual se torna o anterior (aqui é a invertida);
+
 - o anterior se torna o atual (aqui é o passado);
+
 - o atual se torna o próximo;
+
 - continue até que o antigo final da lista se torne o novo head, apontando para o último anterior.
 
 ## Código
@@ -88264,12 +89811,17 @@ O bom de estar praticando para fazer entrevistas técnicas é ter material para 
 
 Vamos começar pela resposta. O algoritmo que deve ser seguido é:
 
- - Declare a string que você quer inverter;
- - Obtenha o tamanho dessa string;
- - Faça um loop do começo ao fim ou do fim ao começo;
- - No loop atualize a posição inicial e final da string;
- - Troque de posição os elementos final e inicial;
- - Pronto.
+- Declare a string que você quer inverter;
+
+- Obtenha o tamanho dessa string;
+
+- Faça um loop do começo ao fim ou do fim ao começo;
+
+- No loop atualize a posição inicial e final da string;
+
+- Troque de posição os elementos final e inicial;
+
+- Pronto.
 
 Simples, não? Em C++:
 
@@ -88302,10 +89854,13 @@ A resposta rápida para esta questão é: hash tables.
 
 Com hash tables você consegue através de uma chave agrupar qualquer tipo de informação. No caso de caracteres repetidos em uma string a chave é o próprio caractere. Os passos para conseguir isso são os seguintes:
 
- - Declare um map entre char e int (como contador);
- - Faça um loop caractere por caractere da string;
- - Incremente o contador para cada caractere que passar;
- - O contador está pronto, imprima o map.
+- Declare um map entre char e int (como contador);
+
+- Faça um loop caractere por caractere da string;
+
+- Incremente o contador para cada caractere que passar;
+
+- O contador está pronto, imprima o map.
 
 Em C++ um código que faz isso seria como o abaixo:
 
@@ -88329,12 +89884,17 @@ tags: computer interview
 
 Nesse caso é necessário dar uma de esperto:
 
- - Declare dois ponteiros: primeiro e segundo;
- - Ambos são inicializados para o início da lista;
- - Faça um loop que percorra a lista até o final;
- - A cada iteração incremente o primeiro ponteiro em dois nodes;
- - A cada iteração incremente o segundo ponteiro em um node;
- - Quando o primeiro ponteiro atingir o final o segundo estará no meio.
+- Declare dois ponteiros: primeiro e segundo;
+
+- Ambos são inicializados para o início da lista;
+
+- Faça um loop que percorra a lista até o final;
+
+- A cada iteração incremente o primeiro ponteiro em dois nodes;
+
+- A cada iteração incremente o segundo ponteiro em um node;
+
+- Quando o primeiro ponteiro atingir o final o segundo estará no meio.
 
 O princípio de contador de lista ligada é a contagem de iterações do começo até o final da lista, mas para manter o tracking de uma posição relativa como o meio dessa lista é necessário manter um segundo contador.
 
@@ -88435,8 +89995,11 @@ int ReverseNumberStringVersion(int number)
 Contudo, a maneira bonita de se fazer isso é mantendo o domínio do problema na matemática. E dessa forma:
 
 - Pegue o dígito mais à direita do número;
+
 - Some o dígito com o novo número invertido;
+
 - Multiplique o resultado por 10;
+
 - Divida o número por 10.
 
 ## Código
@@ -88464,7 +90027,9 @@ tags: computer interview
 Apesar de existir matemáticos ao redor do mundo tentando responder esta pergunta da maneira computacionalmente mais rápida possível, existe uma forma ingênua e eficiente para números baixos:
 
 - Faça um loop entre 2 e a metade do número;
+
 - Se algum desses números dividir sem resto retorne false;
+
 - Se acabar o loop retorne true: o número é primo.
 
 Note que a mesma lógica pode ser aplicada para obter os fatores de um número, seus divisores, etc.
@@ -88495,8 +90060,11 @@ tags: computer interview
 Zero e um são os primeiros números Fibonacci e todos os outros que se seguem são a soma dos dois números anteriores. Ou seja, para implementar isto em código basta:
 
 - Usar duas variáveis para os dois números anteriores;
+
 - Os primeiros valores dessas variáveis são 0 e 1;
+
 - Vá somando até obter a quantidade desejada;
+
 - Por exemplo, 0+1=1, 1+1=2 (exceto em 1984), etc.
 
 Um codigozinho que imprime os cinco primeiros números para deixar mais claro:
@@ -88526,16 +90094,25 @@ Essa moça tem uma raba interessante e passa um café gostosinho. Eu sei que os 
 
 Este filme foi apresentado pela Petrobrás e ganhou o prêmio Petrobrás, o que já diz quase tudo sobre ele. Mas dê uma olhada nos títulos dos textos acadêmicos sobre o filme:
 
- - A (auto) representação da mulher negra no cinema brasileiro contemporâneo;
- - O corpo múltiplo negro feminino à luz de um cinema da negrura em Café com Canela;
- - Café, canela e transgressão: descolonizando narrativas feministas;
- - Políticas Públicas e a Inclusão da Mulher Negra no Cinema;
- - Feminilidades e Negritudes nas Telas: Diálogos entre a Psicologia e o Cinema;
- - O que o cinema quer da gente é coragem: negridade e dissidência sexual & de gênero nas produções da Rosza Filmes;
- - Direções do olhar: um estudo sobre as poéticas e técnicas de diretoras negras do cinema brasileiro;
- - Por um cinema negro no feminino: dororidade e pretagonismo das mulheres no filme Café com Canela;
- - Café com canela e a edificação do afeto no Cinema Negro Feminino;
- - "Café com Canela" contribui para maior representatividade no cinema.
+- A (auto) representação da mulher negra no cinema brasileiro contemporâneo;
+
+- O corpo múltiplo negro feminino à luz de um cinema da negrura em Café com Canela;
+
+- Café, canela e transgressão: descolonizando narrativas feministas;
+
+- Políticas Públicas e a Inclusão da Mulher Negra no Cinema;
+
+- Feminilidades e Negritudes nas Telas: Diálogos entre a Psicologia e o Cinema;
+
+- O que o cinema quer da gente é coragem: negridade e dissidência sexual & de gênero nas produções da Rosza Filmes;
+
+- Direções do olhar: um estudo sobre as poéticas e técnicas de diretoras negras do cinema brasileiro;
+
+- Por um cinema negro no feminino: dororidade e pretagonismo das mulheres no filme Café com Canela;
+
+- Café com canela e a edificação do afeto no Cinema Negro Feminino;
+
+- "Café com Canela" contribui para maior representatividade no cinema.
 
 Os textos acima poderão lhe proporcionar diversas formas de xerocar a opinião diversa que existe na imprensa; tão diversa que um é a cópia de outro que é a cópia de outro que é a cópia...
 
@@ -88734,12 +90311,17 @@ int main() {
 
 Algumas informações relevantes sobre esses parâmetros:
 
- - node é a localização do ramo atual;
- - left é o início do intervalo que estamos;
- - right é o final do intervalo que estamos;
- - pos é o número do ramo que pretendemos trocar;
- - value é o valor que pretendemos colocar no ramo;
- - tree é a árvore de segmentos.
+- node é a localização do ramo atual;
+
+- left é o início do intervalo que estamos;
+
+- right é o final do intervalo que estamos;
+
+- pos é o número do ramo que pretendemos trocar;
+
+- value é o valor que pretendemos colocar no ramo;
+
+- tree é a árvore de segmentos.
 
 Todos esses parâmetros existem porque a função update é recursiva e ela precisa passar a localização dentro do array no formato de um mapa para uma árvore binária. A busca também segue o mesmo princípio, de O(log N), ou seja, para encontrar a posição desejada (variável pos) a função irá seguir limitando o intervalo entre left e right até que ambos tenham o mesmo valor, situação em que estaremos em uma folha.
 
@@ -88759,11 +90341,15 @@ int main() {
 
 Com isso a soma dos seguintes intervalos deve contar os seguintes totais:
 
- - o intervalo [666,666] deve conter o valor 42, da única folha selecionada;
- - o intervalo [600,700] deve conter o valor 145, da soma de 666, 600 e 700;
- - o intervalo [600,999] deve conter o valor 200, da soma adiciona de 999;
- - a raiz, ou o intervalo [1,999] deve conter o mesmo valor;
- - intervalos abaixo de [1,599] devem conter 0.
+- o intervalo [666,666] deve conter o valor 42, da única folha selecionada;
+
+- o intervalo [600,700] deve conter o valor 145, da soma de 666, 600 e 700;
+
+- o intervalo [600,999] deve conter o valor 200, da soma adiciona de 999;
+
+- a raiz, ou o intervalo [1,999] deve conter o mesmo valor;
+
+- intervalos abaixo de [1,599] devem conter 0.
 
 Vamos implementar a função de soma e descobrir.
 
@@ -88806,12 +90392,17 @@ int main() {
 
 Mais uma vez, existem muitos parâmetros porque a função é recursiva e precisa se localizar, e o princípio é o mesmo da função update, de usar as variáveis como um mapas para navegar por uma array.
 
- - node é a localização do ramo atual;
- - left é o início do intervalo que estamos;
- - right é o final do intervalo que estamos;
- - posLeft é o início do intervalo que queremos a soma;
- - posRight é o final do intervalo que queremos a soma;
- - tree é a árvore de segmentos.
+- node é a localização do ramo atual;
+
+- left é o início do intervalo que estamos;
+
+- right é o final do intervalo que estamos;
+
+- posLeft é o início do intervalo que queremos a soma;
+
+- posRight é o final do intervalo que queremos a soma;
+
+- tree é a árvore de segmentos.
 
 Note que a única variável que de fato indexa o array é a variável node. Porém, qual vai ser o índice de node é determinado pelos cálculos que giram em torno de ir para a direita ou para a esquerda pela árvore. Se for pela esquerda o próximo índice é o índice em node vezes 2, pois existem node ramos no nível em que estamos, e se for pela direita o próximo índice é node vezes 2 mais um, que é o próximo após o ramo da esquerda.
 
@@ -88819,18 +90410,29 @@ Se ficou difícil de entender, lembre-se que a busca em uma árvore binária seg
 
 Por exemplo, vamos supor que você deve chutar qual número é de 1 a 100. O número é 64.
 
- - seu chute inicial é 50;
- - a resposta: mais alto;
- - seu próximo chute é 75 (entre 50 e 100);
- - a resposta: mais baixo;
- - seu próximo chute é 63;
- - a resposta: mais alto;
- - seu próximo chute é 67;
- - mais baixo;
- - 65;
- - mais baixo;
- - 64;
- - acertou!
+- seu chute inicial é 50;
+
+- a resposta: mais alto;
+
+- seu próximo chute é 75 (entre 50 e 100);
+
+- a resposta: mais baixo;
+
+- seu próximo chute é 63;
+
+- a resposta: mais alto;
+
+- seu próximo chute é 67;
+
+- mais baixo;
+
+- 65;
+
+- mais baixo;
+
+- 64;
+
+- acertou!
 
 Entre 100 possíveis chutes foram feitos 6, ou cerca de log 100 chutes. Exatamente como é feita a busca na árvore binária, seja de segmentos ou não. Essa é a grande vantagem de usar o mapa para se localizar no array como uma árvore binária, pois a busca não será linear.
 
@@ -89099,11 +90701,15 @@ when tackling a top-down problem, it helps to think the following three thoughts
 
 ## Próximas leituras
 
- - Stein Introduction to Algorithms (Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest Clifford)
- - Data Structures and Algorithms in C++ (Lee Wittenberg)
- - How to Think About Algorithms (Jeff Edmonds)
- - Course in Algorithms Through Puzzles (Ryuhei Uehara First )
- - Guide to Competitive Programming Learning and Improving Algorithms Through Contests (Antti Laaksonen)
+- Stein Introduction to Algorithms (Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest Clifford)
+
+- Data Structures and Algorithms in C++ (Lee Wittenberg)
+
+- How to Think About Algorithms (Jeff Edmonds)
+
+- Course in Algorithms Through Puzzles (Ryuhei Uehara First )
+
+- Guide to Competitive Programming Learning and Improving Algorithms Through Contests (Antti Laaksonen)
 
 [Algorithm for Dummies]: algorithms_for_dummies
 [Cracking the code interview]: cracking_the_coding_interview
@@ -89125,7 +90731,6 @@ E no meio, estava eu, no papel do que hoje seria tipo um tech lead, mas sem a me
 Pois é, esse Easter Egg é muito mais que um desenho simpático e as memórias que chegam. É um convite de reflexão sobre a vida de computeiro e como ela passa por seus ciclos. Será que ainda fazem Easter Eggs nos escritórios ou nos home-offices, ou as pessoas simplesmente trabalham?
 
 [o chefe de cozinha que virou administrador de fast food]: https://www.joelonsoftware.com/2006/04/11/the-development-abstraction-layer-2/
-
 [esta pérola]: https://youtu.be/YYnARNh-Z0s
 
 # Hacker Rank Array - Part 1
@@ -89353,14 +90958,21 @@ Rendimento: 2 formas de furo pequenas de 15cm.
 
 ## Ingredientes
 
- - 3 ovos;
- - 280g de farinha de trigo peneirada;
- - 12g de fermento;
- - 240 g de açúcar;
- - 170g de óleo;
- - 240 g de laranja (cerca de 1 laranja grande);
- - 1 colher de sopa rasa de baunilha;
- - 1 pitada de sal.
+- 3 ovos;
+
+- 280g de farinha de trigo peneirada;
+
+- 12g de fermento;
+
+- 240 g de açúcar;
+
+- 170g de óleo;
+
+- 240 g de laranja (cerca de 1 laranja grande);
+
+- 1 colher de sopa rasa de baunilha;
+
+- 1 pitada de sal.
 
 ## Preparo
 
@@ -89420,10 +91032,13 @@ tags: food cooking
 
 Enquanto preparava o carê dei para experimentar uma receita nova de pão, essa ciabatta rústica, para acompanhar o antepasto de berinjela que a Mitiko fez pela segunda vez. Os ingredientes são simples e o preparo também. As proporções abaixo são para um pão pequeno para médio. Para ter uma ideia, nós acabamos com dois desses na mesma noite.
 
- - Farinha: 115g;
- - Água: 80% (93g);
- - Fermento instantâneo: 2%;
- - Sal: 2.5%.
+- Farinha: 115g;
+
+- Água: 80% (93g);
+
+- Fermento instantâneo: 2%;
+
+- Sal: 2.5%.
 
 ## O preparo
 
@@ -89451,19 +91066,33 @@ tags: food cooking repost
 O curry indiano caseiro dá mais trabalho de reunir todos os ingredientes do que o preparo, que são apenas dois minutos em fogo baixo misturando sempre; após esfriar é só processar tudo junto em um mixer, moedor ou liquidificador e peneirar. Dá uma olhada na lista de ingredientes:
 
 - 3 colheres de sopa de açafrão da terra;
+
 - 2 colheres de sopa de coentro em pó;
+
 - 2 colheres de sopa de cominho;
+
 - 1 colher de chá de pimenta do reino em grãos;
+
 - 1 colher de chá de canela em paus;
+
 - 1 colher de chá de alho desidratado;
+
 - 1 anis estrelado;
+
 - 1 colher de chá de noz moscada;
+
 - 1 colher de chá pimenta calabresa;
+
 - 1 colher de chá de tomilho seco;
+
 - 1 colher de chá de Caiena;
+
 - 1 colher de chá de gengibre em pó;
+
 - 6 cravos da Índia;
+
 - 1 colher de chá de sálvia seca;
+
 - 9 cardamomos.
 
 Como você deve ter visto, a base para o curry indiano é o açafrão da terra, o coentro e o cominho. O resto são temperos variados. A lista abaixo é uma sugestão. Fica bom em carê.
@@ -89519,7 +91148,9 @@ Based also on the article Why I Built My Own Shitty Static Site Generator I also
 So the TL;DR of all this is:
 
 - Convert the blog content to asciidoc (keeping hugo);
+
 - Convert the ebook publishing to epub instead of mobi without hugo if possible;
+
 - If not possible starting to work to a solution with asciidoc and its metadata instead of using the yaml header (not sure how to keep the blog running in this phase yet);
 
 The next step after this PR is to develop a tool to replace hugo and automatize blog, ebooks and whatever the blog can be turned on (with any set of content).
@@ -89685,7 +91316,6 @@ nssm.exe install msvsmon c:\tools\rmdbg\x86\msvsmon.exe /anyuser /noauth /timeou
 ```
 
 Use o path completo de onde está o msvsmon.exe na máquina guest para rodar este comando. O serviço é instalado por padrão como automático, então ao reiniciar a máquina ele já estará em execução.
-
 
 ## Kernel Debugging
 
@@ -90120,8 +91750,9 @@ Antes, sobre a tonalidade. Apesar da torra ser bem próxima, algo em torno da m�
 
 Agora voltando para as notas:
 
- - Rancho São Benedito: doce, mascavo, caramelo.
- - Sítio Posses: frutado, doce, frutas vermelhas.
+- Rancho São Benedito: doce, mascavo, caramelo.
+
+- Sítio Posses: frutado, doce, frutas vermelhas.
 
 Eu chutaria que o primeiro café que provei foi o São Benedito e o segundo Posses. Por quê? Bom, não sei. O meu chute é baseado apenas nesse sabor característico do segundo, que lembra fruta, ainda que não fosse a que eu pensei. Se está "frutas vermelhas" em um e não há menção de fruta em outro sou inclinado a fazer este chute educado.
 
@@ -90130,7 +91761,6 @@ No entanto, reavaliando mais uma vez, o mascavo e caramelo possuem esse tom um p
 Com isso encerro esta experiência. A ideia era entender o que nos leva a classificar um café de um jeito e o outro do outro. Porém, mais do que isso. É entender que para classificar precisamos de referência. Sem referência as impressões são vagas, como acidez e doçura. Que foi exatamente o que eu fiz antes de ir conferir as notas.
 
 Agora que estou terminando os copos e já dei uma espiada nas referências as notas estão mais nítidas. Interessante como o cérebro humano trabalha com padrões ligados a referências. Sem isso o mundo todo é apenas um quadro branco. Onde estão as primitivas do mundo das ideias, Platão? Na sua bunda, por acaso?
-
 
 # Reversing: Secrets of Reverse Engineering
 date: 2023-06-25
@@ -90557,15 +92187,23 @@ Grãos torrados de forma lenta mostram uma intensidade maior nos atributos senso
 
 ## Fontes
 
- - The Craft and Science of Coffee (Folmer, Britta)
- - [What Happens During Coffee Roasting: The Chemical Changes]
- - [A Beginner’s Guide to Roasting Great Coffee at Home]
- - [Honey processing: everything you need to know]
- - [Washed, Natural, Honey: Coffee Processing 101]
- - [Acidic Coffees: A Brew & Roast Guide]
- - [A Roaster’s Guide to Creating Coffee Blends]
- - [Blending Coffee Through Molecular Analysis]
- - [Physical changes coffee beans experience during roasting]
+- The Craft and Science of Coffee (Folmer, Britta)
+
+- [What Happens During Coffee Roasting: The Chemical Changes]
+
+- [A Beginner’s Guide to Roasting Great Coffee at Home]
+
+- [Honey processing: everything you need to know]
+
+- [Washed, Natural, Honey: Coffee Processing 101]
+
+- [Acidic Coffees: A Brew & Roast Guide]
+
+- [A Roaster’s Guide to Creating Coffee Blends]
+
+- [Blending Coffee Through Molecular Analysis]
+
+- [Physical changes coffee beans experience during roasting]
 
 [What Happens During Coffee Roasting: The Chemical Changes]: https://perfectdailygrind.com/2019/03/what-happens-during-coffee-roasting-the-chemical-changes/
 [A Beginner’s Guide to Roasting Great Coffee at Home]: https://perfectdailygrind.com/2020/05/a-beginners-guide-to-roasting-great-coffee-at-home/
@@ -90634,17 +92272,17 @@ Com base nisso foi montada esta mostra, com parceria da Fundação Japão.
 
 Alguns textos sobre alguns filmes:
 
- - [Assunto de Família]
- - [Depois da Tempestade]
- - [Era uma Vez em Tóquio]
- - [Ninguém Pode Saber]
+- [Assunto de Família]
+
+- [Depois da Tempestade]
+
+- [Era uma Vez em Tóquio]
+
+- [Ninguém Pode Saber]
 
 [Assunto de Família]: http://www.caloni.com.br/assunto-de-familia/
-
 [Depois da Tempestade]: http://www.caloni.com.br/depois-da-tempestade/
-
 [Era uma Vez em Tóquio]: http://www.caloni.com.br/era-uma-vez-em-toquio/
-
 [Ninguém Pode Saber]: http://www.caloni.com.br/ninguem-pode-saber/
 
 # El Porvenir Laborum de Parcela Malbec 2020
@@ -91023,7 +92661,7 @@ O maior peso dessa conversão é o file system. A leitura e escrita de milhares 
 
 Com isso eu consigo aplicar a leitura deste arquivo pelo script awk em um passo só. De quebra, as mudanças sistêmicas no blogue serão muito mais fáceis.
 
-2. Usar um arquivo por mês na escrita.
+1. Usar um arquivo por mês na escrita.
 
 Esse foi o maior economizador de tempo. Gerar 4000 novas entradas no file system do Windows estava custando caro, em torno de um minuto. Transformar isso em uns 300 arquivos fez a escrita levar de dois a três segundos!
 
@@ -91129,7 +92767,6 @@ struct HSTRING {
 Para mais detalhes do uso dessa string dê uma olhada no ótimo [artigo de Raymond Chen].
 
 [reversing]: reversing
-
 [artigo de Raymond Chen]: https://devblogs.microsoft.com/oldnewthing/20160615-00/?p=93675
 
 # Muitos animes, lugares e séries
@@ -91277,11 +92914,15 @@ A Mitiko começou a assistir este anime e dei uma olhada rápida. Minha primeira
 
 Quando fui comentar no Telegrão ficou confuso diferenciar um meme que mandei junto do meu comentário, que era mais sobre o meme brincar com a narrativa slice of life e menos sobre minhas impressões, que acreditava não se encaixar no gênero (o que explicaria o meme). Porém, como me fizeram lembrar, no anime e no mangá slice of life é mais que um método narrativo: [é de fato um gênero]. E de quebra descobri que eu gosto muito desse gênero!
 
- - [Don't Toy with Me, Miss Nagatoro]
- - Keep Your Hands Off Eizouken!
- - [Teasing Master Takagi-san]
- - [Miss Kobayashi's Dragon Maid]
- - 5 Centimeters per Second
+- [Don't Toy with Me, Miss Nagatoro]
+
+- Keep Your Hands Off Eizouken!
+
+- [Teasing Master Takagi-san]
+
+- [Miss Kobayashi's Dragon Maid]
+
+- 5 Centimeters per Second
 
 Enfim. Assisti novos episódios e recebi novas impressões (antes mesmo de estudar sobre slice of life). Vejo agora como é bem produzido este anime. Repare na estilização das cenas, na movimentação da câmera em cenas de ação, o uso de múltiplos estilos. A dublagem refinada. O uso de cores e luzes com muita propriedade. Fora o figurino e a trilha sonora, elegantes e sutis. Este anime não grita aos ventos que é muito bem feito, mas basta ver alguns segundos que deixa qualquer desenho ocidental no chinelo e dá lição a vários outros animes que não gozam de tanta grana.
 
@@ -93232,17 +94873,27 @@ O café da [Dividendo Café], que achamos no dia do aniversário da Mitiko [em M
 # Mantendo carteiras BTC de forma segura
 date: 2024-03-30
 
- - Baixe um ISO Debian live CD
- - Use o Rufus para gravar em um PenDrive
- - Faça o boot por ele
- - Conecte a um hotspot do seu celular
- - Rode o electrum direto do código fonte
- - Desligue o hotspot e não ligue mais
- - Gere um seed e copie em um papel ou importe um seed guardado em um papel
- - Copie a master public key para observar a carteira
- - Retire e coloque o PenDrive para ele montar a unidade USB para copiar a master public key
- - Cole endereços para efetuar transações offline e salve em arquivo no PenDrive (validar)
- - Envie as transações do device online (validar) importando do PenDrive
+- Baixe um ISO Debian live CD
+
+- Use o Rufus para gravar em um PenDrive
+
+- Faça o boot por ele
+
+- Conecte a um hotspot do seu celular
+
+- Rode o electrum direto do código fonte
+
+- Desligue o hotspot e não ligue mais
+
+- Gere um seed e copie em um papel ou importe um seed guardado em um papel
+
+- Copie a master public key para observar a carteira
+
+- Retire e coloque o PenDrive para ele montar a unidade USB para copiar a master public key
+
+- Cole endereços para efetuar transações offline e salve em arquivo no PenDrive (validar)
+
+- Envie as transações do device online (validar) importando do PenDrive
 
 # WinDbg travado
 date: 2024-03-14
@@ -93460,10 +95111,13 @@ Priscila é o busão que leva três coroas que gostam de se vestir de mulher par
 date: 2024-03-30
 tags: philosophy
 
- - Amor Fati: I will accept and love my fate, no matter what is it.
- - Memento Mori: I will die one day. There's no time to waste.
- - Premeditatio Malorum: I will face hard times, my mind must be prepared.
- - Summum Bonum: My focus must always be on the ultimate good - acting virtuously.
+- Amor Fati: I will accept and love my fate, no matter what is it.
+
+- Memento Mori: I will die one day. There's no time to waste.
+
+- Premeditatio Malorum: I will face hard times, my mind must be prepared.
+
+- Summum Bonum: My focus must always be on the ultimate good - acting virtuously.
 
 # Refúgio
 date: 2024-03-30
@@ -93780,9 +95434,11 @@ date: 2024-04-15
 link: https://www.sonarsource.com/blog/cognitive-complexity-because-testability-understandability/
 tags: computer english
 
- - Increment when there is a break in the linear (top-to-bottom, left-to-right) flow of the code.
- - Increment when structures that break the flow are nested.
- - Ignore "shorthand" structures that readably condense multiple lines of code into one.
+- Increment when there is a break in the linear (top-to-bottom, left-to-right) flow of the code.
+
+- Increment when structures that break the flow are nested.
+
+- Ignore "shorthand" structures that readably condense multiple lines of code into one.
 
 # O Menino e a Garça
 date: 2024-04-17
@@ -94045,17 +95701,23 @@ tags: body
 
 Em linhas gerais, as regras básicas da alimentação Low Carb são:
 
- - Eliminar o açúcar;
- - Cortar os grãos, especialmente o trigo e seus derivados;
- - Evitar raízes, principalmente para os que precisam perder mais peso;
- - Comer comida de verdade, ou seja, natural, sem aditivos químicos e não industrializada!
+- Eliminar o açúcar;
+
+- Cortar os grãos, especialmente o trigo e seus derivados;
+
+- Evitar raízes, principalmente para os que precisam perder mais peso;
+
+- Comer comida de verdade, ou seja, natural, sem aditivos químicos e não industrializada!
 
 Veja ainda outras diretrizes importantes dessa estratégia alimentar:
 
- - Perder o medo da gordura natural dos alimentos (mas não a noção, ok?);
- - Comer quando se tem fome e não a cada 3 horas obrigatoriamente (é fundamental diferenciar a fome da vontade de comer!);
- - Esquecer os produtos DIET, LIGHT, FIT, LOW FAT, entre outros;
- - Não se preocupar com restrição calórica nem com contagem de calorias.
+- Perder o medo da gordura natural dos alimentos (mas não a noção, ok?);
+
+- Comer quando se tem fome e não a cada 3 horas obrigatoriamente (é fundamental diferenciar a fome da vontade de comer!);
+
+- Esquecer os produtos DIET, LIGHT, FIT, LOW FAT, entre outros;
+
+- Não se preocupar com restrição calórica nem com contagem de calorias.
 
 Bottom line: Low Carb não é uma dieta. É um estilo de vida que pode e deve ser adotado com uma perspectiva de longo prazo. Quebrar as regras, eventualmente, não prejudica o corpo já adaptado e é muito saudável para a mente. Equilíbrio e bom senso são fundamentais!
 
@@ -94116,7 +95778,6 @@ Nossa visita mais simpática da viagem em Cafayate foi esta Burbujas de Altura, 
 Mas este post não é sobre ele, mas sobre este Blend de Blends. O nome Vinland vem das origens Viking da família (norueguesa) e este é o primeiro reserva produzido no terreno do Burbujas no Valles Calchaquíes. Se trata de uma mistura de Cabernet Franc e Malbec.
 
 Ao abrir seu aroma de bodega é inebriante. Seu sabor vai se mostrando aos poucos, conforme respira. Se trata de um corpo médio, um pouco de acidez das uvas e um outro tanto de frutas mais maduras.
-
 
 # Mantendo o mesmo repo com dados públicos e privados
 date: 2024-05-01
@@ -94308,12 +95969,13 @@ Já conhecia a embalagem, mas não me lembro de ter degustado algum café desta 
 
 Nos meus testes:
 
- - Infusão+pressão: tira uma doçura extra.
- - Coado (aka Perculação): deixa com pouco corpo.
+- Infusão+pressão: tira uma doçura extra.
+
+- Coado (aka Perculação): deixa com pouco corpo.
 
 PS: eita, lembrei que cheguei a fazer na italiana:
 
- - Pressão: mais acidez, porém forte amargor (tive que diluir na água).
+- Pressão: mais acidez, porém forte amargor (tive que diluir na água).
 
 # Sacred Cow (Diana Rodgers and Robb Wolf)
 date: 2024-07-11
@@ -94323,12 +95985,17 @@ Lendo este livro indicado em algum [podcast da Tribo Forte]. Também coletando o
 
 ## Como medir a força de uma pesquisa:
 
- - What type of study was it? Observational? Experimental?
- - Were there any conflicts of interest? Who paid for the study? Did a company with a vested interest in the results fund it? Were the researchers vegan or vegetarian?
- - What foods were tested? How was the information about the foods eaten collected?
- - How many participants? Who were the participants? Humans? Animals?
- - Are the results of the study significant to overall mortality? Were they just looking at one specific compound in a food?
- - If the study reports an increase in disease risk, what is the overall significance of this risk?
+- What type of study was it? Observational? Experimental?
+
+- Were there any conflicts of interest? Who paid for the study? Did a company with a vested interest in the results fund it? Were the researchers vegan or vegetarian?
+
+- What foods were tested? How was the information about the foods eaten collected?
+
+- How many participants? Who were the participants? Humans? Animals?
+
+- Are the results of the study significant to overall mortality? Were they just looking at one specific compound in a food?
+
+- If the study reports an increase in disease risk, what is the overall significance of this risk?
 
 Recortes que fiz da leitura:
 
@@ -94538,11 +96205,11 @@ The problem is not technological, moral, or even genetic (although some hardwire
 
 ## Links
 
- - We have a long, detailed blog post taking a critical look at amino acids in plant foods versus animal foods at https://www.sacredcow.info/blog/are-all-proteins-created-equal.
- - We have outlined in chapter seventeen what our recommendations are for an optimal diet template, but for a deeper dive on nutrient density, comparing meat-rich, omnivore, and vegan diets, please visit https://www.sacredcow.info/blog/what-if-we-all-went-plant-based.
+- We have a long, detailed blog post taking a critical look at amino acids in plant foods versus animal foods at https://www.sacredcow.info/blog/are-all-proteins-created-equal.
 
-[artigo do The Guardian] https://www.theguardian.com/environment/2020/jun/19/why-you-should-go-animal-free-arguments-in-favour-of-meat-eating-debunked-plant-based
-[podcast da Tribo Forte]: https://triboforte.com.br/podcasts/
+- We have outlined in chapter seventeen what our recommendations are for an optimal diet template, but for a deeper dive on nutrient density, comparing meat-rich, omnivore, and vegan diets, please visit https://www.sacredcow.info/blog/what-if-we-all-went-plant-based.
+
+[artigo do The Guardian] https://www.theguardian.com/environment/2020/jun/19/why-you-should-go-animal-free-arguments-in-favour-of-meat-eating-debunked-plant-based[podcast da Tribo Forte]: https://triboforte.com.br/podcasts/
 
 # Petnat Rosado Malbed (Burbujas de Altura)
 date: 2024-05-25
@@ -95332,9 +96999,9 @@ Uma ideia que meu amigo Fábio deu seria ser um timer genérico e implementar o 
 
 Esses resultados da internet me fazem pensar que estou indo no caminho errado (se não é comum, tá errado).
 
- - Fabio: "Se ele é um wrapper por que você não faz a classe crua do zero onde fica tudo sequencial e passa ele para a classe final."
+- Fabio: "Se ele é um wrapper por que você não faz a classe crua do zero onde fica tudo sequencial e passa ele para a classe final."
 
- - Caloni: "Boa!"
+- Caloni: "Boa!"
 
 Você, caro urso, me deu uma ideia: simplificar a interface de start do `TimeWrapper` (esse é o nome da classe no basecode) e usar o resultado como uma implementação dummy, mas acho que já pensei num jeito de resolver que é ligeiramente diferente: ao final da tarefa ele chama um `timer.Restart` e daí é só ir acumulando estado.
 
@@ -96645,10 +98312,13 @@ Este Almodóvar pode ser considerado clássico, pois contém todos os elementos 
 date: 2025-01-29
 tags: computer english
 
- - Theorized something that could be easily discarded.
- - Checked for peripherical code without theorizing anything. Twice.
- - Made some discovery about something not closely related to the bug.
- - Finally talked to the user and got some real information that tracked the next step.
+- Theorized something that could be easily discarded.
+
+- Checked for peripherical code without theorizing anything. Twice.
+
+- Made some discovery about something not closely related to the bug.
+
+- Finally talked to the user and got some real information that tracked the next step.
 
 # Grandes Hits (Ned Benson, 2024)
 date: 2025-01-30
@@ -98538,12 +100208,17 @@ like `[1]` (this need to be entered as code, or it is a bottom reference?).
 
 Ideas to be implemented here and could be divided in other issues:
 
- - Reference paragraphs.
- - Tag paragraphs.
- - Consider subtitles as able to be listed and search (including by its internal tags).
- - When a new text with same slug is created reference old text with same pseudo-slug.
- - Reverse reference (paragraphs that reference other titles and subtitles).
- - Consider bottom references ([1]) when thinking about this.
+- Reference paragraphs.
+
+- Tag paragraphs.
+
+- Consider subtitles as able to be listed and search (including by its internal tags).
+
+- When a new text with same slug is created reference old text with same pseudo-slug.
+
+- Reverse reference (paragraphs that reference other titles and subtitles).
+
+- Consider bottom references ([1]) when thinking about this.
 
 # Apply tags based on metadata
 date: 2026-02-12
@@ -98587,9 +100262,11 @@ tags: projects ideas
 
 Today we can go to the beginning of book and the index with some huge groups, where the most useful is the letters and tags. We can do better:
 
- - Months and sections (see #2) listing titles.
- - ~Better tags listing (all at once as the script output).~
- - Link to the real beginning and end of texts, chronologically.
+- Months and sections (see #2) listing titles.
+
+- ~Better tags listing (all at once as the script output).~
+
+- Link to the real beginning and end of texts, chronologically.
 
 # Separate config from script
 date: 2026-02-12
@@ -98604,6 +100281,7 @@ date: 2026-02-12
 tags: projects ideas
 
 - rename tags and entire file
+
 - select, move and delete posts
 
 # Footnotes
@@ -98661,15 +100339,19 @@ Aqui estão os artigos que considero essenciais para seguir a carreira de progra
 
 Por isso mesmo desenvolvi uma seção com o tema "básico do básico":
 
- - [Básico do básico: tipos]
- - [Básico do básico: ponteiros]
- - [Básico do básico: binário]
- - [Básico do básico: assembly]
+- [Básico do básico: tipos]
+
+- [Básico do básico: ponteiros]
+
+- [Básico do básico: binário]
+
+- [Básico do básico: assembly]
 
 Seguindo a mesma vibe tenho dois artigos exploratórios focados em desenvolvimento para Windows (mas que podem ser adaptados para qualquer IDE hoje em dia) sobre programar e depurar no dia-a-dia. Estes são os guias básicos:
 
- - [Guia básico para programadores de primeiro int main]
- - [Guia básico para programadores de primeiro breakpoint]
+- [Guia básico para programadores de primeiro int main]
+
+- [Guia básico para programadores de primeiro breakpoint]
 
 Como este último é sobre depuração você logo vê que os temas se mesclam. Muito pouco tempo um programador se dedica a programar (e hoje com a IA menos ainda). Muito mais tempo é dedicado a [depuração mental e prática].
 
@@ -98696,47 +100378,71 @@ Por isso estou listando posts com um viés mais sobre engenharia reversa do que 
 
 E por isso mesmo tenho alguns artigos mais densos utilizando ferramentas mais complexas como WinDbg e IDA. Eu sempre apelo para o WinDbg porque programo para Windows e ele é o depurador definitivo para todos os casos. Ele é mantido pela Microsoft junto do sistema operacional e é possível depurar userland e kernel na mesma ferramenta. Seus comandos não são intuitivos, mas seu poder acaba compensando. Especialmente para reversa :).
 
- - [Aprendendo rapidamente conceitos essenciais do WinDbg]
- - [Hook de API no WinDbg]
- - [Hook de COM no WinDbg]
- - [Analisando Dumps com WinDbg e IDA]
+- [Aprendendo rapidamente conceitos essenciais do WinDbg]
+
+- [Hook de API no WinDbg]
+
+- [Hook de COM no WinDbg]
+
+- [Analisando Dumps com WinDbg e IDA]
 
 Antes de saber como desmontar as coisas para descobrir erros ou comportamentos é bom ter uma noção de como as coisas deveriam funcionar. Esses dois primeiros artigos são leves e irão te guiar por este caminho. Os dois próximos já começam a adentrar em assuntos que um depurador master precisa dominar, como multithreading. O último deles abre o leque de aprendizados fundamentais.
 
- - [Construindo provas de conceito (PoC)]
- - [Resolvendo bugs quase impossíveis]
- - [A fila das threads]
- - [A sala da fila das threads]
- - [Engenharia reversa para principiantes]
+- [Construindo provas de conceito (PoC)]
+
+- [Resolvendo bugs quase impossíveis]
+
+- [A fila das threads]
+
+- [A sala da fila das threads]
+
+- [Engenharia reversa para principiantes]
 
 A partir daí você terá alguns possíveis caminhos a seguir com mais ênfase. Pode se dedicar inteiramente ao baixo nível, mais próximo das entranhas da máquina e do sistema operacional. Eu não tenho muito aqui sobre kernel development, mas a depuração muitas vezes passa pelo kernel mode e assembly. Você pode pular esta série e a seguinte se não preferir se enveredar por caminhos tão escuros.
 
- - [Aprendendo assembly com o depurador]
- - [Importando tipos de outros projetos]
- - [Breakpoints promíscuos]
- - [Patch de emergência]
- - [Patch de emergência 2]
+- [Aprendendo assembly com o depurador]
+
+- [Importando tipos de outros projetos]
+
+- [Breakpoints promíscuos]
+
+- [Patch de emergência]
+
+- [Patch de emergência 2]
 
 Este grupo abaixo é mais sobre conhecimento de sistema aliado à depuração efusiva. Deve sair desta lista com uma confiança muito boa em conseguir depurar qualquer coisa para Windows e outros SOs (o aprendizado de um acaba sendo uma escalada independente para outros).
 
- - [Depuração da MBR]
- - [O boot no Windows: sem Windows]
- - [O boot no Windows: pré-NTLDR]
- - [O boot no Windows: NTLDR]
- - [O boot no Windows: Kernel]
- - [Como Fazer Debug de User Mode pelo Kernel Mode]
- - [Depurando até o último segundo]
+- [Depuração da MBR]
+
+- [O boot no Windows: sem Windows]
+
+- [O boot no Windows: pré-NTLDR]
+
+- [O boot no Windows: NTLDR]
+
+- [O boot no Windows: Kernel]
+
+- [Como Fazer Debug de User Mode pelo Kernel Mode]
+
+- [Depurando até o último segundo]
 
 Agora, se você sentir que sua vibe está mais para user land, talvez um escalation engineer que manja muito sobre os paranauê dos registros, coisas e tá, quem sabe uma boa não seja você praticar reversa e depuração de sistemas fechados? Nesta série tenho algumas brincadeiras que fiz no serviço e no lazer.
 
- - [Alterando mensagem de erro no Notepad]
- - [Conversor de Houaiss para Babylon - parte 1]
- - [Como funciona o PsExec]
- - [Encontrando as respostas do Flash Pops]
- - [Process Monitor e o monopólio malcriado]
- - [Restaurando o registro]
- - [Suporte técnico]
- - [Consumo abusivo de memória]
+- [Alterando mensagem de erro no Notepad]
+
+- [Conversor de Houaiss para Babylon - parte 1]
+
+- [Como funciona o PsExec]
+
+- [Encontrando as respostas do Flash Pops]
+
+- [Process Monitor e o monopólio malcriado]
+
+- [Restaurando o registro]
+
+- [Suporte técnico]
+
+- [Consumo abusivo de memória]
 
 E é isso. Desculpe pela extensa lista. E ela não é final, há mais posts escondidos sobre esses assuntos por aqui. No futuro devo manter este artigo atualizado, talvez mais enxuto e focado ou estruturado por áreas específicas. Se você quiser algum tipo de contato eu criei um [grupo de engenharia reversa no Telegram]. Dá uma passada por lá.
 
@@ -98914,3 +100620,4 @@ Aqui está outro texto.
 ```
 
 Caveat: como inserir links em entradas de posts? Talvez usar algum método cru como "se uma linha inteira for um link e for o primeiro vira o link principal do blog post".
+
