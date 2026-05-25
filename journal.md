@@ -62959,7 +62959,7 @@ Mas não deveria estar surpreso com a incapacidade de Shana Feste trazer alguma 
 
 # Coroutine Internals
 date: 2018-09-18
-tags: computer
+tags: computer blog
 
 Uma corrotina é um mecanismo de troca de contexto onde apenas uma thread está envolvida. Ela me faz lembrar do Windows 3.0, não exatamente por não existirem threads (e não existiam mesmo), mas pelo caráter cooperativo dos diferentes códigos.
 
@@ -63346,7 +63346,7 @@ Maniac dá impressão de não conseguir explorar muito bem seus personagens secu
 
 # Boost.Bind e os Erros Escrotos
 date: 2018-10-01
-tags: computer
+tags: computer blog
 
 Estou voltando a programar algumas coisas no boost. Algo que eu perdi ao me isolar do movimento de modernização do C++ foi a capacidade brilhante da biblioteca boost em encapsular e abstrair conceitos de engenharia de software de maneira portável e mantendo a filosofia por trás da STL, que ainda é a melhor maneira de trabalhar algoritmos já criada em qualquer linguagem de programação séria.
 
@@ -64696,7 +64696,7 @@ Não é preciso dizer que Lorre está analisando o processo criativo e o que faz
 
 # A Maneira Errada de Começar um Projeto é com Visual Studio
 date: 2018-12-11
-tags: computer
+tags: computer blog
 
 Estava eu trabalhando com um sample e resolvi colocar controle de fonte para analisar as mudanças. E a mudança mais inesperada que eu vi quando digitei git diff foi que ele achou que meus arquivos de código-fonte estivessem em binário.
 
@@ -64718,8 +64718,6 @@ Se você tiver o mesmo problema e quiser corrigir segue o passo-a-passo: salve o
 Isso pode ser obtido na janela de "Save As" do Visual Studio. Há uma flecha para baixo do lado do botão Save onde você pode abrir a opção "Save with Encoding".
 
 Na prática, troque possivelmente de "Unicode - Codepage 1200" para "Unicode (UTF-8 without signature) - Codepage 65001".  A partir do segundo commit o git começará a entender que você atingiu a maioridade e vai comparar os arquivos como gente grande para você.
-
-A partir do segundo commit o git começará a entender que você atingiu a maioridade e vai comparar os arquivos como gente grande para você.
 
 # Mary Poppins
 date: 2018-12-11
@@ -65133,7 +65131,7 @@ A Pé Ele Não Vai Longe é a síntese de tudo o que a vida verdadeiramente é s
 
 # Bug no Boost Asio usando função AcceptEx do Winsock
 date: 2019-01-06
-tags: computer
+tags: computer blog
 
 Depois de um mês de correção e mais um ou dois meses preparando um compilado do que ocorreu no software que estamos mantendo, foi descoberta uma situação muito peculiar que ocorre tanto em Windows XP quanto no Windows 10, mas que no 10 tem uma correção bem-educada e no XP... bom, nem tanto.
 
@@ -65255,7 +65253,7 @@ Já para o Boost.Asio será necessário um estudo de impacto e o envio de uma pr
 Update (2019-01-07): Embora use a função WSASocketW o Boost.Asio não suporta a parametrização das flags, e sua implementação não é sobrecarregável, fazendo parte do namespace socket_opt. Foi criado [um issue] no GitHub do projeto Boost.Asio para ver os comentários e colocações da equipe. No aguardo.
 
 [em seu blog]: https://blogs.msdn.microsoft.com/oldnewthing/20111216-00/?p=8873/
-[um issue]: https://github.com/boostorg/asio/issues/190
+[um issue]: https://github.com/chriskohlhoff/asio/issues/665
 
 # Minecraft: O Jogo
 date: 2019-01-06
@@ -67146,7 +67144,7 @@ Exceto pelo massacre. Pois depois disso a vidinha dessas pessoas foi tomada para
 
 # Code Jam 2019 Qualification Round
 date: 2019-04-07
-tags: computer
+tags: computer blog
 
 Estou viajando e com poucas horas de acesso a um computador, mas os dois primeiros desafios do Code Jam esse ano foram tão simples que sequer precisaram de meia-hora. Isso para um chinês, campeões em campeonatos de programação, deve ser equivalente a cinco minutos com um código C enxuto. Mas estou apenas aprendendo.
 
@@ -67683,7 +67681,7 @@ O que torna engraçado esse estilo, como o grupo responsável por Flying Circus 
 
 # Const Int Pointer Var
 date: 2019-04-29
-tags: computer
+tags: computer blog
 
 A melhor forma de declarar variáveis ponteiros (constante ou não, mas segue o exemplo) é `const int * var`. Explicação:
 
@@ -67974,7 +67972,7 @@ Além disso, o ponto de vista é sempre dos moradores. Não vemos em momento alg
 
 # Visual Studio Unit Test (C++)
 date: 2019-05-06
-tags: computer
+tags: computer blog
 
 Desde o Visual Studio 2015 há suporte a unit tests em C++ automatizado na IDE. Porém, a partir do VS 2017 15.5 o suporte aumentou drasticamente, vindo embutidos os suportes para as bibliotecas de teste Google Test, Boost.Test e CTest. Além, é claro, do Microsoft Unit Testing Framework for C++, o caseiro da M$.
 
@@ -68143,17 +68141,17 @@ Mas não me leve a mal, este é um filme com temas interessantes e uma personage
 
 # Coroutines Em C: Picoro
 date: 2019-05-08
-tags: computer
+tags: computer blog
 
 Tantas linguagens hoje em dia tentando implementar a abstração de corrotinas e inserindo mais camadas de abstração (fibras e cereais)... há duas implementações já no Boost, ambas dependendo de uma biblioteca de contexto de stack que é dependente de arquitetura (programada em Assembly).
 
 E aqui está a linguagem C com sua elegância, minimalismo e a filosofia "just works", por mais ou menos 50 anos.
 
-Estava pesquisando sobre bibliotecas de corrotinas em C e encontrei a [Picoro], de Tony Finch. O repositório pode ser baixado em git://git.chiark.greenend.org.uk/~fanf/picoro.git. Três coisas me encantaram nela:
+Estava pesquisando sobre bibliotecas de corrotinas em C e encontrei a [Picoro], de Tony Finch. Três coisas me encantaram nela:
 
 1. portabilidade (fácil de testar em qualquer arquitetura).
 
-2. simplificade (um header e um .c com menos de 200 linhas, e a maioria são comentários).
+2. simplicidade (um header e um .c com menos de 200 linhas, e a maioria são comentários).
 
 3. manutenção (o último commit é de 2010, ou seja, ninguém mais mexeu nela por nove anos).
 
@@ -68163,7 +68161,7 @@ A linguagem C já implementa troca de contexto através das funções padrão `s
 
 O picoro organiza tudo isso em torno de uma lista ligada. Aliás, de duas listas ligadas: `running` e `idle`, onde o head de cada uma delas é usado para verificar se há corrotinas paradas ou em execução. Há algumas regras básicas para que tudo funcione. Por exemplo, uma corrotina que já foi executada até o final ou que está bloqueada pela chamada de `resume` não pode ser posta para rodar.
 
-Vamos começar com um exemplo simples: apenas um corrotina que recebe um inteiro e incrementa três vezes. A cada vez que ele incrementa ele devolve o controle de execução via yield. O `main` cria três dessas corrotinas e dá resume em cada uma delas três vezes, finalizando a execução de todas. Ao final, o counter final é de 9.
+Vamos começar com um exemplo simples: apenas uma corrotina que recebe um inteiro e incrementa três vezes. A cada vez que ele incrementa ele devolve o controle de execução via yield. O `main` cria três dessas corrotinas e dá resume em cada uma delas três vezes, finalizando a execução de todas. Ao final, o counter final é de 9.
 
 ```
 #include "..\picoro\picoro.h"
@@ -68433,7 +68431,7 @@ Está vendo como pular para o final é muito melhor?
 
 # C Resolve Tudo: Orientação a Objetos (com Polimorfismo)
 date: 2019-05-17
-tags: computer
+tags: computer blog
 
 Como programadores há um vício em nossas cabeças que é estar constantemente buscando a bala de prata, ou seja, a solução final e única para todos os nossos problemas de implementação. Com o tempo e alguma experiência descobrimos que tal coisa não existe, mas até lá nos encantamos com esse ou aquele framework, e claro, com essa ou aquela linguagem.
 
@@ -68443,7 +68441,7 @@ Expliquei tudo isso para chegar no tema deste artigo: você pode fazer tudo isso
 
 Mas aí você deve estar se perguntando: "supor que uma linguagem resolve tudo não é estar defendendo também uma bala de prata?". A resposta é sim e não. Sim, é uma bala de prata se você pensar que pode fazer do zero sites e interfaces gráficas modernas em C puro. Mas a resposta também é não porque eu estou trabalhando em uma outra camada, aquela em que as soluções que ficam pra sempre são implementadas. Estou falando de pensar sempre na linguagem C quando estiver interessado no funcionamento das outras soluções.
 
-Esse mindset propost tem como objetivo impedir que você pense que as outras soluções são mágicas porque se você consegue pensar em C ela é real. Se tem algo que a linguagem C não é esse algo é mágica. C é uma simples abstração de uma máquina virtual que se relaciona de maneira muito íntima com as implementações em assembly de várias arquiteturas. Mágica é algo que te impede de enxergar em que momento uma solução se encontra com o hardware. C nunca irá te impedir de fazer isso.
+Esse mindset proposto tem como objetivo impedir que você pense que as outras soluções são mágicas porque se você consegue pensar em C ela é real. Se tem algo que a linguagem C não resolve esse algo é mágica. C é uma simples abstração de uma máquina virtual que se relaciona de maneira muito íntima com as implementações em assembly de várias arquiteturas. Mágica é algo que te impede de enxergar em que momento uma solução se encontra com o hardware. C nunca irá te impedir de fazer isso.
 
 Dito isto, vamos analisar algumas balas de prata e entender como em C isso é implementado para revelar a mágica.
 
@@ -68476,7 +68474,7 @@ int main()
 }
 ```
 
-A sobrecarga se torna algo trivial, bem documentada através dos nomes das funções que você está chamando. Tudo fica às claras, nada implícito, nada disse que me disse. Se eu chamo um método NewMyClass2 é óbvio que estou construindo uma segunda versão baseada na primeira, e posso inclusive comparar para ver se os métodos são originais ou sobrescritos com `obj.method == &method`, por exemplo. Além disso, é possível realizar composições de tipos onde alguns métodos são sobrescritos enquanto outros são compostos por chamadas duplas, triplas. Não há qualquer limitação ao polimorfismo exceto o que você define.
+A sobrecarga se torna algo trivial, bem documentada através dos nomes das funções que você está chamando. Tudo fica às claras, nada implícito, nada disse-que-me-disse. Se eu chamo um método NewMyClass2 é óbvio que estou construindo uma segunda versão baseada na primeira, e posso inclusive comparar para ver se os métodos são originais ou sobrescritos com `obj.method == &method`, por exemplo. Além disso, é possível realizar composições de tipos onde alguns métodos são sobrescritos enquanto outros são compostos por chamadas duplas, triplas. Não há qualquer limitação ao polimorfismo exceto o que você define.
 
 ```
 struct MyClass
@@ -69145,7 +69143,7 @@ Falta unidade nO Albergue Espanhol, mas é isso mesmo o que o torna tão adoráv
 
 # C Resolve Tudo: goto
 date: 2019-05-28
-tags: computer
+tags: computer blog
 
 Para quem decide usar a linguagem C para resolver tudo, a gota da água é o goto. Ele é flexível, cabe em (quase) qualquer ponto do código e tem 1001 utilidades. O goto é o bombril da engenharia de software.
 
@@ -70141,7 +70139,7 @@ Mas estou sendo parcial como nosso amigo diretor. Uma resposta mais honesta seri
 
 # Como Publicar Seu Blog Em Hugo Para Ebook
 date: 2019-07-10
-tags: projects computer
+tags: projects computer blog
 
 Eu publico meu blog inteiro de tempos em tempos para um ebook que construo formatando primeiro em html através de um tema do [Hugo], o parser de blog que estou usando no momento porque ele suporta 2500 posts sem reclamar. É uma receita simples de sucesso se você precisar ter todo seu conteúdo indexado para rápida referência ou leitura cronológica.
 
@@ -70697,11 +70695,10 @@ Porém, este também é um roteiro inteligente, pois coloca mulheres independent
 
 # Some things I learned in a Hacker Rank exercise
 date: 2019-08-08
-tags: computer ccpp english
+link: https://gist.github.com/Caloni/31fd1105dd18374105d2eb00bce7ee3f
+tags: computer ccpp english blog
 
 A couple of days ago I subscribed to Hacker Hank, a website specialized in provide interview exercises. The site is as a better version of Code Jam, with the possibility to Compile & Run the code, as well as running several test cases.
-
-<https://gist.github.com/Caloni/31fd1105dd18374105d2eb00bce7ee3f>
 
 Talking with friends about one of them proposed a interesting puzzle called Find the Running Median. This is a good problem because it is easy to understand and tricky to implement.
 
@@ -71307,7 +71304,7 @@ Sem a mínima condição de sustentar alguma reflexão de fato, o diretor Babak 
 
 # Do Bit para o Código
 date: 2019-09-03
-tags: computer
+tags: computer blog
 
 Olá. Esta é uma viagem para dentro do computador. Como funciona um computador? Você sabe? Pois é, nem eu. Mas vamos explorar alguns pontos onde nossa vã metafísica mal encosta na singularidade que é uma arquitetura Von Neumann.
 
@@ -71317,30 +71314,9 @@ Por enquanto, a esmagadora maioria dos computadores utiliza a frequência de uma
 
 Note que tanto faz a maneira com que você traduz a frequência, desde que haja apenas dois valor possíveis, condição sine qua non para definir um bit. Você pode interpretar uma frequência acima do nível estabelecido como ligado ou desligado, mas a partir dessa definição a frequência oposta, abaixo desse nível, deve ser o oposto do que foi definido, para assim termos o ligado/desligado (ou desligado/ligado).
 
-```
-(a) limite entre
-    frequência alta (1) e
-    frequência baixa (0)
- 1
-                /--\
------------- /--    --\  ------- (a)
-          /--          --\
-       /--                --\    0
-    /--                      --\
-----                            ---
-(b) limite entre
-    frequência alta (0) e
-    frequência baixa (1)
- 0
-                /--\
------------- /--    --\  ------ (b)
-          /--          --\
-       /--                --\    1
-    /--                      --\
-----                            ---
-```
+![Limite entre frequência alta e frequência baixa](limite_frequencia_alta_vs_frequencia_baixa.png)
 
-A onda (mais uma intepretação da realidade) gerada pela frequência do sinal elétrico, então, é dividida em dois espaços, delimitados pelo filtro, que funciona como um filtro de linha: apenas a partir de um certo valor da onda ele deixa passar os elétrons, que irão definir do outro lado se o bit está ligado ou desligado.
+A onda (mais uma interpretação da realidade) gerada pela frequência do sinal elétrico, então, é dividida em dois espaços, delimitados pelo filtro, que funciona como um filtro de linha: apenas a partir de um certo valor da onda ele deixa passar os elétrons, que irão definir do outro lado se o bit está ligado ou desligado.
 
 Isso não quer dizer que o bit desligado (ou ligado, depende de como você definir) não contém eletricidade correndo antes do filtro, apenas que seu valor está abaixo do estabelecido para contar como ligado (ou desligado).
 
@@ -71350,33 +71326,15 @@ Conseguindo usar e armazenar bits, a matemática fica muito mais simples e intui
 
 Como a base é dois convencionamos a dar nomes para as potências de 2 para conseguirmos trabalhar com valores maiores que 0 e 1. 2 elevado a 8, por exemplo, chamamos de byte, embora não no mundo todo, isso também pode mudar de interpretação, dependendo da arquitetura. Porém, na grande maioria do mundo, um byte serão 8 bits, cada um pondendo valer 0 ou 1, e juntando todos, podemos representar os valores de 0 a 255, pois 2 elevado a 8 são 256 combinações (e devemos incluir o zero).
 
-```
----------------
-1 1 0 0 1 0 1 0
----------------
-| | | | | | | |--- bit #0 (até 1)
-| | | | | | |----- bit #1 (até 3)
-| | | | | |------- bit #2 (até 7)
-| | | | |--------- bit #3 (até 15)
-| | | |----------- bit #4 (até 31)
-| | |------------- bit #5 (até 63)
-| |--------------- bit #6 (até 127)
-|----------------- bit #7 (até 255)
-```
+![Bits juntados](bits_juntados.png)
 
 A partir daí não existe muita mágica, pois juntando bytes podemos ter kilobytes (1024 bytes), dos kilobytes podemos ter megabytes, assim por diante até chegarmos no seu "HD de 2 Tera", o que quer dizer 2 terabytes de informação, ou 35184372088832 bits, todos organizados para serem acessados, ou um a um ou em blocos. O que for mais conveniente para a arquitetura.
 
 Como acessamos esses bits? Bom, informação gera informação na tecnologia da informação. Precisamos dizer, usando bits, quais bits queremos obter do seu "HD de 2 Tera". O primeiro? O segundo? O vigésimo-quinto? O de número 35184372088832?
 
-Para conseguir acessar precisamos de acesso, e esse acesso precisa conseguir deixar eu falar qual bit/byte que eu quero, ou seja, permitir que eu consiga passar esse valor (primeiro, segundo, etc). Onde está esse bit/byte nós chamamos de endereço, e para passar o endereço de um bit/byte para um HD usamos algo chamado barramento, que é como uma rodovia pode onde passam no máximo X bits (cada ----- é uma rodovia diferente).
+Para conseguir acessar precisamos de acesso, e esse acesso precisa conseguir deixar eu falar qual bit/byte que eu quero, ou seja, permitir que eu consiga passar esse valor (primeiro, segundo, etc). Onde está esse bit/byte nós chamamos de endereço, e para passar o endereço de um bit/byte para um HD usamos algo chamado barramento, que é como uma rodovia por onde passam no máximo X bits (cada ----- é uma rodovia diferente).
 
-```
-         1 -> ----- -> 1
-         0 -> ----- -> 0
-10101 -> 1 -> ----- -> 1 -> 10101
-         0 -> ----- -> 0
-         1 -> ----- -> 1
-```
+![Rodovia de bits](rodovia_de_bits.png)
 
 Porém, como vimos, dependendo do número de bits há um limite da quantidade de valores que podemos representar, e isso irá limitar o nosso acesso aos bits que queremos do "HD de 2 Tera".
 
@@ -100621,3 +100579,8 @@ Aqui está outro texto.
 
 Caveat: como inserir links em entradas de posts? Talvez usar algum método cru como "se uma linha inteira for um link e for o primeiro vira o link principal do blog post".
 
+# Monitor grávido
+date: 2026-05-25
+tags: journal
+
+Meu monitor curvo Samsung que ganhei de presente de um amigo estava começando a apresentar falhas de conexão no HDMI e eu precisava ficar desconectando, conectando, abrindo o laptop até que ele conectasse. Decidi voltar para o monitor que havia comprado há um tempo, mais novo que este, da Dell, por recomendação de um amigo. Ele passou um tempo empoeirando em um canto do quartinho. Agora que fiquei acostumado com o monitor curvo ele parece ter uma barriga na frente, como se fosse o oposto do outro. Já tem alguns dias com essa sensação. Eu acho que ele está grávido esperando um tabletzinho.
