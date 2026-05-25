@@ -65230,7 +65230,7 @@ Até aí tudo bem. O problema na verdade ocorre no segundo request enviado quand
 
 ## Solução #1 (Windows Vista ou superior): InitializeProcThreadAttributeList e UpdateProcThreadAttribute
 
-A solução para evitar handles herdáveis que não são desejáveis é proposta pelo Raymond Chen [em seu blog]: usar as API InitializeProcThreadAttributeList e UpdateProcThreadAttribute. Com isso é possível especificar quais handles podem ser herdados pelo processo_filho, e obviamente iremos colocar na lista apenas os arquivos de entrada e saída padrão (obs: não duplicar saída_padrão com erro_padrão quando ambos são o mesmo arquivo/handle).
+A solução para evitar handles herdáveis que não são desejáveis é proposta pelo Raymond Chen em seu blog: usar as API InitializeProcThreadAttributeList e UpdateProcThreadAttribute. Com isso é possível especificar quais handles podem ser herdados pelo processo_filho, e obviamente iremos colocar na lista apenas os arquivos de entrada e saída padrão (obs: não duplicar saída_padrão com erro_padrão quando ambos são o mesmo arquivo/handle).
 
 ## Solução #2 (Windows XP): Ad Hoc
 
@@ -65252,7 +65252,6 @@ Já para o Boost.Asio será necessário um estudo de impacto e o envio de uma pr
 
 Update (2019-01-07): Embora use a função WSASocketW o Boost.Asio não suporta a parametrização das flags, e sua implementação não é sobrecarregável, fazendo parte do namespace socket_opt. Foi criado [um issue] no GitHub do projeto Boost.Asio para ver os comentários e colocações da equipe. No aguardo.
 
-[em seu blog]: https://blogs.msdn.microsoft.com/oldnewthing/20111216-00/?p=8873/
 [um issue]: https://github.com/chriskohlhoff/asio/issues/665
 
 # Minecraft: O Jogo
@@ -70143,7 +70142,7 @@ tags: projects computer blog
 
 Eu publico meu blog inteiro de tempos em tempos para um ebook que construo formatando primeiro em html através de um tema do [Hugo], o parser de blog que estou usando no momento porque ele suporta 2500 posts sem reclamar. É uma receita simples de sucesso se você precisar ter todo seu conteúdo indexado para rápida referência ou leitura cronológica.
 
-A primeira coisa a ser feita é preparar um tema para formatar seu html. Eu já tenho um [linkado no meu blogue] e que precisa apenas formatar o index.html, pois todo o conteúdo e índices estarão lá. Segue um exemplo atual que uso. Ele possui índice alfabético, inclusão de um arquivo-diário que mantenho, listagem das categorias (com índices para cada uma delas) e listagem cronológica (e link para pular direto para o conteúdo).
+A primeira coisa a ser feita é preparar um tema para formatar seu html. Segue um exemplo atual que uso. Ele possui índice alfabético, inclusão de um arquivo-diário que mantenho, listagem das categorias (com índices para cada uma delas) e listagem cronológica (e link para pular direto para o conteúdo).
 
 ```
 <!DOCTYPE html>
@@ -70255,7 +70254,6 @@ popd
 Importante lembrar que a codificação do hugo (utf8) deve bater com a codificação esperada pelo gerador de ebook. Que me lembre não há muito mais segredos. Basta escrever e de vez em quando rodar o script novamente =)
 
 [Hugo]: https://gohugo.io/
-[linkado no meu blogue]: https://github.com/Caloni/blog/tree/master/themes/book
 
 # O Professor Substituto
 date: 2019-07-11
