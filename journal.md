@@ -29339,7 +29339,7 @@ tags: cinema movies
 
 Falar de "Alien - O Oitavo Passageiro" é falar de ficção científica, terror e suspense. Todos esses gêneros estão em um grau quase equivalente na produção de 1979. Dirigido por Ridley Scott ([Blade Runner], 1492, Hannibal, Gladiador) e com roteiro e história de Dan O'Bannon (A Volta dos Mortos Vivos, [O Vingador do Futuro]), o filme inicia no momento em que a nave Nostromo, inicialmente programada para retornar à Terra, decide acordar seus tripulantes da hibernação para averiguar um possível sinal de vida inteligente em um planeta inóspito. Sem muitas informações do que possa existir na origem do sinal é montado um grupo de exploração.
 
-Desde os primeiros minutos, em que a nave se encontra deserta, até o momento em que ela volta às atividades humanas é possível sentir o isolamento das pessoas através do silêncio e vazio do espaço e, por que não, até pela razão de tela extremamente larga, o que nos deixa com paisagens e planos largos demais para tão poucas pessoas em cena, algo já explorado em [2001: Uma Odisseia no Espaço] (1968), de Stanley Kubrick.
+Desde os primeiros minutos, em que a nave se encontra deserta, até o momento em que ela volta às atividades humanas é possível sentir o isolamento das pessoas através do silêncio e vazio do espaço e, por que não, até pela razão de tela extremamente larga, o que nos deixa com paisagens e planos largos demais para tão poucas pessoas em cena, algo já explorado em "2001: Uma Odisseia no Espaço" (1968), de Stanley Kubrick.
 
 A equipe da Nostromo é formada por sete heterogêneos tripulantes (e daí o criativo sub-título brasileiro), que possuem cada um à sua maneira uma forma de lidar com a situação, seja a visão comercial de sua empreitada defendida pelos engenheiros Parker (Yaphet Kotto) e Brett (Harry Dean Stanton), seja a visão mais determinada de seu comandante Dallas (Tom Skerritt, [Contato]) ou reflexiva do cientista Ash (Iam Holm), que parece observar com cuidado cada passo tomado pela tripulação. Enfim, é a relação entre essas pessoas que irá dar o tom de transformação de personagens de acordo com os eventos que se seguem. Cada um irá lidar à sua maneira com os problemas porvir, não necessariamente da melhor maneira. Porém, isso é o que torna aquelas pessoas mais reais, pois em determinadas situações extremas nunca sabemos como iremos reagir.
 
@@ -29355,7 +29355,6 @@ A partir daí se constrói um suspense arrasador, com a tensão do espectador au
 
 Nesse desenrolar, um personagem se destaca de forma praticamente natural e inusitada. Inusitada porque naquele momento o Cinema ainda não havia experimentado uma heroína de verdade. Natural porque, como podemos facilmente perceber, a personagem não ocupa um lugar importante no início da trama, mas aos poucos se evidencia até tomar as rédeas da sanidade a bordo. Nesse momento, um ícone se forma: Tenente Ripley. Um ícone tão marcante que ainda irá ser reutilizado muitas vezes, como sinônimo do nosso mergulho ao desconhecido dentro de nossa própria mente.
 
-[2001: Uma Odisseia no Espaço]: 2001_uma_odisseia_no_espaco
 [Blade Runner]: blade_runner
 [Contato]: contato
 [O Vingador do Futuro]: o_vingador_do_futuro_1990
@@ -31940,15 +31939,13 @@ date: 2012-08-06
 slug: dr_fantastico
 tags: cinema movies
 
-O absurdo das hierarquias e do sistema de proteção para decisões vitais para a paz mundial, junto como os militares são colocados no filme, irresponsáveis que parecem estar na corporação simplesmente pelo acaso da vida, parece ser a matéria-prima dessa excelente comédia de Stanley Kubrick (Laranja Mecânica, [2001]). No entanto, não é por isso que o filme deixa de ser realista, e as cenas de combate, tanto no ar quanto na terra, são tão tensas quanto as conversas na cúpula do Pentágono.
+O absurdo das hierarquias e do sistema de proteção para decisões vitais para a paz mundial, junto como os militares são colocados no filme, irresponsáveis que parecem estar na corporação simplesmente pelo acaso da vida, parece ser a matéria-prima dessa excelente comédia de Stanley Kubrick (Laranja Mecânica, "2001: Uma Odisseia no Espaço"). No entanto, não é por isso que o filme deixa de ser realista, e as cenas de combate, tanto no ar quanto na terra, são tão tensas quanto as conversas na cúpula do Pentágono.
 
 Kubrick não nos poupa nenhuma faceta para demonstrar o absurdo que é uma guerra, ainda mais mundial. E junto com ele está a figura eterna de Peter Sellers, que aqui incorpora três personagens simultâneos, dois bizarros e um presidente que, por mais comedido que seja, não possui as rédeas de nada.
 
 A construção do drama de cada lado é feita paulatinamente e com uma dosagem surpreendente entre elas, e a forma como o roteiro une as pontas é indissociável pela lógica e pela emoção.
 
 Mais para frente, na cinegrafia do autor, poderemos ver a guerra novamente enfocada com seus absurdos em Nascido Para Matar. Porém, como comédia, Dr. Strangelove é uma sátira muito mais dramática e eterna que qualquer outra crítica séria poderia causar.
-
-[2001]: 2001_uma_odisseia_no_espaco
 
 # Flores do Oriente
 date: 2012-08-06
@@ -71872,7 +71869,7 @@ tags: lists cinema
 
 - 12 Angry Men 1957
 
-- [2001: Uma Odisseia no Espaço] (2001: A Space Odyssey) 1968
+- "2001: Uma Odisseia no Espaço" (2001: A Space Odyssey) 1968
 
 - 25th Hour 2002
 
@@ -72600,7 +72597,6 @@ tags: lists cinema
 
 - Yojimbo 1961
 
-[2001: Uma Odisseia no Espaço]: 2001_uma_odisseia_no_espaco
 [Adaptação]: adaptacao
 [Alien]: alien_o_oitavo_passageiro
 [A Malvada]: a_malvada_all_about_eve
@@ -76056,7 +76052,7 @@ tags: cinema movies
 
 São tantos subtítulos neste filme da Aardman... ele é uma versão estendida de um episódio da série Shaun Carneiro. Não é o primeiro longa-metragem. O primeiro se chamava [Shaun: O Carneiro] e tinha a graça e a originalidade de contar uma história mais longa sem qualquer diálogo, muitas vezes referenciando as comédias no início do cinema.
 
-Aqui, em parceria com a Netflix e com mais trucagens de computação, a equipe de animadores conduzida pelos diretores Will Becher e Richard Phelan está inspirada em referenciar obras de sci-fi clássicas, começando pela pizzaria H. G. Wheels e terminando por três momentos que se ouve as músicas icônicas da obra desse autor (se você não conhece, H. G. Wells o nome dele) para o cinema, [2001: Uma Odisseia no Espaço], é tocada. O primeiro desses momentos toca Also Sprach Zarathustra, um poema sinfônico de Richard Strauss, baseado na obra homônima de Friedrich Nietzsche (Assim Falou Zaratustra) onde foi cunhado o termo Übermensch, ou o que virá após o homem, depois que ele conclui em sua fatídica frase pós-iluminismo, "Deus está morto". Na obra cinematográfica de Kubrick a música toca em dois momentos de ascenção: primeiro dos primatas, depois dos humanos. Quando vemos o fazendeiro simples, mas obtuso, tendo uma epifania de como conseguir seu objetivo de ter um trator mais potente vendendo ingressos para um parque temático que pega carona em uma possível invasão alienígena na cidade mais próxima, as engrenagens referenciais quase se conectam, como que a juntar de maneira torta e original Nietzsche, primatas, Kubrick, Revolução Industrial e um fazendeiro se esforçando para pensar; tudo no mesmo parágrafo.
+Aqui, em parceria com a Netflix e com mais trucagens de computação, a equipe de animadores conduzida pelos diretores Will Becher e Richard Phelan está inspirada em referenciar obras de sci-fi clássicas, começando pela pizzaria H. G. Wheels e terminando por três momentos que se ouve as músicas icônicas da obra desse autor (se você não conhece, H. G. Wells o nome dele) para o cinema, "2001: Uma Odisseia no Espaço", é tocada. O primeiro desses momentos toca Also Sprach Zarathustra, um poema sinfônico de Richard Strauss, baseado na obra homônima de Friedrich Nietzsche (Assim Falou Zaratustra) onde foi cunhado o termo Übermensch, ou o que virá após o homem, depois que ele conclui em sua fatídica frase pós-iluminismo, "Deus está morto". Na obra cinematográfica de Kubrick a música toca em dois momentos de ascenção: primeiro dos primatas, depois dos humanos. Quando vemos o fazendeiro simples, mas obtuso, tendo uma epifania de como conseguir seu objetivo de ter um trator mais potente vendendo ingressos para um parque temático que pega carona em uma possível invasão alienígena na cidade mais próxima, as engrenagens referenciais quase se conectam, como que a juntar de maneira torta e original Nietzsche, primatas, Kubrick, Revolução Industrial e um fazendeiro se esforçando para pensar; tudo no mesmo parágrafo.
 
 Esse é pano de fundo metafórico que é utilizado para uma história que referencia outras obras, como Enigma de Outro Mundo (de John Carpenter), Contatos Imediatos do Terceiro Grau e E.T.: O Extraterrestre (ambos os últimos do diretor Steven Spielberg). O ET desse filme é fofinho, seu comportamento é suficiente para gerar carisma automático ao mesmo tempo que nos mantém com a pulga atrás da orelha para tentar entender seus objetivos, mesmo que inconscientemente entendamos que se trata de um mini-remake do filme de Spielberg, onde um extraterrestre se perde de casa, em forma de animação com massinhas.
 
@@ -76065,7 +76061,6 @@ Como a maioria das animações cheias de boas ideias, o primeiro e segundo ato c
 O terceiro ato, como a maioria das animações, peca pela repetição e necessidade de tramas e sub-tramas, sempre agarradas à sensação falsa que há mais algum perigo da missão do filme não ser concluída. É preguiçoso e automático. Dá vontade de rever o filme, mas só até a metade.
 
 [Shaun: O Carneiro]: shaun_o_carneiro
-[2001: Uma Odisseia no Espaço]: 2001_uma_odisseia_no_espaco
 
 # Self Made: Inspired by the Life of Madam C.J. Walker
 date: 2020-03-27
@@ -99859,7 +99854,7 @@ O Dispose protegido faz a deslocação de recursos de fato, gerenciado, se dispo
 date: 2025-11-21
 tags: movies
 
-Reassistir depois de mais de uma década fez o filme envelhecer no bom sentido: não parece em nada com os filmes atuais. Tem pelo menos umas sete cenas de tirar o fôlego. O CGI é datado, mas permanece quase impecável (como 2001: Uma Odisseia no Espaço). Mantém ainda a tradição das grandes produções de Hollywood, embora já estejamos no novo século. Não há praticamente nada que eu não me lembrava desde a primeira vez que vi no cinema. É um dos filmes que deixa a sua mensagem tão poderosa e perene que fica para sempre. O que muda ao reassistir é o espectador. Hoje percebo mais as partes maduras da saga, especialmente sobre política e valores. É um filme que tem uma alma vibrante e solene, um estilo próprio que define de maneira exemplar como se faz filme de quest.
+Reassistir depois de mais de uma década fez o filme envelhecer no bom sentido: não parece em nada com os filmes atuais. Tem pelo menos umas sete cenas de tirar o fôlego. O CGI é datado, mas permanece quase impecável (como "2001: Uma Odisseia no Espaço"). Mantém ainda a tradição das grandes produções de Hollywood, embora já estejamos no novo século. Não há praticamente nada que eu não me lembrava desde a primeira vez que vi no cinema. É um dos filmes que deixa a sua mensagem tão poderosa e perene que fica para sempre. O que muda ao reassistir é o espectador. Hoje percebo mais as partes maduras da saga, especialmente sobre política e valores. É um filme que tem uma alma vibrante e solene, um estilo próprio que define de maneira exemplar como se faz filme de quest.
 
 # O Senhor dos Anéis: As Duas Torres
 date: 2025-11-21
