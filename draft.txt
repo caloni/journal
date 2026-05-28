@@ -1,6 +1,5 @@
 ﻿[assuntos aleatorios] curiosidades_inuteis_o_operador_de_subscrito_em_c  (post: diferencas_entre_c_e_c++_precedencia)
 [um ótimo artigo aqui no blog] o_bug_mais_bizarro_que_ja_resolvi  (post: about)
-[email] mailto:wanderley.caloni@gmail.com  (post: about)
 [História do Windows] historia_do_windows  (post: historia_do_windows_parte_10)
 [História do Windows] historia_do_windows  (post: historia_do_windows_parte_20)
 [random subjects] disassembling_the_array_operator  (post: precedence_difference)
