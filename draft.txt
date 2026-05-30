@@ -1,5 +1,4 @@
-﻿["Spider"] homem_aranha  (post: o_espetacular_homem_aranha)
-[007 Contra Goldfinger] 007_contra_goldfinger  (post: 007_a_servico_secreto_de_sua_majestade)
+﻿[007 Contra Goldfinger] 007_contra_goldfinger  (post: 007_a_servico_secreto_de_sua_majestade)
 [007 Contra Goldfinger] 007_contra_goldfinger  (post: roger_ebert_great_movies)
 [2 Coelhos] 2_coelhos  (post: mostrasp_43_2019_selecao_filmes)
 [4o. EPA-CCPP] epa_ccpp_4_nossa_comunidade_ganhando_forma  (post: try_catch_flutuante)
