@@ -11,7 +11,7 @@ import subprocess
 
 abspath = os.path.abspath(__file__)
 dname = os.path.dirname(abspath)
-method = "calibre" # calibre, kindlegen
+method = "kindlegen" # calibre, kindlegen
 baseName = "caloni"
 initialFormat = "epub"
 finalFormat = "azw3" # mobi, azw3 (calibre only)
