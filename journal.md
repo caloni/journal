@@ -11596,7 +11596,7 @@ date: 2008-04-03
 slug: try_catch_flutuante
 tags: computer ccpp blog
 
-Esse detalhe da linguagem quem me fez descobrir foi o Yorick, que costuma comentar no blogue e tive o prazer de conhecer no [4o. EPA-CCPP].
+Esse detalhe da linguagem quem me fez descobrir foi o Yorick, que costuma comentar no blogue e tive o prazer de conhecer em "EPA-CCPP 4: nossa comunidade ganhando forma".
 
 É possível, apesar de bizarro, colocar um bloco try-catch em torno da lista de inicialização de variáveis de um construtor. Essa característica da linguagem permite que possamos capturar alguma exceção lançada por algum construtor de algum membro da classe. A construção em código ficaria no estilo abaixo:
 
@@ -11799,7 +11799,6 @@ PopolonY2k
 PlanetaMessenger.org
 
 [PopolonY2k]: http://www.planetamessenger.org
-[4o. EPA-CCPP]: epa_ccpp_4_nossa_comunidade_ganhando_forma
 
 # Conversor de Houaiss para Babylon - parte 2
 date: 2008-04-08
@@ -19991,163 +19990,6 @@ Espero que tenha ficado claro nossa breve explanação de como podemos controlar
 
 [a fila das threads]: a_fila_das_threads
 
-# Meu roteiro C++
-date: 2009-05-20
-tags: computer archive
-
-Como não consigo mais ter ideias para artigos, resolvi catalogar todas as coisas que já falei nesse blogue e, o mais importante, todas as coisas que ainda não falei nesse blogue (e espero um dia falar ou talvez nunca fale), começando por C++, que era o intuito original (só que não é mais, porque eu uso mais a Win32 API que a STL):
-
-#### C++
-
-História:
-
-- [A linguagem BCPL]
-
-- [O código-objeto]
-
-- [A linguagem B]
-
-- [A "função" char]
-
-- [O primeiro printf da história]
-
-- [A linguagem C]
-
-- [A linguagem C++]
-
-- As influências
-
-Conceitos:
-
-- [O conceito programa]
-
-- [O código-objeto]
-
-- [Processo de compilação]
-
-- [Declaração x definição]
-
-- [Tipos]
-
-- [Lvalue x Rvalue]
-
-- [A passagem por valor]
-
-- [Ponteiros]
-
-- [Estruturas e classes]
-
-- Espaços de nomes
-
-- [Polimorfismo estático]
-
-- [Herança]
-
-- [Polimorfismo dinâmico]
-
-- [Iteradores]
-
-- [Função-objeto]
-
-- [Templates]
-
-- Algoritmos genéricos
-
-- Qualificadores (traits)
-
-- [O conceito RAII]
-
-Linguagem:
-
-- [O operador de subscrito]
-
-- [A proteção protected]
-
-- [Sizeof e strings literais]
-
-- [Uso de reflexão com typeid]
-
-- [Typeid e o polimorfismo]
-
-- [Ponteiros de método]
-
-- [Ponteiros de método e o this]
-
-- [Try-catch fora do corpo da função]
-
-- [Sobrecarga de operadores]
-
-Biblioteca:
-
-- [Biblioteca C no Windows]
-
-- [Mobilidade da pilha com prinff]
-
-- [Erros comuns de iteradores]
-
-- STL
-
-- Boost
-
-Dicas:
-
-- [Erros comuns de iniciantes]
-
-- [Ponteiro nulo em entrevistas]
-
-- [Nem todo ponteiro nulo é inválido]
-
-- [Decifrando código obscuro]
-
-- [Usando do-while para evitar erros de macro]
-
-- [Sobrecarga por tipo de retorno]
-
-Espero que isso me ajude a continuar completando as lacunas do saite. Se não der certo, pelo menos já sei o que fiz.
-
-Sugestões?
-
-[A linguagem BCPL]: historia_da_linguagem_c_parte_1
-[A linguagem B]: historia_da_linguagem_c_parte_2
-[A "função" char]: historia_da_linguagem_c_parte_2
-[O primeiro printf da história]: historia_da_linguagem_c_parte_2
-[A linguagem C]: the_c_programming_language
-[A linguagem C++]: a_linguagem_de_programacao_cpp_o_inicio
-[O conceito programa]: guia_basico_para_programadores_de_primeiro_int_main
-[O código-objeto]: historia_da_linguagem_c_parte_1
-[Processo de compilação]: os_diferentes_erros_na_linguagem_c
-[Declaração x definição]: declaracao_x_definicao
-[Tipos]: basico_do_basico_tipos
-[Lvalue x Rvalue]: rvalue_e_o_novo_lvalue
-[A passagem por valor]: passagem_por_valor_e_emails_com_anexo
-[Ponteiros]: basico_do_basico_ponteiros
-[Estruturas e classes]: estruturas_vs_classes_fight
-[Polimorfismo estático]: polimorfismo_estatico
-[Herança]: classe_objeto_contexto_metodo_polimorfismo
-[Polimorfismo dinâmico]: vtable
-[Iteradores]: se_iterando_com_os_pseudo_ponteiros_uma_breve_introducao
-[Função-objeto]: sobrecarga_de_funcao_as_avessas
-[Templates]: gabaritos
-[O conceito RAII]: aquisicao_de_recurso_e_inicializacao
-[O operador de subscrito]: curiosidades_inuteis_o_operador_de_subscrito_em_c
-[A proteção protected]: protecao_dos_membros_protected
-[Sizeof e strings literais]: sizeof_de_novo
-[Uso de reflexão com typeid]: reflexao_em_c
-[Typeid e o polimorfismo]: typeid_e_os_perigos_do_nao_polimorfismo
-[Ponteiros de método]: ponteiros_de_metodo_conceito_fundamental
-[Ponteiros de método e o this]: ponteiro_de_metodo_qual_this_e_usado
-[Try-catch fora do corpo da função]: try_catch_flutuante
-[Sobrecarga de operadores]: sobrecarga_de_funcao_as_avessas
-[Biblioteca C no Windows]: usando_a_libc_nativa_do_windows
-[Mobilidade da pilha com prinff]: a_mobilidade_das_variaveis_no_printf
-[Erros comuns de iteradores]: iteradores_nao_sao_constantes
-[Erros comuns de iniciantes]: os_diferentes_erros_na_linguagem_c
-[Ponteiro nulo em entrevistas]: codigos_de_entrevista_o_ponteiro_nulo
-[Nem todo ponteiro nulo é inválido]: codigos_de_entrevista_o_ponteiro_nulo
-[Decifrando código obscuro]: desconstruindo_ioccc
-[Usando do-while para evitar erros de macro]: aquele_do_while_engracado
-[Sobrecarga por tipo de retorno]: sobrecarga_de_funcao_as_avessas
-
 # Como compilar em somente um passo
 date: 2009-05-25
 tags: computer blog
@@ -28014,7 +27856,6 @@ A exploração do desconhecido fantasioso funcionando como um reflexo da própri
 
 # A Árvore da Vida (Terrence Malick, 2011)
 date: 2011-08-17
-slug: a_arvore_da_vida
 tags: cinema movies
 
 O início de O Filme: Um Estudo Psicológico (1916), de Hugo Münsterberg, primeiro livro sobre crítica da história do cinema, coloca o fenômeno da percepção do movimento nos olhos de quem vê. A interpretação que fazemos das imagens estáticas em sequência é subjetiva, de forma que, mesmo que o autor da obra tenha escolhido o que filmar, é o espectador que irá extrair da imagem o significado. Dessa forma, um filme, como toda obra de arte, apenas se comunica quando houver um espectador, que irá se relacionar diretamente com a obra e a filtrar pelas nossas experiências de vida e como enxergamos a realidade à nossa volta.
@@ -29765,13 +29606,12 @@ date: 2012-01-11
 slug: mae_e_filho
 tags: cinema movies
 
-Para aqueles que possuem prazer estético pelo Cinema e possuem paciência para narrativas não-convencionais como o recente e polêmico [A Árvore da Vida], vale a pena uma olhada nesse Mãe e Filho, do diretor Aleksandr Sokurov, o mesmo do igualmente "arrastado" (mas belíssimo) [Arca Russa].
+Para aqueles que possuem prazer estético pelo Cinema e possuem paciência para narrativas não-convencionais como o recente e polêmico "A Árvore da Vida", vale a pena uma olhada nesse Mãe e Filho, do diretor Aleksandr Sokurov, o mesmo do igualmente "arrastado" (mas belíssimo) [Arca Russa].
 
 O filme narra a relação entre uma mãe já debilitada e seu filho, tudo que ela tem. A história tem seu sentido semântico, mas o que mais impressiona no filme é o uso das lentes e ângulos para montar a cada cena um quadro belíssimo, que exalta exatamente essa relação maternal e deixa todo o resto não exatamente desfocado, mas desapegado da realidade, como em uma pintura à óleo. Exatamente por isso, Sokurov usa tomadas lentas, que param por vários segundos (ou até mesmo minutos!) em um quadro que não se move, mas que apresenta uma beleza e um significado ímpares.
 
 Não há trilha sonora, quase não há efeitos sonoros ou diálogos. Porém, há algo inestimável nesse filme: uma visão diferente. Algo para pensar, nem que seja sobre o que o Cinema representa em obras como essa, ou o que ele consegue evocar apenas com a escolha certa de elementos minimalistas e aprofundar na expressividade com nada mais que isso.
 
-[A Árvore da Vida]: a_arvore_da_vida
 [Arca Russa]: arca_russa
 
 # RValue é o novo LValue
@@ -29915,7 +29755,6 @@ Com uma conclusão ainda impactante, de uma coisa não podemos reclamar de Welle
 
 # 2 Coelhos
 date: 2012-02-15
-slug: 2_coelhos
 tags: cinema movies
 
 Uma montagem impecável consegue dar o tom da narrativa do complexo 2 Coelhos. Além de complexo, existem pequenos detalhes da trama que forçam um pouco a realidade (como a união entre o protagonista e o pai-de-família que tem sua família brutalmente assassinada pelo seu carro). Porém, o que mais chama a atenção é o apelo visual e estético do longa, que pode ser considerado à altura de produções norte-americanas. Está à altura, sim, mas com isso também constatamos que a criatividade da direção de arte não vai muito além dos lugares-comuns de filmes do gênero, incluindo aí as apresentações Tarantinescas (e é também de Tarantino essa tentativa de humanizar os bandidos, com pequenos detalhes de suas ações) e chegando ao absurdo de incluir uma cena a la Sucker Punch com o único propósito de desviar nossa atenção.
@@ -30234,7 +30073,7 @@ date: 2012-03-06
 slug: o_homem_que_mudou_o_jogo
 tags: cinema movies
 
-Brad Pitt é um ator com um controle de personagem invejável. Podemos acompanhar sua trajetória em papéis mais exóticos como o do vampiro Louis (Entrevista com o Vampiro), do maníaco Jeffrey Goines (Os 12 Macacos), do inconsequente Tyler Durden (Clube da Luta) e do cômico Tenente Aldo Raine (Bastardos Inglórios) e compararmos com papéis mais contidos ou dramáticos como o pai de família em [A Árvore da Vida], o detetive David Mills em Seven e o gerente de um time de beisebol Billy Beane, papel que desempenha em O Homem que Mudou o Jogo que faz ficarmos em dúvida se existem dois, três ou mais clones do ator escondidos e revelados em momentos pontuais de sua carreira.
+Brad Pitt é um ator com um controle de personagem invejável. Podemos acompanhar sua trajetória em papéis mais exóticos como o do vampiro Louis (Entrevista com o Vampiro), do maníaco Jeffrey Goines (Os 12 Macacos), do inconsequente Tyler Durden (Clube da Luta) e do cômico Tenente Aldo Raine (Bastardos Inglórios) e compararmos com papéis mais contidos ou dramáticos como o pai de família em "A Árvore da Vida", o detetive David Mills em Seven e o gerente de um time de beisebol Billy Beane, papel que desempenha em O Homem que Mudou o Jogo que faz ficarmos em dúvida se existem dois, três ou mais clones do ator escondidos e revelados em momentos pontuais de sua carreira.
 
 A história é baseada em um livro que por sua vez é baseada em fatos reais ocorridos com o gerente geral do time de beisebol Billy Beane do Oakland Athletics. Com o roteiro assinado (depois de vários conflitos com a produtora Sony) pelos ótimos Steven Zaillian (Os Homens que Não Amavam as Mulheres versão 2011) e Aaron Sorkin (A Rede Social), a direção documental de Bennett Miller, que usa com o diretor de fotografia Wally Pfister uma granulação maior justamente para ampliar a temática para a vida real, acerta em manter os atores parados e dialogando a maior parte do tempo, dando ênfase em suas performances e facilitando nossa identificação com a história e os personagens. Porém, acerta mais uma vez em determinados momentos se deixar levar por uma abordagem mais poética, mas que exatamente por refletir a realidade já mostrada se torna tão mais forte e tão mais presente em nossas mentes.
 
@@ -30245,8 +30084,6 @@ E se o filme pode soar parado e monótono, de uma forma geral existe muito mais 
 Mais interessante é notar que na dinâmica da história, mesmo com toda a importância de Billy Beane para o êxito de sua controversa equipe ele não é a estrela absoluta da história. Conta com a ajuda de Peter Brand (Jonah Hill), um economista brilhante que não se curva perante décadas de experiência e intuição esportiva, apesar de timidamente expor seus pontos de vista. É nessa dicotomia entre a especulação de jogadores virtuosa de Billy e a energia interna da convicção inabalável da ideia radical de Peter que conseguimos sentir as estruturas dos estádios seculares e dos treinadores inflexíveis sendo postas em cheque, ainda que lentamente e sem muita fé.
 
 Aliás, fé, razão e intuição são conceitos colocados na mesa a todo momento, e mesmo nós, que assistimos de fora, ficamos com dúvidas durante todo o trajeto. Muitos sairão da sala de exibição convictos que sorte ou talento fazem toda a diferença do mundo, e outros sairão deixando essa convicção na poltrona. De uma forma ou de outra, não dá pra negar que a figura do eterno perdedor não está nas derrotas, mas no pensamento que o define. E uma vez que a pessoa se define perdedora, não há vitórias suficientes que a faça mudar de ideia.
-
-[A Árvore da Vida]: a_arvore_da_vida
 
 # Conteúdo da Palestra
 date: 2012-03-11
@@ -30790,9 +30627,7 @@ A menina, em seus gestos e andar tímidos entre as crianças de uma festa de ani
 
 Cortes certeiros e um ritmo mais que correto dão o tom milimetricamente planejado com uma embalagem indie, mas sem soar clichê/oportunista. É o cinema puro e singelo construído em torno de duas criaturas que aos poucos se tornam adoráveis e melancólicas. Seus motivos não nos interessam, mas o fato de estarem lá, sim. Compartilhamos com elas esse pensamento maldoso de qualquer adulto medroso: como será o amanhã? Haverá mais marshmallows?
 
-Traçando um pouco das influências que Terrence Malick teve para criar sua [A Árvore da Vida], a fotografia naturalista e os movimentos involuntários ao sabor do vento criam uma poesia involuntária incapaz de ser atingida por qualquer filtro fotográfico qualquer, embora as paisagens do horizonte sejam de encher o coração. É a poesia da vida real, da dura realidade de duas crianças que, ainda que passem seus sufocos, ainda podem sonhar.
-
-[A Árvore da Vida]: a_arvore_da_vida
+Traçando um pouco das influências que Terrence Malick teve para criar sua "A Árvore da Vida", a fotografia naturalista e os movimentos involuntários ao sabor do vento criam uma poesia involuntária incapaz de ser atingida por qualquer filtro fotográfico qualquer, embora as paisagens do horizonte sejam de encher o coração. É a poesia da vida real, da dura realidade de duas crianças que, ainda que passem seus sufocos, ainda podem sonhar.
 
 # A Noite dos Mortos-Vivos
 date: 2012-05-07
@@ -32713,13 +32548,12 @@ O que não está na versão contemporânea de 007 é o charme, a postura e a ele
 date: 2012-11-11
 tags: cinema movies
 
-Mais um vilão, Largo (Adolfo Celi), que mantém relações estreitas com o agente 007 e a volta do diretor Terence Young para a franquia. A Bondgirl da vez, Domino (Claudine Auger), é uma ótima surpresa no elenco, pois possui um vigor que faltava nas companheiras de Bond (com exceção de Pussy Galore em Goldfinger). A trama gira em torno do roubo de dois mísseis nucleares pela organização criminosa ESPECTRO, que chantageia os governos americano e britânico ameaçando explodir uma cidade em seus territórios caso não entreguem um milhão de libras. Há uma reunião da ESPECTRO que vale a pena recordar, com direito a um alçapão nas cadeiras dos mega-criminosos em sua reunião de maldades. Embora cada vez mais caricato, os filmes de James Bond ainda possuem um cavalheiro à altura para suas missões: Sean Connery. E se não fosse pela sua postura e entrega ao personagem seria difícil não entendermos seu universo senão como paródia. Porém, Sir Connery dá o tom para o agente britânico que consegue extrair realismo das cenas mais absurdas.
+Mais um vilão, Largo (Adolfo Celi), que mantém relações estreitas com o agente 007 e a volta do diretor Terence Young para a franquia. A Bondgirl da vez, Domino (Claudine Auger), é uma ótima surpresa no elenco, pois possui um vigor que faltava nas companheiras de Bond (com exceção de Pussy Galore em "007 Contra Goldfinger"). A trama gira em torno do roubo de dois mísseis nucleares pela organização criminosa ESPECTRO, que chantageia os governos americano e britânico ameaçando explodir uma cidade em seus territórios caso não entreguem um milhão de libras. Há uma reunião da ESPECTRO que vale a pena recordar, com direito a um alçapão nas cadeiras dos mega-criminosos em sua reunião de maldades. Embora cada vez mais caricato, os filmes de James Bond ainda possuem um cavalheiro à altura para suas missões: Sean Connery. E se não fosse pela sua postura e entrega ao personagem seria difícil não entendermos seu universo senão como paródia. Porém, Sir Connery dá o tom para o agente britânico que consegue extrair realismo das cenas mais absurdas.
 
 Divertido em diversos pontos, mas lento e demasiadamente estendido em outros (como o ato final debaixo da água), 007 Contra a Chantagem Atômica parece ser o sinal de que as coisas deverão mudar em breve, ou os filmes logo se parecerão mais do mesmo.
 
 # 007 Contra Goldfinger
 date: 2012-11-11
-slug: 007_contra_goldfinger
 tags: cinema movies
 
 Primeiro filme da série com o diretor Guy Hamilton, que faria muitos mais, esse James Bond segue um ritmo mais pausado de início, o que permite um acompanhamento melhor da trama. Por outro lado, preso ao modo didático, pode soar um pouco decepcionante no final. O vilão Auric Goldfinger (Gert Fröbe) é um dos mais lembrados talvez pelo seu plano mais ambicioso: tornar inutilizável todo o ouro das reservas norte-americanas e como consequência multiplicar o valor do seu. É curioso também notar relação aparentemente amistosa entre Goldfinger e o agente britânico, onde até golfe jogam juntos (e seu capanga coreano mudo, Oddjob, é uma diversão à parte).
@@ -33492,7 +33326,7 @@ tags: cinema movies
 
 Mais intenso, talvez pela incerteza na troca de Sean Connery por George Lazenby, e já entregando uma trama que mexe na vida pessoal do agente secreto como nunca antes, A Serviço Secreto de Sua Majestade é também um excelente filme de ação, tanto para sua época quanto para agora.
 
-O diretor Peter Hunt ([007 Contra Goldfinger]) resolveu com cortes rápidos, muitas vezes com a câmera em movimento frenético, o problema dos fundos falsos e toda a trucagem nas cenas envolvendo carros ou mesmo descendo os Alpes de esqui. O efeito foi um filme dinâmico e que envelheceu melhor do que seus antecessores como filme de ação. A trilha sonora, sempre tão importante, aqui recebe tratamento VIP. Além do excelente instrumental-tema feito para o filme e que se encaixa perfeitamente no novo estilo James Bond, os temas anteriores são reaproveitados em cenas significativas para o personagem em versões que não soam recicladas. Além disso, o tema clássico de John Barry é explorado no momento de identificação entre o novo ator e o clássico Connery.
+O diretor Peter Hunt ("007 Contra Goldfinger") resolveu com cortes rápidos, muitas vezes com a câmera em movimento frenético, o problema dos fundos falsos e toda a trucagem nas cenas envolvendo carros ou mesmo descendo os Alpes de esqui. O efeito foi um filme dinâmico e que envelheceu melhor do que seus antecessores como filme de ação. A trilha sonora, sempre tão importante, aqui recebe tratamento VIP. Além do excelente instrumental-tema feito para o filme e que se encaixa perfeitamente no novo estilo James Bond, os temas anteriores são reaproveitados em cenas significativas para o personagem em versões que não soam recicladas. Além disso, o tema clássico de John Barry é explorado no momento de identificação entre o novo ator e o clássico Connery.
 
 A inesquecível Bond Girl deste filme desde o início nasce para ser sua parceira, principalmente quando ressurge, assim como ele em seu filme de estreia, dentro de um cassino. Além disso a beleza de Diana Rigg como Tracy consegue o feito de nos fazer relembrar das garotas mais "clássicas", como Akiko Wakabayashi (Aki), Claudine Auger (Domino) e até mesmo a inconfundível Pussy Galore (Honor Blackman). Todos esses elementos trazidos a partir de cenas sutilmente reproduzidas não são ao acaso, pois este é, como disse, um momento especial na vida pessoal do agente secreto.
 
@@ -33500,7 +33334,6 @@ O roteiro de Richard Maibaum, livre dessa vez do formato clássico imposto nos f
 
 Sean Connery será sempre eternizado por iniciar e estabelecer a adaptação do personagem literário para as telas. A troca de atores, porém, faz um bem enorme para o agente 007 no cinema, pois o torna maleável e eternizável para as futuras gerações, como não podemos negar nos dias de hoje com os [filmes de Daniel Craig].
 
-[007 Contra Goldfinger]: 007_contra_goldfinger
 [filmes de Daniel Craig]: 007_operacao_skyfall
 
 # País do Desejo
@@ -34233,10 +34066,9 @@ tags: cinema movies
 
 Última aparição de Sean Connery (estranhamente intercalado com George Lazenby em [A Serviço de Sua Majestade]), Os Diamantes são Eternos é aquele tipo de filme que já começa a se caracterizar como homenagem dos filmes anteriores e da própria síntese do filme de espionagem de ação. Temos tiradas sarcásticas e momentos empolgantes que são ao mesmo tempo hilários, o que não diminui a tensão em momentos chave, como a aparição de um duplo vilão.
 
-A direção de Guy Hamilton ([Goldfinger]) é precisa e as cenas de ação estão no nível do filme anterior (ainda que um pouco menos ambicioso). Os cortes são rápidos e os detalhes se perdem em meio ao charme e convicção de Sean Connery como o espião britânico mais famoso do Cinema.
+A direção de Guy Hamilton ("007 Contra Goldfinger") é precisa e as cenas de ação estão no nível do filme anterior (ainda que um pouco menos ambicioso). Os cortes são rápidos e os detalhes se perdem em meio ao charme e convicção de Sean Connery como o espião britânico mais famoso do Cinema.
 
 [A Serviço de Sua Majestade]: 007_a_servico_secreto_de_sua_majestade
-[Goldfinger]: 007_contra_goldfinger
 
 # Antes da Meia-Noite
 date: 2013-06-27
@@ -34488,7 +34320,7 @@ Quase nunca deixando de entreter, as mensagens das histórias estão tão interc
 date: 2013-08-01
 tags: cinema movies
 
-É difícil analisar os filmes de Terrence Malick através da abordagem tradicional de "historinha". O que é possível observar nesse seu novo trabalho é sua semelhança com [A Árvore da Vida] (semelhança narrativa) com muito menos glamour. Assim como a reflexão de Almodóvar em [Os Amantes Passageiros] (depois do tenso [A Pele que Habito]), Malick parece querer não se aprofundar demais em temas existenciais como fez anteriormente, mas mesmo assim não consegue evitar de ligar as referências, como em determinado momento sua câmera foge para o mundo subaquático, quase como uma tentativa de conectar-se com seu predecessor no melhor estilo continuação dos grande temas.
+É difícil analisar os filmes de Terrence Malick através da abordagem tradicional de "historinha". O que é possível observar nesse seu novo trabalho é sua semelhança com "A Árvore da Vida" (semelhança narrativa) com muito menos glamour. Assim como a reflexão de Almodóvar em [Os Amantes Passageiros] (depois do tenso [A Pele que Habito]), Malick parece querer não se aprofundar demais em temas existenciais como fez anteriormente, mas mesmo assim não consegue evitar de ligar as referências, como em determinado momento sua câmera foge para o mundo subaquático, quase como uma tentativa de conectar-se com seu predecessor no melhor estilo continuação dos grande temas.
 
 E o amor é o grande tema dessa vez, e mais uma vez a religião é a lupa usada em sua análise, na figura de um padre questionando repetidamente sua fé e a inexistência do amor do casal principal em sua relação com um ser supremo.
 
@@ -34499,7 +34331,6 @@ Aqui como em Árvore o uso dos sons, da música e principalmente da luz é vital
 Não é difícil contemplar as obras de Mallick. A não ser que você precise racionalizar isso de alguma forma.
 
 [A Pele que Habito]: a_pele_que_habito
-[A Árvore da Vida]: a_arvore_da_vida
 [Os Amantes Passageiros]: os_amantes_passageiros
 
 # Os Selvagens da Noite
@@ -37513,7 +37344,7 @@ O filmes-desastre costumam colocar em seu "currículo" o envolvimento de seus pe
 
 Desde o começo ele encontra uma forma brilhante de focalizar nossa atenção ao drama humano que é este filme ao usar Bryan Cranston e Juliette Binoche como âncoras morais extremamente eficientes (por serem conhecidíssimos) ao mesmo tempo que ajusta nossos olhares em torno (mas não apenas) de seu filho Ford (Aaron Taylor-Johnson, de Kick-Ass) e, claro, sua família. Ou seja, sim, existe a família como um dos temas centrais. Porém, o objetivo de Edwards não é subverter todo o subgênero, mas usar os clichês a favor de contar uma história da melhor maneira, e não apenas como muletas padronizadas para "cumprir tabela" enquanto exibe efeitos devastadores.
 
-E por falar em efeitos, os monstros são de uma bizarrice ótima, pois é profunda, ancestral e quase alienígena, ao mesmo tempo que refletem sua origem de quando atores vestiam fantasias risíveis e se mexiam atrás de prédios de maquete. Aliás, Andy Serkis, o Gollum da saga "Senhor dos Anéis" e o César de "Planeta dos Macados: a Origem", mais uma vez demonstra seu talento físico encarnando através de motion-capture seu personagem de 20 andares com a propriedade e o respeito que essa figura quase-mitológica merece. A trilha musical é enérgica (Alexandre Desplat, A Árvore da Vida) e remete com habilidade ao terror monossilábico das produções originais, mas quem rouba a cena mesmo são os efeitos sonoros, que conseguem harmonizar com precisão todo o terror sentido pelas pessoas quando avistam no horizonte um ser gigantesco se movendo em direção a elas.
+E por falar em efeitos, os monstros são de uma bizarrice ótima, pois é profunda, ancestral e quase alienígena, ao mesmo tempo que refletem sua origem de quando atores vestiam fantasias risíveis e se mexiam atrás de prédios de maquete. Aliás, Andy Serkis, o Gollum da saga "Senhor dos Anéis" e o César de "Planeta dos Macados: a Origem", mais uma vez demonstra seu talento físico encarnando através de motion-capture seu personagem de 20 andares com a propriedade e o respeito que essa figura quase-mitológica merece. A trilha musical é enérgica (Alexandre Desplat, "A Árvore da Vida") e remete com habilidade ao terror monossilábico das produções originais, mas quem rouba a cena mesmo são os efeitos sonoros, que conseguem harmonizar com precisão todo o terror sentido pelas pessoas quando avistam no horizonte um ser gigantesco se movendo em direção a elas.
 
 No entanto, a despeito de atuações e pirotecnia, a maior virtude de Godzilla reside mesmo nas decisões conjuntas de direção, edição (Bob Ducsay, de Looper) e roteiro (Max Borenstein e Dave Callaham), sem o qual o filme seria mais um blockbuster esquecível. Esse tripé artístico e sua equipe conseguem recontar essa história amplificando-a através de escolhas pontuais que fazem toda a diferença. Quando, por exemplo, vemos na floresta à noite um camaleão se movendo com todo o cuidado sobre seus membros e há uma transição de foco para um soldado, igualmente preocupado por onde anda, não é por acaso: o ser humano é mais um coadjuvante de passagem do que um protagonista cheio de poder.
 
@@ -39557,7 +39388,7 @@ Infelizmente, o recheio dessa estrutura carece de algum empenho em se fazer nota
 
 E quem melhor aproveita os diálogos inspirados aliado à direção pouco invasiva são John Lithgow e Alfred Molina, que criam um casal absolutamente adorável e perfeitamente crível. Sentimos isso através dos detalhes na forma de se entenderem que esses dois estão juntos há muito tempo. O primeiro diálogo do filme é quando Ben acorda buscando seus óculos e George, já prevendo as futuras ruminações do parceiro, exclama um "hoje não!". Logo em seguida, ao tentar inutilmente conseguir um táxi, ambos têm uma breve discussão que logo é desfeita, dando a entender que não vale a pena ficar se desentendendo com trivialidades. O amor entre eles vale mais que qualquer atribulação passageira.
 
-Dessa forma, mais uma vez voltamos em como o amor se manifesta das mais estranhas maneiras. É complicado considerar esse um ótimo filme sobre o tema apenas pelas suas nobres intenções, quando até a dispersa A Árvore da Vida consegue amarrar melhor sua trama. No entanto, O Amor é Estranho está longe de ser um trabalho irregular. Ele convence, embora com profundidade moderada.
+Dessa forma, mais uma vez voltamos em como o amor se manifesta das mais estranhas maneiras. É complicado considerar esse um ótimo filme sobre o tema apenas pelas suas nobres intenções, quando até a dispersa "A Árvore da Vida" consegue amarrar melhor sua trama. No entanto, O Amor é Estranho está longe de ser um trabalho irregular. Ele convence, embora com profundidade moderada.
 
 # Amor, Plástico e Barulho
 date: 2015-01-08
@@ -40258,7 +40089,6 @@ Isso explica, também, como o que há em seus quadros é o que falta em suas int
 
 # Cinquenta Tons de Cinza
 date: 2015-02-28
-slug: cinquenta_tons_de_cinza
 tags: cinema movies
 
 Anastasia e Christian Grey. Esses nomes serão difíceis de esquecer, já que são repetidos muitas vezes em Cinquenta Tons de Cinza, cujo título remete ao personagem de Mr. Grey, "cinza" em inglês, um trocadilho que foi perdido na tradução do Brasil. Se pelo menos tivessem usado a mesma estratégia de Metastasis, uma série-remake versão latina da norte-americana Breaking Bad, que rebatiza seus personagens para que mantenham os nomes e cores, talvez pudessem extravasar o lado cômico e leve deste filme que, por mais roupas sendo arrancadas e chicotes sendo levantados por minuto, continua sendo uma trivialidade para países menos puritanos.
@@ -42683,7 +42513,7 @@ Uma comédia mista, cuja criatividade consegue protagonizar pelo menos um moment
 
 A história, que se finge de complexa, mas que acaba se revelando boba e sem qualquer reviravolta que preste, gira em torno de quatro amigos que passaram por revezes em suas vidas após a estréia do filme onde todos trabalharam. Descoberto que a falta de dinheiro foi menos pelo sucesso do filme e mais pelo golpe aplicado pelo produtor -- que mudou de vida para virar um empreendedor... quer dizer, padre de sucesso -- um dos atores monta uma trama que pretende envolver seus amigos e inúmeras pessoas que ele parece conhecer de forma onisciente ou sobrenatural.
 
-O problema nesse formato 2 Coelhos é que a história parece ter sida terminada pela metade e o filme termina sem qualquer cerimônia, descartando uma longa e complexa introdução que parece existir mais para colocar pulgas atrás da orelha do espectador. Toda a trama montada acaba se resumindo em um plano de vingança simples, bobo e ultrapassado há muito tempo. Depois de Assalto ao Banco Central ter imitado Os Suspeitos, um filme da década de noventa, Entrando em Uma Roubada aumenta a impressão que alguns brasileiros parecem viver pelo menos duas décadas atrasados no formato do gênero, insistindo em fórmulas batidas que não irão causar qualquer reação em um público já instruído por inúmeras obras semelhantes, muitas vezes melhor articuladas.
+O problema nesse formato "2 Coelhos" é que a história parece ter sida terminada pela metade e o filme termina sem qualquer cerimônia, descartando uma longa e complexa introdução que parece existir mais para colocar pulgas atrás da orelha do espectador. Toda a trama montada acaba se resumindo em um plano de vingança simples, bobo e ultrapassado há muito tempo. Depois de Assalto ao Banco Central ter imitado Os Suspeitos, um filme da década de noventa, Entrando em Uma Roubada aumenta a impressão que alguns brasileiros parecem viver pelo menos duas décadas atrasados no formato do gênero, insistindo em fórmulas batidas que não irão causar qualquer reação em um público já instruído por inúmeras obras semelhantes, muitas vezes melhor articuladas.
 
 Dito isto, é preciso dar os créditos merecidos aos aspectos técnicos do filme, já que direção, fotografia e, principalmente, a edição, fazem uma espécie de milagre para manter todas as variáveis de um roteiro confuso e sem recompensa alguma em algo esquemático, empolgante e sempre em movimento. Se beneficiando de um elenco de luxo para uma história aquém das expectativas, as ideias por trás de inventar a produção de um novo filme em que os personagens saem pela estrada roubando lojas de conveniência quando de fato estão fazendo realmente isso com o conhecimento apenas do diretor e roteirista tinha tudo para criar uma obra enigmática, ambígua e poderosa. No entanto, o estilo globochanchada das comédias hoje em dia parece afetar até os filmes com um apelo mais diferente como esse.
 
@@ -44398,7 +44228,7 @@ Nunca mais havia assistido Cidade de Deus depois de sua estreia no cinema, em 20
 
 Mesmo depois de tanto tempo, eu lembrava de muitos momentos icônicos do pesadíssimo filme de Fernando Meirelles, como a escolha de um garoto entre quais de dois garotos mais novos que ele deveria matar, ou um bando de assassinos rezando um pai-nosso para protegê-los de todo o mal, ou tantas outras cenas que formam um mosaico muito bem elaborado pela equipe de Meirelles e que merecidamente ganhou as graças do público e da crítica mundo afora. É interessante também constatar que a frase mais famosa do filme -- "Dadinho é o caralho, meu nome agora é Zé Pequeno, porra!" -- tem sua função, mas hoje parece longe de figurar entre os incontáveis momentos marcantes dessa pequena obra-prima.
 
-Não à toa, foram indicados ao Oscar naquele ano o editor Daniel Rezende -- Tropa de Elite e A Árvore da Vida-- o fotógrafo César Charlone -- O Jardineiro Fiel e Ensaio Sobre a Cegueira -- o roteirista Bráulio Mantovani -- os marcantes Tropa de Elite 1, 2 e Chega de Saudade -- e, claro, Meirelles pela direção. Não foi indicado a melhor filme, nem estrangeiro, mas figura entre os 30 melhores filmes no top ranking do IMDB. Serviu de estopim para que essa equipe conseguisse trabalhos ambiciosos em Hollywood, além dos holofotes atingirem também a linda Alice Braga e entre o elenco termos ninguém menos que Seu Jorge fazendo o justiceiro Mané Galinha. De toda forma, a grande maioria do elenco é de moradores da própria favela, onde foi feito um extenso programa de formação e seleção de candidatos. O resultado é um filme naturalista ao extremo, ainda que estilizado com uma técnica impressionante.
+Não à toa, foram indicados ao Oscar naquele ano o editor Daniel Rezende -- Tropa de Elite e "A Árvore da Vida" -- o fotógrafo César Charlone -- O Jardineiro Fiel e Ensaio Sobre a Cegueira -- o roteirista Bráulio Mantovani -- os marcantes Tropa de Elite 1, 2 e Chega de Saudade -- e, claro, Meirelles pela direção. Não foi indicado a melhor filme, nem estrangeiro, mas figura entre os 30 melhores filmes no top ranking do IMDB. Serviu de estopim para que essa equipe conseguisse trabalhos ambiciosos em Hollywood, além dos holofotes atingirem também a linda Alice Braga e entre o elenco termos ninguém menos que Seu Jorge fazendo o justiceiro Mané Galinha. De toda forma, a grande maioria do elenco é de moradores da própria favela, onde foi feito um extenso programa de formação e seleção de candidatos. O resultado é um filme naturalista ao extremo, ainda que estilizado com uma técnica impressionante.
 
 Não é só com fama e momentos isolados que o filme consegue, treze anos depois, ainda impactar. O grande trunfo de Cidade de Deus é conter, sim, cenas fortes e violentas, mas antes fazer com que nos importemos com os personagens que sofrem o que parece ser um enorme círculo vicioso de violência e descaso que massacra vidas e almas por décadas a fio na favela que leva o nome do filme. Baseado em fatos reais, a história desses personagens percorre duas décadas e consegue manter um fio da meada desde seu começo -- a perseguição de uma galinha que foge do seu destino em um churrasco -- até o seu final, onde voltamos para aquela mesma cena, mas agora entendendo toda a dinâmica daquelas pessoas, sabendo de antemão o que há por trás do que irá acontecer em seguida.
 
@@ -45798,7 +45628,7 @@ Concluindo de uma maneira tão irônica quanto seu início, 40 anos atrás, "O A
 date: 2016-02-19
 tags: cinemaqui cinema movies
 
-50 Tons de Preto é a maneira mais eficiente de criticar o sexismo de seu primo que deveria ser levado a sério, 50 Tons de Cinza. Ele é uma paródia. Usa a mesma história do original e se aproveita de sua mediocridade para fazer comédia. De quebra, é um rodízio de comentários que, inspirados ou não, tentam ridicularizar uma situação que já é ridícula na fonte, mas embora possa soar redundante, não é. Certas coisas precisam ser ditas com outra forma de abordagem para serem visíveis ao público, e nada como uma comédia despretensiosa para isso.
+50 Tons de Preto é a maneira mais eficiente de criticar o sexismo de seu primo que deveria ser levado a sério, "Cinquenta Tons de Cinza". Ele é uma paródia. Usa a mesma história do original e se aproveita de sua mediocridade para fazer comédia. De quebra, é um rodízio de comentários que, inspirados ou não, tentam ridicularizar uma situação que já é ridícula na fonte, mas embora possa soar redundante, não é. Certas coisas precisam ser ditas com outra forma de abordagem para serem visíveis ao público, e nada como uma comédia despretensiosa para isso.
 
 Ainda por cima o filme  se permite toda e qualquer piada sobre racismo, pois é sobre o relacionamento entre dois negros, o que lhe dá certa imunidade nesse assunto. Não se sabe se as críticas a respeito da palavra "nigga" (crioulo, em inglês) aparecer no filme de Tarantino, Django Livre, suavizou-a para ela ser usada aqui mais de uma vez, ou se simplesmente ninguém liga quando é uma comédia besteirol. De uma forma ou de outra, aqui não vemos apenas a nudez feminina, mas principalmente a afro-masculina, ridicularizada para fazer rir. Nesse sentido, o filme deveria chocar mais que o água-com-açúcar do Tons de Cinza. Não choca. Aparentemente na comédia -- pelo menos a americana -- pode de tudo.
 
@@ -47418,7 +47248,6 @@ Truque de Mestre é o filme que, por comparação, eleva ainda mais o status de 
 
 # A Bruxa
 date: 2016-06-24
-slug: a_bruxa_2015
 tags: cinema movies
 
 Este terror faz jus a produções clássicas como O Exorcista (Friedkin, 1973), inovadoras como A Bluxa de Blair (Myrick, Sánchez, 1999) e instigantes como A Vila (Shyamalan, 2004), sem apelar inteiramente para nenhum desses três formatos. Conta uma lenda/conto antigo inglês e leva ao pé da letra muitas passagens, embora em todas elas haja a tal licença poética e o ponto de vista dos seus personagens, permitindo um verdadeiro jogo de interpretação para os que estiverem curiosos apenas pela sua história.
@@ -50669,7 +50498,7 @@ tags: cinema movies
 
 É difícil não gostar do estilo do diretor Terrence Malick. Em meio ao turbilhão de narrativas que preferem esfregar fatos na cara do espectador a cada segundo, Malick está sempre disposto a dar tempo ao tempo, rodar por duas horas e nos fazer questionar a própria textura da realidade em que a história se passa. Suas aventuras não estão limitadas a eventos pontuais, mas a transformações graduais, assim como na vida. Tudo isso pode ser fascinante se você, assim como eu, se cansa às vezes da mesmice narrativa de filmes convencionais, ou, por outro lado, pode ser uma tortura eterna tentar acompanhar filmes como Cavaleiro de Copas, que insiste que o conteúdo faz parte da mensagem.
 
-Aqui, infelizmente, não é possível extrair muito da mensagem apenas pelo seu conteúdo, já que o diretor/escritor de A Árvore da Vida e Amor Pleno está cada vez menos afeito a entregar as coisas facilmente para seu espectador. Entenda este filme como uma poesia que caminha através das dúvidas existenciais de Rick (Christian Bale) após a morte da mãe, e que junto do suposto suicídio do irmão tem motivos suficientes para questionar sua vida glamorosa de pop star em Hollywood, junto de seu outro irmão e o pai.
+Aqui, infelizmente, não é possível extrair muito da mensagem apenas pelo seu conteúdo, já que o diretor/escritor de "A Árvore da Vida" e Amor Pleno está cada vez menos afeito a entregar as coisas facilmente para seu espectador. Entenda este filme como uma poesia que caminha através das dúvidas existenciais de Rick (Christian Bale) após a morte da mãe, e que junto do suposto suicídio do irmão tem motivos suficientes para questionar sua vida glamorosa de pop star em Hollywood, junto de seu outro irmão e o pai.
 
 Diferente do mais intimista Amor Pleno e mais próximo de A Árvore da Vida, Malick mais uma vez une uma aventura cósmica em nosso planeta com um drama familiar. Aprendemos que há muito da realidade, como terremotos e uma gravidez, que pode ser considerada mística e divina. Principalmente se você está acostumado a frequentar lugares suntuosos e imponentes, com grandes colunas, clássica arquitetura e uma multidão de pessoas que simplesmente se divertem e estão em busca de sensações, o que faz todo o sentido. Afinal de contas, o que há para ser conquistado pelos deuses do Olimpo?
 
@@ -53944,7 +53773,7 @@ E é uma viagem sensorial, também. Exagerada quase além da conta. No entanto, 
 date: 2017-03-26
 tags: cinemaqui cinema movies
 
-Aviso aos navegantes: se você entrou em A Árvore da Vida apenas para reclamar sobre a chatice do filme para logo em seguida sair da sala nem gaste seu dinheiro com Os Belos Dias de Aranjuez. Assim como o(s) trabalho(s) de Terrence Malick, este filme de Win Wenders não busca satisfazer os princípios básicos de narrativa que estamos acostumados a acompanhar, com começo, meio e fim. Ele sequer consegue estabelecer diálogos minimamente interessantes. Seu ponto alto é sua música inicial, exaltando o dia perfeito que virá. A partir daí, caminhamos em um degradê que converte a felicidade inicial para a música final, que afirma duas coisas que resumem muito bem este dramático, embora não trágico, longa: a Terra está pegando fogo. E eu te amo.
+Aviso aos navegantes: se você entrou em "A Árvore da Vida" apenas para reclamar sobre a chatice do filme para logo em seguida sair da sala nem gaste seu dinheiro com Os Belos Dias de Aranjuez. Assim como o(s) trabalho(s) de Terrence Malick, este filme de Win Wenders não busca satisfazer os princípios básicos de narrativa que estamos acostumados a acompanhar, com começo, meio e fim. Ele sequer consegue estabelecer diálogos minimamente interessantes. Seu ponto alto é sua música inicial, exaltando o dia perfeito que virá. A partir daí, caminhamos em um degradê que converte a felicidade inicial para a música final, que afirma duas coisas que resumem muito bem este dramático, embora não trágico, longa: a Terra está pegando fogo. E eu te amo.
 
 A história gira em torno de um solitário escritor que sofre uma crise existencial e romântica, enxergando através dos seus únicos dois personagens dor e desconexão, mesmo que estejam em frente a um calmo, acolhedor e encantador jardim, cheio de verde e uma arrebatadora paz. Ela fala de suas experiências sexuais e suas sensações usando uma veia poética, para não dizer caótica. Ele a faz perguntas seguindo uma regra previamente estipulada entre eles, e pontualmente faz observações sobre frivolidades, além de ter para si o passeio à região de Aranjuez como particularmente marcante.
 
@@ -71853,7 +71682,7 @@ A narrativa tem essa pegada avassaladora em que o protagonista, desesperado, se 
 
 O filme acertadamente não nos dá tempo para pensar. É uma história emergencial. E por causa disso a montagem de Alexandre vira uma mescla de emoções que vão se sobrepondo em camadas de afetividade, carência, desespero e luto. Luto acima de tudo, pois no final das contas é o que move o protagonista para as camadas mais escuras de sua existência. Ele reencontra os familiares que o recusam por ser gay, ele tenta se entregar à despretensão de viver enchendo a cara, mas eventualmente um novo dia começa. Um novo dia sempre começa, e o tempo simplesmente não para neste longa metragem, não dando tempo sequer para o respiro cômico. É tudo tensão e solidão.
 
-A câmera na mão e seus movimentos leves ou agitados determinam o estado de espírito deste jovem na corrida pela vida que chega em alguns momentos a lembrar uma dança. O curioso é que ao comentar esse detalhe com o Alexandre, a produtora do filme que estava ao lado, Tammy Weiss, lembrou que o camera man é de fato também um dançarino profissional, o que fez tudo se encaixar a respeito dessa experiência quase a la Terrence Malick (A Árvore da Vida), onde a câmera dança em torno do motivo. E por falar em referências, há mais elementos de outros filme que se misturam, como A Rota Selvagem e Moonlight, onde alguém jovem e vulnerável passa pelo doloroso processo de descoberta de si em meio a um mundo que está alheio à sua existência ou reage de maneira hostil. Nenhum se compara a Sócrates, o filme, que resgata sua própria identidade nos ombros de seu inusitado herói-título.
+A câmera na mão e seus movimentos leves ou agitados determinam o estado de espírito deste jovem na corrida pela vida que chega em alguns momentos a lembrar uma dança. O curioso é que ao comentar esse detalhe com o Alexandre, a produtora do filme que estava ao lado, Tammy Weiss, lembrou que o camera man é de fato também um dançarino profissional, o que fez tudo se encaixar a respeito dessa experiência quase a la Terrence Malick ("A Árvore da Vida"), onde a câmera dança em torno do motivo. E por falar em referências, há mais elementos de outros filme que se misturam, como A Rota Selvagem e Moonlight, onde alguém jovem e vulnerável passa pelo doloroso processo de descoberta de si em meio a um mundo que está alheio à sua existência ou reage de maneira hostil. Nenhum se compara a Sócrates, o filme, que resgata sua própria identidade nos ombros de seu inusitado herói-título.
 
 O ator Christian Malheiros foi o primeiro a realizar o teste de ator e muito receoso se deveria. Depois de mais uma bateria de testes, com ele e mais tantos outros, foi finalmente selecionado. Christian foi a constante no processo da montagem do elenco e Sócrates é a constante nessa história que vai muito além de um triste episódio de sua vida. O papel de Christian em Sócrates é marcante porque ele representa o quão o cinema pode sequestrar nossas emoções por tanto tempo com tão pouco. Sua atuação não é exagerada, mas está tão presente em cada pedaço que nem precisa. É um ator encarnando um personagem autêntico, cuja existência não temos sombra de dúvida, e cuja essência pode ser desvendada nessas uma hora e pouco. Uma experiência e tanto para um projeto que nasceu tão despretensioso.
 
@@ -72120,7 +71949,7 @@ tags: lists cinema
 
 - The Godfather: Part II 1974
 
-- [007 Contra Goldfinger] (Goldfinger) 1964
+- "007 Contra Goldfinger" 1964
 
 - Gone with the Wind 1939
 
@@ -72600,7 +72429,6 @@ tags: lists cinema
 [Amadeus]: amadeus
 [Noivo Neurótico, Noiva Nervosa]: noivo_neurotico_noiva_nervosa
 [Se Meu Apartamento Falasse]: se_meu_apartamento_falasse
-[007 Contra Goldfinger]: 007_contra_goldfinger
 [A Marca da Maldade]: a_marca_da_maldade
 [A Partida]: a_partida
 [A Ponte do Rio Kwai]: a_ponte_do_rio_kwai
@@ -72909,7 +72737,7 @@ Foi divulgada a lista dos filmes para a mostra desse ano. Já conheço alguns di
 
 - Beto Brant (filmes nessa Mostra: [O Invasor]) é o diretor de O Invasor, um filme catártico da época do renascimento do cinema brasileiro. Vale o ingresso.
 
-- Caco Ciocler (filmes nessa Mostra: [Partida]) atuou em [2 Coelhos], filme-referência nacional em edição de um filme dinâmico com plot twists como diversão, e agora estreia na direção.
+- Caco Ciocler (filmes nessa Mostra: [Partida]) atuou em "2 Coelhos", filme-referência nacional em edição de um filme dinâmico com plot twists como diversão, e agora estreia na direção.
 
 - Daniel Rezende (filmes nessa Mostra: Turma da Mônica: Laços) é o editor premiado de [Cidade de Deus] e já tem dois trabalhos na direção; na mostra será exibida a adaptação dos quadrinhos da Turma da Mônica.
 
@@ -72939,14 +72767,12 @@ Foi divulgada a lista dos filmes para a mostra desse ano. Já conheço alguns di
 
 - Paulo Caldas (filmes nessa Mostra: Abismo Tropical, Flores do Cárcere) é diretor do brega [País do Desejo], com Fábio Assunção (você deve lembrar dele de algumas baladas de sexta à noite).
 
-- Robert Eggers (filmes nessa Mostra: [O Farol]) é diretor do terror tenso e premiado [A Bruxa].
+- Robert Eggers (filmes nessa Mostra: [O Farol]) é diretor do terror tenso e premiado "A Bruxa".
 
 - Roschdy Zem (filmes nessa Mostra: Persona Non Grata) é diretor do drama histórico sobre racismo em [Chocolate].
 
 - Yorgos Lanthimos (filmes nessa Mostra: Nimic) é o diretor premiado ano passado pelo espetacular [A Favorita], e que chega com novo filme Nimic.
 
-[2 Coelhos]: 2_coelhos
-[A Bruxa]: a_bruxa_2015
 [A Favorita]: a_favorita
 [A Garota Desconhecida]: a_garota_desconhecida
 [A Gente]: a_gente
@@ -73781,7 +73607,7 @@ date: 2019-10-29
 slug: o_farol
 tags: cinemaqui cinema movies
 
-Do mesmo diretor e roteirista de A Bruxa surge O Farol, o segundo longa metragem de Robert Eggers e que zera o universo do terror, quebrando a própria quebra de expectativa do gênero e descrevendo sensações à prova de lógica. Analisar este filme usando teorias da linguagem cinematográfica tende ao fracasso. Porém, há um caminho para a compreensão, e talvez seja até uma blasfêmia dizê-lo hoje em dia: entender sobre masculinidade.
+Do mesmo diretor e roteirista de "A Bruxa" surge O Farol, o segundo longa metragem de Robert Eggers e que zera o universo do terror, quebrando a própria quebra de expectativa do gênero e descrevendo sensações à prova de lógica. Analisar este filme usando teorias da linguagem cinematográfica tende ao fracasso. Porém, há um caminho para a compreensão, e talvez seja até uma blasfêmia dizê-lo hoje em dia: entender sobre masculinidade.
 
 Temos dois personagens que são construídos com todas as forças por Willem Dafoe e Robert Pattinson e o conflito entre eles, que nos permite em um primeiro momento entender a camada convencional da história. Dafoe faz o velho lobo-do-mar fora do mar. Ele faz do farol que cuida seu navio, dá ordens ao seu subordinado como se fosse um pai severo, e está apaixonado pela luz que ele emite. Pattinson é o novato com um passado misterioso, cujo silêncio vale tanto quanto o falatório de Dafoe em sua interpretação, pois é assim que eles oferecem o contraste de personagens. Ambos são obviamente clichês e o filme não os esconde, mas os escancara, os explora, de todas as formas possíveis.
 
@@ -74777,7 +74603,7 @@ Este é um filme que não entende muito bem seu papel no mundo. Ele quer afirmar
 
 Essa afirmação que o incomum pode ser normal sabota a estrutura de "Professor Marston e as Mulheres-Maravilhas", que já no título centopeico denuncia seu tom novelesco, pronto pra TV. Começa no julgamento de um comitê de ética e segue com flashbacks por completo, quase sem ligação com o tempo atual. É preguiçoso em seu máximo. Não entendendo a mina de ouro que é a história que ela está sentada, a diretora e roteirista Angela Robinson adota uma postura tão blasê ao narrar os acontecimentos reais em torno do criador da Mulher-Maravilha que a única coisa que chama a atenção são os acontecimentos, e que chamariam a mesma atenção em um verbete da Wikipedia (e gastaria bem menos tempo do espectador).
 
-Não é possível também, em pleno século 21, que seja escalada uma diretora mulher para conduzir um material cujo protagonista é um mero representante do patriarcado acadêmico, além de um homem de sorte. Ele é um professor doutor em psicologia e trabalha com sua linda esposa e se relaciona com sua estonteante secretária. Ao mesmo tempo. Sua desculpa é validar uma teoria sobre papéis de dominação e submissão que permeiam o imaginário popular hoje em dia com enlatados repulsivos como a série 50 Tons de Cinza.
+Não é possível também, em pleno século 21, que seja escalada uma diretora mulher para conduzir um material cujo protagonista é um mero representante do patriarcado acadêmico, além de um homem de sorte. Ele é um professor doutor em psicologia e trabalha com sua linda esposa e se relaciona com sua estonteante secretária. Ao mesmo tempo. Sua desculpa é validar uma teoria sobre papéis de dominação e submissão que permeiam o imaginário popular hoje em dia com enlatados repulsivos como a série "Cinquenta Tons de Cinza".
 
 Ele também é o inventor do detector de mentiras, que gera uma cena absurda e obtusa em que a inquisidora mulher do professor deduz um detalhe técnico que não tem a menor relação com ética apenas para uma personagem feminina poder afirmar que outra personagem (feminina) foi responsável pelo principal detalhe de sua invenção, e não um homem, como se imagina. Porém, quando observamos outra cena em que a secretária dá seu pitaco, soa tão irreal frente a dois doutores que a impressão é que uma secretária está diante de dois doutores incapazes de constatar o óbvio de sua própria pesquisa.
 
@@ -75091,7 +74917,6 @@ A reviravolta final, envolvendo escolha de quais vidas salvar e monstros de um c
 
 # 8 1/2 Mulheres
 date: 2020-01-09
-slug: 8_1_2_mulheres
 tags: cinema movies
 
 Este trabalho do diretor e roteirista Peter Greenaway é um inventivo e desleixado trabalho de metalinguagem e tão poucas ideias que é como se tivéssemos adentrado na mente masculina de seu idealizador e não conseguíssemos mais sair. O único pensamento fixo desta odisseia de pai e filho que imita o tom onírico do filme referenciado de Felini (8 e 1/2) é conseguir ter essas nove mulheres (uma é anã). Após a morte da esposa ambos partem para esta redescoberta da vida, que envolve tirar a roupa em público e alimentar o vício de dizer esquisitices sem sentido. É um cansaço acompanhar a prepotência do cineasta, que se torna a pedra no sapato de boas atuações e um bom roteiro, que escolhe subverter a lógica de história fechada e ir delineando as relações entre seus personagens mais ou menos como a vida ocorre. É um filme-sonho que não atinge a dualidade que costuma acontecer em filmes-sonhos bem-sucedidos. Greenaway não deve ter nenhum sonho muito interessante para contar.
@@ -79192,9 +79017,8 @@ Revisitado, MIB cheira a anos 90. Tommy Lee Jones está fabuloso como o funcion�
 date: 2020-12-16
 tags: cinema movies
 
-Finalmente um filme cujo material bate com o estilo de seu criador. Afeito a trabalhos experimentais no cinema, o pintor Peter Greenaway nem gosta tanto assim de cinema, o que explicaria seus péssimos e confusos filmes. Contudo, disposto a colocar sua visão em movimento em uma telona, ele sujeita sua paleta de cores ao formato industrial de exibição. Com isso já produziu e lançou várias atrocidades, como [8 1/2 mulheres] e [O Livro de Cabeceira], mas seu filme mais marcante e o divisor de águas foi este "O Cozinheiro, blá-blá-blá", ganhador de prêmios da crítica e algo que possa ser lançado nos cinemas comerciais. Até porque exibe Helen Mirren, em forma e com pelos.
+Finalmente um filme cujo material bate com o estilo de seu criador. Afeito a trabalhos experimentais no cinema, o pintor Peter Greenaway nem gosta tanto assim de cinema, o que explicaria seus péssimos e confusos filmes. Contudo, disposto a colocar sua visão em movimento em uma telona, ele sujeita sua paleta de cores ao formato industrial de exibição. Com isso já produziu e lançou várias atrocidades, como "8 1/2 Mulheres" e [O Livro de Cabeceira], mas seu filme mais marcante e o divisor de águas foi este "O Cozinheiro, blá-blá-blá", ganhador de prêmios da crítica e algo que possa ser lançado nos cinemas comerciais. Até porque exibe Helen Mirren, em forma e com pelos.
 
-[8 1/2 mulheres]: 8_1_2_mulheres
 [O Livro de Cabeceira]: o_livro_de_cabeceira
 
 # Uma Sessão Méliès
@@ -82716,7 +82540,7 @@ Nota: o uso neste texto de expressões chulas, de baixo calão e de péssimo gos
 date: 2021-10-31
 tags: cinemaqui mostrasp cinema movies
 
-Bacana esse Filho das Monarcas, do diretor franco-venezuelano Alexis Gambis. É difícil explorar um tema vão vasto quanto as nossas origens biológicas neste mundo, algo apenas dominado por Terrence Malick em A Árvore da Vida. Porém, o filme de Gambis denota alguns momentos em que ele fica muito próximo de chegar em algum lugar promissor. Infelizmente, são tantas opções juntas que essas oportunidades fogem voando como nuvens de borboletas.
+Bacana esse Filho das Monarcas, do diretor franco-venezuelano Alexis Gambis. É difícil explorar um tema vão vasto quanto as nossas origens biológicas neste mundo, algo apenas dominado por Terrence Malick em "A Árvore da Vida". Porém, o filme de Gambis denota alguns momentos em que ele fica muito próximo de chegar em algum lugar promissor. Infelizmente, são tantas opções juntas que essas oportunidades fogem voando como nuvens de borboletas.
 
 A história gira em torno de Mendel, um cientista mexicano que está prestes a publicar um trabalho em Nova York a respeito das manipulações evolutivas das espécies de borboletas que vem pesquisando há (aparentemente) muito tempo. Essas borboletas fazem parte de sua infância na terra natal e suas memórias com a avó, o melhor amigo e o irmão. É a morte da avó que traz essas lembranças de volta e que faz com que Mendel retorne à sua cidade e reveja seu irmão e um assunto ainda não resolvido entre eles, motivo de muita mágoa.
 
@@ -83355,7 +83179,7 @@ Páramo: planície solitária; deserto. (Figurado) O firmamento, a abóbada cele
 
 O filme de estreia do diretor espanhol David Casademunt pode usufruir de uma fotografia de cores sufocantes, uma direção de arte que evoca os pesadelos mais inconscientes, uma trilha sonora que mantém nossos corações em suspense. Os efeitos visuais, apesar de batidos, também usufruem dessas mesmas virtudes de uma produção que soa desperdiçada pela óbvia, triste direção, e o roteiro escrito a seis mãos que seguramente estaria melhor nas mãos de apenas uma: o seu diretor.
 
-O terror em camadas é de praxe hoje. Inúmeros trabalhos recentes do gênero, como Hereditário, A Bruxa, ou o mais antigo Babadook, fornecem pistas durante o entretenimento que há algo mais a se olhar do que os sustos fáceis e as sombras retocadas da equipe de produção. Há uma história. E um sub-texto. O Páramo nesse contexto é um excelente entretenimento sem uma história que a conduza. Nesse sentido ele se afasta dos trabalhos citados neste parágrafo e tristemente se aproxima de um parque de diversões muito bem elaborado.
+O terror em camadas é de praxe hoje. Inúmeros trabalhos recentes do gênero, como Hereditário, "A Bruxa", ou o mais antigo Babadook, fornecem pistas durante o entretenimento que há algo mais a se olhar do que os sustos fáceis e as sombras retocadas da equipe de produção. Há uma história. E um sub-texto. O Páramo nesse contexto é um excelente entretenimento sem uma história que a conduza. Nesse sentido ele se afasta dos trabalhos citados neste parágrafo e tristemente se aproxima de um parque de diversões muito bem elaborado.
 
 Se você, cinéfilo treinado, que assiste pelo menos três filmes toda semana, em algum momento começou a assistir um filme e em cinco minutos ainda não sabe sobre o que se trata, saiba que o problema não está em você, mas no que aparece na tela. A história de O Páramo mistura pano de fundo histórico com folclore local e metáforas que tentam encaixar conceitos quadrados em formas redondas. Nunca consegue. No máximo sugere alguma conexão com um mundo tão terrível que as pessoas estão dispostas a tirar a própria vida do que permanecer definhando em um inferno não anunciado.
 
@@ -86571,7 +86395,7 @@ A atriz Sabrina Greve, mais acostumada a personagens dramáticos, criou em [Onde
 
 Sérgio Machado dispensa introduções. Além de seu trabalho fotográfico ele dirigiu [Cidade Baixa], no mínimo um entretenimento sobre as castas inferiores e no máximo um romance triangular com tensão de respeito.
 
-Sérgio Tréfaut transforma o romance [Raiva] de uma ficção para outra: a famigerada luta de classes do qual tanto se fala ultimamente. Sua estética chama atenção e sua cadência merece ser ressaltada. Seria ele um Robert Eggers ([O Farol], [A Bruxa]) mais tímido e focado em dramas?
+Sérgio Tréfaut transforma o romance [Raiva] de uma ficção para outra: a famigerada luta de classes do qual tanto se fala ultimamente. Sua estética chama atenção e sua cadência merece ser ressaltada. Seria ele um Robert Eggers ([O Farol], "A Bruxa") mais tímido e focado em dramas?
 
 Terence Davies é o nome por trás da adaptação cinematográfica de [Além das Palavras], biografia da poetisa norte-americana Emily Dickinson. Uma biografia exagerada, mas apaixonante, intensa e, sobretudo, didática. Seria ele capaz de mais?
 
@@ -86630,7 +86454,6 @@ Zeca Brito documentou [A Vida Extra-Ordinária de Tarso de Castro], uma figura d
 [Cidade Baixa]: cidade_baixa
 [Raiva]: raiva
 [O Farol]: o_farol
-[A Bruxa]: a_bruxa_2015
 [Além das Palavras]: alem_das_palavras
 [A Causa e a Sombra]: a_causa_e_a_sombra
 [Restos do Vento]: restos_do_vento
@@ -88264,9 +88087,7 @@ O aroma é fabuloso. É o que me faz voltar para esta vinícola a cada visita e 
 date: 2023-02-20
 tags: cinema movies
 
-Este soft porn vai na pegada de 50 Tons de Cinza, um Emmanuelle moderno onde o objetivo é vermos o casal principal fazer um sexo gostoso e selvagem em várias posições e lugares, mas antes disso há uma historinha das mais capengas. A história não suporta o filme, não mais que os atraentes atores. Ele é o macho alfa perfeito, musculoso e bem dotado, mafioso italiano que está acostumado a conseguir o que deseja nem que seja à força. É assim que ele sequestra ela, a fêmea alfa, uma executiva competente e dura na queda. E gostosa. Muito gostosa. Ela sabe que é gostosa e sabe usar seu corpo pelo bem das melhores cenas ou dos melhores ângulos. Há pagamento de peitinho, caso você esteja se perguntando. Há alguns planos-detalhe até que ousados, pegando os membros sexuais do casal de relance. O sexo, aliás, está bem longe do papai-mamãe dos [50 Tons da Dakota Johnson]. Aqui os dois botam pra quebrar. As mamães que se segurem na poltrona do cinema. Ops, é streaming. Só tomem cuidado com o que aprontam na sala.
-
-[50 Tons da Dakota Johnson]: cinquenta_tons_de_cinza
+Este soft porn vai na pegada de "Cinquenta Tons de Cinza", um Emmanuelle moderno onde o objetivo é vermos o casal principal fazer um sexo gostoso e selvagem em várias posições e lugares, mas antes disso há uma historinha das mais capengas. A história não suporta o filme, não mais que os atraentes atores. Ele é o macho alfa perfeito, musculoso e bem dotado, mafioso italiano que está acostumado a conseguir o que deseja nem que seja à força. É assim que ele sequestra ela, a fêmea alfa, uma executiva competente e dura na queda. E gostosa. Muito gostosa. Ela sabe que é gostosa e sabe usar seu corpo pelo bem das melhores cenas ou dos melhores ângulos. Há pagamento de peitinho, caso você esteja se perguntando. Há alguns planos-detalhe até que ousados, pegando os membros sexuais do casal de relance. O sexo, aliás, está bem longe do papai-mamãe dos 50 Tons da Dakota Johnson. Aqui os dois botam pra quebrar. As mamães que se segurem na poltrona do cinema. Ops, é streaming. Só tomem cuidado com o que aprontam na sala.
 
 # Modern Love Tokyo
 date: 2023-02-20
