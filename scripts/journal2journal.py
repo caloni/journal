@@ -21,6 +21,7 @@ def call_publisher(script_name):
         '--output-path', 'publish/output/caloni.github.io/journal',
         '--journal-path', 'journal.md',
         '--single-post-mode', '0',
+        '--use-templates', '1',
     ]
     
     try:

@@ -21,6 +21,7 @@ def call_publisher(script_name):
         '--output-path', 'publish/output/caloni.github.io/blog',
         '--journal-path', 'journal.md',
         '--single-post-mode', '1',
+        '--use-templates', '1',
         '--comment-email', 'wanderley.caloni@gmail.com',
     ]
     
