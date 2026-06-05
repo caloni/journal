@@ -25581,7 +25581,7 @@ Uma fotografia aprimorada, que dá a iluminação adequada em todas as cenas (cl
 
 Algumas cenas forçadas, que tentam livrar a cara do roteirista que chegou em situações um tanto difíceis de sair: a princesa precisa se lembrar dos seus pais para se livrar de sua madrasta, e as gotas de lágrima dela são curadoras tanto quanto os cabelos.
 
-Destaque para a movimentação dos personagens e suas expressões, uma marca Disney, mas ainda cada vez melhor. A cena dos balões é a mais emocionante, e tem uma equiparação com a da morte do vagalume no trabalho anterior (A Princesa e o Sapo), embora Enrolados seja muito superior em termos de narrativa.
+Destaque para a movimentação dos personagens e suas expressões, uma marca Disney, mas ainda cada vez melhor. A cena dos balões é a mais emocionante, e tem uma equiparação com a da morte do vagalume no trabalho anterior ("A Princesa e o Sapo"), embora Enrolados seja muito superior em termos de narrativa.
 
 # Inverno da Alma
 date: 2011-01-30
@@ -29217,7 +29217,7 @@ date: 2011-12-04
 slug: happy_feet_2_o_pinguim
 tags: cinema movies
 
-Era de se esperar uma queda básica na qualidade narrativa do original Happy Feet, de 2006. Na época pegando carona no belíssimo documentário do ano passado, [A Marcha dos Pinguins], o filme traçava um paralelo do que aconteceria se um dos filhotes da espécie apresentasse uma característica... inusitada. No caso, todos os pinguins da raça Imperador são exímios cantadores, enquanto o filhote diferente gostava de sapatear. Ambas as características suportaram números de encher os olhos e os ouvidos, com performances de cair o queixo, com destaque absoluto para Somebody to Love (Queen).
+Era de se esperar uma queda básica na qualidade narrativa do original Happy Feet, de 2006. Na época pegando carona no belíssimo documentário do ano passado, "A Marcha dos Pinguins", o filme traçava um paralelo do que aconteceria se um dos filhotes da espécie apresentasse uma característica... inusitada. No caso, todos os pinguins da raça Imperador são exímios cantadores, enquanto o filhote diferente gostava de sapatear. Ambas as características suportaram números de encher os olhos e os ouvidos, com performances de cair o queixo, com destaque absoluto para Somebody to Love (Queen).
 
 Aqui a dança muda um pouco. É indiscutível a qualidade gráfica dos pinguins, como já era 5 anos atrás, mas agora dois novos componentes da "fauna" antártica merecem o destaque absoluto: Will e Bill, dois espécimes de Krill: desde a textura até os movimentos dos olhos, tudo é perfeito nesses dois, que combinam suas cores com o fundo do mar gelado de maneira absolutamente natural e, de certa foram, poética.
 
@@ -29226,8 +29226,6 @@ O filme começa bem, ressaltando a importância do ecossistema como um todo, com
 Já o problema do longa se encontra no seu desenvolvimento. Nunca conseguindo focar em um tema específico, o drama principal dos pinguins presos entre as geleiras fica esmaecido, quase esquecido em alguns momentos, pois não existe ritmo ou até mesmo coerência em contar essa história, dando maior importância às brincadeiras visuais (que funcionam metade do tempo) e falas completamente descartáveis (nem a antes figura carismática de Ramon consegue salvar).
 
 Porém, esse deve ser o filme que vai impressionar mais as plateias pela maneira impecável que ele junta suas duas pontas extremas, mesmo se despreocupando totalmente em como desenvolvê-las de maneira no mínimo interessante.
-
-[A Marcha dos Pinguins]: a_marcha_dos_pinguins
 
 # Top Secret!: Superconfidencial
 date: 2011-12-04
@@ -29263,7 +29261,7 @@ date: 2011-12-10
 slug: alien_3
 tags: cinema movies
 
-Oito anos após [Aliens, o Resgate] (James Cameron), continuação do [filme original de Ridley Scott], o Cinema mais uma vez revisita esse universo, dessa vez pela visão do ainda inexperiente David Fincher (Seven, [Clube da Luta], [A Rede Social]), que não conseguiu enriquecê-lo à altura de seus antecessores, mas cria um drama que no mínimo aumenta um pouco nossa percepção a respeito da criatura.
+Oito anos após [Aliens, o Resgate] (James Cameron), continuação do [filme original de Ridley Scott], o Cinema mais uma vez revisita esse universo, dessa vez pela visão do ainda inexperiente David Fincher (Seven, [Clube da Luta], "A Rede Social"), que não conseguiu enriquecê-lo à altura de seus antecessores, mas cria um drama que no mínimo aumenta um pouco nossa percepção a respeito da criatura.
 
 Aplicando um ritmo mais reflexivo a maior parte do tempo e com cara de reboot já nascido morto, o filme inicia na sequência do anterior, quando a nave usada para escape identifica um incêndio (que vemos ter sido causado por um "facehugger") e inicia um procedimento de aterrisagem no planeta mais próximo. O lugar, porém, revela ser uma prisão de segurança máxima, onde Ripley (Sigourney Weaver), além de ser a única sobrevivente, é a única mulher existente, o que acaba gerando um certo desconforto aos seus habitantes.
 
@@ -29277,7 +29275,6 @@ Para "medir" a falta de ritmo e história no projeto, basta sentir a reação do
 
 Enfim, um filme mediano que pode ter seus méritos próprios, mas que, por aqui se tratar de mais um da série Alien, fica muito aquém dos trabalhos anteriores sobre esse universo tão rico e ainda não totalmente explorado.
 
-[A Rede Social]: a_rede_social
 [Aliens, o Resgate]: aliens_o_resgate
 [Clube da Luta]: clube_da_luta
 [filme original de Ridley Scott]: alien_o_oitavo_passageiro
@@ -29560,11 +29557,10 @@ date: 2012-01-08
 slug: dumbo
 tags: cinema movies
 
-Um dos trabalhos mais esquecidos da Disney das décadas passadas, e um dos poucos que conseguiu arrecadar bilheteria o suficiente para manter a empresa de animação nos eixos durante a Segunda Guerra, Dumbo possui uma leveza e doçura que não existe em trabalhos mais sombrios da época, como [Branca de Neve] e Pinóquio (sem contar o extremamente cruel Bambi). No entanto, não é apenas isso que se nota no curto longa-metragem: surrealismo ([Pink Elephants on Parade]), regionalismo (os corvos que usam até uma música descaradamente plagiada em [A Princesa e o Sapo]) e preciosismo nos movimentos são alguns traços que mantém este trabalho como uma das grandes animações já feitas no Cinema.
+Um dos trabalhos mais esquecidos da Disney das décadas passadas, e um dos poucos que conseguiu arrecadar bilheteria o suficiente para manter a empresa de animação nos eixos durante a Segunda Guerra, Dumbo possui uma leveza e doçura que não existe em trabalhos mais sombrios da época, como [Branca de Neve] e Pinóquio (sem contar o extremamente cruel Bambi). No entanto, não é apenas isso que se nota no curto longa-metragem: surrealismo ([Pink Elephants on Parade]), regionalismo (os corvos que usam até uma música descaradamente plagiada em "A Princesa e o Sapo") e preciosismo nos movimentos são alguns traços que mantém este trabalho como uma das grandes animações já feitas no Cinema.
 
 No entanto, nada disso é o que faz dele um dos meus favoritos do estúdio. Munido da paleta clássica de cartoons, Dumbo ainda consegue trazer drama para a tela em seu momento climático mesmo depois de termos visto a mesma cena várias vezes. O quadro-a-quadro aqui é um exemplo de Cinema a ser copiado e estudado.
 
-[A Princesa e o Sapo]: a_princesa_e_o_sapo
 [Branca de Neve]: branca_de_neve_e_os_sete_anoes
 [Pink Elephants on Parade]: https://en.wikipedia.org/wiki/Pink_Elephants_on_Parade
 
@@ -29899,7 +29895,7 @@ O filme é um remake do sueco homônimo de dois anos atrás, sendo que ambos for
 
 Quanto à adaptação, só tenho a dizer que foi uma tortura acompanhar as histórias de O Código da Vinci ou até mesmo Anjos e Demônios, ambos livros de mistério escritos por Dan Brown e que se tornaram filmes de Ron Howard. O problema principal desses filmes é jogar toneladas de informações sem qualquer discernimento e sem imaginar que o espectador poderia precisar voltar algumas "páginas" após alguns acontecimentos lá pelo meio do "livro". Já o trabalho do roteirista Steve Zaillian em O Homem que Não Amava as Mulheres enriquece a experiência cinematográfica justamente por expor poucos mas convincentes detalhes sobre a relação entre seus personagens, mantendo assim a essência literária (não, não li o livro, mas dei uma olhada na Wikipedia depois).
 
-E se o roteiro é competente, ele brilha nas mãos de David Fincher (Clube da Luta, A Rede Social) e dos seus costumeiros montadores Kirk Baxter e Angus Wall ao evocar rapidamente esses detalhes em cenas que muitas vezes duram menos de 30 segundos (como um determinado roubo), mas que criam pequenas dobras nos detalhes que vamos acumulando durante o filme com efeito duradouro. Para notar isso, basta assistir aos primeiros 10 minutos, que conseguem com perfeição delinear as principais motivações de seus personagens em sequências rápidas e econômicas.
+E se o roteiro é competente, ele brilha nas mãos de David Fincher (Clube da Luta, "A Rede Social") e dos seus costumeiros montadores Kirk Baxter e Angus Wall ao evocar rapidamente esses detalhes em cenas que muitas vezes duram menos de 30 segundos (como um determinado roubo), mas que criam pequenas dobras nos detalhes que vamos acumulando durante o filme com efeito duradouro. Para notar isso, basta assistir aos primeiros 10 minutos, que conseguem com perfeição delinear as principais motivações de seus personagens em sequências rápidas e econômicas.
 
 Com isso, temos todas as cartas na manga ao chegarmos na mansão de Henrik Vanger (Christopher Plummer) através de uma evocativa nevasca. Henrik é o presidente do império familiar e contratou o jornalista Mikael Blowkvist (Daniel Craig) para investigar o desaparecimento de sua sobrinha-neta Harriet Vanger ocorrido quatro décadas atrás. E se a introdução sobre a família dos Vanger confunde pela quantidade de nomes e detalhes sobre cada um de seus membros, além da localização das respectivas casas, isso apenas reflete a futura dificuldade de Mikael em juntar todas as peças sobre um fato ocorrido há muito tempo na pequena e cinzenta cidade.
 
@@ -30075,7 +30071,7 @@ tags: cinema movies
 
 Brad Pitt é um ator com um controle de personagem invejável. Podemos acompanhar sua trajetória em papéis mais exóticos como o do vampiro Louis (Entrevista com o Vampiro), do maníaco Jeffrey Goines (Os 12 Macacos), do inconsequente Tyler Durden (Clube da Luta) e do cômico Tenente Aldo Raine (Bastardos Inglórios) e compararmos com papéis mais contidos ou dramáticos como o pai de família em "A Árvore da Vida", o detetive David Mills em Seven e o gerente de um time de beisebol Billy Beane, papel que desempenha em O Homem que Mudou o Jogo que faz ficarmos em dúvida se existem dois, três ou mais clones do ator escondidos e revelados em momentos pontuais de sua carreira.
 
-A história é baseada em um livro que por sua vez é baseada em fatos reais ocorridos com o gerente geral do time de beisebol Billy Beane do Oakland Athletics. Com o roteiro assinado (depois de vários conflitos com a produtora Sony) pelos ótimos Steven Zaillian (Os Homens que Não Amavam as Mulheres versão 2011) e Aaron Sorkin (A Rede Social), a direção documental de Bennett Miller, que usa com o diretor de fotografia Wally Pfister uma granulação maior justamente para ampliar a temática para a vida real, acerta em manter os atores parados e dialogando a maior parte do tempo, dando ênfase em suas performances e facilitando nossa identificação com a história e os personagens. Porém, acerta mais uma vez em determinados momentos se deixar levar por uma abordagem mais poética, mas que exatamente por refletir a realidade já mostrada se torna tão mais forte e tão mais presente em nossas mentes.
+A história é baseada em um livro que por sua vez é baseada em fatos reais ocorridos com o gerente geral do time de beisebol Billy Beane do Oakland Athletics. Com o roteiro assinado (depois de vários conflitos com a produtora Sony) pelos ótimos Steven Zaillian (Os Homens que Não Amavam as Mulheres versão 2011) e Aaron Sorkin ("A Rede Social"), a direção documental de Bennett Miller, que usa com o diretor de fotografia Wally Pfister uma granulação maior justamente para ampliar a temática para a vida real, acerta em manter os atores parados e dialogando a maior parte do tempo, dando ênfase em suas performances e facilitando nossa identificação com a história e os personagens. Porém, acerta mais uma vez em determinados momentos se deixar levar por uma abordagem mais poética, mas que exatamente por refletir a realidade já mostrada se torna tão mais forte e tão mais presente em nossas mentes.
 
 Ainda sobre o tom documental, os sons fazem parte da receita usada por Miller, além de possuírem a dupla função de identificar quando Billy Beane está acompanhando os jogos e quanto não está, como na belíssima introdução de seu personagem em um estádio vazio e escuro, no momento em que ele decide se deixa o rádio ligado ou não, ou mesmo quando em determinado momento ele retorna para o estádio onde ocorre um jogo determinante para sua equipe e pode-se ouvir a diferença de energia pelo som dos torcedores em volta em contrastre com seus momentos de solidão.
 
@@ -30178,9 +30174,9 @@ date: 2012-03-25
 slug: paprika
 tags: cinema movies
 
-Paprika funciona muito bem como cinema experimental, onde boas ideias costumam nascer. A ideia central da história, a manipulação e compartilhamento dos sonhos de uma pessoa, deu origem, por exemplo à [A Origem]! No entanto, diferente da experiência racional de Christopher Nolan, Paprika não se preocupa em desenvolver muito seus personagens ou mesmo sua história, em que não temos muita certeza das ameaças por trás da invenção dos sonhos ter caído em mãos erradas. De certa forma, o filme é tão poético ou tão caótico quanto os próprios sonhos que estamos acostumados a ter. Sem algo que prenda as atenções, o subconsciente é importante para apreciarmos um filme de sensações e, principalmente, de conexões não sempre lógicas ou mastigadas.
+Paprika funciona muito bem como cinema experimental, onde boas ideias costumam nascer. A ideia central da história, a manipulação e compartilhamento dos sonhos de uma pessoa, deu origem, por exemplo à "A Origem"! No entanto, diferente da experiência racional de Christopher Nolan, Paprika não se preocupa em desenvolver muito seus personagens ou mesmo sua história, em que não temos muita certeza das ameaças por trás da invenção dos sonhos ter caído em mãos erradas. De certa forma, o filme é tão poético ou tão caótico quanto os próprios sonhos que estamos acostumados a ter. Sem algo que prenda as atenções, o subconsciente é importante para apreciarmos um filme de sensações e, principalmente, de conexões não sempre lógicas ou mastigadas.
 
-[A Origem]: a_origem
+"A Origem": a_origem
 
 # Cliente Morto Não Paga
 date: 2012-03-27
@@ -31261,7 +31257,7 @@ date: 2012-06-13
 slug: a_dificil_arte_de_amar
 tags: cinema movies
 
-Um roteiro e um romance de Nora Ephron ([Julie e Julia], [Mensagem pra Você], Sintonia de Amor, A Feiticeira...) e uma direção de Mike Nichols (Closer, [A Gaiola das Loucas]) conseguem dar o tom mais que adequado para que uma jovem Meryl Streep, mas já ganhadora de um Oscar por "Kramer vs Kramer", conseguisse dar espírito para Rachel, uma jornalista de meia-idade que após o divórcio teme por um novo casamento, mas que mesmo assim se entrega sem receios aos sentimentos pelo também jornalista Mark (um já velho Jack Nicholson), que possui fama de solteirão e não se ater por muito tempo à mesma mulher.
+Um roteiro e um romance de Nora Ephron ([Julie e Julia], [Mensagem pra Você], Sintonia de Amor, A Feiticeira...) e uma direção de Mike Nichols (Closer, "A Gaiola das Loucas") conseguem dar o tom mais que adequado para que uma jovem Meryl Streep, mas já ganhadora de um Oscar por "Kramer vs Kramer", conseguisse dar espírito para Rachel, uma jornalista de meia-idade que após o divórcio teme por um novo casamento, mas que mesmo assim se entrega sem receios aos sentimentos pelo também jornalista Mark (um já velho Jack Nicholson), que possui fama de solteirão e não se ater por muito tempo à mesma mulher.
 
 É preciso notar que o filme envelheceu muito mal, mas mesmo assim as virtudes de direção de Nichols e atuação de Streep prevalecem, embora a hoje batidíssima música-tema e trilha sonora da maioria das cenas caia muito mal, e chegue a estragar diversas sequências que harmonizariam muito mais em seu silêncio completo, uma vez que apesar do pano de fundo ser um romance o que vemos na tela é um drama dos mais realistas e pesados, e nossa identificação com o casal é muito forte graças às situações comuns que presenciamos.
 
@@ -31269,7 +31265,6 @@ No entanto, as relações entre os casais de hoje em dia não poderiam ser mais 
 
 [Julie e Julia]: julie_e_julia
 [Mensagem pra Você]: mensagem_para_voce
-[A Gaiola das Loucas]: a_gaiola_das_loucas
 
 # Madagascar 3: Os Procurados
 date: 2012-06-13
@@ -31389,7 +31384,7 @@ date: 2012-06-19
 slug: prometheus
 tags: cinema movies
 
-Como fã convicto da [série Alien], desde [seu Oitavo Passageiro] ao controverso [A Ressurreição], tenho autoridade não apenas como estudioso de Cinema mas como fã estudioso de considerar o novo trabalho de Ridley Scott como uma involução não apenas da série, mas do gênero de ficção científica/terror como um todo.
+Como fã convicto da [série Alien], desde [seu Oitavo Passageiro] ao controverso "Alien, a Ressurreição", tenho autoridade não apenas como estudioso de Cinema mas como fã estudioso de considerar o novo trabalho de Ridley Scott como uma involução não apenas da série, mas do gênero de ficção científica/terror como um todo.
 
 A história de Prometheus gira em torno da expedição realizada pela nave homônima a um planeta-satélite que possivelmente poderia conter pistas sobre a origem do ser humano. Quando a dupla de cientistas Elizabeth Shaw (Noomi Rapace) e Charlie Holloway (Logan Marshall-Green) deduzem a partir de "pistas" supostamente deixadas em escritas em cavernas de diversos povos antigos, isso desperta no trilhardário Peter Weyland (Guy Pearce) o desejo de investir em um contato único com seres que possivelmente criaram a raça humana, ou a partir da evolução ela acabou sendo criada. No fundo, não importa, pois estamos falando tanto de uma visão Criacionista quanto Evolucionista.
 
@@ -31397,7 +31392,6 @@ Porém, o que se segue a essa interessante premissa são explicações cada vez 
 
 Esse estado de estagnação é o que domina boa parte seu desfecho, onde acompanhamos consternados mais pelo aumento do volume da trilha sonora e frequência dos cortes do que algo que de fato nos surpreenda. Tudo acaba ocorrendo da mesma forma que imaginada. Não há descoberta. Não há desafio. Não tememos pelo destino dos personagens. O que resta é uma límpida fotografia de um planetinha desinteressante e seus seres idem. Até deus seria uma explicação mais rica e interessante da nossa origem.
 
-[A Ressurreição]: alien_a_ressureicao
 [seu Oitavo Passageiro]: alien_o_oitavo_passageiro
 [série Alien]: aliens_o_resgate
 
@@ -32239,15 +32233,13 @@ tags: cinema movies
 
 Os Infratores é um filme de gênero: de gângsteres, para ser exato. Se passa na época da lei seca, quando comercializar bebidas nos Estados Unidos era um crime punido severamente. Acompanhamos a narrativa em off de Jack (Shia LaBeouf), um dos três irmãos Forrest (Tom Hardy), Howard (Jason Clarke) e Cricket (Dane DeHaan). Juntos formam a família Bondurant, que através do controle da distribuição ilegal de licores criados de forma caseira administram sua influência no Condado de Franklin, uma região isolada vizinha de Chicago (que, não é preciso lembrar, foi a morada de Al Capone).
 
-A maneira quase episódica com que a história é conduzida, através de pequenos acontecimentos que, aparentemente inofensivos, revelam cada vez mais sobre a situação vivida por aquelas pessoas, foi a solução empregada pelo diretor John Hillcoat ([A Estrada]) para que consigamos apreciar o cenário do pequeno condado por completo, desde as diferenças entre os irmãos, a relação com as outras famílias e as autoridades e até a igreja local. Para isso boa parte do tempo é sabiamente empregada para distinguir seus personagens, transformando-os, aos poucos, em pessoas de carne e osso. A grande vantagem do projeto é contar com um elenco extremamente competente, que mesmo em seus papéis de menos destaque, como o do sempre excelente Gary Oldman como o gângster da cidade Floyd Banner, conseguem garantir o "seu momento", e quando olhamos para todas essas figuras ao mesmo tempo é possível entender o drama não apenas por sua violência gráfica, mas principalmente pelo seu lado mais humano.
+A maneira quase episódica com que a história é conduzida, através de pequenos acontecimentos que, aparentemente inofensivos, revelam cada vez mais sobre a situação vivida por aquelas pessoas, foi a solução empregada pelo diretor John Hillcoat ("A Estrada") para que consigamos apreciar o cenário do pequeno condado por completo, desde as diferenças entre os irmãos, a relação com as outras famílias e as autoridades e até a igreja local. Para isso boa parte do tempo é sabiamente empregada para distinguir seus personagens, transformando-os, aos poucos, em pessoas de carne e osso. A grande vantagem do projeto é contar com um elenco extremamente competente, que mesmo em seus papéis de menos destaque, como o do sempre excelente Gary Oldman como o gângster da cidade Floyd Banner, conseguem garantir o "seu momento", e quando olhamos para todas essas figuras ao mesmo tempo é possível entender o drama não apenas por sua violência gráfica, mas principalmente pelo seu lado mais humano.
 
 Dessa forma, é vital que a atuação de Tom Hardy como Forrest Bondurant, o líder entre os irmãos e os seus negócios escusos, esteja afiada como uma navalha, e que seu sotaque interiorano cuspa semi-frases que dizem mais pela maneira com que são ditas do que pela frase em si. É dessa maneira que entendemos de maneira cômica um "sim" não dito para a recém-contratada garçonete de seu bar, a confiantemente linda Maggie Beauford (Jessica Chastain), que confirma que deseja que a moça trabalhe para ele, mas ao mesmo tempo tente empregar um desdém nesse desejo, embora sem muito sucesso. Da mesma maneira, a participação impressionante de Shia LaBeouf como Jack Bondurant emprega uma inocência meticulosamente construída para que o rapaz possa se transformar a qualquer momento em um membro legítimo da família, lidando com os negócios de igual para igual.
 
 Não menos importante, porém, é a construção enérgica do odiável vilão Charlie Rakes (Guy Pearce), que com seus maneirismos urbanos e repulsa pelo meio de vida rural consegue a proeza de, com menos tempo de tela, parecer tão ou mais importante do que os habitantes da vila. Sua maneira de falar e gesticular lembra um Coronel Hans Landa (Bastárdos Inglórios) menos polido e mais mesquinho, embora dificilmente perto da comicidade dúbia de Christoph Waltz.
 
 Fora o elenco afiado, e voltando ao filme em si, o que mais impressiona em Os Infratores é a montagem do tabuleiro para o seu xeque-mate fatídico, que é sublime em sutilezas. O cuidado e a calma com que os pormenores são colocados fazem valer a pena a paciência empregada na uma hora e meia inicial para a síntese do que a opressão às liberdades pode causar. Ou, por outro lado, talvez a opressão amoral seja o combustível para que nós, como seres humanos, consigamos evoluir ou para que um carro sem gasolina dê a partida.
-
-[A Estrada]: a_estrada
 
 # E se Vivêssemos Todos Juntos?
 date: 2012-10-21
@@ -33098,11 +33090,9 @@ A forma com que o filme vai catando as pecinhas do quebra-cabeças que é a real
 
 Tomemos o sexo como exemplo. Nunca deixa de ser sensual. Aqui fica até mais, com tanto realismo. Porém, a repetição aos poucos vai banalizando a experiência. Tudo que vai se repetindo parece fazer esgotar a magia. Logo vira lugar comum para nós, espectadores, assim como é para ela. Logo tudo converge para o nada: o sexo, a vida de médica, o vai-e-vem casa/serviço. O que não se esvai é esse conceito de felicidade de Verônica: estar livre, flutuando nas águas do mar, para ser o que quiser, e não o que esperarmos que seja.
 
-A comparação com [A Febre do Rato] é inevitável: a mesma Recife vista pela mesma sensação de estranhamento vinda não da rotina, que não poderia ser mais ordinária, mas da ambição dos seus personagens. No caso aqui dA personagem, única, sozinha. Tão sozinha que se auto-diagnostica através dos seus pensamentos e gravações, meio como uma auto-cura ao escutar de dentro.
+A comparação com "A Febre do Rato" é inevitável: a mesma Recife vista pela mesma sensação de estranhamento vinda não da rotina, que não poderia ser mais ordinária, mas da ambição dos seus personagens. No caso aqui dA personagem, única, sozinha. Tão sozinha que se auto-diagnostica através dos seus pensamentos e gravações, meio como uma auto-cura ao escutar de dentro.
 
 O grande conflito, talvez, seja entender que a Felicidade pode ser muitas coisas. Menos banal.
-
-[A Febre do Rato]: a_febre_do_rato
 
 # A Casa da Rússia
 date: 2013-01-14
@@ -33182,7 +33172,7 @@ Nada mais apropriado às vésperas da segunda Copa do Mundo no Brasil -- a prime
 
 E a expiração desse álbum está cada vez mais rápida: jogadores migram de clube para clube, e os próprios clubes começam a passar de mão em mão sem qualquer vínculo à sua história e tradição. O que fica para trás -- mas isso é um mero detalhe -- é a vontade de jogar. O futebol perde-se no meio de tantas cifras, incalculáveis para nós, simples mortais.
 
-Tudo isso bate de frente com a visão que o diretor José Henrique Fonseca (O Homem do Ano) tenta dar para o ídolo Heleno de Freitas, ajudado pela fotografia incomparável de Walter Carvalho ([Central do Brasil], [A Febre do Rato]), que utiliza um preto e branco cheio de contrastre, o que nos remete diretamente tanto para o símbolo do time em que Heleno jogava, o Botafogo do Rio, quanto para todo o romantismo de uma era. Muitas das cenas, principalmente as externas, utilizam essa estilização fingindo as limitações da época.
+Tudo isso bate de frente com a visão que o diretor José Henrique Fonseca (O Homem do Ano) tenta dar para o ídolo Heleno de Freitas, ajudado pela fotografia incomparável de Walter Carvalho ([Central do Brasil], "A Febre do Rato"), que utiliza um preto e branco cheio de contrastre, o que nos remete diretamente tanto para o símbolo do time em que Heleno jogava, o Botafogo do Rio, quanto para todo o romantismo de uma era. Muitas das cenas, principalmente as externas, utilizam essa estilização fingindo as limitações da época.
 
 Heleno, mulherengo inveterado, mas jogador acima de tudo, é interpretado como que numa incorporação quase espiritual por Rodrigo Santoro. O seu overacting controlado aqui serve como uma luva, pois todo o drama e tragédia vividos pelo jogador nunca conseguiriam ser transpostos para a tela sem a ajuda da caracterização de Santoro (e que aqui também produz o filme). Perto do Heleno de Santoso, todos os outros personagens são meros coadjuvantes necessários, o que não é um defeito, mas mais um toque de gênio da dupla Fonseca/Carvalho, que entendem que uma figura ego centrada como Heleno precisa de um filme só para ele.
 
@@ -33190,7 +33180,6 @@ Curioso constatar que o próprio futebol fica em segundo plano, e nunca sabemos 
 
 Ao nos mostrar o fim e o ápice de Heleno, acompanhamos apenas sua trajetória em direção ao buraco do esquecimento. Sua lenta descaracterização merece aplausos, principalmente pela sua última frase, seu último pensamento, a respeito de si mesmo, e, por que não, a respeito de todo ídolo honrado do esporte nacional.
 
-[A Febre do Rato]: a_febre_do_rato
 [Central do Brasil]: central_do_brasil
 
 # ParaNorman
@@ -33227,18 +33216,16 @@ Mesmo com esse enredo caótico, Campanella consegue extrair essa lógica para no
 date: 2013-01-23
 tags: cinema movies
 
-Ulu Grosbard, falecido recentemente (2012), não fez muitos filmes. Este é um "drama romântico" "a la anos 80" com Meryl Streep e Robert de Niro nos papéis principais e que lida com um tema ainda muito tabu, como podemos notar em trabalho semelhante (mas menos ousado) que Streep fará com Jack Nicholson, [A Difícil Arte de Amar]. Este Amor à Primeira Vista flerta o tempo todo com sua posição a respeito de relacionamentos extra-conjugais, e essa indecisão vista hoje em dia pode tanto significar uma época de transição quanto a transição dos seus próprios personagens, aos poucos aprendendo o valor da liberdade. Como fio narrativo, a indecisão de ambos funciona maravilhosamente bem como gerador de tensão.
+Ulu Grosbard, falecido recentemente (2012), não fez muitos filmes. Este é um "drama romântico" "a la anos 80" com Meryl Streep e Robert de Niro nos papéis principais e que lida com um tema ainda muito tabu, como podemos notar em trabalho semelhante (mas menos ousado) que Streep fará com Jack Nicholson, "A Difícil Arte de Amar". Este Amor à Primeira Vista flerta o tempo todo com sua posição a respeito de relacionamentos extra-conjugais, e essa indecisão vista hoje em dia pode tanto significar uma época de transição quanto a transição dos seus próprios personagens, aos poucos aprendendo o valor da liberdade. Como fio narrativo, a indecisão de ambos funciona maravilhosamente bem como gerador de tensão.
 
 Essa tensão pode ser sentida materialmente no valor que o tempo possui para ambos. Pelo menos dois encontros na estação um deles se atrasa e o outro precisa aguardar, lembrando que em ambas as situações o encontro entre eles é crucial para o destino de suas vidas. A rima metafórica aqui é clara: o casamento pode ser um atraso em nossa vida (o que não quer dizer que seja em todas), e por isso nossa próxima companhia merece o benefício da espera, e paciência para a transição que gera nossa transformação como seres humanos.
 
 A questão a ser notada é que, mesmo sem a certeza do que está fazendo, o filme de Grosbard alça voos mais altos através do amadurecimento do sentimento entre os dois. Se no começo parecia um capricho ambos terem se encontrado tantas vezes ao acaso, aos poucos notamos uma certa necessidade em seus personagens de evoluírem, no sentido de se livrarem das amarras convencionais do que dita o relacionamento de um casal perante a sociedade.
 
-Embora o figurino muitas vezes seja risível (como a cena em que Streep escolhe seu melhor vestido), não há como negar a força narrativa da trilha sonora de Dave Grusin ([A Primeira Noite de Um Homem]), que inicia com um tom burlesco do natal (pelo menos visto hoje) e termina no próximo natal com um poder contemplativo admirável (embora flerte perigosamente perto do mesmo tom aplicado por Ennio Morricone em [Cinema Paradiso]).
+Embora o figurino muitas vezes seja risível (como a cena em que Streep escolhe seu melhor vestido), não há como negar a força narrativa da trilha sonora de Dave Grusin ("A Primeira Noite de Um Homem"), que inicia com um tom burlesco do natal (pelo menos visto hoje) e termina no próximo natal com um poder contemplativo admirável (embora flerte perigosamente perto do mesmo tom aplicado por Ennio Morricone em [Cinema Paradiso]).
 
 Piegas ou não, o romance aqui existe de uma maneira não-convencional, o que para um filme de 84 merece pelo menos uma revisita.
 
-[A Difícil Arte de Amar]: a_dificil_arte_de_amar
-[A Primeira Noite de Um Homem]: a_primeira_noite_de_um_homem
 [Cinema Paradiso]: cinema_paradiso
 
 # S.O.S.: Tem um Louco Solto no Espaço
@@ -33341,7 +33328,7 @@ date: 2013-02-04
 slug: pais_do_desejo
 tags: cinema movies
 
-Filmes como [A Febre do Rato] e [O Som ao Redor] possuem narrativas pouco convencionais, mas seus temas são tão bem explorados e ensinados ao espectador que não conseguimos imaginar maneira melhor de contar uma história. Que é exatamente o que não existe em País do Desejo, que articula temas complexos e polêmicos como o aborto e a castidade dos padres sem a mínima intenção de explorá-los como mereceriam.
+Filmes como "A Febre do Rato" e [O Som ao Redor] possuem narrativas pouco convencionais, mas seus temas são tão bem explorados e ensinados ao espectador que não conseguimos imaginar maneira melhor de contar uma história. Que é exatamente o que não existe em País do Desejo, que articula temas complexos e polêmicos como o aborto e a castidade dos padres sem a mínima intenção de explorá-los como mereceriam.
 
 Roberta (Maria Padilha, linda como sempre) é uma famosa artista que utiliza a música para se expressar. O passado trágico envolvendo sua mãe a torna enclausurada em sentimentos mórbidos (quer até usar um requiem, uma espécie de música mórbida, para seu próximo show). Sua relação de amizade com o Padre José (Fábio Assunção) indica sua necessidade de comunicação com o seu lado mais místico, e a fotografia que transita entre as sombras escuras de sua casa e a luz branca do sol e do quarto de hospital onde se encontra após um evento a transforma metaforicamente na figura angelical. Como contraparte, a enfermeira japonesa (Juliana Kametani) que vem cuidar da mãe do padre se veste de maneira sensual, se comporta sensualmente e gosta de provocar deixando a porta aberta do seu quarto enquanto passa creme seminua em seu corpo. Note como seu cabelo no ônibus que chega à cidade possui um aspecto de chifres. Qualquer relação dualidade anjo/diabo, por mais absurdo que possa parecer, está contido nas confusas mensagens do filme.
 
@@ -33351,7 +33338,6 @@ Se todos esses elementos não precisassem ser mastigados pelo espectador perdido
 
 Porém, pelo visto, o diretor não quis entregar nada mais que os eventos enfileirados, o que parece mais material de pesquisa do que uma história pensada e trabalhada para comunicar ideias que ousam desafiar a narrativa clássica do cinema.
 
-[A Febre do Rato]: a_febre_do_rato
 [O Som ao Redor]: o_som_ao_redor
 
 # Django Livre
@@ -34064,11 +34050,9 @@ De qualquer forma, Indie é uma compilação inédita de momentos com nerds onde
 date: 2013-06-25
 tags: cinema movies
 
-Última aparição de Sean Connery (estranhamente intercalado com George Lazenby em [A Serviço de Sua Majestade]), Os Diamantes são Eternos é aquele tipo de filme que já começa a se caracterizar como homenagem dos filmes anteriores e da própria síntese do filme de espionagem de ação. Temos tiradas sarcásticas e momentos empolgantes que são ao mesmo tempo hilários, o que não diminui a tensão em momentos chave, como a aparição de um duplo vilão.
+Última aparição de Sean Connery (estranhamente intercalado com George Lazenby em "A Serviço de Sua Majestade"), Os Diamantes são Eternos é aquele tipo de filme que já começa a se caracterizar como homenagem dos filmes anteriores e da própria síntese do filme de espionagem de ação. Temos tiradas sarcásticas e momentos empolgantes que são ao mesmo tempo hilários, o que não diminui a tensão em momentos chave, como a aparição de um duplo vilão.
 
 A direção de Guy Hamilton ("007 Contra Goldfinger") é precisa e as cenas de ação estão no nível do filme anterior (ainda que um pouco menos ambicioso). Os cortes são rápidos e os detalhes se perdem em meio ao charme e convicção de Sean Connery como o espião britânico mais famoso do Cinema.
-
-[A Serviço de Sua Majestade]: 007_a_servico_secreto_de_sua_majestade
 
 # Antes da Meia-Noite
 date: 2013-06-27
@@ -34093,13 +34077,12 @@ Se houvesse um grande defeito que eu poderia reclamar das experiências do casal
 date: 2013-07-01
 tags: cinema movies
 
-Nora Ephron morreu ano passado. Escreveu e dirigiu trabalhos desde os anos 80 que hoje são agradáveis passeios pelas origens da comédia romântica como hoje a vemos (ainda que algumas bem datadas, como [A Difícil Arte de Amar]). No entanto, "Harry & Sally", comparado com a média das com-rom atuais, possui virtudes o suficiente para elevá-lo à categoria de grande filme.
+Nora Ephron morreu ano passado. Escreveu e dirigiu trabalhos desde os anos 80 que hoje são agradáveis passeios pelas origens da comédia romântica como hoje a vemos (ainda que algumas bem datadas, como "A Difícil Arte de Amar"). No entanto, "Harry & Sally", comparado com a média das com-rom atuais, possui virtudes o suficiente para elevá-lo à categoria de grande filme.
 
 Note como os personagens não mudam de opinião, não estão loucos por um grande amor e nem são expostos a relacionamentos passageiros para gerar ciúmes no companheiro/a. Harry é visto através da figura de um Billy Crystal sóbrio, divertido e coeso, ou uma espécie de persona no esitlo de Bill Murray sem muito sarcasmo mas com muito carisma. Sally é uma Meg Ryan sem os trejeitos que foi adquirindo ao longo da carreira (principalmente nos anos 90). Os figurinos, a fotografia e a direção de arte dizem quase tudo o que não sai da boca desse casal. Mesmo assim, a direção segura de Rob Reiner ([O Clube das Desquitadas]) favorece ainda mais tomadas clássicas em torno do casal, como a já batida, mas ainda assim, imperdível, cena do orgasmo.
 
 No caso de Harry e Sally o filme não está datado. Ele serve como experiência romântica e, mais que isso, como um documentário de uma época cheia de transformações sociais.
 
-[A Difícil Arte de Amar]: a_dificil_arte_de_amar
 [O Clube das Desquitadas]: o_clube_das_desquitadas
 
 # O Clube das Desquitadas
@@ -34130,13 +34113,12 @@ Uma pena, pois essa dualidade era marca registrada dos estúdios de John Lassete
 date: 2013-07-09
 tags: cinema movies
 
-Apesar de suas fraquezas expostas por uma trama simplista, [Meu Malvado Favorito] (2010) possui momentos divertidos demais para ser esquecido (ainda mais se comparado com franquias já bem mais desgastadas, como [A Era do Gelo] e [Madagascar]). Pegando carona no sucesso conquistado, a sua sequência explora melhor a relação entre seus personagens sem deixar de perder a sua identidade: piadas ligeiras e rasteiras que divertem pontualmente e dialogam muito bem com seu público.
+Apesar de suas fraquezas expostas por uma trama simplista, [Meu Malvado Favorito] (2010) possui momentos divertidos demais para ser esquecido (ainda mais se comparado com franquias já bem mais desgastadas, como A Era do Gelo e [Madagascar]). Pegando carona no sucesso conquistado, a sua sequência explora melhor a relação entre seus personagens sem deixar de perder a sua identidade: piadas ligeiras e rasteiras que divertem pontualmente e dialogam muito bem com seu público.
 
 Com cortes elegantes entre inesgotáveis cenas de ação e piadas que criam uma fluidez inexistente no filme original, a história de Gru, antes um vilão e agora o pai adotivo das três órfãs do filme anterior, evolui agora para um "espião consultor" do bem que tenta descobrir o autor de um crime megalomaníaco envolvendo uma substância que altera radicalmente o comportamento de criaturas antes inofensivas.
 
 Há muito para se divertir na segunda aventura para podermos nos preocupar em demasiado com alguns elementos inseridos em demasia, como a insistência da parceira de Gru em parecer legal e as incontáveis situações em que a adorável Agnes nos faz chorar sem querer.
 
-[A Era do Gelo]: a_era_do_gelo_4
 [Madagascar]: madagascar_3_os_procurados
 [Meu Malvado Favorito]: meu_malvado_favorito
 
@@ -34148,11 +34130,10 @@ Beautiful Creatures, ou Dezesseis Luas, é um filme baseado em um romance de Kam
 
 Mas não é só seu molde que lembra a saga do vampiro gay. A história da jovem que deve decidir ao completar 16 anos se irá seguir o caminho da Luz ou das Trevas possui a mesma dramédia que se desenvolve no filme original protagonizado por Kristen Stewart e Robert Pattinson que, por coincidência, parecia ter os mesmo problemas de orçamento no desenvolvimento dos seus efeitos visuais.
 
-No entanto, mesmo que assim seja, o maior erro dos defeitos não é serem mal feitos, mas possuírem um tom completamente oposto do drama vivido pelo par romântico Lena (Alice Englert) e Ethan (Alden Ehrenreich). Enquanto os papéis de Alice Englert e Alden Ehrenreich são encarnados de maneira onírica, a visão do diretor/roteirista Richard LaGravenese parecem tender mais para a comédia pastelão, com um pequeno viés que lembra [A Morte Lhe Cai Bem] e [Sombras da Noite]. Tanto o é que as duas cenas que mais ficaram fixadas na mente foi o interessante embate psicológico/mágico entre Jeremy Irons e Emma Thompson (e o que esses dois estão fazendo aqui?) e uma mesa giratória no meio da sala de jantar. O fato de ambas as cenas se situarem no mesmo filme já evidencia a óbvia falta de foco e gênero.
+No entanto, mesmo que assim seja, o maior erro dos defeitos não é serem mal feitos, mas possuírem um tom completamente oposto do drama vivido pelo par romântico Lena (Alice Englert) e Ethan (Alden Ehrenreich). Enquanto os papéis de Alice Englert e Alden Ehrenreich são encarnados de maneira onírica, a visão do diretor/roteirista Richard LaGravenese parecem tender mais para a comédia pastelão, com um pequeno viés que lembra "A Morte Lhe Cai Bem" e [Sombras da Noite]. Tanto o é que as duas cenas que mais ficaram fixadas na mente foi o interessante embate psicológico/mágico entre Jeremy Irons e Emma Thompson (e o que esses dois estão fazendo aqui?) e uma mesa giratória no meio da sala de jantar. O fato de ambas as cenas se situarem no mesmo filme já evidencia a óbvia falta de foco e gênero.
 
 Porém, mesmo perdoadas as falhas de estilo, como ideia Dezesseis Luas parece ter pego apenas o que há de pior nos livros de Stephenie Meyer sem qualquer contraponto positivo. Sendo assim, sua conclusão se torna forçada sem um contraponto que faça merecer uma revisita em uma possível continuação. Que o fluxo de dólares na bilheteria impeça uma monstruosidade dessas. Sem trocadilho.
 
-[A Morte Lhe Cai Bem]: a_morte_lhe_cai_bem
 [Crepúsculo]: crepusculo
 [Sombras da Noite]: sombras_da_noite
 
@@ -34282,13 +34263,13 @@ De qualquer forma, nada nos prepara para o final anti-climático, revelador e el
 date: 2013-07-28
 tags: cinema movies
 
-Clássico de terror dos anos 80, continua envelhecendo bem, e apesar de sua ingenuidade para com o público sedento por realismo de hoje (só que sem muito sangue, por favor), estabelece o seu medo no campo dos sonhos, onde tudo é possível existir. Os efeitos não-digitais ajudam e muito a nos colocar no quarto com Marge (Ronee Blakley), Tina (Amanda Wyss), Rod (Jsu Garcia) e Glen (Johnny Depp). Quando vemos um garoto ser morto e seu sangue transbordar o teto do seu quarto, se esvaindo de baixo para cima, por mais que saibamos que esse efeito foi produzido filmando o set de cabeça pra baixo o efeito psicológico da cena permanece, pois gera a estranheza necessária do mundo dos sonhos (algo muito higienizado n[A Origem] de Nolan).
+Clássico de terror dos anos 80, continua envelhecendo bem, e apesar de sua ingenuidade para com o público sedento por realismo de hoje (só que sem muito sangue, por favor), estabelece o seu medo no campo dos sonhos, onde tudo é possível existir. Os efeitos não-digitais ajudam e muito a nos colocar no quarto com Marge (Ronee Blakley), Tina (Amanda Wyss), Rod (Jsu Garcia) e Glen (Johnny Depp). Quando vemos um garoto ser morto e seu sangue transbordar o teto do seu quarto, se esvaindo de baixo para cima, por mais que saibamos que esse efeito foi produzido filmando o set de cabeça pra baixo o efeito psicológico da cena permanece, pois gera a estranheza necessária do mundo dos sonhos (algo muito higienizado n"A Origem" de Nolan).
 
 Mesmo assim, Freddy Krueger (Robert Englund) já não assusta mais, e é apenas instrumento do medo que brota do fato de sabermos que se ele está presente naquela realidade e ela pode ser manipulada de acordo com seu demoníaco prazer. O fato dele ir até as últimas consequências dos seus atos é a marca do terror daquela época e a fraqueza do terror de hoje em dia, acostumado a gerar tensão através de sustos fáceis e uma morte tão digital que seria melhor se não víssemos. Ainda melhor é notarmos que a maneira usada por Wes Craven para estabelecer a tensão, que dirigiu e escreveu diversos A Hora do Pesadelo e ressuscitou o suspense na década passada com Pânico, foi justamente acelerar os eventos e não nos dar muita certeza do que é possível esperar dessa junção entre real e imaginário. (Mais uma vez comparando com o terror/suspense capenga de hoje, que insiste em explicar todas as regras para no final transgredi-las.)
 
 Por fim, um trabalho completo, embora breve demais. Assistindo o original fica óbvio que ele merecia continuações. A ideia é boa demais para ser usada em apenas 90 minutos de filme.
 
-[A Origem]: a_origem
+"A Origem": a_origem
 
 # As Strippers Zumbi
 date: 2013-07-28
@@ -34297,9 +34278,7 @@ tags: cinema movies
 
 Até um filme amador com a premissa de strippers que são infectadas por um vírus desenvolvido pelo governo Bush e que transforma pessoas em zumbis pode ter algo de bom. E há. Em determinado momento da "trama", uma zumbi que lê Nietzsche (!) se lembra de um momento em que dormia em cima da neve e observava as estrelas. Agora, já morta, se considerava parte daquele universo inanimado e infinito, e tudo fazia sentido agora. Essa passagem tão existencialista e profunda parece destacada de todo o resto do recheio de zumbis mal-formados, danças eróticas com peitos lambuzados de sangue e muita violência exacerbada e sem sentido. Mesmo assim, naquele porão sujo e mal iluminado onde as meninas realizam suas danças por uns trocados fáceis, parece coisa de gênio.
 
-Nesse sentido, não dá pra evitar analisar as ideias do diretor/roteirista Jay Lee, que relaciona sexo e violência com a distração que o governo precisa para dar continuidade ao seu regime totalitário de morte e guerras. Não dá para julgar um filme trash que se preocupa em contextualizar ficção e crítica social, mesmo que o resultado seja um apanhado caótico de cenas. Se [A Morte do Demônio] não possui um pano de fundo minimamente livre do puro entretenimento (apesar de muito melhor realizado), as Strippers Zumbi merecem uma olhada. Só que bem rápida.
-
-[A Morte do Demônio]: a_morte_do_demonio
+Nesse sentido, não dá pra evitar analisar as ideias do diretor/roteirista Jay Lee, que relaciona sexo e violência com a distração que o governo precisa para dar continuidade ao seu regime totalitário de morte e guerras. Não dá para julgar um filme trash que se preocupa em contextualizar ficção e crítica social, mesmo que o resultado seja um apanhado caótico de cenas. Se "A Morte do Demônio" não possui um pano de fundo minimamente livre do puro entretenimento (apesar de muito melhor realizado), as Strippers Zumbi merecem uma olhada. Só que bem rápida.
 
 # Os Amantes Passageiros
 date: 2013-07-28
@@ -34308,19 +34287,17 @@ tags: cinema movies
 
 Almodóvar volta às suas origens das divertidas comédias dramáticas voltadas para personagens homossexuais, videntes e todo o tipo de intriga novelesca. Aliás, a diferença vital entre novelas televisivas e Almodóvar é que este conta uma história como ninguém (e geralmente assina o roteiro).
 
-Outros aspectos da cinegrafia que o fez famoso se mantêm, ainda que ausente em penúltimo trabalho ([A Pele que Habito]), o que demonstra que o diretor sabe se livrar de suas "marcas" quando o filme precisa, e que aqui volta com tudo: vermelho, amarelo, azul, roxo... tudo no Cinema de Almodóvar é exagerado, nada sutil e, hoje em dia, pouco polêmico.
+Outros aspectos da cinegrafia que o fez famoso se mantêm, ainda que ausente em penúltimo trabalho ("A Pele que Habito"), o que demonstra que o diretor sabe se livrar de suas "marcas" quando o filme precisa, e que aqui volta com tudo: vermelho, amarelo, azul, roxo... tudo no Cinema de Almodóvar é exagerado, nada sutil e, hoje em dia, pouco polêmico.
 
 A única "polêmica" parece estar apenas na "modernice" de seus temas: fraudes financeiras e como elas são escandalosamente menos escandalosas que o sexo, e o mundo hiper-conectado (onde o melhor exemplo é uma divertida e útil metáfora envolvendo um telefone quebrado que permite que todo o avião ouça o que está sendo dito). Apreciamos pequenos contos que parecem ter saído da própria filmografia do cineasta dentro de um avião que precisa realizar um pouso de emergência, mas enquanto aguarda por um aeroporto que coopere precisa entreter seus passageiros de alguma forma.
 
 Quase nunca deixando de entreter, as mensagens das histórias estão tão interconectadas e tratadas de maneira tão "passageira" que sua força se esvai com a própria conclusão, querendo dizer 1) mais uma vez um eco das nossas efêmeras relações com o mundo moderno ou 2) a falta de foco do próprio idealizador, afetado pelo mundo que tenta criticar. De qualquer forma, ruim ou bom, um filme novo de Pedro Almodóvar sempre será algo bem-vindo.
 
-[A Pele que Habito]: a_pele_que_habito
-
 # Amor Pleno
 date: 2013-08-01
 tags: cinema movies
 
-É difícil analisar os filmes de Terrence Malick através da abordagem tradicional de "historinha". O que é possível observar nesse seu novo trabalho é sua semelhança com "A Árvore da Vida" (semelhança narrativa) com muito menos glamour. Assim como a reflexão de Almodóvar em [Os Amantes Passageiros] (depois do tenso [A Pele que Habito]), Malick parece querer não se aprofundar demais em temas existenciais como fez anteriormente, mas mesmo assim não consegue evitar de ligar as referências, como em determinado momento sua câmera foge para o mundo subaquático, quase como uma tentativa de conectar-se com seu predecessor no melhor estilo continuação dos grande temas.
+É difícil analisar os filmes de Terrence Malick através da abordagem tradicional de "historinha". O que é possível observar nesse seu novo trabalho é sua semelhança com "A Árvore da Vida" (semelhança narrativa) com muito menos glamour. Assim como a reflexão de Almodóvar em [Os Amantes Passageiros] (depois do tenso "A Pele que Habito"), Malick parece querer não se aprofundar demais em temas existenciais como fez anteriormente, mas mesmo assim não consegue evitar de ligar as referências, como em determinado momento sua câmera foge para o mundo subaquático, quase como uma tentativa de conectar-se com seu predecessor no melhor estilo continuação dos grande temas.
 
 E o amor é o grande tema dessa vez, e mais uma vez a religião é a lupa usada em sua análise, na figura de um padre questionando repetidamente sua fé e a inexistência do amor do casal principal em sua relação com um ser supremo.
 
@@ -34330,7 +34307,6 @@ Aqui como em Árvore o uso dos sons, da música e principalmente da luz é vital
 
 Não é difícil contemplar as obras de Mallick. A não ser que você precise racionalizar isso de alguma forma.
 
-[A Pele que Habito]: a_pele_que_habito
 [Os Amantes Passageiros]: os_amantes_passageiros
 
 # Os Selvagens da Noite
@@ -35186,7 +35162,7 @@ Foi uma surpresa mais que gratificante descobrir que Frozen é muito mais do que
 
 Filmado em 3D, o filme se aproveita de uma direção competente de Chris Buck e Jennifer Lee (envolvidos em produções como Detona Ralph e Tá Dando Onda), que envolvem o espectador em cenários com uma profundidade de campo que torna o efeito dos óculos realmente útil, além de incluir em torno de seus quadros elementos em distâncias distintas, ressaltando a terceira dimensão sempre que é possível. Não só isso: criado a partir de um conto de gelo, o filme contém esculturas e construções oníricas e épicas pela beleza e proporção.
 
-Diferente de A Princesa e o Sapo, aqui os números musicais funcionam quase que completamente, e fazem uma agradável rima com a inspirada trilha sonora de Christophe Beck (Os Muppets, Se Beber Não Case). Cada personagem pega um tom para si, e o resultado, a meu ver, deve ser muito interessante de se ouvir (e provavelmente mais coeso) no idioma original, um prazer reservado a poucos que irão assistir à sessão da única sala do país que exibe uma cópia legendada.
+Diferente de "A Princesa e o Sapo", aqui os números musicais funcionam quase que completamente, e fazem uma agradável rima com a inspirada trilha sonora de Christophe Beck (Os Muppets, Se Beber Não Case). Cada personagem pega um tom para si, e o resultado, a meu ver, deve ser muito interessante de se ouvir (e provavelmente mais coeso) no idioma original, um prazer reservado a poucos que irão assistir à sessão da única sala do país que exibe uma cópia legendada.
 
 É fascinante observar também que a Disney durante o segundo e terceiro atos não se entrega facilmente a fórmulas baratas, o que torna o seu final mais decepcionante ainda, pois revela uma falta de capricho inesperada em uma produção que até então parecia impecável. Dá a impressão que os produtores resolveram encurtar a duração do filme de propósito, para prejuízo dos realizadores, que tiveram que assassinar o ritmo nos 20 minutos finais com soluções bobas e plásticas. Isso perto da ambição de sua proposta é um pecado enorme.
 
@@ -36569,7 +36545,7 @@ Sempre com um figurino de dar inveja a muitos animês, e se aproveitando das pos
 date: 2014-04-17
 tags: cinema movies
 
-Essa é basicamente uma versão infanto-juvenil de A Morte do Demônio: alguém acha um livro amaldiçoado em uma casa abandonada e que ninguém deveria habitar e agora está impossibilitado de sair do lugar, pois parte da maldição prega que tanto o livro quanto seus leitores devem ser eliminados. A parte infanto-juvenil da história é que ela deve envolver ogros, globlins, trolls, ter uma moral da história, que se for Disney/Spielberg, vai envolver uma relação pai e filho... bingo!, e, o essencial: ninguém deve se machucar no processo, mas todos devem se divertir como em um parque de diversões temático.
+Essa é basicamente uma versão infanto-juvenil de "A Morte do Demônio": alguém acha um livro amaldiçoado em uma casa abandonada e que ninguém deveria habitar e agora está impossibilitado de sair do lugar, pois parte da maldição prega que tanto o livro quanto seus leitores devem ser eliminados. A parte infanto-juvenil da história é que ela deve envolver ogros, globlins, trolls, ter uma moral da história, que se for Disney/Spielberg, vai envolver uma relação pai e filho... bingo!, e, o essencial: ninguém deve se machucar no processo, mas todos devem se divertir como em um parque de diversões temático.
 
 A diferença desse tipo de filme e Os Goonies é que os personagens do clássico dos anos 80 eram cativantes, espertos e tinham o espírito da aventura. Os personagens de Crônicas de Spiderwick são espectadores passivos de um pequeno deslize que o pequeno Jared toma quando, mesmo advertido com um bilhete de aviso, ainda assim abre o maldito livro. Freddie Highmore, que está encantador no remake de A Fantástica Fábrica de Chocolates, está aqui no papel de Jared. Após este pequeno deslize o resto é um filme de uma hora e meia sobre as consequências deste único ato.
 
@@ -38634,9 +38610,9 @@ Está acontecendo até a metade de outubro o festival Luz, homenageando Walter d
 
 - Heleno
 
-- A Febre do Rato
+- "A Febre do Rato"
 
-É possível notar em Heleno todo o encantamento nosso pelo passado romântico na história de um jogador de futebol ídolo da época. Curiosamente A Febre do Rato é um filme totalmente diferente ao nos transportar para a época da ditadura e do naturalismo querendo desabrochar em nossas mentes presas no politicamente correto (curioso que hoje o politicamente correto trocou de lado).
+É possível notar em Heleno todo o encantamento nosso pelo passado romântico na história de um jogador de futebol ídolo da época. Curiosamente "A Febre do Rato" é um filme totalmente diferente ao nos transportar para a época da ditadura e do naturalismo querendo desabrochar em nossas mentes presas no politicamente correto (curioso que hoje o politicamente correto trocou de lado).
 
 O terceiro filme que vi é um trabalho da ótima Laís Bodanzky. Imagino o que Walter deve ter feito para manter a luz tão aconchegante quanto nostálgica em Chega de Saudade. O Cinema Nacional é um palco de muitas luzes, e Walter sabe usar muito bem todas elas.
 
@@ -38822,7 +38798,7 @@ Um filme, enfim, muy rico. Daria para visitá-lo várias vezes e ainda encontrar
 date: 2014-11-15
 tags: cinema movies
 
-Todo mundo conhece aquela história em que a esposa desaparece em uma bela manhã e o marido vira o suspeito número um. Esse clichê é tão batido que o diretor David Fincher (A Rede Social) não faz o menor esforço para construir essa dúvida em nós, espectadores. Por isso ele escala para o papel o Ben acima-de-qualquer-suspeita Afleck. Na verdade ele parece mais interessado em discutir exatamente o oposto: a falta de dúvidas de uma sociedade ansiosa por tomar um lado e apontar rapidamente seu dedo para o "culpado" da vez, escolhido por uma mídia que irá decidir pela versão dos fatos que atrair para si mais consumidores de conteúdo.
+Todo mundo conhece aquela história em que a esposa desaparece em uma bela manhã e o marido vira o suspeito número um. Esse clichê é tão batido que o diretor David Fincher ("A Rede Social") não faz o menor esforço para construir essa dúvida em nós, espectadores. Por isso ele escala para o papel o Ben acima-de-qualquer-suspeita Afleck. Na verdade ele parece mais interessado em discutir exatamente o oposto: a falta de dúvidas de uma sociedade ansiosa por tomar um lado e apontar rapidamente seu dedo para o "culpado" da vez, escolhido por uma mídia que irá decidir pela versão dos fatos que atrair para si mais consumidores de conteúdo.
 
 Gone Girl esmiúça um casamento que desmorona por dentro através da narração em off de um diário e dos pensamentos da esposa, mas que começa curiosamente com uma reflexão do marido sobre a falta de comunicação dos dois. Ambos ironicamente são escritores, embora apenas ela tenha conquistado fama e sucesso, administrados de perto pelos orgulhosos pais que fazem o papel de relações-públicas da filha. Essa percepção que o público tem sobre ela faz toda a diferença sobre o julgamento dos fatos, apesar destes serem incompletos (ela sumiu, mas ele não está preocupado porque o casamento já ia mal).
 
@@ -39215,7 +39191,7 @@ Em O Castelo no Céu, por exemplo, há uma discussão fascinante sobre ecologia.
 
 Dessa forma, o governo e piratas, liderados por um rapaz misterioso e uma mãe obstinada nos mesmos moldes de Os Goonies, vão à caça dessa ilha de tesouros. Para isso precisam da jovem Sheeta, que possui a chave para a localização da ilha. Tudo é desvendado muito lentamente, de forma que estou soltando apenas alguns detalhes de uma aventura que se desdobra sem pressa e que consegue nos manter sempre atentos, principalmente graças à maravilhosa trilha sonora, que com razão toca muito alto nos momentos de maior grandiosidade. E não é à toa. Estamos presenciando proporções e criações tão incompreensíveis quanto os vistos em Avatar de James Cameron.
 
-Caminhamos racionalmente com a câmera de Miyazaki e emocionalmente com a trilha de Joe Hisaishi, que já compôs trabalhos tão complexos e distintos quanto A Partida, Dolls e A Viagem de Chihiro. São duas horas de puro êxtase narrativo.
+Caminhamos racionalmente com a câmera de Miyazaki e emocionalmente com a trilha de Joe Hisaishi, que já compôs trabalhos tão complexos e distintos quanto "A Partida", Dolls e A Viagem de Chihiro. São duas horas de puro êxtase narrativo.
 
 # A Fantástica Fábrica de Chocolate
 date: 2014-12-26
@@ -40295,7 +40271,7 @@ tags: cinema movies
 
 Todo ano existem trabalhos gêmeos no Cinema, ou seja, filmes que por uma razão ou outra estão intrinsecamente relacionados. O Jogo da Imitação é um filme que conta a história do projeto secreto do MI-6 -- o serviço de inteligência britânico -- em quebrar o código da criptografia dos nazistas em plena Segunda Grande Guerra. O projeto se confunde com um de seus idealizadores, Alan Turing, um matemático responsável por desenvolver a teoria que possibilitou a construção dos primeiros computadores digitais e que acreditava que apenas uma outra máquina conseguiria ser tão rápida a ponto de quebrar o código do inimigo durante a janela de 18 horas.
 
-Esse filme é gêmeo de A Teoria de Tudo, que conta a história de Stephen Hawking, um físico teórico que elaborou uma explicação a respeito de buracos negros, ficou famoso, e desenvolveu uma deficiência congênita raríssima que o deixou a maioria da sua vida preso a uma cadeira de rodas e ausente de quase qualquer movimentos do seu corpo.
+Esse filme é gêmeo de "A Teoria de Tudo", que conta a história de Stephen Hawking, um físico teórico que elaborou uma explicação a respeito de buracos negros, ficou famoso, e desenvolveu uma deficiência congênita raríssima que o deixou a maioria da sua vida preso a uma cadeira de rodas e ausente de quase qualquer movimentos do seu corpo.
 
 Turing e Hawking compartilham suas genialidades no mesmo ano, e ambos participaram de projetos importantes na evolução da ciência no século passado. Ambos também possuem seus dramas pessoais. Para Hawking, a doença que tem mantido sua mente presa a um corpo inerte. Para Turing, a incapacidade de lidar com seus sentimentos em relação a um interesse amoroso em sua infância e a repressão à homossexualidade que havia na época.
 
@@ -45511,7 +45487,7 @@ Narrando a vida da personagem da vida real Einar Wegener (e se você ainda não 
 
 Logo também se torna óbvio que, apesar de se focar na vida de Einar, a melhor coisa do filme é o relacionamento que este nutria com sua esposa e o jogo de confidencialidades dos dois. E mesmo quando Gerda começa a temer pelo desaparecimento do que um dia foi seu marido, é tocante perceber seu amor em se desapegar de seu relacionamento original, ou mesmo encarar o fato de que, na realidade, ambos eram muito mais melhores amigos do que outra coisa. É curioso, portanto, que as melhores cenas não girem em torno disso. Uma delas, por exemplo, é sobre a surpresa de Einar em perceber como os homens se jogam facilmente para cima de uma mulher assim que a veem, ainda mais sendo uma estranha e misteriosa mulher. Falando qualquer bobagem para conseguir abordar a "moça", a sequência é um joguete tão cômico quanto revelador para o personagem e sua reação.
 
-Aliás, o empenho de Eddie Redmayne mais uma vez se mostra recompensador, como foi em A Teoria de Tudo, onde interpretava Stephen Hawking, talvez com a única diferença da intensidade. É preciso lembrar também que a transformação de Hawking é trágica, enquanto a realizada por Eiar é um sonho a ser alcançado. Porém, ambos os caminhos não são fáceis, e precisam da ajuda de quem mais os ama. Porém, de uma forma ou de outra, Redmayne se torna o ator perfeito para o papel, e o desempenha com perfeição graças à cumplicidade e química desenvolvidas com Alicia Vikander (do ótimo Ex-Machina), que desempenha com ele dois papéis primordiais para que o filme seja mais do que parece.
+Aliás, o empenho de Eddie Redmayne mais uma vez se mostra recompensador, como foi em "A Teoria de Tudo", onde interpretava Stephen Hawking, talvez com a única diferença da intensidade. É preciso lembrar também que a transformação de Hawking é trágica, enquanto a realizada por Eiar é um sonho a ser alcançado. Porém, ambos os caminhos não são fáceis, e precisam da ajuda de quem mais os ama. Porém, de uma forma ou de outra, Redmayne se torna o ator perfeito para o papel, e o desempenha com perfeição graças à cumplicidade e química desenvolvidas com Alicia Vikander (do ótimo Ex-Machina), que desempenha com ele dois papéis primordiais para que o filme seja mais do que parece.
 
 Sendo assim, é desapontador a inserção de outros personagens, como os de Ben Whishaw e Matthias Schoenaerts, que, reais ou não, parecem desempenhar uma única função, nunca se inserindo organicamente na narrativa. Como consequência, cada episódio envolvendo um ou outro se torna mais ou menos desconexo com a história principal, nunca complementando-a. Isso costuma acontecer em histórias baseadas em casos reais, mas aqui se torna particularmente inquietante até pela falta de um elenco que consiga se destacar.
 
@@ -45999,7 +45975,7 @@ Violação de Privacidade é a prova do talento nato de Williams em contemplar s
 date: 2016-03-15
 tags: cinemaqui cinema movies
 
-O filme "Chatô - O Rei do Brasil", entre paralisações e processos na justiça, levou 20 anos para ser concluído. Uma vez lançado, pode ser facilmente resumido em uma palavra: bagunça. O ator televisivo Guilherme Fontes faz aqui sua estreia na direção e realiza um primeiro trabalho que já pode ser comparado a de Arnaldo Jabor em seu último: A Suprema Felicidade. Em ambos os filmes, há um misto entre cenas desconexas tentando extrair significado do nada, como se apenas a justaposição de diferentes tempos na vida do magnata Assis Chateaubriand e sua relação com figuras históricas -- entre elas Getúlio Vargas -- fosse rivalizar com a construção de personagem vista em "Cidadão Kane"; não funciona. No máximo, consegue soar no máximo com o mais semelhante "Plano 9 do Espaço Sideral".
+O filme "Chatô - O Rei do Brasil", entre paralisações e processos na justiça, levou 20 anos para ser concluído. Uma vez lançado, pode ser facilmente resumido em uma palavra: bagunça. O ator televisivo Guilherme Fontes faz aqui sua estreia na direção e realiza um primeiro trabalho que já pode ser comparado a de Arnaldo Jabor em seu último: "A Suprema Felicidade". Em ambos os filmes, há um misto entre cenas desconexas tentando extrair significado do nada, como se apenas a justaposição de diferentes tempos na vida do magnata Assis Chateaubriand e sua relação com figuras históricas -- entre elas Getúlio Vargas -- fosse rivalizar com a construção de personagem vista em "Cidadão Kane"; não funciona. No máximo, consegue soar no máximo com o mais semelhante "Plano 9 do Espaço Sideral".
 
 O roteiro escrito a seis mãos foi baseado no romance de Fernando Morais e fornece diálogos pseudo-grandiosos que carecem de sutileza, dignos da figuraça de Chateaubriand, um paraibano que se orgulhava de suas origens. Deve ser por isso que a palavra Brasil é dita tantas vezes, e a análise rasteira e pedestre do povo brasileiro, um adjunto. O patriotismo -- inexistente na época, pois fora fabricado pelos militares várias décadas depois -- é venerado como parte do sangue da elite, mesmo que eles estivessem coroando um coronel sulista ao posto máximo de uma retumbante república de bananas. Isso se torna particularmente ridículo quando a personagem de Andrea Beltrão declara preferir ir a Paris do que à Paraíba para minutos depois a vermos dizer com um respeito solene a respeito do futuro presidente do país.
 
@@ -46312,11 +46288,9 @@ O episódio, claro, utiliza os mesmos atores e personagens, mas em disposições
 
 Além de manter os artifícios que tornaram "Sherlock" um trabalho monumental de roteiro e uma evolução no que diz respeito a direção de arte e fotografia, a direção mantém o mesmo ritmo de melhora contínua. As transições elegantes entre um labirinto de plantas e os dedos pensativos de Holmes ou um testemunho na sala de estar do detetive "se jogando" frente à cena do crime são dois exemplos de uma série racional, pautada em diálogos, mas sem perder seu dinamismo visual, sua provocação constante e eclética na mente do espectador.
 
-Sendo assim, se é divertido acompanhar os letreiros que pulam na tela quando um personagem recebe um bilhete, ou os recortes de jornais flutuando em frente a um Sherlock Holmes concentrado e dopado, esses detalhes escalam para o nível de brilhantismo quando descobrimos a verdade por trás da história, fazendo com que o roteiro de Mark Gatiss e Steven Moffat figure com honra entre os deliciosamente mais complexos e inusitados da série, provavelmente do lado de A Scandal in Belgravia. Depois da reviravolta principal nada mais parece o mesmo, e até um espectador menos atento irá perceber as referências inseridas de maneira mais orgânica até do que trabalhos igualmente minuciosos como [A Origem], que é excelente, mas burocrático e técnico.
+Sendo assim, se é divertido acompanhar os letreiros que pulam na tela quando um personagem recebe um bilhete, ou os recortes de jornais flutuando em frente a um Sherlock Holmes concentrado e dopado, esses detalhes escalam para o nível de brilhantismo quando descobrimos a verdade por trás da história, fazendo com que o roteiro de Mark Gatiss e Steven Moffat figure com honra entre os deliciosamente mais complexos e inusitados da série, provavelmente do lado de A Scandal in Belgravia. Depois da reviravolta principal nada mais parece o mesmo, e até um espectador menos atento irá perceber as referências inseridas de maneira mais orgânica até do que trabalhos igualmente minuciosos como "A Origem", que é excelente, mas burocrático e técnico.
 
 Jogando o espectador nos exatos quatro minutos em que Sherlock foi expatriado, logo no final do episódio anterior, a abertura desta quarta temporada é um trabalho tão ambicioso que mais uma vez sou obrigado a compará-lo com o melhor que o Cinema tem a oferecer. Mais uma vez um trabalho que merece não só estrear em streaming, mas ocupar algumas salas de cinema pelo mundo.
-
-[A Origem]: a_origem
 
 # A Máfia Mata Apenas no Verão
 date: 2016-04-10
@@ -51094,7 +51068,7 @@ Afinal de contas, embora brinque com coisa séria, esta é fundamentalmente uma 
 
 E como é bom ver de volta o diretor David Yates, o responsável por todos os filmes adultos de Harry Potter. Yates possui uma forma extremamente eficaz de usar a tela, acumulando personagens e elementos em cena de maneira que não precise fazer mudanças muito rápidas de plano, e até o 3D ele utiliza pontualmente, quando por exemplo várias paredes são furadas e vemos a profundidade de tela atravessando-as, além, é claro, da absurdamente linda sequência em que vemos o jovem Newt mostrando a Howard todos os ambientes onde seus bichinhos estão sendo cuidados.
 
-A interpretação de Eddie Redmayne como Newt, aliás, é menos do que a ótima escolha de elenco. Redmayne já é uma carinha bonita e fofa antes mesmo de entrar em seu personagem. Já vimos isso em A Teoria de Tudo. Porém, a grande revelação é mesmo Dan Fogler como o simpático e bonachão Howard, um sonhador que, alívio cômico, quase não tem falas, mas quase rouba todas as cenas com suas expressões e sua risada. Ele seria o equivalente à tresloucada Kate McKinnon no último Caça-Fantasmas: sob o efeito de drogas e curtindo muito tudo isso.
+A interpretação de Eddie Redmayne como Newt, aliás, é menos do que a ótima escolha de elenco. Redmayne já é uma carinha bonita e fofa antes mesmo de entrar em seu personagem. Já vimos isso em "A Teoria de Tudo". Porém, a grande revelação é mesmo Dan Fogler como o simpático e bonachão Howard, um sonhador que, alívio cômico, quase não tem falas, mas quase rouba todas as cenas com suas expressões e sua risada. Ele seria o equivalente à tresloucada Kate McKinnon no último Caça-Fantasmas: sob o efeito de drogas e curtindo muito tudo isso.
 
 E do lado negro da força, ainda temos Colin Farrell que, habituado a filmes de ação e comédias com humor negro, aqui consegue usar sua expressão afetada de maneira impetuosa, construindo um vilão que apenas empalidece na caricatura quando o vemos junto de Ezra Miller como o problemático Credence, muito provavelmente a criação mais inspirada de Miller.
 
@@ -51151,7 +51125,7 @@ Além disso, a história caminha principalmente nas dicas visuais do que nos di�
 
 Com tantas dicas que podem ser vistas pelo espectador, praticamente não precisamos acompanhar nenhuma narrativa explícita; os próprios anos são facilmente identificáveis, com um trabalho de maquiagem de precisão. E como até os conflitos mais existencialistas de Massimo são tratados com uma grandeza visual -- como a aula de física/astronomia dada por um padre -- não fica difícil entender que quando Elisa surge em sua vida, seu ataque de pânico iminente recebe a ajuda de quem mais era necessária: uma segunda mãe.
 
-A atuação de Valerio Mastandrea (A Primeira Coisa Bela) surge como um misto de inanição e passividade, em um papel tão introspectivo que se torna difícil de ser notado. As nuances do ator, sua cara cabisbaixa, envergonhado, traduzem bem essa busca interna de que trata o filme. Muito mais confortável está Bérénice Bejo, cujo papel é relativamente simples frente ao seu papel principal mais intimista em A Economia do Amor. Surpreendente mesmo é a interpretação icônica do jovem (e estreante) Nicolò Cabras, que realiza a persona do garoto italiano com uma perfeição suficiente para congelarmos vários quadros entre mãe e filho.
+A atuação de Valerio Mastandrea (A Primeira Coisa Bela) surge como um misto de inanição e passividade, em um papel tão introspectivo que se torna difícil de ser notado. As nuances do ator, sua cara cabisbaixa, envergonhado, traduzem bem essa busca interna de que trata o filme. Muito mais confortável está Bérénice Bejo, cujo papel é relativamente simples frente ao seu papel principal mais intimista em "A Economia do Amor". Surpreendente mesmo é a interpretação icônica do jovem (e estreante) Nicolò Cabras, que realiza a persona do garoto italiano com uma perfeição suficiente para congelarmos vários quadros entre mãe e filho.
 
 Como é prometido pela trilha sonora romantizada, muitas vezes grandiosa, e a direção inflada de Marco Bellocchio, o filme vai muito além do drama pessoal. Ele levanta questões existenciais muito profundas, e apesar de flertar com uma petulância e um pedantismo preocupante em alguns momentos (a sequência do suicídio do presidente é quase totalmente descartável), creio este ser uma declaração sincera e apaixonada por essa busca que todos nós possuímos por conexão e identificação com outros seres humanos.
 
@@ -51216,7 +51190,7 @@ tags: cinema lists
 
 - [O Silêncio do Céu]. O último trabalho de Marco Dutra consegue extrair o drama com requintes de terror. Ele consegue isso através de um dos sentimentos mais universais entre nós, seres humanos: o medo psicológico. E é através do psicológico que ele aborda uma história de trauma e redenção, muitas vezes sem as palavras necessárias para concluir o raciocínio. Isso porque o medo é algo de fato universal. E nesse filme ele pode ser sentido da maneira mais visceral possível desde a primeira cena.
 
-- [A Economia do Amor]. O desmanche sistemático da união de duas pessoas em uma visão cínica, mas tristemente realista, dos efeitos da crise na Europa e as consequências da falta de dinheiro na mesa de uma família. Um trabalho de direção econômico e minimalista, que praticamente garante o convite ao espectador para a intimidade trágica dentro de uma casa prestes a desabar.
+- "A Economia do Amor". O desmanche sistemático da união de duas pessoas em uma visão cínica, mas tristemente realista, dos efeitos da crise na Europa e as consequências da falta de dinheiro na mesa de uma família. Um trabalho de direção econômico e minimalista, que praticamente garante o convite ao espectador para a intimidade trágica dentro de uma casa prestes a desabar.
 
 - [Sieranevada]. Um filme com narrativa ousada, que torna o espectador responsável por detectar a história, inserindo-o em uma reunião de família que não precisa de narradores oniscientes explicando, nem diálogos expositivos. Só precisa de duas coisas: a curiosidade humana como combustível e a câmera como os nossos olhos.
 
@@ -51234,7 +51208,6 @@ tags: cinema lists
 [Animais Fantásticos e Onde Habitam]: animais_fantasticos_e_onde_habitam
 [Deadpool]: deadpool
 [O Silêncio do Céu]: o_silencio_do_ceu
-[A Economia do Amor]: a_economia_do_amor
 [Sieranevada]: sieranevada
 [Sour Grapes]: sour_grapes
 [Como Ser Solteira]: como_ser_solteira
@@ -51476,7 +51449,7 @@ tags: cinema movies
 
 É fascinante constatar como os trabalhos anteriores da equipe de criação da Disney servem de pavimento para criações cada vez mais ambiciosas. E aqui o ponto alto de Frozen, quando Elsa se transforma no que sempre foi, vira um simples rascunho da força da música de Moana, onde ela não apenas identifica (e assume) quem realmente é, mas quem seu povo deve ser. Em ambos é a força do indivíduo que prevalece, mas só na segunda essa força ganha um panorama dentro de uma comunidade, da sua história e tradição e, principalmente, de sua própria sobrevivência.
 
-O filme, dirigido e escrito basicamente pela equipe responsável por A Princesa e o Sapo, Aladdin e diversos desenhos à mào da Disney, foi fruto, como sempre, de uma pesquisa extensiva e imersiva dos povos da Polinésia, suas crenças, seu ponto de vista e seus valores. O resultado é um trabalho sólido, que estabelece como o drama maior a coragem de uma líder nata em enxergar um pouco além de todos os outros (incluindo o líder atual, seu próprio pai) e ao mesmo tempo abraçar um chamado adiado por muitos anos: se aventurar no oceano.
+O filme, dirigido e escrito basicamente pela equipe responsável por "A Princesa e o Sapo", Aladdin e diversos desenhos à mào da Disney, foi fruto, como sempre, de uma pesquisa extensiva e imersiva dos povos da Polinésia, suas crenças, seu ponto de vista e seus valores. O resultado é um trabalho sólido, que estabelece como o drama maior a coragem de uma líder nata em enxergar um pouco além de todos os outros (incluindo o líder atual, seu próprio pai) e ao mesmo tempo abraçar um chamado adiado por muitos anos: se aventurar no oceano.
 
 Esta é uma história pautada em uma lenda, em que um semideus rouba o coração de uma ilha e acaba amaldiçoando tudo em sua volta. Essa lenda é rapidamente contada e através de esquemas ágeis, somos levados visualmente à história de um pequeno povo em uma ilha que nunca se arriscou a ir além dos recifes de corais. Agora, com a natureza em sua volta morrendo, o tempo urge para que Moana atenda à chamada do oceano e parta para a aventura de sua vida.
 
@@ -52775,7 +52748,7 @@ Porém, apesar de imensas equipes de cientistas para todos os lados, esse é um 
 
 Há diversas interpretações competentes neste elenco, em que Kevin Costner é a mais simpática justamente por parecer mais real (do elenco masculino). No entanto, Taraji P. Henson entrega em Katherine uma figura complexa apenas através da sua caracterização de uma nerd de verdade, e não os estereótipos da série The Big Bang Theory (Jim Parsons, o "Sheldon", está no filme, BTW). O inabalável foco e determinação da garota apenas encontram empecilhos nos preconceitos em sua volta, e é não apenas tocante, mas compreensível em um nível que vai além da mera linguagem corporal, constatar o medo de Katherine sempre que entra em uma nova sala onde normalmente não seria aceita exceto para limpar as mesas. Os olhares de estranheza dos presentes é menos assustador do que a falta de cérebros no recinto, já que o que vemos é apenas o reflexo irracional de uma cultura desprezível por definição, e quando somos lembrados da importância dos esforços da NASA para com a nação ocorre um misto de reverência pela capacidade humana, mas desgosto por entendermos a quem esses esforços estão servindo.
 
-Se dessa vez a trilha sonora de Hans Zimmer (A Origem) equipado por Benjamin Wallfisch (12 Anos de Escravidão) e Pharrell Williams (O Espetacular Homem-Aranha 2) é mais sutil, perene e eficiente, quem se sai maravilhosamente bem é a fotografia de Mandy Walker, sóbria e ao mesmo tempo eterna e saudosista, se beneficiando dos tons esverdeados e azulados dos anos 60, que enfeitam salas feitas de paredes cinzentas como uma marca de uma era. E vemos tudo isso ao mesmo tempo como um retrato vivo da época. O próprio figurino de Renee Ehrlich Kalfus, evitando distrações, consegue auxiliar os grandes momentos visuais do projeto, que em apenas um quadro resumem toda a grandiosidade daqueles momentos, visto do ponto de vista de quem mais importou para o programa espacial: os cabeções dentro de escritórios, lutando para descobrir a matemática certa que irá executar o impossível.
+Se dessa vez a trilha sonora de Hans Zimmer ("A Origem") equipado por Benjamin Wallfisch (12 Anos de Escravidão) e Pharrell Williams (O Espetacular Homem-Aranha 2) é mais sutil, perene e eficiente, quem se sai maravilhosamente bem é a fotografia de Mandy Walker, sóbria e ao mesmo tempo eterna e saudosista, se beneficiando dos tons esverdeados e azulados dos anos 60, que enfeitam salas feitas de paredes cinzentas como uma marca de uma era. E vemos tudo isso ao mesmo tempo como um retrato vivo da época. O próprio figurino de Renee Ehrlich Kalfus, evitando distrações, consegue auxiliar os grandes momentos visuais do projeto, que em apenas um quadro resumem toda a grandiosidade daqueles momentos, visto do ponto de vista de quem mais importou para o programa espacial: os cabeções dentro de escritórios, lutando para descobrir a matemática certa que irá executar o impossível.
 
 Sim, o filme é obviamente também sobre o racismo, e está entrando no Oscar infelizmente com a marca das cotas raciais depois do escândalo do ano passado, quando diziam que a premiação estava "muito branca". Sem estarem cientes, essas pessoas cometem o mesmo erro em subvalorizar o sucesso de cada indivíduo através de seu próprio esforço, influenciando medidas que soam como compensatórias, e isso sim de fato é um escândalo. Se Katherine tivesse sido selecionada por um sistema de cotas para adentrar no recinto cheio de caucasianos de uniforme branco, possivelmente a história seria outra, e ela não seria vista como a heroína que é hoje. Aliás, qualquer herói, independente de cor, raça e gênero, poderia jamais brilhar, se "dependesse" do aval da grande massa de ignorantes dando-lhe o privilégio de viver conforme regras coletivistas.
 
@@ -55037,12 +55010,11 @@ Bom, desde o VS 2010 e até o VS2017 RC essa ferramenta está disponível na pas
 
 ![](debugger_remoto_do_visual_studio_2yUrl8z.png)
 
-Você até já sabe qual o caminho do sucesso: [All access to everyoooone]!!! ;)
+Você até já sabe qual o caminho do sucesso: "All access to everyoooone"!!! ;)
 
 ![](debugger_remoto_do_visual_studio_ajBG8fM.gif)
 
 [o depurador remoto do C++ Builder]: debug_remoto_no_c_builder
-[All access to everyoooone]: o_profissional
 
 # Mulher do Pai
 date: 2017-06-13
@@ -55372,13 +55344,13 @@ O curioso é que o resultado, e em especial as filmagens em 70mm, acaba inserind
 
 Para intensificar nossa identificação com seus personagens, o filme constantemente nos coloca sob seu ponto de vista, em uma câmera que os seguem, por trás (a chamada câmera subjetiva). Isso dá a real noção de como é passar carregando uma maca no meio de um corredor de centenas de soldados, ou de realizar manobras aéreas para acertar um caça inimigo acompanhando ao mesmo tempo quanto combustível resta anotado em giz no painel, ou até mesmo o sufocante momento onde um torpedo afunda um navio cheio de sobreviventes, e ao tombar o mar é visto como uma parede de água a esmagar seus tripulantes.
 
-Dunkirk tem uma imensa vantagem técnica também em seu design de som e trilha sonora. Cada tiro, explosão e cena aérea contém separadamente todos os sons que seriam possíveis ouvir em uma situação real. Dessa forma, uma guinada de um caça é sentida pelo barulho do vento no cockpit, e talvez pela primeira vez faça sentido sua poltrona no cinema tremer, ainda que um pouco. Os poucos tiros secos são sentidos em eco, e até o cair do cartucho no chão é assustador. Mas nada disso teria muita eficiência se não fosse conduzido pelas músicas de Hans Zimmer, que dessa vez não precisa se conter (como se ele se importasse...), e apesar de usar tons já marcados de seus outros trabalhos (A Origem, O Cavaleiro das Trevas), realiza aqui um momento único de introspecção. Este é um espetáculo, como eu avisei, mas é sobre mortes, sobre sangue derramado, e Zimmer tem o culhão de conduzir seus eventos de forma a potencializar as cenas com seus acordes distorcidos, ritmados e frenéticos, para na outra ponta suavizar com um certo respeito, uma certa veneração, por todas as vidas que não foram poupadas e por todo o sofrimento humano ali imortalizado.
+Dunkirk tem uma imensa vantagem técnica também em seu design de som e trilha sonora. Cada tiro, explosão e cena aérea contém separadamente todos os sons que seriam possíveis ouvir em uma situação real. Dessa forma, uma guinada de um caça é sentida pelo barulho do vento no cockpit, e talvez pela primeira vez faça sentido sua poltrona no cinema tremer, ainda que um pouco. Os poucos tiros secos são sentidos em eco, e até o cair do cartucho no chão é assustador. Mas nada disso teria muita eficiência se não fosse conduzido pelas músicas de Hans Zimmer, que dessa vez não precisa se conter (como se ele se importasse...), e apesar de usar tons já marcados de seus outros trabalhos ("A Origem", O Cavaleiro das Trevas), realiza aqui um momento único de introspecção. Este é um espetáculo, como eu avisei, mas é sobre mortes, sobre sangue derramado, e Zimmer tem o culhão de conduzir seus eventos de forma a potencializar as cenas com seus acordes distorcidos, ritmados e frenéticos, para na outra ponta suavizar com um certo respeito, uma certa veneração, por todas as vidas que não foram poupadas e por todo o sofrimento humano ali imortalizado.
 
 Junto aos aspectos técnicos temos o costumeiro editor de Nolan, Lee Smith, que consegue desorientar o espectador até o limite do aceitável para só então nos trazer de volta à ação. Os planos mais específicos, como a visão de diferentes personagens do mesmo evento, por mar, terra e ar, só ganham significado quando vemos os planos mais gerais, em uma tomada aérea que dê proporção e localização ao espectador. A competência de Lee Smith está em conseguir harmonizar esses planos com uma coerência invejável. E tudo o que vemos não poderia ser melhor fotografado por Hoyte Van Hoytema (do filme Ela), pois as cores do filme conseguem não apenas evocar o realismo, mas sugerir as fotos colorizadas daquela época, além de conseguir harmonizar cenas noturnas com o reflexo do sol no mar, que é usado em exagero, é verdade... mas, oras, que pôr-do-sol!
 
 E por falar em exageros, eles praticamente não existem nas atuações, o que pode dar a falsa impressão deste não ser um trabalho relevante dos atores, o que é uma completa injustiça com a forma econômica com que conduzem seus personagens, nenhum atraindo muita atenção para si mesmo. Enquanto Fionn Whitehead vive o soldado inglês comum, uma escolha acertada usar um ator estreante, Tom Hardy exibe seu carisma como um piloto de caça sem tentar magnetizar o espectador em torno de si, trabalhando em busca de empatia com sua situação, sozinho, sem o uso de muitas palavras. Faltam palavras também para Mark Rylance, como o civil comum a serviço do seu país, pois sua postura e expressões (é dele o melhor momento do longa), aliadas com seus comentários certeiros a respeito dos caças que sobrevoam seu barco, já dizem muito mais sobre sua persona do que qualquer diálogo expositivo. As palavras mais sagazes, portanto, ficam por conta de Kenneth Branagh como um oficial da marinha, que traduz as ordens superiores de uma maneira eloquente e sucinta.
 
-Dunkirk aos poucos se configura como o trabalho mais maduro de Christopher Nolan, que o roteiriza e dirige controlando seus excessos narrativos e sua mão pesada de Cavaleiro das Trevas e ao mesmo tempo diminuindo seus problemas em desenvolver personagens (Interestelar, A Origem) simplesmente não os utilizando para este fim. Nolan é o ímã que atrai talentos para seus projetos e os coordena em um esquema que garante momentos icônicos para o Cinema. Resta saber se a pretensão de um filme de guerra ultrarrealista que se configura como clássico irá envelhecer como um clássico. E isso só saberemos depois que sua importante mensagem sobre os resultados trágicos do fanatismo seja absorvida pela situação atual na Europa e no resto do mundo. Torçamos para que a guerra não seja vista como inevitável, mas como um alerta do passado sobre o que não fazer novamente com o mundo no futuro.
+Dunkirk aos poucos se configura como o trabalho mais maduro de Christopher Nolan, que o roteiriza e dirige controlando seus excessos narrativos e sua mão pesada de Cavaleiro das Trevas e ao mesmo tempo diminuindo seus problemas em desenvolver personagens (Interestelar, "A Origem") simplesmente não os utilizando para este fim. Nolan é o ímã que atrai talentos para seus projetos e os coordena em um esquema que garante momentos icônicos para o Cinema. Resta saber se a pretensão de um filme de guerra ultrarrealista que se configura como clássico irá envelhecer como um clássico. E isso só saberemos depois que sua importante mensagem sobre os resultados trágicos do fanatismo seja absorvida pela situação atual na Europa e no resto do mundo. Torçamos para que a guerra não seja vista como inevitável, mas como um alerta do passado sobre o que não fazer novamente com o mundo no futuro.
 
 # Rifle
 date: 2017-07-26
@@ -55981,13 +55953,13 @@ date: 2017-09-05
 slug: a_gente
 tags: cinemaqui cinema movies
 
-Um bom resumo para o inusitado "A Gente", que chega quatro anos atrasado aos cinemas, é: a história de um carcereiro competente demais para o cargo. Tão competente que virou cineasta, e aqui volta à sua antiga profissão, além de dirigir, roteirizar, filmar, montar e produzir o documentário, demonstrando (mais uma vez) a situação muitas vezes insalubre com que os agentes penitenciários trabalham, e concluindo uma trilogia pessoal do cineasta.
+Um bom resumo para o inusitado A Gente, que chega quatro anos atrasado aos cinemas, é: a história de um carcereiro competente demais para o cargo. Tão competente que virou cineasta, e aqui volta à sua antiga profissão, além de dirigir, roteirizar, filmar, montar e produzir o documentário, demonstrando (mais uma vez) a situação muitas vezes insalubre com que os agentes penitenciários trabalham, e concluindo uma trilogia pessoal do cineasta.
 
 Mas o lado interessante do longa é que essa situação insalubre não é dramatizada de forma alguma. O filme simplesmente acompanha sua rotina de inspetor Aly Muritiba (que faz ele mesmo no passado) e seus colegas de serviço (seus ex-colegas de profissão). A rotina envolve, além dos procedimentos com os presos, inúmeras reuniões com a equipe para tentar melhorar o serviço, seguido de constantes frustações. Porque convenhamos: não é o tipo de vaga que atrai os melhores profissionais.
 
 Tudo isso vai sendo contraposto com sua rotina fora da prisão. Pastor evangélico, o inspetor trabalha com a conversão e manutenção dos seus fiéis. Sua dicção cheia de vulgaridades gramaticais, vícios e redundâncias se aplica em ambas as rotinas. Ele fala que para alcançar a plenitude e a totalidade da graça de Deus é necessário abrir mão de coisas terrenas que nos impedem de atingir o sucesso. O filme pode assim ser visto também como uma longa lição a respeito do que acontece quando Deus não está disposto a ouvir.
 
-Mas este não é um filme que entrega catarses, como se poderia imaginar quando uma diretoria burocrática e facções criminosas começam a agir em torno dos presídios de São Paulo e alguns presos vão ser transferidos. "A Gente" prefere exercitar do começo ao fim a arte da frustração. As coisas nunca acontecem como deveriam acontecer e as pessoas nunca melhoram, denunciando mais a nossa incompetência cultural do que sistêmica, já que tanto faz de onde vem o descaso; seja da administração ou do quadrante de celas, todos estão envolvidos em fazer corpo mole e reclamar da vida.
+Mas este não é um filme que entrega catarses, como se poderia imaginar quando uma diretoria burocrática e facções criminosas começam a agir em torno dos presídios de São Paulo e alguns presos vão ser transferidos. A Gente prefere exercitar do começo ao fim a arte da frustração. As coisas nunca acontecem como deveriam acontecer e as pessoas nunca melhoram, denunciando mais a nossa incompetência cultural do que sistêmica, já que tanto faz de onde vem o descaso; seja da administração ou do quadrante de celas, todos estão envolvidos em fazer corpo mole e reclamar da vida.
 
 Até porque o único no filme que está indignado é seu idealizador. De corredor em corredor, de rotina em rotina, o filme não nos ensina a didática da prisão. Aprendemos por osmose, ouvindo de lado a conversa dos agentes. E o que fica não é o funcionamento das prisões, mas a situação clara da falência do seu modelo. Não há recursos para que essas pessoas exerçam seu trabalho com segurança. O colete que eles usam é risível e apenas poucos possuem o "privilégio" de fazer um curso de tiro. Sem contar que nenhum deles aparentemente anda armado ou até possui o direito de estar armado. E, convenhamos, a situação dos presídios é tão carente de recursos que talvez seja uma boa ideia não haver nenhuma arma no recinto, já que sequer há algemas o suficiente.
 
@@ -55997,7 +55969,7 @@ O que explica também a aparente falta de patrocínio na produção do filme. At
 
 E o premiado diretor/roteirista Aly Muritiba (do ótimo Para Minha Amada Morta) não apenas foi agente por sete anos como voltou a sê-lo por mais 12 meses antes de começar as filmagens para ganhar a confiança de sua antiga equipe Alpha de agentes penitenciários. Por isso é possível notar tanto envolvimento e tanta informalidade de ambos os lados das "atuações".
 
-Havia dito anteriormente que o filme é desses milagres onde tudo acontece dando certo, ainda que aqui se trate de um resultado tão realista quanto assimétrico, que flerta com a sensação de inacabado. O milagre é surgir desta profissão um cineasta competente como Muritiba, que encontra cada vez maneiras mais criativas e engenhosas de contar uma história, e aos poucos vai galgando posições relevantes no cinema nacional. Também é uma provocação inteligente, esta da vida real, que apenas depois de trabalhos com apelo mais comercial este filme chega às salas comerciais. Não chega a ser uma surpresa. Inserido em uma cultura da incompetência, é de se esperar que filmes sofram dos mesmos sintomas vistos na história de "A Gente". O trocadilho é a cereja no bolo.
+Havia dito anteriormente que o filme é desses milagres onde tudo acontece dando certo, ainda que aqui se trate de um resultado tão realista quanto assimétrico, que flerta com a sensação de inacabado. O milagre é surgir desta profissão um cineasta competente como Muritiba, que encontra cada vez maneiras mais criativas e engenhosas de contar uma história, e aos poucos vai galgando posições relevantes no cinema nacional. Também é uma provocação inteligente, esta da vida real, que apenas depois de trabalhos com apelo mais comercial este filme chega às salas comerciais. Não chega a ser uma surpresa. Inserido em uma cultura da incompetência, é de se esperar que filmes sofram dos mesmos sintomas vistos na história de A Gente. O trocadilho é a cereja no bolo.
 
 # Décimo-Quarto Encontro CCPPBR CFP (Call for Papers)
 date: 2017-09-11
@@ -56577,7 +56549,7 @@ Reassistindo a Primeira Temporada de Rick & Morty para revisar alguns pontos fil
 
 - S01E01 Rick comenta no piloto que eles não sabem o que é mais importante. Precisa de uma semente para ficar mais inteligente para fazer mais ciência. Isso meio que planta a semente da dúvida se Rick é absurdista, niilista ou simplesmente um cientista fanático.
 
-- S01E02 Episódio sobre cachorro inteligente levanta a questão de não ser errado desligar uma consciência que foi adquirida por outro ser (que poderia ser uma máquina). Também brinca com o conceito de A Origem e Fred Krueger (uma versão segura de um filme dos anos 80). E seus medos são os de um adolescente.
+- S01E02 Episódio sobre cachorro inteligente levanta a questão de não ser errado desligar uma consciência que foi adquirida por outro ser (que poderia ser uma máquina). Também brinca com o conceito de "A Origem" e Fred Krueger (uma versão segura de um filme dos anos 80). E seus medos são os de um adolescente.
 
 - S01E03 Episódio de natal é um Papai-Noel mendigo que bebeu demais. Dentro dele há um parque de anatomia, fala sob os desejos do Morty de catar a minazinha e um subplot que brinca com besteiras como auto-sacrifício. A melhor parte é sobre o espírito de natal quando Jerry descobre que o negro amigo de seus pais é amante de sua mãe, ou que sua filha tem um namorado. A explosão do papai-noel gigante em pedaços e a chuva de sangue é uma metáfora para o corpo/sangue de Cristo sendo compartilhado entre os cristãos, e como ninguém liga para os que precisam de ajuda.
 
@@ -57623,7 +57595,7 @@ O problema que o longa tenta compreender é que esse sentimento do sacrifício p
 
 O brilhantismo de Nolan, que também assina o roteiro, é não se focar muito no roteiro em si, mas na essência que ele tenta extrair. E a essência no cinema é obtida por pura direção, coisa que Nolan domina com maestria junto de sua equipe técnica. Dessa forma, direção de arte, som, trilha sonora, edição, atuações e fotografia trabalham mais ou menos como aquelas pessoas perdidas na praia. Elas dão o seu melhor individual pela excelência do resultado coletivo: uma obra de arte audiovisual que ultrapassa seu perfeccionismo técnico para atingir a máxima expressão de realismo em um documentário com cara de ficção.
 
-Coitado dos que forem ao cinema aguardar pelos intrincados jogos narrativos do diretor da trilogia da justiça do homem-morcego, da metáfora em camadas de sonhos de A Origem ou das trágicas últimas consequências da rivalidade sem limites de O Grande Truque. Nada disso irão encontrar em Dunkirk. Alguns podem dizer que a história do filme nem é tão boa. E não é, mesmo. Tentando ignorar o relógio e nos remetendo excessivamente a idas e voltas em torno de um pôr-do-sol e luar eternos, o filme carrega uma complexidade que parece ter apenas o objetivo de nos fazer esquecer da ordem dos eventos e tentar nos fazer focar no peso das ações. Isso nos faz lembrar mais ainda que não há movimento orquestrado. O caos impera como nunca, e a diferença entre viver e morrer muitas vezes é apenas a posição aleatória que uma bomba cai em um píer lotado de seres humanos. Esta é a verdadeira natureza humana, e não a sensação de ordem trazida por um roteiro mais mecânico.
+Coitado dos que forem ao cinema aguardar pelos intrincados jogos narrativos do diretor da trilogia da justiça do homem-morcego, da metáfora em camadas de sonhos de "A Origem" ou das trágicas últimas consequências da rivalidade sem limites de O Grande Truque. Nada disso irão encontrar em Dunkirk. Alguns podem dizer que a história do filme nem é tão boa. E não é, mesmo. Tentando ignorar o relógio e nos remetendo excessivamente a idas e voltas em torno de um pôr-do-sol e luar eternos, o filme carrega uma complexidade que parece ter apenas o objetivo de nos fazer esquecer da ordem dos eventos e tentar nos fazer focar no peso das ações. Isso nos faz lembrar mais ainda que não há movimento orquestrado. O caos impera como nunca, e a diferença entre viver e morrer muitas vezes é apenas a posição aleatória que uma bomba cai em um píer lotado de seres humanos. Esta é a verdadeira natureza humana, e não a sensação de ordem trazida por um roteiro mais mecânico.
 
 No entanto, há uma ordem. Ou pelo menos um tema. Isto apenas não é perceptível de imediato. A construção do filme na mente do espectador depende de sua percepção que a superação das adversidades depende basicamente da racionalidade humana em seu máximo potencial. Os soldados mais atentos se posicionam próximo da saída caso o navio afunde. O soldado francês carrega uma maca na esperança de ser resgatado mesmo não sendo inglês. O almirante abstrai vidas humanas para tentar chegar no melhor resultado a longo prazo (a guerra não é feita de apenas uma batalha). O civil, um inglês em seu próprio barco, já lutou na primeira guerra e sabe pelo som do motor distinguir caças inimigos de aliados. E o piloto aproveita ao máximo seu combustível para proteger seus companheiros.
 
@@ -57635,7 +57607,7 @@ No entanto, apenas o personagem de Tom Hardy poderia trazer também energia à e
 
 Por fim, o soldado francês de Whitehead, Tommy, não é um herói anônimo, mas um fracassado notório. A função dos britânicos também era salvar os franceses das garras do inimigo, mas aparentemente os franceses são incompetentes demais até para serem salvos. O francês de ontem é representado como o francês padrão de hoje, por um homem fraco, covarde, que não honra suas calças e permite que façam o que quiserem com sua terra. E isso não é ruim para a história, mas necessário. É da natureza humana salvar os mais fracos para o bem coletivo. O soldado francês, portanto, é a versão mais realista possível em um relato de guerra do clichê da donzela em perigo.
 
-Todas as ações em Dunkirk são momentos de tirar o fôlego. Isso porque a sua edição de som nos permite acompanhar cada evento com precisão, desde a queda de cartucho de um tiro até os motores falhando de um caça. A trilha sonora de Hanz Zimmer se encaixa como uma luva em um épico de guerra. Zimmer sempre é barulhento e pertinente e aqui ele faz o trabalho de sua vida. Sabemos que é ele pela repetição de temas anteriores (trilogia do Morcego e A Origem), mas aqui o filme praticamente implora por mais Zimmer.
+Todas as ações em Dunkirk são momentos de tirar o fôlego. Isso porque a sua edição de som nos permite acompanhar cada evento com precisão, desde a queda de cartucho de um tiro até os motores falhando de um caça. A trilha sonora de Hanz Zimmer se encaixa como uma luva em um épico de guerra. Zimmer sempre é barulhento e pertinente e aqui ele faz o trabalho de sua vida. Sabemos que é ele pela repetição de temas anteriores (trilogia do Morcego e "A Origem"), mas aqui o filme praticamente implora por mais Zimmer.
 
 Todo esse hino dramático se potencializa por um filme que exibe uma fotografia hiperrealista de Hoyte Van Hoytema (Ela). É como aquelas fotos coloridas da época (originais ou atualizadas), onde ainda se mantém a aura documental com cores não tão fortes, mas precisas, eternas. A filmagem em 70mm e a decisão de filmagens reais de caças tornou a experiência tão impressionante que fica difícil desassociar o real do imaginado. A arte imita a vida em uníssono com a atmosfera eternizada de Dunkirk.
 
@@ -61725,7 +61697,7 @@ date: 2018-08-18
 slug: brilho_eterno_de_uma_mente_sem_lembrancas
 tags: cinema movies
 
-Por que as pessoas hoje em dia estão tão ansiosas em ser felizes e se livrar rapidamente das partes ruins de um relacionamento em suas mentes? A pergunta que o roteirista Charlie Kaufman (Quero ser John Malkovich, Adaptação, Anomalisa) e seu parceiro de costume, o diretor Michel Gondry (Natureza Quase Humana, "Rebobine, por Favor", A Espuma dos Dias) fazem neste filme é: e se elas pudessem?
+Por que as pessoas hoje em dia estão tão ansiosas em ser felizes e se livrar rapidamente das partes ruins de um relacionamento em suas mentes? A pergunta que o roteirista Charlie Kaufman (Quero ser John Malkovich, Adaptação, Anomalisa) e seu parceiro de costume, o diretor Michel Gondry (Natureza Quase Humana, "Rebobine, por Favor", "A Espuma dos Dias") fazem neste filme é: e se elas pudessem?
 
 E o resultado, como dificilmente poderia ser diferente, é uma experiência visualmente inventiva com uma história ambiciosa sem ser pretensiosa. Em uma hollywood decadente, já dando sinais de ter entrado em um cataclisma vicioso com seus cada vez mais enlatados gêneros lucrativos (atualmente resumido em comédias românticas e filmes de super-heróis), Kaufman e Gondry ousam criar Cinema no melhor estilo: um roteirista e um diretor autorais buscando responder questões humanas através da sétima arte. Eles não são cineastas contratados para dirigir atores de sucesso em histórias pré-fabricadas. Eles trilham seu próprio caminho, são talentosos e merecem mais atenção dos espectadores que ainda ousam pensar sobre os filmes que assistem.
 
@@ -63694,7 +63666,7 @@ date: 2018-10-21
 slug: a_valsa_de_waldheim
 tags: cinemaqui cinema movies
 
-A Alemanha reconhece a culpa pelo movimento anti-semita da Segunda Guerra e faz de tudo para reparar este dano histórico. Eles chegam ao cúmulo de censurar em plena democracia conteúdo considerado nazista, como a biografia Minha Luta, de Adolf Hitler. Já a Áustria, como visto aqui, em "A Valsa de Waldheim", apesar de participar ativamente de práticas nazistas após anexada pelos seu vizinhos, sempre negou qualquer tipo de compensação pelos crimes de guerra relacionados aos movimentos anti-semita.
+A Alemanha reconhece a culpa pelo movimento anti-semita da Segunda Guerra e faz de tudo para reparar este dano histórico. Eles chegam ao cúmulo de censurar em plena democracia conteúdo considerado nazista, como a biografia Minha Luta, de Adolf Hitler. Já a Áustria, como visto aqui, em A Valsa de Waldheim, apesar de participar ativamente de práticas nazistas após anexada pelos seu vizinhos, sempre negou qualquer tipo de compensação pelos crimes de guerra relacionados aos movimentos anti-semita.
 
 Isso acabou gerando o efeito que os oficiais austríacos da época não responderam como criminosos e não foram julgados. Pouco mudou no pensamento austríaco até ser descoberto que o candidato mais promissor das eleições de 1986 para presidente da Áustria, o ex-secretário das Nações Unidas Kurt Waldheim, poderia ter relação com operações militares nazistas na época da guerra, incluindo o envio de dois terços da população judia da região onde residiu para os campos de concentração de Auschwitz.
 
@@ -64142,7 +64114,7 @@ Uma garota desaparece em meio à névoa. Surge um inspetor em cena e começam as
 
 Passado em uma pequena vila em um vale na Itália, e graças ao céus falado em italiano e não "dublado" no famigerado inglês (para as plateias que não gostam de legenda), o que aumenta o realismo e a coerência da história, toda a trama segue aquele fluxo que conhecemos: a mídia escavando detalhes do suposto crime, a população e a família em comoção constante e a polícia trabalhando conforme o que lhe é esperado: entregando novidades para todos em um ritmo que faça sentido.
 
-No topo dessa cadeia reside o Inspetor Agente Vogel, que nas mãos do ator Toni Servillo (A Grande Beleza) cria um sujeito que em seu início, detalhista e vestindo um casado sisudo, faz lembrar os grandes detetives da literatura, mas que aos poucos vai se transformando em um mero manipulador de informações. Marcado no passado por um caso conhecido como "O Mutilador", onde ele recolheu indícios que incriminaram um inocente que ficou quatro anos na prisão, Vogel é o cínico da pior espécie, pois é distraidamente charmoso e inabalável frente às câmeras, o que lhe dá um crédito que nós, observadores por detrás do palco, sabemos que não lhe pertence. Vogel veio de um filme noir como A Marca da Maldade turistar em um thriller que não parece muito interessado por justiça. É um match perfeito.
+No topo dessa cadeia reside o Inspetor Agente Vogel, que nas mãos do ator Toni Servillo (A Grande Beleza) cria um sujeito que em seu início, detalhista e vestindo um casado sisudo, faz lembrar os grandes detetives da literatura, mas que aos poucos vai se transformando em um mero manipulador de informações. Marcado no passado por um caso conhecido como "O Mutilador", onde ele recolheu indícios que incriminaram um inocente que ficou quatro anos na prisão, Vogel é o cínico da pior espécie, pois é distraidamente charmoso e inabalável frente às câmeras, o que lhe dá um crédito que nós, observadores por detrás do palco, sabemos que não lhe pertence. Vogel veio de um filme noir como "A Marca da Maldade" turistar em um thriller que não parece muito interessado por justiça. É um match perfeito.
 
 Isso por si só já seria um tema incrível de ser explorado em um filme: o poder da mídia como carro-mestre das investigações em vez da verdade. E de fato boa parte do filme é sobre isso, muito embora fique claro que o livro deve possuir muito mais detalhes enriquecedores de alguns personagens que são simplesmente citados de passagem, como as pontas de um admirador secreto da garota desaparecida com um passado traumático e de uma jornalista velha conhecida de Vogel e suas trocas de favores por motivos vagos que residem no passado. Mas não importa. Ciente que não é possível resumir 400 páginas em 90, o escritor Donato Carrisi entende que precisa podar as partes menos relevantes, embora mantenha a essência: o sistema é corrupto desde seu núcleo, e a justiça é um mero detalhe burocrático que pode ou não acontecer.
 
@@ -64406,7 +64378,7 @@ tags: cinema movies
 
 É impressionante a qualidade constante dessa nova trilogia. Planeta dos Macacos: A Guerra mantêm as mesmas virtudes técnicas e narrativas de seu antecessor (Planeta dos Macacos: O Confronto) e segue a mesma história do filme inicial que é o mais fraco de todos, mas se ancora na força de sua ideia e nas referências ao "Planeta dos Macacos" original (aquele com Charton Helston).
 
-Esta é uma produção que foi crescendo com o tempo. Iniciado pelo inexpressivo diretor Rupert Wyatt e elencando o fraco James Franco para o papel de mentor do primeiro macaco inteligente a se rebelar, ainda que Planeta dos Macacos A Origem tenha em sua história os elementos necessários para que toda a saga ganhe peso (como a viagem ao espaço que sabemos que irá dar errado) o filme em si carrega um pouco na questão da inteligência símia e de como ela surgiu. Por outro lado, não deixa de ser adorável observar o que os efeitos visuais com a captura de movimento e expressões tem feito para o Cinema. Andy Serkis é o mestre nessa arte desde a trilogia de O Senhor dos Anéis e aqui percebemos a franca evolução do ator e da técnica.
+Esta é uma produção que foi crescendo com o tempo. Iniciado pelo inexpressivo diretor Rupert Wyatt e elencando o fraco James Franco para o papel de mentor do primeiro macaco inteligente a se rebelar, ainda que Planeta dos Macacos "A Origem" tenha em sua história os elementos necessários para que toda a saga ganhe peso (como a viagem ao espaço que sabemos que irá dar errado) o filme em si carrega um pouco na questão da inteligência símia e de como ela surgiu. Por outro lado, não deixa de ser adorável observar o que os efeitos visuais com a captura de movimento e expressões tem feito para o Cinema. Andy Serkis é o mestre nessa arte desde a trilogia de O Senhor dos Anéis e aqui percebemos a franca evolução do ator e da técnica.
 
 Quando o diretor Matt Reeves tomou controle do resto da história ela ressurgiu como um épico denso e histórico, dando o peso merecido para a civilização dos macacos que começa surgindo rústica, mas que logo se transforma no calcanhar de aquiles da História humana. Se em "O Confronto" ela tomava contornos shakesperianos, aqui o ciclo se completa, com a participação de Woody Harrelson como o vilão à altura para César (Serkis), o líder carismático mas firme da proteção e libertação dos símios das garras humanas.
 
@@ -70428,7 +70400,7 @@ tags: cinemaqui cinema movies
 
 "Se você manter sua mente suficientemente aberta, as pessoas irão jogar um monte de lixo dentro dela." - William A. Orton, empresário do século 19
 
-Privacidade Hackeada é o título brasileiro desse documentário americano lançado pela Netflix, mas ele não tem nada a ver com privacidade e tudo a ver com inception, aquele conceito do filme A Origem onde uma ideia era implantada na cabeça de uma pessoa para que ela achasse que era sua desde o começo.
+Privacidade Hackeada é o título brasileiro desse documentário americano lançado pela Netflix, mas ele não tem nada a ver com privacidade e tudo a ver com inception, aquele conceito do filme "A Origem" onde uma ideia era implantada na cabeça de uma pessoa para que ela achasse que era sua desde o começo.
 
 E a pergunta que eu faço hoje em dia, em uma época onde as informações acumuladas da humanidade estão literalmente nas pontas dos dedos de bilhões de pessoas, é se ainda existe esse conceito de ideia original, assim como alguns defendem que exista ainda essa coisa de privacidade, já que informação inclui conhecimento sobre os outros e sobre você mesmo trafegando pela rede.
 
@@ -71723,7 +71695,7 @@ tags: lists cinema
 
 - [Alien] 1979
 
-- [A Malvada] (All About Eve) 1950
+- "A Malvada" (All About Eve) 1950
 
 - [Amadeus] 1984
 
@@ -71805,7 +71777,7 @@ tags: lists cinema
 
 - The Bride of Frankenstein 1935
 
-- [A Ponte do Rio Kwai] (The Bridge on the River Kwai) 1957
+- "A Ponte do Rio Kwai" (The Bridge on the River Kwai) 1957
 
 - Bring Me the Head of Alfredo Garcia 1974
 
@@ -71873,7 +71845,7 @@ tags: lists cinema
 
 - The Decalogue 1989
 
-- [A Partida] (Departures) 2008
+- "A Partida" (Departures) 2008
 
 - [Curva do Destino] (Detour) 1945
 
@@ -72355,7 +72327,7 @@ tags: lists cinema
 
 - Top Hat 1935
 
-- [A Marca da Maldade] (Touch of Evil) 1958
+- "A Marca da Maldade" (Touch of Evil) 1958
 
 - Touchez Pas au Grisbi 1954
 
@@ -72425,13 +72397,9 @@ tags: lists cinema
 
 [Adaptação]: adaptacao
 [Alien]: alien_o_oitavo_passageiro
-[A Malvada]: a_malvada_all_about_eve
 [Amadeus]: amadeus
 [Noivo Neurótico, Noiva Nervosa]: noivo_neurotico_noiva_nervosa
 [Se Meu Apartamento Falasse]: se_meu_apartamento_falasse
-[A Marca da Maldade]: a_marca_da_maldade
-[A Partida]: a_partida
-[A Ponte do Rio Kwai]: a_ponte_do_rio_kwai
 [A Viagem de Chihiro]: a_viagem_de_chihiro
 [Antes Só do que Mal Acompanhado]: antes_so_do_que_mal_acompanhado
 [Barry Lyndon]: barry_lyndon
@@ -72612,7 +72580,7 @@ Pedro é um enfermeiro de um hospital em uma cidade que quase nunca é vista de 
 
 Greta Garbo foi uma atriz sueca que fez enorme sucesso no cinema entre os anos 20 e 30, praticamente se aposentando prematuramente. Escolhendo péssimos projetos para trabalhar, não era incomum que a melhor coisa do filme fosse sua performance. Sua forma de atuar foi precursora do método de Marlon Brando, pois ela de fato vivia seus papéis, pois em vez de decorar falas e dizê-las mecanicamente Greta conseguia dizer muito mais com seus olhares e expressões, que não dependiam de cortes.
 
-Quem vive Pedro e seu desejo de ser Greta Garbo nada mais é que Marco Nanini, um dos gigantes da TV e cinema brasileiros, mas que atuou pela última vez em 2010, no divisor de opiniões A Suprema Felicidade, de Arnaldo Jabor. Nanini escolhe bem seus papéis, e o roteiro de Praça o conquistou, mesmo ou até por causa do seu teor sexual cru, naturalista e muitas vezes explícito. Deve ter sido a notícia mais positiva do projeto de dez anos, pois apenas Nanini para conseguir alcançar as sutilezas de uma Greta Garbo alternativa no corpo de um senhor no final de sua vida.
+Quem vive Pedro e seu desejo de ser Greta Garbo nada mais é que Marco Nanini, um dos gigantes da TV e cinema brasileiros, mas que atuou pela última vez em 2010, no divisor de opiniões "A Suprema Felicidade", de Arnaldo Jabor. Nanini escolhe bem seus papéis, e o roteiro de Praça o conquistou, mesmo ou até por causa do seu teor sexual cru, naturalista e muitas vezes explícito. Deve ter sido a notícia mais positiva do projeto de dez anos, pois apenas Nanini para conseguir alcançar as sutilezas de uma Greta Garbo alternativa no corpo de um senhor no final de sua vida.
 
 Quando o Pedro de Nanini aparece em cena o desejo é que olhemos melhor para esta figura, e o tom melancólico da película de Praça prejudica esse desejo. Filmado quase todo em lugares escuros com iluminação que gera mais sombras do que luz, esta é uma história que tenta mesclar uma certa metáfora sobre pessoas marginalizadas com o desafio íntimo de Pedro de conseguir suportar a perda da amiga e as inconstâncias de seus casos. Porém, o que ele suporta no filme para conseguir um pouco de conforto talvez fosse demais de ser visto às claras. E digo isso não pelo teor sexual, mas principalmente porque ao gostarmos de Pedro, não queremos vê-lo ser humilhado. Se for assim, que pelo menos o seja nas sombras.
 
@@ -72733,7 +72701,7 @@ Foi divulgada a lista dos filmes para a mostra desse ano. Já conheço alguns di
 
 - Ale McHaddo (filmes nessa Mostra: Osmar a Primeira Fatia do Pão de Forma) iniciou no cinema com uma animação tosquinha chamada [BugiGangue no Espaço], baseada em DVD educacional.
 
-- Aly Muritiba (filmes nessa Mostra: Irmãos Freitas) era um ex-agente penitenciário que virou diretor; é dele o sensacional [Para Minha Amada Morta] e ele volta a revisitar sua antiga profissão no ótimo [A Gente].
+- Aly Muritiba (filmes nessa Mostra: Irmãos Freitas) era um ex-agente penitenciário que virou diretor; é dele o sensacional [Para Minha Amada Morta] e ele volta a revisitar sua antiga profissão no ótimo "A Gente".
 
 - Beto Brant (filmes nessa Mostra: [O Invasor]) é o diretor de O Invasor, um filme catártico da época do renascimento do cinema brasileiro. Vale o ingresso.
 
@@ -72755,7 +72723,7 @@ Foi divulgada a lista dos filmes para a mostra desse ano. Já conheço alguns di
 
 - Julia Rezende (filmes nessa Mostra: Depois a Louca Sou Eu) dirigiu uma vergonha alheia chamada [Como é Cruel Viver Assim], um dos tantos projetos financiados pela Ancine para mostrar as injustiças do mundo, adaptado de uma peça de Fernando Ceylão.
 
-- Luc Dardenne (filmes nessa Mostra: O Jovem Ahmed) é o diretor de um drama que estuda uma personagem descobrindo sua humanidade em [A Garota Desconhecida].
+- Luc Dardenne (filmes nessa Mostra: O Jovem Ahmed) é o diretor de um drama que estuda uma personagem descobrindo sua humanidade em "A Garota Desconhecida".
 
 - Mania Akbari (filmes nessa Mostra: Uma Lua Para Meu Pai) é a atriz do filme de Abbas Kiarostami que se passa totalmente em um carro, [Dez]; na mostra um de seus filmes como diretora será exibido.
 
@@ -72771,11 +72739,8 @@ Foi divulgada a lista dos filmes para a mostra desse ano. Já conheço alguns di
 
 - Roschdy Zem (filmes nessa Mostra: Persona Non Grata) é diretor do drama histórico sobre racismo em [Chocolate].
 
-- Yorgos Lanthimos (filmes nessa Mostra: Nimic) é o diretor premiado ano passado pelo espetacular [A Favorita], e que chega com novo filme Nimic.
+- Yorgos Lanthimos (filmes nessa Mostra: Nimic) é o diretor premiado ano passado pelo espetacular "A Favorita", e que chega com novo filme Nimic.
 
-[A Favorita]: a_favorita
-[A Garota Desconhecida]: a_garota_desconhecida
-[A Gente]: a_gente
 [Bem-Vindo a Nova York]: bem_vindo_a_nova_york
 [BugiGangue no Espaço]: bugigangue_no_espaco
 [Chocolate]: chocolate
@@ -72962,7 +72927,7 @@ Todos esses traços estéticos são possíveis de serem notados sem pressa porqu
 
 A direção nem sempre coesa de Benoît Jacquot (3 Corações) também não ajuda. Jacquot não possui o menor interesse que o espectador se interesse, preferindo deixar a história fluir no automático. O problema aí é que não se trata de uma história lá muito empolgante, e fica ainda pior quando o diretor não nos mostra o caminho para fora desse labirinto de caracteríticas escolhidas a esmo.
 
-O Último Amor de Casanova possui uma virtude frente a tantos trabalhos que retratam a nobreza da época como algo mais pulsante. Ele é chato. Intragável. Em uma versão oposta de A Favorita, comédia de época empolgante do diretor grego Yorgos Lanthimos, este é um filme de época que realmente nos dá a impressão de como era fácil se entediar naqueles anos. E nem junto das aventuras de Casanova nos salvamos.
+O Último Amor de Casanova possui uma virtude frente a tantos trabalhos que retratam a nobreza da época como algo mais pulsante. Ele é chato. Intragável. Em uma versão oposta de "A Favorita", comédia de época empolgante do diretor grego Yorgos Lanthimos, este é um filme de época que realmente nos dá a impressão de como era fácil se entediar naqueles anos. E nem junto das aventuras de Casanova nos salvamos.
 
 # Você Tem a Noite
 date: 2019-10-12
@@ -74145,7 +74110,7 @@ Salvadori aproveita toda a dinâmica entre Yvonne e Antoine e a explora de manei
 
 O filme mostra ter coração com facilidade, mas para isso a ponta interpretada por Audrey Tautou é primordial. Ela faz a companheira de Antoine que repassa em sua cabeça todos os momentos perfeitos que terá depois que ele sair da cadeia. Tautou, vale dizer, realiza um trabalho dúbio em sua carreira, que oscila entre a obscuridade de um ser ou para próximo do papel que a deixou internacionalmente conhecida, a doce, meiga e tímida Amélie Poulain. Mas Salvadori a traz aqui pela segunda vez em um papel mais dramático. Em Amar Não Tem Preço ela fazia uma golpista cínica, enquanto aqui ela esbanja desilusão através de seus traços de velhice e cansaço que valorizam seu pequeno papel.
 
-Já a mais jovem e ágil Adèle Haenel, embora permaneça como a escolha acertada para personagens flexíveis ao mesmo tempo que auto-centrados, como em A Garota Desconhecida ou o mais recente Retrato de Uma Jovem em Chamas, aqui ela é desperdiçada em um filme de ação que oblitera sua capacidade de na mesma história fazer rir e chorar. Sua burocrática e moralmente flexível tenente serve apenas como suporte para manter a loucura do Antoine de Pio Marmaï em ação. É difícil capturar a essência de sua Yvonne pelos olhos de Haenel, que está em um ritmo e intensidade diferentes do elenco. E tudo isso porque Haenel sabe que terá que encontrar seu equilíbrio nas cenas finais em uma conclusão conformista e insatisfatória. O roteiro a torna refém de seu desfecho evitando que ela brilhe em sua transição.
+Já a mais jovem e ágil Adèle Haenel, embora permaneça como a escolha acertada para personagens flexíveis ao mesmo tempo que auto-centrados, como em "A Garota Desconhecida" ou o mais recente Retrato de Uma Jovem em Chamas, aqui ela é desperdiçada em um filme de ação que oblitera sua capacidade de na mesma história fazer rir e chorar. Sua burocrática e moralmente flexível tenente serve apenas como suporte para manter a loucura do Antoine de Pio Marmaï em ação. É difícil capturar a essência de sua Yvonne pelos olhos de Haenel, que está em um ritmo e intensidade diferentes do elenco. E tudo isso porque Haenel sabe que terá que encontrar seu equilíbrio nas cenas finais em uma conclusão conformista e insatisfatória. O roteiro a torna refém de seu desfecho evitando que ela brilhe em sua transição.
 
 Ela e Marmaï já haviam trabalhado em filmes anteriores, como Aliyah, e aqui exibem uma química invejável, como se pode notar na facilidade com que estabelecem uma conexão após terem se jogado no rio. Marmaï está fora de controle fazendo seu homem comum injustiçado e que agora vítima de seu período na prisão perdeu sua bússola moral e tenta compensar se tornando de fato uma pessoa agressiva e criminosa. Não é um personagem que convence, mas ele é a força que move a história, e aos pouco nos acostumamos com sua caricatura sobre as injustiças do mundo porque é divertido ver a reação da sociedade.
 
@@ -74640,7 +74605,7 @@ A lógica de A Jaqueta de Couro de Cervo é simples, direta e escalável. É daq
 
 Jean Dujardin (O Artista) vive Georges, um ser que se desconstrói no primeiro momento do filme, enfiando sua jaqueta dentro de uma privada no meio do nada e nunca olhando para trás. Mas não se engane por esse pequeno ato. Georges está relaxado e focado. Sua raiva reacionária é demonstrada de maneira econômica e pontual, e seus atos amorais são efetuados sob um véu funcional que não nos permite ignorar sua seriedade.
 
-Já Adèle Haenel, dos ótimos A Garota Desconhecida e Finalmente Livres, faz basicamente o nosso papel de espectadores, como a garçonete que só se empolga de verdade no primeiro momento selvagem de Georges que ela assiste, o que automaticamente define e acusa a desconstrução que é o Cinema, que parte de um Zé Ninguém de história ou premissa em busca de sua verdadeira identidade, na transformação do nada em algo.
+Já Adèle Haenel, dos ótimos "A Garota Desconhecida" e Finalmente Livres, faz basicamente o nosso papel de espectadores, como a garçonete que só se empolga de verdade no primeiro momento selvagem de Georges que ela assiste, o que automaticamente define e acusa a desconstrução que é o Cinema, que parte de um Zé Ninguém de história ou premissa em busca de sua verdadeira identidade, na transformação do nada em algo.
 
 Georges vive em função dessa jaqueta-título, que é o protagonista de fato, e cria um acessório humano para satisfazer os desejos mais fetichistas de nossa sociedade consumista, materialista e assassina, escolha o rótulo que quiser atacar. De brinde há um pouco de thriller e slasher, embora este não seja o principal, mas o instrumento pelo qual a discussão é posta na tela. Enquanto isso Adèle vive a persona mais fascinante, pela sua atuação mais sincera e com menos maneirismos, além de nos entregar um retrato honesto de uma personagem de filme francês. Pelo pouco tempo de tela disponível para a atriz ela nos entrega mais presença que Georges, pois compreende que para este filme tresloucado de Quentin Dupieux é primordial que a câmera esteja invisível.
 
@@ -75315,7 +75280,7 @@ A francesa era esposa de um brasileiro, filho de uma mãe que escapou do país h
 
 Este é um filme antiestablishment, da turma "tem que mudar tudo isso aí" contra os "tem que manter tudo isso aí". Eu já nem sei quem é quem nessa dicotomia dilacerante que nasce nos porões de Brasília e chega como mais um meme de alarme para os tiozinhos de zapzap conseguirem se informar. A única coisa que eu sei é que este é um filme anti-establishment. E por que eu sei disso? Porque ele mostra garotas nuas, de peito de fora, sendo coagidas a se cobrirem pelo pudor e bons costumes. E é anti justamente porque não se vê muitas garotas nuas pelas praias de Recife. Se você vir, me avise.
 
-Porém, o pudor do seu diretor (Tatuagem) e roteirista (A Febre do Rato), Hilton Lacerda, aumenta bastante quando ele aponta sua câmera para o corpo masculino. Vai entender. Essa é uma das razões pelo qual a nudez precisa ter o seu motivo justificado nos filmes. E nesse caso a explicação é que esta é uma nudez política, feminista. Quando as mulheres são coagidas a se cobrir os homens a imitam, pois "estão juntos nessa luta". É tão clichê em 2020 que chega a doer os olhos ao ver essa cena.
+Porém, o pudor do seu diretor (Tatuagem) e roteirista ("A Febre do Rato"), Hilton Lacerda, aumenta bastante quando ele aponta sua câmera para o corpo masculino. Vai entender. Essa é uma das razões pelo qual a nudez precisa ter o seu motivo justificado nos filmes. E nesse caso a explicação é que esta é uma nudez política, feminista. Quando as mulheres são coagidas a se cobrir os homens a imitam, pois "estão juntos nessa luta". É tão clichê em 2020 que chega a doer os olhos ao ver essa cena.
 
 Melhor acompanhar Wanderlei. Pelo menos este quase xará fala minha língua, com a sua quase descrença na humanidade. É compreensível que jovens sarados possuam pautas sociais mais descoladas, com seus discursos prontos como a letra da música dos Titãs (Comida). Mas é inadmissível que homens adultos continuem se comportando como meninos. É por isso que Wanderlei já não tem mais esperança no futuro e se concentra na única fonte de curiosidade que lhe resta: investigar crimes violentos.
 
@@ -81734,7 +81699,7 @@ tags: cinema movies
 
 Nolan finalmente nos entrega uma bomba. Uma bomba confusa e que não dá os cliques necessários para o espectador continuar na jornada e se interessar pelos personagens. No lugar um plot completamente entregue às brincadeiras pseudo-científicas que lembram as que o diretor usou em Interestelar. Mas seu sci-fi anterior pelo menos possuía temas promissores que encantam pelas rimas com o mundo contemporâneo. Em Tenet é tudo sobre a brincadeira e nada sobre o fator humano.
 
-Mas não podemos pedir humanidade de um diretor obcecado pelos jogos visuais intrincados de seus trabalhos intelectualmente mais apaixonantes, como A Origem ou O Grande Truque. A virtude desses trabalhos anteriores estava no gancho com dramas pessoais dos personagens. Aqui não temos esse luxo e tudo se perde em passarmos o filme inteiro tentando entender a lógica intrínseca desse universo, não dando tempo para nos interessarmos nos seres humanos do filme, que viram dispositivos meramente funcionais e vazios de significado.
+Mas não podemos pedir humanidade de um diretor obcecado pelos jogos visuais intrincados de seus trabalhos intelectualmente mais apaixonantes, como "A Origem" ou O Grande Truque. A virtude desses trabalhos anteriores estava no gancho com dramas pessoais dos personagens. Aqui não temos esse luxo e tudo se perde em passarmos o filme inteiro tentando entender a lógica intrínseca desse universo, não dando tempo para nos interessarmos nos seres humanos do filme, que viram dispositivos meramente funcionais e vazios de significado.
 
 O "Protagonista", cujo nome nunca sabemos,  é John David Washington, cuja força de presença é desperdiçada junto de outro ator de peso, Robert Pattinson, que quase nos entrega uma pessoa em quem se espelhar. Ambos estão em uma operação que irá salvar o mundo presente das mãos dos arquitetos do futuro. O que as próximas gerações desejam de nós? Isso é óbvio, mas é entregue em uma fala discreta que talvez você nem perceba.
 
@@ -85090,7 +85055,7 @@ Você já sabe a história: ditador em final de carreira, todos aguardando seu f
 date: 2022-07-24
 tags: cinemaqui cinema movies
 
-Este novo Persuasão, do último livro publicado de Jane Austen no começo do século 19, é uma adaptação fiel? Não exatamente. No entanto, possui em seu início um pouco daquela esperteza contagiante de A Favorita e empresta bastante (até demais) do estilo da série inovadora Fleabag, em especial por conta da narrativa indireta da obra literária. Mas não é difícil se entreter com diálogos austenianos, mesmo fora de contexto, pois seu espírito de análise da natureza humana e de seus relacionamentos nunca envelhece. Pelo contrário: amadurece.
+Este novo Persuasão, do último livro publicado de Jane Austen no começo do século 19, é uma adaptação fiel? Não exatamente. No entanto, possui em seu início um pouco daquela esperteza contagiante de "A Favorita" e empresta bastante (até demais) do estilo da série inovadora Fleabag, em especial por conta da narrativa indireta da obra literária. Mas não é difícil se entreter com diálogos austenianos, mesmo fora de contexto, pois seu espírito de análise da natureza humana e de seus relacionamentos nunca envelhece. Pelo contrário: amadurece.
 
 Porém, focado em ser moderno e inclusivo, Persuasão é carregado pelas virtudes do universo de Austen enquanto é ancorado pelas diferenças das historietas imaginadas pela autora clássica. Se fôssemos traçar um paralelo com nossa literatura, é como se o protagonista de Dom Casmurro fosse reencarnado como um digital influencer, e houvesse todas essas questões sociais (que são um tédio) para abordar. Além disso saber se Capitu o traiu... quer dizer, isso nem é mais é da conta dele, certo?
 
@@ -85871,7 +85836,7 @@ tags: cinemaqui cinema movies
 
 Encontros é um abraço de "oi, sumido" em um mundo pós-apocalíptico. E por apocalipse eu quero dizer a pandemia que varreu as relações humanas para debaixo do tapete. Agora é a hora da reconstrução.
 
-O rápido filme em quatro atos do diretor coreano Hong Sang-soo (A Câmera de Claire) comenta em um melancólico e burocrático preto e branco reencontros entre amigos, amantes, família e profissionais. Todos após longo hiato. Há mudanças de expectativa o tempo todo na história. Inclusive troca de papéis no meio de uma sequência.
+O rápido filme em quatro atos do diretor coreano Hong Sang-soo ("A Câmera de Claire") comenta em um melancólico e burocrático preto e branco reencontros entre amigos, amantes, família e profissionais. Todos após longo hiato. Há mudanças de expectativa o tempo todo na história. Inclusive troca de papéis no meio de uma sequência.
 
 Para fazer um carinho no caos iminente nas relações que tateiam o território do outro com cautela os diálogos são simples a ponto de serem esquecidos no meio da cena.
 
@@ -86345,7 +86310,7 @@ Anna Muylaert dispensa apresentações. Diretora de [Que Horas Ela Volta?], que 
 
 Antonio Carlos da Fontoura dirige o [Somos Tão Jovens], pedaço biográfico da história do cantor Renato Russo, e insiste em burocratizar a história com cortes episódicos entre ação e músicas, e evita polemizar demais em torno do temperamento explosivo do protagonista.
 
-Arnaldo Jabor foi o diretor que me fez pensar que filmes não precisam fazer sentido ou deixar de serem apelões para conseguirem nos encantar. [A Suprema Felicidade], seu último trabalho, caminha por essas beiradas de tentar ser novela histórica e ainda relevante. Mesmo com todos seus defeitos narrativos, A Suprema Felicidade poderia muito bem ter sido uma Baarìa nacional, representando no Rio de Janeiro o coração de todos os habitantes do Brasil.
+Arnaldo Jabor foi o diretor que me fez pensar que filmes não precisam fazer sentido ou deixar de serem apelões para conseguirem nos encantar. "A Suprema Felicidade", seu último trabalho, caminha por essas beiradas de tentar ser novela histórica e ainda relevante. Mesmo com todos seus defeitos narrativos, A Suprema Felicidade poderia muito bem ter sido uma Baarìa nacional, representando no Rio de Janeiro o coração de todos os habitantes do Brasil.
 
 Carlos Saura também dispensa apresentações. Seu documentário musical [Argentina] é primoroso e seu clássico [Cria Corvos] vai ficar para sempre em nossa imaginação sobre a época da ditadura. E ele está nessa mostra.
 
@@ -86369,7 +86334,7 @@ Farkhat Sharipov é um diretor proeminente do Cazaquistão e estreia nessa mostr
 
 Gero Camilo não conseguiu soltar seu [Os Pobres Diabos] a tempo no cinema. Quatro anos entre a estreia em Brasília e chegar nos cinemas comerciais. E o filme é uma merda colossal. Acho que você precisa ter paciência se quiser explorar próximos trabalhos desse diretor.
 
-Hong Sang-soo é um diretor focado nas relações humanas do cotidiano, e sem muita lógica na narrativa em si. Em [A Câmera de Claire] os acontecimentos lembram muito a vida real, onde a mecânica não apenas se reflete, como simplesmente é. Já em [Encontros], último filme, há um quê de "oi sumido" nas relações pós-pandemia curioso, mas insosso.
+Hong Sang-soo é um diretor focado nas relações humanas do cotidiano, e sem muita lógica na narrativa em si. Em "A Câmera de Claire" os acontecimentos lembram muito a vida real, onde a mecânica não apenas se reflete, como simplesmente é. Já em [Encontros], último filme, há um quê de "oi sumido" nas relações pós-pandemia curioso, mas insosso.
 
 Isabel Coixet dirigiu a versão feminina de Dança com Lobos, o [Ninguém Deseja a Noite], com Juliette Binoche e aquela menina, Kumiko, do [Caçadora de Tesouros], em que ela busca o tesouro escondido do filme [Fargo], dos irmãos Coen. Que mistureba, não?
 
@@ -86387,9 +86352,9 @@ Marco Bellocchio é o diretor italiano dos exageros, como se essas duas express�
 
 Mia Hansen-Løve gosta de brincadeiras metalinguísticas, como em [O Pai dos Meus Filhos], onde flerta com o nosso próprio sentido de narrativa. De maneira covarde, mas flerta.
 
-Quentin Dupieux pode ser uma surpresa nessa mostra. O último filme que vi dele, [A Jaqueta de Couro de Cervo], é um soco na mente dos cinéfilos. Assistimos nossa própria incompreensão de quando começa o fascínio por uma história de cinema.
+Quentin Dupieux pode ser uma surpresa nessa mostra. O último filme que vi dele, "A Jaqueta de Couro de Cervo", é um soco na mente dos cinéfilos. Assistimos nossa própria incompreensão de quando começa o fascínio por uma história de cinema.
 
-Ruth Beckermann eu já vi em mostras recentes. Seu [A Valsa de Waldheim] é uma investigação que torna fascinante observar as engrenagens do poder girando de ambos os lados. Já seu [Mutzenbacher] é sobre um clássico da literatura pornográfica austríaca que envolve pedofilia e abuso de menor. E a virtude de Beckermann no projeto é reunir em um mesmo set todo tipo de homem que ela pudesse encontrar para falar a respeito.
+Ruth Beckermann eu já vi em mostras recentes. Seu "A Valsa de Waldheim" é uma investigação que torna fascinante observar as engrenagens do poder girando de ambos os lados. Já seu [Mutzenbacher] é sobre um clássico da literatura pornográfica austríaca que envolve pedofilia e abuso de menor. E a virtude de Beckermann no projeto é reunir em um mesmo set todo tipo de homem que ela pudesse encontrar para falar a respeito.
 
 A atriz Sabrina Greve, mais acostumada a personagens dramáticos, criou em [Onde Quer Que Você Esteja] a personagem Zélia, que virou um respiro do novo muito bem-vindo, pois sua dedicação ao humor da personagem, sob o controle dos diretores, manteve o interesse do espectador em uma história trivial em torno de tantos temas pesados. Agora Greve está na direção em um dos filmes da mostra.
 
@@ -86399,11 +86364,11 @@ Sérgio Tréfaut transforma o romance [Raiva] de uma ficção para outra: a fami
 
 Terence Davies é o nome por trás da adaptação cinematográfica de [Além das Palavras], biografia da poetisa norte-americana Emily Dickinson. Uma biografia exagerada, mas apaixonante, intensa e, sobretudo, didática. Seria ele capaz de mais?
 
-Tiago Afonso dirige [A Causa e a Sombra], filme sobre pessoas torturadas que se torna ruim por causa de ideologia. Quando um diretor consegue segurar suas opiniões para si mesmo é quando ele consegue criar algo mais complexo que um textão no Facebook. Torçamos para Afonso se segurar em suas próximas obras, pois este é um diretor competente em conseguir trazer uma narrativa com fluidez em uma história contada aos poucos por cada um dos envolvidos.
+Tiago Afonso dirige "A Causa e a Sombra", filme sobre pessoas torturadas que se torna ruim por causa de ideologia. Quando um diretor consegue segurar suas opiniões para si mesmo é quando ele consegue criar algo mais complexo que um textão no Facebook. Torçamos para Afonso se segurar em suas próximas obras, pois este é um diretor competente em conseguir trazer uma narrativa com fluidez em uma história contada aos poucos por cada um dos envolvidos.
 
 Tiago Guedes é um diretor português já conhecido. Ele passa nessa mostra com um thriller dramático mais que interessante: [Restos do Vento]. Assisti na cabine de imprensa antes de iniciar o festival e posso dizer, algumas cabines já passadas, que continua ainda na minha memória. Anote o nome.
 
-Valentin Merz é o responsável por [À Noite Todos os Gatos São Pardos], um filme metalinguagem em que ele coloca seu elenco em câmera lenta em movimentos sensuais ao som de músicas italianas da década de 70. Quem não gosta disso?
+Valentin Merz é o responsável por "À Noite Todos os Gatos São Pardos", um filme metalinguagem em que ele coloca seu elenco em câmera lenta em movimentos sensuais ao som de músicas italianas da década de 70. Quem não gosta disso?
 
 Zeca Brito documentou [A Vida Extra-Ordinária de Tarso de Castro], uma figura da época em que os jornalistas faziam jornalismo. Investigativo, inclusive. Teci alguns elogios a esta obra quando fui na cabine. É dele também [Legalidade], um trabalho já mais torto, que apela para o há muito tempo esquecido patriotismo na remota época dos anos 60, de onde se fala ainda muito, mas pouco se conhece. Tem Cleo Pires no elenco. É um diretor que vale a pena ficar de olho, seja pelo seu nome ser um trocadilho engraçado ou por esses dois filmes citados. Quem sabe surge um terceiro com mais concisão?
 
@@ -86415,7 +86380,6 @@ Zeca Brito documentou [A Vida Extra-Ordinária de Tarso de Castro], uma figura d
 [Computer Chess]: computer_chess
 [Que Horas Ela Volta?]: que_horas_ela_volta
 [Somos Tão Jovens]: somos_tao_jovens
-[A Suprema Felicidade]: a_suprema_felicidade
 [Argentina]: argentina
 [Cria Corvos]: cria_corvos
 [Ninguém Tá Olhando]: ninguem_ta_olhando
@@ -86430,7 +86394,6 @@ Zeca Brito documentou [A Vida Extra-Ordinária de Tarso de Castro], uma figura d
 [Scheme]: scheme
 [Domingo]: domingo
 [Os Pobres Diabos]: os_pobres_diabos
-[A Câmera de Claire]: a_camera_de_claire
 [Encontros]: encontros
 [Ninguém Deseja a Noite]: ninguem_deseja_a_noite
 [Caçadora de Tesouros]: kumiko_a_cacadora_de_tesouros
@@ -86447,17 +86410,13 @@ Zeca Brito documentou [A Vida Extra-Ordinária de Tarso de Castro], uma figura d
 [Belos Sonhos]: belos_sonhos
 [Irmãs, Jamais]: irmas_jamais
 [O Pai dos Meus Filhos]: o_pai_dos_meus_filhos
-[A Jaqueta de Couro de Cervo]: a_jaqueta_de_couro_de_cervo
-[A Valsa de Waldheim]: a_valsa_de_waldheim
 [Mutzenbacher]: mutzenbacher
 [Onde Quer Que Você Esteja]: onde_quer_que_voce_esteja
 [Cidade Baixa]: cidade_baixa
 [Raiva]: raiva
 [O Farol]: o_farol
 [Além das Palavras]: alem_das_palavras
-[A Causa e a Sombra]: a_causa_e_a_sombra
 [Restos do Vento]: restos_do_vento
-[À Noite Todos os Gatos São Pardos]: a_noite_todos_os_gatos_sao_pardos
 [A Vida Extra-Ordinária de Tarso de Castro]: a_vida_extra_ordinaria_de_tarso_de_castro
 [Legalidade]: legalidade
 
@@ -92950,9 +92909,7 @@ No final eles ficam com as garotas e Napoleão se diverte nos toboáguas de Wate
 date: 2023-09-23
 tags: music
 
-Por falar em enlaces, uma experiência muito boa aconteceu hoje no centro de cultura japonesa em Bunkyo, na Liberdade. O trio de cordas da professora de violino e mais seus amigos apresentaram uma viagem de uma hora por tempos e estilos. Somos levados a apreciar o contraste entre um Villa Lobos, alguns compositores europeus, o John Williams do Japão, criador das trilhas de filmes do Miyasaki e o filme [A Partida], além de criações de músico paulista e uma adaptação muito boa de um forró clássico. O apresentador está de parabéns em explicar cada nova peça, além do funcionamento dos instrumentos de corda. O mercado Hirota está de parabéns em servir seus salgados na entrada, incluindo um pão de queijo bem honesto, salgadinho.
-
-[A Partida]: a_partida
+Por falar em enlaces, uma experiência muito boa aconteceu hoje no centro de cultura japonesa em Bunkyo, na Liberdade. O trio de cordas da professora de violino e mais seus amigos apresentaram uma viagem de uma hora por tempos e estilos. Somos levados a apreciar o contraste entre um Villa Lobos, alguns compositores europeus, o John Williams do Japão, criador das trilhas de filmes do Miyasaki e o filme "A Partida", além de criações de músico paulista e uma adaptação muito boa de um forró clássico. O apresentador está de parabéns em explicar cada nova peça, além do funcionamento dos instrumentos de corda. O mercado Hirota está de parabéns em servir seus salgados na entrada, incluindo um pão de queijo bem honesto, salgadinho.
 
 # Tomo-chan is a girl!
 date: 2023-09-23
@@ -93313,7 +93270,7 @@ O diretor Mark Waters dinamiza a narrativa de um jeito muito sutil, escalando as
 
 E por falar no roteiro, ele precisa ser elogiado de novo. Seus personagens são de carne e osso e não precisam fazer discurso inclusivo como nos filmes de hoje (que são um porre). Mostre-os e você os entenderá. Terá até mais empatia que uma cartilha social falante.
 
-Eu não esperava que houvesse espaço neste gênero para um arco a la A Malvada, mas ele existe. Cady é a novata que escala a esfera de poder como a versão feminina e colegial de um Corleone recém-chegado ao continente americano. E assim como Robert de Niro que fiz na referência ao filme de Coppola, ela não tem medo de cometer as mesmas maldades que lhe feriram. Desde, é claro, que consiga ficar com o gato que estava azarando.
+Eu não esperava que houvesse espaço neste gênero para um arco a la "A Malvada", mas ele existe. Cady é a novata que escala a esfera de poder como a versão feminina e colegial de um Corleone recém-chegado ao continente americano. E assim como Robert de Niro que fiz na referência ao filme de Coppola, ela não tem medo de cometer as mesmas maldades que lhe feriram. Desde, é claro, que consiga ficar com o gato que estava azarando.
 
 Se é fácil traçar paralelos de clássicos com este filme adolescente é porque ele se leva a sério. Não é apenas um trabalho comercial. Ele é dotado de alma, que fala sobre este universo das bolhas juvenis e a moeda sempre vigente da beleza física e dos mandamentos do bom gosto. Não é tão diverso quanto hoje, mas suas lições servem para outras gerações. E este é, junto de Eleição (Alexander Payne), um dos Cidadão Kane do colégio, leve, didático e divertido.
 
@@ -93356,15 +93313,15 @@ Ou o sempre atordoado ou atordoante Manoel de Oliveira, de [Singularidades de um
 
 Haverá clássicos como Wim Wenders, do experimento 3D bem-sucedido [Pina] e o amável [O Céu de Lisboa], que assisti em Poços de Caldas no meio da pandemia levando o tocador de DVD.
 
-Michel Gondry explorando sempre sua [Natureza Quase Humana]. Gondry também já dirigiu a atriz de Amélie Poulain no adorável [A Espuma dos Dias] e Jim Carrey com Kate Winslet no absolutamente admirável [Brilho Eterno de uma Mente Sem Lembranças].
+Michel Gondry explorando sempre sua [Natureza Quase Humana]. Gondry também já dirigiu a atriz de Amélie Poulain no adorável "A Espuma dos Dias" e Jim Carrey com Kate Winslet no absolutamente admirável [Brilho Eterno de uma Mente Sem Lembranças].
 
-O documentarista James Marsh, do clássico [O Equilibrista] e Project Nim, além de filmes bleh como [A Teoria de Tudo].
+O documentarista James Marsh, do clássico [O Equilibrista] e Project Nim, além de filmes bleh como "A Teoria de Tudo".
 
 Craig Gillespie, que dirigiu aquele filme que [Ryan Gosling namora uma boneca inflável], além de dirigir Margot Robbie em seu melhor trabalho, [Eu, Tonya].
 
 Benoît Jacquot, do imersivo drama [Três Corações] e do médio [O Último Amor de Casanova].
 
-Dziga Vertov, ou o russo [Com uma Câmera na Mão], ou até mesmo [A História da Guerra Civil], filme soviético do partido (é claro).
+Dziga Vertov, ou o russo [Com uma Câmera na Mão], ou até mesmo "A História da Guerra Civil", filme soviético do partido (é claro).
 
 Tomasz Wasilewski, de [Estados Unidos Pelo Amor] (sinceramente não me lembro muito desse filme).
 
@@ -93374,7 +93331,7 @@ Rosemberg Cariry, que tirou dinheiro do governo para filmar [Os Pobres Diabos].
 
 Alice Rohrwacher, a diretora de um dos melhores filmes daquele ano, [Lazzaro Felice].
 
-Quentin Dupieux e seu filme tresloucado [A Jaqueta de Couro de Cervo].
+Quentin Dupieux e seu filme tresloucado "A Jaqueta de Couro de Cervo".
 
 Denis Côté do fraco [Antologia da Cidade Fantasma] e do duvidoso [Higiene Social].
 
@@ -93382,17 +93339,12 @@ Bertrand Bonello e seu [Zombi Child], um dos últimos filmes que vi antes da pan
 
 Nuri Bilge Ceylan dirigiu seu ótimo filme [Era uma Vez na Anatolia] com o DVD que tem uma entrevista de verdade sobre cinema.
 
-Hong Sang-soo, diretor coreano de experimentos leves e confusos, como [A Câmera de Claire] e o pós-pandemia [Encontros].
+Hong Sang-soo, diretor coreano de experimentos leves e confusos, como "A Câmera de Claire" e o pós-pandemia [Encontros].
 
 Tiago Guedes, diretor português que ano passado passou na Mostra com o seu intenso [Restos do Vento].
 
 Dos clássicos, ainda tem retrospectiva Michelangelo Antonioni. Se você é cinéfilo e está por Sampa, perder a mostra é uma judiação.
 
-[A Câmera de Claire]: a_camera_de_claire
-[A Espuma dos Dias]: a_espuma_dos_dias
-[A História da Guerra Civil]: a_história_da_guerra_civil
-[A Jaqueta de Couro de Cervo]: a_jaqueta_de_couro_de_cervo
-[A Teoria de Tudo]: a_teoria_de_tudo
 [Antologia da Cidade Fantasma]: antologia_da_cidade_fantasma
 [Brilho Eterno de uma Mente Sem Lembranças]: brilho_eterno_de_uma_mente_sem_lembrancas
 [Com uma Câmera na Mão]: man_with_a_movie_camera
@@ -95344,7 +95296,7 @@ In this book I've tried to present a relentlessly rational approach to weight co
 date: 2024-04-27
 tags: cinema movies
 
-No começo é estranho. O filme é estranho. Essa música forçosamente melancólica com um toque de Hitchcock e o uso de câmera lenta tornam algumas cenas piegas e lembra Zack Snyder. Mas continue, vale a pena. Adentramos em um mundo novo, cuja parte que eu mais gosto é que não é explicado. Nessa sociedade você precisa estar casado. Esta é a lei. Quando ele se divorcia porque a mulher encontra alguém que usa lentes de contatos (ambos usam óculos, imagino) ele parte para um hotel que tem o projeto de em 45 dias conseguir uma nova parceira. Ou isso ou a punição: ser transformado em um animal de sua preferência. Tudo é sua escolha. Essa é uma parte legal também do enredo. Todos aceitam o funcionamento, mas ele sempre como uma face Winston de "1984 (o filme)", de que ou isso ou a morte. Se trata de uma adaptação literária e a melhor sacada é a narração em off que usa como desculpa um caderninho de anotações de uma personagem que se tornará chave. O filme começa forçado e da metade para o final ganha novos contornos. Ele fica melhor, diferente da imensa maioria dos filmes. Seu ritmo permite pensarmos em casa cena em vez do filme explicar o que devemos pensar. E a história pode dizer muitas coisas, mas não ousa apontar para nada. São apenas sugestões. Um parceiro que te mataria para sobreviver pode ser uma escolha instintiva, mas após a decisão de puxar o gatilho, mesmo que não mate sua amada, mata a relação. Todos buscam algo em comum com o parceiro, mas precisa ser algo muito forte ou natural, que ambos não possam mudar. Este filme fala de muitas coisas apesar de ser sobre uma visão estranha sobre relacionamentos. Quase infantil. Mas entendemos a piscada de olhos. O roteiro possui diálogos que não são naturais. Essas pessoas são robotizadas. O elenco está hipnotizado em seus papeis e mantém um tom difícil de ser visto no cinema. Todos estão exatamente no esforço necessário para que a história se mantenha coesa. Seus personagens afirmam em uníssono que universo é este que habitam. É difícil saber se alguém de fora dele conseguiria decidir o que fazer. Nem isso o filme nos entrega. No final a trilha melodramática cumpre sua função. Um terceiro ato filosófico. O filme é dirigido pelo mesmo cara de A Favorita, outro filme exemplar em sua temperatura constante. O autor propõe um mergulho profundo em um mundo ligeiramente diferente do nosso e nos faz pensar em coisas além do cotidiano. É diferente demais para comparação com o mundo real, e é isso o que torna o filme tão belo. É um verdadeiro escape. Não precisa pensar demais. É uma sensação.
+No começo é estranho. O filme é estranho. Essa música forçosamente melancólica com um toque de Hitchcock e o uso de câmera lenta tornam algumas cenas piegas e lembra Zack Snyder. Mas continue, vale a pena. Adentramos em um mundo novo, cuja parte que eu mais gosto é que não é explicado. Nessa sociedade você precisa estar casado. Esta é a lei. Quando ele se divorcia porque a mulher encontra alguém que usa lentes de contatos (ambos usam óculos, imagino) ele parte para um hotel que tem o projeto de em 45 dias conseguir uma nova parceira. Ou isso ou a punição: ser transformado em um animal de sua preferência. Tudo é sua escolha. Essa é uma parte legal também do enredo. Todos aceitam o funcionamento, mas ele sempre como uma face Winston de "1984 (o filme)", de que ou isso ou a morte. Se trata de uma adaptação literária e a melhor sacada é a narração em off que usa como desculpa um caderninho de anotações de uma personagem que se tornará chave. O filme começa forçado e da metade para o final ganha novos contornos. Ele fica melhor, diferente da imensa maioria dos filmes. Seu ritmo permite pensarmos em casa cena em vez do filme explicar o que devemos pensar. E a história pode dizer muitas coisas, mas não ousa apontar para nada. São apenas sugestões. Um parceiro que te mataria para sobreviver pode ser uma escolha instintiva, mas após a decisão de puxar o gatilho, mesmo que não mate sua amada, mata a relação. Todos buscam algo em comum com o parceiro, mas precisa ser algo muito forte ou natural, que ambos não possam mudar. Este filme fala de muitas coisas apesar de ser sobre uma visão estranha sobre relacionamentos. Quase infantil. Mas entendemos a piscada de olhos. O roteiro possui diálogos que não são naturais. Essas pessoas são robotizadas. O elenco está hipnotizado em seus papeis e mantém um tom difícil de ser visto no cinema. Todos estão exatamente no esforço necessário para que a história se mantenha coesa. Seus personagens afirmam em uníssono que universo é este que habitam. É difícil saber se alguém de fora dele conseguiria decidir o que fazer. Nem isso o filme nos entrega. No final a trilha melodramática cumpre sua função. Um terceiro ato filosófico. O filme é dirigido pelo mesmo cara de "A Favorita", outro filme exemplar em sua temperatura constante. O autor propõe um mergulho profundo em um mundo ligeiramente diferente do nosso e nos faz pensar em coisas além do cotidiano. É diferente demais para comparação com o mundo real, e é isso o que torna o filme tão belo. É um verdadeiro escape. Não precisa pensar demais. É uma sensação.
 
 # Ursinho Pooh: Sangue e Mel 2
 date: 2024-04-27
